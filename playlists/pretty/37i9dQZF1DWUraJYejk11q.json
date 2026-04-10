@@ -1,6 +1,6 @@
 {
   "description": "Instrumental bliss beyond genre classification.",
-  "num_followers": 468828,
+  "num_followers": 468848,
   "original_name": "Genre Glitch",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,22 @@
   },
   "snapshot_id": "AAAAAM+Fbx8SdcY0q9kbRv680nAnF6wl",
   "tracks": [
+    {
+      "added_at": "2024-07-09 07:05:10",
+      "album": {
+        "name": "I Hear You",
+        "url": "https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 221666,
+      "name": "Purple Horizon",
+      "url": "https://open.spotify.com/track/2W3QmPhnMnjUqgYBdG7HsT"
+    },
     {
       "added_at": "2024-05-08 03:37:26",
       "album": {
@@ -27,22 +43,6 @@
       "duration_ms": 236628,
       "name": "CHROMA 003 Bi83",
       "url": "https://open.spotify.com/track/0cBrTgUeXg8oAEfKTlZAP6"
-    },
-    {
-      "added_at": "2024-07-09 07:05:10",
-      "album": {
-        "name": "I Hear You",
-        "url": "https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 221666,
-      "name": "Purple Horizon",
-      "url": "https://open.spotify.com/track/2W3QmPhnMnjUqgYBdG7HsT"
     },
     {
       "added_at": "2024-04-15 18:24:33",

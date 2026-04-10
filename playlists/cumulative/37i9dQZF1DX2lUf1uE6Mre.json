@@ -1195,6 +1195,28 @@
     },
     {
       "album": {
+        "name": "Bend Over 2",
+        "url": "https://open.spotify.com/album/74xSrHtoKbfwUx6flF0GjA"
+      },
+      "artists": [
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        },
+        {
+          "name": "Sosa La M",
+          "url": "https://open.spotify.com/artist/6bM6rpwjhvxuKSQ2OJ2eQC"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131428,
+      "name": "Bend Over 2",
+      "url": "https://open.spotify.com/track/0xdCOXFgnKNBFmhVGyDJjl"
+    },
+    {
+      "album": {
         "name": "Amo aller Amos",
         "url": "https://open.spotify.com/album/65hxxHs6vhOoQnzQe2eefr"
       },
@@ -1578,7 +1600,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 145023,
       "name": "BOTTEGA",
       "url": "https://open.spotify.com/track/3cmfbLQkCBkyAxVNlApBsP"
@@ -2165,6 +2187,24 @@
     },
     {
       "album": {
+        "name": "Coupe",
+        "url": "https://open.spotify.com/album/5pkv8faeJtfbAxTE7zqSK1"
+      },
+      "artists": [
+        {
+          "name": "Coldyaa",
+          "url": "https://open.spotify.com/artist/0cNwa2pvmurQR8ayUirAVW"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97482,
+      "name": "Coupe",
+      "url": "https://open.spotify.com/track/6cW9a8zfRF4t7hVcW5PFCo"
+    },
+    {
+      "album": {
         "name": "Criminale",
         "url": "https://open.spotify.com/album/0JJkDnJUk7KIZExS9WJZtu"
       },
@@ -2592,6 +2632,24 @@
       "duration_ms": 147743,
       "name": "Do You Love Me",
       "url": "https://open.spotify.com/track/3K8o02PbcMEZcBx238e1Q1"
+    },
+    {
+      "album": {
+        "name": "DON JULIO",
+        "url": "https://open.spotify.com/album/4eJJm1XGRiFkVkcxI4nkgP"
+      },
+      "artists": [
+        {
+          "name": "ilo 7araga",
+          "url": "https://open.spotify.com/artist/6yljBnmcExcQrkUMJOhgga"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113707,
+      "name": "DON JULIO",
+      "url": "https://open.spotify.com/track/6COPeJMS0eoG89hpIqeAKZ"
     },
     {
       "album": {
@@ -3032,7 +3090,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 176077,
       "name": "FABRIZIO ROMANO",
       "url": "https://open.spotify.com/track/1kTb0z5lNHCmDVhG5bBHfd"
@@ -3084,6 +3142,24 @@
       "duration_ms": 145793,
       "name": "Farbenblind",
       "url": "https://open.spotify.com/track/6jnslZYy0L9PUx41LhY2rS"
+    },
+    {
+      "album": {
+        "name": "Fashion Killa",
+        "url": "https://open.spotify.com/album/6BVxAzp75T4l3Mwn97vjNg"
+      },
+      "artists": [
+        {
+          "name": "Ceren",
+          "url": "https://open.spotify.com/artist/6sgeY4vovk7KfxVwiu2V9E"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132112,
+      "name": "Fashion Killa",
+      "url": "https://open.spotify.com/track/4bGE5BdC6qUND3OMhp1dt0"
     },
     {
       "album": {
@@ -5188,7 +5264,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 177720,
       "name": "MACH PAPIER",
       "url": "https://open.spotify.com/track/6mw8MqgwlGq7eHMSDE0ab5"
@@ -5280,7 +5356,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 142153,
       "name": "Marbella",
       "url": "https://open.spotify.com/track/3kUkQYLPgw2aqBMcilZ4kt"
@@ -5298,7 +5374,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-31",
+      "date_removed": null,
       "duration_ms": 108569,
       "name": "MAYBACH TRUCK",
       "url": "https://open.spotify.com/track/3i9job2A83v6yQ0zQEkZQT"
@@ -6170,7 +6246,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-31",
+      "date_removed": null,
       "duration_ms": 206053,
       "name": "NuR Du :/",
       "url": "https://open.spotify.com/track/3DYJ9tHSIhZqCVT8l5QAd0"
@@ -6370,7 +6446,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 162222,
       "name": "OYE!",
       "url": "https://open.spotify.com/track/3dWUicD478ooh65glDd3OJ"
@@ -6652,6 +6728,24 @@
       "duration_ms": 153406,
       "name": "Phantom",
       "url": "https://open.spotify.com/track/5rn9vfJYZasysVpGfg1uhb"
+    },
+    {
+      "album": {
+        "name": "PIANO REEZ (SRT)",
+        "url": "https://open.spotify.com/album/4DwlD841aeDpBPFZwMTN5J"
+      },
+      "artists": [
+        {
+          "name": "reezy",
+          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147721,
+      "name": "PIANO REEZ (SRT)",
+      "url": "https://open.spotify.com/track/1VQrgjJAcMg7tUwsw0N88n"
     },
     {
       "album": {
@@ -8356,7 +8450,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 252831,
       "name": "TRAPPER'S LULLABY",
       "url": "https://open.spotify.com/track/11zZDUazgO4zMrW03q2fWo"
@@ -9182,7 +9276,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 129749,
       "name": "WHINE (BADALADA)",
       "url": "https://open.spotify.com/track/7fjov4E4FQSn92fqndntfa"

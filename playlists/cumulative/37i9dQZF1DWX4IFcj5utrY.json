@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best dance hits in Africa. Cover: Makhadzi",
+  "description": "The best dance hits in Africa. Cover: GoldFish",
   "name": "mint Africa",
   "tracks": [
     {
@@ -2888,7 +2888,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 313220,
       "name": "Awukwazi (feat. Dlala Thukzin)",
       "url": "https://open.spotify.com/track/2GRQKhpmLc2gAwpNg2Vzmg"
@@ -3090,6 +3090,36 @@
       "duration_ms": 362750,
       "name": "Baba Mongameli (feat. ZaneeMusiq)",
       "url": "https://open.spotify.com/track/3Q7GlE4v6csFmp2jDYY9gs"
+    },
+    {
+      "album": {
+        "name": "Baba Yilwa",
+        "url": "https://open.spotify.com/album/7l0wDdT3ohzkWE9WncimvS"
+      },
+      "artists": [
+        {
+          "name": "DJ Zinhle",
+          "url": "https://open.spotify.com/artist/4z9NtIRj7d5cohzOjprqxW"
+        },
+        {
+          "name": "DJ Lace",
+          "url": "https://open.spotify.com/artist/6AmSiS6uXD734FEQmoRAMx"
+        },
+        {
+          "name": "FunkTone",
+          "url": "https://open.spotify.com/artist/5e20FnH1vyHXZId8SMW4H8"
+        },
+        {
+          "name": "Thobani White",
+          "url": "https://open.spotify.com/artist/49u46uLKW37rLZJDS06Rrg"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292897,
+      "name": "Baba Yilwa",
+      "url": "https://open.spotify.com/track/7CbWbPUUmRYBI0uio0Bc7L"
     },
     {
       "album": {
@@ -5676,7 +5706,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 180983,
       "name": "Casa Bap - Radio Edit",
       "url": "https://open.spotify.com/track/0VFQ008chHbU1BZCfaPTZ3"
@@ -9044,6 +9074,44 @@
       "duration_ms": 350322,
       "name": "FarJen",
       "url": "https://open.spotify.com/track/5yU6Bn60UZwbe1l70bm6y9"
+    },
+    {
+      "album": {
+        "name": "Fast Fast (feat. Roscosteazy, Optimist Music ZA & JussGigi)",
+        "url": "https://open.spotify.com/album/136L7ESLmk1MiWPDmFaKOS"
+      },
+      "artists": [
+        {
+          "name": "031CHOPPA",
+          "url": "https://open.spotify.com/artist/5CqbErFqBV89u0gqQfH3ks"
+        },
+        {
+          "name": "Al Xapo",
+          "url": "https://open.spotify.com/artist/6dmpoGpCKPEdy7R3XSEA7y"
+        },
+        {
+          "name": "Benzoo",
+          "url": "https://open.spotify.com/artist/4v7teU7vW1QTe4GPPCSLD3"
+        },
+        {
+          "name": "Roscosteazy",
+          "url": "https://open.spotify.com/artist/2xPX3QiyVHdhcEF2RAxMHV"
+        },
+        {
+          "name": "Optimist Music ZA",
+          "url": "https://open.spotify.com/artist/69FMBSIEqfCYBg5xqWdDQV"
+        },
+        {
+          "name": "JussGigi",
+          "url": "https://open.spotify.com/artist/5HmJrGcnKIJZyJdpyezdmv"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Fast Fast (feat. Roscosteazy, Optimist Music ZA & JussGigi)",
+      "url": "https://open.spotify.com/track/4djmPQfj9hWl2mnUSApYSU"
     },
     {
       "album": {
@@ -12690,7 +12758,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 405858,
       "name": "Ibhanoyi",
       "url": "https://open.spotify.com/track/1gz06GQbeRFMdskKWFgAoI"
@@ -14450,7 +14518,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 183050,
       "name": "Jabata",
       "url": "https://open.spotify.com/track/5O7BvzsPGsYmWQ905Jmqtz"
@@ -14660,6 +14728,44 @@
       "duration_ms": 440330,
       "name": "Jewels",
       "url": "https://open.spotify.com/track/2u36IdOtMZsEY1yCjKvz0B"
+    },
+    {
+      "album": {
+        "name": "Jumanji (feat. Jepedoh, Mvelo Makhanya & Ms. Cosmo)",
+        "url": "https://open.spotify.com/album/6r3u9yRSkynlj9hA5fgrlM"
+      },
+      "artists": [
+        {
+          "name": "Omagoqa",
+          "url": "https://open.spotify.com/artist/4caV3BYVSNygGiFFOvQgUy"
+        },
+        {
+          "name": "Sizwe Alakine",
+          "url": "https://open.spotify.com/artist/7Hb7ZlUE4ByWsV1Rkc4Uo2"
+        },
+        {
+          "name": "K.Keed",
+          "url": "https://open.spotify.com/artist/6vQfwusCjTLgxy5uW20T3e"
+        },
+        {
+          "name": "Jepedoh",
+          "url": "https://open.spotify.com/artist/7dTIcdK3UCwuYaWlom4bjZ"
+        },
+        {
+          "name": "Mvelo Makhanya",
+          "url": "https://open.spotify.com/artist/52QcRVIgTbU7EFREa4Dh88"
+        },
+        {
+          "name": "Ms. Cosmo",
+          "url": "https://open.spotify.com/artist/1yGg3EWGfbhHJJ7WcIpR0Q"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379459,
+      "name": "Jumanji (feat. Jepedoh, Mvelo Makhanya & Ms. Cosmo)",
+      "url": "https://open.spotify.com/track/55DoLG7yL2cVJHbhINkJ99"
     },
     {
       "album": {
@@ -15184,7 +15290,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 459661,
       "name": "Khetha",
       "url": "https://open.spotify.com/track/55Ksyvd4sNgRarIlq1u9r6"
@@ -16705,6 +16811,28 @@
     },
     {
       "album": {
+        "name": "Little Wonder",
+        "url": "https://open.spotify.com/album/0yabTK8SYmRDrnf6IbXKJb"
+      },
+      "artists": [
+        {
+          "name": "GoldFish",
+          "url": "https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7"
+        },
+        {
+          "name": "Zolani Mahola",
+          "url": "https://open.spotify.com/artist/6jxoWZAKOFQ91TKHIJbjaC"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172195,
+      "name": "Little Wonder",
+      "url": "https://open.spotify.com/track/6kWfYsZq6tdNcSAJE4MfTv"
+    },
+    {
+      "album": {
         "name": "Litunga",
         "url": "https://open.spotify.com/album/65BJmbbMF0zaTfIofehxLI"
       },
@@ -18043,6 +18171,36 @@
     },
     {
       "album": {
+        "name": "Mark Zuckerberg (feat. Slyzza Rsa)",
+        "url": "https://open.spotify.com/album/5sXKmGAemtZ1kuAbdeJdEB"
+      },
+      "artists": [
+        {
+          "name": "Mulest Vankay",
+          "url": "https://open.spotify.com/artist/3xqiosg5nLMwVd8w3lO5li"
+        },
+        {
+          "name": "Pcee",
+          "url": "https://open.spotify.com/artist/22Bl1QCNEZvpqVwRPYscE4"
+        },
+        {
+          "name": "Scotts Maphuma",
+          "url": "https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS"
+        },
+        {
+          "name": "Slyzza Rsa",
+          "url": "https://open.spotify.com/artist/61w0RQ0wzRDoEocR0IR4v2"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 441830,
+      "name": "Mark Zuckerberg (feat. Slyzza Rsa)",
+      "url": "https://open.spotify.com/track/1lrAlFWcmIyDEo3a0VvPYo"
+    },
+    {
+      "album": {
         "name": "Marrabenta (P\u00e9s Pretos) [Kid Fonque Remix]",
         "url": "https://open.spotify.com/album/4wS6LyZ1szHKvc8ta40ZWE"
       },
@@ -18482,6 +18640,36 @@
       "duration_ms": 241983,
       "name": "Memeza - Radio Edit",
       "url": "https://open.spotify.com/track/1Z53ugoPTZOlgLHDHS1BK7"
+    },
+    {
+      "album": {
+        "name": "Menateng",
+        "url": "https://open.spotify.com/album/5I9KMvfU3wk68buY2mW1eI"
+      },
+      "artists": [
+        {
+          "name": "Tribby wadi bhozza",
+          "url": "https://open.spotify.com/artist/1oSGEqStrxauOi4Gmf8jcQ"
+        },
+        {
+          "name": "Patron West",
+          "url": "https://open.spotify.com/artist/70Zc2oM3FPifdzRMZcNMVU"
+        },
+        {
+          "name": "GallarBass",
+          "url": "https://open.spotify.com/artist/05KhbEJ08rxFG9JmhHhTEx"
+        },
+        {
+          "name": "Stellenbosch",
+          "url": "https://open.spotify.com/artist/0NQPFQRtZ843VzckhKitjJ"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286746,
+      "name": "Menateng",
+      "url": "https://open.spotify.com/track/33VBPN1d16L7yQXohXm20M"
     },
     {
       "album": {
@@ -20079,6 +20267,32 @@
     },
     {
       "album": {
+        "name": "Need To Know (feat. Ric Hassani)",
+        "url": "https://open.spotify.com/album/5bY5FliMhXnOy63Qyu0wog"
+      },
+      "artists": [
+        {
+          "name": "joki",
+          "url": "https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D"
+        },
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "Ric Hassani",
+          "url": "https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166779,
+      "name": "Need To Know (feat. Ric Hassani)",
+      "url": "https://open.spotify.com/track/7L6sjDbfVvmUp28dVUkev5"
+    },
+    {
+      "album": {
         "name": "Neptune",
         "url": "https://open.spotify.com/album/2809BaRhP5l0haI5ZkPxb0"
       },
@@ -20578,7 +20792,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 406536,
       "name": "Ngisize",
       "url": "https://open.spotify.com/track/6JPfOYc8a8whAFhjEMNwdA"
@@ -21672,7 +21886,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 336000,
       "name": "One Minute",
       "url": "https://open.spotify.com/track/7g2wLprl84orzlGI6ndqj7"
@@ -23276,7 +23490,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 377915,
       "name": "RAMBO",
       "url": "https://open.spotify.com/track/5IHrB3vHTeDIu8yjWjgT5y"
@@ -33608,6 +33822,36 @@
       "duration_ms": 273098,
       "name": "ZENZELE (feat. Royal MusiQ, Uncool MC, Xduppy, & CowBoii)",
       "url": "https://open.spotify.com/track/4foPE26gCg9uNJKTV8Mi4C"
+    },
+    {
+      "album": {
+        "name": "ZEP (feat. Uncool MC)",
+        "url": "https://open.spotify.com/album/6hmdlLccKNe9ORX8ZhXO39"
+      },
+      "artists": [
+        {
+          "name": "Dj Smallz",
+          "url": "https://open.spotify.com/artist/4TvbQDO2cOQqr9oCKHaGTM"
+        },
+        {
+          "name": "ZinedinexSguche",
+          "url": "https://open.spotify.com/artist/3p375AB4ZQn1HKupXuDCCX"
+        },
+        {
+          "name": "031CHOPPA",
+          "url": "https://open.spotify.com/artist/5CqbErFqBV89u0gqQfH3ks"
+        },
+        {
+          "name": "Uncool MC",
+          "url": "https://open.spotify.com/artist/6t3c6bpXVLzQGiKf00urM1"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308241,
+      "name": "ZEP (feat. Uncool MC)",
+      "url": "https://open.spotify.com/track/1K0sOGQSOUflAyPPRBhTax"
     },
     {
       "album": {

@@ -527,6 +527,38 @@
     {
       "added_at": "2025-10-09 12:00:33",
       "album": {
+        "name": "re:imaGined (\u201cGB\u201d deluxe version)",
+        "url": "https://open.spotify.com/album/78ugKiEPOPq1taDCRjT8p3"
+      },
+      "artists": [
+        {
+          "name": "GUrbane",
+          "url": "https://open.spotify.com/artist/5SdxHHfstcRfGIxOw1ghSN"
+        }
+      ],
+      "duration_ms": 190344,
+      "name": "traplock",
+      "url": "https://open.spotify.com/track/5qpJGttNQHtVTbF6dCXz0W"
+    },
+    {
+      "added_at": "2025-10-09 12:00:33",
+      "album": {
+        "name": "SOS/City",
+        "url": "https://open.spotify.com/album/1rB2mWO7wLu2GY4eZsRMRw"
+      },
+      "artists": [
+        {
+          "name": "NGHI",
+          "url": "https://open.spotify.com/artist/2TDL6ZO5XzjAnzrSK1Cipe"
+        }
+      ],
+      "duration_ms": 220023,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/39G4yRRwHxOHKp6t7fdiqG"
+    },
+    {
+      "added_at": "2025-10-09 12:00:33",
+      "album": {
         "name": "Anh N\u00f3i Hay Em N\u00f3i (TCO Remake)",
         "url": "https://open.spotify.com/album/7ynVqpnNPuQtBOSCARjYnf"
       },
@@ -547,18 +579,18 @@
     {
       "added_at": "2025-10-09 12:00:33",
       "album": {
-        "name": "SOS/City",
-        "url": "https://open.spotify.com/album/1rB2mWO7wLu2GY4eZsRMRw"
+        "name": "Bu\u1ed9c V\u00e0o C\u01a1n Gi\u00f3",
+        "url": "https://open.spotify.com/album/4basKSUKBplqhy2mMEzK6L"
       },
       "artists": [
         {
-          "name": "NGHI",
-          "url": "https://open.spotify.com/artist/2TDL6ZO5XzjAnzrSK1Cipe"
+          "name": "Vy Vy",
+          "url": "https://open.spotify.com/artist/6H2gXTxEeGqSwsgWCIZs4j"
         }
       ],
-      "duration_ms": 220023,
-      "name": "SOS",
-      "url": "https://open.spotify.com/track/39G4yRRwHxOHKp6t7fdiqG"
+      "duration_ms": 248076,
+      "name": "Tan Ca",
+      "url": "https://open.spotify.com/track/6wiZj290wIL3afV18Q0Yet"
     },
     {
       "added_at": "2025-10-09 12:00:33",
@@ -583,22 +615,6 @@
     {
       "added_at": "2025-10-09 12:00:33",
       "album": {
-        "name": "Bu\u1ed9c V\u00e0o C\u01a1n Gi\u00f3",
-        "url": "https://open.spotify.com/album/4basKSUKBplqhy2mMEzK6L"
-      },
-      "artists": [
-        {
-          "name": "Vy Vy",
-          "url": "https://open.spotify.com/artist/6H2gXTxEeGqSwsgWCIZs4j"
-        }
-      ],
-      "duration_ms": 248076,
-      "name": "Tan Ca",
-      "url": "https://open.spotify.com/track/6wiZj290wIL3afV18Q0Yet"
-    },
-    {
-      "added_at": "2025-10-09 12:00:33",
-      "album": {
         "name": "re:imaGined (\u201cGB\u201d deluxe version)",
         "url": "https://open.spotify.com/album/78ugKiEPOPq1taDCRjT8p3"
       },
@@ -608,9 +624,9 @@
           "url": "https://open.spotify.com/artist/5SdxHHfstcRfGIxOw1ghSN"
         }
       ],
-      "duration_ms": 190344,
-      "name": "traplock",
-      "url": "https://open.spotify.com/track/5qpJGttNQHtVTbF6dCXz0W"
+      "duration_ms": 141383,
+      "name": "sweet savage",
+      "url": "https://open.spotify.com/track/7FVZZ092GLjaU2NGvP72ie"
     },
     {
       "added_at": "2025-10-09 12:00:33",
@@ -647,26 +663,6 @@
     {
       "added_at": "2025-10-09 12:00:33",
       "album": {
-        "name": "Leo Th\u0103ng",
-        "url": "https://open.spotify.com/album/50qdwg6GoEAZpWDCmIJcBN"
-      },
-      "artists": [
-        {
-          "name": "Teddie J",
-          "url": "https://open.spotify.com/artist/5L6kiKUKCDWxCg3gOKDEMk"
-        },
-        {
-          "name": "TIA",
-          "url": "https://open.spotify.com/artist/6LrBtADUmDoLlcTrg448Qt"
-        }
-      ],
-      "duration_ms": 163200,
-      "name": "Leo Th\u0103ng",
-      "url": "https://open.spotify.com/track/0lL8WwEu7WGPDTQ7GP5IxR"
-    },
-    {
-      "added_at": "2025-10-09 12:00:33",
-      "album": {
         "name": "FASHION RAPPER",
         "url": "https://open.spotify.com/album/2YQqegcepgvng3OTOC9XaW"
       },
@@ -691,8 +687,28 @@
     {
       "added_at": "2025-10-09 12:00:33",
       "album": {
-        "name": "re:imaGined (\u201cGB\u201d deluxe version)",
-        "url": "https://open.spotify.com/album/78ugKiEPOPq1taDCRjT8p3"
+        "name": "Leo Th\u0103ng",
+        "url": "https://open.spotify.com/album/50qdwg6GoEAZpWDCmIJcBN"
+      },
+      "artists": [
+        {
+          "name": "Teddie J",
+          "url": "https://open.spotify.com/artist/5L6kiKUKCDWxCg3gOKDEMk"
+        },
+        {
+          "name": "TIA",
+          "url": "https://open.spotify.com/artist/6LrBtADUmDoLlcTrg448Qt"
+        }
+      ],
+      "duration_ms": 163200,
+      "name": "Leo Th\u0103ng",
+      "url": "https://open.spotify.com/track/0lL8WwEu7WGPDTQ7GP5IxR"
+    },
+    {
+      "added_at": "2025-10-09 12:00:33",
+      "album": {
+        "name": "Gentle Bad",
+        "url": "https://open.spotify.com/album/1JIhbbT2XAp39t33rHMs3y"
       },
       "artists": [
         {
@@ -700,9 +716,9 @@
           "url": "https://open.spotify.com/artist/5SdxHHfstcRfGIxOw1ghSN"
         }
       ],
-      "duration_ms": 141383,
-      "name": "sweet savage",
-      "url": "https://open.spotify.com/track/7FVZZ092GLjaU2NGvP72ie"
+      "duration_ms": 178285,
+      "name": "Da Key",
+      "url": "https://open.spotify.com/track/1w1zYOYYyX45UMnn0LMHdI"
     },
     {
       "added_at": "2025-10-09 12:00:33",
@@ -739,6 +755,22 @@
     {
       "added_at": "2025-10-09 12:00:33",
       "album": {
+        "name": "ANH B\u1edc VAI",
+        "url": "https://open.spotify.com/album/6GpNEurteQ3B3x1gY1HD2z"
+      },
+      "artists": [
+        {
+          "name": "V\u01af\u01a0NG B\u00ccNH",
+          "url": "https://open.spotify.com/artist/351mBX7BjjI2plbfozIzqb"
+        }
+      ],
+      "duration_ms": 298561,
+      "name": "100 < 1",
+      "url": "https://open.spotify.com/track/6kwUpCpzod4ZV5FT02SjYU"
+    },
+    {
+      "added_at": "2025-10-09 12:00:33",
+      "album": {
         "name": "Hanoi 12AM (Prod. by Maiki, Hallowed)",
         "url": "https://open.spotify.com/album/5mDCuDFwhlhKlmUBILSoRZ"
       },
@@ -759,38 +791,6 @@
     {
       "added_at": "2025-10-09 12:00:33",
       "album": {
-        "name": "ANH B\u1edc VAI",
-        "url": "https://open.spotify.com/album/6GpNEurteQ3B3x1gY1HD2z"
-      },
-      "artists": [
-        {
-          "name": "V\u01af\u01a0NG B\u00ccNH",
-          "url": "https://open.spotify.com/artist/351mBX7BjjI2plbfozIzqb"
-        }
-      ],
-      "duration_ms": 298561,
-      "name": "100 < 1",
-      "url": "https://open.spotify.com/track/6kwUpCpzod4ZV5FT02SjYU"
-    },
-    {
-      "added_at": "2025-10-09 12:00:33",
-      "album": {
-        "name": "Gentle Bad",
-        "url": "https://open.spotify.com/album/1JIhbbT2XAp39t33rHMs3y"
-      },
-      "artists": [
-        {
-          "name": "GUrbane",
-          "url": "https://open.spotify.com/artist/5SdxHHfstcRfGIxOw1ghSN"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "Da Key",
-      "url": "https://open.spotify.com/track/1w1zYOYYyX45UMnn0LMHdI"
-    },
-    {
-      "added_at": "2025-10-09 12:00:33",
-      "album": {
         "name": "B\u00e0i H\u00e1t Hay Nh\u1ea5t - Big Song Big Deal (T\u1eadp 18)",
         "url": "https://open.spotify.com/album/4CgePAYAxf7QmlJqPS5kor"
       },
@@ -803,58 +803,6 @@
       "duration_ms": 247800,
       "name": "B\u1ed3ng B\u1ec1nh B\u1ed3ng B\u1ec1nh",
       "url": "https://open.spotify.com/track/22zJA0YrEtlklcbU8jXTVr"
-    },
-    {
-      "added_at": "2025-10-09 12:00:33",
-      "album": {
-        "name": "ch\u01a1i tr\u00f2 y\u00eau",
-        "url": "https://open.spotify.com/album/5ojdqidRsbjusXhT3oEir2"
-      },
-      "artists": [
-        {
-          "name": "m t\u00fa",
-          "url": "https://open.spotify.com/artist/7a6FvNRlbkR8oBXKIHUGr6"
-        }
-      ],
-      "duration_ms": 153541,
-      "name": "\u00fam ba la x\u00ec b\u00f9a",
-      "url": "https://open.spotify.com/track/2E9esf0fueLdAc0c1m64a6"
-    },
-    {
-      "added_at": "2025-10-09 12:00:33",
-      "album": {
-        "name": "Normal Day",
-        "url": "https://open.spotify.com/album/2G6EwsdS3RsXmpTP4sjajk"
-      },
-      "artists": [
-        {
-          "name": "Teddie J",
-          "url": "https://open.spotify.com/artist/5L6kiKUKCDWxCg3gOKDEMk"
-        },
-        {
-          "name": "Mon D\u01b0\u01a1ng",
-          "url": "https://open.spotify.com/artist/4JUvycEAovQNosslTeQ2tS"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Normal Day",
-      "url": "https://open.spotify.com/track/3jLeGUZkKriqfiddJmrH5Z"
-    },
-    {
-      "added_at": "2025-10-09 12:00:33",
-      "album": {
-        "name": "Thua Ng\u01b0\u1eddi Ta",
-        "url": "https://open.spotify.com/album/3SFXrBYmq1KiykPeasXh1L"
-      },
-      "artists": [
-        {
-          "name": "V\u01af\u01a0NG B\u00ccNH",
-          "url": "https://open.spotify.com/artist/351mBX7BjjI2plbfozIzqb"
-        }
-      ],
-      "duration_ms": 194814,
-      "name": "Thua Ng\u01b0\u1eddi Ta",
-      "url": "https://open.spotify.com/track/0jtKXWSesIai271sQT6VBC"
     },
     {
       "added_at": "2025-10-09 12:00:33",
@@ -879,6 +827,58 @@
     {
       "added_at": "2025-10-09 12:00:33",
       "album": {
+        "name": "ch\u01a1i tr\u00f2 y\u00eau",
+        "url": "https://open.spotify.com/album/5ojdqidRsbjusXhT3oEir2"
+      },
+      "artists": [
+        {
+          "name": "m t\u00fa",
+          "url": "https://open.spotify.com/artist/7a6FvNRlbkR8oBXKIHUGr6"
+        }
+      ],
+      "duration_ms": 153541,
+      "name": "\u00fam ba la x\u00ec b\u00f9a",
+      "url": "https://open.spotify.com/track/2E9esf0fueLdAc0c1m64a6"
+    },
+    {
+      "added_at": "2025-10-09 12:00:33",
+      "album": {
+        "name": "Thua Ng\u01b0\u1eddi Ta",
+        "url": "https://open.spotify.com/album/3SFXrBYmq1KiykPeasXh1L"
+      },
+      "artists": [
+        {
+          "name": "V\u01af\u01a0NG B\u00ccNH",
+          "url": "https://open.spotify.com/artist/351mBX7BjjI2plbfozIzqb"
+        }
+      ],
+      "duration_ms": 194814,
+      "name": "Thua Ng\u01b0\u1eddi Ta",
+      "url": "https://open.spotify.com/track/0jtKXWSesIai271sQT6VBC"
+    },
+    {
+      "added_at": "2025-10-09 12:00:33",
+      "album": {
+        "name": "Normal Day",
+        "url": "https://open.spotify.com/album/2G6EwsdS3RsXmpTP4sjajk"
+      },
+      "artists": [
+        {
+          "name": "Teddie J",
+          "url": "https://open.spotify.com/artist/5L6kiKUKCDWxCg3gOKDEMk"
+        },
+        {
+          "name": "Mon D\u01b0\u01a1ng",
+          "url": "https://open.spotify.com/artist/4JUvycEAovQNosslTeQ2tS"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Normal Day",
+      "url": "https://open.spotify.com/track/3jLeGUZkKriqfiddJmrH5Z"
+    },
+    {
+      "added_at": "2025-10-09 12:00:33",
+      "album": {
         "name": "m\u01a1",
         "url": "https://open.spotify.com/album/5uuAgeZeoZmEIYxg6LTvZM"
       },
@@ -895,6 +895,22 @@
     {
       "added_at": "2025-10-09 12:00:33",
       "album": {
+        "name": "Si\u00eau Tr\u1ed9m Kid - The EP",
+        "url": "https://open.spotify.com/album/6usk9OKVtyVMq6yd16tM8v"
+      },
+      "artists": [
+        {
+          "name": "SIXTYUPTOWN",
+          "url": "https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay"
+        }
+      ],
+      "duration_ms": 157888,
+      "name": "UPTOWNINTRO",
+      "url": "https://open.spotify.com/track/6sg0BSU861E6o7QP3N3B8o"
+    },
+    {
+      "added_at": "2025-10-09 12:00:33",
+      "album": {
         "name": "Tr\u00f4i Boy",
         "url": "https://open.spotify.com/album/2U81kSbTmfAYcPyfifD7EN"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 192882,
       "name": "Tr\u00f4i Boy",
       "url": "https://open.spotify.com/track/7rCFJQaXCrDUsFwjjAuTwf"
-    },
-    {
-      "added_at": "2025-10-09 12:00:33",
-      "album": {
-        "name": "Gentle Bad",
-        "url": "https://open.spotify.com/album/1JIhbbT2XAp39t33rHMs3y"
-      },
-      "artists": [
-        {
-          "name": "GUrbane",
-          "url": "https://open.spotify.com/artist/5SdxHHfstcRfGIxOw1ghSN"
-        }
-      ],
-      "duration_ms": 236363,
-      "name": "Gentle Bad",
-      "url": "https://open.spotify.com/track/2P7pzfouGemFllA5fYzNug"
     }
   ],
   "unique_name": "RADAR Vietnam",

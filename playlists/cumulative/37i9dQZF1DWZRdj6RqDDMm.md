@@ -4,7 +4,7 @@
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: Sal Ly
 
-638 songs - 1 day 11 hr 36 min
+640 songs - 1 day 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Bigger](https://open.spotify.com/track/1kV7EtGG52g3BsqzkLHZVy) | [Wiffi Drips](https://open.spotify.com/artist/0t33ew007YWe1ufwvV1yX7), [Monaze](https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG), [Nuelzo](https://open.spotify.com/artist/6CPuXxiR9CqQ0d2irmAlnR) | [Bigger](https://open.spotify.com/album/2At2AXk7Zt0AdAElt4GTM1) | 2:12 | 2025-05-30 | 2025-07-11 |
 | [Bless The Lord God](https://open.spotify.com/track/7IC9RDqJA5K4e74eryXKed) | [CHINEMEREM](https://open.spotify.com/artist/1kW6NzBKO0fVW3VEfgF00v), [I\-fee Sound](https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP) | [Bless The Lord God](https://open.spotify.com/album/0o8qrBWrp9NDbXYebV7cLA) | 4:05 | 2024-11-22 | 2025-01-10 |
 | [Blessed Assurance](https://open.spotify.com/track/37OLhQWWM8dWaYDs0GItih) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Tianney](https://open.spotify.com/artist/72wmDDFZa4ll8WjCtmbV5Y) | [Blessed Assurance](https://open.spotify.com/album/0wUF4IL8w0covkEUfJiVMG) | 2:38 | 2025-10-10 | 2025-11-28 |
+| [Blessings](https://open.spotify.com/track/743GrDayR7NqApoGFPe7at) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [Still Blessed Music](https://open.spotify.com/artist/3QLVocBmoPCZGWar970isd) | [Blessings](https://open.spotify.com/album/7cmF4JVVdnsaLEcqKPCR5U) | 2:14 | 2026-04-10 |  |
 | [Blood of Jesus](https://open.spotify.com/track/3ZcF9YVstzIGgpZvm1hUo3) | [Reon Rae](https://open.spotify.com/artist/2uZRhmcvow9AsAe6ECGbp8) | [Blood of Jesus](https://open.spotify.com/album/6GrVWY7Fdrgrot9cEg41KS) | 2:32 | 2024-09-06 | 2024-11-08 |
 | [Bloom](https://open.spotify.com/track/0lq87pzRyXPQnE4GaTGazc) | [Phrv](https://open.spotify.com/artist/3VDmwdOKUkkNK5hrKv8ucq), [Nomza](https://open.spotify.com/artist/0ebNqGJ09joqyFiemZyLpx) | [Bloom](https://open.spotify.com/album/6Pwg65o6AsbMtJz8mrbXpW) | 3:02 | 2025-05-16 | 2025-08-09 |
 | [Blow me away](https://open.spotify.com/track/7679B3hcZ7qukOrf8rozS9) | [meakén](https://open.spotify.com/artist/4quM0Q6pIwIuKPVWgYEDNY), [Emandiong](https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs) | [Blow me away](https://open.spotify.com/album/4YltuZ5d7wg1A7fvJmUoaJ) | 2:32 | 2024-11-15 | 2025-01-10 |
@@ -495,6 +496,7 @@
 | [Sau Dari](https://open.spotify.com/track/1RsaOCrxfp53UDmuvcj025) | [Mr Yels](https://open.spotify.com/artist/6NpdLK2Iz3GsyZiz9Ur0Pr), [David Jones David](https://open.spotify.com/artist/32aoqiqeUQo0SYPWRdwGg9) | [Sau Dari](https://open.spotify.com/album/0h29g6O0QKZsvXfVPnGa6N) | 1:10 | 2023-10-20 | 2024-01-12 |
 | [SAVE ME](https://open.spotify.com/track/52421Cu6PvzoXcg9FRP27k) | [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC), [Nashbi](https://open.spotify.com/artist/73mUf7Xm41sGYVWOMSt9qZ) | [SAVE ME](https://open.spotify.com/album/1boDiAtone3s8PH7kv6eqo) | 3:23 | 2024-05-03 | 2024-08-09 |
 | [Saves Me](https://open.spotify.com/track/5JZrrE7Azlre5rNugfZ8xg) | [Uchenna](https://open.spotify.com/artist/6Ly48tkmucK1GwvTdjXAjC) | [Saves Me](https://open.spotify.com/album/4nWlOdwnZoXuT9xUlMhG1r) | 2:42 | 2024-10-18 | 2024-11-08 |
+| [Savior](https://open.spotify.com/track/3Aj2VPE6lCiEmI97HNkQsx) | [Kachi Annuncia](https://open.spotify.com/artist/1BX5LtwtToqHi5kRICFlYf) | [Savior](https://open.spotify.com/album/6lVdRPoAW3zsTLnzIaPcEg) | 3:26 | 2026-04-10 |  |
 | [Say](https://open.spotify.com/track/5HXD6yjXXItBmHxXx1cCpc) | [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC), [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX) | [Say](https://open.spotify.com/album/2yiQBODM4hCjAlUp4yIJiq) | 2:19 | 2024-04-05 | 2024-06-07 |
 | [Second Wind](https://open.spotify.com/track/1K05Ph2s7acSkdOwa62Zrv) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce), [Claire Tahillah](https://open.spotify.com/artist/3pvcDxrjlcsAX25m3nRQRl) | [Second Wind](https://open.spotify.com/album/259NTqeyuk7D0UUdJir5L6) | 2:55 | 2024-10-25 | 2024-12-13 |
 | [Seen](https://open.spotify.com/track/0choVjlbcW5egLUqkPwOAe) | [Lola Ade](https://open.spotify.com/artist/1Dn5XPErF6q1w1sxxk8m6Y), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Seen](https://open.spotify.com/album/4B0oh0jk5PD3TfkyDls8pV) | 3:46 | 2025-11-21 | 2026-02-06 |

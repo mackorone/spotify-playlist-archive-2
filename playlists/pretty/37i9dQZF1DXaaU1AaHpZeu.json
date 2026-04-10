@@ -1,6 +1,6 @@
 {
   "description": "Nuevos hallazgos de m\u00fasica indie en espa\u00f1ol con maye en portada.",
-  "num_followers": 280839,
+  "num_followers": 280797,
   "original_name": "Novedades Indie",
   "owner": {
     "name": "Spotify",
@@ -263,6 +263,22 @@
     {
       "added_at": "2026-04-03 06:01:03",
       "album": {
+        "name": "NO PUEDES CONTROLARLO TODO",
+        "url": "https://open.spotify.com/album/6mBGka1jN0CrZJgrf91Y5I"
+      },
+      "artists": [
+        {
+          "name": "Alan Troy",
+          "url": "https://open.spotify.com/artist/2AAtJ9SZMYanKsVF87wxGU"
+        }
+      ],
+      "duration_ms": 181395,
+      "name": "NO PUEDES CONTROLARLO TODO",
+      "url": "https://open.spotify.com/track/1LH3Zbu4majB99Dnr2ODCP"
+    },
+    {
+      "added_at": "2026-04-03 06:01:03",
+      "album": {
         "name": "DIAUNO!",
         "url": "https://open.spotify.com/album/297jxd5saPHd1u2QxnluNO"
       },
@@ -315,21 +331,17 @@
     {
       "added_at": "2026-04-03 06:01:03",
       "album": {
-        "name": "pa que (feat. Ed Maverick)",
+        "name": "pa que",
         "url": "https://open.spotify.com/album/54zMR9xpK3l6DHhjitr4Qd"
       },
       "artists": [
         {
           "name": "bpuntito",
           "url": "https://open.spotify.com/artist/7hpawMsfyoRG0gF7VAwv9u"
-        },
-        {
-          "name": "Ed Maverick",
-          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
         }
       ],
       "duration_ms": 196946,
-      "name": "pa que (feat. Ed Maverick)",
+      "name": "pa que",
       "url": "https://open.spotify.com/track/5smAUZtCCJCcHv2qyknRgt"
     },
     {

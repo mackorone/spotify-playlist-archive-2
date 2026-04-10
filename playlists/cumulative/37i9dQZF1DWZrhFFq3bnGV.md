@@ -2,9 +2,9 @@
 
 ### [Jazz Anak Negeri](https://open.spotify.com/playlist/37i9dQZF1DWZrhFFq3bnGV)
 
-> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Natasya Elvira, Societeit de Harmonie
+> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Jo Soegono
 
-291 songs - 20 hr 15 min
+292 songs - 20 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [Kala Itu](https://open.spotify.com/track/7HO2RmmmIZgZHiRJPzpguJ) | [Indro Hardjodikoro](https://open.spotify.com/artist/2HLQzDOWlVpNfizh2uEA3b), [Sruti Respati](https://open.spotify.com/artist/6vWqh5xpzX5QfyqoQFwcRH) | [Kala Itu](https://open.spotify.com/album/1AqGHk7kTIRkCCWhMId4KL) | 3:52 | 2023-05-25 | 2025-09-26 |
 | [Kamu Ya Cuma Kamu \(feat\. Ronald Steven\)](https://open.spotify.com/track/20fUdYvfgiqCRVnsN7v1jF) | [Modulus](https://open.spotify.com/artist/1yWOvzIzbIfqoLHMADczPa), [Ronald Steven](https://open.spotify.com/artist/7o6Q5G9jROYTQB65ztunpJ) | [Kamu Ya Cuma Kamu \(feat\. Ronald Steven\)](https://open.spotify.com/album/2d0ECbFXsm49tYsmVqZzuu) | 4:04 | 2025-08-28 |  |
 | [Kanaya Tidore](https://open.spotify.com/track/7fzNvMZUf36MlIBTnSGrUg) | [Tesla Manaf](https://open.spotify.com/artist/6LkomW0B7xs6zolDBJRUFt) | [Rembah Pribumi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Z2Yhg12LYvI1rW6v48jJM) | 3:29 | 2023-03-03 | 2023-06-09 |
+| [Kasi Kasi Kasi](https://open.spotify.com/track/7hlngcokcrvJ3NQQdlHjli) | [Jo Soegono](https://open.spotify.com/artist/4g10GFwD6GAtYbugb9Ur7p) | [Kasi Kasi Kasi](https://open.spotify.com/album/2KPZYDFpNBekXVCblbrFbp) | 3:05 | 2026-04-09 |  |
 | [Katakan Saja](https://open.spotify.com/track/6bIQQJk47tJsUmlqd1hEUW) | [Adikara](https://open.spotify.com/artist/4g69iZz2nk9El5Zf3ttiBN) | [Katakan Saja](https://open.spotify.com/album/6Jc1f9u2q0sIe3xwvZeRCH) | 3:56 | 2024-02-22 |  |
 | [Kejar Terus](https://open.spotify.com/track/7LR3VRJQIWtuHs5kVkjVk5) | [Hezky Jo](https://open.spotify.com/artist/4xJoIawErbqny2Yj6X6xdy) | [Teras Dan Angin Malam](https://open.spotify.com/album/0zUzJIuniSzSPmwEwNweUp) | 3:23 | 2023-08-18 |  |
 | [Kejar Waktu](https://open.spotify.com/track/1Eo6TNhL7ydD7HFHPFc9bE) | [Marini Nainggolan](https://open.spotify.com/artist/68CRp4uznB4jlgbcNEqbTp) | [Kejar Waktu](https://open.spotify.com/album/3Q8ZezQuRlmq8xsVfYsw3F) | 4:36 | 2022-09-02 | 2022-11-18 |

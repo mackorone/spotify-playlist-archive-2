@@ -630,7 +630,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 183174,
       "name": "Amprente - Extended version",
       "url": "https://open.spotify.com/track/1gEe4Pmu2kXMAhUq8fYR0o"
@@ -6274,6 +6274,24 @@
       "duration_ms": 169361,
       "name": "Paharul sus",
       "url": "https://open.spotify.com/track/5QWOtb0L5IYT8w4rMtmVZh"
+    },
+    {
+      "album": {
+        "name": "Paradox",
+        "url": "https://open.spotify.com/album/6KauVBe2DUrz9ewxEK47KB"
+      },
+      "artists": [
+        {
+          "name": "Iuliana Beregoi",
+          "url": "https://open.spotify.com/artist/6nNfOfgm69ASAI4UM8Xaym"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121750,
+      "name": "Paradox",
+      "url": "https://open.spotify.com/track/5OvZHY1nWNepnwMoflNQgf"
     },
     {
       "album": {

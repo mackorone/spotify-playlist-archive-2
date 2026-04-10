@@ -1,12 +1,12 @@
 {
   "description": "New music from Ye, Don Toliver , Swae Lee and Key Glock. ",
-  "num_followers": 15763975,
+  "num_followers": 15763629,
   "original_name": "RapCaviar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEb78b2ZtKRVv69R/DMEOSnDXgEW",
+  "snapshot_id": "AAAAAFupWYtNH+iawSWrncxP3lio9gyz",
   "tracks": [
     {
       "added_at": "2026-04-06 19:38:26",
@@ -171,6 +171,26 @@
       "duration_ms": 126868,
       "name": "KING",
       "url": "https://open.spotify.com/track/4LP6bmyAxdMNrqUrMpaVQ8"
+    },
+    {
+      "added_at": "2026-04-09 04:00:17",
+      "album": {
+        "name": "Todd Smith",
+        "url": "https://open.spotify.com/album/6WRDjDCqj8Y2ZGlgSzRTfF"
+      },
+      "artists": [
+        {
+          "name": "LL COOL J",
+          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+        },
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "duration_ms": 233973,
+      "name": "Control Myself",
+      "url": "https://open.spotify.com/track/5Y8uIJkfwvLBhpnzr9Teuf"
     },
     {
       "added_at": "2026-04-06 19:38:26",

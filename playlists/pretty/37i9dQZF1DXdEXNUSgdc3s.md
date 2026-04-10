@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEXNUSgdc3s.md) - [plain]
 
 > Alpha frequencies to reach the point of ultimate relaxation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,178 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,216 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEXNUSgdc3s.md) - [plain]
 | 9 | [Glowing Sea \(Alpha Binaural 77.9 Hz \- 88.7 Hz\)](https://open.spotify.com/track/2UHecCEixUtEAUGYJ4IWVE) | [Starchaserz](https://open.spotify.com/artist/5MIBtP87scZ53LF7IYtBvT) | [Glowing Sea \(Alpha Binaural 77.9 Hz \- 88.7 Hz\)](https://open.spotify.com/album/6akuzLLYhjq5ISZd5NDetP) | 4:36 |
 | 10 | [Alpha Universe 64+66 hz](https://open.spotify.com/track/7Hbgr7d97YAxvZE0gufBWO) | [Binaural Landscapes](https://open.spotify.com/artist/5F1SC2pxuIO4iT2LnMIjQn) | [Alpha Horizon](https://open.spotify.com/album/6GnCnCvllPPRsgxHIWPi5Z) | 2:45 |
 | 11 | [Alpha Sinus 100 Hz \- 108 Hz](https://open.spotify.com/track/3amQPrutVjXI9SMrvwHDK3) | [BinauralVille](https://open.spotify.com/artist/1Cqzx8HaZK3qHBxb002KXi) | [BinauralVille](https://open.spotify.com/album/1MCK9CMXGG0OdGXW6VlE6T) | 3:22 |
-| 12 | [Alpha Thoughts 107Hz \- 114Hz](https://open.spotify.com/track/3ZQ5luO4yWFWf6GTp7P78b) | [Luna Waterfall](https://open.spotify.com/artist/4egqkDMoLIKSjt8gspCvyU) | [Flow State](https://open.spotify.com/album/1zPCdcZNYXqmltzGzRpkVU) | 4:35 |
+| 12 | [Alpha Thoughts 107Hz \- 114Hz](https://open.spotify.com/track/3ZQ5luO4yWFWf6GTp7P78b) | [Luna Waterfall](https://open.spotify.com/artist/06CWwwDm7bgCTQgyGi8zJL) | [Flow State](https://open.spotify.com/album/1zPCdcZNYXqmltzGzRpkVU) | 4:35 |
 | 13 | [Equilibrium 96hz\-104hz](https://open.spotify.com/track/7wzxMK6fHNQoTWcKHUsdTz) | [Solace Sonique](https://open.spotify.com/artist/4DWW3d7aGHHC51MqYUoQZR) | [Equilibrium 96hz\-104hz](https://open.spotify.com/album/0Jxdyu4VFJ2IDWQ8FdAX0r) | 2:11 |
 | 14 | [Alpha Sinus Beauty 88Hz \- 96Hz](https://open.spotify.com/track/2Q1tvcxY1AURUd0Qh6707l) | [Alpha Vectoriam](https://open.spotify.com/artist/4tJk8aN9skPGFZmkoAsBJD) | [Alpha Sinus Beauty 88Hz \- 96Hz](https://open.spotify.com/album/4KeshHI1lJjb7LTiex6J2L) | 2:31 |
 | 15 | [Alpha REM 82 Hz \- 92 Hz](https://open.spotify.com/track/6Fn4dlKQFkDP421P2IShjC) | [REM](https://open.spotify.com/artist/73wZ9JX4WJIWfMnXvnWnIm) | [Alpha REM 82 Hz \- 92 Hz](https://open.spotify.com/album/1pdONj5eMm3maQzqVtNNdV) | 2:50 |

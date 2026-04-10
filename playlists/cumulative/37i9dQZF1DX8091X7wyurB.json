@@ -2202,7 +2202,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 299013,
       "name": "Citizen",
       "url": "https://open.spotify.com/track/6NYcrgToyDj04al4ZMtHxz"
@@ -2964,7 +2964,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-03",
+      "date_removed": null,
       "duration_ms": 561714,
       "name": "Do A Work In Me - Live",
       "url": "https://open.spotify.com/track/5ts4pT5MBeNDv4FxzkcOxc"
@@ -6784,7 +6784,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-03",
+      "date_removed": null,
       "duration_ms": 546156,
       "name": "I Get Backing",
       "url": "https://open.spotify.com/track/5z8u1GwA8J7dBx1zMpfrjW"
@@ -8874,7 +8874,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 154039,
       "name": "Love Assurance",
       "url": "https://open.spotify.com/track/4jRaM74PxaKqtnjfT8Ba01"
@@ -11736,7 +11736,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 195252,
       "name": "Overcomer",
       "url": "https://open.spotify.com/track/4tN7pkP4lYdSzDwcuCdNp3"
@@ -12126,7 +12126,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 888860,
       "name": "Praise The Lord - Live",
       "url": "https://open.spotify.com/track/5k9ILrXNbOOaaJUQkVtYSd"
@@ -12428,6 +12428,24 @@
       "duration_ms": 333386,
       "name": "Reckless Love",
       "url": "https://open.spotify.com/track/0rH0mprtecH3grD9HFM5AD"
+    },
+    {
+      "album": {
+        "name": "Reckless Lover",
+        "url": "https://open.spotify.com/album/6P1Sbx3KoBeJpLCc7PllDB"
+      },
+      "artists": [
+        {
+          "name": "Paul Tomisin",
+          "url": "https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 537386,
+      "name": "Reckless Lover",
+      "url": "https://open.spotify.com/track/65jA8kJUA3BHyH1h1QGkwk"
     },
     {
       "album": {
@@ -14767,6 +14785,24 @@
     },
     {
       "album": {
+        "name": "Unto The Lord",
+        "url": "https://open.spotify.com/album/7kMctVUZKzrcsCBSJD4z6s"
+      },
+      "artists": [
+        {
+          "name": "Adikamusic",
+          "url": "https://open.spotify.com/artist/15GQmLUP6pqPjWqpR0s6dx"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 504001,
+      "name": "Unto The Lord",
+      "url": "https://open.spotify.com/track/2Gzy8qkrlxYl95ZBKd73ux"
+    },
+    {
+      "album": {
         "name": "Unusual (Live At Cedarwoods of Sandton, 2023)",
         "url": "https://open.spotify.com/album/07HmJ29ItAdV707SqVoc6D"
       },
@@ -16478,7 +16514,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-17",
+      "date_removed": null,
       "duration_ms": 349973,
       "name": "Yesu Wena UnguMhlobo - Live",
       "url": "https://open.spotify.com/track/3j3Jn0bcG8rzliG4vHBYCa"
@@ -16688,7 +16724,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 572866,
       "name": "You Are The One (Live at Heartfelt Arena, December 2025) (feat. Yanga & Ntokozo Mbambo)",
       "url": "https://open.spotify.com/track/7bLdVqTgfe3BPBHj7Q6Roi"

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Egypt.
 
-1,170 songs - 2 day 20 hr 49 min
+1,172 songs - 2 day 20 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [AURA](https://open.spotify.com/track/4LKXjVhW0awFSsXLtEmkBD) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [EN7RAF](https://open.spotify.com/album/1fobYepbyOWSEbIJnyIrLF) | 1:34 | 2025-04-04 | 2025-05-31 |
 | [AURA](https://open.spotify.com/track/7nROXt052zKE7JfTBiS0Is) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [AURA](https://open.spotify.com/album/2ojpRKlCztQ6aO2uNELxER) | 1:34 | 2025-04-03 | 2025-04-05 |
 | [Awadeeh](https://open.spotify.com/track/6X3T09NqZfGACrko9EYN7r) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [Awadeeh](https://open.spotify.com/album/6mf7g9yvxZmfLVVLVB0dyv) | 2:22 | 2021-09-02 | 2022-02-20 |
-| [Awel Kol Haga](https://open.spotify.com/track/0z7T5qNnbWZ4zDL0vNWXlO) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Meaddy El Nas](https://open.spotify.com/album/1mrzsRg8FgZKlB0LQl0IAr) | 4:41 | 2025-07-03 |  |
+| [Awel Kol Haga](https://open.spotify.com/track/0z7T5qNnbWZ4zDL0vNWXlO) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Meaddy El Nas](https://open.spotify.com/album/1mrzsRg8FgZKlB0LQl0IAr) | 4:41 | 2025-07-03 | 2026-04-10 |
 | [Awkat Ashouf Malamhak](https://open.spotify.com/track/2eyEsqY6J8b4KqaVEkXa8l) | [Al Massrieen](https://open.spotify.com/artist/7t3VJCyz87PJLqHM3mOt3I) | [Hazz El Adala](https://open.spotify.com/album/1HYYSw5VSQROznWGaqlUBd) | 6:00 | 2024-02-03 | 2024-02-14 |
 | [Baad El Kalam](https://open.spotify.com/track/0Oz1kaka4qeWhjntOZTRFv) | [Ahmed Kamel](https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu) | [Baad Montasaf Al Leil](https://open.spotify.com/album/1Ssez3FFutWFtAvENJ3WDH) | 3:52 | 2023-02-18 | 2024-03-22 |
 | [Baba](https://open.spotify.com/track/1GkBG6kv0tDEDALIG7NR2K) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Ebtadena](https://open.spotify.com/album/5HeCKPHYZYu75JKHtzdDRI) | 3:15 | 2025-07-04 | 2025-12-08 |
@@ -863,7 +863,8 @@
 | [البخت](https://open.spotify.com/track/6nZSEnBdtgA1Zj2HZoUE8S) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [البخت](https://open.spotify.com/album/4DxIjHP3L4wYxRie5DPsdW) | 3:26 | 2025-11-08 | 2025-11-12 |
 | [البوصلة ضاعت](https://open.spotify.com/track/3OFejsaM3NDkclJg3rjWI2) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [البوصلة ضاعت](https://open.spotify.com/album/17E04dwaT5vHAHsuviwYPB) | 3:29 | 2021-05-18 | 2024-11-14 |
 | [التزموا الصمت اسود الارض راجعين \( يابا احنا نغيب غيبتنا \)](https://open.spotify.com/track/2V6Avd2Cgo2z6Ld8pyVkM6) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu), [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [التزموا الصمت اسود الارض راجعين \( يابا احنا نغيب غيبتنا \)](https://open.spotify.com/album/2Pfpafd4iN7WGjvA3bg0EY) | 3:21 | 2024-04-21 | 2024-06-28 |
-| [الجاي بتاعي](https://open.spotify.com/track/1TcblBVtkEEbH0kL67kIC3) | [Houda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [الجاي بتاعي](https://open.spotify.com/album/0qYlJKhHgr0h7vaxfFBD3Q) | 3:17 | 2025-06-25 |  |
+| [الجاى بتاعى](https://open.spotify.com/track/2EzXzEvgdT4a0ARx526brr) | [Houda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [الجاى بتاعى](https://open.spotify.com/album/4k7BvBM4QQmT3Op9HRFq01) | 3:16 | 2026-04-09 |  |
+| [الجاي بتاعي](https://open.spotify.com/track/1TcblBVtkEEbH0kL67kIC3) | [Houda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [الجاي بتاعي](https://open.spotify.com/album/0qYlJKhHgr0h7vaxfFBD3Q) | 3:17 | 2025-06-25 | 2026-04-10 |
 | [الحب الحب سنيوريتا](https://open.spotify.com/track/44mSr8Olgi1u3Wa5WyAUqn) | [Fares Sokar \- فارس سكر](https://open.spotify.com/artist/6mG5L5mJQIrHrZQZ0ZmpHh) | [الحب الحب سنيوريتا](https://open.spotify.com/album/5Y3xlqjyJEApstMeAqWMkT) | 3:53 | 2024-12-20 | 2025-02-17 |
 | [الحب عيبنا](https://open.spotify.com/track/7wXCvrSJxHVH0uEAzyY1Ct) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [الحب عيبنا](https://open.spotify.com/album/7IVWERFu8EVQuPMCOXRMBU) | 3:56 | 2025-04-01 |  |
 | [الدنيا ايه](https://open.spotify.com/track/6SBv0Z2UG5lkdJPWIarKj0) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [الدنيا ايه](https://open.spotify.com/album/3JqkIHvNZMoWe06n3oQKza) | 3:38 | 2023-06-23 | 2023-11-14 |
@@ -878,6 +879,7 @@
 | [الضرب ع العيون واجب \- لبسو سهرو واصرفو](https://open.spotify.com/track/2gQL4ZVAKKo1Cw0RviyBGm) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [الضرب ع العيون واجب \(لبسو سهرو واصرفو\)](https://open.spotify.com/album/0TkdZFVpV5krEuVhFWev2z) | 3:36 | 2025-04-08 | 2025-07-20 |
 | [العمر راح جمايل](https://open.spotify.com/track/2tDHfhOcCyIlT2cMc2MbLs) | [Seif Magdy](https://open.spotify.com/artist/36QfEZXB5iGSrD0SxwRNkE), [Abdelsalam](https://open.spotify.com/artist/1RYiKhiu6grbHvPZIuO18y), [Shalsha](https://open.spotify.com/artist/7JvNUhrLYfqBSIPfa5N12E) | [العمر راح جمايل](https://open.spotify.com/album/4t5IE26L1Y0HcP0SMBoDti) | 2:53 | 2023-02-13 | 2023-02-15 |
 | [العودة من بعد الغياب](https://open.spotify.com/track/4NRlZae2zcdVHGauLgJpHX) | [Felo](https://open.spotify.com/artist/4JhWEqWfwTQywn7lKkNWt5) | [العودة من بعد الغياب](https://open.spotify.com/album/1dDpWoqT9YSFfkXzeLzX5Y) | 3:55 | 2024-06-23 | 2025-01-08 |
+| [الغابة ليها بابا \( هو الديب لما يغيب \)](https://open.spotify.com/track/0EkXpiZTDd9EBb1BOCtjwF) | [مصطفي الجن و هادي الصغير \- تيم الابداع](https://open.spotify.com/artist/5ocZbmWp3jlpBeLOEgsFcc) | [الغابة ليها بابا \( هو الديب لما يغيب \)](https://open.spotify.com/album/22u0oYA3g04ts1Deuku5ae) | 3:12 | 2026-04-09 |  |
 | [الغسالة](https://open.spotify.com/track/7JAPo0o6KfpKdZiGLoRCNh) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [الغسالة](https://open.spotify.com/album/5EZeKNiANiLwqcOEYnxSoD) | 2:51 | 2021-03-27\* | 2022-03-07 |
 | [القاضية \(من فيلم ولاد رزق 3\)](https://open.spotify.com/track/1x77KcxyDUitE4trltji2r) | [Eslam Shendy](https://open.spotify.com/artist/2dYNk7MJlaOMlM9oXbrlfn) | [القاضية \(من فيلم ولاد رزق 3\)](https://open.spotify.com/album/6Cvk4ibByAaFlzNtAbNjZv) | 3:09 | 2024-06-19 | 2024-10-07 |
 | [اللقطة](https://open.spotify.com/track/4Ht0DV8ksHsEwyPEKLjcMV) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [اللقطة](https://open.spotify.com/album/51UtZEtJiI0rN7n5jXFV8G) | 4:21 | 2022-04-06 | 2022-04-08 |

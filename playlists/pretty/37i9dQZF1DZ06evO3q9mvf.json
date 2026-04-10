@@ -1,12 +1,12 @@
 {
   "description": "This is The Slits. The essential tracks, all in one playlist.",
-  "num_followers": 3162,
+  "num_followers": 3165,
   "original_name": "This Is The Slits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adRJAAAAAABPjFbFVeUawU4gOCANCpQF",
+  "snapshot_id": "adWagAAAAAA+YbQuHOleKcifIi60YpGz",
   "tracks": [
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live at the Gibus Club",
-        "url": "https://open.spotify.com/album/04pZjd4uyJqPWNQ6gJLuQ9"
+        "name": "Revenge of the Killer Slits",
+        "url": "https://open.spotify.com/album/102FQSiOZQJOVheiHMTJK6"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 135973,
-      "name": "Vaseline (Live at The Gibus Club, 1978)",
-      "url": "https://open.spotify.com/track/7seUtjCNUDcPQEhXry2F2N"
+      "duration_ms": 247666,
+      "name": "Kill Them Wtih love",
+      "url": "https://open.spotify.com/track/2knFpONwZuWfkSLhSw68PQ"
     },
     {
       "added_at": null,
@@ -391,22 +391,6 @@
       "duration_ms": 263120,
       "name": "Or What Is It?",
       "url": "https://open.spotify.com/track/54D2wHoN72RXsDJql7bgD1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Revenge of the Killer Slits",
-        "url": "https://open.spotify.com/album/102FQSiOZQJOVheiHMTJK6"
-      },
-      "artists": [
-        {
-          "name": "The Slits",
-          "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
-        }
-      ],
-      "duration_ms": 247666,
-      "name": "Kill Them Wtih love",
-      "url": "https://open.spotify.com/track/2knFpONwZuWfkSLhSw68PQ"
     },
     {
       "added_at": null,
@@ -484,9 +468,9 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 167093,
-      "name": "Femme Fatale (Live at The Gibus Club, 1978)",
-      "url": "https://open.spotify.com/track/7aHZk81AidjGPFm1793Ctt"
+      "duration_ms": 135973,
+      "name": "Vaseline (Live at The Gibus Club, 1978)",
+      "url": "https://open.spotify.com/track/7seUtjCNUDcPQEhXry2F2N"
     },
     {
       "added_at": null,
@@ -516,9 +500,9 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 322786,
-      "name": "Enemy Numero Uno (Live at The Gibus Club, 1978)",
-      "url": "https://open.spotify.com/track/1DYTxEXTJjSFd1nkAM16e5"
+      "duration_ms": 167093,
+      "name": "Femme Fatale (Live at The Gibus Club, 1978)",
+      "url": "https://open.spotify.com/track/7aHZk81AidjGPFm1793Ctt"
     },
     {
       "added_at": null,
@@ -535,6 +519,22 @@
       "duration_ms": 180786,
       "name": "A Boring Life",
       "url": "https://open.spotify.com/track/20ISwjERE9iu3WodlBuifQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live at the Gibus Club",
+        "url": "https://open.spotify.com/album/04pZjd4uyJqPWNQ6gJLuQ9"
+      },
+      "artists": [
+        {
+          "name": "The Slits",
+          "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
+        }
+      ],
+      "duration_ms": 322786,
+      "name": "Enemy Numero Uno (Live at The Gibus Club, 1978)",
+      "url": "https://open.spotify.com/track/1DYTxEXTJjSFd1nkAM16e5"
     },
     {
       "added_at": null,

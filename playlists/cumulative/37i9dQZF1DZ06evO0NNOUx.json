@@ -1325,6 +1325,28 @@
     },
     {
       "album": {
+        "name": "DAWN PATROL",
+        "url": "https://open.spotify.com/album/0DM6P83bgDbFuwNaZz09fh"
+      },
+      "artists": [
+        {
+          "name": "PARTY WAVE",
+          "url": "https://open.spotify.com/artist/6iQ0SOfahRnTthPNGhgzkB"
+        },
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159818,
+      "name": "SOMETHING IN THE WATER",
+      "url": "https://open.spotify.com/track/38abUcedwmO4pyKllQBNxO"
+    },
+    {
+      "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/0sszJvPEklSUadOC4rilwQ"
       },

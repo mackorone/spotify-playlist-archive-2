@@ -4635,6 +4635,28 @@
     },
     {
       "album": {
+        "name": "Go n Look",
+        "url": "https://open.spotify.com/album/0H4zop3iXGovw6xqjTLnjh"
+      },
+      "artists": [
+        {
+          "name": "Bisa Kdei",
+          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
+        },
+        {
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135825,
+      "name": "Go n Look",
+      "url": "https://open.spotify.com/track/6uUh6ap9kH5Zuag6mFFW4w"
+    },
+    {
+      "album": {
         "name": "Goldigga",
         "url": "https://open.spotify.com/album/4MUkSTaa9xxyeXdAB6geiO"
       },
@@ -5522,7 +5544,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 180000,
       "name": "It Is Finished",
       "url": "https://open.spotify.com/track/6vmcwvjJHvAdlWurRHC96N"
@@ -8870,7 +8892,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 149543,
       "name": "Pancake",
       "url": "https://open.spotify.com/track/2Uwc1B06VYc4XWvuAQxw5j"
@@ -9314,6 +9336,24 @@
       "duration_ms": 156781,
       "name": "PopStar",
       "url": "https://open.spotify.com/track/2LO82nA2HMBbwqs0KNUeMx"
+    },
+    {
+      "album": {
+        "name": "Pose For Me",
+        "url": "https://open.spotify.com/album/3PL581m8VyrJWTpHphJClj"
+      },
+      "artists": [
+        {
+          "name": "Asomacy",
+          "url": "https://open.spotify.com/artist/6qqOGbYKXBzVUf1tbK3zRX"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150260,
+      "name": "Pose For Me",
+      "url": "https://open.spotify.com/track/5XrBsLb4knRy2EsbJziAOB"
     },
     {
       "album": {

@@ -639,6 +639,24 @@
     },
     {
       "album": {
+        "name": "Love Love Love",
+        "url": "https://open.spotify.com/album/1fHeuwIK0CVB1enNSHxzAi"
+      },
+      "artists": [
+        {
+          "name": "Roy Kim",
+          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208466,
+      "name": "Bom Bom Bom",
+      "url": "https://open.spotify.com/track/1rVPj9cryjgB7MdaU6sqN3"
+    },
+    {
+      "album": {
         "name": "SQUARE ONE",
         "url": "https://open.spotify.com/album/0zlJOlDdsJ6Y14GnPoYGD8"
       },

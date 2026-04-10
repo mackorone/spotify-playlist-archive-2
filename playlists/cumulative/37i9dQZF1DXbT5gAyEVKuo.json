@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Praise the Lord with all your heart as you sing along to these Gospel Worship songs. Cover: Sinach",
+  "description": "Praise the Lord with all your heart as you sing along to these Gospel Worship songs. Cover: Jonathan McReynolds",
   "name": "Gospel Worship",
   "tracks": [
     {
@@ -140,7 +140,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 552287,
       "name": "All Authority - LIVE",
       "url": "https://open.spotify.com/track/7sr8oiWn2rhtA2rj06J89R"
@@ -419,6 +419,24 @@
     },
     {
       "album": {
+        "name": "At the Center",
+        "url": "https://open.spotify.com/album/36WJbEECUUs1eKODqniDrT"
+      },
+      "artists": [
+        {
+          "name": "Adura Ojofeitimi",
+          "url": "https://open.spotify.com/artist/135hnlf8uzG00qITSjtM2V"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 600768,
+      "name": "At the Center",
+      "url": "https://open.spotify.com/track/1zitShgMHWS3m76aPnLDs6"
+    },
+    {
+      "album": {
         "name": "Sustained By Grace",
         "url": "https://open.spotify.com/album/5RWsRd2bGY4sjXWC25emKV"
       },
@@ -452,6 +470,24 @@
       "duration_ms": 533500,
       "name": "Be Glad - Live",
       "url": "https://open.spotify.com/track/1nQBOC7j1ioRhiwU1LZCyn"
+    },
+    {
+      "album": {
+        "name": "Beautiful Exchange",
+        "url": "https://open.spotify.com/album/0owYEPLNrgzycM4sSeNBx2"
+      },
+      "artists": [
+        {
+          "name": "Folabi Nuel",
+          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262325,
+      "name": "Beautiful Exchange",
+      "url": "https://open.spotify.com/track/7clvto32JaAp4fcLcHD1Lf"
     },
     {
       "album": {
@@ -698,7 +734,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 480990,
       "name": "Carry Me",
       "url": "https://open.spotify.com/track/06fxnpXNeFEd3LzsHn8Wwy"
@@ -956,7 +992,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 367000,
       "name": "Deliverer - Live",
       "url": "https://open.spotify.com/track/5c3CsPaBPhYcJb8N4UEv03"
@@ -1612,7 +1648,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 901815,
       "name": "Hagiazo - Live",
       "url": "https://open.spotify.com/track/7f1LRhHyMVY7eaefuuCmup"
@@ -1830,7 +1866,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 330346,
       "name": "Highest Are You",
       "url": "https://open.spotify.com/track/5WSWiZmyYaxCgj7LacvhNg"
@@ -2041,6 +2077,32 @@
     },
     {
       "album": {
+        "name": "I Was Made To Glorify Your Name",
+        "url": "https://open.spotify.com/album/5WUPJV4LB0mMvypBL8Sfc0"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        },
+        {
+          "name": "Grace Idowu",
+          "url": "https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346056,
+      "name": "I Was Made To Glorify Your Name",
+      "url": "https://open.spotify.com/track/3OXx9dafJSuGO4OF5SiFLO"
+    },
+    {
+      "album": {
         "name": "Playlist: The Very Best Of Byron Cage",
         "url": "https://open.spotify.com/album/4XwIxTUXc3fY5XcOVTPrwa"
       },
@@ -2092,7 +2154,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 428760,
       "name": "i WoRsHiP - Live",
       "url": "https://open.spotify.com/track/09miLEKvkU62Apb6HdRxRf"
@@ -2248,7 +2310,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 597481,
       "name": "In The Room (feat. Tasha Cobbs Leonard, Naomi Raine)",
       "url": "https://open.spotify.com/track/6TGRG3JVQoQFWg2DSeDLyi"
@@ -2604,7 +2666,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 331333,
       "name": "King Worth Praising - Live",
       "url": "https://open.spotify.com/track/1CvN0OpQJrxDuHQoXWgKIR"
@@ -2924,6 +2986,28 @@
       "duration_ms": 266921,
       "name": "Movement",
       "url": "https://open.spotify.com/track/0zLN3mfKlrczo0SPkLzy2N"
+    },
+    {
+      "album": {
+        "name": "My Desire (Ps. 42:1)",
+        "url": "https://open.spotify.com/album/5cNYXLKbqvzBfzxyzkHaqn"
+      },
+      "artists": [
+        {
+          "name": "Daniel Ojo",
+          "url": "https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r"
+        },
+        {
+          "name": "Grace Idowu",
+          "url": "https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388440,
+      "name": "My Desire (Ps. 42:1)",
+      "url": "https://open.spotify.com/track/4UsGMLq7WoCNY1odQGUFVH"
     },
     {
       "album": {
@@ -3289,6 +3373,42 @@
     },
     {
       "album": {
+        "name": "One Good God",
+        "url": "https://open.spotify.com/album/0XwackFfzuOZ65r4RE7hIO"
+      },
+      "artists": [
+        {
+          "name": "Jonathan McReynolds",
+          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324314,
+      "name": "One Good God",
+      "url": "https://open.spotify.com/track/3iKHfuRR6n2liPxV9ss8sr"
+    },
+    {
+      "album": {
+        "name": "Only One Holy (Live)",
+        "url": "https://open.spotify.com/album/6i0EVXIqDWnR2RAL8utlFQ"
+      },
+      "artists": [
+        {
+          "name": "Jasmin Foreman",
+          "url": "https://open.spotify.com/artist/16kiLoWN3jY8WslXMC08Sy"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276480,
+      "name": "Only One Holy - Live",
+      "url": "https://open.spotify.com/track/36DB26SbP34gCgVBfa7BL2"
+    },
+    {
+      "album": {
         "name": "All Things New (Live In Orlando)",
         "url": "https://open.spotify.com/album/4oCeWb8lHFZyOmJbYNxyzV"
       },
@@ -3398,6 +3518,24 @@
       "duration_ms": 133034,
       "name": "Peace Has A Name",
       "url": "https://open.spotify.com/track/0HYZQZFX8SHZBg61tEj2eh"
+    },
+    {
+      "album": {
+        "name": "New Wine (Live)",
+        "url": "https://open.spotify.com/album/79MOPYNVUE6yG90CnyyhHT"
+      },
+      "artists": [
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 888860,
+      "name": "Praise The Lord - Live",
+      "url": "https://open.spotify.com/track/5k9ILrXNbOOaaJUQkVtYSd"
     },
     {
       "album": {
@@ -3865,6 +4003,50 @@
     },
     {
       "album": {
+        "name": "Strongest Place (feat. Chaquanna Iman)",
+        "url": "https://open.spotify.com/album/45QPPxarS8xvgWDxqNg2Vf"
+      },
+      "artists": [
+        {
+          "name": "Forward City",
+          "url": "https://open.spotify.com/artist/58bqbgcmYuTyHDGGkHbrFH"
+        },
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        },
+        {
+          "name": "Chaquanna Iman",
+          "url": "https://open.spotify.com/artist/6t94UuOzHsqVaS1KQpC3fe"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 454791,
+      "name": "Strongest Place (feat. Chaquanna Iman)",
+      "url": "https://open.spotify.com/track/2zm6J7sFIfb70voviHlXox"
+    },
+    {
+      "album": {
+        "name": "Sure Of (Live)",
+        "url": "https://open.spotify.com/album/3ntL5US10wXJVRezfRPN1z"
+      },
+      "artists": [
+        {
+          "name": "Victory House Worship",
+          "url": "https://open.spotify.com/artist/6kzOnutG18rqaBCLzY0gwI"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285754,
+      "name": "Sure Of - Live",
+      "url": "https://open.spotify.com/track/64ZOXlG7V4dXpz3zTelk7z"
+    },
+    {
+      "album": {
         "name": "Sustain (Live)",
         "url": "https://open.spotify.com/album/5TwOCjWrjcu0q3PF5w1exA"
       },
@@ -3884,7 +4066,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 726296,
       "name": "Sustain - Live",
       "url": "https://open.spotify.com/track/0hZsa8BIVtLAzlMVZ2Hv6f"
@@ -4248,7 +4430,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 326565,
       "name": "There Is More - Live",
       "url": "https://open.spotify.com/track/4ZkSdzNLmrUk5xRdZFx9PL"
@@ -4853,6 +5035,28 @@
     },
     {
       "album": {
+        "name": "You Are There",
+        "url": "https://open.spotify.com/album/0rFk98XNaIJkoPATUDYCjm"
+      },
+      "artists": [
+        {
+          "name": "Yinka Okeleye",
+          "url": "https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9"
+        },
+        {
+          "name": "Olamiji Rasheed",
+          "url": "https://open.spotify.com/artist/797ilaBFnTzTvavwB225LX"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381970,
+      "name": "You Are There",
+      "url": "https://open.spotify.com/track/3EAHBjhFMwuIdAS5FodQTF"
+    },
+    {
+      "album": {
         "name": "Heart. Passion. Pursuit.: Live At Passion City Church",
         "url": "https://open.spotify.com/album/3to6tIB6taMg12hPGxfyyN"
       },
@@ -5078,7 +5282,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 236095,
       "name": "Your Name",
       "url": "https://open.spotify.com/track/6Y1gaH2z0FQwOgfVCt88PV"

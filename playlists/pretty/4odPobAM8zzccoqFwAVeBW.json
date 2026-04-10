@@ -6,8 +6,136 @@
     "name": "Cargo Independent Distribution",
     "url": "https://open.spotify.com/user/cargorecords"
   },
-  "snapshot_id": "AABLZkSdzcYxEU03gVCUV+CxuCvtxRF1",
+  "snapshot_id": "AABLdH07n0Q7zkm76gwDrbawpyH/bjJm",
   "tracks": [
+    {
+      "added_at": "2026-04-09 14:20:23",
+      "album": {
+        "name": "Under the Covers",
+        "url": "https://open.spotify.com/album/6rIT9dQGaTqv59RGPCEpWQ"
+      },
+      "artists": [
+        {
+          "name": "Carla dal Forno",
+          "url": "https://open.spotify.com/artist/6FVxEgfQsGrJ0BogIOYCd6"
+        }
+      ],
+      "duration_ms": 235106,
+      "name": "Under the Covers",
+      "url": "https://open.spotify.com/track/7waKVeTZb1D5a5r6aqyDF3"
+    },
+    {
+      "added_at": "2026-04-09 14:17:47",
+      "album": {
+        "name": "The Ice Is Thin",
+        "url": "https://open.spotify.com/album/53MZsTH6vat3FExmA004sv"
+      },
+      "artists": [
+        {
+          "name": "Ital Tek",
+          "url": "https://open.spotify.com/artist/6Auo6gEPwhb9aZindgVpZJ"
+        }
+      ],
+      "duration_ms": 280293,
+      "name": "The Ice Is Thin",
+      "url": "https://open.spotify.com/track/4IZzTSRUfZ4qKIDnlq0t6d"
+    },
+    {
+      "added_at": "2026-04-09 14:18:33",
+      "album": {
+        "name": "Taamir (Bahriyyeh)",
+        "url": "https://open.spotify.com/album/6rM5iufV0UJrldfJN4YMzU"
+      },
+      "artists": [
+        {
+          "name": "Mayssa Jallad",
+          "url": "https://open.spotify.com/artist/3gwo3aexDXLiYhWICS2Qm3"
+        }
+      ],
+      "duration_ms": 303382,
+      "name": "Taamir (Bahriyyeh)",
+      "url": "https://open.spotify.com/track/2FzEvaLc7LbqQpev5jNrTp"
+    },
+    {
+      "added_at": "2026-04-09 14:19:34",
+      "album": {
+        "name": "One last stroll in the garden of light",
+        "url": "https://open.spotify.com/album/4HKce1shSoBvVemVF56nAB"
+      },
+      "artists": [
+        {
+          "name": "Charbel Haber",
+          "url": "https://open.spotify.com/artist/2Y32ogtkRSeb6rD3Lc1uWe"
+        }
+      ],
+      "duration_ms": 340627,
+      "name": "One last stroll in the garden of light",
+      "url": "https://open.spotify.com/track/34UqZyl5Qk4w8eccs9kFVg"
+    },
+    {
+      "added_at": "2026-04-09 14:21:45",
+      "album": {
+        "name": "Fight For Your Freedom",
+        "url": "https://open.spotify.com/album/5NWSzBLPg0gdZYIDisQzWT"
+      },
+      "artists": [
+        {
+          "name": "Energy",
+          "url": "https://open.spotify.com/artist/72eb6jvTxQLOo1qTRoofGe"
+        }
+      ],
+      "duration_ms": 317813,
+      "name": "Fight For Your Freedom",
+      "url": "https://open.spotify.com/track/0xyeAj21Y402e52iqIC7t4"
+    },
+    {
+      "added_at": "2026-04-09 14:19:52",
+      "album": {
+        "name": "Whisper Perfect Modicum",
+        "url": "https://open.spotify.com/album/1XZ2mK42T0dUWYd76Tvncx"
+      },
+      "artists": [
+        {
+          "name": "Jackson-Pratt",
+          "url": "https://open.spotify.com/artist/1v7N7U5oE51gRgwPXTBNp2"
+        }
+      ],
+      "duration_ms": 630000,
+      "name": "Jet-Propulsion Towards Infirmary",
+      "url": "https://open.spotify.com/track/1CsFNu58AtrpaAUQCbJtAN"
+    },
+    {
+      "added_at": "2026-04-09 14:21:07",
+      "album": {
+        "name": "Stationery",
+        "url": "https://open.spotify.com/album/1PLuqDGUzeVrui4c0b7uGN"
+      },
+      "artists": [
+        {
+          "name": "No Peeling",
+          "url": "https://open.spotify.com/artist/4wTlzdbkDWJuetDilZs0jP"
+        }
+      ],
+      "duration_ms": 108426,
+      "name": "Stationery",
+      "url": "https://open.spotify.com/track/4NB8tDW1QWdEyFwwbUmxIH"
+    },
+    {
+      "added_at": "2026-04-09 14:19:05",
+      "album": {
+        "name": "Gold Dust (Songs from the Vaults - #1)",
+        "url": "https://open.spotify.com/album/0ua9k8d0VEXQTRXWuDbyB6"
+      },
+      "artists": [
+        {
+          "name": "Janine Rainforth",
+          "url": "https://open.spotify.com/artist/2XcF0nhy3zPf7zUrJRQ9rn"
+        }
+      ],
+      "duration_ms": 284533,
+      "name": "Gold Dust - Songs from the Vaults - #1",
+      "url": "https://open.spotify.com/track/3a02670APsGDIPYj7Bzexu"
+    },
     {
       "added_at": "2026-03-27 07:41:03",
       "album": {

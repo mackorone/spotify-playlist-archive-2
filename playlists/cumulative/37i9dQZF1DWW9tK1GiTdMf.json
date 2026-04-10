@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "(Tu)tto",
+        "url": "https://open.spotify.com/album/3ZirRj9V3hBejROdXwrqaz"
+      },
+      "artists": [
+        {
+          "name": "Jaroslav",
+          "url": "https://open.spotify.com/artist/3GrOZIe3jCgnr8eSOxLg4Z"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183999,
+      "name": "(Tu)tto",
+      "url": "https://open.spotify.com/track/0g0TVvK44FXV823MdpVNRR"
+    },
+    {
+      "album": {
         "name": "**** (Bravi A Perderci)",
         "url": "https://open.spotify.com/album/7n0JpYPaPssYOOypmNWV5S"
       },
@@ -7786,6 +7804,24 @@
       "duration_ms": 166935,
       "name": "Devo scappare da qui (E farlo al pi\u00f9 presto)",
       "url": "https://open.spotify.com/track/77oHNQVdYwZFMUGzWVY8H3"
+    },
+    {
+      "album": {
+        "name": "Di certo mi capirai",
+        "url": "https://open.spotify.com/album/3At5jQ8wt9WXnuhRWqhECG"
+      },
+      "artists": [
+        {
+          "name": "Kouya",
+          "url": "https://open.spotify.com/artist/0icGONLdXBBiKokkONKRVK"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145152,
+      "name": "Di certo mi capirai",
+      "url": "https://open.spotify.com/track/0d2ciFsuSvTZnL3hWhkzVe"
     },
     {
       "album": {
@@ -26798,6 +26834,24 @@
       "duration_ms": 110263,
       "name": "Soffitta al Liceo",
       "url": "https://open.spotify.com/track/3lBrtP6KcRnB4FvuITVazm"
+    },
+    {
+      "album": {
+        "name": "Soffocare",
+        "url": "https://open.spotify.com/album/0QvwUe63YrNpmRObScxo6B"
+      },
+      "artists": [
+        {
+          "name": "Def",
+          "url": "https://open.spotify.com/artist/0KxwYP84fvKoG9dVGvAmRM"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135387,
+      "name": "Soffocare",
+      "url": "https://open.spotify.com/track/3luRORiuOA7DMyFb7T3v9w"
     },
     {
       "album": {

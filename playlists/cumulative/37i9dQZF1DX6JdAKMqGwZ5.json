@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Descubre los temas emergentes del mundo indie. Foto: Rodrigo Cuevas.",
+  "description": "Descubre los temas emergentes del mundo indie. Foto: Hnos Munoz.",
   "name": "Radar Indie",
   "tracks": [
     {
@@ -110,6 +110,28 @@
       "duration_ms": 184653,
       "name": "(es posible)",
       "url": "https://open.spotify.com/track/4CtDnjoCgSHnxwTgutzRMt"
+    },
+    {
+      "album": {
+        "name": "1 Dolor",
+        "url": "https://open.spotify.com/album/7gXbL0h3fgN9iThK5cypAG"
+      },
+      "artists": [
+        {
+          "name": "Suave",
+          "url": "https://open.spotify.com/artist/16QMnwd53HiSIbB57esWKu"
+        },
+        {
+          "name": "Junnio",
+          "url": "https://open.spotify.com/artist/1sLvo7ClsDMTBrFe8aTzF6"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186737,
+      "name": "1 Dolor",
+      "url": "https://open.spotify.com/track/6lNBceAGdl6t9slEQQc9UC"
     },
     {
       "album": {
@@ -1992,7 +2014,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 192115,
       "name": "CENT PER CENT",
       "url": "https://open.spotify.com/track/4DN7qIOgFue3K9mH6sJs6Y"
@@ -2913,6 +2935,24 @@
     },
     {
       "album": {
+        "name": "De Tanto Leer...!",
+        "url": "https://open.spotify.com/album/5eFVEPOqYg8q2XKJMm6t1D"
+      },
+      "artists": [
+        {
+          "name": "Dianka",
+          "url": "https://open.spotify.com/artist/1wEtCoZtRJARnoN74e5Seh"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175772,
+      "name": "De Tanto Leer...!",
+      "url": "https://open.spotify.com/track/3ziE7Z06Bhc6KrXXXVRfkh"
+    },
+    {
+      "album": {
         "name": "Canciones En Mi",
         "url": "https://open.spotify.com/album/1shj8Q3BAMvtZkaG9m0mfI"
       },
@@ -3161,6 +3201,24 @@
     },
     {
       "album": {
+        "name": "Descuidarme",
+        "url": "https://open.spotify.com/album/5zPX4zvXObI2Vmbd24ZsnR"
+      },
+      "artists": [
+        {
+          "name": "Hnos Munoz",
+          "url": "https://open.spotify.com/artist/4ePbu0sj0JjaPgGkoRDDdU"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180854,
+      "name": "Descuidarme",
+      "url": "https://open.spotify.com/track/41x6CHgGXKDKiSJxksPRvb"
+    },
+    {
+      "album": {
         "name": "desde arriba",
         "url": "https://open.spotify.com/album/1cpioneGnMei1teo1xmSRv"
       },
@@ -3298,7 +3356,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 158519,
       "name": "DETR\u00c1S DE LA MESA DEL DJ",
       "url": "https://open.spotify.com/track/0RxOU9dZ3iLBD07RPtVqtV"
@@ -3516,6 +3574,24 @@
       "duration_ms": 229845,
       "name": "d\u00e9ixate ver",
       "url": "https://open.spotify.com/track/16J3yCDBwzw8OWSCihH4U6"
+    },
+    {
+      "album": {
+        "name": "La Insolaci\u00f3n",
+        "url": "https://open.spotify.com/album/2MXZYf9orI7MEZhgSs0j5j"
+      },
+      "artists": [
+        {
+          "name": "Martin",
+          "url": "https://open.spotify.com/artist/7axPkSaeZBpVJRyOj5vKPC"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187634,
+      "name": "D\u00e9jalo Ir",
+      "url": "https://open.spotify.com/track/3dwNV44galFE5WawZyK9Z7"
     },
     {
       "album": {
@@ -4794,7 +4870,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 172358,
       "name": "ESTOY ENFERMO",
       "url": "https://open.spotify.com/track/2Hqj4iuaUwKGysehM9bLsJ"
@@ -6503,6 +6579,24 @@
     },
     {
       "album": {
+        "name": "El final",
+        "url": "https://open.spotify.com/album/5fXUKHOIBvJwR4SvcCyxpD"
+      },
+      "artists": [
+        {
+          "name": "Verde Prato",
+          "url": "https://open.spotify.com/artist/04WGKyAt0klDPxUw2roFfi"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198995,
+      "name": "La ficci\u00f3n",
+      "url": "https://open.spotify.com/track/6WTsVuIxIgTAe7byjV16jR"
+    },
+    {
+      "album": {
         "name": "La Grieta (Una casa)",
         "url": "https://open.spotify.com/album/5M92w58lKs9bKRfK9barPE"
       },
@@ -6674,6 +6768,24 @@
       "duration_ms": 225863,
       "name": "La Plaza del Carmen",
       "url": "https://open.spotify.com/track/1KngaoX2kdZM5RnKZrQhpS"
+    },
+    {
+      "album": {
+        "name": "Las malas hierbas",
+        "url": "https://open.spotify.com/album/1BoBbwXCcNJjkHbcsjZjlQ"
+      },
+      "artists": [
+        {
+          "name": "Julio de la Rosa",
+          "url": "https://open.spotify.com/artist/1TlayDixkhMb8CbDXwKcyP"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178404,
+      "name": "La silla de las fieras",
+      "url": "https://open.spotify.com/track/2pKg6jDZreex3cPnYq9ZQr"
     },
     {
       "album": {
@@ -8942,7 +9054,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 192178,
       "name": "NaNaNa",
       "url": "https://open.spotify.com/track/52JoYnWIjmbSNAR66AxHRb"
@@ -9544,7 +9656,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 197881,
       "name": "No Tocar",
       "url": "https://open.spotify.com/track/1tOcGxiBoKfujlna4Ze57I"
@@ -10064,7 +10176,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 190990,
       "name": "otra cama en otro hotel de otra ciudad",
       "url": "https://open.spotify.com/track/5grJxDf31WaWn3Vl7spjWY"
@@ -10972,7 +11084,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 193157,
       "name": "Que Tapen El Sol",
       "url": "https://open.spotify.com/track/5Tg326RY8O4HKnLOtxmuHi"
@@ -11164,6 +11276,24 @@
       "duration_ms": 202846,
       "name": "Qu\u00e9 M\u00e1s Da",
       "url": "https://open.spotify.com/track/1MiHaYKQiMFLFraTFlguMN"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9 Pena",
+        "url": "https://open.spotify.com/album/51w894CGEBIy57G7xetuNq"
+      },
+      "artists": [
+        {
+          "name": "Emilia, Pardo y Baz\u00e1n",
+          "url": "https://open.spotify.com/artist/3Wu21kxlNyuHhyGbCndp7j"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183638,
+      "name": "Qu\u00e9 Pena",
+      "url": "https://open.spotify.com/track/7MDl8VL8Pt5QdlbXTc8j2y"
     },
     {
       "album": {
@@ -13033,6 +13163,24 @@
     },
     {
       "album": {
+        "name": "TIPOS DUROS",
+        "url": "https://open.spotify.com/album/5kUpKxg9udGOi8sliS9z4m"
+      },
+      "artists": [
+        {
+          "name": "RATA",
+          "url": "https://open.spotify.com/artist/28xI1L1VYJXU9XnhzWmHdR"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219501,
+      "name": "TIPOS DUROS",
+      "url": "https://open.spotify.com/track/6O5EF55NTj7Pf8dkTvs9GL"
+    },
+    {
+      "album": {
         "name": "Tirant lo Blanc",
         "url": "https://open.spotify.com/album/4BnDmTrXNNHZtGPfu3PgxQ"
       },
@@ -14706,7 +14854,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 197092,
       "name": "Zzz",
       "url": "https://open.spotify.com/track/5Qy6fj90JHqBQb3Sjn9bZE"

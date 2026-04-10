@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-13",
-  "description": "Homegrown Ugandan gems in one playlist. Cover: Pallaso",
+  "description": "Homegrown Ugandan gems in one playlist. Cover: A Pass",
   "name": "Made In Uganda",
   "tracks": [
     {
@@ -710,6 +710,28 @@
       "duration_ms": 165250,
       "name": "Back",
       "url": "https://open.spotify.com/track/3hf9XdQz2JETTL489EiI6b"
+    },
+    {
+      "album": {
+        "name": "Bad Touch",
+        "url": "https://open.spotify.com/album/6vP98pEsR3HFhbj2WhNype"
+      },
+      "artists": [
+        {
+          "name": "Ugaboys",
+          "url": "https://open.spotify.com/artist/3MJRn5EWi6McEFbI00qNGe"
+        },
+        {
+          "name": "Dax Vibez",
+          "url": "https://open.spotify.com/artist/3CX4qYIxJf5ezSHTYsGaMT"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176621,
+      "name": "Bad Touch",
+      "url": "https://open.spotify.com/track/69HHWBzwVG0fmKOCks142b"
     },
     {
       "album": {
@@ -2308,7 +2330,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 165668,
       "name": "Daily",
       "url": "https://open.spotify.com/track/3eVfm7a08o18EUiejVetSm"
@@ -2998,6 +3020,28 @@
       "duration_ms": 193776,
       "name": "Enjoyment",
       "url": "https://open.spotify.com/track/5pf5ek4NcXQAsuoRhvO7A3"
+    },
+    {
+      "album": {
+        "name": "Enough",
+        "url": "https://open.spotify.com/album/1mIZQiiY4xhvT3m6s1sr3k"
+      },
+      "artists": [
+        {
+          "name": "The SandBox Ug",
+          "url": "https://open.spotify.com/artist/5xPuytk2jpNmbWUL63FOj0"
+        },
+        {
+          "name": "Cyrus Kingsley",
+          "url": "https://open.spotify.com/artist/1M9wBEp6ubilLAmbbfmjQT"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174857,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/12WyvHtI6mqV3CpXmpw9nx"
     },
     {
       "album": {
@@ -4079,6 +4123,32 @@
     },
     {
       "album": {
+        "name": "If You Try",
+        "url": "https://open.spotify.com/album/0iF3xgiDeR9hqRi3c62NdQ"
+      },
+      "artists": [
+        {
+          "name": "Ogeezy",
+          "url": "https://open.spotify.com/artist/0SatsvdVxN5iPo2VTGPuVY"
+        },
+        {
+          "name": "Soundlykbb",
+          "url": "https://open.spotify.com/artist/2izHnGuv9KzbPbfX6KsoTG"
+        },
+        {
+          "name": "Joka",
+          "url": "https://open.spotify.com/artist/7umpHJB8guUwgjaP2ZryKw"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176299,
+      "name": "If You Try",
+      "url": "https://open.spotify.com/track/5vDaZI2RvpevJq7xUWkKSI"
+    },
+    {
+      "album": {
         "name": "Casa's Journal",
         "url": "https://open.spotify.com/album/1GCH6CJ00ZBX5C7NCySAyB"
       },
@@ -4246,6 +4316,28 @@
       "duration_ms": 186976,
       "name": "Jooli",
       "url": "https://open.spotify.com/track/2WZqtIHlTeusn6WHLx0aqN"
+    },
+    {
+      "album": {
+        "name": "Kagoma Kalubendela",
+        "url": "https://open.spotify.com/album/3C6hWo0Ui6F3sS1yH9VoyO"
+      },
+      "artists": [
+        {
+          "name": "Aaronx",
+          "url": "https://open.spotify.com/artist/0xugx9prgn4pE8t7iZNk2W"
+        },
+        {
+          "name": "Echoled",
+          "url": "https://open.spotify.com/artist/0tVbW89Gmk8xqxAuc06c3k"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157580,
+      "name": "Kagoma Kalubendela",
+      "url": "https://open.spotify.com/track/6oNynWOffsleuOqPkZJIuv"
     },
     {
       "album": {
@@ -5743,6 +5835,28 @@
     },
     {
       "album": {
+        "name": "Miracles",
+        "url": "https://open.spotify.com/album/34BEi6YPEMMjLbTJdnztzd"
+      },
+      "artists": [
+        {
+          "name": "A Pass",
+          "url": "https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX"
+        },
+        {
+          "name": "Kaboo",
+          "url": "https://open.spotify.com/artist/1FnoEiqvXw7PxEADLnuPkD"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178200,
+      "name": "Miracles",
+      "url": "https://open.spotify.com/track/7Mhnm4DYsd39IG1U57Bwrp"
+    },
+    {
+      "album": {
         "name": "SANKOFA",
         "url": "https://open.spotify.com/album/1zSyQiZdfsczxs84VVghKC"
       },
@@ -5832,6 +5946,24 @@
       "duration_ms": 158500,
       "name": "Morocco - Remix",
       "url": "https://open.spotify.com/track/6K0yyDL8HIakuunhcTAttS"
+    },
+    {
+      "album": {
+        "name": "MOSQUITOES",
+        "url": "https://open.spotify.com/album/7CudWV8gnBMZx9v3wfDjnS"
+      },
+      "artists": [
+        {
+          "name": "Amanya",
+          "url": "https://open.spotify.com/artist/3aCNLoqUdxHi5ZXSmlOsHh"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107368,
+      "name": "MOSQUITOES",
+      "url": "https://open.spotify.com/track/2FIlgyfaaE6jL3o19pB1V0"
     },
     {
       "album": {
@@ -6648,7 +6780,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 182985,
       "name": "Njagala Banjagala",
       "url": "https://open.spotify.com/track/5SoOchV6p7ZeIMo4h7s2KA"
@@ -6666,7 +6798,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 178217,
       "name": "Njagala Mukwano",
       "url": "https://open.spotify.com/track/6PzFNEhqh5s5osIbIgseE5"
@@ -7450,7 +7582,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 118857,
       "name": "Omugongo",
       "url": "https://open.spotify.com/track/0ex3U5VZRZou8FZVxXFGah"
@@ -8348,7 +8480,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 173901,
       "name": "Revolve",
       "url": "https://open.spotify.com/track/7EyJa8jYBkpRO8NxFFaH8a"
@@ -9222,7 +9354,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 148070,
       "name": "Sugar and Honey",
       "url": "https://open.spotify.com/track/4NYHjyxsy95rAqVMCcfxLi"

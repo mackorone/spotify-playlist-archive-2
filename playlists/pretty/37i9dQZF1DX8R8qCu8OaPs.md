@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8R8qCu8OaPs.md) - [plain]
 
 > Listen to the soundtracks of My Youth\. \(마이 유스의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,891 likes - 27 songs - 1 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,892 likes - 27 songs - 1 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8R8qCu8OaPs.md) - [plain]
 | 18 | [Dandelion \- single ver.](https://open.spotify.com/track/3eOXiUUfz9OhyVqoREsJYe) | [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Dandelion](https://open.spotify.com/album/3Jshf9ojwr5KPw0WznX3uk) | 4:12 |
 | 19 | [Everglow](https://open.spotify.com/track/5qfZRNjt2TkHEL12r3sDEU) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Head Full of Dreams](https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw) | 4:42 |
 | 20 | [우주를 건너](https://open.spotify.com/track/0i2XXofKXlXbZ2sjnh06Jj) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [FRANK](https://open.spotify.com/album/1ZEIytGF7NOGMyo7UdHixJ) | 4:07 |
-| 21 | [비밀의 화원](https://open.spotify.com/track/2Oe0zgUBGRzkP4KtpIlo8c) | [Lee Sang Eun](https://open.spotify.com/artist/0Gqc2XO4Wu0YpYVWSiDwYt) | [신비체험](https://open.spotify.com/album/52etdX6SVjZQNwQqS74Cys) | 4:09 |
+| 21 | [비밀의 화원](https://open.spotify.com/track/2Oe0zgUBGRzkP4KtpIlo8c) | [Lee Sang\-Eun](https://open.spotify.com/artist/4uaP0mhy7ViCvT00Wduonj) | [신비체험](https://open.spotify.com/album/52etdX6SVjZQNwQqS74Cys) | 4:09 |
 | 22 | [Lover](https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:41 |
 | 23 | [Curated by SEO JI HOON](https://open.spotify.com/track/5bUP3GPOjNi9AIDhDPXEQ4) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [My Youth Audio Liners](https://open.spotify.com/album/2QTDJwILYDUw2PehPkYwzt) | 0:42 |
 | 24 | [One Last Poem](https://open.spotify.com/track/3NXNehGmRu9mH6BItOwSEp) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Hopeless Romantic](https://open.spotify.com/album/1EVvzyt33kcS37UOcQIhYS) | 3:40 |

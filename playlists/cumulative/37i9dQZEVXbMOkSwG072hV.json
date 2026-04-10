@@ -5339,6 +5339,32 @@
     },
     {
       "album": {
+        "name": "Anivers\u00e1rio do Chefe",
+        "url": "https://open.spotify.com/album/1AhgkhNwZASd5Q4zJ1r54y"
+      },
+      "artists": [
+        {
+          "name": "Selminho DJ",
+          "url": "https://open.spotify.com/artist/1szIIFdhWodOHfQUDn39ib"
+        },
+        {
+          "name": "Mc Mingau",
+          "url": "https://open.spotify.com/artist/7tSLlq2b06iN7Z25KkrnhE"
+        },
+        {
+          "name": "Mc Jajau",
+          "url": "https://open.spotify.com/artist/3xJ3stRn1VTzH0EgGmF4hm"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155188,
+      "name": "Anivers\u00e1rio do Chefe",
+      "url": "https://open.spotify.com/track/7wcA5OdSEkir6F8G9Hjv85"
+    },
+    {
+      "album": {
         "name": "Anjo Ca\u00eddo",
         "url": "https://open.spotify.com/album/4bxLcjoW1L7ewQi9E62uFt"
       },
@@ -34500,7 +34526,7 @@
       ],
       "date_added": "2026-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 193733,
       "name": "Go Away",
       "url": "https://open.spotify.com/track/1O9D7P7Z1wMJXW19zTXrXi"
@@ -44296,7 +44322,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 404213,
       "name": "Lover, You Should've Come Over",
       "url": "https://open.spotify.com/track/6Jv7kjGkhY2fT4yuBF3aTz"
@@ -49976,7 +50002,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 229855,
       "name": "Merry Go Round",
       "url": "https://open.spotify.com/track/3VegC0PZiHjGxb80DER8XU"
@@ -82505,6 +82531,24 @@
     },
     {
       "album": {
+        "name": "BRUTAL PARA\u00cdSO",
+        "url": "https://open.spotify.com/album/3MhU6GRGIRgdjoDgltogAQ"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91749,
+      "name": "Telefone",
+      "url": "https://open.spotify.com/track/2Tfpk9vbsgqUKD3dkDJ3hL"
+    },
+    {
+      "album": {
         "name": "Telefone",
         "url": "https://open.spotify.com/album/2va62ELLdq6PygdowajASo"
       },
@@ -82516,7 +82560,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 91749,
       "name": "Telefone",
       "url": "https://open.spotify.com/track/7rIeU9DvfVAz2hroqBAiuV"

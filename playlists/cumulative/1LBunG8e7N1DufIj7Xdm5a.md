@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,204 songs - 9 day 7 hr 59 min
+4,205 songs - 9 day 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1307,6 +1307,7 @@
 | [Extasi](https://open.spotify.com/track/6ojrj2NSj3EkMm05yiuaMG) | [Fred De Palma](https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q) | [Extasi](https://open.spotify.com/album/5D6d0m5tYnBz0wowzfLlQ6) | 2:37 | 2023-01-07 |  |
 | [F\*cked A Fan](https://open.spotify.com/track/5VMivzA6e7YD4HrZZEpclj) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [F\*cked A Fan](https://open.spotify.com/album/0sAfbjseurhcUHr03GquMV) | 3:10 | 2025-07-28 |  |
 | [F.U.B.U](https://open.spotify.com/track/5JJSjcL4WAlUQmcNzvaSJA) | [Prince MSK](https://open.spotify.com/artist/2uBjCmm2Y4L5UeYwe4JvL8) | [For Us By Us](https://open.spotify.com/album/4dV17FfYyYFFm9raWRvtR6) | 2:57 | 2025-06-05 |  |
+| [Facciamo Magia](https://open.spotify.com/track/14IlnJGHHbt4JzduLMdFMR) | [Artide](https://open.spotify.com/artist/7JDUHZiaiEls9VVH7hmnNF) | [Facciamo Magia](https://open.spotify.com/album/3mESk1TGMe6222vIIp8xMi) | 3:06 | 2026-04-09 |  |
 | [Face the Dawn](https://open.spotify.com/track/58f06jzoz7lgkE2aAswvKK) | [D.K.S](https://open.spotify.com/artist/5sfNwOdJfGiByPChBDZnxs) | [Face the Dawn](https://open.spotify.com/album/3kxpN2lIQInXXRtWoHTITh) | 3:05 | 2025-10-10 |  |
 | [Face to Face](https://open.spotify.com/track/4u3Aajaq6TYC9tElKr3p6C) | [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi) | [Face to Face](https://open.spotify.com/album/4TTBTNzNSNirHge7QCjhIl) | 1:36 | 2025-07-28 |  |
 | [Face Your Demons](https://open.spotify.com/track/58FQyH5jqb85CzURK0qxrV) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Heart Vs\. Mind](https://open.spotify.com/album/6bywSFiasl6HpfQLDvh0az) | 3:11 | 2025-04-09 |  |

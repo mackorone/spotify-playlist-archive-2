@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Talenta tanah air yang dapat menyeberang lintas negara. Cover: Zoe Levana",
+  "description": "Talenta tanah air yang dapat menyeberang lintas negara. Cover: Cece Caramel",
   "name": "Ke Seberang",
   "tracks": [
     {
@@ -349,6 +349,24 @@
     },
     {
       "album": {
+        "name": "Kinder World",
+        "url": "https://open.spotify.com/album/3q7SedCqngB7tvHhw8ct9t"
+      },
+      "artists": [
+        {
+          "name": "Lor",
+          "url": "https://open.spotify.com/artist/0IMWbeAo0Sc9kkhNECqFIX"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188157,
+      "name": "A Kinder World",
+      "url": "https://open.spotify.com/track/7bFC8LVpuLnGcdTXXeyQXJ"
+    },
+    {
+      "album": {
         "name": "A Little Less",
         "url": "https://open.spotify.com/album/7lfeZvHZKJsmsnJEpiyNxi"
       },
@@ -378,7 +396,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 288500,
       "name": "a little too sad if you think about it.",
       "url": "https://open.spotify.com/track/3N5ocxGt2itRnxLSZlY57Y"
@@ -610,7 +628,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 193058,
       "name": "ALIVE",
       "url": "https://open.spotify.com/track/7qL1ImIs0qrXds1ldjicPx"
@@ -1736,6 +1754,24 @@
       "duration_ms": 175693,
       "name": "Buzz",
       "url": "https://open.spotify.com/track/4fLspOxX39tXzHHqrEqTgf"
+    },
+    {
+      "album": {
+        "name": "Caramelting",
+        "url": "https://open.spotify.com/album/3UmgYlwjVpYAHTWL7pHUCj"
+      },
+      "artists": [
+        {
+          "name": "Cece Caramel",
+          "url": "https://open.spotify.com/artist/1AGoLYap5zJzPMHu2lO5EY"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194094,
+      "name": "Buzzin",
+      "url": "https://open.spotify.com/track/2zbNNWI53q6yRi6jdYfwX1"
     },
     {
       "album": {
@@ -2939,6 +2975,24 @@
     },
     {
       "album": {
+        "name": "END GREAT WARS",
+        "url": "https://open.spotify.com/album/5q6CFKP94gunMormuC1ADy"
+      },
+      "artists": [
+        {
+          "name": "Weda Mauve",
+          "url": "https://open.spotify.com/artist/1Gug2KeUuhhVUW8WTIYIH6"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271667,
+      "name": "END GREAT WARS",
+      "url": "https://open.spotify.com/track/2OvgEODTlx5Lo5MV3t1DLz"
+    },
+    {
+      "album": {
         "name": "Ends With Holding You",
         "url": "https://open.spotify.com/album/0vMrWcXjNwvuCpKQiTTx2O"
       },
@@ -2950,7 +3004,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 192989,
       "name": "Ends With Holding You",
       "url": "https://open.spotify.com/track/1CvoH9A32Dod8hgn0Jhy1A"
@@ -3724,7 +3778,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 229122,
       "name": "Fresh (2022)",
       "url": "https://open.spotify.com/track/4azgcqmNacFixjTtLZlHdl"
@@ -3888,7 +3942,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 202105,
       "name": "Get By",
       "url": "https://open.spotify.com/track/37c8f4PsddXAHrMftJ6sVb"
@@ -3910,7 +3964,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 162763,
       "name": "Get It",
       "url": "https://open.spotify.com/track/0RYMgLs7qVOWQNIFCq3K5e"
@@ -4166,7 +4220,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 201000,
       "name": "Good Morning, Goodbye",
       "url": "https://open.spotify.com/track/4Fb1gbBMGtDSx9CTfLHPBO"
@@ -4754,7 +4808,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 423228,
       "name": "I (Don\u2019t) Wanna Be Alone",
       "url": "https://open.spotify.com/track/6NRabGD7atQbmMggn63Chc"
@@ -5004,7 +5058,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 243846,
       "name": "I Love You More",
       "url": "https://open.spotify.com/track/6QpCGTfiUELLODEDjqZwXd"
@@ -5238,7 +5292,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 241480,
       "name": "If Only",
       "url": "https://open.spotify.com/track/5igPUqZAso9bMHVCpS5USI"
@@ -5354,6 +5408,24 @@
       "duration_ms": 202080,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/5MNqHwNYDBkKVtqViQnmaP"
+    },
+    {
+      "album": {
+        "name": "In This Burnin' World",
+        "url": "https://open.spotify.com/album/3Ws1eaRlUZRinh7TnrnJ9t"
+      },
+      "artists": [
+        {
+          "name": "Delorians",
+          "url": "https://open.spotify.com/artist/3veLkV7PryzEQXJnFxDhON"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258549,
+      "name": "In This Burnin' World",
+      "url": "https://open.spotify.com/track/3CKIwwfOLHo0rmKlyjMqfS"
     },
     {
       "album": {
@@ -5514,7 +5586,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 259632,
       "name": "It Hurts A Little",
       "url": "https://open.spotify.com/track/53yLJQ8cpghI7pBjVuMknH"
@@ -7808,7 +7880,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 232622,
       "name": "ONE LAST KISS",
       "url": "https://open.spotify.com/track/14Wjf3fxtkuc5MZPKo9Ioo"
@@ -8900,7 +8972,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 274096,
       "name": "Secondary",
       "url": "https://open.spotify.com/track/04COCuyvbPjkSiJ30kxeuP"
@@ -9174,7 +9246,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 210000,
       "name": "Silver Moon",
       "url": "https://open.spotify.com/track/2fGVZtkYgdmZ5Q0IJhA6b6"
@@ -10212,7 +10284,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 246972,
       "name": "The One",
       "url": "https://open.spotify.com/track/3zLffbzNxo7ADl5bAf3kOL"
@@ -10288,7 +10360,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 171010,
       "name": "The Songbird",
       "url": "https://open.spotify.com/track/2bAfWhm7VR3JEQs4W0TyfE"
@@ -11060,7 +11132,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 243818,
       "name": "Went Home",
       "url": "https://open.spotify.com/track/1gpXTR7JTfusUdQeXfrlVr"

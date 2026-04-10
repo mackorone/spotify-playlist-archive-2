@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-06-02",
-  "description": "Le meilleur du rap africain francophone. Photo : Himra",
+  "description": "Le meilleur du rap africain francophone. Photo : Ameka Zrai",
   "name": "Afro Rap",
   "tracks": [
     {
@@ -527,6 +527,28 @@
     },
     {
       "album": {
+        "name": "Ba Mambu",
+        "url": "https://open.spotify.com/album/65Na0RqvLk8oDFesHM3kgM"
+      },
+      "artists": [
+        {
+          "name": "Authentic Badboy",
+          "url": "https://open.spotify.com/artist/3NRn6L3qInlNL5cEOX0voK"
+        },
+        {
+          "name": "Paterne Maestro",
+          "url": "https://open.spotify.com/artist/77I75BZlpcoggeiSxUUp7r"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226174,
+      "name": "Ba Mambu",
+      "url": "https://open.spotify.com/track/4M6rjAN2HfvxSUHPrABzF9"
+    },
+    {
+      "album": {
         "name": "Baby Bash",
         "url": "https://open.spotify.com/album/6qiBTiNu1cTpdpayaNuwmz"
       },
@@ -658,6 +680,24 @@
       "duration_ms": 121846,
       "name": "BONJOUR!",
       "url": "https://open.spotify.com/track/4GsqboRNcCJUt1jhYBu4nw"
+    },
+    {
+      "album": {
+        "name": "BOTCHOR",
+        "url": "https://open.spotify.com/album/0u3GmzV9AkXcjpDuvhy9FZ"
+      },
+      "artists": [
+        {
+          "name": "SDA !!",
+          "url": "https://open.spotify.com/artist/7LQs4ONzBN54spyX3tfa4T"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150349,
+      "name": "BOTCHOR",
+      "url": "https://open.spotify.com/track/5G92E44Zs2Xq35H7MrxTZm"
     },
     {
       "album": {
@@ -1001,6 +1041,24 @@
     },
     {
       "album": {
+        "name": "Carr\u00e9 VIP",
+        "url": "https://open.spotify.com/album/5rm9gVo6kT1RXftD3G9P4I"
+      },
+      "artists": [
+        {
+          "name": "Lil Jay Bingerack",
+          "url": "https://open.spotify.com/artist/5v1lkZbpgPYKmyDzqc4Klu"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "Carr\u00e9 VIP",
+      "url": "https://open.spotify.com/track/6ruPUqKQpGvk8kkKoJlHzp"
+    },
+    {
+      "album": {
         "name": "Catimini",
         "url": "https://open.spotify.com/album/1CV376kiafI3z4tHv5UFWm"
       },
@@ -1182,7 +1240,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 124800,
       "name": "Comeback",
       "url": "https://open.spotify.com/track/1lnP1rWlyKTAPMs9q4d00w"
@@ -1412,7 +1470,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 157514,
       "name": "Daishi Drill",
       "url": "https://open.spotify.com/track/3bfDcnm4XmGBPOwxGlaDOh"
@@ -2785,6 +2843,32 @@
     },
     {
       "album": {
+        "name": "JET SET",
+        "url": "https://open.spotify.com/album/3hlJr1ryAyQ9mavdIqLneV"
+      },
+      "artists": [
+        {
+          "name": "Ameka Zrai",
+          "url": "https://open.spotify.com/artist/2PG1Fj7Mp49NqxNtjZdMsv"
+        },
+        {
+          "name": "OG Mahilet",
+          "url": "https://open.spotify.com/artist/3WbcgjqtToJiTxZ3IlibGT"
+        },
+        {
+          "name": "Hoodbaby",
+          "url": "https://open.spotify.com/artist/2QUhLhWyOfUIJnSCwmJNbY"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184347,
+      "name": "JET SET",
+      "url": "https://open.spotify.com/track/6FZZQalH51XLffDBwkh1JO"
+    },
+    {
+      "album": {
         "name": "Invictus",
         "url": "https://open.spotify.com/album/5Stk1SFLqNGuZJnLGMaF3X"
       },
@@ -2966,7 +3050,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 136789,
       "name": "L'OISEAU RARE",
       "url": "https://open.spotify.com/track/61ABoH9zJSg1SGqowUeLS6"
@@ -3911,6 +3995,28 @@
     },
     {
       "album": {
+        "name": "Nienza",
+        "url": "https://open.spotify.com/album/7Ak8bb5MXl4X7xQtNCJdHo"
+      },
+      "artists": [
+        {
+          "name": "ADB",
+          "url": "https://open.spotify.com/artist/3rNdf6wK0vycXyi6Di7VOL"
+        },
+        {
+          "name": "Troy",
+          "url": "https://open.spotify.com/artist/5sq7wkuYDpTY6p8cWKplfw"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176173,
+      "name": "Nienza",
+      "url": "https://open.spotify.com/track/35fJYNbufm2t3YK16O1FUj"
+    },
+    {
+      "album": {
         "name": "G-POP CLASSIKS .02",
         "url": "https://open.spotify.com/album/1fn8dKD4ny7VinAvpTw6sp"
       },
@@ -4199,6 +4305,28 @@
     },
     {
       "album": {
+        "name": "AFRO-N-TCHAM 2",
+        "url": "https://open.spotify.com/album/0aTEIBSkouiQnHANZUekbg"
+      },
+      "artists": [
+        {
+          "name": "L'Oiseau Rare",
+          "url": "https://open.spotify.com/artist/4IAlTRWiKoAqAQLgyupL0U"
+        },
+        {
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178909,
+      "name": "OKULU",
+      "url": "https://open.spotify.com/track/5EYzkAbjF5CEY2SWtyUeYl"
+    },
+    {
+      "album": {
         "name": "OM O'CLOCK",
         "url": "https://open.spotify.com/album/36t1oNKMKQKKUCHJ6Mwfwy"
       },
@@ -4276,7 +4404,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 140689,
       "name": "OPPS",
       "url": "https://open.spotify.com/track/4F4uhw5w3awax9gr6oiw37"
@@ -4374,7 +4502,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 188734,
       "name": "Papito",
       "url": "https://open.spotify.com/track/421gugauN1h8pMGYNFQdne"
@@ -4392,7 +4520,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 182074,
       "name": "PARTIR",
       "url": "https://open.spotify.com/track/0pLjDtgC1pwteoo8WmpgoM"
@@ -4906,6 +5034,28 @@
       "duration_ms": 169737,
       "name": "Satanana (feat. DRE-A)",
       "url": "https://open.spotify.com/track/0QgxlcdUM6wUniw0ppYQlG"
+    },
+    {
+      "album": {
+        "name": "Securiser",
+        "url": "https://open.spotify.com/album/06WMbjeGQ4pSSXhdiXmsXr"
+      },
+      "artists": [
+        {
+          "name": "Kocee",
+          "url": "https://open.spotify.com/artist/2kzxvChUUVpkgySPhCcUT6"
+        },
+        {
+          "name": "Sindika",
+          "url": "https://open.spotify.com/artist/4ybznNtkCXSGMPkAfykkrV"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174222,
+      "name": "Securiser",
+      "url": "https://open.spotify.com/track/5UtM5QxsLvNHnTVsD0JD6N"
     },
     {
       "album": {
@@ -5662,7 +5812,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 148401,
       "name": "Tu veux g\u00e2ter ?",
       "url": "https://open.spotify.com/track/7IEJeRkgjVNp1CtkU0Pr12"
@@ -5684,7 +5834,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 136169,
       "name": "T\u00e9l\u00e9 contre T\u00e9l\u00e9",
       "url": "https://open.spotify.com/track/7bVy2WCPEvVAIj4YuXJOzh"
@@ -5888,6 +6038,28 @@
       "duration_ms": 172881,
       "name": "Yako",
       "url": "https://open.spotify.com/track/6G43nkxTAkhPDTema2kixZ"
+    },
+    {
+      "album": {
+        "name": "Ye connin",
+        "url": "https://open.spotify.com/album/3yryFsTja1NPsKW0VN5b0l"
+      },
+      "artists": [
+        {
+          "name": "Elyaquim",
+          "url": "https://open.spotify.com/artist/1WNCIBM1x1OtQ6s5whnuDO"
+        },
+        {
+          "name": "OG Mahilet",
+          "url": "https://open.spotify.com/artist/3WbcgjqtToJiTxZ3IlibGT"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146155,
+      "name": "Ye connin",
+      "url": "https://open.spotify.com/track/1WyYTcHZk45GAHnW6SQXML"
     },
     {
       "album": {

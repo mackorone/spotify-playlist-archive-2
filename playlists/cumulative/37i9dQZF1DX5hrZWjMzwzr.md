@@ -2,7 +2,7 @@
 
 ### [Popkillery 2026: Singiel Roku](https://open.spotify.com/playlist/37i9dQZF1DX5hrZWjMzwzr)
 
-> Posłuchaj wszystkich nominowanych utworów w kategorii singiel roku.
+> Nagrody rozdane! Posłuchaj zwycięzców i  nominowanych utworów w kategorii singiel roku.
 
 222 songs - 11 hr 26 min
 

@@ -930,7 +930,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 165057,
       "name": "Badadi",
       "url": "https://open.spotify.com/track/1dBv07ZgvsNBeQs2lJon6W"
@@ -1346,7 +1346,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 172826,
       "name": "BOUHALI",
       "url": "https://open.spotify.com/track/17AuJgvjtgyQ7QogOS9zMY"
@@ -5689,6 +5689,24 @@
     },
     {
       "album": {
+        "name": "Machi M3ana",
+        "url": "https://open.spotify.com/album/0agRAP2CaWB8QEft37ijFx"
+      },
+      "artists": [
+        {
+          "name": "Shobee",
+          "url": "https://open.spotify.com/artist/5Et8bRmkENeaA7SPwj1OxL"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153595,
+      "name": "Machi M3ana",
+      "url": "https://open.spotify.com/track/7gD7d2dcr6kcftmLBHSZWs"
+    },
+    {
+      "album": {
         "name": "Arabian Heartbreak",
         "url": "https://open.spotify.com/album/42lCJwK9Z7pToqV5TQTHPK"
       },
@@ -7204,6 +7222,24 @@
       "duration_ms": 161118,
       "name": "Papa",
       "url": "https://open.spotify.com/track/4nl8f2KRGtXZvpRe2aQbgw"
+    },
+    {
+      "album": {
+        "name": "Parano",
+        "url": "https://open.spotify.com/album/0w4CLHsQwLk6SEuZWoeG61"
+      },
+      "artists": [
+        {
+          "name": "7liwa",
+          "url": "https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163720,
+      "name": "Parano",
+      "url": "https://open.spotify.com/track/2AFF39DkukQH8csCAzdGXR"
     },
     {
       "album": {

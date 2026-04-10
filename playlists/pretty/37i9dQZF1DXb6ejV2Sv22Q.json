@@ -1,6 +1,6 @@
 {
   "description": "aqu\u00ed est\u00e1 la nueva ola \ud83c\udf0a  GRLS en cover ",
-  "num_followers": 39613,
+  "num_followers": 39617,
   "original_name": "neo m\u00e9xico ",
   "owner": {
     "name": "Spotify",
@@ -243,21 +243,17 @@
     {
       "added_at": "2026-04-03 06:00:59",
       "album": {
-        "name": "pa que (feat. Ed Maverick)",
+        "name": "pa que",
         "url": "https://open.spotify.com/album/54zMR9xpK3l6DHhjitr4Qd"
       },
       "artists": [
         {
           "name": "bpuntito",
           "url": "https://open.spotify.com/artist/7hpawMsfyoRG0gF7VAwv9u"
-        },
-        {
-          "name": "Ed Maverick",
-          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
         }
       ],
       "duration_ms": 196946,
-      "name": "pa que (feat. Ed Maverick)",
+      "name": "pa que",
       "url": "https://open.spotify.com/track/5smAUZtCCJCcHv2qyknRgt"
     },
     {
@@ -306,6 +302,10 @@
         {
           "name": "Francely Abreuu",
           "url": "https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh"
+        },
+        {
+          "name": "Eiti",
+          "url": "https://open.spotify.com/artist/6Q1zzyq7SwqX6JhLAIKl3I"
         }
       ],
       "duration_ms": 147001,

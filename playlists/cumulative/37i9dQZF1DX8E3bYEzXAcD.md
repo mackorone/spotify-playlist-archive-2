@@ -4,7 +4,7 @@
 
 > Rustig aan, ff ademen jij.
 
-52 songs - 2 hr 17 min
+53 songs - 2 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,10 +27,11 @@
 | [GEKKE GUNZ](https://open.spotify.com/track/5BDr1iWvhH8b4oE192HMpT) | [ILLIE](https://open.spotify.com/artist/04fDz5ShbYBrGXsujOoVT5), [Marone](https://open.spotify.com/artist/6BWzlvYNWf5v6W0aoE08x4) | [ILLIEGALITEIT](https://open.spotify.com/album/3i3Tfr42wK3GZ3x8A8AeKF) | 2:29 | 2025-06-27 |  |
 | [Gerechtigheid](https://open.spotify.com/track/1IswIiRshxMSGMWGEdsOuw) | [JayKoppig](https://open.spotify.com/artist/6uQiTAaIF0UBTED52UMcZp) | [Gerechtigheid](https://open.spotify.com/album/3FZgUvklx7yGLJO4GfPtBs) | 3:26 | 2025-06-27 |  |
 | [Grimmig](https://open.spotify.com/track/7mHHDz5Z4HJ3Vusz20ndns) | [Ella](https://open.spotify.com/artist/2LQwOII1L3oQrjWHaNgeWd) | [Grimmig](https://open.spotify.com/album/0pnHayMlrea3RqrkY0h0ay) | 2:08 | 2026-03-12 |  |
+| [Hell](https://open.spotify.com/track/7AJlgDOogKdezrlVDefj5c) | [Rseis](https://open.spotify.com/artist/5xwEnl3D1t6Y03Mr1YsibX), [Fearblow](https://open.spotify.com/artist/35xHCzQHAXuCWut0PxO793), [RResstante](https://open.spotify.com/artist/2VBibXVmZwmvX8tn3maHMC) | [Hell](https://open.spotify.com/album/425iX3QYrvCFtJLh9n2GFu) | 2:41 | 2026-04-09 |  |
 | [HOOFD HEET](https://open.spotify.com/track/4vzRLazetY00bIIND51cbG) | [ILLIE](https://open.spotify.com/artist/04fDz5ShbYBrGXsujOoVT5), [Marone](https://open.spotify.com/artist/6BWzlvYNWf5v6W0aoE08x4) | [ILLIEGALITEIT](https://open.spotify.com/album/3i3Tfr42wK3GZ3x8A8AeKF) | 2:48 | 2025-06-27 |  |
 | [IDEMO](https://open.spotify.com/track/6cjzBMVeoNpHsyIgQ0dMHD) | [Kili](https://open.spotify.com/artist/6A9qX1ebPIWADHzSSOGh8S) | [IDEMO](https://open.spotify.com/album/11E4GX3b6bp7ucN55tMU0F) | 2:19 | 2025-09-10 |  |
 | [Intro/Aventador](https://open.spotify.com/track/6TtVX0hYJp2Ai0VzDZJBRJ) | [Maycash](https://open.spotify.com/artist/3XuZ73r4HTBo0C8rlGSCmD), [RpBeats](https://open.spotify.com/artist/5KycryP0jIKEwY9sl1Fpq9) | [Intro/Aventador](https://open.spotify.com/album/7w7AQJxbxjupFazkF8etvH) | 2:56 | 2025-06-27 |  |
-| [Jabra](https://open.spotify.com/track/095Wi1mUn863osrFmXlHiL) | [GP UIT G](https://open.spotify.com/artist/4dgbnJmnTFDiJiKloaWH2p), [Elevation](https://open.spotify.com/artist/6bVmLQ5Ga3xeKdgfhuqcrI) | [Jabra](https://open.spotify.com/album/2qDKHtqG1s2QHzB9PW2iIN) | 1:31 | 2025-06-27 |  |
+| [Jabra](https://open.spotify.com/track/095Wi1mUn863osrFmXlHiL) | [GP UIT G](https://open.spotify.com/artist/4dgbnJmnTFDiJiKloaWH2p), [Elevation](https://open.spotify.com/artist/6bVmLQ5Ga3xeKdgfhuqcrI) | [Jabra](https://open.spotify.com/album/2qDKHtqG1s2QHzB9PW2iIN) | 1:31 | 2025-06-27 | 2026-04-10 |
 | [La La La](https://open.spotify.com/track/3Z4j3hMz2mTYOtbxz5291r) | [DODO](https://open.spotify.com/artist/0Q73wiY36HDHHvxE9fAI95) | [La La La](https://open.spotify.com/album/1IHAwlSMGkA3lJN50tbRBJ) | 2:23 | 2025-06-27 | 2025-08-29 |
 | [Lego](https://open.spotify.com/track/1ZjEH6v18SchL2oD9EKPDd) | [Leblanco](https://open.spotify.com/artist/3xPDzlchimtvIGqPc1lZl2) | [Lego](https://open.spotify.com/album/7KlTTubyFR9008y1QNefmG) | 2:34 | 2025-06-27 |  |
 | [Liever Alleen](https://open.spotify.com/track/0DwZRtAdpj1LXx7U3m3oko) | [Gior](https://open.spotify.com/artist/5cT3NUrkdYpSsAWLLlUaFA) | [Liever Alleen](https://open.spotify.com/album/4Yamfa5h6uuFgs6xJtClDf) | 2:40 | 2026-02-26 |  |

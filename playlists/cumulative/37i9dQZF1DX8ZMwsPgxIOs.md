@@ -4,7 +4,7 @@
 
 > Techno is a state of mind\. Cover: Lilly Palmer
 
-624 songs - 1 day 21 hr 5 min
+625 songs - 1 day 21 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,6 +302,7 @@
 | [Komodo](https://open.spotify.com/track/1ABRhft3atwd5itDELR0jD) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU), [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp) | [Komodo](https://open.spotify.com/album/1K4UbTRjbfTUR0Xh7NdRjy) | 3:21 | 2025-09-04 |  |
 | [Last Night \- Anyma x Layton Giordani Remix](https://open.spotify.com/track/22hOKPKTAegLoLJKM33K4a) | [Loofy](https://open.spotify.com/artist/6zx3vuOK841XDu7XFozhFv), [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Last Night \(Anyma x Layton Giordani Remix\)](https://open.spotify.com/album/001JSP4fD2dw3KA95XFxOa) | 4:16 | 2024-05-17 | 2025-06-21 |
 | [Late At Night](https://open.spotify.com/track/0sc94v4bi5XGSPSjjXK0Zh) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Late At Night](https://open.spotify.com/album/0QlZatFyE1W9Mo9p1fMzfG) | 2:36 | 2025-06-20 |  |
+| [Lazer Beams](https://open.spotify.com/track/3MGn2DU2SY4Yo1dQdyHX1N) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Harvard Bass](https://open.spotify.com/artist/0PpMaWbHMqUcVYcsF2O9CM), [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ) | [Lazer Beams](https://open.spotify.com/album/6PXM9larK63hojdZN16juy) | 3:54 | 2026-04-10 |  |
 | [Leader Of The Pack](https://open.spotify.com/track/4p0KJzcSeiaihxl3lu6iJW) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [Leader Of The Pack](https://open.spotify.com/album/7uUewrCrnDQ9NE77MGp62p) | 3:58 | 2024-12-06 | 2025-05-09 |
 | [Leela](https://open.spotify.com/track/29OT2Z3wFP9dHbCkVTrTGA) | [Jerome](https://open.spotify.com/artist/2nBW1boUyewDzaMao8BrtJ) | [Leela](https://open.spotify.com/album/3wyAWANSMUCT1pCnwcHbVM) | 5:22 | 2022-04-15 | 2022-11-09 |
 | [Leela](https://open.spotify.com/track/6FbdCNOZ4ldJPi43Rf01iE) | [Jerome](https://open.spotify.com/artist/2nBW1boUyewDzaMao8BrtJ) | [LP2](https://open.spotify.com/album/55sCnDa3AJX3CeSM0pSO8e) | 5:22 | 2022-10-28 | 2022-11-11 |

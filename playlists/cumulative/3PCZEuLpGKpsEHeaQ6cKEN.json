@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "The tracks we love, work on and enjoy every hour of the day | Including trance, house, techno, dance, Afro house, melodic techno | Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! | Updated weekly on Friday |",
+  "description": "The tracks we love, work on and enjoy every hour of the day | Including trance, house, techno, dance, Afro house, melodic techno | Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! | Updated weekly on Friday | Cover: Armin van Buuren &amp; Olive Anguz",
   "name": "Armada Today",
   "tracks": [
     {
@@ -2959,6 +2959,28 @@
     },
     {
       "album": {
+        "name": "Beyond",
+        "url": "https://open.spotify.com/album/420VNmOgfbiaqTpxjrLYN3"
+      },
+      "artists": [
+        {
+          "name": "Arodes",
+          "url": "https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47"
+        },
+        {
+          "name": "Mojave Grey",
+          "url": "https://open.spotify.com/artist/4RHpnWpQb7IkQLmp10YKRI"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206701,
+      "name": "Beyond",
+      "url": "https://open.spotify.com/track/6BFPzAkCTB6KvJW1gOUTVe"
+    },
+    {
+      "album": {
         "name": "Big Fun",
         "url": "https://open.spotify.com/album/551L9RzD8tuvZvBPwRT42u"
       },
@@ -5406,6 +5428,24 @@
       "duration_ms": 198425,
       "name": "Colours Of Love",
       "url": "https://open.spotify.com/track/0y4LbOxZEpwmfVHxB4HQ19"
+    },
+    {
+      "album": {
+        "name": "Come Alive",
+        "url": "https://open.spotify.com/album/2x458BaWbitSCkj8qnvByi"
+      },
+      "artists": [
+        {
+          "name": "Di\u00f8n",
+          "url": "https://open.spotify.com/artist/0ik3Ts4hzO7y7jpYU9K4Lr"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227612,
+      "name": "Come Alive",
+      "url": "https://open.spotify.com/track/0awSfMINZhfXlIDISEGPIV"
     },
     {
       "album": {
@@ -36519,6 +36559,28 @@
     },
     {
       "album": {
+        "name": "Vem Comigo",
+        "url": "https://open.spotify.com/album/324AIUKj8Q96Ir66ng7SmX"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Olive Anguz",
+          "url": "https://open.spotify.com/artist/3d0AuH83bH58zFUU7Z1hMk"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207483,
+      "name": "Vem Comigo",
+      "url": "https://open.spotify.com/track/3zr7VbJvavpspJF2JipvQ1"
+    },
+    {
+      "album": {
         "name": "Vertigo",
         "url": "https://open.spotify.com/album/0w9o19xIAioxJ94ikjpB7j"
       },
@@ -36612,6 +36674,28 @@
       "duration_ms": 164606,
       "name": "Vha Vhenda (THEMBA's Herd Mix)",
       "url": "https://open.spotify.com/track/23xHKVpe8QA9Nv0yoBQQ0P"
+    },
+    {
+      "album": {
+        "name": "Vibe Check",
+        "url": "https://open.spotify.com/album/5QlWdlR9xXi7j1Cd9xOx5L"
+      },
+      "artists": [
+        {
+          "name": "Kamino",
+          "url": "https://open.spotify.com/artist/6XYhu7HPIJ47SY98bY1Hnx"
+        },
+        {
+          "name": "Tima Dee",
+          "url": "https://open.spotify.com/artist/4pQIDKoWXRw04D9e37QzbP"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140680,
+      "name": "Vibe Check",
+      "url": "https://open.spotify.com/track/6507rh4LJxpJUGtsOZoYGR"
     },
     {
       "album": {

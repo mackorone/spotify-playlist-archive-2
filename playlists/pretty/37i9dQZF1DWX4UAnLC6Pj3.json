@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! La Adictiva & Julio Preciado \ud83d\udcf8",
-  "num_followers": 1300914,
+  "num_followers": 1300954,
   "original_name": "Banda 2026",
   "owner": {
     "name": "Spotify",
@@ -731,6 +731,22 @@
     {
       "added_at": "2026-03-27 16:10:47",
       "album": {
+        "name": "Con La Misma Piedra",
+        "url": "https://open.spotify.com/album/1eF0ZEdzXqUmAJoewGZcmA"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "duration_ms": 175496,
+      "name": "Con La Misma Piedra",
+      "url": "https://open.spotify.com/track/2PULXQ2unp8iRpt0cQXdZU"
+    },
+    {
+      "added_at": "2026-03-27 16:10:47",
+      "album": {
         "name": "Acto Seguido",
         "url": "https://open.spotify.com/album/6CzhikGwMPcKThkD1TPvfs"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 184921,
       "name": "Acto Seguido",
       "url": "https://open.spotify.com/track/5mh0B9psmw5MwhZLBHlPTQ"
-    },
-    {
-      "added_at": "2026-03-27 16:10:47",
-      "album": {
-        "name": "Con La Misma Piedra",
-        "url": "https://open.spotify.com/album/1eF0ZEdzXqUmAJoewGZcmA"
-      },
-      "artists": [
-        {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
-        }
-      ],
-      "duration_ms": 175496,
-      "name": "Con La Misma Piedra",
-      "url": "https://open.spotify.com/track/2PULXQ2unp8iRpt0cQXdZU"
     },
     {
       "added_at": "2026-03-27 16:10:47",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-03-27 16:10:47",
       "album": {
-        "name": "Lo Veras de Lejos",
-        "url": "https://open.spotify.com/album/3PLZxog7HczHnG85g3VIks"
-      },
-      "artists": [
-        {
-          "name": "Aldo Trujillo",
-          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
-        }
-      ],
-      "duration_ms": 179160,
-      "name": "Lo Veras de Lejos",
-      "url": "https://open.spotify.com/track/0V4mvvjtI2q72Z9gPKDzj3"
-    },
-    {
-      "added_at": "2026-03-27 16:10:47",
-      "album": {
         "name": "Pa' Todas Tengo Yo",
         "url": "https://open.spotify.com/album/3nBff5T9RfMc59jd69hrIt"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 189565,
       "name": "Pa' Todas Tengo Yo",
       "url": "https://open.spotify.com/track/00RkNLC31PbwqqoZUfdSFG"
+    },
+    {
+      "added_at": "2026-03-27 16:10:47",
+      "album": {
+        "name": "Lo Veras de Lejos",
+        "url": "https://open.spotify.com/album/3PLZxog7HczHnG85g3VIks"
+      },
+      "artists": [
+        {
+          "name": "Aldo Trujillo",
+          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
+        }
+      ],
+      "duration_ms": 179160,
+      "name": "Lo Veras de Lejos",
+      "url": "https://open.spotify.com/track/0V4mvvjtI2q72Z9gPKDzj3"
     },
     {
       "added_at": "2026-03-27 16:10:47",
@@ -987,26 +987,6 @@
     {
       "added_at": "2026-03-27 16:10:47",
       "album": {
-        "name": "Me Interesas",
-        "url": "https://open.spotify.com/album/48bBQZF7o79Mqpavk1aXVX"
-      },
-      "artists": [
-        {
-          "name": "Noel Torres",
-          "url": "https://open.spotify.com/artist/1GUYk7GLP4tALtorFH1OWG"
-        },
-        {
-          "name": "El Bebeto",
-          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
-        }
-      ],
-      "duration_ms": 175714,
-      "name": "Me Interesas",
-      "url": "https://open.spotify.com/track/6g1bllCb7avb0FS0VbOfHz"
-    },
-    {
-      "added_at": "2026-03-27 16:10:47",
-      "album": {
         "name": "Como Este Loco",
         "url": "https://open.spotify.com/album/67FAnc1ZeFv7B7gv5MFvxa"
       },
@@ -1023,6 +1003,26 @@
       "duration_ms": 215068,
       "name": "Como Este Loco",
       "url": "https://open.spotify.com/track/6x7953w9X48ERFGN2QpEqN"
+    },
+    {
+      "added_at": "2026-03-27 16:10:47",
+      "album": {
+        "name": "Me Interesas",
+        "url": "https://open.spotify.com/album/48bBQZF7o79Mqpavk1aXVX"
+      },
+      "artists": [
+        {
+          "name": "Noel Torres",
+          "url": "https://open.spotify.com/artist/1GUYk7GLP4tALtorFH1OWG"
+        },
+        {
+          "name": "El Bebeto",
+          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
+        }
+      ],
+      "duration_ms": 175714,
+      "name": "Me Interesas",
+      "url": "https://open.spotify.com/track/6g1bllCb7avb0FS0VbOfHz"
     },
     {
       "added_at": "2026-03-27 16:10:47",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2026-03-27 16:10:47",
       "album": {
+        "name": "Cuando sufre un coraz\u00f3n",
+        "url": "https://open.spotify.com/album/6CcsGgaUtkEiepOGk6Cc2X"
+      },
+      "artists": [
+        {
+          "name": "La Dinast\u00eda de Tuzantla Michoac\u00e1n",
+          "url": "https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R"
+        }
+      ],
+      "duration_ms": 221482,
+      "name": "Cuando sufre un coraz\u00f3n",
+      "url": "https://open.spotify.com/track/59r7ej9BZVNVM7NIcLVwMl"
+    },
+    {
+      "added_at": "2026-03-27 16:10:47",
+      "album": {
         "name": "\u00bfPara Qu\u00e9 Tantos Besos?",
         "url": "https://open.spotify.com/album/1Ru2bJ0Dzv9j9cjgtlc87I"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 196973,
       "name": "\u00bfPara Qu\u00e9 Tantos Besos?",
       "url": "https://open.spotify.com/track/2QODsK8Tc3Mw8saeaEU4mC"
-    },
-    {
-      "added_at": "2026-03-27 16:10:47",
-      "album": {
-        "name": "Cuando sufre un coraz\u00f3n",
-        "url": "https://open.spotify.com/album/6CcsGgaUtkEiepOGk6Cc2X"
-      },
-      "artists": [
-        {
-          "name": "La Dinast\u00eda de Tuzantla Michoac\u00e1n",
-          "url": "https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R"
-        }
-      ],
-      "duration_ms": 221482,
-      "name": "Cuando sufre un coraz\u00f3n",
-      "url": "https://open.spotify.com/track/59r7ej9BZVNVM7NIcLVwMl"
     },
     {
       "added_at": "2026-03-27 16:10:47",
@@ -1163,26 +1163,6 @@
     {
       "added_at": "2026-03-27 16:10:47",
       "album": {
-        "name": "Amanec\u00ed Con Ganas",
-        "url": "https://open.spotify.com/album/7fApp4PbJj5FqWZuF0dYNR"
-      },
-      "artists": [
-        {
-          "name": "Noel Torres",
-          "url": "https://open.spotify.com/artist/1GUYk7GLP4tALtorFH1OWG"
-        },
-        {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
-        }
-      ],
-      "duration_ms": 149264,
-      "name": "Amanec\u00ed Con Ganas",
-      "url": "https://open.spotify.com/track/3BMallCxdW0F7JOZPdafQo"
-    },
-    {
-      "added_at": "2026-03-27 16:10:47",
-      "album": {
         "name": "XV Aniversario Mis Favoritas Pop (En Vivo)",
         "url": "https://open.spotify.com/album/0B02aiOAxwC9nl2JtpLVAB"
       },
@@ -1199,6 +1179,26 @@
       "duration_ms": 248110,
       "name": "Todav\u00eda No Te Olvido - En Vivo",
       "url": "https://open.spotify.com/track/4VgaJgsjuaPOnX0s9KILxq"
+    },
+    {
+      "added_at": "2026-03-27 16:10:47",
+      "album": {
+        "name": "Amanec\u00ed Con Ganas",
+        "url": "https://open.spotify.com/album/7fApp4PbJj5FqWZuF0dYNR"
+      },
+      "artists": [
+        {
+          "name": "Noel Torres",
+          "url": "https://open.spotify.com/artist/1GUYk7GLP4tALtorFH1OWG"
+        },
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        }
+      ],
+      "duration_ms": 149264,
+      "name": "Amanec\u00ed Con Ganas",
+      "url": "https://open.spotify.com/track/3BMallCxdW0F7JOZPdafQo"
     },
     {
       "added_at": "2026-03-27 16:10:47",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2026-03-27 16:10:47",
       "album": {
-        "name": "Piel de Az\u00facar",
-        "url": "https://open.spotify.com/album/6JeaiFUeoNgWFTpRennPih"
-      },
-      "artists": [
-        {
-          "name": "Edwin Garcia",
-          "url": "https://open.spotify.com/artist/53kZNnikATba328qm2oHyF"
-        }
-      ],
-      "duration_ms": 176982,
-      "name": "Piel de Az\u00facar",
-      "url": "https://open.spotify.com/track/0Gw9AFN9OP4TnpkQ4skU2m"
-    },
-    {
-      "added_at": "2026-03-27 16:10:47",
-      "album": {
         "name": "Me la Pelan",
         "url": "https://open.spotify.com/album/3gWvHNH1bjOjeENNQRhg93"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 186335,
       "name": "Me la Pelan",
       "url": "https://open.spotify.com/track/3uKB59qvKbrZDF7mcusl0i"
+    },
+    {
+      "added_at": "2026-03-27 16:10:47",
+      "album": {
+        "name": "Piel de Az\u00facar",
+        "url": "https://open.spotify.com/album/6JeaiFUeoNgWFTpRennPih"
+      },
+      "artists": [
+        {
+          "name": "Edwin Garcia",
+          "url": "https://open.spotify.com/artist/53kZNnikATba328qm2oHyF"
+        }
+      ],
+      "duration_ms": 176982,
+      "name": "Piel de Az\u00facar",
+      "url": "https://open.spotify.com/track/0Gw9AFN9OP4TnpkQ4skU2m"
     },
     {
       "added_at": "2026-03-27 16:10:47",
@@ -1507,26 +1507,6 @@
     {
       "added_at": "2026-03-27 16:10:47",
       "album": {
-        "name": "Si No Te Tengo",
-        "url": "https://open.spotify.com/album/5RwuiKim92LZqj0cJnOqTp"
-      },
-      "artists": [
-        {
-          "name": "Samuel Rosales y Su Banda Sierra Grande",
-          "url": "https://open.spotify.com/artist/7pyWxycsFxgUIc6d1TAM2k"
-        },
-        {
-          "name": "La Imponente Vientos de Jalisco",
-          "url": "https://open.spotify.com/artist/62VgaFRDPHTE7OQmpQaNqp"
-        }
-      ],
-      "duration_ms": 206193,
-      "name": "Si No Te Tengo",
-      "url": "https://open.spotify.com/track/53VwoZ6zzz0TyGxki6ALjG"
-    },
-    {
-      "added_at": "2026-03-27 16:10:47",
-      "album": {
         "name": "No Le Tengas Compasi\u00f3n",
         "url": "https://open.spotify.com/album/6Z7pMgTbFhIrQ7BXK6hwOm"
       },
@@ -1543,6 +1523,26 @@
       "duration_ms": 191141,
       "name": "No Le Tengas Compasi\u00f3n",
       "url": "https://open.spotify.com/track/11SK5HbiMSO0WEYvsaXwAO"
+    },
+    {
+      "added_at": "2026-03-27 16:10:47",
+      "album": {
+        "name": "Si No Te Tengo",
+        "url": "https://open.spotify.com/album/5RwuiKim92LZqj0cJnOqTp"
+      },
+      "artists": [
+        {
+          "name": "Samuel Rosales y Su Banda Sierra Grande",
+          "url": "https://open.spotify.com/artist/7pyWxycsFxgUIc6d1TAM2k"
+        },
+        {
+          "name": "La Imponente Vientos de Jalisco",
+          "url": "https://open.spotify.com/artist/62VgaFRDPHTE7OQmpQaNqp"
+        }
+      ],
+      "duration_ms": 206193,
+      "name": "Si No Te Tengo",
+      "url": "https://open.spotify.com/track/53VwoZ6zzz0TyGxki6ALjG"
     },
     {
       "added_at": "2026-03-27 16:10:47",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2026-03-27 16:10:47",
       "album": {
-        "name": "El Tabaco Mascado",
-        "url": "https://open.spotify.com/album/1LpTtZQLPxLzM7tdoqVsck"
-      },
-      "artists": [
-        {
-          "name": "Banda Playa Grande",
-          "url": "https://open.spotify.com/artist/22Mt7QupEbM69UrYe7wRl0"
-        }
-      ],
-      "duration_ms": 163607,
-      "name": "El Tabaco Mascado",
-      "url": "https://open.spotify.com/track/4y0vFpMhPsoqMegFw25hos"
-    },
-    {
-      "added_at": "2026-03-27 16:10:47",
-      "album": {
         "name": "La Revancha Vol.2 (En Vivo)",
         "url": "https://open.spotify.com/album/5ayYsE1w7jcL06XDpgdFTq"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 827509,
       "name": "El Sinaloense, La cuichi, Tamarindo, Camaron Pelado - En Vivo",
       "url": "https://open.spotify.com/track/4ETP4mqFWC9BYdphJXGJsc"
+    },
+    {
+      "added_at": "2026-03-27 16:10:47",
+      "album": {
+        "name": "El Tabaco Mascado",
+        "url": "https://open.spotify.com/album/1LpTtZQLPxLzM7tdoqVsck"
+      },
+      "artists": [
+        {
+          "name": "Banda Playa Grande",
+          "url": "https://open.spotify.com/artist/22Mt7QupEbM69UrYe7wRl0"
+        }
+      ],
+      "duration_ms": 163607,
+      "name": "El Tabaco Mascado",
+      "url": "https://open.spotify.com/track/4y0vFpMhPsoqMegFw25hos"
     },
     {
       "added_at": "2026-03-27 16:10:47",

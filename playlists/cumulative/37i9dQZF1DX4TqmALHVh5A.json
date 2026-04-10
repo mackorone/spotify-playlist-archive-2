@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Requin Chagrin",
+  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Dynamite Shakers",
   "name": "Courant Alternatif",
   "tracks": [
     {
@@ -485,6 +485,28 @@
     },
     {
       "album": {
+        "name": "Attrape-coeurs",
+        "url": "https://open.spotify.com/album/0PFoUMBMGLjmg3CyoFjecV"
+      },
+      "artists": [
+        {
+          "name": "Arca M",
+          "url": "https://open.spotify.com/artist/4qVGCiHNMFQPWATwj7stKg"
+        },
+        {
+          "name": "Shaga",
+          "url": "https://open.spotify.com/artist/4KZhzeqnmQnVt4687rh5qR"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179174,
+      "name": "Attrape-coeurs",
+      "url": "https://open.spotify.com/track/0DDJ7CDsq1Ecnl1jYDPEPE"
+    },
+    {
+      "album": {
         "name": "Une Nouvelle Chance",
         "url": "https://open.spotify.com/album/2y0CqT7wxeJ4xXGEt9OpEl"
       },
@@ -900,7 +922,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 160315,
       "name": "british girl",
       "url": "https://open.spotify.com/track/0l04kYoEizefLbLIBttGVK"
@@ -1311,6 +1333,24 @@
     },
     {
       "album": {
+        "name": "CIN\u00c9MA",
+        "url": "https://open.spotify.com/album/3w3eJevAHMoQzOv4lJDxox"
+      },
+      "artists": [
+        {
+          "name": "Dynamite Shakers",
+          "url": "https://open.spotify.com/artist/0T6jBctjBGXqRmXI2pe0aT"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155160,
+      "name": "CIN\u00c9MA",
+      "url": "https://open.spotify.com/track/05AppqGcRJffs3mpphLOTU"
+    },
+    {
+      "album": {
         "name": "Cl0ckW0rk EP",
         "url": "https://open.spotify.com/album/2aMSVdnr1U8YJKdbjLqHfr"
       },
@@ -1502,7 +1542,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 164613,
       "name": "Contre-soir\u00e9e",
       "url": "https://open.spotify.com/track/5x8xtP96TVMZpwP6XV7Cji"
@@ -4219,6 +4259,24 @@
     },
     {
       "album": {
+        "name": "Le monde en flou",
+        "url": "https://open.spotify.com/album/69KSwEAcaUCtlTFIGH7oGy"
+      },
+      "artists": [
+        {
+          "name": "HORLA",
+          "url": "https://open.spotify.com/artist/3rroBIgezFxcKXYw0MugUQ"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189906,
+      "name": "Le monde en flou",
+      "url": "https://open.spotify.com/track/1493ukr2188bfegBZccFGk"
+    },
+    {
+      "album": {
         "name": "Le Pigeon",
         "url": "https://open.spotify.com/album/7jf67ZHP55fFr0rDvRFV55"
       },
@@ -4508,6 +4566,24 @@
       "duration_ms": 154192,
       "name": "Les limbes",
       "url": "https://open.spotify.com/track/3qg2qAGEgFVPjov9Rx9fb8"
+    },
+    {
+      "album": {
+        "name": "les paillettes",
+        "url": "https://open.spotify.com/album/2g0rn4BpbhVsBeUijFT8F4"
+      },
+      "artists": [
+        {
+          "name": "kissed",
+          "url": "https://open.spotify.com/artist/6tkcFCnXVayNKi5OWeVpoi"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219591,
+      "name": "les paillettes",
+      "url": "https://open.spotify.com/track/30A7gCrivrNjL5elaGFDTR"
     },
     {
       "album": {
@@ -4908,6 +4984,24 @@
       "duration_ms": 138306,
       "name": "miki cowboy",
       "url": "https://open.spotify.com/track/641fgTSsoeAYNkgR3m7HMU"
+    },
+    {
+      "album": {
+        "name": "mode avion",
+        "url": "https://open.spotify.com/album/4zPt28Ei3IzLloq1NRMWj9"
+      },
+      "artists": [
+        {
+          "name": "Copycat",
+          "url": "https://open.spotify.com/artist/7A1oIMLzxdXV57RVrDFrE2"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "mode avion",
+      "url": "https://open.spotify.com/track/11FpgclzNKj4hkYTdh1eoE"
     },
     {
       "album": {
@@ -5460,7 +5554,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 160000,
       "name": "ON TRA\u00ceNE!",
       "url": "https://open.spotify.com/track/51q8Y8fPdifFD5tFC5cV3m"
@@ -6580,7 +6674,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 240261,
       "name": "Rose",
       "url": "https://open.spotify.com/track/2SevTNSp0JjUiKqk0SQTLS"
@@ -7002,7 +7096,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 120855,
       "name": "sortir faire la f\u00eate",
       "url": "https://open.spotify.com/track/4sr9TyrHO5XTnbqs0V51qn"

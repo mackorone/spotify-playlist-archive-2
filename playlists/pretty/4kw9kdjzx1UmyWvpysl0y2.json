@@ -1,13 +1,53 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124099,
+  "num_followers": 124096,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVSkH2u4zNS2iJPO7NUCFaBSyw7JkJ",
+  "snapshot_id": "AAAVTEUSCfQ633oauplYzvJ++c55nozj",
   "tracks": [
+    {
+      "added_at": "2026-04-09 22:15:06",
+      "album": {
+        "name": "Yellow Lights",
+        "url": "https://open.spotify.com/album/61ObyNFh91Dcvz8lIFyaLz"
+      },
+      "artists": [
+        {
+          "name": "Virtual Riot",
+          "url": "https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1"
+        },
+        {
+          "name": "Said The Sky",
+          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
+        },
+        {
+          "name": "HYMNALS",
+          "url": "https://open.spotify.com/artist/2seVQaAt7DMkQXYDMQ5nL7"
+        }
+      ],
+      "duration_ms": 236400,
+      "name": "Yellow Lights",
+      "url": "https://open.spotify.com/track/1dD7hIDGV3lfMn0AGh5Q4d"
+    },
+    {
+      "added_at": "2026-04-09 22:14:54",
+      "album": {
+        "name": "Sun Will Rise Again",
+        "url": "https://open.spotify.com/album/2ojOx88ErArt08yJIb40oS"
+      },
+      "artists": [
+        {
+          "name": "Gammer",
+          "url": "https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY"
+        }
+      ],
+      "duration_ms": 182709,
+      "name": "Sun Will Rise Again",
+      "url": "https://open.spotify.com/track/52cxqwl1KspzzcaaLyCamZ"
+    },
     {
       "added_at": "2026-04-06 14:26:21",
       "album": {

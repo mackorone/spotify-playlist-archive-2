@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > Les meilleurs sons du mois sélectionnés par les éditos de Spotify.
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,470 likes - 39 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,466 likes - 39 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,14 +20,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 10 | [BRITTANY MURPHY.](https://open.spotify.com/track/4oUrl0RyDqr1DvNDvPNdRL) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [WOR$T GIRL IN AMERICA](https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA) | 3:44 |
 | 11 | [Echo From The Flames](https://open.spotify.com/track/6aqNOnHzXhnDVCY7pDZBD7) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Full Circle](https://open.spotify.com/album/3y9ho86K2n12FPdMV4pU7U) | 4:11 |
 | 12 | [Trying Times](https://open.spotify.com/track/52T8TTMESX21406wvTdQDY) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Trying Times](https://open.spotify.com/album/35GCADa3vYa6kCYhxODmQE) | 4:33 |
-| 13 | [Knife In The Heart](https://open.spotify.com/track/6fRC7I0hHY6cEhHVGIu3L3) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Knife In The Heart](https://open.spotify.com/album/3hUVYAg62w5WHRDCZOaG6A) | 2:57 |
-| 14 | [The Sun Comes Up Tremendous](https://open.spotify.com/track/4xOUoPT3YjHnwzOFycXXjU) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [The Sun Comes Up Tremendous](https://open.spotify.com/album/7ky5M7uzAkPGBbHLgvCKZB) | 3:33 |
+| 13 | [The Sun Comes Up Tremendous](https://open.spotify.com/track/4xOUoPT3YjHnwzOFycXXjU) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [The Sun Comes Up Tremendous](https://open.spotify.com/album/7ky5M7uzAkPGBbHLgvCKZB) | 3:33 |
+| 14 | [Knife In The Heart](https://open.spotify.com/track/6fRC7I0hHY6cEhHVGIu3L3) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Knife In The Heart](https://open.spotify.com/album/3hUVYAg62w5WHRDCZOaG6A) | 2:57 |
 | 15 | [Earth, Wind & California](https://open.spotify.com/track/18o7eKxV5q5vdj2Qa1hF0L) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Jean](https://open.spotify.com/album/27SQuR7jPiGkJJXl8njEqY) | 3:04 |
 | 16 | [Automatic](https://open.spotify.com/track/0PEcIO2gpBApHbsVSlRaPh) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Automatic](https://open.spotify.com/album/43UHKjoE3zZjtiD9nmIt0A) | 2:57 |
 | 17 | [Aye Kan \(Are You Coming Back?\) \[feat\. Ayra Starr\]](https://open.spotify.com/track/25jdAC3wA5yiwKkGD1n7t2) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Aye Kan \(Are You Coming Back?\) \[feat\. Ayra Starr\]](https://open.spotify.com/album/6qg58bqEAREvTlAo0ytie9) | 3:04 |
 | 18 | [Monsters](https://open.spotify.com/track/3yDV0PzSV2okw1w9jno0me) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ) | [Monsters](https://open.spotify.com/album/199hyVqmka83Ubpm9Qs8jx) | 6:03 |
-| 19 | [BLEUDECHANEL](https://open.spotify.com/track/3DM4e9h5cHrWwX4NNOkybx) | [Jolagreen23](https://open.spotify.com/artist/2jZ78PLlC1PuYKQ2bVwRvz) | [23 JOURS PLUS TARD](https://open.spotify.com/album/1x7JRkRLh5YBPq00I1bjKQ) | 2:38 |
-| 20 | [Conduire](https://open.spotify.com/track/1jhvR9vk43uqt5n4XTCTfN) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Conduire](https://open.spotify.com/album/4oM56AR6sAOblRejJhCaEB) | 2:50 |
+| 19 | [Conduire](https://open.spotify.com/track/1jhvR9vk43uqt5n4XTCTfN) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Conduire](https://open.spotify.com/album/4oM56AR6sAOblRejJhCaEB) | 2:50 |
+| 20 | [BLEUDECHANEL](https://open.spotify.com/track/3DM4e9h5cHrWwX4NNOkybx) | [Jolagreen23](https://open.spotify.com/artist/2jZ78PLlC1PuYKQ2bVwRvz) | [23 JOURS PLUS TARD](https://open.spotify.com/album/1x7JRkRLh5YBPq00I1bjKQ) | 2:38 |
 | 21 | [Happy Birthday](https://open.spotify.com/track/2kNtiNtCbRbw3vP2qG6Ae9) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Written into Changes](https://open.spotify.com/album/652IHz4kGbrNGIkq40T6wU) | 3:53 |
 | 22 | [Critical Condition](https://open.spotify.com/track/0R0jqZFMmcJfx7NBaY96Rh) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [State Of Emergency Vol 1.](https://open.spotify.com/album/4jtVxQTmYdjIHLrOog4gmG) | 2:32 |
 | 23 | [internet](https://open.spotify.com/track/7aC0og0wGBisY87cUpEdXG) | [Mitty](https://open.spotify.com/artist/6Wo4zyufcc4V8ZM1TCxDxW) | [internet](https://open.spotify.com/album/4I7qdgWeMuzB2ME7LnZcsN) | 2:42 |
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 28 | [Script \(feat\. 2L\)](https://open.spotify.com/track/6pSjIMSllXgPs9EDP6lHAD) | [Costa](https://open.spotify.com/artist/4wMo1eZWwlJeWoBtIqZYXX), [2L](https://open.spotify.com/artist/2N6RfSP8wXKS6cTraTbqKj) | [Script \(feat\. 2L\)](https://open.spotify.com/album/5rcERDsf8w982QDz219hmC) | 3:16 |
 | 29 | [verden](https://open.spotify.com/track/4Ak1ze9cxOduO9BsbJkI5O) | [Kilu](https://open.spotify.com/artist/795iruo8TSJsZPVAps6Iow) | [PRINT](https://open.spotify.com/album/1sZ1EplSM9SsQJZzg1QZVM) | 3:23 |
 | 30 | [PROMESSES](https://open.spotify.com/track/30THfyXiixGNGYVd5CJy1D) | [Surprise](https://open.spotify.com/artist/0qvSqrreqXO98OunCDZN9r) | [PROMESSES](https://open.spotify.com/album/5UoPqXxD9jTr9HQBYm0mdA) | 2:55 |
-| 31 | [Coração \- A COLORS SHOW](https://open.spotify.com/track/7Cc6xpJYfWtv5rd6njoscP) | [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Coração \- A COLORS SHOW](https://open.spotify.com/album/50E5vM6nba29Ue1RDs16kk) | 2:52 |
-| 32 | [Lettre](https://open.spotify.com/track/1CUIqcCDWdAnSHBT2qtc09) | [Margane](https://open.spotify.com/artist/13X7g0W88sLebzmzGWaSfb) | [Lettre](https://open.spotify.com/album/2WqcSYRkddq5eAyEL0hZ0G) | 3:39 |
-| 33 | [MAMAN M'A DIT NON](https://open.spotify.com/track/5CR23EycKSh9W9LG7XaEZL) | [LinLin](https://open.spotify.com/artist/1D7nUBd4i2mrVpmLQmHI0n) | [MAMAN M'A DIT NON](https://open.spotify.com/album/0yAHn2c8wQZHnO70o4xNvQ) | 1:54 |
+| 31 | [MAMAN M'A DIT NON](https://open.spotify.com/track/5CR23EycKSh9W9LG7XaEZL) | [LinLin](https://open.spotify.com/artist/1D7nUBd4i2mrVpmLQmHI0n) | [MAMAN M'A DIT NON](https://open.spotify.com/album/0yAHn2c8wQZHnO70o4xNvQ) | 1:54 |
+| 32 | [Coração \- A COLORS SHOW](https://open.spotify.com/track/7Cc6xpJYfWtv5rd6njoscP) | [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Coração \- A COLORS SHOW](https://open.spotify.com/album/50E5vM6nba29Ue1RDs16kk) | 2:52 |
+| 33 | [Lettre](https://open.spotify.com/track/1CUIqcCDWdAnSHBT2qtc09) | [Margane](https://open.spotify.com/artist/13X7g0W88sLebzmzGWaSfb) | [Lettre](https://open.spotify.com/album/2WqcSYRkddq5eAyEL0hZ0G) | 3:39 |
 | 34 | [AMOUR IMMENSE](https://open.spotify.com/track/1MlRa0GirgpGJbCx9R6wsO) | [Alex Montembault](https://open.spotify.com/artist/7Fbx8FniPmKUR3MfZCzh9a) | [AMOUR IMMENSE](https://open.spotify.com/album/4LcZY5g6zmDp93dh5PFUkd) | 2:17 |
 | 35 | [Bleu](https://open.spotify.com/track/5QgOSe0IWekbANgFkwqBz5) | [Antonin](https://open.spotify.com/artist/5Z1r1R8kuSh4FRdQh7kzmC) | [Bleu](https://open.spotify.com/album/33Zk8TkJpJBKx58OYNQfRg) | 2:40 |
 | 36 | [Tes yeux](https://open.spotify.com/track/5WgEunCEbeyWiKZ9BIUFLH) | [Ofé](https://open.spotify.com/artist/6BStglzFvs6FDKMzHbZzV0) | [Tes yeux](https://open.spotify.com/album/2e7oEqkFUprlaBjtw6LC6l) | 2:59 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 38 | [Boston](https://open.spotify.com/track/45bC4J4xP1m1Jbt6fXUYky) | [BRÖ](https://open.spotify.com/artist/6U2PIOH8ZKgFprcdkIe8J5) | [Boston](https://open.spotify.com/album/5JfVAdqRkz3JIvd0QHrQ88) | 2:45 |
 | 39 | [Slowing You Down](https://open.spotify.com/track/1VjpXOlQfmEBt0lW3QR5DR) | [Saavan](https://open.spotify.com/artist/7HIN13S8A6wfupCwXRNv6U) | [Slowing You Down](https://open.spotify.com/album/5vXDq64ZmXBocAahTAyTy7) | 4:32 |
 
-Snapshot ID: `AAAAAPFxxWL4nyBRcV5ntz4yVC+PHBqX`
+Snapshot ID: `AAAAAIf6KT4BzyZ0uGrCw2M+Y5fwaej5`

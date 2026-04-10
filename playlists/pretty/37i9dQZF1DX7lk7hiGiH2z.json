@@ -1,6 +1,6 @@
 {
   "description": "Der Fr\u00fchling ist da \u2013 mit Songs f\u00fcr l\u00e4ngere Tage und fr\u00f6hliche Familienmomente.",
-  "num_followers": 59971,
+  "num_followers": 59989,
   "original_name": "Familienzeit: Fr\u00fchling",
   "owner": {
     "name": "Spotify",
@@ -31,42 +31,6 @@
     {
       "added_at": "2026-04-07 06:00:30",
       "album": {
-        "name": "Tierische Kinderlieder zum Mitsingen und Mitmachen",
-        "url": "https://open.spotify.com/album/15Qvy79CgcXjtVEqNNGYKz"
-      },
-      "artists": [
-        {
-          "name": "Libatiba",
-          "url": "https://open.spotify.com/artist/3NEU7lGgdawG62CVqUp7kX"
-        }
-      ],
-      "duration_ms": 166816,
-      "name": "Das kleine Kaninchen",
-      "url": "https://open.spotify.com/track/7pcgrkYOwcGbCF6Ej2Cfyg"
-    },
-    {
-      "added_at": "2026-04-07 06:00:30",
-      "album": {
-        "name": "Jahreszeiten",
-        "url": "https://open.spotify.com/album/3HWPzMy11VN2SEH4NI5svm"
-      },
-      "artists": [
-        {
-          "name": "DIKKA",
-          "url": "https://open.spotify.com/artist/79BUGg8I39oq0mSeIetvob"
-        },
-        {
-          "name": "Esther Graf",
-          "url": "https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID"
-        }
-      ],
-      "duration_ms": 202042,
-      "name": "Jahreszeiten",
-      "url": "https://open.spotify.com/track/4jHtjsvqHhOJaPgvq36szI"
-    },
-    {
-      "added_at": "2026-04-07 06:00:30",
-      "album": {
         "name": "Bibi und Tina (Der Original-Soundtrack zum Kinofilm)",
         "url": "https://open.spotify.com/album/6QmuVg6QPfIvjKGvXYwt21"
       },
@@ -91,6 +55,42 @@
       "duration_ms": 158339,
       "name": "Up, up, up (Nobody\u2019s perfect) [feat. Lina Larissa Strahl]",
       "url": "https://open.spotify.com/track/3bDUHKloYp3LlAUXJTI4O4"
+    },
+    {
+      "added_at": "2026-04-07 06:00:30",
+      "album": {
+        "name": "Jahreszeiten",
+        "url": "https://open.spotify.com/album/3HWPzMy11VN2SEH4NI5svm"
+      },
+      "artists": [
+        {
+          "name": "DIKKA",
+          "url": "https://open.spotify.com/artist/79BUGg8I39oq0mSeIetvob"
+        },
+        {
+          "name": "Esther Graf",
+          "url": "https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID"
+        }
+      ],
+      "duration_ms": 202042,
+      "name": "Jahreszeiten",
+      "url": "https://open.spotify.com/track/4jHtjsvqHhOJaPgvq36szI"
+    },
+    {
+      "added_at": "2026-04-07 06:00:30",
+      "album": {
+        "name": "Tierische Kinderlieder zum Mitsingen und Mitmachen",
+        "url": "https://open.spotify.com/album/15Qvy79CgcXjtVEqNNGYKz"
+      },
+      "artists": [
+        {
+          "name": "Libatiba",
+          "url": "https://open.spotify.com/artist/3NEU7lGgdawG62CVqUp7kX"
+        }
+      ],
+      "duration_ms": 166816,
+      "name": "Das kleine Kaninchen",
+      "url": "https://open.spotify.com/track/7pcgrkYOwcGbCF6Ej2Cfyg"
     },
     {
       "added_at": "2026-04-07 06:00:30",
@@ -135,6 +135,34 @@
     {
       "added_at": "2026-04-07 06:00:30",
       "album": {
+        "name": "Bibi und Tina: VOLL VERHEXT! (Der Original-Soundtrack zum Kinofilm)",
+        "url": "https://open.spotify.com/album/5CXxYkRdKPyE7tWGmqZZOP"
+      },
+      "artists": [
+        {
+          "name": "Bibi und Tina",
+          "url": "https://open.spotify.com/artist/2x8vG4f0HYXzMEo3xNsoiI"
+        },
+        {
+          "name": "Peter Plate",
+          "url": "https://open.spotify.com/artist/1UEipeDjRtS1qnuhmKgmXg"
+        },
+        {
+          "name": "Ulf Leo Sommer",
+          "url": "https://open.spotify.com/artist/4anaTI5qQtKKp5D6I5sgDp"
+        },
+        {
+          "name": "Lina Larissa Strahl",
+          "url": "https://open.spotify.com/artist/2SXsxS4gv0ZHIZQ0kU3GDk"
+        }
+      ],
+      "duration_ms": 179780,
+      "name": "Ich bleib hier (feat. Lina Larissa Strahl)",
+      "url": "https://open.spotify.com/track/64W6MhqnoDBXrLMnM5d1Hp"
+    },
+    {
+      "added_at": "2026-04-07 06:00:30",
+      "album": {
         "name": "Heile Welt",
         "url": "https://open.spotify.com/album/390vUKguCbQcJIHaDcmLWc"
       },
@@ -163,34 +191,6 @@
       "duration_ms": 176229,
       "name": "Guck mal diese Biene da Summ Summ",
       "url": "https://open.spotify.com/track/1o3K9QknRizPdPhVktzmhM"
-    },
-    {
-      "added_at": "2026-04-07 06:00:30",
-      "album": {
-        "name": "Bibi und Tina: VOLL VERHEXT! (Der Original-Soundtrack zum Kinofilm)",
-        "url": "https://open.spotify.com/album/5CXxYkRdKPyE7tWGmqZZOP"
-      },
-      "artists": [
-        {
-          "name": "Bibi und Tina",
-          "url": "https://open.spotify.com/artist/2x8vG4f0HYXzMEo3xNsoiI"
-        },
-        {
-          "name": "Peter Plate",
-          "url": "https://open.spotify.com/artist/1UEipeDjRtS1qnuhmKgmXg"
-        },
-        {
-          "name": "Ulf Leo Sommer",
-          "url": "https://open.spotify.com/artist/4anaTI5qQtKKp5D6I5sgDp"
-        },
-        {
-          "name": "Lina Larissa Strahl",
-          "url": "https://open.spotify.com/artist/2SXsxS4gv0ZHIZQ0kU3GDk"
-        }
-      ],
-      "duration_ms": 179780,
-      "name": "Ich bleib hier (feat. Lina Larissa Strahl)",
-      "url": "https://open.spotify.com/track/64W6MhqnoDBXrLMnM5d1Hp"
     },
     {
       "added_at": "2026-04-07 06:00:30",

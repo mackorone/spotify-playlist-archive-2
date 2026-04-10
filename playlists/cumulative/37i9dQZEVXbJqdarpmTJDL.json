@@ -2694,7 +2694,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "ALCANTARA",
       "url": "https://open.spotify.com/track/6OydZKuVGqIyyXi5aoVS4n"
@@ -12770,7 +12770,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 181271,
       "name": "DEPRESSED",
       "url": "https://open.spotify.com/track/4kjTs8OvnrgnJuYggJNUIi"
@@ -16982,7 +16982,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 173308,
       "name": "Exigiste Mou",
       "url": "https://open.spotify.com/track/3hqEXohUvBy76CKAxK2A9R"
@@ -18774,6 +18774,24 @@
       "duration_ms": 133363,
       "name": "Fredo Santana",
       "url": "https://open.spotify.com/track/0lWhIYbCKId6RyKzzr71EQ"
+    },
+    {
+      "album": {
+        "name": "FREE FOR ALL",
+        "url": "https://open.spotify.com/album/60Uu7CsIfbZ1tekfNKxyW7"
+      },
+      "artists": [
+        {
+          "name": "Ivan Greko",
+          "url": "https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166857,
+      "name": "FREE FOR ALL",
+      "url": "https://open.spotify.com/track/6KYUQv64dBHAqk15LFwxhj"
     },
     {
       "album": {
@@ -31122,7 +31140,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-05",
+      "date_removed": null,
       "duration_ms": 196153,
       "name": "MAKARENA",
       "url": "https://open.spotify.com/track/4Ie2Wjl2A14obF9rZWzVZU"
@@ -39844,7 +39862,7 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 208000,
       "name": "PARADISO",
       "url": "https://open.spotify.com/track/74eCVhPx2IXqqrqLxGLiPN"
@@ -42548,7 +42566,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 182641,
       "name": "PRETTY BOY",
       "url": "https://open.spotify.com/track/79pHVIZh2bW9Nr0OTF4eKz"
@@ -43348,7 +43366,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 171214,
       "name": "PTR",
       "url": "https://open.spotify.com/track/2UCl29yD6Q92WEnAEBxFD0"
@@ -44146,7 +44164,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-02",
+      "date_removed": null,
       "duration_ms": 143677,
       "name": "Rebetiko",
       "url": "https://open.spotify.com/track/4oHhqNrZtxCPqlTnCsAE92"
@@ -45404,6 +45422,28 @@
       "duration_ms": 142983,
       "name": "Salvador Dali",
       "url": "https://open.spotify.com/track/4N6OaKsTVicF0AozxfhpP2"
+    },
+    {
+      "album": {
+        "name": "SALVATORE",
+        "url": "https://open.spotify.com/album/2OInngvIJpJ8AYujWexpuL"
+      },
+      "artists": [
+        {
+          "name": "HermesHermes",
+          "url": "https://open.spotify.com/artist/5PeCMyf2BO8RlAujWP0erY"
+        },
+        {
+          "name": "Tr4cer",
+          "url": "https://open.spotify.com/artist/1pujt2kEecz5ystwtZxJ0w"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161868,
+      "name": "SALVATORE",
+      "url": "https://open.spotify.com/track/5sCEPFsFxNr0FsMW6OaZbT"
     },
     {
       "album": {
@@ -47292,7 +47332,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 142978,
       "name": "SKYLES ME THELOUN",
       "url": "https://open.spotify.com/track/6t1zI8ht4viqfbPyGcV29c"
@@ -51794,7 +51834,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 184856,
       "name": "Ti Kaneis?",
       "url": "https://open.spotify.com/track/05Tponzfx2bk9wtpopsHSg"
@@ -55464,7 +55504,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 138352,
       "name": "VRD Freestyle",
       "url": "https://open.spotify.com/track/7D6gyQP4QhyVzy6ZNdw68s"
@@ -56844,7 +56884,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-28",
+      "date_removed": null,
       "duration_ms": 155489,
       "name": "XHAMAT E ZINJ",
       "url": "https://open.spotify.com/track/2jpfi9jYj0dhqlF7cDBy8p"

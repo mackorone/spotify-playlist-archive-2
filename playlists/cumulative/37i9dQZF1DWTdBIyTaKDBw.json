@@ -2640,7 +2640,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 130169,
       "name": "Haru no Tori",
       "url": "https://open.spotify.com/track/3gYTCtlRqkWMe6XIiy18K9"
@@ -4364,7 +4364,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 120534,
       "name": "nadeshiko",
       "url": "https://open.spotify.com/track/5w3a21OXszj6drKm0f5KAk"
@@ -4764,6 +4764,28 @@
       "duration_ms": 195320,
       "name": "NOW",
       "url": "https://open.spotify.com/track/2Tb2yszENsQNbtyAGPcjIT"
+    },
+    {
+      "album": {
+        "name": "koishii",
+        "url": "https://open.spotify.com/album/1oa4sqf0R7HNkjScy14x89"
+      },
+      "artists": [
+        {
+          "name": "Koji Koi",
+          "url": "https://open.spotify.com/artist/75jjI7e2c4BNmOGYeDceT1"
+        },
+        {
+          "name": "yamato",
+          "url": "https://open.spotify.com/artist/7kUjTRQK0xNhTKazBTHuGV"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122000,
+      "name": "omiyage",
+      "url": "https://open.spotify.com/track/0QkKCZFoBRZxI46nuorPza"
     },
     {
       "album": {
@@ -5603,6 +5625,24 @@
     },
     {
       "album": {
+        "name": "Tales Of Old Japan",
+        "url": "https://open.spotify.com/album/72UfunM9oY44Wbw78pTiFc"
+      },
+      "artists": [
+        {
+          "name": "Lofi MMMO",
+          "url": "https://open.spotify.com/artist/7mC3tlq3rhrrGfWzMnV0qw"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "Samurai Spirit - Radio Edit",
+      "url": "https://open.spotify.com/track/4R8Tmcj2qLMRP366PU0ahP"
+    },
+    {
+      "album": {
         "name": "Samurai Warrior",
         "url": "https://open.spotify.com/album/6jh2PW4SIaMw8wwHyerB9l"
       },
@@ -5878,7 +5918,7 @@
       ],
       "date_added": "2025-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 174111,
       "name": "Silk Road",
       "url": "https://open.spotify.com/track/4DhAaZSA1kE2dg0voGh5nm"
@@ -6988,6 +7028,28 @@
       "duration_ms": 132942,
       "name": "Tokyo Rooftop",
       "url": "https://open.spotify.com/track/0rJHr0Z3uMRGKNK2jg05Tx"
+    },
+    {
+      "album": {
+        "name": "Tokyo Skyline",
+        "url": "https://open.spotify.com/album/27XjDTqr7TNHKFazcl1WKO"
+      },
+      "artists": [
+        {
+          "name": "oxinym",
+          "url": "https://open.spotify.com/artist/2HzakzAFsbcNVwShi8AXL3"
+        },
+        {
+          "name": "Symoo",
+          "url": "https://open.spotify.com/artist/12CDwi9HyJtyPRBqat24LV"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114000,
+      "name": "Tokyo Skyline",
+      "url": "https://open.spotify.com/track/3cAE43ryFfFlNYBTWEXetT"
     },
     {
       "album": {

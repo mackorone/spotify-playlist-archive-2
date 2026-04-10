@@ -1,13 +1,89 @@
 {
-  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: yuandirty",
-  "num_followers": 14102,
+  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: RINNI",
+  "num_followers": 14105,
   "original_name": "JIVVA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE0OZINHpUnScyb15qEDZS2BLXbt",
+  "snapshot_id": "AAAAABnaYNZgH3m8bj3w5iRYWGl22sua",
   "tracks": [
+    {
+      "added_at": "2026-04-09 19:00:11",
+      "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/2XV8ANcTWdKw4KOU408W4L"
+      },
+      "artists": [
+        {
+          "name": "RINNI",
+          "url": "https://open.spotify.com/artist/3rFmw91W5mxZHH6r40GGWh"
+        }
+      ],
+      "duration_ms": 170880,
+      "name": "Superstar Energy",
+      "url": "https://open.spotify.com/track/2UYmdrge419TwaNMZbewoo"
+    },
+    {
+      "added_at": "2026-04-09 19:00:11",
+      "album": {
+        "name": "Savor",
+        "url": "https://open.spotify.com/album/4MfDLcpgl4BEOsJaEoxwpt"
+      },
+      "artists": [
+        {
+          "name": "Annisya",
+          "url": "https://open.spotify.com/artist/1PELt1dPoZyGYKgV6KWBkA"
+        },
+        {
+          "name": "Shanne Dandan",
+          "url": "https://open.spotify.com/artist/7EI84Mki1SMyB7NcBDPUCd"
+        },
+        {
+          "name": "Thinlamphone",
+          "url": "https://open.spotify.com/artist/3mnChgaY71RHitaCCyogeM"
+        },
+        {
+          "name": "leonnutx",
+          "url": "https://open.spotify.com/artist/6NH3eUPgorh9IMqALtDiRt"
+        }
+      ],
+      "duration_ms": 176666,
+      "name": "Savor",
+      "url": "https://open.spotify.com/track/4FGGVyBrsWePOSTVL6K95M"
+    },
+    {
+      "added_at": "2026-04-09 19:00:11",
+      "album": {
+        "name": "PISSED ME OFF / BORED ME TO DEATH",
+        "url": "https://open.spotify.com/album/1ZVS7kg3oUYwmdnETa3ujT"
+      },
+      "artists": [
+        {
+          "name": "Noni",
+          "url": "https://open.spotify.com/artist/5qKvIYld9MeIwjut9otxti"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "RATHER BE / IN HELL",
+      "url": "https://open.spotify.com/track/0lVgwDVMGiCUa9tSWo56Oq"
+    },
+    {
+      "added_at": "2026-03-12 18:00:20",
+      "album": {
+        "name": "Keliling",
+        "url": "https://open.spotify.com/album/3q9Q1LA1ZWOVeH4oITyTPx"
+      },
+      "artists": [
+        {
+          "name": "Farrel Hilal",
+          "url": "https://open.spotify.com/artist/1J8zqQ7mkAaYY9jDBwu0Np"
+        }
+      ],
+      "duration_ms": 179225,
+      "name": "Keliling",
+      "url": "https://open.spotify.com/track/5HbQ8H511rysCzppm22YSR"
+    },
     {
       "added_at": "2026-03-12 18:00:20",
       "album": {
@@ -71,22 +147,6 @@
       "duration_ms": 207600,
       "name": "Under the Silver Moon",
       "url": "https://open.spotify.com/track/6qa9ImotbPJJ287VzSSN9X"
-    },
-    {
-      "added_at": "2026-03-12 18:00:20",
-      "album": {
-        "name": "Keliling",
-        "url": "https://open.spotify.com/album/3q9Q1LA1ZWOVeH4oITyTPx"
-      },
-      "artists": [
-        {
-          "name": "Farrel Hilal",
-          "url": "https://open.spotify.com/artist/1J8zqQ7mkAaYY9jDBwu0Np"
-        }
-      ],
-      "duration_ms": 179225,
-      "name": "Keliling",
-      "url": "https://open.spotify.com/track/5HbQ8H511rysCzppm22YSR"
     },
     {
       "added_at": "2026-03-27 04:00:27",
@@ -845,22 +905,6 @@
       "url": "https://open.spotify.com/track/56TRhAB4SqpRn5NdqHSAFy"
     },
     {
-      "added_at": "2025-10-16 17:00:27",
-      "album": {
-        "name": "MENU",
-        "url": "https://open.spotify.com/album/0lag32AUNO5cQXh6JAQ1Ra"
-      },
-      "artists": [
-        {
-          "name": "Ave",
-          "url": "https://open.spotify.com/artist/0kZdHdMdgWhx5B0rhtm11A"
-        }
-      ],
-      "duration_ms": 181682,
-      "name": "MENU",
-      "url": "https://open.spotify.com/track/3Vn8GxxDb2RVsKXccq8C5l"
-    },
-    {
       "added_at": "2025-10-02 17:00:33",
       "album": {
         "name": "Ibukota",
@@ -929,22 +973,6 @@
       "url": "https://open.spotify.com/track/0q9ceMhLuxiIoGtcxOsozy"
     },
     {
-      "added_at": "2025-10-09 17:00:23",
-      "album": {
-        "name": "Runner Up",
-        "url": "https://open.spotify.com/album/4fU3VB9Q1XxP5UH4aBSPwR"
-      },
-      "artists": [
-        {
-          "name": "Moneva",
-          "url": "https://open.spotify.com/artist/1wLYFml7YYO2uEcNwAZE0J"
-        }
-      ],
-      "duration_ms": 234195,
-      "name": "Runner Up",
-      "url": "https://open.spotify.com/track/6R549RTmRikhV9khynVxv3"
-    },
-    {
       "added_at": "2025-09-18 17:00:31",
       "album": {
         "name": "BACK 2 YOU",
@@ -997,22 +1025,6 @@
       "url": "https://open.spotify.com/track/6YF5BNUUZLFMs2Z96jvovv"
     },
     {
-      "added_at": "2025-08-22 02:32:31",
-      "album": {
-        "name": "dusta",
-        "url": "https://open.spotify.com/album/5WJDpfRQJ3n7Q0LlaalF1d"
-      },
-      "artists": [
-        {
-          "name": "Syahravi",
-          "url": "https://open.spotify.com/artist/3pAnwLXAmm8w29Qy20KFJZ"
-        }
-      ],
-      "duration_ms": 201191,
-      "name": "dusta",
-      "url": "https://open.spotify.com/track/5TigmnZ3JxlwNvlVe9EU5a"
-    },
-    {
       "added_at": "2025-08-21 19:00:33",
       "album": {
         "name": "Heaven",
@@ -1031,22 +1043,6 @@
       "duration_ms": 214956,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/1IHGk33iYHS1m5yX6ucRyl"
-    },
-    {
-      "added_at": "2025-08-07 19:00:29",
-      "album": {
-        "name": "Glow",
-        "url": "https://open.spotify.com/album/05rZ3AQMXe6OwkU53QoCPy"
-      },
-      "artists": [
-        {
-          "name": "Wizzy",
-          "url": "https://open.spotify.com/artist/3nFxNn6bmS2fT5WMgF87Ls"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Glow",
-      "url": "https://open.spotify.com/track/6xWfKqMv4ebAIVGYbvo7o4"
     },
     {
       "added_at": "2025-08-07 19:00:29",
@@ -1081,22 +1077,6 @@
       "url": "https://open.spotify.com/track/10Yqzw7epmxfTzbZ03p1zX"
     },
     {
-      "added_at": "2025-07-24 20:00:12",
-      "album": {
-        "name": "Buktinya Baik-Baik Saja",
-        "url": "https://open.spotify.com/album/70gWvpQaa7gQtr4jOuAnZd"
-      },
-      "artists": [
-        {
-          "name": "Glenn Samuel",
-          "url": "https://open.spotify.com/artist/26ez0LOxJMgy1GkkXhZiCV"
-        }
-      ],
-      "duration_ms": 205442,
-      "name": "Buktinya Baik-Baik Saja",
-      "url": "https://open.spotify.com/track/3cn9Fhd4UbxokJLDFLYZgK"
-    },
-    {
       "added_at": "2025-07-17 17:28:01",
       "album": {
         "name": "ADDICTION",
@@ -1111,38 +1091,6 @@
       "duration_ms": 149743,
       "name": "ADDICTION",
       "url": "https://open.spotify.com/track/62yN59Z49wkOnPByz4VzWI"
-    },
-    {
-      "added_at": "2025-07-10 19:00:29",
-      "album": {
-        "name": "Sour Candy",
-        "url": "https://open.spotify.com/album/6AST0741qWPUcJAr2HfsCp"
-      },
-      "artists": [
-        {
-          "name": "Tripov",
-          "url": "https://open.spotify.com/artist/7EAQd1uHunanyGbZenLe6h"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Sour Candy",
-      "url": "https://open.spotify.com/track/4EnQxvppOihfeLqRQGgnDQ"
-    },
-    {
-      "added_at": "2025-07-10 19:00:29",
-      "album": {
-        "name": "Kiss Me Through the Phone",
-        "url": "https://open.spotify.com/album/3HhUAxZKzNOjTyTxc5zvzk"
-      },
-      "artists": [
-        {
-          "name": "Bloodlyne",
-          "url": "https://open.spotify.com/artist/6r2NRFjucCptbMJHvRtLXL"
-        }
-      ],
-      "duration_ms": 188993,
-      "name": "Kiss Me Through the Phone",
-      "url": "https://open.spotify.com/track/6PrVvWP4SDaKOMweP5PKMt"
     },
     {
       "added_at": "2025-06-20 00:06:43",

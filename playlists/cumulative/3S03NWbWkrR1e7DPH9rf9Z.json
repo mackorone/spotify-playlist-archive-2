@@ -2659,6 +2659,32 @@
     },
     {
       "album": {
+        "name": "LS",
+        "url": "https://open.spotify.com/album/4IiJW7nhCgWNK9iL3AxTFL"
+      },
+      "artists": [
+        {
+          "name": "Alex Mueller",
+          "url": "https://open.spotify.com/artist/6hPJjDkls4G9H1nRUqBPGS"
+        },
+        {
+          "name": "Retrika",
+          "url": "https://open.spotify.com/artist/6SLVPua1BJCUt85y4bug2Z"
+        },
+        {
+          "name": "NYROK",
+          "url": "https://open.spotify.com/artist/4mkWUMA2i9eUXRoYaDVU0K"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134571,
+      "name": "LS",
+      "url": "https://open.spotify.com/track/7jgipOkxhYQwVCbt1vUwib"
+    },
+    {
+      "album": {
         "name": "Magalenha",
         "url": "https://open.spotify.com/album/3NQrqWMpGH9PqZMEoSPBsZ"
       },

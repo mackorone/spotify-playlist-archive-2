@@ -194,7 +194,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 171280,
       "name": "20:30 (feat. Karim B)",
       "url": "https://open.spotify.com/track/4JxEs2rVOz4d4xaPL9mM3a"
@@ -920,7 +920,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 186017,
       "name": "Aitous ei oo myynniss\u00e4",
       "url": "https://open.spotify.com/track/7aunzDlJop67v4YAYRWxbr"
@@ -2338,7 +2338,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 177951,
       "name": "Clean Girl",
       "url": "https://open.spotify.com/track/6mj1Yrft5u4JrHufxkyDSN"
@@ -3397,6 +3397,28 @@
     },
     {
       "album": {
+        "name": "Ei voi (feat. Luwa.Mp4)",
+        "url": "https://open.spotify.com/album/2hdZSRF3c42AzLGRrCuvDG"
+      },
+      "artists": [
+        {
+          "name": "Turisti",
+          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
+        },
+        {
+          "name": "Luwa.Mp4",
+          "url": "https://open.spotify.com/artist/6CS6NjMmo93ligNiiZ97LZ"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190971,
+      "name": "Ei voi (feat. Luwa.Mp4)",
+      "url": "https://open.spotify.com/track/6xpZg3sfg49gNihQZGLsl1"
+    },
+    {
+      "album": {
         "name": "Ei!",
         "url": "https://open.spotify.com/album/2ia9QcMBPOgnxkgDMVz0ZJ"
       },
@@ -4278,6 +4300,28 @@
       "duration_ms": 154567,
       "name": "Ex\u00e4t",
       "url": "https://open.spotify.com/track/4q5Rnu71pstT3z6kklETEP"
+    },
+    {
+      "album": {
+        "name": "Fake Love (feat. Sicario Jr)",
+        "url": "https://open.spotify.com/album/3ppByEXeXULRFFXYhflemr"
+      },
+      "artists": [
+        {
+          "name": "T Swoop",
+          "url": "https://open.spotify.com/artist/3XB4IVNkzpc80d9qmthhl3"
+        },
+        {
+          "name": "Sicario Jr",
+          "url": "https://open.spotify.com/artist/1O0ExECljjW2DpLZE8EPrI"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158225,
+      "name": "Fake Love (feat. Sicario Jr)",
+      "url": "https://open.spotify.com/track/5vdl2SUnd7qwE1BSmiNrXc"
     },
     {
       "album": {
@@ -5183,6 +5227,24 @@
     },
     {
       "album": {
+        "name": "OBJ / HENKIVAKUUS",
+        "url": "https://open.spotify.com/album/74pox3WjGLeYTUv83zA4fK"
+      },
+      "artists": [
+        {
+          "name": "D1 DANI",
+          "url": "https://open.spotify.com/artist/5xkRtoUiQ7UJ3WPEDZaKgx"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131020,
+      "name": "HENKIVAKUUS",
+      "url": "https://open.spotify.com/track/7cYGCSkNwAJTHdRIMIkeJJ"
+    },
+    {
+      "album": {
         "name": "Hennessy",
         "url": "https://open.spotify.com/album/3ZXu1oHEFLmtRstDA4jCw2"
       },
@@ -5366,6 +5428,28 @@
       "duration_ms": 125955,
       "name": "HOTLINE (feat. Gabri)",
       "url": "https://open.spotify.com/track/4RQfjtiyg5aB3iwcTQWVJ7"
+    },
+    {
+      "album": {
+        "name": "Hudano x OFF THE BOOTH (Hundow Section)",
+        "url": "https://open.spotify.com/album/1szqMdXFX9zTGztvRFdzdT"
+      },
+      "artists": [
+        {
+          "name": "OFF THE BOOTH",
+          "url": "https://open.spotify.com/artist/6lneXpoKhbBtujfCjkMD6g"
+        },
+        {
+          "name": "Hudano",
+          "url": "https://open.spotify.com/artist/5osTJ60y6Z6sZUFXAF3A19"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188500,
+      "name": "Hudano x OFF THE BOOTH (Hundow Section)",
+      "url": "https://open.spotify.com/track/1CFYlGAFt4MiJmrLaj4WmY"
     },
     {
       "album": {
@@ -5664,7 +5748,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 165441,
       "name": "H\u00e4mm\u00e4stytt\u00e4v\u00e4\u00e4 (feat. Hukas)",
       "url": "https://open.spotify.com/track/7hewnnWdbcbUWh7erWsGpK"
@@ -6464,7 +6548,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 173383,
       "name": "Jahtaat sun h\u00e4nt\u00e4\u00e4",
       "url": "https://open.spotify.com/track/6jbH29dXQkc9M70JZwddD1"
@@ -7070,7 +7154,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-03",
+      "date_removed": null,
       "duration_ms": 140583,
       "name": "J\u00e4ttebra (feat. SVANI)",
       "url": "https://open.spotify.com/track/5hRMgkefRQTIlY5xdSGUUd"
@@ -9256,7 +9340,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 206999,
       "name": "Kuolisin sun kaa (feat. pehmoaino)",
       "url": "https://open.spotify.com/track/5CvuQeaaSG0V8lpUHNUggx"
@@ -9568,7 +9652,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-27",
+      "date_removed": null,
       "duration_ms": 140296,
       "name": "K\u00e4vin t\u00e4\u00e4l",
       "url": "https://open.spotify.com/track/4SMRzU9943uromfmKU7jim"
@@ -10094,7 +10178,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 180479,
       "name": "Liekinheitin",
       "url": "https://open.spotify.com/track/0k2NxIVax5tnGSCeruFyEL"
@@ -14356,7 +14440,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-09",
+      "date_removed": null,
       "duration_ms": 201187,
       "name": "OMG (feat. Evelina)",
       "url": "https://open.spotify.com/track/3Rvtvz0JuyKXEZ9A1ZTmbe"
@@ -14422,7 +14506,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 196915,
       "name": "Onks se v\u00e4\u00e4rin (feat. Alina Burnet & JVG)",
       "url": "https://open.spotify.com/track/4KLDps1W298pw97KmTL17p"
@@ -16819,6 +16903,24 @@
     },
     {
       "album": {
+        "name": "Ringside",
+        "url": "https://open.spotify.com/album/6unsEZgvoHkSk8LyvVRhuc"
+      },
+      "artists": [
+        {
+          "name": "Rekami",
+          "url": "https://open.spotify.com/artist/25SDUzCXVuk0Va1iinM5aB"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178750,
+      "name": "Ringside",
+      "url": "https://open.spotify.com/track/2nsvYByxwXzlJw6Tps4Tde"
+    },
+    {
+      "album": {
         "name": "Rio",
         "url": "https://open.spotify.com/album/5bIiiWvjC6anYTeWMAfT0r"
       },
@@ -16998,6 +17100,28 @@
       "duration_ms": 183005,
       "name": "Ruletti",
       "url": "https://open.spotify.com/track/7Le71LLofcN4HLoOxcUuRB"
+    },
+    {
+      "album": {
+        "name": "Rullaa (feat. Korelon)",
+        "url": "https://open.spotify.com/album/3FGhBkNmeHZsEWfzpIZA1n"
+      },
+      "artists": [
+        {
+          "name": "Cledos",
+          "url": "https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe"
+        },
+        {
+          "name": "Korelon",
+          "url": "https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165484,
+      "name": "Rullaa (feat. Korelon)",
+      "url": "https://open.spotify.com/track/4wotEMgJY5LC6GlUf93JVv"
     },
     {
       "album": {
@@ -17556,7 +17680,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-03",
+      "date_removed": null,
       "duration_ms": 130423,
       "name": "Se ei ollu min\u00e4",
       "url": "https://open.spotify.com/track/6pcFppgbBG2eXOGdRn46kH"
@@ -18326,7 +18450,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 198409,
       "name": "Solmui",
       "url": "https://open.spotify.com/track/3mJi3jC4UzeFKU3SOyNqna"
@@ -21568,7 +21692,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 148653,
       "name": "Vainoharhainen",
       "url": "https://open.spotify.com/track/5rt6s9EwnMkPqwSEvNhEjU"

@@ -36131,6 +36131,24 @@
     },
     {
       "album": {
+        "name": "PICKY PICKY",
+        "url": "https://open.spotify.com/album/5ALLCCDEVDdmmuSDeNE1ZW"
+      },
+      "artists": [
+        {
+          "name": "Jaime Cheung",
+          "url": "https://open.spotify.com/artist/0HlQqnAtrcPAXQcfdKqz5h"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128031,
+      "name": "PICKY PICKY",
+      "url": "https://open.spotify.com/track/1rXkRz2Kq0OPtUCbYl1FnR"
+    },
+    {
+      "album": {
         "name": "Picture Myself",
         "url": "https://open.spotify.com/album/6LHKYRQ0aTADgfgZErmYjT"
       },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-03-14",
-  "description": "explore the alt-sounds of Copenhagen and beyond \ud83c\udf00 Cover: Alba Akvama",
+  "description": "explore the alt-sounds of Copenhagen and beyond \ud83c\udf00 Cover: A Good Year",
   "name": "Cph+",
   "tracks": [
     {
@@ -308,6 +308,28 @@
       "duration_ms": 237540,
       "name": "Anymore",
       "url": "https://open.spotify.com/track/1F9eoTtJcbxIlCY0o0Imsp"
+    },
+    {
+      "album": {
+        "name": "Back of a car",
+        "url": "https://open.spotify.com/album/70I3QI750IKQK7UMgSMeve"
+      },
+      "artists": [
+        {
+          "name": "A Good Year",
+          "url": "https://open.spotify.com/artist/30F8R1qAerw8VvYtRGGg0j"
+        },
+        {
+          "name": "Koilwood",
+          "url": "https://open.spotify.com/artist/4GKDR0aZmXTNpvDBcUy1m2"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151914,
+      "name": "Back of a car",
+      "url": "https://open.spotify.com/track/77gA40f86KuiqzFMnEh2Ww"
     },
     {
       "album": {
@@ -1996,6 +2018,24 @@
       "duration_ms": 209600,
       "name": "Harsh Love",
       "url": "https://open.spotify.com/track/6kdHY97UbXDdxfExPF45su"
+    },
+    {
+      "album": {
+        "name": "Heart-shaped Eyes",
+        "url": "https://open.spotify.com/album/2iYIMPIfDSmVqMeJWp98g6"
+      },
+      "artists": [
+        {
+          "name": "Yangze",
+          "url": "https://open.spotify.com/artist/41ZgBrHYJcdi3LEiZX1RMt"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189605,
+      "name": "Heart-shaped Eyes",
+      "url": "https://open.spotify.com/track/3W0XKCoZbqgXrwfdEqRCI3"
     },
     {
       "album": {
@@ -4614,6 +4654,24 @@
       "duration_ms": 172421,
       "name": "Under my bed",
       "url": "https://open.spotify.com/track/1w1a1ao2QB7I8w1vhjQkMV"
+    },
+    {
+      "album": {
+        "name": "Under the Covers",
+        "url": "https://open.spotify.com/album/6rIT9dQGaTqv59RGPCEpWQ"
+      },
+      "artists": [
+        {
+          "name": "Carla dal Forno",
+          "url": "https://open.spotify.com/artist/6FVxEgfQsGrJ0BogIOYCd6"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235106,
+      "name": "Under the Covers",
+      "url": "https://open.spotify.com/track/7waKVeTZb1D5a5r6aqyDF3"
     },
     {
       "album": {

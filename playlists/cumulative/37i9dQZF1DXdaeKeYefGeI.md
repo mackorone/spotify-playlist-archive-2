@@ -4,7 +4,7 @@
 
 > Wat kan het Nederlands toch mooi zijn\. Cover: Claudia de Breij
 
-258 songs - 15 hr 37 min
+259 songs - 15 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [Samen Zijn](https://open.spotify.com/track/75Bhe67bl6ndyrlkJ1OpH5) | [Willeke Alberti](https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV) | [Hollandse Sterren Collectie](https://open.spotify.com/album/1FJhxTagODYnKjA4PJakmk) | 4:24 | 2024-04-18 | 2024-10-11 |
 | [Sarah](https://open.spotify.com/track/7yDqMzyLCuu3pE1NqbqWbO) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh), [Edith Leerkes](https://open.spotify.com/artist/78UaWj1oZgFfDSjhTj6oKs) | [Moeders](https://open.spotify.com/album/7tjnfbRE4E3jCzH6pv1BHd) | 3:30 | 2023-02-10 | 2023-04-26 |
 | [Schaduw](https://open.spotify.com/track/51K5jkPVyjP4jcqPcfBTYl) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G), [Abel](https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ) | [Schaduw](https://open.spotify.com/album/66mkzk0QFKvP4BalRxe8ZR) | 3:36 | 2025-06-05 |  |
+| [Seks, Geweld En Religie \(Paul Verhoeven\)](https://open.spotify.com/track/2LFFqbkBfxPPX6emZJDsoU) | [Meindert Talma](https://open.spotify.com/artist/5VWau7VkZjYnyoJEkeSgRn) | [Celluloid Illusies](https://open.spotify.com/album/5DHDYaU7YMNzybw4OwOKFl) | 4:32 | 2026-04-09 |  |
 | [Slaap](https://open.spotify.com/track/03uUxpinGNtYRgQn8w84a1) | [Eva van Manen](https://open.spotify.com/artist/39fsjaOkLW4Gq6X6URiWRj) | [Slaap](https://open.spotify.com/album/5aFdLxtMs8LfxiTmV5kSnP) | 3:51 | 2026-03-05 |  |
 | [Soms weet je niet meer](https://open.spotify.com/track/1LKwFfhWW1dqIdF0Dsr4yB) | [Astronaut](https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn) | [Soms weet je niet meer](https://open.spotify.com/album/2HqYBpHRolImkk7d3JKtq3) | 2:59 | 2026-03-30 |  |
 | [Spring erin!](https://open.spotify.com/track/1euooYf6ATjv6fVplDQw0A) | [Fanny](https://open.spotify.com/artist/7zr2Ni9ndVqr0UwBT4K6pe) | [Spring erin!](https://open.spotify.com/album/0e4O3V0RxMq8TbuBq6303i) | 3:34 | 2025-02-07 | 2025-10-22 |

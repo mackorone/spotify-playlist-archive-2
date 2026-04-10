@@ -4,7 +4,7 @@
 
 > all the stutter, all the feels.
 
-997 songs - 2 day 5 hr 5 min
+1,000 songs - 2 day 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -405,8 +405,10 @@
 | [ibiza is waiting for me](https://open.spotify.com/track/5vdhqDCTGz9wOOtfNc9WAb) | [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ), [Spring Breaker](https://open.spotify.com/artist/5ba5RugOUTTg6cRZQdV0bP) | [ibiza is waiting for me](https://open.spotify.com/album/1bN925mymBe394mn5MS3oX) | 5:27 | 2025-02-20 |  |
 | [IDK](https://open.spotify.com/track/23BiGklg1oOIXdA1r6ABSZ) | [BKAYE](https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [IDK](https://open.spotify.com/album/0leWpmreYDDG81dM9D3djo) | 2:53 | 2024-08-29 | 2025-08-13 |
 | [If U Get Lost](https://open.spotify.com/track/1clcJIgwOLFu4t0Bz0p8FF) | [Attic Beats](https://open.spotify.com/artist/6oGLvkrXYxzfmCdG2Tuadi) | [If U Get Lost](https://open.spotify.com/album/1fmQ63djQBOt6M2XscCL1D) | 2:36 | 2024-07-12 | 2025-08-13 |
+| [Imagination](https://open.spotify.com/track/43FVchS087rIcfmnrOkNsC) | [Hunter/Game](https://open.spotify.com/artist/2EpNqFMVXOEGaliyKnZzDt), [Aries](https://open.spotify.com/artist/5i3GGVDRXf0fPJsmzA6uuC) | [Imagination](https://open.spotify.com/album/7IcoBgb1jeBfEDDQ9R0lg0) | 2:46 | 2026-04-09 |  |
 | [imissthetimes](https://open.spotify.com/track/24fIb3TQ2uhY23caHh5Zi5) | [Ordley](https://open.spotify.com/artist/7iytrtzbCdACF9euDDHfiD) | [imissthetimes](https://open.spotify.com/album/6soiQc7YLffUhmPHzWbz7q) | 2:24 | 2026-01-22 |  |
 | [In And Out Of Love](https://open.spotify.com/track/7nxTzZJmf2lLplk5pfV64h) | [Rivo](https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Sharon Den Adel](https://open.spotify.com/artist/2GST08xzn3dJilysjDhSmi) | [In And Out Of Love](https://open.spotify.com/album/3ieuC2fT9bBITfYugxOkwK) | 3:46 | 2024-07-25 | 2025-08-13 |
+| [in my arms](https://open.spotify.com/track/7yWy7PV3Sv6kzjhgx4gI4S) | [abelon](https://open.spotify.com/artist/6RknJW6TTU6TQfTZDptOui) | [in my arms](https://open.spotify.com/album/0UvFs5H7Rtv6u26xJsU5uP) | 2:05 | 2026-04-09 |  |
 | [In My Head](https://open.spotify.com/track/3qHPMaazhsySnfGlWIB45Y) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [In My Head](https://open.spotify.com/album/6Z1OHC8fQPRnXlsw3VNaaY) | 2:36 | 2026-01-30 |  |
 | [In My Mind](https://open.spotify.com/track/45c9wiUAAYRgbAnBcfPEsk) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [In My Mind](https://open.spotify.com/album/4eYA7Zv64Zf4TrE9js5VLo) | 2:00 | 2024-02-22 | 2024-07-03 |
 | [In My Mind](https://open.spotify.com/track/1UcSwc91w0QBondREndseA) | [Megra](https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok) | [In My Mind](https://open.spotify.com/album/0mtGeLXVMtHOo7n83TqJib) | 4:15 | 2026-02-12 |  |
@@ -713,6 +715,7 @@
 | [Runaway \- JEV Remix](https://open.spotify.com/track/5wUgpWOlLFMYfAcpzIUrbI) | [Stresshead](https://open.spotify.com/artist/1ilfLz2z62VTtvKJmxYPzs), [JEV](https://open.spotify.com/artist/6StZbL9v3UpuaMwIoq8fyW) | [Runaway \(JEV Remix\)](https://open.spotify.com/album/627xHZPv8UREuGW5TWZgcF) | 3:30 | 2025-02-27 |  |
 | [RWEOK?](https://open.spotify.com/track/2YhEJoYccyE5wpdAkZWbPk) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [demotapes](https://open.spotify.com/artist/7J3jiKIiROsYOlJeEml34X) | [RWEOK?](https://open.spotify.com/album/1ohdPPIK0Gl5F3oJafcwgQ) | 2:27 | 2023-07-28 | 2024-01-06 |
 | [s.o.s](https://open.spotify.com/track/2gRcRlKTI8WSQhufYPlO1Z) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ), [Tabi](https://open.spotify.com/artist/5AnSxADNBeVFHJEGJVPYVn) | [s.o.s](https://open.spotify.com/album/4E0rIBD3vyXDoaynnfT5Av) | 2:09 | 2025-10-06 |  |
+| [Safe and Sound](https://open.spotify.com/track/1rXEgR88Cm8jC28kWI99D8) | [Eros for you](https://open.spotify.com/artist/6hFvN0YDYv2sbSn7aY9AOa) | [Safe and Sound](https://open.spotify.com/album/490fzBpBbQcuEBaOS116Fj) | 3:17 | 2026-04-09 |  |
 | [SAFE WITH ME \(SECRETOS\)](https://open.spotify.com/track/0FCABIXhXHI4mi0qao8gTR) | [Jhay Rivas](https://open.spotify.com/artist/4hQHXyqZ6QlqPC76XmT2kH) | [SAFE WITH ME \(SECRETOS\)](https://open.spotify.com/album/3W2fOiqWefDpA1huBvt3fe) | 3:46 | 2024-04-04 | 2025-08-13 |
 | [Same Wave \(feat\. Salena Mastroianni\)](https://open.spotify.com/track/0B6YQW5879dzOqOfJKbOWh) | [Hogland](https://open.spotify.com/artist/5s21IKPvmxRf9WxpO8H5UB), [Salena Mastroianni](https://open.spotify.com/artist/0X9HZbVBzUgugjKVgrYk6W) | [Same Wave \(feat\. Salena Mastroianni\)](https://open.spotify.com/album/74hfd8hsX9X95Unoyq1FLm) | 1:59 | 2023-08-10 | 2025-08-13 |
 | [Save a Soul](https://open.spotify.com/track/7bDDYji600PxR0F921ctVN) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Woods](https://open.spotify.com/album/2z3CV9qqCvIYvrM6pcrp1F) | 4:22 | 2023-04-20 | 2025-08-13 |

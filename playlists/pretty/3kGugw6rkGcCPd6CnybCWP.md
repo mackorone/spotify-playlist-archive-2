@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,171 likes - 107 songs - 6 hr 14 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,170 likes - 111 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,5 +115,9 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 105 | [Take It](https://open.spotify.com/track/0L1IruULPPjjwAhsgIfVx6) | [Drawing on Scars](https://open.spotify.com/artist/6cQZAXvhiIhuzJlN7XmeKu), [Jodie Reid](https://open.spotify.com/artist/08oMRYJ7LRlDPN7QXE5l9u) | [A Bridge Across the Sea](https://open.spotify.com/album/5y4kycwvx8BLd7tXfyAg6d) | 3:08 |
 | 106 | [Dollface](https://open.spotify.com/track/2gJlmzqblAarjB9FPa3WaD) | [Wikka](https://open.spotify.com/artist/1PTXGpEQqVfBYjv5sGbfjq) | [Dollface](https://open.spotify.com/album/4JxQ2wpp7DQKnPoAsvxMNq) | 3:09 |
 | 107 | [Down and Out](https://open.spotify.com/track/4FijKBMTSLv63uXNh3qM1e) | [White Star Line](https://open.spotify.com/artist/3qDMmbHoQIpMvNuOzyazsh) | [Down and Out](https://open.spotify.com/album/6Hg0NRmmjjjjaBKYqG3nGh) | 3:42 |
+| 108 | [This Is How We Say Goodbye](https://open.spotify.com/track/6NbzdZrZwTzPvMySmzsdPU) | [The Color Blew](https://open.spotify.com/artist/6mnHAaGTCbeNA07xwFbWvz) | [Light Switch](https://open.spotify.com/album/55iQV1wqNmicvSeYMRI0eP) | 6:55 |
+| 109 | [Enough](https://open.spotify.com/track/5vm4R22GJJVbZU1rsq2UXE) | [Kaela Gillman](https://open.spotify.com/artist/7EoOrLX9Fb6o2cN25fpHdu), [Pop•&Friends](https://open.spotify.com/artist/39Vpw5RSeipPPq871XeMSV) | [Enough](https://open.spotify.com/album/0CkdJpaFtHDJN9mAmvGSuq) | 3:16 |
+| 110 | [Next In Line](https://open.spotify.com/track/7G4XN3ChekRS6KOxOIF68G) | [Carmen Olivia](https://open.spotify.com/artist/1w04bxkCPIX84eeMhf73aN) | [Next In Line](https://open.spotify.com/album/1tPGzJkKTLeb9X7mmCrdUu) | 3:31 |
+| 111 | [Don't Let Me Go](https://open.spotify.com/track/02h0GTr7iO4JUUu5Vy2cfZ) | [Paranoize](https://open.spotify.com/artist/2IsNoOamJMVdmEKK4dQKcS) | [Don't Let Me Go](https://open.spotify.com/album/3Kg1v6AGrwbxB1D8MqPZTF) | 2:13 |
 
-Snapshot ID: `AAAOCvLQKs+sZqpUtJI10NYUrl/3BYvl`
+Snapshot ID: `AAAODgc4zeXBr6Zup8iIkQr6J98rPrv3`

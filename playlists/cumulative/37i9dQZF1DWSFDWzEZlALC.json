@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: katlix",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: herr ulrich",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -680,7 +680,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 142101,
       "name": "3/10",
       "url": "https://open.spotify.com/track/1peGM7tnZvury4ZMopjcxl"
@@ -7026,7 +7026,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 142236,
       "name": "du siehst S\u00dcCHTIG aus",
       "url": "https://open.spotify.com/track/6ue6Xw8FrbAB0COOYMPkJ7"
@@ -7582,7 +7582,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 125624,
       "name": "ein Lied f\u00fcr mich",
       "url": "https://open.spotify.com/track/5Fsu0TrOztCwhpt0TXhY3M"
@@ -14863,6 +14863,24 @@
     },
     {
       "album": {
+        "name": "Kann mich jemand h\u00f6ren?",
+        "url": "https://open.spotify.com/album/1d8LPvg41vTABvJF9YaLhU"
+      },
+      "artists": [
+        {
+          "name": "mathi",
+          "url": "https://open.spotify.com/artist/2WdZDDcWNpEKsQjSetoZE4"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164205,
+      "name": "Kann mich jemand h\u00f6ren?",
+      "url": "https://open.spotify.com/track/49QRWyz4DObK0sNisA7ORu"
+    },
+    {
+      "album": {
         "name": "Kann schon sein",
         "url": "https://open.spotify.com/album/4nfokgB8WYKh2sO4LASZe8"
       },
@@ -16246,7 +16264,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 193134,
       "name": "Kriege ohne mich",
       "url": "https://open.spotify.com/track/3g6x50mX1EgrzeZLXkZc8b"
@@ -17378,7 +17396,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 187203,
       "name": "Liebeslied",
       "url": "https://open.spotify.com/track/5PQUlQaGTKUSqvpQXPhL0x"
@@ -17959,6 +17977,24 @@
     },
     {
       "album": {
+        "name": "mach nich so",
+        "url": "https://open.spotify.com/album/6pGlbmvJt41qg4OnEQZiXU"
+      },
+      "artists": [
+        {
+          "name": "frytz",
+          "url": "https://open.spotify.com/artist/4hX2AmJ9iZiXYA2Zx1vtBO"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121111,
+      "name": "mach nich so",
+      "url": "https://open.spotify.com/track/74sWsXinuC5RQAFWjhWFvU"
+    },
+    {
+      "album": {
         "name": "ALLE MEINE FREUNDE SIND TR\u00c4UMER",
         "url": "https://open.spotify.com/album/1R5dHLhPZVkjkIdN5MVDQj"
       },
@@ -18534,6 +18570,24 @@
       "duration_ms": 202198,
       "name": "Medaillon",
       "url": "https://open.spotify.com/track/4M6r3YozaHUbShO4DPzzDx"
+    },
+    {
+      "album": {
+        "name": "Meer",
+        "url": "https://open.spotify.com/album/5xhvpqb39HeymkmufiMft6"
+      },
+      "artists": [
+        {
+          "name": "JBS",
+          "url": "https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148206,
+      "name": "Meer",
+      "url": "https://open.spotify.com/track/5P5Y4Uf9EPR5FFJGo8wi1O"
     },
     {
       "album": {
@@ -20213,6 +20267,24 @@
     },
     {
       "album": {
+        "name": "Nie wieder ist jetzt",
+        "url": "https://open.spotify.com/album/1HEVGp1KCrFC0hyOfks6kc"
+      },
+      "artists": [
+        {
+          "name": "herr ulrich",
+          "url": "https://open.spotify.com/artist/3EwGLc40naFP5DNfWFTqBA"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194760,
+      "name": "Nie wieder ist jetzt",
+      "url": "https://open.spotify.com/track/0BbCFmkyoS2r2Au36oOb1g"
+    },
+    {
+      "album": {
         "name": "nie wieder normal",
         "url": "https://open.spotify.com/album/6VUg6frxqTVbVlIn4oFoav"
       },
@@ -21608,7 +21680,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 186669,
       "name": "Pins beim Kegeln",
       "url": "https://open.spotify.com/track/55ju0N7t70MjFKofQn2Q6S"
@@ -21792,6 +21864,28 @@
       "duration_ms": 171851,
       "name": "Pollen",
       "url": "https://open.spotify.com/track/5EEfkrpnjHd6LRaWfyO0Km"
+    },
+    {
+      "album": {
+        "name": "poltergeist (feat. Emma Josephine)",
+        "url": "https://open.spotify.com/album/6eQFiz8uffTixXA2rH1u4H"
+      },
+      "artists": [
+        {
+          "name": "georgustav",
+          "url": "https://open.spotify.com/artist/5axauV52djUUY4BJcnxdZo"
+        },
+        {
+          "name": "Emma Josephine",
+          "url": "https://open.spotify.com/artist/2Erk3x0bvGdyvu1q7bvkWr"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164668,
+      "name": "poltergeist (feat. Emma Josephine)",
+      "url": "https://open.spotify.com/track/2zEsuKoe2JKoi15SMWJLiX"
     },
     {
       "album": {
@@ -22084,6 +22178,24 @@
       "duration_ms": 195680,
       "name": "Rave On",
       "url": "https://open.spotify.com/track/2U3q3hrMWOTRDqPTTqrfHw"
+    },
+    {
+      "album": {
+        "name": "Rasselbande / Realit\u00e4t",
+        "url": "https://open.spotify.com/album/7tYHSLeM3vpNauTnShIIvS"
+      },
+      "artists": [
+        {
+          "name": "Marlo Grosshardt",
+          "url": "https://open.spotify.com/artist/0oUy6JfoeDteAPMDi1lNJo"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133461,
+      "name": "Realit\u00e4t",
+      "url": "https://open.spotify.com/track/3543N9SkkEF5irRKM0h87l"
     },
     {
       "album": {
@@ -22800,7 +22912,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 184363,
       "name": "rotkreiden mund",
       "url": "https://open.spotify.com/track/0vq9dCG9OdbWlNvzBGtBvT"
@@ -23006,6 +23118,28 @@
       "duration_ms": 207466,
       "name": "sad girl summer",
       "url": "https://open.spotify.com/track/7pVdFkXNZRr4F12K0hiUPy"
+    },
+    {
+      "album": {
+        "name": "Sag mir was du willst",
+        "url": "https://open.spotify.com/album/580gUTcJs6tlqI9JDR4FsB"
+      },
+      "artists": [
+        {
+          "name": "Lena&Linus",
+          "url": "https://open.spotify.com/artist/3DX6TJtDUfOov1NKF18IXh"
+        },
+        {
+          "name": "Akryl",
+          "url": "https://open.spotify.com/artist/37LWnyoq7uaCMLsnbbducU"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200584,
+      "name": "Sag mir was du willst",
+      "url": "https://open.spotify.com/track/6LAsd98IOgiEFIt1oqgdur"
     },
     {
       "album": {
@@ -23983,6 +24117,28 @@
     },
     {
       "album": {
+        "name": "Seitenstiche",
+        "url": "https://open.spotify.com/album/5jxhESWK5Oi8b27ohVBMIW"
+      },
+      "artists": [
+        {
+          "name": "Pavelo & Schnell",
+          "url": "https://open.spotify.com/artist/5oVoWoqOwASa3ln6kTdnD4"
+        },
+        {
+          "name": "MC WINDHUND",
+          "url": "https://open.spotify.com/artist/57MYoG73ZnyZPIpZbTXFUb"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Seitenstiche",
+      "url": "https://open.spotify.com/track/1ZnnUnOIF2Lqo6gstzfBWj"
+    },
+    {
+      "album": {
         "name": "Sekundenschlaf",
         "url": "https://open.spotify.com/album/58wvPo48VlBS9ySAYlUhGs"
       },
@@ -24406,7 +24562,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 247789,
       "name": "Sieben",
       "url": "https://open.spotify.com/track/119d15hLCKcPHGoWodfokj"
@@ -27035,6 +27191,24 @@
     },
     {
       "album": {
+        "name": "Und die V\u00f6gel singen f\u00fcr mich",
+        "url": "https://open.spotify.com/album/7litAY1tukgg6qKUEZBPDM"
+      },
+      "artists": [
+        {
+          "name": "JOPPE",
+          "url": "https://open.spotify.com/artist/32SGyqDBvd9HrVhL3ulIvE"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 3",
+      "url": "https://open.spotify.com/track/4yo4fDAQnu4g39mh1Ro4W4"
+    },
+    {
+      "album": {
         "name": "trauen",
         "url": "https://open.spotify.com/album/1chQKL06AdfzCwZBCX68Po"
       },
@@ -27144,6 +27318,28 @@
       "duration_ms": 181514,
       "name": "Treibsand",
       "url": "https://open.spotify.com/track/4oGN7eKYdpd7rBorZLyljM"
+    },
+    {
+      "album": {
+        "name": "Trends (feat. Maikel)",
+        "url": "https://open.spotify.com/album/4H9UjBbJQVGAV6kYa6wPrg"
+      },
+      "artists": [
+        {
+          "name": "mo\u00e9",
+          "url": "https://open.spotify.com/artist/2Odi4EJdB2wFUTMWNCxJ7T"
+        },
+        {
+          "name": "Maikel",
+          "url": "https://open.spotify.com/artist/2T1zM7AtA0Cd9u1m3PBFEY"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215652,
+      "name": "Trends (feat. Maikel)",
+      "url": "https://open.spotify.com/track/02DYvomBFL8SzeR5hMwC8b"
     },
     {
       "album": {
@@ -28302,7 +28498,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 140182,
       "name": "VERR\u00dcCKT",
       "url": "https://open.spotify.com/track/13kk2zXspuafWXdH9v8it9"
@@ -30624,7 +30820,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 177396,
       "name": "Wiener Tauben",
       "url": "https://open.spotify.com/track/24zXIkVezsfxchAQwkT7Dn"

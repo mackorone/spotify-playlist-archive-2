@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 564 likes - 2,495 songs - 6 day 1 hr 48 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 564 likes - 2,497 songs - 6 day 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2503,5 +2503,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2493 | [Back Off](https://open.spotify.com/track/2bQgelNCpFZjqEqXrQQsXr) | [Obsidian Rose](https://open.spotify.com/artist/7iVNdqLpRus9I1Z5zGCbmx) | [Jazzette](https://open.spotify.com/album/1Es6dYDX9qHLZGeqxdxMav) | 3:34 |
 | 2494 | [Lmk](https://open.spotify.com/track/1fI1fxzmGHs7PnSF0iDHhH) | [Juan Tamales](https://open.spotify.com/artist/2nuUPviqbuKmJlYVxvq0PT) | [Lmk](https://open.spotify.com/album/3eHGoySyjka90SmBKOWiIL) | 3:00 |
 | 2495 | [Out There Alone](https://open.spotify.com/track/3fsvOPJlvhPoUo0IqFmk4S) | [Draig](https://open.spotify.com/artist/3bPNs4WxtWGGaWGY9HSFLR) | [Barefoot](https://open.spotify.com/album/2z2LWb5kJqtUASMgmnAbAv) | 2:36 |
+| 2496 | [23 de Maio](https://open.spotify.com/track/18Lw7AUnhUT646LdPFMvni) | [Allan Fontes](https://open.spotify.com/artist/1SoCnTztxzCxvqVuPwEamz), [Jess.](https://open.spotify.com/artist/00PMCgBFFMXLtUO1prdXTI) | [23 de Maio](https://open.spotify.com/album/4bTJKqCamfHhSnsomTxKEd) | 1:43 |
+| 2497 | [Side2Side](https://open.spotify.com/track/7f7yTx0zDz7WsuwfhvMjqx) | [DOPESICKFLY](https://open.spotify.com/artist/6WfSpX8qP9BxeuUnVa1XrP) | [Side2Side](https://open.spotify.com/album/31myptWNeeiBzRAdy40S09) | 3:38 |
 
-Snapshot ID: `AAAKWMQkHC6HcztkKZ/v9mjpB+Uznpyl`
+Snapshot ID: `AAAKWu7M7JKz3AxuXu90abenxd6Nzwnv`

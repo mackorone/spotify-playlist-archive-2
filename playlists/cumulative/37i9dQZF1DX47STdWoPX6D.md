@@ -4,7 +4,7 @@
 
 > The latest and the greatest of CHH!  Cover: Miles Minnick
 
-1,177 songs - 2 day 5 hr 51 min
+1,178 songs - 2 day 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,6 +259,7 @@
 | [Dirty laundry](https://open.spotify.com/track/5dWPoXqF06jY1QrycchWCd) | [Battz](https://open.spotify.com/artist/1l528yNr0Jpv2dqg4r06kI) | [Dirty laundry](https://open.spotify.com/album/4rOOFnTXV9OA83yPPVLxqs) | 2:30 | 2024-07-12 | 2024-10-05 |
 | [Dirty Secrets](https://open.spotify.com/track/2QyQEqwdXZYyFEHV6rUHaa) | [Larell](https://open.spotify.com/artist/46GtWnG0MVdRyU86tvB2zw), [SNIPES](https://open.spotify.com/artist/6bk1nS30AmJCdVWgq78k0u) | [Dirty Secrets](https://open.spotify.com/album/36h9UEAuTEagWdF18vrbr1) | 2:53 | 2024-08-02 | 2024-10-05 |
 | [Dirty Sinner](https://open.spotify.com/track/6dWPyiiVjJf7M2tbiYAE4t) | [BrvndonP](https://open.spotify.com/artist/0hO40pJ3oZNnq7joT2xQGy) | [Dirty Sinner](https://open.spotify.com/album/3fikfhcCy5gdOBNUIy8sN8) | 2:03 | 2025-12-12 | 2026-02-07 |
+| [Discernment](https://open.spotify.com/track/6eT9XwWXIw47OokW8eZylj) | [Caam1k](https://open.spotify.com/artist/7jmrwYVgLNcjdhwBH6DxPz) | [Eastside Evangelist](https://open.spotify.com/album/2Ix1D25SdRC8ilvq9oLLWp) | 2:18 | 2026-04-03 |  |
 | [DNA](https://open.spotify.com/track/1suyyv8oQ2TxG3jnalWImm) | [Jayy Brown](https://open.spotify.com/artist/2fxgXM6gZJD4XlRl2Dg4hE) | [DNA](https://open.spotify.com/album/7KSlGVc1cdZ6ihlB9c6REE) | 1:54 | 2024-09-13 | 2024-10-26 |
 | [DO BETTER](https://open.spotify.com/track/55iFR3pk8OdJw6rhEHh2B8) | [Kriiispy](https://open.spotify.com/artist/23azpJcwTOg0wKcQerO7dd), [ANMILY](https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT) | [DO BETTER](https://open.spotify.com/album/32wTwo3Lj8UiVZypT22qDI) | 3:07 | 2026-03-20 |  |
 | [DO IT AGAIN](https://open.spotify.com/track/731WQZy3MxJJipde2VkH2q) | [Zauntee](https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch) | [DO IT AGAIN](https://open.spotify.com/album/3PI1YdwODGFwQ8UJjHZ7A2) | 2:24 | 2025-08-15 | 2025-10-25 |

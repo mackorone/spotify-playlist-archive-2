@@ -640,7 +640,7 @@
       ],
       "date_added": "2026-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 263799,
       "name": "A Can\u0131m",
       "url": "https://open.spotify.com/track/50SocgmOJdl1UPjOcFLSCm"
@@ -2668,7 +2668,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 198537,
       "name": "Ayy / Ben Hala R\u00fcyada",
       "url": "https://open.spotify.com/track/1Pa4L24EJtTPkpftbmzeUb"
@@ -6186,7 +6186,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 163200,
       "name": "BYE BYE",
       "url": "https://open.spotify.com/track/63tBXIkHpGP99Powr8UxBv"
@@ -11606,7 +11606,7 @@
       ],
       "date_added": "2025-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-09",
+      "date_removed": null,
       "duration_ms": 168774,
       "name": "G\u00fcld\u00fc\u011f\u00fcn G\u00fcn",
       "url": "https://open.spotify.com/track/4SCe7B8JmbXrrSxphhddPo"
@@ -16778,7 +16778,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 328440,
       "name": "Kur\u015fun Adres Sormaz Ki",
       "url": "https://open.spotify.com/track/7rCJlWtpNCwegGXECRLwnk"
@@ -28980,6 +28980,28 @@
       "duration_ms": 166906,
       "name": "\u00d6pt\u00fcm Nefesinden",
       "url": "https://open.spotify.com/track/2ReOPzZ5eaKbZjLhlMjxDT"
+    },
+    {
+      "album": {
+        "name": "\u00d6zledim (Red Bull Track Takeover)",
+        "url": "https://open.spotify.com/album/6jLjEfOk9awlD9MwFgXo1m"
+      },
+      "artists": [
+        {
+          "name": "Poizi",
+          "url": "https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5"
+        },
+        {
+          "name": "Murat Boz",
+          "url": "https://open.spotify.com/artist/53oeVgECSa18dkHBQ9X6Eh"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "\u00d6zledim - Red Bull Track Takeover",
+      "url": "https://open.spotify.com/track/4WfUN8UCco4f0L3EXubzbi"
     },
     {
       "album": {

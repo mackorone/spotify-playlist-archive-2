@@ -1,6 +1,6 @@
 {
   "description": "Spain minus the S =",
-  "num_followers": 582120,
+  "num_followers": 582208,
   "original_name": "teen angst",
   "owner": {
     "name": "Spotify",
@@ -435,6 +435,22 @@
     {
       "added_at": "2026-04-07 21:11:18",
       "album": {
+        "name": "Le Tigre",
+        "url": "https://open.spotify.com/album/0dSSZGzoukzrFBnG07J45i"
+      },
+      "artists": [
+        {
+          "name": "Le Tigre",
+          "url": "https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM"
+        }
+      ],
+      "duration_ms": 184626,
+      "name": "Deceptacon",
+      "url": "https://open.spotify.com/track/5773KSWFzg9kCc8yazjbSt"
+    },
+    {
+      "added_at": "2026-04-07 21:11:18",
+      "album": {
         "name": "Collide With The Sky",
         "url": "https://open.spotify.com/album/661Hz0qJK8WIp7vAWsqKvk"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 236293,
       "name": "King For A Day",
       "url": "https://open.spotify.com/track/1IT0WQk5J8NsaeII8ktdlZ"
-    },
-    {
-      "added_at": "2026-04-07 21:11:18",
-      "album": {
-        "name": "Le Tigre",
-        "url": "https://open.spotify.com/album/0dSSZGzoukzrFBnG07J45i"
-      },
-      "artists": [
-        {
-          "name": "Le Tigre",
-          "url": "https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM"
-        }
-      ],
-      "duration_ms": 184626,
-      "name": "Deceptacon",
-      "url": "https://open.spotify.com/track/5773KSWFzg9kCc8yazjbSt"
     },
     {
       "added_at": "2026-04-07 21:11:18",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2026-04-07 21:11:18",
       "album": {
+        "name": "Bounce Energy Hear Me Out",
+        "url": "https://open.spotify.com/album/6KMS3Z8DZJI94pqwGTwCT6"
+      },
+      "artists": [
+        {
+          "name": "Lady Radiator",
+          "url": "https://open.spotify.com/artist/5U2FH1VnxiZYbLcUVWGrov"
+        }
+      ],
+      "duration_ms": 314526,
+      "name": "Box Turtle, Magnificent Isn't She",
+      "url": "https://open.spotify.com/track/4Dev97TQztwKYRMfR7HZCM"
+    },
+    {
+      "added_at": "2026-04-07 21:11:18",
+      "album": {
         "name": "The Runaways",
         "url": "https://open.spotify.com/album/5DVNCzpvDrSEIFiU7hm8ey"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 208693,
       "name": "The Taste of Ink",
       "url": "https://open.spotify.com/track/5jZ1Z2GFTf2gwmFc3qiUxs"
-    },
-    {
-      "added_at": "2026-04-07 21:11:18",
-      "album": {
-        "name": "Bounce Energy Hear Me Out",
-        "url": "https://open.spotify.com/album/6KMS3Z8DZJI94pqwGTwCT6"
-      },
-      "artists": [
-        {
-          "name": "Lady Radiator",
-          "url": "https://open.spotify.com/artist/5U2FH1VnxiZYbLcUVWGrov"
-        }
-      ],
-      "duration_ms": 314526,
-      "name": "Box Turtle, Magnificent Isn't She",
-      "url": "https://open.spotify.com/track/4Dev97TQztwKYRMfR7HZCM"
     },
     {
       "added_at": "2026-04-07 21:11:18",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2026-04-07 21:11:18",
       "album": {
-        "name": "in your head",
-        "url": "https://open.spotify.com/album/6FeKgvDfFFEqEbEksoTdIm"
-      },
-      "artists": [
-        {
-          "name": "cloudyfield",
-          "url": "https://open.spotify.com/artist/1QXwIgp7aA3JT7WIyaAcur"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "in your head",
-      "url": "https://open.spotify.com/track/4o6xvp0vmdHMeS4Z5qeRQw"
-    },
-    {
-      "added_at": "2026-04-07 21:11:18",
-      "album": {
         "name": "zombie",
         "url": "https://open.spotify.com/album/4nsvLdAnnhP2lEc5JCsDQS"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 131433,
       "name": "zombie",
       "url": "https://open.spotify.com/track/5h8mMDgymYYbKfdqhrdwZY"
+    },
+    {
+      "added_at": "2026-04-07 21:11:18",
+      "album": {
+        "name": "in your head",
+        "url": "https://open.spotify.com/album/6FeKgvDfFFEqEbEksoTdIm"
+      },
+      "artists": [
+        {
+          "name": "cloudyfield",
+          "url": "https://open.spotify.com/artist/1QXwIgp7aA3JT7WIyaAcur"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "in your head",
+      "url": "https://open.spotify.com/track/4o6xvp0vmdHMeS4Z5qeRQw"
     },
     {
       "added_at": "2026-04-07 21:11:18",
@@ -2303,22 +2303,6 @@
     {
       "added_at": "2026-04-07 21:11:18",
       "album": {
-        "name": "if i could make it go quiet",
-        "url": "https://open.spotify.com/album/10nQ1u8Y1zlOb61zwZavDk"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 195951,
-      "name": "You Stupid Bitch",
-      "url": "https://open.spotify.com/track/4nlT0Ch4qpqoS8O1RsdzjH"
-    },
-    {
-      "added_at": "2026-04-07 21:11:18",
-      "album": {
         "name": "We The Kings",
         "url": "https://open.spotify.com/album/16OqvjtacYdg6vo26fc13Y"
       },
@@ -2331,6 +2315,22 @@
       "duration_ms": 218626,
       "name": "Check Yes, Juliet",
       "url": "https://open.spotify.com/track/5Vac8co5QPblcdlWbHSFsE"
+    },
+    {
+      "added_at": "2026-04-07 21:11:18",
+      "album": {
+        "name": "if i could make it go quiet",
+        "url": "https://open.spotify.com/album/10nQ1u8Y1zlOb61zwZavDk"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 195951,
+      "name": "You Stupid Bitch",
+      "url": "https://open.spotify.com/track/4nlT0Ch4qpqoS8O1RsdzjH"
     },
     {
       "added_at": "2026-04-07 21:11:18",
@@ -2351,6 +2351,22 @@
       "duration_ms": 210493,
       "name": "Docket (feat. Bully)",
       "url": "https://open.spotify.com/track/3NfastUCFxLepBhv7UGSqR"
+    },
+    {
+      "added_at": "2026-04-07 21:11:18",
+      "album": {
+        "name": "Talon Of The Hawk",
+        "url": "https://open.spotify.com/album/2A40vT8FlwsMAkX7Tzfnr4"
+      },
+      "artists": [
+        {
+          "name": "The Front Bottoms",
+          "url": "https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS"
+        }
+      ],
+      "duration_ms": 264676,
+      "name": "Twin Size Mattress",
+      "url": "https://open.spotify.com/track/0Kd1R41kTx9Uzk30yv5PP7"
     },
     {
       "added_at": "2026-04-07 21:11:18",
@@ -2403,22 +2419,6 @@
     {
       "added_at": "2026-04-07 21:11:18",
       "album": {
-        "name": "Talon Of The Hawk",
-        "url": "https://open.spotify.com/album/2A40vT8FlwsMAkX7Tzfnr4"
-      },
-      "artists": [
-        {
-          "name": "The Front Bottoms",
-          "url": "https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS"
-        }
-      ],
-      "duration_ms": 264676,
-      "name": "Twin Size Mattress",
-      "url": "https://open.spotify.com/track/0Kd1R41kTx9Uzk30yv5PP7"
-    },
-    {
-      "added_at": "2026-04-07 21:11:18",
-      "album": {
         "name": "Good Girls (Don\u2019t Get Used)",
         "url": "https://open.spotify.com/album/0fhPAKZGUPYLnK5gyoZB2G"
       },
@@ -2435,22 +2435,6 @@
     {
       "added_at": "2026-04-07 21:11:18",
       "album": {
-        "name": "Public Void",
-        "url": "https://open.spotify.com/album/0G2RxSCixG5Nl6jpjwiw2g"
-      },
-      "artists": [
-        {
-          "name": "Penelope Scott",
-          "url": "https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB"
-        }
-      ],
-      "duration_ms": 183992,
-      "name": "Cigarette Ahegao",
-      "url": "https://open.spotify.com/track/6UYJYgY8VRo6mKrhgTe1CF"
-    },
-    {
-      "added_at": "2026-04-07 21:11:18",
-      "album": {
         "name": "Hell",
         "url": "https://open.spotify.com/album/5f11kxQydj1NJONC9URJsU"
       },
@@ -2463,6 +2447,22 @@
       "duration_ms": 126347,
       "name": "Hell",
       "url": "https://open.spotify.com/track/1DNrgnLWqHEC7CfTSRuvvW"
+    },
+    {
+      "added_at": "2026-04-07 21:11:18",
+      "album": {
+        "name": "Public Void",
+        "url": "https://open.spotify.com/album/0G2RxSCixG5Nl6jpjwiw2g"
+      },
+      "artists": [
+        {
+          "name": "Penelope Scott",
+          "url": "https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB"
+        }
+      ],
+      "duration_ms": 183992,
+      "name": "Cigarette Ahegao",
+      "url": "https://open.spotify.com/track/6UYJYgY8VRo6mKrhgTe1CF"
     }
   ],
   "unique_name": "teen angst",

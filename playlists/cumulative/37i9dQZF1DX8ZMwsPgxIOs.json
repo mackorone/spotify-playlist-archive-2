@@ -5937,6 +5937,36 @@
     },
     {
       "album": {
+        "name": "Lazer Beams",
+        "url": "https://open.spotify.com/album/6PXM9larK63hojdZN16juy"
+      },
+      "artists": [
+        {
+          "name": "Green Velvet",
+          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+        },
+        {
+          "name": "Harvard Bass",
+          "url": "https://open.spotify.com/artist/0PpMaWbHMqUcVYcsF2O9CM"
+        },
+        {
+          "name": "Adam Beyer",
+          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+        },
+        {
+          "name": "Massano",
+          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234685,
+      "name": "Lazer Beams",
+      "url": "https://open.spotify.com/track/3MGn2DU2SY4Yo1dQdyHX1N"
+    },
+    {
+      "album": {
         "name": "Leader Of The Pack",
         "url": "https://open.spotify.com/album/7uUewrCrnDQ9NE77MGp62p"
       },

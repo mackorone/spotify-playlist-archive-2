@@ -306,7 +306,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 212805,
       "name": "Apparently",
       "url": "https://open.spotify.com/track/386DhHFXyxwwWG0AUZoiGS"
@@ -514,7 +514,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-25",
+      "date_removed": null,
       "duration_ms": 220540,
       "name": "Bout That Murder",
       "url": "https://open.spotify.com/track/08agc2GzBbKMVW0TXM7IhH"
@@ -584,6 +584,24 @@
       "duration_ms": 217773,
       "name": "Can U But That?",
       "url": "https://open.spotify.com/track/798nkL7ySAWVByZMEjJtPY"
+    },
+    {
+      "album": {
+        "name": "Noble Justice: The Lost Songs",
+        "url": "https://open.spotify.com/album/6bjW7AymdOPfmO3Ve1CGXz"
+      },
+      "artists": [
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188840,
+      "name": "Can't Sell Dope Forever",
+      "url": "https://open.spotify.com/track/0Z8KjnSNYxnwXF3f7ZDymu"
     },
     {
       "album": {
@@ -1060,7 +1078,7 @@
       ],
       "date_added": "2025-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-06",
+      "date_removed": null,
       "duration_ms": 184685,
       "name": "Faith (feat. Aktual)",
       "url": "https://open.spotify.com/track/5qUVwTGo5gAgLFElaVqxWU"
@@ -1954,7 +1972,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-19",
+      "date_removed": null,
       "duration_ms": 301239,
       "name": "IMMORTALIZED",
       "url": "https://open.spotify.com/track/5IKnQVhGUxRnviKa8pk37T"
@@ -2006,7 +2024,7 @@
       ],
       "date_added": "2025-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 210831,
       "name": "IRemember",
       "url": "https://open.spotify.com/track/6aux4EaPFpdpH5f7IpmkK8"
@@ -2944,7 +2962,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 257295,
       "name": "Pain into Champagne, Pt. 2 (feat. Deuce Deuce)",
       "url": "https://open.spotify.com/track/1lT6eH2D13Gyqfi5uXFGzY"
@@ -2996,7 +3014,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 216158,
       "name": "Picture Us Rollin' (feat. Blayne & Young Noble)",
       "url": "https://open.spotify.com/track/5hyPuKYcTkThoNZkQh6shm"
@@ -3158,7 +3176,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 64128,
       "name": "Rap God",
       "url": "https://open.spotify.com/track/6bDCSfBOCbHgJq3Tv7RQjW"
@@ -3754,7 +3772,7 @@
       ],
       "date_added": "2025-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-06",
+      "date_removed": null,
       "duration_ms": 222533,
       "name": "The End",
       "url": "https://open.spotify.com/track/28d2ijVgLxk7iieu2T8xLR"

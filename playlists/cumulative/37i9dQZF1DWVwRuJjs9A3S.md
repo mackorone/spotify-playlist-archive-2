@@ -2,9 +2,9 @@
 
 ### [Indie Highlights](https://open.spotify.com/playlist/37i9dQZF1DWVwRuJjs9A3S)
 
-> Det senaste och bästa från världen av indie\. Cover: Jungle
+> Det senaste och bästa från världen av indie\. Cover: Iceage
 
-1,194 songs - 2 day 20 hr 44 min
+1,200 songs - 2 day 21 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [:\)](https://open.spotify.com/track/36YY9Yeq3XastTeC1e0VmN) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [:\)](https://open.spotify.com/album/6UHK8Ur2u73SSq62gwsmFo) | 3:00 | 2024-06-27 | 2024-08-16 |
 | [A Lovestory](https://open.spotify.com/track/468eI0Pa2pHWH99czCghAU) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm), [Fay Wildhagen](https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [A Lovestory](https://open.spotify.com/album/42ADiGXcG2hT5peZ2R5AMT) | 3:04 | 2025-01-09 | 2025-02-28 |
 | [A Perfect Storm](https://open.spotify.com/track/2VooUVWfcwhJA780U5yNa2) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [A Perfect Storm](https://open.spotify.com/album/2zcG8CLrB1510937KfbsVK) | 3:04 | 2026-02-26 |  |
+| [A Stitch For Grand Affairs](https://open.spotify.com/track/4XHZDe9D4wgtCxzNtJYFCG) | [The Court](https://open.spotify.com/artist/4YeLPeJgbLboih3WGXZeWJ) | [A Stitch For Grand Affairs](https://open.spotify.com/album/6qrW5ybZ8vKvJdHaA1UpEx) | 3:01 | 2026-04-09 |  |
 | [A Tear in Space \(Airlock\)](https://open.spotify.com/track/6Bi1Y7TD70eWTCKn7jsQQm) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [A Tear in Space \(Airlock\)](https://open.spotify.com/album/6X2fbRz8huOXlxzId6ET7J) | 3:23 | 2024-06-27 | 2024-08-02 |
 | [A thousand lies \- Fine EDIT](https://open.spotify.com/track/4xC4LCqxvstJbM68VQl7GS) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI), [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Big city life EDITS](https://open.spotify.com/album/3ggimNXIMUP70F50ZGgPMy) | 3:37 | 2025-11-06 |  |
 | [About the Heart](https://open.spotify.com/track/79o1dbP1lkUBeyI7Qwm9oq) | [2AM\-DM](https://open.spotify.com/artist/3ypNj7o6K9O02LfRlfxUcN) | [About the Heart](https://open.spotify.com/album/0T3rfBkkPj2qWqz62sByLW) | 4:08 | 2025-05-15 | 2025-10-10 |
@@ -202,6 +203,7 @@
 | [Clean Up Your Act, Sunshine!](https://open.spotify.com/track/5wHmohZkeApAOPIj280lHa) | [Fred Soila](https://open.spotify.com/artist/7ngrF0C7lWTaTI8Ei0ja8E) | [Clean Up Your Act, Sunshine!](https://open.spotify.com/album/77tjV3cTZ526yctYPkZUXJ) | 3:30 | 2025-12-04 |  |
 | [Clementine](https://open.spotify.com/track/5wPI9EcZ30sT0b68kdAXBP) | [Yannis & The Yaw](https://open.spotify.com/artist/398DRY2p9x2q0XOU3gkkYH), [Yannis](https://open.spotify.com/artist/6CFQDzNLNcuK5lVZ766Yxt) | [Lagos Paris London](https://open.spotify.com/album/489nt0VZ9DLPB4r9movvdL) | 4:00 | 2024-08-29 | 2025-01-17 |
 | [Close \- The Dare Remix](https://open.spotify.com/track/272WAMT7l0kMJLqlcNBPlA) | [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS), [FAUZIA](https://open.spotify.com/artist/5a8f6ZZzBZ3lFtv9wQClHl), [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [Close \(The Dare Remix\)](https://open.spotify.com/album/7qG3vzHHOy07lVTG4VJjgc) | 4:30 | 2025-02-27 | 2025-04-25 |
+| [Close My Eyes](https://open.spotify.com/track/6NOUlMbo6c3XXFC5kmuHIw) | [Les Imprimés](https://open.spotify.com/artist/6pCq758EGVhfbiUIeuHTcf) | [Fading Forward](https://open.spotify.com/album/6nTysmAKuGBgaaHj8hfMy7) | 3:06 | 2026-04-09 |  |
 | [Close to Dying](https://open.spotify.com/track/4IpTVJKJU7Em4INGFY07EG) | [MAIH](https://open.spotify.com/artist/5LqSpFsPhYIT2TjfE0y4zI) | [Close to Dying](https://open.spotify.com/album/5YVuajI1Qk3oSfE3hfFTRM) | 3:00 | 2024-08-22 | 2024-11-01 |
 | [Closer To You](https://open.spotify.com/track/3KKJs4wcsgwapvvtG9VKjV) | [Club 8](https://open.spotify.com/artist/0bDw4crr1aysTpUTjI3Wqx) | [Closer To You](https://open.spotify.com/album/5en29xsFo9ZGuUlz5cc94V) | 2:33 | 2024-06-27 | 2024-07-27 |
 | [Closing Scene](https://open.spotify.com/track/3hyy3rcfPvri9oyMHbpK8X) | [2AM\-DM](https://open.spotify.com/artist/3ypNj7o6K9O02LfRlfxUcN) | [Closing Scene](https://open.spotify.com/album/2EFtuaQTln5xxuKBduf692) | 3:23 | 2026-01-08 |  |
@@ -293,6 +295,7 @@
 | [Electric Green Lambo](https://open.spotify.com/track/5cosFdrn8PBmz6eJpD00iq) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Electric Green Lambo](https://open.spotify.com/album/4nRdzHLndZ5zRaJvYDn1IM) | 2:35 | 2025-02-06 | 2025-03-28 |
 | [Elin](https://open.spotify.com/track/0zhXmPOonnfX7P1gNosPiM) | [Agnes Skure](https://open.spotify.com/artist/3mSaNio38zjJkLyozP2hc0), [demekech](https://open.spotify.com/artist/1N6JyEBD4tbmqfLkXPP93l) | [Gazette](https://open.spotify.com/album/2xFrT3KiZm9iW14EY3Gs7n) | 3:52 | 2025-11-03 |  |
 | [ellipsis](https://open.spotify.com/track/7nHtlqsooMoimCnxQx36bV) | [Pem](https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs) | [ellipsis](https://open.spotify.com/album/3n60c52OZfy9rrlPgEVruQ) | 4:03 | 2024-11-07 | 2025-01-24 |
+| [Ember](https://open.spotify.com/track/7jdLVBEhoDxGKdhfBEulzY) | [Iceage](https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU) | [Ember](https://open.spotify.com/album/7v39mio0wBEBfW44yf39bE) | 3:25 | 2026-04-09 |  |
 | [Emilie's Song \- From the TV series "Tordyveln flyger i skymningen"](https://open.spotify.com/track/1OAbp83E27ZE0eLiw9KxaF) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Emilie's Song \(From the TV series "Tordyveln flyger i skymningen"\)](https://open.spotify.com/album/5UXEPUUmaP2yXhPYAI5pMd) | 4:24 | 2025-07-17 | 2026-01-16 |
 | [Empty the Bags](https://open.spotify.com/track/4gVIuiS7OxA8DjabaINZR0) | [Noak Hellsing](https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc) | [Empty the Bags](https://open.spotify.com/album/6MP8gKSOp9vKmAHkic3lse) | 2:33 | 2024-06-27 | 2024-07-27 |
 | [EN DÖENDE PLANET](https://open.spotify.com/track/4iIMcHdfjBRxRpwNqlhQoP) | [Hurula](https://open.spotify.com/artist/5haVwjDd8z1dsR0uQewwoP) | [EN DÖENDE PLANET](https://open.spotify.com/album/2uON2qr3GabunZjUG0f4V8) | 4:03 | 2025-04-10 | 2025-07-25 |
@@ -472,6 +475,7 @@
 | [I Broke Me First](https://open.spotify.com/track/42CK38Zpo02MzVzaHtwx2W) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [I Broke Me First](https://open.spotify.com/album/5vs2EkfmBTmGYXlfJlUWxi) | 2:46 | 2024-12-19 | 2025-02-21 |
 | [I Come With Mud](https://open.spotify.com/track/6U13ePayjjfmxzXHGGYbv5) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Equus Asinus](https://open.spotify.com/album/3DMcONcVrHi6yNLwL576GU) | 4:51 | 2025-03-20 | 2025-06-20 |
 | [I could](https://open.spotify.com/track/5EmtveGyjsE023P8atahBQ) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [I could](https://open.spotify.com/album/1vea1LG3TmBnFdUP4H0K0B) | 2:36 | 2025-04-24 | 2025-07-25 |
+| [I don't know](https://open.spotify.com/track/6XWdaebxDMgRG7j1xcOOYK) | [Bye Parula](https://open.spotify.com/artist/3CokWxStGaVakZGwOmIZjm) | [I don't know](https://open.spotify.com/album/3Ybf5umAW3SsLNg96iHEqu) | 3:01 | 2026-04-09 |  |
 | [I ett annat liv](https://open.spotify.com/track/2QpUiWyI9wKOzMMA6d384M) | [Genom Natten](https://open.spotify.com/artist/5UkGksYXrb5tn3IEjgVFb9) | [I ett annat liv](https://open.spotify.com/album/11thYhWXkLlkNusbNV6l3D) | 3:17 | 2025-02-13 | 2025-03-28 |
 | [I got god](https://open.spotify.com/track/19LhmxhZyk5LrMWCMMMF0I) | [Victoryland](https://open.spotify.com/artist/63tTs259cHmrkQ7lGTmDdp) | [My Heart Is A Room With No Cameras In It](https://open.spotify.com/album/2DX3rjhortqMx72jCdakYu) | 3:55 | 2026-02-12 |  |
 | [I have nothing to prove to you](https://open.spotify.com/track/6VoCHZD0fvZxtihaLb03Ox) | [AKA lisa](https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1) | [I have nothing to prove to you](https://open.spotify.com/album/60Wm1lDBNomVGK9rPgd8w2) | 3:18 | 2025-06-05 | 2025-10-10 |
@@ -924,6 +928,7 @@
 | [Sirens](https://open.spotify.com/track/4RVTo12dttpAIiLoDdzI98) | [Tobias Arbo](https://open.spotify.com/artist/11BozuxBoGgG4NtpvwJP15) | [Sirens](https://open.spotify.com/album/4yMUTHPFHOGpFYJOe7RGMN) | 2:57 | 2024-08-15 | 2024-09-13 |
 | [Sjuk i Huvudet](https://open.spotify.com/track/74mqrObPeUlI7eOO1ZM9UE) | [Avantgardet](https://open.spotify.com/artist/7eX1F6FIRszrebMLdM1BpQ) | [Sjuk i Huvudet – Paul Gascoigne](https://open.spotify.com/album/1cBXxeObgl62kfqZOH8oDq) | 4:30 | 2024-08-22 | 2024-09-27 |
 | [Skuggan av dig](https://open.spotify.com/track/3Y9EIk9H1lw5BAWJudyeMW) | [Mon Rayon](https://open.spotify.com/artist/72T708Fc8U7CNXT1ScaWmv) | [Skuggan av dig](https://open.spotify.com/album/7oQqoIOnMuZWbOdluLPkqy) | 4:12 | 2025-08-21 | 2026-01-16 |
+| [Slow My Heart Down](https://open.spotify.com/track/4zIF65DH7Li8XX5Acm0Jtp) | [School of X](https://open.spotify.com/artist/4VL17UwE7ktJcG04WdbR9B) | [Slow My Heart Down / Not Enough Time](https://open.spotify.com/album/2pSVANTGiOtriSKlqFpFSq) | 2:51 | 2026-04-09 |  |
 | [Slow Tonight](https://open.spotify.com/track/2H3L0xj5L4OlYFlRjhJQN5) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Slow Tonight](https://open.spotify.com/album/0dShMq1RPDfB7BSS7O3xRc) | 3:12 | 2026-02-26 |  |
 | [Sneaky Feelings](https://open.spotify.com/track/6pOKXNlr5UY2yuqrP3qyLh) | [Club 8](https://open.spotify.com/artist/0bDw4crr1aysTpUTjI3Wqx) | [Sneaky Feelings](https://open.spotify.com/album/7ateLorI7erQk1MK2JxeNV) | 1:49 | 2025-08-07 | 2026-01-16 |
 | [SNL](https://open.spotify.com/track/59MS7S6xPD9I56698kC35A) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [SNL](https://open.spotify.com/album/35FgBcjRap9I9nVs6UrleW) | 3:06 | 2024-07-25 | 2024-10-11 |
@@ -1103,6 +1108,7 @@
 | [Vast](https://open.spotify.com/track/058fmS1zZ70ZxLpJFxL5Hn) | [Funny Weather](https://open.spotify.com/artist/43VCHVPxVOUh4TkN7Qcj55), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Vast](https://open.spotify.com/album/7fuNzDO6LiZqrkkyNGSNHs) | 3:23 | 2025-06-26 | 2026-01-16 |
 | [Vem?](https://open.spotify.com/track/5W90tHshx7hSbmHNIgsHYi) | [Jonathan Johansson](https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe) | [Vem?](https://open.spotify.com/album/1LMGKjmmL4rPAlGyy3tiy8) | 3:45 | 2024-06-27 | 2024-08-09 |
 | [Venom's In \- demo](https://open.spotify.com/track/7oyMAViYxBswvEXboOcT6W) | [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ), [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Venom's In](https://open.spotify.com/album/0Amj5rXpkhxhZMthiiMp0W) | 4:55 | 2025-12-18 |  |
+| [Venus in the Zinnia](https://open.spotify.com/track/6X5ARfLepGTGntuFbc2Hpo) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG), [H\. Hawkline](https://open.spotify.com/artist/7FmM0XgimRvS48CfObh2ht) | [Venus in the Zinnia](https://open.spotify.com/album/1g8xMfOWEPfIuxHory8Pg9) | 3:17 | 2026-04-09 |  |
 | [Vicious Delicious](https://open.spotify.com/track/2Y5QngbL3MJscJPzVhzhGO) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Vicious Delicious](https://open.spotify.com/album/50NGzaveexxkXBFt2uUSyV) | 3:18 | 2025-07-11 | 2026-01-16 |
 | [Video Games \- Spotify Singles](https://open.spotify.com/track/1C0KYMgW2BPDlKWW79cC9M) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Video Games \(Spotify Singles\)](https://open.spotify.com/album/2JFyOtT1eoCeqzda9CU2iL) | 3:09 | 2024-09-18 | 2024-11-15 |
 | [Vidrig Soluppgång](https://open.spotify.com/track/77ZNUojWyYfSuGQsMZqV3v) | [Nils Albin](https://open.spotify.com/artist/3QWQCUqaIgPRHCzdcV1mVi) | [Vidrig Soluppgång](https://open.spotify.com/album/1Cr2HTMxunNo9IDTB55O82) | 2:18 | 2026-03-19 |  |

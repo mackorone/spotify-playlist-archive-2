@@ -1,13 +1,109 @@
 {
   "description": "Our weekly selection is here \u26a1\ufe0f",
-  "num_followers": 2729,
+  "num_followers": 2731,
   "original_name": "AGLF Playlist",
   "owner": {
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "AAASFHF98vh6e2ZcVvdR9ss4g9wq45uD",
+  "snapshot_id": "AAASGmbZ8UPYjt1ky3QqX64Zu4EICd/D",
   "tracks": [
+    {
+      "added_at": "2026-04-09 20:08:22",
+      "album": {
+        "name": "VUELA",
+        "url": "https://open.spotify.com/album/0XlP4966pnPs82ViuGH6x6"
+      },
+      "artists": [
+        {
+          "name": "680Tone",
+          "url": "https://open.spotify.com/artist/6dyENcarC8GAyfoI9GFw6l"
+        }
+      ],
+      "duration_ms": 271907,
+      "name": "VUELA - Radio Edit",
+      "url": "https://open.spotify.com/track/10EhuVG6RReTOUTi3V2jhr"
+    },
+    {
+      "added_at": "2026-04-09 19:44:12",
+      "album": {
+        "name": "Shake Your Body",
+        "url": "https://open.spotify.com/album/6xpws3WXod9nb01ZohLwTh"
+      },
+      "artists": [
+        {
+          "name": "RAVLXR",
+          "url": "https://open.spotify.com/artist/4ncG6QRVhJOjAzCcXyTEPC"
+        }
+      ],
+      "duration_ms": 228399,
+      "name": "Shake Your Body",
+      "url": "https://open.spotify.com/track/6z5NySAZBEtFAoMdrpXRoe"
+    },
+    {
+      "added_at": "2026-04-09 18:44:42",
+      "album": {
+        "name": "Body Language",
+        "url": "https://open.spotify.com/album/5Pdbbd6ndlKzb3DbFhUjEI"
+      },
+      "artists": [
+        {
+          "name": "TELN",
+          "url": "https://open.spotify.com/artist/2b35txC54k4KbkVnHJMrMH"
+        }
+      ],
+      "duration_ms": 200879,
+      "name": "Body Language",
+      "url": "https://open.spotify.com/track/5vNEB1rOucDUqvr67GEbWN"
+    },
+    {
+      "added_at": "2026-04-09 17:09:20",
+      "album": {
+        "name": "Ethereal clan",
+        "url": "https://open.spotify.com/album/5vftFi0zIC1xK7w8oH21ad"
+      },
+      "artists": [
+        {
+          "name": "Peritz",
+          "url": "https://open.spotify.com/artist/31NVoBcFNTbpsKAvh5jYDp"
+        }
+      ],
+      "duration_ms": 215624,
+      "name": "Ethereal clan",
+      "url": "https://open.spotify.com/track/2K1Jn0OkmrkhA5z6UgrsUJ"
+    },
+    {
+      "added_at": "2026-04-09 11:26:19",
+      "album": {
+        "name": "Lost Deep In The Crowd",
+        "url": "https://open.spotify.com/album/0AaaD8GNsYICjz0Bgcn8LK"
+      },
+      "artists": [
+        {
+          "name": "TELN",
+          "url": "https://open.spotify.com/artist/2b35txC54k4KbkVnHJMrMH"
+        }
+      ],
+      "duration_ms": 217839,
+      "name": "Lost Deep In The Crowd",
+      "url": "https://open.spotify.com/track/4mA3YC2cla9EdHK2VVUVAF"
+    },
+    {
+      "added_at": "2026-04-09 06:51:59",
+      "album": {
+        "name": "Otra Vez",
+        "url": "https://open.spotify.com/album/3h1PPDUBf9VYleQtPIQUJ6"
+      },
+      "artists": [
+        {
+          "name": "TIA Milano",
+          "url": "https://open.spotify.com/artist/2dJIXmBph69u2N8Ewweil5"
+        }
+      ],
+      "duration_ms": 192173,
+      "name": "Otra Vez",
+      "url": "https://open.spotify.com/track/278uSEKq1TknO17IIeyGEZ"
+    },
     {
       "added_at": "2026-04-08 18:25:31",
       "album": {

@@ -4,7 +4,7 @@
 
 > The best of Swahili gospel music\. Cover: Guardian Angel
 
-324 songs - 1 day 4 hr 2 min
+326 songs - 1 day 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Moyo Wa Shukrani](https://open.spotify.com/track/2PT4W834PIHj9BMEKbzxuE) | [Walter Chilambo](https://open.spotify.com/artist/45uMTYzfFVO9etu44SqcBO) | [Moyo Wa Shukrani](https://open.spotify.com/album/1Ox4vYQcb2PMC23dSmICcX) | 2:59 | 2026-02-20 |  |
 | [Moyo Wangu](https://open.spotify.com/track/2QhujhH9Sq63INScYDMa0Z) | [Patrick Kubuya](https://open.spotify.com/artist/1FeMU8hvqFR7BqtKIQvsu2) | [Coeur à Coeur](https://open.spotify.com/album/49ssUVOK4uqFvzQyVHNFkh) | 5:09 | 2022-06-24 |  |
 | [MOYO WANGU BMM Yombo Vituka](https://open.spotify.com/track/6X7sY5M6IziPbUJyG0G2xl) | [FLSA\_ENTERTAINMENT](https://open.spotify.com/artist/4KxxxfPxkFJ2IbWfVMU1Ye) | [EASTER PASAKA YETU](https://open.spotify.com/album/2sYU0Di9FKjrdTBn1nYQ1S) | 8:18 | 2022-06-24 | 2023-11-03 |
+| [Moyo Wangu Tulia](https://open.spotify.com/track/440P05rOe8Kcfqxctuzgo7) | [Boss MOG](https://open.spotify.com/artist/5bymobnzzgQnuh60dY84Ie), [Lydia Nzale](https://open.spotify.com/artist/7GgpEk927K6DNwAV2S5Cmt), [Irene Ezekiel](https://open.spotify.com/artist/6sMpXHs1ySmIwuASuFPJDX), [Hadia Komz](https://open.spotify.com/artist/4Qt8QpjrguN13aKGyEe8oZ), [Jackie Edith](https://open.spotify.com/artist/6SGl8GR1pfa28pQ7N02dyd) | [Moyo Wangu Tulia \(feat\. Lydia Nzale, Irene Ezekiel, Hadia Komz & Jackie Edith\)](https://open.spotify.com/album/6O0TmwVQb2ak4xmO6D9Hb3) | 3:37 | 2026-04-10 |  |
 | [Moyoni](https://open.spotify.com/track/2qVFAjT0CajtnkuXo2BlWO) | [Zion Njeri](https://open.spotify.com/artist/39Kc4S8IXSqU4dO6UivqL6) | [Moyoni](https://open.spotify.com/album/3qahfDTvESpoSNZs25e4LY) | 2:47 | 2025-10-17 |  |
 | [Mpango](https://open.spotify.com/track/2r9iEJtI80kGkLhKwqFhTJ) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Mpango](https://open.spotify.com/album/0UyldaytlWsu1JfRaS10B2) | 4:50 | 2024-04-19 | 2024-09-06 |
 | [Msaada](https://open.spotify.com/track/3QxGvXzFz43WkhdhwOXDGY) | [Christina Shusho](https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL), [Zabron Singers](https://open.spotify.com/artist/6G8DN0hxjRUmIfOh6GHhpP) | [Msaada](https://open.spotify.com/album/0JfHXADJpWRHgHB1XPg1k1) | 4:04 | 2023-10-20 |  |
@@ -217,6 +218,7 @@
 | [Nyoka Wa Shaba](https://open.spotify.com/track/34U3RphRGFE3jcnxpPkAEc) | [BELLA KOMBO](https://open.spotify.com/artist/4fCg09CBWzbspIIuw8wfVk) | [Nyoka Wa Shaba](https://open.spotify.com/album/0LHypfPhG4D8umpFPEpzXp) | 8:32 | 2025-03-28 | 2025-05-02 |
 | [Olodumare](https://open.spotify.com/track/3SGAz5OZz0GpfGr5HG2zEd) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Olodumare](https://open.spotify.com/album/0iBH92HNjF5SLlzcRrIZXb) | 3:06 | 2024-10-11 |  |
 | [Oluwa](https://open.spotify.com/track/28YZkqInvmqbK711J1xVeZ) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Oluwa](https://open.spotify.com/album/4DJaOvhJfTkmZaMHLaihRz) | 2:55 | 2025-03-07 |  |
+| [On My Side](https://open.spotify.com/track/3nfgmQb4m4oHcgbRqqNhuQ) | [De Stanley Brothers](https://open.spotify.com/artist/5QcpMCOrA4nVxileunNZD3), [Jennifer Ahonen](https://open.spotify.com/artist/2qDngxRoJC05fBkcOhDyq9) | [On My Side](https://open.spotify.com/album/12Deo2LFnqLJi3moK7Cd0g) | 3:12 | 2026-04-10 |  |
 | [On Top](https://open.spotify.com/track/4XaQh78CjGXkFFippDyuDY) | [Walter Chilambo](https://open.spotify.com/artist/45uMTYzfFVO9etu44SqcBO) | [On Top](https://open.spotify.com/album/4FyQPtWKABleYSM8JactGY) | 3:16 | 2025-07-11 | 2025-10-24 |
 | [Organize \(feat\. Moji Shortbabaa\)](https://open.spotify.com/track/2KpAGhLuf7SzVLHDOF4M1S) | [Boss MOG](https://open.spotify.com/artist/5bymobnzzgQnuh60dY84Ie), [Moji Shortbabaa](https://open.spotify.com/artist/75LES04hIh8qYY8Oqdp7rn) | [Organize \(feat\. Moji Shortbabaa\)](https://open.spotify.com/album/0yCHxjgEI4SqCDmye48Kvp) | 3:55 | 2023-07-14 | 2025-03-21 |
 | [Pale Ulipo](https://open.spotify.com/track/0csaw0BDKtHIaxb5HsPbRM) | [Pitson](https://open.spotify.com/artist/4eck3OWpx2oKPgHeSSgsMM), [Karura Voices](https://open.spotify.com/artist/1d5SkVdPJfoutTu1HdhpYT) | [Brand New Me](https://open.spotify.com/album/4PX1iirJp3PCFrrO5b5MZB) | 6:35 | 2025-03-07 |  |

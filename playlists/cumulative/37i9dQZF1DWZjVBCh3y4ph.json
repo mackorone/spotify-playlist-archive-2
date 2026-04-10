@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les hits zouk & kompa du moment. Photo : Laconi",
+  "description": "Les hits zouk & kompa du moment. Photo : Sensey'",
   "name": "Zouk Station",
   "tracks": [
     {
@@ -348,7 +348,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 178186,
       "name": "Attir\u00e9e",
       "url": "https://open.spotify.com/track/28Akbk8oelX946pkI8SOPq"
@@ -2816,7 +2816,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 154923,
       "name": "J'ai la haine",
       "url": "https://open.spotify.com/track/4G5zTBxoysaK8WLz2dvFvq"
@@ -4379,6 +4379,24 @@
     },
     {
       "album": {
+        "name": "My Eyes Only",
+        "url": "https://open.spotify.com/album/5G72IhYSjvvpLEYBjE4P2B"
+      },
+      "artists": [
+        {
+          "name": "Dof'",
+          "url": "https://open.spotify.com/artist/6AnXu050pLMVM8MTNZstJr"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176535,
+      "name": "My Eyes Only",
+      "url": "https://open.spotify.com/track/4tmJ3krRRxmHeqq2Oo7Jhl"
+    },
+    {
+      "album": {
         "name": "My Woman",
         "url": "https://open.spotify.com/album/1MGhG2rqsurrOmbiSWYPhG"
       },
@@ -5496,6 +5514,36 @@
       "duration_ms": 149647,
       "name": "Plus jamais",
       "url": "https://open.spotify.com/track/6YFfWqhOFJLGFoFnVh9cD8"
+    },
+    {
+      "album": {
+        "name": "Plus La",
+        "url": "https://open.spotify.com/album/0TI2AWhLZzaoo4LV9Rsxls"
+      },
+      "artists": [
+        {
+          "name": "DJ SEBB",
+          "url": "https://open.spotify.com/artist/6tWA0KYYzAiQzgKzImRQGF"
+        },
+        {
+          "name": "P.L.L",
+          "url": "https://open.spotify.com/artist/13RiaFe3XEZ4jw8t6YRquf"
+        },
+        {
+          "name": "N'Ken",
+          "url": "https://open.spotify.com/artist/7CiDghduh4uqMn0zSkPx1p"
+        },
+        {
+          "name": "Busy Twist",
+          "url": "https://open.spotify.com/artist/0jPcvO2Jz1kkvANItu53jI"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156521,
+      "name": "Plus La",
+      "url": "https://open.spotify.com/track/4Ryoc3My3qE1KtOZUTCnR9"
     },
     {
       "album": {

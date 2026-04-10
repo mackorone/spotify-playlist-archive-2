@@ -88697,6 +88697,24 @@
     },
     {
       "album": {
+        "name": "NO PUEDES CONTROLARLO TODO",
+        "url": "https://open.spotify.com/album/6mBGka1jN0CrZJgrf91Y5I"
+      },
+      "artists": [
+        {
+          "name": "Alan Troy",
+          "url": "https://open.spotify.com/artist/2AAtJ9SZMYanKsVF87wxGU"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181395,
+      "name": "NO PUEDES CONTROLARLO TODO",
+      "url": "https://open.spotify.com/track/1LH3Zbu4majB99Dnr2ODCP"
+    },
+    {
+      "album": {
         "name": "no puedo decir que no (no regrets)",
         "url": "https://open.spotify.com/album/1DEWooZAic8b4wRHYEjewL"
       },
@@ -95051,24 +95069,20 @@
     },
     {
       "album": {
-        "name": "pa que (feat. Ed Maverick)",
+        "name": "pa que",
         "url": "https://open.spotify.com/album/54zMR9xpK3l6DHhjitr4Qd"
       },
       "artists": [
         {
           "name": "bpuntito",
           "url": "https://open.spotify.com/artist/7hpawMsfyoRG0gF7VAwv9u"
-        },
-        {
-          "name": "Ed Maverick",
-          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
         }
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 196946,
-      "name": "pa que (feat. Ed Maverick)",
+      "name": "pa que",
       "url": "https://open.spotify.com/track/5smAUZtCCJCcHv2qyknRgt"
     },
     {

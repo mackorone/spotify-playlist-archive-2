@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Ouça Maria Bethânia e mais mulheres incríveis no volume máximo! Co\-curado por <a href="spotify:artist:3f5VCwd57gZsqMad28jyLV">Maria Bethânia</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,643 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,665 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [Pra Rua Me Levar](https://open.spotify.com/track/4sSmA8PySqJIIj7nDRGIO5) | [Ana Carolina](https://open.spotify.com/artist/4HP9KltldfmkH2M2pQozzN) | [Mega Hits \- Ana Carolina](https://open.spotify.com/album/1bsLUYVIErSL02Busz7ObM) | 3:49 |
 | 50 | [Malandragem](https://open.spotify.com/track/2MdaCF958yzFrk0HQ4OQIu) | [Cássia Eller](https://open.spotify.com/artist/10naVTwNjE50daQVrN0bXh) | [Cassia Eller](https://open.spotify.com/album/4kGfDjQpuYExvMI12PLFvG) | 4:10 |
 
-Snapshot ID: `AAAAALNZAkdlyYTW/PalYSinCKzyTiTl`
+Snapshot ID: `AAAAALlRGq/tFrNdFEC3idPd3BJttMqo`

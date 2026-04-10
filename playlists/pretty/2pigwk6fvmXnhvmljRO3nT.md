@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,421 songs - 21 day 11 hr 12 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,430 songs - 21 day 11 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -7191,7 +7191,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 7181 | [해줄 수 없는 일](https://open.spotify.com/track/0uWj1pzNFKcBjrmiwSj4dE) | [Park Hyo Shin](https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj) | [해줄 수 없는 일](https://open.spotify.com/album/1zMMuseo6mCUyuRhkYftgN) | 4:21 |
 | 7182 | [Missing you](https://open.spotify.com/track/24UgvaHnAvKOysqdkZ1B8L) | [FLY TO THE SKY](https://open.spotify.com/artist/7rlMZAZYtRkjFg4HHhvYeC) | [Back in Time](https://open.spotify.com/album/7avQrMgx6JDi4gT1KM15zt) | 4:32 |
 | 7183 | [With Coffee…](https://open.spotify.com/track/7svHY5rTJ1Aotj6sDsDgdV) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Brown Eyes](https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA) | 3:35 |
-| 7184 | [비밀의 화원](https://open.spotify.com/track/2Oe0zgUBGRzkP4KtpIlo8c) | [Lee Sang Eun](https://open.spotify.com/artist/0Gqc2XO4Wu0YpYVWSiDwYt) | [신비체험](https://open.spotify.com/album/52etdX6SVjZQNwQqS74Cys) | 4:09 |
+| 7184 | [비밀의 화원](https://open.spotify.com/track/2Oe0zgUBGRzkP4KtpIlo8c) | [Lee Sang\-Eun](https://open.spotify.com/artist/4uaP0mhy7ViCvT00Wduonj) | [신비체험](https://open.spotify.com/album/52etdX6SVjZQNwQqS74Cys) | 4:09 |
 | 7185 | [초등학교 동창회 가던 날](https://open.spotify.com/track/2CdmBpegNWpHX3Wcy3fJcz) | [여행스케치](https://open.spotify.com/artist/1hjjZKt6yK0bGmubr0yOZ6) | [처음타본 타임머신](https://open.spotify.com/album/6aHpFexUPTYIGNL6uTLPSC) | 4:09 |
 | 7186 | [내 사랑 내곁에](https://open.spotify.com/track/3HaI4ogu2cT7zUOGEjkwVF) | [Kim Hyunshik](https://open.spotify.com/artist/5tYHIUOTcoDw6xMUkLEtzv) | [김현식 Vol.6](https://open.spotify.com/album/0D6Nimd69vVUUfksIKBJ08) | 4:27 |
 | 7187 | [그것만이 내 세상](https://open.spotify.com/track/5fUHeKHYntekbkf6FybjLs) | [Deul Guk Hwa](https://open.spotify.com/artist/1sgkTCF42JGJUIaBP68n6H) | [들국화 1집 행진/사랑일 뿐야](https://open.spotify.com/album/1xiw5yg4K5TAaGEt56pR2K) | 5:26 |
@@ -8429,5 +8429,14 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8419 | [朝焼けのスターマイン](https://open.spotify.com/track/5eWfz1ktqjsPY3FJ6CmKQq) | [今井麻美](https://open.spotify.com/artist/6Yy5HRdcdZR1r2A2YnEefb) | [A･S･A Vol.1](https://open.spotify.com/album/3a97tSizPo9OKMuGdzMY1d) | 4:31 |
 | 8420 | [It Has To Be This Way \- Platinum Mix](https://open.spotify.com/track/65yNr1EO2TOBEYCz45tuOf) | [Jimmy Gnecco](https://open.spotify.com/artist/5QcGYbIhQiKu472ypOrhJu) | [METAL GEAR RISING REVENGEANCE Vocal Tracks Selection](https://open.spotify.com/album/3DR0FThvw6I18Ntp3D6kxf) | 2:55 |
 | 8421 | [フライデー・ナイト](https://open.spotify.com/track/4W3rP2KZkKEykdWvlWLgyc) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [劇場](https://open.spotify.com/album/2bazvx0V9FTIKmJ9biVQtc) | 2:56 |
+| 8422 | [Ho Hey](https://open.spotify.com/track/0DwClY2t9YAWHBROMIgrXb) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers](https://open.spotify.com/album/2MTEiVNgRgIvVIrJAqHNBu) | 2:43 |
+| 8423 | [Ophelia](https://open.spotify.com/track/14AyWf6y7KlWWLfAjdKMKI) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra](https://open.spotify.com/album/26HAAGfOhnc0CqqcHoaQGD) | 2:40 |
+| 8424 | [IMA KONOMIGA HATEYOTOMO](https://open.spotify.com/track/65VDuf4cPu9uTBMOu6zLn8) | [衛藤可奈美\(CV:本渡楓\)](https://open.spotify.com/artist/2IMZfsGojB111eiYaPjrAa), [十條姫和\(CV:大西沙織\)](https://open.spotify.com/artist/3FEncRYZmcQdTroJnIf2Iw) | [HIGECORE!](https://open.spotify.com/album/6rcrV8O10BZ8L4nLmiy56g) | 4:57 |
+| 8425 | [Sad Machine](https://open.spotify.com/track/1JY6B9ILvmRla2IKKRZvnH) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Worlds](https://open.spotify.com/album/7AJPV0L05IyIBid97AvwVD) | 5:50 |
+| 8426 | [感情リテラシー](https://open.spotify.com/track/5MseZw249M7toEhrTFfRsr) | [BRADIO](https://open.spotify.com/artist/4bykb0rz2eT2t2kzihCsne) | [Flyers](https://open.spotify.com/album/7AHk3QTREtMsY3pTgrrc78) | 3:53 |
+| 8427 | [WHATS POPPIN \(feat\. DaBaby, Tory Lanez & Lil Wayne\) \- Remix](https://open.spotify.com/track/2MbdDtCv5LUVjYy9RuGTgC) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [WHATS POPPIN \(feat\. DaBaby, Tory Lanez & Lil Wayne\) \[Remix\]](https://open.spotify.com/album/36jrqYRpGVpJqztuqCii22) | 3:47 |
+| 8428 | [Man's Not Hot](https://open.spotify.com/track/6X5OFBbrsHRsyO1zP7udgr) | [Big Shaq](https://open.spotify.com/artist/7mnAzEmgquhrVtGob81SmO) | [Man's Not Hot](https://open.spotify.com/album/5d2vrwvK9NqOd5S54Hu50A) | 3:06 |
+| 8429 | [飾って \(feat\. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&鏡音レン\)](https://open.spotify.com/track/4srO6JrZnA9lzQoDg8w1bw) | [25時、ナイトコードで。](https://open.spotify.com/artist/1VMXuPyhNldYomz8ojLKP7) | [虚無さん/飾って](https://open.spotify.com/album/4nalpHdzIxpJgIvdqvCvrB) | 3:39 |
+| 8430 | [春嵐 \(feat\. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&MEIKO\)](https://open.spotify.com/track/2vIs0ft5VatGSOsKzLJRho) | [Vivid BAD SQUAD](https://open.spotify.com/artist/6mEgpqXA4yzhhncW4cBHlh) | [Vivid BAD SQUAD SEKAI ALBUM vol.3](https://open.spotify.com/album/3TZPSylPSelxKLmxRlLYmb) | 2:36 |
 
-Snapshot ID: `AAALiSao+UyL3BD3Y8PLtyYKQZj6wtrb`
+Snapshot ID: `AAALku1VowKh9ZEOv2rp2bKhvgWGkeUR`

@@ -1,6 +1,6 @@
 {
   "description": "The best in every corner of modern punk rock. Cover: Tiger's Jaw",
-  "num_followers": 472707,
+  "num_followers": 472717,
   "original_name": "Today's Punk",
   "owner": {
     "name": "Spotify",
@@ -651,22 +651,6 @@
     {
       "added_at": "2026-04-08 22:14:12",
       "album": {
-        "name": "Box In The Basement",
-        "url": "https://open.spotify.com/album/2N13X4HNaRNqzjYL1nHPoF"
-      },
-      "artists": [
-        {
-          "name": "nothing,nowhere.",
-          "url": "https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Box In The Basement",
-      "url": "https://open.spotify.com/track/44r3djxJsaQTlddoeW5hjh"
-    },
-    {
-      "added_at": "2026-04-08 22:14:12",
-      "album": {
         "name": "The Demise Of Planet X",
         "url": "https://open.spotify.com/album/4SWvydRBO91rnCEYHsvcK9"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 180553,
       "name": "The Good Life",
       "url": "https://open.spotify.com/track/5hWYAmFdxJzSEBqgYfCaVx"
+    },
+    {
+      "added_at": "2026-04-08 22:14:12",
+      "album": {
+        "name": "Box In The Basement",
+        "url": "https://open.spotify.com/album/2N13X4HNaRNqzjYL1nHPoF"
+      },
+      "artists": [
+        {
+          "name": "nothing,nowhere.",
+          "url": "https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Box In The Basement",
+      "url": "https://open.spotify.com/track/44r3djxJsaQTlddoeW5hjh"
     },
     {
       "added_at": "2026-04-08 22:14:12",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-04-08 22:14:12",
       "album": {
-        "name": "Smoke Screen",
-        "url": "https://open.spotify.com/album/7FpIlixttTpFhJkugBwzwl"
-      },
-      "artists": [
-        {
-          "name": "Sweet Pill",
-          "url": "https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa"
-        }
-      ],
-      "duration_ms": 171808,
-      "name": "Smoke Screen",
-      "url": "https://open.spotify.com/track/0www1z9xa39bNmz7fCmyaJ"
-    },
-    {
-      "added_at": "2026-04-08 22:14:12",
-      "album": {
         "name": "Dream Bigger",
         "url": "https://open.spotify.com/album/4kIvdcIBu9AymMzJUsgyI1"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 185060,
       "name": "Dream Bigger",
       "url": "https://open.spotify.com/track/6ubLkNovtzOSFKvG9e02pE"
+    },
+    {
+      "added_at": "2026-04-08 22:14:12",
+      "album": {
+        "name": "Smoke Screen",
+        "url": "https://open.spotify.com/album/7FpIlixttTpFhJkugBwzwl"
+      },
+      "artists": [
+        {
+          "name": "Sweet Pill",
+          "url": "https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa"
+        }
+      ],
+      "duration_ms": 171808,
+      "name": "Smoke Screen",
+      "url": "https://open.spotify.com/track/0www1z9xa39bNmz7fCmyaJ"
     },
     {
       "added_at": "2026-04-08 22:14:12",
@@ -855,18 +855,18 @@
     {
       "added_at": "2026-04-08 22:14:12",
       "album": {
-        "name": "Wet Death",
-        "url": "https://open.spotify.com/album/2Tb0irVzY5GgmnPRNZqiq2"
+        "name": "Oxy Moron",
+        "url": "https://open.spotify.com/album/3lVC4YhcGK3nmktbvCTts6"
       },
       "artists": [
         {
-          "name": "Blood Command",
-          "url": "https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f"
+          "name": "Cartel",
+          "url": "https://open.spotify.com/artist/6wQMF27xWhSyJFnO9L5mQk"
         }
       ],
-      "duration_ms": 124300,
-      "name": "Wet Death",
-      "url": "https://open.spotify.com/track/6GT8vcEC3ZtWuhrNgFeBGf"
+      "duration_ms": 246433,
+      "name": "Oxy Moron",
+      "url": "https://open.spotify.com/track/3JTy5HftSASB9yTXwoRTAn"
     },
     {
       "added_at": "2026-04-08 22:14:12",
@@ -887,18 +887,18 @@
     {
       "added_at": "2026-04-08 22:14:12",
       "album": {
-        "name": "Oxy Moron",
-        "url": "https://open.spotify.com/album/3lVC4YhcGK3nmktbvCTts6"
+        "name": "Wet Death",
+        "url": "https://open.spotify.com/album/2Tb0irVzY5GgmnPRNZqiq2"
       },
       "artists": [
         {
-          "name": "Cartel",
-          "url": "https://open.spotify.com/artist/6wQMF27xWhSyJFnO9L5mQk"
+          "name": "Blood Command",
+          "url": "https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f"
         }
       ],
-      "duration_ms": 246433,
-      "name": "Oxy Moron",
-      "url": "https://open.spotify.com/track/3JTy5HftSASB9yTXwoRTAn"
+      "duration_ms": 124300,
+      "name": "Wet Death",
+      "url": "https://open.spotify.com/track/6GT8vcEC3ZtWuhrNgFeBGf"
     },
     {
       "added_at": "2026-04-08 22:14:12",
@@ -939,6 +939,22 @@
     {
       "added_at": "2026-04-08 22:14:12",
       "album": {
+        "name": "Twist My Tongue",
+        "url": "https://open.spotify.com/album/0FAI84SHnoPbEKaDfCNEZb"
+      },
+      "artists": [
+        {
+          "name": "Sincere Engineer",
+          "url": "https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1"
+        }
+      ],
+      "duration_ms": 248146,
+      "name": "Twist My Tongue",
+      "url": "https://open.spotify.com/track/2ortlBKkdxmL1uScotoHxp"
+    },
+    {
+      "added_at": "2026-04-08 22:14:12",
+      "album": {
         "name": "Big-Box Store Heart",
         "url": "https://open.spotify.com/album/75mVfcdDcjhv79ZfZcc8MM"
       },
@@ -955,22 +971,6 @@
     {
       "added_at": "2026-04-08 22:14:12",
       "album": {
-        "name": "Limb From Limb / Mechanically Separated",
-        "url": "https://open.spotify.com/album/757tW1HgmEk6NhXZk0kcHt"
-      },
-      "artists": [
-        {
-          "name": "Heart Attack Man",
-          "url": "https://open.spotify.com/artist/5esKrGWvWmBAmjnao5jInN"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Limb From Limb",
-      "url": "https://open.spotify.com/track/22w3dwj3nC5XjF7NdSJwrY"
-    },
-    {
-      "added_at": "2026-04-08 22:14:12",
-      "album": {
         "name": "Black Site",
         "url": "https://open.spotify.com/album/4rDe2v5W6GsJBYXIThPbWI"
       },
@@ -983,6 +983,22 @@
       "duration_ms": 163371,
       "name": "Black Site",
       "url": "https://open.spotify.com/track/1Ufkxti23z1OxXAVoSU5MM"
+    },
+    {
+      "added_at": "2026-04-08 22:14:12",
+      "album": {
+        "name": "Limb From Limb / Mechanically Separated",
+        "url": "https://open.spotify.com/album/757tW1HgmEk6NhXZk0kcHt"
+      },
+      "artists": [
+        {
+          "name": "Heart Attack Man",
+          "url": "https://open.spotify.com/artist/5esKrGWvWmBAmjnao5jInN"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Limb From Limb",
+      "url": "https://open.spotify.com/track/22w3dwj3nC5XjF7NdSJwrY"
     },
     {
       "added_at": "2026-04-08 22:14:12",
@@ -1035,22 +1051,6 @@
     {
       "added_at": "2026-04-08 22:14:12",
       "album": {
-        "name": "Twist My Tongue",
-        "url": "https://open.spotify.com/album/0FAI84SHnoPbEKaDfCNEZb"
-      },
-      "artists": [
-        {
-          "name": "Sincere Engineer",
-          "url": "https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1"
-        }
-      ],
-      "duration_ms": 248146,
-      "name": "Twist My Tongue",
-      "url": "https://open.spotify.com/track/2ortlBKkdxmL1uScotoHxp"
-    },
-    {
-      "added_at": "2026-04-08 22:14:12",
-      "album": {
         "name": "Even If I Never Get There",
         "url": "https://open.spotify.com/album/0G5V83mMQWMXtEdnudKaI7"
       },
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2026-04-08 22:14:12",
       "album": {
-        "name": "Last Breath",
-        "url": "https://open.spotify.com/album/1ABI2KGtoAW8aiJZ8KZyap"
-      },
-      "artists": [
-        {
-          "name": "Upchuck",
-          "url": "https://open.spotify.com/artist/7mhCgHESQzEKKyWshkMTwW"
-        }
-      ],
-      "duration_ms": 110758,
-      "name": "Last Breath",
-      "url": "https://open.spotify.com/track/7xcWsqQONJZtcOdduYsdko"
-    },
-    {
-      "added_at": "2026-04-08 22:14:12",
-      "album": {
         "name": "Burnout",
         "url": "https://open.spotify.com/album/1NCPSVQDyMouZDyGyKqzTd"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 148663,
       "name": "Burnout",
       "url": "https://open.spotify.com/track/0GcX7hGiXATzis6ViSderK"
+    },
+    {
+      "added_at": "2026-04-08 22:14:12",
+      "album": {
+        "name": "Last Breath",
+        "url": "https://open.spotify.com/album/1ABI2KGtoAW8aiJZ8KZyap"
+      },
+      "artists": [
+        {
+          "name": "Upchuck",
+          "url": "https://open.spotify.com/artist/7mhCgHESQzEKKyWshkMTwW"
+        }
+      ],
+      "duration_ms": 110758,
+      "name": "Last Breath",
+      "url": "https://open.spotify.com/track/7xcWsqQONJZtcOdduYsdko"
     },
     {
       "added_at": "2026-04-08 22:14:12",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-04-08 22:14:12",
       "album": {
-        "name": "Detonate",
-        "url": "https://open.spotify.com/album/3CAzERke4TJBatxOPrq99P"
-      },
-      "artists": [
-        {
-          "name": "The Casualties",
-          "url": "https://open.spotify.com/artist/5uMNhVG30JzeZ5xtPb1tqR"
-        }
-      ],
-      "duration_ms": 85408,
-      "name": "Detonate",
-      "url": "https://open.spotify.com/track/1iOmwmv21Mh9jLb46F9nxf"
-    },
-    {
-      "added_at": "2026-04-08 22:14:12",
-      "album": {
         "name": "Eternal Youth",
         "url": "https://open.spotify.com/album/0R0mH2K2OsB8tDTtvOT4UX"
       },
@@ -1195,18 +1179,18 @@
     {
       "added_at": "2026-04-08 22:14:12",
       "album": {
-        "name": "Beer and Blood Stains",
-        "url": "https://open.spotify.com/album/6qfKaBSurOwbjy3jm1uMrL"
+        "name": "Detonate",
+        "url": "https://open.spotify.com/album/3CAzERke4TJBatxOPrq99P"
       },
       "artists": [
         {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+          "name": "The Casualties",
+          "url": "https://open.spotify.com/artist/5uMNhVG30JzeZ5xtPb1tqR"
         }
       ],
-      "duration_ms": 199747,
-      "name": "Beer and Blood Stains",
-      "url": "https://open.spotify.com/track/26bnW74Wx2gOADqc6c8mV0"
+      "duration_ms": 85408,
+      "name": "Detonate",
+      "url": "https://open.spotify.com/track/1iOmwmv21Mh9jLb46F9nxf"
     },
     {
       "added_at": "2026-04-08 22:14:12",
@@ -1247,6 +1231,22 @@
     {
       "added_at": "2026-04-08 22:14:12",
       "album": {
+        "name": "Beer and Blood Stains",
+        "url": "https://open.spotify.com/album/6qfKaBSurOwbjy3jm1uMrL"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 199747,
+      "name": "Beer and Blood Stains",
+      "url": "https://open.spotify.com/track/26bnW74Wx2gOADqc6c8mV0"
+    },
+    {
+      "added_at": "2026-04-08 22:14:12",
+      "album": {
         "name": "Inner Peace",
         "url": "https://open.spotify.com/album/64JgToGRjAxCDBuDGZ7g15"
       },
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2026-04-08 22:14:12",
       "album": {
-        "name": "HELLHOUND",
-        "url": "https://open.spotify.com/album/1oa3NykGHO2mXkEGN3AIVj"
-      },
-      "artists": [
-        {
-          "name": "VIAL",
-          "url": "https://open.spotify.com/artist/7soK35m8BosPkMQ67t7bqf"
-        }
-      ],
-      "duration_ms": 146359,
-      "name": "INFECTED",
-      "url": "https://open.spotify.com/track/3p9FdKbV4rIeIiJUjtr4Dm"
-    },
-    {
-      "added_at": "2026-04-08 22:14:12",
-      "album": {
         "name": "Nice to Know Ya",
         "url": "https://open.spotify.com/album/7A5LHfw0Txz9HOzZ8S9e6p"
       },
@@ -1291,6 +1275,38 @@
       "duration_ms": 179454,
       "name": "Nice to Know Ya",
       "url": "https://open.spotify.com/track/0p7Rs24bhNP9iY4TVoFYDe"
+    },
+    {
+      "added_at": "2026-04-08 22:14:12",
+      "album": {
+        "name": "Crater",
+        "url": "https://open.spotify.com/album/5gWk7S4VYT5QEqsOsw0SwC"
+      },
+      "artists": [
+        {
+          "name": "Sparta",
+          "url": "https://open.spotify.com/artist/3DWWL4kwLZMBLsmVsbZYHR"
+        }
+      ],
+      "duration_ms": 153201,
+      "name": "Crater",
+      "url": "https://open.spotify.com/track/7HccOip9j5YgyWcuDwB9F4"
+    },
+    {
+      "added_at": "2026-04-08 22:14:12",
+      "album": {
+        "name": "HELLHOUND",
+        "url": "https://open.spotify.com/album/1oa3NykGHO2mXkEGN3AIVj"
+      },
+      "artists": [
+        {
+          "name": "VIAL",
+          "url": "https://open.spotify.com/artist/7soK35m8BosPkMQ67t7bqf"
+        }
+      ],
+      "duration_ms": 146359,
+      "name": "INFECTED",
+      "url": "https://open.spotify.com/track/3p9FdKbV4rIeIiJUjtr4Dm"
     },
     {
       "added_at": "2026-04-08 22:14:12",
@@ -1327,18 +1343,18 @@
     {
       "added_at": "2026-04-08 22:14:12",
       "album": {
-        "name": "Crater",
-        "url": "https://open.spotify.com/album/5gWk7S4VYT5QEqsOsw0SwC"
+        "name": "Sabotage",
+        "url": "https://open.spotify.com/album/7nPd8RFHLiqjftozCODIRp"
       },
       "artists": [
         {
-          "name": "Sparta",
-          "url": "https://open.spotify.com/artist/3DWWL4kwLZMBLsmVsbZYHR"
+          "name": "Show Me the Body",
+          "url": "https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB"
         }
       ],
-      "duration_ms": 153201,
-      "name": "Crater",
-      "url": "https://open.spotify.com/track/7HccOip9j5YgyWcuDwB9F4"
+      "duration_ms": 170362,
+      "name": "Sabotage",
+      "url": "https://open.spotify.com/track/0d0dCSbntM8IIXnaHFJzC8"
     },
     {
       "added_at": "2026-04-08 22:14:12",
@@ -1355,22 +1371,6 @@
       "duration_ms": 124648,
       "name": "Leglock",
       "url": "https://open.spotify.com/track/0e025R7ZIG6QEQYq3aDWZ5"
-    },
-    {
-      "added_at": "2026-04-08 22:14:12",
-      "album": {
-        "name": "Sabotage",
-        "url": "https://open.spotify.com/album/7nPd8RFHLiqjftozCODIRp"
-      },
-      "artists": [
-        {
-          "name": "Show Me the Body",
-          "url": "https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB"
-        }
-      ],
-      "duration_ms": 170362,
-      "name": "Sabotage",
-      "url": "https://open.spotify.com/track/0d0dCSbntM8IIXnaHFJzC8"
     },
     {
       "added_at": "2026-04-08 22:14:12",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2026-04-08 22:14:12",
       "album": {
-        "name": "Bozo",
-        "url": "https://open.spotify.com/album/08bg2gKiNy11SjWzrNNMfz"
-      },
-      "artists": [
-        {
-          "name": "Wavves",
-          "url": "https://open.spotify.com/artist/6bUJpbekaIlq2fT5FMV2mQ"
-        }
-      ],
-      "duration_ms": 42692,
-      "name": "Bozo",
-      "url": "https://open.spotify.com/track/62fPgFDQaQbLOVldD49sNI"
-    },
-    {
-      "added_at": "2026-04-08 22:14:12",
-      "album": {
         "name": "Optimizer",
         "url": "https://open.spotify.com/album/6DH6Tz9pzAvqGT6pfEIVPw"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 124416,
       "name": "I really am feeling better",
       "url": "https://open.spotify.com/track/2EmYu5EQnSpb2I0nW6hIlw"
+    },
+    {
+      "added_at": "2026-04-08 22:14:12",
+      "album": {
+        "name": "Bozo",
+        "url": "https://open.spotify.com/album/08bg2gKiNy11SjWzrNNMfz"
+      },
+      "artists": [
+        {
+          "name": "Wavves",
+          "url": "https://open.spotify.com/artist/6bUJpbekaIlq2fT5FMV2mQ"
+        }
+      ],
+      "duration_ms": 42692,
+      "name": "Bozo",
+      "url": "https://open.spotify.com/track/62fPgFDQaQbLOVldD49sNI"
     },
     {
       "added_at": "2026-04-08 22:14:12",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2026-04-08 22:14:12",
       "album": {
-        "name": "Trying Not to Have a Thought",
-        "url": "https://open.spotify.com/album/5Xds05MFFB6SRaLKfceXRM"
-      },
-      "artists": [
-        {
-          "name": "Algernon Cadwallader",
-          "url": "https://open.spotify.com/artist/1BfYXNfaB5HBwHn4gxnEQE"
-        }
-      ],
-      "duration_ms": 249304,
-      "name": "noitanitsarcorP",
-      "url": "https://open.spotify.com/track/24U4cuI8vasIg7v3Ci6oEd"
-    },
-    {
-      "added_at": "2026-04-08 22:14:12",
-      "album": {
         "name": "Saw You Out with the Weeds",
         "url": "https://open.spotify.com/album/5owsbvTr7nrBK24Gjrqw1L"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 174000,
       "name": "Model Actress",
       "url": "https://open.spotify.com/track/3qMUgFUMNVmy69Nn7SrV7Z"
+    },
+    {
+      "added_at": "2026-04-08 22:14:12",
+      "album": {
+        "name": "Trying Not to Have a Thought",
+        "url": "https://open.spotify.com/album/5Xds05MFFB6SRaLKfceXRM"
+      },
+      "artists": [
+        {
+          "name": "Algernon Cadwallader",
+          "url": "https://open.spotify.com/artist/1BfYXNfaB5HBwHn4gxnEQE"
+        }
+      ],
+      "duration_ms": 249304,
+      "name": "noitanitsarcorP",
+      "url": "https://open.spotify.com/track/24U4cuI8vasIg7v3Ci6oEd"
     },
     {
       "added_at": "2026-04-08 22:14:12",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2026-04-08 22:14:12",
       "album": {
-        "name": "Drive Faster",
-        "url": "https://open.spotify.com/album/6SwOIjBSWCncTbFtLFzcsG"
-      },
-      "artists": [
-        {
-          "name": "Good Riddance",
-          "url": "https://open.spotify.com/artist/1Yunxnwa5znrQ9Ha7dZeHO"
-        }
-      ],
-      "duration_ms": 161979,
-      "name": "There's Still Tonight",
-      "url": "https://open.spotify.com/track/3UGfNbrYAi9Ix3YinvsAn3"
-    },
-    {
-      "added_at": "2026-04-08 22:14:12",
-      "album": {
         "name": "There's Love In This World If You Want It",
         "url": "https://open.spotify.com/album/2yFT16aiGIbFbeCTYVsmw7"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 118037,
       "name": "Count The Miles",
       "url": "https://open.spotify.com/track/26WzPaRzV6z0TeVffQBIIG"
+    },
+    {
+      "added_at": "2026-04-08 22:14:12",
+      "album": {
+        "name": "Drive Faster",
+        "url": "https://open.spotify.com/album/6SwOIjBSWCncTbFtLFzcsG"
+      },
+      "artists": [
+        {
+          "name": "Good Riddance",
+          "url": "https://open.spotify.com/artist/1Yunxnwa5znrQ9Ha7dZeHO"
+        }
+      ],
+      "duration_ms": 161979,
+      "name": "There's Still Tonight",
+      "url": "https://open.spotify.com/track/3UGfNbrYAi9Ix3YinvsAn3"
     },
     {
       "added_at": "2026-04-08 22:14:12",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2026-04-08 22:14:12",
       "album": {
-        "name": "Look Up",
-        "url": "https://open.spotify.com/album/5N5wUMnGZZGfF2DxFL3e9o"
-      },
-      "artists": [
-        {
-          "name": "Alex Melton",
-          "url": "https://open.spotify.com/artist/2Y3LFSXIRTjJZyjIA22qJA"
-        }
-      ],
-      "duration_ms": 155254,
-      "name": "Look Up",
-      "url": "https://open.spotify.com/track/5ctd0rOQS8Xzl7QKwvBrVN"
-    },
-    {
-      "added_at": "2026-04-08 22:14:12",
-      "album": {
         "name": "R U FAMOUS",
         "url": "https://open.spotify.com/album/4kH2cHSZNGyokVgaIzIOxn"
       },
@@ -1955,6 +1939,22 @@
       "duration_ms": 158053,
       "name": "Do One",
       "url": "https://open.spotify.com/track/0m8IKzcaOnjMIDMgFzmkFE"
+    },
+    {
+      "added_at": "2026-04-08 22:14:12",
+      "album": {
+        "name": "Look Up",
+        "url": "https://open.spotify.com/album/5N5wUMnGZZGfF2DxFL3e9o"
+      },
+      "artists": [
+        {
+          "name": "Alex Melton",
+          "url": "https://open.spotify.com/artist/2Y3LFSXIRTjJZyjIA22qJA"
+        }
+      ],
+      "duration_ms": 155254,
+      "name": "Look Up",
+      "url": "https://open.spotify.com/track/5ctd0rOQS8Xzl7QKwvBrVN"
     },
     {
       "added_at": "2026-04-08 22:14:12",
@@ -2103,22 +2103,6 @@
     {
       "added_at": "2026-04-08 22:14:12",
       "album": {
-        "name": "Talk Real",
-        "url": "https://open.spotify.com/album/7uhHXD3tSb0OyXwNrxxU9o"
-      },
-      "artists": [
-        {
-          "name": "Gridiron",
-          "url": "https://open.spotify.com/artist/2eIUyCr530XyFHd358dxYZ"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Talk Real",
-      "url": "https://open.spotify.com/track/7LPbyMRdlafzBDgn1bfTND"
-    },
-    {
-      "added_at": "2026-04-08 22:14:12",
-      "album": {
         "name": "Dim",
         "url": "https://open.spotify.com/album/1inJ0dw9LMiPZTEHpkHmCC"
       },
@@ -2135,18 +2119,18 @@
     {
       "added_at": "2026-04-08 22:14:12",
       "album": {
-        "name": "Hellfire",
-        "url": "https://open.spotify.com/album/0R8R0PcSWP82qPyYFsF2bz"
+        "name": "Talk Real",
+        "url": "https://open.spotify.com/album/7uhHXD3tSb0OyXwNrxxU9o"
       },
       "artists": [
         {
-          "name": "Filth is Eternal",
-          "url": "https://open.spotify.com/artist/0BqcFG3uqS8l59OsCtIiH0"
+          "name": "Gridiron",
+          "url": "https://open.spotify.com/artist/2eIUyCr530XyFHd358dxYZ"
         }
       ],
-      "duration_ms": 180196,
-      "name": "Hellfire",
-      "url": "https://open.spotify.com/track/1YqnHnqfjdXuOiwkNwJwOg"
+      "duration_ms": 175000,
+      "name": "Talk Real",
+      "url": "https://open.spotify.com/track/7LPbyMRdlafzBDgn1bfTND"
     },
     {
       "added_at": "2026-04-08 22:14:12",
@@ -2163,6 +2147,22 @@
       "duration_ms": 173698,
       "name": "I Hate the Internet",
       "url": "https://open.spotify.com/track/0vXSs7BK3FIRtBoys2u502"
+    },
+    {
+      "added_at": "2026-04-08 22:14:12",
+      "album": {
+        "name": "Hellfire",
+        "url": "https://open.spotify.com/album/0R8R0PcSWP82qPyYFsF2bz"
+      },
+      "artists": [
+        {
+          "name": "Filth is Eternal",
+          "url": "https://open.spotify.com/artist/0BqcFG3uqS8l59OsCtIiH0"
+        }
+      ],
+      "duration_ms": 180196,
+      "name": "Hellfire",
+      "url": "https://open.spotify.com/track/1YqnHnqfjdXuOiwkNwJwOg"
     },
     {
       "added_at": "2026-04-08 22:14:12",
@@ -2311,22 +2311,6 @@
     {
       "added_at": "2026-04-08 22:14:12",
       "album": {
-        "name": "Optical Delusions",
-        "url": "https://open.spotify.com/album/6Xktv0xcSS1vaYilvd8LXg"
-      },
-      "artists": [
-        {
-          "name": "End It",
-          "url": "https://open.spotify.com/artist/5YlX74SFjWauq32aKLwAYn"
-        }
-      ],
-      "duration_ms": 74839,
-      "name": "Optical Delusions",
-      "url": "https://open.spotify.com/track/11w3cYXVjPxqyvxBUr4tUH"
-    },
-    {
-      "added_at": "2026-04-08 22:14:12",
-      "album": {
         "name": "Kingbreaker",
         "url": "https://open.spotify.com/album/3YikGzdMlbMEUNmRu3bPrF"
       },
@@ -2339,6 +2323,22 @@
       "duration_ms": 119563,
       "name": "Kingbreaker",
       "url": "https://open.spotify.com/track/2PzEuyNwf8TB1sfi8vnDpr"
+    },
+    {
+      "added_at": "2026-04-08 22:14:12",
+      "album": {
+        "name": "Optical Delusions",
+        "url": "https://open.spotify.com/album/6Xktv0xcSS1vaYilvd8LXg"
+      },
+      "artists": [
+        {
+          "name": "End It",
+          "url": "https://open.spotify.com/artist/5YlX74SFjWauq32aKLwAYn"
+        }
+      ],
+      "duration_ms": 74839,
+      "name": "Optical Delusions",
+      "url": "https://open.spotify.com/track/11w3cYXVjPxqyvxBUr4tUH"
     },
     {
       "added_at": "2026-04-08 22:14:12",

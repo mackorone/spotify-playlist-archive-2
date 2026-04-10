@@ -4020,7 +4020,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 234466,
       "name": "I Don't Wanna Live Without Your Love",
       "url": "https://open.spotify.com/track/1bQ6SZAR7xI0z6sIxK95KJ"
@@ -6270,10 +6270,28 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 238973,
       "name": "Love Can Move Mountains",
       "url": "https://open.spotify.com/track/26y7efaUQkdbl5ouBQMHu1"
+    },
+    {
+      "album": {
+        "name": "All the Way...A Decade of Song",
+        "url": "https://open.spotify.com/album/2ksJEvjT4ezhBeg6b5Irrx"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238973,
+      "name": "Love Can Move Mountains",
+      "url": "https://open.spotify.com/track/7IyFcmDp07GRvxZIsuEPy1"
     },
     {
       "album": {

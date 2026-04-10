@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 304 likes - 2,124 songs - 5 day 6 hr 1 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 305 likes - 2,127 songs - 5 day 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2132,5 +2132,8 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2122 | [Tu Alma](https://open.spotify.com/track/0CrlLgCEZMRbgtTshIfgVl) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Tu Alma](https://open.spotify.com/album/1eK1aPMdKhSpW4c2uFGTx9) | 2:50 |
 | 2123 | [Pijane Zombie](https://open.spotify.com/track/0clPKNLv6oNHZcD1D7fZdO) | [PIWO COMPANY](https://open.spotify.com/artist/1RRpA28CRVATyesqmDj8Pz) | [Pijane Zombie](https://open.spotify.com/album/42sdo9NngvHMJCigtLGXFS) | 2:06 |
 | 2124 | [Lágrimas de Chuva](https://open.spotify.com/track/3bSWkB3k3KOOs0Ysz16Ptu) | [Nine Angel](https://open.spotify.com/artist/1Lc1Ou5z78fgizSFbUlj8Y) | [Lágrimas de Chuva](https://open.spotify.com/album/3pEtVDAPRsBmaCITgCfok2) | 3:34 |
+| 2125 | [Despedida](https://open.spotify.com/track/7rriesN8nZhU9kMQ2fQ3Os) | [Nine Angel](https://open.spotify.com/artist/1Lc1Ou5z78fgizSFbUlj8Y) | [Despedida](https://open.spotify.com/album/5TSyEf8knXO3LWYNmHLOYJ) | 2:58 |
+| 2126 | [Listen](https://open.spotify.com/track/77kzqKHULo3dpcAWyOLwOy) | [Elevator Operator](https://open.spotify.com/artist/146hY314HEGttVHczyZf8T) | [Future Self](https://open.spotify.com/album/3gN3dfsigjmVngomnGnXLO) | 3:25 |
+| 2127 | [Baila Sin Final](https://open.spotify.com/track/2Iqu1rqtEvm7q7N6sFXRUl) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Baila Sin Final](https://open.spotify.com/album/5vwVcXxmIBVLtxnB1IENtm) | 3:07 |
 
-Snapshot ID: `AAAI8FgNXyVkQyTnjLTfiEq2ROc8jQjh`
+Snapshot ID: `AAAI86wm/2O3hFssoCNpy/XNmP+UKCbl`

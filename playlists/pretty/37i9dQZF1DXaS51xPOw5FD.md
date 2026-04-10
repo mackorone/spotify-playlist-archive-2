@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaS51xPOw5FD.md) - [plain]
 
 > Euphoric drum & bass tracks for raving in the sunshine!
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,098 likes - 99 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,122 likes - 99 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaS51xPOw5FD.md) - [plain]
 | 77 | [Southwark](https://open.spotify.com/track/5jhL4cFcAzraDweCvLSreL) | [BCee](https://open.spotify.com/artist/3wdwWQXJbqpJJbMdp7KfEJ) | [Southwark](https://open.spotify.com/album/1UNGxOhYLpyjEPWqVAKneh) | 3:51 |
 | 78 | [Sprinta \(Bad Bad\)](https://open.spotify.com/track/3KJD2bb7mnH0fnLDGSJ2dn) | [Anaïs](https://open.spotify.com/artist/6o96xU0mXSSthZ01IGtn6k), [KIPPO](https://open.spotify.com/artist/4Bf3pfU2A6dHgR1eZwlE6N) | [Sprinta \(Bad Bad\)](https://open.spotify.com/album/7l0SqJre5CRZcGLcMztXrV) | 3:19 |
 | 79 | [Bad Gyalz](https://open.spotify.com/track/1sdfHsJC1KytSyhhGpZ2kv) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Bad Gyalz](https://open.spotify.com/album/0KgiN6gpmIFwjxSIJE3qrb) | 2:39 |
-| 80 | [Shut It Down](https://open.spotify.com/track/1KsTta93YQGtGid1W1x6ki) | [Mollie Collins](https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu), [Elipsa](https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske) | [Shut It Down](https://open.spotify.com/album/540Df5chb7iGHb1GSCYD8B) | 2:58 |
-| 81 | [Hello](https://open.spotify.com/track/2YEJHljehDT4kktVq9v6YZ) | [Yue](https://open.spotify.com/artist/1f2R89vpkJBEwIF8jla4FI) | [Hello](https://open.spotify.com/album/0l3YAPM3P5jlFlen2m45MU) | 3:14 |
+| 80 | [Hello](https://open.spotify.com/track/2YEJHljehDT4kktVq9v6YZ) | [Yue](https://open.spotify.com/artist/1f2R89vpkJBEwIF8jla4FI) | [Hello](https://open.spotify.com/album/0l3YAPM3P5jlFlen2m45MU) | 3:14 |
+| 81 | [Shut It Down](https://open.spotify.com/track/1KsTta93YQGtGid1W1x6ki) | [Mollie Collins](https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu), [Elipsa](https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske) | [Shut It Down](https://open.spotify.com/album/540Df5chb7iGHb1GSCYD8B) | 2:58 |
 | 82 | [Medellín](https://open.spotify.com/track/7BUPvz8RrNUtIsCtf6Kp7w) | [K Motionz](https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ), [Capo Lee](https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh) | [Medellin](https://open.spotify.com/album/3NyhA71nl9UGHMUGzWUSCn) | 2:26 |
 | 83 | [Thunderstorm \(feat\. Deyaz\)](https://open.spotify.com/track/0FM3AeTbUEZETmbbHWSyGK) | [CLIPZ](https://open.spotify.com/artist/6b0TSaLAeLXilOPoId8udE), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc) | [Thunderstorm \(feat\. Deyaz\)](https://open.spotify.com/album/1XhCYaSTL2RoT0cNvpJcsV) | 3:32 |
 | 84 | [get it right.](https://open.spotify.com/track/53IZ6ZJJByEHMPzif5xBhP) | [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP), [Megan Linnell](https://open.spotify.com/artist/31HmXiJtyTOlEmh5rEl9xI) | [get it right.](https://open.spotify.com/album/20xhanWy6ap9lGVXtCG235) | 3:12 |

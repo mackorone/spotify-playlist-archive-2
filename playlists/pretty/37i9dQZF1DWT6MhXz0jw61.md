@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: J\. Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,398,853 likes - 111 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,398,890 likes - 111 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 74 | [Frequency](https://open.spotify.com/track/5phjaOYQBKmlV5RUmkXEXS) | [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Frequency](https://open.spotify.com/album/6jdF754Y2NkHX8CSLzPkAc) | 3:48 |
 | 75 | [You Can't See Us](https://open.spotify.com/track/5JlO11HPmL7RLtT1klNDnH) | [Paul Wall](https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg), [DJ.Fresh](https://open.spotify.com/artist/35cJT1IMCFHLeKiPcSpequ) | [You Can't See Us](https://open.spotify.com/album/68twO5fWVn70vvBNHxnM64) | 3:02 |
 | 76 | [God's Hands](https://open.spotify.com/track/67w591b4oj8WE3TOqSTO3W) | [sam e hues](https://open.spotify.com/artist/0EkBpiXdWR68DpCNNVejdl), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [God's Hands](https://open.spotify.com/album/12pwOocjxPsWAF9SBHmeV3) | 3:25 |
-| 77 | [On Saturday](https://open.spotify.com/track/1YzOzBThsUDonYifPaPJLd) | [JasonMartin](https://open.spotify.com/artist/0399oiMcmbOzzsYQDNYqxn), [Dj Flippp](https://open.spotify.com/artist/4MyJFvr1LOniuQPUcqa0aw), [Dom Kennedy](https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt), [LIT PAPI](https://open.spotify.com/artist/09ALGqoXmBU9SKSXbMqBcp) | [On Saturday](https://open.spotify.com/album/1ixU82jQZxVHRkQmjpbRmc) | 3:10 |
+| 77 | [On Saturday](https://open.spotify.com/track/1YzOzBThsUDonYifPaPJLd) | [JasonMartin](https://open.spotify.com/artist/0399oiMcmbOzzsYQDNYqxn), [Dj Flippp](https://open.spotify.com/artist/4MyJFvr1LOniuQPUcqa0aw), [Dom Kennedy](https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt), [LIT PAPI](https://open.spotify.com/artist/09ALGqoXmBU9SKSXbMqBcp) | [On Saturday](https://open.spotify.com/album/1ixU82jQZxVHRkQmjpbRmc) | 3:09 |
 | 78 | [empty residential \(feat\. WESTSIDE BOOGIE\)](https://open.spotify.com/track/4oYT5fyx2VPLhUlJCJNDii) | [mynameisntjmack](https://open.spotify.com/artist/7HY1ISUuRotG01FVu0PKWh), [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6) | [BLIND](https://open.spotify.com/album/69HLWZjsL5W7DSXnHYF6Y8) | 4:07 |
 | 79 | [Drive Alone](https://open.spotify.com/track/52O0lWLhF9VoOVACnlnAnS) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Spiral Staircases](https://open.spotify.com/album/4XGYIMntQYL5PPjsUZJoGJ) | 3:29 |
 | 80 | [That's Not Your Path \(feat\. Babyface Ray & Sango\)](https://open.spotify.com/track/3cIfKwCzegyZoGjUTq5KQX) | [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg) | [In Rhythm](https://open.spotify.com/album/1C2wi3G7Kcw4pWP4Ll8jzv) | 3:12 |

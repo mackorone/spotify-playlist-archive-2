@@ -1751,6 +1751,24 @@
     },
     {
       "album": {
+        "name": "A BEAST IS BORN",
+        "url": "https://open.spotify.com/album/2ZRpFZ6DEwtA49RRQKKxmo"
+      },
+      "artists": [
+        {
+          "name": "Endiz",
+          "url": "https://open.spotify.com/artist/4t259Ch8KqLB4TeQg4gYjw"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167341,
+      "name": "ANTWI",
+      "url": "https://open.spotify.com/track/6rQBxPjJuEmnjZXvch4D2Q"
+    },
+    {
+      "album": {
         "name": "Armageddon",
         "url": "https://open.spotify.com/album/1mGskf7yvKlOzcSKWolqlx"
       },
@@ -7232,7 +7250,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 152571,
       "name": "GHRIME RIDDIM III: TEMA BOYS",
       "url": "https://open.spotify.com/track/38uFgfZxPXIleSZWwLKH0p"
@@ -9746,7 +9764,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 112326,
       "name": "Lighter & Peace",
       "url": "https://open.spotify.com/track/23uzzEJEIpF9n5FvqO9fMK"
@@ -9970,6 +9988,28 @@
       "duration_ms": 180937,
       "name": "LONELY ROAD",
       "url": "https://open.spotify.com/track/5P7d1cYRk786etl1Jbwpk5"
+    },
+    {
+      "album": {
+        "name": "Look Good",
+        "url": "https://open.spotify.com/album/0Fv7uKczFTKqT9cduqEYWh"
+      },
+      "artists": [
+        {
+          "name": "Waiiter",
+          "url": "https://open.spotify.com/artist/7FeK8M0i3bJ5TPmS6rgmGz"
+        },
+        {
+          "name": "ETBOADI",
+          "url": "https://open.spotify.com/artist/1PXTIGG5rIWFX8pRgJ6XRg"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "Look Good",
+      "url": "https://open.spotify.com/track/2N84qykVFxDIOG3NQnEGr9"
     },
     {
       "album": {
@@ -10246,7 +10286,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 191059,
       "name": "Makoma",
       "url": "https://open.spotify.com/track/6VCxJAilbuhRUwky35Qra0"
@@ -12604,7 +12644,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 167553,
       "name": "Okonto (Awhinie)",
       "url": "https://open.spotify.com/track/7jBLUCMXNIm8bJOx57NnpY"
@@ -13759,6 +13799,24 @@
     },
     {
       "album": {
+        "name": "THE BIG BENK THEORY",
+        "url": "https://open.spotify.com/album/28oAbRsScwunyzeNBLepnF"
+      },
+      "artists": [
+        {
+          "name": "Braabenk",
+          "url": "https://open.spotify.com/artist/0TUUFSxsiNUDliSybMOI7I"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72000,
+      "name": "PSA",
+      "url": "https://open.spotify.com/track/6A2ebely8FlDFE8eTFg1pH"
+    },
+    {
+      "album": {
         "name": "PTSD",
         "url": "https://open.spotify.com/album/7y7BPELlPwXptFNCS4MGMC"
       },
@@ -13774,6 +13832,32 @@
       "duration_ms": 170691,
       "name": "PTSD",
       "url": "https://open.spotify.com/track/3oSOAmX3az2ekWnOZrWqRN"
+    },
+    {
+      "album": {
+        "name": "PTSD II",
+        "url": "https://open.spotify.com/album/1e6RVlhhM8wqsWOOv26AX1"
+      },
+      "artists": [
+        {
+          "name": "Dan Drizzy",
+          "url": "https://open.spotify.com/artist/5IbFALzw639sWEFRDWzhpI"
+        },
+        {
+          "name": "J.Derobie",
+          "url": "https://open.spotify.com/artist/0Mb4ieQOX8g5d8lnjdCVZ2"
+        },
+        {
+          "name": "Twitch 4EVA",
+          "url": "https://open.spotify.com/artist/1U9hi0kw9OcJiw7xvwE6go"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149438,
+      "name": "PTSD II",
+      "url": "https://open.spotify.com/track/6MTKNlvUf8G7kQjTofEF1P"
     },
     {
       "album": {
@@ -17904,7 +17988,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 167183,
       "name": "Water",
       "url": "https://open.spotify.com/track/3hDjN7tVwTmLVV7lEKlqjL"
@@ -19138,6 +19222,28 @@
       "duration_ms": 190180,
       "name": "YEDIN",
       "url": "https://open.spotify.com/track/6rdL3EDLxPR4Tq8WJIJ5xC"
+    },
+    {
+      "album": {
+        "name": "Yegye Yeni",
+        "url": "https://open.spotify.com/album/4UEh9fTXt8PR57enDQB2VR"
+      },
+      "artists": [
+        {
+          "name": "Melloboy",
+          "url": "https://open.spotify.com/artist/0zUeVlhVCyM3kSnAAc98WI"
+        },
+        {
+          "name": "Kofi Mole",
+          "url": "https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Yegye Yeni",
+      "url": "https://open.spotify.com/track/6rXJ7UFomJLt8BnKGg4axr"
     },
     {
       "album": {

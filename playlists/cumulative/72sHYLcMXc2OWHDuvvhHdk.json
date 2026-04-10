@@ -277,6 +277,28 @@
     },
     {
       "album": {
+        "name": "23 de Maio",
+        "url": "https://open.spotify.com/album/4bTJKqCamfHhSnsomTxKEd"
+      },
+      "artists": [
+        {
+          "name": "Allan Fontes",
+          "url": "https://open.spotify.com/artist/1SoCnTztxzCxvqVuPwEamz"
+        },
+        {
+          "name": "Jess.",
+          "url": "https://open.spotify.com/artist/00PMCgBFFMXLtUO1prdXTI"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103705,
+      "name": "23 de Maio",
+      "url": "https://open.spotify.com/track/18Lw7AUnhUT646LdPFMvni"
+    },
+    {
+      "album": {
         "name": "28 degrees by night",
         "url": "https://open.spotify.com/album/3D17g7UNRR2H7uPT4kiz9O"
       },
@@ -30306,6 +30328,24 @@
       "duration_ms": 175350,
       "name": "Sick Man",
       "url": "https://open.spotify.com/track/4MRnCpoakf8K7gXGxaRYoY"
+    },
+    {
+      "album": {
+        "name": "Side2Side",
+        "url": "https://open.spotify.com/album/31myptWNeeiBzRAdy40S09"
+      },
+      "artists": [
+        {
+          "name": "DOPESICKFLY",
+          "url": "https://open.spotify.com/artist/6WfSpX8qP9BxeuUnVa1XrP"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218389,
+      "name": "Side2Side",
+      "url": "https://open.spotify.com/track/7f7yTx0zDz7WsuwfhvMjqx"
     },
     {
       "album": {

@@ -6,7 +6,7 @@
     "name": "Zack Amiton",
     "url": "https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt"
   },
-  "snapshot_id": "AAAI5NhlBrx5igOzLumVLhUHWJSJiY1x",
+  "snapshot_id": "AAAI5h1M/2BTRHNv8o5wYvRvQvL+PvT5",
   "tracks": [
     {
       "added_at": "2021-08-26 23:11:19",
@@ -11743,6 +11743,38 @@
       "duration_ms": 202632,
       "name": "Not Broken",
       "url": "https://open.spotify.com/track/5X5rDwKQOnxwJbrDzBt4vf"
+    },
+    {
+      "added_at": "2026-04-10 00:02:31",
+      "album": {
+        "name": "Kiss All The Time. Disco, Occasionally.",
+        "url": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 311733,
+      "name": "Aperture",
+      "url": "https://open.spotify.com/track/1sA1DhT0bLyeICf8NalPS7"
+    },
+    {
+      "added_at": "2026-04-10 00:47:16",
+      "album": {
+        "name": "Dancing Dogs",
+        "url": "https://open.spotify.com/album/2PWxllm289w9WK39WpE2Ct"
+      },
+      "artists": [
+        {
+          "name": "Nana Grizol",
+          "url": "https://open.spotify.com/artist/7FPO7WTShHCXnmVv7lhhZM"
+        }
+      ],
+      "duration_ms": 86973,
+      "name": "Gave On - M Street",
+      "url": "https://open.spotify.com/track/2nitBAPiZlWBMSPG3mC5t6"
     }
   ],
   "unique_name": "Zacklog",

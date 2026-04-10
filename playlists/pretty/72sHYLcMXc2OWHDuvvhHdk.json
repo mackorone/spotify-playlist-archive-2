@@ -6,7 +6,7 @@
     "name": "Lucciago",
     "url": "https://open.spotify.com/user/1217609118"
   },
-  "snapshot_id": "AAAKWMQkHC6HcztkKZ/v9mjpB+Uznpyl",
+  "snapshot_id": "AAAKWu7M7JKz3AxuXu90abenxd6Nzwnv",
   "tracks": [
     {
       "added_at": "2024-09-13 11:56:22",
@@ -41399,6 +41399,42 @@
       "duration_ms": 156544,
       "name": "Out There Alone",
       "url": "https://open.spotify.com/track/3fsvOPJlvhPoUo0IqFmk4S"
+    },
+    {
+      "added_at": "2026-04-09 16:39:03",
+      "album": {
+        "name": "23 de Maio",
+        "url": "https://open.spotify.com/album/4bTJKqCamfHhSnsomTxKEd"
+      },
+      "artists": [
+        {
+          "name": "Allan Fontes",
+          "url": "https://open.spotify.com/artist/1SoCnTztxzCxvqVuPwEamz"
+        },
+        {
+          "name": "Jess.",
+          "url": "https://open.spotify.com/artist/00PMCgBFFMXLtUO1prdXTI"
+        }
+      ],
+      "duration_ms": 103705,
+      "name": "23 de Maio",
+      "url": "https://open.spotify.com/track/18Lw7AUnhUT646LdPFMvni"
+    },
+    {
+      "added_at": "2026-04-09 16:44:09",
+      "album": {
+        "name": "Side2Side",
+        "url": "https://open.spotify.com/album/31myptWNeeiBzRAdy40S09"
+      },
+      "artists": [
+        {
+          "name": "DOPESICKFLY",
+          "url": "https://open.spotify.com/artist/6WfSpX8qP9BxeuUnVa1XrP"
+        }
+      ],
+      "duration_ms": 218389,
+      "name": "Side2Side",
+      "url": "https://open.spotify.com/track/7f7yTx0zDz7WsuwfhvMjqx"
     }
   ],
   "unique_name": "Cruise Music",

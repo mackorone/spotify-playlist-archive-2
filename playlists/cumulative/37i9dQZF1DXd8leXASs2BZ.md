@@ -4,7 +4,7 @@
 
 > 【POP YOURS DAY3】Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: 27AM
 
-1,425 songs - 2 day 17 hr 42 min
+1,426 songs - 2 day 17 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1245,6 +1245,7 @@
 | [Want It](https://open.spotify.com/track/1zxhONsj9rcSNdwro9Lue0) | [COBE J](https://open.spotify.com/artist/6v7wK7ttCju4Tz7ywFk5XI) | [Want It](https://open.spotify.com/album/2wkBp2lrE1ZLh9LDEFzBWB) | 2:56 | 2026-01-20 | 2026-03-11 |
 | [Waruiko Remix \(feat\. 7\)](https://open.spotify.com/track/0ShvA0s43V3SjEWQ0dl3EL) | [IFE](https://open.spotify.com/artist/5kOyuyCpavgMRLO2XIDSS5), [7](https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn) | [Waruiko Remix \(feat\. 7\)](https://open.spotify.com/album/0YDWP0UcwnYdWWjgqrAugs) | 3:07 | 2025-09-30 | 2025-12-24 |
 | [WASABI](https://open.spotify.com/track/7mZzkZf5iGWUgoKIqE3oSU) | [TOKINE](https://open.spotify.com/artist/3Tg1uV8PDqrVWiPHOBZumU) | [WASABI](https://open.spotify.com/album/5Pe3H9Aqz1Tqfx3dBrwwTF) | 2:03 | 2025-05-13 | 2025-06-04 |
+| [washing](https://open.spotify.com/track/5Sx2uxYPQGy6j8ONx67M6V) | [ORIGAMI](https://open.spotify.com/artist/6BmOndD55lPbUiYA8EeqTy) | [washing](https://open.spotify.com/album/3jJ9SrJMorCeZwMHAEcFFQ) | 1:48 | 2026-04-07 |  |
 | [Waste My Time](https://open.spotify.com/track/5lfS6aBkfSq8OoWb4NnkLL) | [SINO](https://open.spotify.com/artist/0cs6SdLF2vIVW1eJ1dvAQE), [Kazu Dank](https://open.spotify.com/artist/1oPwWvBU1s9qvGl66o3ZkJ) | [V.L.C\. Tomorrow](https://open.spotify.com/album/6cW1fYITwKu5RoPuq2KDIU) | 3:43 | 2023-12-19 | 2024-02-09 |
 | [WASTED](https://open.spotify.com/track/7j2CumhXcOyrRLy56yTi1F) | [AIRIE](https://open.spotify.com/artist/2xN2Y7hBcfqQiy3qI7j1Py) | [WASTED](https://open.spotify.com/album/4xT7EaOdsJZ72dbmPFYewS) | 2:26 | 2025-09-09 | 2025-12-17 |
 | [Wasurenaide](https://open.spotify.com/track/3belJRGyvPLYgiCSXSpqO8) | [Shootz](https://open.spotify.com/artist/0gSHX4GAlRtZJ1tJhBv0SD), [Dengaryu](https://open.spotify.com/artist/77UuWIk4w0o7rsn3q1Peru) | [Wasurenaide](https://open.spotify.com/album/6hHfnpyuiYY1ZiP48U6HwI) | 4:13 | 2024-01-18 | 2024-04-19 |

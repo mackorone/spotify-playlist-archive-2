@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Net die beste Afrikaanse musiek! Omslag: Chris Steyn",
+  "description": "Net die beste Afrikaanse musiek! Omslag: Barto\n",
   "name": "Afrikaanse Hits",
   "tracks": [
     {
@@ -3528,7 +3528,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 187617,
       "name": "Kroeg Cowboys",
       "url": "https://open.spotify.com/track/0J3OJrSPHZhrWkYPkPzc2e"
@@ -6111,6 +6111,24 @@
     },
     {
       "album": {
+        "name": "Swaartekrag",
+        "url": "https://open.spotify.com/album/4Rm7IRKiNHe0FgE4LlGQN9"
+      },
+      "artists": [
+        {
+          "name": "Barto",
+          "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160771,
+      "name": "Swaartekrag",
+      "url": "https://open.spotify.com/track/1ow1s5FcO29MuIBebhwi4I"
+    },
+    {
+      "album": {
         "name": "Sweef",
         "url": "https://open.spotify.com/album/6HXf7BiE38LR73n1f8QDMk"
       },
@@ -6844,7 +6862,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-26",
+      "date_removed": null,
       "duration_ms": 164520,
       "name": "Wat Kan 'n Man Dan Doen",
       "url": "https://open.spotify.com/track/7LkWQdDSF1h7pcikce3CSs"
@@ -7050,7 +7068,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 187094,
       "name": "Witblits",
       "url": "https://open.spotify.com/track/5bJEHJ8BPTn7dYM7EYmwvE"

@@ -1,13 +1,29 @@
 {
-  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Natasya Elvira, Societeit de Harmonie",
-  "num_followers": 114460,
+  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Jo Soegono",
+  "num_followers": 114478,
   "original_name": "Jazz Anak Negeri",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHLp0ihaSIDBMT8eZdwd29G/9Ril",
+  "snapshot_id": "AAAAANyEXDdsQ8bSA8Nz2HxxcU0NLLF9",
   "tracks": [
+    {
+      "added_at": "2026-04-09 19:00:14",
+      "album": {
+        "name": "Kasi Kasi Kasi",
+        "url": "https://open.spotify.com/album/2KPZYDFpNBekXVCblbrFbp"
+      },
+      "artists": [
+        {
+          "name": "Jo Soegono",
+          "url": "https://open.spotify.com/artist/4g10GFwD6GAtYbugb9Ur7p"
+        }
+      ],
+      "duration_ms": 185002,
+      "name": "Kasi Kasi Kasi",
+      "url": "https://open.spotify.com/track/7hlngcokcrvJ3NQQdlHjli"
+    },
     {
       "added_at": "2026-03-12 18:00:19",
       "album": {

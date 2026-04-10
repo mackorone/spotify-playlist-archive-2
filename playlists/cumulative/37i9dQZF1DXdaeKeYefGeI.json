@@ -3665,6 +3665,24 @@
     },
     {
       "album": {
+        "name": "Celluloid Illusies",
+        "url": "https://open.spotify.com/album/5DHDYaU7YMNzybw4OwOKFl"
+      },
+      "artists": [
+        {
+          "name": "Meindert Talma",
+          "url": "https://open.spotify.com/artist/5VWau7VkZjYnyoJEkeSgRn"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272074,
+      "name": "Seks, Geweld En Religie (Paul Verhoeven)",
+      "url": "https://open.spotify.com/track/2LFFqbkBfxPPX6emZJDsoU"
+    },
+    {
+      "album": {
         "name": "Slaap",
         "url": "https://open.spotify.com/album/5aFdLxtMs8LfxiTmV5kSnP"
       },

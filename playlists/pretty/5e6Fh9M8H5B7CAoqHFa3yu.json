@@ -1,12 +1,12 @@
 {
   "description": "forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify",
-  "num_followers": 304,
+  "num_followers": 305,
   "original_name": "forever young Playlist Spotify",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAI8FgNXyVkQyTnjLTfiEq2ROc8jQjh",
+  "snapshot_id": "AAAI86wm/2O3hFssoCNpy/XNmP+UKCbl",
   "tracks": [
     {
       "added_at": "2026-03-30 10:29:12",
@@ -36151,6 +36151,54 @@
       "duration_ms": 214250,
       "name": "L\u00e1grimas de Chuva",
       "url": "https://open.spotify.com/track/3bSWkB3k3KOOs0Ysz16Ptu"
+    },
+    {
+      "added_at": "2026-04-09 16:48:42",
+      "album": {
+        "name": "Despedida",
+        "url": "https://open.spotify.com/album/5TSyEf8knXO3LWYNmHLOYJ"
+      },
+      "artists": [
+        {
+          "name": "Nine Angel",
+          "url": "https://open.spotify.com/artist/1Lc1Ou5z78fgizSFbUlj8Y"
+        }
+      ],
+      "duration_ms": 178816,
+      "name": "Despedida",
+      "url": "https://open.spotify.com/track/7rriesN8nZhU9kMQ2fQ3Os"
+    },
+    {
+      "added_at": "2026-04-09 16:49:23",
+      "album": {
+        "name": "Future Self",
+        "url": "https://open.spotify.com/album/3gN3dfsigjmVngomnGnXLO"
+      },
+      "artists": [
+        {
+          "name": "Elevator Operator",
+          "url": "https://open.spotify.com/artist/146hY314HEGttVHczyZf8T"
+        }
+      ],
+      "duration_ms": 205550,
+      "name": "Listen",
+      "url": "https://open.spotify.com/track/77kzqKHULo3dpcAWyOLwOy"
+    },
+    {
+      "added_at": "2026-04-09 23:02:59",
+      "album": {
+        "name": "Baila Sin Final",
+        "url": "https://open.spotify.com/album/5vwVcXxmIBVLtxnB1IENtm"
+      },
+      "artists": [
+        {
+          "name": "Prova MI",
+          "url": "https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb"
+        }
+      ],
+      "duration_ms": 187879,
+      "name": "Baila Sin Final",
+      "url": "https://open.spotify.com/track/2Iqu1rqtEvm7q7N6sFXRUl"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

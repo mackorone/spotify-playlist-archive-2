@@ -4,7 +4,7 @@
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-2,226 songs - 5 day 10 hr 13 min
+2,228 songs - 5 day 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [2 AM](https://open.spotify.com/track/6kepthaKfUvpa3js93JW9j) | [Lineas Ley](https://open.spotify.com/artist/3de7p9LyY0GluKZPU8Eqkp) | [Álamos](https://open.spotify.com/album/4l8UcP19rEVSadYoCBQdCf) | 4:43 | 2024-05-20 |  |
 | [20\-25 Blues \(New Year Same Trouble\)](https://open.spotify.com/track/26MmwjLuR8XWB0dV0YXy9z) | [Lonesome Andy & His One Man Band](https://open.spotify.com/artist/4QT9pI8ouqGGr0q87Kp3K6) | [20\-25 Blues \(New Year Same Trouble\)](https://open.spotify.com/album/3vc70XWl0MM25Fo75na9Pk) | 3:08 | 2025-02-19 |  |
 | [2013](https://open.spotify.com/track/57rMcCG6plomqIjwpDjzOU) | [Interstellar Noise](https://open.spotify.com/artist/3h9YFTlhixNcQHPWYrGXOT) | [2013](https://open.spotify.com/album/0ueNDRd4d50lXblAyfXpt7) | 3:52 | 2026-03-24 |  |
+| [23 de Maio](https://open.spotify.com/track/18Lw7AUnhUT646LdPFMvni) | [Allan Fontes](https://open.spotify.com/artist/1SoCnTztxzCxvqVuPwEamz), [Jess.](https://open.spotify.com/artist/00PMCgBFFMXLtUO1prdXTI) | [23 de Maio](https://open.spotify.com/album/4bTJKqCamfHhSnsomTxKEd) | 1:43 | 2026-04-09 |  |
 | [28 degrees by night](https://open.spotify.com/track/7AWUB5YRThXZsNPEmdXKH7) | [Mindless Meditation](https://open.spotify.com/artist/1jWBDHh1PMVKYnT44tnxpS), [GaetDown](https://open.spotify.com/artist/0DQLwNtbo0nXQjg80Ca2Pm) | [28 degrees by night](https://open.spotify.com/album/3D17g7UNRR2H7uPT4kiz9O) | 1:48 | 2025-06-23 |  |
 | [2K Rock N Roll](https://open.spotify.com/track/66y1niQ50Ti5ifAT0CGpVk) | [Quaintest Show On Earth](https://open.spotify.com/artist/1ZCYsLDNK5G2MLQVj5mzEh), [Joe Astley](https://open.spotify.com/artist/7zsGafyu9s3ieKlnOMYBvu) | [2K Rock N Roll](https://open.spotify.com/album/0RKjrY5ylugsNjOHmdyfs2) | 2:27 | 2025-07-08 |  |
 | [3.32](https://open.spotify.com/track/59mnJcXOSvRZ9ac99Ans7r) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [3.32](https://open.spotify.com/album/472ZMnbtlayJCQWlopwf5i) | 2:32 | 2025-09-22 |  |
@@ -1638,6 +1639,7 @@
 | [Si tú no estás](https://open.spotify.com/track/4YLNGPxArBwdekQBAkW4wn) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Si tú no estás](https://open.spotify.com/album/1r2UEG89DBIZlLt0J26ltu) | 3:35 | 2025-10-09 |  |
 | [Siamo perduti](https://open.spotify.com/track/2KFK8mkYe4OwT2XxDcZlcm) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [Siamo perduti](https://open.spotify.com/album/4j9UylK8c7HBB9dTqsZ3Ub) | 3:31 | 2025-10-13 |  |
 | [Sick Man](https://open.spotify.com/track/4MRnCpoakf8K7gXGxaRYoY) | [Mckai](https://open.spotify.com/artist/4emtw8l93u2ub1FdLdnm5X) | [Sick Man](https://open.spotify.com/album/41OVMFlNd8OipT0YEpwNdR) | 2:55 | 2025-05-29 |  |
+| [Side2Side](https://open.spotify.com/track/7f7yTx0zDz7WsuwfhvMjqx) | [DOPESICKFLY](https://open.spotify.com/artist/6WfSpX8qP9BxeuUnVa1XrP) | [Side2Side](https://open.spotify.com/album/31myptWNeeiBzRAdy40S09) | 3:38 | 2026-04-09 |  |
 | [Siempre para de llover](https://open.spotify.com/track/3FMMoSoVM7ZZ3YolfVycNX) | [Coira](https://open.spotify.com/artist/0MoAJPO9JHW51LRLgQtUG7) | [Siempre para de llover](https://open.spotify.com/album/5V2pXJu57uywMzBMUX2hnD) | 3:01 | 2024-10-22 |  |
 | [Sights](https://open.spotify.com/track/4Q6DaHOlqmq4cDokfd5DQZ) | [Michael Slumber](https://open.spotify.com/artist/6toZTk0pBGiv8asYsWVDcC) | [Nightmare Coloured Clouds](https://open.spotify.com/album/71Skh64cTxR9FI9iisZqYN) | 4:22 | 2025-04-01 |  |
 | [Sign Of The Horns](https://open.spotify.com/track/65GKZJPncKvGka5X4dTsO9) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [Sign Of The Horns](https://open.spotify.com/album/7hGuCzOqXqKtKPt2FvKjz4) | 3:07 | 2025-10-21 |  |

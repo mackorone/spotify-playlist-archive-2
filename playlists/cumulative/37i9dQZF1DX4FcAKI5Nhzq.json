@@ -2932,7 +2932,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 180000,
       "name": "Bloom hour",
       "url": "https://open.spotify.com/track/0sTy2p3PUkU55Hda1rAiFq"
@@ -4174,7 +4174,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 176371,
       "name": "BUZZIN (Feat. Coogie, GRAY)",
       "url": "https://open.spotify.com/track/2xaQzu6vkA5SUNrJUTFuJI"
@@ -5472,7 +5472,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 155000,
       "name": "CODE",
       "url": "https://open.spotify.com/track/00bnKgDRZxvwpnWDJg7Por"
@@ -9974,7 +9974,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 187479,
       "name": "Fxxxboy",
       "url": "https://open.spotify.com/track/2YUoX58zywC6rqFPOUNOiq"
@@ -10774,6 +10774,24 @@
       "duration_ms": 215363,
       "name": "Goblin (Favorite Boys)",
       "url": "https://open.spotify.com/track/0QTx81gggSfDhmmdjpCfrT"
+    },
+    {
+      "album": {
+        "name": "DEFINITION",
+        "url": "https://open.spotify.com/album/4I0KA0FawfWQ92bSq1uHPg"
+      },
+      "artists": [
+        {
+          "name": "AMPERS&ONE",
+          "url": "https://open.spotify.com/artist/4T0Chh3DGxJrEs3gM0biqg"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "GOD",
+      "url": "https://open.spotify.com/track/4DqKlR8BqPCuodaTrnea8g"
     },
     {
       "album": {
@@ -14454,6 +14472,24 @@
       "duration_ms": 248260,
       "name": "Ketchup And Lemonade - NINGNING Solo",
       "url": "https://open.spotify.com/track/1D1cBWh7IJ5DqOIYqCtqZa"
+    },
+    {
+      "album": {
+        "name": "1ST EP ALBUM [KEYVITUP]",
+        "url": "https://open.spotify.com/album/4LP65OY24zeyZRNd4GxhCH"
+      },
+      "artists": [
+        {
+          "name": "KEYVITUP",
+          "url": "https://open.spotify.com/artist/5t5DHjgbcPnJGZJyz3YCnv"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "KEYVITUP",
+      "url": "https://open.spotify.com/track/5BKwXFDUy903O85ATXdu5e"
     },
     {
       "album": {
@@ -18629,6 +18665,24 @@
     },
     {
       "album": {
+        "name": "The First Wave",
+        "url": "https://open.spotify.com/album/7GMWvw5fpp3bIxK0nRz7tw"
+      },
+      "artists": [
+        {
+          "name": "hrtz.wav",
+          "url": "https://open.spotify.com/artist/4xCz4boMkoSCzVWULUNeVg"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "NINETEEN",
+      "url": "https://open.spotify.com/track/2fBzTfPEf46iuJvZpTD5gp"
+    },
+    {
+      "album": {
         "name": "The Story : RETOLD",
         "url": "https://open.spotify.com/album/1W8HpoJr9zJmNxBYP8uCT9"
       },
@@ -22102,7 +22156,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 210000,
       "name": "ROBOT",
       "url": "https://open.spotify.com/track/7KZPGcJo38YV1pIHCSOZh9"
@@ -22522,6 +22576,24 @@
       "duration_ms": 213426,
       "name": "RUN2U",
       "url": "https://open.spotify.com/track/3gFcGnU4kTdMYLXDjH1TK8"
+    },
+    {
+      "album": {
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/6wL6HetMdQwsTqZzCBpGGJ"
+      },
+      "artists": [
+        {
+          "name": "RESCENE",
+          "url": "https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/1x0mG2CyQW5mjBX17ZfTUG"
     },
     {
       "album": {
@@ -24278,6 +24350,24 @@
       "duration_ms": 212264,
       "name": "SO BAD",
       "url": "https://open.spotify.com/track/13KR2yNRDrbKwR3dOKCDl4"
+    },
+    {
+      "album": {
+        "name": "So Cute",
+        "url": "https://open.spotify.com/album/2pdrozDMXT6gnXBbKGeMfI"
+      },
+      "artists": [
+        {
+          "name": "HWASA",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "So Cute",
+      "url": "https://open.spotify.com/track/0M5sCYya9sa2LOz551IBeI"
     },
     {
       "album": {

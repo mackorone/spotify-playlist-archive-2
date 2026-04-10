@@ -52063,6 +52063,24 @@
     },
     {
       "album": {
+        "name": "The Bad Touch",
+        "url": "https://open.spotify.com/album/1PvzNaBIeDacBozhPmGlIz"
+      },
+      "artists": [
+        {
+          "name": "Lollibus",
+          "url": "https://open.spotify.com/artist/4rn1xfu1y5T63WGFap5gr6"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119391,
+      "name": "The Bad Touch",
+      "url": "https://open.spotify.com/track/4al7Dv5NNwq5wytX3jNwTf"
+    },
+    {
+      "album": {
         "name": "The Bass & the Melody",
         "url": "https://open.spotify.com/album/5SKRv2hcin31WNk6f9uqfw"
       },

@@ -1,6 +1,6 @@
 {
-  "description": "Warm and cozy jazz vibes to get you in a positive mood.\n\n",
-  "num_followers": 509544,
+  "description": "Warm and cozy jazz vibes to get you in a positive mood.",
+  "num_followers": 509755,
   "original_name": "Feel Good Jazz",
   "owner": {
     "name": "Spotify",
@@ -619,6 +619,22 @@
     {
       "added_at": "2026-03-13 08:31:27",
       "album": {
+        "name": "You Go to My Head",
+        "url": "https://open.spotify.com/album/5N9kxHTPKQznSLXbwbAfzl"
+      },
+      "artists": [
+        {
+          "name": "Emma Smith",
+          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
+        }
+      ],
+      "duration_ms": 239026,
+      "name": "You Go to My Head",
+      "url": "https://open.spotify.com/track/6i4YrBNk01mgjkPjQ1xPE3"
+    },
+    {
+      "added_at": "2026-03-13 08:31:27",
+      "album": {
         "name": "September in the Rain",
         "url": "https://open.spotify.com/album/6d8P2kjdu2ZttekvM8yTBX"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 248862,
       "name": "September In The Rain",
       "url": "https://open.spotify.com/track/3B1p5fP7kwsWb7WnazHDrS"
-    },
-    {
-      "added_at": "2026-03-13 08:31:27",
-      "album": {
-        "name": "You Go to My Head",
-        "url": "https://open.spotify.com/album/5N9kxHTPKQznSLXbwbAfzl"
-      },
-      "artists": [
-        {
-          "name": "Emma Smith",
-          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
-        }
-      ],
-      "duration_ms": 239026,
-      "name": "You Go to My Head",
-      "url": "https://open.spotify.com/track/6i4YrBNk01mgjkPjQ1xPE3"
     },
     {
       "added_at": "2026-03-13 08:31:27",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2026-03-13 08:31:27",
       "album": {
-        "name": "Didn\u2019t I Tell You So?",
-        "url": "https://open.spotify.com/album/2qf2P1TV4lOkK4wZ1wxNvu"
-      },
-      "artists": [
-        {
-          "name": "Flore Benguigui & The Sensible Notes",
-          "url": "https://open.spotify.com/artist/0fPRM8MswpB7AksdDiE8g6"
-        }
-      ],
-      "duration_ms": 266413,
-      "name": "Didn\u2019t I Tell You So?",
-      "url": "https://open.spotify.com/track/4ufNRAVcnb2PqUadnWhXDW"
-    },
-    {
-      "added_at": "2026-03-13 08:31:27",
-      "album": {
         "name": "That's Why I Love My Baby",
         "url": "https://open.spotify.com/album/55Br3xub7OEkXMpkZB2tk5"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 290730,
       "name": "That's Why I Love My Baby",
       "url": "https://open.spotify.com/track/1CgkJxuZwhMsPNpQBDzr4S"
+    },
+    {
+      "added_at": "2026-03-13 08:31:27",
+      "album": {
+        "name": "Didn\u2019t I Tell You So?",
+        "url": "https://open.spotify.com/album/2qf2P1TV4lOkK4wZ1wxNvu"
+      },
+      "artists": [
+        {
+          "name": "Flore Benguigui & The Sensible Notes",
+          "url": "https://open.spotify.com/artist/0fPRM8MswpB7AksdDiE8g6"
+        }
+      ],
+      "duration_ms": 266413,
+      "name": "Didn\u2019t I Tell You So?",
+      "url": "https://open.spotify.com/track/4ufNRAVcnb2PqUadnWhXDW"
     },
     {
       "added_at": "2026-03-13 08:31:27",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2026-03-13 08:31:27",
       "album": {
-        "name": "Blue Trane",
-        "url": "https://open.spotify.com/album/3RXgzvCKKFbKowuo83Nb3x"
-      },
-      "artists": [
-        {
-          "name": "Eric Reed Trio",
-          "url": "https://open.spotify.com/artist/6lX8wa641FsHnSseVqnG4Q"
-        }
-      ],
-      "duration_ms": 412133,
-      "name": "You're Sensational",
-      "url": "https://open.spotify.com/track/6SCyZl4vel7zvAPj29xqmi"
-    },
-    {
-      "added_at": "2026-03-13 08:31:27",
-      "album": {
         "name": "Happy Moods",
         "url": "https://open.spotify.com/album/0wulNVxoVugGBX7bwAAmGj"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 347453,
       "name": "Pavanne",
       "url": "https://open.spotify.com/track/55vZxzO7OAmh93hLRiM8qB"
+    },
+    {
+      "added_at": "2026-03-13 08:31:27",
+      "album": {
+        "name": "Blue Trane",
+        "url": "https://open.spotify.com/album/3RXgzvCKKFbKowuo83Nb3x"
+      },
+      "artists": [
+        {
+          "name": "Eric Reed Trio",
+          "url": "https://open.spotify.com/artist/6lX8wa641FsHnSseVqnG4Q"
+        }
+      ],
+      "duration_ms": 412133,
+      "name": "You're Sensational",
+      "url": "https://open.spotify.com/track/6SCyZl4vel7zvAPj29xqmi"
     },
     {
       "added_at": "2026-03-13 08:31:27",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2026-03-13 08:31:27",
       "album": {
-        "name": "Rhythm, Melody and Harmony",
-        "url": "https://open.spotify.com/album/76iISZ0E026WTuARiTsbKL"
-      },
-      "artists": [
-        {
-          "name": "Cyrus Chestnut",
-          "url": "https://open.spotify.com/artist/319U6LVt3j3iT9oAEzrpRO"
-        }
-      ],
-      "duration_ms": 396035,
-      "name": "Ami's Dance",
-      "url": "https://open.spotify.com/track/6grxCw2w7dCPLGaouf2CXX"
-    },
-    {
-      "added_at": "2026-03-13 08:31:27",
-      "album": {
         "name": "Markham Sunrise",
         "url": "https://open.spotify.com/album/0rgY5ot2AlZrAwXJhVyChZ"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 193373,
       "name": "Markham Sunrise",
       "url": "https://open.spotify.com/track/7u9obPhFU5UqeWBksk56lP"
+    },
+    {
+      "added_at": "2026-03-13 08:31:27",
+      "album": {
+        "name": "Rhythm, Melody and Harmony",
+        "url": "https://open.spotify.com/album/76iISZ0E026WTuARiTsbKL"
+      },
+      "artists": [
+        {
+          "name": "Cyrus Chestnut",
+          "url": "https://open.spotify.com/artist/319U6LVt3j3iT9oAEzrpRO"
+        }
+      ],
+      "duration_ms": 396035,
+      "name": "Ami's Dance",
+      "url": "https://open.spotify.com/track/6grxCw2w7dCPLGaouf2CXX"
     },
     {
       "added_at": "2026-03-13 08:31:27",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2026-03-13 08:31:27",
       "album": {
-        "name": "Singin' a Melody",
-        "url": "https://open.spotify.com/album/1A6JA1ogqLpX4HlV9APXKG"
-      },
-      "artists": [
-        {
-          "name": "Paul Callander",
-          "url": "https://open.spotify.com/artist/7DxH2g9FfTI6C7CXBTZNtq"
-        }
-      ],
-      "duration_ms": 224786,
-      "name": "Singin' a Melody",
-      "url": "https://open.spotify.com/track/60WNBop8SdFIZZ8PZABZNq"
-    },
-    {
-      "added_at": "2026-03-13 08:31:27",
-      "album": {
         "name": "Benny Thanks",
         "url": "https://open.spotify.com/album/0gtNywZJdNKiixAUPE7UbU"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 358533,
       "name": "Benny Thanks",
       "url": "https://open.spotify.com/track/01MKZzdSQL0byZSNVSZw9L"
+    },
+    {
+      "added_at": "2026-03-13 08:31:27",
+      "album": {
+        "name": "Singin' a Melody",
+        "url": "https://open.spotify.com/album/1A6JA1ogqLpX4HlV9APXKG"
+      },
+      "artists": [
+        {
+          "name": "Paul Callander",
+          "url": "https://open.spotify.com/artist/7DxH2g9FfTI6C7CXBTZNtq"
+        }
+      ],
+      "duration_ms": 224786,
+      "name": "Singin' a Melody",
+      "url": "https://open.spotify.com/track/60WNBop8SdFIZZ8PZABZNq"
     },
     {
       "added_at": "2026-03-13 08:31:27",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2026-03-13 08:31:27",
       "album": {
-        "name": "Delightfulee",
-        "url": "https://open.spotify.com/album/0B2DsJvIiZ9khche2rE4rI"
-      },
-      "artists": [
-        {
-          "name": "Lee Morgan",
-          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
-        }
-      ],
-      "duration_ms": 334626,
-      "name": "Ca-Lee-So - Remastered 2007/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/5GmGwX7LtHc1eQEpwdzsxU"
-    },
-    {
-      "added_at": "2026-03-13 08:31:27",
-      "album": {
         "name": "Love for Sale",
         "url": "https://open.spotify.com/album/6NTUQBVx2PEfQKmrgrSDGe"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 331666,
       "name": "Love for Sale",
       "url": "https://open.spotify.com/track/1mtHnelufpUHbpXf5OEgBd"
+    },
+    {
+      "added_at": "2026-03-13 08:31:27",
+      "album": {
+        "name": "Delightfulee",
+        "url": "https://open.spotify.com/album/0B2DsJvIiZ9khche2rE4rI"
+      },
+      "artists": [
+        {
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+        }
+      ],
+      "duration_ms": 334626,
+      "name": "Ca-Lee-So - Remastered 2007/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/5GmGwX7LtHc1eQEpwdzsxU"
     },
     {
       "added_at": "2026-03-13 08:31:27",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2026-03-13 08:31:27",
       "album": {
-        "name": "Cannonball Takes Charge",
-        "url": "https://open.spotify.com/album/2nrR6HvGvjglD7umMvdj66"
-      },
-      "artists": [
-        {
-          "name": "Cannonball Adderley Quartet",
-          "url": "https://open.spotify.com/artist/7F2B7VhQySTBRaqJqv4NDR"
-        }
-      ],
-      "duration_ms": 219160,
-      "name": "I've Told Ev'ry Little Star",
-      "url": "https://open.spotify.com/track/2wfLEFTytRTwmMgSDlOrap"
-    },
-    {
-      "added_at": "2026-03-13 08:31:27",
-      "album": {
         "name": "Clifford Notes",
         "url": "https://open.spotify.com/album/0eu9KhK30zHyJAzhnxvxNn"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 350533,
       "name": "Clifford Notes",
       "url": "https://open.spotify.com/track/5KYdBRJRZFssSmKvMZKdVh"
+    },
+    {
+      "added_at": "2026-03-13 08:31:27",
+      "album": {
+        "name": "Cannonball Takes Charge",
+        "url": "https://open.spotify.com/album/2nrR6HvGvjglD7umMvdj66"
+      },
+      "artists": [
+        {
+          "name": "Cannonball Adderley Quartet",
+          "url": "https://open.spotify.com/artist/7F2B7VhQySTBRaqJqv4NDR"
+        }
+      ],
+      "duration_ms": 219160,
+      "name": "I've Told Ev'ry Little Star",
+      "url": "https://open.spotify.com/track/2wfLEFTytRTwmMgSDlOrap"
     },
     {
       "added_at": "2026-03-13 08:31:27",

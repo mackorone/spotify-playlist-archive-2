@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Punchline, storytelling, rap italiano. Promessa in cover.",
+  "description": "Punchline, storytelling, rap italiano. \"Dio Esiste\" di Shiva in prima posizione, un brano unico per capire il suo nuovo album.",
   "name": "Liricisti",
   "tracks": [
     {
@@ -738,7 +738,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 157404,
       "name": "Amore Disonesto (feat. Jake La Furia & Carl Brave)",
       "url": "https://open.spotify.com/track/12fsMaTcj5LSds7YjtCM4a"
@@ -2540,6 +2540,24 @@
       "duration_ms": 157050,
       "name": "Dentro di me",
       "url": "https://open.spotify.com/track/7yLuwRipesZLX1xAqY3cjz"
+    },
+    {
+      "album": {
+        "name": "Vangelo",
+        "url": "https://open.spotify.com/album/2gqFeF2xx9zMEwUWRc5UK4"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 411349,
+      "name": "Dio Esiste",
+      "url": "https://open.spotify.com/track/6ErRedGqcOC4HmUEfUneiY"
     },
     {
       "album": {
@@ -4361,6 +4379,24 @@
     },
     {
       "album": {
+        "name": "DARKER MEDIEVAL TIMES",
+        "url": "https://open.spotify.com/album/5Xco5eN1TVKDaNiC5UO0de"
+      },
+      "artists": [
+        {
+          "name": "Ozone Dehumanizer",
+          "url": "https://open.spotify.com/artist/2T7ZaWYc2rjC2q3egoJmh0"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193115,
+      "name": "LA MORTE DEL GRANO (UN CASTELLO Pt. 5)",
+      "url": "https://open.spotify.com/track/5DFW0wfeMFVJhR1WYVFItV"
+    },
+    {
+      "album": {
         "name": "La musica \u00e8 finita",
         "url": "https://open.spotify.com/album/46Ah203CByFYCH483RneX4"
       },
@@ -4650,6 +4686,36 @@
       "duration_ms": 193708,
       "name": "Lettera a Draco",
       "url": "https://open.spotify.com/track/0FXnBTA1NzYrIitGxDphkk"
+    },
+    {
+      "album": {
+        "name": "Levitating High \ud80c\udc79 (con Papa V, Pitta, JOJO ABOT)",
+        "url": "https://open.spotify.com/album/5nEEhbdUfEjej1KVSTn7Tm"
+      },
+      "artists": [
+        {
+          "name": "MACE",
+          "url": "https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1"
+        },
+        {
+          "name": "Papa V",
+          "url": "https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU"
+        },
+        {
+          "name": "Pitta",
+          "url": "https://open.spotify.com/artist/33KV7opyVMdhw1rHHckMDT"
+        },
+        {
+          "name": "Jojo Abot",
+          "url": "https://open.spotify.com/artist/7yR9zhQxEi9sc3vJxS2YG5"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197157,
+      "name": "Levitating High \ud80c\udc79 (con Papa V, Pitta, JOJO ABOT)",
+      "url": "https://open.spotify.com/track/0kbcf0agcQ1YYv0poPbGWd"
     },
     {
       "album": {
@@ -5617,6 +5683,24 @@
     },
     {
       "album": {
+        "name": "NON SO MAI COSA DIRTI",
+        "url": "https://open.spotify.com/album/79WEsEucEJkNlTuB2MQL7K"
+      },
+      "artists": [
+        {
+          "name": "LeeZo",
+          "url": "https://open.spotify.com/artist/6hifLfYY0cuT5LXjnV3xkj"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160114,
+      "name": "NON SO MAI COSA DIRTI",
+      "url": "https://open.spotify.com/track/1e6u6sJESC7glxdUrOZx5F"
+    },
+    {
+      "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/4EqlfFCjsazn5Fnwurza3Q"
       },
@@ -6266,7 +6350,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 159893,
       "name": "PHRATE",
       "url": "https://open.spotify.com/track/6R4abO7BpM4lAJCqrCPpLm"
@@ -6288,7 +6372,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 154285,
       "name": "PICCOLI PEZZI DI INFERNO, Pt. 2",
       "url": "https://open.spotify.com/track/6e73AWyvh3CWBrONKNJzA2"
@@ -6936,7 +7020,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 141570,
       "name": "RUDE BOYS",
       "url": "https://open.spotify.com/track/3LBGbIsWxbjj7ujeigCD14"
@@ -7020,7 +7104,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 152656,
       "name": "SALUTE",
       "url": "https://open.spotify.com/track/5NIkl4dia2BsQwypOUSy4Y"
@@ -7214,7 +7298,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 121445,
       "name": "Sfoghi di una vita complicata 5 (Atto III)",
       "url": "https://open.spotify.com/track/1n6xhi0kch30b174KlxoOB"
@@ -7430,7 +7514,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 201816,
       "name": "SP Finest (feat. Dani Faiv & Samuel Heron)",
       "url": "https://open.spotify.com/track/70ELJWZG3TGh28e0JGhGuz"
@@ -7618,7 +7702,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 176343,
       "name": "Straniero (feat. Tedua)",
       "url": "https://open.spotify.com/track/4nKyIs9RnHzRJSyM5x7BEU"
@@ -7758,6 +7842,24 @@
       "duration_ms": 191202,
       "name": "Top (feat. MadMan)",
       "url": "https://open.spotify.com/track/2aH4Ec7vu87IeXFrtjtR17"
+    },
+    {
+      "album": {
+        "name": "TOP BOY",
+        "url": "https://open.spotify.com/album/0ZnweYsMDMzotgSbWozdu7"
+      },
+      "artists": [
+        {
+          "name": "Helmi",
+          "url": "https://open.spotify.com/artist/2mvMdmcLoPwfaUHlgwRJlj"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116926,
+      "name": "TOP BOY",
+      "url": "https://open.spotify.com/track/7dONqMIllUjN1VztWTWvHf"
     },
     {
       "album": {
@@ -7952,7 +8054,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 209664,
       "name": "TU MI PIACI TANTO",
       "url": "https://open.spotify.com/track/1ByC6cNyFHMIrqTDVf8Urf"
@@ -8061,6 +8163,24 @@
     },
     {
       "album": {
+        "name": "Vangelo",
+        "url": "https://open.spotify.com/album/2gqFeF2xx9zMEwUWRc5UK4"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209333,
+      "name": "V per Vangelo",
+      "url": "https://open.spotify.com/track/4oMiCgeROySnMbUDwH9lt3"
+    },
+    {
+      "album": {
         "name": "Vabbene",
         "url": "https://open.spotify.com/album/4VLKLMa67QkH642Uuxmmok"
       },
@@ -8072,7 +8192,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 129705,
       "name": "Vabbene",
       "url": "https://open.spotify.com/track/2zOLtHrCpfJLULqubanbt6"
@@ -8210,7 +8330,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 218118,
       "name": "Vertigine Soggettiva",
       "url": "https://open.spotify.com/track/0zDVgdDEscFZveCA05m3f1"

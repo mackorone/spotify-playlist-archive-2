@@ -23767,6 +23767,24 @@
     },
     {
       "album": {
+        "name": "Facciamo Magia",
+        "url": "https://open.spotify.com/album/3mESk1TGMe6222vIIp8xMi"
+      },
+      "artists": [
+        {
+          "name": "Artide",
+          "url": "https://open.spotify.com/artist/7JDUHZiaiEls9VVH7hmnNF"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186709,
+      "name": "Facciamo Magia",
+      "url": "https://open.spotify.com/track/14IlnJGHHbt4JzduLMdFMR"
+    },
+    {
+      "album": {
         "name": "Face the Dawn",
         "url": "https://open.spotify.com/album/3kxpN2lIQInXXRtWoHTITh"
       },

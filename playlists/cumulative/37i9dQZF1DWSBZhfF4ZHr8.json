@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise avec Vitaa\n\n",
+  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise avec Mentissa\n\n",
   "name": "Fresh Vari\u00e9t\u00e9",
   "tracks": [
     {
@@ -846,7 +846,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 202887,
       "name": "Capuche",
       "url": "https://open.spotify.com/track/3o7fTezEjBiIScPt4SJvX6"
@@ -3012,7 +3012,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 163500,
       "name": "Je dors",
       "url": "https://open.spotify.com/track/2gtBiMhgr0reYXn2CAoXGP"
@@ -3822,7 +3822,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 182120,
       "name": "La recette",
       "url": "https://open.spotify.com/track/3KJtQJVParlVJopsz3JMnB"
@@ -4100,7 +4100,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 168693,
       "name": "Le choix",
       "url": "https://open.spotify.com/track/7ysVNnjg2Grayml3fkh7u3"
@@ -4404,6 +4404,24 @@
       "duration_ms": 191000,
       "name": "Les cit\u00e9s de l'amour",
       "url": "https://open.spotify.com/track/0QzjHbSKAG3OFYaQrk8kL6"
+    },
+    {
+      "album": {
+        "name": "Les enfants difficiles",
+        "url": "https://open.spotify.com/album/1JEO9RDMrBnYigJNYT3LIU"
+      },
+      "artists": [
+        {
+          "name": "Mentissa",
+          "url": "https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174733,
+      "name": "Les enfants difficiles",
+      "url": "https://open.spotify.com/track/4NBKnMRRoR84w1rVUzLG1u"
     },
     {
       "album": {
@@ -4716,6 +4734,28 @@
       "duration_ms": 171926,
       "name": "Loin de moi",
       "url": "https://open.spotify.com/track/6gFhvz16DS2v7MkyPe0Urr"
+    },
+    {
+      "album": {
+        "name": "Love Noir",
+        "url": "https://open.spotify.com/album/4q3khzl3yEiqMcry65Q4ZW"
+      },
+      "artists": [
+        {
+          "name": "Zaoui",
+          "url": "https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr"
+        },
+        {
+          "name": "St\u00e9phane",
+          "url": "https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171897,
+      "name": "Love Noir",
+      "url": "https://open.spotify.com/track/3QSfWyXeGEpEoMpufPPtot"
     },
     {
       "album": {
@@ -5701,6 +5741,24 @@
     },
     {
       "album": {
+        "name": "On s'trouvera un endroit",
+        "url": "https://open.spotify.com/album/5SFmWNRuXnHKBnJUJeXqid"
+      },
+      "artists": [
+        {
+          "name": "Gr\u00e9goire",
+          "url": "https://open.spotify.com/artist/1WycOcJCIRAH5xyzHXtp1E"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173139,
+      "name": "On s'trouvera un endroit - Radio edit",
+      "url": "https://open.spotify.com/track/27x6gCrmOhEIWJqFyVHHge"
+    },
+    {
+      "album": {
         "name": "On s'\u00e9crira",
         "url": "https://open.spotify.com/album/0cJEP5ecTZ0CObshdrHBCs"
       },
@@ -5858,6 +5916,24 @@
       "duration_ms": 175000,
       "name": "Par coeur (feat. Joseph Kamel)",
       "url": "https://open.spotify.com/track/1grONqhU4gXxscprACJbzW"
+    },
+    {
+      "album": {
+        "name": "Pardon",
+        "url": "https://open.spotify.com/album/11cA5542CyoY9LF0S5HYnY"
+      },
+      "artists": [
+        {
+          "name": "DAYSY",
+          "url": "https://open.spotify.com/artist/6vorHF3qW6vODkQP51kGlk"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157973,
+      "name": "Pardon",
+      "url": "https://open.spotify.com/track/3R5JeMirRv4nyLHcI9EkOG"
     },
     {
       "album": {
@@ -6328,7 +6404,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 178106,
       "name": "Pourquoi ?",
       "url": "https://open.spotify.com/track/58Pie8O9NHYEITXYzkqbLm"
@@ -6476,7 +6552,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 197786,
       "name": "Pr\u00eat \u00e0 t'aimer",
       "url": "https://open.spotify.com/track/71pTdNcN3lieAQj3BPDn13"
@@ -7144,6 +7220,24 @@
       "duration_ms": 137790,
       "name": "Si demain",
       "url": "https://open.spotify.com/track/46qwIhwXsPtMoZ3XI3Y64e"
+    },
+    {
+      "album": {
+        "name": "Si demain",
+        "url": "https://open.spotify.com/album/4x9Wyihz0Lb0oQDNElmaue"
+      },
+      "artists": [
+        {
+          "name": "Ulysse",
+          "url": "https://open.spotify.com/artist/0IHkcxD79oKnHexJ1D7fuQ"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173538,
+      "name": "Si demain",
+      "url": "https://open.spotify.com/track/31WGWqkDwSns46RDfvBJ0C"
     },
     {
       "album": {
@@ -7988,6 +8082,24 @@
       "duration_ms": 168400,
       "name": "Toxic et Chic",
       "url": "https://open.spotify.com/track/5r1IA22XOXDAmjs7nsfBnP"
+    },
+    {
+      "album": {
+        "name": "Luiza",
+        "url": "https://open.spotify.com/album/5nEO73oNBTQBDq3qdYpnov"
+      },
+      "artists": [
+        {
+          "name": "LUIZA",
+          "url": "https://open.spotify.com/artist/3K5sYlHk7RZimjYhUWej8D"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 3",
+      "url": "https://open.spotify.com/track/74vHwfc0huNsTubsZMqtj4"
     },
     {
       "album": {

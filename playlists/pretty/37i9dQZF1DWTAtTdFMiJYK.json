@@ -1,6 +1,6 @@
 {
   "description": "Most exciting artists from the Indian Indie scene. Cover: rohh",
-  "num_followers": 191110,
+  "num_followers": 191146,
   "original_name": "RADAR India",
   "owner": {
     "name": "Spotify",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-04-01 06:25:26",
       "album": {
-        "name": "Jadoo",
-        "url": "https://open.spotify.com/album/4rgE2Rxo1YshL8GlEJNNL1"
-      },
-      "artists": [
-        {
-          "name": "Akshath",
-          "url": "https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo"
-        }
-      ],
-      "duration_ms": 190601,
-      "name": "Jadoo",
-      "url": "https://open.spotify.com/track/5MQLDkiEagOTLKpfa59a06"
-    },
-    {
-      "added_at": "2026-04-01 06:25:26",
-      "album": {
         "name": "Sukoon",
         "url": "https://open.spotify.com/album/47WoZdif6vZZqDdgWCG4A1"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 186393,
       "name": "Sukoon",
       "url": "https://open.spotify.com/track/1WXLlS4NR1Fzg44gF54ESK"
+    },
+    {
+      "added_at": "2026-04-01 06:25:26",
+      "album": {
+        "name": "Jadoo",
+        "url": "https://open.spotify.com/album/4rgE2Rxo1YshL8GlEJNNL1"
+      },
+      "artists": [
+        {
+          "name": "Akshath",
+          "url": "https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo"
+        }
+      ],
+      "duration_ms": 190601,
+      "name": "Jadoo",
+      "url": "https://open.spotify.com/track/5MQLDkiEagOTLKpfa59a06"
     },
     {
       "added_at": "2026-04-01 06:25:26",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2026-04-01 06:25:26",
       "album": {
-        "name": "Tere Bina",
-        "url": "https://open.spotify.com/album/3oqzq7uP6IgsI8o8ZTUENB"
-      },
-      "artists": [
-        {
-          "name": "KASYAP",
-          "url": "https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP"
-        }
-      ],
-      "duration_ms": 172823,
-      "name": "Tere Bina",
-      "url": "https://open.spotify.com/track/6k1hBhDbcwyh1KuSFAoLTJ"
-    },
-    {
-      "added_at": "2026-04-01 06:25:26",
-      "album": {
         "name": "CIRCLES",
         "url": "https://open.spotify.com/album/2D2JEphFbPsxbthC89eH1t"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 172352,
       "name": "Dariya",
       "url": "https://open.spotify.com/track/6Y9PQMcP2PwspzZvKbMG6w"
+    },
+    {
+      "added_at": "2026-04-01 06:25:26",
+      "album": {
+        "name": "Tere Bina",
+        "url": "https://open.spotify.com/album/3oqzq7uP6IgsI8o8ZTUENB"
+      },
+      "artists": [
+        {
+          "name": "KASYAP",
+          "url": "https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP"
+        }
+      ],
+      "duration_ms": 172823,
+      "name": "Tere Bina",
+      "url": "https://open.spotify.com/track/6k1hBhDbcwyh1KuSFAoLTJ"
     },
     {
       "added_at": "2026-04-01 06:25:26",
@@ -1375,30 +1375,6 @@
     {
       "added_at": "2026-04-01 06:25:26",
       "album": {
-        "name": "Tholi Prema",
-        "url": "https://open.spotify.com/album/3Fg6AMNJy3EcRsTpgIStGM"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Suswaram",
-          "url": "https://open.spotify.com/artist/4EkZTRchmIwvMOzBbpSwue"
-        },
-        {
-          "name": "Sterlin Nithya",
-          "url": "https://open.spotify.com/artist/5wAHgitCqGE2CIxPWWd9To"
-        },
-        {
-          "name": "Anirudh Shandilya Maramraju",
-          "url": "https://open.spotify.com/artist/5A40qkks1e66VxtdLbbdzo"
-        }
-      ],
-      "duration_ms": 278117,
-      "name": "Tholi Prema",
-      "url": "https://open.spotify.com/track/1n0vHglFsfr7zFQOybh9IA"
-    },
-    {
-      "added_at": "2026-04-01 06:25:26",
-      "album": {
         "name": "Kaise Ho Tum",
         "url": "https://open.spotify.com/album/6AnZMvLRQAA3WNH5OXC4ZJ"
       },
@@ -1419,6 +1395,30 @@
       "duration_ms": 163899,
       "name": "Kaise Ho Tum",
       "url": "https://open.spotify.com/track/3Uwok7aLLQyXhfqNlekSim"
+    },
+    {
+      "added_at": "2026-04-01 06:25:26",
+      "album": {
+        "name": "Tholi Prema",
+        "url": "https://open.spotify.com/album/3Fg6AMNJy3EcRsTpgIStGM"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Suswaram",
+          "url": "https://open.spotify.com/artist/4EkZTRchmIwvMOzBbpSwue"
+        },
+        {
+          "name": "Sterlin Nithya",
+          "url": "https://open.spotify.com/artist/5wAHgitCqGE2CIxPWWd9To"
+        },
+        {
+          "name": "Anirudh Shandilya Maramraju",
+          "url": "https://open.spotify.com/artist/5A40qkks1e66VxtdLbbdzo"
+        }
+      ],
+      "duration_ms": 278117,
+      "name": "Tholi Prema",
+      "url": "https://open.spotify.com/track/1n0vHglFsfr7zFQOybh9IA"
     },
     {
       "added_at": "2026-04-01 06:25:26",

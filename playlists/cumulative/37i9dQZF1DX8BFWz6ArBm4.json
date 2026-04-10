@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Andromache",
+  "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Stan",
   "name": "Laika tou Simera",
   "tracks": [
     {
@@ -654,7 +654,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-16",
+      "date_removed": null,
       "duration_ms": 202615,
       "name": "De Ginetai",
       "url": "https://open.spotify.com/track/0qE3a0JDePYhl0ml3Dy1oe"
@@ -2088,7 +2088,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 240071,
       "name": "Kenouries Meres",
       "url": "https://open.spotify.com/track/5BgJaJcoUx5iZmbYwxl1ew"
@@ -4096,7 +4096,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 428383,
       "name": "Ta Erotika Part 2 - Unplugged Live Medley",
       "url": "https://open.spotify.com/track/3q1xdKVTR8dI1A4Udmp4jt"
@@ -4743,6 +4743,24 @@
     },
     {
       "album": {
+        "name": "Ta Dika Mou Nisiotika",
+        "url": "https://open.spotify.com/album/4yHDv2u45TqswVzz6mB29k"
+      },
+      "artists": [
+        {
+          "name": "Stan",
+          "url": "https://open.spotify.com/artist/07u8NOOlwGmNmQjU9whua2"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225434,
+      "name": "Tou Horiou Mou Ta Sokakia",
+      "url": "https://open.spotify.com/track/1tmJFGLIJbUWWRdmXZ3T1Q"
+    },
+    {
+      "album": {
         "name": "Parea Me Ton Pano - Live",
         "url": "https://open.spotify.com/album/2l6v9zoA8e61cZ0DAHsVth"
       },
@@ -4776,6 +4794,32 @@
       "duration_ms": 174550,
       "name": "Trexe",
       "url": "https://open.spotify.com/track/1BOqkrm3T91AWJzAPiht2K"
+    },
+    {
+      "album": {
+        "name": "Ala...Palia (Live)",
+        "url": "https://open.spotify.com/album/4cWesOXygA9F6DdFy4wdCK"
+      },
+      "artists": [
+        {
+          "name": "Giannis Ploutarhos",
+          "url": "https://open.spotify.com/artist/152y903Cqyk9GVl6amOtuD"
+        },
+        {
+          "name": "Katerina",
+          "url": "https://open.spotify.com/artist/4YmXcY5FDRoG6AqbYr1niU"
+        },
+        {
+          "name": "Giorgos Kakosaios",
+          "url": "https://open.spotify.com/artist/4uyuai6Pqgz3kSx1Jme2PJ"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161814,
+      "name": "Tzamaika - Live From Athens, Greece / 2026",
+      "url": "https://open.spotify.com/track/1ykIbJe0wczOTWYEv1gu9x"
     },
     {
       "album": {
@@ -4892,7 +4936,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 226987,
       "name": "Xereis Pollous?",
       "url": "https://open.spotify.com/track/4oiQ25jJItB6XnfXAj3MgY"

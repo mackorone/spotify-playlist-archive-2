@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-672 songs - 1 day 16 hr 20 min
+673 songs - 1 day 16 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -419,7 +419,7 @@
 | [Officer of Love](https://open.spotify.com/track/0g7exrz3J7Ew9Et3NKOopv) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Officer of Love](https://open.spotify.com/album/32KEzI5ktqL3XmYP81n8mk) | 3:59 | 2023-12-21 | 2024-04-19 |
 | [Officer of Love](https://open.spotify.com/track/4KhBvLbRr58rHPF24bdL9Q) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Officer of Love](https://open.spotify.com/album/7JQPBE6v0PxayunYaJ0CiT) | 3:59 | 2021-12-16 | 2024-02-14 |
 | [Oh Boredom \(Schmaltz City, USA\)](https://open.spotify.com/track/79084mepy4vAEG416uZxO7) | [Star Parks](https://open.spotify.com/artist/0yRum3Q7Dqnt8kl4MdO7TH) | [The New Sounds of Late Capitalism](https://open.spotify.com/album/1FvsGwOIqTWvoXHo5wleVE) | 3:42 | 2021-12-30 | 2022-07-29 |
-| [Oh Honey](https://open.spotify.com/track/4eDePvo9VfLNLmp8RcSAoy) | [Neighbor Lady](https://open.spotify.com/artist/5a6aoCNPAYj5AE6RbenOB6) | [Maybe Later](https://open.spotify.com/album/7yocoFhxAHU4mvE0anaPFm) | 3:30 | 2024-08-14 |  |
+| [Oh Honey](https://open.spotify.com/track/4eDePvo9VfLNLmp8RcSAoy) | [Neighbor Lady](https://open.spotify.com/artist/5a6aoCNPAYj5AE6RbenOB6) | [Maybe Later](https://open.spotify.com/album/7yocoFhxAHU4mvE0anaPFm) | 3:30 | 2024-08-14 | 2026-04-10 |
 | [Oh, Loretta!](https://open.spotify.com/track/4HqxTpbXpLO1jgKJppk8Gl) | [Sex on Toast](https://open.spotify.com/artist/7w6CFgYRRBheH4QOpa7xzI) | [Oh, Loretta!](https://open.spotify.com/album/53svbquW0UhEwPQ5TBUTbP) | 4:29 | 2022-03-30 | 2022-07-13 |
 | [Olha a Pipa](https://open.spotify.com/track/68pDys3d4esHKAntxrVFW5) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Alô Alô, Como Vai?](https://open.spotify.com/album/0FUD8ug6knwMxpVzAQRmEi) | 4:22 | 2021-12-16 | 2022-07-29 |
 | [On + Off](https://open.spotify.com/track/2kvwSbG26eHKUJdvH7DiR2) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:41 | 2022-12-28 | 2025-04-30 |
@@ -651,6 +651,7 @@
 | [When You Lose Someone](https://open.spotify.com/track/42cVZAhX13JCHwrvlfqLcB) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [Sticking With It](https://open.spotify.com/album/4lcsKKAPES2jYFmtSyRH95) | 3:25 | 2023-06-20 | 2024-08-09 |
 | [Where Did You Go?](https://open.spotify.com/track/58mvOmBNIhIehSYvwgRUyN) | [Sam Evian](https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu) | [You, Forever](https://open.spotify.com/album/7uOn3dpPMtthc9fx89AcPX) | 3:19 | 2022-03-30 | 2022-04-21 |
 | [Where You Belong](https://open.spotify.com/track/0WPOxxoEVoglAvhqroDpQA) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [New Me, Same Us](https://open.spotify.com/album/3PuofR78j1BFBGBrNCCYUF) | 3:27 | 2021-12-16 |  |
+| [Where's My Beach Hat](https://open.spotify.com/track/0W7ID3fBwiarBoHqETvlXh) | [FLEECE](https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm) | [TORNADO](https://open.spotify.com/album/1u7lnVv0gqzo6TNSSvjojv) | 3:24 | 2026-03-19 |  |
 | [Why I Came To California](https://open.spotify.com/track/3UevP4SvSdMJULZZr5ZBkA) | [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [Why I Came To California](https://open.spotify.com/album/4OM02rEXhwCm8dfTUFGIHO) | 4:39 | 2021-12-16 | 2022-07-29 |
 | [Why Why Why Why Why](https://open.spotify.com/track/4zwq3QUKgMNk0NSLl7fpbP) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [5](https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb) | 3:58 | 2021-12-16 | 2024-12-10 |
 | [Will You Promise](https://open.spotify.com/track/6Ted7KB5tLxmuxHMTOjzj9) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [My Love and Music](https://open.spotify.com/album/2gdtgeYm3JCSFzgxuqN1u0) | 3:46 | 2022-03-30 | 2022-04-17 |

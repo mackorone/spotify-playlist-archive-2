@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 
 > Jazz, but make it funky\. Cover: Skinny Hightower
 
-[Spotify](https://open.spotify.com/user/spotify) - 412,769 likes - 200 songs - 15 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 412,850 likes - 200 songs - 15 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 2 | [Devotion](https://open.spotify.com/track/322s1Mr5j33uwYVgjfGGFl) | [Skinny Hightower](https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx) | [Devotion](https://open.spotify.com/album/04yzrf8Eda4ydshQ2N28X7) | 5:29 |
 | 3 | [MF AF](https://open.spotify.com/track/0lbv0rx3b5SOFlEYkqpHRa) | [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [Trio Asesino](https://open.spotify.com/album/3LuLM488LxdVh6nVAcRcxz) | 3:27 |
 | 4 | [Func and Sync](https://open.spotify.com/track/2HdQikKS2fg54LTLZdYEl6) | [DEZOLVE](https://open.spotify.com/artist/69bAmAy4oS266wXyJiColS) | [Biblion](https://open.spotify.com/album/3WyrqB5eaj7SntTwHwz5Yj) | 5:38 |
-| 5 | [Flame Keeper \(feat\. Hiromi & Chris Potter\)](https://open.spotify.com/track/1i0Qw2NzM4wCLWpGcoKsEj) | [Lakecia Benjamin](https://open.spotify.com/artist/6hvjxbUASJd6bHds2Teaul), [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [Chris Potter](https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB) | [Flame Keeper \(feat\. Hiromi & Chris Potter\)](https://open.spotify.com/album/49FD9U3KdMEUWMqe7gMXiV) | 6:25 |
+| 5 | [Flame Keeper](https://open.spotify.com/track/1i0Qw2NzM4wCLWpGcoKsEj) | [Lakecia Benjamin](https://open.spotify.com/artist/6hvjxbUASJd6bHds2Teaul), [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [Chris Potter](https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB) | [Flame Keeper](https://open.spotify.com/album/49FD9U3KdMEUWMqe7gMXiV) | 6:25 |
 | 6 | [Morning Cry](https://open.spotify.com/track/6hs6fldhuYp37VBNUzHXS5) | [Flea](https://open.spotify.com/artist/0Xl5J6iOgiQHFqgri7TF8j) | [Honora](https://open.spotify.com/album/4RsSlnwkUAvEtg0Tk86HnM) | 3:31 |
 | 7 | [Saturday Spin](https://open.spotify.com/track/25IsRCpUTWaCkjrmIY8sBF) | [Huntertones](https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd) | [Saturday Spin](https://open.spotify.com/album/6QRxprqYsThnDDV4ClgMTR) | 4:05 |
 | 8 | [Felonious Funk](https://open.spotify.com/track/4U8YLPp4f8IEq5fp14nRtZ) | [Oli Parker](https://open.spotify.com/artist/4o7rOtAAYgrNOZrnxG8t9g) | [Felonious Funk](https://open.spotify.com/album/48ArWKWs0wy1OLEdXRyDVD) | 3:43 |

@@ -1,6 +1,6 @@
 {
   "description": "\u00e9 cabelo preto \u00e9 cabelo loiro os cara n tem nem a\u00ed pra NADA",
-  "num_followers": 1451532,
+  "num_followers": 1451489,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -227,38 +227,6 @@
     {
       "added_at": "2026-03-27 03:01:06",
       "album": {
-        "name": "A Danada Me Ligando",
-        "url": "https://open.spotify.com/album/5JSy0y2EhIpd2duve74FqE"
-      },
-      "artists": [
-        {
-          "name": "MC Cebezinho",
-          "url": "https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF"
-        },
-        {
-          "name": "DJ Oreia",
-          "url": "https://open.spotify.com/artist/1b8S7EPzdckRyIh0uSbOMI"
-        },
-        {
-          "name": "MC Tuto",
-          "url": "https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
-        },
-        {
-          "name": "Kako",
-          "url": "https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm"
-        }
-      ],
-      "duration_ms": 283636,
-      "name": "A Danada Me Ligando",
-      "url": "https://open.spotify.com/track/3H7eBmcTJyuEMStfmKuLmG"
-    },
-    {
-      "added_at": "2026-03-27 03:01:06",
-      "album": {
         "name": "Mixtape Chir\u00f3",
         "url": "https://open.spotify.com/album/2hqitsZt4GZdgn7lFxw08S"
       },
@@ -287,6 +255,38 @@
       "duration_ms": 213284,
       "name": "Fashion",
       "url": "https://open.spotify.com/track/3bpNcH1SCEMn6zuynZGY5e"
+    },
+    {
+      "added_at": "2026-03-27 03:01:06",
+      "album": {
+        "name": "A Danada Me Ligando",
+        "url": "https://open.spotify.com/album/5JSy0y2EhIpd2duve74FqE"
+      },
+      "artists": [
+        {
+          "name": "MC Cebezinho",
+          "url": "https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF"
+        },
+        {
+          "name": "DJ Oreia",
+          "url": "https://open.spotify.com/artist/1b8S7EPzdckRyIh0uSbOMI"
+        },
+        {
+          "name": "MC Tuto",
+          "url": "https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        },
+        {
+          "name": "Kako",
+          "url": "https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm"
+        }
+      ],
+      "duration_ms": 283636,
+      "name": "A Danada Me Ligando",
+      "url": "https://open.spotify.com/track/3H7eBmcTJyuEMStfmKuLmG"
     },
     {
       "added_at": "2026-03-27 03:01:06",
@@ -711,6 +711,26 @@
     {
       "added_at": "2026-03-27 03:01:06",
       "album": {
+        "name": "Eu Venci o Mundo",
+        "url": "https://open.spotify.com/album/21FP96bn6KdYTSe5zCbhZT"
+      },
+      "artists": [
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "duration_ms": 107906,
+      "name": "Belieber",
+      "url": "https://open.spotify.com/track/0bek7IePM9EuMiDI6cGQJB"
+    },
+    {
+      "added_at": "2026-03-27 03:01:06",
+      "album": {
         "name": "S\u00f3 Lazer",
         "url": "https://open.spotify.com/album/3Md1QIrZ8uJcL3kc7r2Lha"
       },
@@ -735,26 +755,6 @@
       "duration_ms": 156000,
       "name": "S\u00f3 Lazer",
       "url": "https://open.spotify.com/track/4ZB2u5sSF8TVCrQRsSJHTE"
-    },
-    {
-      "added_at": "2026-03-27 03:01:06",
-      "album": {
-        "name": "Eu Venci o Mundo",
-        "url": "https://open.spotify.com/album/21FP96bn6KdYTSe5zCbhZT"
-      },
-      "artists": [
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        }
-      ],
-      "duration_ms": 107906,
-      "name": "Belieber",
-      "url": "https://open.spotify.com/track/0bek7IePM9EuMiDI6cGQJB"
     },
     {
       "added_at": "2026-03-27 03:01:06",
@@ -1179,6 +1179,30 @@
     {
       "added_at": "2026-03-27 03:01:06",
       "album": {
+        "name": "ADRENALINA",
+        "url": "https://open.spotify.com/album/4DQWPyCz5m3VdWT8ueitYJ"
+      },
+      "artists": [
+        {
+          "name": "AF!RMA",
+          "url": "https://open.spotify.com/artist/5ezbyJgINANhxowRLAUoXS"
+        },
+        {
+          "name": "Oklin",
+          "url": "https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A"
+        },
+        {
+          "name": "NandaTsunami",
+          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
+        }
+      ],
+      "duration_ms": 155789,
+      "name": "ADRENALINA",
+      "url": "https://open.spotify.com/track/50pkxDzzTceIjWcxcTRE5l"
+    },
+    {
+      "added_at": "2026-03-27 03:01:06",
+      "album": {
         "name": "DOISMILEVINTEHOJE",
         "url": "https://open.spotify.com/album/2MmHJyDkIZTxHq8rWnS5Nw"
       },
@@ -1207,30 +1231,6 @@
       "duration_ms": 187317,
       "name": "Pasta Registrada",
       "url": "https://open.spotify.com/track/4Ft94JOZnqVfteZzQikmLl"
-    },
-    {
-      "added_at": "2026-03-27 03:01:06",
-      "album": {
-        "name": "ADRENALINA",
-        "url": "https://open.spotify.com/album/4DQWPyCz5m3VdWT8ueitYJ"
-      },
-      "artists": [
-        {
-          "name": "AF!RMA",
-          "url": "https://open.spotify.com/artist/5ezbyJgINANhxowRLAUoXS"
-        },
-        {
-          "name": "Oklin",
-          "url": "https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A"
-        },
-        {
-          "name": "NandaTsunami",
-          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
-        }
-      ],
-      "duration_ms": 155789,
-      "name": "ADRENALINA",
-      "url": "https://open.spotify.com/track/50pkxDzzTceIjWcxcTRE5l"
     },
     {
       "added_at": "2026-03-27 03:01:06",
@@ -1307,6 +1307,26 @@
     {
       "added_at": "2026-03-27 03:01:06",
       "album": {
+        "name": "Lovebombing / Seu Telefone",
+        "url": "https://open.spotify.com/album/22fD8mavDvlPf8BQftRw5D"
+      },
+      "artists": [
+        {
+          "name": "Maui",
+          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
+        },
+        {
+          "name": "CL FEZ O BEAT",
+          "url": "https://open.spotify.com/artist/2So8OpBawO4DEcHETTaXV8"
+        }
+      ],
+      "duration_ms": 164250,
+      "name": "Lovebombing",
+      "url": "https://open.spotify.com/track/1qpumVwIo1NMZmw0RcIHb9"
+    },
+    {
+      "added_at": "2026-03-27 03:01:06",
+      "album": {
         "name": "DOISMILEVINTEHOJE",
         "url": "https://open.spotify.com/album/2MmHJyDkIZTxHq8rWnS5Nw"
       },
@@ -1335,26 +1355,6 @@
       "duration_ms": 162461,
       "name": "Monop\u00f3lio",
       "url": "https://open.spotify.com/track/4N3LI6Agfo5feFoVJHx5ti"
-    },
-    {
-      "added_at": "2026-03-27 03:01:06",
-      "album": {
-        "name": "Lovebombing / Seu Telefone",
-        "url": "https://open.spotify.com/album/22fD8mavDvlPf8BQftRw5D"
-      },
-      "artists": [
-        {
-          "name": "Maui",
-          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
-        },
-        {
-          "name": "CL FEZ O BEAT",
-          "url": "https://open.spotify.com/artist/2So8OpBawO4DEcHETTaXV8"
-        }
-      ],
-      "duration_ms": 164250,
-      "name": "Lovebombing",
-      "url": "https://open.spotify.com/track/1qpumVwIo1NMZmw0RcIHb9"
     },
     {
       "added_at": "2026-03-27 03:01:06",
@@ -1435,6 +1435,30 @@
     {
       "added_at": "2026-03-27 03:01:06",
       "album": {
+        "name": "\u00c1rea de Risco",
+        "url": "https://open.spotify.com/album/1GmwM4nchLSfQeXgGdyR9b"
+      },
+      "artists": [
+        {
+          "name": "Tchelo",
+          "url": "https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY"
+        },
+        {
+          "name": "LPT Zlatan",
+          "url": "https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX"
+        },
+        {
+          "name": "retroboy",
+          "url": "https://open.spotify.com/artist/4R7j2XUkuutFO0MePvfASY"
+        }
+      ],
+      "duration_ms": 158965,
+      "name": "\u00c1rea de Risco",
+      "url": "https://open.spotify.com/track/2sQALYsMKzAQkx1JWDkokz"
+    },
+    {
+      "added_at": "2026-03-27 03:01:06",
+      "album": {
         "name": "DOISMILEVINTEHOJE",
         "url": "https://open.spotify.com/album/2MmHJyDkIZTxHq8rWnS5Nw"
       },
@@ -1463,30 +1487,6 @@
       "duration_ms": 155624,
       "name": "SP",
       "url": "https://open.spotify.com/track/0mr4y9WuzyWE8i8VsSZBCD"
-    },
-    {
-      "added_at": "2026-03-27 03:01:06",
-      "album": {
-        "name": "\u00c1rea de Risco",
-        "url": "https://open.spotify.com/album/1GmwM4nchLSfQeXgGdyR9b"
-      },
-      "artists": [
-        {
-          "name": "Tchelo",
-          "url": "https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY"
-        },
-        {
-          "name": "LPT Zlatan",
-          "url": "https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX"
-        },
-        {
-          "name": "retroboy",
-          "url": "https://open.spotify.com/artist/4R7j2XUkuutFO0MePvfASY"
-        }
-      ],
-      "duration_ms": 158965,
-      "name": "\u00c1rea de Risco",
-      "url": "https://open.spotify.com/track/2sQALYsMKzAQkx1JWDkokz"
     },
     {
       "added_at": "2026-03-27 03:01:06",

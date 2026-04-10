@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6ejV2Sv22Q.md) - [plain]
 
 > aquí está la nueva ola 🌊  GRLS en cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,613 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,617 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,10 +20,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6ejV2Sv22Q.md) - [plain]
 | 10 | [HIPERSENTIMENTAL](https://open.spotify.com/track/5t0ZcTps5IkNBBaiFKoyD0) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj) | [HIPERSENTIMENTAL](https://open.spotify.com/album/5bincVY2lII0BNPSEDAN6f) | 2:45 |
 | 11 | [Solo Tú](https://open.spotify.com/track/7JntxAuRu7kNc5VEG8lYpw) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2), [Fabuloso](https://open.spotify.com/artist/5DAsxR5uOROQzdxAjq6SLX) | [Solo Tú](https://open.spotify.com/album/6NBJ0uap9XoJK4vtAQNL3F) | 3:45 |
 | 12 | [05 quientedioflores](https://open.spotify.com/track/6hJhcYe60OY6kZfMpwXaFw) | [El Verumcito](https://open.spotify.com/artist/0Xe3f3OUBfpL0WbRwAJXwY), [Mi Compa el Chino](https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4) | [05 quientedioflores](https://open.spotify.com/album/6cTAxoDx16xMXyxz7m67jy) | 2:03 |
-| 13 | [pa que \(feat\. Ed Maverick\)](https://open.spotify.com/track/5smAUZtCCJCcHv2qyknRgt) | [bpuntito](https://open.spotify.com/artist/7hpawMsfyoRG0gF7VAwv9u), [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [pa que \(feat\. Ed Maverick\)](https://open.spotify.com/album/54zMR9xpK3l6DHhjitr4Qd) | 3:16 |
+| 13 | [pa que](https://open.spotify.com/track/5smAUZtCCJCcHv2qyknRgt) | [bpuntito](https://open.spotify.com/artist/7hpawMsfyoRG0gF7VAwv9u) | [pa que](https://open.spotify.com/album/54zMR9xpK3l6DHhjitr4Qd) | 3:16 |
 | 14 | [Igual que soñar](https://open.spotify.com/track/6WG7WbWnWR3foHtrJVpnI4) | [Azul de Viena](https://open.spotify.com/artist/2Ie8P8WAdI3FMvEuWS52pQ) | [Igual que soñar](https://open.spotify.com/album/78AIAwazkGra8NjRO8cTQY) | 3:04 |
 | 15 | [empezar al revés](https://open.spotify.com/track/6M2sc6l4w1wCSZSwE3HVMj) | [babas tutsipop](https://open.spotify.com/artist/0AkKSLTBRMdJBQU3olOlMv), [valverdina](https://open.spotify.com/artist/03a8aFqbYAPqmQ8pJxyUmS) | [empezar al revés](https://open.spotify.com/album/0ubjYBDDdREIRUBqRgoY5D) | 3:22 |
-| 16 | [DESAYUNO](https://open.spotify.com/track/0HzR43DWFYrLKz4TZRhOgE) | [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh) | [DESAYUNO](https://open.spotify.com/album/6HHvcp0vkHkmyDJOmiNBp2) | 2:27 |
+| 16 | [DESAYUNO](https://open.spotify.com/track/0HzR43DWFYrLKz4TZRhOgE) | [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh), [Eiti](https://open.spotify.com/artist/6Q1zzyq7SwqX6JhLAIKl3I) | [DESAYUNO](https://open.spotify.com/album/6HHvcp0vkHkmyDJOmiNBp2) | 2:27 |
 | 17 | [HUNNIDS](https://open.spotify.com/track/1uOZNTADpDCLZ8QHm4Z4N0) | [Nash](https://open.spotify.com/artist/4YBfycQ7b5Nim6IepjpnO3), [AVIDA](https://open.spotify.com/artist/0SaMMRxNxzFncj6IHV94px) | [HUNNIDS](https://open.spotify.com/album/2zgR4mWjl7KZB6JJgNNRbm) | 2:41 |
 | 18 | [Money In The Bank](https://open.spotify.com/track/42A4pvjwzWcxyacNq7Ap0D) | [FLVCKKA](https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN), [Hillkidd](https://open.spotify.com/artist/4nk1I74jOOJiPdKPU6GfWk) | [Money In The Bank](https://open.spotify.com/album/77NZxHnTWUNZaWWUekbE2q) | 2:34 |
 | 19 | [QLITO](https://open.spotify.com/track/0RKTiJZsgX7KTmfUev6MkH) | [LYLY!](https://open.spotify.com/artist/2hbrINwBSsd5qyvoC62yzB), [Plata Shail](https://open.spotify.com/artist/5QIgS0S5tO51LnPTrJeLsl), [Charly Gynn](https://open.spotify.com/artist/3ozO2Uj1PEP2h2SzFVTgYT) | [LA MAGIA DEL SWAG](https://open.spotify.com/album/3HRWqQLp29oI0sRyWrUmoD) | 2:18 |

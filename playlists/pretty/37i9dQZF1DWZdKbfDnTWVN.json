@@ -1,15 +1,35 @@
 {
-  "description": "The best of bars, beats & rhymes from the 254. Cover: <a href=\"https://open.spotify.com/artist/0BODXRyhRpJie8h9qpZb9E?si=nX6GQ_XZRXC2RqLhWYj6aQ\"> Vallerie Muthoni</a> ",
-  "num_followers": 21897,
+  "description": "The best of bars, beats & rhymes from the 254. Cover: <a href=\"https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az?si=bwxFNSQ_QcuacRy0nrEU3A\"> Khaligraph Jones</a> ",
+  "num_followers": 21930,
   "original_name": "254 Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL8GtA33Pc2yPY73KYjIV2RS2Evf",
+  "snapshot_id": "AAAAANzNu3KCvbwOrkbauuENic1bdg+f",
   "tracks": [
     {
-      "added_at": "2026-04-02 23:59:16",
+      "added_at": "2026-04-09 23:00:36",
+      "album": {
+        "name": "Hallelujah (Washwash)",
+        "url": "https://open.spotify.com/album/6Q9LLJEQ2HRWbyzJO73MER"
+      },
+      "artists": [
+        {
+          "name": "Khaligraph Jones",
+          "url": "https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az"
+        },
+        {
+          "name": "Bensoul",
+          "url": "https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE"
+        }
+      ],
+      "duration_ms": 245551,
+      "name": "Hallelujah (Washwash)",
+      "url": "https://open.spotify.com/track/4l43H3GIY1HQ9gMOArHPpj"
+    },
+    {
+      "added_at": "2026-04-09 23:00:36",
       "album": {
         "name": "Bad Everyday",
         "url": "https://open.spotify.com/album/5kPrLWslg79OTdErJO5wfe"
@@ -25,23 +45,7 @@
       "url": "https://open.spotify.com/track/3WL6zAHhNf0vfdIhRv8O61"
     },
     {
-      "added_at": "2026-04-02 23:59:16",
-      "album": {
-        "name": "GENJE SANA",
-        "url": "https://open.spotify.com/album/6hnSRzBdC44V77fIMsEc7U"
-      },
-      "artists": [
-        {
-          "name": "BURUKLYN BOYZ",
-          "url": "https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU"
-        }
-      ],
-      "duration_ms": 249600,
-      "name": "GENJE SANA",
-      "url": "https://open.spotify.com/track/64n1TOe9NxsNoNKyyKiwN7"
-    },
-    {
-      "added_at": "2026-04-02 23:59:16",
+      "added_at": "2026-04-09 23:00:36",
       "album": {
         "name": "TAI CHI",
         "url": "https://open.spotify.com/album/74ObmRduVbQb7FYmFOcsIg"
@@ -57,7 +61,23 @@
       "url": "https://open.spotify.com/track/5dc28G1bMYFNGsSc1D5uA7"
     },
     {
-      "added_at": "2026-04-02 23:59:16",
+      "added_at": "2026-04-09 23:00:36",
+      "album": {
+        "name": "GENJE SANA",
+        "url": "https://open.spotify.com/album/6hnSRzBdC44V77fIMsEc7U"
+      },
+      "artists": [
+        {
+          "name": "BURUKLYN BOYZ",
+          "url": "https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "GENJE SANA",
+      "url": "https://open.spotify.com/track/64n1TOe9NxsNoNKyyKiwN7"
+    },
+    {
+      "added_at": "2026-04-09 23:00:36",
       "album": {
         "name": "NOT THE SAME",
         "url": "https://open.spotify.com/album/49iDBMze5NdLCBnxrWuXMB"
@@ -73,7 +93,7 @@
       "url": "https://open.spotify.com/track/3RbtVIrJUITRDbVQcXMybi"
     },
     {
-      "added_at": "2026-04-02 23:59:16",
+      "added_at": "2026-04-09 23:00:36",
       "album": {
         "name": "88 Bars 2",
         "url": "https://open.spotify.com/album/7cXYbAziuXaew9vzFt0HvC"
@@ -93,7 +113,7 @@
       "url": "https://open.spotify.com/track/73ZImg0oR84KSCpsOOLo3r"
     },
     {
-      "added_at": "2026-04-02 23:59:16",
+      "added_at": "2026-04-09 23:00:36",
       "album": {
         "name": "Case Mbaya",
         "url": "https://open.spotify.com/album/5mBNz6NR5btKi6sv3FFdpd"
@@ -113,7 +133,7 @@
       "url": "https://open.spotify.com/track/4P5cGSIGkw2m71SRbdPPkv"
     },
     {
-      "added_at": "2026-04-02 23:59:16",
+      "added_at": "2026-04-09 23:00:36",
       "album": {
         "name": "Walahi",
         "url": "https://open.spotify.com/album/6ftxWRRtp5VCOOoB9jvJfo"
@@ -129,7 +149,7 @@
       "url": "https://open.spotify.com/track/4RglRKBc2F3upPtrIUicMD"
     },
     {
-      "added_at": "2026-04-02 23:59:16",
+      "added_at": "2026-04-09 23:00:36",
       "album": {
         "name": "Billie Jean",
         "url": "https://open.spotify.com/album/6Yilc06FkfWjNPxwyGUTlJ"
@@ -145,7 +165,7 @@
       "url": "https://open.spotify.com/track/0eNG4ozPjfW70AckUaLbZD"
     },
     {
-      "added_at": "2026-04-02 23:59:16",
+      "added_at": "2026-04-09 23:00:36",
       "album": {
         "name": "Size Yangu",
         "url": "https://open.spotify.com/album/4FN4VntIYxM8Na8dKi56oI"
@@ -161,7 +181,7 @@
       "url": "https://open.spotify.com/track/6utizuiC57vASUDzmt1T7Y"
     },
     {
-      "added_at": "2026-04-02 23:59:16",
+      "added_at": "2026-04-09 23:00:36",
       "album": {
         "name": "Running Late",
         "url": "https://open.spotify.com/album/54hU3DYQbPEOHiiuhSFI1Z"
@@ -181,55 +201,7 @@
       "url": "https://open.spotify.com/track/77OEOwuTMCp4rLmgGiGF8k"
     },
     {
-      "added_at": "2026-04-02 23:59:16",
-      "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/6tgB1mNZSQEZyha1P7skgi"
-      },
-      "artists": [
-        {
-          "name": "Ares66",
-          "url": "https://open.spotify.com/artist/2a94Tj87iis1QVu6hMCZwd"
-        }
-      ],
-      "duration_ms": 154800,
-      "name": "Nijea",
-      "url": "https://open.spotify.com/track/3fBfSl58u7RmJOit53saMA"
-    },
-    {
-      "added_at": "2026-04-02 23:59:16",
-      "album": {
-        "name": "WAMEYO",
-        "url": "https://open.spotify.com/album/50PbsZcJA7h3IvcpTDVRTU"
-      },
-      "artists": [
-        {
-          "name": "Elsy Wameyo",
-          "url": "https://open.spotify.com/artist/57yHK6QAG0l9vigstf9F2T"
-        }
-      ],
-      "duration_ms": 143529,
-      "name": "CRASH OUT",
-      "url": "https://open.spotify.com/track/5g0joA89W8BZMNNOeZQo57"
-    },
-    {
-      "added_at": "2026-04-02 23:59:16",
-      "album": {
-        "name": "Grace Ya God",
-        "url": "https://open.spotify.com/album/53CLMpjuNbOHNIx3tZfrSK"
-      },
-      "artists": [
-        {
-          "name": "Odi Wa Muranga",
-          "url": "https://open.spotify.com/artist/789Et77m6EivwPJBTtEcu8"
-        }
-      ],
-      "duration_ms": 161308,
-      "name": "Grace Ya God",
-      "url": "https://open.spotify.com/track/6zXGzlGNUQQ8YpXIM381Lc"
-    },
-    {
-      "added_at": "2026-04-02 23:59:16",
+      "added_at": "2026-04-09 23:00:36",
       "album": {
         "name": "Stick",
         "url": "https://open.spotify.com/album/6PGhi1qr9j4NQ225Ml79l2"
@@ -249,7 +221,71 @@
       "url": "https://open.spotify.com/track/4aIRrp8XnsnOQMRgN672Gq"
     },
     {
-      "added_at": "2026-04-02 23:59:16",
+      "added_at": "2026-04-09 23:00:36",
+      "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/6tgB1mNZSQEZyha1P7skgi"
+      },
+      "artists": [
+        {
+          "name": "Ares66",
+          "url": "https://open.spotify.com/artist/2a94Tj87iis1QVu6hMCZwd"
+        }
+      ],
+      "duration_ms": 154800,
+      "name": "Nijea",
+      "url": "https://open.spotify.com/track/3fBfSl58u7RmJOit53saMA"
+    },
+    {
+      "added_at": "2026-04-09 23:00:36",
+      "album": {
+        "name": "WAMEYO",
+        "url": "https://open.spotify.com/album/50PbsZcJA7h3IvcpTDVRTU"
+      },
+      "artists": [
+        {
+          "name": "Elsy Wameyo",
+          "url": "https://open.spotify.com/artist/57yHK6QAG0l9vigstf9F2T"
+        }
+      ],
+      "duration_ms": 143529,
+      "name": "CRASH OUT",
+      "url": "https://open.spotify.com/track/5g0joA89W8BZMNNOeZQo57"
+    },
+    {
+      "added_at": "2026-04-09 23:00:36",
+      "album": {
+        "name": "Grace Ya God",
+        "url": "https://open.spotify.com/album/53CLMpjuNbOHNIx3tZfrSK"
+      },
+      "artists": [
+        {
+          "name": "Odi Wa Muranga",
+          "url": "https://open.spotify.com/artist/789Et77m6EivwPJBTtEcu8"
+        }
+      ],
+      "duration_ms": 161308,
+      "name": "Grace Ya God",
+      "url": "https://open.spotify.com/track/6zXGzlGNUQQ8YpXIM381Lc"
+    },
+    {
+      "added_at": "2026-04-09 23:00:36",
+      "album": {
+        "name": "Dumpsite",
+        "url": "https://open.spotify.com/album/3Sog79yWAUA8ozZ5L9fSVQ"
+      },
+      "artists": [
+        {
+          "name": "Toxic Lyrikali",
+          "url": "https://open.spotify.com/artist/53nMUZwbwGd2cdY8P8EsHD"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Dumpsite",
+      "url": "https://open.spotify.com/track/5H4uc6iJErn2eNANePcdkm"
+    },
+    {
+      "added_at": "2026-04-09 23:00:36",
       "album": {
         "name": "Side Hii",
         "url": "https://open.spotify.com/album/07arGqg5UyYlDYJcUoD95g"
@@ -265,7 +301,7 @@
       "url": "https://open.spotify.com/track/6iYlDamEIl6ZYV2ZXcZuFQ"
     },
     {
-      "added_at": "2026-04-02 23:59:16",
+      "added_at": "2026-04-09 23:00:36",
       "album": {
         "name": "The Mission(WYFL Riddim)",
         "url": "https://open.spotify.com/album/3FhP31BYNsGzuBBz0GFEi7"
@@ -289,7 +325,7 @@
       "url": "https://open.spotify.com/track/4dMcXQiha2cDuq7kZbwpvN"
     },
     {
-      "added_at": "2026-04-02 23:59:16",
+      "added_at": "2026-04-09 23:00:36",
       "album": {
         "name": "Headbad",
         "url": "https://open.spotify.com/album/2ShL63845HXSH4JdMs84Wy"
@@ -305,23 +341,7 @@
       "url": "https://open.spotify.com/track/7C36WScRDN9B2h87LNPtEL"
     },
     {
-      "added_at": "2026-04-02 23:59:16",
-      "album": {
-        "name": "Dumpsite",
-        "url": "https://open.spotify.com/album/3Sog79yWAUA8ozZ5L9fSVQ"
-      },
-      "artists": [
-        {
-          "name": "Toxic Lyrikali",
-          "url": "https://open.spotify.com/artist/53nMUZwbwGd2cdY8P8EsHD"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Dumpsite",
-      "url": "https://open.spotify.com/track/5H4uc6iJErn2eNANePcdkm"
-    },
-    {
-      "added_at": "2026-04-02 23:59:16",
+      "added_at": "2026-04-09 23:00:36",
       "album": {
         "name": "Stima",
         "url": "https://open.spotify.com/album/20UzvlZ4IeLx9TMjWo5TVX"
@@ -337,7 +357,7 @@
       "url": "https://open.spotify.com/track/4yMmgQM500SeOmDKygvZ11"
     },
     {
-      "added_at": "2026-04-02 23:59:16",
+      "added_at": "2026-04-09 23:00:36",
       "album": {
         "name": "Kuja Udoe",
         "url": "https://open.spotify.com/album/5pgwcWeJLLPOPlQHE1tibR"
@@ -353,7 +373,7 @@
       "url": "https://open.spotify.com/track/6nFBBXSwMi8CYqrwUGopMx"
     },
     {
-      "added_at": "2026-04-02 23:59:16",
+      "added_at": "2026-04-09 23:00:36",
       "album": {
         "name": "In The Meantime",
         "url": "https://open.spotify.com/album/7xsIo2M7BdJkKRFU0oDeui"
@@ -373,7 +393,7 @@
       "url": "https://open.spotify.com/track/7CRfPZ0sCnJXihgHnXDD7q"
     },
     {
-      "added_at": "2026-04-02 23:59:16",
+      "added_at": "2026-04-09 23:00:36",
       "album": {
         "name": "Uspimee",
         "url": "https://open.spotify.com/album/2oyV5vgWv2H5PvTFYexZQK"
@@ -389,7 +409,7 @@
       "url": "https://open.spotify.com/track/0xirX2KdpdLGaYeoyWRLu1"
     },
     {
-      "added_at": "2026-04-02 23:59:16",
+      "added_at": "2026-04-09 23:00:36",
       "album": {
         "name": "Inspekta",
         "url": "https://open.spotify.com/album/6gd8c0ZeDgRk0cuQTptdil"
@@ -413,7 +433,7 @@
       "url": "https://open.spotify.com/track/5dIqhnXaDhlhoZz6VaTtcG"
     },
     {
-      "added_at": "2026-04-02 23:59:16",
+      "added_at": "2026-04-09 23:00:36",
       "album": {
         "name": "Game",
         "url": "https://open.spotify.com/album/4wrGFH0vTdxjiPbrB9ebnA"
@@ -433,7 +453,7 @@
       "url": "https://open.spotify.com/track/2zhNfUMX2X8jzmZ7EXnbik"
     },
     {
-      "added_at": "2026-04-02 23:59:16",
+      "added_at": "2026-04-09 23:00:36",
       "album": {
         "name": "Toka DM",
         "url": "https://open.spotify.com/album/5N0RZBpJm8LYdZ4A3WxZ76"
@@ -449,7 +469,7 @@
       "url": "https://open.spotify.com/track/6oh6IXKCefpxvUd9EizU82"
     },
     {
-      "added_at": "2026-04-02 23:59:16",
+      "added_at": "2026-04-09 23:00:36",
       "album": {
         "name": "Run Nairobi",
         "url": "https://open.spotify.com/album/0DGSwsHAigZSzKmm569ewS"
@@ -465,7 +485,7 @@
       "url": "https://open.spotify.com/track/6gOhSNtadzamlSselRjPqD"
     },
     {
-      "added_at": "2026-04-02 23:59:16",
+      "added_at": "2026-04-09 23:00:36",
       "album": {
         "name": "THE BOOK OF JONES 1st CHAPTER",
         "url": "https://open.spotify.com/album/3dVeAYbIiL1etx0BJ1gYe9"
@@ -485,7 +505,7 @@
       "url": "https://open.spotify.com/track/622bSED9pIr9cjX908B1Kr"
     },
     {
-      "added_at": "2026-04-02 23:59:16",
+      "added_at": "2026-04-09 23:00:36",
       "album": {
         "name": "58 Flava",
         "url": "https://open.spotify.com/album/4aI0mYW2tWLDT44c6zpUdv"
@@ -501,7 +521,7 @@
       "url": "https://open.spotify.com/track/751af64Wdw2dNzBXd1nSpQ"
     },
     {
-      "added_at": "2026-04-02 23:59:16",
+      "added_at": "2026-04-09 23:00:36",
       "album": {
         "name": "Lowkey",
         "url": "https://open.spotify.com/album/6hkWq8uRyyzTvQuVp2J4b8"
@@ -517,7 +537,7 @@
       "url": "https://open.spotify.com/track/5Nq4C0F1Y51E7T8JcStd3i"
     },
     {
-      "added_at": "2026-04-02 23:59:16",
+      "added_at": "2026-04-09 23:00:36",
       "album": {
         "name": "10/10",
         "url": "https://open.spotify.com/album/4Li7OUTp4u77up1Ftl4UTE"
@@ -533,7 +553,7 @@
       "url": "https://open.spotify.com/track/6ELD8bXnTOMJkdFtrXXgMB"
     },
     {
-      "added_at": "2026-04-02 23:59:16",
+      "added_at": "2026-04-09 23:00:36",
       "album": {
         "name": "Rampage",
         "url": "https://open.spotify.com/album/2iw2isGf6Q0s0CSrVhEfN7"
@@ -549,7 +569,7 @@
       "url": "https://open.spotify.com/track/05BYKtXlyf1AJTGXFUXDcP"
     },
     {
-      "added_at": "2026-04-02 23:59:16",
+      "added_at": "2026-04-09 23:00:36",
       "album": {
         "name": "Head Lock",
         "url": "https://open.spotify.com/album/0wpC82P7OYpDHWlwi6Vda0"
@@ -565,7 +585,7 @@
       "url": "https://open.spotify.com/track/0YCYwpblDGL8iNM5mfOkTR"
     },
     {
-      "added_at": "2026-04-02 23:59:16",
+      "added_at": "2026-04-09 23:00:36",
       "album": {
         "name": "Weyuat",
         "url": "https://open.spotify.com/album/6LUXYt1QMVGt38H1fLWARr"
@@ -581,7 +601,7 @@
       "url": "https://open.spotify.com/track/0lQrV1lpPriQmwdwxPcQkg"
     },
     {
-      "added_at": "2026-04-02 23:59:16",
+      "added_at": "2026-04-09 23:00:36",
       "album": {
         "name": "Beautiful Disaster",
         "url": "https://open.spotify.com/album/3lEwYfGV36dasBTeGw50ft"
@@ -597,7 +617,7 @@
       "url": "https://open.spotify.com/track/1GWmWZxXC2rAoOBgioW0C8"
     },
     {
-      "added_at": "2026-04-02 23:59:16",
+      "added_at": "2026-04-09 23:00:36",
       "album": {
         "name": "Glitter Freestyle",
         "url": "https://open.spotify.com/album/09rJonWYTHFC1Vb7cxkQoC"
@@ -613,7 +633,7 @@
       "url": "https://open.spotify.com/track/3OUVusVBJnwyPmiABkQole"
     },
     {
-      "added_at": "2026-04-02 23:59:16",
+      "added_at": "2026-04-09 23:00:36",
       "album": {
         "name": "Vurugu",
         "url": "https://open.spotify.com/album/4MLpbNBaxWWOBs7Q1rPJcx"
@@ -633,7 +653,7 @@
       "url": "https://open.spotify.com/track/0sHUcLFeE5X7z61r3OC2oA"
     },
     {
-      "added_at": "2026-04-02 23:59:16",
+      "added_at": "2026-04-09 23:00:36",
       "album": {
         "name": "Sick Style",
         "url": "https://open.spotify.com/album/35E97RlR8vYJEhIZJEf7Zf"
@@ -657,7 +677,7 @@
       "url": "https://open.spotify.com/track/2xnazUkpbUbQ5hhddzDpE4"
     },
     {
-      "added_at": "2026-04-02 23:59:16",
+      "added_at": "2026-04-09 23:00:36",
       "album": {
         "name": "Daniel",
         "url": "https://open.spotify.com/album/3w3sPmNIGKhlQAZ4p17T98"
@@ -673,7 +693,7 @@
       "url": "https://open.spotify.com/track/7nrGVfMxCmNThFnzh3UV6q"
     },
     {
-      "added_at": "2026-04-02 23:59:16",
+      "added_at": "2026-04-09 23:00:36",
       "album": {
         "name": "November 3rd / Sober",
         "url": "https://open.spotify.com/album/29UO6l2w7BhWNFitdCZPVa"
@@ -689,7 +709,23 @@
       "url": "https://open.spotify.com/track/6LTFRhZucBXu5qyXJDFDKe"
     },
     {
-      "added_at": "2026-04-02 23:59:16",
+      "added_at": "2026-04-09 23:00:36",
+      "album": {
+        "name": "Za Kimotho",
+        "url": "https://open.spotify.com/album/0tBH7nKsc80CuRt6pMkldp"
+      },
+      "artists": [
+        {
+          "name": "Wakadinali",
+          "url": "https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK"
+        }
+      ],
+      "duration_ms": 275997,
+      "name": "Za Kimotho",
+      "url": "https://open.spotify.com/track/2BOPAVjxcp0fXHRPgswq75"
+    },
+    {
+      "added_at": "2026-04-09 23:00:36",
       "album": {
         "name": "Ingine (Remix)",
         "url": "https://open.spotify.com/album/6jE8CjvV76ecHxQaO8neq4"
@@ -733,7 +769,7 @@
       "url": "https://open.spotify.com/track/3GEkV1gdHueMb1A3HlBX0R"
     },
     {
-      "added_at": "2026-04-02 23:59:16",
+      "added_at": "2026-04-09 23:00:36",
       "album": {
         "name": "Best Friend",
         "url": "https://open.spotify.com/album/4XLmUyvv1ibkbTIBuq9pJw"
@@ -749,7 +785,7 @@
       "url": "https://open.spotify.com/track/037SzV5WH8AhIdheNF5eT5"
     },
     {
-      "added_at": "2026-04-02 23:59:16",
+      "added_at": "2026-04-09 23:00:36",
       "album": {
         "name": "NORTHSIDE KID",
         "url": "https://open.spotify.com/album/1CTMcDMrHztlSeoLrTMheH"
@@ -765,7 +801,7 @@
       "url": "https://open.spotify.com/track/0cp8tj8WUeErq8Y3WrBm7a"
     },
     {
-      "added_at": "2026-04-02 23:59:16",
+      "added_at": "2026-04-09 23:00:36",
       "album": {
         "name": "Kelele",
         "url": "https://open.spotify.com/album/2OMOkFjeehJzqSC1i9hkkL"
@@ -781,23 +817,7 @@
       "url": "https://open.spotify.com/track/0t5hjZZlBVdQcOk5RFc5yB"
     },
     {
-      "added_at": "2026-04-02 23:59:16",
-      "album": {
-        "name": "Za Kimotho",
-        "url": "https://open.spotify.com/album/0tBH7nKsc80CuRt6pMkldp"
-      },
-      "artists": [
-        {
-          "name": "Wakadinali",
-          "url": "https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK"
-        }
-      ],
-      "duration_ms": 275997,
-      "name": "Za Kimotho",
-      "url": "https://open.spotify.com/track/2BOPAVjxcp0fXHRPgswq75"
-    },
-    {
-      "added_at": "2026-04-02 23:59:16",
+      "added_at": "2026-04-09 23:00:36",
       "album": {
         "name": "Shillings",
         "url": "https://open.spotify.com/album/7dicXfidFS9Hetg9oJIhlZ"
@@ -817,7 +837,7 @@
       "url": "https://open.spotify.com/track/2C6XiCqTeA0I76gF0VDoO8"
     },
     {
-      "added_at": "2026-04-02 23:59:16",
+      "added_at": "2026-04-09 23:00:36",
       "album": {
         "name": "Bud Flowers",
         "url": "https://open.spotify.com/album/0ay1TKcz0UWlYomQ7jPCyv"
@@ -833,7 +853,7 @@
       "url": "https://open.spotify.com/track/13RzbCfjIuuZqO4TKIotbs"
     },
     {
-      "added_at": "2026-04-02 23:59:16",
+      "added_at": "2026-04-09 23:00:36",
       "album": {
         "name": "Victims Of Madness 2.0",
         "url": "https://open.spotify.com/album/3CcJvNnOM07yBdcrzAPYCI"
@@ -849,7 +869,7 @@
       "url": "https://open.spotify.com/track/5LpEdN7lVszRk6ERt6Mkd1"
     },
     {
-      "added_at": "2026-04-02 23:59:16",
+      "added_at": "2026-04-09 23:00:36",
       "album": {
         "name": "Tululu",
         "url": "https://open.spotify.com/album/5LEqDpzPMX5qoqwlE3NvQB"
@@ -873,7 +893,7 @@
       "url": "https://open.spotify.com/track/4B6FVBw2NBzr9KYwzxcMPW"
     },
     {
-      "added_at": "2026-04-02 23:59:16",
+      "added_at": "2026-04-09 23:00:36",
       "album": {
         "name": "Chinje",
         "url": "https://open.spotify.com/album/10bofBAyhS6uXTHM1SyYzj"
@@ -889,23 +909,7 @@
       "url": "https://open.spotify.com/track/5JO1evNqPbkzI4WfUb3VYL"
     },
     {
-      "added_at": "2026-04-02 23:59:16",
-      "album": {
-        "name": "Confused",
-        "url": "https://open.spotify.com/album/4wp3oUWbtZndvUbhk5c70y"
-      },
-      "artists": [
-        {
-          "name": "Khaligraph Jones",
-          "url": "https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az"
-        }
-      ],
-      "duration_ms": 210860,
-      "name": "Confused",
-      "url": "https://open.spotify.com/track/0mTb2zAevbvlHYmqKBOig2"
-    },
-    {
-      "added_at": "2026-04-02 23:59:16",
+      "added_at": "2026-04-09 23:00:36",
       "album": {
         "name": "Tamashani",
         "url": "https://open.spotify.com/album/16mT8nJlCtejplp5sboqFo"
@@ -933,7 +937,7 @@
       "url": "https://open.spotify.com/track/4e6DgpDMuNbeQyi2WW81CY"
     },
     {
-      "added_at": "2026-04-02 23:59:16",
+      "added_at": "2026-04-09 23:00:36",
       "album": {
         "name": "Properly (feat. Femi One)",
         "url": "https://open.spotify.com/album/64iIqEzTMDg4yLrNkKVRFo"
@@ -953,7 +957,7 @@
       "url": "https://open.spotify.com/track/7z2iv6bToqzdx8puIywKFI"
     },
     {
-      "added_at": "2026-04-02 23:59:16",
+      "added_at": "2026-04-09 23:00:36",
       "album": {
         "name": "Sleep Over",
         "url": "https://open.spotify.com/album/5aAencpib03BcH5kyvI5hE"
@@ -969,7 +973,7 @@
       "url": "https://open.spotify.com/track/1hG0Vqqrd35XJgD0qIGOAP"
     },
     {
-      "added_at": "2026-04-02 23:59:16",
+      "added_at": "2026-04-09 23:00:36",
       "album": {
         "name": "Denge Dingo",
         "url": "https://open.spotify.com/album/5yeDQRen76ZhABwq4zsQrj"

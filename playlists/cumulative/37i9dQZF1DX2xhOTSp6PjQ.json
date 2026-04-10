@@ -2371,6 +2371,32 @@
     },
     {
       "album": {
+        "name": "ISIQHELELENE",
+        "url": "https://open.spotify.com/album/63I3pTNlzgixtqCUgf2x8z"
+      },
+      "artists": [
+        {
+          "name": "Foliswa",
+          "url": "https://open.spotify.com/artist/3PdaMAje7z6LQdCfSnKdpp"
+        },
+        {
+          "name": "Mjolisi",
+          "url": "https://open.spotify.com/artist/241x5prRiXJmnk4vSGEHcr"
+        },
+        {
+          "name": "Airic",
+          "url": "https://open.spotify.com/artist/0S2ETsPPHUZzY2dR742NuO"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263759,
+      "name": "ISIQHELELENE",
+      "url": "https://open.spotify.com/track/1rpOcdiVBhAvkBVsSLZoLI"
+    },
+    {
+      "album": {
         "name": "Aliboli Icala",
         "url": "https://open.spotify.com/album/1abs0KR9WTKPBC7jpUKML8"
       },
@@ -4532,6 +4558,24 @@
       "duration_ms": 250546,
       "name": "Thuma mina baba",
       "url": "https://open.spotify.com/track/6EWALyShL2Ho7YW1pKfhsv"
+    },
+    {
+      "album": {
+        "name": "Number 10",
+        "url": "https://open.spotify.com/album/7grvU2KtNU99HxAZOMpanN"
+      },
+      "artists": [
+        {
+          "name": "LIMIT NALA",
+          "url": "https://open.spotify.com/artist/0ysbLY7TUvj3AKV2W7ZCFY"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/64IDZtuNc4Dr11IuScSmvq"
     },
     {
       "album": {

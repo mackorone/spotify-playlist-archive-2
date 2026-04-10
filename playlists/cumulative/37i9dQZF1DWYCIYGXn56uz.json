@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-28",
-  "description": "\u26a1\ufe0f qui un sacco di musica giovane \u26a1\ufe0f Cover: Sarah Toscano",
+  "description": "\u26a1\ufe0f qui un sacco di musica giovane \u26a1\ufe0f Cover: CLARA\n",
   "name": "GENERAZIONE Z",
   "tracks": [
     {
@@ -1370,6 +1370,24 @@
       "duration_ms": 171391,
       "name": "Arma Puntata (feat. 22simba)",
       "url": "https://open.spotify.com/track/2tchckpnk6RZ2yPyB09eeG"
+    },
+    {
+      "album": {
+        "name": "Arrivederci pi\u00f9",
+        "url": "https://open.spotify.com/album/5kvLBKt8Q33vfm9z04aVxt"
+      },
+      "artists": [
+        {
+          "name": "Alex Wyse",
+          "url": "https://open.spotify.com/artist/4ZRTfGCmMJ305FMDCiD1cZ"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180663,
+      "name": "Arrivederci pi\u00f9",
+      "url": "https://open.spotify.com/track/4hc80iqVSXb8wmVcp23pP4"
     },
     {
       "album": {
@@ -4986,10 +5004,28 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 159339,
       "name": "Dime",
       "url": "https://open.spotify.com/track/0i3haIHPJKfwJULX4ZaObz"
+    },
+    {
+      "album": {
+        "name": "Dimmelo tu",
+        "url": "https://open.spotify.com/album/4Powg4QrPhuucXUvYmurHG"
+      },
+      "artists": [
+        {
+          "name": "Lorenzo Salvetti",
+          "url": "https://open.spotify.com/artist/6oWt3cQ0VpQx0ZxguU1Dh7"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169090,
+      "name": "Dimmelo tu",
+      "url": "https://open.spotify.com/track/5ZJXEdQ0i5MYGi24F7VSv2"
     },
     {
       "album": {
@@ -5594,7 +5630,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 175509,
       "name": "e chiss\u00e0 se ricordo",
       "url": "https://open.spotify.com/track/20Z0C8sO3t1SaTaHnOEGST"
@@ -6180,6 +6216,24 @@
       "duration_ms": 192304,
       "name": "FEBBRE",
       "url": "https://open.spotify.com/track/2no1HLYjXuCpr4Gf4XVhXg"
+    },
+    {
+      "album": {
+        "name": "Felice nella media",
+        "url": "https://open.spotify.com/album/1FpgiYACInTmGnOaksFsMs"
+      },
+      "artists": [
+        {
+          "name": "Beatrice Quinta",
+          "url": "https://open.spotify.com/artist/3Jk1Qjo5P7yOQIBVkqUzet"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155520,
+      "name": "Felice nella media",
+      "url": "https://open.spotify.com/track/0b5XYBv0mZuYbnlnrn65LR"
     },
     {
       "album": {
@@ -7642,7 +7696,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 169484,
       "name": "Ho paura di te",
       "url": "https://open.spotify.com/track/1MqKjl6hubJ0JwRa5up6fl"
@@ -8888,7 +8942,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 173506,
       "name": "LA MIA STORIA",
       "url": "https://open.spotify.com/track/1xTTY2MpWNW0A9DwuMbPeB"
@@ -10965,6 +11019,24 @@
     },
     {
       "album": {
+        "name": "Mi Piaci Tu",
+        "url": "https://open.spotify.com/album/4ABZGICzxfWvwk00glsTlM"
+      },
+      "artists": [
+        {
+          "name": "Dennis",
+          "url": "https://open.spotify.com/artist/1vnH30sVlnl0NIuGUcLz3y"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213571,
+      "name": "Mi Piaci Tu",
+      "url": "https://open.spotify.com/track/4I0iVHiZc59d8Pf4kz0mUM"
+    },
+    {
+      "album": {
         "name": "Mi prender\u00f2 cura di te",
         "url": "https://open.spotify.com/album/65ln0kOw6FDR63nVEmwBeQ"
       },
@@ -12965,6 +13037,24 @@
     },
     {
       "album": {
+        "name": "OK Scusa Errore Mio",
+        "url": "https://open.spotify.com/album/1MXXmolM5zHQu2VOzWSXup"
+      },
+      "artists": [
+        {
+          "name": "edoEdo",
+          "url": "https://open.spotify.com/artist/7y8r29XzidWpzDmSuhHZVP"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159677,
+      "name": "OK Scusa Errore Mio",
+      "url": "https://open.spotify.com/track/3ijkWq1YsQ3Amor35yHS47"
+    },
+    {
+      "album": {
         "name": "OLVIDAR (feat. Lemonero)",
         "url": "https://open.spotify.com/album/01lDydLrjpaQc1PvoAsOk8"
       },
@@ -13380,7 +13470,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 203114,
       "name": "Parcheggio a ore",
       "url": "https://open.spotify.com/track/5KmTqT6ge16FNylMiKzNXK"
@@ -18757,6 +18847,24 @@
     },
     {
       "album": {
+        "name": "UN POSTO DOVE ANDARE",
+        "url": "https://open.spotify.com/album/6hWE6qtN7dH991wZMXEIHM"
+      },
+      "artists": [
+        {
+          "name": "Nicol\u00f2 Filippucci",
+          "url": "https://open.spotify.com/artist/5v11UeQ72AbrburRA8fkMi"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192352,
+      "name": "Tutto Tempesta",
+      "url": "https://open.spotify.com/track/0qB1D1xjTid1xyfmpvG2RA"
+    },
+    {
+      "album": {
         "name": "Tutto tutto tutto dentro",
         "url": "https://open.spotify.com/album/41kMfjirhn6vzYWaYXDTR5"
       },
@@ -20150,7 +20258,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 192985,
       "name": "Wanda",
       "url": "https://open.spotify.com/track/3eh9Xjh0bmSkd0Q1N7jx3Y"

@@ -4,7 +4,7 @@
 
 > Hymns for darker hours.
 
-405 songs - 1 day 7 hr 50 min
+406 songs - 1 day 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Deep Sleep](https://open.spotify.com/track/4X7JMAvRcF8rgaV4fJ8d1P) | [Justin Jet Zorbas](https://open.spotify.com/artist/10G9N5ABjyamTFBEAsquNs) | [Deep Sleep](https://open.spotify.com/album/5O7uv7294ePjrCEK6MtxQS) | 1:12 | 2026-04-03 |  |
 | [desire](https://open.spotify.com/track/2iGqv7qz2OYRpcGWk2PnPl) | [Eleftherios](https://open.spotify.com/artist/6z7DDiVB1Cca0P1VcsvxM9), [Swik](https://open.spotify.com/artist/7IgAHxP7vH6TfXJtf8Kbai) | [desire](https://open.spotify.com/album/3T6ykddCLOhg1LTfpE4AsV) | 2:21 | 2026-04-03 |  |
 | [Devolve](https://open.spotify.com/track/1jeJGhWMq94e9tg5L39ccP) | [Glenneth](https://open.spotify.com/artist/1J1OlnQmAupMJMAlLDgnEa) | [The All in Every This](https://open.spotify.com/album/7tuuQi7mWGgrgXx43c19y9) | 8:31 | 2022-01-21 |  |
+| [DIFFRACTION](https://open.spotify.com/track/1JbpdOUCh7u0DuFVKuSfQG) | [Mattia Cupelli](https://open.spotify.com/artist/7aMMDRtoKETQscQlRZ7IFp) | [DIFFRACTION](https://open.spotify.com/album/3qvz19pBnMSPqpdePVZxin) | 5:13 | 2026-04-03 |  |
 | [Displacement \- KMRU rework](https://open.spotify.com/track/2wUujeRMhcXXettDljS5Hl) | [Rafael Anton Irisarri](https://open.spotify.com/artist/6AdRO941ZEDh4GHcCUdEs4), [KMRU](https://open.spotify.com/artist/5blZUSGq0z7HhuSldSXV3a) | [Displacement \(KMRU rework\)](https://open.spotify.com/album/3k0N6eVV7JYpyxEd7cHdu7) | 4:16 | 2025-11-06 |  |
 | [Disregarding Time](https://open.spotify.com/track/6z5Wi1WMciQrg9v9J1Wz9X) | [Innesti](https://open.spotify.com/artist/6vjQzIlQxwDP0miO2oGoXE) | [Folding, A Study](https://open.spotify.com/album/6wiGtb9WnjxZWTe2XFq3Bk) | 5:07 | 2022-12-30 |  |
 | [Distant Sun](https://open.spotify.com/track/2dKFafH1SkummNxPHVNRSC) | [Warmth](https://open.spotify.com/artist/687UOpjghQt4KG3gfqJy5d) | [Distant Sun](https://open.spotify.com/album/5iQpyU13TrYymWLXCYZS8L) | 2:46 | 2023-09-01 | 2023-09-11 |
@@ -319,7 +320,7 @@
 | [Snow Path](https://open.spotify.com/track/2LbQFXXIL6JRJodBGTJcXZ) | [Kylie Karlsson](https://open.spotify.com/artist/0YlpsaWcW0FShzeBUFIJQI) | [Snow Path](https://open.spotify.com/album/4t7m8bS6vq9OMXJz2iLQw0) | 5:44 | 2024-05-28 | 2026-03-14 |
 | [Sometimes underwater \(feels like home\) \(Part 2\)](https://open.spotify.com/track/375WScoEe0HawG4gcfLAyi) | [A Space for Sound](https://open.spotify.com/artist/0tB57d7NG95iMYhPjbGZdg) | [Sometimes underwater \(feels like home\)](https://open.spotify.com/album/4ub2LzKfuW0gKMItp5ZFNp) | 4:56 | 2025-12-04 | 2026-03-14 |
 | [Sorgjâl](https://open.spotify.com/track/1TCMjJrTpnQauIWksCcbzn) | [Massimo Silverio](https://open.spotify.com/artist/70EQNEibJfmCE7J5k4t1JI) | [Sorgjâl](https://open.spotify.com/album/4pSwRtFgic9SIdVqAu2oRB) | 10:00 | 2025-06-19 | 2026-02-28 |
-| [sorrow](https://open.spotify.com/track/3jmystjJsETJZzxr63nIC2) | [farben](https://open.spotify.com/artist/22v57006zkEwBCeeNK4UCn) | [sorrow](https://open.spotify.com/album/7MOHUV19EFMmvC5BYKtCou) | 1:15 | 2026-04-03 | 2026-04-05 |
+| [sorrow](https://open.spotify.com/track/3jmystjJsETJZzxr63nIC2) | [farben](https://open.spotify.com/artist/22v57006zkEwBCeeNK4UCn) | [sorrow](https://open.spotify.com/album/7MOHUV19EFMmvC5BYKtCou) | 1:15 | 2026-04-03 |  |
 | [Spectacle Of Ritual](https://open.spotify.com/track/2BqFBCxmlTAYLklSuyWi7y) | [Kali Malone](https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9) | [The Sacrificial Code](https://open.spotify.com/album/5Hyb3LlbP8DIVP4zsMOwlw) | 10:53 | 2023-12-01 | 2024-04-19 |
 | [Spectacle Of Ritual](https://open.spotify.com/track/62SMTFdXWQ4g8UMcgk0WLz) | [Kali Malone](https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9) | [The Sacrificial Code](https://open.spotify.com/album/3uZXkg8c5Ibsvuz1ZSpeSD) | 10:53 | 2022-01-21 | 2024-05-14 |
 | [Spectral Bed](https://open.spotify.com/track/2DcsWdWwtgobqxJsWo6A8o) | [Syntropy](https://open.spotify.com/artist/15uMPKXIhc1TJIxf0rdZoU) | [Spectral Bed](https://open.spotify.com/album/4AP055koJGcpDShMaLgxJo) | 4:14 | 2024-05-28 | 2026-03-14 |
@@ -351,7 +352,7 @@
 | [The Church](https://open.spotify.com/track/4F7ezw5Lid54Yo7xQ5v4U0) | [Ben Salisbury](https://open.spotify.com/artist/3WifYZsO8WO6hGlWIDM4Zq), [Geoff Barrow](https://open.spotify.com/artist/53b2a4ytPlelgBJYLLocWh) | [Men \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3EoXQyNGzvmUFgVkIMnidn) | 4:25 | 2023-10-06 | 2023-10-26 |
 | [The Church \- From The "Men" Original Motion Picture Soundtrack](https://open.spotify.com/track/0fQkf9YaBHEzdT0SpsdCVx) | [Ben Salisbury](https://open.spotify.com/artist/3WifYZsO8WO6hGlWIDM4Zq), [Geoff Barrow](https://open.spotify.com/artist/53b2a4ytPlelgBJYLLocWh) | [The Church \(From The "Men" Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2GnIduqIk7FJKEDgKLfLmr) | 4:25 | 2022-05-06 | 2022-07-28 |
 | [the day she was born](https://open.spotify.com/track/3CJ9LWONrGZf5dJd4CwT1l) | [fauxe.](https://open.spotify.com/artist/681FiFPQPUSRknJn11zylo) | [the day she was born](https://open.spotify.com/album/4uFAjHWFl5sHlKzH9r5KEa) | 1:50 | 2026-04-03 |  |
-| [The Distance \- Slowed](https://open.spotify.com/track/4EME3335xHgRETXiT0wYKE) | [Warmth](https://open.spotify.com/artist/687UOpjghQt4KG3gfqJy5d) | [The Distance \(Slowed\)](https://open.spotify.com/album/0ganyllgclUc8rdKBqDQW9) | 3:38 | 2023-10-06 |  |
+| [The Distance \- Slowed](https://open.spotify.com/track/4EME3335xHgRETXiT0wYKE) | [Warmth](https://open.spotify.com/artist/687UOpjghQt4KG3gfqJy5d) | [The Distance \(Slowed\)](https://open.spotify.com/album/0ganyllgclUc8rdKBqDQW9) | 3:38 | 2023-10-06 | 2026-04-10 |
 | [the distance between us](https://open.spotify.com/track/2QN2myMPxIyn2rsqU3FpFR) | [monosleep](https://open.spotify.com/artist/2rHHKIugCALDXcAaYryNCt) | [a world of possibility](https://open.spotify.com/album/6w6EdQV1km9T25x209Q4sx) | 2:30 | 2022-08-17 |  |
 | [The Edges](https://open.spotify.com/track/2x4K92FhxeJAmTiptxMijO) | [Rachika Nayar](https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ) | [Our Hands Against the Dusk](https://open.spotify.com/album/0m89bXpdmBFJzyIA4j6ZWH) | 5:07 | 2022-01-21 | 2023-04-30 |
 | [The Edges](https://open.spotify.com/track/6TFOEo0xcW0GhpVrubea9k) | [Rachika Nayar](https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ) | [Our Hands Against the Dusk](https://open.spotify.com/album/6mtOF3M7pLQTQZlPtAFwn9) | 5:07 | 2023-06-29 | 2024-04-19 |
@@ -392,7 +393,7 @@
 | [Vanished](https://open.spotify.com/track/2L5heX1aiNXS90ddDcEmx1) | [Sounds M](https://open.spotify.com/artist/2NaVCoohbahnm2WjNXW8Gn) | [Vanished](https://open.spotify.com/album/5Bx2FSekEMhJX6J6jrNOis) | 3:15 | 2022-02-25 | 2022-12-30 |
 | [Vi är överallt](https://open.spotify.com/track/1IMyiFwhS3ZIinvYEp2ivG) | [Orphan Ann](https://open.spotify.com/artist/633FjCdzULVbn0CjE820vK) | [The Practice Of Surrender](https://open.spotify.com/album/5UprmCqRU9acn6C6oITQhL) | 5:00 | 2022-01-21 | 2024-10-05 |
 | [Vilja](https://open.spotify.com/track/32CngTyROmI3rQzQly467Z) | [Mats Erlandsson](https://open.spotify.com/artist/5HAu4Np5pmLMUoI194nAEs) | [Minnesmärke](https://open.spotify.com/album/2xqi6xom8eHt1GyEbidRm1) | 19:08 | 2022-01-21 | 2022-07-29 |
-| [Vow](https://open.spotify.com/track/59KxNMmQnuIMMoHsCu7vPX) | [TDSOM](https://open.spotify.com/artist/3DPfgW4qhyNleslbUz2Efn) | [Vow](https://open.spotify.com/album/3o9XrLC64TF8IjbyuSbmNy) | 3:56 | 2022-03-25 |  |
+| [Vow](https://open.spotify.com/track/59KxNMmQnuIMMoHsCu7vPX) | [TDSOM](https://open.spotify.com/artist/3DPfgW4qhyNleslbUz2Efn) | [Vow](https://open.spotify.com/album/3o9XrLC64TF8IjbyuSbmNy) | 3:56 | 2022-03-25 | 2026-04-10 |
 | [wake up](https://open.spotify.com/track/1kABbt163rQnhsQ3rElVNu) | [Blu Velvet](https://open.spotify.com/artist/4GhQUESEKnWAUS4d9pcSS8) | [wake up](https://open.spotify.com/album/6G6lpAPRRKhwH2HUtvskfz) | 2:39 | 2026-04-03 |  |
 | [Walk on the Beach](https://open.spotify.com/track/1iNDieYXrhrnWc2Ko7JNZw) | [Death and Vanilla](https://open.spotify.com/artist/7GSTcEvn1BkC3eucAlvBwt) | [Whistle and I'll Come to You](https://open.spotify.com/album/6eOPeNnNU9fWgZ5caG9xnS) | 4:07 | 2025-07-03 |  |
 | [Wasa Stone Trio](https://open.spotify.com/track/3CJv88R1gtnn1xrC2NOW5G) | [CTM](https://open.spotify.com/artist/7yaj7l8QczhEsLttuFDaRz), [August Rosenbaum](https://open.spotify.com/artist/60jACvCiMkGWezYS8VZXQ4) | [Celeste](https://open.spotify.com/album/5KVMzzZ01MJxw5Sd9qvdCY) | 2:15 | 2022-01-21 | 2025-07-07 |

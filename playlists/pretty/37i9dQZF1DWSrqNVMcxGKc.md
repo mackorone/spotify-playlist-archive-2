@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrqNVMcxGKc.md) - [plain]
 
 > Tous les classiques du rap français dans une seule playlist ! Photo : Ärsenik
 
-[Spotify](https://open.spotify.com/user/spotify) - 400,559 likes - 60 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 400,573 likes - 60 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrqNVMcxGKc.md) - [plain]
 | 42 | [Undaground connexion](https://open.spotify.com/track/0HHG5v9DKrvsCuXG1pUJ5p) | [Assasin](https://open.spotify.com/artist/5Rvs4rQWz3s8S1U9HQDJXO), [Supernatural](https://open.spotify.com/artist/3imos1CMHVKIIqsh3RWcl9) | [100% Classique Rap Français, vol\. 1](https://open.spotify.com/album/52EIzWwL809gvcGzoVGCrr) | 6:13 |
 | 43 | [Ma destinée](https://open.spotify.com/track/7aRLhyupq4euxoT5lSGHvw) | [Youssoupha](https://open.spotify.com/artist/5DW7NxqQ2875JtjuV7KMn4) | [À chaque frère](https://open.spotify.com/album/5QrkRiQ9eqm5reEYeETYFH) | 4:11 |
 | 44 | [L'impertinent](https://open.spotify.com/track/4noS6GiHvecd2uXwYJBPR0) | [Fabe](https://open.spotify.com/artist/5Jh4UFOCWwleD3kcd88xyh) | [Détournement de son](https://open.spotify.com/album/0Xm6bbsRBZq7puPAveJF0a) | 3:50 |
-| 45 | [Les jeunes de l'univers](https://open.spotify.com/track/1p3Xdm0lPy9EQ3OtISAkcE) | [Rocca](https://open.spotify.com/artist/7yz7tVF8i1Jr6roiq5CUuD) | [Entre Deux Mondes](https://open.spotify.com/album/4glAMOQYgESV2rePwx0pEK) | 4:24 |
+| 45 | [Les jeunes de l'univers](https://open.spotify.com/track/1p3Xdm0lPy9EQ3OtISAkcE) | [Rocca](https://open.spotify.com/artist/7yz7tVF8i1Jr6roiq5CUuD) | [Entre deux mondes](https://open.spotify.com/album/4glAMOQYgESV2rePwx0pEK) | 4:24 |
 | 46 | [Dans ma rue \- High for the Chronic !](https://open.spotify.com/track/3DTl0VOkyprQN95ljYlHDj) | [Doc Gynéco](https://open.spotify.com/artist/4GX9CqwqWtb76wuXwbXR6b) | [Première consultation \(Edition 20ème anniversaire\)](https://open.spotify.com/album/0VB37oH6NUjdAlKlpU40yn) | 4:01 |
 | 47 | [L'enfant seul](https://open.spotify.com/track/3hR6FtDMsgTIO3a4VIucIK) | [Oxmo Puccino](https://open.spotify.com/artist/44bvfFf9VeGwVjK0QDqQ7O) | [Opera Puccino](https://open.spotify.com/album/1j19ltx8inseOGYmKaLO5Q) | 4:10 |
 | 48 | [Patate de forain](https://open.spotify.com/track/2VMzuaMP2YP6F0xIA4hoch) | [Seth Gueko](https://open.spotify.com/artist/5SZayIKDZvxXaJrxLfnIRN), [Sefyu](https://open.spotify.com/artist/2OULCPo7k0vPKlEZimhaVc) | [Barillet plein](https://open.spotify.com/album/1uPOLMHkIj1AUWfEiCHyUv) | 4:14 |

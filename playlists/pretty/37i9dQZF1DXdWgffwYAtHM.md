@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWgffwYAtHM.md) - [plain]
 
 > Creators que você precisa ter no RADAR\. Capa: <a href="spotify:show:5g9cA7pE0CKJPphPMkD0fF">Uma Tupá no Tempo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,036 likes - 13 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,034 likes - 13 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

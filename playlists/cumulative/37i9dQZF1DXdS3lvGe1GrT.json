@@ -949,6 +949,24 @@
     },
     {
       "album": {
+        "name": "Algae Bloom / Martyr",
+        "url": "https://open.spotify.com/album/6ueVUYttFFfL0APBWFAmrY"
+      },
+      "artists": [
+        {
+          "name": "Trinity Ace",
+          "url": "https://open.spotify.com/artist/3O3IFttPeEWlD97qgHoc86"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 472982,
+      "name": "Algae Bloom",
+      "url": "https://open.spotify.com/track/2xgo1E9g90fftyw6KFgfsa"
+    },
+    {
+      "album": {
         "name": "All At Once",
         "url": "https://open.spotify.com/album/5yc4uHuJ6OWBiRhDavoKWO"
       },

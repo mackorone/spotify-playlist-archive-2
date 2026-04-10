@@ -1,6 +1,6 @@
 {
   "description": "a state of mind. Cover: Charley Crockett",
-  "num_followers": 212466,
+  "num_followers": 212610,
   "original_name": "Outlaw ",
   "owner": {
     "name": "Spotify",
@@ -487,22 +487,6 @@
     {
       "added_at": "2026-04-03 04:00:34",
       "album": {
-        "name": "Metamodern Sounds in Country Music",
-        "url": "https://open.spotify.com/album/4makbOuLd5SUdyHMaNM1Ag"
-      },
-      "artists": [
-        {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
-        }
-      ],
-      "duration_ms": 241320,
-      "name": "Long White Line",
-      "url": "https://open.spotify.com/track/40Xg69oisdpuP4C7xl3RkK"
-    },
-    {
-      "added_at": "2026-04-03 04:00:34",
-      "album": {
         "name": "Tanya Tucker / Super Hits",
         "url": "https://open.spotify.com/album/6oaors3y98ssmPuvBcc343"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 190133,
       "name": "The Ride",
       "url": "https://open.spotify.com/track/4wt2PBgqXZbvRiWSHDc4O4"
+    },
+    {
+      "added_at": "2026-04-03 04:00:34",
+      "album": {
+        "name": "Metamodern Sounds in Country Music",
+        "url": "https://open.spotify.com/album/4makbOuLd5SUdyHMaNM1Ag"
+      },
+      "artists": [
+        {
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+        }
+      ],
+      "duration_ms": 241320,
+      "name": "Long White Line",
+      "url": "https://open.spotify.com/track/40Xg69oisdpuP4C7xl3RkK"
     },
     {
       "added_at": "2026-04-03 04:00:34",
@@ -599,22 +599,6 @@
     {
       "added_at": "2026-04-03 04:00:34",
       "album": {
-        "name": "Traveller",
-        "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 335293,
-      "name": "Outlaw State Of Mind",
-      "url": "https://open.spotify.com/track/5WFJ17ke5ldHuM0X3J5ddz"
-    },
-    {
-      "added_at": "2026-04-03 04:00:34",
-      "album": {
         "name": "Reckless",
         "url": "https://open.spotify.com/album/7m37BYCQsU73ZHxF1EPg1Z"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 374440,
       "name": "Ghosts Of Mississippi",
       "url": "https://open.spotify.com/track/0H7ROR8cZTsh6YUgnlqjM2"
+    },
+    {
+      "added_at": "2026-04-03 04:00:34",
+      "album": {
+        "name": "Traveller",
+        "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 335293,
+      "name": "Outlaw State Of Mind",
+      "url": "https://open.spotify.com/track/5WFJ17ke5ldHuM0X3J5ddz"
     },
     {
       "added_at": "2026-04-03 04:00:34",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2026-04-03 04:00:34",
       "album": {
-        "name": "Car Wheels On A Gravel Road",
-        "url": "https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig"
-      },
-      "artists": [
-        {
-          "name": "Lucinda Williams",
-          "url": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
-        }
-      ],
-      "duration_ms": 284560,
-      "name": "Car Wheels On A Gravel Road",
-      "url": "https://open.spotify.com/track/5rUqENE7bmNffBbZDhVBty"
-    },
-    {
-      "added_at": "2026-04-03 04:00:34",
-      "album": {
         "name": "Straw in the Wind",
         "url": "https://open.spotify.com/album/4qaAjhI72YFVMbusfwiO6x"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 199773,
       "name": "Let the Rain Come Down",
       "url": "https://open.spotify.com/track/7aQWQSrLhPuRbHUewe6HLB"
+    },
+    {
+      "added_at": "2026-04-03 04:00:34",
+      "album": {
+        "name": "Car Wheels On A Gravel Road",
+        "url": "https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig"
+      },
+      "artists": [
+        {
+          "name": "Lucinda Williams",
+          "url": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
+        }
+      ],
+      "duration_ms": 284560,
+      "name": "Car Wheels On A Gravel Road",
+      "url": "https://open.spotify.com/track/5rUqENE7bmNffBbZDhVBty"
     },
     {
       "added_at": "2026-04-03 04:00:34",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2026-04-03 04:00:34",
       "album": {
-        "name": "I'm Jessi Colter",
-        "url": "https://open.spotify.com/album/700kC30ThMEyenTwGfcOxa"
+        "name": "Roadrunner!",
+        "url": "https://open.spotify.com/album/3j10vE1dzWGEyVj5lcQXX0"
       },
       "artists": [
         {
-          "name": "Jessi Colter",
-          "url": "https://open.spotify.com/artist/43HpW8B5gYRnYbSzm37n5v"
+          "name": "Kaitlin Butts",
+          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
         }
       ],
-      "duration_ms": 203106,
-      "name": "I'm Not Lisa",
-      "url": "https://open.spotify.com/track/2WQCzRvHubJxMIeCf2YhYG"
+      "duration_ms": 199400,
+      "name": "You Ain\u2019t Gotta Die (To Be Dead To Me)",
+      "url": "https://open.spotify.com/track/2l71DB43YblEWw73yWzeTm"
     },
     {
       "added_at": "2026-04-03 04:00:34",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-04-03 04:00:34",
       "album": {
-        "name": "Roadrunner!",
-        "url": "https://open.spotify.com/album/3j10vE1dzWGEyVj5lcQXX0"
-      },
-      "artists": [
-        {
-          "name": "Kaitlin Butts",
-          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
-        }
-      ],
-      "duration_ms": 199400,
-      "name": "You Ain\u2019t Gotta Die (To Be Dead To Me)",
-      "url": "https://open.spotify.com/track/2l71DB43YblEWw73yWzeTm"
-    },
-    {
-      "added_at": "2026-04-03 04:00:34",
-      "album": {
         "name": "Straw in the Wind",
         "url": "https://open.spotify.com/album/4qaAjhI72YFVMbusfwiO6x"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 282293,
       "name": "Straw in the Wind",
       "url": "https://open.spotify.com/track/5Os2lSlPvvc40Wmun45Tz8"
+    },
+    {
+      "added_at": "2026-04-03 04:00:34",
+      "album": {
+        "name": "I'm Jessi Colter",
+        "url": "https://open.spotify.com/album/700kC30ThMEyenTwGfcOxa"
+      },
+      "artists": [
+        {
+          "name": "Jessi Colter",
+          "url": "https://open.spotify.com/artist/43HpW8B5gYRnYbSzm37n5v"
+        }
+      ],
+      "duration_ms": 203106,
+      "name": "I'm Not Lisa",
+      "url": "https://open.spotify.com/track/2WQCzRvHubJxMIeCf2YhYG"
     },
     {
       "added_at": "2026-04-03 04:00:34",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2026-04-03 04:00:34",
       "album": {
-        "name": "Texas Swagger",
-        "url": "https://open.spotify.com/album/0H1ZkLgkghWqXCMloetCKr"
-      },
-      "artists": [
-        {
-          "name": "Paul Cauthen",
-          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
-        }
-      ],
-      "duration_ms": 163699,
-      "name": "Texas Swagger",
-      "url": "https://open.spotify.com/track/41CGku4X9e0cu17XRrmZmz"
-    },
-    {
-      "added_at": "2026-04-03 04:00:34",
-      "album": {
         "name": "Billy Joe Shaver",
         "url": "https://open.spotify.com/album/2fkWfYbsj2safWkNU2PCT9"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 176973,
       "name": "I Been to Georgia on a Fast Train",
       "url": "https://open.spotify.com/track/2UicNzPoIwYvu08vVFzRTP"
+    },
+    {
+      "added_at": "2026-04-03 04:00:34",
+      "album": {
+        "name": "Texas Swagger",
+        "url": "https://open.spotify.com/album/0H1ZkLgkghWqXCMloetCKr"
+      },
+      "artists": [
+        {
+          "name": "Paul Cauthen",
+          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
+        }
+      ],
+      "duration_ms": 163699,
+      "name": "Texas Swagger",
+      "url": "https://open.spotify.com/track/41CGku4X9e0cu17XRrmZmz"
     },
     {
       "added_at": "2026-04-03 04:00:34",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2026-04-03 04:00:34",
       "album": {
-        "name": "Little Victories",
-        "url": "https://open.spotify.com/album/2AQojGjLHM5zPgq9O5RpAQ"
-      },
-      "artists": [
-        {
-          "name": "Chris Knight",
-          "url": "https://open.spotify.com/artist/2XJzOLYV2mF5K2JfUhJEK0"
-        }
-      ],
-      "duration_ms": 214253,
-      "name": "Nothing On Me",
-      "url": "https://open.spotify.com/track/3FHzMLL7hgeGdzLf6J6ajS"
-    },
-    {
-      "added_at": "2026-04-03 04:00:34",
-      "album": {
         "name": "White River",
         "url": "https://open.spotify.com/album/5Wp66bG3fq5gLxcT8T9doG"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 213888,
       "name": "White River",
       "url": "https://open.spotify.com/track/7aPheHQPhcxNxohoVAtB7Q"
+    },
+    {
+      "added_at": "2026-04-03 04:00:34",
+      "album": {
+        "name": "Little Victories",
+        "url": "https://open.spotify.com/album/2AQojGjLHM5zPgq9O5RpAQ"
+      },
+      "artists": [
+        {
+          "name": "Chris Knight",
+          "url": "https://open.spotify.com/artist/2XJzOLYV2mF5K2JfUhJEK0"
+        }
+      ],
+      "duration_ms": 214253,
+      "name": "Nothing On Me",
+      "url": "https://open.spotify.com/track/3FHzMLL7hgeGdzLf6J6ajS"
     },
     {
       "added_at": "2026-04-03 04:00:34",

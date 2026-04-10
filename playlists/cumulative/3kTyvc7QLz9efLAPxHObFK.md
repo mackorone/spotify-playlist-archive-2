@@ -4,7 +4,7 @@
 
 > 
 
-2,973 songs - 6 day 9 hr 45 min
+2,974 songs - 6 day 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2517,6 +2517,7 @@
 | [The Age Of Hardcore](https://open.spotify.com/track/3ooovdt2onJ2uqjs7dcvXQ) | [Reflexx](https://open.spotify.com/artist/3jQC1xm2BCJY3T5mG66pZ0), [Killer MC](https://open.spotify.com/artist/31xXjvqT3qFHK8S3RP3SSZ) | [The Age Of Hardcore](https://open.spotify.com/album/6XEZmVG3MKDM3i1dOxeahb) | 1:44 | 2024-08-17 |  |
 | [The Alchemy](https://open.spotify.com/track/0szMElFx8fXkUxE7m2ELpf) | [Atmozfears](https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64), [Level One](https://open.spotify.com/artist/5gfLje7A2I9mMRVfuiphnh) | [Reversed Reality](https://open.spotify.com/album/0Z3bA9sTXrgmIOIeGIj4kT) | 3:01 | 2023-11-21 |  |
 | [The Awakening](https://open.spotify.com/track/1pzhxayE8yjWtgZ6CHM8O1) | [Tha Playah](https://open.spotify.com/artist/6MUXMQLSPFynFBwF2Qz2CU), [Broken Minds](https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE), [Nolz](https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA) | [The Awakening](https://open.spotify.com/album/2y4MCWN62aztzjYi6dEyPf) | 3:14 | 2022-11-29 |  |
+| [The Bad Touch](https://open.spotify.com/track/4al7Dv5NNwq5wytX3jNwTf) | [Lollibus](https://open.spotify.com/artist/4rn1xfu1y5T63WGFap5gr6) | [The Bad Touch](https://open.spotify.com/album/1PvzNaBIeDacBozhPmGlIz) | 1:59 | 2026-04-10 |  |
 | [The Bass & the Melody](https://open.spotify.com/track/7joCk46A0TdANBGxSsSUiu) | [S3RL](https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2) | [The Bass & the Melody](https://open.spotify.com/album/5SKRv2hcin31WNk6f9uqfw) | 3:05 | 2023-08-27 |  |
 | [The Beat](https://open.spotify.com/track/5X0tiX6MJ2mrCO4iy3C8u3) | [Dj Mad Dog](https://open.spotify.com/artist/7oX7rzli18XsB2WFd88oW4) | [The Beat](https://open.spotify.com/album/0gkifDHYP5GSPLV6CjaBpx) | 3:23 | 2022-09-22 |  |
 | [The Blaster](https://open.spotify.com/track/10FHpP7tl7Vc2O3sezCwIh) | [Zatox](https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO) | [The Blaster](https://open.spotify.com/album/6H5DH2gCciU9S9wnE9felm) | 4:19 | 2025-08-02 |  |

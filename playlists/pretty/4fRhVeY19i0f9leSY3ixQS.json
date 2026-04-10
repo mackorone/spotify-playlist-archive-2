@@ -6,7 +6,7 @@
     "name": "Avondale Records",
     "url": "https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq"
   },
-  "snapshot_id": "AAANk2k7gXFbZBWEeFzgNDK4a8xMyukb",
+  "snapshot_id": "AAANnhYF+TrdujzDAkaQdHwH2NtZY9F4",
   "tracks": [
     {
       "added_at": "2025-08-03 07:05:37",
@@ -25,6 +25,38 @@
       "url": "https://open.spotify.com/track/51RbuIHF9HMv6025j3I029"
     },
     {
+      "added_at": "2025-09-18 03:26:19",
+      "album": {
+        "name": "pax humana (remaster)",
+        "url": "https://open.spotify.com/album/24vC1vToeCTeulW3cG1Gb8"
+      },
+      "artists": [
+        {
+          "name": "CDNQB",
+          "url": "https://open.spotify.com/artist/4mxs1oQOptOg4nYDR2jBCs"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Drama (remaster)",
+      "url": "https://open.spotify.com/track/5KQrS9D7ARWN8fiNBNiYSy"
+    },
+    {
+      "added_at": "2026-04-09 23:03:33",
+      "album": {
+        "name": "War On Truth",
+        "url": "https://open.spotify.com/album/3OYyhARMm1NUSgRAsqNMtG"
+      },
+      "artists": [
+        {
+          "name": "What Did You Expect?",
+          "url": "https://open.spotify.com/artist/1zOBosfEV4TPD89YHBKpFd"
+        }
+      ],
+      "duration_ms": 158040,
+      "name": "War On Truth",
+      "url": "https://open.spotify.com/track/0L1hZ5zYQY0bSkQBShHXe1"
+    },
+    {
       "added_at": "2026-03-05 05:14:33",
       "album": {
         "name": "Still Breathing",
@@ -39,6 +71,54 @@
       "duration_ms": 188000,
       "name": "Still Breathing",
       "url": "https://open.spotify.com/track/6fFkH5gfwg57znzRCZST7w"
+    },
+    {
+      "added_at": "2026-04-09 07:52:54",
+      "album": {
+        "name": "The Birds Don't Sing Like They Used To",
+        "url": "https://open.spotify.com/album/25ltcBLSDR0WSv6g3vavBD"
+      },
+      "artists": [
+        {
+          "name": "Lysandra",
+          "url": "https://open.spotify.com/artist/2kwHwfdXssMjpJsolDldv7"
+        }
+      ],
+      "duration_ms": 214750,
+      "name": "906",
+      "url": "https://open.spotify.com/track/2CJb9HY5pNkz3wW1aGMKVj"
+    },
+    {
+      "added_at": "2026-04-09 07:49:29",
+      "album": {
+        "name": "Hostility",
+        "url": "https://open.spotify.com/album/2wkr2XSt5SeMfTFZGnBkcT"
+      },
+      "artists": [
+        {
+          "name": "Shortest Straw",
+          "url": "https://open.spotify.com/artist/2P2i4h91G4iqXbcSRv3Ukk"
+        }
+      ],
+      "duration_ms": 276631,
+      "name": "Hostility",
+      "url": "https://open.spotify.com/track/6yqfAyRYcyA5vnK90TODRw"
+    },
+    {
+      "added_at": "2026-04-09 04:55:05",
+      "album": {
+        "name": "Pressure Point",
+        "url": "https://open.spotify.com/album/0jpZ5HqkbGg8KgHPnzUrsV"
+      },
+      "artists": [
+        {
+          "name": "Unlighted",
+          "url": "https://open.spotify.com/artist/63rgtxXevhp9eszz7bXPqz"
+        }
+      ],
+      "duration_ms": 172399,
+      "name": "Pressure Point",
+      "url": "https://open.spotify.com/track/5stTHqRSib5JYUwu1d3fT3"
     },
     {
       "added_at": "2026-04-08 20:29:57",
@@ -1829,90 +1909,6 @@
       "url": "https://open.spotify.com/track/3XchDQDHTVYGWEVBKGPe6N"
     },
     {
-      "added_at": "2026-03-09 21:48:53",
-      "album": {
-        "name": "Don't Go",
-        "url": "https://open.spotify.com/album/4xqmSs4RnijgeFbHokJ0HF"
-      },
-      "artists": [
-        {
-          "name": "Monococ",
-          "url": "https://open.spotify.com/artist/5ewUkGPAlemelWBjKkh9jn"
-        },
-        {
-          "name": "Dianthe",
-          "url": "https://open.spotify.com/artist/7sVIK4JuYY35ckWjwRMHLv"
-        }
-      ],
-      "duration_ms": 347076,
-      "name": "The Flow",
-      "url": "https://open.spotify.com/track/5tVswVQXj9hYKOxx15f9cV"
-    },
-    {
-      "added_at": "2026-03-09 21:42:31",
-      "album": {
-        "name": "Superglue",
-        "url": "https://open.spotify.com/album/5v3K2ajEtpXB9NCKzHqmNE"
-      },
-      "artists": [
-        {
-          "name": "Ranting",
-          "url": "https://open.spotify.com/artist/1pWSptJLJjULPx5XmGid7n"
-        }
-      ],
-      "duration_ms": 125773,
-      "name": "Superglue",
-      "url": "https://open.spotify.com/track/2ne8j9xhGW38Jhg8ZX9PFY"
-    },
-    {
-      "added_at": "2026-03-09 15:45:37",
-      "album": {
-        "name": "Funeral For A Fish",
-        "url": "https://open.spotify.com/album/2JvlFaUSNfF93YHU59xYq3"
-      },
-      "artists": [
-        {
-          "name": "Lake Rana",
-          "url": "https://open.spotify.com/artist/72TeV5pfqO8bgM7p5lukho"
-        }
-      ],
-      "duration_ms": 219339,
-      "name": "Grasshopper",
-      "url": "https://open.spotify.com/track/5Fg6iuD2K3ouGgSSAi5bB4"
-    },
-    {
-      "added_at": "2026-03-09 15:38:24",
-      "album": {
-        "name": "Voices",
-        "url": "https://open.spotify.com/album/2OMYTh0WCQjp3xyF8NOESN"
-      },
-      "artists": [
-        {
-          "name": "Kevin Tiah",
-          "url": "https://open.spotify.com/artist/5cERiwUuVkqQ8gkxNlqc2t"
-        }
-      ],
-      "duration_ms": 190768,
-      "name": "Voices",
-      "url": "https://open.spotify.com/track/1MTBo1tsRyYclQZ84xvQGK"
-    },
-    {
-      "added_at": "2026-03-09 14:27:50",
-      "album": {
-        "name": "Midnight in Torino",
-        "url": "https://open.spotify.com/album/3L4VFdLFvBEradK8QWv32C"
-      },
-      "artists": [
-        {
-          "name": "Midland Street Echoes",
-          "url": "https://open.spotify.com/artist/3buBFaaad10suISs89dLy3"
-        }
-      ],
-      "duration_ms": 336307,
-      "name": "Midnight in Torino (Original Mix)",
-      "url": "https://open.spotify.com/track/0VpGYW1rDLImNYoF9aON89"
-    },
-    {
       "added_at": "2026-02-26 08:38:44",
       "album": {
         "name": "drink beer, hail satan",
@@ -2011,22 +2007,6 @@
       "duration_ms": 110093,
       "name": "Fell In Love With a Girl",
       "url": "https://open.spotify.com/track/21Qsj3cMVCx2xF2EVVNbEu"
-    },
-    {
-      "added_at": "2025-09-18 03:26:19",
-      "album": {
-        "name": "pax humana (remaster)",
-        "url": "https://open.spotify.com/album/24vC1vToeCTeulW3cG1Gb8"
-      },
-      "artists": [
-        {
-          "name": "CDNQB",
-          "url": "https://open.spotify.com/artist/4mxs1oQOptOg4nYDR2jBCs"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Drama (remaster)",
-      "url": "https://open.spotify.com/track/5KQrS9D7ARWN8fiNBNiYSy"
     },
     {
       "added_at": "2025-09-03 04:38:08",
@@ -4983,6 +4963,22 @@
       "duration_ms": 224959,
       "name": "The Song That Didn't Know It Was A Song",
       "url": "https://open.spotify.com/track/4Pt7UPbkAjTUJEDAuuh7NS"
+    },
+    {
+      "added_at": "2026-04-09 04:59:51",
+      "album": {
+        "name": "Feeling of Doom",
+        "url": "https://open.spotify.com/album/1mDrlp2bdOh1ZNHEcmdiIR"
+      },
+      "artists": [
+        {
+          "name": "Threat Level: Midnight",
+          "url": "https://open.spotify.com/artist/0mBT9uL4Vxl8yrcsX8998v"
+        }
+      ],
+      "duration_ms": 357260,
+      "name": "Feeling of Doom",
+      "url": "https://open.spotify.com/track/3mxMDW6oMQ7Yfmc4QDJuXw"
     }
   ],
   "unique_name": "Shuffle Roulette",

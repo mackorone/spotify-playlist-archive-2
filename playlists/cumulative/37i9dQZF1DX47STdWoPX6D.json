@@ -5207,6 +5207,24 @@
     },
     {
       "album": {
+        "name": "Eastside Evangelist",
+        "url": "https://open.spotify.com/album/2Ix1D25SdRC8ilvq9oLLWp"
+      },
+      "artists": [
+        {
+          "name": "Caam1k",
+          "url": "https://open.spotify.com/artist/7jmrwYVgLNcjdhwBH6DxPz"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Discernment",
+      "url": "https://open.spotify.com/track/6eT9XwWXIw47OokW8eZylj"
+    },
+    {
+      "album": {
         "name": "DNA",
         "url": "https://open.spotify.com/album/7KSlGVc1cdZ6ihlB9c6REE"
       },

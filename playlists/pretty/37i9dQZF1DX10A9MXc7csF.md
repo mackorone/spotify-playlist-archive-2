@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\.  Loreto & Las Marías 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,004 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,008 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 15 | [Eres Una Princesita](https://open.spotify.com/track/7vDd2zEjU8zqMM9LIcZg8Q) | [Emanuel Garcia](https://open.spotify.com/artist/7qqYlhGMuHBRqjQ3ly1oHl) | [Eres Una Princesita](https://open.spotify.com/album/6JDtyF8Z6ZkUdfjL2fvhcd) | 3:15 |
 | 16 | [El Raro](https://open.spotify.com/track/54LiFJBoLuvCF82uPuqJyS) | [Kompa Marley](https://open.spotify.com/artist/1mBO23E1cp3ltS0Idp7aea) | [El Raro](https://open.spotify.com/album/3XSmxVDT3Rkt9Duwj5wgI7) | 1:49 |
 | 17 | [Pagana](https://open.spotify.com/track/56WRqTs2M4St71G3G6Y9Df) | [RIA](https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt) | [Pagana](https://open.spotify.com/album/5Nye8aOQ9pfltqffBpQ5A0) | 2:57 |
-| 18 | [pa que \(feat\. Ed Maverick\)](https://open.spotify.com/track/5smAUZtCCJCcHv2qyknRgt) | [bpuntito](https://open.spotify.com/artist/7hpawMsfyoRG0gF7VAwv9u), [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [pa que \(feat\. Ed Maverick\)](https://open.spotify.com/album/54zMR9xpK3l6DHhjitr4Qd) | 3:16 |
+| 18 | [pa que](https://open.spotify.com/track/5smAUZtCCJCcHv2qyknRgt) | [bpuntito](https://open.spotify.com/artist/7hpawMsfyoRG0gF7VAwv9u) | [pa que](https://open.spotify.com/album/54zMR9xpK3l6DHhjitr4Qd) | 3:16 |
 | 19 | [Colgando En Tus Manos](https://open.spotify.com/track/3Ml0PcFYW79GV3X0GqRqup) | [miguel cornejo](https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS), [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd) | [Colgando En Tus Manos](https://open.spotify.com/album/1iEr0YDJQx813gCSAcyDTp) | 3:26 |
 | 20 | [Las Partes](https://open.spotify.com/track/3tTiTuQpRpzHP0tuQowCb5) | [Poe Leos](https://open.spotify.com/artist/6E4v4lnsSuO5SaQ4FNOWSA) | [No Fui Yo](https://open.spotify.com/album/1QXnrdgOgqdTdknxXenvkH) | 3:03 |
 | 21 | [Chiclona](https://open.spotify.com/track/36tSNlKEoGe7Wwb6PKRgc9) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Chiclona](https://open.spotify.com/album/3kZt0wob9pCSTNDVcNt5Ue) | 2:32 |

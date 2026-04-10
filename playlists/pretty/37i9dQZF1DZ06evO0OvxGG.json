@@ -1,12 +1,12 @@
 {
   "description": "This is Slipmami. The essential tracks, all in one playlist.",
-  "num_followers": 9136,
+  "num_followers": 9149,
   "original_name": "This Is Slipmami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adRJAAAAAABkaCvPxELrlKxVz7PlZlnu",
+  "snapshot_id": "adWagAAAAAB6YwuzdhgklumkP3yQQesQ",
   "tracks": [
     {
       "added_at": null,
@@ -847,46 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mina Quente",
-        "url": "https://open.spotify.com/album/3mZPi8KKKgXTikzueaK10i"
-      },
-      "artists": [
-        {
-          "name": "Btrem",
-          "url": "https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw"
-        },
-        {
-          "name": "Rock Danger",
-          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
-        },
-        {
-          "name": "Maru2D",
-          "url": "https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36"
-        },
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        },
-        {
-          "name": "taldiBruna",
-          "url": "https://open.spotify.com/artist/3snpFKva3dzwybLBYseLP8"
-        },
-        {
-          "name": "Beat do \u00c1vila",
-          "url": "https://open.spotify.com/artist/2zuL7Yq6XmN6LbH4gDrgfP"
-        },
-        {
-          "name": "Mahai",
-          "url": "https://open.spotify.com/artist/2wRHyStBiMxi4bYc8nHdPy"
-        }
-      ],
-      "duration_ms": 233357,
-      "name": "Set Btrem - As Minas do Rio",
-      "url": "https://open.spotify.com/track/1FLx838ihRkUoYGncP31fz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Moranguinho",
         "url": "https://open.spotify.com/album/13T073GRitV1LYzHFhoVoK"
       },
@@ -927,8 +887,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cosmo e Wanda",
-        "url": "https://open.spotify.com/album/4e7KAQn2VK5U9452GKBay5"
+        "name": "Mina Quente",
+        "url": "https://open.spotify.com/album/3mZPi8KKKgXTikzueaK10i"
       },
       "artists": [
         {
@@ -940,17 +900,29 @@
           "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
         },
         {
+          "name": "Maru2D",
+          "url": "https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36"
+        },
+        {
           "name": "Slipmami",
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
         },
         {
-          "name": "$amuka",
-          "url": "https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj"
+          "name": "taldiBruna",
+          "url": "https://open.spotify.com/artist/3snpFKva3dzwybLBYseLP8"
+        },
+        {
+          "name": "Beat do \u00c1vila",
+          "url": "https://open.spotify.com/artist/2zuL7Yq6XmN6LbH4gDrgfP"
+        },
+        {
+          "name": "Mahai",
+          "url": "https://open.spotify.com/artist/2wRHyStBiMxi4bYc8nHdPy"
         }
       ],
-      "duration_ms": 132710,
-      "name": "Cosmo e Wanda",
-      "url": "https://open.spotify.com/track/2AZFs8hGLEC00btCoKQGFb"
+      "duration_ms": 233357,
+      "name": "Set Btrem - As Minas do Rio",
+      "url": "https://open.spotify.com/track/1FLx838ihRkUoYGncP31fz"
     },
     {
       "added_at": null,
@@ -979,26 +951,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pra Voc\u00ea Ficar a Vontade",
-        "url": "https://open.spotify.com/album/1KkbKj4wDO6f6ZNSpE6j0c"
+        "name": "Cosmo e Wanda",
+        "url": "https://open.spotify.com/album/4e7KAQn2VK5U9452GKBay5"
       },
       "artists": [
         {
-          "name": "akao.47",
-          "url": "https://open.spotify.com/artist/28lnuiU2tScvRMesfbeHMh"
+          "name": "Btrem",
+          "url": "https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw"
+        },
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
         },
         {
           "name": "Slipmami",
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
         },
         {
-          "name": "BREEZE",
-          "url": "https://open.spotify.com/artist/2McfEbmX82KjLibSzYi7ZD"
+          "name": "$amuka",
+          "url": "https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj"
         }
       ],
-      "duration_ms": 207272,
-      "name": "Pra Voc\u00ea Ficar a Vontade",
-      "url": "https://open.spotify.com/track/5IKneLrLRU4e7ew7wuVegn"
+      "duration_ms": 132710,
+      "name": "Cosmo e Wanda",
+      "url": "https://open.spotify.com/track/2AZFs8hGLEC00btCoKQGFb"
     },
     {
       "added_at": null,
@@ -1039,6 +1015,30 @@
       "duration_ms": 127866,
       "name": "cria de caxias",
       "url": "https://open.spotify.com/track/2lkBXmDoJs7dgRASg3vHP4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pra Voc\u00ea Ficar a Vontade",
+        "url": "https://open.spotify.com/album/1KkbKj4wDO6f6ZNSpE6j0c"
+      },
+      "artists": [
+        {
+          "name": "akao.47",
+          "url": "https://open.spotify.com/artist/28lnuiU2tScvRMesfbeHMh"
+        },
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        },
+        {
+          "name": "BREEZE",
+          "url": "https://open.spotify.com/artist/2McfEbmX82KjLibSzYi7ZD"
+        }
+      ],
+      "duration_ms": 207272,
+      "name": "Pra Voc\u00ea Ficar a Vontade",
+      "url": "https://open.spotify.com/track/5IKneLrLRU4e7ew7wuVegn"
     },
     {
       "added_at": null,

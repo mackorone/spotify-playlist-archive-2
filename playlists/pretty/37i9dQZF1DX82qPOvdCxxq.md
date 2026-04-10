@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 
 > The best new music from independent faith\-based artists every Wednesday! Cover: Praise Lubangu
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,690 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,715 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 | 74 | [Woman Of Me](https://open.spotify.com/track/28FXH19Z9ihzOJKiFYyK6e) | [Kyndal](https://open.spotify.com/artist/4VFMlrDAmF0wwua3FVD8Qx) | [Woman Of Me](https://open.spotify.com/album/5JV3aHNpmimwsh3Woml32k) | 2:52 |
 | 75 | [I'm Not Okay](https://open.spotify.com/track/3tRzG3MTlUnst2Uef0sFLI) | [6IXTEENTH](https://open.spotify.com/artist/2QfUjOPIwBWi2qC04YRpjJ) | [I'm Not Okay](https://open.spotify.com/album/0e367oG5ZQ05JyRQtH4hou) | 2:28 |
 
-Snapshot ID: `AAAAAKqCxrjUQlxBRhEEhWYsoPwFktLh`
+Snapshot ID: `AAAAAOKaYBeq5JVvGMwg0ofH6o7It3ya`

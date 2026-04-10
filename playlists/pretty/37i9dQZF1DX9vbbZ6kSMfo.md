@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vbbZ6kSMfo.md) - [plain]
 
 > The fans have spoken: Baby Keem, Lil Tecca and Doechii will lead hip\-hop’s next generation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,893 likes - 48 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,980 likes - 48 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

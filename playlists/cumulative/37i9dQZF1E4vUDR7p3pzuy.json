@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Ari Mason, This Eternal Decay, JUST LIZZY and more",
+  "description": "With Rob Harrowven, JUST LIZZY, This Eternal Decay and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -164,7 +164,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 217778,
       "name": "A Dark Dream",
       "url": "https://open.spotify.com/track/0UG6GMOOMsnS9hW1vO7u5N"
@@ -410,7 +410,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 271597,
       "name": "Altostratus 26",
       "url": "https://open.spotify.com/track/1KfOqudRftSTun86gB69xM"
@@ -548,7 +548,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 220000,
       "name": "Apoca-Lips",
       "url": "https://open.spotify.com/track/2oePUP3WTbfvgiwzYqdn8k"
@@ -1192,6 +1192,24 @@
       "duration_ms": 329297,
       "name": "Broken Lines",
       "url": "https://open.spotify.com/track/6EG8WMQO5emWbbIDsstjBs"
+    },
+    {
+      "album": {
+        "name": "BURN",
+        "url": "https://open.spotify.com/album/2hPw85hoT9JsFSjEF0D5jw"
+      },
+      "artists": [
+        {
+          "name": "Calipso",
+          "url": "https://open.spotify.com/artist/3VjISSFYhx5AESKzSPPJU6"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202821,
+      "name": "BURN",
+      "url": "https://open.spotify.com/track/6RNkZxvFm4GTfmlW6gfd4x"
     },
     {
       "album": {
@@ -1928,7 +1946,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 178620,
       "name": "Crawling",
       "url": "https://open.spotify.com/track/0ATbpAMWPEoIroFXMA2tDA"
@@ -2619,6 +2637,24 @@
     },
     {
       "album": {
+        "name": "Dreamworld",
+        "url": "https://open.spotify.com/album/6aSo1xtihXiVpFozDhbeCh"
+      },
+      "artists": [
+        {
+          "name": "LOVELORN DOLLS",
+          "url": "https://open.spotify.com/artist/5LRTjy2y6L1hn8JcdpOqVz"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242666,
+      "name": "Dreamworld",
+      "url": "https://open.spotify.com/track/2pg6UbgxY9OKUE8Fj03YWn"
+    },
+    {
+      "album": {
         "name": "Dunkelziffer & Ransom",
         "url": "https://open.spotify.com/album/0reOLmlXtj2g8c8hn7cHkT"
       },
@@ -3052,7 +3088,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 248956,
       "name": "Falling Stars",
       "url": "https://open.spotify.com/track/1h89xz80g5LZIvnteTPHpS"
@@ -3142,7 +3178,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 120000,
       "name": "Feel",
       "url": "https://open.spotify.com/track/2paWLxW5uODgpyEiBCon4w"
@@ -3932,7 +3968,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-09",
+      "date_removed": null,
       "duration_ms": 390765,
       "name": "HEADRUSH",
       "url": "https://open.spotify.com/track/5LWbpBBZBZCF2EYzhc7FzO"
@@ -4934,7 +4970,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-09",
+      "date_removed": null,
       "duration_ms": 186803,
       "name": "Just Like Honey",
       "url": "https://open.spotify.com/track/4468rcPpL0NyU9uu2NCPQm"
@@ -5912,7 +5948,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 310769,
       "name": "Miracles (Redeux Mix)",
       "url": "https://open.spotify.com/track/1yZewwLcQP7q0tcQKCvgkl"
@@ -6548,7 +6584,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 248470,
       "name": "Only daughter",
       "url": "https://open.spotify.com/track/38Uli9oYCw1rQDkV8PH8RX"
@@ -7318,7 +7354,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-09",
+      "date_removed": null,
       "duration_ms": 186549,
       "name": "Robey Ven",
       "url": "https://open.spotify.com/track/242Lof3nt3f8rFgauer135"
@@ -7806,7 +7842,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 190000,
       "name": "Shadow Projection",
       "url": "https://open.spotify.com/track/7tlIYcO8HcsXn0FM8niJAx"

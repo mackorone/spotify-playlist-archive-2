@@ -863,6 +863,24 @@
     },
     {
       "album": {
+        "name": "In My Own Way",
+        "url": "https://open.spotify.com/album/5eBSKHjtj9mFF6QwkKYYBi"
+      },
+      "artists": [
+        {
+          "name": "Field of View",
+          "url": "https://open.spotify.com/artist/77F2OeJqiPVTeAwBeu2gxG"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150102,
+      "name": "Glimpse",
+      "url": "https://open.spotify.com/track/6gLTJWbw0uEtvQi128RsdR"
+    },
+    {
+      "album": {
         "name": "Golden Days",
         "url": "https://open.spotify.com/album/57V5naArzEE6ua43OPvio0"
       },

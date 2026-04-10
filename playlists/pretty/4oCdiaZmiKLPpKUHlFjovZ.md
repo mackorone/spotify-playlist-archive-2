@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4oCdiaZmiKLPpKUHlFjovZ.md) - [plain]
 
 > Turn this playlist all the way up! Featuring, JaYy Wick, Money Man, Blxst &amp; Mozzy.
 
-[EMPIRE](https://open.spotify.com/user/empiredistribution) - 33,840 likes - 116 songs - 5 hr 21 min
+[EMPIRE](https://open.spotify.com/user/empiredistribution) - 33,836 likes - 116 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/4oCdiaZmiKLPpKUHlFjovZ.md) - [plain]
 | 13 | [Fake Jeezy](https://open.spotify.com/track/4fhgwk5dCgOZUh8LyxBk9r) | [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [Fake Jeezy](https://open.spotify.com/album/4WWNtQiEHFykGzTLF9UOxE) | 2:40 |
 | 14 | [Good Day to be in Harlem](https://open.spotify.com/track/5MQPXV1dmDIWqvcQONZ1OG) | [Fergie Baby](https://open.spotify.com/artist/4wFiOK5gZqg6tk4wvVansa), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Good Day to be in Harlem](https://open.spotify.com/album/2o4ICnsEfXEro3okcsEUWK) | 3:54 |
 | 15 | [YAYA \- Remix](https://open.spotify.com/track/6qHrLC17ZY2ZA6b7udhPps) | [Compton Av](https://open.spotify.com/artist/4ifWa8uYjvbxB4ouf9XbW5), [Steelz](https://open.spotify.com/artist/0xG8uG9nzLyuwoVIPF0xiM), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [YAYA \(Remix\)](https://open.spotify.com/album/6AO2thq0bHuVb984p1DsYJ) | 3:14 |
-| 16 | [I Like You Better Than Me](https://open.spotify.com/track/56LxXsei54gTgiedh71lr5) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Çike Çike](https://open.spotify.com/album/0cbMbvL8IPDDG4hHlOsXgk) | 2:37 |
+| 16 | [i like you better than me](https://open.spotify.com/track/56LxXsei54gTgiedh71lr5) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Çike Çike](https://open.spotify.com/album/0cbMbvL8IPDDG4hHlOsXgk) | 2:37 |
 | 17 | [Out The Box \(feat\. Bosko\)](https://open.spotify.com/track/2E8AxnMhRi71GN6eLS2HEq) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Bosko](https://open.spotify.com/artist/16PgF1vgup7ohBZnteQGvx) | [Out The Box \(feat\. Bosko\)](https://open.spotify.com/album/3tJqpSeV4fXw2wZS1Yc28S) | 2:42 |
 | 18 | [Turbulence](https://open.spotify.com/track/6b5aOjZh1szuKcbfSU8YdK) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [REAL, Vol\. 1](https://open.spotify.com/album/60S0Nvtm54AmG6d8lVkhMF) | 2:25 |
 | 19 | [Outside](https://open.spotify.com/track/6RWSHJ7p8APzukiux4J3TG) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Outside](https://open.spotify.com/album/1pUztX3T8XMDxkPXTG0vbn) | 2:47 |

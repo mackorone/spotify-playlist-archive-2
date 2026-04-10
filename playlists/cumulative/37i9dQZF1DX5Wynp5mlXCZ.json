@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0417\u0456\u0440\u043a\u0438 \u041d\u0430\u0446\u0432\u0456\u0434\u0431\u043e\u0440\u0456\u0432 \u0442\u0430 \u0456\u043d\u0448\u0456 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u0439 \u0441\u0432\u0456\u0442\u043e\u0432\u0456 \u0442\u043e\u043f \u043f\u043e\u043f \u0430\u0440\u0442\u0438\u0441\u0442\u0438! \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: MOLODI & Monokate",
+  "description": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u0456 \u0430\u0440\u0442\u0438\u0441\u0442\u0438 \u0432 \u0434\u043e\u0431\u0456\u0440\u0446\u0456 \u043d\u0430\u0439\u0446\u0456\u043a\u0430\u0432\u0456\u0448\u0438\u0445 \u043f\u043e\u043f \u0442\u0440\u0435\u043a\u0456\u0432. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: emi",
   "name": "\u0422\u041e\u041f \u041f\u041e\u041f 2026",
   "tracks": [
     {
@@ -2959,6 +2959,24 @@
     },
     {
       "album": {
+        "name": "Mr. Know It All",
+        "url": "https://open.spotify.com/album/2WFulOVpYFDYBQ4GtoClfz"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198425,
+      "name": "Mr. Know It All",
+      "url": "https://open.spotify.com/track/0GuyH5MDxEx54wg1Rhe5on"
+    },
+    {
+      "album": {
         "name": "Music On The Radio",
         "url": "https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv"
       },
@@ -3696,6 +3714,24 @@
       "duration_ms": 138213,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa"
+    },
+    {
+      "album": {
+        "name": "Room Of Lies",
+        "url": "https://open.spotify.com/album/2MmHtirw3z96fZr2EAmsR7"
+      },
+      "artists": [
+        {
+          "name": "emi",
+          "url": "https://open.spotify.com/artist/5yUvntXwc1otvnZ8Bhxo85"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170880,
+      "name": "Room Of Lies",
+      "url": "https://open.spotify.com/track/1pAGEVfhuIkMUwH0JJdj8o"
     },
     {
       "album": {
@@ -5506,7 +5542,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 137600,
       "name": "\u0431\u0430\u043b\u0430\u043d\u0441",
       "url": "https://open.spotify.com/track/5kaKBReAEfDuN0JlvKB8Ky"
@@ -6092,6 +6128,24 @@
       "duration_ms": 159000,
       "name": "\u0413\u0423\u0411\u0418 \u0423 \u0413\u0423\u0411\u0410\u0425",
       "url": "https://open.spotify.com/track/0WyDLl5o7HoOwz7Ryl7QWc"
+    },
+    {
+      "album": {
+        "name": "\u0433\u0443\u0447\u043d\u043e",
+        "url": "https://open.spotify.com/album/1bV6tjvoVCNQBMyxaf2LTJ"
+      },
+      "artists": [
+        {
+          "name": "JASE51",
+          "url": "https://open.spotify.com/artist/4p0zdj463b929YZnJ5PcJg"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137622,
+      "name": "\u0433\u0443\u0447\u043d\u043e",
+      "url": "https://open.spotify.com/track/1wEjuZpYY4aUguGvL46CJA"
     },
     {
       "album": {
@@ -6682,7 +6736,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 184235,
       "name": "\u041a\u0438\u043b\u0438\u043c",
       "url": "https://open.spotify.com/track/7HFGL5iqsNM87PmvE6SbeA"
@@ -7370,7 +7424,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 210185,
       "name": "\u041c\u043e\u0454 \u0441\u0435\u0440\u0446\u0435",
       "url": "https://open.spotify.com/track/29FWJAJlgznEFR3qdFWpSE"

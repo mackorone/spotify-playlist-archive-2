@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Sarah Black",
+  "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Sharan Kumar",
   "name": "RADAR Tamil",
   "tracks": [
     {
@@ -516,7 +516,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 182758,
       "name": "AI Sundari",
       "url": "https://open.spotify.com/track/2Eycs9II5o2z0fSlvS9rQd"
@@ -2218,6 +2218,24 @@
       "duration_ms": 275178,
       "name": "Destination Jaffna",
       "url": "https://open.spotify.com/track/61yCcXrcPPsoOrmCWahK9m"
+    },
+    {
+      "album": {
+        "name": "Devaloka Sundari",
+        "url": "https://open.spotify.com/album/7zttMIDy66doKweYdLyTbS"
+      },
+      "artists": [
+        {
+          "name": "Siri Xander",
+          "url": "https://open.spotify.com/artist/1YN9DIwQxOUnAzfgOWWiNR"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151578,
+      "name": "Devaloka Sundari",
+      "url": "https://open.spotify.com/track/4MOeRGLM4SePdzJNJaRBTA"
     },
     {
       "album": {
@@ -4509,6 +4527,24 @@
     },
     {
       "album": {
+        "name": "Kaadhal Oonjal",
+        "url": "https://open.spotify.com/album/1RyifnqlJGF7oXbVMt4Xqd"
+      },
+      "artists": [
+        {
+          "name": "Siri Xander",
+          "url": "https://open.spotify.com/artist/1YN9DIwQxOUnAzfgOWWiNR"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147428,
+      "name": "Kaadhal Oonjal",
+      "url": "https://open.spotify.com/track/6HAHxE7PdIEk52Ra9ZuIFw"
+    },
+    {
+      "album": {
         "name": "kaadhal overrated.",
         "url": "https://open.spotify.com/album/1XfR7gh5q0hIK6WPrGgi4D"
       },
@@ -4870,6 +4906,32 @@
       "duration_ms": 243323,
       "name": "Kaatru Veesum Iravu",
       "url": "https://open.spotify.com/track/2N1mLYWZk93Tq9GnOCaHrU"
+    },
+    {
+      "album": {
+        "name": "Kaattu Thee",
+        "url": "https://open.spotify.com/album/01afAvGm9qRxcKy4upJUz3"
+      },
+      "artists": [
+        {
+          "name": "San T",
+          "url": "https://open.spotify.com/artist/6ATsGtHUNuw82AxZC3I8Bb"
+        },
+        {
+          "name": "Dholak Kaccha",
+          "url": "https://open.spotify.com/artist/48uCGfI0KmzGCMWV1ULhnN"
+        },
+        {
+          "name": "4 Staan",
+          "url": "https://open.spotify.com/artist/2KQ10TEdPA3oyH9GvjVN31"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105918,
+      "name": "Kaattu Thee",
+      "url": "https://open.spotify.com/track/5HoTu1IeTAtQJY340chNFJ"
     },
     {
       "album": {
@@ -7128,7 +7190,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 215923,
       "name": "Maatram Ondru Thaan Maaraadhathu (Salsa Tamil)",
       "url": "https://open.spotify.com/track/0MWJ21aO0EoQfMCMTkMMwr"
@@ -9304,7 +9366,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 183833,
       "name": "Neeyedhan",
       "url": "https://open.spotify.com/track/7aRSrkljTz3xMzkrsBacYL"
@@ -10644,7 +10706,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 192984,
       "name": "Paatha Edathila",
       "url": "https://open.spotify.com/track/1CaDbj95jdxRh0Tl0CXPDQ"
@@ -10766,7 +10828,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 176142,
       "name": "Papi",
       "url": "https://open.spotify.com/track/2gVjphCX0tnUTUkOkUbmOD"
@@ -10886,7 +10948,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 138688,
       "name": "Patchai Vannam",
       "url": "https://open.spotify.com/track/6JDzvf2sjdQJE6ICSsQVvq"
@@ -13385,6 +13447,24 @@
     },
     {
       "album": {
+        "name": "Thannigazhai",
+        "url": "https://open.spotify.com/album/2D8jvOg1LFBAkOXe7bEOLh"
+      },
+      "artists": [
+        {
+          "name": "Siri Xander",
+          "url": "https://open.spotify.com/artist/1YN9DIwQxOUnAzfgOWWiNR"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77862,
+      "name": "Thannigazhai",
+      "url": "https://open.spotify.com/track/04gxnLQykQm3FI0KdZTDMx"
+    },
+    {
+      "album": {
         "name": "Thappa Lucka",
         "url": "https://open.spotify.com/album/4qywuCNyFS05GvZe3MZPqc"
       },
@@ -14722,7 +14802,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 92719,
       "name": "Uyire",
       "url": "https://open.spotify.com/track/0qVlF5XwVtBqiOUvBB6qso"
@@ -15447,6 +15527,28 @@
     },
     {
       "album": {
+        "name": "Vazhimuzhudhum Varuvayaa ??",
+        "url": "https://open.spotify.com/album/5wEnpf9OnwmfPjV13iYKH6"
+      },
+      "artists": [
+        {
+          "name": "Siri Xander",
+          "url": "https://open.spotify.com/artist/1YN9DIwQxOUnAzfgOWWiNR"
+        },
+        {
+          "name": "Arun Gautham",
+          "url": "https://open.spotify.com/artist/3OreWdk2YUILJKiomoy0l1"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Vazhimuzhudhum Varuvayaa ??",
+      "url": "https://open.spotify.com/track/0ZSP3NjyPHIUCzZ3Am6Zsx"
+    },
+    {
+      "album": {
         "name": "Kadhalikkiren (From \"Think Indie\")",
         "url": "https://open.spotify.com/album/7KSmaRHan0muLPyx3zaVpr"
       },
@@ -15542,7 +15644,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 175909,
       "name": "Veetu Vela",
       "url": "https://open.spotify.com/track/3cSB546zQMppelpq9BOBbY"

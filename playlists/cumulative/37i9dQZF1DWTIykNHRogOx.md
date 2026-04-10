@@ -2,9 +2,9 @@
 
 ### [Exception Française](https://open.spotify.com/playlist/37i9dQZF1DWTIykNHRogOx)
 
-> Les  meilleures nouveautés de la chanson française avec Alex Montembault
+> Les  meilleures nouveautés de la chanson française avec Yoa
 
-305 songs - 16 hr 39 min
+308 songs - 16 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,10 +111,11 @@
 | [Je voudrais tomber amoureux](https://open.spotify.com/track/2KEbuxwXcerVcuPdfxBMg2) | [Félix Radu](https://open.spotify.com/artist/0a0Pl9QiikzqYozn7qyooX) | [Je voudrais tomber amoureux](https://open.spotify.com/album/31aSdVWYFsuB6G3cvsWRY0) | 4:43 | 2024-07-25 | 2025-01-10 |
 | [JEAN](https://open.spotify.com/track/2KQaZMOnSVvUws99I5H6y2) | [Jeanne Cherhal](https://open.spotify.com/artist/782B4UZNgZiVf5uVS5P35h) | [JEAN](https://open.spotify.com/album/7qIiRSinRJopSRVuqZT9E9) | 3:27 | 2025-01-30 | 2025-02-28 |
 | [Juste avant de tomber](https://open.spotify.com/track/1ZXwbERsrEeKMrZVdOPRMQ) | [Benjamin Biolay](https://open.spotify.com/artist/26Kq9bSJsElA93PflKEB1A) | [Juste avant de tomber](https://open.spotify.com/album/6QqYvin3hXiGiIgpwKxdBQ) | 4:02 | 2025-05-22 | 2025-10-10 |
-| [J’veux du cuir](https://open.spotify.com/track/40pW3lzalVawpg8oTL1uv8) | [Vanille](https://open.spotify.com/artist/2cDOL359PIxZf239UwINjI) | [J’veux du cuir](https://open.spotify.com/album/3qWWwn60K9WIFBILpDXHxb) | 2:44 | 2025-12-11 |  |
+| [J’veux du cuir](https://open.spotify.com/track/40pW3lzalVawpg8oTL1uv8) | [Vanille](https://open.spotify.com/artist/2cDOL359PIxZf239UwINjI) | [J’veux du cuir](https://open.spotify.com/album/3qWWwn60K9WIFBILpDXHxb) | 2:44 | 2025-12-11 | 2026-04-10 |
+| [L'amertume \- Issu du documentaire "Tout un fromage"](https://open.spotify.com/track/13QPh3IfOzMdpmoWlieHRV) | [Pépite](https://open.spotify.com/artist/0oA0cg7ajEwV0EXKCAlQ63) | [L'amertume \(Issu du documentaire "Tout un fromage"\)](https://open.spotify.com/album/4x7Ew0u9AqYYelle6w9KCj) | 2:41 | 2026-04-09 |  |
 | [L'AVANCÉE](https://open.spotify.com/track/0kR6Kk05qUVBkN3oHfHEtD) | [Lisa Portelli](https://open.spotify.com/artist/5BjCAGv8JWZzhcegp8izDi) | [L'AVANCÉE](https://open.spotify.com/album/3IAs8brlwGchun36xwWIgU) | 4:08 | 2024-10-10 | 2025-03-07 |
 | [L'homme idéal](https://open.spotify.com/track/0soh7xZDQFQHOjXmBNWhUJ) | [Vanille](https://open.spotify.com/artist/2cDOL359PIxZf239UwINjI) | [Regarde](https://open.spotify.com/album/1cDrecRdnUbpWtH8Bbqr9J) | 2:35 | 2025-06-12 | 2025-10-10 |
-| [L'homme qui mord](https://open.spotify.com/track/1THYJteZ5aM1nkLwI5XEV9) | [Clémentine](https://open.spotify.com/artist/6A03sWpZmAsYFVV5f6IGVQ) | [L'homme qui mord](https://open.spotify.com/album/2RlS6h4UaY9QZqe5Rbg8hP) | 3:05 | 2025-12-11 |  |
+| [L'homme qui mord](https://open.spotify.com/track/1THYJteZ5aM1nkLwI5XEV9) | [Clémentine](https://open.spotify.com/artist/6A03sWpZmAsYFVV5f6IGVQ) | [L'homme qui mord](https://open.spotify.com/album/2RlS6h4UaY9QZqe5Rbg8hP) | 3:05 | 2025-12-11 | 2026-04-10 |
 | [L'homme à la rivière](https://open.spotify.com/track/6QuZZAr8mMz9JDTm4rSRtd) | [Frànçois & The Atlas Mountains](https://open.spotify.com/artist/1mHTS3stAYCszPZ2PRa8QU), [Yasmine Hamdan](https://open.spotify.com/artist/5VElAWe58JiEzEl4vtjw7J) | [L'homme à la rivière](https://open.spotify.com/album/13i8zUb2HeTdSNW1bOQvtu) | 4:05 | 2025-09-11 | 2026-01-23 |
 | [L'inconnu en personne \- Radio Edit](https://open.spotify.com/track/69IZjDKBWn809QMckwd4Tz) | [Bertrand Belin](https://open.spotify.com/artist/5yFrjxlSd8zPqzCCNrOI5h) | [L'inconnu en personne](https://open.spotify.com/album/2T5Id14bRWzmUDloWyi26O) | 3:36 | 2025-05-22 | 2025-10-03 |
 | [L'Océan des Amoureux](https://open.spotify.com/track/2xZW4rrLzolmc9HfmnqkDP) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Aliocha Schneider](https://open.spotify.com/album/6qXsItClo7MADiKsiMZIAx) | 2:56 | 2025-01-09 | 2025-06-06 |
@@ -180,7 +181,7 @@
 | [Les garçons](https://open.spotify.com/track/5R2vhB1BdBj517BCqGMncJ) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [La symphonie des éclairs](https://open.spotify.com/album/5GoDO8a03bxSSxMCeYKfaW) | 2:50 | 2024-06-27 | 2024-09-27 |
 | [Les gens](https://open.spotify.com/track/327aZ6FSyHbV6SYyb60ckk) | [Matild](https://open.spotify.com/artist/556svfNK6nfvqu9F6N4Eok) | [Les gens](https://open.spotify.com/album/6hOJ1lPPsCDkFjQ4MFDmAX) | 3:22 | 2026-01-22 |  |
 | [Les inséparables](https://open.spotify.com/track/2mJInqoONdxGcDDdf2A5Hb) | [Steve Ibrahim](https://open.spotify.com/artist/0LO2e5fJCBLFn4Ua1IPszs) | [L'oiseau bleu](https://open.spotify.com/album/6KukxYYn4YtlJBQmbaHgvM) | 2:47 | 2026-01-29 |  |
-| [les mots que j'aime](https://open.spotify.com/track/2qbFUOIda3e2w4VB6J0nZf) | [Lili Em](https://open.spotify.com/artist/4LjJmXmEJVACRkgQyMzPBk) | [les mots que j'aime](https://open.spotify.com/album/593xbuj1Sg2GRkylfyWFEt) | 2:44 | 2025-12-18 |  |
+| [les mots que j'aime](https://open.spotify.com/track/2qbFUOIda3e2w4VB6J0nZf) | [Lili Em](https://open.spotify.com/artist/4LjJmXmEJVACRkgQyMzPBk) | [les mots que j'aime](https://open.spotify.com/album/593xbuj1Sg2GRkylfyWFEt) | 2:44 | 2025-12-18 | 2026-04-10 |
 | [Les ogres](https://open.spotify.com/track/6313xKMuwpKqA2xP1Tl2wU) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [Les ogres](https://open.spotify.com/album/3lutBn9xqQgjOUpj88L8mf) | 2:54 | 2024-11-28 | 2025-04-18 |
 | [Les ogres](https://open.spotify.com/track/7maKIQM9dXihvpXAJGSPiV) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [Si on sombre ce sera beau](https://open.spotify.com/album/3F6QXyRhmIV75vrrcE7Qdv) | 2:54 | 2025-04-24 | 2025-09-20 |
 | [Les passantes](https://open.spotify.com/track/7ufept0ukHRMT9GgkSJHHc) | [Benjamin Biolay](https://open.spotify.com/artist/26Kq9bSJsElA93PflKEB1A) | [Les passantes](https://open.spotify.com/album/0tegNRs9PvlCSlbLQHD4kg) | 3:02 | 2025-10-02 | 2026-02-20 |
@@ -207,6 +208,7 @@
 | [mieux](https://open.spotify.com/track/6TT84kS4SrX4HX191MiTJK) | [Heroe](https://open.spotify.com/artist/4MkrS9W3HKGDoFcg6vhbF1) | [failles](https://open.spotify.com/album/6ySc4l3npIPfkr9PyvRcgO) | 2:28 | 2026-01-22 |  |
 | [Mille vagues](https://open.spotify.com/track/43VsszB1Wgi751cjEXII9B) | [Feu! Chatterton](https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo) | [Mille vagues](https://open.spotify.com/album/2klx6aMB66dmleKHxAkvgf) | 5:03 | 2025-07-31 | 2025-12-05 |
 | [Mode d'emploi](https://open.spotify.com/track/3EsRNFcFTVtCyHYtVhMa4P) | [Hélène Sio](https://open.spotify.com/artist/4xY8i64uyLVZJcxobplgOO) | [Mode d'emploi](https://open.spotify.com/album/1WxJGF9ruFXR0wroN8DWHN) | 3:30 | 2024-06-27 | 2024-11-08 |
+| [Moi](https://open.spotify.com/track/5xBznzl74AmnZsmhqME24s) | [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [Moi](https://open.spotify.com/album/6nTICAZHGjKVtB3krnlHEe) | 3:03 | 2026-04-09 |  |
 | [Mon amour](https://open.spotify.com/track/1VQPARXZ68Zxptzvmi4ZvJ) | [Carla De Coignac](https://open.spotify.com/artist/0S71ohbhoJii4mG4geSK2B) | [Confession](https://open.spotify.com/album/2thXDAJEb9XlzTpi8JN0h6) | 4:08 | 2025-10-23 | 2026-03-13 |
 | [Mon épaule](https://open.spotify.com/track/20uMoMNEt8BxWdOP7m19hj) | [Clou](https://open.spotify.com/artist/7DPzuksj4fnGIb4F9dVswN) | [À l'évidence](https://open.spotify.com/album/1BcBAcp829SmQLmIZV9adb) | 2:43 | 2024-11-21 | 2025-04-11 |
 | [Mon épaule](https://open.spotify.com/track/5nzGstfDNJdV1LvN7rehAN) | [Clou](https://open.spotify.com/artist/7DPzuksj4fnGIb4F9dVswN) | [Mon épaule](https://open.spotify.com/album/0Durz9Xr5OHJJG7P8NT67b) | 2:43 | 2024-06-27 | 2024-10-25 |
@@ -250,6 +252,7 @@
 | [Regarder passer les trains](https://open.spotify.com/track/1Lmufi10VKuJumsI9KV2NQ) | [Cyril Mokaiesh](https://open.spotify.com/artist/1SDpo7FeZDqdk329wj2wRk) | [Regarder passer les trains](https://open.spotify.com/album/1j5ehAXMc9wjpDuUWneVpt) | 4:13 | 2025-09-18 | 2026-01-30 |
 | [rentrer chez moi](https://open.spotify.com/track/4lu4t2NkQ8APnm0GwL8Gbl) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [rentrer chez moi](https://open.spotify.com/album/3d8yIiEx11x64VMAbpoQcU) | 3:39 | 2024-06-27 | 2024-09-27 |
 | [Rien du tout](https://open.spotify.com/track/3rdXzSYY67g5M8sf31dxW8) | [Leslie Medina](https://open.spotify.com/artist/6v4kwEeHOGcxcS9PtYAoYN) | [Rien du tout](https://open.spotify.com/album/0sjiM772ZsXVAF2apGzM2k) | 3:20 | 2025-07-10 | 2025-11-28 |
+| [Rien à fêter](https://open.spotify.com/track/2SraRNXafpI7MzEDSssAs3) | [Camille Yembe](https://open.spotify.com/artist/1SRVawVdGv7lue3kE6Ajl9) | [Rien à fêter](https://open.spotify.com/album/6Is9iEcP8QVpihebTOLh7i) | 2:55 | 2026-04-09 |  |
 | [Rien à voir](https://open.spotify.com/track/0KeXKxR394ACwBbarKPBWy) | [chien noir](https://open.spotify.com/artist/2MdOIYu5xlRSog6P2i4uwP), [Raphaël](https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM) | [Rien à voir](https://open.spotify.com/album/230Mq8P3aO4hnHrZ9jECaA) | 3:03 | 2024-06-27 | 2025-01-10 |
 | [Romance](https://open.spotify.com/track/0cgQ3ayZhU7YVGYPzKn077) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Tout pour moi](https://open.spotify.com/album/76RWA8RdhYOHnqDTgRptOl) | 3:10 | 2024-09-19 | 2025-01-24 |
 | [Rome \- Version acoustique](https://open.spotify.com/track/0PtbSikU0FekxFY2o6pNiP) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [Rome \(Version acoustique\)](https://open.spotify.com/album/6BxqvgFnmJpO8YAjiyKFxu) | 2:47 | 2024-06-27 | 2024-11-29 |

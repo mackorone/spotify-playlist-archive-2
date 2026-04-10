@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/0cc8YMQWsSzODyTpdVB6mI.md) - [plain](/playlists/plain/0cc8YMQWsSzODyTpdVB6mI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0cc8YMQWsSzODyTpdVB6mI)
 
-### [Sunset to Sunrise \(2026\)](https://open.spotify.com/playlist/0cc8YMQWsSzODyTpdVB6mI)
+### [Ibiza ultimate mix \(2026\)](https://open.spotify.com/playlist/0cc8YMQWsSzODyTpdVB6mI)
 
 > To travel between house, deep house and positive vibes !
 
-[Kitsuné Musique](https://open.spotify.com/user/maisonkitsune) - 50,598 likes - 46 songs - 2 hr 42 min
+[Kitsuné Musique](https://open.spotify.com/user/maisonkitsune) - 50,600 likes - 46 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/0cc8YMQWsSzODyTpdVB6mI.md) - [plain]
 | 45 | [Edge of Desire](https://open.spotify.com/track/4A56h4B9xUuMMXoKuj18HT) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Malive](https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm) | [Edge of Desire](https://open.spotify.com/album/53b1lFTsC7lV3pieOFYZ9i) | 2:14 |
 | 46 | [Last Dance](https://open.spotify.com/track/0LSktlTAWO96fPG41WLj0N) | [JUNO \(DE\)](https://open.spotify.com/artist/6H0Lbuc95DxzpDkKdwnYQ3) | [Last Dance](https://open.spotify.com/album/7j2HGezyOEGdQ7HTVVbm7A) | 4:33 |
 
-Snapshot ID: `AAAM7ayYzLaLnTopAIhVkzTgb3FqhUtg`
+Snapshot ID: `AAAM7oz3nU/vjMdhHMrzaOJr6hPeIb5t`

@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: NEWLY×TRIPPYHOUSING
 
-3,241 songs - 8 day 12 hr 34 min
+3,242 songs - 8 day 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [\(許\)](https://open.spotify.com/track/1xs6WitcjTsWEhmGtWFbog) | [the dadadadys](https://open.spotify.com/artist/0WhmTXYYR573yJqqTtU2RL) | [だ](https://open.spotify.com/album/5JcQoeSebNsxWEF3Pu5FiO) | 4:15 | 2023-03-21 | 2023-03-29 |
 | [..\. at the empty room](https://open.spotify.com/track/3z2vVhPJ03e8TfGefdQcQk) | [quad.](https://open.spotify.com/artist/0F4JwJ4vfPscYP3rRzgwwo) | [REMAINS / LEFT](https://open.spotify.com/album/0qcbhXeqpQgvMRmUTI27Cw) | 3:32 | 2026-02-17 | 2026-02-25 |
 | [0.5のおっさん](https://open.spotify.com/track/56NEgUhDzcuXJNVGf8wc6i) | [Yujiro Kudo](https://open.spotify.com/artist/199lz68d4IMX2Ep1QA66NA) | [0.5のおっさん](https://open.spotify.com/album/0yFu1vPravdhwiFqaiOIHG) | 2:42 | 2023-06-27 | 2023-07-05 |
-| [000](https://open.spotify.com/track/3BHKVnbJJ2ZpYDhvz5EvFF) | [Vasola Punte](https://open.spotify.com/artist/3rxpGR9QZLc6tsY3N7lAOF), [あだち麗三郎](https://open.spotify.com/artist/03lyogJ68lBASFzxRFVXuc), [高橋佳輝](https://open.spotify.com/artist/2IsDNMbLD0WwWxGwjJ70uH), [髙野なつみ](https://open.spotify.com/artist/3zrLn8jCzac4cDpi6ppXc2) | [Paradise than Paradise](https://open.spotify.com/album/3feojfPAec6EIZHH5V2bGT) | 7:36 | 2026-03-03 |  |
+| [000](https://open.spotify.com/track/3BHKVnbJJ2ZpYDhvz5EvFF) | [Vasola Punte](https://open.spotify.com/artist/3rxpGR9QZLc6tsY3N7lAOF), [あだち麗三郎](https://open.spotify.com/artist/03lyogJ68lBASFzxRFVXuc), [高橋佳輝](https://open.spotify.com/artist/2IsDNMbLD0WwWxGwjJ70uH), [髙野なつみ](https://open.spotify.com/artist/3zrLn8jCzac4cDpi6ppXc2) | [Paradise than Paradise](https://open.spotify.com/album/3feojfPAec6EIZHH5V2bGT) | 7:36 | 2026-03-03 | 2026-04-10 |
 | [1/2 SLEEP \-半分寝てる\-](https://open.spotify.com/track/5Fm7NT5HjWONIM00j8ht2R) | [蓮沼執太フィル](https://open.spotify.com/artist/3l4KxDy6jXb9KjUhShbRR5) | [1/2 SLEEP \-半分寝てる\-](https://open.spotify.com/album/7zD8nN4p6Qsvg0E8CLPH7Y) | 2:51 | 2023-02-14 | 2023-02-22 |
 | [100DPS](https://open.spotify.com/track/0mtOe43uOXT2qifwOkXRrO) | [rirugiliyangugili](https://open.spotify.com/artist/2ojo5MBGfvdfO3Iql07wu9) | [100DPS](https://open.spotify.com/album/0LeQqTQgqWkXCM2VyYSQiS) | 2:00 | 2023-11-29 | 2023-12-06 |
 | [1096](https://open.spotify.com/track/7Ld2efllkAfXdSOkAqPNwu) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [1096](https://open.spotify.com/album/2Cf2vmP3ffvd5n1Qo1UFNY) | 5:45 | 2023-03-30 | 2023-04-29 |
@@ -1543,6 +1543,7 @@
 | [Seagull and Bear](https://open.spotify.com/track/7CXsJratutqUm4JjZUR9Ra) | [ermhoi](https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc), [Black Boboi](https://open.spotify.com/artist/1d0tqPDaL5aLB0Ep2Zjcgn), [Eddna](https://open.spotify.com/artist/1Rpj64xWIfbxKWe6p4gCsm), [Rosa Anschütz](https://open.spotify.com/artist/1kjoxeQwJmoCfXT6j58MTm) | [Seagull and Bear](https://open.spotify.com/album/7nwqYAJkg3wdQhhspwy8Nu) | 4:32 | 2026-03-24 |  |
 | [seaside](https://open.spotify.com/track/2Ymi8OcDkDdHmhwPiZzAK0) | [Nekowaekitai](https://open.spotify.com/artist/1KX2NNKJbcEs2tJBgnnQZ0) | [seaside](https://open.spotify.com/album/5yuapqAvfNrawDsKWWsEjx) | 4:44 | 2025-07-22 | 2025-07-30 |
 | [Seatango](https://open.spotify.com/track/51nYN6ODdXsTytciNYX4qy) | [バスクのスポーツ](https://open.spotify.com/artist/0yaofYMMvhsv6741FK76zU) | [AVATAMA](https://open.spotify.com/album/1ypjmNYyWhCys668wvRqX6) | 2:54 | 2023-01-12 | 2023-01-25 |
+| [Second Choice](https://open.spotify.com/track/26ep2tMoZo02kfIP8rAWfs) | [1LDK](https://open.spotify.com/artist/1USj21nwWPxhGoXmQ3BkrF) | [1LDK](https://open.spotify.com/album/1yOAFtL7Oh7ymsA3zj8zGL) | 2:52 | 2026-04-09 |  |
 | [See off](https://open.spotify.com/track/2T6WQv8yx7J1GQYtlv0xzi) | [hitohira](https://open.spotify.com/artist/33be7ddb9VNByJ4P7WNSCw) | [En](https://open.spotify.com/album/58yDG3Z88b4MjR5rxao9X8) | 2:50 | 2025-11-11 | 2025-11-19 |
 | [See the light](https://open.spotify.com/track/3os94gOfWqmHinacYP8uTZ) | [polly](https://open.spotify.com/artist/38gd8E3gmtPJGRJHfiamVZ) | [See the light](https://open.spotify.com/album/5CzA12iZjIMYTsRGY8dM8v) | 3:14 | 2024-04-09 | 2024-05-01 |
 | [SEE YA](https://open.spotify.com/track/16GhBKzhD19YbCByvMMLJp) | [んoon](https://open.spotify.com/artist/607e1j0oVX9hpFGRQrL3TC) | [Zoo](https://open.spotify.com/album/4kB9n44dTgxuiZZLtaBo9v) | 3:44 | 2026-03-31 |  |

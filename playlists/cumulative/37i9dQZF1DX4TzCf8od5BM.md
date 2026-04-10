@@ -4,7 +4,7 @@
 
 > Sing\-along to your favorite songs from Disney Jr\. shows including music from Mickey Mouse Clubhouse+
 
-236 songs - 6 hr 12 min
+237 songs - 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [Shimmer \- From "Disney Jr\. Music: Ariel"](https://open.spotify.com/track/1rng6RlsQo2JGwsqMezkRh) | [Ariel \- Cast](https://open.spotify.com/artist/55tVyQMqlv8vuCM8pveXLk), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Shimmer \(From "Disney Jr\. Music: Ariel"\)](https://open.spotify.com/album/4aHPr4DFKLBTN0CPIHVHFC) | 1:36 | 2024-05-31 |  |
 | [Sleepover Survival Kit](https://open.spotify.com/track/3tj6EmcDiII8FMPtcuAQ5x) | [Fancy Nancy \- Cast](https://open.spotify.com/artist/4l4bo3QrT0fqA2brroiv34) | [Disney Junior Music: Fancy Nancy](https://open.spotify.com/album/1mMKPPInoqT49MtSQYZK5N) | 0:56 | 2022-03-18 |  |
 | [Sofia the First Main Title Theme \- From "Sofia the First"](https://open.spotify.com/track/3dfpZwSuosIuFqksY0F6gT) | [Cast \- Sofia the First](https://open.spotify.com/artist/2ItqDyOHeQBaOPeZmKVu2p), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H), [Sofia](https://open.spotify.com/artist/5ocA7gtizL3y8huRNXlali) | [Sofia the First](https://open.spotify.com/album/1B74prl74S3dhOsS7hsT4y) | 0:52 | 2022-03-18 |  |
+| [Sofia the First: Royal Magic Theme \- From "Disney Jr\. Music: Sofia the First: Royal Magic"](https://open.spotify.com/track/2g6YlMOSrdekIm9idxeqKR) | [Cast \- Sofia the First](https://open.spotify.com/artist/2ItqDyOHeQBaOPeZmKVu2p), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Sofia the First: Royal Magic Theme \(From "Disney Jr\. Music: Sofia the First: Royal Magic"\)](https://open.spotify.com/album/7xLFLCm0WvaWE7mItxgBZC) | 0:54 | 2026-04-09 |  |
 | [Speak Up!](https://open.spotify.com/track/72iPJOXzGTmQEz97qyg6xc) | [Rise Up, Sing Out \- Cast](https://open.spotify.com/artist/5kOWaYDn4KXG6HntLwTGEx), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: Rise Up, Sing Out](https://open.spotify.com/album/0wqVMWhboaCzHYYm2sJG5U) | 2:05 | 2022-03-18 | 2023-08-09 |
 | [Spideys Don't Give Up \- From "Disney Junior Music: Marvel's Spidey and His Amazing Friends"](https://open.spotify.com/track/0yGSt0CnmXHvmboYFn5KHA) | [Marvel’s Spidey and His Amazing Friends \- Cast](https://open.spotify.com/artist/2BdLNqjv0srjdAEJBI0Jgm), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Spideys Don't Give Up \(From "Disney Junior Music: Marvel's Spidey and His Amazing Friends"\)](https://open.spotify.com/album/0fECAlGLOXPC5iCeh4YtDJ) | 0:59 | 2022-07-22 |  |
 | [Spin, Spin, Spin](https://open.spotify.com/track/0Rg8DsZMeG8Fq6JjEoeQeM) | [Patrick Stump](https://open.spotify.com/artist/0wsdUS0EJ7zHgti2nxTVWR), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: Marvel's Spidey and His Amazing Friends](https://open.spotify.com/album/4vZkw3exmmsT03yZV3wnvT) | 2:23 | 2022-03-18 |  |

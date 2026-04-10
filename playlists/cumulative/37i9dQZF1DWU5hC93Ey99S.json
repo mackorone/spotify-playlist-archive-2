@@ -8071,6 +8071,28 @@
     },
     {
       "album": {
+        "name": "Imagination",
+        "url": "https://open.spotify.com/album/7IcoBgb1jeBfEDDQ9R0lg0"
+      },
+      "artists": [
+        {
+          "name": "Hunter/Game",
+          "url": "https://open.spotify.com/artist/2EpNqFMVXOEGaliyKnZzDt"
+        },
+        {
+          "name": "Aries",
+          "url": "https://open.spotify.com/artist/5i3GGVDRXf0fPJsmzA6uuC"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166284,
+      "name": "Imagination",
+      "url": "https://open.spotify.com/track/43FVchS087rIcfmnrOkNsC"
+    },
+    {
+      "album": {
         "name": "imissthetimes",
         "url": "https://open.spotify.com/album/6soiQc7YLffUhmPHzWbz7q"
       },
@@ -8112,6 +8134,24 @@
       "duration_ms": 226621,
       "name": "In And Out Of Love",
       "url": "https://open.spotify.com/track/7nxTzZJmf2lLplk5pfV64h"
+    },
+    {
+      "album": {
+        "name": "in my arms",
+        "url": "https://open.spotify.com/album/0UvFs5H7Rtv6u26xJsU5uP"
+      },
+      "artists": [
+        {
+          "name": "abelon",
+          "url": "https://open.spotify.com/artist/6RknJW6TTU6TQfTZDptOui"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125653,
+      "name": "in my arms",
+      "url": "https://open.spotify.com/track/7yWy7PV3Sv6kzjhgx4gI4S"
     },
     {
       "album": {
@@ -14436,6 +14476,24 @@
       "duration_ms": 129320,
       "name": "s.o.s",
       "url": "https://open.spotify.com/track/2gRcRlKTI8WSQhufYPlO1Z"
+    },
+    {
+      "album": {
+        "name": "Safe and Sound",
+        "url": "https://open.spotify.com/album/490fzBpBbQcuEBaOS116Fj"
+      },
+      "artists": [
+        {
+          "name": "Eros for you",
+          "url": "https://open.spotify.com/artist/6hFvN0YDYv2sbSn7aY9AOa"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197272,
+      "name": "Safe and Sound",
+      "url": "https://open.spotify.com/track/1rXEgR88Cm8jC28kWI99D8"
     },
     {
       "album": {

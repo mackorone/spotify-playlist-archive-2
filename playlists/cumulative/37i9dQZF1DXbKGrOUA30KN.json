@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "Deutschpop, der jetzt passiert. Cover: Bosse",
+  "description": "Deutschpop, der jetzt passiert. Cover: Ivo Martin",
   "name": "POPLAND",
   "tracks": [
     {
@@ -496,7 +496,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 190773,
       "name": "alles ziemlich laut grade",
       "url": "https://open.spotify.com/track/6pQMF5SeXJTPr9xnFYXM2k"
@@ -1189,6 +1189,24 @@
     },
     {
       "album": {
+        "name": "checkst du",
+        "url": "https://open.spotify.com/album/05IjDZBg2veP9OdhWjmYbF"
+      },
+      "artists": [
+        {
+          "name": "rosa roth",
+          "url": "https://open.spotify.com/artist/4V6eOZ1sdK3SgSXP7oZt0l"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173206,
+      "name": "checkst du",
+      "url": "https://open.spotify.com/track/6JutysYRtlLW5Zi0PGJ8xh"
+    },
+    {
+      "album": {
         "name": "Clair de Lune",
         "url": "https://open.spotify.com/album/3VTJOuOcxEIcYThh5kBLJ6"
       },
@@ -1222,6 +1240,24 @@
       "duration_ms": 125204,
       "name": "Crashout gehen",
       "url": "https://open.spotify.com/track/5FSa7VpkTwOkWbRnK8es8G"
+    },
+    {
+      "album": {
+        "name": "daf\u00fcr war es echt",
+        "url": "https://open.spotify.com/album/26bOG4ZxJECOIHOo9uqrXs"
+      },
+      "artists": [
+        {
+          "name": "Esther Graf",
+          "url": "https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135218,
+      "name": "daf\u00fcr war es echt",
+      "url": "https://open.spotify.com/track/3FmxXR9yoaxgdBs1EypKXA"
     },
     {
       "album": {
@@ -1316,6 +1352,24 @@
       "duration_ms": 182014,
       "name": "das gr\u00f6\u00dfte was es gibt",
       "url": "https://open.spotify.com/track/7pFnKfsvuZZ1kKbkKVSw1f"
+    },
+    {
+      "album": {
+        "name": "Das Gute gewinnt",
+        "url": "https://open.spotify.com/album/2tudaLMlwlBQXAbCb5OtaJ"
+      },
+      "artists": [
+        {
+          "name": "NESS",
+          "url": "https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133303,
+      "name": "Das Gute gewinnt",
+      "url": "https://open.spotify.com/track/2eKCeXpYdqb8uNGPEzahxD"
     },
     {
       "album": {
@@ -1764,7 +1818,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 212933,
       "name": "Du bist meine Heimat",
       "url": "https://open.spotify.com/track/5Br235RALByaMliywTMiWn"
@@ -1804,6 +1858,24 @@
       "duration_ms": 164186,
       "name": "Du bist toll",
       "url": "https://open.spotify.com/track/6qdnFE7DmhNyXOuDKhtA0X"
+    },
+    {
+      "album": {
+        "name": "du bist verliebt.",
+        "url": "https://open.spotify.com/album/0uvG7zIopTY9HK0chARJWx"
+      },
+      "artists": [
+        {
+          "name": "Luca Noel",
+          "url": "https://open.spotify.com/artist/2fgVPd8uD6O3GdNbJqp7Kw"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179205,
+      "name": "du bist verliebt.",
+      "url": "https://open.spotify.com/track/2ha8y1Y6vQSGEgR5fpJEjn"
     },
     {
       "album": {
@@ -1938,6 +2010,24 @@
       "duration_ms": 143466,
       "name": "Ein & Aus",
       "url": "https://open.spotify.com/track/24NLidudvOeWH5T02W7FEB"
+    },
+    {
+      "album": {
+        "name": "Ein Herz kann man nicht reparieren",
+        "url": "https://open.spotify.com/album/4JNZWGAciC47Oh3E6NUXZx"
+      },
+      "artists": [
+        {
+          "name": "Alli Neumann",
+          "url": "https://open.spotify.com/artist/2fUZ5QodNiQntWefUy6Jfh"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198899,
+      "name": "Ein Herz kann man nicht reparieren",
+      "url": "https://open.spotify.com/track/2x6SV7ZcXxuUGzS22NGxxy"
     },
     {
       "album": {
@@ -2281,6 +2371,24 @@
     },
     {
       "album": {
+        "name": "Feuer",
+        "url": "https://open.spotify.com/album/65cD8n0ixy7kU0KWF6sasT"
+      },
+      "artists": [
+        {
+          "name": "wylhem",
+          "url": "https://open.spotify.com/artist/5rRyC53HYyWwWChzlbIgbS"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165579,
+      "name": "Feuer",
+      "url": "https://open.spotify.com/track/2wSGu4sGnxWTNlymOfdjnU"
+    },
+    {
+      "album": {
         "name": "Filmriss",
         "url": "https://open.spotify.com/album/2Fi3qlnWZ6JG0a5lIYHuO9"
       },
@@ -2335,6 +2443,24 @@
     },
     {
       "album": {
+        "name": "Frag f\u00fcr 'n Freund",
+        "url": "https://open.spotify.com/album/0KJFDOMjShBHsaxQyePxRC"
+      },
+      "artists": [
+        {
+          "name": "ENKAY",
+          "url": "https://open.spotify.com/artist/3ZR4DKb6szzEmIavtFES5j"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128395,
+      "name": "Frag f\u00fcr 'n Freund",
+      "url": "https://open.spotify.com/track/4we9MN5jHcCxL1HlSHNJiz"
+    },
+    {
+      "album": {
         "name": "Freifahrtschein",
         "url": "https://open.spotify.com/album/24u8BvomgSwhw6vuYPg55g"
       },
@@ -2368,6 +2494,28 @@
       "duration_ms": 187160,
       "name": "Fremd",
       "url": "https://open.spotify.com/track/2nO5coy49PLMExXkZMaO7J"
+    },
+    {
+      "album": {
+        "name": "Fremd auf der Party",
+        "url": "https://open.spotify.com/album/7tLJi5UQGEB5hAdMbBiijk"
+      },
+      "artists": [
+        {
+          "name": "Florian K\u00fcnstler",
+          "url": "https://open.spotify.com/artist/50ZzowkYhUZZ2uGZSXqJbE"
+        },
+        {
+          "name": "SOPHIA",
+          "url": "https://open.spotify.com/artist/45wdSLZd70phdDkxlA5D3v"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136643,
+      "name": "Fremd auf der Party",
+      "url": "https://open.spotify.com/track/14nS9cqReJSA4ffb1Hhlek"
     },
     {
       "album": {
@@ -2494,7 +2642,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 154204,
       "name": "f\u00fcr immer ich",
       "url": "https://open.spotify.com/track/3kjTkxxw55Q9HY52RF1oTc"
@@ -3407,6 +3555,28 @@
     },
     {
       "album": {
+        "name": "Immer mehr",
+        "url": "https://open.spotify.com/album/3U058Cg8GSHCknSiuQ4IUO"
+      },
+      "artists": [
+        {
+          "name": "LUNA",
+          "url": "https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7"
+        },
+        {
+          "name": "JAS",
+          "url": "https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162206,
+      "name": "Immer mehr",
+      "url": "https://open.spotify.com/track/06aKPl9djVOYNWj4WS2nCI"
+    },
+    {
+      "album": {
         "name": "Immer Nur An Dich",
         "url": "https://open.spotify.com/album/0zRP13ekW4PETWa0xL2iBC"
       },
@@ -3831,6 +4001,24 @@
     },
     {
       "album": {
+        "name": "Keine Blumen ohne Regen",
+        "url": "https://open.spotify.com/album/67n4gHUdfvk8daoE25WDBt"
+      },
+      "artists": [
+        {
+          "name": "Sportfreunde Stiller",
+          "url": "https://open.spotify.com/artist/5PwcOudItUhq3ciF9QwaXZ"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206937,
+      "name": "Keine Blumen ohne Regen",
+      "url": "https://open.spotify.com/track/1CuRtjKTmtIlltHIDRsVRJ"
+    },
+    {
+      "album": {
         "name": "Keine Sorgen",
         "url": "https://open.spotify.com/album/35e5WCueLNh58VOvWAmWD9"
       },
@@ -3979,6 +4167,24 @@
     },
     {
       "album": {
+        "name": "klein sein",
+        "url": "https://open.spotify.com/album/6ntVj9VhYPTBhNmB7F56DP"
+      },
+      "artists": [
+        {
+          "name": "MELLER",
+          "url": "https://open.spotify.com/artist/01bwyExSOpCwS4qqAtglB9"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179124,
+      "name": "klein sein",
+      "url": "https://open.spotify.com/track/4NMhK0SBRWZ0RaVzWc15BS"
+    },
+    {
+      "album": {
         "name": "</3",
         "url": "https://open.spotify.com/album/5Ohm5ieAWkXCwmuN2cTdSd"
       },
@@ -3994,6 +4200,24 @@
       "duration_ms": 146000,
       "name": "kleiner reminder",
       "url": "https://open.spotify.com/track/3qT1ZE1MS8xf0qg4pMrXKt"
+    },
+    {
+      "album": {
+        "name": "(Selbst)bewusst",
+        "url": "https://open.spotify.com/album/0FNtk1dMV62ZGAVkJUmGm4"
+      },
+      "artists": [
+        {
+          "name": "Eli Preiss",
+          "url": "https://open.spotify.com/artist/7JmNUb5QPlIV4psjRqNsID"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168700,
+      "name": "Kleiner Vogel",
+      "url": "https://open.spotify.com/track/6ZZvzVam1Y0wyqwubp2BQj"
     },
     {
       "album": {
@@ -4504,7 +4728,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 225906,
       "name": "Linien",
       "url": "https://open.spotify.com/track/2JNNWzafc1iVN075gE4Ank"
@@ -4522,7 +4746,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 175690,
       "name": "LOS",
       "url": "https://open.spotify.com/track/6tI3yVLGfZLJzMlTMcrU0j"
@@ -4540,7 +4764,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 162000,
       "name": "Loser",
       "url": "https://open.spotify.com/track/41bvcMH85cMo0ZCNZvdRru"
@@ -4634,6 +4858,28 @@
       "duration_ms": 160000,
       "name": "Mann im Mond",
       "url": "https://open.spotify.com/track/23G9Y9YjFY7faYiVt292F5"
+    },
+    {
+      "album": {
+        "name": "mansplaining survivor",
+        "url": "https://open.spotify.com/album/79wMSRAHygeV6vPnjaVPDi"
+      },
+      "artists": [
+        {
+          "name": "Wilhelmine",
+          "url": "https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG"
+        },
+        {
+          "name": "ok.danke.tsch\u00fcss",
+          "url": "https://open.spotify.com/artist/73SW9LnBmuff938R5ZbqK4"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190177,
+      "name": "mansplaining survivor",
+      "url": "https://open.spotify.com/track/147XAaZBvbw6DQpPMBcTKC"
     },
     {
       "album": {
@@ -4825,6 +5071,24 @@
     },
     {
       "album": {
+        "name": "Mensch im Spiegel",
+        "url": "https://open.spotify.com/album/2xJ6t5znut19fzv2oHMUC7"
+      },
+      "artists": [
+        {
+          "name": "Ivo Martin",
+          "url": "https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139565,
+      "name": "Mensch im Spiegel",
+      "url": "https://open.spotify.com/track/18DNauPPeiBGsRmNxNpsLt"
+    },
+    {
+      "album": {
         "name": "mich hat man(n) nicht lieb",
         "url": "https://open.spotify.com/album/2C46UXfOaIYtC2MXylfU3K"
       },
@@ -4836,7 +5100,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 164000,
       "name": "mich hat man(n) nicht lieb",
       "url": "https://open.spotify.com/track/3lbupIIUEgE4NLtIW3FFxM"
@@ -4872,7 +5136,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 158640,
       "name": "Mitte M\u00e4rz",
       "url": "https://open.spotify.com/track/55wceeG8waWoG6db0o7xul"
@@ -4890,7 +5154,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 117562,
       "name": "m\u00e4dchen von nebenan",
       "url": "https://open.spotify.com/track/5pUAUBe4uvCCbStDSAo69l"
@@ -5238,6 +5502,24 @@
       "duration_ms": 169733,
       "name": "niemand",
       "url": "https://open.spotify.com/track/7HliIujjPo4rMledIPT8n5"
+    },
+    {
+      "album": {
+        "name": "Niemand ist perfekt",
+        "url": "https://open.spotify.com/album/30g8F2xvwPCi0TCCIrs2zP"
+      },
+      "artists": [
+        {
+          "name": "ELEHA",
+          "url": "https://open.spotify.com/artist/56mSZjn1q0tcYyC1N2c7TT"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178714,
+      "name": "Niemand ist perfekt",
+      "url": "https://open.spotify.com/track/4l8VmY3YnBZ1heMneGSS9p"
     },
     {
       "album": {
@@ -5761,6 +6043,28 @@
     },
     {
       "album": {
+        "name": "poltergeist (feat. Emma Josephine)",
+        "url": "https://open.spotify.com/album/6eQFiz8uffTixXA2rH1u4H"
+      },
+      "artists": [
+        {
+          "name": "georgustav",
+          "url": "https://open.spotify.com/artist/5axauV52djUUY4BJcnxdZo"
+        },
+        {
+          "name": "Emma Josephine",
+          "url": "https://open.spotify.com/artist/2Erk3x0bvGdyvu1q7bvkWr"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164668,
+      "name": "poltergeist (feat. Emma Josephine)",
+      "url": "https://open.spotify.com/track/2zEsuKoe2JKoi15SMWJLiX"
+    },
+    {
+      "album": {
         "name": "Postkarte",
         "url": "https://open.spotify.com/album/4et9kWMjhK8ILEs5YlupBj"
       },
@@ -5988,7 +6292,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 126200,
       "name": "schwindelig (omgomgomg)",
       "url": "https://open.spotify.com/track/6hQgOls99mEFCS8LSOQSUx"
@@ -6104,6 +6408,28 @@
       "duration_ms": 195696,
       "name": "SloMo",
       "url": "https://open.spotify.com/track/1EKBXOQtZMHY8TH9BcmYrA"
+    },
+    {
+      "album": {
+        "name": "So gut",
+        "url": "https://open.spotify.com/album/2A1XA3x2IEt5Eocu0ZfNGC"
+      },
+      "artists": [
+        {
+          "name": "LAZLO",
+          "url": "https://open.spotify.com/artist/435fmLcbvAJdnVy78faNWY"
+        },
+        {
+          "name": "Anna Grey",
+          "url": "https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139616,
+      "name": "So gut",
+      "url": "https://open.spotify.com/track/6XeWiaVccx7THsF34WJAYG"
     },
     {
       "album": {
@@ -6461,6 +6787,24 @@
     },
     {
       "album": {
+        "name": "Mein Herz Kriegst Du Nicht",
+        "url": "https://open.spotify.com/album/4mqDThnBYldj5Qh8XLrJ20"
+      },
+      "artists": [
+        {
+          "name": "Tom Twers",
+          "url": "https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 3",
+      "url": "https://open.spotify.com/track/6MSFHB0Fwjlr1gWcRnjcat"
+    },
+    {
+      "album": {
         "name": "Traumfrau",
         "url": "https://open.spotify.com/album/4eDGUfOsDno1JYQ7lOzoj9"
       },
@@ -6815,6 +7159,24 @@
     },
     {
       "album": {
+        "name": "Vorsichtig zerbrechlich!",
+        "url": "https://open.spotify.com/album/3D1CqRgBwdtchs9GieUcrE"
+      },
+      "artists": [
+        {
+          "name": "Sandra Hesch",
+          "url": "https://open.spotify.com/artist/4Kmi9gtWqvt7AJU2m1SNsh"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137186,
+      "name": "Vorsichtig zerbrechlich!",
+      "url": "https://open.spotify.com/track/01WUR7VlkGhxFXnPomrjGq"
+    },
+    {
+      "album": {
         "name": "Blumendisko",
         "url": "https://open.spotify.com/album/6oXAEUnTApKVWaMsVYBylO"
       },
@@ -7058,6 +7420,28 @@
       "duration_ms": 106762,
       "name": "wasdubrauchst",
       "url": "https://open.spotify.com/track/31z1ElG7maZkXcsdY3zURZ"
+    },
+    {
+      "album": {
+        "name": "watch me",
+        "url": "https://open.spotify.com/album/7cGfQ7T20mmGgx0sCvsMuE"
+      },
+      "artists": [
+        {
+          "name": "DUEJA",
+          "url": "https://open.spotify.com/artist/1QKx9HbmmkV4FgL2nkFVRl"
+        },
+        {
+          "name": "GWENDO",
+          "url": "https://open.spotify.com/artist/3jiUj8e5dI5ByS6v5Car7I"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144857,
+      "name": "watch me",
+      "url": "https://open.spotify.com/track/43HETwsBf1TLoiNUjh1D9a"
     },
     {
       "album": {
@@ -7430,7 +7814,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 199865,
       "name": "Wer ich bin",
       "url": "https://open.spotify.com/track/6QWhjVkNruMhjWOAMwJmRA"

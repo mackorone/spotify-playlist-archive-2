@@ -4,7 +4,7 @@
 
 > Suomi\-indien tuoreimpia helmiä.
 
-1,134 songs - 2 day 20 hr 14 min
+1,141 songs - 2 day 20 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Always Home](https://open.spotify.com/track/2ss2wwntsEJoLIExHn7b7D) | [Rebecca Annan](https://open.spotify.com/artist/2VGVrPiJeZn0oGa1ojkomp) | [Always Home](https://open.spotify.com/album/7Fh5pXlsjt82eMmTMkHxnD) | 2:46 | 2024-07-25 | 2024-09-13 |
 | [Amanda](https://open.spotify.com/track/3OtQlxBiD6xHvFcwQ2fVxW) | [Saara Heikkilä](https://open.spotify.com/artist/4flriaNYutPrkoFYyrH5Qa) | [Amanda/Ota Viivi viski](https://open.spotify.com/album/7F0z3eu7mjdHfNbLY5ec95) | 3:17 | 2024-12-05 | 2025-01-10 |
 | [Amatsonibeibi](https://open.spotify.com/track/3CXSWh2e1sQTGIY85sIi0d) | [20 000 Hz](https://open.spotify.com/artist/3iHSklDYGjosLmV4FqAvRQ) | [Amatsonibeibi](https://open.spotify.com/album/052gqCssy7mE2R2Q7db6Lt) | 5:16 | 2024-08-08 | 2024-09-13 |
+| [Amber & Gold](https://open.spotify.com/track/0yhablwszymBQFKQKAU0GZ) | [Ghosts on TV](https://open.spotify.com/artist/2ZajVdMwsg3XJw3Sq7vuBT) | [Amber & Gold](https://open.spotify.com/album/07SQ1Bc3rkl8M6ftym8ulf) | 4:53 | 2026-04-09 |  |
 | [Amerikanska skatter](https://open.spotify.com/track/5GRiNGDrXfmXyFU0a2CNJ9) | [Anna Järvinen](https://open.spotify.com/artist/70vrcQugFAOAtOFIW1wcyR) | [Sex](https://open.spotify.com/album/6QwjDeBKY3VKcKIiMoRvtH) | 5:37 | 2024-10-17 | 2024-11-15 |
 | [Anastacia](https://open.spotify.com/track/7lY4LUQ9FNQYC2r0Fo0a9H) | [Kaikki turhat haaveet](https://open.spotify.com/artist/5rsorJ0ZGBj6QvSbRMHDtK) | [Anastacia](https://open.spotify.com/album/5HCp3YqrxzzhL5hBXqsZdp) | 3:20 | 2025-01-23 | 2025-03-07 |
 | [Anna K.](https://open.spotify.com/track/0XIyge4FqVuwSgDZeEZnf1) | [Tuomo Mannonen](https://open.spotify.com/artist/1pVcazwrzonZgkPQifJNRc) | [Anna K.](https://open.spotify.com/album/0OQ2tfOnec7JrExaxlUa9Y) | 3:34 | 2024-10-17 | 2024-11-22 |
@@ -238,6 +239,7 @@
 | [Hameenhelma](https://open.spotify.com/track/5CAdEI3wIkAGjpOm2Nj9aQ) | [Kristiina](https://open.spotify.com/artist/5fEqxlogYcyf0JNyWSyj1S) | [Muistatko kuka on kristiina?](https://open.spotify.com/album/2rNDHr6w9ALOsdlbwKahUJ) | 3:04 | 2025-09-18 | 2025-11-07 |
 | [Hapentuhlaaja](https://open.spotify.com/track/1Kf9dXKBgADl0e1ykqqVnP) | [Maustetytöt](https://open.spotify.com/artist/7JHNSkrbx2b0w8psFeVE4I) | [Hapentuhlaaja](https://open.spotify.com/album/6TMeO2tK5MdNro4q7G0DNR) | 4:36 | 2026-02-19 |  |
 | [Happi](https://open.spotify.com/track/1XSNhGeVczf7LpEMpEwx0Z) | [Ministeri](https://open.spotify.com/artist/1ABuJ1UJiToEnR8yW1d4Ow) | [Happi](https://open.spotify.com/album/4rCu5rGJW6P1KW9bgqZLXg) | 3:53 | 2024-07-25 | 2024-08-23 |
+| [HAPPY](https://open.spotify.com/track/0DZScCMtlz8LqbrsUP7WbF) | [Twig Hands](https://open.spotify.com/artist/6RvkDVwr85kvS3D0GvZH9u) | [HAPPY](https://open.spotify.com/album/2KKI2jHp2s5TQ784H3zCuL) | 3:05 | 2026-04-09 |  |
 | [Hatchet](https://open.spotify.com/track/4Eyv6QW5kiKazZEUTymN2o) | [Longing Louisa](https://open.spotify.com/artist/3XA3PiXHUOhlN2ZT4DngyC) | [Waterphile](https://open.spotify.com/album/09dRovXjGs7SuBvMb8lDWB) | 6:53 | 2025-11-06 |  |
 | [Hautajaismuusikot](https://open.spotify.com/track/1lTKyfgZBIbaRrGIRG1Jmb) | [Karri Lehtonen](https://open.spotify.com/artist/1DfYnEWrVM7KTAqe10SReh), [Hautajaismuusikot](https://open.spotify.com/artist/3PPl2pAFIUANr7LFMj5GHy) | [Hautajaismuusikot](https://open.spotify.com/album/6y9Hiiy0KfBSmXWDUlWYiz) | 4:08 | 2024-11-28 | 2025-01-03 |
 | [Hayabana \- Pop version](https://open.spotify.com/track/6uCrNNQcIEl0zKneTjmWG2) | [O\. Inha](https://open.spotify.com/artist/2RGAmvhNI0OqfH0MAmN8UT) | [Hayabana](https://open.spotify.com/album/0OH9jgAI2ODH3KzgiGPEhH) | 2:46 | 2024-07-02 | 2024-08-02 |
@@ -532,6 +534,7 @@
 | [Lohduta mua](https://open.spotify.com/track/16HDCSQ4yGfWPzIYPDdHun) | [\_\_\_\_\_](https://open.spotify.com/artist/0IlQBSolh31OvT8PXiDnEt) | [Musiikkia elokuvasta Jossain on valo joka ei sammu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6ziRwtshvBZIYxWGwNMVUO) | 5:47 | 2025-09-11 | 2025-11-07 |
 | [Lohtulaulu](https://open.spotify.com/track/7jm1wsdoB1aUllnaejdmTH) | [Juha\-Matti Paska](https://open.spotify.com/artist/2RxxwYRUZZFbnPftjUwwJE) | [Lohtulaulu](https://open.spotify.com/album/7MFDo4wAcN3sq4QAFR898E) | 3:43 | 2025-03-20 | 2025-04-25 |
 | [LOL \(Liika on liikaa\)](https://open.spotify.com/track/0MXXKYIGZc7JNJnaKoV22f) | [Okkim](https://open.spotify.com/artist/0ddugsnMCMlH53rBe8zR1o) | [LOL \(Liika on liikaa\)](https://open.spotify.com/album/0dFVKKAq0Gg7OgZ5JwgC9P) | 3:35 | 2024-11-14 | 2025-01-17 |
+| [Look to the Left, Look to the Right](https://open.spotify.com/track/36ysdfAFO9qWTEdKWdQDiM) | [Aleksi Oksanen](https://open.spotify.com/artist/57ykQsgvmUWPQbIMpiyiH2) | [Look to the Left, Look to the Right](https://open.spotify.com/album/6o7NXuKePoAU6DWH7qEGPB) | 1:52 | 2026-04-09 |  |
 | [Loppuu muutellen](https://open.spotify.com/track/1ZCXg7R8KLerAca4dJyXAn) | [Eero Rivera](https://open.spotify.com/artist/0X4YpLbMH9LdgbwbBBlHdy) | [Liikaa Liikaa](https://open.spotify.com/album/3UeKaaNqEOllkFKLast7JZ) | 3:48 | 2024-08-22 | 2024-09-20 |
 | [lose my cool](https://open.spotify.com/track/6LZFsqJA882z80VvdrpTVh) | [Fredrika Rei](https://open.spotify.com/artist/5N8e6CZ7XT5D6bKYFOIsD8) | [lose my cool](https://open.spotify.com/album/3dlnnhTC3bHOAoWtngCze7) | 3:12 | 2024-07-02 | 2024-08-02 |
 | [Losing My Grip](https://open.spotify.com/track/05NRJ6qjl95T8oeWQKtIKr) | [SLICERRR](https://open.spotify.com/artist/3GB8z7LVpICvbZaMYaZkju) | [SLICERRR](https://open.spotify.com/album/4vhz4wG6xXZkAG2UNTLHiV) | 2:48 | 2025-02-06 | 2025-02-28 |
@@ -696,6 +699,7 @@
 | [onnellinen](https://open.spotify.com/track/1iR8pMrtxB2FufBN69L2zC) | [fibi](https://open.spotify.com/artist/3ZzkX4rxGFuxbIaavXhWoo) | [onnellinen & heinäkuu](https://open.spotify.com/album/5R2Nuzq754IZHOipNt9Iek) | 3:17 | 2024-08-29 | 2024-09-27 |
 | [Onnenkyynelii](https://open.spotify.com/track/6im44DUi3DS1R1mLoBBjgv) | [Aatulove](https://open.spotify.com/artist/68tgBoDueRzHJqVOHYSGVm) | [Onnenkyynelii](https://open.spotify.com/album/7BL7XUeBvVLwRByTGU5LtE) | 2:53 | 2025-09-11 | 2025-10-17 |
 | [Onnensulka](https://open.spotify.com/track/5K2KKUa8V6rGL1zi7ZlgKm) | [Helmi Ada](https://open.spotify.com/artist/1c0z82L730om1smkNCNHCE) | [Onnensulka](https://open.spotify.com/album/2PJmD1475XklxDnik8tICc) | 5:01 | 2025-02-13 | 2025-03-14 |
+| [onneton](https://open.spotify.com/track/1uPg8IUqgkDrSXb27zTBDl) | [ama](https://open.spotify.com/artist/1sAg7IqfaJWUFIeJRHXA6v) | [onneton](https://open.spotify.com/album/15acrWu8Alprme1e15BmcU) | 2:57 | 2026-04-09 |  |
 | [Oo vaan \(baby\)](https://open.spotify.com/track/0SHSJM8ZI3oAxeW0mclRZv) | [Local Al](https://open.spotify.com/artist/4CxIg9I8wqybDXishMnZrS) | [Oo vaan \(baby\)](https://open.spotify.com/album/5TEqZXm5UIJ8rtfvym9vGZ) | 5:28 | 2025-06-12 | 2025-08-15 |
 | [Oodi](https://open.spotify.com/track/05HvgbkvGKtrLdWIQdmYfE) | [Antti Autio](https://open.spotify.com/artist/3KUc1iwMflU36B2qtCnt6n) | [Tie on maalattu maahan](https://open.spotify.com/album/2jDWrQso1RkuUxfpZXiERZ) | 5:14 | 2026-03-19 |  |
 | [Oona Amalia](https://open.spotify.com/track/4TBWQONKcwLm1XQyeHfMVP) | [Kas Kan](https://open.spotify.com/artist/0FJJWDQ8141Y1JQzthtEnG) | [Oona Amalia](https://open.spotify.com/album/21C9OLePWUlPeQDVrhHvOy) | 4:00 | 2024-11-14 | 2025-01-17 |
@@ -902,6 +906,7 @@
 | [Spirals](https://open.spotify.com/track/0avptVPz0m9BTop0E7SE1g) | [Rosettes](https://open.spotify.com/artist/5IGpCYZ0wnD5WPtLZZZry4) | [Spirals](https://open.spotify.com/album/1OZbB6hiP6prMpJgL9oNj2) | 4:06 | 2025-02-20 | 2025-03-21 |
 | [Spiritismi](https://open.spotify.com/track/39RSeY6eirD9F0zcB8NKwU) | [Rättö & Lehtisalo](https://open.spotify.com/artist/6psG7Ko0utfH26xwSszqxS) | [Spiritismi](https://open.spotify.com/album/44TX13M4nsC4puf2J3rRXM) | 8:40 | 2025-06-19 | 2025-07-18 |
 | [Split](https://open.spotify.com/track/03nfFZluTBlOZOtLNMol1y) | [Bobomobile](https://open.spotify.com/artist/1ksvodwIQsqlRDRmRZ69p5) | [Split](https://open.spotify.com/album/4pavMT7959oMZ9chEPr1nB) | 4:12 | 2025-04-24 | 2025-05-16 |
+| [Sports Shorts](https://open.spotify.com/track/6KaXfFrsiuhCzFnFaB50fI) | [Erika Sirola](https://open.spotify.com/artist/1OHw2r7Diz2rc9JktaFV6N) | [Sports Shorts](https://open.spotify.com/album/7tUiYc64pnXTRy6TT5MX3w) | 3:17 | 2026-04-09 |  |
 | [Stadion](https://open.spotify.com/track/4CrJH1SsGoRfcc85MRBJLs) | [Ne Lintuizet](https://open.spotify.com/artist/6Oygx8XzWbloL8MsTl1Zhc) | [Stadion](https://open.spotify.com/album/2MkmIMWWpqrc9zmkN8LOw3) | 4:34 | 2024-10-24 | 2024-11-15 |
 | [Starlings](https://open.spotify.com/track/0S81cmGoCVwpdSOkXaELXc) | [The Whistleblower](https://open.spotify.com/artist/7GuNfliw9j0CsLLR4iH6AX) | [Starlings](https://open.spotify.com/album/18bjoBj8HPl7KxYbzvP0ti) | 4:37 | 2025-08-14 |  |
 | [Storyteller](https://open.spotify.com/track/2GgRklSLCLaEYcBvgexUXE) | [Zangoma](https://open.spotify.com/artist/41uVQ1Nd3TJIpdllRdea7s) | [Faka Mulilo](https://open.spotify.com/album/2tW4S7VdmcxVsz9SLMZC3N) | 5:09 | 2025-01-30 | 2025-03-07 |
@@ -972,6 +977,7 @@
 | [The Beast In Me](https://open.spotify.com/track/2u5zlkN9ysoR0kMpxKXRkh) | [LEONHEART](https://open.spotify.com/artist/0tKEoknPTfTqKily01A8Zp) | [The Beast In Me](https://open.spotify.com/album/2eUWAJr2cMha8M1HeboLPh) | 2:57 | 2024-12-12 | 2025-01-31 |
 | [The Blue Cafe](https://open.spotify.com/track/2XAjxqJavmn3CGzUEnN5Hh) | [Mr\. Dad](https://open.spotify.com/artist/2fOBIIJjLrqWQQmoEUoZPp) | [The Blue Cafe](https://open.spotify.com/album/0OIIeN56QmSh2tmuPPXW4k) | 3:08 | 2024-12-12 | 2025-02-07 |
 | [The Call](https://open.spotify.com/track/5143CewK5u1C3pdlF8vBLb) | [Rosettes](https://open.spotify.com/artist/5IGpCYZ0wnD5WPtLZZZry4) | [Lifestyles](https://open.spotify.com/album/0El65s7m33i3Z35eQF4OmM) | 4:20 | 2025-04-03 | 2025-05-09 |
+| [The Call](https://open.spotify.com/track/4rEEj52J98cvZGY1tnKL9T) | [softboi](https://open.spotify.com/artist/27xAwGlI77AwTj44z7EPUF) | [The Call](https://open.spotify.com/album/3WTBTOIWjnYMpSPIKLw9UA) | 3:14 | 2026-04-09 |  |
 | [The Good Leader](https://open.spotify.com/track/0fYVTrGu0wQP4gLMOqIUPs) | [VoodooV](https://open.spotify.com/artist/6zlAZi3ZAlc3bs7srxb0yT) | [The Good Leader](https://open.spotify.com/album/1fsNOfClIi4oKEJv1KrOFp) | 3:12 | 2025-08-21 | 2025-09-19 |
 | [The Last Christmas](https://open.spotify.com/track/5A5nTcX10qoYavLqHHr8ut) | [Solemn Golem](https://open.spotify.com/artist/786SwvDh1YFMLciXStwYGM) | [The Last Christmas](https://open.spotify.com/album/2SNkesgHTXhnpfsRBotaRd) | 6:39 | 2024-12-19 | 2025-02-07 |
 | [The Man](https://open.spotify.com/track/1oBceZTuKOEXOfHEp5Xthl) | [Joel Sundkvist](https://open.spotify.com/artist/7uuTT33JCupBqe9tB9CZUM) | [The Man](https://open.spotify.com/album/4sPm6xQARbqr7kKdD1koJ9) | 2:56 | 2025-07-24 | 2025-09-05 |
@@ -1045,6 +1051,7 @@
 | [unelmien kesäpäivä](https://open.spotify.com/track/7nrF0kACreGnerlmnDKCdU) | [Lapsihymy](https://open.spotify.com/artist/1Gn0UpjfPnnsCuCMn20GHk), [Ale](https://open.spotify.com/artist/5kcy9FHFUNxLMITjtUCOOL) | [unelmien kesäpäivä](https://open.spotify.com/album/3TbVOhw1NndXdJwJZIGq4a) | 3:49 | 2024-07-02 | 2024-07-12 |
 | [unissakävelijä](https://open.spotify.com/track/7gwMuJIadwEqj5U4eqRsIg) | [laventeliunia](https://open.spotify.com/artist/5IlnJeaRcuITFeiiRKyKMP) | [unissakävelijä](https://open.spotify.com/album/5K9r4JOvAojdlQgHzBGiZU) | 4:19 | 2024-08-22 | 2024-09-20 |
 | [Universumi](https://open.spotify.com/track/4RZReBlJ2jz1aRjkUb8bpE) | [Armi Harmio](https://open.spotify.com/artist/15rGwr6eWbNG5hD2l0xHOi) | [Universumi](https://open.spotify.com/album/617K1kKVNl6yH3r52Fsb2m) | 3:21 | 2025-04-17 | 2025-05-30 |
+| [Until it Sleeps](https://open.spotify.com/track/4d6uxhao07qO1XJD42bOSg) | [Vauxdeville](https://open.spotify.com/artist/3Nod7v4IbsfLrx99iPZfOp) | [Until it Sleeps](https://open.spotify.com/album/3ljzAtB9WNeFFwbaKTo9Ip) | 3:04 | 2026-04-09 |  |
 | [Uudestaan](https://open.spotify.com/track/7l85jewWzD4AV6J4tYsJJJ) | [kukkatalo](https://open.spotify.com/artist/2PGMdEZQ77cq8niDgHe1X1) | [Ristiriita](https://open.spotify.com/album/6Dk1S6dzPOrHjAHYFNYWWb) | 2:57 | 2026-02-19 |  |
 | [Uudestaan](https://open.spotify.com/track/2zWSsuL80znJM2qez2wET3) | [Neiti Olga](https://open.spotify.com/artist/7m7lPaTH2xKMatR193Xtop) | [Uudestaan](https://open.spotify.com/album/4BAHbwQr5pn7eKlRXUo81h) | 6:07 | 2025-09-04 | 2025-09-26 |
 | [Uus normi](https://open.spotify.com/track/2mQQRDkKqewjrcf6SnCiwI) | [HALKO](https://open.spotify.com/artist/79IxWunX0jajGf0HAUY4kJ) | [Uus normi](https://open.spotify.com/album/2MtgE4AUFaonlZTSFnq96C) | 2:55 | 2024-08-15 | 2024-09-20 |

@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Buzzy Lee
 
-2,064 songs - 5 day 3 hr 31 min
+2,065 songs - 5 day 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Airplane to Nowhere](https://open.spotify.com/track/3ABYy0MDc7vkBINg97UaRn) | [Anna Tivel](https://open.spotify.com/artist/112l2WmZaTlJcl13f4iFAs) | [Animal Poem](https://open.spotify.com/album/2Wc67c1qz3p4VenzHMw0eM) | 3:14 | 2025-09-03 | 2025-12-04 |
 | [Alaska](https://open.spotify.com/track/4hnrh0AyELTcz5FST6Lhxw) | [Tyler Cain](https://open.spotify.com/artist/7xmVA0jnh2yjM3S642J1Bd) | [Alaska](https://open.spotify.com/album/4YdpBlz2PcozEEDcDH6Z7b) | 3:38 | 2024-02-28 | 2024-04-24 |
 | [Alberta](https://open.spotify.com/track/2i6Nrke5ecntMAHCFHKTuv) | [Alex Teller](https://open.spotify.com/artist/4wLzdJSvYTQUrsNEMasFaq) | [Alex Teller](https://open.spotify.com/album/4tbBEUrbkM4ggXCwJH0b73) | 4:41 | 2023-01-18 | 2023-03-09 |
+| [Algae Bloom](https://open.spotify.com/track/2xgo1E9g90fftyw6KFgfsa) | [Trinity Ace](https://open.spotify.com/artist/3O3IFttPeEWlD97qgHoc86) | [Algae Bloom / Martyr](https://open.spotify.com/album/6ueVUYttFFfL0APBWFAmrY) | 7:52 | 2026-04-09 |  |
 | [All At Once](https://open.spotify.com/track/2o580zubSdTzl5Hy7LLBwi) | [Kaleah Lee](https://open.spotify.com/artist/6JgC582KHI4BpHIhbFHVAQ) | [All At Once](https://open.spotify.com/album/5yc4uHuJ6OWBiRhDavoKWO) | 3:47 | 2023-03-29 | 2023-05-11 |
 | [All Dressed Up](https://open.spotify.com/track/16tDIaiRiKwpMa0fPClD4f) | [Leah Blevins](https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW) | [All Dressed Up](https://open.spotify.com/album/5zqMV2D4h729UcVAh0QFFs) | 3:11 | 2025-11-14 | 2025-12-04 |
 | [All Flowers In Time Bend Towards The Sun](https://open.spotify.com/track/6GdHBkw5uOHWXRC5tNWv4U) | [Ruby Weapon](https://open.spotify.com/artist/52adj4yH6dkuSk0ow4mBIw), [Hannah Telle](https://open.spotify.com/artist/6pXKQVhbDJnq2JknjjrAjr) | [All Flowers In Time Bend Towards The Sun](https://open.spotify.com/album/7nKc2fN6x7sb7kYQYuAe5j) | 4:21 | 2023-03-15 | 2023-04-27 |

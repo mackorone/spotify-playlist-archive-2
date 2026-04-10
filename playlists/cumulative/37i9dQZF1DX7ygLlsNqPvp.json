@@ -70,7 +70,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 156000,
       "name": "2WEEKS",
       "url": "https://open.spotify.com/track/4diACBEsDL3AXOeTjncXa8"
@@ -720,6 +720,24 @@
       "duration_ms": 261982,
       "name": "Anadwo",
       "url": "https://open.spotify.com/track/5yqluqBQfM3QyBYy42kXT4"
+    },
+    {
+      "album": {
+        "name": "A BEAST IS BORN",
+        "url": "https://open.spotify.com/album/2ZRpFZ6DEwtA49RRQKKxmo"
+      },
+      "artists": [
+        {
+          "name": "Endiz",
+          "url": "https://open.spotify.com/artist/4t259Ch8KqLB4TeQg4gYjw"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167341,
+      "name": "ANTWI",
+      "url": "https://open.spotify.com/track/6rQBxPjJuEmnjZXvch4D2Q"
     },
     {
       "album": {
@@ -2030,7 +2048,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 147299,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/3KUHvjCyXJpFvd2Hf29aGa"
@@ -4843,6 +4861,24 @@
     },
     {
       "album": {
+        "name": "PLENTY WAHALA",
+        "url": "https://open.spotify.com/album/1Ao4ScnHoXMMo0SuH3AMfH"
+      },
+      "artists": [
+        {
+          "name": "Xlimkid",
+          "url": "https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167368,
+      "name": "PLENTY WAHALA",
+      "url": "https://open.spotify.com/track/6Q8VMpuINAzI3CKcb0Mr3i"
+    },
+    {
+      "album": {
         "name": "TPS",
         "url": "https://open.spotify.com/album/7lF6SMbtfihgllL2byoKjn"
       },
@@ -4880,6 +4916,24 @@
       "duration_ms": 266000,
       "name": "Press 2",
       "url": "https://open.spotify.com/track/3zLOIvEldB1gIquM8FFqRm"
+    },
+    {
+      "album": {
+        "name": "THE BIG BENK THEORY",
+        "url": "https://open.spotify.com/album/28oAbRsScwunyzeNBLepnF"
+      },
+      "artists": [
+        {
+          "name": "Braabenk",
+          "url": "https://open.spotify.com/artist/0TUUFSxsiNUDliSybMOI7I"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72000,
+      "name": "PSA",
+      "url": "https://open.spotify.com/track/6A2ebely8FlDFE8eTFg1pH"
     },
     {
       "album": {
@@ -5022,7 +5076,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 207107,
       "name": "Ringing",
       "url": "https://open.spotify.com/track/3Nk9QDlj5NJlXX2HeSZwVb"
@@ -5070,7 +5124,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 197538,
       "name": "Ronaldinho",
       "url": "https://open.spotify.com/track/4brOqZdf8uJ4FI5pGjghIe"
@@ -5672,7 +5726,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 187034,
       "name": "Take You Back",
       "url": "https://open.spotify.com/track/0YMBXd9TKkl5hvjfQwNHWN"
@@ -6500,6 +6554,28 @@
       "duration_ms": 190180,
       "name": "YEDIN",
       "url": "https://open.spotify.com/track/6rdL3EDLxPR4Tq8WJIJ5xC"
+    },
+    {
+      "album": {
+        "name": "Yegye Yeni",
+        "url": "https://open.spotify.com/album/4UEh9fTXt8PR57enDQB2VR"
+      },
+      "artists": [
+        {
+          "name": "Melloboy",
+          "url": "https://open.spotify.com/artist/0zUeVlhVCyM3kSnAAc98WI"
+        },
+        {
+          "name": "Kofi Mole",
+          "url": "https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Yegye Yeni",
+      "url": "https://open.spotify.com/track/6rXJ7UFomJLt8BnKGg4axr"
     },
     {
       "album": {

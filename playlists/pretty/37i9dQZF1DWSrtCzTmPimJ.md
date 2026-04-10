@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrtCzTmPimJ.md) - [plain]
 
 > Help ease your anxiety levels and enter an Alpha brainwave state with this session of ambient binaural beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,255 likes - 150 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,369 likes - 150 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,7 +120,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrtCzTmPimJ.md) - [plain]
 | 110 | [Cosmic Cadence \(Alpha Binaural 93.5 Hz \- 103 Hz\)](https://open.spotify.com/track/6gOn4ExjL2VUxAHaxKuO5t) | [Doctor Hz](https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re) | [Cosmic Cadence \(Alpha Binaural 93.5 Hz \- 103 Hz\)](https://open.spotify.com/album/1ZGwHz7AO9PkL6muWfhvSL) | 4:07 |
 | 111 | [Alpha Focus 97Hz \- 104Hz](https://open.spotify.com/track/67VwwXXg1k6cEMFX1rpGoo) | [Universal Frequency](https://open.spotify.com/artist/0pIcKP7M8X29OqdKClIIJH) | [Alpha Focus](https://open.spotify.com/album/72Vc8gmpKCcMDwDTc3H6zp) | 3:51 |
 | 112 | [Translucent \- Alpha Sinus 71,7 Hz \- 73,8 Hz](https://open.spotify.com/track/0BbLU0pwbzAzFkJjbl9KdJ) | [Electronic Waves](https://open.spotify.com/artist/76njKl9PZjeFGyXq6FXsKT) | [Deep Alpha Focus](https://open.spotify.com/album/268lE50iJ6lqOuLDAgAmMb) | 2:58 |
-| 113 | [Focused Mind \- Alpha 154Hz \- 161Hz](https://open.spotify.com/track/0yYhK3Sq3aBcaLrKID4Gxu) | [Light Vibrations](https://open.spotify.com/artist/7HGnugtCkahzbqB9tTOUZP) | [Focused Mind](https://open.spotify.com/album/3f1LpLV6ybqLYGNvwwEowt) | 3:45 |
+| 113 | [Focused Mind \- Alpha 154Hz \- 161Hz](https://open.spotify.com/track/0yYhK3Sq3aBcaLrKID4Gxu) | [Light Vibrations](https://open.spotify.com/artist/411cGiDGPZJtZBe1EOBUUf) | [Focused Mind](https://open.spotify.com/album/3f1LpLV6ybqLYGNvwwEowt) | 3:45 |
 | 114 | [Alpha Meditation](https://open.spotify.com/track/2UITlqXM467haohWgPffAT) | [Brainbox](https://open.spotify.com/artist/54SQU5335smXLXiFTvOo30) | [Alpha Meditation](https://open.spotify.com/album/1bPVJAq7CbCRx8pOA16H0y) | 2:36 |
 | 115 | [Zeit ist Gold \- Alpha Sinus 87Hz \- 94Hz](https://open.spotify.com/track/0pcQFGXlymeolv47TfIzn7) | [Hidden in Sound](https://open.spotify.com/artist/0AYaSjd2bSpMrGJfpLSqMU) | [Alpha Waves for Meditation](https://open.spotify.com/album/4jdJoSIgybWJYhITu6FbiY) | 3:20 |
 | 116 | [Gust Of Joy Alpha 169\-178hz](https://open.spotify.com/track/260EngyUCgtov9YR3t836N) | [places we go](https://open.spotify.com/artist/3N8G853hWNIHmfw6MunA3X) | [Gust Of Joy Alpha 169\-178hz](https://open.spotify.com/album/57I03bF7Yvn4SItF9my4V2) | 2:36 |
@@ -144,7 +144,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrtCzTmPimJ.md) - [plain]
 | 134 | [Oceanfloor \- Alpha 107Hz \- 116Hz](https://open.spotify.com/track/7seRq8qoJ9azBAwuQ6ugP3) | [One Zero 8](https://open.spotify.com/artist/0EFJcvdIgISyRJsVSx0ZGw) | [Oceanfloor](https://open.spotify.com/album/5ZWrbw1RN3yg48mQ2O7nL8) | 2:56 |
 | 135 | [Alpha Pure Focus 96 Hz \- 104 Hz](https://open.spotify.com/track/5nOEci7Elw7ybRmf1v4qfZ) | [Unconscious Mind](https://open.spotify.com/artist/4z2YcYMIwrt57Yr2REOia0) | [Alpha Pure Focus 96 Hz \- 104 Hz](https://open.spotify.com/album/2XgnLzzkKZynfzJFJzjw2d) | 2:55 |
 | 136 | [Mirrorlake \- Alpha Sinus 100Hz \- 107Hz](https://open.spotify.com/track/4f2GInNlgh8zlg2KDVyYii) | [High Lotion](https://open.spotify.com/artist/1ZqOGxgYcd5cYyak3ryY9Q) | [Binaural Mirror](https://open.spotify.com/album/5Sup9jYgyPcub2p6LXGgmw) | 4:23 |
-| 137 | [Alpha Thoughts 107Hz \- 114Hz](https://open.spotify.com/track/3ZQ5luO4yWFWf6GTp7P78b) | [Luna Waterfall](https://open.spotify.com/artist/4egqkDMoLIKSjt8gspCvyU) | [Flow State](https://open.spotify.com/album/1zPCdcZNYXqmltzGzRpkVU) | 4:35 |
+| 137 | [Alpha Thoughts 107Hz \- 114Hz](https://open.spotify.com/track/3ZQ5luO4yWFWf6GTp7P78b) | [Luna Waterfall](https://open.spotify.com/artist/06CWwwDm7bgCTQgyGi8zJL) | [Flow State](https://open.spotify.com/album/1zPCdcZNYXqmltzGzRpkVU) | 4:35 |
 | 138 | [Alpha Texture](https://open.spotify.com/track/1xPhw3ANIfXgmjhP94yyNY) | [DreamDeeper](https://open.spotify.com/artist/5OyM0rVbelDv6mU0FEjdNL) | [Textures](https://open.spotify.com/album/3vIYI9geHSqDN9LkIvXXuk) | 3:02 |
 | 139 | [Binaural Concentration Alpha 100 Hz \- 108 Hz](https://open.spotify.com/track/5W31qjDdoEKnGT6qmaFL9I) | [Syntropy](https://open.spotify.com/artist/15uMPKXIhc1TJIxf0rdZoU) | [Binaural Concentration Alpha 100 Hz \- 108 Hz](https://open.spotify.com/album/3ow856D7cLAuuKDhipJdn7) | 3:08 |
 | 140 | [Binaural Alpha Waves 110Hz \- 121Hz](https://open.spotify.com/track/4UDj4H6F7maZirCU6SJRJs) | [Demeter's Pillow](https://open.spotify.com/artist/4KLZvElXK5Eom1ir5sGTJS) | [Binaural Alpha Sinus](https://open.spotify.com/album/3YrIMIOaLQx20AmfF7u0Vs) | 2:53 |

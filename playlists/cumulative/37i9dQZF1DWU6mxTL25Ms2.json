@@ -264,7 +264,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-26",
+      "date_removed": null,
       "duration_ms": 284280,
       "name": "DREAM JACK - 2021 Remastered Version",
       "url": "https://open.spotify.com/track/10fXZbVWbE843jcmj2F2FE"
@@ -384,7 +384,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 162786,
       "name": "EXCEED",
       "url": "https://open.spotify.com/track/7M1FX9gq0VHRhC7y6XDqwJ"
@@ -636,7 +636,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-22",
+      "date_removed": null,
       "duration_ms": 299840,
       "name": "Go This Way - 2021 Remastered Version",
       "url": "https://open.spotify.com/track/3GZ4KCsozZaVEokIUiuY5w"
@@ -914,7 +914,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 256840,
       "name": "Never Looking Back",
       "url": "https://open.spotify.com/track/55SrcD8ihPqf5Ml6QdpczU"
@@ -1122,7 +1122,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 295000,
       "name": "RUN\u00d7RUN\uff01",
       "url": "https://open.spotify.com/track/2S0bS3tTV8jqz0WxZel9AG"
@@ -1372,7 +1372,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 228146,
       "name": "Unite!!",
       "url": "https://open.spotify.com/track/3n8bjomuEb9the38ded4wK"
@@ -2006,7 +2006,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 327853,
       "name": "\u3075\u3093\u308f\u308aSlowly - 2021 Remastered Version",
       "url": "https://open.spotify.com/track/6lSKwmVKD4I07RkFpKD94d"
@@ -2144,7 +2144,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-06",
+      "date_removed": null,
       "duration_ms": 245920,
       "name": "\u30a2\u30a6\u30c8\u30fb\u30aa\u30d6\u30fb\u30c8\u30e9\u30a4\u30a2\u30f3\u30b0\u30eb - 2021 Remastered Version",
       "url": "https://open.spotify.com/track/522QooR4L8Yh5NdkYnsZH4"
@@ -2476,7 +2476,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 251466,
       "name": "\u4e03\u8272\u306e\u666f\u8272 - 2021 Remastered Version",
       "url": "https://open.spotify.com/track/1INojFWa1bybAkvBEWj5FF"
@@ -2502,7 +2502,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-01",
+      "date_removed": null,
       "duration_ms": 247306,
       "name": "\u4e16\u754c\u306f\u50d5\u3089\u306e\u8a00\u3044\u306a\u308a\u3055 - 2021 Remastered Version",
       "url": "https://open.spotify.com/track/75KkCgsx43pJ7q2q5B6NlS"
@@ -2836,7 +2836,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-22",
+      "date_removed": null,
       "duration_ms": 255573,
       "name": "\u697d\u5712 - 2021 Remastered Version",
       "url": "https://open.spotify.com/track/1kAy1xJBdMdiMB5oIHLBHw"
@@ -3098,6 +3098,24 @@
       "duration_ms": 247080,
       "name": "\u9752\u6625\u304c\u5f85\u3063\u3066\u308b - 2021 Remastered Version",
       "url": "https://open.spotify.com/track/4fD65gwG4jMFx8KgxeaIGp"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fANIMATION DERBY 06 (2021 Remastered Version)",
+        "url": "https://open.spotify.com/album/0Mn8yOnH6DnwaIcgvC3rYK"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30b7\u30a2\u30de\u30be\u30f3 (CV. \u5dfd \u60a0\u8863\u5b50)",
+          "url": "https://open.spotify.com/artist/60uJpPl3obcx0b9l4Lh8fG"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222666,
+      "name": "\u9ce5\u304b\u3054\u306e\u30ed\u30f3\u30ea\u30fc\u30d0\u30fc\u30c9 - 2021 Remastered Version",
+      "url": "https://open.spotify.com/track/3rYvVarWEFg1RPEVj0kz3U"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWU6mxTL25Ms2"

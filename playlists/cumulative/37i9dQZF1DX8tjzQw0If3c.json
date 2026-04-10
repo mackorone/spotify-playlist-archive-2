@@ -4662,10 +4662,28 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 205411,
       "name": "Sangka Kau Suci",
       "url": "https://open.spotify.com/track/1VMQZjVkpMZeeh4rVwlIhW"
+    },
+    {
+      "album": {
+        "name": "Sangka Kau Suci Live Studio",
+        "url": "https://open.spotify.com/album/2cqV7kwFILbnraq0jZVBUL"
+      },
+      "artists": [
+        {
+          "name": "Intan Maya",
+          "url": "https://open.spotify.com/artist/4nzjfVkKR5fM96tka8N3pa"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207121,
+      "name": "Sangka Kau Suci Live Studio",
+      "url": "https://open.spotify.com/track/4deTKInnF37yToYOVafr4T"
     },
     {
       "album": {

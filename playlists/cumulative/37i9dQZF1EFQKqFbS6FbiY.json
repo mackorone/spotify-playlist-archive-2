@@ -8954,6 +8954,24 @@
     {
       "album": {
         "name": "O Cara da Biz",
+        "url": "https://open.spotify.com/album/56uoFdch4ZpgibhaedBhki"
+      },
+      "artists": [
+        {
+          "name": "Rainha Musical",
+          "url": "https://open.spotify.com/artist/6YcDJECD5zRgzJEg00ugSO"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121226,
+      "name": "O Cara da Biz",
+      "url": "https://open.spotify.com/track/2N1hTzacIUrtw0N0PsOS4e"
+    },
+    {
+      "album": {
+        "name": "O Cara da Biz",
         "url": "https://open.spotify.com/album/5ay3GYkHoAMWLOLDWAS8ft"
       },
       "artists": [
@@ -8964,7 +8982,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 121261,
       "name": "O Cara da Biz",
       "url": "https://open.spotify.com/track/79nLYOV7Y3mvasAfEHsRkh"
@@ -9712,6 +9730,24 @@
     {
       "album": {
         "name": "Pergunta Sem Resposta",
+        "url": "https://open.spotify.com/album/4665llKEi2zuNkSaneEqbb"
+      },
+      "artists": [
+        {
+          "name": "Augusto e Rafael",
+          "url": "https://open.spotify.com/artist/1md31EhusZo6xEhEXVXbb3"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181500,
+      "name": "Pergunta Sem Resposta",
+      "url": "https://open.spotify.com/track/3pNOWn79T8pVwcz6RYtmla"
+    },
+    {
+      "album": {
+        "name": "Pergunta Sem Resposta",
         "url": "https://open.spotify.com/album/5TmFYOwzFE8rbocdW81fkK"
       },
       "artists": [
@@ -9722,7 +9758,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 181500,
       "name": "Pergunta Sem Resposta",
       "url": "https://open.spotify.com/track/58XunJc0zDAUUIe2iTKLA0"
@@ -10442,6 +10478,24 @@
     {
       "album": {
         "name": "Quinta Parcela",
+        "url": "https://open.spotify.com/album/6oV7GmM8D1XsGzYmk7tayh"
+      },
+      "artists": [
+        {
+          "name": "Rainha Musical",
+          "url": "https://open.spotify.com/artist/6YcDJECD5zRgzJEg00ugSO"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186624,
+      "name": "Quinta Parcela",
+      "url": "https://open.spotify.com/track/5NIeUiJGVLVOO8hkxl7a1w"
+    },
+    {
+      "album": {
+        "name": "Quinta Parcela",
         "url": "https://open.spotify.com/album/6fH7IZ238Jt4OZ24SnEHXR"
       },
       "artists": [
@@ -10452,7 +10506,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 186672,
       "name": "Quinta Parcela",
       "url": "https://open.spotify.com/track/3irrye1CUkCQG3VkCdKSIG"

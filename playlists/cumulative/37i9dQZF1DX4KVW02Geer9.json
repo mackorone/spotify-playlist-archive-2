@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "3 MEN KYO",
+        "url": "https://open.spotify.com/album/5jqGgtTlO8wRCl4hoxHcWB"
+      },
+      "artists": [
+        {
+          "name": "GAGLE",
+          "url": "https://open.spotify.com/artist/7EEGSEHvuzEc2x4dhZPb50"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189629,
+      "name": "3 Men Kyo",
+      "url": "https://open.spotify.com/track/18DrRS0SQV1OPHFHhRQ26g"
+    },
+    {
+      "album": {
         "name": "edbl & friends - JPRK",
         "url": "https://open.spotify.com/album/61TTiDwK1dT9CDWczbcg8G"
       },
@@ -2220,7 +2238,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 272981,
       "name": "Dawn Street",
       "url": "https://open.spotify.com/track/3Jmh5z26Jw8wXMu72GIsB7"
@@ -3646,7 +3664,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 292346,
       "name": "Gnu Blue",
       "url": "https://open.spotify.com/track/0ACrjHByr2GzPVTxKbDBix"
@@ -3766,7 +3784,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 349329,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/4y91NCwOXl4y3wM9S40N3v"
@@ -3902,6 +3920,24 @@
       "duration_ms": 162767,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/7a8PhNagyGpyzbmAsAg76b"
+    },
+    {
+      "album": {
+        "name": "Heavy Rain",
+        "url": "https://open.spotify.com/album/4gZ5KL4UCTrsXF6xAIo7x4"
+      },
+      "artists": [
+        {
+          "name": "Ryosuke Kojima",
+          "url": "https://open.spotify.com/artist/1RvRcyEoFhC2hxNJ182Vi2"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Heavy Rain",
+      "url": "https://open.spotify.com/track/2vf9o6c3I6B00rAdovI5KC"
     },
     {
       "album": {
@@ -4178,7 +4214,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 590169,
       "name": "I Ain't Got Nothin' But Time",
       "url": "https://open.spotify.com/track/1nRcZ8paEupSa6OG3wZEzf"
@@ -4947,6 +4983,24 @@
     },
     {
       "album": {
+        "name": "Kammerkonzert",
+        "url": "https://open.spotify.com/album/4YRwqvWAu1cjBDyRRXz0Ee"
+      },
+      "artists": [
+        {
+          "name": "Squarepusher",
+          "url": "https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122964,
+      "name": "K8 Park",
+      "url": "https://open.spotify.com/track/4Ub9GTE9yvFD4EwdqZhR1b"
+    },
+    {
+      "album": {
         "name": "FIRST LOVE",
         "url": "https://open.spotify.com/album/3dTWT1J8v5WQjm5bcKBybo"
       },
@@ -5238,6 +5292,24 @@
       "duration_ms": 366706,
       "name": "Kowree Sambazzi",
       "url": "https://open.spotify.com/track/39WZQw0C5qQ9SEw2OGyMIT"
+    },
+    {
+      "album": {
+        "name": "Mudbrown",
+        "url": "https://open.spotify.com/album/4uwncsJAPlSJ34JNJGbDRK"
+      },
+      "artists": [
+        {
+          "name": "Kumail",
+          "url": "https://open.spotify.com/artist/2JYgvhoagKBhBYkpD0gIKj"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192111,
+      "name": "Lady",
+      "url": "https://open.spotify.com/track/0mgWABjocA4Zm3sz0oyr3v"
     },
     {
       "album": {
@@ -7290,7 +7362,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 315506,
       "name": "Outside",
       "url": "https://open.spotify.com/track/2EQ0pVG4H8m9pBGtZgkzwF"
@@ -10530,7 +10602,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 189444,
       "name": "WHEN YOUR OWN INITIALS ARE ENOUGH",
       "url": "https://open.spotify.com/track/0huE46kfj5EC4TqEWw5Be5"

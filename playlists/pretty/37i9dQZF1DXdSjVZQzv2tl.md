@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 
 > O melhor do sertanejo em uma só playlist! Foto: Murilo Huff
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,092,313 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,092,435 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Saudade Estranha \- Ao Vivo](https://open.spotify.com/track/3LZcSnTOCRalXwMXvkZnLZ) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Saudade Estranha \(Ao Vivo\)](https://open.spotify.com/album/4oSSmxah3nxooXXpHiosbY) | 2:54 |
+| 1 | [Saudade Estranha \- Du Nada \- Ao Vivo](https://open.spotify.com/track/3LZcSnTOCRalXwMXvkZnLZ) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Saudade Estranha \- Du Nada \(Ao Vivo\)](https://open.spotify.com/album/4oSSmxah3nxooXXpHiosbY) | 2:54 |
 | 2 | [Bebe, Beija e Trai \- Ao Vivo](https://open.spotify.com/track/1yJYseCZJYRHZkl1DJ3tLs) | [Mayke & Rodrigo](https://open.spotify.com/artist/70l6HIf0rz8ZMQCW5qK6QI), [Panda](https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz) | [Bebe, Beija e Trai \(Ao Vivo\)](https://open.spotify.com/album/0E8TJBB3Y510HYS9llB48Q) | 2:36 |
 | 3 | [Não Mexe nas Minhas Gavetas \- Ao Vivo](https://open.spotify.com/track/1CqUGmt2Cyn2vvvAyQKJZQ) | [Danilo e Davi](https://open.spotify.com/artist/5DaqVKaxeqDbJuxaIP9m4u) | [Aliança \- Vol.1 \(Ao Vivo\)](https://open.spotify.com/album/5GAdbWrj64YwrmUh1HJtfE) | 2:06 |
 | 4 | [Calcinha de Renda \- Ao Vivo](https://open.spotify.com/track/332rqteO5O475UV5zgSKPQ) | [Panda](https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN), [MJ Records](https://open.spotify.com/artist/0oAZhL6hFrM3YRr6QzjlOf) | [Fora do Padrão Vol\. 01 \(Ao Vivo\)](https://open.spotify.com/album/2ePhRW37XiA1Fog7YsDZB4) | 3:19 |

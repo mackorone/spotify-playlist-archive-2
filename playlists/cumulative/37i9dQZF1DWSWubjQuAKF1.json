@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: noffkoffska",
+  "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Kuba i Kuba",
   "name": "up next",
   "tracks": [
     {
@@ -1218,7 +1218,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-28",
+      "date_removed": null,
       "duration_ms": 176000,
       "name": "bez zmian",
       "url": "https://open.spotify.com/track/0VPho47aCdrkXNydaikOiR"
@@ -2506,7 +2506,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 147209,
       "name": "Cozy",
       "url": "https://open.spotify.com/track/5JXteAJoYA7ulRz8t9Ehay"
@@ -3378,7 +3378,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 154736,
       "name": "Dotknij",
       "url": "https://open.spotify.com/track/5a9izOBVjC242rMhmUxrsx"
@@ -3440,7 +3440,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-03",
+      "date_removed": null,
       "duration_ms": 135428,
       "name": "Dotyk",
       "url": "https://open.spotify.com/track/0boHEoQuU24eU7n0nGLf88"
@@ -6084,7 +6084,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-05",
+      "date_removed": null,
       "duration_ms": 131661,
       "name": "Kumple <3 - MAVOOI Remix",
       "url": "https://open.spotify.com/track/2IzsajD0fEx4pITXTKt5J0"
@@ -6519,6 +6519,24 @@
     },
     {
       "album": {
+        "name": "S\u0142oneczna strona ulicy",
+        "url": "https://open.spotify.com/album/6WC2GVDGNhOPMyOPzSL31y"
+      },
+      "artists": [
+        {
+          "name": "Leon Krze\u015bniak",
+          "url": "https://open.spotify.com/artist/1otG4oP2AJMnYAW0ufLKEU"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199186,
+      "name": "Lustro",
+      "url": "https://open.spotify.com/track/5oX4vOfPBdUu43mO8gtv8o"
+    },
+    {
+      "album": {
         "name": "It\u2019s All About The Changes",
         "url": "https://open.spotify.com/album/37UQSwu9Vzx0J77aEl8zBE"
       },
@@ -6796,7 +6814,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-03",
+      "date_removed": null,
       "duration_ms": 183586,
       "name": "Maski",
       "url": "https://open.spotify.com/track/0tzcI6JCl5XYPuuSHzFzDv"
@@ -11510,7 +11528,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 242608,
       "name": "Soft Spot",
       "url": "https://open.spotify.com/track/7Aa9FEamkbgxZW3coKeYGs"
@@ -11886,6 +11904,24 @@
       "duration_ms": 134454,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/6qcNQVplYV2f3Ra6PniM5t"
+    },
+    {
+      "album": {
+        "name": "Stygnie lato",
+        "url": "https://open.spotify.com/album/2DGpH0QbyyUEZYRL88lQxn"
+      },
+      "artists": [
+        {
+          "name": "Kuba i Kuba",
+          "url": "https://open.spotify.com/artist/43i9C47bAIVm8jKgEKYPfh"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181846,
+      "name": "Stygnie lato",
+      "url": "https://open.spotify.com/track/4XeZLZoNzLd1fKxpLTEqE0"
     },
     {
       "album": {
@@ -13520,7 +13556,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 108415,
       "name": "w_moim_ma\u0142ym_pokoju.mp3",
       "url": "https://open.spotify.com/track/4nbYIpyJ2Np7exXt7TGV0R"
@@ -13776,7 +13812,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 163359,
       "name": "WHY WHY WHY",
       "url": "https://open.spotify.com/track/6Jv07pdvSqhiKf6mo98jtw"
@@ -13972,7 +14008,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 177864,
       "name": "Wol\u0119 Ci\u0119 kocha\u0107, ni\u017c mie\u0107",
       "url": "https://open.spotify.com/track/2KMoi0vQU6xVUZ05atEOSe"
@@ -14790,7 +14826,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 160866,
       "name": "Zimna woda",
       "url": "https://open.spotify.com/track/6qg3ly9YmqLM1wdaPOO6ud"
@@ -15084,6 +15120,24 @@
       "duration_ms": 171990,
       "name": "\u017bART!?",
       "url": "https://open.spotify.com/track/5dbs7qdEG6oiAmKN4liNSB"
+    },
+    {
+      "album": {
+        "name": "\u017bURAWIE",
+        "url": "https://open.spotify.com/album/5HjIBIK0vlq42Yzc4Mzm3t"
+      },
+      "artists": [
+        {
+          "name": "Barnim",
+          "url": "https://open.spotify.com/artist/4Bp6oWHVWsocBpnqFJP4Zj"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145533,
+      "name": "\u017bURAWIE",
+      "url": "https://open.spotify.com/track/1nT0822I7pQ2qISF80IWjo"
     },
     {
       "album": {

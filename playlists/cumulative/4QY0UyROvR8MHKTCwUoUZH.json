@@ -943,6 +943,32 @@
     },
     {
       "album": {
+        "name": "Eighty - Live with Mary & Tyler (b-kube sessions)",
+        "url": "https://open.spotify.com/album/4JD1BuGi3sybHWyISfs1PL"
+      },
+      "artists": [
+        {
+          "name": "KIIK",
+          "url": "https://open.spotify.com/artist/5tHlkqg9BPjCu4WBPqTc75"
+        },
+        {
+          "name": "Mary & Tyler",
+          "url": "https://open.spotify.com/artist/2hIrPXk95G33KE4DIVSIiP"
+        },
+        {
+          "name": "Tyler McCullough",
+          "url": "https://open.spotify.com/artist/0w8je4KrzNIaNlxAgqODv2"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190986,
+      "name": "Eighty - Live with Mary & Tyler - b-kube sessions",
+      "url": "https://open.spotify.com/track/2iBd0oWT1Xd1Uc6qOtFUik"
+    },
+    {
+      "album": {
         "name": "Everlastingly (Wedding Version)",
         "url": "https://open.spotify.com/album/6un0lF2zOowIKOS3fI7YeH"
       },
@@ -3970,6 +3996,24 @@
       "duration_ms": 153894,
       "name": "Zeg maar niets",
       "url": "https://open.spotify.com/track/5ayQm9rr6dzb4wiTp6Kwib"
+    },
+    {
+      "album": {
+        "name": "\u2060Tot Het Eind Van Mij - Akoestisch",
+        "url": "https://open.spotify.com/album/5kgoAHKiaOk2YsJe6HATxX"
+      },
+      "artists": [
+        {
+          "name": "Antoon",
+          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150475,
+      "name": "\u2060Tot Het Eind Van Mij - Akoestisch",
+      "url": "https://open.spotify.com/track/2uA8dEMA61IBCXGz4lA3GD"
     }
   ],
   "url": "https://open.spotify.com/playlist/4QY0UyROvR8MHKTCwUoUZH"

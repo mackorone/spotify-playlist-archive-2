@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De nieuwste Hollands & Volkspop releases. Cover: Marco Schuitmaker",
+  "description": "De nieuwste Hollands & Volkspop releases. Cover: Billy Dans & Mart Hoogkamer",
   "name": "Liever Hollands",
   "tracks": [
     {
@@ -1051,6 +1051,24 @@
     },
     {
       "album": {
+        "name": "Badkamerkraan",
+        "url": "https://open.spotify.com/album/7G8QSYvpr4OZrjCXymmZyG"
+      },
+      "artists": [
+        {
+          "name": "Pascal Redeker",
+          "url": "https://open.spotify.com/artist/2pPlC5pHDMwx9vCtEszoub"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192271,
+      "name": "Badkamerkraan",
+      "url": "https://open.spotify.com/track/4Rgu5vBdoJEL76NsGiE9tH"
+    },
+    {
+      "album": {
         "name": "Bandolero",
         "url": "https://open.spotify.com/album/6EH4sQTdM1gyew6f3oWDr4"
       },
@@ -1512,6 +1530,24 @@
       "duration_ms": 167085,
       "name": "Bonte Avond",
       "url": "https://open.spotify.com/track/3OwiBXdE9Rzu0hi3paV0w9"
+    },
+    {
+      "album": {
+        "name": "Borreltje",
+        "url": "https://open.spotify.com/album/2Dzvvu3NLhDolGJnulYbuH"
+      },
+      "artists": [
+        {
+          "name": "Wesley Broens",
+          "url": "https://open.spotify.com/artist/7louP9Nui5MDT4y6Oy45IH"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Borreltje",
+      "url": "https://open.spotify.com/track/29X7ZAYTLFDABh7mIqutFs"
     },
     {
       "album": {
@@ -2247,6 +2283,24 @@
     },
     {
       "album": {
+        "name": "De Prijs Van De Liefde",
+        "url": "https://open.spotify.com/album/23WiRDArh1uSkkMcoufCs6"
+      },
+      "artists": [
+        {
+          "name": "Martijn Leopardi",
+          "url": "https://open.spotify.com/artist/0dNvb29pd5miS7r3ti22OO"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "De Prijs Van De Liefde",
+      "url": "https://open.spotify.com/track/0Bsus5ptmw7Zfvcdd2C1H4"
+    },
+    {
+      "album": {
         "name": "De Stad",
         "url": "https://open.spotify.com/album/74oRzSmRTs0BPr4rQSvywO"
       },
@@ -2588,6 +2642,24 @@
       "duration_ms": 155156,
       "name": "Diner Voor Twee",
       "url": "https://open.spotify.com/track/7LkZDegKhYQDSFgbJSN3e8"
+    },
+    {
+      "album": {
+        "name": "Dit Ben Ik",
+        "url": "https://open.spotify.com/album/2D9Md2m8r2OURiABrxsZgP"
+      },
+      "artists": [
+        {
+          "name": "Gizbey",
+          "url": "https://open.spotify.com/artist/7GTD2ivDEWSYlwjfIdnkGq"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177773,
+      "name": "Dit Ben Ik",
+      "url": "https://open.spotify.com/track/1pnZyVLjRvNnXXovS9dfpz"
     },
     {
       "album": {
@@ -3153,6 +3225,24 @@
     },
     {
       "album": {
+        "name": "Even Uit De Bocht",
+        "url": "https://open.spotify.com/album/0NtQ9Bc8K22JCEwCieZgGG"
+      },
+      "artists": [
+        {
+          "name": "Jorn Elsenaar",
+          "url": "https://open.spotify.com/artist/0RfBU7D964v4OdP0ICN5Xp"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "Even Uit De Bocht",
+      "url": "https://open.spotify.com/track/0zKfn8Vnakmhx8lGoOAvyH"
+    },
+    {
+      "album": {
         "name": "Eenmaal In Je Leven",
         "url": "https://open.spotify.com/album/198g0LrDssZW4QnCBdQFlX"
       },
@@ -3410,6 +3500,28 @@
       "duration_ms": 169500,
       "name": "Ga Maar Weg",
       "url": "https://open.spotify.com/track/5hKzFdijIotT1gIqz0OeSU"
+    },
+    {
+      "album": {
+        "name": "Gappie Sappie",
+        "url": "https://open.spotify.com/album/7FE9PW71kUT5Ry6N1D0TDo"
+      },
+      "artists": [
+        {
+          "name": "Billy Dans",
+          "url": "https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW"
+        },
+        {
+          "name": "Mart Hoogkamer",
+          "url": "https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137198,
+      "name": "Gappie Sappie",
+      "url": "https://open.spotify.com/track/2FCDwCdXpMnSq3QuHWZ3UM"
     },
     {
       "album": {
@@ -4455,6 +4567,24 @@
     },
     {
       "album": {
+        "name": "Huisje Aan De Amstel",
+        "url": "https://open.spotify.com/album/0UpeBakCZYzowuuHfRr551"
+      },
+      "artists": [
+        {
+          "name": "Donny Ponsen",
+          "url": "https://open.spotify.com/artist/2QCOjdjvz66HWNnDIcLv4N"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161968,
+      "name": "Huisje Aan De Amstel",
+      "url": "https://open.spotify.com/track/4VdawoYdoZ2IxVb4jRKd7b"
+    },
+    {
+      "album": {
         "name": "Ideale Schoonzoon",
         "url": "https://open.spotify.com/album/7M9hXXISKB2fFkfGwlY35N"
       },
@@ -4722,7 +4852,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 203957,
       "name": "Ik Kan Niet Zonder Jou",
       "url": "https://open.spotify.com/track/1tR3n0WLdSBWcmRnkwNCP9"
@@ -5312,6 +5442,28 @@
       "duration_ms": 170396,
       "name": "In Het Hart Van",
       "url": "https://open.spotify.com/track/6KudrzhnOIAhbB7qLKNgeM"
+    },
+    {
+      "album": {
+        "name": "In Mijn Armen",
+        "url": "https://open.spotify.com/album/5S8ARVOyTHK5zMdkB9QmvH"
+      },
+      "artists": [
+        {
+          "name": "Samantha Steenwijk",
+          "url": "https://open.spotify.com/artist/74KdLwJ1opjUx5tahaMZo8"
+        },
+        {
+          "name": "Wesly Bronkhorst",
+          "url": "https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166413,
+      "name": "In Mijn Armen",
+      "url": "https://open.spotify.com/track/4mdhcZaB9La4w56BETFDvr"
     },
     {
       "album": {
@@ -5996,6 +6148,24 @@
       "duration_ms": 161485,
       "name": "King Van De Camping - Ferry Bouman",
       "url": "https://open.spotify.com/track/3MNbwa4BHTc0nsrRnxvODI"
+    },
+    {
+      "album": {
+        "name": "Klavertje Vier",
+        "url": "https://open.spotify.com/album/2jmywAI8bTlz307pi2Oj4D"
+      },
+      "artists": [
+        {
+          "name": "Gideon",
+          "url": "https://open.spotify.com/artist/6PHGgzRIDkaBOexjV4wfSp"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146953,
+      "name": "Klavertje Vier",
+      "url": "https://open.spotify.com/track/3l5Vc6BkuyOaokYDQlAWuU"
     },
     {
       "album": {
@@ -7086,6 +7256,24 @@
       "duration_ms": 170476,
       "name": "Maria",
       "url": "https://open.spotify.com/track/3HXPkduF7PBUK6VwCvqmi2"
+    },
+    {
+      "album": {
+        "name": "Maria Gonzales",
+        "url": "https://open.spotify.com/album/7o3U5Uh9lIp9kcAOCrR6An"
+      },
+      "artists": [
+        {
+          "name": "Jack van Raamsdonk",
+          "url": "https://open.spotify.com/artist/7M75pPN30zlOJmBETCOjz2"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186346,
+      "name": "Maria Gonzales",
+      "url": "https://open.spotify.com/track/5ODWgY245uHGXi68qnoeQM"
     },
     {
       "album": {
@@ -9416,6 +9604,24 @@
       "duration_ms": 152380,
       "name": "Vanaf Vandaag",
       "url": "https://open.spotify.com/track/1doSpLKE5WQq8WWkaADG5I"
+    },
+    {
+      "album": {
+        "name": "Vanavond Een Vent",
+        "url": "https://open.spotify.com/album/0x1n05q8WWon0oa77wSG9T"
+      },
+      "artists": [
+        {
+          "name": "Chris Bauer",
+          "url": "https://open.spotify.com/artist/6vx4nxbeAGrQPKHzurW1pi"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143129,
+      "name": "Vanavond Een Vent",
+      "url": "https://open.spotify.com/track/0kfjIin2YlwqcfGud08eBw"
     },
     {
       "album": {

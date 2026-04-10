@@ -2,9 +2,9 @@
 
 ### [Swahili Love ](https://open.spotify.com/playlist/37i9dQZF1DX1YGbV4eeC1J)
 
-> What is your love language? Say it in Swahili\.  Cover: Zuchu
+> What is your love language? Say it in Swahili\.  Cover: Tuku Kantu
 
-351 songs - 19 hr 42 min
+353 songs - 19 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [Keki](https://open.spotify.com/track/3G6JOHEn46OK8LUH4qiJhW) | [Willy Paul](https://open.spotify.com/artist/3CCHaNvCKYNWWrAYo5C8TL), [Bahati](https://open.spotify.com/artist/6UkxHaSUX7ZGKZ8YoDuj6Z) | [Keki](https://open.spotify.com/album/3JiAtCjaZzPx1Z4uK1n16W) | 3:03 | 2025-01-31 |  |
 | [Kipepeo](https://open.spotify.com/track/13R4oID4F5Cpq9Bte0tSdn) | [Nadia Mukami](https://open.spotify.com/artist/5nnVpORg4Aha9aWRTZA5No), [Bruce Melodie](https://open.spotify.com/artist/2esEiOAGqbIDlRwwUK2wnP) | [Queen of the East](https://open.spotify.com/album/1abchHmLCSd4InI3xxVvIN) | 3:52 | 2024-08-29 | 2025-02-14 |
 | [Kipofu \(feat\. Alikiba\)](https://open.spotify.com/track/72OnFBAb69Smqm8sqcRMSW) | [Chege](https://open.spotify.com/artist/09ePfLAl1VPyN0NGPiZdCB), [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Kipofu \(feat\. Alikiba\)](https://open.spotify.com/album/3HiAnfQyJKtmiMi8gMwUQ6) | 3:55 | 2024-08-15 | 2024-11-08 |
-| [Kiss Me](https://open.spotify.com/track/1qrVUKrKLldnlYsvMA1STE) | [Lava Lava](https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd) | [Time](https://open.spotify.com/album/7j261kEXqE8RLUe6Qjnao4) | 3:03 | 2025-08-14 |  |
+| [Kiss Me](https://open.spotify.com/track/1qrVUKrKLldnlYsvMA1STE) | [Lava Lava](https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd) | [Time](https://open.spotify.com/album/7j261kEXqE8RLUe6Qjnao4) | 3:03 | 2025-08-14 | 2026-04-10 |
 | [Komando](https://open.spotify.com/track/4H8j1OrVUVGk9b7lkyfJHf) | [G Nako](https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Komando](https://open.spotify.com/album/57ejAmwWLxZD6qviYZ9etd) | 3:08 | 2024-03-14 | 2024-03-22 |
 | [Kukupenda](https://open.spotify.com/track/56lZHXU9dMCIEPSEAsY0zP) | [Vii Sugar Boy](https://open.spotify.com/artist/2BE2wbegLNKCxfPe7jgXA3) | [Kukupenda](https://open.spotify.com/album/1nsDxtG4GX7aMgAQ1QTTo7) | 3:32 | 2024-06-14 | 2024-06-21 |
 | [Kupenda](https://open.spotify.com/track/4lzsQhqooYugTKwymQ6KHE) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Kupenda](https://open.spotify.com/album/6GzRBHBJs4SG8AoaGwAaTe) | 2:55 | 2025-01-09 | 2026-03-20 |
@@ -184,6 +184,7 @@
 | [Mtima](https://open.spotify.com/track/6YswmXBwQNySnGWeFKH0WF) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md) | [Mtima](https://open.spotify.com/album/4Lnyw7ZJuIIxeSf1WhTM0K) | 3:44 | 2023-07-13 | 2023-11-10 |
 | [Mtoto](https://open.spotify.com/track/6bAE1iw1u8Anq9n5xZBATc) | [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Mtoto](https://open.spotify.com/album/4f2P52GDpccJmGPVQBu4bW) | 3:19 | 2025-04-24 | 2025-10-03 |
 | [Muhibu](https://open.spotify.com/track/5s8riorAHI0xfmgz6cTpM3) | [Abigail Chams](https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8) | [Muhibu](https://open.spotify.com/album/20ZD3JWpTUb4VUPPVNkvvZ) | 3:13 | 2024-11-15 | 2025-08-15 |
+| [Mungu Alipanga Mwenyewe](https://open.spotify.com/track/5yan9vHUvk1H2W4ItJgubL) | [Tuku Kantu](https://open.spotify.com/artist/4XOkxpgkjiajWy1yEb1o24) | [Mungu Alipanga Mwenyewe](https://open.spotify.com/album/3RCoHHAnkwar8UA85S0Hv8) | 3:51 | 2026-04-09 |  |
 | [MVUA](https://open.spotify.com/track/3WtzLuNn57NdACSZchtit3) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [MVUA](https://open.spotify.com/album/2IqvrWY8WnDmcy5kaj3zbl) | 3:18 | 2025-07-24 |  |
 | [Mwambieni](https://open.spotify.com/track/0RHpqRNqC51Jb3BFvRjhB9) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Mwambieni](https://open.spotify.com/album/5KWJSzOB7rysi3VT90lTAJ) | 3:00 | 2022-05-26 | 2023-03-10 |
 | [My Babe](https://open.spotify.com/track/29qNcVV0QERBR5c6TSBEvv) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Flowers III](https://open.spotify.com/album/4d2U5waYnl1NwFs0aQ5fhL) | 4:13 | 2023-05-11 | 2024-01-26 |
@@ -213,7 +214,7 @@
 | [Natamba Nae](https://open.spotify.com/track/5plP08rSnbrT8deupxla78) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Natamba Nae](https://open.spotify.com/album/6BvjRDF1KPbgXWJvNY3iaI) | 3:09 | 2024-10-10 | 2025-06-20 |
 | [Natulizana](https://open.spotify.com/track/5JVCPxHDsOBbTn9lw0yhP1) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Natulizana](https://open.spotify.com/album/3rqu6ac3lZYgzvLdYWq6Tg) | 4:26 | 2026-02-12 |  |
 | [Nazama](https://open.spotify.com/track/4zcDVjym4809Ruja1Dh2C4) | [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Nazama](https://open.spotify.com/album/4tLPEGn0QUU1fUN7H4OPTF) | 3:06 | 2025-04-11 | 2026-02-13 |
-| [Ndoa \- Remix](https://open.spotify.com/track/2sKzmPp34kXC6P7u5UIgFA) | [Asagwile](https://open.spotify.com/artist/7nyg9DjU0a0NIDVIHOIjCB), [MAARIFA](https://open.spotify.com/artist/3mCWdBlQdpvtsAwavU7R1J), [SHELLO](https://open.spotify.com/artist/1X41B9NfmAuCSKGt7VAA3K) | [God's Plan](https://open.spotify.com/album/0dh9KtyseXQeagY0tUvALn) | 5:11 | 2025-07-24 |  |
+| [Ndoa \- Remix](https://open.spotify.com/track/2sKzmPp34kXC6P7u5UIgFA) | [Asagwile](https://open.spotify.com/artist/7nyg9DjU0a0NIDVIHOIjCB), [MAARIFA](https://open.spotify.com/artist/3mCWdBlQdpvtsAwavU7R1J), [SHELLO](https://open.spotify.com/artist/1X41B9NfmAuCSKGt7VAA3K) | [God's Plan](https://open.spotify.com/album/0dh9KtyseXQeagY0tUvALn) | 5:11 | 2025-07-24 | 2026-04-10 |
 | [Nenda](https://open.spotify.com/track/6RpnK5WTfd82wHnJlKcJBS) | [Gabby Rnb](https://open.spotify.com/artist/7qyETqoh8xSHGFFeNfOlmp) | [Nenda](https://open.spotify.com/album/4Bv7f63ScZR7DwLapCeVgk) | 3:18 | 2023-01-12 | 2023-07-07 |
 | [Nenda Lote](https://open.spotify.com/track/66UNdqwxnjpfQdu3cD0lk5) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Midnight Train](https://open.spotify.com/album/2R0nfEjaMFMb8qyPnQmDzK) | 4:24 | 2022-05-26 | 2024-02-02 |
 | [NERVOUS](https://open.spotify.com/track/6Ct7wMxdVRNPozCqMfpdGl) | [Bee Thee Artiste](https://open.spotify.com/artist/07k23Z4w3q5oq7Qq73s1HU), [Ywaya Tajiri](https://open.spotify.com/artist/6wf9RfrBquBd6Galoe5oQE), [AUGUST IV](https://open.spotify.com/artist/0rSI47DldAq15E6L5pUH6T) | [NERVOUS](https://open.spotify.com/album/4N5rJQrNlZm5eqJazYiyjZ) | 2:50 | 2026-03-12 |  |
@@ -290,7 +291,7 @@
 | [Single](https://open.spotify.com/track/0NEiPNvusJPXBP826yQbR7) | [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9) | [Single](https://open.spotify.com/album/6CKL3hUQV87q3XFkeqabGb) | 2:16 | 2023-01-19 | 2023-07-07 |
 | [Sioni Sisikii](https://open.spotify.com/track/5WfRCsZXVVbsxYSjYD8E1h) | [Bruce africa](https://open.spotify.com/artist/71XhX7PEkpLijcVUJuEcI3) | [Love In The Air](https://open.spotify.com/album/60zgd6c0yhHIoFm6VU0WpB) | 3:03 | 2026-02-12 |  |
 | [Sitaki Mapenzi](https://open.spotify.com/track/5xhHQNRjuITzj9eOFabWWi) | [Treyzah](https://open.spotify.com/artist/1ZEoQ0UaWVoJZE6JCZZUM3) | [Sitaki Mapenzi](https://open.spotify.com/album/2U44P4HPg9FlsYVsAP0457) | 2:40 | 2025-02-27 | 2025-06-20 |
-| [Siwezi](https://open.spotify.com/track/3XOAheboN0U3W0IlWIgv9b) | [Killy Tz](https://open.spotify.com/artist/6YXrbHy6Fah1970m8C8BXK) | [Siwezi](https://open.spotify.com/album/6xZjqJJGPFA89OdfzPrGaL) | 3:30 | 2026-01-23 |  |
+| [Siwezi](https://open.spotify.com/track/3XOAheboN0U3W0IlWIgv9b) | [Killy Tz](https://open.spotify.com/artist/6YXrbHy6Fah1970m8C8BXK) | [Siwezi](https://open.spotify.com/album/6xZjqJJGPFA89OdfzPrGaL) | 3:30 | 2026-01-23 | 2026-04-10 |
 | [Siwezi](https://open.spotify.com/track/5rHwhDMhECn3kuE9zH4gZF) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK) | [Siwezi](https://open.spotify.com/album/5DZnhDiqjk4VHKRs9trO9D) | 3:22 | 2025-12-18 |  |
 | [Siwezi](https://open.spotify.com/track/7d5eqMMgXk3OoAhqHhkyCs) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Siwezi](https://open.spotify.com/album/0M0knAvFHP6OjjxSSIsNRy) | 3:04 | 2022-05-26 | 2023-07-28 |
 | [Siwezi](https://open.spotify.com/track/71dAnBhTrNKhsUfL7IJ8ht) | [RICH MAVOKO](https://open.spotify.com/artist/4aeCyyHNM1iZbxz48788cd) | [Siwezi](https://open.spotify.com/album/6kqYOHMLPw6yERhUiQ7QFP) | 2:33 | 2025-10-30 |  |
@@ -309,6 +310,7 @@
 | [Tina](https://open.spotify.com/track/2XgoqCgvCYzOZDw7HvSoxn) | [Masauti](https://open.spotify.com/artist/7IP0gLYelgi6FYU9mkzyAn) | [Tina](https://open.spotify.com/album/0PenAHs174BfKImPfisGti) | 3:06 | 2024-09-20 | 2025-01-17 |
 | [Tiririka](https://open.spotify.com/track/0cjQ4PR7bYMXl2GWMIRlAm) | [Yammi](https://open.spotify.com/artist/6yV5HfoLnS2Yn7qKtS2fIK) | [Tiririka](https://open.spotify.com/album/2KQwOdsGxPTILQpk5ny7nB) | 3:47 | 2024-03-14 | 2024-03-22 |
 | [Toto \(feat\. Barnaba\)](https://open.spotify.com/track/29ZyUgbWQpQOoF0j9PPBiH) | [Nasha Travis](https://open.spotify.com/artist/12GFIGAtiAebsorhhWq7Fr), [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [Toto \(feat\. Barnaba\)](https://open.spotify.com/album/0j9QtYqhQwm5fcjgwFfK0A) | 3:39 | 2024-10-31 | 2025-07-25 |
+| [Track 2](https://open.spotify.com/track/2DeJgXfd917CXIVpU988HJ) | [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe) | [PM](https://open.spotify.com/album/5jPZv395c02JpG6P2CfDBd) | 0:00 | 2026-04-09 |  |
 | [Trouble](https://open.spotify.com/track/2a8GmionOwrvrA0239jkNd) | [Wendy Kay](https://open.spotify.com/artist/4xRJ8mtHNzJYvlJbspGFO6), [Arrow Bwoy](https://open.spotify.com/artist/7jHbsm6yjbct2wbuvzBEKr), [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo) | [Trouble](https://open.spotify.com/album/5bJS2FXo94QPkxisEt15kS) | 3:25 | 2023-06-15 | 2023-11-07 |
 | [Tulia Na Mimi \(feat\. Jay Melody\)](https://open.spotify.com/track/53rL8Pf3wxrrYHK3PzmFJZ) | [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a), [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Take Away The Pain](https://open.spotify.com/album/0CE8TePq8l9R9VppXR9KVo) | 3:09 | 2025-02-06 | 2025-07-05 |
 | [Tunapendana](https://open.spotify.com/track/1oYAE0VoUFgDVfhJKco79y) | [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm), [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Tunapendana](https://open.spotify.com/album/6zDcz5cPI2rn1ZKbj4Euf2) | 3:35 | 2024-11-22 |  |

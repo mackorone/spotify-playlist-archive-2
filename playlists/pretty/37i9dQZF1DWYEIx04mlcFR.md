@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 
 > la nueva ola de artistas con Mi$ha en portada\. 🌊✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,915 likes - 55 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,918 likes - 55 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [TRAIC¡ÓN](https://open.spotify.com/track/69stWMjnuV1xvtRK6VsgdW) | [MI$HA](https://open.spotify.com/artist/7jojyXUh1Yl4Sw2Y5KfGYQ) | [TRAIC¡ÓN](https://open.spotify.com/album/0rUKxY6MywzJCAae9AArdi) | 2:27 |
-| 2 | [pa que \(feat\. Ed Maverick\)](https://open.spotify.com/track/5smAUZtCCJCcHv2qyknRgt) | [bpuntito](https://open.spotify.com/artist/7hpawMsfyoRG0gF7VAwv9u), [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [pa que \(feat\. Ed Maverick\)](https://open.spotify.com/album/54zMR9xpK3l6DHhjitr4Qd) | 3:16 |
+| 2 | [pa que](https://open.spotify.com/track/5smAUZtCCJCcHv2qyknRgt) | [bpuntito](https://open.spotify.com/artist/7hpawMsfyoRG0gF7VAwv9u) | [pa que](https://open.spotify.com/album/54zMR9xpK3l6DHhjitr4Qd) | 3:16 |
 | 3 | [Cae La Lluvia](https://open.spotify.com/track/2zfG2C9oJYMkM088tOtdgY) | [Luis Díazz](https://open.spotify.com/artist/1YrcerJAHip85arXssuLvm), [Yeyo](https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L) | [Cae La Lluvia](https://open.spotify.com/album/4lEd8H0uq6YaJDgIiG8Uu3) | 2:59 |
 | 4 | [Todo Se Repite](https://open.spotify.com/track/6uaENgyq92BJKAKHyshepr) | [Valsian](https://open.spotify.com/artist/4f8uwOhcAdzozAkqq6AEwa) | [Todo Se Repite](https://open.spotify.com/album/13uXgek0xnjbfdd6mm2eeD) | 4:00 |
 | 5 | [qué ves en mí?](https://open.spotify.com/track/0LNgaUgNSqZp0CsxDPRU8I) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw), [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [qué ves en mí? / interesante](https://open.spotify.com/album/4tcCh5G7uvLuG7MCC7M9pw) | 3:24 |

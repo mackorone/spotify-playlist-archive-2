@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-06-24",
-  "description": "The heartbeat of Afro House from Africa and around the globe. Cover: Zakes Bantwini",
+  "description": "The heartbeat of Afro House from Africa and around the globe. Cover: Vumaala",
   "name": "Afro House Pulse",
   "tracks": [
     {
@@ -1097,6 +1097,32 @@
     },
     {
       "album": {
+        "name": "DAWA (REMIX)",
+        "url": "https://open.spotify.com/album/15wlcM2Hl8Pf8jReqmK1yt"
+      },
+      "artists": [
+        {
+          "name": "Edward Maya",
+          "url": "https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq"
+        },
+        {
+          "name": "Elijah Kitaka",
+          "url": "https://open.spotify.com/artist/2MrWl3XhEH4Rgs4L8wOex6"
+        },
+        {
+          "name": "DJ B&W",
+          "url": "https://open.spotify.com/artist/2RuoMsSuY4DJrk7OVxHX6L"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236065,
+      "name": "DAWA - REMIX",
+      "url": "https://open.spotify.com/track/3r0n4hAR2n8GYTn63NCt7J"
+    },
+    {
+      "album": {
         "name": "Desert Rose (Reimagined)",
         "url": "https://open.spotify.com/album/6xKAtFQb75Q5eK3dwgVBy5"
       },
@@ -2108,6 +2134,28 @@
       "duration_ms": 356000,
       "name": "I Will Love You - Extended",
       "url": "https://open.spotify.com/track/1iXS6jOhiCOgV8Vn89r557"
+    },
+    {
+      "album": {
+        "name": "Igama",
+        "url": "https://open.spotify.com/album/62jQvCMTQX0uxrGTLfgFpn"
+      },
+      "artists": [
+        {
+          "name": "Jst Sako",
+          "url": "https://open.spotify.com/artist/7bAt7MYd2N3dRMrXVMvOug"
+        },
+        {
+          "name": "Shaik Omar",
+          "url": "https://open.spotify.com/artist/6uyYHSi3xlCzb4222Ywd7p"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276610,
+      "name": "Igama",
+      "url": "https://open.spotify.com/track/3Sxg7ka3C8vm0freRis9Ef"
     },
     {
       "album": {
@@ -3322,6 +3370,28 @@
       "duration_ms": 326000,
       "name": "Limit To Your Love",
       "url": "https://open.spotify.com/track/3YVzxCURw2xAAUbt6wKI4E"
+    },
+    {
+      "album": {
+        "name": "Little Wonder",
+        "url": "https://open.spotify.com/album/0yabTK8SYmRDrnf6IbXKJb"
+      },
+      "artists": [
+        {
+          "name": "GoldFish",
+          "url": "https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7"
+        },
+        {
+          "name": "Zolani Mahola",
+          "url": "https://open.spotify.com/artist/6jxoWZAKOFQ91TKHIJbjaC"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172195,
+      "name": "Little Wonder",
+      "url": "https://open.spotify.com/track/6kWfYsZq6tdNcSAJE4MfTv"
     },
     {
       "album": {
@@ -4627,6 +4697,28 @@
     },
     {
       "album": {
+        "name": "Pagoni",
+        "url": "https://open.spotify.com/album/7lyPJ2qqgUZi5LeS2TyW9I"
+      },
+      "artists": [
+        {
+          "name": "Awill (ofc)",
+          "url": "https://open.spotify.com/artist/1CTRW6wqCdpLiM222VodXT"
+        },
+        {
+          "name": "Idd Aziz",
+          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197459,
+      "name": "Pagoni",
+      "url": "https://open.spotify.com/track/60aSEPwoUk5jzcFYgcZ1mS"
+    },
+    {
+      "album": {
         "name": "Phakama",
         "url": "https://open.spotify.com/album/1KKgIskYHGhmAS1T2dJFqz"
       },
@@ -5162,6 +5254,24 @@
       "duration_ms": 224443,
       "name": "Show me the way - Radio Edit",
       "url": "https://open.spotify.com/track/31R4BwPk58haGJ0w6mcPri"
+    },
+    {
+      "album": {
+        "name": "Sikelela",
+        "url": "https://open.spotify.com/album/0hXOBdWFdGyrScS3Ea4FzF"
+      },
+      "artists": [
+        {
+          "name": "Vumaala",
+          "url": "https://open.spotify.com/artist/3fTQKDAeWjKzKIBFq0SI13"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238983,
+      "name": "Sikelela",
+      "url": "https://open.spotify.com/track/7deG3pJ8Gn6Kfo2VjR66Fa"
     },
     {
       "album": {

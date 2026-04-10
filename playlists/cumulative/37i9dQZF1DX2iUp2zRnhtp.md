@@ -4,7 +4,7 @@
 
 > vi leker ikke hits!
 
-563 songs - 1 day 3 hr 56 min
+569 songs - 1 day 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Dum & Deilig](https://open.spotify.com/track/5FStk7omJkKPRaW8YngDto) | [Bargee](https://open.spotify.com/artist/0lLcVfzo8FYGaqDY47brmP) | [Dum & Deilig](https://open.spotify.com/album/4TBA0VgTjBpVyDTKpciMUm) | 2:48 | 2024-09-12 | 2024-09-27 |
 | [Døgnrytme](https://open.spotify.com/track/6xGdQujsUr5SjbYTDfzvlZ) | [Problembarn](https://open.spotify.com/artist/4OL8M4X2h0li7ThNulTjmx) | [Døgnrytme](https://open.spotify.com/album/3yjF4FoEzF4N0rNtuMUDPs) | 2:29 | 2026-02-26 | 2026-03-13 |
 | [Easy Lover](https://open.spotify.com/track/2OBzYCYMNsD6yhBZZSs0xg) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Something Beautiful](https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ) | 3:06 | 2025-05-29 |  |
+| [Echo](https://open.spotify.com/track/1HJqcvrJAgiID47SEGe27X) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Echo](https://open.spotify.com/album/37CYoaYJA39qUt4zl00Dnp) | 3:39 | 2026-04-09 |  |
 | [Echoes](https://open.spotify.com/track/1LXXQd8QKCS6jE7zIsHGo3) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Echoes](https://open.spotify.com/album/5OtGth79HOuvCHHXvbIyT5) | 2:42 | 2025-07-03 |  |
 | [Ekko](https://open.spotify.com/track/1KtiKEGGrhnNqGN7Hc84qb) | [GOLF](https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm), [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [Ekko](https://open.spotify.com/album/1Pf5ozCbeVb0pAYcQu4FCA) | 2:36 | 2025-05-08 |  |
 | [Elsker Livet](https://open.spotify.com/track/2XFLvv7Uq2ct1CWV6Hbt9L) | [Bølgen](https://open.spotify.com/artist/1oG6SP2Hw5TfGeRY5923PW) | [Elsker Livet](https://open.spotify.com/album/3trDwLgUMimJAlWGbB2zPc) | 2:25 | 2025-07-10 | 2025-09-05 |
@@ -257,6 +258,7 @@
 | [Iskald](https://open.spotify.com/track/43h7tzAYc9VjlEZMjoraU6) | [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV) | [Iskald](https://open.spotify.com/album/6v3PN7saZUPDNcv9G76FZ6) | 3:13 | 2026-03-19 |  |
 | [It's Amazing To Be Young](https://open.spotify.com/track/2m3SuMEdjlOWVN05steEXf) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [It's Amazing To Be Young](https://open.spotify.com/album/7MvJ6Zr1OEcMYUxHZA9gWs) | 3:30 | 2025-03-07 | 2025-03-28 |
 | [I’m Good \- From The Movie “GOAT”](https://open.spotify.com/track/4Rse4e9moG5PKR61F7ah28) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [I’m Good \(From The Movie “GOAT”\)](https://open.spotify.com/album/45mBhso0bpjGCjrHoQ9Tpa) | 2:59 | 2026-01-22 |  |
+| [Jag Kommer](https://open.spotify.com/track/4eOrmVxFQtTEUjEA2A0kcg) | [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV) | [Jag Kommer / Iskald](https://open.spotify.com/album/4T7fnsVJDcro8LibWzRfCk) | 3:04 | 2026-04-09 |  |
 | [Jealous Type](https://open.spotify.com/track/1IfGOnXoMBkiKC9xljlSfa) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Jealous Type](https://open.spotify.com/album/5faw0b6BBJiTHGNl9aaoc5) | 2:43 | 2025-08-21 |  |
 | [Jeg har vært en idiot](https://open.spotify.com/track/37mXHSrYsbEPjkeIREmsIJ) | [Katastrofe](https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR) | [Jeg har vært en idiot](https://open.spotify.com/album/7lcMSlKePVyhxlwVW2iAh5) | 2:29 | 2025-05-22 |  |
 | [Jeg tar deg imot](https://open.spotify.com/track/3rcVyuZ0No5sP78pzKud25) | [Randi Oline](https://open.spotify.com/artist/5O7vw7DOXDVSqVWWc8FpYV) | [Jeg tar deg imot](https://open.spotify.com/album/348MaQv1g119x9tSvy27Qk) | 3:06 | 2025-08-21 | 2025-09-19 |
@@ -405,6 +407,7 @@
 | [Queen Almighty](https://open.spotify.com/track/02lbmeB6aYDG280IiTQ8gq) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Queen Almighty](https://open.spotify.com/album/5NoLKUYUKQQBOTf26E6U0K) | 2:46 | 2025-09-26 | 2026-03-13 |
 | [REAL LIFE ISSUES](https://open.spotify.com/track/07DMMa7OonHhYAUkEricgJ) | [AVGVSTVS](https://open.spotify.com/artist/1DegXvs6WLntmyIMrPhaFr), [FRAM](https://open.spotify.com/artist/4eo3HSMXtaYqAAW6f14YVt) | [REAL LIFE ISSUES](https://open.spotify.com/album/0Sehwe608j131bA0fEFZO3) | 2:15 | 2025-08-21 | 2025-09-19 |
 | [Real To Me](https://open.spotify.com/track/5mThLXcmnbDgoudfO6HBNm) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [Real To Me](https://open.spotify.com/album/5JhzejBKo3M8xRbKsdOjqD) | 3:10 | 2025-11-06 |  |
+| [Reprise](https://open.spotify.com/track/7d2tJclfNpsh7M3YULPHFz) | [Fjellrev](https://open.spotify.com/artist/5sO8Yr7zER5JhiWVpjjgd8) | [Reprise](https://open.spotify.com/album/3tef4W5a0SrCkQS42q1Anb) | 2:10 | 2026-04-09 |  |
 | [Revolving door](https://open.spotify.com/track/541sN2qNfIlllGn9nGOQoC) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 3:00 | 2025-02-20 | 2025-05-23 |
 | [Ring meg opp](https://open.spotify.com/track/6CNjrSMafnMTIDqklY7F99) | [Tigergutt101](https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K), [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Ring meg opp](https://open.spotify.com/album/1FG8tvdPFJpv1ZA4vQu00P) | 2:12 | 2024-09-19 | 2024-10-04 |
 | [Rise](https://open.spotify.com/track/6YV3OKNbqBYrvUP8MvPXkL) | [Alexander Rybak](https://open.spotify.com/artist/3LLNDXrxL4uxXtnUJS5XWM) | [Fairytales Too](https://open.spotify.com/album/2A7fTyuRKl2S9n0jJeBqWC) | 2:57 | 2026-01-22 | 2026-03-13 |
@@ -415,6 +418,7 @@
 | [run for the hills](https://open.spotify.com/track/51hyZpbJlIgZIaX3TtMxmu) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:23 | 2024-06-27 | 2025-03-08 |
 | [Run It Up](https://open.spotify.com/track/3zylEBiAOPq3OBBdtpB5M4) | [Problembarn](https://open.spotify.com/artist/4OL8M4X2h0li7ThNulTjmx) | [Run It Up](https://open.spotify.com/album/2WJfge21aAzDJOMX5QOFy1) | 2:27 | 2024-10-10 | 2024-10-18 |
 | [Running Out](https://open.spotify.com/track/5v2SfybFL0ZkYcPOR5WmbC) | [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Running Out](https://open.spotify.com/album/7oI2MpU23gi49Ph6EOiWqT) | 3:01 | 2025-05-12 | 2025-05-23 |
+| [Runway](https://open.spotify.com/track/7BjcYqD0CqXnG45ezWSTYR) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Runway](https://open.spotify.com/album/0WY1wVmchFYlH4f1yZMc90) | 2:51 | 2026-04-09 |  |
 | [Rushing](https://open.spotify.com/track/6zHCOx2KpsOgOBn6UH8drN) | [Skinny Days](https://open.spotify.com/artist/4Q8IIlsZsXY1BgPzaz4DYq), [Low Tide Club](https://open.spotify.com/artist/1oC4LU0Se5y3xc2iDsLlKy) | [Rushing](https://open.spotify.com/album/4fFw2lYvIYTtgCuN0EvSgI) | 2:39 | 2026-02-19 |  |
 | [Rushmere](https://open.spotify.com/track/5bZwpT4em6OVU9u1VS4KW8) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Rushmere](https://open.spotify.com/album/2LCfGvnykHiGip0ic48wmJ) | 3:12 | 2025-03-27 | 2025-05-23 |
 | [Sakte Film](https://open.spotify.com/track/3UPjsBEaPTGE82x9Gqe3JG) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg) | [Sakte Film](https://open.spotify.com/album/3BgXNYkT0dJsg0at6P84Fa) | 2:37 | 2025-07-31 | 2025-09-19 |
@@ -429,6 +433,7 @@
 | [Senaste tiden](https://open.spotify.com/track/7mRVtj0WZj9zn3AKi1pIjh) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [… men det gör jag egentligen](https://open.spotify.com/album/5DUG2p0EimhnktehrSfZZR) | 3:57 | 2024-08-29 | 2024-09-13 |
 | [Set You Free](https://open.spotify.com/track/12GSOzaNG6XYiHWFUez311) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Set You Free](https://open.spotify.com/album/3pVX1mGqZvF8VzweJm2DyY) | 2:13 | 2025-02-13 | 2025-03-28 |
 | [Shapeshifter](https://open.spotify.com/track/0vtgMfyOVM2Y97DcVVJw3m) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Virgin](https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ) | 4:17 | 2025-06-26 | 2025-09-19 |
+| [Sick Of Love](https://open.spotify.com/track/6aPG5Atb3L3l8pZYzLrpEi) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Sick Of Love](https://open.spotify.com/album/2ETP833yyVmqvtnbnRHtxb) | 3:36 | 2026-04-09 |  |
 | [Signal](https://open.spotify.com/track/6j2vm2N9EsfzvG9JTd63Ii) | [Chris Abolade](https://open.spotify.com/artist/4wqjUmydj8rX3foHUjNOtB) | [Signal](https://open.spotify.com/album/3AOok0HeD380cjflOK7ZXd) | 2:43 | 2025-11-13 |  |
 | [Siren sounds \(bonus\)](https://open.spotify.com/track/181yGUB8xEh4LfK8KhC4Wa) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/6KaEpgeZQF6ZVVAmSoZUrb) | 3:03 | 2025-02-27 |  |
 | [Sista Gång](https://open.spotify.com/track/2i659C6ywROaFG0kj5eOoA) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [Sista Gång](https://open.spotify.com/album/4sXaL6DwBY0XD5GhIBdcD6) | 2:37 | 2024-06-27 | 2024-07-14 |
@@ -543,6 +548,7 @@
 | [Valentines](https://open.spotify.com/track/1ane1ChBkbMgPL6mFkAFK5) | [Cezinando](https://open.spotify.com/artist/504cl42JQLRqlZddfZ3S4z) | [Sinekyre 3](https://open.spotify.com/album/6Ths4hYYkTUDcnVCBf78pc) | 4:06 | 2025-04-03 |  |
 | [Vant til det](https://open.spotify.com/track/6HQXqcM17N4d2KcP9kyjMH) | [Nossan](https://open.spotify.com/artist/56oCqjZTfwPSfbjrsolBGT) | [Vant til det](https://open.spotify.com/album/7ptjOgIv2FidOtmcAu7TNI) | 2:08 | 2025-05-22 |  |
 | [Verdens verste menneske](https://open.spotify.com/track/7iqugpBZ2xq1UV6esP18Lr) | [Tomine Harket](https://open.spotify.com/artist/6064pL9Hu3Wx2bwJMeOx6o) | [Verdens verste menneske](https://open.spotify.com/album/6rxA8pKCd3AhFe0NWCPHJG) | 2:41 | 2025-06-26 | 2026-03-13 |
+| [VI SKAL ALDRI GÅ HJEM FØR SOLOPPGANG](https://open.spotify.com/track/0gAJiu6fAe7j2PxYEz9f7a) | [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL) | [VI SKAL ALDRI GÅ HJEM FØR SOLOPPGANG](https://open.spotify.com/album/3ACL65kXWrm0pFQkxJfIkT) | 2:19 | 2026-04-09 |  |
 | [Vil Ikke Dele](https://open.spotify.com/track/7McuDKPPrOXe5I0Y7b8wlg) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [Vil Ikke Dele](https://open.spotify.com/album/2F8IyxW4ddsPxLjYPFwGg3) | 2:15 | 2025-04-30 | 2025-05-23 |
 | [Voi Voi](https://open.spotify.com/track/4aKjwqQh7BgS3dWuUth0PY) | [CLMD](https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr), [OnklP](https://open.spotify.com/artist/7GUyb3aEJHskmBRrhckLa6), [Nora Brockstedt](https://open.spotify.com/artist/2qYLKeM0r1cFgpiFm4VtA1) | [Voi Voi](https://open.spotify.com/album/3xYkAZCLQvvOwCAtLpFf7X) | 2:24 | 2026-02-12 |  |
 | [Wait For You](https://open.spotify.com/track/0JjecOzaIzBTfIY35QGmgw) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Wait For You](https://open.spotify.com/album/0xBVvz5KOwJtgrc9sFpnwQ) | 3:21 | 2024-09-05 | 2025-05-01 |

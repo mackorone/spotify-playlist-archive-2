@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,052 songs - 5 day 1 hr 45 min
+2,055 songs - 5 day 1 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [Bae](https://open.spotify.com/track/1cjeKHaax2YIMDP2zC714F) | [Carlos Lapin](https://open.spotify.com/artist/6cypL54UbWFB1jP8v8BlqZ) | [Bae](https://open.spotify.com/album/3W2TlP2dI4Snfg5Dbkpe1q) | 1:36 | 2025-05-26 |  |
 | [Baila Mi Navidad](https://open.spotify.com/track/3Xdx0W8H8nTBetAFR5Ia7J) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Baila Mi Navidad](https://open.spotify.com/album/7ykfc5zIGkaCsdF6rXk2Nj) | 3:30 | 2025-12-02 |  |
 | [Baila Mi Navidad](https://open.spotify.com/track/7l1df2zvqlSU4SWa4SgspS) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI WINTER](https://open.spotify.com/album/13s38xML9DeGXcV6IO6sGm) | 3:30 | 2025-12-19 |  |
+| [Baila Sin Final](https://open.spotify.com/track/2Iqu1rqtEvm7q7N6sFXRUl) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Baila Sin Final](https://open.spotify.com/album/5vwVcXxmIBVLtxnB1IENtm) | 3:07 | 2026-04-09 |  |
 | [Bal Ed Dred](https://open.spotify.com/track/7oIiJu1Y6Jmnq3qbRaUKZI) | [Med Dred](https://open.spotify.com/artist/6utzvGsysMRFwhsetANHlg) | [Reggae Sunjam](https://open.spotify.com/album/6kYiNLr72LY5Wdz98ArSi2) | 3:59 | 2024-03-23 |  |
 | [Balance](https://open.spotify.com/track/4i61t5rdgzsaPTVPOFKewP) | [BxRI SzN](https://open.spotify.com/artist/1PUQFMKFlyhCunWecgoeSW), [D\-Raww](https://open.spotify.com/artist/1CUr1a68mFrVuSY5is9tBR) | [Balance](https://open.spotify.com/album/2W6Z6od5vV1eRr8BMFe5MQ) | 2:28 | 2025-11-28 |  |
 | [Balance](https://open.spotify.com/track/7eUNIfxTlIQyZVRzLHxx0N) | [Luna Dharma](https://open.spotify.com/artist/1RXLMXtNtNKXx5drIuuwjm) | [Balance](https://open.spotify.com/album/6LhEyeEepdi5yxhxpSlnO6) | 2:41 | 2024-04-20 |  |
@@ -408,6 +409,7 @@
 | [Dentro quell'ora](https://open.spotify.com/track/6J5X0qtjRQKgKCgcAPvuWU) | [Cristian Nevola](https://open.spotify.com/artist/5obCJ7rIcd96XExURB2NTv) | [Amaroamore](https://open.spotify.com/album/4YRkPuAuBGSCFzD4Inbum7) | 4:09 | 2022-08-13 |  |
 | [Derinde](https://open.spotify.com/track/22kKuc4HcxEtU7t9JMfXnD) | [YASİN ÖZDEMİR](https://open.spotify.com/artist/5OknPaDVzjTvvAtZhckoIi) | [Derinde](https://open.spotify.com/album/7elLpvQRFM6jBDOoxOGyEt) | 3:17 | 2025-11-18 |  |
 | [Desnudo](https://open.spotify.com/track/7lptMevLR7tBkrf3f9k6QX) | [Paco Jordá y el Hombre Elefante](https://open.spotify.com/artist/26CqgPa1Rvxf15Shb3dvgn) | [Desnudo](https://open.spotify.com/album/1AD4nYeT0LYH78KrZdQj4u) | 4:14 | 2025-08-04 |  |
+| [Despedida](https://open.spotify.com/track/7rriesN8nZhU9kMQ2fQ3Os) | [Nine Angel](https://open.spotify.com/artist/1Lc1Ou5z78fgizSFbUlj8Y) | [Despedida](https://open.spotify.com/album/5TSyEf8knXO3LWYNmHLOYJ) | 2:58 | 2026-04-09 |  |
 | [DESPERDICIO](https://open.spotify.com/track/62NVCxSrgSDM0Ylk737H2z) | [Sophii](https://open.spotify.com/artist/5douRXfh63Af375RbUJcIE) | [DESPERDICIO](https://open.spotify.com/album/0RZQ3V12LleUybzTxLxYIc) | 2:18 | 2025-10-19 |  |
 | [Desvelo](https://open.spotify.com/track/6rNtTePkYs4dwUmQSLpLFG) | [Lenoise](https://open.spotify.com/artist/1zbtdItCDLhQLlyL3ASTZG) | [Claroscuro](https://open.spotify.com/album/3w4KZQa7mGwhjPhuFAWR8P) | 3:54 | 2025-12-28 |  |
 | [Detroit Lights](https://open.spotify.com/track/5LpZ6xHg6CFgG9pGT3Spo7) | [Neel Yuvraj](https://open.spotify.com/artist/50A5woLmFEZowAznz7g59s) | [Detroit Lights](https://open.spotify.com/album/60PqwPtErtttJWCBVCuDis) | 3:08 | 2024-07-08 |  |
@@ -1038,6 +1040,7 @@
 | [Lions](https://open.spotify.com/track/40z0lEmiXHyO1Q5RdBxOZa) | [Muflon Dub Soundsystem](https://open.spotify.com/artist/2Ezu1DrYA7N80DduUwUnE1), [Melana](https://open.spotify.com/artist/5Wm3mlWwE7B8OrfjORsAz7) | [From Genesis To Revelation](https://open.spotify.com/album/7CxtjOUUSEPlLgGqFMDqGU) | 3:55 | 2024-05-04 |  |
 | [Lions \- Dub](https://open.spotify.com/track/1Sj0PCApBLd0kPxHxGtJd9) | [Muflon Dub Soundsystem](https://open.spotify.com/artist/2Ezu1DrYA7N80DduUwUnE1), [Melana](https://open.spotify.com/artist/5Wm3mlWwE7B8OrfjORsAz7) | [From Genesis To Revelation](https://open.spotify.com/album/7CxtjOUUSEPlLgGqFMDqGU) | 3:55 | 2024-05-04 |  |
 | [Liquid Bass Conspiracy](https://open.spotify.com/track/4hjhmFMTnWZOChjvRv7Lpj) | [Harmon](https://open.spotify.com/artist/5tBAhHbRM5eqxs963VJ4rC), [Kongo](https://open.spotify.com/artist/5BZIja2U8chUx5Txh1SJZD), [Travis](https://open.spotify.com/artist/7kZvC6IAN4NPYhGqoQd95K) | [Analog Dreams in Digital Times](https://open.spotify.com/album/5F1OlXndPmFIKrt4Y9K44m) | 3:47 | 2025-11-15 |  |
+| [Listen](https://open.spotify.com/track/77kzqKHULo3dpcAWyOLwOy) | [Elevator Operator](https://open.spotify.com/artist/146hY314HEGttVHczyZf8T) | [Future Self](https://open.spotify.com/album/3gN3dfsigjmVngomnGnXLO) | 3:25 | 2026-04-09 |  |
 | [Listening to the Dawn](https://open.spotify.com/track/1qTcmDLgy2ecIdTRGxI1St) | [CrisVola](https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo) | [Listening to the Dawn](https://open.spotify.com/album/0mtQyB7Ki0yKflEUeJDsdN) | 3:01 | 2023-03-15 |  |
 | [Little Breaths of Earth](https://open.spotify.com/track/5zs4FeblB1ADXD1fFqsFeQ) | [Wren West](https://open.spotify.com/artist/74pbT2LPDxbREIa12eMfxU) | [Little Breaths of Earth](https://open.spotify.com/album/5atEREgUaJnYKMWBAtwYFX) | 5:09 | 2026-03-25 |  |
 | [little one's breath](https://open.spotify.com/track/2DyDw9DJeoOft3sJ0VHgBl) | [mytinyhuman](https://open.spotify.com/artist/5wfP5o9j86nnpWHHr73I0V) | [sweet dreams](https://open.spotify.com/album/1LcvGNRU5PUiVam4xFJp9y) | 2:39 | 2025-10-28 |  |

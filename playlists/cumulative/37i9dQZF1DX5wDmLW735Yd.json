@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Dimension, bbyclose",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Chase & Status, Lancey Foux",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -754,7 +754,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 265295,
       "name": "All Night (Tim Reaper remix)",
       "url": "https://open.spotify.com/track/7obL6oZz2VM8CQK50g2R7c"
@@ -1344,6 +1344,32 @@
       "duration_ms": 270426,
       "name": "Athos",
       "url": "https://open.spotify.com/track/54OPjqS1YbDpkqepwfPPv0"
+    },
+    {
+      "album": {
+        "name": "Atlas",
+        "url": "https://open.spotify.com/album/7bwfaO5V1y9LRqLD8uyvBR"
+      },
+      "artists": [
+        {
+          "name": "Nasser UK",
+          "url": "https://open.spotify.com/artist/0OKtqx9di2GqRpRqA3eFpD"
+        },
+        {
+          "name": "Limmz",
+          "url": "https://open.spotify.com/artist/4cm0e6rUO2nxaJjkbNqNwf"
+        },
+        {
+          "name": "JoSoSick",
+          "url": "https://open.spotify.com/artist/4plADgQTqVwQboafH6KsGL"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186352,
+      "name": "Atlas",
+      "url": "https://open.spotify.com/track/24HjWAn603YNmI3gSsgj2T"
     },
     {
       "album": {
@@ -3572,7 +3598,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 162780,
       "name": "Call Me Back",
       "url": "https://open.spotify.com/track/4iIfCKo2mwAqyM0cS2DL4H"
@@ -6328,7 +6354,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 292000,
       "name": "Dry Heat",
       "url": "https://open.spotify.com/track/6NlZnqraPAjSWlPvFD6uLq"
@@ -8330,6 +8356,24 @@
       "duration_ms": 209655,
       "name": "Freefalling",
       "url": "https://open.spotify.com/track/7uBuBwDQJzcSVfR3rSvsSF"
+    },
+    {
+      "album": {
+        "name": "Frequency",
+        "url": "https://open.spotify.com/album/170iWlGXwwBb1eAX0tnqqS"
+      },
+      "artists": [
+        {
+          "name": "Subsonic",
+          "url": "https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226206,
+      "name": "Frequency",
+      "url": "https://open.spotify.com/track/6Gkbg9A95px8Qr7LRV7jTE"
     },
     {
       "album": {
@@ -10537,6 +10581,28 @@
     },
     {
       "album": {
+        "name": "Homework (feat. Lancey Foux)",
+        "url": "https://open.spotify.com/album/6CCd4UhRDwzxnODDJlOUpi"
+      },
+      "artists": [
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        },
+        {
+          "name": "Lancey Foux",
+          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154943,
+      "name": "Homework (feat. Lancey Foux)",
+      "url": "https://open.spotify.com/track/3DPmmX5uRSoEpldlHmP8Eq"
+    },
+    {
+      "album": {
         "name": "Hooked",
         "url": "https://open.spotify.com/album/0T3jzFxbp2KhNM6zDPG9Ym"
       },
@@ -11370,7 +11436,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 149065,
       "name": "In The Wild",
       "url": "https://open.spotify.com/track/6qdawS2KDh5yAeojdhjYMi"
@@ -13602,7 +13668,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 243428,
       "name": "Love The Pussy",
       "url": "https://open.spotify.com/track/41uy43i5APqm3sSbg4c1mB"
@@ -13988,7 +14054,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 188586,
       "name": "Mariana",
       "url": "https://open.spotify.com/track/3XztDLSsUifW8WxTc3mzi2"
@@ -14536,6 +14602,28 @@
       "duration_ms": 157681,
       "name": "Miss U",
       "url": "https://open.spotify.com/track/7zkIBL3GmwmggBLTnHwLa9"
+    },
+    {
+      "album": {
+        "name": "Mistakes",
+        "url": "https://open.spotify.com/album/7rpcF8dzvHV1e01hC3vaoS"
+      },
+      "artists": [
+        {
+          "name": "Fred V",
+          "url": "https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4"
+        },
+        {
+          "name": "Luxtides",
+          "url": "https://open.spotify.com/artist/22bKgyDEmDgPhvSBYklJBe"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206996,
+      "name": "Mistakes",
+      "url": "https://open.spotify.com/track/6Jnc0C5f5kmszaAA8Jr2Gr"
     },
     {
       "album": {
@@ -15196,6 +15284,28 @@
       "duration_ms": 220689,
       "name": "Nervous System",
       "url": "https://open.spotify.com/track/01ywNfttBNmwRESQd3RKGb"
+    },
+    {
+      "album": {
+        "name": "Never Adds Up (feat. In\u00e9z)",
+        "url": "https://open.spotify.com/album/7IXwcsGgJwo2bHlGFFjkhe"
+      },
+      "artists": [
+        {
+          "name": "Luude",
+          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
+        },
+        {
+          "name": "In\u00e9z",
+          "url": "https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148774,
+      "name": "Never Adds Up (feat. In\u00e9z)",
+      "url": "https://open.spotify.com/track/0Cum83rmJihiD99CkRmOCn"
     },
     {
       "album": {
@@ -17547,6 +17657,28 @@
     },
     {
       "album": {
+        "name": "Pretender",
+        "url": "https://open.spotify.com/album/1WtVdYNbtsTjezBjcj3wEv"
+      },
+      "artists": [
+        {
+          "name": "Emily Makis",
+          "url": "https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX"
+        },
+        {
+          "name": "Pola & Bryson",
+          "url": "https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182068,
+      "name": "Pretender",
+      "url": "https://open.spotify.com/track/3D6b00DZiztqbwXXEcNhop"
+    },
+    {
+      "album": {
         "name": "Price Of It All (Music From the Original Series \"Bait\")",
         "url": "https://open.spotify.com/album/06bNDYpYI7TlmUgM76DUpO"
       },
@@ -18692,7 +18824,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 216172,
       "name": "Ride The Energy",
       "url": "https://open.spotify.com/track/5YarSfIv7zBae8TcMGGSsg"
@@ -19040,7 +19172,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 297848,
       "name": "Runaway With You",
       "url": "https://open.spotify.com/track/0GLwjdIo4S1X0kOJLBDZ8i"
@@ -23127,6 +23259,28 @@
     },
     {
       "album": {
+        "name": "Told Em",
+        "url": "https://open.spotify.com/album/1eMdwXz61iJddZEpvIhlBd"
+      },
+      "artists": [
+        {
+          "name": "ENiGMA Dubz",
+          "url": "https://open.spotify.com/artist/7ygSJBM6sZ0vXGJvjnL1V5"
+        },
+        {
+          "name": "Dread MC",
+          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157241,
+      "name": "Told Em",
+      "url": "https://open.spotify.com/track/4YDEXNTLp1SGtENC1WAaxP"
+    },
+    {
+      "album": {
         "name": "Tonight",
         "url": "https://open.spotify.com/album/37XUUenOnh5SpcXlVuqC9Q"
       },
@@ -23376,6 +23530,28 @@
       "duration_ms": 201942,
       "name": "Trenches",
       "url": "https://open.spotify.com/track/1zptaFO2mqYrgwvQdrDOKd"
+    },
+    {
+      "album": {
+        "name": "Trenches",
+        "url": "https://open.spotify.com/album/3Txt3WGHlkAcEO9o4p0bwi"
+      },
+      "artists": [
+        {
+          "name": "goddard.",
+          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
+        },
+        {
+          "name": "D38",
+          "url": "https://open.spotify.com/artist/0x1B0bD5jSY4Py6VWB66Fe"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195428,
+      "name": "Trenches",
+      "url": "https://open.spotify.com/track/1qHFpSUF3lo7LX8CqodSNW"
     },
     {
       "album": {
@@ -23694,6 +23870,28 @@
       "duration_ms": 285517,
       "name": "Untouchable",
       "url": "https://open.spotify.com/track/0yy4tAum7UPQgQe3K6LJuZ"
+    },
+    {
+      "album": {
+        "name": "ur mine <3",
+        "url": "https://open.spotify.com/album/2WNyvLSrqeBLFWUBAxexhN"
+      },
+      "artists": [
+        {
+          "name": "[IVY]",
+          "url": "https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw"
+        },
+        {
+          "name": "Emie",
+          "url": "https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180086,
+      "name": "ur mine <3",
+      "url": "https://open.spotify.com/track/23DtAGBnSGUxg6lTvGvPTn"
     },
     {
       "album": {
@@ -25010,7 +25208,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 223908,
       "name": "Whip It",
       "url": "https://open.spotify.com/track/15QzklBIn8KAndva0wRSHU"

@@ -1,6 +1,6 @@
 {
   "description": "The latest and the greatest of CHH!  Cover: Miles Minnick",
-  "num_followers": 33429,
+  "num_followers": 33433,
   "original_name": "The Blaze",
   "owner": {
     "name": "Spotify",
@@ -1155,6 +1155,22 @@
       "duration_ms": 164090,
       "name": "Above All Else",
       "url": "https://open.spotify.com/track/1VIdaPSQgVe1jkgRj94pWz"
+    },
+    {
+      "added_at": "2026-04-03 13:46:06",
+      "album": {
+        "name": "Eastside Evangelist",
+        "url": "https://open.spotify.com/album/2Ix1D25SdRC8ilvq9oLLWp"
+      },
+      "artists": [
+        {
+          "name": "Caam1k",
+          "url": "https://open.spotify.com/artist/7jmrwYVgLNcjdhwBH6DxPz"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Discernment",
+      "url": "https://open.spotify.com/track/6eT9XwWXIw47OokW8eZylj"
     },
     {
       "added_at": "2026-04-03 13:46:06",

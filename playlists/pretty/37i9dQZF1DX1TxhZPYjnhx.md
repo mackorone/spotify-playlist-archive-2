@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TxhZPYjnhx.md) - [plain]
 
 > Discover new favorites or tomorrow's hits today\. Cover: Charlie Lim
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,632 likes - 99 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,631 likes - 99 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TxhZPYjnhx.md) - [plain]
 | 98 | [nobody has to know \(with Ronald Isley\)](https://open.spotify.com/track/3CpYc8sEJUAgusqSZZKzi3) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Ronald Isley](https://open.spotify.com/artist/6W9RUw7xnNRYtgh8dimg7L) | [nobody has to know \(with Ronald Isley\)](https://open.spotify.com/album/1dLxVKDkwe9nALHF5ErQEd) | 3:17 |
 | 99 | [SOUR GRAPE](https://open.spotify.com/track/2GgBQrVEjRoIvJO1SFaUA3) | [LAYYI](https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr), [dia maté](https://open.spotify.com/artist/4UcpNyDTbuLdGygQNjuXfd) | [SOUR GRAPE](https://open.spotify.com/album/66CaiDuiDrxLpIiFKwEueS) | 1:56 |
 
-Snapshot ID: `AAAAAIJX+PvqjUbx1J501SjHeyudFQlj`
+Snapshot ID: `AAAAADMHxiVIOaKHaWpSzIhvNJxWewDM`

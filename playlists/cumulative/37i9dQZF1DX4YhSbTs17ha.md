@@ -4,7 +4,7 @@
 
 > Las canciones de pop más exitosas en México\. Jasiel Nuñez y Ximena Sariñana en portada.
 
-926 songs - 2 day 1 hr 34 min
+927 songs - 2 day 1 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -608,6 +608,7 @@
 | [No Te Vayas Sin Saber](https://open.spotify.com/track/7DlyoTUiq5lwxoUpz1GKxl) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [No Te Vayas Sin Saber](https://open.spotify.com/album/7EP6fqNBUnJcjNirm8UwOJ) | 3:44 | 2025-08-29 | 2025-09-20 |
 | [Noche](https://open.spotify.com/track/42AStJYmglTAHAgER92gxv) | [Sofish](https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB) | [Noche](https://open.spotify.com/album/3IpjbBkyfU8jHG69ch0Y2l) | 2:35 | 2026-03-27 |  |
 | [Noches De Verano](https://open.spotify.com/track/5LgasjuMHee4NZ4LsoaOh0) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Noches De Verano](https://open.spotify.com/album/1ktGnE8t1PSzCRELZJTChF) | 3:06 | 2024-03-15 | 2024-04-13 |
+| [Nuestra Casa](https://open.spotify.com/track/32PLngqOwuA7jZzfZVk6Wb) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Nuestra Casa](https://open.spotify.com/album/32fF4N6NziEurvlun5ut92) | 3:48 | 2026-04-03 |  |
 | [Nunca Me Lo Esperé](https://open.spotify.com/track/7gtowQfLM1t2nlS1ZKG6uk) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Nunca Me Lo Esperé](https://open.spotify.com/album/1PWDNAdAcDUbyMPUHMHGoa) | 2:45 | 2026-03-06 |  |
 | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8) | 3:24 | 2023-01-10 | 2023-03-11 |
 | [Ojalá](https://open.spotify.com/track/6Sg4krwBSmwL3oSusCSUja) | [Dulce María](https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL), [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [Ojalá](https://open.spotify.com/album/6pAKQ3ZMIf6HVseqPPqbN1) | 3:40 | 2024-11-15 | 2025-01-25 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-02",
-  "description": "\u5168\u30bb\u30c3\u30c8\u30ea\u30b9\u30c8\u3092\u516c\u958b\uff012026\u5e744\u67083\u65e5(\u91d1)~4\u67085\u65e5(\u65e5)\u306b\u5e55\u5f35\u30e1\u30c3\u30bb\u3067\u958b\u50ac\u3055\u308c\u305f\u30d2\u30c3\u30d7\u30db\u30c3\u30d7\u30d5\u30a7\u30b9\u30c6\u30a3\u30d0\u30eb\u300ePOP YOURS\u300f\u306e\u516c\u5f0f\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u30bb\u30c3\u30c8\u30ea\u30b9\u30c8\u3092\u518d\u73fe\u3002 *\u4e00\u90e8\u78ba\u8a8d\u4e2d\u3002\u968f\u6642\u66f4\u65b0",
+  "description": "\u5168\u30bb\u30c3\u30c8\u30ea\u30b9\u30c8\u3092\u516c\u958b\uff012026\u5e744\u67083\u65e5(\u91d1)~4\u67085\u65e5(\u65e5)\u306b\u5e55\u5f35\u30e1\u30c3\u30bb\u3067\u958b\u50ac\u3055\u308c\u305f\u30d2\u30c3\u30d7\u30db\u30c3\u30d7\u30d5\u30a7\u30b9\u30c6\u30a3\u30d0\u30eb\u300ePOP YOURS\u300f\u306e\u516c\u5f0f\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u30bb\u30c3\u30c8\u30ea\u30b9\u30c8\u3092\u518d\u73fe\u3002",
   "name": "POP YOURS",
   "tracks": [
     {
@@ -11151,6 +11151,24 @@
     },
     {
       "album": {
+        "name": "TIMELESS",
+        "url": "https://open.spotify.com/album/7lY2QQlClBznftTUF1VNtg"
+      },
+      "artists": [
+        {
+          "name": "Kohjiya",
+          "url": "https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134974,
+      "name": "Keep Goin' Rozay",
+      "url": "https://open.spotify.com/track/3kmxUoeuVtWSFTStU8ollP"
+    },
+    {
+      "album": {
         "name": "Kick Up",
         "url": "https://open.spotify.com/album/6KkikXwQyUw7jtJqrfo35a"
       },
@@ -11700,6 +11718,24 @@
       "duration_ms": 167770,
       "name": "Life Goes On",
       "url": "https://open.spotify.com/track/5njVjiy3tHgOQBgE8axj2i"
+    },
+    {
+      "album": {
+        "name": "TIMELESS",
+        "url": "https://open.spotify.com/album/7lY2QQlClBznftTUF1VNtg"
+      },
+      "artists": [
+        {
+          "name": "Kohjiya",
+          "url": "https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142434,
+      "name": "Life Is Not Automatic",
+      "url": "https://open.spotify.com/track/3oezo1oVaLrDl5WQgZ1w9B"
     },
     {
       "album": {
@@ -13880,6 +13916,32 @@
       "duration_ms": 188750,
       "name": "MYSELF",
       "url": "https://open.spotify.com/track/3y4MntZ8wOti0QEvVhYTYC"
+    },
+    {
+      "album": {
+        "name": "M\u3068B\u3092 (feat. Tohji & gummyboy)",
+        "url": "https://open.spotify.com/album/5Rc4XvdBtZ6MYpHddQZD4m"
+      },
+      "artists": [
+        {
+          "name": "Mall Boyz",
+          "url": "https://open.spotify.com/artist/4frHeZ2ummtLwkuV7QohYp"
+        },
+        {
+          "name": "Tohji",
+          "url": "https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF"
+        },
+        {
+          "name": "gummyboy",
+          "url": "https://open.spotify.com/artist/3jk0CePj2VdhqGpN0GX6pd"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184377,
+      "name": "M\u3068B\u3092 (feat. Tohji & gummyboy)",
+      "url": "https://open.spotify.com/track/08dVSRoORQ4IWoNzjd6mEG"
     },
     {
       "album": {
@@ -17736,6 +17798,32 @@
       "duration_ms": 188226,
       "name": "Rouge540 (feat. Kohjiya)",
       "url": "https://open.spotify.com/track/33b4HvHpWAY1d9Y1wLB4Ku"
+    },
+    {
+      "album": {
+        "name": "TIMELESS",
+        "url": "https://open.spotify.com/album/7lY2QQlClBznftTUF1VNtg"
+      },
+      "artists": [
+        {
+          "name": "Kohjiya",
+          "url": "https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK"
+        },
+        {
+          "name": "Kaneee",
+          "url": "https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09"
+        },
+        {
+          "name": "Yvng Patra",
+          "url": "https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235654,
+      "name": "Roulette (feat. Kaneee & Yvng Patra)",
+      "url": "https://open.spotify.com/track/5qB38sw9N1C6YRWfHykkpj"
     },
     {
       "album": {
@@ -21615,6 +21703,24 @@
     },
     {
       "album": {
+        "name": "TIMELESS",
+        "url": "https://open.spotify.com/album/7lY2QQlClBznftTUF1VNtg"
+      },
+      "artists": [
+        {
+          "name": "Kohjiya",
+          "url": "https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162409,
+      "name": "Visitor",
+      "url": "https://open.spotify.com/track/4pblFz5wpV1BIM16fUVfVY"
+    },
+    {
+      "album": {
         "name": "SUN NO KUNI",
         "url": "https://open.spotify.com/album/36kBvq8ThgFCCIHuJfoPfu"
       },
@@ -22113,6 +22219,24 @@
     },
     {
       "album": {
+        "name": "TIMELESS",
+        "url": "https://open.spotify.com/album/7lY2QQlClBznftTUF1VNtg"
+      },
+      "artists": [
+        {
+          "name": "Kohjiya",
+          "url": "https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154296,
+      "name": "What I Do",
+      "url": "https://open.spotify.com/track/2PkIUrrzOjoe2NDtQO9lZu"
+    },
+    {
+      "album": {
         "name": "Hit Different",
         "url": "https://open.spotify.com/album/4H5P7cJyGe0Sw0gSHtjuMm"
       },
@@ -22298,7 +22422,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-24",
+      "date_removed": null,
       "duration_ms": 185034,
       "name": "Wind Rise",
       "url": "https://open.spotify.com/track/7ft8cpFbv0E9SOUiUMcPuW"
@@ -22824,6 +22948,24 @@
       "duration_ms": 270853,
       "name": "YOKAZE",
       "url": "https://open.spotify.com/track/5q6xFDptliUEAtuvH3BnIV"
+    },
+    {
+      "album": {
+        "name": "TIMELESS",
+        "url": "https://open.spotify.com/album/7lY2QQlClBznftTUF1VNtg"
+      },
+      "artists": [
+        {
+          "name": "Kohjiya",
+          "url": "https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139588,
+      "name": "You & I",
+      "url": "https://open.spotify.com/track/0JzDLRWl0bwNdNuWxuBGRO"
     },
     {
       "album": {

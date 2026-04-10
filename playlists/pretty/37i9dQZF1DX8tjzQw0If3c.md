@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tjzQw0If3c.md) - [plain]
 
 > Introducing RADAR Singapore & Malaysia Class of 2026\. Cover: Alpha
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,367 likes - 35 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,384 likes - 35 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,16 +20,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tjzQw0If3c.md) - [plain]
 | 10 | [lips on mine](https://open.spotify.com/track/4UYnj2Y9iwE08A12FDedMj) | [quiet morning](https://open.spotify.com/artist/2I7lhkczBjeJ8aTrrZfTgz) | [lips on mine](https://open.spotify.com/album/4LNorO57lfjRrBae20cEPU) | 3:05 |
 | 11 | [Safe](https://open.spotify.com/track/4egBKvnGHtwBg8JfOsFOin) | [supercatkei](https://open.spotify.com/artist/4GLlFpGx6t0FwMz7LcJyBN) | [Safe](https://open.spotify.com/album/2ZuIDEHxtSkmGR4EwtkDkc) | 3:38 |
 | 12 | [Hurt People](https://open.spotify.com/track/09BWC4HuuYodVWG3l4lPWn) | [WHYLUCAS](https://open.spotify.com/artist/4Q2XtNhjSHHeEC1q4QbM5z) | [ORANGE](https://open.spotify.com/album/5Q14FjYIDafCAzeXM4AeUd) | 3:45 |
-| 13 | [P Ramlee Saloma](https://open.spotify.com/track/7p2GUA0ShGenHoqeIhTg5i) | [Alpha](https://open.spotify.com/artist/0s2MtYt7PZx0kP8CqLt38t) | [P Ramlee Saloma](https://open.spotify.com/album/7oCqvPcLCDWQ5Nxj5ZVVJN) | 3:18 |
-| 14 | [Bujang](https://open.spotify.com/track/3KNeUaMsHJjLfIdIc49GoC) | [Alpha](https://open.spotify.com/artist/0s2MtYt7PZx0kP8CqLt38t) | [Bujang](https://open.spotify.com/album/1m0rCniLQrNH7RqSlAPCAx) | 3:23 |
-| 15 | [Limerence](https://open.spotify.com/track/7GX3fsty0E2X2ZE8GivcGm) | [Celine Wanyi](https://open.spotify.com/artist/6TDH7ncjLQmNKM1SdbggnZ) | [Limerence](https://open.spotify.com/album/0EM7cPfo622WFhZVFCDtFt) | 2:08 |
-| 16 | [history](https://open.spotify.com/track/4GCG4wue41tcJjOD6zhRWq) | [Celine Wanyi](https://open.spotify.com/artist/6TDH7ncjLQmNKM1SdbggnZ) | [history](https://open.spotify.com/album/5124dhIjBPKKW6LoBfyTHY) | 3:18 |
-| 17 | [Just Friends](https://open.spotify.com/track/6Re0bJBf1d4XuHwJLg1GeQ) | [Estelle Fly](https://open.spotify.com/artist/3sBC2tYJt3sFq6j1dPC5Bk) | [Just Friends](https://open.spotify.com/album/6ihZe1IOrHtQIrCoAuvC76) | 3:38 |
-| 18 | [ZONE](https://open.spotify.com/track/6uAQtMephSqoizW8vufKjK) | [Estelle Fly](https://open.spotify.com/artist/3sBC2tYJt3sFq6j1dPC5Bk) | [ZONE](https://open.spotify.com/album/06Z6NmunCkEomOqxsUk6p2) | 2:47 |
-| 19 | [Terjatuh Cinta](https://open.spotify.com/track/0FgWL2yFDcxPhB9KzkLi6B) | [Julia Duclos](https://open.spotify.com/artist/0eK60XV9Prh7naXVKJt1XE) | [Terjatuh Cinta](https://open.spotify.com/album/5NxFMIC2kTRtIlLxbUp2xR) | 4:16 |
-| 20 | [Promises \(DM's\)](https://open.spotify.com/track/0jZhcorC9gQ5zRV9W8UDgw) | [Julia Duclos](https://open.spotify.com/artist/0eK60XV9Prh7naXVKJt1XE) | [Illusion EP](https://open.spotify.com/album/7dRKHBi8oyyDjb5uQrro8N) | 3:08 |
-| 21 | [Cinta Tersimpul Rapi 2026](https://open.spotify.com/track/3xUk2e7A3zcDZXpugww7Ar) | [Intan Maya](https://open.spotify.com/artist/4nzjfVkKR5fM96tka8N3pa) | [Cinta Tersimpul Rapi 2026](https://open.spotify.com/album/75ovnbodCrTxTmo8Qbx5Au) | 4:27 |
-| 22 | [Sangka Kau Suci](https://open.spotify.com/track/1VMQZjVkpMZeeh4rVwlIhW) | [Intan Maya](https://open.spotify.com/artist/4nzjfVkKR5fM96tka8N3pa) | [Sangka Kau Suci](https://open.spotify.com/album/7DknT8hWtqJGjc7FHGuisY) | 3:25 |
+| 13 | [Sangka Kau Suci Live Studio](https://open.spotify.com/track/4deTKInnF37yToYOVafr4T) | [Intan Maya](https://open.spotify.com/artist/4nzjfVkKR5fM96tka8N3pa) | [Sangka Kau Suci Live Studio](https://open.spotify.com/album/2cqV7kwFILbnraq0jZVBUL) | 3:27 |
+| 14 | [P Ramlee Saloma](https://open.spotify.com/track/7p2GUA0ShGenHoqeIhTg5i) | [Alpha](https://open.spotify.com/artist/0s2MtYt7PZx0kP8CqLt38t) | [P Ramlee Saloma](https://open.spotify.com/album/7oCqvPcLCDWQ5Nxj5ZVVJN) | 3:18 |
+| 15 | [Bujang](https://open.spotify.com/track/3KNeUaMsHJjLfIdIc49GoC) | [Alpha](https://open.spotify.com/artist/0s2MtYt7PZx0kP8CqLt38t) | [Bujang](https://open.spotify.com/album/1m0rCniLQrNH7RqSlAPCAx) | 3:23 |
+| 16 | [Limerence](https://open.spotify.com/track/7GX3fsty0E2X2ZE8GivcGm) | [Celine Wanyi](https://open.spotify.com/artist/6TDH7ncjLQmNKM1SdbggnZ) | [Limerence](https://open.spotify.com/album/0EM7cPfo622WFhZVFCDtFt) | 2:08 |
+| 17 | [history](https://open.spotify.com/track/4GCG4wue41tcJjOD6zhRWq) | [Celine Wanyi](https://open.spotify.com/artist/6TDH7ncjLQmNKM1SdbggnZ) | [history](https://open.spotify.com/album/5124dhIjBPKKW6LoBfyTHY) | 3:18 |
+| 18 | [Just Friends](https://open.spotify.com/track/6Re0bJBf1d4XuHwJLg1GeQ) | [Estelle Fly](https://open.spotify.com/artist/3sBC2tYJt3sFq6j1dPC5Bk) | [Just Friends](https://open.spotify.com/album/6ihZe1IOrHtQIrCoAuvC76) | 3:38 |
+| 19 | [ZONE](https://open.spotify.com/track/6uAQtMephSqoizW8vufKjK) | [Estelle Fly](https://open.spotify.com/artist/3sBC2tYJt3sFq6j1dPC5Bk) | [ZONE](https://open.spotify.com/album/06Z6NmunCkEomOqxsUk6p2) | 2:47 |
+| 20 | [Terjatuh Cinta](https://open.spotify.com/track/0FgWL2yFDcxPhB9KzkLi6B) | [Julia Duclos](https://open.spotify.com/artist/0eK60XV9Prh7naXVKJt1XE) | [Terjatuh Cinta](https://open.spotify.com/album/5NxFMIC2kTRtIlLxbUp2xR) | 4:16 |
+| 21 | [Promises \(DM's\)](https://open.spotify.com/track/0jZhcorC9gQ5zRV9W8UDgw) | [Julia Duclos](https://open.spotify.com/artist/0eK60XV9Prh7naXVKJt1XE) | [Illusion EP](https://open.spotify.com/album/7dRKHBi8oyyDjb5uQrro8N) | 3:08 |
+| 22 | [Cinta Tersimpul Rapi 2026](https://open.spotify.com/track/3xUk2e7A3zcDZXpugww7Ar) | [Intan Maya](https://open.spotify.com/artist/4nzjfVkKR5fM96tka8N3pa) | [Cinta Tersimpul Rapi 2026](https://open.spotify.com/album/75ovnbodCrTxTmo8Qbx5Au) | 4:27 |
 | 23 | [Running Lights](https://open.spotify.com/track/0pe3m2bZeD542VyzOCzCAC) | [J308](https://open.spotify.com/artist/4vgQ1thwWytHhdUL742Ul1) | [Running Lights](https://open.spotify.com/album/5HlnHYKakzMEGZ6fLsWuHw) | 3:37 |
 | 24 | [POPSTAR IN THE MAKING](https://open.spotify.com/track/3YnWu48vw1cLKTFIyIcprx) | [J308](https://open.spotify.com/artist/4vgQ1thwWytHhdUL742Ul1) | [POPSTAR IN THE MAKING](https://open.spotify.com/album/6vR888Yjx5OAwKqJT2Wzex) | 1:31 |
 | 25 | [Love Me!](https://open.spotify.com/track/4KQrm3KrTuwq3oyii6RHTj) | [Mohsein Kush](https://open.spotify.com/artist/43OqQzIV9TglsBOjhhesn8) | [LOVE \- EP](https://open.spotify.com/album/2qdMkLZhMu7PBZXHvonArs) | 2:29 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tjzQw0If3c.md) - [plain]
 | 34 | [Tulips \(Stage Edit\)](https://open.spotify.com/track/2zc01klD7NZTPeHiPHQiS8) | [WHYLUCAS](https://open.spotify.com/artist/4Q2XtNhjSHHeEC1q4QbM5z) | [ORANGE JUICE BOX](https://open.spotify.com/album/0BQUOCZhZ7Tr7kkF004AQn) | 2:23 |
 | 35 | [Weekend Plans \(Stage Edit\)](https://open.spotify.com/track/0oOCNePtMw1xp5Gz4wYyge) | [WHYLUCAS](https://open.spotify.com/artist/4Q2XtNhjSHHeEC1q4QbM5z) | [ORANGE JUICE BOX](https://open.spotify.com/album/0BQUOCZhZ7Tr7kkF004AQn) | 3:25 |
 
-Snapshot ID: `AAAAAIQxWEJRyUeHRmnKfedNx1s+U7Tk`
+Snapshot ID: `AAAAABWdhgdiz6HP4lE97dkTv4dfirGl`

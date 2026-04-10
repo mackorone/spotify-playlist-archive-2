@@ -135,6 +135,24 @@
     },
     {
       "album": {
+        "name": "ARIRANG",
+        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169929,
+      "name": "2.0",
+      "url": "https://open.spotify.com/track/3bmpXHVie1GTy37OkXJ7Vc"
+    },
+    {
+      "album": {
         "name": "24karats GOLD GENESIS",
         "url": "https://open.spotify.com/album/2um16q15odwpmhiAjf8pqi"
       },
@@ -1596,7 +1614,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 146999,
       "name": "BLAST OUT",
       "url": "https://open.spotify.com/track/6TLlOLLcsxBrtlWsGzVF37"
@@ -6300,7 +6318,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 182046,
       "name": "Hooligan",
       "url": "https://open.spotify.com/track/20dAJsyno9ZoBLJtqgQnUI"
@@ -7368,6 +7386,24 @@
       "duration_ms": 186956,
       "name": "Keep on Moving (Korean Version)",
       "url": "https://open.spotify.com/track/1yxwMcQCslhKvGHA4OnNaj"
+    },
+    {
+      "album": {
+        "name": "1ST EP ALBUM [KEYVITUP]",
+        "url": "https://open.spotify.com/album/4LP65OY24zeyZRNd4GxhCH"
+      },
+      "artists": [
+        {
+          "name": "KEYVITUP",
+          "url": "https://open.spotify.com/artist/5t5DHjgbcPnJGZJyz3YCnv"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "KEYVITUP",
+      "url": "https://open.spotify.com/track/5BKwXFDUy903O85ATXdu5e"
     },
     {
       "album": {
@@ -9568,7 +9604,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 146360,
       "name": "Nice to see you again (Korean Ver.)",
       "url": "https://open.spotify.com/track/1mX9SZZfCeTbetghcrp8Jr"
@@ -9608,6 +9644,24 @@
       "duration_ms": 188693,
       "name": "NINE LIVES",
       "url": "https://open.spotify.com/track/3m1UnYVit4a6bHsbt38dE9"
+    },
+    {
+      "album": {
+        "name": "The First Wave",
+        "url": "https://open.spotify.com/album/7GMWvw5fpp3bIxK0nRz7tw"
+      },
+      "artists": [
+        {
+          "name": "hrtz.wav",
+          "url": "https://open.spotify.com/artist/4xCz4boMkoSCzVWULUNeVg"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "NINETEEN",
+      "url": "https://open.spotify.com/track/2fBzTfPEf46iuJvZpTD5gp"
     },
     {
       "album": {

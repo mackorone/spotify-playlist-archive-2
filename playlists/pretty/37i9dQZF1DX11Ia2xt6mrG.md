@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 
 > Descubre lo más fresco de la electrónica mexicana\. Tom & Collins en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,361 likes - 90 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,381 likes - 90 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 | 21 | [FFM](https://open.spotify.com/track/4JizQmbv8ieZshqoVOJPAZ) | [Luch](https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp), [Ape Drums](https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u) | [FFM](https://open.spotify.com/album/5y4XajsaCPAp3EhBMk0CHQ) | 3:13 |
 | 22 | [Si mañana me muero](https://open.spotify.com/track/5bolIEjV7hih1tTB2FlrOT) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP) | [Si mañana me muero](https://open.spotify.com/album/016VgxR6h6JOhTXTsWJsr1) | 3:18 |
 | 23 | [Animal](https://open.spotify.com/track/71nlFhAB2VhGZ1Vd7OdbHi) | [Sistek](https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu), [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta) | [Animal](https://open.spotify.com/album/6fiQok7m1pQUTJsCUueZPK) | 4:02 |
-| 24 | [MOPUS](https://open.spotify.com/track/2wm9Ap4ERkDy6y81muXbuY) | [Joaquín Coronel](https://open.spotify.com/artist/5NoHhsqkBw0TMQFfig7eLT), [Marcos Villalobos](https://open.spotify.com/artist/79BK7vrzlQtgNnCHvZ7aYi) | [MOPUS](https://open.spotify.com/album/5iNUVbnmsSNujilvY5Y3JO) | 2:13 |
-| 25 | [Coqueta](https://open.spotify.com/track/2Woc5FpMWlLZUBGVZBY1Hn) | [Fend](https://open.spotify.com/artist/4zTS87j9J5bBv0R9AEzeC7) | [Coqueta](https://open.spotify.com/album/3wwumf5M071TZgngk70ZPa) | 3:02 |
+| 24 | [Coqueta](https://open.spotify.com/track/2Woc5FpMWlLZUBGVZBY1Hn) | [Fend](https://open.spotify.com/artist/4zTS87j9J5bBv0R9AEzeC7) | [Coqueta](https://open.spotify.com/album/3wwumf5M071TZgngk70ZPa) | 3:02 |
+| 25 | [MOPUS](https://open.spotify.com/track/2wm9Ap4ERkDy6y81muXbuY) | [Joaquín Coronel](https://open.spotify.com/artist/5NoHhsqkBw0TMQFfig7eLT), [Marcos Villalobos](https://open.spotify.com/artist/79BK7vrzlQtgNnCHvZ7aYi) | [MOPUS](https://open.spotify.com/album/5iNUVbnmsSNujilvY5Y3JO) | 2:13 |
 | 26 | [LA PERLA \(V\. ELECTRO\-CORRIDO\)](https://open.spotify.com/track/6uyiI0rLWiYc2DkG0USL4s) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Yay](https://open.spotify.com/artist/65UC5VKwU4vBSBSHckQd5l) | [LA PERLA \(V\. ELECTRO\-CORRIDO\)](https://open.spotify.com/album/4dYtSX7swBIrNsBSWWLpVa) | 3:02 |
 | 27 | [CORA DE HIELO \(feat\. Natt Calma\) – Spotify Sessions](https://open.spotify.com/track/75AL7s9h64TNHPNhfficbw) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [Natt Calma](https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH) | [RØZ – Spotify Sessions](https://open.spotify.com/album/00KpVHcDHe6LV4sPlPOvgA) | 4:53 |
 | 28 | [Voices](https://open.spotify.com/track/6OS6FafuDd9CytXs2pTVWG) | [T78](https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z), [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22) | [Voices](https://open.spotify.com/album/6HveR0xxtS6V26H2TmQG41) | 3:08 |

@@ -1,15 +1,35 @@
 {
-  "description": "The best dance hits in Africa. Cover: Makhadzi",
-  "num_followers": 113588,
+  "description": "The best dance hits in Africa. Cover: GoldFish",
+  "num_followers": 113640,
   "original_name": "mint Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADXIsH7cumwd0EGIcyb/3k8qXQ8Y",
+  "snapshot_id": "AAAAAITpDz9iwpSQhb+0wif0qvLPp1sl",
   "tracks": [
     {
-      "added_at": "2026-04-02 23:09:16",
+      "added_at": "2026-04-09 22:04:23",
+      "album": {
+        "name": "Little Wonder",
+        "url": "https://open.spotify.com/album/0yabTK8SYmRDrnf6IbXKJb"
+      },
+      "artists": [
+        {
+          "name": "GoldFish",
+          "url": "https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7"
+        },
+        {
+          "name": "Zolani Mahola",
+          "url": "https://open.spotify.com/artist/6jxoWZAKOFQ91TKHIJbjaC"
+        }
+      ],
+      "duration_ms": 172195,
+      "name": "Little Wonder",
+      "url": "https://open.spotify.com/track/6kWfYsZq6tdNcSAJE4MfTv"
+    },
+    {
+      "added_at": "2026-04-09 22:04:23",
       "album": {
         "name": "when the party's over",
         "url": "https://open.spotify.com/album/75mltEWsKzhP0XZQdDiqN5"
@@ -29,35 +49,7 @@
       "url": "https://open.spotify.com/track/18FFF8WK84eJXvg1xlXJjV"
     },
     {
-      "added_at": "2026-04-02 23:09:16",
-      "album": {
-        "name": "BIG 30",
-        "url": "https://open.spotify.com/album/4UJzumndO8KpSdhsNJROCA"
-      },
-      "artists": [
-        {
-          "name": "Makhadzi Entertainment",
-          "url": "https://open.spotify.com/artist/24Hon9044L6JUKWcqQSjma"
-        },
-        {
-          "name": "Poobington",
-          "url": "https://open.spotify.com/artist/1ue9oEVioYpBEUlvPHnas4"
-        },
-        {
-          "name": "Dr Skaro",
-          "url": "https://open.spotify.com/artist/2xkslEBMPDYAZzT2Ws2pUz"
-        },
-        {
-          "name": "DJ Janisto",
-          "url": "https://open.spotify.com/artist/49pDCx2fEbFhIhVwE37KZW"
-        }
-      ],
-      "duration_ms": 308346,
-      "name": "Mokone (feat. Dr Skaro & Dj Janisto)",
-      "url": "https://open.spotify.com/track/0QLZcbPrpRZh1QAAwNANYt"
-    },
-    {
-      "added_at": "2026-04-02 23:09:16",
+      "added_at": "2026-04-09 22:04:23",
       "album": {
         "name": "Awe Mah",
         "url": "https://open.spotify.com/album/2mqNnsJQQpq2leTMobs6kU"
@@ -89,7 +81,35 @@
       "url": "https://open.spotify.com/track/6frSQIVkgpbSXmlR1l95Ut"
     },
     {
-      "added_at": "2026-04-02 23:09:16",
+      "added_at": "2026-04-09 22:04:23",
+      "album": {
+        "name": "Baba Yilwa",
+        "url": "https://open.spotify.com/album/7l0wDdT3ohzkWE9WncimvS"
+      },
+      "artists": [
+        {
+          "name": "DJ Zinhle",
+          "url": "https://open.spotify.com/artist/4z9NtIRj7d5cohzOjprqxW"
+        },
+        {
+          "name": "DJ Lace",
+          "url": "https://open.spotify.com/artist/6AmSiS6uXD734FEQmoRAMx"
+        },
+        {
+          "name": "FunkTone",
+          "url": "https://open.spotify.com/artist/5e20FnH1vyHXZId8SMW4H8"
+        },
+        {
+          "name": "Thobani White",
+          "url": "https://open.spotify.com/artist/49u46uLKW37rLZJDS06Rrg"
+        }
+      ],
+      "duration_ms": 292897,
+      "name": "Baba Yilwa",
+      "url": "https://open.spotify.com/track/7CbWbPUUmRYBI0uio0Bc7L"
+    },
+    {
+      "added_at": "2026-04-09 22:04:23",
       "album": {
         "name": "Gone Kanje (feat. Mellow & Sleazy & Dlala Regal)",
         "url": "https://open.spotify.com/album/10poemRnLMAmpKyiHbt2U5"
@@ -117,7 +137,35 @@
       "url": "https://open.spotify.com/track/5NbkOhZw2pfkLAipJmojSK"
     },
     {
-      "added_at": "2026-04-02 23:09:16",
+      "added_at": "2026-04-09 22:04:23",
+      "album": {
+        "name": "ZEP (feat. Uncool MC)",
+        "url": "https://open.spotify.com/album/6hmdlLccKNe9ORX8ZhXO39"
+      },
+      "artists": [
+        {
+          "name": "Dj Smallz",
+          "url": "https://open.spotify.com/artist/4TvbQDO2cOQqr9oCKHaGTM"
+        },
+        {
+          "name": "ZinedinexSguche",
+          "url": "https://open.spotify.com/artist/3p375AB4ZQn1HKupXuDCCX"
+        },
+        {
+          "name": "031CHOPPA",
+          "url": "https://open.spotify.com/artist/5CqbErFqBV89u0gqQfH3ks"
+        },
+        {
+          "name": "Uncool MC",
+          "url": "https://open.spotify.com/artist/6t3c6bpXVLzQGiKf00urM1"
+        }
+      ],
+      "duration_ms": 308241,
+      "name": "ZEP (feat. Uncool MC)",
+      "url": "https://open.spotify.com/track/1K0sOGQSOUflAyPPRBhTax"
+    },
+    {
+      "added_at": "2026-04-09 22:04:23",
       "album": {
         "name": "Mopepe",
         "url": "https://open.spotify.com/album/69Bc4MJZDbLebKG7KvYqwt"
@@ -141,7 +189,59 @@
       "url": "https://open.spotify.com/track/2hMZXSgTxcuUwilbh9Kn5x"
     },
     {
-      "added_at": "2026-04-02 23:09:16",
+      "added_at": "2026-04-09 22:04:23",
+      "album": {
+        "name": "Menateng",
+        "url": "https://open.spotify.com/album/5I9KMvfU3wk68buY2mW1eI"
+      },
+      "artists": [
+        {
+          "name": "Tribby wadi bhozza",
+          "url": "https://open.spotify.com/artist/1oSGEqStrxauOi4Gmf8jcQ"
+        },
+        {
+          "name": "Patron West",
+          "url": "https://open.spotify.com/artist/70Zc2oM3FPifdzRMZcNMVU"
+        },
+        {
+          "name": "GallarBass",
+          "url": "https://open.spotify.com/artist/05KhbEJ08rxFG9JmhHhTEx"
+        },
+        {
+          "name": "Stellenbosch",
+          "url": "https://open.spotify.com/artist/0NQPFQRtZ843VzckhKitjJ"
+        }
+      ],
+      "duration_ms": 286746,
+      "name": "Menateng",
+      "url": "https://open.spotify.com/track/33VBPN1d16L7yQXohXm20M"
+    },
+    {
+      "added_at": "2026-04-09 22:04:23",
+      "album": {
+        "name": "Need To Know (feat. Ric Hassani)",
+        "url": "https://open.spotify.com/album/5bY5FliMhXnOy63Qyu0wog"
+      },
+      "artists": [
+        {
+          "name": "joki",
+          "url": "https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D"
+        },
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "Ric Hassani",
+          "url": "https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ"
+        }
+      ],
+      "duration_ms": 166779,
+      "name": "Need To Know (feat. Ric Hassani)",
+      "url": "https://open.spotify.com/track/7L6sjDbfVvmUp28dVUkev5"
+    },
+    {
+      "added_at": "2026-04-09 22:04:23",
       "album": {
         "name": "WORSHIP",
         "url": "https://open.spotify.com/album/5VYH03sAzxNYEb3MZWOeWi"
@@ -161,7 +261,71 @@
       "url": "https://open.spotify.com/track/7L1uMx4wG2A9pnRgb7hjQO"
     },
     {
-      "added_at": "2026-04-02 23:09:16",
+      "added_at": "2026-04-09 22:04:23",
+      "album": {
+        "name": "Fast Fast (feat. Roscosteazy, Optimist Music ZA & JussGigi)",
+        "url": "https://open.spotify.com/album/136L7ESLmk1MiWPDmFaKOS"
+      },
+      "artists": [
+        {
+          "name": "031CHOPPA",
+          "url": "https://open.spotify.com/artist/5CqbErFqBV89u0gqQfH3ks"
+        },
+        {
+          "name": "Al Xapo",
+          "url": "https://open.spotify.com/artist/6dmpoGpCKPEdy7R3XSEA7y"
+        },
+        {
+          "name": "Benzoo",
+          "url": "https://open.spotify.com/artist/4v7teU7vW1QTe4GPPCSLD3"
+        },
+        {
+          "name": "Roscosteazy",
+          "url": "https://open.spotify.com/artist/2xPX3QiyVHdhcEF2RAxMHV"
+        },
+        {
+          "name": "Optimist Music ZA",
+          "url": "https://open.spotify.com/artist/69FMBSIEqfCYBg5xqWdDQV"
+        },
+        {
+          "name": "JussGigi",
+          "url": "https://open.spotify.com/artist/5HmJrGcnKIJZyJdpyezdmv"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Fast Fast (feat. Roscosteazy, Optimist Music ZA & JussGigi)",
+      "url": "https://open.spotify.com/track/4djmPQfj9hWl2mnUSApYSU"
+    },
+    {
+      "added_at": "2026-04-09 22:04:23",
+      "album": {
+        "name": "BIG 30",
+        "url": "https://open.spotify.com/album/4UJzumndO8KpSdhsNJROCA"
+      },
+      "artists": [
+        {
+          "name": "Makhadzi Entertainment",
+          "url": "https://open.spotify.com/artist/24Hon9044L6JUKWcqQSjma"
+        },
+        {
+          "name": "Poobington",
+          "url": "https://open.spotify.com/artist/1ue9oEVioYpBEUlvPHnas4"
+        },
+        {
+          "name": "Dr Skaro",
+          "url": "https://open.spotify.com/artist/2xkslEBMPDYAZzT2Ws2pUz"
+        },
+        {
+          "name": "DJ Janisto",
+          "url": "https://open.spotify.com/artist/49pDCx2fEbFhIhVwE37KZW"
+        }
+      ],
+      "duration_ms": 308346,
+      "name": "Mokone (feat. Dr Skaro & Dj Janisto)",
+      "url": "https://open.spotify.com/track/0QLZcbPrpRZh1QAAwNANYt"
+    },
+    {
+      "added_at": "2026-04-09 22:04:23",
       "album": {
         "name": "AIBOO (feat. Thukuthela)",
         "url": "https://open.spotify.com/album/2wcwX6B4KH6gotP7mrvs3a"
@@ -193,7 +357,43 @@
       "url": "https://open.spotify.com/track/6kLHqjWarT4VMxRFjWrEpe"
     },
     {
-      "added_at": "2026-04-02 23:09:16",
+      "added_at": "2026-04-09 22:04:23",
+      "album": {
+        "name": "Jumanji (feat. Jepedoh, Mvelo Makhanya & Ms. Cosmo)",
+        "url": "https://open.spotify.com/album/6r3u9yRSkynlj9hA5fgrlM"
+      },
+      "artists": [
+        {
+          "name": "Omagoqa",
+          "url": "https://open.spotify.com/artist/4caV3BYVSNygGiFFOvQgUy"
+        },
+        {
+          "name": "Sizwe Alakine",
+          "url": "https://open.spotify.com/artist/7Hb7ZlUE4ByWsV1Rkc4Uo2"
+        },
+        {
+          "name": "K.Keed",
+          "url": "https://open.spotify.com/artist/6vQfwusCjTLgxy5uW20T3e"
+        },
+        {
+          "name": "Jepedoh",
+          "url": "https://open.spotify.com/artist/7dTIcdK3UCwuYaWlom4bjZ"
+        },
+        {
+          "name": "Mvelo Makhanya",
+          "url": "https://open.spotify.com/artist/52QcRVIgTbU7EFREa4Dh88"
+        },
+        {
+          "name": "Ms. Cosmo",
+          "url": "https://open.spotify.com/artist/1yGg3EWGfbhHJJ7WcIpR0Q"
+        }
+      ],
+      "duration_ms": 379459,
+      "name": "Jumanji (feat. Jepedoh, Mvelo Makhanya & Ms. Cosmo)",
+      "url": "https://open.spotify.com/track/55DoLG7yL2cVJHbhINkJ99"
+    },
+    {
+      "added_at": "2026-04-09 22:04:23",
       "album": {
         "name": "Wololo",
         "url": "https://open.spotify.com/album/0NjtfpTiB7SHpHlBapDHU3"
@@ -225,7 +425,7 @@
       "url": "https://open.spotify.com/track/53ofZtLKRJZUT6KpviQsHX"
     },
     {
-      "added_at": "2026-04-02 23:09:16",
+      "added_at": "2026-04-09 22:04:23",
       "album": {
         "name": "Tropical Island (feat. Gee Skillz)",
         "url": "https://open.spotify.com/album/636jKpmnmefeRkI6Tjjnv0"
@@ -245,7 +445,7 @@
       "url": "https://open.spotify.com/track/5xHyRPe2muEv4qU3k76TEF"
     },
     {
-      "added_at": "2026-04-02 23:09:16",
+      "added_at": "2026-04-09 22:04:23",
       "album": {
         "name": "SNOKONOKO",
         "url": "https://open.spotify.com/album/2ZoXRaK0N0KUTGH6L23CBp"
@@ -269,7 +469,7 @@
       "url": "https://open.spotify.com/track/1F6HMPZd1izYjwGoFsh7Ny"
     },
     {
-      "added_at": "2026-04-02 23:09:16",
+      "added_at": "2026-04-09 22:04:23",
       "album": {
         "name": "Yuapi ?",
         "url": "https://open.spotify.com/album/6WCBXaK8YMq9HUMd883Ct1"
@@ -293,7 +493,35 @@
       "url": "https://open.spotify.com/track/4Cfj16a3sv3Q5CYBkgufvD"
     },
     {
-      "added_at": "2026-04-02 23:09:16",
+      "added_at": "2026-04-09 22:04:23",
+      "album": {
+        "name": "Mark Zuckerberg (feat. Slyzza Rsa)",
+        "url": "https://open.spotify.com/album/5sXKmGAemtZ1kuAbdeJdEB"
+      },
+      "artists": [
+        {
+          "name": "Mulest Vankay",
+          "url": "https://open.spotify.com/artist/3xqiosg5nLMwVd8w3lO5li"
+        },
+        {
+          "name": "Pcee",
+          "url": "https://open.spotify.com/artist/22Bl1QCNEZvpqVwRPYscE4"
+        },
+        {
+          "name": "Scotts Maphuma",
+          "url": "https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS"
+        },
+        {
+          "name": "Slyzza Rsa",
+          "url": "https://open.spotify.com/artist/61w0RQ0wzRDoEocR0IR4v2"
+        }
+      ],
+      "duration_ms": 441830,
+      "name": "Mark Zuckerberg (feat. Slyzza Rsa)",
+      "url": "https://open.spotify.com/track/1lrAlFWcmIyDEo3a0VvPYo"
+    },
+    {
+      "added_at": "2026-04-09 22:04:23",
       "album": {
         "name": "Kokareku",
         "url": "https://open.spotify.com/album/5QaJDPZpKXsqM7ZG40npIl"
@@ -313,7 +541,7 @@
       "url": "https://open.spotify.com/track/1GWIPbj3cqvtK7yWMq2F9o"
     },
     {
-      "added_at": "2026-04-02 23:09:16",
+      "added_at": "2026-04-09 22:04:23",
       "album": {
         "name": "Under The Sun",
         "url": "https://open.spotify.com/album/4JgbPlF06nOTO03mSBSgtq"
@@ -333,7 +561,7 @@
       "url": "https://open.spotify.com/track/3XkJJI9V76H803dnf9PAaA"
     },
     {
-      "added_at": "2026-04-02 23:09:16",
+      "added_at": "2026-04-09 22:04:23",
       "album": {
         "name": "The Time Is Now",
         "url": "https://open.spotify.com/album/3QxJkbo1wW4vrbNPHQlNF1"
@@ -357,7 +585,7 @@
       "url": "https://open.spotify.com/track/5sHXRFxFhwX9geosXPWHQQ"
     },
     {
-      "added_at": "2026-04-02 23:09:16",
+      "added_at": "2026-04-09 22:04:23",
       "album": {
         "name": "Collision Of 2 Worlds",
         "url": "https://open.spotify.com/album/5dlzVmL8h1MtdGDDbslWYg"
@@ -385,7 +613,7 @@
       "url": "https://open.spotify.com/track/29DvrwKC8TrJ0eTq3uGWZM"
     },
     {
-      "added_at": "2026-04-02 23:09:16",
+      "added_at": "2026-04-09 22:04:23",
       "album": {
         "name": "Nothing To Lose",
         "url": "https://open.spotify.com/album/0X4VSasL7jR0Pr3qnVdhvM"
@@ -405,7 +633,7 @@
       "url": "https://open.spotify.com/track/37JqKJnCVvvYugc8CoSgmD"
     },
     {
-      "added_at": "2026-04-02 23:09:16",
+      "added_at": "2026-04-09 22:04:23",
       "album": {
         "name": "Lwandle",
         "url": "https://open.spotify.com/album/5I1rwDxIFpLBvoJtuyKlOr"
@@ -425,7 +653,7 @@
       "url": "https://open.spotify.com/track/2ei3SqR4TH0Jd2jc6XA0Ij"
     },
     {
-      "added_at": "2026-04-02 23:09:16",
+      "added_at": "2026-04-09 22:04:23",
       "album": {
         "name": "Baddi Ah",
         "url": "https://open.spotify.com/album/1WYAWx6W9tjCtzjiIsLkNV"
@@ -465,7 +693,7 @@
       "url": "https://open.spotify.com/track/2cwXgbiBHguLs0gxjxjj8a"
     },
     {
-      "added_at": "2026-04-02 23:09:16",
+      "added_at": "2026-04-09 22:04:23",
       "album": {
         "name": "Terra",
         "url": "https://open.spotify.com/album/2QadlJyz48SNJ3l5EQRb66"
@@ -489,7 +717,7 @@
       "url": "https://open.spotify.com/track/6Aizche508zAkLL3uWgqJP"
     },
     {
-      "added_at": "2026-04-02 23:09:16",
+      "added_at": "2026-04-09 22:04:23",
       "album": {
         "name": "Vele Uyena (Risk It All) (feat. Elaine, JAZZWRLD, Thukuthela & Solaariss)",
         "url": "https://open.spotify.com/album/7weLnc8ITNXPCwG2tVxUXs"
@@ -521,7 +749,7 @@
       "url": "https://open.spotify.com/track/1YwkMl9hCzyinkiioqo6kl"
     },
     {
-      "added_at": "2026-04-02 23:09:16",
+      "added_at": "2026-04-09 22:04:23",
       "album": {
         "name": "Tobetsa 3.0 (feat. Shaunmusiq & Ftears)",
         "url": "https://open.spotify.com/album/3Hwj7Le28vi4H7gcCOFlxA"
@@ -549,7 +777,7 @@
       "url": "https://open.spotify.com/track/7ohMSMZrovYscFvEMkrtzP"
     },
     {
-      "added_at": "2026-04-02 23:09:16",
+      "added_at": "2026-04-09 22:04:23",
       "album": {
         "name": "Pantsula 4 Life",
         "url": "https://open.spotify.com/album/6FDko5fo4UfLTrNYbYqYkL"
@@ -581,7 +809,7 @@
       "url": "https://open.spotify.com/track/4yIP9qBGvnJStmDILKbL5y"
     },
     {
-      "added_at": "2026-04-02 23:09:16",
+      "added_at": "2026-04-09 22:04:23",
       "album": {
         "name": "Bengicela (feat. JAZZWRLD)",
         "url": "https://open.spotify.com/album/2hQeaUm6h4P4qgf45IToZ6"
@@ -609,7 +837,7 @@
       "url": "https://open.spotify.com/track/6xlxghvkH5yDv93NoHlWOx"
     },
     {
-      "added_at": "2026-04-02 23:09:16",
+      "added_at": "2026-04-09 22:04:23",
       "album": {
         "name": "Angeke",
         "url": "https://open.spotify.com/album/3LHxLqMXWYxG00vMPAfAg5"
@@ -637,7 +865,7 @@
       "url": "https://open.spotify.com/track/1qWoAi5DIfUYqC7nS5aBdS"
     },
     {
-      "added_at": "2026-04-02 23:09:16",
+      "added_at": "2026-04-09 22:04:23",
       "album": {
         "name": "Ma Tnsani (Yalla Habibi)",
         "url": "https://open.spotify.com/album/6MGyF6TkUOAW3g3ygaUn1n"
@@ -657,7 +885,7 @@
       "url": "https://open.spotify.com/track/01WFjqzUwrD4nfSQsHMVNm"
     },
     {
-      "added_at": "2026-04-02 23:09:16",
+      "added_at": "2026-04-09 22:04:23",
       "album": {
         "name": "031 Studio Camp 2.0",
         "url": "https://open.spotify.com/album/5aSsTgC8eB50naiNwpxeBw"
@@ -681,7 +909,7 @@
       "url": "https://open.spotify.com/track/4nP3JxLWurlrvollaDlxsJ"
     },
     {
-      "added_at": "2026-04-02 23:09:16",
+      "added_at": "2026-04-09 22:04:23",
       "album": {
         "name": "Southside Mixtape",
         "url": "https://open.spotify.com/album/0IaY7EpYoRhsMEo3B5nWBD"
@@ -705,7 +933,7 @@
       "url": "https://open.spotify.com/track/6PUTXnLSGYwKdtSmbTTHXa"
     },
     {
-      "added_at": "2026-04-02 23:09:16",
+      "added_at": "2026-04-09 22:04:23",
       "album": {
         "name": "Bayathakatha (feat. Dladla Mshunqisi, Beast RSA & Sazified)",
         "url": "https://open.spotify.com/album/2iDFPZxJ42zzFAH9cYQBqn"
@@ -733,7 +961,7 @@
       "url": "https://open.spotify.com/track/1YFv2J0MYXFq4JSfbqSzMr"
     },
     {
-      "added_at": "2026-04-02 23:09:16",
+      "added_at": "2026-04-09 22:04:23",
       "album": {
         "name": "Acquiesce",
         "url": "https://open.spotify.com/album/1YGjJwAanA1N66ctu89siu"
@@ -761,7 +989,7 @@
       "url": "https://open.spotify.com/track/6WAgkWtdNWXoZf8ZFkH5j1"
     },
     {
-      "added_at": "2026-04-02 23:09:16",
+      "added_at": "2026-04-09 22:04:23",
       "album": {
         "name": "Sensational",
         "url": "https://open.spotify.com/album/4IvxCQ4Lsg3yCEqo40ic2F"
@@ -777,7 +1005,7 @@
       "url": "https://open.spotify.com/track/35DzYSdOBggQOkMWAc99i1"
     },
     {
-      "added_at": "2026-04-02 23:09:16",
+      "added_at": "2026-04-09 22:04:23",
       "album": {
         "name": "THE THIRD STEP",
         "url": "https://open.spotify.com/album/0CqKooJ0DBprB8A0zZOQKD"
@@ -797,7 +1025,7 @@
       "url": "https://open.spotify.com/track/0quA1TAGDMDhMeT79Tsoi7"
     },
     {
-      "added_at": "2026-04-02 23:09:16",
+      "added_at": "2026-04-09 22:04:23",
       "album": {
         "name": "Amanxeba",
         "url": "https://open.spotify.com/album/3A3JFmEMkrIpKUGubH4KJH"
@@ -817,7 +1045,7 @@
       "url": "https://open.spotify.com/track/1Cy9Zxtx0h8BrqfNrYr3nY"
     },
     {
-      "added_at": "2026-04-02 23:09:16",
+      "added_at": "2026-04-09 22:04:23",
       "album": {
         "name": "Gods window, Pt. 1",
         "url": "https://open.spotify.com/album/2qDpWACZJ81rK6BJP8aoWD"
@@ -837,7 +1065,7 @@
       "url": "https://open.spotify.com/track/7bZzYTtOpjYtGi9fd4HFjc"
     },
     {
-      "added_at": "2026-04-02 23:09:16",
+      "added_at": "2026-04-09 22:04:23",
       "album": {
         "name": "Sinatanale (Thakzin Remix)",
         "url": "https://open.spotify.com/album/1ogMXpQmOhWRkswqMsKHyd"
@@ -861,7 +1089,7 @@
       "url": "https://open.spotify.com/track/3YwmwvHOaSb88O9bWMrEai"
     },
     {
-      "added_at": "2026-04-02 23:09:16",
+      "added_at": "2026-04-09 22:04:23",
       "album": {
         "name": "Mamma (Radio Edit)",
         "url": "https://open.spotify.com/album/66dxZZRUgVOyKnmq9VB70o"
@@ -885,31 +1113,7 @@
       "url": "https://open.spotify.com/track/40Df6EY2SezSKLvAkvNsbz"
     },
     {
-      "added_at": "2026-04-02 23:09:16",
-      "album": {
-        "name": "RAMBO (Mix)",
-        "url": "https://open.spotify.com/album/6s42AxcGn3d7JkYCvNPnfl"
-      },
-      "artists": [
-        {
-          "name": "Culoe De Song",
-          "url": "https://open.spotify.com/artist/69vFBZxQu4TQ4ZDOI9L6KR"
-        },
-        {
-          "name": "Door 55",
-          "url": "https://open.spotify.com/artist/5nEzQq9QwkEkqgueqUQQko"
-        },
-        {
-          "name": "ToniX",
-          "url": "https://open.spotify.com/artist/1NETeYtBzZsFcMQUtFjjJP"
-        }
-      ],
-      "duration_ms": 377915,
-      "name": "RAMBO",
-      "url": "https://open.spotify.com/track/5IHrB3vHTeDIu8yjWjgT5y"
-    },
-    {
-      "added_at": "2026-04-02 23:09:16",
+      "added_at": "2026-04-09 22:04:23",
       "album": {
         "name": "All My Life",
         "url": "https://open.spotify.com/album/4v7sdSDS2iMcdSCHPY62TG"
@@ -929,7 +1133,7 @@
       "url": "https://open.spotify.com/track/0fFRFFCiaZaExkXRfQyCJE"
     },
     {
-      "added_at": "2026-04-02 23:09:16",
+      "added_at": "2026-04-09 22:04:23",
       "album": {
         "name": "Tsama (Radio)",
         "url": "https://open.spotify.com/album/2zbumbLUhNZfGL8ap98klv"
@@ -953,7 +1157,7 @@
       "url": "https://open.spotify.com/track/0BSzX91ykyr6jlgOU3PHC6"
     },
     {
-      "added_at": "2026-04-02 23:09:16",
+      "added_at": "2026-04-09 22:04:23",
       "album": {
         "name": "Forevermore",
         "url": "https://open.spotify.com/album/30FNCwR7KCTEVps0GdG3kR"
@@ -981,7 +1185,7 @@
       "url": "https://open.spotify.com/track/67oInsUfvZZajnohju01XN"
     },
     {
-      "added_at": "2026-04-02 23:09:16",
+      "added_at": "2026-04-09 22:04:23",
       "album": {
         "name": "MACHO",
         "url": "https://open.spotify.com/album/6o0vnlPD2B4pOfSHRs99dZ"
@@ -1001,55 +1205,7 @@
       "url": "https://open.spotify.com/track/6QhtKxfu1Ltyxkog1C07Jx"
     },
     {
-      "added_at": "2026-04-02 23:09:16",
-      "album": {
-        "name": "Jabata",
-        "url": "https://open.spotify.com/album/0OaksK9H5Pg1DnLhk4h3q8"
-      },
-      "artists": [
-        {
-          "name": "Dammye",
-          "url": "https://open.spotify.com/artist/14cgLDAWHeu4vnHl6p8drF"
-        },
-        {
-          "name": "Niphkeys",
-          "url": "https://open.spotify.com/artist/6vAWSq2hKcuItyByR5krQV"
-        }
-      ],
-      "duration_ms": 183050,
-      "name": "Jabata",
-      "url": "https://open.spotify.com/track/5O7BvzsPGsYmWQ905Jmqtz"
-    },
-    {
-      "added_at": "2026-04-02 23:09:16",
-      "album": {
-        "name": "Xigubu",
-        "url": "https://open.spotify.com/album/6t0RBt8Ae5khWhaQhOpRgD"
-      },
-      "artists": [
-        {
-          "name": "Musa Keys",
-          "url": "https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf"
-        },
-        {
-          "name": "Skillz",
-          "url": "https://open.spotify.com/artist/6zUtuBYmxb5cxAiEIQGLJf"
-        },
-        {
-          "name": "Konke",
-          "url": "https://open.spotify.com/artist/5perSoW1Lo1rJJgyKvIMrU"
-        },
-        {
-          "name": "Ticozet",
-          "url": "https://open.spotify.com/artist/4zolIbF49J60w0tA2TKvEJ"
-        }
-      ],
-      "duration_ms": 406536,
-      "name": "Ngisize",
-      "url": "https://open.spotify.com/track/6JPfOYc8a8whAFhjEMNwdA"
-    },
-    {
-      "added_at": "2026-04-02 23:09:16",
+      "added_at": "2026-04-09 22:04:23",
       "album": {
         "name": "Duplicity",
         "url": "https://open.spotify.com/album/7aRtGCd2xiZhyaGICBpOhq"
@@ -1069,7 +1225,7 @@
       "url": "https://open.spotify.com/track/7koaF8UD8iMWB4zkIH6N80"
     },
     {
-      "added_at": "2026-04-02 23:09:16",
+      "added_at": "2026-04-09 22:04:23",
       "album": {
         "name": "ADISA",
         "url": "https://open.spotify.com/album/7xzQAUxUFDCFfLK0B97SJ5"
@@ -1085,7 +1241,7 @@
       "url": "https://open.spotify.com/track/3wRbBb8NdUfFI6TQa60GgX"
     },
     {
-      "added_at": "2026-04-02 23:09:16",
+      "added_at": "2026-04-09 22:04:23",
       "album": {
         "name": "Metal Hearts",
         "url": "https://open.spotify.com/album/6b8wauCqk5Qspur5xLizjQ"
@@ -1099,126 +1255,6 @@
       "duration_ms": 187563,
       "name": "Peace At War",
       "url": "https://open.spotify.com/track/01UAUxRlejVlNSVwu5QGUZ"
-    },
-    {
-      "added_at": "2026-04-02 23:09:16",
-      "album": {
-        "name": "Awukwazi (feat. Dlala Thukzin)",
-        "url": "https://open.spotify.com/album/2s5jIqpDcNtVsHNC2jW6vK"
-      },
-      "artists": [
-        {
-          "name": "Sykes",
-          "url": "https://open.spotify.com/artist/2Ymj0sh7VauBNTdrVMfUYC"
-        },
-        {
-          "name": "The Sisters",
-          "url": "https://open.spotify.com/artist/54XKdmJkyJjdLMSA5h1rNE"
-        },
-        {
-          "name": "MK Productions",
-          "url": "https://open.spotify.com/artist/6jUYsFkr46ErYnMV82HgQ8"
-        },
-        {
-          "name": "Dlala Thukzin",
-          "url": "https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD"
-        }
-      ],
-      "duration_ms": 313220,
-      "name": "Awukwazi (feat. Dlala Thukzin)",
-      "url": "https://open.spotify.com/track/2GRQKhpmLc2gAwpNg2Vzmg"
-    },
-    {
-      "added_at": "2026-04-02 23:09:16",
-      "album": {
-        "name": "Casa Bap (Radio Edit)",
-        "url": "https://open.spotify.com/album/29FXDYYy7apjIwiJ3VqE3v"
-      },
-      "artists": [
-        {
-          "name": "Foozak",
-          "url": "https://open.spotify.com/artist/6bVBQCuQEyT0vgyycuRA4I"
-        },
-        {
-          "name": "Emmanuel Jal",
-          "url": "https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm"
-        }
-      ],
-      "duration_ms": 180983,
-      "name": "Casa Bap - Radio Edit",
-      "url": "https://open.spotify.com/track/0VFQ008chHbU1BZCfaPTZ3"
-    },
-    {
-      "added_at": "2026-04-02 23:09:16",
-      "album": {
-        "name": "Khetha",
-        "url": "https://open.spotify.com/album/20qljRtdrfq1pY4UL7xI8Z"
-      },
-      "artists": [
-        {
-          "name": "Nkosazana Daughter",
-          "url": "https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66"
-        },
-        {
-          "name": "MaWhoo",
-          "url": "https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9"
-        },
-        {
-          "name": "Essa Kay",
-          "url": "https://open.spotify.com/artist/3trQ6ETzQzpc6EWLwIVLHh"
-        },
-        {
-          "name": "Skillz",
-          "url": "https://open.spotify.com/artist/6zUtuBYmxb5cxAiEIQGLJf"
-        }
-      ],
-      "duration_ms": 459661,
-      "name": "Khetha",
-      "url": "https://open.spotify.com/track/55Ksyvd4sNgRarIlq1u9r6"
-    },
-    {
-      "added_at": "2026-04-02 23:09:16",
-      "album": {
-        "name": "Come Back",
-        "url": "https://open.spotify.com/album/36gAbdcQO5SKkNatN3XiWC"
-      },
-      "artists": [
-        {
-          "name": "Damie",
-          "url": "https://open.spotify.com/artist/3snzFTmRJemZd5EmN68fMo"
-        },
-        {
-          "name": "Dolapo Martins",
-          "url": "https://open.spotify.com/artist/4I7iWiZjm7vAJvePf3iRQT"
-        }
-      ],
-      "duration_ms": 336000,
-      "name": "One Minute",
-      "url": "https://open.spotify.com/track/7g2wLprl84orzlGI6ndqj7"
-    },
-    {
-      "added_at": "2026-04-02 23:09:16",
-      "album": {
-        "name": "Ibhanoyi",
-        "url": "https://open.spotify.com/album/6Y1rdPfM9BF8Zx7owWUPCU"
-      },
-      "artists": [
-        {
-          "name": "Mayonie",
-          "url": "https://open.spotify.com/artist/5H4BgsGFzuis4HcHs6vsm6"
-        },
-        {
-          "name": "Skillz",
-          "url": "https://open.spotify.com/artist/6zUtuBYmxb5cxAiEIQGLJf"
-        },
-        {
-          "name": "Zakes Bantwini",
-          "url": "https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL"
-        }
-      ],
-      "duration_ms": 405858,
-      "name": "Ibhanoyi",
-      "url": "https://open.spotify.com/track/1gz06GQbeRFMdskKWFgAoI"
     }
   ],
   "unique_name": "mint Africa",

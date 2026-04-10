@@ -2,7 +2,7 @@
 
 ### [RapTounsi](https://open.spotify.com/playlist/37i9dQZF1DX7YBEurFPUfV)
 
-> Les sons les plus frais du Rap Tunisien sont ici\. Cover : Kaso
+> Les sons les plus frais du Rap Tunisien sont ici\. Cover : Sanfara, Blingos
 
 175 songs - 10 hr 7 min
 

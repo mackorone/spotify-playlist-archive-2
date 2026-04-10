@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-11",
-  "description": "T\u00fcrk\u00e7e rap'in hit \u015fark\u0131lar\u0131 ve zirveye oynayanlar. Kapak: G\u00fcne\u015f ",
+  "description": "T\u00fcrk\u00e7e rap'in hit \u015fark\u0131lar\u0131 ve zirveye oynayanlar. Kapak: Hadise x Motive",
   "name": "NKVT",
   "tracks": [
     {
@@ -134,7 +134,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 198947,
       "name": "1000 VOLT",
       "url": "https://open.spotify.com/track/3kQamEOjqu3IeMQheWiyyk"
@@ -990,7 +990,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 185422,
       "name": "Alt\u0131n Kafes",
       "url": "https://open.spotify.com/track/3Cckv6NnTgFCvWxa8hCLPk"
@@ -1522,6 +1522,24 @@
       "duration_ms": 166000,
       "name": "Asi",
       "url": "https://open.spotify.com/track/1jl7GgqV8vAYnCm9XnJXgn"
+    },
+    {
+      "album": {
+        "name": "ASLAN YAKI\u015eMAZ KAFESTE",
+        "url": "https://open.spotify.com/album/2WfdMP5Y3GtlBO857nvF7a"
+      },
+      "artists": [
+        {
+          "name": "Keskin",
+          "url": "https://open.spotify.com/artist/76gCQtIoyzxs0HDKIyQC66"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118474,
+      "name": "ASLAN YAKI\u015eMAZ KAFESTE",
+      "url": "https://open.spotify.com/track/3bfcPN5EAU1CzXIGaWBaUR"
     },
     {
       "album": {
@@ -4963,6 +4981,24 @@
     },
     {
       "album": {
+        "name": "Dur Zaman",
+        "url": "https://open.spotify.com/album/4JHqMSyeaQcXnvaTxQH2kT"
+      },
+      "artists": [
+        {
+          "name": "Velet",
+          "url": "https://open.spotify.com/artist/7bchfd9ZihGesFniE7tM71"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133735,
+      "name": "Dur Zaman",
+      "url": "https://open.spotify.com/track/64LH05bouJluzgi2bgCLyl"
+    },
+    {
+      "album": {
         "name": "Durdurulamaz",
         "url": "https://open.spotify.com/album/1nle8x7YA72PKXhOtYMckz"
       },
@@ -6464,6 +6500,28 @@
       "duration_ms": 132187,
       "name": "GNG Freestyle 1",
       "url": "https://open.spotify.com/track/1aJ2WHWbmCagZRRwKKviqB"
+    },
+    {
+      "album": {
+        "name": "gO SAMBA",
+        "url": "https://open.spotify.com/album/3QSFROQxcdrbyjSFS6hdDq"
+      },
+      "artists": [
+        {
+          "name": "Jeff Redd",
+          "url": "https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx"
+        },
+        {
+          "name": "BIGBAT",
+          "url": "https://open.spotify.com/artist/2UHnfpUKzvlJPRPk7lNLix"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130015,
+      "name": "gO SAMBA",
+      "url": "https://open.spotify.com/track/2dCSOlT4BtPEeDAhwjqDsc"
     },
     {
       "album": {
@@ -10841,6 +10899,28 @@
     },
     {
       "album": {
+        "name": "Labirent",
+        "url": "https://open.spotify.com/album/3UbHNfhM2RXE6GN27HPuEn"
+      },
+      "artists": [
+        {
+          "name": "Hadise",
+          "url": "https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49"
+        },
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190080,
+      "name": "Labirent",
+      "url": "https://open.spotify.com/track/2mssGi7e5Aac72PxoOGhLp"
+    },
+    {
+      "album": {
         "name": "ECLIPSE (Original Soundtrack)",
         "url": "https://open.spotify.com/album/5LPrbOrlvZ8lnb2CMexS2e"
       },
@@ -11798,6 +11878,24 @@
       "duration_ms": 152558,
       "name": "MI AMOR",
       "url": "https://open.spotify.com/track/0Fp91RLQckI4QkZQtjcCNC"
+    },
+    {
+      "album": {
+        "name": "BEN B\u0130R BOMBAYIM",
+        "url": "https://open.spotify.com/album/3RfJa3xCUB14ryopEse2wm"
+      },
+      "artists": [
+        {
+          "name": "Jeff Redd",
+          "url": "https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116417,
+      "name": "MIMIKLER SIFIR",
+      "url": "https://open.spotify.com/track/6qEbGyyetLMfDUkKyEmG9p"
     },
     {
       "album": {
@@ -13163,6 +13261,28 @@
     },
     {
       "album": {
+        "name": "OZLEMEM, SORRY",
+        "url": "https://open.spotify.com/album/2UlxlMrsV0cjba4DIQue9k"
+      },
+      "artists": [
+        {
+          "name": "ALIZADE",
+          "url": "https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz"
+        },
+        {
+          "name": "Mobench",
+          "url": "https://open.spotify.com/artist/2mIMJ28uekjZP98huB079t"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118032,
+      "name": "OZLEMEM, SORRY",
+      "url": "https://open.spotify.com/track/307mzDqUDbzw4ZY1xbPnWH"
+    },
+    {
+      "album": {
         "name": "PA$$$A VIBES V",
         "url": "https://open.spotify.com/album/36h6r9fxJXD9keKaDZi0rw"
       },
@@ -13494,7 +13614,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 131000,
       "name": "PE\u015e\u0130NDEY\u0130M HALA",
       "url": "https://open.spotify.com/track/1qHqb6CSM5fIZ2nHojwkvC"
@@ -14863,6 +14983,24 @@
     },
     {
       "album": {
+        "name": "G\u00dcNAH",
+        "url": "https://open.spotify.com/album/5yoU7u5l4hLrICXjDRomck"
+      },
+      "artists": [
+        {
+          "name": "Aksan",
+          "url": "https://open.spotify.com/artist/35vCEk68DtAxh7gDAzhoKK"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160974,
+      "name": "San\u0131r\u0131m Ya\u015flan\u0131yorum",
+      "url": "https://open.spotify.com/track/4gzqjGdJuNKjIiG2DVgB1T"
+    },
+    {
+      "album": {
         "name": "SAPLA",
         "url": "https://open.spotify.com/album/3mB4gwydrZhKBvmXa1tbZb"
       },
@@ -15883,6 +16021,28 @@
     },
     {
       "album": {
+        "name": "Sorma",
+        "url": "https://open.spotify.com/album/6LHurLeqLGdzRoxSiD3ZNT"
+      },
+      "artists": [
+        {
+          "name": "KAVAK",
+          "url": "https://open.spotify.com/artist/24OGdBr3r58ksMLJkMXZZY"
+        },
+        {
+          "name": "BAKAN",
+          "url": "https://open.spotify.com/artist/3pELTNcBXbfHktNPFTUsNW"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116250,
+      "name": "Sorma",
+      "url": "https://open.spotify.com/track/3931TjhYLiINn49kKUvT1F"
+    },
+    {
+      "album": {
         "name": "taycan",
         "url": "https://open.spotify.com/album/7emP6O2oqpLPEOhKaBceCJ"
       },
@@ -16482,7 +16642,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 132923,
       "name": "Tanr\u0131 \u015eahidim",
       "url": "https://open.spotify.com/track/05iZG2c93wgIZd3LSr6fl6"
@@ -17330,7 +17490,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 146000,
       "name": "versin",
       "url": "https://open.spotify.com/track/4fCg0zlYwzRbG2gyb30abR"
@@ -18076,7 +18236,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 141502,
       "name": "Ya\u015fanmayana",
       "url": "https://open.spotify.com/track/4cOc2v9ofIpklWZUTn6l2m"
@@ -18514,7 +18674,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 82500,
       "name": "Y\u0131ld\u0131z",
       "url": "https://open.spotify.com/track/4XY3xDMhubN6cUF5OITpdA"

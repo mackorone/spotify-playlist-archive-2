@@ -297,6 +297,28 @@
     },
     {
       "album": {
+        "name": "Pi\u015fman\u0131m (Akustik)",
+        "url": "https://open.spotify.com/album/5Gl43bYKyhihUP94SeNJPs"
+      },
+      "artists": [
+        {
+          "name": "\u00c7odur",
+          "url": "https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg"
+        },
+        {
+          "name": "G\u00f6khan T\u00fcrkmen",
+          "url": "https://open.spotify.com/artist/4uGB0nZ5d1iCXS3sHR3pzm"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135649,
+      "name": "Pi\u015fman\u0131m - Akustik",
+      "url": "https://open.spotify.com/track/3J3F7tuKTkmv4NEhXk6lke"
+    },
+    {
+      "album": {
         "name": "ALL WAVES PASS",
         "url": "https://open.spotify.com/album/57PNNEArDk6lSAnGyye4dh"
       },

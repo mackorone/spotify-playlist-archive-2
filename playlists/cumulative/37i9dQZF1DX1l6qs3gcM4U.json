@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Fall in love with the sensual sounds of Kizomba! Cover: Loony Johnson",
+  "description": "Fall in love with the sensual sounds of Kizomba! Cover: Calema",
   "name": "Dancing Kizomba",
   "tracks": [
     {
@@ -5151,6 +5151,24 @@
     },
     {
       "album": {
+        "name": "Inveja",
+        "url": "https://open.spotify.com/album/3lfVIqbMPtJdS2bU3Vbbc3"
+      },
+      "artists": [
+        {
+          "name": "Nice Life",
+          "url": "https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217265,
+      "name": "Inveja",
+      "url": "https://open.spotify.com/track/0Z0mQyMYYex69RfaBoCs4L"
+    },
+    {
+      "album": {
         "name": "In\u00edcio do Fim",
         "url": "https://open.spotify.com/album/7dqjUyl7pKYDWuqRHL1olI"
       },
@@ -9074,7 +9092,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 185879,
       "name": "Perto De Ti",
       "url": "https://open.spotify.com/track/0ECgyQMr8uqVWshrzICj38"
@@ -12322,7 +12340,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 151423,
       "name": "T\u00e1 Na Moda",
       "url": "https://open.spotify.com/track/3jJlb1Q5xrZjcCVhf1UnJP"
@@ -13100,6 +13118,24 @@
       "duration_ms": 190445,
       "name": "Viver pra Ti",
       "url": "https://open.spotify.com/track/0ngqThz7sP2YPJBVy8xDix"
+    },
+    {
+      "album": {
+        "name": "Viver Tudo Hoje",
+        "url": "https://open.spotify.com/album/6boYtyCptIErvbTlBAL3DC"
+      },
+      "artists": [
+        {
+          "name": "Jay Oliver",
+          "url": "https://open.spotify.com/artist/19ynMaKoJYvOhZATkHYt3X"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191080,
+      "name": "Viver Tudo Hoje",
+      "url": "https://open.spotify.com/track/2iid8EMD4EwTXe9IdjTnHj"
     },
     {
       "album": {

@@ -2,17 +2,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YBEurFPUfV.md) - [plain]
 
 ### [RapTounsi](https://open.spotify.com/playlist/37i9dQZF1DX7YBEurFPUfV)
 
-> Les sons les plus frais du Rap Tunisien sont ici\. Cover : Kaso
+> Les sons les plus frais du Rap Tunisien sont ici\. Cover : Sanfara, Blingos
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,782 likes - 60 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,790 likes - 60 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [OMMA](https://open.spotify.com/track/6xWO3A8vPPOfEqqWeGWeaM) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [ZÉRO UN](https://open.spotify.com/album/0mj9I5TGwP77NT2rFhemlB) | 3:02 |
-| 2 | [6](https://open.spotify.com/track/5M88pOSbcI0MiP1LQIQRsw) | [Ktyb](https://open.spotify.com/artist/1i85OjmZoPeQqdnqX0NXBa), [John Six](https://open.spotify.com/artist/3GmOYEzhVHdhjo5aPfqdKv) | [15](https://open.spotify.com/album/7AuGYNOdAHok79QnGy56CX) | 2:29 |
-| 3 | [STORY](https://open.spotify.com/track/48Hx9OyVN0uNt785LNj6pQ) | [EMP1RE](https://open.spotify.com/artist/2aFZFL6yee8SaztShh7AST) | [STORY](https://open.spotify.com/album/3KIN37CuJ5aNrGaDcasprX) | 3:09 |
-| 4 | [Menich Kifek](https://open.spotify.com/track/4vaTwE03SH9sBUcrzZ8p8M) | [Young Rz](https://open.spotify.com/artist/0ffHBfcZybwhCvRnriDBVW) | [Menich Kifek](https://open.spotify.com/album/2gbXvuONYEsEyp8oclz5Ug) | 3:15 |
-| 5 | [Solo](https://open.spotify.com/track/35SGxqqbEWmGTXbnsKkbYt) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6), [Blingos](https://open.spotify.com/artist/2wVHWr2AjG5J5JUTBniwUB) | [Solo](https://open.spotify.com/album/01H3uuzW07GqjNtveuvWiV) | 3:22 |
+| 1 | [Solo](https://open.spotify.com/track/35SGxqqbEWmGTXbnsKkbYt) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6), [Blingos](https://open.spotify.com/artist/2wVHWr2AjG5J5JUTBniwUB) | [Solo](https://open.spotify.com/album/01H3uuzW07GqjNtveuvWiV) | 3:22 |
+| 2 | [OMMA](https://open.spotify.com/track/6xWO3A8vPPOfEqqWeGWeaM) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [ZÉRO UN](https://open.spotify.com/album/0mj9I5TGwP77NT2rFhemlB) | 3:02 |
+| 3 | [6](https://open.spotify.com/track/5M88pOSbcI0MiP1LQIQRsw) | [Ktyb](https://open.spotify.com/artist/1i85OjmZoPeQqdnqX0NXBa), [John Six](https://open.spotify.com/artist/3GmOYEzhVHdhjo5aPfqdKv) | [15](https://open.spotify.com/album/7AuGYNOdAHok79QnGy56CX) | 2:29 |
+| 4 | [STORY](https://open.spotify.com/track/48Hx9OyVN0uNt785LNj6pQ) | [EMP1RE](https://open.spotify.com/artist/2aFZFL6yee8SaztShh7AST) | [STORY](https://open.spotify.com/album/3KIN37CuJ5aNrGaDcasprX) | 3:09 |
+| 5 | [Menich Kifek](https://open.spotify.com/track/4vaTwE03SH9sBUcrzZ8p8M) | [Young Rz](https://open.spotify.com/artist/0ffHBfcZybwhCvRnriDBVW) | [Menich Kifek](https://open.spotify.com/album/2gbXvuONYEsEyp8oclz5Ug) | 3:15 |
 | 6 | [ken w ken](https://open.spotify.com/track/787ew6ljH49JY4p38wsBY1) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [Rehla](https://open.spotify.com/album/11TOgqAu4RWGpmpzady4y2) | 3:21 |
 | 7 | [Amir Al Bihar](https://open.spotify.com/track/4eDl7rpLj1JCSLaqbIQ6h5) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Amir Al Bihar](https://open.spotify.com/album/3ZzxEG1zKE7kq372gxXgyG) | 3:02 |
 | 8 | [Lili Wala Sbe7 \(Demo\)](https://open.spotify.com/track/1CbUpKk52t8R0bzxTFHJdH) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Lili Wala Sbe7 \(Demo\)](https://open.spotify.com/album/1GkVd8003ojeJAId0GohK5) | 4:00 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YBEurFPUfV.md) - [plain]
 | 59 | [Machefounich \| ماشافونيش](https://open.spotify.com/track/2lXA71K1NU6XMFaMUNOSFm) | [Yousfi](https://open.spotify.com/artist/3Sbb6TiJ8LLT877N4BlAJj) | [Machefounich \| ماشافونيش](https://open.spotify.com/album/2SkGb7EeKzUq2PUQYZzQZK) | 2:59 |
 | 60 | [CHARIKET DAJEJ](https://open.spotify.com/track/35f6wic5uLR4WRp5If8M6W) | [Fossa](https://open.spotify.com/artist/7yqZYVFUskYyKDyilalfFX) | [CHARIKET DAJEJ](https://open.spotify.com/album/70TUm5iv6DcULHTn0zxo7r) | 3:31 |
 
-Snapshot ID: `AAAAAA4A7WHapvhFhXpr3wI3/lwbIPZ7`
+Snapshot ID: `AAAAAMUMpWUqKhK3ThcmDTO2MAcoM8+d`

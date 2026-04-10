@@ -972,7 +972,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 205500,
       "name": "Aaralya",
       "url": "https://open.spotify.com/track/6kKxMX0KObNSZjqxF4izVp"
@@ -14958,7 +14958,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 144905,
       "name": "Haffa Haffa (From \"Mustafa Mustafa\")",
       "url": "https://open.spotify.com/track/30fqPUxxYnyiTSiVvLbrd7"
@@ -27345,6 +27345,28 @@
     },
     {
       "album": {
+        "name": "Make Way For The King (From \"Raaka\")",
+        "url": "https://open.spotify.com/album/6TMNTFvioQQBWEVzZV0Vro"
+      },
+      "artists": [
+        {
+          "name": "Sai Abhyankkar",
+          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
+        },
+        {
+          "name": "Dhp",
+          "url": "https://open.spotify.com/artist/77NUvfelg2oWph4u620NwF"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115035,
+      "name": "Make Way For The King (From \"Raaka\")",
+      "url": "https://open.spotify.com/track/5udwgBtaoN6UTjp7PJ1aiL"
+    },
+    {
+      "album": {
         "name": "Makka Makka (From \"MM Originals\") (Original Soundtrack)",
         "url": "https://open.spotify.com/album/0EpSfR8y1hnE4EQSzYiAOe"
       },
@@ -33706,8 +33728,8 @@
           "url": "https://open.spotify.com/artist/0Utvb3mZn8pjs9AI2dM8DG"
         },
         {
-          "name": "Darani",
-          "url": "https://open.spotify.com/artist/1XqO0OqfDCdcRTNC02YS0x"
+          "name": "Darini Hariharan",
+          "url": "https://open.spotify.com/artist/5MYdWjprWPQD05hTPmRd8E"
         },
         {
           "name": "Pugaz",
@@ -37863,6 +37885,36 @@
     },
     {
       "album": {
+        "name": "Pappali Pazhamey (From \"Meesaya Murukku 2\")",
+        "url": "https://open.spotify.com/album/2ZQiVkmdZV4E9tBEWCFAa8"
+      },
+      "artists": [
+        {
+          "name": "Hiphop Tamizha",
+          "url": "https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q"
+        },
+        {
+          "name": "Gana Vinoth",
+          "url": "https://open.spotify.com/artist/0MmchTAod9cNvsJgXVS6xz"
+        },
+        {
+          "name": "Gana Ulagam Dharani",
+          "url": "https://open.spotify.com/artist/45N8QChe58Gqzfrmv4mXe7"
+        },
+        {
+          "name": "K.R.Dharan",
+          "url": "https://open.spotify.com/artist/3waLs3SAMAcObbCUrAoGxQ"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206032,
+      "name": "Pappali Pazhamey (From \"Meesaya Murukku 2\")",
+      "url": "https://open.spotify.com/track/6an0MY3T2cKqk8kzHsAMYq"
+    },
+    {
+      "album": {
         "name": "Kurangu Pedal (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3OubgHUF1CT6YmCjOmN72s"
       },
@@ -39212,7 +39264,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 252000,
       "name": "Pogaadhe - Oh Butterfly!",
       "url": "https://open.spotify.com/track/7lG24UKImHO14WNdsM3wSs"
@@ -51598,6 +51650,32 @@
       "duration_ms": 184991,
       "name": "Ulagai Vella Pogiraal (From \"Annapoorani\")",
       "url": "https://open.spotify.com/track/6ABxTTiqpUxW8icYGVTqdj"
+    },
+    {
+      "album": {
+        "name": "Ulagam Nee (From \"Pattu\")",
+        "url": "https://open.spotify.com/album/44uxKRX4GIGNLYlKASnCxT"
+      },
+      "artists": [
+        {
+          "name": "Padmaja Sreenivasan",
+          "url": "https://open.spotify.com/artist/5B9cyUBFtZz1XNbG2Kym1P"
+        },
+        {
+          "name": "Balasubramanian G",
+          "url": "https://open.spotify.com/artist/1d0PbgbOU8Uh7ZpRQUWyus"
+        },
+        {
+          "name": "Arul Vignesh",
+          "url": "https://open.spotify.com/artist/7J8WbV9s1pTOt3Og98ynDf"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192212,
+      "name": "Ulagam Nee (From \"Pattu\")",
+      "url": "https://open.spotify.com/track/1cexQZLJEf4xr3kjMP5kcx"
     },
     {
       "album": {

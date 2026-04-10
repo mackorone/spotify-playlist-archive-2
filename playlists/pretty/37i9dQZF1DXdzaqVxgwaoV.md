@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 
 > ¡Música tropical, cumbia, guasca y de carrilera para recordar y disfrutar!
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,346 likes - 80 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,334 likes - 80 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,14 +60,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 | 50 | [Quiéreme en Vida](https://open.spotify.com/track/6UjYl2kpMdvVDu02OGmiz6) | [Jose Miguel Class](https://open.spotify.com/artist/1bLcdHalDusGM70EM8oxmk) | [Los Grandes Éxitos de Jose Miguel Class](https://open.spotify.com/album/3WJlGjYRBaNKHGOsiNK7lt) | 3:08 |
 | 51 | [Donde Andara](https://open.spotify.com/track/4Of7bgJveFop4Be3xIGYFK) | [Los Trovadores De Cuyo](https://open.spotify.com/artist/1b04Sisb3cmkfcjvwCjaEV) | [Los Trovadores De Cuyo](https://open.spotify.com/album/6VxG2RkyFbEQLLlXUhidGA) | 3:03 |
 | 52 | [El negrito del Batey \- Remastered](https://open.spotify.com/track/5l3zT77F4kGXeBKs4FO2pH) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [La Sonora Matancera y sus voces de oro, Vol\. 1 \(Remastered\)](https://open.spotify.com/album/6uFvAQZBCx1ZMWLxMO35iM) | 2:33 |
-| 53 | [Como Voy a Olvidarte](https://open.spotify.com/track/1MSC1j3cQK2UDNp9mI0nDi) | [Segundo Rosero](https://open.spotify.com/artist/1k0Q2lbTTE1Mp8DQn4r5D0) | [Exitos Populares](https://open.spotify.com/album/50IbAdkinkCFXl87j5Mpyx) | 3:05 |
-| 54 | [Todo Es Amor](https://open.spotify.com/track/2c032My2b1gSCVUMSgkXjA) | [Ibarra y Medina](https://open.spotify.com/artist/20Uda1t31CPZ79yOtMbKgM) | [Clasicas de la Cancion Popular, Vol\. 5](https://open.spotify.com/album/3kv4gOvF572KH6yBm2B2zq) | 3:00 |
+| 53 | [Todo Es Amor](https://open.spotify.com/track/2c032My2b1gSCVUMSgkXjA) | [Ibarra y Medina](https://open.spotify.com/artist/20Uda1t31CPZ79yOtMbKgM) | [Clasicas de la Cancion Popular, Vol\. 5](https://open.spotify.com/album/3kv4gOvF572KH6yBm2B2zq) | 3:00 |
+| 54 | [Como Voy a Olvidarte](https://open.spotify.com/track/1MSC1j3cQK2UDNp9mI0nDi) | [Segundo Rosero](https://open.spotify.com/artist/1k0Q2lbTTE1Mp8DQn4r5D0) | [Exitos Populares](https://open.spotify.com/album/50IbAdkinkCFXl87j5Mpyx) | 3:05 |
 | 55 | [Si No Puedo Ser Tu Amor](https://open.spotify.com/track/3HALoTXV3g4jEqx6oU3cLE) | [Jose Miguel Class](https://open.spotify.com/artist/1bLcdHalDusGM70EM8oxmk) | [Los Grandes Éxitos de Jose Miguel Class](https://open.spotify.com/album/3WJlGjYRBaNKHGOsiNK7lt) | 2:47 |
 | 56 | [Por Que Te Alejas?](https://open.spotify.com/track/6LUS9h8MHCY2ffOAfYRF8D) | [Los Trovadores De Cuyo](https://open.spotify.com/artist/1b04Sisb3cmkfcjvwCjaEV) | [Los Trovadores De Cuyo](https://open.spotify.com/album/6VxG2RkyFbEQLLlXUhidGA) | 3:23 |
 | 57 | [Tumba Sin Doliente](https://open.spotify.com/track/51AbAVPB6NfUhYcStIGL0M) | [Los Relicarios](https://open.spotify.com/artist/7oM8xPkDOpUKuNQJYsSIzB), [Jose Muñoz](https://open.spotify.com/artist/3G9ZSZsqKKz7ugwQ2wvyNy), [Germán Rengifo](https://open.spotify.com/artist/7d1s2OidKtMddasrXwtFTT) | [Por Siempre, Vol\. 5](https://open.spotify.com/album/3yRO2OpTrVG5S04n07FRh7) | 2:50 |
 | 58 | [Macondo](https://open.spotify.com/track/1XKmU59ERIwofmciipLhlo) | [Cuarteto Continental de Alberto Maraví](https://open.spotify.com/artist/22YXWmEIyYQ4UL4j4QsHyq) | [Macondo](https://open.spotify.com/album/0eZurc4gYbenvoa6TpYK5E) | 3:57 |
-| 59 | [El Zapatero](https://open.spotify.com/track/2Q8O0xBH75Sh2182S8I8Pg) | [Octavio Mesa](https://open.spotify.com/artist/3aVL3CqqnAdGM3p3QNBD8x) | [Los Relajos del Arriero](https://open.spotify.com/album/5Z8e6tnjGvPulTFqddGxG8) | 2:23 |
-| 60 | [Sobre las Olas](https://open.spotify.com/track/1noDxnTrhCblZDWYuGSrtz) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK), [Joseíto Martínez](https://open.spotify.com/artist/2tw2BrnDHhErZuk7ePrZcC) | [Historia Músical \- 30 Éxitos](https://open.spotify.com/album/1xNSKvjq7Te0taB7oyocdj) | 3:24 |
+| 59 | [Sobre las Olas](https://open.spotify.com/track/1noDxnTrhCblZDWYuGSrtz) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK), [Joseíto Martínez](https://open.spotify.com/artist/2tw2BrnDHhErZuk7ePrZcC) | [Historia Músical \- 30 Éxitos](https://open.spotify.com/album/1xNSKvjq7Te0taB7oyocdj) | 3:24 |
+| 60 | [El Zapatero](https://open.spotify.com/track/2Q8O0xBH75Sh2182S8I8Pg) | [Octavio Mesa](https://open.spotify.com/artist/3aVL3CqqnAdGM3p3QNBD8x) | [Los Relajos del Arriero](https://open.spotify.com/album/5Z8e6tnjGvPulTFqddGxG8) | 2:23 |
 | 61 | [Decidido](https://open.spotify.com/track/4AkSPCdKCipHPjToJRBIzM) | [Jose Miguel Class](https://open.spotify.com/artist/1bLcdHalDusGM70EM8oxmk) | [Los Grandes Éxitos de Jose Miguel Class](https://open.spotify.com/album/3WJlGjYRBaNKHGOsiNK7lt) | 3:03 |
 | 62 | [Mujer Traidora](https://open.spotify.com/track/7vjop7p1yCApmPFcwwreuV) | [Los Relicarios](https://open.spotify.com/artist/7oM8xPkDOpUKuNQJYsSIzB) | [Mano a Mano](https://open.spotify.com/album/3CaNT6kMdKV5QA7RktoDqh) | 2:45 |
 | 63 | [El Negro Picante](https://open.spotify.com/track/5iIE3Qxd7IawB6AbXILRNm) | [Jose A\. Bedoya y Su Conjunto](https://open.spotify.com/artist/6OHqNNrJaoz5qQb5PNGdNh) | [Que Gran Relajo](https://open.spotify.com/album/2RVseF0K75urCaJDlE5QV1) | 2:53 |

@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/3uCoOqZ4KF0kp8bf8nJhPN.md) - [plain]
 | 53 | [SWAGGERHAVERZ!](https://open.spotify.com/track/59x4RSunThhSyLg4sG4mxk) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI), [Jarv](https://open.spotify.com/artist/0GzsRlVbRZ1j4rkTlRNRXW) | [SWAGGERHAVERZ!](https://open.spotify.com/album/6nOZ2tvGeeWVb3u7Hj0A9a) | 2:15 |
 | 54 | [YUCK!](https://open.spotify.com/track/37nSkzg3bcTQz0bS3snV3e) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [SWAGGOT!](https://open.spotify.com/album/4WJUXqDqrqXFmA2dDUasSg) | 1:34 |
 | 55 | [Xet's Revenge 2](https://open.spotify.com/track/1WQGJFhNGJWisasPOUPY8s) | [xetonyl's archive](https://open.spotify.com/artist/0J2jBYZmdub00VdGsXrmfk) | [Xet's Revenge 2](https://open.spotify.com/album/1Ubsw50wKJtaX0ah2F5qh3) | 1:36 |
-| 56 | [Just Be Competent](https://open.spotify.com/track/2q5JF3bRPDeAS8EO8KIjEH) | [r u s s e l b u c k](https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2) | [Just Be Competent](https://open.spotify.com/album/1y1d8qRhQtD3UkkUFHsJOS) | 2:36 |
-| 57 | [EAT YOU UP](https://open.spotify.com/track/0MKnQvS2nCL3AC6Acd4NLY) | [r u s s e l b u c k](https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2) | [RAVEPOP](https://open.spotify.com/album/1mLzn3i4NwDW4cOg2wJsig) | 2:00 |
+| 56 | [EAT YOU UP](https://open.spotify.com/track/0MKnQvS2nCL3AC6Acd4NLY) | [r u s s e l b u c k](https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2) | [RAVEPOP](https://open.spotify.com/album/1mLzn3i4NwDW4cOg2wJsig) | 2:00 |
+| 57 | [Just Be Competent](https://open.spotify.com/track/2q5JF3bRPDeAS8EO8KIjEH) | [r u s s e l b u c k](https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2) | [Just Be Competent](https://open.spotify.com/album/1y1d8qRhQtD3UkkUFHsJOS) | 2:36 |
 | 58 | [RATIO + FURRY](https://open.spotify.com/track/6OaFfKvOgoy96oVrMSPpvt) | [SPARKLEWOLF RADIO](https://open.spotify.com/artist/1qIh3IaG7woULdhZ919jL0) | [RATIO + FURRY](https://open.spotify.com/album/7y8JcYrMqxGeFbq9kpQtqJ) | 1:36 |
 | 59 | [2007](https://open.spotify.com/track/07cum2wxyGkgFFsbhD3t9L) | [SPARKLEWOLF RADIO](https://open.spotify.com/artist/1qIh3IaG7woULdhZ919jL0) | [2007](https://open.spotify.com/album/18IiJChC01Sa8fwXvTnsKC) | 2:37 |
 | 60 | [FABULOUS!](https://open.spotify.com/track/11OseKlNdhnZ09NNvuIpFA) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [RAWRXD!](https://open.spotify.com/album/6RLyOnlpXfUlTDOQYpY73K) | 1:30 |
@@ -279,4 +279,4 @@ pretty - [cumulative](/playlists/cumulative/3uCoOqZ4KF0kp8bf8nJhPN.md) - [plain]
 | 269 | [Blurry](https://open.spotify.com/track/0FLBNqc5oAiTt4J2e3fe3y) | [Puddle Of Mudd](https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5) | [Come Clean](https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5) | 5:03 |
 | 270 | [She Hates Me](https://open.spotify.com/track/16DhvbuyvJob4Q9GHNYu2n) | [Puddle Of Mudd](https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5) | [Come Clean](https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5) | 3:36 |
 
-Snapshot ID: `AAAGjJvXmhyw61NB6YwXwfUQ+WQbnPV5`
+Snapshot ID: `AAAGjxFUYyAHhOStMpkiEGlarkPdno/j`

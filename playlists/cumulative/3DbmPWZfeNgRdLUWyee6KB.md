@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-901 songs - 2 day 4 hr 49 min
+902 songs - 2 day 4 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Abdel et Mikael](https://open.spotify.com/track/6nQny9qnNR6HCXmVOxsXrL) | [Anyel ADDA](https://open.spotify.com/artist/6Hwlx1juJcZzoLlNrTFoCh) | [Abdel et Mikael](https://open.spotify.com/album/4v99ixzKM0caMxHgiRYQhv) | 3:37 | 2026-01-30 | 2026-02-28 |
 | [Accountable \- Remix Pt\. 2](https://open.spotify.com/track/1eS5Y5IiqB5UFxwvlf9AxJ) | [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x), [FIM Collective](https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK) | [Accountable \(Remix Pt\. 2\)](https://open.spotify.com/album/4OwhPNHpYwND8lFY9xT0Wh) | 2:44 | 2026-02-06 | 2026-03-07 |
 | [Ada Lah Pokoknya](https://open.spotify.com/track/79VmacwFHLZ9MFJnd9M0Nt) | [WORSHIPER](https://open.spotify.com/artist/6MyopTP1JJDKkwooQaE1Dk) | [Ada Lah Pokoknya](https://open.spotify.com/album/23lnq8yr8VjuLKAKrqt26u) | 1:51 | 2026-01-30 | 2026-02-28 |
+| [Adesso che sei grande](https://open.spotify.com/track/2BlH6mIfTU4gvrbE1VhKt8) | [David Monni](https://open.spotify.com/artist/0yL1F00rnkzQbRlb4FBmRx), [Kafiristan](https://open.spotify.com/artist/5YMvcsjHDQbAV9H5ScLyqK) | [Adesso che sei grande](https://open.spotify.com/album/64fn51HyT7871aojCCPnnP) | 3:45 | 2026-04-09 |  |
 | [Adiós Chico De Mi Barrio](https://open.spotify.com/track/19cBheOwOZM4L9qCX6hQl2) | [Mauricio Riveros](https://open.spotify.com/artist/4KsvhWHEb2VNXsrvJjsf1J) | [Adiós Chico De Mi Barrio](https://open.spotify.com/album/4wKoDg54mdU78Eqkl6hdjr) | 3:34 | 2025-12-15 | 2026-01-15 |
 | [Aeon's End](https://open.spotify.com/track/0bb27f1MO2rIB9bemoFgrY) | [Dangerous Times for the Dead](https://open.spotify.com/artist/3oYyw3Wy4IuN27X2eIFVWD) | [Aeon's End](https://open.spotify.com/album/3coizvmbxb4VaoGcUusbg3) | 4:56 | 2026-03-09 |  |
 | [After Hours](https://open.spotify.com/track/1IJRybUORpBhRHIHYS5C5Z) | [CTRL FREQS](https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv), [RoBeats](https://open.spotify.com/artist/6rMyJtMiEjGtD9HHbz5Vge) | [After Hours](https://open.spotify.com/album/5hin9vCARWLwDwXmMsU1J8) | 3:13 | 2025-11-21 | 2026-01-05 |

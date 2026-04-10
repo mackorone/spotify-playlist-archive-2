@@ -196,7 +196,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 177473,
       "name": "2SIDED",
       "url": "https://open.spotify.com/track/1kdHE79HtKUGmJ1vDyp69j"
@@ -3114,7 +3114,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 180377,
       "name": "Dream Cheater",
       "url": "https://open.spotify.com/track/7wwwpMpKfM7HktpHSbrXTI"
@@ -4334,7 +4334,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 203710,
       "name": "Good Ol' Days",
       "url": "https://open.spotify.com/track/7BZFBA47IscACSmuGZ67On"
@@ -4998,6 +4998,24 @@
       "duration_ms": 196173,
       "name": "I BELIEVE",
       "url": "https://open.spotify.com/track/65wnRdFa9Hjl3Qw46zijJy"
+    },
+    {
+      "album": {
+        "name": "I Can't Be Your Guy",
+        "url": "https://open.spotify.com/album/1Mojq5PETqmGpbzm635j0w"
+      },
+      "artists": [
+        {
+          "name": "Maehem99",
+          "url": "https://open.spotify.com/artist/5BHVQSjFU5NuIP1rRU7tDY"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133457,
+      "name": "I Can't Be Your Guy",
+      "url": "https://open.spotify.com/track/2Xe3A7XPbIS6cgk3IwibAA"
     },
     {
       "album": {
@@ -8269,6 +8287,24 @@
     },
     {
       "album": {
+        "name": "I Am Obsessed",
+        "url": "https://open.spotify.com/album/7N0dh5jvvd5CyVIrO21eMK"
+      },
+      "artists": [
+        {
+          "name": "PUNCHBAG",
+          "url": "https://open.spotify.com/artist/4cIkY1R6unpsnIdkLfOTFf"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247608,
+      "name": "Playing God",
+      "url": "https://open.spotify.com/track/4bwDWqFm8HnL03TdAvsRQs"
+    },
+    {
+      "album": {
         "name": "Pluto Baby",
         "url": "https://open.spotify.com/album/7GQik0RFjzplwNocvo42A9"
       },
@@ -8940,7 +8976,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 206009,
       "name": "Rorschach Baby",
       "url": "https://open.spotify.com/track/0O2RsuGEalMk2zUGoBAAKp"
@@ -10984,6 +11020,24 @@
       "duration_ms": 144426,
       "name": "Wall of Sound",
       "url": "https://open.spotify.com/track/3wEAaX6X3HCKrN3O2xmVQD"
+    },
+    {
+      "album": {
+        "name": "Watch You Cry",
+        "url": "https://open.spotify.com/album/3051n3lHJtiS1XzjRB2xXP"
+      },
+      "artists": [
+        {
+          "name": "Hyd",
+          "url": "https://open.spotify.com/artist/3pYle1qnqjdGhG0agFZLj5"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149048,
+      "name": "Watch You Cry",
+      "url": "https://open.spotify.com/track/58V9jnfzBFl02vdET97snL"
     },
     {
       "album": {

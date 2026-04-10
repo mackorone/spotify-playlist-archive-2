@@ -4,7 +4,7 @@
 
 > New music from Ye, Don Toliver , Swae Lee and Key Glock.
 
-2,722 songs - 5 day 21 hr 14 min
+2,723 songs - 5 day 21 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -512,6 +512,7 @@
 | [Conceited \(feat\. Lola Brooke & Maiya The Don\)](https://open.spotify.com/track/53acd3PVcgGCux58YABBr5) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ) | [Conceited \(feat\. Lola Brooke & Maiya The Don\)](https://open.spotify.com/album/1RJ4oGkndLQuhu4EfVTKk5) | 3:15 | 2023-01-27 | 2023-03-04 |
 | [Conceited \(There's Something About Remy\)](https://open.spotify.com/track/2OcBwebjQsdJy76zWvLQvn) | [Remy Ma](https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6) | [There's Something About Remy\-Based On A True Story \(Explicit\)](https://open.spotify.com/album/3fsD8zvVTghKqePQ19oKLO) | 3:39 | 2026-02-05 | 2026-02-07 |
 | [Contact \(feat\. Tyga\)](https://open.spotify.com/track/0WLhJ2NBuZHuoHY8pLVHJ0) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Contact \(feat\. Tyga\)](https://open.spotify.com/album/25CfSiH8FAG9802wbdftH4) | 2:35 | 2020-03-25 | 2020-05-01 |
+| [Control Myself](https://open.spotify.com/track/5Y8uIJkfwvLBhpnzr9Teuf) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC), [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Todd Smith](https://open.spotify.com/album/6WRDjDCqj8Y2ZGlgSzRTfF) | 3:53 | 2026-04-09 |  |
 | [Conversations](https://open.spotify.com/track/2fZTS0VboxRpF0FdfY7E5P) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Legends Never Die](https://open.spotify.com/album/1R6vbGGXSEZZmTGn7ewwRL) | 3:01 | 2020-07-10 | 2020-10-30 |
 | [Convertible Burt \- From Road To Fast 9 Mixtape](https://open.spotify.com/track/2AUdkFhVlngknqGHu30VJQ) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Convertible Burt \(From Road To Fast 9 Mixtape\)](https://open.spotify.com/album/71QD6BRt9qXNT9oemqHtI6) | 2:55 | 2020-07-03 | 2020-07-10 |
 | [COOLER THAN A BITCH \(feat\. Roddy Ricch\)](https://open.spotify.com/track/5LHHKZOwV8XW4LJP2C64mw) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [WUNNA](https://open.spotify.com/album/0gA0nZrZ55PLUp7ARfrICu) | 3:17 | 2020-05-22 | 2020-07-24 |

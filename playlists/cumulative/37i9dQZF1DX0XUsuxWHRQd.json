@@ -10625,6 +10625,28 @@
     },
     {
       "album": {
+        "name": "Todd Smith",
+        "url": "https://open.spotify.com/album/6WRDjDCqj8Y2ZGlgSzRTfF"
+      },
+      "artists": [
+        {
+          "name": "LL COOL J",
+          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+        },
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233973,
+      "name": "Control Myself",
+      "url": "https://open.spotify.com/track/5Y8uIJkfwvLBhpnzr9Teuf"
+    },
+    {
+      "album": {
         "name": "Legends Never Die",
         "url": "https://open.spotify.com/album/1R6vbGGXSEZZmTGn7ewwRL"
       },

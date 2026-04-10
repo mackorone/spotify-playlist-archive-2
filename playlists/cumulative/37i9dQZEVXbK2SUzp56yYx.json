@@ -6446,7 +6446,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 209720,
       "name": "Dracula - JENNIE Remix",
       "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
@@ -10634,7 +10634,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 208000,
       "name": "Hello Juliet",
       "url": "https://open.spotify.com/track/0miNQiJqyO5CIZbyLTHO7J"
@@ -11058,6 +11058,24 @@
       "duration_ms": 127767,
       "name": "Hoodtrapstar",
       "url": "https://open.spotify.com/track/7N1AiJjucLwjTBvRajtnW0"
+    },
+    {
+      "album": {
+        "name": "ARIRANG",
+        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182046,
+      "name": "Hooligan",
+      "url": "https://open.spotify.com/track/20dAJsyno9ZoBLJtqgQnUI"
     },
     {
       "album": {
@@ -12212,7 +12230,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 141106,
       "name": "In Aisles",
       "url": "https://open.spotify.com/track/1CHcC0y3SfJKUxtc33hB7t"
@@ -25000,6 +25018,24 @@
     {
       "album": {
         "name": "the kill 2",
+        "url": "https://open.spotify.com/album/0UPg9A28QY0WQvaXyNWzuZ"
+      },
+      "artists": [
+        {
+          "name": "adrain",
+          "url": "https://open.spotify.com/artist/3HHs9cGql02iIpP5RxQdh4"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121461,
+      "name": "the kill 2",
+      "url": "https://open.spotify.com/track/0jH7Z3yuEehQeU1IK4gkpA"
+    },
+    {
+      "album": {
+        "name": "the kill 2",
         "url": "https://open.spotify.com/album/7JlIZDHuFle3OVOiUaJF1U"
       },
       "artists": [
@@ -32718,7 +32754,7 @@
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 220042,
       "name": "\u0413\u0438\u043f\u0435\u0440\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u043e",
       "url": "https://open.spotify.com/track/5yvnGOWnX81YXEhrGVatxC"
@@ -36240,7 +36276,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 105000,
       "name": "\u041a\u0423\u041f\u0415\u0420",
       "url": "https://open.spotify.com/track/7fYkeBS6A7uiKh39L1POmA"
@@ -45788,7 +45824,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-09",
+      "date_removed": null,
       "duration_ms": 163000,
       "name": "\u0422\u043e\u043d\u0443",
       "url": "https://open.spotify.com/track/3dxOjnX03UHPUYW7bBikVu"

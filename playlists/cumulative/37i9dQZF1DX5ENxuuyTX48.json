@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-26",
-  "description": "After all, we are all siblings \ud83c\uddee\ud83c\udde9 \ud83c\uddf2\ud83c\uddfe\ud83c\uddf8\ud83c\uddec  Cover: Farrel Hilal",
+  "description": "After all, we are all siblings \ud83c\uddee\ud83c\udde9 \ud83c\uddf2\ud83c\uddfe\ud83c\uddf8\ud83c\uddec  Cover: Silet Open Up, SonaOne",
   "name": "mantap vibes",
   "tracks": [
     {
@@ -542,7 +542,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 210801,
       "name": "Ada",
       "url": "https://open.spotify.com/track/483I1QLE05iH81ReYgF2BK"
@@ -2206,7 +2206,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 258148,
       "name": "Angin Rindu",
       "url": "https://open.spotify.com/track/6JDLpBIjNMKCHRsw1ffsUy"
@@ -4189,6 +4189,24 @@
     },
     {
       "album": {
+        "name": "Berapa Kali Kita Akan Saling Memaafkan",
+        "url": "https://open.spotify.com/album/2fBBeFic82PIPRE9t0zQBX"
+      },
+      "artists": [
+        {
+          "name": "Pamungkas",
+          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284463,
+      "name": "Berapa Kali Kita Akan Saling Memaafkan",
+      "url": "https://open.spotify.com/track/7c03QS94XIfcetKSNDhUdd"
+    },
+    {
+      "album": {
         "name": "Berat Hati",
         "url": "https://open.spotify.com/album/6KkxKjkIQbOcczD6UJuHxL"
       },
@@ -4226,6 +4244,28 @@
       "duration_ms": 251162,
       "name": "Berat Rasanya",
       "url": "https://open.spotify.com/track/4oqClhAANTngc6Lk0zHQPQ"
+    },
+    {
+      "album": {
+        "name": "Bercanda",
+        "url": "https://open.spotify.com/album/3SboBA6hQjDLy6n0ULH4gT"
+      },
+      "artists": [
+        {
+          "name": "Silet Open Up",
+          "url": "https://open.spotify.com/artist/5naPJsWUJ6y22yKXA6dX36"
+        },
+        {
+          "name": "SonaOne",
+          "url": "https://open.spotify.com/artist/7qM9nMv6HFHFUpiN034R3z"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267125,
+      "name": "Bercanda",
+      "url": "https://open.spotify.com/track/7eGhvK01AHTAqT69Jo7mXN"
     },
     {
       "album": {
@@ -5070,6 +5110,24 @@
       "duration_ms": 168010,
       "name": "Big Fish",
       "url": "https://open.spotify.com/track/40zqb8xLDn2er2NVSRaoSq"
+    },
+    {
+      "album": {
+        "name": "Bila",
+        "url": "https://open.spotify.com/album/0rTZJbjUYarAtLGkV2NejN"
+      },
+      "artists": [
+        {
+          "name": "Aku Jeje",
+          "url": "https://open.spotify.com/artist/4FZ6V3q8zMyFvSMeT2ld2f"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152374,
+      "name": "Bila",
+      "url": "https://open.spotify.com/track/5vUHyNdyf058fWhnUY5nIr"
     },
     {
       "album": {
@@ -9046,7 +9104,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 162739,
       "name": "Daur Hidup",
       "url": "https://open.spotify.com/track/2CfL8YlJXQ6DYMjCqMVull"
@@ -9734,7 +9792,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 234674,
       "name": "Di Tepi Lamunan - Original Soundtrack from \u2018Para Perasuk\u2019",
       "url": "https://open.spotify.com/track/0DX9GrFmZw6tiUnFR29J4K"
@@ -10088,7 +10146,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 175788,
       "name": "Do All Good Things End?",
       "url": "https://open.spotify.com/track/2LqC5WVDd5g15sMh9Fut0N"
@@ -12033,6 +12091,24 @@
     },
     {
       "album": {
+        "name": "Garuda di Dadaku (Original Soundtrack from Garuda di Dadaku)",
+        "url": "https://open.spotify.com/album/5qS8pDEGmOm0LRWytBDFKf"
+      },
+      "artists": [
+        {
+          "name": "Isyana Sarasvati",
+          "url": "https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221230,
+      "name": "Garuda di Dadaku - Original Soundtrack from Garuda di Dadaku",
+      "url": "https://open.spotify.com/track/18If1c4gxQyEyQjDNHwRrg"
+    },
+    {
+      "album": {
         "name": "Gather Round",
         "url": "https://open.spotify.com/album/5mHXp5kPACAIk0snngumgM"
       },
@@ -12070,7 +12146,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 110163,
       "name": "GayA idup",
       "url": "https://open.spotify.com/track/5rQCvrRGZJgAQwFG7WSps9"
@@ -14212,7 +14288,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 195405,
       "name": "I Do",
       "url": "https://open.spotify.com/track/2z4CjUPlmxlTperrWnuqAr"
@@ -15310,6 +15386,28 @@
       "duration_ms": 186000,
       "name": "Ingatlah Aku Di Sini",
       "url": "https://open.spotify.com/track/4LyUgOxEfMBEWz4jZlcr0K"
+    },
+    {
+      "album": {
+        "name": "Ingin Kumiliki",
+        "url": "https://open.spotify.com/album/33ecjCZaCJ4r7qf372LIbA"
+      },
+      "artists": [
+        {
+          "name": "Tohpati",
+          "url": "https://open.spotify.com/artist/5XyX171jkcvGEx4jkcZeLN"
+        },
+        {
+          "name": "Meiska",
+          "url": "https://open.spotify.com/artist/1ZT1OfVAO3kpOEHVejBxV8"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314500,
+      "name": "Ingin Kumiliki",
+      "url": "https://open.spotify.com/track/6sOwmyHQWPZeD6RMmGAhRu"
     },
     {
       "album": {
@@ -17436,6 +17534,24 @@
       "duration_ms": 224351,
       "name": "Just Say Yes",
       "url": "https://open.spotify.com/track/5gWJbPFDoCmFyw8MVOiAO6"
+    },
+    {
+      "album": {
+        "name": "Kabarku",
+        "url": "https://open.spotify.com/album/1PulUqw2J7Ikjf1b4GPIrv"
+      },
+      "artists": [
+        {
+          "name": "Dee Lestari",
+          "url": "https://open.spotify.com/artist/1mCcTwpEABnSVB4D8rXfRN"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254117,
+      "name": "Kabarku",
+      "url": "https://open.spotify.com/track/3KwNTJNkIKvOf94AZC88Go"
     },
     {
       "album": {
@@ -19662,7 +19778,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 242090,
       "name": "Kupu - Kupu",
       "url": "https://open.spotify.com/track/1PuhA9UXgH4wRnXzYk5S2Z"
@@ -21587,6 +21703,24 @@
     },
     {
       "album": {
+        "name": "luluh (Original Soundtrack From Kata Hati)",
+        "url": "https://open.spotify.com/album/3ycb1njHhfJugnocmieazv"
+      },
+      "artists": [
+        {
+          "name": "empty page.",
+          "url": "https://open.spotify.com/artist/1vqCRS8w7NNLDAlSk2rrxh"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291103,
+      "name": "luluh - Original Soundtrack From Kata Hati",
+      "url": "https://open.spotify.com/track/4aNrtS6qedIcei2fjPslWY"
+    },
+    {
+      "album": {
         "name": "Lumangad Oku Dika (Piano Jam at KAPOX)",
         "url": "https://open.spotify.com/album/6Cq9YYWJcfBSdCNrt12M4C"
       },
@@ -22142,7 +22276,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 235323,
       "name": "Mama Papa Raya",
       "url": "https://open.spotify.com/track/6CYkcCjIVZfrZ8p8XUli4A"
@@ -23661,6 +23795,28 @@
     },
     {
       "album": {
+        "name": "Menghitung",
+        "url": "https://open.spotify.com/album/0ye8R5fmf6xz5H7EIrYGzs"
+      },
+      "artists": [
+        {
+          "name": "Pusakata",
+          "url": "https://open.spotify.com/artist/2zz1oe4mdF33wYffqFsRth"
+        },
+        {
+          "name": "Haddad Alwi",
+          "url": "https://open.spotify.com/artist/44byhimPc9Ir6XiIIcVoWb"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233921,
+      "name": "Menghitung",
+      "url": "https://open.spotify.com/track/15JLpBJ5BuI1GLVTHs2wF7"
+    },
+    {
+      "album": {
         "name": "Mengudara",
         "url": "https://open.spotify.com/album/40Yp12B9KULY4j2xbhE1YY"
       },
@@ -23760,7 +23916,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 233410,
       "name": "Menjaga Hati",
       "url": "https://open.spotify.com/track/4OzWgPNMaXEAeUCPy3RTMk"
@@ -23858,7 +24014,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 251298,
       "name": "Menunggumu Sampai Akhir Hidup",
       "url": "https://open.spotify.com/track/6vPs2QpyHKvYJ9Bq7CQaUu"
@@ -25630,7 +25786,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 155688,
       "name": "Nobody Else",
       "url": "https://open.spotify.com/track/2KPZkOawYOjB0LCY6pcTrx"
@@ -25648,7 +25804,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 162206,
       "name": "Nobody's Home",
       "url": "https://open.spotify.com/track/4jhoqChqIHofAFV4KauA6v"
@@ -27748,7 +27904,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 247265,
       "name": "Percuma",
       "url": "https://open.spotify.com/track/06WUx317ZgnzlEfiWPvcFm"
@@ -29490,7 +29646,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 246000,
       "name": "RATHER BE / IN HELL",
       "url": "https://open.spotify.com/track/0lVgwDVMGiCUa9tSWo56Oq"
@@ -30263,6 +30419,24 @@
     },
     {
       "album": {
+        "name": "Romancinta",
+        "url": "https://open.spotify.com/album/0y8Yhokmm08PG4XGq8uKYc"
+      },
+      "artists": [
+        {
+          "name": "Mojo",
+          "url": "https://open.spotify.com/artist/1nxfzZDDm0a0msuLz0W4lx"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244222,
+      "name": "Romancinta",
+      "url": "https://open.spotify.com/track/0XlEbKI3CdXHPQEDHlJxX3"
+    },
+    {
+      "album": {
         "name": "SITISM",
         "url": "https://open.spotify.com/album/02Wu2mZtM5kDXtboVtgw6Y"
       },
@@ -30908,6 +31082,24 @@
       "duration_ms": 188600,
       "name": "Sahabat feat. Syam Kamarul & Sleeq",
       "url": "https://open.spotify.com/track/7xXFGYHmpRRjQrvy2yzAJ6"
+    },
+    {
+      "album": {
+        "name": "Sakit Tak Bertepi",
+        "url": "https://open.spotify.com/album/1MGTOliljedWpKTE4JniPV"
+      },
+      "artists": [
+        {
+          "name": "Judika",
+          "url": "https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333400,
+      "name": "Sakit Tak Bertepi",
+      "url": "https://open.spotify.com/track/2ywVsiYrLd6OjFMSFAVTn2"
     },
     {
       "album": {
@@ -31668,6 +31860,24 @@
       "duration_ms": 258243,
       "name": "Say It As It Is",
       "url": "https://open.spotify.com/track/1cRvopSGQZDCH3VlrilcQY"
+    },
+    {
+      "album": {
+        "name": "Sayang Orang Sama",
+        "url": "https://open.spotify.com/album/7ABh3r8ifZJGZLg0NYbTJL"
+      },
+      "artists": [
+        {
+          "name": "Adira Suhaimi",
+          "url": "https://open.spotify.com/artist/3BwdkvUUHLP8pZj9hN4FiF"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202191,
+      "name": "Sayang Orang Sama",
+      "url": "https://open.spotify.com/track/1pkemoTIuhFJrX3GLKGf9y"
     },
     {
       "album": {
@@ -34419,6 +34629,24 @@
     },
     {
       "album": {
+        "name": "Sombar",
+        "url": "https://open.spotify.com/album/5cnGHL4CHBibmXnIQAHtAg"
+      },
+      "artists": [
+        {
+          "name": "Teddy Adhitya",
+          "url": "https://open.spotify.com/artist/7dOswEYzOtTMECumrZ3NHY"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276679,
+      "name": "Sombar",
+      "url": "https://open.spotify.com/track/0AQoBIdCoGCDweuMjpkV4q"
+    },
+    {
+      "album": {
         "name": "somebody's daughter",
         "url": "https://open.spotify.com/album/6GmLbLRhlsFwHN5IRimKBo"
       },
@@ -35094,6 +35322,24 @@
     {
       "album": {
         "name": "Sujud",
+        "url": "https://open.spotify.com/album/3E1ZTEEWvF4u6cpKle0sVK"
+      },
+      "artists": [
+        {
+          "name": "Aman RA",
+          "url": "https://open.spotify.com/artist/7iNkzIKfY3iDyyFxlbPT9U"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165558,
+      "name": "Sujud",
+      "url": "https://open.spotify.com/track/2ytuVGmcDrSEHAMgJxefmn"
+    },
+    {
+      "album": {
+        "name": "Sujud",
         "url": "https://open.spotify.com/album/0485ThYj1iYy1yGaa0oUm6"
       },
       "artists": [
@@ -35665,6 +35911,32 @@
     },
     {
       "album": {
+        "name": "Swipe Kanan Kiri",
+        "url": "https://open.spotify.com/album/1UFG87PWaSRhSOysjCMLGK"
+      },
+      "artists": [
+        {
+          "name": "F4dli",
+          "url": "https://open.spotify.com/artist/7rgcGnkoprdUMxbl7LSHfX"
+        },
+        {
+          "name": "Sisca Saras",
+          "url": "https://open.spotify.com/artist/2EB26dHYlQMV3VhPWQEJ7p"
+        },
+        {
+          "name": "NecoMe(Ayaka Yasumoto)",
+          "url": "https://open.spotify.com/artist/53IfqIDx5XLJcb518RvvHp"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198496,
+      "name": "Swipe Kanan Kiri",
+      "url": "https://open.spotify.com/track/1zNyTlVhcx9ybVxgadxAts"
+    },
+    {
+      "album": {
         "name": "SWITCH",
         "url": "https://open.spotify.com/album/3LpXennZJYBZlJiWJEhmoC"
       },
@@ -35716,6 +35988,24 @@
       "duration_ms": 221227,
       "name": "syg jgn mrh",
       "url": "https://open.spotify.com/track/2O5x4eV6FEUc2XkdvjxmOS"
+    },
+    {
+      "album": {
+        "name": "Syifa Tetanggaku",
+        "url": "https://open.spotify.com/album/5g8SOsHPOPWBXiHoOCosHA"
+      },
+      "artists": [
+        {
+          "name": "Luvia band",
+          "url": "https://open.spotify.com/artist/68LnYWYS7UQ67awNV3RO6a"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202124,
+      "name": "Syifa Tetanggaku",
+      "url": "https://open.spotify.com/track/7ebkfHdy2DeuUNGRSyU7LM"
     },
     {
       "album": {
@@ -36904,7 +37194,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 212205,
       "name": "Tanpa Bicara",
       "url": "https://open.spotify.com/track/32dPiJIrbKTUEPaELjxbgQ"
@@ -41312,6 +41602,24 @@
       "duration_ms": 183296,
       "name": "YOUNG 4EVER",
       "url": "https://open.spotify.com/track/39TVz760sIfiRX7KbrcNwU"
+    },
+    {
+      "album": {
+        "name": "Your Charm",
+        "url": "https://open.spotify.com/album/6IWZjK6WLcnBsi1dRd4Sa2"
+      },
+      "artists": [
+        {
+          "name": "Regina Song",
+          "url": "https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168587,
+      "name": "Your Charm",
+      "url": "https://open.spotify.com/track/6JK0FyH825BpiWQnOTEwQM"
     },
     {
       "album": {

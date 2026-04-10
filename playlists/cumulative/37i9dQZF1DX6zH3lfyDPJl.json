@@ -463,6 +463,24 @@
     },
     {
       "album": {
+        "name": "Blinded",
+        "url": "https://open.spotify.com/album/6zE5G60zhdsDy2xqyOVIYv"
+      },
+      "artists": [
+        {
+          "name": "ALEPH",
+          "url": "https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225882,
+      "name": "Blinded",
+      "url": "https://open.spotify.com/track/2bIXRvQccLz5rhW8CkyBWs"
+    },
+    {
+      "album": {
         "name": "LoveCop",
         "url": "https://open.spotify.com/album/57b10oox3EPeH5ErLg6aQZ"
       },
@@ -726,7 +744,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 215719,
       "name": "clouds in my room",
       "url": "https://open.spotify.com/track/4KX6ezCFC1COfMCzSOEjgT"
@@ -1425,6 +1443,24 @@
     },
     {
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/3y3UxUz8s7a6NRUBWvqw7O"
+      },
+      "artists": [
+        {
+          "name": "Yebit",
+          "url": "https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206729,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/03zH6wy7zNJbqBXjmM3C89"
+    },
+    {
+      "album": {
         "name": "0.1 flaws and all.",
         "url": "https://open.spotify.com/album/5T0Gt5JYXh6gEttuB8ujML"
       },
@@ -1508,7 +1544,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 197996,
       "name": "I could be your indie darling",
       "url": "https://open.spotify.com/track/4h5s5FyhUoN0VKqIsUOq2R"
@@ -1704,6 +1740,24 @@
       "duration_ms": 225949,
       "name": "light",
       "url": "https://open.spotify.com/track/4i2T7Nm4Q72sNnSlGADSm6"
+    },
+    {
+      "album": {
+        "name": "Like a Bird, Like a Fish",
+        "url": "https://open.spotify.com/album/2LSXBO9G6hE7ZYrnOCATX7"
+      },
+      "artists": [
+        {
+          "name": "GYE0M",
+          "url": "https://open.spotify.com/artist/2nFAl5FcbuagY1zVglLvPc"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216562,
+      "name": "Like a Bird, Like a Fish",
+      "url": "https://open.spotify.com/track/4xpfEYzoPiUC5nO5swt9bk"
     },
     {
       "album": {
@@ -3084,7 +3138,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 209999,
       "name": "Stay forever",
       "url": "https://open.spotify.com/track/1MjqDMOT5dk9Yt3o8Al83C"

@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,206 songs - 2 day 19 hr 12 min
+1,208 songs - 2 day 19 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1001,6 +1001,7 @@
 | [Sugar](https://open.spotify.com/track/0rHT3KSdQn3JvGPwe5EH2Y) | [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur), [Weird Genius](https://open.spotify.com/artist/5B4kCOhcqTywB9YwXPfFtJ) | [Sugar](https://open.spotify.com/album/31hnvDgjFArB8Xbntl48ou) | 2:42 | 2023-03-01 | 2023-05-30 |
 | [Sun](https://open.spotify.com/track/0Oa3fJvhtLXc6RGkcRVHVT) | [Angara](https://open.spotify.com/artist/14MtSANT6PClR71nsqXhy3), [Gregory Esayan](https://open.spotify.com/artist/1EOqDTixfAxQjvX2uAuvMy) | [Sun](https://open.spotify.com/album/1TVA7epk6ZpEuqvTtdWfZb) | 3:13 | 2024-01-16 | 2024-04-06 |
 | [Sun \- Angara Mix](https://open.spotify.com/track/6F4luCQcD7bwlHXX2XhPa5) | [Angara](https://open.spotify.com/artist/14MtSANT6PClR71nsqXhy3), [Gregory Esayan](https://open.spotify.com/artist/1EOqDTixfAxQjvX2uAuvMy) | [Sun \(The Remixes\)](https://open.spotify.com/album/3htJohEasfEYdfKZ3E7EIb) | 3:12 | 2024-12-17 | 2025-03-26 |
+| [Sun Will Rise Again](https://open.spotify.com/track/52cxqwl1KspzzcaaLyCamZ) | [Gammer](https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY) | [Sun Will Rise Again](https://open.spotify.com/album/2ojOx88ErArt08yJIb40oS) | 3:02 | 2026-04-09 |  |
 | [Sunflowers](https://open.spotify.com/track/5R5oXUlnzXfQZUnbNZz2Dm) | [Seawayz](https://open.spotify.com/artist/1kDtzWANi4LOiGt0uM5Wjr) | [Sunflowers](https://open.spotify.com/album/5Fv4WJupGWoHOMEJZddOR4) | 3:32 | 2023-02-24 | 2023-05-18 |
 | [Sunlight](https://open.spotify.com/track/4ii7MVY3GCm4vQZM6uMDDx) | [Flexible Fire](https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K), [Etza](https://open.spotify.com/artist/5XCGOe3YCAhxsfQIUb5xGe) | [Sunlight](https://open.spotify.com/album/7qPdbWFcEIHUkVMdRdP6kJ) | 3:50 | 2022-02-23 | 2022-05-06 |
 | [Sunrise](https://open.spotify.com/track/59Iv8sTgb7XjG1sydJTwdk) | [ORACLE](https://open.spotify.com/artist/3gZrJ9QnqxKlSdZAkT54aF) | [Sunrise](https://open.spotify.com/album/7FZCcXAeHZR34WCt1w2aBm) | 3:26 | 2025-09-16 | 2025-12-13 |
@@ -1201,6 +1202,7 @@
 | [Worst Night of My Life](https://open.spotify.com/track/5QP7Wvkr7TG1qxtOZ88Ri8) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [SPIRIT LINK](https://open.spotify.com/artist/4k42mHalwBTdZWvAy3ucTc) | [Worst Night of My Life](https://open.spotify.com/album/0LV7hVjylBE8h9ZxbOXapY) | 2:55 | 2024-05-20 | 2024-08-14 |
 | [Worthy](https://open.spotify.com/track/5UPI2X8D7949HFbRHoyYAe) | [LTN](https://open.spotify.com/artist/2IK99qf3aYxFWkgCkc7kQ3), [Ghostbeat](https://open.spotify.com/artist/6HM5cyDWiTq4ijhdsaRZiS) | [Silk Selections 01](https://open.spotify.com/album/5iIXHLFmPol8ATbxEuLQ87) | 2:56 | 2024-09-10 | 2024-12-03 |
 | [WYGD](https://open.spotify.com/track/2TRhRhzp9xGrS7yWtDJili) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [WYGD](https://open.spotify.com/album/0nuPNR9F9QyfuxtOT0Fqhs) | 2:28 | 2022-03-01 | 2022-05-13 |
+| [Yellow Lights](https://open.spotify.com/track/1dD7hIDGV3lfMn0AGh5Q4d) | [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1), [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [HYMNALS](https://open.spotify.com/artist/2seVQaAt7DMkQXYDMQ5nL7) | [Yellow Lights](https://open.spotify.com/album/61ObyNFh91Dcvz8lIFyaLz) | 3:56 | 2026-04-09 |  |
 | [Yesterday](https://open.spotify.com/track/6Wz9kNEppcp9U6jHptH6sQ) | [No Mana](https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg) | [Yesterday](https://open.spotify.com/album/0MU0ovgIP5zFj9CJLbkTaM) | 4:33 | 2022-09-02 | 2022-11-05 |
 | [Yesterday \- Voicians Remix](https://open.spotify.com/track/7Mr4FBVQtgiv92xG2S8H68) | [No Mana](https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg), [Voicians](https://open.spotify.com/artist/5DNApAt05XowaylsOJo1eW) | [Yesterday \(Voicians Remix\)](https://open.spotify.com/album/5sbwe27UyyTgGl77szrT86) | 3:52 | 2023-12-11 | 2024-03-23 |
 | [Yonder](https://open.spotify.com/track/7x2BkQ2329FPdQSgfveQSo) | [Skyknock](https://open.spotify.com/artist/1xX451Pg0jqIXu8I6FM5N8) | [S.K.Y.](https://open.spotify.com/album/3H09VWQqjnA8PC7qmBltyf) | 3:09 | 2026-01-16 |  |

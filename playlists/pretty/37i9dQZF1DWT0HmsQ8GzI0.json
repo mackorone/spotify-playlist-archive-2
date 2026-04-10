@@ -1,6 +1,6 @@
 {
   "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: Szabikeyz",
-  "num_followers": 16414,
+  "num_followers": 16417,
   "original_name": "Nemazapop",
   "owner": {
     "name": "Spotify",
@@ -567,26 +567,6 @@
     {
       "added_at": "2026-04-03 09:29:19",
       "album": {
-        "name": "Var\u00e1zsl\u00f3",
-        "url": "https://open.spotify.com/album/5qTQ3jcX1C1aInA5uscrAw"
-      },
-      "artists": [
-        {
-          "name": "Szlimmy",
-          "url": "https://open.spotify.com/artist/5rNkX3yvQhR4BBN11HVTJY"
-        },
-        {
-          "name": "DO\u00d3R",
-          "url": "https://open.spotify.com/artist/2HVId5fHUsUJhDGXhU4Q5o"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Var\u00e1zsl\u00f3",
-      "url": "https://open.spotify.com/track/5EPQGeSQ6UdYXJorfacReL"
-    },
-    {
-      "added_at": "2026-04-03 09:29:19",
-      "album": {
         "name": "Jerik\u00f3",
         "url": "https://open.spotify.com/album/455HvLY620gM3Ia8tO7JR7"
       },
@@ -607,6 +587,26 @@
       "duration_ms": 162000,
       "name": "Jerik\u00f3",
       "url": "https://open.spotify.com/track/2buK5D1SetmgAPAl10tCq3"
+    },
+    {
+      "added_at": "2026-04-03 09:29:19",
+      "album": {
+        "name": "Var\u00e1zsl\u00f3",
+        "url": "https://open.spotify.com/album/5qTQ3jcX1C1aInA5uscrAw"
+      },
+      "artists": [
+        {
+          "name": "Szlimmy",
+          "url": "https://open.spotify.com/artist/5rNkX3yvQhR4BBN11HVTJY"
+        },
+        {
+          "name": "DO\u00d3R",
+          "url": "https://open.spotify.com/artist/2HVId5fHUsUJhDGXhU4Q5o"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Var\u00e1zsl\u00f3",
+      "url": "https://open.spotify.com/track/5EPQGeSQ6UdYXJorfacReL"
     },
     {
       "added_at": "2026-04-03 09:29:19",
@@ -771,58 +771,6 @@
     {
       "added_at": "2026-04-03 09:29:19",
       "album": {
-        "name": "mindig szomor\u00fa",
-        "url": "https://open.spotify.com/album/55JbMGfwZBDXVTU73vA2V7"
-      },
-      "artists": [
-        {
-          "name": "cserihanna",
-          "url": "https://open.spotify.com/artist/7MHRzj7k1gqYcJ2P7V8mwl"
-        },
-        {
-          "name": "Bark\u00f3czi No\u00e9mi",
-          "url": "https://open.spotify.com/artist/5adSMdxhX0VhydAkpiaOSc"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "mindig szomor\u00fa",
-      "url": "https://open.spotify.com/track/1SiknHrLImQSDrI8wskLva"
-    },
-    {
-      "added_at": "2026-04-03 09:29:19",
-      "album": {
-        "name": "chill cheez brgr",
-        "url": "https://open.spotify.com/album/3kQREeH1o5lWO3MozTNar3"
-      },
-      "artists": [
-        {
-          "name": "cibi",
-          "url": "https://open.spotify.com/artist/3e1iDJzrvTCdGOzTCjuiuf"
-        }
-      ],
-      "duration_ms": 171034,
-      "name": "chill cheez brgr",
-      "url": "https://open.spotify.com/track/2ex6K0PLnmBkhXXfvvi31L"
-    },
-    {
-      "added_at": "2026-04-03 09:29:19",
-      "album": {
-        "name": "IM\u00c1G\u00d3",
-        "url": "https://open.spotify.com/album/6a7Dw3UNp2o57zyLn2vFeQ"
-      },
-      "artists": [
-        {
-          "name": "H\u0171v\u00f6s",
-          "url": "https://open.spotify.com/artist/3xUvGJC2dqdwZ63D801tmA"
-        }
-      ],
-      "duration_ms": 185142,
-      "name": "\u00dcDV A KLUBBAN",
-      "url": "https://open.spotify.com/track/6lqGo3OzCYhPGIX4IRZYDT"
-    },
-    {
-      "added_at": "2026-04-03 09:29:19",
-      "album": {
         "name": "Portug\u00edzer",
         "url": "https://open.spotify.com/album/05V71VFk9C52HFiLSLt1Mx"
       },
@@ -851,6 +799,58 @@
       "duration_ms": 293888,
       "name": "Az a szerelem",
       "url": "https://open.spotify.com/track/1NjWjcJmIL9QMXes0R1nWz"
+    },
+    {
+      "added_at": "2026-04-03 09:29:19",
+      "album": {
+        "name": "IM\u00c1G\u00d3",
+        "url": "https://open.spotify.com/album/6a7Dw3UNp2o57zyLn2vFeQ"
+      },
+      "artists": [
+        {
+          "name": "H\u0171v\u00f6s",
+          "url": "https://open.spotify.com/artist/3xUvGJC2dqdwZ63D801tmA"
+        }
+      ],
+      "duration_ms": 185142,
+      "name": "\u00dcDV A KLUBBAN",
+      "url": "https://open.spotify.com/track/6lqGo3OzCYhPGIX4IRZYDT"
+    },
+    {
+      "added_at": "2026-04-03 09:29:19",
+      "album": {
+        "name": "chill cheez brgr",
+        "url": "https://open.spotify.com/album/3kQREeH1o5lWO3MozTNar3"
+      },
+      "artists": [
+        {
+          "name": "cibi",
+          "url": "https://open.spotify.com/artist/3e1iDJzrvTCdGOzTCjuiuf"
+        }
+      ],
+      "duration_ms": 171034,
+      "name": "chill cheez brgr",
+      "url": "https://open.spotify.com/track/2ex6K0PLnmBkhXXfvvi31L"
+    },
+    {
+      "added_at": "2026-04-03 09:29:19",
+      "album": {
+        "name": "mindig szomor\u00fa",
+        "url": "https://open.spotify.com/album/55JbMGfwZBDXVTU73vA2V7"
+      },
+      "artists": [
+        {
+          "name": "cserihanna",
+          "url": "https://open.spotify.com/artist/7MHRzj7k1gqYcJ2P7V8mwl"
+        },
+        {
+          "name": "Bark\u00f3czi No\u00e9mi",
+          "url": "https://open.spotify.com/artist/5adSMdxhX0VhydAkpiaOSc"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "mindig szomor\u00fa",
+      "url": "https://open.spotify.com/track/1SiknHrLImQSDrI8wskLva"
     },
     {
       "added_at": "2026-04-03 09:29:19",
@@ -887,22 +887,6 @@
     {
       "added_at": "2026-04-03 09:29:19",
       "album": {
-        "name": "Itt vagyok",
-        "url": "https://open.spotify.com/album/7CEFNw5QYzZRW57p2gV15q"
-      },
-      "artists": [
-        {
-          "name": "Zaporozsec",
-          "url": "https://open.spotify.com/artist/6sCNFSN1IvhWtxSEjPk4vP"
-        }
-      ],
-      "duration_ms": 164561,
-      "name": "Itt vagyok",
-      "url": "https://open.spotify.com/track/3tGFVeJHq4t13lBsaq0Q94"
-    },
-    {
-      "added_at": "2026-04-03 09:29:19",
-      "album": {
         "name": "SZ\u00d3LNI KELL",
         "url": "https://open.spotify.com/album/47JjFF1Xmb9vnGFSLbTV1l"
       },
@@ -919,18 +903,18 @@
     {
       "added_at": "2026-04-03 09:29:19",
       "album": {
-        "name": "Vakrep\u00fcl\u00e9s",
-        "url": "https://open.spotify.com/album/3tOAQIYf5zHRuxvg6qaIZ1"
+        "name": "Itt vagyok",
+        "url": "https://open.spotify.com/album/7CEFNw5QYzZRW57p2gV15q"
       },
       "artists": [
         {
-          "name": "Quimby",
-          "url": "https://open.spotify.com/artist/3ZPq4IH5ZDJKwx5dBQQhBO"
+          "name": "Zaporozsec",
+          "url": "https://open.spotify.com/artist/6sCNFSN1IvhWtxSEjPk4vP"
         }
       ],
-      "duration_ms": 155000,
-      "name": "Vakrep\u00fcl\u00e9s",
-      "url": "https://open.spotify.com/track/1AzLHDq6saPBrR9CHyySDs"
+      "duration_ms": 164561,
+      "name": "Itt vagyok",
+      "url": "https://open.spotify.com/track/3tGFVeJHq4t13lBsaq0Q94"
     },
     {
       "added_at": "2026-04-03 09:29:19",
@@ -947,6 +931,22 @@
       "duration_ms": 161280,
       "name": "T\u00e9lbe \u00e1t",
       "url": "https://open.spotify.com/track/2yhLSp2tSxQsKdaYBJ1vNl"
+    },
+    {
+      "added_at": "2026-04-03 09:29:19",
+      "album": {
+        "name": "Vakrep\u00fcl\u00e9s",
+        "url": "https://open.spotify.com/album/3tOAQIYf5zHRuxvg6qaIZ1"
+      },
+      "artists": [
+        {
+          "name": "Quimby",
+          "url": "https://open.spotify.com/artist/3ZPq4IH5ZDJKwx5dBQQhBO"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Vakrep\u00fcl\u00e9s",
+      "url": "https://open.spotify.com/track/1AzLHDq6saPBrR9CHyySDs"
     },
     {
       "added_at": "2026-04-03 09:29:19",
@@ -971,18 +971,18 @@
     {
       "added_at": "2026-04-03 09:29:19",
       "album": {
-        "name": "MURMUR OF POPINJAYS",
-        "url": "https://open.spotify.com/album/4DCwdOAngCzhSCy7Ypp7iT"
+        "name": "nemveledvanagond",
+        "url": "https://open.spotify.com/album/3YF6pxzU60rS7n4BSjqxwR"
       },
       "artists": [
         {
-          "name": "Fran Palermo",
-          "url": "https://open.spotify.com/artist/5pey8GDHGCU8pzAFrjKslD"
+          "name": "imago mundi",
+          "url": "https://open.spotify.com/artist/4pD0Y4NqCiTWh4IhpH2NQO"
         }
       ],
-      "duration_ms": 198750,
-      "name": "MURMUR OF POPINJAYS",
-      "url": "https://open.spotify.com/track/3siRHynYlSsTq4BY7WTDTy"
+      "duration_ms": 185647,
+      "name": "nemveledvanagond",
+      "url": "https://open.spotify.com/track/3WjnAkTGVJhHRQYgiKEgud"
     },
     {
       "added_at": "2026-04-03 09:29:19",
@@ -999,6 +999,22 @@
       "duration_ms": 227391,
       "name": "Menj",
       "url": "https://open.spotify.com/track/7kk5ouFxBgw5e2TZitUsZ9"
+    },
+    {
+      "added_at": "2026-04-03 09:29:19",
+      "album": {
+        "name": "MURMUR OF POPINJAYS",
+        "url": "https://open.spotify.com/album/4DCwdOAngCzhSCy7Ypp7iT"
+      },
+      "artists": [
+        {
+          "name": "Fran Palermo",
+          "url": "https://open.spotify.com/artist/5pey8GDHGCU8pzAFrjKslD"
+        }
+      ],
+      "duration_ms": 198750,
+      "name": "MURMUR OF POPINJAYS",
+      "url": "https://open.spotify.com/track/3siRHynYlSsTq4BY7WTDTy"
     },
     {
       "added_at": "2026-04-03 09:29:19",
@@ -1031,22 +1047,6 @@
       "duration_ms": 138351,
       "name": "Pillang\u00f3hat\u00e1s",
       "url": "https://open.spotify.com/track/5L9mdXBFc2g6l2XmfSsSJN"
-    },
-    {
-      "added_at": "2026-04-03 09:29:19",
-      "album": {
-        "name": "nemveledvanagond",
-        "url": "https://open.spotify.com/album/3YF6pxzU60rS7n4BSjqxwR"
-      },
-      "artists": [
-        {
-          "name": "imago mundi",
-          "url": "https://open.spotify.com/artist/4pD0Y4NqCiTWh4IhpH2NQO"
-        }
-      ],
-      "duration_ms": 185647,
-      "name": "nemveledvanagond",
-      "url": "https://open.spotify.com/track/3WjnAkTGVJhHRQYgiKEgud"
     },
     {
       "added_at": "2026-04-03 09:29:19",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2026-04-03 09:29:19",
       "album": {
-        "name": "Csillagb\u00f3l f\u00e9ny",
-        "url": "https://open.spotify.com/album/75ehWIPCih0JSCRexiIm0V"
-      },
-      "artists": [
-        {
-          "name": "Aurevoir.",
-          "url": "https://open.spotify.com/artist/51BZWZTWqI7GjrgHw3Wvuw"
-        }
-      ],
-      "duration_ms": 251423,
-      "name": "Csillagb\u00f3l f\u00e9ny",
-      "url": "https://open.spotify.com/track/4gWLzsy21pYAa5mxUo0zLQ"
-    },
-    {
-      "added_at": "2026-04-03 09:29:19",
-      "album": {
         "name": "HAMU",
         "url": "https://open.spotify.com/album/1i7qU8N1m5l9MOGyU5X0yW"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 214809,
       "name": "HAMU",
       "url": "https://open.spotify.com/track/4UINS170JG1vNJIZSBNSku"
+    },
+    {
+      "added_at": "2026-04-03 09:29:19",
+      "album": {
+        "name": "Csillagb\u00f3l f\u00e9ny",
+        "url": "https://open.spotify.com/album/75ehWIPCih0JSCRexiIm0V"
+      },
+      "artists": [
+        {
+          "name": "Aurevoir.",
+          "url": "https://open.spotify.com/artist/51BZWZTWqI7GjrgHw3Wvuw"
+        }
+      ],
+      "duration_ms": 251423,
+      "name": "Csillagb\u00f3l f\u00e9ny",
+      "url": "https://open.spotify.com/track/4gWLzsy21pYAa5mxUo0zLQ"
     },
     {
       "added_at": "2026-04-03 09:29:19",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2026-04-03 09:29:19",
       "album": {
-        "name": "Nem is te lenn\u00e9l",
-        "url": "https://open.spotify.com/album/1qpvzozX4lqGZ7eFHqKrCy"
-      },
-      "artists": [
-        {
-          "name": "Szlimmy",
-          "url": "https://open.spotify.com/artist/5rNkX3yvQhR4BBN11HVTJY"
-        }
-      ],
-      "duration_ms": 176345,
-      "name": "Nem is te lenn\u00e9l",
-      "url": "https://open.spotify.com/track/7IQOdHtbP4mI9B3oCFHDAg"
-    },
-    {
-      "added_at": "2026-04-03 09:29:19",
-      "album": {
         "name": "Szeg\u00e9nyk\u00e9m",
         "url": "https://open.spotify.com/album/1G46zBdtFuMm0hPwFF9OYJ"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 282000,
       "name": "Szeg\u00e9nyk\u00e9m",
       "url": "https://open.spotify.com/track/6XhfEL3mr7xf8vtPC74v0X"
+    },
+    {
+      "added_at": "2026-04-03 09:29:19",
+      "album": {
+        "name": "Nem is te lenn\u00e9l",
+        "url": "https://open.spotify.com/album/1qpvzozX4lqGZ7eFHqKrCy"
+      },
+      "artists": [
+        {
+          "name": "Szlimmy",
+          "url": "https://open.spotify.com/artist/5rNkX3yvQhR4BBN11HVTJY"
+        }
+      ],
+      "duration_ms": 176345,
+      "name": "Nem is te lenn\u00e9l",
+      "url": "https://open.spotify.com/track/7IQOdHtbP4mI9B3oCFHDAg"
     },
     {
       "added_at": "2026-04-03 09:29:19",

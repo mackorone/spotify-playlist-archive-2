@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists from UK&IE. Cover: Claudia Valentina",
+  "description": "Discover your new favourite artists from UK&IE. Cover: Cruz Beckham",
   "name": "RADAR UK & Ireland",
   "tracks": [
     {
@@ -6088,6 +6088,24 @@
       "duration_ms": 186891,
       "name": "war outside",
       "url": "https://open.spotify.com/track/7IXCfadpx5y8O37WojfLUp"
+    },
+    {
+      "album": {
+        "name": "waste your pain",
+        "url": "https://open.spotify.com/album/7xZM9auwP97hBo51OSYZ29"
+      },
+      "artists": [
+        {
+          "name": "Cruz Beckham",
+          "url": "https://open.spotify.com/artist/3ZPOiGqgEbfNlKFFKxXVsD"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143872,
+      "name": "waste your pain",
+      "url": "https://open.spotify.com/track/3dwJ7YOq1ypxSZrh5GkZas"
     },
     {
       "album": {

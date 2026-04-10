@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPZhZJQP9HE.md) - [plain]
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Rudh
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,812 likes - 61 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,820 likes - 61 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

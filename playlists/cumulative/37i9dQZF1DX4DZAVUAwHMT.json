@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The UK's biggest rock playlist. Cover: Kasabian",
+  "description": "The UK's biggest rock playlist. Cover: Enter Shikari ",
   "name": "The Rock List",
   "tracks": [
     {
@@ -3988,7 +3988,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 242373,
       "name": "Caught In The Echo",
       "url": "https://open.spotify.com/track/0B6cG6HOupKy2GaWOgfeOH"
@@ -4875,6 +4875,24 @@
     },
     {
       "album": {
+        "name": "Cut Back",
+        "url": "https://open.spotify.com/album/1GAFb0WrMbug4jq65tTp0X"
+      },
+      "artists": [
+        {
+          "name": "Marmozets",
+          "url": "https://open.spotify.com/artist/3KEhhixoMshqSEJ71rS7w1"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183484,
+      "name": "Cut Back",
+      "url": "https://open.spotify.com/track/7x7leJBVK5ptTfsYiDL14s"
+    },
+    {
+      "album": {
         "name": "A Fistful of Peaches",
         "url": "https://open.spotify.com/album/66f2AJfIYSpWtiDMac7Wea"
       },
@@ -5240,7 +5258,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 209513,
       "name": "DEAD GIRL WALKING",
       "url": "https://open.spotify.com/track/7MzYunk9yPyDsJjSPTppuH"
@@ -5723,6 +5741,24 @@
     },
     {
       "album": {
+        "name": "DOG",
+        "url": "https://open.spotify.com/album/0M2PbuPHtWmCE99gy5BUwD"
+      },
+      "artists": [
+        {
+          "name": "Grandmas House",
+          "url": "https://open.spotify.com/artist/6BFppN7DZ1DR7zFyNTj7Nv"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214313,
+      "name": "DOG",
+      "url": "https://open.spotify.com/track/68kryXwh6KZSyjjmQfbelN"
+    },
+    {
+      "album": {
         "name": "Reflection / Don't Fight",
         "url": "https://open.spotify.com/album/6dP4GsPzcJW0LaNnHp2An1"
       },
@@ -6156,6 +6192,24 @@
       "duration_ms": 205086,
       "name": "Eighteen Crows",
       "url": "https://open.spotify.com/track/6NFU9CdbiesVSuApjQf5NT"
+    },
+    {
+      "album": {
+        "name": "Ember",
+        "url": "https://open.spotify.com/album/7v39mio0wBEBfW44yf39bE"
+      },
+      "artists": [
+        {
+          "name": "Iceage",
+          "url": "https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205812,
+      "name": "Ember",
+      "url": "https://open.spotify.com/track/7jdLVBEhoDxGKdhfBEulzY"
     },
     {
       "album": {
@@ -8400,7 +8454,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 187306,
       "name": "Golden Daze",
       "url": "https://open.spotify.com/track/2VU9L06tLFb39gip8TuEbV"
@@ -10053,6 +10107,24 @@
     },
     {
       "album": {
+        "name": "I Hate London",
+        "url": "https://open.spotify.com/album/48pnUcxRj8M7n1Tgn60l7A"
+      },
+      "artists": [
+        {
+          "name": "Hannah Grae",
+          "url": "https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156111,
+      "name": "I Hate London",
+      "url": "https://open.spotify.com/track/18G2vFJKlKB4UodxlsCkQA"
+    },
+    {
+      "album": {
         "name": "I Hate the Internet / True Devotion",
         "url": "https://open.spotify.com/album/54w7HgMTJI295pdatRThsz"
       },
@@ -11145,6 +11217,24 @@
     },
     {
       "album": {
+        "name": "Johnny's Dreamworld",
+        "url": "https://open.spotify.com/album/3TFMEZHd895EkXv89H48W4"
+      },
+      "artists": [
+        {
+          "name": "Modern Woman",
+          "url": "https://open.spotify.com/artist/4OW8KZOncmml2hRSXdhfO9"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248554,
+      "name": "Johnny's Dreamworld",
+      "url": "https://open.spotify.com/track/68lZclSnOM7KAMtawgP1tI"
+    },
+    {
+      "album": {
         "name": "Night Light",
         "url": "https://open.spotify.com/album/28XX98fScUpE4dZN0hIvAR"
       },
@@ -11156,7 +11246,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 269813,
       "name": "Juice",
       "url": "https://open.spotify.com/track/6VxBEwjCqZuQUxqhSedNFa"
@@ -12332,6 +12422,24 @@
       "duration_ms": 175386,
       "name": "Lose You (feat. Soccer Mommy)",
       "url": "https://open.spotify.com/track/0KmC4jFH8axcJqKvOTBXeX"
+    },
+    {
+      "album": {
+        "name": "Lose Your Self",
+        "url": "https://open.spotify.com/album/2Vly71rEGqTH3yuuHRN25C"
+      },
+      "artists": [
+        {
+          "name": "Enter Shikari",
+          "url": "https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258509,
+      "name": "LOSE YOUR SELF",
+      "url": "https://open.spotify.com/track/5suLEhSjprXsUQ5ofXJH8Q"
     },
     {
       "album": {
@@ -14495,6 +14603,28 @@
     },
     {
       "album": {
+        "name": "No Feeling",
+        "url": "https://open.spotify.com/album/2YmGdAeIZqXU8tSDFtwV3S"
+      },
+      "artists": [
+        {
+          "name": "American Football",
+          "url": "https://open.spotify.com/artist/5FwydyGVcsQllnM4xM6jw4"
+        },
+        {
+          "name": "Brendan Yates",
+          "url": "https://open.spotify.com/artist/4AJe4qjJG5DrDEN7Ijz6Ar"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288680,
+      "name": "No Feeling",
+      "url": "https://open.spotify.com/track/4irsdnZsat5QRfveJwb3Qz"
+    },
+    {
+      "album": {
         "name": "No More Photos",
         "url": "https://open.spotify.com/album/4TzrLB7kyyeHiQ6cbzKdq2"
       },
@@ -14946,6 +15076,24 @@
       "duration_ms": 160880,
       "name": "Obligations",
       "url": "https://open.spotify.com/track/0JP7lokt6eLt0KpEJtxApe"
+    },
+    {
+      "album": {
+        "name": "Of All People",
+        "url": "https://open.spotify.com/album/1Df1pG5H92VbkhbTehf6Sn"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154293,
+      "name": "Of All People",
+      "url": "https://open.spotify.com/track/1jhI5gfOIA2iGOWk6gp1xc"
     },
     {
       "album": {
@@ -16106,7 +16254,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 221288,
       "name": "Picture Of Health",
       "url": "https://open.spotify.com/track/07OabSk5EM7GSgEeD39QTO"
@@ -16524,7 +16672,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 211407,
       "name": "Power Games",
       "url": "https://open.spotify.com/track/1HtbLJkQ8PzTaoCjtRDiCs"
@@ -17646,7 +17794,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 204902,
       "name": "Running With The Sun In Your Eyes",
       "url": "https://open.spotify.com/track/5K2u9xE1GCnLp93Mg04VsW"
@@ -18378,6 +18526,24 @@
       "duration_ms": 148301,
       "name": "Should I",
       "url": "https://open.spotify.com/track/5n2SP6R5k7LS3GdJEirPeM"
+    },
+    {
+      "album": {
+        "name": "Show Me A God",
+        "url": "https://open.spotify.com/album/22PpP580Vc80i1qU6ZlVVK"
+      },
+      "artists": [
+        {
+          "name": "Westislonely",
+          "url": "https://open.spotify.com/artist/4aLDZqT6rZaIMWRtXaCH69"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211804,
+      "name": "Show Me A God",
+      "url": "https://open.spotify.com/track/4fFuZYKIijh5Srn1qK2cEf"
     },
     {
       "album": {
@@ -19404,7 +19570,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 205274,
       "name": "Star",
       "url": "https://open.spotify.com/track/3PdE19PCcon8iVW9KXtRWl"
@@ -19892,7 +20058,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 180081,
       "name": "Sugar (feat JoJo)",
       "url": "https://open.spotify.com/track/3lErXBoKmIXTmqVw4CoUmI"
@@ -20844,6 +21010,24 @@
       "duration_ms": 224957,
       "name": "The Lens",
       "url": "https://open.spotify.com/track/5Jgd7T6LCgGynv0mh6zPSq"
+    },
+    {
+      "album": {
+        "name": "The Luckiest Man Alive",
+        "url": "https://open.spotify.com/album/0Ppu0QP5o7moPzFqpp3VS6"
+      },
+      "artists": [
+        {
+          "name": "Courteeners",
+          "url": "https://open.spotify.com/artist/1NfJU4hy56Z4UM4iyIa1B2"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191870,
+      "name": "The Luckiest Man Alive",
+      "url": "https://open.spotify.com/track/0yzvi02nlOBEtCqvNcOFxy"
     },
     {
       "album": {
@@ -22620,7 +22804,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 152345,
       "name": "Violence (feat. As December Falls)",
       "url": "https://open.spotify.com/track/7MlSS4EB0u4szJiaF2AV13"
@@ -23176,7 +23360,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 219053,
       "name": "What Else",
       "url": "https://open.spotify.com/track/5GwbNuzaOBEHdoxchhAd4o"
@@ -23526,6 +23710,24 @@
       "duration_ms": 239508,
       "name": "Who Should I Say Is Calling?",
       "url": "https://open.spotify.com/track/1hJdzermHhYNWxiu0Fw5h9"
+    },
+    {
+      "album": {
+        "name": "Who Will You Follow",
+        "url": "https://open.spotify.com/album/21kwp73XrMKnqCrI9MSzDR"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235504,
+      "name": "Who Will You Follow",
+      "url": "https://open.spotify.com/track/1BDqFxvOeS9SWVnMTXPMx2"
     },
     {
       "album": {

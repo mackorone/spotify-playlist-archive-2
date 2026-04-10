@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: 幾田りら
 
-3,748 songs - 9 day 22 hr 49 min
+3,749 songs - 9 day 22 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1028,7 +1028,7 @@
 | [landmark](https://open.spotify.com/track/0N5CXD5idZh3DdWLlbEJya) | [Yuko Ando](https://open.spotify.com/artist/12dhEcVUnJVnIQLt91VdA3) | [Salyu 20th Anniversary Tribute Album “grafting”](https://open.spotify.com/album/69XcbpHmjRmDzuGxaYJ8l4) | 6:06 | 2024-12-17 | 2024-12-25 |
 | [lapis lazuli feat\. luvis](https://open.spotify.com/track/1ldtIYXr0WSaXRzolhzPsW) | [Sagiri Sól](https://open.spotify.com/artist/7lMbNnC8YEcy8zZDekmhcb), [luvis](https://open.spotify.com/artist/0TkhuOSDpZ6NhRiPkmQ77M) | [lapis lazuli](https://open.spotify.com/album/6cD9JRGnKgOlqM7m2UqKad) | 3:40 | 2025-08-05 | 2025-08-13 |
 | [last scene.](https://open.spotify.com/track/7p0CX0wH7aAGMac8nRFV6E) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [last scene.](https://open.spotify.com/album/23bd5qlw1TCIso2aXmkzZw) | 4:09 | 2025-10-14 | 2026-02-12 |
-| [Last song \- feat.Young Kee](https://open.spotify.com/track/5JwtniwTAHi1bf9VMvL5ZM) | [Foi](https://open.spotify.com/artist/395MrZuV4ZaUrn1QUPu8FB), [Young Kee](https://open.spotify.com/artist/4axCzBPNlQBLmcmlb6jt9a) | [Rondo](https://open.spotify.com/album/6SS1xn4JNWWU5Oq9eSHE3Q) | 4:20 | 2026-02-17 |  |
+| [Last song \- feat.Young Kee](https://open.spotify.com/track/5JwtniwTAHi1bf9VMvL5ZM) | [Foi](https://open.spotify.com/artist/395MrZuV4ZaUrn1QUPu8FB), [Young Kee](https://open.spotify.com/artist/4axCzBPNlQBLmcmlb6jt9a) | [Rondo](https://open.spotify.com/album/6SS1xn4JNWWU5Oq9eSHE3Q) | 4:20 | 2026-02-17 | 2026-04-10 |
 | [Last Waltz](https://open.spotify.com/track/74x5DQayhrqNKijD3rFDkS) | [Shione Yukawa](https://open.spotify.com/artist/7IFf66bWoJsaAmMXRUR3vG) | [Blue Bird](https://open.spotify.com/album/3jOn1P9KaUoGTQjfYquK1Q) | 3:57 | 2024-12-24 | 2025-01-15 |
 | [Latata](https://open.spotify.com/track/53x4Fe0j0X5Nxo1UKsJNTX) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [Laugh](https://open.spotify.com/album/0QmujzTxQFdS9zYbfJznnJ) | 3:06 | 2025-12-09 | 2026-02-12 |
 | [Late summer waves](https://open.spotify.com/track/2nmfkEVZwZqSPmJnmgJqIu) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [Late summer waves](https://open.spotify.com/album/1uOlgoXblcCIlAAMdR63GU) | 2:35 | 2022-09-08 | 2022-09-21 |
@@ -1202,7 +1202,7 @@
 | [Mimi O Sumasu](https://open.spotify.com/track/548JbCzzAo5Vm283DQ0ZXt) | [Yo Hitoto](https://open.spotify.com/artist/5sm4rWbXSE6K8MdyTIZg7q) | [Hitotozukushizu \(Another Edition\)](https://open.spotify.com/album/3KKLO623sFUcK964j2dmPD) | 5:35 | 2022-12-20 | 2023-01-04 |
 | [Mimosa](https://open.spotify.com/track/5wb7qKTkJOAjcYrDIDc38r) | [Ayane Yamazaki](https://open.spotify.com/artist/3aAqZwjiV8gDsQLOazoXPF) | [魂のハイウェイ](https://open.spotify.com/album/7ldEOhZlm91lsrvm4pcd9N) | 3:28 | 2022-09-29 | 2022-10-05 |
 | [mimosa](https://open.spotify.com/track/2LHlcQqSZDrTVXGB6Hgf6e) | [Ayumi Hamasaki](https://open.spotify.com/artist/3Mvc8kRgr8LRYYgvFmlZqn) | [mimosa](https://open.spotify.com/album/0x8DhYL1Y62n95Nsiu8kVj) | 5:09 | 2025-04-08 | 2025-12-03 |
-| [MINE](https://open.spotify.com/track/4AVQ6xQez2NA0lDlzALXis) | [SWEET REVENGE](https://open.spotify.com/artist/5Bey3ulvK5ExyT5SHZUUgh) | [MINE](https://open.spotify.com/album/4b51KDoNVNisbHS4cu2Tdo) | 2:29 | 2026-02-11 | 2026-04-01 |
+| [MINE](https://open.spotify.com/track/4AVQ6xQez2NA0lDlzALXis) | [SWEET REVENGE](https://open.spotify.com/artist/5Bey3ulvK5ExyT5SHZUUgh) | [MINE](https://open.spotify.com/album/4b51KDoNVNisbHS4cu2Tdo) | 2:29 | 2026-02-11 |  |
 | [MINE \- English Ver](https://open.spotify.com/track/5r233NDEbvVUg3JqfdRaV6) | [SWEET REVENGE](https://open.spotify.com/artist/5Bey3ulvK5ExyT5SHZUUgh), [Destiny Rogers](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu) | [MINE \(English Ver\)](https://open.spotify.com/album/1gok7y5OZSoaFxvzZJJzoh) | 2:45 | 2026-02-24 | 2026-03-04 |
 | [Mine or Yours \(Yaeji Remix\)](https://open.spotify.com/track/3FV0YFGD7tTqhMbwm3oTgM) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2), [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Mine or Yours \(Yaeji Remix\)](https://open.spotify.com/album/0lMxf0CKJDFeN1U6cTnawv) | 4:15 | 2025-10-08 | 2025-12-18 |
 | [Mint Cherry Cake](https://open.spotify.com/track/2oRAgGoq3YVCnJZA4lxXgZ) | [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [Mint Cherry Cake](https://open.spotify.com/album/6sGRvRO6PVRuB8lKKSXmcJ) | 2:45 | 2024-11-26 | 2024-12-11 |
@@ -2485,7 +2485,7 @@
 | [アライブ](https://open.spotify.com/track/3ibJ4Liw4yLnAc2ohmKD8O) | [Sonoko Inoue](https://open.spotify.com/artist/71hQB5jxdNiHk5gzZRhicQ) | [アライブ](https://open.spotify.com/album/1bumD0S6dDW9XvyBZgWVz4) | 2:57 | 2025-03-11 | 2025-03-19 |
 | [アルジャーノン](https://open.spotify.com/track/0L1E2JmrZk6QU9261PtJWQ) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [アルジャーノン](https://open.spotify.com/album/38aExI5zPQwJBbcLX200A4) | 4:14 | 2023-02-07 | 2024-12-05 |
 | [アルデバラン](https://open.spotify.com/track/5dCWwd6RUQPxVZZ1igVvn6) | [AI](https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q) | [アルデバラン](https://open.spotify.com/album/2Ys2XufiWIUqGpwgSlbibq) | 4:26 | 2022-05-29 | 2023-02-22 |
-| [アルデバラン](https://open.spotify.com/track/2nxeYMpGeXEGgebf3JJLBV) | [Mone Kamishiraishi](https://open.spotify.com/artist/68TWc4rraWK3C522KFdt0b) | [texte](https://open.spotify.com/album/7gAi50SKJ9bL2TXWgCUlaq) | 4:00 | 2026-02-24 |  |
+| [アルデバラン](https://open.spotify.com/track/2nxeYMpGeXEGgebf3JJLBV) | [Mone Kamishiraishi](https://open.spotify.com/artist/68TWc4rraWK3C522KFdt0b) | [texte](https://open.spotify.com/album/7gAi50SKJ9bL2TXWgCUlaq) | 4:00 | 2026-02-24 | 2026-04-10 |
 | [アルペジオ](https://open.spotify.com/track/4up2QXTZwSP3bO0BWkaPLa) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [アルペジオ](https://open.spotify.com/album/1zEywdujyUL6V8iaLvulFq) | 4:11 | 2022-05-29 | 2022-07-23 |
 | [アロエ](https://open.spotify.com/track/2QsKN0rnY0IrCQqADA1rAu) | [Makoto Kawamoto](https://open.spotify.com/artist/2MF3aPE7iQsg8CtlBmHfjx) | [アロエ](https://open.spotify.com/album/4BYXAncC90yAyWSnNQ66Da) | 3:56 | 2023-08-15 | 2023-08-23 |
 | [アンサンブル・シャングリラ](https://open.spotify.com/track/3wfuoLZySEmh9ZYjeG49EF) | [Erika Ikuta](https://open.spotify.com/artist/1oFBCL5yLMgZBoXHsiE4JR) | [bitter candy](https://open.spotify.com/album/4waYOsYi3uKrkU5ayuIv1N) | 3:48 | 2025-03-04 | 2025-03-12 |
@@ -3247,6 +3247,7 @@
 | [愛シフト制;](https://open.spotify.com/track/3SHK9s9ywIHzJHP8bMuEIG) | [Pii](https://open.spotify.com/artist/2PSgWXYHWYU45JStIE38LH) | [愛シフト制;](https://open.spotify.com/album/6EgEIAXmX7pmRWXMNuRv6S) | 3:49 | 2025-04-22 | 2025-04-30 |
 | [愛哀](https://open.spotify.com/track/1jNX9JdSdlhqkmiIPBUii4) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [まだらもよう](https://open.spotify.com/album/0bamCeA6hehUk8NqStBL7k) | 3:47 | 2024-01-18 | 2024-01-20 |
 | [愛愛だな](https://open.spotify.com/track/0R8iqGwB3Pqm8B682EdFNo) | [みゆな](https://open.spotify.com/artist/2eg5oiMWKYEJ5vVwW1YFCC) | [愛愛だな](https://open.spotify.com/album/4nPK1HiNhDZnLL9XEGzZFJ) | 3:29 | 2022-10-11 | 2022-10-19 |
+| [愛晩餐](https://open.spotify.com/track/5WlQyOu63g9BMfNXb81xWq) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [愛晩餐](https://open.spotify.com/album/5wXOLbRU1CP6FHK8w6iWOM) | 3:05 | 2026-04-07 |  |
 | [愛楽](https://open.spotify.com/track/0hZJ3OSRzROihJiIT1Ag5g) | [Miliyah](https://open.spotify.com/artist/29D4iRqjepAsZt6o5hccND), [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [愛楽](https://open.spotify.com/album/3QHpefJMnL4LycnCqXYM3a) | 3:00 | 2024-10-22 | 2025-01-15 |
 | [愛浴びる](https://open.spotify.com/track/1pMWifOvrQ5DVqnIHCBUh3) | [Izumi Makura](https://open.spotify.com/artist/012ldd58H1N5UZLxjMzV29) | [愛浴びる](https://open.spotify.com/album/07OwU3Hy6GsnrkUgTkP3JA) | 3:16 | 2023-10-31 | 2023-11-08 |
 | [慟哭 \- Self Cover](https://open.spotify.com/track/0s3yfzHrDPX5SEIDdsJaaU) | [Shizuka Kudo](https://open.spotify.com/artist/7sU5H7XSVz0GC1RyM7jY2W) | [慟哭 \(Self Cover\)](https://open.spotify.com/album/0vkmeavv5B7HjXJKQBS2t7) | 5:12 | 2022-06-21 | 2022-07-19 |

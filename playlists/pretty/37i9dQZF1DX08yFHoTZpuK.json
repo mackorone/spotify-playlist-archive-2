@@ -1,6 +1,6 @@
 {
   "description": "Cutting-edge dance music emerging from Japan.",
-  "num_followers": 25565,
+  "num_followers": 25628,
   "original_name": "Tokyo Club Beat",
   "owner": {
     "name": "Spotify",
@@ -63,22 +63,18 @@
     {
       "added_at": "2026-04-08 03:59:06",
       "album": {
-        "name": "\u30bd\u30ea\u30c3\u30c9\u30fb\u30b9\u30c6\u30a4\u30c8\u30fb\u30b5\u30f4\u30a1\u30a4\u30f4\u30a1\u30fc",
-        "url": "https://open.spotify.com/album/4uBi6IKL7Wsz895MNmpbIU"
+        "name": "RESONATE",
+        "url": "https://open.spotify.com/album/2n6Qa6luOJMhzPIE30XmDR"
       },
       "artists": [
         {
-          "name": "YELLOW MAGIC ORCHESTRA",
-          "url": "https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE"
-        },
-        {
-          "name": "\u5409\u6ca2\u5178\u592b",
-          "url": "https://open.spotify.com/artist/1i8hb3SegIZOYl2av3jGSO"
+          "name": "Surya Hearts",
+          "url": "https://open.spotify.com/artist/5aCk9NvlEoOf1t18LKItin"
         }
       ],
-      "duration_ms": 266360,
-      "name": "RYDEEN",
-      "url": "https://open.spotify.com/track/248FNZNsD2V9zuWKnp4YJD"
+      "duration_ms": 175200,
+      "name": "RESONATE",
+      "url": "https://open.spotify.com/track/1mdRxbIa2bhGhx62PWxHK5"
     },
     {
       "added_at": "2026-04-08 03:59:06",
@@ -131,18 +127,22 @@
     {
       "added_at": "2026-04-08 03:59:06",
       "album": {
-        "name": "RESONATE",
-        "url": "https://open.spotify.com/album/2n6Qa6luOJMhzPIE30XmDR"
+        "name": "\u30bd\u30ea\u30c3\u30c9\u30fb\u30b9\u30c6\u30a4\u30c8\u30fb\u30b5\u30f4\u30a1\u30a4\u30f4\u30a1\u30fc",
+        "url": "https://open.spotify.com/album/4uBi6IKL7Wsz895MNmpbIU"
       },
       "artists": [
         {
-          "name": "Surya Hearts",
-          "url": "https://open.spotify.com/artist/5aCk9NvlEoOf1t18LKItin"
+          "name": "YELLOW MAGIC ORCHESTRA",
+          "url": "https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE"
+        },
+        {
+          "name": "\u5409\u6ca2\u5178\u592b",
+          "url": "https://open.spotify.com/artist/1i8hb3SegIZOYl2av3jGSO"
         }
       ],
-      "duration_ms": 175200,
-      "name": "RESONATE",
-      "url": "https://open.spotify.com/track/1mdRxbIa2bhGhx62PWxHK5"
+      "duration_ms": 266360,
+      "name": "RYDEEN",
+      "url": "https://open.spotify.com/track/248FNZNsD2V9zuWKnp4YJD"
     },
     {
       "added_at": "2026-04-08 03:59:06",
@@ -199,6 +199,22 @@
     {
       "added_at": "2026-04-08 03:59:06",
       "album": {
+        "name": "\u30d5\u30e9\u30ef\u30fc",
+        "url": "https://open.spotify.com/album/2EcW1SjKIISp8sZImkbFgu"
+      },
+      "artists": [
+        {
+          "name": "Lucky Kilimanjaro",
+          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
+        }
+      ],
+      "duration_ms": 287828,
+      "name": "\u30d5\u30e9\u30ef\u30fc",
+      "url": "https://open.spotify.com/track/3BF4RksNihC06UoqYi6hnq"
+    },
+    {
+      "added_at": "2026-04-08 03:59:06",
+      "album": {
         "name": "\u30bd\u30ea\u30c3\u30c9\u30fb\u30b9\u30c6\u30a4\u30c8\u30fb\u30b5\u30f4\u30a1\u30a4\u30f4\u30a1\u30fc",
         "url": "https://open.spotify.com/album/4uBi6IKL7Wsz895MNmpbIU"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 254960,
       "name": "TECHNOPOLIS",
       "url": "https://open.spotify.com/track/4NB8NwHewxGOPgjThiBnP0"
-    },
-    {
-      "added_at": "2026-04-08 03:59:06",
-      "album": {
-        "name": "\u30d5\u30e9\u30ef\u30fc",
-        "url": "https://open.spotify.com/album/2EcW1SjKIISp8sZImkbFgu"
-      },
-      "artists": [
-        {
-          "name": "Lucky Kilimanjaro",
-          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
-        }
-      ],
-      "duration_ms": 287828,
-      "name": "\u30d5\u30e9\u30ef\u30fc",
-      "url": "https://open.spotify.com/track/3BF4RksNihC06UoqYi6hnq"
     },
     {
       "added_at": "2026-04-08 03:59:06",
@@ -615,18 +615,34 @@
     {
       "added_at": "2026-04-08 03:59:06",
       "album": {
-        "name": "ALL HAZE",
-        "url": "https://open.spotify.com/album/6rQIB992oYHKN1TZvf1DsJ"
+        "name": "\u4e0d\u591c\u57ce - FUYAJO feat. Tyler Carter",
+        "url": "https://open.spotify.com/album/2HMM8JWRjH5ElRHJJ2pGoO"
       },
       "artists": [
         {
-          "name": "TESTSET",
-          "url": "https://open.spotify.com/artist/5yNHyOo143SXywbGvCAXhD"
+          "name": "TYT",
+          "url": "https://open.spotify.com/artist/2qtG3DmCMRD23hlbK1DdJw"
+        },
+        {
+          "name": "DJ TORA",
+          "url": "https://open.spotify.com/artist/3hBt6RvhQQlRIeDiNH2HeS"
+        },
+        {
+          "name": "YAKSA",
+          "url": "https://open.spotify.com/artist/74UHQxfQtHHY7FgP7qkRzR"
+        },
+        {
+          "name": "TJO",
+          "url": "https://open.spotify.com/artist/1VMMPq9feNkGKD1MUDsdXN"
+        },
+        {
+          "name": "Tyler Carter",
+          "url": "https://open.spotify.com/artist/4VCAHkdzvJBHJAcPyvWY5s"
         }
       ],
-      "duration_ms": 259400,
-      "name": "Dry Action Pump",
-      "url": "https://open.spotify.com/track/0nonTTE1UucPmcFJOyns1n"
+      "duration_ms": 238288,
+      "name": "\u4e0d\u591c\u57ce - FUYAJO feat. Tyler Carter",
+      "url": "https://open.spotify.com/track/7BCI2eDGqx0lzZbUc0hACt"
     },
     {
       "added_at": "2026-04-08 03:59:06",
@@ -679,34 +695,18 @@
     {
       "added_at": "2026-04-08 03:59:06",
       "album": {
-        "name": "\u4e0d\u591c\u57ce - FUYAJO feat. Tyler Carter",
-        "url": "https://open.spotify.com/album/2HMM8JWRjH5ElRHJJ2pGoO"
+        "name": "ALL HAZE",
+        "url": "https://open.spotify.com/album/6rQIB992oYHKN1TZvf1DsJ"
       },
       "artists": [
         {
-          "name": "TYT",
-          "url": "https://open.spotify.com/artist/2qtG3DmCMRD23hlbK1DdJw"
-        },
-        {
-          "name": "DJ TORA",
-          "url": "https://open.spotify.com/artist/3hBt6RvhQQlRIeDiNH2HeS"
-        },
-        {
-          "name": "YAKSA",
-          "url": "https://open.spotify.com/artist/74UHQxfQtHHY7FgP7qkRzR"
-        },
-        {
-          "name": "TJO",
-          "url": "https://open.spotify.com/artist/1VMMPq9feNkGKD1MUDsdXN"
-        },
-        {
-          "name": "Tyler Carter",
-          "url": "https://open.spotify.com/artist/4VCAHkdzvJBHJAcPyvWY5s"
+          "name": "TESTSET",
+          "url": "https://open.spotify.com/artist/5yNHyOo143SXywbGvCAXhD"
         }
       ],
-      "duration_ms": 238288,
-      "name": "\u4e0d\u591c\u57ce - FUYAJO feat. Tyler Carter",
-      "url": "https://open.spotify.com/track/7BCI2eDGqx0lzZbUc0hACt"
+      "duration_ms": 259400,
+      "name": "Dry Action Pump",
+      "url": "https://open.spotify.com/track/0nonTTE1UucPmcFJOyns1n"
     },
     {
       "added_at": "2026-04-08 03:59:06",
@@ -723,6 +723,50 @@
       "duration_ms": 361643,
       "name": "SWARMER",
       "url": "https://open.spotify.com/track/29YUKiGMxEvmtXml3egDpE"
+    },
+    {
+      "added_at": "2026-04-08 03:59:06",
+      "album": {
+        "name": "DOSHABURI (feat. JUMADIBA) [PAS TASTA Remix]",
+        "url": "https://open.spotify.com/album/7By1ykbXs5wNZ9VPty1ubR"
+      },
+      "artists": [
+        {
+          "name": "kZm",
+          "url": "https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4"
+        },
+        {
+          "name": "PAS TASTA",
+          "url": "https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS"
+        },
+        {
+          "name": "JUMADIBA",
+          "url": "https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj"
+        }
+      ],
+      "duration_ms": 178461,
+      "name": "DOSHABURI (feat. JUMADIBA) - PAS TASTA Remix",
+      "url": "https://open.spotify.com/track/60iwtXuUHtepUcIHXiSrfv"
+    },
+    {
+      "added_at": "2026-04-08 03:59:06",
+      "album": {
+        "name": "You Ain't My Friend",
+        "url": "https://open.spotify.com/album/1XyrELP834fbjigvHSIaEl"
+      },
+      "artists": [
+        {
+          "name": "Shinichi Osawa",
+          "url": "https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp"
+        },
+        {
+          "name": "RHYME",
+          "url": "https://open.spotify.com/artist/5soNcAUPxpWwipU594dlqZ"
+        }
+      ],
+      "duration_ms": 177386,
+      "name": "You Ain't My Friend",
+      "url": "https://open.spotify.com/track/2kW15aO83Ix1lFGreg9F7l"
     },
     {
       "added_at": "2026-04-08 03:59:06",
@@ -751,50 +795,6 @@
       "duration_ms": 232558,
       "name": "Life, Dream, Love",
       "url": "https://open.spotify.com/track/0M6Xd82gmkSV5dvA6Jht3r"
-    },
-    {
-      "added_at": "2026-04-08 03:59:06",
-      "album": {
-        "name": "You Ain't My Friend",
-        "url": "https://open.spotify.com/album/1XyrELP834fbjigvHSIaEl"
-      },
-      "artists": [
-        {
-          "name": "Shinichi Osawa",
-          "url": "https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp"
-        },
-        {
-          "name": "RHYME",
-          "url": "https://open.spotify.com/artist/5soNcAUPxpWwipU594dlqZ"
-        }
-      ],
-      "duration_ms": 177386,
-      "name": "You Ain't My Friend",
-      "url": "https://open.spotify.com/track/2kW15aO83Ix1lFGreg9F7l"
-    },
-    {
-      "added_at": "2026-04-08 03:59:06",
-      "album": {
-        "name": "DOSHABURI (feat. JUMADIBA) [PAS TASTA Remix]",
-        "url": "https://open.spotify.com/album/7By1ykbXs5wNZ9VPty1ubR"
-      },
-      "artists": [
-        {
-          "name": "kZm",
-          "url": "https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4"
-        },
-        {
-          "name": "PAS TASTA",
-          "url": "https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS"
-        },
-        {
-          "name": "JUMADIBA",
-          "url": "https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj"
-        }
-      ],
-      "duration_ms": 178461,
-      "name": "DOSHABURI (feat. JUMADIBA) - PAS TASTA Remix",
-      "url": "https://open.spotify.com/track/60iwtXuUHtepUcIHXiSrfv"
     },
     {
       "added_at": "2026-04-08 03:59:06",

@@ -445,6 +445,24 @@
     },
     {
       "album": {
+        "name": "Crisis Works",
+        "url": "https://open.spotify.com/album/6Ar0TDxTsq4Zmhb8SqPYkH"
+      },
+      "artists": [
+        {
+          "name": "Young Legionnaire",
+          "url": "https://open.spotify.com/artist/3yyJC6LNJPOJWyXXsbwwwO"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283946,
+      "name": "A Hole in the World",
+      "url": "https://open.spotify.com/track/7wmjZHxxrk7P98IkDRRZMY"
+    },
+    {
+      "album": {
         "name": "Strangeways, Here We Come",
         "url": "https://open.spotify.com/album/7jfexk2w5aDI25njkN0UGg"
       },
@@ -910,7 +928,7 @@
       ],
       "date_added": "2024-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 170840,
       "name": "Arguments (With Your Lover)",
       "url": "https://open.spotify.com/track/1pyCdRTRsUlFOLLh96SAbt"
@@ -2478,6 +2496,24 @@
       "duration_ms": 216550,
       "name": "Color",
       "url": "https://open.spotify.com/track/5V8lLeKit1JuKNBoT7luZz"
+    },
+    {
+      "album": {
+        "name": "Colossus\u200b/\u200bIron Dream",
+        "url": "https://open.spotify.com/album/1XUZZ3hNCkb5F0FPrmMAdJ"
+      },
+      "artists": [
+        {
+          "name": "Young Legionnaire",
+          "url": "https://open.spotify.com/artist/3yyJC6LNJPOJWyXXsbwwwO"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210840,
+      "name": "Colossus",
+      "url": "https://open.spotify.com/track/21CWJ0JUx9Z81rGbRNBaUu"
     },
     {
       "album": {
@@ -4258,7 +4294,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 235090,
       "name": "Gimme My Money",
       "url": "https://open.spotify.com/track/5HJMApQBAW2GxGfFmEUUbD"
@@ -5917,6 +5953,24 @@
     },
     {
       "album": {
+        "name": "Colossus\u200b/\u200bIron Dream",
+        "url": "https://open.spotify.com/album/1XUZZ3hNCkb5F0FPrmMAdJ"
+      },
+      "artists": [
+        {
+          "name": "Young Legionnaire",
+          "url": "https://open.spotify.com/artist/3yyJC6LNJPOJWyXXsbwwwO"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241147,
+      "name": "Iron Dream",
+      "url": "https://open.spotify.com/track/7vF5SP50NlQZlsqaEatj4V"
+    },
+    {
+      "album": {
         "name": "Louder Than Bombs",
         "url": "https://open.spotify.com/album/45StnugV9WQMQwk4rRoTy8"
       },
@@ -6916,6 +6970,24 @@
       "duration_ms": 260972,
       "name": "Like Eating Glass",
       "url": "https://open.spotify.com/track/0K3Xm2MeSXKbvydIJfTpuN"
+    },
+    {
+      "album": {
+        "name": "Currents B-Sides & Remixes",
+        "url": "https://open.spotify.com/album/04uXkrNhFJ1iWEo88MGPva"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279986,
+      "name": "List Of People (To Try And Forget About)",
+      "url": "https://open.spotify.com/track/01iiEi9h8CQGUN2K1xBbTj"
     },
     {
       "album": {
@@ -7964,6 +8036,24 @@
       "duration_ms": 231360,
       "name": "Naive",
       "url": "https://open.spotify.com/track/4OJqO2woMz6PpZDHxhuC9U"
+    },
+    {
+      "album": {
+        "name": "Currents",
+        "url": "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107533,
+      "name": "Nangs",
+      "url": "https://open.spotify.com/track/1cCbsojaA6GIT7Y3zuMJ1q"
     },
     {
       "album": {
@@ -9451,6 +9541,24 @@
     },
     {
       "album": {
+        "name": "Currents B-Sides & Remixes",
+        "url": "https://open.spotify.com/album/04uXkrNhFJ1iWEo88MGPva"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258706,
+      "name": "Powerlines",
+      "url": "https://open.spotify.com/track/7nmtH3cyqEmKz8F09V60yO"
+    },
+    {
+      "album": {
         "name": "Praise Jah In The Moonlight",
         "url": "https://open.spotify.com/album/3BicSFhksEP3QHanmBM1Wd"
       },
@@ -10760,7 +10868,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 259354,
       "name": "Some Things Are Never Gonna Change",
       "url": "https://open.spotify.com/track/0fmelRPNuTV1eq12ZqSNm7"
@@ -11894,6 +12002,24 @@
       "duration_ms": 302000,
       "name": "Taxidermy",
       "url": "https://open.spotify.com/track/3clRihex2OF0QQbLctftag"
+    },
+    {
+      "album": {
+        "name": "Currents B-Sides & Remixes",
+        "url": "https://open.spotify.com/album/04uXkrNhFJ1iWEo88MGPva"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287306,
+      "name": "Taxi\u2019s Here",
+      "url": "https://open.spotify.com/track/1T5tDibcj3AmFmPxYGm6vp"
     },
     {
       "album": {
@@ -14960,6 +15086,24 @@
       "duration_ms": 206954,
       "name": "Yeah, Yeah, Yeah",
       "url": "https://open.spotify.com/track/4I14CJDXKT5XrOF3bQiIM7"
+    },
+    {
+      "album": {
+        "name": "Currents",
+        "url": "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270680,
+      "name": "Yes I'm Changing",
+      "url": "https://open.spotify.com/track/0xtIp0lgccN85GfGOekS5L"
     },
     {
       "album": {

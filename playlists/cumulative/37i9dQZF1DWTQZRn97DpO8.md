@@ -2,9 +2,9 @@
 
 ### [le miel](https://open.spotify.com/playlist/37i9dQZF1DWTQZRn97DpO8)
 
-> 🍯🍯🍯<br/>Photo : Enchantée Julia
+> 🍯🍯🍯<br/>Photo : Nilusi x Anaïs Cardot
 
-561 songs - 1 day 3 hr 47 min
+563 songs - 1 day 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -364,7 +364,7 @@
 | [Nicotine](https://open.spotify.com/track/2FHTgcplTV6yL9UjlVtK3m) | [HVDDOCK](https://open.spotify.com/artist/2VIJqCnSUPFwbtL0S6mUvT) | [Nicotine](https://open.spotify.com/album/51dLyWAkyogvr1XM2GYrGI) | 2:34 | 2024-10-03 | 2025-01-10 |
 | [NLSM](https://open.spotify.com/track/1rjs9YCSrSSQoAmKNtnC0y) | [Ayelya](https://open.spotify.com/artist/0ivvGPySFFiWS9fpWJzc6c) | [NLSM](https://open.spotify.com/album/3xXgREhv7YglpAix0bTbFm) | 3:07 | 2023-10-26 | 2023-12-15 |
 | [noir](https://open.spotify.com/track/68GY3pIeYHDWdgouxq8LuU) | [Siyé](https://open.spotify.com/artist/0l4sh43GlADH6WxFw2iPwn) | [tachycardie](https://open.spotify.com/album/0Wvu81U6uotYl4ydRvdsPG) | 3:28 | 2025-05-22 | 2025-06-13 |
-| [Noir](https://open.spotify.com/track/2JgtUiRnw0aVu7qe0jDZC0) | [Thee Diane](https://open.spotify.com/artist/7DcE4JnEVxd3ZHlA5TVBK5) | [Bonjour \(Deluxe\)](https://open.spotify.com/album/4yKFiO4nMfDQ2BzBWlABsk) | 3:47 | 2026-03-12 |  |
+| [Noir](https://open.spotify.com/track/2JgtUiRnw0aVu7qe0jDZC0) | [Thee Diane](https://open.spotify.com/artist/7DcE4JnEVxd3ZHlA5TVBK5) | [Bonjour \(Deluxe\)](https://open.spotify.com/album/4yKFiO4nMfDQ2BzBWlABsk) | 3:47 | 2026-03-12 | 2026-04-10 |
 | [noir ou blanc](https://open.spotify.com/track/3xDsrgZ6bP09awnCVxcEMR) | [Dourack](https://open.spotify.com/artist/2NrT5l3aAO9s8l0BrlVyWh) | [Demain](https://open.spotify.com/album/0EcfEHzClA8kdEX7SWQE6s) | 3:12 | 2025-10-02 | 2025-11-14 |
 | [Nos plus beaux sourires](https://open.spotify.com/track/0J2nBxXaNo3bpNqLyLm3DL) | [ÉNAÉ](https://open.spotify.com/artist/41qDq9RL1JUO3WfBT1vjLM) | [Les Ailes](https://open.spotify.com/album/2tPBpoymoXMNmxmdKW2kyh) | 3:18 | 2025-02-13 | 2025-03-21 |
 | [Nous Deux](https://open.spotify.com/track/1Vr26bojJG8VZzg7JYql03) | [Arma Jackson](https://open.spotify.com/artist/22I8wvU1Zw6EMiOt4W98BN) | [Idéal](https://open.spotify.com/album/4cyrwuyOwNd6YHf3Gi2cI4) | 3:23 | 2023-09-28 | 2024-02-02 |
@@ -407,6 +407,7 @@
 | [Photoshop](https://open.spotify.com/track/26m1xQ0kBoSmO9PgdDFeJO) | [IPNDEGO](https://open.spotify.com/artist/1NnXEta54oioiS58v4Ahrj) | [Mocha Venti](https://open.spotify.com/album/0VJLc085rGD75EjFgylXeX) | 2:24 | 2023-11-09 | 2024-05-17 |
 | [Photoshop](https://open.spotify.com/track/6zeYQPjyzz82z3wGVzyPzE) | [IPNDEGO](https://open.spotify.com/artist/1NnXEta54oioiS58v4Ahrj) | [Mocha Venti](https://open.spotify.com/album/3ByHDNYa3Wp3ecUHYOd4ve) | 2:24 | 2024-01-25 | 2024-04-19 |
 | [Pillé mais pas détruit](https://open.spotify.com/track/1OUmNgT3puIVi0W1oR7tdY) | [MVRIE\-LOUISE](https://open.spotify.com/artist/6dUsCEhZwMaX18yAH6RGCD) | [Pillé mais pas détruit](https://open.spotify.com/album/2SqZvNnlQodarJJG10ZcBR) | 3:34 | 2025-01-23 | 2025-02-14 |
+| [Pink Martini](https://open.spotify.com/track/63WiPGyaKs04pDneEBPbHp) | [KIDDO](https://open.spotify.com/artist/7LdOJkDDYnHB6p4XnsA9QD) | [Pink Martini](https://open.spotify.com/album/05VS9tBZ6pHWi5AVzZpMAY) | 2:35 | 2026-04-09 |  |
 | [Pièce manquante](https://open.spotify.com/track/1vHJXlDR2BfMZ03LKPBk2T) | [Myra](https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE), [Ichon](https://open.spotify.com/artist/5MJkroCz5vy8h3LeDsN1vu) | [Pièce manquante](https://open.spotify.com/album/7kIDfBCTUUbJOoUSZJt7RC) | 2:57 | 2026-01-08 | 2026-04-03 |
 | [Piña Colada](https://open.spotify.com/track/2PSLcpysXnCNwCsf5WB5zz) | [Mee Shel](https://open.spotify.com/artist/0fYdXlJTAY0baUS0YoHfTH) | [Piña Colada](https://open.spotify.com/album/5i4zyH9dQFUPtSSmtdjTom) | 2:36 | 2024-08-29 | 2025-01-31 |
 | [Play it cool](https://open.spotify.com/track/2EwS9uABUpsp7DOixrGHDO) | [Sika Deva](https://open.spotify.com/artist/3UsIngEd65pVgWQpwNjvqu), [Olympe Chabert](https://open.spotify.com/artist/5vAhRi3Q9OFWN9C8pO3oTp) | [Play it cool](https://open.spotify.com/album/1u0OmGLwBKxErMKkiZQiUE) | 3:23 | 2024-07-18 | 2024-11-29 |
@@ -479,6 +480,7 @@
 | [Sexe & the city](https://open.spotify.com/track/7w3Oy2C0Sp4ymfEiv1dLbK) | [Jäde](https://open.spotify.com/artist/52CEzAtIDEJInO8yL0blFB) | [Sexe & the city](https://open.spotify.com/album/3XZvTKx5MxfalZwcJ3nECT) | 2:29 | 2025-11-20 | 2026-01-15 |
 | [Si J't'oubliais](https://open.spotify.com/track/0fML4zWjIwNwOOPtUZ3SBC) | [Mocaris](https://open.spotify.com/artist/5DpA6iFia7WBNhmj2M7q2j) | [Ginger Season](https://open.spotify.com/album/4kaZiL99Daa2VLA0VQl62o) | 3:46 | 2023-09-28 | 2024-02-16 |
 | [Si je reste](https://open.spotify.com/track/3CyZu7VYkNtU20zdqQqKBl) | [May Hi](https://open.spotify.com/artist/6M3tXpbSUNyON6g1O9fYDf) | [Si je reste](https://open.spotify.com/album/62vpOwtznSBvnBL7jd2rEA) | 3:00 | 2025-10-09 | 2025-11-07 |
+| [Si j’avais su](https://open.spotify.com/track/5XWWSnBxoSsFQbb0kpLjGQ) | [Ana](https://open.spotify.com/artist/2bvIIuEI2nMvfpTUIkbrYH) | [Si j’avais su](https://open.spotify.com/album/7icVd9EZl1GKAOYA7DgQTa) | 3:27 | 2026-04-09 |  |
 | [Si seulement](https://open.spotify.com/track/7dfIxgOs8OObrkQ9MBWpVD) | [Ruthee](https://open.spotify.com/artist/43Lkhar9oQ9sIpFXzwhe0T) | [Là où les Diamants brillent](https://open.spotify.com/album/6nef3YvZdsFaC6ldV2zSfL) | 2:40 | 2024-02-22 | 2025-02-14 |
 | [Si tu pars](https://open.spotify.com/track/5EYatzs16w3eKXKOpu2JXZ) | [Sev7en](https://open.spotify.com/artist/0XpWrR4q18M7bWY8Qp4jv9) | [Si tu pars](https://open.spotify.com/album/5czivpS2nr9ZpNeIsklBjl) | 2:56 | 2024-05-16 | 2024-07-19 |
 | [Si tu savais \- Version piano voix](https://open.spotify.com/track/26m32kQmTN4Tn8PNMnCuPK) | [Priscillia](https://open.spotify.com/artist/08BtABqyRZTgHfc97fVZrK), [Dawatcha](https://open.spotify.com/artist/5oMhDTLFrufyB6PWSaoSoy) | [Si tu savais \- Version piano voix](https://open.spotify.com/album/2Ou5MtDhBXmxXEEnkdmOGV) | 3:56 | 2025-02-06 | 2025-03-14 |
@@ -556,7 +558,7 @@
 | [Vide](https://open.spotify.com/track/14fGCCjD2CDIcS2DAIyBCj) | [Tizzy Miller](https://open.spotify.com/artist/4iTNjeINIl3PGMz8HI6Mdj) | [Vide](https://open.spotify.com/album/24IP5rWcn1SY1xhkEHBnOc) | 2:01 | 2024-06-27 | 2024-08-16 |
 | [Violence](https://open.spotify.com/track/5B6u3uSnl7aBwOrwpLxsMJ) | [Squidji](https://open.spotify.com/artist/15LZyW96TXq91lUBjMHQok) | [Jusqu'à l'aube](https://open.spotify.com/album/3cuZcv4o0IuNuxPBiq0axn) | 3:08 | 2023-09-28 | 2024-02-02 |
 | [Violence & Poésie](https://open.spotify.com/track/3yyGilBl0qbv0Sp2StCAC1) | [Siyé](https://open.spotify.com/artist/0l4sh43GlADH6WxFw2iPwn) | [Violence & Poésie](https://open.spotify.com/album/1ouOyVJEBm4gRkiWuZsbtv) | 3:25 | 2024-01-25 | 2024-03-29 |
-| [Vitesse](https://open.spotify.com/track/0OcskdiwseIYzc4OlPhl4U) | [Chloëmoi](https://open.spotify.com/artist/57E3qUdM1qRS3UGyxb8TSC) | [Vitesse](https://open.spotify.com/album/2AiOqUyJEEBSgo5l0eHy71) | 3:33 | 2026-02-19 |  |
+| [Vitesse](https://open.spotify.com/track/0OcskdiwseIYzc4OlPhl4U) | [Chloëmoi](https://open.spotify.com/artist/57E3qUdM1qRS3UGyxb8TSC) | [Vitesse](https://open.spotify.com/album/2AiOqUyJEEBSgo5l0eHy71) | 3:33 | 2026-02-19 | 2026-04-10 |
 | [Vœux](https://open.spotify.com/track/64MCBEC3CdR6a3OcdNj7dw) | [D'Orion](https://open.spotify.com/artist/0csAQTC43AL7SH64GJtE7d) | [Vœux](https://open.spotify.com/album/7cN18WXKIdsDizCN1Mz1K8) | 3:51 | 2026-01-22 | 2026-03-27 |
 | [WE CAN](https://open.spotify.com/track/0GjJBfMN2rTHz3deKa7SAR) | [Iris Aeria](https://open.spotify.com/artist/6oe0xpg0qCeA7ZuPHr4Arp) | [PLC](https://open.spotify.com/album/43ekkvxknlKfTwE019bzLb) | 2:40 | 2025-12-04 | 2026-01-30 |
 | [WHAT U WANT](https://open.spotify.com/track/3oq7NseaUAz0ek6gBRBLZp) | [Skuna](https://open.spotify.com/artist/0Su00YAdlLw2Aetn7RZLJj), [Fencyy](https://open.spotify.com/artist/4YjYNFa9MFvUthyS1uC5Jw) | [DBHZ](https://open.spotify.com/album/0KZvqSlLHthn3KroPEtob4) | 2:15 | 2024-11-07 | 2025-01-10 |

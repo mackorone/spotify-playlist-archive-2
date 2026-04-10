@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/53OigPFP7tBPmzkAH3n1rw.md) - [plain]
 
 > Listen to the Ginny &amp; Georgia Official Playlist\. <a href="https://www.netflix.com/title/81025696">Watch only on Netflix</a>
 
-[Netflix](https://open.spotify.com/user/netflixmusic) - 132,528 likes - 404 songs - 21 hr 17 min
+[Netflix](https://open.spotify.com/user/netflixmusic) - 132,516 likes - 404 songs - 21 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -227,7 +227,7 @@ pretty - [cumulative](/playlists/cumulative/53OigPFP7tBPmzkAH3n1rw.md) - [plain]
 | 217 | [I Can't Take It Anymore](https://open.spotify.com/track/5lgMrnMnaXNFgpUINU3UCB) | [The Hit Makers](https://open.spotify.com/artist/4t73NSz63209AGiQAwC9Jn) | [Doo\-Wop Classics Vol\. 3 \(Angle Tone Records\)](https://open.spotify.com/album/751zT7b260pulgIjJ9tXzC) | 2:40 |
 | 218 | [Something About You \(with Rudimental\)](https://open.spotify.com/track/3hYdai5p5sQ3vAmHQ6uaK6) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Something About You \(with Rudimental\)](https://open.spotify.com/album/0yFCgpwcC2AMcbEkRTgl31) | 3:23 |
 | 219 | [Deck The Halls](https://open.spotify.com/track/26spfGsaRpWNrhktAMsVpj) | [Caprice](https://open.spotify.com/artist/1Llk43w2zzETm0FibYGYCn) | [Deck The Halls](https://open.spotify.com/album/5XiLB6TXdnXVB6aZ0BLBV2) | 2:52 |
-| 220 | [The Thought of You](https://open.spotify.com/track/1Sii20LvlOANbMqLLZo7s4) | [LUWTEN](https://open.spotify.com/artist/4cm8GrJ4fx7P2h9shNhUia) | [Draft](https://open.spotify.com/album/6FDqYReDKdLxgoM6wC5oub) | 2:43 |
+| 220 | [The Thought of You](https://open.spotify.com/track/1Sii20LvlOANbMqLLZo7s4) | [Luwten](https://open.spotify.com/artist/4cm8GrJ4fx7P2h9shNhUia) | [Draft](https://open.spotify.com/album/6FDqYReDKdLxgoM6wC5oub) | 2:43 |
 | 221 | [I Never Get Tired of Xmas](https://open.spotify.com/track/33Hci8jSkSH8ZTw6ecsSYc) | [prod\. by Famous Friend](https://open.spotify.com/artist/3ASGgggg8Mg8kri5s7eOhx) | [I Never Get Tired of Xmas](https://open.spotify.com/album/2g6VOMzjRoMhZ7xqmHtA8w) | 2:20 |
 | 222 | [Wedding Shopping](https://open.spotify.com/track/4ApRjterLfURFrRggUazR3) | [Lili Haydn](https://open.spotify.com/artist/19wVkkHXBiTMrlEJ3vWKIm), [Ben Bromfield](https://open.spotify.com/artist/3hz2vronPvlcXVnUASpQlT) | [Ginny & Georgia: Season 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/02HsINt1u1cLio90RMpVJe) | 0:39 |
 | 223 | [Away In A Manger \(Ukulele Xmas\)](https://open.spotify.com/track/6FrfDwwS5Qzl43ONWpfy94) | [The Dayshift](https://open.spotify.com/artist/2U72zkP4NU5KqCSWuH3lyP) | [Ukulele Xmas](https://open.spotify.com/album/3d40UvYobSWMC6juLitwku) | 1:03 |

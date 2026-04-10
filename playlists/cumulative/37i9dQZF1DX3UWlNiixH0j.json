@@ -202,7 +202,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 456496,
       "name": "000",
       "url": "https://open.spotify.com/track/3BHKVnbJJ2ZpYDhvz5EvFF"
@@ -28984,6 +28984,24 @@
       "duration_ms": 174040,
       "name": "Seatango",
       "url": "https://open.spotify.com/track/51nYN6ODdXsTytciNYX4qy"
+    },
+    {
+      "album": {
+        "name": "1LDK",
+        "url": "https://open.spotify.com/album/1yOAFtL7Oh7ymsA3zj8zGL"
+      },
+      "artists": [
+        {
+          "name": "1LDK",
+          "url": "https://open.spotify.com/artist/1USj21nwWPxhGoXmQ3BkrF"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172379,
+      "name": "Second Choice",
+      "url": "https://open.spotify.com/track/26ep2tMoZo02kfIP8rAWfs"
     },
     {
       "album": {

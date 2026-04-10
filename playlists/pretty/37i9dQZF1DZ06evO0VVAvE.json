@@ -1,12 +1,12 @@
 {
   "description": "This is T.I BLAZE. The essential tracks, all in one playlist.",
-  "num_followers": 10064,
+  "num_followers": 10083,
   "original_name": "This Is T.I BLAZE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adRJAAAAAACa438LfFJAC8nU90ghkWNU",
+  "snapshot_id": "adWagAAAAADEs36+IKQ+UIKls977rwrG",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Try",
-        "url": "https://open.spotify.com/album/6CPueje2KqooPG806INnOW"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        }
-      ],
-      "duration_ms": 133773,
-      "name": "Try",
-      "url": "https://open.spotify.com/track/2P8GdpevIzNxDQWRtGgmYq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sometimes",
         "url": "https://open.spotify.com/album/1XsKZfYDE58uwXMoQJNtip"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 184894,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/172TikKKeEeGLMiHPdKR1J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Try",
+        "url": "https://open.spotify.com/album/6CPueje2KqooPG806INnOW"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "duration_ms": 133773,
+      "name": "Try",
+      "url": "https://open.spotify.com/track/2P8GdpevIzNxDQWRtGgmYq"
     },
     {
       "added_at": null,

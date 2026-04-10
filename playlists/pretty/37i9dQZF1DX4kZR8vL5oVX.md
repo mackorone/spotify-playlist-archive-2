@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 > Les femmes montent le son\. Playlist réalisée avec Lolo Zouaï \(du titre \#1 au \#16\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,690 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,694 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 49 | [ANNA](https://open.spotify.com/track/4VEhFPbBV8a7qqFA9xoQwQ) | [Jadanaë](https://open.spotify.com/artist/7qWpcLPHqE4eMj41jlOjvs) | [JADA SUNDÆY](https://open.spotify.com/album/0VlAOrwWL1jamVXnrl9LjZ) | 3:13 |
 | 50 | [Sinon rien](https://open.spotify.com/track/6tQMgq461dDsvSstb8rDMG) | [Elena Copsi](https://open.spotify.com/artist/5YafOG1cCGaf4dpzCNVPXm) | [Sinon rien](https://open.spotify.com/album/5CcBcnoMEb3rVQ5cUKCAc3) | 2:08 |
 
-Snapshot ID: `AAAAAKF4b/1atSjt7PZxdCtrx4vlNK2E`
+Snapshot ID: `AAAAAP22TADdyK0eEZ+DB77PDbyhiVcA`

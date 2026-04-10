@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: march-april 2026 (previous playlists archived on my profile)",
-  "num_followers": 24275,
+  "num_followers": 24274,
   "original_name": "home when you return",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAAOENXLoY7qwQ8x5JFYOheFcEZvAUbw",
+  "snapshot_id": "AAAOGUJrWN6wF3L/JLUXz6JzmXLuZyOp",
   "tracks": [
     {
       "added_at": "2026-03-12 17:07:42",
@@ -399,6 +399,126 @@
       "duration_ms": 233160,
       "name": "Falling In Love (Uh-Oh)",
       "url": "https://open.spotify.com/track/5jwoygernfGvAuIxFSqxHp"
+    },
+    {
+      "added_at": "2026-04-09 15:05:21",
+      "album": {
+        "name": "Mezzanine",
+        "url": "https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR"
+      },
+      "artists": [
+        {
+          "name": "Massive Attack",
+          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
+        }
+      ],
+      "duration_ms": 298826,
+      "name": "Risingson",
+      "url": "https://open.spotify.com/track/6ggJ6MceyHGWtUg1KLp3M1"
+    },
+    {
+      "added_at": "2026-04-09 15:05:21",
+      "album": {
+        "name": "Mezzanine",
+        "url": "https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR"
+      },
+      "artists": [
+        {
+          "name": "Massive Attack",
+          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
+        },
+        {
+          "name": "Horace Andy",
+          "url": "https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC"
+        }
+      ],
+      "duration_ms": 356266,
+      "name": "Man Next Door",
+      "url": "https://open.spotify.com/track/2Tz5THgkMOQeaW6DlqAlIa"
+    },
+    {
+      "added_at": "2026-04-09 15:05:21",
+      "album": {
+        "name": "Mezzanine",
+        "url": "https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR"
+      },
+      "artists": [
+        {
+          "name": "Massive Attack",
+          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
+        },
+        {
+          "name": "Elizabeth Fraser",
+          "url": "https://open.spotify.com/artist/791Z3924aa619hZ3xsOJEx"
+        }
+      ],
+      "duration_ms": 381666,
+      "name": "Black Milk",
+      "url": "https://open.spotify.com/track/1Rezzt36ybaT2ZbDZpv83D"
+    },
+    {
+      "added_at": "2026-04-09 15:17:27",
+      "album": {
+        "name": "The Glasgow School",
+        "url": "https://open.spotify.com/album/5WpiyA70GH7an5bBQyIv5o"
+      },
+      "artists": [
+        {
+          "name": "Orange Juice",
+          "url": "https://open.spotify.com/artist/2u7xZP39dtED9EuRX9MUwu"
+        }
+      ],
+      "duration_ms": 121186,
+      "name": "Moscow",
+      "url": "https://open.spotify.com/track/4jsk0M8Z8A7y7YmRFdz4Sv"
+    },
+    {
+      "added_at": "2026-04-09 16:17:08",
+      "album": {
+        "name": "Clues (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1pn4ocPNjqhiugDVFNFrSR"
+      },
+      "artists": [
+        {
+          "name": "Robert Palmer",
+          "url": "https://open.spotify.com/artist/530Sdm7eqqzWBdDmILMgnu"
+        }
+      ],
+      "duration_ms": 214640,
+      "name": "Woke Up Laughing",
+      "url": "https://open.spotify.com/track/2bhHZqQ2TIeSC5WpJKjGDF"
+    },
+    {
+      "added_at": "2026-04-09 16:43:32",
+      "album": {
+        "name": "Poetic Champions Compose",
+        "url": "https://open.spotify.com/album/38hOhXB3SzolmArtNzZxCE"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "duration_ms": 297055,
+      "name": "Queen of the Slipstream",
+      "url": "https://open.spotify.com/track/61FvI5bYYj6wBpUKR8GMh2"
+    },
+    {
+      "added_at": "2026-04-09 17:49:24",
+      "album": {
+        "name": "Nebraska",
+        "url": "https://open.spotify.com/album/6yskFQZNlLYhkchAxELHi6"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 197066,
+      "name": "State Trooper",
+      "url": "https://open.spotify.com/track/1Ulh5rWbhhV3PltDadTBZC"
     }
   ],
   "unique_name": "home when you return",

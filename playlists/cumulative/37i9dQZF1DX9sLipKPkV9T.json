@@ -4555,6 +4555,32 @@
     },
     {
       "album": {
+        "name": "\u05d4\u05d9\u05d9\u05ea\u05d9 \u05e0\u05e2\u05e8",
+        "url": "https://open.spotify.com/album/3dQanWnZAnj3QRL9bLqSc7"
+      },
+      "artists": [
+        {
+          "name": "Jimbo J",
+          "url": "https://open.spotify.com/artist/6ltKIf1bortd0DQbpgKdQu"
+        },
+        {
+          "name": "Nunu",
+          "url": "https://open.spotify.com/artist/0wJDdyoTfE5SuqPNFvi2lG"
+        },
+        {
+          "name": "\u05db\u05d0\u05df \u05d2\u05d9\u05de\u05dc",
+          "url": "https://open.spotify.com/artist/4WQlIWFXTbWSeWLfEqXYhx"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "\u05d4\u05d9\u05d9\u05ea\u05d9 \u05e0\u05e2\u05e8",
+      "url": "https://open.spotify.com/track/0CkLBzuD4HI9eWnT9BwKoz"
+    },
+    {
+      "album": {
         "name": "\u05d4\u05d9\u05dc\u05d3 \u05e2\u05dd \u05d4\u05d1\u05d5\u05d2\u05d9",
         "url": "https://open.spotify.com/album/7pZSpJno5zaJ37bXjE15C5"
       },
@@ -4718,6 +4744,28 @@
       "duration_ms": 190033,
       "name": "\u05d4\u05dc\u05d1 \u05d4\u05e9\u05d1\u05d5\u05e8 \u05d4\u05db\u05d9 \u05d9\u05e4\u05d4 \u05d1\u05e2\u05d5\u05dc\u05dd",
       "url": "https://open.spotify.com/track/108xP1X8ck9ObqaDvfhs49"
+    },
+    {
+      "album": {
+        "name": "\u05d4\u05dc\u05d5\u05d5\u05d0\u05d9",
+        "url": "https://open.spotify.com/album/2NxRJboinERkx6D6k675Ei"
+      },
+      "artists": [
+        {
+          "name": "\u05e4\u05d0\u05e8 \u05d8\u05e1\u05d9",
+          "url": "https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs"
+        },
+        {
+          "name": "\u05d7\u05e0\u05df \u05d1\u05df \u05d0\u05e8\u05d9",
+          "url": "https://open.spotify.com/artist/343YYaA5MSjiZZ5cGyTr4u"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229166,
+      "name": "\u05d4\u05dc\u05d5\u05d5\u05d0\u05d9",
+      "url": "https://open.spotify.com/track/6MwsuFL115vgX9mCHlTZyU"
     },
     {
       "album": {
@@ -6834,7 +6882,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 198504,
       "name": "\u05dc\u05d1\u05df \u05d1\u05d6\u05e7\u05df",
       "url": "https://open.spotify.com/track/5R6UIZzKYG6eKcyBPiTuOC"
@@ -7662,7 +7710,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 200153,
       "name": "\u05de\u05d4 \u05e2\u05d5\u05e9\u05d9\u05dd \u05d1\u05dc\u05d9\u05dc\u05d5\u05ea",
       "url": "https://open.spotify.com/track/6CnqHrloJmbpNiL3v9EO9C"
@@ -10424,7 +10472,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 258813,
       "name": "\u05e7\u05d9\u05e4\u05d5\u05d3",
       "url": "https://open.spotify.com/track/6kNH0S4DfMYr1tSMKFykot"
@@ -11490,6 +11538,24 @@
       "duration_ms": 138912,
       "name": "\u2060\u05dc\u05d0 \u05db\u05d5\u05e2\u05e1\u05ea",
       "url": "https://open.spotify.com/track/0YXUNdW6mAhIo5Bf8CA1ic"
+    },
+    {
+      "album": {
+        "name": "\u05dc\u05d1\u05d3 \u05dc\u05d1\u05d3 \u05dc\u05d1\u05d3",
+        "url": "https://open.spotify.com/album/03gtELk1zfqx6Ir8IGKl4R"
+      },
+      "artists": [
+        {
+          "name": "Netta",
+          "url": "https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207818,
+      "name": "\u2060\u05dc\u05d1\u05d3 \u05dc\u05d1\u05d3 \u05dc\u05d1\u05d3",
+      "url": "https://open.spotify.com/track/2c8IcW6lgzpTXBGv7AVj7x"
     },
     {
       "album": {

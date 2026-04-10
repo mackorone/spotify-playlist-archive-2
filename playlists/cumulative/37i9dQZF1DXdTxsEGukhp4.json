@@ -5659,6 +5659,24 @@
     },
     {
       "album": {
+        "name": "SWEET STEP",
+        "url": "https://open.spotify.com/album/5wovGLGVXOz9b0yRVqszEL"
+      },
+      "artists": [
+        {
+          "name": "SWEET STEADY",
+          "url": "https://open.spotify.com/artist/1UyIqMBjk0DMexWtQF2X1i"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163124,
+      "name": "SWEET STEP",
+      "url": "https://open.spotify.com/track/1tZ8w3UVU4KbABQArIlUmk"
+    },
+    {
+      "album": {
         "name": "23-Spring",
         "url": "https://open.spotify.com/album/7JNO5AFNE0ISRSDUDQqRCl"
       },
@@ -7660,7 +7678,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 198440,
       "name": "\u30a4\u30a4\u3058\u3083\u3093",
       "url": "https://open.spotify.com/track/4FuK1Rt4Ug1PXKNFvFaHaO"

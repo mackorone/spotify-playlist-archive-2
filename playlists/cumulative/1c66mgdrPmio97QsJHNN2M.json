@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "2000's Fling",
+        "url": "https://open.spotify.com/album/2eXXXzYz1OEbbWmKs9H5bR"
+      },
+      "artists": [
+        {
+          "name": "Puri",
+          "url": "https://open.spotify.com/artist/66Fil4hOah2YFjf7HRBRGz"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140479,
+      "name": "2000's Fling",
+      "url": "https://open.spotify.com/track/4q4uAxGOfmpLSUck0pnKuy"
+    },
+    {
+      "album": {
         "name": "Ambient Darkness",
         "url": "https://open.spotify.com/album/2qGhUp8s8keuGo985t52Xd"
       },
@@ -2402,7 +2420,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 203592,
       "name": "Banshee",
       "url": "https://open.spotify.com/track/1z8QyctVlsiXRwOGF0hwA1"
@@ -6008,7 +6026,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 182343,
       "name": "Devil Stole (My Baby's Ring)",
       "url": "https://open.spotify.com/track/35xv5IrxiamjMV0e7A8Bsw"
@@ -6044,7 +6062,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 196388,
       "name": "Did I Do Something Wrong?",
       "url": "https://open.spotify.com/track/6WuatAimXNoHVnkZ2zEMOS"
@@ -8336,7 +8354,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 182405,
       "name": "Far Away",
       "url": "https://open.spotify.com/track/7uHtjq4eaNN51uld8TXTbk"
@@ -8462,7 +8480,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 157081,
       "name": "Feel My Love",
       "url": "https://open.spotify.com/track/6Q7Qi2G6YuSld44zK0UcUW"
@@ -9178,6 +9196,28 @@
       "duration_ms": 169600,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/49MO56FpFGj56tR8SAYIGo"
+    },
+    {
+      "album": {
+        "name": "Forget Me",
+        "url": "https://open.spotify.com/album/4RPudNOIrYBon86pxYzM9R"
+      },
+      "artists": [
+        {
+          "name": "Patrick Thomas",
+          "url": "https://open.spotify.com/artist/4XoQlBAwtqZx9FI5QCmJrK"
+        },
+        {
+          "name": "Ellie Gadzos",
+          "url": "https://open.spotify.com/artist/3Y5i9kVVvtNvVOY7s3J2Ga"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172522,
+      "name": "Forget Me",
+      "url": "https://open.spotify.com/track/49WI8clmvC3KjoI1RkyUcB"
     },
     {
       "album": {
@@ -10554,7 +10594,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 176100,
       "name": "Happy Ending",
       "url": "https://open.spotify.com/track/7EJijescqnXIHbTOJXPQsn"
@@ -13303,6 +13343,24 @@
     },
     {
       "album": {
+        "name": "Jane",
+        "url": "https://open.spotify.com/album/3McsECnITe5RZAbrBHn36C"
+      },
+      "artists": [
+        {
+          "name": "Lunar Chain",
+          "url": "https://open.spotify.com/artist/6esnKS6lev7QYCZAL0y8bW"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181593,
+      "name": "Jane",
+      "url": "https://open.spotify.com/track/4XedfQTRrrkH48buhGSbFd"
+    },
+    {
+      "album": {
         "name": "January Feels Like June",
         "url": "https://open.spotify.com/album/3ARMlXwlx4wcxQMPae2GUD"
       },
@@ -14534,7 +14592,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 167159,
       "name": "Like This",
       "url": "https://open.spotify.com/track/1OG7CqG33ORAV2y5RSUpGF"
@@ -16876,7 +16934,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 227213,
       "name": "Muon",
       "url": "https://open.spotify.com/track/1HOsEYLpPqcNUwrHQlVOya"
@@ -19425,6 +19483,24 @@
     },
     {
       "album": {
+        "name": "Paths",
+        "url": "https://open.spotify.com/album/654YEtbW0MTKNpHJnsIMDw"
+      },
+      "artists": [
+        {
+          "name": "Labrador",
+          "url": "https://open.spotify.com/artist/31abetymAag6zC0WF5NsO5"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275031,
+      "name": "Paths",
+      "url": "https://open.spotify.com/track/1zVtRgcHEpuUjfSYPPvAFp"
+    },
+    {
+      "album": {
         "name": "Doomsday Play",
         "url": "https://open.spotify.com/album/4tdrdlT1zWjyXlvO477F0n"
       },
@@ -20072,6 +20148,24 @@
       "duration_ms": 201608,
       "name": "Pretty Good Plan",
       "url": "https://open.spotify.com/track/5pCvRCVnyvkOAH4fEpGsmn"
+    },
+    {
+      "album": {
+        "name": "Pretty Little Disaster",
+        "url": "https://open.spotify.com/album/5e4QDCL1NS5vXGbYV2PBZa"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Belle",
+          "url": "https://open.spotify.com/artist/25mq1k9LZ2ziRtCy1mBVWS"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166452,
+      "name": "Pretty Little Disaster",
+      "url": "https://open.spotify.com/track/71BY3wa9nvJ3voyfEPd2dV"
     },
     {
       "album": {
@@ -21151,6 +21245,24 @@
     },
     {
       "album": {
+        "name": "rich",
+        "url": "https://open.spotify.com/album/4Uuh0wxaz9rFHL1rqAAbk2"
+      },
+      "artists": [
+        {
+          "name": "Connie May",
+          "url": "https://open.spotify.com/artist/7EPGDAVhbn2cuiKu1aL6Yk"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144642,
+      "name": "rich",
+      "url": "https://open.spotify.com/track/1t6S0iOP9dNYqDeDEEHg5c"
+    },
+    {
+      "album": {
         "name": "Ride",
         "url": "https://open.spotify.com/album/20Ps3FwM4KD8BGNjy4DG3U"
       },
@@ -21448,6 +21560,24 @@
       "duration_ms": 101108,
       "name": "rreeaasssuurraannccee",
       "url": "https://open.spotify.com/track/7bfKOCRcb1OR73KzgBbB6m"
+    },
+    {
+      "album": {
+        "name": "Run away",
+        "url": "https://open.spotify.com/album/2rsLIZcRDk7G3B6UIEtt6M"
+      },
+      "artists": [
+        {
+          "name": "AILEX",
+          "url": "https://open.spotify.com/artist/74xdDdsFQZWsje0e2840Y7"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168167,
+      "name": "Run away",
+      "url": "https://open.spotify.com/track/3MMWYNw86r00wkk7smvoM1"
     },
     {
       "album": {
@@ -22680,7 +22810,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 138654,
       "name": "Six Years",
       "url": "https://open.spotify.com/track/2oKwFFkRhsqN2Ja8BZ0io7"
@@ -22970,6 +23100,24 @@
       "duration_ms": 111000,
       "name": "So high",
       "url": "https://open.spotify.com/track/0VqDc00khQM0Ank1hBXRq0"
+    },
+    {
+      "album": {
+        "name": "So Long Juliet",
+        "url": "https://open.spotify.com/album/6wlz9JE6JcB9CtABh4cdMF"
+      },
+      "artists": [
+        {
+          "name": "GHOST PURPLE",
+          "url": "https://open.spotify.com/artist/1zI9DQR0RwGTkxVessv2S9"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "So Long Juliet",
+      "url": "https://open.spotify.com/track/7t3j91VsPX4avsQNhSsZfo"
     },
     {
       "album": {
@@ -24420,7 +24568,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 190000,
       "name": "take back.",
       "url": "https://open.spotify.com/track/6nze64HGdMtJ4ZrRSxMFS4"
@@ -25876,7 +26024,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 156867,
       "name": "There for you",
       "url": "https://open.spotify.com/track/1d3q4yTBge6xDl4T73iCAz"
@@ -26146,7 +26294,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 188708,
       "name": "Through This Bed",
       "url": "https://open.spotify.com/track/6ENbmiuCJAr1OW3DYPYz2J"
@@ -27250,7 +27398,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 123076,
       "name": "Validation",
       "url": "https://open.spotify.com/track/6N64hpF7BTToaqFHLJ32nH"
@@ -27268,7 +27416,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 183797,
       "name": "Vanity Fair",
       "url": "https://open.spotify.com/track/7HKOFqbMOZUTUuBcFLLtNV"
@@ -27308,6 +27456,24 @@
       "duration_ms": 161639,
       "name": "Vatinicari",
       "url": "https://open.spotify.com/track/1zesWIxUfKjci0Hq2elEeX"
+    },
+    {
+      "album": {
+        "name": "Velvet Sakura",
+        "url": "https://open.spotify.com/album/627TZfgna8qRJoYumToUXi"
+      },
+      "artists": [
+        {
+          "name": "Everly Kane",
+          "url": "https://open.spotify.com/artist/2RL6ONY8kXLnbe56epjSgb"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "Velvet Sakura",
+      "url": "https://open.spotify.com/track/5BCtIblgkKPgIblv6uyzRb"
     },
     {
       "album": {

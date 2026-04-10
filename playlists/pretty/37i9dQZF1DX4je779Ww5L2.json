@@ -1,6 +1,6 @@
 {
   "description": "de sfeer van 6 uur in de ochtend in de buitenlucht",
-  "num_followers": 191040,
+  "num_followers": 191031,
   "original_name": "rustig aan",
   "owner": {
     "name": "Spotify",
@@ -175,22 +175,6 @@
     {
       "added_at": "2026-04-02 22:00:57",
       "album": {
-        "name": "Homerun 2021",
-        "url": "https://open.spotify.com/album/3eso9JkXxZyMBrjzUbsBxR"
-      },
-      "artists": [
-        {
-          "name": "Jonah Yano",
-          "url": "https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ"
-        }
-      ],
-      "duration_ms": 201666,
-      "name": "Homerun 2021",
-      "url": "https://open.spotify.com/track/4JZSfAfaOHxDOqVo76l2KL"
-    },
-    {
-      "added_at": "2026-04-02 22:00:57",
-      "album": {
         "name": "For Mary",
         "url": "https://open.spotify.com/album/0VjLyzT1oN7aQqdkazdPCh"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 263422,
       "name": "Only You",
       "url": "https://open.spotify.com/track/49VfcjjkNQA822cDE1r5iy"
+    },
+    {
+      "added_at": "2026-04-02 22:00:57",
+      "album": {
+        "name": "Homerun 2021",
+        "url": "https://open.spotify.com/album/3eso9JkXxZyMBrjzUbsBxR"
+      },
+      "artists": [
+        {
+          "name": "Jonah Yano",
+          "url": "https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ"
+        }
+      ],
+      "duration_ms": 201666,
+      "name": "Homerun 2021",
+      "url": "https://open.spotify.com/track/4JZSfAfaOHxDOqVo76l2KL"
     },
     {
       "added_at": "2026-04-02 22:00:57",
@@ -307,22 +307,6 @@
     {
       "added_at": "2026-04-02 22:00:57",
       "album": {
-        "name": "The Joy of Coincidences",
-        "url": "https://open.spotify.com/album/4c2E4n34cBqGr2kVzSmDD6"
-      },
-      "artists": [
-        {
-          "name": "Bianca Steck",
-          "url": "https://open.spotify.com/artist/1Ej7cHu5IXgMuHaz6mLesJ"
-        }
-      ],
-      "duration_ms": 200260,
-      "name": "Strange Rooms",
-      "url": "https://open.spotify.com/track/2I5r34P8jfleAwAGOLaHbY"
-    },
-    {
-      "added_at": "2026-04-02 22:00:57",
-      "album": {
         "name": "Leap Year",
         "url": "https://open.spotify.com/album/2qiB8YSEJw27QY68Pyx1uO"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 345040,
       "name": "Leap Year",
       "url": "https://open.spotify.com/track/5G6sgBzBCmZKeCg0R2x67t"
+    },
+    {
+      "added_at": "2026-04-02 22:00:57",
+      "album": {
+        "name": "The Joy of Coincidences",
+        "url": "https://open.spotify.com/album/4c2E4n34cBqGr2kVzSmDD6"
+      },
+      "artists": [
+        {
+          "name": "Bianca Steck",
+          "url": "https://open.spotify.com/artist/1Ej7cHu5IXgMuHaz6mLesJ"
+        }
+      ],
+      "duration_ms": 200260,
+      "name": "Strange Rooms",
+      "url": "https://open.spotify.com/track/2I5r34P8jfleAwAGOLaHbY"
     },
     {
       "added_at": "2026-04-02 22:00:57",
@@ -623,22 +623,6 @@
     {
       "added_at": "2026-04-02 22:00:57",
       "album": {
-        "name": "Shape Of The Dunes",
-        "url": "https://open.spotify.com/album/0iJBWKAPrHKMncHoYuGwPe"
-      },
-      "artists": [
-        {
-          "name": "Liza Weald",
-          "url": "https://open.spotify.com/artist/4pE0J1Lxb3hXti8fOrmt9C"
-        }
-      ],
-      "duration_ms": 193445,
-      "name": "Shape Of The Dunes",
-      "url": "https://open.spotify.com/track/3O5ryOKDo5ua9qQgFZxRe9"
-    },
-    {
-      "added_at": "2026-04-02 22:00:57",
-      "album": {
         "name": "Richardson (feat. Cassandra Jenkins)",
         "url": "https://open.spotify.com/album/72T10FajAmf5Wu0M9scOpp"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 224093,
       "name": "Richardson - feat. Cassandra Jenkins",
       "url": "https://open.spotify.com/track/4Jrstw4tzEoFCE5hZMug96"
+    },
+    {
+      "added_at": "2026-04-02 22:00:57",
+      "album": {
+        "name": "Shape Of The Dunes",
+        "url": "https://open.spotify.com/album/0iJBWKAPrHKMncHoYuGwPe"
+      },
+      "artists": [
+        {
+          "name": "Liza Weald",
+          "url": "https://open.spotify.com/artist/4pE0J1Lxb3hXti8fOrmt9C"
+        }
+      ],
+      "duration_ms": 193445,
+      "name": "Shape Of The Dunes",
+      "url": "https://open.spotify.com/track/3O5ryOKDo5ua9qQgFZxRe9"
     },
     {
       "added_at": "2026-04-02 22:00:57",
@@ -755,18 +755,18 @@
     {
       "added_at": "2026-04-02 22:00:57",
       "album": {
-        "name": "Wolves EP",
-        "url": "https://open.spotify.com/album/0bxlRfsXldvLDC0RxGkfd7"
+        "name": "Never Again",
+        "url": "https://open.spotify.com/album/4ThezZScitRuZONCfkJewe"
       },
       "artists": [
         {
-          "name": "Hydrogen Sea",
-          "url": "https://open.spotify.com/artist/5MdGszDt9p0CjdUYOidTBH"
+          "name": "Thomas Azier",
+          "url": "https://open.spotify.com/artist/6AE7CSJUwDMnTXV4yKVLLv"
         }
       ],
-      "duration_ms": 146786,
-      "name": "Birds Of Paradise",
-      "url": "https://open.spotify.com/track/5y3rW5XMct8Rp1P0iRCuTj"
+      "duration_ms": 172920,
+      "name": "Never Again",
+      "url": "https://open.spotify.com/track/0KwMTCtE9g1K3e6VoOjf0A"
     },
     {
       "added_at": "2026-04-02 22:00:57",
@@ -787,18 +787,18 @@
     {
       "added_at": "2026-04-02 22:00:57",
       "album": {
-        "name": "Never Again",
-        "url": "https://open.spotify.com/album/4ThezZScitRuZONCfkJewe"
+        "name": "Wolves EP",
+        "url": "https://open.spotify.com/album/0bxlRfsXldvLDC0RxGkfd7"
       },
       "artists": [
         {
-          "name": "Thomas Azier",
-          "url": "https://open.spotify.com/artist/6AE7CSJUwDMnTXV4yKVLLv"
+          "name": "Hydrogen Sea",
+          "url": "https://open.spotify.com/artist/5MdGszDt9p0CjdUYOidTBH"
         }
       ],
-      "duration_ms": 172920,
-      "name": "Never Again",
-      "url": "https://open.spotify.com/track/0KwMTCtE9g1K3e6VoOjf0A"
+      "duration_ms": 146786,
+      "name": "Birds Of Paradise",
+      "url": "https://open.spotify.com/track/5y3rW5XMct8Rp1P0iRCuTj"
     },
     {
       "added_at": "2026-04-02 22:00:57",
@@ -959,22 +959,6 @@
     {
       "added_at": "2026-04-02 22:00:57",
       "album": {
-        "name": "Mother",
-        "url": "https://open.spotify.com/album/3XMCVhIHXHKrKaI2YL88Qy"
-      },
-      "artists": [
-        {
-          "name": "Sam De Nef",
-          "url": "https://open.spotify.com/artist/2rAloVqbj3g1s6Pvs7gRno"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Mother",
-      "url": "https://open.spotify.com/track/5DRhpU3EnIGQFqyUCNBHZP"
-    },
-    {
-      "added_at": "2026-04-02 22:00:57",
-      "album": {
         "name": "My Child, My Friend - Anchor",
         "url": "https://open.spotify.com/album/63nOrTo9E93yU00AZvnCLD"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 152146,
       "name": "My Child, My Friend",
       "url": "https://open.spotify.com/track/4fJ1qHYvlGZVtCWkIbO7hQ"
+    },
+    {
+      "added_at": "2026-04-02 22:00:57",
+      "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/3XMCVhIHXHKrKaI2YL88Qy"
+      },
+      "artists": [
+        {
+          "name": "Sam De Nef",
+          "url": "https://open.spotify.com/artist/2rAloVqbj3g1s6Pvs7gRno"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Mother",
+      "url": "https://open.spotify.com/track/5DRhpU3EnIGQFqyUCNBHZP"
     },
     {
       "added_at": "2026-04-02 22:00:57",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2026-04-02 22:00:57",
       "album": {
-        "name": "Bleeding Colours",
-        "url": "https://open.spotify.com/album/7sfZa50WlIFYIYaCICcrF6"
-      },
-      "artists": [
-        {
-          "name": "Benni",
-          "url": "https://open.spotify.com/artist/331VAK6qkIiNdWoE2BGFWq"
-        }
-      ],
-      "duration_ms": 220543,
-      "name": "You",
-      "url": "https://open.spotify.com/track/4iyMFaZq5EYehqeZo0VPhJ"
-    },
-    {
-      "added_at": "2026-04-02 22:00:57",
-      "album": {
         "name": "Leaving - Reminisce",
         "url": "https://open.spotify.com/album/2R1cDeLDQthyEMIlSZnPiZ"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 274719,
       "name": "Getting Up",
       "url": "https://open.spotify.com/track/1JVFosBNwHoMJayaSG3wra"
+    },
+    {
+      "added_at": "2026-04-02 22:00:57",
+      "album": {
+        "name": "Bleeding Colours",
+        "url": "https://open.spotify.com/album/7sfZa50WlIFYIYaCICcrF6"
+      },
+      "artists": [
+        {
+          "name": "Benni",
+          "url": "https://open.spotify.com/artist/331VAK6qkIiNdWoE2BGFWq"
+        }
+      ],
+      "duration_ms": 220543,
+      "name": "You",
+      "url": "https://open.spotify.com/track/4iyMFaZq5EYehqeZo0VPhJ"
     },
     {
       "added_at": "2026-04-02 22:00:57",
@@ -1484,7 +1484,7 @@
           "url": "https://open.spotify.com/artist/1cvKyOKTQeG0sEHhkyz99S"
         },
         {
-          "name": "LUWTEN",
+          "name": "Luwten",
           "url": "https://open.spotify.com/artist/4cm8GrJ4fx7P2h9shNhUia"
         }
       ],

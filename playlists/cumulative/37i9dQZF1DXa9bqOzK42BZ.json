@@ -2599,6 +2599,40 @@
     },
     {
       "album": {
+        "name": "Moyo Wangu Tulia (feat. Lydia Nzale, Irene Ezekiel, Hadia Komz & Jackie Edith)",
+        "url": "https://open.spotify.com/album/6O0TmwVQb2ak4xmO6D9Hb3"
+      },
+      "artists": [
+        {
+          "name": "Boss MOG",
+          "url": "https://open.spotify.com/artist/5bymobnzzgQnuh60dY84Ie"
+        },
+        {
+          "name": "Lydia Nzale",
+          "url": "https://open.spotify.com/artist/7GgpEk927K6DNwAV2S5Cmt"
+        },
+        {
+          "name": "Irene Ezekiel",
+          "url": "https://open.spotify.com/artist/6sMpXHs1ySmIwuASuFPJDX"
+        },
+        {
+          "name": "Hadia Komz",
+          "url": "https://open.spotify.com/artist/4Qt8QpjrguN13aKGyEe8oZ"
+        },
+        {
+          "name": "Jackie Edith",
+          "url": "https://open.spotify.com/artist/6SGl8GR1pfa28pQ7N02dyd"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217659,
+      "name": "Moyo Wangu Tulia",
+      "url": "https://open.spotify.com/track/440P05rOe8Kcfqxctuzgo7"
+    },
+    {
+      "album": {
         "name": "Moyoni",
         "url": "https://open.spotify.com/album/3qahfDTvESpoSNZs25e4LY"
       },
@@ -4052,6 +4086,28 @@
       "duration_ms": 175000,
       "name": "Oluwa",
       "url": "https://open.spotify.com/track/28YZkqInvmqbK711J1xVeZ"
+    },
+    {
+      "album": {
+        "name": "On My Side",
+        "url": "https://open.spotify.com/album/12Deo2LFnqLJi3moK7Cd0g"
+      },
+      "artists": [
+        {
+          "name": "De Stanley Brothers",
+          "url": "https://open.spotify.com/artist/5QcpMCOrA4nVxileunNZD3"
+        },
+        {
+          "name": "Jennifer Ahonen",
+          "url": "https://open.spotify.com/artist/2qDngxRoJC05fBkcOhDyq9"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "On My Side",
+      "url": "https://open.spotify.com/track/3nfgmQb4m4oHcgbRqqNhuQ"
     },
     {
       "album": {

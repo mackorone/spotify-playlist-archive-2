@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,235 songs - 3 day 3 hr 51 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,252 songs - 3 day 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1243,5 +1243,22 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 1233 | [THIS ONE HERE](https://open.spotify.com/track/7uGrdyEErKPSA3oiJQHxQ6) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ye](https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq) | [BULLY](https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS) | 3:01 |
 | 1234 | [Tommy's Party](https://open.spotify.com/track/5OuJTtNve7FxUX82eEBupN) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Being So Normal](https://open.spotify.com/album/6xduu32sm4aidoLhaxYkUA) | 6:01 |
 | 1235 | [Pattern](https://open.spotify.com/track/0kA5wK89nsYHQ22UKzcFGv) | [The Last Shadow Puppets](https://open.spotify.com/artist/2Z7UcsdweVlRbAk5wH5fsf) | [Everything You've Come To Expect \(Deluxe Edition\)](https://open.spotify.com/album/6q1ZuWCnYTQb7KhXHZo947) | 4:15 |
+| 1236 | [Magpie/War Pigs \- Live](https://open.spotify.com/track/3TxpL0wd9j4GiZEDsKFpM5) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Live in 25](https://open.spotify.com/album/36AMOKwsUCmhh2UtY3epAp) | 6:31 |
+| 1237 | [Drop the Guillotine \- Live](https://open.spotify.com/track/0mbPeeGEVpkEP8kKlD9Bf2) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Live in 25](https://open.spotify.com/album/36AMOKwsUCmhh2UtY3epAp) | 3:23 |
+| 1238 | [Psychics in LA \- Live](https://open.spotify.com/track/5jwPNSQNnkWBCDqfQRiy3Y) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Live in 25](https://open.spotify.com/album/36AMOKwsUCmhh2UtY3epAp) | 3:20 |
+| 1239 | [Black Licorice \- Live](https://open.spotify.com/track/2MCpQ6GwkhBIB26kVnKpIl) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Live in 25](https://open.spotify.com/album/36AMOKwsUCmhh2UtY3epAp) | 4:56 |
+| 1240 | [Up Granville \- Live](https://open.spotify.com/track/2w0iGzWLjRHBugKik4nVgN) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Live in 25](https://open.spotify.com/album/36AMOKwsUCmhh2UtY3epAp) | 4:19 |
+| 1241 | [Vickie \- Live](https://open.spotify.com/track/2aXfszDXOqS1iZ0AyKn0kX) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Live in 25](https://open.spotify.com/album/36AMOKwsUCmhh2UtY3epAp) | 3:45 |
+| 1242 | [Give Up Baby Go \- Live](https://open.spotify.com/track/5AxAV22VTQLlX3LwjE7uWd) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Live in 25](https://open.spotify.com/album/36AMOKwsUCmhh2UtY3epAp) | 4:35 |
+| 1243 | [Outta Here \- Live](https://open.spotify.com/track/3zlvyjukccNT7AVWSVeUWx) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Live in 25](https://open.spotify.com/album/36AMOKwsUCmhh2UtY3epAp) | 6:15 |
+| 1244 | [Did You Love Somebody \- Live](https://open.spotify.com/track/2KJBduFXuncccI9xp6NvgD) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Live in 25](https://open.spotify.com/album/36AMOKwsUCmhh2UtY3epAp) | 5:16 |
+| 1245 | [Being So Normal \- Live](https://open.spotify.com/track/6cJtFM8LynlDhjAViabK6v) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Live in 25](https://open.spotify.com/album/36AMOKwsUCmhh2UtY3epAp) | 3:48 |
+| 1246 | [What Once Was \- Live](https://open.spotify.com/track/6NsCihS2TEXUU1QP6HzU8K) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Live in 25](https://open.spotify.com/album/36AMOKwsUCmhh2UtY3epAp) | 2:15 |
+| 1247 | [Techno Show \- Live](https://open.spotify.com/track/5JuRkDBbdQDHy8PJMgK28V) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Live in 25](https://open.spotify.com/album/36AMOKwsUCmhh2UtY3epAp) | 3:37 |
+| 1248 | [Alrighty Aphrodite \- Live](https://open.spotify.com/track/72Q510rT4yYhgYUz9b8rT8) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Live in 25](https://open.spotify.com/album/36AMOKwsUCmhh2UtY3epAp) | 3:49 |
+| 1249 | [Shampoo Bottles \- Live](https://open.spotify.com/track/373vsCgajP0K3q1Cq6XsCK) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Live in 25](https://open.spotify.com/album/36AMOKwsUCmhh2UtY3epAp) | 3:43 |
+| 1250 | [Private Presley \- Live](https://open.spotify.com/track/4rGaffcKgGFV47SVtK7Sf7) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Live in 25](https://open.spotify.com/album/36AMOKwsUCmhh2UtY3epAp) | 7:02 |
+| 1251 | [Peach Pit \- Live](https://open.spotify.com/track/7JJTMPO5F6VFROyjSa8Bcl) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Live in 25](https://open.spotify.com/album/36AMOKwsUCmhh2UtY3epAp) | 5:13 |
+| 1252 | [Tommy's Party \- Live](https://open.spotify.com/track/1w2iGiB7aNdZ4ajxBXP7U8) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Live in 25](https://open.spotify.com/album/36AMOKwsUCmhh2UtY3epAp) | 6:05 |
 
-Snapshot ID: `AAAJ2vN7M7p2pzY28fpZlZRH5CQ3MAuC`
+Snapshot ID: `AAAJ2/1Gb7U98o7mnZ2/Nm3g72pVpE2h`

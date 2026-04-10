@@ -1743,6 +1743,24 @@
     },
     {
       "album": {
+        "name": "CHANEL",
+        "url": "https://open.spotify.com/album/7aRrvJE7TTlHPNCqPYAeq3"
+      },
+      "artists": [
+        {
+          "name": "Stormy",
+          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208695,
+      "name": "CHANEL",
+      "url": "https://open.spotify.com/track/3XW9zg39KnwA5v1c1EFbM6"
+    },
+    {
+      "album": {
         "name": "AOKIGAHARA",
         "url": "https://open.spotify.com/album/62ez9OSwKvmA4DPSMobZVw"
       },
@@ -2884,7 +2902,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 176000,
       "name": "Fatigu\u00e9",
       "url": "https://open.spotify.com/track/1bVkc6XXIHlCNPmFtGhDCa"
@@ -4627,6 +4645,24 @@
     },
     {
       "album": {
+        "name": "Tornado",
+        "url": "https://open.spotify.com/album/6uUrTYbVajuE7m4bCVrD3D"
+      },
+      "artists": [
+        {
+          "name": "Bo9al",
+          "url": "https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195840,
+      "name": "La Fin",
+      "url": "https://open.spotify.com/track/69DMEO4aEvJA0nnT9FNuLV"
+    },
+    {
+      "album": {
         "name": "LA HAINE",
         "url": "https://open.spotify.com/album/5UMKs200IuLCZuRUpkOtPp"
       },
@@ -5836,7 +5872,7 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 209000,
       "name": "MOON",
       "url": "https://open.spotify.com/track/4FK1eYp1arE2jiuAgluOtt"
@@ -7773,6 +7809,28 @@
     },
     {
       "album": {
+        "name": "Tornado",
+        "url": "https://open.spotify.com/album/6uUrTYbVajuE7m4bCVrD3D"
+      },
+      "artists": [
+        {
+          "name": "Bo9al",
+          "url": "https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF"
+        },
+        {
+          "name": "Shaw",
+          "url": "https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "Soprano",
+      "url": "https://open.spotify.com/track/4NwKhoHwz5KOWtcRy46n8v"
+    },
+    {
+      "album": {
         "name": "101",
         "url": "https://open.spotify.com/album/3QxLyfb46BXa27Y0GjwS5C"
       },
@@ -7788,7 +7846,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 194510,
       "name": "Souvenir",
       "url": "https://open.spotify.com/track/34xhlfh5RUmx0AFf8dek9f"
@@ -8549,6 +8607,42 @@
     },
     {
       "album": {
+        "name": "MC-101",
+        "url": "https://open.spotify.com/album/42okkFu4lgilYfjHOUOtXV"
+      },
+      "artists": [
+        {
+          "name": "7ari",
+          "url": "https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 3",
+      "url": "https://open.spotify.com/track/6fzPO0qTuzV33ZQlWTlkel"
+    },
+    {
+      "album": {
+        "name": "MC-101",
+        "url": "https://open.spotify.com/album/42okkFu4lgilYfjHOUOtXV"
+      },
+      "artists": [
+        {
+          "name": "7ari",
+          "url": "https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 5",
+      "url": "https://open.spotify.com/track/2cc3HFMPsVGZ7y1Cm5cP0g"
+    },
+    {
+      "album": {
         "name": "Trag\u00e9die",
         "url": "https://open.spotify.com/album/6sXcyPgBQKejKC6n0WWP6q"
       },
@@ -8658,7 +8752,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 178235,
       "name": "Trop tard",
       "url": "https://open.spotify.com/track/1IAZPiKUsXLK7NT9RUrXrR"
@@ -9618,7 +9712,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 108880,
       "name": "Zanga Zanga",
       "url": "https://open.spotify.com/track/5D4C9W4adfHL5mMHmnQDkM"

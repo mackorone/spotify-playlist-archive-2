@@ -1,13 +1,53 @@
 {
   "description": "New dance music from Deep House to Future Rave. Refreshed Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  ",
-  "num_followers": 31650,
+  "num_followers": 31648,
   "original_name": "New Dance Music Friday",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAvthhErvthpPvi7QwYUi0B1EciRSqt",
+  "snapshot_id": "AAAvugNy7m9N8ip7N0OvI9UIiCJ4MRVI",
   "tracks": [
+    {
+      "added_at": "2026-04-09 14:44:15",
+      "album": {
+        "name": "Turn Up The Dose",
+        "url": "https://open.spotify.com/album/4QVwTM7fq8X71sXAPhMi7P"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        },
+        {
+          "name": "SCRIPT",
+          "url": "https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz"
+        }
+      ],
+      "duration_ms": 172615,
+      "name": "Turn Up The Dose",
+      "url": "https://open.spotify.com/track/4IIb4DQxNBAowpUJmKYNMD"
+    },
+    {
+      "added_at": "2026-04-09 22:00:00",
+      "album": {
+        "name": "Devotion",
+        "url": "https://open.spotify.com/album/2GnR7WWIOk11ATo6uAU4w2"
+      },
+      "artists": [
+        {
+          "name": "ELOQ",
+          "url": "https://open.spotify.com/artist/36mHwYa65L0WZbAXY2iSGw"
+        },
+        {
+          "name": "n4tee",
+          "url": "https://open.spotify.com/artist/4OclpJDJ7diQCzutoOdkvj"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "Devotion",
+      "url": "https://open.spotify.com/track/42QfDGxMJDJ4spN8MRHqmu"
+    },
     {
       "added_at": "2026-04-08 09:01:49",
       "album": {
@@ -31,6 +71,38 @@
       "duration_ms": 173365,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/3VHqd1EwUvXNxxEq8oAprs"
+    },
+    {
+      "added_at": "2026-04-09 14:44:19",
+      "album": {
+        "name": "Catch The Heat",
+        "url": "https://open.spotify.com/album/7FYoiE1cUR0b2JEstMgTCz"
+      },
+      "artists": [
+        {
+          "name": "Samer Soltan",
+          "url": "https://open.spotify.com/artist/5cOdeiFBqRyXSDUJbnInuX"
+        }
+      ],
+      "duration_ms": 178064,
+      "name": "Catch The Heat",
+      "url": "https://open.spotify.com/track/54LRplbWETZ4WJ0DFhpN82"
+    },
+    {
+      "added_at": "2026-04-09 14:44:19",
+      "album": {
+        "name": "Waheshni Eh",
+        "url": "https://open.spotify.com/album/7FMpaSJnOQhS1xAZPJ1RB7"
+      },
+      "artists": [
+        {
+          "name": "Maurya Sevak",
+          "url": "https://open.spotify.com/artist/0xdqRvO8mc7jwRjfo4gqCs"
+        }
+      ],
+      "duration_ms": 180869,
+      "name": "Waheshni Eh",
+      "url": "https://open.spotify.com/track/40rsgfrFp5u5gRRh4ghOYL"
     },
     {
       "added_at": "2026-04-02 22:00:03",

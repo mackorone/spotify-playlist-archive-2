@@ -2,9 +2,9 @@
 
 ### [+852 Rising](https://open.spotify.com/playlist/37i9dQZF1DX5JZ2TewQjUr)
 
-> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: 晚安莉莉
+> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Wellsaid
 
-1,649 songs - 3 day 21 hr 17 min
+1,653 songs - 3 day 21 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -397,6 +397,7 @@
 | [HOLD ME CLOSE](https://open.spotify.com/track/6VLbzl504TVmnw8P4MCwvC) | [sanjay.](https://open.spotify.com/artist/3gWt5GuzFWCmAHwWVvs4rw) | [HOLD ME CLOSE](https://open.spotify.com/album/27F8sPIFomYqyLXsbcMJnc) | 3:03 | 2025-12-25 |  |
 | [hold on](https://open.spotify.com/track/1tOoCgu8aSXnB7eJxrKulV) | [jøno](https://open.spotify.com/artist/3oWQ3rSeKMRuEmbud3qBI4) | [hold on](https://open.spotify.com/album/0g4lKZRyv4ulV6HgVuaxKo) | 3:01 | 2022-09-01 | 2023-01-06 |
 | [HOME](https://open.spotify.com/track/3MMQti3NMAQDe9voFoALZ1) | [KENI](https://open.spotify.com/artist/6jp6lJjFpNdVsmaJz2WAhS), [Novel Friday](https://open.spotify.com/artist/2c2dutthGptIGoIlB6Nh68) | [HOME](https://open.spotify.com/album/0hz9xSkSqkUQvj2goTmySx) | 3:00 | 2025-09-04 | 2026-02-27 |
+| [Home](https://open.spotify.com/track/7dkfornwa4SOG9C2dtUELO) | [Wellsaid](https://open.spotify.com/artist/03YL8KDv0Ui8DNBe1KJwnG) | [Home](https://open.spotify.com/album/6HMXBSS0wclLgvHCXMPlWp) | 2:52 | 2026-04-09 |  |
 | [HOMEBODY](https://open.spotify.com/track/4oEDQ1HvhZcLNsf1IYwLPB) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy) | [ODDESSY](https://open.spotify.com/album/2YbralF8avxuxNeV8UhLwK) | 2:33 | 2023-05-18 | 2023-09-01 |
 | [honest \(feat\. moon tang\)](https://open.spotify.com/track/6kEzWfX8TilHN8FenwdxCE) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx), [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [honest \(feat\. moon tang\)](https://open.spotify.com/album/1zOZUQUEjtGprPtvKq6nk7) | 2:57 | 2022-05-26 | 2022-06-10 |
 | [Honesty](https://open.spotify.com/track/3BcEUl0zF9LoJHCTq4Fw9F) | [Merry Lamb Lamb](https://open.spotify.com/artist/6wLVho9ZDD140wQ9laOlhx) | [Honesty](https://open.spotify.com/album/4feyMOtrlVm1JuT2Vy6IEs) | 4:11 | 2024-08-08 | 2024-12-13 |
@@ -566,6 +567,7 @@
 | [Lotus](https://open.spotify.com/track/4wx8KI6mcAT2yjab2hgeul) | [Gia Fu](https://open.spotify.com/artist/3dwN2G3cx8i7rEFDvYhRLi) | [Lotus](https://open.spotify.com/album/0Z9uE1lFTTQVwPPuaKYbdJ) | 4:57 | 2024-09-26 | 2025-02-14 |
 | [Love Forever \(Remixed\)](https://open.spotify.com/track/0UpQMySQxMrcdeJUplFVp8) | [Hector Law](https://open.spotify.com/artist/363rdNViquRLciCJyTI2Zw) | [Love Forever \(Remixed\)](https://open.spotify.com/album/0rIjEzBvH8a08TODyzinGz) | 5:09 | 2022-11-24 | 2023-03-18 |
 | [LOVE ME](https://open.spotify.com/track/7gsmyTZ47PUOwjgIm4cQG1) | [achi](https://open.spotify.com/artist/5afah66mDtf06T5lCyM2jd) | [LOVE ME](https://open.spotify.com/album/19Dj05dJo2nOlh7VRxiy88) | 3:50 | 2024-11-14 | 2025-03-14 |
+| [Love Me You Do](https://open.spotify.com/track/2csVPQvnGuR5KYWhoxta8w) | [quentinn®](https://open.spotify.com/artist/0CYWyysXnCqIJXXNqhPmpX), [Le Shing](https://open.spotify.com/artist/3pD1EyHbEmPbGXMiLgpda2) | [Love Me You Do](https://open.spotify.com/album/1zTHpt1wq8fJxXdSXGpM6E) | 2:30 | 2026-04-09 |  |
 | [Love Of My Life](https://open.spotify.com/track/5ZPZvnenwAxvoJtiH4d7cD) | [Nj Ho](https://open.spotify.com/artist/25GIEfY5XJejZgXcfvtj7m), [Cyrus Yung](https://open.spotify.com/artist/7svaP6EzrJdto8oh1XqdFg) | [Love Of My Life](https://open.spotify.com/album/51wCgwHopgTdUKYR2LHE0q) | 4:01 | 2022-09-08 | 2023-03-18 |
 | [Love You In The Bed](https://open.spotify.com/track/2gwuTlMHycAwj67ofrXYZM) | [FIST BUMP](https://open.spotify.com/artist/3bxlpf0cthZhQXIdMxhvYJ) | [Love You In The Bed](https://open.spotify.com/album/3P9zwTetXLB7zch62M4cux) | 2:44 | 2024-09-26 | 2025-02-14 |
 | [love you soul <3](https://open.spotify.com/track/1Ch4Uwouu50i3hExy8EvTN) | [minisoul](https://open.spotify.com/artist/7quyOUEWaBIlVop7ODr3OK) | [minisoul \#1](https://open.spotify.com/album/5rnLcuibCnG3ZYNHytbn68) | 2:22 | 2024-02-29 | 2024-06-07 |
@@ -769,6 +771,7 @@
 | [Pull My Hair](https://open.spotify.com/track/37X6Jr8cHBOCD9tsuv25MA) | [Deb Fan](https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m) | [Pull My Hair](https://open.spotify.com/album/4oILzeu5oXO9HeLSJ92Z0V) | 2:01 | 2023-04-20 | 2023-07-14 |
 | [Pull The Trigger](https://open.spotify.com/track/5g4rWUaMBlnLcrMtzSfQ03) | [Lime Punch](https://open.spotify.com/artist/4fugwQKbQxT9lHW2fByFx0) | [Pull The Trigger](https://open.spotify.com/album/1cB05tU7SJiuKZuCHFsg4g) | 3:20 | 2024-04-11 | 2024-11-15 |
 | [Pure Bliss](https://open.spotify.com/track/2gSxfAmUz84Gised5l9rib) | [donny daydream](https://open.spotify.com/artist/1cN7t71QLFV6b0Fs3PlkPS) | [Pure Bliss](https://open.spotify.com/album/5zW7x022BnrF142PnP2Jj7) | 2:59 | 2024-06-27 | 2024-11-15 |
+| [Push](https://open.spotify.com/track/0vBST0bchXKqFLOuRt7Mbb) | [Juniper Care](https://open.spotify.com/artist/4ffwSoRZneOGCoISgyeaoa) | [Push](https://open.spotify.com/album/05TqYITVR5r1VwEnOxQ6f9) | 4:16 | 2026-04-09 |  |
 | [put me in a coffin](https://open.spotify.com/track/3cP4kUF6RJ1erMJ5xGafkD) | [erdocia](https://open.spotify.com/artist/5nEL3amopJEqKSotD0JukX) | [put me in a coffin](https://open.spotify.com/album/0azwnUzSsLhluB02Cx2xER) | 4:03 | 2023-06-29 | 2023-09-15 |
 | [QUEST?ONS](https://open.spotify.com/track/6avApWuzGCKeYKQ9dWwNth) | [mansonvibes](https://open.spotify.com/artist/1a8TIH1iv3shLyozSMjaoX) | [QUEST?ONS](https://open.spotify.com/album/3jN12LqDFLRF8EJn74RHKb) | 3:34 | 2022-05-26 | 2022-06-10 |
 | [Quiet Bliss](https://open.spotify.com/track/0KojIwQxoPPvnXUWKmRWgZ) | [Yuki Lovey](https://open.spotify.com/artist/4o8jCavg8iCZ7lXJmJ6wGz) | [Quiet Bliss](https://open.spotify.com/album/3ttovkejsAPsookiFNMrA3) | 3:59 | 2025-10-09 |  |
@@ -1547,6 +1550,7 @@
 | [羊 \(feat\. TXMIYAMA\)](https://open.spotify.com/track/0mlV6AhzUdpW3jc5WvU3ux) | [KENI](https://open.spotify.com/artist/6jp6lJjFpNdVsmaJz2WAhS) | [Oh my.](https://open.spotify.com/album/3kdzxVZUeTJxf4F9Ud263O) | 2:38 | 2023-08-10 | 2023-09-24 |
 | [美麗的失敗者](https://open.spotify.com/track/0VKEFpPOGpHlDW3nVb33lK) | [Kevin Kaho Tsui](https://open.spotify.com/artist/71Q8MlYcb2SiGxqyEAjBgX) | [美麗的失敗者](https://open.spotify.com/album/3CZRewAnlkS12N3NJ7vNyC) | 3:20 | 2024-10-31 | 2025-02-14 |
 | [老竇 lou5 dau6](https://open.spotify.com/track/3FBlH6patapG21dA1dDVFK) | [handwash](https://open.spotify.com/artist/752lc6wrZTHlw74HVfAAva) | [老竇 lou5 dau6](https://open.spotify.com/album/0ig01lIsZ07WaDQa28ERBV) | 2:14 | 2022-10-27 | 2023-02-03 |
+| [考試症候群](https://open.spotify.com/track/5Qho9WYFfTcI2TdKW4Oaos) | [KOWLOON K](https://open.spotify.com/artist/0hmfp5p9Xie3HMadrJbjFl) | [考試症候群](https://open.spotify.com/album/5ey6KYZyvWtdpcAJKCiUsx) | 4:26 | 2026-04-09 |  |
 | [而家想講野](https://open.spotify.com/track/2mGSp1SpVRKgW9qxCRcDdX) | [5gjm999](https://open.spotify.com/artist/06M2LuWYlrYVjg0guNWZJb) | [而家想講野](https://open.spotify.com/album/6uSDLlFZ7sghTsnUrW5wdX) | 2:26 | 2024-09-05 | 2024-12-13 |
 | [耍起](https://open.spotify.com/track/4SZmncGAdn7sBK2F4JF1Y1) | [Dr\. JR](https://open.spotify.com/artist/1DlV2khNATOnSNTVDiq8X8), [J Ho](https://open.spotify.com/artist/3hLoyLpu0vKQwSQ63c3xcy) | [耍起](https://open.spotify.com/album/6gVYXtkNmaUyfiGSeqjEMm) | 2:51 | 2022-09-22 | 2022-11-04 |
 | [肉肉肉](https://open.spotify.com/track/3eBQKb1nUUQDF3yBWdcDDC) | [Lab Goat](https://open.spotify.com/artist/51l2Rehz2CgVhQshTjezbO) | [肉肉肉](https://open.spotify.com/album/1eYu8u4G2et4c5X4IggSMY) | 1:42 | 2024-04-11 | 2024-06-07 |

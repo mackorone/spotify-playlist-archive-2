@@ -4,7 +4,7 @@
 
 > All the greatest Ambient tracks in one place\. Cover: Brian Eno
 
-195 songs - 22 hr 43 min
+197 songs - 22 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Andromeda](https://open.spotify.com/track/7v94S5INpGvZ6WLrV7wFNK) | [Applefish](https://open.spotify.com/artist/2tXSmVWVgzUAot6441wbTS) | [Astrosat](https://open.spotify.com/album/48gGsyx07SAITVjkbyFZED) | 4:15 | 2023-06-02 | 2024-04-19 |
 | [Angle of List](https://open.spotify.com/track/6lgDvkxcWNnCefaT2qeJPf) | [Loscil](https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK) | [Sea Island](https://open.spotify.com/album/2GLSvGxliKx2LbRAKK7Led) | 6:45 | 2021-12-22 |  |
 | [Aries](https://open.spotify.com/track/33Y2YALzXqMQtBVSDcHOof) | [Iasos](https://open.spotify.com/artist/33CRejQfhC9RbBrPHMKgAd) | [Inter\-Dimensional Music](https://open.spotify.com/album/59hWFsFOPOrXQMeTiXYGLr) | 1:31 | 2021-12-22 |  |
+| [Arthur's Opinion](https://open.spotify.com/track/0bkMLjPDnwM3Lvzrk8b8CU) | [Peter Broderick](https://open.spotify.com/artist/3haVJx9TUcufYl1rPyH0iv) | [Arthur's Opinion](https://open.spotify.com/album/2bHWBX2SjBMEJUyV5JpHST) | 6:31 | 2026-04-09 |  |
 | [Astrosat](https://open.spotify.com/track/0WbJUUbu4swufvj49wHYWm) | [Applefish](https://open.spotify.com/artist/2tXSmVWVgzUAot6441wbTS) | [Astrosat](https://open.spotify.com/album/48gGsyx07SAITVjkbyFZED) | 5:00 | 2023-06-02 | 2024-04-19 |
 | [Astrosat](https://open.spotify.com/track/4e64RbgVywOCPpXv5vswj2) | [Applefish](https://open.spotify.com/artist/2tXSmVWVgzUAot6441wbTS) | [Astrosat](https://open.spotify.com/album/4h7Oys2gq6TWIHDTXMr0J3) | 5:00 | 2021-12-22 |  |
 | [Astrosat](https://open.spotify.com/track/6sfLKBnf6ZogXdpViAxEJP) | [Applefish](https://open.spotify.com/artist/2tXSmVWVgzUAot6441wbTS) | [Astrosat](https://open.spotify.com/album/5S7THuLIRniJ0TxrWJwUEf) | 5:00 | 2022-10-14 | 2023-06-08 |
@@ -54,6 +55,7 @@
 | [Bhakti](https://open.spotify.com/track/44tHSayEL4rW64qonY0odi) | [Ishq](https://open.spotify.com/artist/4SOjulesys5BeXKPGUCY9F) | [Orchid](https://open.spotify.com/album/14sn0IU3GveZS7XNzPhVhd) | 10:18 | 2022-04-20 |  |
 | [Black White Felt](https://open.spotify.com/track/5n1HBXOeeKzEfdlEMJ6Tmm) | [Roedelius](https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc), [Arnold Kasar](https://open.spotify.com/artist/700im8kgUAWwcvUOAqrTWm) | [Einfluss](https://open.spotify.com/album/3UNzfV1VqrqTBTHLa3flUd) | 4:01 | 2021-12-22 |  |
 | [Boreal Kiss Pt\. 1](https://open.spotify.com/track/1i8MaQec4fQXj1enX8ZWF4) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Haunt Me](https://open.spotify.com/album/5MZRB9G4snRWIG0otfxJYq) | 3:28 | 2021-12-22 |  |
+| [Caribbean Blue \- Single Version](https://open.spotify.com/track/3LxagXDcBMACf7i8J3mgu6) | [Enya](https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4) | [Caribbean Blue](https://open.spotify.com/album/0drAXE2TkbZhrj2HBB4bOc) | 3:40 | 2026-04-09 |  |
 | [Ceramic Bubbles \- No Death Remix](https://open.spotify.com/track/0efbgQ82IjFjgDsr5vBckW) | [Rhucle](https://open.spotify.com/artist/0y0cl3t1UlQf0730g7Zjkl), [No Death](https://open.spotify.com/artist/75HAJoZ2A5TotYPFSYgCnP) | [Small Lights](https://open.spotify.com/album/5TzC5ApNzngIspcRD7heNL) | 3:40 | 2022-09-20 |  |
 | [Circle 23 \- Slow Meadow Rework](https://open.spotify.com/track/3AmZCKbonOoIjcIxf5xpEJ) | [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI), [Foam and Sand](https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd), [Slow Meadow](https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3) | [Full Circle Reworks](https://open.spotify.com/album/456HZjogXSlOUsCkKmjoqC) | 5:23 | 2022-05-26 |  |
 | [Complex Heaven](https://open.spotify.com/track/0EexLNtuKRBPmhc2XdFQKl) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Leo Abrahams](https://open.spotify.com/artist/6g4q7DPLaVqWGnfMpAb2Yd) | [Small Craft On A Milk Sea](https://open.spotify.com/album/1CNhM669xHzsZMF1yZ9WFg) | 3:05 | 2023-01-27 | 2023-08-25 |

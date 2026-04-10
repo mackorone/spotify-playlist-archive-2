@@ -4,7 +4,7 @@
 
 > canzoni per una primavera non proprio felice \(sairo in cover\)
 
-1,663 songs - 3 day 4 hr 20 min
+1,666 songs - 3 day 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [\(Bi\)sogno](https://open.spotify.com/track/38imCWBw4ljDG5zLRSuJQY) | [Jaroslav](https://open.spotify.com/artist/3GrOZIe3jCgnr8eSOxLg4Z) | [\(Bi\)sogno](https://open.spotify.com/album/7mN3GysRao07bFE9RRWH5i) | 2:06 | 2024-05-02 | 2024-06-07 |
 | [\(cose in cui hai messo cuore\)](https://open.spotify.com/track/5kXZu0IKDp67jQlEi31Q3x) | [maggio](https://open.spotify.com/artist/7bykcg3a4exhrIgiffIR2Q) | [\(cose in cui hai messo cuore\), MANI DI UMANI / scegliere](https://open.spotify.com/album/18qyWu5xA6AMftcWpu2S74) | 1:40 | 2024-05-30 | 2024-06-14 |
 | [\(forse è lo stesso\)](https://open.spotify.com/track/1E97Wr1gSv4koh8z1qHUQQ) | [maggio](https://open.spotify.com/artist/7bykcg3a4exhrIgiffIR2Q) | [\(forse è lo stesso\)](https://open.spotify.com/album/7JxBx22n5tI84Z20bROYsV) | 2:19 | 2025-05-29 | 2025-08-22 |
+| [\(Tu\)tto](https://open.spotify.com/track/0g0TVvK44FXV823MdpVNRR) | [Jaroslav](https://open.spotify.com/artist/3GrOZIe3jCgnr8eSOxLg4Z) | [\(Tu\)tto](https://open.spotify.com/album/3ZirRj9V3hBejROdXwrqaz) | 3:03 | 2026-04-09 |  |
 | [\*\*\*\* \(Bravi A Perderci\)](https://open.spotify.com/track/0t7C6JJjqfNPtxZ1KbpaoB) | [Bipolar](https://open.spotify.com/artist/36CoTQmA5QgZvVpG81y1di), [Cloudì](https://open.spotify.com/artist/14F6TgN7IOUEReU7piFW82), [Sbale](https://open.spotify.com/artist/4aAiKU8UocJHjZfxjQuaCU) | [\*\*\*\* \(Bravi A Perderci\)](https://open.spotify.com/album/7n0JpYPaPssYOOypmNWV5S) | 2:39 | 2023-07-20 | 2023-09-22 |
 | [+ SIMILI](https://open.spotify.com/track/4Rkd5hVL1Ho54ql65qKXnQ) | [Supernino](https://open.spotify.com/artist/1qOclNcsOrRniIPNXpvl9I) | [+ SIMILI](https://open.spotify.com/album/4deQoD2iJluGIWgr30LjSN) | 2:18 | 2024-10-03 | 2024-11-29 |
 | [0 SENTIMENTO](https://open.spotify.com/track/5WCw5MPG167COqxJu6c42Y) | [Asjatica](https://open.spotify.com/artist/5wu37JsDSxwAvkZIdYT3Nn) | [0 SENTIMENTO](https://open.spotify.com/album/5DzCgb5qGCuUBPB7DQuWFE) | 2:29 | 2022-11-24 | 2023-02-24 |
@@ -400,6 +401,7 @@
 | [DETOX](https://open.spotify.com/track/3qWfrpqEpmQJMpytmXUsgb) | [the xWRLD](https://open.spotify.com/artist/5VEgMuLOzqx4D4dTJAEYoe) | [DETOX](https://open.spotify.com/album/3IcTthbtsGrVAEBehJafrT) | 2:12 | 2023-06-15 | 2023-07-21 |
 | [Devil Eyes \(Brividi\)](https://open.spotify.com/track/5PuYPMk3OGkq3g4OIbPdMi) | [Anselmassacre](https://open.spotify.com/artist/0Zk7K8zev4RyxHLT93HHpC) | [Devil Eyes \(Brividi\)](https://open.spotify.com/album/21PzKxflivYePSqHunbqTj) | 3:02 | 2023-02-02 | 2023-05-05 |
 | [Devo scappare da qui \(E farlo al più presto\)](https://open.spotify.com/track/77oHNQVdYwZFMUGzWVY8H3) | [Scaglia](https://open.spotify.com/artist/61C1YBssJpV0rPGdoLjoJ7), [Moka](https://open.spotify.com/artist/4NxXNoJqH1syvVs3279ZsY) | [Devo scappare da qui \(E farlo al più presto\)](https://open.spotify.com/album/0uHLU32SLsl73BKKxVnWz3) | 2:46 | 2023-11-09 | 2024-03-22 |
+| [Di certo mi capirai](https://open.spotify.com/track/0d2ciFsuSvTZnL3hWhkzVe) | [Kouya](https://open.spotify.com/artist/0icGONLdXBBiKokkONKRVK) | [Di certo mi capirai](https://open.spotify.com/album/3At5jQ8wt9WXnuhRWqhECG) | 2:25 | 2026-04-09 |  |
 | [Di cuore](https://open.spotify.com/track/2MJTUtlHkWrGSEZPah1Yk4) | [Giulia Deligia](https://open.spotify.com/artist/4NYe71lFBqbckQMw5hzoFf) | [Di cuore](https://open.spotify.com/album/3bR4HXsGdijQOslNWRpLbX) | 2:27 | 2024-10-03 | 2024-11-29 |
 | [di Odio d'Amore](https://open.spotify.com/track/1EgQnTurQldvDoPBzEcMwr) | [Foramacchia](https://open.spotify.com/artist/6ST078zQG2Ddyc8K6YExIr), [Fiabba](https://open.spotify.com/artist/6eHnWGv1hiGzEEgdUvP2WT) | [Plastica Nelle Cuffiette](https://open.spotify.com/album/3cT5hdCoznDjz4LMU2aBtk) | 2:47 | 2025-06-12 | 2025-09-19 |
 | [DICIANNOVE](https://open.spotify.com/track/1x5L7zWz1OmlHBIU5BuX59) | [Ade](https://open.spotify.com/artist/1AsT42BEnBzVLVZhuEm16Q), [cxllmemxnu](https://open.spotify.com/artist/4wxSnyruuRR5zsA1AJInKV) | [DICIANNOVE](https://open.spotify.com/album/5MrkfELi0uvHFWqkVtS3Gc) | 2:46 | 2023-05-11 | 2023-07-07 |
@@ -1348,6 +1350,7 @@
 | [Sober](https://open.spotify.com/track/7K3rRx00hcS6MpZmYGUFH2) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Sober](https://open.spotify.com/album/51xoJomo3hvVg4BE7GHnHI) | 2:32 | 2023-01-05 | 2023-03-25 |
 | [Sodapops](https://open.spotify.com/track/6mIv8byg08XAFR82u7gcAa) | [Sad Twins](https://open.spotify.com/artist/7IB0pjMcXuxaYe1QNSlO6P), [Biava](https://open.spotify.com/artist/3tnRz0rA9YnwZ7BUv958vk) | [Sodapops](https://open.spotify.com/album/1AnW7vqiku9cs57kDzycGC) | 3:02 | 2025-06-05 | 2025-09-27 |
 | [Soffitta al Liceo](https://open.spotify.com/track/3lBrtP6KcRnB4FvuITVazm) | [PRINCIPE](https://open.spotify.com/artist/4HMDZbjY9Z61hRXh4ggzPH) | [Soffitta al Liceo](https://open.spotify.com/album/0Y57Y4oVwHuysYQT1gbTRV) | 1:50 | 2025-06-05 | 2025-10-17 |
+| [Soffocare](https://open.spotify.com/track/3luRORiuOA7DMyFb7T3v9w) | [Def](https://open.spotify.com/artist/0KxwYP84fvKoG9dVGvAmRM) | [Soffocare](https://open.spotify.com/album/0QvwUe63YrNpmRObScxo6B) | 2:15 | 2026-04-09 |  |
 | [SOFFRI](https://open.spotify.com/track/72WCZPXtPXOTVdWxzvS6J7) | [Your Grave](https://open.spotify.com/artist/2G8rF6L56shIM67jSKgXhm) | [SOFFRI](https://open.spotify.com/album/3NohaVdcWcGuLLBD2Q1p9q) | 2:46 | 2025-05-29 | 2025-07-11 |
 | [Sogni coltello](https://open.spotify.com/track/4WF8alQMt0Qa5rQnp24oeo) | [Diaste](https://open.spotify.com/artist/5oym7izRhAa7UZKGp77oIR) | [Sogni coltello](https://open.spotify.com/album/1EAQUgoiyN5nrbik94qMbO) | 3:44 | 2025-06-19 | 2025-07-11 |
 | [Sogni più grandi](https://open.spotify.com/track/66iaIDwL6Ud7g30xcdjGcY) | [Sami River](https://open.spotify.com/artist/5PUv5cQdVd7LmHvBj2r4c6) | [Sitcom triste](https://open.spotify.com/album/4s536NBIBRn8q829pTkzn6) | 2:43 | 2023-10-19 | 2024-01-05 |

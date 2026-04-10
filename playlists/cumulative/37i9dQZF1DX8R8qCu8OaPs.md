@@ -33,7 +33,7 @@
 | [Wake Me up When September Ends](https://open.spotify.com/track/3ZffCQKLFLUvYM59XKLbVm) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot](https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke) | 4:45 | 2025-09-19 |  |
 | [We are](https://open.spotify.com/track/6hAkc0aEWtuQkkdbLS9bKt) | [deulrejang](https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM) | [My Youth \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/4HuGcPyWboUGX89lnGqwhQ) | 3:12 | 2025-09-19 |  |
 | [고백](https://open.spotify.com/track/20tWEsVsKU6FfzXGt4IOuV) | [DELISPICE](https://open.spotify.com/artist/3zH8Xu8C1GnnmfpBqzdLPf) | [Espresso](https://open.spotify.com/album/746nbyp8GqmfObP8o4CEZb) | 5:23 | 2025-09-19 |  |
-| [비밀의 화원](https://open.spotify.com/track/2Oe0zgUBGRzkP4KtpIlo8c) | [Lee Sang Eun](https://open.spotify.com/artist/0Gqc2XO4Wu0YpYVWSiDwYt) | [신비체험](https://open.spotify.com/album/52etdX6SVjZQNwQqS74Cys) | 4:09 | 2025-09-19 |  |
+| [비밀의 화원](https://open.spotify.com/track/2Oe0zgUBGRzkP4KtpIlo8c) | [Lee Sang\-Eun](https://open.spotify.com/artist/4uaP0mhy7ViCvT00Wduonj) | [신비체험](https://open.spotify.com/album/52etdX6SVjZQNwQqS74Cys) | 4:09 | 2025-09-19 |  |
 | [우주를 건너](https://open.spotify.com/track/0i2XXofKXlXbZ2sjnh06Jj) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [FRANK](https://open.spotify.com/album/1ZEIytGF7NOGMyo7UdHixJ) | 4:07 | 2025-09-19 |  |
 
 \*This playlist was first scraped on 2025-09-20. Prior content cannot be recovered.

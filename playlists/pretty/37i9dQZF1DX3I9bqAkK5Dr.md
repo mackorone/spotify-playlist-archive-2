@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 
 > Check out the emerging independent tracks from these Telugu Artists!<br/>Cover : Anirudh Suswaram
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,805 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,810 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 | 25 | [Nuvvu Vuntava?](https://open.spotify.com/track/7Dvq7rDFQUegmwzXChLUfs) | [Madduri Hemant](https://open.spotify.com/artist/1C3UfslxonJjT3Y5VFlN3L) | [Nuvvu Vuntava?](https://open.spotify.com/album/3PIrKyzwISi0V0fv2fOpXJ) | 2:32 |
 | 26 | [Manase \(Side A\)](https://open.spotify.com/track/1Jd0pZKiYchJQcJlNwxDuK) | [Iravu](https://open.spotify.com/artist/32gGumlFxS3I49LH5cNcrH), [Pranathi Varma](https://open.spotify.com/artist/10fOJE3AwE1pBtKF69pAvQ), [Sumant Shridhar](https://open.spotify.com/artist/7GA0Xau5hmFnis85SKwPHX) | [Shores](https://open.spotify.com/album/1mXdXTQBwzoYXofQ2gTvIV) | 3:46 |
 | 27 | [Pagale Jaabili](https://open.spotify.com/track/476UKv6WOa3LCIZ05FhgmN) | [Ritesh G Rao](https://open.spotify.com/artist/2n2CcYTvgrHcpKGDHtelgz), [Nimshi Zacchaeus](https://open.spotify.com/artist/0YQIokZUhvSY7WtIDgTrcz) | [Pagale Jaabili](https://open.spotify.com/album/133QK7uuXdOB8jXw5AG3qS) | 3:56 |
-| 28 | [Taara \- Live](https://open.spotify.com/track/7si2JnbJv6gAkAcG0mUaWX) | [Priyanka Gajanan](https://open.spotify.com/artist/1ZCozkRCXaT1JY4m356aOP) | [Taara](https://open.spotify.com/album/6HmUoSa5sOjbZuOFK2KKVa) | 3:59 |
+| 28 | [Taara](https://open.spotify.com/track/7si2JnbJv6gAkAcG0mUaWX) | [Priyanka Gajanan](https://open.spotify.com/artist/1ZCozkRCXaT1JY4m356aOP) | [Taara](https://open.spotify.com/album/6HmUoSa5sOjbZuOFK2KKVa) | 3:59 |
 | 29 | [Vinnavugaa](https://open.spotify.com/track/6WMvmjn8unOOKS6t4MdRlz) | [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Sinduri Vishal](https://open.spotify.com/artist/6KjiNHnbm1CNrIN0z7wJtO) | [Vinnavugaa](https://open.spotify.com/album/1DfhIlUepHaM8ddF8oza4d) | 4:49 |
 | 30 | [Taara Katha](https://open.spotify.com/track/5fwGpMlM2GbhGJl2ae0wyi) | [DEVARO](https://open.spotify.com/artist/29mbv9F0bBnk9lkyr9oPoc) | [Taara Katha](https://open.spotify.com/album/2LyAB86oecp0Arq3iqoVDb) | 3:38 |
 | 31 | [You Are My Dream Girl](https://open.spotify.com/track/2GE2bi23poertoQ4IEoK1P) | [Vamsikanth Rekhana](https://open.spotify.com/artist/7p1XLCC9lLV6T3KIlZrMkG) | [You Are My Dream Girl](https://open.spotify.com/album/4yQzV17US8W5IfBomjfaU6) | 4:08 |

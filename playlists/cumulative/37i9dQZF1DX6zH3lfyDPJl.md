@@ -4,7 +4,7 @@
 
 > 센치한 감정을 노래하는 감성적인 곡들과 함께 물 멍에 잠겨보세요.
 
-209 songs - 12 hr 57 min
+212 songs - 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Because](https://open.spotify.com/track/6dc6iZ6Htwg0T1b2m9PO2L) | [Night Off](https://open.spotify.com/artist/0MrJIVLnVbubveFG4zSy88) | [Because](https://open.spotify.com/album/2k5FNmZE4XTIf5h8W5sNsJ) | 3:28 | 2024-08-05 | 2025-04-02 |
 | [beginner](https://open.spotify.com/track/2GrIclL8FD8Wzin0t3eEAx) | [kanegi.](https://open.spotify.com/artist/1IbdIX1U1e04JRrrh9HQSc) | [archives 17](https://open.spotify.com/album/3yvSXYnGm1S0DUILkVXzRp) | 3:18 | 2026-03-12 | 2026-03-26 |
 | [Beside](https://open.spotify.com/track/11xJzjqdO6as2OEBfn2Fl7) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3) | [Beside](https://open.spotify.com/album/6rKWrHmwSip4xYYj6MPLAt) | 3:54 | 2024-08-05 | 2025-04-02 |
+| [Blinded](https://open.spotify.com/track/2bIXRvQccLz5rhW8CkyBWs) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [Blinded](https://open.spotify.com/album/6zE5G60zhdsDy2xqyOVIYv) | 3:45 | 2026-04-09 |  |
 | [Boots](https://open.spotify.com/track/7esGow9Wr88olbMx9gBwvh) | [Royal Republic](https://open.spotify.com/artist/0DbbnkFMhhDvinDYIiHhGS) | [LoveCop](https://open.spotify.com/album/57b10oox3EPeH5ErLg6aQZ) | 2:38 | 2024-08-05 | 2025-04-02 |
 | [Break My Heart Again](https://open.spotify.com/track/7zw6nQHTwml1mVuQDf5V6k) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Blood Harmony \(Deluxe\)](https://open.spotify.com/album/52Kcim8psSCfCJN2kktKDj) | 3:57 | 2025-06-12 |  |
 | [Breakfast](https://open.spotify.com/track/1vbL5qt2ngwEBHATWXb14U) | [off the menu](https://open.spotify.com/artist/6g1CbXF83eU2eSvIUU9COb) | [bright \#8](https://open.spotify.com/album/3x5JPubOZ28pGepd3EKmYW) | 2:58 | 2024-08-05 | 2025-04-02 |
@@ -47,7 +48,7 @@
 | [Caroline](https://open.spotify.com/track/6KMvV8gTiD4ZY3kQCNNdaP) | [hemming](https://open.spotify.com/artist/62jIpWzkUFaVRfHvE2XEXu) | [Caroline](https://open.spotify.com/album/3As3FgZcrGsiY9oaRy546s) | 4:15 | 2025-10-20 | 2026-01-27 |
 | [Cherish](https://open.spotify.com/track/22czSIoBdsSi89qKNl5GYA) | [김수영 Kim Suyoung](https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj) | [Antiguo Trunk](https://open.spotify.com/album/5EWIHx3EGfOlcYWVhlNIfH) | 4:23 | 2026-02-05 | 2026-03-06 |
 | [Closely Far Away](https://open.spotify.com/track/7wLJ4xzxNss5abZ1kXs242) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [Closely Far Away](https://open.spotify.com/album/6q9YOWpWu7QA3MeHbpIoLC) | 3:14 | 2025-07-17 |  |
-| [clouds in my room](https://open.spotify.com/track/4KX6ezCFC1COfMCzSOEjgT) | [kanegi.](https://open.spotify.com/artist/1IbdIX1U1e04JRrrh9HQSc) | [archives 11](https://open.spotify.com/album/4pcDPJa2skBamjyaK80l7R) | 3:35 | 2026-03-26 |  |
+| [clouds in my room](https://open.spotify.com/track/4KX6ezCFC1COfMCzSOEjgT) | [kanegi.](https://open.spotify.com/artist/1IbdIX1U1e04JRrrh9HQSc) | [archives 11](https://open.spotify.com/album/4pcDPJa2skBamjyaK80l7R) | 3:35 | 2026-03-26 | 2026-04-10 |
 | [Colors](https://open.spotify.com/track/4FkJCAsrCLPkKePw4zkOip) | [JEONG SEWOON](https://open.spotify.com/artist/2l9aF9jOgB7GI1uyNkx836) | [Colors](https://open.spotify.com/album/2wFgvSTbDeT9TaXq4nfpbs) | 3:43 | 2025-09-08 | 2026-01-27 |
 | [Creep](https://open.spotify.com/track/6b2oQwSGFkzsMtQruIWm2p) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Pablo Honey](https://open.spotify.com/album/6400dnyeDyD2mIFHfkwHXN) | 3:58 | 2024-08-05 | 2025-04-02 |
 | [Daisy](https://open.spotify.com/track/3SE3kNoi1T9euYL6NTOcXB) | [Delorians](https://open.spotify.com/artist/3veLkV7PryzEQXJnFxDhON) | [Daisy](https://open.spotify.com/album/3iz6RVbojDkO2E0DFni9t3) | 3:06 | 2025-03-14 | 2025-04-02 |
@@ -86,11 +87,12 @@
 | [Hide](https://open.spotify.com/track/43tsrOxxkFrv9bfY0f3sVm) | [Shin Yun Su](https://open.spotify.com/artist/6rOnmyhXrGZGUIsafDi1DG) | [pension rm\. 04 \- Hide](https://open.spotify.com/album/01ahO5SDqOlFdkoDSAk1G0) | 3:27 | 2026-03-12 | 2026-03-26 |
 | [High In Low Places](https://open.spotify.com/track/30AvLvLFOVvu5vjFLtdCHq) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [High In Low Places](https://open.spotify.com/album/3LGeTs25E1Emefp9Johfq9) | 3:10 | 2024-08-05 | 2025-05-02 |
 | [Holidays](https://open.spotify.com/track/4U6Mq3JeRNyrNdG70cPsyJ) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Holidays](https://open.spotify.com/album/2ThtBfqXl82TjNx76GYqK2) | 3:41 | 2025-05-30 |  |
+| [Home](https://open.spotify.com/track/03zH6wy7zNJbqBXjmM3C89) | [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [Home](https://open.spotify.com/album/3y3UxUz8s7a6NRUBWvqw7O) | 3:26 | 2026-04-09 |  |
 | [homesick](https://open.spotify.com/track/2FZIabCRMEWAYfN69Ijn1U) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [0.1 flaws and all.](https://open.spotify.com/album/5T0Gt5JYXh6gEttuB8ujML) | 5:06 | 2025-05-30 |  |
 | [hometown](https://open.spotify.com/track/19E4xm8OhtXeQ93ccRCeJJ) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [hometown](https://open.spotify.com/album/4RBJ0zVVsPuekjktaVNyeQ) | 2:54 | 2025-06-26 | 2025-09-05 |
 | [Honeycrash](https://open.spotify.com/track/49MS1LeGxzcG9LOvpzhAQr) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Honeycrash](https://open.spotify.com/album/65c74y1vN6hMca1Zs4hkVo) | 3:08 | 2024-08-05 | 2025-04-02 |
 | [How Could You Darling](https://open.spotify.com/track/1fJ4oq1PhCd4HmncFKTi5M) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.0](https://open.spotify.com/album/2NxVbCMzrPU8Mld0lzJhqf) | 3:48 | 2025-08-05 | 2025-10-21 |
-| [I could be your indie darling](https://open.spotify.com/track/4h5s5FyhUoN0VKqIsUOq2R) | [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [I could be your indie darling](https://open.spotify.com/album/6D9J3eZhFYkbV4wVdYsluH) | 3:17 | 2026-03-19 |  |
+| [I could be your indie darling](https://open.spotify.com/track/4h5s5FyhUoN0VKqIsUOq2R) | [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [I could be your indie darling](https://open.spotify.com/album/6D9J3eZhFYkbV4wVdYsluH) | 3:17 | 2026-03-19 | 2026-04-10 |
 | [I'm Watching a Loneliness Just Arisen](https://open.spotify.com/track/2xfoFuQxQeEkQRgY3tF1JU) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [Summer Plumage](https://open.spotify.com/album/4hGJv9dB3hlzFXZJQmKdpq) | 3:49 | 2024-08-05 | 2025-04-02 |
 | [Inner Eden](https://open.spotify.com/track/3WUq4X29XbjWDDN3i6ALnk) | [Jiwoo](https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg) | [Esprit](https://open.spotify.com/album/61zYPYowUBeJGIqsmu6QBt) | 4:21 | 2024-08-05 | 2025-04-02 |
 | [Inside a Dream \(feat\. prettyhappy\)](https://open.spotify.com/track/4gzLhua7QMpnF1arrhQgul) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [prettyhappy](https://open.spotify.com/artist/3doCkojWogBLg7PlYwaiG5) | [Dream Age](https://open.spotify.com/album/2mYhQdT3IPYP5OX0riiLvK) | 3:06 | 2025-09-08 | 2025-10-21 |
@@ -101,6 +103,7 @@
 | [L](https://open.spotify.com/track/08yMOmydumplen59qUD4zf) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [L](https://open.spotify.com/album/6m2BgbFl4IgJf7zJ48sxko) | 3:36 | 2024-08-05 | 2025-04-02 |
 | [Last Forever](https://open.spotify.com/track/18YaxBAxzZmCkgZsZk9D6C) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Last Forever](https://open.spotify.com/album/0xzaK6giuwC8NCK554OXWg) | 3:43 | 2025-09-08 | 2025-11-11 |
 | [light](https://open.spotify.com/track/4i2T7Nm4Q72sNnSlGADSm6) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [light](https://open.spotify.com/album/1eSyRapMqJE70YPpjuzbvP) | 3:45 | 2024-08-05 | 2025-06-13 |
+| [Like a Bird, Like a Fish](https://open.spotify.com/track/4xpfEYzoPiUC5nO5swt9bk) | [GYE0M](https://open.spotify.com/artist/2nFAl5FcbuagY1zVglLvPc) | [Like a Bird, Like a Fish](https://open.spotify.com/album/2LSXBO9G6hE7ZYrnOCATX7) | 3:36 | 2026-04-09 |  |
 | [Lily of The Valley](https://open.spotify.com/track/4gAIUEY7VkeiKQOPwIYaYb) | [DANIEL](https://open.spotify.com/artist/1eZ0sjIrNuSNiZSfjTYgi6) | [Flower](https://open.spotify.com/album/2M7Shx9AkhvDRs33JZR7wx) | 4:57 | 2025-04-17 |  |
 | [Listen to me](https://open.spotify.com/track/6LLmloLPHUbx9LoqzooTUF) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [Listen to me](https://open.spotify.com/album/4Hza6L0yTT56WE9hAzLfXx) | 3:08 | 2025-05-30 | 2025-08-20 |
 | [Lithonia](https://open.spotify.com/track/4JfpJrrGNXRj2yXm1fYV23) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Lithonia](https://open.spotify.com/album/1hfI7lik7Q3ENibeUxfsf3) | 2:59 | 2024-08-05 |  |
@@ -176,7 +179,7 @@
 | [Spectator](https://open.spotify.com/track/0W9jWMTASe0JmydIrXwSEz) | [Friday Pilots Club](https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY) | [Nowhere](https://open.spotify.com/album/52g4ptmJZyzP2q33EnVaOO) | 3:03 | 2024-08-05 | 2025-12-01 |
 | [Star](https://open.spotify.com/track/6h7pTcDLNo5Pc8Lu1w2Qo9) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Star](https://open.spotify.com/album/7Ht7kJByAKQhnnqZSqLxzO) | 3:19 | 2026-01-26 | 2026-02-06 |
 | [Starfish on your head](https://open.spotify.com/track/6EUu1a2UhYLokK3A3xkmRh) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | ["L"](https://open.spotify.com/album/3GU6dBAcgSyLa5gSpVpTrx) | 3:12 | 2024-08-05 | 2025-08-20 |
-| [Stay forever](https://open.spotify.com/track/1MjqDMOT5dk9Yt3o8Al83C) | [SUNGHWI](https://open.spotify.com/artist/7rlrjdWClWXnQ0flmhBMXR) | [Stay forever](https://open.spotify.com/album/4diqiKXAStdNyjU1ibC199) | 3:29 | 2026-04-02 |  |
+| [Stay forever](https://open.spotify.com/track/1MjqDMOT5dk9Yt3o8Al83C) | [SUNGHWI](https://open.spotify.com/artist/7rlrjdWClWXnQ0flmhBMXR) | [Stay forever](https://open.spotify.com/album/4diqiKXAStdNyjU1ibC199) | 3:29 | 2026-04-02 | 2026-04-10 |
 | [Strawberry Jam](https://open.spotify.com/track/2ANtjCxEa3I883stgWh5Mz) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Strawberry Jam](https://open.spotify.com/album/3WtWzLerFbkjmu2Uh2f2k9) | 3:32 | 2024-08-05 | 2025-06-20 |
 | [Sunny Days, Summer Nights](https://open.spotify.com/track/4fi9IIcjYzxRTRwJUyFO6Q) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Sun And Moon](https://open.spotify.com/album/0AsQlY5YENtlvd8SLnrSxX) | 4:09 | 2025-04-17 | 2025-05-02 |
 | [Sunsetz](https://open.spotify.com/track/0yuAWlxq59xT3agQ965OxE) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5chTLnnxlxQVAgEv6YbEBe) | 3:34 | 2025-05-01 |  |

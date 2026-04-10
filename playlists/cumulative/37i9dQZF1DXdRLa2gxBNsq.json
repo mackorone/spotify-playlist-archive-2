@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-19",
-  "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: Eskorbuto.",
+  "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: Non Servium.",
   "name": "Punk Espa\u00f1ol",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 190408,
       "name": "A Por Ellos - Canci\u00f3n Hiriente - En Directo",
       "url": "https://open.spotify.com/track/0mpcVrpKO92V7Miy3ejdbe"
@@ -498,7 +498,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-06",
+      "date_removed": null,
       "duration_ms": 224172,
       "name": "Anda y Que Te Den",
       "url": "https://open.spotify.com/track/57BAY5EGsMU0halCvHCsW6"
@@ -736,7 +736,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-22",
+      "date_removed": null,
       "duration_ms": 233200,
       "name": "As\u00ed Es la Vida",
       "url": "https://open.spotify.com/track/12obLt5jLRqJTWwbV7HywQ"
@@ -2014,7 +2014,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 186600,
       "name": "Drogoindependiente",
       "url": "https://open.spotify.com/track/4VVkpP7kyLv2Aby6kUDsxc"
@@ -2050,7 +2050,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 274261,
       "name": "El Baile de los que Sobran",
       "url": "https://open.spotify.com/track/72aFZcLNh1iJnm5UGzvpC2"
@@ -2260,7 +2260,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-10",
+      "date_removed": null,
       "duration_ms": 194192,
       "name": "El Mes\u00edas",
       "url": "https://open.spotify.com/track/22M4EmsybRYNbrlOSFffG7"
@@ -2650,7 +2650,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-19",
+      "date_removed": null,
       "duration_ms": 226093,
       "name": "Enamorado de la Muerte",
       "url": "https://open.spotify.com/track/4en5NpD2ZD6CpHeHIFTbzp"
@@ -3124,7 +3124,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-24",
+      "date_removed": null,
       "duration_ms": 227992,
       "name": "Gernika",
       "url": "https://open.spotify.com/track/2U24O0XkSyQ36T8yMnaeDp"
@@ -3334,7 +3334,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-01",
+      "date_removed": null,
       "duration_ms": 240986,
       "name": "Herida de guerra",
       "url": "https://open.spotify.com/track/16MDTJlQK8LcZW9IkladLD"
@@ -3370,7 +3370,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 159642,
       "name": "Hip\u00f3critas",
       "url": "https://open.spotify.com/track/4JGzUB4flqlW4542UoAkGh"
@@ -4268,7 +4268,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 190344,
       "name": "Las Calles Tienen Memoria",
       "url": "https://open.spotify.com/track/5xrwfphFtporIEf0dNcV8c"
@@ -4646,7 +4646,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 267890,
       "name": "Los Senderos del Faquir",
       "url": "https://open.spotify.com/track/5H9wmQyqIYKLlnAEG66YbL"
@@ -4776,7 +4776,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 248565,
       "name": "Mareak e Ferro",
       "url": "https://open.spotify.com/track/3XW1IM9OPrC16xoSFPs0Op"
@@ -4878,6 +4878,24 @@
       "duration_ms": 88000,
       "name": "Mentirosa",
       "url": "https://open.spotify.com/track/2PAYM7HAtFQKZPnAI10vlr"
+    },
+    {
+      "album": {
+        "name": "Mi Herencia",
+        "url": "https://open.spotify.com/album/3JH0qU8UH94Bq5JxH4KuNd"
+      },
+      "artists": [
+        {
+          "name": "Fatiga",
+          "url": "https://open.spotify.com/artist/1cY1vOsMZkeCYoXRdaZoKp"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193666,
+      "name": "Mi Herencia",
+      "url": "https://open.spotify.com/track/436MiHmo8eKY8NOFlYR8Wo"
     },
     {
       "album": {
@@ -5240,7 +5258,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 290369,
       "name": "Muros de Cristal",
       "url": "https://open.spotify.com/track/23JPltf9ba5dDctQQhuXHW"
@@ -6009,6 +6027,24 @@
     },
     {
       "album": {
+        "name": "Otra Vez",
+        "url": "https://open.spotify.com/album/39SDEwuBUtdju4ZItqVs5D"
+      },
+      "artists": [
+        {
+          "name": "BARRAC\u00dcDA",
+          "url": "https://open.spotify.com/artist/76CL5heNuTVZrutkli7cKx"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218443,
+      "name": "Otra Vez",
+      "url": "https://open.spotify.com/track/3ifC2eBCwIooMxWyqA8RiS"
+    },
+    {
+      "album": {
         "name": "Mar Et\u00edlico",
         "url": "https://open.spotify.com/album/7yK5Z8ZRUm2UBWotLfDlKB"
       },
@@ -6283,6 +6319,28 @@
     },
     {
       "album": {
+        "name": "Discobolo",
+        "url": "https://open.spotify.com/album/4RJ2f70YrdG7cGVJ2IgYFU"
+      },
+      "artists": [
+        {
+          "name": "Manolo Kabezabolo",
+          "url": "https://open.spotify.com/artist/0mCVBnmmGLp7tjBR4J8Q3M"
+        },
+        {
+          "name": "Parabellum",
+          "url": "https://open.spotify.com/artist/0JbJ9sG3cB719QmmkIRTPQ"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135626,
+      "name": "Pogo",
+      "url": "https://open.spotify.com/track/2Bs5xnNBDiKuWhX2LFxpoc"
+    },
+    {
+      "album": {
         "name": "Cuando las Bocas Comen Silencio",
         "url": "https://open.spotify.com/album/501pjNhzQYeXfVJfkdRnL9"
       },
@@ -6312,7 +6370,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-29",
+      "date_removed": null,
       "duration_ms": 163757,
       "name": "Por ti",
       "url": "https://open.spotify.com/track/7tbmPVO7BOZ3uBTkQ4lwFV"
@@ -6508,7 +6566,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 221480,
       "name": "Prohibido Prohibir",
       "url": "https://open.spotify.com/track/28EOznAk1sIbb1C82N52BQ"
@@ -6764,7 +6822,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 209333,
       "name": "Revi\u00e9ntales",
       "url": "https://open.spotify.com/track/1PQwitLud555xFVIQnyj2t"
@@ -7040,6 +7098,24 @@
       "duration_ms": 166453,
       "name": "Silencio roto",
       "url": "https://open.spotify.com/track/4Tj1XMpVCn07xKWkNjk5C5"
+    },
+    {
+      "album": {
+        "name": "Sin Perd\u00f3n",
+        "url": "https://open.spotify.com/album/6oZ2KJHWZCOsGF8C7K0BIA"
+      },
+      "artists": [
+        {
+          "name": "Enga\u00f1o Manifiesto",
+          "url": "https://open.spotify.com/artist/0cnl8NwbODpVqEc5sUGT9c"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190980,
+      "name": "Sin Perd\u00f3n",
+      "url": "https://open.spotify.com/track/7x0suSvlacQBTe9dPBpXzu"
     },
     {
       "album": {
@@ -7552,7 +7628,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 179424,
       "name": "TO\u00d1O TERREMOTO",
       "url": "https://open.spotify.com/track/7oO6Fm6D6mdsXi7hyeCyeo"
@@ -7864,7 +7940,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 266698,
       "name": "Una y Mil Veces",
       "url": "https://open.spotify.com/track/38ynrtrPa6laWTufKuW7vK"
@@ -8020,6 +8096,24 @@
       "duration_ms": 170585,
       "name": "Vieja Guardia",
       "url": "https://open.spotify.com/track/3CQUCe0b3Aw3JAHe8Lax8s"
+    },
+    {
+      "album": {
+        "name": "Vivir la Vida",
+        "url": "https://open.spotify.com/album/21LP92m9L3r5rY8zxF3uLF"
+      },
+      "artists": [
+        {
+          "name": "Kaos Et\u00edliko",
+          "url": "https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172360,
+      "name": "Vivir la Vida",
+      "url": "https://open.spotify.com/track/4CeVTya5DmyswFPaiukYJ7"
     },
     {
       "album": {

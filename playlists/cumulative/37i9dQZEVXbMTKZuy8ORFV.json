@@ -5622,7 +5622,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 131280,
       "name": "Bolivia Gana y Se Va al Mundial",
       "url": "https://open.spotify.com/track/6Bf6a36gIY32AJ4BZEfxfM"
@@ -7478,7 +7478,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "Catch Catch",
       "url": "https://open.spotify.com/track/2O9bMJticxbQ8FH3NiQ7Xh"
@@ -17532,7 +17532,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 180543,
       "name": "FYA",
       "url": "https://open.spotify.com/track/0KmrKOdScRDVYwWS8hkkdv"
@@ -19855,6 +19855,24 @@
     },
     {
       "album": {
+        "name": "hold me in your arms",
+        "url": "https://open.spotify.com/album/6NSLFpB3ya72odv7nahr8Q"
+      },
+      "artists": [
+        {
+          "name": "Blood Nose",
+          "url": "https://open.spotify.com/artist/6fPWD6aplRohXMpRRAF6Wa"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80097,
+      "name": "hold me in your arms",
+      "url": "https://open.spotify.com/track/3e4iMLD1QVefLYMtlSF63F"
+    },
+    {
+      "album": {
         "name": "HOMAGE FUNK",
         "url": "https://open.spotify.com/album/53PlPC6A2mj9PsHr3N9cqj"
       },
@@ -19932,7 +19950,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 111549,
       "name": "HOT BOY",
       "url": "https://open.spotify.com/track/4t5wZJ3bsW8kCZvTJYbGsh"
@@ -19968,7 +19986,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 148887,
       "name": "Hotel Room",
       "url": "https://open.spotify.com/track/6DKSK32WwzBMZ0qAq28Zon"
@@ -31278,7 +31296,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 181649,
       "name": "NORMAL",
       "url": "https://open.spotify.com/track/4B4Q7zfd0aHcuhQBfCRnH5"
@@ -40461,6 +40479,24 @@
     },
     {
       "album": {
+        "name": "Somoneitor",
+        "url": "https://open.spotify.com/album/2SnYEm4Mv0bWhdGb0QO1jc"
+      },
+      "artists": [
+        {
+          "name": "Eddy LaBusch",
+          "url": "https://open.spotify.com/artist/1Ay12sY2rIb9dpHJwBdZpE"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185454,
+      "name": "Somoneitor",
+      "url": "https://open.spotify.com/track/7Ip5CQ9at91lpkzInHY2L4"
+    },
+    {
+      "album": {
         "name": "Somos Mugiwaras",
         "url": "https://open.spotify.com/album/6MskMZEHvFP50NY7ilSrlO"
       },
@@ -46272,7 +46308,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 122783,
       "name": "Vamo La Verde",
       "url": "https://open.spotify.com/track/3gxZiCxFemEW8TfaasaoVe"
@@ -46574,7 +46610,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 133746,
       "name": "VELOCIDADE",
       "url": "https://open.spotify.com/track/3J8uUvHttFs8zlYxoiPVe3"

@@ -323,6 +323,24 @@
     },
     {
       "album": {
+        "name": "Catskill Forest Preserve",
+        "url": "https://open.spotify.com/album/3hXgvl77LoBLLxZ83jfxb8"
+      },
+      "artists": [
+        {
+          "name": "Waveseekers",
+          "url": "https://open.spotify.com/artist/02ucRkp1Tm4yA5ZZwfG184"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247466,
+      "name": "Catskill Forest Preserve",
+      "url": "https://open.spotify.com/track/13NGtQYPvPqAt4e02LpDJz"
+    },
+    {
+      "album": {
         "name": "Country Crickets Sleep Aid Loop",
         "url": "https://open.spotify.com/album/6RqEMiXSrJ2CktsDvztFiA"
       },
@@ -809,6 +827,24 @@
     },
     {
       "album": {
+        "name": "Green Until Morning",
+        "url": "https://open.spotify.com/album/3vNdLwCQ5Eo6sjyTqjsnhn"
+      },
+      "artists": [
+        {
+          "name": "The Long Nap",
+          "url": "https://open.spotify.com/artist/2fTkJnbdhe9vfUyUbo7kaU"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124693,
+      "name": "Green Until Morning",
+      "url": "https://open.spotify.com/track/1ITX87YFb7grS21U6fmLRt"
+    },
+    {
+      "album": {
         "name": "Healing Rain",
         "url": "https://open.spotify.com/album/3q6h5lns25xvocifvgsXv8"
       },
@@ -953,6 +989,24 @@
     },
     {
       "album": {
+        "name": "Jungle Dusk at Pha Phum National Park",
+        "url": "https://open.spotify.com/album/3OB5IzUaQvdDudL0lExpw3"
+      },
+      "artists": [
+        {
+          "name": "Natural Song",
+          "url": "https://open.spotify.com/artist/3ztSSZCBD8e03TBMqPTQF3"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135106,
+      "name": "Jungle Dusk at Pha Phum National Park",
+      "url": "https://open.spotify.com/track/3xNme2mdtGrdxfsK5MHnDl"
+    },
+    {
+      "album": {
         "name": "Jungle Midnight Calm, Borneo",
         "url": "https://open.spotify.com/album/6bHAVMbGHxv0dx4BZnSk8b"
       },
@@ -986,6 +1040,24 @@
       "duration_ms": 188000,
       "name": "Jungle Pitter Patter",
       "url": "https://open.spotify.com/track/19a7gf1CPt9Oyx2yFwfqgC"
+    },
+    {
+      "album": {
+        "name": "Lastovo Island Summer Bird Song",
+        "url": "https://open.spotify.com/album/6VyiGolVtAZvMam8UgxOwt"
+      },
+      "artists": [
+        {
+          "name": "Natural Song",
+          "url": "https://open.spotify.com/artist/3ztSSZCBD8e03TBMqPTQF3"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195180,
+      "name": "Lastovo Island Summer Bird Song",
+      "url": "https://open.spotify.com/track/3j8Sl52J5JhGx8k7WpIJiI"
     },
     {
       "album": {
@@ -1126,7 +1198,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 166000,
       "name": "Na Foresta",
       "url": "https://open.spotify.com/track/6z3iPlhweUAe8gWOeYWYX4"
@@ -1678,7 +1750,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 132224,
       "name": "Rainy Day in the Jungle of Kauai",
       "url": "https://open.spotify.com/track/2U0N3cNFuhJU0b8En0BEwR"
@@ -1844,7 +1916,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 200000,
       "name": "Safari Bird Calls",
       "url": "https://open.spotify.com/track/5XC0e5O32qEFsAsEOeeg9x"
@@ -1880,7 +1952,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 180000,
       "name": "Savannah Rain",
       "url": "https://open.spotify.com/track/7bQW7iyHYo6cM9DVY0Dk6n"
@@ -1974,6 +2046,24 @@
       "duration_ms": 208000,
       "name": "Sleepy Rainforest",
       "url": "https://open.spotify.com/track/2zwb8MgGoTTA6eDUQ563v1"
+    },
+    {
+      "album": {
+        "name": "Sleepy Stream XIII",
+        "url": "https://open.spotify.com/album/4HOPK4G0nBdZwZ6oVTIWrl"
+      },
+      "artists": [
+        {
+          "name": "Mill Pond",
+          "url": "https://open.spotify.com/artist/1mCcjn2RW5BVsvDc8th5K7"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115409,
+      "name": "Sleepy Stream XIII",
+      "url": "https://open.spotify.com/track/1iGgsgW34vp3wnl1LL0ybf"
     },
     {
       "album": {
@@ -2460,7 +2550,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 125749,
       "name": "Whispering Trees in the Wild",
       "url": "https://open.spotify.com/track/45TgpexaojOZb4zok0pJaD"

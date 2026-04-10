@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-02-03",
-  "description": "New tunes from Ireland for your discovery. Cover: KNEECAP",
+  "description": "New tunes from Ireland for your discovery. Cover: Nell Mescal",
   "name": "A Breath of Fresh \u00c9ire",
   "tracks": [
     {
@@ -2284,7 +2284,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 191595,
       "name": "Fault Line",
       "url": "https://open.spotify.com/track/16hJb6Q1lb22hVc4IsJoCo"
@@ -2324,7 +2324,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 170013,
       "name": "Feels so Wrong",
       "url": "https://open.spotify.com/track/0SIjGMgwOFqwUTnpeesaz7"
@@ -3540,7 +3540,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 167964,
       "name": "Jacky",
       "url": "https://open.spotify.com/track/3bPy026qseqB4X4I380hVW"
@@ -3601,6 +3601,24 @@
     },
     {
       "album": {
+        "name": "Kick The Curb",
+        "url": "https://open.spotify.com/album/5mr4cqipb96XwX12Flio21"
+      },
+      "artists": [
+        {
+          "name": "NewDad",
+          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251440,
+      "name": "Kick The Curb",
+      "url": "https://open.spotify.com/track/0VjvyzMoleGvCVtGnJQI6O"
+    },
+    {
+      "album": {
         "name": "Kinda Love You'd See In A Movie",
         "url": "https://open.spotify.com/album/1ahQz1j0v6nsm6K800bH9L"
       },
@@ -3616,6 +3634,24 @@
       "duration_ms": 165175,
       "name": "Kinda Love You'd See In A Movie",
       "url": "https://open.spotify.com/track/50YV9vNH9kfN1NoAtWvgOR"
+    },
+    {
+      "album": {
+        "name": "Kissing The Ground",
+        "url": "https://open.spotify.com/album/2VlhBDoRmHdtU1HhxkpbU4"
+      },
+      "artists": [
+        {
+          "name": "Nell Mescal",
+          "url": "https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230604,
+      "name": "Kissing The Ground",
+      "url": "https://open.spotify.com/track/1uBcmYV9Ihtu4QicLJAj9K"
     },
     {
       "album": {
@@ -3670,6 +3706,24 @@
       "duration_ms": 213917,
       "name": "Let's Do It",
       "url": "https://open.spotify.com/track/4DS9xL0l8seJuilxgoxdGm"
+    },
+    {
+      "album": {
+        "name": "Life I Chose",
+        "url": "https://open.spotify.com/album/530cEtWkb3pn6NTwMiD6Nu"
+      },
+      "artists": [
+        {
+          "name": "Offica",
+          "url": "https://open.spotify.com/artist/3z9G13I73VCCZgf2j7i8q2"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213356,
+      "name": "Life I Chose",
+      "url": "https://open.spotify.com/track/2VL873YktGaHovvP1xCuc0"
     },
     {
       "album": {
@@ -3738,7 +3792,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 202000,
       "name": "Listening to Charm",
       "url": "https://open.spotify.com/track/34k5Lp3OQo0gNagSp31sN7"
@@ -4298,6 +4352,24 @@
       "duration_ms": 247190,
       "name": "Moments",
       "url": "https://open.spotify.com/track/3DLlsSUvnQG2WIJSy044AN"
+    },
+    {
+      "album": {
+        "name": "Moral Victory",
+        "url": "https://open.spotify.com/album/573Kvyj26bxfDm7Bj1cyTK"
+      },
+      "artists": [
+        {
+          "name": "Amble",
+          "url": "https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302908,
+      "name": "Moral Victory",
+      "url": "https://open.spotify.com/track/5D2AaNj4RfxSbHTSYjbb4E"
     },
     {
       "album": {
@@ -5561,6 +5633,28 @@
     },
     {
       "album": {
+        "name": "Rude (feat. Kojaque)",
+        "url": "https://open.spotify.com/album/1Xom9SIqeNlotFWsI3XSee"
+      },
+      "artists": [
+        {
+          "name": "KhakiKid",
+          "url": "https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp"
+        },
+        {
+          "name": "Kojaque",
+          "url": "https://open.spotify.com/artist/3ZHJIsD3uMwwjXlSpDzPtY"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Rude (feat. Kojaque)",
+      "url": "https://open.spotify.com/track/7d13dvKQT70XJvmtw6xCUX"
+    },
+    {
+      "album": {
         "name": "RUNAWAY",
         "url": "https://open.spotify.com/album/3zguSEANWhPXzGCI34R3aX"
       },
@@ -6282,7 +6376,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 212000,
       "name": "Sugarloaf",
       "url": "https://open.spotify.com/track/2GPm0LMrCQrmIunuEOViqf"

@@ -4,25 +4,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: Eileen Alister
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,651 likes - 49 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,651 likes - 49 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [What’s a Girl Gotta Do?](https://open.spotify.com/track/7w9sJY9vavT8cs6dYw5tAu) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Room Service](https://open.spotify.com/album/0g2jkSi7UiESfNkG24YGjZ) | 2:47 |
 | 2 | [Take me as i am](https://open.spotify.com/track/2XQW9PF9na8qextnDmjg9K) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [Will You Take Me As I Am?](https://open.spotify.com/album/5ozgfuDI2e1vjcSKwXkRaF) | 3:19 |
 | 3 | [schwindelig \(omgomgomg\)](https://open.spotify.com/track/6hQgOls99mEFCS8LSOQSUx) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [baby T EP](https://open.spotify.com/album/1cpx6JVPFV9fHA2RYbHxqC) | 2:06 |
-| 4 | [ein Lied für mich](https://open.spotify.com/track/5Fsu0TrOztCwhpt0TXhY3M) | [TOBIAS](https://open.spotify.com/artist/3LeoJmZQZL9anFRZK3NXLC) | [ein Lied für mich](https://open.spotify.com/album/4r9HLxIb968I4FynItwxFj) | 2:05 |
-| 5 | [belly of the beast](https://open.spotify.com/track/1wM7wW0GWCvWcWyDUjuQOF) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs), [Eugénie](https://open.spotify.com/artist/47aUSMdD5Sf0DpeOCyPL5K) | [bullfight](https://open.spotify.com/album/6nrmlkU9elKQBL5rePqqaD) | 3:36 |
-| 6 | [Vergeben \(ans Leben\)](https://open.spotify.com/track/3duSLGUdDRMd2xTnfk4xq8) | [error](https://open.spotify.com/artist/3CiuMe6mZlqH8TnuzA3AYp) | [Vergeben \(ans Leben\)](https://open.spotify.com/album/72yvEy7DONAkwTvch9C2rl) | 2:13 |
-| 7 | [Whats Next](https://open.spotify.com/track/7wO5DWtpteZMuWst5lNBVN) | [LUKAS OSCAR](https://open.spotify.com/artist/2us7w75YxBYkyYom4CAGKH) | [Everything’s Built To Last](https://open.spotify.com/album/17xPSt6j9Q0obY0yuINUXk) | 2:48 |
-| 8 | [Hannah Montana](https://open.spotify.com/track/7fidUHHPzuVuN6ECBsp2vJ) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3), [Bazzazian](https://open.spotify.com/artist/7k403TjkSs0KANqh7pe9Vn) | [Moth Music](https://open.spotify.com/album/0LM5Rb2wxnsyPBKA6unakp) | 3:38 |
-| 9 | [Dankbar](https://open.spotify.com/track/0iggusHoFL0jVH9a3rMMUT) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Dankbar](https://open.spotify.com/album/7I41RkVYbBHhTrnPdCjaDm) | 2:43 |
-| 10 | [ich geh heut nicht unter leute](https://open.spotify.com/track/77AsCJLBa94GKDvCFOoZ00) | [Mika Noé](https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9) | [ich geh heut nicht unter leute](https://open.spotify.com/album/5rL4J0Nep5EObOA3DipZRQ) | 2:23 |
-| 11 | [Mich selbst](https://open.spotify.com/track/42qXgF9aACLBZjcMnpfO36) | [moé](https://open.spotify.com/artist/2Odi4EJdB2wFUTMWNCxJ7T) | [Mich selbst](https://open.spotify.com/album/0GVBQN5S6CykRYpprV3l0d) | 3:48 |
-| 12 | [Gib uns nicht auf](https://open.spotify.com/track/4Rfv2xTvaOIrJpYTmrMiju) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo), [JIGGO](https://open.spotify.com/artist/5Pmsa0FeoMFWsjhpo2bIAK) | [Gib uns nicht auf](https://open.spotify.com/album/3uMI5CuOOqZLw2rUqa5uit) | 2:36 |
-| 13 | [effy stonem](https://open.spotify.com/track/5eKOnBoLoDfuW00kDvn4s4) | [liska](https://open.spotify.com/artist/279fWE4KpU6bqxsBypK8C4) | [effy stonem](https://open.spotify.com/album/3vmu817adQqXT4VCNbuI1t) | 3:11 |
-| 14 | [Milk](https://open.spotify.com/track/3sFCKf3AsmHIPJPnkIg8PG) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [Milk](https://open.spotify.com/album/5YSgMAS15Hai4c69Gfnzez) | 4:18 |
-| 15 | [LIEBE ODER PFLICHT](https://open.spotify.com/track/065HHeAU5OjYWfODBnmWrI) | [Niyas](https://open.spotify.com/artist/3vsudk9aA5Cx5JHEqpNY6k) | [LIEBE ODER PFLICHT](https://open.spotify.com/album/60c7iOpvcauQMzC93KHxvp) | 2:19 |
+| 4 | [FEHLER](https://open.spotify.com/track/5FtUIB7VhWGi9ZmcFFeNHU) | [Niyas](https://open.spotify.com/artist/3vsudk9aA5Cx5JHEqpNY6k) | [FEHLER](https://open.spotify.com/album/2rFYSttek6eovCXxI704e8) | 2:10 |
+| 5 | [ein Lied für mich](https://open.spotify.com/track/5Fsu0TrOztCwhpt0TXhY3M) | [TOBIAS](https://open.spotify.com/artist/3LeoJmZQZL9anFRZK3NXLC) | [ein Lied für mich](https://open.spotify.com/album/4r9HLxIb968I4FynItwxFj) | 2:05 |
+| 6 | [belly of the beast](https://open.spotify.com/track/1wM7wW0GWCvWcWyDUjuQOF) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs), [Eugénie](https://open.spotify.com/artist/47aUSMdD5Sf0DpeOCyPL5K) | [bullfight](https://open.spotify.com/album/6nrmlkU9elKQBL5rePqqaD) | 3:36 |
+| 7 | [Vergeben \(ans Leben\)](https://open.spotify.com/track/3duSLGUdDRMd2xTnfk4xq8) | [error](https://open.spotify.com/artist/3CiuMe6mZlqH8TnuzA3AYp) | [Vergeben \(ans Leben\)](https://open.spotify.com/album/72yvEy7DONAkwTvch9C2rl) | 2:13 |
+| 8 | [Whats Next](https://open.spotify.com/track/7wO5DWtpteZMuWst5lNBVN) | [LUKAS OSCAR](https://open.spotify.com/artist/2us7w75YxBYkyYom4CAGKH) | [Everything’s Built To Last](https://open.spotify.com/album/17xPSt6j9Q0obY0yuINUXk) | 2:48 |
+| 9 | [Hannah Montana](https://open.spotify.com/track/7fidUHHPzuVuN6ECBsp2vJ) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3), [Bazzazian](https://open.spotify.com/artist/7k403TjkSs0KANqh7pe9Vn) | [Moth Music](https://open.spotify.com/album/0LM5Rb2wxnsyPBKA6unakp) | 3:38 |
+| 10 | [Dankbar](https://open.spotify.com/track/0iggusHoFL0jVH9a3rMMUT) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Dankbar](https://open.spotify.com/album/7I41RkVYbBHhTrnPdCjaDm) | 2:43 |
+| 11 | [ich geh heut nicht unter leute](https://open.spotify.com/track/77AsCJLBa94GKDvCFOoZ00) | [Mika Noé](https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9) | [ich geh heut nicht unter leute](https://open.spotify.com/album/5rL4J0Nep5EObOA3DipZRQ) | 2:23 |
+| 12 | [Mich selbst](https://open.spotify.com/track/42qXgF9aACLBZjcMnpfO36) | [moé](https://open.spotify.com/artist/2Odi4EJdB2wFUTMWNCxJ7T) | [Mich selbst](https://open.spotify.com/album/0GVBQN5S6CykRYpprV3l0d) | 3:48 |
+| 13 | [Gib uns nicht auf](https://open.spotify.com/track/4Rfv2xTvaOIrJpYTmrMiju) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo), [JIGGO](https://open.spotify.com/artist/5Pmsa0FeoMFWsjhpo2bIAK) | [Gib uns nicht auf](https://open.spotify.com/album/3uMI5CuOOqZLw2rUqa5uit) | 2:36 |
+| 14 | [effy stonem](https://open.spotify.com/track/5eKOnBoLoDfuW00kDvn4s4) | [liska](https://open.spotify.com/artist/279fWE4KpU6bqxsBypK8C4) | [effy stonem](https://open.spotify.com/album/3vmu817adQqXT4VCNbuI1t) | 3:11 |
+| 15 | [Milk](https://open.spotify.com/track/3sFCKf3AsmHIPJPnkIg8PG) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [Milk](https://open.spotify.com/album/5YSgMAS15Hai4c69Gfnzez) | 4:18 |
 | 16 | [Speakers Blowing](https://open.spotify.com/track/2qVqEzl038sc3Br5pp9b8K) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [Speakers Blowing](https://open.spotify.com/album/1RmuOXWU4VmyJYFvHS9nSN) | 3:41 |
 | 17 | [soft prn](https://open.spotify.com/track/19KtAWkvjC37sWGIDf76CH) | [panicbaby](https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA) | [soft prn](https://open.spotify.com/album/4ni9Y0IHtsDXzTqG4fPatp) | 2:25 |
 | 18 | [I Hate Love](https://open.spotify.com/track/0LeyCzaxWW6ashnoEiow37) | [Lina\-Mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [I Hate Love](https://open.spotify.com/album/1kA1toYzXRZe6fZle3oLQH) | 3:12 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 | 48 | [Trajadão](https://open.spotify.com/track/3C9dOOUF0nUTy1hSvBEe7H) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Sun FM](https://open.spotify.com/album/16loyrI8kbGUd53IzTBXE3) | 2:42 |
 | 49 | [arsch der welt](https://open.spotify.com/track/5Biw0sdkjcyNxBRdA2gkvy) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ), [jolle](https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ) | [arsch der welt](https://open.spotify.com/album/2axT5MfRsRkkldQcXMhVGB) | 2:37 |
 
-Snapshot ID: `AAAAACq111UK3BttmQ8XoB6GfMVGm9nH`
+Snapshot ID: `AAAAAF/OYXu1jJBE9mWiUe9kP5nTvBlJ`

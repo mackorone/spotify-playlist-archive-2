@@ -384,7 +384,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 253317,
       "name": "Ah Ya",
       "url": "https://open.spotify.com/track/3MaYsrNTYEASQ8Ean2d8WE"
@@ -3194,7 +3194,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-13",
+      "date_removed": null,
       "duration_ms": 138906,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/5HEx0ZwJEmZhvjlrMYnSuf"
@@ -5892,18 +5892,6 @@
         {
           "name": "Sonnee",
           "url": "https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr"
-        },
-        {
-          "name": "Joseph Obaidi",
-          "url": "https://open.spotify.com/artist/3B7v0zb1J46lSGeqdCXrue"
-        },
-        {
-          "name": "Alex Condliffe",
-          "url": "https://open.spotify.com/artist/3dFqyBhsezU3bAXdcZZbtP"
-        },
-        {
-          "name": "Noah Booth",
-          "url": "https://open.spotify.com/artist/5bmlm898bu8tqbAAlt3TCh"
         }
       ],
       "date_added": "2026-03-16",

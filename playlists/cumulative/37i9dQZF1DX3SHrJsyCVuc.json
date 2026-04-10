@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "Punk spirit, alternative bones. Music that pushes us forward. Cover: Lambrini Girls",
+  "description": "Punk spirit, alternative bones. Music that pushes us forward. Cover: Dead Finks",
   "name": "Wire",
   "tracks": [
     {
@@ -60,6 +60,24 @@
       "duration_ms": 185806,
       "name": "Advent",
       "url": "https://open.spotify.com/track/4wwIHkbzhbFldUz420aDDY"
+    },
+    {
+      "album": {
+        "name": "New Plastik Abyss",
+        "url": "https://open.spotify.com/album/1P0ItuKDoa4kT9hpOZFwjF"
+      },
+      "artists": [
+        {
+          "name": "Dead Finks",
+          "url": "https://open.spotify.com/artist/00tkcgJcr35Rwj3XBmQAgQ"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235360,
+      "name": "Anodyne",
+      "url": "https://open.spotify.com/track/5JdLdXEzqQaHupskdS7a6Z"
     },
     {
       "album": {
@@ -193,6 +211,24 @@
     },
     {
       "album": {
+        "name": "Bittersweet Excess",
+        "url": "https://open.spotify.com/album/0ErYQXd50C1Yv77UxfaOVj"
+      },
+      "artists": [
+        {
+          "name": "Loose Fit",
+          "url": "https://open.spotify.com/artist/0uheKgZvAN1XtSaIsSV3IO"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239080,
+      "name": "Bittersweet Excess",
+      "url": "https://open.spotify.com/track/2sKT09C4vZaawvqjVmTmOH"
+    },
+    {
+      "album": {
         "name": "Black & Blue",
         "url": "https://open.spotify.com/album/5TFe3QVQa0BEaHBKK21Pa9"
       },
@@ -320,7 +356,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 182039,
       "name": "Bug",
       "url": "https://open.spotify.com/track/0MXmiqd7zoXxv6Gqn9ahhQ"
@@ -374,7 +410,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 217509,
       "name": "Can't Feel It",
       "url": "https://open.spotify.com/track/0FeXCUdFEYzYRxsl0ntsgH"
@@ -1017,6 +1053,28 @@
     },
     {
       "album": {
+        "name": "The Divine",
+        "url": "https://open.spotify.com/album/15tkGgCqPiqktQImQw8Uy0"
+      },
+      "artists": [
+        {
+          "name": "Hektor",
+          "url": "https://open.spotify.com/artist/6TkIRova0MUAByYUBmbVnd"
+        },
+        {
+          "name": "Teether",
+          "url": "https://open.spotify.com/artist/4rWywJgjoeVMO8LY87xYZo"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237419,
+      "name": "Green Screen",
+      "url": "https://open.spotify.com/track/1P8hB555l5NAmbfIq2xvtz"
+    },
+    {
+      "album": {
         "name": "Head In A Toaster",
         "url": "https://open.spotify.com/album/3fvhuLxy0ynDpYUlL5MxYM"
       },
@@ -1118,7 +1176,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 176083,
       "name": "How I'm Feeling",
       "url": "https://open.spotify.com/track/1RDdXBaANrNnJX17Lqh9hv"
@@ -1176,7 +1234,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 211651,
       "name": "I.D.C.",
       "url": "https://open.spotify.com/track/2nnyvuEKMFWm006YaI5fb1"
@@ -1493,6 +1551,24 @@
     },
     {
       "album": {
+        "name": "More Horse, Less Code",
+        "url": "https://open.spotify.com/album/0SUT2qcFWQqvmMTyh2f2Tg"
+      },
+      "artists": [
+        {
+          "name": "media puzzle",
+          "url": "https://open.spotify.com/artist/1JFW3ACD123onrCbzNag5Z"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117101,
+      "name": "More Horse, Less Code",
+      "url": "https://open.spotify.com/track/1IQhCIhuDX2MgElAomxXWl"
+    },
+    {
+      "album": {
         "name": "Nausea",
         "url": "https://open.spotify.com/album/0MJVMWhQjrVp9aE7M5b9mi"
       },
@@ -1617,6 +1693,28 @@
     },
     {
       "album": {
+        "name": "Nothing Matters (feat. Maresz)",
+        "url": "https://open.spotify.com/album/68H5ipiHhUvkNO03s9n0oz"
+      },
+      "artists": [
+        {
+          "name": "RIP Swirl",
+          "url": "https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V"
+        },
+        {
+          "name": "Maresz",
+          "url": "https://open.spotify.com/artist/0sVLsjXKoUaUTQFUt2bRaW"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182386,
+      "name": "Nothing Matters (feat. Maresz)",
+      "url": "https://open.spotify.com/track/6GzUTy6FxAaSVEvlxJXgFB"
+    },
+    {
+      "album": {
         "name": "nuclear",
         "url": "https://open.spotify.com/album/34OS4k4RcL6LjVxWoZ4ick"
       },
@@ -1668,6 +1766,24 @@
       "duration_ms": 152414,
       "name": "One Train",
       "url": "https://open.spotify.com/track/5CiLlBxMClDoCe7fAJfn8p"
+    },
+    {
+      "album": {
+        "name": "Out in the Cold",
+        "url": "https://open.spotify.com/album/0yw2HPjvofIC090IOFx28b"
+      },
+      "artists": [
+        {
+          "name": "Bennetts Grove",
+          "url": "https://open.spotify.com/artist/4LLUP13hqBwDZJqDse7UbA"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276920,
+      "name": "Out in the Cold",
+      "url": "https://open.spotify.com/track/2C6F59QTIWhaSseXYh98HT"
     },
     {
       "album": {
@@ -2170,7 +2286,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 191320,
       "name": "Smart Enough",
       "url": "https://open.spotify.com/track/5VFyaFiyWTZZEGQU3iWaMu"
@@ -2632,7 +2748,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 202718,
       "name": "Unbloom",
       "url": "https://open.spotify.com/track/3XYmSdSxnThuQvZbbjHiji"

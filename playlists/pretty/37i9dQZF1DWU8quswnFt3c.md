@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume\. Cover: BINI
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,043,379 likes - 64 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,043,302 likes - 65 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,10 +28,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 18 | [Kahit Na](https://open.spotify.com/track/4bUWuL5Mi0B5tnHfvude5h) | [Toni Gonzaga](https://open.spotify.com/artist/5BAyYwbv8OSfqeXMjPgWX6) | [Kahit Na](https://open.spotify.com/album/08HIYYuRaIsmFpnI1YGXAp) | 3:33 |
 | 19 | [Tala](https://open.spotify.com/track/6C6F2oA7cmZKqq26FPGl0J) | [Sarah Geronimo](https://open.spotify.com/artist/6aiCKnIN68hohzU3ZzNq48) | [The Great Unknown](https://open.spotify.com/album/7oZVQrwrQyq7Y3I2m06oeN) | 4:05 |
 | 20 | [Tadhana](https://open.spotify.com/track/6FIEuf1JIzmCtach0gXpeG) | [Up Dharma Down](https://open.spotify.com/artist/3wbCeEPAW6po7J46netxMT) | [Capacities](https://open.spotify.com/album/1QpFitywD6FWjFWvTmLOw9) | 3:42 |
-| 21 | [Ako Na Lang](https://open.spotify.com/track/0HEgpKfIPNUNzDsrBt3o3l) | [Zia Quizon](https://open.spotify.com/artist/45n4dyhe8nXULBDb6wHSXe) | [Zia](https://open.spotify.com/album/5oTW0Kf2BAIaXWQAttdsbs) | 3:24 |
+| 21 | [Night at the Opera](https://open.spotify.com/track/4ikhbKiw9pKYkWitSR7M7u) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Night at the Opera](https://open.spotify.com/album/2XU7TKFSPdMo3dyNWLdvjO) | 3:04 |
 | 22 | [Senses ft\. Sampha](https://open.spotify.com/track/53j4dcm9Jn47sFJx8nVz5X) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Ambiguous Desire](https://open.spotify.com/album/2l7Qtf3Mffx6ZIDTpyaMtS) | 4:02 |
-| 23 | [Paligoy\-Ligoy \- From "Diary Ng Panget"](https://open.spotify.com/track/2mHZkcKMA1MkXAziIXQtVv) | [Nadine Lustre](https://open.spotify.com/artist/17Do37U0HEbxu1tOrKH8dL) | [Paligoy\-Ligoy \(From "Diary Ng Panget"\)](https://open.spotify.com/album/3KCYGc5oOMidMFih08J4or) | 3:18 |
-| 24 | [Night at the Opera](https://open.spotify.com/track/4ikhbKiw9pKYkWitSR7M7u) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Night at the Opera](https://open.spotify.com/album/2XU7TKFSPdMo3dyNWLdvjO) | 3:04 |
+| 23 | [Ako Na Lang](https://open.spotify.com/track/0HEgpKfIPNUNzDsrBt3o3l) | [Zia Quizon](https://open.spotify.com/artist/45n4dyhe8nXULBDb6wHSXe) | [Zia](https://open.spotify.com/album/5oTW0Kf2BAIaXWQAttdsbs) | 3:24 |
+| 24 | [Paligoy\-Ligoy \- From "Diary Ng Panget"](https://open.spotify.com/track/2mHZkcKMA1MkXAziIXQtVv) | [Nadine Lustre](https://open.spotify.com/artist/17Do37U0HEbxu1tOrKH8dL) | [Paligoy\-Ligoy \(From "Diary Ng Panget"\)](https://open.spotify.com/album/3KCYGc5oOMidMFih08J4or) | 3:18 |
 | 25 | [Use Me](https://open.spotify.com/track/3I6q7b1keDmi75xjPT2RIs) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [THAT'S SHOWBIZ BABY! THE ENCORE](https://open.spotify.com/album/7IjN10VEnyA5wnPOcLx12H) | 3:18 |
 | 26 | [こんな日は](https://open.spotify.com/track/7HKhGLOcEBQoRLOCZqhcg5) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [こんな日は](https://open.spotify.com/album/2G0dlVPEasPaP53aWvS9Z9) | 3:07 |
 | 27 | [Titibo\-Tibo](https://open.spotify.com/track/2zArX6uAJaGQzMXoqob8V6) | [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [Malaya](https://open.spotify.com/album/4MPMYc8S6csdHlF8Ud1yLp) | 3:22 |
@@ -53,12 +53,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 43 | [steer](https://open.spotify.com/track/4H6koInIFUq2k2qaSFPuWG) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [steer](https://open.spotify.com/album/6eV82gYdpWpoQVbBJjqTIK) | 2:58 |
 | 44 | [Fluturi](https://open.spotify.com/track/3SWHzg17hqXGkiOdox5jkS) | [EMAA](https://open.spotify.com/artist/4j4xD0oanPaJMB0BVqsRGE) | [Fluturi](https://open.spotify.com/album/21ylqkjzBLno60czMwYYle) | 2:35 |
 | 45 | [Maghron La](https://open.spotify.com/track/6zU7GoGlsJtIUNPRGNl0m8) | [Sabri Sisters](https://open.spotify.com/artist/5LBIpDf0NQMSYa6O42d9Mn), [Rozeo](https://open.spotify.com/artist/0mojEh0eM7WmhBI4WBCmE0) | [Maghron La](https://open.spotify.com/album/0WwgZENQ2PIRVDqaVNzlSA) | 4:06 |
-| 46 | [3AM in San Francisco](https://open.spotify.com/track/1fHl2iP3wNPBVIj6RUjXue) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [3AM in San Francisco](https://open.spotify.com/album/4pSkt6nxEHn3LBrKf6XpQ2) | 2:26 |
-| 47 | [¿ARDIDA QUIÉN?](https://open.spotify.com/track/0gCqNU4anOEcpwUY0u44br) | [Viviann Baeza](https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo), [María León](https://open.spotify.com/artist/132xFnGXTZoDfZWuMDE4tc) | [¿ARDIDA QUIÉN?](https://open.spotify.com/album/4oxsCPmw0U4j8Rg5jg6ygJ) | 2:20 |
+| 46 | [¿ARDIDA QUIÉN?](https://open.spotify.com/track/0gCqNU4anOEcpwUY0u44br) | [Viviann Baeza](https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo), [María León](https://open.spotify.com/artist/132xFnGXTZoDfZWuMDE4tc) | [¿ARDIDA QUIÉN?](https://open.spotify.com/album/4oxsCPmw0U4j8Rg5jg6ygJ) | 2:20 |
+| 47 | [3AM in San Francisco](https://open.spotify.com/track/1fHl2iP3wNPBVIj6RUjXue) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [3AM in San Francisco](https://open.spotify.com/album/4pSkt6nxEHn3LBrKf6XpQ2) | 2:26 |
 | 48 | [Must Be](https://open.spotify.com/track/4jYwgNne9MLJjkoQ3KTyX9) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Must Be](https://open.spotify.com/album/6AFChJzqPoA4WOpZVqtZTW) | 2:55 |
 | 49 | [Sun\-Kissed](https://open.spotify.com/track/5zKu2kbKSpzr5QvINZswOy) | [Sugar 'N Spice](https://open.spotify.com/artist/19QSRQEb3DVrOHPiExaZSl) | [Sun\-Kissed](https://open.spotify.com/album/5UzL6zf0GmyjtKuqlGoJNT) | 2:51 |
-| 50 | [Kiss u goodnight](https://open.spotify.com/track/4Vz6slkVySutvsUxegFupk) | [Forty 顏世琳](https://open.spotify.com/artist/1OkGOCTTKlEi1RBg9lsb9V) | [Kiss u goodnight](https://open.spotify.com/album/0no5KOn0MFnit0HXQr8M9S) | 3:14 |
-| 51 | [Toma Toma](https://open.spotify.com/track/1zJxOcvQ84OzBsAfGcrWtc) | [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7), [Taliixo Beatz](https://open.spotify.com/artist/0zJbnxrPTqqwSac6FEHWKE), [Wiils](https://open.spotify.com/artist/5nlb9fduEXeYSS8K6IkFwj) | [Toma Toma](https://open.spotify.com/album/1rKwmiX9ouMu23H5cddHqC) | 2:40 |
+| 50 | [Toma Toma](https://open.spotify.com/track/1zJxOcvQ84OzBsAfGcrWtc) | [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7), [Taliixo Beatz](https://open.spotify.com/artist/0zJbnxrPTqqwSac6FEHWKE), [Wiils](https://open.spotify.com/artist/5nlb9fduEXeYSS8K6IkFwj) | [Toma Toma](https://open.spotify.com/album/1rKwmiX9ouMu23H5cddHqC) | 2:40 |
+| 51 | [Kiss u goodnight](https://open.spotify.com/track/4Vz6slkVySutvsUxegFupk) | [Forty 顏世琳](https://open.spotify.com/artist/1OkGOCTTKlEi1RBg9lsb9V) | [Kiss u goodnight](https://open.spotify.com/album/0no5KOn0MFnit0HXQr8M9S) | 3:14 |
 | 52 | [Big Girl Don’t You Cry](https://open.spotify.com/track/1uOvwcp4JvIJ7UUa9GKAwS) | [Châu Bùi](https://open.spotify.com/artist/6mKDR6IdsyqRp38x1uigAR) | [Big Girl Don’t You Cry](https://open.spotify.com/album/6SLJql6MEBS3SRMrSIY61H) | 3:52 |
 | 53 | [You Cannot Erase Us](https://open.spotify.com/track/5bEPnxCjUwTua7uca5ctaA) | [Emel](https://open.spotify.com/artist/06MtOym27ALcfdtVOsRcaA), [TÄRA](https://open.spotify.com/artist/0ez4Y0vHwlRCrqGIkChC3Q) | [You Cannot Erase Us](https://open.spotify.com/album/0EP4syxuSGZmVWGbwM5H0r) | 3:23 |
 | 54 | [Labo](https://open.spotify.com/track/4QEbIB6GWEZnpByVrQxwxV) | [KZ Tandingan](https://open.spotify.com/artist/1mcqfNCReSFxun2vIWvC28) | [Soul Supremacy](https://open.spotify.com/album/4VXinL1sWgdVvjaYTAOiA8) | 3:42 |
@@ -68,9 +68,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 58 | [HOE \(kdo to je?\)](https://open.spotify.com/track/0fXfzd6uIQRqkXWFkvMbK8) | [Sawsane](https://open.spotify.com/artist/4RqCdNHpABy3V9tfKsf5QG) | [HOE \(kdo to je?\)](https://open.spotify.com/album/4ee5HmmQU5f1LC8aCH7wYL) | 2:29 |
 | 59 | [Supreme Dee](https://open.spotify.com/track/5Hvxbn7QfC2npYUlAGQjIG) | [DEELA](https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4) | [Wicked](https://open.spotify.com/album/5qiNP8sA873ePgXKzXuztO) | 2:08 |
 | 60 | [Szellemek](https://open.spotify.com/track/0tYCr8lxJhlXI8bZv8Zgo4) | [Blansch](https://open.spotify.com/artist/3ayr9hpwhjojhJ4wuqVQED) | [Szellemek](https://open.spotify.com/album/0r14dlYQr7H4RBtXxwb0QJ) | 2:30 |
-| 61 | [When We Were Young](https://open.spotify.com/track/7IWkJwX9C0J7tHurTD7ViL) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/0K4pIOOsfJ9lK8OjrZfXzd) | 4:50 |
-| 62 | [Power](https://open.spotify.com/track/03Nor3UpgNjFpsv4rEQSgr) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Glory Days \(Deluxe\)](https://open.spotify.com/album/2GJLzxAajkFeyDPVH7X4Cs) | 4:07 |
-| 63 | [Piya/ I Wanna?](https://open.spotify.com/track/1VZZTmpzNQBe1VMSaijusB) | [Monali Thakur](https://open.spotify.com/artist/2o4R2rK7FetH40HTv0SUWl) | [Butterflies](https://open.spotify.com/album/6kJ6MCCbFfngKR9Xq4orhN) | 2:18 |
+| 61 | [Piya/ I Wanna?](https://open.spotify.com/track/1VZZTmpzNQBe1VMSaijusB) | [Monali Thakur](https://open.spotify.com/artist/2o4R2rK7FetH40HTv0SUWl) | [Butterflies](https://open.spotify.com/album/6kJ6MCCbFfngKR9Xq4orhN) | 2:18 |
+| 62 | [When We Were Young](https://open.spotify.com/track/7IWkJwX9C0J7tHurTD7ViL) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/0K4pIOOsfJ9lK8OjrZfXzd) | 4:50 |
+| 63 | [Power](https://open.spotify.com/track/03Nor3UpgNjFpsv4rEQSgr) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Glory Days \(Deluxe\)](https://open.spotify.com/album/2GJLzxAajkFeyDPVH7X4Cs) | 4:07 |
 | 64 | [pov](https://open.spotify.com/track/1qCHCDdq2oEGPRCkugPAfZ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [NOW That's What I Call Music, Vol\. 79](https://open.spotify.com/album/39SS3PDEJrpM9NZXjn2Njm) | 3:19 |
+| 65 | [PICKY PICKY](https://open.spotify.com/track/1rXkRz2Kq0OPtUCbYl1FnR) | [Jaime Cheung](https://open.spotify.com/artist/0HlQqnAtrcPAXQcfdKqz5h) | [PICKY PICKY](https://open.spotify.com/album/5ALLCCDEVDdmmuSDeNE1ZW) | 2:08 |
 
 Snapshot ID: `AAAAAKO8RUzyL9BIa7y4An+aYx9wZId6`

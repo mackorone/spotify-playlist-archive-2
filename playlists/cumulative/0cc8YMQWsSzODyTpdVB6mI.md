@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/0cc8YMQWsSzODyTpdVB6mI.md) - cumulative - [plain](/playlists/plain/0cc8YMQWsSzODyTpdVB6mI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0cc8YMQWsSzODyTpdVB6mI)
 
-### [Sunset to Sunrise \(2026\)](https://open.spotify.com/playlist/0cc8YMQWsSzODyTpdVB6mI)
+### [Ibiza ultimate mix \(2026\)](https://open.spotify.com/playlist/0cc8YMQWsSzODyTpdVB6mI)
 
 > To travel between house, deep house and positive vibes !
 

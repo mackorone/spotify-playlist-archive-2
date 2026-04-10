@@ -1,12 +1,12 @@
 {
   "description": "This is Forrest Frank. The essential tracks, all in one playlist.",
-  "num_followers": 191799,
+  "num_followers": 191927,
   "original_name": "This Is Forrest Frank",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adRJAAAAAADyH0pLnPyOQgSA+EmKXkcZ",
+  "snapshot_id": "adWagAAAAACaI/Xte3rXnEA/GkGH/ARt",
   "tracks": [
     {
       "added_at": null,
@@ -47,6 +47,26 @@
       "duration_ms": 206416,
       "name": "WASTE SOME TIME",
       "url": "https://open.spotify.com/track/2ILaUBvEAGFGpEES1uHega"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DAWN PATROL",
+        "url": "https://open.spotify.com/album/0DM6P83bgDbFuwNaZz09fh"
+      },
+      "artists": [
+        {
+          "name": "PARTY WAVE",
+          "url": "https://open.spotify.com/artist/6iQ0SOfahRnTthPNGhgzkB"
+        },
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 159818,
+      "name": "SOMETHING IN THE WATER",
+      "url": "https://open.spotify.com/track/38abUcedwmO4pyKllQBNxO"
     },
     {
       "added_at": null,

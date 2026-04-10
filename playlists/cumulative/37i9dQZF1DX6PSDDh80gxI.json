@@ -545,6 +545,24 @@
     },
     {
       "album": {
+        "name": "alla luna",
+        "url": "https://open.spotify.com/album/3XhsUfKCOuSJKqLYrVP5zU"
+      },
+      "artists": [
+        {
+          "name": "marsea",
+          "url": "https://open.spotify.com/artist/7mw9gGWm4SBXadBNhW1OMX"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256375,
+      "name": "alla luna",
+      "url": "https://open.spotify.com/track/0OuHeXyrPEZNbCJZ9raCIH"
+    },
+    {
+      "album": {
         "name": "Allucinazione",
         "url": "https://open.spotify.com/album/54CcbtH5Kq625vyy8V27XQ"
       },
@@ -2930,10 +2948,28 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 180000,
       "name": "giochi di gambe (faccianuvola rework)",
       "url": "https://open.spotify.com/track/5XJMc1j7M2b4l5v6fBYaNO"
+    },
+    {
+      "album": {
+        "name": "giovani bukowski",
+        "url": "https://open.spotify.com/album/0zfFVmBQChWLUj9jzrnyvB"
+      },
+      "artists": [
+        {
+          "name": "Fausto Lama",
+          "url": "https://open.spotify.com/artist/5h3Z2Vlk3KkOi99YZ2MwGI"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128931,
+      "name": "giovani bukowski",
+      "url": "https://open.spotify.com/track/3GWAC76LR99q0gUWCe5IYW"
     },
     {
       "album": {
@@ -3592,6 +3628,24 @@
       "duration_ms": 179368,
       "name": "Invisibili",
       "url": "https://open.spotify.com/track/7rVm1y1a0aV373jjjKsypf"
+    },
+    {
+      "album": {
+        "name": "Miss Italia",
+        "url": "https://open.spotify.com/album/2UNSUlpESFHb4nVMzTZDbV"
+      },
+      "artists": [
+        {
+          "name": "Ditonellapiaga",
+          "url": "https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204415,
+      "name": "Io",
+      "url": "https://open.spotify.com/track/4rhwdSzWu9U9deLwG6Ho3O"
     },
     {
       "album": {
@@ -4307,6 +4361,24 @@
     },
     {
       "album": {
+        "name": "Le cose che voglio",
+        "url": "https://open.spotify.com/album/3yuxcU6HaTgF9xppQcUaAV"
+      },
+      "artists": [
+        {
+          "name": "Amari",
+          "url": "https://open.spotify.com/artist/24iuxoMKP2gDBWQK8InyMl"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164554,
+      "name": "Le cose che voglio",
+      "url": "https://open.spotify.com/track/0gDYEEbX6OoNFsNSNrXZUT"
+    },
+    {
+      "album": {
         "name": "LE LINGUE LA MATEMATICA",
         "url": "https://open.spotify.com/album/2IB6EoE075I3YaScTcaQgo"
       },
@@ -4354,7 +4426,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 148542,
       "name": "Le Stelle",
       "url": "https://open.spotify.com/track/2SMLeCOIlXgxPk4AirSsDf"
@@ -4632,7 +4704,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 236466,
       "name": "Lungomare",
       "url": "https://open.spotify.com/track/6rpB0DiyYEqpnGXpC3pVly"
@@ -4730,7 +4802,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 188653,
       "name": "Madchester",
       "url": "https://open.spotify.com/track/4aUZApDWF1VmtF6FuGANZO"
@@ -5107,6 +5179,24 @@
     },
     {
       "album": {
+        "name": "Meravigliosa incoscienza",
+        "url": "https://open.spotify.com/album/6XOUAsdLlX4l0AOf7YkSBC"
+      },
+      "artists": [
+        {
+          "name": "Dimartino",
+          "url": "https://open.spotify.com/artist/1k3zqz5SgrYCE0wpcfJX3g"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256813,
+      "name": "Meravigliosa incoscienza",
+      "url": "https://open.spotify.com/track/1SYFFK3hcbQqT4v7Ebnfx0"
+    },
+    {
+      "album": {
         "name": "Mezzo secondo",
         "url": "https://open.spotify.com/album/0X7Cr7xdDJigfJti8X0j49"
       },
@@ -5404,6 +5494,24 @@
       "duration_ms": 209128,
       "name": "NERO MASCARA",
       "url": "https://open.spotify.com/track/34XpVQyYbTZb5hmldVrlvl"
+    },
+    {
+      "album": {
+        "name": "stare al mondo",
+        "url": "https://open.spotify.com/album/6FTbaxb6QghMZu27b3eFHV"
+      },
+      "artists": [
+        {
+          "name": "Matteo Alieno",
+          "url": "https://open.spotify.com/artist/0HFD1kS1lUZkZaGX0702QM"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188813,
+      "name": "nessuno sa stare al mondo",
+      "url": "https://open.spotify.com/track/3ijv3rvrhdJb36MiOAWi7T"
     },
     {
       "album": {
@@ -6756,7 +6864,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 205405,
       "name": "Potevamo fare schifo insieme",
       "url": "https://open.spotify.com/track/7FLt6SkjRi9pQM0HrtJ9KH"
@@ -6902,7 +7010,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 172173,
       "name": "PURO CAOS (feat. Nayt)",
       "url": "https://open.spotify.com/track/1su7irwzQqGNYv8uk8hcMV"
@@ -7170,6 +7278,24 @@
       "duration_ms": 139175,
       "name": "Riconoscimi",
       "url": "https://open.spotify.com/track/04RpjFlIhKO73O27kuXOxm"
+    },
+    {
+      "album": {
+        "name": "Terre Rare",
+        "url": "https://open.spotify.com/album/1rdC7pskTVcEMixP00WREq"
+      },
+      "artists": [
+        {
+          "name": "Subsonica",
+          "url": "https://open.spotify.com/artist/7DzxfMQ3VNYR5vw2UFjzSK"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242059,
+      "name": "Rifugio",
+      "url": "https://open.spotify.com/track/4KRBxpRyEEXAkUmmznY0OF"
     },
     {
       "album": {
@@ -8530,7 +8656,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 138302,
       "name": "Total Black",
       "url": "https://open.spotify.com/track/4614KVpaV7SSFSrx647tS0"

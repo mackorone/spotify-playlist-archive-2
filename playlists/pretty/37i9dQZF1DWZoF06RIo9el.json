@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor de marzo 2026. Cover: Mar\u00eda Isabel",
-  "num_followers": 1555780,
+  "num_followers": 1555726,
   "original_name": "Lo mejor del mes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACJ8jYKA12WqD+NUqfZFEKVaaKnN",
+  "snapshot_id": "AAAAAKE9W3wqsISRnokDJ1LKdCR1wasv",
   "tracks": [
     {
       "added_at": "2026-03-24 18:09:42",
@@ -803,22 +803,6 @@
     {
       "added_at": "2026-03-24 18:09:42",
       "album": {
-        "name": "BES4ME",
-        "url": "https://open.spotify.com/album/2pDTIwOIb85dGC7Pj0RUay"
-      },
-      "artists": [
-        {
-          "name": "Los Aptos",
-          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
-        }
-      ],
-      "duration_ms": 153176,
-      "name": "BES4ME",
-      "url": "https://open.spotify.com/track/4YoHssP1wgFxKIrgkAJRDD"
-    },
-    {
-      "added_at": "2026-03-24 18:09:42",
-      "album": {
         "name": "La Teor\u00eda",
         "url": "https://open.spotify.com/album/1mu6jH9g2iTjOLVrE51fpm"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 213428,
       "name": "La Teor\u00eda",
       "url": "https://open.spotify.com/track/27E6Y2wX6kqo0JiZpBq5xa"
+    },
+    {
+      "added_at": "2026-03-24 18:09:42",
+      "album": {
+        "name": "BES4ME",
+        "url": "https://open.spotify.com/album/2pDTIwOIb85dGC7Pj0RUay"
+      },
+      "artists": [
+        {
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+        }
+      ],
+      "duration_ms": 153176,
+      "name": "BES4ME",
+      "url": "https://open.spotify.com/track/4YoHssP1wgFxKIrgkAJRDD"
     },
     {
       "added_at": "2026-03-24 18:09:42",

@@ -14492,7 +14492,7 @@
       ],
       "date_added": "2026-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-09",
+      "date_removed": null,
       "duration_ms": 272423,
       "name": "Deep Harbour - Anz Defensive Mix",
       "url": "https://open.spotify.com/track/6eQUx4zfABBernRRPoUT8Y"
@@ -14518,7 +14518,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 234585,
       "name": "Deep Harbour - Anz Safe Place Mix",
       "url": "https://open.spotify.com/track/6nfdm0c9REAUs4Mch9bXTo"
@@ -28190,7 +28190,7 @@
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 182533,
       "name": "Hidden Track",
       "url": "https://open.spotify.com/track/4Z8sgj3RKw7ubd3U9FrXSs"
@@ -44658,6 +44658,28 @@
       "duration_ms": 431760,
       "name": "nomad",
       "url": "https://open.spotify.com/track/61fmM88C5oJ4UNMKwSKzr2"
+    },
+    {
+      "album": {
+        "name": "North Pole",
+        "url": "https://open.spotify.com/album/4z87mP0y8vLYaVKGmQsiZK"
+      },
+      "artists": [
+        {
+          "name": "Rhyme",
+          "url": "https://open.spotify.com/artist/1i3GiHbXswfBdthna2DjvG"
+        },
+        {
+          "name": "GZA",
+          "url": "https://open.spotify.com/artist/6ns6XAOsw4B0nDUIovAOUO"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192889,
+      "name": "North Pole",
+      "url": "https://open.spotify.com/track/4M5d7yyF9czZ17ZQ9JxYH0"
     },
     {
       "album": {

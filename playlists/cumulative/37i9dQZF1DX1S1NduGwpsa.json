@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: RAYE",
+  "description": "The best jazz new releases. Cover: Stacey Kent",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -232,6 +232,24 @@
       "duration_ms": 185531,
       "name": "A Nightingale Sang in Berkeley Square",
       "url": "https://open.spotify.com/track/2Q7xtSxYk9wNFs5lGVhb8w"
+    },
+    {
+      "album": {
+        "name": "Honora",
+        "url": "https://open.spotify.com/album/4RsSlnwkUAvEtg0Tk86HnM"
+      },
+      "artists": [
+        {
+          "name": "Flea",
+          "url": "https://open.spotify.com/artist/0Xl5J6iOgiQHFqgri7TF8j"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 458053,
+      "name": "A Plea",
+      "url": "https://open.spotify.com/track/6l8bVvHC6p235oK1IIef03"
     },
     {
       "album": {
@@ -6588,7 +6606,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 174287,
       "name": "Gun Shy",
       "url": "https://open.spotify.com/track/4Dkjf9iITfWIy5tokfNop0"
@@ -7976,7 +7994,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 476445,
       "name": "In On It",
       "url": "https://open.spotify.com/track/7jKhWfwscF6ZYXCKM9iA9k"
@@ -9472,7 +9490,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 208582,
       "name": "Len\u00e7o\u00eds de chuva",
       "url": "https://open.spotify.com/track/3XEYQ6Vh0SCIKbAKYrxK4I"
@@ -10506,6 +10524,24 @@
       "duration_ms": 132592,
       "name": "Madrid",
       "url": "https://open.spotify.com/track/7sn2vY1Uh0jLQNiFuMETSo"
+    },
+    {
+      "album": {
+        "name": "A Matter of Time: The Final Hour",
+        "url": "https://open.spotify.com/album/4DWK6TLXHl1fly2zi5RlO7"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239333,
+      "name": "Madwoman",
+      "url": "https://open.spotify.com/track/0UqHzMvRQnaOXEPKgFVhxN"
     },
     {
       "album": {
@@ -14194,7 +14230,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 158653,
       "name": "Rumbo a T\u00ed",
       "url": "https://open.spotify.com/track/1AgV1nlfJqH8nrMetnqqpL"
@@ -15950,6 +15986,24 @@
       "duration_ms": 194373,
       "name": "Sun Is The Key",
       "url": "https://open.spotify.com/track/0Ty1CoO9OMldlQ6QYUiokr"
+    },
+    {
+      "album": {
+        "name": "Sun Showers",
+        "url": "https://open.spotify.com/album/4B2Bga4grO8W0wnLxQbfY5"
+      },
+      "artists": [
+        {
+          "name": "Sweatson Klank",
+          "url": "https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186400,
+      "name": "Sun Showers",
+      "url": "https://open.spotify.com/track/0ZhP7MAHSl4n3UBIjcbyqa"
     },
     {
       "album": {
@@ -18012,6 +18066,24 @@
       "duration_ms": 249600,
       "name": "Trust Fall",
       "url": "https://open.spotify.com/track/3BeLCzl6z5kMsOJjJL6av0"
+    },
+    {
+      "album": {
+        "name": "Tu vois c'est \u00e7a qu'il faut !",
+        "url": "https://open.spotify.com/album/6vkJSsVbd48adlxDpkA87S"
+      },
+      "artists": [
+        {
+          "name": "Michel Portal",
+          "url": "https://open.spotify.com/artist/3zz4BITBs6xvnzw2vtQi2D"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345957,
+      "name": "Tu vois c'est \u00e7a qu'il faut !",
+      "url": "https://open.spotify.com/track/3279uWuJWULXfH5dOrMYV5"
     },
     {
       "album": {

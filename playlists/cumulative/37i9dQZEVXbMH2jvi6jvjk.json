@@ -6942,7 +6942,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-09",
+      "date_removed": null,
       "duration_ms": 358008,
       "name": "Bengicela (feat. JAZZWRLD)",
       "url": "https://open.spotify.com/track/6xlxghvkH5yDv93NoHlWOx"
@@ -19271,6 +19271,36 @@
     },
     {
       "album": {
+        "name": "Gone Kanje (feat. Mellow & Sleazy & Dlala Regal)",
+        "url": "https://open.spotify.com/album/10poemRnLMAmpKyiHbt2U5"
+      },
+      "artists": [
+        {
+          "name": "Scotts Maphuma",
+          "url": "https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS"
+        },
+        {
+          "name": "Slyzza Rsa",
+          "url": "https://open.spotify.com/artist/61w0RQ0wzRDoEocR0IR4v2"
+        },
+        {
+          "name": "Mellow & Sleazy",
+          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
+        },
+        {
+          "name": "Dlala Regal",
+          "url": "https://open.spotify.com/artist/6xaKm4AEnJJ2N2tw4wYRMK"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381570,
+      "name": "Gone Kanje (feat. Mellow & Sleazy & Dlala Regal)",
+      "url": "https://open.spotify.com/track/5NbkOhZw2pfkLAipJmojSK"
+    },
+    {
+      "album": {
         "name": "SOUR",
         "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
       },
@@ -23132,7 +23162,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 183237,
       "name": "iloveitiloveitiloveit",
       "url": "https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV"
@@ -23334,7 +23364,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-09",
+      "date_removed": null,
       "duration_ms": 276688,
       "name": "Imizamo Yami - Part 1",
       "url": "https://open.spotify.com/track/1jVyOMXhcoMOKxZaOjLIS2"
@@ -24252,7 +24282,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-09",
+      "date_removed": null,
       "duration_ms": 218443,
       "name": "Inomnikazi (feat. Thembani)",
       "url": "https://open.spotify.com/track/7AihPCGkjTBJWsbPxYv0Ga"
@@ -36132,7 +36162,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 256313,
       "name": "Nam Angeke",
       "url": "https://open.spotify.com/track/4RLmqf3MOWLJZRwuip6Xgc"
@@ -36836,7 +36866,7 @@
       ],
       "date_added": "2026-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 484269,
       "name": "Ngbambe Duze (feat. MFR Souls & Dj Maphorisa)",
       "url": "https://open.spotify.com/track/0vwdMP1LbBDQCaICUHsxgU"
@@ -37960,7 +37990,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-09",
+      "date_removed": null,
       "duration_ms": 412035,
       "name": "Ngyozama (feat. Sykes, Young Stunna, Nkosazana Daughter, Tracy & Thatohatsi)",
       "url": "https://open.spotify.com/track/30jHPgouy6TBqiykdGwbOe"
@@ -43506,7 +43536,7 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 334522,
       "name": "Rato Laka",
       "url": "https://open.spotify.com/track/46NRGSM8TnSkJexKnQtoKw"
@@ -46064,7 +46094,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 278073,
       "name": "Sekuzolunga Mama",
       "url": "https://open.spotify.com/track/6W8CWNHx5yktT9EPIPBYFR"
@@ -56718,7 +56748,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 265560,
       "name": "UNIKHODIMA",
       "url": "https://open.spotify.com/track/1x4yHR7HJ0ZQCQVjXb2Vc8"
@@ -57036,7 +57066,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 217820,
       "name": "uThando",
       "url": "https://open.spotify.com/track/7pvU9jLGMQwQybI12nBVc4"
@@ -57600,7 +57630,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 282000,
       "name": "Uzofa",
       "url": "https://open.spotify.com/track/6ncwDiN52UyECF9Nfeej33"
@@ -57896,7 +57926,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-09",
+      "date_removed": null,
       "duration_ms": 374237,
       "name": "Vele Uyena (Risk It All) (feat. Elaine, JAZZWRLD, Thukuthela & Solaariss)",
       "url": "https://open.spotify.com/track/1YwkMl9hCzyinkiioqo6kl"

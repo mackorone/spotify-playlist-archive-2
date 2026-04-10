@@ -1,12 +1,12 @@
 {
   "description": "This is The Beach Boys. The essential tracks, all in one playlist.",
-  "num_followers": 341152,
+  "num_followers": 341159,
   "original_name": "This Is The Beach Boys",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adRJAAAAAAAiVK+OKlHLwmLX0mPaW05v",
+  "snapshot_id": "adWagAAAAAAHVl3Fvv8dBCpRXIzsINoh",
   "tracks": [
     {
       "added_at": null,
@@ -747,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Smile Sessions",
-        "url": "https://open.spotify.com/album/01TG7VOg4F90jXv3a1yCgA"
+        "name": "Friends (Remastered)",
+        "url": "https://open.spotify.com/album/2EeDLAhZi04oPV3FJ2s6uS"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
         }
       ],
-      "duration_ms": 47786,
-      "name": "Barnyard",
-      "url": "https://open.spotify.com/track/0qV9G76eiyQOUtbzem02Bp"
+      "duration_ms": 39973,
+      "name": "Meant For You - Remastered 2001",
+      "url": "https://open.spotify.com/track/2h5cpnAVMC4kOOLF7NqmIr"
     },
     {
       "added_at": null,
@@ -779,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Friends (Remastered)",
-        "url": "https://open.spotify.com/album/2EeDLAhZi04oPV3FJ2s6uS"
+        "name": "The Smile Sessions",
+        "url": "https://open.spotify.com/album/01TG7VOg4F90jXv3a1yCgA"
       },
       "artists": [
         {
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
         }
       ],
-      "duration_ms": 39973,
-      "name": "Meant For You - Remastered 2001",
-      "url": "https://open.spotify.com/track/2h5cpnAVMC4kOOLF7NqmIr"
+      "duration_ms": 47786,
+      "name": "Barnyard",
+      "url": "https://open.spotify.com/track/0qV9G76eiyQOUtbzem02Bp"
     },
     {
       "added_at": null,

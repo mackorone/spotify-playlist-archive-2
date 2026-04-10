@@ -4,7 +4,7 @@
 
 > For the caffeinated Christians!
 
-412 songs - 1 day 2 hr 30 min
+413 songs - 1 day 2 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Again \- Live At Big Fish Recording Studio](https://open.spotify.com/track/1aiRPeM0flDKxtE9vVnl87) | [Taylor Armstrong](https://open.spotify.com/artist/3CVk2LzA3zH6FBAXuPbnhc) | [Again \(Live At Big Fish Recording Studio\)](https://open.spotify.com/album/6sOJcyJOghthW6yBc4JV2N) | 4:04 | 2025-08-06 | 2026-03-24 |
 | [Again And Again](https://open.spotify.com/track/0adl1qoadkOyKMrDE2uvgo) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [Again And Again](https://open.spotify.com/album/3z3zLIrhtHohjQeuQrWWWJ) | 3:58 | 2026-03-23 |  |
 | [Again And Again](https://open.spotify.com/track/0kSvYnLZASPahsaZBlPLlA) | [Land of Color](https://open.spotify.com/artist/42YoF8fzPiMbU5dlf59YuQ), [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [Again And Again](https://open.spotify.com/album/2ST7md3MaJAveTnZ2LkcRn) | 3:09 | 2025-10-10 | 2026-03-15 |
+| [Ain't It Beautiful](https://open.spotify.com/track/4DiubSXjsdfsjoKSFFIQOQ) | [Ivan Theva](https://open.spotify.com/artist/5DXiy58vu9lP6cW5eKDeBg) | [Ain't It Beautiful](https://open.spotify.com/album/50CCqxmOoeKYAtzdQg8Tyq) | 3:34 | 2026-03-23 |  |
 | [All for You](https://open.spotify.com/track/30OQNZvkK8BbSYnZcSrcdZ) | [Bryan McCleery](https://open.spotify.com/artist/3rObLZdf0Oo2pr06KSZlD1) | [Worth the Wait](https://open.spotify.com/album/0WnF52PyHmyJQqyCJdhsqh) | 3:55 | 2020-08-31 | 2022-07-29 |
 | [All For You](https://open.spotify.com/track/4TtOwhTnpdQdlPOt9Ar2V5) | [Bryan McCleery](https://open.spotify.com/artist/3rObLZdf0Oo2pr06KSZlD1) | [Worth The Wait](https://open.spotify.com/album/0HVDvrqGkOecGZKgnZvX0h) | 3:55 | 2020-08-31 | 2024-04-19 |
 | [All Glory](https://open.spotify.com/track/7DFJzZsxf9bYATNTLmD4fp) | [Phil King](https://open.spotify.com/artist/1M7IqeW8EcYmcuuPkiwVDz) | [All Glory](https://open.spotify.com/album/3tPnHlQIq5gqZ27K1hMTLS) | 5:49 | 2020-08-31 | 2022-06-30 |
@@ -52,7 +53,7 @@
 | [Better Plan](https://open.spotify.com/track/16eY64ru0RQCsbpuahFUxu) | [eightFour](https://open.spotify.com/artist/73JRUWCiA2RChSaOq9fkKs), [Calah Mikal](https://open.spotify.com/artist/2c2Y05pVIabK1AT1zfsH0h) | [Better Plan](https://open.spotify.com/album/2alhNi8t8Mhg2vwxAtxq9i) | 3:58 | 2024-08-03 | 2026-02-26 |
 | [Blessed](https://open.spotify.com/track/4hgsprxbmyXRHnF8c7RmBb) | [Joshua Leventhal](https://open.spotify.com/artist/0v4Z3oeoImzlsCniDL7em5) | [Blessed](https://open.spotify.com/album/7LMpbQ5ueSxchC5gDXavhJ) | 4:37 | 2025-08-06 | 2025-10-11 |
 | [Boundary Lines](https://open.spotify.com/track/27vnMIb0AssMDUiNWexbz9) | [Kate Gurren](https://open.spotify.com/artist/7laYNlKdWD1hLhA2oxPImL) | [Boundary Lines](https://open.spotify.com/album/0xCVuzODTPP23VgIYoCwI9) | 4:03 | 2026-03-23 |  |
-| [Bread of Life \(John 6\)](https://open.spotify.com/track/0hBKxdCN03JCMX4Svnr47V) | [Jonny Henninger](https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4), [Mattea Bret](https://open.spotify.com/artist/6fNpEj8qIBOiH0UpkdlaWK) | [Bread of Life \(John 6\)](https://open.spotify.com/album/2Zg88VYwRmOEkv7mZNW8aU) | 3:53 | 2025-12-12 |  |
+| [Bread of Life \(John 6\)](https://open.spotify.com/track/0hBKxdCN03JCMX4Svnr47V) | [Jonny Henninger](https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4), [Mattea Bret](https://open.spotify.com/artist/6fNpEj8qIBOiH0UpkdlaWK) | [Bread of Life \(John 6\)](https://open.spotify.com/album/2Zg88VYwRmOEkv7mZNW8aU) | 3:53 | 2025-12-12 | 2026-04-10 |
 | [Breathe](https://open.spotify.com/track/4QvchxEDRzAosUOkZzJGI6) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Note To Self](https://open.spotify.com/album/4Yj28bUARn3tih4X7zrdaw) | 2:52 | 2024-06-23 | 2025-08-07 |
 | [Bridges](https://open.spotify.com/track/7nkKHByyonJIPEx8OxgoZR) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Bridges](https://open.spotify.com/album/5lx5uNnvFxSiruId2vTS1a) | 3:36 | 2020-08-31 | 2024-06-24 |
 | [Brighter Days \- New Day Edition](https://open.spotify.com/track/04Hzyc0EwQxRcDpoYP0yct) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Brighter Days \(New Day Edition\)](https://open.spotify.com/album/1PdlFt6ydY874VcFSz3ZlL) | 3:05 | 2026-03-23 |  |

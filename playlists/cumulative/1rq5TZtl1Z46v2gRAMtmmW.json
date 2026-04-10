@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "1983",
+        "url": "https://open.spotify.com/album/5xoi3q0KDpSlFVryc9qCKj"
+      },
+      "artists": [
+        {
+          "name": "Flying Lotus",
+          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310373,
+      "name": "1983",
+      "url": "https://open.spotify.com/track/4Kq797LUw86mYdSZVclZIn"
+    },
+    {
+      "album": {
         "name": "1994",
         "url": "https://open.spotify.com/album/5mxmpnRDMJ7SMR7tl49aFZ"
       },

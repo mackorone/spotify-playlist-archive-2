@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-09",
-  "description": "R&B and good vibe tracks for your current mood. Cover: Noni",
+  "description": "R&B and good vibe tracks for your current mood. Cover: Wesley Joseph & Jorja Smith",
   "name": "mood. ",
   "tracks": [
     {
@@ -2059,6 +2059,24 @@
     },
     {
       "album": {
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/46P0AEcSysQA46Si0LeJyn"
+      },
+      "artists": [
+        {
+          "name": "EJ Swavv",
+          "url": "https://open.spotify.com/artist/3hi8ye8HnAzsAzShlhuWfk"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129422,
+      "name": "Back In Black",
+      "url": "https://open.spotify.com/track/7wu9VAHjnPXFAyjig3IrKO"
+    },
+    {
+      "album": {
         "name": "with all due respect",
         "url": "https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN"
       },
@@ -3758,7 +3776,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 176986,
       "name": "Call It A Day",
       "url": "https://open.spotify.com/track/3zhnjPBOuz6cVC4te4PY7G"
@@ -4870,6 +4888,32 @@
       "duration_ms": 171666,
       "name": "collide",
       "url": "https://open.spotify.com/track/5MDjnOt0WLXp4GD56V1FUK"
+    },
+    {
+      "album": {
+        "name": "Colorado",
+        "url": "https://open.spotify.com/album/1P8BZuY2ZRlCPzXhSly5eZ"
+      },
+      "artists": [
+        {
+          "name": "Johnny Drille",
+          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224684,
+      "name": "Colorado",
+      "url": "https://open.spotify.com/track/7C2IUngL0Xp8MsD575v2cJ"
     },
     {
       "album": {
@@ -11342,7 +11386,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 132931,
       "name": "High Key",
       "url": "https://open.spotify.com/track/48Rk6ZyFcztsyvUZeUFVXO"
@@ -11400,7 +11444,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 151384,
       "name": "History",
       "url": "https://open.spotify.com/track/0kbfiqVhGoEtv6ANAHpHC6"
@@ -11472,7 +11516,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 182727,
       "name": "Hold Me Close",
       "url": "https://open.spotify.com/track/2YbOFI7toDU4OXhzVj2W4g"
@@ -11552,7 +11596,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 173611,
       "name": "Home",
       "url": "https://open.spotify.com/track/6NT8Sa3jev1C3Xm33VDcJF"
@@ -13917,6 +13961,28 @@
     },
     {
       "album": {
+        "name": "July",
+        "url": "https://open.spotify.com/album/3sbAIbwlBjdUt1GD1iteHO"
+      },
+      "artists": [
+        {
+          "name": "Wesley Joseph",
+          "url": "https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152493,
+      "name": "July",
+      "url": "https://open.spotify.com/track/6LzxjnLFFlk639Xw43MDB9"
+    },
+    {
+      "album": {
         "name": "Cut Ties (Deluxe Version)",
         "url": "https://open.spotify.com/album/6dkIA6cPbDA99Q3zNon5iS"
       },
@@ -15663,6 +15729,24 @@
     },
     {
       "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1M46PQFhnP8N6FEoxfCGlF"
+      },
+      "artists": [
+        {
+          "name": "Juke Ross",
+          "url": "https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206726,
+      "name": "Lover",
+      "url": "https://open.spotify.com/track/5nmW1Oq7FisQ5eAEeM9QZZ"
+    },
+    {
+      "album": {
         "name": "lover boy",
         "url": "https://open.spotify.com/album/5gd0orG7lr0NceVcjgUxh9"
       },
@@ -16576,7 +16660,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 221066,
       "name": "Memory Be a Blade",
       "url": "https://open.spotify.com/track/6kM3Uqz3MRTVGTzu93EZIA"
@@ -19390,7 +19474,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 214360,
       "name": "Only for now",
       "url": "https://open.spotify.com/track/2Y7sUjlIhcQ0lUCvmf4p67"
@@ -19524,7 +19608,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 180000,
       "name": "Ordinary girl",
       "url": "https://open.spotify.com/track/4Jnf1MhU7z0SwVn1L7nd4j"
@@ -21074,7 +21158,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 163360,
       "name": "Proof",
       "url": "https://open.spotify.com/track/7eT7KkcYXFwELw4nzAzUdJ"
@@ -24295,6 +24379,24 @@
     },
     {
       "album": {
+        "name": "Waiting Room (with the ticking time bomb)",
+        "url": "https://open.spotify.com/album/0jxktpYRoH73fnHUANUdb3"
+      },
+      "artists": [
+        {
+          "name": "Hajaj",
+          "url": "https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186897,
+      "name": "Something That Still Is",
+      "url": "https://open.spotify.com/track/0WtPQLZJP2vdNZLrAEG3QQ"
+    },
+    {
+      "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
       },
@@ -27373,6 +27475,24 @@
     },
     {
       "album": {
+        "name": "To Mars",
+        "url": "https://open.spotify.com/album/0hCPD44BiJeCwHWVSl3sWR"
+      },
+      "artists": [
+        {
+          "name": "Gaho",
+          "url": "https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164346,
+      "name": "To Mars",
+      "url": "https://open.spotify.com/track/40YQG7PQix3RMgzkKLzrVP"
+    },
+    {
+      "album": {
         "name": "To The Moon And Back",
         "url": "https://open.spotify.com/album/4BMLTlQ3CAY4beoL9S6LfB"
       },
@@ -27692,6 +27812,24 @@
       "duration_ms": 189818,
       "name": "Toxic Games",
       "url": "https://open.spotify.com/track/3QQYtCycRomIXlzeCQo6rj"
+    },
+    {
+      "album": {
+        "name": "Fuck, Marry, Kill",
+        "url": "https://open.spotify.com/album/1xIWjruzzPXUWWZ9q20FVG"
+      },
+      "artists": [
+        {
+          "name": "Tink",
+          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 4",
+      "url": "https://open.spotify.com/track/3HUhrokD6jm8EH8qK1gIuZ"
     },
     {
       "album": {
@@ -28252,6 +28390,24 @@
       "duration_ms": 183435,
       "name": "u & i",
       "url": "https://open.spotify.com/track/3SOaGw8GfOkOj3Ov2D4VbQ"
+    },
+    {
+      "album": {
+        "name": "Unbroken Hearts",
+        "url": "https://open.spotify.com/album/6DPtIPO8kxfMRF2kdFdi7s"
+      },
+      "artists": [
+        {
+          "name": "Joseph Solomon",
+          "url": "https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214109,
+      "name": "Unbroken Hearts",
+      "url": "https://open.spotify.com/track/3ZrqU3iJw06atfN6vMmKbT"
     },
     {
       "album": {

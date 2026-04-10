@@ -2,7 +2,7 @@
 
 ### [Massive Dance Hits](https://open.spotify.com/playlist/37i9dQZF1DX5uokaTN4FTR)
 
-> The UK's biggest dance playlist! Cover: Jazzy, East End Dubs
+> The UK's biggest dance playlist! Cover: Franky Rizardo
 
 744 songs - 1 day 14 hr 40 min
 

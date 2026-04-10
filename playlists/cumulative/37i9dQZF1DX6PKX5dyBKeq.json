@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Kofi Stone",
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Rico Ace",
   "name": "Rap UK",
   "tracks": [
     {
@@ -506,7 +506,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 274000,
       "name": "175 Months",
       "url": "https://open.spotify.com/track/7HkOwm4wmvTsKbe405RhE3"
@@ -1510,7 +1510,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 171655,
       "name": "8PM",
       "url": "https://open.spotify.com/track/3CEXwOz5DRkZNlIiHFgPet"
@@ -8881,7 +8881,7 @@
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 159111,
+      "duration_ms": 159038,
       "name": "CHANGE",
       "url": "https://open.spotify.com/track/2ilviyc5XdaEjBtwj3iHvG"
     },
@@ -10358,7 +10358,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 120513,
       "name": "Crazy Love",
       "url": "https://open.spotify.com/track/00S54Je0ffaNP8ClzQPjWy"
@@ -12812,6 +12812,28 @@
       "duration_ms": 126967,
       "name": "Dope",
       "url": "https://open.spotify.com/track/7HCingQ6wa3KmzwATDB6SW"
+    },
+    {
+      "album": {
+        "name": "Dope Boyz",
+        "url": "https://open.spotify.com/album/4QdUOiBbK2FXMhYw6NhJwK"
+      },
+      "artists": [
+        {
+          "name": "Rico Ace",
+          "url": "https://open.spotify.com/artist/4sY0lTSkfDMMt27cVvFT6o"
+        },
+        {
+          "name": "EsDeeKid",
+          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141200,
+      "name": "Dope Boyz",
+      "url": "https://open.spotify.com/track/0UjqnurLhsm2jf9aUJDfxk"
     },
     {
       "album": {
@@ -21289,6 +21311,24 @@
     },
     {
       "album": {
+        "name": "Last Run",
+        "url": "https://open.spotify.com/album/2zP6Y1XtCVpqG0YPgAOfKL"
+      },
+      "artists": [
+        {
+          "name": "Tay Jordan",
+          "url": "https://open.spotify.com/artist/13WFAXpgT5EchE1bdPG8ct"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123529,
+      "name": "Iran",
+      "url": "https://open.spotify.com/track/0ehz376JBCz8DxX7UB6ToQ"
+    },
+    {
+      "album": {
         "name": "Irish Girls (feat. Reggie)",
         "url": "https://open.spotify.com/album/5YICwPWF132Fs8phV8U5ix"
       },
@@ -21824,7 +21864,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 138857,
       "name": "Jersey King",
       "url": "https://open.spotify.com/track/6kzk0q8DGUFKEkn9BHf13P"
@@ -22578,6 +22618,24 @@
       "duration_ms": 169676,
       "name": "KiKi (What Would Drizzy Say?)",
       "url": "https://open.spotify.com/track/1H0IdGNAKBXQnPD7SBZJfo"
+    },
+    {
+      "album": {
+        "name": "Kill The Buddha",
+        "url": "https://open.spotify.com/album/6JmvSaDVGCo8f07S4OMbUy"
+      },
+      "artists": [
+        {
+          "name": "Marnz Malone",
+          "url": "https://open.spotify.com/artist/0mxo01LgzQUpNf8KFMGHe4"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213617,
+      "name": "Kill The Buddha",
+      "url": "https://open.spotify.com/track/2bsusDVxGFVWKZec5tjAP2"
     },
     {
       "album": {
@@ -26733,6 +26791,36 @@
     },
     {
       "album": {
+        "name": "MINK SB (feat. Skepta, Lojay & Skillibeng)",
+        "url": "https://open.spotify.com/album/59Fs0w068THGXqx33PzCr7"
+      },
+      "artists": [
+        {
+          "name": "JAE5",
+          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        },
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184682,
+      "name": "MINK SB (feat. Skepta, Lojay & Skillibeng)",
+      "url": "https://open.spotify.com/track/7M0LA37GOq8SAUX4TWWHov"
+    },
+    {
+      "album": {
         "name": "Miracles",
         "url": "https://open.spotify.com/album/6UJO00MBGxYEDSOzcwWivT"
       },
@@ -29072,7 +29160,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 182000,
       "name": "No Comment",
       "url": "https://open.spotify.com/track/16YfvpZgzzdxzrulTpIwvB"
@@ -32092,6 +32180,24 @@
       "duration_ms": 191067,
       "name": "Payday",
       "url": "https://open.spotify.com/track/3RHnCZgss404tVTvMjdRFs"
+    },
+    {
+      "album": {
+        "name": "PAYG",
+        "url": "https://open.spotify.com/album/1auIHYagR2co2AFtmAKILv"
+      },
+      "artists": [
+        {
+          "name": "Digga",
+          "url": "https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "PAYG",
+      "url": "https://open.spotify.com/track/0lgxvRcbVVylxN9cli3WSi"
     },
     {
       "album": {
@@ -37688,7 +37794,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 160800,
       "name": "Sirens (From Ireland)",
       "url": "https://open.spotify.com/track/218C0McVUM1UPcTzODMRhi"
@@ -46280,6 +46386,24 @@
       "duration_ms": 162481,
       "name": "Word Of Mouth (feat. Young Smokes)",
       "url": "https://open.spotify.com/track/4yrTYIctxMKhYix5LzyQTB"
+    },
+    {
+      "album": {
+        "name": "WORK OF ART",
+        "url": "https://open.spotify.com/album/0bba4GBcp9JghU5teKM1ed"
+      },
+      "artists": [
+        {
+          "name": "Tkandz",
+          "url": "https://open.spotify.com/artist/4Uwx6qzRn0kA9sz6cCDpBO"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "WORK OF ART",
+      "url": "https://open.spotify.com/track/3zoGDSqhsrkZ8nRQ2M3YpU"
     },
     {
       "album": {

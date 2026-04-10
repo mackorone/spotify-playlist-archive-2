@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f\nPhoto : Enchant\u00e9e Julia",
+  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f\nPhoto : Nilusi x Ana\u00efs Cardot",
   "name": "le miel",
   "tracks": [
     {
@@ -6708,7 +6708,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 227120,
       "name": "Noir",
       "url": "https://open.spotify.com/track/2JgtUiRnw0aVu7qe0jDZC0"
@@ -7488,6 +7488,24 @@
       "duration_ms": 214083,
       "name": "Pill\u00e9 mais pas d\u00e9truit",
       "url": "https://open.spotify.com/track/1OUmNgT3puIVi0W1oR7tdY"
+    },
+    {
+      "album": {
+        "name": "Pink Martini",
+        "url": "https://open.spotify.com/album/05VS9tBZ6pHWi5AVzZpMAY"
+      },
+      "artists": [
+        {
+          "name": "KIDDO",
+          "url": "https://open.spotify.com/artist/7LdOJkDDYnHB6p4XnsA9QD"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155089,
+      "name": "Pink Martini",
+      "url": "https://open.spotify.com/track/63WiPGyaKs04pDneEBPbHp"
     },
     {
       "album": {
@@ -8856,6 +8874,24 @@
       "duration_ms": 180705,
       "name": "Si je reste",
       "url": "https://open.spotify.com/track/3CyZu7VYkNtU20zdqQqKBl"
+    },
+    {
+      "album": {
+        "name": "Si j\u2019avais su",
+        "url": "https://open.spotify.com/album/7icVd9EZl1GKAOYA7DgQTa"
+      },
+      "artists": [
+        {
+          "name": "Ana",
+          "url": "https://open.spotify.com/artist/2bvIIuEI2nMvfpTUIkbrYH"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207266,
+      "name": "Si j\u2019avais su",
+      "url": "https://open.spotify.com/track/5XWWSnBxoSsFQbb0kpLjGQ"
     },
     {
       "album": {
@@ -10308,7 +10344,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 213541,
       "name": "Vitesse",
       "url": "https://open.spotify.com/track/0OcskdiwseIYzc4OlPhl4U"

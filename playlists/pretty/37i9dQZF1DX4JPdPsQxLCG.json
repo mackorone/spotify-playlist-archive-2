@@ -1,12 +1,12 @@
 {
   "description": "Epic tunes for the open road. ",
-  "num_followers": 106387,
+  "num_followers": 106417,
   "original_name": "Long Drives",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABzA566C2I4H5jPASoKRtmaVo758",
+  "snapshot_id": "AAAAAFTt8QyznlyTaVLGHaO6gicXDaCQ",
   "tracks": [
     {
       "added_at": "2025-12-13 01:31:00",
@@ -73,6 +73,22 @@
       "url": "https://open.spotify.com/track/0UV5zxRMz6AO4ZwUOZNIKI"
     },
     {
+      "added_at": "2026-04-10 00:48:41",
+      "album": {
+        "name": "Going Shopping",
+        "url": "https://open.spotify.com/album/4XCAqkLSm0CozIX5dQRXPI"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "duration_ms": 261747,
+      "name": "Going Shopping",
+      "url": "https://open.spotify.com/track/4dUOhTTMy4ITIbNQKPKYFP"
+    },
+    {
       "added_at": "2025-12-13 01:31:00",
       "album": {
         "name": "Homecoming",
@@ -95,22 +111,6 @@
     {
       "added_at": "2025-12-13 01:31:00",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 264906,
-      "name": "Gypsy",
-      "url": "https://open.spotify.com/track/19Ym5Sg0YyOCa6ao21bdoG"
-    },
-    {
-      "added_at": "2025-12-13 01:31:00",
-      "album": {
         "name": "Back to the Wind",
         "url": "https://open.spotify.com/album/3sBwfhCWBnVzbY5qynudYT"
       },
@@ -127,22 +127,18 @@
     {
       "added_at": "2025-12-13 01:31:00",
       "album": {
-        "name": "Texas Sun",
-        "url": "https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz"
       },
       "artists": [
         {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 252811,
-      "name": "Texas Sun",
-      "url": "https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY"
+      "duration_ms": 264906,
+      "name": "Gypsy",
+      "url": "https://open.spotify.com/track/19Ym5Sg0YyOCa6ao21bdoG"
     },
     {
       "added_at": "2025-12-13 01:31:00",
@@ -243,18 +239,22 @@
     {
       "added_at": "2025-12-13 01:31:00",
       "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+        "name": "Texas Sun",
+        "url": "https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz"
       },
       "artists": [
         {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 218577,
-      "name": "Satellite",
-      "url": "https://open.spotify.com/track/0rzaRSujxA0bKyjJl6vHYq"
+      "duration_ms": 252811,
+      "name": "Texas Sun",
+      "url": "https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY"
     },
     {
       "added_at": "2025-12-13 01:31:00",
@@ -275,6 +275,22 @@
       "duration_ms": 215720,
       "name": "Bowery (feat. Kings of Leon)",
       "url": "https://open.spotify.com/track/0q3jlKYRjRw24PjrAwow1H"
+    },
+    {
+      "added_at": "2025-12-13 01:31:00",
+      "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 218577,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/0rzaRSujxA0bKyjJl6vHYq"
     },
     {
       "added_at": "2025-12-13 01:31:00",
@@ -343,22 +359,6 @@
     {
       "added_at": "2025-12-13 01:31:00",
       "album": {
-        "name": "Zach Bryan",
-        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 190946,
-      "name": "Overtime",
-      "url": "https://open.spotify.com/track/5pIVEk6Di7n1v5khOzJaJL"
-    },
-    {
-      "added_at": "2025-12-13 01:31:00",
-      "album": {
         "name": "We Were Born In A Flame",
         "url": "https://open.spotify.com/album/3AoWVHZuuu68ZVOy1R55l9"
       },
@@ -375,18 +375,18 @@
     {
       "added_at": "2025-12-13 01:31:00",
       "album": {
-        "name": "Lost In The Dream",
-        "url": "https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz"
+        "name": "Zach Bryan",
+        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
       },
       "artists": [
         {
-          "name": "The War On Drugs",
-          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 298920,
-      "name": "Red Eyes",
-      "url": "https://open.spotify.com/track/0rUIff1QHd5zlOBtlHVqd9"
+      "duration_ms": 190946,
+      "name": "Overtime",
+      "url": "https://open.spotify.com/track/5pIVEk6Di7n1v5khOzJaJL"
     },
     {
       "added_at": "2025-12-13 01:31:00",
@@ -403,6 +403,22 @@
       "duration_ms": 181640,
       "name": "Nowhere With You",
       "url": "https://open.spotify.com/track/1GPLHjO42TFuIos5JNjYpL"
+    },
+    {
+      "added_at": "2025-12-13 01:31:00",
+      "album": {
+        "name": "Lost In The Dream",
+        "url": "https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz"
+      },
+      "artists": [
+        {
+          "name": "The War On Drugs",
+          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
+        }
+      ],
+      "duration_ms": 298920,
+      "name": "Red Eyes",
+      "url": "https://open.spotify.com/track/0rUIff1QHd5zlOBtlHVqd9"
     },
     {
       "added_at": "2025-12-13 01:31:00",
@@ -473,6 +489,22 @@
       "url": "https://open.spotify.com/track/0tgBtQ0ISnMQOKorrN9HLX"
     },
     {
+      "added_at": "2026-04-10 00:49:39",
+      "album": {
+        "name": "Surf Hat",
+        "url": "https://open.spotify.com/album/3xM9YASLf1ZnJKQnuvT17S"
+      },
+      "artists": [
+        {
+          "name": "Surf Hat",
+          "url": "https://open.spotify.com/artist/4fFi5poEqNSf7iv0jOwEFy"
+        }
+      ],
+      "duration_ms": 179217,
+      "name": "Bowling Alley Thug",
+      "url": "https://open.spotify.com/track/4hbMHyGiSxyZMAbHzy2upA"
+    },
+    {
       "added_at": "2025-12-13 01:31:00",
       "album": {
         "name": "Stick Season (Forever)",
@@ -491,6 +523,22 @@
       "duration_ms": 286369,
       "name": "You\u2019re Gonna Go Far (with Brandi Carlile)",
       "url": "https://open.spotify.com/track/2U15ix0JMkQY8EsxneUfyL"
+    },
+    {
+      "added_at": "2025-12-13 01:31:00",
+      "album": {
+        "name": "Sounding a Mosaic",
+        "url": "https://open.spotify.com/album/42iSe586UyMdP0k3SP8yBh"
+      },
+      "artists": [
+        {
+          "name": "Bedouin Soundclash",
+          "url": "https://open.spotify.com/artist/2Au2mS47rMRkqbU4XJqKMh"
+        }
+      ],
+      "duration_ms": 187786,
+      "name": "When the Night Feels My Song",
+      "url": "https://open.spotify.com/track/18WtHi9VNpl78API5zsgEX"
     },
     {
       "added_at": "2025-12-13 01:31:00",
@@ -527,22 +575,6 @@
     {
       "added_at": "2025-12-13 01:31:00",
       "album": {
-        "name": "Sounding a Mosaic",
-        "url": "https://open.spotify.com/album/42iSe586UyMdP0k3SP8yBh"
-      },
-      "artists": [
-        {
-          "name": "Bedouin Soundclash",
-          "url": "https://open.spotify.com/artist/2Au2mS47rMRkqbU4XJqKMh"
-        }
-      ],
-      "duration_ms": 187786,
-      "name": "When the Night Feels My Song",
-      "url": "https://open.spotify.com/track/18WtHi9VNpl78API5zsgEX"
-    },
-    {
-      "added_at": "2025-12-13 01:31:00",
-      "album": {
         "name": "Such Jubilee",
         "url": "https://open.spotify.com/album/3hwYI0XK165g3EOCedgOMZ"
       },
@@ -571,6 +603,22 @@
       "duration_ms": 244500,
       "name": "Everybody Scream",
       "url": "https://open.spotify.com/track/5I7zhiRLOa8VqBwyuVtfJW"
+    },
+    {
+      "added_at": "2026-04-02 19:46:52",
+      "album": {
+        "name": "Somehow Made It Out",
+        "url": "https://open.spotify.com/album/2WK7bpbUtyKCqIedCqNI3B"
+      },
+      "artists": [
+        {
+          "name": "Brenn!",
+          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
+        }
+      ],
+      "duration_ms": 222513,
+      "name": "Somehow Made It Out",
+      "url": "https://open.spotify.com/track/3squeOqGJzGz3x2WyTJSD3"
     },
     {
       "added_at": "2025-12-13 01:31:00",
@@ -651,22 +699,6 @@
       "duration_ms": 293020,
       "name": "Tropics",
       "url": "https://open.spotify.com/track/50kY9njISacBSyPLyR8cwk"
-    },
-    {
-      "added_at": "2026-04-02 19:46:52",
-      "album": {
-        "name": "Somehow Made It Out",
-        "url": "https://open.spotify.com/album/2WK7bpbUtyKCqIedCqNI3B"
-      },
-      "artists": [
-        {
-          "name": "Brenn!",
-          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
-        }
-      ],
-      "duration_ms": 222513,
-      "name": "Somehow Made It Out",
-      "url": "https://open.spotify.com/track/3squeOqGJzGz3x2WyTJSD3"
     },
     {
       "added_at": "2025-12-13 01:31:00",
@@ -817,6 +849,22 @@
       "url": "https://open.spotify.com/track/1ZhcazwIbu1zu2qjitf3f2"
     },
     {
+      "added_at": "2026-04-10 00:49:39",
+      "album": {
+        "name": "Surf Hat",
+        "url": "https://open.spotify.com/album/3xM9YASLf1ZnJKQnuvT17S"
+      },
+      "artists": [
+        {
+          "name": "Surf Hat",
+          "url": "https://open.spotify.com/artist/4fFi5poEqNSf7iv0jOwEFy"
+        }
+      ],
+      "duration_ms": 253148,
+      "name": "Diane",
+      "url": "https://open.spotify.com/track/0vhle5cdnSADMEScmkYd32"
+    },
+    {
       "added_at": "2025-12-13 01:31:00",
       "album": {
         "name": "Wet Leg",
@@ -863,6 +911,22 @@
       "duration_ms": 186320,
       "name": "Tuna in a Can",
       "url": "https://open.spotify.com/track/5gdyRfsh9WnlmXshalldJ4"
+    },
+    {
+      "added_at": "2026-04-10 00:48:41",
+      "album": {
+        "name": "maple brown",
+        "url": "https://open.spotify.com/album/5PHWdBFGFJ53VSB8hFPCeD"
+      },
+      "artists": [
+        {
+          "name": "Jahson Paynter",
+          "url": "https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8"
+        }
+      ],
+      "duration_ms": 179342,
+      "name": "maple brown",
+      "url": "https://open.spotify.com/track/7qJRRPkLoOfjD3vYRrF4T4"
     },
     {
       "added_at": "2025-12-13 01:31:00",
@@ -1167,70 +1231,6 @@
       "duration_ms": 179252,
       "name": "What Good?",
       "url": "https://open.spotify.com/track/33B5ndQdjowreqRzRzKV92"
-    },
-    {
-      "added_at": "2025-12-13 01:31:00",
-      "album": {
-        "name": "Better Luck In The Next Life",
-        "url": "https://open.spotify.com/album/6ZBuUw48zAYn98M1YKACfH"
-      },
-      "artists": [
-        {
-          "name": "Chiiild",
-          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
-        }
-      ],
-      "duration_ms": 167979,
-      "name": "Bon Voyage",
-      "url": "https://open.spotify.com/track/4Okyax7cvVoNfoBKYr2RA0"
-    },
-    {
-      "added_at": "2025-12-13 01:31:00",
-      "album": {
-        "name": "Do You Wanna Party",
-        "url": "https://open.spotify.com/album/2Q1knImIr2P8YSsQPteh07"
-      },
-      "artists": [
-        {
-          "name": "FLEECE",
-          "url": "https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm"
-        }
-      ],
-      "duration_ms": 192752,
-      "name": "Do You Wanna Party",
-      "url": "https://open.spotify.com/track/1m7dBXRT9sndeZjVonOdfa"
-    },
-    {
-      "added_at": "2025-12-13 01:31:00",
-      "album": {
-        "name": "When a Thought Grows Wings",
-        "url": "https://open.spotify.com/album/42O64iXplUzBiYcUX1ELQw"
-      },
-      "artists": [
-        {
-          "name": "Luna Li",
-          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
-        }
-      ],
-      "duration_ms": 223929,
-      "name": "That's Life",
-      "url": "https://open.spotify.com/track/45qWYodQFrF6TJ77NtF4Ke"
-    },
-    {
-      "added_at": "2025-12-13 01:31:00",
-      "album": {
-        "name": "Wild One",
-        "url": "https://open.spotify.com/album/6uQPitAnucKcatIRufA7om"
-      },
-      "artists": [
-        {
-          "name": "Cat Clyde",
-          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
-        }
-      ],
-      "duration_ms": 142489,
-      "name": "Wild One",
-      "url": "https://open.spotify.com/track/1ez4a2Zt26EJWcIoKaXO67"
     }
   ],
   "unique_name": "Long Drives",

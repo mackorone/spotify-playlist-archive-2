@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Dance Machi Dance\nCover : Jana Nayagan",
+  "description": "Dance Machi Dance\nCover : Meesaya Murukku 2",
   "name": "Latest Dance Tamil",
   "tracks": [
     {
@@ -1498,7 +1498,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 201210,
       "name": "Dandanakka Life'u (From \"Aaromaley\")",
       "url": "https://open.spotify.com/track/6bYsliuUe7IlW70RRwQyKk"
@@ -4418,6 +4418,36 @@
       "duration_ms": 220156,
       "name": "Pandi Muni Varaan (From \"Vadam\")",
       "url": "https://open.spotify.com/track/2lrUcw7nHm01o1vbnlZ8CW"
+    },
+    {
+      "album": {
+        "name": "Pappali Pazhamey (From \"Meesaya Murukku 2\")",
+        "url": "https://open.spotify.com/album/2ZQiVkmdZV4E9tBEWCFAa8"
+      },
+      "artists": [
+        {
+          "name": "Hiphop Tamizha",
+          "url": "https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q"
+        },
+        {
+          "name": "Gana Vinoth",
+          "url": "https://open.spotify.com/artist/0MmchTAod9cNvsJgXVS6xz"
+        },
+        {
+          "name": "Gana Ulagam Dharani",
+          "url": "https://open.spotify.com/artist/45N8QChe58Gqzfrmv4mXe7"
+        },
+        {
+          "name": "K.R.Dharan",
+          "url": "https://open.spotify.com/artist/3waLs3SAMAcObbCUrAoGxQ"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206032,
+      "name": "Pappali Pazhamey (From \"Meesaya Murukku 2\")",
+      "url": "https://open.spotify.com/track/6an0MY3T2cKqk8kzHsAMYq"
     },
     {
       "album": {

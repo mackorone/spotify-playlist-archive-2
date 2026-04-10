@@ -2,9 +2,9 @@
 
 ### [254 Flow](https://open.spotify.com/playlist/37i9dQZF1DWZdKbfDnTWVN)
 
-> The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/0BODXRyhRpJie8h9qpZb9E?si=nX6GQ\_XZRXC2RqLhWYj6aQ"> Vallerie Muthoni</a>
+> The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az?si=bwxFNSQ\_QcuacRy0nrEU3A"> Khaligraph Jones</a>
 
-490 songs - 1 day 2 hr 18 min
+491 songs - 1 day 2 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [Commercial](https://open.spotify.com/track/7qScVhjvF1FyIBJFFrXaqP) | [4Mr Frank White](https://open.spotify.com/artist/7dSC3dZMaGQPFNG4ABAzL6), [AJAY](https://open.spotify.com/artist/0aSARVYhhKFQov5I8xfCY0) | [Commercial](https://open.spotify.com/album/6bLVLGXuoUDLXCVQhK0JWv) | 2:25 | 2023-08-25 | 2024-05-24 |
 | [Complicated](https://open.spotify.com/track/6X7vxDcau5bwndcs58owCF) | [Polaris Pauline](https://open.spotify.com/artist/04JfU1Q9ESK7m4yLUOR6lA), [Moeazy](https://open.spotify.com/artist/7JYVVIJHFX48ERG4Wt6HJz), [Drop Boy](https://open.spotify.com/artist/2VhB8HqjzPSe2pxNPBrGpJ) | [Complicated](https://open.spotify.com/album/7snX6S8N4Jmwx0qPa1qgdK) | 3:56 | 2023-11-30 | 2024-05-10 |
 | [Confirmation](https://open.spotify.com/track/0wnP35og5XijJl7yOl3HzC) | [Toxic Lyrikali](https://open.spotify.com/artist/53nMUZwbwGd2cdY8P8EsHD), [Mr Ree](https://open.spotify.com/artist/2mPAvbZaeVCxrSBv65hhU8) | [Confirmation](https://open.spotify.com/album/00bCLPSqWsUnLLzM2rSx0j) | 4:02 | 2025-04-10 | 2026-02-19 |
-| [Confused](https://open.spotify.com/track/0mTb2zAevbvlHYmqKBOig2) | [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az) | [Confused](https://open.spotify.com/album/4wp3oUWbtZndvUbhk5c70y) | 3:30 | 2025-09-08 |  |
+| [Confused](https://open.spotify.com/track/0mTb2zAevbvlHYmqKBOig2) | [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az) | [Confused](https://open.spotify.com/album/4wp3oUWbtZndvUbhk5c70y) | 3:30 | 2025-09-08 | 2026-04-10 |
 | [Counter](https://open.spotify.com/track/6mUnSO6JfaXs7mJhrE1LEL) | [Xavier Xander](https://open.spotify.com/artist/71j1401qfvGqlUYS5l3axQ), [Vince Keyboi](https://open.spotify.com/artist/4liMTLSRKiw99kI9w2dckV) | [Counter](https://open.spotify.com/album/5n4TN2oAgUev5OKitTplD8) | 3:03 | 2023-07-07 | 2023-11-11 |
 | [CRASH OUT](https://open.spotify.com/track/5g0joA89W8BZMNNOeZQo57) | [Elsy Wameyo](https://open.spotify.com/artist/57yHK6QAG0l9vigstf9F2T) | [WAMEYO](https://open.spotify.com/album/50PbsZcJA7h3IvcpTDVRTU) | 2:23 | 2025-11-27 |  |
 | [crazy](https://open.spotify.com/track/1sTJtEAnTg2IRGtWAFTtgS) | [Kakaz O6reezy](https://open.spotify.com/artist/2XF8GZ1AAvXpAr0athNym2), [djprodluigi](https://open.spotify.com/artist/2i6wA4AaBQLYJ9zxv4dnvI) | [KAKAZ](https://open.spotify.com/album/3GAIFSdYhAznUqOfQrTJe5) | 2:26 | 2025-04-10 | 2025-07-26 |
@@ -161,6 +161,7 @@
 | [Guza Umbwa](https://open.spotify.com/track/6MSkSYXha1WI5HLRnGPGPB) | [Masterpiece King](https://open.spotify.com/artist/4JVrLMd2BhgXFwrNCOmHsF), [DOMANI MKADINALI](https://open.spotify.com/artist/0E2SnFa1zHrnkq9XILmxRY) | [ESCOBAR](https://open.spotify.com/album/71sTYeu27jvOCfcBdZ2DVU) | 3:42 | 2024-09-20 | 2025-10-31 |
 | [GVNG](https://open.spotify.com/track/2x0IbiX2uIrA3rH8G3Nzb3) | [Bout Paper Boyz](https://open.spotify.com/artist/2EXPwSRAffYH1zNCalvcaB), [TwennyEights](https://open.spotify.com/artist/6wsz9QSirpcHgvkZ2Huhv0), [BoutPaperMasey](https://open.spotify.com/artist/7u408StdmIpsqxET0fm3dW) | [GVNG](https://open.spotify.com/album/5AUM8rsUTPiTldUtH7k0ux) | 1:30 | 2022-06-02 | 2023-08-18 |
 | [Hadharani](https://open.spotify.com/track/4itiO6J4bjyHFiQOzkYtSB) | [Thayu Mwas](https://open.spotify.com/artist/6Za9gHP7gAvWh4IJC9Osqc) | [Hadharani](https://open.spotify.com/album/2Q4r76WwMRUYIZ5JE3uZsR) | 2:41 | 2023-10-06 | 2024-02-09 |
+| [Hallelujah \(Washwash\)](https://open.spotify.com/track/4l43H3GIY1HQ9gMOArHPpj) | [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az), [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Hallelujah \(Washwash\)](https://open.spotify.com/album/6Q9LLJEQ2HRWbyzJO73MER) | 4:05 | 2026-04-09 |  |
 | [Hattrick](https://open.spotify.com/track/7tiu1Qny7ax3bhwaH7F683) | [Kimemia](https://open.spotify.com/artist/4B9PQfwK6mo8NXccLRaKUe), [NJENGAAA](https://open.spotify.com/artist/16ocunQdP5nNwd7K69PM7t) | [Hattrick](https://open.spotify.com/album/5Y3LxqS84YPJNk8KZLes6V) | 3:24 | 2025-10-23 | 2026-01-30 |
 | [Head Lock](https://open.spotify.com/track/0YCYwpblDGL8iNM5mfOkTR) | [Ritzy](https://open.spotify.com/artist/4ZydIs3YkltepWfXDsn2uB) | [Head Lock](https://open.spotify.com/album/0wpC82P7OYpDHWlwi6Vda0) | 1:46 | 2026-04-02 |  |
 | [Head Up](https://open.spotify.com/track/2tLWdGHzNx6w5XVvhsokb8) | [Steph Kapela](https://open.spotify.com/artist/6wLnCeHouyPLFHjolO1Igl), [GR!](https://open.spotify.com/artist/3OLtlWxh8Ht9pL5ke6gFkd), [Hook](https://open.spotify.com/artist/0d2cvrJfsN0fBd6WuwwlDQ) | [Head Up](https://open.spotify.com/album/5WKPonFE8oT1qkCAsTCK6s) | 1:53 | 2025-04-04 | 2025-11-14 |

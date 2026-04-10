@@ -391,6 +391,32 @@
     },
     {
       "album": {
+        "name": "Hell",
+        "url": "https://open.spotify.com/album/425iX3QYrvCFtJLh9n2GFu"
+      },
+      "artists": [
+        {
+          "name": "Rseis",
+          "url": "https://open.spotify.com/artist/5xwEnl3D1t6Y03Mr1YsibX"
+        },
+        {
+          "name": "Fearblow",
+          "url": "https://open.spotify.com/artist/35xHCzQHAXuCWut0PxO793"
+        },
+        {
+          "name": "RResstante",
+          "url": "https://open.spotify.com/artist/2VBibXVmZwmvX8tn3maHMC"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161095,
+      "name": "Hell",
+      "url": "https://open.spotify.com/track/7AJlgDOogKdezrlVDefj5c"
+    },
+    {
+      "album": {
         "name": "ILLIEGALITEIT",
         "url": "https://open.spotify.com/album/3i3Tfr42wK3GZ3x8A8AeKF"
       },
@@ -468,7 +494,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 91267,
       "name": "Jabra",
       "url": "https://open.spotify.com/track/095Wi1mUn863osrFmXlHiL"

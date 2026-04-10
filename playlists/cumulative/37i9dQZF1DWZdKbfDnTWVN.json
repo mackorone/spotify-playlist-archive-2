@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The best of bars, beats & rhymes from the 254. Cover: <a href=\"https://open.spotify.com/artist/0BODXRyhRpJie8h9qpZb9E?si=nX6GQ_XZRXC2RqLhWYj6aQ\"> Vallerie Muthoni</a> ",
+  "description": "The best of bars, beats & rhymes from the 254. Cover: <a href=\"https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az?si=bwxFNSQ_QcuacRy0nrEU3A\"> Khaligraph Jones</a> ",
   "name": "254 Flow",
   "tracks": [
     {
@@ -1754,7 +1754,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 210860,
       "name": "Confused",
       "url": "https://open.spotify.com/track/0mTb2zAevbvlHYmqKBOig2"
@@ -3224,6 +3224,28 @@
       "duration_ms": 161102,
       "name": "Hadharani",
       "url": "https://open.spotify.com/track/4itiO6J4bjyHFiQOzkYtSB"
+    },
+    {
+      "album": {
+        "name": "Hallelujah (Washwash)",
+        "url": "https://open.spotify.com/album/6Q9LLJEQ2HRWbyzJO73MER"
+      },
+      "artists": [
+        {
+          "name": "Khaligraph Jones",
+          "url": "https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az"
+        },
+        {
+          "name": "Bensoul",
+          "url": "https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245551,
+      "name": "Hallelujah (Washwash)",
+      "url": "https://open.spotify.com/track/4l43H3GIY1HQ9gMOArHPpj"
     },
     {
       "album": {

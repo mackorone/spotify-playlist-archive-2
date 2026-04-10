@@ -2,7 +2,7 @@
 
 ### [BANGER](https://open.spotify.com/playlist/37i9dQZF1DX5wB72P2sVsT)
 
-> HUGEL au top des bangers dance/electro du moment !
+> Bebe Rexha au top des bangers dance/electro du moment !
 
 345 songs - 15 hr 53 min
 

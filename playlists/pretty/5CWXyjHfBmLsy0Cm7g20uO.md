@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5CWXyjHfBmLsy0Cm7g20uO.md) - [plain]
 
 > Dive into the heart of indie and alternative rock with our handpicked playlist\. Discover raw energy, powerful riffs, and the soulful essence of independent rock music\. Rock on!
 
-[Indie Music](https://open.spotify.com/user/eqiomkuuw0lc4nplre0xyx9dg) - 794 likes - 138 songs - 8 hr 40 min
+[Indie Music](https://open.spotify.com/user/eqiomkuuw0lc4nplre0xyx9dg) - 794 likes - 139 songs - 8 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -146,5 +146,6 @@ pretty - [cumulative](/playlists/cumulative/5CWXyjHfBmLsy0Cm7g20uO.md) - [plain]
 | 136 | [Disappointment](https://open.spotify.com/track/2hVGmS8Ghk82rXU5q543dj) | [1POINT5](https://open.spotify.com/artist/4PPHoRT5RMRHTbMGeQXiA3) | [Disappointment](https://open.spotify.com/album/0XHhbFHM5TQYB3O5VerbuX) | 4:31 |
 | 137 | [You Don't Know Me](https://open.spotify.com/track/6dM7waRbFfsjNeATYqehYA) | [The Castaways](https://open.spotify.com/artist/4ewY1VD6VLTTNTjYabMfKZ) | [You Don't Know Me](https://open.spotify.com/album/4Gh5QsJW3oebWvFnwfRtAq) | 4:57 |
 | 138 | [Finale \(from "Undertale"\)](https://open.spotify.com/track/6G0Ga8838jfNUcoHj7mqDO) | [Serious Yisus](https://open.spotify.com/artist/6WkKiqAhtTlBIl5sNg5XMi) | [Finale \(from "Undertale"\)](https://open.spotify.com/album/6jQwcZcSEfZQSwkksknSGd) | 1:51 |
+| 139 | [Glimpse](https://open.spotify.com/track/6gLTJWbw0uEtvQi128RsdR) | [Field of View](https://open.spotify.com/artist/77F2OeJqiPVTeAwBeu2gxG) | [In My Own Way](https://open.spotify.com/album/5eBSKHjtj9mFF6QwkKYYBi) | 2:30 |
 
-Snapshot ID: `AAAF6RzWrOkmTWDUoKGBDfkV0U/hFBeQ`
+Snapshot ID: `AAAF6qOVHeLYT0EYLJBr31Fj9mx2K7T3`

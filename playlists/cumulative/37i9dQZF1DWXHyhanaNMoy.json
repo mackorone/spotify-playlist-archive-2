@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Motion & good vibes! Cover: Mensa",
+  "description": "Motion & good vibes! Cover:  J.FIZ, Topperig & BFLQuatro",
   "name": "La Vida Loca",
   "tracks": [
     {
@@ -1286,6 +1286,32 @@
       "duration_ms": 145378,
       "name": "Allo Min",
       "url": "https://open.spotify.com/track/6psaZUqCkuzZODIUEpAYYS"
+    },
+    {
+      "album": {
+        "name": "Alo",
+        "url": "https://open.spotify.com/album/5nbMRLAWtDojQ5fMkAJ2M4"
+      },
+      "artists": [
+        {
+          "name": "Highguest",
+          "url": "https://open.spotify.com/artist/5Wmp0SPkZCGuTNHHa3jJdj"
+        },
+        {
+          "name": "YV",
+          "url": "https://open.spotify.com/artist/5A7HNCq6t0xNDOjZIUZDRk"
+        },
+        {
+          "name": "Ksix",
+          "url": "https://open.spotify.com/artist/2vzRN2N10AtxEHaxSIN1NR"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156923,
+      "name": "Alo",
+      "url": "https://open.spotify.com/track/0tEIOQkNRNn6ZGoalxsXDq"
     },
     {
       "album": {
@@ -3952,7 +3978,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 186421,
       "name": "BEND OVA",
       "url": "https://open.spotify.com/track/05wK2fpzjb29klShjaamxJ"
@@ -6541,6 +6567,32 @@
     },
     {
       "album": {
+        "name": "Cardi&Offset",
+        "url": "https://open.spotify.com/album/1roKTBqy2qeouN8nbR2Jd4"
+      },
+      "artists": [
+        {
+          "name": "J.FIZ",
+          "url": "https://open.spotify.com/artist/0XlmgJDA7Zqoyyreep2YpT"
+        },
+        {
+          "name": "Topperig",
+          "url": "https://open.spotify.com/artist/4ZCjmwaMyx0uu5QShvrEZu"
+        },
+        {
+          "name": "BFLQuatro",
+          "url": "https://open.spotify.com/artist/31zVK14B7AlX6iy8b2pwrl"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141068,
+      "name": "Cardi&Offset",
+      "url": "https://open.spotify.com/track/6J1yVUYiHl0B79IN2rO65J"
+    },
+    {
+      "album": {
         "name": "Cardio",
         "url": "https://open.spotify.com/album/0NxbEuuVrrTdKKAdBUZcmd"
       },
@@ -7824,7 +7876,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 139998,
       "name": "Controlando",
       "url": "https://open.spotify.com/track/06N9OQlh4AGQdnGrc8hPCS"
@@ -12462,7 +12514,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 145193,
       "name": "Gaan Naar",
       "url": "https://open.spotify.com/track/3UyT6U96QsbcbyxMqx79n7"
@@ -17129,6 +17181,24 @@
     },
     {
       "album": {
+        "name": "Kakalika",
+        "url": "https://open.spotify.com/album/2cb3UP2H7uVkZv1a2sLasK"
+      },
+      "artists": [
+        {
+          "name": "DopeNation",
+          "url": "https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181581,
+      "name": "Kakalika",
+      "url": "https://open.spotify.com/track/1p5F0slR5AF49EDX5o125x"
+    },
+    {
+      "album": {
         "name": "Kame Hame Ha",
         "url": "https://open.spotify.com/album/7hShXOa7Ml04xxBzRK0Ljj"
       },
@@ -17476,6 +17546,40 @@
       "duration_ms": 179368,
       "name": "Kitoko",
       "url": "https://open.spotify.com/track/0lYgAmPl56UiNMBme18iYW"
+    },
+    {
+      "album": {
+        "name": "Kitty",
+        "url": "https://open.spotify.com/album/5rpThwbef9ILGsaCkHjYUv"
+      },
+      "artists": [
+        {
+          "name": "Jason Imanuel",
+          "url": "https://open.spotify.com/artist/3uQYsvZhFDNBb6bpVNEhO7"
+        },
+        {
+          "name": "Macka Diamond",
+          "url": "https://open.spotify.com/artist/6ETpDuVbzktDEfNza1CN8i"
+        },
+        {
+          "name": "Lijay",
+          "url": "https://open.spotify.com/artist/0fEd76ZuO65826Q6ilZIuO"
+        },
+        {
+          "name": "AV Allure",
+          "url": "https://open.spotify.com/artist/7tjcbOzzgu3LU36xMW1Giy"
+        },
+        {
+          "name": "Andr\u00e9lon",
+          "url": "https://open.spotify.com/artist/0kpB9a2lLgoxgoQh7KL0p2"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167469,
+      "name": "Kitty",
+      "url": "https://open.spotify.com/track/7k9bDoou9oZZhXAbfVSLag"
     },
     {
       "album": {
@@ -18644,6 +18748,28 @@
       "duration_ms": 161846,
       "name": "Lavish Dance",
       "url": "https://open.spotify.com/track/29dbzELQ5D6E4L64vR3PWg"
+    },
+    {
+      "album": {
+        "name": "Lean Back",
+        "url": "https://open.spotify.com/album/4tC0xcFh0l5OP2eJr1NqO7"
+      },
+      "artists": [
+        {
+          "name": "ValsBezig",
+          "url": "https://open.spotify.com/artist/4tGJvDWhLFxzKRi94gc4a4"
+        },
+        {
+          "name": "Marrabeatsz",
+          "url": "https://open.spotify.com/artist/2W0Q6w2WizYVCoKQGMjlm5"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153900,
+      "name": "Lean Back",
+      "url": "https://open.spotify.com/track/4NzPYZIZa0K7NhNl3oKZ1A"
     },
     {
       "album": {
@@ -20628,7 +20754,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 183092,
       "name": "MAMA",
       "url": "https://open.spotify.com/track/2SFn0WH3LSc6U3imhWgheq"
@@ -27592,7 +27718,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 151026,
       "name": "Private Party",
       "url": "https://open.spotify.com/track/53fXpvHCU7XZLs0mqCIDNR"
@@ -28052,7 +28178,7 @@
       ],
       "date_added": "2026-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 191018,
       "name": "Qu\u00e9 Pasar\u00eda...",
       "url": "https://open.spotify.com/track/0l0vcZMU7AOeQmUIREoI2U"
@@ -30316,6 +30442,24 @@
       "duration_ms": 165978,
       "name": "SOIS PAS TIMIDE",
       "url": "https://open.spotify.com/track/37tGmKyKlr8vyt9BVdoWQo"
+    },
+    {
+      "album": {
+        "name": "Soleil",
+        "url": "https://open.spotify.com/album/5IwocCJFXNPDoBVSY88Bcw"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131563,
+      "name": "Soleil",
+      "url": "https://open.spotify.com/track/2QfcxxXiORn553zXq7qrFG"
     },
     {
       "album": {
@@ -36114,7 +36258,7 @@
       ],
       "date_added": "2026-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 156140,
       "name": "What I Like (with Moliy, Ayetian, & Tyga)",
       "url": "https://open.spotify.com/track/6QOOnaoczEeWw4zEICAJyB"

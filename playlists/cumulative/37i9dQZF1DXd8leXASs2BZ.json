@@ -25655,6 +25655,24 @@
     },
     {
       "album": {
+        "name": "washing",
+        "url": "https://open.spotify.com/album/3jJ9SrJMorCeZwMHAEcFFQ"
+      },
+      "artists": [
+        {
+          "name": "ORIGAMI",
+          "url": "https://open.spotify.com/artist/6BmOndD55lPbUiYA8EeqTy"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108004,
+      "name": "washing",
+      "url": "https://open.spotify.com/track/5Sx2uxYPQGy6j8ONx67M6V"
+    },
+    {
+      "album": {
         "name": "V.L.C. Tomorrow",
         "url": "https://open.spotify.com/album/6cW1fYITwKu5RoPuq2KDIU"
       },

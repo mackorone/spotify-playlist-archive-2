@@ -591,6 +591,24 @@
     },
     {
       "album": {
+        "name": "8-16",
+        "url": "https://open.spotify.com/album/0LKUSjJgOhrrUpjc17l2O3"
+      },
+      "artists": [
+        {
+          "name": "Paine Galletto",
+          "url": "https://open.spotify.com/artist/5zpiEJeMC7CraPBvE9MqkY"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120531,
+      "name": "8-16",
+      "url": "https://open.spotify.com/track/49bfiYIQWz8vJey5FTdowU"
+    },
+    {
+      "album": {
         "name": "911",
         "url": "https://open.spotify.com/album/7pvGWk5SR5IIMB1GaUL8Mc"
       },
@@ -2378,7 +2396,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-27",
+      "date_removed": null,
       "duration_ms": 174933,
       "name": "Autonomi",
       "url": "https://open.spotify.com/track/0SByBQFFm5iFAwOcsgXc3p"
@@ -3348,7 +3366,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 175228,
       "name": "Berusade ord",
       "url": "https://open.spotify.com/track/0RxBz475eVWbDQQwcY7DNa"
@@ -4004,7 +4022,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 156923,
       "name": "BL\u00c5TANDSSN\u00c4CKA",
       "url": "https://open.spotify.com/track/71hki9Cz2BEI3D0fLYtCLc"
@@ -5244,7 +5262,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 185628,
       "name": "Can't Let Him Win",
       "url": "https://open.spotify.com/track/5S0DFXk6kIDc7sGk5pFdCW"
@@ -5754,7 +5772,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 155204,
       "name": "Clap Song",
       "url": "https://open.spotify.com/track/1b7w4UuUfq9iPoDstsrT2u"
@@ -7134,6 +7152,24 @@
       "duration_ms": 175945,
       "name": "Det h\u00e4r ska dom f\u00e5 fa-an f\u00f6r - Fr\u00e5n filmen \"H\u00e5kan Br\u00e5kan 2\"",
       "url": "https://open.spotify.com/track/2oBc1QrxsWLSQ6rPekjb2T"
+    },
+    {
+      "album": {
+        "name": "Det h\u00e4r \u00e4r hj\u00e4rtat",
+        "url": "https://open.spotify.com/album/2DjXiYLzBitUyBRIpBJuB3"
+      },
+      "artists": [
+        {
+          "name": "crescenterna",
+          "url": "https://open.spotify.com/artist/3nRWFDHzmQF7O2xMAZUhyh"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271480,
+      "name": "Det h\u00e4r \u00e4r hj\u00e4rtat",
+      "url": "https://open.spotify.com/track/0aIXjVMPaUKxYjRt51K1bg"
     },
     {
       "album": {
@@ -9610,7 +9646,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-03",
+      "date_removed": null,
       "duration_ms": 148888,
       "name": "En dr\u00f6m",
       "url": "https://open.spotify.com/track/3dQGDtM4mk2rMAEJiZdmcr"
@@ -9834,7 +9870,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-06",
+      "date_removed": null,
       "duration_ms": 174000,
       "name": "En t\u00e5r",
       "url": "https://open.spotify.com/track/28y85h7J7lA08N2x5OEEhB"
@@ -10882,6 +10918,24 @@
       "duration_ms": 216024,
       "name": "Fantasi",
       "url": "https://open.spotify.com/track/5KImNJ1eFcH1J7sbRcwnWS"
+    },
+    {
+      "album": {
+        "name": "Fantomsm\u00e4rta",
+        "url": "https://open.spotify.com/album/2eYfKVmCZo3EdIFNWijToG"
+      },
+      "artists": [
+        {
+          "name": "Molly Hammar",
+          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197938,
+      "name": "Fantomsm\u00e4rta",
+      "url": "https://open.spotify.com/track/5Js7P4JCIoRJa4yhC5QZYQ"
     },
     {
       "album": {
@@ -13940,7 +13994,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 226231,
       "name": "Hack i h\u00e4l",
       "url": "https://open.spotify.com/track/5M4LcdQI697sSHvxTG647W"
@@ -14380,7 +14434,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 178200,
       "name": "Hatar att jag \u00e4lskar dig",
       "url": "https://open.spotify.com/track/4NF6LZiq3UJwVAAkpd5DWC"
@@ -14868,6 +14922,24 @@
       "duration_ms": 195173,
       "name": "Helan g\u00e5r",
       "url": "https://open.spotify.com/track/3VJHbBZSvktGfRIAW2aXch"
+    },
+    {
+      "album": {
+        "name": "ABELS UPPENBARELSE",
+        "url": "https://open.spotify.com/album/7eSXUGy2VrG7CLt14d5BlO"
+      },
+      "artists": [
+        {
+          "name": "ABEL",
+          "url": "https://open.spotify.com/artist/24s1thJhRUKrnGcnFDBi5E"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167368,
+      "name": "HELIGT VATTEN",
+      "url": "https://open.spotify.com/track/6rZnvAe5JLqPOKd8unWTKc"
     },
     {
       "album": {
@@ -15922,7 +15994,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 182715,
       "name": "Horses",
       "url": "https://open.spotify.com/track/3cfcXcHx15uP9zuZVU9CAO"
@@ -17844,7 +17916,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-27",
+      "date_removed": null,
       "duration_ms": 221653,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/5OCuFqx1Y8KUdMcJjb5nqA"
@@ -18616,7 +18688,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 280786,
       "name": "It's A Sin",
       "url": "https://open.spotify.com/track/5e97Z51SUopBbANmwBBkSq"
@@ -19350,6 +19422,24 @@
       "duration_ms": 223241,
       "name": "Josephine",
       "url": "https://open.spotify.com/track/57KEhRQ7WjjYHjTIMBL8t0"
+    },
+    {
+      "album": {
+        "name": "Ju Mer Dom Spottar",
+        "url": "https://open.spotify.com/album/24AvUXtwmM8TqNMRVYPnw8"
+      },
+      "artists": [
+        {
+          "name": "emoemy",
+          "url": "https://open.spotify.com/artist/6kOYIk57Dcel1IrTxYNP9i"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175578,
+      "name": "Ju Mer Dom Spottar",
+      "url": "https://open.spotify.com/track/6COVBu4T7r9eeTUU9ptVsN"
     },
     {
       "album": {
@@ -20992,7 +21082,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 175280,
       "name": "Liften (Regular & Goofy)",
       "url": "https://open.spotify.com/track/5jVnnhpofwi7k00qlzXtJH"
@@ -21824,7 +21914,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 161194,
       "name": "Love",
       "url": "https://open.spotify.com/track/4MrhnXxJ2FZgONBoKRWFAw"
@@ -26018,7 +26108,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 190666,
       "name": "N\u00e5n annan",
       "url": "https://open.spotify.com/track/2n1gnIR1hIqcEZ5AdtTHTq"
@@ -26416,7 +26506,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 139621,
       "name": "Om 100 \u00e5r",
       "url": "https://open.spotify.com/track/6Hcwt2OmOep6SHX1HveLpt"
@@ -27281,6 +27371,24 @@
     },
     {
       "album": {
+        "name": "Livet kommer d\u00f6da oss, vi lever det \u00e4nd\u00e5",
+        "url": "https://open.spotify.com/album/0Go4LuZjdNYuwmyT7S3VlO"
+      },
+      "artists": [
+        {
+          "name": "Ida-Lova",
+          "url": "https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160973,
+      "name": "Packa alla v\u00e4skor Louise",
+      "url": "https://open.spotify.com/track/5fKUEcUMEHj0dDUgCOeSlj"
+    },
+    {
+      "album": {
         "name": "Pad Thai",
         "url": "https://open.spotify.com/album/3ThGd1eoD9xHmzpUxqAqIS"
       },
@@ -27690,7 +27798,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-27",
+      "date_removed": null,
       "duration_ms": 148000,
       "name": "pianoboy",
       "url": "https://open.spotify.com/track/7J4ZVJuGIKZDIEml0zl6x9"
@@ -28000,7 +28108,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-27",
+      "date_removed": null,
       "duration_ms": 263286,
       "name": "Porcelain Heart",
       "url": "https://open.spotify.com/track/4ultq7i49iBq7EmnHXUnaZ"
@@ -29000,7 +29108,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 255999,
       "name": "Rokokoro",
       "url": "https://open.spotify.com/track/1TMzd1u5I4uGcdsJFA6zXL"
@@ -29943,6 +30051,24 @@
     },
     {
       "album": {
+        "name": "Satan var en \u00e4ngel",
+        "url": "https://open.spotify.com/album/0ADxyy1l1b43inf1fDCd4t"
+      },
+      "artists": [
+        {
+          "name": "noll2",
+          "url": "https://open.spotify.com/artist/6goq2OWu3ncHBnpFtCZGHR"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178958,
+      "name": "Satan var en \u00e4ngel",
+      "url": "https://open.spotify.com/track/1ps4CnpPnbZ45WUY3ZT59X"
+    },
+    {
+      "album": {
         "name": "Satanized",
         "url": "https://open.spotify.com/album/47DIJNO8Fgzi9ptduzI7R2"
       },
@@ -30636,6 +30762,24 @@
       "duration_ms": 200845,
       "name": "Showdown",
       "url": "https://open.spotify.com/track/1sY71Tu4tLAMNHejetl4TH"
+    },
+    {
+      "album": {
+        "name": "Sick Of Love",
+        "url": "https://open.spotify.com/album/2ETP833yyVmqvtnbnRHtxb"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216933,
+      "name": "Sick Of Love",
+      "url": "https://open.spotify.com/track/6aPG5Atb3L3l8pZYzLrpEi"
     },
     {
       "album": {
@@ -33078,7 +33222,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 101562,
       "name": "Stockholmsbrud",
       "url": "https://open.spotify.com/track/2iirxhzR3jHGrJFgzHiy6J"
@@ -36222,7 +36366,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-30",
+      "date_removed": null,
       "duration_ms": 173043,
       "name": "Time Machine",
       "url": "https://open.spotify.com/track/5LTfGYb6n4oHSgrAgQAYGJ"
@@ -38524,7 +38668,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 135978,
       "name": "Vi som \u00e4r natten",
       "url": "https://open.spotify.com/track/4uScN8eKZWScsM20u2YwUq"

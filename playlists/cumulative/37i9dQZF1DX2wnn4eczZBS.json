@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Indiepop in het Nederlands. Cover: Elmer",
+  "description": "Indiepop in het Nederlands. Cover: IDA",
   "name": "indie.nl",
   "tracks": [
     {
@@ -168,7 +168,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 142645,
       "name": "Afterparty",
       "url": "https://open.spotify.com/track/0nvPj2VhAABt6Ac467PEL3"
@@ -226,7 +226,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 171100,
       "name": "Alleen in de Avond",
       "url": "https://open.spotify.com/track/022et9Vl1YHqnrvVZM8Ohg"
@@ -2003,6 +2003,32 @@
     },
     {
       "album": {
+        "name": "Huilend In Een Taxi",
+        "url": "https://open.spotify.com/album/6gKkcFJd52QMVFVWcNJYSd"
+      },
+      "artists": [
+        {
+          "name": "Het Algoritme",
+          "url": "https://open.spotify.com/artist/0Iivrm0lwA0QXN0C4AlO8i"
+        },
+        {
+          "name": "Klangstof",
+          "url": "https://open.spotify.com/artist/25lIYhqIj0R1AnnmqsTrtO"
+        },
+        {
+          "name": "Freez",
+          "url": "https://open.spotify.com/artist/3Wg7xRNLUhziX8sgdRKEyg"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174915,
+      "name": "Huilend In Een Taxi",
+      "url": "https://open.spotify.com/track/56Uduiv4bjrWGgUqpGaqnQ"
+    },
+    {
+      "album": {
         "name": "Huis van Zwart en Rood / Cederhout",
         "url": "https://open.spotify.com/album/0u3Aq3qOZpLFa9zU275XBe"
       },
@@ -2587,6 +2613,24 @@
     },
     {
       "album": {
+        "name": "Kan Ik Zoveel? / Dingen Mis Met De Auto",
+        "url": "https://open.spotify.com/album/5KqpYFAhXnE7EjX9C3yjDC"
+      },
+      "artists": [
+        {
+          "name": "Igor",
+          "url": "https://open.spotify.com/artist/3bhBM7OA3aCdsNVzRzkBPq"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234633,
+      "name": "Kan Ik Zoveel?",
+      "url": "https://open.spotify.com/track/2OETcNMac8rz2i8DTk6MV2"
+    },
+    {
+      "album": {
         "name": "Kan Je Niet Blijven?",
         "url": "https://open.spotify.com/album/0zDtda7KNQvJ1jggMPyhvI"
       },
@@ -2598,7 +2642,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-06",
+      "date_removed": null,
       "duration_ms": 215199,
       "name": "Kan Je Niet Blijven?",
       "url": "https://open.spotify.com/track/39eWBLGnZPIwBNESykz0V8"
@@ -3722,7 +3766,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 162394,
       "name": "Nu Nog Niet - Josephine Odhil versie",
       "url": "https://open.spotify.com/track/0H4jonrXvaYd2jZHuCmR1N"
@@ -4074,7 +4118,7 @@
       ],
       "date_added": "2025-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 182929,
       "name": "Platonisch",
       "url": "https://open.spotify.com/track/6Mwcn4IEsarl0gDqJ29XFy"
@@ -4176,10 +4220,28 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 144520,
       "name": "Radio",
       "url": "https://open.spotify.com/track/2NhflROyhPgc2AtDjRo9bC"
+    },
+    {
+      "album": {
+        "name": "Rare Dingen",
+        "url": "https://open.spotify.com/album/2vOdbHukNuIYMezfa9gIL0"
+      },
+      "artists": [
+        {
+          "name": "Ellen Ten Damme",
+          "url": "https://open.spotify.com/artist/3DbOvEIWluNeH6rhPuFexv"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122391,
+      "name": "Rare Dingen",
+      "url": "https://open.spotify.com/track/4VcVlJsCgyIoWgzMWS0S7U"
     },
     {
       "album": {
@@ -4230,7 +4292,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 190541,
       "name": "Rondjes",
       "url": "https://open.spotify.com/track/6cQWHhI9gJ44kZG0vNofsZ"
@@ -4837,6 +4899,24 @@
     },
     {
       "album": {
+        "name": "GEEN TITEL",
+        "url": "https://open.spotify.com/album/3hioypt7zKgNZT5JTUwXsx"
+      },
+      "artists": [
+        {
+          "name": "Ploegendienst",
+          "url": "https://open.spotify.com/artist/2aJUvAtem0t0zRKxJsRoea"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 10",
+      "url": "https://open.spotify.com/track/6rhUciq7H7uz6WjEckuk0S"
+    },
+    {
+      "album": {
         "name": "Sterrenlopen",
         "url": "https://open.spotify.com/album/5GMxtUUhppf2fnfCSivkKQ"
       },
@@ -5058,10 +5138,28 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 218704,
       "name": "Videotheek (Recht Uit Een Film)",
       "url": "https://open.spotify.com/track/2Daa0C0E3YhljvgpBkyy5L"
+    },
+    {
+      "album": {
+        "name": "Vlammen!",
+        "url": "https://open.spotify.com/album/5ttJNiwtPhkCMzLz9YlGOE"
+      },
+      "artists": [
+        {
+          "name": "IDA",
+          "url": "https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165586,
+      "name": "Vlammen!",
+      "url": "https://open.spotify.com/track/2GXZ1LZ1Br2cUyMudL6vBa"
     },
     {
       "album": {
@@ -5308,7 +5406,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-03",
+      "date_removed": null,
       "duration_ms": 240949,
       "name": "Water",
       "url": "https://open.spotify.com/track/0Q7FWCLgqatwSWma0K3afr"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 
 > Sangre fresca en las escenas del indie y el rock\. Kross Vazquez/ Vivx Pxndx en Pxrtxdx.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,600 likes - 103 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,622 likes - 103 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

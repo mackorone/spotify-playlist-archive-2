@@ -4,7 +4,7 @@
 
 > Nuevos hallazgos de música indie en español con maye en portada.
 
-7,222 songs - 16 day 11 hr 35 min
+7,223 songs - 16 day 11 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4594,6 +4594,7 @@
 | [No One Noticed](https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [If Only + No One Noticed](https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF) | 3:56 | 2024-05-03 | 2024-05-18 |
 | [No Pierdas La Cabeza](https://open.spotify.com/track/70u5gYrZTFuhlWELo9N78s) | [Andry Bett](https://open.spotify.com/artist/2UYLH3xSANTx5sfjYTfpv7), [Lichi](https://open.spotify.com/artist/1VJpLdCb3HI6WfG3uUA9ht) | [No Pierdas La Cabeza](https://open.spotify.com/album/4NdURclkNchMSMklnDxCN0) | 4:17 | 2024-01-19 | 2024-01-27 |
 | [no pudimos ser </3](https://open.spotify.com/track/2Yovk3o959wt0HT5xxbuNM) | [Diana Meril](https://open.spotify.com/artist/2VzNlNyc9lEAKr7wjKnTlo), [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E) | [No pudimos ser </3](https://open.spotify.com/album/3wnMvuFOaI2BHv5NLy6WbF) | 3:08 | 2025-02-28 | 2025-06-14 |
+| [NO PUEDES CONTROLARLO TODO](https://open.spotify.com/track/1LH3Zbu4majB99Dnr2ODCP) | [Alan Troy](https://open.spotify.com/artist/2AAtJ9SZMYanKsVF87wxGU) | [NO PUEDES CONTROLARLO TODO](https://open.spotify.com/album/6mBGka1jN0CrZJgrf91Y5I) | 3:01 | 2026-04-03 |  |
 | [no puedo decir que no \(no regrets\)](https://open.spotify.com/track/50sLVKctDmmJ9LRDUMjXEC) | [MAVICA](https://open.spotify.com/artist/2J1sJydvX10ir67gz54cdW) | [no puedo decir que no \(no regrets\)](https://open.spotify.com/album/1DEWooZAic8b4wRHYEjewL) | 3:33 | 2023-06-09 | 2023-06-17 |
 | [No Puedo Dejar De Decir Que Te Quiero](https://open.spotify.com/track/0H5VvDGOVbHFGuxCTQ41FD) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd) | [La Máquina Persona](https://open.spotify.com/album/4CKMDfvdrGb71J8GoUqDPP) | 5:22 | 2023-12-01 | 2023-12-09 |
 | [No Puedo Extrañarte](https://open.spotify.com/track/6cEY4wW5INlDK75bT7xQf0) | [Dos Garza](https://open.spotify.com/artist/7zsTwOXAbIeL7H8hJXgLt8), [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [No Puedo Extrañarte](https://open.spotify.com/album/2zzaRImwYVaNSEd8MASRoE) | 3:12 | 2024-03-08 | 2024-03-23 |
@@ -4925,7 +4926,7 @@
 | [Oye, que perdón](https://open.spotify.com/track/01h5IZ6lolrFbCw3Zd8OTt) | [Secundaria](https://open.spotify.com/artist/2X9pSg6p44sB1cQYty192c) | [Oye, que perdón](https://open.spotify.com/album/1Lk05VwjikFB2RsSrmMQeJ) | 3:05 | 2022-07-01 | 2022-07-16 |
 | [OYENDO CARACOLES](https://open.spotify.com/track/6UnXToD2Mj5T97IjlZOOj1) | [Una Canción Bonita](https://open.spotify.com/artist/3hLAnFsw8LnNJ9FDXSCCP7) | [OYENDO CARACOLES](https://open.spotify.com/album/0DfpHJt7QrN7IvcvZpnBLZ) | 3:06 | 2025-10-03 | 2025-10-11 |
 | [P.O.V.](https://open.spotify.com/track/6LqbyzeoubrcO1BTIWgx7w) | [Juan Wauters](https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV) | [P.O.V.](https://open.spotify.com/album/7KLGRAz8bmNP9nLe4waQzm) | 2:52 | 2023-10-20 | 2023-10-30 |
-| [pa que \(feat\. Ed Maverick\)](https://open.spotify.com/track/5smAUZtCCJCcHv2qyknRgt) | [bpuntito](https://open.spotify.com/artist/7hpawMsfyoRG0gF7VAwv9u), [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [pa que \(feat\. Ed Maverick\)](https://open.spotify.com/album/54zMR9xpK3l6DHhjitr4Qd) | 3:16 | 2026-03-27 |  |
+| [pa que](https://open.spotify.com/track/5smAUZtCCJCcHv2qyknRgt) | [bpuntito](https://open.spotify.com/artist/7hpawMsfyoRG0gF7VAwv9u) | [pa que](https://open.spotify.com/album/54zMR9xpK3l6DHhjitr4Qd) | 3:16 | 2026-03-27 |  |
 | [Pa Que Los Veas Tú](https://open.spotify.com/track/56zRlA3nVvGdyGsSNpNdJz) | [TIRAYA](https://open.spotify.com/artist/3VbXBoA7I3k5KURFPIajpy) | [Pa Que Los Veas Tú](https://open.spotify.com/album/3RQsrtBNp8YU9UA5lIA8ZJ) | 2:22 | 2025-06-13 | 2025-06-20 |
 | [Pa Ti](https://open.spotify.com/track/2RI6t2wnifhfIyeSKXupio) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [Pa ti](https://open.spotify.com/album/3uoCt9ywjzKWfwMP4qNeTn) | 2:11 | 2024-07-26 | 2024-08-03 |
 | [Pa' Que Sepas](https://open.spotify.com/track/1zv4GLkzu9aC1LxANPVABR) | [ElArturo](https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL) | [Pa' Que Sepas](https://open.spotify.com/album/2v1MC1AaDxXvSg0yU5DKg1) | 2:51 | 2022-10-21 | 2022-10-29 |

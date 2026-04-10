@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. GRECAS, Reality",
+  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Arce",
   "name": "Rap Espa\u00f1ol",
   "tracks": [
     {
@@ -2040,6 +2040,28 @@
       "duration_ms": 204000,
       "name": "Brigantes",
       "url": "https://open.spotify.com/track/1wqQks7huD10fXqgXd3qGR"
+    },
+    {
+      "album": {
+        "name": "Bro Bro Bro",
+        "url": "https://open.spotify.com/album/07V8gAkpbsRpymj3X6j5rm"
+      },
+      "artists": [
+        {
+          "name": "Blake",
+          "url": "https://open.spotify.com/artist/2FwMmxiCWQhEyO9k0nOyNF"
+        },
+        {
+          "name": "Kandas",
+          "url": "https://open.spotify.com/artist/4gMZApWfk1wPyjVnS8LUjP"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173400,
+      "name": "Bro Bro Bro",
+      "url": "https://open.spotify.com/track/56PfQofdIvhe77QlpOZV1I"
     },
     {
       "album": {
@@ -7376,7 +7398,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 159962,
       "name": "JUDAS FREESTYLE",
       "url": "https://open.spotify.com/track/4olDMuMkPxfQxdzmdIrL8G"
@@ -10824,7 +10846,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 137142,
       "name": "No lo hacen por amor",
       "url": "https://open.spotify.com/track/14fMGKV11I8IjFwwihJTqX"
@@ -11937,6 +11959,24 @@
     },
     {
       "album": {
+        "name": "Picholeiro",
+        "url": "https://open.spotify.com/album/2rKchQT2u4tMRcYbzIvr7z"
+      },
+      "artists": [
+        {
+          "name": "Arce",
+          "url": "https://open.spotify.com/artist/7eH1UUCyxL8Wf9PztvvPJ6"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220909,
+      "name": "Picholeiro",
+      "url": "https://open.spotify.com/track/4LLI5Zjy2U14XL1fFBaGBe"
+    },
+    {
+      "album": {
         "name": "PILA DE TROTE",
         "url": "https://open.spotify.com/album/1hzAtcsi1zqAsKSzQX4znA"
       },
@@ -12004,6 +12044,28 @@
       "duration_ms": 179020,
       "name": "Pizzas para Donatello",
       "url": "https://open.spotify.com/track/5TKysG3A69b5WkGG5pzun7"
+    },
+    {
+      "album": {
+        "name": "Plato y alquiler",
+        "url": "https://open.spotify.com/album/6m7fK37ekqJA63TsSFhgfw"
+      },
+      "artists": [
+        {
+          "name": "Foyone",
+          "url": "https://open.spotify.com/artist/1F2erLLqRHbaFvEYHeVIHJ"
+        },
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/6W1LDJkNoToXXK1w6SB1NW"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153962,
+      "name": "Plato y alquiler",
+      "url": "https://open.spotify.com/track/4MGx51u4U8bIzZ61PTpmPb"
     },
     {
       "album": {
@@ -15896,7 +15958,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 225600,
       "name": "Van Gogh",
       "url": "https://open.spotify.com/track/5mhDIjbR3LLXIG8xZsiR7l"

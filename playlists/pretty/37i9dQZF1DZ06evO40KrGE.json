@@ -1,12 +1,12 @@
 {
   "description": "This is Cassiane. The essential tracks, all in one playlist.",
-  "num_followers": 37941,
+  "num_followers": 37943,
   "original_name": "This Is Cassiane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adRJAAAAAAB46qHWlNyY725TTU0JlT/F",
+  "snapshot_id": "adWagAAAAACI0vosuZIywtPQRcHRkSWX",
   "tracks": [
     {
       "added_at": null,
@@ -275,6 +275,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ao Som dos Louvores",
+        "url": "https://open.spotify.com/album/1SBOCUbV8TfURNJtRyISFU"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 313093,
+      "name": "Amigo Esp\u00edrito Santo",
+      "url": "https://open.spotify.com/track/5wjvv06YEBbkh86PjfXRk0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sem Palavras",
         "url": "https://open.spotify.com/album/5l3C8WhPoluyf3FqslYyNd"
       },
@@ -287,26 +303,6 @@
       "duration_ms": 289459,
       "name": "Imagine",
       "url": "https://open.spotify.com/track/7sfSpQPesW7pNS7gaPnE7j"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quem \u00e9 Ele (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7kWHlrt0U9mKj9cUzbFwqu"
-      },
-      "artists": [
-        {
-          "name": "Rebeca Carvalho",
-          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
-        },
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 399386,
-      "name": "Quem \u00e9 Ele - Ao Vivo",
-      "url": "https://open.spotify.com/track/7sbw0RaD6nxalNUtjAcKnB"
     },
     {
       "added_at": null,
@@ -327,18 +323,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ao Som dos Louvores",
-        "url": "https://open.spotify.com/album/1SBOCUbV8TfURNJtRyISFU"
+        "name": "Quem \u00e9 Ele (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7kWHlrt0U9mKj9cUzbFwqu"
       },
       "artists": [
+        {
+          "name": "Rebeca Carvalho",
+          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
+        },
         {
           "name": "Cassiane",
           "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 313093,
-      "name": "Amigo Esp\u00edrito Santo",
-      "url": "https://open.spotify.com/track/5wjvv06YEBbkh86PjfXRk0"
+      "duration_ms": 399386,
+      "name": "Quem \u00e9 Ele - Ao Vivo",
+      "url": "https://open.spotify.com/track/7sbw0RaD6nxalNUtjAcKnB"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,782 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,784 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 32 | [they don’t know ’bout us](https://open.spotify.com/track/0b61A7v9agI08BG21jJPQ9) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 2:44 |
 | 33 | [Lembrei de Tu](https://open.spotify.com/track/1lokGTw8YKDexcSPtQ8AQ3) | [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Fepache](https://open.spotify.com/artist/5dLqjc2m428QbostsKrUYW) | [Lembrei de Tu](https://open.spotify.com/album/088pxvJGLblIFVW4PL95Zq) | 2:53 |
 | 34 | [Vai Tomando Pock Pock](https://open.spotify.com/track/2WYuivMCuOQbxhaatuWUCN) | [Mc Lele JP](https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY), [MC Leozinho ZS](https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8), [MC GH Original](https://open.spotify.com/artist/6TlHQuC7PJX1Ki2AjN7YAy), [MC Menor ZL](https://open.spotify.com/artist/7vtCvjMGmRijbRIvScJmkO), [DJ GORDINHO DA VF](https://open.spotify.com/artist/2isWi9fP3idxCaGPPEelEQ), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [MC PR](https://open.spotify.com/artist/0Vxqvpm9tpZcz6d4egDtjX) | [Chatão](https://open.spotify.com/album/7EGchezSqkD2O78GuahT0r) | 5:35 |
-| 35 | [Saudade Estranha \- Ao Vivo](https://open.spotify.com/track/3LZcSnTOCRalXwMXvkZnLZ) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Saudade Estranha \(Ao Vivo\)](https://open.spotify.com/album/4oSSmxah3nxooXXpHiosbY) | 2:54 |
+| 35 | [Saudade Estranha \- Du Nada \- Ao Vivo](https://open.spotify.com/track/3LZcSnTOCRalXwMXvkZnLZ) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Saudade Estranha \- Du Nada \(Ao Vivo\)](https://open.spotify.com/album/4oSSmxah3nxooXXpHiosbY) | 2:54 |
 | 36 | [Dois Enganados](https://open.spotify.com/track/38jMHjnOAJDR4QUdk3IXsw) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz), [Marília Mendonça](https://open.spotify.com/artist/1UtoD47sbgbZQ0VzVKQhu8) | [Pra Ouvir Tomando Uma, Vol\. 1](https://open.spotify.com/album/3yQc10lMcK8z7CfCRkCAJ3) | 2:52 |
 | 37 | [Arrependidaço \(Onde Você Anda\)](https://open.spotify.com/track/4rvk9VCJDbB4oSQJATrces) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [Sentimento](https://open.spotify.com/album/3q2x3jEOwVOL0BUU5F5k1E) | 3:00 |
 | 38 | [Merry Go Round](https://open.spotify.com/track/3VegC0PZiHjGxb80DER8XU) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 3:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [10 SEGUNDOS](https://open.spotify.com/track/48SYVECjCIwWWsqogDHWVF) | [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [Panda](https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz) | [10 SEGUNDOS](https://open.spotify.com/album/1Y4VDN6EZjy7dCBdixGHdl) | 2:34 |
 | 50 | [Apaga Apaga Apaga \- Ao Vivo](https://open.spotify.com/track/17tg01y3RhlfRKMnd333yL) | [Danilo e Davi](https://open.spotify.com/artist/5DaqVKaxeqDbJuxaIP9m4u) | [Toma Essa Verdade \(Ao Vivo\)](https://open.spotify.com/album/6vour1AXVo2RNRspJQjQoV) | 2:58 |
 
-Snapshot ID: `MWm9mAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MWsRcAAAAAAAAAAAAAAAAAAAAAAAAGVu`

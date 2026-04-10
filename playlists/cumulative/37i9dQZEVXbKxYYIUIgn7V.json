@@ -6484,7 +6484,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 154954,
       "name": "Berghain - Remix",
       "url": "https://open.spotify.com/track/7CI5IAi2z70tyJIVXxsHfw"
@@ -7801,6 +7801,28 @@
     },
     {
       "album": {
+        "name": "bmw x denkmal",
+        "url": "https://open.spotify.com/album/3f94zu9xBjLmmveocZHnfq"
+      },
+      "artists": [
+        {
+          "name": "yozora",
+          "url": "https://open.spotify.com/artist/42Ki8x63XbmidlxQZhm70L"
+        },
+        {
+          "name": "yodow",
+          "url": "https://open.spotify.com/artist/27qdccCV56xvrqiaN0X8RR"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100736,
+      "name": "bmw x denkmal",
+      "url": "https://open.spotify.com/track/3RsPwZasNqTxdvBmDoMCeW"
+    },
+    {
+      "album": {
         "name": "Bock auf Bier",
         "url": "https://open.spotify.com/album/7wEDKEq6LHlueRBc5v2S5f"
       },
@@ -8372,7 +8394,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 167664,
       "name": "Break It Down",
       "url": "https://open.spotify.com/track/5Db0K6UhL9e3ywaSCMgTBc"
@@ -24576,7 +24598,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 136400,
       "name": "H\u00f6r zu",
       "url": "https://open.spotify.com/track/41cbOnM4k92XXUwXQY3nMr"
@@ -51268,7 +51290,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 221674,
       "name": "Tennessee",
       "url": "https://open.spotify.com/track/3Xf8TO3Bgzhpjc5QaYvGK3"
@@ -55808,7 +55830,7 @@
       ],
       "date_added": "2026-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 205400,
       "name": "W Glowie",
       "url": "https://open.spotify.com/track/5xIwk3q4x3ptb6oedWlKf0"

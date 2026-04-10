@@ -4,7 +4,7 @@
 
 > Introducing RADAR Singapore & Malaysia Class of 2026\. Cover: Alpha
 
-307 songs - 16 hr 43 min
+308 songs - 16 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,7 +249,8 @@
 | [Salleh Wakeup!](https://open.spotify.com/track/2kZKQ1q2rw5mSnFg25rSkl) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy) | [99](https://open.spotify.com/album/45vLbFMEvx4jcIFhoFSGab) | 5:05 | 2024-08-08 | 2024-12-05 |
 | [Same For Me](https://open.spotify.com/track/37WRCo2FUb3N1eZpGLnfpG) | [RENE](https://open.spotify.com/artist/7oUwiz9DwD9EpLfuhd9xAg) | [Same For Me](https://open.spotify.com/album/7vY41987SfQE1HXH9COaf2) | 2:57 | 2025-04-15 | 2026-04-07 |
 | [sampai bila bila](https://open.spotify.com/track/7Dd8cjtC83OQ9JDAEIIOkz) | [empty page.](https://open.spotify.com/artist/1vqCRS8w7NNLDAlSk2rrxh), [Airliftz](https://open.spotify.com/artist/4O2Gfcx2x2dIrFdFrrf0PY) | [punca kecewa](https://open.spotify.com/album/59sMrZdgQ7vmjrtJoLPcvK) | 4:56 | 2025-11-27 | 2026-04-07 |
-| [Sangka Kau Suci](https://open.spotify.com/track/1VMQZjVkpMZeeh4rVwlIhW) | [Intan Maya](https://open.spotify.com/artist/4nzjfVkKR5fM96tka8N3pa) | [Sangka Kau Suci](https://open.spotify.com/album/7DknT8hWtqJGjc7FHGuisY) | 3:25 | 2026-04-06 |  |
+| [Sangka Kau Suci](https://open.spotify.com/track/1VMQZjVkpMZeeh4rVwlIhW) | [Intan Maya](https://open.spotify.com/artist/4nzjfVkKR5fM96tka8N3pa) | [Sangka Kau Suci](https://open.spotify.com/album/7DknT8hWtqJGjc7FHGuisY) | 3:25 | 2026-04-06 | 2026-04-10 |
+| [Sangka Kau Suci Live Studio](https://open.spotify.com/track/4deTKInnF37yToYOVafr4T) | [Intan Maya](https://open.spotify.com/artist/4nzjfVkKR5fM96tka8N3pa) | [Sangka Kau Suci Live Studio](https://open.spotify.com/album/2cqV7kwFILbnraq0jZVBUL) | 3:27 | 2026-04-10 |  |
 | [Sayang](https://open.spotify.com/track/3bY7RjpM59ADSdWv1e3c3m) | [NAKI](https://open.spotify.com/artist/70aQ7JTOrmv7jj6rhlzTrb) | [Eksperimen Desolasi](https://open.spotify.com/album/5gGu5QdOFFz1N0GXoGVUue) | 3:14 | 2025-04-15 | 2026-04-07 |
 | [scared to lose me](https://open.spotify.com/track/2piEwJsSN0auCOQIPYhKKF) | [J.M3](https://open.spotify.com/artist/1iuvFwzMREPmNlzoX1h8gx) | [scared to lose me](https://open.spotify.com/album/4rThapZToG2EqGgyase84m) | 2:23 | 2024-08-29 | 2024-12-05 |
 | [selamanya](https://open.spotify.com/track/6Lpb8uAjtqW0p05vaQCnNS) | [empty page.](https://open.spotify.com/artist/1vqCRS8w7NNLDAlSk2rrxh) | [punca kecewa](https://open.spotify.com/album/59sMrZdgQ7vmjrtJoLPcvK) | 4:05 | 2025-11-27 | 2026-04-07 |

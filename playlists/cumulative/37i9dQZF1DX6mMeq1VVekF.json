@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-10",
-  "description": "No tags, no labels - just free form. Cover: WILLOW",
+  "description": "No tags, no labels - just free form. Cover: BaggE",
   "name": "Free Form",
   "tracks": [
     {
@@ -2640,6 +2640,24 @@
       "duration_ms": 182680,
       "name": "Desert Belly",
       "url": "https://open.spotify.com/track/5bDgbp9kKLsSAK5LsWGAmc"
+    },
+    {
+      "album": {
+        "name": "Devil In Disguise",
+        "url": "https://open.spotify.com/album/2rQQonbrweOupwqG3Sfd07"
+      },
+      "artists": [
+        {
+          "name": "BaggE",
+          "url": "https://open.spotify.com/artist/4ZO0hWTm3mUwCVF1BlELp8"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188026,
+      "name": "Devil In Disguise",
+      "url": "https://open.spotify.com/track/0SeiW54NQCIWZkD3dSK3cA"
     },
     {
       "album": {
@@ -10992,7 +11010,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 194880,
       "name": "You & I",
       "url": "https://open.spotify.com/track/4cpQrTmSubTzMzFgquNpsa"

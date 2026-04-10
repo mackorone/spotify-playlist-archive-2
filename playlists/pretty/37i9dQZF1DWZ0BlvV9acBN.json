@@ -1,6 +1,6 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Rosa de Saron",
-  "num_followers": 149369,
+  "num_followers": 149379,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
@@ -803,6 +803,22 @@
     {
       "added_at": "2025-10-24 18:38:07",
       "album": {
+        "name": "Na Corte do Egito (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3lTqEzslNX3gZMziSjskmz"
+      },
+      "artists": [
+        {
+          "name": "Trazendo a Arca",
+          "url": "https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5"
+        }
+      ],
+      "duration_ms": 284693,
+      "name": "Na Corte do Egito - Ao Vivo",
+      "url": "https://open.spotify.com/track/1kPt4OCB6h0lFRR7QAYY7e"
+    },
+    {
+      "added_at": "2025-10-24 18:38:07",
+      "album": {
         "name": "Leva-Me Al\u00e9m (One ao Vivo)",
         "url": "https://open.spotify.com/album/1yXUH8hiDcbLrN2XW4Zy1L"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 180800,
       "name": "Leva-Me Al\u00e9m (One ao Vivo)",
       "url": "https://open.spotify.com/track/2LmzLMFSiMt8tLJyxhqnPJ"
-    },
-    {
-      "added_at": "2025-10-24 18:38:07",
-      "album": {
-        "name": "Na Corte do Egito (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3lTqEzslNX3gZMziSjskmz"
-      },
-      "artists": [
-        {
-          "name": "Trazendo a Arca",
-          "url": "https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5"
-        }
-      ],
-      "duration_ms": 284693,
-      "name": "Na Corte do Egito - Ao Vivo",
-      "url": "https://open.spotify.com/track/1kPt4OCB6h0lFRR7QAYY7e"
     },
     {
       "added_at": "2025-10-24 18:38:07",
@@ -891,22 +891,6 @@
     {
       "added_at": "2025-10-24 18:38:07",
       "album": {
-        "name": "Castelo Forte (Ao Vivo)",
-        "url": "https://open.spotify.com/album/56P5YZIPLleJ4Go7mMS91q"
-      },
-      "artists": [
-        {
-          "name": "AtituD",
-          "url": "https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p"
-        }
-      ],
-      "duration_ms": 223440,
-      "name": "Castelo Forte - Ao Vivo",
-      "url": "https://open.spotify.com/track/5ZEYjMZz5grx0I0EWJjOO1"
-    },
-    {
-      "added_at": "2025-10-24 18:38:07",
-      "album": {
         "name": "Minha Esperan\u00e7a",
         "url": "https://open.spotify.com/album/0VGHwJPGZYKmlB6noaeDoq"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 321696,
       "name": "Minha Esperan\u00e7a",
       "url": "https://open.spotify.com/track/0302SCCtovTOMWh2R56ICI"
+    },
+    {
+      "added_at": "2025-10-24 18:38:07",
+      "album": {
+        "name": "Castelo Forte (Ao Vivo)",
+        "url": "https://open.spotify.com/album/56P5YZIPLleJ4Go7mMS91q"
+      },
+      "artists": [
+        {
+          "name": "AtituD",
+          "url": "https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p"
+        }
+      ],
+      "duration_ms": 223440,
+      "name": "Castelo Forte - Ao Vivo",
+      "url": "https://open.spotify.com/track/5ZEYjMZz5grx0I0EWJjOO1"
     },
     {
       "added_at": "2025-10-24 18:38:07",
@@ -939,22 +939,6 @@
     {
       "added_at": "2025-10-24 18:38:07",
       "album": {
-        "name": "S\u00f3 na Sua Gra\u00e7a",
-        "url": "https://open.spotify.com/album/6LqOhXmRoUhw7qRKHyYsN0"
-      },
-      "artists": [
-        {
-          "name": "Lenha Music",
-          "url": "https://open.spotify.com/artist/2xxdCRAjSrO9HF3lziz4hO"
-        }
-      ],
-      "duration_ms": 258282,
-      "name": "S\u00f3 na Sua Gra\u00e7a",
-      "url": "https://open.spotify.com/track/6EzTkC9KcqpK8nKVJxQrod"
-    },
-    {
-      "added_at": "2025-10-24 18:38:07",
-      "album": {
         "name": "O Come\u00e7o, o Fim e o Meio",
         "url": "https://open.spotify.com/album/7CBNZhDZkOBsdqF2O3ptQZ"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 247459,
       "name": "O Come\u00e7o, o Fim e o Meio",
       "url": "https://open.spotify.com/track/1Gr6dxItPYXuz6DFF8Yfag"
+    },
+    {
+      "added_at": "2025-10-24 18:38:07",
+      "album": {
+        "name": "S\u00f3 na Sua Gra\u00e7a",
+        "url": "https://open.spotify.com/album/6LqOhXmRoUhw7qRKHyYsN0"
+      },
+      "artists": [
+        {
+          "name": "Lenha Music",
+          "url": "https://open.spotify.com/artist/2xxdCRAjSrO9HF3lziz4hO"
+        }
+      ],
+      "duration_ms": 258282,
+      "name": "S\u00f3 na Sua Gra\u00e7a",
+      "url": "https://open.spotify.com/track/6EzTkC9KcqpK8nKVJxQrod"
     },
     {
       "added_at": "2025-10-24 18:38:07",

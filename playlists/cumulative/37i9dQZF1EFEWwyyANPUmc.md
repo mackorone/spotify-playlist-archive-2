@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2jEhW8ABFUBCiDxJs9q322">Emy Perez</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-70 songs - 3 hr 39 min
+71 songs - 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,8 @@
 | [Ready To Kill](https://open.spotify.com/track/0iCcrNC4cIXd43KAW2BW34) | [Moksi](https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Moksi Family Rebirth Series Vol\. 1: Nu Rave](https://open.spotify.com/album/5Rv54Bkkse7VrxARn1Q6ll) | 4:50 | 2022-06-04 |  |
 | [Shadow](https://open.spotify.com/track/366P9vl9FbfTzvBZ5ja5Ck) | [Edlan](https://open.spotify.com/artist/0kmYD4ijzuztxYkzJBbQQa), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Grids EP](https://open.spotify.com/album/37Izl9rkKHnHnPnXiSqIeJ) | 5:15 | 2022-06-04 |  |
 | [Singshower \(feat\. Emy Perez\)](https://open.spotify.com/track/2w4YqVJNKAm2PpDLkxK0Zo) | [Promise Land](https://open.spotify.com/artist/0ktujbOLx1L1K8wj8o8dpJ), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Singshower \(feat\. Emy Perez\)](https://open.spotify.com/album/5w6nwff1JtZJZRMMf9W2NX) | 2:53 | 2022-06-04 |  |
-| [Slow Motion \(feat\. Emy Perez\)](https://open.spotify.com/track/7tHB3Fd9rEOjinXVtU7OBH) | [Manuel Riva](https://open.spotify.com/artist/2hkGkEnyudpE42IU4DBt99), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Slow Motion \(feat\. Emy Perez\)](https://open.spotify.com/album/2NaOWLlq2QIQ8GFDDS8erp) | 3:46 | 2022-06-04 |  |
+| [Slow Motion](https://open.spotify.com/track/5zqsz75N042GtCiw8TyWzz) | [Manuel Riva](https://open.spotify.com/artist/2hkGkEnyudpE42IU4DBt99), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Slow Motion](https://open.spotify.com/album/17INCXtllQMLE9sargroMx) | 3:46 | 2026-04-09 |  |
+| [Slow Motion \(feat\. Emy Perez\)](https://open.spotify.com/track/7tHB3Fd9rEOjinXVtU7OBH) | [Manuel Riva](https://open.spotify.com/artist/2hkGkEnyudpE42IU4DBt99), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Slow Motion \(feat\. Emy Perez\)](https://open.spotify.com/album/2NaOWLlq2QIQ8GFDDS8erp) | 3:46 | 2022-06-04 | 2026-04-10 |
 | [Smoke Up \(feat\. Emy Perez\)](https://open.spotify.com/track/3HC344e1WcJIdIVKXsMsgV) | [LOthief](https://open.spotify.com/artist/3thMwq9J3a0UeLnPGhA4Qn), [Diskover](https://open.spotify.com/artist/3YbWcfZCP1MPYvMzLxkvSI), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Smoke Up \(feat\. Emy Perez\)](https://open.spotify.com/album/4SW9pEnVgQBBEeAnUBW8kV) | 2:30 | 2022-06-04 |  |
 | [Solo](https://open.spotify.com/track/7BnARJhzGKD89USQRKGtbU) | [Willy William](https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq), [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Solo](https://open.spotify.com/album/45joQYljjWbtQHKYgoFoQz) | 3:33 | 2022-08-04 |  |
 | [Solo Tu](https://open.spotify.com/track/2etmwQR7SFXqZRteCNkxgQ) | [Rouge](https://open.spotify.com/artist/7oCPozHYsiILeiQlma8EEj) | [Les 5inq](https://open.spotify.com/album/1UliRcbHEglMIQmsRnlspu) | 3:05 | 2022-06-04 |  |

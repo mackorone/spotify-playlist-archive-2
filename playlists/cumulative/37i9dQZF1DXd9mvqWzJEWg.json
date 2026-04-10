@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "From Durban and Cape Town to the globe, yasuka leyonto! Cover: Lelowhatsgood, Uncle Ken, Moonchild Sanelly",
+  "description": "From Durban and Cape Town to the globe, yasuka leyonto! Cover: Still That Combo",
   "name": "GQOM Power House",
   "tracks": [
     {
@@ -24,6 +24,28 @@
       "duration_ms": 303464,
       "name": "###",
       "url": "https://open.spotify.com/track/25zDVr0ePNTrBBg4UjsC5Q"
+    },
+    {
+      "album": {
+        "name": "HAVOC (Evolution)",
+        "url": "https://open.spotify.com/album/20tJQRvt8B4Xa7go3HTMnB"
+      },
+      "artists": [
+        {
+          "name": "Dee Traits",
+          "url": "https://open.spotify.com/artist/78WiGrXy247kAziQ7GATKv"
+        },
+        {
+          "name": "Omagoqa",
+          "url": "https://open.spotify.com/artist/4caV3BYVSNygGiFFOvQgUy"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251224,
+      "name": "100%",
+      "url": "https://open.spotify.com/track/2QXlykCTv5DY7P53lryZhd"
     },
     {
       "album": {
@@ -1144,7 +1166,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 354312,
       "name": "Bekungeke",
       "url": "https://open.spotify.com/track/5LdwHZKeE7BkdQo3O1KU1r"
@@ -4848,7 +4870,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 274341,
       "name": "iPlan (Dombolo Style)",
       "url": "https://open.spotify.com/track/0696hDrRjI0Zz3QegUfMKI"
@@ -5496,6 +5518,44 @@
       "duration_ms": 377217,
       "name": "Jika Majika",
       "url": "https://open.spotify.com/track/41yTFb3foIEDsMoUS6lqkd"
+    },
+    {
+      "album": {
+        "name": "Jumanji (feat. Jepedoh, Mvelo Makhanya & Ms. Cosmo)",
+        "url": "https://open.spotify.com/album/6r3u9yRSkynlj9hA5fgrlM"
+      },
+      "artists": [
+        {
+          "name": "Omagoqa",
+          "url": "https://open.spotify.com/artist/4caV3BYVSNygGiFFOvQgUy"
+        },
+        {
+          "name": "Sizwe Alakine",
+          "url": "https://open.spotify.com/artist/7Hb7ZlUE4ByWsV1Rkc4Uo2"
+        },
+        {
+          "name": "K.Keed",
+          "url": "https://open.spotify.com/artist/6vQfwusCjTLgxy5uW20T3e"
+        },
+        {
+          "name": "Jepedoh",
+          "url": "https://open.spotify.com/artist/7dTIcdK3UCwuYaWlom4bjZ"
+        },
+        {
+          "name": "Mvelo Makhanya",
+          "url": "https://open.spotify.com/artist/52QcRVIgTbU7EFREa4Dh88"
+        },
+        {
+          "name": "Ms. Cosmo",
+          "url": "https://open.spotify.com/artist/1yGg3EWGfbhHJJ7WcIpR0Q"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379459,
+      "name": "Jumanji (feat. Jepedoh, Mvelo Makhanya & Ms. Cosmo)",
+      "url": "https://open.spotify.com/track/55DoLG7yL2cVJHbhINkJ99"
     },
     {
       "album": {
@@ -11403,6 +11463,40 @@
     },
     {
       "album": {
+        "name": "Vimba",
+        "url": "https://open.spotify.com/album/64Guwe8iRYOq7thOWF5z49"
+      },
+      "artists": [
+        {
+          "name": "Still That Combo",
+          "url": "https://open.spotify.com/artist/2dYBmQBoPF1u097KQasvdv"
+        },
+        {
+          "name": "Beast Rsa",
+          "url": "https://open.spotify.com/artist/5jSbjWfYWUZpecgalIOldH"
+        },
+        {
+          "name": "Masterpiece YVK",
+          "url": "https://open.spotify.com/artist/5wVRDS1b9ZMXN6VKEl8f9b"
+        },
+        {
+          "name": "General C'Mamane",
+          "url": "https://open.spotify.com/artist/3EJuq3QjLiJfFc3SaTaN9g"
+        },
+        {
+          "name": "Campmasters",
+          "url": "https://open.spotify.com/artist/6b2HMbnP4SmYcpOL19fFmr"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317261,
+      "name": "Vimba",
+      "url": "https://open.spotify.com/track/553hehAVuLtc6DnsmgLSlF"
+    },
+    {
+      "album": {
         "name": "Vuka",
         "url": "https://open.spotify.com/album/3PjhVI2svvG8LoYTpIKfEL"
       },
@@ -12384,7 +12478,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 339278,
       "name": "Ziyabila",
       "url": "https://open.spotify.com/track/0449yPzuy5H40CmrZQkMox"

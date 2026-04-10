@@ -4,7 +4,7 @@
 
 > Cele mai noi hituri pop românești\. Cover: Nicole Cherry
 
-449 songs - 21 hr 14 min
+450 songs - 21 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Am prietene](https://open.spotify.com/track/38Ait9TSXa0EKkMcl6UYYm) | [Alessandra](https://open.spotify.com/artist/70vx3HiFmZozTbVXsBoOiV) | [Am prietene](https://open.spotify.com/album/7GPtQPdBMxBM3BkXEI0vzn) | 2:17 | 2024-09-05 | 2024-09-20 |
 | [Am tot](https://open.spotify.com/track/47N87gdxueBffp9whfcoI6) | [rares](https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9) | [Am tot](https://open.spotify.com/album/46YPrxOeT32Izh41tIlcAN) | 2:57 | 2025-06-12 | 2025-10-31 |
 | [Am încredere în tine](https://open.spotify.com/track/1iHeNa4qmNcnkWTubbWwz8) | [Alessandra](https://open.spotify.com/artist/70vx3HiFmZozTbVXsBoOiV) | [Răni și Terapie](https://open.spotify.com/album/5qhkKCTqb5sDwH1ZzXwcTg) | 3:02 | 2025-10-09 | 2025-10-24 |
-| [Amprente \- Extended version](https://open.spotify.com/track/1gEe4Pmu2kXMAhUq8fYR0o) | [Iuliana Beregoi](https://open.spotify.com/artist/6nNfOfgm69ASAI4UM8Xaym) | [Amprente \(Extended version\)](https://open.spotify.com/album/5DlUqFAvJ34SfKhGEQIusv) | 3:03 | 2026-03-05 |  |
+| [Amprente \- Extended version](https://open.spotify.com/track/1gEe4Pmu2kXMAhUq8fYR0o) | [Iuliana Beregoi](https://open.spotify.com/artist/6nNfOfgm69ASAI4UM8Xaym) | [Amprente \(Extended version\)](https://open.spotify.com/album/5DlUqFAvJ34SfKhGEQIusv) | 3:03 | 2026-03-05 | 2026-04-10 |
 | [Amândoi](https://open.spotify.com/track/3sSs3h5nQ7fmIL91dKynhv) | [Lidia Buble](https://open.spotify.com/artist/69JOH9w7UtJrKnbUpcW2gH), [3 Sud Est](https://open.spotify.com/artist/0niQ4Q9nI1Qh0BHpT3b4NC) | [Amândoi](https://open.spotify.com/album/0pUEOfOTDV5hWXdir7B23j) | 3:06 | 2025-04-10 | 2025-09-19 |
 | [Ancora](https://open.spotify.com/track/1f10V97lhKIRK5rW2aS6iH) | [The Urs](https://open.spotify.com/artist/6EVlSwtMryO0bo1q1eWzfY) | [Ancora](https://open.spotify.com/album/0jqONN6IGgRduCbg0Oyuan) | 3:25 | 2025-03-13 | 2025-09-19 |
 | [Angela](https://open.spotify.com/track/4Esp2NsgjiutkU3K7khzGZ) | [Connect\-R](https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr) | [Angela](https://open.spotify.com/album/2zyrzFealmUxTrdoAA1ex8) | 3:03 | 2024-06-27 | 2024-09-06 |
@@ -324,6 +324,7 @@
 | [Ora, Ora](https://open.spotify.com/track/1u0o87ainFfGVWxirbczuB) | [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl), [Delia](https://open.spotify.com/artist/6YomcUxZXNftP5OyuHoVmB) | [Ora, Ora](https://open.spotify.com/album/0nXIE6a6YbBafy4U6C0eBD) | 2:22 | 2025-04-24 | 2025-07-04 |
 | [Orice drum duce acasă](https://open.spotify.com/track/0IVutpfE8ayYpnr0XfbU6o) | [Nicole Cherry](https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7), [Andrei Banuta](https://open.spotify.com/artist/7rtpTWA4CYQOAvg9GD2Xr2) | [Orice drum duce acasă](https://open.spotify.com/album/0CkYzw7KgsfypX4lL88IBx) | 4:11 | 2024-12-19 | 2025-01-17 |
 | [Paharul sus](https://open.spotify.com/track/5QWOtb0L5IYT8w4rMtmVZh) | [Nicole Cherry](https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7), [Puya](https://open.spotify.com/artist/0Dn3AfYwq9cWRhDqtfelNE) | [Paharul sus](https://open.spotify.com/album/7bzdS7NDvKKveYuARtUx2Z) | 2:49 | 2024-06-27 | 2024-07-12 |
+| [Paradox](https://open.spotify.com/track/5OvZHY1nWNepnwMoflNQgf) | [Iuliana Beregoi](https://open.spotify.com/artist/6nNfOfgm69ASAI4UM8Xaym) | [Paradox](https://open.spotify.com/album/6KauVBe2DUrz9ewxEK47KB) | 2:01 | 2026-04-09 |  |
 | [Parfum](https://open.spotify.com/track/5GT2JXlSlqsbzomVPxd397) | [Ioana Ignat](https://open.spotify.com/artist/1WsXapPbIEOveVpEKjaGHu) | [Parfum](https://open.spotify.com/album/5c2aB6MNY9uqpZUVVRdoap) | 2:56 | 2025-03-06 | 2025-04-11 |
 | [Parfum \- Sped Up](https://open.spotify.com/track/7yU9Dc8ObX4wcAqscuz0Bm) | [Ioana Ignat](https://open.spotify.com/artist/1WsXapPbIEOveVpEKjaGHu) | [Parfum \(Sped Up\)](https://open.spotify.com/album/6Oyqwk4P7SZXg79dscYolr) | 2:35 | 2025-03-21 | 2025-03-28 |
 | [Parfum de damă](https://open.spotify.com/track/3UPJ2sj2n7TW3yP5MYC2G2) | [Killa Fonic](https://open.spotify.com/artist/20SBqzpuFoymhieHTNHUgl), [Andra](https://open.spotify.com/artist/72FGvJgYbs0NBeJqECy6cF) | [Parfum de damă](https://open.spotify.com/album/6gwMS6wfSfdfqRBZBtmnVE) | 2:19 | 2024-10-31 | 2024-11-22 |

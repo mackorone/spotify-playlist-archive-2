@@ -1,12 +1,12 @@
 {
   "description": "Celebrating individuality within independent music",
-  "num_followers": 1171,
+  "num_followers": 1170,
   "original_name": "INDI(E)VIDUAL",
   "owner": {
     "name": "The Mushy Pea",
     "url": "https://open.spotify.com/user/1139243362"
   },
-  "snapshot_id": "AAAOCvLQKs+sZqpUtJI10NYUrl/3BYvl",
+  "snapshot_id": "AAAODgc4zeXBr6Zup8iIkQr6J98rPrv3",
   "tracks": [
     {
       "added_at": "2026-03-31 12:00:09",
@@ -1763,6 +1763,74 @@
       "duration_ms": 222155,
       "name": "Down and Out",
       "url": "https://open.spotify.com/track/4FijKBMTSLv63uXNh3qM1e"
+    },
+    {
+      "added_at": "2026-04-09 08:36:14",
+      "album": {
+        "name": "Light Switch",
+        "url": "https://open.spotify.com/album/55iQV1wqNmicvSeYMRI0eP"
+      },
+      "artists": [
+        {
+          "name": "The Color Blew",
+          "url": "https://open.spotify.com/artist/6mnHAaGTCbeNA07xwFbWvz"
+        }
+      ],
+      "duration_ms": 415380,
+      "name": "This Is How We Say Goodbye",
+      "url": "https://open.spotify.com/track/6NbzdZrZwTzPvMySmzsdPU"
+    },
+    {
+      "added_at": "2026-04-09 08:36:40",
+      "album": {
+        "name": "Enough",
+        "url": "https://open.spotify.com/album/0CkdJpaFtHDJN9mAmvGSuq"
+      },
+      "artists": [
+        {
+          "name": "Kaela Gillman",
+          "url": "https://open.spotify.com/artist/7EoOrLX9Fb6o2cN25fpHdu"
+        },
+        {
+          "name": "Pop\u2022&Friends",
+          "url": "https://open.spotify.com/artist/39Vpw5RSeipPPq871XeMSV"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/5vm4R22GJJVbZU1rsq2UXE"
+    },
+    {
+      "added_at": "2026-04-09 08:36:52",
+      "album": {
+        "name": "Next In Line",
+        "url": "https://open.spotify.com/album/1tPGzJkKTLeb9X7mmCrdUu"
+      },
+      "artists": [
+        {
+          "name": "Carmen Olivia",
+          "url": "https://open.spotify.com/artist/1w04bxkCPIX84eeMhf73aN"
+        }
+      ],
+      "duration_ms": 211626,
+      "name": "Next In Line",
+      "url": "https://open.spotify.com/track/7G4XN3ChekRS6KOxOIF68G"
+    },
+    {
+      "added_at": "2026-04-09 16:25:03",
+      "album": {
+        "name": "Don't Let Me Go",
+        "url": "https://open.spotify.com/album/3Kg1v6AGrwbxB1D8MqPZTF"
+      },
+      "artists": [
+        {
+          "name": "Paranoize",
+          "url": "https://open.spotify.com/artist/2IsNoOamJMVdmEKK4dQKcS"
+        }
+      ],
+      "duration_ms": 133520,
+      "name": "Don't Let Me Go",
+      "url": "https://open.spotify.com/track/02h0GTr7iO4JUUu5Vy2cfZ"
     }
   ],
   "unique_name": "INDI(E)VIDUAL",

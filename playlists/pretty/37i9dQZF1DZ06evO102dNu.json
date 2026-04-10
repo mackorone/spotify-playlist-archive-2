@@ -1,12 +1,12 @@
 {
   "description": "This is Frank Sinatra. The essential tracks, all in one playlist.",
-  "num_followers": 1227046,
+  "num_followers": 1227064,
   "original_name": "This Is Frank Sinatra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adRJAAAAAAAlq5z2GNxzFmOVwBwhG5C0",
+  "snapshot_id": "adWagAAAAAAYrSwJ6HYGLqt+ToLgqqG8",
   "tracks": [
     {
       "added_at": null,
@@ -707,18 +707,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come Dance With Me! (Remastered)",
-        "url": "https://open.spotify.com/album/2XgFfM6SNKtNLGcN3joZro"
+        "name": "The Seventeen Number Ones",
+        "url": "https://open.spotify.com/album/1HgqHVY48hdhuiacZky4nV"
       },
       "artists": [
         {
+          "name": "Tommy Dorsey",
+          "url": "https://open.spotify.com/artist/4WoGga7UeRcmjD4ufif4nG"
+        },
+        {
           "name": "Frank Sinatra",
           "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "The Pied Pipers",
+          "url": "https://open.spotify.com/artist/5o8E07TcYqIefZpDejymAd"
         }
       ],
-      "duration_ms": 151026,
-      "name": "Come Dance With Me - 1998 Remastered",
-      "url": "https://open.spotify.com/track/46Wiqf4yrN7euMb5qf12Hf"
+      "duration_ms": 189466,
+      "name": "I'll Never Smile Again",
+      "url": "https://open.spotify.com/track/2Pi0rY9FcbaecqO0AyhXbu"
     },
     {
       "added_at": null,
@@ -743,26 +751,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Seventeen Number Ones",
-        "url": "https://open.spotify.com/album/1HgqHVY48hdhuiacZky4nV"
+        "name": "Come Dance With Me! (Remastered)",
+        "url": "https://open.spotify.com/album/2XgFfM6SNKtNLGcN3joZro"
       },
       "artists": [
         {
-          "name": "Tommy Dorsey",
-          "url": "https://open.spotify.com/artist/4WoGga7UeRcmjD4ufif4nG"
-        },
-        {
           "name": "Frank Sinatra",
           "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        },
-        {
-          "name": "The Pied Pipers",
-          "url": "https://open.spotify.com/artist/5o8E07TcYqIefZpDejymAd"
         }
       ],
-      "duration_ms": 189466,
-      "name": "I'll Never Smile Again",
-      "url": "https://open.spotify.com/track/2Pi0rY9FcbaecqO0AyhXbu"
+      "duration_ms": 151026,
+      "name": "Come Dance With Me - 1998 Remastered",
+      "url": "https://open.spotify.com/track/46Wiqf4yrN7euMb5qf12Hf"
     },
     {
       "added_at": null,

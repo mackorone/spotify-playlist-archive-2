@@ -3074,7 +3074,7 @@
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 230211,
       "name": "Ai \u0111\u01b0a em v\u1ec1 (Cukak Remix)",
       "url": "https://open.spotify.com/track/2YxMOZsk7PnIwLW6UI5Poo"
@@ -8348,7 +8348,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 154954,
       "name": "Berghain - Remix",
       "url": "https://open.spotify.com/track/7CI5IAi2z70tyJIVXxsHfw"
@@ -23566,7 +23566,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 144521,
       "name": "Fever",
       "url": "https://open.spotify.com/track/09xhawlPUifhftf8zuie7w"
@@ -27216,7 +27216,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-06",
+      "date_removed": null,
       "duration_ms": 193733,
       "name": "Go Away",
       "url": "https://open.spotify.com/track/1O9D7P7Z1wMJXW19zTXrXi"
@@ -61710,7 +61710,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 143138,
       "name": "Ritu\u00e1l",
       "url": "https://open.spotify.com/track/10r7MFieVraQW6a54q6rqC"
@@ -62154,7 +62154,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/0WA27lZzPKFJKAbiDRmQDc"
@@ -62172,7 +62172,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-07",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"
@@ -72602,6 +72602,24 @@
     {
       "album": {
         "name": "the kill 2",
+        "url": "https://open.spotify.com/album/0UPg9A28QY0WQvaXyNWzuZ"
+      },
+      "artists": [
+        {
+          "name": "adrain",
+          "url": "https://open.spotify.com/artist/3HHs9cGql02iIpP5RxQdh4"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121461,
+      "name": "the kill 2",
+      "url": "https://open.spotify.com/track/0jH7Z3yuEehQeU1IK4gkpA"
+    },
+    {
+      "album": {
+        "name": "the kill 2",
         "url": "https://open.spotify.com/album/7JlIZDHuFle3OVOiUaJF1U"
       },
       "artists": [
@@ -73874,6 +73892,28 @@
       "duration_ms": 101926,
       "name": "Titanium - Edit - Slowed",
       "url": "https://open.spotify.com/track/56A87IFLsH3Q98QXSbDQNR"
+    },
+    {
+      "album": {
+        "name": "Titanium x Please Me",
+        "url": "https://open.spotify.com/album/2AnZkUUyf9WUskIJCs1lmw"
+      },
+      "artists": [
+        {
+          "name": "TRUE CHAD",
+          "url": "https://open.spotify.com/artist/4Vg2yjssInPiSSOdPgWIkQ"
+        },
+        {
+          "name": "Unjaps",
+          "url": "https://open.spotify.com/artist/4GK74dyUdNHHeQv4bQOpZi"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344009,
+      "name": "Titanium x Please Me - Slowed",
+      "url": "https://open.spotify.com/track/3Dp1ZSg3A5oYqgOcOkFFZl"
     },
     {
       "album": {
@@ -76054,7 +76094,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-14",
+      "date_removed": null,
       "duration_ms": 166666,
       "name": "Un Cachito de Luz - Versi\u00f3n Deluxe",
       "url": "https://open.spotify.com/track/0UJvn3UQWBSOh4Aj171Zoa"

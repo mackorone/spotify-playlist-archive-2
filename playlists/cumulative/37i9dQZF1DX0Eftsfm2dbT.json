@@ -4497,6 +4497,32 @@
     },
     {
       "album": {
+        "name": "BACK TO WORK",
+        "url": "https://open.spotify.com/album/7soXVWdjnuSWGcCxKqznd2"
+      },
+      "artists": [
+        {
+          "name": "MaisonDe",
+          "url": "https://open.spotify.com/artist/3iJc8ZDkeB2gV3gNSugy5P"
+        },
+        {
+          "name": "Shurkn Pap",
+          "url": "https://open.spotify.com/artist/1LFHjuuofxqkQL8vrJtpFB"
+        },
+        {
+          "name": "Taiyoh",
+          "url": "https://open.spotify.com/artist/6hT6jq5757GgRKLuPi2g4h"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146089,
+      "name": "BACK TO WORK",
+      "url": "https://open.spotify.com/track/4PaFJm0S2idFjpJFzQ9BYA"
+    },
+    {
+      "album": {
         "name": "Backrooted",
         "url": "https://open.spotify.com/album/1APTdA3906OuJI5uc9wd0R"
       },
@@ -20918,6 +20944,28 @@
       "duration_ms": 193043,
       "name": "Journey",
       "url": "https://open.spotify.com/track/3DZR2WaUY7QDZ0k2O0SypA"
+    },
+    {
+      "album": {
+        "name": "JP UP",
+        "url": "https://open.spotify.com/album/6wdiyoVraX1InKoHtp3jgp"
+      },
+      "artists": [
+        {
+          "name": "Hezron",
+          "url": "https://open.spotify.com/artist/1f9ZbrwYAXYyFCf3PGDWfq"
+        },
+        {
+          "name": "AK-69",
+          "url": "https://open.spotify.com/artist/4Wet9Sqa5LrEjBeV4k6edh"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178039,
+      "name": "JP UP",
+      "url": "https://open.spotify.com/track/3pR2hHalWIKIXXNJeeDF1x"
     },
     {
       "album": {
@@ -44656,6 +44704,24 @@
       "duration_ms": 194620,
       "name": "VIP",
       "url": "https://open.spotify.com/track/3U8u7YFQvljmsBHsJWPBR3"
+    },
+    {
+      "album": {
+        "name": "TIMELESS",
+        "url": "https://open.spotify.com/album/7lY2QQlClBznftTUF1VNtg"
+      },
+      "artists": [
+        {
+          "name": "Kohjiya",
+          "url": "https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162409,
+      "name": "Visitor",
+      "url": "https://open.spotify.com/track/4pblFz5wpV1BIM16fUVfVY"
     },
     {
       "album": {

@@ -403,6 +403,28 @@
     },
     {
       "album": {
+        "name": "FUNKIN' BEAUTIFUL",
+        "url": "https://open.spotify.com/album/4OqsSf5LaAoo0Mf4ok5I7s"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        },
+        {
+          "name": "ZORN",
+          "url": "https://open.spotify.com/artist/1HPfjeInjrDEMW1ffZv33C"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231366,
+      "name": "FUNKIN' BEAUTIFUL",
+      "url": "https://open.spotify.com/track/5tlHEKA4Y4LB1PksqqrwhK"
+    },
+    {
+      "album": {
         "name": "VIVA LA MUSICA",
         "url": "https://open.spotify.com/album/2miX8EtW3WyZIB2cX4DlEx"
       },
@@ -432,7 +454,7 @@
       ],
       "date_added": "2023-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 194733,
       "name": "GABBA GABBA HEY HEY",
       "url": "https://open.spotify.com/track/3XlHHnZSpjLwGAkhosJIbw"

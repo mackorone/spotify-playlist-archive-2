@@ -14176,7 +14176,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-06",
+      "date_removed": null,
       "duration_ms": 153600,
       "name": "Faz Parte De Mim",
       "url": "https://open.spotify.com/track/6omKlm9PHL3w95NzNtVDZd"
@@ -25724,7 +25724,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 167589,
       "name": "One More Night",
       "url": "https://open.spotify.com/track/6s3w7SUVtmm68Bw5KrKMh0"
@@ -31010,7 +31010,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 153103,
       "name": "Saudade De Quem Eu Sou (Ao Vivo)",
       "url": "https://open.spotify.com/track/3xgrWGYrqZVL7aAvZTm2MA"
@@ -31131,7 +31131,7 @@
     },
     {
       "album": {
-        "name": "Saudade Estranha (Ao Vivo)",
+        "name": "Saudade Estranha - Du Nada (Ao Vivo)",
         "url": "https://open.spotify.com/album/4oSSmxah3nxooXXpHiosbY"
       },
       "artists": [
@@ -31144,7 +31144,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 174794,
-      "name": "Saudade Estranha - Ao Vivo",
+      "name": "Saudade Estranha - Du Nada - Ao Vivo",
       "url": "https://open.spotify.com/track/3LZcSnTOCRalXwMXvkZnLZ"
     },
     {
@@ -34736,6 +34736,24 @@
       "duration_ms": 160183,
       "name": "Tears",
       "url": "https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4"
+    },
+    {
+      "album": {
+        "name": "BRUTAL PARA\u00cdSO",
+        "url": "https://open.spotify.com/album/3MhU6GRGIRgdjoDgltogAQ"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91749,
+      "name": "Telefone",
+      "url": "https://open.spotify.com/track/2Tfpk9vbsgqUKD3dkDJ3hL"
     },
     {
       "album": {

@@ -1475,6 +1475,28 @@
     },
     {
       "album": {
+        "name": "Blessings",
+        "url": "https://open.spotify.com/album/7cmF4JVVdnsaLEcqKPCR5U"
+      },
+      "artists": [
+        {
+          "name": "TBabz",
+          "url": "https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V"
+        },
+        {
+          "name": "Still Blessed Music",
+          "url": "https://open.spotify.com/artist/3QLVocBmoPCZGWar970isd"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134210,
+      "name": "Blessings",
+      "url": "https://open.spotify.com/track/743GrDayR7NqApoGFPe7at"
+    },
+    {
+      "album": {
         "name": "Blood of Jesus",
         "url": "https://open.spotify.com/album/6GrVWY7Fdrgrot9cEg41KS"
       },
@@ -10344,6 +10366,24 @@
       "duration_ms": 162403,
       "name": "Saves Me",
       "url": "https://open.spotify.com/track/5JZrrE7Azlre5rNugfZ8xg"
+    },
+    {
+      "album": {
+        "name": "Savior",
+        "url": "https://open.spotify.com/album/6lVdRPoAW3zsTLnzIaPcEg"
+      },
+      "artists": [
+        {
+          "name": "Kachi Annuncia",
+          "url": "https://open.spotify.com/artist/1BX5LtwtToqHi5kRICFlYf"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206400,
+      "name": "Savior",
+      "url": "https://open.spotify.com/track/3Aj2VPE6lCiEmI97HNkQsx"
     },
     {
       "album": {

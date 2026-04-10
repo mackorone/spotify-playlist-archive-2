@@ -753,6 +753,28 @@
     },
     {
       "album": {
+        "name": "Adesso che sei grande",
+        "url": "https://open.spotify.com/album/64fn51HyT7871aojCCPnnP"
+      },
+      "artists": [
+        {
+          "name": "David Monni",
+          "url": "https://open.spotify.com/artist/0yL1F00rnkzQbRlb4FBmRx"
+        },
+        {
+          "name": "Kafiristan",
+          "url": "https://open.spotify.com/artist/5YMvcsjHDQbAV9H5ScLyqK"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225146,
+      "name": "Adesso che sei grande",
+      "url": "https://open.spotify.com/track/2BlH6mIfTU4gvrbE1VhKt8"
+    },
+    {
+      "album": {
         "name": "Adi\u00f3s Chico De Mi Barrio",
         "url": "https://open.spotify.com/album/4wKoDg54mdU78Eqkl6hdjr"
       },

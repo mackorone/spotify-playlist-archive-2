@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: kouth
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,197 likes - 75 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,192 likes - 75 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [FUMAÇA ROSA](https://open.spotify.com/track/5aKztf7YApJtMmf1M7xFp3) | [kouth](https://open.spotify.com/artist/2KMezb1S2TuirqGVavMXqY), [Throne Zuckki](https://open.spotify.com/artist/3m6z2qt5xdSpcVY5eGjP8B) | [DIÁRIO DE UMA GAROTA SUBVERSIVA \(DELUXE\)](https://open.spotify.com/album/3hD1EwiSAdjaqRgW02zw99) | 2:08 |
 | 2 | [MUNDO MODERNO](https://open.spotify.com/track/1Z3ril9JZDLFxmm72lnrvr) | [Puyol](https://open.spotify.com/artist/3I40IzmWD1UYZzZM5U5Q0x), [Aklipe44](https://open.spotify.com/artist/3Sdc0xD6vTtMz4j6z5tFtz), [Rossato](https://open.spotify.com/artist/1iGxbhwpgFmsxVLvPsDefp), [HereIsJhxny](https://open.spotify.com/artist/5qTi5vWP2IfZhn4HHSiAB0) | [MUNDO MODERNO](https://open.spotify.com/album/3DoutYD2OWoNgfe7hafXL6) | 2:48 |
-| 3 | [Porque Criança Gosta De Bandido](https://open.spotify.com/track/15lzfnfFS6Gk9glltM074S) | [SAMPAIO](https://open.spotify.com/artist/3eOttDX2VIJ2j4AyVmyZsS), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Gvzz](https://open.spotify.com/artist/6mfQOjUSXgjp6jZblzjTik) | [Porque Criança Gosta De Bandido](https://open.spotify.com/album/4NRMlrnHtmDzV08Ea4ulJ1) | 2:48 |
+| 3 | [Porque Criança Gosta De Bandido](https://open.spotify.com/track/15lzfnfFS6Gk9glltM074S) | [SAMPAIO](https://open.spotify.com/artist/3eOttDX2VIJ2j4AyVmyZsS), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Gvzz](https://open.spotify.com/artist/6mfQOjUSXgjp6jZblzjTik), [Sleew\_Og](https://open.spotify.com/artist/49TC5osOZeXVOSGiXrxF5l) | [Porque Criança Gosta De Bandido](https://open.spotify.com/album/4NRMlrnHtmDzV08Ea4ulJ1) | 2:48 |
 | 4 | [Michael Scofield](https://open.spotify.com/track/7LMysVwTiztsKKhD7xeWyo) | [JotaPills](https://open.spotify.com/artist/5EFuxQqgLKrSBURDlTsC91), [Baby T](https://open.spotify.com/artist/5dv1JeruTM0jHepHgHxqTf), [Teo Guedx](https://open.spotify.com/artist/5kKjWmIo4xMLjoMUcogE7M) | [Michael Scofield](https://open.spotify.com/album/0u0Q7gQOEL0LuSxSsuTkhq) | 2:02 |
 | 5 | [Cana da Choque](https://open.spotify.com/track/6qY0pwZyb781h6h2OYcOQw) | [Pedrin](https://open.spotify.com/artist/7nhTCM7Tuu7NRQZsmpBIBg), [Bebeto](https://open.spotify.com/artist/2KHYG7vNRKtN0e3xdueQdz), [PAVUNA](https://open.spotify.com/artist/5k9CYypxcHvZKIztYvtmCx), [Cordeiro](https://open.spotify.com/artist/2yMTlcrLja7mjJnYVTY1Sb) | [Cana da Choque](https://open.spotify.com/album/7sarQIbzFvWNAOsVxxahff) | 2:20 |
 | 6 | [Vazio](https://open.spotify.com/track/0objFaMgoZ18tbYbRUwIB2) | [Aklipe44](https://open.spotify.com/artist/3Sdc0xD6vTtMz4j6z5tFtz), [THS](https://open.spotify.com/artist/3mI838insJsm1g7P3EsQW4) | [Vazio](https://open.spotify.com/album/158iVNCKK9CzzzMh1xIMB8) | 2:30 |

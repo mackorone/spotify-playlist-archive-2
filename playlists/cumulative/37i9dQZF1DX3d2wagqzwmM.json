@@ -5595,6 +5595,24 @@
     },
     {
       "album": {
+        "name": "Higher When I Rise",
+        "url": "https://open.spotify.com/album/4mZreqlCfU6i3c7MPzwaeA"
+      },
+      "artists": [
+        {
+          "name": "La Fuente",
+          "url": "https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195692,
+      "name": "Higher When I Rise",
+      "url": "https://open.spotify.com/track/45vv0ZVpJ8sCh08YQtRQlT"
+    },
+    {
+      "album": {
         "name": "Hijo De La Luna",
         "url": "https://open.spotify.com/album/6k5vSv5smVCsSJ0hrON1Ys"
       },
@@ -9342,7 +9360,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 167478,
       "name": "Our Flight",
       "url": "https://open.spotify.com/track/1x1dUnaqOX7YpObPy1O8Lz"

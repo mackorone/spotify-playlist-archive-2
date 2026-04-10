@@ -1144,10 +1144,32 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 146520,
       "name": "Palm Dreams",
       "url": "https://open.spotify.com/track/3XUnE0OeMrpWHV9OVHNwjo"
+    },
+    {
+      "album": {
+        "name": "Palm Dreams (Youth Code Remix)",
+        "url": "https://open.spotify.com/album/1hVgL1zPX4bbPJo1UowJI6"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        },
+        {
+          "name": "Youth Code",
+          "url": "https://open.spotify.com/artist/15VmPRQCJEZWaZWgHEroj0"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217334,
+      "name": "Palm Dreams - Youth Code Remix",
+      "url": "https://open.spotify.com/track/5Hk9sCQeEu2OjuKljgqaSv"
     },
     {
       "album": {
@@ -1180,7 +1202,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-06",
+      "date_removed": null,
       "duration_ms": 167746,
       "name": "Posing Holy",
       "url": "https://open.spotify.com/track/3U0AAwk53JEcv2Tcu9kpjz"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 
 > Posłuchaj zwycięzców i nominowanych do nagród Fryderyk w kategorii muzyka rozrywkowa i jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,302 likes - 79 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,308 likes - 79 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 19 | [primabalerina](https://open.spotify.com/track/0omUewlK4jhfp1bYpYMzrk) | [Coals](https://open.spotify.com/artist/6epDO0nPVXpbXBUt4Otiik), [Hubert.](https://open.spotify.com/artist/7dlH4L7i8CtRUZMQDSuXqH) | [Sanatorium](https://open.spotify.com/album/2fyAniBCpsGLEMTiQKM9CA) | 2:16 |
 | 20 | [Trucizna](https://open.spotify.com/track/5wYOm2m2AhsdTyY3N39Guq) | [Kasia Lins](https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK) | [OMEN \(Deluxe\)](https://open.spotify.com/album/4M74h2uURZUHnaQDH9wsl0) | 2:38 |
 | 21 | [SALTY](https://open.spotify.com/track/3dzLIfyygjAMlm0f8rN7GQ) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [PLAYHOUSE](https://open.spotify.com/album/3yi5TjtYVe4Po9WpLqtZiO) | 3:11 |
-| 22 | [Kochaj](https://open.spotify.com/track/0BIinvAbW4ka0Hb9i8DBLT) | [Krzysztof Zalewski](https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK) | [ZGŁOWY](https://open.spotify.com/album/3XIDxziYfm9hhIUVQMbS4u) | 3:22 |
-| 23 | [Tango Porcjarza](https://open.spotify.com/track/6NkDVpzHieLBfdSa69uF8k) | [O.S.T.R.](https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv) | [XX](https://open.spotify.com/album/2JNJIrNKcypEDAzoG2PkFL) | 3:21 |
+| 22 | [Tango Porcjarza](https://open.spotify.com/track/6NkDVpzHieLBfdSa69uF8k) | [O.S.T.R.](https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv) | [XX](https://open.spotify.com/album/2JNJIrNKcypEDAzoG2PkFL) | 3:21 |
+| 23 | [Kochaj](https://open.spotify.com/track/0BIinvAbW4ka0Hb9i8DBLT) | [Krzysztof Zalewski](https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK) | [ZGŁOWY](https://open.spotify.com/album/3XIDxziYfm9hhIUVQMbS4u) | 3:22 |
 | 24 | [TYLE MAM](https://open.spotify.com/track/4vpLSrS5KA9okRlGfgukIv) | [ĆPAJ STAJL](https://open.spotify.com/artist/1mAoRpDy7J3s5jX96Bm5jF), [Cool P](https://open.spotify.com/artist/5f0sTF0SaVN5hbNYAJFSPV), [DJ CRACK\-R](https://open.spotify.com/artist/1pzbygMlr2pl7rD7rEQk3P) | [BIAŁE SZALEŃSTWO](https://open.spotify.com/album/1lWO1MS6sDfQ8OcITjSCX9) | 2:34 |
 | 25 | [Można](https://open.spotify.com/track/77hzpC7B8W8GqLmY6XI2fi) | [Nosowska](https://open.spotify.com/artist/0GykMtlKoc68Hj2jwZLXul), [Błażej Król](https://open.spotify.com/artist/0gH4VBwt5MwWomiOXloDC4) | [Kasia i Błażej](https://open.spotify.com/album/6UH0UcgRruP71UGChmwNCi) | 4:00 |
 | 26 | [Gymnopedie](https://open.spotify.com/track/6sw7RatlLS3neerVArXPKu) | [Adam Baldych](https://open.spotify.com/artist/6oiyvsyWed0CUGZvOKRXJE), [Leszek Możdżer](https://open.spotify.com/artist/4iJve8QGQMl0PpIDmRG73G) | [Passacaglia](https://open.spotify.com/album/0oclKCCHh2pgR5M5bolNST) | 3:42 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 43 | [mleko i mood](https://open.spotify.com/track/3TfzSFyKBsbG1ozryAp2Pa) | [Ania Szlagowska](https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D) | [Pierwsza Płyta](https://open.spotify.com/album/72McWq9uYMN4JFg7JaL9MJ) | 3:22 |
 | 44 | [Pamiętam Cię](https://open.spotify.com/track/2GmyBjFYiWaErfxzd3Uefl) | [KĘPIŃSKI KOWALONEK](https://open.spotify.com/artist/3z84Fsj4Ob6F940y1FwXnk), [Krzysztof Zalewski](https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK), [Miro Kepinski](https://open.spotify.com/artist/4zM4iShKy7fOtcBQCJf3wG), [Michał Kowalonek](https://open.spotify.com/artist/3oIZFLMAjPpJjv74YpRl5O), [Prosta Sprawa](https://open.spotify.com/artist/3y9r1d2DF2zxxbC0eTBxdT) | [Prosta Sprawa \(Muzyka i piosenki z serialu\)](https://open.spotify.com/album/2aMLfHtrSlYr7SD8j2CBcr) | 3:16 |
 | 45 | [Królowa łez](https://open.spotify.com/track/2G5CtSf8XZNk4tLfDBPwl9) | [Agnieszka Chylińska](https://open.spotify.com/artist/0CEw36eWG0dYKCXOX8eUoO) | [30 lat Agnieszki Chylińskiej \- Kiedyś do Ciebie wrócę](https://open.spotify.com/album/3rRPuSwqV70j9SeR3rsuky) | 5:10 |
-| 46 | [Siwa zezulejko](https://open.spotify.com/track/7LyMeBM8btmryr8eSB6hYG) | [Warsaw Village Band](https://open.spotify.com/artist/2TQwsunAFHqQuIGG4kegie), [Bassałyki](https://open.spotify.com/artist/7zc32OGpApsqnOXhGvUs1y) | [Sploty](https://open.spotify.com/album/5t1TVckkkBuj1vYKH28NNV) | 6:21 |
-| 47 | [Ballada o Niej \(Live, 92'\)](https://open.spotify.com/track/5I4mvKqIljirw2PC7wSOvK) | [Daria Zawiałow](https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx) | [Ballada o Niej](https://open.spotify.com/album/7h0D9tTxbdy41v52chuWKK) | 4:29 |
+| 46 | [Ballada o Niej \(Live, 92'\)](https://open.spotify.com/track/5I4mvKqIljirw2PC7wSOvK) | [Daria Zawiałow](https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx) | [Ballada o Niej](https://open.spotify.com/album/7h0D9tTxbdy41v52chuWKK) | 4:29 |
+| 47 | [Siwa zezulejko](https://open.spotify.com/track/7LyMeBM8btmryr8eSB6hYG) | [Warsaw Village Band](https://open.spotify.com/artist/2TQwsunAFHqQuIGG4kegie), [Bassałyki](https://open.spotify.com/artist/7zc32OGpApsqnOXhGvUs1y) | [Sploty](https://open.spotify.com/album/5t1TVckkkBuj1vYKH28NNV) | 6:21 |
 | 48 | [Sierpień](https://open.spotify.com/track/0tH24ae0FBxOucvo21QW01) | [Brodka](https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY) | [WAWA](https://open.spotify.com/album/1FaiUUAQ26t9Xrv0ItyiLV) | 3:16 |
 | 49 | [Cursed Angel of Doom \- Live](https://open.spotify.com/track/14yjHvuMk4qEcdXnuKvVjF) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [XXX Years Ov Blasphemy](https://open.spotify.com/album/4SNgCerS7obje1M8pIcdXf) | 3:00 |
 | 50 | [Nie pamiętam siebie](https://open.spotify.com/track/6SO9q12ayT1nobYScq4zb6) | [Dom Zły](https://open.spotify.com/artist/4Yy4iPTGC2iFfqxPGiv5Lt) | [Ku pogrzebaniu serc](https://open.spotify.com/album/4dDWNi52Fl8CUyStWGz6e9) | 6:54 |

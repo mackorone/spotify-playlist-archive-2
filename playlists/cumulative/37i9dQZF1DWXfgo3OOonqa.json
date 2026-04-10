@@ -212,7 +212,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 154250,
       "name": "10",
       "url": "https://open.spotify.com/track/5bhy5ewrLRE5QhYdPW0vcp"
@@ -430,7 +430,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 159841,
       "name": "12345",
       "url": "https://open.spotify.com/track/7wO7OImdTw5LykPtcjDlbL"
@@ -2362,7 +2362,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 162370,
       "name": "Allt jag har i natt",
       "url": "https://open.spotify.com/track/6RiOIBrAZMQNA8wcQKvvLb"
@@ -2584,6 +2584,24 @@
       "duration_ms": 178125,
       "name": "ALONE",
       "url": "https://open.spotify.com/track/3yn9Os3amOXwMUpMfVmsF0"
+    },
+    {
+      "album": {
+        "name": "ALORS ON DANSE",
+        "url": "https://open.spotify.com/album/2W7NvSWxefUmiLFcEQ5djZ"
+      },
+      "artists": [
+        {
+          "name": "Deso",
+          "url": "https://open.spotify.com/artist/1U3mO1k6m4lSlusDwdNOZZ"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120571,
+      "name": "ALORS ON DANSE",
+      "url": "https://open.spotify.com/track/4i6j3AQTLSJCBM5qZqhfxB"
     },
     {
       "album": {
@@ -3600,7 +3618,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 142222,
       "name": "ATTRAHERA",
       "url": "https://open.spotify.com/track/1w6ixPIVGY3UDNjNVfo0c8"
@@ -5648,6 +5666,28 @@
     {
       "album": {
         "name": "Bianca",
+        "url": "https://open.spotify.com/album/2QKuf2xGCxZjvAYu7qD3bB"
+      },
+      "artists": [
+        {
+          "name": "BoBa",
+          "url": "https://open.spotify.com/artist/4Ui11oqvDCTqw4fxX2XkFW"
+        },
+        {
+          "name": "Dilly D",
+          "url": "https://open.spotify.com/artist/4dpsCdvMMSKcvNref2AMCZ"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105000,
+      "name": "Bianca",
+      "url": "https://open.spotify.com/track/6kWyO6raW6dwIejYm7H2du"
+    },
+    {
+      "album": {
+        "name": "Bianca",
         "url": "https://open.spotify.com/album/3Wzyj1nhM8kRUVjticZ5N1"
       },
       "artists": [
@@ -6784,7 +6824,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 125825,
       "name": "BOUNCE",
       "url": "https://open.spotify.com/track/7bKBIjl2W7GMlBPXNyBEPN"
@@ -8373,6 +8413,28 @@
     },
     {
       "album": {
+        "name": "Cinderella",
+        "url": "https://open.spotify.com/album/4rplTsXqyJOdXrTL2Sokio"
+      },
+      "artists": [
+        {
+          "name": "Luc1ano",
+          "url": "https://open.spotify.com/artist/5FrvaIrf2vik2rktPWOrsN"
+        },
+        {
+          "name": "NBLNATION",
+          "url": "https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127800,
+      "name": "Cinderella",
+      "url": "https://open.spotify.com/track/4sgoDdIoHYkTjktDSBixcJ"
+    },
+    {
+      "album": {
         "name": "Cirkel",
         "url": "https://open.spotify.com/album/3X5YvPFQsyFmi6c6JxmQKw"
       },
@@ -8906,6 +8968,36 @@
       "duration_ms": 151826,
       "name": "Continental",
       "url": "https://open.spotify.com/track/7cpXS5OjqB5JFFPZLPLOv6"
+    },
+    {
+      "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/2zywhbY7pjD1o9cap0VZkV"
+      },
+      "artists": [
+        {
+          "name": "Robin Kadir",
+          "url": "https://open.spotify.com/artist/4juMqlCDk4p6TrM7JXfSw2"
+        },
+        {
+          "name": "Asme",
+          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
+        },
+        {
+          "name": "Y4ska",
+          "url": "https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8"
+        },
+        {
+          "name": "Mocci",
+          "url": "https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148637,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/1Atmj6CNZsuBK1cLMqXm3H"
     },
     {
       "album": {
@@ -9882,7 +9974,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 193000,
       "name": "December dag",
       "url": "https://open.spotify.com/track/5c0JdHuAbuPBYtRdauL67p"
@@ -10536,7 +10628,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 146938,
       "name": "Djungeln",
       "url": "https://open.spotify.com/track/3zbchvO0xHJrNT45yWsfqG"
@@ -14248,7 +14340,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 179661,
       "name": "Fr\u00e4mmande spr\u00e5k",
       "url": "https://open.spotify.com/track/27kxBh8kvKXRntyS5th6zB"
@@ -19122,7 +19214,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 123870,
       "name": "i<3smg",
       "url": "https://open.spotify.com/track/38QcglX8MtgvWiJZcWgrzE"
@@ -19920,7 +20012,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 141308,
       "name": "Inom dagarna",
       "url": "https://open.spotify.com/track/3Hs4kmpTazanWKMJ1kqIcJ"
@@ -21559,6 +21651,28 @@
     },
     {
       "album": {
+        "name": "KLUBB",
+        "url": "https://open.spotify.com/album/2H6j1KHmSTGBWApgURQUo3"
+      },
+      "artists": [
+        {
+          "name": "VC Barre",
+          "url": "https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU"
+        },
+        {
+          "name": "Roc Boyz",
+          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125426,
+      "name": "KLUBB",
+      "url": "https://open.spotify.com/track/6zkINhgmn9Q67Ls03ItOsp"
+    },
+    {
+      "album": {
         "name": "Afronine",
         "url": "https://open.spotify.com/album/3kxWI2UtwW4NCrnrDUoOXd"
       },
@@ -22834,7 +22948,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 159069,
       "name": "LALALA",
       "url": "https://open.spotify.com/track/78pBedhixcXbzOpvNWELWB"
@@ -25935,6 +26049,24 @@
     },
     {
       "album": {
+        "name": "Marbella",
+        "url": "https://open.spotify.com/album/57uTp4n0QVCB0xdxlpoJ2n"
+      },
+      "artists": [
+        {
+          "name": "24K",
+          "url": "https://open.spotify.com/artist/4kKkAIpkNWG3XpUIl9yENt"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151199,
+      "name": "Marbella",
+      "url": "https://open.spotify.com/track/3AbDGbg5CSyThIomPyiZjy"
+    },
+    {
+      "album": {
         "name": "INLOGGAD 2",
         "url": "https://open.spotify.com/album/6hnfGHMjUdFgaAdnX442Yy"
       },
@@ -26548,6 +26680,24 @@
       "duration_ms": 169924,
       "name": "Menat",
       "url": "https://open.spotify.com/track/5n1I8EpMbDmBVHjv1eh489"
+    },
+    {
+      "album": {
+        "name": "Mencho",
+        "url": "https://open.spotify.com/album/2De6gy6TZNmeCs2UVrWOd2"
+      },
+      "artists": [
+        {
+          "name": "Ninety",
+          "url": "https://open.spotify.com/artist/2tl3YeeRX4B0j3RbGRVBcD"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110000,
+      "name": "Mencho",
+      "url": "https://open.spotify.com/track/7HRR1KLE2Abt8Tk85JtkQu"
     },
     {
       "album": {
@@ -27864,7 +28014,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 147272,
       "name": "MODUS OPERANDI",
       "url": "https://open.spotify.com/track/2CfWCtGmuA1g0zHbTPjHn6"
@@ -28341,6 +28491,28 @@
     },
     {
       "album": {
+        "name": "MO\u00cbT",
+        "url": "https://open.spotify.com/album/7lzqZ0rZOn7wNjY08T6RMo"
+      },
+      "artists": [
+        {
+          "name": "G3B",
+          "url": "https://open.spotify.com/artist/4lyxajlLjjUI4EkluxTAA4"
+        },
+        {
+          "name": "Sarettii",
+          "url": "https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139726,
+      "name": "MO\u00cbT",
+      "url": "https://open.spotify.com/track/3Ij7FMVf5IzNoPcmyC4sFc"
+    },
+    {
+      "album": {
         "name": "MURDA TOWN",
         "url": "https://open.spotify.com/album/5v0S0iwX2oCmjIEJiY3aaT"
       },
@@ -28392,6 +28564,24 @@
       "duration_ms": 200816,
       "name": "MUSIK ELLER METALL",
       "url": "https://open.spotify.com/track/5vQk0ckwdC5VldGJvt2LlO"
+    },
+    {
+      "album": {
+        "name": "MVP",
+        "url": "https://open.spotify.com/album/7asnBd9Svt6kaJHBqSVc9W"
+      },
+      "artists": [
+        {
+          "name": "Malik Dalasi",
+          "url": "https://open.spotify.com/artist/1n3grwmOigAA2UYtlF91gc"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119024,
+      "name": "MVP",
+      "url": "https://open.spotify.com/track/3HAHEQf5YPMwVdOTiITESS"
     },
     {
       "album": {
@@ -30089,6 +30279,28 @@
     },
     {
       "album": {
+        "name": "One In A Million",
+        "url": "https://open.spotify.com/album/1GY0BpuKMKyBVNxca0Qi9I"
+      },
+      "artists": [
+        {
+          "name": "STOR",
+          "url": "https://open.spotify.com/artist/4XLISC9SzRTcR34fosyMtw"
+        },
+        {
+          "name": "Million Stylez",
+          "url": "https://open.spotify.com/artist/2TF8gIfNvlOCCEgAoOUz2L"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165616,
+      "name": "One In A Million",
+      "url": "https://open.spotify.com/track/71UklgFGz5HlsF4H6a1XHe"
+    },
+    {
+      "album": {
         "name": "One More",
         "url": "https://open.spotify.com/album/2qNwQwpTpvBzoOvpeMHgZZ"
       },
@@ -31396,6 +31608,28 @@
       "duration_ms": 145312,
       "name": "PEPPAR ELLER LIME",
       "url": "https://open.spotify.com/track/0cv6NvAnGQZ52E9C6QVbaN"
+    },
+    {
+      "album": {
+        "name": "PERFORMANTE",
+        "url": "https://open.spotify.com/album/2ezemS5XCfp01kKTiE6cBg"
+      },
+      "artists": [
+        {
+          "name": "1.Cuz",
+          "url": "https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr"
+        },
+        {
+          "name": "01an",
+          "url": "https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115914,
+      "name": "PERFORMANTE",
+      "url": "https://open.spotify.com/track/0L0IVsiiM565BaEw6ZC44Q"
     },
     {
       "album": {
@@ -34053,6 +34287,24 @@
     },
     {
       "album": {
+        "name": "Sann Romans",
+        "url": "https://open.spotify.com/album/5FcDc5W1RdQRfnxn0ebVrP"
+      },
+      "artists": [
+        {
+          "name": "Parana",
+          "url": "https://open.spotify.com/artist/7mkDHzjImR7tnMVJ1QKeFv"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151926,
+      "name": "Sann Romans",
+      "url": "https://open.spotify.com/track/1b4Aq8g1QQ0Qb8iTwRSs3f"
+    },
+    {
+      "album": {
         "name": "MUSIK ELLER METALL",
         "url": "https://open.spotify.com/album/5kfEEbJC2PxSVI6EmS9HQS"
       },
@@ -35061,6 +35313,24 @@
     },
     {
       "album": {
+        "name": "SISTA DANS",
+        "url": "https://open.spotify.com/album/2apvkdTFuCl9IXN6osQTOe"
+      },
+      "artists": [
+        {
+          "name": "Raztaa",
+          "url": "https://open.spotify.com/artist/24IZnHwxArOCyoKmWI9LTc"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "SISTA DANS",
+      "url": "https://open.spotify.com/track/79CybOUjmQSeAf0L6kb7nX"
+    },
+    {
+      "album": {
         "name": "Sista G\u00e5ng",
         "url": "https://open.spotify.com/album/4sXaL6DwBY0XD5GhIBdcD6"
       },
@@ -35162,7 +35432,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 149013,
       "name": "Sj\u00e4lvportr\u00e4tt",
       "url": "https://open.spotify.com/track/5YPVaYJFsIWk982PtEB5pG"
@@ -39144,7 +39414,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 158124,
       "name": "TERAPI",
       "url": "https://open.spotify.com/track/69GARmi1BM4FCccBEmlqJk"
@@ -39210,6 +39480,24 @@
       "duration_ms": 163165,
       "name": "The Town",
       "url": "https://open.spotify.com/track/0iHQD3mRm4QZMfLSZUQcwl"
+    },
+    {
+      "album": {
+        "name": "The Wire",
+        "url": "https://open.spotify.com/album/3ZxYa0OcfFwlgal3tCRlHY"
+      },
+      "artists": [
+        {
+          "name": "Dizzy",
+          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "The Wire",
+      "url": "https://open.spotify.com/track/3UWgetrlbddIwrWVmXhRov"
     },
     {
       "album": {
@@ -39748,7 +40036,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 188470,
       "name": "TOKYO DRIFT",
       "url": "https://open.spotify.com/track/0bVun5N1QhG4Ajxgo854Y1"
@@ -42320,7 +42608,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 101650,
       "name": "Ventilation - Freestyle",
       "url": "https://open.spotify.com/track/4bImkuZ8ovZUak0sEVGEAm"
@@ -42944,6 +43232,28 @@
       "duration_ms": 157218,
       "name": "V\u00e4nder Rygg",
       "url": "https://open.spotify.com/track/7ncRrPG2l4VhKzNVaPKBfN"
+    },
+    {
+      "album": {
+        "name": "Stj\u00e4rnor & Fallna \u00c4nglar",
+        "url": "https://open.spotify.com/album/7syXsEpYHr1xl3jweajBid"
+      },
+      "artists": [
+        {
+          "name": "Ison & Fille",
+          "url": "https://open.spotify.com/artist/1fhvwCr1HKEZgZYOrfsHyk"
+        },
+        {
+          "name": "ANJI",
+          "url": "https://open.spotify.com/artist/0OTtMOIJs0iVMT8mpvtU25"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175989,
+      "name": "V\u00e4rlden \u00c4r Din (feat. Anji)",
+      "url": "https://open.spotify.com/track/5G45LEpKex2TYYr65AVK1n"
     },
     {
       "album": {

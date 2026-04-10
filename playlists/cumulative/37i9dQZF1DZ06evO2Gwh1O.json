@@ -2183,6 +2183,24 @@
     },
     {
       "album": {
+        "name": "Welcome Home Armageddon (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2ObWkJiimQOByPUb7AzYY4"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325506,
+      "name": "Welcome Home Armageddon",
+      "url": "https://open.spotify.com/track/1ULainrTDGyBnO5PpkzfPa"
+    },
+    {
+      "album": {
         "name": "See You All in Hell",
         "url": "https://open.spotify.com/album/5MooIxGhbCMMUAhOYBET4N"
       },

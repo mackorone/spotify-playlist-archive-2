@@ -2,7 +2,7 @@
 
 ### [UNTITLED](https://open.spotify.com/playlist/37i9dQZF1DX4FuvFkGbjhs)
 
-> Beyond titles, beyond genre\. Cover: Arlo Parks
+> Beyond titles, beyond genre\. Cover: Thundercat
 
 853 songs - 2 day 1 hr 22 min
 

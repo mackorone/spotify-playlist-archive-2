@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWbEGrb2ydWx.md) - [plain]
 
 > <a href="spotify:artist:2EFsfh1zewsSWhDINv7j1I">Logic1000's </a> favourite tracks\.  Updated regularly\. Curated by Logic1000\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,346 likes - 90 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,344 likes - 90 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWbEGrb2ydWx.md) - [plain]
 | 70 | [When U Came Into My Life](https://open.spotify.com/track/3ZJuEVtiX9GCoJrhCD0WlQ) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Fort Bellefleur](https://open.spotify.com/album/2b1eij1R1tHppx4M5ZZTrF) | 8:07 |
 | 71 | [Serpentine Tale](https://open.spotify.com/track/1J2HLUmgLEf9Nun0Stg0qj) | [Baby Ford](https://open.spotify.com/artist/4spzxMXpcVHY4QoIA6wJNN) | [Bford 14](https://open.spotify.com/album/65godysCySOKkKwP62hX7O) | 6:01 |
 | 72 | [A Parade](https://open.spotify.com/track/420f09vvRpnTwRGZxdg4ZO) | [Loidis](https://open.spotify.com/artist/2TDYu0uxVowgHaYN6P14k2) | [A Parade, In The Place I Sit, The Floating World \(& All Its Pleasures\)](https://open.spotify.com/album/70oref5eMh1OF6bM5IG9qD) | 7:08 |
-| 73 | [Graphite \- Mix A](https://open.spotify.com/track/2VPY4HCQjCGJ4aQapVIfyw) | [Circulation](https://open.spotify.com/artist/58mGUqhiYRkeTWpHunYgHH) | [Graphite](https://open.spotify.com/album/2g4tjcjoYxN5EcyaCjy0s2) | 6:49 |
+| 73 | [Graphite \- Mix 1](https://open.spotify.com/track/2VPY4HCQjCGJ4aQapVIfyw) | [Circulation](https://open.spotify.com/artist/58mGUqhiYRkeTWpHunYgHH) | [Graphite](https://open.spotify.com/album/2g4tjcjoYxN5EcyaCjy0s2) | 6:49 |
 | 74 | [I Never Knew Love \- Made In Detroit Extended Mix](https://open.spotify.com/track/3xvQ7jFN3XoTPeH3GCGj6Q) | [Chez Damier](https://open.spotify.com/artist/6ElgoHFh30ap09Koe8jf7C) | [I Never Knew Love](https://open.spotify.com/album/2JupQom4QixXJfhU3x140N) | 8:22 |
 | 75 | [Lautschrift](https://open.spotify.com/track/12JZO424xmVCIxpajtEf4u) | [Mike Dehnert](https://open.spotify.com/artist/6QLOlk9sB4Wca7i7dwVNC4) | [Lautschrift](https://open.spotify.com/album/4k3NfSUN4vT1AhQN1vR0Wo) | 6:45 |
 | 76 | [Open Door](https://open.spotify.com/track/2ihgY3lpJMngAlmBCF3tJT) | [Losoul](https://open.spotify.com/artist/0jO0TlgxW9Il5JphAWzhR4) | [Open Door \(Expanded Edition\)](https://open.spotify.com/album/0ZhBEQXekJLK0hZflDomWt) | 11:33 |

@@ -2,9 +2,9 @@
 
 ### [Je Moerstaal](https://open.spotify.com/playlist/37i9dQZF1DWUX3x84bv557)
 
-> Frisse Nederlandse pop\. Cover: Antoon
+> Frisse Nederlandse pop\. Cover: Russo
 
-1,273 songs - 2 day 12 hr 50 min
+1,277 songs - 2 day 13 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -596,6 +596,7 @@
 | [Jij & Ik Alleen](https://open.spotify.com/track/5K0KSb4AjGSrJUlOXGSN0R) | [Gio](https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS) | [Jij & Ik Alleen](https://open.spotify.com/album/2TCT4iGTV8xOkOnM0LaPxP) | 3:55 | 2025-02-13 | 2025-03-07 |
 | [Jij Bent Het](https://open.spotify.com/track/4WSbSPMqpwoYFWk9H9jY2v) | [BENR](https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ) | [Bart en Robin](https://open.spotify.com/album/1D2kBgIwNIMiVoeSZdf284) | 2:24 | 2023-02-23 | 2023-05-27 |
 | [Jij Bent Meer Dan Een Deel Van Mij](https://open.spotify.com/track/77ySbPXifSKDxDn2JXew4M) | [Jim Bakkum](https://open.spotify.com/artist/0RJ6eS1cimNNF64vRXGwfD) | [Jij Bent Meer Dan Een Deel Van Mij](https://open.spotify.com/album/1qSK8rW3dXofGpdZmtWg61) | 2:54 | 2023-06-29 | 2023-09-15 |
+| [Jij Brak Mij Eerst](https://open.spotify.com/track/7ifh5eOXY31vZbECM4zis8) | [VALERIE](https://open.spotify.com/artist/5ezjMqj9XmWro3bbvSP4qe) | [Jij Brak Mij Eerst](https://open.spotify.com/album/3JdXDVYJfpB1iJoPE64yoo) | 2:57 | 2026-04-09 |  |
 | [Jij Leeft Vannacht](https://open.spotify.com/track/3mmIjKPdVng2757tlmPmqK) | [HENS.](https://open.spotify.com/artist/2NS4pMOCSx9pvkdBof84jL) | [Jij Leeft Vannacht](https://open.spotify.com/album/3YCBopQ8oTSVJ7CppkLMWT) | 2:55 | 2024-09-26 | 2024-11-05 |
 | [Jij Verdient Het](https://open.spotify.com/track/1uXrlxv9eSdCnYtUD5hafk) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4) | [Jij Verdient Het](https://open.spotify.com/album/1sQLV0R27jVUCxY134ntKB) | 3:26 | 2025-11-20 | 2026-03-13 |
 | [Jij voelt als de lente](https://open.spotify.com/track/6DrNj4dZsCEFflHIovlGyk) | [Tessa June](https://open.spotify.com/artist/67UrL3cZJQ2WhwqdikarKk) | [Jij voelt als de lente](https://open.spotify.com/album/3BWAzWfk9iyY7Rc5jj88kK) | 2:42 | 2024-03-21 | 2024-06-01 |
@@ -680,6 +681,7 @@
 | [Laten](https://open.spotify.com/track/73cv6FhNe4Lt8JBylWljTb) | [Jesse Hoefnagels](https://open.spotify.com/artist/6TqU4DvvYvem6oqVn9PM8q) | [Laten](https://open.spotify.com/album/7CJvT8RllN7wENyeCKiaSw) | 2:07 | 2024-11-28 | 2025-02-28 |
 | [Laten We Vergeten](https://open.spotify.com/track/5pd7JVQ2eeSk8FtW74TU7s) | [Xerxes](https://open.spotify.com/artist/6y1vggOkn0ekeAgqG7AZKS) | [Laten We Vergeten](https://open.spotify.com/album/41h0H4TF0rBSlZv7hMoU0F) | 3:01 | 2025-04-24 | 2025-06-06 |
 | [Later Als Ik Groot Ben](https://open.spotify.com/track/2izndz00zguhQQJ06MhMzA) | [Danique](https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0) | [Later Als Ik Groot Ben](https://open.spotify.com/album/6ffWQnfFXStzKOAk6RXjQ4) | 3:26 | 2023-02-23 | 2023-05-13 |
+| [Lauw Sixpack](https://open.spotify.com/track/1rbrgVWiMPVkGn9AjIhIJf) | [Roeland Beelen](https://open.spotify.com/artist/3AO2szj8eZ8MSTw0hghw3M) | [Lauw Sixpack](https://open.spotify.com/album/4YWVZtPIUexPuvTkwbwfN3) | 2:38 | 2026-04-09 |  |
 | [Layla](https://open.spotify.com/track/7vb5ewZM4Ei7FTbSYDAPd8) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Layla](https://open.spotify.com/album/5WBoyKy4ezxq7P4v6Yyvf7) | 2:43 | 2023-03-30 | 2023-07-11 |
 | [Leef je in mij](https://open.spotify.com/track/2pweZge5JYaJZWNEVbxrtK) | [Do](https://open.spotify.com/artist/7sQECgfT3RtfL0RZWK63Wg) | [Leef je in mij](https://open.spotify.com/album/68FlA484c2cYvA00BtpSKV) | 3:16 | 2023-10-05 | 2024-01-26 |
 | [Leef Voor Jou](https://open.spotify.com/track/26y0nE6nSpkFjT5Vvh2ikk) | [MAKSIM](https://open.spotify.com/artist/5ncHUtKhiVsHlugFN0DCDl) | [Leef Voor Jou](https://open.spotify.com/album/40VYAQu0QepzzAY2T1583p) | 2:55 | 2024-02-29 | 2024-04-05 |
@@ -1176,6 +1178,7 @@
 | [Wasted](https://open.spotify.com/track/5A8S6jJRIeFjMHFQ66Opr7) | [Fokke Simons](https://open.spotify.com/artist/6bdx9tCkHEg9ff61hu7xkI), [Floris Keijzer](https://open.spotify.com/artist/2zkxesVPDKamfWSZwF3MGC) | [Wasted](https://open.spotify.com/album/26ALDsugBcToHqcDvA0Bu4) | 2:40 | 2024-03-28 | 2024-06-21 |
 | [Wat Als De Storm Komt](https://open.spotify.com/track/1gEBvpvyyQmDeG6Lpo7cwN) | [Stef Bos](https://open.spotify.com/artist/4Rw9pvzG1NLs1RbB8cxBfW), [FLEUR](https://open.spotify.com/artist/5jE7YqOC3yRqDh0QsOmTV0) | [Wat Als De Storm Komt](https://open.spotify.com/album/2lLQEEFu8bzGmhqpYQ3F8Q) | 3:03 | 2024-01-11 | 2024-04-12 |
 | [Wat Als Het Lukt](https://open.spotify.com/track/0cyNDPp11HqsUH713X7WCe) | [Jasha Rudge](https://open.spotify.com/artist/4viTemJKI4Rl9OzQJ8iGVL) | [Bliksem & Donder](https://open.spotify.com/album/4eZx6Pc0j1rRJUmpdV9ThY) | 2:32 | 2023-06-15 | 2023-10-20 |
+| [Wat Blijft Er Nog Over?](https://open.spotify.com/track/0bCTV70cX6yjUtF91Fnkws) | [BENR](https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ), [OLIVIA](https://open.spotify.com/artist/4YddROOnHgB7LxvhqP88gw) | [Wat Blijft Er Nog Over?](https://open.spotify.com/album/1Fed1JYE41KqFq2og7LiMi) | 2:33 | 2026-04-09 |  |
 | [Wat Blijft Er Over](https://open.spotify.com/track/6PdJ3PohDI313zycwdczFX) | [Marc Floor](https://open.spotify.com/artist/68Y9QV4i004HBLR6AI5TBc) | [Wat Blijft Er Over](https://open.spotify.com/album/4Vm0qRP5yCDn8DdKF1Mf2j) | 2:37 | 2024-02-08 | 2024-05-10 |
 | [Wat Doe Je Nou](https://open.spotify.com/track/2U1cBksfUvDB5YoVj0gdms) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [Wat Doe Je Nou](https://open.spotify.com/album/34LFiUIgmU2Bp4YfF9CjI4) | 2:36 | 2023-02-23 | 2023-04-07 |
 | [Wat Er Ook Gebeurt](https://open.spotify.com/track/1DfvARmbKyxKZwa6Y6LQtF) | [Xerxes](https://open.spotify.com/artist/6y1vggOkn0ekeAgqG7AZKS) | [Wat Er Ook Gebeurt](https://open.spotify.com/album/68nAyxzH7dJkcsGnifgI5k) | 3:08 | 2024-06-06 | 2024-09-18 |
@@ -1202,6 +1205,7 @@
 | [Wie Ik Ben](https://open.spotify.com/track/07B6KYHiFPUYTUC5dK2LDN) | [Kimberly Fransens](https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk) | [Wie Ik Ben](https://open.spotify.com/album/610ULNsmEtIaDVnHZru9vS) | 3:19 | 2024-10-03 | 2025-01-07 |
 | [Wie is zij](https://open.spotify.com/track/76RE1A1vlV8AsFWhAVnGbT) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e), [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6) | [Wie is zij](https://open.spotify.com/album/7qM0YRpQDSYHVFmcb6bpvr) | 2:55 | 2024-09-12 | 2024-10-11 |
 | [Wie We Waren \(with Lucas Nicholas\)](https://open.spotify.com/track/1ATxOdW5SrpzDuI6iZFyJr) | [Dominique de Bont](https://open.spotify.com/artist/2fYxLnbFdDBpgVs5Vaa4RO), [Lucas Nicholas](https://open.spotify.com/artist/60df08YRf2Oh7A2PUK24Vi) | [Wie We Waren \(with Lucas Nicholas\)](https://open.spotify.com/album/11iUfkqlm2hPxToQ5b7u2r) | 3:03 | 2025-02-07 | 2025-05-09 |
+| [Wie weet](https://open.spotify.com/track/1mUXSKARq2lBJkjy4jA7yc) | [Elaine](https://open.spotify.com/artist/4VIib2UJ5zptuPt5ObTv3l) | [Wie weet](https://open.spotify.com/album/6qCo4XIWgLL1hHOJTBI7kM) | 3:15 | 2026-04-09 |  |
 | [WIE?](https://open.spotify.com/track/4bx1kaKVgDK6aONBlWawmr) | [Aaron Blommaert](https://open.spotify.com/artist/67Hs92fNnRAgFBfL6EePwb) | [WIE?](https://open.spotify.com/album/0zsEvQw4D2XzlQdLrfpTTj) | 2:46 | 2025-09-25 | 2025-12-05 |
 | [Wijze Woorden](https://open.spotify.com/track/1bWzMQ61eGySrjcQEX9TeS) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Wijze Woorden](https://open.spotify.com/album/0pOEH0NO9fj05LMjBAzEwG) | 2:16 | 2023-09-07 | 2023-11-10 |
 | [Wild Wild West](https://open.spotify.com/track/4pGud1eTrk6mWSOUw33u9o) | [Mick Spek](https://open.spotify.com/artist/23mbvDIZJjSK4y4KhwlnHi) | [Wild Wild West](https://open.spotify.com/album/3ifeNIgF6ce5nNDW9uKlR9) | 2:56 | 2023-02-23 | 2023-05-12 |

@@ -2231,6 +2231,28 @@
     },
     {
       "album": {
+        "name": "Ei voi (feat. Luwa.Mp4)",
+        "url": "https://open.spotify.com/album/2hdZSRF3c42AzLGRrCuvDG"
+      },
+      "artists": [
+        {
+          "name": "Turisti",
+          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
+        },
+        {
+          "name": "Luwa.Mp4",
+          "url": "https://open.spotify.com/artist/6CS6NjMmo93ligNiiZ97LZ"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190971,
+      "name": "Ei voi (feat. Luwa.Mp4)",
+      "url": "https://open.spotify.com/track/6xpZg3sfg49gNihQZGLsl1"
+    },
+    {
+      "album": {
         "name": "Eini, alkaa polttaa (Vain el\u00e4m\u00e4\u00e4 kausi 15)",
         "url": "https://open.spotify.com/album/4hTCLyk609LHcJkF5OwDW4"
       },
@@ -4385,6 +4407,24 @@
     },
     {
       "album": {
+        "name": "Joku johon nojata",
+        "url": "https://open.spotify.com/album/60gHhhpJJCBJwNHFg5suHj"
+      },
+      "artists": [
+        {
+          "name": "Jenni Vartiainen",
+          "url": "https://open.spotify.com/artist/6PP1ZiMzBbTeRqGvhr3pV9"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201073,
+      "name": "Joku johon nojata",
+      "url": "https://open.spotify.com/track/1cZP3dz4jUBWKRQPJFjULb"
+    },
+    {
+      "album": {
         "name": "#ULTRA",
         "url": "https://open.spotify.com/album/1A588xJ5eLYTYa1emn00iG"
       },
@@ -5636,7 +5676,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 168582,
       "name": "Kenen mukaan",
       "url": "https://open.spotify.com/track/5Q5aAxsbtKqYyzMikGPyXP"
@@ -5898,7 +5938,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 226154,
       "name": "Kilistell\u00e4\u00e4n kyyneleit\u00e4",
       "url": "https://open.spotify.com/track/2g4NUpywYmotb70ZipbiaA"
@@ -9239,6 +9279,28 @@
     },
     {
       "album": {
+        "name": "Mun mestoi",
+        "url": "https://open.spotify.com/album/2D3SYswLZHpgTDq7qaZCWQ"
+      },
+      "artists": [
+        {
+          "name": "Rekami",
+          "url": "https://open.spotify.com/artist/25SDUzCXVuk0Va1iinM5aB"
+        },
+        {
+          "name": "K\u00e4\u00e4rij\u00e4",
+          "url": "https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171124,
+      "name": "Mun mestoi",
+      "url": "https://open.spotify.com/track/3lIX8HJBQv8uc5F7QUeCPo"
+    },
+    {
+      "album": {
         "name": "Mun syd\u00e4meni t\u00e4nne j\u00e4\u00e4 (Vain el\u00e4m\u00e4\u00e4 kausi 15)",
         "url": "https://open.spotify.com/album/6Tvdnk2LRGGQlMEX22XMFT"
       },
@@ -10102,6 +10164,32 @@
       "duration_ms": 165773,
       "name": "N\u00e4ihin hommiin ei synnyt\u00e4",
       "url": "https://open.spotify.com/track/1fSck3p58YKlJVRPwOD7GR"
+    },
+    {
+      "album": {
+        "name": "N\u00e4yt\u00e4 miten rakkautta tehd\u00e4\u00e4n (feat. Dilemma & Mesi)",
+        "url": "https://open.spotify.com/album/0Qoc2U3ajRpD3VWSLEgQHI"
+      },
+      "artists": [
+        {
+          "name": "DJ Oku Luukkainen",
+          "url": "https://open.spotify.com/artist/0oOzqM7AYuqx34YGcfaSao"
+        },
+        {
+          "name": "Dilemma",
+          "url": "https://open.spotify.com/artist/6d2cna6ab3mL140jbRNXqV"
+        },
+        {
+          "name": "Mesi",
+          "url": "https://open.spotify.com/artist/68zU74Eh64E8BWVSBYG8JP"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185213,
+      "name": "N\u00e4yt\u00e4 miten rakkautta tehd\u00e4\u00e4n (feat. Dilemma & Mesi)",
+      "url": "https://open.spotify.com/track/0oP4VOetjYzizuxP62g6Hk"
     },
     {
       "album": {
@@ -11209,6 +11297,24 @@
     },
     {
       "album": {
+        "name": "Pelottavan kaunis",
+        "url": "https://open.spotify.com/album/0UpRRyvfU1vHombu58AJVe"
+      },
+      "artists": [
+        {
+          "name": "Pyry Laakso",
+          "url": "https://open.spotify.com/artist/3VAPvbsB3Zpi8E7DjL5WxO"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176545,
+      "name": "Pelottavan kaunis",
+      "url": "https://open.spotify.com/track/2F9XPkX627gqh5bBeb5dvn"
+    },
+    {
+      "album": {
         "name": "People's Champion (Vain el\u00e4m\u00e4\u00e4 kausi 16)",
         "url": "https://open.spotify.com/album/1PX5TebdCi5gxFTAD2CREo"
       },
@@ -12006,7 +12112,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 161769,
       "name": "p\u00e4\u00e4ttyy kyyneliin (feat. Tupe.)",
       "url": "https://open.spotify.com/track/797DCnlbSHSBDT3TVsjuvp"
@@ -13118,7 +13224,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 206488,
       "name": "Savurenkaat (feat. ibe)",
       "url": "https://open.spotify.com/track/6jjGaiUbig7I9mkzcXrgl7"
@@ -14352,7 +14458,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 196627,
       "name": "Sweetheart (feat. Topi Saha)",
       "url": "https://open.spotify.com/track/0raRqU2pwKRw69n0m3rGOT"
@@ -15034,7 +15140,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 158829,
       "name": "Tarviin jonkun joka tarvii mua (feat. louna0nline)",
       "url": "https://open.spotify.com/track/6llAbvwBRx1VHLAdMvPyvp"
@@ -15092,6 +15198,24 @@
       "duration_ms": 218120,
       "name": "Tavallinen Mies",
       "url": "https://open.spotify.com/track/6x43ttVJUPGmF0s3AMWQUf"
+    },
+    {
+      "album": {
+        "name": "Teatterii",
+        "url": "https://open.spotify.com/album/7E5wNdC3AtJNchnf83KoLL"
+      },
+      "artists": [
+        {
+          "name": "Karim B",
+          "url": "https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159255,
+      "name": "Teatterii",
+      "url": "https://open.spotify.com/track/7unJcils43dvDrUjadoyI5"
     },
     {
       "album": {
@@ -15160,7 +15284,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-10",
       "duration_ms": 148374,
       "name": "Ter\u00e4lehti",
       "url": "https://open.spotify.com/track/7qOfaHhszShFogrKzTcudQ"
@@ -16458,7 +16582,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-06",
+      "date_removed": null,
       "duration_ms": 176754,
       "name": "Uus ikuisuus",
       "url": "https://open.spotify.com/track/7KCwlgnSizc7FT7z8irVWk"

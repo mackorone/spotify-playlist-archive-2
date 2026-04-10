@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Todo lo nuevo de música tropical 📸 Angela Leiva
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,802 likes - 73 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,820 likes - 73 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 72 | [Amiga \- A Medio Vivir \(feat\. Lucas Sugo\)](https://open.spotify.com/track/7m1Qy4NriMZ6ckFT4GbAMe) | [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V), [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX) | [Amiga \- A Medio Vivir \(feat\. Lucas Sugo\)](https://open.spotify.com/album/1KSUi0LxqRfQkAxp97gfOG) | 5:04 |
 | 73 | [Bachata Flow y Cultura](https://open.spotify.com/track/7ll9XbXDnDiYhdk6eW2VKD) | [Prophex](https://open.spotify.com/artist/4QeD9XFoPEHht1Mj8InACT) | [Bachata Flow y Cultura](https://open.spotify.com/album/4ydMy6bXs9lEIBn61gIj6H) | 2:44 |
 
-Snapshot ID: `AAAAAEk4HF/wIE8gGWgL/ud3v/L9eLhR`
+Snapshot ID: `AAAAAIa4Q0iNfDvoCej+a/dIFMsX92Nk`

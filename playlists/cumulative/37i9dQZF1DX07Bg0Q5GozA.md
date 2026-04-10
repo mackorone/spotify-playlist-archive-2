@@ -2,9 +2,9 @@
 
 ### [OFF POP](https://open.spotify.com/playlist/37i9dQZF1DX07Bg0Q5GozA)
 
-> New music off the beaten track\. Cover: Metric
+> New music off the beaten track\. Cover: Luna Morgenstern, girl\_irl
 
-1,472 songs - 4 day 1 hr 18 min
+1,475 songs - 4 day 1 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,6 +205,7 @@
 | [Childhood](https://open.spotify.com/track/3efypTRurdVvf2kCuUWr2Q) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Loner](https://open.spotify.com/album/6aE10Kz82jIDkcOM2hRhR5) | 3:51 | 2025-07-10 | 2026-01-16 |
 | [Children](https://open.spotify.com/track/6iMyAaTKUoVOWSr4o0vESO) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM) | [Children](https://open.spotify.com/album/4NH7dyo0xKA0Tw19ZIeeYR) | 4:35 | 2023-11-30 | 2024-02-09 |
 | [chrysalis](https://open.spotify.com/track/1CyqOIcejpX5Zqzw5BRHFb) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Louve](https://open.spotify.com/artist/3x5sBirhNbWXVt1DwivDOI) | [chrysalis](https://open.spotify.com/album/0zkgQvE9joKuS4NsRrCwUS) | 4:00 | 2025-10-09 |  |
+| [Château Brute](https://open.spotify.com/track/5v3GSpHEm5fHqZhndz0y4B) | [Luna Morgenstern](https://open.spotify.com/artist/3Ei4Zm5sKiLabWKEd8hfRh), [girl\_irl](https://open.spotify.com/artist/0JVxdYzBWXOjkjt2e5r76D) | [Château Brute](https://open.spotify.com/album/2IHLwyoNxJhZ9BgeMsAZH8) | 2:44 | 2026-04-09 |  |
 | [Cinderblock](https://open.spotify.com/track/1JhjtiHsJubsKNZgd3YTdX) | [Buzzy Lee](https://open.spotify.com/artist/0cz2DZrX5wGn1XUdIPKYYQ) | [Cinderblock](https://open.spotify.com/album/0rGPPNjLXKGxrqY6m3dYXr) | 3:03 | 2023-01-26 | 2023-01-28 |
 | [Cinderblock](https://open.spotify.com/track/79soO0pk1njm8mrvl605A7) | [Buzzy Lee](https://open.spotify.com/artist/0cz2DZrX5wGn1XUdIPKYYQ) | [Cinderblock](https://open.spotify.com/album/7A3TarqkpT03UKlniya5Bl) | 3:03 | 2023-01-26 | 2023-03-31 |
 | [Cirkl](https://open.spotify.com/track/19CzBcfCO9KLZ7RIiSeLnO) | [Lindstrøm](https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB) | [Cirkl](https://open.spotify.com/album/1qvix9MDrKkkbPSKnldRaV) | 5:11 | 2025-04-10 | 2025-04-18 |
@@ -1180,7 +1181,7 @@
 | [Stay](https://open.spotify.com/track/169m17LngQCxaxWdbVSVNL) | [Say Yes Dog](https://open.spotify.com/artist/039HWymb5EJiSHhtlJctsi) | [Stay](https://open.spotify.com/album/4sYGgEKQIpp5NSZMG4Qv5u) | 3:37 | 2023-12-14 | 2024-04-19 |
 | [Stay Awhile](https://open.spotify.com/track/1GoUZK5UgNAVdz6wcJ9Eml) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [Stay Awhile](https://open.spotify.com/album/2q6RGFe2ZnsWwZP7mJKklm) | 6:11 | 2022-12-15 | 2023-05-20 |
 | [Stellar](https://open.spotify.com/track/2Go5FfwZeqUPW3OnmPdmPN) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Mimose](https://open.spotify.com/album/4C3g7KoC8HBoiURn8eWGaa) | 3:45 | 2024-04-18 | 2024-05-17 |
-| [Still Glowin'](https://open.spotify.com/track/6EUXgThLUGynNxNdZI4Pu8) | [Miami Horror](https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37), [Silk Ribbons](https://open.spotify.com/artist/1vUhA1WvlT28qVbHrXy6Za), [Queen Magic](https://open.spotify.com/artist/2l8Tq6BJXM577DlQtIlNsa) | [Still Glowin'](https://open.spotify.com/album/5rB86xKcD9XQzliCnO0peU) | 3:31 | 2025-10-09 |  |
+| [Still Glowin'](https://open.spotify.com/track/6EUXgThLUGynNxNdZI4Pu8) | [Miami Horror](https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37), [Silk Ribbons](https://open.spotify.com/artist/1vUhA1WvlT28qVbHrXy6Za), [Queen Magic](https://open.spotify.com/artist/2l8Tq6BJXM577DlQtIlNsa) | [Still Glowin'](https://open.spotify.com/album/5rB86xKcD9XQzliCnO0peU) | 3:31 | 2025-10-09 | 2026-04-10 |
 | [Still Riding](https://open.spotify.com/track/1DQYCwZG5DOXXSTXluYQam) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Still Riding](https://open.spotify.com/album/3UT1EXRpoX808v8dtCz172) | 3:37 | 2024-09-26 | 2025-03-28 |
 | [Still See Love](https://open.spotify.com/track/17mBSbqnsXQRYQff2tt6Gt) | [Cut Copy](https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS) | [Still See Love](https://open.spotify.com/album/0lGLyptrVMPwGZdsk8iKsQ) | 3:54 | 2025-08-07 | 2025-09-05 |
 | [Still There](https://open.spotify.com/track/68Lyc2FM0k5S5uVM7RlEYM) | [Kerala Dust](https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH) | [Still There](https://open.spotify.com/album/6Gljo8qN1uZXCFIAZkJ3QZ) | 5:14 | 2023-01-19 | 2023-07-14 |
@@ -1254,6 +1255,7 @@
 | [Territory Day](https://open.spotify.com/track/2dCiAgUGQFIYrTElfh2kyS) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Under Utopia](https://open.spotify.com/album/4r75jSauKUwbdck8KUmCRP) | 5:26 | 2023-07-27 | 2023-12-08 |
 | [That Feeling](https://open.spotify.com/track/6q3CHqrpj1xhACjwolpLWs) | [Mel Blue](https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ) | [That Feeling](https://open.spotify.com/album/0spQnHysbmv3eYXjVGIjw7) | 3:32 | 2024-12-05 | 2025-01-10 |
 | [That Girl Is Rollercoaster](https://open.spotify.com/track/1XS9BH8bASVM1Vnr8XbSzG) | [ÄTNA](https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX) | [Lucky Dancer](https://open.spotify.com/album/3XG7s95kEcdaNZliaIbvyL) | 3:55 | 2024-10-17 | 2024-11-22 |
+| [The Adventurer](https://open.spotify.com/track/7ye7Qoj5oKRCWPmtcVGgTY) | [French 79](https://open.spotify.com/artist/6MJKlN8ya42Agsw3iQZs6e) | [The Adventurer](https://open.spotify.com/album/7BQG4SCkxKgV0ZkaClpYm0) | 4:16 | 2026-04-09 |  |
 | [the aftermath](https://open.spotify.com/track/3xoC4SJoiLqHJBuiIi0Eqd) | [David Bay](https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo) | [the aftermath](https://open.spotify.com/album/2tNwRsq1CmPCWOl5Eb3rbm) | 3:18 | 2025-12-19 | 2026-02-20 |
 | [The Bay \- Purple Disco Machine Edit](https://open.spotify.com/track/20yAG2AZyb8zneVpOib7Vm) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [The Bay \(Purple Disco Machine Remix\)](https://open.spotify.com/album/57AazaHQG8HBbpVXAjIX7Q) | 3:43 | 2025-08-07 | 2026-02-07 |
 | [The Dark, The Light \(Edit\)](https://open.spotify.com/track/0lBXFOrDC2JlIPp6soVYpR) | [Bozart](https://open.spotify.com/artist/0P9fjhNfuSTdiwuEo1MxqI), [Jennifer Cardini](https://open.spotify.com/artist/3AN049igIAaoX0fjTCkpnf) | [The Dark, The Light](https://open.spotify.com/album/5ZfJiJQqkWCRA61daHr4b5) | 3:54 | 2023-06-01 | 2023-12-01 |
@@ -1372,7 +1374,7 @@
 | [Violently Patient](https://open.spotify.com/track/1qKdEaj6BE2RKzQj3sQE63) | [Rangleklods](https://open.spotify.com/artist/1p2jAzBu31C2CoORbhZROz) | [Breathe In, Breathe Out](https://open.spotify.com/album/4hfABogY2ThfnXf515qFBq) | 5:23 | 2024-02-08 | 2024-04-12 |
 | [viscus \(feat\. FKA twigs\)](https://open.spotify.com/track/3KjVtWWVEP1gmxosGb9u20) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [viscus \(feat\. FKA twigs\)](https://open.spotify.com/album/0vVRK9TwIZ7seta6nlflcG) | 3:40 | 2025-10-09 |  |
 | [Visions Of Pain \- Tim Goldsworthy Remix](https://open.spotify.com/track/0vE2ANol5kgvLeGgy2rF9v) | [Fat White Family](https://open.spotify.com/artist/5ztBFCBEL7OtjdAt98RnD4), [Tim Goldsworthy](https://open.spotify.com/artist/2uFlruav0o4m1tVv05Bvuc) | [Visions Of Pain \(Tim Goldsworthy Remix\)](https://open.spotify.com/album/1XUA6dEi6ydxqo52gqKcf5) | 7:26 | 2024-11-28 | 2025-05-30 |
-| [Voices](https://open.spotify.com/track/34MI5P1Rh1VTlQjHbvg0j6) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [HUMANiSE](https://open.spotify.com/album/0iIR2PTnqaYmsfIadlObCe) | 5:38 | 2025-10-09 |  |
+| [Voices](https://open.spotify.com/track/34MI5P1Rh1VTlQjHbvg0j6) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [HUMANiSE](https://open.spotify.com/album/0iIR2PTnqaYmsfIadlObCe) | 5:38 | 2025-10-09 | 2026-04-10 |
 | [Voices](https://open.spotify.com/track/30swnXxdVtDdwgZBUtwvcm) | [Perel](https://open.spotify.com/artist/5cmqnZNaNDqgcsTOkQUmqB) | [Voices](https://open.spotify.com/album/4e1mGV35guXUGYlOYhAAzJ) | 3:36 | 2025-08-21 | 2025-10-17 |
 | [Volume](https://open.spotify.com/track/3FTjdr8D814YDBWxsD1V54) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Volume](https://open.spotify.com/album/1XTC9tnCxGb2iMX2rdr1Pc) | 3:58 | 2024-08-01 | 2025-01-31 |
 | [Voodoo?](https://open.spotify.com/track/3pr0y5h4MkBngy6gyozLDV) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Tako Tsubo](https://open.spotify.com/album/7gE23KRzNbXeB6nZmQVqa3) | 4:15 | 2025-12-18 | 2026-01-06 |
@@ -1425,6 +1427,7 @@
 | [What You Want](https://open.spotify.com/track/7J4dPn4Xg9Op0e8N2tjqkX) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli), [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [What You Want](https://open.spotify.com/album/0PWDYw8t6pEp4n8sFHZzOj) | 3:08 | 2026-02-26 |  |
 | [Whatever](https://open.spotify.com/track/0LJtogguqMPVg0nkW9PFk9) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Whatever](https://open.spotify.com/album/4mwRHYpnfvMG67A3YT1HUE) | 2:46 | 2025-01-23 | 2025-07-25 |
 | [Whats Next](https://open.spotify.com/track/7wO5DWtpteZMuWst5lNBVN) | [LUKAS OSCAR](https://open.spotify.com/artist/2us7w75YxBYkyYom4CAGKH) | [Everything’s Built To Last](https://open.spotify.com/album/17xPSt6j9Q0obY0yuINUXk) | 2:48 | 2026-01-29 | 2026-03-20 |
+| [What’s On Your Mind](https://open.spotify.com/track/2DOKvJS61usFOxobo7jLi0) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk), [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [What's On Your Mind](https://open.spotify.com/album/3Zba9cZ8EP1DBcvjnVNrG6) | 3:32 | 2026-04-09 |  |
 | [When She Dance](https://open.spotify.com/track/0mNYHqs5BovsfV5jQ4Ysb8) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Guy](https://open.spotify.com/album/1yGK2fGDPhaZ3O9AhGrkRS) | 3:22 | 2023-06-08 | 2023-07-01 |
 | [When This Is Over](https://open.spotify.com/track/7xPVO9T4tnz7SFGGbHc7s5) | [Cut Copy](https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS) | [When This Is Over](https://open.spotify.com/album/64s9ludX1CjfPAlCdmmBWa) | 4:24 | 2025-06-26 | 2025-08-09 |
 | [When You Wake up Tomorrow](https://open.spotify.com/track/4b7CZF01PSfOYVPGY3adiY) | [Candi Staton](https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et) | [Chance](https://open.spotify.com/album/4RtrnkVrwWjMAvvYZ24PWB) | 6:46 | 2022-12-30 | 2023-01-02 |

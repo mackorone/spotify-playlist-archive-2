@@ -4,7 +4,7 @@
 
 > Dive into the heart of indie and alternative rock with our handpicked playlist\. Discover raw energy, powerful riffs, and the soulful essence of independent rock music\. Rock on!
 
-145 songs - 9 hr 3 min
+146 songs - 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Forget \- VIP Edit](https://open.spotify.com/track/0kK3lo5RXBPZS620cMB0QU) | [CoWL](https://open.spotify.com/artist/0NV0U6posplF3CIOsGmW2D) | [Forget \(VIP Edit\)](https://open.spotify.com/album/0XHGV6Fx4rB98z1fNkHRmT) | 3:49 | 2025-09-03 |  |
 | [Get a Grip](https://open.spotify.com/track/4npUxfyXUOzXA0qZqTvX6u) | [Near Earth Objects \- NEO](https://open.spotify.com/artist/3Pllf0a6v7vViXwMTLHvoa) | [Idle Words & Schemes](https://open.spotify.com/album/2EK9jevABAWTkE9JWA8x0Z) | 3:09 | 2025-10-14 |  |
 | [Gets Me Where I'm Going](https://open.spotify.com/track/4TDu4CrTl6MB3OqoGYsEHN) | [Dave Christen](https://open.spotify.com/artist/3pLpSZzfhqSloT7Cidly8l) | [Gets Me Where I'm Going](https://open.spotify.com/album/2a23IRAjkcF35yQ59SeNMY) | 3:55 | 2025-10-01 |  |
+| [Glimpse](https://open.spotify.com/track/6gLTJWbw0uEtvQi128RsdR) | [Field of View](https://open.spotify.com/artist/77F2OeJqiPVTeAwBeu2gxG) | [In My Own Way](https://open.spotify.com/album/5eBSKHjtj9mFF6QwkKYYBi) | 2:30 | 2026-04-09 |  |
 | [Golden Days](https://open.spotify.com/track/55dW4ZMoaH7iugZ3BQOJv3) | [Samt Martin](https://open.spotify.com/artist/22jMoawsR2u3MjE3wnvUZC) | [Golden Days](https://open.spotify.com/album/57V5naArzEE6ua43OPvio0) | 3:26 | 2025-09-25 |  |
 | [Hold On](https://open.spotify.com/track/1HSmYf0HuCsL2pwxvfFMsT) | [SINEAD](https://open.spotify.com/artist/1W8hGPWp51WM8s8abI0B94) | [Hold On](https://open.spotify.com/album/6ahhFqtnECetFvpPD1J2E5) | 2:30 | 2025-09-30 |  |
 | [HOME](https://open.spotify.com/track/5SSwaaEflTrax8JPsW6ZkC) | [Scarlet City](https://open.spotify.com/artist/49klWMejrBkHg8mUW4tQrj) | [HOME](https://open.spotify.com/album/09ldHO1i16Ygsxi4CXzinL) | 3:05 | 2025-11-11 |  |

@@ -3187,6 +3187,36 @@
     },
     {
       "album": {
+        "name": "birds in the trap",
+        "url": "https://open.spotify.com/album/4vzcWip8QHisJ2hbszZ11y"
+      },
+      "artists": [
+        {
+          "name": "AliSoomroMusic",
+          "url": "https://open.spotify.com/artist/2hXbxDaLthfodvgEpP6Xpm"
+        },
+        {
+          "name": "Afusic",
+          "url": "https://open.spotify.com/artist/1pS0qiLG23HMMLFwsQALKx"
+        },
+        {
+          "name": "Ali Raza",
+          "url": "https://open.spotify.com/artist/522dF8hRyQ3b0jypJfUDQW"
+        },
+        {
+          "name": "Azan Ali",
+          "url": "https://open.spotify.com/artist/1Ww6kYtGqgLRqGeVJkb7yU"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194699,
+      "name": "Yung Money",
+      "url": "https://open.spotify.com/track/5AhLbtL9gzUJ4Na9V1A9oP"
+    },
+    {
+      "album": {
         "name": "Zaalima",
         "url": "https://open.spotify.com/album/6YBXUtfQswWm7xKGSEyVc5"
       },
