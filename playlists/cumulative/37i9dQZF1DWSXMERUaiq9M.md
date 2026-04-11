@@ -4,7 +4,7 @@
 
 > 🚀 when ur love language is bpm 🚀  Cover: Marlon Hoffstadt
 
-677 songs - 1 day 16 hr 54 min
+678 songs - 1 day 16 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,6 +230,7 @@
 | [Freak The Funk](https://open.spotify.com/track/0JsEw39KJQUZ6gDQBbiwve) | [Linds](https://open.spotify.com/artist/6ZGqNbBtVrSU2EgalYQksc), [Edvvin](https://open.spotify.com/artist/73rVEJASouJSuSvcXR2YyI) | [Freak The Funk](https://open.spotify.com/album/24D05CeYz42rDf1W42a3y5) | 4:08 | 2024-12-28 | 2025-01-07 |
 | [French Kiss](https://open.spotify.com/track/45f8hQO5e28l0KiCfP6OWx) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [Caro van Ee](https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M) | [French Kiss](https://open.spotify.com/album/0k1vBc6uvoPvBtadhW59N5) | 1:56 | 2025-07-24 | 2025-08-09 |
 | [FTS \- Original Mix](https://open.spotify.com/track/5CLruz22PAlhr07V7ULV5u) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7) | [FTS](https://open.spotify.com/album/0rXON439n3w0JaRaugKasV) | 5:29 | 2024-12-28 | 2025-01-07 |
+| [Fuego](https://open.spotify.com/track/1LkS4sqxIIbBwB0Rmn85Q1) | [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [Fuego](https://open.spotify.com/album/2B4IUOCFFe0TSeFqYNKF9J) | 2:13 | 2026-04-09 |  |
 | [Fuerteventura Forever](https://open.spotify.com/track/0NePTW4Zdn6GLW9CxLYe2B) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [Fuerteventura Forever](https://open.spotify.com/album/7sAmDL45qjgM10ekWtaMV2) | 3:56 | 2024-09-19 | 2024-10-11 |
 | [Gangsta's Paradise](https://open.spotify.com/track/2PQ5At0Rnm4ogInS1ejZYl) | [Coolio](https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T), [HOLY PRIEST](https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06), [1 World](https://open.spotify.com/artist/1VwX54VxJ6Mghi5HTCZYLa) | [Gangsta's Paradise](https://open.spotify.com/album/0SqCo1LB3HGjLs7puyKsMN) | 2:48 | 2026-03-19 |  |
 | [Geht's noch? \- DJ Gigola Remix](https://open.spotify.com/track/00V7ezFmvR4wv4m7f9PC5A) | [Roman Flügel](https://open.spotify.com/artist/2GvwZbDjH1DbQpodGKENDw), [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [Geht's noch? \(21 Year Anniversary Pt\. 1\)](https://open.spotify.com/album/6KbnDVQVCobouAN8Mkc0B4) | 4:08 | 2025-05-22 | 2025-05-30 |

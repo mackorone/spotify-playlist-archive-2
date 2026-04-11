@@ -1,12 +1,12 @@
 {
   "description": "This is Julieta Venegas. The essential tracks, all in one playlist.",
-  "num_followers": 242337,
+  "num_followers": 242359,
   "original_name": "This Is Julieta Venegas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adWagAAAAACL2LzbOF/1xu44D4S+2KxA",
+  "snapshot_id": "adbsAAAAAACga432H1mxmiR+hL7wALLn",
   "tracks": [
     {
       "added_at": null,
@@ -487,22 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Otra Cosa",
-        "url": "https://open.spotify.com/album/7rrYlu3nL2ZfW7RR9tSDMO"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 203573,
-      "name": "Despedida",
-      "url": "https://open.spotify.com/track/1aE6eXDmeZA9XQsQLuXsSE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Limon Y Sal",
         "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 228680,
       "name": "Sin Documentos",
       "url": "https://open.spotify.com/track/4NjpDjEBP5am0Bsb3v3urI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Otra Cosa",
+        "url": "https://open.spotify.com/album/7rrYlu3nL2ZfW7RR9tSDMO"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 203573,
+      "name": "Despedida",
+      "url": "https://open.spotify.com/track/1aE6eXDmeZA9XQsQLuXsSE"
     },
     {
       "added_at": null,
@@ -551,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Otra Cosa",
-        "url": "https://open.spotify.com/album/7rrYlu3nL2ZfW7RR9tSDMO"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 154666,
-      "name": "Amores Plat\u00f3nicos",
-      "url": "https://open.spotify.com/track/3dyr9NVX6cZwYelfZLFUYQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Limon Y Sal",
         "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 172306,
       "name": "Canciones de Amor",
       "url": "https://open.spotify.com/track/66t9mMSm7razNHOKQxAa6R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Otra Cosa",
+        "url": "https://open.spotify.com/album/7rrYlu3nL2ZfW7RR9tSDMO"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 154666,
+      "name": "Amores Plat\u00f3nicos",
+      "url": "https://open.spotify.com/track/3dyr9NVX6cZwYelfZLFUYQ"
     },
     {
       "added_at": null,

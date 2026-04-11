@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain]
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-[Matt Johnson](https://open.spotify.com/user/117687144) - 8,727 likes - 152 songs - 8 hr 7 min
+[Matt Johnson](https://open.spotify.com/user/117687144) - 8,726 likes - 152 songs - 8 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain]
 | 7 | [Be My Baby](https://open.spotify.com/track/6767EYNPX0LT5AERBRRKyx) | [Thomas Law](https://open.spotify.com/artist/17oLmcamZOvri63kIr56CO) | [Be My Baby](https://open.spotify.com/album/6XiUwP6st5qWfGH0rJVvuX) | 3:03 |
 | 8 | [Glory of Love](https://open.spotify.com/track/2iPOVHVwpJolLjh3VZKRoi) | [Dave Moffatt](https://open.spotify.com/artist/7qwDy02WdmGebMlToaDyoY) | [Glory of Love](https://open.spotify.com/album/00t4GVWQGiaxPGhQW67MVY) | 3:55 |
 | 9 | [True Colours](https://open.spotify.com/track/1rGxG6Y5OgmSwGPRPJv9Q4) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [True Colours](https://open.spotify.com/album/2KYcp0bkKyyGllYygfdtHX) | 2:23 |
-| 10 | [Is This Love \- Acoustic](https://open.spotify.com/track/4JGlFaRIOBZ9j2DQaDXmVw) | [Lizzie Haynes](https://open.spotify.com/artist/5ktwL8uLtQzLeGwJzqE0wE) | [Is This Love \(Acoustic\)](https://open.spotify.com/album/4q1wY0maG1DpmxLFsBU3Cs) | 2:51 |
-| 11 | [These Words](https://open.spotify.com/track/1f9bAxVpNIRTmyhlSeOOMz) | [Hannah's Yard](https://open.spotify.com/artist/08qkAEn1wetskAwcPrcOPf) | [These Words](https://open.spotify.com/album/5rsURGB1QTPnwCrrwRU3B8) | 2:49 |
+| 10 | [Hard to Say I'm Sorry](https://open.spotify.com/track/0GzBJssdxWhhQ4LsbXFWyF) | [Hannah's Yard](https://open.spotify.com/artist/08qkAEn1wetskAwcPrcOPf) | [Hard to Say I'm Sorry](https://open.spotify.com/album/1hKjrFBLM2Mm2biwKQTGo2) | 3:27 |
+| 11 | [Is This Love \- Acoustic](https://open.spotify.com/track/4JGlFaRIOBZ9j2DQaDXmVw) | [Lizzie Haynes](https://open.spotify.com/artist/5ktwL8uLtQzLeGwJzqE0wE) | [Is This Love \(Acoustic\)](https://open.spotify.com/album/4q1wY0maG1DpmxLFsBU3Cs) | 2:51 |
 | 12 | [My Girl \- Acoustic](https://open.spotify.com/track/529g1MsXGKd0vw7YtG4igP) | [The Canyon Run](https://open.spotify.com/artist/58ZUxhY97JlL7EXNsoevGZ) | [My Girl \(Acoustic\)](https://open.spotify.com/album/5OuYjVW8PepEzH5qzz7xMt) | 2:28 |
 | 13 | [Came Here for Love \- Acoustic](https://open.spotify.com/track/6gBwaCbb1lKHvlN9mVOVAg) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [Came Here for Love \(Acoustic\)](https://open.spotify.com/album/2YwHJ9OLSiwzwo6n4VLEvk) | 3:36 |
 | 14 | [You Make My Dreams \(Come True\)](https://open.spotify.com/track/6KXMkR8qN90Jc8Wx3nMXmH) | [Natalie Johnson](https://open.spotify.com/artist/4J0sVz614kdcEHl3MkKHej) | [You Make My Dreams \(Come True\)](https://open.spotify.com/album/3Ot2DtvXftRZm6MzpaVBCY) | 2:34 |
@@ -161,4 +161,4 @@ pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain]
 | 151 | [Magnetised \- Acoustic](https://open.spotify.com/track/5baXzOMmD0sf26hayRqfqI) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Magnetised \(Acoustic\)](https://open.spotify.com/album/2UQjNLTufvDV6PKx2Kn8v2) | 4:52 |
 | 152 | [Champagne Supernova \- Acoustic](https://open.spotify.com/track/4u4a98HYVpQjhF66sRNMZK) | [Blame Jones](https://open.spotify.com/artist/4FCvYJ06Q8c4AScPG501KY) | [Covers Vol\. 1 \(Acoustic\)](https://open.spotify.com/album/2iKra1NUEayECHIBkJ2sz1) | 2:43 |
 
-Snapshot ID: `AAAGE3w5mc6bfTYneN0E0Rp0+z0iXCrc`
+Snapshot ID: `AAAGFXvo4FjUkaQKJr1C8Y1Hmsyhje1Q`

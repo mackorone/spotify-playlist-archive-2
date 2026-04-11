@@ -4624,7 +4624,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 239299,
       "name": "Feeling Good - triple j Like A Version",
       "url": "https://open.spotify.com/track/4kY3cAWzzKVn3ZmYfOOJul"
@@ -12850,6 +12850,24 @@
       "duration_ms": 290381,
       "name": "Rainbow Forest - Single Edit",
       "url": "https://open.spotify.com/track/3vojevi84qhWYeWEecPjSV"
+    },
+    {
+      "album": {
+        "name": "Raindrops Keep Falling On My Head",
+        "url": "https://open.spotify.com/album/48cJa1wLsIoujpLuKYklXG"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle Cavassa",
+          "url": "https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272240,
+      "name": "Raindrops Keep Falling On My Head",
+      "url": "https://open.spotify.com/track/0KA5ATfEnvljL6RS14WRnR"
     },
     {
       "album": {

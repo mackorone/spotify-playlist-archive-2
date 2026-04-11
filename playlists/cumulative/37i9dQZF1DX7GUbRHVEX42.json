@@ -2204,7 +2204,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 227617,
       "name": "In Bloom (feat. Lila Ik\u00e9)",
       "url": "https://open.spotify.com/track/3WwXaLYKNx0qJqyjnzDadx"
@@ -5558,6 +5558,28 @@
       "duration_ms": 198948,
       "name": "Time Is of Essence",
       "url": "https://open.spotify.com/track/6EseVHHBlvGNJnkhyyl4kH"
+    },
+    {
+      "album": {
+        "name": "Ting Loud (with Masicka)",
+        "url": "https://open.spotify.com/album/46RyBz5z8NqR7x7wCJuKPX"
+      },
+      "artists": [
+        {
+          "name": "Protoje",
+          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+        },
+        {
+          "name": "Masicka",
+          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202886,
+      "name": "Ting Loud (with Masicka)",
+      "url": "https://open.spotify.com/track/0SXhAXeKf5QuSsCUWoxRsH"
     },
     {
       "album": {

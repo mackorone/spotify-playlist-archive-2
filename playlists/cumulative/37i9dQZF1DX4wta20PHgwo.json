@@ -1184,7 +1184,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 253106,
       "name": "Ballade for the Very Sad and Very Tired Lotus Eaters",
       "url": "https://open.spotify.com/track/7CxYBXp6hBFnnyYm7ivNCd"
@@ -5500,6 +5500,36 @@
       "duration_ms": 277597,
       "name": "La Sentencia",
       "url": "https://open.spotify.com/track/0w7QdJZVUSgkvtCqSY3AjV"
+    },
+    {
+      "album": {
+        "name": "Lady Day",
+        "url": "https://open.spotify.com/album/45ibai2qs9gxFefDxJiXHw"
+      },
+      "artists": [
+        {
+          "name": "Joe Lovano",
+          "url": "https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf"
+        },
+        {
+          "name": "Julian Lage",
+          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
+        },
+        {
+          "name": "Asante Santi Debriano",
+          "url": "https://open.spotify.com/artist/1AdgjVEMk6jR2OA3Mc5QT3"
+        },
+        {
+          "name": "Will Calhoun",
+          "url": "https://open.spotify.com/artist/03Fr2b89fbLWKq5skHknPV"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 479434,
+      "name": "Lady Day",
+      "url": "https://open.spotify.com/track/3wN9L2rab86vxt91eW5cgB"
     },
     {
       "album": {

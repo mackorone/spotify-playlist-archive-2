@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Le rap qu\u00e9b\u00e9cois, servi tout frais tout chaud. Photo: Obia le Chef",
+  "description": "Le rap qu\u00e9b\u00e9cois, servi tout frais tout chaud. Photo: ENIMA",
   "name": "Rap qu\u00e9b",
   "tracks": [
     {
@@ -1652,6 +1652,24 @@
       "duration_ms": 174984,
       "name": "Au nom",
       "url": "https://open.spotify.com/track/5zOiWIXuIWXBGLK3EPBRwQ"
+    },
+    {
+      "album": {
+        "name": "EVIL WORLD",
+        "url": "https://open.spotify.com/album/6v5mzCcDl3yZzi8EtPIslR"
+      },
+      "artists": [
+        {
+          "name": "Enima",
+          "url": "https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187941,
+      "name": "AUBE",
+      "url": "https://open.spotify.com/track/69prmOKqr4S5l2yPZpEIck"
     },
     {
       "album": {
@@ -3875,6 +3893,24 @@
     },
     {
       "album": {
+        "name": "CARATS",
+        "url": "https://open.spotify.com/album/7BRafXGYQgVEezPWgmFWmb"
+      },
+      "artists": [
+        {
+          "name": "NANII",
+          "url": "https://open.spotify.com/artist/1Srwnwnweg4tOoujcFXD1W"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196425,
+      "name": "CARATS",
+      "url": "https://open.spotify.com/track/0mcwT92UA1dnVxU2zvcy9H"
+    },
+    {
+      "album": {
         "name": "CO2",
         "url": "https://open.spotify.com/album/40ZUHqyTGLHBiT8Do4oEEx"
       },
@@ -4050,6 +4086,32 @@
       "duration_ms": 227547,
       "name": "CC",
       "url": "https://open.spotify.com/track/2TOexWkJa99UYe6BdbxsjU"
+    },
+    {
+      "album": {
+        "name": "Ce monde est \u00e0 nous",
+        "url": "https://open.spotify.com/album/0kWeShgQsivvPli1po0B6t"
+      },
+      "artists": [
+        {
+          "name": "NIQC",
+          "url": "https://open.spotify.com/artist/2KNmRZ3d5an4Dxxh41R1us"
+        },
+        {
+          "name": "MB",
+          "url": "https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU"
+        },
+        {
+          "name": "Kelly Krow",
+          "url": "https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154683,
+      "name": "Ce monde est \u00e0 nous",
+      "url": "https://open.spotify.com/track/30CHqGwMCBNNuPeiej1uaW"
     },
     {
       "album": {
@@ -6231,6 +6293,32 @@
     },
     {
       "album": {
+        "name": "Don't mind me",
+        "url": "https://open.spotify.com/album/1ms4MLyuMhDdeAZ3skhntL"
+      },
+      "artists": [
+        {
+          "name": "Monk.E",
+          "url": "https://open.spotify.com/artist/0iA2L1Fbkwp3PxiSD22Uou"
+        },
+        {
+          "name": "Rico Blox",
+          "url": "https://open.spotify.com/artist/1BhZFNOLl6MeL4sNS3QKIN"
+        },
+        {
+          "name": "Omayela",
+          "url": "https://open.spotify.com/artist/7xu6SNQaZNqp5Dv8Iuv1Jv"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204187,
+      "name": "Don't mind me",
+      "url": "https://open.spotify.com/track/4Qq5RHUsw8pna8dFRgIBzF"
+    },
+    {
+      "album": {
         "name": "Donne-moi tout",
         "url": "https://open.spotify.com/album/7qvR4RsNKAzIX4c0C4IBOz"
       },
@@ -6905,6 +6993,28 @@
     },
     {
       "album": {
+        "name": "Ego's Blade",
+        "url": "https://open.spotify.com/album/2rmIuZbuh4bU3pEx3v20HS"
+      },
+      "artists": [
+        {
+          "name": "Mosez Jones",
+          "url": "https://open.spotify.com/artist/3v2UncvXxZIIh1d0xiTyNp"
+        },
+        {
+          "name": "KIN",
+          "url": "https://open.spotify.com/artist/2uBHy8wdzJ8mmR4tBrGWrD"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179505,
+      "name": "Ego's Blade",
+      "url": "https://open.spotify.com/track/6DPxlA33IominPyi8dAI8Y"
+    },
+    {
+      "album": {
         "name": "Silence Complice",
         "url": "https://open.spotify.com/album/64UVL7qphiTIfq1hTCy9fB"
       },
@@ -7234,6 +7344,24 @@
       "duration_ms": 282106,
       "name": "EV2",
       "url": "https://open.spotify.com/track/2RUJJtbGdliDKtsQpw6zDW"
+    },
+    {
+      "album": {
+        "name": "Everyday",
+        "url": "https://open.spotify.com/album/03YoupBufL3qjQxT8W8hrM"
+      },
+      "artists": [
+        {
+          "name": "Berlam",
+          "url": "https://open.spotify.com/artist/6VX0JdAybG05A8AtuPYLwN"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/33KuqZoMEL9HtpleQuE7Ri"
     },
     {
       "album": {
@@ -8225,6 +8353,24 @@
     },
     {
       "album": {
+        "name": "Frozen Freestyle",
+        "url": "https://open.spotify.com/album/4eA9Fi8Mfn26jw65tFNs3N"
+      },
+      "artists": [
+        {
+          "name": "llynx",
+          "url": "https://open.spotify.com/artist/6KjzBwiC1nG4GJyiriGf4T"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90352,
+      "name": "Frozen Freestyle",
+      "url": "https://open.spotify.com/track/7G6YnAwpd7rRuci2BUTVlm"
+    },
+    {
+      "album": {
         "name": "Fruit d\u00e9fendu",
         "url": "https://open.spotify.com/album/46hTeni6rzDZApaurPprXj"
       },
@@ -8751,6 +8897,24 @@
     },
     {
       "album": {
+        "name": "GOAT",
+        "url": "https://open.spotify.com/album/1ih1sEDRvMpNRUbInc6hfD"
+      },
+      "artists": [
+        {
+          "name": "Souldia",
+          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276621,
+      "name": "GOAT",
+      "url": "https://open.spotify.com/track/06csBJCLcIQJbR113EuURC"
+    },
+    {
+      "album": {
         "name": "GOD COMPLEX",
         "url": "https://open.spotify.com/album/3yeSTn4jXhZL7A27aZY4Eo"
       },
@@ -8784,6 +8948,24 @@
       "duration_ms": 119928,
       "name": "GOD COMPLEX",
       "url": "https://open.spotify.com/track/0zkWMIIyfZWPOXnjZyKqR7"
+    },
+    {
+      "album": {
+        "name": "Gofundme",
+        "url": "https://open.spotify.com/album/15f3OmN2zYYjJnAdPU106R"
+      },
+      "artists": [
+        {
+          "name": "TRAPMAT SAVIOR",
+          "url": "https://open.spotify.com/artist/5vaj4nUcjIF9Op1rFtebxV"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117928,
+      "name": "Gofundme",
+      "url": "https://open.spotify.com/track/1eW1HkYGLpwqQ3CW1aa9Of"
     },
     {
       "album": {
@@ -9249,6 +9431,28 @@
     },
     {
       "album": {
+        "name": "Himoth\u00e9e Chalamet",
+        "url": "https://open.spotify.com/album/2BVKvjkoityMg3i40Q2NDE"
+      },
+      "artists": [
+        {
+          "name": "JoDolo",
+          "url": "https://open.spotify.com/artist/67QptzHOolted3fphXuAQi"
+        },
+        {
+          "name": "Hardbody Jones",
+          "url": "https://open.spotify.com/artist/2eSkpY6chWswQyjOuQ9pFl"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Himoth\u00e9e Chalamet",
+      "url": "https://open.spotify.com/track/0BFVqr9raNOXktyA3YKNmN"
+    },
+    {
+      "album": {
         "name": "HIT",
         "url": "https://open.spotify.com/album/5fzL567zhWlmeslIgX9tQR"
       },
@@ -9304,6 +9508,28 @@
       "duration_ms": 126483,
       "name": "Hitback",
       "url": "https://open.spotify.com/track/5APdO669VhqrxQrApzFbXD"
+    },
+    {
+      "album": {
+        "name": "HOCHELAG\u00c0MARSEILLE",
+        "url": "https://open.spotify.com/album/1ortf5fj6p8vbaLrPoEO38"
+      },
+      "artists": [
+        {
+          "name": "Franz Keloh",
+          "url": "https://open.spotify.com/artist/0QtshFoajFl0OOk8ZydKdO"
+        },
+        {
+          "name": "HeyMikey!",
+          "url": "https://open.spotify.com/artist/4JYVgAZMXGS1nozzEfDAOy"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "HOCHELAG\u00c0MARSEILLE",
+      "url": "https://open.spotify.com/track/4htlXBuMiUPHZJOAXce71P"
     },
     {
       "album": {
@@ -11495,6 +11721,24 @@
     },
     {
       "album": {
+        "name": "LA RICHESSE",
+        "url": "https://open.spotify.com/album/79LXOB73F6p2kmdbJj9VST"
+      },
+      "artists": [
+        {
+          "name": "FRE5H",
+          "url": "https://open.spotify.com/artist/3wHBt5vw5plrufZh1DdQVe"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "LA RICHESSE",
+      "url": "https://open.spotify.com/track/70Uu1Q3RZHo0gzC21yX0Fh"
+    },
+    {
+      "album": {
         "name": "Pleure pas ma Fille, sinon Maman va pleurer",
         "url": "https://open.spotify.com/album/3jUTNTAhTvFbKnMBc8yQPy"
       },
@@ -12778,6 +13022,24 @@
       "duration_ms": 134118,
       "name": "Ma r\u00e9alit\u00e9",
       "url": "https://open.spotify.com/track/2fIukPQSldwrBlzwACakSX"
+    },
+    {
+      "album": {
+        "name": "mabad",
+        "url": "https://open.spotify.com/album/5zzjX0TmH5KMhH9S2PhTib"
+      },
+      "artists": [
+        {
+          "name": "hrshie",
+          "url": "https://open.spotify.com/artist/7ldNa75VRHwmDtoxY5rGhv"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177857,
+      "name": "mabad",
+      "url": "https://open.spotify.com/track/1Hn57cjATQkdDQUfOsVj2Q"
     },
     {
       "album": {
@@ -15475,6 +15737,28 @@
     },
     {
       "album": {
+        "name": "Outta Place",
+        "url": "https://open.spotify.com/album/6UHgYhn78q83RiBOeRcY3c"
+      },
+      "artists": [
+        {
+          "name": "Cath Darbouze",
+          "url": "https://open.spotify.com/artist/27UCUxjYYoK3djQnSTdPWV"
+        },
+        {
+          "name": "Imposs",
+          "url": "https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207876,
+      "name": "Outta Place",
+      "url": "https://open.spotify.com/track/3Mq2Q9n20d9Vqp92wysxeO"
+    },
+    {
+      "album": {
         "name": "P'tit cochon",
         "url": "https://open.spotify.com/album/6yReqmLmHrrVzRIL9p4pKi"
       },
@@ -15494,6 +15778,36 @@
       "duration_ms": 211506,
       "name": "P'tit cochon",
       "url": "https://open.spotify.com/track/4KzVQwE98AbZ7TrrNwt9L9"
+    },
+    {
+      "album": {
+        "name": "P.O.V",
+        "url": "https://open.spotify.com/album/5aElALoPpmJzillhMSlMZS"
+      },
+      "artists": [
+        {
+          "name": "Kris the $pirit",
+          "url": "https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H"
+        },
+        {
+          "name": "Lightitupav",
+          "url": "https://open.spotify.com/artist/388JJVyR92c0JwTkEPOiHB"
+        },
+        {
+          "name": "DO, the Outcast",
+          "url": "https://open.spotify.com/artist/2VCNkwwvTrXkHJ09SbssUP"
+        },
+        {
+          "name": "Lord The Lost",
+          "url": "https://open.spotify.com/artist/571B4OnmEeggOGN1p88p94"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228373,
+      "name": "P.O.V",
+      "url": "https://open.spotify.com/track/5UJuviLO86xENvj0LynnZo"
     },
     {
       "album": {
@@ -17024,6 +17338,24 @@
       "duration_ms": 137142,
       "name": "Pr\u00eatre",
       "url": "https://open.spotify.com/track/0ZAckap53UurtzhjykABHb"
+    },
+    {
+      "album": {
+        "name": "Buzz\u00e9 dans un ascenseur",
+        "url": "https://open.spotify.com/album/0IAHxi0UGSYBlyOyYU9n2M"
+      },
+      "artists": [
+        {
+          "name": "Le Gicko",
+          "url": "https://open.spotify.com/artist/6oR4H8kuK9CcynDnU6YF0W"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178448,
+      "name": "PSILOCYBINE",
+      "url": "https://open.spotify.com/track/5YKDkZKHrWF2AjVEhaH8EC"
     },
     {
       "album": {
@@ -18588,6 +18920,28 @@
       "duration_ms": 87619,
       "name": "Sacr\u00e9 fils",
       "url": "https://open.spotify.com/track/5E1bugHfL83ZJX9IcuWd9l"
+    },
+    {
+      "album": {
+        "name": "Saint Nicolas",
+        "url": "https://open.spotify.com/album/4eXBcZDkEBYOOXFvXYd75x"
+      },
+      "artists": [
+        {
+          "name": "Lights058",
+          "url": "https://open.spotify.com/artist/36MwzuH4MpuCab4p6wXSuq"
+        },
+        {
+          "name": "Salgrimo",
+          "url": "https://open.spotify.com/artist/4UV5H3SeSPhlAgXL6JJBsE"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187764,
+      "name": "Saint Nicolas",
+      "url": "https://open.spotify.com/track/1oA0gr1CSgl2V0KOIvK6Yo"
     },
     {
       "album": {
@@ -22426,6 +22780,24 @@
       "duration_ms": 155993,
       "name": "\u00c0 contresens",
       "url": "https://open.spotify.com/track/0T65sssvGaR9gnpEDiXAWV"
+    },
+    {
+      "album": {
+        "name": "\u00c0 c\u0153ur ouvert",
+        "url": "https://open.spotify.com/album/3Xzy64EjxyUqOOHf2vCRJX"
+      },
+      "artists": [
+        {
+          "name": "Jeekay",
+          "url": "https://open.spotify.com/artist/38POyyW13rAIhFtElJXFwJ"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175022,
+      "name": "\u00c0 c\u0153ur ouvert",
+      "url": "https://open.spotify.com/track/0bjsa6H3BEjcsXkw0nmUR8"
     },
     {
       "album": {

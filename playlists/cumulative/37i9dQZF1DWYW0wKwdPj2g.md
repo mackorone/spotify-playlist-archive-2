@@ -4,7 +4,7 @@
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Kaestrings
 
-315 songs - 1 day 18 hr 49 min
+316 songs - 1 day 19 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [Mighty God \- Live](https://open.spotify.com/track/7eoZh3g1xNBKgSpDWaYMot) | [Bredjo](https://open.spotify.com/artist/216jcBv5bdbpFqfJF7iNuz) | [Mighty God \(Live\)](https://open.spotify.com/album/54bSoUAHUfUZS4PenBMBpY) | 9:46 | 2025-03-21 | 2025-04-25 |
 | [Miracle \- Live](https://open.spotify.com/track/5r3LbPIXiISgfxgm1XRRvh) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2) | [No Label \(LIVE\)](https://open.spotify.com/album/47JKBUEZZKCIWJRKXPC5Nc) | 3:22 | 2026-01-30 | 2026-03-06 |
 | [Most High](https://open.spotify.com/track/7LUi65oi6NDM5v9OKgKs9E) | [Evans Ighodalo](https://open.spotify.com/artist/0g3JSjP5xE0ljj4TmNv6Av) | [Most High](https://open.spotify.com/album/77IntAt7QZ3xzk1Qfn6zny) | 6:21 | 2025-01-03 | 2025-04-18 |
+| [Most High God \- Live](https://open.spotify.com/track/3qkicluLq6dTSaIqb8jkrD) | [Raj Bassey](https://open.spotify.com/artist/5wcDczeAUQOZX7UI2oQdf4), [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4), [The Bethels](https://open.spotify.com/artist/31rHOjUlSsmFDVQuUfEEo9) | [Most High God \(Live\)](https://open.spotify.com/album/3rgMcFv6xeNkm1snY39kl1) | 12:00 | 2026-04-10 |  |
 | [MOUNTAINS TREMBLE \- Live](https://open.spotify.com/track/1JiH8Y5VAjuGmkcYPIHAaq) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM), [SteveHills](https://open.spotify.com/artist/6EaWQoRFKjzdn9YzlDO89M) | [MOUNTAINS TREMBLE \(Live\)](https://open.spotify.com/album/0HphhcaxBy5xWyGWLpXS9x) | 14:12 | 2026-03-06 |  |
 | [Moy’ Oyingcwele \(Live\)](https://open.spotify.com/track/710zL5SAbc6dbHEsLiBwME) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Ayanda Ntanzi](https://open.spotify.com/artist/3NXb9zGCEqzY4iDccRB3Hw) | [Moy’ Oyingcwele \(Live\)](https://open.spotify.com/album/2kxH7Iei0VyjWOGydkLUbu) | 8:20 | 2024-02-23 | 2026-03-06 |
 | [Mwenye Uwezo \- Live](https://open.spotify.com/track/4RcqL9xk4v0PbbuEaCJxVv) | [Dr Sarah K](https://open.spotify.com/artist/2hlY2NLf8yoTXrIhmxRUNm), [Shachah Team](https://open.spotify.com/artist/6mx6zAmXuabDmkBY91jpXy) | [Mwenye Uwezo](https://open.spotify.com/album/1vuXnAygU80Nr9hRTAvgjW) | 8:39 | 2025-04-18 | 2025-05-16 |

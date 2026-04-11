@@ -11561,6 +11561,28 @@
     },
     {
       "album": {
+        "name": "Resurrection Day",
+        "url": "https://open.spotify.com/album/0P4flUdG8mLq0DlPvhyFdj"
+      },
+      "artists": [
+        {
+          "name": "Evan Craft",
+          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
+        },
+        {
+          "name": "CBC Worship",
+          "url": "https://open.spotify.com/artist/5MxBiVHfkb8O6bC6fU3UhD"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299529,
+      "name": "Resurrection Day",
+      "url": "https://open.spotify.com/track/1CzOi1tRZa50f5htugDDKV"
+    },
+    {
+      "album": {
         "name": "Resurrection Power (Live)",
         "url": "https://open.spotify.com/album/0lHvcs4Z9YkSLGzq6iPUdp"
       },

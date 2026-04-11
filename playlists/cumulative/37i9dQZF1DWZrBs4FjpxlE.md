@@ -4,7 +4,7 @@
 
 > we got you\. Cover: Post Malone
 
-196 songs - 9 hr 37 min
+198 songs - 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Calling My Phone](https://open.spotify.com/track/3J8EOeKLTLXORtWPpOU5bE) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Destined 2 Win](https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ) | 3:25 | 2023-08-07 |  |
 | [Candles](https://open.spotify.com/track/1wa6QQsdSE3X2GbRljGpFk) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Goodbye & Good Riddance](https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ) | 3:03 | 2024-02-23 | 2026-01-15 |
 | [Central Park](https://open.spotify.com/track/5CSCpV7F9ZJZqFTOYxGoAw) | [Vwillz](https://open.spotify.com/artist/0S7eN9KAsbAaIZtFyCn1q1), [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [Central Park](https://open.spotify.com/album/50VY4hGQOZYKjDNsEo7pOT) | 2:49 | 2025-03-28 | 2026-01-15 |
-| [Chasing Stars](https://open.spotify.com/track/4gys49LNMqJd3gf3Fog8Tg) | [Sik World](https://open.spotify.com/artist/39G9Mcs99KhOEtVuthwztS) | [Chasing Stars](https://open.spotify.com/album/5ii142qhDvWAfA9BG3gjTb) | 2:09 | 2026-02-27 |  |
+| [Chasing Stars](https://open.spotify.com/track/4gys49LNMqJd3gf3Fog8Tg) | [Sik World](https://open.spotify.com/artist/39G9Mcs99KhOEtVuthwztS) | [Chasing Stars](https://open.spotify.com/album/5ii142qhDvWAfA9BG3gjTb) | 2:09 | 2026-02-27 | 2026-04-11 |
 | [Chicago Freestyle \(feat\. Giveon\)](https://open.spotify.com/track/4wVOKKEHUJxHCFFNUWDn0B) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Dark Lane Demo Tapes](https://open.spotify.com/album/6OQ9gBfg5EXeNAEwGSs6jK) | 3:40 | 2023-08-07 |  |
 | [Chosen 1](https://open.spotify.com/track/40QrLHWdsxyXLAdjJG4Rxs) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Die A Legend](https://open.spotify.com/album/26ztFK3E69j5THJQdyxC5w) | 2:07 | 2023-08-07 |  |
 | [Close Friends \(Lil Baby & Gunna\)](https://open.spotify.com/track/5nzhL67GpF9szXWg5y509A) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Drip Harder](https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81) | 3:23 | 2023-08-18 |  |
@@ -45,6 +45,7 @@
 | [control](https://open.spotify.com/track/08Dzq5yOCVQzGcsGp5egm5) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ) | [all my bad feelings](https://open.spotify.com/album/2bEwaSsN7sejL5mHncKsBH) | 3:15 | 2024-02-23 |  |
 | [Cruel](https://open.spotify.com/track/4vMaUYpkdmOKPzqLnQsBx6) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [PISCES](https://open.spotify.com/album/7nktQKQFOMkh40iOTOzzBS) | 3:00 | 2025-04-25 | 2025-05-10 |
 | [Daylight](https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight](https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv) | 3:32 | 2023-08-07 |  |
+| [DEAD & GONE](https://open.spotify.com/track/65kpSQ8VwRcgHRH8Qyrigq) | [Sik World](https://open.spotify.com/artist/39G9Mcs99KhOEtVuthwztS) | [DEAD & GONE](https://open.spotify.com/album/0TtDwZpIy4msmkkSc8s7xx) | 2:56 | 2026-04-10 |  |
 | [Dead and Cold](https://open.spotify.com/track/33LizV83s7z1gwtmLiKlmv) | [SadBoyProlific](https://open.spotify.com/artist/0inkJpjAKDnQOv2VHBCU0Z) | [Dead and Cold](https://open.spotify.com/album/48ydOppyPEiQuWz8MbGLuU) | 1:29 | 2024-02-23 |  |
 | [Dead Roses](https://open.spotify.com/track/0T3bi3vnjpTQmLuz8Y9vOm) | [Scorey](https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb) | [Dead Roses](https://open.spotify.com/album/74wfvw11T1A2HNDQTi2nxL) | 2:02 | 2025-02-14 | 2025-05-31 |
 | [demon in disguise](https://open.spotify.com/track/2WTUmcQ0WKIIALr3ZtLjoT) | [Dead RoseZzz](https://open.spotify.com/artist/0PiOMEDCzza0Wx28spFAre), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c), [sundwn](https://open.spotify.com/artist/7Bkr0jXyQGFIiNEyD7MYRH) | [demon in disguise](https://open.spotify.com/album/2zFin6A36rULP0y6WGiu1J) | 1:48 | 2025-08-01 | 2025-08-16 |
@@ -96,6 +97,7 @@
 | [House On Fire](https://open.spotify.com/track/5RZr7XkmM2iMtNjxApbS8n) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [House On Fire](https://open.spotify.com/album/5AWBcDTeoE569GmknHWFN9) | 3:05 | 2024-02-16 |  |
 | [How Do I Say Goodbye](https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [How Do I Say Goodbye](https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp) | 2:43 | 2023-08-07 | 2025-11-08 |
 | [I](https://open.spotify.com/track/4ZT9FnbFu1PaBfV3itxiqT) | [Lil Skies](https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo) | [Shelby](https://open.spotify.com/album/47FalEKu0of8GExDtZBkxT) | 3:01 | 2024-02-23 |  |
+| [I can't navigate without you](https://open.spotify.com/track/2wVjVDuoWd4Xuda5TUE7jN) | [The Lofi Library Club](https://open.spotify.com/artist/6UTvHt9BMpap2a9g5A6QQM), [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c), [Thomas Reid](https://open.spotify.com/artist/0dcxj82ddksd6tDDcJgbqo) | [I can't navigate without you](https://open.spotify.com/album/1iAD69HBtxscuwNMBpoXmH) | 3:05 | 2026-04-10 |  |
 | [I Fall Apart](https://open.spotify.com/track/75ZvA4QfFiZvzhj2xkaWAh) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Stoney \(Deluxe\)](https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC) | 3:43 | 2023-08-07 |  |
 | [i won't live forever](https://open.spotify.com/track/7BOTAsFUDxqriXuhoddUm7) | [Fat Nick](https://open.spotify.com/artist/5dfFr2qhmXQLvHZqg0dynx) | [i won't live forever](https://open.spotify.com/album/031A1BdfESmR6Yimo5YwOt) | 1:40 | 2025-11-14 |  |
 | [idfc](https://open.spotify.com/track/6y6jbcPG4Yn3Du4moXaenr) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [deadroses](https://open.spotify.com/album/1TkwzY3l4LqAfrQwBAx45Q) | 4:05 | 2024-02-23 |  |
@@ -129,7 +131,7 @@
 | [Love Me More](https://open.spotify.com/track/6uYgCE2OEulOw5zhHvZsHf) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [A Love Letter To You 4](https://open.spotify.com/album/0tKX7BLXiiRgXUKYdJzjEz) | 2:23 | 2024-02-23 | 2026-01-15 |
 | [Love Scars](https://open.spotify.com/track/0AICBlLzFCTpUqmAbtzB2z) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [A Love Letter To You](https://open.spotify.com/album/7ae73nWyKrrH9wwGm97RIA) | 2:23 | 2024-02-23 |  |
 | [M.I.A](https://open.spotify.com/track/1ZbqMOwnekdRTgN7HIN72l) | [HunnaV](https://open.spotify.com/artist/0l0gRnqPszmcf6NQKcyuWH), [Chyde](https://open.spotify.com/artist/5webehDlzqsSapoO8wmwNA) | [M.I.A](https://open.spotify.com/album/6zYX2mLmLR7ro7eEX4lKGU) | 2:08 | 2025-02-14 | 2025-04-12 |
-| [Make You Stay](https://open.spotify.com/track/27nrdUSV3A2FmnXUUvPnbM) | [Sik World](https://open.spotify.com/artist/39G9Mcs99KhOEtVuthwztS) | [Some Sad Songs](https://open.spotify.com/album/1ds7LPYGFxM5U8AUA62qp9) | 2:30 | 2025-11-07 |  |
+| [Make You Stay](https://open.spotify.com/track/27nrdUSV3A2FmnXUUvPnbM) | [Sik World](https://open.spotify.com/artist/39G9Mcs99KhOEtVuthwztS) | [Some Sad Songs](https://open.spotify.com/album/1ds7LPYGFxM5U8AUA62qp9) | 2:30 | 2025-11-07 | 2026-04-11 |
 | [Martin & Gina](https://open.spotify.com/track/1VLtjHwRWOVJiE5Py7JxoQ) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [THE GOAT](https://open.spotify.com/album/39xhYyNNDatQtgKw2KdXMz) | 2:12 | 2023-08-07 | 2026-01-15 |
 | [Marvins Room](https://open.spotify.com/track/047fCsbO4NdmwCBn8pcUXl) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Take Care \(Deluxe\)](https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q) | 5:47 | 2023-08-07 |  |
 | [Me and My Guitar](https://open.spotify.com/track/6cZH4rX1KTt1aJ3Ql6Ynja) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Artist 2.0](https://open.spotify.com/album/0cZAE6guibfcYmTZD7hiae) | 2:41 | 2024-02-23 |  |

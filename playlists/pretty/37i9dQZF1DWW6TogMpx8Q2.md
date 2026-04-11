@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6TogMpx8Q2.md) - [plain]
 
 > Biggest Cantopop MV Hits! MVs only available for Spotify premium subscribers\.  Cover: Pakho Chau
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,220 likes - 88 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,219 likes - 88 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

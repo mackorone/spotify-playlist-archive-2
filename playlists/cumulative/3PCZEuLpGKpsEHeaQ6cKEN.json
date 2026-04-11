@@ -1019,6 +1019,32 @@
     },
     {
       "album": {
+        "name": "All Things Go",
+        "url": "https://open.spotify.com/album/3v3eGp5roAE526aFaeHgHP"
+      },
+      "artists": [
+        {
+          "name": "Madism",
+          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
+        },
+        {
+          "name": "YORK",
+          "url": "https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q"
+        },
+        {
+          "name": "NEIMY",
+          "url": "https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195600,
+      "name": "All Things Go",
+      "url": "https://open.spotify.com/track/5zRzH31eNesILtPWZfs5XK"
+    },
+    {
+      "album": {
         "name": "All This Time Alone",
         "url": "https://open.spotify.com/album/7zelNlPuN1e264IHe1d2p4"
       },
@@ -36570,6 +36596,10 @@
         {
           "name": "Olive Anguz",
           "url": "https://open.spotify.com/artist/3d0AuH83bH58zFUU7Z1hMk"
+        },
+        {
+          "name": "Project Zeitgeist",
+          "url": "https://open.spotify.com/artist/6Fryg7OCCsApuKUvkcGVg3"
         }
       ],
       "date_added": "2026-04-10",

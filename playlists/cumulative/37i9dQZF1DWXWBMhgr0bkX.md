@@ -4,7 +4,7 @@
 
 > Homegrown emerging pop 🃏<br/>cover: Debbie & Victor Ray
 
-1,099 songs - 2 day 8 hr 23 min
+1,099 songs - 2 day 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -615,6 +615,7 @@
 | [looking for you](https://open.spotify.com/track/3PuHNz5VJXwGoWisr7Fpvi) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [looking for you](https://open.spotify.com/album/66Gsdt1XXTPPsTWE0LSuMz) | 3:22 | 2025-07-24 | 2025-08-22 |
 | [Loose Change](https://open.spotify.com/track/0dlb8Y5hR9mKMco9TV5rTj) | [Ellie Dixon](https://open.spotify.com/artist/4mvJltDSlBawXCZhq6NAso) | [Loose Change](https://open.spotify.com/album/5WeJmwblXi85RBcOH1OtJk) | 2:58 | 2025-05-22 | 2025-06-27 |
 | [Lose Yourself](https://open.spotify.com/track/6soowAK2q88ThzrteFWCvs) | [Tamzene](https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL) | [In Any Weather](https://open.spotify.com/album/7JVbiQvA7MlTyLUPVYAltK) | 3:06 | 2024-08-16 | 2024-11-09 |
+| [Lost In The Woods](https://open.spotify.com/track/1j35t4oAGJegJ7IPcSET5f) | [Ava Joe](https://open.spotify.com/artist/1kExWfjjFzo8vNlmtBjCdj) | [Big Beautiful Mess EP](https://open.spotify.com/album/3jDay65YOB4zly3tQlXAcU) | 2:25 | 2026-04-10 |  |
 | [Lost In Your Blues](https://open.spotify.com/track/6IROP7Z00gxFrJvKHwE1uS) | [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [Lost In Your Blues](https://open.spotify.com/album/0B0TyWChnMZqsvYUxGbpeg) | 2:48 | 2026-04-03 |  |
 | [Lost You Again](https://open.spotify.com/track/1gg8yb0bUGrE58OyOg1WJa) | [Millie Turner](https://open.spotify.com/artist/53GC8IrnkJXGO7znOiv4tD) | [Lost You Again](https://open.spotify.com/album/1FncFecv4T6PmdXvLw7ZIB) | 3:06 | 2025-05-22 | 2025-06-06 |
 | [Love Bites Back](https://open.spotify.com/track/7uL0VRG67JdPMw9uDg3FWE) | [Lusaint](https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7) | [Love Bites Back](https://open.spotify.com/album/1r7EMLI4RNk6vZjcKy5Son) | 3:11 | 2026-03-13 |  |
@@ -1027,7 +1028,6 @@
 | [Touch You](https://open.spotify.com/track/1yHA6PUuNPGxlNIy7gQ6bH) | [Georgie & Joe](https://open.spotify.com/artist/4Uee7Zpi0edS5rCn8fKbtH) | [What I made with Joe](https://open.spotify.com/album/2D1gXzXVm3wbcjf3sEQjwV) | 2:53 | 2025-05-22 | 2025-06-27 |
 | [Touching Toes](https://open.spotify.com/track/5qnVigvU1R795fr1HOSXzY) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Touching Toes](https://open.spotify.com/album/0D0xkZxhnjgjCmewvAXG3E) | 2:12 | 2024-11-15 | 2025-02-07 |
 | [traces](https://open.spotify.com/track/3Jwty961fAsNPRzX3O2GPi) | [TYLER LEWIS](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [traces](https://open.spotify.com/album/6LMSl2csKzVIpHUFOZBX1f) | 3:25 | 2025-06-26 | 2025-07-25 |
-| [Track 5](https://open.spotify.com/track/1j35t4oAGJegJ7IPcSET5f) | [Ava Joe](https://open.spotify.com/artist/1kExWfjjFzo8vNlmtBjCdj) | [Big Beautiful Mess EP](https://open.spotify.com/album/3jDay65YOB4zly3tQlXAcU) | 0:00 | 2026-04-10 |  |
 | [trespass coat](https://open.spotify.com/track/3k7xPFq7aSnzdRP97poVrU) | [Niko B](https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk), [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [trespass coat](https://open.spotify.com/album/7vYuuDbmApHB4WfktjqYp1) | 3:27 | 2024-06-04 | 2024-08-31 |
 | [Trophy](https://open.spotify.com/track/54r9LQzaIxObTwYrD6u5pk) | [Benjamin Steer](https://open.spotify.com/artist/3AsjkwNrs6gHBh3tYXxiNH) | [Trophy](https://open.spotify.com/album/768Zf5FplAHg9Izsq1KB9Z) | 3:08 | 2026-01-02 | 2026-02-13 |
 | [Troy](https://open.spotify.com/track/2KVj7oGzV2LFjxO72z1FX1) | [Tonia](https://open.spotify.com/artist/2udDMeED34yYfxCs2bvEXx) | [The Songs We Wrote In Norfolk](https://open.spotify.com/album/6MEFQmsSR3YOQXzYnDMw6T) | 2:05 | 2026-01-23 | 2026-03-06 |

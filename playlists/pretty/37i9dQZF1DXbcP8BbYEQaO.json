@@ -1,13 +1,29 @@
 {
   "description": "Pop for neon streets, rainy windows, and everything you still feel after dark.",
-  "num_followers": 277407,
+  "num_followers": 277415,
   "original_name": "night pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAh3zTcn8s5GMdWCyG1dVd3OWShV",
+  "snapshot_id": "AAAAAOqZg27rAS5pNAL+ZU34RYhFZo+4",
   "tracks": [
+    {
+      "added_at": "2026-04-10 04:02:01",
+      "album": {
+        "name": "Big Disgrace",
+        "url": "https://open.spotify.com/album/3iyn2K7YlhKie8qrmUV6lS"
+      },
+      "artists": [
+        {
+          "name": "Haute & Freddy",
+          "url": "https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR"
+        }
+      ],
+      "duration_ms": 187658,
+      "name": "Shy Girl",
+      "url": "https://open.spotify.com/track/2LIOTreGvPk5GdpeGUqYIu"
+    },
     {
       "added_at": "2026-03-20 04:00:46",
       "album": {
@@ -25,10 +41,10 @@
       "url": "https://open.spotify.com/track/7pucKxQeLhLzu84oZLnkHf"
     },
     {
-      "added_at": "2026-02-13 05:00:48",
+      "added_at": "2026-04-10 04:02:01",
       "album": {
-        "name": "Lucky Again",
-        "url": "https://open.spotify.com/album/51she33GpvE2U3e6HZ41fD"
+        "name": "Sick Of Love",
+        "url": "https://open.spotify.com/album/2ETP833yyVmqvtnbnRHtxb"
       },
       "artists": [
         {
@@ -36,9 +52,25 @@
           "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
         }
       ],
-      "duration_ms": 181550,
-      "name": "Lucky Again",
-      "url": "https://open.spotify.com/track/0n63xAny4NjxRNgKnboEp8"
+      "duration_ms": 216933,
+      "name": "Sick Of Love",
+      "url": "https://open.spotify.com/track/6aPG5Atb3L3l8pZYzLrpEi"
+    },
+    {
+      "added_at": "2026-04-10 04:02:01",
+      "album": {
+        "name": "Metamorphosis",
+        "url": "https://open.spotify.com/album/40zbHbbtU3HyfigfSkYpJN"
+      },
+      "artists": [
+        {
+          "name": "Markella",
+          "url": "https://open.spotify.com/artist/2RMXPfuWbGwHulRBAHGqbt"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Metamorphosis",
+      "url": "https://open.spotify.com/track/0ceif8GsGZ3C2gjqx3feud"
     },
     {
       "added_at": "2026-02-13 05:00:48",
@@ -103,6 +135,38 @@
       "duration_ms": 216026,
       "name": "Pop",
       "url": "https://open.spotify.com/track/028i7HBfp8uE5epmx5ieMA"
+    },
+    {
+      "added_at": "2026-02-13 05:00:48",
+      "album": {
+        "name": "Lucky Again",
+        "url": "https://open.spotify.com/album/51she33GpvE2U3e6HZ41fD"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 181550,
+      "name": "Lucky Again",
+      "url": "https://open.spotify.com/track/0n63xAny4NjxRNgKnboEp8"
+    },
+    {
+      "added_at": "2026-04-10 04:02:01",
+      "album": {
+        "name": "Watch You Cry",
+        "url": "https://open.spotify.com/album/3051n3lHJtiS1XzjRB2xXP"
+      },
+      "artists": [
+        {
+          "name": "Hyd",
+          "url": "https://open.spotify.com/artist/3pYle1qnqjdGhG0agFZLj5"
+        }
+      ],
+      "duration_ms": 149048,
+      "name": "Watch You Cry",
+      "url": "https://open.spotify.com/track/58V9jnfzBFl02vdET97snL"
     },
     {
       "added_at": "2026-03-31 14:57:52",
@@ -525,38 +589,6 @@
       "url": "https://open.spotify.com/track/7BXW8CSXcjJtMDPE4uWPBX"
     },
     {
-      "added_at": "2026-01-09 05:00:44",
-      "album": {
-        "name": "Lonely Touch",
-        "url": "https://open.spotify.com/album/3bTsSlLyqN9zKDR1JBXjYM"
-      },
-      "artists": [
-        {
-          "name": "Sarah Kinsley",
-          "url": "https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC"
-        }
-      ],
-      "duration_ms": 201813,
-      "name": "Lonely Touch",
-      "url": "https://open.spotify.com/track/1lQhXkh6tMrYYvIOAv6GNX"
-    },
-    {
-      "added_at": "2025-11-14 05:00:39",
-      "album": {
-        "name": "Can't Stop Crying",
-        "url": "https://open.spotify.com/album/064aypRsPi41EtJ34uVykm"
-      },
-      "artists": [
-        {
-          "name": "Sarah Nimmo",
-          "url": "https://open.spotify.com/artist/2U6enUXvLRB7L29djdKqJO"
-        }
-      ],
-      "duration_ms": 184213,
-      "name": "Can't Stop Crying",
-      "url": "https://open.spotify.com/track/7uFkkSgTmYUfxmxR0U4S1G"
-    },
-    {
       "added_at": "2025-11-07 05:16:58",
       "album": {
         "name": "Things I Really Mean",
@@ -607,22 +639,6 @@
       "duration_ms": 220534,
       "name": "viscus (feat. FKA twigs)",
       "url": "https://open.spotify.com/track/3KjVtWWVEP1gmxosGb9u20"
-    },
-    {
-      "added_at": "2025-10-24 04:26:54",
-      "album": {
-        "name": "It\u2019s Not That Deep",
-        "url": "https://open.spotify.com/album/0bzP9iV2QbM6174JLfGxcc"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 183247,
-      "name": "Let You Go",
-      "url": "https://open.spotify.com/track/7uT7mlYS0R3Ujk5UB5ll0O"
     },
     {
       "added_at": "2025-09-27 19:03:23",
@@ -1043,22 +1059,6 @@
       "duration_ms": 177025,
       "name": "Blue Lagoon",
       "url": "https://open.spotify.com/track/3t5nTLIDZqxsNi1wAeLvFy"
-    },
-    {
-      "added_at": "2025-09-12 04:00:31",
-      "album": {
-        "name": "Impossible",
-        "url": "https://open.spotify.com/album/08IGuy0rN0SWQ6x3lXj21z"
-      },
-      "artists": [
-        {
-          "name": "Harley Huke",
-          "url": "https://open.spotify.com/artist/60AKTQShzHFnEz1ocRxB56"
-        }
-      ],
-      "duration_ms": 185401,
-      "name": "Impossible",
-      "url": "https://open.spotify.com/track/0WY7T4GSFh5Ky4cj9kYI2i"
     },
     {
       "added_at": "2025-05-16 04:00:11",

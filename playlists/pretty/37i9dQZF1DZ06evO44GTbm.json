@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adWagAAAAAB/lfVE+iFrYDyuYRMpSdb7",
+  "snapshot_id": "adbsAAAAAAC0FGeQHQIIbIL6A7+Za8Hu",
   "tracks": [
     {
       "added_at": null,
@@ -63,8 +63,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Earth Focus (Original Score)",
-        "url": "https://open.spotify.com/album/4CXZqn8Jlw6czJ8SIjWTxA"
+        "name": "Touchtheplants Presents Sound Wonders: A Series of Epics",
+        "url": "https://open.spotify.com/album/48HS17T60jMIBsS1CuFmO5"
       },
       "artists": [
         {
@@ -72,9 +72,9 @@
           "url": "https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0"
         }
       ],
-      "duration_ms": 196000,
-      "name": "How We Got Here",
-      "url": "https://open.spotify.com/track/3c4SGPUxFrVg0gEqsUxyvW"
+      "duration_ms": 301693,
+      "name": "Moss II",
+      "url": "https://open.spotify.com/track/7mYRf9giLNW3IcocHXZ1yJ"
     },
     {
       "added_at": null,
@@ -131,42 +131,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Touchtheplants Presents Sound Wonders: A Series of Epics",
-        "url": "https://open.spotify.com/album/48HS17T60jMIBsS1CuFmO5"
-      },
-      "artists": [
-        {
-          "name": "Elori Saxl",
-          "url": "https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0"
-        }
-      ],
-      "duration_ms": 301693,
-      "name": "Moss II",
-      "url": "https://open.spotify.com/track/7mYRf9giLNW3IcocHXZ1yJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Seeing Is Forgetting",
-        "url": "https://open.spotify.com/album/3HKaS5uR80yGC1SW34d4ll"
-      },
-      "artists": [
-        {
-          "name": "Elori Saxl",
-          "url": "https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0"
-        },
-        {
-          "name": "Henry Solomon",
-          "url": "https://open.spotify.com/artist/65dR9mWSEKojt3aFbevjrR"
-        }
-      ],
-      "duration_ms": 216373,
-      "name": "Seeing Is Forgetting",
-      "url": "https://open.spotify.com/track/19iE95ZowwXzcMaLZNcWyn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Earth Focus (Original Score)",
         "url": "https://open.spotify.com/album/4CXZqn8Jlw6czJ8SIjWTxA"
       },
@@ -176,41 +140,9 @@
           "url": "https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0"
         }
       ],
-      "duration_ms": 121000,
-      "name": "Architectural Plans",
-      "url": "https://open.spotify.com/track/2rdH4Nn2qne7ZzjTJ6YkaE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Texada (Original Score)",
-        "url": "https://open.spotify.com/album/6k5BAI9sWhz4wCeIXx7Qv5"
-      },
-      "artists": [
-        {
-          "name": "Elori Saxl",
-          "url": "https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "The Most Special Place",
-      "url": "https://open.spotify.com/track/3RWe9Gwus561ZMZ7hUSMXm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Blue of Distance",
-        "url": "https://open.spotify.com/album/2fgYV6cTjFeqb0yPbj4piy"
-      },
-      "artists": [
-        {
-          "name": "Elori Saxl",
-          "url": "https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0"
-        }
-      ],
-      "duration_ms": 160056,
-      "name": "Wave II",
-      "url": "https://open.spotify.com/track/5ZCJVsOclucOcF3WjgqhHP"
+      "duration_ms": 196000,
+      "name": "How We Got Here",
+      "url": "https://open.spotify.com/track/3c4SGPUxFrVg0gEqsUxyvW"
     },
     {
       "added_at": null,
@@ -235,6 +167,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Blue of Distance",
+        "url": "https://open.spotify.com/album/2fgYV6cTjFeqb0yPbj4piy"
+      },
+      "artists": [
+        {
+          "name": "Elori Saxl",
+          "url": "https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0"
+        }
+      ],
+      "duration_ms": 160056,
+      "name": "Wave II",
+      "url": "https://open.spotify.com/track/5ZCJVsOclucOcF3WjgqhHP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Texada (Original Score)",
+        "url": "https://open.spotify.com/album/6k5BAI9sWhz4wCeIXx7Qv5"
+      },
+      "artists": [
+        {
+          "name": "Elori Saxl",
+          "url": "https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "The Most Special Place",
+      "url": "https://open.spotify.com/track/3RWe9Gwus561ZMZ7hUSMXm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Earth Focus (Original Score)",
         "url": "https://open.spotify.com/album/4CXZqn8Jlw6czJ8SIjWTxA"
       },
@@ -244,9 +208,45 @@
           "url": "https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0"
         }
       ],
-      "duration_ms": 208000,
-      "name": "Scale the Model",
-      "url": "https://open.spotify.com/track/2q043oMJNvZJ9zYe1U3hw0"
+      "duration_ms": 121000,
+      "name": "Architectural Plans",
+      "url": "https://open.spotify.com/track/2rdH4Nn2qne7ZzjTJ6YkaE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seeing Is Forgetting",
+        "url": "https://open.spotify.com/album/3HKaS5uR80yGC1SW34d4ll"
+      },
+      "artists": [
+        {
+          "name": "Elori Saxl",
+          "url": "https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0"
+        },
+        {
+          "name": "Henry Solomon",
+          "url": "https://open.spotify.com/artist/65dR9mWSEKojt3aFbevjrR"
+        }
+      ],
+      "duration_ms": 216373,
+      "name": "Seeing Is Forgetting",
+      "url": "https://open.spotify.com/track/19iE95ZowwXzcMaLZNcWyn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Blue of Distance",
+        "url": "https://open.spotify.com/album/2fgYV6cTjFeqb0yPbj4piy"
+      },
+      "artists": [
+        {
+          "name": "Elori Saxl",
+          "url": "https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0"
+        }
+      ],
+      "duration_ms": 425495,
+      "name": "The Blue of Distance",
+      "url": "https://open.spotify.com/track/6ZWKWSVd57ofFsgEez8aI6"
     },
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Blue of Distance",
-        "url": "https://open.spotify.com/album/2fgYV6cTjFeqb0yPbj4piy"
+        "name": "Earth Focus (Original Score)",
+        "url": "https://open.spotify.com/album/4CXZqn8Jlw6czJ8SIjWTxA"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0"
         }
       ],
-      "duration_ms": 425495,
-      "name": "The Blue of Distance",
-      "url": "https://open.spotify.com/track/6ZWKWSVd57ofFsgEez8aI6"
+      "duration_ms": 208000,
+      "name": "Scale the Model",
+      "url": "https://open.spotify.com/track/2q043oMJNvZJ9zYe1U3hw0"
     },
     {
       "added_at": null,
@@ -303,8 +303,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Earth Focus (Original Score)",
-        "url": "https://open.spotify.com/album/4CXZqn8Jlw6czJ8SIjWTxA"
+        "name": "The Blue of Distance",
+        "url": "https://open.spotify.com/album/2fgYV6cTjFeqb0yPbj4piy"
       },
       "artists": [
         {
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0"
         }
       ],
-      "duration_ms": 115000,
-      "name": "Shorter Lifespan",
-      "url": "https://open.spotify.com/track/0oDB8Ze5Bm1frei1awKXtZ"
+      "duration_ms": 91855,
+      "name": "Before Blue",
+      "url": "https://open.spotify.com/track/05yney4nfLhGR1UVhIBVib"
     },
     {
       "added_at": null,
@@ -335,8 +335,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Blue of Distance",
-        "url": "https://open.spotify.com/album/2fgYV6cTjFeqb0yPbj4piy"
+        "name": "Earth Focus (Original Score)",
+        "url": "https://open.spotify.com/album/4CXZqn8Jlw6czJ8SIjWTxA"
       },
       "artists": [
         {
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0"
         }
       ],
-      "duration_ms": 91855,
-      "name": "Before Blue",
-      "url": "https://open.spotify.com/track/05yney4nfLhGR1UVhIBVib"
+      "duration_ms": 115000,
+      "name": "Shorter Lifespan",
+      "url": "https://open.spotify.com/track/0oDB8Ze5Bm1frei1awKXtZ"
     },
     {
       "added_at": null,
@@ -367,6 +367,38 @@
       "duration_ms": 275000,
       "name": "Raindrops",
       "url": "https://open.spotify.com/track/3EErgq0XAaJNoUPU3Xd4Dr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Blue of Distance",
+        "url": "https://open.spotify.com/album/2fgYV6cTjFeqb0yPbj4piy"
+      },
+      "artists": [
+        {
+          "name": "Elori Saxl",
+          "url": "https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0"
+        }
+      ],
+      "duration_ms": 698514,
+      "name": "Memory of Blue",
+      "url": "https://open.spotify.com/track/1NXcoT10xZSw1fjqKfY9qt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Drifts and Surfaces",
+        "url": "https://open.spotify.com/album/6CRaegrVWfzQ6wneCbUoxA"
+      },
+      "artists": [
+        {
+          "name": "Elori Saxl",
+          "url": "https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0"
+        }
+      ],
+      "duration_ms": 346560,
+      "name": "Surfaces",
+      "url": "https://open.spotify.com/track/3AOGToArEclNahkwA3k21d"
     },
     {
       "added_at": null,
@@ -396,25 +428,9 @@
           "url": "https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0"
         }
       ],
-      "duration_ms": 346560,
-      "name": "Surfaces",
-      "url": "https://open.spotify.com/track/3AOGToArEclNahkwA3k21d"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Blue of Distance",
-        "url": "https://open.spotify.com/album/2fgYV6cTjFeqb0yPbj4piy"
-      },
-      "artists": [
-        {
-          "name": "Elori Saxl",
-          "url": "https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0"
-        }
-      ],
-      "duration_ms": 698514,
-      "name": "Memory of Blue",
-      "url": "https://open.spotify.com/track/1NXcoT10xZSw1fjqKfY9qt"
+      "duration_ms": 328165,
+      "name": "Drifts II",
+      "url": "https://open.spotify.com/track/143Uu2ssw2p9to2BNXcdjV"
     },
     {
       "added_at": null,
@@ -431,22 +447,6 @@
       "duration_ms": 114000,
       "name": "Concrete River",
       "url": "https://open.spotify.com/track/0kWyDMdwYXMiN0ROB46xl7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Drifts and Surfaces",
-        "url": "https://open.spotify.com/album/6CRaegrVWfzQ6wneCbUoxA"
-      },
-      "artists": [
-        {
-          "name": "Elori Saxl",
-          "url": "https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0"
-        }
-      ],
-      "duration_ms": 328165,
-      "name": "Drifts II",
-      "url": "https://open.spotify.com/track/143Uu2ssw2p9to2BNXcdjV"
     }
   ],
   "unique_name": "This Is Elori Saxl",

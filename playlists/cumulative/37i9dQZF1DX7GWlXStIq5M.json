@@ -2211,6 +2211,24 @@
     },
     {
       "album": {
+        "name": "Aventura",
+        "url": "https://open.spotify.com/album/6lL0eADSuVdFVOJU1MqnUj"
+      },
+      "artists": [
+        {
+          "name": "GABI LINS",
+          "url": "https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164522,
+      "name": "Aventura",
+      "url": "https://open.spotify.com/track/4QGKXCioYPLw98pJ8Tmoi6"
+    },
+    {
+      "album": {
         "name": "Avi\u00e3o",
         "url": "https://open.spotify.com/album/3qB0aw6UmDycNX9pWvyjXf"
       },
@@ -5999,6 +6017,24 @@
     },
     {
       "album": {
+        "name": "DESERTO",
+        "url": "https://open.spotify.com/album/4pCHTiebQ0vBR6J9rxuP3h"
+      },
+      "artists": [
+        {
+          "name": "EDDU",
+          "url": "https://open.spotify.com/artist/5yB3X7Vo6OL6PERnrgkjo5"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164020,
+      "name": "DESERTO",
+      "url": "https://open.spotify.com/track/6hEkDtfkyMDRty3HBwQAal"
+    },
+    {
+      "album": {
         "name": "MELODRAM\u00c1TICO",
         "url": "https://open.spotify.com/album/2k78WzHmrbWkRfTtACqLP0"
       },
@@ -6032,7 +6068,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 213719,
       "name": "Desmitificar",
       "url": "https://open.spotify.com/track/5h2S4Tob1xXcUiSxjMHb2B"
@@ -9958,7 +9994,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 133846,
       "name": "IMAGINA",
       "url": "https://open.spotify.com/track/7o7rLBI5mkdpnrDbKi6HrN"
@@ -11079,6 +11115,24 @@
     },
     {
       "album": {
+        "name": "BRUTAL PARA\u00cdSO",
+        "url": "https://open.spotify.com/album/3MhU6GRGIRgdjoDgltogAQ"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192766,
+      "name": "Loira Gelada",
+      "url": "https://open.spotify.com/track/2p68vxFhBV5MMVaGkiKqkc"
+    },
+    {
+      "album": {
         "name": "LolOLove (feat. Pabllo Vittar)",
         "url": "https://open.spotify.com/album/7pxIQkKtEabdKufRaYJ00G"
       },
@@ -11646,6 +11700,24 @@
       "duration_ms": 238374,
       "name": "Mande um Sinal - Ac\u00fastico",
       "url": "https://open.spotify.com/track/3YlRl5CQICgg17tb6rIXXB"
+    },
+    {
+      "album": {
+        "name": "Manh\u00e3 de Sol",
+        "url": "https://open.spotify.com/album/3112UESU5WJFX24ulal6XM"
+      },
+      "artists": [
+        {
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181666,
+      "name": "Manh\u00e3 de Sol",
+      "url": "https://open.spotify.com/track/6IK8FcpWZ1j6VJvAqnjH0g"
     },
     {
       "album": {
@@ -13931,6 +14003,28 @@
     },
     {
       "album": {
+        "name": "No Mar",
+        "url": "https://open.spotify.com/album/0UIt3RBifk0pziphGUHL2i"
+      },
+      "artists": [
+        {
+          "name": "J\u00e1der",
+          "url": "https://open.spotify.com/artist/4kZNQjkGZ4VVovVaFvE1xa"
+        },
+        {
+          "name": "Tot\u00f4 de Babalong",
+          "url": "https://open.spotify.com/artist/0zsgeSGGHL9FLxTBcfNd2x"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171194,
+      "name": "No Mar",
+      "url": "https://open.spotify.com/track/3Wc384GdmbSP2XQGRGrZHh"
+    },
+    {
+      "album": {
         "name": "no seu tempo",
         "url": "https://open.spotify.com/album/53O6paNKGZJT6rnyQuZaSg"
       },
@@ -14129,7 +14223,7 @@
     },
     {
       "album": {
-        "name": "NOVA | EP #01 - Energia",
+        "name": "Nova: Energia",
         "url": "https://open.spotify.com/album/5bwXJ7z9FAv0Tyw9v8Zcy8"
       },
       "artists": [
@@ -14154,7 +14248,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 168000,
-      "name": "NOVA | EP #01 - Energia",
+      "name": "Nova: Energia",
       "url": "https://open.spotify.com/track/6r1xdekDojx9KtBrzTOLbj"
     },
     {
@@ -14398,7 +14492,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 175258,
       "name": "N\u00e3o pense",
       "url": "https://open.spotify.com/track/0NjqpVIPCSNvzobWScfi8r"
@@ -15566,7 +15660,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 161754,
       "name": "PARECE OUTRA VIDA",
       "url": "https://open.spotify.com/track/49k1W5UyAoAn9aoFoQTUzO"
@@ -15928,7 +16022,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 235753,
       "name": "pensando direito",
       "url": "https://open.spotify.com/track/57FSQIGpI6WZm4ko6mGOVJ"
@@ -19233,6 +19327,28 @@
     },
     {
       "album": {
+        "name": "SAUDADE NUNCA \u00c9 DE GRA\u00c7A",
+        "url": "https://open.spotify.com/album/0d7XWCHJkT3aPtVt1BLDKS"
+      },
+      "artists": [
+        {
+          "name": "Maip\u00ea",
+          "url": "https://open.spotify.com/artist/29TGZb5S8iVFN9HzowvnPV"
+        },
+        {
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174250,
+      "name": "SAUDADE NUNCA \u00c9 DE GRA\u00c7A",
+      "url": "https://open.spotify.com/track/7r8wOSXABuVgD0z9ABWey1"
+    },
+    {
+      "album": {
         "name": "Say So (feat. Nicki Minaj)",
         "url": "https://open.spotify.com/album/2cpCmPs5Efp7w7Cv0LKcuG"
       },
@@ -19880,7 +19996,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 183337,
       "name": "sera que esse \u00e9 mesmo o nosso fim?",
       "url": "https://open.spotify.com/track/2Xc19fnMBgpE2ZbguFEApF"
@@ -20280,7 +20396,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 181364,
       "name": "Sobre Voc\u00ea",
       "url": "https://open.spotify.com/track/5cEbaKKVzBHq2eCO5GhOuc"
@@ -22278,6 +22394,24 @@
       "duration_ms": 145653,
       "name": "Tudo Meu",
       "url": "https://open.spotify.com/track/4R7e0VeGP4ouYYd3fJIsH9"
+    },
+    {
+      "album": {
+        "name": "Tudo o que eu preciso",
+        "url": "https://open.spotify.com/album/4qgcTa8MFq2CTcY39Wlftz"
+      },
+      "artists": [
+        {
+          "name": "Ana Laura Lopes",
+          "url": "https://open.spotify.com/artist/0uGD30yANzeWbNUAQoiJF2"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182064,
+      "name": "Tudo o que eu preciso",
+      "url": "https://open.spotify.com/track/6EuZGtqXcAfejal7Ghvtrw"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les classiques du zouk. Photo : Fanny J",
+  "description": "Les classiques du zouk. Photo : Sla\u00ef",
   "name": "Zouk All Stars",
   "tracks": [
     {
@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Sensual",
+        "url": "https://open.spotify.com/album/4NHIwQDzq59aNz2hnqUpI4"
+      },
+      "artists": [
+        {
+          "name": "Marysa",
+          "url": "https://open.spotify.com/artist/15g2YTZ5MPzw6mG5JMzMc5"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271840,
+      "name": "Ali & Marisa (feat. Ali Angel)",
+      "url": "https://open.spotify.com/track/3SIa02aaUM5pWFGNBTYvsJ"
+    },
+    {
+      "album": {
         "name": "Premier souffle",
         "url": "https://open.spotify.com/album/6lBNyP8yReqPmafALc3DEi"
       },
@@ -110,7 +128,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 285693,
       "name": "Am\u00e9lia",
       "url": "https://open.spotify.com/track/6hwIYHgb4Xl4grmY8cojzx"
@@ -377,7 +395,7 @@
     },
     {
       "album": {
-        "name": "T\u00eates D'affiche Zouk Souvenirs",
+        "name": "T\u00eates d'affiche zouk souvenirs",
         "url": "https://open.spotify.com/album/7sdSaNo7dRwaacLk97gfNY"
       },
       "artists": [
@@ -522,10 +540,28 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 255986,
       "name": "Inmew' en secre",
       "url": "https://open.spotify.com/track/14usZZgfvUCisR6BUfLraq"
+    },
+    {
+      "album": {
+        "name": "Ma petite Lumi\u00e8re",
+        "url": "https://open.spotify.com/album/0og7t5Uho1Uu8K5JKU0ZZ0"
+      },
+      "artists": [
+        {
+          "name": "Jocelyne Labylle",
+          "url": "https://open.spotify.com/artist/6wWz1xebbpDxpRH7BniPwW"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271066,
+      "name": "J'ai d\u00e9pos\u00e9 les cl\u00e9s",
+      "url": "https://open.spotify.com/track/3JPDRSCXaddEw7lSzWwtdw"
     },
     {
       "album": {
@@ -548,6 +584,24 @@
       "duration_ms": 233746,
       "name": "J'ai trouv\u00e9 l'erreur",
       "url": "https://open.spotify.com/track/6U8V3gE0GhNcixbRzHt8oB"
+    },
+    {
+      "album": {
+        "name": "Vous les hommes",
+        "url": "https://open.spotify.com/album/02mxvQUtyiMKLMfnfjhaLD"
+      },
+      "artists": [
+        {
+          "name": "Fanny J",
+          "url": "https://open.spotify.com/artist/4UDmRorEV3n7LrvphaEKkw"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264146,
+      "name": "Je l'aime",
+      "url": "https://open.spotify.com/track/1tx7TlQK80d8YKx4WcZbO8"
     },
     {
       "album": {
@@ -984,7 +1038,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 216626,
       "name": "Okay",
       "url": "https://open.spotify.com/track/2Aylt5JHKRCkLZUMyw5hH9"
@@ -1028,10 +1082,36 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 197816,
       "name": "Ou L\u00e8",
       "url": "https://open.spotify.com/track/45p64coOj1vJMsg9r0TfhR"
+    },
+    {
+      "album": {
+        "name": "Ou Pa Ka Sav",
+        "url": "https://open.spotify.com/album/6OvKytxK7CDjn3ioCsdlhh"
+      },
+      "artists": [
+        {
+          "name": "Jean-Philippe Marthely",
+          "url": "https://open.spotify.com/artist/56M8FMGgcGcXYo5meN78Pz"
+        },
+        {
+          "name": "Patrick Saint-Eloi",
+          "url": "https://open.spotify.com/artist/4oxkuGlVLX6wq2RBTEdcSs"
+        },
+        {
+          "name": "Kassav'",
+          "url": "https://open.spotify.com/artist/3y21aFfQQ1Y9dALQLIJ4vj"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286346,
+      "name": "Pa Bizwen Pal\u00e9",
+      "url": "https://open.spotify.com/track/5PwZiRH3QiuDqv9rD6gDJt"
     },
     {
       "album": {
@@ -1191,6 +1271,24 @@
     },
     {
       "album": {
+        "name": "Si seulement",
+        "url": "https://open.spotify.com/album/1QN9euwE9Zy03msSr4IE6Q"
+      },
+      "artists": [
+        {
+          "name": "Edith Lefel",
+          "url": "https://open.spotify.com/artist/0nuevJYykJ4x09p8UIqmcS"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242866,
+      "name": "Si seulement",
+      "url": "https://open.spotify.com/track/200n4pv4B6L2LfcCaBcybk"
+    },
+    {
+      "album": {
         "name": "African Bohemian",
         "url": "https://open.spotify.com/album/7zClNRNTGr4SShXmsgxda1"
       },
@@ -1220,7 +1318,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 275250,
       "name": "Simplement",
       "url": "https://open.spotify.com/track/2iM4L4kVzYo9spCkvuNJ0k"
@@ -1371,6 +1469,32 @@
     },
     {
       "album": {
+        "name": "Hit tropical, Vol. 1",
+        "url": "https://open.spotify.com/album/0XVawdM87n7ntz6p9mXxBN"
+      },
+      "artists": [
+        {
+          "name": "Leila Chicot",
+          "url": "https://open.spotify.com/artist/30BfcSJWzhUo4QIlBVJ6PK"
+        },
+        {
+          "name": "Jocelyne Labylle",
+          "url": "https://open.spotify.com/artist/6wWz1xebbpDxpRH7BniPwW"
+        },
+        {
+          "name": "Sonia Dersion",
+          "url": "https://open.spotify.com/artist/0tP66iM8PDoyBOYxcpKn4E"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251693,
+      "name": "Tu disais\u2026",
+      "url": "https://open.spotify.com/track/52w3mnF0Mja5ObANzujxiK"
+    },
+    {
+      "album": {
         "name": "Juste Moi (Part 1)",
         "url": "https://open.spotify.com/album/1V7J9Y5b9z2V8BVdkvTfEo"
       },
@@ -1498,7 +1622,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 267666,
       "name": "Vini dou",
       "url": "https://open.spotify.com/track/3azdCW8QjHxMsbNzSmUNaa"

@@ -4,7 +4,7 @@
 
 > Bird sounds in the background
 
-171 songs - 9 hr 30 min
+172 songs - 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Birdsongs \- Scene 2](https://open.spotify.com/track/7g07ZG7iYJVhzxMv5KQ85B) | [Bird Robin](https://open.spotify.com/artist/6kZucHZMt1r4kux254FH9E) | [Birdsongs \(Time to Relax\)](https://open.spotify.com/album/5PSS2R1nI1LXnBhYETJSKw) | 10:38 | 2021-12-08 | 2022-02-04 |
 | [Blackbird morning](https://open.spotify.com/track/0GhCwjGzfDVwSlLv7qeEJa) | [Dream WIzard](https://open.spotify.com/artist/6ykiEbUBL5ud2RR3QY32o7) | [Blackbirds in Flen](https://open.spotify.com/album/5f7N3Ay802zhigEMFh6bc1) | 2:38 | 2024-08-23 | 2025-05-29 |
 | [Blackbird Singing](https://open.spotify.com/track/5AeEDodSqlthJpAdWD8hJq) | [Sounds on Earth](https://open.spotify.com/artist/0zAXRELdldn64qrWHARuzn) | [Wonderful Morning](https://open.spotify.com/album/4hq3hq5EBz2T0DmDo4hlFT) | 2:46 | 2022-07-04 | 2022-11-22 |
-| [blackbird spring ambience](https://open.spotify.com/track/1oU42Iu4KihKEpAV6fBVIp) | [Scandinavian Birds](https://open.spotify.com/artist/4XvR2kpgU1cJlUdOJx6OLN) | [Blackbird Spring Ambience](https://open.spotify.com/album/77vJilvSazMFD0Ly0yYX3h) | 1:42 | 2022-07-04 |  |
+| [blackbird spring ambience](https://open.spotify.com/track/1oU42Iu4KihKEpAV6fBVIp) | [Scandinavian Birds](https://open.spotify.com/artist/4XvR2kpgU1cJlUdOJx6OLN) | [Blackbird Spring Ambience](https://open.spotify.com/album/77vJilvSazMFD0Ly0yYX3h) | 1:42 | 2022-07-04 | 2026-04-11 |
 | [Calm Forest Birds](https://open.spotify.com/track/50pHWYGluK6qV5mXU128OK) | [Birdsongst](https://open.spotify.com/artist/013QQQC3ofg6o6fhfyvMiK) | [Neighborhood Birds FX](https://open.spotify.com/album/3RuOVBydoDyDJK3GYjnOM7) | 2:30 | 2023-06-19 | 2025-11-12 |
 | [Calm Summer Dusk at the Farm](https://open.spotify.com/track/5NQf4rqKwhCAjxybZZnxvM) | [Jan Berliner](https://open.spotify.com/artist/0iWEhQN4crcKwSpJsVDWz0) | [Calm Summer Dusk at the Farm](https://open.spotify.com/album/3SGRixB5ozgLvZgstXHdk1) | 2:30 | 2025-07-24 | 2026-04-06 |
 | [Calming Morning Birds](https://open.spotify.com/track/1hJO6JW80wv1DNMZq7djtw) | [Leonard Poole](https://open.spotify.com/artist/4GKxXMgOwnbnvJN797HsDO) | [Relaxing Morning in Hawaii](https://open.spotify.com/album/0sz8qDddys4gX8vt7ZCYfz) | 2:00 | 2024-08-23 | 2025-03-02 |
@@ -149,6 +149,7 @@
 | [Singing Birds \- In Swedish Forest](https://open.spotify.com/track/2Rgp3Ah2JcdzFcIruAhDuz) | [Wonderful Escape](https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T) | [Singing Birds](https://open.spotify.com/album/5CZDUlLtKopRhg7lFaknDG) | 1:00 | 2021-12-08 | 2022-07-05 |
 | [Singing For Hours](https://open.spotify.com/track/77NfYBAa0Skbyna65Rz0D8) | [Peaceful Birds](https://open.spotify.com/artist/772Y6DzYn0qwzVkbGe5qcK) | [Singing For Hours](https://open.spotify.com/album/1kpWbOWaf5K90Ql2IgrSSE) | 2:05 | 2024-08-23 | 2025-07-22 |
 | [Small Group of Loons](https://open.spotify.com/track/5fCGGIlQNz3cBvKiMCRnfB) | [Nature Sounds](https://open.spotify.com/artist/4NqS7DbPFYwZmniGHCPMpm) | [180 Nature Sounds](https://open.spotify.com/album/7rSeDxbt9mHcFcEisvhkqr) | 1:05 | 2021-12-08 | 2022-07-05 |
+| [Small River Stream in the Jungle](https://open.spotify.com/track/48iKn7tBRTh1iE0HSd9kSJ) | [Nicolas Gutierrez G.](https://open.spotify.com/artist/5blyFWCmmsbLdxQVRARv6x) | [Small River Stream in the Jungle](https://open.spotify.com/album/0S5qW479HpIwdekAYTFbcj) | 4:41 | 2026-04-02 |  |
 | [Soothing Morning Birds](https://open.spotify.com/track/3sZivg4AWg8IqDtiDD5o4x) | [KEI NATURE](https://open.spotify.com/artist/7vf8OYI2mqT5j58B6dK8my) | [Forest Bird Sounds Vol\. 2](https://open.spotify.com/album/7yy6Qew5fxV9dMJAYAmEnk) | 3:08 | 2021-12-08 | 2026-03-06 |
 | [Soulful Rainbirds](https://open.spotify.com/track/2VdvvqEYzxcqwvPYCVzNTA) | [Nature Advisor](https://open.spotify.com/artist/49v15Biw9XvZRUShSgK2aQ) | [Soulful Rainbirds](https://open.spotify.com/album/1P0Mpw5KwciuJ8KTpuYo0J) | 3:15 | 2026-04-02 |  |
 | [Sounds of Nature](https://open.spotify.com/track/7c5hPP0yYpBgXKFcmzZzLK) | [Nature Sounds Artists](https://open.spotify.com/artist/2wdilDjBFjtfm30BczhsPa) | [Nature Sounds: Ocean Waves, Forest Sounds, Rain, Soft Breezes Wind](https://open.spotify.com/album/265JVBSN2QBT7X0OnhJltv) | 4:14 | 2021-12-08 | 2022-07-05 |

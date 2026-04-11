@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 
 > Celebrating women at the center of innovation in electronic music\. Featuring Storm Mollison.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,941 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,954 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 | 97 | [Where Is My Angel](https://open.spotify.com/track/48ChqGVn3yIpcYWxfzPHfD) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v) | [Where Is My Angel](https://open.spotify.com/album/3BbOh6UaSYNbdSZbQdrCfd) | 4:25 |
 | 98 | [Romance](https://open.spotify.com/track/2uAo2AItW7yJFPBhcyfOhi) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [Romance](https://open.spotify.com/album/3ojz3uQI6fpYmHj3xBWSW3) | 4:16 |
 | 99 | [Fun Times](https://open.spotify.com/track/7LD3zycYhQNEkvSaDXwFv2) | [Marie Davidson](https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF) | [Fun Times](https://open.spotify.com/album/6cNNIC4lX9MjSyGTXLA1MS) | 4:13 |
-| 100 | [Icónica](https://open.spotify.com/track/07nrSqKLnekzCGvIJhe8db) | [MJ Nebreda](https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy) | [Corazon Club Vol\. 1](https://open.spotify.com/album/4Xdwjql5l2lTbXPsAYSRdP) | 3:09 |
+| 100 | [Icónica](https://open.spotify.com/track/07nrSqKLnekzCGvIJhe8db) | [MJ Nebreda](https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy) | [Corazón Club Vol\. 1](https://open.spotify.com/album/4Xdwjql5l2lTbXPsAYSRdP) | 3:09 |
 
-Snapshot ID: `AAAAAENtwqNAim7an2cydhkHsBNO6drC`
+Snapshot ID: `AAAAAMwSbnDsOtrMHTTEuTGoIF6IXT+r`

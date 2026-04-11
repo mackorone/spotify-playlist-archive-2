@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 
 > Experience the powerful messages and sounds of recent hits in Gospel music\.  Cover: Tasha Cobbs Leonard
 
-[Spotify](https://open.spotify.com/user/spotify) - 658,861 likes - 75 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 658,877 likes - 75 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 | 74 | [Tap Into It \(The Source\)](https://open.spotify.com/track/0dA1pR5MkV82HiFFAZAsZ2) | [Renee Spearman](https://open.spotify.com/artist/4UhXj07SO0QVDVJlj6sMcW), [Kim Burrell](https://open.spotify.com/artist/0fW7wYpfi0yzlc8JPP12jA) | [Tap Into It \(The Source\)](https://open.spotify.com/album/5jw01W5oU1yIznSc9tVSnn) | 5:13 |
 | 75 | [Reminder \(feat\. Deon Kipping\)](https://open.spotify.com/track/1GvFbttWSIESrZMbp4P4EG) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Deon Kipping](https://open.spotify.com/artist/5GoBkSWqd1pb7gzf6f71DS) | [Believe Again, Vol\. II](https://open.spotify.com/album/4dWRh2fMDMGj4aM1tjf0ZL) | 9:04 |
 
-Snapshot ID: `AAAAAEtRDRkGxivY8XBr//qUjo7BHj6p`
+Snapshot ID: `AAAAAO//1Ce8jezyhFZYEHuhH+wjyhGM`

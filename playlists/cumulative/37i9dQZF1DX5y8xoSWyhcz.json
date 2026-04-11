@@ -9540,7 +9540,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 155250,
       "name": "Garden",
       "url": "https://open.spotify.com/track/6a23fnpg3uugyr49zONnRW"
@@ -12380,7 +12380,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 196622,
       "name": "I Don't Buy It",
       "url": "https://open.spotify.com/track/3HIyPuz2K3MBuKA5TswZDJ"
@@ -14748,7 +14748,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 178589,
       "name": "Killshot",
       "url": "https://open.spotify.com/track/4Vf36l2oRKBBkcaLk6BXOV"
@@ -15790,6 +15790,24 @@
       "duration_ms": 208000,
       "name": "Lost In Texas",
       "url": "https://open.spotify.com/track/7DbLT5HzDpQFo6ReMTkPzj"
+    },
+    {
+      "album": {
+        "name": "love is a mystery",
+        "url": "https://open.spotify.com/album/1oB1q2z430pRoZUxnVf9zj"
+      },
+      "artists": [
+        {
+          "name": "slchld",
+          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219670,
+      "name": "love is a mystery",
+      "url": "https://open.spotify.com/track/1b17fnqmzjFDNjpv8ucBXw"
     },
     {
       "album": {
@@ -18521,6 +18539,24 @@
     },
     {
       "album": {
+        "name": "Oh, Ana",
+        "url": "https://open.spotify.com/album/7h9mJCFBWhaRdWHm28xIME"
+      },
+      "artists": [
+        {
+          "name": "Dominique Way",
+          "url": "https://open.spotify.com/artist/5kROZ1F7ExRZyFnHvKdlJ7"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192600,
+      "name": "Oh, Ana",
+      "url": "https://open.spotify.com/track/46G3dLvPYBjRB5WzyvWr32"
+    },
+    {
+      "album": {
         "name": "I'm A Disappointment",
         "url": "https://open.spotify.com/album/4TeUmayh0oTlUaMHkQPTXE"
       },
@@ -20041,6 +20077,24 @@
     },
     {
       "album": {
+        "name": "Porcelain",
+        "url": "https://open.spotify.com/album/05atMuCmHkF93ScQNarXtT"
+      },
+      "artists": [
+        {
+          "name": "Peach Luffe",
+          "url": "https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176374,
+      "name": "Porcelain",
+      "url": "https://open.spotify.com/track/4ya1coIffCVzbRyakb5bxq"
+    },
+    {
+      "album": {
         "name": "Hey You",
         "url": "https://open.spotify.com/album/1jkCaYoUGw06w5W5nPT1b9"
       },
@@ -20788,7 +20842,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 247000,
       "name": "Reflex",
       "url": "https://open.spotify.com/track/5wYfajIesQKaSbchJT1pUn"
@@ -25472,7 +25526,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 219533,
       "name": "That I could",
       "url": "https://open.spotify.com/track/1p2XBDrwARmuqxcaQ72oNY"
@@ -28320,6 +28374,28 @@
       "duration_ms": 141750,
       "name": "What's Up",
       "url": "https://open.spotify.com/track/2gd56EvH2vsrQdJlHwDmbT"
+    },
+    {
+      "album": {
+        "name": "What's On Your Mind",
+        "url": "https://open.spotify.com/album/3Zba9cZ8EP1DBcvjnVNrG6"
+      },
+      "artists": [
+        {
+          "name": "Arkells",
+          "url": "https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk"
+        },
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212023,
+      "name": "What\u2019s On Your Mind",
+      "url": "https://open.spotify.com/track/2DOKvJS61usFOxobo7jLi0"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Lush continuous pink noise that will make you sleep all night.
 
-323 songs - 16 hr 48 min
+325 songs - 16 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Harmonious Combination \- Pink Noise](https://open.spotify.com/track/1PkAiNTgfTr7K5TDX9lJH0) | [Eliminar](https://open.spotify.com/artist/5s1Y0J4ZWpBzj3OO0NKpuy) | [Harmonious Combination \- Pink Noise](https://open.spotify.com/album/4S2TSKriJOOQsUjmKV1XKu) | 2:56 | 2023-05-25 | 2026-02-08 |
 | [Healing Noise](https://open.spotify.com/track/3s13VtClR3qhJ6Dd1Gv11C) | [Granular](https://open.spotify.com/artist/1jfnMuDBl5OaAoU0VwLD8m) | [Pink Noise Atmosphere](https://open.spotify.com/album/4U3KbPCbwIPNjLgPMqT1nj) | 2:51 | 2023-05-25 |  |
 | [Healing Pink Noise](https://open.spotify.com/track/5iuFeUVeAAFMTnmtUvHqF3) | [nite sky](https://open.spotify.com/artist/6zoOpIO7PCBlRaOP10TdJc) | [pink noise escapism](https://open.spotify.com/album/7fgortUNmcRIpBdYfW0WQ4) | 3:10 | 2023-05-25 |  |
-| [Healing Waterfalls Pink Noise](https://open.spotify.com/track/0fIBhgMPcEByakKwJzZOG2) | [Guglielmo Markoni](https://open.spotify.com/artist/1Jfj6AuDorlEytpeJrB419) | [Healing Waterfalls Pink Noise](https://open.spotify.com/album/2jGtcYRSjWtEbo7PDP44j7) | 3:23 | 2023-05-25 |  |
+| [Healing Waterfalls Pink Noise](https://open.spotify.com/track/0fIBhgMPcEByakKwJzZOG2) | [Guglielmo Markoni](https://open.spotify.com/artist/1Jfj6AuDorlEytpeJrB419) | [Healing Waterfalls Pink Noise](https://open.spotify.com/album/2jGtcYRSjWtEbo7PDP44j7) | 3:23 | 2023-05-25 | 2026-04-11 |
 | [Hearts in Pink](https://open.spotify.com/track/2MJAO077Qupt0TZgSeFiLd) | [Pinkfreq](https://open.spotify.com/artist/4rVtSVfR2xsfI3MkJkhMWT) | [Hearts in Pink](https://open.spotify.com/album/645Nx8XILB5rrVIygRrHEe) | 3:42 | 2026-03-31 |  |
 | [Heedful Pink Dreamscape](https://open.spotify.com/track/1gzNv5GHajJDawqoWJpPhi) | [Sonic Observations](https://open.spotify.com/artist/1GyhuweKXGa3R8mBbRDwWe) | [Heedful Pink Dreamscape](https://open.spotify.com/album/2reqtalwAtRtu3cI8cQSg1) | 3:05 | 2026-03-31 |  |
 | [Hiraeth River Pink Noise](https://open.spotify.com/track/6CPKw0w4P5WHNauX6L9CDR) | [Global Ambience](https://open.spotify.com/artist/1goj961rAV1i8TIFFVKUJ8) | [Hiraeth River Pink Noise](https://open.spotify.com/album/6m9xjpsh0f15zi5IdPa6Sj) | 3:10 | 2023-05-25 | 2026-04-01 |
@@ -122,11 +122,12 @@
 | [Pink Airplane Mode](https://open.spotify.com/track/6sq3IxO38LfJol09ecMxuC) | [Anedom](https://open.spotify.com/artist/2wleVDBdqcTkS2E6agZ0AU) | [Pink Airplane Mode](https://open.spotify.com/album/4BUt5nFslbsKCSp1zbuakI) | 4:19 | 2026-03-31 |  |
 | [Pink Atmosphere](https://open.spotify.com/track/1hWxKCrr7xGRcIKcgMiMCB) | [Casper White](https://open.spotify.com/artist/4weaxjLzThghACmvjNt9JT) | [Pink Atmosphere](https://open.spotify.com/album/5qgEcp6C7PPTayUCDjL6wb) | 3:16 | 2023-05-25 |  |
 | [Pink Aura of Calm](https://open.spotify.com/track/3OzoK27KV6oj7SE7ABx8fo) | [Audioable Noise](https://open.spotify.com/artist/6GSMXtegoAGXg4CvixzInT) | [Pink Aura of Calm](https://open.spotify.com/album/44qAzPkIBxOIeCnZA0B2oP) | 2:47 | 2025-12-19 |  |
+| [Pink Baby Dreams](https://open.spotify.com/track/6B6XrEpZPGjNT8ZsS1IAcw) | [Inscription](https://open.spotify.com/artist/0MlpjV25yBPHGlsGnsWVYy) | [Rosefall Sleep](https://open.spotify.com/album/0g5I60bI4iTerrLwvtSxPt) | 2:20 | 2026-03-31 |  |
 | [Pink Background Noise](https://open.spotify.com/track/0Cyu5QUCoVNXMFjcjyRBru) | [Auplaudios](https://open.spotify.com/artist/60ij1zmMyrIFCA09Md4xk4) | [Pink Background Noise](https://open.spotify.com/album/4TK2CQSaJYfDwE9HfpAp2Y) | 3:11 | 2026-03-31 |  |
 | [Pink Calm Layer](https://open.spotify.com/track/0RwgDGm2UK3XkeTAq68aoh) | [The Still Hour](https://open.spotify.com/artist/5R94UWYAFjIr63RarbNjoV) | [Pink Calm Layer](https://open.spotify.com/album/1fLPJIoJVjALCAmRrEJPBC) | 2:33 | 2026-03-31 |  |
 | [Pink Canyon](https://open.spotify.com/track/7zvgLFBziriut2Pkd7NRrB) | [Vibe Industry](https://open.spotify.com/artist/7pPIGqagTGdaLhOUxZTyag) | [Pink Sunset Serenade](https://open.spotify.com/album/3MUmaOiJwePV7ei07jrKYl) | 2:55 | 2023-05-25 | 2026-04-08 |
 | [Pink Cloud Blanket](https://open.spotify.com/track/20knkAVUQP4QQHTlUgGnXa) | [Seismic Dolphin](https://open.spotify.com/artist/31kwIRtITwKwn4NoRdbukb) | [Pink Cloud Blanket](https://open.spotify.com/album/6qUFPfwXE4q6NDAjhZzGY5) | 3:31 | 2026-03-31 |  |
-| [Pink Clouds](https://open.spotify.com/track/3jqF7nmGf0OSCfSrgsVzhH) | [molecule](https://open.spotify.com/artist/48UoOY4CBBD4Bh6fU8yGDQ) | [Pink Clouds](https://open.spotify.com/album/3Mf4tf2knBYBsRshYRrbMY) | 3:06 | 2023-05-25 |  |
+| [Pink Clouds](https://open.spotify.com/track/3jqF7nmGf0OSCfSrgsVzhH) | [molecule](https://open.spotify.com/artist/48UoOY4CBBD4Bh6fU8yGDQ) | [Pink Clouds](https://open.spotify.com/album/3Mf4tf2knBYBsRshYRrbMY) | 3:06 | 2023-05-25 | 2026-04-11 |
 | [Pink Cradle Noise](https://open.spotify.com/track/46plmXJjcK0U9uYOjVxQVf) | [Dreams Made](https://open.spotify.com/artist/0hGBfohzgZXOnLuYHG9CQ0) | [Pink Cradle Noise](https://open.spotify.com/album/4ecniV7KZ73LNY9HQxJXXd) | 2:42 | 2026-03-31 |  |
 | [Pink Distribution](https://open.spotify.com/track/7KtYoIlBNDA9oqIIqJnTMc) | [Low Drift](https://open.spotify.com/artist/4L6bJ6qzoGDUUJq5gWJkYp) | [Pink Distribution](https://open.spotify.com/album/7mvpsXoNeRD5FPOZpRO5Fh) | 4:28 | 2026-03-31 |  |
 | [Pink Drift Focus](https://open.spotify.com/track/4YFlTm1LcWX6hOxme2o9pH) | [Audiose](https://open.spotify.com/artist/5zfePIwsyuFpWjVE3qr3qA) | [Pink Drift Focus](https://open.spotify.com/album/4u3fQgNBV8hLRLIofABhB7) | 2:09 | 2025-12-19 |  |
@@ -154,6 +155,7 @@
 | [Pink Noise And Beyond](https://open.spotify.com/track/2ignpgiVqJ9V24NT1Yx45R) | [Caffeine Buzz](https://open.spotify.com/artist/4sFHfkxG8hgzK80eHzGf0O) | [Pink Noise And Beyond](https://open.spotify.com/album/6PObN5NHLSVQF3UPfBeXg9) | 3:14 | 2023-05-25 | 2026-02-05 |
 | [Pink Noise Atmosphere](https://open.spotify.com/track/3FFBZH4REu6L4OHfhA0Zbx) | [Granular](https://open.spotify.com/artist/1jfnMuDBl5OaAoU0VwLD8m) | [Pink Noise Atmosphere](https://open.spotify.com/album/4U3KbPCbwIPNjLgPMqT1nj) | 3:30 | 2023-05-25 |  |
 | [Pink Noise Balance](https://open.spotify.com/track/6RWo80soxwN9KIWJmZWB86) | [Seeking Balance](https://open.spotify.com/artist/2fVulWueuvC49fDnLuzX6C) | [Pink Noise Balance](https://open.spotify.com/album/3C9YjJXau2NTktv3JNRxUQ) | 3:28 | 2023-05-25 | 2023-10-28 |
+| [Pink Noise Bedtime](https://open.spotify.com/track/7r6ObA5gzPClUhDtP8X5SU) | [Fernlight](https://open.spotify.com/artist/0gzohBQTYAhTkkEhWbdnAK) | [Pink Noise for Deep Sleep](https://open.spotify.com/album/7GRt0kKUZ5dKKFkaEH4LFx) | 2:32 | 2026-03-31 |  |
 | [Pink Noise Better Sleep](https://open.spotify.com/track/6M4TXFK0ckVkQbIITMNd6s) | [True White](https://open.spotify.com/artist/5vhaG8WchlssMkNH1VefUl) | [Pink Noise Horizons](https://open.spotify.com/album/7GhyKWTqtqx8iOlcpH4V9m) | 3:06 | 2023-05-25 |  |
 | [Pink Noise Binary](https://open.spotify.com/track/71ePEcuRKQODDtsHtg2nFv) | [San Sebastiano](https://open.spotify.com/artist/7J6qda0ybtYiOFds9xKXc4) | [Zarata Arrosa](https://open.spotify.com/album/7EPl3Pl6Hm5e3sRCaLtO6K) | 2:50 | 2023-05-25 |  |
 | [Pink Noise Boulevard](https://open.spotify.com/track/4BbMZoi5wVpRKUmZr8AFwI) | [Vita Nova](https://open.spotify.com/artist/73NuuIXGeBU7AyknDXY5A2) | [Pink Noise Boulevard](https://open.spotify.com/album/4hfMjdg2gBTl1bVPcrmXI2) | 2:57 | 2023-05-25 | 2023-10-28 |

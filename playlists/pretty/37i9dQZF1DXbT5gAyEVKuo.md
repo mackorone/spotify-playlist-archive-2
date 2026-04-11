@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 
 > Praise the Lord with all your heart as you sing along to these Gospel Worship songs\. Cover: Jonathan McReynolds
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,571 likes - 74 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,606 likes - 74 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 | 73 | [Peace Has A Name](https://open.spotify.com/track/0HYZQZFX8SHZBg61tEj2eh) | [God Aura](https://open.spotify.com/artist/30oliTd0fltujHzWkpdVjR), [Hannah Everhart](https://open.spotify.com/artist/2gnbuL9f98xeR6Kp4fRxtb) | [Wonderful Child](https://open.spotify.com/album/1arhnSDqdwTyr1d0koN1Iz) | 2:13 |
 | 74 | [Still On The Throne](https://open.spotify.com/track/24JCZziAKrLDHWYCemnPR0) | [Joann Rosario](https://open.spotify.com/artist/4i7ABzLzb1JhYq3Js3MXnJ) | [Still On The Throne](https://open.spotify.com/album/6LNkZUjI2t6N8XKNwuaY75) | 3:40 |
 
-Snapshot ID: `AAAAAKAP7mOD/BI+gM/Mq/eJ4ZI2PQg2`
+Snapshot ID: `AAAAAOYdHJDNQnI4UFK0n+u9O1LDouPO`

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A gastar la suela con lo mejor de la ranchera chilena! Foto: Grupo Z\u00fambale Primo, & Coraz\u00f3n Serrano.",
-  "num_followers": 80468,
+  "num_followers": 80479,
   "original_name": "Ranchera Chilena",
   "owner": {
     "name": "Spotify",
@@ -395,26 +395,6 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "Despu\u00e9s de Ti",
-        "url": "https://open.spotify.com/album/2tWeqrleq2g7t4A4XZGVjn"
-      },
-      "artists": [
-        {
-          "name": "Gino Mella",
-          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
-        },
-        {
-          "name": "Grupo Z\u00fambale Primo",
-          "url": "https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K"
-        }
-      ],
-      "duration_ms": 279362,
-      "name": "Despu\u00e9s de Ti",
-      "url": "https://open.spotify.com/track/3KZ9E2VdnR7QpMIywm8Hv0"
-    },
-    {
-      "added_at": "2026-02-19 20:52:53",
-      "album": {
         "name": "Nacieron para Triunfar, Vol. 1",
         "url": "https://open.spotify.com/album/37wrVwHHXeP8fHf8E8dPw0"
       },
@@ -435,18 +415,22 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "Me Quisiste Jugar a La Mala",
-        "url": "https://open.spotify.com/album/1EX91QM9Yuy4uI3q0MfR8x"
+        "name": "Despu\u00e9s de Ti",
+        "url": "https://open.spotify.com/album/2tWeqrleq2g7t4A4XZGVjn"
       },
       "artists": [
         {
-          "name": "Los Tigres de Parral",
-          "url": "https://open.spotify.com/artist/4HZb1I1ON6nfxpMmMPql6B"
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        },
+        {
+          "name": "Grupo Z\u00fambale Primo",
+          "url": "https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K"
         }
       ],
-      "duration_ms": 256489,
-      "name": "Me Quisiste Jugar A La Mala",
-      "url": "https://open.spotify.com/track/46PIRSCePoQ6iJ8cFeZtAi"
+      "duration_ms": 279362,
+      "name": "Despu\u00e9s de Ti",
+      "url": "https://open.spotify.com/track/3KZ9E2VdnR7QpMIywm8Hv0"
     },
     {
       "added_at": "2026-02-19 20:52:53",
@@ -471,6 +455,22 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
+        "name": "Me Quisiste Jugar a La Mala",
+        "url": "https://open.spotify.com/album/1EX91QM9Yuy4uI3q0MfR8x"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres de Parral",
+          "url": "https://open.spotify.com/artist/4HZb1I1ON6nfxpMmMPql6B"
+        }
+      ],
+      "duration_ms": 256489,
+      "name": "Me Quisiste Jugar A La Mala",
+      "url": "https://open.spotify.com/track/46PIRSCePoQ6iJ8cFeZtAi"
+    },
+    {
+      "added_at": "2026-02-19 20:52:53",
+      "album": {
         "name": "Mix Peregrinos del Amor 2026: Color\u00edn Colorado / Por Primera Vez / Contigo y Sin Ti / Arrogancia / No Te He Dejado de Amar / Qu\u00e9date",
         "url": "https://open.spotify.com/album/2l9Gi5qbMenU2Fj0hPNsdp"
       },
@@ -483,22 +483,6 @@
       "duration_ms": 375600,
       "name": "Mix Peregrinos del Amor 2026: Color\u00edn Colorado / Por Primera Vez / Contigo y Sin Ti / Arrogancia / No Te He Dejado de Amar / Qu\u00e9date",
       "url": "https://open.spotify.com/track/45bjfClZfLUFd7sLzfYAD6"
-    },
-    {
-      "added_at": "2026-02-19 20:52:53",
-      "album": {
-        "name": "La Fiesta de Koky",
-        "url": "https://open.spotify.com/album/3ExrYJUNGwdwLIhdexPKvd"
-      },
-      "artists": [
-        {
-          "name": "Koky y su banda tropical ranchera",
-          "url": "https://open.spotify.com/artist/0NsSi0eIkQ5z2CDDQ9RGGf"
-        }
-      ],
-      "duration_ms": 303349,
-      "name": "Tus Maletas Ya Est\u00e1s en la Puerta",
-      "url": "https://open.spotify.com/track/62udtrscsiWeJSONUvIZ0U"
     },
     {
       "added_at": "2026-02-19 20:52:53",
@@ -519,6 +503,22 @@
       "duration_ms": 279840,
       "name": "Por Debajo del Agua",
       "url": "https://open.spotify.com/track/3QPfTAedVVyalXRfplJIKY"
+    },
+    {
+      "added_at": "2026-02-19 20:52:53",
+      "album": {
+        "name": "La Fiesta de Koky",
+        "url": "https://open.spotify.com/album/3ExrYJUNGwdwLIhdexPKvd"
+      },
+      "artists": [
+        {
+          "name": "Koky y su banda tropical ranchera",
+          "url": "https://open.spotify.com/artist/0NsSi0eIkQ5z2CDDQ9RGGf"
+        }
+      ],
+      "duration_ms": 303349,
+      "name": "Tus Maletas Ya Est\u00e1s en la Puerta",
+      "url": "https://open.spotify.com/track/62udtrscsiWeJSONUvIZ0U"
     },
     {
       "added_at": "2026-02-19 20:52:53",
@@ -575,26 +575,6 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "El Intruso",
-        "url": "https://open.spotify.com/album/2oFmdj1zogoYfH39ygi1lz"
-      },
-      "artists": [
-        {
-          "name": "Los Pincheira del Sur",
-          "url": "https://open.spotify.com/artist/1BnQrx8p0bHBpidjIGq26z"
-        },
-        {
-          "name": "Los Machos de la Cumbia",
-          "url": "https://open.spotify.com/artist/31zOLg3uYZLDbtpA1JoQmH"
-        }
-      ],
-      "duration_ms": 205746,
-      "name": "El Intruso",
-      "url": "https://open.spotify.com/track/12NcQ0WVvaxDNcmqeLOw12"
-    },
-    {
-      "added_at": "2026-02-19 20:52:53",
-      "album": {
         "name": "Nacieron para Triunfar, Vol. 1",
         "url": "https://open.spotify.com/album/37wrVwHHXeP8fHf8E8dPw0"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 169466,
       "name": "Sombrero Vaquero",
       "url": "https://open.spotify.com/track/3dNAZRp5BnwVuKa7NDjGfE"
+    },
+    {
+      "added_at": "2026-02-19 20:52:53",
+      "album": {
+        "name": "El Intruso",
+        "url": "https://open.spotify.com/album/2oFmdj1zogoYfH39ygi1lz"
+      },
+      "artists": [
+        {
+          "name": "Los Pincheira del Sur",
+          "url": "https://open.spotify.com/artist/1BnQrx8p0bHBpidjIGq26z"
+        },
+        {
+          "name": "Los Machos de la Cumbia",
+          "url": "https://open.spotify.com/artist/31zOLg3uYZLDbtpA1JoQmH"
+        }
+      ],
+      "duration_ms": 205746,
+      "name": "El Intruso",
+      "url": "https://open.spotify.com/track/12NcQ0WVvaxDNcmqeLOw12"
     },
     {
       "added_at": "2026-02-19 20:52:53",
@@ -667,22 +667,6 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "La Fiesta de Koky",
-        "url": "https://open.spotify.com/album/3ExrYJUNGwdwLIhdexPKvd"
-      },
-      "artists": [
-        {
-          "name": "Koky y su banda tropical ranchera",
-          "url": "https://open.spotify.com/artist/0NsSi0eIkQ5z2CDDQ9RGGf"
-        }
-      ],
-      "duration_ms": 204069,
-      "name": "La Suegra",
-      "url": "https://open.spotify.com/track/0KvdmyWi1v3HaRjSM64tgo"
-    },
-    {
-      "added_at": "2026-02-19 20:52:53",
-      "album": {
         "name": "La Noche Perfecta",
         "url": "https://open.spotify.com/album/5BcggGB8QbXUArz5JXHl5K"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 265789,
       "name": "La Noche Perfecta",
       "url": "https://open.spotify.com/track/3FZnUqmNQNYUH4wvrcCfZT"
+    },
+    {
+      "added_at": "2026-02-19 20:52:53",
+      "album": {
+        "name": "La Fiesta de Koky",
+        "url": "https://open.spotify.com/album/3ExrYJUNGwdwLIhdexPKvd"
+      },
+      "artists": [
+        {
+          "name": "Koky y su banda tropical ranchera",
+          "url": "https://open.spotify.com/artist/0NsSi0eIkQ5z2CDDQ9RGGf"
+        }
+      ],
+      "duration_ms": 204069,
+      "name": "La Suegra",
+      "url": "https://open.spotify.com/track/0KvdmyWi1v3HaRjSM64tgo"
     },
     {
       "added_at": "2026-02-19 20:52:53",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "Tornado Ranchero",
-        "url": "https://open.spotify.com/album/4FUL8GkSqNo8dt1v9em0ON"
-      },
-      "artists": [
-        {
-          "name": "Tornado Ranchero",
-          "url": "https://open.spotify.com/artist/4FDAXy690wtsQDhh6nlZWl"
-        }
-      ],
-      "duration_ms": 267859,
-      "name": "Como T\u00fa",
-      "url": "https://open.spotify.com/track/1TQKYm6U2FnKVCH9E6gJWu"
-    },
-    {
-      "added_at": "2026-02-19 20:52:53",
-      "album": {
         "name": "El Sol No Regresa",
         "url": "https://open.spotify.com/album/2XMrbnwRqoQDNnBNpINrBH"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 174474,
       "name": "El Sol No Regresa",
       "url": "https://open.spotify.com/track/2G547gJdbWyrQWqBwPmKpt"
+    },
+    {
+      "added_at": "2026-02-19 20:52:53",
+      "album": {
+        "name": "Tornado Ranchero",
+        "url": "https://open.spotify.com/album/4FUL8GkSqNo8dt1v9em0ON"
+      },
+      "artists": [
+        {
+          "name": "Tornado Ranchero",
+          "url": "https://open.spotify.com/artist/4FDAXy690wtsQDhh6nlZWl"
+        }
+      ],
+      "duration_ms": 267859,
+      "name": "Como T\u00fa",
+      "url": "https://open.spotify.com/track/1TQKYm6U2FnKVCH9E6gJWu"
     },
     {
       "added_at": "2026-02-19 20:52:53",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
+        "name": "Ac\u00e1bame de Matar",
+        "url": "https://open.spotify.com/album/2dJ2IMonVOVdV73CyjK5zV"
+      },
+      "artists": [
+        {
+          "name": "El Azote",
+          "url": "https://open.spotify.com/artist/3CGruMV3zqAI4wF8xQLRwh"
+        }
+      ],
+      "duration_ms": 215370,
+      "name": "Ac\u00e1bame de Matar",
+      "url": "https://open.spotify.com/track/4L3VeEZtIaP6nMh3LTPAtJ"
+    },
+    {
+      "added_at": "2026-02-19 20:52:53",
+      "album": {
         "name": "Vuelve la Mezcla Perfecta",
         "url": "https://open.spotify.com/album/2BPdd9wGkShuGrRClT60ou"
       },
@@ -1211,38 +1227,6 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "Quisiera y No Quisiera",
-        "url": "https://open.spotify.com/album/3nd1fYlZYfOeuliXL5Lwat"
-      },
-      "artists": [
-        {
-          "name": "Los Infieles de Santa Barbara",
-          "url": "https://open.spotify.com/artist/7sUHsT8c4m9Ji8ztrEGRhs"
-        }
-      ],
-      "duration_ms": 154511,
-      "name": "Quisiera y No Quisiera",
-      "url": "https://open.spotify.com/track/4WADI81zhZC8YQGKLYeb76"
-    },
-    {
-      "added_at": "2026-02-19 20:52:53",
-      "album": {
-        "name": "Ac\u00e1bame de Matar",
-        "url": "https://open.spotify.com/album/2dJ2IMonVOVdV73CyjK5zV"
-      },
-      "artists": [
-        {
-          "name": "El Azote",
-          "url": "https://open.spotify.com/artist/3CGruMV3zqAI4wF8xQLRwh"
-        }
-      ],
-      "duration_ms": 215370,
-      "name": "Ac\u00e1bame de Matar",
-      "url": "https://open.spotify.com/track/4L3VeEZtIaP6nMh3LTPAtJ"
-    },
-    {
-      "added_at": "2026-02-19 20:52:53",
-      "album": {
         "name": "Todos a la Pista",
         "url": "https://open.spotify.com/album/4BVbDeIBlFIHn59PGam34e"
       },
@@ -1259,18 +1243,34 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "Galantes y Caballeros",
-        "url": "https://open.spotify.com/album/2Chfx3gyFuWYb7NfjM9pW2"
+        "name": "Quisiera y No Quisiera",
+        "url": "https://open.spotify.com/album/3nd1fYlZYfOeuliXL5Lwat"
       },
       "artists": [
         {
-          "name": "LOS FLORES DE YUNGAY",
-          "url": "https://open.spotify.com/artist/6HEzbcgaRaKUB5c6ztRgPD"
+          "name": "Los Infieles de Santa Barbara",
+          "url": "https://open.spotify.com/artist/7sUHsT8c4m9Ji8ztrEGRhs"
         }
       ],
-      "duration_ms": 152816,
-      "name": "Galantes y Caballeros",
-      "url": "https://open.spotify.com/track/41d9HYA4qgfQ51sc5Vvyjg"
+      "duration_ms": 154511,
+      "name": "Quisiera y No Quisiera",
+      "url": "https://open.spotify.com/track/4WADI81zhZC8YQGKLYeb76"
+    },
+    {
+      "added_at": "2026-02-19 20:52:53",
+      "album": {
+        "name": "Un Nuevo Estilo Campesino",
+        "url": "https://open.spotify.com/album/1O8h1QrvakmCmUDn99vwdy"
+      },
+      "artists": [
+        {
+          "name": "Los Lumaquinos Alegres",
+          "url": "https://open.spotify.com/artist/1XfppfgRosYjV7yZfLPUH0"
+        }
+      ],
+      "duration_ms": 218023,
+      "name": "La Porotera",
+      "url": "https://open.spotify.com/track/4tjQKSv3MNQ0U0zh6acZLR"
     },
     {
       "added_at": "2026-02-19 20:52:53",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "Un Nuevo Estilo Campesino",
-        "url": "https://open.spotify.com/album/1O8h1QrvakmCmUDn99vwdy"
+        "name": "Galantes y Caballeros",
+        "url": "https://open.spotify.com/album/2Chfx3gyFuWYb7NfjM9pW2"
       },
       "artists": [
         {
-          "name": "Los Lumaquinos Alegres",
-          "url": "https://open.spotify.com/artist/1XfppfgRosYjV7yZfLPUH0"
+          "name": "LOS FLORES DE YUNGAY",
+          "url": "https://open.spotify.com/artist/6HEzbcgaRaKUB5c6ztRgPD"
         }
       ],
-      "duration_ms": 218023,
-      "name": "La Porotera",
-      "url": "https://open.spotify.com/track/4tjQKSv3MNQ0U0zh6acZLR"
+      "duration_ms": 152816,
+      "name": "Galantes y Caballeros",
+      "url": "https://open.spotify.com/track/41d9HYA4qgfQ51sc5Vvyjg"
     },
     {
       "added_at": "2026-02-19 20:52:53",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "De los Besos Que Te Di",
-        "url": "https://open.spotify.com/album/7C6m8Ksv2KePPs31KhrWpD"
-      },
-      "artists": [
-        {
-          "name": "Alexia Lillo",
-          "url": "https://open.spotify.com/artist/0kCPdfcspHbuEplkmEGBgU"
-        }
-      ],
-      "duration_ms": 163790,
-      "name": "De los Besos Que Te Di",
-      "url": "https://open.spotify.com/track/4LUaS5jz52YHteRwv6HClW"
-    },
-    {
-      "added_at": "2026-02-19 20:52:53",
-      "album": {
         "name": "El Cabro Curao",
         "url": "https://open.spotify.com/album/4K0oyBxGYlW7jEpTre1yOj"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 186936,
       "name": "El Cabro Curao",
       "url": "https://open.spotify.com/track/0f9eUTpRbz2KxLN6ZzEXCF"
+    },
+    {
+      "added_at": "2026-02-19 20:52:53",
+      "album": {
+        "name": "De los Besos Que Te Di",
+        "url": "https://open.spotify.com/album/7C6m8Ksv2KePPs31KhrWpD"
+      },
+      "artists": [
+        {
+          "name": "Alexia Lillo",
+          "url": "https://open.spotify.com/artist/0kCPdfcspHbuEplkmEGBgU"
+        }
+      ],
+      "duration_ms": 163790,
+      "name": "De los Besos Que Te Di",
+      "url": "https://open.spotify.com/track/4LUaS5jz52YHteRwv6HClW"
     },
     {
       "added_at": "2026-02-19 20:52:53",
@@ -1523,38 +1523,6 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "Sue\u00f1o Su Boca",
-        "url": "https://open.spotify.com/album/73aIXXhkTKeQ4fz72gVcrr"
-      },
-      "artists": [
-        {
-          "name": "Peregrinos del Amor",
-          "url": "https://open.spotify.com/artist/5xuReDWUr32LPHVtCXE6gM"
-        }
-      ],
-      "duration_ms": 217375,
-      "name": "Ya No Siento Nada",
-      "url": "https://open.spotify.com/track/4p1jnv8tDRg7e3XvQuesbX"
-    },
-    {
-      "added_at": "2026-02-19 20:52:53",
-      "album": {
-        "name": "Corridos de Rancho",
-        "url": "https://open.spotify.com/album/56gfVFY5SibVSqOBWigNc0"
-      },
-      "artists": [
-        {
-          "name": "Los Prisioneros del Sur",
-          "url": "https://open.spotify.com/artist/5zKSDRkzPs96LCwHIlLaLw"
-        }
-      ],
-      "duration_ms": 246325,
-      "name": "Elenita",
-      "url": "https://open.spotify.com/track/2zGqdm3UcCjy1crKuCVoDI"
-    },
-    {
-      "added_at": "2026-02-19 20:52:53",
-      "album": {
         "name": "Tu Amor Barato",
         "url": "https://open.spotify.com/album/1KmKiGShZ6TThgvJWKVUrA"
       },
@@ -1571,6 +1539,38 @@
       "duration_ms": 196862,
       "name": "Tu Amor Barato",
       "url": "https://open.spotify.com/track/4aqFAEwxpD3UFFjZUXNIOx"
+    },
+    {
+      "added_at": "2026-02-19 20:52:53",
+      "album": {
+        "name": "En las Cantinas",
+        "url": "https://open.spotify.com/album/6qPi1a0ULXJSvbRlMEmkvL"
+      },
+      "artists": [
+        {
+          "name": "Los Prisioneros del Sur",
+          "url": "https://open.spotify.com/artist/5zKSDRkzPs96LCwHIlLaLw"
+        }
+      ],
+      "duration_ms": 169012,
+      "name": "En las Cantinas",
+      "url": "https://open.spotify.com/track/119sdfjLdMUYwDenaxhcjF"
+    },
+    {
+      "added_at": "2026-02-19 20:52:53",
+      "album": {
+        "name": "Sue\u00f1o Su Boca",
+        "url": "https://open.spotify.com/album/73aIXXhkTKeQ4fz72gVcrr"
+      },
+      "artists": [
+        {
+          "name": "Peregrinos del Amor",
+          "url": "https://open.spotify.com/artist/5xuReDWUr32LPHVtCXE6gM"
+        }
+      ],
+      "duration_ms": 217375,
+      "name": "Ya No Siento Nada",
+      "url": "https://open.spotify.com/track/4p1jnv8tDRg7e3XvQuesbX"
     },
     {
       "added_at": "2026-02-19 20:52:53",
@@ -1623,8 +1623,8 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "En las Cantinas",
-        "url": "https://open.spotify.com/album/6qPi1a0ULXJSvbRlMEmkvL"
+        "name": "Corridos de Rancho",
+        "url": "https://open.spotify.com/album/56gfVFY5SibVSqOBWigNc0"
       },
       "artists": [
         {
@@ -1632,25 +1632,9 @@
           "url": "https://open.spotify.com/artist/5zKSDRkzPs96LCwHIlLaLw"
         }
       ],
-      "duration_ms": 169012,
-      "name": "En las Cantinas",
-      "url": "https://open.spotify.com/track/119sdfjLdMUYwDenaxhcjF"
-    },
-    {
-      "added_at": "2026-02-19 20:52:53",
-      "album": {
-        "name": "El Solovino",
-        "url": "https://open.spotify.com/album/39XXGFyiyzZMo3fbj1jnbV"
-      },
-      "artists": [
-        {
-          "name": "Alexia Lillo",
-          "url": "https://open.spotify.com/artist/0kCPdfcspHbuEplkmEGBgU"
-        }
-      ],
-      "duration_ms": 183525,
-      "name": "El Solovino",
-      "url": "https://open.spotify.com/track/2gwJ7zMBGxv6SwtuCbQZI8"
+      "duration_ms": 246325,
+      "name": "Elenita",
+      "url": "https://open.spotify.com/track/2zGqdm3UcCjy1crKuCVoDI"
     },
     {
       "added_at": "2026-02-19 20:52:53",
@@ -1667,6 +1651,22 @@
       "duration_ms": 252544,
       "name": "Anillo Grabado",
       "url": "https://open.spotify.com/track/6infY4q8h4b7FZcfKkFZtX"
+    },
+    {
+      "added_at": "2026-02-19 20:52:53",
+      "album": {
+        "name": "Los Mandados",
+        "url": "https://open.spotify.com/album/0DKgDIESuYHyMCRtoPrSjw"
+      },
+      "artists": [
+        {
+          "name": "Alexia Lillo",
+          "url": "https://open.spotify.com/artist/0kCPdfcspHbuEplkmEGBgU"
+        }
+      ],
+      "duration_ms": 197110,
+      "name": "Los Mandados",
+      "url": "https://open.spotify.com/track/0Lwi83xdc4c31ACSrezAqT"
     },
     {
       "added_at": "2026-02-19 20:52:53",
@@ -1719,18 +1719,22 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "Los Mandados",
-        "url": "https://open.spotify.com/album/0DKgDIESuYHyMCRtoPrSjw"
+        "name": "C\u00f3mo Quisiera",
+        "url": "https://open.spotify.com/album/1eHjkkwOksQhKl0HQc8jBL"
       },
       "artists": [
         {
-          "name": "Alexia Lillo",
-          "url": "https://open.spotify.com/artist/0kCPdfcspHbuEplkmEGBgU"
+          "name": "Los Machos de la Cumbia",
+          "url": "https://open.spotify.com/artist/31zOLg3uYZLDbtpA1JoQmH"
+        },
+        {
+          "name": "Toly Fu",
+          "url": "https://open.spotify.com/artist/4jCc0YkArDVaVzswZyMtyH"
         }
       ],
-      "duration_ms": 197110,
-      "name": "Los Mandados",
-      "url": "https://open.spotify.com/track/0Lwi83xdc4c31ACSrezAqT"
+      "duration_ms": 230542,
+      "name": "C\u00f3mo Quisiera",
+      "url": "https://open.spotify.com/track/1uNMTskDd2HBF5UOdV5cdY"
     }
   ],
   "unique_name": "Ranchera Chilena",

@@ -4,7 +4,7 @@
 
 > 
 
-8,590 songs - 21 day 21 hr 19 min
+8,592 songs - 21 day 21 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -971,6 +971,7 @@
 | [Breezin'](https://open.spotify.com/track/1m3BAsNsQAaSNMD2M6vlKY) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [Breezin'](https://open.spotify.com/album/1ei5QjnfB7PHINJOH8Gft5) | 5:41 | 2025-01-03 |  |
 | [BREEZIN'](https://open.spotify.com/track/7hgTD3nmWLbF58Rsugc27d) | [Masayoshi Takanaka](https://open.spotify.com/artist/2Ex4vjQ6mSh5woTlDWto6d) | [オン・ギター](https://open.spotify.com/album/20ku6CzcC5hFmNxoCaOzzJ) | 5:50 | 2024-12-07 |  |
 | [Brick Fees](https://open.spotify.com/track/375ioxOx42RJEbfE5mo4Dy) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [You Only Die 1nce](https://open.spotify.com/album/67LTX4flSRbvRopq6mja0h) | 4:02 | 2025-01-03 |  |
+| [Bridge Over Troubled Water](https://open.spotify.com/track/6l8EbYRtQMgKOyc1gcDHF9) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bridge Over Troubled Water](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) | 4:56 | 2026-04-10 |  |
 | [Bright Lights, Big City](https://open.spotify.com/track/6paRT1EX03VgmzGFEfjkpI) | [Takeshi Nakatsuka](https://open.spotify.com/artist/20NsQIQXOKSrclmLOeZLIF), [Karen Aoki](https://open.spotify.com/artist/7ky9g1jEjCsjNjZbYuflUJ) | [Kiss & Ride](https://open.spotify.com/album/34VYrgRZsJNkMQb8viozXM) | 4:57 | 2025-01-15 |  |
 | [Bring It Back](https://open.spotify.com/track/3Eu9XFVhLlcF0DpVYzONFk) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Mannie Fresh](https://open.spotify.com/artist/0fbFfVckGKsDbAfYnB5mD1) | [Tha Carter](https://open.spotify.com/album/5POcKy926GgzFHZpGptJac) | 4:21 | 2025-03-07 |  |
 | [Bring Me Down](https://open.spotify.com/track/25K9cWrxNv991UYiOzBJqR) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Late Registration](https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g) | 3:18 | 2025-01-03 |  |
@@ -5509,6 +5510,7 @@
 | [SAY YES](https://open.spotify.com/track/3DToyE803ua79lpfAfD2ZB) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Summer Nights](https://open.spotify.com/album/2GKTroaa4ysyhEdvzpvUoM) | 3:02 | 2025-01-15 |  |
 | [Say You Will](https://open.spotify.com/track/5e5MKPtJuFb8NaeSEyV5gD) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [808s & Heartbreak](https://open.spotify.com/album/3WFTGIO6E3Xh4paEOBY9OU) | 6:17 | 2025-01-03 |  |
 | [Say You Won't Let Go](https://open.spotify.com/track/5uCax9HTNlzGybIStD3vDh) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Back from the Edge](https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD) | 3:31 | 2025-01-03 |  |
+| [Scarborough Fair / Canticle](https://open.spotify.com/track/3g2fYZW5v2od8KIF7VktT0) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Parsley, Sage, Rosemary And Thyme](https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7) | 3:14 | 2026-04-10 |  |
 | [Scared Money](https://open.spotify.com/track/5lYXMlzWEc8uDbMd1v0V35) | [NxWorries](https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [Yes Lawd!](https://open.spotify.com/album/0gpxUkqSnLwD50aaRir6jH) | 2:57 | 2025-01-04 |  |
 | [Scared of the Dark \(feat\. XXXTENTACION\)](https://open.spotify.com/track/3vWzyGTu6Ovo1GdrcJqH6e) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)](https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs) | 3:53 | 2025-03-07 |  |
 | [Scarface](https://open.spotify.com/track/6TTgbTWgNXgYnkRjgUvc1u) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf) | [Piñata](https://open.spotify.com/album/43uErencdmuTRFZPG3zXL1) | 2:06 | 2025-01-03 |  |

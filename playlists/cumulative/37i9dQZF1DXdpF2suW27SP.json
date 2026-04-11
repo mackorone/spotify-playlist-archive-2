@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "LON3R Johnny entra na zona. ",
+  "description": "LON3R JOHNY entra na zona. ",
   "name": "Na Zona",
   "tracks": [
     {
@@ -376,6 +376,28 @@
       "duration_ms": 161600,
       "name": "2023",
       "url": "https://open.spotify.com/track/2J1TF8fTaImU4sZhDpIsnp"
+    },
+    {
+      "album": {
+        "name": "94",
+        "url": "https://open.spotify.com/album/0NqDtwq1iiuEqNrL0mkePy"
+      },
+      "artists": [
+        {
+          "name": "LON3R JOHNY",
+          "url": "https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd"
+        },
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172258,
+      "name": "25 DE ABRIL (feat. Plutonio)",
+      "url": "https://open.spotify.com/track/7gHPjqCdGSstIBz1knykYn"
     },
     {
       "album": {
@@ -18760,24 +18782,6 @@
       "duration_ms": 164225,
       "name": "Trabadjadores",
       "url": "https://open.spotify.com/track/6Tz9tjOJI3nH09Q9uQXWSf"
-    },
-    {
-      "album": {
-        "name": "94",
-        "url": "https://open.spotify.com/album/0NqDtwq1iiuEqNrL0mkePy"
-      },
-      "artists": [
-        {
-          "name": "LON3R JOHNY",
-          "url": "https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd"
-        }
-      ],
-      "date_added": "2026-04-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 7",
-      "url": "https://open.spotify.com/track/7gHPjqCdGSstIBz1knykYn"
     },
     {
       "album": {

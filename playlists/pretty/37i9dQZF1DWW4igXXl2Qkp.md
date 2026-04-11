@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new hip\-hop tracks from independent artists & labels\. Cover: <a href="spotify:artist:0RRUXaSteOOZzo5gMCAeuX">Hardnard</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,431 likes - 75 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,456 likes - 75 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 74 | [Edward 40 Handz](https://open.spotify.com/track/0IEFaWGhbjNETEY0ybiC7J) | [Liim](https://open.spotify.com/artist/4WBs3HlXxMAqo8Yi6m1PCM) | [Edward 40 Handz](https://open.spotify.com/album/0h3HHx450FASwSSV95JLT9) | 1:10 |
 | 75 | [Im So ATL](https://open.spotify.com/track/5jZxV3cIOVac9NObhBWfVX) | [Bankroll Ni](https://open.spotify.com/artist/6557ikOFsjiDmV7gjHYuiD) | [Im So ATL](https://open.spotify.com/album/3whatL9Hb6RbGG3fhLn3XM) | 2:04 |
 
-Snapshot ID: `AAAAAG/zuw8F+D+DD6fWjlr+WLVM3KTg`
+Snapshot ID: `AAAAAMTMIwmHzC7Ck8AOPWXMsc2B2S7Q`

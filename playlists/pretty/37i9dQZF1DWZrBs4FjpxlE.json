@@ -1,18 +1,18 @@
 {
   "description": "we got you. Cover: Post Malone",
-  "num_followers": 134505,
+  "num_followers": 134537,
   "original_name": "sad boy anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABEhNSYV1bMMPhdVRSFsL1zNYEu+",
+  "snapshot_id": "AAAAAFShDN/bYZmSr4gMLX4TsZjLstJt",
   "tracks": [
     {
-      "added_at": "2026-03-13 04:00:14",
+      "added_at": "2026-04-10 04:01:14",
       "album": {
-        "name": "Walk Away",
-        "url": "https://open.spotify.com/album/4s1zMNa8r71wyo6SJyRfwI"
+        "name": "DEAD & GONE",
+        "url": "https://open.spotify.com/album/0TtDwZpIy4msmkkSc8s7xx"
       },
       "artists": [
         {
@@ -20,9 +20,37 @@
           "url": "https://open.spotify.com/artist/39G9Mcs99KhOEtVuthwztS"
         }
       ],
-      "duration_ms": 153312,
-      "name": "Walk Away",
-      "url": "https://open.spotify.com/track/3iOFoP4hg5GHtSMbvx1LuY"
+      "duration_ms": 176062,
+      "name": "DEAD & GONE",
+      "url": "https://open.spotify.com/track/65kpSQ8VwRcgHRH8Qyrigq"
+    },
+    {
+      "added_at": "2026-04-10 04:01:14",
+      "album": {
+        "name": "I can't navigate without you",
+        "url": "https://open.spotify.com/album/1iAD69HBtxscuwNMBpoXmH"
+      },
+      "artists": [
+        {
+          "name": "The Lofi Library Club",
+          "url": "https://open.spotify.com/artist/6UTvHt9BMpap2a9g5A6QQM"
+        },
+        {
+          "name": "Powfu",
+          "url": "https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn"
+        },
+        {
+          "name": "Rxseboy",
+          "url": "https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c"
+        },
+        {
+          "name": "Thomas Reid",
+          "url": "https://open.spotify.com/artist/0dcxj82ddksd6tDDcJgbqo"
+        }
+      ],
+      "duration_ms": 185791,
+      "name": "I can't navigate without you",
+      "url": "https://open.spotify.com/track/2wVjVDuoWd4Xuda5TUE7jN"
     },
     {
       "added_at": "2026-03-06 05:00:07",
@@ -93,6 +121,22 @@
       "url": "https://open.spotify.com/track/7AikJn0VCWhnKvuNgfJa8j"
     },
     {
+      "added_at": "2026-03-13 04:00:14",
+      "album": {
+        "name": "Walk Away",
+        "url": "https://open.spotify.com/album/4s1zMNa8r71wyo6SJyRfwI"
+      },
+      "artists": [
+        {
+          "name": "Sik World",
+          "url": "https://open.spotify.com/artist/39G9Mcs99KhOEtVuthwztS"
+        }
+      ],
+      "duration_ms": 153312,
+      "name": "Walk Away",
+      "url": "https://open.spotify.com/track/3iOFoP4hg5GHtSMbvx1LuY"
+    },
+    {
       "added_at": "2026-02-01 20:44:19",
       "album": {
         "name": "Anyone's Guess",
@@ -127,22 +171,6 @@
       "duration_ms": 157000,
       "name": "getting money still sad too",
       "url": "https://open.spotify.com/track/5FJbsAs6XuKuxZzvwDl7gR"
-    },
-    {
-      "added_at": "2026-02-27 05:00:46",
-      "album": {
-        "name": "Chasing Stars",
-        "url": "https://open.spotify.com/album/5ii142qhDvWAfA9BG3gjTb"
-      },
-      "artists": [
-        {
-          "name": "Sik World",
-          "url": "https://open.spotify.com/artist/39G9Mcs99KhOEtVuthwztS"
-        }
-      ],
-      "duration_ms": 129000,
-      "name": "Chasing Stars",
-      "url": "https://open.spotify.com/track/4gys49LNMqJd3gf3Fog8Tg"
     },
     {
       "added_at": "2025-11-18 21:00:06",
@@ -247,22 +275,6 @@
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU"
-    },
-    {
-      "added_at": "2025-11-07 05:00:49",
-      "album": {
-        "name": "Some Sad Songs",
-        "url": "https://open.spotify.com/album/1ds7LPYGFxM5U8AUA62qp9"
-      },
-      "artists": [
-        {
-          "name": "Sik World",
-          "url": "https://open.spotify.com/artist/39G9Mcs99KhOEtVuthwztS"
-        }
-      ],
-      "duration_ms": 150833,
-      "name": "Make You Stay",
-      "url": "https://open.spotify.com/track/27nrdUSV3A2FmnXUUvPnbM"
     },
     {
       "added_at": "2024-03-22 18:17:51",

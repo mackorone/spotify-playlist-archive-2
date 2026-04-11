@@ -4,26 +4,23 @@ pretty - [cumulative](/playlists/cumulative/5s7cNVeGfehrRfCatNN43P.md) - [plain]
 
 > Song Of The Week at the top.
 
-[Popjustice](https://open.spotify.com/user/popjustice) - 10,852 likes - 17 songs - 1 hr 1 min
+[Popjustice](https://open.spotify.com/user/popjustice) - 10,853 likes - 14 songs - 45 min 39 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Bodyfeeling](https://open.spotify.com/track/1hXtXrkP0n04Cx5DUyQNdX) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [U](https://open.spotify.com/album/1qSS0T6Ffrb3rFVpizzOuk) | 4:08 |
-| 2 | [Leak It](https://open.spotify.com/track/4dVFXgnyD7eF61QUrh1UoZ) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Leak It](https://open.spotify.com/album/3TV3QP4ZguG7zaqXSk1Y5K) | 3:03 |
-| 3 | [Lost In The Back Of My Mind](https://open.spotify.com/track/4si6e3qSbzhKHUoSqskfxI) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [Lost In The Back Of My Mind](https://open.spotify.com/album/1Bf8BDVKuVtgq0CONIVahC) | 2:50 |
-| 4 | [So What](https://open.spotify.com/track/2mr1Sm2SOzIhaEXyzpd6II) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [So What](https://open.spotify.com/album/4BG0zEeCmqQiO9fqCfycEC) | 4:31 |
-| 5 | [Heavenly](https://open.spotify.com/track/0WAfD3WFJgV5qT39XQlU6v) | [LUNA](https://open.spotify.com/artist/0AZgkXW6n0zfyOhVAnIopA) | [Heavenly](https://open.spotify.com/album/1bdyX4COcfl10V9uceQgnk) | 2:42 |
-| 6 | [an apple a day](https://open.spotify.com/track/08IKQb7qhq6BnZDd8lDO9O) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [an apple a day](https://open.spotify.com/album/4MRBQyuMxJgao3Z96O7mPn) | 5:16 |
-| 7 | [SWIM](https://open.spotify.com/track/4g5eopb54XIaV2ciooY3St) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN) | 2:39 |
-| 8 | [Simple Solution](https://open.spotify.com/track/69sfdnccdv6qGt8lguf0En) | [samxemma](https://open.spotify.com/artist/3t0tkWfZvQbKkmji8oa26y) | [Us Forever](https://open.spotify.com/album/2eLMyVmP9ywXfYMT1PA645) | 3:32 |
-| 9 | [Dancefloor Erotica](https://open.spotify.com/track/2MlsfGExMAkNVKDquULW3L) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Dancefloor Erotica](https://open.spotify.com/album/46j1tnLKpJTtpa8eDl9aes) | 2:51 |
-| 10 | [Lucky](https://open.spotify.com/track/5GiFgGd6y4X3YtyCWAF26N) | [Honey.](https://open.spotify.com/artist/2Rki2mP8GPq0ZTeHqSbcMN) | [Lucky](https://open.spotify.com/album/6c2DnNX1aGy7dAJ3xSaXlb) | 3:08 |
-| 11 | [Miyazaki](https://open.spotify.com/track/4VdqXAgfC79LeweD9qVgVZ) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [Miyazaki](https://open.spotify.com/album/1UOlu9Gxe7HFYg3Ifsolp9) | 3:24 |
-| 12 | [NOW!!](https://open.spotify.com/track/0sKwm4X2Btkg5HpUUt5Vov) | [Arlissa](https://open.spotify.com/artist/7wzaSKTsjE9HnuDuZTX452) | [NOW!!](https://open.spotify.com/album/3Rg8j02dpIfrU2Wts4XoHF) | 3:49 |
-| 13 | [Happy Birthday](https://open.spotify.com/track/2kNtiNtCbRbw3vP2qG6Ae9) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Written into Changes](https://open.spotify.com/album/652IHz4kGbrNGIkq40T6wU) | 3:53 |
-| 14 | [Dinner Party](https://open.spotify.com/track/1EpOBcogQexzXarRTUDlDH) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Dinner Party](https://open.spotify.com/album/3x7Y0DerIKV86QgiyEbrkT) | 2:34 |
-| 15 | [Click Clack Symphony\. \(feat\. Hans Zimmer\)](https://open.spotify.com/track/5PspYmmQ8nKESNTcBY2LlX) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Click Clack Symphony\. \(feat\. Hans Zimmer\)](https://open.spotify.com/album/16dAl7WPULgJnqi536jTjh) | 5:01 |
-| 16 | [Space](https://open.spotify.com/track/0w88RbYHwVDAbLGSJzsRa9) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Space](https://open.spotify.com/album/6KQgOvQJ1NoFUXX1BuAzfZ) | 4:02 |
-| 17 | [Buffalo 66](https://open.spotify.com/track/1mMxIUFIpF3K5YJ6UXHTKd) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [Jesus loves a primadonna](https://open.spotify.com/album/4ZJSi7rQlpEjPgdZVkn9uK) | 4:27 |
+| 1 | [PINKY UP](https://open.spotify.com/track/4KmkJjHTNlr1jFY56Lyz4E) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [PINKY UP](https://open.spotify.com/album/5tLy0MEMDVqiHKso6B4jnz) | 2:11 |
+| 2 | [Playing God](https://open.spotify.com/track/4bwDWqFm8HnL03TdAvsRQs) | [PUNCHBAG](https://open.spotify.com/artist/4cIkY1R6unpsnIdkLfOTFf) | [I Am Obsessed](https://open.spotify.com/album/7N0dh5jvvd5CyVIrO21eMK) | 4:07 |
+| 3 | [That's When You Know](https://open.spotify.com/track/1XhItJSBxL5yKh0V0ymg6D) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [That's When You Know](https://open.spotify.com/album/2XgEVPnq6LHLAKAIJXmlHZ) | 3:13 |
+| 4 | [Echo](https://open.spotify.com/track/1HJqcvrJAgiID47SEGe27X) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Echo](https://open.spotify.com/album/37CYoaYJA39qUt4zl00Dnp) | 3:39 |
+| 5 | [Homework \(feat\. Lancey Foux\)](https://open.spotify.com/track/3DPmmX5uRSoEpldlHmP8Eq) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [Homework \(feat\. Lancey Foux\)](https://open.spotify.com/album/6CCd4UhRDwzxnODDJlOUpi) | 2:34 |
+| 6 | [Bad Angel \(with LISA\)](https://open.spotify.com/track/4QR40LqFAbMdabh4AoZJGZ) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Bad Angel \(with LISA\)](https://open.spotify.com/album/4RyojhEO0VsnNacY6C3te7) | 2:33 |
+| 7 | [Sick Of Love](https://open.spotify.com/track/6aPG5Atb3L3l8pZYzLrpEi) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Sick Of Love](https://open.spotify.com/album/2ETP833yyVmqvtnbnRHtxb) | 3:36 |
+| 8 | [The Soul](https://open.spotify.com/track/7E9nwEq0qTesc7a6KjdUqn) | [Sarah Nimmo](https://open.spotify.com/artist/2U6enUXvLRB7L29djdKqJO) | [The Soul](https://open.spotify.com/album/0omXOMUoU38QkjkKylzae6) | 3:37 |
+| 9 | [Expressions \(feat\. Kosmo Kint\)](https://open.spotify.com/track/7pDOfEWXhRY6L2JXkGl3Ap) | [Rio Tashan](https://open.spotify.com/artist/62fNRc1B7PXFC32lgbtzi2), [Kosmo Kint](https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn) | [Expressions \(feat\. Kosmo Kint\)](https://open.spotify.com/album/4puy8244T6ejwnvusrLoo4) | 3:00 |
+| 10 | [Freaky 1](https://open.spotify.com/track/5cefCIhgIJgsG3r3LcRmwB) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Ali Love](https://open.spotify.com/artist/5XJp0gYotUfFraS626GSge) | [Freaky 1](https://open.spotify.com/album/2iI0aQO2hrnBmMDIUvrLJS) | 3:52 |
+| 11 | [RUNWAY](https://open.spotify.com/track/7BjcYqD0CqXnG45ezWSTYR) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [RUNWAY](https://open.spotify.com/album/0WY1wVmchFYlH4f1yZMc90) | 2:51 |
+| 12 | [lil qoo](https://open.spotify.com/track/0iX9RT9NmaeX9yEflLXTzc) | [tsubi club](https://open.spotify.com/artist/6fHEaFnFgMxMAtDt7mFoQ3) | [trinket](https://open.spotify.com/album/20uJcpJbimpsyG7v9kL5Co) | 3:48 |
+| 13 | [Never Know Love](https://open.spotify.com/track/2tlONys5V3ZuO5OxrDJfE8) | [Bea](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Never Know Love](https://open.spotify.com/album/2AZdDD0w09CGHCDKP2Tqnf) | 3:09 |
+| 14 | [EVERYTHING](https://open.spotify.com/track/7B2qUMtvYuAr8QGCx1vVij) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [EVERYTHING](https://open.spotify.com/album/4i49RtwqvKoilyro0TIypt) | 3:23 |
 
-Snapshot ID: `AAALse8QA8wauajLAUBpokM3AM9r+H2t`
+Snapshot ID: `AAALs7Bw7qyMZd5bpjcyCHtti0MihdNn`

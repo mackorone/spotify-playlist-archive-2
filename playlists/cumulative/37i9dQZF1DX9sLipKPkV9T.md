@@ -4,7 +4,7 @@
 
 > כל הפופ היפה והמרגש של ישראל\. קאבר: נטע ברזילי
 
-606 songs - 1 day 7 hr 54 min
+607 songs - 1 day 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -444,6 +444,7 @@
 | [מעונה לעונה](https://open.spotify.com/track/3FYdP6pprYqBtGwzqEtCsx) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [שיחות שלום](https://open.spotify.com/album/2W1Ud6bXVvGSMJVj6xfUTj) | 3:34 | 2025-07-17 | 2025-10-31 |
 | [מפרש לבן](https://open.spotify.com/track/4GzV9XajF9E8rSLAZa9WVA) | [Jimbo J](https://open.spotify.com/artist/6ltKIf1bortd0DQbpgKdQu) | [מפרש לבן](https://open.spotify.com/album/2Rklq8xzKHOGa64ZuKSDKZ) | 4:10 | 2025-03-20 | 2025-07-11 |
 | [מצאת קצת שקט](https://open.spotify.com/track/24fNT4hgA4er3z3i2Z2OUn) | [Maya Buskila](https://open.spotify.com/artist/4UnEeDqvDJudbJcn6GYSlS) | [מצאת קצת שקט](https://open.spotify.com/album/6nZrjfx7rxYlUxonmzCsuH) | 3:14 | 2025-12-04 | 2026-01-15 |
+| [מצאתי פינה](https://open.spotify.com/track/55U9lh5quFTrNsqHV0o7ZS) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [מצאתי פינה](https://open.spotify.com/album/4EGyGgAG5PVx0A8wX9IY8u) | 4:04 | 2026-04-10 |  |
 | [מקום בחייך](https://open.spotify.com/track/3odiIlhzbc43pFUiUXQSwH) | [Yam Refaeli](https://open.spotify.com/artist/0VWxCUPjwYC1haUA2kCrp6) | [מקום בחייך](https://open.spotify.com/album/2JoZx4ITfjtsyT1IZ0ObZ2) | 2:56 | 2024-06-27 | 2024-08-02 |
 | [מקום קטן](https://open.spotify.com/track/1Nj9SgKA9OeCGR40lU0hpu) | [Orr Amrami Brockman](https://open.spotify.com/artist/7LYQkaWV7dxEs53F8kP7Ml) | [מקום קטן](https://open.spotify.com/album/43S8jAGLrTWNtZbXTTbx4E) | 3:31 | 2025-10-23 | 2025-11-21 |
 | [מקרב הלבבות](https://open.spotify.com/track/3ES3Vi993SR3JvoDVryv8A) | [בניה ברבי](https://open.spotify.com/artist/0WjQnf1rQ0tY84gGgjrQQ9) | [מקרב הלבבות](https://open.spotify.com/album/1ByKzpw1vbLsBgQiMOo9qR) | 2:24 | 2025-09-04 | 2025-11-21 |

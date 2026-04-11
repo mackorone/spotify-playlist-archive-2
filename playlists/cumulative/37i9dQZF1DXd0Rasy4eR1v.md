@@ -4,7 +4,7 @@
 
 > Editor's picks of freshest Pakistani discoveries you need to listen to\. Cover: Hamzay
 
-1,244 songs - 2 day 18 hr 18 min
+1,245 songs - 2 day 18 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Barsaat, pt\. ii](https://open.spotify.com/track/2DShJZD3LC8IGgpbA1ZGle) | [Ahad Husain](https://open.spotify.com/artist/4LeGmBrvNFs5lT5anM65s2) | [Barsaat, pt\. ii](https://open.spotify.com/album/5uMN6US3fH1ZujRlhJfBxN) | 3:40 | 2023-02-13 | 2023-02-22 |
 | [Barse](https://open.spotify.com/track/6wV51vPTYtewZNGDpHcwWi) | [ZOH](https://open.spotify.com/artist/1T5V8R7QKMhQImEdKNDyFU), [Mitika Kanwar](https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg) | [Barse](https://open.spotify.com/album/6It9s6jgRF07GUUf28VFSK) | 4:00 | 2022-11-17 | 2023-05-06 |
 | [Bas Aik Baar](https://open.spotify.com/track/5hK0BYas3xG1tEch43XV0p) | [Hasan Khurshid](https://open.spotify.com/artist/5CvWN7VpbdRowaj3cACOdu) | [Bas Aik Baar](https://open.spotify.com/album/5aQXyKRSuOJ5aU4QqEqfbi) | 2:57 | 2023-06-09 | 2023-12-09 |
+| [Bas Hum Do](https://open.spotify.com/track/0YM5djlXvCD6BtC3WOBc2T) | [Hamzay](https://open.spotify.com/artist/3jZgv3hijK101spub7clyS) | [Bas Hum Do](https://open.spotify.com/album/7rrcIn8XECyCD9ChagIowq) | 2:48 | 2026-04-10 |  |
 | [Bau Rami](https://open.spotify.com/track/1lhRfS44pTattuf3L07nl2) | [KHIZEEE](https://open.spotify.com/artist/05RAxbVTxfAD4IvbEbFpMK) | [Bau Rami](https://open.spotify.com/album/53SVhVzCjF5OZ7TKchYgoI) | 1:42 | 2022-08-27 | 2023-01-11 |
 | [BCKN4TH](https://open.spotify.com/track/46grFgVVsRlpOFoDTsrabB) | [Maadi](https://open.spotify.com/artist/4PmtD2gc8C6qQQG4frPoZa), [SMK](https://open.spotify.com/artist/19DFB1rgWVgsJ2gUB4s5x6), [malick](https://open.spotify.com/artist/7hzVFWeRNmBU02uD1oTJZU) | [BCKN4TH](https://open.spotify.com/album/3u04VX3DWvLsEwKPo0pwYh) | 2:28 | 2024-09-05 | 2024-12-05 |
 | [Be Reham](https://open.spotify.com/track/4FDwFTi5ZLSq7GzipU7AhS) | [Shuja Haider](https://open.spotify.com/artist/5efKihafekkUH7UjW5XUPt), [Chiraghan Bhatti](https://open.spotify.com/artist/4yo9NZtwxUwuh09uVV8Ymk) | [Be Reham](https://open.spotify.com/album/48IN3hboteFkCdxS4vhQlP) | 3:18 | 2024-04-20 | 2024-05-10 |

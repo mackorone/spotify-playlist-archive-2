@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 
 > African Praise music taking you all the way up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,899 likes - 110 songs - 8 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,918 likes - 110 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 15 | [Bigger Everyday](https://open.spotify.com/track/4VGnb9i2pDrPhppHLmfVHb) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [The membrane](https://open.spotify.com/artist/0XaFHkogeaW0EN4jeO0qI5), [Uwa](https://open.spotify.com/artist/3PhBxIUdrJCXeEprUL5pkV), [Chris Heaven](https://open.spotify.com/artist/0wWIHR4oX0miVq88XpVoYZ), [Temple](https://open.spotify.com/artist/6qicD8blmXzFzYEgGYfYfa) | [Too Faithful](https://open.spotify.com/album/1ELb6tHupgVxBvvSURINnN) | 6:12 |
 | 16 | [Highly Lifted](https://open.spotify.com/track/7B4o2XhrtS0kvWpkxqsP9Q) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc) | [Highly Lifted](https://open.spotify.com/album/3w1eEMex8DPkySUT0hrl3p) | 5:39 |
 | 17 | [Whosoever \- Live](https://open.spotify.com/track/6FfQyUSA8grFb1Y3Wnbanq) | [Wellspring Music](https://open.spotify.com/artist/760XbihuDnesUcKkNEOOIj), [Kanjii Mbugua](https://open.spotify.com/artist/2x6rpLyqNPMMOyDgSvuMWY), [Malachi Lucey](https://open.spotify.com/artist/1lNMOGGfhY4JFmw92Wr1mJ) | [Whosoever \(Live\)](https://open.spotify.com/album/5VD7Hzv0v0cZ5mxUhckuA3) | 4:09 |
-| 18 | [Track 6](https://open.spotify.com/track/2NDUaoJ9h3mTXrAucL0Vv3) | [Mpilo West](https://open.spotify.com/artist/5qSASw5aGWOfyHnZrVR8cf) | [PHEZULU](https://open.spotify.com/album/1dO3Y6U400UZbTTatRpxiy) | 0:00 |
+| 18 | [You Raise Me Up](https://open.spotify.com/track/2NDUaoJ9h3mTXrAucL0Vv3) | [Mpilo West](https://open.spotify.com/artist/5qSASw5aGWOfyHnZrVR8cf), [Deepkid RSA](https://open.spotify.com/artist/1nxzAYhUMCE6o3uRwAxzw3), [Momo RSA](https://open.spotify.com/artist/1xkXXWRbLxrqpevGE7eHI5) | [PHEZULU](https://open.spotify.com/album/1dO3Y6U400UZbTTatRpxiy) | 3:32 |
 | 19 | [More Life \- CRWN ØF THRNZ Remix](https://open.spotify.com/track/6zkOlIRQ63PszTKt8TXRHS) | [Joel Brown](https://open.spotify.com/artist/0NPyI4OlrMBcH6rPxEgE5n), [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5), [CRWN ØF THRNZ](https://open.spotify.com/artist/4VnZ6kOonI4OKwKD1iSJQL) | [More Life \(CRWN ØF THRNZ Remix\)](https://open.spotify.com/album/2yT3TLbQhkCwmppZh80IvH) | 4:13 |
 | 20 | [E Dey Flow](https://open.spotify.com/track/7BvQTLZXj9XDG9BZnGLZtO) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Neeja](https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi), [SpotLite Nation](https://open.spotify.com/artist/2UhKWXKdeg54DFRMVK3wqS), [Ajay Asika](https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE) | [E Dey Flow](https://open.spotify.com/album/4qt2lEkiK39cy0nnbfJMLW) | 2:36 |
 | 21 | [looking for You](https://open.spotify.com/track/2pwzpvKhbiz67yu6QZpVXJ) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [looking for You](https://open.spotify.com/album/09JJYTEAPsuiG15YXBUXGL) | 2:33 |

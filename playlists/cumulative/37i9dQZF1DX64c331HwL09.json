@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-25",
-  "description": "Take your seats. The show is about to begin. Co-curated by The Tony Awards.",
+  "description": "Take your seats, the show is about to begin.",
   "name": "Broadway Overtures",
   "tracks": [
     {
@@ -584,6 +584,24 @@
       "duration_ms": 42306,
       "name": "Overture",
       "url": "https://open.spotify.com/track/5OOFrEEkrKwwe1zM79BAEB"
+    },
+    {
+      "album": {
+        "name": "CHESS the Musical (2025 Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/27MXrcyr0fg5oABxibAMa5"
+      },
+      "artists": [
+        {
+          "name": "CHESS 2025 Broadway Orchestra",
+          "url": "https://open.spotify.com/artist/5M0maBty7pnMj3IDBeYBhW"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174497,
+      "name": "Overture",
+      "url": "https://open.spotify.com/track/4Jvid5FUqLjNa6bec2iGSQ"
     },
     {
       "album": {

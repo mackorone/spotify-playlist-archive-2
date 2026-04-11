@@ -4,7 +4,7 @@
 
 > Your family can visit all of the animals at the zoo with this fun playlist.
 
-143 songs - 5 hr 1 min
+144 songs - 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,12 +137,13 @@
 | [The Panda Dance](https://open.spotify.com/track/1BDVGmu2TYctovnQFm7c5h) | [Donkey Hodie](https://open.spotify.com/artist/0veqerL1ZVLesDV9eSFMI6), [Grampy Hodie](https://open.spotify.com/artist/5n56YuefcnlRPelmhFeqMQ), [Cousin Hodie](https://open.spotify.com/artist/107kFbUMRtvZpps9cyqoYH) | [Donkey Hodie Hee\-Hawesome Songs](https://open.spotify.com/album/5nzYFdPlSO8CiRARbbG6sS) | 1:47 | 2025-07-20 |  |
 | [The Zebra Question](https://open.spotify.com/track/77kEqhMF5UZOddBwVgA2hW) | [Caspar Babypants](https://open.spotify.com/artist/4wwj0BGZ6T61LB1jBWdo0n) | [Bug Out!](https://open.spotify.com/album/52ZI4mxoOizsmloKZfvesC) | 2:23 | 2022-02-01 |  |
 | [The Zoo](https://open.spotify.com/track/2bKEQq8LickshGi4NdQlUH) | [Juice Box Heroes](https://open.spotify.com/artist/59jD6ZyWCyKIXj7wbUMgZs) | [No Sugar Added](https://open.spotify.com/album/0cqtwAOjYoIxjbDUcyV790) | 2:34 | 2022-02-01 |  |
+| [There's an Animal That I See](https://open.spotify.com/track/38SPer8dqQvGIPdSSMqNBy) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [There's an Animal That I See](https://open.spotify.com/album/4suCqc4zOC8wafd5i9mzEp) | 2:55 | 2026-04-10 |  |
 | [This Little Piggy](https://open.spotify.com/track/2jg0nkV5VvKEWdrn1GqmTv) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Animal Songs and Nursery Rhymes for Children, Vol\. 4 \- Fun Songs for Learning with LittleBabyBum](https://open.spotify.com/album/3oB4zapMRPG6Poomj8mgbr) | 1:37 | 2022-07-25 | 2024-04-19 |
 | [This Little Piggy](https://open.spotify.com/track/45gz2svkyU2VI3HMSaF0kF) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Nursery Rhymes & Children's Songs, Vol\. 2 \(Sing & Learn with LittleBabyBum\)](https://open.spotify.com/album/1fGDcgi6S9sclUeyGPMaKU) | 1:37 | 2022-07-25 | 2022-11-14 |
 | [This Little Piggy](https://open.spotify.com/track/6eIAL4vyNV85bS2ibvcBd7) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Animal Songs, Vol\. 2](https://open.spotify.com/album/57EVetORlpx4SiKLTr6KoT) | 1:37 | 2022-02-01 |  |
 | [Walking in the Jungle \(Noodle & Pals\)](https://open.spotify.com/track/4oEVDEWT1NhOY1eroalRWq) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a), [Noodle & Pals](https://open.spotify.com/artist/5r4Bnflqc1rt8z3UIhwwKf) | [Walking in the Jungle \(Noodle & Pals\)](https://open.spotify.com/album/38aF5dFMx6IWGMcLVLu59D) | 3:17 | 2024-03-15 |  |
 | [Watching the Ponies](https://open.spotify.com/track/4x6TgA12lMOzcMK9klfQze) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Wiggle Up, Giddy Up!](https://open.spotify.com/album/3KGtEQo5N3kxOWgWDrLHjP) | 1:02 | 2025-03-07 |  |
-| [What Do You Hear?](https://open.spotify.com/track/4bzPmmlCWmyltVft0vxHfc) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a), [Noodle & Pals](https://open.spotify.com/artist/5r4Bnflqc1rt8z3UIhwwKf) | [What Do You Hear?](https://open.spotify.com/album/6tGcGYE47Vrvpaffpd3kj8) | 3:01 | 2026-02-20 |  |
+| [What Do You Hear?](https://open.spotify.com/track/4bzPmmlCWmyltVft0vxHfc) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a), [Noodle & Pals](https://open.spotify.com/artist/5r4Bnflqc1rt8z3UIhwwKf) | [What Do You Hear?](https://open.spotify.com/album/6tGcGYE47Vrvpaffpd3kj8) | 3:01 | 2026-02-20 | 2026-04-11 |
 | [What Is a Bird?](https://open.spotify.com/track/619VhpdmxCBHpolXyJbyCw) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Pancake Manor](https://open.spotify.com/album/6SCnHCUmOHe77UlUouWyrO) | 1:57 | 2022-02-01 |  |
 | [What is a Bird?](https://open.spotify.com/track/6zKoMXI1ApEnbiWyOA1Qy6) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Pancake Manor](https://open.spotify.com/album/5nfoLW8Ut0picjRjdGcC0g) | 1:57 | 2022-07-25 | 2024-04-19 |
 | [When You're Living In The Zoo](https://open.spotify.com/track/3Pbl7P6xuV9lzZ7veNDTHj) | [Jimmy Barnes](https://open.spotify.com/artist/1k5aZWIOUbUfKcnMxtEivJ), [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Och Aye The G’Nu](https://open.spotify.com/album/0JhyE3KLmbA9k7mkj3YVnz) | 1:46 | 2022-02-01 |  |

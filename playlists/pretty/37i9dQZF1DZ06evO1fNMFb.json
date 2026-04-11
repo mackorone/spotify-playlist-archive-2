@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adWagAAAAAAmmChdl3wu2F1lcKwwsGMt",
+  "snapshot_id": "adbsAAAAAACcgLRhnSbnE4MUJF4lRRrj",
   "tracks": [
     {
       "added_at": null,
@@ -223,22 +223,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saanvarey",
-        "url": "https://open.spotify.com/album/69rceaPY8Gc7nutstZ4oI5"
+        "name": "Wedding Season (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/3SXe7OIHWx0VnxugqYMiFv"
       },
       "artists": [
-        {
-          "name": "Armaan Malik",
-          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
-        },
         {
           "name": "Natania",
           "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
         }
       ],
-      "duration_ms": 152926,
-      "name": "50/50",
-      "url": "https://open.spotify.com/track/22hfS6XgllEJyBcAX9s7BM"
+      "duration_ms": 164453,
+      "name": "Show Me",
+      "url": "https://open.spotify.com/track/604BDNGxzL9IyKMFODcZpV"
     },
     {
       "added_at": null,
@@ -267,18 +263,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wedding Season (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/3SXe7OIHWx0VnxugqYMiFv"
+        "name": "Saanvarey",
+        "url": "https://open.spotify.com/album/69rceaPY8Gc7nutstZ4oI5"
       },
       "artists": [
+        {
+          "name": "Armaan Malik",
+          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
+        },
         {
           "name": "Natania",
           "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
         }
       ],
-      "duration_ms": 164453,
-      "name": "Show Me",
-      "url": "https://open.spotify.com/track/604BDNGxzL9IyKMFODcZpV"
+      "duration_ms": 152926,
+      "name": "50/50",
+      "url": "https://open.spotify.com/track/22hfS6XgllEJyBcAX9s7BM"
     },
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Haule Haule",
-        "url": "https://open.spotify.com/album/0nbatMNOhz0rm79eC6C0Ys"
-      },
-      "artists": [
-        {
-          "name": "Natania",
-          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
-        }
-      ],
-      "duration_ms": 243884,
-      "name": "Haule Haule",
-      "url": "https://open.spotify.com/track/3I4JiUh4I6I2JJaqfIT7dO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Four More Shots Please! (Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/5tPTepsnKKIx3wFoqX3dxt"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 127142,
       "name": "Turn It Up",
       "url": "https://open.spotify.com/track/0j4LCT2EV0rDKBE9Qp34o2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Haule Haule",
+        "url": "https://open.spotify.com/album/0nbatMNOhz0rm79eC6C0Ys"
+      },
+      "artists": [
+        {
+          "name": "Natania",
+          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
+        }
+      ],
+      "duration_ms": 243884,
+      "name": "Haule Haule",
+      "url": "https://open.spotify.com/track/3I4JiUh4I6I2JJaqfIT7dO"
     },
     {
       "added_at": null,
@@ -610,11 +610,15 @@
         {
           "name": "Mikey McCleary",
           "url": "https://open.spotify.com/artist/6p4FpOvJaSSljYGlkKsS40"
+        },
+        {
+          "name": "Naquita D'souza",
+          "url": "https://open.spotify.com/artist/1zgVFfNaXfoa3tDYKMuOEq"
         }
       ],
-      "duration_ms": 159200,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/6cyc79czzQVSa9ABu4AJhy"
+      "duration_ms": 171950,
+      "name": "Burned Out",
+      "url": "https://open.spotify.com/track/3Aofkcqfh8ebCQ6YiMxfpM"
     },
     {
       "added_at": null,
@@ -651,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Muscle Memory",
-        "url": "https://open.spotify.com/album/0Fl07QjsJOeWNP6E9NCGNm"
+        "name": "Sad",
+        "url": "https://open.spotify.com/album/1X3TTW5hNV7A0gJaBGzpMB"
       },
       "artists": [
         {
@@ -660,9 +664,9 @@
           "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
         }
       ],
-      "duration_ms": 168979,
-      "name": "Muscle Memory",
-      "url": "https://open.spotify.com/track/7h9amwuFvQAqYZVaNHk6Gp"
+      "duration_ms": 188571,
+      "name": "Sad",
+      "url": "https://open.spotify.com/track/52EleUmw3To945occUhmjE"
     },
     {
       "added_at": null,
@@ -682,31 +686,11 @@
         {
           "name": "Mikey McCleary",
           "url": "https://open.spotify.com/artist/6p4FpOvJaSSljYGlkKsS40"
-        },
-        {
-          "name": "Naquita D'souza",
-          "url": "https://open.spotify.com/artist/1zgVFfNaXfoa3tDYKMuOEq"
         }
       ],
-      "duration_ms": 171950,
-      "name": "Burned Out",
-      "url": "https://open.spotify.com/track/3Aofkcqfh8ebCQ6YiMxfpM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sad",
-        "url": "https://open.spotify.com/album/1X3TTW5hNV7A0gJaBGzpMB"
-      },
-      "artists": [
-        {
-          "name": "Natania",
-          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
-        }
-      ],
-      "duration_ms": 188571,
-      "name": "Sad",
-      "url": "https://open.spotify.com/track/52EleUmw3To945occUhmjE"
+      "duration_ms": 159200,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/6cyc79czzQVSa9ABu4AJhy"
     },
     {
       "added_at": null,
@@ -727,6 +711,22 @@
       "duration_ms": 160434,
       "name": "King Of The Jungle",
       "url": "https://open.spotify.com/track/4wIf7JumiBvOO6ovqXd1oZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Muscle Memory",
+        "url": "https://open.spotify.com/album/0Fl07QjsJOeWNP6E9NCGNm"
+      },
+      "artists": [
+        {
+          "name": "Natania",
+          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
+        }
+      ],
+      "duration_ms": 168979,
+      "name": "Muscle Memory",
+      "url": "https://open.spotify.com/track/7h9amwuFvQAqYZVaNHk6Gp"
     },
     {
       "added_at": null,
@@ -803,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Us",
-        "url": "https://open.spotify.com/album/0WvjvqCSR2kLQPRm7q6lDw"
-      },
-      "artists": [
-        {
-          "name": "Natania",
-          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
-        }
-      ],
-      "duration_ms": 137000,
-      "name": "Us",
-      "url": "https://open.spotify.com/track/0FY8cOuPMXEjys4gyapW1Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pick It Up",
         "url": "https://open.spotify.com/album/4zdZUbWtKovFIko0m2n5bq"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 144557,
       "name": "Everybody",
       "url": "https://open.spotify.com/track/3B2iUvZKiXLBXhcl3JrY4l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Us",
+        "url": "https://open.spotify.com/album/0WvjvqCSR2kLQPRm7q6lDw"
+      },
+      "artists": [
+        {
+          "name": "Natania",
+          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
+        }
+      ],
+      "duration_ms": 137000,
+      "name": "Us",
+      "url": "https://open.spotify.com/track/0FY8cOuPMXEjys4gyapW1Q"
     },
     {
       "added_at": null,
@@ -867,22 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Talking",
-        "url": "https://open.spotify.com/album/5GRJMxiasbJCbqANAKBlSY"
-      },
-      "artists": [
-        {
-          "name": "Natania",
-          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
-        }
-      ],
-      "duration_ms": 184080,
-      "name": "Talking",
-      "url": "https://open.spotify.com/track/7DH7GCOG8SKKKp6LKkKaYz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pick It Up",
         "url": "https://open.spotify.com/album/4zdZUbWtKovFIko0m2n5bq"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 147967,
       "name": "Let's Go",
       "url": "https://open.spotify.com/track/6IHFvyAoX5nOOYXM4UgJw4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Talking",
+        "url": "https://open.spotify.com/album/5GRJMxiasbJCbqANAKBlSY"
+      },
+      "artists": [
+        {
+          "name": "Natania",
+          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
+        }
+      ],
+      "duration_ms": 184080,
+      "name": "Talking",
+      "url": "https://open.spotify.com/track/7DH7GCOG8SKKKp6LKkKaYz"
     },
     {
       "added_at": null,

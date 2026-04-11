@@ -4,7 +4,7 @@
 
 > Хіти українського репу\. Обкладинка: Parfeniuk & Scroodgee
 
-171 songs - 7 hr 50 min
+172 songs - 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Десять причин](https://open.spotify.com/track/25NlarRPSZbc2JDCfzJxYY) | [OTOY](https://open.spotify.com/artist/2jA3HhqCRImTV9hQF1qz1C) | [Десять причин](https://open.spotify.com/album/1FaBNdDgWZgApuNYyhjJLn) | 3:12 | 2024-09-12 | 2025-07-12 |
 | [Диявол в деталях](https://open.spotify.com/track/5L1fR9v2G74B6xpnFwoYqA) | [Гоня](https://open.spotify.com/artist/0VwCm41TLbckvzuvHuapBh), [Sasha Chemerov](https://open.spotify.com/artist/6EkxNdVClS3VI3zVWbDch9), [Yaski](https://open.spotify.com/artist/00ucOdLyLnP3Xysj3nvjRG) | [Диявол в деталях](https://open.spotify.com/album/3M53tbXCJkZyNPt8icw3J3) | 2:35 | 2025-06-19 | 2026-04-03 |
 | [До світанку](https://open.spotify.com/track/1bxlTXzCuefTibPtYIjPXS) | [Tof](https://open.spotify.com/artist/6uflAfOcyhgcTzIO5f8c3y), [Білий Бо](https://open.spotify.com/artist/5jA8GsN4qtk88Pc0pMWRWM) | [До світанку](https://open.spotify.com/album/55p8NSKLxqSlS7ptkU64yZ) | 2:23 | 2024-06-27 |  |
+| [Дурень](https://open.spotify.com/track/4NNcKdWl7RDR5m9qBCj2il) | [Богдан Купер](https://open.spotify.com/artist/7oVQRtkKW1oTAe6m6yjW7K) | [Дурень](https://open.spotify.com/album/35uE2d2W9KclnhYCyx0pQo) | 2:34 | 2026-04-10 |  |
 | [Душа](https://open.spotify.com/track/5AxlGeul89BowcUufxPQf4) | [Фрай](https://open.spotify.com/artist/0u1L8pq6k21TsAtP0OPq2J) | [Душа](https://open.spotify.com/album/2Z8rGc50B4V2BDBcmjkzqV) | 2:17 | 2026-04-02 |  |
 | [журба](https://open.spotify.com/track/7H3iTpY8sYZySgvlga4FSm) | [jockii druce](https://open.spotify.com/artist/4CDqcsxDc670sXyEMhVt94), [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM), [BADWOR7H](https://open.spotify.com/artist/4ZKMKmBEUvsbivCpxQhRgD) | [trashhouttttttt](https://open.spotify.com/album/57ifk9AiFeBeY5u1BXkmGt) | 2:56 | 2024-06-27 | 2026-02-20 |
 | [ЗА ТЕРИКОНАМИ](https://open.spotify.com/track/4IXr5Feku5VAryvp1QFEpB) | [Мюслі UA](https://open.spotify.com/artist/2QlTrbyPWbGWNmeDCp7QNR), [MISHA SCORPION](https://open.spotify.com/artist/7qUUu0SIH6JhGNSM1QwJsE) | [ЗА ТЕРИКОНАМИ](https://open.spotify.com/album/6jyifzmU6bzMY15qfCRyUj) | 2:50 | 2024-06-27 |  |
@@ -104,7 +105,7 @@
 | [Не ходи](https://open.spotify.com/track/052bAXQ44d4zbNL5nfzf3N) | [Міша Правильний](https://open.spotify.com/artist/6yvtjGJV6Q5XayHVYb3Q1N), [Тур](https://open.spotify.com/artist/3t6Zfl6CFGL2B6BUhWu6Yg), [Гаррі Шульц](https://open.spotify.com/artist/7r5N8qsA3CMzr4Cdh0bS6z), [James Hot](https://open.spotify.com/artist/1w1YMuo6yYb5YW6VRm6Abe) | [Додому\. Глава 1: Болота](https://open.spotify.com/album/0v8WhybvMOxSkPwaQZft7h) | 4:03 | 2026-02-19 | 2026-04-03 |
 | [Не шукав](https://open.spotify.com/track/2e93o8SV4u4oqbZlLKIU7C) | [Balsam](https://open.spotify.com/artist/2NzaO6O0ijqU2a0Cbt1cY3) | [Не шукав](https://open.spotify.com/album/7HZTGXwTX6if5XIJo0NY24) | 2:24 | 2024-06-27 | 2024-07-19 |
 | [Небесам](https://open.spotify.com/track/5FOosBAr7KqLIAaNxBHBCE) | [elarm](https://open.spotify.com/artist/3kHaXuC8z4UDq7sVGaJh21) | [Небесам](https://open.spotify.com/album/5MSRFGWScEAN8l28ZeD74I) | 2:33 | 2026-04-02 |  |
-| [Небо](https://open.spotify.com/track/0rdYKW87aoKvR6tRe4g6rw) | [ROPAN](https://open.spotify.com/artist/2HCZErrApQ6IlnXgxeyCwe) | [Небо](https://open.spotify.com/album/32G5GX4N2YMAwYEdHdp0Ai) | 2:06 | 2025-10-14 |  |
+| [Небо](https://open.spotify.com/track/0rdYKW87aoKvR6tRe4g6rw) | [ROPAN](https://open.spotify.com/artist/2HCZErrApQ6IlnXgxeyCwe) | [Небо](https://open.spotify.com/album/32G5GX4N2YMAwYEdHdp0Ai) | 2:06 | 2025-10-14 | 2026-04-11 |
 | [Небо хилиться](https://open.spotify.com/track/2YxL4H5c4NCPm19E28OPSt) | [alyona alyona](https://open.spotify.com/artist/2ic3GGGmkixOZP4qnakSA8), [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Небо хилиться](https://open.spotify.com/album/6SoyCHcNPVDIPpojssKObm) | 2:37 | 2024-06-27 | 2025-06-07 |
 | [Немає значення](https://open.spotify.com/track/1m1RQgVEuog9wotWDnfkzk) | [Білий Бо](https://open.spotify.com/artist/5jA8GsN4qtk88Pc0pMWRWM) | [Немає значення](https://open.spotify.com/album/0jcEPlA9VZvuOYCe5vWvBr) | 2:21 | 2024-07-11 | 2024-09-13 |
 | [Нібіру](https://open.spotify.com/track/2I8J40Eyg3J5CBXF8ME8ys) | [satelibra](https://open.spotify.com/artist/2HTPbqukNdV7wiPBqdY2MS) | [Нібіру](https://open.spotify.com/album/0t74NPlKrKBHxtPA710Eas) | 3:32 | 2026-02-19 |  |

@@ -4,7 +4,7 @@
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Bye Parula
 
-2,713 songs - 6 day 12 hr 1 min
+2,713 songs - 6 day 12 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1155,6 +1155,7 @@
 | [Ich habe Angst so ohne dich kann ich nicht leben oder kann ich doch ich glaub schon aber schön ists nicht](https://open.spotify.com/track/6SPVWalSMLkWmvZeJ5DNAc) | [Pauls Jets](https://open.spotify.com/artist/2zRWG3p44MolU5goZINmj4) | [Ich habe Angst so ohne dich kann ich nicht leben oder kann ich doch ich glaub schon aber schön ists nicht](https://open.spotify.com/album/1VJ5cMi51uUlNmyKjV3CVy) | 2:32 | 2025-06-26 | 2025-07-18 |
 | [Ich hasse dich](https://open.spotify.com/track/6lwKOluyoRnVpKnQpL5zeH) | [Isolation Berlin](https://open.spotify.com/artist/37vi8sUkMSg3L9BTaMZRrv) | [Electronic Babies](https://open.spotify.com/album/39yozg3oOBupu51Zl9mxdu) | 3:16 | 2025-02-20 | 2025-03-07 |
 | [Ich nehme das Amt nicht an](https://open.spotify.com/track/6aih58KNRaTGH6aJauTDvj) | [Die Sterne](https://open.spotify.com/artist/7hVoi7crxYOHIayk4v9x4Q) | [Ich nehme das Amt nicht an](https://open.spotify.com/album/1WSHDrdiu9SCzTneRMAtMc) | 2:18 | 2025-10-16 | 2025-10-24 |
+| [Ich streichle Tauben](https://open.spotify.com/track/4OrbLteaAmATTXbDyNnP8Z) | [SALÒ](https://open.spotify.com/artist/49uauFOxmzTD83IUpZPdLz) | [Hardcore](https://open.spotify.com/album/32XC1Rvc87JaR5YqCNNj9U) | 3:22 | 2026-04-09 |  |
 | [Ich trag so viele Bilder](https://open.spotify.com/track/3zCKiiZceBP4lbIoSYztIV) | [Fortuna Ehrenfeld](https://open.spotify.com/artist/7xs1dZEBvPCk2zktBhVeKb), [Jenny Thiele](https://open.spotify.com/artist/4puY5cD0nDMPTZNdPs73A9) | [Ich trag so viele Bilder](https://open.spotify.com/album/5rDBVs9CA7IlO2pCzFwESy) | 2:26 | 2026-01-29 | 2026-02-13 |
 | [Ich wollte nie allein](https://open.spotify.com/track/0E1JpLhg0CQmC4F2SmXOqF) | [nand](https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg) | [Ich wollte nie allein](https://open.spotify.com/album/5MAYYrDaMQBoeSCZq8EVtM) | 3:32 | 2026-02-26 | 2026-03-13 |
 | [idgaf](https://open.spotify.com/track/1c17WXb6bzMrrvaN7O1c2Y) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [idgaf](https://open.spotify.com/album/78Vni3er0eUxLVI52aDCgg) | 2:13 | 2025-02-27 | 2025-03-28 |
@@ -1710,6 +1711,7 @@
 | [One Day Will Be All I Have](https://open.spotify.com/track/19wPR7FOTGE51RNh9h5ze3) | [Black Sea Dahu](https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70) | [One Day Will Be All I Have](https://open.spotify.com/album/6P51bLceVuWLrKxm4C0mIQ) | 5:28 | 2025-06-26 | 2025-07-25 |
 | [One Gripe](https://open.spotify.com/track/2Xml90DLbRQ5UI2gUfjAAA) | [Yves Jarvis](https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt) | [All Cylinders](https://open.spotify.com/album/1jooROM5diSNAfEwESyDDH) | 2:29 | 2025-02-27 | 2025-03-07 |
 | [One Hand Free](https://open.spotify.com/track/5NpvCEftUoUx47H6NwT549) | [Ezra Furman](https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY) | [One Hand Free](https://open.spotify.com/album/4S83CAKXZdtSLcfUuryUzm) | 2:41 | 2025-10-16 | 2025-11-14 |
+| [ONE HEART](https://open.spotify.com/track/7ueB0Csn8Q9mKJKuswkwAT) | [Philippa Kinsky](https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0) | [Somebody Who Loves](https://open.spotify.com/album/66KDMCKygtWX9Rk7M7p91N) | 2:50 | 2026-04-09 |  |
 | [One in a Million](https://open.spotify.com/track/1LjBIsVA2ZXWPRfAngNXEQ) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [One in a Million](https://open.spotify.com/album/3uHNY879SWHenRphH1Zpbd) | 4:17 | 2025-08-28 | 2025-09-12 |
 | [One Last Gift \- Edit](https://open.spotify.com/track/5yo3rL4CeUX5vYWoXF0txw) | [Fink](https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf) | [One Last Gift](https://open.spotify.com/album/2sUVYLvpfUO6ViV1IAwi2S) | 3:34 | 2024-06-28 | 2024-07-05 |
 | [One Light Year](https://open.spotify.com/track/0euSxoNJdLNar1Mw9UUhex) | [claire my flair](https://open.spotify.com/artist/0YJlDaNrY5A0if0WeHF1uJ) | [One Light Year](https://open.spotify.com/album/4ezTMTgjgpN1h2NGtI7G6J) | 4:55 | 2025-09-25 | 2025-10-10 |
@@ -2443,8 +2445,6 @@
 | [Tough Love Paradigm](https://open.spotify.com/track/2QIt3LukTeJR4DomwpcKVN) | [Laura Lee & the Jettes](https://open.spotify.com/artist/4727cuqI1mSh8LKNSjG6xr) | [Tough Love Paradigm](https://open.spotify.com/album/6ueN0TyrrYaYLqDY7XXH5L) | 2:57 | 2025-02-20 | 2025-03-21 |
 | [Towards The Dawn](https://open.spotify.com/track/6xrrY73Ths1IJBuWDxE8TZ) | [Public Service Broadcasting](https://open.spotify.com/artist/6VsiDFMZJlJ053P1uO4A6h) | [Towards The Dawn](https://open.spotify.com/album/5KzTRPRbLXif2K3Xx4AsaT) | 3:07 | 2024-10-03 | 2024-10-18 |
 | [Townies](https://open.spotify.com/track/2deA4WXDrTa7jAZuaIAeqo) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bleeds](https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK) | 3:15 | 2025-09-18 | 2025-09-27 |
-| [Track 2](https://open.spotify.com/track/7ueB0Csn8Q9mKJKuswkwAT) | [Philippa Kinsky](https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0) | [Somebody Who Loves](https://open.spotify.com/album/66KDMCKygtWX9Rk7M7p91N) | 0:00 | 2026-04-09 |  |
-| [Track 2](https://open.spotify.com/track/4OrbLteaAmATTXbDyNnP8Z) | [SALÒ](https://open.spotify.com/artist/49uauFOxmzTD83IUpZPdLz) | [Hardcore](https://open.spotify.com/album/32XC1Rvc87JaR5YqCNNj9U) | 0:00 | 2026-04-09 |  |
 | [Tractor Beam](https://open.spotify.com/track/3SCe8EBhzxVx5Tqhv9cYqi) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Tractor Beam](https://open.spotify.com/album/4ZkRrdsD1RP5UdCmDP6s8Q) | 3:34 | 2026-03-26 |  |
 | [Tragic](https://open.spotify.com/track/0h7M39CvtDJl9OzXxYPyf6) | [VARLEY](https://open.spotify.com/artist/72bbAAM5Iz6gsbihCr1Gvc) | [Tragic](https://open.spotify.com/album/3XYFyxePlQpWQmwfeb5oM6) | 2:43 | 2026-02-19 | 2026-03-06 |
 | [Trailers after dark](https://open.spotify.com/track/2Tr7s79xvkh70uA1pW2z1a) | [Finn Wolfhard](https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG) | [Trailers after dark](https://open.spotify.com/album/46s1sq3nEJiTRq3okup3N4) | 3:18 | 2025-04-10 | 2025-04-25 |

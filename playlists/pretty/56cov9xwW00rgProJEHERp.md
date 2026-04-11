@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/56cov9xwW00rgProJEHERp.md) - [plain]
 
 > Tunes from your favourite coffee shop.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 10,558 likes - 99 songs - 5 hr 34 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 10,557 likes - 102 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,5 +107,8 @@ pretty - [cumulative](/playlists/cumulative/56cov9xwW00rgProJEHERp.md) - [plain]
 | 97 | [Cinder Block](https://open.spotify.com/track/4ocbhbmq4kUNWFqCEoUOLs) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Cinder Block](https://open.spotify.com/album/2XMx3ZVns6LFVKu3GpAYN6) | 3:42 |
 | 98 | [Til I'm Gone](https://open.spotify.com/track/2rLLk9R67ftbAhF1yRbSZi) | [Mitch Gorman](https://open.spotify.com/artist/1XBz2uoboAYrTg5jcjN2qw) | [Til I'm Gone](https://open.spotify.com/album/3HiKGUFU2VxKqInhYLHL23) | 2:47 |
 | 99 | [sunstroke](https://open.spotify.com/track/1aq9yIytMTVt8gwv55xksP) | [Sarah Thompson](https://open.spotify.com/artist/7fMszWkv9oChFal6nM505j) | [sunstroke](https://open.spotify.com/album/1Br3coaCOR5uYiqS3lTTnY) | 3:16 |
+| 100 | [Madwoman](https://open.spotify.com/track/0UqHzMvRQnaOXEPKgFVhxN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time: The Final Hour](https://open.spotify.com/album/4DWK6TLXHl1fly2zi5RlO7) | 3:59 |
+| 101 | [ordinary love song](https://open.spotify.com/track/17NrsW6bdRJzkUjCDnEEuj) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [The Acrobat](https://open.spotify.com/album/1VLxDl8t4mVEhcyInmnSH0) | 2:28 |
+| 102 | [Oh, Ana](https://open.spotify.com/track/46G3dLvPYBjRB5WzyvWr32) | [Dominique Way](https://open.spotify.com/artist/5kROZ1F7ExRZyFnHvKdlJ7) | [Oh, Ana](https://open.spotify.com/album/7h9mJCFBWhaRdWHm28xIME) | 3:12 |
 
-Snapshot ID: `AAAW4jzrlPmSjjnaB2mkxW/VeDXrt+b/`
+Snapshot ID: `AAAW5ZYc/JpayEQttfhr2Oz1f5NaUedt`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Best of Hindi Hip-Hop! Cover: Emiway Bantai",
+  "description": "Best of Hindi Hip-Hop! Cover: Yashraj",
   "name": "RAP 91 Hindi",
   "tracks": [
     {
@@ -4255,6 +4255,28 @@
     },
     {
       "album": {
+        "name": "Mujhe Ye Gaana Pasand Hai",
+        "url": "https://open.spotify.com/album/2b6rsPy47iFnQcveub0xEE"
+      },
+      "artists": [
+        {
+          "name": "Yashraj",
+          "url": "https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST"
+        },
+        {
+          "name": "NEVERSOBER",
+          "url": "https://open.spotify.com/artist/4QWgs64BJEmTH6OfcBsEvO"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168510,
+      "name": "Mujhe Ye Gaana Pasand Hai",
+      "url": "https://open.spotify.com/track/4B0ZooeBJvDsNzRRm3V5o3"
+    },
+    {
+      "album": {
         "name": "Mumbai Rap",
         "url": "https://open.spotify.com/album/0aGLkE9zu36Gv52wmL0DFT"
       },
@@ -6812,7 +6834,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 192676,
       "name": "Woh Raat",
       "url": "https://open.spotify.com/track/27xsLWmSmEAiXABnOngOw7"

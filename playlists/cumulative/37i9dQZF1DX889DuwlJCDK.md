@@ -4,7 +4,7 @@
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。cover: ねぐせ。
 
-1,718 songs - 4 day 7 hr 47 min
+1,719 songs - 4 day 7 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1219,6 +1219,7 @@
 | [リプライ](https://open.spotify.com/track/4KbmOp2YdArim0V89bsUJY) | [Catfood Salmons](https://open.spotify.com/artist/6M2RO8H6cJ0b5ZFFXVMoBN) | [リプライ](https://open.spotify.com/album/5CGIMmdPEBoymMSvkuiOXj) | 3:26 | 2024-01-31 | 2024-02-07 |
 | [リーガル・ガール](https://open.spotify.com/track/62fegJpY72DfN6VJ6RWEfY) | [aug.1020](https://open.spotify.com/artist/56Sj5dh45KttT8EFLDEaAo) | [リーガル・ガール](https://open.spotify.com/album/1D3RKoWPj0hIux5Ipj2ghe) | 3:02 | 2025-01-21 | 2025-02-05 |
 | [ルックアットミー](https://open.spotify.com/track/2T41XBXEgCEPJGsiVSUqtP) | [ガラクタ](https://open.spotify.com/artist/7lcx8q6UJSp5VnlV0FRJOA) | [ルックアットミー](https://open.spotify.com/album/1tzE86plPYE5MSi87kLWLD) | 2:24 | 2025-09-16 | 2025-11-02 |
+| [ルックバックインサッドネス](https://open.spotify.com/track/5eSQcSD717Z9aeUjM0hfPZ) | [ルサンチマン](https://open.spotify.com/artist/5LvaknCVL7R16LCiSktKEm) | [ルックバックインサッドネス](https://open.spotify.com/album/0yAUiaiB66q3AQPwlWfhmS) | 3:38 | 2026-04-07 |  |
 | [ルビを振れ](https://open.spotify.com/track/261ruVr8QvDtNgEdua6GrQ) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [ルビを振れ](https://open.spotify.com/album/3oCcpl90Mh5q9IW8o7CfjS) | 3:54 | 2024-11-12 | 2025-02-02 |
 | [ルーツ](https://open.spotify.com/track/3U4sMDIlhDRyHtnJmaNUNR) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [ルーツ](https://open.spotify.com/album/2oHZkXP1kzX5USWN7rT6dc) | 3:15 | 2025-01-14 | 2025-11-05 |
 | [ルー・ティーン](https://open.spotify.com/track/35hr06cOrc9r7d7rFCeP7c) | [FOMARE](https://open.spotify.com/artist/615ixHXsfFwzxgw3sOPICH) | [ルー・ティーン](https://open.spotify.com/album/1yjPzag78uBOQAnGXf7yWd) | 3:55 | 2023-11-07 | 2023-11-16 |
@@ -1263,7 +1264,7 @@
 | [会いたくなって、飛んだバイト](https://open.spotify.com/track/5zY4faVL5mefzyO4HSBHoc) | [yutori](https://open.spotify.com/artist/4XFmgxfJrxEHZ1nLXf2Zv0) | [会いたくなって、飛んだバイト](https://open.spotify.com/album/4lx6wgb1j0KwJSlbWn6yEg) | 3:36 | 2023-09-07 | 2023-09-13 |
 | [何℃でも](https://open.spotify.com/track/2ikLDvw4nyhN7CDYrXoNRY) | [ammo](https://open.spotify.com/artist/3482dVicMV9A5tThd1ufSx) | [re:奏\-EP](https://open.spotify.com/album/2BU3gz6giXbNprtohG1N1U) | 3:57 | 2024-01-16 | 2024-03-13 |
 | [何者](https://open.spotify.com/track/27FUEKrI5GK1JlBdvYVPRO) | [the shes gone](https://open.spotify.com/artist/689D5sYXTKmpBXqAkAu0H7) | [AGAIN](https://open.spotify.com/album/6AEKlmz50QcOuLeIpPxuUE) | 3:26 | 2025-03-25 | 2025-05-13 |
-| [余熱](https://open.spotify.com/track/5ey3sxOv6cmVXynUxp81C2) | [Nombrari](https://open.spotify.com/artist/0tN5CyaLXdQ0MjJFfZZNx2) | [ときどき光る](https://open.spotify.com/album/0SCDXW27Ur9XWzOFEbrzdc) | 3:03 | 2026-03-31 |  |
+| [余熱](https://open.spotify.com/track/5ey3sxOv6cmVXynUxp81C2) | [Nombrari](https://open.spotify.com/artist/0tN5CyaLXdQ0MjJFfZZNx2) | [ときどき光る](https://open.spotify.com/album/0SCDXW27Ur9XWzOFEbrzdc) | 3:03 | 2026-03-31 | 2026-04-11 |
 | [値千金](https://open.spotify.com/track/7mX0z3O3SpT6SFGLJAnNWy) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [値千金](https://open.spotify.com/album/3os5FZ32x5aQUF6C0PILq2) | 4:46 | 2023-12-28 | 2024-12-18 |
 | [倦怠モラトリアム](https://open.spotify.com/track/4X1T4oalHzBKUj3gwsBPES) | [the paddles](https://open.spotify.com/artist/49QNPOMtx2yZmOxXGqJ1MO) | [オールタイムラブユー E.P.](https://open.spotify.com/album/3YYe5r2XUyAYVcI9UC0fXo) | 2:33 | 2024-12-17 | 2025-05-17 |
 | [傷ついちゃえばいいのに](https://open.spotify.com/track/6n7RwwjMMMv8jybYCTjebj) | [Fish and Lips](https://open.spotify.com/artist/79Vm1EXJ1Jk7CyYLTNGe5J) | [傷ついちゃえばいいのに](https://open.spotify.com/album/5TgD6ark8kMfgs63MsNXRl) | 4:35 | 2025-09-16 | 2025-10-01 |

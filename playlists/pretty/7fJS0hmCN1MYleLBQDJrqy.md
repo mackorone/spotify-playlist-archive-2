@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7fJS0hmCN1MYleLBQDJrqy.md) - [plain]
 
 > De beste studentenbangers in één playlist 🍺🔥  \| Cover: Samuel Welten, Bankzitters
 
-[Topsify Benelux](https://open.spotify.com/user/playlistme.nl) - 52,647 likes - 54 songs - 2 hr 28 min
+[Topsify Benelux](https://open.spotify.com/user/playlistme.nl) - 52,640 likes - 54 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/7fJS0hmCN1MYleLBQDJrqy.md) - [plain]
 | 53 | [Beauty & De Brains](https://open.spotify.com/track/4aOqKc3Zdg4m5uK3mqAM8B) | [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT) | [Zo Van Ah Yeah](https://open.spotify.com/album/1HWYzaevKQh0f5aIC2tlxe) | 3:08 |
 | 54 | [Feel It Still](https://open.spotify.com/track/7FESgYLcOufHqKlwrvJN60) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Feel It Still](https://open.spotify.com/album/2fbps64P1Z4EEktydBn9yZ) | 2:43 |
 
-Snapshot ID: `AAAT4TAg6VaYt78CUJzbkLvNuayySYYg`
+Snapshot ID: `AAAT4xNTk69xfkNJ3l6zWvnyJ80voC/e`

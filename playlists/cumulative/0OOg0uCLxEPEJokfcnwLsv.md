@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-433 songs - 1 day 2 hr 54 min
+434 songs - 1 day 3 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -389,6 +389,7 @@
 | [Time to Heal](https://open.spotify.com/track/6TNPl5MZg4c0lkuJbvn5Hc) | [Pin Dog](https://open.spotify.com/artist/57B5OFNTlSQZ4aofUvFRZR) | [Time to Heal](https://open.spotify.com/album/4f704M5LVep2ENY3BM7SKG) | 3:13 | 2025-12-03 | 2025-12-28 |
 | [Timewaster](https://open.spotify.com/track/5LwBGdNj4Vk7hPAP2EqECk) | [PØRTERS](https://open.spotify.com/artist/7DWxOAA8RP8Cu0B8ucNy0Q) | [Timewaster](https://open.spotify.com/album/0Zo0pv0cD2ZrszpAw7EJjE) | 3:35 | 2026-03-26 |  |
 | [To Rule the Ashes](https://open.spotify.com/track/77e04bK25khHgiScrDOY0i) | [American Thought Criminals](https://open.spotify.com/artist/0ASVg1JnnEPszuOe6CSNKk) | [Over the Target](https://open.spotify.com/album/2Lf8xmMCpCFEZgg45lbt7l) | 2:36 | 2026-01-15 | 2026-02-18 |
+| [Tonight](https://open.spotify.com/track/6bGdPY1JouZH9X6vfRw5wT) | [LOWSTONE](https://open.spotify.com/artist/6k0RzhlZFShZMv5nMdX6tI) | [Tonight](https://open.spotify.com/album/3UvJthTugKEgXskFI5pmR6) | 5:56 | 2026-04-10 |  |
 | [Too Good To Ignore](https://open.spotify.com/track/1oTPNzxF7XROhYe6AEvTfz) | [Penny Deluxe](https://open.spotify.com/artist/4IqTVknJLCF3Z1gjDPKe2t) | [Too Good To Ignore](https://open.spotify.com/album/42CINCmx63mfUPpe1floNp) | 6:43 | 2026-03-14 |  |
 | [Torn Apart And Wasted](https://open.spotify.com/track/7jyr1VgS4FEvIedi8at6vQ) | [Leave Behind](https://open.spotify.com/artist/0AE6KuLlPDvPpFoiNZmVOW) | [Torn Apart And Wasted](https://open.spotify.com/album/0Bi1TNUxcZRWVSNLi2sfMF) | 3:54 | 2025-12-30 | 2026-01-21 |
 | [Tragic Lullaby](https://open.spotify.com/track/0ygYT9IiBh07owS9z0owCX) | [Theo Ford](https://open.spotify.com/artist/2ohDR2ERUEVCG3RgeXSS7S) | [Timelapse](https://open.spotify.com/album/71NZkMm8F19VNaLbFDQkYE) | 6:20 | 2025-12-30 |  |

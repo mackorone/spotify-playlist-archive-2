@@ -601,6 +601,24 @@
     },
     {
       "album": {
+        "name": "addicted",
+        "url": "https://open.spotify.com/album/7jGpaKTQvBtJtY8ls5CMe3"
+      },
+      "artists": [
+        {
+          "name": "METAHESH",
+          "url": "https://open.spotify.com/artist/0GOeXrdg9HYdG0etf07eyP"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121411,
+      "name": "addicted",
+      "url": "https://open.spotify.com/track/2gw28v2T4ORIpa4gXh2WrW"
+    },
+    {
+      "album": {
         "name": "adore",
         "url": "https://open.spotify.com/album/7EQX3JCzrBRITOYhEKEsXJ"
       },
@@ -3791,6 +3809,24 @@
     },
     {
       "album": {
+        "name": "dream loop",
+        "url": "https://open.spotify.com/album/4AuXNtrLH4J2i6M0Q2yqb0"
+      },
+      "artists": [
+        {
+          "name": "hir\u00e6th",
+          "url": "https://open.spotify.com/artist/3eeveX1dMtylueBGenVFDf"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163001,
+      "name": "dream loop",
+      "url": "https://open.spotify.com/track/0Pb7sCwf1vdv6w33SOyizs"
+    },
+    {
+      "album": {
         "name": "Dream network",
         "url": "https://open.spotify.com/album/290YufmKus4U4klMMT3z6G"
       },
@@ -4998,6 +5034,24 @@
       "duration_ms": 82285,
       "name": "fade away",
       "url": "https://open.spotify.com/track/6Ccy5ZiRYNdKHcFuMRtFea"
+    },
+    {
+      "album": {
+        "name": "fade into light",
+        "url": "https://open.spotify.com/album/3Du1wXc6ROKOj2Nkr9kRnG"
+      },
+      "artists": [
+        {
+          "name": "\u00e9nouement",
+          "url": "https://open.spotify.com/artist/4Si65uDCzmOuXSLocLHiaU"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130285,
+      "name": "fade into light",
+      "url": "https://open.spotify.com/track/3KyWZt5V5FIrkIFIzxHU8q"
     },
     {
       "album": {
@@ -6769,6 +6823,24 @@
     },
     {
       "album": {
+        "name": "hollow hush",
+        "url": "https://open.spotify.com/album/6rMzH68fWLLeYju4kSf0wg"
+      },
+      "artists": [
+        {
+          "name": "METAHESH",
+          "url": "https://open.spotify.com/artist/0GOeXrdg9HYdG0etf07eyP"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117567,
+      "name": "hollow hush",
+      "url": "https://open.spotify.com/track/2XWjZOHO9cesujDyGniDMh"
+    },
+    {
+      "album": {
         "name": "aurora polaris",
         "url": "https://open.spotify.com/album/7xYqxdVF37H4P74mzQeK0J"
       },
@@ -7154,6 +7226,28 @@
       "duration_ms": 112000,
       "name": "i didn't understand",
       "url": "https://open.spotify.com/track/1BCJFzsi8BQLbRA3T9sNtb"
+    },
+    {
+      "album": {
+        "name": "i don't exist anymore",
+        "url": "https://open.spotify.com/album/5vPz4XYeYS04yitY8TS2Ax"
+      },
+      "artists": [
+        {
+          "name": "Unnholy",
+          "url": "https://open.spotify.com/artist/5um0tGaoeKhLVjLjPFG0UX"
+        },
+        {
+          "name": "n\u0153m.",
+          "url": "https://open.spotify.com/artist/04nJ7yf5t9iE3QMW5APTwE"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104571,
+      "name": "i don't exist anymore",
+      "url": "https://open.spotify.com/track/3bZ3IgrCYlMa4gZLbveM4q"
     },
     {
       "album": {
@@ -12872,6 +12966,24 @@
       "duration_ms": 93257,
       "name": "souly emptiness",
       "url": "https://open.spotify.com/track/6s69ZTXwQi9m8QzTnviwhp"
+    },
+    {
+      "album": {
+        "name": "space",
+        "url": "https://open.spotify.com/album/4tgSlSMTD4fRj6pG6j6eAF"
+      },
+      "artists": [
+        {
+          "name": "thenian",
+          "url": "https://open.spotify.com/artist/3ydcLRbuZuZx3rKKemnwhJ"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215327,
+      "name": "space",
+      "url": "https://open.spotify.com/track/6v0a9sdPelw6lGgI3zemHw"
     },
     {
       "album": {

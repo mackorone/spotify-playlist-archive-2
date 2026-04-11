@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Listen to the best songs from faith-based indie artists.  Cover: \nJonathan Ogden",
+  "description": "Listen to the best songs from faith-based indie artists.  Cover: \nPARTY WAVE",
   "name": "Indie Spirit",
   "tracks": [
     {
@@ -150,7 +150,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 170733,
       "name": "a life worth dying",
       "url": "https://open.spotify.com/track/09XxXlkOkp2qeoLE3WGcsg"
@@ -538,7 +538,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 220000,
       "name": "Antenna",
       "url": "https://open.spotify.com/track/5jQLEHcBWnc1reNEDK2UyT"
@@ -3191,6 +3191,24 @@
     },
     {
       "album": {
+        "name": "EVERYTHING",
+        "url": "https://open.spotify.com/album/4i49RtwqvKoilyro0TIypt"
+      },
+      "artists": [
+        {
+          "name": "M.I.A.",
+          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203026,
+      "name": "EVERYTHING",
+      "url": "https://open.spotify.com/track/7B2qUMtvYuAr8QGCx1vVij"
+    },
+    {
+      "album": {
         "name": "everything and more (acoustic)",
         "url": "https://open.spotify.com/album/3ZGMezPAe35xdCEw8layo7"
       },
@@ -4136,7 +4154,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 235841,
       "name": "Get In The River",
       "url": "https://open.spotify.com/track/5lxKpk76ncyBCIvmDFPhvR"
@@ -7720,7 +7738,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 199583,
       "name": "Light of the World (John 8)",
       "url": "https://open.spotify.com/track/6p7qWnVcx1lOXXX1U3ehCp"
@@ -7850,7 +7868,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 169846,
       "name": "Living A Lie",
       "url": "https://open.spotify.com/track/1fxFu9KMbb30G5Csk01BJj"
@@ -10555,6 +10573,28 @@
     },
     {
       "album": {
+        "name": "Fidelity",
+        "url": "https://open.spotify.com/album/4VEedDAjIFSLYbSNLNHcfX"
+      },
+      "artists": [
+        {
+          "name": "Jonny Henninger",
+          "url": "https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4"
+        },
+        {
+          "name": "Mattea Bret",
+          "url": "https://open.spotify.com/artist/6fNpEj8qIBOiH0UpkdlaWK"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205479,
+      "name": "Resurrect (John 20)",
+      "url": "https://open.spotify.com/track/7kMLw2enk84NNp001TSfTw"
+    },
+    {
+      "album": {
         "name": "THRESHOLDS",
         "url": "https://open.spotify.com/album/2pgAmtx7LUbcAVy4KjykbG"
       },
@@ -11569,6 +11609,28 @@
     },
     {
       "album": {
+        "name": "DAWN PATROL",
+        "url": "https://open.spotify.com/album/0DM6P83bgDbFuwNaZz09fh"
+      },
+      "artists": [
+        {
+          "name": "PARTY WAVE",
+          "url": "https://open.spotify.com/artist/6iQ0SOfahRnTthPNGhgzkB"
+        },
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159818,
+      "name": "SOMETHING IN THE WATER",
+      "url": "https://open.spotify.com/track/38abUcedwmO4pyKllQBNxO"
+    },
+    {
+      "album": {
         "name": "Something You Once Knew",
         "url": "https://open.spotify.com/album/45a35sVDNqX5DpTEAwisRl"
       },
@@ -11692,7 +11754,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 169167,
       "name": "SOS",
       "url": "https://open.spotify.com/track/2plxZbunq262aPivPjURsw"
@@ -12631,6 +12693,24 @@
     },
     {
       "album": {
+        "name": "Talking To A Dove",
+        "url": "https://open.spotify.com/album/22XaF4IHvqBCIlWic1GNEb"
+      },
+      "artists": [
+        {
+          "name": "Lani Rose",
+          "url": "https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199950,
+      "name": "Talking To A Dove",
+      "url": "https://open.spotify.com/track/2VBWGfh1WorNT0yHkbG2Va"
+    },
+    {
+      "album": {
         "name": "Taste And See",
         "url": "https://open.spotify.com/album/7tAfgGPhPmkuyS859BMsHg"
       },
@@ -13439,6 +13519,24 @@
     },
     {
       "album": {
+        "name": "To God Be The Glory",
+        "url": "https://open.spotify.com/album/45c0d22lk0ttL7aZvWEWmI"
+      },
+      "artists": [
+        {
+          "name": "Mosaic MSC",
+          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284200,
+      "name": "To God Be The Glory - Studio",
+      "url": "https://open.spotify.com/track/5DTyY5w9NT214c8hrUDZ9H"
+    },
+    {
+      "album": {
         "name": "To Move Your Heart",
         "url": "https://open.spotify.com/album/1pqsyIydGa5dnxp8npesZg"
       },
@@ -13772,6 +13870,24 @@
       "duration_ms": 221818,
       "name": "Unsaid",
       "url": "https://open.spotify.com/track/42T3HLtIgg4sFPRLJ3VRpc"
+    },
+    {
+      "album": {
+        "name": "UP A LEVEL",
+        "url": "https://open.spotify.com/album/5wJMDoABnnJuc3qVgxucpM"
+      },
+      "artists": [
+        {
+          "name": "Kings Kaleidoscope",
+          "url": "https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154360,
+      "name": "UP A LEVEL",
+      "url": "https://open.spotify.com/track/5x8Bmt7LtS9x0VAq3aKuiU"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Oe8zprVH3z.md) - [plain]
 
 > Breathe deep, close your eyes, immerse yourself...\. Water and rain sounds mixed with Tibetan meditation bowls and ambient music, to help you find inner balance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,375 likes - 198 songs - 9 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,549 likes - 198 songs - 9 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,7 +115,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Oe8zprVH3z.md) - [plain]
 | 105 | [Nourish](https://open.spotify.com/track/7hqTccMqJLhNU659bw1qFm) | [re:inhabit](https://open.spotify.com/artist/0qt1gcU5wu2XCs6PyPD7aL) | [Nourish & Replenish](https://open.spotify.com/album/3pzAJNz8AX8XJTi0u9jjkz) | 2:03 |
 | 106 | [Uisge](https://open.spotify.com/track/3DU2zNpNXhEljFIX2yUytB) | [Caius Biel](https://open.spotify.com/artist/7HFBFAbRfdiaHWUXzU1Vsq) | [Uisge](https://open.spotify.com/album/1oo6E2uimQLWLNgcnazIpK) | 2:58 |
 | 107 | [Quiet Explorer](https://open.spotify.com/track/5QCepve7pVYDH3r81mx2tC) | [Devon Fall](https://open.spotify.com/artist/7dUjQYaR5Qa3fS8w5CN3pN) | [Quiet Explorer](https://open.spotify.com/album/3vKpYojebacZJInuEd09Cl) | 3:07 |
-| 108 | [Frequenza Del Cuore 528 Hz \(nature Version\)](https://open.spotify.com/track/04ltEgSfEzF11vXr9OrymS) | [Seconda Fotura](https://open.spotify.com/artist/3dLzY2XAMjuE1soisVnzf7) | [Frequenza Del Cuore 528 Hz \(nature Version\)](https://open.spotify.com/album/5pZuu7kgbojNBoqS3hECmR) | 2:39 |
+| 108 | [Frequenza Del Cuore 528 Hz \(Nature Version\)](https://open.spotify.com/track/04ltEgSfEzF11vXr9OrymS) | [Seconda Fotura](https://open.spotify.com/artist/3dLzY2XAMjuE1soisVnzf7) | [Frequenza Del Cuore 528 Hz \(Nature Version\)](https://open.spotify.com/album/5pZuu7kgbojNBoqS3hECmR) | 2:39 |
 | 109 | [Mama Nature](https://open.spotify.com/track/2CEBHHT6BzgFKYhBssqqQg) | [Aisher Rami](https://open.spotify.com/artist/2zHZRicUVAYrE91sAwS4IJ) | [Mama Nature](https://open.spotify.com/album/3upxOhPupKRO3raIHyjl5v) | 2:57 |
 | 110 | [Eden](https://open.spotify.com/track/0UMFi650xZxD3qj0OxsXKd) | [Nature Pulse](https://open.spotify.com/artist/70vUxFU28oeZCt4GremOQ0) | [Eden](https://open.spotify.com/album/4MQ8zwffRyWpFLh2fZBV9q) | 2:40 |
 | 111 | [Skylit Plains](https://open.spotify.com/track/0OjJS4XbfIoinFh4s9VkQr) | [Gleework](https://open.spotify.com/artist/7mpVI32uln65a45ny7L1Pc) | [Skylit Plains](https://open.spotify.com/album/1eJKDiaX0plhT0hwhOEtTy) | 2:52 |

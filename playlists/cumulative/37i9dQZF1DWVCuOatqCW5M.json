@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Latest music from Badshah,  Salim-Sulaiman, Talwiinder and more.",
+  "description": "Latest music from Amit Trivedi,  Paradox, Monali Thakur and more.",
   "name": "New Music Friday I-Pop ",
   "tracks": [
     {
@@ -354,6 +354,28 @@
       "duration_ms": 121935,
       "name": "Aadat - Alt",
       "url": "https://open.spotify.com/track/2qDZyNVo5t6Pw7HDk5MDER"
+    },
+    {
+      "album": {
+        "name": "Aadatan",
+        "url": "https://open.spotify.com/album/4DED7DzooO2MlYZtmQqvwy"
+      },
+      "artists": [
+        {
+          "name": "Pragati Nagpal",
+          "url": "https://open.spotify.com/artist/5LUjJOXtKNWa7AmUOJbWgH"
+        },
+        {
+          "name": "Showkidd",
+          "url": "https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154045,
+      "name": "Aadatan",
+      "url": "https://open.spotify.com/track/3EurQfYtnpIsp2LCMQeSbM"
     },
     {
       "album": {
@@ -4798,7 +4820,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 264320,
       "name": "Bekhabar",
       "url": "https://open.spotify.com/track/4WnSPlQtnM4Xj3TkxHClxN"
@@ -4900,6 +4922,28 @@
       "duration_ms": 125783,
       "name": "Beqadaran",
       "url": "https://open.spotify.com/track/6d0gsj7yBS0MqWgIkfVFNG"
+    },
+    {
+      "album": {
+        "name": "Besharam Dil",
+        "url": "https://open.spotify.com/album/0boJZM36BfsCUdNBh9myXg"
+      },
+      "artists": [
+        {
+          "name": "Benny Dayal",
+          "url": "https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ"
+        },
+        {
+          "name": "Rameez Sohail",
+          "url": "https://open.spotify.com/artist/7d0RS6CUY3YghDb1YbZZtc"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157142,
+      "name": "Besharam Dil",
+      "url": "https://open.spotify.com/track/7qV33Xqhd4ZDUMAEYCMGz7"
     },
     {
       "album": {
@@ -5084,6 +5128,36 @@
       "duration_ms": 228846,
       "name": "Bewajah Befikar",
       "url": "https://open.spotify.com/track/0gC7WMWu5PWc7JMEj1jH5l"
+    },
+    {
+      "album": {
+        "name": "Bezaf",
+        "url": "https://open.spotify.com/album/07dxCiIiGFXap0wVTED6Ra"
+      },
+      "artists": [
+        {
+          "name": "Saad Lamjarred",
+          "url": "https://open.spotify.com/artist/0NjXtqYWpnV055KhfZgtuY"
+        },
+        {
+          "name": "Neha Kakkar",
+          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+        },
+        {
+          "name": "Rajat Nagpal",
+          "url": "https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB"
+        },
+        {
+          "name": "Charif Bennis",
+          "url": "https://open.spotify.com/artist/6cXut57ls6xKP7IQkaLFkh"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217113,
+      "name": "Bezaf",
+      "url": "https://open.spotify.com/track/7n0ZCU0zKX18Tks6UyTVoG"
     },
     {
       "album": {
@@ -9922,7 +9996,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 152466,
       "name": "DOPAMINE",
       "url": "https://open.spotify.com/track/3dw558iZgDA2BIeVd0taMM"
@@ -14442,7 +14516,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 190689,
       "name": "Ishq Bada Zehreela",
       "url": "https://open.spotify.com/track/2cD24R9wamTBSWaHyTcCaj"
@@ -16780,7 +16854,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 272618,
       "name": "Jo Ishq Hua",
       "url": "https://open.spotify.com/track/7Ap5aHmy2K57COwJqHYYEb"
@@ -19472,7 +19546,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 272426,
       "name": "Khwabon Ko Jeene Do",
       "url": "https://open.spotify.com/track/03yzSnIYcOlFAVua5bXMrx"
@@ -20158,7 +20232,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 270080,
       "name": "Kya Bataun Tujhe (From \"Pagalpan\")",
       "url": "https://open.spotify.com/track/3lgVAqlhro4HQ6sSPc0n0t"
@@ -24340,7 +24414,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 243750,
       "name": "Na Ja Re",
       "url": "https://open.spotify.com/track/4yLCmbKDYY61XYHzrzdcnu"
@@ -25656,6 +25730,32 @@
     {
       "album": {
         "name": "Noor",
+        "url": "https://open.spotify.com/album/6AQI6tq6HP33Wf3WUgev6S"
+      },
+      "artists": [
+        {
+          "name": "Arslan Nizami",
+          "url": "https://open.spotify.com/artist/5yzqUq3vXrMkmfcOwMY203"
+        },
+        {
+          "name": "Duha Shah",
+          "url": "https://open.spotify.com/artist/3l1qBa4ZTuNfYOap9WGbDQ"
+        },
+        {
+          "name": "Hyder Dar",
+          "url": "https://open.spotify.com/artist/7Khu2sHjq6VFAfiRLql5tt"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "Noor",
+      "url": "https://open.spotify.com/track/7s2e7TAiZtmIJK72ETrRZX"
+    },
+    {
+      "album": {
+        "name": "Noor",
         "url": "https://open.spotify.com/album/6uS7i8fRP8hapepB4kW553"
       },
       "artists": [
@@ -25942,6 +26042,32 @@
       "duration_ms": 158400,
       "name": "O Re Saavan",
       "url": "https://open.spotify.com/track/5EXcMk9ZlC5UlDU4jSZsm1"
+    },
+    {
+      "album": {
+        "name": "O Saawre",
+        "url": "https://open.spotify.com/album/4TCEOCfm5m6PHpbV9ZhIto"
+      },
+      "artists": [
+        {
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        },
+        {
+          "name": "Paradox",
+          "url": "https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui"
+        },
+        {
+          "name": "Anandi Aheeri",
+          "url": "https://open.spotify.com/artist/1cHKkigCsUl9SbcjUwwfWw"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199285,
+      "name": "O Saawre",
+      "url": "https://open.spotify.com/track/4ua7Ejx5QQHRtv6wB2eSEf"
     },
     {
       "album": {
@@ -27428,6 +27554,24 @@
       "duration_ms": 201230,
       "name": "Piya Padh Lena",
       "url": "https://open.spotify.com/track/5fuAQJ1kgVpFi5fge9oBae"
+    },
+    {
+      "album": {
+        "name": "Butterflies",
+        "url": "https://open.spotify.com/album/6kJ6MCCbFfngKR9Xq4orhN"
+      },
+      "artists": [
+        {
+          "name": "Monali Thakur",
+          "url": "https://open.spotify.com/artist/2o4R2rK7FetH40HTv0SUWl"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138260,
+      "name": "Piya/ I Wanna?",
+      "url": "https://open.spotify.com/track/1VZZTmpzNQBe1VMSaijusB"
     },
     {
       "album": {
@@ -32276,6 +32420,28 @@
       "duration_ms": 176156,
       "name": "Space Mein",
       "url": "https://open.spotify.com/track/2k0etpq0NUhxhMy5ZvWvEO"
+    },
+    {
+      "album": {
+        "name": "Starstruck",
+        "url": "https://open.spotify.com/album/2WJJRkBgHsxIkSX1o0Au6Z"
+      },
+      "artists": [
+        {
+          "name": "Kushagra",
+          "url": "https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6"
+        },
+        {
+          "name": "somanshu",
+          "url": "https://open.spotify.com/artist/0q7fw7pC9FcW9AUfIw4H5H"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156477,
+      "name": "Starstruck",
+      "url": "https://open.spotify.com/track/4B3Zu3ZkocQJ5uZ0LSVi2z"
     },
     {
       "album": {

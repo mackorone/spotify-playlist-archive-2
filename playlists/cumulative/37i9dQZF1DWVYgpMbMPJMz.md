@@ -4,7 +4,7 @@
 
 > Experience the lastest and the greatest Worship music right here, right now\. Cover: Chris Tomlin
 
-988 songs - 3 day 21 hr 3 min
+989 songs - 3 day 21 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -502,6 +502,7 @@
 | [Let My Life Be Worship](https://open.spotify.com/track/2DrarKE3JnOXED3kbTuLtY) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO), [Michaela Gentile](https://open.spotify.com/artist/1YxxxADeTdoTeS633H5lCQ) | [Simple](https://open.spotify.com/album/6Loc2VbViFUgIe6EYa6z4Q) | 5:19 | 2022-09-23 | 2023-01-14 |
 | [Let Revival In](https://open.spotify.com/track/6cXwtvNwOX1CxkoiF8iAax) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Let Revival In](https://open.spotify.com/album/1rnP5peOPIIrW7D0uxNIOm) | 3:38 | 2024-03-22 | 2024-07-13 |
 | [Let The People Sing \- Live](https://open.spotify.com/track/4qqUXcqW6EgN4qDsmozSlY) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Why Not Right Now? \(Live\)](https://open.spotify.com/album/5IMEDpmKoYS6tcYLiUogm0) | 3:59 | 2023-07-21 | 2024-05-04 |
+| [Let There Be \- Live](https://open.spotify.com/track/2tJZUC678Z4Lpi5G97tjj3) | [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [The Blue Tent \(Live\)](https://open.spotify.com/album/2TgqsUTFDNEjAhjOZsb5XD) | 4:40 | 2026-04-10 |  |
 | [Life & Breath](https://open.spotify.com/track/2qQfEaRyb67f1XgvVjg9j5) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Life & Breath](https://open.spotify.com/album/0Wu88qLqxq6qBNejyHeEUr) | 4:39 | 2025-10-03 |  |
 | [Life Again](https://open.spotify.com/track/4cQinb06F9cqVy4fWqqd1Z) | [Brad & Rebekah](https://open.spotify.com/artist/1ef7Y06MRVT7HfRdJDHBOG) | [Life Again](https://open.spotify.com/album/5BI5Wl8TCjrIczfZMQpU0u) | 4:24 | 2022-09-09 | 2023-08-26 |
 | [Lift Our Gaze](https://open.spotify.com/track/2DVdkyrx6oFjnvOyEWFzIQ) | [Kingdom Culture Worship](https://open.spotify.com/artist/0KYoEkNrjtHSuTwaiGZTcc) | [I'll Tell These Stories to My Kids](https://open.spotify.com/album/3xYvltnUkIyXGWA4S5o1UG) | 6:08 | 2022-02-25 | 2022-09-10 |
@@ -733,7 +734,7 @@
 | [Simple Matter](https://open.spotify.com/track/19TiECi9uhu3vRj2XAQrq5) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Forward City](https://open.spotify.com/artist/58bqbgcmYuTyHDGGkHbrFH) | [Strike The Ground](https://open.spotify.com/album/2EZnBhenVIfsfTjhhrbWjs) | 5:17 | 2023-10-13 | 2024-05-25 |
 | [Sing \- Live](https://open.spotify.com/track/3qcEDT85hn5vpNCxaBFHim) | [Sovereign Grace Music](https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y) | [Sing \(Live\)](https://open.spotify.com/album/5i1cLV9iU8NqU2PW4lssko) | 3:47 | 2024-02-09 | 2024-03-09 |
 | [Sing Hallelujah \(with Natalie Grant\) \- Live](https://open.spotify.com/track/0LPrib5LGVzGhnrM6J8kl9) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Cover The Earth \(Live In New York\)](https://open.spotify.com/album/0n1rSUSza9mlKU1g6xD9l9) | 8:24 | 2023-06-02 | 2024-06-22 |
-| [SING OF THIS \- Live](https://open.spotify.com/track/7wrjtqAy3q2781W9gJrVJW) | [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [SURVEY: Part 2, Live at St\. John at Hackney](https://open.spotify.com/album/48yxGLll2Kn9tmpFua5BBD) | 5:51 | 2025-02-07 |  |
+| [SING OF THIS \- Live](https://open.spotify.com/track/7wrjtqAy3q2781W9gJrVJW) | [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [SURVEY: Part 2, Live at St\. John at Hackney](https://open.spotify.com/album/48yxGLll2Kn9tmpFua5BBD) | 5:51 | 2025-02-07 | 2026-04-11 |
 | [Sing Of Your Love](https://open.spotify.com/track/6DLdrBq8O4phg4ZG9Fzcdx) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Garett & Kate](https://open.spotify.com/artist/0XGtfaGeQDd2jje9soKMPM) | [Sing Of Your Love](https://open.spotify.com/album/01T3olM6t6V6Ey188YPFO9) | 4:46 | 2026-03-13 |  |
 | [Slower I Go \- Live](https://open.spotify.com/track/2MTNxj0W4s61yJMkdVhICR) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [Chelsea Plank](https://open.spotify.com/artist/2rZyX9csPrIfGn1E7iSF7y) | [Slower I Go \(Live\)](https://open.spotify.com/album/4nb1qV2WBNOgTpR0QL6V0P) | 6:31 | 2024-05-17 | 2024-06-08 |
 | [Slower I Go \- Studio](https://open.spotify.com/track/0T45uaLw5tJb1ZpiNbX0MA) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [Chelsea Plank](https://open.spotify.com/artist/2rZyX9csPrIfGn1E7iSF7y) | [Slower I Go \(Studio\)](https://open.spotify.com/album/6UWtzsqOckTOQWzlrq7Qvp) | 4:18 | 2025-01-17 | 2025-05-03 |

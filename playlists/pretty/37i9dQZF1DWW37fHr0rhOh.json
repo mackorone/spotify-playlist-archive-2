@@ -1,15 +1,31 @@
 {
-  "description": "Always there, always true!  These are the songs, old and new, you can count on time after time.  Cover: The Binions",
-  "num_followers": 51902,
+  "description": "Always there, always true!  These are the songs, old and new, you can count on time after time.  Cover: Mark Bishop",
+  "num_followers": 51905,
   "original_name": "Faithful Melodies",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKxUknUDEIwZYDOYwkjalXm3D0Yl",
+  "snapshot_id": "AAAAAL6RiYLKsCT4Kh/rXkzb3w/ciZLS",
   "tracks": [
     {
-      "added_at": "2026-02-14 07:47:24",
+      "added_at": "2026-04-10 04:02:54",
+      "album": {
+        "name": "Oh Yes You Will",
+        "url": "https://open.spotify.com/album/5XAcPeUWjLMC2VheyObOC1"
+      },
+      "artists": [
+        {
+          "name": "Mark Bishop",
+          "url": "https://open.spotify.com/artist/1rB6iNJyZrKajKrOBwTO6k"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "Oh Yes You Will",
+      "url": "https://open.spotify.com/track/7zkXUJ9UZx9SIaTzds15M0"
+    },
+    {
+      "added_at": "2026-04-10 04:02:54",
       "album": {
         "name": "Roots",
         "url": "https://open.spotify.com/album/4CD844Jfe9wQz0mbsJ0EWc"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/6EMZ90Npwx7qzIpbZ5swuW"
     },
     {
-      "added_at": "2026-02-14 07:47:24",
+      "added_at": "2026-04-10 04:02:54",
       "album": {
         "name": "By The Riverside (Deluxe)",
         "url": "https://open.spotify.com/album/0KsRZ282ajaz9v7kPJOEaD"
@@ -41,7 +57,39 @@
       "url": "https://open.spotify.com/track/384RrrnhTnjcHKqv6o6eRs"
     },
     {
-      "added_at": "2026-02-14 07:47:24",
+      "added_at": "2026-04-10 04:02:54",
+      "album": {
+        "name": "Praise & Worship: More Than A Hollow Hallelujah",
+        "url": "https://open.spotify.com/album/4DhwZKd4ZfV41G6bDoERZC"
+      },
+      "artists": [
+        {
+          "name": "The Isaacs",
+          "url": "https://open.spotify.com/artist/7Gr7Uulfyw9J9F74eQfBOp"
+        }
+      ],
+      "duration_ms": 260665,
+      "name": "Blessings",
+      "url": "https://open.spotify.com/track/2vQqNVnkueFvwZRAOwsu1c"
+    },
+    {
+      "added_at": "2026-04-10 04:02:54",
+      "album": {
+        "name": "Three Nails Instead",
+        "url": "https://open.spotify.com/album/6mgkQz623Cw8aznU8t0pp4"
+      },
+      "artists": [
+        {
+          "name": "The Nelons",
+          "url": "https://open.spotify.com/artist/6qL6hgjCwgoC8VG7MuY7wn"
+        }
+      ],
+      "duration_ms": 228995,
+      "name": "Three Nails Instead",
+      "url": "https://open.spotify.com/track/2rHNG8ox5sPcB2ZBoZhj2t"
+    },
+    {
+      "added_at": "2026-04-10 04:02:54",
       "album": {
         "name": "This Is The Time I Must Sing: An A Cappella Tribute to the Songs of Bill & Gloria Gaither",
         "url": "https://open.spotify.com/album/3kKtIQKjATK2908sCGvGEp"
@@ -61,71 +109,43 @@
       "url": "https://open.spotify.com/track/0JdkV9ayMyAjh4qmunapMn"
     },
     {
-      "added_at": "2026-02-14 07:47:24",
+      "added_at": "2026-04-10 04:02:54",
       "album": {
-        "name": "Praise & Worship: More Than A Hollow Hallelujah",
-        "url": "https://open.spotify.com/album/4DhwZKd4ZfV41G6bDoERZC"
+        "name": "Turn Your Eyes Upon Jesus",
+        "url": "https://open.spotify.com/album/6T8FSLWkwtZRpR2EMPMknp"
       },
       "artists": [
         {
-          "name": "The Isaacs",
-          "url": "https://open.spotify.com/artist/7Gr7Uulfyw9J9F74eQfBOp"
+          "name": "Mark Lowry",
+          "url": "https://open.spotify.com/artist/7DpnqUope0VrBdoh4T5Uod"
+        },
+        {
+          "name": "Geron Davis",
+          "url": "https://open.spotify.com/artist/222HXs6cB7vKH0VmwjbMhu"
         }
       ],
-      "duration_ms": 260665,
-      "name": "Blessings",
-      "url": "https://open.spotify.com/track/2vQqNVnkueFvwZRAOwsu1c"
+      "duration_ms": 212746,
+      "name": "Turn Your Eyes Upon Jesus",
+      "url": "https://open.spotify.com/track/7GIwCdHr7O0lWbnPYBbOxK"
     },
     {
-      "added_at": "2026-02-14 07:47:24",
+      "added_at": "2026-04-10 04:02:54",
       "album": {
-        "name": "The Fishing Pole",
-        "url": "https://open.spotify.com/album/3QTI9LNfiIqk2hVZqkANZi"
+        "name": "Because He Lives",
+        "url": "https://open.spotify.com/album/3cTnb7JBHIYL6Q96e4YTpq"
       },
       "artists": [
         {
-          "name": "Mark Bishop",
-          "url": "https://open.spotify.com/artist/1rB6iNJyZrKajKrOBwTO6k"
+          "name": "The Martins",
+          "url": "https://open.spotify.com/artist/5C8kymLzxGEAPJ3aNdFciB"
         }
       ],
-      "duration_ms": 238000,
-      "name": "The Fishing Pole",
-      "url": "https://open.spotify.com/track/7kERMxS9CdeEwwW3wlmWEq"
+      "duration_ms": 238800,
+      "name": "Because He Lives",
+      "url": "https://open.spotify.com/track/0oCqZ1MAaj7EuTBS74Ayfq"
     },
     {
-      "added_at": "2026-02-14 07:47:24",
-      "album": {
-        "name": "Good Answers",
-        "url": "https://open.spotify.com/album/54K2pbvi1Aq7FvcvjMaGvH"
-      },
-      "artists": [
-        {
-          "name": "Karen Peck & New River",
-          "url": "https://open.spotify.com/artist/7F1556VoxW6M06EOc2AnA5"
-        }
-      ],
-      "duration_ms": 189064,
-      "name": "Ain't No Satisfaction",
-      "url": "https://open.spotify.com/track/01lkLn6h6dltmQIBq55Exd"
-    },
-    {
-      "added_at": "2026-02-14 07:47:24",
-      "album": {
-        "name": "He Is Who He Is",
-        "url": "https://open.spotify.com/album/0HrSbWJhzK53D8ad9O2nUJ"
-      },
-      "artists": [
-        {
-          "name": "Anthem Edition",
-          "url": "https://open.spotify.com/artist/3TwyBg0LHDJKKo3lRkftQ5"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "He Is Who He Is",
-      "url": "https://open.spotify.com/track/1yKenD4aBdZaGGoVAXgDBV"
-    },
-    {
-      "added_at": "2026-02-14 07:47:24",
+      "added_at": "2026-04-10 04:02:54",
       "album": {
         "name": "It Made News In Heaven When I Got Saved",
         "url": "https://open.spotify.com/album/2xGFPLQhNVUcTFJozB9QeG"
@@ -141,135 +161,23 @@
       "url": "https://open.spotify.com/track/78o6QDN2l5Jv3OeEcuenBO"
     },
     {
-      "added_at": "2026-02-14 07:47:24",
+      "added_at": "2026-04-10 04:02:54",
       "album": {
-        "name": "Three Nails Instead",
-        "url": "https://open.spotify.com/album/6mgkQz623Cw8aznU8t0pp4"
+        "name": "Good Answers",
+        "url": "https://open.spotify.com/album/54K2pbvi1Aq7FvcvjMaGvH"
       },
       "artists": [
         {
-          "name": "The Nelons",
-          "url": "https://open.spotify.com/artist/6qL6hgjCwgoC8VG7MuY7wn"
+          "name": "Karen Peck & New River",
+          "url": "https://open.spotify.com/artist/7F1556VoxW6M06EOc2AnA5"
         }
       ],
-      "duration_ms": 228995,
-      "name": "Three Nails Instead",
-      "url": "https://open.spotify.com/track/2rHNG8ox5sPcB2ZBoZhj2t"
+      "duration_ms": 189064,
+      "name": "Ain't No Satisfaction",
+      "url": "https://open.spotify.com/track/01lkLn6h6dltmQIBq55Exd"
     },
     {
-      "added_at": "2026-02-14 07:47:24",
-      "album": {
-        "name": "Reminiscin\u2019",
-        "url": "https://open.spotify.com/album/0yS5SaMHtdIvTvIhyvXiRy"
-      },
-      "artists": [
-        {
-          "name": "Scotty Inman",
-          "url": "https://open.spotify.com/artist/3pWCPKVckgJonKRHNkGY2o"
-        }
-      ],
-      "duration_ms": 213093,
-      "name": "Chain Breaker",
-      "url": "https://open.spotify.com/track/6BmXsWfOzXzA8SRottZ1WY"
-    },
-    {
-      "added_at": "2026-02-14 07:47:24",
-      "album": {
-        "name": "Safely Home",
-        "url": "https://open.spotify.com/album/4KF0AoTkXQyCfyTVZlVzSd"
-      },
-      "artists": [
-        {
-          "name": "Bob Joyce",
-          "url": "https://open.spotify.com/artist/3O5SjjZIAQaynncGgZ0Fhx"
-        }
-      ],
-      "duration_ms": 282950,
-      "name": "I Gotta Keep Going",
-      "url": "https://open.spotify.com/track/7lgEu0pywV5eyy3zyo9BzD"
-    },
-    {
-      "added_at": "2026-02-14 07:47:24",
-      "album": {
-        "name": "Fortieth Anniversary",
-        "url": "https://open.spotify.com/album/140VTuCe8ICHb1NxWJKMxJ"
-      },
-      "artists": [
-        {
-          "name": "Kingdom Heirs",
-          "url": "https://open.spotify.com/artist/6CPiQbiF0iVrQfGa4iDjqW"
-        }
-      ],
-      "duration_ms": 253336,
-      "name": "Medley - He Lifted Me/I've Passed Over/He Locked The Gates",
-      "url": "https://open.spotify.com/track/0QdHa7q2XyOvCKtqWcrHPP"
-    },
-    {
-      "added_at": "2026-02-14 07:47:24",
-      "album": {
-        "name": "Live In Waco",
-        "url": "https://open.spotify.com/album/4OUh17sgzq1AbIhg8ES3mo"
-      },
-      "artists": [
-        {
-          "name": "Endless Highway",
-          "url": "https://open.spotify.com/artist/378mMOx9ssT89Npg6fPnP1"
-        }
-      ],
-      "duration_ms": 250834,
-      "name": "There's No Other God - Live",
-      "url": "https://open.spotify.com/track/58a6zLozgSd9qBZihbEPYK"
-    },
-    {
-      "added_at": "2026-02-14 07:47:24",
-      "album": {
-        "name": "Faithful",
-        "url": "https://open.spotify.com/album/69NVlgYUEb2jH8LBoNKdOB"
-      },
-      "artists": [
-        {
-          "name": "The Craguns",
-          "url": "https://open.spotify.com/artist/16RFWCYLet7qXmRfmGdzkB"
-        }
-      ],
-      "duration_ms": 248649,
-      "name": "Faithful",
-      "url": "https://open.spotify.com/track/4nAE2FMHvs3UqZXUvf7xUn"
-    },
-    {
-      "added_at": "2026-02-14 07:47:24",
-      "album": {
-        "name": "And Then",
-        "url": "https://open.spotify.com/album/0NhxktL6rzkZIaEQlMxVWd"
-      },
-      "artists": [
-        {
-          "name": "Tribute Quartet",
-          "url": "https://open.spotify.com/artist/4TYL0NFQgCj8VLdz8gBfAC"
-        }
-      ],
-      "duration_ms": 241219,
-      "name": "And Then",
-      "url": "https://open.spotify.com/track/2Bfd9nkjztVZjANx1pN4ba"
-    },
-    {
-      "added_at": "2026-02-14 07:47:24",
-      "album": {
-        "name": "We've Weathered Storms Before",
-        "url": "https://open.spotify.com/album/3TTbtmbbHbZxZDL25LLNNY"
-      },
-      "artists": [
-        {
-          "name": "Rambo Women",
-          "url": "https://open.spotify.com/artist/6SIYyOVTCKskcmTyYKzLEu"
-        }
-      ],
-      "duration_ms": 193982,
-      "name": "We've Weathered Storms Before",
-      "url": "https://open.spotify.com/track/5C1NIgcmh7Ve5DTzuUrK47"
-    },
-    {
-      "added_at": "2026-02-14 07:47:24",
+      "added_at": "2026-04-10 04:02:54",
       "album": {
         "name": "Forever and Ever, Amen",
         "url": "https://open.spotify.com/album/6Olg1lGpmjcBZuNGr48Hmb"
@@ -285,27 +193,7 @@
       "url": "https://open.spotify.com/track/1CdP1nvWQdZ98kKj5VBuS2"
     },
     {
-      "added_at": "2026-02-14 07:47:24",
-      "album": {
-        "name": "Through It All (feat. Hillcrest Nashville)",
-        "url": "https://open.spotify.com/album/7oRqrD5p1vjGQ9xuEDDISr"
-      },
-      "artists": [
-        {
-          "name": "Sunday Drive",
-          "url": "https://open.spotify.com/artist/61wd87YGKRXNDwJQyml1tY"
-        },
-        {
-          "name": "Hillcrest Nashville",
-          "url": "https://open.spotify.com/artist/1tJxp3TsAB4fyE1q1TR9Pc"
-        }
-      ],
-      "duration_ms": 271778,
-      "name": "Through It All (feat. Hillcrest Nashville)",
-      "url": "https://open.spotify.com/track/0bHStAVJbMqZWgvGkQdIXD"
-    },
-    {
-      "added_at": "2026-02-14 07:47:24",
+      "added_at": "2026-04-10 04:02:54",
       "album": {
         "name": "Troubled",
         "url": "https://open.spotify.com/album/4RZPHBRQtwYFVSM3JCQZAF"
@@ -325,7 +213,151 @@
       "url": "https://open.spotify.com/track/6fj5V9JRLqphud1543mS1h"
     },
     {
-      "added_at": "2026-02-14 07:47:24",
+      "added_at": "2026-04-10 04:02:54",
+      "album": {
+        "name": "What A Friend We Have In Jesus",
+        "url": "https://open.spotify.com/album/1MYmm5pte4fRgw39UavR9v"
+      },
+      "artists": [
+        {
+          "name": "Dennis Quaid",
+          "url": "https://open.spotify.com/artist/4Xc8wZYmacomrp1afX6ajP"
+        }
+      ],
+      "duration_ms": 219426,
+      "name": "What A Friend We Have In Jesus",
+      "url": "https://open.spotify.com/track/1k9gMpWQd16OF8X96nPDEU"
+    },
+    {
+      "added_at": "2026-04-10 04:02:54",
+      "album": {
+        "name": "Bread Upon the Water",
+        "url": "https://open.spotify.com/album/6taeWEMZC6iS70XdNvbWSE"
+      },
+      "artists": [
+        {
+          "name": "Gaither",
+          "url": "https://open.spotify.com/artist/1rKNroS04wbR4kgHIGBghY"
+        },
+        {
+          "name": "Marshall Hall",
+          "url": "https://open.spotify.com/artist/1hxXROxzm55tnPuawQ5p2C"
+        },
+        {
+          "name": "Michael Booth",
+          "url": "https://open.spotify.com/artist/3MQ7lbWqvnEBfpnuB8unRX"
+        },
+        {
+          "name": "Ernie Haase",
+          "url": "https://open.spotify.com/artist/2YugpMjM1CmUSOCOomXcBA"
+        },
+        {
+          "name": "Dustin Doyle",
+          "url": "https://open.spotify.com/artist/7q1EDu58TXGpXDsND9uFbn"
+        },
+        {
+          "name": "Ronnie Booth",
+          "url": "https://open.spotify.com/artist/360jmuFzyKPTJVbCIgUeKo"
+        },
+        {
+          "name": "Wes Hampton",
+          "url": "https://open.spotify.com/artist/6b8zRPZd2XvjAChtNjO8DQ"
+        }
+      ],
+      "duration_ms": 239640,
+      "name": "Bread Upon the Water",
+      "url": "https://open.spotify.com/track/6rnwJuNdPCv2TmAdpk69RO"
+    },
+    {
+      "added_at": "2026-04-10 04:02:54",
+      "album": {
+        "name": "Pilgrim Road",
+        "url": "https://open.spotify.com/album/57J9rl5Hbbx8nx66SJJqNP"
+      },
+      "artists": [
+        {
+          "name": "Jason Lovins Band",
+          "url": "https://open.spotify.com/artist/38n3omATr1ZFarrxQIjMZ0"
+        },
+        {
+          "name": "Chosen Road",
+          "url": "https://open.spotify.com/artist/2DFoaBr8ZkxOjcQ8Qvwqwh"
+        }
+      ],
+      "duration_ms": 244173,
+      "name": "Life's Railway To Heaven",
+      "url": "https://open.spotify.com/track/4JqbliVL5I3q2UCtBRq9Qq"
+    },
+    {
+      "added_at": "2026-04-10 04:02:54",
+      "album": {
+        "name": "In The Fire",
+        "url": "https://open.spotify.com/album/4n3D1mEX8fxMT4awvGMWRW"
+      },
+      "artists": [
+        {
+          "name": "Janet Paschal",
+          "url": "https://open.spotify.com/artist/0zRYgjw7RxECPWbPuMxdFl"
+        }
+      ],
+      "duration_ms": 187411,
+      "name": "In The Fire",
+      "url": "https://open.spotify.com/track/2CKYfQdw3YnbkLBUXolTR2"
+    },
+    {
+      "added_at": "2026-04-10 04:02:54",
+      "album": {
+        "name": "You've Already Won",
+        "url": "https://open.spotify.com/album/4PzFcJxB40QOAp4kEemBMU"
+      },
+      "artists": [
+        {
+          "name": "Chosen Road",
+          "url": "https://open.spotify.com/artist/2DFoaBr8ZkxOjcQ8Qvwqwh"
+        }
+      ],
+      "duration_ms": 340460,
+      "name": "You've Already Won",
+      "url": "https://open.spotify.com/track/29KMpdBMgH8zPRMYF7Erzy"
+    },
+    {
+      "added_at": "2026-04-10 04:02:54",
+      "album": {
+        "name": "Back to Life",
+        "url": "https://open.spotify.com/album/15Qn5wzwTFsn1YYFLrJcrY"
+      },
+      "artists": [
+        {
+          "name": "Jordan Family Band",
+          "url": "https://open.spotify.com/artist/0F3HuI96IE7U2rQbaA2swn"
+        }
+      ],
+      "duration_ms": 215027,
+      "name": "I\u2019m Amazed",
+      "url": "https://open.spotify.com/track/6rHWWNilB4xllwf3p9r79k"
+    },
+    {
+      "added_at": "2026-04-10 04:02:54",
+      "album": {
+        "name": "Through It All (feat. Hillcrest Nashville)",
+        "url": "https://open.spotify.com/album/7oRqrD5p1vjGQ9xuEDDISr"
+      },
+      "artists": [
+        {
+          "name": "Sunday Drive",
+          "url": "https://open.spotify.com/artist/61wd87YGKRXNDwJQyml1tY"
+        },
+        {
+          "name": "Hillcrest Nashville",
+          "url": "https://open.spotify.com/artist/1tJxp3TsAB4fyE1q1TR9Pc"
+        }
+      ],
+      "duration_ms": 271778,
+      "name": "Through It All (feat. Hillcrest Nashville)",
+      "url": "https://open.spotify.com/track/0bHStAVJbMqZWgvGkQdIXD"
+    },
+    {
+      "added_at": "2026-04-10 04:02:54",
       "album": {
         "name": "Power In The Blood (We Give Thanks For The Blood)",
         "url": "https://open.spotify.com/album/7aRlda7JrI3BvBzNWE3rU8"
@@ -345,71 +377,23 @@
       "url": "https://open.spotify.com/track/4mjXGn3CoT6vmA24S8p8Pm"
     },
     {
-      "added_at": "2026-02-14 07:47:24",
+      "added_at": "2026-04-10 04:02:54",
       "album": {
-        "name": "Gerald Wolfe's Gospel Music Hymn Sing Heaven's Jubilee",
-        "url": "https://open.spotify.com/album/591WZLCCdA3FjfnZjW0Lkq"
+        "name": "Live In Waco",
+        "url": "https://open.spotify.com/album/4OUh17sgzq1AbIhg8ES3mo"
       },
       "artists": [
         {
-          "name": "Gerald Wolfe",
-          "url": "https://open.spotify.com/artist/034QMJV19h9J9Ld64LIdB4"
+          "name": "Endless Highway",
+          "url": "https://open.spotify.com/artist/378mMOx9ssT89Npg6fPnP1"
         }
       ],
-      "duration_ms": 256858,
-      "name": "Wonderful Grace Of Jesus",
-      "url": "https://open.spotify.com/track/07Vk0rcYEZRt3Z3c9qEjUz"
+      "duration_ms": 250834,
+      "name": "There's No Other God - Live",
+      "url": "https://open.spotify.com/track/58a6zLozgSd9qBZihbEPYK"
     },
     {
-      "added_at": "2026-02-14 07:47:24",
-      "album": {
-        "name": "Because He Lives",
-        "url": "https://open.spotify.com/album/3cTnb7JBHIYL6Q96e4YTpq"
-      },
-      "artists": [
-        {
-          "name": "The Martins",
-          "url": "https://open.spotify.com/artist/5C8kymLzxGEAPJ3aNdFciB"
-        }
-      ],
-      "duration_ms": 238800,
-      "name": "Because He Lives",
-      "url": "https://open.spotify.com/track/0oCqZ1MAaj7EuTBS74Ayfq"
-    },
-    {
-      "added_at": "2026-02-14 07:47:24",
-      "album": {
-        "name": "Wonderful Counselor",
-        "url": "https://open.spotify.com/album/23Oln3Y0eLNuDMM79jyG0n"
-      },
-      "artists": [
-        {
-          "name": "Legacy Five",
-          "url": "https://open.spotify.com/artist/5Lp4dWpZlJJj3dhrgoeZYk"
-        }
-      ],
-      "duration_ms": 235079,
-      "name": "Wonderful Counselor",
-      "url": "https://open.spotify.com/track/6oSBjyCiDLjSCswFphtILj"
-    },
-    {
-      "added_at": "2026-02-14 07:47:24",
-      "album": {
-        "name": "Back to Life",
-        "url": "https://open.spotify.com/album/15Qn5wzwTFsn1YYFLrJcrY"
-      },
-      "artists": [
-        {
-          "name": "Jordan Family Band",
-          "url": "https://open.spotify.com/artist/0F3HuI96IE7U2rQbaA2swn"
-        }
-      ],
-      "duration_ms": 215027,
-      "name": "I\u2019m Amazed",
-      "url": "https://open.spotify.com/track/6rHWWNilB4xllwf3p9r79k"
-    },
-    {
-      "added_at": "2026-02-14 07:47:24",
+      "added_at": "2026-04-10 04:02:54",
       "album": {
         "name": "Good Seed",
         "url": "https://open.spotify.com/album/3K1mnlx3gFQh4Iy9uTjjOB"
@@ -425,127 +409,215 @@
       "url": "https://open.spotify.com/track/5ztkQz8pTIDmI6XCfZo0xr"
     },
     {
-      "added_at": "2026-02-14 07:47:24",
+      "added_at": "2026-04-10 04:02:54",
       "album": {
-        "name": "99 1/2",
-        "url": "https://open.spotify.com/album/6QhWm79DHnttk6QX3HtlU2"
+        "name": "A Place to Spend the Night",
+        "url": "https://open.spotify.com/album/1Xirb7Jf1IRde6wBDlNy1b"
       },
       "artists": [
         {
-          "name": "Ernie Haase & Signature Sound",
-          "url": "https://open.spotify.com/artist/3Qp9Qtdb5G8QYHWfe5qxi0"
+          "name": "The Rogers Family",
+          "url": "https://open.spotify.com/artist/1lhPklhN96aDNZNtgH8HmF"
         }
       ],
-      "duration_ms": 162567,
-      "name": "99 1/2 - Studio Version",
-      "url": "https://open.spotify.com/track/2nibTRJU1WdEUylLAz3jvu"
+      "duration_ms": 210546,
+      "name": "A Place to Spend the Night",
+      "url": "https://open.spotify.com/track/1PTgog5bpzWDRniJqgWxDZ"
     },
     {
-      "added_at": "2026-02-14 07:47:24",
+      "added_at": "2026-04-10 04:02:54",
       "album": {
-        "name": "The Name That Changed the World",
-        "url": "https://open.spotify.com/album/5GuOj8c8yy5PNhrCyRsmym"
+        "name": "Gerald Wolfe's Gospel Music Hymn Sing Heaven's Jubilee",
+        "url": "https://open.spotify.com/album/591WZLCCdA3FjfnZjW0Lkq"
       },
       "artists": [
         {
-          "name": "Hillcrest Nashville",
-          "url": "https://open.spotify.com/artist/1tJxp3TsAB4fyE1q1TR9Pc"
-        },
-        {
-          "name": "Katy Peach",
-          "url": "https://open.spotify.com/artist/23yT0ld6sGN7eSVbRwYs71"
+          "name": "Gerald Wolfe",
+          "url": "https://open.spotify.com/artist/034QMJV19h9J9Ld64LIdB4"
         }
       ],
-      "duration_ms": 256000,
-      "name": "Wonderful, Counselor (feat. Katy Peach)",
-      "url": "https://open.spotify.com/track/3y0CrBe1mvayMIIBWJnYSt"
+      "duration_ms": 256858,
+      "name": "Wonderful Grace Of Jesus",
+      "url": "https://open.spotify.com/track/07Vk0rcYEZRt3Z3c9qEjUz"
     },
     {
-      "added_at": "2026-02-14 07:47:24",
+      "added_at": "2026-04-10 04:02:54",
       "album": {
-        "name": "You've Already Won",
-        "url": "https://open.spotify.com/album/4PzFcJxB40QOAp4kEemBMU"
+        "name": "Faithful",
+        "url": "https://open.spotify.com/album/69NVlgYUEb2jH8LBoNKdOB"
       },
       "artists": [
         {
-          "name": "Chosen Road",
-          "url": "https://open.spotify.com/artist/2DFoaBr8ZkxOjcQ8Qvwqwh"
+          "name": "The Craguns",
+          "url": "https://open.spotify.com/artist/16RFWCYLet7qXmRfmGdzkB"
         }
       ],
-      "duration_ms": 340460,
-      "name": "You've Already Won",
-      "url": "https://open.spotify.com/track/29KMpdBMgH8zPRMYF7Erzy"
+      "duration_ms": 248649,
+      "name": "Faithful",
+      "url": "https://open.spotify.com/track/4nAE2FMHvs3UqZXUvf7xUn"
     },
     {
-      "added_at": "2026-02-14 07:47:24",
+      "added_at": "2026-04-10 04:02:54",
       "album": {
-        "name": "Forgiven and Free",
-        "url": "https://open.spotify.com/album/1X9LNCjtYHbkXHT7x4pUvN"
+        "name": "Safely Home",
+        "url": "https://open.spotify.com/album/4KF0AoTkXQyCfyTVZlVzSd"
       },
       "artists": [
         {
-          "name": "Gene McDonald",
-          "url": "https://open.spotify.com/artist/19X4ofoCzM24w2qkiWiHrc"
+          "name": "Bob Joyce",
+          "url": "https://open.spotify.com/artist/3O5SjjZIAQaynncGgZ0Fhx"
         }
       ],
-      "duration_ms": 245640,
-      "name": "I'd Rather Have Jesus",
-      "url": "https://open.spotify.com/track/4fhpTimL1Dfy879fUEEJxa"
+      "duration_ms": 282950,
+      "name": "I Gotta Keep Going",
+      "url": "https://open.spotify.com/track/7lgEu0pywV5eyy3zyo9BzD"
     },
     {
-      "added_at": "2026-02-14 07:47:24",
+      "added_at": "2026-04-10 04:02:54",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/3Z6G191LKtBlbPwxJtOgEl"
+        "name": "Preach Jesus",
+        "url": "https://open.spotify.com/album/3Ec18pBdsN8WMGcaJuGZd1"
       },
       "artists": [
         {
-          "name": "The Hoppers",
-          "url": "https://open.spotify.com/artist/76De3CbnkyCKbNg5vDSqI7"
+          "name": "Down East Boys",
+          "url": "https://open.spotify.com/artist/0Zg0qh2ZQsBDm68196Ofln"
         }
       ],
-      "duration_ms": 241109,
-      "name": "Believe For It",
-      "url": "https://open.spotify.com/track/63R7v5So5B4NwnSg5D83Kb"
+      "duration_ms": 254518,
+      "name": "Preach Jesus",
+      "url": "https://open.spotify.com/track/48ND8lOVrmZV7DBTrv6bPF"
     },
     {
-      "added_at": "2026-02-14 07:47:24",
+      "added_at": "2026-04-10 04:02:54",
       "album": {
-        "name": "Vestal & Friends II",
-        "url": "https://open.spotify.com/album/2zywWUBpkskUPs2cCSoj1J"
+        "name": "I Have God to Thank for Everything",
+        "url": "https://open.spotify.com/album/2GCDQ5nQ3FIhaQnGfzlpgJ"
       },
       "artists": [
         {
-          "name": "Vestal Goodman",
-          "url": "https://open.spotify.com/artist/6CHoGb3HjH5ZHA3K6l6C6D"
-        },
-        {
-          "name": "Michael W. Smith",
-          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
+          "name": "The Inspirations",
+          "url": "https://open.spotify.com/artist/5r3AH74NQJVPeRGmBfnNf3"
         }
       ],
-      "duration_ms": 195560,
-      "name": "Everybody Needs Jesus",
-      "url": "https://open.spotify.com/track/4pMbcHvslEFVQmLEu4dTrs"
+      "duration_ms": 168058,
+      "name": "I Have God to Thank for Everything",
+      "url": "https://open.spotify.com/track/0ecJwqxF2KxcYHiwzi23Tk"
     },
     {
-      "added_at": "2026-02-14 07:47:24",
+      "added_at": "2026-04-10 04:02:54",
       "album": {
-        "name": "Can I Get A Witness",
-        "url": "https://open.spotify.com/album/5Wnwe3xCiSfT1UgskNX9XD"
+        "name": "Classics & Hymns",
+        "url": "https://open.spotify.com/album/5tmLIEQ2tnzgwkBmOLpTSo"
       },
       "artists": [
         {
-          "name": "Act Of Congress",
-          "url": "https://open.spotify.com/artist/5pcRkpZHW0fibP8wxh0s48"
+          "name": "The Collingsworth Family",
+          "url": "https://open.spotify.com/artist/4B43yyRlfQgDEhDPq35wUc"
         }
       ],
-      "duration_ms": 223881,
-      "name": "Can I Get A Witness",
-      "url": "https://open.spotify.com/track/61DSQo98OtVeCI2U1JVUBz"
+      "duration_ms": 253253,
+      "name": "Praise The Lord",
+      "url": "https://open.spotify.com/track/68S8yrEhuLUrJtvFgkBiq3"
     },
     {
-      "added_at": "2026-02-14 07:47:24",
+      "added_at": "2026-04-10 04:02:54",
+      "album": {
+        "name": "In Christ Alone",
+        "url": "https://open.spotify.com/album/5GEKqMKrLQBT5lXNusM8VE"
+      },
+      "artists": [
+        {
+          "name": "Anthem Edition",
+          "url": "https://open.spotify.com/artist/3TwyBg0LHDJKKo3lRkftQ5"
+        }
+      ],
+      "duration_ms": 229000,
+      "name": "In Christ Alone",
+      "url": "https://open.spotify.com/track/6bbJ1ajmLpk4TQyfqiqdmh"
+    },
+    {
+      "added_at": "2026-04-10 04:02:54",
+      "album": {
+        "name": "We've Weathered Storms Before",
+        "url": "https://open.spotify.com/album/3TTbtmbbHbZxZDL25LLNNY"
+      },
+      "artists": [
+        {
+          "name": "Rambo Women",
+          "url": "https://open.spotify.com/artist/6SIYyOVTCKskcmTyYKzLEu"
+        }
+      ],
+      "duration_ms": 193982,
+      "name": "We've Weathered Storms Before",
+      "url": "https://open.spotify.com/track/5C1NIgcmh7Ve5DTzuUrK47"
+    },
+    {
+      "added_at": "2026-04-10 04:02:54",
+      "album": {
+        "name": "And Then",
+        "url": "https://open.spotify.com/album/0NhxktL6rzkZIaEQlMxVWd"
+      },
+      "artists": [
+        {
+          "name": "Tribute Quartet",
+          "url": "https://open.spotify.com/artist/4TYL0NFQgCj8VLdz8gBfAC"
+        }
+      ],
+      "duration_ms": 241219,
+      "name": "And Then",
+      "url": "https://open.spotify.com/track/2Bfd9nkjztVZjANx1pN4ba"
+    },
+    {
+      "added_at": "2026-04-10 04:02:54",
+      "album": {
+        "name": "All Things New",
+        "url": "https://open.spotify.com/album/1PcbJ1DL1tFKjAzsBEoEVe"
+      },
+      "artists": [
+        {
+          "name": "Gordon Mote",
+          "url": "https://open.spotify.com/artist/08EFt670UCZCyxbhI1VtxG"
+        }
+      ],
+      "duration_ms": 219560,
+      "name": "Faith Like That",
+      "url": "https://open.spotify.com/track/1cxxA1gqowDgJTwCGDZsi9"
+    },
+    {
+      "added_at": "2026-04-10 04:02:54",
+      "album": {
+        "name": "Good Morning Mercy",
+        "url": "https://open.spotify.com/album/5F7deqvU0BTbsTIzr8rKnM"
+      },
+      "artists": [
+        {
+          "name": "Jason Crabb",
+          "url": "https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq"
+        }
+      ],
+      "duration_ms": 198511,
+      "name": "Good Morning Mercy",
+      "url": "https://open.spotify.com/track/65pxpJbOeIc2oXexkr5vfU"
+    },
+    {
+      "added_at": "2026-04-10 04:02:54",
+      "album": {
+        "name": "I'm Free: Songs That Wrote My Story",
+        "url": "https://open.spotify.com/album/7BJKeykInrkjIkYIHyLgPV"
+      },
+      "artists": [
+        {
+          "name": "Joseph Habedank",
+          "url": "https://open.spotify.com/artist/1E5fXe9FugDtjPJXLjc3be"
+        }
+      ],
+      "duration_ms": 243960,
+      "name": "Why Me",
+      "url": "https://open.spotify.com/track/19WI6KCHCpUZLpRLnDDmQF"
+    },
+    {
+      "added_at": "2026-04-10 04:02:54",
       "album": {
         "name": "Bigger Than Sunday",
         "url": "https://open.spotify.com/album/0RgdcpTzlEU9m0WnfgsU19"
@@ -561,7 +633,119 @@
       "url": "https://open.spotify.com/track/2LqfoPg1e7dud9HJSnaVsn"
     },
     {
-      "added_at": "2026-02-14 07:47:24",
+      "added_at": "2026-04-10 04:02:54",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/3Z6G191LKtBlbPwxJtOgEl"
+      },
+      "artists": [
+        {
+          "name": "The Hoppers",
+          "url": "https://open.spotify.com/artist/76De3CbnkyCKbNg5vDSqI7"
+        }
+      ],
+      "duration_ms": 241109,
+      "name": "Believe For It",
+      "url": "https://open.spotify.com/track/63R7v5So5B4NwnSg5D83Kb"
+    },
+    {
+      "added_at": "2026-04-10 04:02:54",
+      "album": {
+        "name": "Wonderful Counselor",
+        "url": "https://open.spotify.com/album/23Oln3Y0eLNuDMM79jyG0n"
+      },
+      "artists": [
+        {
+          "name": "Legacy Five",
+          "url": "https://open.spotify.com/artist/5Lp4dWpZlJJj3dhrgoeZYk"
+        }
+      ],
+      "duration_ms": 235079,
+      "name": "Wonderful Counselor",
+      "url": "https://open.spotify.com/track/6oSBjyCiDLjSCswFphtILj"
+    },
+    {
+      "added_at": "2026-04-10 04:02:54",
+      "album": {
+        "name": "Shut Him Up",
+        "url": "https://open.spotify.com/album/5jGJlGqQP8CNZhzx4ddMqU"
+      },
+      "artists": [
+        {
+          "name": "Lauren Talley",
+          "url": "https://open.spotify.com/artist/3jbm4F4B8joagW1U4xiLRg"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Shut Him Up",
+      "url": "https://open.spotify.com/track/0aOUfA7at6UetkDDn75fdz"
+    },
+    {
+      "added_at": "2026-04-10 04:02:54",
+      "album": {
+        "name": "Room For More",
+        "url": "https://open.spotify.com/album/3RDn3C1QTlaqFbH54UB4M0"
+      },
+      "artists": [
+        {
+          "name": "The Booth Brothers",
+          "url": "https://open.spotify.com/artist/01uI1SCsA0pLwWa2ENV6Gv"
+        }
+      ],
+      "duration_ms": 207533,
+      "name": "Welcome To The Family",
+      "url": "https://open.spotify.com/track/0PsajF6Y12NRWPWBIfBgHG"
+    },
+    {
+      "added_at": "2026-04-10 04:02:54",
+      "album": {
+        "name": "99 1/2",
+        "url": "https://open.spotify.com/album/6QhWm79DHnttk6QX3HtlU2"
+      },
+      "artists": [
+        {
+          "name": "Ernie Haase & Signature Sound",
+          "url": "https://open.spotify.com/artist/3Qp9Qtdb5G8QYHWfe5qxi0"
+        }
+      ],
+      "duration_ms": 162567,
+      "name": "99 1/2 - Studio Version",
+      "url": "https://open.spotify.com/track/2nibTRJU1WdEUylLAz3jvu"
+    },
+    {
+      "added_at": "2026-04-10 04:02:54",
+      "album": {
+        "name": "Sings Greatest Country Gospel Hits",
+        "url": "https://open.spotify.com/album/5fEKQptqnEDc4dj9pHH8Db"
+      },
+      "artists": [
+        {
+          "name": "Eddie Bond",
+          "url": "https://open.spotify.com/artist/4p6a47VbiLjsFqZJy92wUE"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Pass Me Not Oh Gentle Saviour",
+      "url": "https://open.spotify.com/track/6vgQpJaxOKsgLgZLzMI3kq"
+    },
+    {
+      "added_at": "2026-04-10 04:02:54",
+      "album": {
+        "name": "Great Is Your Mercy",
+        "url": "https://open.spotify.com/album/426p150uylqvoeKHmzh6uk"
+      },
+      "artists": [
+        {
+          "name": "Don Moen",
+          "url": "https://open.spotify.com/artist/2JGLjTHV2t8u8wxmLaiFfe"
+        }
+      ],
+      "duration_ms": 310791,
+      "name": "Great Is Your Mercy",
+      "url": "https://open.spotify.com/track/6JYCkN32Q9xesWaYM0APaZ"
+    },
+    {
+      "added_at": "2026-04-10 04:02:54",
       "album": {
         "name": "Bless My Soul",
         "url": "https://open.spotify.com/album/00gL2XKPmfAZYkvS2GeDAx"
@@ -585,123 +769,23 @@
       "url": "https://open.spotify.com/track/3fauGjRuGnMlw1630Vk9M6"
     },
     {
-      "added_at": "2026-02-14 07:47:24",
+      "added_at": "2026-04-10 04:02:54",
       "album": {
-        "name": "All Things New",
-        "url": "https://open.spotify.com/album/1PcbJ1DL1tFKjAzsBEoEVe"
+        "name": "Can I Get A Witness",
+        "url": "https://open.spotify.com/album/5Wnwe3xCiSfT1UgskNX9XD"
       },
       "artists": [
         {
-          "name": "Gordon Mote",
-          "url": "https://open.spotify.com/artist/08EFt670UCZCyxbhI1VtxG"
+          "name": "Act Of Congress",
+          "url": "https://open.spotify.com/artist/5pcRkpZHW0fibP8wxh0s48"
         }
       ],
-      "duration_ms": 219560,
-      "name": "Faith Like That",
-      "url": "https://open.spotify.com/track/1cxxA1gqowDgJTwCGDZsi9"
+      "duration_ms": 223881,
+      "name": "Can I Get A Witness",
+      "url": "https://open.spotify.com/track/61DSQo98OtVeCI2U1JVUBz"
     },
     {
-      "added_at": "2026-02-14 07:47:24",
-      "album": {
-        "name": "Great Is Your Mercy",
-        "url": "https://open.spotify.com/album/426p150uylqvoeKHmzh6uk"
-      },
-      "artists": [
-        {
-          "name": "Don Moen",
-          "url": "https://open.spotify.com/artist/2JGLjTHV2t8u8wxmLaiFfe"
-        }
-      ],
-      "duration_ms": 310791,
-      "name": "Great Is Your Mercy",
-      "url": "https://open.spotify.com/track/6JYCkN32Q9xesWaYM0APaZ"
-    },
-    {
-      "added_at": "2026-02-14 07:47:24",
-      "album": {
-        "name": "What A Friend We Have In Jesus",
-        "url": "https://open.spotify.com/album/1MYmm5pte4fRgw39UavR9v"
-      },
-      "artists": [
-        {
-          "name": "Dennis Quaid",
-          "url": "https://open.spotify.com/artist/4Xc8wZYmacomrp1afX6ajP"
-        }
-      ],
-      "duration_ms": 219426,
-      "name": "What A Friend We Have In Jesus",
-      "url": "https://open.spotify.com/track/1k9gMpWQd16OF8X96nPDEU"
-    },
-    {
-      "added_at": "2026-02-14 07:47:24",
-      "album": {
-        "name": "Sings Greatest Country Gospel Hits",
-        "url": "https://open.spotify.com/album/5fEKQptqnEDc4dj9pHH8Db"
-      },
-      "artists": [
-        {
-          "name": "Eddie Bond",
-          "url": "https://open.spotify.com/artist/4p6a47VbiLjsFqZJy92wUE"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "Pass Me Not Oh Gentle Saviour",
-      "url": "https://open.spotify.com/track/6vgQpJaxOKsgLgZLzMI3kq"
-    },
-    {
-      "added_at": "2026-02-14 07:47:24",
-      "album": {
-        "name": "Pilgrim Road",
-        "url": "https://open.spotify.com/album/57J9rl5Hbbx8nx66SJJqNP"
-      },
-      "artists": [
-        {
-          "name": "Jason Lovins Band",
-          "url": "https://open.spotify.com/artist/38n3omATr1ZFarrxQIjMZ0"
-        },
-        {
-          "name": "Chosen Road",
-          "url": "https://open.spotify.com/artist/2DFoaBr8ZkxOjcQ8Qvwqwh"
-        }
-      ],
-      "duration_ms": 244173,
-      "name": "Life's Railway To Heaven",
-      "url": "https://open.spotify.com/track/4JqbliVL5I3q2UCtBRq9Qq"
-    },
-    {
-      "added_at": "2026-02-14 07:47:24",
-      "album": {
-        "name": "Room For More",
-        "url": "https://open.spotify.com/album/3RDn3C1QTlaqFbH54UB4M0"
-      },
-      "artists": [
-        {
-          "name": "The Booth Brothers",
-          "url": "https://open.spotify.com/artist/01uI1SCsA0pLwWa2ENV6Gv"
-        }
-      ],
-      "duration_ms": 207533,
-      "name": "Welcome To The Family",
-      "url": "https://open.spotify.com/track/0PsajF6Y12NRWPWBIfBgHG"
-    },
-    {
-      "added_at": "2026-02-14 07:47:24",
-      "album": {
-        "name": "Classics & Hymns",
-        "url": "https://open.spotify.com/album/5tmLIEQ2tnzgwkBmOLpTSo"
-      },
-      "artists": [
-        {
-          "name": "The Collingsworth Family",
-          "url": "https://open.spotify.com/artist/4B43yyRlfQgDEhDPq35wUc"
-        }
-      ],
-      "duration_ms": 253253,
-      "name": "Praise The Lord",
-      "url": "https://open.spotify.com/track/68S8yrEhuLUrJtvFgkBiq3"
-    },
-    {
-      "added_at": "2026-02-14 07:47:24",
+      "added_at": "2026-04-10 04:02:54",
       "album": {
         "name": "Come On In",
         "url": "https://open.spotify.com/album/6fomyXP5lxMAmm1yKXmIHV"
@@ -717,103 +801,27 @@
       "url": "https://open.spotify.com/track/5DFuyhTAYErvppuImjKHvo"
     },
     {
-      "added_at": "2026-02-14 07:47:24",
+      "added_at": "2026-04-10 04:02:54",
       "album": {
-        "name": "Shut Him Up",
-        "url": "https://open.spotify.com/album/5jGJlGqQP8CNZhzx4ddMqU"
+        "name": "The Name That Changed the World",
+        "url": "https://open.spotify.com/album/5GuOj8c8yy5PNhrCyRsmym"
       },
       "artists": [
         {
-          "name": "Lauren Talley",
-          "url": "https://open.spotify.com/artist/3jbm4F4B8joagW1U4xiLRg"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Shut Him Up",
-      "url": "https://open.spotify.com/track/0aOUfA7at6UetkDDn75fdz"
-    },
-    {
-      "added_at": "2026-02-14 07:47:24",
-      "album": {
-        "name": "God Doesn't Know",
-        "url": "https://open.spotify.com/album/3WoJE6xCMDtEEl2YiK5yzk"
-      },
-      "artists": [
+          "name": "Hillcrest Nashville",
+          "url": "https://open.spotify.com/artist/1tJxp3TsAB4fyE1q1TR9Pc"
+        },
         {
-          "name": "Mark Lowry",
-          "url": "https://open.spotify.com/artist/7DpnqUope0VrBdoh4T5Uod"
+          "name": "Katy Peach",
+          "url": "https://open.spotify.com/artist/23yT0ld6sGN7eSVbRwYs71"
         }
       ],
-      "duration_ms": 202040,
-      "name": "God Doesn't Know",
-      "url": "https://open.spotify.com/track/4Mv10QQoBECuT1KquvB5ap"
+      "duration_ms": 256000,
+      "name": "Wonderful, Counselor (feat. Katy Peach)",
+      "url": "https://open.spotify.com/track/3y0CrBe1mvayMIIBWJnYSt"
     },
     {
-      "added_at": "2026-02-14 07:47:24",
-      "album": {
-        "name": "Love Is the Voice",
-        "url": "https://open.spotify.com/album/2CHhug02gOUxNAlahCkdMR"
-      },
-      "artists": [
-        {
-          "name": "The Taylors",
-          "url": "https://open.spotify.com/artist/7cWAsRKW1DL0pRUXWyCDsX"
-        }
-      ],
-      "duration_ms": 165613,
-      "name": "God, Do it Again",
-      "url": "https://open.spotify.com/track/2S5MGYMortUR7BQO133k6o"
-    },
-    {
-      "added_at": "2026-02-14 07:47:24",
-      "album": {
-        "name": "I'm Free: Songs That Wrote My Story",
-        "url": "https://open.spotify.com/album/7BJKeykInrkjIkYIHyLgPV"
-      },
-      "artists": [
-        {
-          "name": "Joseph Habedank",
-          "url": "https://open.spotify.com/artist/1E5fXe9FugDtjPJXLjc3be"
-        }
-      ],
-      "duration_ms": 243960,
-      "name": "Why Me",
-      "url": "https://open.spotify.com/track/19WI6KCHCpUZLpRLnDDmQF"
-    },
-    {
-      "added_at": "2026-02-14 07:47:24",
-      "album": {
-        "name": "Breakthrough",
-        "url": "https://open.spotify.com/album/5MT0vqFrhs9mRUzvT8feKb"
-      },
-      "artists": [
-        {
-          "name": "The Browns",
-          "url": "https://open.spotify.com/artist/2KqWwLQj9ShX6taqgheFxb"
-        }
-      ],
-      "duration_ms": 256948,
-      "name": "No One Greater",
-      "url": "https://open.spotify.com/track/2o8GNK8ydsmYvQxCrs17wT"
-    },
-    {
-      "added_at": "2026-02-14 07:47:24",
-      "album": {
-        "name": "I Have God to Thank for Everything",
-        "url": "https://open.spotify.com/album/2GCDQ5nQ3FIhaQnGfzlpgJ"
-      },
-      "artists": [
-        {
-          "name": "The Inspirations",
-          "url": "https://open.spotify.com/artist/5r3AH74NQJVPeRGmBfnNf3"
-        }
-      ],
-      "duration_ms": 168058,
-      "name": "I Have God to Thank for Everything",
-      "url": "https://open.spotify.com/track/0ecJwqxF2KxcYHiwzi23Tk"
-    },
-    {
-      "added_at": "2026-02-14 07:47:24",
+      "added_at": "2026-04-10 04:02:54",
       "album": {
         "name": "Goodness and Mercy (feat. Todd Smith)",
         "url": "https://open.spotify.com/album/3BsifoJiIJfv12TfDxSjkA"
@@ -837,20 +845,40 @@
       "url": "https://open.spotify.com/track/2jU3vCrlb4hirmjq8DnAjn"
     },
     {
-      "added_at": "2026-02-14 07:47:24",
+      "added_at": "2026-04-10 04:02:54",
       "album": {
-        "name": "Good Morning Mercy",
-        "url": "https://open.spotify.com/album/5F7deqvU0BTbsTIzr8rKnM"
+        "name": "Vestal & Friends II",
+        "url": "https://open.spotify.com/album/2zywWUBpkskUPs2cCSoj1J"
       },
       "artists": [
         {
-          "name": "Jason Crabb",
-          "url": "https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq"
+          "name": "Vestal Goodman",
+          "url": "https://open.spotify.com/artist/6CHoGb3HjH5ZHA3K6l6C6D"
+        },
+        {
+          "name": "Michael W. Smith",
+          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
         }
       ],
-      "duration_ms": 198511,
-      "name": "Good Morning Mercy",
-      "url": "https://open.spotify.com/track/65pxpJbOeIc2oXexkr5vfU"
+      "duration_ms": 195560,
+      "name": "Everybody Needs Jesus",
+      "url": "https://open.spotify.com/track/4pMbcHvslEFVQmLEu4dTrs"
+    },
+    {
+      "added_at": "2026-04-10 04:02:54",
+      "album": {
+        "name": "Love Is the Voice",
+        "url": "https://open.spotify.com/album/2CHhug02gOUxNAlahCkdMR"
+      },
+      "artists": [
+        {
+          "name": "The Taylors",
+          "url": "https://open.spotify.com/artist/7cWAsRKW1DL0pRUXWyCDsX"
+        }
+      ],
+      "duration_ms": 165613,
+      "name": "God, Do it Again",
+      "url": "https://open.spotify.com/track/2S5MGYMortUR7BQO133k6o"
     }
   ],
   "unique_name": "Faithful Melodies",

@@ -1,12 +1,12 @@
 {
   "description": "This is BL\u00d8F. The essential tracks, all in one playlist.",
-  "num_followers": 93667,
+  "num_followers": 93687,
   "original_name": "This Is BL\u00d8F",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adWagAAAAADwmelRIPTDJsYDRnp7++qT",
+  "snapshot_id": "adbsAAAAAAALp3CmxJxiOqWAp59IUtwH",
   "tracks": [
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alles Blijft Anders",
-        "url": "https://open.spotify.com/album/5xuqk16tOPkwrru4oiwRCC"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 365026,
-      "name": "Was Je Maar Hier",
-      "url": "https://open.spotify.com/track/1zbwO2duYX0GQbfv717iat"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Radio Berlijn",
         "url": "https://open.spotify.com/album/5QjzQDyPWc4R9vM5L6Reqq"
       },
@@ -675,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Alles Blijft Anders",
+        "url": "https://open.spotify.com/album/5xuqk16tOPkwrru4oiwRCC"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 365026,
+      "name": "Was Je Maar Hier",
+      "url": "https://open.spotify.com/track/1zbwO2duYX0GQbfv717iat"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Umoja",
         "url": "https://open.spotify.com/album/09epXZm5KJ3IdblOCILVyt"
       },
@@ -687,22 +687,6 @@
       "duration_ms": 236493,
       "name": "Mens",
       "url": "https://open.spotify.com/track/1cEQ3t7L77oUXsdSIBN0V0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Watermakers",
-        "url": "https://open.spotify.com/album/0IjY6dBOwaD1OAIb8BxdCW"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 232840,
-      "name": "Monsters Slapen Nooit",
-      "url": "https://open.spotify.com/track/6baKoyKHbiSRapbEixvE8M"
     },
     {
       "added_at": null,
@@ -723,6 +707,22 @@
       "duration_ms": 232425,
       "name": "Omarm Me",
       "url": "https://open.spotify.com/track/1lWBPQBghFHdpLbE6UnNc6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Watermakers",
+        "url": "https://open.spotify.com/album/0IjY6dBOwaD1OAIb8BxdCW"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 232840,
+      "name": "Monsters Slapen Nooit",
+      "url": "https://open.spotify.com/track/6baKoyKHbiSRapbEixvE8M"
     },
     {
       "added_at": null,

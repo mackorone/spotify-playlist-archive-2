@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-24",
-  "description": "Porque el barrio es el barrio y eso nadie nos lo va a cambiar... Gweri B en portada.",
+  "description": "Porque el barrio es el barrio y eso nadie nos lo va a cambiar... Lucky Brown y El Bogueto en portada.",
   "name": "El Barrio MP3 ",
   "tracks": [
     {
@@ -242,10 +242,32 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 133586,
       "name": "4 2 0 FRISTAIL",
       "url": "https://open.spotify.com/track/7JnKynCa2mFZ7fyrBwi7ge"
+    },
+    {
+      "album": {
+        "name": "66 am",
+        "url": "https://open.spotify.com/album/295kpcatqizxstrU8Dx2RX"
+      },
+      "artists": [
+        {
+          "name": "Miranda Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5JpxOTduIHuTcuosdLBC14"
+        },
+        {
+          "name": "R\u00e9gulo Molina",
+          "url": "https://open.spotify.com/artist/6sbrrDwFdWvTLiq8NUykqm"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "66 am",
+      "url": "https://open.spotify.com/track/4QlKoM0Oxt5I6UvvkDT3MG"
     },
     {
       "album": {
@@ -1298,7 +1320,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 183809,
       "name": "Bad Company (feat. BlocBoy JB)",
       "url": "https://open.spotify.com/track/3ZYwSDF9knZI0RVlKR4PHC"
@@ -2730,7 +2752,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 123877,
       "name": "Como Yo",
       "url": "https://open.spotify.com/track/2Mfxxm32s5qwaxkRDNuxtz"
@@ -5899,6 +5921,28 @@
     },
     {
       "album": {
+        "name": "Impala",
+        "url": "https://open.spotify.com/album/4ab9VakNZ2Q2nF428g6m3U"
+      },
+      "artists": [
+        {
+          "name": "Justin Morales",
+          "url": "https://open.spotify.com/artist/5D7x9esAF6twPxuOqSMkeO"
+        },
+        {
+          "name": "Millonario",
+          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152647,
+      "name": "Impala",
+      "url": "https://open.spotify.com/track/62LiG8OYhQtY4WrmqU3LZo"
+    },
+    {
+      "album": {
         "name": "Ingrata",
         "url": "https://open.spotify.com/album/6SNEqAhkOIaXgEeQEhrA9b"
       },
@@ -7646,6 +7690,28 @@
       "duration_ms": 220973,
       "name": "Lo M\u00edo No Tiene Cura",
       "url": "https://open.spotify.com/track/18Q3lULIvXX0n0zOkeUv9X"
+    },
+    {
+      "album": {
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/0urW9QFmXRgnAqiFx4Hpy2"
+      },
+      "artists": [
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        },
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179516,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/5luZ8xH6spkxFIH9dMenlp"
     },
     {
       "album": {
@@ -9804,7 +9870,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 210000,
       "name": "Perfume Carolina",
       "url": "https://open.spotify.com/track/7MaJCfVezozeViFEp3EFxo"
@@ -9988,6 +10054,28 @@
       "duration_ms": 198355,
       "name": "Pocos A\u00f1os Mil Errores",
       "url": "https://open.spotify.com/track/05eWLa61PMRibhFtIHsD0D"
+    },
+    {
+      "album": {
+        "name": "Por Hollywood",
+        "url": "https://open.spotify.com/album/2aCy0ncs4obXxHu3pZ1DK8"
+      },
+      "artists": [
+        {
+          "name": "Omar Camacho",
+          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168979,
+      "name": "Por Hollywood",
+      "url": "https://open.spotify.com/track/7Myx7gRSYsue2sbMaGdXDr"
     },
     {
       "album": {
@@ -11586,7 +11674,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 243863,
       "name": "Si T\u00fa Te Vas",
       "url": "https://open.spotify.com/track/7GdzfFo6cTW4OkLpU8ZHgn"

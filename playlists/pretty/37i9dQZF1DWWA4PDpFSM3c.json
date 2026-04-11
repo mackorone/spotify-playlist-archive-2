@@ -1,37 +1,13 @@
 {
   "description": "Mellow down the mood with these Telugu tracks\nCover: Dear Comrade",
-  "num_followers": 103077,
+  "num_followers": 103123,
   "original_name": "Mellow Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC1KGddQMgCRXoqrTsIphHXwyiQS",
+  "snapshot_id": "AAAAAOQqbzdG/NzZykt3d6n6gaXglyUS",
   "tracks": [
-    {
-      "added_at": "2026-03-05 09:02:03",
-      "album": {
-        "name": "Psych Siddhartha",
-        "url": "https://open.spotify.com/album/6ZfLrEXnxWBUTYCVOcjGjw"
-      },
-      "artists": [
-        {
-          "name": "Smaran",
-          "url": "https://open.spotify.com/artist/7hVRxcFAqVLMLBRCu6FR3C"
-        },
-        {
-          "name": "Krishna Tejasvi",
-          "url": "https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q"
-        },
-        {
-          "name": "Ashok Anand",
-          "url": "https://open.spotify.com/artist/3aZWhNx5cZC7OUV2x4aftn"
-        }
-      ],
-      "duration_ms": 200067,
-      "name": "Yedha Okka Prayamu",
-      "url": "https://open.spotify.com/track/2Zk5LZcAKwtEigIuQsZP7l"
-    },
     {
       "added_at": "2022-09-02 08:32:31",
       "album": {
@@ -59,22 +35,26 @@
     {
       "added_at": "2022-09-02 08:32:31",
       "album": {
-        "name": "Nagumomu Thaarale (From \"Radhe Shyam\")",
-        "url": "https://open.spotify.com/album/1ZCjfkLge20C5RUuULA5v7"
+        "name": "Orange",
+        "url": "https://open.spotify.com/album/4lydrnVdmsWCMMfk0S8Khj"
       },
       "artists": [
         {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+          "name": "Naresh Iyer",
+          "url": "https://open.spotify.com/artist/7FaGCZiP3s6X7jQTB8EhfI"
         },
         {
-          "name": "Justin Prabhakaran",
-          "url": "https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr"
+          "name": "Nadeesh",
+          "url": "https://open.spotify.com/artist/0g5fVrrOznFqf7yfnLd8sE"
+        },
+        {
+          "name": "U.V.Jackey",
+          "url": "https://open.spotify.com/artist/3boPdM5gG0ZyA6IjZCFsyn"
         }
       ],
-      "duration_ms": 294115,
-      "name": "Nagumomu Thaarale (From \"Radhe Shyam\")",
-      "url": "https://open.spotify.com/track/5fnYbqciSco0Y0uMNilDTt"
+      "duration_ms": 287823,
+      "name": "Nenu Nuvvantu",
+      "url": "https://open.spotify.com/track/0X0Y2AnYuIdn9arB8P6EB4"
     },
     {
       "added_at": "2022-09-02 08:32:31",
@@ -103,78 +83,6 @@
       "duration_ms": 350613,
       "name": "Nuvvunte Naa Jathagaa",
       "url": "https://open.spotify.com/track/5dG3KI5rIUwiUQNNr3Y1to"
-    },
-    {
-      "added_at": "2026-01-05 05:30:29",
-      "album": {
-        "name": "Patang",
-        "url": "https://open.spotify.com/album/3RAxxVzs8cdKxuhqJnriEn"
-      },
-      "artists": [
-        {
-          "name": "Jose Jimmy",
-          "url": "https://open.spotify.com/artist/6BbKxnV91HAWFG7So7lOGg"
-        },
-        {
-          "name": "Shakthisree Gopalan",
-          "url": "https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP"
-        },
-        {
-          "name": "Sreemani",
-          "url": "https://open.spotify.com/artist/4FMXVUiqvq8093FT0KBRza"
-        }
-      ],
-      "duration_ms": 268027,
-      "name": "Tai Tai Tai",
-      "url": "https://open.spotify.com/track/6rcCn2P4aStaUetsDy3Npg"
-    },
-    {
-      "added_at": "2021-05-18 09:57:44",
-      "album": {
-        "name": "Gang Leader (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3JdE4IkqObXwTWzYKieCUv"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
-        },
-        {
-          "name": "Anantha Sriram",
-          "url": "https://open.spotify.com/artist/5wE0KHIPasAq9oKW3PkDpq"
-        }
-      ],
-      "duration_ms": 293000,
-      "name": "Ninnu Chuse Anandamlo",
-      "url": "https://open.spotify.com/track/16RigX2qPBrjju5ddZv1X6"
-    },
-    {
-      "added_at": "2022-09-02 08:32:31",
-      "album": {
-        "name": "Orange",
-        "url": "https://open.spotify.com/album/4lydrnVdmsWCMMfk0S8Khj"
-      },
-      "artists": [
-        {
-          "name": "Naresh Iyer",
-          "url": "https://open.spotify.com/artist/7FaGCZiP3s6X7jQTB8EhfI"
-        },
-        {
-          "name": "Nadeesh",
-          "url": "https://open.spotify.com/artist/0g5fVrrOznFqf7yfnLd8sE"
-        },
-        {
-          "name": "U.V.Jackey",
-          "url": "https://open.spotify.com/artist/3boPdM5gG0ZyA6IjZCFsyn"
-        }
-      ],
-      "duration_ms": 287823,
-      "name": "Nenu Nuvvantu",
-      "url": "https://open.spotify.com/track/0X0Y2AnYuIdn9arB8P6EB4"
     },
     {
       "added_at": "2022-09-02 08:32:31",
@@ -276,13 +184,61 @@
       },
       "artists": [
         {
-          "name": "Amit Trivedi, Shashaa Tirupati, Yazin Nizar",
-          "url": "https://open.spotify.com/artist/3TttERM9n1ASk6Afa8Vgjt"
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        },
+        {
+          "name": "Shashaa Tirupati",
+          "url": "https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW"
+        },
+        {
+          "name": "Yazin Nizar",
+          "url": "https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX"
         }
       ],
       "duration_ms": 267500,
       "name": "Manasu Maree",
       "url": "https://open.spotify.com/track/57xczqwxDF0HZsuPyVEJXa"
+    },
+    {
+      "added_at": "2021-05-18 09:57:44",
+      "album": {
+        "name": "Gang Leader (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3JdE4IkqObXwTWzYKieCUv"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        },
+        {
+          "name": "Anantha Sriram",
+          "url": "https://open.spotify.com/artist/5wE0KHIPasAq9oKW3PkDpq"
+        }
+      ],
+      "duration_ms": 293000,
+      "name": "Ninnu Chuse Anandamlo",
+      "url": "https://open.spotify.com/track/16RigX2qPBrjju5ddZv1X6"
+    },
+    {
+      "added_at": "2022-09-02 08:32:31",
+      "album": {
+        "name": "Orange",
+        "url": "https://open.spotify.com/album/4lydrnVdmsWCMMfk0S8Khj"
+      },
+      "artists": [
+        {
+          "name": "Karthik",
+          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
+        }
+      ],
+      "duration_ms": 328617,
+      "name": "Chilipiga",
+      "url": "https://open.spotify.com/track/5J3Gykr4QdXzgbRGlusUrM"
     },
     {
       "added_at": "2022-10-11 06:05:00",
@@ -311,22 +267,6 @@
       "duration_ms": 208679,
       "name": "Oh Prema",
       "url": "https://open.spotify.com/track/63NdWczrPCYGWKY1RV4Zbh"
-    },
-    {
-      "added_at": "2022-09-02 08:32:31",
-      "album": {
-        "name": "Orange",
-        "url": "https://open.spotify.com/album/4lydrnVdmsWCMMfk0S8Khj"
-      },
-      "artists": [
-        {
-          "name": "Karthik",
-          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
-        }
-      ],
-      "duration_ms": 328617,
-      "name": "Chilipiga",
-      "url": "https://open.spotify.com/track/5J3Gykr4QdXzgbRGlusUrM"
     },
     {
       "added_at": "2025-04-14 13:14:28",
@@ -371,6 +311,26 @@
       "duration_ms": 232762,
       "name": "Ee Raathale",
       "url": "https://open.spotify.com/track/77feKtBcyhRv4SE2u6dd9R"
+    },
+    {
+      "added_at": "2022-09-02 08:32:31",
+      "album": {
+        "name": "Nagumomu Thaarale (From \"Radhe Shyam\")",
+        "url": "https://open.spotify.com/album/1ZCjfkLge20C5RUuULA5v7"
+      },
+      "artists": [
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        },
+        {
+          "name": "Justin Prabhakaran",
+          "url": "https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr"
+        }
+      ],
+      "duration_ms": 294115,
+      "name": "Nagumomu Thaarale (From \"Radhe Shyam\")",
+      "url": "https://open.spotify.com/track/5fnYbqciSco0Y0uMNilDTt"
     },
     {
       "added_at": "2024-02-12 05:31:53",
@@ -497,6 +457,30 @@
       "url": "https://open.spotify.com/track/5z9S8CqOtorQRdqygHemDn"
     },
     {
+      "added_at": "2026-03-05 09:02:03",
+      "album": {
+        "name": "Psych Siddhartha",
+        "url": "https://open.spotify.com/album/6ZfLrEXnxWBUTYCVOcjGjw"
+      },
+      "artists": [
+        {
+          "name": "Smaran",
+          "url": "https://open.spotify.com/artist/7hVRxcFAqVLMLBRCu6FR3C"
+        },
+        {
+          "name": "Krishna Tejasvi",
+          "url": "https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q"
+        },
+        {
+          "name": "Ashok Anand",
+          "url": "https://open.spotify.com/artist/3aZWhNx5cZC7OUV2x4aftn"
+        }
+      ],
+      "duration_ms": 200067,
+      "name": "Yedha Okka Prayamu",
+      "url": "https://open.spotify.com/track/2Zk5LZcAKwtEigIuQsZP7l"
+    },
+    {
       "added_at": "2022-09-02 08:32:31",
       "album": {
         "name": "Sirivennela (From \"Shyam Singha Roy\") - Single",
@@ -535,6 +519,30 @@
       "duration_ms": 244010,
       "name": "Nee Kanti Lo Na - From \"Hey Balwanth\"",
       "url": "https://open.spotify.com/track/2CMAiXfdBTGKNXHSmdhGUm"
+    },
+    {
+      "added_at": "2026-01-05 05:30:29",
+      "album": {
+        "name": "Patang",
+        "url": "https://open.spotify.com/album/3RAxxVzs8cdKxuhqJnriEn"
+      },
+      "artists": [
+        {
+          "name": "Jose Jimmy",
+          "url": "https://open.spotify.com/artist/6BbKxnV91HAWFG7So7lOGg"
+        },
+        {
+          "name": "Shakthisree Gopalan",
+          "url": "https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP"
+        },
+        {
+          "name": "Sreemani",
+          "url": "https://open.spotify.com/artist/4FMXVUiqvq8093FT0KBRza"
+        }
+      ],
+      "duration_ms": 268027,
+      "name": "Tai Tai Tai",
+      "url": "https://open.spotify.com/track/6rcCn2P4aStaUetsDy3Npg"
     },
     {
       "added_at": "2023-03-03 17:11:01",
@@ -669,6 +677,26 @@
       "url": "https://open.spotify.com/track/3NT8OV19NUe4szO6OL0OEu"
     },
     {
+      "added_at": "2026-01-27 11:14:07",
+      "album": {
+        "name": "It's Ok Guru (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0b6Z3XgIc3mhFPo7bmmhtC"
+      },
+      "artists": [
+        {
+          "name": "Lakshmi Priyanka",
+          "url": "https://open.spotify.com/artist/2K08CRxFYB4vypKb79x62A"
+        },
+        {
+          "name": "Ranjith",
+          "url": "https://open.spotify.com/artist/7kzQY1HruUiBsVJxDPcgiy"
+        }
+      ],
+      "duration_ms": 252911,
+      "name": "Naalo Neene",
+      "url": "https://open.spotify.com/track/5AHEkJZ2RmgSLx3w7bRttv"
+    },
+    {
       "added_at": "2024-04-04 10:09:10",
       "album": {
         "name": "Om Bheem Bush",
@@ -693,24 +721,24 @@
       "url": "https://open.spotify.com/track/0kNe3kmRFq7eKVlL15h7nb"
     },
     {
-      "added_at": "2026-01-27 11:14:07",
+      "added_at": "2026-04-10 15:27:39",
       "album": {
-        "name": "It's Ok Guru (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0b6Z3XgIc3mhFPo7bmmhtC"
+        "name": "SKYLAB",
+        "url": "https://open.spotify.com/album/5N21SLtHRT17d0F7PhWEPO"
       },
       "artists": [
         {
-          "name": "Lakshmi Priyanka",
-          "url": "https://open.spotify.com/artist/2K08CRxFYB4vypKb79x62A"
+          "name": "Prashanth R Vihari",
+          "url": "https://open.spotify.com/artist/1advv7h9JDw0JqezZiVAN1"
         },
         {
-          "name": "Ranjith",
-          "url": "https://open.spotify.com/artist/7kzQY1HruUiBsVJxDPcgiy"
+          "name": "Madhura Dhara Talluri",
+          "url": "https://open.spotify.com/artist/6wrAB0HbjDGDXp0GdvqJqq"
         }
       ],
-      "duration_ms": 252911,
-      "name": "Naalo Neene",
-      "url": "https://open.spotify.com/track/5AHEkJZ2RmgSLx3w7bRttv"
+      "duration_ms": 267000,
+      "name": "Aapena Aagena",
+      "url": "https://open.spotify.com/track/11BM8S7cB3oa1X9rWt9qgs"
     },
     {
       "added_at": "2021-05-18 09:57:44",
@@ -863,18 +891,18 @@
     {
       "added_at": "2022-09-02 08:32:31",
       "album": {
-        "name": "Nuvvostanante Nenoddantana",
-        "url": "https://open.spotify.com/album/5I3dEH9cXdYmo8MVIdOkxO"
+        "name": "Pokiri",
+        "url": "https://open.spotify.com/album/4CO4EDT6CLK1TC6n4yJNUX"
       },
       "artists": [
         {
-          "name": "Shankar Mahadevan",
-          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+          "name": "Nihal",
+          "url": "https://open.spotify.com/artist/7DX2CLnA9ajgQuNf5jqEXl"
         }
       ],
-      "duration_ms": 255292,
-      "name": "Chandrullo Unde",
-      "url": "https://open.spotify.com/track/4b4xkbpRpA8jHbP8GVLYWR"
+      "duration_ms": 273769,
+      "name": "Gala Gala Paruthunna",
+      "url": "https://open.spotify.com/track/6E2MIXNryG2WcVb9sh1I8L"
     },
     {
       "added_at": "2022-09-02 08:32:31",
@@ -895,18 +923,18 @@
     {
       "added_at": "2022-09-02 08:32:31",
       "album": {
-        "name": "Pokiri",
-        "url": "https://open.spotify.com/album/4CO4EDT6CLK1TC6n4yJNUX"
+        "name": "Nuvvostanante Nenoddantana",
+        "url": "https://open.spotify.com/album/5I3dEH9cXdYmo8MVIdOkxO"
       },
       "artists": [
         {
-          "name": "Nihal",
-          "url": "https://open.spotify.com/artist/7DX2CLnA9ajgQuNf5jqEXl"
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
         }
       ],
-      "duration_ms": 273769,
-      "name": "Gala Gala Paruthunna",
-      "url": "https://open.spotify.com/track/6E2MIXNryG2WcVb9sh1I8L"
+      "duration_ms": 255292,
+      "name": "Chandrullo Unde",
+      "url": "https://open.spotify.com/track/4b4xkbpRpA8jHbP8GVLYWR"
     },
     {
       "added_at": "2022-09-02 08:32:31",
@@ -979,26 +1007,6 @@
       "duration_ms": 199200,
       "name": "Yenti Yenti",
       "url": "https://open.spotify.com/track/37LmFlPnpsBISJjNvqbUkT"
-    },
-    {
-      "added_at": "2022-09-02 08:32:31",
-      "album": {
-        "name": "Nuvvu Nenu Prema",
-        "url": "https://open.spotify.com/album/7wzrO24y9VOsAd5P4FjdxP"
-      },
-      "artists": [
-        {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-        },
-        {
-          "name": "Naresh Ayar",
-          "url": "https://open.spotify.com/artist/1khqNmFNMQ1SME1rAV4ZCl"
-        }
-      ],
-      "duration_ms": 354368,
-      "name": "Preminche Premava",
-      "url": "https://open.spotify.com/track/1FtRJTH2uCemK3N2qUOb3U"
     }
   ],
   "unique_name": "Mellow Telugu",

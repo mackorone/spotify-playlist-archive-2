@@ -7453,7 +7453,7 @@
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 185700,
+      "duration_ms": 186000,
       "name": "alle skal ku li mig",
       "url": "https://open.spotify.com/track/3dlWBA87rct7VOXwT0pbMO"
     },
@@ -26329,7 +26329,7 @@
     },
     {
       "album": {
-        "name": "Hello tiger, be my friend",
+        "name": "Hello tiger be my friend",
         "url": "https://open.spotify.com/album/6PWOZ7PFNO25oxQT02UyX1"
       },
       "artists": [
@@ -49663,6 +49663,24 @@
     },
     {
       "album": {
+        "name": "Ender Her Igen",
+        "url": "https://open.spotify.com/album/5lYRWmEX0P4aTTFMRP7DlX"
+      },
+      "artists": [
+        {
+          "name": "HEVI",
+          "url": "https://open.spotify.com/artist/4RYqEMfRVgbg61mHG6rhwS"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174637,
+      "name": "Ender Her Igen",
+      "url": "https://open.spotify.com/track/55v3puONXJMncIu5Sg1GJE"
+    },
+    {
+      "album": {
         "name": "Endless Night",
         "url": "https://open.spotify.com/album/2K7BcBLomfzKDCL9uHr8VY"
       },
@@ -66967,6 +66985,24 @@
     },
     {
       "album": {
+        "name": "Golden 24",
+        "url": "https://open.spotify.com/album/0ogzNuxjNSYort6T3ptH1r"
+      },
+      "artists": [
+        {
+          "name": "Hugo A",
+          "url": "https://open.spotify.com/artist/0Q3aRoTbCAtviBg8zXqNgB"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184215,
+      "name": "Golden 24",
+      "url": "https://open.spotify.com/track/70AvDitD7fPFrUmb265lYt"
+    },
+    {
+      "album": {
         "name": "stardust",
         "url": "https://open.spotify.com/album/2HNjUP7VDUpyxQ2J3Cbch4"
       },
@@ -80976,6 +81012,24 @@
       "duration_ms": 172273,
       "name": "Hvis Jeg D\u00f8r I Nat",
       "url": "https://open.spotify.com/track/2jHs02PRE6lkTbf7YShNRe"
+    },
+    {
+      "album": {
+        "name": "Ved du jeg en snerle",
+        "url": "https://open.spotify.com/album/2UNqajAq02YTybhMvumgQm"
+      },
+      "artists": [
+        {
+          "name": "Katinka",
+          "url": "https://open.spotify.com/artist/05tsGKo76eTXi0yrK4e4rZ"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200807,
+      "name": "Hvis jeg havde",
+      "url": "https://open.spotify.com/track/7oH1JVrMcxgHvLKVF6124k"
     },
     {
       "album": {
@@ -96916,6 +96970,24 @@
       "duration_ms": 164725,
       "name": "Kontakt",
       "url": "https://open.spotify.com/track/0JNzY6AqndqZS9I3q2iHYg"
+    },
+    {
+      "album": {
+        "name": "Ved du jeg en snerle",
+        "url": "https://open.spotify.com/album/2UNqajAq02YTybhMvumgQm"
+      },
+      "artists": [
+        {
+          "name": "Katinka",
+          "url": "https://open.spotify.com/artist/05tsGKo76eTXi0yrK4e4rZ"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201079,
+      "name": "Korkprop",
+      "url": "https://open.spotify.com/track/7arjRE8gy0i01qyk0uk7pC"
     },
     {
       "album": {
@@ -128119,6 +128191,32 @@
     },
     {
       "album": {
+        "name": "One of Them",
+        "url": "https://open.spotify.com/album/7yHjH5MTdtXNeIcQWVq0LQ"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204377,
+      "name": "One of Them (with Future & Lil Baby)",
+      "url": "https://open.spotify.com/track/64QhStjcTHwvY7QCkFfT0M"
+    },
+    {
+      "album": {
         "name": "ONE PUNCH",
         "url": "https://open.spotify.com/album/1P4oYvbx2Km6bg5iHUvCgX"
       },
@@ -143851,7 +143949,7 @@
     },
     {
       "album": {
-        "name": "Runway",
+        "name": "RUNWAY",
         "url": "https://open.spotify.com/album/0WY1wVmchFYlH4f1yZMc90"
       },
       "artists": [
@@ -143868,7 +143966,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 171010,
-      "name": "Runway",
+      "name": "RUNWAY",
       "url": "https://open.spotify.com/track/7BjcYqD0CqXnG45ezWSTYR"
     },
     {
@@ -152989,6 +153087,24 @@
     },
     {
       "album": {
+        "name": "Ved du jeg en snerle",
+        "url": "https://open.spotify.com/album/2UNqajAq02YTybhMvumgQm"
+      },
+      "artists": [
+        {
+          "name": "Katinka",
+          "url": "https://open.spotify.com/artist/05tsGKo76eTXi0yrK4e4rZ"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150070,
+      "name": "Snerle",
+      "url": "https://open.spotify.com/track/5zzjqcGj2Q1LTBJVmjtbd5"
+    },
+    {
+      "album": {
         "name": "Anderledes Aura",
         "url": "https://open.spotify.com/album/68TaBEOIlGQjolKMIDThPa"
       },
@@ -152996,13 +153112,17 @@
         {
           "name": "Carmon",
           "url": "https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv"
+        },
+        {
+          "name": "Noah Carter",
+          "url": "https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp"
         }
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 160000,
-      "name": "Snik Snak",
+      "name": "Snik Snak (feat. Noah Carter)",
       "url": "https://open.spotify.com/track/0Y3i5QMg6gkiNNXQl2fBAM"
     },
     {
@@ -155022,8 +155142,8 @@
       },
       "artists": [
         {
-          "name": "nicocorlin",
-          "url": "https://open.spotify.com/artist/349InZPojxjAGNWaiwuon9"
+          "name": "nikocorlin",
+          "url": "https://open.spotify.com/artist/4eIb8b7I3OGJGnEacJgtXm"
         }
       ],
       "date_added": "2026-04-09",
@@ -174931,60 +175051,6 @@
     },
     {
       "album": {
-        "name": "Ved du jeg en snerle",
-        "url": "https://open.spotify.com/album/2UNqajAq02YTybhMvumgQm"
-      },
-      "artists": [
-        {
-          "name": "Katinka",
-          "url": "https://open.spotify.com/artist/05tsGKo76eTXi0yrK4e4rZ"
-        }
-      ],
-      "date_added": "2026-04-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/7arjRE8gy0i01qyk0uk7pC"
-    },
-    {
-      "album": {
-        "name": "Ved du jeg en snerle",
-        "url": "https://open.spotify.com/album/2UNqajAq02YTybhMvumgQm"
-      },
-      "artists": [
-        {
-          "name": "Katinka",
-          "url": "https://open.spotify.com/artist/05tsGKo76eTXi0yrK4e4rZ"
-        }
-      ],
-      "date_added": "2026-04-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 10",
-      "url": "https://open.spotify.com/track/7oH1JVrMcxgHvLKVF6124k"
-    },
-    {
-      "album": {
-        "name": "Ved du jeg en snerle",
-        "url": "https://open.spotify.com/album/2UNqajAq02YTybhMvumgQm"
-      },
-      "artists": [
-        {
-          "name": "Katinka",
-          "url": "https://open.spotify.com/artist/05tsGKo76eTXi0yrK4e4rZ"
-        }
-      ],
-      "date_added": "2026-04-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 9",
-      "url": "https://open.spotify.com/track/5zzjqcGj2Q1LTBJVmjtbd5"
-    },
-    {
-      "album": {
         "name": "d.a.t.a.d.e.a.t.h.",
         "url": "https://open.spotify.com/album/4enVd9gDj0jRvGRZvyWjhd"
       },
@@ -183210,6 +183276,24 @@
       "duration_ms": 187640,
       "name": "V\u00e5rnatten",
       "url": "https://open.spotify.com/track/5TSdoQhiCAGR8FNbAhA9yv"
+    },
+    {
+      "album": {
+        "name": "V\u00e6gtl\u00f8s",
+        "url": "https://open.spotify.com/album/1mPwxtIyV6ZcwB0Wy7P4z5"
+      },
+      "artists": [
+        {
+          "name": "ELLA SOPHIA",
+          "url": "https://open.spotify.com/artist/12yzgN464S33pwSTdSCy8G"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181666,
+      "name": "V\u00e6gtl\u00f8s",
+      "url": "https://open.spotify.com/track/1X1w1bYBy2ChIg7EVY8AO7"
     },
     {
       "album": {

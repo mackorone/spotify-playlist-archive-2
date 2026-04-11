@@ -2709,7 +2709,7 @@
     },
     {
       "album": {
-        "name": "Frequenza Del Cuore 528 Hz (nature Version)",
+        "name": "Frequenza Del Cuore 528 Hz (Nature Version)",
         "url": "https://open.spotify.com/album/5pZuu7kgbojNBoqS3hECmR"
       },
       "artists": [
@@ -2722,7 +2722,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 159533,
-      "name": "Frequenza Del Cuore 528 Hz (nature Version)",
+      "name": "Frequenza Del Cuore 528 Hz (Nature Version)",
       "url": "https://open.spotify.com/track/04ltEgSfEzF11vXr9OrymS"
     },
     {
@@ -3062,7 +3062,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 194634,
       "name": "Groundedness",
       "url": "https://open.spotify.com/track/5bgc9zFfs6s83HiPxgNWGe"
@@ -3210,6 +3210,24 @@
       "duration_ms": 160450,
       "name": "Healing gaze",
       "url": "https://open.spotify.com/track/1X8EmDgWvn6AImYPrtDqI9"
+    },
+    {
+      "album": {
+        "name": "Heart of nature",
+        "url": "https://open.spotify.com/album/4q1LDuZ78fHCF9Eilb74pw"
+      },
+      "artists": [
+        {
+          "name": "Aponian Flow",
+          "url": "https://open.spotify.com/artist/0ECZqa8KVFTuyM92asZRy1"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181333,
+      "name": "Heart of nature",
+      "url": "https://open.spotify.com/track/0PydlHyHt06LIZ21X9jS7l"
     },
     {
       "album": {

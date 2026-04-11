@@ -2,9 +2,9 @@
 
 ### [Pura Salsa](https://open.spotify.com/playlist/37i9dQZF1DX1UHxedJfnRM)
 
-> Los temas más sabrosos del momento suenan aquí\. Foto: Elsa y Elmar
+> Los temas más sabrosos del momento suenan aquí\. Foto: Grupo Niche
 
-170 songs - 12 hr 20 min
+171 songs - 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [La Peruana](https://open.spotify.com/track/3GwmnvymwiVxTQ02d1wWB1) | [Combinacion De La Habana](https://open.spotify.com/artist/3hfczsQRbhO3io1UwQFM1y), [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn) | [La Peruana](https://open.spotify.com/album/69yHTiNzBYqJVtzYj1fOT1) | 3:52 | 2022-10-07 | 2023-05-13 |
 | [La Primera Vez](https://open.spotify.com/track/6dMGhnoZyPLbELETfiGGn1) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8), [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [La Primera Vez](https://open.spotify.com/album/0j45QHGc7TLFr2csPro4DJ) | 3:50 | 2024-06-21 | 2024-11-23 |
 | [La Rebelión](https://open.spotify.com/track/72X4rld3KwmBHM8BjEHClB) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [En Barranquilla Me Quedo \(Homenaje a Joe Arroyo\)](https://open.spotify.com/album/6OjhfiVCYhYx1Qne6IfChP) | 5:18 | 2022-05-13 |  |
-| [La unica](https://open.spotify.com/track/4DnGamxyJflzGHHqOoWzrA) | [Somos Musica del Callao](https://open.spotify.com/artist/3k7zEASV7WTD3f6cHvDi0a) | [¡30 ANIVERSARIO!](https://open.spotify.com/album/00rg02NXX4yb12HdxGp2rk) | 4:17 | 2022-05-13 |  |
+| [La unica](https://open.spotify.com/track/4DnGamxyJflzGHHqOoWzrA) | [Somos Musica del Callao](https://open.spotify.com/artist/3k7zEASV7WTD3f6cHvDi0a) | [¡30 ANIVERSARIO!](https://open.spotify.com/album/00rg02NXX4yb12HdxGp2rk) | 4:17 | 2022-05-13 | 2026-04-11 |
 | [La Última Canción](https://open.spotify.com/track/6JxrD0jXVCEIIGG3X4kSrB) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Renacer](https://open.spotify.com/album/1rb41rTA9dUOW46y06c8zO) | 3:09 | 2024-05-24 | 2024-11-23 |
 | [Latidos](https://open.spotify.com/track/5DtNvoodq0pZB9gSKJpS4k) | [Fresto Music](https://open.spotify.com/artist/66q6iqbR9rh3jJNlGEnQvB) | [Latidos](https://open.spotify.com/album/45oMswDzOSdZDxhkGjKZ2n) | 4:01 | 2024-05-31 |  |
 | [Lo Que Tengo Yo](https://open.spotify.com/track/3Af6NLEVmK2mKyLyGEavu2) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK), [David Calzado y su Charanga Habanera](https://open.spotify.com/artist/1AqDIElf5SS51c2fpG6WQw) | [Así Somos](https://open.spotify.com/album/1BrlB5l1v2yQLsGa2CrnRF) | 4:49 | 2022-05-13 |  |
@@ -137,6 +137,7 @@
 | [Quiero Saber](https://open.spotify.com/track/58bITP8kCWbCgSMR7pymTk) | [Bembe Orquesta](https://open.spotify.com/artist/6fsXrJHIeY3ukc4xVP23cP) | [Quiero Saber](https://open.spotify.com/album/1yDStnQKSi1Tw11A38BFJc) | 4:07 | 2022-07-15 | 2024-04-19 |
 | [Quiero Saber](https://open.spotify.com/track/6J9OXLfXFaf8QsUlvf7qx0) | [Bembe Orquesta](https://open.spotify.com/artist/6fsXrJHIeY3ukc4xVP23cP) | [Quiero Saber](https://open.spotify.com/album/2Qb6AD12DgSvnD8YHmG8Nv) | 4:07 | 2022-05-13 |  |
 | [Qué Bello \- Versión Salsa](https://open.spotify.com/track/3yeIWitSXgDRkBBuQWDbQZ) | [Cielo Torres](https://open.spotify.com/artist/7AqX9JGo4WdLp5gPNSRoDJ) | [Qué Bello \(Versión Salsa\)](https://open.spotify.com/album/6HuzvoO0eHtOKWz92XuBRf) | 3:56 | 2022-05-13 | 2022-10-08 |
+| [Realidad\-Es](https://open.spotify.com/track/33SPXEm4rQiY5L2DDiVEWz) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Realidad\-Es](https://open.spotify.com/album/5fjmaIw7FG9xY6COvzqXQC) | 4:15 | 2026-04-10 |  |
 | [Señor Marido](https://open.spotify.com/track/6wuj8Xmba3wNN4jSe3k0Pi) | [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi) | [Señor Marido](https://open.spotify.com/album/34jUG52OFFxhkoD4Fg55Xe) | 3:27 | 2024-12-13 | 2025-12-20 |
 | [SI ES AMOR](https://open.spotify.com/track/7JahThtCGJ9cdn6HWTWf9S) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [@dannocean](https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA) | 3:32 | 2022-11-11 | 2023-02-17 |
 | [Si No Es Contigo](https://open.spotify.com/track/50GLVAzqvKamz7pArlrHST) | [Los Barraza](https://open.spotify.com/artist/5uX7ebKHlBttut8EUM9Uzs) | [Si No Es Contigo](https://open.spotify.com/album/6oM1bBU97ZRAduzNcBCCqj) | 4:44 | 2022-05-13 | 2024-05-25 |

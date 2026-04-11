@@ -4,7 +4,7 @@
 
 > The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az?si=bwxFNSQ\_QcuacRy0nrEU3A"> Khaligraph Jones</a>
 
-491 songs - 1 day 2 hr 22 min
+492 songs - 1 day 2 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -376,6 +376,7 @@
 | [SEXY](https://open.spotify.com/track/0D1Avf68Spv3LHbjayZ76K) | [Vallerie Muthoni](https://open.spotify.com/artist/0BODXRyhRpJie8h9qpZb9E), [NJERI](https://open.spotify.com/artist/4fhFubSE551gSrnSWwAgaR), [Kxffy](https://open.spotify.com/artist/25ri60pzSMYa2YOUZlumhB) | [SEXY](https://open.spotify.com/album/7ay20SlhHMu04QyTJ7zLmU) | 2:27 | 2023-06-22 | 2025-01-18 |
 | [Shake It](https://open.spotify.com/track/7lpQawnDRT0eOXbbwc3wNC) | [Noti Flow](https://open.spotify.com/artist/1iEI7tRZgaXjPrpPj6cAM6), [Boutross](https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y) | [Shake It](https://open.spotify.com/album/1sTArZqgpIf1IMcAWudZpd) | 3:30 | 2025-10-02 | 2026-03-13 |
 | [Share](https://open.spotify.com/track/7tviPyqcPbuKQ1TC7l5wev) | [King Kaka](https://open.spotify.com/artist/36di6g7Y2kPVJAqOoKl7QS), [Scar Mkadinali](https://open.spotify.com/artist/6363dzl0V4oo6zEln0Pyud) | [Share](https://open.spotify.com/album/3BjU7r5Ya54tnAWULj2UtW) | 3:28 | 2025-06-05 | 2026-02-06 |
+| [Shark Tales](https://open.spotify.com/track/4Uy72zQFZkOeTCp0j5e809) | [Umoja Sounds](https://open.spotify.com/artist/6a8xnLQPDn7HANbZgT3tj9), [Kayvo Kforce](https://open.spotify.com/artist/1fPPCBsDEGE70rXGO1mMyC) | [Shark Tales](https://open.spotify.com/album/65jBfj3oJddOoVhJxmY3NR) | 3:10 | 2026-04-09 |  |
 | [Shetani 1](https://open.spotify.com/track/7cLVeJHt6Liw5HRfDSma5Q) | [Jodye Faneto](https://open.spotify.com/artist/3v6SQTs83vlDVAIcQgs1r6) | [Shetani 1](https://open.spotify.com/album/5vuN0k9yJlWiiqFh3Mbgo3) | 2:31 | 2022-08-18 | 2022-10-14 |
 | [Shiiiine](https://open.spotify.com/track/1H2cgCa1EIklAP04oYm7qW) | [Jakk Quill](https://open.spotify.com/artist/6QqOXzlH2dcYNAHeGgZcLm) | [Shiiiine](https://open.spotify.com/album/6qphjqWOQwiWebyVJAe16j) | 3:15 | 2023-10-06 | 2024-02-16 |
 | [Shillings](https://open.spotify.com/track/2C6XiCqTeA0I76gF0VDoO8) | [Mr right](https://open.spotify.com/artist/5FafI7t7Msq7cTLo1qyjHG), [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [Shillings](https://open.spotify.com/album/7dicXfidFS9Hetg9oJIhlZ) | 2:48 | 2026-02-06 |  |

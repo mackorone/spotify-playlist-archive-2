@@ -55744,7 +55744,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-09",
+      "date_removed": null,
       "duration_ms": 181649,
       "name": "NORMAL",
       "url": "https://open.spotify.com/track/4B4Q7zfd0aHcuhQBfCRnH5"
@@ -64137,6 +64137,32 @@
     },
     {
       "album": {
+        "name": "Que Hago Pa' Olvidarte",
+        "url": "https://open.spotify.com/album/0OesW52zisk3nqgFJEP2MO"
+      },
+      "artists": [
+        {
+          "name": "sweetrhythm",
+          "url": "https://open.spotify.com/artist/36pZo3el7YEvhIHIPiQPRE"
+        },
+        {
+          "name": "algormortis",
+          "url": "https://open.spotify.com/artist/1EIWp5lhzOlTacqDDgzbbj"
+        },
+        {
+          "name": "infohazard",
+          "url": "https://open.spotify.com/artist/3CjFSQ9FF4oZpmMUdHM3FZ"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200271,
+      "name": "Que Hago Pa' Olvidarte",
+      "url": "https://open.spotify.com/track/2SkwflX2UQZ8mgL4MdwNys"
+    },
+    {
+      "album": {
         "name": "QUE LE DE",
         "url": "https://open.spotify.com/album/2f9UrdMcXrlf6Sw9UOe2bx"
       },
@@ -67178,7 +67204,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/0WA27lZzPKFJKAbiDRmQDc"
@@ -67196,7 +67222,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-10",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"
@@ -78212,7 +78238,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 164241,
       "name": "they don\u2019t know \u2019bout us",
       "url": "https://open.spotify.com/track/0b61A7v9agI08BG21jJPQ9"
@@ -83640,7 +83666,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 293259,
       "name": "Vamos Otra Vez",
       "url": "https://open.spotify.com/track/3jkSHFFs8FiH6hTuDyeRlf"

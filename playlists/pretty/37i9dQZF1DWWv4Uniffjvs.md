@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv4Uniffjvs.md) - [plain]
 
 > <a href="spotify:artist:0zo109NM3S7CqHpvlXwqEN">VTSS</a>' favorite tracks\. Updated regularly\. Curated by VTSS\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,129 likes - 52 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,130 likes - 52 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv4Uniffjvs.md) - [plain]
 | 38 | [GET DOWN IN THE CAR](https://open.spotify.com/track/5tLInJ2Hv9shMxpdXBMxCL) | [DJ HÖRDE](https://open.spotify.com/artist/3dVLAQxTTr1HmDd4Wgva93), [TSAVAGE](https://open.spotify.com/artist/2ilUChEqm8nYSjpHDNwsu0) | [GET DOWN IN THE CAR](https://open.spotify.com/album/1Q8lRdEdDz97yOzgssioag) | 5:26 |
 | 39 | [Atlantis](https://open.spotify.com/track/1A67uZiZxZbhuhHbS1THye) | [Netherworld](https://open.spotify.com/artist/79LaPRYSRh7JAnu3r1jYPF) | [Atlantis](https://open.spotify.com/album/4cp9opr5n08caMaYj39DCy) | 6:27 |
 | 40 | [Bang & Bounce](https://open.spotify.com/track/5gCkDTFwWkV3UUuY8tGX55) | [Btsomething](https://open.spotify.com/artist/58vGs0AQHnH9BZtUcZ6Ixq) | [Bang & Bounce](https://open.spotify.com/album/5C6qCoqt2f2CCPiDyLuFBm) | 5:23 |
-| 41 | [Lowblow](https://open.spotify.com/track/0jGXaQWR5G0FmbSR9qbLu9) | [angels records](https://open.spotify.com/artist/1tro3K3NCGPjKJ1qz3o1Pt), [Pondi Map](https://open.spotify.com/artist/7Gziv4ZCG5oCxdEVGZ3B79) | [SOULSICK](https://open.spotify.com/album/2YbY16VutUyEnkxh8RBWzr) | 5:14 |
+| 41 | [Lowblow](https://open.spotify.com/track/0jGXaQWR5G0FmbSR9qbLu9) | [AnGeLZ](https://open.spotify.com/artist/08IctCdUYzP2zmepeyIoT4), [Pondi Map](https://open.spotify.com/artist/7Gziv4ZCG5oCxdEVGZ3B79) | [SOULSICK](https://open.spotify.com/album/2YbY16VutUyEnkxh8RBWzr) | 5:14 |
 | 42 | [Move It](https://open.spotify.com/track/0aeYqWitH0mkLtzcpeheWk) | [Justin Jay](https://open.spotify.com/artist/5k5eiijuHxrGwXp2Pz37GZ) | [Move It](https://open.spotify.com/album/0cAULZPtKcMTJx9hozDUWL) | 3:56 |
 | 43 | [Execute](https://open.spotify.com/track/62dPdgiDinEe8GMiIeEQIp) | [Toby Ross](https://open.spotify.com/artist/5lh6kMg3lTcj521cD0eXNo), [Samurai Breaks](https://open.spotify.com/artist/5X8xxAPGx1ouTGDlgE5ray) | [Toby Ross & Friends](https://open.spotify.com/album/00KxciBkBbvbSEODYoxYeS) | 4:06 |
 | 44 | [Baile Bump](https://open.spotify.com/track/76gzlxH6uIh6cQFosrdbpm) | [REA](https://open.spotify.com/artist/1nhQOYji5l5jrGliSvMvc6) | [World Foods](https://open.spotify.com/album/6iruPpAWXhSOhanUdY1Z7u) | 3:54 |

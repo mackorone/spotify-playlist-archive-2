@@ -207,6 +207,24 @@
     },
     {
       "album": {
+        "name": "Club Sessions",
+        "url": "https://open.spotify.com/album/4haY5hf6lUnMyUUn7oXFNO"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "date_added": "2026-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 430236,
+      "name": "Down 2 - Original Mix",
+      "url": "https://open.spotify.com/track/3ZUyhfMERIGdD2lZtbGXdy"
+    },
+    {
+      "album": {
         "name": "Hurbanistorias",
         "url": "https://open.spotify.com/album/1o8wNJhnLL493SfrM5McrY"
       },

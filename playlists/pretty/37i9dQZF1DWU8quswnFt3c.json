@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume. Cover: BINI",
-  "num_followers": 1043302,
+  "num_followers": 1043183,
   "original_name": "EQUAL",
   "owner": {
     "name": "Spotify",
@@ -307,18 +307,18 @@
     {
       "added_at": "2026-04-08 04:01:10",
       "album": {
-        "name": "The Great Unknown",
-        "url": "https://open.spotify.com/album/7oZVQrwrQyq7Y3I2m06oeN"
+        "name": "Night at the Opera",
+        "url": "https://open.spotify.com/album/2XU7TKFSPdMo3dyNWLdvjO"
       },
       "artists": [
         {
-          "name": "Sarah Geronimo",
-          "url": "https://open.spotify.com/artist/6aiCKnIN68hohzU3ZzNq48"
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
         }
       ],
-      "duration_ms": 245053,
-      "name": "Tala",
-      "url": "https://open.spotify.com/track/6C6F2oA7cmZKqq26FPGl0J"
+      "duration_ms": 184788,
+      "name": "Night at the Opera",
+      "url": "https://open.spotify.com/track/4ikhbKiw9pKYkWitSR7M7u"
     },
     {
       "added_at": "2026-04-08 04:01:10",
@@ -339,18 +339,18 @@
     {
       "added_at": "2026-04-08 04:01:10",
       "album": {
-        "name": "Night at the Opera",
-        "url": "https://open.spotify.com/album/2XU7TKFSPdMo3dyNWLdvjO"
+        "name": "The Great Unknown",
+        "url": "https://open.spotify.com/album/7oZVQrwrQyq7Y3I2m06oeN"
       },
       "artists": [
         {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+          "name": "Sarah Geronimo",
+          "url": "https://open.spotify.com/artist/6aiCKnIN68hohzU3ZzNq48"
         }
       ],
-      "duration_ms": 184788,
-      "name": "Night at the Opera",
-      "url": "https://open.spotify.com/track/4ikhbKiw9pKYkWitSR7M7u"
+      "duration_ms": 245053,
+      "name": "Tala",
+      "url": "https://open.spotify.com/track/6C6F2oA7cmZKqq26FPGl0J"
     },
     {
       "added_at": "2026-04-08 04:01:10",
@@ -743,26 +743,6 @@
     {
       "added_at": "2026-04-08 04:01:10",
       "album": {
-        "name": "Maghron La",
-        "url": "https://open.spotify.com/album/0WwgZENQ2PIRVDqaVNzlSA"
-      },
-      "artists": [
-        {
-          "name": "Sabri Sisters",
-          "url": "https://open.spotify.com/artist/5LBIpDf0NQMSYa6O42d9Mn"
-        },
-        {
-          "name": "Rozeo",
-          "url": "https://open.spotify.com/artist/0mojEh0eM7WmhBI4WBCmE0"
-        }
-      ],
-      "duration_ms": 246449,
-      "name": "Maghron La",
-      "url": "https://open.spotify.com/track/6zU7GoGlsJtIUNPRGNl0m8"
-    },
-    {
-      "added_at": "2026-04-08 04:01:10",
-      "album": {
         "name": "\u00bfARDIDA QUI\u00c9N?",
         "url": "https://open.spotify.com/album/4oxsCPmw0U4j8Rg5jg6ygJ"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 140854,
       "name": "\u00bfARDIDA QUI\u00c9N?",
       "url": "https://open.spotify.com/track/0gCqNU4anOEcpwUY0u44br"
+    },
+    {
+      "added_at": "2026-04-08 04:01:10",
+      "album": {
+        "name": "Maghron La",
+        "url": "https://open.spotify.com/album/0WwgZENQ2PIRVDqaVNzlSA"
+      },
+      "artists": [
+        {
+          "name": "Sabri Sisters",
+          "url": "https://open.spotify.com/artist/5LBIpDf0NQMSYa6O42d9Mn"
+        },
+        {
+          "name": "Rozeo",
+          "url": "https://open.spotify.com/artist/0mojEh0eM7WmhBI4WBCmE0"
+        }
+      ],
+      "duration_ms": 246449,
+      "name": "Maghron La",
+      "url": "https://open.spotify.com/track/6zU7GoGlsJtIUNPRGNl0m8"
     },
     {
       "added_at": "2026-04-08 16:08:34",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2026-04-08 04:01:10",
       "album": {
+        "name": "PICKY PICKY",
+        "url": "https://open.spotify.com/album/5ALLCCDEVDdmmuSDeNE1ZW"
+      },
+      "artists": [
+        {
+          "name": "Jaime Cheung",
+          "url": "https://open.spotify.com/artist/0HlQqnAtrcPAXQcfdKqz5h"
+        }
+      ],
+      "duration_ms": 128031,
+      "name": "PICKY PICKY",
+      "url": "https://open.spotify.com/track/1rXkRz2Kq0OPtUCbYl1FnR"
+    },
+    {
+      "added_at": "2026-04-08 04:01:10",
+      "album": {
         "name": "Butterflies",
         "url": "https://open.spotify.com/album/6kJ6MCCbFfngKR9Xq4orhN"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 199013,
       "name": "pov",
       "url": "https://open.spotify.com/track/1qCHCDdq2oEGPRCkugPAfZ"
-    },
-    {
-      "added_at": "2026-04-08 04:01:10",
-      "album": {
-        "name": "PICKY PICKY",
-        "url": "https://open.spotify.com/album/5ALLCCDEVDdmmuSDeNE1ZW"
-      },
-      "artists": [
-        {
-          "name": "Jaime Cheung",
-          "url": "https://open.spotify.com/artist/0HlQqnAtrcPAXQcfdKqz5h"
-        }
-      ],
-      "duration_ms": 128031,
-      "name": "PICKY PICKY",
-      "url": "https://open.spotify.com/track/1rXkRz2Kq0OPtUCbYl1FnR"
     }
   ],
   "unique_name": "EQUAL",

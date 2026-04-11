@@ -4,7 +4,7 @@
 
 > The best new dance tracks from independent artists & labels\. Featuring Osmosis Jones\. Curated by human Spotify editors.
 
-3,472 songs - 9 day 9 hr 32 min
+3,474 songs - 9 day 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2704,6 +2704,7 @@
 | [Smile](https://open.spotify.com/track/680iLPZk4KQNnTeHDPbGDW) | [Atelier](https://open.spotify.com/artist/6OdAP3bmab4X74sypKMOtu) | [Smile](https://open.spotify.com/album/5eM2N950CGsqOM20ccLDYs) | 2:47 | 2024-07-31 | 2024-10-03 |
 | [Smooth](https://open.spotify.com/track/3wGNAOCHbHwkhHhxbdp6uU) | [Nerd in Disco](https://open.spotify.com/artist/3FO1TjJvSHtO141dRWkq5l) | [Smooth](https://open.spotify.com/album/2KY32E8TeTIEDXm7eiiY4d) | 3:05 | 2025-05-09 | 2025-06-21 |
 | [SMS](https://open.spotify.com/track/0i5lksOWWANr2WQsYWm7Dm) | [Mathis Ruffing](https://open.spotify.com/artist/445mkEZrja6pJKcggLd1Jn), [Tamila](https://open.spotify.com/artist/1wZ7zz9Sqn7bmoE21k0EZV) | [Sternzeichen Domina](https://open.spotify.com/album/3GBBhDRvEmaAwAnMKy9D5w) | 4:13 | 2023-10-04 | 2023-10-26 |
+| [Snakebite Boogie](https://open.spotify.com/track/3Tokd2H9xxDzkvKVahm6tc) | [Mellizos](https://open.spotify.com/artist/58aKkaiVZkoeZNeHTz36Gi) | [Snakebite Boogie EP](https://open.spotify.com/album/65kPQwCvSFLJndDg9zJTOv) | 3:31 | 2026-04-10 |  |
 | [Snap Talk](https://open.spotify.com/track/3wTLRYU9ZALPX6vxflvo3x) | [Hilit Kolet](https://open.spotify.com/artist/55V8bcpuStLufEK3xFIwyy), [Kameelah Waheed](https://open.spotify.com/artist/2YTa2kPiPzJ6K8JJlGZTBU) | [Snap Talk](https://open.spotify.com/album/44jOVflzmKLQUzhQ1LLEOz) | 5:25 | 2024-07-17 | 2024-08-08 |
 | [Snappy](https://open.spotify.com/track/4gnGr12QhSAPeqsqhKq7Fv) | [Piem](https://open.spotify.com/artist/08st4VKj9jjZJ5eKzAOHq8), [Richard Ulh](https://open.spotify.com/artist/13YK5jhfOHLpzZbsxY1Aa2) | [Snappy](https://open.spotify.com/album/2h0AtWaHxyQ4mjuAQj3u3E) | 5:09 | 2022-10-19 | 2023-01-19 |
 | [Snog](https://open.spotify.com/track/3HM98iPblYJraH2pQIwlti) | [Alex Bone](https://open.spotify.com/artist/2iL6iQOjN0zrskyJHksaEJ) | [Snog](https://open.spotify.com/album/0yszMLZhCjPj39V54464kX) | 3:27 | 2024-06-27 | 2025-01-16 |
@@ -3078,6 +3079,7 @@
 | [Tinsel \(me\)](https://open.spotify.com/track/7mk7iS2Tsg3N0TR750YnlG) | [J\. Louix](https://open.spotify.com/artist/2WYMIlGoKw0QcSrbinrsQP), [Soy Christmas](https://open.spotify.com/artist/2X196fObsrfnNS25WLbeVE) | [Tinsel \(me\)](https://open.spotify.com/album/4x0gUjWT7HxAr67ZcuYYzA) | 3:07 | 2023-03-08 | 2023-04-06 |
 | [TIOLI](https://open.spotify.com/track/62Ho56ziilGANhRbJY2UvA) | [RONA.](https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6) | [TIOLI](https://open.spotify.com/album/6hXL6AoUVJIhIIY67nOD9B) | 4:38 | 2022-04-27 | 2022-06-16 |
 | [Titatite \- Radio Edit](https://open.spotify.com/track/2K0oKmsSeBoCp6dEjfv98T) | [Luch](https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp) | [Titatite](https://open.spotify.com/album/2FYzhHxTqcvHffJWkjQPbJ) | 2:41 | 2024-08-30 | 2024-10-03 |
+| [To The Party](https://open.spotify.com/track/2jsyn46OQHFQGYj4BbmHRD) | [B/AN/K](https://open.spotify.com/artist/0KenGC6rx5erjBNitrfJNu) | [To The Party](https://open.spotify.com/album/0z7Z3KkFpVdSv0NYEMpdt7) | 3:08 | 2026-04-10 |  |
 | [TOBACCO](https://open.spotify.com/track/5EUZcqPz4xapOoki4CoY4m) | [Kaila](https://open.spotify.com/artist/6DlHoO5AWaPN0sLDws9Fyo) | [TOBACCO](https://open.spotify.com/album/3DrWVv11amwwFG7VzSB6RI) | 3:25 | 2025-10-17 | 2025-11-15 |
 | [Together](https://open.spotify.com/track/6zTrbKbWxIE3HZe1cZge7m) | [Arkyn](https://open.spotify.com/artist/1qTAhQetjUGLrQUA1gulYC) | [Dilemma / Together](https://open.spotify.com/album/6Pg5SpKYOxuZCuxvBpjvFm) | 6:31 | 2023-06-28 | 2023-08-10 |
 | [Together](https://open.spotify.com/track/5BehfMdJifpFKpqJ48bGcr) | [Juno Mamba](https://open.spotify.com/artist/5RAHYRgJdI1D82IANP5yYL) | [Together](https://open.spotify.com/album/3ibbIoS6s2outanhvWyC9P) | 3:53 | 2024-04-17 | 2024-06-06 |
@@ -3256,7 +3258,7 @@
 | [waiting for u](https://open.spotify.com/track/0mGSVNlVdbFaZNMy5jKLmC) | [Sonan](https://open.spotify.com/artist/5qfTG0UpxeQQHzGJ3oCvSb) | [waiting for u](https://open.spotify.com/album/7AguFyUySIAuKIrAU4idq5) | 3:09 | 2024-08-14 | 2025-01-16 |
 | [Waiting For You](https://open.spotify.com/track/0lMUbzV4YXwe0ut5Xd8Ojf) | [Julian Hall](https://open.spotify.com/artist/0hFYvKvXCBlrnTghqcm9Lj) | [Waiting For You](https://open.spotify.com/album/3FOWT8wXAcgwL7v0TUfT5X) | 2:01 | 2024-04-17 | 2024-06-13 |
 | [Wake up and Leave](https://open.spotify.com/track/4S2M8ptshVlXDpgsjVB5nJ) | [just\_leben](https://open.spotify.com/artist/1goS4gdV9d01XZWHDOXcOe) | [Wake up and Leave](https://open.spotify.com/album/3AJ8kW01JlY4yWwPKZmy25) | 2:33 | 2023-02-22 | 2023-03-16 |
-| [Walk Away](https://open.spotify.com/track/5E5U0bpj6Tnkf4qt77UMp1) | [Sekta](https://open.spotify.com/artist/06PMrOCpEXRYONKv8KlLXD), [Marzo](https://open.spotify.com/artist/0BvEAAhmCh248qMAgGqcta) | [Walk Away / Jump](https://open.spotify.com/album/0GM6Ct1Wr8LNGLUR1JcAwY) | 3:20 | 2026-03-18 |  |
+| [Walk Away](https://open.spotify.com/track/5E5U0bpj6Tnkf4qt77UMp1) | [Sekta](https://open.spotify.com/artist/06PMrOCpEXRYONKv8KlLXD), [Marzo](https://open.spotify.com/artist/0BvEAAhmCh248qMAgGqcta) | [Walk Away / Jump](https://open.spotify.com/album/0GM6Ct1Wr8LNGLUR1JcAwY) | 3:20 | 2026-03-18 | 2026-04-11 |
 | [Walk It](https://open.spotify.com/track/1r2BLx87xz7pETkSLqBBqP) | [A/S/L](https://open.spotify.com/artist/2BX74Qt23X4mO6oAK28KBh) | [Walk It](https://open.spotify.com/album/3stn12xzJNC8hD1mOlrRU8) | 2:52 | 2025-04-30 | 2025-06-07 |
 | [WALK THROUGH FIRE](https://open.spotify.com/track/16EoN0KoaXcAu2wgKhOWR4) | [ghost.](https://open.spotify.com/artist/4Ctl4vMI3xOgy3rNrEWZjJ) | [WALK THROUGH FIRE](https://open.spotify.com/album/0e4IzAhcwQ7dt2OhbwWfhW) | 3:00 | 2023-10-04 | 2023-11-30 |
 | [Wall Panda](https://open.spotify.com/track/3fLlzbXRngxEIvKJLZbpXp) | [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6), [Sam Binga](https://open.spotify.com/artist/2oyU4eToyQkxAFjkB3blsi) | [Wall Panda](https://open.spotify.com/album/2voC853Zh6nLbTN3w1PpQL) | 3:46 | 2023-03-01 | 2023-03-09 |
@@ -3442,7 +3444,7 @@
 | [You Could Be](https://open.spotify.com/track/56tNMHvbcFPvYiDxA7xROH) | [Anz](https://open.spotify.com/artist/1Ysz8yMgr4g1Ol3l1m3yOt), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [You Could Be](https://open.spotify.com/album/32bdwKmh9xPoBmYlCjNNZI) | 3:38 | 2021-12-01 | 2022-01-27 |
 | [You Don't Know](https://open.spotify.com/track/2pVtETHO4XVE5ngiGPeyxR) | [Brandon Mints](https://open.spotify.com/artist/5YjfNaHq05WrwldRe1QSBc) | [You Don't Know](https://open.spotify.com/album/3bN26hpvMbDgPjsIPUCxz1) | 3:15 | 2022-03-31 | 2022-04-28 |
 | [YOU GIMME LOVE](https://open.spotify.com/track/3nMPzoovMKHhYjqnB76pqo) | [F.A.R](https://open.spotify.com/artist/4C7sbvuNp9CetvdQvuqufo), [Starving Yet Full](https://open.spotify.com/artist/49ukBTxilLygQEjsB6Gd1a) | [YOU GIMME LOVE](https://open.spotify.com/album/13qvN7tIyBfPzShR4WJETf) | 6:33 | 2022-08-10 | 2022-09-01 |
-| [You got me](https://open.spotify.com/track/6oHF418YOsgEd6qjlRP1Dn) | [Sam Atlast](https://open.spotify.com/artist/7qKmJ2FhmHqqRlEpWuhlfz), [Lowbrain](https://open.spotify.com/artist/3GPYxTFTrtFQPS8MzJVhek) | [You got me](https://open.spotify.com/album/2kCRESbT1g2fiC2RymaLIL) | 3:01 | 2026-03-11 |  |
+| [You got me](https://open.spotify.com/track/6oHF418YOsgEd6qjlRP1Dn) | [Sam Atlast](https://open.spotify.com/artist/7qKmJ2FhmHqqRlEpWuhlfz), [Lowbrain](https://open.spotify.com/artist/3GPYxTFTrtFQPS8MzJVhek) | [You got me](https://open.spotify.com/album/2kCRESbT1g2fiC2RymaLIL) | 3:01 | 2026-03-11 | 2026-04-11 |
 | [You Got the Bounce](https://open.spotify.com/track/5wprrXE5iOtmBWcT05ayyP) | [Bum Bag](https://open.spotify.com/artist/2WS2Qwnxq1hrwwgfMLFTDW) | [You Got the Bounce](https://open.spotify.com/album/0HOmbmsZW4a92wLJzWSWFd) | 2:45 | 2023-10-18 | 2023-11-30 |
 | [You Gotta Be Real](https://open.spotify.com/track/4ubG5aMNisOmR8IpKxL0a0) | [HUF](https://open.spotify.com/artist/4oe1QAsrMuoPkn4CHTX5CX) | [You Gotta Be Real](https://open.spotify.com/album/3Bm5tFPRZDc8bPfOh5CDTU) | 2:51 | 2024-10-02 | 2024-12-05 |
 | [You Hear Me Girl?](https://open.spotify.com/track/7HF0JjmKjBkRBJsYfsSs6y) | [James Lee](https://open.spotify.com/artist/6w1HoHc9y9pXxduOmcBR2X) | [You Hear Me Girl?](https://open.spotify.com/album/23UL3q9e67OOLTEwnn0W2d) | 2:00 | 2024-11-13 | 2024-12-05 |

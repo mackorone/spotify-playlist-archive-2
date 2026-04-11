@@ -662,7 +662,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 308280,
       "name": "Memory of Future Melody",
       "url": "https://open.spotify.com/track/526K5riGysdt3Efrra6JXk"
@@ -805,6 +805,28 @@
     },
     {
       "album": {
+        "name": "Landscape Architecture",
+        "url": "https://open.spotify.com/album/4Efmy1cGT5PcyZY3dvHMRf"
+      },
+      "artists": [
+        {
+          "name": "Christina Vantzou",
+          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
+        },
+        {
+          "name": "John Also Bennett",
+          "url": "https://open.spotify.com/artist/763QqRidfZUpg74lK6k9rk"
+        }
+      ],
+      "date_added": "2026-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338000,
+      "name": "Phantom Tunnel",
+      "url": "https://open.spotify.com/track/1FqbE6urIwPZycA7X7X1hL"
+    },
+    {
+      "album": {
         "name": "Christina Vantzou, Michael Harrison and John Also Bennett",
         "url": "https://open.spotify.com/album/1gGeFnXsboBj17KDg0Iqfi"
       },
@@ -928,7 +950,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-10",
+      "date_removed": null,
       "duration_ms": 243394,
       "name": "Red Eel Dream",
       "url": "https://open.spotify.com/track/0vxBRncqPeIdYfJz0HbRNM"
@@ -1356,7 +1378,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 99561,
       "name": "Wild Beast Research",
       "url": "https://open.spotify.com/track/2K9DjzPT0XgqMtX7jaywge"

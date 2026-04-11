@@ -2291,6 +2291,32 @@
     },
     {
       "album": {
+        "name": "Blow A Kiss",
+        "url": "https://open.spotify.com/album/3xGHsA01JaDZAfVYYScjmx"
+      },
+      "artists": [
+        {
+          "name": "Smooth Talk",
+          "url": "https://open.spotify.com/artist/2bfp5yCyj2ze0s2OgkKnmn"
+        },
+        {
+          "name": "Vozz Rich",
+          "url": "https://open.spotify.com/artist/27sSKrytmUXukDnMGPXNHQ"
+        },
+        {
+          "name": "AdamDarling",
+          "url": "https://open.spotify.com/artist/3ymgkFheVJc8RE98s1yMM6"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197552,
+      "name": "Blow A Kiss",
+      "url": "https://open.spotify.com/track/2pwx7SWo8xtaX6F6oKbNKf"
+    },
+    {
+      "album": {
         "name": "Body & Soul / Winning Prize",
         "url": "https://open.spotify.com/album/2mLV1f1aV8pkB45AljGOwp"
       },
@@ -16412,6 +16438,24 @@
       "duration_ms": 230624,
       "name": "Rapture (BLR Remix)",
       "url": "https://open.spotify.com/track/2rFGvptgcdcYoYHZ89GNL3"
+    },
+    {
+      "album": {
+        "name": "Rasa",
+        "url": "https://open.spotify.com/album/4cVAQwPqntz0vJVXaArLsV"
+      },
+      "artists": [
+        {
+          "name": "HASKELL",
+          "url": "https://open.spotify.com/artist/5ry5gHsT7l1X84yGPZeVIj"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181875,
+      "name": "Rasa",
+      "url": "https://open.spotify.com/track/2FjygPrHAtjeMD4AwWK0Yp"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [IRIS](https://open.spotify.com/playlist/37i9dQZF1DX42OMh36xkYf)
 
-> Resonancias extraordinarias de luminiscencia inclasificable\. Con Aterciopelados en portada.
+> Resonancias extraordinarias de luminiscencia inclasificable\. Con Diamante Eléctrico en portada.
 
-281 songs - 15 hr 35 min
+282 songs - 15 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Carta de Amor](https://open.spotify.com/track/6Mn0TEs0e0EVOD6tzwlada) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [Carta de Amor](https://open.spotify.com/album/3vvkKLrUnow3o3O3VbRiUF) | 2:56 | 2023-11-24 | 2025-03-29 |
 | [Cartagena](https://open.spotify.com/track/3CBc589syKaYJd0VYgxjka) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Cartagena](https://open.spotify.com/album/0ahwRf85EYG9xvig4lqdvB) | 3:07 | 2024-05-10 | 2024-07-19 |
 | [Casa](https://open.spotify.com/track/2jtYjxUoGDVb6CD4csCmSq) | [Piel Camaleón](https://open.spotify.com/artist/1cfJThcgMhg9IU5kYVhUbq) | [Casa](https://open.spotify.com/album/1eIKsr5SKSqivegMHn1yFh) | 3:35 | 2023-11-10 | 2024-02-03 |
+| [Casi un Hechizo](https://open.spotify.com/track/3dS9O9MJZHLtErp33ZvuOg) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Casi un Hechizo](https://open.spotify.com/album/3gYes9MKUzeGQ72KtgHPwj) | 4:34 | 2026-04-10 |  |
 | [CELESTE // YA LO SABES](https://open.spotify.com/track/7IcqhaE51MV1ZKW4v9ug16) | [MIEL](https://open.spotify.com/artist/7KQCUauVB5CLGrJwq2JoVd) | [CELESTE // YA LO SABES](https://open.spotify.com/album/4jqrjhuUOCGpgL2pBWghoE) | 3:00 | 2023-09-22 | 2024-02-10 |
 | [cellphone](https://open.spotify.com/track/3ZQc1r9mfLCCJo5rxHBbe4) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [cellphone](https://open.spotify.com/album/6WDcTUdnnNKoGQKnsDNwhO) | 3:32 | 2023-11-24 | 2024-01-13 |
 | [Cervecita](https://open.spotify.com/track/5qGt1hmUqu0BKNtxEalFsu) | [Comida Para Llevar](https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h), [Tayko](https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m), [Topo](https://open.spotify.com/artist/4Miyqlo31ghyJFM5QycK1J), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [ALL\-YOU\-CAN\-EAT, Vol.3](https://open.spotify.com/album/0PYsKwacOKYUTqO4cYe6Re) | 3:14 | 2024-04-26 | 2025-08-02 |
@@ -216,7 +217,7 @@
 | [Paradisco](https://open.spotify.com/track/5I1D6tt50g9X57gpaKt8sH) | [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4) | [Paradisco](https://open.spotify.com/album/1qkLcWIHTqlAFFS9TsVt7h) | 3:53 | 2023-09-22 | 2024-04-13 |
 | [Película](https://open.spotify.com/track/4R8JF3mYzm28iU8AbibPJO) | [Perras on the beach](https://open.spotify.com/artist/0mSn9qsGHUMllx267A3qX3) | [Película](https://open.spotify.com/album/1d4vNIf3aUIH4W6xjk7pfr) | 1:59 | 2023-09-22 | 2025-08-02 |
 | [Película De Adolescentes](https://open.spotify.com/track/3bCJWrkcmgjcvyXvjHxTlK) | [Pavlo](https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2) | [Película De Adolescentes](https://open.spotify.com/album/7DjwtIgVbzZztvayuTWmhF) | 2:48 | 2023-12-01 | 2024-02-24 |
-| [Películas De Acción](https://open.spotify.com/track/5ReNrZRqNxwL7mQzPu1mKh) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Películas De Acción](https://open.spotify.com/album/0jXVUEzaxq6gCoBaqZZpZk) | 3:33 | 2026-01-30 |  |
+| [Películas De Acción](https://open.spotify.com/track/5ReNrZRqNxwL7mQzPu1mKh) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Películas De Acción](https://open.spotify.com/album/0jXVUEzaxq6gCoBaqZZpZk) | 3:33 | 2026-01-30 | 2026-04-11 |
 | [Pepita De Oro](https://open.spotify.com/track/2O74CldHf1fWUINiWTchRA) | [Flor de Lava](https://open.spotify.com/artist/1Kmfay6VWbRpdDJllGJ6B6) | [Flor de Lava](https://open.spotify.com/album/5GPK0RmNwuu4STJK8v0bXC) | 2:44 | 2026-03-18 | 2026-03-27 |
 | [Perspectiva](https://open.spotify.com/track/0nlqSRcepWQ1KpQQzGV6Ju) | [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM) | [Lo Que Puede Pasar](https://open.spotify.com/album/7cxK8DbJ1Sk5xvAyf9pbHC) | 2:31 | 2025-11-21 | 2025-12-13 |
 | [Pinta Bonito](https://open.spotify.com/track/6j98s4dlTDuUl8tMy8BUZ7) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df) | [Pinta Bonito](https://open.spotify.com/album/3tRAsO7rFrSh6uDYFl1uiJ) | 3:36 | 2025-11-21 | 2026-01-31 |

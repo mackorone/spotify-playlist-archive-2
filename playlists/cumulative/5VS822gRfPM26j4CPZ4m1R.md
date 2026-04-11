@@ -4,7 +4,7 @@
 
 > Playlist
 
-642 songs - 1 day 14 hr 1 min
+643 songs - 1 day 14 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -315,6 +315,7 @@
 | [Laced Up](https://open.spotify.com/track/5k6mwsbR61D4ru3Q5V9l17) | [Kip Nelson](https://open.spotify.com/artist/5k62M5NJX9w9TbHpUKiRTs) | [Laced Up](https://open.spotify.com/album/6az1CCt62V1JJWnVxMPrQS) | 2:42 | 2023-10-25 |  |
 | [Laissez\-Moi Rêver](https://open.spotify.com/track/0v1W40nJew2JlgTOSkjVEF) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Tout Autour De Nous](https://open.spotify.com/album/32JXrOWx2ebrYtB1isz11n) | 2:55 | 2023-10-25 |  |
 | [lately](https://open.spotify.com/track/2UPMM782MVJ3qW0spGF4Ct) | [Love Seats](https://open.spotify.com/artist/5TpcFHcLdEiGjsiuj9hiD6) | [lately](https://open.spotify.com/album/0SgtgT0gUoZiXbFYew7b7c) | 2:25 | 2024-11-15 |  |
+| [Laying in the Yard](https://open.spotify.com/track/4synUl7lPkKyUxGTxi8SQY) | [Grayson Hamm](https://open.spotify.com/artist/1zQbqJWYcdrVXef2iatspr) | [Laying in the Yard](https://open.spotify.com/album/2gdTqOi6J1ioGeyCRURI9Q) | 2:44 | 2026-04-10 |  |
 | [Le soleil danse](https://open.spotify.com/track/0FzLmCmrha6YjLh7uLtO72) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Miel de Montagne](https://open.spotify.com/album/0IOiwcIywlRenbyorrUzJO) | 5:10 | 2023-10-25 |  |
 | [Le Tuto](https://open.spotify.com/track/4NeN8o1qapu7Po99f2FqLp) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf), [Jacques](https://open.spotify.com/artist/55i4AnS7E58y41UwE0vvQh) | [Tout Autour De Nous](https://open.spotify.com/album/32JXrOWx2ebrYtB1isz11n) | 3:30 | 2023-10-25 |  |
 | [Leap Of Faith](https://open.spotify.com/track/5OyQCPtnxmDy8pFb8tj0ug) | [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [Walk of Fire](https://open.spotify.com/album/0K21lLIS1d13QlL5jhHgi3) | 3:22 | 2024-02-23 |  |

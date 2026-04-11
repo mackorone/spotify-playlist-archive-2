@@ -1,6 +1,6 @@
 {
   "description": "r\u00f8lp og s\u00e5nt",
-  "num_followers": 117526,
+  "num_followers": 117541,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,22 @@
     {
       "added_at": "2026-04-09 22:02:04",
       "album": {
+        "name": "Ingenting kan stoppe oss",
+        "url": "https://open.spotify.com/album/4BdAQy3bCKpsYQEIEwdz7M"
+      },
+      "artists": [
+        {
+          "name": "Plumbo",
+          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
+        }
+      ],
+      "duration_ms": 197282,
+      "name": "Ingenting kan stoppe oss",
+      "url": "https://open.spotify.com/track/3vT5zeUXtsnpl5zYZlh8GB"
+    },
+    {
+      "added_at": "2026-04-09 22:02:04",
+      "album": {
         "name": "Hele natta",
         "url": "https://open.spotify.com/album/3uVAwQKUH2tDeVxQzA9CXZ"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 149435,
       "name": "Hele natta",
       "url": "https://open.spotify.com/track/6ErJLc3g3F3LTR89uSQaOW"
-    },
-    {
-      "added_at": "2026-04-09 22:02:04",
-      "album": {
-        "name": "Ingenting kan stoppe oss",
-        "url": "https://open.spotify.com/album/4BdAQy3bCKpsYQEIEwdz7M"
-      },
-      "artists": [
-        {
-          "name": "Plumbo",
-          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
-        }
-      ],
-      "duration_ms": 197282,
-      "name": "Ingenting kan stoppe oss",
-      "url": "https://open.spotify.com/track/3vT5zeUXtsnpl5zYZlh8GB"
     },
     {
       "added_at": "2026-04-09 22:02:04",
@@ -839,8 +839,8 @@
     {
       "added_at": "2026-04-09 22:02:04",
       "album": {
-        "name": "Gikk en tur p\u00e5 stien",
-        "url": "https://open.spotify.com/album/1xx33P54osSgrtU0yMcpdS"
+        "name": "Singel til jeg d\u00f8r",
+        "url": "https://open.spotify.com/album/57hUp9ecLiQODZpexmgd6f"
       },
       "artists": [
         {
@@ -848,9 +848,9 @@
           "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
         }
       ],
-      "duration_ms": 143085,
-      "name": "Gikk en tur p\u00e5 stien",
-      "url": "https://open.spotify.com/track/0t8E42WWXZQ9Jd8XibIiZz"
+      "duration_ms": 142620,
+      "name": "Singel til jeg d\u00f8r",
+      "url": "https://open.spotify.com/track/3OSzx7DOBwR10pCsbMOUwF"
     },
     {
       "added_at": "2026-04-09 22:02:04",
@@ -907,24 +907,24 @@
     {
       "added_at": "2026-04-09 22:02:04",
       "album": {
-        "name": "Tro",
-        "url": "https://open.spotify.com/album/688QJHvwDmWMfILIRPq4rY"
+        "name": "G\u00e5r i hundre",
+        "url": "https://open.spotify.com/album/5dF8qDJtjtq0f0eH9U4v5J"
       },
       "artists": [
         {
-          "name": "Rune Rudberg",
-          "url": "https://open.spotify.com/artist/5vViCpDnSSDRHtSmFhrKfY"
+          "name": "Knivblad",
+          "url": "https://open.spotify.com/artist/5B9QPiKMDIOkjg3Mu1hQng"
         }
       ],
-      "duration_ms": 170526,
-      "name": "N\u00e5 er det freda'n igjen",
-      "url": "https://open.spotify.com/track/096d1z40MQXAEZALorCnC4"
+      "duration_ms": 161294,
+      "name": "G\u00e5r i hundre",
+      "url": "https://open.spotify.com/track/6bSCsSwV5iHwftQ17G1Vuj"
     },
     {
       "added_at": "2026-04-09 22:02:04",
       "album": {
-        "name": "Singel til jeg d\u00f8r",
-        "url": "https://open.spotify.com/album/57hUp9ecLiQODZpexmgd6f"
+        "name": "Gikk en tur p\u00e5 stien",
+        "url": "https://open.spotify.com/album/1xx33P54osSgrtU0yMcpdS"
       },
       "artists": [
         {
@@ -932,25 +932,9 @@
           "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
         }
       ],
-      "duration_ms": 142620,
-      "name": "Singel til jeg d\u00f8r",
-      "url": "https://open.spotify.com/track/3OSzx7DOBwR10pCsbMOUwF"
-    },
-    {
-      "added_at": "2026-04-09 22:02:04",
-      "album": {
-        "name": "Der Jeg H\u00f8rer Te (Bygda)",
-        "url": "https://open.spotify.com/album/6tqJgkJ5ap9ooOxd0TsTW3"
-      },
-      "artists": [
-        {
-          "name": "Ole Hartz",
-          "url": "https://open.spotify.com/artist/7J8OsnJjGfG1uHd348LZPI"
-        }
-      ],
-      "duration_ms": 137106,
-      "name": "Der Jeg H\u00f8rer Te (Bygda)",
-      "url": "https://open.spotify.com/track/3ZtqqLjlfr5GOPxezSaFwX"
+      "duration_ms": 143085,
+      "name": "Gikk en tur p\u00e5 stien",
+      "url": "https://open.spotify.com/track/0t8E42WWXZQ9Jd8XibIiZz"
     },
     {
       "added_at": "2026-04-09 22:02:04",
@@ -971,6 +955,38 @@
     {
       "added_at": "2026-04-09 22:02:04",
       "album": {
+        "name": "Tro",
+        "url": "https://open.spotify.com/album/688QJHvwDmWMfILIRPq4rY"
+      },
+      "artists": [
+        {
+          "name": "Rune Rudberg",
+          "url": "https://open.spotify.com/artist/5vViCpDnSSDRHtSmFhrKfY"
+        }
+      ],
+      "duration_ms": 170526,
+      "name": "N\u00e5 er det freda'n igjen",
+      "url": "https://open.spotify.com/track/096d1z40MQXAEZALorCnC4"
+    },
+    {
+      "added_at": "2026-04-09 22:02:04",
+      "album": {
+        "name": "Der Jeg H\u00f8rer Te (Bygda)",
+        "url": "https://open.spotify.com/album/6tqJgkJ5ap9ooOxd0TsTW3"
+      },
+      "artists": [
+        {
+          "name": "Ole Hartz",
+          "url": "https://open.spotify.com/artist/7J8OsnJjGfG1uHd348LZPI"
+        }
+      ],
+      "duration_ms": 137106,
+      "name": "Der Jeg H\u00f8rer Te (Bygda)",
+      "url": "https://open.spotify.com/track/3ZtqqLjlfr5GOPxezSaFwX"
+    },
+    {
+      "added_at": "2026-04-09 22:02:04",
+      "album": {
         "name": "Er det lov \u00e5 leva",
         "url": "https://open.spotify.com/album/3O2Rjh8vKAAK5fndtSKSzU"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 131835,
       "name": "Er det lov \u00e5 leva",
       "url": "https://open.spotify.com/track/3KKdDF5B4kjkC0zWR4SKZs"
-    },
-    {
-      "added_at": "2026-04-09 22:02:04",
-      "album": {
-        "name": "Sv\u00e6re Pupper",
-        "url": "https://open.spotify.com/album/17bmLiibdB9L5lrwi3EY1h"
-      },
-      "artists": [
-        {
-          "name": "KOKKOS",
-          "url": "https://open.spotify.com/artist/6EnV0svWRA9J0T3ALASlkk"
-        }
-      ],
-      "duration_ms": 138947,
-      "name": "Sv\u00e6re Pupper",
-      "url": "https://open.spotify.com/track/77WdMakzs7lQvUagvlz4fD"
     },
     {
       "added_at": "2026-04-09 22:02:04",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2026-04-09 22:02:04",
       "album": {
+        "name": "Sv\u00e6re Pupper",
+        "url": "https://open.spotify.com/album/17bmLiibdB9L5lrwi3EY1h"
+      },
+      "artists": [
+        {
+          "name": "KOKKOS",
+          "url": "https://open.spotify.com/artist/6EnV0svWRA9J0T3ALASlkk"
+        }
+      ],
+      "duration_ms": 138947,
+      "name": "Sv\u00e6re Pupper",
+      "url": "https://open.spotify.com/track/77WdMakzs7lQvUagvlz4fD"
+    },
+    {
+      "added_at": "2026-04-09 22:02:04",
+      "album": {
         "name": "Ja vi elsker (Typisk Norsk 2019)",
         "url": "https://open.spotify.com/album/51IOa1Q0fzTyqCebspEkxV"
       },
@@ -1035,38 +1051,6 @@
       "duration_ms": 164905,
       "name": "Ja vi elsker (Typisk Norsk 2019)",
       "url": "https://open.spotify.com/track/57kBFnmwCPxjkaIWPnhhkl"
-    },
-    {
-      "added_at": "2026-04-09 22:02:04",
-      "album": {
-        "name": "G\u00e5r i hundre",
-        "url": "https://open.spotify.com/album/5dF8qDJtjtq0f0eH9U4v5J"
-      },
-      "artists": [
-        {
-          "name": "Knivblad",
-          "url": "https://open.spotify.com/artist/5B9QPiKMDIOkjg3Mu1hQng"
-        }
-      ],
-      "duration_ms": 161294,
-      "name": "G\u00e5r i hundre",
-      "url": "https://open.spotify.com/track/6bSCsSwV5iHwftQ17G1Vuj"
-    },
-    {
-      "added_at": "2026-04-09 22:02:04",
-      "album": {
-        "name": "Ola",
-        "url": "https://open.spotify.com/album/6aSofv0Ux8UAd2d9SLjgFG"
-      },
-      "artists": [
-        {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
-        }
-      ],
-      "duration_ms": 204336,
-      "name": "Ola",
-      "url": "https://open.spotify.com/track/4xjEz1oESbKlbge5czJUa6"
     },
     {
       "added_at": "2026-04-09 22:02:04",
@@ -1087,6 +1071,22 @@
       "duration_ms": 158866,
       "name": "GUTTA (feat. Plumbo)",
       "url": "https://open.spotify.com/track/5DXX1gqh2B9pvK042sb3mE"
+    },
+    {
+      "added_at": "2026-04-09 22:02:04",
+      "album": {
+        "name": "Ola",
+        "url": "https://open.spotify.com/album/6aSofv0Ux8UAd2d9SLjgFG"
+      },
+      "artists": [
+        {
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+        }
+      ],
+      "duration_ms": 204336,
+      "name": "Ola",
+      "url": "https://open.spotify.com/track/4xjEz1oESbKlbge5czJUa6"
     },
     {
       "added_at": "2026-04-09 22:02:04",

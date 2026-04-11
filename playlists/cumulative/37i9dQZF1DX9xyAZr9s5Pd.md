@@ -4,7 +4,7 @@
 
 > ¡Estos son los nombres de mujeres que amplifican el sonido indie de los Andes! Foto: Greccia
 
-154 songs - 8 hr 46 min
+155 songs - 8 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Amores De Colores](https://open.spotify.com/track/6JiKdKOTGtgatt1obe5cIE) | [Alex Eugenio](https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR) | [Veraneras](https://open.spotify.com/album/3BcXlbfEI0L2Ll45yBzSMO) | 3:05 | 2023-09-22 |  |
 | [Apartamento](https://open.spotify.com/track/6oF8AtV05wijGlaYqDBeds) | [Laura Pérez](https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58) | [La Chinita](https://open.spotify.com/album/3nwQRr8iXfZlXdszesno3v) | 2:50 | 2026-03-18 |  |
 | [Autosabotear](https://open.spotify.com/track/4zU95QAkAF4AdMMtpus2xo) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Autosabotear](https://open.spotify.com/album/5HlLxDeeDyWMD7dBb1rC5a) | 3:12 | 2023-10-13 | 2024-02-17 |
+| [azul](https://open.spotify.com/track/6npsvD105b2pUp5XMUudT7) | [Paula Pera y el fin de los Tiempos](https://open.spotify.com/artist/5zuGV6u9UobNW3KPGXui6o) | [azul](https://open.spotify.com/album/4vrG1SGcwyDL9HFI2hTP9e) | 3:29 | 2026-04-10 |  |
 | [Bajo el Cielo Azul](https://open.spotify.com/track/1NudI4DebuIzVpLQPZw5z3) | [Ana María Vahos](https://open.spotify.com/artist/0JOEaSFcfKMWv91hwVTdf7), [Paula Pera y el fin de los Tiempos](https://open.spotify.com/artist/5zuGV6u9UobNW3KPGXui6o) | [Los Días](https://open.spotify.com/album/0DSBtXfbEulz3zDVrClVbR) | 2:16 | 2026-03-18 | 2026-03-27 |
 | [Beso de Luna](https://open.spotify.com/track/722rVjkkGTlugUMxQn3BGz) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu), [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Aries](https://open.spotify.com/album/5UDENHnOZGZhPbjsItZaRx) | 3:03 | 2023-11-17 | 2024-03-02 |
 | [Bosque de Bambú](https://open.spotify.com/track/7c1CfoF9qjwcGY7pMoZIok) | [Maria Usbeck](https://open.spotify.com/artist/16pdeeyke2dzEJXSj0MPft) | [Bosque de Bambú](https://open.spotify.com/album/1xXIMoiUFA7hkqhu9Ndxbv) | 2:51 | 2026-03-18 | 2026-03-27 |

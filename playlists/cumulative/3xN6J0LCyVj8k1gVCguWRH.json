@@ -1392,7 +1392,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 154500,
       "name": "612 (You)",
       "url": "https://open.spotify.com/track/7kLUIR4LDO8dqwLUtSY6Nq"
@@ -24330,6 +24330,24 @@
       "duration_ms": 237427,
       "name": "Different Life",
       "url": "https://open.spotify.com/track/0d6knUxRwjAoT4BJ3BFz8S"
+    },
+    {
+      "album": {
+        "name": "Perpetual Spring",
+        "url": "https://open.spotify.com/album/3XMuWYyqoDd0l0IxZ94Ry3"
+      },
+      "artists": [
+        {
+          "name": "Rooskin",
+          "url": "https://open.spotify.com/artist/010wxklenCFtHumkvnpUXg"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171076,
+      "name": "Different Man",
+      "url": "https://open.spotify.com/track/5tC8QczVpGjP3nZohcyUFv"
     },
     {
       "album": {
@@ -69236,7 +69254,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 240000,
       "name": "NOTICE ME",
       "url": "https://open.spotify.com/track/6ALbNifQeeU2oGTcDX1JJU"
@@ -77821,6 +77839,28 @@
     },
     {
       "album": {
+        "name": "Qu\u00e9mame",
+        "url": "https://open.spotify.com/album/3bMW6h23YJp9EH4vZiYHI0"
+      },
+      "artists": [
+        {
+          "name": "La Do\u00f1a",
+          "url": "https://open.spotify.com/artist/5eBVoDUYv0feTepoBSz4SJ"
+        },
+        {
+          "name": "Last Jer\u00f3nimo",
+          "url": "https://open.spotify.com/artist/0yaL0dzITk9aOWDeO2D3vW"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135683,
+      "name": "Qu\u00e9mame",
+      "url": "https://open.spotify.com/track/2i77RWEItXIn1IP6jCmLVF"
+    },
+    {
+      "album": {
         "name": "R e a l W o m a n",
         "url": "https://open.spotify.com/album/05Zpvjm9aGodlwFnnh1rRE"
       },
@@ -86338,7 +86378,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 190000,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/2uXlue5xX4tqp5P32lPR0G"
@@ -101619,6 +101659,24 @@
     },
     {
       "album": {
+        "name": "Turning Slow EP",
+        "url": "https://open.spotify.com/album/5jHO4PG7OeBMAZlFi6sdWc"
+      },
+      "artists": [
+        {
+          "name": "Velour",
+          "url": "https://open.spotify.com/artist/2gnFFtzPgBpwBepDNSPZO7"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Turning Slow",
+      "url": "https://open.spotify.com/track/47HQocT0wfhbvhe8yuSLOd"
+    },
+    {
+      "album": {
         "name": "Tus Besos",
         "url": "https://open.spotify.com/album/5RmOq4OJeW8lTs0ro5g7mS"
       },
@@ -101630,7 +101688,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 176507,
       "name": "Tus Besos",
       "url": "https://open.spotify.com/track/6a8hhbR0LCfEwcP3ZL2noH"
@@ -102110,6 +102168,28 @@
       "duration_ms": 194716,
       "name": "Un'altra vita 2.0",
       "url": "https://open.spotify.com/track/3C73vTb6bMOiBLcrEpTwoO"
+    },
+    {
+      "album": {
+        "name": "Una \u00daltima Vez",
+        "url": "https://open.spotify.com/album/0LZPQWhqXaLzdT7UIoiJbC"
+      },
+      "artists": [
+        {
+          "name": "Sarife",
+          "url": "https://open.spotify.com/artist/7dxviwWacvevEgy3sLjg4f"
+        },
+        {
+          "name": "Angels Of Libra",
+          "url": "https://open.spotify.com/artist/3u6psmBj8ZGKHKRTHUGBDL"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315799,
+      "name": "Una \u00daltima Vez",
+      "url": "https://open.spotify.com/track/7HwVLxr3RHnygKhGnvZYGm"
     },
     {
       "album": {

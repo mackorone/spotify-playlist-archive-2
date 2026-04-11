@@ -4,7 +4,7 @@
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-564 songs - 2 day 2 hr 7 min
+565 songs - 2 day 2 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Balanced](https://open.spotify.com/track/3mFKpIwPki7CWYrt66vxD6) | [Jan Harbeck Quartet](https://open.spotify.com/artist/7JGHjWlWkG5A8cB7HzQL0x) | [Balanced](https://open.spotify.com/album/2TWBfz1Ob14EujlQGy34KJ) | 8:32 | 2023-03-16 | 2026-03-21 |
 | [Ballad Of The Sad Young Men](https://open.spotify.com/track/6N57mvrlpGr2yl0FfiHnY4) | [Marcin Wasilewski](https://open.spotify.com/artist/2OR51iG3dgqkVJF42L8EZF), [Slawomir Kurkiewicz](https://open.spotify.com/artist/43J6c67BjlcVv0jEJAjUwR), [Michal Miskiewicz](https://open.spotify.com/artist/2waNvIVUzVXYJvA3SrdBrT) | [Faithful](https://open.spotify.com/album/2vsMMoxL7EcOp5KS1tuyo2) | 5:29 | 2021-02-17 |  |
 | [Ballade for the Very Sad and Very Tired Lotus Eaters](https://open.spotify.com/track/4JZPaFrRUNSYjvLfvQNaGQ) | [Owen Broder](https://open.spotify.com/artist/6IPqNkZOxgZ3lAubAiVtWy) | [Hodges: Front and Center, Vol\. 1](https://open.spotify.com/album/28dVtoSWcKtalEahjQqnxv) | 4:13 | 2023-06-20 | 2024-04-19 |
-| [Ballade for the Very Sad and Very Tired Lotus Eaters](https://open.spotify.com/track/7CxYBXp6hBFnnyYm7ivNCd) | [Owen Broder](https://open.spotify.com/artist/6IPqNkZOxgZ3lAubAiVtWy) | [Hodges: Front and Center, Vol\. 1](https://open.spotify.com/album/0RzxAxiOOJgClVialkdLmD) | 4:13 | 2022-10-13 |  |
+| [Ballade for the Very Sad and Very Tired Lotus Eaters](https://open.spotify.com/track/7CxYBXp6hBFnnyYm7ivNCd) | [Owen Broder](https://open.spotify.com/artist/6IPqNkZOxgZ3lAubAiVtWy) | [Hodges: Front and Center, Vol\. 1](https://open.spotify.com/album/0RzxAxiOOJgClVialkdLmD) | 4:13 | 2022-10-13 | 2026-04-11 |
 | [Baltic Wind](https://open.spotify.com/track/5AXHh4068Cr0GA5glGIEvP) | [Central Park Quartet](https://open.spotify.com/artist/6ZGwKgclCob8U2bd1x0Kr4) | [Baltic Wind](https://open.spotify.com/album/6wDiSuCc4pZk6fh0SDyPmZ) | 3:49 | 2024-03-19 | 2025-07-12 |
 | [Beautiful Love](https://open.spotify.com/track/2X4NOuHYmduvvDy9FjIfDQ) | [Rasmus H Thomsen Trio](https://open.spotify.com/artist/5Ep05EOVNYVc5b5trOuDI1) | [Beautiful Love](https://open.spotify.com/album/0BMx1m6eEZNSepXySIvPME) | 4:40 | 2023-09-22 |  |
 | [Before I Go](https://open.spotify.com/track/4GjFlTH2UmREIYxcux8Ovh) | [Chip Wickham](https://open.spotify.com/artist/62MkXCxcZ345tVUHsD9NK0) | [Cloud 10](https://open.spotify.com/album/5LF1imfGu2b4OXKIZRXiun) | 6:05 | 2022-09-08 | 2022-12-21 |
@@ -267,6 +267,7 @@
 | [Kismet](https://open.spotify.com/track/4YAwnWGKo7ectUxEGaljqE) | [Charles Chen](https://open.spotify.com/artist/0y3jAU26eNmcPsCAPx2pgY) | [Kismet](https://open.spotify.com/album/691TVJ6fkluNAqoKgw4Qpd) | 4:55 | 2025-04-11 | 2025-04-26 |
 | [Kiss From A Rose](https://open.spotify.com/track/72vt5HsXp8V9R6Xu3CABi1) | [Julia Hülsmann Trio](https://open.spotify.com/artist/5v4UR5BS8T0DNSPCPYqfcG) | [The End Of A Summer](https://open.spotify.com/album/7cyyk6fFk21dJwK2m8nItZ) | 4:05 | 2020-05-02\* | 2021-05-28 |
 | [La Sentencia](https://open.spotify.com/track/0w7QdJZVUSgkvtCqSY3AjV) | [Melissa Aldana](https://open.spotify.com/artist/56qrzp61GEif1i0UjqkHrz) | [La Sentencia](https://open.spotify.com/album/1ByZNnTMqYnzhDCvdZvaEh) | 4:37 | 2026-01-09 |  |
+| [Lady Day](https://open.spotify.com/track/3wN9L2rab86vxt91eW5cgB) | [Joe Lovano](https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf), [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT), [Asante Santi Debriano](https://open.spotify.com/artist/1AdgjVEMk6jR2OA3Mc5QT3), [Will Calhoun](https://open.spotify.com/artist/03Fr2b89fbLWKq5skHknPV) | [Lady Day](https://open.spotify.com/album/45ibai2qs9gxFefDxJiXHw) | 7:59 | 2026-04-10 |  |
 | [Lament](https://open.spotify.com/track/3u5U1SG291e4HfJUm4MMQV) | [Romain Pilon](https://open.spotify.com/artist/0Kqaw0Sfja1feSl9iDmw4z), [Yoni Zelnik](https://open.spotify.com/artist/4hqzR5w8mpfDRsYS3AGbTs), [Jeff Ballard](https://open.spotify.com/artist/76q6tJ5SRqReZwwCfdzr4I) | [Lament](https://open.spotify.com/album/6cFgakb3roXl3GgOqr3XHS) | 6:28 | 2022-02-24 | 2026-01-31 |
 | [Largo](https://open.spotify.com/track/3AxQSzHc2vYjqMZLyPyy2H) | [Portraits in Jazz](https://open.spotify.com/artist/7c7414LKkYnuDPlkrwDg9a), [Nikolaj Hess](https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D) | [Sunday](https://open.spotify.com/album/1bKp1d91vHHm0HAcmqCXMC) | 4:22 | 2021-04-24 |  |
 | [Last Decade](https://open.spotify.com/track/6kw0TP5KGTilTx0ZdorCun) | [Benjamin Lackner](https://open.spotify.com/artist/6SgjhSSQHyEeRw926PzJLf), [Mathias Eick](https://open.spotify.com/artist/6emZIO62oAXpIGiplDApwJ), [Jérôme Regard](https://open.spotify.com/artist/7KD3zs8hA00yNRVCaoDRDz), [Manu Katché](https://open.spotify.com/artist/4HVFb71ZSXO6nRMk2pdPsy) | [Last Decade](https://open.spotify.com/album/5U7G70MJSvbY9z5AW7TZfj) | 5:49 | 2023-08-03 |  |

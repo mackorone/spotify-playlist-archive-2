@@ -6,8 +6,44 @@
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAapxyZKWoP7CmqmRaSgIkIJIsEWnv3",
+  "snapshot_id": "AAAaqUI+LzDCbTLzNbYJBhYN+K5AqIa2",
   "tracks": [
+    {
+      "added_at": "2026-04-10 04:00:46",
+      "album": {
+        "name": "Make Me Move",
+        "url": "https://open.spotify.com/album/0TKqNrU7ZZAJH63AhuYAxX"
+      },
+      "artists": [
+        {
+          "name": "Benjo",
+          "url": "https://open.spotify.com/artist/1rzkcTzJDqCueupkCaCTrZ"
+        },
+        {
+          "name": "Linney",
+          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
+        }
+      ],
+      "duration_ms": 185538,
+      "name": "Make Me Move",
+      "url": "https://open.spotify.com/track/4XVEColEvrx3imnI5LZUrJ"
+    },
+    {
+      "added_at": "2026-04-10 04:00:45",
+      "album": {
+        "name": "Overload",
+        "url": "https://open.spotify.com/album/3JWQRkOq3bodo8Rcy9xPiu"
+      },
+      "artists": [
+        {
+          "name": "Sikdope",
+          "url": "https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG"
+        }
+      ],
+      "duration_ms": 135652,
+      "name": "Overload",
+      "url": "https://open.spotify.com/track/5m7BovDgHbS2enUXCl7Y0I"
+    },
     {
       "added_at": "2026-04-03 04:00:45",
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "Romance a la antig\u00fcita con Diana Meril en portada.",
+  "description": "Romance a la antig\u00fcita con La Santa Cecilia en portada.",
   "name": "nuevo bolero",
   "tracks": [
     {
@@ -306,7 +306,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-10",
+      "date_removed": null,
       "duration_ms": 242293,
       "name": "Almohada",
       "url": "https://open.spotify.com/track/3lL5AiJtpdGe7AYCIwJ5cI"
@@ -954,6 +954,24 @@
       "duration_ms": 172687,
       "name": "BOLERo LIBRA",
       "url": "https://open.spotify.com/track/6KGbKJBVB8tu5u6vrQCjbu"
+    },
+    {
+      "album": {
+        "name": "Bolero Para El Que No Esper\u00f3",
+        "url": "https://open.spotify.com/album/1hnIdv3iAXrpEaasJABJOx"
+      },
+      "artists": [
+        {
+          "name": "La Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227240,
+      "name": "Bolero Para El Que No Esper\u00f3",
+      "url": "https://open.spotify.com/track/2qgNQyXPhIgeIrX660JKKY"
     },
     {
       "album": {
@@ -2880,7 +2898,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 258967,
       "name": "Femme Fatale - Spotify Sessions",
       "url": "https://open.spotify.com/track/5T9WsAmro0KoNqdGE8a19f"
@@ -3316,7 +3334,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 214279,
       "name": "Infierno Favorito",
       "url": "https://open.spotify.com/track/2VmnYX2n0eGrONLto2pg74"

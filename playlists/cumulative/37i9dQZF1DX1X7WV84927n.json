@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "For full-volume lovers. Cover:",
+  "description": "For full-volume lovers. Cover: Bilmuri\n",
   "name": "Hard Rock",
   "tracks": [
     {
@@ -1266,10 +1266,32 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 184073,
       "name": "ALWAYS LET YOU DOWN (feat. A Day To Remember)",
       "url": "https://open.spotify.com/track/2QkboO9FsC9Z2ogQPjDb30"
+    },
+    {
+      "album": {
+        "name": "KINDA HARD",
+        "url": "https://open.spotify.com/album/6bJif35DxJzpXob5HfMzqU"
+      },
+      "artists": [
+        {
+          "name": "Bilmuri",
+          "url": "https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89"
+        },
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184073,
+      "name": "ALWAYS LET YOU DOWN (feat. A Day To Remember)",
+      "url": "https://open.spotify.com/track/4JbOFz9ZiLevkIyuHJFp0D"
     },
     {
       "album": {
@@ -2840,7 +2862,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 209426,
       "name": "Blackbird",
       "url": "https://open.spotify.com/track/7HFSVYp0PEsDpTkwoG7eZe"
@@ -12641,6 +12663,24 @@
     },
     {
       "album": {
+        "name": "In Your Name",
+        "url": "https://open.spotify.com/album/5z3UBg2HZS5tqNyzRZ7wAD"
+      },
+      "artists": [
+        {
+          "name": "Vana",
+          "url": "https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282138,
+      "name": "In Your Name",
+      "url": "https://open.spotify.com/track/5MC8y7w5E0DUEqii0sP4Fm"
+    },
+    {
+      "album": {
         "name": "Incinerator",
         "url": "https://open.spotify.com/album/6oxVcOp8P3YBQ5AZlA0YwS"
       },
@@ -13616,6 +13656,28 @@
       "duration_ms": 173742,
       "name": "KNOCK YOUR LIGHTS OUT",
       "url": "https://open.spotify.com/track/0ht10AkEELRB7YKvBfO8ux"
+    },
+    {
+      "album": {
+        "name": "Knot feat. Showing Teeth (Remix)",
+        "url": "https://open.spotify.com/album/4OhkW7CHhalo0oxRgVmJwd"
+      },
+      "artists": [
+        {
+          "name": "Shyeye",
+          "url": "https://open.spotify.com/artist/2kk54T90g7cdFeMjjeABHJ"
+        },
+        {
+          "name": "Showing Teeth",
+          "url": "https://open.spotify.com/artist/6NmmsGOQdDqyXlNVA6uGWv"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Knot feat. Showing Teeth - Remix",
+      "url": "https://open.spotify.com/track/5wFGkst7Ly202O5euJX40X"
     },
     {
       "album": {
@@ -14725,6 +14787,24 @@
     },
     {
       "album": {
+        "name": "Lose Your Self",
+        "url": "https://open.spotify.com/album/2Vly71rEGqTH3yuuHRN25C"
+      },
+      "artists": [
+        {
+          "name": "Enter Shikari",
+          "url": "https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258509,
+      "name": "LOSE YOUR SELF",
+      "url": "https://open.spotify.com/track/5suLEhSjprXsUQ5ofXJH8Q"
+    },
+    {
+      "album": {
         "name": "Losing Control",
         "url": "https://open.spotify.com/album/0Il7QYAeN8YNWZLJ7O6foQ"
       },
@@ -15480,7 +15560,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 121429,
       "name": "Manicure",
       "url": "https://open.spotify.com/track/3mxV6itnOB6PSCLtIrYFY3"
@@ -23322,7 +23402,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 186267,
       "name": "Sway",
       "url": "https://open.spotify.com/track/6oNY6qO8yvqoGcKnunMjOq"
@@ -24442,7 +24522,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 198937,
       "name": "The Hurt Chamber",
       "url": "https://open.spotify.com/track/4ogJEBlkbLZgYWmvFhDp0e"
@@ -28306,6 +28386,24 @@
       "duration_ms": 264248,
       "name": "Whisper of a Dream",
       "url": "https://open.spotify.com/track/6n2SePFVDUwGPhzSX7eGER"
+    },
+    {
+      "album": {
+        "name": "Who Will You Follow",
+        "url": "https://open.spotify.com/album/21kwp73XrMKnqCrI9MSzDR"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235504,
+      "name": "Who Will You Follow",
+      "url": "https://open.spotify.com/track/1BDqFxvOeS9SWVnMTXPMx2"
     },
     {
       "album": {

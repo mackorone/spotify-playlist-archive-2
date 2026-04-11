@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: 幾田りら
 
-3,749 songs - 9 day 22 hr 53 min
+3,751 songs - 9 day 23 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2393,6 +2393,7 @@
 | [ひとりごと](https://open.spotify.com/track/68USuzMKVJumOD1xcefdZ7) | [Asa yoji](https://open.spotify.com/artist/1HxALqjeA47S0wLQPHY9oA) | [ひとりごと](https://open.spotify.com/album/4khTFuDufrX8wVHZBfC05G) | 4:27 | 2025-02-04 | 2025-02-12 |
 | [ひとりじゃないから](https://open.spotify.com/track/60wJcpxSTj2uG90ym05f48) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM) | [ひとりじゃないから](https://open.spotify.com/album/00CjrzTKlfuDIeDyzxtV4u) | 3:34 | 2022-05-29 | 2022-07-27 |
 | [ひとりぼっちはやめた](https://open.spotify.com/track/7irKTBIgIKmDByJj2OVwCr) | [Hikari Mitsushima](https://open.spotify.com/artist/4ZX8Wr8KHHrW7radu6IwYG) | [スタジオジブリ トリビュートアルバム「ジブリをうたう」](https://open.spotify.com/album/3lB0B7C191nUhH8ar64hJ0) | 3:56 | 2023-10-31 | 2023-11-08 |
+| [ひと匙](https://open.spotify.com/track/0EER0gGCZy5dKVl9K0t79M) | [Ai Higuchi](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [ひと匙](https://open.spotify.com/album/5WqkaG4lV9a2OwpkweWQWj) | 4:21 | 2026-04-07 |  |
 | [ひめすぎる](https://open.spotify.com/track/10oh35tl681Kg99f6ggNAU) | [はしメロ](https://open.spotify.com/artist/7Bokk7F8hq4P8wWwEO5mZy) | [ひめすぎる](https://open.spotify.com/album/5cNHm1M6F9cFGOx7uWvKw4) | 2:41 | 2026-02-11 | 2026-02-25 |
 | [ひゅるりらぱっぱ](https://open.spotify.com/track/0J8JXuvQADkec6AThPGzjR) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [ひゅるりらぱっぱ](https://open.spotify.com/album/44GzMAdLPt9Yc0cIKGIYGY) | 3:20 | 2024-07-25 | 2025-02-26 |
 | [ひるねの国](https://open.spotify.com/track/7x0x7RjQ0xQEKsfds73MGW) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [ひるねの国](https://open.spotify.com/album/42FD62QpX9fh4PUcKjSRXM) | 3:06 | 2023-05-16 | 2023-05-18 |
@@ -3089,7 +3090,7 @@
 | [夜は友達](https://open.spotify.com/track/2sszpHFqIujRQ7ndRVQ2XL) | [よしむらさおり](https://open.spotify.com/artist/7ohC31H081MArt84EmxyoC) | [眠れない夜も当然ある](https://open.spotify.com/album/3aITk9Mx2meyFzaBWLf2lh) | 3:40 | 2024-05-28 | 2024-06-05 |
 | [夜は嫌い \- HF DUB](https://open.spotify.com/track/3JUOBi9OWsCPjOQxXmJCEG) | [Natsu Summer](https://open.spotify.com/artist/4l3pCmSMjqdSkhWUZp6jCD), [Hiroshi Fujiwara](https://open.spotify.com/artist/4NcTvzzh5TFLTHy8MENzjt), [yuji sugiyama](https://open.spotify.com/artist/0U10O0ka3cQperMXcvWDHR) | [夜は嫌い \(HF DUB\)](https://open.spotify.com/album/2YCjrrXrRYmwgwStm6DwJU) | 3:04 | 2025-07-15 | 2025-07-23 |
 | [夜をループ](https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [NIGHT TAPE](https://open.spotify.com/album/3FIYJQnPsIVBQiorttCmAB) | 4:26 | 2022-08-17 | 2023-05-10 |
-| [夜勤事件](https://open.spotify.com/track/1pkWJApP1hMtOTSrIaO15i) | [Liza](https://open.spotify.com/artist/2lt6QQR32fKGBooeTvd2wd) | [夜勤事件](https://open.spotify.com/album/0NuRtGOcYkasNhr0FTLShf) | 3:03 | 2026-02-24 |  |
+| [夜勤事件](https://open.spotify.com/track/1pkWJApP1hMtOTSrIaO15i) | [Liza](https://open.spotify.com/artist/2lt6QQR32fKGBooeTvd2wd) | [夜勤事件](https://open.spotify.com/album/0NuRtGOcYkasNhr0FTLShf) | 3:03 | 2026-02-24 | 2026-04-11 |
 | [夜明けのあなたへ](https://open.spotify.com/track/22pLeTfTvGsM0SCBgw60Hb) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [夜明けのあなたへ](https://open.spotify.com/album/033g2GrsxkouVAvlxcQH1P) | 4:25 | 2024-06-11 | 2024-12-18 |
 | [夜明けのコロニー](https://open.spotify.com/track/1eZ2uxlVSfkmHrSCdboXcu) | [みゆな](https://open.spotify.com/artist/2eg5oiMWKYEJ5vVwW1YFCC) | [夜明けのコロニー](https://open.spotify.com/album/5KqLX67OCcNHJiS0p9bFCh) | 3:34 | 2024-09-10 | 2024-09-18 |
 | [夜明けの君へ](https://open.spotify.com/track/09bITqmWyV9rIKcT6VHAey) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [夜明けの君へ](https://open.spotify.com/album/47NSlsVJJByZSEvpimH9DY) | 3:59 | 2023-06-13 | 2023-06-15 |
@@ -3543,7 +3544,7 @@
 | [結々の唄](https://open.spotify.com/track/2a2j5ou6wR6ehkWzZnSEou) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [結々の唄](https://open.spotify.com/album/3ZdqakJeXU27ffoHYtV1XU) | 3:39 | 2026-03-10 |  |
 | [絶対](https://open.spotify.com/track/2TsxnvrERFElzCEZ1FnIZ1) | [Uniolla](https://open.spotify.com/artist/46FRoaRwYgXPq0HGAdTRDU) | [絶対](https://open.spotify.com/album/1sO6sSqKL4CVKfOQzUCppf) | 4:08 | 2022-06-07 | 2022-07-21 |
 | [続く](https://open.spotify.com/track/0YyUlNv2qbddtg9nbXcnzz) | [Miwa Sasagawa](https://open.spotify.com/artist/4luR2xOhou26Hmooyo2cnd) | [続](https://open.spotify.com/album/2co0BRbZxZLPSAeFEjRvwq) | 6:09 | 2023-09-12 | 2023-09-20 |
-| [綺麗。](https://open.spotify.com/track/5tGxsmCBJDF6PCx9Wv1KPF) | [ゆう。](https://open.spotify.com/artist/3EiKYqPWHDfoIKOTtQ3LYI) | [綺麗。](https://open.spotify.com/album/2uejZJvGvcLuYKm5R9uiGw) | 3:58 | 2026-03-03 |  |
+| [綺麗。](https://open.spotify.com/track/5tGxsmCBJDF6PCx9Wv1KPF) | [ゆう。](https://open.spotify.com/artist/3EiKYqPWHDfoIKOTtQ3LYI) | [綺麗。](https://open.spotify.com/album/2uejZJvGvcLuYKm5R9uiGw) | 3:58 | 2026-03-03 | 2026-04-11 |
 | [線香花火 \- feat\. 幾田りら](https://open.spotify.com/track/5p0iFOcN4kDKBqE9Tld5eJ) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt), [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [線香花火 \(feat\. 幾田りら\)](https://open.spotify.com/album/4cq0K1U2cesCfyNVQkgBXu) | 3:19 | 2023-06-13 | 2023-11-22 |
 | [編み目](https://open.spotify.com/track/1vSfkC6bQ3ZlIWHAA9lj2D) | [Aki](https://open.spotify.com/artist/7pklqikA3qMThlqyH4zghL) | [編み目](https://open.spotify.com/album/1hlw0htTJMRx2Ed7pk0yrP) | 5:11 | 2024-04-23 | 2024-05-01 |
 | [織姫](https://open.spotify.com/track/6s747WsJxI43kAJvJmsJDz) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [織姫](https://open.spotify.com/album/35hFKiDi1Qmjex9jdxxwRh) | 2:44 | 2022-06-02 | 2022-07-29 |
@@ -3619,6 +3620,7 @@
 | [許婚っきゅん](https://open.spotify.com/track/6YLjq21cq39MrEGtGGQ7DU) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [許婚っきゅん](https://open.spotify.com/album/0CGQLcexvxE3lWTG4q0VOO) | 3:00 | 2024-10-08 | 2025-07-09 |
 | [詩、歌、唄](https://open.spotify.com/track/1aHGlS1yAWtoxHepO1P9M3) | [Rimi Natsukawa](https://open.spotify.com/artist/2AAMBmrNdim79LRSv1kKFn) | [詩、歌、唄](https://open.spotify.com/album/2W2eOcLCBpFkICtmzdq4pf) | 4:26 | 2024-05-21 | 2024-05-29 |
 | [話そうよ](https://open.spotify.com/track/5krzanEBYGoaU8uB7BhRmU) | [Sakura Fujiwara](https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et) | [AIRPORT](https://open.spotify.com/album/025EE81TmzGA11OpBbKuoI) | 4:41 | 2023-05-16 | 2023-05-18 |
+| [誓い](https://open.spotify.com/track/1kqnheKpPlIdM5gWyhHoiV) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [誓い](https://open.spotify.com/album/2BfQoqurhfR2skJnkSGgJ0) | 2:56 | 2026-04-07 |  |
 | [誰](https://open.spotify.com/track/4j7zdmTUrt4QFI2agkiGcq) | [Ai Higuchi](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [誰](https://open.spotify.com/album/7H9ftscZlqNgEK2liXRh9L) | 3:33 | 2024-07-16 | 2024-07-27 |
 | [誰でもない街](https://open.spotify.com/track/5vXqyXDZuBnhMUJrScHSvN) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [この退屈な日々を/誰でもない街](https://open.spotify.com/album/6cauGTIpDRN2oVWg1camHO) | 3:34 | 2023-09-12 | 2023-09-14 |
 | [誰も知らない](https://open.spotify.com/track/7CimRPvAQ7bCNfBrrRQ4NU) | [Ayane Yamazaki](https://open.spotify.com/artist/3aAqZwjiV8gDsQLOazoXPF) | [AyaneYamazaki Cover EP](https://open.spotify.com/album/4lvkL8tH9U9iFhsBrXHQgx) | 5:59 | 2023-08-31 | 2023-09-06 |

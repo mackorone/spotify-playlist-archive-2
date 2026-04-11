@@ -1128,7 +1128,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 294773,
       "name": "Body and Soul",
       "url": "https://open.spotify.com/track/45aCQ82XrgmRINaUWcuKpP"
@@ -1194,6 +1194,28 @@
       "duration_ms": 317942,
       "name": "But Beautiful",
       "url": "https://open.spotify.com/track/4zrbbrx6AJ5vSltmwj93eX"
+    },
+    {
+      "album": {
+        "name": "By Your Side",
+        "url": "https://open.spotify.com/album/4EQz1ULM94QOaYtMJE09za"
+      },
+      "artists": [
+        {
+          "name": "Ola W Jansson",
+          "url": "https://open.spotify.com/artist/4hoFdBmz4b5NykkV0SCEVz"
+        },
+        {
+          "name": "W JAZZ TRIO",
+          "url": "https://open.spotify.com/artist/4nFofMNAntqM5p8Q4ha2YA"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152858,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/6aOiauoNBUrvJue4HvjFGD"
     },
     {
       "album": {
@@ -2174,7 +2196,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 145305,
       "name": "Fools Rush In",
       "url": "https://open.spotify.com/track/7etvCoplQKdKeUpaAoZATx"
@@ -7350,6 +7372,24 @@
       "duration_ms": 387494,
       "name": "You Know I Care",
       "url": "https://open.spotify.com/track/3mdmA5e62x4CEXVIUZ2S92"
+    },
+    {
+      "album": {
+        "name": "Young and Foolish",
+        "url": "https://open.spotify.com/album/6Nm7pGI6CQWshnwDF8PHaF"
+      },
+      "artists": [
+        {
+          "name": "Chad Lefkowitz-Brown",
+          "url": "https://open.spotify.com/artist/51WOYmkgWabvLeCV9kOEVe"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 492272,
+      "name": "Young and Foolish",
+      "url": "https://open.spotify.com/track/7tMcM0jsaq8yG4OlSLVz4y"
     },
     {
       "album": {

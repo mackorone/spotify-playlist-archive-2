@@ -1,12 +1,12 @@
 {
   "description": "The soundtrack to lazing around.",
-  "num_followers": 95877,
+  "num_followers": 95896,
   "original_name": "Lazy Afternoon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADxhJXExyDhkUcOa1bF+LzI/8xzT",
+  "snapshot_id": "AAAAAF76TLStSvDFQlTw5UbLd9q9Wo8k",
   "tracks": [
     {
       "added_at": "2026-03-31 15:23:50",
@@ -331,22 +331,6 @@
     {
       "added_at": "2026-03-31 15:23:50",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 198200,
-      "name": "Life Will Be",
-      "url": "https://open.spotify.com/track/4ZTC6KvnQxloiwmT0Yhypy"
-    },
-    {
-      "added_at": "2026-03-31 15:23:50",
-      "album": {
         "name": "weren't for the wind",
         "url": "https://open.spotify.com/album/2EaHnwT7NSSG207GN94pfN"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 193666,
       "name": "weren't for the wind",
       "url": "https://open.spotify.com/track/4v9alNvEjLjvqo4LNWwswl"
+    },
+    {
+      "added_at": "2026-03-31 15:23:50",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 198200,
+      "name": "Life Will Be",
+      "url": "https://open.spotify.com/track/4ZTC6KvnQxloiwmT0Yhypy"
     },
     {
       "added_at": "2026-03-31 15:23:50",
@@ -415,22 +415,6 @@
     {
       "added_at": "2026-03-31 15:23:50",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7neiWgd56IO7vi2cRUP8Tj"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 243804,
-      "name": "Girl Crush - Recorded at Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/4YutJsNwBBInE8vemufpQ8"
-    },
-    {
-      "added_at": "2026-03-31 15:23:50",
-      "album": {
         "name": "Head Above Water",
         "url": "https://open.spotify.com/album/6Kbyq3so1qAj2r4d1JDKOy"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 221335,
       "name": "How It's Gotta Be",
       "url": "https://open.spotify.com/track/4GN2iIuQYXSMi0WJGJF7IL"
+    },
+    {
+      "added_at": "2026-03-31 15:23:50",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7neiWgd56IO7vi2cRUP8Tj"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 243804,
+      "name": "Girl Crush - Recorded at Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/4YutJsNwBBInE8vemufpQ8"
     },
     {
       "added_at": "2026-03-31 15:23:50",
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-03-31 15:23:50",
       "album": {
-        "name": "Music For People Who Believe In Love",
-        "url": "https://open.spotify.com/album/3ZuXKlQ48SrFaJU9KDrIkE"
-      },
-      "artists": [
-        {
-          "name": "Joe Jonas",
-          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
-        }
-      ],
-      "duration_ms": 198460,
-      "name": "Honey Blonde",
-      "url": "https://open.spotify.com/track/4A2jbfMjTwAbqf5rJ0BTLh"
-    },
-    {
-      "added_at": "2026-03-31 15:23:50",
-      "album": {
         "name": "Stars and Teeth",
         "url": "https://open.spotify.com/album/5kcHMWjStxSfaii3tLcc8V"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 191454,
       "name": "My Kind of Freak",
       "url": "https://open.spotify.com/track/2ObIu129zXkIbMtGdZode0"
+    },
+    {
+      "added_at": "2026-03-31 15:23:50",
+      "album": {
+        "name": "Music For People Who Believe In Love",
+        "url": "https://open.spotify.com/album/3ZuXKlQ48SrFaJU9KDrIkE"
+      },
+      "artists": [
+        {
+          "name": "Joe Jonas",
+          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
+        }
+      ],
+      "duration_ms": 198460,
+      "name": "Honey Blonde",
+      "url": "https://open.spotify.com/track/4A2jbfMjTwAbqf5rJ0BTLh"
     },
     {
       "added_at": "2026-03-31 15:23:50",
@@ -871,6 +871,22 @@
     {
       "added_at": "2026-03-31 15:23:50",
       "album": {
+        "name": "Time Will Tell",
+        "url": "https://open.spotify.com/album/2OqCEpFpC8qq2vZq9k8fLh"
+      },
+      "artists": [
+        {
+          "name": "Celeste",
+          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
+        }
+      ],
+      "duration_ms": 224333,
+      "name": "Time Will Tell",
+      "url": "https://open.spotify.com/track/6twIIS0vl9LyMlUIPgt9Jl"
+    },
+    {
+      "added_at": "2026-03-31 15:23:50",
+      "album": {
         "name": "Beck n Call",
         "url": "https://open.spotify.com/album/4WvAxqtOCHAeIvwZ1EaNQI"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 203320,
       "name": "Beck n Call",
       "url": "https://open.spotify.com/track/1xPQK0H7aL0J4gEOEFWH5E"
-    },
-    {
-      "added_at": "2026-03-31 15:23:50",
-      "album": {
-        "name": "Time Will Tell",
-        "url": "https://open.spotify.com/album/2OqCEpFpC8qq2vZq9k8fLh"
-      },
-      "artists": [
-        {
-          "name": "Celeste",
-          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
-        }
-      ],
-      "duration_ms": 224333,
-      "name": "Time Will Tell",
-      "url": "https://open.spotify.com/track/6twIIS0vl9LyMlUIPgt9Jl"
     },
     {
       "added_at": "2026-03-31 15:23:50",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2026-03-31 15:23:50",
       "album": {
-        "name": "Life In Ashes",
-        "url": "https://open.spotify.com/album/1lf3ljPHzwHrFbsh6hEsK4"
-      },
-      "artists": [
-        {
-          "name": "Little Green",
-          "url": "https://open.spotify.com/artist/0Kcz7AMOkHHye7xhLJUWTy"
-        }
-      ],
-      "duration_ms": 166240,
-      "name": "Hazel In The Moonlight",
-      "url": "https://open.spotify.com/track/1xaGRjCNKPBfGradk0VSqI"
-    },
-    {
-      "added_at": "2026-03-31 15:23:50",
-      "album": {
         "name": "greener / garden",
         "url": "https://open.spotify.com/album/6BRxSf36UXoi7WWdyr3xHF"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 240266,
       "name": "greener",
       "url": "https://open.spotify.com/track/2GU2QSVrYPtSnBxtg2nyBU"
+    },
+    {
+      "added_at": "2026-03-31 15:23:50",
+      "album": {
+        "name": "Life In Ashes",
+        "url": "https://open.spotify.com/album/1lf3ljPHzwHrFbsh6hEsK4"
+      },
+      "artists": [
+        {
+          "name": "Little Green",
+          "url": "https://open.spotify.com/artist/0Kcz7AMOkHHye7xhLJUWTy"
+        }
+      ],
+      "duration_ms": 166240,
+      "name": "Hazel In The Moonlight",
+      "url": "https://open.spotify.com/track/1xaGRjCNKPBfGradk0VSqI"
     }
   ],
   "unique_name": "Lazy Afternoon",

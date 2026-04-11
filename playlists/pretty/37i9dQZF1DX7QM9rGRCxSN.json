@@ -1,6 +1,6 @@
 {
   "description": "Belleza y distorsi\u00f3n imaginada por bandas iberoamericanas. Sue\u00f1o A Marte en portada.",
-  "num_followers": 37949,
+  "num_followers": 37977,
   "original_name": "Shoegaze & Dreampop en espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -447,22 +447,6 @@
     {
       "added_at": "2025-10-24 06:00:19",
       "album": {
-        "name": "Almost Reach the Sun",
-        "url": "https://open.spotify.com/album/58kWM6VvTn5gc3iiAVqKNS"
-      },
-      "artists": [
-        {
-          "name": "Trementina",
-          "url": "https://open.spotify.com/artist/0DM3M5xGKVaO7MNFBH3K0X"
-        }
-      ],
-      "duration_ms": 182745,
-      "name": "Hazy Youth",
-      "url": "https://open.spotify.com/track/1HXLeO8G18z1LLxk3FbqWD"
-    },
-    {
-      "added_at": "2025-10-24 06:00:19",
-      "album": {
         "name": "BILLY",
         "url": "https://open.spotify.com/album/1ivkMDnb2NCYgRUtNmwrk7"
       },
@@ -475,6 +459,38 @@
       "duration_ms": 252633,
       "name": "BILLY",
       "url": "https://open.spotify.com/track/1g4B7jOmIU52X1PzEiKqST"
+    },
+    {
+      "added_at": "2025-10-24 06:00:19",
+      "album": {
+        "name": "La Carretera",
+        "url": "https://open.spotify.com/album/6pCTij28fog7AIWLFsdtko"
+      },
+      "artists": [
+        {
+          "name": "Celest",
+          "url": "https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl"
+        }
+      ],
+      "duration_ms": 251595,
+      "name": "La Carretera",
+      "url": "https://open.spotify.com/track/4eSXJnfSowWSP9kefNFiww"
+    },
+    {
+      "added_at": "2025-10-24 06:00:19",
+      "album": {
+        "name": "Almost Reach the Sun",
+        "url": "https://open.spotify.com/album/58kWM6VvTn5gc3iiAVqKNS"
+      },
+      "artists": [
+        {
+          "name": "Trementina",
+          "url": "https://open.spotify.com/artist/0DM3M5xGKVaO7MNFBH3K0X"
+        }
+      ],
+      "duration_ms": 182745,
+      "name": "Hazy Youth",
+      "url": "https://open.spotify.com/track/1HXLeO8G18z1LLxk3FbqWD"
     },
     {
       "added_at": "2025-10-24 06:00:19",
@@ -495,22 +511,6 @@
       "duration_ms": 212008,
       "name": "Portal",
       "url": "https://open.spotify.com/track/1ufpOeDERnDjc27jLRFDp7"
-    },
-    {
-      "added_at": "2025-10-24 06:00:19",
-      "album": {
-        "name": "La Carretera",
-        "url": "https://open.spotify.com/album/6pCTij28fog7AIWLFsdtko"
-      },
-      "artists": [
-        {
-          "name": "Celest",
-          "url": "https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl"
-        }
-      ],
-      "duration_ms": 251595,
-      "name": "La Carretera",
-      "url": "https://open.spotify.com/track/4eSXJnfSowWSP9kefNFiww"
     },
     {
       "added_at": "2025-10-24 06:00:19",
@@ -579,22 +579,6 @@
     {
       "added_at": "2025-10-24 06:00:19",
       "album": {
-        "name": "En Medio",
-        "url": "https://open.spotify.com/album/6e0VAj0pMV7BqLz2MAwkAt"
-      },
-      "artists": [
-        {
-          "name": "Mabe Fratti",
-          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
-        }
-      ],
-      "duration_ms": 334241,
-      "name": "En Medio",
-      "url": "https://open.spotify.com/track/2cB4PvkqmSASF4YfGTAOwO"
-    },
-    {
-      "added_at": "2025-10-24 06:00:19",
-      "album": {
         "name": "Estrella Fugaz",
         "url": "https://open.spotify.com/album/1zlpHqJLyYmfqzSOytAT5D"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 262955,
       "name": "Estrella Fugaz",
       "url": "https://open.spotify.com/track/3ksdl0YWfOTHAReDo9lkYa"
+    },
+    {
+      "added_at": "2025-10-24 06:00:19",
+      "album": {
+        "name": "En Medio",
+        "url": "https://open.spotify.com/album/6e0VAj0pMV7BqLz2MAwkAt"
+      },
+      "artists": [
+        {
+          "name": "Mabe Fratti",
+          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
+        }
+      ],
+      "duration_ms": 334241,
+      "name": "En Medio",
+      "url": "https://open.spotify.com/track/2cB4PvkqmSASF4YfGTAOwO"
     },
     {
       "added_at": "2025-10-24 06:00:19",
@@ -775,6 +775,26 @@
     {
       "added_at": "2025-10-24 06:00:19",
       "album": {
+        "name": "Stillness",
+        "url": "https://open.spotify.com/album/4c3lu3c9sTY23iK13rdjl7"
+      },
+      "artists": [
+        {
+          "name": "Chris Koehn",
+          "url": "https://open.spotify.com/artist/5wTNDQgcs23Cf2cJYLldIn"
+        },
+        {
+          "name": "Tessa Ia",
+          "url": "https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg"
+        }
+      ],
+      "duration_ms": 248968,
+      "name": "Stillness",
+      "url": "https://open.spotify.com/track/5tR2FyaJKP5pV3XgEQua46"
+    },
+    {
+      "added_at": "2025-10-24 06:00:19",
+      "album": {
         "name": "Ausencia",
         "url": "https://open.spotify.com/album/4OAE4XgmFZfiqBmu4UbYDG"
       },
@@ -787,22 +807,6 @@
       "duration_ms": 100036,
       "name": "Ansiedad",
       "url": "https://open.spotify.com/track/57hPi0hmEHQNMhzpyp9E8P"
-    },
-    {
-      "added_at": "2025-10-24 06:00:19",
-      "album": {
-        "name": "D\u00edas Raros",
-        "url": "https://open.spotify.com/album/2znI2k3lW9eWDTP0y0iQIB"
-      },
-      "artists": [
-        {
-          "name": "Melenas",
-          "url": "https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f"
-        }
-      ],
-      "duration_ms": 183102,
-      "name": "No puedo pensar",
-      "url": "https://open.spotify.com/track/1t2eEG9iiUVn1ixZROYKy9"
     },
     {
       "added_at": "2025-10-24 06:00:19",
@@ -823,22 +827,18 @@
     {
       "added_at": "2025-10-24 06:00:19",
       "album": {
-        "name": "Stillness",
-        "url": "https://open.spotify.com/album/4c3lu3c9sTY23iK13rdjl7"
+        "name": "D\u00edas Raros",
+        "url": "https://open.spotify.com/album/2znI2k3lW9eWDTP0y0iQIB"
       },
       "artists": [
         {
-          "name": "Chris Koehn",
-          "url": "https://open.spotify.com/artist/5wTNDQgcs23Cf2cJYLldIn"
-        },
-        {
-          "name": "Tessa Ia",
-          "url": "https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg"
+          "name": "Melenas",
+          "url": "https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f"
         }
       ],
-      "duration_ms": 248968,
-      "name": "Stillness",
-      "url": "https://open.spotify.com/track/5tR2FyaJKP5pV3XgEQua46"
+      "duration_ms": 183102,
+      "name": "No puedo pensar",
+      "url": "https://open.spotify.com/track/1t2eEG9iiUVn1ixZROYKy9"
     }
   ],
   "unique_name": "Shoegaze & Dreampop en espa\u00f1ol",

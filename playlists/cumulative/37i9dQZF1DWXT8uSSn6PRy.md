@@ -2,7 +2,7 @@
 
 ### [Hot Hits Canada](https://open.spotify.com/playlist/37i9dQZF1DWXT8uSSn6PRy)
 
-> The hottest tracks in the North with Alex Warren.
+> The hottest tracks in the North with Harry Styles.
 
 989 songs - 2 day 4 hr 18 min
 

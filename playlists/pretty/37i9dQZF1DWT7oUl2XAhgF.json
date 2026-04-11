@@ -1,13 +1,29 @@
 {
   "description": "A new take on a classic sound. Cover: Jalen Ngonda",
-  "num_followers": 394136,
+  "num_followers": 394217,
   "original_name": "Retro Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJb395mMC9GGOHcWRw0sFIQAurCI",
+  "snapshot_id": "AAAAAGVA6wYdwTiI74WSR8JQshQRMdsO",
   "tracks": [
+    {
+      "added_at": "2026-04-10 04:00:47",
+      "album": {
+        "name": "Any Old Fool",
+        "url": "https://open.spotify.com/album/645BIIezXIuUl2UADCAJyS"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "duration_ms": 184700,
+      "name": "Any Old Fool",
+      "url": "https://open.spotify.com/track/6HNpTTwnQHo5JSrWQETLwg"
+    },
     {
       "added_at": "2026-03-27 04:00:06",
       "album": {
@@ -93,6 +109,22 @@
       "url": "https://open.spotify.com/track/7fZi9X5RGmoCKNMRtJN9in"
     },
     {
+      "added_at": "2026-04-10 04:00:47",
+      "album": {
+        "name": "DIG!",
+        "url": "https://open.spotify.com/album/3DREa2s2CceeFKADZVyqrX"
+      },
+      "artists": [
+        {
+          "name": "Mamas Gun",
+          "url": "https://open.spotify.com/artist/09bP40OuEV5tOM1rQnZNxI"
+        }
+      ],
+      "duration_ms": 196413,
+      "name": "Hardest Yards",
+      "url": "https://open.spotify.com/track/3r2ZYYvlY5p51LgpjFLf3Z"
+    },
+    {
       "added_at": "2026-02-27 05:00:47",
       "album": {
         "name": "You Belong to Me",
@@ -171,22 +203,6 @@
       "duration_ms": 215524,
       "name": "Closer",
       "url": "https://open.spotify.com/track/7mvbNjFKdlpjnbcqocscuK"
-    },
-    {
-      "added_at": "2026-01-16 05:00:32",
-      "album": {
-        "name": "You Deserve",
-        "url": "https://open.spotify.com/album/4zk6KsexxbrABRXCSKfj7K"
-      },
-      "artists": [
-        {
-          "name": "Cayden Cruz",
-          "url": "https://open.spotify.com/artist/36WZQ2Iukj5fVI2FLEt1l5"
-        }
-      ],
-      "duration_ms": 182280,
-      "name": "You Deserve",
-      "url": "https://open.spotify.com/track/3qv52G3oQ4MNcIib4KSRqH"
     },
     {
       "added_at": "2026-01-09 05:00:25",
@@ -1043,22 +1059,6 @@
       "duration_ms": 229886,
       "name": "Runnin'",
       "url": "https://open.spotify.com/track/0uGAuUzVvLEigxaK9rC7Mp"
-    },
-    {
-      "added_at": "2025-05-16 04:00:18",
-      "album": {
-        "name": "We Don't Have to Be Alone",
-        "url": "https://open.spotify.com/album/0wcfCbz30o9L3neEu5L7Cz"
-      },
-      "artists": [
-        {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
-        }
-      ],
-      "duration_ms": 166436,
-      "name": "We Don't Have to Be Alone",
-      "url": "https://open.spotify.com/track/6hRESIERR8gWu6CERwi2Zm"
     },
     {
       "added_at": "2025-05-16 04:00:18",

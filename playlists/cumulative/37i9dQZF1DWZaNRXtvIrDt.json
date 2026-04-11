@@ -3543,6 +3543,24 @@
     },
     {
       "album": {
+        "name": "C'est Toi",
+        "url": "https://open.spotify.com/album/4q8j2pBnzDSR1wuKUPaqoF"
+      },
+      "artists": [
+        {
+          "name": "LNRT",
+          "url": "https://open.spotify.com/artist/3K6wMz8wZO3G0ffTAQeqgC"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190080,
+      "name": "C'est Toi",
+      "url": "https://open.spotify.com/track/2Sr4AtddCOnpPcyJR1pKEW"
+    },
+    {
+      "album": {
         "name": "CA$HED UP",
         "url": "https://open.spotify.com/album/3Y3omMSeHyie3YmHnqZOwl"
       },
@@ -4659,6 +4677,24 @@
     },
     {
       "album": {
+        "name": "Ordinary Badman",
+        "url": "https://open.spotify.com/album/0G9GXFwO58VA6N5zuShJ90"
+      },
+      "artists": [
+        {
+          "name": "Hugh B",
+          "url": "https://open.spotify.com/artist/0ccbE6uaLu9K9U1QTNvjzn"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282632,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/75KuWJNM0WaXnDlLBprBJV"
+    },
+    {
+      "album": {
         "name": "Cry",
         "url": "https://open.spotify.com/album/5qEGkaG2wMcn787eEwGkhK"
       },
@@ -5506,7 +5542,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 143825,
       "name": "Dolly Destructiva",
       "url": "https://open.spotify.com/track/7LSq6cn5rFWH1gQzG2rMgD"
@@ -6116,6 +6152,24 @@
       "duration_ms": 628184,
       "name": "Elastic - Phase I",
       "url": "https://open.spotify.com/track/2HIvQNnCxhuQUoUirbng0f"
+    },
+    {
+      "album": {
+        "name": "Elastic (Phase I)",
+        "url": "https://open.spotify.com/album/29cHaiWLnZhffzoS5rEnWB"
+      },
+      "artists": [
+        {
+          "name": "Opal Sunn",
+          "url": "https://open.spotify.com/artist/78S74FaXeZ5e7JyMF8Axok"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 628184,
+      "name": "Elastic - Phase I",
+      "url": "https://open.spotify.com/track/3RO9b5KtpkOEbLIodiGUtf"
     },
     {
       "album": {
@@ -9875,6 +9929,24 @@
     },
     {
       "album": {
+        "name": "Imperfect Circuit",
+        "url": "https://open.spotify.com/album/6qyn5YEeah0tVxZONoEyvL"
+      },
+      "artists": [
+        {
+          "name": "Jon Sable",
+          "url": "https://open.spotify.com/artist/7fK4fTHz2dA1hlBe3ZhoRh"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352500,
+      "name": "Imperfect Circuit",
+      "url": "https://open.spotify.com/track/4NbkQ2CViXL4orFuynWgV5"
+    },
+    {
+      "album": {
         "name": "Blackbox Life Recorder 21f / in a room7 F760",
         "url": "https://open.spotify.com/album/0yp0GVa92trHmWZuEZTuL2"
       },
@@ -10292,7 +10364,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 261818,
       "name": "jazz liberation",
       "url": "https://open.spotify.com/track/5frKWEtszbt89Sz9qeJw32"
@@ -10868,6 +10940,24 @@
       "duration_ms": 209500,
       "name": "LEAN MANTLES",
       "url": "https://open.spotify.com/track/5jTE3jRc8hKshQy6fKbb20"
+    },
+    {
+      "album": {
+        "name": "Leave Your Life",
+        "url": "https://open.spotify.com/album/4qeik8tRjrndVWsaS7bRBS"
+      },
+      "artists": [
+        {
+          "name": "Alex Kassian",
+          "url": "https://open.spotify.com/artist/3YcfGOBLEsPKVZj5Ecu0QY"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369473,
+      "name": "Leave Your Life - Lonely Hearts Mix",
+      "url": "https://open.spotify.com/track/4byAVCrUbP9O89nyIeclaL"
     },
     {
       "album": {
@@ -12734,7 +12824,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 270344,
       "name": "Murda Style",
       "url": "https://open.spotify.com/track/3CfXDUYPtL6UWgLf5UES2R"
@@ -13238,7 +13328,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 201508,
       "name": "Night Moves",
       "url": "https://open.spotify.com/track/3txXtinyEJNYIifRyLK3z2"
@@ -13818,7 +13908,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 134244,
       "name": "On The Ground",
       "url": "https://open.spotify.com/track/331bJRuzgiksWvFiuVKhmH"
@@ -14072,7 +14162,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 231529,
       "name": "Original Nuttah 25",
       "url": "https://open.spotify.com/track/55K24vPjLgAX8yLAq8fErj"
@@ -14640,6 +14730,24 @@
       "duration_ms": 387912,
       "name": "Planet Waves",
       "url": "https://open.spotify.com/track/5v0kSiZkpmhnikGJsxUz4z"
+    },
+    {
+      "album": {
+        "name": "Left At Sunset",
+        "url": "https://open.spotify.com/album/0BqEGSrVCZaGd8HuILOlGX"
+      },
+      "artists": [
+        {
+          "name": "Tornado Wallace",
+          "url": "https://open.spotify.com/artist/6GNWPphcJ5CtIwCJVV1lLT"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 564702,
+      "name": "Plasticine",
+      "url": "https://open.spotify.com/track/1KubDxVPHalEloqDaGrepQ"
     },
     {
       "album": {
@@ -18597,6 +18705,24 @@
     },
     {
       "album": {
+        "name": "Electronic Arts",
+        "url": "https://open.spotify.com/album/2Clka6a46Wgtzy8Cc15pZT"
+      },
+      "artists": [
+        {
+          "name": "Sleep D",
+          "url": "https://open.spotify.com/artist/7DSX8wua9P7LuGapEmftQc"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 450461,
+      "name": "Textile",
+      "url": "https://open.spotify.com/track/450d0Ms4qZ5nfOQPSNRXbE"
+    },
+    {
+      "album": {
         "name": "That Feeling",
         "url": "https://open.spotify.com/album/0spQnHysbmv3eYXjVGIjw7"
       },
@@ -20800,7 +20926,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 294339,
       "name": "Who Are They?",
       "url": "https://open.spotify.com/track/49981XZ6QqcqRJ1LDQWDB2"
@@ -20858,7 +20984,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 173801,
       "name": "Wicked Sound",
       "url": "https://open.spotify.com/track/6vITRyQ93GruFeNnR6OQ1U"
@@ -21054,6 +21180,28 @@
       "duration_ms": 182869,
       "name": "Wrong Again",
       "url": "https://open.spotify.com/track/5kkh05lcZE7OIjPUUlKfUS"
+    },
+    {
+      "album": {
+        "name": "Wrote For Luck (Mella Dee Remix)",
+        "url": "https://open.spotify.com/album/5YYuxw5V4rg9pZlwKujb3p"
+      },
+      "artists": [
+        {
+          "name": "Happy Mondays",
+          "url": "https://open.spotify.com/artist/339DNkQkuhHKEcHw6oK8f0"
+        },
+        {
+          "name": "Mella Dee",
+          "url": "https://open.spotify.com/artist/2iT8KIetokMHRjhj8dJuNn"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 608484,
+      "name": "Wrote For Luck - Mella Dee Remix",
+      "url": "https://open.spotify.com/track/5ZQMgzZXt8rLf2UxUv4Hdn"
     },
     {
       "album": {

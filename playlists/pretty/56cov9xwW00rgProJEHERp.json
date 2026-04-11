@@ -1,12 +1,12 @@
 {
   "description": "Tunes from your favourite coffee shop.",
-  "num_followers": 10558,
+  "num_followers": 10557,
   "original_name": "But First Coffee",
   "owner": {
     "name": "Filtr Canada\t",
     "url": "https://open.spotify.com/user/filtr.ca"
   },
-  "snapshot_id": "AAAW4jzrlPmSjjnaB2mkxW/VeDXrt+b/",
+  "snapshot_id": "AAAW5ZYc/JpayEQttfhr2Oz1f5NaUedt",
   "tracks": [
     {
       "added_at": "2026-04-06 19:08:44",
@@ -1631,6 +1631,54 @@
       "duration_ms": 196536,
       "name": "sunstroke",
       "url": "https://open.spotify.com/track/1aq9yIytMTVt8gwv55xksP"
+    },
+    {
+      "added_at": "2026-04-10 17:40:32",
+      "album": {
+        "name": "A Matter of Time: The Final Hour",
+        "url": "https://open.spotify.com/album/4DWK6TLXHl1fly2zi5RlO7"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 239333,
+      "name": "Madwoman",
+      "url": "https://open.spotify.com/track/0UqHzMvRQnaOXEPKgFVhxN"
+    },
+    {
+      "added_at": "2026-04-10 17:43:26",
+      "album": {
+        "name": "The Acrobat",
+        "url": "https://open.spotify.com/album/1VLxDl8t4mVEhcyInmnSH0"
+      },
+      "artists": [
+        {
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+        }
+      ],
+      "duration_ms": 148995,
+      "name": "ordinary love song",
+      "url": "https://open.spotify.com/track/17NrsW6bdRJzkUjCDnEEuj"
+    },
+    {
+      "added_at": "2026-04-10 17:44:52",
+      "album": {
+        "name": "Oh, Ana",
+        "url": "https://open.spotify.com/album/7h9mJCFBWhaRdWHm28xIME"
+      },
+      "artists": [
+        {
+          "name": "Dominique Way",
+          "url": "https://open.spotify.com/artist/5kROZ1F7ExRZyFnHvKdlJ7"
+        }
+      ],
+      "duration_ms": 192600,
+      "name": "Oh, Ana",
+      "url": "https://open.spotify.com/track/46G3dLvPYBjRB5WzyvWr32"
     }
   ],
   "unique_name": "But First Coffee",

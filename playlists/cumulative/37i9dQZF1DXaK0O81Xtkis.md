@@ -2,9 +2,9 @@
 
 ### [soda](https://open.spotify.com/playlist/37i9dQZF1DXaK0O81Xtkis)
 
-> a little indie, a little pop, soda featuring Presley Regier
+> a little indie, a little pop, soda featuring Dolder
 
-1,569 songs - 3 day 6 hr 23 min
+1,572 songs - 3 day 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Bad Dream](https://open.spotify.com/track/4G7LYlnVgPWVmjXERE8NnB) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Bad Dream](https://open.spotify.com/album/3Ksfxxd3u2IABEqECQ8UWw) | 3:30 | 2024-04-26 | 2024-06-01 |
 | [Bad News](https://open.spotify.com/track/3W3KiThUax82v78hiinyCP) | [Chris James](https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp) | [Bad News](https://open.spotify.com/album/0E9G5XeL83v7CKiyKXkU4z) | 2:59 | 2025-08-08 | 2025-11-29 |
 | [Bad Omens](https://open.spotify.com/track/2ovVwEXwcRYuIfnfJedGnQ) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5SOS5](https://open.spotify.com/album/26uA5pGrTovBLxikRsMQJ4) | 3:35 | 2022-09-23 | 2023-03-04 |
+| [Bad To Worse](https://open.spotify.com/track/4jLRHYDOrPnHMIFGLkV4OY) | [Tanner Grigoli](https://open.spotify.com/artist/1kq96hgs2sFG1Pp7595rPd) | [Bad To Worse](https://open.spotify.com/album/6gdwsqzqDAlDszwx2lRnlj) | 2:37 | 2026-04-10 |  |
 | [Baked Alaska](https://open.spotify.com/track/63reuc8nVqfO3bmxCLUKDq) | [Carter Vail](https://open.spotify.com/artist/4Bu9DnBZ12oX7MiiaJy9hK) | [Baked Alaska](https://open.spotify.com/album/0yRDamj20wKD1LWVIxoFrc) | 2:50 | 2024-09-27 | 2025-01-25 |
 | [ballerina](https://open.spotify.com/track/7iYjdHCh4dgsmiktEaEkOV) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [ballerina](https://open.spotify.com/album/2wMEm63VJKzy3Y9d6nTyeh) | 3:22 | 2024-09-20 | 2025-01-11 |
 | [Bang Bang](https://open.spotify.com/track/7eQ6R9XSNfbLSExXggYbmY) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Bang Bang](https://open.spotify.com/album/4ZFKLXH2lTaQn5GxVH6zYg) | 2:54 | 2022-02-04 | 2022-03-26 |
@@ -183,6 +184,7 @@
 | [Body Language](https://open.spotify.com/track/4bBmkUUotaleotNdgSwsen) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [Body Language](https://open.spotify.com/album/5TsfSsuDSUjNWuAJ3KoPdW) | 3:23 | 2022-06-17 | 2022-08-27 |
 | [body language](https://open.spotify.com/track/6xs1WkRjbCHuYrfsCWT7ap) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [body language](https://open.spotify.com/album/5UyYQgjEMqHNX7EqUZ28cb) | 3:01 | 2025-05-23 | 2025-07-19 |
 | [Body Talk](https://open.spotify.com/track/3k4WaElAqj5vUu3sGkOla6) | [Jordy Searcy](https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz) | [Body Talk](https://open.spotify.com/album/6WRuSHJ3FJpMwkvP4cF8SK) | 2:20 | 2025-05-02 | 2025-06-07 |
+| [Bone Structure](https://open.spotify.com/track/42jkxiYg7D05HKmQNsRp8o) | [Dolder](https://open.spotify.com/artist/2zzssv1I5AKOEPI98SZvQb) | [Bone Structure](https://open.spotify.com/album/5Nqd6iPF3I8dFnVw66cFNV) | 3:01 | 2026-04-10 |  |
 | [Books](https://open.spotify.com/track/5s5XSIecq1xvvOyujFFjrI) | [Kid Sistr](https://open.spotify.com/artist/7ysZTe2PbCTqmC2tE1dpCk) | [Books](https://open.spotify.com/album/5makcexyZJmKWVzA7QLpyj) | 2:54 | 2023-11-24 | 2024-01-05 |
 | [Boston](https://open.spotify.com/track/0RhzM0OwtSy008gV9MubT7) | [Kaleb Cohen](https://open.spotify.com/artist/0OBwcfakkopHjezAQGbgl8) | [Boston](https://open.spotify.com/album/7MLu0RY87rxk3fJ1g0ZEre) | 3:40 | 2025-07-25 | 2025-09-28 |
 | [Bottle Go Down](https://open.spotify.com/track/349jUksHiirUFIUqOZ4pUX) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [Bottle Go Down](https://open.spotify.com/album/1MNfcfYPbHA955TYtA6ttP) | 2:17 | 2024-08-09 | 2024-08-17 |
@@ -269,7 +271,7 @@
 | [CIGARETTES](https://open.spotify.com/track/2e1SliQSsHs1YutpnfuNYC) | [Zachary Knowles](https://open.spotify.com/artist/5BxcZnUcETSt90VlbsdugI) | [CIGARETTES](https://open.spotify.com/album/0W2PW9SzUoZYRAoYS2YKnH) | 2:29 | 2022-07-01 | 2022-08-13 |
 | [Cigarettes & Wine \(feat\. Holly Humberstone\)](https://open.spotify.com/track/4eAV1ZCliRotEcjzEbOWNW) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00), [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Cigarettes & Wine \(feat\. Holly Humberstone\)](https://open.spotify.com/album/0KUNjsa4YtmFilHMgwLzfo) | 3:01 | 2024-02-09 | 2024-04-27 |
 | [cindy](https://open.spotify.com/track/0YZCAtwtnboKKuNO3nV32j) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [is nothing sacred?](https://open.spotify.com/album/5NX9yYMvKC9zBAIbRpJ3yd) | 3:21 | 2023-06-09 | 2023-07-08 |
-| [Cinematic](https://open.spotify.com/track/5LPa2CicoiwWBIt0cKDjUW) | [Foley](https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE) | [Cinematic](https://open.spotify.com/album/2H5dfaWvWaCfvEI2zq9XZq) | 3:34 | 2026-01-16 |  |
+| [Cinematic](https://open.spotify.com/track/5LPa2CicoiwWBIt0cKDjUW) | [Foley](https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE) | [Cinematic](https://open.spotify.com/album/2H5dfaWvWaCfvEI2zq9XZq) | 3:34 | 2026-01-16 | 2026-04-11 |
 | [Cinematic](https://open.spotify.com/track/6FlFjAMNruiMsgBbGAUHpe) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [Cinematic](https://open.spotify.com/album/0xPOBZFiFZ9FapzadshAuG) | 3:16 | 2025-05-16 | 2025-06-28 |
 | [Cinnamon](https://open.spotify.com/track/1gRWoklE6IT3eVP7mSlFwd) | [Emarosa](https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek) | [Sting](https://open.spotify.com/album/0BBW1lCE63dBs7u79aFIet) | 3:06 | 2023-01-27 | 2023-03-25 |
 | [Clarity](https://open.spotify.com/track/54fIT6FB4H6z3BJXQai1hm) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Clarity](https://open.spotify.com/album/49WXECyPBx84Kw0E33sjCY) | 2:17 | 2024-02-02 | 2024-04-06 |
@@ -422,6 +424,7 @@
 | [DYWTYLM](https://open.spotify.com/track/4hjJtKO5SdpfVRwP4FZeKI) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [DYWTYLM](https://open.spotify.com/album/0xLXYxkjjIPfVFhbPWvCwy) | 4:00 | 2023-04-24 | 2023-07-01 |
 | [Earrings](https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Sweet Boy](https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ) | 2:31 | 2026-01-16 |  |
 | [easier said](https://open.spotify.com/track/4gyOWF9N3bPBTpZj2a0F0R) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [what if it was great?](https://open.spotify.com/album/45ppTSZcqg0tzMhoVx1kWG) | 3:17 | 2023-06-09 | 2023-07-22 |
+| [East End Girls](https://open.spotify.com/track/34oA9agkYSp4RgzoHYODbc) | [PASH](https://open.spotify.com/artist/3jEgbW70PXxv993symSK35) | [East End Girls](https://open.spotify.com/album/6sYmd0zjCOp4UFsQqCxjEz) | 3:13 | 2026-04-10 |  |
 | [eighteen](https://open.spotify.com/track/37ZOqyxz7B7bmIa2sq5odC) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [eighteen](https://open.spotify.com/album/5X37ePjevJgwrKDzk9S3mY) | 3:09 | 2023-04-07 | 2023-07-01 |
 | [either way](https://open.spotify.com/track/7wHRNRxqJcCO9hzE025Iyf) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [either way](https://open.spotify.com/album/1O1KX7W7zQ5ESejqgI7Sdr) | 3:00 | 2021-11-05 | 2022-02-26 |
 | [El Camino High](https://open.spotify.com/track/2vcHGq62LLg2quONoXB32B) | [Moody Joody](https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz) | [Dream Girl](https://open.spotify.com/album/0rmWZhNtY9IK37Fwfl5vXt) | 3:47 | 2024-11-08 | 2025-01-25 |
@@ -609,7 +612,7 @@
 | [Here We Go Again](https://open.spotify.com/track/4JU8kIrU6RAOVMuZ9Nxae4) | [The Wldlfe](https://open.spotify.com/artist/2Vvj76fff5uAw10W1sW54W) | [Heaven is a place, 2024](https://open.spotify.com/album/2jFNYnS6VA7IdzQv8kiQt7) | 2:43 | 2024-08-16 | 2024-11-09 |
 | [Here’s To Us](https://open.spotify.com/track/2zpYiHY3ecQFn8V7jEd5u1) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Here’s To Us](https://open.spotify.com/album/4tSC3VDDSQetWw8s4GcreS) | 3:14 | 2024-01-26 | 2024-03-09 |
 | [Hey You!](https://open.spotify.com/track/6bTtcLpvruUeLSzH4ygsfN) | [Zerbin](https://open.spotify.com/artist/0dlr1FsAcalNnpq1q2RIoT) | [Hey You!](https://open.spotify.com/album/4z6BoHLWaY5JlmouwVlJk9) | 3:18 | 2022-04-29 | 2022-05-20 |
-| [Hi My Love](https://open.spotify.com/track/5ZHRKtrosRwOzUHv7WmyGK) | [Sofia and the Antoinettes](https://open.spotify.com/artist/2Wmot0sq6wOOjvcYD4NRD7) | [Hi My Love](https://open.spotify.com/album/5IUwyON6SEB85IblIjowCP) | 2:56 | 2026-01-16 |  |
+| [Hi My Love](https://open.spotify.com/track/5ZHRKtrosRwOzUHv7WmyGK) | [Sofia and the Antoinettes](https://open.spotify.com/artist/2Wmot0sq6wOOjvcYD4NRD7) | [Hi My Love](https://open.spotify.com/album/5IUwyON6SEB85IblIjowCP) | 2:56 | 2026-01-16 | 2026-04-11 |
 | [Hide And Seek](https://open.spotify.com/track/6oRcj35Qy5531TgH3ZHwbT) | [Tayo Sound](https://open.spotify.com/artist/7uELj3CTZDGSpqH1TNPIdQ), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Hide And Seek](https://open.spotify.com/album/5aI0fru90lUJrf4RFXOYMo) | 2:51 | 2022-08-19 | 2022-10-15 |
 | [Hiding \(feat\. Arizona Zervas\)](https://open.spotify.com/track/1ZTyVPPQWoxsXmTLHToms0) | [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh), [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs) | [Hiding \(feat\. Arizona Zervas\)](https://open.spotify.com/album/5XTq7rGS6OYo9O1xf5BZTc) | 2:26 | 2024-04-05 | 2024-06-01 |
 | [High](https://open.spotify.com/track/1xF4jrICj7AgpCD8b7oSHI) | [Jacob Sartorius](https://open.spotify.com/artist/6czdbISBoxGckbBX8F4m8L) | [High](https://open.spotify.com/album/0mfSM4OpXYzHfOkathaNd5) | 2:22 | 2023-01-06 | 2023-02-18 |
@@ -1007,7 +1010,7 @@
 | [OH NO!](https://open.spotify.com/track/5NDjk4GOodIGmrQxSjExEr) | [Jake Clark](https://open.spotify.com/artist/5fPvc8tIZfLbEm3GsbFHgd) | [OH NO!](https://open.spotify.com/album/0oKwWq3FGBprGxwSKxwOvV) | 2:11 | 2022-09-30 | 2022-12-03 |
 | [Oh shit…are we in love?](https://open.spotify.com/track/4Ok8EFwlT2SkmCfxQpidjV) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Oh shit…are we in love?](https://open.spotify.com/album/0m0PoRgev9z31KQ3OuFYO5) | 2:35 | 2021-10-29 | 2022-01-08 |
 | [OH WELL](https://open.spotify.com/track/2sfYIKz3J8eZkBdTh25KyK) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [OH WELL](https://open.spotify.com/album/2AGtYibeIFAnUVQadCVr16) | 2:54 | 2021-11-12 | 2022-03-18 |
-| [ohmygod!](https://open.spotify.com/track/2pxw43ycOory6Ghyo2WOSa) | [archie](https://open.spotify.com/artist/2EqbS3LYLBLS6scWZAHCrE) | [ohmygod!](https://open.spotify.com/album/6ffP9JDhw7iYPdnTJwK3Km) | 2:47 | 2026-02-06 |  |
+| [ohmygod!](https://open.spotify.com/track/2pxw43ycOory6Ghyo2WOSa) | [archie](https://open.spotify.com/artist/2EqbS3LYLBLS6scWZAHCrE) | [ohmygod!](https://open.spotify.com/album/6ffP9JDhw7iYPdnTJwK3Km) | 2:47 | 2026-02-06 | 2026-04-11 |
 | [OK](https://open.spotify.com/track/2RSAu3AGDi2sPhYEjSZmzv) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [OK](https://open.spotify.com/album/15kgnv34kf8eRCpNWZl79V) | 4:23 | 2023-05-12 | 2023-09-16 |
 | [Okay](https://open.spotify.com/track/2Vm6N90nP3iVAm4ejHrl1a) | [Harry Strange](https://open.spotify.com/artist/33hzAXIWsHwT9LxvlQ1ZAr) | [Okay](https://open.spotify.com/album/76MulsxJQcZuCf9EphKOi1) | 3:08 | 2022-02-04 | 2022-03-18 |
 | [old change](https://open.spotify.com/track/2J5HyVV6Ymyv7LR6w5QvZC) | [Drod](https://open.spotify.com/artist/05V8HRYvyOH8BTL4srorTi) | [old change](https://open.spotify.com/album/7jNF9ZNUFarlI887FlXJ23) | 1:54 | 2024-02-16 | 2024-03-30 |

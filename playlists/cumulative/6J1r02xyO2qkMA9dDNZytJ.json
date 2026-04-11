@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "4Get The Girl",
+        "url": "https://open.spotify.com/album/06mEYqnxJNqLm5Jh1iX4cb"
+      },
+      "artists": [
+        {
+          "name": "Route 94",
+          "url": "https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214616,
+      "name": "4Get The Girl",
+      "url": "https://open.spotify.com/track/6yjyavXzUEkkBsg4ZQAUQr"
+    },
+    {
+      "album": {
         "name": "4x4",
         "url": "https://open.spotify.com/album/4gA6nwPTt9kkPPugPCntEs"
       },
@@ -187,6 +205,24 @@
     },
     {
       "album": {
+        "name": "Anything And Everything",
+        "url": "https://open.spotify.com/album/6wm1VaPhMibyCYQAcReao3"
+      },
+      "artists": [
+        {
+          "name": "CASSIMM",
+          "url": "https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131133,
+      "name": "Anything And Everything",
+      "url": "https://open.spotify.com/track/09JkAvzVfn83tQoxTLxvTp"
+    },
+    {
+      "album": {
         "name": "Asking 4",
         "url": "https://open.spotify.com/album/4UWOCBtyqvmsZ6NIa49tCM"
       },
@@ -259,6 +295,28 @@
     },
     {
       "album": {
+        "name": "Bajo Abajo",
+        "url": "https://open.spotify.com/album/1L7y7KsSRCtadMmimBqHXo"
+      },
+      "artists": [
+        {
+          "name": "KEFFI",
+          "url": "https://open.spotify.com/artist/06x3YBkBTZLOZN4C2I6MlY"
+        },
+        {
+          "name": "Lex Valverde",
+          "url": "https://open.spotify.com/artist/10UP6pe5tet7UznYJ7DER3"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167750,
+      "name": "Bajo Abajo",
+      "url": "https://open.spotify.com/track/5fQmxDJKjtv1TTtdpTC1C4"
+    },
+    {
+      "album": {
         "name": "Ballerz",
         "url": "https://open.spotify.com/album/6TzIjmh2UW48dV6pLXbrF1"
       },
@@ -292,7 +350,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 183720,
       "name": "Bass In Ya Face",
       "url": "https://open.spotify.com/track/0oger1c9juioSYT6YmpCZu"
@@ -558,7 +616,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 173437,
       "name": "Business",
       "url": "https://open.spotify.com/track/0XgOx87WcuC7Nd5uxMwMJV"
@@ -786,7 +844,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 161250,
       "name": "Como Se Llama",
       "url": "https://open.spotify.com/track/3DgKAnFjBdfB9s3UVMbkqt"
@@ -1409,6 +1467,32 @@
     },
     {
       "album": {
+        "name": "Freaky 1",
+        "url": "https://open.spotify.com/album/2iI0aQO2hrnBmMDIUvrLJS"
+      },
+      "artists": [
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Ali Love",
+          "url": "https://open.spotify.com/artist/5XJp0gYotUfFraS626GSge"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232093,
+      "name": "Freaky 1",
+      "url": "https://open.spotify.com/track/5cefCIhgIJgsG3r3LcRmwB"
+    },
+    {
+      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/2s6RTtoBr4tNWgldSdSE80"
       },
@@ -1570,7 +1654,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 173310,
       "name": "Get Up And Dance",
       "url": "https://open.spotify.com/track/3USbTgOpE6eAcN63NyGKmA"
@@ -2046,7 +2130,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 172470,
       "name": "I Got Bad Habits",
       "url": "https://open.spotify.com/track/6TNORJCPXK5P7OrXJ83rdi"
@@ -2722,7 +2806,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 187648,
       "name": "Lonely No More",
       "url": "https://open.spotify.com/track/6ry4KtV8yfmwNDTpAFEmpY"
@@ -2766,6 +2850,24 @@
       "duration_ms": 172269,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/29ckDhEsLydghxneMmTBLa"
+    },
+    {
+      "album": {
+        "name": "Loud & Clear",
+        "url": "https://open.spotify.com/album/7I0MjuEsApKRhWkD2royLb"
+      },
+      "artists": [
+        {
+          "name": "Deep Fiktion",
+          "url": "https://open.spotify.com/artist/03KjoCxp7LWEqTAV0EN1Le"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182782,
+      "name": "Loud & Clear",
+      "url": "https://open.spotify.com/track/2IMhAL3JEHB3qPa2f6AOt0"
     },
     {
       "album": {
@@ -2952,7 +3054,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 190298,
       "name": "My Baby",
       "url": "https://open.spotify.com/track/1YVVCFUY0xVQWrJeePs9Ue"
@@ -3178,6 +3280,28 @@
       "duration_ms": 167133,
       "name": "Over You",
       "url": "https://open.spotify.com/track/7JXrx6UxFSs544gh4vxeW0"
+    },
+    {
+      "album": {
+        "name": "Patchwork",
+        "url": "https://open.spotify.com/album/1jdPpk0cKJ4iQvsZfEXstU"
+      },
+      "artists": [
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        },
+        {
+          "name": "Paige Cavell",
+          "url": "https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187087,
+      "name": "Patchwork",
+      "url": "https://open.spotify.com/track/3BxWLwl3xcFAN0Hk5X13JD"
     },
     {
       "album": {
@@ -3614,7 +3738,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 144475,
       "name": "Say My Name",
       "url": "https://open.spotify.com/track/6Oci650ciQ0xLoUmjUwKNK"
@@ -3632,7 +3756,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 164791,
       "name": "Serious",
       "url": "https://open.spotify.com/track/01vuVmxJb3rVPUVj7Lyjea"
@@ -3650,7 +3774,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 182362,
       "name": "Shake That",
       "url": "https://open.spotify.com/track/7xs6PGy8NDLxSaxQJqTr60"
@@ -3759,6 +3883,32 @@
     },
     {
       "album": {
+        "name": "Shut It Down",
+        "url": "https://open.spotify.com/album/67LUT24xBnb3qT172RtVQy"
+      },
+      "artists": [
+        {
+          "name": "Mark Knight",
+          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
+        },
+        {
+          "name": "Pietro",
+          "url": "https://open.spotify.com/artist/6Siaha9DgQyX23Ph7pTHYG"
+        },
+        {
+          "name": "Rome Fortune",
+          "url": "https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202172,
+      "name": "Shut It Down",
+      "url": "https://open.spotify.com/track/3JLcmhiMEa0A9i2KBdglsE"
+    },
+    {
+      "album": {
         "name": "Sin Pero",
         "url": "https://open.spotify.com/album/08fzl82SQEQttAUCUhw5lo"
       },
@@ -3796,6 +3946,24 @@
       "duration_ms": 178953,
       "name": "Slight Werk - Club Mix",
       "url": "https://open.spotify.com/track/3AenQimpj4gFY3e0CnsbD1"
+    },
+    {
+      "album": {
+        "name": "Snakebite Boogie EP",
+        "url": "https://open.spotify.com/album/65kPQwCvSFLJndDg9zJTOv"
+      },
+      "artists": [
+        {
+          "name": "Mellizos",
+          "url": "https://open.spotify.com/artist/58aKkaiVZkoeZNeHTz36Gi"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211355,
+      "name": "Snakebite Boogie",
+      "url": "https://open.spotify.com/track/3Tokd2H9xxDzkvKVahm6tc"
     },
     {
       "album": {
@@ -3950,7 +4118,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 205161,
       "name": "Take Me There",
       "url": "https://open.spotify.com/track/729gvORm05JlcZ9b2S7hti"
@@ -3990,7 +4158,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 182383,
       "name": "That\u2019s Jack",
       "url": "https://open.spotify.com/track/5Zrh2P1fTC7YTdTEAyGyUP"
@@ -4008,7 +4176,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 200314,
       "name": "The Butcher",
       "url": "https://open.spotify.com/track/74XpGDcBBdfXqffkk2Of0J"
@@ -4064,6 +4232,24 @@
       "duration_ms": 195923,
       "name": "The Fire",
       "url": "https://open.spotify.com/track/0vxKlpAcmc8yCUpPBAwe5e"
+    },
+    {
+      "album": {
+        "name": "Snakebite Boogie EP",
+        "url": "https://open.spotify.com/album/65kPQwCvSFLJndDg9zJTOv"
+      },
+      "artists": [
+        {
+          "name": "Mellizos",
+          "url": "https://open.spotify.com/artist/58aKkaiVZkoeZNeHTz36Gi"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198764,
+      "name": "The Groovaholic",
+      "url": "https://open.spotify.com/track/798FLSFpzX0z9cGhWFjQVn"
     },
     {
       "album": {
@@ -4328,7 +4514,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 209076,
       "name": "Tunnel Vision (feat. Jane)",
       "url": "https://open.spotify.com/track/0aovb0lbaj4OxlfFJ2s3HJ"

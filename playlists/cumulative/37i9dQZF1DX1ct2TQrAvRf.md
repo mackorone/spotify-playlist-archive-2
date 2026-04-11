@@ -2,9 +2,9 @@
 
 ### [RAP 91](https://open.spotify.com/playlist/37i9dQZF1DX1ct2TQrAvRf)
 
-> India's Rap Scene\. Cover \- Dhanda Nyoliwala
+> India's Rap Scene\. Cover \- SAMBATA
 
-389 songs - 20 hr 52 min
+390 songs - 20 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,6 +226,7 @@
 | [Losing Myself \(feat\. Gunna\)](https://open.spotify.com/track/1RBKibhjmaVoBj4L3AuUhz) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [The Brownprint](https://open.spotify.com/album/39fvaMl4ECsHkplPilIpBo) | 2:58 | 2024-09-05 | 2025-01-18 |
 | [Low Rider](https://open.spotify.com/track/54eRJjpGrbomPpChIlVYgy) | [Saabi Bhinder](https://open.spotify.com/artist/7balJhYEvDHAshA39peuCr), [Real Boss](https://open.spotify.com/artist/7mAbpafXc2MIAZn4ldxEuP), [CHEETAH](https://open.spotify.com/artist/48jxktLmsxYggMW9XpdI15) | [Low Rider](https://open.spotify.com/album/28BL2zT9xYHkzQILhHdRMv) | 3:05 | 2026-01-30 |  |
 | [Maan Ja Chhori](https://open.spotify.com/track/0mnYFf6BUw3AL2rXKaZ9yJ) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [Harjas Harjaayi](https://open.spotify.com/artist/3ioOEaiQ1Zw6RMCesOOWfZ) | [Maan Ja Chhori](https://open.spotify.com/album/0uInM6EbRS3Y3Yp8SbiFYJ) | 2:30 | 2024-08-26 | 2024-11-16 |
+| [Maaz](https://open.spotify.com/track/64BInujsr1p4J0AUJq79ET) | [SAMBATA](https://open.spotify.com/artist/3Il6TyOnML9fMSCyDMbUCO), [Zero Chill](https://open.spotify.com/artist/2jQwPdXQ9R2yAi0eMZRQ1M) | [Maaz](https://open.spotify.com/album/6AfRt8TC1y9GQ1g1Ow8PZj) | 3:56 | 2026-04-10 |  |
 | [Machayenge 4](https://open.spotify.com/track/71VXewVKFs0HcwEom489zH) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t) | [Machayenge 4](https://open.spotify.com/album/75500cJSqQKQafI8VAKxO2) | 6:38 | 2023-03-27 | 2023-10-19 |
 | [Madari \(feat\. Karan Kanchan\)](https://open.spotify.com/track/6mn6FTPISyKwCo4On7CmVZ) | [Munawar Faruqui](https://open.spotify.com/artist/7yLGN6pQ3Fll8eWpjJwwQl), [Charan](https://open.spotify.com/artist/3hbwOFtgWSNfeRzF2o7Y65), [Farhan Khan](https://open.spotify.com/artist/7htUdS6qzUt3hTmDxMrTFy), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [Madari](https://open.spotify.com/album/44VVN1lOB0mYZFEMDv5yX8) | 3:21 | 2023-06-09 | 2023-07-18 |
 | [Madira](https://open.spotify.com/track/3ue7PTXmpCbn3LXfkZWxll) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [Hurricane](https://open.spotify.com/artist/6OvPeLnrLk4v7X7tmjnOiO), [DL91 Era](https://open.spotify.com/artist/3mWqCmX0xuzBJN648XSBrE) | [DL91 FM](https://open.spotify.com/album/2Jc0evKv7asNZMx32rQHrF) | 2:49 | 2025-05-23 |  |
@@ -331,7 +332,7 @@
 | [SHUNDA MANDI](https://open.spotify.com/track/5eOZW6Sqmt34JHdZdYjHd2) | [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [Rishi Roy](https://open.spotify.com/artist/1CPC6yBRVnK1WxibuqwNNH) | [SHUNDA MANDI](https://open.spotify.com/album/2mysz6I2aTYuvfgeXA6Lx1) | 3:14 | 2025-04-04 | 2026-01-24 |
 | [Shut Up](https://open.spotify.com/track/3XMZT9cUc54MnyKdDYNiqA) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Subspace](https://open.spotify.com/artist/7nw7Hh1qSVsic7HdEw6kZl) | [For The Day One$](https://open.spotify.com/album/1OLxqHVU7CIkB90Y13yCzT) | 2:46 | 2024-07-05 | 2025-03-01 |
 | [Sigma Paiyan \- From "Think Indie"](https://open.spotify.com/track/6XKlfesXLwVbzumSS7XN4o) | [Asal Kolaar](https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc) | [Sigma Paiyan \(From "Think Indie"\)](https://open.spotify.com/album/4sTHhxgBEZifnSNjbmkyg6) | 2:29 | 2025-08-19 | 2025-08-23 |
-| [SILENCE](https://open.spotify.com/track/3Phlh6RTAyyFHy7cjkoTSK) | [YUNG SAMMY](https://open.spotify.com/artist/3N1efxORHI0hvpUGNr0QpW), [Wamp](https://open.spotify.com/artist/6zpUQnCceOC1hkBQWLrZKk) | [SILENCE](https://open.spotify.com/album/4TQKcToj98khhRJdzBTRei) | 1:52 | 2025-08-22 |  |
+| [SILENCE](https://open.spotify.com/track/3Phlh6RTAyyFHy7cjkoTSK) | [YUNG SAMMY](https://open.spotify.com/artist/3N1efxORHI0hvpUGNr0QpW), [Wamp](https://open.spotify.com/artist/6zpUQnCceOC1hkBQWLrZKk) | [SILENCE](https://open.spotify.com/album/4TQKcToj98khhRJdzBTRei) | 1:52 | 2025-08-22 | 2026-04-11 |
 | [Sitara](https://open.spotify.com/track/3j796EeLMLBqwlzwufeS7c) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Gunehgar](https://open.spotify.com/album/6KO9jY3EEIpWFOfDXSOifs) | 2:59 | 2023-06-08 | 2024-09-14 |
 | [Snake](https://open.spotify.com/track/0MYof8K1RPjc1Htnr7CDa6) | [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH) | [Snake](https://open.spotify.com/album/6We7h51iTPzUEF03P8RVNd) | 4:41 | 2023-04-19 | 2024-08-03 |
 | [Soch](https://open.spotify.com/track/38F8BE500Tybqd3jrzp5Av) | [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu) | [Soch](https://open.spotify.com/album/0lQ9GvffDL17ufwTEqA7gm) | 2:36 | 2023-03-27 | 2023-07-18 |

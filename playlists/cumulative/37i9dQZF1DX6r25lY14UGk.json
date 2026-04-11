@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-19",
-  "description": "New releases for the kids. Cover: Peppa Pig",
+  "description": "New releases for the kids. Cover: Blippi & Yellowcard",
   "name": "New Kids Music",
   "tracks": [
     {
@@ -1482,6 +1482,28 @@
       "duration_ms": 183769,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/7hSDlHtzSoCbiQfAWDAMdu"
+    },
+    {
+      "album": {
+        "name": "Bedroom Posters (feat. Blippi)",
+        "url": "https://open.spotify.com/album/6ZqylFxqg9iX1LnwMFXw4n"
+      },
+      "artists": [
+        {
+          "name": "Yellowcard",
+          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
+        },
+        {
+          "name": "Blippi",
+          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224571,
+      "name": "Bedroom Posters (feat. Blippi)",
+      "url": "https://open.spotify.com/track/29hWBaFS2d7cVDgCi3nbam"
     },
     {
       "album": {
@@ -14013,6 +14035,28 @@
     },
     {
       "album": {
+        "name": "Purrfect Friend",
+        "url": "https://open.spotify.com/album/3hRrlS5hnWywtHEfzhgRzV"
+      },
+      "artists": [
+        {
+          "name": "PAW Patrol",
+          "url": "https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED"
+        },
+        {
+          "name": "Nick Jr.",
+          "url": "https://open.spotify.com/artist/2hMLlEmFVPTsBh803qCfoC"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 52510,
+      "name": "Purrfect Friend",
+      "url": "https://open.spotify.com/track/6eh0rQV7I3ylNTQiaHcPRh"
+    },
+    {
+      "album": {
         "name": "Put a Smile On",
         "url": "https://open.spotify.com/album/2KqBq9tPAVu51BsJalUhfd"
       },
@@ -18083,6 +18127,24 @@
     },
     {
       "album": {
+        "name": "There's an Animal That I See",
+        "url": "https://open.spotify.com/album/4suCqc4zOC8wafd5i9mzEp"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175087,
+      "name": "There's an Animal That I See",
+      "url": "https://open.spotify.com/track/38SPer8dqQvGIPdSSMqNBy"
+    },
+    {
+      "album": {
         "name": "These are the Days",
         "url": "https://open.spotify.com/album/2B3KH1zpR8PudFt2HAzdVB"
       },
@@ -19196,6 +19258,28 @@
       "duration_ms": 201446,
       "name": "Wanna Be Your Friend",
       "url": "https://open.spotify.com/track/5OwJra9dweg3pss3iwRh1S"
+    },
+    {
+      "album": {
+        "name": "Warming Up Our Voices",
+        "url": "https://open.spotify.com/album/0y40zS98E4fQB7RWg8oxKL"
+      },
+      "artists": [
+        {
+          "name": "Caitie's Classroom",
+          "url": "https://open.spotify.com/artist/7KqTz4iDBYBRvVyReA3SHo"
+        },
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201229,
+      "name": "Warming Up Our Voices",
+      "url": "https://open.spotify.com/track/5F7QAjG5Oil2J1MQwAPosm"
     },
     {
       "album": {

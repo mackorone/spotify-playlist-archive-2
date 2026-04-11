@@ -194,7 +194,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-09",
+      "date_removed": null,
       "duration_ms": 232000,
       "name": "1111",
       "url": "https://open.spotify.com/track/6bpJO1TVdHHHosDvE2h4WG"
@@ -6186,7 +6186,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 260517,
       "name": "Cherry Blossom Ending",
       "url": "https://open.spotify.com/track/4eFTh1opLS5wANDmZK9ghC"
@@ -25986,7 +25986,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 220933,
       "name": "Paid with Bugs",
       "url": "https://open.spotify.com/track/5XQw9UwZuHeXs5tO83nhYy"
@@ -39994,6 +39994,28 @@
       "duration_ms": 283160,
       "name": "\uc608\ubee4\uc5b4",
       "url": "https://open.spotify.com/track/3HAkoNmThZhyFejhpRXXYI"
+    },
+    {
+      "album": {
+        "name": "Pieces, Part One",
+        "url": "https://open.spotify.com/album/1xepnoe8Uet49Nh0nv20lO"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "Younha",
+          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301720,
+      "name": "\uc6b0\uc0b0 (feat. \uc724\ud558)",
+      "url": "https://open.spotify.com/track/1VnjByC7TUx5A73A4qtgoo"
     },
     {
       "album": {

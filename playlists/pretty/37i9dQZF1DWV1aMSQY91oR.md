@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 ### [New Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DWV1aMSQY91oR)
 
-> The latest in hip\-hop, updated weekly\. Cover: Meek Mill
+> We'll be back next week with the latest in hip\-hop\. Cover: Meek Mill
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,534 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,581 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 49 | [Deep End](https://open.spotify.com/track/31FZEw4eoEZxWx0XUYnXP5) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Deep End](https://open.spotify.com/album/0OnbE1052iHPG1BLYE1KvK) | 2:47 |
 | 50 | [Breaking Down](https://open.spotify.com/track/3UD1RKbaDLeBCSAGDG2OFS) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Skeletor](https://open.spotify.com/album/3IAgMv1WFncG3ucFS0Jywd) | 4:21 |
 
-Snapshot ID: `AAAAAMf8BVUHW/6EmEi7Pd7w+B1Qu5Fh`
+Snapshot ID: `AAAAAN90OwEuCCOkBJxtBcdx9IB2DTzE`

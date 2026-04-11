@@ -375,6 +375,24 @@
     },
     {
       "album": {
+        "name": "A.N.F.",
+        "url": "https://open.spotify.com/album/6MjjDcQ2Acv8mKKf0Ff89k"
+      },
+      "artists": [
+        {
+          "name": "Vluarr",
+          "url": "https://open.spotify.com/artist/0ClkclGbzsEY0aBtqq8MrB"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147272,
+      "name": "A.N.F.",
+      "url": "https://open.spotify.com/track/39xhLYb1dWxmwI5o2gjnMc"
+    },
+    {
+      "album": {
         "name": "niteharts",
         "url": "https://open.spotify.com/album/73pupZEDJHSNWZTZgN2gQH"
       },
@@ -1876,6 +1894,32 @@
       "duration_ms": 148183,
       "name": "Bad Girl",
       "url": "https://open.spotify.com/track/6Rxp1YTcngUkDoYoJpNJl3"
+    },
+    {
+      "album": {
+        "name": "Bad Girls",
+        "url": "https://open.spotify.com/album/4GuJDoFp7yhWiW9IVGgMYN"
+      },
+      "artists": [
+        {
+          "name": "Will Sparks",
+          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
+        },
+        {
+          "name": "JDG",
+          "url": "https://open.spotify.com/artist/7oqJesfsNfHYYN6bEKR6UP"
+        },
+        {
+          "name": "Luciana",
+          "url": "https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125199,
+      "name": "Bad Girls",
+      "url": "https://open.spotify.com/track/2M2mxEsoQpXXUujuxxBayv"
     },
     {
       "album": {
@@ -6470,6 +6514,24 @@
       "duration_ms": 185515,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/4jRXoqeqFNxUI25ugusDyI"
+    },
+    {
+      "album": {
+        "name": "demonstrate",
+        "url": "https://open.spotify.com/album/07xSmIW4GxcUVyy5ms4R8O"
+      },
+      "artists": [
+        {
+          "name": "Dillon Nathaniel",
+          "url": "https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "demonstrate",
+      "url": "https://open.spotify.com/track/0KOSUCZlrE4dLI9ihZUeNl"
     },
     {
       "album": {
@@ -13273,6 +13335,24 @@
     },
     {
       "album": {
+        "name": "Keeper",
+        "url": "https://open.spotify.com/album/0kwpOGmAHpXoqIHtF7kTxZ"
+      },
+      "artists": [
+        {
+          "name": "PITCHBLACK",
+          "url": "https://open.spotify.com/artist/0BHh71bPCPBbZDDCb3jaHW"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204242,
+      "name": "Keeper",
+      "url": "https://open.spotify.com/track/0aZsySQ0iYcpyihLTqV3ky"
+    },
+    {
+      "album": {
         "name": "Kick Back",
         "url": "https://open.spotify.com/album/1XoH6YumavGj8NIFaiqJET"
       },
@@ -15558,7 +15638,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 182769,
       "name": "Money",
       "url": "https://open.spotify.com/track/6knUAhlX1RZlMe9RtTjXbF"
@@ -16926,7 +17006,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 182325,
       "name": "No Matter",
       "url": "https://open.spotify.com/track/5aGV1AMq9BsUVZZAJmtGGY"
@@ -18203,6 +18283,24 @@
     },
     {
       "album": {
+        "name": "Overload",
+        "url": "https://open.spotify.com/album/3JWQRkOq3bodo8Rcy9xPiu"
+      },
+      "artists": [
+        {
+          "name": "Sikdope",
+          "url": "https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135652,
+      "name": "Overload",
+      "url": "https://open.spotify.com/track/5m7BovDgHbS2enUXCl7Y0I"
+    },
+    {
+      "album": {
         "name": "Overthinkin'",
         "url": "https://open.spotify.com/album/5uTmgjfsvn20jTcVrInbyH"
       },
@@ -18356,7 +18454,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 128695,
       "name": "PARTY",
       "url": "https://open.spotify.com/track/7JjY69WrRWHtY09Wn9V1tv"
@@ -22587,6 +22685,28 @@
     },
     {
       "album": {
+        "name": "SUMN",
+        "url": "https://open.spotify.com/album/6IffQ8QLvHpA80ZzpNxX97"
+      },
+      "artists": [
+        {
+          "name": "Proppa",
+          "url": "https://open.spotify.com/artist/6h9guyYUhKLeDhyUVoOE68"
+        },
+        {
+          "name": "Smith & Sorren",
+          "url": "https://open.spotify.com/artist/0jr9KCoFLBpa8KJL0jRn3A"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191826,
+      "name": "SUMN",
+      "url": "https://open.spotify.com/track/6gGJOLlROg001ZMV1C7gw9"
+    },
+    {
+      "album": {
         "name": "Sun Sala",
         "url": "https://open.spotify.com/album/0ui5GXWvFCTFsju8X8mYr9"
       },
@@ -22620,7 +22740,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 212307,
       "name": "Sundown",
       "url": "https://open.spotify.com/track/0KPzrGrj334ZLQh9aNft7L"
@@ -22872,7 +22992,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 207425,
       "name": "Sweating",
       "url": "https://open.spotify.com/track/2KBwVJtziqVgNRTPUPQ6Zc"
@@ -24942,7 +25062,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 132727,
       "name": "Trilla",
       "url": "https://open.spotify.com/track/7IMOvDjKZVfzYkkoZNUhGO"

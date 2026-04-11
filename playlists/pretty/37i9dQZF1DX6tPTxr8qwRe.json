@@ -1,12 +1,12 @@
 {
   "description": "sweet. sharp. unbothered - Magi Merlin on the cover",
-  "num_followers": 526210,
+  "num_followers": 526198,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALZFlotcsJG7h4wTYuOYN3b6sLR4",
+  "snapshot_id": "AAAAAFh8n9Lms7hcAUJE/Zj8Xnc64ev+",
   "tracks": [
     {
       "added_at": "2026-04-03 04:02:22",
@@ -57,6 +57,22 @@
       "url": "https://open.spotify.com/track/1vcs1gEv6TYKqlPHx0WwsC"
     },
     {
+      "added_at": "2026-04-10 04:39:40",
+      "album": {
+        "name": "Bedroom Confessional",
+        "url": "https://open.spotify.com/album/3C82D8gF0h9fftYwIFdvcn"
+      },
+      "artists": [
+        {
+          "name": "Ellise",
+          "url": "https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT"
+        }
+      ],
+      "duration_ms": 168292,
+      "name": "Liplock",
+      "url": "https://open.spotify.com/track/6QtPL3JS0S9dwQD8u8eDP8"
+    },
+    {
       "added_at": "2026-04-03 04:02:22",
       "album": {
         "name": "STARLET",
@@ -71,6 +87,22 @@
       "duration_ms": 159048,
       "name": "STARLET",
       "url": "https://open.spotify.com/track/7fRaZXWjyVuJX9vkzGv0Dw"
+    },
+    {
+      "added_at": "2026-04-10 04:39:40",
+      "album": {
+        "name": "Party girls don't cry",
+        "url": "https://open.spotify.com/album/7aC28BqlkgiN7SR54HXF8l"
+      },
+      "artists": [
+        {
+          "name": "Zoe Ko",
+          "url": "https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ"
+        }
+      ],
+      "duration_ms": 187289,
+      "name": "Party girls don't cry",
+      "url": "https://open.spotify.com/track/4HlsJHl0NgI6ogjBqp32On"
     },
     {
       "added_at": "2026-02-27 05:00:35",
@@ -89,6 +121,22 @@
       "url": "https://open.spotify.com/track/4YOpINlEvanckbfIAwsdkx"
     },
     {
+      "added_at": "2026-04-10 04:39:40",
+      "album": {
+        "name": "Pity Fuck",
+        "url": "https://open.spotify.com/album/7zvjE3yPzOjTKAiZ0u17FR"
+      },
+      "artists": [
+        {
+          "name": "James the Seventh",
+          "url": "https://open.spotify.com/artist/5faD9JxapMgSQjrFSZ2kSS"
+        }
+      ],
+      "duration_ms": 124500,
+      "name": "Pity Fuck",
+      "url": "https://open.spotify.com/track/0u67C8HvoitIvVAqOT7cSU"
+    },
+    {
       "added_at": "2026-03-13 04:00:47",
       "album": {
         "name": "Better Than a Man",
@@ -103,6 +151,22 @@
       "duration_ms": 184186,
       "name": "Better Than a Man",
       "url": "https://open.spotify.com/track/7dRrGnxYlWuaOukJRSlE2C"
+    },
+    {
+      "added_at": "2026-04-10 04:39:40",
+      "album": {
+        "name": "Tombstone",
+        "url": "https://open.spotify.com/album/1evZwJqReLrvbQIyPamqFs"
+      },
+      "artists": [
+        {
+          "name": "Neoni",
+          "url": "https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5"
+        }
+      ],
+      "duration_ms": 210659,
+      "name": "Tombstone",
+      "url": "https://open.spotify.com/track/5wRS72uvPwRMCY39ZzsGd3"
     },
     {
       "added_at": "2026-03-27 04:00:28",
@@ -309,22 +373,6 @@
       "url": "https://open.spotify.com/track/7bRwZhLnHe4i7X5MlIyBfV"
     },
     {
-      "added_at": "2026-03-13 04:00:47",
-      "album": {
-        "name": "Autopsy",
-        "url": "https://open.spotify.com/album/1X9f6a4VaPAj6XIDIzbLyN"
-      },
-      "artists": [
-        {
-          "name": "Neoni",
-          "url": "https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5"
-        }
-      ],
-      "duration_ms": 176202,
-      "name": "Autopsy",
-      "url": "https://open.spotify.com/track/0EKfkLIPkAqNTGUy6vwcQ0"
-    },
-    {
       "added_at": "2026-02-13 05:00:48",
       "album": {
         "name": "Who's That Calling?",
@@ -451,22 +499,6 @@
       "duration_ms": 194028,
       "name": "PAPERCUT",
       "url": "https://open.spotify.com/track/25AjbQVBqFYNsACWvMLI6h"
-    },
-    {
-      "added_at": "2026-02-13 06:23:02",
-      "album": {
-        "name": "Roses",
-        "url": "https://open.spotify.com/album/7f344b8eNMZmg03RcS22UI"
-      },
-      "artists": [
-        {
-          "name": "Neoni",
-          "url": "https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5"
-        }
-      ],
-      "duration_ms": 221714,
-      "name": "Roses",
-      "url": "https://open.spotify.com/track/6Qdt9g0GRRJxNdwGaCoiRf"
     },
     {
       "added_at": "2026-02-01 19:52:17",
@@ -791,42 +823,6 @@
       "duration_ms": 132244,
       "name": "UNHINGED",
       "url": "https://open.spotify.com/track/03pMmhhwBbSoUuKdGpj9PG"
-    },
-    {
-      "added_at": "2025-11-14 05:00:30",
-      "album": {
-        "name": "ALL I SAW WAS YOU (feat. Jessica Baio)",
-        "url": "https://open.spotify.com/album/4NgDWmNwmNjKXp3pppJjsp"
-      },
-      "artists": [
-        {
-          "name": "Johnny Huynh",
-          "url": "https://open.spotify.com/artist/7qX6R9NU7sWD66KLlYKnju"
-        },
-        {
-          "name": "Jessica Baio",
-          "url": "https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95"
-        }
-      ],
-      "duration_ms": 185506,
-      "name": "ALL I SAW WAS YOU (feat. Jessica Baio)",
-      "url": "https://open.spotify.com/track/4wheipzDTRRuxDeTfjeeDE"
-    },
-    {
-      "added_at": "2025-11-28 05:00:21",
-      "album": {
-        "name": "Mind Your Business",
-        "url": "https://open.spotify.com/album/2dhlHnt3QwDwlO1L68jZIu"
-      },
-      "artists": [
-        {
-          "name": "James the Seventh",
-          "url": "https://open.spotify.com/artist/5faD9JxapMgSQjrFSZ2kSS"
-        }
-      ],
-      "duration_ms": 124878,
-      "name": "Trauma Olympics",
-      "url": "https://open.spotify.com/track/1AEuq3M34uZQflOK68Dmhl"
     }
   ],
   "unique_name": "SALT",

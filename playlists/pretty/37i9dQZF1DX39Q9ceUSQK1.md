@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 
 > Nieuwe alternative & rock releases\. Cover: Muse
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,543 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,551 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 | 99 | [Outrun](https://open.spotify.com/track/3XjcRl7pAD7qXHVm8PRbrc) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Outrun](https://open.spotify.com/album/1fvSUnl38m7xy8eitaObBt) | 3:17 |
 | 100 | [Cloak](https://open.spotify.com/track/5SQ6Tt5jzScWAZujYky1vQ) | [thrilled](https://open.spotify.com/artist/2kY4Oq4jvXfIgNydqsEobW) | [Cloak](https://open.spotify.com/album/1kRxS1qR3Nnvo5xju5wZiu) | 3:26 |
 
-Snapshot ID: `AAAAAE5v7qzww6xZ1pehxTXsWQmYbqnR`
+Snapshot ID: `AAAAANZMuVyIWqd3O/5fieP2oyJpjlPV`

@@ -1,6 +1,6 @@
 {
   "description": "\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694. (A dazzling but very sad feeling. Enjoy the city pop music of Korean singers.)",
-  "num_followers": 63886,
+  "num_followers": 63905,
   "original_name": "\uc11c\uc6b8 \uc528\ud2f0\ud31d (Seoul City Pop)",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-04-09 05:27:56",
       "album": {
-        "name": "No tail to tell, Pt. 4 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/7DDtjiqvZI9c3TlSYaAdRN"
-      },
-      "artists": [
-        {
-          "name": "CHAERYEONG (ITZY)",
-          "url": "https://open.spotify.com/artist/73nPXEFs9tGCNmSOcqFHPs"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "Midnight Glow (No tail to tell : Original Television Soundtrack)",
-      "url": "https://open.spotify.com/track/2tJPh00tLndW3i8VTYXRMx"
-    },
-    {
-      "added_at": "2026-04-09 05:27:56",
-      "album": {
         "name": "Our love is great",
         "url": "https://open.spotify.com/album/3u7AUa79VCbxgikKvwlLyJ"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 224726,
       "name": "\uc9c0\ucf1c\uc904\uac8c",
       "url": "https://open.spotify.com/track/0FfGs47PNQ81c01ceX8kdL"
+    },
+    {
+      "added_at": "2026-04-09 05:27:56",
+      "album": {
+        "name": "No tail to tell, Pt. 4 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7DDtjiqvZI9c3TlSYaAdRN"
+      },
+      "artists": [
+        {
+          "name": "CHAERYEONG (ITZY)",
+          "url": "https://open.spotify.com/artist/73nPXEFs9tGCNmSOcqFHPs"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "Midnight Glow (No tail to tell : Original Television Soundtrack)",
+      "url": "https://open.spotify.com/track/2tJPh00tLndW3i8VTYXRMx"
     },
     {
       "added_at": "2026-04-09 05:27:56",
@@ -939,6 +939,22 @@
     {
       "added_at": "2026-04-09 05:27:56",
       "album": {
+        "name": "Love in TV World",
+        "url": "https://open.spotify.com/album/0xlWI9eLVuAkMEZqMpklOZ"
+      },
+      "artists": [
+        {
+          "name": "YUKIKA",
+          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
+        }
+      ],
+      "duration_ms": 243022,
+      "name": "Love in TV World",
+      "url": "https://open.spotify.com/track/71gxvSj62Daqer8F57b22C"
+    },
+    {
+      "added_at": "2026-04-09 05:27:56",
+      "album": {
         "name": "Aquarium",
         "url": "https://open.spotify.com/album/22QfrmF0MIxc9In6DWqF1v"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 223351,
       "name": "Haru (with meenoi)",
       "url": "https://open.spotify.com/track/7BQfXOQiDBvDr1tamfYwwT"
-    },
-    {
-      "added_at": "2026-04-09 05:27:56",
-      "album": {
-        "name": "Love in TV World",
-        "url": "https://open.spotify.com/album/0xlWI9eLVuAkMEZqMpklOZ"
-      },
-      "artists": [
-        {
-          "name": "YUKIKA",
-          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
-        }
-      ],
-      "duration_ms": 243022,
-      "name": "Love in TV World",
-      "url": "https://open.spotify.com/track/71gxvSj62Daqer8F57b22C"
     },
     {
       "added_at": "2026-04-09 05:27:56",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2026-04-09 05:27:56",
       "album": {
-        "name": "Lonely",
-        "url": "https://open.spotify.com/album/08HS95j5F5FTAVBBFXZ603"
-      },
-      "artists": [
-        {
-          "name": "KIM A REUM",
-          "url": "https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp"
-        }
-      ],
-      "duration_ms": 234856,
-      "name": "Line",
-      "url": "https://open.spotify.com/track/5nzNROKcMSGmtTsVHIg5tc"
-    },
-    {
-      "added_at": "2026-04-09 05:27:56",
-      "album": {
         "name": "Good Luck",
         "url": "https://open.spotify.com/album/1gWh6KvIx3OP9Blsd8RJIR"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 220000,
       "name": "Good Luck",
       "url": "https://open.spotify.com/track/5JUtZlWE1jYLNZJrnBUWYM"
+    },
+    {
+      "added_at": "2026-04-09 05:27:56",
+      "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/08HS95j5F5FTAVBBFXZ603"
+      },
+      "artists": [
+        {
+          "name": "KIM A REUM",
+          "url": "https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp"
+        }
+      ],
+      "duration_ms": 234856,
+      "name": "Line",
+      "url": "https://open.spotify.com/track/5nzNROKcMSGmtTsVHIg5tc"
     },
     {
       "added_at": "2026-04-09 05:27:56",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2026-04-09 05:27:56",
       "album": {
-        "name": "Rainbow note",
-        "url": "https://open.spotify.com/album/2pOvHZiXW7mYbeQaDRrZgp"
-      },
-      "artists": [
-        {
-          "name": "Rainbow note",
-          "url": "https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17"
-        }
-      ],
-      "duration_ms": 219666,
-      "name": "Cherry Blossom",
-      "url": "https://open.spotify.com/track/1nwQsE8hXTrrjjnTviT2qn"
-    },
-    {
-      "added_at": "2026-04-09 05:27:56",
-      "album": {
         "name": "Like Heaven",
         "url": "https://open.spotify.com/album/0yMqyNHhziFPZGLXo6StNi"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 209453,
       "name": "Like Heaven (Feat. Paul Blanco)",
       "url": "https://open.spotify.com/track/5VqfYiw615GoTJpkvzWPYm"
+    },
+    {
+      "added_at": "2026-04-09 05:27:56",
+      "album": {
+        "name": "Rainbow note",
+        "url": "https://open.spotify.com/album/2pOvHZiXW7mYbeQaDRrZgp"
+      },
+      "artists": [
+        {
+          "name": "Rainbow note",
+          "url": "https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17"
+        }
+      ],
+      "duration_ms": 219666,
+      "name": "Cherry Blossom",
+      "url": "https://open.spotify.com/track/1nwQsE8hXTrrjjnTviT2qn"
     },
     {
       "added_at": "2026-04-09 05:27:56",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2026-04-09 05:27:56",
       "album": {
-        "name": "Here, This Moment",
-        "url": "https://open.spotify.com/album/4NjnvUDqzaOVE5pLT5SSBl"
-      },
-      "artists": [
-        {
-          "name": "ARTLOVEU",
-          "url": "https://open.spotify.com/artist/3o93aoLsZL0csTtbotjJdO"
-        }
-      ],
-      "duration_ms": 226173,
-      "name": "Here, This Moment",
-      "url": "https://open.spotify.com/track/7sQmOXlFUZzlggFaRRG1C0"
-    },
-    {
-      "added_at": "2026-04-09 05:27:56",
-      "album": {
         "name": "TALK",
         "url": "https://open.spotify.com/album/3X2z54NV6Y6L97SjphwulR"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 203927,
       "name": "TALK",
       "url": "https://open.spotify.com/track/2nuPFwWsyyMBMGwEdnYVqv"
+    },
+    {
+      "added_at": "2026-04-09 05:27:56",
+      "album": {
+        "name": "Here, This Moment",
+        "url": "https://open.spotify.com/album/4NjnvUDqzaOVE5pLT5SSBl"
+      },
+      "artists": [
+        {
+          "name": "ARTLOVEU",
+          "url": "https://open.spotify.com/artist/3o93aoLsZL0csTtbotjJdO"
+        }
+      ],
+      "duration_ms": 226173,
+      "name": "Here, This Moment",
+      "url": "https://open.spotify.com/track/7sQmOXlFUZzlggFaRRG1C0"
     },
     {
       "added_at": "2026-04-09 05:27:56",

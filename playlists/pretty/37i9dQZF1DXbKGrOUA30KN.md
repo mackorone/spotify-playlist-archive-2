@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 
 > Deutschpop, der jetzt passiert\. Cover: Ivo Martin
 
-[Spotify](https://open.spotify.com/user/spotify) - 652,146 likes - 89 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 652,130 likes - 89 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 | 6 | [Fremd auf der Party](https://open.spotify.com/track/14nS9cqReJSA4ffb1Hhlek) | [Florian Künstler](https://open.spotify.com/artist/50ZzowkYhUZZ2uGZSXqJbE), [SOPHIA](https://open.spotify.com/artist/45wdSLZd70phdDkxlA5D3v) | [Fremd auf der Party](https://open.spotify.com/album/7tLJi5UQGEB5hAdMbBiijk) | 2:16 |
 | 7 | [Stolz auf dich](https://open.spotify.com/track/63DlZ36ns5cwDmPgeDXqjB) | [ENKAY](https://open.spotify.com/artist/3ZR4DKb6szzEmIavtFES5j) | [Stolz auf dich](https://open.spotify.com/album/7l4ntqUQwfmoocsbY5DDMB) | 3:07 |
 | 8 | [Keine Blumen ohne Regen](https://open.spotify.com/track/1CuRtjKTmtIlltHIDRsVRJ) | [Sportfreunde Stiller](https://open.spotify.com/artist/5PwcOudItUhq3ciF9QwaXZ) | [Keine Blumen ohne Regen](https://open.spotify.com/album/67n4gHUdfvk8daoE25WDBt) | 3:26 |
-| 9 | [Track 3](https://open.spotify.com/track/6MSFHB0Fwjlr1gWcRnjcat) | [Tom Twers](https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO) | [Mein Herz Kriegst Du Nicht](https://open.spotify.com/album/4mqDThnBYldj5Qh8XLrJ20) | 0:00 |
+| 9 | [Mein Herz Kriegst Du Nicht](https://open.spotify.com/track/6MSFHB0Fwjlr1gWcRnjcat) | [Tom Twers](https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO) | [Mein Herz Kriegst Du Nicht](https://open.spotify.com/album/4mqDThnBYldj5Qh8XLrJ20) | 2:01 |
 | 10 | [watch me](https://open.spotify.com/track/43HETwsBf1TLoiNUjh1D9a) | [DUEJA](https://open.spotify.com/artist/1QKx9HbmmkV4FgL2nkFVRl), [GWENDO](https://open.spotify.com/artist/3jiUj8e5dI5ByS6v5Car7I) | [watch me](https://open.spotify.com/album/7cGfQ7T20mmGgx0sCvsMuE) | 2:24 |
 | 11 | [Wenn du mich fragst](https://open.spotify.com/track/0qMoR2ZhKTy3YhaNHooZkP) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [Wenn du mich fragst](https://open.spotify.com/album/6l87GOu0euHJoyX4Klocvf) | 2:53 |
 | 12 | [du bist verliebt.](https://open.spotify.com/track/2ha8y1Y6vQSGEgR5fpJEjn) | [Luca Noel](https://open.spotify.com/artist/2fgVPd8uD6O3GdNbJqp7Kw) | [du bist verliebt.](https://open.spotify.com/album/0uvG7zIopTY9HK0chARJWx) | 2:59 |

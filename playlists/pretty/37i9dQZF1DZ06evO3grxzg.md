@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3grxzg.md) - [plain]
 
 > This is Danna Paola\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,905 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,901 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3grxzg.md) - [plain]
 | 31 | [Azul Como El Cielo](https://open.spotify.com/track/4VcZEDgmzHll1eKhY8OzyW) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Tatiana](https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0) | [Amy La Niña De La Mochila Azul Vol.1](https://open.spotify.com/album/2ERfJwem9i66Ax0b1is8Iw) | 3:36 |
 | 32 | [Quiero, Quiero](https://open.spotify.com/track/1x9JnlRBGxftp0okw81go2) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Las Divinas](https://open.spotify.com/artist/5GsCDlhZrJrmJi3EaSS5oY), [Las Populares](https://open.spotify.com/artist/2DUNKEtgbgyBJA7TdX3bcX), [Los Klasicos](https://open.spotify.com/artist/3zE35VTA8dJXtbx8YTHzBq), [Los Basikos](https://open.spotify.com/artist/2tDH13R8KOOQlWh3qnNOC2) | [Atrévete A Soñar](https://open.spotify.com/album/571Z1f9GtauZi0OmKUyPu6) | 2:38 |
 | 33 | [Rescue Me \- From The Original Television Soundtrack Blade Runner Black Lotus](https://open.spotify.com/track/6FdTVq8ly0NVSli7Xl9z2p) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Rescue Me \(From The Original Television Soundtrack Blade Runner Black Lotus\)](https://open.spotify.com/album/5by805i64TKLSsy47zjlP0) | 2:52 |
-| 34 | [Yo Soy Tu Amigo Fiel](https://open.spotify.com/track/7nWhw9snsn5PLstV1Wz7Qm) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Aleks Syntek](https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi) | [Yo Soy Tu Amigo Fiel](https://open.spotify.com/album/30qjYHHwMXn7fiUKJcEwYn) | 3:03 |
+| 34 | [Sodio](https://open.spotify.com/track/4TI2V6ACdHe4226vMiBqTj) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Pop Latino 2000](https://open.spotify.com/album/5513pgTeV3Uf6FlcWJWonP) | 3:07 |
 | 35 | [Es Mejor](https://open.spotify.com/track/6qkkJK72CeO1SQ17WnHNdk) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Las Populares](https://open.spotify.com/artist/2DUNKEtgbgyBJA7TdX3bcX) | [Atrevete A Soñar \(Original Sountrack\)](https://open.spotify.com/album/2xxdR4FrSukKWJ18NuKfgu) | 3:04 |
-| 36 | [Sodio](https://open.spotify.com/track/4TI2V6ACdHe4226vMiBqTj) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Pop Latino 2000](https://open.spotify.com/album/5513pgTeV3Uf6FlcWJWonP) | 3:07 |
+| 36 | [Yo Soy Tu Amigo Fiel](https://open.spotify.com/track/7nWhw9snsn5PLstV1Wz7Qm) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Aleks Syntek](https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi) | [Yo Soy Tu Amigo Fiel](https://open.spotify.com/album/30qjYHHwMXn7fiUKJcEwYn) | 3:03 |
 | 37 | [Hot Pops](https://open.spotify.com/track/3d0YUGL40ceqwNHTtVhlGk) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Las Populares](https://open.spotify.com/artist/2DUNKEtgbgyBJA7TdX3bcX) | [Atrévete A Soñar 2](https://open.spotify.com/album/12ZHvtCWmZqtud4TndhrSS) | 3:17 |
 | 38 | [El Primer Día Sin Ti \- En Vivo](https://open.spotify.com/track/40w6JzoJOApngC6wthJ0hN) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Atrévete A Soñar El Concierto \(En Vivo\)](https://open.spotify.com/album/4d5Xe8H0v3QQuYhjZNEno1) | 3:56 |
 | 39 | [Everything](https://open.spotify.com/track/0fx9L2QDi387TQQOVnm91O) | [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [NASRI](https://open.spotify.com/artist/7uQh7z7DSuo5DSDLenv1hz) | [La Movida](https://open.spotify.com/album/7JX96Ff9zr74IvC1qGyBvM) | 3:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3grxzg.md) - [plain]
 | 49 | [Amy, Amy](https://open.spotify.com/track/4SMV74Nn98m9GcVJRq5co1) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Amy La Niña De La Mochila Azul Vol.1](https://open.spotify.com/album/2ERfJwem9i66Ax0b1is8Iw) | 2:03 |
 | 50 | [Mi Capitan](https://open.spotify.com/track/6AfN38ELK3MZVOCoDebg44) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Amy La Niña De La Mochila Azul Vol.1](https://open.spotify.com/album/2ERfJwem9i66Ax0b1is8Iw) | 2:44 |
 
-Snapshot ID: `adWagAAAAAD1dEi3RTsYJW69Occ26XVb`
+Snapshot ID: `adbsAAAAAABjy4lXSJpgFVngQZ/BCrcK`

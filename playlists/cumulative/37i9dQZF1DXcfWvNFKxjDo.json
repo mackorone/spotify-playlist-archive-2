@@ -32655,6 +32655,28 @@
     },
     {
       "album": {
+        "name": "Eternity",
+        "url": "https://open.spotify.com/album/13814OJAvkb5EqrCaUdL0B"
+      },
+      "artists": [
+        {
+          "name": "Paul Keen",
+          "url": "https://open.spotify.com/artist/4pDTUbU3HuTpPwm1jjS0iF"
+        },
+        {
+          "name": "Aquagen",
+          "url": "https://open.spotify.com/artist/7ulta4AVH43iWAIh2rhWve"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212129,
+      "name": "Eternity",
+      "url": "https://open.spotify.com/track/5DPfyoYlT2GECW6phwhdGl"
+    },
+    {
+      "album": {
         "name": "Eternity Tonight",
         "url": "https://open.spotify.com/album/2oJo9sxoWETcd6Lrr3QSqA"
       },
@@ -54829,6 +54851,28 @@
     },
     {
       "album": {
+        "name": "CREATE DESTROY EP",
+        "url": "https://open.spotify.com/album/5dzSvJU1lvVL18gkwr9t9V"
+      },
+      "artists": [
+        {
+          "name": "240 KM/H",
+          "url": "https://open.spotify.com/artist/6sP8BgPjledPTxx2YJkliQ"
+        },
+        {
+          "name": "AK SPORTS",
+          "url": "https://open.spotify.com/artist/7qiOBa5jCbTeyLY2Chw9ju"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181666,
+      "name": "ILLA KILLA",
+      "url": "https://open.spotify.com/track/0SDDi2StqAtbZWkVVwSko5"
+    },
+    {
+      "album": {
         "name": "Illusion",
         "url": "https://open.spotify.com/album/5vfu9E9F4kBCq0AlfdquSF"
       },
@@ -55300,6 +55344,32 @@
       "duration_ms": 111901,
       "name": "In Meinem Kopf (Utz Utz)",
       "url": "https://open.spotify.com/track/7rEHRMLKHkMjOkgCOKJVb4"
+    },
+    {
+      "album": {
+        "name": "In My Arms",
+        "url": "https://open.spotify.com/album/0yefvRvARZrnHwWIUvEYxv"
+      },
+      "artists": [
+        {
+          "name": "AVALAN ROKSTON",
+          "url": "https://open.spotify.com/artist/3WqiBOiSB2FlD25EX9893G"
+        },
+        {
+          "name": "Avalan",
+          "url": "https://open.spotify.com/artist/13v2M5UZ3bbOCGmuvo7uFw"
+        },
+        {
+          "name": "Rokston",
+          "url": "https://open.spotify.com/artist/5XWSzLJ3W6zr7Hf1XhNvPP"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183380,
+      "name": "In My Arms",
+      "url": "https://open.spotify.com/track/1W2P2uJWNwyDw0tEOEOdGD"
     },
     {
       "album": {
@@ -74570,6 +74640,28 @@
       "duration_ms": 193658,
       "name": "Moon",
       "url": "https://open.spotify.com/track/6D8NhLlyVPps9aqLrJJ1Ut"
+    },
+    {
+      "album": {
+        "name": "Moon And Back",
+        "url": "https://open.spotify.com/album/0dOt8bZuT1r9sqOxBiEoyx"
+      },
+      "artists": [
+        {
+          "name": "MaWayy",
+          "url": "https://open.spotify.com/artist/6p6hgLendP25D8QRQINsPp"
+        },
+        {
+          "name": "Wagathoni",
+          "url": "https://open.spotify.com/artist/4pSHFpfi0gyBuvPsb93UyY"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Moon And Back",
+      "url": "https://open.spotify.com/track/1oWgxKqMRdTEMna4ny7Sls"
     },
     {
       "album": {
@@ -115327,24 +115419,6 @@
     },
     {
       "album": {
-        "name": "CREATE DESTROY EP",
-        "url": "https://open.spotify.com/album/5dzSvJU1lvVL18gkwr9t9V"
-      },
-      "artists": [
-        {
-          "name": "240 KM/H",
-          "url": "https://open.spotify.com/artist/6sP8BgPjledPTxx2YJkliQ"
-        }
-      ],
-      "date_added": "2026-04-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/0SDDi2StqAtbZWkVVwSko5"
-    },
-    {
-      "album": {
         "name": "Traffic Lights",
         "url": "https://open.spotify.com/album/2i62S40RzXinIWM0I1fFhB"
       },
@@ -117968,6 +118042,10 @@
         {
           "name": "Olive Anguz",
           "url": "https://open.spotify.com/artist/3d0AuH83bH58zFUU7Z1hMk"
+        },
+        {
+          "name": "Project Zeitgeist",
+          "url": "https://open.spotify.com/artist/6Fryg7OCCsApuKUvkcGVg3"
         }
       ],
       "date_added": "2026-04-09",

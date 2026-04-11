@@ -1,13 +1,29 @@
 {
-  "description": "R&B of the moment by the artists of the future. Cover: TheARTI$t",
-  "num_followers": 58982,
+  "description": "R&B of the moment by the artists of the future. Cover: James Savage",
+  "num_followers": 58992,
   "original_name": "R&B Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPtutcRzM96y9Ie5CJkimAdo8LJO",
+  "snapshot_id": "AAAAAI5HS6Hj9aIg+I87VYd/uAx8eQqW",
   "tracks": [
+    {
+      "added_at": "2026-04-10 05:59:36",
+      "album": {
+        "name": "100 Years",
+        "url": "https://open.spotify.com/album/1cV9ozXqqcJFyhPAIBRGyw"
+      },
+      "artists": [
+        {
+          "name": "James Savage",
+          "url": "https://open.spotify.com/artist/0NJU41dLwF6OcBPRZwhAV5"
+        }
+      ],
+      "duration_ms": 234398,
+      "name": "100 Years",
+      "url": "https://open.spotify.com/track/3uDh0n0ReOkofTm8zdg1EN"
+    },
     {
       "added_at": "2026-04-03 06:54:20",
       "album": {
@@ -23,6 +39,106 @@
       "duration_ms": 153654,
       "name": "S.I.M.P.L.E",
       "url": "https://open.spotify.com/track/4QMudMqweLaXJHECiRc5bb"
+    },
+    {
+      "added_at": "2026-03-13 04:59:14",
+      "album": {
+        "name": "Your Loss",
+        "url": "https://open.spotify.com/album/17mADs2eZlI3km58xIvyN0"
+      },
+      "artists": [
+        {
+          "name": "REMI",
+          "url": "https://open.spotify.com/artist/3PUx0uCbZYqKpipQ7CqGq2"
+        }
+      ],
+      "duration_ms": 193100,
+      "name": "Your Loss",
+      "url": "https://open.spotify.com/track/1JQBKgAqvQ16UrJh5zeZ49"
+    },
+    {
+      "added_at": "2026-04-10 05:59:36",
+      "album": {
+        "name": "Mr. Lovebomb",
+        "url": "https://open.spotify.com/album/6P5iNEDyHXsLhL781CJFyZ"
+      },
+      "artists": [
+        {
+          "name": "Isaia Huron",
+          "url": "https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6"
+        }
+      ],
+      "duration_ms": 227317,
+      "name": "side slider",
+      "url": "https://open.spotify.com/track/2O3zj9sxh8NcurUYDGfduH"
+    },
+    {
+      "added_at": "2026-04-03 06:54:20",
+      "album": {
+        "name": "At Least She's Beautiful",
+        "url": "https://open.spotify.com/album/1vf84Ai74VCCS3PGiKiHVT"
+      },
+      "artists": [
+        {
+          "name": "rjtheweirdo",
+          "url": "https://open.spotify.com/artist/5XWVWbQiBVEEXZSFyEsUcW"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "At Least She's Beautiful",
+      "url": "https://open.spotify.com/track/4jvRnPkFE4752PQjZH2dlu"
+    },
+    {
+      "added_at": "2026-04-10 05:59:36",
+      "album": {
+        "name": "Miss Michigan",
+        "url": "https://open.spotify.com/album/403xK3xBydTLfaBxctsZ2X"
+      },
+      "artists": [
+        {
+          "name": "Momo Boyd",
+          "url": "https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd"
+        },
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "duration_ms": 146738,
+      "name": "Oops",
+      "url": "https://open.spotify.com/track/5HUqlNEKgLwBiPfpK9wBaX"
+    },
+    {
+      "added_at": "2026-04-10 05:59:36",
+      "album": {
+        "name": "stuck",
+        "url": "https://open.spotify.com/album/2WQhpOLkmPLPgrcBYjWmRK"
+      },
+      "artists": [
+        {
+          "name": "Saint Harison",
+          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
+        }
+      ],
+      "duration_ms": 161334,
+      "name": "stuck",
+      "url": "https://open.spotify.com/track/1nEzZ4l1LYmmaDNgWNzVCG"
+    },
+    {
+      "added_at": "2026-04-03 06:54:20",
+      "album": {
+        "name": "Be Mine",
+        "url": "https://open.spotify.com/album/6lE5eBQJ3y2MD2ajSaEwPN"
+      },
+      "artists": [
+        {
+          "name": "2BYG",
+          "url": "https://open.spotify.com/artist/4G6aMODE9CTOZyZ9S39DUE"
+        }
+      ],
+      "duration_ms": 272357,
+      "name": "Be Mine",
+      "url": "https://open.spotify.com/track/62bd8QptwXeiU2JBioycbI"
     },
     {
       "added_at": "2026-03-06 05:00:29",
@@ -45,6 +161,54 @@
       "url": "https://open.spotify.com/track/0Ck2PwCeW99bcyn4ZD3Uvr"
     },
     {
+      "added_at": "2026-04-10 05:59:36",
+      "album": {
+        "name": "Talk You Through It",
+        "url": "https://open.spotify.com/album/1asusosFcXFlJh4fhlBUg9"
+      },
+      "artists": [
+        {
+          "name": "Kenyon Dixon",
+          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
+        }
+      ],
+      "duration_ms": 213367,
+      "name": "Talk You Through It",
+      "url": "https://open.spotify.com/track/3mzxUmddRU18xFwnLs02hw"
+    },
+    {
+      "added_at": "2026-04-03 06:54:20",
+      "album": {
+        "name": "I Want You Back",
+        "url": "https://open.spotify.com/album/0RduEW1uFQjiR2J25MmG3H"
+      },
+      "artists": [
+        {
+          "name": "Johnny Venus",
+          "url": "https://open.spotify.com/artist/4Y9QKWtGSeL2NnVokmWAvz"
+        }
+      ],
+      "duration_ms": 198720,
+      "name": "I Want You Back",
+      "url": "https://open.spotify.com/track/2uT340YoNU82MQmG7fgKk0"
+    },
+    {
+      "added_at": "2026-04-10 05:59:36",
+      "album": {
+        "name": "Endure",
+        "url": "https://open.spotify.com/album/6lpdTIbwNSEqFITKjNqb5S"
+      },
+      "artists": [
+        {
+          "name": "Chuka, The Destroyer",
+          "url": "https://open.spotify.com/artist/1rmBzSI2l5MUhr4CIHHPys"
+        }
+      ],
+      "duration_ms": 172571,
+      "name": "Endure",
+      "url": "https://open.spotify.com/track/5HoTh3edTpbvLIkTvJwcPA"
+    },
+    {
       "added_at": "2026-04-03 06:54:20",
       "album": {
         "name": "For All The Right Reasons Vol. 1",
@@ -61,22 +225,6 @@
       "url": "https://open.spotify.com/track/5havOQ4fTGftcDsg4LyWKc"
     },
     {
-      "added_at": "2026-03-13 04:59:14",
-      "album": {
-        "name": "Your Loss",
-        "url": "https://open.spotify.com/album/17mADs2eZlI3km58xIvyN0"
-      },
-      "artists": [
-        {
-          "name": "REMI",
-          "url": "https://open.spotify.com/artist/3PUx0uCbZYqKpipQ7CqGq2"
-        }
-      ],
-      "duration_ms": 193100,
-      "name": "Your Loss",
-      "url": "https://open.spotify.com/track/1JQBKgAqvQ16UrJh5zeZ49"
-    },
-    {
       "added_at": "2026-04-03 06:54:20",
       "album": {
         "name": "LUber",
@@ -91,38 +239,6 @@
       "duration_ms": 233320,
       "name": "LUber",
       "url": "https://open.spotify.com/track/08xEJQb6PB0vxxEpdlhT0o"
-    },
-    {
-      "added_at": "2026-04-03 06:54:20",
-      "album": {
-        "name": "Be Mine",
-        "url": "https://open.spotify.com/album/6lE5eBQJ3y2MD2ajSaEwPN"
-      },
-      "artists": [
-        {
-          "name": "2BYG",
-          "url": "https://open.spotify.com/artist/4G6aMODE9CTOZyZ9S39DUE"
-        }
-      ],
-      "duration_ms": 272357,
-      "name": "Be Mine",
-      "url": "https://open.spotify.com/track/62bd8QptwXeiU2JBioycbI"
-    },
-    {
-      "added_at": "2026-04-03 06:54:20",
-      "album": {
-        "name": "At Least She's Beautiful",
-        "url": "https://open.spotify.com/album/1vf84Ai74VCCS3PGiKiHVT"
-      },
-      "artists": [
-        {
-          "name": "rjtheweirdo",
-          "url": "https://open.spotify.com/artist/5XWVWbQiBVEEXZSFyEsUcW"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "At Least She's Beautiful",
-      "url": "https://open.spotify.com/track/4jvRnPkFE4752PQjZH2dlu"
     },
     {
       "added_at": "2026-04-03 06:54:20",
@@ -209,6 +325,26 @@
       "url": "https://open.spotify.com/track/2tuUWtr4zhmkFy2C8vViv0"
     },
     {
+      "added_at": "2026-04-10 05:59:36",
+      "album": {
+        "name": "July",
+        "url": "https://open.spotify.com/album/3sbAIbwlBjdUt1GD1iteHO"
+      },
+      "artists": [
+        {
+          "name": "Wesley Joseph",
+          "url": "https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 152493,
+      "name": "July",
+      "url": "https://open.spotify.com/track/6LzxjnLFFlk639Xw43MDB9"
+    },
+    {
       "added_at": "2026-04-03 06:54:20",
       "album": {
         "name": "I Love You Out Loud",
@@ -225,6 +361,22 @@
       "url": "https://open.spotify.com/track/7svayygEZXPdOBQ2MoH2ZP"
     },
     {
+      "added_at": "2026-04-10 05:59:36",
+      "album": {
+        "name": "Let's Talk",
+        "url": "https://open.spotify.com/album/5eY6JQjfTDgYLuBeJZmByT"
+      },
+      "artists": [
+        {
+          "name": "REMI",
+          "url": "https://open.spotify.com/artist/3PUx0uCbZYqKpipQ7CqGq2"
+        }
+      ],
+      "duration_ms": 166825,
+      "name": "Let's Talk",
+      "url": "https://open.spotify.com/track/6z0JUGjnqG1Ge4BfL50Y6D"
+    },
+    {
       "added_at": "2026-04-03 06:54:20",
       "album": {
         "name": "Hard Day's Night",
@@ -239,22 +391,6 @@
       "duration_ms": 170710,
       "name": "Hard Day's Night",
       "url": "https://open.spotify.com/track/70TAloW3Kred2y77UWysU9"
-    },
-    {
-      "added_at": "2026-04-03 06:54:20",
-      "album": {
-        "name": "I Want You Back",
-        "url": "https://open.spotify.com/album/0RduEW1uFQjiR2J25MmG3H"
-      },
-      "artists": [
-        {
-          "name": "Johnny Venus",
-          "url": "https://open.spotify.com/artist/4Y9QKWtGSeL2NnVokmWAvz"
-        }
-      ],
-      "duration_ms": 198720,
-      "name": "I Want You Back",
-      "url": "https://open.spotify.com/track/2uT340YoNU82MQmG7fgKk0"
     },
     {
       "added_at": "2026-03-27 05:45:45",
@@ -1649,22 +1785,6 @@
       "url": "https://open.spotify.com/track/2XX9DsMkC1KSECUs6WGUxd"
     },
     {
-      "added_at": "2025-11-21 06:25:10",
-      "album": {
-        "name": "She",
-        "url": "https://open.spotify.com/album/2bQgSIFWTdcBZngvgSzIo0"
-      },
-      "artists": [
-        {
-          "name": "Ambr\u00e9",
-          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
-        }
-      ],
-      "duration_ms": 156586,
-      "name": "She",
-      "url": "https://open.spotify.com/track/1fsHjzB9BSe2pSt0YTuKAL"
-    },
-    {
       "added_at": "2026-01-16 05:00:39",
       "album": {
         "name": "NOTHING IS REAL",
@@ -2365,22 +2485,6 @@
       "url": "https://open.spotify.com/track/7r5vzUiBPrYlfGjkdnj1MX"
     },
     {
-      "added_at": "2025-11-14 09:43:17",
-      "album": {
-        "name": "In A World We Don't Belong (Pt.1)",
-        "url": "https://open.spotify.com/album/2qmKexam2hulUGtbFkOPO6"
-      },
-      "artists": [
-        {
-          "name": "Sekou",
-          "url": "https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c"
-        }
-      ],
-      "duration_ms": 176054,
-      "name": "Love Language",
-      "url": "https://open.spotify.com/track/0mZtuc61VpzJ10Rl4p8kT4"
-    },
-    {
       "added_at": "2025-11-21 06:25:10",
       "album": {
         "name": "SMN",
@@ -2431,22 +2535,6 @@
       "duration_ms": 186122,
       "name": "EmptyBaggage",
       "url": "https://open.spotify.com/track/6OGhk6MEWCVhmxYcM9Vuo2"
-    },
-    {
-      "added_at": "2025-11-07 06:29:18",
-      "album": {
-        "name": "The Yearbook",
-        "url": "https://open.spotify.com/album/38dWJqN6jGg7tjRoRjJxbL"
-      },
-      "artists": [
-        {
-          "name": "2BYG",
-          "url": "https://open.spotify.com/artist/4G6aMODE9CTOZyZ9S39DUE"
-        }
-      ],
-      "duration_ms": 150052,
-      "name": "Wassup",
-      "url": "https://open.spotify.com/track/6v2lyOmuIapLkMpEQU1qEN"
     },
     {
       "added_at": "2025-10-10 06:44:24",
@@ -2551,22 +2639,6 @@
     {
       "added_at": "2025-10-24 04:10:35",
       "album": {
-        "name": "Want This To Happen",
-        "url": "https://open.spotify.com/album/2SqJTjTEjaOQlbnE5WiXzG"
-      },
-      "artists": [
-        {
-          "name": "Jastin Martin",
-          "url": "https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1"
-        }
-      ],
-      "duration_ms": 149268,
-      "name": "Want This To Happen",
-      "url": "https://open.spotify.com/track/4uhXhiL0HXTqcaDo8coW18"
-    },
-    {
-      "added_at": "2025-10-24 04:10:35",
-      "album": {
         "name": "Your Love Alone",
         "url": "https://open.spotify.com/album/7BFan5rcLDciZ1e2S49rSs"
       },
@@ -2663,122 +2735,6 @@
       "duration_ms": 162206,
       "name": "I'm Still",
       "url": "https://open.spotify.com/track/3Hnz8f9G9HsbJL56vb6zJr"
-    },
-    {
-      "added_at": "2025-08-08 06:26:33",
-      "album": {
-        "name": "CRYSALIS",
-        "url": "https://open.spotify.com/album/18OM4kStC0UfGiJZcqePgX"
-      },
-      "artists": [
-        {
-          "name": "Jenevieve",
-          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
-        }
-      ],
-      "duration_ms": 194320,
-      "name": "Hvn High",
-      "url": "https://open.spotify.com/track/50MyWaqcAD0AQCq6Q2r4ad"
-    },
-    {
-      "added_at": "2025-08-01 06:03:37",
-      "album": {
-        "name": "Cotton Candy Blvd",
-        "url": "https://open.spotify.com/album/0CHhHnWNR8zfryYVqiQDLI"
-      },
-      "artists": [
-        {
-          "name": "India Shawn",
-          "url": "https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL"
-        },
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 192194,
-      "name": "Cotton Candy Blvd",
-      "url": "https://open.spotify.com/track/32fEvXFGD0OKJlRJ8Q9mzr"
-    },
-    {
-      "added_at": "2025-08-22 04:00:28",
-      "album": {
-        "name": "Slow It Down",
-        "url": "https://open.spotify.com/album/2mZH354sboDo4bgxMvkhi2"
-      },
-      "artists": [
-        {
-          "name": "Devon Culture",
-          "url": "https://open.spotify.com/artist/2mONg2kaCioOztZG7Rz5yc"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Slow It Down",
-      "url": "https://open.spotify.com/track/1bREWnpLbZCQcZ6oELXT9f"
-    },
-    {
-      "added_at": "2025-07-18 05:38:58",
-      "album": {
-        "name": "It's Me, Not You",
-        "url": "https://open.spotify.com/album/2rPy6g5DGQBsb7g96xXFGI"
-      },
-      "artists": [
-        {
-          "name": "JANE HANDCOCK",
-          "url": "https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD"
-        }
-      ],
-      "duration_ms": 282444,
-      "name": "Same Ol\u2019 Love",
-      "url": "https://open.spotify.com/track/2UJV3mMuthhYHRa4KgeMBo"
-    },
-    {
-      "added_at": "2025-08-01 06:03:37",
-      "album": {
-        "name": "CEDAR'S TAPE",
-        "url": "https://open.spotify.com/album/6Tu3Qz3GgYtPeZgVFpBYSJ"
-      },
-      "artists": [
-        {
-          "name": "greek",
-          "url": "https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY"
-        }
-      ],
-      "duration_ms": 189339,
-      "name": "ALIVE",
-      "url": "https://open.spotify.com/track/6cAcM7JD5GzNmmyPt7l8RY"
-    },
-    {
-      "added_at": "2025-07-11 07:07:07",
-      "album": {
-        "name": "FLUX",
-        "url": "https://open.spotify.com/album/6BMlVeL026upB5ad22ztJ9"
-      },
-      "artists": [
-        {
-          "name": "CARI",
-          "url": "https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35"
-        }
-      ],
-      "duration_ms": 125893,
-      "name": "Phuckups (Hold Me)",
-      "url": "https://open.spotify.com/track/1RXWR9vkTy3Py5zeylY8BQ"
-    },
-    {
-      "added_at": "2025-05-16 04:00:37",
-      "album": {
-        "name": "PROMISE",
-        "url": "https://open.spotify.com/album/7oWYUxwVjjoegzzbFGbLQV"
-      },
-      "artists": [
-        {
-          "name": "DAMEDAME*",
-          "url": "https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11"
-        }
-      ],
-      "duration_ms": 223738,
-      "name": "PROMISE",
-      "url": "https://open.spotify.com/track/7Fs6E2JVl6LthzLgFcrx4r"
     }
   ],
   "unique_name": "R&B Rising",

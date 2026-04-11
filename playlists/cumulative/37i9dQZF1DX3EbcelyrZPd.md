@@ -4,7 +4,7 @@
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Ibraah
 
-660 songs - 1 day 13 hr 33 min
+660 songs - 1 day 13 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -567,7 +567,6 @@
 | [Toroka \(feat\. Harmonize\)](https://open.spotify.com/track/31MN3z8m1u2fcd5q1zWrV2) | [Anjella](https://open.spotify.com/artist/1lcK1UQbscJsiUpPC69kls), [Harmonize](https://open.spotify.com/artist/64GTboisPoAt7HLgXLB6Yk) | [Toroka \(feat\. Harmonize\)](https://open.spotify.com/album/4h0DfQ52UCckHUf4khRyGX) | 3:19 | 2022-03-03 | 2022-10-08 |
 | [Toto \(feat\. Barnaba\)](https://open.spotify.com/track/29ZyUgbWQpQOoF0j9PPBiH) | [Nasha Travis](https://open.spotify.com/artist/12GFIGAtiAebsorhhWq7Fr), [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [Toto \(feat\. Barnaba\)](https://open.spotify.com/album/0j9QtYqhQwm5fcjgwFfK0A) | 3:39 | 2024-10-31 | 2025-02-21 |
 | [Totorimi \(feat\. Billnass\)](https://open.spotify.com/track/73y9Vj3ST8UfRj17wtCckA) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3), [Billnass](https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4) | [Totorimi \(feat\. Billnass\)](https://open.spotify.com/album/4jzgBHqnW6dwSdN7pURg5k) | 3:50 | 2024-09-27 | 2025-10-17 |
-| [Track 3](https://open.spotify.com/track/65kjHZwOyFP5ZM88XZrdfC) | [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe) | [PM](https://open.spotify.com/album/5jPZv395c02JpG6P2CfDBd) | 0:00 | 2026-04-09 |  |
 | [Tubariki](https://open.spotify.com/track/13mPOz1niVXYDOY1j8bXdx) | [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe), [Billnass](https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4), [Whozu](https://open.spotify.com/artist/1swMdo3gNazUp0Jao7AHy3) | [Tubariki](https://open.spotify.com/album/71HhXeZoBGEV9zgEYTEDnI) | 4:46 | 2024-07-04 | 2025-05-16 |
 | [Tucheze](https://open.spotify.com/track/02usEBrKS2uXxRKHoSkMxP) | [Abby Chams](https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8) | [Tucheze](https://open.spotify.com/album/0o9XMCv7eslk5hhMl7jlRR) | 2:55 | 2021-10-29 | 2022-02-11 |
 | [Tumetoka Mbali](https://open.spotify.com/track/1TUAO4gqLN8BNxXCzuDU2a) | [Bytar Beast](https://open.spotify.com/artist/5uCIQxTHZlW51VhsXAZ6P4), [Jaivah](https://open.spotify.com/artist/6MKLtjYnjCD7u87mPsvJo3) | [Tumetoka Mbali](https://open.spotify.com/album/1JoHFqwW9afic2StZ5kxZW) | 3:26 | 2024-10-03 | 2025-04-12 |
@@ -580,6 +579,7 @@
 | [Two](https://open.spotify.com/track/7L2rH4sJ94uom7MZxNybzr) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Two](https://open.spotify.com/album/1STmmjFUVBLJx2OcAvT5CX) | 3:33 | 2023-03-09 | 2023-05-05 |
 | [U & I](https://open.spotify.com/track/7eC2CHUQLTUCMoM4TJWlWS) | [Yacn](https://open.spotify.com/artist/1GJs903cqCxvcxyLoKTeDH) | [U & I](https://open.spotify.com/album/5w7M7I2kIAO2wkmjfQl9kh) | 2:26 | 2022-07-14 | 2022-10-08 |
 | [Ubuyu](https://open.spotify.com/track/1mU5xiFnlk7E8cMT5hV0u2) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Ubuyu](https://open.spotify.com/album/2bE5kJZMMkfcr3cPB5GV9V) | 3:47 | 2025-07-03 |  |
+| [Uhakika](https://open.spotify.com/track/65kjHZwOyFP5ZM88XZrdfC) | [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe) | [PM](https://open.spotify.com/album/5jPZv395c02JpG6P2CfDBd) | 3:31 | 2026-04-09 |  |
 | [Ujana](https://open.spotify.com/track/4aldg54TvCNPThgji8Syda) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Ujana](https://open.spotify.com/album/6z3OZUCoYCuYGnB3eru2nm) | 3:36 | 2024-08-15 | 2025-07-11 |
 | [Ukiniita](https://open.spotify.com/track/1a17ieOkzl7EYM93imiYqR) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK) | [Ukiniita](https://open.spotify.com/album/4jwiLihnEPa7w679H0F1Uq) | 3:32 | 2025-02-27 | 2025-09-20 |
 | [Uko Wapi](https://open.spotify.com/track/1j0UtHCxXqWzN43aPK1M64) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Ch'cco](https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1) | [Uko Wapi](https://open.spotify.com/album/2lv7GEEu2x3IhahukEp89E) | 4:58 | 2026-01-01 |  |

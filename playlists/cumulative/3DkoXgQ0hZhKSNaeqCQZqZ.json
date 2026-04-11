@@ -7907,6 +7907,24 @@
     },
     {
       "album": {
+        "name": "so easy",
+        "url": "https://open.spotify.com/album/0Qn3SgnRl4lTD3HjnTSP0a"
+      },
+      "artists": [
+        {
+          "name": "Jaylaflame",
+          "url": "https://open.spotify.com/artist/5UdUCGK24WtRFRcXyzxN6U"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123428,
+      "name": "so easy",
+      "url": "https://open.spotify.com/track/61uQSk7Sgr2J5vnO3U83Gj"
+    },
+    {
+      "album": {
         "name": "So Long",
         "url": "https://open.spotify.com/album/6UckHp9kYhvgynn2zSjXuz"
       },

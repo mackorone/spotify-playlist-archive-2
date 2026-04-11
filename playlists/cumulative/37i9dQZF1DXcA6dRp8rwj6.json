@@ -55567,6 +55567,24 @@
     },
     {
       "album": {
+        "name": "SKIN CARE",
+        "url": "https://open.spotify.com/album/6TuYkWjoeAaCZvTxdXiyPP"
+      },
+      "artists": [
+        {
+          "name": "Cochise",
+          "url": "https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130216,
+      "name": "SKIN CARE",
+      "url": "https://open.spotify.com/track/5w5l2JFEJNAGEf3nR8iaZY"
+    },
+    {
+      "album": {
         "name": "Skinny Ninja",
         "url": "https://open.spotify.com/album/38qo2xUzJiJesYkZLvr4P3"
       },

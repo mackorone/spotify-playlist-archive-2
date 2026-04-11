@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "30 \u015bwieczek",
+        "url": "https://open.spotify.com/album/5rpMTUT5XoIGOErLy9FoCL"
+      },
+      "artists": [
+        {
+          "name": "Magda Bereda",
+          "url": "https://open.spotify.com/artist/6NaOhgiHgKdbBk1SUaAt9d"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164689,
+      "name": "30 \u015bwieczek",
+      "url": "https://open.spotify.com/track/6JPSe4nKtRpz9a3uXf8X78"
+    },
+    {
+      "album": {
         "name": "5am",
         "url": "https://open.spotify.com/album/4bMW89opKwxPi1j09k4ipM"
       },
@@ -464,7 +482,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 187086,
       "name": "Beautiful People",
       "url": "https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W"
@@ -794,7 +812,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 148173,
       "name": "B\u0142\u0119kit",
       "url": "https://open.spotify.com/track/2MCf7Lv6OKjbozB5U1YdNC"
@@ -1000,7 +1018,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 153513,
       "name": "Co, je\u015bli?",
       "url": "https://open.spotify.com/track/0plgXTtOu4RJDf4nwzVPqr"
@@ -1435,6 +1453,28 @@
     },
     {
       "album": {
+        "name": "Dracula (Remix)",
+        "url": "https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209720,
+      "name": "Dracula - JENNIE Remix",
+      "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
+    },
+    {
+      "album": {
         "name": "Dramy",
         "url": "https://open.spotify.com/album/2V2mFKNecBrdFOrO7Wk9h1"
       },
@@ -1526,10 +1566,28 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 161724,
       "name": "Dziwna (feat. Artur Rojek)",
       "url": "https://open.spotify.com/track/4pscA7I0aNoAYs3z56EDGS"
+    },
+    {
+      "album": {
+        "name": "DZI\u015a SOBIE DAM",
+        "url": "https://open.spotify.com/album/2pqlWiXuaQM6gD05K2e3EP"
+      },
+      "artists": [
+        {
+          "name": "Julia Wieniawa",
+          "url": "https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167920,
+      "name": "DZI\u015a SOBIE DAM",
+      "url": "https://open.spotify.com/track/5xLyZIFsmew0xUhEJQYNJj"
     },
     {
       "album": {
@@ -2176,7 +2234,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-02",
+      "date_removed": null,
       "duration_ms": 165230,
       "name": "Hot!",
       "url": "https://open.spotify.com/track/3FEWfnYH4NG3iBsWySY3gh"
@@ -2468,7 +2526,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 206367,
       "name": "JESZCZE RAZ",
       "url": "https://open.spotify.com/track/2kmAL60P7mgqNtK87FfB9T"
@@ -2734,7 +2792,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 154285,
       "name": "La La Land",
       "url": "https://open.spotify.com/track/5SE3tk3UoQbEI2326L2WOC"
@@ -2930,7 +2988,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52"
@@ -3028,7 +3086,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 165586,
       "name": "mario",
       "url": "https://open.spotify.com/track/6aqgWYvzUhw53ZyaiHQiR9"
@@ -3196,7 +3254,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-23",
+      "date_removed": null,
       "duration_ms": 176842,
       "name": "Mi\u0142o\u015b\u0107",
       "url": "https://open.spotify.com/track/2YnL8a427pWbqpD0MaDqN8"
@@ -3512,6 +3570,28 @@
       "duration_ms": 165638,
       "name": "najgorsze restauracje",
       "url": "https://open.spotify.com/track/4zMKD8kgLfYwuZlzvGTqOJ"
+    },
+    {
+      "album": {
+        "name": "O MNIE I O TOBIE",
+        "url": "https://open.spotify.com/album/5o2mi1HkjYboeogG0SM2js"
+      },
+      "artists": [
+        {
+          "name": "Stach Bukowski",
+          "url": "https://open.spotify.com/artist/5w95yjTVzXm9Z630AT2QX3"
+        },
+        {
+          "name": "Zuta",
+          "url": "https://open.spotify.com/artist/4WsiLOvvpCEdV40Wg1kzui"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171621,
+      "name": "Najwi\u0119ksze przeboje",
+      "url": "https://open.spotify.com/track/56G54GySh5gWPMMY5KEv1n"
     },
     {
       "album": {
@@ -3990,7 +4070,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 186025,
       "name": "oczy",
       "url": "https://open.spotify.com/track/6RR6OorAd8bgGnTWwsKCdH"
@@ -4186,7 +4266,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 156025,
       "name": "Pali si\u0119 niebo",
       "url": "https://open.spotify.com/track/4tIcfOdcIaZAn3KnkJkXyh"
@@ -5011,6 +5091,24 @@
     },
     {
       "album": {
+        "name": "Big Disgrace",
+        "url": "https://open.spotify.com/album/3iyn2K7YlhKie8qrmUV6lS"
+      },
+      "artists": [
+        {
+          "name": "Haute & Freddy",
+          "url": "https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187658,
+      "name": "Shy Girl",
+      "url": "https://open.spotify.com/track/2LIOTreGvPk5GdpeGUqYIu"
+    },
+    {
+      "album": {
         "name": "Si Antes Te Hubiera Conocido",
         "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
       },
@@ -5210,7 +5308,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-17",
+      "date_removed": null,
       "duration_ms": 189834,
       "name": "Sp\u00f3jrz",
       "url": "https://open.spotify.com/track/5jdLq3kQMWC2W4Skf5y45e"
@@ -5272,10 +5370,28 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 187428,
       "name": "sticky rice",
       "url": "https://open.spotify.com/track/11pYSQjxJ57i6tsu1OIzOk"
+    },
+    {
+      "album": {
+        "name": "Stygnie lato",
+        "url": "https://open.spotify.com/album/2DGpH0QbyyUEZYRL88lQxn"
+      },
+      "artists": [
+        {
+          "name": "Kuba i Kuba",
+          "url": "https://open.spotify.com/artist/43i9C47bAIVm8jKgEKYPfh"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181846,
+      "name": "Stygnie lato",
+      "url": "https://open.spotify.com/track/4XeZLZoNzLd1fKxpLTEqE0"
     },
     {
       "album": {
@@ -6216,7 +6332,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-28",
+      "date_removed": null,
       "duration_ms": 181090,
       "name": "Wi\u0119cej nas",
       "url": "https://open.spotify.com/track/0pN5F4nvvnB2ZYb9AhKMJ4"
@@ -6524,6 +6640,24 @@
       "duration_ms": 250235,
       "name": "\u015arubka",
       "url": "https://open.spotify.com/track/42HCLyg66bqYWCPU3wqyMS"
+    },
+    {
+      "album": {
+        "name": "\u017bURAWIE",
+        "url": "https://open.spotify.com/album/5HjIBIK0vlq42Yzc4Mzm3t"
+      },
+      "artists": [
+        {
+          "name": "Barnim",
+          "url": "https://open.spotify.com/artist/4Bp6oWHVWsocBpnqFJP4Zj"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145533,
+      "name": "\u017bURAWIE",
+      "url": "https://open.spotify.com/track/1nT0822I7pQ2qISF80IWjo"
     },
     {
       "album": {

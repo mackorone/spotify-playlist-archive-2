@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,881 songs - 5 day 7 hr 47 min
+1,882 songs - 5 day 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -951,6 +951,7 @@
 | [LIFELINE](https://open.spotify.com/track/1DgDLr9M24s6EDdySEsQkh) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn), [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4) | [LIFELINE](https://open.spotify.com/album/1plQ1snsvRuNbQR7FbRpdo) | 3:26 | 2024-05-10 | 2025-01-28 |
 | [Lifted](https://open.spotify.com/track/52aTqJfaWWLIHSC3bCyjoU) | [Oliver Michael](https://open.spotify.com/artist/58Oe01uYw1nODV5DwGO14z), [Jako Diaz](https://open.spotify.com/artist/0N5xjvZDyBf8kGuYCBJNJz) | [Lifted](https://open.spotify.com/album/57HPihU8Vbc36hgYSqlFUh) | 3:15 | 2024-04-05 | 2024-04-11 |
 | [Light A Fire](https://open.spotify.com/track/47Ahlfj3ZRc1MRf7np0jaf) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw) | [Light A Fire](https://open.spotify.com/album/4j0tX0LsZGN3ZNtVAzGjBl) | 2:34 | 2022-05-20 | 2022-12-29 |
+| [Light in the Dark](https://open.spotify.com/track/4Ujt0vphNuVoXIaxkfKcwM) | [Nicky Elisabeth](https://open.spotify.com/artist/7nt1M2NuH98Fr9c69lscEE), [Nathan Ball](https://open.spotify.com/artist/5a1CkvrJSjRH8ZzWTMRsCd) | [Light in the Dark](https://open.spotify.com/album/0EBLHOBqzQAy27J7mBzaId) | 3:30 | 2026-04-09 |  |
 | [Light Of Day](https://open.spotify.com/track/58sa3HUZL71gpMB6XvhaUo) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Light Of Day](https://open.spotify.com/album/0pGNoq6y7AGjILfzDzOZbu) | 6:40 | 2022-07-15 | 2023-09-09 |
 | [Light Of Day \(feat\. Ólafur Arnalds\)](https://open.spotify.com/track/3yPd2RxNNcPwOV06zoexrv) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [The Last Goodbye](https://open.spotify.com/album/0xVucRYJf5luWLekMGYh3i) | 6:40 | 2022-08-26 | 2022-09-10 |
 | [Light The Sky \- Charming Horses Remix Edit](https://open.spotify.com/track/3vVSHKaJydgDRa2xysZ2aF) | [Dannic](https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc), [Airto](https://open.spotify.com/artist/7yyIIRJV6dklQEvISTzRjE), [Charming Horses](https://open.spotify.com/artist/5rr0CMtvn1p9Be8ICfkTc3) | [Light The Sky \(The Remixes\)](https://open.spotify.com/album/0UcPRLzOQhcfCELuOJeato) | 3:31 | 2020-05-18 | 2020-07-03 |
@@ -1235,7 +1236,7 @@
 | [Open End Resource \- Edit](https://open.spotify.com/track/1q6jmTW5FMClOIDLENy9vk) | [Andrew Bayer](https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8), [Alison May](https://open.spotify.com/artist/6jd3NCxzDeLS4wAO168T60) | [In My Last Life](https://open.spotify.com/album/3evqkO2utxZNNxnB2qSJLb) | 4:08 | 2020-03-17 | 2020-07-18 |
 | [Open End Resource \- Leaving Laurel Remix](https://open.spotify.com/track/1sPXaNS4HwQl4BXlXMT4Hc) | [Andrew Bayer](https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8), [Alison May](https://open.spotify.com/artist/6jd3NCxzDeLS4wAO168T60), [Leaving Laurel](https://open.spotify.com/artist/2Tz2klWNZNGyvOMr8gT98t) | [Open End Resource \(Leaving Laurel Remix\)](https://open.spotify.com/album/1groJUGzpBYT7d5v8730Kl) | 3:39 | 2020-06-12 | 2021-03-10 |
 | [Open Season \- Gryffin Remix](https://open.spotify.com/track/6tl2UhS1qsjGpmBXzGgXm2) | [Josef Salvat](https://open.spotify.com/artist/64PJHZDQTPPVBCdwnv22Wz), [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh) | [Open Season \(Gryffin Remix\)](https://open.spotify.com/album/6EDB4nfBAJpgRcvrnd2Fp0) | 4:00 | 2020-05-18 | 2020-07-03 |
-| [Open Up](https://open.spotify.com/track/241jde22heuHHDCAg5c1XQ) | [Fi Sullivan](https://open.spotify.com/artist/4Wvsgumh32s2wSMTZW7FMa) | [Open Up](https://open.spotify.com/album/1b98VnU74QHUYokRi42ALD) | 3:46 | 2026-02-20 |  |
+| [Open Up](https://open.spotify.com/track/241jde22heuHHDCAg5c1XQ) | [Fi Sullivan](https://open.spotify.com/artist/4Wvsgumh32s2wSMTZW7FMa) | [Open Up](https://open.spotify.com/album/1b98VnU74QHUYokRi42ALD) | 3:46 | 2026-02-20 | 2026-04-11 |
 | [Open Wide](https://open.spotify.com/track/6ElCRcBBpjkZe9QJbxrQhN) | [Ruben de Ronde](https://open.spotify.com/artist/3q7BRw9D1DupXTONJdr94m), [Donata](https://open.spotify.com/artist/6rC5q8dgyXjvNUICucB075) | [My Story](https://open.spotify.com/album/465u4dV2HXZrngosc6kUG1) | 3:34 | 2020-05-18 | 2020-07-03 |
 | [Orange](https://open.spotify.com/track/5O2bgRfJeajFE4yCksFjEb) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [The Great Esquape](https://open.spotify.com/album/75rkjSsJg4ubSqPCELSTwv) | 6:26 | 2020-05-22 | 2020-07-03 |
 | [orbit](https://open.spotify.com/track/0HFmccZuHdcYqn9A34MnMI) | [silvershore](https://open.spotify.com/artist/5ugiiDMswZlkI97yinhvEt), [Anki](https://open.spotify.com/artist/6IDgN356to8svgrWLUAIoC) | [orbit](https://open.spotify.com/album/4V23yXMJlkoqh8XxscaV5e) | 3:28 | 2022-06-10 | 2022-07-29 |

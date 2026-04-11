@@ -3929,6 +3929,24 @@
     },
     {
       "album": {
+        "name": "Close to the Moon",
+        "url": "https://open.spotify.com/album/7KqpLblII6Jyt0BLsUOM9v"
+      },
+      "artists": [
+        {
+          "name": "Jon Hahn",
+          "url": "https://open.spotify.com/artist/3zWZnYKBfaRBcVHbIFJclA"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110000,
+      "name": "Close to the Moon",
+      "url": "https://open.spotify.com/track/1HGmBoewYBerkqjZxtVPoa"
+    },
+    {
+      "album": {
         "name": "Close Together",
         "url": "https://open.spotify.com/album/3XlXwOJ9yHcMYrJ5nXKRhY"
       },
@@ -11158,7 +11176,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 131940,
       "name": "Little Lady Bird",
       "url": "https://open.spotify.com/track/6xOH1jKAX6XcMKR4w5XEy4"
@@ -12940,7 +12958,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 105954,
       "name": "My Best Friend",
       "url": "https://open.spotify.com/track/3jOUUhZ9la9yNijKxdXJwd"
@@ -21605,6 +21623,24 @@
     },
     {
       "album": {
+        "name": "Tiny Little Star",
+        "url": "https://open.spotify.com/album/7BZ2NP1QM7hNORRHJfenEI"
+      },
+      "artists": [
+        {
+          "name": "Nina Lui",
+          "url": "https://open.spotify.com/artist/0cZ208KiStu5C0RDGsQqfI"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114948,
+      "name": "Tiny Little Star",
+      "url": "https://open.spotify.com/track/3K1vOzFKeUXl82v2e0lSvw"
+    },
+    {
+      "album": {
         "name": "Tiny Thumbs",
         "url": "https://open.spotify.com/album/6TrniejTTSCkrM1AyFLbdH"
       },
@@ -22354,7 +22390,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 102545,
       "name": "Twinklepaws",
       "url": "https://open.spotify.com/track/7DxNaPj5FZrMrScOmYAdvp"
@@ -22520,6 +22556,24 @@
       "duration_ms": 126820,
       "name": "Under The Stars",
       "url": "https://open.spotify.com/track/0UrLq7AAYYmqPV2E1pvivm"
+    },
+    {
+      "album": {
+        "name": "Under the Twin Moons",
+        "url": "https://open.spotify.com/album/0AXPDG6ss3syrzMgnvHBNZ"
+      },
+      "artists": [
+        {
+          "name": "Franciscus Love",
+          "url": "https://open.spotify.com/artist/5rqMj8NroXxm0rH7yTo6TZ"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83660,
+      "name": "Under the Twin Moons",
+      "url": "https://open.spotify.com/track/2ev6sVtssGW1Piiw0rRxET"
     },
     {
       "album": {

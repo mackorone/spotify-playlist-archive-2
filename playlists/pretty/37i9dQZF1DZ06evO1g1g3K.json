@@ -1,12 +1,12 @@
 {
   "description": "This is Durand Bernarr. The essential tracks, all in one playlist.",
-  "num_followers": 6972,
+  "num_followers": 6976,
   "original_name": "This Is Durand Bernarr",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adWagAAAAADpL94Y1hUenOZVG5xOvMMV",
+  "snapshot_id": "adbsAAAAAABf+1NtnjECsP7M1o7dwyRj",
   "tracks": [
     {
       "added_at": null,
@@ -143,6 +143,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wild Ride",
+        "url": "https://open.spotify.com/album/3QjRU4e65hcwIBUYyX8zHY"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        },
+        {
+          "name": "James Fauntleroy",
+          "url": "https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT"
+        }
+      ],
+      "duration_ms": 221400,
+      "name": "Wild Ride",
+      "url": "https://open.spotify.com/track/41X89JT5axSqQYozs2op40"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "EP 8",
         "url": "https://open.spotify.com/album/5uerg4BPdbjGolQbku0DN4"
       },
@@ -179,26 +199,6 @@
       "duration_ms": 189813,
       "name": "Le D\u00e9part - Feat. Durand Bernarr",
       "url": "https://open.spotify.com/track/6xIMr6tWnD0B68hLDZ8wA4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wild Ride",
-        "url": "https://open.spotify.com/album/3QjRU4e65hcwIBUYyX8zHY"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        },
-        {
-          "name": "James Fauntleroy",
-          "url": "https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT"
-        }
-      ],
-      "duration_ms": 221400,
-      "name": "Wild Ride",
-      "url": "https://open.spotify.com/track/41X89JT5axSqQYozs2op40"
     },
     {
       "added_at": null,

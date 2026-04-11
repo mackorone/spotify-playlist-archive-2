@@ -1,6 +1,6 @@
 {
   "description": "Uutta musaa tarjoilevat Jenni Vartiainen, Turisti, Teddy Swims, Karim B... ja moni muu  \ud83c\udfb6",
-  "num_followers": 106236,
+  "num_followers": 106306,
   "original_name": "New Music Friday Suomi",
   "owner": {
     "name": "Spotify",
@@ -63,7 +63,7 @@
     {
       "added_at": "2026-04-09 21:00:42",
       "album": {
-        "name": "Runway",
+        "name": "RUNWAY",
         "url": "https://open.spotify.com/album/0WY1wVmchFYlH4f1yZMc90"
       },
       "artists": [
@@ -77,7 +77,7 @@
         }
       ],
       "duration_ms": 171010,
-      "name": "Runway",
+      "name": "RUNWAY",
       "url": "https://open.spotify.com/track/7BjcYqD0CqXnG45ezWSTYR"
     },
     {
@@ -547,6 +547,26 @@
     {
       "added_at": "2026-04-09 21:00:42",
       "album": {
+        "name": "Back and Forth (feat. Missy Elliott)",
+        "url": "https://open.spotify.com/album/3yb1H4Mf6annZTGWpmAoCW"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        },
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        }
+      ],
+      "duration_ms": 214757,
+      "name": "Back and Forth (feat. Missy Elliott)",
+      "url": "https://open.spotify.com/track/6t263UZVjI9nnHfr7eeLW4"
+    },
+    {
+      "added_at": "2026-04-09 21:00:42",
+      "album": {
         "name": "Jos Kaiken Annan",
         "url": "https://open.spotify.com/album/59MEibPfuNZAcVAQoKFFfi"
       },
@@ -891,6 +911,30 @@
       "duration_ms": 155186,
       "name": "Knock 'Em Down",
       "url": "https://open.spotify.com/track/3YRlgBrj4XpsJxBFAeLYYH"
+    },
+    {
+      "added_at": "2026-04-09 21:00:42",
+      "album": {
+        "name": "One of Them",
+        "url": "https://open.spotify.com/album/7yHjH5MTdtXNeIcQWVq0LQ"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 204377,
+      "name": "One of Them (with Future & Lil Baby)",
+      "url": "https://open.spotify.com/track/64QhStjcTHwvY7QCkFfT0M"
     },
     {
       "added_at": "2026-04-09 21:00:42",

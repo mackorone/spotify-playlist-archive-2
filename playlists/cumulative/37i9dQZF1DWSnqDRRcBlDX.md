@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5Ho1vKl1Uz8bJlk4vbmvmf">Amelie Lens</a>' favorite tracks\. Updated regularly\. Curated by Amelie Lens\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-285 songs - 1 day 1 hr 13 min
+286 songs - 1 day 1 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Catch The Light](https://open.spotify.com/track/205tYWo8M6qvK3Sop2a1LY) | [TASSERY](https://open.spotify.com/artist/4ezVmV5ppzmFl5ypOJiCCY) | [Walking Alone In The Dark](https://open.spotify.com/album/55QHJxqz6cW0GVLBPfackX) | 6:30 | 2024-12-27 | 2026-02-28 |
 | [Chemicals \- Original Mix](https://open.spotify.com/track/0KF1GYtbXgcipR9OHBDJfD) | [Zeltak](https://open.spotify.com/artist/7abM3xmXx55x7dQZot1Dpd) | [Chemicals](https://open.spotify.com/album/61FWmQ4ucMaItHzlBJvzRP) | 5:48 | 2023-01-27 | 2023-10-07 |
 | [Clausura](https://open.spotify.com/track/6PqKie1yofhfbNKjqknrjg) | [Lukas Firtzer](https://open.spotify.com/artist/39RmC5VDRv0p4f3L4Ph4bf) | [Clausura EP](https://open.spotify.com/album/0B24dbql24mmqQKasBkPOt) | 5:54 | 2022-12-02 | 2023-01-28 |
-| [Club Of Extremes](https://open.spotify.com/track/6l2Bsn6s3NOBfK3j3CVGMj) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Serenity](https://open.spotify.com/album/7qypDB2lziFK99YnsYkGIn) | 3:41 | 2025-05-16 |  |
+| [Club Of Extremes](https://open.spotify.com/track/6l2Bsn6s3NOBfK3j3CVGMj) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Serenity](https://open.spotify.com/album/7qypDB2lziFK99YnsYkGIn) | 3:41 | 2025-05-16 | 2026-04-11 |
 | [Club Riot](https://open.spotify.com/track/4qNeGdcVP05QuoMEwzJLrI) | [David Löhlein](https://open.spotify.com/artist/2RibmjRGf8SiwxdCQZ9N1C), [Rove Ranger](https://open.spotify.com/artist/2tcPPLnCV4T3tevcfw1Iss), [SESH](https://open.spotify.com/artist/5PJunO0egNrIx5RY2z7J8a) | [Club Riot](https://open.spotify.com/album/1phWVWb7LxEBcnoV5pqCOa) | 3:57 | 2024-12-27 | 2026-02-28 |
 | [Cold Sweat](https://open.spotify.com/track/7hrWiv1rLsaWyLgqOJCtTX) | [Raven \(CA\)](https://open.spotify.com/artist/3zGDiGMgTIfAG3GnXEBjHB) | [Mania](https://open.spotify.com/album/7eQ3lcc0k6OE4jiujBOyxE) | 5:08 | 2022-12-02 | 2023-01-28 |
 | [Come Closer](https://open.spotify.com/track/6WK7TJ53QPNZnpQBjToHBi) | [Thomas Schumacher](https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD) | [Come Closer](https://open.spotify.com/album/1BMEA1hy55rRBIjRZ4TokC) | 4:07 | 2026-02-27 |  |
@@ -284,6 +284,7 @@
 | [Waste My Time](https://open.spotify.com/track/3TI50jItmrgVCgsxe391XV) | [Dusk Records](https://open.spotify.com/artist/5hvmQoWcFYePjpth31O8qx), [ECZODIA](https://open.spotify.com/artist/3EYdIeVPZ8IXT0Uiq7h0R2) | [DUSK VA010 \(POLISHED ECHOES\)](https://open.spotify.com/album/0nwI48NY0xVtWGFwxNXS3K) | 4:48 | 2023-10-06 |  |
 | [We Both Lost](https://open.spotify.com/track/2MVpbHw9fKYXi0hcYpjdUF) | [B2](https://open.spotify.com/artist/0vpOUJDr3cALJ5AiRFdv2S) | [Heavy Machine](https://open.spotify.com/album/10zEodY1CT4TKevzj78lm4) | 5:36 | 2022-12-02 | 2023-10-07 |
 | [West Coast Love](https://open.spotify.com/track/6IdsEMXOA9i8efy41OlFB4) | [Alt8](https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9), [Blicz](https://open.spotify.com/artist/3PnWOaMJ1XWctt7UBJuwz0) | [RCKLSS006](https://open.spotify.com/album/44g3plYDtTn9MB3FTjvkrc) | 6:12 | 2023-01-27 | 2023-10-07 |
+| [whatever you do](https://open.spotify.com/track/7tYkpOOHN2YB5RhFkLPs6R) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [whatever you do](https://open.spotify.com/album/332Ale8JZU0KaSGjoL3aXY) | 3:30 | 2026-04-10 |  |
 | [When I Rock \- A.D.H.S\. Remix](https://open.spotify.com/track/2RZUzI8KssitQ4SYPr1xUd) | [Thomas Schumacher](https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD), [A.D.H.S.](https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl) | [When I Rock \(A.D.H.S\. Remix\)](https://open.spotify.com/album/3AUUUXLVRCj3nHbGHPT0ic) | 4:19 | 2024-06-20 | 2025-05-17 |
 | [Where Do We Go](https://open.spotify.com/track/1pjq6HahAijFavvVOVRP3E) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [One Mind EP](https://open.spotify.com/album/6vEeCQvbjq8gK5IlhLOmkm) | 4:59 | 2025-03-03 | 2025-05-17 |
 | [Witch Doctor \- Original Mix](https://open.spotify.com/track/5tjPpvhaP6WAhTdTWnZVta) | [LeStrange](https://open.spotify.com/artist/01nL5y3UmnvmvusuBmzpN9), [Benefice](https://open.spotify.com/artist/50YinzEDCTthYGZEJDZSus) | [Dance With Me EP](https://open.spotify.com/album/7yM16V22VOujgezbM9bUHg) | 4:45 | 2023-10-06 |  |

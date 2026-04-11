@@ -1,6 +1,6 @@
 {
   "description": "Beste Nederlandstalige songs uit de 90's! Cover: Acda en de Munnik",
-  "num_followers": 82290,
+  "num_followers": 82302,
   "original_name": "90's Nederlandstalig",
   "owner": {
     "name": "Spotify",
@@ -1047,22 +1047,18 @@
     {
       "added_at": "2024-07-09 16:41:04",
       "album": {
-        "name": "Rob 100",
-        "url": "https://open.spotify.com/album/314xNPZisq3G6ZLlBU938T"
+        "name": "Liefdesliedjes",
+        "url": "https://open.spotify.com/album/7CdAzPf0nk3FfsXGuZWiI7"
       },
       "artists": [
         {
-          "name": "Rob De Nijs",
-          "url": "https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K"
-        },
-        {
-          "name": "Ellert Driessen",
-          "url": "https://open.spotify.com/artist/7qd0FFy6IEMv634lendv01"
+          "name": "De Jazzpolitie",
+          "url": "https://open.spotify.com/artist/1nOTwY0FfKdXCBQiuQILbG"
         }
       ],
-      "duration_ms": 261866,
-      "name": "Banger Hart - Radio Mix",
-      "url": "https://open.spotify.com/track/7wXI1Z6evrwG5ujxmeo57c"
+      "duration_ms": 284266,
+      "name": "Liefdesliedjes",
+      "url": "https://open.spotify.com/track/0wD43UCEku61GIZB89O0vP"
     },
     {
       "added_at": "2024-07-09 16:41:04",
@@ -1083,6 +1079,26 @@
       "duration_ms": 214733,
       "name": "Zo Ver Weg",
       "url": "https://open.spotify.com/track/0NdeYpnRgbzT30Inci6LZL"
+    },
+    {
+      "added_at": "2024-07-09 16:41:04",
+      "album": {
+        "name": "Rob 100",
+        "url": "https://open.spotify.com/album/314xNPZisq3G6ZLlBU938T"
+      },
+      "artists": [
+        {
+          "name": "Rob De Nijs",
+          "url": "https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K"
+        },
+        {
+          "name": "Ellert Driessen",
+          "url": "https://open.spotify.com/artist/7qd0FFy6IEMv634lendv01"
+        }
+      ],
+      "duration_ms": 261866,
+      "name": "Banger Hart - Radio Mix",
+      "url": "https://open.spotify.com/track/7wXI1Z6evrwG5ujxmeo57c"
     },
     {
       "added_at": "2024-07-09 16:41:04",
@@ -1147,22 +1163,6 @@
       "duration_ms": 271986,
       "name": "Ome Jan",
       "url": "https://open.spotify.com/track/6UWOJvPjoFA4NoCbLw8wzI"
-    },
-    {
-      "added_at": "2024-07-09 16:41:04",
-      "album": {
-        "name": "Van U Wil Ik Zingen",
-        "url": "https://open.spotify.com/album/5tIHLBGIpPwvSmjLvZWqfo"
-      },
-      "artists": [
-        {
-          "name": "Paul de Leeuw",
-          "url": "https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT"
-        }
-      ],
-      "duration_ms": 311600,
-      "name": "Vlieg Met Me Mee - Live",
-      "url": "https://open.spotify.com/track/46SS7vgm5bQ9wBfu1o5LjC"
     }
   ],
   "unique_name": "90's Nederlandstalig",

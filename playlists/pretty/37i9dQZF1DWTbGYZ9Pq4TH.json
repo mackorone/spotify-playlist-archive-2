@@ -1,6 +1,6 @@
 {
   "description": "Le canzoni d'amore italiane pi\u00f9 romantiche di sempre \u2764\ufe0f",
-  "num_followers": 187221,
+  "num_followers": 187216,
   "original_name": "San Valentino 2026",
   "owner": {
     "name": "Spotify",
@@ -335,22 +335,6 @@
     {
       "added_at": "2026-02-12 16:19:36",
       "album": {
-        "name": "Io Non So Parlar D'Amore",
-        "url": "https://open.spotify.com/album/5fv7zCf5fRBzmVqnrJ0UJO"
-      },
-      "artists": [
-        {
-          "name": "Adriano Celentano",
-          "url": "https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV"
-        }
-      ],
-      "duration_ms": 247533,
-      "name": "L'Emozione Non Ha voce (Io Non So Parlar D'Amore)",
-      "url": "https://open.spotify.com/track/39efIaQFmERjt8U71FrJzs"
-    },
-    {
-      "added_at": "2026-02-12 16:19:36",
-      "album": {
         "name": "MI FAI IMPAZZIRE",
         "url": "https://open.spotify.com/album/59L5yJfDpvDFynmhe2QbYS"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 237880,
       "name": "Un'emozione per sempre",
       "url": "https://open.spotify.com/track/1Hd8GLavCUUUx3GJdunJ4E"
+    },
+    {
+      "added_at": "2026-02-12 16:19:36",
+      "album": {
+        "name": "Io Non So Parlar D'Amore",
+        "url": "https://open.spotify.com/album/5fv7zCf5fRBzmVqnrJ0UJO"
+      },
+      "artists": [
+        {
+          "name": "Adriano Celentano",
+          "url": "https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV"
+        }
+      ],
+      "duration_ms": 247533,
+      "name": "L'Emozione Non Ha voce (Io Non So Parlar D'Amore)",
+      "url": "https://open.spotify.com/track/39efIaQFmERjt8U71FrJzs"
     },
     {
       "added_at": "2026-02-12 16:19:36",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-02-12 16:19:36",
       "album": {
-        "name": "L'amore \u00e8",
-        "url": "https://open.spotify.com/album/38KfDURRSexb9tA6Ll5ZT1"
-      },
-      "artists": [
-        {
-          "name": "Enrico Nigiotti",
-          "url": "https://open.spotify.com/artist/4Umo1uO9VemTgnkjeUhx8c"
-        }
-      ],
-      "duration_ms": 224840,
-      "name": "L'amore \u00e8",
-      "url": "https://open.spotify.com/track/0iOHkI1AyDXfDeoXEFaP2e"
-    },
-    {
-      "added_at": "2026-02-12 16:19:36",
-      "album": {
         "name": "Oltre",
         "url": "https://open.spotify.com/album/0ZCmePlwPAMoB0SHk1fGvP"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 336960,
       "name": "Mille giorni di te e di me",
       "url": "https://open.spotify.com/track/6eLBzWfMCfir6mOvBQfrrr"
+    },
+    {
+      "added_at": "2026-02-12 16:19:36",
+      "album": {
+        "name": "L'amore \u00e8",
+        "url": "https://open.spotify.com/album/38KfDURRSexb9tA6Ll5ZT1"
+      },
+      "artists": [
+        {
+          "name": "Enrico Nigiotti",
+          "url": "https://open.spotify.com/artist/4Umo1uO9VemTgnkjeUhx8c"
+        }
+      ],
+      "duration_ms": 224840,
+      "name": "L'amore \u00e8",
+      "url": "https://open.spotify.com/track/0iOHkI1AyDXfDeoXEFaP2e"
     },
     {
       "added_at": "2026-02-12 16:19:36",
@@ -979,22 +979,6 @@
     {
       "added_at": "2026-02-12 16:19:36",
       "album": {
-        "name": "Odissea",
-        "url": "https://open.spotify.com/album/53byQXY8VWsJ8aiVjK6pbI"
-      },
-      "artists": [
-        {
-          "name": "Mango",
-          "url": "https://open.spotify.com/artist/5iBphIrmXEjfrqiuz5y6pY"
-        }
-      ],
-      "duration_ms": 270003,
-      "name": "Oro",
-      "url": "https://open.spotify.com/track/5NzWbTJOakrvq3g83UoD25"
-    },
-    {
-      "added_at": "2026-02-12 16:19:36",
-      "album": {
         "name": "Supereroe",
         "url": "https://open.spotify.com/album/67g3eUjlYFB7EkhS1pjKe4"
       },
@@ -1011,18 +995,18 @@
     {
       "added_at": "2026-02-12 16:19:36",
       "album": {
-        "name": "BELLA DAVVERO",
-        "url": "https://open.spotify.com/album/4ufSiXGrmtlVKXhyDi2UEe"
+        "name": "Odissea",
+        "url": "https://open.spotify.com/album/53byQXY8VWsJ8aiVjK6pbI"
       },
       "artists": [
         {
-          "name": "Ultimo",
-          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
+          "name": "Mango",
+          "url": "https://open.spotify.com/artist/5iBphIrmXEjfrqiuz5y6pY"
         }
       ],
-      "duration_ms": 178883,
-      "name": "BELLA DAVVERO",
-      "url": "https://open.spotify.com/track/1ih8OCS4EmDtSL3Do0tWIp"
+      "duration_ms": 270003,
+      "name": "Oro",
+      "url": "https://open.spotify.com/track/5NzWbTJOakrvq3g83UoD25"
     },
     {
       "added_at": "2026-02-12 16:19:36",
@@ -1039,6 +1023,22 @@
       "duration_ms": 286146,
       "name": "Ho messo via",
       "url": "https://open.spotify.com/track/4xyp77VPg90ezi7N1p99a5"
+    },
+    {
+      "added_at": "2026-02-12 16:19:36",
+      "album": {
+        "name": "BELLA DAVVERO",
+        "url": "https://open.spotify.com/album/4ufSiXGrmtlVKXhyDi2UEe"
+      },
+      "artists": [
+        {
+          "name": "Ultimo",
+          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
+        }
+      ],
+      "duration_ms": 178883,
+      "name": "BELLA DAVVERO",
+      "url": "https://open.spotify.com/track/1ih8OCS4EmDtSL3Do0tWIp"
     },
     {
       "added_at": "2026-02-12 16:19:36",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-02-12 16:19:36",
       "album": {
-        "name": "Cip!",
-        "url": "https://open.spotify.com/album/7sYFig64Wpcv9PDq8QRGlV"
-      },
-      "artists": [
-        {
-          "name": "Brunori Sas",
-          "url": "https://open.spotify.com/artist/2p2SZoUTvT4dbL2xXXJXwy"
-        }
-      ],
-      "duration_ms": 230746,
-      "name": "Per due che come noi",
-      "url": "https://open.spotify.com/track/6JXlccLNpK7F2XFwHuMy23"
-    },
-    {
-      "added_at": "2026-02-12 16:19:36",
-      "album": {
         "name": "Mio Fratello E' Figlio Unico",
         "url": "https://open.spotify.com/album/3s7QkjKcFtAlOpvYAQoG2i"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 300074,
       "name": "Sfiorivano le viole",
       "url": "https://open.spotify.com/track/4UqKJx2oFJvgLIBrBV82Ou"
+    },
+    {
+      "added_at": "2026-02-12 16:19:36",
+      "album": {
+        "name": "Cip!",
+        "url": "https://open.spotify.com/album/7sYFig64Wpcv9PDq8QRGlV"
+      },
+      "artists": [
+        {
+          "name": "Brunori Sas",
+          "url": "https://open.spotify.com/artist/2p2SZoUTvT4dbL2xXXJXwy"
+        }
+      ],
+      "duration_ms": 230746,
+      "name": "Per due che come noi",
+      "url": "https://open.spotify.com/track/6JXlccLNpK7F2XFwHuMy23"
     },
     {
       "added_at": "2026-02-12 16:19:36",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2026-02-12 16:19:36",
       "album": {
+        "name": "Appena prima di partire",
+        "url": "https://open.spotify.com/album/76c8rMt8AHuavJA1pQfWLB"
+      },
+      "artists": [
+        {
+          "name": "Zero Assoluto",
+          "url": "https://open.spotify.com/artist/3bf7Y2it29DeOjXpIibCOe"
+        }
+      ],
+      "duration_ms": 223053,
+      "name": "Svegliarsi la mattina",
+      "url": "https://open.spotify.com/track/0FhpzL0BoqEYsT6k2Wb9AV"
+    },
+    {
+      "added_at": "2026-02-12 16:19:36",
+      "album": {
         "name": "Fisiognomica (2008 Remastered Edition)",
         "url": "https://open.spotify.com/album/4sWf0wkRfi49tW4NLxdLj2"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 245533,
       "name": "Albachiara",
       "url": "https://open.spotify.com/track/53MYtv4tzLYg1hbu13Qbc0"
-    },
-    {
-      "added_at": "2026-02-12 16:19:36",
-      "album": {
-        "name": "Appena prima di partire",
-        "url": "https://open.spotify.com/album/76c8rMt8AHuavJA1pQfWLB"
-      },
-      "artists": [
-        {
-          "name": "Zero Assoluto",
-          "url": "https://open.spotify.com/artist/3bf7Y2it29DeOjXpIibCOe"
-        }
-      ],
-      "duration_ms": 223053,
-      "name": "Svegliarsi la mattina",
-      "url": "https://open.spotify.com/track/0FhpzL0BoqEYsT6k2Wb9AV"
     },
     {
       "added_at": "2026-02-12 16:19:36",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2026-02-12 16:19:36",
       "album": {
+        "name": "T'appartengo",
+        "url": "https://open.spotify.com/album/5pW2d9bppftATKKN8Eq6lO"
+      },
+      "artists": [
+        {
+          "name": "Ambra Angiolini",
+          "url": "https://open.spotify.com/artist/4tXAwRjj2QRMsEImebS2vG"
+        }
+      ],
+      "duration_ms": 206640,
+      "name": "T'appartengo",
+      "url": "https://open.spotify.com/track/1PIxiDD82CyJLeB7GteWek"
+    },
+    {
+      "added_at": "2026-02-12 16:19:36",
+      "album": {
         "name": "Gira, il mondo gira",
         "url": "https://open.spotify.com/album/5PdqPLG4hUzuLAWUDFaZap"
       },
@@ -1655,34 +1671,18 @@
     {
       "added_at": "2026-02-12 16:19:36",
       "album": {
-        "name": "Essere Qui",
-        "url": "https://open.spotify.com/album/4eN5SrtLrerdQsvFIo95N9"
+        "name": "Bruciasse Il Cielo",
+        "url": "https://open.spotify.com/album/287CrEdqq6UiWAMeteSZsk"
       },
       "artists": [
         {
-          "name": "Emma",
-          "url": "https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX"
+          "name": "BLANCO",
+          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
         }
       ],
-      "duration_ms": 204003,
-      "name": "Mi Parli Piano",
-      "url": "https://open.spotify.com/track/6XRe4ft04Skbpbz3TwsenD"
-    },
-    {
-      "added_at": "2026-02-12 16:19:36",
-      "album": {
-        "name": "T'appartengo",
-        "url": "https://open.spotify.com/album/5pW2d9bppftATKKN8Eq6lO"
-      },
-      "artists": [
-        {
-          "name": "Ambra Angiolini",
-          "url": "https://open.spotify.com/artist/4tXAwRjj2QRMsEImebS2vG"
-        }
-      ],
-      "duration_ms": 206640,
-      "name": "T'appartengo",
-      "url": "https://open.spotify.com/track/1PIxiDD82CyJLeB7GteWek"
+      "duration_ms": 237606,
+      "name": "Bruciasse Il Cielo",
+      "url": "https://open.spotify.com/track/6abfPlw55MvGAUEpG56R2y"
     }
   ],
   "unique_name": "San Valentino 2026",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Hip-Hop con \u00d1, aqu\u00ed lxs que dominan el\u00a0juego de las rimas. Little Boogie y Milo J en portada. ",
+  "description": "Hip-Hop con \u00d1, aqu\u00ed lxs que dominan el\u00a0juego de las rimas. Pablo Fortaleza y Apache en portada. ",
   "name": "Rap Champa\u00f1a",
   "tracks": [
     {
@@ -2775,6 +2775,32 @@
     },
     {
       "album": {
+        "name": "Champion",
+        "url": "https://open.spotify.com/album/3eTeA1UVzik2N8uyGOs2ei"
+      },
+      "artists": [
+        {
+          "name": "\u00d1ejo",
+          "url": "https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o"
+        },
+        {
+          "name": "Pj Sin Suela",
+          "url": "https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df"
+        },
+        {
+          "name": "Los Compas",
+          "url": "https://open.spotify.com/artist/0p7iJs5QwLKfKmA2f7XRIg"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150920,
+      "name": "Champion",
+      "url": "https://open.spotify.com/track/09qLLbQ0iDoQmBU8BXhiw6"
+    },
+    {
+      "album": {
         "name": "CHICOS DEL NORTE",
         "url": "https://open.spotify.com/album/5A11xkG6IA0aOnGZHw7K3F"
       },
@@ -3140,7 +3166,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 196361,
       "name": "Con Esta Yo Me Fui, CAMARA",
       "url": "https://open.spotify.com/track/5oTMU4RZ2CvOoNmlHQKHfr"
@@ -3456,7 +3482,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 219711,
       "name": "Cu\u00e9ntalo Bien",
       "url": "https://open.spotify.com/track/0mTY5S2ZGB8bvgPMVwDcWG"
@@ -3682,7 +3708,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 160000,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/0SAYO3VYWVqIYFa8YoUaJL"
@@ -4244,6 +4270,28 @@
       "duration_ms": 221303,
       "name": "Duki: Bzrp Music Sessions, Vol. 50",
       "url": "https://open.spotify.com/track/7MkylDYvKTSuWgrsBhHlsG"
+    },
+    {
+      "album": {
+        "name": "D\u00e9jalos Que Hablen",
+        "url": "https://open.spotify.com/album/5ea1cbVq7BGWlGC9RiLiX7"
+      },
+      "artists": [
+        {
+          "name": "Doble Porcion",
+          "url": "https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408"
+        },
+        {
+          "name": "Ma\u00f1as Ru-Fino",
+          "url": "https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157241,
+      "name": "D\u00e9jalos Que Hablen",
+      "url": "https://open.spotify.com/track/7adUs7wbkxxwtqIjqdjsgm"
     },
     {
       "album": {
@@ -5095,6 +5143,28 @@
     },
     {
       "album": {
+        "name": "Pangea",
+        "url": "https://open.spotify.com/album/1Jo2XDCbuC5DPeihutxNEH"
+      },
+      "artists": [
+        {
+          "name": "Granuja",
+          "url": "https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS"
+        },
+        {
+          "name": "N-Wise Allah",
+          "url": "https://open.spotify.com/artist/4NGPHzbZNLMQkjtrJ2a2Sx"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206086,
+      "name": "Fachada",
+      "url": "https://open.spotify.com/track/0c7rO85nBLGvFzmPTDWZ0N"
+    },
+    {
+      "album": {
         "name": "Michelangelo",
         "url": "https://open.spotify.com/album/0Rc3NRbqT3m8MognJZKOEC"
       },
@@ -5114,7 +5184,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 141642,
       "name": "Factos",
       "url": "https://open.spotify.com/track/0zP3M3XykDEovf9Vd04WEb"
@@ -5522,7 +5592,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 171143,
       "name": "Fugazi",
       "url": "https://open.spotify.com/track/00KQzHBnuGHts0vFofRMdk"
@@ -5874,7 +5944,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 174285,
       "name": "Guten Morgen",
       "url": "https://open.spotify.com/track/6qLpgjKuXXGqq0YYYAkU5Z"
@@ -6058,6 +6128,32 @@
       "duration_ms": 276752,
       "name": "Hu\u00e9spedes",
       "url": "https://open.spotify.com/track/1mPF3G23BgqdNjHdXtyX9i"
+    },
+    {
+      "album": {
+        "name": "I Gotta Go",
+        "url": "https://open.spotify.com/album/6LHqNJ36TxS3ep0oFQoT1b"
+      },
+      "artists": [
+        {
+          "name": "Soul AM",
+          "url": "https://open.spotify.com/artist/6ppLSXJZysRO3LBrlJIVuA"
+        },
+        {
+          "name": "Komba",
+          "url": "https://open.spotify.com/artist/45GCCsbyU6F1K5qMciA4tc"
+        },
+        {
+          "name": "Granuja",
+          "url": "https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "I Gotta Go",
+      "url": "https://open.spotify.com/track/6KwCM5xpwiPNhZPxWIomev"
     },
     {
       "album": {
@@ -8485,6 +8581,32 @@
     },
     {
       "album": {
+        "name": "Me Ilumin\u00e9",
+        "url": "https://open.spotify.com/album/0M9tAy51bRMeT7xGdPJGP5"
+      },
+      "artists": [
+        {
+          "name": "Rivs",
+          "url": "https://open.spotify.com/artist/4ev0gsQkvhWz9gh20gQ3HA"
+        },
+        {
+          "name": "Akapellah",
+          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138720,
+      "name": "Me Ilumin\u00e9",
+      "url": "https://open.spotify.com/track/62jHLKgkJtuuJUmCidGUEo"
+    },
+    {
+      "album": {
         "name": "3000",
         "url": "https://open.spotify.com/album/21ahQhM0f44r2sUnf7saMD"
       },
@@ -10094,7 +10216,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 110136,
       "name": "North Carolina",
       "url": "https://open.spotify.com/track/1LDotypwGna612cNstP5pK"
@@ -11188,6 +11310,40 @@
       "duration_ms": 121143,
       "name": "Quien dijo que no se puede",
       "url": "https://open.spotify.com/track/4RhSst0ZdmFz4fCp26BZ7f"
+    },
+    {
+      "album": {
+        "name": "Quienes Son",
+        "url": "https://open.spotify.com/album/3c9QdHCVARbcOlfCXmL45e"
+      },
+      "artists": [
+        {
+          "name": "Rod Roche",
+          "url": "https://open.spotify.com/artist/4Xq41CAjEKseEpGBAVjG6C"
+        },
+        {
+          "name": "Cerounno",
+          "url": "https://open.spotify.com/artist/5KpmLKI7ktzNzQL13J95Pf"
+        },
+        {
+          "name": "H de Perra",
+          "url": "https://open.spotify.com/artist/58IwebpCTUds8Ricp3zbTU"
+        },
+        {
+          "name": "Lil Supa",
+          "url": "https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K"
+        },
+        {
+          "name": "Dj Mad Pee",
+          "url": "https://open.spotify.com/artist/0fIVHIhpzTYjwmnSSEHpJV"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274285,
+      "name": "Quienes Son",
+      "url": "https://open.spotify.com/track/0OOF6srrdge3XSCzeQKvgp"
     },
     {
       "album": {
@@ -12682,7 +12838,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 284571,
       "name": "Somos Guerreros",
       "url": "https://open.spotify.com/track/1RF6xAOyZWxQHdmvqyY0A4"
@@ -14297,6 +14453,28 @@
     },
     {
       "album": {
+        "name": "Viche Curao",
+        "url": "https://open.spotify.com/album/706lhiuZzLEj3oKvuoNqom"
+      },
+      "artists": [
+        {
+          "name": "Pablo Fortaleza",
+          "url": "https://open.spotify.com/artist/7jgM23vUu9pm4Fn5tw4yR1"
+        },
+        {
+          "name": "Apache",
+          "url": "https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187826,
+      "name": "Viche Curao",
+      "url": "https://open.spotify.com/track/7tQF5RI8mgk9mcMSkX39Ca"
+    },
+    {
+      "album": {
         "name": "Vida Desordenada",
         "url": "https://open.spotify.com/album/1euZjrA21qK3y9h5AuG8Yg"
       },
@@ -14876,6 +15054,24 @@
       "duration_ms": 143119,
       "name": "\u00bfAlgo Que Decir?",
       "url": "https://open.spotify.com/track/57eaJ15ZJpAfefBpANiw5C"
+    },
+    {
+      "album": {
+        "name": "\u00bfd\u00f3nde est\u00e1n?",
+        "url": "https://open.spotify.com/album/4bbGl1kUFLGDVkRw89937W"
+      },
+      "artists": [
+        {
+          "name": "Mike Lamadrid",
+          "url": "https://open.spotify.com/artist/0yH4dtb40shmtEVyb9yA8C"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166206,
+      "name": "\u00bfd\u00f3nde est\u00e1n?",
+      "url": "https://open.spotify.com/track/4wz7IwLOIdjCUxtmA10nf2"
     },
     {
       "album": {

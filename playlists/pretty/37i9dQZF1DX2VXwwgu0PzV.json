@@ -1,12 +1,12 @@
 {
   "description": "Music for when you've got your Jesus on and your swag up . \nCover: Malcolm Rue",
-  "num_followers": 74199,
+  "num_followers": 74264,
   "original_name": "Youth Service",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFZU69lhIMSb47vFZi3tTKt2duAN",
+  "snapshot_id": "AAAAAKx8KAAEaby7+MQHYzdqobVhzuQ4",
   "tracks": [
     {
       "added_at": "2026-02-20 00:01:26",
@@ -203,6 +203,26 @@
       "duration_ms": 192000,
       "name": "Confidence ||",
       "url": "https://open.spotify.com/track/1un0vrukPpvRLL3083CHgj"
+    },
+    {
+      "added_at": "2026-04-10 09:19:44",
+      "album": {
+        "name": "Sound From The South",
+        "url": "https://open.spotify.com/album/3qhYnMrI5u6t7eZcL6eGQJ"
+      },
+      "artists": [
+        {
+          "name": "yoyo michael",
+          "url": "https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv"
+        },
+        {
+          "name": "Soltune",
+          "url": "https://open.spotify.com/artist/1PFwvjnnz3gPAAJvmhY9fq"
+        }
+      ],
+      "duration_ms": 168455,
+      "name": "Walking In The Light",
+      "url": "https://open.spotify.com/track/4QtjlWmeSApfxBStLpbE4J"
     },
     {
       "added_at": "2026-04-03 00:02:03",
@@ -403,6 +423,22 @@
       "duration_ms": 253348,
       "name": "More Life - CRWN \u00d8F THRNZ Remix",
       "url": "https://open.spotify.com/track/6zkOlIRQ63PszTKt8TXRHS"
+    },
+    {
+      "added_at": "2026-04-10 00:01:33",
+      "album": {
+        "name": "Undefeated",
+        "url": "https://open.spotify.com/album/4LZhxE1O0AtF4TQolmDQcI"
+      },
+      "artists": [
+        {
+          "name": "Geary Tobi",
+          "url": "https://open.spotify.com/artist/1hWhJk6dJt47s5r7TBf9re"
+        }
+      ],
+      "duration_ms": 168631,
+      "name": "Undefeated",
+      "url": "https://open.spotify.com/track/7o1jxTxRAzKpAKHz6EVYMg"
     },
     {
       "added_at": "2026-01-09 00:01:29",

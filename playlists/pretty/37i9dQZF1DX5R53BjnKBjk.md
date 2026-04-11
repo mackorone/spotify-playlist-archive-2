@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5R53BjnKBjk.md) - [plain]
 
 > Uma seleção de novos artistas da cena brasileira que você precisa conhecer\.  Foto: Iuna Falcão
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,381 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,383 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5R53BjnKBjk.md) - [plain]
 | 49 | [Fumando Kunk](https://open.spotify.com/track/6edQHkCYmSEhCYSnzpK1rL) | [Jun Alcan](https://open.spotify.com/artist/7CPlbqxyWd17sV44Morx3V), [Malik](https://open.spotify.com/artist/0ifpZXmFP8xcOmukbS5udK) | [Fumando Kunk](https://open.spotify.com/album/21XuubrEf8CB0ARxdmqMZ4) | 3:15 |
 | 50 | [Jurema do Mar](https://open.spotify.com/track/1MgxzC2nIvg5yn7r4ZUp8U) | [Elisa de Sena](https://open.spotify.com/artist/33l16BPoMAO3bgHH54VLaq), [Luísa de Paula](https://open.spotify.com/artist/3gOX962N98bUrNldMPsb5r) | [Orgânica](https://open.spotify.com/album/1REY8480gnFg0pxEDocOL2) | 3:49 |
 
-Snapshot ID: `AAAAAM+acUKAS6sEL00ckregO6QBhm50`
+Snapshot ID: `AAAAAL8QJBCD0gdOsV0845DM8kBeSYtQ`

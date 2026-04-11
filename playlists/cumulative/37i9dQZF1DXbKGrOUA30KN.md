@@ -4,7 +4,7 @@
 
 > Deutschpop, der jetzt passiert\. Cover: Ivo Martin
 
-439 songs - 19 hr 55 min
+439 songs - 19 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,6 +275,7 @@
 | [Mega peinlich](https://open.spotify.com/track/57mXYa4IBMAolt7JfIhR4u) | [Emma Rose](https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy) | [Süß sauer EP](https://open.spotify.com/album/7vDRWDLsWTjnOV0YJJR5v6) | 2:50 | 2025-11-06 | 2025-12-05 |
 | [Mehr Glück als Verstand](https://open.spotify.com/track/3goY8YOTlPGV9F99yJW7lt) | [Johannes Oerding](https://open.spotify.com/artist/4I7D65YMlr6ZxVEGPb7q2K) | [Mehr Glück als Verstand](https://open.spotify.com/album/71AzM3FNH9LrOkQ9UIFj5p) | 2:54 | 2026-02-26 | 2026-03-13 |
 | [Mein Herz geht dumm](https://open.spotify.com/track/6T8luL2ge1pOaRB73m794H) | [ENKAY](https://open.spotify.com/artist/3ZR4DKb6szzEmIavtFES5j) | [Mein Herz geht dumm](https://open.spotify.com/album/4LFjTIuqaEU3mrFrKiFgiL) | 2:10 | 2026-02-12 | 2026-03-06 |
+| [Mein Herz Kriegst Du Nicht](https://open.spotify.com/track/6MSFHB0Fwjlr1gWcRnjcat) | [Tom Twers](https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO) | [Mein Herz Kriegst Du Nicht](https://open.spotify.com/album/4mqDThnBYldj5Qh8XLrJ20) | 2:01 | 2026-04-09 |  |
 | [Mein Löwe](https://open.spotify.com/track/0yGbo7BeoP40DEdrBWEnzD) | [Unheilig](https://open.spotify.com/artist/6f1kv0aUPG9I0Rp3dmLCPi) | [Mein Löwe](https://open.spotify.com/album/2FH8PUUTfI8sykjGiQLofy) | 3:17 | 2025-11-20 | 2026-01-02 |
 | [mein nächstes leben](https://open.spotify.com/track/6atEiNS1RXIIEfWYntlE7T) | [cami](https://open.spotify.com/artist/64bv5tnrfDXWI1McC1vitt) | [mein nächstes leben](https://open.spotify.com/album/038Xy3LCSMYbCQcITgjSaa) | 3:02 | 2026-02-12 | 2026-04-03 |
 | [mein zimmer](https://open.spotify.com/track/1qlkKk4dEb9paErnBL4bAd) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG), [Domiziana](https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN) | [mein zimmer](https://open.spotify.com/album/3VwUQRuzAq3tza5OVCpse5) | 3:09 | 2025-11-13 | 2025-11-28 |
@@ -371,7 +372,6 @@
 | [tempo](https://open.spotify.com/track/7w2QhLdDSUK4T140YEIGEw) | [ELEHA](https://open.spotify.com/artist/56mSZjn1q0tcYyC1N2c7TT) | [tempo](https://open.spotify.com/album/4qBF8JWfH4beWAun8VKdcl) | 2:24 | 2026-01-15 | 2026-02-27 |
 | [Ti amo, Italiano!](https://open.spotify.com/track/5NWiaNjrJl0l3R89nOo4Vd) | [Sportfreunde Stiller](https://open.spotify.com/artist/5PwcOudItUhq3ciF9QwaXZ) | [Ti amo, Italiano!](https://open.spotify.com/album/6HlDFrz02QPE0vqlaFAUzn) | 3:21 | 2026-01-08 | 2026-01-30 |
 | [Tot](https://open.spotify.com/track/73ZDBpbxuy8CP45FKLrhPd) | [LYZA](https://open.spotify.com/artist/1GkuVWjCoLLzR2KwEp0zB4) | [Tot](https://open.spotify.com/album/1RJcxdAywbdvIpIvFFpySv) | 2:34 | 2026-01-29 | 2026-03-06 |
-| [Track 3](https://open.spotify.com/track/6MSFHB0Fwjlr1gWcRnjcat) | [Tom Twers](https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO) | [Mein Herz Kriegst Du Nicht](https://open.spotify.com/album/4mqDThnBYldj5Qh8XLrJ20) | 0:00 | 2026-04-09 |  |
 | [Traumfrau](https://open.spotify.com/track/2BKYVK54OCkOJW1FFP1gej) | [Sandra Hesch](https://open.spotify.com/artist/4Kmi9gtWqvt7AJU2m1SNsh) | [Traumfrau](https://open.spotify.com/album/4eDGUfOsDno1JYQ7lOzoj9) | 2:10 | 2026-02-26 |  |
 | [Trust Issues](https://open.spotify.com/track/2OaqsMStA93iZPddnZuSHQ) | [ROTE MÜTZE RAPHI](https://open.spotify.com/artist/0jxy7TWRoSFqe4eucObq6L) | [Trust Issues](https://open.spotify.com/album/2yODdsTI20zYnM7QAHT7bh) | 2:36 | 2025-11-20 | 2025-12-12 |
 | [Träum weiter](https://open.spotify.com/track/0BZym7oJYCUx2782HG6VDF) | [SOPHIA](https://open.spotify.com/artist/45wdSLZd70phdDkxlA5D3v), [KAYEF](https://open.spotify.com/artist/4hXT6A14n901v8DU5Of337) | [Träum weiter](https://open.spotify.com/album/3cmL72jU4x8R1CU2jqtIpe) | 2:15 | 2025-10-24 | 2026-01-15 |

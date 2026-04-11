@@ -1,12 +1,12 @@
 {
   "description": "Stank face activated. Cover: Nostalgix",
-  "num_followers": 270603,
+  "num_followers": 270646,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFyai77ICm/FU7uIBMrAl8CU/5yv",
+  "snapshot_id": "AAAAAGA2A85DuNvwUWVSVBeUPgn3Lkj/",
   "tracks": [
     {
       "added_at": "2026-04-03 04:01:51",
@@ -943,6 +943,26 @@
     {
       "added_at": "2026-04-03 04:01:51",
       "album": {
+        "name": "4 Ya Mind",
+        "url": "https://open.spotify.com/album/0xmHvWsIECBDM5ltH51C2f"
+      },
+      "artists": [
+        {
+          "name": "AYYBO",
+          "url": "https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV"
+        },
+        {
+          "name": "Discip",
+          "url": "https://open.spotify.com/artist/6K16NRv0isbkftsv5lmlMT"
+        }
+      ],
+      "duration_ms": 205546,
+      "name": "4 Ya Mind",
+      "url": "https://open.spotify.com/track/6cJwVvwYpMg8PlQpJY5RwS"
+    },
+    {
+      "added_at": "2026-04-03 04:01:51",
+      "album": {
         "name": "Crazy",
         "url": "https://open.spotify.com/album/4xQKZ1vTOvkaPJWaA0AFEg"
       },
@@ -967,26 +987,6 @@
       "duration_ms": 125625,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/4a1UArX9uL4trMks4wu8LZ"
-    },
-    {
-      "added_at": "2026-04-03 04:01:51",
-      "album": {
-        "name": "4 Ya Mind",
-        "url": "https://open.spotify.com/album/0xmHvWsIECBDM5ltH51C2f"
-      },
-      "artists": [
-        {
-          "name": "AYYBO",
-          "url": "https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV"
-        },
-        {
-          "name": "Discip",
-          "url": "https://open.spotify.com/artist/6K16NRv0isbkftsv5lmlMT"
-        }
-      ],
-      "duration_ms": 205546,
-      "name": "4 Ya Mind",
-      "url": "https://open.spotify.com/track/6cJwVvwYpMg8PlQpJY5RwS"
     },
     {
       "added_at": "2026-04-03 04:01:51",
@@ -1175,26 +1175,22 @@
     {
       "added_at": "2026-04-03 04:01:51",
       "album": {
-        "name": "Girls MIA",
-        "url": "https://open.spotify.com/album/54bjkUTJnTTktRXEBnMfJc"
+        "name": "Hollow",
+        "url": "https://open.spotify.com/album/6cuJMnp9mc3QMtvtveBwvz"
       },
       "artists": [
         {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+          "name": "Of The Trees",
+          "url": "https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c"
         },
         {
-          "name": "Adam Sellouk",
-          "url": "https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq"
-        },
-        {
-          "name": "CARLA",
-          "url": "https://open.spotify.com/artist/3dBpGX6fuWAYxWhDspbVbQ"
+          "name": "LYNY",
+          "url": "https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa"
         }
       ],
-      "duration_ms": 133848,
-      "name": "Girls MIA",
-      "url": "https://open.spotify.com/track/7dHtHyIsxcDzgeFWLxfW4q"
+      "duration_ms": 214285,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/2x7yuFzNDoD2BABAlZEk2L"
     },
     {
       "added_at": "2026-04-03 04:01:51",
@@ -1219,22 +1215,42 @@
     {
       "added_at": "2026-04-03 04:01:51",
       "album": {
-        "name": "Hollow",
-        "url": "https://open.spotify.com/album/6cuJMnp9mc3QMtvtveBwvz"
+        "name": "Girls MIA",
+        "url": "https://open.spotify.com/album/54bjkUTJnTTktRXEBnMfJc"
       },
       "artists": [
         {
-          "name": "Of The Trees",
-          "url": "https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c"
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
         },
         {
-          "name": "LYNY",
-          "url": "https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa"
+          "name": "Adam Sellouk",
+          "url": "https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq"
+        },
+        {
+          "name": "CARLA",
+          "url": "https://open.spotify.com/artist/3dBpGX6fuWAYxWhDspbVbQ"
         }
       ],
-      "duration_ms": 214285,
-      "name": "Hollow",
-      "url": "https://open.spotify.com/track/2x7yuFzNDoD2BABAlZEk2L"
+      "duration_ms": 133848,
+      "name": "Girls MIA",
+      "url": "https://open.spotify.com/track/7dHtHyIsxcDzgeFWLxfW4q"
+    },
+    {
+      "added_at": "2026-04-03 04:01:51",
+      "album": {
+        "name": "Loaded Gun",
+        "url": "https://open.spotify.com/album/1sT9xYGwgYCcac9vuIPoQD"
+      },
+      "artists": [
+        {
+          "name": "CID",
+          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
+        }
+      ],
+      "duration_ms": 194883,
+      "name": "Loaded Gun",
+      "url": "https://open.spotify.com/track/19PBU0nWYBOMzHOAxDBEcg"
     },
     {
       "added_at": "2026-04-03 04:01:51",
@@ -1259,22 +1275,6 @@
       "duration_ms": 196615,
       "name": "DNA",
       "url": "https://open.spotify.com/track/5BJ0J3mha2aZllDzAgkFmD"
-    },
-    {
-      "added_at": "2026-04-03 04:01:51",
-      "album": {
-        "name": "Loaded Gun",
-        "url": "https://open.spotify.com/album/1sT9xYGwgYCcac9vuIPoQD"
-      },
-      "artists": [
-        {
-          "name": "CID",
-          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
-        }
-      ],
-      "duration_ms": 194883,
-      "name": "Loaded Gun",
-      "url": "https://open.spotify.com/track/19PBU0nWYBOMzHOAxDBEcg"
     },
     {
       "added_at": "2026-04-03 04:01:51",
@@ -1367,26 +1367,6 @@
     {
       "added_at": "2026-04-03 04:01:51",
       "album": {
-        "name": "Circuit",
-        "url": "https://open.spotify.com/album/0LqvCQ7bp65mVsHYUGakWE"
-      },
-      "artists": [
-        {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
-        },
-        {
-          "name": "Limbo Slice",
-          "url": "https://open.spotify.com/artist/5flDeddXEgK6WWsI6PZk3d"
-        }
-      ],
-      "duration_ms": 205517,
-      "name": "Circuit",
-      "url": "https://open.spotify.com/track/4nZzqjNQoKD3c6afgxLNdg"
-    },
-    {
-      "added_at": "2026-04-03 04:01:51",
-      "album": {
         "name": "Work",
         "url": "https://open.spotify.com/album/7thf9ZyAqB7tX6jQbcSse8"
       },
@@ -1407,6 +1387,26 @@
       "duration_ms": 180010,
       "name": "Work",
       "url": "https://open.spotify.com/track/0bqk4OO4XN7nqW44PTMbdB"
+    },
+    {
+      "added_at": "2026-04-03 04:01:51",
+      "album": {
+        "name": "Circuit",
+        "url": "https://open.spotify.com/album/0LqvCQ7bp65mVsHYUGakWE"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "Limbo Slice",
+          "url": "https://open.spotify.com/artist/5flDeddXEgK6WWsI6PZk3d"
+        }
+      ],
+      "duration_ms": 205517,
+      "name": "Circuit",
+      "url": "https://open.spotify.com/track/4nZzqjNQoKD3c6afgxLNdg"
     },
     {
       "added_at": "2026-04-03 04:01:51",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2026-04-03 04:01:51",
       "album": {
+        "name": "Fast Money",
+        "url": "https://open.spotify.com/album/20mnxDAUfgNVr3KkxrwEaN"
+      },
+      "artists": [
+        {
+          "name": "PITCHBLACK",
+          "url": "https://open.spotify.com/artist/0BHh71bPCPBbZDDCb3jaHW"
+        }
+      ],
+      "duration_ms": 142529,
+      "name": "Fast Money",
+      "url": "https://open.spotify.com/track/4HfiqUIw23qtbd9Wv58o0q"
+    },
+    {
+      "added_at": "2026-04-03 04:01:51",
+      "album": {
         "name": "Jump Higher",
         "url": "https://open.spotify.com/album/3dpGcHNwIkkcC0Ead79yzw"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 176842,
       "name": "Jump Higher",
       "url": "https://open.spotify.com/track/1P4uI6cVv6RgiW1NpJGBjB"
-    },
-    {
-      "added_at": "2026-04-03 04:01:51",
-      "album": {
-        "name": "Fast Money",
-        "url": "https://open.spotify.com/album/20mnxDAUfgNVr3KkxrwEaN"
-      },
-      "artists": [
-        {
-          "name": "PITCHBLACK",
-          "url": "https://open.spotify.com/artist/0BHh71bPCPBbZDDCb3jaHW"
-        }
-      ],
-      "duration_ms": 142529,
-      "name": "Fast Money",
-      "url": "https://open.spotify.com/track/4HfiqUIw23qtbd9Wv58o0q"
     },
     {
       "added_at": "2026-04-03 04:01:51",
@@ -1815,26 +1815,6 @@
     {
       "added_at": "2026-04-03 04:01:51",
       "album": {
-        "name": "dollaz n dollaz",
-        "url": "https://open.spotify.com/album/2Bl0W2ypDwTGp04bWlDKEq"
-      },
-      "artists": [
-        {
-          "name": "jigitz",
-          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
-        },
-        {
-          "name": "Lay Bankz",
-          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
-        }
-      ],
-      "duration_ms": 144826,
-      "name": "dollaz n dollaz",
-      "url": "https://open.spotify.com/track/6loojrz5G1FPzQyEdTm7Gs"
-    },
-    {
-      "added_at": "2026-04-03 04:01:51",
-      "album": {
         "name": "Rome Is Burning",
         "url": "https://open.spotify.com/album/1NLu2Z6RpN0eh7jAchy0tK"
       },
@@ -1855,6 +1835,26 @@
       "duration_ms": 231300,
       "name": "Rome Is Burning",
       "url": "https://open.spotify.com/track/1n7MNtaIkGYXiOCOSqKuD3"
+    },
+    {
+      "added_at": "2026-04-03 04:01:51",
+      "album": {
+        "name": "dollaz n dollaz",
+        "url": "https://open.spotify.com/album/2Bl0W2ypDwTGp04bWlDKEq"
+      },
+      "artists": [
+        {
+          "name": "jigitz",
+          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
+        },
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+        }
+      ],
+      "duration_ms": 144826,
+      "name": "dollaz n dollaz",
+      "url": "https://open.spotify.com/track/6loojrz5G1FPzQyEdTm7Gs"
     },
     {
       "added_at": "2026-04-03 04:01:51",
@@ -1899,26 +1899,6 @@
     {
       "added_at": "2026-04-03 04:01:51",
       "album": {
-        "name": "Dancing Through It All",
-        "url": "https://open.spotify.com/album/0sBFTmC0IfoBN9zAiXmsVb"
-      },
-      "artists": [
-        {
-          "name": "Nostalgix",
-          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
-        },
-        {
-          "name": "Kiesza",
-          "url": "https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo"
-        }
-      ],
-      "duration_ms": 165217,
-      "name": "Dancing Through It All",
-      "url": "https://open.spotify.com/track/1CispG7CncTdTDdbYTOASy"
-    },
-    {
-      "added_at": "2026-04-03 04:01:51",
-      "album": {
         "name": "Curry Goat",
         "url": "https://open.spotify.com/album/5XZCh5gSJM8IIzgK7RFOfV"
       },
@@ -1935,6 +1915,26 @@
       "duration_ms": 139064,
       "name": "Curry Goat",
       "url": "https://open.spotify.com/track/0PsdtLApDW2Uk5ufs9nXy0"
+    },
+    {
+      "added_at": "2026-04-03 04:01:51",
+      "album": {
+        "name": "Dancing Through It All",
+        "url": "https://open.spotify.com/album/0sBFTmC0IfoBN9zAiXmsVb"
+      },
+      "artists": [
+        {
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        },
+        {
+          "name": "Kiesza",
+          "url": "https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo"
+        }
+      ],
+      "duration_ms": 165217,
+      "name": "Dancing Through It All",
+      "url": "https://open.spotify.com/track/1CispG7CncTdTDdbYTOASy"
     },
     {
       "added_at": "2026-04-03 04:01:51",
@@ -2107,22 +2107,6 @@
     {
       "added_at": "2026-04-03 04:01:51",
       "album": {
-        "name": "Lose Control",
-        "url": "https://open.spotify.com/album/1JbGw9go12vT4vLUjQTnBm"
-      },
-      "artists": [
-        {
-          "name": "Jauz",
-          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
-        }
-      ],
-      "duration_ms": 176250,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/52LWiiRlohdA6DQ0PvIwgX"
-    },
-    {
-      "added_at": "2026-04-03 04:01:51",
-      "album": {
         "name": "WILTED CULTURE",
         "url": "https://open.spotify.com/album/1LtSHrk61r0umZ840pIMrr"
       },
@@ -2135,6 +2119,22 @@
       "duration_ms": 236571,
       "name": "WILTED CULTURE",
       "url": "https://open.spotify.com/track/6Zt1IPpRDuHRr3Qn8ejjBl"
+    },
+    {
+      "added_at": "2026-04-03 04:01:51",
+      "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/1JbGw9go12vT4vLUjQTnBm"
+      },
+      "artists": [
+        {
+          "name": "Jauz",
+          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+        }
+      ],
+      "duration_ms": 176250,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/52LWiiRlohdA6DQ0PvIwgX"
     },
     {
       "added_at": "2026-04-03 04:01:51",
@@ -2315,6 +2315,22 @@
     {
       "added_at": "2026-04-03 04:01:51",
       "album": {
+        "name": "Sex In The Mosh",
+        "url": "https://open.spotify.com/album/0TMRJHdvd1GBEcKeMoadew"
+      },
+      "artists": [
+        {
+          "name": "TyriqueOrDie",
+          "url": "https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE"
+        }
+      ],
+      "duration_ms": 134418,
+      "name": "Sex In The Mosh",
+      "url": "https://open.spotify.com/track/2jjtWrKi0LW8nnFqbRJr8p"
+    },
+    {
+      "added_at": "2026-04-03 04:01:51",
+      "album": {
         "name": "Ten",
         "url": "https://open.spotify.com/album/1Db9mYMaxIPA3mEX5UDesN"
       },
@@ -2331,22 +2347,6 @@
       "duration_ms": 203835,
       "name": "Ten",
       "url": "https://open.spotify.com/track/3NLX0WPaHV7Zi8EMUvmwOV"
-    },
-    {
-      "added_at": "2026-04-03 04:01:51",
-      "album": {
-        "name": "Sex In The Mosh",
-        "url": "https://open.spotify.com/album/0TMRJHdvd1GBEcKeMoadew"
-      },
-      "artists": [
-        {
-          "name": "TyriqueOrDie",
-          "url": "https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE"
-        }
-      ],
-      "duration_ms": 134418,
-      "name": "Sex In The Mosh",
-      "url": "https://open.spotify.com/track/2jjtWrKi0LW8nnFqbRJr8p"
     },
     {
       "added_at": "2026-04-03 04:01:51",
@@ -2407,6 +2407,22 @@
     {
       "added_at": "2026-04-03 04:01:51",
       "album": {
+        "name": "Ur Not Invited",
+        "url": "https://open.spotify.com/album/37ZdIROabEs0emRlk5Pn0L"
+      },
+      "artists": [
+        {
+          "name": "TyriqueOrDie",
+          "url": "https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE"
+        }
+      ],
+      "duration_ms": 210909,
+      "name": "Ur Not Invited",
+      "url": "https://open.spotify.com/track/43KDztssiBwY3pbMeMUNmb"
+    },
+    {
+      "added_at": "2026-04-03 04:01:51",
+      "album": {
         "name": "Free Ya",
         "url": "https://open.spotify.com/album/0Q8ViWDUJgyEPbYiIbQq7S"
       },
@@ -2423,18 +2439,18 @@
     {
       "added_at": "2026-04-03 04:01:51",
       "album": {
-        "name": "Ur Not Invited",
-        "url": "https://open.spotify.com/album/37ZdIROabEs0emRlk5Pn0L"
+        "name": "ERRRDAY",
+        "url": "https://open.spotify.com/album/3gqAD81mGL41C8dkmLuB4h"
       },
       "artists": [
         {
-          "name": "TyriqueOrDie",
-          "url": "https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE"
+          "name": "The Holy",
+          "url": "https://open.spotify.com/artist/1TbvivzNnNhTp6UlWh1xqz"
         }
       ],
-      "duration_ms": 210909,
-      "name": "Ur Not Invited",
-      "url": "https://open.spotify.com/track/43KDztssiBwY3pbMeMUNmb"
+      "duration_ms": 201617,
+      "name": "ERRRDAY",
+      "url": "https://open.spotify.com/track/1aUOWXtItL7nOSzUbaUGTq"
     },
     {
       "added_at": "2026-04-03 04:01:51",
@@ -2455,22 +2471,6 @@
       "duration_ms": 183428,
       "name": "Enter the Dance",
       "url": "https://open.spotify.com/track/1agIvFkoeOImGPlSlYZTae"
-    },
-    {
-      "added_at": "2026-04-03 04:01:51",
-      "album": {
-        "name": "ERRRDAY",
-        "url": "https://open.spotify.com/album/3gqAD81mGL41C8dkmLuB4h"
-      },
-      "artists": [
-        {
-          "name": "The Holy",
-          "url": "https://open.spotify.com/artist/1TbvivzNnNhTp6UlWh1xqz"
-        }
-      ],
-      "duration_ms": 201617,
-      "name": "ERRRDAY",
-      "url": "https://open.spotify.com/track/1aUOWXtItL7nOSzUbaUGTq"
     }
   ],
   "unique_name": "Bangers",

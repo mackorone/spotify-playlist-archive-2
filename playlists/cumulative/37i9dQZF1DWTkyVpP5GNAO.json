@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Dale a Dios toda la gloria y alabanza! Foto: Karen Espinosa",
+  "description": "Dale a Dios toda la gloria y alabanza! Foto: Su Presencia",
   "name": "Alabanzas y Gloria",
   "tracks": [
     {
@@ -748,7 +748,7 @@
       ],
       "date_added": "2026-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 216000,
       "name": "contigo todo lo encontr\u00e9 - En Vivo",
       "url": "https://open.spotify.com/track/6vkFVzjjVdNMQdSa35iUbx"
@@ -2424,7 +2424,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 400898,
       "name": "He Probado",
       "url": "https://open.spotify.com/track/5TEqRx0hZsHv63FPw7evso"
@@ -3242,7 +3242,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 750222,
       "name": "LUQNEAJ",
       "url": "https://open.spotify.com/track/7C8luDtXRFiujFf1MhCw9g"
@@ -3516,6 +3516,28 @@
       "duration_ms": 491232,
       "name": "Mi Libertador",
       "url": "https://open.spotify.com/track/3PDI2JGivXW4WguUBbhPgw"
+    },
+    {
+      "album": {
+        "name": "Mi Necesidad (Live)",
+        "url": "https://open.spotify.com/album/3AG8OFmIegy0XtJsyptbFZ"
+      },
+      "artists": [
+        {
+          "name": "Cales Louima",
+          "url": "https://open.spotify.com/artist/5n47pUB4lGWnSuxGkX0UpP"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 616880,
+      "name": "Mi Necesidad - Live",
+      "url": "https://open.spotify.com/track/4ax8W4nFT6r5QfK1hxnXRj"
     },
     {
       "album": {
@@ -4749,6 +4771,24 @@
     },
     {
       "album": {
+        "name": "RESUCIT\u00d3",
+        "url": "https://open.spotify.com/album/4HTd4yZhdfjXuwoQfasoFi"
+      },
+      "artists": [
+        {
+          "name": "Su Presencia",
+          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262466,
+      "name": "RESUCIT\u00d3",
+      "url": "https://open.spotify.com/track/0JHF91AC5uRDwB6sPjC4y6"
+    },
+    {
+      "album": {
         "name": "Reverencia (En Vivo)",
         "url": "https://open.spotify.com/album/7neNi57EJukhjPqVrP81zt"
       },
@@ -5000,7 +5040,7 @@
       ],
       "date_added": "2026-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 320426,
       "name": "Santo Por Siempre - Sesi\u00f3n Ac\u00fastica",
       "url": "https://open.spotify.com/track/18zKn6gs8UArJ6fQdqrjac"
@@ -5179,6 +5219,28 @@
     },
     {
       "album": {
+        "name": "Sublime Amor (Digno Es El Se\u00f1or)",
+        "url": "https://open.spotify.com/album/03yh6795WjQFsKZZs1eDrS"
+      },
+      "artists": [
+        {
+          "name": "Marcela Gandara",
+          "url": "https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T"
+        },
+        {
+          "name": "Misael Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/6tXl3iMCmgi3cCYTCcPYNr"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343018,
+      "name": "Sublime Amor (Digno es el Se\u00f1or)",
+      "url": "https://open.spotify.com/track/1gCliEOlpESToPvRqCpsXM"
+    },
+    {
+      "album": {
         "name": "Suelto",
         "url": "https://open.spotify.com/album/6MtthKgel9UaIw3gegtemS"
       },
@@ -5208,7 +5270,7 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 291466,
       "name": "Supe Que Me Amabas",
       "url": "https://open.spotify.com/track/36e4Sr0dXiyzjVeBWv8cON"
@@ -5833,6 +5895,28 @@
     },
     {
       "album": {
+        "name": "Vale La Pena",
+        "url": "https://open.spotify.com/album/4BELOjCFSsA10nyIGqHYm7"
+      },
+      "artists": [
+        {
+          "name": "ECCOS",
+          "url": "https://open.spotify.com/artist/6OnDxasjEMPIRrazHkH61l"
+        },
+        {
+          "name": "Enoc Parra",
+          "url": "https://open.spotify.com/artist/2dXm6Fjb3OP6YKDyaF09jM"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 527875,
+      "name": "Vale La Pena",
+      "url": "https://open.spotify.com/track/6QvJwcW5IksW3cUsPDGqsK"
+    },
+    {
+      "album": {
         "name": "Vas A Florecer",
         "url": "https://open.spotify.com/album/4SVrak2sg7MDsEAEFNoW79"
       },
@@ -6140,6 +6224,24 @@
       "duration_ms": 465253,
       "name": "\u00c9l Que Resucit\u00f3 (Resurrecting)",
       "url": "https://open.spotify.com/track/0wjq36Sfp7sjb0nzqZjc9w"
+    },
+    {
+      "album": {
+        "name": "\u00cdMPETU (la potencia de tu amor)",
+        "url": "https://open.spotify.com/album/7fqABEGQIzM9IHU9ByQPgx"
+      },
+      "artists": [
+        {
+          "name": "Living",
+          "url": "https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "\u00cdMPETU (la potencia de tu amor)",
+      "url": "https://open.spotify.com/track/5w4jRnhpq1CE6OMU28kBTF"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWTkyVpP5GNAO"

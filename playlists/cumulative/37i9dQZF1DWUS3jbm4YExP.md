@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-887 songs - 2 day 14 hr 43 min
+888 songs - 2 day 14 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -640,6 +640,7 @@
 | [Pueblo](https://open.spotify.com/track/4LOw0j83cz4aaqgP555uAT) | [Hugo](https://open.spotify.com/artist/7nDJpnTQgtM87yaive1aos), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Pueblo](https://open.spotify.com/album/59e6mmSqB6wtHkPyGf4CrJ) | 1:43 | 2022-06-03 | 2022-11-20 |
 | [Pueblo](https://open.spotify.com/track/6pR0LSU0EAwvfEa9ocQ1aV) | [HUGØ](https://open.spotify.com/artist/17DJNYAUPmyxap4CY4hCDK), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Pueblo](https://open.spotify.com/album/5s0xBuS6BCFEyJwLrLRJWZ) | 1:43 | 2023-08-07 | 2024-04-19 |
 | [puma](https://open.spotify.com/track/0vUkmgjokgPCqgJcODNMlZ) | [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr) | [The Lost Carnival Tapes](https://open.spotify.com/album/6YYtb9SAjtb6dolcIyqxlB) | 3:33 | 2024-08-02 | 2025-02-01 |
+| [Puro Mambo](https://open.spotify.com/track/6Z9U6Xk4kQtziCcdEZfUzw) | [Buraka Som Sistema](https://open.spotify.com/artist/6zUiRChNyL3HEezOd1Wjam) | [Puro Mambo](https://open.spotify.com/album/3To831Y2DDdp42fp2mDmnm) | 2:49 | 2026-04-10 |  |
 | [Push Party](https://open.spotify.com/track/58OhTiU3KMT2pLvGeiYqoe) | [King Edi K](https://open.spotify.com/artist/4yg0AcCM1U7Qf0JA4Y5OsO) | [Push Party](https://open.spotify.com/album/66HhgD8992OJjEk8X7KhM4) | 4:29 | 2021-10-26 | 2022-07-28 |
 | [Père\-du\-perdu](https://open.spotify.com/track/7BceYGLhijO4rYb0S9IX67) | [Parbleu](https://open.spotify.com/artist/6TPtmX8rRaOXQgN6WFFTlo), [Arp Frique](https://open.spotify.com/artist/2Rm5Fw56mWmB0Pz0JPcOyb) | [Père\-du\-perdu](https://open.spotify.com/album/1U6FLuu8WqxpiFZjHNOyrd) | 5:07 | 2024-06-21 | 2025-05-28 |
 | [Pé Di Bissilon](https://open.spotify.com/track/7FukgJWJ5qBI1vbXWKWPya) | [Bandé\-Gamboa](https://open.spotify.com/artist/0GvJLG8dgOx1tLGSXJW4Kf) | [Horizonte \- Revamping Rare Gems from Cabo Verde and Guinea\-Bissau](https://open.spotify.com/album/6nHSjff6aB7E60h19cdz2L) | 4:21 | 2021-10-06 | 2022-04-21 |
@@ -693,7 +694,7 @@
 | [Siakwaa / Nana Agyei \- Medley](https://open.spotify.com/track/510hOuZSl4wqLLDARSddjn) | [The Polyversal Souls](https://open.spotify.com/artist/6ucByLJIHHN6HfdMyZylyi), [Sir Frank Karikari](https://open.spotify.com/artist/7ooUPeumSe2dVxkPYD9xmS) | [Siakwaa / Nana Agyei \(Medley\) \(feat\. Sir Frank Karikari\)](https://open.spotify.com/album/7vpecaht2VUeB04vCxL62E) | 4:17 | 2021-10-06 | 2022-07-23 |
 | [Sifat Manusia](https://open.spotify.com/track/0BUxDnHTI6mGmGw82U1G4l) | [Nusantara Beat](https://open.spotify.com/artist/6iQZl7RmTVznyFCrML933x) | [Sifat Manusia / Mang Becak](https://open.spotify.com/album/0qkb2Lded5ImCpSRBc5u4c) | 5:30 | 2025-02-21 | 2025-06-07 |
 | [Sigo Llorando](https://open.spotify.com/track/0e0kgcPlS4dbyVJOEAVym9) | [Contento](https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h) | [Sigo Llorando](https://open.spotify.com/album/2bBnsF6DHMnWzRhlQ8Jz0X) | 3:24 | 2021-10-06 | 2022-07-05 |
-| [Silence is Golden](https://open.spotify.com/track/72pAdCNhYcGaKndmsJBbyz) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8) | [Resonate](https://open.spotify.com/album/32wdlbMm4TWfi75n9qW1rs) | 5:43 | 2021-10-06 |  |
+| [Silence is Golden](https://open.spotify.com/track/72pAdCNhYcGaKndmsJBbyz) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8) | [Resonate](https://open.spotify.com/album/32wdlbMm4TWfi75n9qW1rs) | 5:43 | 2021-10-06 | 2026-04-11 |
 | [Silky](https://open.spotify.com/track/7oelcLcMEvuvcr8AOqNFdm) | [Alex Figueira](https://open.spotify.com/artist/1KKpoCjkEc0b0vAuiMe2uT) | [Mentallogenic](https://open.spotify.com/album/6yIJxxHYflUXbspDdrrJym) | 4:19 | 2023-04-14 | 2025-04-25 |
 | [Simé Love](https://open.spotify.com/track/5c4HBB6vA5UqhWk4Of7NBO) | [Dowdelin](https://open.spotify.com/artist/1ogaqCgdEnTy7M5jO0tMue) | [Simé Love](https://open.spotify.com/album/4SPzMNobGVtQ7PWxJcIg2I) | 3:30 | 2021-10-06 | 2024-06-27 |
 | [Sin Cleopatra](https://open.spotify.com/track/0WlXIfNiJsjoHMOAaLdIfm) | [Indianizer](https://open.spotify.com/artist/1zfrSl1G9vwwG0fTBhvpXp) | [Nadir](https://open.spotify.com/album/33DHhoyznooKJxCel0INHU) | 5:21 | 2022-02-09 | 2022-05-13 |

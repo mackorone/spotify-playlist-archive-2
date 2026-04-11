@@ -4,7 +4,7 @@
 
 > bright and cozy beats to watch the world bloom, focus, study, or chill to.
 
-65 songs - 2 hr 23 min
+70 songs - 2 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,9 @@
 | [bamboo](https://open.spotify.com/track/3o9ao7MVy70akFMeOLLRFG) | [raindrop delay](https://open.spotify.com/artist/34oewuGdY10tJVQxjq202Q) | [bamboo](https://open.spotify.com/album/6sz8MRA9amMmf2xPcESqVo) | 1:49 | 2026-02-27 |  |
 | [Beginnings](https://open.spotify.com/track/164ax96RIZvbBaf13Hbhxy) | [Juliàn](https://open.spotify.com/artist/2SJLGPoAJhy9Id6N8oAftk), [Ptr.](https://open.spotify.com/artist/6NjVgE12RKrH5MjW9Tgd0o) | [Beginnings](https://open.spotify.com/album/1yBtq0ZqHLSJR4o4h3i9V6) | 2:17 | 2026-02-27 | 2026-03-21 |
 | [Beyond](https://open.spotify.com/track/1VBs6tCL0u31DngeDQvREG) | [Hoogway](https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ), [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9) | [Beyond](https://open.spotify.com/album/4EhrkJX0ev0uXsevOhLvuh) | 2:09 | 2026-02-27 |  |
+| [Bloom Like Wildflowers](https://open.spotify.com/track/67gbIDheNB4I1kxR3Kp1XY) | [Aisake](https://open.spotify.com/artist/6TFQJV5WynYysXq0LJraYe) | [Bloom Like Wildflowers](https://open.spotify.com/album/64187qcfIvJ7CPSq4WY2wS) | 2:42 | 2026-04-10 |  |
 | [Blossom](https://open.spotify.com/track/5SN2efcnmRW4c1mTpzS6kC) | [nemui](https://open.spotify.com/artist/7MBbsn99tzQos2ksbYhpwe) | [Blossom](https://open.spotify.com/album/5p3FjmKk6vAWwMtLqDZTco) | 1:59 | 2026-02-27 | 2026-03-21 |
+| [Blossoming](https://open.spotify.com/track/1dreUWgi4Mj8sSnhn5iINe) | [C4C](https://open.spotify.com/artist/5jZeLexrrwGNUy6nv7tzdr), [Stan Forebee](https://open.spotify.com/artist/2cg9jlWp1QRc0Sk6kTp9Ez) | [Blossoming](https://open.spotify.com/album/0RPuvXtz79l5wKYAYy1Ia4) | 2:10 | 2026-04-10 |  |
 | [breathe](https://open.spotify.com/track/5ViGmbaqgNv3JlqbSoOldR) | [sleepy joe](https://open.spotify.com/artist/0BpdedC3ce7wMC3HZUTnmR) | [breathe](https://open.spotify.com/album/4WRd9JkBU13q7ithuXObyz) | 2:53 | 2026-02-27 | 2026-03-21 |
 | [Breezy Squeeze](https://open.spotify.com/track/04qKPUB4wx0ZmJ1C64RQ7x) | [Arlos](https://open.spotify.com/artist/5PU5cwPems7pVldrGo4Bs5) | [Breezy Squeeze](https://open.spotify.com/album/3CkhXqDtWlL967DyGiIUEO) | 2:29 | 2026-02-27 |  |
 | [bubblegum](https://open.spotify.com/track/2Sc8hpGvBjCIw7xQ2ZP0fG) | [Lush Lime](https://open.spotify.com/artist/6W3OIb36yf8ViP1vtpq6j9) | [bubblegum](https://open.spotify.com/album/1Uz1ZlcZLkylqzYfJkyRGY) | 1:52 | 2026-03-20 |  |
@@ -39,7 +41,9 @@
 | [Lagoon](https://open.spotify.com/track/7Iq4EiDVxmeqHmzXxZiTgk) | [Mareel](https://open.spotify.com/artist/7nI22V07BuRLz4BKbXtE5z) | [Lagoon](https://open.spotify.com/album/14clPbiCe8QEjmMwhnHcn4) | 2:22 | 2026-02-27 |  |
 | [Late Night Café Whispers](https://open.spotify.com/track/15YGE1PvfG8pIJeaSgkunj) | [cloudoris](https://open.spotify.com/artist/4a7JNhX95vhAsZrSOVLjBF) | [Late Night Café Whispers](https://open.spotify.com/album/0zt1QZS4b93mkCnkkY7VtS) | 2:19 | 2026-04-03 |  |
 | [letters never sent](https://open.spotify.com/track/79Nby6z1gEB3aK4CgPNLXd) | [Her Name is Sage](https://open.spotify.com/artist/6OVjImRqgRTTCRYi4vTHs9) | [letters never sent](https://open.spotify.com/album/2uUNzBZxFhDF0Ew0182lUw) | 2:20 | 2026-04-03 |  |
+| [Like Sunday](https://open.spotify.com/track/0NCadexlwl3x3JHqAHxPSW) | [Civin](https://open.spotify.com/artist/05PE7U7GPUq687RB2ZJdFW), [Maca](https://open.spotify.com/artist/5EKIGbuC1kMehBmQoY0nzj) | [Like Sunday](https://open.spotify.com/album/2kAIGTBS3Xlj3Oas6CersO) | 1:43 | 2026-04-10 |  |
 | [lotus lullaby](https://open.spotify.com/track/2hLnS47GXY6F7K1tRIeKQb) | [Reve brumeux](https://open.spotify.com/artist/2ZlVEhVqWhxjhWl8awyoDY) | [lotus lullaby](https://open.spotify.com/album/2fVgpha9xp7HSIws6hl3yh) | 2:19 | 2026-02-27 |  |
+| [Mahone Bay](https://open.spotify.com/track/2vbrq3aG9w6Uu4z1nirX9R) | [Brxvs](https://open.spotify.com/artist/3LoO7TNHi4wqe78tsBMMv5), [marsquake](https://open.spotify.com/artist/7JHsA8iL2mnUsAteuzehsb) | [Mahone Bay](https://open.spotify.com/album/5suTfgm5aMIMZNi1yhWaPW) | 2:28 | 2026-04-10 |  |
 | [Medusa](https://open.spotify.com/track/5rrLLg7hNgVhWmpfOoOBpf) | [Modulus](https://open.spotify.com/artist/5V0QPPvoC4xK0m9aNYfXbb) | [Medusa](https://open.spotify.com/album/6bLBGvsxl6cg72pEQfytI4) | 2:03 | 2026-02-27 |  |
 | [moving mountains](https://open.spotify.com/track/1ye7e1fKT6Rfd9Rj8L26qD) | [slowburn](https://open.spotify.com/artist/4wSDv48fN9mItDjtMpSEDo) | [moving mountains](https://open.spotify.com/album/4XVqMTpPB6QTj32XMfnC8e) | 2:28 | 2026-02-27 |  |
 | [Muse](https://open.spotify.com/track/1hMmFZhT7ZnBe2JUvKS8j5) | [Sling Dilly](https://open.spotify.com/artist/6dY8i34qqvAmPgYeOzHTO9) | [Muse](https://open.spotify.com/album/2M43UqYdHuWKke1Ja9uGXX) | 2:05 | 2026-02-27 |  |
@@ -54,6 +58,7 @@
 | [Quiet Before Night](https://open.spotify.com/track/36MdYvf01Yb7yFZnWwHdgb) | [tomoko grey](https://open.spotify.com/artist/00BjgPB5YCiBQ1Qn7ZI3dZ) | [Quiet Before Night](https://open.spotify.com/album/06WQDkT3qWGvm8HPfLKbbh) | 2:13 | 2026-02-27 |  |
 | [Sienna](https://open.spotify.com/track/2yjEGB7mQ15YDmX3Y437ta) | [gknister](https://open.spotify.com/artist/0fR068DfY5exvbuRLEV0t7) | [Sienna](https://open.spotify.com/album/6CFrvENKLwwinTSo2jiwDH) | 1:23 | 2026-02-27 |  |
 | [simple things](https://open.spotify.com/track/2jJPB8v11nFxx0INPjZFok) | [Breezonic](https://open.spotify.com/artist/6dcAuzmzyzfUfwRyT2CIXb) | [simple things](https://open.spotify.com/album/0Lu2tlgxEVh0AFSOEiq3cB) | 1:57 | 2026-02-27 |  |
+| [Skyward](https://open.spotify.com/track/4CN7MVWJlCmILOpPZJofgG) | [David Chief](https://open.spotify.com/artist/74MxkvPdj4ymZu9WZLxZZU), [Lotus Beats](https://open.spotify.com/artist/667RkTKDzJP6Hi3viSrkWI) | [Skyward](https://open.spotify.com/album/66B3RIxjdQ2lPdEF8Zu6rg) | 1:47 | 2026-04-10 |  |
 | [Slow Steps](https://open.spotify.com/track/2YXCqbCuiiLUiNlw0NSx9h) | [Jost Esser](https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8) | [Slow Steps](https://open.spotify.com/album/5CroIH6dSKTwZkpEkF7EI2) | 2:00 | 2026-02-27 |  |
 | [Sodium Light](https://open.spotify.com/track/2skEJr6oMupZY7oZJJqF8N) | [Pale Fiction](https://open.spotify.com/artist/4rMd74iv02uwHdEs5Dc4XV) | [Sodium Light](https://open.spotify.com/album/4dv5BXCczbIXYggQzKETcG) | 2:05 | 2026-02-27 |  |
 | [soulmates](https://open.spotify.com/track/7EnfB8FsjByMbQJE4ORhI1) | [Rustique Beats](https://open.spotify.com/artist/6i2uc5LaqqgBJ6SozGzryq) | [soulmates](https://open.spotify.com/album/6dOyi41HlOa2BSdwu6bqzG) | 1:54 | 2026-03-27 |  |

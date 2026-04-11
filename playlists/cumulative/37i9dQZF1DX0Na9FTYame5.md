@@ -4,7 +4,7 @@
 
 > Deutschrap für die emotions\. Cover: Alies, Zuna
 
-367 songs - 16 hr 34 min
+367 songs - 16 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Ein Jahr \(feat\. Montez\)](https://open.spotify.com/track/1umWYzhtxWxlVvnvfWLbT4) | [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d), [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [Ein Jahr \(feat\. Montez\)](https://open.spotify.com/album/3LjJ01pSUYqUCqHf2ahgJD) | 2:56 | 2024-07-25 | 2024-10-18 |
 | [Ein letztes Mal noch](https://open.spotify.com/track/6U0ONSf8rDjrOvFo2ZYOw0) | [CALO](https://open.spotify.com/artist/474Q0FLKeKJZpGZgvo8QdD), [BOJAN](https://open.spotify.com/artist/0oxWjDXa2iXcVB11n8RY3U) | [Ein letztes Mal noch](https://open.spotify.com/album/3I8ZRT8pH3GEaqMjQR58HM) | 2:29 | 2025-06-09 | 2025-07-29 |
 | [Ein Lied für dich](https://open.spotify.com/track/3awCCyQfwNbQdf3lL5EL7C) | [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6) | [21 Gramm](https://open.spotify.com/album/0xRRqJIhWIU0WASStddsWK) | 3:01 | 2025-08-28 |  |
-| [EIN TEIL VON MIR](https://open.spotify.com/track/0JtDPZDAIEIZbE1y7aSjTB) | [badchieff](https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6) | [EIN TEIL VON MIR](https://open.spotify.com/album/04NdFbXkgiLxxemKACJIHd) | 2:45 | 2025-02-03 | 2026-04-10 |
+| [EIN TEIL VON MIR](https://open.spotify.com/track/0JtDPZDAIEIZbE1y7aSjTB) | [badchieff](https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6) | [EIN TEIL VON MIR](https://open.spotify.com/album/04NdFbXkgiLxxemKACJIHd) | 2:45 | 2025-02-03 |  |
 | [Eintausend Farben](https://open.spotify.com/track/2ExSVDSeDoHUUW0iyGEEpx) | [Kane](https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf) | [Eintausend Farben](https://open.spotify.com/album/2wmJrZ5RWw969i9SifZNpJ) | 2:36 | 2025-08-07 | 2025-11-14 |
 | [Elbe](https://open.spotify.com/track/2kvJnNMqnimkCZUUWjOINy) | [Bozza](https://open.spotify.com/artist/4WoSAKuoaPxrbwp3Y1PvKb) | [Elbe](https://open.spotify.com/album/49fAdOAW2qhJWhpDayFcKg) | 3:15 | 2024-06-28 | 2025-10-13 |
 | [Ende](https://open.spotify.com/track/0hB4Nsxw9ENjf3y13lHmc1) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Ende](https://open.spotify.com/album/4a93EgYKbcOmW5aSeL6ODf) | 2:53 | 2025-02-27 | 2025-04-22 |
@@ -283,7 +283,7 @@
 | [Sanduhr](https://open.spotify.com/track/0hab3VhPV6LIWZbOgwm67L) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [LEVIN LIAM LEAKS 2025](https://open.spotify.com/album/4EM21MaOPc7LwPZPWUfEwv) | 2:11 | 2025-03-24 | 2025-06-06 |
 | [Schatten](https://open.spotify.com/track/4rBBKTHIGcjKhukjOno0t1) | [Morpheuz](https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf), [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [Schatten](https://open.spotify.com/album/66ynoXazPbss2y4481rMZa) | 3:02 | 2026-01-23 |  |
 | [Scherbenland](https://open.spotify.com/track/5GDTwl4kG9ChWUcXZY6TB9) | [RAPK](https://open.spotify.com/artist/7b4qgFeygnbXxcH3cvKl1D) | [Scherbenland](https://open.spotify.com/album/1osObReGJXfg65fHNcSgv1) | 2:27 | 2025-08-07 | 2025-09-22 |
-| [SCHNEE](https://open.spotify.com/track/3QqsYd6OSGLnwCQ9ahRhNe) | [OMAR](https://open.spotify.com/artist/0h0Iypw4Zpe2pWEKIS9So3) | [SCHNEE](https://open.spotify.com/album/1MmuITHGU6KSKtX890WSaJ) | 2:20 | 2026-01-23 |  |
+| [SCHNEE](https://open.spotify.com/track/3QqsYd6OSGLnwCQ9ahRhNe) | [OMAR](https://open.spotify.com/artist/0h0Iypw4Zpe2pWEKIS9So3) | [SCHNEE](https://open.spotify.com/album/1MmuITHGU6KSKtX890WSaJ) | 2:20 | 2026-01-23 | 2026-04-11 |
 | [schwarze SUVs](https://open.spotify.com/track/6pimu004QBUVyiWJPYylGi) | [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic) | [schwarze SUVs](https://open.spotify.com/album/6xkvyVTWRegxKOo0bbZcb2) | 2:49 | 2024-06-28 | 2024-12-19 |
 | [Schwarze Wolke](https://open.spotify.com/track/5Y1KFSz4b4b27mVwtAdnUV) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Schwarze Wolke](https://open.spotify.com/album/1WZAhXI5YWAjDonYilGnzy) | 2:57 | 2024-11-11 | 2025-01-16 |
 | [Schwarzer Tee](https://open.spotify.com/track/4aX1MyFakzqWsvP0YMwtvc) | [Disarstar](https://open.spotify.com/artist/7BSNHln0lSqyDHdQ3sv0Q5) | [Schwarzer Tee](https://open.spotify.com/album/3wMBW5OwobEyf47dp0eBn1) | 2:23 | 2025-12-19 | 2026-03-09 |
@@ -320,7 +320,6 @@
 | [Tinnitus](https://open.spotify.com/track/4SamJ1uIL2OzAFgDGdnhx0) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Glas](https://open.spotify.com/album/1oMWwWSqcGxpn2YhsYkNt6) | 3:02 | 2024-06-28 | 2024-12-10 |
 | [Titan](https://open.spotify.com/track/4Z2oZGSnpQaPOTnKkg8A6h) | [Apsilon](https://open.spotify.com/artist/6JqtADDgBVPjLBRFwqjuFm) | [Titan](https://open.spotify.com/album/4HBMG7zg1DA95a7mj7Wyzl) | 3:06 | 2026-02-27 |  |
 | [Tochter](https://open.spotify.com/track/4FQ4jb3BC5ZieMSeOJGwMc) | [Disarstar](https://open.spotify.com/artist/7BSNHln0lSqyDHdQ3sv0Q5), [Jassin](https://open.spotify.com/artist/2hRKaY76bYHW5uCvHqbeMh) | [Tochter](https://open.spotify.com/album/0pf0lpX0VnYbL1aBgxEz1o) | 2:50 | 2025-08-14 | 2025-09-24 |
-| [Track 5](https://open.spotify.com/track/5UyW1e3Rws3ArunzTbRHUd) | [Takt32](https://open.spotify.com/artist/1G7TGDJ01So6i6XNirnVS7) | [HOT32 FM EP \- Vol\. 1](https://open.spotify.com/album/3X3N6EHRiqxiiUs1AzBZBV) | 0:00 | 2026-04-09 |  |
 | [trauen](https://open.spotify.com/track/15v71BkQIpxgW5vY2ernwh) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [trauen](https://open.spotify.com/album/1chQKL06AdfzCwZBCX68Po) | 2:44 | 2024-08-12 | 2024-11-09 |
 | [ufos](https://open.spotify.com/track/2sR8MJNpZ2rucdoWlaAWK1) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [ufos](https://open.spotify.com/album/40wI7xjZ9bsRDtewoLXpTH) | 2:14 | 2024-08-22 | 2024-11-23 |
 | [Uludağ und Sorgen](https://open.spotify.com/track/1kQKmatH0qVvnT05kJ0o4d) | [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic), [Symba](https://open.spotify.com/artist/1VmIfQToGVtxmv2w3QtyVY) | [Uludağ und Sorgen](https://open.spotify.com/album/3uR9ZiNsj3VU2x1E0VRNgT) | 3:06 | 2024-06-28 | 2025-01-22 |
@@ -336,6 +335,7 @@
 | [verstecken](https://open.spotify.com/track/6LliQsJvqpEBrP1Bhf6HEw) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [verstecken](https://open.spotify.com/album/2PoecB4132E7hBtLC0uBgy) | 2:42 | 2024-06-28 | 2024-11-22 |
 | [Vespa](https://open.spotify.com/track/4cQXzeob93WskDrYumvoqn) | [Erda](https://open.spotify.com/artist/0Zd813hYpR0qlSmJt5T8E7) | [Vespa](https://open.spotify.com/album/6pUSfO8PGUDlUFWh8SMZJQ) | 2:17 | 2025-05-19 | 2025-06-20 |
 | [Visionen](https://open.spotify.com/track/4LZdzSQTP4TvK9B5Boag2G) | [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp) | [CATCH ME IF YOU CAN](https://open.spotify.com/album/0wqQ5avF8r5DKkQKSYb5bm) | 3:22 | 2025-11-06 | 2026-01-30 |
+| [Von hier](https://open.spotify.com/track/5UyW1e3Rws3ArunzTbRHUd) | [Takt32](https://open.spotify.com/artist/1G7TGDJ01So6i6XNirnVS7), [BANGS](https://open.spotify.com/artist/0m20qbznN06zlM0PmCSTRh), [AOB](https://open.spotify.com/artist/1m05fMsTwwLZwPgjiWaj8y), [RYCH](https://open.spotify.com/artist/2anAeor9hqScCy83LKyGIY) | [HOT32 FM EP \- Vol\. 1](https://open.spotify.com/album/3X3N6EHRiqxiiUs1AzBZBV) | 2:53 | 2026-04-09 |  |
 | [VORBEI](https://open.spotify.com/track/2dESh9c89uVcszcd7TcUBz) | [OMAR](https://open.spotify.com/artist/0h0Iypw4Zpe2pWEKIS9So3), [Paves 16](https://open.spotify.com/artist/2gAXwURDNLBpiwlrgcl9HM) | [VORBEI](https://open.spotify.com/album/1v3Spz88JnZRm9y9tzGe1Q) | 2:34 | 2025-02-06 | 2025-04-09 |
 | [War das schon alles](https://open.spotify.com/track/6FgAH2lOrWWcFhXRDjhKrT) | [Trettmann](https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4) | [War das schon alles](https://open.spotify.com/album/56JoFMEfYoSx912WyLmQ14) | 2:58 | 2024-06-28 | 2024-09-30 |
 | [Warum ich?](https://open.spotify.com/track/57vsdwAovYIYg6EqrPF4kH) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Warum ich?](https://open.spotify.com/album/6ihVQK90uZTh49QcocIFIp) | 2:24 | 2025-04-24 | 2025-08-03 |

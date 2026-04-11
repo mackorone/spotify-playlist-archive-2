@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Aitana en portada \u2728",
+  "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Noa Sainz en portada \u2728",
   "name": "Oye Pop",
   "tracks": [
     {
@@ -110,6 +110,24 @@
       "duration_ms": 182696,
       "name": "1+",
       "url": "https://open.spotify.com/track/40hdo41xz7pE47DKRbgpVN"
+    },
+    {
+      "album": {
+        "name": "105",
+        "url": "https://open.spotify.com/album/3iOwhiQRnwYhkn2hGRoiJ7"
+      },
+      "artists": [
+        {
+          "name": "EV\u00cdC",
+          "url": "https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223384,
+      "name": "105",
+      "url": "https://open.spotify.com/track/6alc7s6nlzXgNS5pIFRGpa"
     },
     {
       "album": {
@@ -1384,7 +1402,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 160496,
       "name": "bellaka",
       "url": "https://open.spotify.com/track/3SXcjqgF74D9saMLxD9GGC"
@@ -1682,7 +1700,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 148636,
       "name": "BRAINCHEM",
       "url": "https://open.spotify.com/track/7fXIu7u2gX2zdGbBveKp2n"
@@ -1788,7 +1806,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 210258,
       "name": "buttermilk 2",
       "url": "https://open.spotify.com/track/6SQgtVsmwZMIluNxdFICeM"
@@ -4966,7 +4984,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 191765,
       "name": "Goo Goo Ga Ga",
       "url": "https://open.spotify.com/track/1OshrLJk7kar0EoabLbEOo"
@@ -6146,6 +6164,24 @@
       "duration_ms": 195892,
       "name": "Limonar",
       "url": "https://open.spotify.com/track/5A0BHKTVDwtO2X20EDiZlG"
+    },
+    {
+      "album": {
+        "name": "LINDO RECUERDO",
+        "url": "https://open.spotify.com/album/3EOqKGsz5PKVgxjbmXzT5Y"
+      },
+      "artists": [
+        {
+          "name": "Noa Sainz",
+          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163469,
+      "name": "LINDO RECUERDO",
+      "url": "https://open.spotify.com/track/7FdKQZc4lm49oESCOeabIJ"
     },
     {
       "album": {
@@ -7495,6 +7531,24 @@
     },
     {
       "album": {
+        "name": "Motorizado (dime as\u00ed)",
+        "url": "https://open.spotify.com/album/3QPgo6rQUtD42arDl3FHFX"
+      },
+      "artists": [
+        {
+          "name": "RPLK",
+          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182564,
+      "name": "Motorizado (dime as\u00ed)",
+      "url": "https://open.spotify.com/track/4PupcpDxPP34zS2J2y2quX"
+    },
+    {
+      "album": {
         "name": "Spalla",
         "url": "https://open.spotify.com/album/3aN5rWhxOwIdELqK5qXA7b"
       },
@@ -7510,6 +7564,24 @@
       "duration_ms": 142000,
       "name": "Mucho Drama",
       "url": "https://open.spotify.com/track/76T5yoiiHKtZPmLFVkZMdk"
+    },
+    {
+      "album": {
+        "name": "muero por ella",
+        "url": "https://open.spotify.com/album/29iSYqRr3ZmGMTPsYPD67l"
+      },
+      "artists": [
+        {
+          "name": "Iv\u00e1n Ivengo",
+          "url": "https://open.spotify.com/artist/4oiI7JbuL1TKEO6skc1B5x"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154444,
+      "name": "muero por ella",
+      "url": "https://open.spotify.com/track/40JFndyTeKYIMDHbdwIwVN"
     },
     {
       "album": {
@@ -8000,7 +8072,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 179750,
       "name": "no te conviene",
       "url": "https://open.spotify.com/track/1NN2bk1RlpKF11hGroafHI"
@@ -8754,7 +8826,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 187114,
       "name": "pecos",
       "url": "https://open.spotify.com/track/1U4gvn7EQFC2RQgaYEthVa"
@@ -10235,6 +10307,24 @@
     },
     {
       "album": {
+        "name": "si t\u00fa me llamas",
+        "url": "https://open.spotify.com/album/3t38xG5PKSf4Xt2HJoy8sB"
+      },
+      "artists": [
+        {
+          "name": "Bilbao",
+          "url": "https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209125,
+      "name": "si t\u00fa me llamas",
+      "url": "https://open.spotify.com/track/5sZdhdpyHeJiqNi56gqIXA"
+    },
+    {
+      "album": {
         "name": "Siempre Que Lo Beso",
         "url": "https://open.spotify.com/album/6HZmLJi2vatI1IPmcJ6Y5s"
       },
@@ -11675,6 +11765,28 @@
     },
     {
       "album": {
+        "name": "Tu Coraz\u00f3n (Your Heart)",
+        "url": "https://open.spotify.com/album/18b9Dj6RtCqtorAu7l9PKX"
+      },
+      "artists": [
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        },
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180120,
+      "name": "Tu Coraz\u00f3n (Your Heart)",
+      "url": "https://open.spotify.com/track/64PXpstU2BDJ1iMcPNLJyS"
+    },
+    {
+      "album": {
         "name": "Tu Look",
         "url": "https://open.spotify.com/album/11pMPWJT66aQcb0m6UhnsZ"
       },
@@ -12039,6 +12151,24 @@
     },
     {
       "album": {
+        "name": "DUAL",
+        "url": "https://open.spotify.com/album/5y3kJTo3x5PBOK6aJSKWMD"
+      },
+      "artists": [
+        {
+          "name": "SANTOS BRAVOS",
+          "url": "https://open.spotify.com/artist/24Vjp1gvnNuNSWJ0vFMZ6G"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133746,
+      "name": "VELOCIDADE",
+      "url": "https://open.spotify.com/track/3J8uUvHttFs8zlYxoiPVe3"
+    },
+    {
+      "album": {
         "name": "VELOZzzz",
         "url": "https://open.spotify.com/album/2VMx5vYoiUwABFtxhXmqFN"
       },
@@ -12144,7 +12274,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 182900,
       "name": "Vertical",
       "url": "https://open.spotify.com/track/200F6URh7u15BxsH7v9Lad"

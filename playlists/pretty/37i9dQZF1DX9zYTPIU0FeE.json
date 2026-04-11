@@ -1,6 +1,6 @@
 {
   "description": "Journey through the sounds of South African Jazz. Cover: Spha Mdlalose",
-  "num_followers": 13252,
+  "num_followers": 13260,
   "original_name": "Jazz NXT",
   "owner": {
     "name": "Spotify",
@@ -79,22 +79,6 @@
     {
       "added_at": "2026-04-09 22:02:59",
       "album": {
-        "name": "Azania",
-        "url": "https://open.spotify.com/album/1bnZlO6f8M5cawXgLGIj9v"
-      },
-      "artists": [
-        {
-          "name": "iPhupho L'ka Biko",
-          "url": "https://open.spotify.com/artist/69TRZAKuYvfQEpDIkKYQaq"
-        }
-      ],
-      "duration_ms": 253498,
-      "name": "uThixo uKhona",
-      "url": "https://open.spotify.com/track/4z9U5r5eo5B1ZiNbqIz2Zh"
-    },
-    {
-      "added_at": "2026-04-09 22:02:59",
-      "album": {
         "name": "Intlambululo: Ukuhlambulula",
         "url": "https://open.spotify.com/album/2hxynae0xcceJMSPSjDuhg"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 354824,
       "name": "Amyoli",
       "url": "https://open.spotify.com/track/2oV2mK0Jui9PEhz9Dd1hmA"
+    },
+    {
+      "added_at": "2026-04-09 22:02:59",
+      "album": {
+        "name": "Azania",
+        "url": "https://open.spotify.com/album/1bnZlO6f8M5cawXgLGIj9v"
+      },
+      "artists": [
+        {
+          "name": "iPhupho L'ka Biko",
+          "url": "https://open.spotify.com/artist/69TRZAKuYvfQEpDIkKYQaq"
+        }
+      ],
+      "duration_ms": 253498,
+      "name": "uThixo uKhona",
+      "url": "https://open.spotify.com/track/4z9U5r5eo5B1ZiNbqIz2Zh"
     },
     {
       "added_at": "2026-04-09 22:02:59",
@@ -587,22 +587,6 @@
     {
       "added_at": "2026-04-09 22:02:59",
       "album": {
-        "name": "Love Drive",
-        "url": "https://open.spotify.com/album/4xLYE2FqMIfSsHkPtL7v7q"
-      },
-      "artists": [
-        {
-          "name": "Vimbs Mavimbs",
-          "url": "https://open.spotify.com/artist/17miQtSakhWQ0YJQtNdCeN"
-        }
-      ],
-      "duration_ms": 274091,
-      "name": "Love Drive",
-      "url": "https://open.spotify.com/track/62vKXM3SYKQMP9V4FLhjCN"
-    },
-    {
-      "added_at": "2026-04-09 22:02:59",
-      "album": {
         "name": "The Waters",
         "url": "https://open.spotify.com/album/6MSFydma7FJtUStM0FqTiU"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 302022,
       "name": "The Waters",
       "url": "https://open.spotify.com/track/3jJ4WhN4qNSM5dkV79C4JW"
+    },
+    {
+      "added_at": "2026-04-09 22:02:59",
+      "album": {
+        "name": "Love Drive",
+        "url": "https://open.spotify.com/album/4xLYE2FqMIfSsHkPtL7v7q"
+      },
+      "artists": [
+        {
+          "name": "Vimbs Mavimbs",
+          "url": "https://open.spotify.com/artist/17miQtSakhWQ0YJQtNdCeN"
+        }
+      ],
+      "duration_ms": 274091,
+      "name": "Love Drive",
+      "url": "https://open.spotify.com/track/62vKXM3SYKQMP9V4FLhjCN"
     },
     {
       "added_at": "2026-04-09 22:02:59",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-04-09 22:02:59",
       "album": {
-        "name": "War",
-        "url": "https://open.spotify.com/album/2FxrAPMVpvhLHVlmUzc1SH"
-      },
-      "artists": [
-        {
-          "name": "Asher Gamedze",
-          "url": "https://open.spotify.com/artist/0seHw20kF6a8af3qsufKyQ"
-        }
-      ],
-      "duration_ms": 311750,
-      "name": "War",
-      "url": "https://open.spotify.com/track/1VrOE2BSzdM1sJPMUSADXQ"
-    },
-    {
-      "added_at": "2026-04-09 22:02:59",
-      "album": {
         "name": "Tones of Epiphany",
         "url": "https://open.spotify.com/album/3xGxUaz3ASDBegpjbmChea"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 362790,
       "name": "The Aha Moment",
       "url": "https://open.spotify.com/track/5DCuEzR8CjK94M2DWwKygy"
+    },
+    {
+      "added_at": "2026-04-09 22:02:59",
+      "album": {
+        "name": "War",
+        "url": "https://open.spotify.com/album/2FxrAPMVpvhLHVlmUzc1SH"
+      },
+      "artists": [
+        {
+          "name": "Asher Gamedze",
+          "url": "https://open.spotify.com/artist/0seHw20kF6a8af3qsufKyQ"
+        }
+      ],
+      "duration_ms": 311750,
+      "name": "War",
+      "url": "https://open.spotify.com/track/1VrOE2BSzdM1sJPMUSADXQ"
     },
     {
       "added_at": "2026-04-09 22:02:59",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-16",
-  "description": "Encuentra un mix de cl\u00e1sicos y nuevos talentos. Foto: Triciclo Parlante",
+  "description": "Encuentra un mix de cl\u00e1sicos y nuevos talentos. Foto: Los Tres",
   "name": "Rock Chileno",
   "tracks": [
     {
@@ -898,6 +898,24 @@
       "duration_ms": 169384,
       "name": "Como es que no gozas",
       "url": "https://open.spotify.com/track/6hMwYF9yok533cqZB631MN"
+    },
+    {
+      "album": {
+        "name": "XCLNT",
+        "url": "https://open.spotify.com/album/69PDApE4B4ckucDwyaFZRq"
+      },
+      "artists": [
+        {
+          "name": "Los Tres",
+          "url": "https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258066,
+      "name": "Como llegaste te vas",
+      "url": "https://open.spotify.com/track/7oCjBMI0O5H8fE8A2T1W1O"
     },
     {
       "album": {
@@ -3502,7 +3520,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 282572,
       "name": "Me Vuelves a Herir - En Vivo",
       "url": "https://open.spotify.com/track/7H18lwb683he5Wwec7gfHH"

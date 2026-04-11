@@ -45787,6 +45787,24 @@
     },
     {
       "album": {
+        "name": "Aquarium",
+        "url": "https://open.spotify.com/album/7uYn7ZSrXOVlmITyocZs9F"
+      },
+      "artists": [
+        {
+          "name": "Aqua",
+          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225733,
+      "name": "Roses Are Red - Original Version",
+      "url": "https://open.spotify.com/track/4qZwVr553XcQNdeqjueeE3"
+    },
+    {
+      "album": {
         "name": "Round My Head",
         "url": "https://open.spotify.com/album/0cbcXYIF7X4STj3zcHC9JO"
       },

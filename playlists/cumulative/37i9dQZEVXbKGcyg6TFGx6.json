@@ -8425,6 +8425,24 @@
     },
     {
       "album": {
+        "name": "BLUT",
+        "url": "https://open.spotify.com/album/4OkRg2V7RHGPX5cgYylRZQ"
+      },
+      "artists": [
+        {
+          "name": "JunOfficial",
+          "url": "https://open.spotify.com/artist/0JKz49j9saZChF7lZRTmrq"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133109,
+      "name": "BLUT",
+      "url": "https://open.spotify.com/track/1vcA81HlkSssct4IfYu236"
+    },
+    {
+      "album": {
         "name": "Himmel \u00fcber Berlin",
         "url": "https://open.spotify.com/album/68uZ1QirB4TtAyHzcoLGWK"
       },
@@ -11636,7 +11654,7 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-29",
+      "date_removed": null,
       "duration_ms": 184789,
       "name": "CHAMPAIN & VACAY",
       "url": "https://open.spotify.com/track/1097cG16gzkhlPgkUt6KA0"
@@ -17786,6 +17804,24 @@
     {
       "album": {
         "name": "JACKBOYS 2",
+        "url": "https://open.spotify.com/album/5GBAHu7EH8HWX5tBCjL0SA"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238249,
+      "name": "DUMBO",
+      "url": "https://open.spotify.com/track/3GtxRYChLs84J8qohrjsDR"
+    },
+    {
+      "album": {
+        "name": "JACKBOYS 2",
         "url": "https://open.spotify.com/album/1Fj25TwO1GL490NL5cFVnb"
       },
       "artists": [
@@ -22238,7 +22274,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-10",
+      "date_removed": null,
       "duration_ms": 188852,
       "name": "Funk Town",
       "url": "https://open.spotify.com/track/5Z5QRhx4yXhqFOIul4Uimn"
@@ -24180,7 +24216,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 141389,
       "name": "G\u00e9n\u00e9ration impolie",
       "url": "https://open.spotify.com/track/7EyB1sN9IUO1YXIoHTyZRk"
@@ -40254,7 +40290,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 89745,
       "name": "NO BATID\u00c3O",
       "url": "https://open.spotify.com/track/7vg9noSnFEyPfwLiaCW4vi"
@@ -44372,7 +44408,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 124959,
       "name": "Petals on Concrete",
       "url": "https://open.spotify.com/track/6oLPprA1Unne811HNEnoAp"
@@ -45160,7 +45196,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 230000,
       "name": "Poney",
       "url": "https://open.spotify.com/track/66ku4Gq4k5xUqdVL4Oam2r"

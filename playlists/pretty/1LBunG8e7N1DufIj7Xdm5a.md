@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,266 songs - 9 day 11 hr 8 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,268 songs - 9 day 11 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4274,5 +4274,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4264 | [Remain with Grey](https://open.spotify.com/track/4pnj4tte4lPQ5R6OWa0SUZ) | [Tilt 360](https://open.spotify.com/artist/32oplagvPK0sLgWgOm5u2x) | [Remain with Grey](https://open.spotify.com/album/6NvuxISNMzES9LPDmKBWvW) | 3:34 |
 | 4265 | [Осень \(Пахнет жжёной гарью...\)](https://open.spotify.com/track/7kpVQ2VRlYWhDBQjfhNu9r) | [S T O L I C A](https://open.spotify.com/artist/5SAai3KeQhtyfBIKpWAtaf) | [Осень \(Пахнет жжёной гарью...\)](https://open.spotify.com/album/6p7RGXtXeYmq9raQ3SDah9) | 2:27 |
 | 4266 | [Facciamo Magia](https://open.spotify.com/track/14IlnJGHHbt4JzduLMdFMR) | [Artide](https://open.spotify.com/artist/7JDUHZiaiEls9VVH7hmnNF) | [Facciamo Magia](https://open.spotify.com/album/3mESk1TGMe6222vIIp8xMi) | 3:06 |
+| 4267 | [Abyss](https://open.spotify.com/track/1a1aKkuMpS40ClyL1HEgRq) | [Moonlight Wild](https://open.spotify.com/artist/4YGuNsct1wczluINOR0VXz) | [Abyss](https://open.spotify.com/album/3EQpjJI7oJbsfFDw2wR84B) | 5:00 |
+| 4268 | [Космос ждёт!](https://open.spotify.com/track/3eI5TOZVCiR9F1UGgBunrq) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Космос ждёт!](https://open.spotify.com/album/3aEUPND51PH4Kw466Tw49M) | 4:44 |
 
-Snapshot ID: `AAAIKU6aCZ5FS2k7+oCoqLNiMSHEAei3`
+Snapshot ID: `AAAIK0nk1lcdl1fWSyk9DPHDXy85zDZf`

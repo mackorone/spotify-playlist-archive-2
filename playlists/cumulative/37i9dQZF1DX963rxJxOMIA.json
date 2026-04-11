@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-07",
-  "description": "Fino y elegante, como Kris R, Westcol y Ovy On The Drums.",
+  "description": "Fino y elegante, como Blessd y Crudo Means Raw. ",
   "name": "FINO",
   "tracks": [
     {
@@ -70,7 +70,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 298130,
       "name": "+57",
       "url": "https://open.spotify.com/track/3mg9jYNC1NihbthlglzrWP"
@@ -2228,7 +2228,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 220116,
       "name": "D\u00e9jala Que Vuelva (feat. Manuel Turizo)",
       "url": "https://open.spotify.com/track/33bnxcjePIkcmNjEFTJX0l"
@@ -3341,6 +3341,28 @@
     },
     {
       "album": {
+        "name": "EL MEJOR HOMBRE DEL MUNDO",
+        "url": "https://open.spotify.com/album/6fdaLD9AcFrRO32HjRHyq8"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Crudo Means Raw",
+          "url": "https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206451,
+      "name": "GRACIAS A MI DIOS",
+      "url": "https://open.spotify.com/track/25dYNzELJtA1ZIqOaCsORe"
+    },
+    {
+      "album": {
         "name": "GUAIA",
         "url": "https://open.spotify.com/album/2Sl4uHdm7F5vX6mZPhEO6c"
       },
@@ -4026,6 +4048,28 @@
       "duration_ms": 196416,
       "name": "La Mentira Que Amamos",
       "url": "https://open.spotify.com/track/2gUMZd72NZRUnuanpr676W"
+    },
+    {
+      "album": {
+        "name": "La Movida",
+        "url": "https://open.spotify.com/album/1LvahwcHBNBbDtkIAIiqtC"
+      },
+      "artists": [
+        {
+          "name": "Barboza",
+          "url": "https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG"
+        },
+        {
+          "name": "Soley",
+          "url": "https://open.spotify.com/artist/1zo2ucFhzu58hKcniMpSQs"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160800,
+      "name": "La Movida",
+      "url": "https://open.spotify.com/track/2vGvgadh3Y5eUdenohuSa1"
     },
     {
       "album": {
@@ -6918,7 +6962,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 176481,
       "name": "qu\u00e9date",
       "url": "https://open.spotify.com/track/6VfL3MEuYeJbDlD8m011HR"
@@ -8512,7 +8556,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 164000,
       "name": "UNA NOCHE DE LOCURA",
       "url": "https://open.spotify.com/track/2tKVinInf0PJS1iG04zzqi"

@@ -4,7 +4,7 @@
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-118 songs - 6 hr 53 min
+119 songs - 6 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Save Yourself](https://open.spotify.com/track/0zmBrqMD9u1wZUqJLNynUi) | [Maxine](https://open.spotify.com/artist/3m7b61n7lAtR554KpBx5y9) | [Save Yourself](https://open.spotify.com/album/7CUbS7kwBPOQPDBvWS5yET) | 2:49 | 2025-12-02 | 2025-12-28 |
 | [Sei qualcosa di più](https://open.spotify.com/track/0AMRBYq1MSMhHfPrbfzizr) | [DREANN](https://open.spotify.com/artist/0F1JM34Bsg9sH9sPyh7hFX) | [Rumori di Felicità](https://open.spotify.com/album/6IylMld0SUGYQpBtCwna1f) | 3:23 | 2026-01-28 | 2026-02-22 |
 | [slowdance](https://open.spotify.com/track/6Kx3zHc8aidGu6sSIpSjkc) | [momomal](https://open.spotify.com/artist/2ENQKzsamWjgYR5wpHhsw2) | [slowdance](https://open.spotify.com/album/2L88eTbTfaszlqOwMnWwB3) | 2:41 | 2026-03-17 | 2026-04-08 |
+| [So I Go](https://open.spotify.com/track/3TeB8lRNddWlypSvwXf1R6) | [Coya](https://open.spotify.com/artist/4Sk7nS0b73o1fMxiTYxd7x), [T Henry](https://open.spotify.com/artist/6V42pwtgf8J5RNdgHuh4sU) | [So I Go](https://open.spotify.com/album/6HJ9CPcUoUxB73jp4pBsFy) | 3:08 | 2026-04-10 |  |
 | [Something Better](https://open.spotify.com/track/0mtt3La0vOFO0jjUBzDyDe) | [Buffy](https://open.spotify.com/artist/2cduAtZPJsBg9LGGbS2Ktp) | [Something Better](https://open.spotify.com/album/2bGyHyfbRmdiEazFAZgdyu) | 4:28 | 2026-04-06 |  |
 | [Stop Crying Your Heart Out](https://open.spotify.com/track/0SlpFHdk4UHBDzCEoXzy14) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Heathen Chemistry](https://open.spotify.com/album/2EVWJRhbXWsSm7a6jdKv8O) | 5:03 | 2021-03-29 |  |
 | [Strangelove](https://open.spotify.com/track/6cKwFiMyBwqCMvHjC5mIXe) | [Positronic](https://open.spotify.com/artist/6rDrqNMSUbW114j0HBKK6t) | [Strangelove](https://open.spotify.com/album/2Q10PgEpeyBRDY642hYsuO) | 3:56 | 2025-11-07 | 2025-11-22 |

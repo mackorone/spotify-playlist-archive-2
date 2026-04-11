@@ -538,7 +538,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 340000,
       "name": "Blood of the Son",
       "url": "https://open.spotify.com/track/2lAaxALfW5C4OEYuOGTAqU"
@@ -831,6 +831,36 @@
     },
     {
       "album": {
+        "name": "Cope",
+        "url": "https://open.spotify.com/album/5kSSwbAlfFNo9mBonOamKv"
+      },
+      "artists": [
+        {
+          "name": "Saliva",
+          "url": "https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO"
+        },
+        {
+          "name": "Trevor McNevan",
+          "url": "https://open.spotify.com/artist/0RXO2ozd11vyo8ehxYGnZ6"
+        },
+        {
+          "name": "Thousand Foot Krutch",
+          "url": "https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr"
+        },
+        {
+          "name": "Judge & Jury",
+          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218333,
+      "name": "Cope",
+      "url": "https://open.spotify.com/track/1JvYUtwKW4e5L9q5ZFXyAP"
+    },
+    {
+      "album": {
         "name": "Count 'Em",
         "url": "https://open.spotify.com/album/6lbqpHtIIM0pEC3zDoUYfd"
       },
@@ -1088,7 +1118,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 182588,
       "name": "death before glory",
       "url": "https://open.spotify.com/track/2l309TpQXj8wrgE8dgVbFD"
@@ -2207,6 +2237,24 @@
     },
     {
       "album": {
+        "name": "Here I Am",
+        "url": "https://open.spotify.com/album/0y1cBljPj9eoDYFWCQsnRX"
+      },
+      "artists": [
+        {
+          "name": "ALTIRA",
+          "url": "https://open.spotify.com/artist/49d4O0218ZI3FKYNFLgrNs"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211108,
+      "name": "Here I Am",
+      "url": "https://open.spotify.com/track/1gWzJzipzr6hU4J70M9nSl"
+    },
+    {
+      "album": {
         "name": "Hidden",
         "url": "https://open.spotify.com/album/4IYq1OYcC5WsRytK1AR2HP"
       },
@@ -2508,6 +2556,24 @@
       "duration_ms": 250086,
       "name": "It Is Finished",
       "url": "https://open.spotify.com/track/6hmTv34PvjSgSJIQRUhsnw"
+    },
+    {
+      "album": {
+        "name": "just look at HIM",
+        "url": "https://open.spotify.com/album/0C3EDOYCgh2Wik5SQtkRs5"
+      },
+      "artists": [
+        {
+          "name": "The Band JAREN",
+          "url": "https://open.spotify.com/artist/41z8g885N9Yip6AGuV5TGX"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189591,
+      "name": "just look at HIM",
+      "url": "https://open.spotify.com/track/7vj2tW89HC3WDK5ijLNZXp"
     },
     {
       "album": {
@@ -5374,7 +5440,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 235954,
       "name": "Your Cross Is Everything",
       "url": "https://open.spotify.com/track/0ze66t6iOmallLyPADgeZ3"

@@ -4,7 +4,7 @@
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-1,832 songs - 3 day 9 hr 15 min
+1,835 songs - 3 day 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [A tale to tell](https://open.spotify.com/track/1b1A6Z7pI8myEX3TSyweOk) | [Luiza Schmidt](https://open.spotify.com/artist/6cGebk3cSumbL2uYiLp2tV) | [A tale to tell](https://open.spotify.com/album/0eaPaXCdf4G33QFO93cfXc) | 2:10 | 2023-07-18 | 2025-05-15 |
 | [A Time Long Ago](https://open.spotify.com/track/67ntAUXUgYdO3YUt04zk5E) | [Polly Carter](https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp) | [A Time Long Ago](https://open.spotify.com/album/5JWfUFwzVSKBohZnszGUoj) | 2:15 | 2023-05-09 |  |
 | [A Time of Wonder](https://open.spotify.com/track/2SiUDrcdc9iewegA0TmH6s) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [The Piano Whisperer](https://open.spotify.com/album/6YY3fbUoQYSacQglLohdQU) | 2:49 | 2019-05-26\* | 2020-03-31 |
+| [A Way Forward](https://open.spotify.com/track/7wMckEgxWuP0FhwUvpVNsf) | [Naskal](https://open.spotify.com/artist/2vpioEdP5cRy9DiJpF90i2) | [A Way Forward](https://open.spotify.com/album/1NR5CRihxGz7dsNoaaot1W) | 2:14 | 2026-04-10 |  |
 | [A Winged Time](https://open.spotify.com/track/26RTd4wqzRGUAAC2XoOAa4) | [Keiko Ishida](https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW) | [Out Of The Blue](https://open.spotify.com/album/7wl0ULSaII6WDHhVUMvmAc) | 2:00 | 2021-09-09 | 2022-07-16 |
 | [A Woman Alone](https://open.spotify.com/track/7uXvHGhRmxCBw2Y2vPCLcM) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Hostiles \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4enMBkXDO3tSrqxFxPXxSZ) | 1:50 | 2019-05-26\* | 2019-08-13 |
 | [A World Without Pain](https://open.spotify.com/track/536rm114S2ByPbh906pksj) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [A World Without Pain](https://open.spotify.com/album/76i9FGk2iswEnsUcv1Hmjd) | 2:36 | 2021-03-17 | 2022-03-03 |
@@ -388,6 +389,7 @@
 | [Der Vogel auf dem Felsen](https://open.spotify.com/track/6qeY26kCmlIzpLZVibJU4M) | [Wolfgang Schulmann](https://open.spotify.com/artist/0AUguA7F9t87WF6krMPXyz) | [Auf dem Felde](https://open.spotify.com/album/0EROhvEiWfGx9i9btcWQQm) | 2:20 | 2020-08-04 | 2022-04-15 |
 | [Der Wandervogel](https://open.spotify.com/track/3I7JFFCxYmFnhU5qrsIpZo) | [Ludwig Bern](https://open.spotify.com/artist/3CTqF5KWRHPvxA8SMgxHNA) | [Der Wandervogel](https://open.spotify.com/album/1UVUymmfClpklygLYiWIWJ) | 2:40 | 2020-09-22 | 2021-04-14 |
 | [Des ponts plutôt que des murs](https://open.spotify.com/track/2raTq4pOKZfeg2h61gnI0L) | [Zdenek Lemelin](https://open.spotify.com/artist/7z8fwNUZFxgizWrG2GDQt3) | [Des ponts plutôt que des murs](https://open.spotify.com/album/7v3sEjmd6HV2rC4gbTYiv0) | 2:28 | 2020-05-19 | 2021-10-20 |
+| [Desenio](https://open.spotify.com/track/2NZg2wXBtHDyliA3pqtrUL) | [Hector VallÇe](https://open.spotify.com/artist/2KlGXtQBlBpqBOt4WnVH4M) | [Desenio](https://open.spotify.com/album/2Th4vhpJfux4ro2fi4ZL0t) | 1:49 | 2026-04-10 |  |
 | [Desenlace](https://open.spotify.com/track/2nLJMA693clFEHKBi9de3i) | [Reivaj Ebol](https://open.spotify.com/artist/0qzn5WRrlF1GhZi4Bf95Tz) | [Emociones](https://open.spotify.com/album/4yjNn6XnKBS6eAkpIeKa88) | 2:50 | 2022-09-23 | 2023-04-18 |
 | [Desenlace](https://open.spotify.com/track/5WXS9Xn5ITi5aVRh10lJV3) | [Reivaj Ebol](https://open.spotify.com/artist/0qzn5WRrlF1GhZi4Bf95Tz) | [Desenlace](https://open.spotify.com/album/5K8pyuslOoIaZf6JZdaNpv) | 2:50 | 2022-08-08 | 2022-09-24 |
 | [Desire paths](https://open.spotify.com/track/1dNGTCMHimoPSJj9fPtN5D) | [Finn Lenoir](https://open.spotify.com/artist/34O50Wu6XLsShNKbJiNi9d) | [Desire paths](https://open.spotify.com/album/4Y19aC7T5QTSBiWBPALRFV) | 2:43 | 2024-02-27 | 2025-02-26 |
@@ -1568,6 +1570,7 @@
 | [The Last Leaf Falls](https://open.spotify.com/track/79v9cKSakZbCRZI0r0QrV7) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [The Last Leaf Falls](https://open.spotify.com/album/78dDhf9UBUZlGQIExQWYDn) | 2:05 | 2022-10-24 | 2023-09-29 |
 | [The light that blinds us](https://open.spotify.com/track/3OrNycpUQqB3sn9QRUqfjj) | [Temperance Lloyd](https://open.spotify.com/artist/14TpyA305vuhI6hEz57cLq) | [The light that blinds us](https://open.spotify.com/album/6oO7TwrWWd10uGEyrIpkXG) | 2:28 | 2022-07-15 | 2024-01-03 |
 | [The Light Will Return](https://open.spotify.com/track/0wHtZIo4VfYdXVKj3xrxWG) | [Bernadette Boulet](https://open.spotify.com/artist/40Da6NXKY8x4oGkVoCcIFw) | [The Light Will Return](https://open.spotify.com/album/4HBKYcRStmQOq1QrdPceqo) | 2:45 | 2020-12-01 | 2021-05-06 |
+| [The Long Way Home](https://open.spotify.com/track/0as3Ar1l4C2iHxQhhy7GIS) | [Elio Esyro](https://open.spotify.com/artist/6pYzoU8lYhRzfHPGAJkVe6) | [The Long Way Home](https://open.spotify.com/album/7xPC0t2qN4l3dIrh8vfWTY) | 2:05 | 2026-04-10 |  |
 | [The Longer I Wait](https://open.spotify.com/track/0XCTZX036IzhP1ea8CrDK3) | [Max Arnolds](https://open.spotify.com/artist/272NYvyxL9shy4vUzsvz23) | [The Longer I Wait](https://open.spotify.com/album/0CFu4CUIMG864wkfuHilVs) | 1:56 | 2022-08-08 | 2023-11-21 |
 | [The Meadows 草地](https://open.spotify.com/track/7hb7SEHUZXGA6O3ZZBoQGn) | [Li Zemin](https://open.spotify.com/artist/2v3FBpuuu8EdWvmS8OOctA) | [The Meadows 草地](https://open.spotify.com/album/5zPdjtWqbv8DUKFdXx2xAE) | 2:50 | 2023-03-20 | 2024-11-19 |
 | [The Midnight Sun](https://open.spotify.com/track/73WwLsqz0sZQucwkeyybus) | [Hakone](https://open.spotify.com/artist/21exwUEFwK59KTe51vTfjI) | [The Midnight Sun](https://open.spotify.com/album/6ST5jKASoHoEU1T7pgq5cE) | 2:58 | 2022-05-26 | 2023-12-06 |

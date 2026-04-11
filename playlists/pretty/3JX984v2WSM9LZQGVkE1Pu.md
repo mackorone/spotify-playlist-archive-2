@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3JX984v2WSM9LZQGVkE1Pu.md) - [plain]
 
 > The Jazz of America is on Verve.
 
-[Verve Records](https://open.spotify.com/user/vervemusicgroup) - 4,051 likes - 70 songs - 4 hr 17 min
+[Verve Records](https://open.spotify.com/user/vervemusicgroup) - 4,050 likes - 70 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

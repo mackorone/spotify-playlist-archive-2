@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Jalen Ngonda
 
-593 songs - 1 day 11 hr 35 min
+595 songs - 1 day 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Always](https://open.spotify.com/track/3w2Mlu3NJYV7XA8LLWdRTI) | [The Frightnrs](https://open.spotify.com/artist/0wwBxT2qVH327KlBJbwMEP) | [Always](https://open.spotify.com/album/2jhdyIrCbitZIzJy2I2Thu) | 2:35 | 2022-04-22 | 2023-09-30 |
 | [Amazing](https://open.spotify.com/track/1jjfb6Ne65MgkrT3jTJMLv) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Amazing](https://open.spotify.com/album/3WP0A1hksYMbO913fap5PF) | 2:50 | 2025-07-18 |  |
 | [Angel Eyes](https://open.spotify.com/track/4EVkYQKxqD5JgdFSkyMjaS) | [The Charities](https://open.spotify.com/artist/6sj6p5wxfR9ueVEp93RRBf) | [Bring Your Love / Angel Eyes](https://open.spotify.com/album/2O5qigf4jDcHkhU4l7jRyb) | 2:30 | 2025-06-23 |  |
+| [Any Old Fool](https://open.spotify.com/track/6HNpTTwnQHo5JSrWQETLwg) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Any Old Fool](https://open.spotify.com/album/645BIIezXIuUl2UADCAJyS) | 3:04 | 2026-04-10 |  |
 | [Anyone In Love](https://open.spotify.com/track/5fjaHwIsvJKxkhODCYY0EB) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Anyone In Love](https://open.spotify.com/album/2XWTgpZp4up1zFIIUApP3G) | 3:06 | 2024-09-27 | 2025-03-15 |
 | [Artemis](https://open.spotify.com/track/5dYRCwE5R03NLKF5VpSccp) | [Oh He Dead](https://open.spotify.com/artist/2nLlWcvMIIGHHnDOQMi0h6) | [Artemis](https://open.spotify.com/album/0qMNhyWAWmsREWJz9mdZIV) | 2:53 | 2024-08-02 | 2026-01-15 |
 | [Atlas](https://open.spotify.com/track/3a28WmAKhiRvQATY3tfk5l) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [The Dip Delivers](https://open.spotify.com/album/5lHdKLwA4NsBMUkX9Wenbm) | 3:47 | 2021-07-09 | 2023-01-28 |
@@ -185,6 +186,7 @@
 | [Half Empty](https://open.spotify.com/track/5P9r8VUZIn92AsTqe95nbW) | [Jully Black](https://open.spotify.com/artist/781516XewTgtGAnpg6dlmd) | [Half Empty](https://open.spotify.com/album/1RRvzs9YEYGWCunuLpZ3gH) | 3:24 | 2022-05-27 | 2024-07-27 |
 | [Hard Up](https://open.spotify.com/track/2PdrcHhYBZdzP4yhkgpuhw) | [The Bamboos](https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K) | [Hard Up \(Deluxe Version\)](https://open.spotify.com/album/3C5Dlf8RweGoTH4p2M0ISo) | 4:15 | 2021-07-09 | 2023-01-28 |
 | [Hard Up](https://open.spotify.com/track/2rs00HEFJT0yg1NC64JWpS) | [The Bamboos](https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K) | [Hard Up](https://open.spotify.com/album/22UwgOvqggRpQcmkEPLvUl) | 4:15 | 2021-07-09 | 2022-07-29 |
+| [Hardest Yards](https://open.spotify.com/track/3r2ZYYvlY5p51LgpjFLf3Z) | [Mamas Gun](https://open.spotify.com/artist/09bP40OuEV5tOM1rQnZNxI) | [DIG!](https://open.spotify.com/album/3DREa2s2CceeFKADZVyqrX) | 3:16 | 2026-04-10 |  |
 | [Heal Me Good](https://open.spotify.com/track/38exnGlvAOkYZEKpSJe11U) | [Yufu](https://open.spotify.com/artist/4lq7hzzPRSVIU1bvThHpPj) | [Heal Me Good](https://open.spotify.com/album/6DjI2Od6U3WvvRmpD7gsiH) | 4:07 | 2025-01-03 |  |
 | [Hear Me](https://open.spotify.com/track/1tWiKJTUfH5DjDrJT9P00l) | [The Buttshakers](https://open.spotify.com/artist/2FNblbLTuqK1YeCEE9YWLJ) | [Arcadia](https://open.spotify.com/album/3bjM3xf0u6r9NE15RUJnuv) | 2:36 | 2021-11-05 | 2023-01-28 |
 | [Hear Me Singing \(Na Na Na Na Na Na Na Na\)](https://open.spotify.com/track/19vDhiyfEiDossnoDkDgKA) | [Dawn Brothers](https://open.spotify.com/artist/05vyC7M8P5Wr120O1yTv6a), [DeWolff](https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k) | [Double Cream](https://open.spotify.com/album/6QOMBBhNPQUGSbLDLKIoVN) | 3:17 | 2022-09-02 | 2022-09-10 |
@@ -553,7 +555,7 @@
 | [Walk With the Father](https://open.spotify.com/track/7a5VJhBN7zAe8Lv9Y0e84E) | [Charlie Bereal](https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa) | [Walk With the Father](https://open.spotify.com/album/32BXW0dPL9GASWB4IswRU7) | 3:46 | 2024-08-30 | 2025-01-25 |
 | [Warpaint](https://open.spotify.com/track/3sqb5hfu5gIdrd2U70FT3L) | [Monophonics](https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw), [Kelly Finnigan](https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4) | [Warpaint](https://open.spotify.com/album/2MkJIYLt4fz2SDSozVntDD) | 4:50 | 2022-03-21 | 2022-07-29 |
 | [Way You Shine](https://open.spotify.com/track/5RlgjfMCs8KW0AtkqRvyZM) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [Way You Shine](https://open.spotify.com/album/0sfmf3mJc7rgaGg3CZXmRv) | 3:10 | 2024-07-26 | 2025-02-08 |
-| [We Don't Have to Be Alone](https://open.spotify.com/track/6hRESIERR8gWu6CERwi2Zm) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [We Don't Have to Be Alone](https://open.spotify.com/album/0wcfCbz30o9L3neEu5L7Cz) | 2:46 | 2025-05-16 |  |
+| [We Don't Have to Be Alone](https://open.spotify.com/track/6hRESIERR8gWu6CERwi2Zm) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [We Don't Have to Be Alone](https://open.spotify.com/album/0wcfCbz30o9L3neEu5L7Cz) | 2:46 | 2025-05-16 | 2026-04-11 |
 | [We Got This \- 7'' Version](https://open.spotify.com/track/4OQMZBaOgEvAcXI8NMWEz7) | [Beatchild](https://open.spotify.com/artist/4k7KKAyXbpBKe0iziD7c2P) | [We Got This](https://open.spotify.com/album/79Utq6WQvxX0OkODgZEfDO) | 2:57 | 2025-01-03 | 2025-07-17 |
 | [We'll Be Alright](https://open.spotify.com/track/3ldQLn3qaJWqahSg23pAHJ) | [The Slim Kings](https://open.spotify.com/artist/0LhcJOSPCu7MwB2o3tZuxf) | [We'll Be Alright](https://open.spotify.com/album/3QzcmGQNORQdKeNmiOxVyp) | 3:32 | 2025-08-29 |  |
 | [Weightless](https://open.spotify.com/track/3r1aAlW4y7c8nJaXhUxL9Z) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [Bloom](https://open.spotify.com/album/0YOp28SVv56MgY6c1ShMmH) | 4:06 | 2025-10-17 |  |
@@ -594,7 +596,7 @@
 | [You Are Everything](https://open.spotify.com/track/1HL9e5uqnQg1qxJH2BisfJ) | [Raquel Rodriguez](https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q), [Stan Taylor](https://open.spotify.com/artist/0FLx5Ts7ydf1NuSsy334eU) | [You Are Everything](https://open.spotify.com/album/6LMTOf2XuRWmkm9O8Bvch8) | 2:59 | 2022-10-21 | 2022-11-12 |
 | [You Belong to Me](https://open.spotify.com/track/6aiO3yDfoyrK29s5Ks3dqe) | [Sam Pounds](https://open.spotify.com/artist/1XoE8WpGuDGZ0SY1piWND1) | [You Belong to Me](https://open.spotify.com/album/0qyXrH6kgG48cFNBItTgCd) | 2:55 | 2026-02-27 |  |
 | [You Can Count On Me](https://open.spotify.com/track/63zB2o0u28X046oIFO2ou1) | [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Waiting on the Sidelines](https://open.spotify.com/album/5kABgENIqXOEWtN3o6rcPn) | 4:09 | 2023-06-02 | 2025-06-28 |
-| [You Deserve](https://open.spotify.com/track/3qv52G3oQ4MNcIib4KSRqH) | [Cayden Cruz](https://open.spotify.com/artist/36WZQ2Iukj5fVI2FLEt1l5) | [You Deserve](https://open.spotify.com/album/4zk6KsexxbrABRXCSKfj7K) | 3:02 | 2026-01-16 |  |
+| [You Deserve](https://open.spotify.com/track/3qv52G3oQ4MNcIib4KSRqH) | [Cayden Cruz](https://open.spotify.com/artist/36WZQ2Iukj5fVI2FLEt1l5) | [You Deserve](https://open.spotify.com/album/4zk6KsexxbrABRXCSKfj7K) | 3:02 | 2026-01-16 | 2026-04-11 |
 | [You Know What It Do](https://open.spotify.com/track/1YPsvTzKTMsQjrdC88CRcT) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [No Beginning No End 2](https://open.spotify.com/album/1dwWH4m6TIepflnji3hVsG) | 3:07 | 2021-07-09 | 2022-06-11 |
 | [You Went Away Too Long](https://open.spotify.com/track/7Bxor3rKUpBDuNi9lVIzpz) | [The Womack Sisters](https://open.spotify.com/artist/6BjLHAiun9TeqC55KB3L6s) | [You Went Away Too Long](https://open.spotify.com/album/5NpT7rCbRYs6LRMcmBEKOD) | 3:19 | 2026-02-27 |  |
 | [You Were Mine](https://open.spotify.com/track/4Q6WTLLZtYZ2OuQ4pCZH0A) | [Marie Sarah](https://open.spotify.com/artist/6eKmkdJGSByhfNDciam6bC) | [Dark Black](https://open.spotify.com/album/2eV8dXQXxJderdQEvY3ZuC) | 3:51 | 2024-03-29 |  |

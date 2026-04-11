@@ -11140,7 +11140,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 186000,
       "name": "Win the Lottery",
       "url": "https://open.spotify.com/track/2sGf6pQ73JyfTfSkSLLQfM"
@@ -11472,6 +11472,28 @@
       "duration_ms": 208941,
       "name": "Zimzilla",
       "url": "https://open.spotify.com/track/5KBh3fUwv6xrDFO6wZzmFI"
+    },
+    {
+      "album": {
+        "name": "\u30a2\u30eb\u30b4\u30ea\u30ba\u30e0 (Algorithm)",
+        "url": "https://open.spotify.com/album/3KaAWv5vYooRAcYWwLc5UY"
+      },
+      "artists": [
+        {
+          "name": "EVISBEATS",
+          "url": "https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc"
+        },
+        {
+          "name": "Nagipan",
+          "url": "https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207882,
+      "name": "\u30a2\u30eb\u30b4\u30ea\u30ba\u30e0 (Algorithm)",
+      "url": "https://open.spotify.com/track/5EO2F73atj1IigcN6nPGMv"
     },
     {
       "album": {

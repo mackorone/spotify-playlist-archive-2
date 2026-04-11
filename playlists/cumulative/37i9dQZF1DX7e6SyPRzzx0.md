@@ -4,7 +4,7 @@
 
 > The home of rage rap\. Cover: Playboi Carti
 
-208 songs - 8 hr 52 min
+209 songs - 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [inthej](https://open.spotify.com/track/0AJTkZVEpSVmn6Yf5rsx8l) | [D\. Savage](https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [WE LOVE D\. SAVAGE](https://open.spotify.com/album/2fJeIpfjtSy0D1ZMpsYZfn) | 1:49 | 2025-02-22 | 2025-05-24 |
 | [ISMMMM](https://open.spotify.com/track/0tyfJeorG8tvBm6goLjbuU) | [Thouxanbanfauni](https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr) | [ISMMMM](https://open.spotify.com/album/3rpVls7KU7nNG8qOBD2KHM) | 3:14 | 2025-08-22 | 2025-10-11 |
 | [Jennifer’s Body](https://open.spotify.com/track/04hgBWsBDEyVP8pH0BCZbG) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos](https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW) | 2:38 | 2023-12-01 | 2024-08-01 |
-| [JUMPIN](https://open.spotify.com/track/2sABxyWikItSP31WOu3fup) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [JUMPIN](https://open.spotify.com/album/1AkmRGpbgD6jTHiKBezVEu) | 1:09 | 2026-01-16 |  |
+| [JUMPIN](https://open.spotify.com/track/2sABxyWikItSP31WOu3fup) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [JUMPIN](https://open.spotify.com/album/1AkmRGpbgD6jTHiKBezVEu) | 1:09 | 2026-01-16 | 2026-04-11 |
 | [just score it](https://open.spotify.com/track/2AxMqRbs9U6JBJaS3GL5wx) | [OsamaSon](https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1) | [just score it](https://open.spotify.com/album/73cibirs94ZVsObZcEdyny) | 1:47 | 2024-12-06 | 2026-02-10 |
 | [KEEP IT COOL](https://open.spotify.com/track/53lS5rsYcbEMtpM2grepw5) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [KEEP IT COOL](https://open.spotify.com/album/1SZbj4GIaOIABSvRPhua4c) | 1:46 | 2024-09-10 |  |
 | [King tonka](https://open.spotify.com/track/1Anuaxs4UTPM1tufZJbqZz) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [King tonka](https://open.spotify.com/album/44LBYjW1xDuMiYBHwVHM8L) | 2:05 | 2024-05-14 | 2025-08-02 |
@@ -166,6 +166,7 @@
 | [PUT IT ONG](https://open.spotify.com/track/6CgbSOe4GooCaxkyMJToze) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [DANGEROUS SUMMER](https://open.spotify.com/album/61PCQeDaTD2gwfpHFikpbh) | 2:37 | 2025-08-01 |  |
 | [Pwned](https://open.spotify.com/track/5wlv6qNr4sBuoEfRwV00RD) | [Protect](https://open.spotify.com/artist/14Ah9L7Sei8VOOty0tZrOR) | [Pwned](https://open.spotify.com/album/0grZYBy7nQIG8G9XDGkf9o) | 1:49 | 2026-02-06 | 2026-04-04 |
 | [PYRAMIDZ](https://open.spotify.com/track/1IvBafVU2yEd7tXz4Mmh3j) | [untiljapan](https://open.spotify.com/artist/4bXDZie6sqszxFN6D0Mi2K) | [PYRAMIDZ](https://open.spotify.com/album/32t9wZwwEinXJhHtZmKAab) | 3:02 | 2025-05-23 | 2026-03-28 |
+| [Quagoo](https://open.spotify.com/track/7vfbtV6IJVB0nthc6mNzls) | [Sk8star](https://open.spotify.com/artist/2PAnRRa7mwTO0WArmY1vCc) | [Quagoo](https://open.spotify.com/album/66y6wCUqk3bwMEKhHqRWrz) | 2:11 | 2026-04-10 |  |
 | [R50](https://open.spotify.com/track/0eoNYtkwyNxAtBMoTtjB6H) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [i5u5we5](https://open.spotify.com/album/6VQw51JISwFViXaj3K7u9d) | 1:45 | 2024-08-20 | 2025-08-09 |
 | [RICK OWENS \(feat\. Ken Carson\)](https://open.spotify.com/track/6VASMtJitNcGLlsWhPb9BC) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl), [lucidbeatz](https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [SONY](https://open.spotify.com/album/0zz2XwgWhbqgaFLVflgQHp) | 2:10 | 2024-01-05 | 2025-07-12 |
 | [screwed up](https://open.spotify.com/track/493FWDdicMcysufpqhuFxJ) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [</3³](https://open.spotify.com/album/3EeCAQiNJn4hfIkn5lnbOq) | 2:33 | 2025-09-19 |  |

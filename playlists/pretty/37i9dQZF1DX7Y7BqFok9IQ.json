@@ -1,13 +1,29 @@
 {
   "description": "The best of modern blues rock. Cover: The Sheepdogs",
-  "num_followers": 261628,
+  "num_followers": 261698,
   "original_name": "Modern Blues Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAExrqyqXgtPgG71r7uFn8yK50gIg",
+  "snapshot_id": "AAAAAPSl7JRlgLMjuwbop/F4iKn+liy7",
   "tracks": [
+    {
+      "added_at": "2026-04-10 04:00:41",
+      "album": {
+        "name": "Can't Hold Out Much Longer",
+        "url": "https://open.spotify.com/album/5WrhbcyDzbjgydV7Lv09Ql"
+      },
+      "artists": [
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "duration_ms": 206804,
+      "name": "Can't Hold Out Much Longer",
+      "url": "https://open.spotify.com/track/5kk7kZPsPMMrOm0UNJigwy"
+    },
     {
       "added_at": "2026-03-20 15:56:34",
       "album": {
@@ -71,22 +87,6 @@
       "duration_ms": 266053,
       "name": "Bad For Your Health",
       "url": "https://open.spotify.com/track/1yqEr1wbrKeDQzoVr4kvnB"
-    },
-    {
-      "added_at": "2026-03-20 15:56:34",
-      "album": {
-        "name": "Queen of Hearts",
-        "url": "https://open.spotify.com/album/5h647p839GyskOFAlaYj1l"
-      },
-      "artists": [
-        {
-          "name": "The Cold Stares",
-          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
-        }
-      ],
-      "duration_ms": 300473,
-      "name": "Queen of Hearts",
-      "url": "https://open.spotify.com/track/0hbqFIZtFrxW2n1xlNDyVR"
     },
     {
       "added_at": "2026-03-20 15:56:34",

@@ -1,13 +1,37 @@
 {
-  "description": "New jazz for open minds. Cover: aja monet",
-  "num_followers": 1048100,
+  "description": "New jazz for open minds. Cover: Lakecia Benjamin",
+  "num_followers": 1048189,
   "original_name": "State of Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ5Qodi5MqVH3t13SvHpweNo+BuG",
+  "snapshot_id": "AAAAAPR3T+bzHfSz7J+Mauz39zHcblps",
   "tracks": [
+    {
+      "added_at": "2026-04-03 04:02:24",
+      "album": {
+        "name": "Mi Gente",
+        "url": "https://open.spotify.com/album/7ajeoiQbCQyagI2TVc9kkR"
+      },
+      "artists": [
+        {
+          "name": "Lakecia Benjamin",
+          "url": "https://open.spotify.com/artist/6hvjxbUASJd6bHds2Teaul"
+        },
+        {
+          "name": "Christian Scott aTunde Adjuah",
+          "url": "https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn"
+        },
+        {
+          "name": "Chief Adjuah",
+          "url": "https://open.spotify.com/artist/6bUn0KZqvqp4Ep0Lj9ihM1"
+        }
+      ],
+      "duration_ms": 365600,
+      "name": "Mi Gente",
+      "url": "https://open.spotify.com/track/7ccEEiWbkZRgY0bSSmv7aC"
+    },
     {
       "added_at": "2026-03-27 04:00:20",
       "album": {
@@ -33,6 +57,26 @@
       "url": "https://open.spotify.com/track/4S56Igb4jNtyRs2ckvKSpO"
     },
     {
+      "added_at": "2026-04-10 04:01:37",
+      "album": {
+        "name": "Soundcheck",
+        "url": "https://open.spotify.com/album/3EyUhycxJxjL8wDZQ1Q8q6"
+      },
+      "artists": [
+        {
+          "name": "Ambrose Akinmusire",
+          "url": "https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF"
+        },
+        {
+          "name": "Mary Halvorson",
+          "url": "https://open.spotify.com/artist/5tCfZ8dYbzaq6auQeSAsRl"
+        }
+      ],
+      "duration_ms": 212306,
+      "name": "Soundcheck",
+      "url": "https://open.spotify.com/track/7DcknLWWblOGskMOoaKtDe"
+    },
+    {
       "added_at": "2026-04-03 04:02:24",
       "album": {
         "name": "Well You Needn\u2019t",
@@ -47,6 +91,30 @@
       "duration_ms": 332706,
       "name": "Well You Needn\u2019t",
       "url": "https://open.spotify.com/track/2TsL3igKYonyDXrypi9Bni"
+    },
+    {
+      "added_at": "2026-04-10 04:01:37",
+      "album": {
+        "name": "Todd 4",
+        "url": "https://open.spotify.com/album/58JlMLD7VSbHrjwJVhZrsr"
+      },
+      "artists": [
+        {
+          "name": "Sam Barsh",
+          "url": "https://open.spotify.com/artist/4vVYohuzsd1OIOpYw2FuER"
+        },
+        {
+          "name": "Keyon Harrold",
+          "url": "https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA"
+        },
+        {
+          "name": "Mark Guiliana",
+          "url": "https://open.spotify.com/artist/798TUNb6IfpsZzMkkzVGu1"
+        }
+      ],
+      "duration_ms": 393535,
+      "name": "Todd 4",
+      "url": "https://open.spotify.com/track/5p9SieepTChWGS2INF3htP"
     },
     {
       "added_at": "2026-03-20 04:00:54",
@@ -67,6 +135,46 @@
       "duration_ms": 246786,
       "name": "Threads",
       "url": "https://open.spotify.com/track/4c3iegw9CfKT3ZjeyzevQW"
+    },
+    {
+      "added_at": "2026-04-10 04:01:37",
+      "album": {
+        "name": "My Big Break",
+        "url": "https://open.spotify.com/album/07xlkv0gxnb1H1JBkdVmyU"
+      },
+      "artists": [
+        {
+          "name": "Dolphin Hyperspace",
+          "url": "https://open.spotify.com/artist/6tTZ6fX5qsm8Alc9GLwJ9q"
+        },
+        {
+          "name": "Louis Cole",
+          "url": "https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH"
+        }
+      ],
+      "duration_ms": 202147,
+      "name": "My Big Break",
+      "url": "https://open.spotify.com/track/3d98mX8DJAmkqRN8cIgLe4"
+    },
+    {
+      "added_at": "2026-04-10 04:01:37",
+      "album": {
+        "name": "Hazy",
+        "url": "https://open.spotify.com/album/57MB9ySL2vMZnWGWRVWKNC"
+      },
+      "artists": [
+        {
+          "name": "Matthew Stevens",
+          "url": "https://open.spotify.com/artist/7z1PSpsIyAeniOOtaQ1iYa"
+        },
+        {
+          "name": "Josh Johnson",
+          "url": "https://open.spotify.com/artist/6E2QUbsHDVzmrf1TVfGdwf"
+        }
+      ],
+      "duration_ms": 297600,
+      "name": "Hazy",
+      "url": "https://open.spotify.com/track/0BS8ogW9FMliIJfoRNofd6"
     },
     {
       "added_at": "2026-04-03 04:02:24",
@@ -135,30 +243,6 @@
       "duration_ms": 281169,
       "name": "Canarin Da Alemanha",
       "url": "https://open.spotify.com/track/7a31mnCt4m4sJ7ugn7H0c6"
-    },
-    {
-      "added_at": "2026-04-03 04:02:24",
-      "album": {
-        "name": "Mi Gente",
-        "url": "https://open.spotify.com/album/7ajeoiQbCQyagI2TVc9kkR"
-      },
-      "artists": [
-        {
-          "name": "Lakecia Benjamin",
-          "url": "https://open.spotify.com/artist/6hvjxbUASJd6bHds2Teaul"
-        },
-        {
-          "name": "Christian Scott aTunde Adjuah",
-          "url": "https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn"
-        },
-        {
-          "name": "Chief Adjuah",
-          "url": "https://open.spotify.com/artist/6bUn0KZqvqp4Ep0Lj9ihM1"
-        }
-      ],
-      "duration_ms": 365600,
-      "name": "Mi Gente",
-      "url": "https://open.spotify.com/track/7ccEEiWbkZRgY0bSSmv7aC"
     },
     {
       "added_at": "2026-04-03 04:02:24",
@@ -571,26 +655,6 @@
       "duration_ms": 288266,
       "name": "Four Flowers",
       "url": "https://open.spotify.com/track/2ONAQaP6J7NsOcDkBefx8G"
-    },
-    {
-      "added_at": "2026-03-13 04:00:55",
-      "album": {
-        "name": "Take Heart",
-        "url": "https://open.spotify.com/album/0MCbvWGEzURrTcyIagEFgB"
-      },
-      "artists": [
-        {
-          "name": "Matthew Stevens",
-          "url": "https://open.spotify.com/artist/7z1PSpsIyAeniOOtaQ1iYa"
-        },
-        {
-          "name": "Joel Ross",
-          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
-        }
-      ],
-      "duration_ms": 351440,
-      "name": "Take Heart",
-      "url": "https://open.spotify.com/track/5I7DurYprJBoWLWsPj0QJG"
     },
     {
       "added_at": "2026-02-27 05:00:51",
@@ -1021,22 +1085,6 @@
       "url": "https://open.spotify.com/track/4vzN724NkFTS9OLH3sn3fK"
     },
     {
-      "added_at": "2025-08-22 04:00:35",
-      "album": {
-        "name": "Giant Steps",
-        "url": "https://open.spotify.com/album/2kiuMHoju1gOv7UvmxnQKQ"
-      },
-      "artists": [
-        {
-          "name": "Michael Mayo",
-          "url": "https://open.spotify.com/artist/5GPxGRe2IglKP3ZiwwJbP4"
-        }
-      ],
-      "duration_ms": 210391,
-      "name": "Giant Steps",
-      "url": "https://open.spotify.com/track/4D4zIxi8ewbVKh82AhRIWF"
-    },
-    {
       "added_at": "2025-10-03 04:00:47",
       "album": {
         "name": "Roulette",
@@ -1239,42 +1287,6 @@
       "duration_ms": 401568,
       "name": "Seuss Pants",
       "url": "https://open.spotify.com/track/2vD9cvmBGOn3r6tNFuxrwG"
-    },
-    {
-      "added_at": "2025-07-18 04:00:10",
-      "album": {
-        "name": "Tracy Beaker",
-        "url": "https://open.spotify.com/album/0XUreXCfVUmvoERNXyGS8s"
-      },
-      "artists": [
-        {
-          "name": "BINA.",
-          "url": "https://open.spotify.com/artist/2cOj9uwYqm3PHx1i5n7BkC"
-        }
-      ],
-      "duration_ms": 177272,
-      "name": "Tracy Beaker",
-      "url": "https://open.spotify.com/track/05TozN4UwwoZQDBoTj3Vsu"
-    },
-    {
-      "added_at": "2025-08-22 04:00:35",
-      "album": {
-        "name": "Humble Magic, Vol. 1",
-        "url": "https://open.spotify.com/album/6bM1rkXosXS8eTskGnonY0"
-      },
-      "artists": [
-        {
-          "name": "Adam Blackstone",
-          "url": "https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs"
-        },
-        {
-          "name": "Trombone Shorty",
-          "url": "https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR"
-        }
-      ],
-      "duration_ms": 328328,
-      "name": "Humble Magic (feat. Trombone Shorty)",
-      "url": "https://open.spotify.com/track/4DVZ3uXWQwaJcTnnfGoNVf"
     },
     {
       "added_at": "2025-11-07 16:37:26",

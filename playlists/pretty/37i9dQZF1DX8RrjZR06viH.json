@@ -1,6 +1,6 @@
 {
   "description": "\ud83c\udf31\ud83c\udf38\ud83c\udf3e\ud83c\udf3c\n",
-  "num_followers": 159647,
+  "num_followers": 159642,
   "original_name": "v\u00e5r i lufta",
   "owner": {
     "name": "Spotify",
@@ -615,6 +615,22 @@
     {
       "added_at": "2026-04-09 22:02:05",
       "album": {
+        "name": "American Wedding",
+        "url": "https://open.spotify.com/album/4zczMW68cS6edG4PEwrw8G"
+      },
+      "artists": [
+        {
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+        }
+      ],
+      "duration_ms": 191943,
+      "name": "American Wedding",
+      "url": "https://open.spotify.com/track/0hGpO1KkCV1DKmIp0Nt942"
+    },
+    {
+      "added_at": "2026-04-09 22:02:05",
+      "album": {
         "name": "Gro Harlem Brundtland",
         "url": "https://open.spotify.com/album/7hNyb9KXnAjTUQbnLpfOIN"
       },
@@ -667,22 +683,6 @@
     {
       "added_at": "2026-04-09 22:02:05",
       "album": {
-        "name": "American Wedding",
-        "url": "https://open.spotify.com/album/4zczMW68cS6edG4PEwrw8G"
-      },
-      "artists": [
-        {
-          "name": "flowerovlove",
-          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
-        }
-      ],
-      "duration_ms": 191943,
-      "name": "American Wedding",
-      "url": "https://open.spotify.com/track/0hGpO1KkCV1DKmIp0Nt942"
-    },
-    {
-      "added_at": "2026-04-09 22:02:05",
-      "album": {
         "name": "Kite",
         "url": "https://open.spotify.com/album/3g4q3F07QmUyPBzWlMXhq4"
       },
@@ -695,22 +695,6 @@
       "duration_ms": 166806,
       "name": "Kite",
       "url": "https://open.spotify.com/track/0irVirJrUjHFk3ywECVsGT"
-    },
-    {
-      "added_at": "2026-04-09 22:02:05",
-      "album": {
-        "name": "Don't Let Me Go",
-        "url": "https://open.spotify.com/album/5ipsC4SrBYv87aO75cHV7o"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 292093,
-      "name": "Don't Let Me Go",
-      "url": "https://open.spotify.com/track/6syQOKJfd5BR6z5YAGzQaa"
     },
     {
       "added_at": "2026-04-09 22:02:05",
@@ -731,6 +715,22 @@
       "duration_ms": 197133,
       "name": "Det g\u00e5r bra",
       "url": "https://open.spotify.com/track/1a7vBJg7GDMy5ClHexkfvv"
+    },
+    {
+      "added_at": "2026-04-09 22:02:05",
+      "album": {
+        "name": "Don't Let Me Go",
+        "url": "https://open.spotify.com/album/5ipsC4SrBYv87aO75cHV7o"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 292093,
+      "name": "Don't Let Me Go",
+      "url": "https://open.spotify.com/track/6syQOKJfd5BR6z5YAGzQaa"
     },
     {
       "added_at": "2026-04-09 22:02:05",
@@ -767,6 +767,22 @@
     {
       "added_at": "2026-04-09 22:02:05",
       "album": {
+        "name": "Jeg sp\u00f8r for en venn",
+        "url": "https://open.spotify.com/album/1fwGUwoY9ipUsVm45sCiJy"
+      },
+      "artists": [
+        {
+          "name": "Zimmermann",
+          "url": "https://open.spotify.com/artist/624LRh2tnvHek6iQrWZcmB"
+        }
+      ],
+      "duration_ms": 193148,
+      "name": "Jeg sp\u00f8r for en venn",
+      "url": "https://open.spotify.com/track/2icHHKPqztIkn5neapSswk"
+    },
+    {
+      "added_at": "2026-04-09 22:02:05",
+      "album": {
         "name": "Lykke til pappa",
         "url": "https://open.spotify.com/album/1C7ut96iQoRm9adHiyukPU"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 159472,
       "name": "Lykke til pappa",
       "url": "https://open.spotify.com/track/2i8HqCbclrZUaN1PexNjy9"
-    },
-    {
-      "added_at": "2026-04-09 22:02:05",
-      "album": {
-        "name": "Jeg sp\u00f8r for en venn",
-        "url": "https://open.spotify.com/album/1fwGUwoY9ipUsVm45sCiJy"
-      },
-      "artists": [
-        {
-          "name": "Zimmermann",
-          "url": "https://open.spotify.com/artist/624LRh2tnvHek6iQrWZcmB"
-        }
-      ],
-      "duration_ms": 193148,
-      "name": "Jeg sp\u00f8r for en venn",
-      "url": "https://open.spotify.com/track/2icHHKPqztIkn5neapSswk"
     },
     {
       "added_at": "2026-04-09 22:02:05",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2026-04-09 22:02:05",
       "album": {
+        "name": "A Matter of Time: The Final Hour",
+        "url": "https://open.spotify.com/album/4DWK6TLXHl1fly2zi5RlO7"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 239333,
+      "name": "Madwoman",
+      "url": "https://open.spotify.com/track/0UqHzMvRQnaOXEPKgFVhxN"
+    },
+    {
+      "added_at": "2026-04-09 22:02:05",
+      "album": {
         "name": "monumenter",
         "url": "https://open.spotify.com/album/1TYTd1SZwsVbhpiWqI3MMY"
       },
@@ -1379,6 +1395,22 @@
     {
       "added_at": "2026-04-09 22:02:05",
       "album": {
+        "name": "Movie Star",
+        "url": "https://open.spotify.com/album/2EVK7ogrwinAiH5ylrCVTR"
+      },
+      "artists": [
+        {
+          "name": "Anna Lille",
+          "url": "https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk"
+        }
+      ],
+      "duration_ms": 236210,
+      "name": "Movie Star",
+      "url": "https://open.spotify.com/track/1so1kGUP6s6tcNzTT3Ti8C"
+    },
+    {
+      "added_at": "2026-04-09 22:02:05",
+      "album": {
         "name": "Du ska f\u00e5 en dag i m\u00e5rg\u00e5",
         "url": "https://open.spotify.com/album/4mAbJTCZceU9TDFjHmEr4u"
       },
@@ -1411,22 +1443,6 @@
     {
       "added_at": "2026-04-09 22:02:05",
       "album": {
-        "name": "Movie Star",
-        "url": "https://open.spotify.com/album/2EVK7ogrwinAiH5ylrCVTR"
-      },
-      "artists": [
-        {
-          "name": "Anna Lille",
-          "url": "https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk"
-        }
-      ],
-      "duration_ms": 236210,
-      "name": "Movie Star",
-      "url": "https://open.spotify.com/track/1so1kGUP6s6tcNzTT3Ti8C"
-    },
-    {
-      "added_at": "2026-04-09 22:02:05",
-      "album": {
         "name": "Koffor dro du fra m\u00e6",
         "url": "https://open.spotify.com/album/0GI8CvoLRIjHlznbXAIjtd"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 151505,
       "name": "Koffor dro du fra m\u00e6",
       "url": "https://open.spotify.com/track/2k9WYtZ33F5lJUubsya6a7"
-    },
-    {
-      "added_at": "2026-04-09 22:02:05",
-      "album": {
-        "name": "I Could Miss You Forever",
-        "url": "https://open.spotify.com/album/3wakAMVNSBt9CTCdnoUEmx"
-      },
-      "artists": [
-        {
-          "name": "SKAAR",
-          "url": "https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ"
-        }
-      ],
-      "duration_ms": 217908,
-      "name": "I Could Miss You Forever",
-      "url": "https://open.spotify.com/track/3F81PYqkx4j3pFX9aQORg0"
     }
   ],
   "unique_name": "v\u00e5r i lufta",

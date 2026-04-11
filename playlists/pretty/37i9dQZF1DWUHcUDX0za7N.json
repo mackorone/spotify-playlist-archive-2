@@ -1,6 +1,6 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: Evado",
-  "num_followers": 79711,
+  "num_followers": 79744,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-04-10 00:01:55",
       "album": {
-        "name": "Nkemakonam",
-        "url": "https://open.spotify.com/album/6tM7bFxHXIZutthoWSzILr"
-      },
-      "artists": [
-        {
-          "name": "TUFF KING",
-          "url": "https://open.spotify.com/artist/6U6qcXdFyk0B5PxHM7JYmw"
-        }
-      ],
-      "duration_ms": 239673,
-      "name": "Nkemakonam",
-      "url": "https://open.spotify.com/track/1khlKmZCPvi0chULb23vWU"
-    },
-    {
-      "added_at": "2026-04-10 00:01:55",
-      "album": {
         "name": "Mortal Kombat",
         "url": "https://open.spotify.com/album/7n34NZSzWSksFu0Tg7TNbr"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 123185,
       "name": "Kilogram",
       "url": "https://open.spotify.com/track/0viaQlHq5KHyywH6rQyNjB"
+    },
+    {
+      "added_at": "2026-04-10 00:01:55",
+      "album": {
+        "name": "Nkemakonam",
+        "url": "https://open.spotify.com/album/6tM7bFxHXIZutthoWSzILr"
+      },
+      "artists": [
+        {
+          "name": "TUFF KING",
+          "url": "https://open.spotify.com/artist/6U6qcXdFyk0B5PxHM7JYmw"
+        }
+      ],
+      "duration_ms": 239673,
+      "name": "Nkemakonam",
+      "url": "https://open.spotify.com/track/1khlKmZCPvi0chULb23vWU"
     },
     {
       "added_at": "2026-04-10 00:01:55",
@@ -855,6 +855,22 @@
     {
       "added_at": "2026-04-10 00:01:55",
       "album": {
+        "name": "Life",
+        "url": "https://open.spotify.com/album/2bBzvdr3Ne9hdYgXifNXPb"
+      },
+      "artists": [
+        {
+          "name": "Balloranking",
+          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/42K8Irooh4QNXZz2J3E31S"
+    },
+    {
+      "added_at": "2026-04-10 00:01:55",
+      "album": {
         "name": "JUJU (feat. Shallipopi)",
         "url": "https://open.spotify.com/album/6xtWvj11zaodhnfa7izxCL"
       },
@@ -879,22 +895,6 @@
     {
       "added_at": "2026-04-10 00:01:55",
       "album": {
-        "name": "Life",
-        "url": "https://open.spotify.com/album/2bBzvdr3Ne9hdYgXifNXPb"
-      },
-      "artists": [
-        {
-          "name": "Balloranking",
-          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "Life",
-      "url": "https://open.spotify.com/track/42K8Irooh4QNXZz2J3E31S"
-    },
-    {
-      "added_at": "2026-04-10 00:01:55",
-      "album": {
         "name": "Amen",
         "url": "https://open.spotify.com/album/4kooYg4oSlwBn24L37DVKJ"
       },
@@ -907,42 +907,6 @@
       "duration_ms": 172588,
       "name": "Amen",
       "url": "https://open.spotify.com/track/2dRFCprhcvQiGXSEqQ0ezN"
-    },
-    {
-      "added_at": "2026-04-10 00:01:55",
-      "album": {
-        "name": "OBT (feat. BhadBoi OML)",
-        "url": "https://open.spotify.com/album/2PhhHwEPTxu0OwhcKQb8b5"
-      },
-      "artists": [
-        {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
-        },
-        {
-          "name": "BhadBoi OML",
-          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
-        }
-      ],
-      "duration_ms": 170526,
-      "name": "OBT (feat. BhadBoi OML)",
-      "url": "https://open.spotify.com/track/7hc0ewHtET7bp7yBQphhex"
-    },
-    {
-      "added_at": "2026-04-10 00:01:55",
-      "album": {
-        "name": "Free Service",
-        "url": "https://open.spotify.com/album/0fpIqaXbLdgWB7gLybePVW"
-      },
-      "artists": [
-        {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
-        }
-      ],
-      "duration_ms": 156473,
-      "name": "Free Service",
-      "url": "https://open.spotify.com/track/0CbmiJiGy6sN4RJ75mJthR"
     },
     {
       "added_at": "2026-04-10 00:01:55",
@@ -983,6 +947,42 @@
       "duration_ms": 170467,
       "name": "We 2 Fly",
       "url": "https://open.spotify.com/track/4Ym5QOanjoiNXvWBIOyIh0"
+    },
+    {
+      "added_at": "2026-04-10 00:01:55",
+      "album": {
+        "name": "OBT (feat. BhadBoi OML)",
+        "url": "https://open.spotify.com/album/2PhhHwEPTxu0OwhcKQb8b5"
+      },
+      "artists": [
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        },
+        {
+          "name": "BhadBoi OML",
+          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
+        }
+      ],
+      "duration_ms": 170526,
+      "name": "OBT (feat. BhadBoi OML)",
+      "url": "https://open.spotify.com/track/7hc0ewHtET7bp7yBQphhex"
+    },
+    {
+      "added_at": "2026-04-10 00:01:55",
+      "album": {
+        "name": "Free Service",
+        "url": "https://open.spotify.com/album/0fpIqaXbLdgWB7gLybePVW"
+      },
+      "artists": [
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        }
+      ],
+      "duration_ms": 156473,
+      "name": "Free Service",
+      "url": "https://open.spotify.com/track/0CbmiJiGy6sN4RJ75mJthR"
     },
     {
       "added_at": "2026-04-10 00:01:55",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2026-04-10 00:01:55",
       "album": {
-        "name": "Ikeja (No Go Thief)",
-        "url": "https://open.spotify.com/album/4nvJFVS6xcALAfMNzYm8XF"
-      },
-      "artists": [
-        {
-          "name": "Danpapa GTA",
-          "url": "https://open.spotify.com/artist/3EC3itx7VHQg0KYhuPsp5O"
-        }
-      ],
-      "duration_ms": 116585,
-      "name": "Ikeja (No Go Thief)",
-      "url": "https://open.spotify.com/track/3jGo2PclXcXXnjNvqi7n3W"
-    },
-    {
-      "added_at": "2026-04-10 00:01:55",
-      "album": {
         "name": "G.O.A.T",
         "url": "https://open.spotify.com/album/6vNtI8WqFszCyAQhGlShtF"
       },
@@ -1267,18 +1251,18 @@
     {
       "added_at": "2026-04-10 00:01:55",
       "album": {
-        "name": "No Excuses",
-        "url": "https://open.spotify.com/album/307ndfsqUj3MF4y0uHsinE"
+        "name": "Ikeja (No Go Thief)",
+        "url": "https://open.spotify.com/album/4nvJFVS6xcALAfMNzYm8XF"
       },
       "artists": [
         {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+          "name": "Danpapa GTA",
+          "url": "https://open.spotify.com/artist/3EC3itx7VHQg0KYhuPsp5O"
         }
       ],
-      "duration_ms": 224000,
-      "name": "ACL",
-      "url": "https://open.spotify.com/track/26hGieucfbYZBwHcq2G05S"
+      "duration_ms": 116585,
+      "name": "Ikeja (No Go Thief)",
+      "url": "https://open.spotify.com/track/3jGo2PclXcXXnjNvqi7n3W"
     },
     {
       "added_at": "2026-04-10 00:01:55",
@@ -1315,6 +1299,22 @@
       "duration_ms": 169018,
       "name": "Grateful",
       "url": "https://open.spotify.com/track/10tuqT05957Cs0VIS2GGaZ"
+    },
+    {
+      "added_at": "2026-04-10 00:01:55",
+      "album": {
+        "name": "No Excuses",
+        "url": "https://open.spotify.com/album/307ndfsqUj3MF4y0uHsinE"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "ACL",
+      "url": "https://open.spotify.com/track/26hGieucfbYZBwHcq2G05S"
     }
   ],
   "unique_name": "Naija Bars ",

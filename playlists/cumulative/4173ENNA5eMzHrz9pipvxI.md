@@ -2,9 +2,9 @@
 
 ### [Spinnin' Records Brand New](https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI)
 
-> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Damian Clarke &amp; Nick Selter
+> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: AFROJACK, Sia, David Guetta
 
-1,959 songs - 3 day 22 hr 22 min
+1,960 songs - 3 day 22 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Atarа́xia](https://open.spotify.com/track/22l9vfR5rmN6aNNs5zvIUF) | [Daho](https://open.spotify.com/artist/4SBfocFcJ0apQ0tSUgxNV6), [Two Are](https://open.spotify.com/artist/3B5IcLPD64jPRgHsSnvHUD) | [Atarа́xia](https://open.spotify.com/album/7tnDdDIjpwrx9Y2z07Sshw) | 4:23 | 2024-04-19 | 2024-05-03 |
 | [Aturdido](https://open.spotify.com/track/3eVlbKvvYfEhQsF1KbUGoN) | [Thomas Newson](https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5) | [Aturdido](https://open.spotify.com/album/62BBpy5McvVoYGndLEuT7V) | 3:10 | 2023-01-12 | 2023-01-27 |
 | [Avalanche](https://open.spotify.com/track/4HJhLHwIqtSxNDJ8FpZ0PB) | [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22), [Dimatik](https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz) | [Avalanche](https://open.spotify.com/album/54Gwf86TuAoruOQp3dSVTR) | 2:19 | 2023-12-15 | 2024-01-06 |
+| [Awake Tonight](https://open.spotify.com/track/4Vdes3GjtIqdFskoWbVYnP) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Awake Tonight](https://open.spotify.com/album/2JVYUljpOqknjBvxeSIFB0) | 3:10 | 2026-04-10 |  |
 | [Awakened Dreamers](https://open.spotify.com/track/5ScQHpRsHcws4gmjVob491) | [Ritual Frequencies](https://open.spotify.com/artist/6K3ugT20KFG4R6otuwXIY5) | [Awakened Dreamers](https://open.spotify.com/album/76aPshHaOvyXNrBwKuI5Nc) | 6:23 | 2023-06-30 | 2023-07-14 |
 | [B2 The Old School](https://open.spotify.com/track/596H2wc56DHytSsVNC3ZdX) | [FTampa](https://open.spotify.com/artist/6P6fVBXZjnqdgq2z2b8WlO), [The Otherz](https://open.spotify.com/artist/2vi0mEbkU7fjjyJs1dcukY) | [B2 The Old School](https://open.spotify.com/album/2jmTRiQ84llE9R56NIPde7) | 2:51 | 2023-04-21 | 2023-05-06 |
 | [B2B](https://open.spotify.com/track/6sZNnGs68SSw1xaOvyObo6) | [Pickle](https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt) | [B2B](https://open.spotify.com/album/64yM7XUppG4NzX8K5JZFu9) | 3:00 | 2025-04-10 | 2025-05-02 |

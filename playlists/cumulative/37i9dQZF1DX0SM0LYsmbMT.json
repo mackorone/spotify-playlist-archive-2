@@ -6368,7 +6368,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 146341,
       "name": "Balance",
       "url": "https://open.spotify.com/track/1Zyrub8wCKUVVMUlV6VstA"
@@ -17530,7 +17530,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 117209,
       "name": "Curtain",
       "url": "https://open.spotify.com/track/5nEVFWRWDenskMleoeQkN8"
@@ -27610,7 +27610,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 108200,
       "name": "Former Glory",
       "url": "https://open.spotify.com/track/0H8Gg3A5oLQU4IBtZiaVio"
@@ -31017,6 +31017,28 @@
     },
     {
       "album": {
+        "name": "Greece",
+        "url": "https://open.spotify.com/album/394IyVp8xiAI2ghHPpYCe9"
+      },
+      "artists": [
+        {
+          "name": "amies",
+          "url": "https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q"
+        },
+        {
+          "name": "Two Scents",
+          "url": "https://open.spotify.com/artist/7sRau6OFIdLc2jMdzZRt81"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179200,
+      "name": "Greece",
+      "url": "https://open.spotify.com/track/4diD44DnrjraPBpdXX1PGx"
+    },
+    {
+      "album": {
         "name": "Green Flash",
         "url": "https://open.spotify.com/album/3uswHlfBrK6SVI41S2c0ZB"
       },
@@ -33320,6 +33342,24 @@
       "duration_ms": 152195,
       "name": "Highkey",
       "url": "https://open.spotify.com/track/3FEgYzxBc4QM5fygfEBoL0"
+    },
+    {
+      "album": {
+        "name": "Highlights",
+        "url": "https://open.spotify.com/album/6NSyRxZGyQ1iJlwijvo4pQ"
+      },
+      "artists": [
+        {
+          "name": "Screen Jazzmaster",
+          "url": "https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Highlights",
+      "url": "https://open.spotify.com/track/6o5FielglUNmI9gRZ2eMuZ"
     },
     {
       "album": {
@@ -40646,6 +40686,24 @@
       "duration_ms": 152617,
       "name": "Kosame",
       "url": "https://open.spotify.com/track/5TqR51fMGFWDy9Vep5MMn8"
+    },
+    {
+      "album": {
+        "name": "Kosame",
+        "url": "https://open.spotify.com/album/4XPWvDD7QGrz1i8Tjldd06"
+      },
+      "artists": [
+        {
+          "name": "softy",
+          "url": "https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Kosame",
+      "url": "https://open.spotify.com/track/0Wo2T73APnKUS0zDoqyBTc"
     },
     {
       "album": {
@@ -49376,7 +49434,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 109213,
       "name": "Mirrorless",
       "url": "https://open.spotify.com/track/4AZs7dehioqAFsFwTPqgJV"
@@ -58668,6 +58726,24 @@
       "duration_ms": 158181,
       "name": "Paella",
       "url": "https://open.spotify.com/track/1zynLlNxb2xAyFin6GvSGC"
+    },
+    {
+      "album": {
+        "name": "Pages",
+        "url": "https://open.spotify.com/album/3rW69ZSJiMLCzEK3CM5CWk"
+      },
+      "artists": [
+        {
+          "name": "Sling Dilly",
+          "url": "https://open.spotify.com/artist/6dY8i34qqvAmPgYeOzHTO9"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118441,
+      "name": "Pages",
+      "url": "https://open.spotify.com/track/7IDRN9WL35dfsZTiIaCd17"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 
 > Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Renan Oliveira
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,103 likes - 76 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,188 likes - 76 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 | 75 | [Alucinado / Desse Jeito É Ruim Pra Mim / Quando A Gente Ama / Adivinha / Um Dia Pra Nós Dois \- Ao Vivo](https://open.spotify.com/track/6xdisWol3FtlGIPHNi09yZ) | [Cantor Aguiar](https://open.spotify.com/artist/09skVi8xWyExY1MS1SMQu6), [Amanda Amado](https://open.spotify.com/artist/5XxWSpbD4LTTKYnKxJVZPD) | [Alucinado / Desse Jeito É Ruim Pra Mim / Quando A Gente Ama / Adivinha / Um Dia Pra Nós Dois \(Ao Vivo\)](https://open.spotify.com/album/69kdbewMi1QaEEWEt8Zlmn) | 9:03 |
 | 76 | [Papo de Homem e Mulher / Saudade Que Não Se Desfaz \- Ao Vivo](https://open.spotify.com/track/2650nDfSdyCc1D1mD3hqpL) | [Xande de Pilares](https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB) | [Nos Braços do Povo, Vol.1 \(Ao Vivo\)](https://open.spotify.com/album/1u9Cj551sGx2BnT2YQuRCP) | 3:33 |
 
-Snapshot ID: `AAAAAFSA8vckXja2dqPAX5gjOOWlF5Oj`
+Snapshot ID: `AAAAAB4dqlM35D6BMjSLFQRLnrQlzVsg`

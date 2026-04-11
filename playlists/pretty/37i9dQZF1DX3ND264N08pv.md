@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,353 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,385 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 12 | [Hot \(Like a Woman\)](https://open.spotify.com/track/24dzulqnPdsw339OOT2sas) | [Cyber Gunz](https://open.spotify.com/artist/3KWdlsF1TJIys0XwnpbiOr), [Schlot](https://open.spotify.com/artist/0XDU5Tj8CTvRZBaKB6pSSw) | [Hot \(Like a Woman\)](https://open.spotify.com/album/4UjNoLn4ZO1eoGY3HmZV4l) | 2:42 |
 | 13 | [Hardcore Bass](https://open.spotify.com/track/4EChaoF30M64Bb43eSyGFt) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv), [Chaos Project](https://open.spotify.com/artist/31yN9ocbPndhIWUxTIQArT) | [Hardcore Bass](https://open.spotify.com/album/1vTB6AtM6rfXboi0YylIhh) | 2:48 |
 | 14 | [Murder On The Dancefloor](https://open.spotify.com/track/6hc23rlusaZU0oZy3Zmf38) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [Furyan](https://open.spotify.com/artist/7KAMvC5fpPMWUgZYu3mEYJ) | [Murder On The Dancefloor](https://open.spotify.com/album/1aBix6Eh50Bz7VzRK8wvKH) | 2:28 |
-| 15 | [The Last Airbender \(VIP\)](https://open.spotify.com/track/2UkJVFIbRG9FyqHG4E3Dje) | [SLVL](https://open.spotify.com/artist/2w2F0FNIB80MQPxICKbjqf) | [The Last Airbender \(VIP\)](https://open.spotify.com/album/020oO7QSGs7zx64ryNe67n) | 2:30 |
+| 15 | [Gathering Of Gods](https://open.spotify.com/track/1V3nY66kSpmOdNXjs7LNjA) | [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS) | [Gathering Of Gods](https://open.spotify.com/album/0XhaJpk3HzfsI1Y7XzSou4) | 2:08 |
 | 16 | [DEVIL INSIDE](https://open.spotify.com/track/7vkGe1arXPoiWjhXAWXmUK) | [Redlinerz](https://open.spotify.com/artist/1p72X351s3VusuGu9gtcZh), [Abrade](https://open.spotify.com/artist/0NWK35yicnrb7InQsWtFCv) | [DEVIL INSIDE](https://open.spotify.com/album/1Im7NFmi9GqoTIS7zIIPLb) | 3:08 |
-| 17 | [Gathering Of Gods](https://open.spotify.com/track/1V3nY66kSpmOdNXjs7LNjA) | [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS) | [Gathering Of Gods](https://open.spotify.com/album/0XhaJpk3HzfsI1Y7XzSou4) | 2:08 |
+| 17 | [The Last Airbender \(VIP\)](https://open.spotify.com/track/2UkJVFIbRG9FyqHG4E3Dje) | [SLVL](https://open.spotify.com/artist/2w2F0FNIB80MQPxICKbjqf) | [The Last Airbender \(VIP\)](https://open.spotify.com/album/020oO7QSGs7zx64ryNe67n) | 2:30 |
 | 18 | [BKJN](https://open.spotify.com/track/653ZGubEVdZzrjVDVTYWCo) | [Lekkerfaces](https://open.spotify.com/artist/45Meh6B3L1TNh03On3y349) | [BKJN](https://open.spotify.com/album/7qicoPdBSFqDoc1Za3Lwmv) | 2:18 |
 | 19 | [Bring The Hammer Down](https://open.spotify.com/track/2zjlS4UQAgZaxtJCDB79Mt) | [The Dark Horror](https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa), [The Straikerz](https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l) | [Bring The Hammer Down](https://open.spotify.com/album/6dvA9ZepS0SFnVXkKi9E1F) | 2:20 |
 | 20 | [Goodnight](https://open.spotify.com/track/3so8QmY32Ww6y5kULcAbu3) | [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [Goodnight](https://open.spotify.com/album/16GveSDbJf9zvtmdlbSYUx) | 3:25 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 43 | [Uptempo Airlines](https://open.spotify.com/track/1nk67tv0nCtBkjYJ5Oa2km) | [Gezellige Uptempo](https://open.spotify.com/artist/7H94tjDpGeDAoLEaQR0tOv), [Pinotello](https://open.spotify.com/artist/1WjmW8uqn4LwwsJxrDMM4d) | [Uptempo Airlines](https://open.spotify.com/album/6odpg6tRWQ9ZzJA8jT1tuP) | 2:44 |
 | 44 | [Temple Of Resonance \(Official Masters Of Hardcore 2025 Anthem\)](https://open.spotify.com/track/7gZEZc68gYpSPK2GvPPChc) | [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS), [Nolz](https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA), [Tha Watcher](https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD) | [Temple Of Resonance \(Official Masters Of Hardcore 2025 Anthem\)](https://open.spotify.com/album/6IVbGHJN8o7BNTuXlaoRfG) | 4:33 |
 | 45 | [Trip to Italia](https://open.spotify.com/track/37YjbaFWtcE0Iw3ngEffg9) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [Rooler](https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi) | [Trip to Italia](https://open.spotify.com/album/7gK850y20cW0cjdU2ERi8V) | 3:34 |
-| 46 | [Hate Destroyer](https://open.spotify.com/track/1UAN6xmk080TVBfGlRyNA0) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [Hate Destroyer](https://open.spotify.com/album/7xAeX8mHtj2AadeIX856Mb) | 2:55 |
-| 47 | [Sikam Szampan Techno](https://open.spotify.com/track/7Isl0TecJwk6ZiihNey0lp) | [Mr\. Polska](https://open.spotify.com/artist/1A6HQzOvtGaCYihOuIKjE6) | [Sikam Szampan Techno](https://open.spotify.com/album/0vNH64YmfuzqxXTo41BMNz) | 3:08 |
+| 46 | [Sikam Szampan Techno](https://open.spotify.com/track/7Isl0TecJwk6ZiihNey0lp) | [Mr\. Polska](https://open.spotify.com/artist/1A6HQzOvtGaCYihOuIKjE6) | [Sikam Szampan Techno](https://open.spotify.com/album/0vNH64YmfuzqxXTo41BMNz) | 3:08 |
+| 47 | [Hate Destroyer](https://open.spotify.com/track/1UAN6xmk080TVBfGlRyNA0) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [Hate Destroyer](https://open.spotify.com/album/7xAeX8mHtj2AadeIX856Mb) | 2:55 |
 | 48 | [Blast Your Stereo](https://open.spotify.com/track/30C1mHFD8gnf2Q4i177DcQ) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv), [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5) | [Blast Your Stereo](https://open.spotify.com/album/6hLniqxTHOc1OOIesBdfZE) | 2:11 |
 | 49 | [The Nightmare Man](https://open.spotify.com/track/1KylFXhenI0dDY3tdg2abD) | [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS) | [The Nightmare Man](https://open.spotify.com/album/3oXDaPVMjVKy0QdScVeYyU) | 3:06 |
-| 50 | [Self\-Destroyed](https://open.spotify.com/track/50aM5Kh9jnUezTFFKUqZyt) | [Dj Mad Dog](https://open.spotify.com/artist/7oX7rzli18XsB2WFd88oW4) | [Self\-Destroyed EP](https://open.spotify.com/album/0NiIooDAUgxBPyh1MllqHA) | 2:12 |
+| 50 | [WE DONT PLAY](https://open.spotify.com/track/3hzb7yFb33bHzEXn3Cc8wm) | [Levenkhan](https://open.spotify.com/artist/0ceEjm8IKMdK5BjMmnGMrd), [Dr Donk](https://open.spotify.com/artist/0NirwTOv2qvuXsNNZkDPNu) | [WE DONT PLAY](https://open.spotify.com/album/47g3muCTnVTUgBtaE3uxau) | 2:21 |
 
-Snapshot ID: `AAAAALR44ThVH0BHkVBCDBI+sSHKcyy5`
+Snapshot ID: `AAAAANLbP9MQM7QxWjet3G5F2nr2VWx4`

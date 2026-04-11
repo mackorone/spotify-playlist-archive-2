@@ -4615,6 +4615,24 @@
     },
     {
       "album": {
+        "name": "Fama Drama",
+        "url": "https://open.spotify.com/album/6QiMD6Cfr3QmcpLezXr5YD"
+      },
+      "artists": [
+        {
+          "name": "Tiago Amorim",
+          "url": "https://open.spotify.com/artist/1blXm9FViuataPse8jKebH"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190388,
+      "name": "Fama Drama",
+      "url": "https://open.spotify.com/track/1z9ix3duj6QUsB8Q9g7QaJ"
+    },
+    {
+      "album": {
         "name": "Farewell",
         "url": "https://open.spotify.com/album/2e7IZdBUvJnb325fR5S1V2"
       },
@@ -6213,6 +6231,24 @@
     },
     {
       "album": {
+        "name": "KIT extra MORTO",
+        "url": "https://open.spotify.com/album/7dGJWukmB0jSUIteo5JeQy"
+      },
+      "artists": [
+        {
+          "name": "Donato",
+          "url": "https://open.spotify.com/artist/0mU8BkkAqZGV9OfKaVOayI"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164875,
+      "name": "i credenti",
+      "url": "https://open.spotify.com/track/3OmnqP54m57XQSBOF8QEfI"
+    },
+    {
+      "album": {
         "name": "I Feel Good",
         "url": "https://open.spotify.com/album/4g9E1R8MCCsiisYAjQ7t4q"
       },
@@ -7402,7 +7438,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-09",
+      "date_removed": null,
       "duration_ms": 253085,
       "name": "Kiss Me Before I Die",
       "url": "https://open.spotify.com/track/24PYfS3e4mGu9J1qRYQJNb"
@@ -10138,6 +10174,24 @@
       "duration_ms": 289992,
       "name": "Nina the Dressmaker (alt. Vers)",
       "url": "https://open.spotify.com/track/5KpF9K5ey1hJ8t07zKD42G"
+    },
+    {
+      "album": {
+        "name": "No Kings",
+        "url": "https://open.spotify.com/album/5BOKRHvfad5v80hpna7T43"
+      },
+      "artists": [
+        {
+          "name": "Hariyono",
+          "url": "https://open.spotify.com/artist/1mX3tMoN3V0gl2mUk79o5T"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134803,
+      "name": "No Kings",
+      "url": "https://open.spotify.com/track/15E5RPanamaDv4eW8nmkPl"
     },
     {
       "album": {
@@ -13032,6 +13086,24 @@
       "duration_ms": 192545,
       "name": "Some Things Don't Pass",
       "url": "https://open.spotify.com/track/7yE8YUpyp1J7HyH5Q52xiQ"
+    },
+    {
+      "album": {
+        "name": "Someone",
+        "url": "https://open.spotify.com/album/76vWBdmlbLoYJrrKPAvbEp"
+      },
+      "artists": [
+        {
+          "name": "DJ Connery",
+          "url": "https://open.spotify.com/artist/4hqpFbarG3QRQHWu5PE1au"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285624,
+      "name": "Someone",
+      "url": "https://open.spotify.com/track/2f73kinXdRlLhCjjza6aUe"
     },
     {
       "album": {

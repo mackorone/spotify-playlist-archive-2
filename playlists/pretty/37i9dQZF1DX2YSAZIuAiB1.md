@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YSAZIuAiB1.md) - [plain]
 
 > zu dieser sonnigen playlist kann man nur viben
 
-[Spotify](https://open.spotify.com/user/spotify) - 632,210 likes - 75 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 632,160 likes - 75 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YSAZIuAiB1.md) - [plain]
 | 74 | [Girl In Ibiza](https://open.spotify.com/track/37GdNHzVKH7FAlRp2Tc9PB) | [WITH U](https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV), [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [Girl In Ibiza](https://open.spotify.com/album/5eqCWPXmf06tBT7wWBPO6J) | 2:39 |
 | 75 | [Miss Kitoko](https://open.spotify.com/track/03xgcXTzxDbsN9v4m6sYsk) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [Miss Kitoko](https://open.spotify.com/album/2pQHavhuewHL2GUZkjfaSR) | 2:29 |
 
-Snapshot ID: `AAAAANHMDsYdVY4FuSEUFh1ewcuW0y1S`
+Snapshot ID: `AAAAAFaNEOFPteZl5Ua/Qxvn1SvcZFyz`

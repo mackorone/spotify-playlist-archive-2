@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Ritmos c\u00e1lidos y alternativos para relajarte y tirarse bajo el sol \ud83c\udf3a\u2600\ufe0f\ud83c\udf34\ud83c\udfb6 Yandel y LATIN MAFIA en portada.",
+  "description": "Ritmos c\u00e1lidos y alternativos para relajarte y tirarse bajo el sol \ud83c\udf3a\u2600\ufe0f\ud83c\udf34\ud83c\udfb6 A. CHAL en portada.",
   "name": "tropic.alt",
   "tracks": [
     {
@@ -244,6 +244,28 @@
       "duration_ms": 255227,
       "name": "Aguaepanela Fant\u00e1stica",
       "url": "https://open.spotify.com/track/4dD12G5mBLuZX59OInpwYt"
+    },
+    {
+      "album": {
+        "name": "No me fui porque quise",
+        "url": "https://open.spotify.com/album/0pbChddIjWWBWwEcI0CvB5"
+      },
+      "artists": [
+        {
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+        },
+        {
+          "name": "Ensamble B11",
+          "url": "https://open.spotify.com/artist/1GHTrN7LBr8Vb7juk5Jdaz"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181285,
+      "name": "aguafresca",
+      "url": "https://open.spotify.com/track/1FxJnpAlznk2pmgrZAQdkS"
     },
     {
       "album": {
@@ -1101,6 +1123,24 @@
     },
     {
       "album": {
+        "name": "CHOLOGANTE",
+        "url": "https://open.spotify.com/album/5c068V1g1xpFeBv7lXGEDi"
+      },
+      "artists": [
+        {
+          "name": "A.CHAL",
+          "url": "https://open.spotify.com/artist/0pkwrPVI8UyXtPkavyJoZ4"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179426,
+      "name": "CHOLOGANTE",
+      "url": "https://open.spotify.com/track/3GlXTZXZ5j3augSpHUsOyZ"
+    },
+    {
+      "album": {
         "name": "LINEAS MUSUQ",
         "url": "https://open.spotify.com/album/0unpp4AsITGdB9tmFfcgXb"
       },
@@ -1508,7 +1548,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 232241,
       "name": "Coraz\u00f3n Usado",
       "url": "https://open.spotify.com/track/7s4U0Y3doEGDTLlQY5X55Q"
@@ -3760,7 +3800,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 365146,
       "name": "La Princesa",
       "url": "https://open.spotify.com/track/6chz5xP4roMLoNADGUjmEv"
@@ -3844,6 +3884,28 @@
       "duration_ms": 204856,
       "name": "Lloro",
       "url": "https://open.spotify.com/track/2A2is5EUKFNtdcIT3yX9Gj"
+    },
+    {
+      "album": {
+        "name": "LLUVIA",
+        "url": "https://open.spotify.com/album/0FtB0rq1WIiKjr8eBDoxwy"
+      },
+      "artists": [
+        {
+          "name": "GRTSCH",
+          "url": "https://open.spotify.com/artist/0UuPYvwZmo6lXXvi1S5mLK"
+        },
+        {
+          "name": "Karen y Los Remedios",
+          "url": "https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221033,
+      "name": "LLUVIA",
+      "url": "https://open.spotify.com/track/6Rd4gsyAv0VmhzK89dU5Yj"
     },
     {
       "album": {
@@ -6336,7 +6398,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 245000,
       "name": "Sal Cero (Latinoam\u00e9rica)",
       "url": "https://open.spotify.com/track/4t8W6H0HFRmuGpaTqFkMbz"

@@ -691,6 +691,28 @@
     },
     {
       "album": {
+        "name": "Always With You",
+        "url": "https://open.spotify.com/album/58JOFrfPBXuI8bGAEb7lD4"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00e0n",
+          "url": "https://open.spotify.com/artist/2SJLGPoAJhy9Id6N8oAftk"
+        },
+        {
+          "name": "Ptr.",
+          "url": "https://open.spotify.com/artist/6NjVgE12RKrH5MjW9Tgd0o"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139714,
+      "name": "Always With You",
+      "url": "https://open.spotify.com/track/2tKGLXNuou7Ab3Y9xER86c"
+    },
+    {
+      "album": {
         "name": "Amber",
         "url": "https://open.spotify.com/album/2IyYd9nPtLMIn3XebCu6G4"
       },
@@ -916,7 +938,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 98931,
       "name": "As far as I can remember",
       "url": "https://open.spotify.com/track/6sLTxPY204HkrIavlAkHxE"
@@ -4812,7 +4834,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 110846,
       "name": "droplets",
       "url": "https://open.spotify.com/track/6cnBbiIz52320sB2qKhSXf"
@@ -7904,7 +7926,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 123243,
       "name": "horizon",
       "url": "https://open.spotify.com/track/3XaWOAun8dVY2fRKME3uZ5"
@@ -16819,6 +16841,28 @@
     },
     {
       "album": {
+        "name": "Skyward",
+        "url": "https://open.spotify.com/album/66B3RIxjdQ2lPdEF8Zu6rg"
+      },
+      "artists": [
+        {
+          "name": "David Chief",
+          "url": "https://open.spotify.com/artist/74MxkvPdj4ymZu9WZLxZZU"
+        },
+        {
+          "name": "Lotus Beats",
+          "url": "https://open.spotify.com/artist/667RkTKDzJP6Hi3viSrkWI"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107188,
+      "name": "Skyward",
+      "url": "https://open.spotify.com/track/4CN7MVWJlCmILOpPZJofgG"
+    },
+    {
+      "album": {
         "name": "Sisel",
         "url": "https://open.spotify.com/album/0j6HgcImiDOjaQeXK4utp7"
       },
@@ -17372,6 +17416,24 @@
       "duration_ms": 223000,
       "name": "solstice",
       "url": "https://open.spotify.com/track/0nSchxt6Ucc5gSX5n8HnLV"
+    },
+    {
+      "album": {
+        "name": "Somatic",
+        "url": "https://open.spotify.com/album/5vE0CpH25DEKrEuKjTI4PU"
+      },
+      "artists": [
+        {
+          "name": "Earium",
+          "url": "https://open.spotify.com/artist/2zoujD3saJt6zYDh6Wu1Uq"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124444,
+      "name": "Somatic",
+      "url": "https://open.spotify.com/track/6Ooi31jQLGC36biDAYfL2F"
     },
     {
       "album": {

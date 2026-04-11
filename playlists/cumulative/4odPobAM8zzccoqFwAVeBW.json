@@ -1596,7 +1596,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 178616,
       "name": "Celebration",
       "url": "https://open.spotify.com/track/5GxAgWTLLzcNWXXlnZRZxZ"
@@ -2424,7 +2424,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 187026,
       "name": "Death Juke",
       "url": "https://open.spotify.com/track/0rHKa21KoVWKxoFOBZdCfj"
@@ -2630,7 +2630,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 276000,
       "name": "Desert Hoods",
       "url": "https://open.spotify.com/track/4yKp4yfDDyrOf0K2On8UJH"
@@ -2929,6 +2929,24 @@
     },
     {
       "album": {
+        "name": "SHOUTING THE ODDS",
+        "url": "https://open.spotify.com/album/5WI51sMYSqFzEiRobt8GFf"
+      },
+      "artists": [
+        {
+          "name": "Monrella",
+          "url": "https://open.spotify.com/artist/3IaqdYidFqtiJRgcwPbeP5"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243600,
+      "name": "DOUBLE RED",
+      "url": "https://open.spotify.com/track/0w4m8haDMZaW5l3OZHVIDu"
+    },
+    {
+      "album": {
         "name": "Dr Love",
         "url": "https://open.spotify.com/album/37rKW8WGreoVIPG5czZHGJ"
       },
@@ -3120,6 +3138,24 @@
       "duration_ms": 1213241,
       "name": "Einstein on the Beach: Night Train",
       "url": "https://open.spotify.com/track/1ZVUzAq0DCGxdDoTXQA2wF"
+    },
+    {
+      "album": {
+        "name": "Chronicles of Gnowt (Vol 1)",
+        "url": "https://open.spotify.com/album/22cMoC9PLqzGvKJOcQpVoJ"
+      },
+      "artists": [
+        {
+          "name": "Gnod",
+          "url": "https://open.spotify.com/artist/0M7HBnNJoTfTWouL5O7FtO"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 611861,
+      "name": "Ekstasis",
+      "url": "https://open.spotify.com/track/1hJo5tWdrcNLrGGJ7jc6jK"
     },
     {
       "album": {
@@ -3394,7 +3430,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 403866,
       "name": "Falling",
       "url": "https://open.spotify.com/track/1XsXpgYRetyKkhdfLkAf6t"
@@ -3979,6 +4015,24 @@
     },
     {
       "album": {
+        "name": "Genre is a disease 127.1",
+        "url": "https://open.spotify.com/album/1Xh1IcI2BdaUKNypOIXT1v"
+      },
+      "artists": [
+        {
+          "name": "Soft-Bodied Humans",
+          "url": "https://open.spotify.com/artist/3jXygCVTtuPllL66aNXJvl"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349082,
+      "name": "Genre is a disease 127.1",
+      "url": "https://open.spotify.com/track/3PHqMLXJ87dAJKrUWuYJkR"
+    },
+    {
+      "album": {
         "name": "Getting Ready For My Life To Begin",
         "url": "https://open.spotify.com/album/4goUbevRFElJkMof2H0wPW"
       },
@@ -4088,7 +4142,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 172804,
       "name": "Ghoulish Socket Vapor ! Voltage Phantasm Uprising",
       "url": "https://open.spotify.com/track/4Mj6XzQWwRnC6gHHxIVEb2"
@@ -4298,7 +4352,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 217088,
       "name": "Going Wrong",
       "url": "https://open.spotify.com/track/6CEnWKPwTNr0Zy9nzb1EUJ"
@@ -4642,7 +4696,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 238336,
       "name": "Hefei",
       "url": "https://open.spotify.com/track/313XrSxESXeIxiTRo9KSa7"
@@ -6099,6 +6153,28 @@
     },
     {
       "album": {
+        "name": "LAgoon",
+        "url": "https://open.spotify.com/album/74sNq23sQIqVu8nRua59DC"
+      },
+      "artists": [
+        {
+          "name": "Europa",
+          "url": "https://open.spotify.com/artist/5ucimC5sYK4MCXjKrWtpwP"
+        },
+        {
+          "name": "GUCCISAMO",
+          "url": "https://open.spotify.com/artist/2dyl6axw4mZ37rhKWd7QwY"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133382,
+      "name": "Listerine",
+      "url": "https://open.spotify.com/track/2I5ThO5AvIlblpbLRbsvHy"
+    },
+    {
+      "album": {
         "name": "Listing",
         "url": "https://open.spotify.com/album/6m2oQmMulVxUxG80o6PafQ"
       },
@@ -7336,7 +7412,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 244572,
       "name": "New ADHD",
       "url": "https://open.spotify.com/track/3B6vRouUzwrdQsVnyAtqZa"
@@ -7398,6 +7474,24 @@
       "duration_ms": 193043,
       "name": "NO SLEEP TILL HERNE BAY",
       "url": "https://open.spotify.com/track/5Axoc4Hx2JBd24ZCPSMk6J"
+    },
+    {
+      "album": {
+        "name": "No! Racist",
+        "url": "https://open.spotify.com/album/1kD2oYQg4gGwAsoQ5MwBiB"
+      },
+      "artists": [
+        {
+          "name": "Raw Distractions",
+          "url": "https://open.spotify.com/artist/6QWjW6UwgwYyN9nvv3tQaP"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116057,
+      "name": "No! Racist",
+      "url": "https://open.spotify.com/track/1sQKCkjvBODEvNMQVUOXfp"
     },
     {
       "album": {
@@ -7995,6 +8089,36 @@
     },
     {
       "album": {
+        "name": "Bborn Again",
+        "url": "https://open.spotify.com/album/0I9U9zBMdzqvawfaIt6JvY"
+      },
+      "artists": [
+        {
+          "name": "PPP",
+          "url": "https://open.spotify.com/artist/3GASp5SoyDbFg7JgY0RV7M"
+        },
+        {
+          "name": "Piezo",
+          "url": "https://open.spotify.com/artist/4vr49Ycb253qEyUuXnlYaM"
+        },
+        {
+          "name": "DJ Plead",
+          "url": "https://open.spotify.com/artist/3srk7xv520Ls9D09QMpEJg"
+        },
+        {
+          "name": "DJ Python",
+          "url": "https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274565,
+      "name": "Pez",
+      "url": "https://open.spotify.com/track/5QvvtpGUlrEedXvberu01w"
+    },
+    {
+      "album": {
         "name": "Abhorrent Putrification",
         "url": "https://open.spotify.com/album/5rPgXGPvsHIXShigil3vsb"
       },
@@ -8468,7 +8592,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 285757,
       "name": "Railcard",
       "url": "https://open.spotify.com/track/5dkE1hDM7trNGMoBab1K62"
@@ -8811,6 +8935,24 @@
     },
     {
       "album": {
+        "name": "Roses on the Esplanade",
+        "url": "https://open.spotify.com/album/4ZUYQcoJNsGmkJhqAYTI0P"
+      },
+      "artists": [
+        {
+          "name": "Stone Anthem",
+          "url": "https://open.spotify.com/artist/7nhWh1LfBBqLDbRv3y7wWM"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225952,
+      "name": "Roses on the Esplanade",
+      "url": "https://open.spotify.com/track/5vgVhd4VaaU7i3K59tCy0O"
+    },
+    {
+      "album": {
         "name": "Rowans",
         "url": "https://open.spotify.com/album/5PCPi4yUIDaXAuhOoe59aa"
       },
@@ -8934,6 +9076,24 @@
       "duration_ms": 219840,
       "name": "Sadie Mae",
       "url": "https://open.spotify.com/track/5zIJgV1Oc8T6Hu1W1Q5MLM"
+    },
+    {
+      "album": {
+        "name": "Saitte Mit\u00e4 Halusitte",
+        "url": "https://open.spotify.com/album/6VLZsqvIwcFDp0jqNxdh4S"
+      },
+      "artists": [
+        {
+          "name": "Yleiset Syyt",
+          "url": "https://open.spotify.com/artist/77xJ3l102w1ehtQP7akp34"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67291,
+      "name": "Saitte Mit\u00e4 Halusitte",
+      "url": "https://open.spotify.com/track/2N72oN6vOWdYXZn27lnSsx"
     },
     {
       "album": {
@@ -9074,7 +9234,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 165576,
       "name": "Sea Fever",
       "url": "https://open.spotify.com/track/7GPIF5NosnNo65KmGxYKtK"
@@ -9226,7 +9386,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 426500,
       "name": "Shadow Mirror",
       "url": "https://open.spotify.com/track/42FXyGS2W94sTXFhMh7tT9"
@@ -9306,7 +9466,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 177506,
       "name": "she\u2019s veiled",
       "url": "https://open.spotify.com/track/63SlPoiJjF9Gr70imB6PnR"
@@ -9640,6 +9800,24 @@
       "duration_ms": 93000,
       "name": "Soft Focus Distraction",
       "url": "https://open.spotify.com/track/3ZeUKs2KYz5UKSEfUZpB7L"
+    },
+    {
+      "album": {
+        "name": "Softness",
+        "url": "https://open.spotify.com/album/3wFiYaFElqn1WGwRI1soQT"
+      },
+      "artists": [
+        {
+          "name": "Neon Fog",
+          "url": "https://open.spotify.com/artist/36pxVjNShmoD2SOQRgo2rQ"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "Softness",
+      "url": "https://open.spotify.com/track/0GpIUZMMamBdIojJmS1EYG"
     },
     {
       "album": {
@@ -10330,7 +10508,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 276000,
       "name": "Swim Up",
       "url": "https://open.spotify.com/track/1gJHTCXLXVTU4XHGMLYNPb"
@@ -10442,10 +10620,28 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 124777,
       "name": "Tears for Leda",
       "url": "https://open.spotify.com/track/7Hy4Dz3U2RvQ3GjIURb9Jo"
+    },
+    {
+      "album": {
+        "name": "HERE YOU DREAM",
+        "url": "https://open.spotify.com/album/48HKuxqA3CoUq4YdDh2Xb7"
+      },
+      "artists": [
+        {
+          "name": "Blush Puppy",
+          "url": "https://open.spotify.com/artist/1629PB7RC2q35b9H3mkMAr"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162986,
+      "name": "TEARS IN RAIN",
+      "url": "https://open.spotify.com/track/1AFy7x1q0wBgkk75O4VZUM"
     },
     {
       "album": {
@@ -10928,7 +11124,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 415250,
       "name": "The House Sound of Chicago",
       "url": "https://open.spotify.com/track/4rOiLbB2b9UVdk8LHluDeP"
@@ -11166,6 +11362,28 @@
       "duration_ms": 229226,
       "name": "The Resurrection Of Whiskey Foote",
       "url": "https://open.spotify.com/track/3pKq6S3L9ZBqLFe4UlZoPU"
+    },
+    {
+      "album": {
+        "name": "THE RETURN",
+        "url": "https://open.spotify.com/album/5FTMFZgkhLQb7aC3Lm60fR"
+      },
+      "artists": [
+        {
+          "name": "DJ LUCKY TEKLIFE",
+          "url": "https://open.spotify.com/artist/50j6WLqlEq4CDoMFhyLCiK"
+        },
+        {
+          "name": "Teklife",
+          "url": "https://open.spotify.com/artist/1GoZKzpOpwfoZLj1W6sjeg"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219750,
+      "name": "THE RETURN",
+      "url": "https://open.spotify.com/track/6NrB8BPT8ukMl92SBXKNEx"
     },
     {
       "album": {
@@ -12042,7 +12260,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 242953,
       "name": "Valiant Heart",
       "url": "https://open.spotify.com/track/6ED9UHv3cYK7ql6vwHeivu"
@@ -12118,7 +12336,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 178812,
       "name": "Vertical Take-Off and Landing",
       "url": "https://open.spotify.com/track/1VTbRtpyYTDodeYOwe7BpH"
@@ -12226,7 +12444,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 198137,
       "name": "Waiting For The Morning",
       "url": "https://open.spotify.com/track/1DSJABZMooaRbjZAeIEtGp"

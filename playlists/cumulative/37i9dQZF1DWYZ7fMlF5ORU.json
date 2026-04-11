@@ -1121,6 +1121,28 @@
     },
     {
       "album": {
+        "name": "Herdeiro (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3CBMJx0z3njWROmeb31ubb"
+      },
+      "artists": [
+        {
+          "name": "Jess\u00e9 Alcantara",
+          "url": "https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X"
+        },
+        {
+          "name": "Urban Music",
+          "url": "https://open.spotify.com/artist/1rlhLZKrDNMRbPUMbbgAgY"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227240,
+      "name": "Herdeiro - Ao Vivo",
+      "url": "https://open.spotify.com/track/2HiVkhlXMLQmDldVq8cAUo"
+    },
+    {
+      "album": {
         "name": "Espet\u00e1culo M\u00fasica Legion\u00e1ria: Os Mortos N\u00e3o Morrem!",
         "url": "https://open.spotify.com/album/1LzN90fTqsivC9jEZlXPde"
       },
@@ -1796,7 +1818,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 243495,
       "name": "Pelejar por Jesus / Em Nome de Jesus: Live At Dissenso Studio",
       "url": "https://open.spotify.com/track/3GlzRz4Qwsv1Yyi5gK9wJu"

@@ -4,7 +4,7 @@
 
 > una guitarra y mucho sentimiento para cantar\. Macario Martínez en portada.
 
-273 songs - 17 hr 30 min
+274 songs - 17 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [High in the sky](https://open.spotify.com/track/1vbE1yM9H7CVm4Gh5ElvQy) | [Juan Cirerol](https://open.spotify.com/artist/0zipD52jhXFlSyN84URtCm) | [High in the sky](https://open.spotify.com/album/7bvIpDC81g837GCCRTlLmF) | 2:33 | 2026-01-09 | 2026-03-07 |
 | [Hoy Vine Aquí](https://open.spotify.com/track/2apPcRsJaMNm8Bbsr9qDZP) | [Ramita de Cedro](https://open.spotify.com/artist/4QWlbXuMrZRkeRIKbsyRpJ), [RC](https://open.spotify.com/artist/6qRRkW7d2ptDGSc50FdxVZ) | [Ramita de Cedro](https://open.spotify.com/album/5VOnaIGOP0PruYLBwu7F0w) | 5:35 | 2022-03-04 | 2025-05-31 |
 | [Igual No Debo](https://open.spotify.com/track/1xgEvJ6oPN3mTd99tY6RQ5) | [Erich](https://open.spotify.com/artist/3l9fWRfml0xOFriezXXwhU) | [Igual No Debo](https://open.spotify.com/album/39YHoq7K8WI7TZpCi4GFso) | 2:43 | 2024-10-11 | 2025-05-31 |
+| [Injusto \- A COLORS SHOW](https://open.spotify.com/track/10nKyJBzqs6RqvBGxZpcbd) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Injusto \- A COLORS SHOW](https://open.spotify.com/album/5vZ13fB8CvXLBIpFTFPLkE) | 4:44 | 2026-04-10 |  |
 | [La Apuesta](https://open.spotify.com/track/1vnHzi9TUsfNInui1SzkI0) | [Laura Itandehui](https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK) | [La Apuesta](https://open.spotify.com/album/3YsjbaCHFK0qo8MIeRnw0f) | 2:53 | 2026-02-13 |  |
 | [La Bamba Rebelde](https://open.spotify.com/track/61eRbW77tBH1SjQrGkZvdt) | [Las Cafeteras](https://open.spotify.com/artist/2AeRVFWlYSW9zMUGULjPpz) | [It's Time](https://open.spotify.com/album/0o4Yp01humYmlsZ4Jnhs3g) | 5:21 | 2022-03-04 | 2024-10-12 |
 | [La Bamba Rebelde](https://open.spotify.com/track/3cyREPYKAMQNfki246eknU) | [Las Cafeteras](https://open.spotify.com/artist/2AeRVFWlYSW9zMUGULjPpz) | [It's Time](https://open.spotify.com/album/2PzljcoZ70HbAKOK24bnEx) | 5:23 | 2022-03-04 | 2024-04-19 |
@@ -168,7 +169,7 @@
 | [Mis Muertos](https://open.spotify.com/track/4D96nwMFxCAHAg7xAokRdi) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [La Enamorada](https://open.spotify.com/album/0wixYeQxrkuwg0bzGDjtwu) | 2:21 | 2023-06-09 | 2024-04-19 |
 | [Mis Muertos](https://open.spotify.com/track/7hHqwnpLHCILZxF9mmSSqI) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [La Enamorada](https://open.spotify.com/album/3unTf9Fint6gmlFkgA17em) | 2:21 | 2022-03-04 | 2023-07-07 |
 | [Montaña](https://open.spotify.com/track/1r8iML6ls8xP0WZ9megjNy) | [Making Movies](https://open.spotify.com/artist/1wFpAE8HCGoqaLjzRO51w9), [Las Cafeteras](https://open.spotify.com/artist/2AeRVFWlYSW9zMUGULjPpz) | [Montaña](https://open.spotify.com/album/31eKdCWp9zet3WIDnsa4Ob) | 2:14 | 2022-03-04 | 2025-05-31 |
-| [Morena](https://open.spotify.com/track/6BGFzUmch7fHcZgtzLfoyS) | [Walter Esaú](https://open.spotify.com/artist/2BaF574aVsGeAtcUgrzeV5), [Las Nieves de Enero](https://open.spotify.com/artist/7wejxsQiQxb3EuqdG5XkYA) | [Morena](https://open.spotify.com/album/5Tf8Nc0Gngp8H4dPJLhbqR) | 4:22 | 2025-05-30 |  |
+| [Morena](https://open.spotify.com/track/6BGFzUmch7fHcZgtzLfoyS) | [Walter Esaú](https://open.spotify.com/artist/2BaF574aVsGeAtcUgrzeV5), [Las Nieves de Enero](https://open.spotify.com/artist/7wejxsQiQxb3EuqdG5XkYA) | [Morena](https://open.spotify.com/album/5Tf8Nc0Gngp8H4dPJLhbqR) | 4:22 | 2025-05-30 | 2026-04-11 |
 | [Mujer Mexicana](https://open.spotify.com/track/2aoaQbWGcfePI9WL85leY0) | [FRNCE](https://open.spotify.com/artist/6JgntWpSBHDYhbJbpMuD4f) | [Mujer Mexicana](https://open.spotify.com/album/1ql6HMWjXzf5tOwvO16bOB) | 3:22 | 2026-01-16 |  |
 | [Mujer Pájaro](https://open.spotify.com/track/64zazX8C4uCP4FJnpod2UD) | [Gabriela Alatorre](https://open.spotify.com/artist/5nx2QzX7iOhTv3L5eQOFG5) | [Mujer Pájaro](https://open.spotify.com/album/5Lz7BxP7iIjMRuSQdSqqVR) | 2:53 | 2025-08-18 | 2025-11-22 |
 | [Mujeres](https://open.spotify.com/track/34bvJEceDRCHVQDyPd7sa2) | [Banda Femenil Regional "Mujeres del Viento Florido"](https://open.spotify.com/artist/1x4v8vs04mwdQwKy74mQBd) | [Mujeres](https://open.spotify.com/album/2umjf37Z9va9M5JSgEPR5V) | 3:15 | 2022-04-20 | 2025-05-31 |

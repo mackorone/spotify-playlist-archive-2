@@ -1,13 +1,45 @@
 {
-  "description": "on repeat for a reason. cover: Mira Housey",
-  "num_followers": 1551098,
+  "description": "on repeat for a reason. cover: STELLA LEFTY",
+  "num_followers": 1550995,
   "original_name": "young & free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACOjod7aXy4I/Q9ZWRZ1fSutGE3C",
+  "snapshot_id": "AAAAAMoZzrl8ZusSx/jXGicpVzdmi30G",
   "tracks": [
+    {
+      "added_at": "2026-03-27 05:09:53",
+      "album": {
+        "name": "Boston",
+        "url": "https://open.spotify.com/album/4YLIRb8DdBTXbgHiFLicH2"
+      },
+      "artists": [
+        {
+          "name": "STELLA LEFTY",
+          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
+        }
+      ],
+      "duration_ms": 170859,
+      "name": "Boston",
+      "url": "https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN"
+    },
+    {
+      "added_at": "2026-04-10 05:02:50",
+      "album": {
+        "name": "Damn Good Actress",
+        "url": "https://open.spotify.com/album/7IReyqV2mLXGxaNcJkBuh3"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Stringer",
+          "url": "https://open.spotify.com/artist/6Dv6bV7bzZSCAX0E0qLw7u"
+        }
+      ],
+      "duration_ms": 169713,
+      "name": "Damn Good Actress",
+      "url": "https://open.spotify.com/track/3Uh3cFYJUYqS8CdHDbHkFC"
+    },
     {
       "added_at": "2026-01-23 05:34:57",
       "album": {
@@ -39,6 +71,22 @@
       "duration_ms": 220833,
       "name": "Sex, Etc.",
       "url": "https://open.spotify.com/track/0dP58NNCmEiNRd8Irh6aBM"
+    },
+    {
+      "added_at": "2026-04-10 05:02:50",
+      "album": {
+        "name": "A Matter of Time: The Final Hour",
+        "url": "https://open.spotify.com/album/4DWK6TLXHl1fly2zi5RlO7"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 239333,
+      "name": "Madwoman",
+      "url": "https://open.spotify.com/track/0UqHzMvRQnaOXEPKgFVhxN"
     },
     {
       "added_at": "2026-04-03 04:03:41",
@@ -89,20 +137,20 @@
       "url": "https://open.spotify.com/track/7JolP4o69lNv5b8NjbgmRR"
     },
     {
-      "added_at": "2026-03-27 05:09:53",
+      "added_at": "2026-04-10 05:02:50",
       "album": {
-        "name": "Boston",
-        "url": "https://open.spotify.com/album/4YLIRb8DdBTXbgHiFLicH2"
+        "name": "The Boutique",
+        "url": "https://open.spotify.com/album/0mf3iO1pGIee8XIqr8V8rn"
       },
       "artists": [
         {
-          "name": "STELLA LEFTY",
-          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
+          "name": "Zinadelphia",
+          "url": "https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum"
         }
       ],
-      "duration_ms": 170859,
-      "name": "Boston",
-      "url": "https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN"
+      "duration_ms": 231352,
+      "name": "Postcard",
+      "url": "https://open.spotify.com/track/6kFViXXkWdLjU4ZSyTmEIE"
     },
     {
       "added_at": "2026-03-20 04:00:49",
@@ -735,38 +783,6 @@
       "duration_ms": 209066,
       "name": "Homewrecker",
       "url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z"
-    },
-    {
-      "added_at": "2026-03-20 04:00:49",
-      "album": {
-        "name": "Two People at Once",
-        "url": "https://open.spotify.com/album/3sm7J7JLRNQsmOPoaD5Rj7"
-      },
-      "artists": [
-        {
-          "name": "BL\u00dc EYES",
-          "url": "https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2"
-        }
-      ],
-      "duration_ms": 186024,
-      "name": "TIME HEALS EVERYTHING",
-      "url": "https://open.spotify.com/track/4aiTHsXqQMjRQGwY3nNjV0"
-    },
-    {
-      "added_at": "2026-02-06 05:00:47",
-      "album": {
-        "name": "Fabulous",
-        "url": "https://open.spotify.com/album/4RxIQmhjviMgTLRbCosPoN"
-      },
-      "artists": [
-        {
-          "name": "MEEK",
-          "url": "https://open.spotify.com/artist/1eg46ke5TEIuJpypjaSvi0"
-        }
-      ],
-      "duration_ms": 153351,
-      "name": "Fabulous",
-      "url": "https://open.spotify.com/track/1LkpaAtSjAx5n4rrTkIQyu"
     },
     {
       "added_at": "2026-03-20 04:00:49",

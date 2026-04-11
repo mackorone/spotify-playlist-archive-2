@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0cc8YMQWsSzODyTpdVB6mI.md) - [plain]
 
 > To travel between house, deep house and positive vibes !
 
-[Kitsuné Musique](https://open.spotify.com/user/maisonkitsune) - 50,600 likes - 46 songs - 2 hr 42 min
+[Kitsuné Musique](https://open.spotify.com/user/maisonkitsune) - 50,602 likes - 46 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

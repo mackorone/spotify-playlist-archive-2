@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 
 > Journey through the sounds of South African Jazz\. Cover: Spha Mdlalose
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,252 likes - 60 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,260 likes - 60 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 | 2 | [Kuzodlula](https://open.spotify.com/track/5IQxjTOCA6tCotxbK6793O) | [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft), [Robin Fassie](https://open.spotify.com/artist/5Z5yBH3PAZ2Qpp5DFHZn2d) | [Kuzodlula](https://open.spotify.com/album/23WZlq38PdSCUu5QS2XA2A) | 4:42 |
 | 3 | [Wena](https://open.spotify.com/track/69qJqxCXyZhaVjgqZEzrdq) | [Internet Athi](https://open.spotify.com/artist/5ycDBJECG7YqvqtkstSFaa) | [Wena](https://open.spotify.com/album/0EcfvhqnPSeJnKyeoVSypt) | 4:30 |
 | 4 | [uBhubesi](https://open.spotify.com/track/3lGNVb1m4zOLspGyVvkcSE) | [Jabulile Majola](https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF) | [Isitifiketi](https://open.spotify.com/album/1ARqAmYjCwJjvRNKe98S11) | 3:37 |
-| 5 | [uThixo uKhona](https://open.spotify.com/track/4z9U5r5eo5B1ZiNbqIz2Zh) | [iPhupho L'ka Biko](https://open.spotify.com/artist/69TRZAKuYvfQEpDIkKYQaq) | [Azania](https://open.spotify.com/album/1bnZlO6f8M5cawXgLGIj9v) | 4:13 |
-| 6 | [Amyoli](https://open.spotify.com/track/2oV2mK0Jui9PEhz9Dd1hmA) | [Mandisi Dyantyis](https://open.spotify.com/artist/6hNOG85RpnNVlDUvl6jNF0) | [Intlambululo: Ukuhlambulula](https://open.spotify.com/album/2hxynae0xcceJMSPSjDuhg) | 5:54 |
+| 5 | [Amyoli](https://open.spotify.com/track/2oV2mK0Jui9PEhz9Dd1hmA) | [Mandisi Dyantyis](https://open.spotify.com/artist/6hNOG85RpnNVlDUvl6jNF0) | [Intlambululo: Ukuhlambulula](https://open.spotify.com/album/2hxynae0xcceJMSPSjDuhg) | 5:54 |
+| 6 | [uThixo uKhona](https://open.spotify.com/track/4z9U5r5eo5B1ZiNbqIz2Zh) | [iPhupho L'ka Biko](https://open.spotify.com/artist/69TRZAKuYvfQEpDIkKYQaq) | [Azania](https://open.spotify.com/album/1bnZlO6f8M5cawXgLGIj9v) | 4:13 |
 | 7 | [Family Gathering](https://open.spotify.com/track/7lxprar02ISIdUnNr4WeaT) | [Vimbs Mavimbs](https://open.spotify.com/artist/17miQtSakhWQ0YJQtNdCeN) | [Family Gathering](https://open.spotify.com/album/7udmP1WAhbaQVLSw3nuvYD) | 4:56 |
 | 8 | [Nguwe](https://open.spotify.com/track/0TqxXQxF11lNHNzpzQ8MCZ) | [Internet Athi](https://open.spotify.com/artist/5ycDBJECG7YqvqtkstSFaa) | [Nguwe](https://open.spotify.com/album/1lbVmXMwuOaR7IGh4V47cQ) | 5:09 |
 | 9 | [The Beyond](https://open.spotify.com/track/1CFaQyXq0nSHSBQ9AAALDQ) | [Shane Cooper](https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ) | [The Beyond](https://open.spotify.com/album/5xTKYO7RjVCdaROa9kvBcN) | 1:45 |
@@ -42,12 +42,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 | 32 | [kulungile](https://open.spotify.com/track/5IMyRcJrykW4EQKUEwOIrC) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N), [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft) | [kulungile](https://open.spotify.com/album/2Z7VkHwAezY18EJ9wHPeR9) | 5:46 |
 | 33 | [Our People](https://open.spotify.com/track/4knK9nXhnH4k01cVOo33jj) | [NLite.](https://open.spotify.com/artist/1LtjSJhBTIHe7auEuEg7VZ) | [Our People](https://open.spotify.com/album/2wyTG0UqnHXTJ4FffxJ9PS) | 3:19 |
 | 34 | [Brunch In Harlem](https://open.spotify.com/track/3DNguS5r1FV5U8nikhRkJ9) | [Jazzgroupiez](https://open.spotify.com/artist/2SmWARs3Ky24E8bfpqj5QM), [Saul Madiope](https://open.spotify.com/artist/2BbonfFXXMlwfcLemarFh3), [Stephen Richard](https://open.spotify.com/artist/4OO982yjCXgY3K3zFqflp3) | [The Crossover II](https://open.spotify.com/album/3jyWT4o0KD5VMAuUAJM5BE) | 2:09 |
-| 35 | [Love Drive](https://open.spotify.com/track/62vKXM3SYKQMP9V4FLhjCN) | [Vimbs Mavimbs](https://open.spotify.com/artist/17miQtSakhWQ0YJQtNdCeN) | [Love Drive](https://open.spotify.com/album/4xLYE2FqMIfSsHkPtL7v7q) | 4:34 |
-| 36 | [The Waters](https://open.spotify.com/track/3jJ4WhN4qNSM5dkV79C4JW) | [Bokang Ramatlapeng](https://open.spotify.com/artist/4pJUoi3zUenJPBfOGfIQhs) | [The Waters](https://open.spotify.com/album/6MSFydma7FJtUStM0FqTiU) | 5:02 |
+| 35 | [The Waters](https://open.spotify.com/track/3jJ4WhN4qNSM5dkV79C4JW) | [Bokang Ramatlapeng](https://open.spotify.com/artist/4pJUoi3zUenJPBfOGfIQhs) | [The Waters](https://open.spotify.com/album/6MSFydma7FJtUStM0FqTiU) | 5:02 |
+| 36 | [Love Drive](https://open.spotify.com/track/62vKXM3SYKQMP9V4FLhjCN) | [Vimbs Mavimbs](https://open.spotify.com/artist/17miQtSakhWQ0YJQtNdCeN) | [Love Drive](https://open.spotify.com/album/4xLYE2FqMIfSsHkPtL7v7q) | 4:34 |
 | 37 | [Bawo Ndi Xolele \(Hymn\)](https://open.spotify.com/track/5oDMLrjVqFN3ALJmsBAjtq) | [Billy Monama](https://open.spotify.com/artist/6EEx5rAGr364qfmgHHOf9m) | [The Y\-Factor Project](https://open.spotify.com/album/6RFLbolbRVLiQwcn2yXk5s) | 3:30 |
 | 38 | [Rain](https://open.spotify.com/track/1nsUHf6IzILt5Vh5UCDVrH) | [Charles Webster](https://open.spotify.com/artist/4zMgFVljBxMaPn1U0SXGOh), [EMAMKAY](https://open.spotify.com/artist/3BhUASI2Cb8vaJNUTcEzGv), [Bokang Ramatlapeng](https://open.spotify.com/artist/4pJUoi3zUenJPBfOGfIQhs) | [Rain](https://open.spotify.com/album/3s5eLz0oFuLKU6O0lo3mBH) | 5:04 |
-| 39 | [War](https://open.spotify.com/track/1VrOE2BSzdM1sJPMUSADXQ) | [Asher Gamedze](https://open.spotify.com/artist/0seHw20kF6a8af3qsufKyQ) | [War](https://open.spotify.com/album/2FxrAPMVpvhLHVlmUzc1SH) | 5:11 |
-| 40 | [The Aha Moment](https://open.spotify.com/track/5DCuEzR8CjK94M2DWwKygy) | [Zu.](https://open.spotify.com/artist/1CQAguK72YsRMOjz1ECeqq), [Zuko Collective](https://open.spotify.com/artist/7ES5SeD9pzZlWsStxrVUMK) | [Tones of Epiphany](https://open.spotify.com/album/3xGxUaz3ASDBegpjbmChea) | 6:02 |
+| 39 | [The Aha Moment](https://open.spotify.com/track/5DCuEzR8CjK94M2DWwKygy) | [Zu.](https://open.spotify.com/artist/1CQAguK72YsRMOjz1ECeqq), [Zuko Collective](https://open.spotify.com/artist/7ES5SeD9pzZlWsStxrVUMK) | [Tones of Epiphany](https://open.spotify.com/album/3xGxUaz3ASDBegpjbmChea) | 6:02 |
+| 40 | [War](https://open.spotify.com/track/1VrOE2BSzdM1sJPMUSADXQ) | [Asher Gamedze](https://open.spotify.com/artist/0seHw20kF6a8af3qsufKyQ) | [War](https://open.spotify.com/album/2FxrAPMVpvhLHVlmUzc1SH) | 5:11 |
 | 41 | [iGosa](https://open.spotify.com/track/4Fl542e8KE9jXiJEBq3fHK) | [Linda Sikhakhane](https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on) | [iLadi](https://open.spotify.com/album/2fxOL93WjnYC4tNoPGkKqL) | 6:54 |
 | 42 | [Ngeke!](https://open.spotify.com/track/0Km8060UTy8Bd2pUnbRanR) | [BandaBanda](https://open.spotify.com/artist/3OLZRJOs5iUQCJfzhRBT6k), [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [ZINZA](https://open.spotify.com/album/7zGVonHUJ4gCvcFNrol6qv) | 4:30 |
 | 43 | [speak now](https://open.spotify.com/track/1U7EDHJNa3CbkI5AxyzykX) | [giuliette price](https://open.spotify.com/artist/1uyUG83zfWbTbEMllT9w4p) | [ANXIOUSLY PREOCCUPIED](https://open.spotify.com/album/5zgywYv1iXrgnJt8BbVGvi) | 3:42 |

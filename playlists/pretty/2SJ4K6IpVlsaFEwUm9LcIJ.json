@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: march-april 2026 (previous playlists archived on my profile)",
-  "num_followers": 24274,
+  "num_followers": 24277,
   "original_name": "home when you return",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAAOGUJrWN6wF3L/JLUXz6JzmXLuZyOp",
+  "snapshot_id": "AAAOG5kJUMQd+7Q0uxa/csmbFvJIZJze",
   "tracks": [
     {
       "added_at": "2026-03-12 17:07:42",
@@ -385,22 +385,6 @@
       "url": "https://open.spotify.com/track/7s3548yd3bletCda8v5zQs"
     },
     {
-      "added_at": "2026-04-02 22:02:20",
-      "album": {
-        "name": "Primitive Love",
-        "url": "https://open.spotify.com/album/70ziXyCSplSPUpFmq9kh6M"
-      },
-      "artists": [
-        {
-          "name": "Miami Sound Machine",
-          "url": "https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F"
-        }
-      ],
-      "duration_ms": 233160,
-      "name": "Falling In Love (Uh-Oh)",
-      "url": "https://open.spotify.com/track/5jwoygernfGvAuIxFSqxHp"
-    },
-    {
       "added_at": "2026-04-09 15:05:21",
       "album": {
         "name": "Mezzanine",
@@ -519,6 +503,22 @@
       "duration_ms": 197066,
       "name": "State Trooper",
       "url": "https://open.spotify.com/track/1Ulh5rWbhhV3PltDadTBZC"
+    },
+    {
+      "added_at": "2026-04-10 16:05:00",
+      "album": {
+        "name": "Wendy Eisenberg",
+        "url": "https://open.spotify.com/album/461pbwQf3k7oOQ43DZjzf5"
+      },
+      "artists": [
+        {
+          "name": "Wendy Eisenberg",
+          "url": "https://open.spotify.com/artist/7HrVZurdKyYpQamwyD1gBi"
+        }
+      ],
+      "duration_ms": 310593,
+      "name": "The Ultraworld",
+      "url": "https://open.spotify.com/track/1KGLcXp6hVKESnRYxzo10m"
     }
   ],
   "unique_name": "home when you return",

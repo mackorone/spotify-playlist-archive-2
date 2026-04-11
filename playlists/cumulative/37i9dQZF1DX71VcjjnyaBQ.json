@@ -2170,7 +2170,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 244218,
       "name": "Indian Summer",
       "url": "https://open.spotify.com/track/0gb4iUX1t4GJTE1ljMacEI"
@@ -4022,6 +4022,32 @@
       "duration_ms": 244191,
       "name": "Son binocle",
       "url": "https://open.spotify.com/track/5B3DbHWAony8uv56c8EdQZ"
+    },
+    {
+      "album": {
+        "name": "Song for Helen",
+        "url": "https://open.spotify.com/album/47cyt84sqfEw15Zvq6CCdV"
+      },
+      "artists": [
+        {
+          "name": "Enrico Pieranunzi",
+          "url": "https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP"
+        },
+        {
+          "name": "Bebo Ferra",
+          "url": "https://open.spotify.com/artist/7x68038NwGK0HcnZh49aMB"
+        },
+        {
+          "name": "Diego Imbert",
+          "url": "https://open.spotify.com/artist/0jdE0ynq5zcnMeAn9XutIX"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277026,
+      "name": "Song for Helen",
+      "url": "https://open.spotify.com/track/793md1IobZmADtYbsCo2YH"
     },
     {
       "album": {

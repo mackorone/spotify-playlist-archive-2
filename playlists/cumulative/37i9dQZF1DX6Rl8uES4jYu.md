@@ -4,7 +4,7 @@
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-488 songs - 1 day 3 hr 12 min
+489 songs - 1 day 3 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -418,7 +418,7 @@
 | [The Problem Song](https://open.spotify.com/track/7flrjP7Dag40j2Fw8TX4iC) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [The Problem Song](https://open.spotify.com/album/4EVTxuDyTxsS7w9W5AC0kX) | 2:37 | 2022-09-30 | 2024-01-27 |
 | [The Sun Is Shining](https://open.spotify.com/track/58hS2FjP1m2P7PZSIeFXUI) | [NEVUSSIDE](https://open.spotify.com/artist/1BEqm7J8ph9SePEMECpssy), [Chima Anya](https://open.spotify.com/artist/2R5My3OkaH2tkHjCiJ51PE) | [The Sun Is Shining](https://open.spotify.com/album/2Zm5F9dM0HfTYeDWNBOjKa) | 3:19 | 2024-03-08 |  |
 | [THE SUN SHINES SO BRIGHT WITH YOU](https://open.spotify.com/track/3jJF4tK7hDS5MBRHyVns0V) | [ROMderful](https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU) | [THE SUN SHINES SO BRIGHT WITH YOU](https://open.spotify.com/album/0NlU3SdIMDeuWXbxaxlBNu) | 2:52 | 2020-11-13 | 2022-03-19 |
-| [The Sweetest Thing](https://open.spotify.com/track/4jDAQRLExhzT6CEmo0nucu) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [The Sweetest Thing](https://open.spotify.com/album/5BIpgoq1dFvuTLcKRDbD09) | 4:35 | 2023-05-12 |  |
+| [The Sweetest Thing](https://open.spotify.com/track/4jDAQRLExhzT6CEmo0nucu) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [The Sweetest Thing](https://open.spotify.com/album/5BIpgoq1dFvuTLcKRDbD09) | 4:35 | 2023-05-12 | 2026-04-11 |
 | [The Thrill Is Gone.](https://open.spotify.com/track/0OY4O9PuW7A5fbI2o90WA8) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Escapism\. / The Thrill Is Gone.](https://open.spotify.com/album/3omkMn8vbTKOebb9ABbqyb) | 3:19 | 2023-02-03 | 2023-04-16 |
 | [The Thrill Is Gone.](https://open.spotify.com/track/5eVG50IlyjSevPsWnSI76r) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:19 | 2023-02-17 | 2023-05-20 |
 | [The Two of Us](https://open.spotify.com/track/24i3ftE5sMEGsGtclPQPSc) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Apolonio](https://open.spotify.com/album/7HlxxaJOHK0ArY4Ae4Qfc7) | 2:32 | 2020-11-13 | 2022-01-15 |
@@ -465,6 +465,7 @@
 | [WE ARE](https://open.spotify.com/track/5rj2n6kHWczpjWce4Jsgvt) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [St\. Augustine High School Marching 100](https://open.spotify.com/artist/18SOXuqLqS1SPBOZ2t5ZJB), [David Gauthier](https://open.spotify.com/artist/7ml0WXnfI7YHjgCec3GTgw), [Gospel Soul Children Choir](https://open.spotify.com/artist/1gZIyZkzPR9wQ3AaBJTTNr), [Craig Adams](https://open.spotify.com/artist/0DSPskXnLTDYCgSgPM63be), [Braedon Gautier](https://open.spotify.com/artist/6k36C6obWyCGfI3r7sMojy), [Brennan Gautier](https://open.spotify.com/artist/6cQDoD7Xsh6VW8j8GyfEGw), [Autumn Rowe](https://open.spotify.com/artist/3gCzQpKxnHhJgOYpZRcEfH) | [WE ARE](https://open.spotify.com/album/0QzxVx8a5h99isQy0gur82) | 4:24 | 2021-09-21 | 2022-07-29 |
 | [Weekend Lover](https://open.spotify.com/track/6rNV70K6yK3qd19aNYtf8E) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Weekend Lover](https://open.spotify.com/album/7tRmWRv8UUj1yY7erZmhds) | 3:06 | 2022-06-10 | 2023-02-18 |
 | [What A Night](https://open.spotify.com/track/3FUlqltjiMMJdyEPaYAUqK) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [What A Night](https://open.spotify.com/album/5x8srROrtSoC8dCCj6XtHf) | 2:04 | 2022-07-01 | 2025-01-11 |
+| [What Are We Calling This](https://open.spotify.com/track/1brqCLuc3m6REO7bR382fP) | [William Singe](https://open.spotify.com/artist/5exS0bytCYdixgv02DaCm3) | [What Are We Calling This](https://open.spotify.com/album/1KdaLOdpyfzyD9BSEV15zG) | 2:55 | 2026-04-10 |  |
 | [What Dreams Are Made Of](https://open.spotify.com/track/1445ytlUaJdffrICHr77at) | [Lyrics Born](https://open.spotify.com/artist/3X3DHASP1G1waqVoEDWMHr), [Joyo Velarde](https://open.spotify.com/artist/421XkmAzrTjRzfKxYG3Den) | [What Dreams Are Made Of](https://open.spotify.com/album/0kL1SGJErc8xcyAMY2NgMZ) | 3:43 | 2024-09-13 |  |
 | [What's Up What's Down](https://open.spotify.com/track/27ULQxLIwvRWdBEkfyD3lV) | [Andrew De Silva](https://open.spotify.com/artist/1TmFfrKARyOpFKaatbBoKz) | [What's Up What's Down](https://open.spotify.com/album/2EOUib6Y3yahXmPNG1QXkq) | 4:12 | 2021-09-21 | 2022-04-26 |
 | [When Someone Loves You](https://open.spotify.com/track/6Z0OTy3hVXDPxskcc262JH) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [When Someone Loves You](https://open.spotify.com/album/24WbV4OTp6wQ0BLA9BD8DP) | 4:15 | 2022-09-02 | 2025-05-10 |

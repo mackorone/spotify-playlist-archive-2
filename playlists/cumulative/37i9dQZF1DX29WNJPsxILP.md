@@ -2,9 +2,9 @@
 
 ### [RAP 91 Hindi](https://open.spotify.com/playlist/37i9dQZF1DX29WNJPsxILP)
 
-> Best of Hindi Hip\-Hop! Cover: Emiway Bantai
+> Best of Hindi Hip\-Hop! Cover: Yashraj
 
-316 songs - 16 hr 1 min
+317 songs - 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [MP3](https://open.spotify.com/track/3tw4ri5orliO3MgB16zhin) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [Hurricane](https://open.spotify.com/artist/6OvPeLnrLk4v7X7tmjnOiO), [DL91 Era](https://open.spotify.com/artist/3mWqCmX0xuzBJN648XSBrE) | [DL91 FM](https://open.spotify.com/album/2Jc0evKv7asNZMx32rQHrF) | 2:51 | 2025-05-16 | 2025-10-15 |
 | [MR\. RAMBO](https://open.spotify.com/track/3YVxblHOR89srfFJ30liuz) | [YUNG SAMMY](https://open.spotify.com/artist/3N1efxORHI0hvpUGNr0QpW), [DESI TRILL](https://open.spotify.com/artist/22FwGMhBDU8drx91GTxkxJ), [Wamp](https://open.spotify.com/artist/6zpUQnCceOC1hkBQWLrZKk) | [MR\. RAMBO](https://open.spotify.com/album/03Mg1MxsoIbNZMeso2Zc3L) | 2:14 | 2025-04-15 |  |
 | [MUDDA \(feat\. Seedhe Maut\)](https://open.spotify.com/track/3usqexd5uUTl5SkLme0HKX) | [YUNG SAMMY](https://open.spotify.com/artist/3N1efxORHI0hvpUGNr0QpW), [Wamp](https://open.spotify.com/artist/6zpUQnCceOC1hkBQWLrZKk), [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo) | [MUDDA \(feat\. Seedhe Maut\)](https://open.spotify.com/album/0AqcoHygWykLi0IqNp95vn) | 2:51 | 2025-10-17 |  |
+| [Mujhe Ye Gaana Pasand Hai](https://open.spotify.com/track/4B0ZooeBJvDsNzRRm3V5o3) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [NEVERSOBER](https://open.spotify.com/artist/4QWgs64BJEmTH6OfcBsEvO) | [Mujhe Ye Gaana Pasand Hai](https://open.spotify.com/album/2b6rsPy47iFnQcveub0xEE) | 2:48 | 2026-04-10 |  |
 | [Mumbai Rap](https://open.spotify.com/track/6VokTxf7VkJdOzgZEjM2Gn) | [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu), [DRJ Sohail](https://open.spotify.com/artist/1cMmtYmcMDsPOrEu7uVJYN) | [Mumbai Rap](https://open.spotify.com/album/0aGLkE9zu36Gv52wmL0DFT) | 2:38 | 2025-01-06 | 2025-08-23 |
 | [Muqaddar Ka Sikandar](https://open.spotify.com/track/4PDPr18EeyfsQyira9klel) | [Harkat Wala Fardin](https://open.spotify.com/artist/78A6Tn77F89utlqYx2CiaF), [MC OM](https://open.spotify.com/artist/2r9y92Rk3mPiBNnmDLBWxo), [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Muqaddar Ka Sikandar](https://open.spotify.com/album/6UH7crRQNBniy5Yn9MLnLp) | 2:35 | 2025-01-06 | 2025-01-14 |
 | [Na Pata Mujhe](https://open.spotify.com/track/4iAvWihNPN3aX793ZpI6xY) | [PATHAK](https://open.spotify.com/artist/6WdDS896pZwDu9bYMm0QBe), [ABS](https://open.spotify.com/artist/5OJe1t1DneOcuFJYx97MDH) | [Na Pata Mujhe](https://open.spotify.com/album/5sQ9Adht5qiFiF2kyNZDdm) | 3:00 | 2025-10-24 |  |
@@ -316,7 +317,7 @@
 | [War](https://open.spotify.com/track/6mRccKSAN4IChtUsnAzVGl) | [MassQline](https://open.spotify.com/artist/0kMK558QxTuQu1uvWJKuvh), [Hardbone boy](https://open.spotify.com/artist/6YNVY8546Vw6bVjsmUpQPx), [HYKE](https://open.spotify.com/artist/7yPtNp2UpTp2wYUEdM8k1O) | [War](https://open.spotify.com/album/0cGxD9dl9g9iTt0LXN3oTY) | 3:20 | 2023-10-11 | 2023-11-18 |
 | [We Here](https://open.spotify.com/track/1Xafs2vf5iaTYEZlUeceDl) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F) | [We Here](https://open.spotify.com/album/56JGq0uSnSjLi2hH4PXNTH) | 2:21 | 2024-06-28 | 2024-12-07 |
 | [WOH](https://open.spotify.com/track/1QUU43rTDMnGl4xyaIfsYN) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [Dino James](https://open.spotify.com/artist/45PG2L6Fh2XvYL4ONzpdoW), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [WOH](https://open.spotify.com/album/0hYH2JNegSbU72fmNnQ3LW) | 5:28 | 2023-03-10 | 2025-05-31 |
-| [Woh Raat](https://open.spotify.com/track/27xsLWmSmEAiXABnOngOw7) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t) | [Woh Raat](https://open.spotify.com/album/7MKr5NF5sZUWjheSa1NXFf) | 3:12 | 2023-11-16 |  |
+| [Woh Raat](https://open.spotify.com/track/27xsLWmSmEAiXABnOngOw7) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t) | [Woh Raat](https://open.spotify.com/album/7MKr5NF5sZUWjheSa1NXFf) | 3:12 | 2023-11-16 | 2026-04-11 |
 | [Yaari Hai Imaan x Yaaron Wali Baat](https://open.spotify.com/track/5QngU7tqU1TuJkPF0GN4kx) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c), [Manna Dey](https://open.spotify.com/artist/4kcoiVXIxvUoLUoHY1vJYU) | [Yaari Hai Imaan x Yaaron Wali Baat](https://open.spotify.com/album/4NGy4ScfsNZoM8qrhzODFk) | 2:39 | 2024-07-22 | 2024-08-21 |
 | [YAHI PE](https://open.spotify.com/track/4172mPCPwqzA2qZggHeyG6) | [Tushar Nagar](https://open.spotify.com/artist/7h6YMcFApPh0ritIF87ygS), [UZIII](https://open.spotify.com/artist/3YBbI2OrHrUGsc8G1w2z1r) | [YAHI PE](https://open.spotify.com/album/4BoEBHH5s262lCzkIAosQI) | 2:30 | 2024-11-29 | 2025-01-22 |
 | [You & I](https://open.spotify.com/track/1UhwJHL94SwSZk9jUsleHF) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [You & I](https://open.spotify.com/album/68ld620Tx7IlPXWRnVn2al) | 3:31 | 2025-11-21 |  |

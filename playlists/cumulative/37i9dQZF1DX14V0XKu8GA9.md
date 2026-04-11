@@ -4,7 +4,7 @@
 
 > The wave of Latinos representing Hip\-Hop in the U.S\. Cover: Shoreline Mafia
 
-491 songs - 22 hr 52 min
+492 songs - 22 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Breeze](https://open.spotify.com/track/4AN8pvSD3HgwqydO8xAyrU) | [BELLA](https://open.spotify.com/artist/7DmOVfbnFeAOA3Fujc3Toe) | [West Coast](https://open.spotify.com/album/7DKCyo6tF5srXozTAL8C0z) | 2:31 | 2022-01-10 | 2022-07-07 |
 | [Broke Bitch](https://open.spotify.com/track/30lOHLMJRUCxc1W5DOMUfW) | [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD) | [Broke Bitch](https://open.spotify.com/album/32pb7GbOHcoFllJFTLPZi4) | 2:07 | 2022-09-11 | 2023-01-28 |
 | [Broken Enough](https://open.spotify.com/track/37jDkd3aFJE0ZGoLQpdMTp) | [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h) | [Broken Enough](https://open.spotify.com/album/6hEdQPrR8iZXM3fzQkGUXh) | 2:59 | 2024-01-08 | 2024-05-22 |
+| [Brown Representation](https://open.spotify.com/track/7tezQRzqZmQU4LaATfKgEk) | [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4), [Louden](https://open.spotify.com/artist/0fLUemlaYm4AL4TvWlYQB5), [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD) | [Brown Representation](https://open.spotify.com/album/0aCZj2UaFYDWRfRHQzs7fZ) | 2:46 | 2026-04-10 |  |
 | [Buck Fifty Freestyle](https://open.spotify.com/track/2aeusVXjZQKXRd11DlM6fv) | [Omar Cruz](https://open.spotify.com/artist/3H3t7VTapFSSQRRWlp5m28) | [The Last Temptation](https://open.spotify.com/album/5TKNjpazO9toaj3G8Gg7I0) | 1:48 | 2024-06-07 | 2024-11-23 |
 | [Buck Fifty Freestyle](https://open.spotify.com/track/53AZ0rtnXWcjFCBqLUWOjm) | [Omar Cruz](https://open.spotify.com/artist/3H3t7VTapFSSQRRWlp5m28) | [Buck Fifty Freestyle](https://open.spotify.com/album/5fdJqyG6TpCvN3TGRq5an4) | 1:48 | 2024-11-22 |  |
 | [Burnt Out](https://open.spotify.com/track/5Gq3Gyl7EnSZ36rRsl61PX) | [Devour](https://open.spotify.com/artist/1rC6V966tijfNzIIIfATvG) | [Burnt Out](https://open.spotify.com/album/6ydurOZvMy7EAwCGVSGtGs) | 3:41 | 2022-01-10 | 2022-02-26 |

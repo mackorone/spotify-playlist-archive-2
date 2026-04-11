@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts.  Photo: Choses Sauvages",
+  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts.  Photo: Maude Audet",
   "name": "Qu\u00e9b\u00e9cois Contemporain",
   "tracks": [
     {
@@ -186,7 +186,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 219924,
       "name": "All The Words",
       "url": "https://open.spotify.com/track/1f70KgujX0VZN0wBy6Atys"
@@ -1425,6 +1425,24 @@
     },
     {
       "album": {
+        "name": "Coup de vent",
+        "url": "https://open.spotify.com/album/4Jtej4dOIc8GAogC71Kkix"
+      },
+      "artists": [
+        {
+          "name": "Erwan",
+          "url": "https://open.spotify.com/artist/3uWhb8ADEysVQ5IRoFfAcH"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269375,
+      "name": "Coup de vent",
+      "url": "https://open.spotify.com/track/55wBGo1kOr3ISMHTTJR28I"
+    },
+    {
+      "album": {
         "name": "Cours, Cora, cours / Journal d'un loup-garou",
         "url": "https://open.spotify.com/album/20OjhCVhXkRXRa8sKAu52g"
       },
@@ -2002,6 +2020,24 @@
       "duration_ms": 159115,
       "name": "D\u00e9sillusion",
       "url": "https://open.spotify.com/track/6xfR6pNvwAHPxUVoYAvq5E"
+    },
+    {
+      "album": {
+        "name": "D\u00e9sol\u00e9 pour la vaisselle",
+        "url": "https://open.spotify.com/album/1yJb9TibKAcvW0LqG84T22"
+      },
+      "artists": [
+        {
+          "name": "Saligaude",
+          "url": "https://open.spotify.com/artist/3eBpJRoTMJKX8YAdRGRolr"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279956,
+      "name": "D\u00e9sol\u00e9 pour la vaisselle",
+      "url": "https://open.spotify.com/track/1csotXOSD2LpEAI8hhO1Bo"
     },
     {
       "album": {
@@ -2712,7 +2748,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 226480,
       "name": "I took off my heels",
       "url": "https://open.spotify.com/track/0oeBdq0kLwNv8Vcfz3cHBi"
@@ -2810,7 +2846,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 152581,
       "name": "In My Veins",
       "url": "https://open.spotify.com/track/2ZDW65Ppesq4QU4vSwc4aQ"
@@ -3322,7 +3358,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 199451,
       "name": "Johny",
       "url": "https://open.spotify.com/track/5sZZUvtTtDP0r3wJSR4CSP"
@@ -4055,6 +4091,24 @@
     },
     {
       "album": {
+        "name": "Qui je suis",
+        "url": "https://open.spotify.com/album/4GUr2nwOgVYxFAslKpFlw1"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Fredette",
+          "url": "https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135275,
+      "name": "Le bon choix",
+      "url": "https://open.spotify.com/track/0V2DYyeSvQeiMfq10ED6M6"
+    },
+    {
+      "album": {
         "name": "La somme des \u00eatres aim\u00e9s",
         "url": "https://open.spotify.com/album/0eIFLsN3C2p8uYfrGIah1Z"
       },
@@ -4384,7 +4438,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 180000,
       "name": "Le signal",
       "url": "https://open.spotify.com/track/1GKAJgvvFhmIRyMXCdC69g"
@@ -4886,6 +4940,24 @@
       "duration_ms": 233885,
       "name": "Ma ville (avec Lisa Riendeau)",
       "url": "https://open.spotify.com/track/3TlfrwwcRwlq1bZDIQuHh8"
+    },
+    {
+      "album": {
+        "name": "Magicienne, Vol.2",
+        "url": "https://open.spotify.com/album/1PfpS3Dw7oyvdAmRv0tDEj"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9Li",
+          "url": "https://open.spotify.com/artist/76Sntu9WfhbuJS6RK1ExhW"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207333,
+      "name": "Magicienne, Vol. 2",
+      "url": "https://open.spotify.com/track/4vpjHwMigWK8RcF80poTuS"
     },
     {
       "album": {
@@ -5929,6 +6001,28 @@
     },
     {
       "album": {
+        "name": "Pens\u00e9es sans calcul",
+        "url": "https://open.spotify.com/album/7hcuk7kBvgFQ0Hsv6v8gvw"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9r\u00f4me Mini\u00e8re",
+          "url": "https://open.spotify.com/artist/35QNxIS3w7AC2R2vrAlrhT"
+        },
+        {
+          "name": "Salom\u00e9 Leclerc",
+          "url": "https://open.spotify.com/artist/5gBtHbwwn0bBfrXvs6SY5I"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206600,
+      "name": "Pens\u00e9es sans calcul",
+      "url": "https://open.spotify.com/track/73XJsoBcFhZhmglFhy9RUw"
+    },
+    {
+      "album": {
         "name": "Sur le chemin qui m\u00e8ne \u00e0 toi",
         "url": "https://open.spotify.com/album/4uyrYcUwp3OGTLcSBv4Q26"
       },
@@ -6305,6 +6399,24 @@
     },
     {
       "album": {
+        "name": "Que ta lumi\u00e8re",
+        "url": "https://open.spotify.com/album/6s980Fk6p3ZTq8obc8QWVO"
+      },
+      "artists": [
+        {
+          "name": "Maude Audet",
+          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232319,
+      "name": "Que ta lumi\u00e8re",
+      "url": "https://open.spotify.com/track/7HnHrPmhNbpj7Dim9MhoiD"
+    },
+    {
+      "album": {
         "name": "Quelque chose",
         "url": "https://open.spotify.com/album/7p16VbgKxfQWbDpAX6w4OH"
       },
@@ -6540,7 +6652,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 284415,
       "name": "R\u00e9gate",
       "url": "https://open.spotify.com/track/4BBLpqkp9eVQS2Ra5MdI6u"

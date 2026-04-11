@@ -2,9 +2,9 @@
 
 ### [Boso Jowo](https://open.spotify.com/playlist/37i9dQZF1DXcwHMQ31Y15k)
 
-> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Esa Risty
+> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Vadesta
 
-583 songs - 2 day 0 hr 54 min
+585 songs - 2 day 1 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,6 +274,7 @@
 | [Los Dol](https://open.spotify.com/track/420e2V7exkWfl6TIrFP7fi) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Los Dol](https://open.spotify.com/album/0Sg05P78e8r27lQ9Veyubx) | 5:10 | 2024-10-11 |  |
 | [LUMRAH \( LUMPUKE SING WES BUBRAH \)](https://open.spotify.com/track/0ozx2AJmjxX5AiKgxUGJQP) | [Northsle](https://open.spotify.com/artist/2uLPgRE1AC21L9Ep5WmGVu) | [LUMRAH \( LUMPUKE SING WES BUBRAH \)](https://open.spotify.com/album/5g78qje8jSCJSSngM7xxDT) | 5:48 | 2026-02-12 |  |
 | [Lungaku](https://open.spotify.com/track/5laQzcP5GJcT0lF5R7HpBr) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Lungaku](https://open.spotify.com/album/13eXr1lmUyXeJtUEGHoBP6) | 5:59 | 2022-05-26 | 2023-07-14 |
+| [Lungit](https://open.spotify.com/track/4LwQwoOs8Luy7ppXOm0naG) | [Vadesta](https://open.spotify.com/artist/7vAiI188SHEmVcvPgqnzYO) | [Lungit](https://open.spotify.com/album/5U4kv0FqKMdVthpyGpit7W) | 5:10 | 2026-04-10 |  |
 | [Macak Kelaran](https://open.spotify.com/track/7sgv1XJLRqYNl4ss02o93d) | [Safira Inema](https://open.spotify.com/artist/68I0q6fxP2XeJxn05jYoUY), [Radit Fasolla](https://open.spotify.com/artist/135t3ftsP9hvglGlUtsElh) | [Macak Kelaran](https://open.spotify.com/album/7q5BOzYZK99mCNRubljO8e) | 5:17 | 2024-09-20 | 2025-01-03 |
 | [Madiun Ngawi](https://open.spotify.com/track/1cYFdtA6Ikt6L3nx17HidL) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X), [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Madiun Ngawi](https://open.spotify.com/album/28PUMtZizCE3nKxO1Fi9bA) | 5:43 | 2023-05-19 | 2024-05-17 |
 | [Madiun Ngawi](https://open.spotify.com/track/5TvIpLkrmpdacgAUlbQOFA) | [Jihan Audy](https://open.spotify.com/artist/7KlMqMCZbUE9rYpa95R2CV) | [Madiun Ngawi](https://open.spotify.com/album/5CYaM4Mm6H6JIXyBwKmdrx) | 5:46 | 2022-05-26 | 2022-09-16 |
@@ -325,6 +326,7 @@
 | [NGANGGUR 2](https://open.spotify.com/track/5h5R8ad8Sopl96XEXUITSW) | [Masdddho](https://open.spotify.com/artist/4GgexJxJZfH4pxYRIF4nBh) | [NGANGGUR 2](https://open.spotify.com/album/2dcXxxMzjZjtoEC0j29sv9) | 4:20 | 2025-01-02 | 2025-08-22 |
 | [Ngapura](https://open.spotify.com/track/6kUpP1bV37DKjSiEiwvSzm) | [Gerap Gurita](https://open.spotify.com/artist/6WQC8XtUYxHrCSZlHzT2tz) | [Ngapura](https://open.spotify.com/album/1peHbBIKdEoejW32BBh7Zq) | 4:26 | 2022-05-26 | 2023-04-14 |
 | [Ngeliyo](https://open.spotify.com/track/2cFLpZRRzUt8amkXI2lJ66) | [Pendhoza](https://open.spotify.com/artist/7pv4pK2Q3iHVi0cfT1xlSQ) | [Ngeliyo](https://open.spotify.com/album/7oPQIl6KbUr9uAfbAywkOq) | 5:03 | 2023-03-15 | 2023-09-22 |
+| [Ngeliyo \- Lincak Session](https://open.spotify.com/track/2BTQSCqbfKsmi5uZDVnwdp) | [Pendhoza](https://open.spotify.com/artist/7pv4pK2Q3iHVi0cfT1xlSQ) | [Ngeliyo \(Lincak Session\)](https://open.spotify.com/album/3SsizgRGzPbeckAoKXqVRV) | 5:23 | 2026-04-10 |  |
 | [Ngeman](https://open.spotify.com/track/0ZQWph1RquCqAPhBrRaC5C) | [Didik Budi](https://open.spotify.com/artist/4sy1TsEotKwjBHrQGPIwzZ) | [Ngeman](https://open.spotify.com/album/5Q92SAizxdSn2L2DinpKJH) | 3:59 | 2023-01-20 | 2023-08-11 |
 | [Ngemis](https://open.spotify.com/track/71934imn8hIKn96P7sWELA) | [Brindil Kurus](https://open.spotify.com/artist/79nzELBdfcyh5rh8rRfyOb) | [Ngemis](https://open.spotify.com/album/16e2jR9gWRsCZjfe7TIfKJ) | 5:01 | 2024-06-13 | 2024-11-22 |
 | [Ngemong Ati](https://open.spotify.com/track/2QnOedQK855tVUnNEhrb1n) | [Tasya Rosmala](https://open.spotify.com/artist/6YsSuDPoCeH1CghPPISWDP) | [Ngemong Ati](https://open.spotify.com/album/5skqolqrAXZwxnZRb0h5ld) | 4:54 | 2023-03-30 | 2023-09-22 |

@@ -653,6 +653,24 @@
     },
     {
       "album": {
+        "name": "After Everything Passed",
+        "url": "https://open.spotify.com/album/4USRqVNkIlB1YCKmX0vZDn"
+      },
+      "artists": [
+        {
+          "name": "Estralogic",
+          "url": "https://open.spotify.com/artist/2dUNXGoOnNW3Zk6d7dzkJA"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140933,
+      "name": "After Everything Passed",
+      "url": "https://open.spotify.com/track/1wyJy1WAJkNYvIYlJnG4Q6"
+    },
+    {
+      "album": {
         "name": "After The Rain",
         "url": "https://open.spotify.com/album/2xtPm0qvGftcdmUN4ZLbEH"
       },
@@ -1150,7 +1168,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 163628,
       "name": "Arrival",
       "url": "https://open.spotify.com/track/0vWgUO8FjAaVNvddKmv0a9"
@@ -3713,6 +3731,24 @@
     },
     {
       "album": {
+        "name": "Field Study",
+        "url": "https://open.spotify.com/album/3zmq5mQ8LZ4EopivjuCasv"
+      },
+      "artists": [
+        {
+          "name": "Joe M. Key",
+          "url": "https://open.spotify.com/artist/6u5JdEH2gZlzRb2HfVa9Km"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143000,
+      "name": "Field Study",
+      "url": "https://open.spotify.com/track/49YrDpCX8407pkVOp3Eu3w"
+    },
+    {
+      "album": {
         "name": "Figured Out",
         "url": "https://open.spotify.com/album/2YYkG47uGuKWyhcUW6VclR"
       },
@@ -4300,7 +4336,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 149038,
       "name": "Girl Next Door",
       "url": "https://open.spotify.com/track/3mYjdHSMpufK2Dz9isoUcC"
@@ -4606,7 +4642,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 193624,
       "name": "Heart And Soul",
       "url": "https://open.spotify.com/track/5PNaAhQXH46UU7YjM0dpKs"
@@ -6968,6 +7004,24 @@
       "duration_ms": 212219,
       "name": "Like Someone in Love",
       "url": "https://open.spotify.com/track/4PiUoO6xh4xQNxpKQwgGId"
+    },
+    {
+      "album": {
+        "name": "Listening to the Distance",
+        "url": "https://open.spotify.com/album/5qLmFBaNAXp71xSTN5OS1M"
+      },
+      "artists": [
+        {
+          "name": "Luca Kerr",
+          "url": "https://open.spotify.com/artist/2jhFEyMpycPOddBCSQYjap"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173200,
+      "name": "Listening to the Distance",
+      "url": "https://open.spotify.com/track/6fw45XDVkbibckw76QbbWJ"
     },
     {
       "album": {
@@ -11187,6 +11241,24 @@
     },
     {
       "album": {
+        "name": "Take The Slow Train",
+        "url": "https://open.spotify.com/album/5kB287YlIH5xbsEpn7D3NN"
+      },
+      "artists": [
+        {
+          "name": "AJ Saffir",
+          "url": "https://open.spotify.com/artist/3xm9vJ3VJ68zzLG5ZJKYSi"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131517,
+      "name": "Take The Slow Train",
+      "url": "https://open.spotify.com/track/4EbP21o24IOAoYY8r4AGlP"
+    },
+    {
+      "album": {
         "name": "Tales of the night breeze",
         "url": "https://open.spotify.com/album/1aonWpWS7U4VY1nZU0k9Ch"
       },
@@ -12476,7 +12548,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 147133,
       "name": "Time to Move On",
       "url": "https://open.spotify.com/track/1g7oDxZZzp9jodeZPTLUbk"

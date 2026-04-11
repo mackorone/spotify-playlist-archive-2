@@ -1159,6 +1159,24 @@
     },
     {
       "album": {
+        "name": "First Class",
+        "url": "https://open.spotify.com/album/6t2skBC9JlrB4HD5yzuynL"
+      },
+      "artists": [
+        {
+          "name": "Twill Street",
+          "url": "https://open.spotify.com/artist/2CMfq5bzbQZNJIt6dTDqgc"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115125,
+      "name": "First Class",
+      "url": "https://open.spotify.com/track/0FmaabJZJEYMJWrGvUCKCS"
+    },
+    {
+      "album": {
         "name": "First Light Falling",
         "url": "https://open.spotify.com/album/2PaB13NTijH8mj8Z9U1jt9"
       },
@@ -1304,7 +1322,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 207022,
       "name": "Glimpses",
       "url": "https://open.spotify.com/track/3XE67IbSDQQDOhfCM2pCo4"
@@ -1980,10 +1998,28 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 222786,
       "name": "Leather Loafers",
       "url": "https://open.spotify.com/track/2A1j5MzOI9xQH1godISbki"
+    },
+    {
+      "album": {
+        "name": "Let Loose",
+        "url": "https://open.spotify.com/album/0qrZO6UiggPcyZAUUOXjnH"
+      },
+      "artists": [
+        {
+          "name": "Red Astro",
+          "url": "https://open.spotify.com/artist/1S8Bv99u3ATbxn1t2uSvC0"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198620,
+      "name": "Let Loose",
+      "url": "https://open.spotify.com/track/29ywdIcfwF2oGNlAQJXxmH"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Soft instrumental lullabies for the little ones.
 
-1,351 songs - 1 day 16 hr 54 min
+1,354 songs - 1 day 16 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,6 +226,7 @@
 | [Climbing up](https://open.spotify.com/track/2R8GvjuWEpnmsbGbT5jakX) | [Pearce Debenham](https://open.spotify.com/artist/3JgtNeC7T7j6SGEFQ9qMlg) | [Climbing up](https://open.spotify.com/album/2mEmvpMrNqeuXFnk5RCwkp) | 1:14 | 2021-11-08 | 2024-04-05 |
 | [Climbing up the Cherry Tree](https://open.spotify.com/track/5H9V1JXysWfc13oIsmczPw) | [Priam Roy](https://open.spotify.com/artist/0E5cC8pTIy6UO0S4FKwDh5) | [Climbing up the Cherry Tree](https://open.spotify.com/album/7euUiVAe0vMsGBc9ajArX1) | 2:00 | 2023-09-22 | 2025-06-12 |
 | [Close to My Heart](https://open.spotify.com/track/1xfT6vRaI0Q5bLrDFJNsQb) | [Robin Thames](https://open.spotify.com/artist/6TMNfZRg48kWC72NJErGJH) | [Close to My Heart](https://open.spotify.com/album/3SRUOAGhv1qaUGAuaoQGtu) | 2:02 | 2024-08-09 | 2026-01-15 |
+| [Close to the Moon](https://open.spotify.com/track/1HGmBoewYBerkqjZxtVPoa) | [Jon Hahn](https://open.spotify.com/artist/3zWZnYKBfaRBcVHbIFJclA) | [Close to the Moon](https://open.spotify.com/album/7KqpLblII6Jyt0BLsUOM9v) | 1:50 | 2026-04-10 |  |
 | [Close Together](https://open.spotify.com/track/4bXwpLhOCnHZScpOPmOI7X) | [Linnea Nord](https://open.spotify.com/artist/4PquHZJBaOcfBdPliZvCLq) | [Close Together](https://open.spotify.com/album/3XlXwOJ9yHcMYrJ5nXKRhY) | 1:14 | 2021-11-08 | 2023-02-18 |
 | [Close Your Little Eyes](https://open.spotify.com/track/1TAKg3Mb8lB9bH5mLtGL5u) | [Whispered Keys](https://open.spotify.com/artist/1tFcgmj4L7Cdzr4vy2d1Pq) | [Close Your Little Eyes](https://open.spotify.com/album/7xcdeSlssMFFtn5Pcxsol0) | 1:20 | 2026-03-20 |  |
 | [Closing Time](https://open.spotify.com/track/4qynpDjoyzLZjHNwroU3UN) | [Margret O'Neal](https://open.spotify.com/artist/0qWHfyGNKjHZyHCvIYwNdc) | [Closing Time](https://open.spotify.com/album/6u8mesUiCh9Ej8r3TbC8i0) | 1:53 | 2022-07-29 | 2024-04-05 |
@@ -627,7 +628,7 @@
 | [Little Heart](https://open.spotify.com/track/3DzkAjFXZVd9Sk6KBFpcss) | [Månljus](https://open.spotify.com/artist/4pqWBYMZqqD9zWiqTKrWTk) | [Little Heart](https://open.spotify.com/album/2cgV4UVMw1JNsP9zWZX3QO) | 1:42 | 2025-08-21 |  |
 | [Little Jack Horner](https://open.spotify.com/track/4bcK8YQsYRGufJzOBdFMjQ) | [Dawn Strage](https://open.spotify.com/artist/327FLvFuccgVKyr40b3eli) | [Little Jack Horner](https://open.spotify.com/album/7LrhiWS8UkU8hmH8d3ocIv) | 1:08 | 2023-03-17 | 2025-06-12 |
 | [Little Juniper Tree](https://open.spotify.com/track/73LIz9HyLLfU1KsSSI3Xjm) | [Klara Söderman](https://open.spotify.com/artist/3M4QRATGYND6tUfBYU0Qyt) | [Little Juniper Tree](https://open.spotify.com/album/1F0uOct26s41A46zw0jwom) | 1:01 | 2023-10-20 | 2025-06-12 |
-| [Little Lady Bird](https://open.spotify.com/track/6xOH1jKAX6XcMKR4w5XEy4) | [Cats meow](https://open.spotify.com/artist/2ItMNwIn1iI3oqnSZfnbpy) | [Little Lady Bird](https://open.spotify.com/album/7qPygS88Yken4LaSNrjSdg) | 2:11 | 2024-11-15 |  |
+| [Little Lady Bird](https://open.spotify.com/track/6xOH1jKAX6XcMKR4w5XEy4) | [Cats meow](https://open.spotify.com/artist/2ItMNwIn1iI3oqnSZfnbpy) | [Little Lady Bird](https://open.spotify.com/album/7qPygS88Yken4LaSNrjSdg) | 2:11 | 2024-11-15 | 2026-04-11 |
 | [Little Miss Sunshine](https://open.spotify.com/track/2Grl65Cu4KlHfioza8Hlhf) | [Fab Greenwich](https://open.spotify.com/artist/35OzUznezj2Y175Y1fekEg) | [Little Miss Sunshine](https://open.spotify.com/album/0kGIlPmaCtd9o2ZS0BhMvI) | 1:53 | 2025-04-25 | 2025-09-20 |
 | [Little Moonlight](https://open.spotify.com/track/6EzErXd8RAyP2aqzeaEYFh) | [Teddy Bloom](https://open.spotify.com/artist/5ktlc5VH3glWhwmka4pU10) | [Little Moonlight](https://open.spotify.com/album/6ZkzMNaif8Z3b2Py5Mbm5W) | 1:48 | 2026-01-30 |  |
 | [Little Red Scarf](https://open.spotify.com/track/2azl4gJGrpDlLSrlA1DyGW) | [Bernie Toft](https://open.spotify.com/artist/5YmfywgjBeKHuALBAZyUDp) | [Little Red Scarf](https://open.spotify.com/album/7GmSpEtRxyp4Tt0RsS2lAG) | 1:27 | 2023-01-06 | 2023-04-09 |
@@ -726,7 +727,7 @@
 | [My Baby Brother](https://open.spotify.com/track/4kxQ0u5PU8OFSpOXv4JpEC) | [Nataliya Fowler](https://open.spotify.com/artist/1tiCCBYfrrB1loQSAZ42lU) | [My Baby Brother](https://open.spotify.com/album/7kS49Ln0lmwL9Ytozwpv67) | 2:02 | 2021-11-08 | 2022-10-29 |
 | [My Best Duck](https://open.spotify.com/track/1DZBZifutZkEfVJbnCXS4w) | [Abelin Lagarde](https://open.spotify.com/artist/3js7EAaEd42YT5pAYfm5PD) | [My Best Duck](https://open.spotify.com/album/29lzzXqw0dpl9Vdz9fTOHl) | 1:26 | 2025-01-30 |  |
 | [My Best Friend](https://open.spotify.com/track/2XPpJmMdDKwLaDn5FihlSa) | [Big Marsh](https://open.spotify.com/artist/4d2MCwL7Etc9TuxNALb5IF) | [My Best Friend](https://open.spotify.com/album/0ZKhjitpfir1zFKDZJPYZ6) | 1:36 | 2024-08-09 | 2025-09-27 |
-| [My Best Friend](https://open.spotify.com/track/3jOUUhZ9la9yNijKxdXJwd) | [Lina Karo](https://open.spotify.com/artist/3uhp9VrAedCv6oMnkaXBtL) | [My Best Friend](https://open.spotify.com/album/3h9fNJ3vgd2T7tuUpyVUIh) | 1:45 | 2024-09-06 |  |
+| [My Best Friend](https://open.spotify.com/track/3jOUUhZ9la9yNijKxdXJwd) | [Lina Karo](https://open.spotify.com/artist/3uhp9VrAedCv6oMnkaXBtL) | [My Best Friend](https://open.spotify.com/album/3h9fNJ3vgd2T7tuUpyVUIh) | 1:45 | 2024-09-06 | 2026-04-11 |
 | [My Best Friend Bob](https://open.spotify.com/track/6GU8lcVUnQQh9Tumb2uIeR) | [Dodie Little](https://open.spotify.com/artist/6sE8hcdC14rNNo1NXuQ8sy) | [My Best Friend Bob](https://open.spotify.com/album/0omMrAr8zSXzokTTBqyM4Q) | 1:52 | 2021-11-08 | 2023-01-06 |
 | [My Bestest Friend](https://open.spotify.com/track/6zLXJhHRDaPg1BylRNo4l6) | [Jay Orsini](https://open.spotify.com/artist/2jIhq7p0P8ulIWQRiw0UD3) | [My Bestest Friend](https://open.spotify.com/album/4PvFRhUfhKe1q9uXEDxKLi) | 1:37 | 2022-06-30 | 2023-06-16 |
 | [My Birthday Cake](https://open.spotify.com/track/71O4GN11EssqUWbZkSjA1K) | [Gillian Trawick](https://open.spotify.com/artist/3wyQKFZZSzW4t6Gj6CGMHt) | [My Birthday Cake](https://open.spotify.com/album/1DEZfVb85NQsGvGeShrEhj) | 1:27 | 2021-11-08 | 2022-10-29 |
@@ -1208,6 +1209,7 @@
 | [Time to say good night](https://open.spotify.com/track/2qYL484kH1dSW80lw0IfqC) | [Myrna Maguire](https://open.spotify.com/artist/0Hfs99lRGuzu8SRwQ0qWrB) | [Time to say good night](https://open.spotify.com/album/0W7CtKDGmjiOCUi4xlqWBj) | 2:21 | 2021-11-08 | 2024-04-05 |
 | [Tingly Town](https://open.spotify.com/track/0VNxwQtC2mI3oAdpx1bohD) | [Elio Rowan](https://open.spotify.com/artist/3NHYEXDCroGix134Qit5nm) | [Tingly Town](https://open.spotify.com/album/69SY765WSIJCUOJWOH0F4P) | 2:22 | 2025-07-18 |  |
 | [Tiny Footprints](https://open.spotify.com/track/2LAf4b2AM8H7tN1qzYRJDc) | [Brandie Herbert](https://open.spotify.com/artist/5oWkadBD5uzxKs3Es5XeZ2) | [Tiny Footprints](https://open.spotify.com/album/6fapnJb9DQAPHrA9g63NAw) | 1:37 | 2022-05-13 | 2025-06-12 |
+| [Tiny Little Star](https://open.spotify.com/track/3K1vOzFKeUXl82v2e0lSvw) | [Nina Lui](https://open.spotify.com/artist/0cZ208KiStu5C0RDGsQqfI) | [Tiny Little Star](https://open.spotify.com/album/7BZ2NP1QM7hNORRHJfenEI) | 1:54 | 2026-04-10 |  |
 | [Tiny Thumbs](https://open.spotify.com/track/27h17L8dpUljmd35PvVUHa) | [Lene Terne](https://open.spotify.com/artist/62VY5pvpRQPKrQ4n8YVOR8) | [Tiny Thumbs](https://open.spotify.com/album/6TrniejTTSCkrM1AyFLbdH) | 1:50 | 2026-01-23 | 2026-03-28 |
 | [Tiny Toes](https://open.spotify.com/track/1es3gqKBZBUtvqCP1NuWQK) | [Alexis Montague](https://open.spotify.com/artist/0vb87QbwjeqPLvDUahlZpa) | [Tiny Toes](https://open.spotify.com/album/7CRS5X8RDXafgabbAJuwfc) | 1:43 | 2025-12-05 |  |
 | [Tiny Toes, Big Adventures](https://open.spotify.com/track/30Uc7VRqNQQjdaqJJRY9HC) | [Joanna Chakri](https://open.spotify.com/artist/65ulszLTrkBaeZZympVqpA) | [Tiny Toes, Big Adventures](https://open.spotify.com/album/6cELU85y4SnUfN695Jf8px) | 1:23 | 2024-02-09 | 2025-06-12 |
@@ -1249,7 +1251,7 @@
 | [Twinkle Toes](https://open.spotify.com/track/7GT4B9aBniY2od1Y5fYJny) | [Gunnel Boek](https://open.spotify.com/artist/1o402msQD5tWRl4y5jnrvI) | [Twinkle Toes](https://open.spotify.com/album/14wjjGkgZLZUqs6mFkXjhr) | 2:11 | 2025-11-14 |  |
 | [Twinkle Twinkle Little Star](https://open.spotify.com/track/2xommCoPThPqwJU5N6XYsE) | [Axel Pedersen](https://open.spotify.com/artist/313bA74MrmUBygRL2fH1lL) | [Twinkle Twinkle Little Star](https://open.spotify.com/album/6ISpvvDYcoojaaJ35jEQpE) | 3:13 | 2024-04-19 | 2025-12-06 |
 | [Twinkle, Twinkle, Little Star](https://open.spotify.com/track/0auI02VsQeSX5DJ3e17Bmh) | [Rick Flemm](https://open.spotify.com/artist/3Z7sI9OvtPJDAtjrZQKIAE) | [All Time Favorite Lullabies](https://open.spotify.com/album/0c6lcJKUnuBj8qtwZDgXpw) | 1:31 | 2021-11-08 | 2024-04-05 |
-| [Twinklepaws](https://open.spotify.com/track/7DxNaPj5FZrMrScOmYAdvp) | [Goodnight sweetheart](https://open.spotify.com/artist/3hVfERu6fWfKySpoHenfnp) | [Twinklepaws](https://open.spotify.com/album/4uTa5ZDSS1xBzDNcyodg2C) | 1:42 | 2024-10-18 |  |
+| [Twinklepaws](https://open.spotify.com/track/7DxNaPj5FZrMrScOmYAdvp) | [Goodnight sweetheart](https://open.spotify.com/artist/3hVfERu6fWfKySpoHenfnp) | [Twinklepaws](https://open.spotify.com/album/4uTa5ZDSS1xBzDNcyodg2C) | 1:42 | 2024-10-18 | 2026-04-11 |
 | [Twinkling Dreams](https://open.spotify.com/track/1sSohEBI1HerYA3gOaHJXd) | [David Aydin](https://open.spotify.com/artist/44sI7kxhWJ08lYnGw492Om) | [Twinkling Dreams](https://open.spotify.com/album/3I8IeoIkwK7kAYxunROibU) | 1:19 | 2023-10-20 | 2025-04-12 |
 | [Two Thumbs Up](https://open.spotify.com/track/4ZMewuctVgUDOar3FNNgjC) | [Leo Fosbrook](https://open.spotify.com/artist/3KWH7rrwTcMZJd9ni15iZW) | [The Ice Cream King](https://open.spotify.com/album/1tGzbOO4dXF4Eh2v7mMJ8p) | 1:31 | 2021-11-08 | 2024-04-05 |
 | [Umbrella for Two](https://open.spotify.com/track/6c4kqvZuy6zutHoawVZcz5) | [Charlie Gray](https://open.spotify.com/artist/1pv2nF0KVHypPpj26VGnsz) | [Umbrella for Two](https://open.spotify.com/album/10Fla80u42PwJz5ahetyPL) | 2:21 | 2025-05-23 | 2025-08-22 |
@@ -1259,6 +1261,7 @@
 | [Under the Shining Stars](https://open.spotify.com/track/1tuHBmHspiWtcHisFJQo2Y) | [Skymningen](https://open.spotify.com/artist/2BEBC0wjP3GU2dH0hMilUs) | [Under the Shining Stars](https://open.spotify.com/album/7afLw1fNKNLJaCvvrVdun0) | 2:15 | 2024-04-19 | 2025-12-06 |
 | [Under the Sleepy Sky](https://open.spotify.com/track/2Nr4HhvtVsQrtXPnlwDyZR) | [Snuggle Land](https://open.spotify.com/artist/1RV6PoeDk6d8chB4Nn1xTy) | [Under the Sleepy Sky](https://open.spotify.com/album/33IfSHivG11AXUQ1rw5jAQ) | 1:24 | 2025-08-04 |  |
 | [Under The Stars](https://open.spotify.com/track/0UrLq7AAYYmqPV2E1pvivm) | [Dore Mi](https://open.spotify.com/artist/4njrMBDibPhATgAffWWFZM) | [Under The Stars](https://open.spotify.com/album/0fVdJEnEH3YXxuhUW44FMH) | 2:06 | 2023-08-10 | 2025-08-22 |
+| [Under the Twin Moons](https://open.spotify.com/track/2ev6sVtssGW1Piiw0rRxET) | [Franciscus Love](https://open.spotify.com/artist/5rqMj8NroXxm0rH7yTo6TZ) | [Under the Twin Moons](https://open.spotify.com/album/0AXPDG6ss3syrzMgnvHBNZ) | 1:23 | 2026-04-10 |  |
 | [Underneath My Bed](https://open.spotify.com/track/6JHCZw34Fv0aRWDz34F0A1) | [Ronan Ivers](https://open.spotify.com/artist/7Exr5K2SKnd1fzEOqbXUNI) | [Underneath My Bed](https://open.spotify.com/album/12lUt0jm0n9MFRAKcgiAhx) | 1:35 | 2022-10-28 | 2024-08-27 |
 | [Unicorns](https://open.spotify.com/track/5eUi6uioV6i7zSwhEhL4pf) | [Choo Choo Baby](https://open.spotify.com/artist/0vDdNNkBuWh1lJhAREEFce) | [Unicorns](https://open.spotify.com/album/6K8LetL1T75t1ETwbPDAU7) | 2:15 | 2023-06-08 | 2025-04-05 |
 | [Up Above](https://open.spotify.com/track/5k2hHPNq8HJC0BCohA6wT4) | [Dorothy Baughman](https://open.spotify.com/artist/48UhwqnntjRekrZEcoZ0aL) | [Up Above](https://open.spotify.com/album/6bVnxEXo7sDSLE2q2CbrIg) | 2:03 | 2021-11-08 | 2024-04-05 |

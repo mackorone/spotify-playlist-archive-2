@@ -2775,6 +2775,28 @@
     },
     {
       "album": {
+        "name": "We Will Always Be The Way We Were",
+        "url": "https://open.spotify.com/album/0lLm4zLB446rpCHC4yZTey"
+      },
+      "artists": [
+        {
+          "name": "Jack Savoretti",
+          "url": "https://open.spotify.com/artist/7nC05zmJukRGYObQeRgg3x"
+        },
+        {
+          "name": "KT Tunstall",
+          "url": "https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188453,
+      "name": "Tempting Fate",
+      "url": "https://open.spotify.com/track/2lxYhDhgFTqF1vfzBXARjh"
+    },
+    {
+      "album": {
         "name": "That's How Love Is Made",
         "url": "https://open.spotify.com/album/7jEsDY3DfzPI2MRJaOyZdP"
       },
@@ -2966,7 +2988,7 @@
       ],
       "date_added": "2020-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 194373,
       "name": "Try Me",
       "url": "https://open.spotify.com/track/5vjbpawQ7l5Qdgwh1WafWe"

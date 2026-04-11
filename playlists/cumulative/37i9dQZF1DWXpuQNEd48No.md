@@ -2,7 +2,7 @@
 
 ### [RAP 91 Haryanvi](https://open.spotify.com/playlist/37i9dQZF1DWXpuQNEd48No)
 
-> Best of Haryanvi Hip\-Hop! Cover: RB Gujjar
+> Best of Haryanvi Hip\-Hop! Cover: Mandys
 
 584 songs - 1 day 5 hr 18 min
 
@@ -32,7 +32,7 @@
 | [Aadhi Si Raat](https://open.spotify.com/track/7EDOM8wyW3pouM1bhwWwTh) | [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ), [Upasna Gahlot](https://open.spotify.com/artist/74TLOJfpTu8VtgXi9df557), [Vishhh](https://open.spotify.com/artist/2IcRuyp5ZsvcJmDVxqYJh6) | [Aadhi Si Raat](https://open.spotify.com/album/0BZSPb786JGd61nmAbqrPP) | 3:12 | 2023-12-14 | 2023-12-23 |
 | [Aage Haryanvi](https://open.spotify.com/track/5jjm6KyGodrzZU9a3K8xrt) | [MD](https://open.spotify.com/artist/2DAFnKypr3QcXMZZjHnFtx), [KD](https://open.spotify.com/artist/4F4MEZmjiBwcqNa4bTT6PD) | [Aage Haryanvi](https://open.spotify.com/album/4NlsZurtwZ4zOunfW9mLpF) | 3:39 | 2024-02-06 | 2024-02-16 |
 | [AAHO](https://open.spotify.com/track/33LN6U5oQa8bHh03oqxajL) | [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [AAHO](https://open.spotify.com/album/3tP7d652s8J8TitZHGGnZx) | 4:12 | 2023-09-27 | 2025-01-11 |
-| [Abuse](https://open.spotify.com/track/1AUDavpuGF538XF230Wv1r) | [Ron Likhari](https://open.spotify.com/artist/3HtPdSP2gc9CkXVysXsRQS), [Dheeru Khola](https://open.spotify.com/artist/7dNzMGaaHrVkRYLj8MVNCm), [Ashwin Bidlan](https://open.spotify.com/artist/03mZJs3noM0kYWThpAzaod) | [Still Breathing](https://open.spotify.com/album/2EaUAUdLHPm4e9A3oqBQbm) | 3:28 | 2026-01-30 | 2026-02-18 |
+| [Abuse](https://open.spotify.com/track/1AUDavpuGF538XF230Wv1r) | [Ron Likhari](https://open.spotify.com/artist/3HtPdSP2gc9CkXVysXsRQS), [Dheeru Khola](https://open.spotify.com/artist/7dNzMGaaHrVkRYLj8MVNCm), [Ashwin Bidlan](https://open.spotify.com/artist/03mZJs3noM0kYWThpAzaod) | [Still Breathing](https://open.spotify.com/album/2EaUAUdLHPm4e9A3oqBQbm) | 3:28 | 2026-01-30 |  |
 | [Ace](https://open.spotify.com/track/42SQxZPBS9pNGDAk5ZRY4V) | [Dikshit Parasher](https://open.spotify.com/artist/0BU9ouBKN5Y55wZ6iNSSL5) | [Ace](https://open.spotify.com/album/00a9Oe7Hayv4refjmwmaBg) | 2:27 | 2023-08-14 | 2023-09-09 |
 | [Ace](https://open.spotify.com/track/1TsvGXzmBCn3AdqJeqTMfm) | [Miki Malang](https://open.spotify.com/artist/5vGjn7KpA1qJNuy2Ez9yRM), [Shiqaari](https://open.spotify.com/artist/6SGlv8rvlA0TfucEWP7Mvh) | [Ace](https://open.spotify.com/album/7AgbNhegpQac8FMASg9oy6) | 3:21 | 2023-03-28 | 2024-07-21 |
 | [ADVICE](https://open.spotify.com/track/5nPbBpS7oaX1Y9P8vmIa8b) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Deep Kalsi](https://open.spotify.com/artist/23S2w22FCwFjDBBn7qdB2I), [DRJ Sohail](https://open.spotify.com/artist/1cMmtYmcMDsPOrEu7uVJYN) | [HARD DRIVE Vol\. 2](https://open.spotify.com/album/3bnBokwvwAquTvlExGG9Y9) | 3:02 | 2024-11-15 | 2026-02-21 |
@@ -384,7 +384,7 @@
 | [Mukhtleef](https://open.spotify.com/track/6aM5FZpsDxBqisjUG5dtGH) | [AAFT MUSIC](https://open.spotify.com/artist/2gKbTpGYWl8cP5dTeT4vRD) | [Mukhtleef](https://open.spotify.com/album/3jLdt9ofZOLlVrVJjsYWIn) | 2:07 | 2026-03-20 |  |
 | [Muqabla](https://open.spotify.com/track/3Q2cbK3cfrTihZVVkcmlBH) | [AP VERMA](https://open.spotify.com/artist/1UgmkXACbaDUudvFUKKyAM), [OG Sandhu](https://open.spotify.com/artist/6BWgZpr1zVC2EYLpTv8ZVE) | [Muqabla](https://open.spotify.com/album/4prYBTC2KsbXj4jEeD810p) | 2:31 | 2025-11-28 | 2025-12-06 |
 | [Muqabla](https://open.spotify.com/track/32ewgb2rlylsOi7SYJM0Ls) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [Abhishek Raina](https://open.spotify.com/artist/11kJaZYEE0xblhOGLMrk1U) | [THE MAN BEHIND DA SOUND](https://open.spotify.com/album/6g5WK5QijDB95Lw76u7i02) | 2:29 | 2025-09-12 | 2025-11-15 |
-| [MUSCLE MOMMY](https://open.spotify.com/track/66ca7v9KafAQH31USDoJib) | [DJ RAAGA](https://open.spotify.com/artist/6zP3Dx2i0JZLMoKIEQWOzR) | [MUSCLE MOMMY](https://open.spotify.com/album/6OK6MNihnRcEFFR5ExSbmO) | 1:55 | 2026-03-27 |  |
+| [MUSCLE MOMMY](https://open.spotify.com/track/66ca7v9KafAQH31USDoJib) | [DJ RAAGA](https://open.spotify.com/artist/6zP3Dx2i0JZLMoKIEQWOzR) | [MUSCLE MOMMY](https://open.spotify.com/album/6OK6MNihnRcEFFR5ExSbmO) | 1:55 | 2026-03-27 | 2026-04-11 |
 | [MY JOURNEY](https://open.spotify.com/track/0TV4X4739sqDGHFPjWm8iG) | [Addy Nagar](https://open.spotify.com/artist/1DctKQQOA4GfV6Pc9WngX5) | [KING IN THE NORTH](https://open.spotify.com/album/17j95vZcDXP95NTwVBZ77s) | 2:52 | 2025-08-05 | 2025-08-23 |
 | [My Name Speaks](https://open.spotify.com/track/0DJjbAaiJK6NFiMaDTFe5y) | [Mt 35](https://open.spotify.com/artist/09Sl1J8H0dBQVeUxUCHHP6), [Lv94](https://open.spotify.com/artist/2WJBAL3GFX2OeSKd59xhur), [Mani Rana](https://open.spotify.com/artist/3BRj60pF5wpSEF0Y5nbX9H) | [My Name Speaks](https://open.spotify.com/album/2BpBWJg0HRcpxPL3Zoynn2) | 3:25 | 2025-10-14 | 2025-11-08 |
 | [My Ride](https://open.spotify.com/track/4lmgYq3pBWERL7ZWqMtfU9) | [Jogga](https://open.spotify.com/artist/5FR97TscVyRwmBXzP7aoXL), [Agsy](https://open.spotify.com/artist/6vEZoTDeZRvmQc1XXJCQBp) | [My Ride](https://open.spotify.com/album/1WN1x4ciEi6jp4Do6v3RfK) | 2:56 | 2025-12-12 | 2026-01-17 |

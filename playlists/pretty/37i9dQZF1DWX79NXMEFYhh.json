@@ -1,6 +1,6 @@
 {
   "description": "gusto ko lang naman ng kayakap ",
-  "num_followers": 881575,
+  "num_followers": 881495,
   "original_name": "cuddleweather",
   "owner": {
     "name": "Spotify",
@@ -615,6 +615,22 @@
     {
       "added_at": "2026-03-18 09:21:16",
       "album": {
+        "name": "Paradise - EP",
+        "url": "https://open.spotify.com/album/7p7vt3VZb5ORhePGbHAf8S"
+      },
+      "artists": [
+        {
+          "name": "Chase Atlantic",
+          "url": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
+        }
+      ],
+      "duration_ms": 256453,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/6xRiL9BVkWfZryQJmdHTmv"
+    },
+    {
+      "added_at": "2026-03-18 09:21:16",
+      "album": {
         "name": "I Need You More Today",
         "url": "https://open.spotify.com/album/1Le1ykkfNX7dMyUYVOf6jj"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 233728,
       "name": "I Need You More Today",
       "url": "https://open.spotify.com/track/04qDUASuSfVp6fktfsxVej"
-    },
-    {
-      "added_at": "2026-03-18 09:21:16",
-      "album": {
-        "name": "Paradise - EP",
-        "url": "https://open.spotify.com/album/7p7vt3VZb5ORhePGbHAf8S"
-      },
-      "artists": [
-        {
-          "name": "Chase Atlantic",
-          "url": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
-        }
-      ],
-      "duration_ms": 256453,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/6xRiL9BVkWfZryQJmdHTmv"
     },
     {
       "added_at": "2026-03-18 09:21:16",

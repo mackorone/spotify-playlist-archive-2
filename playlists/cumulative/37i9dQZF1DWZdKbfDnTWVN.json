@@ -7873,6 +7873,28 @@
     },
     {
       "album": {
+        "name": "Shark Tales",
+        "url": "https://open.spotify.com/album/65jBfj3oJddOoVhJxmY3NR"
+      },
+      "artists": [
+        {
+          "name": "Umoja Sounds",
+          "url": "https://open.spotify.com/artist/6a8xnLQPDn7HANbZgT3tj9"
+        },
+        {
+          "name": "Kayvo Kforce",
+          "url": "https://open.spotify.com/artist/1fPPCBsDEGE70rXGO1mMyC"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190396,
+      "name": "Shark Tales",
+      "url": "https://open.spotify.com/track/4Uy72zQFZkOeTCp0j5e809"
+    },
+    {
+      "album": {
         "name": "Shetani 1",
         "url": "https://open.spotify.com/album/5vuN0k9yJlWiiqFh3Mbgo3"
       },

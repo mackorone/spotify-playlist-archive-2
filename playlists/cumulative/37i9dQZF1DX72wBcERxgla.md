@@ -4,7 +4,7 @@
 
 > Jazz piano to accompany your reading.
 
-723 songs - 1 day 12 hr 23 min
+725 songs - 1 day 12 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -500,7 +500,7 @@
 | [Red Roses](https://open.spotify.com/track/4nF6ml6bgg0nomCgQYreI2) | [Joanna Mason](https://open.spotify.com/artist/4S1m9Gvs6oH0gHRnpkoAUT) | [Red Roses](https://open.spotify.com/album/5uvqy4Sd6Hz8JgcUyGJAcx) | 3:20 | 2023-04-13 | 2024-07-23 |
 | [Reflections](https://open.spotify.com/track/2FnNdUC2HDLSgTkuO8d7LG) | [Lisa Livalli](https://open.spotify.com/artist/5qRGl1Cpcwz5uR17bGfOLR) | [Reflections](https://open.spotify.com/album/617mBec4f2asE69pD1Tn5c) | 3:36 | 2022-04-12 | 2024-11-26 |
 | [Reflections in the Rain](https://open.spotify.com/track/5bJ2WTF08YvfA51hFfD9TC) | [Tina Wellbeck](https://open.spotify.com/artist/4ijOrgStHlgSpuka4omdoe) | [Reflections in the Rain](https://open.spotify.com/album/0VXnHbvR6mMKQ6jCQt7Fjw) | 2:35 | 2023-06-01 | 2025-04-16 |
-| [Relief On A Shitty Day](https://open.spotify.com/track/4LDZC11b3Xe5s6jgz1RQJ3) | [Tyler Marshall](https://open.spotify.com/artist/0fGoqU6EcyjcEEas59ee3k) | [Relief On A Shitty Day](https://open.spotify.com/album/413eCTjZ1lJAjgtH5srUFp) | 3:08 | 2023-01-05 |  |
+| [Relief On A Shitty Day](https://open.spotify.com/track/4LDZC11b3Xe5s6jgz1RQJ3) | [Tyler Marshall](https://open.spotify.com/artist/0fGoqU6EcyjcEEas59ee3k) | [Relief On A Shitty Day](https://open.spotify.com/album/413eCTjZ1lJAjgtH5srUFp) | 3:08 | 2023-01-05 | 2026-04-11 |
 | [Rendezvous in Paris](https://open.spotify.com/track/6OIPUVNyFrn1kZ7GLVNweJ) | [Algot Aelster](https://open.spotify.com/artist/1CVWtR01ydG4BxbRKaAFEP) | [Rendezvous in Paris](https://open.spotify.com/album/5dcRy1998FNdT6ZVvk6G2D) | 2:40 | 2023-12-15 | 2025-07-24 |
 | [Reserved Judgement](https://open.spotify.com/track/3PgyUOs2llfKGv2GCYqpKi) | [Hamilton Jones](https://open.spotify.com/artist/77WfIGS6cIrZqtz5kUdOLo) | [Reserved Judgement](https://open.spotify.com/album/6NP0tJZoYLoHIgWdZ4FyrV) | 2:56 | 2024-02-02 | 2026-03-21 |
 | [Right Up](https://open.spotify.com/track/4fxc65XRk6q6EfUpdhBTP3) | [Montenegro Garner](https://open.spotify.com/artist/0jEJWpBlQoEGME65oJi0ms) | [Right Up](https://open.spotify.com/album/1bh9rnAoHm9lRBzsZJy74i) | 3:12 | 2025-03-24 |  |
@@ -594,6 +594,7 @@
 | [Sunset Serenade](https://open.spotify.com/track/0DlNCKxDC5uFNUUwsUVTiw) | [Carmen Simmons](https://open.spotify.com/artist/6HhW3vf5i1Ao2KsOsdHfbV) | [Sunset Serenade](https://open.spotify.com/album/39GWPNKjwaWmYMSbQVy71S) | 2:33 | 2024-10-21 | 2026-03-19 |
 | [Sweet Or Sweeter](https://open.spotify.com/track/3kBBNUhkrZjBarERXoJTzt) | [Lenard Lovito](https://open.spotify.com/artist/6r8kUR60ouPwLjn42RFgPT) | [Sweet Or Sweeter](https://open.spotify.com/album/3ukwljFKcXQugyW40NvzSZ) | 1:59 | 2023-04-20 | 2023-08-26 |
 | [Sweetzer Ave](https://open.spotify.com/track/4ZgHWOPfiCca93ZY8Q2QKB) | [Jonathán Bridges](https://open.spotify.com/artist/2dQCJiivYdK2HuhoUKcerS) | [Sweetzer Ave](https://open.spotify.com/album/5FzXkweNdfaYzRauD8YNsF) | 2:52 | 2024-05-23 | 2025-02-18 |
+| [Take The Slow Train](https://open.spotify.com/track/4EbP21o24IOAoYY8r4AGlP) | [AJ Saffir](https://open.spotify.com/artist/3xm9vJ3VJ68zzLG5ZJKYSi) | [Take The Slow Train](https://open.spotify.com/album/5kB287YlIH5xbsEpn7D3NN) | 2:11 | 2026-04-10 |  |
 | [Tangerine](https://open.spotify.com/track/3q5cGbIcmWU4tfUixjLqKb) | [Angela Rowles](https://open.spotify.com/artist/6afIMyGrPUhBUFk34MfINr) | [Tangerine](https://open.spotify.com/album/1jRoIrwrLAZlY7quAk5GUJ) | 2:39 | 2023-01-05 | 2024-10-02 |
 | [Ten dollars fare](https://open.spotify.com/track/4pnEoWfFUzVnLSizTVZLW5) | [Fred Mitchell](https://open.spotify.com/artist/45BQSJA9RDavfJ8WSqWMrB) | [Ten dollars fare](https://open.spotify.com/album/1HgcrMPxGBS1PzYmtOaKhm) | 2:59 | 2025-01-07 | 2026-03-19 |
 | [Tender Moments](https://open.spotify.com/track/3kcML10JWRmtCovbUfiqvL) | [Ward Stetson](https://open.spotify.com/artist/4cgzkhsBdCNVDzBrx7is7S) | [Tender Moments](https://open.spotify.com/album/5jMWuMhWDpXOjuEzAHLEHT) | 2:48 | 2024-04-10 | 2025-07-02 |
@@ -620,6 +621,7 @@
 | [The Morning Coffee](https://open.spotify.com/track/67AR74v5XF4tLLFkKbFnmB) | [Jeannie Purdue](https://open.spotify.com/artist/0A0cOM444T6hJehiTABk83) | [The Morning Coffee](https://open.spotify.com/album/0XP5OIhHrrStWbwkK9Pn5h) | 3:20 | 2024-04-10 | 2024-07-23 |
 | [The Nature Calls](https://open.spotify.com/track/49DNrBxdx1ce7U74K4lzrT) | [Ron Bladworth](https://open.spotify.com/artist/0BqBNOQfrBTClJMq6n03Mf) | [The Nature Calls](https://open.spotify.com/album/1ODsXhkCWtaFalwbY2pEMA) | 1:58 | 2023-08-10 | 2023-08-26 |
 | [The Nearness of You](https://open.spotify.com/track/4D15PV4EsO7CTf1l7R3jCo) | [Morgan Jaquette](https://open.spotify.com/artist/540KL1Mixm0kSCTjw8mqoa) | [The Nearness of You](https://open.spotify.com/album/0kmf0RsMgbtvL6XxIWz4G4) | 2:49 | 2024-03-22 |  |
+| [The Next Road](https://open.spotify.com/track/7bDIBgPSiTpArCqjLm3BOY) | [Caye Skye](https://open.spotify.com/artist/3ocLLPDmkfgvjHZ5Yn10oW) | [The Next Road](https://open.spotify.com/album/3klCdtU3R1wEhoG9aM3kaY) | 2:32 | 2026-04-10 |  |
 | [The Night Forgot Our Names](https://open.spotify.com/track/5AVnesv0aPqtiub0UmMjNw) | [Georg Harvester](https://open.spotify.com/artist/2w9g3qs7EAeQFeRC91BaBs) | [The Night Forgot Our Names](https://open.spotify.com/album/3flAwqL9DL2A1MpWb0UQo5) | 2:35 | 2026-02-27 |  |
 | [The Night Has A Thousand Eyes](https://open.spotify.com/track/2hHvAndHhJuBwO4qh7i2Is) | [Ray Horne](https://open.spotify.com/artist/0ZHEC4FJWEfjvOsRwETzkS) | [The Night Has A Thousand Eyes](https://open.spotify.com/album/6c9zKUBf74WtsSW6zULcnq) | 2:40 | 2023-04-20 | 2026-03-19 |
 | [The Old Town](https://open.spotify.com/track/3vxsO9dspGKi108VRtxrtH) | [Uno Blanket](https://open.spotify.com/artist/6V1Pk0mCdVkx6StOttWcev) | [The Old Town](https://open.spotify.com/album/04MOXMfLLoP4Q2LEtPCpSo) | 3:16 | 2025-10-15 |  |
@@ -637,7 +639,7 @@
 | [The Summer Knows](https://open.spotify.com/track/2841IJ5btY4syN5kKc37NB) | [Irvin Smith](https://open.spotify.com/artist/72epe9asXn1RtuXkKrtBcE) | [The Summer Knows](https://open.spotify.com/album/4WcFHTP5YdasKTfiGd14hY) | 2:53 | 2024-05-23 | 2024-11-26 |
 | [The Summer Rain](https://open.spotify.com/track/0fqd2ptOum8EPm581Mfc3g) | [Green Trio](https://open.spotify.com/artist/6byy6cSUHfjBs0vgjgC5St) | [Woodland](https://open.spotify.com/album/3tm3nZ5qKZvrlvyXdzWJCG) | 3:01 | 2022-04-12 | 2022-05-18 |
 | [The Sun Is Setting](https://open.spotify.com/track/708zsmlTVOJa5t3X89cezP) | [Wes Ivory](https://open.spotify.com/artist/5CBG76eSqNpXwV6ZlOgnHU) | [The Sun Is Setting](https://open.spotify.com/album/46Jl5kDt7CWuzgKl1UUQFs) | 2:55 | 2024-12-16 | 2025-07-02 |
-| [The Things We Did Last Summer](https://open.spotify.com/track/2kZE2oq2A6IdoXFxNEVQwV) | [Einar Magnusson](https://open.spotify.com/artist/2sXtKNi7nnKt8XkKX4Agag) | [The Things We Did Last Summer](https://open.spotify.com/album/1n7g64iKvEZsnXg6LyjUpW) | 3:04 | 2024-11-12 |  |
+| [The Things We Did Last Summer](https://open.spotify.com/track/2kZE2oq2A6IdoXFxNEVQwV) | [Einar Magnusson](https://open.spotify.com/artist/2sXtKNi7nnKt8XkKX4Agag) | [The Things We Did Last Summer](https://open.spotify.com/album/1n7g64iKvEZsnXg6LyjUpW) | 3:04 | 2024-11-12 | 2026-04-11 |
 | [The Time Is Now](https://open.spotify.com/track/4M3bao5cXJ0dlMX42gWt1m) | [Portiere Woodtar](https://open.spotify.com/artist/3MNxyFDnHn81hQcpwsJlAb) | [The Time Is Now](https://open.spotify.com/album/3IhrTBiy2hu1lxLvJXyqAr) | 3:11 | 2024-04-23 | 2025-04-24 |
 | [The Trip](https://open.spotify.com/track/4jNp3TPmIXJDyJrniYkZE1) | [Frank Keme](https://open.spotify.com/artist/05C8tAFDHOzinIBu7qExmR) | [The Trip](https://open.spotify.com/album/1ZuWQ40wJ4tQbitdodmZEV) | 2:13 | 2024-12-16 |  |
 | [The Way It's Supposed To Be](https://open.spotify.com/track/0f1olNUWqtcYBuUv141TBG) | [Hamilton Jones](https://open.spotify.com/artist/77WfIGS6cIrZqtz5kUdOLo) | [The Way It's Supposed To Be](https://open.spotify.com/album/0U5RLGTDGtSgj3Pn3p5eAk) | 3:20 | 2023-11-17 | 2025-07-24 |

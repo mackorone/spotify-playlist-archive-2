@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "A collection of best Prog Rock tracks. Cover: Dream Theater",
+  "description": "A collection of the best recent Prog Rock tracks. Cover: Weather Systems",
   "name": "Prog Rock",
   "tracks": [
     {
@@ -742,6 +742,24 @@
       "duration_ms": 503893,
       "name": "Atropos",
       "url": "https://open.spotify.com/track/0pfbHUS1He5Mjt0EmP8Mrl"
+    },
+    {
+      "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/0cFAAQrwE6bzh9AHQF3CA8"
+      },
+      "artists": [
+        {
+          "name": "Yes",
+          "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 445253,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/48UwvRQW3AP5ga0pa3MUtU"
     },
     {
       "album": {
@@ -3097,6 +3115,24 @@
     },
     {
       "album": {
+        "name": "Goodbye Retsu Kaioh (From \"Baki\")",
+        "url": "https://open.spotify.com/album/503FPPAcvSRZwMNV5bVkKB"
+      },
+      "artists": [
+        {
+          "name": "Gabriele Motta",
+          "url": "https://open.spotify.com/artist/74Z82c9qeF0yFO30XSs8nQ"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124824,
+      "name": "Goodbye Retsu Kaioh - From \"Baki\"",
+      "url": "https://open.spotify.com/track/320Sy4n8rMXyoa2aq36SM3"
+    },
+    {
+      "album": {
         "name": "The Father of Make Believe",
         "url": "https://open.spotify.com/album/7fj1TOW6bJglJWQ8MqxNUH"
       },
@@ -4324,7 +4360,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 203106,
       "name": "Lemon Poem Song",
       "url": "https://open.spotify.com/track/1DAZt1BCGwzwTpvnklktGw"
@@ -5033,6 +5069,24 @@
     },
     {
       "album": {
+        "name": "Y\u016bgen",
+        "url": "https://open.spotify.com/album/5JaA2go7NkONW5BBCCKeEd"
+      },
+      "artists": [
+        {
+          "name": "Kolm",
+          "url": "https://open.spotify.com/artist/2il2sBjwdjQzy5vQdNO8j4"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 529846,
+      "name": "Mycelia",
+      "url": "https://open.spotify.com/track/3iGdGMlYle9jOxCITkef6y"
+    },
+    {
+      "album": {
         "name": "Mystic Highway (Looking For Linderman)",
         "url": "https://open.spotify.com/album/7iiM3DyyPi2M2lg80SanQC"
       },
@@ -5563,6 +5617,28 @@
     },
     {
       "album": {
+        "name": "Open Hearts",
+        "url": "https://open.spotify.com/album/2vbdA0DOY1iHWjs5FI3Z01"
+      },
+      "artists": [
+        {
+          "name": "Pyramid Theorem",
+          "url": "https://open.spotify.com/artist/62k8h503wV1BXhUSNfwsMf"
+        },
+        {
+          "name": "James Labrie",
+          "url": "https://open.spotify.com/artist/3bd5EpE5vC93GJT2u0fx4n"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 427333,
+      "name": "Open Hearts",
+      "url": "https://open.spotify.com/track/3BX13KNdKGA4CqoLZiniVo"
+    },
+    {
+      "album": {
         "name": "World Maker",
         "url": "https://open.spotify.com/album/7tGc2evOdokppX63rGDLKG"
       },
@@ -5844,7 +5920,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 500480,
       "name": "Patterns",
       "url": "https://open.spotify.com/track/6UN78M6QtRxb73AofX7keE"
@@ -6140,7 +6216,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 237533,
       "name": "Quetzalcoatl",
       "url": "https://open.spotify.com/track/56Nb3OgXjOBLNloYAAemga"
@@ -6846,7 +6922,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 356392,
       "name": "Serpentine",
       "url": "https://open.spotify.com/track/5x0s7KXSW1oaOC41h4Maj4"

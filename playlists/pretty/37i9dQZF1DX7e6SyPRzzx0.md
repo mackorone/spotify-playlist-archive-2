@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7e6SyPRzzx0.md) - [plain]
 
 > The home of rage rap\. Cover: Playboi Carti
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,793 likes - 65 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,863 likes - 65 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,18 +20,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7e6SyPRzzx0.md) - [plain]
 | 10 | [Paperbag Boy](https://open.spotify.com/track/7mQcxAgdMV1Qt71tekR0DP) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Paperbag Boy](https://open.spotify.com/album/7CqMuaqi2wrUNsful2OWHb) | 3:11 |
 | 11 | [Liv Likë Dis](https://open.spotify.com/track/2MicPxl8S4JpPpWSitf6N2) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [ADL](https://open.spotify.com/album/6sKe2lWmQxRYhhUnN7dln3) | 2:41 |
 | 12 | [PB&J \(with Ken Carson\)](https://open.spotify.com/track/1uJiHxYj2jMgbSTNiuf6zV) | [HXG](https://open.spotify.com/artist/6N2Q9haXoRiIiSQTRv9MSb), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Homixide Lifestyle 2](https://open.spotify.com/album/3KABOXbguDvh6dnsbjVQVk) | 2:29 |
-| 13 | [Vivienne Westwood / RIP](https://open.spotify.com/track/6lIxsbZ2A9WwrapGOPep3h) | [Nine Vicious](https://open.spotify.com/artist/6Rs7Ufqb4h0FTuVg6wlqOy) | [EMOTIONS](https://open.spotify.com/album/0JOapIHLzCzmqCAZf8OYy1) | 4:04 |
+| 13 | [Quagoo](https://open.spotify.com/track/7vfbtV6IJVB0nthc6mNzls) | [Sk8star](https://open.spotify.com/artist/2PAnRRa7mwTO0WArmY1vCc) | [Quagoo](https://open.spotify.com/album/66y6wCUqk3bwMEKhHqRWrz) | 2:11 |
 | 14 | [Blick Sum \(feat\. Playboi Carti\)](https://open.spotify.com/track/7nCgpOjCZWL7hKFqmCSyXo) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Sugar Honey Iced Tea](https://open.spotify.com/album/4Qsc4at71izsrBdiJv3Kds) | 3:12 |
 | 15 | [Toxic](https://open.spotify.com/track/3F1ostPsVmNFzFNDfPj7ua) | [slayr](https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA) | [Half Blood \(BloodLuxe\)](https://open.spotify.com/album/2LryMcusFgY0edlYwJDIqj) | 4:29 |
-| 16 | [No Compadre](https://open.spotify.com/track/2IzcwHQ6uv1geOvCszrO4P) | [Sk8star](https://open.spotify.com/artist/2PAnRRa7mwTO0WArmY1vCc) | [Designer Junkie](https://open.spotify.com/album/6Eb3spgLo0qXfgTdP1kxjd) | 2:04 |
-| 17 | [open it up \(with Ken Carson\)](https://open.spotify.com/track/3Lir4xFT8g2t923T7d2Xmq) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [</3³](https://open.spotify.com/album/3EeCAQiNJn4hfIkn5lnbOq) | 4:22 |
-| 18 | [Undercover groupie](https://open.spotify.com/track/5J3LukZ9j5hoPIeRUPj6Hs) | [Protect](https://open.spotify.com/artist/14Ah9L7Sei8VOOty0tZrOR) | [Undercover groupie](https://open.spotify.com/album/3gwc5ic8nuDtHgwrRYzD5x) | 2:20 |
-| 19 | [Tic Tac Toe \(with Ken Carson\)](https://open.spotify.com/track/0YgyE3xIbYNzYhaPPHqrXJ) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [DOPAMINE](https://open.spotify.com/album/0CLqdKIh14TmKqLZCs9dml) | 2:57 |
+| 16 | [open it up \(with Ken Carson\)](https://open.spotify.com/track/3Lir4xFT8g2t923T7d2Xmq) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [</3³](https://open.spotify.com/album/3EeCAQiNJn4hfIkn5lnbOq) | 4:22 |
+| 17 | [Undercover groupie](https://open.spotify.com/track/5J3LukZ9j5hoPIeRUPj6Hs) | [Protect](https://open.spotify.com/artist/14Ah9L7Sei8VOOty0tZrOR) | [Undercover groupie](https://open.spotify.com/album/3gwc5ic8nuDtHgwrRYzD5x) | 2:20 |
+| 18 | [Tic Tac Toe \(with Ken Carson\)](https://open.spotify.com/track/0YgyE3xIbYNzYhaPPHqrXJ) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [DOPAMINE](https://open.spotify.com/album/0CLqdKIh14TmKqLZCs9dml) | 2:57 |
+| 19 | [Vivienne Westwood / RIP](https://open.spotify.com/track/6lIxsbZ2A9WwrapGOPep3h) | [Nine Vicious](https://open.spotify.com/artist/6Rs7Ufqb4h0FTuVg6wlqOy) | [EMOTIONS](https://open.spotify.com/album/0JOapIHLzCzmqCAZf8OYy1) | 4:04 |
 | 20 | [Sloppy Joe](https://open.spotify.com/track/3JZO1MJaqB34F8fvkMjzPo) | [slayr](https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA) | [Half Blood](https://open.spotify.com/album/4M1Gzy271EuRkCAcW5HAFa) | 2:26 |
 | 21 | [Kittens](https://open.spotify.com/track/6z8bgsZktppOfBkCEGzTMN) | [Che](https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF) | [Fully Loaded](https://open.spotify.com/album/0XoJlVEGM9R0t6py51jkae) | 2:16 |
 | 22 | [EXTREME](https://open.spotify.com/track/4Y6OEfE3axE1hIkeCgncav) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [MANIA](https://open.spotify.com/album/3Ot1gTcCdtkhyce9yrc4Wj) | 3:04 |
 | 23 | [Blakk Rokkstar](https://open.spotify.com/track/7IzutleLK1419FM8rUpYmq) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [More Chaos](https://open.spotify.com/album/3tIS7SDlvbyJ0oFQzNqjco) | 3:50 |
-| 24 | [JUMPIN](https://open.spotify.com/track/2sABxyWikItSP31WOu3fup) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [JUMPIN](https://open.spotify.com/album/1AkmRGpbgD6jTHiKBezVEu) | 1:09 |
+| 24 | [No Compadre](https://open.spotify.com/track/2IzcwHQ6uv1geOvCszrO4P) | [Sk8star](https://open.spotify.com/artist/2PAnRRa7mwTO0WArmY1vCc) | [Designer Junkie](https://open.spotify.com/album/6Eb3spgLo0qXfgTdP1kxjd) | 2:04 |
 | 25 | [PUT IT ONG](https://open.spotify.com/track/6CgbSOe4GooCaxkyMJToze) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [DANGEROUS SUMMER](https://open.spotify.com/album/61PCQeDaTD2gwfpHFikpbh) | 2:37 |
 | 26 | [God's Time](https://open.spotify.com/track/0oEvPOea1YuOMNipjZ07kq) | [Melly Mike](https://open.spotify.com/artist/16eXn6niv96hqDHgmK6E1M) | [God's Time](https://open.spotify.com/album/5wtfGYkBENiyeiPZ8Ci9Ve) | 2:36 |
 | 27 | [5G](https://open.spotify.com/track/08j2Jh51yVfb9sD33TAPYJ) | [HXG](https://open.spotify.com/artist/6N2Q9haXoRiIiSQTRv9MSb) | [5G](https://open.spotify.com/album/79nZhu9My4y3JRzooOkCoL) | 3:26 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7e6SyPRzzx0.md) - [plain]
 | 64 | [The Grinch](https://open.spotify.com/track/2VKHWIONh47ntN7wyoSxEQ) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [A Love Letter To You 4](https://open.spotify.com/album/5nDqjtvRwDYElIflvoNDdE) | 1:31 |
 | 65 | [if looks could kill](https://open.spotify.com/track/7cFLFmj3fLV5wxhcFfol7u) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [If Looks Could Kill](https://open.spotify.com/album/2Sl8X3Uu2N4B2pVa9y5U29) | 3:14 |
 
-Snapshot ID: `AAAAAKCIjItUKTlln3dc+Q2K89c7R+yU`
+Snapshot ID: `AAAAAHGayXOCpOcqoC4zZRgV1NpZdZp5`

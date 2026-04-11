@@ -4,7 +4,7 @@
 
 > J\-Hip Hopの最新注目曲をまとめてチェック cover: Kohjiya \*水曜更新。マイライブラリに保存して毎週チェックしよう
 
-2,414 songs - 5 day 1 hr 32 min
+2,415 songs - 5 day 1 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -700,6 +700,7 @@
 | [Future Self](https://open.spotify.com/track/0lxZCPmu1KSRbUTcHknnNx) | [Only U](https://open.spotify.com/artist/7p5yGL3yNq2pqUUKvt2vnt) | [Future Self](https://open.spotify.com/album/75EUhGVRM5BtUPK78epxOH) | 2:25 | 2024-11-27 | 2024-12-18 |
 | [G\-Class](https://open.spotify.com/track/47DbOztDvmgPHbqPEL1cb0) | [018](https://open.spotify.com/artist/09nnt8eDrHlZtp6XPusqaN), [¥OUNG ARM¥](https://open.spotify.com/artist/2Mgtxy03Xbwwk2ZqABZ00Q) | [G\-Class](https://open.spotify.com/album/3fhUJ0yY7ZRGAwGj47mw8V) | 2:19 | 2024-03-12 | 2024-03-22 |
 | [G.O.A.T](https://open.spotify.com/track/1uApzLM9ksJn4CqWuMrBKZ) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK), [Chaki Zulu](https://open.spotify.com/artist/1OZZwe2ji8xjfVC8qjrQup) | [G.O.A.T / Never Disappoint](https://open.spotify.com/album/2tvMrD9fO4DfL2xMXeWTR9) | 1:40 | 2024-08-07 | 2024-10-05 |
+| [G.U.I.](https://open.spotify.com/track/4CM50Ga1MPU4OIJm3Y2jcS) | [Nitro Microphone Underground](https://open.spotify.com/artist/2Zc6sm77bsQ92QvXQ73iP9) | [G.U.I.](https://open.spotify.com/album/2e5hhg16o9OUGL4dCKn9Mm) | 3:18 | 2026-04-10 |  |
 | [GAME](https://open.spotify.com/track/7yv94wC27T0kMeEmRX7o2s) | [JASS](https://open.spotify.com/artist/4c25QyMjYv7MSQV24Qhofv) | [GAME](https://open.spotify.com/album/1M9wTYLjBvsoNNufp789Bo) | 3:24 | 2025-04-15 | 2025-04-23 |
 | [GAME CHANGER](https://open.spotify.com/track/01q7lwYasb1eu3bjHNpjiW) | [Pxrge Trxxxper](https://open.spotify.com/artist/4IxdeBhAksJLxEMRzvdWie) | [GAME CHANGER](https://open.spotify.com/album/1m1BQTRVB0ePAPEpH8fhdJ) | 2:34 | 2026-03-13 |  |
 | [GARY PAYTON](https://open.spotify.com/track/231qzPrKFz7py1Ce6MlmXV) | [Kapsoul](https://open.spotify.com/artist/4MfpSSOsKtg5bSBpeXCuP8), [Senninsho](https://open.spotify.com/artist/36KtDuRQm38x36q30tnqOD) | [ASCENT](https://open.spotify.com/album/3HTOnKukMs0RuZwzPryPoY) | 3:11 | 2024-04-02 | 2024-05-01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover: ivri
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,089 likes - 54 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,093 likes - 54 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 43 | [w\-w\-w\-w\-w](https://open.spotify.com/track/65ELRFojRCRWHEyYDA5AQd) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [w\-w\-w\-w\-w](https://open.spotify.com/album/5wICjFM6k0RJow9l8anfuk) | 4:26 |
 | 44 | [Manicure](https://open.spotify.com/track/3mxV6itnOB6PSCLtIrYFY3) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Manicure](https://open.spotify.com/album/0E09rOqWHosiaaK0hFNBoT) | 2:01 |
 | 45 | [miau](https://open.spotify.com/track/2Z7EkSkuK9oAnTN7AyRwMq) | [Nina del Río](https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd) | [miau](https://open.spotify.com/album/6rJ72wMDmU2SMehEoVG7Ts) | 3:26 |
-| 46 | [back 2 u](https://open.spotify.com/track/32hCv3uH5eZrQyiwKUbfUq) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj) | [MUSIC 4 DANCING](https://open.spotify.com/album/4Ktfjs4DfhzMJ1gcK6NS91) | 4:08 |
-| 47 | [Change The Man](https://open.spotify.com/track/10BWPBIJFx3RPgJfTKS15N) | [Abbey Cone](https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct) | [Change The Man](https://open.spotify.com/album/5rlZ8t1zTFpFPQPOiVUEbO) | 3:31 |
+| 46 | [Change The Man](https://open.spotify.com/track/10BWPBIJFx3RPgJfTKS15N) | [Abbey Cone](https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct) | [Change The Man](https://open.spotify.com/album/5rlZ8t1zTFpFPQPOiVUEbO) | 3:31 |
+| 47 | [back 2 u](https://open.spotify.com/track/32hCv3uH5eZrQyiwKUbfUq) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj) | [MUSIC 4 DANCING](https://open.spotify.com/album/4Ktfjs4DfhzMJ1gcK6NS91) | 4:08 |
 | 48 | [Blame it on You](https://open.spotify.com/track/3pbMaEhDQyiOR9y3i0vibJ) | [Ally Evenson](https://open.spotify.com/artist/6UzwpF9cqjxgxXb2N6mb7y) | [Blame it on You](https://open.spotify.com/album/08hBBBR5U52B6IRW77uLnq) | 3:05 |
 | 49 | [NOT TODAY](https://open.spotify.com/track/1tXniZMdXRV8FyUZHN51eS) | [Kim Gordon](https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx) | [NOT TODAY](https://open.spotify.com/album/0CN3gBzAW6mYrtmyBavIqs) | 3:35 |
 | 50 | [Volcano](https://open.spotify.com/track/3MJA1vEuDATierADDMEJep) | [Girl Tones](https://open.spotify.com/artist/1Tq0nryXkwLARcHDMIZbY6) | [Volcano](https://open.spotify.com/album/4TrWXcgGPCnLlI0MlUharD) | 2:28 |

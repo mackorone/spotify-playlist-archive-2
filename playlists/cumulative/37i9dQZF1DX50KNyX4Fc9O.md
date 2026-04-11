@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of pop\. Cover: Teddy Swims
 
-2,646 songs - 5 day 16 hr 46 min
+2,647 songs - 5 day 16 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -434,6 +434,7 @@
 | [cold medicine](https://open.spotify.com/track/5UgbDqJYYckCKtAjfBtoy2) | [tiffi](https://open.spotify.com/artist/4bQCZKbtYa0W0hzA7JrpC4) | [cold medicine](https://open.spotify.com/album/5dcGyDegN1gG3xgf485Bkz) | 3:27 | 2024-06-13 | 2024-07-19 |
 | [collide](https://open.spotify.com/track/5MDjnOt0WLXp4GD56V1FUK) | [ETHAN](https://open.spotify.com/artist/5oqtu58F4NZtVlCamsdmdq) | [collide](https://open.spotify.com/album/5wGOOWVGtpcZrL4SuCLtQd) | 2:51 | 2024-10-03 | 2024-11-22 |
 | [Combust](https://open.spotify.com/track/0ovcYLTYKuN7cwOdDtnUCP) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Combust](https://open.spotify.com/album/7MCaVHM9Od0utS2fcJdMh3) | 2:18 | 2025-07-17 | 2025-09-05 |
+| [Come Clean \(Mine\)](https://open.spotify.com/track/6S4sV7WYDoDe4J1gNK94BN) | [Hilary Duff](https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h) | [Come Clean \(Mine\)](https://open.spotify.com/album/3V26cVzumQsFbpNwETjYJp) | 3:33 | 2026-04-10 |  |
 | [Come On Home](https://open.spotify.com/track/43ztgjIjYzPWJlu3E9jDo0) | [MOHI](https://open.spotify.com/artist/7Js2UhLghB9qaiZRfK275R) | [Elements of Aroha](https://open.spotify.com/album/7EmOeUPJC7yTokftNG6YuM) | 3:07 | 2023-10-26 | 2023-12-08 |
 | [Come Over](https://open.spotify.com/track/6efcMTYO2lJ0zcpQEPk8m1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT](https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2) | 2:17 | 2025-03-13 | 2025-04-25 |
 | [comedown](https://open.spotify.com/track/0WP2mSrYIXEy2poZkAWlNZ) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [comedown](https://open.spotify.com/album/4r6XmJdluBTzkNjYtR3ABh) | 3:12 | 2025-06-12 | 2025-08-01 |
@@ -1886,7 +1887,7 @@
 | [RUNNING 4 MY LIFE!](https://open.spotify.com/track/0i92LaizSBPnJ366pOkOdK) | [Mia Rodriguez](https://open.spotify.com/artist/7Hsfh7YZzoyojYWQeMSHID) | [RUNNING 4 MY LIFE!](https://open.spotify.com/album/3rI5bC0bSsk8ZV5aYNJrk1) | 3:13 | 2024-11-07 | 2025-01-17 |
 | [Running From It](https://open.spotify.com/track/1EWBhffylP2QaNch5A2GS7) | [benison](https://open.spotify.com/artist/6aKBKqmDZu6UHkCmEQ9BTO) | [Running From It](https://open.spotify.com/album/7iOYxi5Z68Lg6IEiC9iXVG) | 2:55 | 2023-11-16 | 2023-12-22 |
 | [Running Out Of Time](https://open.spotify.com/track/3H5cGzWfaWla53nt7Craeh) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Running Out Of Time](https://open.spotify.com/album/4c24YVXh460XLcuAcro3Z0) | 3:34 | 2024-06-27 | 2024-07-27 |
-| [Runway](https://open.spotify.com/track/7BjcYqD0CqXnG45ezWSTYR) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Runway](https://open.spotify.com/album/0WY1wVmchFYlH4f1yZMc90) | 2:51 | 2026-04-10 |  |
+| [RUNWAY](https://open.spotify.com/track/7BjcYqD0CqXnG45ezWSTYR) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [RUNWAY](https://open.spotify.com/album/0WY1wVmchFYlH4f1yZMc90) | 2:51 | 2026-04-10 |  |
 | [Rush](https://open.spotify.com/track/3xIMkM5LgbVDkpO74O3Np3) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Rush](https://open.spotify.com/album/35N2XoH2rveqI5FAB30HSf) | 2:36 | 2023-07-13 | 2023-09-01 |
 | [S.M.O.](https://open.spotify.com/track/7v5VghHzM0iIoSQXGuZNzb) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [S.M.O.](https://open.spotify.com/album/7ilhlxCjjjIXwlpnJ8xuUy) | 4:30 | 2025-06-19 | 2025-07-18 |
 | [S91](https://open.spotify.com/track/7EpOXgSRgnglRWr86pZfGU) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [S91](https://open.spotify.com/album/0bgvd5Xd52TX61R8uhaISK) | 2:53 | 2023-07-13 | 2023-08-11 |

@@ -1294,7 +1294,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 203363,
       "name": "Healing Waterfalls Pink Noise",
       "url": "https://open.spotify.com/track/0fIBhgMPcEByakKwJzZOG2"
@@ -2057,6 +2057,24 @@
     },
     {
       "album": {
+        "name": "Rosefall Sleep",
+        "url": "https://open.spotify.com/album/0g5I60bI4iTerrLwvtSxPt"
+      },
+      "artists": [
+        {
+          "name": "Inscription",
+          "url": "https://open.spotify.com/artist/0MlpjV25yBPHGlsGnsWVYy"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140650,
+      "name": "Pink Baby Dreams",
+      "url": "https://open.spotify.com/track/6B6XrEpZPGjNT8ZsS1IAcw"
+    },
+    {
+      "album": {
         "name": "Pink Background Noise",
         "url": "https://open.spotify.com/album/4TK2CQSaJYfDwE9HfpAp2Y"
       },
@@ -2140,7 +2158,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 186500,
       "name": "Pink Clouds",
       "url": "https://open.spotify.com/track/3jqF7nmGf0OSCfSrgsVzhH"
@@ -2630,6 +2648,24 @@
       "duration_ms": 208000,
       "name": "Pink Noise Balance",
       "url": "https://open.spotify.com/track/6RWo80soxwN9KIWJmZWB86"
+    },
+    {
+      "album": {
+        "name": "Pink Noise for Deep Sleep",
+        "url": "https://open.spotify.com/album/7GRt0kKUZ5dKKFkaEH4LFx"
+      },
+      "artists": [
+        {
+          "name": "Fernlight",
+          "url": "https://open.spotify.com/artist/0gzohBQTYAhTkkEhWbdnAK"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152454,
+      "name": "Pink Noise Bedtime",
+      "url": "https://open.spotify.com/track/7r6ObA5gzPClUhDtP8X5SU"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 305 likes - 2,127 songs - 5 day 6 hr 10 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 306 likes - 2,132 songs - 5 day 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2135,5 +2135,10 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2125 | [Despedida](https://open.spotify.com/track/7rriesN8nZhU9kMQ2fQ3Os) | [Nine Angel](https://open.spotify.com/artist/1Lc1Ou5z78fgizSFbUlj8Y) | [Despedida](https://open.spotify.com/album/5TSyEf8knXO3LWYNmHLOYJ) | 2:58 |
 | 2126 | [Listen](https://open.spotify.com/track/77kzqKHULo3dpcAWyOLwOy) | [Elevator Operator](https://open.spotify.com/artist/146hY314HEGttVHczyZf8T) | [Future Self](https://open.spotify.com/album/3gN3dfsigjmVngomnGnXLO) | 3:25 |
 | 2127 | [Baila Sin Final](https://open.spotify.com/track/2Iqu1rqtEvm7q7N6sFXRUl) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Baila Sin Final](https://open.spotify.com/album/5vwVcXxmIBVLtxnB1IENtm) | 3:07 |
+| 2128 | [Crown \(Misled Convoy's Shadows of Humanity Remix\)](https://open.spotify.com/track/7IH90Vxc2w4J9uGMVnwm9n) | [Italiks](https://open.spotify.com/artist/3XYboWxy55uHJ7oUQjwWJl), [Deep Fried Dub](https://open.spotify.com/artist/6ZMosuCoP5uGcPubpW9kQX), [Misled Convoy](https://open.spotify.com/artist/7MBKunpbP0Iz8b9Wx1SSVu) | [Translations IV](https://open.spotify.com/album/1xRVYWKUqSsbiDXGUZmIOu) | 6:18 |
+| 2129 | [Odyssey](https://open.spotify.com/track/1nwjUYSbzhN050UZGEzHzE) | [ARBN](https://open.spotify.com/artist/1nVYJWThC8pLbjdniuPSfE) | [Odyssey](https://open.spotify.com/album/3zeVxRjNVV2l4cUMgTMNfy) | 3:02 |
+| 2130 | [The Only One](https://open.spotify.com/track/1FIa3ox06ehPePdtqDkPdT) | [Alex Gabriel](https://open.spotify.com/artist/42d97fn8MuX8haj1vzuWeH) | [In the Mood](https://open.spotify.com/album/7roJ1tKgqS4cd7YrEewO0b) | 3:34 |
+| 2131 | [قولي لية \( السكة ضاقت \)](https://open.spotify.com/track/09SbdmnCu4cyMrrBynK5M5) | [AFROTO Beats](https://open.spotify.com/artist/3nCLSI5jV4qNit9F2hgrq0), [Super Mono](https://open.spotify.com/artist/76VzYrqb4WDRVNBimbYsWt), [Ahmed M Farid](https://open.spotify.com/artist/7I6twl0w4JIsFe7howLGLk) | [قولي لية \( السكة ضاقت \)](https://open.spotify.com/album/4a62YKi3au42STNxvedOZl) | 3:47 |
+| 2132 | [Ese 50 por Ciento de Tí](https://open.spotify.com/track/3zd6Dwc501K5MpMsGHfXkh) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Ese 50 por Ciento de Tí](https://open.spotify.com/album/47apSpjxWLbQqeo0xZqfFQ) | 3:23 |
 
-Snapshot ID: `AAAI86wm/2O3hFssoCNpy/XNmP+UKCbl`
+Snapshot ID: `AAAI+PdRBGdxf5056ZgoAyGLKSqCLBZa`

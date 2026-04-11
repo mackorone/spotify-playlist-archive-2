@@ -4,7 +4,7 @@
 
 > Türkçe pop'un hit şarkıları ve zirveye oynayanlar\.  Kapak: Bahadır Tatlıöz
 
-585 songs - 1 day 6 hr 11 min
+585 songs - 1 day 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -464,7 +464,7 @@
 | [Seviyore Mi](https://open.spotify.com/track/03akFZOY1Gpe6gnBjq3ZzM) | [Nazan Öncel](https://open.spotify.com/artist/4li4dx5mFgZlMVeHlARBHP) | [Seviyore Mi](https://open.spotify.com/album/4wZIEKXg8VAFfFtgkH9MOw) | 2:22 | 2024-07-11 | 2024-07-19 |
 | [Seviyorum Sevmiyorum](https://open.spotify.com/track/59Y3fqKKlBFcoA6huDHBP3) | [Ahmet Hatipoğlu](https://open.spotify.com/artist/2sOq4hJZRAybcz8AvKjDK4) | [Seviyorum Sevmiyorum](https://open.spotify.com/album/5EBa8wKV82f6ufSisuiVWO) | 2:05 | 2025-06-05 | 2025-06-20 |
 | [Sokağından Geçmezdim](https://open.spotify.com/track/0cfSvO87qn9LtYRpkxSfq4) | [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D) | [Sokağından Geçmezdim](https://open.spotify.com/album/4HgYFr8tGOZ2oZ7RGGpJlK) | 3:58 | 2025-07-17 | 2025-08-16 |
-| [Soktuğu Duruma Bak \- Live](https://open.spotify.com/track/5qw5ySJcUT22EIqUf35QhG) | [Murat Dalkılıç](https://open.spotify.com/artist/6dDaXbE1caD65TONToYXYx) | [Soktuğu Duruma Bak \(Live\)](https://open.spotify.com/album/5stDqLXJIRlTamUj8BfPrV) | 3:16 | 2026-04-09 |  |
+| [Soktuğu Duruma Bak \- Live](https://open.spotify.com/track/5qw5ySJcUT22EIqUf35QhG) | [Murat Dalkılıç](https://open.spotify.com/artist/6dDaXbE1caD65TONToYXYx) | [Soktuğu Duruma Bak \(Live\)](https://open.spotify.com/album/5stDqLXJIRlTamUj8BfPrV) | 4:16 | 2026-04-09 |  |
 | [SON DAMLA](https://open.spotify.com/track/46Hogr85yq2tbM2Kaet3k9) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf), [Sertab Erener](https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s) | [SON DAMLA](https://open.spotify.com/album/2Xk1nMDwkSm5rjlIkhwdmE) | 3:53 | 2025-04-24 | 2025-05-23 |
 | [Sonralar Bizim Değil](https://open.spotify.com/track/7w79el56NrDPPOWl0e1p1f) | [Yalın](https://open.spotify.com/artist/46zuW8tHxwahYn7VNMgYTa) | [Sonralar Bizim Değil](https://open.spotify.com/album/4urqNeWISQJem6JjSPrD7U) | 3:25 | 2025-07-17 | 2025-08-01 |
 | [Sonuna Kadar](https://open.spotify.com/track/6dUGHAYukIKfy2R0JpnC40) | [Pamela](https://open.spotify.com/artist/3JAjt6oAXVTMvCYHsc0tIC) | [Sonuna Kadar](https://open.spotify.com/album/6PSBptkyFXslRDf9EpdHiI) | 3:44 | 2026-03-05 | 2026-03-20 |

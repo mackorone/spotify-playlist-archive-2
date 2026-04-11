@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ASuQophyb3.md) - [plain]
 
 > Türkçe pop'un hit şarkıları ve zirveye oynayanlar\.  Kapak: Bahadır Tatlıöz
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,548,045 likes - 49 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,548,044 likes - 49 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ASuQophyb3.md) - [plain]
 | 15 | [Isırgan](https://open.spotify.com/track/5ygYby3Yh2PMqfFuYxhOGy) | [Duygu Soylu](https://open.spotify.com/artist/4rGbEwbyxCn54KVvV589AY), [Özgün](https://open.spotify.com/artist/2DJNQjrMqbyGFax9mgHm3f) | [Isırgan](https://open.spotify.com/album/4eUTNrK1HCYBCXJWhAFROO) | 3:46 |
 | 16 | [Üzgünüm \(Talu Şarkıları\)](https://open.spotify.com/track/5V2PVVkNhtCyZoG9QmLNGN) | [Mela Bedel](https://open.spotify.com/artist/55WpZ8ig2SFNvQpDHPUrgY) | [Üzgünüm \(Talu Şarkıları\)](https://open.spotify.com/album/4xkzKuxxgfD1hsjEhDWfTn) | 4:15 |
 | 17 | [Alev Alev](https://open.spotify.com/track/1WdxT2e911rVjftB39zwGN) | [Göksel](https://open.spotify.com/artist/4i4ALRtQQmFxn3BCIB6iC0) | [Alev Alev](https://open.spotify.com/album/5oZIUTaTxhRE63CdtpWI0z) | 2:45 |
-| 18 | [Soktuğu Duruma Bak \- Live](https://open.spotify.com/track/5qw5ySJcUT22EIqUf35QhG) | [Murat Dalkılıç](https://open.spotify.com/artist/6dDaXbE1caD65TONToYXYx) | [Soktuğu Duruma Bak \(Live\)](https://open.spotify.com/album/5stDqLXJIRlTamUj8BfPrV) | 3:16 |
+| 18 | [Soktuğu Duruma Bak \- Live](https://open.spotify.com/track/5qw5ySJcUT22EIqUf35QhG) | [Murat Dalkılıç](https://open.spotify.com/artist/6dDaXbE1caD65TONToYXYx) | [Soktuğu Duruma Bak \(Live\)](https://open.spotify.com/album/5stDqLXJIRlTamUj8BfPrV) | 4:16 |
 | 19 | [Erkekler De Yanar](https://open.spotify.com/track/6Q1hUPbagIyzr8Bhx4XUS9) | [Nazan Öncel](https://open.spotify.com/artist/4li4dx5mFgZlMVeHlARBHP), [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Erkekler De Yanar](https://open.spotify.com/album/2VKK7GgndPhA8tdaW4omZU) | 3:09 |
 | 20 | [Gel](https://open.spotify.com/track/5zUWw3yj83bZVkkCMa11Eu) | [Umur Doma](https://open.spotify.com/artist/2kv6srmlOrk6584oHo4XGj), [Hande Ünsal](https://open.spotify.com/artist/6YapGsI8u59kfewJjjJ2LJ) | [Gel](https://open.spotify.com/album/6laK7g3UFya62bl36AmMrq) | 2:44 |
 | 21 | [Evleniyormuş](https://open.spotify.com/track/2EpPXUcXdlepTyVWaCvWE2) | [Melek Mosso](https://open.spotify.com/artist/5IAxUWLiTMsvc1oWPrczNj), [Hatice Mosso](https://open.spotify.com/artist/3001OPiZN1GpLPAoya2P5B) | [Evleniyormuş](https://open.spotify.com/album/66AqzOuZm36CXEak7oIqAc) | 3:37 |

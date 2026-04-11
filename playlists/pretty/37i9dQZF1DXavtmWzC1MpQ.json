@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 154848,
+  "num_followers": 154832,
   "original_name": "Sons da Natureza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD4hOlLmdgxZ4PEi1wpog0o+dOwk",
+  "snapshot_id": "AAAAABZZxGmTlzHoTCOeJoLHS6DDCrkW",
   "tracks": [
     {
       "added_at": "2026-04-02 09:58:26",
@@ -203,6 +203,22 @@
     {
       "added_at": "2026-04-02 09:58:26",
       "album": {
+        "name": "Soft Rain",
+        "url": "https://open.spotify.com/album/5n24EJXwP5gq45z1kSYeJ4"
+      },
+      "artists": [
+        {
+          "name": "Hayden Ball",
+          "url": "https://open.spotify.com/artist/3QxIQABLndsIIpNMwllbGs"
+        }
+      ],
+      "duration_ms": 107877,
+      "name": "Forest Path Rain",
+      "url": "https://open.spotify.com/track/71XK20gRx6drD3M2VIH1q0"
+    },
+    {
+      "added_at": "2026-04-02 09:58:26",
+      "album": {
         "name": "Soothing Rain Songs",
         "url": "https://open.spotify.com/album/15CC9woREqBQPmVNOIfoQg"
       },
@@ -223,22 +239,6 @@
     {
       "added_at": "2026-04-02 09:58:26",
       "album": {
-        "name": "Soft Rain",
-        "url": "https://open.spotify.com/album/5n24EJXwP5gq45z1kSYeJ4"
-      },
-      "artists": [
-        {
-          "name": "Hayden Ball",
-          "url": "https://open.spotify.com/artist/3QxIQABLndsIIpNMwllbGs"
-        }
-      ],
-      "duration_ms": 107877,
-      "name": "Forest Path Rain",
-      "url": "https://open.spotify.com/track/71XK20gRx6drD3M2VIH1q0"
-    },
-    {
-      "added_at": "2026-04-02 09:58:26",
-      "album": {
         "name": "Woodland Drops",
         "url": "https://open.spotify.com/album/716VqOhfwuYQ8dwRpudU2d"
       },
@@ -251,6 +251,22 @@
       "duration_ms": 138103,
       "name": "Woodland Drops",
       "url": "https://open.spotify.com/track/6yHL4GvpL9m5JqToTuG014"
+    },
+    {
+      "added_at": "2026-04-02 09:58:26",
+      "album": {
+        "name": "Noise of Green",
+        "url": "https://open.spotify.com/album/3Wb2WiFkdvJMoAu4BS46YL"
+      },
+      "artists": [
+        {
+          "name": "El Tiempo Central",
+          "url": "https://open.spotify.com/artist/2jrgRXoeKU9D8qrOcnS9fZ"
+        }
+      ],
+      "duration_ms": 116987,
+      "name": "Wind My Waterfall",
+      "url": "https://open.spotify.com/track/5v7R6BktiMgdeBfTfy8Sqy"
     },
     {
       "added_at": "2026-04-02 09:58:26",
@@ -287,22 +303,6 @@
     {
       "added_at": "2026-04-02 09:58:26",
       "album": {
-        "name": "Noise of Green",
-        "url": "https://open.spotify.com/album/3Wb2WiFkdvJMoAu4BS46YL"
-      },
-      "artists": [
-        {
-          "name": "El Tiempo Central",
-          "url": "https://open.spotify.com/artist/2jrgRXoeKU9D8qrOcnS9fZ"
-        }
-      ],
-      "duration_ms": 116987,
-      "name": "Wind My Waterfall",
-      "url": "https://open.spotify.com/track/5v7R6BktiMgdeBfTfy8Sqy"
-    },
-    {
-      "added_at": "2026-04-02 09:58:26",
-      "album": {
         "name": "Peaceful Rain Recordings",
         "url": "https://open.spotify.com/album/4DlF8SX13AdB37uKVgMziM"
       },
@@ -335,22 +335,6 @@
     {
       "added_at": "2026-04-02 09:58:26",
       "album": {
-        "name": "Rainmaker",
-        "url": "https://open.spotify.com/album/6HnBgCITUNtLIO5flO1ex5"
-      },
-      "artists": [
-        {
-          "name": "Pinetree Way",
-          "url": "https://open.spotify.com/artist/3nGR9SAynFBCiRqx1NiU67"
-        }
-      ],
-      "duration_ms": 230983,
-      "name": "Rain Forest Meditation",
-      "url": "https://open.spotify.com/track/1uBwQtsJkaMNcr8uNLsKMF"
-    },
-    {
-      "added_at": "2026-04-02 09:58:26",
-      "album": {
         "name": "Streaming Waters",
         "url": "https://open.spotify.com/album/2S1r91o8tF7X2mxaT8DV4A"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 201429,
       "name": "Andorran Forest River",
       "url": "https://open.spotify.com/track/6RybNJHwhOCOWUfih3xIek"
+    },
+    {
+      "added_at": "2026-04-02 09:58:26",
+      "album": {
+        "name": "Rainmaker",
+        "url": "https://open.spotify.com/album/6HnBgCITUNtLIO5flO1ex5"
+      },
+      "artists": [
+        {
+          "name": "Pinetree Way",
+          "url": "https://open.spotify.com/artist/3nGR9SAynFBCiRqx1NiU67"
+        }
+      ],
+      "duration_ms": 230983,
+      "name": "Rain Forest Meditation",
+      "url": "https://open.spotify.com/track/1uBwQtsJkaMNcr8uNLsKMF"
     },
     {
       "added_at": "2026-04-02 09:58:26",
@@ -419,22 +419,6 @@
     {
       "added_at": "2026-04-02 09:58:26",
       "album": {
-        "name": "Terapheutic Thunder",
-        "url": "https://open.spotify.com/album/33SfeV8Cn3Czw2Kj9iN0I3"
-      },
-      "artists": [
-        {
-          "name": "Y\u00f9h\u00e9 \u6108\u5408",
-          "url": "https://open.spotify.com/artist/1FhDUTdr5dsdGbOIKiVmkD"
-        }
-      ],
-      "duration_ms": 134313,
-      "name": "Presence of Thor",
-      "url": "https://open.spotify.com/track/4WJQ1YkXPfcNZyg5jZbCCQ"
-    },
-    {
-      "added_at": "2026-04-02 09:58:26",
-      "album": {
         "name": "Tr\u00f3pico",
         "url": "https://open.spotify.com/album/6lGtzT3i9uBtT20lJtrrQT"
       },
@@ -455,22 +439,6 @@
     {
       "added_at": "2026-04-02 09:58:26",
       "album": {
-        "name": "Soothing Birdsong by the River",
-        "url": "https://open.spotify.com/album/5Lf0jb8zb9ylmubTVx6xtf"
-      },
-      "artists": [
-        {
-          "name": "El Naturel",
-          "url": "https://open.spotify.com/artist/2OSqVGR0G4PUJkOskabGEX"
-        }
-      ],
-      "duration_ms": 175813,
-      "name": "Singing Birds by the Stream",
-      "url": "https://open.spotify.com/track/4x01eyysDx5Y4xS1LP6nHK"
-    },
-    {
-      "added_at": "2026-04-02 09:58:26",
-      "album": {
         "name": "Natural Forest Quiet",
         "url": "https://open.spotify.com/album/4vGRrXTak44ULC7tS2v25Q"
       },
@@ -483,6 +451,38 @@
       "duration_ms": 148400,
       "name": "Natural Forest Quiet",
       "url": "https://open.spotify.com/track/7pY9vYk2s9VTggqqPQ9kI2"
+    },
+    {
+      "added_at": "2026-04-02 09:58:26",
+      "album": {
+        "name": "Terapheutic Thunder",
+        "url": "https://open.spotify.com/album/33SfeV8Cn3Czw2Kj9iN0I3"
+      },
+      "artists": [
+        {
+          "name": "Y\u00f9h\u00e9 \u6108\u5408",
+          "url": "https://open.spotify.com/artist/1FhDUTdr5dsdGbOIKiVmkD"
+        }
+      ],
+      "duration_ms": 134313,
+      "name": "Presence of Thor",
+      "url": "https://open.spotify.com/track/4WJQ1YkXPfcNZyg5jZbCCQ"
+    },
+    {
+      "added_at": "2026-04-02 09:58:26",
+      "album": {
+        "name": "Soothing Birdsong by the River",
+        "url": "https://open.spotify.com/album/5Lf0jb8zb9ylmubTVx6xtf"
+      },
+      "artists": [
+        {
+          "name": "El Naturel",
+          "url": "https://open.spotify.com/artist/2OSqVGR0G4PUJkOskabGEX"
+        }
+      ],
+      "duration_ms": 175813,
+      "name": "Singing Birds by the Stream",
+      "url": "https://open.spotify.com/track/4x01eyysDx5Y4xS1LP6nHK"
     },
     {
       "added_at": "2026-04-02 09:58:26",
@@ -555,6 +555,22 @@
     {
       "added_at": "2026-04-02 09:58:26",
       "album": {
+        "name": "Riverlight Through Leaves",
+        "url": "https://open.spotify.com/album/4eO9Q2g6EAwyvvkN4JtqQV"
+      },
+      "artists": [
+        {
+          "name": "Nature's Essence",
+          "url": "https://open.spotify.com/artist/0JklQwIpSXSIxaSP1IbT8j"
+        }
+      ],
+      "duration_ms": 181132,
+      "name": "Riverlight Through Leaves",
+      "url": "https://open.spotify.com/track/08WqDRfDIHCroRHoYuAP66"
+    },
+    {
+      "added_at": "2026-04-02 09:58:26",
+      "album": {
         "name": "Still the River Flows",
         "url": "https://open.spotify.com/album/4bc5XFLY6bQ53TB4seBef0"
       },
@@ -587,34 +603,18 @@
     {
       "added_at": "2026-04-02 09:58:26",
       "album": {
-        "name": "Sunny Windy Day",
-        "url": "https://open.spotify.com/album/573klMlAI4BNEDicxHqZ9g"
+        "name": "Calm Green Wave Sounds",
+        "url": "https://open.spotify.com/album/6bx52OyqGSwW8oCpooPjTT"
       },
       "artists": [
         {
-          "name": "Natural Song",
-          "url": "https://open.spotify.com/artist/3ztSSZCBD8e03TBMqPTQF3"
+          "name": "EFX Mirelight",
+          "url": "https://open.spotify.com/artist/1xC1qS9lztnzURXtrrXFuv"
         }
       ],
-      "duration_ms": 248000,
-      "name": "Sunny Windy Day",
-      "url": "https://open.spotify.com/track/2Eej9iJAvO0Ar1RYrwfTl5"
-    },
-    {
-      "added_at": "2026-04-02 09:58:26",
-      "album": {
-        "name": "Riverlight Through Leaves",
-        "url": "https://open.spotify.com/album/4eO9Q2g6EAwyvvkN4JtqQV"
-      },
-      "artists": [
-        {
-          "name": "Nature's Essence",
-          "url": "https://open.spotify.com/artist/0JklQwIpSXSIxaSP1IbT8j"
-        }
-      ],
-      "duration_ms": 181132,
-      "name": "Riverlight Through Leaves",
-      "url": "https://open.spotify.com/track/08WqDRfDIHCroRHoYuAP66"
+      "duration_ms": 104374,
+      "name": "Calming Creek",
+      "url": "https://open.spotify.com/track/5R113kfoXvoFBlIPpUUuRd"
     },
     {
       "added_at": "2026-04-02 09:58:26",
@@ -635,6 +635,22 @@
     {
       "added_at": "2026-04-02 09:58:26",
       "album": {
+        "name": "Sunny Windy Day",
+        "url": "https://open.spotify.com/album/573klMlAI4BNEDicxHqZ9g"
+      },
+      "artists": [
+        {
+          "name": "Natural Song",
+          "url": "https://open.spotify.com/artist/3ztSSZCBD8e03TBMqPTQF3"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Sunny Windy Day",
+      "url": "https://open.spotify.com/track/2Eej9iJAvO0Ar1RYrwfTl5"
+    },
+    {
+      "added_at": "2026-04-02 09:58:26",
+      "album": {
         "name": "Relaxed Minds",
         "url": "https://open.spotify.com/album/4g2wYVgU9tOSzng518xSmm"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 155295,
       "name": "Tropical Waves",
       "url": "https://open.spotify.com/track/1HGtfBNK5UeGauqcghOVWs"
-    },
-    {
-      "added_at": "2026-04-02 09:58:26",
-      "album": {
-        "name": "Calm Green Wave Sounds",
-        "url": "https://open.spotify.com/album/6bx52OyqGSwW8oCpooPjTT"
-      },
-      "artists": [
-        {
-          "name": "EFX Mirelight",
-          "url": "https://open.spotify.com/artist/1xC1qS9lztnzURXtrrXFuv"
-        }
-      ],
-      "duration_ms": 104374,
-      "name": "Calming Creek",
-      "url": "https://open.spotify.com/track/5R113kfoXvoFBlIPpUUuRd"
     },
     {
       "added_at": "2026-04-02 09:58:26",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-04-02 09:58:26",
       "album": {
-        "name": "Forest Birds",
-        "url": "https://open.spotify.com/album/5nHZ9xOHu1wU9x3bLopZff"
-      },
-      "artists": [
-        {
-          "name": "Zen Master",
-          "url": "https://open.spotify.com/artist/21uWwnRDYtnaQC1KLHaS2a"
-        }
-      ],
-      "duration_ms": 137000,
-      "name": "Forest Bird Sounds",
-      "url": "https://open.spotify.com/track/2aFhqv8uOQZyLz6i4GoeMZ"
-    },
-    {
-      "added_at": "2026-04-02 09:58:26",
-      "album": {
         "name": "Bird Life",
         "url": "https://open.spotify.com/album/2ycYa4LRKTCXRa1lu8gCiL"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 146000,
       "name": "Bird Life",
       "url": "https://open.spotify.com/track/5I9JyCa5yjW8p3K5CUXIrH"
+    },
+    {
+      "added_at": "2026-04-02 09:58:26",
+      "album": {
+        "name": "Forest Birds",
+        "url": "https://open.spotify.com/album/5nHZ9xOHu1wU9x3bLopZff"
+      },
+      "artists": [
+        {
+          "name": "Zen Master",
+          "url": "https://open.spotify.com/artist/21uWwnRDYtnaQC1KLHaS2a"
+        }
+      ],
+      "duration_ms": 137000,
+      "name": "Forest Bird Sounds",
+      "url": "https://open.spotify.com/track/2aFhqv8uOQZyLz6i4GoeMZ"
     },
     {
       "added_at": "2026-04-02 09:58:26",

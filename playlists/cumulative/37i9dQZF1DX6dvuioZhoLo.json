@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New makes old. Cover: Chaparelle",
+  "description": "New makes old. Cover: Willow Avalon",
   "name": "Vintage Vibes",
   "tracks": [
     {
@@ -475,6 +475,28 @@
     },
     {
       "album": {
+        "name": "Cardinal Sin (feat. Jason Isbell)",
+        "url": "https://open.spotify.com/album/5bqzhOiZ1j42qcD2oMCh32"
+      },
+      "artists": [
+        {
+          "name": "Willow Avalon",
+          "url": "https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR"
+        },
+        {
+          "name": "Jason Isbell",
+          "url": "https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214440,
+      "name": "Cardinal Sin (feat. Jason Isbell)",
+      "url": "https://open.spotify.com/track/1wU21mCoSc3fc8VZq1WkAn"
+    },
+    {
+      "album": {
         "name": "Cherie Vico",
         "url": "https://open.spotify.com/album/0LqNcJ3PKmf7oReNRLJ22I"
       },
@@ -522,7 +544,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 237426,
       "name": "Cool Cars",
       "url": "https://open.spotify.com/track/7gr3VoP3mj1EturQLVIM6x"
@@ -2042,7 +2064,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 214471,
       "name": "I'll Change",
       "url": "https://open.spotify.com/track/7duLGNkHcs1XUJ8o9lOhak"
@@ -2356,7 +2378,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 210173,
       "name": "Kindness of Strangers",
       "url": "https://open.spotify.com/track/32QP97prqm0wjkHEqfbz19"
@@ -2530,6 +2552,24 @@
       "duration_ms": 145253,
       "name": "Livin\u2019 In Shame",
       "url": "https://open.spotify.com/track/1bJKcn4D6ElJPGGBZVXi4X"
+    },
+    {
+      "album": {
+        "name": "Lone Star",
+        "url": "https://open.spotify.com/album/347MekIQGAWp7mqyhiRNUe"
+      },
+      "artists": [
+        {
+          "name": "Cactus Lee",
+          "url": "https://open.spotify.com/artist/6eAIPGye8l6QohTSNNVUD4"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335846,
+      "name": "Lone Star",
+      "url": "https://open.spotify.com/track/2bAgoYfWqEUIMeNPLvwtfg"
     },
     {
       "album": {
@@ -4690,6 +4730,24 @@
       "duration_ms": 199339,
       "name": "Yellow Room",
       "url": "https://open.spotify.com/track/7jD4TV5mua3KeLqOIqFXm0"
+    },
+    {
+      "album": {
+        "name": "You and I",
+        "url": "https://open.spotify.com/album/5ILxuigcogkefZqzMuHU2t"
+      },
+      "artists": [
+        {
+          "name": "Lily Meola",
+          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169278,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/3veAtMxHWM7SbZOXfJ142t"
     },
     {
       "album": {

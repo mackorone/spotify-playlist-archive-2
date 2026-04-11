@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,430 songs - 21 day 11 hr 46 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,432 songs - 21 day 11 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -8438,5 +8438,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8428 | [Man's Not Hot](https://open.spotify.com/track/6X5OFBbrsHRsyO1zP7udgr) | [Big Shaq](https://open.spotify.com/artist/7mnAzEmgquhrVtGob81SmO) | [Man's Not Hot](https://open.spotify.com/album/5d2vrwvK9NqOd5S54Hu50A) | 3:06 |
 | 8429 | [飾って \(feat\. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&鏡音レン\)](https://open.spotify.com/track/4srO6JrZnA9lzQoDg8w1bw) | [25時、ナイトコードで。](https://open.spotify.com/artist/1VMXuPyhNldYomz8ojLKP7) | [虚無さん/飾って](https://open.spotify.com/album/4nalpHdzIxpJgIvdqvCvrB) | 3:39 |
 | 8430 | [春嵐 \(feat\. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&MEIKO\)](https://open.spotify.com/track/2vIs0ft5VatGSOsKzLJRho) | [Vivid BAD SQUAD](https://open.spotify.com/artist/6mEgpqXA4yzhhncW4cBHlh) | [Vivid BAD SQUAD SEKAI ALBUM vol.3](https://open.spotify.com/album/3TZPSylPSelxKLmxRlLYmb) | 2:36 |
+| 8431 | [Bridge Over Troubled Water](https://open.spotify.com/track/6l8EbYRtQMgKOyc1gcDHF9) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bridge Over Troubled Water](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) | 4:56 |
+| 8432 | [Scarborough Fair / Canticle](https://open.spotify.com/track/3g2fYZW5v2od8KIF7VktT0) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Parsley, Sage, Rosemary And Thyme](https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7) | 3:14 |
 
-Snapshot ID: `AAALku1VowKh9ZEOv2rp2bKhvgWGkeUR`
+Snapshot ID: `AAALlH4v1GoFh566a0DqNfIhvK7cst0i`

@@ -2,9 +2,9 @@
 
 ### [Folk Pop](https://open.spotify.com/playlist/37i9dQZF1DWXJyjYpHunCf)
 
-> The best of folk\-infused pop and singer\-songwriter\. Cover: STELLA LEFTY
+> The best of folk\-infused pop and singer\-songwriter\. Cover: Late Night Thoughts
 
-575 songs - 1 day 8 hr 34 min
+577 songs - 1 day 8 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -351,6 +351,7 @@
 | [my friend's toyota](https://open.spotify.com/track/7ANtPfYkLWhL2XbUjyBSZF) | [asiris](https://open.spotify.com/artist/4YFxglwXwymzvkPYndX3G2) | [my friend's toyota](https://open.spotify.com/album/3zK1OHn3TpS2NV5mPVvJah) | 3:14 | 2024-02-23 | 2024-04-19 |
 | [My Home](https://open.spotify.com/track/0MtfUEHee9p6RsqAwW8gyF) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [My Home](https://open.spotify.com/album/1K4dKsiNYFfJBYykQQXw6R) | 3:26 | 2023-10-20 | 2024-05-11 |
 | [My Home](https://open.spotify.com/track/4ZEw5uS9RY6M6lEjsu7w8Q) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [My Home](https://open.spotify.com/album/6PXZreuCbDw0VlSBrPJ1ND) | 3:26 | 2024-02-09 | 2024-04-19 |
+| [My Mess](https://open.spotify.com/track/5p3Jpxg9clWBDLy9kdD6CY) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [My Mess](https://open.spotify.com/album/6SJIgDyt7PDWKtlFP77VLu) | 3:11 | 2026-04-10 |  |
 | [My Regards](https://open.spotify.com/track/52CDVCBt7tQI29r9ovQOJt) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [My Regards](https://open.spotify.com/album/5j242B2iACKvvgwUFs60t2) | 3:11 | 2026-02-20 |  |
 | [My Repair](https://open.spotify.com/track/4dxzf0bWuBb0AYs25VNL3y) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Already Gone](https://open.spotify.com/album/0qOy9NpS6fADbXb0ViXNtE) | 3:05 | 2022-03-12 | 2024-03-30 |
 | [MY REVIVAL](https://open.spotify.com/track/5AyTDWhKFdllsYpNKeXPXh) | [MORGXN](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW), [Maggie Rose](https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn) | [MY REVIVAL](https://open.spotify.com/album/22Mcx6OeRsqehHjYKUNI2k) | 3:34 | 2026-01-30 |  |
@@ -360,6 +361,7 @@
 | [NEVER WANNA LET YOU GO](https://open.spotify.com/track/1WK90RqsK7hDQTGaEqCM2I) | [Bren Joy](https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp) | [NEVER WANNA LET YOU GO](https://open.spotify.com/album/7LtEHkLfUrAOq5CUGFPwXh) | 3:20 | 2025-01-10 |  |
 | [Nice To Meet You](https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute...](https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY) | 2:56 | 2024-11-08 |  |
 | [Night Moves](https://open.spotify.com/track/6HOqWQFDKYvZp28ujtEuVu) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Carving Canyons](https://open.spotify.com/album/0keDX0kFNMMZtGWK3YP5GO) | 3:08 | 2022-09-16 | 2023-03-06 |
+| [Nobody](https://open.spotify.com/track/1fKlw3VYpNwz2KUqUO0Kou) | [Late Night Thoughts](https://open.spotify.com/artist/71o2qG4Qam85pPaPlw4zhN) | [Coming Back Home](https://open.spotify.com/album/5vaB7XFJHkhn6a7GTyg8H4) | 2:56 | 2026-04-10 |  |
 | [Northern Attitude \(with Hozier\)](https://open.spotify.com/track/4oEf84vBYVftf6KmZexhVo) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Northern Attitude \(with Hozier\)](https://open.spotify.com/album/5yWshZTxFD4N2clZjUBGOH) | 4:27 | 2023-11-10 | 2024-03-30 |
 | [Nostalgic for Nothing](https://open.spotify.com/track/1IyuQt0f9LFMIkyNeI84Cd) | [Thelma & James](https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE) | [Nostalgic for Nothing](https://open.spotify.com/album/70nRLtk0vROIVpOD100D2c) | 3:25 | 2025-08-15 |  |
 | [Not Strong Enough](https://open.spotify.com/track/09DR0sHnQUhHOiSNttc1mv) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:54 | 2023-03-31 | 2024-04-19 |
@@ -446,7 +448,7 @@
 | [Someone Else & Jesus \(feat\. Dasha\)](https://open.spotify.com/track/1EYGpqC0yS92tVRPnPIu3F) | [Ricky Manning](https://open.spotify.com/artist/6vNoWRiABhJa3DNEi9DddS), [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Someone Else & Jesus \(feat\. Dasha\)](https://open.spotify.com/album/0oQQQGxZMNWexI9tBhJ1ud) | 3:22 | 2025-12-05 |  |
 | [Someone Like You \(feat\. Joy Oladokun\)](https://open.spotify.com/track/0hiHNxqKGf3GZgVTIOAiiK) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [I Was / I Am](https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG) | 3:06 | 2021-11-12 | 2023-09-16 |
 | [Something Sweet](https://open.spotify.com/track/2PEGdMDXT6J033J8nURr6j) | [Vincent Lima](https://open.spotify.com/artist/7AB7bdCR5saJ0b9C4RuceX) | [Something Sweet](https://open.spotify.com/album/5wsWBTOvnLAw4UHTZffoi8) | 3:37 | 2025-05-02 | 2025-07-19 |
-| [Something to Lose](https://open.spotify.com/track/7GZ71RYCKgmCr514F9CqUd) | [Late Night Thoughts](https://open.spotify.com/artist/71o2qG4Qam85pPaPlw4zhN) | [Something to Lose](https://open.spotify.com/album/1K57p5i72aHrM9IbE9Sg8u) | 3:12 | 2026-01-09 |  |
+| [Something to Lose](https://open.spotify.com/track/7GZ71RYCKgmCr514F9CqUd) | [Late Night Thoughts](https://open.spotify.com/artist/71o2qG4Qam85pPaPlw4zhN) | [Something to Lose](https://open.spotify.com/album/1K57p5i72aHrM9IbE9Sg8u) | 3:12 | 2026-01-09 | 2026-04-11 |
 | [something to remember](https://open.spotify.com/track/6eI8B3QW20P68MCYMb4Etd) | [Matt Hansen](https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ) | [something to remember](https://open.spotify.com/album/1XReJJvzNwuKvwcGtSbdfo) | 2:42 | 2023-11-22 | 2024-03-30 |
 | [Something's Gonna Go Our Way](https://open.spotify.com/track/42h5v4NgHTnrhDyiZPRt3G) | [The 502s](https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX) | [Something's Gonna Go Our Way](https://open.spotify.com/album/7AWXKA4YeEJAVvqK4XO5Hw) | 3:03 | 2024-03-22 | 2024-03-30 |
 | [Sometimes](https://open.spotify.com/track/4DiGpFIA8ja7wyAap7kCxX) | [Laci Kaye Booth](https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4) | [Sometimes](https://open.spotify.com/album/4DwT6hfMRqWEghV4HHK7UI) | 3:12 | 2024-04-05 | 2026-01-24 |
@@ -556,7 +558,7 @@
 | [Where You Wanna Go \(feat\. Emily Hearn\)](https://open.spotify.com/track/515piq1R1TK9U8j4JUbFXH) | [Graham Colton](https://open.spotify.com/artist/3bCmhyXqTr9ZNGlHNYNTFA), [Emily Hearn](https://open.spotify.com/artist/4LuEEQLErHvNdZDxEWf6W1) | [Where You Wanna Go \(feat\. Emily Hearn\)](https://open.spotify.com/album/6fZ8MA8RC4wu1BbGeYKgox) | 3:24 | 2022-02-21 | 2022-06-14 |
 | [Wherever I Go](https://open.spotify.com/track/4ahVNbbhPycMPbW5ZMNuCo) | [Noah Rinker](https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6) | [Wherever I Go](https://open.spotify.com/album/5Bx9iKHs2dMAZ9VkE7or6Q) | 4:11 | 2024-12-06 |  |
 | [White Flag](https://open.spotify.com/track/3nDM1ezsfSuuYaFN4sicp1) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [I'm Alone, No You're Not](https://open.spotify.com/album/0kb4iBtX69frHEfyNv7EJG) | 3:19 | 2022-03-12 | 2023-09-30 |
-| [White Water](https://open.spotify.com/track/1OTvvSzX7v9nzIQZICQyha) | [Late Night Thoughts](https://open.spotify.com/artist/71o2qG4Qam85pPaPlw4zhN) | [White Water](https://open.spotify.com/album/0IaUzRa95AK4hTg4Tvd5Zq) | 3:11 | 2026-02-20 |  |
+| [White Water](https://open.spotify.com/track/1OTvvSzX7v9nzIQZICQyha) | [Late Night Thoughts](https://open.spotify.com/artist/71o2qG4Qam85pPaPlw4zhN) | [White Water](https://open.spotify.com/album/0IaUzRa95AK4hTg4Tvd5Zq) | 3:11 | 2026-02-20 | 2026-04-11 |
 | [Who Took You Away \(Mu Áhkku\)](https://open.spotify.com/track/3vvktrTDQASIpOsn2oiS63) | [Emelie Hollow](https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7), [Ella Marie](https://open.spotify.com/artist/6rYrNxnxJEZlhVnxR1c6C7), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Who Took You Away \(Mu Áhkku\)](https://open.spotify.com/album/3fQEjpwfe0ceIGVk8DjCe3) | 3:20 | 2024-01-12 | 2024-01-20 |
 | [Why Don't We Start from Here](https://open.spotify.com/track/6dHsDYVp8xo6HLlIVbiBZ2) | [Lucy Spraggan](https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N), [The Dunwells](https://open.spotify.com/artist/7D0V1JYNXvhpxHDoP3zu0x) | [Why Don't We Start from Here](https://open.spotify.com/album/1JE0U3utK9qzO5jYghHJRb) | 3:32 | 2021-11-12 | 2022-07-29 |
 | [Why Why Why](https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn](https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE) | 2:49 | 2024-08-09 | 2026-03-24 |

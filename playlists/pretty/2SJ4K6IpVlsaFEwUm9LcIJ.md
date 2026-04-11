@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: march\-april 2026 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 24,274 likes - 31 songs - 2 hr 12 min
+[margeaux](https://open.spotify.com/user/1220511975) - 24,277 likes - 31 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,13 +31,13 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 21 | [Pick up the Phone](https://open.spotify.com/track/02tTCoiY00i7DolLoSbWAD) | [The Notwist](https://open.spotify.com/artist/1o4xLcugkCtDDOw7POAMha) | [Neon Golden](https://open.spotify.com/album/7hg6JDyhz3Lj041cQXe3hu) | 3:55 |
 | 22 | [Off the Rail](https://open.spotify.com/track/1pLQ2Wwyd9DlyFWkki5HHX) | [The Notwist](https://open.spotify.com/artist/1o4xLcugkCtDDOw7POAMha) | [Neon Golden](https://open.spotify.com/album/7hg6JDyhz3Lj041cQXe3hu) | 3:27 |
 | 23 | [Sweepstakes Prize](https://open.spotify.com/track/7s3548yd3bletCda8v5zQs) | [Mirah](https://open.spotify.com/artist/5AZHg5fZjuN4FzGUnaiQcj) | [You Think It's Like This But Really It's Like This](https://open.spotify.com/album/2TBjVIWGpjU5J0VkKNq0Ff) | 4:49 |
-| 24 | [Falling In Love \(Uh\-Oh\)](https://open.spotify.com/track/5jwoygernfGvAuIxFSqxHp) | [Miami Sound Machine](https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F) | [Primitive Love](https://open.spotify.com/album/70ziXyCSplSPUpFmq9kh6M) | 3:53 |
-| 25 | [Risingson](https://open.spotify.com/track/6ggJ6MceyHGWtUg1KLp3M1) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X) | [Mezzanine](https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR) | 4:58 |
-| 26 | [Man Next Door](https://open.spotify.com/track/2Tz5THgkMOQeaW6DlqAlIa) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X), [Horace Andy](https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC) | [Mezzanine](https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR) | 5:56 |
-| 27 | [Black Milk](https://open.spotify.com/track/1Rezzt36ybaT2ZbDZpv83D) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X), [Elizabeth Fraser](https://open.spotify.com/artist/791Z3924aa619hZ3xsOJEx) | [Mezzanine](https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR) | 6:21 |
-| 28 | [Moscow](https://open.spotify.com/track/4jsk0M8Z8A7y7YmRFdz4Sv) | [Orange Juice](https://open.spotify.com/artist/2u7xZP39dtED9EuRX9MUwu) | [The Glasgow School](https://open.spotify.com/album/5WpiyA70GH7an5bBQyIv5o) | 2:01 |
-| 29 | [Woke Up Laughing](https://open.spotify.com/track/2bhHZqQ2TIeSC5WpJKjGDF) | [Robert Palmer](https://open.spotify.com/artist/530Sdm7eqqzWBdDmILMgnu) | [Clues \(Expanded Edition\)](https://open.spotify.com/album/1pn4ocPNjqhiugDVFNFrSR) | 3:34 |
-| 30 | [Queen of the Slipstream](https://open.spotify.com/track/61FvI5bYYj6wBpUKR8GMh2) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Poetic Champions Compose](https://open.spotify.com/album/38hOhXB3SzolmArtNzZxCE) | 4:57 |
-| 31 | [State Trooper](https://open.spotify.com/track/1Ulh5rWbhhV3PltDadTBZC) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Nebraska](https://open.spotify.com/album/6yskFQZNlLYhkchAxELHi6) | 3:17 |
+| 24 | [Risingson](https://open.spotify.com/track/6ggJ6MceyHGWtUg1KLp3M1) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X) | [Mezzanine](https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR) | 4:58 |
+| 25 | [Man Next Door](https://open.spotify.com/track/2Tz5THgkMOQeaW6DlqAlIa) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X), [Horace Andy](https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC) | [Mezzanine](https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR) | 5:56 |
+| 26 | [Black Milk](https://open.spotify.com/track/1Rezzt36ybaT2ZbDZpv83D) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X), [Elizabeth Fraser](https://open.spotify.com/artist/791Z3924aa619hZ3xsOJEx) | [Mezzanine](https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR) | 6:21 |
+| 27 | [Moscow](https://open.spotify.com/track/4jsk0M8Z8A7y7YmRFdz4Sv) | [Orange Juice](https://open.spotify.com/artist/2u7xZP39dtED9EuRX9MUwu) | [The Glasgow School](https://open.spotify.com/album/5WpiyA70GH7an5bBQyIv5o) | 2:01 |
+| 28 | [Woke Up Laughing](https://open.spotify.com/track/2bhHZqQ2TIeSC5WpJKjGDF) | [Robert Palmer](https://open.spotify.com/artist/530Sdm7eqqzWBdDmILMgnu) | [Clues \(Expanded Edition\)](https://open.spotify.com/album/1pn4ocPNjqhiugDVFNFrSR) | 3:34 |
+| 29 | [Queen of the Slipstream](https://open.spotify.com/track/61FvI5bYYj6wBpUKR8GMh2) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Poetic Champions Compose](https://open.spotify.com/album/38hOhXB3SzolmArtNzZxCE) | 4:57 |
+| 30 | [State Trooper](https://open.spotify.com/track/1Ulh5rWbhhV3PltDadTBZC) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Nebraska](https://open.spotify.com/album/6yskFQZNlLYhkchAxELHi6) | 3:17 |
+| 31 | [The Ultraworld](https://open.spotify.com/track/1KGLcXp6hVKESnRYxzo10m) | [Wendy Eisenberg](https://open.spotify.com/artist/7HrVZurdKyYpQamwyD1gBi) | [Wendy Eisenberg](https://open.spotify.com/album/461pbwQf3k7oOQ43DZjzf5) | 5:10 |
 
-Snapshot ID: `AAAOGUJrWN6wF3L/JLUXz6JzmXLuZyOp`
+Snapshot ID: `AAAOG5kJUMQd+7Q0uxa/csmbFvJIZJze`

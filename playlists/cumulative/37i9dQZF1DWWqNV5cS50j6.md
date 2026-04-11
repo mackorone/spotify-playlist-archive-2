@@ -4,7 +4,7 @@
 
 > Alternative indie music etc\. Cover: Daniel Caesar
 
-1,877 songs - 3 day 18 hr 5 min
+1,879 songs - 3 day 18 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,7 +263,7 @@
 | [Camouflage](https://open.spotify.com/track/45ybqd2Egw9NyJeCRYjMx4) | [Weston Estate](https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa) | [Camouflage](https://open.spotify.com/album/01IzHcbrHB3S2SH4G4I18u) | 3:04 | 2024-10-25 |  |
 | [Can I Be The One?](https://open.spotify.com/track/6c7wroxmEp5WYElkgq5psf) | [daydream Masi](https://open.spotify.com/artist/7d1ybPEhoZkeQhKHIyl9U9) | [Can I Be The One?](https://open.spotify.com/album/49Qna3rB1PFchKYjK9Qbdb) | 3:09 | 2021-02-20 | 2021-05-29 |
 | [CAN I?](https://open.spotify.com/track/5ycy4ms054XrdXAbHkPuZj) | [Deema](https://open.spotify.com/artist/3SBYl2unJoVzvNIUBC8ftm) | [CAN I?](https://open.spotify.com/album/22BPx008NRfI1oWbhQI56S) | 2:45 | 2021-05-03 | 2022-02-12 |
-| [Can We Be Still](https://open.spotify.com/track/6NR1tob30mWRcf9oHz5zYt) | [Georgia Harmer](https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4) | [Can We Be Still](https://open.spotify.com/album/2Ukd5fFZjHgsy5M20WpAue) | 3:54 | 2025-02-28 |  |
+| [Can We Be Still](https://open.spotify.com/track/6NR1tob30mWRcf9oHz5zYt) | [Georgia Harmer](https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4) | [Can We Be Still](https://open.spotify.com/album/2Ukd5fFZjHgsy5M20WpAue) | 3:54 | 2025-02-28 | 2026-04-11 |
 | [Can We Forget](https://open.spotify.com/track/07yilZPUJuVK5HpqObUhWG) | [ALEXSUCKS](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [Can We Forget](https://open.spotify.com/album/1lkT8Jvdvm0Z13ZlPnxpoE) | 2:30 | 2023-04-21 | 2023-04-29 |
 | [Can We Talk?](https://open.spotify.com/track/6nUn03gjgENFLXHt3c3LDq) | [Ruby Red](https://open.spotify.com/artist/2f0NSj1t2L6JowHINXCFb6) | [Can We Talk?](https://open.spotify.com/album/5TwgvZiqe2SfDkvTZ5Y2ni) | 3:46 | 2022-10-25 | 2022-12-01 |
 | [Can't Fake What You Feel](https://open.spotify.com/track/2LPOh5ANJBPtPpixYxG4qq) | [Jordan Hawkins](https://open.spotify.com/artist/70XiOMiwBAHHspwHrkxlJY), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Can't Fake What You Feel](https://open.spotify.com/album/0xHIoMRaY6G1O4HRRNbQMG) | 2:51 | 2023-06-30 | 2024-05-11 |
@@ -672,7 +672,7 @@
 | [Gray](https://open.spotify.com/track/5hm5tkdeZXi3O3mF5vf7Br) | [Groupthink](https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0) | [Gray](https://open.spotify.com/album/1uJrYZjJX6KC7loEOaqPVF) | 3:02 | 2023-03-03 | 2023-05-20 |
 | [Great Taste](https://open.spotify.com/track/70Qehf0lZ352N1rPDC7Frc) | [Miso Extra](https://open.spotify.com/artist/0Vv0Cc8LAnIhUsYI4d5wBg), [NAYANA IZ](https://open.spotify.com/artist/2d8cMSPIFolHyxuox8ESfm) | [Great Taste](https://open.spotify.com/album/7KI0x0Fmc3ABED3MUGlZkB) | 2:10 | 2022-10-04 | 2023-05-27 |
 | [Green Line](https://open.spotify.com/track/5Ebu0lwiMFhempIKg1GUAk) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt), [Terrell Morris](https://open.spotify.com/artist/7C3agcqFXnteDagiWhaZdU) | [Green Line](https://open.spotify.com/album/4pZN0JVoQx3ikvl6qGzUH6) | 3:26 | 2022-02-04 | 2022-03-04 |
-| [Greenish Yellow](https://open.spotify.com/track/6W83NyRwWd0oxZpd3C7hdn) | [Avry](https://open.spotify.com/artist/3SPEuHo0MHKNRYCZfPiij9) | [Greenish Yellow](https://open.spotify.com/album/74tvNoiKo4npSAeLsIoCIE) | 3:23 | 2025-02-28 |  |
+| [Greenish Yellow](https://open.spotify.com/track/6W83NyRwWd0oxZpd3C7hdn) | [Avry](https://open.spotify.com/artist/3SPEuHo0MHKNRYCZfPiij9) | [Greenish Yellow](https://open.spotify.com/album/74tvNoiKo4npSAeLsIoCIE) | 3:23 | 2025-02-28 | 2026-04-11 |
 | [Grey Scale](https://open.spotify.com/track/33zlW22yOTjdRB1X7SRdzU) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Grey Scale](https://open.spotify.com/album/2PcTdFPrOWM28ffy1e8cY6) | 2:59 | 2024-06-28 | 2024-10-05 |
 | [Griffith Park](https://open.spotify.com/track/0fpL5QTlNpU5kAP8U04D33) | [Carter Ace](https://open.spotify.com/artist/0bhck1r45kgsoMNBVqIziz) | [Griffith Park](https://open.spotify.com/album/52bxFo2TfszBFVHNRoj1FV) | 3:21 | 2022-09-23 | 2022-10-16 |
 | [Griffith Park](https://open.spotify.com/track/2QyOjjcHa5OY31zBlZOF2z) | [Carter Ace](https://open.spotify.com/artist/0bhck1r45kgsoMNBVqIziz) | [Griffith Park](https://open.spotify.com/album/07yxHbRLq9yM0RYsdxKiel) | 3:21 | 2022-10-25 | 2023-03-21 |
@@ -1051,6 +1051,7 @@
 | [Mickey Mantle](https://open.spotify.com/track/6Si88LOpqlrH03AsPDdjlk) | [Ben Beal](https://open.spotify.com/artist/0CTpeTOAvzc1FOlPj4uYWV), [byJ.](https://open.spotify.com/artist/0tA6AExzlXn8NLMfKNxdws) | [Mickey Mantle](https://open.spotify.com/album/50SRRUNa2X2xm4pkbAVUET) | 2:19 | 2024-03-14 | 2024-03-20 |
 | [Midnight](https://open.spotify.com/track/5swOvt1IP61rzmBDSuUgL7) | [Emerson Leif](https://open.spotify.com/artist/1isPOa73berLiXSErHiWt0) | [Good Shot](https://open.spotify.com/album/6QGDcuKvellnJ05A0FboXL) | 1:24 | 2023-06-16 | 2023-07-22 |
 | [Milk & Honey](https://open.spotify.com/track/2bPwkeahjE6gpcgP3n3a0p) | [Polly Money](https://open.spotify.com/artist/7Aem5tZTNcNDFBh3HBdOON) | [Milk & Honey](https://open.spotify.com/album/3CQnwt4FX7agNEYhfTpll7) | 2:47 | 2025-02-28 | 2026-04-04 |
+| [Milkman](https://open.spotify.com/track/6HoUzmc0wu7zjKgjnKKTLX) | [Mah Moud](https://open.spotify.com/artist/5GrZNbHTzxnbHge9Ytafdf) | [Alexander Mure's Songs in the Key of C\-Minus!](https://open.spotify.com/album/04GJJ7V0sBgkRREWsBJHZf) | 2:50 | 2026-04-10 |  |
 | [MILLION DOLLAR BABY](https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz) | 2:35 | 2024-04-26 | 2024-06-01 |
 | [Millionaire](https://open.spotify.com/track/1n0oysXYURK6UPsfixJY0G) | [Trooh Hippi](https://open.spotify.com/artist/62XEUcqnIRwA2y2PeRLRMC) | [Millionaire](https://open.spotify.com/album/53xkJLs38Tv8cjekfFHOvC) | 1:38 | 2022-11-26 | 2022-12-01 |
 | [MIND ON DRUGS](https://open.spotify.com/track/0OPFDnCPCwHk9O83lqBxzq) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [HOMELESS STAR](https://open.spotify.com/album/1vmk95l8FDuRgVyvplEQqw) | 2:09 | 2021-10-22 | 2021-12-22 |
@@ -1702,7 +1703,7 @@
 | [Too Slow](https://open.spotify.com/track/4XUejjxBZ4UQQ2LB9h8qvJ) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Too Slow](https://open.spotify.com/album/4jG5t1TT5os5XgzEekr9J7) | 2:04 | 2024-03-29 | 2024-06-01 |
 | [Top Again](https://open.spotify.com/track/2KGL937zymqeogaH2rqPuT) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [a liquid breakfast](https://open.spotify.com/album/0kMBrNsoiD2MjGnpzYVaVE) | 3:07 | 2021-05-22 | 2022-02-23 |
 | [Top Again \(feat\. Saba\)](https://open.spotify.com/track/0k2HFzw2iQENrU2oWtVJEb) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [a liquid breakfast](https://open.spotify.com/album/45QlLBsyMU0XRqw3cxdTKb) | 3:07 | 2022-08-27 | 2022-10-05 |
-| [Toxic](https://open.spotify.com/track/1Glgwi772JtfZGpHAtvqP3) | [Croosh](https://open.spotify.com/artist/0khqcsFxd6ans7Zh1JqraT) | [Toxic](https://open.spotify.com/album/4v1zsnYBE04zhTeEx9q24j) | 1:39 | 2024-07-31 |  |
+| [Toxic](https://open.spotify.com/track/1Glgwi772JtfZGpHAtvqP3) | [Croosh](https://open.spotify.com/artist/0khqcsFxd6ans7Zh1JqraT) | [Toxic](https://open.spotify.com/album/4v1zsnYBE04zhTeEx9q24j) | 1:39 | 2024-07-31 | 2026-04-11 |
 | [trademark usa](https://open.spotify.com/track/15hJmqqEtASVXl6sM7i4UF) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [The Melodic Blue](https://open.spotify.com/album/3r46DPIQeBQbjvjjV5mXGg) | 4:30 | 2024-06-14 | 2024-08-01 |
 | [Tramp](https://open.spotify.com/track/33nj1ZTE6D7or3w3FobgxG) | [Sad Night Dynamite](https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7) | [Volume II](https://open.spotify.com/album/67yqXDQTVNgwD0MUeQ2uma) | 3:44 | 2022-04-08 | 2022-07-19 |
 | [Traveling Alone](https://open.spotify.com/track/00c6I4e1BL1vqbD97KIh50) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Traveling Alone](https://open.spotify.com/album/6pOevfLRzz8OWOkrg7SrZn) | 2:40 | 2020-10-16 | 2022-07-01 |
@@ -1867,6 +1868,7 @@
 | [You're Not Real You're Just a Ghost](https://open.spotify.com/track/0LrwwSU0ycsvTxoqGcvjAe) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [You're Not Real You're Just a Ghost](https://open.spotify.com/album/6mifjdacVc8tvYQ4YHsNO0) | 3:14 | 2022-10-25 | 2022-11-10 |
 | [YOU.F.O.](https://open.spotify.com/track/6MHSHFtKYMVvwnld8EglC4) | [Brevin Kim](https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh) | [YOU.F.O.](https://open.spotify.com/album/3s5aXGEfkweuVJCaJyHCjV) | 3:00 | 2021-06-27 | 2022-01-13 |
 | [Your Love \(Déjà Vu\)](https://open.spotify.com/track/5DYD4zlGiFlkpLaf2Bk8Vl) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Your Love \(Déjà Vu\)](https://open.spotify.com/album/7xz9Hi6y8KaYlLNSkvme0W) | 3:54 | 2020-10-13\* | 2020-11-03 |
+| [Your mother from the nineties](https://open.spotify.com/track/64yzYx98ZpbTFsEDFFTWj9) | [Emma Beko](https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG) | [Your mother from the nineties](https://open.spotify.com/album/1XtMsSe3jx7xIvtvQbj0Hp) | 2:52 | 2026-04-10 |  |
 | [Youtube2MP3](https://open.spotify.com/track/6zVkLCrNjslRlGLhmVBrXJ) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [Youtube2MP3](https://open.spotify.com/album/1BCUWBszISTyrWaR2T0pPi) | 3:56 | 2021-03-19 | 2021-10-16 |
 | [YUKON \(INTERLUDE\)](https://open.spotify.com/track/3ZQLH6uKCfvgkbnMSVNCQe) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/08Uuoj9sXdScCULh04sZqi) | 2:21 | 2022-08-26 | 2022-09-02 |
 | [YUKON \(INTERLUDE\)](https://open.spotify.com/track/5IPl8JpkbtSH1mdyq5ctSx) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 2:21 | 2022-10-25 | 2022-11-19 |

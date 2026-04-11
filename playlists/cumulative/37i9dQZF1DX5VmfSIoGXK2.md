@@ -4,7 +4,7 @@
 
 > the glorious sounds of Jazz House, from Lagos & beyond 🕊️ featuring SPINALL
 
-211 songs - 13 hr 24 min
+213 songs - 13 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Feel The Groove](https://open.spotify.com/track/6Ldd26XXj9otYOR98T7YIt) | [Sébastien Lintz](https://open.spotify.com/artist/4DJAdrP7ni17K4091qE52z) | [Feel The Groove](https://open.spotify.com/album/7EMz0fVR8fitHF1h9cAp6a) | 2:24 | 2026-02-27 |  |
 | [fiesta jazz](https://open.spotify.com/track/10vXmDQbYD0EtwwdNXwcKU) | [Mack Walker](https://open.spotify.com/artist/1pdJH1yIymKtEcpperdsEx) | [fiesta jazz](https://open.spotify.com/album/78nm9fNZtgUmzlhXTuF19g) | 1:55 | 2025-05-30 | 2025-08-02 |
 | [fifth element](https://open.spotify.com/track/70wy9Kh0umg2TYGmIh05oc) | [Koresma](https://open.spotify.com/artist/14EybDMySlkntyuxgm1pek), [mango heist](https://open.spotify.com/artist/0oYE6kpwZgMzyOj7zIebWs), [Gina Sobel](https://open.spotify.com/artist/1J4zEWSsVL27NBNRgKiKr0) | [lounge lizard](https://open.spotify.com/album/5WUzH9R8AOGWqlXUtusmYz) | 3:31 | 2025-04-18 | 2025-10-15 |
+| [First Class](https://open.spotify.com/track/0FmaabJZJEYMJWrGvUCKCS) | [Twill Street](https://open.spotify.com/artist/2CMfq5bzbQZNJIt6dTDqgc) | [First Class](https://open.spotify.com/album/6t2skBC9JlrB4HD5yzuynL) | 1:55 | 2026-04-10 |  |
 | [First Light Falling](https://open.spotify.com/track/0ZocjCzNp403Gmy6pEkuD9) | [Godblesscomputers](https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT) | [First Light Falling](https://open.spotify.com/album/2PaB13NTijH8mj8Z9U1jt9) | 2:52 | 2026-01-09 |  |
 | [Fleur de Sucre](https://open.spotify.com/track/09wDfwbHmyUFi9SKbJ0APT) | [Sable Blanc](https://open.spotify.com/artist/6kP2m716w4dZmIBQ1PCiGD) | [New Places](https://open.spotify.com/album/2AfjakN5fWOqGkAMnq82me) | 5:06 | 2025-03-14 | 2025-07-05 |
 | [Flipper](https://open.spotify.com/track/01SOrIQHZcGl5y6NlkYb7J) | [Holo](https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX) | [Pink Wax](https://open.spotify.com/album/37GXXsZcOfyb3WEptLIird) | 4:05 | 2025-03-14 | 2025-09-13 |
@@ -72,7 +73,7 @@
 | [Flourish](https://open.spotify.com/track/4Hh1GjfBEjUsYzScundoWs) | [IONA](https://open.spotify.com/artist/2kkw1G9LvKwNcEOl4CFu8r), [Noé Mina](https://open.spotify.com/artist/6bhgnwSJ85LTzAeWRFXrzF) | [Flourish](https://open.spotify.com/album/0V9N2j4pphZyIb184jvaQR) | 2:48 | 2025-07-18 |  |
 | [fourth wave](https://open.spotify.com/track/4QsWMsZWAMgztjfmY4WdQg) | [Koresma](https://open.spotify.com/artist/14EybDMySlkntyuxgm1pek), [mango heist](https://open.spotify.com/artist/0oYE6kpwZgMzyOj7zIebWs) | [fourth wave](https://open.spotify.com/album/7hzttSqPCyCw9q2senJNpt) | 4:24 | 2025-03-28 | 2025-08-30 |
 | [Glass Walls](https://open.spotify.com/track/12KAzEuVYaPNzWMcfn0veK) | [Juando](https://open.spotify.com/artist/5QdanLFGUCg40u4E9OMgBv) | [Glass Walls](https://open.spotify.com/album/1r37hTRFSarNIbdLkng0D9) | 3:05 | 2026-02-06 | 2026-04-04 |
-| [Glimpses](https://open.spotify.com/track/3XE67IbSDQQDOhfCM2pCo4) | [NRMNT](https://open.spotify.com/artist/6V62SYeLMiw1QoaglwU0oA) | [Glimpses](https://open.spotify.com/album/5d5nNbF2KDP4LQy6pOxzuw) | 3:27 | 2026-01-16 |  |
+| [Glimpses](https://open.spotify.com/track/3XE67IbSDQQDOhfCM2pCo4) | [NRMNT](https://open.spotify.com/artist/6V62SYeLMiw1QoaglwU0oA) | [Glimpses](https://open.spotify.com/album/5d5nNbF2KDP4LQy6pOxzuw) | 3:27 | 2026-01-16 | 2026-04-11 |
 | [Good Morning Neighbours \- slowya.roll Version](https://open.spotify.com/track/71eHv6q1iiNYi2FdJV2joi) | [Basement Membrane](https://open.spotify.com/artist/269m1rza23RVLQ0ZeQApaL), [Slowya.roll](https://open.spotify.com/artist/3VlbOrMVyRIrtVE71jLu6N) | [Good Morning Neighbours \(slowya.roll Version\)](https://open.spotify.com/album/6dO3NuUEwaVhyQT5TU5RcC) | 5:16 | 2025-04-25 | 2025-06-07 |
 | [Groovin'](https://open.spotify.com/track/5sZ7nssiKtWPe6J9NsAFrt) | [Soul In The Horn](https://open.spotify.com/artist/2nDmZKLnQ3mFg4pqu0hEju), [Kai Alce](https://open.spotify.com/artist/28okccoDb505PNOF3LeMTi) | [Groovin'](https://open.spotify.com/album/6RdCQFBacjNbZDwEWtFqpa) | 5:52 | 2025-09-05 | 2025-11-08 |
 | [Havana Jazz](https://open.spotify.com/track/1dfsalIhl3q8TN7h2JnTtO) | [T.Markakis](https://open.spotify.com/artist/5hmp0NIkvK7MBXw4lHNCZu), [Blanco K](https://open.spotify.com/artist/3R8CoLaVPHCE55AkYktjdj) | [Havana Jazz](https://open.spotify.com/album/1PnumLRat66gCYGg0C99Cl) | 3:50 | 2025-04-29 |  |
@@ -106,7 +107,8 @@
 | [Keep On Moving](https://open.spotify.com/track/1EYzTf0hiFV1HU9nUAdOu8) | [Luke Gambini](https://open.spotify.com/artist/7GJL9SCd2uTBYRzWcRLLsN) | [Keep On Moving](https://open.spotify.com/album/6xOPpPSzbkPYbg457Sxozs) | 3:28 | 2026-02-20 |  |
 | [Kintsugi](https://open.spotify.com/track/43cbFFWsvH9ojZ0QaufdlH) | [!Sooks](https://open.spotify.com/artist/4JbbqXJHtza12SQPxlzuVI) | [Kintsugi](https://open.spotify.com/album/3XVyRiBQtZTxjrjtVL0Igx) | 8:40 | 2025-08-01 | 2026-02-28 |
 | [Le Swing](https://open.spotify.com/track/7o0h1eDB4hiGtctaz2lhRu) | [Milan93](https://open.spotify.com/artist/5FPtZ4IXvHYp8MsjAevEWg), [Eloi](https://open.spotify.com/artist/2Y7VnuYDRm92EqIK0Fe2Zu), [pedram](https://open.spotify.com/artist/0sQSO9miTJGNBj9Kqxptfz) | [Le Swing](https://open.spotify.com/album/3NCvMWiEBy2qX31GKtnPuY) | 3:07 | 2025-11-07 | 2026-02-07 |
-| [Leather Loafers](https://open.spotify.com/track/2A1j5MzOI9xQH1godISbki) | [Juando](https://open.spotify.com/artist/5QdanLFGUCg40u4E9OMgBv) | [The Moode Life](https://open.spotify.com/album/1Weqz1h1WtlT8TCplCNBkp) | 3:42 | 2025-04-04 |  |
+| [Leather Loafers](https://open.spotify.com/track/2A1j5MzOI9xQH1godISbki) | [Juando](https://open.spotify.com/artist/5QdanLFGUCg40u4E9OMgBv) | [The Moode Life](https://open.spotify.com/album/1Weqz1h1WtlT8TCplCNBkp) | 3:42 | 2025-04-04 | 2026-04-11 |
+| [Let Loose](https://open.spotify.com/track/29ywdIcfwF2oGNlAQJXxmH) | [Red Astro](https://open.spotify.com/artist/1S8Bv99u3ATbxn1t2uSvC0) | [Let Loose](https://open.spotify.com/album/0qrZO6UiggPcyZAUUOXjnH) | 3:18 | 2026-04-10 |  |
 | [Lift Me](https://open.spotify.com/track/4NE0fBZomP6rcyyzFXcMId) | [Yambow](https://open.spotify.com/artist/5sNyTakkzqmmMTA8GgiCRS) | [Lift Me](https://open.spotify.com/album/6VWQ6Sf45nNMDVvzEoeHGl) | 4:13 | 2025-09-12 | 2026-01-31 |
 | [Little Me](https://open.spotify.com/track/5Zz7T3gOuOKwVcYqmsgQpR) | [China Charmeleon](https://open.spotify.com/artist/78lHMaJ6xLbmwzkHOriPhZ), [Sio](https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv) | [Little Me](https://open.spotify.com/album/22yrN8AV9X7bQrz8MDXr6E) | 3:39 | 2025-02-21 | 2025-04-05 |
 | [Loire & Pinot Gris](https://open.spotify.com/track/0saHEfGDqdEBdgjZIwQVzE) | [Lamchopz](https://open.spotify.com/artist/4qERXGDhxAOmF0KRaY5uCF) | [Loire & Pinot Gris](https://open.spotify.com/album/7naZpfsI4rhTRghOtE8r1K) | 4:48 | 2025-10-17 |  |

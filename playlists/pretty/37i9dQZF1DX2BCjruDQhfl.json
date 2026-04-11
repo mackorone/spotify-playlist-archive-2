@@ -1,6 +1,6 @@
 {
   "description": "It's giving vibes. Cover: Dior & Kaya Imani",
-  "num_followers": 194689,
+  "num_followers": 194686,
   "original_name": "Vibes",
   "owner": {
     "name": "Spotify",
@@ -47,6 +47,42 @@
       "duration_ms": 120410,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/1wf6avCJvxMmxoSS9TdMQ0"
+    },
+    {
+      "added_at": "2026-04-09 22:01:37",
+      "album": {
+        "name": "Obvious",
+        "url": "https://open.spotify.com/album/7xW3wSUjBg7PaeQOVpgvVv"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 186009,
+      "name": "Obvious",
+      "url": "https://open.spotify.com/track/7xSS8JxxHbQRjH5TNBw36H"
+    },
+    {
+      "added_at": "2026-04-09 22:01:37",
+      "album": {
+        "name": "Back and Forth (feat. Missy Elliott)",
+        "url": "https://open.spotify.com/album/3yb1H4Mf6annZTGWpmAoCW"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        },
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        }
+      ],
+      "duration_ms": 214757,
+      "name": "Back and Forth (feat. Missy Elliott)",
+      "url": "https://open.spotify.com/track/6t263UZVjI9nnHfr7eeLW4"
     },
     {
       "added_at": "2026-04-09 22:01:37",

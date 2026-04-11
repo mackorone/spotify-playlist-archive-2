@@ -2,9 +2,9 @@
 
 ### [Women of Música Mexicana](https://open.spotify.com/playlist/37i9dQZF1DX2QYsoI8NDDe)
 
-> ¡Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la Música Mexicana\. Cover: Loreto & Las Marías 🔥
+> ¡Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la Música Mexicana\. Cover: Julieta Venegas 🔥
 
-653 songs - 1 day 11 hr 12 min
+657 songs - 1 day 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Cada Vez Que Te Vas](https://open.spotify.com/track/7juj65bKOGyq509uWUlzB3) | [Helen Ochoa](https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD) | [Cada Vez Que Te Vas](https://open.spotify.com/album/2wem1eLJ81Xt1zWScHJ5o2) | 2:48 | 2025-04-04 | 2026-01-15 |
 | [Cambiaste](https://open.spotify.com/track/2ShMj3rcOHAMKuhI7iaJo8) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Cambiaste](https://open.spotify.com/album/0fvaFUHPvCuZnkvspk2Uxj) | 2:54 | 2023-01-09 | 2025-09-27 |
 | [Cambio De Canción](https://open.spotify.com/track/5vd0rJM8Z0TcL4bu68vL6Q) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [Cambio De Canción](https://open.spotify.com/album/669yLYUn6jylypYi5lmge1) | 2:49 | 2023-03-03 | 2025-09-27 |
+| [Caminos De Michoacan \(En Vivo\)](https://open.spotify.com/track/1yaCfymfoO4c3bxCAWl3WD) | [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [Caminos De Michoacan \(En Vivo\)](https://open.spotify.com/album/2onjf4QRJiGJWCwkXSDTxp) | 6:03 | 2026-04-10 |  |
 | [Canción Mixteca](https://open.spotify.com/track/3bHiyULgixfvtCVi6uOWcs) | [Vicky Terrazas](https://open.spotify.com/artist/4DklMZnSnGfzavNx8P02VG) | [Canción Mixteca](https://open.spotify.com/album/0a1E8N0bliZhY5BRsrSNcx) | 3:02 | 2024-09-20 | 2026-02-14 |
 | [CHANEL](https://open.spotify.com/track/5RcxRGvmYai7kpFSfxe5GY) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [CHANEL](https://open.spotify.com/album/4cd4QB02mwPtiTOJBzQmWo) | 3:21 | 2023-03-31 | 2025-10-18 |
 | [Cheque En Blanco](https://open.spotify.com/track/6Ozggwwdn7O6W5WJgFSnQp) | [Paquita La Del Barrio](https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7) | [Paquita La Del Barrio En Vivo](https://open.spotify.com/album/4IeKibQyMCzKcITREUrOk4) | 2:37 | 2022-01-07 | 2022-07-29 |
@@ -262,6 +263,7 @@
 | [La Loca](https://open.spotify.com/track/3vFPF8u5VJaDUlQOpkMP34) | [Jenn Santos](https://open.spotify.com/artist/4P6xTigVFsFAL41t2qLXJl) | [La Loca](https://open.spotify.com/album/0LNdfkesf3Zdk7e92U0dqQ) | 2:44 | 2024-12-06 | 2026-01-15 |
 | [La Loca](https://open.spotify.com/track/23VRMLWnOte5iYFbDSwwqD) | [Karina Sofia](https://open.spotify.com/artist/3WXv6pmtZ28uU298xhTgUH), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [La Loca](https://open.spotify.com/album/0tiwesFTM7qpCT7k61Yu96) | 3:47 | 2024-10-25 | 2026-02-14 |
 | [La Lámpara \(En Vivo\)](https://open.spotify.com/track/6aFBFYAVh1aNWJPXpGqRB4) | [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [La Lámpara \(En Vivo\)](https://open.spotify.com/album/3syYAKXfU8mVMUs15DgKN9) | 3:39 | 2023-12-08 | 2026-01-15 |
+| [La Línea](https://open.spotify.com/track/5nBElDk2lS45s4JXcQjMps) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [La Línea](https://open.spotify.com/album/4IPQrzEH9rpoxHL6x0Zh6V) | 3:11 | 2026-04-10 |  |
 | [LA MALA](https://open.spotify.com/track/4qd4H8TaQRtPE3yfyQWk8B) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [LA MALA](https://open.spotify.com/album/4R2sQCI4LfP0SVFdm8kobO) | 2:24 | 2024-08-30 | 2026-02-21 |
 | [La Mejor de Todas](https://open.spotify.com/track/066dyCxJcQkyjWVJ6svmD3) | [Tania Mondragon](https://open.spotify.com/artist/1mHfQxhZrANBQkHBbD58mL) | [La Mejor de Todas](https://open.spotify.com/album/4bdz0RIvZOSerOc1KEJmBS) | 3:41 | 2022-02-18 | 2022-04-18 |
 | [La Mejor Decisión](https://open.spotify.com/track/1o8tDip84CWVKXmZUYtHOh) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A) | [La Mejor Decisión](https://open.spotify.com/album/4g1hC9fKiZImPBiW04J44C) | 2:53 | 2024-08-30 | 2026-02-14 |
@@ -420,6 +422,7 @@
 | [No Te Vas](https://open.spotify.com/track/2phShCIgHpwSsUaW4btIQn) | [MAR](https://open.spotify.com/artist/07z2rbjbFEmLhSxD1ZD7wu) | [No Te Vas](https://open.spotify.com/album/0MJ8NfcM3aZg6H1ILrsxNv) | 2:54 | 2024-09-06 | 2026-02-14 |
 | [no tenerte duele más](https://open.spotify.com/track/6wVwkLFuOhCIncRT2l4i7k) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [no tenerte duele más](https://open.spotify.com/album/60jbJZ0xinMww1MlP9UQhU) | 3:06 | 2025-10-03 |  |
 | [No Voy A Llorar](https://open.spotify.com/track/78Enbx43RDUgnAaDixSeGg) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Mi Herencia, Mi Sangre](https://open.spotify.com/album/7Fx68oIAPZovKJIIzaL1OH) | 3:16 | 2022-01-07 | 2023-03-04 |
+| [No Vuelvas](https://open.spotify.com/track/6OoshvH8ZH1QSz0E7yRih7) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [No Vuelvas](https://open.spotify.com/album/3vmOjzuvn1Pd95ObRtDaIj) | 3:46 | 2026-04-10 |  |
 | [Nos Acostumbramos](https://open.spotify.com/track/0GnSyaviaDBEtitiaH9TST) | [Helen Ochoa](https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD), [América Sierra](https://open.spotify.com/artist/6iK7hlQHfupGjQHrxQIMly) | [Nos Acostumbramos](https://open.spotify.com/album/6gZi86AB67FMhdD26202rJ) | 2:59 | 2026-03-06 |  |
 | [NOS ALUMBRO LA LUNA](https://open.spotify.com/track/0Z4hp4L6dbdO35tVTCmQ4H) | [Lili Zetina](https://open.spotify.com/artist/1At8hpss4elY0GBg2qP31j) | [NOS ALUMBRO LA LUNA](https://open.spotify.com/album/5kor3uRlpC1trzdASyhoU7) | 2:37 | 2025-02-14 | 2026-01-15 |
 | [Nunca Es Suficiente](https://open.spotify.com/track/2niUiaoJDCzNldW0pV66zb) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 3:57 | 2022-04-01 | 2023-03-04 |
@@ -501,6 +504,7 @@
 | [Quisieran Tener Mi Lugar](https://open.spotify.com/track/768fXYUtL5UUDEC2UvOJTN) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Quisieran Tener Mi Lugar](https://open.spotify.com/album/0kg1rb7cl4qpi5jidLc1aT) | 2:57 | 2022-04-01 | 2022-07-25 |
 | [Quizás Mañana](https://open.spotify.com/track/4Jze2pgd8QU9XHjzFCIFKL) | [Aida Cuevas](https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr) | [Quizás Mañana](https://open.spotify.com/album/09JmTJCZF852vM3wsiO5iw) | 4:35 | 2023-11-24 | 2025-09-27 |
 | [Qué Agonía](https://open.spotify.com/track/5WEt9MiZPNmCbhu8GOR9Kk) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Qué Agonía](https://open.spotify.com/album/5OhmDEdu6pM2rTLOpOAk4v) | 2:32 | 2023-01-20 | 2025-09-27 |
+| [Qué Hubiera Pasado](https://open.spotify.com/track/4OW4oNqxITRHCR2mNI226f) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By) | [Qué Hubiera Pasado](https://open.spotify.com/album/4kiLHKvcs4Tlm5h0kpekYC) | 2:39 | 2026-04-10 |  |
 | [Qué Maldición \- Remix](https://open.spotify.com/track/3tHes0wml6ededP4ZVEwET) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Qué Maldición \(Remix\)](https://open.spotify.com/album/6EwsJc0zPtxdk40DlUXGP6) | 3:44 | 2023-01-20 | 2023-03-04 |
 | [Qué Mas Quieres De Mi](https://open.spotify.com/track/2TAlisUJAXw6l1x91iJUfG) | [Angélica Gallegos](https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb) | [Qué Mas Quieres De Mi](https://open.spotify.com/album/41jn4pEplc3K6gezsMIXD9) | 2:40 | 2025-02-28 | 2026-02-14 |
 | [Qué No Me Faltes Tú](https://open.spotify.com/track/4CWs6jJZE4UL2cWv8zl5fl) | [Mariana Seoane](https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV) | [La Malquerida](https://open.spotify.com/album/6x9gNY8gVDP8yd6isgj8AL) | 3:16 | 2022-01-07 | 2023-03-04 |

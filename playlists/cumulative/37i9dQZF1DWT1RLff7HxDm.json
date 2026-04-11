@@ -2553,6 +2553,24 @@
     },
     {
       "album": {
+        "name": "Sweet Southern Sounds (Live)",
+        "url": "https://open.spotify.com/album/1iEo32X1EBmQRwIRdVwL4G"
+      },
+      "artists": [
+        {
+          "name": "Samantha Fish",
+          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306942,
+      "name": "Sweet Southern Sounds - Live",
+      "url": "https://open.spotify.com/track/2qAs9NIdn0SmIvJyHDXj1v"
+    },
+    {
+      "album": {
         "name": "Tell Her You Belong To Me (Live)",
         "url": "https://open.spotify.com/album/3yC3tT5PY3yeLUC8vJe7gc"
       },

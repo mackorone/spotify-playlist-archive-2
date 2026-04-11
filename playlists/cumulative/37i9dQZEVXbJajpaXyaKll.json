@@ -15525,6 +15525,28 @@
     },
     {
       "album": {
+        "name": "FLEQUI",
+        "url": "https://open.spotify.com/album/3LS1EG0EKa2mEmz7QVSNeP"
+      },
+      "artists": [
+        {
+          "name": "Izar flags",
+          "url": "https://open.spotify.com/artist/45JTiw0KeqQbUuQpCuBY0m"
+        },
+        {
+          "name": "Sanma",
+          "url": "https://open.spotify.com/artist/4h0TvWINXU42sWuhwh9YWg"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121200,
+      "name": "FLEQUI",
+      "url": "https://open.spotify.com/track/4aS8CUrHGqrf7VQ3HYSQOE"
+    },
+    {
+      "album": {
         "name": "Floricienta",
         "url": "https://open.spotify.com/album/5vzRtE9SIJ6MVL0j6uFhW9"
       },
@@ -16528,7 +16550,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 193733,
       "name": "Go Away",
       "url": "https://open.spotify.com/track/1O9D7P7Z1wMJXW19zTXrXi"
@@ -24836,7 +24858,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 149400,
       "name": "Marcha de las Malvinas",
       "url": "https://open.spotify.com/track/7H851ulmXQFlBOrLjbyHgj"
@@ -26464,7 +26486,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 123428,
       "name": "Miss",
       "url": "https://open.spotify.com/track/0Nak4J9sQgozKj2yAsKQlQ"
@@ -36106,7 +36128,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-10",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/0WA27lZzPKFJKAbiDRmQDc"
@@ -36124,7 +36146,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"

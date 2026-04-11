@@ -931,6 +931,24 @@
     },
     {
       "album": {
+        "name": "Shake!",
+        "url": "https://open.spotify.com/album/28ZtOK3BBS5hujeAamNmfX"
+      },
+      "artists": [
+        {
+          "name": "PiXXiE",
+          "url": "https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Shake!",
+      "url": "https://open.spotify.com/track/6wdKMBPEUhdIE7Xhxb8ynP"
+    },
+    {
+      "album": {
         "name": "So Cute",
         "url": "https://open.spotify.com/album/2pdrozDMXT6gnXBbKGeMfI"
       },

@@ -1,12 +1,12 @@
 {
   "description": "This is Danna Paola. The essential tracks, all in one playlist.",
-  "num_followers": 235905,
+  "num_followers": 235901,
   "original_name": "This Is Danna Paola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adWagAAAAAD1dEi3RTsYJW69Occ26XVb",
+  "snapshot_id": "adbsAAAAAABjy4lXSJpgFVngQZ/BCrcK",
   "tracks": [
     {
       "added_at": null,
@@ -695,22 +695,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yo Soy Tu Amigo Fiel",
-        "url": "https://open.spotify.com/album/30qjYHHwMXn7fiUKJcEwYn"
+        "name": "Pop Latino 2000",
+        "url": "https://open.spotify.com/album/5513pgTeV3Uf6FlcWJWonP"
       },
       "artists": [
         {
           "name": "Danna Paola",
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        },
-        {
-          "name": "Aleks Syntek",
-          "url": "https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi"
         }
       ],
-      "duration_ms": 183320,
-      "name": "Yo Soy Tu Amigo Fiel",
-      "url": "https://open.spotify.com/track/7nWhw9snsn5PLstV1Wz7Qm"
+      "duration_ms": 187373,
+      "name": "Sodio",
+      "url": "https://open.spotify.com/track/4TI2V6ACdHe4226vMiBqTj"
     },
     {
       "added_at": null,
@@ -735,18 +731,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pop Latino 2000",
-        "url": "https://open.spotify.com/album/5513pgTeV3Uf6FlcWJWonP"
+        "name": "Yo Soy Tu Amigo Fiel",
+        "url": "https://open.spotify.com/album/30qjYHHwMXn7fiUKJcEwYn"
       },
       "artists": [
         {
           "name": "Danna Paola",
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        },
+        {
+          "name": "Aleks Syntek",
+          "url": "https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi"
         }
       ],
-      "duration_ms": 187373,
-      "name": "Sodio",
-      "url": "https://open.spotify.com/track/4TI2V6ACdHe4226vMiBqTj"
+      "duration_ms": 183320,
+      "name": "Yo Soy Tu Amigo Fiel",
+      "url": "https://open.spotify.com/track/7nWhw9snsn5PLstV1Wz7Qm"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdjiQ3xtMUy.md) - [plain]
 
 > Τα καλύτερα της ελληνικής ποπ σκηνής αυτή τη στιγμή\. Εξώφυλλο: APON
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,753 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,770 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdjiQ3xtMUy.md) - [plain]
 | 49 | [TOP](https://open.spotify.com/track/0IJrMuRsw30NKa1d5KzNBw) | [Tamta](https://open.spotify.com/artist/0VGybH10ziMPo99SYOwMoQ), [BARBZ](https://open.spotify.com/artist/0I570b72DF4WXlk8zcKaPc) | [TOP](https://open.spotify.com/album/2satLXIf7PYPV6pqg69168) | 2:36 |
 | 50 | [everywhere<3](https://open.spotify.com/track/0x3iQHDSInr7mrFcfYIlYJ) | [TEO.x3](https://open.spotify.com/artist/1lvRWwow7gpc1VKBGxebHH), [Christian Cherry](https://open.spotify.com/artist/6rmnezB7LuaNkZ8OKeB3tK) | [everywhere<3](https://open.spotify.com/album/01TqDuPEdX1W40TYDMAZkA) | 2:46 |
 
-Snapshot ID: `AAAAAMuo50vVcPEO5WM6Mb6hfJowi4KJ`
+Snapshot ID: `AAAAAAwZXlNJOuDmfNkPFij3tOmNhLt+`

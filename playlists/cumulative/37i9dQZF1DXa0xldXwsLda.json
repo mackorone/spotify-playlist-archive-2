@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "\u00a1Puro sabor con Alejandro Sanz y Yami Safdie en portada! \ud83c\udf3a ",
+  "description": "\u00a1Puro sabor con Kany Garc\u00eda en portada! \ud83c\udf3a ",
   "name": "tropipop",
   "tracks": [
     {
@@ -56,7 +56,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 188686,
       "name": "Adi\u00f3s Adi\u00f3s",
       "url": "https://open.spotify.com/track/3IyFAuQTK4THafNRoF3bES"
@@ -228,6 +228,28 @@
       "duration_ms": 220941,
       "name": "Amor a Primera Vista",
       "url": "https://open.spotify.com/track/5M6bJO7Cfl4lnPoAHG0EdD"
+    },
+    {
+      "album": {
+        "name": "Amor Bonito",
+        "url": "https://open.spotify.com/album/7kO8HRIfBbDX8gptoYC0yB"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        },
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164790,
+      "name": "Amor Bonito",
+      "url": "https://open.spotify.com/track/30ZakrQPwfjyrkiJfxGey9"
     },
     {
       "album": {
@@ -760,7 +782,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 290864,
       "name": "Cambias Mi Mundo",
       "url": "https://open.spotify.com/track/5CS5LjHwR4Bk4Q4AihPhNE"
@@ -840,7 +862,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 189346,
       "name": "Caso Cerrado",
       "url": "https://open.spotify.com/track/5ufFr8RZTUaR6onPwL4vQb"
@@ -3617,6 +3639,24 @@
     },
     {
       "album": {
+        "name": "Realidad-Es",
+        "url": "https://open.spotify.com/album/5fjmaIw7FG9xY6COvzqXQC"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255853,
+      "name": "Realidad-Es",
+      "url": "https://open.spotify.com/track/33SPXEm4rQiY5L2DDiVEWz"
+    },
+    {
+      "album": {
         "name": "Refugio",
         "url": "https://open.spotify.com/album/0USsWJfpUn9FLFTy4TaImn"
       },
@@ -4122,6 +4162,24 @@
       "duration_ms": 225492,
       "name": "Te Dedico",
       "url": "https://open.spotify.com/track/1ZcdZQO5gzipPkjCxJ0uq6"
+    },
+    {
+      "album": {
+        "name": "Apambichao",
+        "url": "https://open.spotify.com/album/0DOZOtgMZm8GvvFJFZ6vvT"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161285,
+      "name": "Te hacen falta dos",
+      "url": "https://open.spotify.com/track/3Oohz3N32glZTOz0nuxGMD"
     },
     {
       "album": {

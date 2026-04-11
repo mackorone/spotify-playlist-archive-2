@@ -1665,6 +1665,24 @@
     },
     {
       "album": {
+        "name": "Descansar",
+        "url": "https://open.spotify.com/album/5Mp7GKFlEVk2jQQlXCcGVY"
+      },
+      "artists": [
+        {
+          "name": "La Grecia",
+          "url": "https://open.spotify.com/artist/5eAzahInrBCojLVv1oKRlJ"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264340,
+      "name": "Descansar",
+      "url": "https://open.spotify.com/track/2hljYNWDu9nsXKJTRQ2xCq"
+    },
+    {
+      "album": {
         "name": "DESCARTABLE",
         "url": "https://open.spotify.com/album/7irH2ykRChk6KjZ1Q8WmwY"
       },
@@ -1954,7 +1972,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 216743,
       "name": "El Atrevido",
       "url": "https://open.spotify.com/track/7fNsCJ8w3WJZQNBud2Cw4D"
@@ -2051,6 +2069,24 @@
     },
     {
       "album": {
+        "name": "El Fuego que es mi Casa",
+        "url": "https://open.spotify.com/album/492TkgIoHxqfBvYmyLnVUZ"
+      },
+      "artists": [
+        {
+          "name": "Alter Vu",
+          "url": "https://open.spotify.com/artist/5vsjSGTCjYNsUY9Ln4R4dU"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248681,
+      "name": "El Fuego que es mi Casa",
+      "url": "https://open.spotify.com/track/7tv6opdWPW8BOeaypmw0Lw"
+    },
+    {
+      "album": {
         "name": "El Gallo Rojo",
         "url": "https://open.spotify.com/album/1Yl7ncZUEE2OSmYE95RZOH"
       },
@@ -2070,6 +2106,24 @@
       "duration_ms": 155191,
       "name": "El Gallo Rojo",
       "url": "https://open.spotify.com/track/6fofmRFBOcURZhv1erfaJ3"
+    },
+    {
+      "album": {
+        "name": "El Antidoto",
+        "url": "https://open.spotify.com/album/4PccOsRxvnSPQihLV1R29j"
+      },
+      "artists": [
+        {
+          "name": "Autos Robados",
+          "url": "https://open.spotify.com/artist/5mTDazgxgE8HYpzPckCwV0"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161644,
+      "name": "El Golpe",
+      "url": "https://open.spotify.com/track/0tWi5fpKo2zTMY06uehmDd"
     },
     {
       "album": {
@@ -3717,6 +3771,24 @@
     },
     {
       "album": {
+        "name": "La otra mitad",
+        "url": "https://open.spotify.com/album/6tRM4Rul3qJ2B0KUVBguKZ"
+      },
+      "artists": [
+        {
+          "name": "Ale Kurz",
+          "url": "https://open.spotify.com/artist/6702vlPBoiA7zeDvv6wPkW"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207770,
+      "name": "La otra mitad",
+      "url": "https://open.spotify.com/track/5FNvd2CvzZoxDc02a6ivRf"
+    },
+    {
+      "album": {
         "name": "Mec\u00e1nica Popular",
         "url": "https://open.spotify.com/album/4Z1Q71sHLNHcnT5OpSZjtS"
       },
@@ -3901,6 +3973,24 @@
     },
     {
       "album": {
+        "name": "Las Ganas",
+        "url": "https://open.spotify.com/album/4SP5EFfGpDljnKiYORsf3X"
+      },
+      "artists": [
+        {
+          "name": "Tamesis",
+          "url": "https://open.spotify.com/artist/4YUhzjxOSh8c1xht20jCD9"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240195,
+      "name": "Las Ganas",
+      "url": "https://open.spotify.com/track/4k2pYwAEf6iwHE4LIuL1t2"
+    },
+    {
+      "album": {
         "name": "Las Lunas",
         "url": "https://open.spotify.com/album/4iCgdNm7iU0GDegH0hEnVJ"
       },
@@ -3916,6 +4006,24 @@
       "duration_ms": 226493,
       "name": "Las Lunas",
       "url": "https://open.spotify.com/track/4N6ReNPvyh4r8KExkKyow9"
+    },
+    {
+      "album": {
+        "name": "Las Margaritas Mienten",
+        "url": "https://open.spotify.com/album/3EFNKAhyEPSMGNLXqAHjVi"
+      },
+      "artists": [
+        {
+          "name": "Javier Calamaro",
+          "url": "https://open.spotify.com/artist/6tPLRbaYWgZXppgsyKQ2M5"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313000,
+      "name": "Las Margaritas Mienten",
+      "url": "https://open.spotify.com/track/40wGVBb3OKqTYevo2etwSr"
     },
     {
       "album": {
@@ -5030,7 +5138,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 160381,
       "name": "Morfina",
       "url": "https://open.spotify.com/track/5tjOXv02KtdMLIAv35F3iv"
@@ -5248,6 +5356,24 @@
       "duration_ms": 230954,
       "name": "Ni Siquiera",
       "url": "https://open.spotify.com/track/3Bm1HGtE8GdHI9wp6U0O8P"
+    },
+    {
+      "album": {
+        "name": "No esperes nada",
+        "url": "https://open.spotify.com/album/7wwlW8Om4ZeOHNDdD1TIpr"
+      },
+      "artists": [
+        {
+          "name": "Mujer Cebra",
+          "url": "https://open.spotify.com/artist/6UZQzfJ09W8Dqmr0UoU5HL"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234812,
+      "name": "No esperes nada",
+      "url": "https://open.spotify.com/track/2zUu0Yxl8kbawwgemMv1Xt"
     },
     {
       "album": {
@@ -5602,7 +5728,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 202216,
       "name": "Para alguien m\u00e1s",
       "url": "https://open.spotify.com/track/4y1z59863rBOzmfD4IuTtz"
@@ -6540,7 +6666,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 276937,
       "name": "Si me voy no significa que te quiera menos",
       "url": "https://open.spotify.com/track/5oFVYTz6bERQklRuygaujv"
@@ -6742,7 +6868,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 176117,
       "name": "supermercado",
       "url": "https://open.spotify.com/track/1DRzLWG6cEHRfHKZfs6a21"
@@ -6832,7 +6958,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 147302,
       "name": "Tan Adorable",
       "url": "https://open.spotify.com/track/7cSnscdxaW12w0T6eQzMAT"
@@ -7386,7 +7512,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 309444,
       "name": "Tu Bar",
       "url": "https://open.spotify.com/track/0iP5B6MjWzyCD7r7idZZqb"
@@ -7800,6 +7926,24 @@
       "duration_ms": 202656,
       "name": "Una Gran Verdad",
       "url": "https://open.spotify.com/track/30Z1wBhNJaxDl6vqUkVxTT"
+    },
+    {
+      "album": {
+        "name": "Una Palabra",
+        "url": "https://open.spotify.com/album/3LlQh3lUz1VEpkbi0X16MY"
+      },
+      "artists": [
+        {
+          "name": "Los Tipitos",
+          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222424,
+      "name": "Una Palabra",
+      "url": "https://open.spotify.com/track/2RxycdRveRxXn2eWXcZuao"
     },
     {
       "album": {
@@ -8270,7 +8414,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 183681,
       "name": "\u00dasame",
       "url": "https://open.spotify.com/track/1TYqggFVoo2ILv5leZRFpE"

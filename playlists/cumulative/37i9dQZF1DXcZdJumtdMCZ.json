@@ -111,6 +111,32 @@
     },
     {
       "album": {
+        "name": "7",
+        "url": "https://open.spotify.com/album/6CjG4FIR25YLZ4n5pYaTsi"
+      },
+      "artists": [
+        {
+          "name": "Sokku",
+          "url": "https://open.spotify.com/artist/4MjorUxUOXiATEWsP4CwI9"
+        },
+        {
+          "name": "Patrik nova",
+          "url": "https://open.spotify.com/artist/3mfzBpred0AvA7VyxYrfbt"
+        },
+        {
+          "name": "Thamizh Kumaran P",
+          "url": "https://open.spotify.com/artist/1uzkBVZv0LJTVone9y1wF5"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163192,
+      "name": "7",
+      "url": "https://open.spotify.com/track/0bt2mmVt7tzf5rayhCPIvg"
+    },
+    {
+      "album": {
         "name": "aadra",
         "url": "https://open.spotify.com/album/6RMwuxhRcZDQWRyP5ke0Or"
       },
@@ -2069,6 +2095,24 @@
     },
     {
       "album": {
+        "name": "Idhu Namma Bhoomi",
+        "url": "https://open.spotify.com/album/0mNe8PTEFM7QjFruq9VWvj"
+      },
+      "artists": [
+        {
+          "name": "Seginus Music",
+          "url": "https://open.spotify.com/artist/3CW7yng7AjyA3brdQmBH9k"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142548,
+      "name": "Idhu Namma Bhoomi",
+      "url": "https://open.spotify.com/track/671fxQH3IfnO2Z4P3PhTRy"
+    },
+    {
+      "album": {
         "name": "Idi Mazhai (From \"3Bhk\")",
         "url": "https://open.spotify.com/album/18aRSoFx52O7OWD3ULCwq8"
       },
@@ -2640,7 +2684,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 182666,
       "name": "Karaba",
       "url": "https://open.spotify.com/track/0Q5J4kb1P8uE9IHbeAXKeZ"
@@ -4765,6 +4809,24 @@
     },
     {
       "album": {
+        "name": "Rare Piece Vanjaram (From \"Think Indie\")",
+        "url": "https://open.spotify.com/album/5139LCoOlEReASFfsuMfcS"
+      },
+      "artists": [
+        {
+          "name": "Thamizh Aadhavan",
+          "url": "https://open.spotify.com/artist/2naoxh21roEyvOd7NWwDUb"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183771,
+      "name": "Rare Piece Vanjaram - From \"Think Indie\"",
+      "url": "https://open.spotify.com/track/2hAOG5cJb9DrqF9acFeHHh"
+    },
+    {
+      "album": {
         "name": "Ratha Vaada",
         "url": "https://open.spotify.com/album/6XVhUVNsirS9PJDKPjeRHc"
       },
@@ -5184,7 +5246,7 @@
       ],
       "date_added": "2025-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 149243,
       "name": "Sigma Paiyan - From \"Think Indie\"",
       "url": "https://open.spotify.com/track/6XKlfesXLwVbzumSS7XN4o"
@@ -6241,6 +6303,28 @@
     },
     {
       "album": {
+        "name": "Udatha",
+        "url": "https://open.spotify.com/album/26MeXpGsazEmnLDjtgUOL7"
+      },
+      "artists": [
+        {
+          "name": "VAWNE",
+          "url": "https://open.spotify.com/artist/0vewHfhVwrvSFHD6kYYAbe"
+        },
+        {
+          "name": "Sunil Jacksz",
+          "url": "https://open.spotify.com/artist/5nx79ILI7Kv5NnqXUvuKM5"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171250,
+      "name": "Udatha",
+      "url": "https://open.spotify.com/track/2lP14pmzE1lPY4GlUuhs0C"
+    },
+    {
+      "album": {
         "name": "Kabali (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4mEvf2kdNHrtGQu5AJixQc"
       },
@@ -6776,7 +6860,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 173322,
       "name": "Wait Panren",
       "url": "https://open.spotify.com/track/4Jb0xRyH0mZnJ4KN8f4vUe"

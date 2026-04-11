@@ -361,6 +361,24 @@
     },
     {
       "album": {
+        "name": "Any Old Fool",
+        "url": "https://open.spotify.com/album/645BIIezXIuUl2UADCAJyS"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184700,
+      "name": "Any Old Fool",
+      "url": "https://open.spotify.com/track/6HNpTTwnQHo5JSrWQETLwg"
+    },
+    {
+      "album": {
         "name": "Anyone In Love",
         "url": "https://open.spotify.com/album/2XWTgpZp4up1zFIIUApP3G"
       },
@@ -3368,6 +3386,24 @@
       "duration_ms": 255227,
       "name": "Hard Up",
       "url": "https://open.spotify.com/track/2rs00HEFJT0yg1NC64JWpS"
+    },
+    {
+      "album": {
+        "name": "DIG!",
+        "url": "https://open.spotify.com/album/3DREa2s2CceeFKADZVyqrX"
+      },
+      "artists": [
+        {
+          "name": "Mamas Gun",
+          "url": "https://open.spotify.com/artist/09bP40OuEV5tOM1rQnZNxI"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196413,
+      "name": "Hardest Yards",
+      "url": "https://open.spotify.com/track/3r2ZYYvlY5p51LgpjFLf3Z"
     },
     {
       "album": {
@@ -10358,7 +10394,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 166436,
       "name": "We Don't Have to Be Alone",
       "url": "https://open.spotify.com/track/6hRESIERR8gWu6CERwi2Zm"
@@ -11136,7 +11172,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 182280,
       "name": "You Deserve",
       "url": "https://open.spotify.com/track/3qv52G3oQ4MNcIib4KSRqH"

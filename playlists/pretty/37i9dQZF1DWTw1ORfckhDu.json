@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\udcaf Suomi. ",
-  "num_followers": 104602,
+  "num_followers": 104593,
   "original_name": "100 Suomi",
   "owner": {
     "name": "Spotify",
@@ -523,22 +523,6 @@
     {
       "added_at": "2026-04-09 21:00:25",
       "album": {
-        "name": "Kuvia mun k\u00e4nnyk\u00e4ss\u00e4",
-        "url": "https://open.spotify.com/album/5pNCYWUM0P2T9xDg2krega"
-      },
-      "artists": [
-        {
-          "name": "Bizi",
-          "url": "https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV"
-        }
-      ],
-      "duration_ms": 156214,
-      "name": "Kuvia mun k\u00e4nnyk\u00e4ss\u00e4",
-      "url": "https://open.spotify.com/track/3u3m6nDklH1hKohqZqIvM8"
-    },
-    {
-      "added_at": "2026-04-09 21:00:25",
-      "album": {
         "name": "Toimitusjohtaja",
         "url": "https://open.spotify.com/album/1zuIxudtXoSrHZYQPg6skR"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 165438,
       "name": "Toimitusjohtaja",
       "url": "https://open.spotify.com/track/5mUaH8EQjvlM9ibEX0uqfF"
+    },
+    {
+      "added_at": "2026-04-09 21:00:25",
+      "album": {
+        "name": "Kuvia mun k\u00e4nnyk\u00e4ss\u00e4",
+        "url": "https://open.spotify.com/album/5pNCYWUM0P2T9xDg2krega"
+      },
+      "artists": [
+        {
+          "name": "Bizi",
+          "url": "https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV"
+        }
+      ],
+      "duration_ms": 156214,
+      "name": "Kuvia mun k\u00e4nnyk\u00e4ss\u00e4",
+      "url": "https://open.spotify.com/track/3u3m6nDklH1hKohqZqIvM8"
     },
     {
       "added_at": "2026-04-09 21:00:25",
@@ -607,22 +607,6 @@
     {
       "added_at": "2026-04-09 21:00:25",
       "album": {
-        "name": "LADABOIS",
-        "url": "https://open.spotify.com/album/2Wh7Z50InqrASkMS0tBYae"
-      },
-      "artists": [
-        {
-          "name": "Mouhous",
-          "url": "https://open.spotify.com/artist/4uXWoMQ5N4kmQdBW3nFW4i"
-        }
-      ],
-      "duration_ms": 197205,
-      "name": "Rakkaudesta manii",
-      "url": "https://open.spotify.com/track/1TQS9xivhWJWk00HgEF3Wu"
-    },
-    {
-      "added_at": "2026-04-09 21:00:25",
-      "album": {
         "name": "Sit Ku Mul On Muija",
         "url": "https://open.spotify.com/album/0oi7M2FNYSv21h3CRbxZIl"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 136617,
       "name": "Sit Ku Mul On Muija",
       "url": "https://open.spotify.com/track/53dvlTezDKZYO5wewHVi5i"
+    },
+    {
+      "added_at": "2026-04-09 21:00:25",
+      "album": {
+        "name": "LADABOIS",
+        "url": "https://open.spotify.com/album/2Wh7Z50InqrASkMS0tBYae"
+      },
+      "artists": [
+        {
+          "name": "Mouhous",
+          "url": "https://open.spotify.com/artist/4uXWoMQ5N4kmQdBW3nFW4i"
+        }
+      ],
+      "duration_ms": 197205,
+      "name": "Rakkaudesta manii",
+      "url": "https://open.spotify.com/track/1TQS9xivhWJWk00HgEF3Wu"
     },
     {
       "added_at": "2026-04-09 21:00:25",
@@ -707,26 +707,6 @@
     {
       "added_at": "2026-04-09 21:00:25",
       "album": {
-        "name": "Aris",
-        "url": "https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd"
-      },
-      "artists": [
-        {
-          "name": "Ares",
-          "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
-        },
-        {
-          "name": "Sliki",
-          "url": "https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt"
-        }
-      ],
-      "duration_ms": 125135,
-      "name": "Aikuinen mies",
-      "url": "https://open.spotify.com/track/54VuYTGSWEnMzrFexUlpuh"
-    },
-    {
-      "added_at": "2026-04-09 21:00:25",
-      "album": {
         "name": "Koukussa (feat. Axel Kala)",
         "url": "https://open.spotify.com/album/5ntiuFVpliqYALWnECH2dT"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 187234,
       "name": "Koukussa (feat. Axel Kala)",
       "url": "https://open.spotify.com/track/3NAK9uLlCCJ52oUq05fde3"
+    },
+    {
+      "added_at": "2026-04-09 21:00:25",
+      "album": {
+        "name": "Aris",
+        "url": "https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd"
+      },
+      "artists": [
+        {
+          "name": "Ares",
+          "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
+        },
+        {
+          "name": "Sliki",
+          "url": "https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt"
+        }
+      ],
+      "duration_ms": 125135,
+      "name": "Aikuinen mies",
+      "url": "https://open.spotify.com/track/54VuYTGSWEnMzrFexUlpuh"
     },
     {
       "added_at": "2026-04-09 21:00:25",
@@ -779,22 +779,6 @@
     {
       "added_at": "2026-04-09 21:00:25",
       "album": {
-        "name": "Shakespeare 2",
-        "url": "https://open.spotify.com/album/5EZPtBbhpoYa9XdMgQcaTi"
-      },
-      "artists": [
-        {
-          "name": "william",
-          "url": "https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs"
-        }
-      ],
-      "duration_ms": 115834,
-      "name": "DD",
-      "url": "https://open.spotify.com/track/1bqtP940InJ6mnv1wbIJY0"
-    },
-    {
-      "added_at": "2026-04-09 21:00:25",
-      "album": {
         "name": "OMG (feat. Evelina)",
         "url": "https://open.spotify.com/album/00mHZCxEg1Ejv6t38O9O4d"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 201187,
       "name": "OMG (feat. Evelina)",
       "url": "https://open.spotify.com/track/3Rvtvz0JuyKXEZ9A1ZTmbe"
+    },
+    {
+      "added_at": "2026-04-09 21:00:25",
+      "album": {
+        "name": "Shakespeare 2",
+        "url": "https://open.spotify.com/album/5EZPtBbhpoYa9XdMgQcaTi"
+      },
+      "artists": [
+        {
+          "name": "william",
+          "url": "https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs"
+        }
+      ],
+      "duration_ms": 115834,
+      "name": "DD",
+      "url": "https://open.spotify.com/track/1bqtP940InJ6mnv1wbIJY0"
     },
     {
       "added_at": "2026-04-09 21:00:25",
@@ -883,22 +883,6 @@
     {
       "added_at": "2026-04-09 21:00:25",
       "album": {
-        "name": "K\u00e4vin t\u00e4\u00e4l",
-        "url": "https://open.spotify.com/album/0PQumKfngEJqgMgCDV9BWC"
-      },
-      "artists": [
-        {
-          "name": "Axel Kala",
-          "url": "https://open.spotify.com/artist/4efs3AqHijagPC7sFYksBD"
-        }
-      ],
-      "duration_ms": 140296,
-      "name": "K\u00e4vin t\u00e4\u00e4l",
-      "url": "https://open.spotify.com/track/4SMRzU9943uromfmKU7jim"
-    },
-    {
-      "added_at": "2026-04-09 21:00:25",
-      "album": {
         "name": "OBJ / HENKIVAKUUS",
         "url": "https://open.spotify.com/album/74pox3WjGLeYTUv83zA4fK"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 131020,
       "name": "HENKIVAKUUS",
       "url": "https://open.spotify.com/track/7cYGCSkNwAJTHdRIMIkeJJ"
+    },
+    {
+      "added_at": "2026-04-09 21:00:25",
+      "album": {
+        "name": "K\u00e4vin t\u00e4\u00e4l",
+        "url": "https://open.spotify.com/album/0PQumKfngEJqgMgCDV9BWC"
+      },
+      "artists": [
+        {
+          "name": "Axel Kala",
+          "url": "https://open.spotify.com/artist/4efs3AqHijagPC7sFYksBD"
+        }
+      ],
+      "duration_ms": 140296,
+      "name": "K\u00e4vin t\u00e4\u00e4l",
+      "url": "https://open.spotify.com/track/4SMRzU9943uromfmKU7jim"
     }
   ],
   "unique_name": "100 Suomi",

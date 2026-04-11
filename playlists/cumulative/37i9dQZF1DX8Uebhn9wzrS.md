@@ -4,7 +4,7 @@
 
 > 🎧 hit play, lock in, get stuff done 📚
 
-2,490 songs - 3 day 22 hr 47 min
+2,491 songs - 3 day 22 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -547,7 +547,7 @@
 | [Devoted to Violet](https://open.spotify.com/track/7Kn2u3i65LuebgyWqYuJoe) | [J\. Groves](https://open.spotify.com/artist/7jekqAvw0vS5aF7VnFGzLC) | [Devoted to Violet](https://open.spotify.com/album/1OVPJvZwcoKctLbBNfvJ4a) | 2:15 | 2024-07-12 | 2025-07-26 |
 | [devotion](https://open.spotify.com/track/7iweprVaUQfqGwhe1nPH9T) | [louke's beats](https://open.spotify.com/artist/2dr9SIsVpmN3ijGzjsnT0E) | [devotion](https://open.spotify.com/album/5270aNWFhaa6Gi9sKExzJU) | 2:23 | 2025-02-07 | 2025-08-02 |
 | [devotion](https://open.spotify.com/track/2LgVhJxRPvs9sNxMbsZPX5) | [Summer Clarke](https://open.spotify.com/artist/5VJreBDjx8zamtY3YyZyMr) | [devotion](https://open.spotify.com/album/3yO0qSDkaa1SLKawgxWeNE) | 2:22 | 2024-03-22 | 2026-02-07 |
-| [Dew](https://open.spotify.com/track/6gbLL8NhpJ4PVTvII1MWp7) | [Indigo Songs](https://open.spotify.com/artist/2BWhKXeKs6nnuRF8Z7v7Mj) | [Dew](https://open.spotify.com/album/5KpuEUwL4XynImLdxGg8c4) | 2:19 | 2026-01-30 |  |
+| [Dew](https://open.spotify.com/track/6gbLL8NhpJ4PVTvII1MWp7) | [Indigo Songs](https://open.spotify.com/artist/2BWhKXeKs6nnuRF8Z7v7Mj) | [Dew](https://open.spotify.com/album/5KpuEUwL4XynImLdxGg8c4) | 2:19 | 2026-01-30 | 2026-04-11 |
 | [Diaphane](https://open.spotify.com/track/00oTqcKHoGsI2RpajOg0hh) | [Naute](https://open.spotify.com/artist/2LfwnXXH6HdeP825h4u7lt) | [Diaphane](https://open.spotify.com/album/7F92gWMkU59j6wlOLXUCs4) | 2:17 | 2023-01-13 | 2023-10-20 |
 | [dice](https://open.spotify.com/track/5s2QLYYGX8sNyxPfEaqOZ5) | [poems](https://open.spotify.com/artist/3MqAMBWx8jXvOhjQWiGN6w) | [dice](https://open.spotify.com/album/2oRp58qXZya0hiR7f6wkTQ) | 2:30 | 2024-02-09 | 2024-08-17 |
 | [Dig!](https://open.spotify.com/track/05K5nIFNQD6BR44OMUgd3T) | [Fed Nance](https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm) | [Dig!](https://open.spotify.com/album/0tEPrGue8WNEnMTcGopVvd) | 2:01 | 2024-04-26 | 2024-05-26 |
@@ -1808,6 +1808,7 @@
 | [Road to Skate](https://open.spotify.com/track/5YDcsnM1lqxikbeNJKyYKR) | [Injustice](https://open.spotify.com/artist/5UOyn9e7iqrO4mcm4n7PDO) | [Road to Skate](https://open.spotify.com/album/3LNYRr29mc54LL2EaVocNC) | 2:02 | 2023-07-13 | 2025-07-18 |
 | [roadtrip](https://open.spotify.com/track/0V54RaK7KhF3vzydplIOyk) | [Trixie Muff](https://open.spotify.com/artist/4ot82BIcenSoR26rIlbvDd) | [roadtrip](https://open.spotify.com/album/7tRFa38uNSAOwEiZsEgnbu) | 2:19 | 2023-09-08 | 2026-02-07 |
 | [Roadwalk](https://open.spotify.com/track/1y4JxFcwfHaBnx91s4tdfs) | [John Lee](https://open.spotify.com/artist/5yY5Dd7ek0OzZgy6a7j52E), [Homson](https://open.spotify.com/artist/4tFyFMcMdlqK8b4RoADlS2), [Nosmoh](https://open.spotify.com/artist/7MZx3uoMDM7wE8An0kdHwa) | [Roadwalk](https://open.spotify.com/album/6qJaJS8sB5obL0Dd58uQ0K) | 2:30 | 2022-07-15 | 2022-07-22 |
+| [roaming](https://open.spotify.com/track/6TMbUYF1Tuojm577wU6gV2) | [terrarium.](https://open.spotify.com/artist/7H9kbms3gRPcNY8L850Uxf) | [roaming](https://open.spotify.com/album/3F1kbfRNLVCjqRaeBMvZBC) | 1:50 | 2026-04-10 |  |
 | [Rocking Chair](https://open.spotify.com/track/2xbQ4xdV9FuN9VdCshaOcr) | [Iassu](https://open.spotify.com/artist/2ojxL6kb0AB5KaHAYoXUDe) | [Rocking Chair](https://open.spotify.com/album/0xLjnKdDGk054OL9CZsCKU) | 1:36 | 2023-06-06 | 2023-10-06 |
 | [rodeo](https://open.spotify.com/track/1tCNCWswBD2eoaYnrQGKFi) | [lofi potato](https://open.spotify.com/artist/6Xb3mzhQf3hYzwgY5eiwtU) | [rodeo](https://open.spotify.com/album/3cFp5vviCaISNjybqFHaH5) | 2:09 | 2024-06-07 | 2024-08-05 |
 | [Rododendron](https://open.spotify.com/track/7bPT9pBJaTdl5L4J5SfAI5) | [Nacho Datúr](https://open.spotify.com/artist/5tqsx6BPIV6KA02eum8i5m) | [Tripping At The Amusement Park Vol\. 2](https://open.spotify.com/album/7aUrSHxhKcltENe45QHYkG) | 2:09 | 2023-09-22 | 2026-01-24 |

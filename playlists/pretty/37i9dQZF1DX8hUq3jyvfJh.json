@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a Maria Beth\u00e2nia e mais mulheres incr\u00edveis no volume m\u00e1ximo! Co-curado por <a href=\"spotify:artist:3f5VCwd57gZsqMad28jyLV\">Maria Beth\u00e2nia</a>.",
-  "num_followers": 192665,
+  "num_followers": 192691,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
@@ -227,6 +227,26 @@
     {
       "added_at": "2026-04-01 03:00:06",
       "album": {
+        "name": "N\u00e3o Quero Te Querer",
+        "url": "https://open.spotify.com/album/6ynXVWAUOFYjmaOHxxLg4W"
+      },
+      "artists": [
+        {
+          "name": "Mariana Volker",
+          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
+        },
+        {
+          "name": "Maria Gad\u00fa",
+          "url": "https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH"
+        }
+      ],
+      "duration_ms": 181480,
+      "name": "N\u00e3o Quero Te Querer",
+      "url": "https://open.spotify.com/track/0ciIs0Cw2gV9E4W3xMQkDk"
+    },
+    {
+      "added_at": "2026-04-01 03:00:06",
+      "album": {
         "name": "A Mulher do Fim do Mundo",
         "url": "https://open.spotify.com/album/2xjHr3ho0DJAsvxH0mj0W9"
       },
@@ -255,26 +275,6 @@
       "duration_ms": 277666,
       "name": "De Volta Pro Aconchego",
       "url": "https://open.spotify.com/track/6vzEUwK4CbcDMDvmJ09WsY"
-    },
-    {
-      "added_at": "2026-04-01 03:00:06",
-      "album": {
-        "name": "N\u00e3o Quero Te Querer",
-        "url": "https://open.spotify.com/album/6ynXVWAUOFYjmaOHxxLg4W"
-      },
-      "artists": [
-        {
-          "name": "Mariana Volker",
-          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
-        },
-        {
-          "name": "Maria Gad\u00fa",
-          "url": "https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH"
-        }
-      ],
-      "duration_ms": 181480,
-      "name": "N\u00e3o Quero Te Querer",
-      "url": "https://open.spotify.com/track/0ciIs0Cw2gV9E4W3xMQkDk"
     },
     {
       "added_at": "2026-04-01 03:00:06",
@@ -363,26 +363,6 @@
     {
       "added_at": "2026-04-01 03:00:06",
       "album": {
-        "name": "Slap Sessions: Melly (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4IOY6NKMG3itD8WIW8rpgn"
-      },
-      "artists": [
-        {
-          "name": "Slap",
-          "url": "https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v"
-        },
-        {
-          "name": "Melly",
-          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
-        }
-      ],
-      "duration_ms": 166800,
-      "name": "Eternamente",
-      "url": "https://open.spotify.com/track/3Ez01JZkWXupNqWLBwhGme"
-    },
-    {
-      "added_at": "2026-04-01 03:00:06",
-      "album": {
         "name": "Peito Aberto",
         "url": "https://open.spotify.com/album/3GeFk3NWlnaxB7oj4M8j0w"
       },
@@ -403,6 +383,26 @@
     {
       "added_at": "2026-04-01 03:00:06",
       "album": {
+        "name": "Slap Sessions: Melly (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4IOY6NKMG3itD8WIW8rpgn"
+      },
+      "artists": [
+        {
+          "name": "Slap",
+          "url": "https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v"
+        },
+        {
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+        }
+      ],
+      "duration_ms": 166800,
+      "name": "Eternamente",
+      "url": "https://open.spotify.com/track/3Ez01JZkWXupNqWLBwhGme"
+    },
+    {
+      "added_at": "2026-04-01 03:00:06",
+      "album": {
         "name": "Afim De Ver\u00e3o",
         "url": "https://open.spotify.com/album/4uk3ckvKQ7NmNfOxdre5NI"
       },
@@ -415,6 +415,22 @@
       "duration_ms": 300567,
       "name": "Afim De Ver\u00e3o",
       "url": "https://open.spotify.com/track/37rvjXI4oedKYCRgIKTaKx"
+    },
+    {
+      "added_at": "2026-04-01 03:00:06",
+      "album": {
+        "name": "Xote Destino",
+        "url": "https://open.spotify.com/album/48k0NmZpRSAlrqgcMeFHbn"
+      },
+      "artists": [
+        {
+          "name": "Mariana Aydar",
+          "url": "https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N"
+        }
+      ],
+      "duration_ms": 222369,
+      "name": "Xote Destino",
+      "url": "https://open.spotify.com/track/6T1CDe3leBfSnWK1fvr1Bx"
     },
     {
       "added_at": "2026-04-01 03:00:06",
@@ -455,22 +471,6 @@
     {
       "added_at": "2026-04-01 03:00:06",
       "album": {
-        "name": "Xote Destino",
-        "url": "https://open.spotify.com/album/48k0NmZpRSAlrqgcMeFHbn"
-      },
-      "artists": [
-        {
-          "name": "Mariana Aydar",
-          "url": "https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N"
-        }
-      ],
-      "duration_ms": 222369,
-      "name": "Xote Destino",
-      "url": "https://open.spotify.com/track/6T1CDe3leBfSnWK1fvr1Bx"
-    },
-    {
-      "added_at": "2026-04-01 03:00:06",
-      "album": {
         "name": "Falso Brilhante",
         "url": "https://open.spotify.com/album/18p3b48JyIK5XY90JmWxET"
       },
@@ -483,6 +483,22 @@
       "duration_ms": 262466,
       "name": "Tatuagem",
       "url": "https://open.spotify.com/track/2vmXFXcr44JSrZ1MpgWLRa"
+    },
+    {
+      "added_at": "2026-04-01 03:00:06",
+      "album": {
+        "name": "Black Orpheus (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5b2ozEvPDWvXiq98K3whfc"
+      },
+      "artists": [
+        {
+          "name": "Elizeth Cardoso",
+          "url": "https://open.spotify.com/artist/5w4qi7KMTWcV7sgXgVoPwW"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Manha De Carnaval",
+      "url": "https://open.spotify.com/track/1IF4NYiVd71yfaPicrYkMn"
     },
     {
       "added_at": "2026-04-01 03:00:06",
@@ -503,22 +519,6 @@
       "duration_ms": 258206,
       "name": "Cora\u00e7\u00e3o Mel\u00e3o",
       "url": "https://open.spotify.com/track/5samMlRFxbQbnYhSGEw5r1"
-    },
-    {
-      "added_at": "2026-04-01 03:00:06",
-      "album": {
-        "name": "Black Orpheus (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5b2ozEvPDWvXiq98K3whfc"
-      },
-      "artists": [
-        {
-          "name": "Elizeth Cardoso",
-          "url": "https://open.spotify.com/artist/5w4qi7KMTWcV7sgXgVoPwW"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Manha De Carnaval",
-      "url": "https://open.spotify.com/track/1IF4NYiVd71yfaPicrYkMn"
     },
     {
       "added_at": "2026-04-01 03:00:06",

@@ -1,13 +1,29 @@
 {
   "description": "The perfect family party playlist - jam packed with all your favorite KIDZ BOP hits.",
-  "num_followers": 18504,
+  "num_followers": 18506,
   "original_name": "Kidz Bop Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAClJSH2JKSbF/qiSX//OdPiOeLy8",
+  "snapshot_id": "AAAAAPTNYNCM0zHhMqsn4Xx8tIpPK5cP",
   "tracks": [
+    {
+      "added_at": "2026-04-10 04:00:49",
+      "album": {
+        "name": "I Just Might",
+        "url": "https://open.spotify.com/album/2FA2oEbnGvEizQHq1bzSaT"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 211644,
+      "name": "I Just Might",
+      "url": "https://open.spotify.com/track/3fMJmqOH3WfA6mVsz4Mk8s"
+    },
     {
       "added_at": "2026-03-13 04:00:55",
       "album": {
@@ -775,22 +791,6 @@
       "duration_ms": 207653,
       "name": "Popular",
       "url": "https://open.spotify.com/track/7B91IGnbY5PilOODVln00Z"
-    },
-    {
-      "added_at": "2026-01-09 05:31:05",
-      "album": {
-        "name": "KIDZ BOP 40",
-        "url": "https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 110853,
-      "name": "Old Town Road",
-      "url": "https://open.spotify.com/track/07cQIm99dnNSKs6skathg0"
     },
     {
       "added_at": "2026-01-09 05:31:05",

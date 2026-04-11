@@ -4,7 +4,7 @@
 
 > time to strike a couple of poses\. cover: BINI
 
-72 songs - 3 hr 38 min
+73 songs - 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [RUDE!](https://open.spotify.com/track/0WA27lZzPKFJKAbiDRmQDc) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [RUDE!](https://open.spotify.com/album/4teVVZHVxs4FgjPhT3lUKz) | 3:20 | 2026-03-05 |  |
 | [SALT](https://open.spotify.com/track/5ddjiQQAsw1quLBp22TIox) | [MARICELLE](https://open.spotify.com/artist/2AOp8ygleWgLQBFlS80McR), [leonnutx](https://open.spotify.com/artist/6NH3eUPgorh9IMqALtDiRt) | [SALT](https://open.spotify.com/album/2X0TRakE1zyAoG9zVBLUFj) | 2:51 | 2026-03-26 | 2026-04-10 |
 | [Save me](https://open.spotify.com/track/1EvcZCOORYZn479M1WbGFP) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Save me](https://open.spotify.com/album/0RUo3HqDbrgs2AZlpVc616) | 3:38 | 2026-03-05 | 2026-04-10 |
+| [Shake!](https://open.spotify.com/track/6wdKMBPEUhdIE7Xhxb8ynP) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [Shake!](https://open.spotify.com/album/28ZtOK3BBS5hujeAamNmfX) | 3:12 | 2026-04-09 |  |
 | [So Cute](https://open.spotify.com/track/0M5sCYya9sa2LOz551IBeI) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [So Cute](https://open.spotify.com/album/2pdrozDMXT6gnXBbKGeMfI) | 3:35 | 2026-04-09 |  |
 | [Soap \(feat\. PinkPantheress\)](https://open.spotify.com/track/02gYTLDCIGVM9Y9r4vDb2a) | [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Soft Error](https://open.spotify.com/album/1FKp8rzndJTPygzxV8rq98) | 2:27 | 2026-03-05 |  |
 | [SOUR GRAPE](https://open.spotify.com/track/2GgBQrVEjRoIvJO1SFaUA3) | [LAYYI](https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr), [dia maté](https://open.spotify.com/artist/4UcpNyDTbuLdGygQNjuXfd) | [SOUR GRAPE](https://open.spotify.com/album/66CaiDuiDrxLpIiFKwEueS) | 1:56 | 2026-03-05 | 2026-03-27 |

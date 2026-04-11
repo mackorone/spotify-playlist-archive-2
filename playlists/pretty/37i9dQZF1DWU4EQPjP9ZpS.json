@@ -1,6 +1,6 @@
 {
   "description": "get lost in the  a e s t h e t i c ",
-  "num_followers": 341432,
+  "num_followers": 341477,
   "original_name": "vaporwave",
   "owner": {
     "name": "Spotify",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Things That Fade",
-        "url": "https://open.spotify.com/album/0WBW4pExpZITk6peWXzWlV"
-      },
-      "artists": [
-        {
-          "name": "Greeen Linez",
-          "url": "https://open.spotify.com/artist/1xpjdGNm3ipMNPZ9eRwH14"
-        }
-      ],
-      "duration_ms": 251779,
-      "name": "Hibiscus Pacific",
-      "url": "https://open.spotify.com/track/212guZJYmzASElwy8HmVKx"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Network Entities",
         "url": "https://open.spotify.com/album/6B8OPdnxgB6NfsHiHTtjtd"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 141666,
       "name": "\u8a69 Desktop",
       "url": "https://open.spotify.com/track/7nrBvBSt6NdhL3LO6P38gf"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Things That Fade",
+        "url": "https://open.spotify.com/album/0WBW4pExpZITk6peWXzWlV"
+      },
+      "artists": [
+        {
+          "name": "Greeen Linez",
+          "url": "https://open.spotify.com/artist/1xpjdGNm3ipMNPZ9eRwH14"
+        }
+      ],
+      "duration_ms": 251779,
+      "name": "Hibiscus Pacific",
+      "url": "https://open.spotify.com/track/212guZJYmzASElwy8HmVKx"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "so be it",
-        "url": "https://open.spotify.com/album/3HbIV6cxpjbPZIwSZlVEJj"
-      },
-      "artists": [
-        {
-          "name": "glhf",
-          "url": "https://open.spotify.com/artist/4vghXazcknhr7lSBb5w5te"
-        }
-      ],
-      "duration_ms": 388732,
-      "name": "so be it",
-      "url": "https://open.spotify.com/track/6COVCjiotolKEhQ5KgCzPw"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Videopolis",
         "url": "https://open.spotify.com/album/0luDWNQOJpNEpvIFOjQWuV"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 136093,
       "name": "Soul-Vibration",
       "url": "https://open.spotify.com/track/2vI9HFvmIiD7s21wjUeLFg"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "so be it",
+        "url": "https://open.spotify.com/album/3HbIV6cxpjbPZIwSZlVEJj"
+      },
+      "artists": [
+        {
+          "name": "glhf",
+          "url": "https://open.spotify.com/artist/4vghXazcknhr7lSBb5w5te"
+        }
+      ],
+      "duration_ms": 388732,
+      "name": "so be it",
+      "url": "https://open.spotify.com/track/6COVCjiotolKEhQ5KgCzPw"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "\u9752\u6625\u306e\u4f11\u6687",
-        "url": "https://open.spotify.com/album/6G9BSnNfs463Zk6T6dccAu"
-      },
-      "artists": [
-        {
-          "name": "KyonPalm",
-          "url": "https://open.spotify.com/artist/6D3vHFavzQh17AAnG4yLwt"
-        }
-      ],
-      "duration_ms": 263592,
-      "name": "\u9752\u6625\u306e\u4f11\u6687",
-      "url": "https://open.spotify.com/track/7icvWRCrYM2amuNzni6oNC"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Downpour",
         "url": "https://open.spotify.com/album/1vjJJPG4zN6qERcTeDDVs7"
       },
@@ -1267,18 +1251,18 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Street Smarts",
-        "url": "https://open.spotify.com/album/0EWwoQVRB0iFz1GHTyENbp"
+        "name": "\u9752\u6625\u306e\u4f11\u6687",
+        "url": "https://open.spotify.com/album/6G9BSnNfs463Zk6T6dccAu"
       },
       "artists": [
         {
-          "name": "VHS LOGOS",
-          "url": "https://open.spotify.com/artist/6n0RAa1cCsQDwZXiNgnigJ"
+          "name": "KyonPalm",
+          "url": "https://open.spotify.com/artist/6D3vHFavzQh17AAnG4yLwt"
         }
       ],
-      "duration_ms": 86400,
-      "name": "Telefunken",
-      "url": "https://open.spotify.com/track/6PMUKypMBra4U1jpjYCpE7"
+      "duration_ms": 263592,
+      "name": "\u9752\u6625\u306e\u4f11\u6687",
+      "url": "https://open.spotify.com/track/7icvWRCrYM2amuNzni6oNC"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1295,6 +1279,22 @@
       "duration_ms": 104337,
       "name": "Procedurally Generated Corridor",
       "url": "https://open.spotify.com/track/5q2UHZf5yh7IWQZ6JjqwPZ"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Street Smarts",
+        "url": "https://open.spotify.com/album/0EWwoQVRB0iFz1GHTyENbp"
+      },
+      "artists": [
+        {
+          "name": "VHS LOGOS",
+          "url": "https://open.spotify.com/artist/6n0RAa1cCsQDwZXiNgnigJ"
+        }
+      ],
+      "duration_ms": 86400,
+      "name": "Telefunken",
+      "url": "https://open.spotify.com/track/6PMUKypMBra4U1jpjYCpE7"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Sports",
-        "url": "https://open.spotify.com/album/5UVd1H64YlB3Z5gnDXa8og"
-      },
-      "artists": [
-        {
-          "name": "SPORTSGIRL",
-          "url": "https://open.spotify.com/artist/2gj2a0b2PhwlDaQerfUoES"
-        }
-      ],
-      "duration_ms": 306000,
-      "name": "Tennis",
-      "url": "https://open.spotify.com/track/5BBZrCQzJBKt3zLhlQFStc"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "You Got The Groove",
         "url": "https://open.spotify.com/album/61mCAP8vGPcJUFD3PHWjmI"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 237333,
       "name": "You Got The Groove - slow + reverbed",
       "url": "https://open.spotify.com/track/0JPiPZT6Nj1WFv5Tq7Ec2w"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Sports",
+        "url": "https://open.spotify.com/album/5UVd1H64YlB3Z5gnDXa8og"
+      },
+      "artists": [
+        {
+          "name": "SPORTSGIRL",
+          "url": "https://open.spotify.com/artist/2gj2a0b2PhwlDaQerfUoES"
+        }
+      ],
+      "duration_ms": 306000,
+      "name": "Tennis",
+      "url": "https://open.spotify.com/track/5BBZrCQzJBKt3zLhlQFStc"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "You're no one",
-        "url": "https://open.spotify.com/album/2L642n3LEGg6XVAwHq58UR"
-      },
-      "artists": [
-        {
-          "name": "Somburd",
-          "url": "https://open.spotify.com/artist/6wcT73JBleLHxOuXSURwi7"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "You're no one",
-      "url": "https://open.spotify.com/track/2BN6fLHHoqZJt4QCFiSEJp"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Floppy Disk Prism",
         "url": "https://open.spotify.com/album/7qTY0v8YjlxieRbap6FvKG"
       },
@@ -1579,18 +1563,18 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Fever Dream (slowed + reverb)",
-        "url": "https://open.spotify.com/album/4SrcOmKDUSAQHWLjixQ3OJ"
+        "name": "You're no one",
+        "url": "https://open.spotify.com/album/2L642n3LEGg6XVAwHq58UR"
       },
       "artists": [
         {
-          "name": "sunnbrella",
-          "url": "https://open.spotify.com/artist/0VjIV24hNNraRNM265WhXB"
+          "name": "Somburd",
+          "url": "https://open.spotify.com/artist/6wcT73JBleLHxOuXSURwi7"
         }
       ],
-      "duration_ms": 232000,
-      "name": "Fever Dream - slowed + reverb",
-      "url": "https://open.spotify.com/track/4TnNvGmehuDWC784JWXlvO"
+      "duration_ms": 144000,
+      "name": "You're no one",
+      "url": "https://open.spotify.com/track/2BN6fLHHoqZJt4QCFiSEJp"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1607,6 +1591,22 @@
       "duration_ms": 113706,
       "name": "Waterfall Rainbows",
       "url": "https://open.spotify.com/track/3fOwrmaZE7FXh4eUsRVoQl"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Fever Dream (slowed + reverb)",
+        "url": "https://open.spotify.com/album/4SrcOmKDUSAQHWLjixQ3OJ"
+      },
+      "artists": [
+        {
+          "name": "sunnbrella",
+          "url": "https://open.spotify.com/artist/0VjIV24hNNraRNM265WhXB"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Fever Dream - slowed + reverb",
+      "url": "https://open.spotify.com/track/4TnNvGmehuDWC784JWXlvO"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "\u65b0\u3057\u3044\u6642\u4ee3, Yes!",
-        "url": "https://open.spotify.com/album/03lEQrnYK2LkWnADa0DqhP"
-      },
-      "artists": [
-        {
-          "name": "VANITAS\u547d\u6b7b",
-          "url": "https://open.spotify.com/artist/3626h020F6R0HEQdaRTTWI"
-        }
-      ],
-      "duration_ms": 277570,
-      "name": "\u65b0\u3057\u3044\u6642\u4ee3, Yes!",
-      "url": "https://open.spotify.com/track/4UGeYxP5W5sVf0UUblKahK"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "VaporLoops, Vol. 1",
         "url": "https://open.spotify.com/album/5AUO9iVgc0azZXcpvpg4Rc"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 229269,
       "name": "Misty Reflections",
       "url": "https://open.spotify.com/track/3cBtHwcoJm3GTKEkkwTLO3"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "\u65b0\u3057\u3044\u6642\u4ee3, Yes!",
+        "url": "https://open.spotify.com/album/03lEQrnYK2LkWnADa0DqhP"
+      },
+      "artists": [
+        {
+          "name": "VANITAS\u547d\u6b7b",
+          "url": "https://open.spotify.com/artist/3626h020F6R0HEQdaRTTWI"
+        }
+      ],
+      "duration_ms": 277570,
+      "name": "\u65b0\u3057\u3044\u6642\u4ee3, Yes!",
+      "url": "https://open.spotify.com/track/4UGeYxP5W5sVf0UUblKahK"
     },
     {
       "added_at": "2023-07-18 02:19:19",

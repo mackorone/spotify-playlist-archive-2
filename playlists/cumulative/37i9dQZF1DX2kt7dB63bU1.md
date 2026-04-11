@@ -4,7 +4,7 @@
 
 > Jazz voices of today\. Cover: Gabrielle Cavassa
 
-905 songs - 2 day 14 hr 44 min
+906 songs - 2 day 14 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,7 +222,7 @@
 | [Everything’s Not Lost](https://open.spotify.com/track/2pqHAFERxzagkJu9qzzWI3) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Everything’s Not Lost](https://open.spotify.com/album/49WaKMcrbMJt3tqkLXnpVO) | 4:08 | 2023-09-22 | 2024-10-26 |
 | [Falling Down](https://open.spotify.com/track/64d7qj0fQyXF0HNiYpjd2o) | [Anna Gréta](https://open.spotify.com/artist/43v3iVtLSHdfUAYkjB4Geh) | [Falling Down](https://open.spotify.com/album/2DXMQFAC5yv1QMqUv8I8Ap) | 3:08 | 2022-02-18 | 2022-07-23 |
 | [Farewell, Angelina](https://open.spotify.com/track/1ylDLEWQHFWSbqoloqL1iy) | [Paul Anka](https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh) | [Farewell, Angelina](https://open.spotify.com/album/17s8ImLdE2UF4syJQ4lWOJ) | 5:42 | 2022-06-06 | 2023-02-25 |
-| [Feeling Good \- triple j Like A Version](https://open.spotify.com/track/4kY3cAWzzKVn3ZmYfOOJul) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Feeling Good \(triple j Like A Version\)](https://open.spotify.com/album/6YQtpgkFSYr9sF8fTsHbMs) | 3:59 | 2024-05-03 |  |
+| [Feeling Good \- triple j Like A Version](https://open.spotify.com/track/4kY3cAWzzKVn3ZmYfOOJul) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Feeling Good \(triple j Like A Version\)](https://open.spotify.com/album/6YQtpgkFSYr9sF8fTsHbMs) | 3:59 | 2024-05-03 | 2026-04-11 |
 | [Fine Brown Frame](https://open.spotify.com/track/6pYeOeWKMODk6lpyCfSiFN) | [Judith Owen](https://open.spotify.com/artist/7JJBBV4U990CO3PJrn3CIo) | [Fine Brown Frame](https://open.spotify.com/album/6nPUg45JLv3xKxAXVfeD6B) | 3:20 | 2022-06-24 | 2023-02-25 |
 | [Finis](https://open.spotify.com/track/6aX8v48UL54ghg6KgCaTvi) | [Amanda Tosoff](https://open.spotify.com/artist/6YqsZpf1iDyUBvvVtiPLaR), [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Earth Voices](https://open.spotify.com/album/6QHyaqpkhH0J0qqtd3AVRW) | 5:51 | 2021-01-29 | 2022-07-29 |
 | [First Song](https://open.spotify.com/track/5oJrUTDfQw5B8XHwPOudVn) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [First Song](https://open.spotify.com/album/1pEd3r6P0ndDFIsKVTOMlA) | 4:43 | 2024-09-20 |  |
@@ -624,6 +624,7 @@
 | [Put Your Head on My Shoulder](https://open.spotify.com/track/3MRjc814zG32JiSNQ2tYvo) | [Jaimee Paul](https://open.spotify.com/artist/09VxnBvEC5lDFLmMkEYOmr), [Star City Symphony](https://open.spotify.com/artist/4rIS4hOr1AMWFS3YbGpq4i), [Danny Gottlieb](https://open.spotify.com/artist/29aflj7NM4ocg7fMqbhifM), [Jacob Jezioro](https://open.spotify.com/artist/2LItgcmlHsUt6BikoXc1Df), [Pat Coil](https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503) | [Put Your Head on My Shoulder](https://open.spotify.com/album/0zTG69rJsp5Ue1uDqaNGMh) | 4:24 | 2022-03-11 | 2023-02-25 |
 | [Quiet Nights Of Quiet Stars \(Corcovado\)](https://open.spotify.com/track/71fwujxrj8ThvYTArAscuH) | [Nikki Yanofsky](https://open.spotify.com/artist/1n02UdnML6G4wR162YsSRi), [Nathan East](https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ) | [Quiet Nights Of Quiet Stars \(Corcovado\)](https://open.spotify.com/album/3XEsqJB8H4SdOXD2ceOonl) | 3:04 | 2022-08-19 | 2023-02-25 |
 | [Rainbow Forest \- Single Edit](https://open.spotify.com/track/3vojevi84qhWYeWEecPjSV) | [Sinne Eeg](https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw) | [Rainbow Forest](https://open.spotify.com/album/49FxfYcYreHnK2rOqL8sZi) | 4:50 | 2023-07-07 | 2024-11-23 |
+| [Raindrops Keep Falling On My Head](https://open.spotify.com/track/0KA5ATfEnvljL6RS14WRnR) | [Gabrielle Cavassa](https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk) | [Raindrops Keep Falling On My Head](https://open.spotify.com/album/48cJa1wLsIoujpLuKYklXG) | 4:32 | 2026-04-10 |  |
 | [Release me](https://open.spotify.com/track/3OQS20U3O3UEgRdF2SqffP) | [Amanda Martinez](https://open.spotify.com/artist/7nF6i5fJJQGLQmjlCmrBGG) | [Recuerdo](https://open.spotify.com/album/6IL2LftKyaU0UXrFWrjgGY) | 3:33 | 2024-07-05 |  |
 | [Reste un peu \- Radio Edit](https://open.spotify.com/track/2JCrxO2zWI1XVV3jp02qdG) | [Caloé](https://open.spotify.com/artist/5VhECTqYomp7HNwQrzQYNL) | [Reste un peu \(Radio Edit\)](https://open.spotify.com/album/1ZqFs8SHrRTHhbzTFYQrxQ) | 3:05 | 2024-08-23 |  |
 | [Retro Kind of Love](https://open.spotify.com/track/0ccnF7JHBUewZYWNXrut2y) | [Emmaline](https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5) | [Retro Kind of Love](https://open.spotify.com/album/60ad6yYVwd1Ed0RQgc4QTg) | 3:26 | 2023-02-10 | 2023-02-25 |

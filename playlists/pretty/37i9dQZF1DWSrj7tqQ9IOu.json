@@ -1,6 +1,6 @@
 {
   "description": "Les meilleurs sons du mois s\u00e9lectionn\u00e9s par les \u00e9ditos de Spotify.",
-  "num_followers": 402466,
+  "num_followers": 402480,
   "original_name": "Coups de c\u0153ur de l'\u00e9quipe \u00e9ditoriale : Mars 2026",
   "owner": {
     "name": "Spotify",
@@ -443,6 +443,22 @@
     {
       "added_at": "2026-03-31 22:00:12",
       "album": {
+        "name": "Tout Va Bien",
+        "url": "https://open.spotify.com/album/5TKj49a8DSMuxNTHVoxgL9"
+      },
+      "artists": [
+        {
+          "name": "TeddyBear",
+          "url": "https://open.spotify.com/artist/2wMA0cyQGggqKOjMfUNenu"
+        }
+      ],
+      "duration_ms": 191489,
+      "name": "Tout Va Bien",
+      "url": "https://open.spotify.com/track/5KZj2gtIVHWq8TA1lSCb8p"
+    },
+    {
+      "added_at": "2026-03-31 22:00:12",
+      "album": {
         "name": "Things",
         "url": "https://open.spotify.com/album/7kxSE9zfvdC0vs9kwF3Z8W"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 159506,
       "name": "Things",
       "url": "https://open.spotify.com/track/5ntTeuCMmKeTzjLk5f4hK3"
-    },
-    {
-      "added_at": "2026-03-31 22:00:12",
-      "album": {
-        "name": "Tout Va Bien",
-        "url": "https://open.spotify.com/album/5TKj49a8DSMuxNTHVoxgL9"
-      },
-      "artists": [
-        {
-          "name": "TeddyBear",
-          "url": "https://open.spotify.com/artist/2wMA0cyQGggqKOjMfUNenu"
-        }
-      ],
-      "duration_ms": 191489,
-      "name": "Tout Va Bien",
-      "url": "https://open.spotify.com/track/5KZj2gtIVHWq8TA1lSCb8p"
     },
     {
       "added_at": "2026-03-31 22:00:12",

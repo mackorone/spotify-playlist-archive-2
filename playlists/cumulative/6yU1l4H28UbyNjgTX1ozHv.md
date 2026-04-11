@@ -4,7 +4,7 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-320 songs - 16 hr 21 min
+321 songs - 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Halo \- Acoustic](https://open.spotify.com/track/4TOYAE8zIoTnPGbgLiErwq) | [Jada Facer](https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf) | [Halo \(Acoustic\)](https://open.spotify.com/album/4l2YP0vLmML7jh34CvRzGn) | 3:24 | 2024-02-09 | 2026-01-06 |
 | [Happy Together \- Acoustic](https://open.spotify.com/track/40JDOzCppZu1LhPPwtqz82) | [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [Happy Together \(Acoustic\)](https://open.spotify.com/album/5HRc5KePa9umV625Gosec8) | 2:54 | 2023-09-24 | 2024-02-24 |
 | [Happy Together \- Acoustic Version](https://open.spotify.com/track/5Pz83RIax2yWBDGTm0PNRX) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm), [Every Season](https://open.spotify.com/artist/4MxjNT9GjBN3FCgnAIpeZL) | [Happy Together \(Acoustic Version\)](https://open.spotify.com/album/1a5AqcZv2OzcqdCXAUGBSL) | 2:46 | 2024-02-16 |  |
+| [Hard to Say I'm Sorry](https://open.spotify.com/track/0GzBJssdxWhhQ4LsbXFWyF) | [Hannah's Yard](https://open.spotify.com/artist/08qkAEn1wetskAwcPrcOPf) | [Hard to Say I'm Sorry](https://open.spotify.com/album/1hKjrFBLM2Mm2biwKQTGo2) | 3:27 | 2026-04-10 |  |
 | [Heal](https://open.spotify.com/track/4KlL5Bwlm4yHYxr0B2rHci) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Deluxe\)](https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8) | 3:13 | 2019-10-13 |  |
 | [Heal the World \- Acoustic](https://open.spotify.com/track/3xcIbxd1AJveTfs8ehX6Pb) | [Matt Johnson](https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A), [Alex Francis](https://open.spotify.com/artist/0aJPoUxg99e5iOzIdWxpUa) | [Heal the World \(Acoustic\)](https://open.spotify.com/album/6L1r7oNw89x4Sed9Ebxqnk) | 3:58 | 2020-08-10 | 2023-01-28 |
 | [Heaven Is A Place On Earth](https://open.spotify.com/track/5l6blTVNegsBffqbRp85zn) | [Jada Facer](https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf) | [Heaven Is A Place On Earth](https://open.spotify.com/album/6x3l6U2wUnquxNSwgQssxe) | 2:57 | 2025-07-26 | 2025-10-18 |
@@ -260,7 +261,7 @@
 | [The Scientist \- Candlelight Version](https://open.spotify.com/track/5SMv8eDDtNWK3syFauHGOG) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [The Scientist \(Candlelight Version\)](https://open.spotify.com/album/35c4uhnGB3BBuTcYfe5Djf) | 3:09 | 2024-06-21 | 2024-09-07 |
 | [The Way You Make Me Feel \- Acoustic](https://open.spotify.com/track/4TOYSDT4aaSoQKbxshBYbI) | [Matt Johnson](https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A), [John Adams](https://open.spotify.com/artist/4LaimQU44rsz2kMWQmY6Bi) | [The Way You Make Me Feel \(Acoustic\)](https://open.spotify.com/album/34pciOFOyl4rI1SIc1F0gw) | 2:37 | 2024-05-10 |  |
 | [There She Goes \- Acoustic](https://open.spotify.com/track/3nDEkIX8lfi4rg62XaDM0O) | [Laurence O’Brien](https://open.spotify.com/artist/71rzE2Y74EDwYYSf1J8osl) | [There She Goes \(Acoustic\)](https://open.spotify.com/album/5rNQUran1E5UllSg6uqI4Y) | 2:54 | 2021-10-01 | 2022-07-16 |
-| [These Words](https://open.spotify.com/track/1f9bAxVpNIRTmyhlSeOOMz) | [Hannah's Yard](https://open.spotify.com/artist/08qkAEn1wetskAwcPrcOPf) | [These Words](https://open.spotify.com/album/5rsURGB1QTPnwCrrwRU3B8) | 2:49 | 2026-01-09 |  |
+| [These Words](https://open.spotify.com/track/1f9bAxVpNIRTmyhlSeOOMz) | [Hannah's Yard](https://open.spotify.com/artist/08qkAEn1wetskAwcPrcOPf) | [These Words](https://open.spotify.com/album/5rsURGB1QTPnwCrrwRU3B8) | 2:49 | 2026-01-09 | 2026-04-11 |
 | [Thinking of You \- Acoustic](https://open.spotify.com/track/6tbmtGWZH2guWw6sbePI7i) | [Franklyn Jay](https://open.spotify.com/artist/6x84plwzEZTisIcJUFiNcr) | [Thinking of You \(Acoustic\)](https://open.spotify.com/album/1sTKlckv9fzXJxFfeB2bfm) | 3:09 | 2024-02-09 |  |
 | [Thinking Out Loud \- Acoustic](https://open.spotify.com/track/5g8icmRtCprCAYeSVtJufd) | [Adam Christopher](https://open.spotify.com/artist/22QkuOmdRnasuuVgUjhrVw) | [Thinking Out Loud \(Acoustic\)](https://open.spotify.com/album/2TfaY2Qo3JiCEBYhzRG2jV) | 4:26 | 2025-06-27 | 2026-02-14 |
 | [Thinking Out Loud \- Acoustic](https://open.spotify.com/track/30kpPQ8pYmxqyUD9l1mFL7) | [Sands of Summer](https://open.spotify.com/artist/43vjXOqFOUcodqUtWIRptz) | [Thinking Out Loud \(Acoustic\)](https://open.spotify.com/album/1WrdSnM8vS3UlX3YD20qms) | 3:04 | 2025-02-17 |  |

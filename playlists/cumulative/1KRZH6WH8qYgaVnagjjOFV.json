@@ -826,10 +826,32 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 172738,
       "name": "Do It All Alone",
       "url": "https://open.spotify.com/track/4BC0djL2b1NHcLLT9LYw9d"
+    },
+    {
+      "album": {
+        "name": "Do It All Alone",
+        "url": "https://open.spotify.com/album/3uvW02kB4reiUy84wBmqpK"
+      },
+      "artists": [
+        {
+          "name": "Rend Collective",
+          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
+        },
+        {
+          "name": "Jervis Campbell",
+          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172738,
+      "name": "Do It All Alone",
+      "url": "https://open.spotify.com/track/4r52cNLmKqWVMMyaHYXikF"
     },
     {
       "album": {
@@ -1252,6 +1274,24 @@
       "duration_ms": 187770,
       "name": "God Story",
       "url": "https://open.spotify.com/track/4PymotViKd6S2o4uShdnUw"
+    },
+    {
+      "album": {
+        "name": "God's Way",
+        "url": "https://open.spotify.com/album/4wmwWbSwo8mYU4PF1hO9GL"
+      },
+      "artists": [
+        {
+          "name": "We The Kingdom",
+          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203229,
+      "name": "God's Way",
+      "url": "https://open.spotify.com/track/45nUmxdwpjdkosuOCmywu9"
     },
     {
       "album": {
@@ -2968,6 +3008,28 @@
       "duration_ms": 204800,
       "name": "Strong",
       "url": "https://open.spotify.com/track/7qKq3YnzxmYfYipYQxzLe4"
+    },
+    {
+      "album": {
+        "name": "Sunday Morning",
+        "url": "https://open.spotify.com/album/2az66l3p60stcXJh8u7iqk"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
+          "name": "Pastor Mike Jr.",
+          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Sunday Morning",
+      "url": "https://open.spotify.com/track/2gyMKeLaMJnOCCoeTE9yae"
     },
     {
       "album": {

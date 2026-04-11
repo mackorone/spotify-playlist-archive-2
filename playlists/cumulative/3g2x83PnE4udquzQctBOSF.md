@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-672 songs - 1 day 18 hr 7 min
+675 songs - 1 day 18 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Cereal at Midnight](https://open.spotify.com/track/6QAPLeza9lQeXTBkAZmwau) | [Audio Horizon](https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz) | [Cinematic Bass: Epic Dubstep & Trap \(Vol\. 1\)](https://open.spotify.com/album/1WNBIHcvpB6sWakBROrIPV) | 3:56 | 2026-03-22 |  |
 | [Chama](https://open.spotify.com/track/0VupF0wdDqSvRlwe0JLNjZ) | [Buogo](https://open.spotify.com/artist/5qrsD24E1W2h3LrmvuVu2q), [Chaval \(BR\)](https://open.spotify.com/artist/1w76OkGmAQl3aJSkZcRe5F) | [Chama](https://open.spotify.com/album/0fRcHYc1JqjTJhg90GcGW8) | 3:30 | 2023-08-13 | 2023-08-28 |
 | [Chekmate](https://open.spotify.com/track/7HhsP952aR70WMDTl1HddE) | [Bruno Costa](https://open.spotify.com/artist/3yxmvN8rSmNEfyTCC7FaA2) | [One Moment for this](https://open.spotify.com/album/7xUE0yTcI0JddLRDm4RXjJ) | 3:42 | 2025-12-16 | 2026-01-03 |
+| [Chemicals \- Original Mix](https://open.spotify.com/track/1nqoQA8wU9IAU4ZIEWAcYQ) | [Bartolomeo Di Chiara](https://open.spotify.com/artist/79HWXwdfrEFu327dotcqph) | [Chemicals \(Original Mix\)](https://open.spotify.com/album/0C8zK6KsNOQG9K5c8cOqs4) | 4:26 | 2026-04-10 |  |
 | [Chiki Ta](https://open.spotify.com/track/6i5KdoiRrN290bPq6IQkIa) | [Orient](https://open.spotify.com/artist/5J9PVF5TuLRuTujc8w5EXJ) | [Chiki Ta](https://open.spotify.com/album/4gozxbu9QuB6AAMW4CMv43) | 1:54 | 2023-04-30 | 2023-05-23 |
 | [Cigarettes \- Radio Mix](https://open.spotify.com/track/4d2tru1HwTR7IYWy3dcpSr) | [Maximilian Heart](https://open.spotify.com/artist/1ZyGuyy2dk8eyrO0h4w0E6) | [Cigarettes](https://open.spotify.com/album/5rilcJ51jN8Ic4ZTngWTSW) | 2:45 | 2026-01-14 | 2026-02-23 |
 | [Clappa](https://open.spotify.com/track/7xg64Eg2avjGw44TmtI4GQ) | [Prok & Fitch](https://open.spotify.com/artist/62akbR2hpk0ArA98zOYNys) | [Naughty](https://open.spotify.com/album/55eFetaEDWddPSu31yr84q) | 3:00 | 2023-04-30 | 2023-05-30 |
@@ -172,6 +173,7 @@
 | [Dreamworld](https://open.spotify.com/track/2igoVqi3hoozzQOD5il1SK) | [Kadro](https://open.spotify.com/artist/3O8NCSBnwcI4IoORaOhDWx) | [Dreamworld](https://open.spotify.com/album/7D5H4QJnAMTNARciIaWrXj) | 4:15 | 2026-03-02 |  |
 | [Dum Dum](https://open.spotify.com/track/79UqmV70OHe4iJwWgzZY3j) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI), [Lowderz](https://open.spotify.com/artist/1wve9rqgo57ht3WyI6tEiq) | [Dum Dum](https://open.spotify.com/album/5j4fMcmXTmmHwhau0rrh9I) | 3:05 | 2023-05-28 | 2023-06-19 |
 | [DunDun](https://open.spotify.com/track/00KBtVGgY5Gz95CvR1yOXS) | [Markus Martinez](https://open.spotify.com/artist/4X7TDt68pJhQxropTlyfc0) | [DunDun](https://open.spotify.com/album/5WqJ3QaKwKyLQJmrxGwJSL) | 2:46 | 2023-05-21 | 2023-06-12 |
+| [Dunes in Motion](https://open.spotify.com/track/5JTzx1Q0TtsUWv4vzS9Z3K) | [Hub30](https://open.spotify.com/artist/385GnVcvtt3cbhl512XWp0) | [Dunes in Motion](https://open.spotify.com/album/5hi2tq2AR4TS6yt45tcAuz) | 2:57 | 2026-04-10 |  |
 | [Dusty Showbiz](https://open.spotify.com/track/30VJGgRcj2MoyeW7UHQgrO) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Dusty Showbiz](https://open.spotify.com/album/5AT9JXNAlwdeYOxocxjfyb) | 2:58 | 2023-08-06 | 2023-09-26 |
 | [Ear Candy](https://open.spotify.com/track/1qhPpCSwALaIVLgxY2i421) | [Ramin Rezaie](https://open.spotify.com/artist/4kJADEfmcYZAHfXzvIfg2w) | [Ear Candy](https://open.spotify.com/album/3ENboL13VOTEbxwtGymquP) | 3:29 | 2023-03-31 | 2023-04-17 |
 | [Eastside](https://open.spotify.com/track/17eXvlZ3lu7QdlLHpBz0nX) | [Ky William](https://open.spotify.com/artist/2dIpuJtQApGRmGeUobllYq), [Fear & Lowe](https://open.spotify.com/artist/5q0UuhAqlTNi9a5brL6Nn8) | [Eastside](https://open.spotify.com/album/5MmdBAQlg46EzgfQTSmjp9) | 2:55 | 2023-11-26 | 2024-02-05 |
@@ -419,6 +421,7 @@
 | [No Mendacium \- Radio Edit](https://open.spotify.com/track/1XMQsx7IzYpuYcj3HZEqJQ) | [Nadda](https://open.spotify.com/artist/2UBywQW4UxTyUJPfVloPbR) | [No Mendacium](https://open.spotify.com/album/16A9qDBJoU5fYqccnGtpKS) | 3:40 | 2023-11-26 | 2024-02-05 |
 | [no quiero hablar mas con mi mente](https://open.spotify.com/track/4erwWa7FDbpXfB6iOX5pDa) | [fabiom\_dj](https://open.spotify.com/artist/4OzRJdzcb3HQXpRpG1jJIP) | [ultimo verano](https://open.spotify.com/album/6WK5IArf4z1QP9UXYHom4I) | 3:31 | 2026-01-12 | 2026-02-23 |
 | [No Ref](https://open.spotify.com/track/3Nm4NCldFwiefi74NrbRpm) | [PakoLP](https://open.spotify.com/artist/7hXA9Gsz23oiXjZ25UyZta), [Pasquale Licito](https://open.spotify.com/artist/4gtyf1Bf2sFWTQH1HdtEiU) | [No Ref](https://open.spotify.com/album/33lQqtRNdyvieE3hNSGDHO) | 3:10 | 2026-03-23 |  |
+| [No Signal](https://open.spotify.com/track/7lvkLByatGBLXCBiiRQ49Q) | [Cris Rocks](https://open.spotify.com/artist/6OSYk8t24QxVGgLZj3gTbJ) | [Vol\. 038](https://open.spotify.com/album/3zB9ukseQG3aOnWAMSqQpE) | 3:35 | 2026-04-10 |  |
 | [No Stoppin'](https://open.spotify.com/track/4MqZA9u2BDdFheypDOjAxU) | [GIANT](https://open.spotify.com/artist/5SNRm9Vv3wf1c1MEOU6K1K) | [No Stoppin'](https://open.spotify.com/album/5n5T2dugUpP3orPV6aWYRh) | 3:02 | 2023-07-16 | 2023-08-20 |
 | [No Turning Back](https://open.spotify.com/track/5DKp3MNz59nEKEVYv3C0aa) | [Audio Horizon](https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz) | [Neon Nights: Late Night Drive Music \(Vol\. 1\)](https://open.spotify.com/album/0LrdRMztCrZRHNbe6W2k1T) | 4:57 | 2026-04-04 |  |
 | [Nobody Else](https://open.spotify.com/track/4zn8LrN54OLY1FUvRVzsoV) | [ProOne79](https://open.spotify.com/artist/1BWkFxDS5l1CgR0QpOfI5b) | [Black Jack EP](https://open.spotify.com/album/6vEtqugNHm1UotnYuX9dy2) | 5:00 | 2026-03-24 |  |

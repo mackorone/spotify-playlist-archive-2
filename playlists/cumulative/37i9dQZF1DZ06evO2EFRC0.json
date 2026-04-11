@@ -308,7 +308,7 @@
       ],
       "date_added": "2025-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 306599,
       "name": "Cristo es Mi Se\u00f1or",
       "url": "https://open.spotify.com/track/2xPa83ocADIZydAdeB9M6G"
@@ -359,24 +359,20 @@
     },
     {
       "album": {
-        "name": "Homenaje a Jes\u00fas",
+        "name": "Homenaje a Jes\u00fas (En Vivo)",
         "url": "https://open.spotify.com/album/0tZHLKTmqIiWnNjOEszm7J"
       },
       "artists": [
         {
           "name": "Marcos Witt",
           "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        },
-        {
-          "name": "Danilo Montero",
-          "url": "https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF"
         }
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-25",
+      "date_removed": null,
       "duration_ms": 481175,
-      "name": "Damos honor a Ti feat.Danilo Montero",
+      "name": "Damos honor a Ti",
       "url": "https://open.spotify.com/track/1vX9aWhoRlfvykVyKj9F26"
     },
     {

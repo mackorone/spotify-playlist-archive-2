@@ -2,9 +2,9 @@
 
 ### [alt.rock](https://open.spotify.com/playlist/37i9dQZF1DX309NIG5AnQn)
 
-> rock alternativo argentino\. <br/>📷 Sakatumba
+> rock alternativo argentino\. <br/>📷 Winona Riders
 
-315 songs - 17 hr 51 min
+320 songs - 18 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [de amor](https://open.spotify.com/track/2aTErhZNKXlUIh9OBHcMAF) | [un muerto mas](https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0) | [de amor](https://open.spotify.com/album/47gnNZkAo3cBhbWwZL2DYW) | 2:25 | 2025-09-19 | 2026-04-04 |
 | [De Cero A Cien X Essentials \#1](https://open.spotify.com/track/3HsgtlddNm8Q9zoKkgwsUo) | [Tobi](https://open.spotify.com/artist/6H70hylNqfc86Omz8GoyDB), [Tygas](https://open.spotify.com/artist/1mLmCADd22UpYNqCAykYKT), [Asan](https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN), [Elsidechain](https://open.spotify.com/artist/0DubQNvKAkkXWIIC2jImhU) | [De Cero A Cien X Essentials \#1](https://open.spotify.com/album/4JDgTCvoC6nbyjDkE2F9OW) | 3:01 | 2022-03-25 | 2023-03-25 |
 | [Decilo](https://open.spotify.com/track/1VwdEHTP3qy6bNlEtmqaJq) | [Melanie Williams](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31), [MEIEN](https://open.spotify.com/artist/7ciZlFBa0GrlGHL2jfeKGU), [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [MEIEN](https://open.spotify.com/album/4bczaWboiY4MjOWuou1zFS) | 3:13 | 2026-04-03 |  |
+| [Decí Quién Sos](https://open.spotify.com/track/6gVriaJMpNMmW3vofUg4WF) | [Tomates En Verano](https://open.spotify.com/artist/0L3FfPKmBS9yLVNVzulbUt) | [Decí Quién Sos](https://open.spotify.com/album/23fdxtNFlfad7ajBLeMyLY) | 4:22 | 2026-04-10 |  |
 | [Denadie](https://open.spotify.com/track/6JuEz0iSyCHLCMUOM0hsY2) | [Melanie Williams & El Cabloide](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31) | [Denadie](https://open.spotify.com/album/2tcipp41d0bfl5mkpWo50G) | 3:06 | 2022-03-25 | 2023-03-25 |
 | [Desarme](https://open.spotify.com/track/3DFvHld21TA5Vl38QAYA2y) | [Caravanas](https://open.spotify.com/artist/3xzFRbFGhL6hN18f7HK5b4) | [BAJO TIERRA LOS HUESOS SIGUEN HACIENDO RUIDO](https://open.spotify.com/album/1zXC56Fm22dtmxH5dcHXxk) | 3:06 | 2026-04-03 |  |
 | [Descansar](https://open.spotify.com/track/2hljYNWDu9nsXKJTRQ2xCq) | [La Grecia](https://open.spotify.com/artist/5eAzahInrBCojLVv1oKRlJ) | [Descansar](https://open.spotify.com/album/5Mp7GKFlEVk2jQQlXCcGVY) | 4:24 | 2025-11-14 | 2026-04-04 |
@@ -108,6 +109,7 @@
 | [El Fin](https://open.spotify.com/track/1KQ9arIyVcyvbixRfog2NB) | [Riel](https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu) | [Principio del Fin](https://open.spotify.com/album/0I1uNlrv0RNdmWoUOIXe0m) | 4:09 | 2023-05-12 | 2024-04-19 |
 | [El Fin](https://open.spotify.com/track/7jBGohc4ZTA8QFfz9QL9JS) | [Riel](https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu) | [Principio del Fin](https://open.spotify.com/album/3sMBBet6Pvyq5cRK1uXQiA) | 4:09 | 2024-04-19 | 2026-02-28 |
 | [El francés](https://open.spotify.com/track/61dysVMtaRdzZTWe2S4q7Q) | [NOTA](https://open.spotify.com/artist/3diz4968GyTG9QV0xVv9lf) | [El francés](https://open.spotify.com/album/05tthCC0TInn6fzqT0C2QA) | 2:17 | 2025-06-20 | 2026-04-04 |
+| [El Fuego que es mi Casa](https://open.spotify.com/track/7tv6opdWPW8BOeaypmw0Lw) | [Alter Vu](https://open.spotify.com/artist/5vsjSGTCjYNsUY9Ln4R4dU) | [El Fuego que es mi Casa](https://open.spotify.com/album/492TkgIoHxqfBvYmyLnVUZ) | 4:08 | 2026-04-10 |  |
 | [El Hit](https://open.spotify.com/track/0gt0wTEOGBNxooOdDKbKmm) | [Dum Chica](https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX) | [El Hit](https://open.spotify.com/album/289DmDK5Hnq2Eh0d05HdI7) | 3:13 | 2024-06-21 | 2026-04-04 |
 | [el jugador](https://open.spotify.com/track/3Ae0eRdU3Z2yhGXed5eQOl) | [reybruja](https://open.spotify.com/artist/1w9Zl7p0JQAYAf9lmDGMYz) | [GUSTAR Y OFENDER](https://open.spotify.com/album/1ZhJsTyimzQOzBz6X2XJbd) | 2:38 | 2025-09-29 | 2026-04-04 |
 | [El Límite](https://open.spotify.com/track/19UGBEYHwRc7UJQnesJViB) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3), [Melanie Williams & El Cabloide](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31) | [El Límite](https://open.spotify.com/album/6c5uQ4l7Dj2WeEthNTXFva) | 4:08 | 2022-03-25 | 2023-02-17 |
@@ -117,6 +119,7 @@
 | [El piso es lava](https://open.spotify.com/track/7qbzTM4Vl02UfrB8Oq5K6y) | [Todo Aparenta Normal](https://open.spotify.com/artist/3wsEppaZbJOYZEtwMfNI0o), [An Espil](https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt), [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A) | [El piso es lava](https://open.spotify.com/album/3V2UVfnQpccVj661MB97Bm) | 4:05 | 2023-04-14 | 2026-02-28 |
 | [El Primer Color](https://open.spotify.com/track/6qkSVGEDjdBmhQccU7CWaD) | [Fútbol](https://open.spotify.com/artist/3F4LyTOlwym0YQmYBlbAAf), [Shaman Herrera](https://open.spotify.com/artist/6v6Zd9sNdAHCHBrrIs58So) | [El Primer Color](https://open.spotify.com/album/4dp1QJTGojYEDSmdtzAG1M) | 5:25 | 2023-03-23 | 2025-11-14 |
 | [El Próximo Verano](https://open.spotify.com/track/6Ff9Z5bPflRCCRFBt6jtk0) | [Fin del Mundo](https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn) | [La Ciudad Que Dejamos](https://open.spotify.com/album/17wOANgahKkdnXVZpkw6ey) | 4:29 | 2023-03-23 | 2024-10-23 |
+| [El Rock and Roll está matando mi Rock and Roll](https://open.spotify.com/track/64ZOcVsJlDloqNgApIQrzt) | [Winona Riders](https://open.spotify.com/artist/6ipac2Z0d0L6LWS7tTudcp) | [0%](https://open.spotify.com/album/7mZ4SWBx5IMJLXqQ2Fdx6W) | 2:10 | 2026-04-10 |  |
 | [El Viaje](https://open.spotify.com/track/4CZzNgqOqB8nvcJz1sG3AE) | [La Chica del Cumpleaños](https://open.spotify.com/artist/7uzpdZFWUYCLQnqpq0MP1V) | [La Gracia De No Estar Solas](https://open.spotify.com/album/788Pukbo3xwJXaSBPzYEBh) | 2:45 | 2023-03-23 | 2025-10-25 |
 | [El Último Día De Verano](https://open.spotify.com/track/4XX9lbW0GQgjQdMDAv7mke) | [Las Tussi](https://open.spotify.com/artist/5Zc1hvy8HoaA0vymJgcx6Q) | [El Álbum Rosa](https://open.spotify.com/album/6pWIDvtGtVzrjS66OJ1F8O) | 2:25 | 2025-10-24 |  |
 | [En los Parques](https://open.spotify.com/track/3IRj8U0Lt8bPdlW6GXBK5q) | [Mizuki Amapola](https://open.spotify.com/artist/1i1q599ea4CdgaVtomARti), [La Lauri Fire](https://open.spotify.com/artist/7Ku8lMIIWZ2fGXSVdzbM84) | [Calendario](https://open.spotify.com/album/25yfGAtfakJoBCIKE0K7AZ) | 2:12 | 2024-03-22 |  |
@@ -204,6 +207,7 @@
 | [No](https://open.spotify.com/track/14GNkRPgoi6EQlfr3CsuXu) | [Pyramides](https://open.spotify.com/artist/1YbKrHuxHjOQGBSMiz2YHU), [Atrás Hay Truenos](https://open.spotify.com/artist/6KDozt8X774pjyp1oVMsmz) | [Amalgama](https://open.spotify.com/album/3Wm4UI67R1RrWGe8C8OrRr) | 3:24 | 2022-03-25 | 2025-11-14 |
 | [No digas que no te avisé](https://open.spotify.com/track/0XWbz1U6iOO2FW2NRT2omM) | [Riel](https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu) | [No digas que no te avisé](https://open.spotify.com/album/7mNsh0jlcVtoUbJDh4PfJT) | 4:26 | 2024-08-30 | 2026-04-04 |
 | [no es tan fácil](https://open.spotify.com/track/1Aa5B7cONt6ek2NutulwxM) | [Crisá](https://open.spotify.com/artist/58PubHmiueRj6gAeYAepHl) | [cuál es el último recuerdo que guardas?](https://open.spotify.com/album/6Gm85LzOSJByz6EV7A7CFN) | 3:44 | 2026-04-03 |  |
+| [No esperes nada](https://open.spotify.com/track/2zUu0Yxl8kbawwgemMv1Xt) | [Mujer Cebra](https://open.spotify.com/artist/6UZQzfJ09W8Dqmr0UoU5HL) | [No esperes nada](https://open.spotify.com/album/7wwlW8Om4ZeOHNDdD1TIpr) | 3:54 | 2026-04-10 |  |
 | [No está todo tan mal](https://open.spotify.com/track/2O7CqCcjia8Sus1TktG17o) | [Mis peores enemigos](https://open.spotify.com/artist/22LHabWSUjUAg3UP4PPjN4) | [Tiempos mejores](https://open.spotify.com/album/5nryhGFH7mema081Q4ahda) | 3:46 | 2026-04-03 |  |
 | [No Los Pueden Separar](https://open.spotify.com/track/7oJgGoOiDOYcwvGkQswzbO) | [RYAN](https://open.spotify.com/artist/3g7K56xAln97Nmy0G1hx8E) | [No Los Pueden Separar](https://open.spotify.com/album/3UQL0qaEoWlzrDcK1W7Z6j) | 2:22 | 2024-04-19 |  |
 | [No Pares \(Sí, sí\)](https://open.spotify.com/track/1Q7Gq9wfgvEiQr5ErcD0Ks) | [La Grecia](https://open.spotify.com/artist/5eAzahInrBCojLVv1oKRlJ) | [Lady Garrón](https://open.spotify.com/album/5GpowTlDdjO8288epvUtWK) | 3:17 | 2025-12-05 | 2026-04-04 |
@@ -231,6 +235,7 @@
 | [parásito \- live session](https://open.spotify.com/track/4KFVDyGi9aQjzSU6xlWNh8) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [dvlp \(live session\)](https://open.spotify.com/album/5fUgJoEeP2CZdGVrW5fuhM) | 4:17 | 2025-11-21 |  |
 | [Película](https://open.spotify.com/track/4R8JF3mYzm28iU8AbibPJO) | [Perras on the beach](https://open.spotify.com/artist/0mSn9qsGHUMllx267A3qX3) | [Película](https://open.spotify.com/album/1d4vNIf3aUIH4W6xjk7pfr) | 1:59 | 2022-03-25 | 2023-03-25 |
 | [Penso a te](https://open.spotify.com/track/0aKzj1pp5jtEUPf7uV0cvB) | [Las Cosas Que Pasan](https://open.spotify.com/artist/1ZqvJubgvceHoBn0ccE5oO), [Calcutta ](https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r) | [Penso a te](https://open.spotify.com/album/5v0doOxorR4wQe3QU2ax6j) | 3:35 | 2022-03-25 | 2023-03-25 |
+| [Pero ella no](https://open.spotify.com/track/5IhwgSrKFfQufwMSK0LCjF) | [MUGRE](https://open.spotify.com/artist/2mJNVPV7WxtrVrPSddTW6V) | [Pero ella no](https://open.spotify.com/album/4THExkvbRXmYNt5ij7y52s) | 2:28 | 2026-04-10 |  |
 | [Perro](https://open.spotify.com/track/3klpuNXDpi8PyuOZ95hn8P) | [Blanco Teta](https://open.spotify.com/artist/2jHbb2xaFQ1CjUnE8RJeWT) | [Rompe Paga](https://open.spotify.com/album/6DYe8eqt3a00JVrDiXAAdB) | 3:02 | 2023-06-02 | 2024-06-07 |
 | [Perro Agonizante](https://open.spotify.com/track/1h9tjXvZP2f0AptoQAkSpt) | [Niña Lobo](https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi) | [Lo Que Duró la Vida de Alguien](https://open.spotify.com/album/1laV2Pxw2s1PCOhYNLEk5v) | 2:28 | 2022-03-25 | 2024-07-13 |
 | [Pide Más](https://open.spotify.com/track/5SFCNtQT09D6sNTuB8rnl5) | [Homogénica](https://open.spotify.com/artist/4In5xWRYAXf9qCXKmYQ8Tt) | [POST POP](https://open.spotify.com/album/70IzpQpAhKr7QaGEPA1Fvp) | 2:15 | 2025-10-24 |  |

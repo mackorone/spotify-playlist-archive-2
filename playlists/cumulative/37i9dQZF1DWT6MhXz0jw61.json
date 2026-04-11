@@ -382,7 +382,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 222853,
       "name": "2.P.I.G.",
       "url": "https://open.spotify.com/track/3sgv5VRl0IZpocRJcwc5CK"
@@ -1813,6 +1813,28 @@
     },
     {
       "album": {
+        "name": "Always Us",
+        "url": "https://open.spotify.com/album/6rRXxkERGTNjhZmcXUGg99"
+      },
+      "artists": [
+        {
+          "name": "Nana",
+          "url": "https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu"
+        },
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168275,
+      "name": "Always Us",
+      "url": "https://open.spotify.com/track/6JLGyejXhQpkFfojlvYk8f"
+    },
+    {
+      "album": {
         "name": "Am I",
         "url": "https://open.spotify.com/album/06zHsEroXXwXR7pclbeGTl"
       },
@@ -2356,7 +2378,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 127228,
       "name": "Atlantic Avenue",
       "url": "https://open.spotify.com/track/2yPRkI7nHoCpyBs4g30E4n"
@@ -4850,7 +4872,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 346403,
       "name": "buzzerbeater / black christmas",
       "url": "https://open.spotify.com/track/5XO2VBOwEdrQja4fEx4rlp"
@@ -6690,6 +6712,28 @@
       "duration_ms": 212282,
       "name": "cracked screen",
       "url": "https://open.spotify.com/track/74iw3OCAb3it0SjOVw4Dnq"
+    },
+    {
+      "album": {
+        "name": "Crash",
+        "url": "https://open.spotify.com/album/0aZ8O3iAyS7n0FFD4gxKdJ"
+      },
+      "artists": [
+        {
+          "name": "Jay Veno",
+          "url": "https://open.spotify.com/artist/20c3HVlnRiTRZcDFlbgJPg"
+        },
+        {
+          "name": "Free Party",
+          "url": "https://open.spotify.com/artist/2A1dxDBORVkkbHJDVDOhed"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167692,
+      "name": "Crash",
+      "url": "https://open.spotify.com/track/6tMZTuIm1N7jrhO0tf8SWx"
     },
     {
       "album": {
@@ -9804,7 +9848,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 146066,
       "name": "Field Goal",
       "url": "https://open.spotify.com/track/5ZwcGM0t9LQNfXhmhQTVXB"
@@ -11482,7 +11526,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 205714,
       "name": "God's Hands",
       "url": "https://open.spotify.com/track/67w591b4oj8WE3TOqSTO3W"
@@ -12830,7 +12874,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 161584,
       "name": "High Demand",
       "url": "https://open.spotify.com/track/4jjzRZr1VoD6thWdmOjCdU"
@@ -13586,6 +13630,28 @@
       "duration_ms": 114333,
       "name": "Huey and Riley",
       "url": "https://open.spotify.com/track/7E0532TLl13MZI1gB9rhVv"
+    },
+    {
+      "album": {
+        "name": "Humble'Em_PINK / Doin Too Much",
+        "url": "https://open.spotify.com/album/0j9CJn69fdtymqVXfKo4EA"
+      },
+      "artists": [
+        {
+          "name": "REASON",
+          "url": "https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o"
+        },
+        {
+          "name": "CUZZOS",
+          "url": "https://open.spotify.com/artist/0TY3Wab2Z1kmp5jZoxdPjZ"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208502,
+      "name": "Humble'Em_PINK",
+      "url": "https://open.spotify.com/track/542GAgyvyAmFEKgSsUAPUl"
     },
     {
       "album": {
@@ -16126,7 +16192,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 235906,
       "name": "Legacy (with PJ)",
       "url": "https://open.spotify.com/track/7oSdhQFfq5ScVjRkVcj4Ua"
@@ -16908,7 +16974,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 197647,
       "name": "LONELY AT THE TOP",
       "url": "https://open.spotify.com/track/5QL2vDlHHynOfKlBp6mY04"
@@ -16962,7 +17028,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 196150,
       "name": "Lonesome",
       "url": "https://open.spotify.com/track/6XeAixOyTbaI2DMOtBfC37"
@@ -18292,7 +18358,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 161012,
       "name": "Monday",
       "url": "https://open.spotify.com/track/6JdhLdX0A7iUykA0qgDy8z"
@@ -18708,7 +18774,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 188965,
       "name": "Mullet",
       "url": "https://open.spotify.com/track/1yoVIqMrSnhg7ucD1bOCQd"
@@ -21066,7 +21132,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 199157,
       "name": "parlay",
       "url": "https://open.spotify.com/track/6wkXMq27Slu10hg05Mj67o"
@@ -22013,6 +22079,28 @@
     },
     {
       "album": {
+        "name": "Simmie Sims III",
+        "url": "https://open.spotify.com/album/27CufK7Chv4FrKdvsob35j"
+      },
+      "artists": [
+        {
+          "name": "Buddy",
+          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
+        },
+        {
+          "name": "Jay Rock",
+          "url": "https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103728,
+      "name": "Pray For A Blessing",
+      "url": "https://open.spotify.com/track/6cSdSRrXIExY2T7FgPZzEb"
+    },
+    {
+      "album": {
         "name": "PEDALS / PETALS (A Mixtape Narrated by Don Cannon)",
         "url": "https://open.spotify.com/album/7MheQdYU2yYaRCN5i9M974"
       },
@@ -22104,10 +22192,32 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 176551,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/5pOmARmNVJ3fSIOoNbaOrO"
+    },
+    {
+      "album": {
+        "name": "Pressure (feat. Westside Boogie)",
+        "url": "https://open.spotify.com/album/2CXfjC2M2PdyKN36towLfz"
+      },
+      "artists": [
+        {
+          "name": "sa\u00fcd",
+          "url": "https://open.spotify.com/artist/3pYZIM4PKTsP20sNSSLs0m"
+        },
+        {
+          "name": "WESTSIDE BOOGIE",
+          "url": "https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129202,
+      "name": "Pressure (feat. Westside Boogie)",
+      "url": "https://open.spotify.com/track/2jf9ZNhuu3W06PazofuKiU"
     },
     {
       "album": {
@@ -22835,6 +22945,24 @@
     },
     {
       "album": {
+        "name": "ADHD 2 Reloaded",
+        "url": "https://open.spotify.com/album/61MEzXrdKxuTvken9N1C7g"
+      },
+      "artists": [
+        {
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217411,
+      "name": "Reconsider",
+      "url": "https://open.spotify.com/track/68s4qX9mitS8d3u1UY7SDj"
+    },
+    {
+      "album": {
         "name": "Recovery",
         "url": "https://open.spotify.com/album/6dgpURkZ5slU5jlqVjNR7I"
       },
@@ -23202,6 +23330,32 @@
       "duration_ms": 184287,
       "name": "Ride Wit Me",
       "url": "https://open.spotify.com/track/0M4qPmc8oKfxOb7CGApadS"
+    },
+    {
+      "album": {
+        "name": "RIDE WIT ME (LET'S RIDE)",
+        "url": "https://open.spotify.com/album/5MmHYswFEyHp2EYt0a1NUW"
+      },
+      "artists": [
+        {
+          "name": "9th Wonder",
+          "url": "https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU"
+        },
+        {
+          "name": "JADA",
+          "url": "https://open.spotify.com/artist/0Xljt7s05h7xt9edRtZLmx"
+        },
+        {
+          "name": "S14H",
+          "url": "https://open.spotify.com/artist/1oeCKtSTQzEUklVw3VmGkC"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182073,
+      "name": "RIDE WIT ME (LET'S RIDE)",
+      "url": "https://open.spotify.com/track/2xTHGaMryJ0sYILqZ0mS02"
     },
     {
       "album": {
@@ -23726,6 +23880,24 @@
       "duration_ms": 193846,
       "name": "Saluted From Jay (feat. Babyface Ray)",
       "url": "https://open.spotify.com/track/5ZWdJ0BvVjQCl6fbr3bC8v"
+    },
+    {
+      "album": {
+        "name": "SAME SH!T",
+        "url": "https://open.spotify.com/album/34v3zMWlkxsKbaYnERZV6d"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Rashad",
+          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193294,
+      "name": "SAME SH!T",
+      "url": "https://open.spotify.com/track/0EOc1cP1zMmF9kR0w3AM5f"
     },
     {
       "album": {
@@ -27598,7 +27770,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 181333,
       "name": "The Fall",
       "url": "https://open.spotify.com/track/3aaqAiPAaaKyO67ANXbBr0"
@@ -29500,7 +29672,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 211366,
       "name": "Typewriter (feat. Kenny Mason)",
       "url": "https://open.spotify.com/track/1p5i2fVazI6bUVmwWTJfaj"
@@ -29580,7 +29752,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 208640,
       "name": "Unapologetic",
       "url": "https://open.spotify.com/track/2UVnxfCRYPysZ1V8s1XICt"
@@ -29714,7 +29886,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 212560,
       "name": "US vs. Everybody",
       "url": "https://open.spotify.com/track/0466fMldmpyQGqzmcips8K"
@@ -31208,7 +31380,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 182678,
       "name": "You Can't See Us",
       "url": "https://open.spotify.com/track/5JlO11HPmL7RLtT1klNDnH"

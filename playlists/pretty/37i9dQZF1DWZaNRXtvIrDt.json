@@ -1,13 +1,181 @@
 {
   "description": "A new world of alternative electronic music.",
-  "num_followers": 129999,
+  "num_followers": 129993,
   "original_name": "Portal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOtZZ9mbCPihj03JI6z2Dh1Xm9IN",
+  "snapshot_id": "AAAAADPcABDW4MmY0biFC2LzZ4w2N0VV",
   "tracks": [
+    {
+      "added_at": "2026-04-10 04:01:08",
+      "album": {
+        "name": "Ordinary Badman",
+        "url": "https://open.spotify.com/album/0G9GXFwO58VA6N5zuShJ90"
+      },
+      "artists": [
+        {
+          "name": "Hugh B",
+          "url": "https://open.spotify.com/artist/0ccbE6uaLu9K9U1QTNvjzn"
+        }
+      ],
+      "duration_ms": 282632,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/75KuWJNM0WaXnDlLBprBJV"
+    },
+    {
+      "added_at": "2026-04-10 04:01:08",
+      "album": {
+        "name": "Left At Sunset",
+        "url": "https://open.spotify.com/album/0BqEGSrVCZaGd8HuILOlGX"
+      },
+      "artists": [
+        {
+          "name": "Tornado Wallace",
+          "url": "https://open.spotify.com/artist/6GNWPphcJ5CtIwCJVV1lLT"
+        }
+      ],
+      "duration_ms": 564702,
+      "name": "Plasticine",
+      "url": "https://open.spotify.com/track/1KubDxVPHalEloqDaGrepQ"
+    },
+    {
+      "added_at": "2026-04-10 04:01:08",
+      "album": {
+        "name": "Electronic Arts",
+        "url": "https://open.spotify.com/album/2Clka6a46Wgtzy8Cc15pZT"
+      },
+      "artists": [
+        {
+          "name": "Sleep D",
+          "url": "https://open.spotify.com/artist/7DSX8wua9P7LuGapEmftQc"
+        }
+      ],
+      "duration_ms": 450461,
+      "name": "Textile",
+      "url": "https://open.spotify.com/track/450d0Ms4qZ5nfOQPSNRXbE"
+    },
+    {
+      "added_at": "2026-04-10 04:01:08",
+      "album": {
+        "name": "Elastic (Phase I)",
+        "url": "https://open.spotify.com/album/29cHaiWLnZhffzoS5rEnWB"
+      },
+      "artists": [
+        {
+          "name": "Opal Sunn",
+          "url": "https://open.spotify.com/artist/78S74FaXeZ5e7JyMF8Axok"
+        }
+      ],
+      "duration_ms": 628184,
+      "name": "Elastic - Phase I",
+      "url": "https://open.spotify.com/track/3RO9b5KtpkOEbLIodiGUtf"
+    },
+    {
+      "added_at": "2026-04-10 04:01:08",
+      "album": {
+        "name": "Leave Your Life",
+        "url": "https://open.spotify.com/album/4qeik8tRjrndVWsaS7bRBS"
+      },
+      "artists": [
+        {
+          "name": "Alex Kassian",
+          "url": "https://open.spotify.com/artist/3YcfGOBLEsPKVZj5Ecu0QY"
+        }
+      ],
+      "duration_ms": 369473,
+      "name": "Leave Your Life - Lonely Hearts Mix",
+      "url": "https://open.spotify.com/track/4byAVCrUbP9O89nyIeclaL"
+    },
+    {
+      "added_at": "2026-04-10 04:01:08",
+      "album": {
+        "name": "Wrote For Luck (Mella Dee Remix)",
+        "url": "https://open.spotify.com/album/5YYuxw5V4rg9pZlwKujb3p"
+      },
+      "artists": [
+        {
+          "name": "Happy Mondays",
+          "url": "https://open.spotify.com/artist/339DNkQkuhHKEcHw6oK8f0"
+        },
+        {
+          "name": "Mella Dee",
+          "url": "https://open.spotify.com/artist/2iT8KIetokMHRjhj8dJuNn"
+        }
+      ],
+      "duration_ms": 608484,
+      "name": "Wrote For Luck - Mella Dee Remix",
+      "url": "https://open.spotify.com/track/5ZQMgzZXt8rLf2UxUv4Hdn"
+    },
+    {
+      "added_at": "2025-12-18 13:00:08",
+      "album": {
+        "name": "132 TECHNO",
+        "url": "https://open.spotify.com/album/0aXbjkmx97z1wdTCbf79WY"
+      },
+      "artists": [
+        {
+          "name": "Kelly Lee Owens",
+          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
+        }
+      ],
+      "duration_ms": 334584,
+      "name": "132 TECHNO",
+      "url": "https://open.spotify.com/track/13thxVYAfM7IGa4HLWGjI1"
+    },
+    {
+      "added_at": "2025-12-18 13:00:08",
+      "album": {
+        "name": "Lazy Haze",
+        "url": "https://open.spotify.com/album/7ogyBA2ovnKRNOdSJnZ1Kt"
+      },
+      "artists": [
+        {
+          "name": "Yere",
+          "url": "https://open.spotify.com/artist/4lzDszfgtJrnmeBfDu9dt7"
+        },
+        {
+          "name": "Bicycle Ride",
+          "url": "https://open.spotify.com/artist/1aEKpfW8sw5XryObAyPUFE"
+        }
+      ],
+      "duration_ms": 126998,
+      "name": "Lazy Haze",
+      "url": "https://open.spotify.com/track/4U3FH4HfSRtFyVhuRiDYuP"
+    },
+    {
+      "added_at": "2025-12-18 13:00:08",
+      "album": {
+        "name": "Imperfect Circuit",
+        "url": "https://open.spotify.com/album/6qyn5YEeah0tVxZONoEyvL"
+      },
+      "artists": [
+        {
+          "name": "Jon Sable",
+          "url": "https://open.spotify.com/artist/7fK4fTHz2dA1hlBe3ZhoRh"
+        }
+      ],
+      "duration_ms": 352500,
+      "name": "Imperfect Circuit",
+      "url": "https://open.spotify.com/track/4NbkQ2CViXL4orFuynWgV5"
+    },
+    {
+      "added_at": "2026-04-10 04:01:08",
+      "album": {
+        "name": "C'est Toi",
+        "url": "https://open.spotify.com/album/4q8j2pBnzDSR1wuKUPaqoF"
+      },
+      "artists": [
+        {
+          "name": "LNRT",
+          "url": "https://open.spotify.com/artist/3K6wMz8wZO3G0ffTAQeqgC"
+        }
+      ],
+      "duration_ms": 190080,
+      "name": "C'est Toi",
+      "url": "https://open.spotify.com/track/2Sr4AtddCOnpPcyJR1pKEW"
+    },
     {
       "added_at": "2025-10-16 13:00:01",
       "album": {
@@ -23,22 +191,6 @@
       "duration_ms": 186046,
       "name": "COULD BE WRONG",
       "url": "https://open.spotify.com/track/5zuex7tbGFz0gSHlrMvQdu"
-    },
-    {
-      "added_at": "2026-02-19 13:00:29",
-      "album": {
-        "name": "On The Ground",
-        "url": "https://open.spotify.com/album/61jk5gIaj4QKKgJxHeA8xX"
-      },
-      "artists": [
-        {
-          "name": "oskar med k",
-          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
-        }
-      ],
-      "duration_ms": 134244,
-      "name": "On The Ground",
-      "url": "https://open.spotify.com/track/331bJRuzgiksWvFiuVKhmH"
     },
     {
       "added_at": "2025-10-16 13:00:01",
@@ -279,26 +431,6 @@
       "duration_ms": 201247,
       "name": "Old' On",
       "url": "https://open.spotify.com/track/38zrbBzmIUC4OPL2NUBx4n"
-    },
-    {
-      "added_at": "2026-02-19 13:00:29",
-      "album": {
-        "name": "Original Nuttah 25",
-        "url": "https://open.spotify.com/album/3CDghMhp5uTwVQVZ9vBVm5"
-      },
-      "artists": [
-        {
-          "name": "Uk Apache",
-          "url": "https://open.spotify.com/artist/0YE17nrGKTk37bcKpKVUvi"
-        },
-        {
-          "name": "SHY FX",
-          "url": "https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j"
-        }
-      ],
-      "duration_ms": 231529,
-      "name": "Original Nuttah 25",
-      "url": "https://open.spotify.com/track/55K24vPjLgAX8yLAq8fErj"
     },
     {
       "added_at": "2025-10-16 13:00:01",
@@ -565,26 +697,6 @@
       "url": "https://open.spotify.com/track/5LM5D4axlHlw25FSLB9yqN"
     },
     {
-      "added_at": "2025-12-18 13:00:08",
-      "album": {
-        "name": "Lazy Haze",
-        "url": "https://open.spotify.com/album/7ogyBA2ovnKRNOdSJnZ1Kt"
-      },
-      "artists": [
-        {
-          "name": "Yere",
-          "url": "https://open.spotify.com/artist/4lzDszfgtJrnmeBfDu9dt7"
-        },
-        {
-          "name": "Bicycle Ride",
-          "url": "https://open.spotify.com/artist/1aEKpfW8sw5XryObAyPUFE"
-        }
-      ],
-      "duration_ms": 126998,
-      "name": "Lazy Haze",
-      "url": "https://open.spotify.com/track/4U3FH4HfSRtFyVhuRiDYuP"
-    },
-    {
       "added_at": "2025-10-16 13:00:01",
       "album": {
         "name": "Back 2 Back",
@@ -725,22 +837,6 @@
       "url": "https://open.spotify.com/track/7JvuiP16UTKCnieS9E2Bg3"
     },
     {
-      "added_at": "2026-02-19 13:00:29",
-      "album": {
-        "name": "jazz liberation",
-        "url": "https://open.spotify.com/album/3ekHjEGoPGSQgmvZwZ2WIT"
-      },
-      "artists": [
-        {
-          "name": "FUTUREGiRL",
-          "url": "https://open.spotify.com/artist/7JXEEVwdyGNu1Qhc8x6egZ"
-        }
-      ],
-      "duration_ms": 261818,
-      "name": "jazz liberation",
-      "url": "https://open.spotify.com/track/5frKWEtszbt89Sz9qeJw32"
-    },
-    {
       "added_at": "2025-10-16 13:00:01",
       "album": {
         "name": "Maia Maia",
@@ -759,22 +855,6 @@
       "duration_ms": 181498,
       "name": "Maia Maia",
       "url": "https://open.spotify.com/track/2DCAWhnusZQoxC7BffLjGY"
-    },
-    {
-      "added_at": "2025-10-16 13:00:01",
-      "album": {
-        "name": "Stay With Me",
-        "url": "https://open.spotify.com/album/069YF5u0N8zI2htQXUod5R"
-      },
-      "artists": [
-        {
-          "name": "X CLUB.",
-          "url": "https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ"
-        }
-      ],
-      "duration_ms": 227500,
-      "name": "Stay With Me",
-      "url": "https://open.spotify.com/track/24kyh4hM1lJTxpfL2QxnTM"
     },
     {
       "added_at": "2025-10-16 13:00:01",
@@ -831,106 +911,18 @@
     {
       "added_at": "2025-10-16 13:00:01",
       "album": {
-        "name": "Who Are They?",
-        "url": "https://open.spotify.com/album/12PEHRDDMkmP12U79JDaCM"
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/069YF5u0N8zI2htQXUod5R"
       },
       "artists": [
         {
-          "name": "Hedonics",
-          "url": "https://open.spotify.com/artist/24rnH82g3EdeLwIl9BBGvS"
+          "name": "X CLUB.",
+          "url": "https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ"
         }
       ],
-      "duration_ms": 294339,
-      "name": "Who Are They?",
-      "url": "https://open.spotify.com/track/49981XZ6QqcqRJ1LDQWDB2"
-    },
-    {
-      "added_at": "2026-02-19 13:00:29",
-      "album": {
-        "name": "Shellerz Volume One",
-        "url": "https://open.spotify.com/album/3YbE8A7z6u1qtAXJRj8jbZ"
-      },
-      "artists": [
-        {
-          "name": "4K",
-          "url": "https://open.spotify.com/artist/4B5o3KYgu0h7jpphQsrDRP"
-        }
-      ],
-      "duration_ms": 270344,
-      "name": "Murda Style",
-      "url": "https://open.spotify.com/track/3CfXDUYPtL6UWgLf5UES2R"
-    },
-    {
-      "added_at": "2025-10-16 13:00:01",
-      "album": {
-        "name": "Hotel Living",
-        "url": "https://open.spotify.com/album/679EGqfIi13IxNcGwbyVP0"
-      },
-      "artists": [
-        {
-          "name": "1tbsp",
-          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
-        },
-        {
-          "name": "cherry chola",
-          "url": "https://open.spotify.com/artist/6NXpBkPBwe9xbTHSwOuquz"
-        }
-      ],
-      "duration_ms": 143825,
-      "name": "Dolly Destructiva",
-      "url": "https://open.spotify.com/track/7LSq6cn5rFWH1gQzG2rMgD"
-    },
-    {
-      "added_at": "2025-10-16 13:00:01",
-      "album": {
-        "name": "Wicked Rhythm EP",
-        "url": "https://open.spotify.com/album/6MRN1oX33WDwUf9fJGMxNj"
-      },
-      "artists": [
-        {
-          "name": "Sekta",
-          "url": "https://open.spotify.com/artist/06PMrOCpEXRYONKv8KlLXD"
-        }
-      ],
-      "duration_ms": 173801,
-      "name": "Wicked Sound",
-      "url": "https://open.spotify.com/track/6vITRyQ93GruFeNnR6OQ1U"
-    },
-    {
-      "added_at": "2025-12-18 13:00:08",
-      "album": {
-        "name": "132 TECHNO",
-        "url": "https://open.spotify.com/album/0aXbjkmx97z1wdTCbf79WY"
-      },
-      "artists": [
-        {
-          "name": "Kelly Lee Owens",
-          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
-        }
-      ],
-      "duration_ms": 334584,
-      "name": "132 TECHNO",
-      "url": "https://open.spotify.com/track/13thxVYAfM7IGa4HLWGjI1"
-    },
-    {
-      "added_at": "2025-10-16 13:00:01",
-      "album": {
-        "name": "Night Moves",
-        "url": "https://open.spotify.com/album/6jsl3oV9zfqb7l7rpbQDki"
-      },
-      "artists": [
-        {
-          "name": "Joshwa",
-          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
-        },
-        {
-          "name": "Enzo is Burning",
-          "url": "https://open.spotify.com/artist/2KIWGryAlZJj1PwpdRTDCB"
-        }
-      ],
-      "duration_ms": 201508,
-      "name": "Night Moves",
-      "url": "https://open.spotify.com/track/3txXtinyEJNYIifRyLK3z2"
+      "duration_ms": 227500,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/24kyh4hM1lJTxpfL2QxnTM"
     }
   ],
   "unique_name": "Portal",

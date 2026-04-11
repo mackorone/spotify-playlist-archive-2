@@ -988,7 +988,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-05",
+      "date_removed": null,
       "duration_ms": 108121,
       "name": "Bazooka",
       "url": "https://open.spotify.com/track/28Y6r99oMdMAb4LxwLLKwa"
@@ -1006,7 +1006,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 108121,
       "name": "Bazooka",
       "url": "https://open.spotify.com/track/65WKFX9Zjt2jhF2SByGmRg"
@@ -1888,7 +1888,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 166955,
       "name": "Cicada",
       "url": "https://open.spotify.com/track/2dvTutCISmanWOYdFMfqKo"
@@ -3330,7 +3330,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 153351,
       "name": "Fabulous",
       "url": "https://open.spotify.com/track/1LkpaAtSjAx5n4rrTkIQyu"
@@ -9024,7 +9024,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-04",
+      "date_removed": null,
       "duration_ms": 138346,
       "name": "POP DAT THANG",
       "url": "https://open.spotify.com/track/0QgwjxR1VchizzckKXwyBu"
@@ -9278,10 +9278,28 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 128659,
       "name": "Queen St",
       "url": "https://open.spotify.com/track/6o86CKQQc85ql8pMHrvJpo"
+    },
+    {
+      "album": {
+        "name": "Queen St",
+        "url": "https://open.spotify.com/album/74R9aj8T53tA5jE5ykCsuo"
+      },
+      "artists": [
+        {
+          "name": "twentythree",
+          "url": "https://open.spotify.com/artist/1GQzpnt34BgH3ojK5zYI11"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128682,
+      "name": "Queen St",
+      "url": "https://open.spotify.com/track/7b2KsfXCB3pwY9fBJWKYqY"
     },
     {
       "album": {
@@ -9492,7 +9510,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-10",
+      "date_removed": null,
       "duration_ms": 127812,
       "name": "Recall - TikTok Version",
       "url": "https://open.spotify.com/track/17exkbKz4UeuBe3PNPko9b"

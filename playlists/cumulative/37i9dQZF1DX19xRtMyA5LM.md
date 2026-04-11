@@ -4,7 +4,7 @@
 
 > De beste tracks in WS❗️Cover: Lusho
 
-393 songs - 17 hr 39 min
+395 songs - 17 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Alleen Is Maar Alleen](https://open.spotify.com/track/6tcolgcmZjT4AFqvNStPWz) | [Lusho](https://open.spotify.com/artist/28PqBC4Est3XUrAiPwvzKs), [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4) | [Alleen Is Maar Alleen](https://open.spotify.com/album/7EtaXo9QKligGu9dgenUSy) | 2:22 | 2026-03-26 |  |
 | [Alles of Niks](https://open.spotify.com/track/2wyqjUBjFMAqS2ACYmQA9F) | [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd), [THEZ](https://open.spotify.com/artist/5Eo75LPyKw1VknEGpMrcO6) | [Reset](https://open.spotify.com/album/01YPoXB22upTPnELbZ1UBw) | 3:06 | 2026-01-22 | 2026-01-27 |
 | [Alo](https://open.spotify.com/track/0tEIOQkNRNn6ZGoalxsXDq) | [Highguest](https://open.spotify.com/artist/5Wmp0SPkZCGuTNHHa3jJdj), [YV](https://open.spotify.com/artist/5A7HNCq6t0xNDOjZIUZDRk), [Ksix](https://open.spotify.com/artist/2vzRN2N10AtxEHaxSIN1NR) | [Alo](https://open.spotify.com/album/5nbMRLAWtDojQ5fMkAJ2M4) | 2:36 | 2026-04-02 |  |
-| [Alo](https://open.spotify.com/track/3bsk1YJFVOVjJPF7z6QFKD) | [Maycash](https://open.spotify.com/artist/3XuZ73r4HTBo0C8rlGSCmD) | [Alo](https://open.spotify.com/album/7gvJTfD0bqq6h9ziaze3tO) | 2:34 | 2026-03-09 |  |
+| [Alo](https://open.spotify.com/track/3bsk1YJFVOVjJPF7z6QFKD) | [Maycash](https://open.spotify.com/artist/3XuZ73r4HTBo0C8rlGSCmD) | [Alo](https://open.spotify.com/album/7gvJTfD0bqq6h9ziaze3tO) | 2:34 | 2026-03-09 | 2026-04-11 |
 | [Ambassade](https://open.spotify.com/track/3YoaeRrMo9u4jDWcBDyUJu) | [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd) | [Reset](https://open.spotify.com/album/01YPoXB22upTPnELbZ1UBw) | 3:09 | 2026-02-03 |  |
 | [AMBIANCE](https://open.spotify.com/track/7twLk6frSaHq0184G0nwi1) | [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI) | [AMBIANCE](https://open.spotify.com/album/0O24lyA2ujee85xnSXWHMk) | 2:29 | 2026-03-26 |  |
 | [AMG Met Matje](https://open.spotify.com/track/5ggvkkbCuV1rh01Ey8KoUY) | [Qlas](https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS), [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [AMG Met Matje](https://open.spotify.com/album/2OAo3a49XmUBYcb5gAtOzP) | 3:27 | 2026-02-05 |  |
@@ -162,6 +162,7 @@
 | [Ik Kan Niet Op Niks Zijn](https://open.spotify.com/track/7ME8lhzqpwfWUMzthlb6KI) | [Hekje31](https://open.spotify.com/artist/010ZclHHy7BrTO5AQ0xGgn) | [Ik Kan Niet Op Niks Zijn](https://open.spotify.com/album/2x6w8WIpWTWlNptFxiEklE) | 2:47 | 2026-04-09 |  |
 | [Ik Ken Die Girls](https://open.spotify.com/track/4LCDrR00rJwjGPQYKavU7G) | [Yung Felix](https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu), [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI), [Rijck](https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ) | [Ik Ken Die Girls](https://open.spotify.com/album/3MJnKNmeKEjunKkT1bZSeW) | 2:16 | 2026-03-09 |  |
 | [Ik wil praten..](https://open.spotify.com/track/6XMGS64tneEJ1CdchExqUv) | [U\-niq](https://open.spotify.com/artist/15cp217nCdrUbiZ2m7wyAb), [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [Ik wil praten..](https://open.spotify.com/album/5Aj3yv9Do0hXq9QELtzkWd) | 3:12 | 2026-01-05 | 2026-02-13 |
+| [Immortal](https://open.spotify.com/track/6z7QPblgmq6HOhuoYEtBZW) | [Cité](https://open.spotify.com/artist/1IzmTWOBk33eqWZmWpxUqp) | [Immortal](https://open.spotify.com/album/4HZtXTSZvP9kVEhW2QI6CI) | 2:36 | 2026-04-10 |  |
 | [In Eigen Hand](https://open.spotify.com/track/3bW3lp1NObjje2Clp9Eomq) | [Ares](https://open.spotify.com/artist/30WLe30YBfDFoIkJS0Tml9) | [In Eigen Hand](https://open.spotify.com/album/0b2QG975usDskZiExiAzad) | 3:29 | 2025-10-09 | 2025-10-24 |
 | [Inter Milaan](https://open.spotify.com/track/5Vo7eQfswRbthASFk5Y5jY) | [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd), [Leblanco](https://open.spotify.com/artist/3xPDzlchimtvIGqPc1lZl2) | [Reset](https://open.spotify.com/album/01YPoXB22upTPnELbZ1UBw) | 2:41 | 2026-01-22 |  |
 | [Introvert](https://open.spotify.com/track/1e6FeZgKeUOhZ7jXQ0J7yn) | [Esko](https://open.spotify.com/artist/0rQ69yrbz7CeUmXUn1beIj), [Fresku](https://open.spotify.com/artist/5m1cLmgZIfEYPLejhLFR10) | [Vrijspel](https://open.spotify.com/album/2VGSxA5QMA7Kz7T7ugTYzi) | 3:29 | 2025-11-03 | 2025-11-28 |
@@ -330,6 +331,7 @@
 | [StAYbLESS.](https://open.spotify.com/track/7KU42QXlh12bmtBhuasiqg) | [Eves Laurent](https://open.spotify.com/artist/5QWQYxfuoNq7iJBlbIAYRS) | [StAYbLESS.](https://open.spotify.com/album/3NxlYl6uMcn8hQPOsOq7Ch) | 3:22 | 2025-10-30 | 2026-02-20 |
 | [Stenen](https://open.spotify.com/track/1ytJk4rlLoloGfq8V5uhzm) | [Zack Ink](https://open.spotify.com/artist/7uaikZmOtxXTNe5kPWv5t6), [Eves Laurent](https://open.spotify.com/artist/5QWQYxfuoNq7iJBlbIAYRS) | [Stenen](https://open.spotify.com/album/3s7dQ2oumFQWZFvMUxnE9p) | 2:32 | 2025-08-04 | 2025-08-29 |
 | [Stenen & Liquide](https://open.spotify.com/track/6BwAzx1XS2j7QTHPFPOnEm) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN) | [Stenen & Liquide](https://open.spotify.com/album/2gXnEAPoYOUvy6sfk2H2db) | 1:48 | 2026-03-12 |  |
+| [Street therapy](https://open.spotify.com/track/1WVNpw65SACTQtcvf5xY5z) | [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El) | [Street therapy](https://open.spotify.com/album/2fkYO5Bf9EcLzQ0ZVuRMQ3) | 2:23 | 2026-04-10 |  |
 | [Suffe Goon](https://open.spotify.com/track/1wIuLWkmtamogzUPFTrtXs) | [ADF Samski](https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8), [Qlas](https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS), [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Suffe Goon](https://open.spotify.com/album/3TcdEsLyQGGDeeC8eZ4t8F) | 3:01 | 2025-07-17 | 2025-08-29 |
 | [SUPREME](https://open.spotify.com/track/5quw3QXbs7SPmC1bUkHzp7) | [Ashafar](https://open.spotify.com/artist/438nTuoZFCZCyBl33jE9dU), [Leblanco](https://open.spotify.com/artist/3xPDzlchimtvIGqPc1lZl2) | [SUPREME](https://open.spotify.com/album/1h4e2OXH9T9Hb2cHLvC4E7) | 2:12 | 2025-07-17 | 2025-08-29 |
 | [Tafel Voor 2](https://open.spotify.com/track/68xWjy9I9MvZydX02I5OAH) | [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw) | [Tafel Voor 2](https://open.spotify.com/album/3KZ7sUm5SAEV7TaSuQ7PPA) | 3:15 | 2025-09-18 | 2025-11-04 |

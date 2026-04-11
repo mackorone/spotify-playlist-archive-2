@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > The best new music by independent artists and labels in Canada\. Updates every month\. Cover: Koko Love, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,499 likes - 30 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,498 likes - 30 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 29 | [Sound Spell](https://open.spotify.com/track/4NPft5UY40Uxfm1ZRRM6ys) | [Hyaenas](https://open.spotify.com/artist/3WURoSXW6bsmAW6JtgYiYU) | [Sound Spell](https://open.spotify.com/album/6wnzmIsCVmhHR4BG4ZjUdN) | 3:19 |
 | 30 | [Author](https://open.spotify.com/track/4gpKAQChgmF5xfiiYaxYiw) | [Laura Roy](https://open.spotify.com/artist/5QPrSgtPwMPMdDNWQyQDXR) | [Author](https://open.spotify.com/album/0PpBOwgIKLnY89QNFviZhD) | 3:39 |
 
-Snapshot ID: `AAAAAIilXnIkoJHxw6/8cpoE4xiB8gZu`
+Snapshot ID: `AAAAAHdG4Lqru5uAqaX04JsFpZ+6vTOK`

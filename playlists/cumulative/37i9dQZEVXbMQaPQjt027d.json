@@ -1832,7 +1832,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-05",
+      "date_removed": null,
       "duration_ms": 108121,
       "name": "Bazooka",
       "url": "https://open.spotify.com/track/28Y6r99oMdMAb4LxwLLKwa"
@@ -1850,7 +1850,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 108121,
       "name": "Bazooka",
       "url": "https://open.spotify.com/track/65WKFX9Zjt2jhF2SByGmRg"
@@ -8734,7 +8734,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 169191,
       "name": "Ik Kom Terug",
       "url": "https://open.spotify.com/track/1wiBI0OGxVOzGPAyJFr7dy"
@@ -9356,7 +9356,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-25",
+      "date_removed": null,
       "duration_ms": 156393,
       "name": "Jamaican (Bam Bam)",
       "url": "https://open.spotify.com/track/7e4zDInS6tA2jwzphvs2Ay"
@@ -15378,7 +15378,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-07",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"
@@ -17066,7 +17066,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 89809,
       "name": "TAKA LA DENTRO",
       "url": "https://open.spotify.com/track/4SN97PWG1WzClH2W08x8dr"
@@ -19098,7 +19098,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 255653,
       "name": "Via Dolorosa",
       "url": "https://open.spotify.com/track/5KuwWU1pykvS0mZ5RK4HkX"
@@ -20064,6 +20064,24 @@
       "duration_ms": 199738,
       "name": "When I Stand",
       "url": "https://open.spotify.com/track/7zaMzteK8ExKLUvJaUpX9w"
+    },
+    {
+      "album": {
+        "name": "When I Stand",
+        "url": "https://open.spotify.com/album/7LFRhhyy2DuAETHdjwrFel"
+      },
+      "artists": [
+        {
+          "name": "Owen James",
+          "url": "https://open.spotify.com/artist/6kqeHxe4IG1RCR15nMT34L"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199836,
+      "name": "When I Stand",
+      "url": "https://open.spotify.com/track/4oWlx07Vhjw6s65CV28HpQ"
     },
     {
       "album": {

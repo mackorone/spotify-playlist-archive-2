@@ -1,6 +1,6 @@
 {
   "description": "Lose yourself in the cosmic spheres of Psytrance.",
-  "num_followers": 597028,
+  "num_followers": 597090,
   "original_name": "Psytrance Supernova",
   "owner": {
     "name": "Spotify",
@@ -371,22 +371,6 @@
     {
       "added_at": "2025-08-15 04:00:20",
       "album": {
-        "name": "Aware",
-        "url": "https://open.spotify.com/album/03C5aokmrg7mZq0odQryVu"
-      },
-      "artists": [
-        {
-          "name": "Symphonix",
-          "url": "https://open.spotify.com/artist/3YrMuDBgkI3zUJUAyKfxFm"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Aware",
-      "url": "https://open.spotify.com/track/2kp6AKfu0JauDqwqTBSSVP"
-    },
-    {
-      "added_at": "2025-08-15 04:00:20",
-      "album": {
         "name": "He.art (Omiki & Terra Remix)",
         "url": "https://open.spotify.com/album/2YgMh1KbaXvV5GByqywQAU"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 432676,
       "name": "He.art (Omiki & Terra Remix)",
       "url": "https://open.spotify.com/track/0IQ2lKaun7QeB4ixCbJoIb"
+    },
+    {
+      "added_at": "2025-08-15 04:00:20",
+      "album": {
+        "name": "Aware",
+        "url": "https://open.spotify.com/album/03C5aokmrg7mZq0odQryVu"
+      },
+      "artists": [
+        {
+          "name": "Symphonix",
+          "url": "https://open.spotify.com/artist/3YrMuDBgkI3zUJUAyKfxFm"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Aware",
+      "url": "https://open.spotify.com/track/2kp6AKfu0JauDqwqTBSSVP"
     },
     {
       "added_at": "2025-08-15 04:00:20",
@@ -855,6 +855,22 @@
     {
       "added_at": "2025-08-15 04:00:20",
       "album": {
+        "name": "I Want Your Soul",
+        "url": "https://open.spotify.com/album/4wXLChVEExhDz4PQ37V8yx"
+      },
+      "artists": [
+        {
+          "name": "Naturalize",
+          "url": "https://open.spotify.com/artist/0fzvJQrOtf2nhtgNCRZ022"
+        }
+      ],
+      "duration_ms": 420872,
+      "name": "I Want Your Soul",
+      "url": "https://open.spotify.com/track/1jRBWD3P86rcJi2AAONZdz"
+    },
+    {
+      "added_at": "2025-08-15 04:00:20",
+      "album": {
         "name": "Mystical Experience",
         "url": "https://open.spotify.com/album/1gTx8C7jJeaHNDFLc6i8Mj"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 550985,
       "name": "Mystical Experience",
       "url": "https://open.spotify.com/track/6LPQmTty2Vnr2Im63pvmMd"
-    },
-    {
-      "added_at": "2025-08-15 04:00:20",
-      "album": {
-        "name": "I Want Your Soul",
-        "url": "https://open.spotify.com/album/4wXLChVEExhDz4PQ37V8yx"
-      },
-      "artists": [
-        {
-          "name": "Naturalize",
-          "url": "https://open.spotify.com/artist/0fzvJQrOtf2nhtgNCRZ022"
-        }
-      ],
-      "duration_ms": 420872,
-      "name": "I Want Your Soul",
-      "url": "https://open.spotify.com/track/1jRBWD3P86rcJi2AAONZdz"
     },
     {
       "added_at": "2025-08-15 04:00:20",
@@ -911,26 +911,6 @@
     {
       "added_at": "2025-08-15 04:00:20",
       "album": {
-        "name": "All Gone",
-        "url": "https://open.spotify.com/album/3h9i8vXutqHGH5QkxUEG6o"
-      },
-      "artists": [
-        {
-          "name": "Durs",
-          "url": "https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs"
-        },
-        {
-          "name": "Jacob",
-          "url": "https://open.spotify.com/artist/5IRGhffWFbNGJqS7wc7UDN"
-        }
-      ],
-      "duration_ms": 229436,
-      "name": "All Gone",
-      "url": "https://open.spotify.com/track/6imZUICpik2ZVecP0MO3aF"
-    },
-    {
-      "added_at": "2025-08-15 04:00:20",
-      "album": {
         "name": "Elsewhere",
         "url": "https://open.spotify.com/album/3XpUhJ5qINVQxYS5OqnIUE"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 417391,
       "name": "Elsewhere - Original mix",
       "url": "https://open.spotify.com/track/6rr9fNtCD6NJISKD3X6Q2u"
+    },
+    {
+      "added_at": "2025-08-15 04:00:20",
+      "album": {
+        "name": "All Gone",
+        "url": "https://open.spotify.com/album/3h9i8vXutqHGH5QkxUEG6o"
+      },
+      "artists": [
+        {
+          "name": "Durs",
+          "url": "https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs"
+        },
+        {
+          "name": "Jacob",
+          "url": "https://open.spotify.com/artist/5IRGhffWFbNGJqS7wc7UDN"
+        }
+      ],
+      "duration_ms": 229436,
+      "name": "All Gone",
+      "url": "https://open.spotify.com/track/6imZUICpik2ZVecP0MO3aF"
     },
     {
       "added_at": "2025-08-15 04:00:20",
@@ -1015,26 +1015,6 @@
     {
       "added_at": "2025-08-15 04:00:20",
       "album": {
-        "name": "You & I",
-        "url": "https://open.spotify.com/album/2lhRmzTITHYR9xcAdRho0R"
-      },
-      "artists": [
-        {
-          "name": "Yahel",
-          "url": "https://open.spotify.com/artist/7CHdJ8rVKe6cez9PKlpKrF"
-        },
-        {
-          "name": "Eden Shalev",
-          "url": "https://open.spotify.com/artist/2MqEj8zhXLsnXpWdPGBGPe"
-        }
-      ],
-      "duration_ms": 328937,
-      "name": "You & I",
-      "url": "https://open.spotify.com/track/6evCF4QQGUt2C3pbefE3jH"
-    },
-    {
-      "added_at": "2025-08-15 04:00:20",
-      "album": {
         "name": "IM25",
         "url": "https://open.spotify.com/album/6YEjK95sgoXQn1yGbYjHsp"
       },
@@ -1051,6 +1031,26 @@
       "duration_ms": 401167,
       "name": "Boss La Rosh",
       "url": "https://open.spotify.com/track/2c7y5n1q4rwHNTUPzi4HOe"
+    },
+    {
+      "added_at": "2025-08-15 04:00:20",
+      "album": {
+        "name": "You & I",
+        "url": "https://open.spotify.com/album/2lhRmzTITHYR9xcAdRho0R"
+      },
+      "artists": [
+        {
+          "name": "Yahel",
+          "url": "https://open.spotify.com/artist/7CHdJ8rVKe6cez9PKlpKrF"
+        },
+        {
+          "name": "Eden Shalev",
+          "url": "https://open.spotify.com/artist/2MqEj8zhXLsnXpWdPGBGPe"
+        }
+      ],
+      "duration_ms": 328937,
+      "name": "You & I",
+      "url": "https://open.spotify.com/track/6evCF4QQGUt2C3pbefE3jH"
     },
     {
       "added_at": "2025-08-15 04:00:20",
@@ -1195,26 +1195,6 @@
     {
       "added_at": "2025-08-15 04:00:20",
       "album": {
-        "name": "Behind",
-        "url": "https://open.spotify.com/album/5Pi3BlWvAQUYvgGoedaLvt"
-      },
-      "artists": [
-        {
-          "name": "Durs",
-          "url": "https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs"
-        },
-        {
-          "name": "Deep Kontakt",
-          "url": "https://open.spotify.com/artist/0y3Swirv7gm6gjXl2sayna"
-        }
-      ],
-      "duration_ms": 273375,
-      "name": "Behind",
-      "url": "https://open.spotify.com/track/1kYEeWOIctxfaPSFFUkExZ"
-    },
-    {
-      "added_at": "2025-08-15 04:00:20",
-      "album": {
         "name": "Nova Sinfonia",
         "url": "https://open.spotify.com/album/5vI1eehmzeC4BjGOAoZBEZ"
       },
@@ -1231,6 +1211,26 @@
       "duration_ms": 268591,
       "name": "Nova Sinfonia",
       "url": "https://open.spotify.com/track/61nuwR2CfUzU3CyZevDVbe"
+    },
+    {
+      "added_at": "2025-08-15 04:00:20",
+      "album": {
+        "name": "Behind",
+        "url": "https://open.spotify.com/album/5Pi3BlWvAQUYvgGoedaLvt"
+      },
+      "artists": [
+        {
+          "name": "Durs",
+          "url": "https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs"
+        },
+        {
+          "name": "Deep Kontakt",
+          "url": "https://open.spotify.com/artist/0y3Swirv7gm6gjXl2sayna"
+        }
+      ],
+      "duration_ms": 273375,
+      "name": "Behind",
+      "url": "https://open.spotify.com/track/1kYEeWOIctxfaPSFFUkExZ"
     },
     {
       "added_at": "2025-08-15 04:00:20",
@@ -1495,22 +1495,26 @@
     {
       "added_at": "2025-08-15 04:00:20",
       "album": {
-        "name": "Roshini",
-        "url": "https://open.spotify.com/album/5YUkqNP9SMKt3B0Jm93iMH"
+        "name": "Huna (feat. Ravid Kahalani)",
+        "url": "https://open.spotify.com/album/2zCbJe1hvzAZqkP4JIJMHc"
       },
       "artists": [
         {
-          "name": "Sajanka",
-          "url": "https://open.spotify.com/artist/2VkquxQ6H8d3eGK5ClilOf"
+          "name": "Mariana BO",
+          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
         },
         {
-          "name": "Krodax",
-          "url": "https://open.spotify.com/artist/46fLt8TewU7giaRJ2C6Zmp"
+          "name": "Zafrir",
+          "url": "https://open.spotify.com/artist/3DJVDo0kd19fZXpTabasOX"
+        },
+        {
+          "name": "Ravid Kahalani",
+          "url": "https://open.spotify.com/artist/2H1fweQYJVHp6FKwzpye6s"
         }
       ],
-      "duration_ms": 393590,
-      "name": "Roshini",
-      "url": "https://open.spotify.com/track/7yM3nhPNWiRmSWbNwgu3Se"
+      "duration_ms": 145714,
+      "name": "Huna (feat. Ravid Kahalani)",
+      "url": "https://open.spotify.com/track/2MTosWcPKh92SAzZgZhVlc"
     },
     {
       "added_at": "2025-08-15 04:00:20",
@@ -1535,26 +1539,22 @@
     {
       "added_at": "2025-08-15 04:00:20",
       "album": {
-        "name": "Huna (feat. Ravid Kahalani)",
-        "url": "https://open.spotify.com/album/2zCbJe1hvzAZqkP4JIJMHc"
+        "name": "Roshini",
+        "url": "https://open.spotify.com/album/5YUkqNP9SMKt3B0Jm93iMH"
       },
       "artists": [
         {
-          "name": "Mariana BO",
-          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
+          "name": "Sajanka",
+          "url": "https://open.spotify.com/artist/2VkquxQ6H8d3eGK5ClilOf"
         },
         {
-          "name": "Zafrir",
-          "url": "https://open.spotify.com/artist/3DJVDo0kd19fZXpTabasOX"
-        },
-        {
-          "name": "Ravid Kahalani",
-          "url": "https://open.spotify.com/artist/2H1fweQYJVHp6FKwzpye6s"
+          "name": "Krodax",
+          "url": "https://open.spotify.com/artist/46fLt8TewU7giaRJ2C6Zmp"
         }
       ],
-      "duration_ms": 145714,
-      "name": "Huna (feat. Ravid Kahalani)",
-      "url": "https://open.spotify.com/track/2MTosWcPKh92SAzZgZhVlc"
+      "duration_ms": 393590,
+      "name": "Roshini",
+      "url": "https://open.spotify.com/track/7yM3nhPNWiRmSWbNwgu3Se"
     }
   ],
   "unique_name": "Psytrance Supernova",

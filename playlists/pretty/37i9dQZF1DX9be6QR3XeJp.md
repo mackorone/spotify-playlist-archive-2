@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists from UK&IE\. Cover: Cruz Beckham
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,444 likes - 275 songs - 14 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,445 likes - 275 songs - 14 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

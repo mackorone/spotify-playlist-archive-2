@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 
 > Glitter, glitch and gloss 👢 cover: KATSEYE
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,731 likes - 80 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,718 likes - 80 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [PINKY UP](https://open.spotify.com/track/4KmkJjHTNlr1jFY56Lyz4E) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [PINKY UP](https://open.spotify.com/album/5tLy0MEMDVqiHKso6B4jnz) | 2:11 |
 | 2 | [SAME LA](https://open.spotify.com/track/5PYrRnaRsCOOE0c65L4y2M) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [HALO](https://open.spotify.com/album/4T7qu6MdxoGjzZPErRWgsO) | 3:44 |
-| 3 | [Runway](https://open.spotify.com/track/7BjcYqD0CqXnG45ezWSTYR) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Runway](https://open.spotify.com/album/0WY1wVmchFYlH4f1yZMc90) | 2:51 |
+| 3 | [RUNWAY](https://open.spotify.com/track/7BjcYqD0CqXnG45ezWSTYR) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [RUNWAY](https://open.spotify.com/album/0WY1wVmchFYlH4f1yZMc90) | 2:51 |
 | 4 | [perfect](https://open.spotify.com/track/2KiSzLT48y3RR9SXW0h1da) | [AMBRR](https://open.spotify.com/artist/5YEptScmtPToYK8qyT2Naa) | [perfect / ICE COLD](https://open.spotify.com/album/7gDyDbTj058fkWYBaU0uM7) | 1:50 |
 | 5 | [BRITTANY MURPHY.](https://open.spotify.com/track/4oUrl0RyDqr1DvNDvPNdRL) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [WOR$T GIRL IN AMERICA](https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA) | 3:44 |
 | 6 | [Baewatch](https://open.spotify.com/track/0WQanxyDKJltTrsp29co9T) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Piratebae](https://open.spotify.com/album/3zvIXXx4TxO7px4sUq3IrA) | 3:27 |
-| 7 | [Downfall](https://open.spotify.com/track/2aAcT2candbjm9HghUotKF) | [RYL0](https://open.spotify.com/artist/4LwTWGYy9UJ1WYVkniVnSh) | [Downfall](https://open.spotify.com/album/2ZqZlFztQvsypPBoPcMpP8) | 2:50 |
+| 7 | [Downfall](https://open.spotify.com/track/2aAcT2candbjm9HghUotKF) | [RYL0](https://open.spotify.com/artist/4LwTWGYy9UJ1WYVkniVnSh) | [Downfall](https://open.spotify.com/album/2ZqZlFztQvsypPBoPcMpP8) | 2:47 |
 | 8 | [THONG](https://open.spotify.com/track/5r1D9DtMEElNntJiidxjHG) | [AMARA ctk100](https://open.spotify.com/artist/6g40AmE4t6z5wPuFbytdsy) | [THONG](https://open.spotify.com/album/0vVInRXzDq970OkAn1GMZg) | 2:32 |
 | 9 | [Toothmarks](https://open.spotify.com/track/1gXxefA7Oc4bWtxiGH8NI1) | [Big Softy](https://open.spotify.com/artist/2LuFQE3tHH5XJn89nWPazw) | [Toothmarks](https://open.spotify.com/album/2NeuIvri7hfMmuMKpRcPhS) | 2:55 |
 | 10 | [Hysteria](https://open.spotify.com/track/7cBm3l9gb7D18dqioJ0kEy) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Hysteria](https://open.spotify.com/album/5AKFAqGH2MSyWZX0Vj7ZN2) | 2:23 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 
 > Homegrown emerging pop 🃏<br/>cover: Debbie & Victor Ray
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,161 likes - 60 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,168 likes - 60 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 | 10 | [Funeral at a Pep Rally](https://open.spotify.com/track/58mZi0RMHv44Y3xDIOaJZG) | [Rowan Murphy](https://open.spotify.com/artist/6K2u0V48kHEDTC8yagRHZW) | [Funeral at a Pep Rally](https://open.spotify.com/album/1F3t6wfKXSWzUXS6U58yPC) | 3:20 |
 | 11 | [London](https://open.spotify.com/track/6Og1pgacDVVAm2xC5N9yeb) | [Rachel Leo](https://open.spotify.com/artist/7nvGqdG2C213Fb4ItZyxuQ) | [London](https://open.spotify.com/album/3f0PVlrT754wlLh7RJ4zxc) | 3:23 |
 | 12 | [Squirm](https://open.spotify.com/track/1C5whO9ggWKJGkcI93Cizs) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [Squirm](https://open.spotify.com/album/2Bo5aIgc7CztAnB1mqyPyA) | 2:28 |
-| 13 | [Track 5](https://open.spotify.com/track/1j35t4oAGJegJ7IPcSET5f) | [Ava Joe](https://open.spotify.com/artist/1kExWfjjFzo8vNlmtBjCdj) | [Big Beautiful Mess EP](https://open.spotify.com/album/3jDay65YOB4zly3tQlXAcU) | 0:00 |
+| 13 | [Lost In The Woods](https://open.spotify.com/track/1j35t4oAGJegJ7IPcSET5f) | [Ava Joe](https://open.spotify.com/artist/1kExWfjjFzo8vNlmtBjCdj) | [Big Beautiful Mess EP](https://open.spotify.com/album/3jDay65YOB4zly3tQlXAcU) | 2:25 |
 | 14 | [Lost In Your Blues](https://open.spotify.com/track/6IROP7Z00gxFrJvKHwE1uS) | [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [Lost In Your Blues](https://open.spotify.com/album/0B0TyWChnMZqsvYUxGbpeg) | 2:48 |
 | 15 | [signs of life](https://open.spotify.com/track/64NpFHuR72lUmwegiIxRjj) | [Harvey Brittain](https://open.spotify.com/artist/2xrhDfConcV9D7c1tUqueP) | [signs of life](https://open.spotify.com/album/6CRgFmHNtmk7JIcvMeGASm) | 2:55 |
 | 16 | [Someone Else's Love](https://open.spotify.com/track/2Bw8PW8vGuDJ92n50vxVDZ) | [Niamh McCrystal](https://open.spotify.com/artist/2LoxxZskH5pEoFCfcBiyQ6) | [Guess I'm Alright](https://open.spotify.com/album/0wzCh2FVwBYJFXijNXAq6E) | 2:42 |

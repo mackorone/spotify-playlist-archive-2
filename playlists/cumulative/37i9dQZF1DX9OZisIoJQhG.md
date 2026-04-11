@@ -4,7 +4,7 @@
 
 > Uplifting classical melodies to help you rise and shine.
 
-104 songs - 6 hr 35 min
+105 songs - 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Four Seasons Variation \(Arr\. for Piano from Violin Concerto, RV 297, "Winter": II\. Largo by Svetoslav Karparov\)](https://open.spotify.com/track/7jezOL1bXEUmQtbCKFrmof) | [Antonio Vivaldi](https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR), [Olga Scheps](https://open.spotify.com/artist/07Nqz7k5QdR10iuTJkd6Mp) | [Family](https://open.spotify.com/album/1Jnd4ZqS9ev1hT6Fj0JRlP) | 2:01 | 2022-02-04 |  |
 | [Goldberg Variations, BWV 988: Aria](https://open.spotify.com/track/5bu9A6uphPWg39RC3ZKeku) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Glenn Gould](https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP) | [Bach: The Goldberg Variations, BWV 988 \(1981 Gould Remaster\)](https://open.spotify.com/album/1aCpHSQE5ghxibsQ5gkBe0) | 3:04 | 2022-02-04 |  |
 | [Goldberg Variations, BWV 988: Var\. 21](https://open.spotify.com/track/7izqT26X2qmMbqiNAQZruO) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [J.S\. Bach: Goldberg Variations, BWV 988: Var\. 21](https://open.spotify.com/album/3jKFKndTaIy2veF3S9Uwld) | 3:15 | 2023-09-22 |  |
+| [Good Morning](https://open.spotify.com/track/6TsE9Rv5ukHF7WPHAAnbGo) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Good Morning](https://open.spotify.com/album/1evQA5ZOsNh1QQ4tVIwMDj) | 3:02 | 2026-04-10 |  |
 | [Guiding Light](https://open.spotify.com/track/1jt4hk4d51pZ8DZl8yMMmG) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Truth](https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY) | 3:17 | 2022-05-27 | 2023-04-06 |
 | [Guiding Light](https://open.spotify.com/track/6DsGXu4Hii9LyNPLexGCwU) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Guiding Light](https://open.spotify.com/album/1OsTAPPpJmkQh8uyeZJRfa) | 3:17 | 2022-02-04 | 2022-07-29 |
 | [Harpsichord Concerto No\. 4 in A Major, BWV 1055 \(Adapted for Oboe d'amore, Strings and Basso continuo\): I\. Allegro](https://open.spotify.com/track/2tx1OGhwMuaS456NgiuEuP) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Albrecht Mayer](https://open.spotify.com/artist/1Mbvbes7vW2Pg3bWD9aDgW), [Berliner Barock Solisten](https://open.spotify.com/artist/7mEuyFgTPiTRgCh3Hzuwsl) | [Bach Generations](https://open.spotify.com/album/5yOf6Z2tkIAkI3q43OAe5L) | 4:25 | 2023-08-04 | 2024-03-16 |

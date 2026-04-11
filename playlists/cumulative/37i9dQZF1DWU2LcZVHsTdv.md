@@ -4,7 +4,7 @@
 
 > The country way of testifying.
 
-299 songs - 18 hr 7 min
+301 songs - 18 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,6 +233,7 @@
 | [Songs About Jesus](https://open.spotify.com/track/7BIpImnCKnk5PHVYRC9vfa) | [Olivia Lane](https://open.spotify.com/artist/3Og5as5vV5n1iTR5iaNNZ6) | [Songs About Jesus](https://open.spotify.com/album/7oWHCY0bUwwvVvj2saT4UR) | 3:17 | 2024-05-17 |  |
 | [Songs About Whiskey](https://open.spotify.com/track/7crxg59CxoOqSxhHC7I6LY) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [REBEL](https://open.spotify.com/album/0sJhrYC1988r2NNxsmzk3V) | 2:53 | 2024-04-19 | 2024-12-14 |
 | [Southern Gospel](https://open.spotify.com/track/04gSahNsdUScq5mdvGVU9T) | [The Swon Brothers](https://open.spotify.com/artist/1nf0nRF0W4ybnJdda00pKY) | [Southern Gospel](https://open.spotify.com/album/37ANr5ghqad7jp86QiVZVc) | 3:30 | 2022-07-29 | 2025-06-30 |
+| [Speaking Terms](https://open.spotify.com/track/3run9sUbpxozM6Cw0k3VfA) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Dandelion](https://open.spotify.com/album/6nrtxtgaD9zSYBl9APvOCH) | 4:23 | 2026-04-10 |  |
 | [STILL \(with Zach Williams\)](https://open.spotify.com/track/3Kv3w1eqprdpV2HHtM55aq) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu), [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [STILL \(with Zach Williams\)](https://open.spotify.com/album/4aDh8Dl7HGSqLlPf6GLVTK) | 3:12 | 2025-07-18 |  |
 | [Streets](https://open.spotify.com/track/4IGA2hFfOSJSw0gScaNCw6) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Here And Now \(Deluxe\)](https://open.spotify.com/album/1KElY4EWWoOIQeYfpUbJrM) | 5:05 | 2021-12-10 |  |
 | [Sunday Drive](https://open.spotify.com/track/2GOncX7Qsx9Y2haYlfi0J5) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Sunday Drive](https://open.spotify.com/album/20oCDZCGgjonrJtxemoB4G) | 4:53 | 2021-12-10 |  |
@@ -285,6 +286,7 @@
 | [We All Carry Something](https://open.spotify.com/track/2SKI2QSQB2XluzxUJ31QD0) | [Joe Nichols](https://open.spotify.com/artist/4aJTB79uwT4sP0Nb8QGWHc) | [Never Gets Old](https://open.spotify.com/album/5cJSeRqQ9d07IUjUCVoVvK) | 3:26 | 2023-10-20 | 2024-04-19 |
 | [We All Carry Something](https://open.spotify.com/track/6uEZirSx14Fo2WOqJCdE0c) | [Joe Nichols](https://open.spotify.com/artist/4aJTB79uwT4sP0Nb8QGWHc) | [Never Gets Old](https://open.spotify.com/album/7h9Y1JOLH3VJyeDfwbbKqQ) | 3:26 | 2021-12-10 |  |
 | [We Grew Up Together](https://open.spotify.com/track/5bqMCIMmXhVzJcFDvXol6k) | [LANCO](https://open.spotify.com/artist/2lRH2dgU5Kk4Bc5phmII4T), [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [We Grew Up Together](https://open.spotify.com/album/6CesRSYsYrymjAjlFbT7CP) | 3:42 | 2024-11-22 |  |
+| [Well Water](https://open.spotify.com/track/4fpoIB1b6pA0K41UTpvxqW) | [Micah Christopher](https://open.spotify.com/artist/2gWY1lOSS4k3qW2AaBwHIi) | [Well Water](https://open.spotify.com/album/3Xvch3VWF9z7LE5Pl2cF4c) | 3:41 | 2026-04-10 |  |
 | [When A Cowboy Prays](https://open.spotify.com/track/5El4el5fJrMq0onm31WEDo) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [When A Cowboy Prays](https://open.spotify.com/album/331sTX4A9LVS7dydeAaZR2) | 3:57 | 2025-09-26 |  |
 | [When A Cowboy Prays \- with Cody Johnson](https://open.spotify.com/track/6c40Bt52lBQOEKgaJRPpHo) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [When A Cowboy Prays \(with Cody Johnson\)](https://open.spotify.com/album/0Zg3LS5rv9rbbK1uJwaBnn) | 3:57 | 2026-01-09 |  |
 | [When I Get Where I'm Going \(feat\. Dolly Parton\)](https://open.spotify.com/track/3VLCtStwYsAL4LKZgeUvy3) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Time Well Wasted](https://open.spotify.com/album/32LSfRBN2QI84fkkVX0edr) | 4:08 | 2021-12-10 |  |

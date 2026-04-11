@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With AlligatorX, Locus Noir, Lockjaw and more",
+  "description": "With Lockjaw, AlligatorX, This Eternal Decay and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -882,7 +882,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 196520,
       "name": "Broken Heart",
       "url": "https://open.spotify.com/track/36RLlZ6boHnv3Ox3ANWIF5"
@@ -1300,7 +1300,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-09",
+      "date_removed": null,
       "duration_ms": 221679,
       "name": "contact",
       "url": "https://open.spotify.com/track/4huCxiN2GsEG6mY6yb73ih"
@@ -1888,7 +1888,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 284718,
       "name": "DISCONNECTED",
       "url": "https://open.spotify.com/track/3YR8uN9U4dAGofkhLmLknX"
@@ -2158,7 +2158,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 198458,
       "name": "Drunk Blue Eyes",
       "url": "https://open.spotify.com/track/2U3Cui7VgS5Qt2FudpVN7z"
@@ -3109,6 +3109,24 @@
     },
     {
       "album": {
+        "name": "Fury Flow",
+        "url": "https://open.spotify.com/album/4xxalsFUBFX5zjrnWSH59W"
+      },
+      "artists": [
+        {
+          "name": "Scheitan",
+          "url": "https://open.spotify.com/artist/27pumfcMxQX5qxsQ0j2fsd"
+        }
+      ],
+      "date_added": "2026-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184864,
+      "name": "Fury Flow",
+      "url": "https://open.spotify.com/track/7CFOP275ikhVXTFShtQZS6"
+    },
+    {
+      "album": {
         "name": "Bu Bizim Nazik \u0130syan\u0131m\u0131z",
         "url": "https://open.spotify.com/album/7yvQxIAm4IkdhExqS2uHJ6"
       },
@@ -3474,7 +3492,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 161926,
       "name": "Here's your Reaper",
       "url": "https://open.spotify.com/track/2NWCtv0HbrbQXVFu3qwriE"
@@ -4094,7 +4112,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 208065,
       "name": "Joy and Pain",
       "url": "https://open.spotify.com/track/5RmyY86zrPFIERkdmQDECs"
@@ -4455,6 +4473,24 @@
     },
     {
       "album": {
+        "name": "Lich Tree / Sei\u00f0r",
+        "url": "https://open.spotify.com/album/5ie4eSVK4zoyGFIyHOhtC7"
+      },
+      "artists": [
+        {
+          "name": "Sparkling Cyanide",
+          "url": "https://open.spotify.com/artist/5Bo0RERjwt6aG13ny1d6dY"
+        }
+      ],
+      "date_added": "2026-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253020,
+      "name": "Lich Tree",
+      "url": "https://open.spotify.com/track/7vWC17XPCeimJ5YuN99EyD"
+    },
+    {
+      "album": {
         "name": "lies and deseption",
         "url": "https://open.spotify.com/album/04EuD0Lhgooq9ZFCMlOhcQ"
       },
@@ -4484,7 +4520,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-10",
+      "date_removed": null,
       "duration_ms": 340000,
       "name": "Life Whisper & New Life - Reprise",
       "url": "https://open.spotify.com/track/6FhnVWokFfKBvsW33H5HCA"
@@ -4690,7 +4726,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-05",
+      "date_removed": null,
       "duration_ms": 293422,
       "name": "Lori - Special Edition",
       "url": "https://open.spotify.com/track/3y64sLHWMzAJHBVSfGgwPX"
@@ -4816,7 +4852,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-10",
+      "date_removed": null,
       "duration_ms": 188625,
       "name": "Man on a Horse",
       "url": "https://open.spotify.com/track/5UHGAvVqmjfACrwDSKIPax"
@@ -5300,7 +5336,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 187977,
       "name": "Moth - The Fire Trilogy Part III",
       "url": "https://open.spotify.com/track/3AMbsn091eCwe7VXPuXyUZ"
@@ -5592,7 +5628,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-30",
+      "date_removed": null,
       "duration_ms": 299311,
       "name": "Never the Same",
       "url": "https://open.spotify.com/track/37RaDHuCzwcZeRzgqhf3Dv"
@@ -5834,7 +5870,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 217553,
       "name": "Now Rise",
       "url": "https://open.spotify.com/track/6R1Su1bjhgJJSw5ZKL7ZXA"
@@ -6014,7 +6050,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 201392,
       "name": "On Desire",
       "url": "https://open.spotify.com/track/2uPvMv4puldfTfOPN4HG6s"
@@ -6144,6 +6180,24 @@
       "duration_ms": 234084,
       "name": "P.C. Keen - 2025 Remix",
       "url": "https://open.spotify.com/track/4TDCy1qF0NAOmyTQ4uI8ha"
+    },
+    {
+      "album": {
+        "name": "Pale Moon",
+        "url": "https://open.spotify.com/album/4kEVlLDXgB8IswQYN7Xjfa"
+      },
+      "artists": [
+        {
+          "name": "Dearmount",
+          "url": "https://open.spotify.com/artist/2W9sFfovcVXWFiKuWvmYBN"
+        }
+      ],
+      "date_added": "2026-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272578,
+      "name": "Pale Moon",
+      "url": "https://open.spotify.com/track/5wpcsd6kWh8DDqX935F8w1"
     },
     {
       "album": {
@@ -6910,7 +6964,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 192974,
       "name": "Sat\u0131l\u0131k",
       "url": "https://open.spotify.com/track/7on488VC4QZnr1ugaYj87q"
@@ -7184,7 +7238,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-09",
+      "date_removed": null,
       "duration_ms": 164829,
       "name": "Shadows of Tomorrow",
       "url": "https://open.spotify.com/track/6QIGBSPAtC2Bg6Ccl72TZy"
@@ -7562,7 +7616,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 266080,
       "name": "Spasm Prayer",
       "url": "https://open.spotify.com/track/5zH5qcz2LOR6dhKvC0IGj6"
@@ -7580,7 +7634,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 251586,
       "name": "Speaking In Smoke",
       "url": "https://open.spotify.com/track/1DtjHQOd7iF8LuLn1rja36"
@@ -8082,7 +8136,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 216666,
       "name": "The Antagonist",
       "url": "https://open.spotify.com/track/6uS76Gq0vuXHTadTSgr3Xi"
@@ -8190,7 +8244,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-09",
+      "date_removed": null,
       "duration_ms": 218408,
       "name": "The EyePhone Is My New Religion",
       "url": "https://open.spotify.com/track/3dqgKYCTzGdwPiOlSYrEpz"
@@ -8316,7 +8370,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-10",
+      "date_removed": null,
       "duration_ms": 394040,
       "name": "The Hole",
       "url": "https://open.spotify.com/track/4kvSx0xBweaAidCPRyzsFO"
@@ -9018,7 +9072,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 193986,
       "name": "Torn Away - ghostbells remix",
       "url": "https://open.spotify.com/track/37DAvKadx7VugzqeLwYkkd"

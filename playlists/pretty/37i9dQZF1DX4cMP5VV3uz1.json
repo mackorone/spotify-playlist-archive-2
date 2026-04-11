@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 166330,
+  "num_followers": 166338,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -1027,6 +1027,26 @@
     {
       "added_at": "2026-03-13 00:00:07",
       "album": {
+        "name": "The Speaker",
+        "url": "https://open.spotify.com/album/3kQYo33KoxYrraQsXZpGBk"
+      },
+      "artists": [
+        {
+          "name": "T & Sugah",
+          "url": "https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH"
+        },
+        {
+          "name": "Grace Barton",
+          "url": "https://open.spotify.com/artist/6sliIMvgGGdk8GRPD2FwMx"
+        }
+      ],
+      "duration_ms": 158181,
+      "name": "The Speaker",
+      "url": "https://open.spotify.com/track/2dMSlDUweM20x4WjXbKTBi"
+    },
+    {
+      "added_at": "2026-03-13 00:00:07",
+      "album": {
         "name": "Ring Doorbell",
         "url": "https://open.spotify.com/album/0FRunFsZtqZ4TPely2oAWI"
       },
@@ -1063,22 +1083,22 @@
     {
       "added_at": "2026-03-13 00:00:07",
       "album": {
-        "name": "The Speaker",
-        "url": "https://open.spotify.com/album/3kQYo33KoxYrraQsXZpGBk"
+        "name": "Reaper (feat. Comma Dee)",
+        "url": "https://open.spotify.com/album/6ZbwTsAcuOWAnN3gbyS807"
       },
       "artists": [
         {
-          "name": "T & Sugah",
-          "url": "https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH"
+          "name": "Rendah",
+          "url": "https://open.spotify.com/artist/2DD20dIAwiGrP8DFKoFGdX"
         },
         {
-          "name": "Grace Barton",
-          "url": "https://open.spotify.com/artist/6sliIMvgGGdk8GRPD2FwMx"
+          "name": "Comma Dee",
+          "url": "https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY"
         }
       ],
-      "duration_ms": 158181,
-      "name": "The Speaker",
-      "url": "https://open.spotify.com/track/2dMSlDUweM20x4WjXbKTBi"
+      "duration_ms": 213793,
+      "name": "Reaper (feat. Comma Dee)",
+      "url": "https://open.spotify.com/track/1utY88WOs4rOugVwhNQvi2"
     },
     {
       "added_at": "2026-03-13 00:00:07",
@@ -1111,42 +1131,6 @@
     {
       "added_at": "2026-03-13 00:00:07",
       "album": {
-        "name": "Reaper (feat. Comma Dee)",
-        "url": "https://open.spotify.com/album/6ZbwTsAcuOWAnN3gbyS807"
-      },
-      "artists": [
-        {
-          "name": "Rendah",
-          "url": "https://open.spotify.com/artist/2DD20dIAwiGrP8DFKoFGdX"
-        },
-        {
-          "name": "Comma Dee",
-          "url": "https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY"
-        }
-      ],
-      "duration_ms": 213793,
-      "name": "Reaper (feat. Comma Dee)",
-      "url": "https://open.spotify.com/track/1utY88WOs4rOugVwhNQvi2"
-    },
-    {
-      "added_at": "2026-03-13 00:00:07",
-      "album": {
-        "name": "Anti/Thesis: Vol. 2",
-        "url": "https://open.spotify.com/album/0iKWqO5peRjlQJestaZ6pH"
-      },
-      "artists": [
-        {
-          "name": "High Contrast",
-          "url": "https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT"
-        }
-      ],
-      "duration_ms": 233083,
-      "name": "Grindhouse",
-      "url": "https://open.spotify.com/track/0iFqHuKiFoQAD6IpQGcXaG"
-    },
-    {
-      "added_at": "2026-03-13 00:00:07",
-      "album": {
         "name": "Timestretch: Future",
         "url": "https://open.spotify.com/album/6vvGllFziUygPqlOmiDcIu"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 163448,
       "name": "Hibernate",
       "url": "https://open.spotify.com/track/7bUoddlCfcg0BCKVLQB3Pp"
+    },
+    {
+      "added_at": "2026-03-13 00:00:07",
+      "album": {
+        "name": "Anti/Thesis: Vol. 2",
+        "url": "https://open.spotify.com/album/0iKWqO5peRjlQJestaZ6pH"
+      },
+      "artists": [
+        {
+          "name": "High Contrast",
+          "url": "https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT"
+        }
+      ],
+      "duration_ms": 233083,
+      "name": "Grindhouse",
+      "url": "https://open.spotify.com/track/0iFqHuKiFoQAD6IpQGcXaG"
     },
     {
       "added_at": "2026-03-13 00:00:07",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2026-03-13 00:00:07",
       "album": {
+        "name": "Vandal",
+        "url": "https://open.spotify.com/album/3rUMO4nrAab1mOKqZCabml"
+      },
+      "artists": [
+        {
+          "name": "Delta Heavy",
+          "url": "https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T"
+        }
+      ],
+      "duration_ms": 161379,
+      "name": "Vandal",
+      "url": "https://open.spotify.com/track/1v0y0o1IDEmUaK40ciELYk"
+    },
+    {
+      "added_at": "2026-03-13 00:00:07",
+      "album": {
         "name": "Shrine",
         "url": "https://open.spotify.com/album/2BMToCcKq1d8NfujdRTKD5"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 171034,
       "name": "Shrine",
       "url": "https://open.spotify.com/track/4KrJzVt3twq5VFkMFhEr0e"
-    },
-    {
-      "added_at": "2026-03-13 00:00:07",
-      "album": {
-        "name": "Vandal",
-        "url": "https://open.spotify.com/album/3rUMO4nrAab1mOKqZCabml"
-      },
-      "artists": [
-        {
-          "name": "Delta Heavy",
-          "url": "https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T"
-        }
-      ],
-      "duration_ms": 161379,
-      "name": "Vandal",
-      "url": "https://open.spotify.com/track/1v0y0o1IDEmUaK40ciELYk"
     },
     {
       "added_at": "2026-03-13 00:00:07",
@@ -1495,22 +1495,22 @@
     {
       "added_at": "2026-03-13 00:00:07",
       "album": {
-        "name": "Stay The Night",
-        "url": "https://open.spotify.com/album/6cxNU0yLOIDn6yR5Yb3a6U"
+        "name": "Northern Step",
+        "url": "https://open.spotify.com/album/7EdYM83jeKrr2h8lT6dGIA"
       },
       "artists": [
         {
-          "name": "Fred V",
-          "url": "https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4"
+          "name": "Worsleyy",
+          "url": "https://open.spotify.com/artist/0bONie91aAoPJqKFMXD8nX"
         },
         {
-          "name": "Grace Barton",
-          "url": "https://open.spotify.com/artist/6sliIMvgGGdk8GRPD2FwMx"
+          "name": "Chimpo",
+          "url": "https://open.spotify.com/artist/4s3NpqWAqcB5XKDuzVMqs2"
         }
       ],
-      "duration_ms": 206996,
-      "name": "Stay The Night",
-      "url": "https://open.spotify.com/track/4OyDiydPAu3q6rNcLp313U"
+      "duration_ms": 288000,
+      "name": "Northern Step",
+      "url": "https://open.spotify.com/track/5uN8qtXFOl8j91njYZmW5w"
     },
     {
       "added_at": "2026-03-13 00:00:07",
@@ -1535,22 +1535,22 @@
     {
       "added_at": "2026-03-13 00:00:07",
       "album": {
-        "name": "Northern Step",
-        "url": "https://open.spotify.com/album/7EdYM83jeKrr2h8lT6dGIA"
+        "name": "Stay The Night",
+        "url": "https://open.spotify.com/album/6cxNU0yLOIDn6yR5Yb3a6U"
       },
       "artists": [
         {
-          "name": "Worsleyy",
-          "url": "https://open.spotify.com/artist/0bONie91aAoPJqKFMXD8nX"
+          "name": "Fred V",
+          "url": "https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4"
         },
         {
-          "name": "Chimpo",
-          "url": "https://open.spotify.com/artist/4s3NpqWAqcB5XKDuzVMqs2"
+          "name": "Grace Barton",
+          "url": "https://open.spotify.com/artist/6sliIMvgGGdk8GRPD2FwMx"
         }
       ],
-      "duration_ms": 288000,
-      "name": "Northern Step",
-      "url": "https://open.spotify.com/track/5uN8qtXFOl8j91njYZmW5w"
+      "duration_ms": 206996,
+      "name": "Stay The Night",
+      "url": "https://open.spotify.com/track/4OyDiydPAu3q6rNcLp313U"
     },
     {
       "added_at": "2026-03-13 00:00:07",
@@ -1567,26 +1567,6 @@
       "duration_ms": 180689,
       "name": "RUN",
       "url": "https://open.spotify.com/track/49bPzRToh1kiYGWUJLYhd2"
-    },
-    {
-      "added_at": "2026-03-13 00:00:07",
-      "album": {
-        "name": "Harbinger",
-        "url": "https://open.spotify.com/album/4WAWKDAjlq0eQdhHZha8vV"
-      },
-      "artists": [
-        {
-          "name": "skantia",
-          "url": "https://open.spotify.com/artist/0FZS1HlJfonbMpQGzTrh0M"
-        },
-        {
-          "name": "Simula",
-          "url": "https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl"
-        }
-      ],
-      "duration_ms": 181028,
-      "name": "Harbinger",
-      "url": "https://open.spotify.com/track/34vW9s2XcezZxSqBerxa4Y"
     },
     {
       "added_at": "2026-03-13 00:00:07",
@@ -1635,6 +1615,26 @@
     {
       "added_at": "2026-03-13 00:00:07",
       "album": {
+        "name": "Harbinger",
+        "url": "https://open.spotify.com/album/4WAWKDAjlq0eQdhHZha8vV"
+      },
+      "artists": [
+        {
+          "name": "skantia",
+          "url": "https://open.spotify.com/artist/0FZS1HlJfonbMpQGzTrh0M"
+        },
+        {
+          "name": "Simula",
+          "url": "https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl"
+        }
+      ],
+      "duration_ms": 181028,
+      "name": "Harbinger",
+      "url": "https://open.spotify.com/track/34vW9s2XcezZxSqBerxa4Y"
+    },
+    {
+      "added_at": "2026-03-13 00:00:07",
+      "album": {
         "name": "Voicenote Violence",
         "url": "https://open.spotify.com/album/2r4HHzBV9SiJn9zvxFOzDL"
       },
@@ -1647,6 +1647,26 @@
       "duration_ms": 166714,
       "name": "Voicenote Violence",
       "url": "https://open.spotify.com/track/2oQ9v12JBeHPIagTkEHNHn"
+    },
+    {
+      "added_at": "2026-03-13 00:00:07",
+      "album": {
+        "name": "Let Me Down",
+        "url": "https://open.spotify.com/album/5RNHB1KgP1wZbIHImr3VGD"
+      },
+      "artists": [
+        {
+          "name": "Grafix",
+          "url": "https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY"
+        },
+        {
+          "name": "Rova",
+          "url": "https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Let Me Down",
+      "url": "https://open.spotify.com/track/22ODhRNhJ48mbz0a7Ylqw5"
     },
     {
       "added_at": "2026-03-13 00:00:07",
@@ -1683,26 +1703,6 @@
       "duration_ms": 226000,
       "name": "3AM",
       "url": "https://open.spotify.com/track/1dDJuthIcbYQMkybQFjH5U"
-    },
-    {
-      "added_at": "2026-03-13 00:00:07",
-      "album": {
-        "name": "Let Me Down",
-        "url": "https://open.spotify.com/album/5RNHB1KgP1wZbIHImr3VGD"
-      },
-      "artists": [
-        {
-          "name": "Grafix",
-          "url": "https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY"
-        },
-        {
-          "name": "Rova",
-          "url": "https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Let Me Down",
-      "url": "https://open.spotify.com/track/22ODhRNhJ48mbz0a7Ylqw5"
     },
     {
       "added_at": "2026-03-13 00:00:07",
@@ -1747,26 +1747,6 @@
     {
       "added_at": "2026-03-13 00:00:07",
       "album": {
-        "name": "Rigid Lord",
-        "url": "https://open.spotify.com/album/0wUZn5ztqivzJzwoPwq4Dn"
-      },
-      "artists": [
-        {
-          "name": "Cesco",
-          "url": "https://open.spotify.com/artist/7Gg3X2b5ljrhVGXDAwcrq3"
-        },
-        {
-          "name": "Nina",
-          "url": "https://open.spotify.com/artist/0u4uzzMGK1exfnG33MII0b"
-        }
-      ],
-      "duration_ms": 225856,
-      "name": "Rigid Lord",
-      "url": "https://open.spotify.com/track/0zlBYfthuEV22L3DMhGiJu"
-    },
-    {
-      "added_at": "2026-03-13 00:00:07",
-      "album": {
         "name": "Do This",
         "url": "https://open.spotify.com/album/3JxzLywrw84nF4jqBqktf8"
       },
@@ -1783,6 +1763,26 @@
       "duration_ms": 133714,
       "name": "Do This",
       "url": "https://open.spotify.com/track/7HOtv9PWamIhbGgp4uU54s"
+    },
+    {
+      "added_at": "2026-03-13 00:00:07",
+      "album": {
+        "name": "Rigid Lord",
+        "url": "https://open.spotify.com/album/0wUZn5ztqivzJzwoPwq4Dn"
+      },
+      "artists": [
+        {
+          "name": "Cesco",
+          "url": "https://open.spotify.com/artist/7Gg3X2b5ljrhVGXDAwcrq3"
+        },
+        {
+          "name": "Nina",
+          "url": "https://open.spotify.com/artist/0u4uzzMGK1exfnG33MII0b"
+        }
+      ],
+      "duration_ms": 225856,
+      "name": "Rigid Lord",
+      "url": "https://open.spotify.com/track/0zlBYfthuEV22L3DMhGiJu"
     },
     {
       "added_at": "2026-03-13 00:00:07",
@@ -1951,6 +1951,22 @@
     {
       "added_at": "2026-03-13 00:00:07",
       "album": {
+        "name": "Come With It",
+        "url": "https://open.spotify.com/album/0xwUWz3tDMxaWHvQXIphvy"
+      },
+      "artists": [
+        {
+          "name": "Selecta J-Man",
+          "url": "https://open.spotify.com/artist/25UCJWhCAOcXmm7i4hLyNP"
+        }
+      ],
+      "duration_ms": 200228,
+      "name": "Come With It",
+      "url": "https://open.spotify.com/track/5molMz6TA3virLoLO8Hzn2"
+    },
+    {
+      "added_at": "2026-03-13 00:00:07",
+      "album": {
         "name": "247",
         "url": "https://open.spotify.com/album/6X0tNQSao8Ll2D3q2ocpll"
       },
@@ -1967,22 +1983,6 @@
       "duration_ms": 182500,
       "name": "247",
       "url": "https://open.spotify.com/track/5TbilnxKohBOt8yfwv02Qf"
-    },
-    {
-      "added_at": "2026-03-13 00:00:07",
-      "album": {
-        "name": "Come With It",
-        "url": "https://open.spotify.com/album/0xwUWz3tDMxaWHvQXIphvy"
-      },
-      "artists": [
-        {
-          "name": "Selecta J-Man",
-          "url": "https://open.spotify.com/artist/25UCJWhCAOcXmm7i4hLyNP"
-        }
-      ],
-      "duration_ms": 200228,
-      "name": "Come With It",
-      "url": "https://open.spotify.com/track/5molMz6TA3virLoLO8Hzn2"
     }
   ],
   "unique_name": "Proper Naughty ",

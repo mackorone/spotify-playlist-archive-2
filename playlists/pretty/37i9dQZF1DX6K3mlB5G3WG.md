@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > Ditonellapiaga in cover + le migliori nuove uscite 🇮🇹 e 🌎!
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,161 likes - 128 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,175 likes - 128 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Prima o poi](https://open.spotify.com/track/675zgd9XBl6yBThILj9tQn) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [Miss Italia](https://open.spotify.com/album/2UNSUlpESFHb4nVMzTZDbV) | 3:20 |
-| 2 | [Runway](https://open.spotify.com/track/7BjcYqD0CqXnG45ezWSTYR) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Runway](https://open.spotify.com/album/0WY1wVmchFYlH4f1yZMc90) | 2:51 |
+| 2 | [RUNWAY](https://open.spotify.com/track/7BjcYqD0CqXnG45ezWSTYR) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [RUNWAY](https://open.spotify.com/album/0WY1wVmchFYlH4f1yZMc90) | 2:51 |
 | 3 | [MARIA](https://open.spotify.com/track/6D4mCJkPrRjhkKTUgUXrkD) | [Serena Brancale](https://open.spotify.com/artist/7108jelN43seqWILMvJwKi) | [SACRO](https://open.spotify.com/album/5fjacR3hNh14bYgoAyyEIS) | 2:16 |
 | 4 | [Genitore 3](https://open.spotify.com/track/6xZn3AmvO8JJvswcnFpev3) | [Michele Bravi](https://open.spotify.com/artist/1CF7hrTuWgErEa6HBFJ8d3) | [Genitore 3](https://open.spotify.com/album/3ONlQmr9vgRk3QSBN5TO8g) | 3:02 |
 | 5 | [Tutto Tempesta](https://open.spotify.com/track/0qB1D1xjTid1xyfmpvG2RA) | [Nicolò Filippucci](https://open.spotify.com/artist/5v11UeQ72AbrburRA8fkMi) | [UN POSTO DOVE ANDARE](https://open.spotify.com/album/6hWE6qtN7dH991wZMXEIHM) | 3:12 |

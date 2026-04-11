@@ -1,12 +1,12 @@
 {
   "description": "easy breezy music \u2600\ufe0f\u263a\ufe0f",
-  "num_followers": 168384,
+  "num_followers": 168391,
   "original_name": "Chill Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAhRLLqf5WDvODv8xfE96+WRyn3i",
+  "snapshot_id": "AAAAAIGAjeZZpD5g+nrJ+ZyXDkjd3f9n",
   "tracks": [
     {
       "added_at": "2026-04-02 23:00:13",
@@ -603,6 +603,22 @@
     {
       "added_at": "2026-04-02 23:00:13",
       "album": {
+        "name": "Pull Me Away",
+        "url": "https://open.spotify.com/album/59br7b2e3MO4Lw8ClkdjKo"
+      },
+      "artists": [
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "Pull Me Away",
+      "url": "https://open.spotify.com/track/6Tee5H62YsZdE7tBIH3Nql"
+    },
+    {
+      "added_at": "2026-04-02 23:00:13",
+      "album": {
         "name": "Thinking About Us",
         "url": "https://open.spotify.com/album/3lQeHi7NWwG79z3YPBS23V"
       },
@@ -623,18 +639,22 @@
     {
       "added_at": "2026-04-02 23:00:13",
       "album": {
-        "name": "Pull Me Away",
-        "url": "https://open.spotify.com/album/59br7b2e3MO4Lw8ClkdjKo"
+        "name": "Lately",
+        "url": "https://open.spotify.com/album/4yvA9kj2sxiSkD4CK4vNYY"
       },
       "artists": [
         {
-          "name": "Tom Enzy",
-          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+          "name": "july",
+          "url": "https://open.spotify.com/artist/0mZ3vE5UEhRLjfTLfyWD77"
+        },
+        {
+          "name": "Chilled Virus",
+          "url": "https://open.spotify.com/artist/5qW3AAg0mG1Sy76GL3jABM"
         }
       ],
-      "duration_ms": 153000,
-      "name": "Pull Me Away",
-      "url": "https://open.spotify.com/track/6Tee5H62YsZdE7tBIH3Nql"
+      "duration_ms": 145573,
+      "name": "Lately",
+      "url": "https://open.spotify.com/track/5SAHh4L4iGDtVMV8aOpoBY"
     },
     {
       "added_at": "2026-04-02 23:00:13",
@@ -655,26 +675,6 @@
       "duration_ms": 211653,
       "name": "Supercolor (feat. CECI)",
       "url": "https://open.spotify.com/track/5MivC2zico0hz5JFvZK9lz"
-    },
-    {
-      "added_at": "2026-04-02 23:00:13",
-      "album": {
-        "name": "Lately",
-        "url": "https://open.spotify.com/album/4yvA9kj2sxiSkD4CK4vNYY"
-      },
-      "artists": [
-        {
-          "name": "july",
-          "url": "https://open.spotify.com/artist/0mZ3vE5UEhRLjfTLfyWD77"
-        },
-        {
-          "name": "Chilled Virus",
-          "url": "https://open.spotify.com/artist/5qW3AAg0mG1Sy76GL3jABM"
-        }
-      ],
-      "duration_ms": 145573,
-      "name": "Lately",
-      "url": "https://open.spotify.com/track/5SAHh4L4iGDtVMV8aOpoBY"
     },
     {
       "added_at": "2026-04-02 23:00:13",
@@ -827,26 +827,6 @@
     {
       "added_at": "2026-04-02 23:00:13",
       "album": {
-        "name": "Full Speed",
-        "url": "https://open.spotify.com/album/2HzsnkOchlecG4I7smXiyq"
-      },
-      "artists": [
-        {
-          "name": "Bella Who",
-          "url": "https://open.spotify.com/artist/21RdBMtAUWp975JGBffrFc"
-        },
-        {
-          "name": "DOM",
-          "url": "https://open.spotify.com/artist/0feQYUPVrExLO4v0S51wGP"
-        }
-      ],
-      "duration_ms": 251428,
-      "name": "Full Speed",
-      "url": "https://open.spotify.com/track/0bKWKkNd2OWm9amqODXmkZ"
-    },
-    {
-      "added_at": "2026-04-02 23:00:13",
-      "album": {
         "name": "Real Love",
         "url": "https://open.spotify.com/album/38siYOqyNabvKqGmmermGx"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 151153,
       "name": "Real Love",
       "url": "https://open.spotify.com/track/3uXUraey5i1oKa3yYnOTia"
+    },
+    {
+      "added_at": "2026-04-02 23:00:13",
+      "album": {
+        "name": "Full Speed",
+        "url": "https://open.spotify.com/album/2HzsnkOchlecG4I7smXiyq"
+      },
+      "artists": [
+        {
+          "name": "Bella Who",
+          "url": "https://open.spotify.com/artist/21RdBMtAUWp975JGBffrFc"
+        },
+        {
+          "name": "DOM",
+          "url": "https://open.spotify.com/artist/0feQYUPVrExLO4v0S51wGP"
+        }
+      ],
+      "duration_ms": 251428,
+      "name": "Full Speed",
+      "url": "https://open.spotify.com/track/0bKWKkNd2OWm9amqODXmkZ"
     },
     {
       "added_at": "2026-04-02 23:00:13",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2026-04-02 23:00:13",
       "album": {
+        "name": "Radiant EP",
+        "url": "https://open.spotify.com/album/43ZuCqtg7zu8dhpvZTJVf2"
+      },
+      "artists": [
+        {
+          "name": "Marc Brauner",
+          "url": "https://open.spotify.com/artist/6HX3fbKCin6OPe6ZFZ8qsf"
+        }
+      ],
+      "duration_ms": 289000,
+      "name": "It's Alright - Original Mix",
+      "url": "https://open.spotify.com/track/3ABPEz0ASeocrzXOHZix5D"
+    },
+    {
+      "added_at": "2026-04-02 23:00:13",
+      "album": {
         "name": "Electric",
         "url": "https://open.spotify.com/album/2UNpZByJYcRTCNRSeUqst0"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 133565,
       "name": "Electric",
       "url": "https://open.spotify.com/track/51FFmeDLNlJUkueFkjtzxY"
-    },
-    {
-      "added_at": "2026-04-02 23:00:13",
-      "album": {
-        "name": "Radiant EP",
-        "url": "https://open.spotify.com/album/43ZuCqtg7zu8dhpvZTJVf2"
-      },
-      "artists": [
-        {
-          "name": "Marc Brauner",
-          "url": "https://open.spotify.com/artist/6HX3fbKCin6OPe6ZFZ8qsf"
-        }
-      ],
-      "duration_ms": 289000,
-      "name": "It's Alright - Original Mix",
-      "url": "https://open.spotify.com/track/3ABPEz0ASeocrzXOHZix5D"
     },
     {
       "added_at": "2026-04-02 23:00:13",
@@ -1107,6 +1107,26 @@
     {
       "added_at": "2026-04-02 23:00:13",
       "album": {
+        "name": "Beats & Pieces II",
+        "url": "https://open.spotify.com/album/0yQHW3TPiuNdfWvkumo4ac"
+      },
+      "artists": [
+        {
+          "name": "Catching Flies",
+          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+        },
+        {
+          "name": "Fejk\u00e1",
+          "url": "https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9"
+        }
+      ],
+      "duration_ms": 278217,
+      "name": "Iajo",
+      "url": "https://open.spotify.com/track/70QunfArMKaFnMKTzv2C9x"
+    },
+    {
+      "added_at": "2026-04-02 23:00:13",
+      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/59T2jCjBGnIFlizQggbrSd"
       },
@@ -1127,26 +1147,6 @@
       "duration_ms": 152000,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/1KO6Kk23aYLrkmaDIjA4jf"
-    },
-    {
-      "added_at": "2026-04-02 23:00:13",
-      "album": {
-        "name": "Beats & Pieces II",
-        "url": "https://open.spotify.com/album/0yQHW3TPiuNdfWvkumo4ac"
-      },
-      "artists": [
-        {
-          "name": "Catching Flies",
-          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
-        },
-        {
-          "name": "Fejk\u00e1",
-          "url": "https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9"
-        }
-      ],
-      "duration_ms": 278217,
-      "name": "Iajo",
-      "url": "https://open.spotify.com/track/70QunfArMKaFnMKTzv2C9x"
     },
     {
       "added_at": "2026-04-02 23:00:13",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2026-04-02 23:00:13",
       "album": {
-        "name": "I Found Myself",
-        "url": "https://open.spotify.com/album/2smPdba2CBI5r46wyUEija"
-      },
-      "artists": [
-        {
-          "name": "Charleon",
-          "url": "https://open.spotify.com/artist/197faNV22JRdMv3xmmPz4p"
-        }
-      ],
-      "duration_ms": 169642,
-      "name": "I Found Myself",
-      "url": "https://open.spotify.com/track/3QPechTK4qqIgMGXW8zzHh"
-    },
-    {
-      "added_at": "2026-04-02 23:00:13",
-      "album": {
         "name": "Echo",
         "url": "https://open.spotify.com/album/0jdfbyi8o26wYeT5ZMHN0X"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 137566,
       "name": "Echo",
       "url": "https://open.spotify.com/track/5AjkecsmTEd5H8vvLFgz7F"
+    },
+    {
+      "added_at": "2026-04-02 23:00:13",
+      "album": {
+        "name": "I Found Myself",
+        "url": "https://open.spotify.com/album/2smPdba2CBI5r46wyUEija"
+      },
+      "artists": [
+        {
+          "name": "Charleon",
+          "url": "https://open.spotify.com/artist/197faNV22JRdMv3xmmPz4p"
+        }
+      ],
+      "duration_ms": 169642,
+      "name": "I Found Myself",
+      "url": "https://open.spotify.com/track/3QPechTK4qqIgMGXW8zzHh"
     },
     {
       "added_at": "2026-04-02 23:00:13",

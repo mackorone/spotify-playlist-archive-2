@@ -4,7 +4,7 @@
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:  Minister GUC
 
-743 songs - 2 day 17 hr 17 min
+744 songs - 2 day 17 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,7 +243,7 @@
 | [He Still Can](https://open.spotify.com/track/01sYriRDv878NT0GrCjPNn) | [Mmatema](https://open.spotify.com/artist/3WIUiGUzID22YVq9W8yRbG) | [He Still Can](https://open.spotify.com/album/4i6Flpm2PMEYdPzebXvKGy) | 7:20 | 2025-04-04 | 2025-06-16 |
 | [He Will Provide](https://open.spotify.com/track/6Ej9JXSMgBATGtAwQq3HTb) | [Daniel Ojo](https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r), [David Dam](https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc) | [He Will Provide](https://open.spotify.com/album/4uMDmd8DPzOkSKMP3CgBuo) | 5:56 | 2026-01-09 | 2026-01-23 |
 | [Head 2 Core](https://open.spotify.com/track/0MOiNpIjZcHegtStf7gCY7) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [Head 2 Core](https://open.spotify.com/album/1dxCRwSNSXpyNPK5GT73DJ) | 2:26 | 2025-10-31 | 2026-01-30 |
-| [Head Up 2.0](https://open.spotify.com/track/0BhBwg1NThsfsspTcvw7IA) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [Head Up 2.0](https://open.spotify.com/album/1q8sV0zHiVKRvgQqMf0V1d) | 3:45 | 2025-12-19 |  |
+| [Head Up 2.0](https://open.spotify.com/track/0BhBwg1NThsfsspTcvw7IA) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [Head Up 2.0](https://open.spotify.com/album/1q8sV0zHiVKRvgQqMf0V1d) | 3:45 | 2025-12-19 | 2026-04-11 |
 | [Heal Our Land](https://open.spotify.com/track/22A8LtBraZbTlhEBWRlA50) | [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8) | [Heal Our Land](https://open.spotify.com/album/3iz7QSdqWk5HzCKJYkG8RA) | 5:29 | 2025-10-03 | 2025-10-10 |
 | [here](https://open.spotify.com/track/6C4DacOnoWaXnXXjg0AmRu) | [Tjsarx](https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ) | [Soliloquy II](https://open.spotify.com/album/3ZnyJyblnIdEDtYXP6D9A5) | 2:25 | 2025-10-31 | 2026-01-15 |
 | [He’s Here \(Acoustic Live Version\)](https://open.spotify.com/track/7vICvbajavcYKgm9xjLwnk) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [He’s Here \(Acoustic Live Version\)](https://open.spotify.com/album/7hu9MzBVuIvzRcPeKRbPKf) | 6:04 | 2022-10-14 | 2022-11-05 |
@@ -669,6 +669,7 @@
 | [Wake Us Up](https://open.spotify.com/track/5Da7RICQW8CMTDUw9bMClb) | [Salt & Grace](https://open.spotify.com/artist/2yaom9TYZfkhHXgk3Zr3sy) | [Wake Us Up](https://open.spotify.com/album/1cjYTIgFPwsGzsBV9dn8Lc) | 4:24 | 2025-06-06 | 2025-06-26 |
 | [Walk on Water](https://open.spotify.com/track/48NL5bIhYoaBs1KHbq6pGA) | [BunjoVille Ug](https://open.spotify.com/artist/3f91pgWJ6c1s17VkGXEfeT), [Fresera](https://open.spotify.com/artist/2nShmM3otHhrl43ju76gJ5), [Joel Bunjo Annointed](https://open.spotify.com/artist/40qFQ34iu2llYyyir6ZGAO) | [Kairos](https://open.spotify.com/album/429zY8VzGTrilGTR3zsfg4) | 6:35 | 2026-03-13 | 2026-03-20 |
 | [Walk On Water \- Live](https://open.spotify.com/track/7fZfxFBVBko3TfSSQvgFTX) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Walk On Water \(Live\)](https://open.spotify.com/album/1G24vc9iGCGr77IELGJnGW) | 8:58 | 2026-01-30 |  |
+| [Walking In The Light](https://open.spotify.com/track/4QtjlWmeSApfxBStLpbE4J) | [yoyo michael](https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv), [Soltune](https://open.spotify.com/artist/1PFwvjnnz3gPAAJvmhY9fq) | [Sound From The South](https://open.spotify.com/album/3qhYnMrI5u6t7eZcL6eGQJ) | 2:48 | 2026-04-10 |  |
 | [Wassup With You](https://open.spotify.com/track/1cXeYd3QiBm9vyUYnB36ph) | [Cee Sharp](https://open.spotify.com/artist/7tMTp2fNbzt8HANDTADOiM), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Wassup With You](https://open.spotify.com/album/3tdu6XYFfP2B3CBMlkqr2w) | 2:32 | 2025-08-01 | 2025-08-22 |
 | [Watching All over Me](https://open.spotify.com/track/6TMZINReRMSLQUP9iWi1HQ) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Watching All over Me](https://open.spotify.com/album/3Ggx3rwJl4LK0T8UmhCBnL) | 3:10 | 2022-06-09 | 2025-06-18 |
 | [Water](https://open.spotify.com/track/5Jm5QshUTNdD2CdLmiIp4X) | [Churemi](https://open.spotify.com/artist/70HahwExpgNFLm3YKUkiiO) | [Water](https://open.spotify.com/album/4ZtOVtiMJdFYtVguJqG6xk) | 3:03 | 2025-05-09 | 2025-05-30 |

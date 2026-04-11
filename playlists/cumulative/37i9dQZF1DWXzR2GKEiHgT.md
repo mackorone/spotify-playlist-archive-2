@@ -4,7 +4,7 @@
 
 > Slip into slumber with soothing sea sounds.
 
-260 songs - 12 hr 34 min
+261 songs - 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Bay Waves](https://open.spotify.com/track/0pm685YGz7E5qa7pn5hWvT) | [Shorenights](https://open.spotify.com/artist/5LG3LsvrCVe6h2BVrcaqc1) | [Bay Waves & Ao Nuan Shoreline](https://open.spotify.com/album/46n3gEduPZaYTlzYtp3thd) | 4:33 | 2023-02-15 |  |
 | [Beach Calmness](https://open.spotify.com/track/1PZoHdDM71mzOFW1T6H03y) | [Streaming Waves](https://open.spotify.com/artist/7qj3R7pI5z0H1AxH5X4oK8) | [Streaming Waves Vol\. 1](https://open.spotify.com/album/2QFjS8IsDZd1sUdGZ4rnDS) | 2:28 | 2022-01-21 | 2022-11-17 |
 | [Beach Side Waves](https://open.spotify.com/track/3mkSyuH8oEGJFZVZeXmvaO) | [Vallis Aura](https://open.spotify.com/artist/3QDsgZyyuvrvJ1HxdOsf7Q) | [Green Noise](https://open.spotify.com/album/0RLetTHxUoLbPcADh9Ogxp) | 1:50 | 2026-04-02 |  |
+| [Beneath the Saltwater Sky](https://open.spotify.com/track/2GK0zRHlLWKvGgFZkNys9h) | [Nebelune](https://open.spotify.com/artist/46Ul8d46Ke8xoZXRISCV3z) | [Beneath the Saltwater Sky](https://open.spotify.com/album/3W4Aq7xewK8Jy4G5hkWfqi) | 2:43 | 2026-04-02 |  |
 | [Big Pacific Waves](https://open.spotify.com/track/5XIpBloItgxw3ARoiAI1eI) | [Waveseekers](https://open.spotify.com/artist/02ucRkp1Tm4yA5ZZwfG184) | [Calming Waves](https://open.spotify.com/album/2LQJ4m4EPPjeSVaLKs61w0) | 2:46 | 2021-11-11 |  |
 | [Big Waves](https://open.spotify.com/track/3mDat1idepzQv9pyrHhm5l) | [TELEKROME](https://open.spotify.com/artist/74hvVWKEz8DlYrkKrE97TV) | [Wave Sounds](https://open.spotify.com/album/1qVY1drmjE9wCDusfxgBzg) | 2:04 | 2021-11-11 | 2026-04-03 |
 | [Big Waves Rolling In](https://open.spotify.com/track/6fYnju6yqwdkv6hYTg1VqG) | [Nano Sounds](https://open.spotify.com/artist/3hbAGbjrJ4esXMyjnzODz7) | [Nano Wave Sounds](https://open.spotify.com/album/10WTH1C6D3FXY9rsRlipeQ) | 2:48 | 2021-11-11 |  |
@@ -203,7 +204,7 @@
 | [Stream Of Sleep](https://open.spotify.com/track/2sntSmbUc6xYEAh82RfreY) | [Ambrook Glacier](https://open.spotify.com/artist/2nzv7rfJgsWoS068opqZDy) | [Liquid Dream](https://open.spotify.com/album/0tnqwi45420HdLVOC1V9rn) | 2:24 | 2021-11-11 |  |
 | [Stress Relieving Sounds](https://open.spotify.com/track/0YbufbfIS8GR6UHPHYvkPW) | [Hidden Baltic Waves](https://open.spotify.com/artist/4wfduTyoMdvRNrbexmxn97) | [Wave Sounds For Sleep](https://open.spotify.com/album/3tvZj6qxgRKRg4WQEJiMGP) | 2:45 | 2022-01-21 |  |
 | [Summer Night By The Sea](https://open.spotify.com/track/6LDwyydIaHcrWxfonI0mIH) | [Worldwide Nature Studios](https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx) | [Ocean HD Vol\. 3](https://open.spotify.com/album/3IZyFF8P0myAf3kwEun9Fo) | 2:42 | 2021-11-11 |  |
-| [Summer Ocean Waves](https://open.spotify.com/track/6jg9qbDWnKh9FvZjWUpQ76) | [Hello Soundz](https://open.spotify.com/artist/6ZoQ6B2kB3hiM2MqN0ZKgT) | [Summer Ocean Waves](https://open.spotify.com/album/3MLAsuIHjgNCswm71zZqgT) | 2:45 | 2023-02-15 |  |
+| [Summer Ocean Waves](https://open.spotify.com/track/6jg9qbDWnKh9FvZjWUpQ76) | [Hello Soundz](https://open.spotify.com/artist/6ZoQ6B2kB3hiM2MqN0ZKgT) | [Summer Ocean Waves](https://open.spotify.com/album/3MLAsuIHjgNCswm71zZqgT) | 2:45 | 2023-02-15 | 2026-04-11 |
 | [Sunday Night Waves](https://open.spotify.com/track/4wyrnxzpwN3ja8TPHfB7xP) | [Microdynamic Recordings](https://open.spotify.com/artist/3zG3fwEK20npYHIYooztq9) | [Sunday Night Waves](https://open.spotify.com/album/5Lu8V4pKtLpaS8Q6OwABjs) | 3:10 | 2021-11-11 |  |
 | [Super Cold Waves](https://open.spotify.com/track/7J851Pjup3zK2XuEoOlaIZ) | [Baltic Nature Sounds](https://open.spotify.com/artist/6IENn857P9qlwyafl6Xzy3) | [Across The Ocean](https://open.spotify.com/album/1qLrKZJ5wFbTOrkNrANeHa) | 3:14 | 2021-11-11 |  |
 | [Super Soothing Evening Waves](https://open.spotify.com/track/6L8AUW3COyY7Z2Ww1RIEVH) | [Worldwide Nature Studios](https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx) | [Ocean HD Vol\. 4](https://open.spotify.com/album/7fFcVyns1uBinjiBOGbcbv) | 2:45 | 2021-11-11 | 2022-12-20 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "Aqu\u00ed vive el hip-hop mexicano. Santa Fe Klan en la tarima. ",
+  "description": "Aqu\u00ed vive el hip-hop mexicano. Yeri Mua y Alem\u00e1n en la tarima. ",
   "name": "Arena Hip-Hop",
   "tracks": [
     {
@@ -1983,6 +1983,28 @@
     },
     {
       "album": {
+        "name": "Baddie",
+        "url": "https://open.spotify.com/album/5iHhdiPFVE8q0dMCRw4Eox"
+      },
+      "artists": [
+        {
+          "name": "Yeri Mua",
+          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
+        },
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Baddie",
+      "url": "https://open.spotify.com/track/0ETHntyQqLE16k0ch034EQ"
+    },
+    {
+      "album": {
         "name": "Bajo Control",
         "url": "https://open.spotify.com/album/1HQMWaliLeQVUpiq5MVcfr"
       },
@@ -2088,6 +2110,36 @@
       "duration_ms": 315326,
       "name": "Barbacha de Lonche",
       "url": "https://open.spotify.com/track/4REGn5XckUpavLbXrH1KKT"
+    },
+    {
+      "album": {
+        "name": "Barbacha de Lonche II",
+        "url": "https://open.spotify.com/album/6pxKKYR3cAiaSSQKOXLcNx"
+      },
+      "artists": [
+        {
+          "name": "Bizor",
+          "url": "https://open.spotify.com/artist/7F6fxMv0tz2Clj8H02Y2k7"
+        },
+        {
+          "name": "THR Cru2",
+          "url": "https://open.spotify.com/artist/7qfeRXz0fErzIordtUUxYn"
+        },
+        {
+          "name": "Coy Sifuentes",
+          "url": "https://open.spotify.com/artist/3xFeX3DSIXjXi4BU9syHLb"
+        },
+        {
+          "name": "Danny Brasco",
+          "url": "https://open.spotify.com/artist/05BlA7vN6o1m2dsGOgaODY"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410854,
+      "name": "Barbacha de Lonche II",
+      "url": "https://open.spotify.com/track/509KCnRF5pQPTXcKE2aLN3"
     },
     {
       "album": {
@@ -4678,7 +4730,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 206625,
       "name": "Cypher Dobrman Shop",
       "url": "https://open.spotify.com/track/1ObMrnrzmk1dHropibzici"
@@ -4966,7 +5018,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 126600,
       "name": "Del Polvo",
       "url": "https://open.spotify.com/track/7bedQBtXGZU9G99VEUka46"
@@ -5824,7 +5876,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 185769,
       "name": "El Dolor de Aliado",
       "url": "https://open.spotify.com/track/1IQFcm0ip4MfNWvtSU3vfK"
@@ -14137,6 +14189,28 @@
     },
     {
       "album": {
+        "name": "Por Hollywood",
+        "url": "https://open.spotify.com/album/2aCy0ncs4obXxHu3pZ1DK8"
+      },
+      "artists": [
+        {
+          "name": "Omar Camacho",
+          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168979,
+      "name": "Por Hollywood",
+      "url": "https://open.spotify.com/track/7Myx7gRSYsue2sbMaGdXDr"
+    },
+    {
+      "album": {
         "name": "Por la Acera",
         "url": "https://open.spotify.com/album/4mAQe1Of8qEsOv2tgJDxxS"
       },
@@ -15840,7 +15914,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 227191,
       "name": "SANGRE AZTECA",
       "url": "https://open.spotify.com/track/7iOhOjm1FeFBqGtxCQdb9H"
@@ -16646,6 +16720,24 @@
       "duration_ms": 205060,
       "name": "Sin Escapatoria",
       "url": "https://open.spotify.com/track/6cemBZSbpNTZVHIcYoPhEL"
+    },
+    {
+      "album": {
+        "name": "Sin Molde (Autentico.wav)",
+        "url": "https://open.spotify.com/album/027cpioE9K6ymhcgjDdYYQ"
+      },
+      "artists": [
+        {
+          "name": "Slim Ans",
+          "url": "https://open.spotify.com/artist/4JFse8c35wKHAuzJO9BTqO"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161250,
+      "name": "Sin Molde (Autentico.wav)",
+      "url": "https://open.spotify.com/track/6FD5b068CoP91urwIhxDHr"
     },
     {
       "album": {

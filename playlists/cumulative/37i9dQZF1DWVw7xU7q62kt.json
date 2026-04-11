@@ -3889,6 +3889,24 @@
     },
     {
       "album": {
+        "name": "Ease Up",
+        "url": "https://open.spotify.com/album/5BRqRbUNCRQ1qOYiH9Yw8H"
+      },
+      "artists": [
+        {
+          "name": "Bobby Dreamz BIG",
+          "url": "https://open.spotify.com/artist/3WEutW4SLc7V9PiKTDM7bD"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130243,
+      "name": "Ease Up",
+      "url": "https://open.spotify.com/track/64CZWvi4OBUlCBa4uymMKF"
+    },
+    {
+      "album": {
         "name": "Easy Spin",
         "url": "https://open.spotify.com/album/4AyYvEMlj83r7DmfbRl8yU"
       },
@@ -4319,6 +4337,28 @@
     },
     {
       "album": {
+        "name": "Faded",
+        "url": "https://open.spotify.com/album/3Ev4PJ7tiKlDtTvDEIRxzQ"
+      },
+      "artists": [
+        {
+          "name": "Gabb.",
+          "url": "https://open.spotify.com/artist/5CaP1iRqgYmjt1t9WSFHYG"
+        },
+        {
+          "name": "Banks",
+          "url": "https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100000,
+      "name": "Faded",
+      "url": "https://open.spotify.com/track/6gqLnznfn6IhzAVP10Fap7"
+    },
+    {
+      "album": {
         "name": "Faith In The Fog",
         "url": "https://open.spotify.com/album/35InJ3QDJySGbqUgJXsvG8"
       },
@@ -4550,7 +4590,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 137142,
       "name": "Find Space",
       "url": "https://open.spotify.com/track/1fjFOdd7KtTsnqpAMBjCeM"
@@ -7234,7 +7274,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 110359,
       "name": "Kick, Push",
       "url": "https://open.spotify.com/track/2b2WHCsFm7NWEVJQ1P3G9O"
@@ -7560,7 +7600,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 97500,
       "name": "Late Espresso",
       "url": "https://open.spotify.com/track/3qD7el1We7xrPfAk0DZmhp"
@@ -9818,6 +9858,24 @@
       "duration_ms": 122758,
       "name": "Motions",
       "url": "https://open.spotify.com/track/3yw7dgVshboD2PBkf9MoJG"
+    },
+    {
+      "album": {
+        "name": "Movin On",
+        "url": "https://open.spotify.com/album/63s2QhqFWJoUALcJ6Ic056"
+      },
+      "artists": [
+        {
+          "name": "Gabiga",
+          "url": "https://open.spotify.com/artist/7KmiBNHemPsEwpLvRXHvQg"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131250,
+      "name": "Movin On",
+      "url": "https://open.spotify.com/track/7w8Gyl0vUNUHV1wEjepJyf"
     },
     {
       "album": {
@@ -14026,7 +14084,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 116791,
       "name": "Strangers from the Internet",
       "url": "https://open.spotify.com/track/6VeCSVGXjjpahNN0ng6xe7"
@@ -17040,6 +17098,32 @@
       "duration_ms": 150000,
       "name": "walk to nowhere",
       "url": "https://open.spotify.com/track/3iOjnGIAWTO1a6JhAYlIfY"
+    },
+    {
+      "album": {
+        "name": "Waning Glow",
+        "url": "https://open.spotify.com/album/0gZWCnwF1hIhclMngO5cRt"
+      },
+      "artists": [
+        {
+          "name": "BD DISCOMUSIC",
+          "url": "https://open.spotify.com/artist/45JhJcfiCjhNzMdmYsAHdq"
+        },
+        {
+          "name": "Ak\u012bn",
+          "url": "https://open.spotify.com/artist/1KIGjwZj1Iojrjpf9FPrfS"
+        },
+        {
+          "name": "The Yume Collective",
+          "url": "https://open.spotify.com/artist/7Kdl3c6JU2v41pmXkG31Q7"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123624,
+      "name": "Waning Glow",
+      "url": "https://open.spotify.com/track/1Mpe795FO9J9eYskmyYOnZ"
     },
     {
       "album": {

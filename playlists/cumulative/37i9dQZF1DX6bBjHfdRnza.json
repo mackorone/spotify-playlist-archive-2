@@ -51293,6 +51293,24 @@
     },
     {
       "album": {
+        "name": "Snakebite Boogie EP",
+        "url": "https://open.spotify.com/album/65kPQwCvSFLJndDg9zJTOv"
+      },
+      "artists": [
+        {
+          "name": "Mellizos",
+          "url": "https://open.spotify.com/artist/58aKkaiVZkoeZNeHTz36Gi"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211355,
+      "name": "Snakebite Boogie",
+      "url": "https://open.spotify.com/track/3Tokd2H9xxDzkvKVahm6tc"
+    },
+    {
+      "album": {
         "name": "Snap Talk",
         "url": "https://open.spotify.com/album/44jOVflzmKLQUzhQ1LLEOz"
       },
@@ -58337,6 +58355,24 @@
     },
     {
       "album": {
+        "name": "To The Party",
+        "url": "https://open.spotify.com/album/0z7Z3KkFpVdSv0NYEMpdt7"
+      },
+      "artists": [
+        {
+          "name": "B/AN/K",
+          "url": "https://open.spotify.com/artist/0KenGC6rx5erjBNitrfJNu"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188409,
+      "name": "To The Party",
+      "url": "https://open.spotify.com/track/2jsyn46OQHFQGYj4BbmHRD"
+    },
+    {
+      "album": {
         "name": "TOBACCO",
         "url": "https://open.spotify.com/album/3DrWVv11amwwFG7VzSB6RI"
       },
@@ -61744,7 +61780,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 200760,
       "name": "Walk Away",
       "url": "https://open.spotify.com/track/5E5U0bpj6Tnkf4qt77UMp1"
@@ -65224,7 +65260,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 181654,
       "name": "You got me",
       "url": "https://open.spotify.com/track/6oHF418YOsgEd6qjlRP1Dn"

@@ -6,8 +6,56 @@
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "AAASGmbZ8UPYjt1ky3QqX64Zu4EICd/D",
+  "snapshot_id": "AAASHfpHMG+vgWSIvhmVwMqMDVxCflXf",
   "tracks": [
+    {
+      "added_at": "2026-04-10 21:35:42",
+      "album": {
+        "name": "Vol. 038",
+        "url": "https://open.spotify.com/album/3zB9ukseQG3aOnWAMSqQpE"
+      },
+      "artists": [
+        {
+          "name": "Cris Rocks",
+          "url": "https://open.spotify.com/artist/6OSYk8t24QxVGgLZj3gTbJ"
+        }
+      ],
+      "duration_ms": 215156,
+      "name": "No Signal",
+      "url": "https://open.spotify.com/track/7lvkLByatGBLXCBiiRQ49Q"
+    },
+    {
+      "added_at": "2026-04-10 14:38:52",
+      "album": {
+        "name": "Chemicals (Original Mix)",
+        "url": "https://open.spotify.com/album/0C8zK6KsNOQG9K5c8cOqs4"
+      },
+      "artists": [
+        {
+          "name": "Bartolomeo Di Chiara",
+          "url": "https://open.spotify.com/artist/79HWXwdfrEFu327dotcqph"
+        }
+      ],
+      "duration_ms": 266000,
+      "name": "Chemicals - Original Mix",
+      "url": "https://open.spotify.com/track/1nqoQA8wU9IAU4ZIEWAcYQ"
+    },
+    {
+      "added_at": "2026-04-10 10:21:58",
+      "album": {
+        "name": "Dunes in Motion",
+        "url": "https://open.spotify.com/album/5hi2tq2AR4TS6yt45tcAuz"
+      },
+      "artists": [
+        {
+          "name": "Hub30",
+          "url": "https://open.spotify.com/artist/385GnVcvtt3cbhl512XWp0"
+        }
+      ],
+      "duration_ms": 177692,
+      "name": "Dunes in Motion",
+      "url": "https://open.spotify.com/track/5JTzx1Q0TtsUWv4vzS9Z3K"
+    },
     {
       "added_at": "2026-04-09 20:08:22",
       "album": {

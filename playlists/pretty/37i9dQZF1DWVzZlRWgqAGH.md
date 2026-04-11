@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 
 > TOBi and music for your soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 841,933 likes - 75 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 841,995 likes - 75 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 | 74 | [THE FALL](https://open.spotify.com/track/26Zg7dZQtAMYIpEHD3SYci) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG), [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J), [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1) | [THE FALL](https://open.spotify.com/album/1QgFO7rwG1CZafxysAP6zP) | 3:20 |
 | 75 | [Everyday](https://open.spotify.com/track/5X04jyKedcufuGh7Q9ZkMq) | [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [Everyday](https://open.spotify.com/album/0HtDDfNqqjCiKhiUEiO2F8) | 2:31 |
 
-Snapshot ID: `AAAAAJ48msigD5fTZGp3yfIqbN0bciw2`
+Snapshot ID: `AAAAAA1gXxNrCekyL0m2vqVV44XHrmk1`

@@ -2,9 +2,9 @@
 
 ### [RAPública de Colombia](https://open.spotify.com/playlist/37i9dQZF1DX2vnBrKB7FwM)
 
-> Porque Colombia es tierra de MCs, Rap y Hip\-Hop\. Foto: Ali Aka Mind
+> Porque Colombia es tierra de MCs, Rap y Hip\-Hop\. Foto: Granuja
 
-154 songs - 8 hr 32 min
+155 songs - 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Esperaré por Ti](https://open.spotify.com/track/36Rix2ddUNOg7eMJOEGxNk) | [Aerophon](https://open.spotify.com/artist/6nfNQvqechLUJaFHYAciep) | [Esperaré por Ti](https://open.spotify.com/album/4OptL4DWShK5i4P1XP6V2Y) | 3:50 | 2022-02-25 |  |
 | [Estado Mental](https://open.spotify.com/track/2MdCEO1ghH4VHGDouv2huM) | [PNO](https://open.spotify.com/artist/6WvzfmDzyF1baKzCps2Odf) | [Joyas del Underground](https://open.spotify.com/album/2ZS9MDcx1df7pckFZnDLGJ) | 3:42 | 2025-03-14 |  |
 | [Estilo Libre](https://open.spotify.com/track/3tevQpo4mQZGOJXDIviIuH) | [Tres Coronas](https://open.spotify.com/artist/5kROocD0ED0BYdVo7tJrSe) | [Estilo Libre](https://open.spotify.com/album/3iEaANWiVVNErdqTdckXTZ) | 2:12 | 2023-08-25 | 2024-03-02 |
+| [Fachada](https://open.spotify.com/track/0c7rO85nBLGvFzmPTDWZ0N) | [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS), [N\-Wise Allah](https://open.spotify.com/artist/4NGPHzbZNLMQkjtrJ2a2Sx) | [Pangea](https://open.spotify.com/album/1Jo2XDCbuC5DPeihutxNEH) | 3:26 | 2026-04-10 |  |
 | [Felicidad](https://open.spotify.com/track/0vWJNqdavYDYF21IQBlBFS) | [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c) | [Felicidad](https://open.spotify.com/album/4986un74KXepy88FQq1VdD) | 3:55 | 2022-12-16 |  |
 | [Flaca](https://open.spotify.com/track/18PywrD2EQCVJEXMjETy8p) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Flaca](https://open.spotify.com/album/1rGB0EkQQ96tB4iYTklDIy) | 3:24 | 2022-02-25 |  |
 | [Foráneos](https://open.spotify.com/track/2MOupuZ5SXzWtlE03VN9Ke) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Norick](https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo), [Dj J.L.P](https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij) | [Foráneos](https://open.spotify.com/album/0M5qXlASVuTQd6qu7tf0Fq) | 3:06 | 2023-02-13 | 2025-07-05 |
@@ -70,7 +71,7 @@
 | [Inefable](https://open.spotify.com/track/6S0d8VN3nUDChfmqsKs8Ve) | [Ruzto](https://open.spotify.com/artist/5Ti7e3WlCPPlcsZfxqtzTo) | [Inefable](https://open.spotify.com/album/1h4TnMOV1XJOmP2xUfMCbC) | 3:03 | 2022-02-25 | 2023-08-26 |
 | [Inmortal](https://open.spotify.com/track/0SuDASVJre5ibvn7FWhr2f) | [Aerophon](https://open.spotify.com/artist/6nfNQvqechLUJaFHYAciep) | [Ónix](https://open.spotify.com/album/2VNQz46SGDNQVRxGa0zY0J) | 2:58 | 2022-02-25 | 2022-07-16 |
 | [Inmune](https://open.spotify.com/track/2xrv8ar2mYYwmXPoCZY9se) | [N\. Hardem](https://open.spotify.com/artist/6oqagavQDMpR3KKeX4eqjL), [Edson Velandia](https://open.spotify.com/artist/3ljnYB3ODjEMEJgdHUPMPi) | [Verdor](https://open.spotify.com/album/3y6yqzgtEBTRShhEC7mRTN) | 4:32 | 2022-07-15 | 2024-04-19 |
-| [Inmune](https://open.spotify.com/track/637uiYNp6YmhmYJaCxmEHE) | [N\. Hardem](https://open.spotify.com/artist/6oqagavQDMpR3KKeX4eqjL), [Edson Velandia](https://open.spotify.com/artist/7a95K7TPXS9qqnMNcFM1x8) | [Verdor](https://open.spotify.com/album/58ucyDAKyLvEXL3M8YSzgF) | 4:32 | 2022-02-25 |  |
+| [Inmune](https://open.spotify.com/track/637uiYNp6YmhmYJaCxmEHE) | [N\. Hardem](https://open.spotify.com/artist/6oqagavQDMpR3KKeX4eqjL), [Edson Velandia](https://open.spotify.com/artist/7a95K7TPXS9qqnMNcFM1x8) | [Verdor](https://open.spotify.com/album/58ucyDAKyLvEXL3M8YSzgF) | 4:32 | 2022-02-25 | 2026-04-11 |
 | [INTERNACIONAL WELTER](https://open.spotify.com/track/1yaar52W1nAFGm0GS7moE4) | [N\. Hardem](https://open.spotify.com/artist/6oqagavQDMpR3KKeX4eqjL), [L'Xuasma](https://open.spotify.com/artist/4lEh3rt391Jzx3edimVSBO), [Hi\-Kymon](https://open.spotify.com/artist/16WCvOujBHZJ3jKoLRpWKb) | [MAL DE ALTURA](https://open.spotify.com/album/75OUQCSkk96gwjHEfrIQEJ) | 4:10 | 2024-04-05 |  |
 | [La Caza de Nariño](https://open.spotify.com/track/5MeIi5WpWhvCmRAqn0ODgm) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [La Caza de Nariño](https://open.spotify.com/album/5hMkRwGOLJN3nQxJ4BkJwW) | 3:41 | 2022-02-25 |  |
 | [La Junta](https://open.spotify.com/track/33XO9zynI5v4lS2bxYbpc7) | [Tres Coronas](https://open.spotify.com/artist/5kROocD0ED0BYdVo7tJrSe) | [La Junta](https://open.spotify.com/album/4tmlpeh4UeaZPxyEblnAzV) | 3:54 | 2022-12-16 | 2023-08-26 |

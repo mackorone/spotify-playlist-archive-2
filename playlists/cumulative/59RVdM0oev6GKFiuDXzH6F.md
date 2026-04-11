@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-1,114 songs - 2 day 9 hr 26 min
+1,116 songs - 2 day 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Blazin \(feat\. Enisa\)](https://open.spotify.com/track/75xnT9ZmnvbjdyCX3pwizB) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp), [Enisa](https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6) | [Blazin \(feat\. Enisa\)](https://open.spotify.com/album/69rtLq7JppAFO3by5g1mNJ) | 2:07 | 2023-10-26 | 2024-09-26 |
 | [Blessed \(Lost & Found\)](https://open.spotify.com/track/61YKjWGAo6dGy43mHmQ8un) | [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7), [Robbie Mendez](https://open.spotify.com/artist/1CEqpjEq6n8O8zte6YvOTM) | [Blessed \(Lost & Found\)](https://open.spotify.com/album/5fhv3zHmYuIPO7S8zFarFq) | 3:28 | 2023-12-22 | 2024-09-26 |
 | [Bliss](https://open.spotify.com/track/1Rrn1xTm9PP6bRWoCJ9CiG) | [Kyle Walker](https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP) | [Bliss](https://open.spotify.com/album/6t0gCJ3EsuUoIeAZJ7XfgS) | 3:40 | 2023-07-28 | 2023-08-04 |
+| [Blow A Kiss](https://open.spotify.com/track/2pwx7SWo8xtaX6F6oKbNKf) | [Smooth Talk](https://open.spotify.com/artist/2bfp5yCyj2ze0s2OgkKnmn), [Vozz Rich](https://open.spotify.com/artist/27sSKrytmUXukDnMGPXNHQ), [AdamDarling](https://open.spotify.com/artist/3ymgkFheVJc8RE98s1yMM6) | [Blow A Kiss](https://open.spotify.com/album/3xGHsA01JaDZAfVYYScjmx) | 3:17 | 2026-04-10 |  |
 | [Body & Soul](https://open.spotify.com/track/1qkemFylpvVolVww5xXzHe) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Body & Soul / Winning Prize](https://open.spotify.com/album/2mLV1f1aV8pkB45AljGOwp) | 2:41 | 2026-02-20 |  |
 | [Body Moving \- Skream Remix](https://open.spotify.com/track/4Si92Ccti5JgtMIhYVaEEt) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [Body Moving \(Skream Remix\)](https://open.spotify.com/album/19ra0E2DFURkLtvp5oDGTQ) | 4:49 | 2024-01-12 | 2024-09-26 |
 | [Body To Body](https://open.spotify.com/track/66ApsTpsJru1RynMvTmR4V) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz) | [Body To Body](https://open.spotify.com/album/6QNieC7Wn7A36nDPkSuhEt) | 2:24 | 2023-02-12 | 2023-04-13 |
@@ -791,6 +792,7 @@
 | [Rakata](https://open.spotify.com/track/7mexjF66Y0kvZXv5c1n0OX) | [Kayote](https://open.spotify.com/artist/5h9NCujJrwNVZz9bDIDbvn), [The Galaxy](https://open.spotify.com/artist/1a7aOqigZ5aWIaagMLlHC4) | [Rakata](https://open.spotify.com/album/4r8VboNlrNtlA9y7NNbLeQ) | 2:17 | 2023-11-10 | 2024-09-26 |
 | [Rapture](https://open.spotify.com/track/77Slqc0b3W46tzOp6J8ar8) | [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz), [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk) | [Rapture \(with Robert Falcon\)](https://open.spotify.com/album/6e6tyNGXXbD7YVCHruq2qB) | 3:07 | 2023-11-17 | 2024-09-26 |
 | [Rapture \(BLR Remix\)](https://open.spotify.com/track/2rFGvptgcdcYoYHZ89GNL3) | [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz), [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk), [BLR](https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y) | [Rapture \(BLR Remix\)](https://open.spotify.com/album/0iaLdEq3LJZIFhuyp9VEwR) | 3:50 | 2023-12-22 | 2024-09-26 |
+| [Rasa](https://open.spotify.com/track/2FjygPrHAtjeMD4AwWK0Yp) | [HASKELL](https://open.spotify.com/artist/5ry5gHsT7l1X84yGPZeVIj) | [Rasa](https://open.spotify.com/album/4cVAQwPqntz0vJVXaArLsV) | 3:01 | 2026-04-10 |  |
 | [Rave Again](https://open.spotify.com/track/34sBY4F5HCjXbMIclzhofp) | [EANE TRONIC](https://open.spotify.com/artist/3cROVje0OjipXsZocUVmWM) | [Rave Again](https://open.spotify.com/album/27YKZVcXsfQBjfVJuWNvyU) | 3:14 | 2025-12-05 |  |
 | [Rave To The Grave](https://open.spotify.com/track/3cTncddIg0cBjuwPRlew0r) | [Bonka](https://open.spotify.com/artist/3HIgSx8t7957kFVbwGrSRF) | [Rave To The Grave](https://open.spotify.com/album/6pK8ij9VluwiVJbJR48uE7) | 2:21 | 2023-06-08 | 2023-12-23 |
 | [Raving](https://open.spotify.com/track/1U6hOheaJGUCWzn3ot1cbm) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Raving](https://open.spotify.com/album/7ILVMHef9eJsQi27KM56Hf) | 2:18 | 2024-08-01 |  |

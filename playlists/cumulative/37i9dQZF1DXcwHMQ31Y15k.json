@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Esa Risty",
+  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Vadesta",
   "name": "Boso Jowo",
   "tracks": [
     {
@@ -5113,6 +5113,24 @@
     },
     {
       "album": {
+        "name": "Lungit",
+        "url": "https://open.spotify.com/album/5U4kv0FqKMdVthpyGpit7W"
+      },
+      "artists": [
+        {
+          "name": "Vadesta",
+          "url": "https://open.spotify.com/artist/7vAiI188SHEmVcvPgqnzYO"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310000,
+      "name": "Lungit",
+      "url": "https://open.spotify.com/track/4LwQwoOs8Luy7ppXOm0naG"
+    },
+    {
+      "album": {
         "name": "Macak Kelaran",
         "url": "https://open.spotify.com/album/7q5BOzYZK99mCNRubljO8e"
       },
@@ -6104,6 +6122,24 @@
       "duration_ms": 303867,
       "name": "Ngeliyo",
       "url": "https://open.spotify.com/track/2cFLpZRRzUt8amkXI2lJ66"
+    },
+    {
+      "album": {
+        "name": "Ngeliyo (Lincak Session)",
+        "url": "https://open.spotify.com/album/3SsizgRGzPbeckAoKXqVRV"
+      },
+      "artists": [
+        {
+          "name": "Pendhoza",
+          "url": "https://open.spotify.com/artist/7pv4pK2Q3iHVi0cfT1xlSQ"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323111,
+      "name": "Ngeliyo - Lincak Session",
+      "url": "https://open.spotify.com/track/2BTQSCqbfKsmi5uZDVnwdp"
     },
     {
       "album": {

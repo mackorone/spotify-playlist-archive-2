@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 
 > The best of modern blues rock\. Cover: The Sheepdogs
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,628 likes - 150 songs - 9 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,698 likes - 150 songs - 9 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Future Soul](https://open.spotify.com/track/41QtY7hxoAFWC8yMIzxu43) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Future Soul](https://open.spotify.com/album/3ju1yk14EAVB3156tIylfI) | 3:19 |
-| 2 | [Foot Off](https://open.spotify.com/track/0KCL2Obn6HBMcsIvENCEsw) | [Crobot](https://open.spotify.com/artist/4ygqEKxbe61knnDaodGFmi) | [Foot Off](https://open.spotify.com/album/6C2krXrdCgZzVPZdnRXZ8n) | 4:27 |
-| 3 | [Cruel Streak](https://open.spotify.com/track/5DwcxI3AviY5EQjqqCq8nn) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [A Pound of Feathers](https://open.spotify.com/album/417zi1WN5yAK4u3VOjZh13) | 4:09 |
-| 4 | [Bad For Your Health](https://open.spotify.com/track/1yqEr1wbrKeDQzoVr4kvnB) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [Keep Out of the Storm](https://open.spotify.com/album/4zVep3YJysMh3gyQmCNKRr) | 4:26 |
-| 5 | [Queen of Hearts](https://open.spotify.com/track/0hbqFIZtFrxW2n1xlNDyVR) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Queen of Hearts](https://open.spotify.com/album/5h647p839GyskOFAlaYj1l) | 5:00 |
+| 1 | [Can't Hold Out Much Longer](https://open.spotify.com/track/5kk7kZPsPMMrOm0UNJigwy) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Can't Hold Out Much Longer](https://open.spotify.com/album/5WrhbcyDzbjgydV7Lv09Ql) | 3:26 |
+| 2 | [Future Soul](https://open.spotify.com/track/41QtY7hxoAFWC8yMIzxu43) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Future Soul](https://open.spotify.com/album/3ju1yk14EAVB3156tIylfI) | 3:19 |
+| 3 | [Foot Off](https://open.spotify.com/track/0KCL2Obn6HBMcsIvENCEsw) | [Crobot](https://open.spotify.com/artist/4ygqEKxbe61knnDaodGFmi) | [Foot Off](https://open.spotify.com/album/6C2krXrdCgZzVPZdnRXZ8n) | 4:27 |
+| 4 | [Cruel Streak](https://open.spotify.com/track/5DwcxI3AviY5EQjqqCq8nn) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [A Pound of Feathers](https://open.spotify.com/album/417zi1WN5yAK4u3VOjZh13) | 4:09 |
+| 5 | [Bad For Your Health](https://open.spotify.com/track/1yqEr1wbrKeDQzoVr4kvnB) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [Keep Out of the Storm](https://open.spotify.com/album/4zVep3YJysMh3gyQmCNKRr) | 4:26 |
 | 6 | [Turnaround](https://open.spotify.com/track/40RTf2Z6gTKw1JSz39oH40) | [Fortune Child](https://open.spotify.com/artist/3rWJ0yDBY3NyNeJYcRiVAr) | [Trio](https://open.spotify.com/album/0Bm8F5fCHuxiSBtSBYHyyG) | 3:59 |
 | 7 | [When the Love is Gone](https://open.spotify.com/track/5iRv1aH4eNai45KfhjtJ6n) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8) | [When the Love is Gone](https://open.spotify.com/album/59Rz057fL9GfxdAUXd2QEr) | 3:20 |
 | 8 | [You Got to Lose](https://open.spotify.com/track/5YrYpEPqwBymz2VgbIYGik) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [You Got to Lose](https://open.spotify.com/album/5SZ3YBfMXtsMI81OZiXJz1) | 3:17 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 | 149 | [dirty claws](https://open.spotify.com/track/4dTnpAfrXeEWuGQt1cA3SF) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [play it pretty](https://open.spotify.com/album/7fip95aV1gjbCJBqHoa8lR) | 3:56 |
 | 150 | [Too Much Is Never Too Much](https://open.spotify.com/track/4fwvGZXHq2vYZUrO2TrESI) | [Gnarfunkel](https://open.spotify.com/artist/2mwAEuKKSnlOQouag2TUe5) | [Too Much Is Never Too Much](https://open.spotify.com/album/3bSxViAwIQ38614k0DYfPa) | 3:27 |
 
-Snapshot ID: `AAAAAExrqyqXgtPgG71r7uFn8yK50gIg`
+Snapshot ID: `AAAAAPSl7JRlgLMjuwbop/F4iKn+liy7`

@@ -4,7 +4,7 @@
 
 > The best of modern blues rock\. Cover: The Sheepdogs
 
-407 songs - 1 day 2 hr 17 min
+408 songs - 1 day 2 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Call It Stormy Monday](https://open.spotify.com/track/1i7nQGgwloILcp6ZftH2Qa) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [T\-Bone Blues](https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3) | 3:07 | 2024-05-24 | 2024-07-06 |
 | [Can Ya Handle The Heat?](https://open.spotify.com/track/7bQsyY4627F3Xg05RtvzgP) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Can Ya Handle The Heat?](https://open.spotify.com/album/1OVvAY4Xa0sAIPVtej7K8S) | 2:54 | 2025-04-04 | 2025-04-26 |
 | [Can't Go Back](https://open.spotify.com/track/1UakN2FvjlCtktr5C7eKTU) | [Eric Steckel](https://open.spotify.com/artist/1Nszrfn8SpD5v19xCpaVbk) | [Polyphonic Prayer](https://open.spotify.com/album/1UDIrNUj89EZLk6sxDMQEo) | 4:55 | 2020-10-16 | 2025-10-25 |
+| [Can't Hold Out Much Longer](https://open.spotify.com/track/5kk7kZPsPMMrOm0UNJigwy) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Can't Hold Out Much Longer](https://open.spotify.com/album/5WrhbcyDzbjgydV7Lv09Ql) | 3:26 | 2026-04-10 |  |
 | [Catch Me If You Can \(feat\. Chris Robertson\)](https://open.spotify.com/track/2Q7MG9T0kCEEJmDpaKP4be) | [The Picturebooks](https://open.spotify.com/artist/5L8u4AcYBOnxAtRrluOjKo), [Chris Robertson](https://open.spotify.com/artist/1GdMYXxQLiGQCdZZd153HL) | [Catch Me If You Can \(feat\. Chris Robertson\)](https://open.spotify.com/album/52SxUXwHjJNNBLvSlmbBjC) | 3:32 | 2021-07-16 | 2024-03-09 |
 | [Cause We've Ended as Lovers](https://open.spotify.com/track/4zoQ3EqopTIGmK2c2rPV5t) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Blow By Blow](https://open.spotify.com/album/6fhTDVBs7qeoP3254hMu6u) | 5:42 | 2024-05-24 | 2024-07-06 |
 | [Chevrolet](https://open.spotify.com/track/4VAKEOsaRTSeI2SNa9bEeN) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Chevrolet](https://open.spotify.com/album/4iNDYhHxLAUWyit4oRHMum) | 2:52 | 2025-12-12 |  |
@@ -284,7 +285,7 @@
 | [Pretend](https://open.spotify.com/track/0MMBjSzV3ZqCWLEuJdVqvK) | [Jared James Nichols](https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g) | [Pretend](https://open.spotify.com/album/1hFRv2fI8eSWpBQbpOMrMm) | 2:45 | 2026-01-23 |  |
 | [Prosecution Blues](https://open.spotify.com/track/6DdX7BH2VJzfcjIAlyyPzk) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Prosecution Blues](https://open.spotify.com/album/3GvnjHR6Vm28smZDaxS0Ww) | 3:53 | 2021-07-16 | 2022-07-29 |
 | [Put Your Money On Me](https://open.spotify.com/track/3nFZSnjeCfNLVFPK1nnXZF) | [The Answer](https://open.spotify.com/artist/3STTKsLP1gSzGvOVCtNlWS) | [Put Your Money On Me](https://open.spotify.com/album/7MyvRRf3JcTp4R4J3iXC0B) | 3:07 | 2024-03-22 |  |
-| [Queen of Hearts](https://open.spotify.com/track/0hbqFIZtFrxW2n1xlNDyVR) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Queen of Hearts](https://open.spotify.com/album/5h647p839GyskOFAlaYj1l) | 5:00 | 2026-02-27 |  |
+| [Queen of Hearts](https://open.spotify.com/track/0hbqFIZtFrxW2n1xlNDyVR) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Queen of Hearts](https://open.spotify.com/album/5h647p839GyskOFAlaYj1l) | 5:00 | 2026-02-27 | 2026-04-11 |
 | [Ready for More](https://open.spotify.com/track/3qCcj7VVDZtiCo8LASZQyG) | [Graffiti Ghosts](https://open.spotify.com/artist/5pXlwkidD4qQEiaE8MaDOu) | [III](https://open.spotify.com/album/7wOCyDQqR7yUb4JvEgBnrd) | 2:24 | 2023-06-16 |  |
 | [Red House](https://open.spotify.com/track/3XxBSvDZKH5YvZZjTpn6eR) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Are You Experienced](https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9) | 3:50 | 2024-05-24 | 2024-07-06 |
 | [Renegade Season](https://open.spotify.com/track/4YcPEgiT0kbnidJYw7OyUb) | [Jax Hollow](https://open.spotify.com/artist/25MQQTJdMDKnJoGMyOdHYB) | [Only The Wild Ones](https://open.spotify.com/album/23987SO39NcnKh9gtceZKf) | 4:36 | 2023-05-05 |  |

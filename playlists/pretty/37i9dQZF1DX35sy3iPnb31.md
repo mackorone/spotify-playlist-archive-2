@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 
 > The best Canadian songs of the month, handpicked by Spotify Canada editors\. Cover: Charlotte Cardin
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,180 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,178 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 49 | [Kitchen](https://open.spotify.com/track/0csn8Na8Zbuipf5Ncicv21) | [Charlotte Cornfield](https://open.spotify.com/artist/59aqTTQGnvttJ4BCThaABZ) | [Hurts Like Hell](https://open.spotify.com/album/21IyvAnogGM9zfJYOShEBj) | 4:05 |
 | 50 | [Abyss](https://open.spotify.com/track/1HDl1oOVvhqf5VU6qwVGaI) | [Wintersleep](https://open.spotify.com/artist/1VrpL9mx2a6WRolLh7mHrE) | [Wishing Moon](https://open.spotify.com/album/2AdUlZJGxNEI6HJpsspGVl) | 4:29 |
 
-Snapshot ID: `AAAAABxBu/B7LfvKya03jUDmzNdgBfNf`
+Snapshot ID: `AAAAAD/gRP+gTvjzUAsxAl6BLW6sFry1`

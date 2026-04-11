@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: march\-april 2026 \(previous playlists archived on my profile\)
 
-957 songs - 2 day 10 hr 1 min
+958 songs - 2 day 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,7 +262,7 @@
 | [Fallen Leaves](https://open.spotify.com/track/4u5mES4rljkyCtLOPLCDj1) | [Teenage Fanclub](https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW) | [Man\-Made](https://open.spotify.com/album/1B0lXu8AkBqJ1Sq02Howa1) | 3:31 | 2024-12-27 | 2025-01-12 |
 | [Falling Backwards](https://open.spotify.com/track/3DYTT6HXBesNRtfFYAYVTY) | [Brittle Stars](https://open.spotify.com/artist/6uZBMEZeMcDuBoamJ7wLf5) | [Garage Sale EP + Remixes](https://open.spotify.com/album/1pcaVlKBjlBWSUqfcELSzO) | 1:40 | 2024-01-31 | 2024-03-10 |
 | [Falling Down a Dam of Mashed Potatoes](https://open.spotify.com/track/5y69U1bw1dBixUL1nViDXr) | [Lawrence](https://open.spotify.com/artist/0P42vB5p3jd1P4ScFQg2YI) | [Childish Music](https://open.spotify.com/album/6LABtUVPmwMWuRoQ8vg1Gp) | 3:43 | 2025-06-03 | 2025-07-04 |
-| [Falling In Love \(Uh\-Oh\)](https://open.spotify.com/track/5jwoygernfGvAuIxFSqxHp) | [Miami Sound Machine](https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F) | [Primitive Love](https://open.spotify.com/album/70ziXyCSplSPUpFmq9kh6M) | 3:53 | 2026-04-02 |  |
+| [Falling In Love \(Uh\-Oh\)](https://open.spotify.com/track/5jwoygernfGvAuIxFSqxHp) | [Miami Sound Machine](https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F) | [Primitive Love](https://open.spotify.com/album/70ziXyCSplSPUpFmq9kh6M) | 3:53 | 2026-04-02 | 2026-04-11 |
 | [family and friends](https://open.spotify.com/track/3CkNXbhCLFk4o7GJduateb) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [family and friends](https://open.spotify.com/album/6y6YITcW11LC9K83uH6XYR) | 2:56 | 2024-09-18 | 2024-11-14 |
 | [Far Away Chant](https://open.spotify.com/track/4CjW0aU1a6Q8SrnGfLJWGx) | [African Head Charge](https://open.spotify.com/artist/4eOZAQytg3U2l0WTClghDQ) | [My Life In A Hole In The Ground](https://open.spotify.com/album/39ritWVnJCxRNhyj8mRSI8) | 4:04 | 2025-02-26 | 2025-03-03 |
 | [Father Lucifer \- 2016 Remaster](https://open.spotify.com/track/22lGkc95LBywIGwK0s7duD) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [Boys for Pele \(Deluxe Edition\)](https://open.spotify.com/album/7vuSTl6tuWg0CQdmfphkFQ) | 3:42 | 2025-10-24 | 2025-11-15 |
@@ -840,6 +840,7 @@
 | [The Sky Is So Blue](https://open.spotify.com/track/0FnQJbknnZXdKnhiU6qxdp) | [Jane Siberry](https://open.spotify.com/artist/5JQT7pvJY4ojWOl2QuzdvG) | [Jane Siberry](https://open.spotify.com/album/7xkYpBDmWmSu9Axfd43cM3) | 4:04 | 2025-01-25 | 2025-03-02 |
 | [The Sweetest Gift](https://open.spotify.com/track/6r9jhN0mryXMDKIol3XhO8) | [Sulah Jordan](https://open.spotify.com/artist/2g57r5gsJqgHbLSJ21yy1o) | [The Sweetest Gift](https://open.spotify.com/album/3EaNsumSSiHJvXIN371vuA) | 3:33 | 2024-05-26 | 2024-07-12 |
 | [The Thoughts Of Mary Jane](https://open.spotify.com/track/3k5C3vlDqE5rOqiikOjJ10) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Five Leaves Left](https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2) | 3:18 | 2025-09-10 | 2025-11-15 |
+| [The Ultraworld](https://open.spotify.com/track/1KGLcXp6hVKESnRYxzo10m) | [Wendy Eisenberg](https://open.spotify.com/artist/7HrVZurdKyYpQamwyD1gBi) | [Wendy Eisenberg](https://open.spotify.com/album/461pbwQf3k7oOQ43DZjzf5) | 5:10 | 2026-04-10 |  |
 | [The Underground Solution](https://open.spotify.com/track/4HgK9B850KCWFDL4y6posB) | [Primitive Radio Gods](https://open.spotify.com/artist/5wTpMQz4RtF6dFX9blvMDc) | [Still Electric](https://open.spotify.com/album/53AaCjLl4lnuu0gRDaacoN) | 3:43 | 2024-11-25 | 2025-01-12 |
 | [The Valley in Flight](https://open.spotify.com/track/35vrYVGTV7E6Fp66hprKV2) | [Richard Youngs](https://open.spotify.com/artist/1rMkroCNvGAk4kO6I1j5A3) | [Beyond The Valley Of Ultrahits](https://open.spotify.com/album/6xp1MvM7LFR24g9ZO9RK92) | 3:49 | 2026-02-22 | 2026-03-13 |
 | [The Water Is Wide](https://open.spotify.com/track/46wDI2wGZgW2BrO37OUD5k) | [Fred Neil](https://open.spotify.com/artist/3xmUdkZUQbtMM62XP4nnb6) | [Bleecker And McDougal \(US Release\)](https://open.spotify.com/album/0udQYUvwWS8PC6XGaVAMi0) | 4:18 | 2025-02-26 | 2025-03-02 |

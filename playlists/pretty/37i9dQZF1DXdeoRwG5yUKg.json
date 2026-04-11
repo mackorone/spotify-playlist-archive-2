@@ -1,13 +1,33 @@
 {
   "description": "Soulful, bluesy ballads. Cover: Kashus Culpepper",
-  "num_followers": 579227,
+  "num_followers": 579321,
   "original_name": "Blue Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB7B2KzAIKv8nbct21RZOKa0V/52",
+  "snapshot_id": "AAAAANOO1Acx7BdJTpGUwB7ciVYqLor6",
   "tracks": [
+    {
+      "added_at": "2026-04-10 04:01:30",
+      "album": {
+        "name": "We Will Always Be The Way We Were",
+        "url": "https://open.spotify.com/album/0lLm4zLB446rpCHC4yZTey"
+      },
+      "artists": [
+        {
+          "name": "Jack Savoretti",
+          "url": "https://open.spotify.com/artist/7nC05zmJukRGYObQeRgg3x"
+        },
+        {
+          "name": "KT Tunstall",
+          "url": "https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL"
+        }
+      ],
+      "duration_ms": 188453,
+      "name": "Tempting Fate",
+      "url": "https://open.spotify.com/track/2lxYhDhgFTqF1vfzBXARjh"
+    },
     {
       "added_at": "2025-09-26 04:00:43",
       "album": {
@@ -1227,22 +1247,6 @@
       "duration_ms": 249760,
       "name": "Now You Want Me Back",
       "url": "https://open.spotify.com/track/5dd769kGy644G8xYkdJJZt"
-    },
-    {
-      "added_at": "2020-11-05 20:25:04",
-      "album": {
-        "name": "Allow Me to Confess",
-        "url": "https://open.spotify.com/album/2c2cFKHtezKf5Fna1rZO4T"
-      },
-      "artists": [
-        {
-          "name": "Gina Sicilia",
-          "url": "https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ"
-        }
-      ],
-      "duration_ms": 194373,
-      "name": "Try Me",
-      "url": "https://open.spotify.com/track/5vjbpawQ7l5Qdgwh1WafWe"
     },
     {
       "added_at": "2020-11-05 20:25:04",

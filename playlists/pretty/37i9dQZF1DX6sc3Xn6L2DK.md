@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 
 > Boots on the ground, head in the stars
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,695 likes - 101 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,697 likes - 101 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 | 100 | [Murmur of Yearning](https://open.spotify.com/track/2JaOVb7WJCcpAe1JRRLTl3) | [Thomas Csorba](https://open.spotify.com/artist/21BSy0UVoDXEiRdA9v9uUH) | [Murmur of Yearning](https://open.spotify.com/album/6VveikqNVl4KGt9UEKTa8L) | 3:50 |
 | 101 | [I’m Gonna Live Forever \(If It Kills Me\)](https://open.spotify.com/track/5tGGEBNmFftTYATm1ZDETW) | [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [Modern Country](https://open.spotify.com/album/0AlKGJjZriUhapXB3hyW6h) | 5:25 |
 
-Snapshot ID: `AAAAAKtW+eWYCfenDZaMoq19oUKY2cOW`
+Snapshot ID: `AAAAAI4fdJjCjwecbHXGnOK+XGy0S54S`

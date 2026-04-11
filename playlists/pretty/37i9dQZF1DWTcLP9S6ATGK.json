@@ -1,12 +1,12 @@
 {
   "description": "Menemani akhir pekanmu dengan lagu-lagu terbaru. Cover: Timun Jelita",
-  "num_followers": 169200,
+  "num_followers": 169321,
   "original_name": "Musik Akhir Pekan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALYnYSMAVVAImL8CS7LNw237NrlJ",
+  "snapshot_id": "AAAAAHl3FvNHe336MWMFdL4H5Ywp91lR",
   "tracks": [
     {
       "added_at": "2026-04-09 18:07:13",
@@ -93,6 +93,22 @@
       "url": "https://open.spotify.com/track/55Cb01L3x8WNC286rYp7Eh"
     },
     {
+      "added_at": "2026-04-10 02:13:26",
+      "album": {
+        "name": "Bersama Bulan",
+        "url": "https://open.spotify.com/album/4zVMvQtwpyV9eeqWEFI9dB"
+      },
+      "artists": [
+        {
+          "name": "Josally",
+          "url": "https://open.spotify.com/artist/5eQYfWdnjBkFPJ7g7MgHT9"
+        }
+      ],
+      "duration_ms": 252200,
+      "name": "Bersama Bulan",
+      "url": "https://open.spotify.com/track/2fV7eXUIniXe27zIZB4HzZ"
+    },
+    {
       "added_at": "2026-04-09 18:07:13",
       "album": {
         "name": "Sakit Tak Bertepi",
@@ -173,6 +189,22 @@
       "url": "https://open.spotify.com/track/7hlngcokcrvJ3NQQdlHjli"
     },
     {
+      "added_at": "2026-04-10 03:08:13",
+      "album": {
+        "name": "kira",
+        "url": "https://open.spotify.com/album/5rmc5LHFzb8v69KTdNfoeX"
+      },
+      "artists": [
+        {
+          "name": "Shakira Jasmine",
+          "url": "https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3"
+        }
+      ],
+      "duration_ms": 194111,
+      "name": "akankah aku sampai kesana?",
+      "url": "https://open.spotify.com/track/1DSAGMCAHhKihNoge4QlCX"
+    },
+    {
       "added_at": "2026-04-09 18:07:13",
       "album": {
         "name": "Aduh Kamu",
@@ -189,6 +221,42 @@
       "url": "https://open.spotify.com/track/4oen35ip77UproFcF4RtbH"
     },
     {
+      "added_at": "2026-04-10 03:08:13",
+      "album": {
+        "name": "Bukan Salahku",
+        "url": "https://open.spotify.com/album/4tpfIoul9tB2A3ghQ7Gr4t"
+      },
+      "artists": [
+        {
+          "name": "Tama Yuri",
+          "url": "https://open.spotify.com/artist/77fMwWPns9MhfiVi7USPWp"
+        }
+      ],
+      "duration_ms": 171857,
+      "name": "Bukan Salahku",
+      "url": "https://open.spotify.com/track/0JcQlDnqHNsY3RZKWtwLaQ"
+    },
+    {
+      "added_at": "2026-04-10 09:55:45",
+      "album": {
+        "name": "Hijrah Tanpa Nanti",
+        "url": "https://open.spotify.com/album/43oTJdibdbmEFluM49bGku"
+      },
+      "artists": [
+        {
+          "name": "Reynold",
+          "url": "https://open.spotify.com/artist/3KCk1ZZN3Q0mU6IvddxhVQ"
+        },
+        {
+          "name": "Derry Sulaiman",
+          "url": "https://open.spotify.com/artist/4akf8s5w49AUedoj8bqFXH"
+        }
+      ],
+      "duration_ms": 220919,
+      "name": "Hijrah Tanpa Nanti",
+      "url": "https://open.spotify.com/track/0xtihSz16pXH02uIqod6iA"
+    },
+    {
       "added_at": "2026-04-09 18:07:13",
       "album": {
         "name": "LUPA!",
@@ -203,6 +271,22 @@
       "duration_ms": 156144,
       "name": "LUPA!",
       "url": "https://open.spotify.com/track/3QZPgu1RopGKEzTn45KbXV"
+    },
+    {
+      "added_at": "2026-04-10 03:08:13",
+      "album": {
+        "name": "Rengkuh",
+        "url": "https://open.spotify.com/album/3tvN0pffQEijmTCyxZylT5"
+      },
+      "artists": [
+        {
+          "name": "Erza Lazuardi",
+          "url": "https://open.spotify.com/artist/7nzuh53vL1Z87Kh5KImCqV"
+        }
+      ],
+      "duration_ms": 243500,
+      "name": "Rengkuh",
+      "url": "https://open.spotify.com/track/40w1C4J2Q1WemzICSL1fiU"
     },
     {
       "added_at": "2026-04-09 18:17:52",

@@ -1367,6 +1367,28 @@
     },
     {
       "album": {
+        "name": "ODD",
+        "url": "https://open.spotify.com/album/1JyabSR23NabWYZF3IzGXe"
+      },
+      "artists": [
+        {
+          "name": "PENOMECO",
+          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
+        },
+        {
+          "name": "ELO",
+          "url": "https://open.spotify.com/artist/15KDb2KpZRvX1updtyinK1"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187413,
+      "name": "DEEP",
+      "url": "https://open.spotify.com/track/53uVUspK1sPU9WWLvFZJdJ"
+    },
+    {
+      "album": {
         "name": "PALETTE C#505.",
         "url": "https://open.spotify.com/album/6I2eTUSibn3Y8uJZj1pTS8"
       },
@@ -1404,6 +1426,28 @@
       "duration_ms": 184280,
       "name": "Dive Into",
       "url": "https://open.spotify.com/track/4i5Jxokc2PUjZDF3JPdzx5"
+    },
+    {
+      "album": {
+        "name": "I",
+        "url": "https://open.spotify.com/album/1ka2d2pnD7BroRno17BwjQ"
+      },
+      "artists": [
+        {
+          "name": "LEE GI KWANG",
+          "url": "https://open.spotify.com/artist/3CC7p9QM4VjO62rmcaRP3z"
+        },
+        {
+          "name": "Kid Milli",
+          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238311,
+      "name": "Don't Close Your Eyes (D.C.Y.E) (feat. Kid Milli)",
+      "url": "https://open.spotify.com/track/6e4VAZKREYJIUyR79JnMso"
     },
     {
       "album": {
@@ -2982,7 +3026,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 187680,
       "name": "Inside",
       "url": "https://open.spotify.com/track/2DQExJcuyW8ZuDIcOBx0EG"
@@ -4394,7 +4438,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 185729,
       "name": "Pick up your phone (Feat. MOON)",
       "url": "https://open.spotify.com/track/5FMPLl79EfOnRZ4xn2Mck0"

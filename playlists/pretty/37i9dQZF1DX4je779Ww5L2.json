@@ -1,12 +1,12 @@
 {
   "description": "de sfeer van 6 uur in de ochtend in de buitenlucht",
-  "num_followers": 191031,
+  "num_followers": 191023,
   "original_name": "rustig aan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFqNz/u0RcAc0e2mYMFeZp+58wJx",
+  "snapshot_id": "AAAAAEpdwwJ8+14MsyzDJjNOwVT7DHLg",
   "tracks": [
     {
       "added_at": "2026-04-02 22:00:57",
@@ -155,6 +155,22 @@
     {
       "added_at": "2026-04-02 22:00:57",
       "album": {
+        "name": "For Mary",
+        "url": "https://open.spotify.com/album/0VjLyzT1oN7aQqdkazdPCh"
+      },
+      "artists": [
+        {
+          "name": "Olive Jones",
+          "url": "https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn"
+        }
+      ],
+      "duration_ms": 263422,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/49VfcjjkNQA822cDE1r5iy"
+    },
+    {
+      "added_at": "2026-04-02 22:00:57",
+      "album": {
         "name": "Always The Same (feat. St. Vincent)",
         "url": "https://open.spotify.com/album/1ymjKA3yey1nVI4GuktFk0"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 256875,
       "name": "Always The Same (feat. St. Vincent)",
       "url": "https://open.spotify.com/track/4gWVMKnpY7zU1SfNr7sFbg"
-    },
-    {
-      "added_at": "2026-04-02 22:00:57",
-      "album": {
-        "name": "For Mary",
-        "url": "https://open.spotify.com/album/0VjLyzT1oN7aQqdkazdPCh"
-      },
-      "artists": [
-        {
-          "name": "Olive Jones",
-          "url": "https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn"
-        }
-      ],
-      "duration_ms": 263422,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/49VfcjjkNQA822cDE1r5iy"
     },
     {
       "added_at": "2026-04-02 22:00:57",
@@ -591,18 +591,22 @@
     {
       "added_at": "2026-04-02 22:00:57",
       "album": {
-        "name": "Morning Star",
-        "url": "https://open.spotify.com/album/089sojnCen4IGYJvT6GEQT"
+        "name": "Richardson (feat. Cassandra Jenkins)",
+        "url": "https://open.spotify.com/album/72T10FajAmf5Wu0M9scOpp"
       },
       "artists": [
         {
-          "name": "Pitou",
-          "url": "https://open.spotify.com/artist/27aUOc2h4pz72oZen497Va"
+          "name": "Shura",
+          "url": "https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT"
+        },
+        {
+          "name": "Cassandra Jenkins",
+          "url": "https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik"
         }
       ],
-      "duration_ms": 294813,
-      "name": "Morning Star",
-      "url": "https://open.spotify.com/track/0qsxV8lNQcWc3idC2sk9d2"
+      "duration_ms": 224093,
+      "name": "Richardson - feat. Cassandra Jenkins",
+      "url": "https://open.spotify.com/track/4Jrstw4tzEoFCE5hZMug96"
     },
     {
       "added_at": "2026-04-02 22:00:57",
@@ -623,22 +627,18 @@
     {
       "added_at": "2026-04-02 22:00:57",
       "album": {
-        "name": "Richardson (feat. Cassandra Jenkins)",
-        "url": "https://open.spotify.com/album/72T10FajAmf5Wu0M9scOpp"
+        "name": "Morning Star",
+        "url": "https://open.spotify.com/album/089sojnCen4IGYJvT6GEQT"
       },
       "artists": [
         {
-          "name": "Shura",
-          "url": "https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT"
-        },
-        {
-          "name": "Cassandra Jenkins",
-          "url": "https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik"
+          "name": "Pitou",
+          "url": "https://open.spotify.com/artist/27aUOc2h4pz72oZen497Va"
         }
       ],
-      "duration_ms": 224093,
-      "name": "Richardson - feat. Cassandra Jenkins",
-      "url": "https://open.spotify.com/track/4Jrstw4tzEoFCE5hZMug96"
+      "duration_ms": 294813,
+      "name": "Morning Star",
+      "url": "https://open.spotify.com/track/0qsxV8lNQcWc3idC2sk9d2"
     },
     {
       "added_at": "2026-04-02 22:00:57",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2026-04-02 22:00:57",
       "album": {
-        "name": "Something Ain't Right (Acoustic)",
-        "url": "https://open.spotify.com/album/1d0d9udPhXSTJEyWD0A3Cx"
-      },
-      "artists": [
-        {
-          "name": "Leah Rye",
-          "url": "https://open.spotify.com/artist/2rmiadqAd2xyJUVLbCnWvn"
-        }
-      ],
-      "duration_ms": 160523,
-      "name": "Something Ain't Right - Acoustic",
-      "url": "https://open.spotify.com/track/2K5t7RDYD1C11XZmmT3KtT"
-    },
-    {
-      "added_at": "2026-04-02 22:00:57",
-      "album": {
         "name": "Lucy",
         "url": "https://open.spotify.com/album/7pYx7rQtcVhaLEKlf0QQ4Y"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 225595,
       "name": "Lucy",
       "url": "https://open.spotify.com/track/72RALfAJBuXc939MfC0Gl7"
+    },
+    {
+      "added_at": "2026-04-02 22:00:57",
+      "album": {
+        "name": "Something Ain't Right (Acoustic)",
+        "url": "https://open.spotify.com/album/1d0d9udPhXSTJEyWD0A3Cx"
+      },
+      "artists": [
+        {
+          "name": "Leah Rye",
+          "url": "https://open.spotify.com/artist/2rmiadqAd2xyJUVLbCnWvn"
+        }
+      ],
+      "duration_ms": 160523,
+      "name": "Something Ain't Right - Acoustic",
+      "url": "https://open.spotify.com/track/2K5t7RDYD1C11XZmmT3KtT"
     },
     {
       "added_at": "2026-04-02 22:00:57",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2026-04-02 22:00:57",
       "album": {
-        "name": "Sunflower Sunset",
-        "url": "https://open.spotify.com/album/2ViF7zmhrLihawIK3rJ9u2"
-      },
-      "artists": [
-        {
-          "name": "Future Husband",
-          "url": "https://open.spotify.com/artist/7IkZTuasXLNz2HCezR6KuI"
-        }
-      ],
-      "duration_ms": 308963,
-      "name": "Sunflower Sunset",
-      "url": "https://open.spotify.com/track/6PIsXGxWSZj7p2VqmrUbbq"
-    },
-    {
-      "added_at": "2026-04-02 22:00:57",
-      "album": {
         "name": "Tardigrades",
         "url": "https://open.spotify.com/album/6VI768BQ6QW6sSo6yswiYd"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 190631,
       "name": "Tardigrades",
       "url": "https://open.spotify.com/track/1Kihs06ERAUQiliX9AdK5Z"
+    },
+    {
+      "added_at": "2026-04-02 22:00:57",
+      "album": {
+        "name": "Sunflower Sunset",
+        "url": "https://open.spotify.com/album/2ViF7zmhrLihawIK3rJ9u2"
+      },
+      "artists": [
+        {
+          "name": "Future Husband",
+          "url": "https://open.spotify.com/artist/7IkZTuasXLNz2HCezR6KuI"
+        }
+      ],
+      "duration_ms": 308963,
+      "name": "Sunflower Sunset",
+      "url": "https://open.spotify.com/track/6PIsXGxWSZj7p2VqmrUbbq"
     },
     {
       "added_at": "2026-04-02 22:00:57",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2026-04-02 22:00:57",
       "album": {
-        "name": "The Moon Is Going For A Swim",
-        "url": "https://open.spotify.com/album/3JhrlyhuzmS6WfSSpyunNq"
-      },
-      "artists": [
-        {
-          "name": "Christopher Green",
-          "url": "https://open.spotify.com/artist/7hsSRTKla7JWIsGRlq0LvL"
-        }
-      ],
-      "duration_ms": 227433,
-      "name": "The Moon Is Going For A Swim",
-      "url": "https://open.spotify.com/track/4yfEsna4QNbBL0EYnieNY6"
-    },
-    {
-      "added_at": "2026-04-02 22:00:57",
-      "album": {
         "name": "In My Head Today",
         "url": "https://open.spotify.com/album/5ApOG5o1JKyDreecmUYIdL"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 148000,
       "name": "In My Head Today",
       "url": "https://open.spotify.com/track/6LvwKP5nY8ESrLTn6TvnkL"
+    },
+    {
+      "added_at": "2026-04-02 22:00:57",
+      "album": {
+        "name": "The Moon Is Going For A Swim",
+        "url": "https://open.spotify.com/album/3JhrlyhuzmS6WfSSpyunNq"
+      },
+      "artists": [
+        {
+          "name": "Christopher Green",
+          "url": "https://open.spotify.com/artist/7hsSRTKla7JWIsGRlq0LvL"
+        }
+      ],
+      "duration_ms": 227433,
+      "name": "The Moon Is Going For A Swim",
+      "url": "https://open.spotify.com/track/4yfEsna4QNbBL0EYnieNY6"
     },
     {
       "added_at": "2026-04-02 22:00:57",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 715 likes - 83 songs - 4 hr 40 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 714 likes - 84 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,5 +91,6 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 81 | [Memories](https://open.spotify.com/track/5Jpq2l82zrAp0IxgeLR8c2) | [Nissu](https://open.spotify.com/artist/0jFlIuRMZuBZrowaOZXEe0) | [Memories](https://open.spotify.com/album/6Kbr8PFQrTu0J2GmK8o5uz) | 3:32 |
 | 82 | [Drain of Dreams](https://open.spotify.com/track/3TWiRLmfW6HORefLcPvJUm) | [Granon](https://open.spotify.com/artist/3B1OyCfxHoOoWAgRPhDQH3) | [Drain of Dreams](https://open.spotify.com/album/1V98TQNnwbNIkYbfBoMYT4) | 2:35 |
 | 83 | [You Make Me Feel](https://open.spotify.com/track/6GowrMYjvh0Ercfkg8QQfC) | [James Sebastian](https://open.spotify.com/artist/6IX76Xz04QnJdDtcDIfoD6) | [You Make Me Feel](https://open.spotify.com/album/2b3uNUKmyiWJCaxQtXSmhq) | 3:11 |
+| 84 | [Kissing Strangers!](https://open.spotify.com/track/1PUtLs4AITjN1eHjz28G2j) | [Eryka Gray](https://open.spotify.com/artist/3oZefojpA0igBXqOGJ5QFU) | [Kissing Strangers!](https://open.spotify.com/album/4O2JMoZxhhFJ4pUu1laJbB) | 3:21 |
 
-Snapshot ID: `AAADXcuS9cdB8YsJ5J0oDjvvl/ZcqCO1`
+Snapshot ID: `AAADXojIae5d95HAPPjWw5G/tdyhrdu5`

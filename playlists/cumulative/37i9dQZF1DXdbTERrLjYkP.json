@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Discover the next wave of talent writing their own songs. Cover: Ryann Ross",
+  "description": "Discover the next wave of talent writing their own songs. Cover: Sophie May",
   "name": "Next Gen Singer-Songwriters",
   "tracks": [
     {
@@ -3337,6 +3337,28 @@
     },
     {
       "album": {
+        "name": "Miss Michigan",
+        "url": "https://open.spotify.com/album/403xK3xBydTLfaBxctsZ2X"
+      },
+      "artists": [
+        {
+          "name": "Momo Boyd",
+          "url": "https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd"
+        },
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204374,
+      "name": "Cold Hands",
+      "url": "https://open.spotify.com/track/2ZaTomBYLVmHjC3SCfjfl6"
+    },
+    {
+      "album": {
         "name": "Come Close",
         "url": "https://open.spotify.com/album/3IwrLHxANKcf9PKXpZ2lh7"
       },
@@ -4749,6 +4771,24 @@
     },
     {
       "album": {
+        "name": "Easy As Pie",
+        "url": "https://open.spotify.com/album/14aIKUJKtc3PhtCrGHYwMY"
+      },
+      "artists": [
+        {
+          "name": "Tessa Violet",
+          "url": "https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119006,
+      "name": "Easy As Pie",
+      "url": "https://open.spotify.com/track/1YUU5Mm00U78pAvQH5FN9Z"
+    },
+    {
+      "album": {
         "name": "Easy Love",
         "url": "https://open.spotify.com/album/3ZjApkMiuqIxvsZbEGCo0o"
       },
@@ -5084,7 +5124,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 240944,
       "name": "Eventually",
       "url": "https://open.spotify.com/track/7A9yawxyZYDQv3LklNUOUU"
@@ -11077,6 +11117,24 @@
     },
     {
       "album": {
+        "name": "Matthew McConaughey",
+        "url": "https://open.spotify.com/album/1Ti73O4fMjeQknBTIvKErj"
+      },
+      "artists": [
+        {
+          "name": "Sierra Carson",
+          "url": "https://open.spotify.com/artist/5Q09kcqyq7Ova3Xwfv04RK"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194773,
+      "name": "Matthew McConaughey",
+      "url": "https://open.spotify.com/track/3nFW9odnQHPBGbYS9a825p"
+    },
+    {
+      "album": {
         "name": "Maybe",
         "url": "https://open.spotify.com/album/3ebxDsPCt6eQyjlpya02uM"
       },
@@ -11787,6 +11845,24 @@
     },
     {
       "album": {
+        "name": "Never Know Love",
+        "url": "https://open.spotify.com/album/2AZdDD0w09CGHCDKP2Tqnf"
+      },
+      "artists": [
+        {
+          "name": "Bea",
+          "url": "https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189392,
+      "name": "Never Know Love",
+      "url": "https://open.spotify.com/track/2tlONys5V3ZuO5OxrDJfE8"
+    },
+    {
+      "album": {
         "name": "Never Made It Out",
         "url": "https://open.spotify.com/album/3aQU2rp2dbpBrMFe5sGlfR"
       },
@@ -12234,6 +12310,24 @@
       "duration_ms": 123931,
       "name": "oh my god i\u2019m happy what the fuck",
       "url": "https://open.spotify.com/track/0nELcTlKKUPt2TvC6xpjQc"
+    },
+    {
+      "album": {
+        "name": "Oh, Ana",
+        "url": "https://open.spotify.com/album/7h9mJCFBWhaRdWHm28xIME"
+      },
+      "artists": [
+        {
+          "name": "Dominique Way",
+          "url": "https://open.spotify.com/artist/5kROZ1F7ExRZyFnHvKdlJ7"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192600,
+      "name": "Oh, Ana",
+      "url": "https://open.spotify.com/track/46G3dLvPYBjRB5WzyvWr32"
     },
     {
       "album": {
@@ -16488,6 +16582,24 @@
       "duration_ms": 241948,
       "name": "the song i always forget about",
       "url": "https://open.spotify.com/track/7i8xSbqSYwSsmMezkeVwCo"
+    },
+    {
+      "album": {
+        "name": "The Sound",
+        "url": "https://open.spotify.com/album/4dRz6eDSAhfokLAhO7X2ug"
+      },
+      "artists": [
+        {
+          "name": "Ava Claire",
+          "url": "https://open.spotify.com/artist/7GYOoxzv1sFmUUTh7PpEi9"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175796,
+      "name": "The Sound",
+      "url": "https://open.spotify.com/track/2DjhpO10QxqIzoLM71xYrf"
     },
     {
       "album": {

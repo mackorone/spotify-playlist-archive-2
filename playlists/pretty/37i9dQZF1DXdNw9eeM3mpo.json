@@ -1,6 +1,6 @@
 {
   "description": "100% ska en espa\u00f1ol. Kapanga y Milo J en portada.",
-  "num_followers": 487724,
+  "num_followers": 487748,
   "original_name": "Ska Latino ",
   "owner": {
     "name": "Spotify",
@@ -483,22 +483,6 @@
     {
       "added_at": "2026-02-06 06:00:21",
       "album": {
-        "name": "La Luz Del Ritmo",
-        "url": "https://open.spotify.com/album/6hFXLM8kG3P4ArcGNDb574"
-      },
-      "artists": [
-        {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
-        }
-      ],
-      "duration_ms": 272640,
-      "name": "Padre Nuestro",
-      "url": "https://open.spotify.com/track/7nOt7uN0iXGuvLRVfvclg5"
-    },
-    {
-      "added_at": "2026-02-06 06:00:21",
-      "album": {
         "name": "Victimas Del Doctor Cerebro",
         "url": "https://open.spotify.com/album/4dcFGAgSnvjUK2fBUWoWSv"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 221640,
       "name": "El Esqueleto",
       "url": "https://open.spotify.com/track/1Z05BEFLTKxdp9xSjUnPGX"
+    },
+    {
+      "added_at": "2026-02-06 06:00:21",
+      "album": {
+        "name": "La Luz Del Ritmo",
+        "url": "https://open.spotify.com/album/6hFXLM8kG3P4ArcGNDb574"
+      },
+      "artists": [
+        {
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+        }
+      ],
+      "duration_ms": 272640,
+      "name": "Padre Nuestro",
+      "url": "https://open.spotify.com/track/7nOt7uN0iXGuvLRVfvclg5"
     },
     {
       "added_at": "2026-02-06 06:00:21",
@@ -563,22 +563,6 @@
     {
       "added_at": "2026-02-06 06:00:21",
       "album": {
-        "name": "Originales - 20 Exitos",
-        "url": "https://open.spotify.com/album/0mr1iGqJHUSpa4ObJ4q2uc"
-      },
-      "artists": [
-        {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
-        }
-      ],
-      "duration_ms": 243293,
-      "name": "Mal Bicho",
-      "url": "https://open.spotify.com/track/4lq31N4E4eWqVMZv93sbhJ"
-    },
-    {
-      "added_at": "2026-02-06 06:00:21",
-      "album": {
         "name": "FLORA",
         "url": "https://open.spotify.com/album/7hc3laAnfwA9wkRA6tPZNx"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 217160,
       "name": "Tr\u00e9bol",
       "url": "https://open.spotify.com/track/5vQ92SVZwXpnIul2ORjTiE"
+    },
+    {
+      "added_at": "2026-02-06 06:00:21",
+      "album": {
+        "name": "Originales - 20 Exitos",
+        "url": "https://open.spotify.com/album/0mr1iGqJHUSpa4ObJ4q2uc"
+      },
+      "artists": [
+        {
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+        }
+      ],
+      "duration_ms": 243293,
+      "name": "Mal Bicho",
+      "url": "https://open.spotify.com/track/4lq31N4E4eWqVMZv93sbhJ"
     },
     {
       "added_at": "2026-02-06 06:00:21",
@@ -927,18 +927,26 @@
     {
       "added_at": "2026-02-06 06:00:21",
       "album": {
-        "name": "Frecuencia Extrema",
-        "url": "https://open.spotify.com/album/4JrqAwLYv9qODsJ8QogUbA"
+        "name": "La Gata Bajo la Lluvia",
+        "url": "https://open.spotify.com/album/24pjyz91cui77AWSqBxSaX"
       },
       "artists": [
         {
-          "name": "Los Calzones",
-          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
+          "name": "Baby Aventurero",
+          "url": "https://open.spotify.com/artist/1eP1MBd6JVgwcen8WOjFNs"
+        },
+        {
+          "name": "Lena Campos",
+          "url": "https://open.spotify.com/artist/2QNBnN8MHw8akBXLWKeSLz"
+        },
+        {
+          "name": "Moy Yos",
+          "url": "https://open.spotify.com/artist/5ES4YRN7RwjZzCI3ASxrl6"
         }
       ],
-      "duration_ms": 198373,
-      "name": "Mala Vida",
-      "url": "https://open.spotify.com/track/3o3ggHATl6U21OBID9YbzC"
+      "duration_ms": 192939,
+      "name": "La Gata Bajo la Lluvia",
+      "url": "https://open.spotify.com/track/2IvTvoNZP4zYhIBWRfzADg"
     },
     {
       "added_at": "2026-02-06 06:00:21",
@@ -979,26 +987,18 @@
     {
       "added_at": "2026-02-06 06:00:21",
       "album": {
-        "name": "La Gata Bajo la Lluvia",
-        "url": "https://open.spotify.com/album/24pjyz91cui77AWSqBxSaX"
+        "name": "Frecuencia Extrema",
+        "url": "https://open.spotify.com/album/4JrqAwLYv9qODsJ8QogUbA"
       },
       "artists": [
         {
-          "name": "Baby Aventurero",
-          "url": "https://open.spotify.com/artist/1eP1MBd6JVgwcen8WOjFNs"
-        },
-        {
-          "name": "Lena Campos",
-          "url": "https://open.spotify.com/artist/2QNBnN8MHw8akBXLWKeSLz"
-        },
-        {
-          "name": "Moy Yos",
-          "url": "https://open.spotify.com/artist/5ES4YRN7RwjZzCI3ASxrl6"
+          "name": "Los Calzones",
+          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
         }
       ],
-      "duration_ms": 192939,
-      "name": "La Gata Bajo la Lluvia",
-      "url": "https://open.spotify.com/track/2IvTvoNZP4zYhIBWRfzADg"
+      "duration_ms": 198373,
+      "name": "Mala Vida",
+      "url": "https://open.spotify.com/track/3o3ggHATl6U21OBID9YbzC"
     },
     {
       "added_at": "2026-02-06 06:00:21",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2026-02-06 06:00:21",
       "album": {
-        "name": "Sound System",
-        "url": "https://open.spotify.com/album/2AO1JqXocz1rRdJS2qhg8N"
-      },
-      "artists": [
-        {
-          "name": "Maskatesta",
-          "url": "https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE"
-        }
-      ],
-      "duration_ms": 187385,
-      "name": "Sue\u00f1os",
-      "url": "https://open.spotify.com/track/6btqDJJrlwzfv9YNRH9Gj1"
-    },
-    {
-      "added_at": "2026-02-06 06:00:21",
-      "album": {
         "name": "Qui\u00e9n Devuelve El Tiempo?",
         "url": "https://open.spotify.com/album/2AQPM37cUxM9NK8v8pCZer"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 210164,
       "name": "Qui\u00e9n devuelve el tiempo?",
       "url": "https://open.spotify.com/track/2NjO7h3J6rimKuRuzEMtzZ"
+    },
+    {
+      "added_at": "2026-02-06 06:00:21",
+      "album": {
+        "name": "Sound System",
+        "url": "https://open.spotify.com/album/2AO1JqXocz1rRdJS2qhg8N"
+      },
+      "artists": [
+        {
+          "name": "Maskatesta",
+          "url": "https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE"
+        }
+      ],
+      "duration_ms": 187385,
+      "name": "Sue\u00f1os",
+      "url": "https://open.spotify.com/track/6btqDJJrlwzfv9YNRH9Gj1"
     },
     {
       "added_at": "2026-02-06 06:00:21",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2026-02-06 06:00:21",
       "album": {
-        "name": "PASO AL AIRE",
-        "url": "https://open.spotify.com/album/00FkxF6xOtTDNB9AGniV0z"
-      },
-      "artists": [
-        {
-          "name": "Timo Pacheco",
-          "url": "https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl"
-        }
-      ],
-      "duration_ms": 210026,
-      "name": "PASO AL AIRE",
-      "url": "https://open.spotify.com/track/0EcQoH6cU0Ph8f9tFZruac"
-    },
-    {
-      "added_at": "2026-02-06 06:00:21",
-      "album": {
         "name": "Quiero Bailar Ska!!!",
         "url": "https://open.spotify.com/album/2mJm3RcjlckzPcupdolmmx"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 199500,
       "name": "Quiero Bailar Ska!!!",
       "url": "https://open.spotify.com/track/6nltOspNKN9Vt1MLONvoZT"
+    },
+    {
+      "added_at": "2026-02-06 06:00:21",
+      "album": {
+        "name": "PASO AL AIRE",
+        "url": "https://open.spotify.com/album/00FkxF6xOtTDNB9AGniV0z"
+      },
+      "artists": [
+        {
+          "name": "Timo Pacheco",
+          "url": "https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl"
+        }
+      ],
+      "duration_ms": 210026,
+      "name": "PASO AL AIRE",
+      "url": "https://open.spotify.com/track/0EcQoH6cU0Ph8f9tFZruac"
     },
     {
       "added_at": "2026-02-06 06:00:21",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2026-02-06 06:00:21",
       "album": {
+        "name": "Supersonico",
+        "url": "https://open.spotify.com/album/6pvDF6APwhBWRkuEc3gCqz"
+      },
+      "artists": [
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        }
+      ],
+      "duration_ms": 206933,
+      "name": "Qu\u00e9 Vas a Hacer Conmigo",
+      "url": "https://open.spotify.com/track/4J0phvYcKa1Hr1EBwH0pu3"
+    },
+    {
+      "added_at": "2026-02-06 06:00:21",
+      "album": {
         "name": "El Amor No Es para Tibios (Este A\u00f1o Es el Bueno)",
         "url": "https://open.spotify.com/album/1e3dZ3V9acJz1nJRCjsZXO"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 213602,
       "name": "El Amor No Es para Tibios (Este A\u00f1o Es el Bueno)",
       "url": "https://open.spotify.com/track/7xUJ7xDiITKkziExo8TolF"
-    },
-    {
-      "added_at": "2026-02-06 06:00:21",
-      "album": {
-        "name": "Supersonico",
-        "url": "https://open.spotify.com/album/6pvDF6APwhBWRkuEc3gCqz"
-      },
-      "artists": [
-        {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        }
-      ],
-      "duration_ms": 206933,
-      "name": "Qu\u00e9 Vas a Hacer Conmigo",
-      "url": "https://open.spotify.com/track/4J0phvYcKa1Hr1EBwH0pu3"
     },
     {
       "added_at": "2026-02-06 06:00:21",
@@ -1679,6 +1679,26 @@
     {
       "added_at": "2026-02-06 06:00:21",
       "album": {
+        "name": "\u00a1Hey T\u00fa!",
+        "url": "https://open.spotify.com/album/63wvcrQ5Kq5SeDEyOZ8imM"
+      },
+      "artists": [
+        {
+          "name": "Aleks Syntek",
+          "url": "https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi"
+        },
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "duration_ms": 192262,
+      "name": "\u00a1Hey T\u00fa!",
+      "url": "https://open.spotify.com/track/06JUg2MqByeWM31ac7dLba"
+    },
+    {
+      "added_at": "2026-02-06 06:00:21",
+      "album": {
         "name": "Inflammable",
         "url": "https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al"
       },
@@ -1691,26 +1711,6 @@
       "duration_ms": 171693,
       "name": "La Manifestacion",
       "url": "https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9"
-    },
-    {
-      "added_at": "2026-02-06 06:00:21",
-      "album": {
-        "name": "En Vivo Desde el Teatro Metrop\u00f3litan",
-        "url": "https://open.spotify.com/album/1zU1ZCHv0ZlTJNOmyCqzVc"
-      },
-      "artists": [
-        {
-          "name": "Out Of Control Army",
-          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
-        },
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 241306,
-      "name": "Fuera de Control - En Vivo",
-      "url": "https://open.spotify.com/track/1XRXgTDztVIYcgGY6iwEzd"
     },
     {
       "added_at": "2026-02-06 06:00:21",
@@ -1731,22 +1731,22 @@
     {
       "added_at": "2026-02-06 06:00:21",
       "album": {
-        "name": "\u00a1Hey T\u00fa!",
-        "url": "https://open.spotify.com/album/63wvcrQ5Kq5SeDEyOZ8imM"
+        "name": "En Vivo Desde el Teatro Metrop\u00f3litan",
+        "url": "https://open.spotify.com/album/1zU1ZCHv0ZlTJNOmyCqzVc"
       },
       "artists": [
         {
-          "name": "Aleks Syntek",
-          "url": "https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi"
+          "name": "Out Of Control Army",
+          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
         },
         {
-          "name": "Los Caligaris",
-          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
         }
       ],
-      "duration_ms": 192262,
-      "name": "\u00a1Hey T\u00fa!",
-      "url": "https://open.spotify.com/track/06JUg2MqByeWM31ac7dLba"
+      "duration_ms": 241306,
+      "name": "Fuera de Control - En Vivo",
+      "url": "https://open.spotify.com/track/1XRXgTDztVIYcgGY6iwEzd"
     }
   ],
   "unique_name": "Ska Latino ",

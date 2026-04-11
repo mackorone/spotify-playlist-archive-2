@@ -1,12 +1,12 @@
 {
   "description": "Your family can visit all of the animals at the zoo with this fun playlist.",
-  "num_followers": 44681,
+  "num_followers": 44703,
   "original_name": "At The Zoo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANOIHeRElV9WjYzpYFvt2/0Vsevo",
+  "snapshot_id": "AAAAAKDchwCZXB331ktIoL53ptq2pKMa",
   "tracks": [
     {
       "added_at": "2025-11-07 05:00:39",
@@ -25,24 +25,20 @@
       "url": "https://open.spotify.com/track/3DgK52iIN6WIBQD6DG7pwm"
     },
     {
-      "added_at": "2026-02-20 05:00:33",
+      "added_at": "2026-04-10 04:00:50",
       "album": {
-        "name": "What Do You Hear?",
-        "url": "https://open.spotify.com/album/6tGcGYE47Vrvpaffpd3kj8"
+        "name": "There's an Animal That I See",
+        "url": "https://open.spotify.com/album/4suCqc4zOC8wafd5i9mzEp"
       },
       "artists": [
         {
           "name": "Super Simple Songs",
           "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
-        },
-        {
-          "name": "Noodle & Pals",
-          "url": "https://open.spotify.com/artist/5r4Bnflqc1rt8z3UIhwwKf"
         }
       ],
-      "duration_ms": 181403,
-      "name": "What Do You Hear?",
-      "url": "https://open.spotify.com/track/4bzPmmlCWmyltVft0vxHfc"
+      "duration_ms": 175087,
+      "name": "There's an Animal That I See",
+      "url": "https://open.spotify.com/track/38SPer8dqQvGIPdSSMqNBy"
     },
     {
       "added_at": "2025-07-20 16:48:26",

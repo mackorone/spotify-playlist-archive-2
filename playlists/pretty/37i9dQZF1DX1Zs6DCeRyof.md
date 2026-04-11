@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Zs6DCeRyof.md) - [plain]
 
 > La lista donde viven los hits más grandes de la Isla del Encanto\. Cover: Hades66
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,737 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,801 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Zs6DCeRyof.md) - [plain]
 | 49 | [⁠LUCES DE COLORES](https://open.spotify.com/track/5dDlknAL9imbXXl7uG7oqe) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [PRIMERA MUSA](https://open.spotify.com/album/3C5uwdRE5QRoXSGPPxpDd4) | 3:36 |
 | 50 | [SRT](https://open.spotify.com/track/0osiZhf6IeCHkx56wnftxU) | [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY) | [SRT](https://open.spotify.com/album/1U8YkZUdFb9hhZPXOcBvzO) | 2:15 |
 
-Snapshot ID: `AAAAAH2uIrVcFMoajKJXJd/PDsLxHhmi`
+Snapshot ID: `AAAAAIhzXv/LhR746AyTVe9ZewZmaJdO`

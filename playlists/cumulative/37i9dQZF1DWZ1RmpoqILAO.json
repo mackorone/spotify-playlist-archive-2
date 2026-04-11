@@ -232,7 +232,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 231349,
       "name": "Angel's Eye",
       "url": "https://open.spotify.com/track/1k9LP39OXvFgSVrk7qncVb"
@@ -412,7 +412,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 183030,
       "name": "Ballad of the Texas King",
       "url": "https://open.spotify.com/track/3Lm2Em6yWbpOVEX8WDJ92j"
@@ -581,6 +581,24 @@
     },
     {
       "album": {
+        "name": "There Is a Well",
+        "url": "https://open.spotify.com/album/3lcgqKWD7oAZR1erySYvVw"
+      },
+      "artists": [
+        {
+          "name": "Shallowater",
+          "url": "https://open.spotify.com/artist/3BV5N0bOmtkavYFUSHsfMQ"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226827,
+      "name": "Birdshot",
+      "url": "https://open.spotify.com/track/1kAIhD8CStfKtbSxd8AQgN"
+    },
+    {
+      "album": {
         "name": "Black Bear",
         "url": "https://open.spotify.com/album/3ClE7KHKTRFulaAREMqSbD"
       },
@@ -664,7 +682,7 @@
       ],
       "date_added": "2024-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 276333,
       "name": "Blood Red Sentimental Blues",
       "url": "https://open.spotify.com/track/6m2OUSC736AxOVJ3W0FcEr"
@@ -1144,7 +1162,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 204339,
       "name": "Come Onn",
       "url": "https://open.spotify.com/track/3W2Pf6i8TIFMiREkk7oxtn"
@@ -1343,6 +1361,24 @@
     },
     {
       "album": {
+        "name": "Coyote",
+        "url": "https://open.spotify.com/album/4ZqVcW4IYvt7aP1W2Wg4wp"
+      },
+      "artists": [
+        {
+          "name": "Thomas Dollbaum",
+          "url": "https://open.spotify.com/artist/3TBOFVWrSRdDxKjNxBdlKZ"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237493,
+      "name": "Coyote",
+      "url": "https://open.spotify.com/track/2JTksnpU56pS0yRtTKbBbc"
+    },
+    {
+      "album": {
         "name": "Cup of Loneliness / Choices",
         "url": "https://open.spotify.com/album/7LgCssVLpa87Fg2PGBQxcC"
       },
@@ -1412,7 +1448,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 399057,
       "name": "Curtain",
       "url": "https://open.spotify.com/track/66yo9SvT59QyxWe1Of6VhX"
@@ -1470,6 +1506,28 @@
       "duration_ms": 274540,
       "name": "Daisy",
       "url": "https://open.spotify.com/track/5R27EWWvm93ihBXaIebEqr"
+    },
+    {
+      "album": {
+        "name": "Box for Buddy, Box for Star (Deluxe)",
+        "url": "https://open.spotify.com/album/0IQparYBt1I5vuApAzJwz0"
+      },
+      "artists": [
+        {
+          "name": "This Is Lorelei",
+          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
+        },
+        {
+          "name": "MJ Lenderman",
+          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298080,
+      "name": "Dancing in the Club - MJ Lenderman Version",
+      "url": "https://open.spotify.com/track/2aFkH4wK9nZbgtmlq411f2"
     },
     {
       "album": {
@@ -2148,7 +2206,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 189464,
       "name": "forwards beckon rebound",
       "url": "https://open.spotify.com/track/6PBanBy8L1K2Ry4UN186XH"
@@ -2170,6 +2228,24 @@
       "duration_ms": 252360,
       "name": "Fourth Street",
       "url": "https://open.spotify.com/track/7cTXYDY95vfhwUXQuPgPTB"
+    },
+    {
+      "album": {
+        "name": "Friendship Is The Truth",
+        "url": "https://open.spotify.com/album/6lMArNErrmtXlfSQnu38kQ"
+      },
+      "artists": [
+        {
+          "name": "Truthpaste",
+          "url": "https://open.spotify.com/artist/1jX7jSANud3GSSMfs41KPs"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336000,
+      "name": "Friendship Is The Truth",
+      "url": "https://open.spotify.com/track/1cS1w3qvaehzsKCnLatbW4"
     },
     {
       "album": {
@@ -2220,7 +2296,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 290506,
       "name": "Gallic Shrug",
       "url": "https://open.spotify.com/track/0o8PMOQVCS4QTGHXlgF2zu"
@@ -2292,7 +2368,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 209922,
       "name": "Get a Life",
       "url": "https://open.spotify.com/track/7LNzbEkV0NufVJ7yBjTLnG"
@@ -2382,7 +2458,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 183481,
       "name": "gold ring (flounder bonus track)",
       "url": "https://open.spotify.com/track/6FIq8R2juA9GvlNE5SjwsU"
@@ -2668,6 +2744,24 @@
       "duration_ms": 555883,
       "name": "Harlem River",
       "url": "https://open.spotify.com/track/0cDQyfkR7kYIBITKccaDmN"
+    },
+    {
+      "album": {
+        "name": "DJ Set",
+        "url": "https://open.spotify.com/album/29Xl0gLS3K9IMhJMLl3O1u"
+      },
+      "artists": [
+        {
+          "name": "Mouseatouille",
+          "url": "https://open.spotify.com/artist/1RCFAywt6h42PGjgTOBNfa"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256519,
+      "name": "Harry and the Jets",
+      "url": "https://open.spotify.com/track/16WIH4tySN6EmjACiBwAYJ"
     },
     {
       "album": {
@@ -3111,6 +3205,24 @@
     },
     {
       "album": {
+        "name": "If You Know Me (demo)",
+        "url": "https://open.spotify.com/album/06M6z1DB5blsjhKh8oVBbE"
+      },
+      "artists": [
+        {
+          "name": "Hudson Freeman",
+          "url": "https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127540,
+      "name": "If You Know Me - demo",
+      "url": "https://open.spotify.com/track/1x0Q0nvWYbJCrmsPZNHIkb"
+    },
+    {
+      "album": {
         "name": "I Know I'm Funny haha",
         "url": "https://open.spotify.com/album/424bxvpYyNDM2DFFibeKs0"
       },
@@ -3224,6 +3336,24 @@
       "duration_ms": 204019,
       "name": "It's Alive!",
       "url": "https://open.spotify.com/track/6yFefXwRZGvqqt9R6Xc879"
+    },
+    {
+      "album": {
+        "name": "I\u2019m Still Learning How To Leave You",
+        "url": "https://open.spotify.com/album/03E8Neqz8GSu5TFeaM5prG"
+      },
+      "artists": [
+        {
+          "name": "Harmony Tividad",
+          "url": "https://open.spotify.com/artist/6oLhfvwfeydj1LrCduXTrW"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215715,
+      "name": "I\u2019m Still Learning How To Leave You",
+      "url": "https://open.spotify.com/track/5NZz5xUh1Vgz6DesC5SKYZ"
     },
     {
       "album": {
@@ -3364,7 +3494,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 225093,
       "name": "Kill Me",
       "url": "https://open.spotify.com/track/7wS94F3QcweO7QkI6weRry"
@@ -3643,6 +3773,24 @@
     },
     {
       "album": {
+        "name": "I'll Be Waving As You Drive Away",
+        "url": "https://open.spotify.com/album/5LZVQiwNWzbq8W1cT9MxHe"
+      },
+      "artists": [
+        {
+          "name": "Hayden Pedigo",
+          "url": "https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266000,
+      "name": "Long Pond Lily",
+      "url": "https://open.spotify.com/track/47yRyhwrCVXkrjmTXye7Ot"
+    },
+    {
+      "album": {
         "name": "Longwave",
         "url": "https://open.spotify.com/album/7uo0oJVjhuw0fIGltmSPcs"
       },
@@ -3690,7 +3838,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 218685,
       "name": "Losing Tennessee",
       "url": "https://open.spotify.com/track/0cgrMmkoFQCJXnosXSqHWd"
@@ -3828,7 +3976,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 210466,
       "name": "My Friend (feat. Kara Jackson & MJ Lenderman)",
       "url": "https://open.spotify.com/track/5khPTiW1Ufc5uXMEqOaOXP"
@@ -3976,7 +4124,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 382613,
       "name": "New Song",
       "url": "https://open.spotify.com/track/3PUMPtOSeXSJsBvK43K96b"
@@ -4048,7 +4196,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 164971,
       "name": "Oh, Gemini",
       "url": "https://open.spotify.com/track/3SYNTZgVt7Wht3jRf0ElGh"
@@ -4167,6 +4315,24 @@
     },
     {
       "album": {
+        "name": "Pitch Boats",
+        "url": "https://open.spotify.com/album/70O9VuLVmOTriNPq6kGh8a"
+      },
+      "artists": [
+        {
+          "name": "mildred",
+          "url": "https://open.spotify.com/artist/3yKgN8NhQcYDi6CXDSYKM0"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211670,
+      "name": "Pitch Boats",
+      "url": "https://open.spotify.com/track/6HzOxqHnrluUQS4JVjnT3a"
+    },
+    {
+      "album": {
         "name": "Point and Shoot",
         "url": "https://open.spotify.com/album/1LK1xswR9T1ZfTZZhAgPej"
       },
@@ -4250,10 +4416,28 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 298760,
       "name": "Pretty Pimpin",
       "url": "https://open.spotify.com/track/47cNDW1xyM03mT2kseO41a"
+    },
+    {
+      "album": {
+        "name": "Pretty Strange World",
+        "url": "https://open.spotify.com/album/7blTvGP8v1ZPpNWhOODugT"
+      },
+      "artists": [
+        {
+          "name": "Any Young Mechanic",
+          "url": "https://open.spotify.com/artist/49uksCFEefMvzh3YRMnZmf"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176460,
+      "name": "Pretty Strange World",
+      "url": "https://open.spotify.com/track/1ydmnM5TlvfUWdgMD2SeZS"
     },
     {
       "album": {
@@ -4463,6 +4647,24 @@
     },
     {
       "album": {
+        "name": "deeper sleeper",
+        "url": "https://open.spotify.com/album/4JH3jfuhTmXCqNCCrwSODW"
+      },
+      "artists": [
+        {
+          "name": "deeper sleeper",
+          "url": "https://open.spotify.com/artist/641zDmmghbd2tTMqrj3HBZ"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162673,
+      "name": "riverflies",
+      "url": "https://open.spotify.com/track/5vyG3fEQmgvuTRGDYpmLCV"
+    },
+    {
+      "album": {
         "name": "Rivers That You Cannot See",
         "url": "https://open.spotify.com/album/35iioCINJwSsujHf6csIMy"
       },
@@ -4654,7 +4856,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 176146,
       "name": "Sarah",
       "url": "https://open.spotify.com/track/4HuiEuJ7ZW8jewUuZBg6sk"
@@ -4870,7 +5072,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 205546,
       "name": "Sidelines",
       "url": "https://open.spotify.com/track/4mMviz9DJKLPyfhxpQIBcW"
@@ -5274,10 +5476,28 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 217293,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/7jUitZww3URFitXC32ezRd"
+    },
+    {
+      "album": {
+        "name": "Swimming",
+        "url": "https://open.spotify.com/album/6HoUyHZhEVpo1S6iKQTVXV"
+      },
+      "artists": [
+        {
+          "name": "villagerrr",
+          "url": "https://open.spotify.com/artist/1vQ5CUq3dcQkRRCGd94UD5"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261533,
+      "name": "Swimming",
+      "url": "https://open.spotify.com/track/5rvooe7Tm8rebvBmdJTvgn"
     },
     {
       "album": {
@@ -5911,6 +6131,24 @@
     },
     {
       "album": {
+        "name": "Undefined",
+        "url": "https://open.spotify.com/album/2sg9fzFpyvoQIfcoSTKHKd"
+      },
+      "artists": [
+        {
+          "name": "youbet",
+          "url": "https://open.spotify.com/artist/6KVAGRLT6LHvatyFDZr1aI"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197453,
+      "name": "Undefined",
+      "url": "https://open.spotify.com/track/4YXvbI13LqYxXkDZVzWuvv"
+    },
+    {
+      "album": {
         "name": "Underdressed at the Symphony",
         "url": "https://open.spotify.com/album/0FDkRPm9cIRJ8qBkxj2Qny"
       },
@@ -6138,7 +6376,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 301154,
       "name": "Wide Open Spaces",
       "url": "https://open.spotify.com/track/0otqLHZ2jLAFYu1LLOZzy8"
@@ -6210,7 +6448,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 222453,
       "name": "Wristwatch",
       "url": "https://open.spotify.com/track/4j2DQgFAyVuKOBFpq4vEPR"
@@ -6290,6 +6528,24 @@
       "duration_ms": 215413,
       "name": "You Can't Stay The Same",
       "url": "https://open.spotify.com/track/0VwC2KolUyFeL9MmNqJu0K"
+    },
+    {
+      "album": {
+        "name": "Manning Fireworks",
+        "url": "https://open.spotify.com/album/1bKiiYGt1fzm9YMlTnUqpN"
+      },
+      "artists": [
+        {
+          "name": "MJ Lenderman",
+          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216426,
+      "name": "You Don't Know The Shape I'm In",
+      "url": "https://open.spotify.com/track/1ZBQPkEYHOv3LfgU6v0h0S"
     },
     {
       "album": {

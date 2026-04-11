@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Always there, always true!  These are the songs, old and new, you can count on time after time.  Cover: The Binions",
+  "description": "Always there, always true!  These are the songs, old and new, you can count on time after time.  Cover: Mark Bishop",
   "name": "Faithful Melodies",
   "tracks": [
     {
@@ -38,6 +38,24 @@
       "duration_ms": 162567,
       "name": "99 1/2 - Studio Version",
       "url": "https://open.spotify.com/track/2nibTRJU1WdEUylLAz3jvu"
+    },
+    {
+      "album": {
+        "name": "A Place to Spend the Night",
+        "url": "https://open.spotify.com/album/1Xirb7Jf1IRde6wBDlNy1b"
+      },
+      "artists": [
+        {
+          "name": "The Rogers Family",
+          "url": "https://open.spotify.com/artist/1lhPklhN96aDNZNtgH8HmF"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210546,
+      "name": "A Place to Spend the Night",
+      "url": "https://open.spotify.com/track/1PTgog5bpzWDRniJqgWxDZ"
     },
     {
       "album": {
@@ -311,6 +329,48 @@
     },
     {
       "album": {
+        "name": "Bread Upon the Water",
+        "url": "https://open.spotify.com/album/6taeWEMZC6iS70XdNvbWSE"
+      },
+      "artists": [
+        {
+          "name": "Gaither",
+          "url": "https://open.spotify.com/artist/1rKNroS04wbR4kgHIGBghY"
+        },
+        {
+          "name": "Marshall Hall",
+          "url": "https://open.spotify.com/artist/1hxXROxzm55tnPuawQ5p2C"
+        },
+        {
+          "name": "Michael Booth",
+          "url": "https://open.spotify.com/artist/3MQ7lbWqvnEBfpnuB8unRX"
+        },
+        {
+          "name": "Ernie Haase",
+          "url": "https://open.spotify.com/artist/2YugpMjM1CmUSOCOomXcBA"
+        },
+        {
+          "name": "Dustin Doyle",
+          "url": "https://open.spotify.com/artist/7q1EDu58TXGpXDsND9uFbn"
+        },
+        {
+          "name": "Ronnie Booth",
+          "url": "https://open.spotify.com/artist/360jmuFzyKPTJVbCIgUeKo"
+        },
+        {
+          "name": "Wes Hampton",
+          "url": "https://open.spotify.com/artist/6b8zRPZd2XvjAChtNjO8DQ"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239640,
+      "name": "Bread Upon the Water",
+      "url": "https://open.spotify.com/track/6rnwJuNdPCv2TmAdpk69RO"
+    },
+    {
+      "album": {
         "name": "Brighten The Corner Where You Are",
         "url": "https://open.spotify.com/album/1SFoFfNJBomLINZnVBwp4S"
       },
@@ -394,7 +454,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 213093,
       "name": "Chain Breaker",
       "url": "https://open.spotify.com/track/6BmXsWfOzXzA8SRottZ1WY"
@@ -650,7 +710,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 202040,
       "name": "God Doesn't Know",
       "url": "https://open.spotify.com/track/4Mv10QQoBECuT1KquvB5ap"
@@ -1034,7 +1094,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 187000,
       "name": "He Is Who He Is",
       "url": "https://open.spotify.com/track/1yKenD4aBdZaGGoVAXgDBV"
@@ -1352,7 +1412,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 245640,
       "name": "I'd Rather Have Jesus",
       "url": "https://open.spotify.com/track/4fhpTimL1Dfy879fUEEJxa"
@@ -1500,6 +1560,42 @@
       "duration_ms": 291720,
       "name": "If You Knew Him",
       "url": "https://open.spotify.com/track/3gXHhrxJLiGR4ujyzE2MTZ"
+    },
+    {
+      "album": {
+        "name": "In Christ Alone",
+        "url": "https://open.spotify.com/album/5GEKqMKrLQBT5lXNusM8VE"
+      },
+      "artists": [
+        {
+          "name": "Anthem Edition",
+          "url": "https://open.spotify.com/artist/3TwyBg0LHDJKKo3lRkftQ5"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229000,
+      "name": "In Christ Alone",
+      "url": "https://open.spotify.com/track/6bbJ1ajmLpk4TQyfqiqdmh"
+    },
+    {
+      "album": {
+        "name": "In The Fire",
+        "url": "https://open.spotify.com/album/4n3D1mEX8fxMT4awvGMWRW"
+      },
+      "artists": [
+        {
+          "name": "Janet Paschal",
+          "url": "https://open.spotify.com/artist/0zRYgjw7RxECPWbPuMxdFl"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187411,
+      "name": "In The Fire",
+      "url": "https://open.spotify.com/track/2CKYfQdw3YnbkLBUXolTR2"
     },
     {
       "album": {
@@ -1874,7 +1970,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 253336,
       "name": "Medley - He Lifted Me/I've Passed Over/He Locked The Gates",
       "url": "https://open.spotify.com/track/0QdHa7q2XyOvCKtqWcrHPP"
@@ -2128,7 +2224,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 256948,
       "name": "No One Greater",
       "url": "https://open.spotify.com/track/2o8GNK8ydsmYvQxCrs17wT"
@@ -2150,6 +2246,24 @@
       "duration_ms": 207717,
       "name": "Now Lazarus Can Sing",
       "url": "https://open.spotify.com/track/38Voi2itip2fwW1FI0fALD"
+    },
+    {
+      "album": {
+        "name": "Oh Yes You Will",
+        "url": "https://open.spotify.com/album/5XAcPeUWjLMC2VheyObOC1"
+      },
+      "artists": [
+        {
+          "name": "Mark Bishop",
+          "url": "https://open.spotify.com/artist/1rB6iNJyZrKajKrOBwTO6k"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "Oh Yes You Will",
+      "url": "https://open.spotify.com/track/7zkXUJ9UZx9SIaTzds15M0"
     },
     {
       "album": {
@@ -2334,6 +2448,24 @@
       "duration_ms": 280013,
       "name": "Pray On the Little Days - Demonstration in B-C#",
       "url": "https://open.spotify.com/track/7rRXM2Ha49osbVwbierHMD"
+    },
+    {
+      "album": {
+        "name": "Preach Jesus",
+        "url": "https://open.spotify.com/album/3Ec18pBdsN8WMGcaJuGZd1"
+      },
+      "artists": [
+        {
+          "name": "Down East Boys",
+          "url": "https://open.spotify.com/artist/0Zg0qh2ZQsBDm68196Ofln"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254518,
+      "name": "Preach Jesus",
+      "url": "https://open.spotify.com/track/48ND8lOVrmZV7DBTrv6bPF"
     },
     {
       "album": {
@@ -3060,7 +3192,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 238000,
       "name": "The Fishing Pole",
       "url": "https://open.spotify.com/track/7kERMxS9CdeEwwW3wlmWEq"
@@ -3562,6 +3694,28 @@
       "duration_ms": 169200,
       "name": "Troubled",
       "url": "https://open.spotify.com/track/6fj5V9JRLqphud1543mS1h"
+    },
+    {
+      "album": {
+        "name": "Turn Your Eyes Upon Jesus",
+        "url": "https://open.spotify.com/album/6T8FSLWkwtZRpR2EMPMknp"
+      },
+      "artists": [
+        {
+          "name": "Mark Lowry",
+          "url": "https://open.spotify.com/artist/7DpnqUope0VrBdoh4T5Uod"
+        },
+        {
+          "name": "Geron Davis",
+          "url": "https://open.spotify.com/artist/222HXs6cB7vKH0VmwjbMhu"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212746,
+      "name": "Turn Your Eyes Upon Jesus",
+      "url": "https://open.spotify.com/track/7GIwCdHr7O0lWbnPYBbOxK"
     },
     {
       "album": {

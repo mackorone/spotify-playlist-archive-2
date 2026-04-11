@@ -11015,6 +11015,24 @@
     },
     {
       "album": {
+        "name": "Big Beautiful Mess EP",
+        "url": "https://open.spotify.com/album/3jDay65YOB4zly3tQlXAcU"
+      },
+      "artists": [
+        {
+          "name": "Ava Joe",
+          "url": "https://open.spotify.com/artist/1kExWfjjFzo8vNlmtBjCdj"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145532,
+      "name": "Lost In The Woods",
+      "url": "https://open.spotify.com/track/1j35t4oAGJegJ7IPcSET5f"
+    },
+    {
+      "album": {
         "name": "Lost In Your Blues",
         "url": "https://open.spotify.com/album/0B0TyWChnMZqsvYUxGbpeg"
       },
@@ -12561,7 +12579,7 @@
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 189850,
+      "duration_ms": 189392,
       "name": "Never Know Love",
       "url": "https://open.spotify.com/track/2tlONys5V3ZuO5OxrDJfE8"
     },
@@ -18512,24 +18530,6 @@
       "duration_ms": 205597,
       "name": "traces",
       "url": "https://open.spotify.com/track/3Jwty961fAsNPRzX3O2GPi"
-    },
-    {
-      "album": {
-        "name": "Big Beautiful Mess EP",
-        "url": "https://open.spotify.com/album/3jDay65YOB4zly3tQlXAcU"
-      },
-      "artists": [
-        {
-          "name": "Ava Joe",
-          "url": "https://open.spotify.com/artist/1kExWfjjFzo8vNlmtBjCdj"
-        }
-      ],
-      "date_added": "2026-04-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/1j35t4oAGJegJ7IPcSET5f"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Next Gen Singer\-Songwriters](https://open.spotify.com/playlist/37i9dQZF1DXdbTERrLjYkP)
 
-> Discover the next wave of talent writing their own songs\. Cover: Ryann Ross
+> Discover the next wave of talent writing their own songs\. Cover: Sophie May
 
-1,047 songs - 2 day 8 hr 26 min
+1,053 songs - 2 day 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [Coal](https://open.spotify.com/track/4dtIxANFBU6CfhI9c2hf2g) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Coal](https://open.spotify.com/album/5c5a2dLd2qLVN5zlaOcKJQ) | 3:14 | 2023-09-29 | 2024-04-19 |
 | [Coal](https://open.spotify.com/track/5cI23aJ66Gw2a4N8l4dGYw) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Coal](https://open.spotify.com/album/2STtbigxgiR3GU5h6PowiT) | 3:14 | 2023-09-01 | 2024-08-17 |
 | [Cobalt Blue](https://open.spotify.com/track/1bl4k2cDh1E6MVz1b2uUEB) | [Ruby Plume](https://open.spotify.com/artist/1ng6C9TvJYFLHfyjBjRj84) | [Spinstress](https://open.spotify.com/album/4lpztYt1njS5iSxRdxKflE) | 3:06 | 2026-01-23 |  |
+| [Cold Hands](https://open.spotify.com/track/2ZaTomBYLVmHjC3SCfjfl6) | [Momo Boyd](https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd), [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Miss Michigan](https://open.spotify.com/album/403xK3xBydTLfaBxctsZ2X) | 3:24 | 2026-04-10 |  |
 | [Come Close](https://open.spotify.com/track/10LSITr9KpQs2uCh7g2QQh) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Come Close](https://open.spotify.com/album/3IwrLHxANKcf9PKXpZ2lh7) | 2:59 | 2022-01-14 | 2022-04-29 |
 | [Come On Over](https://open.spotify.com/track/5nIdoIyDQQOfT39DH0c5vc) | [Tadhg Daly](https://open.spotify.com/artist/59HyKDC9r5zpdyq5eraay1) | [Come On Over](https://open.spotify.com/album/2mEhOdeOpA8kaUjjUTtv5l) | 2:41 | 2022-01-14 | 2022-02-12 |
 | [coming around](https://open.spotify.com/track/2aNCgj2Px3flyBD5kqS2WJ) | [fliss](https://open.spotify.com/artist/7r0tZaKpCOZ9oA0LQGKZyX) | [coming around](https://open.spotify.com/album/0oIJvYf11xCllbEOuS1Suq) | 3:42 | 2025-07-25 | 2026-01-17 |
@@ -270,6 +271,7 @@
 | [Easy](https://open.spotify.com/track/2e9OcSUPm48Eo1JqGf9z0b) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [Easy](https://open.spotify.com/album/5KEfMWnIzvVRaDZtHdrpkb) | 2:47 | 2023-05-05 | 2023-08-04 |
 | [Easy](https://open.spotify.com/track/3j2BSkuYt5zl3DcXUFIMpu) | [HAPPIE](https://open.spotify.com/artist/4lV9WCVEJ0dmNDWdACbRc9) | [Real Love](https://open.spotify.com/album/5Pm8GY1s2GRSuhxrxBvDLJ) | 4:09 | 2024-08-16 | 2025-02-22 |
 | [easy](https://open.spotify.com/track/4oSywTRBD1TCpvWehg4cxp) | [MacKenzie Bourg](https://open.spotify.com/artist/3pg4cfNfPC0ehk912YtXe9) | [easy](https://open.spotify.com/album/740ZfWRY6fQuysBFuzWDwu) | 3:25 | 2024-10-11 | 2025-04-05 |
+| [Easy As Pie](https://open.spotify.com/track/1YUU5Mm00U78pAvQH5FN9Z) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Easy As Pie](https://open.spotify.com/album/14aIKUJKtc3PhtCrGHYwMY) | 1:59 | 2026-04-10 |  |
 | [Easy Love](https://open.spotify.com/track/4teTkriwH61lCPVRSvLIBv) | [Abigail Osborn](https://open.spotify.com/artist/5gv5fvzy1TWJmDj7jyMiLO) | [Easy Love](https://open.spotify.com/album/3ZjApkMiuqIxvsZbEGCo0o) | 3:23 | 2022-10-28 | 2023-01-14 |
 | [eat ur heart out](https://open.spotify.com/track/53QT3zKgxfkMPyJ6rUjwLz) | [carobae](https://open.spotify.com/artist/2HysMkOtaumKooHYAlE7wd) | [scared to go to sleep](https://open.spotify.com/album/4QKam9OIXo9igvbnq5r5O2) | 2:45 | 2022-11-18 | 2023-01-28 |
 | [Eating Me Alive](https://open.spotify.com/track/3oWnxaIUpSkYNrZKj6oltw) | [dearest](https://open.spotify.com/artist/63nfkiGvTNEHhYfTIQnNfT) | [Eating Me Alive](https://open.spotify.com/album/159PlKdtrZXSybeNjs9z8m) | 3:12 | 2025-08-29 | 2026-01-24 |
@@ -288,7 +290,7 @@
 | [Escape Plan](https://open.spotify.com/track/57nPLBMMNk8w4KDNSwDxdz) | [Jana Diab](https://open.spotify.com/artist/04U5nHCnl5ykOPWVrfHHZq) | [Escape Plan](https://open.spotify.com/album/3kt4vMSt4GLQQ7M5pS5Dpx) | 2:19 | 2024-06-14 | 2024-12-21 |
 | [Eternal June](https://open.spotify.com/track/1KKHhlOK0Kt7aCRzccuQ5n) | [Emma Foley](https://open.spotify.com/artist/2mT4dR2yqTdySXfsIkAp0x) | [Eternal June](https://open.spotify.com/album/07UddeVlOY0BdtTIkUH51b) | 2:24 | 2024-08-16 | 2025-01-18 |
 | [Eulogy For Nobody](https://open.spotify.com/track/11ozTm1ilFrLxwtdWt1iK0) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Learning](https://open.spotify.com/album/0g1hqdwk04yfQdXgt3ifzG) | 2:16 | 2023-09-15 | 2024-01-05 |
-| [Eventually](https://open.spotify.com/track/7A9yawxyZYDQv3LklNUOUU) | [Sabrina Sterling](https://open.spotify.com/artist/2TX3RFFIqwzwDjFMJN4nV9) | [Eventually](https://open.spotify.com/album/7oUGHYjT5jFpGj8W5JaCrK) | 4:00 | 2025-11-07 |  |
+| [Eventually](https://open.spotify.com/track/7A9yawxyZYDQv3LklNUOUU) | [Sabrina Sterling](https://open.spotify.com/artist/2TX3RFFIqwzwDjFMJN4nV9) | [Eventually](https://open.spotify.com/album/7oUGHYjT5jFpGj8W5JaCrK) | 4:00 | 2025-11-07 | 2026-04-11 |
 | [Every Second](https://open.spotify.com/track/0GxUJLTF4RanPVwY1YpcZ3) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Better Days](https://open.spotify.com/album/5SrnJoj6SyYblCwkraKsha) | 3:02 | 2022-01-14 | 2022-09-17 |
 | [Everybody Seems to Love You](https://open.spotify.com/track/7glM6QKiCgb0w88hNf0USx) | [Addison Grace](https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap) | [Things That Are Bad for Me](https://open.spotify.com/album/3MMxyF2JgR2pUD7qwvOnrg) | 3:22 | 2022-11-11 | 2023-01-28 |
 | [Everything At Once](https://open.spotify.com/track/2gsVY4QDfE8tkyWQZJu5ht) | [Isabel Dumaa](https://open.spotify.com/artist/31R2Jd36gfwflNuGkqovpv) | [Just My Nature](https://open.spotify.com/album/6IXsR2pf2jxjtkScPt5VWA) | 3:48 | 2024-10-18 | 2025-04-05 |
@@ -620,6 +622,7 @@
 | [Mass\. Ave \(You and I\)](https://open.spotify.com/track/5IoBwcBsA3hK9vAcFvvx2A) | [Delilah Brao](https://open.spotify.com/artist/5dWRkpyqnoYDNouN02NDdk) | [Mass\. Ave \(You and I\)](https://open.spotify.com/album/3B7NIQEdQHvmK8hhZcgXY9) | 2:20 | 2024-10-18 | 2025-01-18 |
 | [Matches & Gasoline](https://open.spotify.com/track/6rDacZ9BHqi3JEthMNEXgp) | [Noah Rinker](https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6) | [Matches & Gasoline](https://open.spotify.com/album/3NB6G28F41Ee1iH2NXI6Xm) | 4:47 | 2025-09-05 | 2026-01-17 |
 | [matthew](https://open.spotify.com/track/34IEw2kMFrBNl6svjx7hVJ) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [matthew](https://open.spotify.com/album/1x7NuNlKTgLRY7hJZdM3Cr) | 3:13 | 2022-09-02 | 2022-12-24 |
+| [Matthew McConaughey](https://open.spotify.com/track/3nFW9odnQHPBGbYS9a825p) | [Sierra Carson](https://open.spotify.com/artist/5Q09kcqyq7Ova3Xwfv04RK) | [Matthew McConaughey](https://open.spotify.com/album/1Ti73O4fMjeQknBTIvKErj) | 3:14 | 2026-04-10 |  |
 | [MAYBE](https://open.spotify.com/track/5sVopsPUBDHBpadiCQfHcB) | [Gabriela Bee](https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1) | [Maybe](https://open.spotify.com/album/3ebxDsPCt6eQyjlpya02uM) | 3:14 | 2023-12-01 | 2024-08-17 |
 | [Maybe Life Is Good](https://open.spotify.com/track/1Yg1vxpbL10eBFoKXHrFMn) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Maybe Life Is Good](https://open.spotify.com/album/3JrelA49G1d8BdKIaJ64YO) | 3:10 | 2024-02-09 | 2024-07-02 |
 | [MAYBE.](https://open.spotify.com/track/54eCdfu10x7x7uHJ5TY5KZ) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [MAYBE.](https://open.spotify.com/album/39wdDtFBu6cp8kyBhdCwVr) | 3:55 | 2024-08-02 | 2025-01-04 |
@@ -659,6 +662,7 @@
 | [NEED ME](https://open.spotify.com/track/2M0Mh2R2GPAOAVYnXVjSFR) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [NEED ME](https://open.spotify.com/album/4LEWE31MV5QuWP9F0qxOus) | 3:43 | 2024-05-24 | 2024-08-03 |
 | [Never Had a Chance](https://open.spotify.com/track/7kWHoZvIn3TzxUHYrszYFc) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Never Had a Chance](https://open.spotify.com/album/5td0jzs96pRarCswOchXN8) | 2:25 | 2022-04-08 | 2022-06-23 |
 | [Never Knew](https://open.spotify.com/track/00yBeMYfB9QGKN1GdvtBqQ) | [Shaya Zamora](https://open.spotify.com/artist/4gmgH3IgZoetXRskbdI02q) | [Never Knew](https://open.spotify.com/album/0QJBhVPWMLTwLu3tOMDTuP) | 2:42 | 2024-11-01 | 2025-04-05 |
+| [Never Know Love](https://open.spotify.com/track/2tlONys5V3ZuO5OxrDJfE8) | [Bea](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Never Know Love](https://open.spotify.com/album/2AZdDD0w09CGHCDKP2Tqnf) | 3:09 | 2026-04-10 |  |
 | [Never Made It Out](https://open.spotify.com/track/12MTn5SaP2z5aYNjAiAJvc) | [Shay O'Dowd](https://open.spotify.com/artist/1xp8arQmoMdz3b5LlJ5LJu) | [Never Made It Out](https://open.spotify.com/album/3aQU2rp2dbpBrMFe5sGlfR) | 3:14 | 2026-03-20 |  |
 | [Never Notice](https://open.spotify.com/track/6BhMpYkmpy00MYwDCN9ZZh) | [Yana](https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX) | [Never Notice](https://open.spotify.com/album/6oJBrLiT1DwzeDmGcpeIGE) | 3:58 | 2025-08-01 | 2025-12-10 |
 | [Never Rains in London](https://open.spotify.com/track/79dary3nhptdWjD33KnHLg) | [Abigail Osborn](https://open.spotify.com/artist/5gv5fvzy1TWJmDj7jyMiLO) | [Never Rains in London](https://open.spotify.com/album/5pNPyd0822zHgeSXCEQfaB) | 2:22 | 2025-04-25 | 2025-06-07 |
@@ -684,6 +688,7 @@
 | [NOTHING!](https://open.spotify.com/track/0LPru9yHo3roipmisve7Mz) | [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC) | [NOTHING!](https://open.spotify.com/album/1mqeIkHYdFh6N8CmCG9ijH) | 2:19 | 2023-08-18 | 2023-11-11 |
 | [October](https://open.spotify.com/track/1S5H1Kb9zorNzLiGlowC78) | [La Rhonza](https://open.spotify.com/artist/5YOg6PEOX2N8a7Rn0rBRjD) | [October](https://open.spotify.com/album/7s3OY71tBtARmt0ErG5Gy6) | 3:14 | 2024-10-25 | 2025-04-05 |
 | [oh my god i’m happy what the fuck](https://open.spotify.com/track/0nELcTlKKUPt2TvC6xpjQc) | [Savana Santos](https://open.spotify.com/artist/4319F2mBye7whEKPHX8pSm) | [1](https://open.spotify.com/album/6N56gxTiG3hCtCTNgdiYtx) | 2:03 | 2023-11-10 | 2024-06-08 |
+| [Oh, Ana](https://open.spotify.com/track/46G3dLvPYBjRB5WzyvWr32) | [Dominique Way](https://open.spotify.com/artist/5kROZ1F7ExRZyFnHvKdlJ7) | [Oh, Ana](https://open.spotify.com/album/7h9mJCFBWhaRdWHm28xIME) | 3:12 | 2026-04-10 |  |
 | [Old Car](https://open.spotify.com/track/3o6wfrXEOOd1wk836lNyQS) | [Chrissy](https://open.spotify.com/artist/3QwRBjTeM46BQmREpCiL6f) | [Old Car](https://open.spotify.com/album/0dY7aaSn3OtgYSyeVl73hA) | 3:19 | 2024-09-20 | 2025-01-18 |
 | [Old Time's Sake](https://open.spotify.com/track/1uNZx15zIBLQzBQ7h3MkZs) | [Devon Gabriella](https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i) | [Old Time's Sake](https://open.spotify.com/album/4JRlbtTEJu7TQ3DVp5vKO2) | 3:44 | 2026-03-06 |  |
 | [older](https://open.spotify.com/track/0q49ODitYkfDWQbMcsXfod) | [Devon Gabriella](https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i) | [older](https://open.spotify.com/album/3mBgNei9rEYjsumRgfANDE) | 2:37 | 2023-05-19 | 2023-09-05 |
@@ -919,6 +924,7 @@
 | [The Real You](https://open.spotify.com/track/5fJ4NkMs0mYRfv1ZShIGKq) | [Lyric](https://open.spotify.com/artist/6WvUuUPD60XGOknbgzqYb2) | [The Real You](https://open.spotify.com/album/3a4R1LkmIWzXuVnyxAwx5p) | 2:59 | 2025-09-26 | 2026-02-17 |
 | [the sky looked nice today](https://open.spotify.com/track/1R0WKnVaUrZbEyJNHSVlgX) | [Lexie Carroll](https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0) | [when the sun came up](https://open.spotify.com/album/2MrUkSTLolgDJTboaxwCXl) | 3:19 | 2022-05-06 | 2022-10-08 |
 | [the song i always forget about](https://open.spotify.com/track/7i8xSbqSYwSsmMezkeVwCo) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [Maddie Ashman](https://open.spotify.com/artist/0kUfq7dUYNktJeT3OgFhtO) | [postcard from London](https://open.spotify.com/album/5gAu1hk4w44KokDujZmvKU) | 4:01 | 2022-12-23 | 2023-02-25 |
+| [The Sound](https://open.spotify.com/track/2DjhpO10QxqIzoLM71xYrf) | [Ava Claire](https://open.spotify.com/artist/7GYOoxzv1sFmUUTh7PpEi9) | [The Sound](https://open.spotify.com/album/4dRz6eDSAhfokLAhO7X2ug) | 2:55 | 2026-04-10 |  |
 | [The Way It Was Before](https://open.spotify.com/track/5MkeG5rfMXRthy1HtpO7Kx) | [Johnny Stimson](https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE) | [The Way It Was Before](https://open.spotify.com/album/21WzCHmaKB5boZZdxf4jRN) | 3:00 | 2022-01-28 | 2022-04-29 |
 | [Things That Fall](https://open.spotify.com/track/44gcQBCYmUk2c3LU37SYHM) | [Lily Williams](https://open.spotify.com/artist/1f2q4venkA2pATVTmWhS6Z) | [Things That Fall](https://open.spotify.com/album/0wvEMYuE2QyCP2oWPiRsEf) | 2:55 | 2023-09-01 | 2023-11-11 |
 | [think about it](https://open.spotify.com/track/04s3GWkrMPdbJwYFY6UloW) | [Avery Lynch](https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk) | [think about it](https://open.spotify.com/album/4yHUj0gc9nEAhOtWeGPJMH) | 4:09 | 2025-03-07 | 2025-04-26 |

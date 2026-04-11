@@ -1,6 +1,6 @@
 {
   "description": "Latin Afrobeats heat that will make you sweat \ud83e\udd75 Cover: Rvssian, Rauw Alejandro & Wizkid",
-  "num_followers": 143312,
+  "num_followers": 143321,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
@@ -1087,26 +1087,6 @@
     {
       "added_at": "2026-03-20 04:00:59",
       "album": {
-        "name": "Tengo Un Plan (Remix)",
-        "url": "https://open.spotify.com/album/3wzg2uQTXIdUKDtLFgblXH"
-      },
-      "artists": [
-        {
-          "name": "Key-Key",
-          "url": "https://open.spotify.com/artist/6GKbEjuVNKuuAKetDXA2Mi"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 215448,
-      "name": "Tengo Un Plan - Remix",
-      "url": "https://open.spotify.com/track/3AXw3pd7KHGSogprPSxrMh"
-    },
-    {
-      "added_at": "2026-03-20 04:00:59",
-      "album": {
         "name": "Laho III",
         "url": "https://open.spotify.com/album/5cNmhhxoAbTfeAp541gD6i"
       },
@@ -1123,6 +1103,26 @@
       "duration_ms": 178909,
       "name": "Laho III",
       "url": "https://open.spotify.com/track/6Ax7HFmxQTWfJB5Wj8o1ET"
+    },
+    {
+      "added_at": "2026-03-20 04:00:59",
+      "album": {
+        "name": "Tengo Un Plan (Remix)",
+        "url": "https://open.spotify.com/album/3wzg2uQTXIdUKDtLFgblXH"
+      },
+      "artists": [
+        {
+          "name": "Key-Key",
+          "url": "https://open.spotify.com/artist/6GKbEjuVNKuuAKetDXA2Mi"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 215448,
+      "name": "Tengo Un Plan - Remix",
+      "url": "https://open.spotify.com/track/3AXw3pd7KHGSogprPSxrMh"
     },
     {
       "added_at": "2026-03-20 04:00:59",
@@ -1383,6 +1383,38 @@
     {
       "added_at": "2026-03-20 04:00:59",
       "album": {
+        "name": "NoNoNo",
+        "url": "https://open.spotify.com/album/3cVp5DmksK8HNLRn8gPGyh"
+      },
+      "artists": [
+        {
+          "name": "Ysa C",
+          "url": "https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "NoNoNo",
+      "url": "https://open.spotify.com/track/2nHLeUWCPePxL12o5JbHzZ"
+    },
+    {
+      "added_at": "2026-03-20 04:00:59",
+      "album": {
+        "name": "Ojitos Chinos",
+        "url": "https://open.spotify.com/album/0zwvkTHUGRjbcWUDCXEkXk"
+      },
+      "artists": [
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        }
+      ],
+      "duration_ms": 141575,
+      "name": "Ojitos Chinos",
+      "url": "https://open.spotify.com/track/2HixgseTWGGRlziKcE1Cyh"
+    },
+    {
+      "added_at": "2026-03-20 04:00:59",
+      "album": {
         "name": "Afro Vibes (2024-07-19)",
         "url": "https://open.spotify.com/album/1iQijMFf2omolFxF3gL4RQ"
       },
@@ -1407,38 +1439,6 @@
     {
       "added_at": "2026-03-20 04:00:59",
       "album": {
-        "name": "Ojitos Chinos",
-        "url": "https://open.spotify.com/album/0zwvkTHUGRjbcWUDCXEkXk"
-      },
-      "artists": [
-        {
-          "name": "DEKKO",
-          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
-        }
-      ],
-      "duration_ms": 141575,
-      "name": "Ojitos Chinos",
-      "url": "https://open.spotify.com/track/2HixgseTWGGRlziKcE1Cyh"
-    },
-    {
-      "added_at": "2026-03-20 04:00:59",
-      "album": {
-        "name": "NoNoNo",
-        "url": "https://open.spotify.com/album/3cVp5DmksK8HNLRn8gPGyh"
-      },
-      "artists": [
-        {
-          "name": "Ysa C",
-          "url": "https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "NoNoNo",
-      "url": "https://open.spotify.com/track/2nHLeUWCPePxL12o5JbHzZ"
-    },
-    {
-      "added_at": "2026-03-20 04:00:59",
-      "album": {
         "name": "El Problema (2020)",
         "url": "https://open.spotify.com/album/7A7fxgXTMgJ0qGnMIzj0YG"
       },
@@ -1451,22 +1451,6 @@
       "duration_ms": 150865,
       "name": "El Problema (2020)",
       "url": "https://open.spotify.com/track/5C5MyN6NWwcvcJNud1bkEp"
-    },
-    {
-      "added_at": "2026-03-20 04:00:59",
-      "album": {
-        "name": "coletera",
-        "url": "https://open.spotify.com/album/2ZqbEY6LccdL1XaLHqb2G9"
-      },
-      "artists": [
-        {
-          "name": "Akos",
-          "url": "https://open.spotify.com/artist/0lpajtkKIMfafiNO4qVSAy"
-        }
-      ],
-      "duration_ms": 97507,
-      "name": "coletera",
-      "url": "https://open.spotify.com/track/0mFrx0vyS62wwxp8BtFpbk"
     },
     {
       "added_at": "2026-03-20 04:00:59",
@@ -1487,6 +1471,22 @@
       "duration_ms": 183286,
       "name": "Volver a Verte",
       "url": "https://open.spotify.com/track/5tQSwzIY7MUXsGD2pVrpCB"
+    },
+    {
+      "added_at": "2026-03-20 04:00:59",
+      "album": {
+        "name": "coletera",
+        "url": "https://open.spotify.com/album/2ZqbEY6LccdL1XaLHqb2G9"
+      },
+      "artists": [
+        {
+          "name": "Akos",
+          "url": "https://open.spotify.com/artist/0lpajtkKIMfafiNO4qVSAy"
+        }
+      ],
+      "duration_ms": 97507,
+      "name": "coletera",
+      "url": "https://open.spotify.com/track/0mFrx0vyS62wwxp8BtFpbk"
     },
     {
       "added_at": "2026-03-20 04:00:59",

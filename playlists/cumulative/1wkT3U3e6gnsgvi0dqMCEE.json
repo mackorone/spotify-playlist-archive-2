@@ -3741,6 +3741,28 @@
     },
     {
       "album": {
+        "name": "Lions At The Gate / Buried Treasure",
+        "url": "https://open.spotify.com/album/0NH8mycOhyav9IfRKMqFsD"
+      },
+      "artists": [
+        {
+          "name": "Peter Frampton",
+          "url": "https://open.spotify.com/artist/0543y7yrvny4KymoaneT4W"
+        },
+        {
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250052,
+      "name": "Lions At The Gate",
+      "url": "https://open.spotify.com/track/41kd8oGCNLLLjMisbi8e4q"
+    },
+    {
+      "album": {
         "name": "Sigh No More",
         "url": "https://open.spotify.com/album/6w5W6ZGTvDsppKUOiGMuMo"
       },

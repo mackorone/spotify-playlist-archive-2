@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-14",
-  "description": "Future & melodic bass \ud83d\udef8 with ILLENIUM",
+  "description": "Future & melodic bass \u2764\ufe0f\u200d\ud83d\udd25 featuring Virtual Riot",
   "name": "Bass Lounge",
   "tracks": [
     {
@@ -1776,7 +1776,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 224004,
       "name": "BELIEVE",
       "url": "https://open.spotify.com/track/6c9A7TfPI6fRi57duK7sN4"
@@ -2780,6 +2780,28 @@
       "duration_ms": 233807,
       "name": "Cold as Snow",
       "url": "https://open.spotify.com/track/5KuU7DxFZtPwchzqdfodPc"
+    },
+    {
+      "album": {
+        "name": "PART I - EXODUS",
+        "url": "https://open.spotify.com/album/3JzaD3OxtVSVwXwwBQkohd"
+      },
+      "artists": [
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        },
+        {
+          "name": "Megan Ashworth",
+          "url": "https://open.spotify.com/artist/5VWrCbjYaF07x1vTwYJr0S"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214096,
+      "name": "Colder",
+      "url": "https://open.spotify.com/track/65PJnPSmGpCo4C7Mzx7Yjb"
     },
     {
       "album": {
@@ -5688,7 +5710,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 253714,
       "name": "FINDING MY WAY",
       "url": "https://open.spotify.com/track/67kx9px8TZFOXnuLIqAbNu"
@@ -19434,6 +19456,32 @@
       "duration_ms": 233513,
       "name": "XE3 (Whethan Turn)",
       "url": "https://open.spotify.com/track/0uUQq7tP8upuBaN6cmQuqx"
+    },
+    {
+      "album": {
+        "name": "Burning Out",
+        "url": "https://open.spotify.com/album/1BwP4KYs256iX37FEXSoQM"
+      },
+      "artists": [
+        {
+          "name": "Virtual Riot",
+          "url": "https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1"
+        },
+        {
+          "name": "Said The Sky",
+          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
+        },
+        {
+          "name": "HYMNALS",
+          "url": "https://open.spotify.com/artist/2seVQaAt7DMkQXYDMQ5nL7"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236400,
+      "name": "Yellow Lights",
+      "url": "https://open.spotify.com/track/546ZxQIwM0E9ywsAlBgc13"
     },
     {
       "album": {

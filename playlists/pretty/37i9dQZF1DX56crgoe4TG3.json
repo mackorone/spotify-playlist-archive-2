@@ -1,6 +1,6 @@
 {
   "description": "A mix of folk and bluegrass covers of pop, rock, hip-hop, folk, and indie songs. Cover: I'm With Her",
-  "num_followers": 285196,
+  "num_followers": 285199,
   "original_name": "Bluegrass Covers",
   "owner": {
     "name": "Spotify",
@@ -667,6 +667,46 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
+        "name": "Please Please Please",
+        "url": "https://open.spotify.com/album/30ArfdJ5XKYeb2J9Kp0Qfc"
+      },
+      "artists": [
+        {
+          "name": "Julia DiGrazia",
+          "url": "https://open.spotify.com/artist/3bz9DtEGIYBic48d2q5m4R"
+        },
+        {
+          "name": "Sierra Carson",
+          "url": "https://open.spotify.com/artist/5Q09kcqyq7Ova3Xwfv04RK"
+        },
+        {
+          "name": "Kylie Spence",
+          "url": "https://open.spotify.com/artist/4lLrClIyojd3zSX4k1aA5a"
+        }
+      ],
+      "duration_ms": 187924,
+      "name": "Please Please Please",
+      "url": "https://open.spotify.com/track/62rAUmM1YqjhtQj1vLL5j0"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "Five For Silver",
+        "url": "https://open.spotify.com/album/2o9tYQIhHHLq0YqsTQU4Qr"
+      },
+      "artists": [
+        {
+          "name": "Bella White",
+          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
+        }
+      ],
+      "duration_ms": 198913,
+      "name": "Luxury Liner",
+      "url": "https://open.spotify.com/track/2m8kGp1qrmUBqQCwMgylYw"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
         "name": "Old Cane Back Rocker",
         "url": "https://open.spotify.com/album/6iUD7V9RCB0End8bgyk4ik"
       },
@@ -691,22 +731,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Five For Silver",
-        "url": "https://open.spotify.com/album/2o9tYQIhHHLq0YqsTQU4Qr"
-      },
-      "artists": [
-        {
-          "name": "Bella White",
-          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
-        }
-      ],
-      "duration_ms": 198913,
-      "name": "Luxury Liner",
-      "url": "https://open.spotify.com/track/2m8kGp1qrmUBqQCwMgylYw"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Up On The Ridge",
         "url": "https://open.spotify.com/album/5tDrY2EsPJ3ynm5Pg5udMQ"
       },
@@ -727,30 +751,6 @@
       "duration_ms": 249213,
       "name": "Pride (In The Name Of Love)",
       "url": "https://open.spotify.com/track/72y0DVZTTIyioNQu358c9G"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
-        "name": "Please Please Please",
-        "url": "https://open.spotify.com/album/30ArfdJ5XKYeb2J9Kp0Qfc"
-      },
-      "artists": [
-        {
-          "name": "Julia DiGrazia",
-          "url": "https://open.spotify.com/artist/3bz9DtEGIYBic48d2q5m4R"
-        },
-        {
-          "name": "Sierra Carson",
-          "url": "https://open.spotify.com/artist/5Q09kcqyq7Ova3Xwfv04RK"
-        },
-        {
-          "name": "Kylie Spence",
-          "url": "https://open.spotify.com/artist/4lLrClIyojd3zSX4k1aA5a"
-        }
-      ],
-      "duration_ms": 187924,
-      "name": "Please Please Please",
-      "url": "https://open.spotify.com/track/62rAUmM1YqjhtQj1vLL5j0"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1091,22 +1091,18 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Folsom Prison Blues",
-        "url": "https://open.spotify.com/album/0lRIWEVebJgKYWyQa2PNhW"
+        "name": ".",
+        "url": "https://open.spotify.com/album/76MzjkhMULN2M1Ae1Dd9cP"
       },
       "artists": [
         {
-          "name": "The String Revolution",
-          "url": "https://open.spotify.com/artist/3a92Lwi4cm5FadiUpIpizc"
-        },
-        {
-          "name": "Tommy Emmanuel",
-          "url": "https://open.spotify.com/artist/6HjfVflhYjbu6PSIsFOjwM"
+          "name": "Malingo",
+          "url": "https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk"
         }
       ],
-      "duration_ms": 206886,
-      "name": "Folsom Prison Blues",
-      "url": "https://open.spotify.com/track/0BFN1J0LuXXVUExLKkuNvB"
+      "duration_ms": 298250,
+      "name": "Losing My Religion",
+      "url": "https://open.spotify.com/track/1E5Th7qqtzSdqapUW16nYD"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1127,18 +1123,22 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": ".",
-        "url": "https://open.spotify.com/album/76MzjkhMULN2M1Ae1Dd9cP"
+        "name": "Folsom Prison Blues",
+        "url": "https://open.spotify.com/album/0lRIWEVebJgKYWyQa2PNhW"
       },
       "artists": [
         {
-          "name": "Malingo",
-          "url": "https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk"
+          "name": "The String Revolution",
+          "url": "https://open.spotify.com/artist/3a92Lwi4cm5FadiUpIpizc"
+        },
+        {
+          "name": "Tommy Emmanuel",
+          "url": "https://open.spotify.com/artist/6HjfVflhYjbu6PSIsFOjwM"
         }
       ],
-      "duration_ms": 298250,
-      "name": "Losing My Religion",
-      "url": "https://open.spotify.com/track/1E5Th7qqtzSdqapUW16nYD"
+      "duration_ms": 206886,
+      "name": "Folsom Prison Blues",
+      "url": "https://open.spotify.com/track/0BFN1J0LuXXVUExLKkuNvB"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Norwegian Wood (This Bird Has Flown)",
-        "url": "https://open.spotify.com/album/6QjVfP6KCKaTBAv68CLa1Q"
-      },
-      "artists": [
-        {
-          "name": "Malingo",
-          "url": "https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk"
-        }
-      ],
-      "duration_ms": 167827,
-      "name": "Norwegian Wood (This Bird Has Flown)",
-      "url": "https://open.spotify.com/track/2FFZNaGdYTRWlYftmpCexq"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Johnny B. Goode",
         "url": "https://open.spotify.com/album/3GwPLOfHKwTHpOdO349mRv"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 396516,
       "name": "Me and Bobby McGee (2024 Mix)",
       "url": "https://open.spotify.com/track/7j7j5Mg6SLEXxsHA2qQ3wh"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "Norwegian Wood (This Bird Has Flown)",
+        "url": "https://open.spotify.com/album/6QjVfP6KCKaTBAv68CLa1Q"
+      },
+      "artists": [
+        {
+          "name": "Malingo",
+          "url": "https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk"
+        }
+      ],
+      "duration_ms": 167827,
+      "name": "Norwegian Wood (This Bird Has Flown)",
+      "url": "https://open.spotify.com/track/2FFZNaGdYTRWlYftmpCexq"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1783,6 +1783,22 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
+        "name": "Songs From Neverland",
+        "url": "https://open.spotify.com/album/5bnpTjo2c8LCWIxGL15E61"
+      },
+      "artists": [
+        {
+          "name": "Honeywagon",
+          "url": "https://open.spotify.com/artist/1wky7WkIkB0dvbzUShNpqx"
+        }
+      ],
+      "duration_ms": 222213,
+      "name": "P.Y.T.",
+      "url": "https://open.spotify.com/track/2MfO6yN6OBzQCPxuVILvMg"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
         "name": "Guess I'm Doing Fine",
         "url": "https://open.spotify.com/album/7CvyXC5glE5wSTiaTW7Q21"
       },
@@ -1799,22 +1815,6 @@
       "duration_ms": 280441,
       "name": "Guess I'm Doing Fine",
       "url": "https://open.spotify.com/track/1nYepgS69x8u58SHOpfkSq"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
-        "name": "Songs From Neverland",
-        "url": "https://open.spotify.com/album/5bnpTjo2c8LCWIxGL15E61"
-      },
-      "artists": [
-        {
-          "name": "Honeywagon",
-          "url": "https://open.spotify.com/artist/1wky7WkIkB0dvbzUShNpqx"
-        }
-      ],
-      "duration_ms": 222213,
-      "name": "P.Y.T.",
-      "url": "https://open.spotify.com/track/2MfO6yN6OBzQCPxuVILvMg"
     }
   ],
   "unique_name": "Bluegrass Covers",

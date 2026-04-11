@@ -4,7 +4,7 @@
 
 > Tunes from your favourite coffee shop.
 
-425 songs - 1 day 0 hr 25 min
+428 songs - 1 day 0 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,6 +249,7 @@
 | [Lovesong 2](https://open.spotify.com/track/1PoE4D8hQ6zwQrTvlH2OTp) | [Charlie Burg](https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8) | [Back To Earth](https://open.spotify.com/album/63C5TfyocT1tCfRXKFEFI1) | 2:28 | 2025-09-19 | 2026-03-28 |
 | [Loving You \(feat\. Maverick Sabre\)](https://open.spotify.com/track/3Jx1s38DVgJJwuoxAGi7kh) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Loving You / Don't Let Me Go](https://open.spotify.com/album/4AT8IOeR5ZntLmTOeCj75j) | 2:32 | 2024-11-08 | 2025-11-29 |
 | [Mack the Knife](https://open.spotify.com/track/4qmYDdVA3zYPPejNjHOwnh) | [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8), [Pacific Jazz Orchestra](https://open.spotify.com/artist/4V9K5J0QHwTQldLhmzF9Xm) | [Mack the Knife](https://open.spotify.com/album/4K5aRgSLJf2vqjv8hWyoLS) | 4:38 | 2025-09-26 |  |
+| [Madwoman](https://open.spotify.com/track/0UqHzMvRQnaOXEPKgFVhxN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time: The Final Hour](https://open.spotify.com/album/4DWK6TLXHl1fly2zi5RlO7) | 3:59 | 2026-04-10 |  |
 | [MAKE ME YOUR MONSTER](https://open.spotify.com/track/4bNCgx7wGWP98iP2euzF12) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [MAKE ME YOUR MONSTER](https://open.spotify.com/album/1xBDETRvO7zwDC5pEUvzAv) | 3:20 | 2024-08-02 | 2025-09-20 |
 | [Malibu](https://open.spotify.com/track/20O68YXmVnI0MzVfOy9WQ4) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Malibu](https://open.spotify.com/album/2Z5S2hgUpivyXs9T5LnxiS) | 4:02 | 2025-02-21 | 2026-03-21 |
 | [Mangos](https://open.spotify.com/track/49e50MWToveqr3PjnKFpnM) | [Shallow Alcove](https://open.spotify.com/artist/2hEZUJYO26jhMzfw0ZzrCj) | [Mangos](https://open.spotify.com/album/5xebmA2DGH8Xyg6vmpblkU) | 3:16 | 2024-10-25 | 2024-11-09 |
@@ -281,6 +282,7 @@
 | [October Passed Me By](https://open.spotify.com/track/0AjcdGri5vhJsmZnduCEqd) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [October Passed Me By](https://open.spotify.com/album/6XtlrNlPUFHcpLS7ImjG3E) | 2:45 | 2023-12-08 | 2023-12-16 |
 | [Oh California](https://open.spotify.com/track/2dOSQFePDgBFEQIakDkF3K) | [Basset](https://open.spotify.com/artist/6PK5jTymkiAxeOjjqOIAQ3) | [Oh California](https://open.spotify.com/album/1NBVldvVewNukGARZGf383) | 3:23 | 2025-01-24 | 2025-10-04 |
 | [Oh Well](https://open.spotify.com/track/5FYSZ0tJ8CvWOfN2Rr2Sjw) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [Oh Well](https://open.spotify.com/album/0uTvwUVUNUfPK1U1WMqNVW) | 3:24 | 2025-06-27 | 2026-02-07 |
+| [Oh, Ana](https://open.spotify.com/track/46G3dLvPYBjRB5WzyvWr32) | [Dominique Way](https://open.spotify.com/artist/5kROZ1F7ExRZyFnHvKdlJ7) | [Oh, Ana](https://open.spotify.com/album/7h9mJCFBWhaRdWHm28xIME) | 3:12 | 2026-04-10 |  |
 | [Oh, Sweet Honey](https://open.spotify.com/track/2Yd6qoD71geLrQN436PuJt) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Oh, Sweet Honey](https://open.spotify.com/album/6vQABaZxu3xzRcyFlIXomN) | 3:50 | 2024-07-19 | 2024-08-17 |
 | [ok](https://open.spotify.com/track/4FcVcASfnIedJfxIi0a2QM) | [Hayley Gene Penner](https://open.spotify.com/artist/1ytHo44bNtIESiArfclJPe) | [ok](https://open.spotify.com/album/1M59UjZ6KQLUnNERnpmBeD) | 3:38 | 2025-03-14 | 2025-06-21 |
 | [Old Man](https://open.spotify.com/track/5KjR1RHch1sHoG7kr5Aazg) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Old Man](https://open.spotify.com/album/7kAoW0zL7wkpCrkMk1lFP5) | 3:27 | 2025-03-21 | 2025-11-15 |
@@ -292,6 +294,7 @@
 | [Only Happen](https://open.spotify.com/track/2zQt3vKJafeBV6JjZD7oSn) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Only Happen](https://open.spotify.com/album/4MEMDFaYFsHgCrTzwbufQR) | 3:28 | 2025-05-09 | 2025-12-06 |
 | [Oranges](https://open.spotify.com/track/3LDNkwKmcU6OvbZE3kNL6l) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Headlights](https://open.spotify.com/album/6txHM80BKWlp4UdqLpWXRZ) | 2:52 | 2025-07-18 |  |
 | [Orchid / Flame](https://open.spotify.com/track/4EcTf30fqx2CXau0S7e5VS) | [hannah bahng](https://open.spotify.com/artist/2oTW5kYNj4eIgp68Z5W4D9) | [Orchid / Flame](https://open.spotify.com/album/4LnqTIRGOD6aPNPIm2Ytpf) | 3:14 | 2025-08-15 | 2026-02-14 |
+| [ordinary love song](https://open.spotify.com/track/17NrsW6bdRJzkUjCDnEEuj) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [The Acrobat](https://open.spotify.com/album/1VLxDl8t4mVEhcyInmnSH0) | 2:28 | 2026-04-10 |  |
 | [Our Time In The Sun](https://open.spotify.com/track/5p4JYohFMUUX3Ry7cleGYx) | [Jeremie Albino](https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY) | [Our Time In The Sun](https://open.spotify.com/album/344Lr7mYQ1StZCxVW5usJ4) | 3:00 | 2024-09-06 | 2025-02-15 |
 | [Over You](https://open.spotify.com/track/6KX5lORRwSuUWyXpMlJ8Hs) | [12AM](https://open.spotify.com/artist/4FHtVj8v4il9h5HRQ4Ib3n) | [Over You](https://open.spotify.com/album/0Y8njREiJhHegRMwHHrNth) | 2:29 | 2024-01-26 | 2024-08-24 |
 | [Overgrown](https://open.spotify.com/track/2laFygRs4Cft2jsQN1oJud) | [Zackery](https://open.spotify.com/artist/5GQHNdYVBppXNGb7RHJHIc) | [Overgrown](https://open.spotify.com/album/1LkmLrGj33RzJTSu0ZMzKC) | 3:39 | 2025-06-20 | 2025-12-13 |

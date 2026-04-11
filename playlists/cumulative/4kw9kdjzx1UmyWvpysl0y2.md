@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,208 songs - 2 day 19 hr 19 min
+1,209 songs - 2 day 19 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1181,6 +1181,7 @@
 | [who we are](https://open.spotify.com/track/6oYZHydjksy35AkbxIu3eZ) | [zensei ゼンセー](https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63) | [destination heartbreak pt\. 1](https://open.spotify.com/album/2ZYx16Jx0qzuMfBbZPojrA) | 2:45 | 2022-11-19 | 2022-11-22 |
 | [Who's Laughing Now](https://open.spotify.com/track/6gjSaRvPS9Nv5yAfNfp19n) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Fourfive](https://open.spotify.com/artist/2Iwoy31N647ZAX06wPbcGg) | [Who's Laughing Now](https://open.spotify.com/album/48EADwiXTyVHcFPjllMsww) | 2:55 | 2024-02-16 | 2024-05-08 |
 | [Who's Laughing Now \- A Hundred Drums Remix](https://open.spotify.com/track/39XzfK4wI5C16ou4HRiCmu) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Fourfive](https://open.spotify.com/artist/2Iwoy31N647ZAX06wPbcGg), [A Hundred Drums](https://open.spotify.com/artist/1dUCaUhp2RZRXrwOyUnHxQ) | [Who's Laughing Now \(A Hundred Drums Remix\)](https://open.spotify.com/album/31SK5QOjF2DhFBXAsSznBf) | 3:18 | 2024-09-23 | 2024-12-19 |
+| [Wide Awake](https://open.spotify.com/track/24HdzUbqJrVX07kUvLErVa) | [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy), [Sam Harper](https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe) | [Wide Awake](https://open.spotify.com/album/0wxsN6kCy8tnCGRAPJAYqT) | 3:29 | 2026-04-10 |  |
 | [Wide Open](https://open.spotify.com/track/0ICvgo8qnBYhVUqGAycdqG) | [Topi](https://open.spotify.com/artist/6WP0h3qR0awvIWPMvE72F8) | [Wide Open](https://open.spotify.com/album/27xkRKbfs3scIzNeO3lgRQ) | 3:04 | 2024-12-09 | 2025-03-19 |
 | [Wild Time](https://open.spotify.com/track/0YX38wDVtPkk7FAOO3wU64) | [Leotrix](https://open.spotify.com/artist/3mVL1qynaYs31rgyDTytkS) | [Wild Time](https://open.spotify.com/album/1ye5cB0yJ8wLlGoNv4s2qN) | 3:51 | 2022-05-12 | 2022-07-23 |
 | [Wildfire](https://open.spotify.com/track/49Y95L9PEgmiU8grfUF2el) | [Banaati](https://open.spotify.com/artist/3lwdREjAeG9zskfcoPYAz4), [Dokho](https://open.spotify.com/artist/5m62yqRUbEgCFNLKLlHkXM), [MØØNE](https://open.spotify.com/artist/7kKL0Z6mypwMkgCevMfuQ6) | [Wildfire](https://open.spotify.com/album/3XFyWwB4yXHSjoRHqNq98y) | 3:40 | 2024-08-07 | 2024-10-29 |

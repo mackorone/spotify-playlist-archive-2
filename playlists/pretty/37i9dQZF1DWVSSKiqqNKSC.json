@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Celia Cruz en portada.",
-  "num_followers": 529165,
+  "num_followers": 529206,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
@@ -695,22 +695,6 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
-        "name": "Prohibido",
-        "url": "https://open.spotify.com/album/2Uq6ubk7GvBestQXFmCPgM"
-      },
-      "artists": [
-        {
-          "name": "Alexander Abreu",
-          "url": "https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu"
-        }
-      ],
-      "duration_ms": 265639,
-      "name": "Prohibido",
-      "url": "https://open.spotify.com/track/6M645F7LHVaWGSrEbbt0wK"
-    },
-    {
-      "added_at": "2025-03-07 06:00:25",
-      "album": {
         "name": "Lo Mejor de la Charanga",
         "url": "https://open.spotify.com/album/17BU5qXTnzlNo6ETqkBY2S"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 324493,
       "name": "\u00a1Ay! Ay Amor",
       "url": "https://open.spotify.com/track/5FxtsZEiJqNn9mCl4lAJKp"
+    },
+    {
+      "added_at": "2025-03-07 06:00:25",
+      "album": {
+        "name": "Prohibido",
+        "url": "https://open.spotify.com/album/2Uq6ubk7GvBestQXFmCPgM"
+      },
+      "artists": [
+        {
+          "name": "Alexander Abreu",
+          "url": "https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu"
+        }
+      ],
+      "duration_ms": 265639,
+      "name": "Prohibido",
+      "url": "https://open.spotify.com/track/6M645F7LHVaWGSrEbbt0wK"
     },
     {
       "added_at": "2025-03-07 06:00:25",
@@ -803,22 +803,6 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
-        "name": "Grandes \u00e9xitos",
-        "url": "https://open.spotify.com/album/0QSSZDP9Vva4PRT0Dhw759"
-      },
-      "artists": [
-        {
-          "name": "Manol\u00edn, El M\u00e9dico De La Salsa",
-          "url": "https://open.spotify.com/artist/1FfJF5xoAMmermBUVxoEYV"
-        }
-      ],
-      "duration_ms": 310079,
-      "name": "Arriba de la bola",
-      "url": "https://open.spotify.com/track/4P2VLqOAJrA3ZoaYWSG0Co"
-    },
-    {
-      "added_at": "2025-03-07 06:00:25",
-      "album": {
         "name": "Olvida Que Te Olvide",
         "url": "https://open.spotify.com/album/6EwixuIBcRFYSZPoxeS0ng"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 226000,
       "name": "Olvida Que Te Olvide",
       "url": "https://open.spotify.com/track/7f9kaG29f9CfyIwHpNJGOH"
+    },
+    {
+      "added_at": "2025-03-07 06:00:25",
+      "album": {
+        "name": "Grandes \u00e9xitos",
+        "url": "https://open.spotify.com/album/0QSSZDP9Vva4PRT0Dhw759"
+      },
+      "artists": [
+        {
+          "name": "Manol\u00edn, El M\u00e9dico De La Salsa",
+          "url": "https://open.spotify.com/artist/1FfJF5xoAMmermBUVxoEYV"
+        }
+      ],
+      "duration_ms": 310079,
+      "name": "Arriba de la bola",
+      "url": "https://open.spotify.com/track/4P2VLqOAJrA3ZoaYWSG0Co"
     }
   ],
   "unique_name": "Salsa Cubana",

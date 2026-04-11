@@ -4,7 +4,7 @@
 
 > Calm and quiet piano music for reading.
 
-867 songs - 1 day 13 hr 25 min
+870 songs - 1 day 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,6 +248,7 @@
 | [For Kate](https://open.spotify.com/track/4uNQlDhz4fIKvjvdSESKou) | [Ed Chinaski](https://open.spotify.com/artist/1uiURs2L2yxv1vr5vGwbSt) | [For Kate](https://open.spotify.com/album/1eGuJ5nZme9vfMMyb5B07S) | 2:17 | 2022-04-15 | 2024-04-04 |
 | [Forbidden Chords](https://open.spotify.com/track/22MdrHbM2paKQswcbjHEsR) | [Eugenius R\. Malmgren](https://open.spotify.com/artist/2uODFqBJo1WlHbFBSuyLW9) | [Forbidden Chords](https://open.spotify.com/album/5qG5zlXidasaBblysEBt4A) | 2:19 | 2023-11-06 |  |
 | [Forelsket](https://open.spotify.com/track/4Oo0RKYm64PZSIbpFmcuK9) | [Idun Vinter](https://open.spotify.com/artist/1xxEOepOhE9VubYZpZX10m) | [Forelsket](https://open.spotify.com/album/6HKYX4ZmdHL8DMhsWp497N) | 2:50 | 2022-04-15 | 2022-05-27 |
+| [Forest Lake](https://open.spotify.com/track/5Rr18rBb5ghN0WW52gEhK0) | [Aeyes Libe](https://open.spotify.com/artist/2PUFZI4SN9XsFMf0i7qEwv) | [Forest Lake](https://open.spotify.com/album/59HrzwVSTpz6IEzhnPYgBL) | 2:15 | 2026-04-10 |  |
 | [Forevermore](https://open.spotify.com/track/3xZBHTUT1gLAmDbPz77ETo) | [Ambrosiae](https://open.spotify.com/artist/0WtC6Sw0FEuccTgMXoYQPm) | [Forevermore](https://open.spotify.com/album/1uaB2cXT94Sl6V3eN2UFsW) | 2:34 | 2023-06-19 |  |
 | [Forget Me Not](https://open.spotify.com/track/1HQF8Vz4Kae6oLhni2E54z) | [Cedric Armfeldt](https://open.spotify.com/artist/3llSwjdelb4sV1khXfWFPQ) | [Forget Me Not](https://open.spotify.com/album/5slVwW2ujScGX4vXkuRAZB) | 2:42 | 2023-08-14 |  |
 | [Forgetting You](https://open.spotify.com/track/2JfOLY4AGWezrNrJ7UY8Zt) | [Sigrid Norrman](https://open.spotify.com/artist/1Peng0mboFNSv5ADqvYMUI) | [Forgetting You](https://open.spotify.com/album/5UVaRXcpwBNsrJ41aQIl5S) | 2:33 | 2025-07-08 |  |
@@ -419,6 +420,7 @@
 | [Lost Words](https://open.spotify.com/track/0KYklJXOjIFD22Clm13Nqa) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Lost Words](https://open.spotify.com/album/1jRtlkaEdWbv6oJltZLCvP) | 2:31 | 2022-04-15 | 2022-07-29 |
 | [Lost Words](https://open.spotify.com/track/6lX9u3tr5Au2bxXLdFHd91) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Lost Words](https://open.spotify.com/album/0xEafwEcjFJB1QTb0VkQlU) | 2:31 | 2022-07-15 | 2022-11-19 |
 | [Love Will Set Us Free](https://open.spotify.com/track/4vO8oT2rdWcCzHYTEcoJGl) | [Novum Cordis](https://open.spotify.com/artist/3iSbAtzrrSEaZlc16jeS9d) | [Love Will Set Us Free](https://open.spotify.com/album/6rXybaAOBtVCldnzhMSn2g) | 2:25 | 2022-04-15 | 2022-09-21 |
+| [Low Sun](https://open.spotify.com/track/6jLnooepdmlocVlyxN3lRr) | [Drake Hughes](https://open.spotify.com/artist/5LqoWo2fAIcCblVTe5OsKQ) | [Low Sun](https://open.spotify.com/album/6IL1tC8JeHGBEY6WUn8khj) | 2:28 | 2026-04-10 |  |
 | [Low Tide](https://open.spotify.com/track/4IE6nqSTpxrN0w34jYcSfK) | [Ren Lockhart](https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp) | [Low Tide](https://open.spotify.com/album/6Q4NlBA59w10TScE7sJSuw) | 2:37 | 2024-05-14 |  |
 | [Luce](https://open.spotify.com/track/3eGygw8GYEYWknt1JeZAQ1) | [Nascondiglio](https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK) | [Luce](https://open.spotify.com/album/00EHlFdUT07StJKAk4al8H) | 2:10 | 2023-11-13 |  |
 | [Luce Stellare](https://open.spotify.com/track/3JFkFQzyMjfZxhPneUDSsk) | [Simone Scarda](https://open.spotify.com/artist/7hSXYgXfuNG4YsQPout5VG) | [Luce Stellare](https://open.spotify.com/album/1OcsLFeL0V4NNNjilW4ha0) | 2:36 | 2023-12-12 | 2025-05-22 |
@@ -479,6 +481,7 @@
 | [Next Part Of The Dream](https://open.spotify.com/track/0Bip0zvXgJNLImBHYkJkQG) | [Grace Olimpia](https://open.spotify.com/artist/0hekyZHacb34zACbjg2VSz) | [Next Part Of The Dream](https://open.spotify.com/album/178jMXfVPzfwW27g28G2yZ) | 3:13 | 2022-04-15 | 2022-05-27 |
 | [Nirha](https://open.spotify.com/track/0SK8aridaHO485I2iJD35e) | [Matti Aalto](https://open.spotify.com/artist/4nGn3LnoPxjDGpkYY7fW9E) | [Nirha](https://open.spotify.com/album/3AEGuqW6eS9efDAYOpfBjH) | 2:44 | 2022-04-15 | 2024-03-26 |
 | [No One Knows](https://open.spotify.com/track/5Rmd8TQOc2hrM81Rvm1gpB) | [Chris Donner](https://open.spotify.com/artist/4xwCgzlPsRwNfHdvlLwCsH) | [Rites of Passage](https://open.spotify.com/album/7AJ5Hb0pp2go5xuGBenQ8h) | 4:08 | 2022-04-15 | 2022-04-23 |
+| [Nocturnal Hours](https://open.spotify.com/track/6CftXEFIa8MozfOe9ydrw6) | [Max Swan](https://open.spotify.com/artist/2d1JYQW1AqWDJYigDlLLPj) | [Nocturnal Hours](https://open.spotify.com/album/6xNrSPsqE5dPmUJtsxnA4T) | 2:34 | 2026-04-10 |  |
 | [Nocturne](https://open.spotify.com/track/6rotz7JFg3WMGt3fRBewPo) | [Emanuel Driesen](https://open.spotify.com/artist/1VknQzlayUN0eDkWEJCsBU) | [Nocturne](https://open.spotify.com/album/2tCWf4q7uiLupjpXgjPf4A) | 2:25 | 2022-04-15 | 2022-05-14 |
 | [Noémie](https://open.spotify.com/track/05raSLFPEXgJTZ3PZPxXD0) | [Mikki Jenkins](https://open.spotify.com/artist/352pMjHoDyILGhOoYMMWYi) | [Noémie](https://open.spotify.com/album/6ESd1pP4cH03zETvAiNISE) | 2:00 | 2022-04-15 | 2022-04-23 |
 | [Noir et Blanc](https://open.spotify.com/track/043N3wUhBlPT5otTLE0kIz) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Noir et Blanc](https://open.spotify.com/album/4Xz5rzsmXAxIoqYZwllQZ9) | 2:29 | 2023-10-09 |  |
@@ -663,7 +666,7 @@
 | [Sinking](https://open.spotify.com/track/2tMIlCle6lIekbKOBtKxaT) | [Matthew Avery](https://open.spotify.com/artist/3dAAhnH2R2Dd2bgZiqSlkR) | [Sinking](https://open.spotify.com/album/0VTQ7zwNJ0SrBddcVHsGZa) | 2:39 | 2022-04-15 | 2022-05-27 |
 | [Skye](https://open.spotify.com/track/07nMoeNxaY9nZtvD01snY8) | [Jakob Maler](https://open.spotify.com/artist/7b7kemtMdYD48P8Ec7MWzb) | [Skye](https://open.spotify.com/album/65bltqhMq5gjB9kNxCXqvw) | 2:24 | 2022-06-07 | 2024-03-26 |
 | [Sleeping at last](https://open.spotify.com/track/1ri9OTTCvGn1yMlDiqAdFS) | [Stephanie Middleton](https://open.spotify.com/artist/2Uz5ooYuumPgHwe1HVjFtT) | [Sleeping at last](https://open.spotify.com/album/0nOyDcj7i5cEolSP2RZ2uW) | 2:14 | 2022-04-15 | 2024-04-04 |
-| [Slow Morning](https://open.spotify.com/track/56sl3qMDGAqd8ktMI57h7S) | [Cinthya Garcia](https://open.spotify.com/artist/6bJ7NkfRa94C3IT6NGamEv) | [Slow Morning](https://open.spotify.com/album/72tckPxhIpV8L7KwBgSSiu) | 2:10 | 2023-07-03 |  |
+| [Slow Morning](https://open.spotify.com/track/56sl3qMDGAqd8ktMI57h7S) | [Cinthya Garcia](https://open.spotify.com/artist/6bJ7NkfRa94C3IT6NGamEv) | [Slow Morning](https://open.spotify.com/album/72tckPxhIpV8L7KwBgSSiu) | 2:10 | 2023-07-03 | 2026-04-11 |
 | [Slow Motion](https://open.spotify.com/track/7jQpEPXoLaE2LHvqaQ5cQ3) | [Madelene Olsson](https://open.spotify.com/artist/32zdWfzzE8XBuoOPEzJcS3) | [Slow Motion](https://open.spotify.com/album/492xERwIuQYnX5mAhZP9BV) | 3:20 | 2022-10-14 | 2025-05-22 |
 | [Slow Spinning Balerina](https://open.spotify.com/track/3WXvl9AEf0yaCpM7TvhbrB) | [Sigrid Sigrdisdottir](https://open.spotify.com/artist/2B0VHQkXJ1KhZRsJyil8Vw) | [Slow Spinning Balerina](https://open.spotify.com/album/6gMWsqV8BwjvkF88404TYX) | 3:46 | 2024-03-18 | 2025-05-22 |
 | [Slow Voltage](https://open.spotify.com/track/58AYQMGOeuVJn7JppQU7Yd) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Slow Voltage](https://open.spotify.com/album/6MeUn1jRWdr2LAqA2pivVX) | 2:58 | 2022-04-15 | 2024-02-14 |
@@ -728,7 +731,7 @@
 | [The Cherry Trees](https://open.spotify.com/track/1dPIVEUmnh7v9r4KUnOTHH) | [Gail Bastien](https://open.spotify.com/artist/1eCocb44CK7LZas5v6DKUC) | [The Cherry Trees](https://open.spotify.com/album/2tJO1OQKOOi4tSvQpNQBFG) | 2:25 | 2022-04-15 | 2023-07-11 |
 | [The Crossing \(Revisited\)](https://open.spotify.com/track/2aLM9O5Gz5X758xYkgpSC6) | [Danny Mulhern](https://open.spotify.com/artist/4tc9PdoWcfLTI5ZcNIhWuU) | [The Crossing \(Revisited\)](https://open.spotify.com/album/7EvoRhA8ptjI0AoQQu4n6s) | 1:57 | 2022-04-15 | 2023-07-25 |
 | [The Desolate Path](https://open.spotify.com/track/39sT7m26OUz1z2cfjShZYM) | [Rikard From](https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc) | [The Desolate Path](https://open.spotify.com/album/6wXpCHeggIpKl5qEZeqWsu) | 3:05 | 2023-01-31 | 2025-08-20 |
-| [The Destination](https://open.spotify.com/track/2ntaF4Q9b2yePJ3NICBnVs) | [Keane Wang](https://open.spotify.com/artist/03uAZJV3EydDTU5C8fAYfA) | [The Destination](https://open.spotify.com/album/3uqMuVZorKUEnYg8p7VtMH) | 2:02 | 2023-08-07 |  |
+| [The Destination](https://open.spotify.com/track/2ntaF4Q9b2yePJ3NICBnVs) | [Keane Wang](https://open.spotify.com/artist/03uAZJV3EydDTU5C8fAYfA) | [The Destination](https://open.spotify.com/album/3uqMuVZorKUEnYg8p7VtMH) | 2:02 | 2023-08-07 | 2026-04-11 |
 | [The Distant Path](https://open.spotify.com/track/1nPQClKsAqd84PZU5hfVCB) | [Les Rêveries](https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O) | [A Place I Remember](https://open.spotify.com/album/7AKhyi9Ylbpga01pIsytVr) | 3:31 | 2022-04-15 | 2022-06-08 |
 | [The Dreams We Left Behind](https://open.spotify.com/track/6KZtv7JVe8fKXaIHPj3Gb2) | [Joy Meyer\-Williams](https://open.spotify.com/artist/0uGHltM64FZJWH1uOr8YWU) | [The Dreams We Left Behind](https://open.spotify.com/album/5wpWx956vb5d7CDGmniwcY) | 3:02 | 2022-04-15 | 2022-11-19 |
 | [The Early Morning Light](https://open.spotify.com/track/3iTAC43y6h0j5iCb5DwDmC) | [Ryan Emerald](https://open.spotify.com/artist/6i76BDK7kKabeyniabZ5ce) | [The Early Morning Light](https://open.spotify.com/album/60qTpmJ1syZsByuGsQzTGv) | 2:38 | 2023-11-06 | 2025-05-22 |

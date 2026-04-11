@@ -4,7 +4,7 @@
 
 > let the dj set u free ❤️‍🩹
 
-670 songs - 1 day 15 hr 4 min
+671 songs - 1 day 15 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -527,6 +527,7 @@
 | [Silver Lining](https://open.spotify.com/track/6D9pncRlZZoq4oc1tzAC1y) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr) | [Silver Lining](https://open.spotify.com/album/21WYCgAsF27UnSt3O9fIP0) | 2:57 | 2021-05-14 | 2022-10-20 |
 | [Silver Lining \(feat\. Marlo Rex\)](https://open.spotify.com/track/5U3fsTBPMrCOkS5WrdkUgq) | [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ), [Marlo Rex](https://open.spotify.com/artist/3honvvPh3jtS2fTJEYKexS) | [Silver Lining \(feat\. Marlo Rex\)](https://open.spotify.com/album/0juDvtfPJ97JuhvBbXP4M8) | 3:10 | 2025-09-26 | 2025-11-30 |
 | [Silverlight](https://open.spotify.com/track/1R8qJRSmyAbEew2mtPQFJo) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA) | [Silverlight](https://open.spotify.com/album/5vpDjbRlku61UAeFzqm09E) | 3:20 | 2025-11-07 |  |
+| [Sinking](https://open.spotify.com/track/31N5i68R7fFHqH6E87OgHB) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz), [XIRA](https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ) | [Sinking](https://open.spotify.com/album/3aaoUvAkxmbAqmUDX6wAty) | 3:56 | 2026-04-10 |  |
 | [Sirens](https://open.spotify.com/track/0EudqIdrpZjHZ1pnSuBKgA) | [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3) | [This Must Be The Place](https://open.spotify.com/album/01WcFlWlj9ie3YTNSKr3OP) | 4:15 | 2021-05-29 | 2022-11-13 |
 | [Sister](https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Sister](https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL) | 4:28 | 2021-04-02 | 2024-08-17 |
 | [Sleep Better](https://open.spotify.com/track/2UV3f3x5Le9zwt9ymKaR09) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw), [Ansun](https://open.spotify.com/artist/5UZG6OoWsLEtOIIRJ2IfDm), [KEYTON](https://open.spotify.com/artist/5Tfpom9xTru2xTcnd2QBLi) | [Sleep Better](https://open.spotify.com/album/1qSsaewqIP33fPA6SgHts4) | 2:18 | 2024-10-04 | 2025-01-25 |
@@ -602,7 +603,7 @@
 | [THINKIN' BOUT U](https://open.spotify.com/track/6cwNyD7UDIGD2CSnpObpkl) | [Mattilo](https://open.spotify.com/artist/7gAYkHRXnXtaZk4QMJ5kJC), [Julian](https://open.spotify.com/artist/7g34C2v5CRE5K4objuYQSc) | [THINKIN' BOUT U](https://open.spotify.com/album/2nIoah8NyUvyIHl73UhXkD) | 2:47 | 2024-04-12 | 2026-02-07 |
 | [Thinking Of U](https://open.spotify.com/track/0ObFG6JadCEfirwmFRBPFY) | [Attic Beats](https://open.spotify.com/artist/6oGLvkrXYxzfmCdG2Tuadi) | [Thinking Of U](https://open.spotify.com/album/5RPeU8jJYrIrLqLl0zduvl) | 2:00 | 2024-01-26 | 2024-11-13 |
 | [This Ain't Real](https://open.spotify.com/track/4mzlrsSOjP7HwPgkeAP8Mh) | [MENTIS](https://open.spotify.com/artist/5wl0tYW6IrhE0f7uj9S6C3) | [This Ain't Real](https://open.spotify.com/album/0FQaYrRMEl63jQsjfxeU2D) | 2:45 | 2022-06-17 | 2023-08-26 |
-| [Tidal Wave](https://open.spotify.com/track/2OanCtn4n2jC2SgHMMjn65) | [Klur](https://open.spotify.com/artist/5Y1YwWzFX7BIxBbdAOXOEJ), [LeyeT](https://open.spotify.com/artist/1qo3qvulyeKNNWjFCPXwwb) | [Tidal Wave](https://open.spotify.com/album/1Uwaxg2tnNMQkP4gvE7HcI) | 3:47 | 2025-09-19 |  |
+| [Tidal Wave](https://open.spotify.com/track/2OanCtn4n2jC2SgHMMjn65) | [Klur](https://open.spotify.com/artist/5Y1YwWzFX7BIxBbdAOXOEJ), [LeyeT](https://open.spotify.com/artist/1qo3qvulyeKNNWjFCPXwwb) | [Tidal Wave](https://open.spotify.com/album/1Uwaxg2tnNMQkP4gvE7HcI) | 3:47 | 2025-09-19 | 2026-04-11 |
 | [Tidal Wave](https://open.spotify.com/track/2wZhZYuCFpoSElWEQq3Tt5) | [Stresshead](https://open.spotify.com/artist/1ilfLz2z62VTtvKJmxYPzs) | [Tidal Wave](https://open.spotify.com/album/0zZz8NNJM9Uwmufm8suDSu) | 3:48 | 2025-09-06 |  |
 | [Till It's Gone](https://open.spotify.com/track/5dmOBq1NNSDWJrOLAHIvZ2) | [George.Alexander](https://open.spotify.com/artist/4T5rksB6FI1h0m66PoUBo9) | [Till It's Gone](https://open.spotify.com/album/4oBhhixf8firJ22JV2yh96) | 4:51 | 2025-10-03 | 2025-10-25 |
 | [to be honest](https://open.spotify.com/track/3SnPe12kpzkBH65CHn0Zq6) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Ellee Duke](https://open.spotify.com/artist/0mVpmPb8A2f3SZzLwsfY2N) | [who are you really?](https://open.spotify.com/album/7JiDcMxZDuM4Xccza58vgY) | 2:26 | 2026-03-06 |  |

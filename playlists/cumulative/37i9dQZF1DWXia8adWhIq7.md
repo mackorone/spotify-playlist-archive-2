@@ -4,7 +4,7 @@
 
 > Ouça as novidades e sucessos do Pop Cristão\. Foto: Gui Neris
 
-209 songs - 12 hr 36 min
+210 songs - 12 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Eu Vou](https://open.spotify.com/track/519QsRMwlkuirzde4fbtwr) | [Thiago Ramalho](https://open.spotify.com/artist/5maeLmILKilfauXPQFcemJ) | [Eu Vou](https://open.spotify.com/album/4jYJAnAnJjxPwVPFWRdvVp) | 3:29 | 2022-08-05 | 2024-04-19 |
 | [Eu Vou \- Ao Vivo](https://open.spotify.com/track/4YAoTTQIiaMc37309bOjtX) | [Ministério Zoe](https://open.spotify.com/artist/6bxqwbU9pD8GXcuSmNSSHU) | [Eu Vou \(Ao Vivo\)](https://open.spotify.com/album/0dZnuPgRHF7sGF5ttPVghh) | 11:25 | 2025-10-24 |  |
 | [Eu Vou Correr](https://open.spotify.com/track/3iCAoeQUcbK7bXmwbFV1N9) | [Heloisa Rosa](https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM) | [Eu Vou Correr](https://open.spotify.com/album/5SG58E8VnndS1SkrpGn3X8) | 3:59 | 2022-08-05 | 2023-09-26 |
+| [Excede o Entendimento \- Ao Vivo](https://open.spotify.com/track/6SxNpnjmsSTi7xNw3MR7Pr) | [Lis Avancini](https://open.spotify.com/artist/30ywC9c3B3POkE02OXf2nE) | [Excede o Entendimento \(Ao Vivo\)](https://open.spotify.com/album/3x4L1uJleQeCfUqDpWxQKr) | 3:44 | 2026-04-10 |  |
 | [Faltava Você](https://open.spotify.com/track/2p9hwoULyrP14ccQmIMqFO) | [Samuell Villart](https://open.spotify.com/artist/08zKcI2XOBGSNknqvANstc), [Rafael Caff](https://open.spotify.com/artist/2ndrJSgCakELeEvOBoQeaw) | [Faltava Você](https://open.spotify.com/album/2VRthZpnrLNcoM9gvy5717) | 3:14 | 2024-04-19 |  |
 | [Farol](https://open.spotify.com/track/6D4epvcopIMiBNlDUQyLFW) | [Temis Handeri](https://open.spotify.com/artist/3fTMaYM5vfKaSY4HiwEQSA), [Weslley Fonseca](https://open.spotify.com/artist/44tt6vxqg3vYCiTm8p8Rg9) | [Farol](https://open.spotify.com/album/39fdEyYkRRWBQ2Vu4WSFe5) | 3:43 | 2024-08-30 | 2024-10-19 |
 | [Faz Arder](https://open.spotify.com/track/3I4BzHfreJ5H6aEWokBErB) | [Ane Alma](https://open.spotify.com/artist/6agfTxA0kY25JrnIKKo35r) | [Faz Arder](https://open.spotify.com/album/2PxsAb7mPbxyvAu9a49M0S) | 1:58 | 2023-03-17 | 2023-10-07 |
@@ -115,7 +116,7 @@
 | [Manuscrito](https://open.spotify.com/track/2ramZL8iUXXFgSbgZZ3Tiu) | [JARDENYA](https://open.spotify.com/artist/7qpTv7VDYeg2EwHrDjln66) | [Manuscrito](https://open.spotify.com/album/4sQnOzkB97HBeG2AmYMGLB) | 3:43 | 2022-08-05 | 2023-04-22 |
 | [Me Alcançou \(Live Remix\)](https://open.spotify.com/track/0LG3JaVDTAtQwVLwaamxeL) | [Heric Tolentino](https://open.spotify.com/artist/6pAfGMs1Egz9IPChjCFJ8k) | [Me Alcançou \(Live Remix\)](https://open.spotify.com/album/4YYTCbKB8jkzJfDCuvFBgj) | 5:08 | 2023-07-14 | 2023-09-02 |
 | [Me Alcançou \(Remix\)](https://open.spotify.com/track/1nB2rtGVCTZl1XazO4eTvV) | [Heric Tolentino](https://open.spotify.com/artist/6pAfGMs1Egz9IPChjCFJ8k), [Yann RD](https://open.spotify.com/artist/4vRegmzSs4RfvmEJVWgOIL) | [Me Alcançou \(Remix\)](https://open.spotify.com/album/7rCwRGabV1EuDoZC1eDIfa) | 5:31 | 2023-04-21 | 2023-12-23 |
-| [Me Chamar de Filho](https://open.spotify.com/track/6wJEeDU8gqDrX4yw2ggmo0) | [Ana Canhoto](https://open.spotify.com/artist/3DhF2mhTVqQtTIwUk9wn6y) | [Me Chamar de Filho](https://open.spotify.com/album/59m8L5x58ZYO2j2pimCJrM) | 3:07 | 2022-08-05 |  |
+| [Me Chamar de Filho](https://open.spotify.com/track/6wJEeDU8gqDrX4yw2ggmo0) | [Ana Canhoto](https://open.spotify.com/artist/3DhF2mhTVqQtTIwUk9wn6y) | [Me Chamar de Filho](https://open.spotify.com/album/59m8L5x58ZYO2j2pimCJrM) | 3:07 | 2022-08-05 | 2026-04-11 |
 | [ME CUIDA](https://open.spotify.com/track/44ou1P05l7xkl4vxDfGCja) | [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p) | [ME CUIDA](https://open.spotify.com/album/16RVz9wwsbFuif2roEH1XX) | 2:31 | 2024-10-25 | 2025-01-25 |
 | [Me Ensina a Viver](https://open.spotify.com/track/0S5t0T4YV3pHs4LH0mtasp) | [Clovis](https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF) | [Me Ensina a Viver](https://open.spotify.com/album/1sqdI1xPDGAJxlYLg2pI8w) | 5:10 | 2022-08-05 | 2025-10-25 |
 | [Me Esvaziar \(Releitura\)](https://open.spotify.com/track/0iYvEJ73ZzbYmYoJRnzK1T) | [Bea Rodrigues](https://open.spotify.com/artist/6QdkjyPcxIa4L8JYoIh16i) | [Me Esvaziar \(Releitura\)](https://open.spotify.com/album/0jzLyiWUcBCqzevujFH3qZ) | 3:03 | 2023-12-22 | 2024-04-20 |

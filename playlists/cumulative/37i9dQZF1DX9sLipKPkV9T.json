@@ -8325,6 +8325,24 @@
     },
     {
       "album": {
+        "name": "\u05de\u05e6\u05d0\u05ea\u05d9 \u05e4\u05d9\u05e0\u05d4",
+        "url": "https://open.spotify.com/album/4EGyGgAG5PVx0A8wX9IY8u"
+      },
+      "artists": [
+        {
+          "name": "Noa Kirel",
+          "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244660,
+      "name": "\u05de\u05e6\u05d0\u05ea\u05d9 \u05e4\u05d9\u05e0\u05d4",
+      "url": "https://open.spotify.com/track/55U9lh5quFTrNsqHV0o7ZS"
+    },
+    {
+      "album": {
         "name": "\u05de\u05e7\u05d5\u05dd \u05d1\u05d7\u05d9\u05d9\u05da",
         "url": "https://open.spotify.com/album/2JoZx4ITfjtsyT1IZ0ObZ2"
       },

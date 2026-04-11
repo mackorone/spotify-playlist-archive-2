@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Lo nuevo del mundo tropical. Cover: Moa Rivera",
+  "description": "Lo nuevo del mundo tropical. Cover: Chino & Nacho y Danny Ocean",
   "name": "el nuevo tropical",
   "tracks": [
     {
@@ -168,7 +168,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 173195,
       "name": "36 Vidas",
       "url": "https://open.spotify.com/track/7zfvPN6Rth5yp1u0QbOglc"
@@ -1012,6 +1012,32 @@
       "duration_ms": 237095,
       "name": "Am\u00e9rica",
       "url": "https://open.spotify.com/track/3YtqX7KiNTYDlQzuUewrOq"
+    },
+    {
+      "album": {
+        "name": "Andamos Ready",
+        "url": "https://open.spotify.com/album/5eZtNyhRU4LWBV6RZoMeIt"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        },
+        {
+          "name": "Maffio",
+          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
+        },
+        {
+          "name": "Izaak G",
+          "url": "https://open.spotify.com/artist/34bxjoSYslVQ2qQvgd1ibJ"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190612,
+      "name": "Andamos Ready",
+      "url": "https://open.spotify.com/track/1OG7aTOFOhGRlHD3BA7Y6M"
     },
     {
       "album": {
@@ -3836,7 +3862,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 229795,
       "name": "Dando y Dando",
       "url": "https://open.spotify.com/track/6F6gqKjGUrKFuvNyOATO1R"
@@ -5789,6 +5815,36 @@
     },
     {
       "album": {
+        "name": "RADIO VENEZUELA",
+        "url": "https://open.spotify.com/album/4oGaJumaR03P9x9AWyfCCd"
+      },
+      "artists": [
+        {
+          "name": "Chino & Nacho",
+          "url": "https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ"
+        },
+        {
+          "name": "Chyno Miranda",
+          "url": "https://open.spotify.com/artist/1VrWc8r4AjrR8YfT0vlsc7"
+        },
+        {
+          "name": "Nacho",
+          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188132,
+      "name": "ENTR\u00c9GAME",
+      "url": "https://open.spotify.com/track/3rkzQE7dyRH6UlbFgoqbWf"
+    },
+    {
+      "album": {
         "name": "Envenenao",
         "url": "https://open.spotify.com/album/3UDLALZNLL9a0aMk1SvXeP"
       },
@@ -6712,6 +6768,28 @@
       "duration_ms": 211346,
       "name": "Hay Fuegos",
       "url": "https://open.spotify.com/track/6D824612PUJh6TbxwtirhL"
+    },
+    {
+      "album": {
+        "name": "Hazme Sentir (Salsa)",
+        "url": "https://open.spotify.com/album/7incjq6O6cKVgOEYHgmYcc"
+      },
+      "artists": [
+        {
+          "name": "Maria Conchita Alonso",
+          "url": "https://open.spotify.com/artist/6FUfgoFZ2v5kI19aG209J9"
+        },
+        {
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194907,
+      "name": "Hazme Sentir - Salsa",
+      "url": "https://open.spotify.com/track/5QGvEC6pbc021JTjJHZNDn"
     },
     {
       "album": {
@@ -7901,6 +7979,24 @@
     },
     {
       "album": {
+        "name": "La Hora De Beber",
+        "url": "https://open.spotify.com/album/2rC2bxbOunhCGkOC8O9Gv9"
+      },
+      "artists": [
+        {
+          "name": "Septeto Acarey",
+          "url": "https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194555,
+      "name": "La Hora De Beber",
+      "url": "https://open.spotify.com/track/2lunxAM7YwZtnuS5dyA1UG"
+    },
+    {
+      "album": {
         "name": "LA ISLA",
         "url": "https://open.spotify.com/album/6VBJdfE8LKDBwCpRoTBT71"
       },
@@ -8530,7 +8626,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 114545,
       "name": "LADRON",
       "url": "https://open.spotify.com/track/2NMctdE1VuUUc4VctEqamB"
@@ -9862,7 +9958,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 184866,
       "name": "Me Niego",
       "url": "https://open.spotify.com/track/24c2ZuGRc6HBzHWoEYDkuS"
@@ -13232,7 +13328,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 180660,
       "name": "Quiero estar en su lugar",
       "url": "https://open.spotify.com/track/6fhjbOaN6MakGDxX7eBA15"
@@ -13466,6 +13562,24 @@
       "duration_ms": 216506,
       "name": "Ra\u00edces",
       "url": "https://open.spotify.com/track/22L4fN7eeoLuNP6MHAB77e"
+    },
+    {
+      "album": {
+        "name": "Realidad-Es",
+        "url": "https://open.spotify.com/album/5fjmaIw7FG9xY6COvzqXQC"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255853,
+      "name": "Realidad-Es",
+      "url": "https://open.spotify.com/track/33SPXEm4rQiY5L2DDiVEWz"
     },
     {
       "album": {
@@ -15439,6 +15553,24 @@
     },
     {
       "album": {
+        "name": "Apambichao",
+        "url": "https://open.spotify.com/album/0DOZOtgMZm8GvvFJFZ6vvT"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161285,
+      "name": "Te hacen falta dos",
+      "url": "https://open.spotify.com/track/3Oohz3N32glZTOz0nuxGMD"
+    },
+    {
+      "album": {
         "name": "Te Lo Digo",
         "url": "https://open.spotify.com/album/5kPfExaROtRCigNocOLrnq"
       },
@@ -15534,7 +15666,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 201000,
       "name": "Te Sigo Extra\u00f1ando",
       "url": "https://open.spotify.com/track/7tTAIa9NxpcTNfNcOGJrcH"

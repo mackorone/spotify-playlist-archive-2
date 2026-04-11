@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "Break them in, wear them out. Cover: Dan + Shay",
+  "description": "Break them in, wear them out. Cover: STELLA LEFTY",
   "name": "New Boots",
   "tracks": [
     {
@@ -3488,7 +3488,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 194744,
       "name": "Bar And Back",
       "url": "https://open.spotify.com/track/3tIpPero4mBna2KK8xndmm"
@@ -5314,7 +5314,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 206498,
       "name": "Born To Be Yours",
       "url": "https://open.spotify.com/track/1Bdo8ojZ6wO1UYZxZ6Ii60"
@@ -6227,6 +6227,24 @@
     },
     {
       "album": {
+        "name": "Dandelion",
+        "url": "https://open.spotify.com/album/6nrtxtgaD9zSYBl9APvOCH"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183853,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/65t42trkFQjspA3vzjl7bF"
+    },
+    {
+      "album": {
         "name": "Broken Heart Thing (feat. Dustin Lynch)",
         "url": "https://open.spotify.com/album/37tz3hW40IITYz0HN4m4yT"
       },
@@ -6794,6 +6812,24 @@
       "duration_ms": 215074,
       "name": "California Rain",
       "url": "https://open.spotify.com/track/1SnUo0VkNlgepg3OuVuiXV"
+    },
+    {
+      "album": {
+        "name": "California Sober",
+        "url": "https://open.spotify.com/album/4auwxpULHEHQlFjWVJJvKN"
+      },
+      "artists": [
+        {
+          "name": "Matt Schuster",
+          "url": "https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161738,
+      "name": "California Sober",
+      "url": "https://open.spotify.com/track/1raCsOVcOg18s0dxgfSSg3"
     },
     {
       "album": {
@@ -11358,7 +11394,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 184546,
       "name": "Don't Ruin Flowers",
       "url": "https://open.spotify.com/track/45BTsHyp3yFN9lKoQLValX"
@@ -12120,6 +12156,24 @@
       "duration_ms": 176262,
       "name": "Drinkin' Terms",
       "url": "https://open.spotify.com/track/0leBYsvyyFSXc1aeuFVgTD"
+    },
+    {
+      "album": {
+        "name": "Drinking Game",
+        "url": "https://open.spotify.com/album/6yBtHDlryRS2EQAfGYNMQN"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170971,
+      "name": "Drinking Game",
+      "url": "https://open.spotify.com/track/3NpotblRm0XLn747iCZ75w"
     },
     {
       "album": {
@@ -16238,6 +16292,24 @@
       "duration_ms": 212011,
       "name": "Girls on Guys",
       "url": "https://open.spotify.com/track/6H9yrJXk98OoGWYC2DdEC7"
+    },
+    {
+      "album": {
+        "name": "Give 'Er Hell",
+        "url": "https://open.spotify.com/album/0p1xtZSyS5Ke7kezDsSFZj"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201468,
+      "name": "Give 'Er Hell",
+      "url": "https://open.spotify.com/track/0kopcRj073aQTVbQVeHWm3"
     },
     {
       "album": {
@@ -24799,6 +24871,24 @@
     },
     {
       "album": {
+        "name": "If Somebody Told Me You Were Dying",
+        "url": "https://open.spotify.com/album/0izbYSBk32Aos3qHS2ZW1M"
+      },
+      "artists": [
+        {
+          "name": "Tenille Arts",
+          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185944,
+      "name": "If Somebody Told Me You Were Dying",
+      "url": "https://open.spotify.com/track/7AC8IxFKVkAbW7R8wJisUg"
+    },
+    {
+      "album": {
         "name": "If That Ain't God",
         "url": "https://open.spotify.com/album/6zJ23RQJ1NeubHuCzyvPlE"
       },
@@ -24864,7 +24954,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 182532,
       "name": "If You Ain\u2019t In Love By Now",
       "url": "https://open.spotify.com/track/2fvv8455RiAIie3YY6oxxF"
@@ -25784,7 +25874,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 258291,
       "name": "Just A Kid",
       "url": "https://open.spotify.com/track/7LAiBcBZ7qKR4Y9I8KTMsZ"
@@ -26412,7 +26502,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 161075,
       "name": "Kingdom of Fear",
       "url": "https://open.spotify.com/track/4Es6f0zquGHCrv9Hespx9W"
@@ -26672,6 +26762,24 @@
       "duration_ms": 169838,
       "name": "Last Call",
       "url": "https://open.spotify.com/track/22iwbZQN8Mg7NkDr3OephE"
+    },
+    {
+      "album": {
+        "name": "Dandelion",
+        "url": "https://open.spotify.com/album/6nrtxtgaD9zSYBl9APvOCH"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211213,
+      "name": "Last Call For Us",
+      "url": "https://open.spotify.com/track/6IA0rcSyIbjZBrA4Vq0cr6"
     },
     {
       "album": {
@@ -28823,6 +28931,24 @@
     },
     {
       "album": {
+        "name": "love me anyway",
+        "url": "https://open.spotify.com/album/5R4eFUZ1h47tqmPzqQ5cDH"
+      },
+      "artists": [
+        {
+          "name": "Alana Springsteen",
+          "url": "https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189253,
+      "name": "love me anyway",
+      "url": "https://open.spotify.com/track/1EX7CuGAobscBmXtQej5nO"
+    },
+    {
+      "album": {
         "name": "Love Me Tonight",
         "url": "https://open.spotify.com/album/49mkNoZXgbUHUnB97bfP4e"
       },
@@ -29836,7 +29962,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 223609,
       "name": "Man I Was Made to Be",
       "url": "https://open.spotify.com/track/4fFj0XIZvqJxuE1BsR5Ltd"
@@ -30718,6 +30844,32 @@
       "duration_ms": 192838,
       "name": "Mess Out of Me",
       "url": "https://open.spotify.com/track/4dU9iZaxEh3XgnqUlmGt0Q"
+    },
+    {
+      "album": {
+        "name": "80 ACRES",
+        "url": "https://open.spotify.com/album/1bK1KicmtkbtNsyh6Oe1RO"
+      },
+      "artists": [
+        {
+          "name": "80 ACRES",
+          "url": "https://open.spotify.com/artist/4mu142ay8RgOF0nPulRo8b"
+        },
+        {
+          "name": "Dylan Marlowe",
+          "url": "https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax"
+        },
+        {
+          "name": "Treaty Oak Revival",
+          "url": "https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216497,
+      "name": "Mess We Made (feat. Treaty Oak Revival)",
+      "url": "https://open.spotify.com/track/3L75mKZe88kuKeqLmMvFpD"
     },
     {
       "album": {
@@ -32028,6 +32180,24 @@
     {
       "album": {
         "name": "My Future",
+        "url": "https://open.spotify.com/album/4uMZhfmV9xGe3EUFtKOexn"
+      },
+      "artists": [
+        {
+          "name": "Emily Ann Roberts",
+          "url": "https://open.spotify.com/artist/4ZuggB1YawAAZOBL4pI9J8"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184308,
+      "name": "My Future",
+      "url": "https://open.spotify.com/track/10mYJRVL9iiVTZFrS51bjY"
+    },
+    {
+      "album": {
+        "name": "My Future",
         "url": "https://open.spotify.com/album/3ar0skKJQsyath9XFqdFDh"
       },
       "artists": [
@@ -32640,6 +32810,24 @@
       "duration_ms": 172905,
       "name": "Neon Nowhere",
       "url": "https://open.spotify.com/track/3f2HzCPTvTN6xEimsGvCCn"
+    },
+    {
+      "album": {
+        "name": "Never Be Gone",
+        "url": "https://open.spotify.com/album/2t6rmL3K1Wp222pcwLIdZx"
+      },
+      "artists": [
+        {
+          "name": "Conner Smith",
+          "url": "https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209706,
+      "name": "Never Be Gone",
+      "url": "https://open.spotify.com/track/0U83jwc4bwnzUKtKT9TP2r"
     },
     {
       "album": {
@@ -33940,7 +34128,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 182191,
       "name": "note to self",
       "url": "https://open.spotify.com/track/3DFJukP77diUk45IbxdeLd"
@@ -38844,7 +39032,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 147169,
       "name": "Runnin' On E",
       "url": "https://open.spotify.com/track/7m1mj6F9bUtxKJTKf8HpXh"
@@ -40386,7 +40574,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 185311,
       "name": "Simon Says",
       "url": "https://open.spotify.com/track/0RCHYLH8znuGWAlBqWThu1"
@@ -41152,6 +41340,28 @@
       "duration_ms": 227693,
       "name": "Smoke & Embers",
       "url": "https://open.spotify.com/track/5YAzhZWJfVWHsUmtCqwy1o"
+    },
+    {
+      "album": {
+        "name": "SMOKE I'VE KNOWN",
+        "url": "https://open.spotify.com/album/7CbHInyRwzVithJSI2Iqjq"
+      },
+      "artists": [
+        {
+          "name": "James Johnston",
+          "url": "https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1"
+        },
+        {
+          "name": "Chase Matthew",
+          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188146,
+      "name": "SMOKE I'VE KNOWN",
+      "url": "https://open.spotify.com/track/7vymnCXzsnDeQysDha7OHI"
     },
     {
       "album": {
@@ -43224,7 +43434,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 208213,
       "name": "Starting To Show",
       "url": "https://open.spotify.com/track/3CR9k1NJYxKQvoB0C9GQhz"
@@ -46766,7 +46976,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 206743,
       "name": "Thinkin' & Drivin'",
       "url": "https://open.spotify.com/track/6mFVWXb659o1UWczZVbRRt"
@@ -47124,7 +47334,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 190263,
       "name": "This Version Of Us",
       "url": "https://open.spotify.com/track/3ZhgC1o5jAR5pRZvEQ1RJ1"
@@ -51375,6 +51585,28 @@
     },
     {
       "album": {
+        "name": "Where We Go",
+        "url": "https://open.spotify.com/album/6NtERYanUda0B8Oh1LI1LE"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196188,
+      "name": "Where We Go",
+      "url": "https://open.spotify.com/track/1aHAmd4iXRRkXIrTJwKncm"
+    },
+    {
+      "album": {
         "name": "Where You Been All My Life",
         "url": "https://open.spotify.com/album/7un2RnX7Kr3XWGHHDPEyWq"
       },
@@ -53870,6 +54102,24 @@
       "duration_ms": 199400,
       "name": "You Ain't Gotta Die (To Be Dead To Me)",
       "url": "https://open.spotify.com/track/5Bs3A5vn8M6RPpARXL0cMh"
+    },
+    {
+      "album": {
+        "name": "You and I",
+        "url": "https://open.spotify.com/album/5ILxuigcogkefZqzMuHU2t"
+      },
+      "artists": [
+        {
+          "name": "Lily Meola",
+          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169278,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/3veAtMxHWM7SbZOXfJ142t"
     },
     {
       "album": {

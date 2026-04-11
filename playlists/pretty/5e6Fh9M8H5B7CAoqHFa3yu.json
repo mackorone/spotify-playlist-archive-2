@@ -1,12 +1,12 @@
 {
   "description": "forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify",
-  "num_followers": 305,
+  "num_followers": 306,
   "original_name": "forever young Playlist Spotify",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAI86wm/2O3hFssoCNpy/XNmP+UKCbl",
+  "snapshot_id": "AAAI+PdRBGdxf5056ZgoAyGLKSqCLBZa",
   "tracks": [
     {
       "added_at": "2026-03-30 10:29:12",
@@ -36199,6 +36199,102 @@
       "duration_ms": 187879,
       "name": "Baila Sin Final",
       "url": "https://open.spotify.com/track/2Iqu1rqtEvm7q7N6sFXRUl"
+    },
+    {
+      "added_at": "2026-04-10 08:29:55",
+      "album": {
+        "name": "Translations IV",
+        "url": "https://open.spotify.com/album/1xRVYWKUqSsbiDXGUZmIOu"
+      },
+      "artists": [
+        {
+          "name": "Italiks",
+          "url": "https://open.spotify.com/artist/3XYboWxy55uHJ7oUQjwWJl"
+        },
+        {
+          "name": "Deep Fried Dub",
+          "url": "https://open.spotify.com/artist/6ZMosuCoP5uGcPubpW9kQX"
+        },
+        {
+          "name": "Misled Convoy",
+          "url": "https://open.spotify.com/artist/7MBKunpbP0Iz8b9Wx1SSVu"
+        }
+      ],
+      "duration_ms": 378208,
+      "name": "Crown (Misled Convoy's Shadows of Humanity Remix)",
+      "url": "https://open.spotify.com/track/7IH90Vxc2w4J9uGMVnwm9n"
+    },
+    {
+      "added_at": "2026-04-10 08:53:53",
+      "album": {
+        "name": "Odyssey",
+        "url": "https://open.spotify.com/album/3zeVxRjNVV2l4cUMgTMNfy"
+      },
+      "artists": [
+        {
+          "name": "ARBN",
+          "url": "https://open.spotify.com/artist/1nVYJWThC8pLbjdniuPSfE"
+        }
+      ],
+      "duration_ms": 182919,
+      "name": "Odyssey",
+      "url": "https://open.spotify.com/track/1nwjUYSbzhN050UZGEzHzE"
+    },
+    {
+      "added_at": "2026-04-10 11:50:01",
+      "album": {
+        "name": "In the Mood",
+        "url": "https://open.spotify.com/album/7roJ1tKgqS4cd7YrEewO0b"
+      },
+      "artists": [
+        {
+          "name": "Alex Gabriel",
+          "url": "https://open.spotify.com/artist/42d97fn8MuX8haj1vzuWeH"
+        }
+      ],
+      "duration_ms": 214934,
+      "name": "The Only One",
+      "url": "https://open.spotify.com/track/1FIa3ox06ehPePdtqDkPdT"
+    },
+    {
+      "added_at": "2026-04-10 12:43:04",
+      "album": {
+        "name": "\u0642\u0648\u0644\u064a \u0644\u064a\u0629 ( \u0627\u0644\u0633\u0643\u0629 \u0636\u0627\u0642\u062a )",
+        "url": "https://open.spotify.com/album/4a62YKi3au42STNxvedOZl"
+      },
+      "artists": [
+        {
+          "name": "AFROTO Beats",
+          "url": "https://open.spotify.com/artist/3nCLSI5jV4qNit9F2hgrq0"
+        },
+        {
+          "name": "Super Mono",
+          "url": "https://open.spotify.com/artist/76VzYrqb4WDRVNBimbYsWt"
+        },
+        {
+          "name": "Ahmed M Farid",
+          "url": "https://open.spotify.com/artist/7I6twl0w4JIsFe7howLGLk"
+        }
+      ],
+      "duration_ms": 227368,
+      "name": "\u0642\u0648\u0644\u064a \u0644\u064a\u0629 ( \u0627\u0644\u0633\u0643\u0629 \u0636\u0627\u0642\u062a )",
+      "url": "https://open.spotify.com/track/09SbdmnCu4cyMrrBynK5M5"
+    },
+    {
+      "added_at": "2026-04-10 22:19:44",
+      "album": {
+        "name": "Ese 50 por Ciento de T\u00ed",
+        "url": "https://open.spotify.com/album/47apSpjxWLbQqeo0xZqfFQ"
+      },
+      "artists": [
+        {
+          "name": "BORDONADO",
+          "url": "https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl"
+        }
+      ],
+      "duration_ms": 203103,
+      "name": "Ese 50 por Ciento de T\u00ed",
+      "url": "https://open.spotify.com/track/3zd6Dwc501K5MpMsGHfXkh"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

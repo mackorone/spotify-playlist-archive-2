@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-24",
-  "description": "Lo m\u00e1s fresco de los corridones. Lencho en portada.",
+  "description": "Lo m\u00e1s fresco de los corridones. Grupo Feroz, Panter B\u00e9lico en portada.",
   "name": "Corridos 2026",
   "tracks": [
     {
@@ -1040,7 +1040,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 168601,
       "name": "AFTERLIFE",
       "url": "https://open.spotify.com/track/6GGhD1IyPluXefBT0n3K6F"
@@ -1286,7 +1286,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 128160,
       "name": "AL CHILE SIM\u00d3N",
       "url": "https://open.spotify.com/track/6DC5UOFt6kqD6gcUHbycN1"
@@ -3058,7 +3058,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 169812,
       "name": "Belicos Nacimos Belicos Morimos",
       "url": "https://open.spotify.com/track/0MEq28TsjQqxsCMwLHWv93"
@@ -4248,7 +4248,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 155623,
       "name": "Caribe",
       "url": "https://open.spotify.com/track/0CtmeTw0vODT6pDLUY2Jcm"
@@ -4796,7 +4796,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 160165,
       "name": "Chiclona",
       "url": "https://open.spotify.com/track/0Gfj3PJYYEXmhV0Qla5HQc"
@@ -5180,6 +5180,24 @@
       "duration_ms": 160000,
       "name": "CLN",
       "url": "https://open.spotify.com/track/10hlkW8KoA1yCfi5vCdfMj"
+    },
+    {
+      "album": {
+        "name": "Coco Psycho",
+        "url": "https://open.spotify.com/album/3GD1iucHzV8HajO7H7hlp6"
+      },
+      "artists": [
+        {
+          "name": "Javier Arvayo",
+          "url": "https://open.spotify.com/artist/0td9IOgiffWGMbcz3xKy0s"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128976,
+      "name": "Coco Psycho",
+      "url": "https://open.spotify.com/track/1cHymaeuE7kkVdzgFZHi8I"
     },
     {
       "album": {
@@ -6528,6 +6546,24 @@
       "duration_ms": 187402,
       "name": "De la Calle Graduado",
       "url": "https://open.spotify.com/track/7BohzfINUZAuv0m1o1xA1u"
+    },
+    {
+      "album": {
+        "name": "De La H Pa' La Costa",
+        "url": "https://open.spotify.com/album/1b87x7ObNQkxbFm20JO8BB"
+      },
+      "artists": [
+        {
+          "name": "Junior Corral",
+          "url": "https://open.spotify.com/artist/143oyZiKl5gMeepoju0JCk"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174854,
+      "name": "De La H Pa' La Costa",
+      "url": "https://open.spotify.com/track/2DBGsUrIH2h8NcUCbK625e"
     },
     {
       "album": {
@@ -9165,6 +9201,24 @@
     },
     {
       "album": {
+        "name": "El Chaparrito (En Vivo)",
+        "url": "https://open.spotify.com/album/0iNZaJRoGdHiDGv1f4DtON"
+      },
+      "artists": [
+        {
+          "name": "Grupo Redenza",
+          "url": "https://open.spotify.com/artist/7kj5eFTjWrZ6F7RLuHiUNq"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152093,
+      "name": "El Chaparrito - En Vivo",
+      "url": "https://open.spotify.com/track/6jER67dJrBO0YBYQUHDhzG"
+    },
+    {
+      "album": {
         "name": "Corridos En C\u00f3digo",
         "url": "https://open.spotify.com/album/1FIGxgFVretC2yAZ1pHKWO"
       },
@@ -11621,6 +11675,24 @@
     },
     {
       "album": {
+        "name": "El Guero Colorado",
+        "url": "https://open.spotify.com/album/3r66n3lmdxzRqT0OGVFdIy"
+      },
+      "artists": [
+        {
+          "name": "Elio Vega",
+          "url": "https://open.spotify.com/artist/0az1vVK6kjKKXDWribb5Cg"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225266,
+      "name": "El Guero Colorado",
+      "url": "https://open.spotify.com/track/3Y1VKqAPBMlaXLh2Sww2Ws"
+    },
+    {
+      "album": {
         "name": "Al Gusto de Uno",
         "url": "https://open.spotify.com/album/1BUH194MsemjacjDtbp8Eg"
       },
@@ -13456,6 +13528,24 @@
       "duration_ms": 157966,
       "name": "El Panu (En Vivo)",
       "url": "https://open.spotify.com/track/0W1ifaL01aXznVi6ZhMWir"
+    },
+    {
+      "album": {
+        "name": "El Papas",
+        "url": "https://open.spotify.com/album/3QKK57lgYMlru6GIer4ZML"
+      },
+      "artists": [
+        {
+          "name": "Gibran Sarabia",
+          "url": "https://open.spotify.com/artist/3rSmNZH0wZ8oFzdHk9ihTS"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227840,
+      "name": "El Papas",
+      "url": "https://open.spotify.com/track/2fOhQ8n9NxThHCQV4tbjKz"
     },
     {
       "album": {
@@ -16374,7 +16464,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 190536,
       "name": "ESO SI ES DE GANGSTER",
       "url": "https://open.spotify.com/track/6BYbqI9bkD74ycmCcpwVe5"
@@ -16702,6 +16792,28 @@
       "duration_ms": 154800,
       "name": "Exotic\u00f3n",
       "url": "https://open.spotify.com/track/4CWhevCpcvuYoxOLV5Im8q"
+    },
+    {
+      "album": {
+        "name": "EXOTIC\u00d3N ll",
+        "url": "https://open.spotify.com/album/0QJThre1nco289eXG0qWw3"
+      },
+      "artists": [
+        {
+          "name": "Grupo Feroz",
+          "url": "https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r"
+        },
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131392,
+      "name": "EXOTIC\u00d3N ll",
+      "url": "https://open.spotify.com/track/3QLzh9cN6Gmq9hTbU4nx9D"
     },
     {
       "album": {
@@ -17610,7 +17722,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 165949,
       "name": "ganga",
       "url": "https://open.spotify.com/track/4rrGcaA4OqeNty6CXxnfz0"
@@ -23398,7 +23510,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 177621,
       "name": "Lo Pude Lograr",
       "url": "https://open.spotify.com/track/37QXxWqoyJLoWOo2SuO8q6"
@@ -23612,7 +23724,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 196392,
       "name": "Lonche",
       "url": "https://open.spotify.com/track/0km5abNBNuCMVGYDFYVqzQ"
@@ -23842,6 +23954,24 @@
       "duration_ms": 153480,
       "name": "Los Cuadros",
       "url": "https://open.spotify.com/track/6kfXiwhfIxhyzkLamTyb6h"
+    },
+    {
+      "album": {
+        "name": "En Vivo Desde La Cuadra, Vol.1",
+        "url": "https://open.spotify.com/album/44d0ReWJ2z8pTtk6b22uoB"
+      },
+      "artists": [
+        {
+          "name": "Grupo Cuadra",
+          "url": "https://open.spotify.com/artist/65R3oFgaTYkTgkseRlh1Xr"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186125,
+      "name": "Los Cuadros (En Vivo)",
+      "url": "https://open.spotify.com/track/7C2tv3mhtVvHrB3w1bSRN1"
     },
     {
       "album": {
@@ -24234,6 +24364,24 @@
       "duration_ms": 191266,
       "name": "Los Tiempos de Agua",
       "url": "https://open.spotify.com/track/1J1g4wP224oltJjLptOmam"
+    },
+    {
+      "album": {
+        "name": "Los Tigres Mandan",
+        "url": "https://open.spotify.com/album/28BsBvFs939RINPFNoGCjv"
+      },
+      "artists": [
+        {
+          "name": "Javier Arvayo",
+          "url": "https://open.spotify.com/artist/0td9IOgiffWGMbcz3xKy0s"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133269,
+      "name": "Los Tigres Mandan",
+      "url": "https://open.spotify.com/track/3Wxkij7oSwTMpMcIWlU0h8"
     },
     {
       "album": {
@@ -27258,7 +27406,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 286337,
       "name": "Ni El 20%",
       "url": "https://open.spotify.com/track/7aew9x5bCNEWYidohq6JNj"
@@ -27276,7 +27424,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 163800,
       "name": "Ni Que Fuera",
       "url": "https://open.spotify.com/track/7a0gnNjYofOgM3ROE0WIsF"
@@ -28682,7 +28830,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 164613,
       "name": "Pasito a Pasito",
       "url": "https://open.spotify.com/track/57BNfo1TVljv47AH3RU1FP"
@@ -29786,7 +29934,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 179657,
       "name": "Por Si Se Les Olvidaba - Remix",
       "url": "https://open.spotify.com/track/6zjOIxlIzfRwrGNueMSB49"
@@ -29976,7 +30124,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 173194,
       "name": "Presidente",
       "url": "https://open.spotify.com/track/6Z4qPuR1BdcDnobM4tYZTW"
@@ -31102,7 +31250,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 155255,
       "name": "Risk Takers",
       "url": "https://open.spotify.com/track/2Ina8OxEQ3knMzWFRz9imx"
@@ -31354,7 +31502,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 214147,
       "name": "SALI A BUSCARLE",
       "url": "https://open.spotify.com/track/4zaLk1MSnYHxIa75cW4TGr"
@@ -33940,7 +34088,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 134193,
       "name": "Terreno Tomatero - En Vivo",
       "url": "https://open.spotify.com/track/6BGvGgps0HPIbqWHBAXsmf"
@@ -33976,7 +34124,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 187948,
       "name": "TETRICO",
       "url": "https://open.spotify.com/track/5vVNAvx49iV38H7Nu244Kh"

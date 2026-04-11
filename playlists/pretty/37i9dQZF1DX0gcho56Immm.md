@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gcho56Immm.md) - [plain]
 
 > explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: A Good Year
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,404 likes - 153 songs - 8 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,456 likes - 153 songs - 8 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

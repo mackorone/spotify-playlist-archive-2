@@ -1,12 +1,12 @@
 {
   "description": "una guitarra y mucho sentimiento para cantar. Macario Mart\u00ednez en portada.",
-  "num_followers": 296788,
+  "num_followers": 296815,
   "original_name": "Folk Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOQkkT9UhqeiHKCpA8jxUePOUbj2",
+  "snapshot_id": "AAAAAIihzZQnhbgBk+h7dd+ohMWBSwKC",
   "tracks": [
     {
       "added_at": "2026-04-03 06:00:34",
@@ -23,6 +23,26 @@
       "duration_ms": 253344,
       "name": "valor de m\u00e1s",
       "url": "https://open.spotify.com/track/5rPLhpQWvIcxsO4M14Nf9G"
+    },
+    {
+      "added_at": "2026-04-10 06:00:48",
+      "album": {
+        "name": "Injusto - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/5vZ13fB8CvXLBIpFTFPLkE"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "duration_ms": 284336,
+      "name": "Injusto - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/10nKyJBzqs6RqvBGxZpcbd"
     },
     {
       "added_at": "2026-04-03 06:00:34",
@@ -819,26 +839,6 @@
       "duration_ms": 179071,
       "name": "Amar",
       "url": "https://open.spotify.com/track/55lkRONUdhDT87IbTuJKXN"
-    },
-    {
-      "added_at": "2026-04-03 06:00:34",
-      "album": {
-        "name": "Morena",
-        "url": "https://open.spotify.com/album/5Tf8Nc0Gngp8H4dPJLhbqR"
-      },
-      "artists": [
-        {
-          "name": "Walter Esa\u00fa",
-          "url": "https://open.spotify.com/artist/2BaF574aVsGeAtcUgrzeV5"
-        },
-        {
-          "name": "Las Nieves de Enero",
-          "url": "https://open.spotify.com/artist/7wejxsQiQxb3EuqdG5XkYA"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "Morena",
-      "url": "https://open.spotify.com/track/6BGFzUmch7fHcZgtzLfoyS"
     },
     {
       "added_at": "2026-04-03 06:00:34",

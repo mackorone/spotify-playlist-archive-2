@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,205 songs - 9 day 8 hr 2 min
+4,207 songs - 9 day 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Above the Clouds](https://open.spotify.com/track/0dYML7ZLo5mPXJozCYXzuu) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [I Keep Standing Above the Clouds](https://open.spotify.com/album/0qIKPUfjZ7EJ1d8G7URaZc) | 3:07 | 2025-05-09 |  |
 | [Abuse Me](https://open.spotify.com/track/6pXlghlS89h0rKaOTFV6MD) | [Noiz Ritual](https://open.spotify.com/artist/2RQ8ipqWpztVcqcT5iz0e6) | [Abuse Me](https://open.spotify.com/album/4mUsCsrkgTdmleGkxP8EH1) | 3:24 | 2025-04-28 |  |
 | [Abyss](https://open.spotify.com/track/0fyKFUg509xw3fs9rJJCFy) | [Dalila Kayros](https://open.spotify.com/artist/3KNlPVoadiJ2FDS9w77c2a), [Danilo Casti](https://open.spotify.com/artist/4cwtoUMOgzMYMQZ6VhGQlA) | [Animami](https://open.spotify.com/album/6hsdhNE7WKxiHdRQP54UwB) | 2:48 | 2025-12-04 |  |
+| [Abyss](https://open.spotify.com/track/1a1aKkuMpS40ClyL1HEgRq) | [Moonlight Wild](https://open.spotify.com/artist/4YGuNsct1wczluINOR0VXz) | [Abyss](https://open.spotify.com/album/3EQpjJI7oJbsfFDw2wR84B) | 5:00 | 2026-04-10 |  |
 | [Accetto tutto](https://open.spotify.com/track/7jo4zRfObOQ1hRpMyt1Qgp) | [Sorge](https://open.spotify.com/artist/3yxC2L5TpTDaGR8zK9yDSZ) | [La guerra di domani](https://open.spotify.com/album/0d79Nqcl43oF3I5VhLb1Em) | 4:00 | 2025-11-12 |  |
 | [Ada](https://open.spotify.com/track/7ADfAfJQ3wMrFUqTi2BlWp) | [Andrea Pizzo](https://open.spotify.com/artist/7EVlN5lRqIfrLnVRoCEu9Q), [Silvia Criscenzo](https://open.spotify.com/artist/2SQ9c93eTJgZdHDN8Kmej3) | [Ada \(featuring Silvia Criscenzo\)](https://open.spotify.com/album/48s2lj6AckGnp8EJa2GKzb) | 4:18 | 2025-06-24 |  |
 | [Addictive Beat](https://open.spotify.com/track/4aIw1SbA0beVPJ2Bjsu76g) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Addictive Pop](https://open.spotify.com/album/31BLqQI2Fuq0nTlBzmDUx4) | 2:31 | 2025-09-18 |  |
@@ -4181,6 +4182,7 @@
 | [Дороги снегом замело](https://open.spotify.com/track/74xgU9bqvu9nbvzhkLmZkU) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Космос](https://open.spotify.com/album/2jcE7I4Mqs4iGeY9PL3yRZ) | 2:59 | 2026-03-31 |  |
 | [Дороги снегом замело...](https://open.spotify.com/track/3jST45CWJr4yZPPfWNhap4) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Дороги снегом замело...](https://open.spotify.com/album/2pTVHLJ4wxSOWXshqJE2nX) | 2:59 | 2025-11-15 |  |
 | [Космос ждёт!](https://open.spotify.com/track/0JPFXFDmQcoixLEcniPbsx) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Космос](https://open.spotify.com/album/2jcE7I4Mqs4iGeY9PL3yRZ) | 4:44 | 2026-02-23 |  |
+| [Космос ждёт!](https://open.spotify.com/track/3eI5TOZVCiR9F1UGgBunrq) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Космос ждёт!](https://open.spotify.com/album/3aEUPND51PH4Kw466Tw49M) | 4:44 | 2026-04-10 |  |
 | [Люблю](https://open.spotify.com/track/5OFLs1NK4P9CTwwH2P0rKY) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Люблю](https://open.spotify.com/album/3YJO7rlQMviBQRxqMCUtx9) | 3:41 | 2025-05-15 |  |
 | [Мы зарастаем серебром](https://open.spotify.com/track/2cAg7yZkWtjCjR67hOnIAZ) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Мы зарастаем серебром](https://open.spotify.com/album/4lgfLNI3kUVQK8h4SlVepm) | 3:52 | 2025-05-22 |  |
 | [Мы зарастаем серебром](https://open.spotify.com/track/06xsD60yZKOhSoQzFBRnzT) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Космос](https://open.spotify.com/album/2jcE7I4Mqs4iGeY9PL3yRZ) | 4:05 | 2025-11-16 |  |

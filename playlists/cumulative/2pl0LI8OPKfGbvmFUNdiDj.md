@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-414 songs - 23 hr 16 min
+415 songs - 23 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,6 +205,7 @@
 | [Kick It Up!](https://open.spotify.com/track/2bfz9V3I3qeS4LPpH69M0i) | [Surrounded by Spiders](https://open.spotify.com/artist/2Sr0bSlexNwK35NfqoaVIb) | [Kick It Up!](https://open.spotify.com/album/0WRK6ZmshiLHNN24ulWCqR) | 3:19 | 2025-10-19 | 2026-01-05 |
 | [Kick the Brakes off \(Now We're Rollin'\)](https://open.spotify.com/track/5xLzOesLZtjVCRxl2idsAG) | [Mat Partridge](https://open.spotify.com/artist/4PFTJXMdTx6k7qPUVfv6jy) | [Parts Per Million](https://open.spotify.com/album/47REl1ObbB95GBWz5CoQOk) | 4:59 | 2025-12-30 | 2026-01-25 |
 | [Kisses On The Lips](https://open.spotify.com/track/3jrhLw4fhfPi9g4KN4k9i7) | [Nicolust](https://open.spotify.com/artist/0uZVCERmBAm9C9PWvbIwlb) | [Kisses On The Lips](https://open.spotify.com/album/6hxvNG9uKUhwjn0QdOrW7G) | 4:45 | 2025-11-17 | 2026-01-05 |
+| [Kissing Strangers!](https://open.spotify.com/track/1PUtLs4AITjN1eHjz28G2j) | [Eryka Gray](https://open.spotify.com/artist/3oZefojpA0igBXqOGJ5QFU) | [Kissing Strangers!](https://open.spotify.com/album/4O2JMoZxhhFJ4pUu1laJbB) | 3:21 | 2026-04-10 |  |
 | [L'été](https://open.spotify.com/track/1QCUwsbi0gzZjZWbBTfvNS) | [ToloV](https://open.spotify.com/artist/4t3awapuIDzb4fGOMWR35Q) | [L'été](https://open.spotify.com/album/2Sc22SbioaEC7xBfK94JUc) | 3:58 | 2026-02-08 | 2026-03-03 |
 | [LA CORREA](https://open.spotify.com/track/6crvVYcGro1Ewukvm98AL0) | [Hugo Serrano](https://open.spotify.com/artist/2CdZKr2ePuktdkB8BZwrWj) | [HALLOWEEN](https://open.spotify.com/album/2q0gSWqA5rgVqAnXVTTAwj) | 2:18 | 2025-11-01 | 2025-12-01 |
 | [Last Goodbye](https://open.spotify.com/track/5SdEoelq5gFFHzpxGeqi1W) | [Softcase](https://open.spotify.com/artist/2nqXZfwOxBVcKjVa7pYdC8) | [Last Goodbye](https://open.spotify.com/album/52T9LF5wyA24Vz0qI7C5SE) | 3:17 | 2026-02-28 |  |

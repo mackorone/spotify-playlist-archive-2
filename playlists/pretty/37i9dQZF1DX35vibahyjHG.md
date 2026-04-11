@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35vibahyjHG.md) - [plain]
 
 > Celebrating 5 Years of EQUAL in Africa\. <br/>Cover: <a href="https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4?si=dAgHMk4cSX\-4\-npaqAhRRg">DEELA</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,074 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,092 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35vibahyjHG.md) - [plain]
 | 49 | [Aileyipada](https://open.spotify.com/track/6Z2Sw0GZBbd3GV2sJqvJQh) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Aileyipada](https://open.spotify.com/album/3MDrP7aNKnKSQH3bISBhja) | 6:35 |
 | 50 | [SUKA \(feat\. Nandipha808, Ceeka RSA\)](https://open.spotify.com/track/4AEaQ0V4eS7KZfbUbKdg2G) | [Khanyisa](https://open.spotify.com/artist/5Sgtj9tFA2TAYXDeh1sJTc), [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4), [Ceeka RSA](https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY), [Nandipha808](https://open.spotify.com/artist/3hw14sG4z2GSidk66In1eW) | [SUKA \(feat\. Nandipha808, Ceeka RSA\)](https://open.spotify.com/album/6B1oy715o5ClrpDb2t5I5L) | 6:30 |
 
-Snapshot ID: `AAAAAB9LMe6NJh1PCQWhUcXptvfGW4JK`
+Snapshot ID: `AAAAADCb3JZdaRQJAButwL/i0M9xhDKn`

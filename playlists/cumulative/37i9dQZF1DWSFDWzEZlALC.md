@@ -4,7 +4,7 @@
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: herr ulrich
 
-1,712 songs - 3 day 8 hr 49 min
+1,712 songs - 3 day 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -728,6 +728,7 @@
 | [Ich wär so gern gelenkiger](https://open.spotify.com/track/3gbdZHpBXhe7u5YWyEWAdN) | [Blond](https://open.spotify.com/artist/4WnfD0e5J91W7zyHBK6svA) | [Ich wär so gern gelenkiger](https://open.spotify.com/album/2m2VQjAMSBDFObPafvuAjy) | 3:12 | 2025-05-08 | 2025-05-23 |
 | [idc](https://open.spotify.com/track/6kHgwf0WtGsUa7nJfz57Z0) | [Keule](https://open.spotify.com/artist/4YAtpT87My3LTvpLWWvG3Y) | [ein blick in mein kopf](https://open.spotify.com/album/5uO8yrLtqRLkk9MzsWrH6z) | 2:17 | 2024-01-25 | 2024-02-09 |
 | [IDGAF](https://open.spotify.com/track/5tv97DXj6v30wMa30SsA3p) | [fiio](https://open.spotify.com/artist/5ry3g4hY2cILXJqqXIUIqZ) | [IDGAF](https://open.spotify.com/album/06uYdWI6Pho5YSKGuwf27b) | 2:38 | 2023-10-05 | 2023-10-27 |
+| [Ikarus](https://open.spotify.com/track/4yo4fDAQnu4g39mh1Ro4W4) | [JOPPE](https://open.spotify.com/artist/32SGyqDBvd9HrVhL3ulIvE) | [Und die Vögel singen für mich](https://open.spotify.com/album/7litAY1tukgg6qKUEZBPDM) | 3:19 | 2026-04-09 |  |
 | [Im Loop](https://open.spotify.com/track/5YWkLb7ffoZ9miA7pFQWnZ) | [Trettmann](https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4), [KitschKrieg](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Bilderbuch](https://open.spotify.com/artist/2ErWLckuGFl84nGmg5fwyG), [SFR](https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr) | [Insomnia](https://open.spotify.com/album/0SZdIldsAOSd4VxNMQ90S6) | 2:43 | 2023-03-16 | 2023-03-31 |
 | [Im Walzerschritt Fahrradfahren](https://open.spotify.com/track/7DxjsdLPvzWgScr1XggOBe) | [Marlo Grosshardt](https://open.spotify.com/artist/0oUy6JfoeDteAPMDi1lNJo) | [Im Walzerschritt Fahrradfahren](https://open.spotify.com/album/6rL2esEZkbzqSWZAgqWqgB) | 3:41 | 2023-02-02 | 2023-03-25 |
 | [IMMATRIKULATIONSBESCHEINIGUNG](https://open.spotify.com/track/48zyGIIHjQF5AKAE6XrjdI) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [wild](https://open.spotify.com/album/59TeYgcvJBSNAU8W4yCEJ8) | 2:28 | 2026-03-26 |  |
@@ -1449,7 +1450,6 @@
 | [Tommy Coconut](https://open.spotify.com/track/1KvOCjy58FvriaXSiksZt8) | [Kobrakasino](https://open.spotify.com/artist/2MG7B6nkAdghlcsmSs5DNb) | [Tommy Coconut](https://open.spotify.com/album/6C05tWBeO5QXisbDXuRD0e) | 3:30 | 2024-06-20 | 2024-06-28 |
 | [Toskana](https://open.spotify.com/track/5NOoDGg7oeM9MS7nTyM4Yf) | [Ottolien](https://open.spotify.com/artist/6tzzvlOZtxLiD4OkowLXDA) | [Toskana](https://open.spotify.com/album/0BmFwlbQWwHuW8E3w2sXCj) | 3:32 | 2023-05-04 | 2023-06-16 |
 | [Tourrettes](https://open.spotify.com/track/5jADtrXb3KgF9zqt4tuZqO) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Tourrettes](https://open.spotify.com/album/1idtQekpXjddMFkPnjKyhk) | 2:48 | 2023-09-14 | 2023-11-03 |
-| [Track 3](https://open.spotify.com/track/4yo4fDAQnu4g39mh1Ro4W4) | [JOPPE](https://open.spotify.com/artist/32SGyqDBvd9HrVhL3ulIvE) | [Und die Vögel singen für mich](https://open.spotify.com/album/7litAY1tukgg6qKUEZBPDM) | 0:00 | 2026-04-09 |  |
 | [trauen](https://open.spotify.com/track/15v71BkQIpxgW5vY2ernwh) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [trauen](https://open.spotify.com/album/1chQKL06AdfzCwZBCX68Po) | 2:44 | 2024-08-08 | 2024-09-27 |
 | [Traum ist aus](https://open.spotify.com/track/71ZsOjTSC8MK9pitl0qIxC) | [Soeckers](https://open.spotify.com/artist/4j0b9F7NBQoDhqmJ39Se12) | [Bis nach Tokio](https://open.spotify.com/album/7D06xfmZigrbyaCKQOq56v) | 2:48 | 2024-05-23 | 2024-06-07 |
 | [Traumfrau](https://open.spotify.com/track/56Xl3GghpULu6GUeKnUkwq) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS), [Cato](https://open.spotify.com/artist/5Qa6L42X3G6sXrWvYvxGOc) | [Traumfrau](https://open.spotify.com/album/0UTRKkM5FlbYi3xJVkV1Fc) | 2:11 | 2025-02-13 | 2025-02-15 |

@@ -1293,6 +1293,24 @@
     },
     {
       "album": {
+        "name": "AMANECIENDO",
+        "url": "https://open.spotify.com/album/3zSkYd6Lv6S7zn1sFDXbXq"
+      },
+      "artists": [
+        {
+          "name": "Tommy Boysen",
+          "url": "https://open.spotify.com/artist/0wWmUneAuhQn9L3qibj5UO"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174683,
+      "name": "AMANECIENDO",
+      "url": "https://open.spotify.com/track/6UTEJY0rd0eXYcw1y9JwF1"
+    },
+    {
+      "album": {
         "name": "Amarillaste",
         "url": "https://open.spotify.com/album/1WySFOSMpSq1UgjecGcMza"
       },
@@ -2294,7 +2312,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 143236,
       "name": "Baila Para Mi",
       "url": "https://open.spotify.com/track/2a2RrAoCSL0kj1145MHGVE"
@@ -2528,7 +2546,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 147666,
       "name": "Bandidaje",
       "url": "https://open.spotify.com/track/3gnpxzhfWuaRQw66ZbBA7m"
@@ -3872,6 +3890,28 @@
       "duration_ms": 191142,
       "name": "Chamaka",
       "url": "https://open.spotify.com/track/5WIKEk7jt3UqKcAMni2Szl"
+    },
+    {
+      "album": {
+        "name": "Champagne",
+        "url": "https://open.spotify.com/album/5nvAmigI5z2cX4sPHQKcMo"
+      },
+      "artists": [
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        },
+        {
+          "name": "Katteyes",
+          "url": "https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Champagne",
+      "url": "https://open.spotify.com/track/5aBwePfpyOTeb3VMhwZFyb"
     },
     {
       "album": {
@@ -13244,7 +13284,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 136421,
       "name": "Me Desconoces",
       "url": "https://open.spotify.com/track/60S9PoyWb2MbRP0xNk4U2E"
@@ -17283,6 +17323,28 @@
     },
     {
       "album": {
+        "name": "PATEK PHILIPPE",
+        "url": "https://open.spotify.com/album/0k60ybZnUaeIBC5G608WwN"
+      },
+      "artists": [
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        },
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127058,
+      "name": "PATEK PHILIPPE",
+      "url": "https://open.spotify.com/track/1jpSKAbos8TonoqKcTQ8Zh"
+    },
+    {
+      "album": {
         "name": "Pa\u2019 Ser Infiel",
         "url": "https://open.spotify.com/album/5XRl2V9TXXNbnGXvo09Ux8"
       },
@@ -17516,6 +17578,24 @@
       "duration_ms": 193043,
       "name": "Pensandote",
       "url": "https://open.spotify.com/track/0km3c8Qiwi9kicTSTt9Ld1"
+    },
+    {
+      "album": {
+        "name": "Percocets",
+        "url": "https://open.spotify.com/album/4cG4vWaBtwQeqttqVMwh9x"
+      },
+      "artists": [
+        {
+          "name": "GUNTTER",
+          "url": "https://open.spotify.com/artist/3psizJPIbIEEctInvdWSZk"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160161,
+      "name": "Percocets",
+      "url": "https://open.spotify.com/track/0xR6txdRVNppk5iHHunuYk"
     },
     {
       "album": {
@@ -23026,7 +23106,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 122038,
       "name": "Tokyo",
       "url": "https://open.spotify.com/track/51NxttUwi9h1txyWudssHE"

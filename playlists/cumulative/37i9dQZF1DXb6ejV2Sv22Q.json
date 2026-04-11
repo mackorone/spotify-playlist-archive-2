@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-18",
-  "description": "aqu\u00ed est\u00e1 la nueva ola \ud83c\udf0a  GRLS en cover ",
+  "description": "aqu\u00ed est\u00e1 la nueva ola \ud83c\udf0a  FREEKIDS en cover ",
   "name": "neo m\u00e9xico ",
   "tracks": [
     {
@@ -1704,7 +1704,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 182000,
       "name": "cari\u00f1o",
       "url": "https://open.spotify.com/track/4R8grinJeW7qnUxpoMx3CI"
@@ -1838,7 +1838,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 192000,
       "name": "Cenicero",
       "url": "https://open.spotify.com/track/7zUFhXRcQ9CiswkoiSGnZ9"
@@ -4125,6 +4125,24 @@
     },
     {
       "album": {
+        "name": "Hiriku",
+        "url": "https://open.spotify.com/album/5iCpQEhgW3yZNO7Dm2Ztxg"
+      },
+      "artists": [
+        {
+          "name": "Diles que no me maten",
+          "url": "https://open.spotify.com/artist/22Gr8D6d3DlHfUYjbqtIev"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224625,
+      "name": "Hiriku",
+      "url": "https://open.spotify.com/track/2n2vYzw8r1ZIaBfgCg4X1a"
+    },
+    {
+      "album": {
         "name": "Ya no quiero quererte",
         "url": "https://open.spotify.com/album/5kydA38VJT7FC4ena12GQa"
       },
@@ -5268,7 +5286,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 204146,
       "name": "Lakettakontamin0",
       "url": "https://open.spotify.com/track/2XKwer8e3RzzgZb1tLcpr9"
@@ -6445,6 +6463,24 @@
     },
     {
       "album": {
+        "name": "Motorizado (dime as\u00ed)",
+        "url": "https://open.spotify.com/album/3QPgo6rQUtD42arDl3FHFX"
+      },
+      "artists": [
+        {
+          "name": "RPLK",
+          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182564,
+      "name": "Motorizado (dime as\u00ed)",
+      "url": "https://open.spotify.com/track/4PupcpDxPP34zS2J2y2quX"
+    },
+    {
+      "album": {
         "name": "Mr. Wells",
         "url": "https://open.spotify.com/album/270OSQn41T2ghmNR2fn98e"
       },
@@ -7356,7 +7392,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 181512,
       "name": "Olas",
       "url": "https://open.spotify.com/track/0loQ1Bo9CsuNrXkFt5eSqB"
@@ -7982,6 +8018,24 @@
       "duration_ms": 218181,
       "name": "Pr\u00e9stame Atenci\u00f3n",
       "url": "https://open.spotify.com/track/11kWIQoG783213iBZsf4MV"
+    },
+    {
+      "album": {
+        "name": "puede ser que ma\u00f1ana",
+        "url": "https://open.spotify.com/album/72dQTdU4eSEjraSXzXNc9A"
+      },
+      "artists": [
+        {
+          "name": "FREEKIDS",
+          "url": "https://open.spotify.com/artist/60FYZ0x5u10Z9oTq6hJW7j"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170204,
+      "name": "puede ser que ma\u00f1ana",
+      "url": "https://open.spotify.com/track/04JyEAMKSbbaYePxUxl2ko"
     },
     {
       "album": {
@@ -9544,6 +9598,24 @@
       "duration_ms": 188275,
       "name": "sustancia",
       "url": "https://open.spotify.com/track/7nkmbTY5N5ORTHEm4NfGxa"
+    },
+    {
+      "album": {
+        "name": "T.V ADDICT (nitro)",
+        "url": "https://open.spotify.com/album/727LHY7Z8C6n1S9qbbxbnJ"
+      },
+      "artists": [
+        {
+          "name": "GRLS",
+          "url": "https://open.spotify.com/artist/6hH7QHJ88Vy6KKiWANlIam"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233015,
+      "name": "sustancia (club)",
+      "url": "https://open.spotify.com/track/6ixHf49fWUB35ygAEZpjAL"
     },
     {
       "album": {

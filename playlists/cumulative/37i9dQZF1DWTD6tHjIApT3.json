@@ -45207,6 +45207,24 @@
     },
     {
       "album": {
+        "name": "\u3072\u3068\u5319",
+        "url": "https://open.spotify.com/album/5WqkaG4lV9a2OwpkweWQWj"
+      },
+      "artists": [
+        {
+          "name": "Ai Higuchi",
+          "url": "https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261452,
+      "name": "\u3072\u3068\u5319",
+      "url": "https://open.spotify.com/track/0EER0gGCZy5dKVl9K0t79M"
+    },
+    {
+      "album": {
         "name": "\u3072\u3081\u3059\u304e\u308b",
         "url": "https://open.spotify.com/album/5cNHm1M6F9cFGOx7uWvKw4"
       },
@@ -58226,7 +58244,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 183639,
       "name": "\u591c\u52e4\u4e8b\u4ef6",
       "url": "https://open.spotify.com/track/1pkWJApP1hMtOTSrIaO15i"
@@ -66674,7 +66692,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 238600,
       "name": "\u7dba\u9e97\u3002",
       "url": "https://open.spotify.com/track/5tGxsmCBJDF6PCx9Wv1KPF"
@@ -68072,6 +68090,24 @@
       "duration_ms": 281800,
       "name": "\u8a71\u305d\u3046\u3088",
       "url": "https://open.spotify.com/track/5krzanEBYGoaU8uB7BhRmU"
+    },
+    {
+      "album": {
+        "name": "\u8a93\u3044",
+        "url": "https://open.spotify.com/album/2BfQoqurhfR2skJnkSGgJ0"
+      },
+      "artists": [
+        {
+          "name": "Leina",
+          "url": "https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176714,
+      "name": "\u8a93\u3044",
+      "url": "https://open.spotify.com/track/1kqnheKpPlIdM5gWyhHoiV"
     },
     {
       "album": {

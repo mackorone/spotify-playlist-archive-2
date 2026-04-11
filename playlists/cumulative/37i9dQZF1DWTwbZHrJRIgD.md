@@ -4,7 +4,7 @@
 
 > Bright, sunny, catchy tunes put a smile on your face\. Cover \- Tu Jhoothi Main Makkaar
 
-350 songs - 21 hr 2 min
+351 songs - 21 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [Jaane Kyun](https://open.spotify.com/track/6M2UnI1LnXuXlWU54CKmKx) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k) | [Dostana \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4MzefJUmigFTnjful2wuum) | 4:37 | 2023-02-20 |  |
 | [Jaane Kyun \(From "Dostana"\)](https://open.spotify.com/track/4w90JoFrkoYfxe4S8DWD7T) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k) | [Best of Me Vishal Shekhar](https://open.spotify.com/album/6uxRlKbjePj7hvCiHV5y3k) | 4:37 | 2022-03-09 | 2023-02-21 |
 | [jaanu na](https://open.spotify.com/track/7C0IvBW7ZTk0cyyQQid44w) | [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP) | [jaanu na](https://open.spotify.com/album/7rnZFaD0VEQZ5CcbjiNm4h) | 2:40 | 2023-10-13 | 2023-11-18 |
+| [Jab Talak \(Teaser\) \- From “Cocktail 2”](https://open.spotify.com/track/4iVBj5uRWR4vjO9o1EXTCT) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [AKASA](https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Jab Talak \(Teaser\) \[From “Cocktail 2”\]](https://open.spotify.com/album/6Z1qiaaZEyQd8gToNV4P8T) | 1:38 | 2026-04-10 |  |
 | [Jachdi](https://open.spotify.com/track/63Pq2D8qRj3wTIZX5GavO6) | [Ayushmann Khurrana](https://open.spotify.com/artist/7qHsapL39aTQsPhixtzVvy) | [Jachdi](https://open.spotify.com/album/4VweEzgYbbH7g43IRLz597) | 1:59 | 2024-10-01 | 2024-10-26 |
 | [Janiye \(from the Netflix Film "Chor Nikal Ke Bhaga"\)](https://open.spotify.com/track/0645eBDehHcqfiF15hscQV) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J) | [Janiye \(from the Netflix Film "Chor Nikal Ke Bhaga"\)](https://open.spotify.com/album/0kZKLq2WZQWvXvbxvK6YoC) | 3:43 | 2023-07-20 |  |
 | [Jeeja](https://open.spotify.com/track/31DFOzgOdnouxpEMkGxqLj) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Jeeja](https://open.spotify.com/album/67f7Y1eC1AJkYAO4rBiJlz) | 3:01 | 2024-07-18 | 2024-10-02 |
@@ -357,6 +358,6 @@
 | [Zinda Dili 2.0](https://open.spotify.com/track/5RPa4SX7owbixtbigFPcJZ) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Anshuman Sharma](https://open.spotify.com/artist/3rNr8T39bUi3dYfiqffp8w) | [Zinda Dili 2.0](https://open.spotify.com/album/6tGKLoPQFiuTbRS43Kuvd7) | 4:24 | 2023-05-24 | 2023-07-21 |
 | [Zindagi Aa Raha Hoon Main](https://open.spotify.com/track/2I2NQ6nvVLKRHya5iB0rEB) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Amaal Mallik](https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6) | [Zindagi Aa Raha Hoon Main](https://open.spotify.com/album/5MpTGWKK2LOba6aLCXVKrr) | 4:47 | 2022-03-09 | 2023-05-19 |
 | [Zohra Jabeen \- From "Sikandar"](https://open.spotify.com/track/1pVJyIxjpPRNd8fwLjjETD) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Dev Negi](https://open.spotify.com/artist/04FsFHujpuqonrPXZrEJlK), [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB), [Mellow D](https://open.spotify.com/artist/7tH8oZj2nLERlp2hE5QNjp), [Danish Sabri](https://open.spotify.com/artist/1d1zBysvyutA5en7DZnvJW), [Sameer Anjaan](https://open.spotify.com/artist/5sifufajls8Q6k04Y4F8mH) | [Zohra Jabeen \(From "Sikandar"\)](https://open.spotify.com/album/5UtOUjIeRX348WaJiwFE9P) | 3:24 | 2025-03-04 | 2025-04-25 |
-| [Zoobi Doobi](https://open.spotify.com/track/5Sb1gWmNRelFDAMb6eiriW) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [3 Idiots](https://open.spotify.com/album/5RpLgeHQA69nLrBzxELRxP) | 4:06 | 2025-01-30 |  |
+| [Zoobi Doobi](https://open.spotify.com/track/5Sb1gWmNRelFDAMb6eiriW) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [3 Idiots](https://open.spotify.com/album/5RpLgeHQA69nLrBzxELRxP) | 4:06 | 2025-01-30 | 2026-04-11 |
 
 \*This playlist was first scraped on 2022-04-30. Prior content cannot be recovered.

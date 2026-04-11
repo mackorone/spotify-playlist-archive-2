@@ -4,7 +4,7 @@
 
 > The best tracks in downtempo &amp; chill, curated by Anjuna\. Perfect for studying, meditating &amp; relaxing.
 
-409 songs - 1 day 2 hr 15 min
+410 songs - 1 day 2 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Anywhere \(Road Trippin'\) \- Unplugged](https://open.spotify.com/track/3Q6Cvq1CCuReYxcjz2M5yi) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi) | [Beautiful World Field Notes: Unplugged](https://open.spotify.com/album/5W85KtB6tOmqxVJEUD8z8M) | 3:52 | 2024-05-23 | 2024-10-19 |
 | [Apes & Children](https://open.spotify.com/track/2eCSnZldgOGNHIdvliomGZ) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Anjunadeep pres\. Reflections Vol\. 1](https://open.spotify.com/album/1RXVre6fieggWFyN7dKg6j) | 4:16 | 2025-01-13 | 2025-05-10 |
 | [Aquamarine](https://open.spotify.com/track/0Q1y7Mhs6kiNkDG9vhLUBA) | [Compuphonic](https://open.spotify.com/artist/7GZ8Tz3F5bLPTJYNSwiunY) | [Aquamarine / Fairfax](https://open.spotify.com/album/4LRqqIqAnasxrK3gpbuzJn) | 3:37 | 2025-01-13 | 2025-07-19 |
+| [Ascension \- Edit](https://open.spotify.com/track/6eWrmaDKX0PLQF7NdNG3Sc) | [Planet Of Souls](https://open.spotify.com/artist/1hqyzQFuJfTyri74EsObwu), [Douglas Dare](https://open.spotify.com/artist/0a2wpJgit9EwBAjKbHCpVX) | [Ascension](https://open.spotify.com/album/7h1XpVfmCW4zdYnzy8Lu6E) | 3:51 | 2026-04-10 |  |
 | [Asha](https://open.spotify.com/track/6FBea53GtV4F3S8bBkoPIb) | [Mona Vale](https://open.spotify.com/artist/2HENzGtBCscHaQpvKoQLYD) | [Asha EP](https://open.spotify.com/album/2geyPuEk2cUTCeSvdU6Cow) | 4:32 | 2026-02-20 |  |
 | [Autumn Leaves](https://open.spotify.com/track/1IMhurwZ1TdBQyXi9xz2H2) | [Stegonaute](https://open.spotify.com/artist/4ILyRrOiTzhF9hPDzYWcXs) | [Reflections 08](https://open.spotify.com/album/49U4QIM62pLsUATN0ATjtP) | 2:34 | 2024-04-12 | 2024-07-20 |
 | [Avril 14th](https://open.spotify.com/track/1uaGSDFsLdReQgg8p7Obwh) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs](https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2) | 2:05 | 2024-01-12 | 2024-04-20 |
@@ -319,7 +320,7 @@
 | [Rolling Stone](https://open.spotify.com/track/7t5a28dyiW0JajSQ3CFuzg) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg) | [Hallucinating Love](https://open.spotify.com/album/6NyoU5F25y1I7V9fqbKqy9) | 4:29 | 2025-01-31 | 2026-03-06 |
 | [Rooftop \- Instrumental](https://open.spotify.com/track/7AUCLFKVNikMr1fftJp0kv) | [Croquet Club](https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6) | [Fugue In Twilight \(Instrumentals\)](https://open.spotify.com/album/5zYe84xXrowFDhQAm5dZdl) | 3:45 | 2024-12-13 | 2025-01-14 |
 | [Running](https://open.spotify.com/track/6LDuYk31EfbBefaFLzSuLZ) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN), [CHANEY](https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Running](https://open.spotify.com/album/7EgXAEqEAPyvng9HshtIjM) | 3:09 | 2025-08-07 | 2025-08-16 |
-| [Rushing](https://open.spotify.com/track/3nJQ6sHnGQkjMdRZJczmRJ) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Play](https://open.spotify.com/album/4KZWx8zo5ym89aopr0dBIb) | 3:00 | 2025-08-15 |  |
+| [Rushing](https://open.spotify.com/track/3nJQ6sHnGQkjMdRZJczmRJ) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Play](https://open.spotify.com/album/4KZWx8zo5ym89aopr0dBIb) | 3:00 | 2025-08-15 | 2026-04-11 |
 | [saman](https://open.spotify.com/track/5RqKo9P4DLA0bVyY70cWkr) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [re:member](https://open.spotify.com/album/6JpQGIi2he6iskzR4aLwPG) | 2:11 | 2024-10-18 | 2025-08-16 |
 | [Satisfied \- Ambient Reprise](https://open.spotify.com/track/4vNW3T8XMgXltqrSxNnykV) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Satisfied \(The Remixes\)](https://open.spotify.com/album/7zEKaM5PDUm8GfEk1Lzt0b) | 3:15 | 2025-01-17 |  |
 | [Satisfied \[Strings\]](https://open.spotify.com/track/4hUI4xL5nAiY2pAWBfohEH) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Satisfied \[Strings\]](https://open.spotify.com/album/6yWdmcKUunAkFi4V6rfV1B) | 2:57 | 2024-08-23 | 2025-01-18 |

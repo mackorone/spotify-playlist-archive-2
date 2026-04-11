@@ -32263,6 +32263,24 @@
     },
     {
       "album": {
+        "name": "Undefeated",
+        "url": "https://open.spotify.com/album/4LZhxE1O0AtF4TQolmDQcI"
+      },
+      "artists": [
+        {
+          "name": "Geary Tobi",
+          "url": "https://open.spotify.com/artist/1hWhJk6dJt47s5r7TBf9re"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168631,
+      "name": "Undefeated",
+      "url": "https://open.spotify.com/track/7o1jxTxRAzKpAKHz6EVYMg"
+    },
+    {
+      "album": {
         "name": "Undercover",
         "url": "https://open.spotify.com/album/6XHM4gKUXfRwPpO1XIRPA5"
       },
@@ -32816,6 +32834,28 @@
       "duration_ms": 168455,
       "name": "Walking In The Light",
       "url": "https://open.spotify.com/track/0etyenJdZtMN99nO2MofzO"
+    },
+    {
+      "album": {
+        "name": "Sound From The South",
+        "url": "https://open.spotify.com/album/3qhYnMrI5u6t7eZcL6eGQJ"
+      },
+      "artists": [
+        {
+          "name": "yoyo michael",
+          "url": "https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv"
+        },
+        {
+          "name": "Soltune",
+          "url": "https://open.spotify.com/artist/1PFwvjnnz3gPAAJvmhY9fq"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168455,
+      "name": "Walking In The Light",
+      "url": "https://open.spotify.com/track/4QtjlWmeSApfxBStLpbE4J"
     },
     {
       "album": {

@@ -1,13 +1,189 @@
 {
   "description": "Genre-less. Quality first always. Cover: Thundercat",
-  "num_followers": 1327050,
+  "num_followers": 1327035,
   "original_name": "POLLEN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFG5+W7Ff55mnum/OY0tUWt8Yirj",
+  "snapshot_id": "AAAAAHdG2zV/OOQXVut2wfVKHndZ4n1C",
   "tracks": [
+    {
+      "added_at": "2026-04-10 04:02:16",
+      "album": {
+        "name": "a butterfly was born / things 2 make U smile",
+        "url": "https://open.spotify.com/album/1dt6cD8Q5ZghcT5fwsFT9d"
+      },
+      "artists": [
+        {
+          "name": "Rian Brazil",
+          "url": "https://open.spotify.com/artist/1O4STden5bjJI5SLsY8GGH"
+        }
+      ],
+      "duration_ms": 113044,
+      "name": "things 2 make U smile",
+      "url": "https://open.spotify.com/track/6wBprAkQVcFYp4xLo4Hvg8"
+    },
+    {
+      "added_at": "2026-04-10 04:02:16",
+      "album": {
+        "name": "SAME SH!T",
+        "url": "https://open.spotify.com/album/34v3zMWlkxsKbaYnERZV6d"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Rashad",
+          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
+        }
+      ],
+      "duration_ms": 193294,
+      "name": "SAME SH!T",
+      "url": "https://open.spotify.com/track/0EOc1cP1zMmF9kR0w3AM5f"
+    },
+    {
+      "added_at": "2026-04-10 04:02:16",
+      "album": {
+        "name": "Plastic Camelia / Laurel",
+        "url": "https://open.spotify.com/album/12PCtvnkWhvr5RRPXrFxyP"
+      },
+      "artists": [
+        {
+          "name": "Olof Dreijer",
+          "url": "https://open.spotify.com/artist/1Wxx3yxd6gZsNiAF1OwLk0"
+        }
+      ],
+      "duration_ms": 265878,
+      "name": "Plastic Camelia",
+      "url": "https://open.spotify.com/track/0ep3CnoP0dSWyFPUhQJU0D"
+    },
+    {
+      "added_at": "2026-04-10 04:02:16",
+      "album": {
+        "name": "idea 1",
+        "url": "https://open.spotify.com/album/0d0V3ranIJdJ0RjSo4Q7Qm"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        }
+      ],
+      "duration_ms": 205066,
+      "name": "idea 1",
+      "url": "https://open.spotify.com/track/3ZTKg748vW7Zrll3wzwjJy"
+    },
+    {
+      "added_at": "2026-03-27 04:00:20",
+      "album": {
+        "name": "\u00d6",
+        "url": "https://open.spotify.com/album/4RrsgnUbZIFTw42Apa8lXO"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "duration_ms": 178280,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/2hCM8z2UlTDQV9yXjga8Ox"
+    },
+    {
+      "added_at": "2026-04-10 04:02:16",
+      "album": {
+        "name": "Sofia",
+        "url": "https://open.spotify.com/album/38ZWo5i7WiRXodK7c3HUSA"
+      },
+      "artists": [
+        {
+          "name": "BEASTIE",
+          "url": "https://open.spotify.com/artist/0kxRqPeVVubS6KBRsTG0p1"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Sofia",
+      "url": "https://open.spotify.com/track/1hcl7Rbl63ScIgt675pT78"
+    },
+    {
+      "added_at": "2026-04-03 04:01:39",
+      "album": {
+        "name": "Threads",
+        "url": "https://open.spotify.com/album/5ITKx2dBSjk5jV6ZxTFe62"
+      },
+      "artists": [
+        {
+          "name": "Baalti",
+          "url": "https://open.spotify.com/artist/2CtpjGWvsq4QnUIx9PHDAN"
+        },
+        {
+          "name": "Lapgan",
+          "url": "https://open.spotify.com/artist/2qpOejyNXBdBfLQh9OO22P"
+        }
+      ],
+      "duration_ms": 81944,
+      "name": "Romance",
+      "url": "https://open.spotify.com/track/0UofsT4hEZ7qeYPXkzDiII"
+    },
+    {
+      "added_at": "2026-04-10 04:02:16",
+      "album": {
+        "name": "July",
+        "url": "https://open.spotify.com/album/3sbAIbwlBjdUt1GD1iteHO"
+      },
+      "artists": [
+        {
+          "name": "Wesley Joseph",
+          "url": "https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 152493,
+      "name": "July",
+      "url": "https://open.spotify.com/track/6LzxjnLFFlk639Xw43MDB9"
+    },
+    {
+      "added_at": "2026-02-27 05:00:29",
+      "album": {
+        "name": "SYNY 3 Act I",
+        "url": "https://open.spotify.com/album/7HcelJ0xbHNYZ5QaPTg3p9"
+      },
+      "artists": [
+        {
+          "name": "Billy Lemos",
+          "url": "https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC"
+        },
+        {
+          "name": "Igwe Aka",
+          "url": "https://open.spotify.com/artist/00dT0myy0kbq152QWIzRPI"
+        },
+        {
+          "name": "See You Next Year",
+          "url": "https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv"
+        }
+      ],
+      "duration_ms": 153682,
+      "name": "Wake Up and Get Sexy",
+      "url": "https://open.spotify.com/track/061lImbIi2dyZift5GqtIo"
+    },
+    {
+      "added_at": "2026-04-03 04:01:39",
+      "album": {
+        "name": "To The Sky",
+        "url": "https://open.spotify.com/album/6TcqhHCbNpDXDY0CA6KyuG"
+      },
+      "artists": [
+        {
+          "name": "Loukeman",
+          "url": "https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "To The Sky",
+      "url": "https://open.spotify.com/track/25jvcrDD3TbvgOpn3MUYbF"
+    },
     {
       "added_at": "2026-04-03 04:01:39",
       "album": {
@@ -31,26 +207,6 @@
     {
       "added_at": "2026-04-03 04:01:39",
       "album": {
-        "name": "Threads",
-        "url": "https://open.spotify.com/album/5ITKx2dBSjk5jV6ZxTFe62"
-      },
-      "artists": [
-        {
-          "name": "Baalti",
-          "url": "https://open.spotify.com/artist/2CtpjGWvsq4QnUIx9PHDAN"
-        },
-        {
-          "name": "Lapgan",
-          "url": "https://open.spotify.com/artist/2qpOejyNXBdBfLQh9OO22P"
-        }
-      ],
-      "duration_ms": 81944,
-      "name": "Romance",
-      "url": "https://open.spotify.com/track/0UofsT4hEZ7qeYPXkzDiII"
-    },
-    {
-      "added_at": "2026-04-03 04:01:39",
-      "album": {
         "name": "Ambiguous Desire",
         "url": "https://open.spotify.com/album/2l7Qtf3Mffx6ZIDTpyaMtS"
       },
@@ -67,22 +223,6 @@
       "duration_ms": 242541,
       "name": "Senses ft. Sampha",
       "url": "https://open.spotify.com/track/53j4dcm9Jn47sFJx8nVz5X"
-    },
-    {
-      "added_at": "2026-04-03 04:01:39",
-      "album": {
-        "name": "To The Sky",
-        "url": "https://open.spotify.com/album/6TcqhHCbNpDXDY0CA6KyuG"
-      },
-      "artists": [
-        {
-          "name": "Loukeman",
-          "url": "https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "To The Sky",
-      "url": "https://open.spotify.com/track/25jvcrDD3TbvgOpn3MUYbF"
     },
     {
       "added_at": "2026-03-27 04:00:20",
@@ -135,22 +275,6 @@
       "duration_ms": 104354,
       "name": "ALENA(\u12a3\u1208\u1293)PARADISE LOST",
       "url": "https://open.spotify.com/track/2Y05SQlUbQSHsf6xKWerru"
-    },
-    {
-      "added_at": "2026-03-27 04:00:20",
-      "album": {
-        "name": "\u00d6",
-        "url": "https://open.spotify.com/album/4RrsgnUbZIFTw42Apa8lXO"
-      },
-      "artists": [
-        {
-          "name": "Fcukers",
-          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
-        }
-      ],
-      "duration_ms": 178280,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/2hCM8z2UlTDQV9yXjga8Ox"
     },
     {
       "added_at": "2026-03-27 04:00:20",
@@ -255,30 +379,6 @@
       "duration_ms": 139867,
       "name": "Danger",
       "url": "https://open.spotify.com/track/0emddmBnIrINlvtvtuLkXI"
-    },
-    {
-      "added_at": "2026-02-27 05:00:29",
-      "album": {
-        "name": "SYNY 3 Act I",
-        "url": "https://open.spotify.com/album/7HcelJ0xbHNYZ5QaPTg3p9"
-      },
-      "artists": [
-        {
-          "name": "Billy Lemos",
-          "url": "https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC"
-        },
-        {
-          "name": "Igwe Aka",
-          "url": "https://open.spotify.com/artist/00dT0myy0kbq152QWIzRPI"
-        },
-        {
-          "name": "See You Next Year",
-          "url": "https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv"
-        }
-      ],
-      "duration_ms": 153682,
-      "name": "Wake Up and Get Sexy",
-      "url": "https://open.spotify.com/track/061lImbIi2dyZift5GqtIo"
     },
     {
       "added_at": "2026-03-27 04:00:20",
@@ -1591,66 +1691,6 @@
     {
       "added_at": "2026-01-09 05:00:39",
       "album": {
-        "name": "girl, get up. (feat. SZA)",
-        "url": "https://open.spotify.com/album/0gay0zMUEE8cqgkk7z8nzS"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 188600,
-      "name": "girl, get up. (feat. SZA)",
-      "url": "https://open.spotify.com/track/2igNvPf7RLTZG688Mx8GtU"
-    },
-    {
-      "added_at": "2026-01-09 05:00:39",
-      "album": {
-        "name": "stop talking to AI talk to God",
-        "url": "https://open.spotify.com/album/3yRa3qg0XurFwvlbUWxNiE"
-      },
-      "artists": [
-        {
-          "name": "svn4vr",
-          "url": "https://open.spotify.com/artist/44Y2zfqpUrMwFWSnP37a4B"
-        }
-      ],
-      "duration_ms": 116912,
-      "name": "stop talking to AI talk to God",
-      "url": "https://open.spotify.com/track/5hcMhP7JjmUnpFhdSrOoaq"
-    },
-    {
-      "added_at": "2025-12-19 00:00:34",
-      "album": {
-        "name": "HOWWEFLOW",
-        "url": "https://open.spotify.com/album/7CPafRVIO0pXc6WMkKzYnv"
-      },
-      "artists": [
-        {
-          "name": "GENA",
-          "url": "https://open.spotify.com/artist/1ptSYluUqpp93ZRQEYJ4bE"
-        },
-        {
-          "name": "Liv.e",
-          "url": "https://open.spotify.com/artist/0YCL71Clky5els6NireSBP"
-        },
-        {
-          "name": "Karriem Riggins",
-          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
-        }
-      ],
-      "duration_ms": 161596,
-      "name": "HOWWEFLOW",
-      "url": "https://open.spotify.com/track/5R7prQMqnCcwOelkPPH9eM"
-    },
-    {
-      "added_at": "2026-01-09 05:00:39",
-      "album": {
         "name": "NEMO",
         "url": "https://open.spotify.com/album/6conS8uzPywLrqEYqAnFLH"
       },
@@ -1719,42 +1759,6 @@
       "duration_ms": 157591,
       "name": "what will they say",
       "url": "https://open.spotify.com/track/1pwhB1CR3CP83pwDfzM9Qd"
-    },
-    {
-      "added_at": "2025-12-05 05:00:23",
-      "album": {
-        "name": "Home Is True",
-        "url": "https://open.spotify.com/album/5sCZV4unPO5Hme36JC0ZFH"
-      },
-      "artists": [
-        {
-          "name": "Skin On Skin",
-          "url": "https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa"
-        }
-      ],
-      "duration_ms": 252393,
-      "name": "Let Me Say This",
-      "url": "https://open.spotify.com/track/19iQuyF5zc3zT1LdY3y5G7"
-    },
-    {
-      "added_at": "2025-12-05 05:00:23",
-      "album": {
-        "name": "Alise",
-        "url": "https://open.spotify.com/album/0FEGZgonIOc9RZUa6KucAn"
-      },
-      "artists": [
-        {
-          "name": "Jawnino",
-          "url": "https://open.spotify.com/artist/0nnECIkl6LBEbZdov3nTEj"
-        },
-        {
-          "name": "SURF GANG",
-          "url": "https://open.spotify.com/artist/0rTeZQSxEg1XzZ1dFz6Moz"
-        }
-      ],
-      "duration_ms": 180465,
-      "name": "Alise",
-      "url": "https://open.spotify.com/track/0MPEX4Y7YK6QfWcL9oU685"
     },
     {
       "added_at": "2025-11-07 05:00:53",

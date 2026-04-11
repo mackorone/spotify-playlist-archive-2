@@ -1,12 +1,12 @@
 {
   "description": "This is The Police. The essential tracks, all in one playlist.",
-  "num_followers": 365119,
+  "num_followers": 365146,
   "original_name": "This Is The Police",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adWagAAAAACx9AQCfMIWuoERtEWBc/aO",
+  "snapshot_id": "adbsAAAAAAAuaDbljb/SLnHeFLf1A9y7",
   "tracks": [
     {
       "added_at": null,
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
         }
       ],
-      "duration_ms": 290093,
-      "name": "Hole In My Life",
-      "url": "https://open.spotify.com/track/25McPIqh9oSdPSP36Gu7Jp"
+      "duration_ms": 174960,
+      "name": "Truth Hits Everybody",
+      "url": "https://open.spotify.com/track/4pLhVO0JuMiFDSJYDiGP7S"
     },
     {
       "added_at": null,
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
         }
       ],
-      "duration_ms": 174960,
-      "name": "Truth Hits Everybody",
-      "url": "https://open.spotify.com/track/4pLhVO0JuMiFDSJYDiGP7S"
+      "duration_ms": 290093,
+      "name": "Hole In My Life",
+      "url": "https://open.spotify.com/track/25McPIqh9oSdPSP36Gu7Jp"
     },
     {
       "added_at": null,

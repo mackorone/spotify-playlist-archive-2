@@ -3651,6 +3651,24 @@
     },
     {
       "album": {
+        "name": "Kissing Strangers!",
+        "url": "https://open.spotify.com/album/4O2JMoZxhhFJ4pUu1laJbB"
+      },
+      "artists": [
+        {
+          "name": "Eryka Gray",
+          "url": "https://open.spotify.com/artist/3oZefojpA0igBXqOGJ5QFU"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201069,
+      "name": "Kissing Strangers!",
+      "url": "https://open.spotify.com/track/1PUtLs4AITjN1eHjz28G2j"
+    },
+    {
+      "album": {
         "name": "L'\u00e9t\u00e9",
         "url": "https://open.spotify.com/album/2Sc22SbioaEC7xBfK94JUc"
       },

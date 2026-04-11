@@ -4,7 +4,7 @@
 
 > Chill tracks to vibe or relax to in 2026\. Updated weekly!
 
-562 songs - 1 day 6 hr 55 min
+563 songs - 1 day 6 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,6 +236,7 @@
 | [If You Wanna](https://open.spotify.com/track/3U8zXNz1x6QRo8N6KYv9ZR) | [Nu Aspect](https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT), [Coach Harrison](https://open.spotify.com/artist/40DuSzxFswBymk0cjFnuqL) | [If You Wanna](https://open.spotify.com/album/6xdH62cWsnkSNb1KrstnEA) | 2:39 | 2023-03-17 |  |
 | [Illuminate](https://open.spotify.com/track/6SpS3512xzHKapz4plRuZW) | [Astrality](https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0) | [Illuminate](https://open.spotify.com/album/1Ph48nIAvImgjshNB6Y2bl) | 2:43 | 2023-06-23 |  |
 | [Immortal](https://open.spotify.com/track/01yylIRHqoFJBsbM4E128x) | [Dillistone](https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33), [LILI N](https://open.spotify.com/artist/2c2f3EwgqkZrKmbJtg3P83) | [Immortal](https://open.spotify.com/album/6UmmhSlo3di4LyZLmddKyg) | 2:53 | 2020-10-10 | 2021-03-06 |
+| [in my arms](https://open.spotify.com/track/7yWy7PV3Sv6kzjhgx4gI4S) | [abelon](https://open.spotify.com/artist/6RknJW6TTU6TQfTZDptOui) | [in my arms](https://open.spotify.com/album/0UvFs5H7Rtv6u26xJsU5uP) | 2:05 | 2026-04-10 |  |
 | [In My Arms \- Flyboy Chillmix](https://open.spotify.com/track/6s8OQeEXC44AdZcGIpaV5n) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [Robosonic](https://open.spotify.com/artist/2XBuvmyzhH85j6sqv1fV3l), [Nikki Ambers](https://open.spotify.com/artist/01PAM2LxCLL6tflnv7mbV7), [Flyboy](https://open.spotify.com/artist/1Jc2HsPucRk1x7lAUd7xma) | [In My Arms \(Remixes\)](https://open.spotify.com/album/4mrdffOuKyKBYEL4MeOHcu) | 3:06 | 2021-03-06 | 2021-11-11 |
 | [In My Heart](https://open.spotify.com/track/5EaRvSilFlpBTuv9uTh8bI) | [Pawl](https://open.spotify.com/artist/1ShHSfgvLgJ4i26xcXB232), [Discrete](https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov) | [In My Heart](https://open.spotify.com/album/2uHm9zHIw1TUxiLJ76LEA5) | 3:05 | 2020-09-13\* | 2021-03-14 |
 | [In Reverse](https://open.spotify.com/track/2ofN43JfvYu5zusgRGeBYL) | [Daydream Affiliate](https://open.spotify.com/artist/367fs93DnQD5h2QQEFZioV) | [In Reverse](https://open.spotify.com/album/7Fjfmglz0P8y54ekcOqavK) | 2:39 | 2025-10-24 |  |

@@ -959,6 +959,24 @@
     },
     {
       "album": {
+        "name": "I Just Might",
+        "url": "https://open.spotify.com/album/2FA2oEbnGvEizQHq1bzSaT"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211644,
+      "name": "I Just Might",
+      "url": "https://open.spotify.com/track/3fMJmqOH3WfA6mVsz4Mk8s"
+    },
+    {
+      "album": {
         "name": "I Wrote A Song",
         "url": "https://open.spotify.com/album/4eGsdwxe0rSrNQslZcgmCu"
       },
@@ -1474,7 +1492,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 110853,
       "name": "Old Town Road",
       "url": "https://open.spotify.com/track/07cQIm99dnNSKs6skathg0"

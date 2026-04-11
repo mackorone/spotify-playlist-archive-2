@@ -1,6 +1,6 @@
 {
   "description": "Cool \u00e9s trendi dalok Magyarorsz\u00e1gon! ",
-  "num_followers": 29699,
+  "num_followers": 29702,
   "original_name": "Most Men\u0151",
   "owner": {
     "name": "Spotify",
@@ -643,6 +643,26 @@
     {
       "added_at": "2026-03-31 12:40:40",
       "album": {
+        "name": "VINNER",
+        "url": "https://open.spotify.com/album/44ZyazKbcQOMu0awUPOBPc"
+      },
+      "artists": [
+        {
+          "name": "VINI",
+          "url": "https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV"
+        },
+        {
+          "name": "KKevin",
+          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
+        }
+      ],
+      "duration_ms": 138097,
+      "name": "WAKE N BAKE",
+      "url": "https://open.spotify.com/track/1bnRSZisq4IX2DIvteVP9M"
+    },
+    {
+      "added_at": "2026-03-31 12:40:40",
+      "album": {
         "name": "INTERREGNUM",
         "url": "https://open.spotify.com/album/2RN4jUusVHvFiiEg4EBHGD"
       },
@@ -671,26 +691,6 @@
       "duration_ms": 137388,
       "name": "Passenger Princess",
       "url": "https://open.spotify.com/track/030Ndm2tv9gonGnjXz8CFl"
-    },
-    {
-      "added_at": "2026-03-31 12:40:40",
-      "album": {
-        "name": "VINNER",
-        "url": "https://open.spotify.com/album/44ZyazKbcQOMu0awUPOBPc"
-      },
-      "artists": [
-        {
-          "name": "VINI",
-          "url": "https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV"
-        },
-        {
-          "name": "KKevin",
-          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
-        }
-      ],
-      "duration_ms": 138097,
-      "name": "WAKE N BAKE",
-      "url": "https://open.spotify.com/track/1bnRSZisq4IX2DIvteVP9M"
     },
     {
       "added_at": "2026-03-31 12:40:40",
@@ -727,22 +727,6 @@
     {
       "added_at": "2026-03-31 12:40:40",
       "album": {
-        "name": "BE VAGYOK Z\u00c1RVA",
-        "url": "https://open.spotify.com/album/7EUW3MZBp2wgcUQYuPnHb5"
-      },
-      "artists": [
-        {
-          "name": "Beton.Hofi",
-          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
-        }
-      ],
-      "duration_ms": 131779,
-      "name": "BE VAGYOK Z\u00c1RVA",
-      "url": "https://open.spotify.com/track/7ovp4mzdzQJHTrRiTyaaAY"
-    },
-    {
-      "added_at": "2026-03-31 12:40:40",
-      "album": {
         "name": "S\u00d6T\u00c9T",
         "url": "https://open.spotify.com/album/5OGJpFmfbmdUyWGF3PiA5z"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 144203,
       "name": "S\u00d6T\u00c9T",
       "url": "https://open.spotify.com/track/68SnGU5Oa3SEV7y8w1L9bk"
+    },
+    {
+      "added_at": "2026-03-31 12:40:40",
+      "album": {
+        "name": "BE VAGYOK Z\u00c1RVA",
+        "url": "https://open.spotify.com/album/7EUW3MZBp2wgcUQYuPnHb5"
+      },
+      "artists": [
+        {
+          "name": "Beton.Hofi",
+          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
+        }
+      ],
+      "duration_ms": 131779,
+      "name": "BE VAGYOK Z\u00c1RVA",
+      "url": "https://open.spotify.com/track/7ovp4mzdzQJHTrRiTyaaAY"
     },
     {
       "added_at": "2026-03-31 12:40:40",
@@ -791,6 +791,26 @@
       "duration_ms": 165900,
       "name": "V\u00c1RJ MEG",
       "url": "https://open.spotify.com/track/4RyGoGUAR8cAC7hA9qzc5b"
+    },
+    {
+      "added_at": "2026-03-31 12:40:40",
+      "album": {
+        "name": "SZEPTEMBER V\u00c9G\u00c9N (STRESSZ)",
+        "url": "https://open.spotify.com/album/2qQIcOMqoiYMTxbBEcwdi4"
+      },
+      "artists": [
+        {
+          "name": "Mehringer",
+          "url": "https://open.spotify.com/artist/2onsfuh37zW0OHB3lFa3t1"
+        },
+        {
+          "name": "sosehol",
+          "url": "https://open.spotify.com/artist/69McIb2evNk4IXDj7pipai"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "SZEPTEMBER V\u00c9G\u00c9N - STRESSZ",
+      "url": "https://open.spotify.com/track/5uZSmno7ltepBaL9wJ8ZrF"
     },
     {
       "added_at": "2026-03-31 12:40:40",
@@ -843,22 +863,22 @@
     {
       "added_at": "2026-03-31 12:40:40",
       "album": {
-        "name": "SZEPTEMBER V\u00c9G\u00c9N (STRESSZ)",
-        "url": "https://open.spotify.com/album/2qQIcOMqoiYMTxbBEcwdi4"
+        "name": "NU M\u0102 LAS\u0102",
+        "url": "https://open.spotify.com/album/53k7aEfUyjep2mkaviZRNl"
       },
       "artists": [
         {
-          "name": "Mehringer",
-          "url": "https://open.spotify.com/artist/2onsfuh37zW0OHB3lFa3t1"
+          "name": "T\u00f3th Andi",
+          "url": "https://open.spotify.com/artist/3jsS2HaBW5WphHabBDxtQu"
         },
         {
-          "name": "sosehol",
-          "url": "https://open.spotify.com/artist/69McIb2evNk4IXDj7pipai"
+          "name": "BELANO",
+          "url": "https://open.spotify.com/artist/3YuXDaxA5aNH0yA4SLeEPA"
         }
       ],
-      "duration_ms": 215000,
-      "name": "SZEPTEMBER V\u00c9G\u00c9N - STRESSZ",
-      "url": "https://open.spotify.com/track/5uZSmno7ltepBaL9wJ8ZrF"
+      "duration_ms": 163478,
+      "name": "NU M\u0102 LAS\u0102",
+      "url": "https://open.spotify.com/track/4f7QJX2A3SK4aVSK9bh4r5"
     },
     {
       "added_at": "2026-03-31 12:40:40",
@@ -883,22 +903,22 @@
     {
       "added_at": "2026-03-31 12:40:40",
       "album": {
-        "name": "NU M\u0102 LAS\u0102",
-        "url": "https://open.spotify.com/album/53k7aEfUyjep2mkaviZRNl"
+        "name": "\u00c9DEN",
+        "url": "https://open.spotify.com/album/4TFfAeuhL7h30cwZv29rzI"
       },
       "artists": [
         {
-          "name": "T\u00f3th Andi",
-          "url": "https://open.spotify.com/artist/3jsS2HaBW5WphHabBDxtQu"
+          "name": "Mehringer",
+          "url": "https://open.spotify.com/artist/2onsfuh37zW0OHB3lFa3t1"
         },
         {
-          "name": "BELANO",
-          "url": "https://open.spotify.com/artist/3YuXDaxA5aNH0yA4SLeEPA"
+          "name": "sosehol",
+          "url": "https://open.spotify.com/artist/69McIb2evNk4IXDj7pipai"
         }
       ],
-      "duration_ms": 163478,
-      "name": "NU M\u0102 LAS\u0102",
-      "url": "https://open.spotify.com/track/4f7QJX2A3SK4aVSK9bh4r5"
+      "duration_ms": 190000,
+      "name": "\u00c9DEN",
+      "url": "https://open.spotify.com/track/37rab2ZEkXwsPboXTZxHBf"
     },
     {
       "added_at": "2026-03-31 12:40:40",
@@ -943,42 +963,6 @@
     {
       "added_at": "2026-03-31 12:40:40",
       "album": {
-        "name": "\u00c9DEN",
-        "url": "https://open.spotify.com/album/4TFfAeuhL7h30cwZv29rzI"
-      },
-      "artists": [
-        {
-          "name": "Mehringer",
-          "url": "https://open.spotify.com/artist/2onsfuh37zW0OHB3lFa3t1"
-        },
-        {
-          "name": "sosehol",
-          "url": "https://open.spotify.com/artist/69McIb2evNk4IXDj7pipai"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "\u00c9DEN",
-      "url": "https://open.spotify.com/track/37rab2ZEkXwsPboXTZxHBf"
-    },
-    {
-      "added_at": "2026-03-31 12:40:40",
-      "album": {
-        "name": "Megcsalok veled ak\u00e1rkit",
-        "url": "https://open.spotify.com/album/1DBXUt5xMsJA8KtP5JVLO6"
-      },
-      "artists": [
-        {
-          "name": "Marics Peti",
-          "url": "https://open.spotify.com/artist/3AL01X7ic44uuE4xsMVPbp"
-        }
-      ],
-      "duration_ms": 144461,
-      "name": "Megcsalok veled ak\u00e1rkit",
-      "url": "https://open.spotify.com/track/0ZQ5xI0kFUJG4BbC0FGoU9"
-    },
-    {
-      "added_at": "2026-03-31 12:40:40",
-      "album": {
         "name": "Demo",
         "url": "https://open.spotify.com/album/4eddCF6C4oHNORXbMSKHvZ"
       },
@@ -995,38 +979,18 @@
     {
       "added_at": "2026-03-31 12:40:40",
       "album": {
-        "name": "EXT\u00c1ZIS",
-        "url": "https://open.spotify.com/album/57tS8G2oP8FAFzuczfb1V5"
+        "name": "Megcsalok veled ak\u00e1rkit",
+        "url": "https://open.spotify.com/album/1DBXUt5xMsJA8KtP5JVLO6"
       },
       "artists": [
         {
-          "name": "bongor",
-          "url": "https://open.spotify.com/artist/5HWC7PRwfVezYNVGggeCYD"
-        },
-        {
-          "name": "Kapit\u00e1ny M\u00e1t\u00e9",
-          "url": "https://open.spotify.com/artist/2Z3ar2v1UZV7rR8R4qZMTn"
+          "name": "Marics Peti",
+          "url": "https://open.spotify.com/artist/3AL01X7ic44uuE4xsMVPbp"
         }
       ],
-      "duration_ms": 184193,
-      "name": "Beef",
-      "url": "https://open.spotify.com/track/0aiD9jQDJOWzGoFlYOZVUe"
-    },
-    {
-      "added_at": "2026-03-31 12:40:40",
-      "album": {
-        "name": "BOTR\u00c1NY",
-        "url": "https://open.spotify.com/album/68lXuKf6ADPkHX8nqAtUyU"
-      },
-      "artists": [
-        {
-          "name": "VINI",
-          "url": "https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV"
-        }
-      ],
-      "duration_ms": 146666,
-      "name": "BOTR\u00c1NY",
-      "url": "https://open.spotify.com/track/4sNX1xMPVtgYrrPWFKoOhF"
+      "duration_ms": 144461,
+      "name": "Megcsalok veled ak\u00e1rkit",
+      "url": "https://open.spotify.com/track/0ZQ5xI0kFUJG4BbC0FGoU9"
     },
     {
       "added_at": "2026-03-31 12:40:40",
@@ -1055,18 +1019,22 @@
     {
       "added_at": "2026-03-31 12:40:40",
       "album": {
-        "name": "FREY TIMI",
-        "url": "https://open.spotify.com/album/7opLiKvuCVuAkdFMJN2t7k"
+        "name": "EXT\u00c1ZIS",
+        "url": "https://open.spotify.com/album/57tS8G2oP8FAFzuczfb1V5"
       },
       "artists": [
         {
-          "name": "L.L. Junior",
-          "url": "https://open.spotify.com/artist/3cG03cMdrtBCrmM0843f9O"
+          "name": "bongor",
+          "url": "https://open.spotify.com/artist/5HWC7PRwfVezYNVGggeCYD"
+        },
+        {
+          "name": "Kapit\u00e1ny M\u00e1t\u00e9",
+          "url": "https://open.spotify.com/artist/2Z3ar2v1UZV7rR8R4qZMTn"
         }
       ],
-      "duration_ms": 155214,
-      "name": "FREY TIMI",
-      "url": "https://open.spotify.com/track/0vTNCXwJiPPs5rQ99fz68x"
+      "duration_ms": 184193,
+      "name": "Beef",
+      "url": "https://open.spotify.com/track/0aiD9jQDJOWzGoFlYOZVUe"
     },
     {
       "added_at": "2026-03-31 12:40:40",
@@ -1087,22 +1055,34 @@
     {
       "added_at": "2026-03-31 12:40:40",
       "album": {
-        "name": "EXT\u00c1ZIS",
-        "url": "https://open.spotify.com/album/57tS8G2oP8FAFzuczfb1V5"
+        "name": "BOTR\u00c1NY",
+        "url": "https://open.spotify.com/album/68lXuKf6ADPkHX8nqAtUyU"
       },
       "artists": [
         {
-          "name": "bongor",
-          "url": "https://open.spotify.com/artist/5HWC7PRwfVezYNVGggeCYD"
-        },
-        {
-          "name": "cserihanna",
-          "url": "https://open.spotify.com/artist/7MHRzj7k1gqYcJ2P7V8mwl"
+          "name": "VINI",
+          "url": "https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV"
         }
       ],
-      "duration_ms": 142856,
-      "name": "Hol volt\u00e1l?",
-      "url": "https://open.spotify.com/track/3s2IsVmmuH4Fi3491W7TF5"
+      "duration_ms": 146666,
+      "name": "BOTR\u00c1NY",
+      "url": "https://open.spotify.com/track/4sNX1xMPVtgYrrPWFKoOhF"
+    },
+    {
+      "added_at": "2026-03-31 12:40:40",
+      "album": {
+        "name": "FREY TIMI",
+        "url": "https://open.spotify.com/album/7opLiKvuCVuAkdFMJN2t7k"
+      },
+      "artists": [
+        {
+          "name": "L.L. Junior",
+          "url": "https://open.spotify.com/artist/3cG03cMdrtBCrmM0843f9O"
+        }
+      ],
+      "duration_ms": 155214,
+      "name": "FREY TIMI",
+      "url": "https://open.spotify.com/track/0vTNCXwJiPPs5rQ99fz68x"
     },
     {
       "added_at": "2026-03-31 12:40:40",
@@ -1119,6 +1099,26 @@
       "duration_ms": 195111,
       "name": "hungarian mambo",
       "url": "https://open.spotify.com/track/5sTAUXDj9tEQXMBqrA8HH9"
+    },
+    {
+      "added_at": "2026-03-31 12:40:40",
+      "album": {
+        "name": "EXT\u00c1ZIS",
+        "url": "https://open.spotify.com/album/57tS8G2oP8FAFzuczfb1V5"
+      },
+      "artists": [
+        {
+          "name": "bongor",
+          "url": "https://open.spotify.com/artist/5HWC7PRwfVezYNVGggeCYD"
+        },
+        {
+          "name": "cserihanna",
+          "url": "https://open.spotify.com/artist/7MHRzj7k1gqYcJ2P7V8mwl"
+        }
+      ],
+      "duration_ms": 142856,
+      "name": "Hol volt\u00e1l?",
+      "url": "https://open.spotify.com/track/3s2IsVmmuH4Fi3491W7TF5"
     },
     {
       "added_at": "2026-03-31 12:40:40",

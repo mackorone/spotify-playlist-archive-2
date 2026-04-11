@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > 🔥 den nyeste rap i dk 🔥 cover: D1MA
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,889 likes - 26 songs - 1 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,890 likes - 26 songs - 1 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 | 2 | [Mentally](https://open.spotify.com/track/1Yx9f4IEoor3fwHhZ2NC3H) | [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc) | [Mentally](https://open.spotify.com/album/2nRMyEBaMtQ9riwmv47Ga9) | 2:35 |
 | 3 | [26](https://open.spotify.com/track/5jT5wsWSCmQUYuqvrU879E) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP) | [26](https://open.spotify.com/album/5RTwUXP4jGsHyEbbjmgGhF) | 1:49 |
 | 4 | [$AMMEN](https://open.spotify.com/track/2eEUhbrrR7ZwYkOKDIO9oh) | [GUSTO](https://open.spotify.com/artist/2ePd2b0RlMm7txE4D4SXpL) | [$AMMEN](https://open.spotify.com/album/7C2AQA02ZhqeKf8UPYDcTD) | 3:02 |
-| 5 | [Snik Snak](https://open.spotify.com/track/0Y3i5QMg6gkiNNXQl2fBAM) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv) | [Anderledes Aura](https://open.spotify.com/album/68TaBEOIlGQjolKMIDThPa) | 2:40 |
+| 5 | [Snik Snak \(feat\. Noah Carter\)](https://open.spotify.com/track/0Y3i5QMg6gkiNNXQl2fBAM) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv), [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [Anderledes Aura](https://open.spotify.com/album/68TaBEOIlGQjolKMIDThPa) | 2:40 |
 | 6 | [Planet](https://open.spotify.com/track/2z8ren6BAtcW6VWKjy0aTu) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv), [Omar](https://open.spotify.com/artist/1GLzVjVa7bLnAcD1At98j3) | [Planet](https://open.spotify.com/album/0irkTGOgtcESdDAqcDmZdi) | 3:53 |
 | 7 | [Udenlands](https://open.spotify.com/track/36LhHBZSbY7Z1BKqQQpI6M) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP) | [Udenlands](https://open.spotify.com/album/6MdVTllUWzvSPF6JSOrEYx) | 2:07 |
 | 8 | [3 2 1 \(feat\. Jamaika\)](https://open.spotify.com/track/0PUfJ77DHXydetNvwYsI31) | [Omar](https://open.spotify.com/artist/1GLzVjVa7bLnAcD1At98j3), [Jamaika](https://open.spotify.com/artist/7EJcUkbBsR4kN822bEa0ZS) | [Højt At Flyve Dybt At Falde](https://open.spotify.com/album/0ZiHfwBVdjA78WfyNXTJTU) | 2:41 |

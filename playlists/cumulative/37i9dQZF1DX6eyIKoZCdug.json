@@ -4520,7 +4520,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 208770,
       "name": "Sauti",
       "url": "https://open.spotify.com/track/3wlEt7tgbcyowpdlcnCwfz"
@@ -6214,6 +6214,28 @@
       "duration_ms": 177000,
       "name": "Winyo Nungo",
       "url": "https://open.spotify.com/track/0EUOQmN7T9RdEBSAycGKPf"
+    },
+    {
+      "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/5DLdcrZst7mOZJjjBpw0RK"
+      },
+      "artists": [
+        {
+          "name": "Fraser Jones",
+          "url": "https://open.spotify.com/artist/4FF2LXiM8JRMoirB0HTrcg"
+        },
+        {
+          "name": "P\u00c6DE",
+          "url": "https://open.spotify.com/artist/0q9ulkly0h5gV9BLdyQGnQ"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346709,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/3quyMFpRl6Me3xdhFAnePR"
     },
     {
       "album": {

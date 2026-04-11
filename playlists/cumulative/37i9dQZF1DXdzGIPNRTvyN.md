@@ -4,7 +4,7 @@
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-492 songs - 23 hr 4 min
+494 songs - 23 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Cosmic Juno](https://open.spotify.com/track/4aWcphk3RNbFkzIBYH4DKi) | [Ella Elysium](https://open.spotify.com/artist/2n3JzcQyc7IwryKsZDGZey) | [Cosmic Juno](https://open.spotify.com/album/4Xr6Ux2UTgtHv8WcbnMQfP) | 3:04 | 2025-07-01 |  |
 | [Countryside](https://open.spotify.com/track/1niV98qbCKuViXYebTlyEX) | [Noche Larga](https://open.spotify.com/artist/4QOp3aQnEKX1eFwZiT5U3I) | [Countryside](https://open.spotify.com/album/3P5GsO5dYCjBD7nLXMANPG) | 3:24 | 2023-01-24 | 2024-10-04 |
 | [Creek Of Wonder \(Meditation\)](https://open.spotify.com/track/3rbYnf1AoDwPoNTBUYRPaI) | [Nature Pulse](https://open.spotify.com/artist/70vUxFU28oeZCt4GremOQ0) | [Creek Of Wonder](https://open.spotify.com/album/4OBLtNZOdzSkQRvok1BDew) | 3:04 | 2023-09-28 | 2025-04-30 |
+| [Creekside](https://open.spotify.com/track/00gniJGV3T78LoCmTeSbKM) | [Cedarsound](https://open.spotify.com/artist/3zQf7bXB7xtlEjVmeT53GP) | [Creekside](https://open.spotify.com/album/1GlqsJCYxTMCqI9ZxKCo3n) | 2:32 | 2026-04-03 |  |
 | [Cristalino](https://open.spotify.com/track/7kXN1Om9uX5TbgNsqMDhMb) | [Mzarta Brokin](https://open.spotify.com/artist/6EvITxC3tnjSP8THRKrPtf) | [Cristalino](https://open.spotify.com/album/0no6NHOOFfuMdsKIBwLh8U) | 2:11 | 2024-06-03 |  |
 | [Cíclica](https://open.spotify.com/track/0jqfKwvVglieA2ESdKU8JM) | [Mamá Valiente](https://open.spotify.com/artist/1QmJjqae7klTYMxMjL0hcV) | [Cíclica](https://open.spotify.com/album/5jVMmxJaXohVz7BwmJqiBW) | 3:52 | 2023-01-24 | 2024-06-04 |
 | [Dawning \- Sound Bath](https://open.spotify.com/track/4MojyUlnEpB2Ay3xIgpPC4) | [Yaalani](https://open.spotify.com/artist/64qscQGDXCB9o3nSgoRlBJ) | [Dawning \(Sound Bath\)](https://open.spotify.com/album/5CquQvz9uO5r2uh132aNQ8) | 2:26 | 2023-03-13 |  |
@@ -167,11 +168,11 @@
 | [Forest Winds](https://open.spotify.com/track/38NsLOCPyA8E4Q7IaAG43X) | [Verala Lux](https://open.spotify.com/artist/2zTDYjWYdea2V7ZXILRLKW) | [Forest Winds](https://open.spotify.com/album/0XMxYcUmfaQS4VTtfSljfe) | 2:00 | 2023-10-26 | 2025-04-02 |
 | [Forgotten letters](https://open.spotify.com/track/1ZCeUv9xi2ZPuRbLBXfNaR) | [My Dream Escape](https://open.spotify.com/artist/4X3g5HpVJZUww98e0Qf39d) | [Back to life](https://open.spotify.com/album/79BCV4DaRDOXHyLlljIvVS) | 2:21 | 2023-01-24 | 2024-04-02 |
 | [Fractions](https://open.spotify.com/track/2BNm7OnbAZsIjTU0PfIpj0) | [Soluna](https://open.spotify.com/artist/0TbAQgVTA22KsYaYwfmT77) | [Fractions](https://open.spotify.com/album/7MHO5zdyk1KSRm9cGKitbB) | 2:24 | 2026-03-16 | 2026-04-04 |
-| [Frequenza Del Cuore 528 Hz \(nature Version\)](https://open.spotify.com/track/04ltEgSfEzF11vXr9OrymS) | [Seconda Fotura](https://open.spotify.com/artist/3dLzY2XAMjuE1soisVnzf7) | [Frequenza Del Cuore 528 Hz \(nature Version\)](https://open.spotify.com/album/5pZuu7kgbojNBoqS3hECmR) | 2:39 | 2026-04-03 |  |
+| [Frequenza Del Cuore 528 Hz \(Nature Version\)](https://open.spotify.com/track/04ltEgSfEzF11vXr9OrymS) | [Seconda Fotura](https://open.spotify.com/artist/3dLzY2XAMjuE1soisVnzf7) | [Frequenza Del Cuore 528 Hz \(Nature Version\)](https://open.spotify.com/album/5pZuu7kgbojNBoqS3hECmR) | 2:39 | 2026-04-03 |  |
 | [Fresh Air](https://open.spotify.com/track/0MUmZdQ9bbmNERdOGWVydX) | [John Ocean](https://open.spotify.com/artist/0UWgEdhywZEON8EtIBYGoL) | [Fresh Air](https://open.spotify.com/album/0rwJL6Y78HNXm7CfXhTkOv) | 3:15 | 2024-08-22 |  |
 | [Fresh Air](https://open.spotify.com/track/2MysoZkOGxCtx3ZFVmi6zN) | [Monoquartz](https://open.spotify.com/artist/0d0YxnQSNc7NKKB9fjVslv) | [Fresh Air](https://open.spotify.com/album/0K6cL3Fea7z1aT5YxrNwnl) | 2:28 | 2026-03-16 | 2026-04-09 |
 | [Friður](https://open.spotify.com/track/1rkmSbMTJ4kSNed9O4YwSt) | [Hugleiösla](https://open.spotify.com/artist/0ckEoQesFtWdmchnO9RmIg) | [Friður](https://open.spotify.com/album/4Fu7EYmSZhFNnLEvf4u7VO) | 3:14 | 2023-09-28 |  |
-| [From a Hill](https://open.spotify.com/track/4bvGaHgG1z0uLX5kItReO2) | [Azure Aura](https://open.spotify.com/artist/6mBfByzjieXdCvg1gTm0TR) | [From a Hill](https://open.spotify.com/album/1d9k3ldWgjuHRxOPO91zUA) | 2:33 | 2025-10-01 |  |
+| [From a Hill](https://open.spotify.com/track/4bvGaHgG1z0uLX5kItReO2) | [Azure Aura](https://open.spotify.com/artist/6mBfByzjieXdCvg1gTm0TR) | [From a Hill](https://open.spotify.com/album/1d9k3ldWgjuHRxOPO91zUA) | 2:33 | 2025-10-01 | 2026-04-11 |
 | [Garden of Hope](https://open.spotify.com/track/6OOoPdXoJHwqluL5mSWoTA) | [Willow Woodgrove](https://open.spotify.com/artist/5r4df4m56U0QWtdYNJiVCP) | [Garden of Hope](https://open.spotify.com/album/3ASNAbIm33ZIjkbTmgrmVc) | 2:56 | 2026-03-16 |  |
 | [Gentle Awakening](https://open.spotify.com/track/2Ic1x3G8n6VusjdfiMpbd5) | [Cosmic Embrace](https://open.spotify.com/artist/4Ol24ExBEtGVwQiIGwK2c6) | [Gentle Awakening](https://open.spotify.com/album/7LAOipW1fwh42MHfQx2ZH0) | 3:15 | 2025-12-18 |  |
 | [Gentle Awakening](https://open.spotify.com/track/3Nhb2tW6P3QgBosxqmdACc) | [Lush Aura](https://open.spotify.com/artist/0rO9DA4in8mFpPhCTluEMW) | [Gentle Awakening](https://open.spotify.com/album/3orIz0nqcl54GFcbyyYYWJ) | 3:18 | 2025-04-11 | 2026-03-17 |
@@ -337,7 +338,7 @@
 | [Perfect Harmony](https://open.spotify.com/track/4j8n4QJNpbAVG2zRRBktn7) | [Edmund's Oasis](https://open.spotify.com/artist/5zPsjxustR5GJSG26xw2SR) | [Perfect Harmony](https://open.spotify.com/album/2b1hOdOnn3lhU1nLjh5gS0) | 3:20 | 2024-07-16 | 2025-10-02 |
 | [Perfect State Of Mind](https://open.spotify.com/track/6r0Y7BP8NlfVNrss5bByJJ) | [Pine River](https://open.spotify.com/artist/7HsoTMNjOjjMVQNVzmxCRN) | [Perfect State Of Mind](https://open.spotify.com/album/3BWdIyNrO18p22YN43Fh3b) | 2:35 | 2023-03-13 | 2025-10-02 |
 | [Pesanteur](https://open.spotify.com/track/5pzmVX5w6AK7IEuuAGrCcO) | [Auremist](https://open.spotify.com/artist/66lfbXCNAo1TaYXiFnnaIE) | [Pesanteur](https://open.spotify.com/album/02U4nbAuQOUnU3BXdaeFgU) | 3:26 | 2026-02-18 |  |
-| [Phayao](https://open.spotify.com/track/7h62zRF9tmtVzJvihGyiW4) | [Natthiko](https://open.spotify.com/artist/2WhAGlrlrhnSrEtFnahLmh) | [Phayao](https://open.spotify.com/album/1l8NuTRGtFlHgiMivm4oA9) | 2:30 | 2026-03-16 |  |
+| [Phayao](https://open.spotify.com/track/7h62zRF9tmtVzJvihGyiW4) | [Natthiko](https://open.spotify.com/artist/2WhAGlrlrhnSrEtFnahLmh) | [Phayao](https://open.spotify.com/album/1l8NuTRGtFlHgiMivm4oA9) | 2:30 | 2026-03-16 | 2026-04-11 |
 | [Physis](https://open.spotify.com/track/5GKsdBftZv4KnpGgqVRh1w) | [Rouge Haven](https://open.spotify.com/artist/7iLEu7Ib4kevZUat8dJkvR) | [Physis](https://open.spotify.com/album/3VjPtNVQSOzJQzfhDlTFK3) | 2:26 | 2026-03-16 | 2026-04-04 |
 | [Piccola Valle Verde](https://open.spotify.com/track/1luHl5aJg7nei9z6bXhw1a) | [Die Kaiserin](https://open.spotify.com/artist/76TYz19NwovIfQ1hS7g0LV) | [Piccola Valle Verde](https://open.spotify.com/album/331p32IoM4u2VYT264nO4g) | 2:57 | 2023-04-06 | 2024-06-04 |
 | [Pines in the Morning Haze](https://open.spotify.com/track/1DyC1vurKh8kk0TatwwWI7) | [Ruttik Dhakate](https://open.spotify.com/artist/4vPlN4GEfqIPoiwwsCxZl3) | [Pines in the Morning Haze](https://open.spotify.com/album/6LyH5nHcrzjZsnTIuaii6F) | 2:51 | 2026-03-16 |  |
@@ -466,6 +467,7 @@
 | [The View & Sunday Mornings](https://open.spotify.com/track/4d7JV9GmoojG8Rz9qDMrxy) | [Josef Homola](https://open.spotify.com/artist/01Mll8wovVOj5XaWVanxkB) | [Sunday Mornings XX](https://open.spotify.com/album/6xIXhRLZjOFKZjFknsfVtP) | 2:21 | 2023-01-24 | 2024-12-13 |
 | [The Way I Am & Sunday Mornings](https://open.spotify.com/track/5oUzKkdvWBoX6B0slLHZX7) | [Josef Homola](https://open.spotify.com/artist/01Mll8wovVOj5XaWVanxkB) | [Sunday Mornings XXVIII](https://open.spotify.com/album/6xyFTbKHD0jolOCX5KstzK) | 1:07 | 2023-01-24 | 2023-12-14 |
 | [Thought Blanket \(Spa\)](https://open.spotify.com/track/3CRamP6ljvQYdmN5w1afQg) | [Waves Of Sine](https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt) | [Thought Blanket \(Spa\)](https://open.spotify.com/album/1x38SybytpZIkMTXZxYV2l) | 2:38 | 2026-03-16 |  |
+| [Thoughts Outside My Window](https://open.spotify.com/track/0nM5PzquYJRtbWEwnc0q2t) | [Joan Abe](https://open.spotify.com/artist/3c526c367gWjgUMPxUF5pi) | [Thoughts Outside My Window](https://open.spotify.com/album/4pOfZ2daBo1XvcUucRYtyc) | 2:27 | 2026-04-03 |  |
 | [Through the Forest](https://open.spotify.com/track/0oTdeagIaeCFi6f5kypFsm) | [Forest Gold](https://open.spotify.com/artist/12Lj4bvVL57SoslmmpalNU) | [Through the Forest](https://open.spotify.com/album/4gWWUsdWzGa7ieooBBZKSO) | 3:02 | 2025-04-29 |  |
 | [Time](https://open.spotify.com/track/0NCu83mnrKzJRpWdgtgJ3d) | [Mjukare](https://open.spotify.com/artist/3EPVUUtw45SMtLy90Inn8j) | [Time](https://open.spotify.com/album/7nDQYVGnsHuy1OQzqPiZRn) | 2:09 | 2025-04-29 |  |
 | [Time Travel](https://open.spotify.com/track/1ZSgm3HEOgKmFK5E1lNUTs) | [Antologie](https://open.spotify.com/artist/6T31mMEmlR4YDtVTQtpPyc) | [Time Travel](https://open.spotify.com/album/21HVLy4hKHzk6qAoQiN6hL) | 3:17 | 2023-04-24 | 2026-01-22 |

@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. 🌷
 
-576 songs - 1 day 10 hr 18 min
+577 songs - 1 day 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Diapason](https://open.spotify.com/track/4J9BGcZInwo34jQz7OoZ6R) | [Félix Dyotte](https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8) | [Diapason](https://open.spotify.com/album/6rl0ZMWPSni69nx5kheicc) | 2:26 | 2021-01-30 | 2022-07-27 |
 | [Did Life Work Out for You?](https://open.spotify.com/track/16pDdqp376bpBsBFAZqb0R) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [A Week in Nashville](https://open.spotify.com/album/2fAW7oQpHAHNg31yVgMWg1) | 3:19 | 2024-05-17 |  |
 | [Dis\-moi où tu m'emmènes](https://open.spotify.com/track/7yL5X05lVrh1oybCGCzwHg) | [Erwan](https://open.spotify.com/artist/3uWhb8ADEysVQ5IRoFfAcH) | [Dis\-moi où tu m'emmènes](https://open.spotify.com/album/1g74s7wR4aXTqv9XzIAHtE) | 3:37 | 2021-09-19 | 2021-11-13 |
+| [Dizzy](https://open.spotify.com/track/3ii39q3PlsdGcL2QAxc2pe) | [Edward Rogers](https://open.spotify.com/artist/45nWsdrg5SQJevmlzfCuo1) | [Dizzy](https://open.spotify.com/album/0dD2rA5I3QnNxbzxmnHNe7) | 3:03 | 2026-04-10 |  |
 | [Dog \(everybody learns\)](https://open.spotify.com/track/0aQ7qATPeO0gixsNa3hE2Q) | [Avril Jensen](https://open.spotify.com/artist/5V9RpFO4rgqQ1P5ZLbMVqA) | [Dog \(everybody learns\)](https://open.spotify.com/album/0Iv6SYVClQZFosOykS8jhP) | 3:13 | 2026-02-27 |  |
 | [DON'T WANNA HEAR THAT SONG ANYMORE](https://open.spotify.com/track/3Q72tU2JbmxUaUODbv3GEC) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [DON'T WANNA HEAR THAT SONG ANYMORE](https://open.spotify.com/album/6QMjkSOxC9E7vbqfLDuGEZ) | 3:11 | 2024-08-23 | 2025-11-01 |
 | [Dormance](https://open.spotify.com/track/0ah1tf7hgCCPoj78OSZB9E) | [Gabriel Noël](https://open.spotify.com/artist/6p5qua20Z6aIoP9yXwOHPL) | [Essai de danse sans gravité](https://open.spotify.com/album/0ARc8KE40XTNMXG7Qkdsta) | 2:33 | 2021-01-03\* | 2022-06-18 |
@@ -562,7 +563,7 @@
 | [Waterfall](https://open.spotify.com/track/686REeaDyJsoTNl6eFDFiK) | [Laroie](https://open.spotify.com/artist/3vm1wp0nCMQSIaPVT6f0IY) | [Waterfall](https://open.spotify.com/album/0YxzumaPK6A7xM5mE5s9KA) | 4:39 | 2025-12-05 |  |
 | [Where We Belong](https://open.spotify.com/track/4L9DijwYJ2PvqthNHUEkCE) | [a\-ron songs](https://open.spotify.com/artist/2SZ54u0MjmVUb0TXMZbpc5) | [Where We Belong](https://open.spotify.com/album/0NezjgTpBYmbtHcee8j9fy) | 3:45 | 2026-02-06 |  |
 | [Wildflower and Barley \(feat\. Allison Russell\)](https://open.spotify.com/track/7zTZfbO4ZiK69Y6nO4iyO9) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Unreal Unearth: Unheard](https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN) | 3:42 | 2024-04-05 | 2025-01-07 |
-| [Wish You Well](https://open.spotify.com/track/1iVesG6O65FVRdzrtvC3rJ) | [Cath Darbouze](https://open.spotify.com/artist/27UCUxjYYoK3djQnSTdPWV) | [Wish You Well](https://open.spotify.com/album/5ctm1YamC4YOm4Sp3RRPID) | 3:27 | 2025-11-07 |  |
+| [Wish You Well](https://open.spotify.com/track/1iVesG6O65FVRdzrtvC3rJ) | [Cath Darbouze](https://open.spotify.com/artist/27UCUxjYYoK3djQnSTdPWV) | [Wish You Well](https://open.spotify.com/album/5ctm1YamC4YOm4Sp3RRPID) | 3:27 | 2025-11-07 | 2026-04-11 |
 | [With You \(version française\)](https://open.spotify.com/track/4xdklKIbNKPkVuwKTiNsX0) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31), [Sara Diamond](https://open.spotify.com/artist/4azg4dtpH6PiewGHFzQEj0) | [With You \(version française\)](https://open.spotify.com/album/5Mh7kHXawmEifsim9jrn1A) | 3:18 | 2021-02-22 | 2021-05-27 |
 | [Wolves Don't Live by the Rules \(feat Joe Grass\)](https://open.spotify.com/track/79r3EaZ8M7kEGPy7Tc1KxA) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3), [Joe Grass](https://open.spotify.com/artist/6WSA0zU18B65jo2QDo58Uv) | [The Ballad of the Runaway Girl](https://open.spotify.com/album/4thL3jIVt8oFNZgvnHslkU) | 2:38 | 2021-10-03 | 2025-03-20 |
 | [writer in ny](https://open.spotify.com/track/53bRqXGVyCv1PCjY0fQnmM) | [Ada Lea](https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy) | [one hand on the steering wheel the other sewing a garden](https://open.spotify.com/album/4x39dWBX1IW8wgHufEh6og) | 3:19 | 2022-03-25 | 2022-04-21 |

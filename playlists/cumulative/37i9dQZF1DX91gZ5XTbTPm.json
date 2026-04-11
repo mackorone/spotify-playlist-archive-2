@@ -5998,7 +5998,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 197120,
       "name": "Contagious",
       "url": "https://open.spotify.com/track/6AE7hLZDXIYpce5W036mmh"
@@ -12703,6 +12703,28 @@
     },
     {
       "album": {
+        "name": "I Like",
+        "url": "https://open.spotify.com/album/09hCHK6CoKr5BjztvUPtIF"
+      },
+      "artists": [
+        {
+          "name": "Icewear Vezzo",
+          "url": "https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1"
+        },
+        {
+          "name": "Mello Buckzz",
+          "url": "https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151560,
+      "name": "I Like",
+      "url": "https://open.spotify.com/track/3ZbyU2FLi7yECToFJC716z"
+    },
+    {
+      "album": {
         "name": "I Look Good",
         "url": "https://open.spotify.com/album/1IoA8ma8z6shw1ZAre9rab"
       },
@@ -16820,6 +16842,28 @@
       "duration_ms": 148129,
       "name": "Misfits (feat. Rio Da Yung OG)",
       "url": "https://open.spotify.com/track/5KBFoGbuzcNkGFhqTcBThW"
+    },
+    {
+      "album": {
+        "name": "Note To Self",
+        "url": "https://open.spotify.com/album/47KtxHjRKa2h8gHdmS10Zs"
+      },
+      "artists": [
+        {
+          "name": "Dess Dior",
+          "url": "https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O"
+        },
+        {
+          "name": "YFN Lucci",
+          "url": "https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167971,
+      "name": "Missin' You",
+      "url": "https://open.spotify.com/track/3G922nfHctzs57wtJXqxfR"
     },
     {
       "album": {
@@ -21116,7 +21160,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 108334,
       "name": "PUNCH DRUNK",
       "url": "https://open.spotify.com/track/4bWZz15GR1EE8E8x23rDWV"

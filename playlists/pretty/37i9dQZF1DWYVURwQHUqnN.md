@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 
 > Photo : Guy2Bezbar x Alonzo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,162,742 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,162,777 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 | 14 | [SENSUAL](https://open.spotify.com/track/4hoCktfuRkcuZGN6rY9Te5) | [Karmen](https://open.spotify.com/artist/1EIQvc0qBhTAnZAcf5REtq) | [SENSUAL](https://open.spotify.com/album/240QluDzYK3IphTnRsrfam) | 2:19 |
 | 15 | [CÔTÉ PASSAGER](https://open.spotify.com/track/31ELH1fZZyryhGODyWkZGN) | [SativaMusic](https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv), [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [CÔTÉ PASSAGER](https://open.spotify.com/album/7vRRCZuf2artulezWutf6t) | 2:08 |
 | 16 | [BMW](https://open.spotify.com/track/6e4MfehUZ1wzSPwbOG3N4A) | [Black Cat](https://open.spotify.com/artist/3YiFVUColvEK1dQAqDKYzU) | [BMW](https://open.spotify.com/album/6cu1V5JlSGdB26I2WlrUrF) | 2:25 |
-| 17 | [CLASSE G \(feat\. Hornet La Frappe & N'Ken\)](https://open.spotify.com/track/5cRB7bjIxlRw1WE1s6mSob) | [DJ Ken](https://open.spotify.com/artist/1qyIUGgexI2Qi0NRweEVgf), [Hornet La Frappe](https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW), [N'Ken](https://open.spotify.com/artist/4tZPI4M7z2CV9odcpAbRmF) | [CLASSE G \(feat\. Hornet La Frappe & N'Ken\)](https://open.spotify.com/album/64tJiJFVMWd0EbFXQu3bfi) | 2:45 |
+| 17 | [CLASSE G \(feat\. Hornet La Frappe & N'Ken\)](https://open.spotify.com/track/5cRB7bjIxlRw1WE1s6mSob) | [DJ Ken](https://open.spotify.com/artist/1qyIUGgexI2Qi0NRweEVgf), [Hornet La Frappe](https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW), [N'Ken](https://open.spotify.com/artist/7CiDghduh4uqMn0zSkPx1p) | [CLASSE G \(feat\. Hornet La Frappe & N'Ken\)](https://open.spotify.com/album/64tJiJFVMWd0EbFXQu3bfi) | 2:45 |
 | 18 | [Choco Choco](https://open.spotify.com/track/5tI73fA7h63cAcIf3c4CBN) | [Josas](https://open.spotify.com/artist/13IyCFiPKhpVejuTyNulgU), [TK](https://open.spotify.com/artist/5vnUF9uAL0ly7qw25ERLuC) | [Choco Choco](https://open.spotify.com/album/4jOEbgU3sMXTEIGmWjZzpq) | 3:20 |
 | 19 | [Tchébé 2x](https://open.spotify.com/track/7l3b0X95GdYfRuW8Kq5ixC) | [Bilouki](https://open.spotify.com/artist/1NB6QyaNXhrDd82y0WyG3I) | [14 KARA](https://open.spotify.com/album/6gj8kuC8BbDoEhzPPP7AyC) | 2:30 |
 | 20 | [Sans toi](https://open.spotify.com/track/7KfRE1FPh0HRsF4tTO1XFC) | [Dj Youcef](https://open.spotify.com/artist/7dhDLHILqhHlgn0hPn8rOZ), [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [Sans toi](https://open.spotify.com/album/4amqcpoxDGYH4MK5xSzS9g) | 2:17 |

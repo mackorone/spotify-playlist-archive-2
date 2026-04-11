@@ -893,6 +893,28 @@
     },
     {
       "album": {
+        "name": "Chicago Baby",
+        "url": "https://open.spotify.com/album/56qBECtIQmJtnafmpF70IS"
+      },
+      "artists": [
+        {
+          "name": "Benny Benassi",
+          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
+        },
+        {
+          "name": "Felix Da Housecat",
+          "url": "https://open.spotify.com/artist/4rC8J4M4aOqsQSCP4yoyJI"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216662,
+      "name": "Chicago Baby",
+      "url": "https://open.spotify.com/track/2AkcyJ8tQtyrGfkWa6GKed"
+    },
+    {
+      "album": {
         "name": "City Lights",
         "url": "https://open.spotify.com/album/5kP4nlkyCH0sN4SzIYn1CB"
       },
@@ -1588,6 +1610,28 @@
       "duration_ms": 162807,
       "name": "Eating Heartache (feat. spill tab)",
       "url": "https://open.spotify.com/track/6av2VhdqgE87rHJVaqtOfS"
+    },
+    {
+      "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/37CYoaYJA39qUt4zl00Dnp"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219785,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/1HJqcvrJAgiID47SEGe27X"
     },
     {
       "album": {
@@ -2416,7 +2460,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 136166,
       "name": "Heart Stop",
       "url": "https://open.spotify.com/track/22mY0eDj92JGFsmQP5etYS"
@@ -3413,6 +3457,28 @@
     },
     {
       "album": {
+        "name": "kompa bailar",
+        "url": "https://open.spotify.com/album/3dDNHY2rg2NRBrxboG1sjs"
+      },
+      "artists": [
+        {
+          "name": "\u0444\u0440\u043e\u0437\u0438",
+          "url": "https://open.spotify.com/artist/3IIpbS5XHnLSdXTP4c1YN2"
+        },
+        {
+          "name": "G3O",
+          "url": "https://open.spotify.com/artist/1DzSz3orlMPP7VTFJxkGzs"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89078,
+      "name": "kompa bailar",
+      "url": "https://open.spotify.com/track/7D3DFAxOY8tfLNbi6O0mwZ"
+    },
+    {
+      "album": {
         "name": "Larger Than Life",
         "url": "https://open.spotify.com/album/4lWuS2YNiLaGFQb4dBUqSG"
       },
@@ -4056,7 +4122,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 192005,
       "name": "Message in a Bottle",
       "url": "https://open.spotify.com/track/59t2C6zGaKMmaLRTJ7zfvx"
@@ -4156,6 +4222,28 @@
       "duration_ms": 182307,
       "name": "Miracle (with Ellie Goulding) - David Guetta Remix",
       "url": "https://open.spotify.com/track/4RFlvg9BmFnvlIBIZGg1Dt"
+    },
+    {
+      "album": {
+        "name": "Miss That (Marten Lou Remix)",
+        "url": "https://open.spotify.com/album/0lLbRJhBbp37aZYgdOBqm2"
+      },
+      "artists": [
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        },
+        {
+          "name": "Marten Lou",
+          "url": "https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220705,
+      "name": "Miss That - Marten Lou Remix",
+      "url": "https://open.spotify.com/track/01jOgVUVbmT0lXRaWRmYqi"
     },
     {
       "album": {
@@ -4894,7 +4982,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 158769,
       "name": "Only Friends",
       "url": "https://open.spotify.com/track/15a30YqNPApO8OS0RpqNND"
@@ -5146,7 +5234,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 286782,
       "name": "Powerful Play - andhim Remix",
       "url": "https://open.spotify.com/track/7CxHg0Flarn1KvUBCpN2PX"
@@ -5790,7 +5878,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 208562,
       "name": "Sesh",
       "url": "https://open.spotify.com/track/0WTo0BMrGPJJqWGFtJc8pS"
@@ -7324,6 +7412,24 @@
       "duration_ms": 263879,
       "name": "Without You (with HAYLA)",
       "url": "https://open.spotify.com/track/5KW4qNLjWeh7rMbxCfg89N"
+    },
+    {
+      "album": {
+        "name": "Work",
+        "url": "https://open.spotify.com/album/50Dgr7jv8mIp9fZFo8aLwd"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171864,
+      "name": "Work",
+      "url": "https://open.spotify.com/track/0ArfxWwRJx3Q5RCSnhZEED"
     },
     {
       "album": {

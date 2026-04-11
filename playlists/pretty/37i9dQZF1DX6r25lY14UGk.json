@@ -1,13 +1,89 @@
 {
-  "description": "New releases for the kids. Cover: Peppa Pig",
-  "num_followers": 95379,
+  "description": "New releases for the kids. Cover: Blippi & Yellowcard",
+  "num_followers": 95444,
   "original_name": "New Kids Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFvJDLfvP0FdXNLRB8xGGuAurMuU",
+  "snapshot_id": "AAAAAGmUnS5eo2hC6DncaFDjeGUr2MoV",
   "tracks": [
+    {
+      "added_at": "2026-04-10 04:00:48",
+      "album": {
+        "name": "Bedroom Posters (feat. Blippi)",
+        "url": "https://open.spotify.com/album/6ZqylFxqg9iX1LnwMFXw4n"
+      },
+      "artists": [
+        {
+          "name": "Yellowcard",
+          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
+        },
+        {
+          "name": "Blippi",
+          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
+        }
+      ],
+      "duration_ms": 224571,
+      "name": "Bedroom Posters (feat. Blippi)",
+      "url": "https://open.spotify.com/track/29hWBaFS2d7cVDgCi3nbam"
+    },
+    {
+      "added_at": "2026-04-10 04:00:48",
+      "album": {
+        "name": "Purrfect Friend",
+        "url": "https://open.spotify.com/album/3hRrlS5hnWywtHEfzhgRzV"
+      },
+      "artists": [
+        {
+          "name": "PAW Patrol",
+          "url": "https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED"
+        },
+        {
+          "name": "Nick Jr.",
+          "url": "https://open.spotify.com/artist/2hMLlEmFVPTsBh803qCfoC"
+        }
+      ],
+      "duration_ms": 52510,
+      "name": "Purrfect Friend",
+      "url": "https://open.spotify.com/track/6eh0rQV7I3ylNTQiaHcPRh"
+    },
+    {
+      "added_at": "2026-04-10 04:00:48",
+      "album": {
+        "name": "Warming Up Our Voices",
+        "url": "https://open.spotify.com/album/0y40zS98E4fQB7RWg8oxKL"
+      },
+      "artists": [
+        {
+          "name": "Caitie's Classroom",
+          "url": "https://open.spotify.com/artist/7KqTz4iDBYBRvVyReA3SHo"
+        },
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "duration_ms": 201229,
+      "name": "Warming Up Our Voices",
+      "url": "https://open.spotify.com/track/5F7QAjG5Oil2J1MQwAPosm"
+    },
+    {
+      "added_at": "2026-04-10 04:00:48",
+      "album": {
+        "name": "There's an Animal That I See",
+        "url": "https://open.spotify.com/album/4suCqc4zOC8wafd5i9mzEp"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "duration_ms": 175087,
+      "name": "There's an Animal That I See",
+      "url": "https://open.spotify.com/track/38SPer8dqQvGIPdSSMqNBy"
+    },
     {
       "added_at": "2026-04-03 04:01:35",
       "album": {

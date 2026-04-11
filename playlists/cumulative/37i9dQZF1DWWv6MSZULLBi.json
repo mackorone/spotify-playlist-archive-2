@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "A laid-back trip in the folk scene. Cover: Forest Blakk & Joy Williams",
+  "description": "A laid-back trip in the folk scene. Cover: Allison Russell",
   "name": "Folk & Friends",
   "tracks": [
     {
@@ -3381,6 +3381,24 @@
     },
     {
       "album": {
+        "name": "Bring Home My Man",
+        "url": "https://open.spotify.com/album/2REPn6jp6zVP2xXf6VhWCy"
+      },
+      "artists": [
+        {
+          "name": "Maya Hawke",
+          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262306,
+      "name": "Bring Home My Man",
+      "url": "https://open.spotify.com/track/1OeNu7kjS4MGCt1nTzgefU"
+    },
+    {
+      "album": {
         "name": "Broke Skin",
         "url": "https://open.spotify.com/album/52ZgfTnnDFpoEdkpQgZpLO"
       },
@@ -4658,7 +4676,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 177565,
       "name": "coldwater canyon",
       "url": "https://open.spotify.com/track/4TF5BEtzmoDaubmY6W4E38"
@@ -5330,7 +5348,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 102327,
       "name": "Daniel's Theme",
       "url": "https://open.spotify.com/track/5vF5orpSWS0qxC0GsPJkq8"
@@ -8126,7 +8144,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 235084,
       "name": "Feel it All",
       "url": "https://open.spotify.com/track/3HLzg6m80jdZMtuV4P1j0i"
@@ -9130,7 +9148,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 209773,
       "name": "Fourteen Hours",
       "url": "https://open.spotify.com/track/0IAG7vs6rImln2cP8Hnlyk"
@@ -9444,6 +9462,24 @@
       "duration_ms": 271777,
       "name": "Gemini",
       "url": "https://open.spotify.com/track/3u1kYrlI4uU9RXG09QYKOP"
+    },
+    {
+      "album": {
+        "name": "genny please!",
+        "url": "https://open.spotify.com/album/5bYJtGZYAMHHWbDh1qVPVl"
+      },
+      "artists": [
+        {
+          "name": "Jahson Paynter",
+          "url": "https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203076,
+      "name": "genny please!",
+      "url": "https://open.spotify.com/track/5eFSmlYXFABhaBPH0UO4RG"
     },
     {
       "album": {
@@ -14276,7 +14312,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 224276,
       "name": "Let the Winter Have Me",
       "url": "https://open.spotify.com/track/6n95B2mJPJBS3lBSn86JfL"
@@ -14666,7 +14702,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 209748,
       "name": "Little Things",
       "url": "https://open.spotify.com/track/72S6t946GxdLD2hlGhyHHQ"
@@ -16081,6 +16117,24 @@
     },
     {
       "album": {
+        "name": "Alexander Mure's Songs in the Key of C-Minus!",
+        "url": "https://open.spotify.com/album/04GJJ7V0sBgkRREWsBJHZf"
+      },
+      "artists": [
+        {
+          "name": "Mah Moud",
+          "url": "https://open.spotify.com/artist/5GrZNbHTzxnbHge9Ytafdf"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Milkman",
+      "url": "https://open.spotify.com/track/6HoUzmc0wu7zjKgjnKKTLX"
+    },
+    {
+      "album": {
         "name": "Copper Changes Color",
         "url": "https://open.spotify.com/album/52Pm7PUhlVVBqd5l9To4Sy"
       },
@@ -16827,6 +16881,24 @@
     },
     {
       "album": {
+        "name": "My Mess",
+        "url": "https://open.spotify.com/album/6SJIgDyt7PDWKtlFP77VLu"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "My Mess",
+      "url": "https://open.spotify.com/track/5p3Jpxg9clWBDLy9kdD6CY"
+    },
+    {
+      "album": {
         "name": "My Mind",
         "url": "https://open.spotify.com/album/2Y204wp0ouq1A83CBnnKtz"
       },
@@ -17336,7 +17408,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 233322,
       "name": "Night Bus",
       "url": "https://open.spotify.com/track/3MLaTl0fF9Z8SI1h6Tqjka"
@@ -17571,6 +17643,32 @@
     },
     {
       "album": {
+        "name": "No Springtime (ft. Joy Oladokun & Julie Williams)",
+        "url": "https://open.spotify.com/album/66qSzjkzyYbD2cXKauAOVJ"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        },
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        },
+        {
+          "name": "Julie Williams",
+          "url": "https://open.spotify.com/artist/4sRUZFWl0hDJg6MW9lHKR9"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200373,
+      "name": "No Springtime (ft. Joy Oladokun & Julie Williams)",
+      "url": "https://open.spotify.com/track/4roCXZFxzB1WrKofdjedQg"
+    },
+    {
+      "album": {
         "name": "No Strings",
         "url": "https://open.spotify.com/album/4LDOFx1Km6O5vYbN5Z3iFb"
       },
@@ -17586,6 +17684,24 @@
       "duration_ms": 213080,
       "name": "No Strings",
       "url": "https://open.spotify.com/track/2EVPJwUDXYldA6gAv00Tj6"
+    },
+    {
+      "album": {
+        "name": "Coming Back Home",
+        "url": "https://open.spotify.com/album/5vaB7XFJHkhn6a7GTyg8H4"
+      },
+      "artists": [
+        {
+          "name": "Late Night Thoughts",
+          "url": "https://open.spotify.com/artist/71o2qG4Qam85pPaPlw4zhN"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176963,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/1fKlw3VYpNwz2KUqUO0Kou"
     },
     {
       "album": {
@@ -18080,6 +18196,24 @@
       "duration_ms": 219300,
       "name": "Oh Vibrant Sky",
       "url": "https://open.spotify.com/track/6CBD4N091Oa27UxAt9ache"
+    },
+    {
+      "album": {
+        "name": "Oh, Ana",
+        "url": "https://open.spotify.com/album/7h9mJCFBWhaRdWHm28xIME"
+      },
+      "artists": [
+        {
+          "name": "Dominique Way",
+          "url": "https://open.spotify.com/artist/5kROZ1F7ExRZyFnHvKdlJ7"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192600,
+      "name": "Oh, Ana",
+      "url": "https://open.spotify.com/track/46G3dLvPYBjRB5WzyvWr32"
     },
     {
       "album": {
@@ -18880,7 +19014,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 100733,
       "name": "Pajarito",
       "url": "https://open.spotify.com/track/5gAWalJr8o0koAvUVOKO7S"
@@ -21962,7 +22096,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 231499,
       "name": "Small Town Joan of Arc",
       "url": "https://open.spotify.com/track/3xffKXnwzuAsio7sJgYECf"
@@ -23729,6 +23863,24 @@
     },
     {
       "album": {
+        "name": "tangerine!",
+        "url": "https://open.spotify.com/album/4e4WfNz2OUB7oqsRJL2PQl"
+      },
+      "artists": [
+        {
+          "name": "Jahson Paynter",
+          "url": "https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158117,
+      "name": "tangerine!",
+      "url": "https://open.spotify.com/track/3CElLbVHAx5oqgDozDdpwR"
+    },
+    {
+      "album": {
         "name": "Tear in the Tide",
         "url": "https://open.spotify.com/album/3KABPyNYjL0K2r7rjgDZFo"
       },
@@ -24404,7 +24556,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 159586,
       "name": "The Greatest",
       "url": "https://open.spotify.com/track/44yHaAvGzJ9rccfkvDS15X"
@@ -24548,7 +24700,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 222131,
       "name": "The Man I'm Supposed To Be",
       "url": "https://open.spotify.com/track/3Kbgwa33bP2XwjjI2f4K5V"
@@ -24638,7 +24790,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 225615,
       "name": "The News",
       "url": "https://open.spotify.com/track/7DBf7vpgcSNBw6dL3IIuHD"
@@ -26331,6 +26483,28 @@
     },
     {
       "album": {
+        "name": "Venus in the Zinnia",
+        "url": "https://open.spotify.com/album/1g8xMfOWEPfIuxHory8Pg9"
+      },
+      "artists": [
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        },
+        {
+          "name": "H. Hawkline",
+          "url": "https://open.spotify.com/artist/7FmM0XgimRvS48CfObh2ht"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197372,
+      "name": "Venus in the Zinnia",
+      "url": "https://open.spotify.com/track/6X5ARfLepGTGntuFbc2Hpo"
+    },
+    {
+      "album": {
         "name": "consolation",
         "url": "https://open.spotify.com/album/557byf4k5KkoU7UnjAVpKc"
       },
@@ -27886,7 +28060,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 252786,
       "name": "winding down",
       "url": "https://open.spotify.com/track/3kVCAHJ6NUmyjobxsTzB5O"
@@ -28257,6 +28431,24 @@
     },
     {
       "album": {
+        "name": "Yet to Let Me Down",
+        "url": "https://open.spotify.com/album/230eu0xSurQLfonPk0MIdP"
+      },
+      "artists": [
+        {
+          "name": "Logan Richard",
+          "url": "https://open.spotify.com/artist/0clafcEW9Npsrqo76bL13o"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243348,
+      "name": "Yet to Let Me Down",
+      "url": "https://open.spotify.com/track/5OmgtVmWrq2RBh4Lkeu0L5"
+    },
+    {
+      "album": {
         "name": "yeti",
         "url": "https://open.spotify.com/album/5gV0RiQSQfuac6mApqgBDy"
       },
@@ -28374,6 +28566,24 @@
       "duration_ms": 168513,
       "name": "You and I",
       "url": "https://open.spotify.com/track/2ia6zPFz6SF8ZOT5mpR2TA"
+    },
+    {
+      "album": {
+        "name": "You and I",
+        "url": "https://open.spotify.com/album/5ILxuigcogkefZqzMuHU2t"
+      },
+      "artists": [
+        {
+          "name": "Lily Meola",
+          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169278,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/3veAtMxHWM7SbZOXfJ142t"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Calema",
-  "num_followers": 243853,
+  "num_followers": 243906,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
@@ -567,8 +567,8 @@
     {
       "added_at": "2026-04-09 23:00:41",
       "album": {
-        "name": "Amar Pela Metade / Aimer \u00c0 Moiti\u00e9",
-        "url": "https://open.spotify.com/album/4mQAniy3xRPVtfQGJKDZxu"
+        "name": "Te Amo",
+        "url": "https://open.spotify.com/album/4xCCW00iAqMGJArZCBIVNZ"
       },
       "artists": [
         {
@@ -576,9 +576,9 @@
           "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
         }
       ],
-      "duration_ms": 186922,
-      "name": "Amar Pela Metade",
-      "url": "https://open.spotify.com/track/3NhDCAOOhfGrHxuwquVgNz"
+      "duration_ms": 255690,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/1pcARA1iBjvjnHgrMeo9c9"
     },
     {
       "added_at": "2026-04-09 23:00:41",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-04-09 23:00:41",
       "album": {
-        "name": "Passada",
-        "url": "https://open.spotify.com/album/6iAjsqDaXBNlnU1o2hjpdG"
-      },
-      "artists": [
-        {
-          "name": "Garry",
-          "url": "https://open.spotify.com/artist/3U0IGidZSk3ObLUMwDxVxS"
-        }
-      ],
-      "duration_ms": 223657,
-      "name": "Passada",
-      "url": "https://open.spotify.com/track/5ig7dqFjwpLy9FlM7IkGws"
-    },
-    {
-      "added_at": "2026-04-09 23:00:41",
-      "album": {
         "name": "Akanadja",
         "url": "https://open.spotify.com/album/2bvvjR9iZN9jo4qugFZnON"
       },
@@ -683,18 +667,38 @@
     {
       "added_at": "2026-04-09 23:00:41",
       "album": {
-        "name": "Porta",
-        "url": "https://open.spotify.com/album/2V1L3nWQLyxPE7adD05tDC"
+        "name": "Passada",
+        "url": "https://open.spotify.com/album/6iAjsqDaXBNlnU1o2hjpdG"
+      },
+      "artists": [
+        {
+          "name": "Garry",
+          "url": "https://open.spotify.com/artist/3U0IGidZSk3ObLUMwDxVxS"
+        }
+      ],
+      "duration_ms": 223657,
+      "name": "Passada",
+      "url": "https://open.spotify.com/track/5ig7dqFjwpLy9FlM7IkGws"
+    },
+    {
+      "added_at": "2026-04-09 23:00:41",
+      "album": {
+        "name": "\u00daltima L\u00e1grima",
+        "url": "https://open.spotify.com/album/4zjtymkeds3m640tebq4a5"
       },
       "artists": [
         {
           "name": "Button Rose",
           "url": "https://open.spotify.com/artist/6K2uG6jS3G38wI9ue1ifiD"
+        },
+        {
+          "name": "Biig Star",
+          "url": "https://open.spotify.com/artist/1TS8DXgkRBOeoVfTuD9e0i"
         }
       ],
-      "duration_ms": 221538,
-      "name": "Porta",
-      "url": "https://open.spotify.com/track/6qP8HCOpt40MQ8gGJcuVRr"
+      "duration_ms": 242608,
+      "name": "\u00daltima L\u00e1grima",
+      "url": "https://open.spotify.com/track/4ybIsiDsUvb7WCEeZhiUlv"
     },
     {
       "added_at": "2026-04-09 23:00:41",
@@ -779,22 +783,18 @@
     {
       "added_at": "2026-04-09 23:00:41",
       "album": {
-        "name": "\u00daltima L\u00e1grima",
-        "url": "https://open.spotify.com/album/4zjtymkeds3m640tebq4a5"
+        "name": "Porta",
+        "url": "https://open.spotify.com/album/2V1L3nWQLyxPE7adD05tDC"
       },
       "artists": [
         {
           "name": "Button Rose",
           "url": "https://open.spotify.com/artist/6K2uG6jS3G38wI9ue1ifiD"
-        },
-        {
-          "name": "Biig Star",
-          "url": "https://open.spotify.com/artist/1TS8DXgkRBOeoVfTuD9e0i"
         }
       ],
-      "duration_ms": 242608,
-      "name": "\u00daltima L\u00e1grima",
-      "url": "https://open.spotify.com/track/4ybIsiDsUvb7WCEeZhiUlv"
+      "duration_ms": 221538,
+      "name": "Porta",
+      "url": "https://open.spotify.com/track/6qP8HCOpt40MQ8gGJcuVRr"
     },
     {
       "added_at": "2026-04-09 23:00:41",
@@ -1211,6 +1211,26 @@
     {
       "added_at": "2026-04-09 23:00:41",
       "album": {
+        "name": "N\u00e3o Me Importa",
+        "url": "https://open.spotify.com/album/2TNkYEnb4blSgibisFfSUE"
+      },
+      "artists": [
+        {
+          "name": "Afro Connexion",
+          "url": "https://open.spotify.com/artist/0JruE4kOBZvm512ggXVwkD"
+        },
+        {
+          "name": "Tommy Guitar",
+          "url": "https://open.spotify.com/artist/4ryhVAm919tcFgnws5ddti"
+        }
+      ],
+      "duration_ms": 195417,
+      "name": "N\u00e3o Me Importa",
+      "url": "https://open.spotify.com/track/25kY6gmdHHbBNaMFvu2pnP"
+    },
+    {
+      "added_at": "2026-04-09 23:00:41",
+      "album": {
         "name": "Nha Preta",
         "url": "https://open.spotify.com/album/1Bq46oN238vBDzOl6VHUza"
       },
@@ -1243,26 +1263,6 @@
       "duration_ms": 151579,
       "name": "14",
       "url": "https://open.spotify.com/track/2PNLTYeAebJgoMOxYb7i2S"
-    },
-    {
-      "added_at": "2026-04-09 23:00:41",
-      "album": {
-        "name": "N\u00e3o Me Importa",
-        "url": "https://open.spotify.com/album/2TNkYEnb4blSgibisFfSUE"
-      },
-      "artists": [
-        {
-          "name": "Afro Connexion",
-          "url": "https://open.spotify.com/artist/0JruE4kOBZvm512ggXVwkD"
-        },
-        {
-          "name": "Tommy Guitar",
-          "url": "https://open.spotify.com/artist/4ryhVAm919tcFgnws5ddti"
-        }
-      ],
-      "duration_ms": 195417,
-      "name": "N\u00e3o Me Importa",
-      "url": "https://open.spotify.com/track/25kY6gmdHHbBNaMFvu2pnP"
     },
     {
       "added_at": "2026-04-09 23:00:41",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2026-04-09 23:00:41",
       "album": {
+        "name": "Mar\u00e9",
+        "url": "https://open.spotify.com/album/1A1JlV7ALaDEOpppBNzqGo"
+      },
+      "artists": [
+        {
+          "name": "Mr. KIZOMBA",
+          "url": "https://open.spotify.com/artist/6L5p4GE1qD7ELAI9rk8iI7"
+        }
+      ],
+      "duration_ms": 231061,
+      "name": "Mar\u00e9",
+      "url": "https://open.spotify.com/track/6r8Wp6By36CQWgnpAmwvjM"
+    },
+    {
+      "added_at": "2026-04-09 23:00:41",
+      "album": {
         "name": "Noz Cantinh",
         "url": "https://open.spotify.com/album/71n3i7F7wQsYUPux9m4ZMW"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 218372,
       "name": "Noz Cantinh",
       "url": "https://open.spotify.com/track/29v088i4fNJwiIqiOMVZ5W"
-    },
-    {
-      "added_at": "2026-04-09 23:00:41",
-      "album": {
-        "name": "Mar\u00e9",
-        "url": "https://open.spotify.com/album/1A1JlV7ALaDEOpppBNzqGo"
-      },
-      "artists": [
-        {
-          "name": "Mr. KIZOMBA",
-          "url": "https://open.spotify.com/artist/6L5p4GE1qD7ELAI9rk8iI7"
-        }
-      ],
-      "duration_ms": 231061,
-      "name": "Mar\u00e9",
-      "url": "https://open.spotify.com/track/6r8Wp6By36CQWgnpAmwvjM"
     },
     {
       "added_at": "2026-04-09 23:00:41",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2026-04-09 23:00:41",
       "album": {
-        "name": "\u00c9s S\u00f3 Tu",
-        "url": "https://open.spotify.com/album/7j7Wms0KNvccZAR7LQbUaz"
-      },
-      "artists": [
-        {
-          "name": "Yasmine",
-          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
-        }
-      ],
-      "duration_ms": 174174,
-      "name": "\u00c9s S\u00f3 Tu",
-      "url": "https://open.spotify.com/track/6iPtPVekBPpDc3okcrpreo"
-    },
-    {
-      "added_at": "2026-04-09 23:00:41",
-      "album": {
         "name": "Choices",
         "url": "https://open.spotify.com/album/5paRTOL3SEbtrR11fLu05r"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 134279,
       "name": "0 a 100",
       "url": "https://open.spotify.com/track/6b2VNir58EMaPyNIN5Fz3p"
+    },
+    {
+      "added_at": "2026-04-09 23:00:41",
+      "album": {
+        "name": "\u00c9s S\u00f3 Tu",
+        "url": "https://open.spotify.com/album/7j7Wms0KNvccZAR7LQbUaz"
+      },
+      "artists": [
+        {
+          "name": "Yasmine",
+          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
+        }
+      ],
+      "duration_ms": 174174,
+      "name": "\u00c9s S\u00f3 Tu",
+      "url": "https://open.spotify.com/track/6iPtPVekBPpDc3okcrpreo"
     },
     {
       "added_at": "2026-04-09 23:00:41",
@@ -1543,26 +1543,6 @@
     {
       "added_at": "2026-04-09 23:00:41",
       "album": {
-        "name": "TANTO PR\u2019A VIVER (feat. Matias Dam\u00e1sio)",
-        "url": "https://open.spotify.com/album/4n7bQ38B5YqWTXmJ19ABHi"
-      },
-      "artists": [
-        {
-          "name": "Irina Barros",
-          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
-        },
-        {
-          "name": "Matias Dam\u00e1sio",
-          "url": "https://open.spotify.com/artist/0E0XPqa6BzxSkhmhvzA3k2"
-        }
-      ],
-      "duration_ms": 183958,
-      "name": "TANTO PR\u2019A VIVER (feat. Matias Dam\u00e1sio)",
-      "url": "https://open.spotify.com/track/3gom9XHytg4YnDKzOVDVI4"
-    },
-    {
-      "added_at": "2026-04-09 23:00:41",
-      "album": {
         "name": "BTLV",
         "url": "https://open.spotify.com/album/4p7bM6yutMVmZkWiFMes4a"
       },
@@ -1595,6 +1575,26 @@
       "duration_ms": 202986,
       "name": "GBB",
       "url": "https://open.spotify.com/track/7tdtvi7LWBoR9OTTjxd46A"
+    },
+    {
+      "added_at": "2026-04-09 23:00:41",
+      "album": {
+        "name": "TANTO PR\u2019A VIVER (feat. Matias Dam\u00e1sio)",
+        "url": "https://open.spotify.com/album/4n7bQ38B5YqWTXmJ19ABHi"
+      },
+      "artists": [
+        {
+          "name": "Irina Barros",
+          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
+        },
+        {
+          "name": "Matias Dam\u00e1sio",
+          "url": "https://open.spotify.com/artist/0E0XPqa6BzxSkhmhvzA3k2"
+        }
+      ],
+      "duration_ms": 183958,
+      "name": "TANTO PR\u2019A VIVER (feat. Matias Dam\u00e1sio)",
+      "url": "https://open.spotify.com/track/3gom9XHytg4YnDKzOVDVI4"
     },
     {
       "added_at": "2026-04-09 23:00:41",
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2026-04-09 23:00:41",
       "album": {
+        "name": "O Jeito Dela",
+        "url": "https://open.spotify.com/album/3soRnkMgKurzDLFH41Zb8g"
+      },
+      "artists": [
+        {
+          "name": "Gasso Franco",
+          "url": "https://open.spotify.com/artist/4vmi92Wdt4eTFUA6o4ST0i"
+        }
+      ],
+      "duration_ms": 216127,
+      "name": "O Jeito Dela - Radio Edit",
+      "url": "https://open.spotify.com/track/1IPfgonCiEuHRIsDddkBWq"
+    },
+    {
+      "added_at": "2026-04-09 23:00:41",
+      "album": {
         "name": "\u00c9 MEMO ESSE",
         "url": "https://open.spotify.com/album/1qoPmHhWMokEMlexO3nY0P"
       },
@@ -1679,22 +1695,6 @@
       "duration_ms": 209280,
       "name": "\u00c9 MEMO ESSE",
       "url": "https://open.spotify.com/track/6y6f8Vo7ZAFaUkq4w4jjaO"
-    },
-    {
-      "added_at": "2026-04-09 23:00:41",
-      "album": {
-        "name": "O Jeito Dela",
-        "url": "https://open.spotify.com/album/3soRnkMgKurzDLFH41Zb8g"
-      },
-      "artists": [
-        {
-          "name": "Gasso Franco",
-          "url": "https://open.spotify.com/artist/4vmi92Wdt4eTFUA6o4ST0i"
-        }
-      ],
-      "duration_ms": 216127,
-      "name": "O Jeito Dela - Radio Edit",
-      "url": "https://open.spotify.com/track/1IPfgonCiEuHRIsDddkBWq"
     },
     {
       "added_at": "2026-04-09 23:00:41",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2026-04-09 23:00:41",
       "album": {
-        "name": "Bye Bye",
-        "url": "https://open.spotify.com/album/3N5otHQA5GL3sX9y56xOwt"
-      },
-      "artists": [
-        {
-          "name": "Avanah",
-          "url": "https://open.spotify.com/artist/4kS6NC6K4IAwuwuaAazVFY"
-        }
-      ],
-      "duration_ms": 186727,
-      "name": "Bye Bye",
-      "url": "https://open.spotify.com/track/3zHqzrkiGN7RR1OFjcS8JZ"
-    },
-    {
-      "added_at": "2026-04-09 23:00:41",
-      "album": {
         "name": "TROMPETE",
         "url": "https://open.spotify.com/album/6xGbYgroEdQLyEMdSeQqeS"
       },
@@ -1803,6 +1787,26 @@
       "duration_ms": 257137,
       "name": "TROMPETE",
       "url": "https://open.spotify.com/track/2PEIsEdhCs1ykvN9tY6erM"
+    },
+    {
+      "added_at": "2026-04-09 23:00:41",
+      "album": {
+        "name": "Filme",
+        "url": "https://open.spotify.com/album/1x2A4KzdcS4RCkCqLjEohS"
+      },
+      "artists": [
+        {
+          "name": "Deejay Telio",
+          "url": "https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n"
+        },
+        {
+          "name": "Irina Barros",
+          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
+        }
+      ],
+      "duration_ms": 166810,
+      "name": "Filme",
+      "url": "https://open.spotify.com/track/1RWKoFGg4XN4pnHw7OVDac"
     },
     {
       "added_at": "2026-04-09 23:00:41",
@@ -1851,22 +1855,18 @@
     {
       "added_at": "2026-04-09 23:00:41",
       "album": {
-        "name": "Filme",
-        "url": "https://open.spotify.com/album/1x2A4KzdcS4RCkCqLjEohS"
+        "name": "Bye Bye",
+        "url": "https://open.spotify.com/album/3N5otHQA5GL3sX9y56xOwt"
       },
       "artists": [
         {
-          "name": "Deejay Telio",
-          "url": "https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n"
-        },
-        {
-          "name": "Irina Barros",
-          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
+          "name": "Avanah",
+          "url": "https://open.spotify.com/artist/4kS6NC6K4IAwuwuaAazVFY"
         }
       ],
-      "duration_ms": 166810,
-      "name": "Filme",
-      "url": "https://open.spotify.com/track/1RWKoFGg4XN4pnHw7OVDac"
+      "duration_ms": 186727,
+      "name": "Bye Bye",
+      "url": "https://open.spotify.com/track/3zHqzrkiGN7RR1OFjcS8JZ"
     }
   ],
   "unique_name": "Dancing Kizomba",

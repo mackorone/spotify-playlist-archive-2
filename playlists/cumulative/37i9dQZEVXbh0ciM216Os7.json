@@ -473,6 +473,24 @@
     },
     {
       "album": {
+        "name": "1983",
+        "url": "https://open.spotify.com/album/5xoi3q0KDpSlFVryc9qCKj"
+      },
+      "artists": [
+        {
+          "name": "Flying Lotus",
+          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
+        }
+      ],
+      "date_added": "2026-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310373,
+      "name": "1983",
+      "url": "https://open.spotify.com/track/4Kq797LUw86mYdSZVclZIn"
+    },
+    {
+      "album": {
         "name": "Bowling For Sleep - Lullaby covers of Bowling For Soup songs",
         "url": "https://open.spotify.com/album/0d6QkChwFDYRah6JwByLN2"
       },
@@ -2179,6 +2197,28 @@
     },
     {
       "album": {
+        "name": "Acai",
+        "url": "https://open.spotify.com/album/1eXVaoDMpXo7gNecZgw3nV"
+      },
+      "artists": [
+        {
+          "name": "Wax",
+          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
+        },
+        {
+          "name": "DJ Hoppa",
+          "url": "https://open.spotify.com/artist/7zuoqJAXDtNaLzxxm4IShD"
+        }
+      ],
+      "date_added": "2026-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Acai",
+      "url": "https://open.spotify.com/track/37VifS8bLmSeAnONodA065"
+    },
+    {
+      "album": {
         "name": "Ach Du scheisse (schon wieder besoffen)",
         "url": "https://open.spotify.com/album/56hqDaPN7RTAUDK0tKWpCo"
       },
@@ -2730,6 +2770,40 @@
       "duration_ms": 182914,
       "name": "All Fire",
       "url": "https://open.spotify.com/track/1W23eHsDwug2HNvkio2Wgm"
+    },
+    {
+      "album": {
+        "name": "matutara",
+        "url": "https://open.spotify.com/album/6GMF1loJfAaDtda8igHdS0"
+      },
+      "artists": [
+        {
+          "name": "One Sixth",
+          "url": "https://open.spotify.com/artist/3hfKsLHWnPc3KMbPBQcLpa"
+        },
+        {
+          "name": "Georgia Anne Muldrow",
+          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
+        },
+        {
+          "name": "Inkswel",
+          "url": "https://open.spotify.com/artist/24hFZ7lqnNJa8GC1c2bWcZ"
+        },
+        {
+          "name": "Willy Dynamo",
+          "url": "https://open.spotify.com/artist/2iizSoYiLgAKuQRVJ7MbYi"
+        },
+        {
+          "name": "Bloomy Meadows",
+          "url": "https://open.spotify.com/artist/0OMEsE9LALVvYoaz0i368w"
+        }
+      ],
+      "date_added": "2026-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264948,
+      "name": "All Good",
+      "url": "https://open.spotify.com/track/3g50YBqRKXs3r0EoyZZfjH"
     },
     {
       "album": {
@@ -3362,6 +3436,24 @@
       "duration_ms": 214199,
       "name": "An Osirian Dream - Beatless version",
       "url": "https://open.spotify.com/track/6YsmUJnu7dD2CQ6CLI2joP"
+    },
+    {
+      "album": {
+        "name": "Distracted",
+        "url": "https://open.spotify.com/album/4DkVTJfU9qyNWKbjLoTENL"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        }
+      ],
+      "date_added": "2026-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202066,
+      "name": "Anakin Learns His Fate",
+      "url": "https://open.spotify.com/track/0vgFEMYJE030hgJPCMCfiO"
     },
     {
       "album": {
@@ -10536,7 +10628,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 242373,
       "name": "Caught In The Echo",
       "url": "https://open.spotify.com/track/0B6cG6HOupKy2GaWOgfeOH"
@@ -14492,7 +14584,7 @@
       ],
       "date_added": "2026-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 272423,
       "name": "Deep Harbour - Anz Defensive Mix",
       "url": "https://open.spotify.com/track/6eQUx4zfABBernRRPoUT8Y"
@@ -14540,7 +14632,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-03",
+      "date_removed": null,
       "duration_ms": 245188,
       "name": "Deep Harbour - Misty Bay Mix",
       "url": "https://open.spotify.com/track/3Aadwkc26wwCl6InYWiiNv"
@@ -22544,7 +22636,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 248290,
       "name": "Four Women - DESIREE Remix",
       "url": "https://open.spotify.com/track/1cusd5LAzVfobD23bB2YdJ"
@@ -23576,7 +23668,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 155960,
       "name": "Funny Friends",
       "url": "https://open.spotify.com/track/6l1AuMUnZWoEdWodKUM4Mc"
@@ -25712,6 +25804,24 @@
       "duration_ms": 392213,
       "name": "Going Down - Live",
       "url": "https://open.spotify.com/track/6lh4FKmXrRgxHloSdBduCc"
+    },
+    {
+      "album": {
+        "name": "Going Shopping",
+        "url": "https://open.spotify.com/album/4XCAqkLSm0CozIX5dQRXPI"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "date_added": "2026-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261747,
+      "name": "Going Shopping",
+      "url": "https://open.spotify.com/track/4dUOhTTMy4ITIbNQKPKYFP"
     },
     {
       "album": {
@@ -33350,6 +33460,44 @@
       "duration_ms": 269361,
       "name": "Just",
       "url": "https://open.spotify.com/track/5RVcl0ORBdrHxBCCr3737j"
+    },
+    {
+      "album": {
+        "name": "The Vault, Pt. 2",
+        "url": "https://open.spotify.com/album/0sQTtoTw2HsHxdX9Ru2xe8"
+      },
+      "artists": [
+        {
+          "name": "ABM Records",
+          "url": "https://open.spotify.com/artist/1ePUaaemXMVssXRIsf2IGk"
+        },
+        {
+          "name": "Sparx",
+          "url": "https://open.spotify.com/artist/5LA7qqpptKDUO7w8BoIgXw"
+        },
+        {
+          "name": "Kirswords",
+          "url": "https://open.spotify.com/artist/2C8PyOhQUviOmx3YrXipFQ"
+        },
+        {
+          "name": "Koncept",
+          "url": "https://open.spotify.com/artist/1vInbTSMFJUspkFo3PsSZL"
+        },
+        {
+          "name": "Soul Khan",
+          "url": "https://open.spotify.com/artist/7jzpXpwt8Z8pqWWHiwpf2I"
+        },
+        {
+          "name": "Joe Swisher",
+          "url": "https://open.spotify.com/artist/02qDwzjGdKsDRJtKPBUYpc"
+        }
+      ],
+      "date_added": "2026-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282044,
+      "name": "Just Begun 2026",
+      "url": "https://open.spotify.com/track/1N4Eu8IJBfskoXutIv6y4j"
     },
     {
       "album": {
@@ -45285,6 +45433,24 @@
     },
     {
       "album": {
+        "name": "Of All People",
+        "url": "https://open.spotify.com/album/1Df1pG5H92VbkhbTehf6Sn"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2026-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154293,
+      "name": "Of All People",
+      "url": "https://open.spotify.com/track/1jhI5gfOIA2iGOWk6gp1xc"
+    },
+    {
+      "album": {
         "name": "Late Night Thelonious Monk",
         "url": "https://open.spotify.com/album/2SUQ2KduYVwgJstPq2nz8s"
       },
@@ -47944,7 +48110,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 203181,
       "name": "Pay Up (with K.A.A.N. & Jarren Benton)",
       "url": "https://open.spotify.com/track/5ZuXW9WbNDTbF1hlqtUnLi"
@@ -56201,6 +56367,28 @@
     },
     {
       "album": {
+        "name": "Sinnerman (Remix)",
+        "url": "https://open.spotify.com/album/5P8mMogeljpYm6cj3vZbsa"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        },
+        {
+          "name": "Alex Kontsov",
+          "url": "https://open.spotify.com/artist/7z3tSGKzX1JfgL9qfeGUdG"
+        }
+      ],
+      "date_added": "2026-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312824,
+      "name": "Sinnerman - Remix",
+      "url": "https://open.spotify.com/track/2iHUw3XgD9coFjTFHvcodM"
+    },
+    {
+      "album": {
         "name": "Black Samson, the Bastard Swordsman (Deluxe)",
         "url": "https://open.spotify.com/album/7IpGJ5LBqdGNAFEHVcbDZQ"
       },
@@ -58887,6 +59075,28 @@
     },
     {
       "album": {
+        "name": "10 Til' Midnight",
+        "url": "https://open.spotify.com/album/2A1wHE90Z5Aj3TSQVhyU4Y"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Swizz Beatz",
+          "url": "https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3"
+        }
+      ],
+      "date_added": "2026-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214723,
+      "name": "Step",
+      "url": "https://open.spotify.com/track/3Kv6sMC4N5zEWkTugluCV8"
+    },
+    {
+      "album": {
         "name": "The Seven Laws",
         "url": "https://open.spotify.com/album/73BEnQ5IEdWmifXOYTx5L7"
       },
@@ -59314,7 +59524,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 123865,
       "name": "Stop Counting My Poccets",
       "url": "https://open.spotify.com/track/4POZ7rt05ZOcZCO8MwNDDa"
@@ -62582,7 +62792,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 187943,
       "name": "The Carousel",
       "url": "https://open.spotify.com/track/2jzzA8t8lJiC4fP2PG6fVN"
@@ -64935,6 +65145,32 @@
     },
     {
       "album": {
+        "name": "No More Grace",
+        "url": "https://open.spotify.com/album/4wCacIh5K62PXVcQCVGs6T"
+      },
+      "artists": [
+        {
+          "name": "Ends",
+          "url": "https://open.spotify.com/artist/72QJx1yzvSGU1rYivCZssq"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        }
+      ],
+      "date_added": "2026-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229333,
+      "name": "The Zoo",
+      "url": "https://open.spotify.com/track/2Fuwy6y7sOXxOrTNwlttwj"
+    },
+    {
+      "album": {
         "name": "michelinman",
         "url": "https://open.spotify.com/album/7DGfUX14MNucTUYGIYGyz4"
       },
@@ -65270,6 +65506,24 @@
       "duration_ms": 195319,
       "name": "this is my jam.",
       "url": "https://open.spotify.com/track/7czw5TMkQYcAf0m5T7RVZJ"
+    },
+    {
+      "album": {
+        "name": "This Is The Life",
+        "url": "https://open.spotify.com/album/5rlQxXI9x6Vc0JlRj1ROfz"
+      },
+      "artists": [
+        {
+          "name": "Dale and the ZDubs",
+          "url": "https://open.spotify.com/artist/4r6coJvYBbywB6TOgHJYkp"
+        }
+      ],
+      "date_added": "2026-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159573,
+      "name": "This Is The Life",
+      "url": "https://open.spotify.com/track/55SqdzdJEuBliVqvmPe1y0"
     },
     {
       "album": {
@@ -66680,7 +66934,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 250666,
       "name": "TRIUMPH - Samurai Version",
       "url": "https://open.spotify.com/track/1S21HwScGjSutBF5LHCoqf"

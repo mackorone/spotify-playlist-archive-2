@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7EF8wVxBVhG.md) - [plain]
 
 > Enhance your concentration by traveling through different brainwave frequencies until you reach peak awareness in Gamma state.
 
-[Spotify](https://open.spotify.com/user/spotify) - 868,192 likes - 80 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 868,458 likes - 80 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7EF8wVxBVhG.md) - [plain]
 | 79 | [Improving Memory \(Gamma 46Hz \- 92.8Hz\)](https://open.spotify.com/track/13GX6c6q7LpqgZTrFMvwWp) | [sweetHz](https://open.spotify.com/artist/3ToHPsqBK9cowwR88Cn42B) | [Improving Memory \(Gamma 46Hz \- 92.8Hz\)](https://open.spotify.com/album/3xRYNlsOMZf44sEm96SBqT) | 2:30 |
 | 80 | [Inner Beauty Gamma 150 Hz \-156 Hz](https://open.spotify.com/track/218JoOsvSioK8WZZfubPj9) | [Esmare](https://open.spotify.com/artist/3buNjctMqqV7I4T7N4HNgt) | [Inner Beauty Gamma 150 Hz \-156 Hz](https://open.spotify.com/album/4y2G2OnWGY91Vf5aAl7zgw) | 2:27 |
 
-Snapshot ID: `AAAAAGFOUvdvORwHAyCKRo2oJ/8KORzX`
+Snapshot ID: `AAAAAARLwvnikg7Vb9RgJM8A0bMcOK3T`

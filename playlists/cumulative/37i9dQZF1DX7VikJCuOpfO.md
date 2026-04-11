@@ -2,9 +2,9 @@
 
 ### [Mariachi 2026](https://open.spotify.com/playlist/37i9dQZF1DX7VikJCuOpfO)
 
-> Lo nuevo y lo mejor en el estilo mariachi\. Cover: Alex Fernandez 📸
+> Lo nuevo y lo mejor en el estilo mariachi\. Cover: Christian Nodal 📸
 
-558 songs - 1 day 6 hr 25 min
+560 songs - 1 day 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Despídeme \- En Vivo](https://open.spotify.com/track/7HhBu9Qe56pOgCPVeXl6A2) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Que Te Duela Más Que a Mí, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/7DNcou9I4tfoAnkohhhfBf) | 4:44 | 2022-05-13 | 2022-06-01 |
 | [Diabla](https://open.spotify.com/track/0iTafmNe563xhFprjGSZyA) | [Chayín Rubio](https://open.spotify.com/artist/6dZF1SMkMqrSFJKp0mhk4B) | [Diabla](https://open.spotify.com/album/0H6pKP6ySporHiDCG6DKmu) | 3:03 | 2024-05-24 | 2025-11-15 |
 | [Diciembre Sin Ti](https://open.spotify.com/track/4ogCnIiJGTaFVsBaV4c7HJ) | [Juan Pablo Tostado](https://open.spotify.com/artist/4arqPiSaDf0CHApe1QN2Jp) | [Diciembre Sin Ti](https://open.spotify.com/album/3q8SA9ZpQowTfcyTcFI0lY) | 3:03 | 2025-12-12 | 2026-01-17 |
+| [Diente De León](https://open.spotify.com/track/0QnAR0S70keqrIMvfKBjzF) | [Rosalía León](https://open.spotify.com/artist/3CmpJ8AXGUzYIRPmFUbjyx), [Mariachi Romanza de Rodrigo Rodriguez](https://open.spotify.com/artist/7CDk4Vxdjm4mXXqgXbscyL) | [Diente De León](https://open.spotify.com/album/6tF3e4s4jH2JH2HYyoPexo) | 3:39 | 2026-04-10 |  |
 | [Diferentes](https://open.spotify.com/track/7vOEFTu4kIzLAJpK9EOIyD) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt) | [Diferentes](https://open.spotify.com/album/70KakLAZ82chHwTzdHU020) | 3:24 | 2025-07-04 | 2026-03-28 |
 | [Dime Cómo Quieres](https://open.spotify.com/track/4jcxBTrNvyqMJdMDyyjdYV) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [AYAYAY! \(Súper Deluxe\)](https://open.spotify.com/album/1OlyomFZOv4Lx22rs4lBMw) | 2:51 | 2022-05-13 | 2025-10-04 |
 | [Dime Que Sí](https://open.spotify.com/track/6BqRzKHibZ9HhBHmbsCoez) | [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF) | [Dime Que Sí](https://open.spotify.com/album/3MzH50WWwdkZTcKp27T1p2) | 2:35 | 2022-07-01 | 2023-01-07 |
@@ -285,7 +286,7 @@
 | [Me Hubiera Gustado](https://open.spotify.com/track/3PUzw1rh9BEpmkULMIBrL5) | [José Esparza](https://open.spotify.com/artist/1XGG9ovY2aBYQwCvh4xRzS) | [Me Hubiera Gustado](https://open.spotify.com/album/1tTP8iz786aMrlt2kWH2U1) | 3:11 | 2022-05-13 | 2022-06-01 |
 | [Me lo vas a agradecer](https://open.spotify.com/track/0XNpmYRhxlgC8n7QeuwLTq) | [Griss Romero](https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA) | [Me lo vas a agradecer](https://open.spotify.com/album/4wmK6yBz7s8AyDW2hOcv3a) | 3:10 | 2023-01-06 | 2025-05-31 |
 | [Me Nace Del Corazón](https://open.spotify.com/track/3oGiGhavASAxgYT4RjISIa) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Me Nace Del Corazón](https://open.spotify.com/album/0p1YpGbcw2bKllgY6Fc8Dr) | 2:44 | 2025-06-20 |  |
-| [Me Retiré](https://open.spotify.com/track/2VtmkxL1Fif90UxVdFIxI7) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip) | [Me Retiré](https://open.spotify.com/album/1CkOACOSImxTfVch4xj1mx) | 2:04 | 2025-12-12 |  |
+| [Me Retiré](https://open.spotify.com/track/2VtmkxL1Fif90UxVdFIxI7) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip) | [Me Retiré](https://open.spotify.com/album/1CkOACOSImxTfVch4xj1mx) | 2:04 | 2025-12-12 | 2026-04-11 |
 | [Me Sobrabas Tú](https://open.spotify.com/track/3OKDWdh0aj52aJ9ujZrxZU) | [Jary Franco](https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6), [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Sin Miedo](https://open.spotify.com/album/2F1QJi9raPt4So7UToQxZw) | 3:19 | 2022-05-13 | 2022-06-01 |
 | [Me Vale Madre](https://open.spotify.com/track/5jJFvVBgWznxyoJAhQO08H) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Me Vale Madre](https://open.spotify.com/album/0mGwiGJ9bh9kgRuFIjQA92) | 2:20 | 2023-07-22 | 2025-05-31 |
 | [Me Vas A Extrañar](https://open.spotify.com/track/47UjuR24Bp3LgCTHNTynXu) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Lo Mejor De Nosotros](https://open.spotify.com/album/6DKj6CdMCUYRYJ4BnJnjd0) | 4:20 | 2022-05-13 | 2022-06-01 |
@@ -520,6 +521,7 @@
 | [Un Abrazo \- Versión Regional](https://open.spotify.com/track/0QO0d6FjUjvcb65xu832YQ) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Un Abrazo \(Versión Regional\)](https://open.spotify.com/album/5gwNUXcnQpmaik21UHDS5H) | 3:58 | 2025-12-12 |  |
 | [Un Millón de Primaveras \- En Vivo Desde La Plaza de Toros La México, 2024](https://open.spotify.com/track/3gLpE07HHc5pMToWnHnR4I) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Un Millón de Primaveras \(En Vivo Desde La Plaza de Toros La México, 2024\)](https://open.spotify.com/album/52n0QZM9FyHHUUr8fCfGD9) | 3:09 | 2025-04-04 | 2026-03-21 |
 | [Un Montón De Estrellas](https://open.spotify.com/track/4YFlX9yi2B3b3yGClAuQq6) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Una Buena Ranchera](https://open.spotify.com/album/7IoUq5HJ2Z5lYIP5Gk36Yo) | 3:23 | 2023-01-06 | 2024-05-25 |
+| [Un Vals](https://open.spotify.com/track/1ojcw1w3auGuo2JwVvm8u5) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Un Vals](https://open.spotify.com/album/5K0BYODFTljTcOLGOwBZJX) | 3:09 | 2026-04-10 |  |
 | [Una Limosna](https://open.spotify.com/track/15z7cJ1vKveZ6drvbM5DeJ) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [Una Limosna](https://open.spotify.com/album/6EYfW56o1eEgwuhPSthvnN) | 2:52 | 2026-01-16 |  |
 | [Una Llamada Perdida](https://open.spotify.com/track/50wcP2Qy153SJ3pP3ZTL9G) | [María León](https://open.spotify.com/artist/132xFnGXTZoDfZWuMDE4tc), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Una Llamada Perdida](https://open.spotify.com/album/7lm4FQqOoRuTkDoSmLHKa7) | 3:19 | 2022-05-13 | 2025-10-04 |
 | [Una Llamada Perdida](https://open.spotify.com/track/1seKHgwXPVAK9o6bh7IzlF) | [María León](https://open.spotify.com/artist/132xFnGXTZoDfZWuMDE4tc), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Alquimia](https://open.spotify.com/album/3qjKFqjicRz4kDPbWb8QWq) | 3:21 | 2023-01-06 | 2023-03-11 |

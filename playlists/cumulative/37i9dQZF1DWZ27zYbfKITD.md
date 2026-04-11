@@ -4,7 +4,7 @@
 
 > Focus and relax with the help of these chilled cinematic soundtracks.
 
-132 songs - 6 hr 16 min
+133 songs - 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Giants of the Deep](https://open.spotify.com/track/0EO0ieCZNOUmMZdEq9YvpP) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Adam Lukas](https://open.spotify.com/artist/4E39NH9eiLP3IMISn28wCd), [James Everingham](https://open.spotify.com/artist/2gn4jnqcC9yMXt6433gleQ), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Frozen Planet II \(Original Television Soundtrack\)](https://open.spotify.com/album/6sUYeUEUvgvnMIff7pTNnJ) | 1:31 | 2022-10-07 |  |
 | [Good Night You Kings \(from "The Cider House Rules", Arr\. for Piano\) \- a calm version](https://open.spotify.com/track/0P3snbkMDVmzfMKaKDuO9b) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [Good Night You Kings](https://open.spotify.com/album/2uZVaktrTm54XmeO7w0kbI) | 1:03 | 2022-09-09 | 2024-09-14 |
 | [Goodbye Brother \- From "Game of Thrones"](https://open.spotify.com/track/3yod3xafuKTpIeTI2o3E2x) | [The City of Prague Philharmonic Orchestra](https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu) | [Music of Game of Thrones](https://open.spotify.com/album/5tOw54FtPE69YiTYF9aHke) | 3:06 | 2024-11-14 |  |
+| [Halyna's Theme \- By the Water](https://open.spotify.com/track/5hAEVg3C4fmupryvXqskLw) | [Daniela Mars](https://open.spotify.com/artist/71r1FG65OQEQiR6Tk5c1bJ) | [Halyna's Theme \- By the Water](https://open.spotify.com/album/5uS16PngfHiVU6DwcqwLC0) | 1:51 | 2026-04-10 |  |
 | [Harry Potter and the Deathly Hallows: Lily’s Theme](https://open.spotify.com/track/0VDVcMXYqRTAHLL1gTrg7e) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0), [Orchestre de Paris](https://open.spotify.com/artist/0iERWmMl3nIvcDxnJsKZBd) | [Desplat: Harry Potter and the Deathly Hallows: Lily’s Theme](https://open.spotify.com/album/1ZAGGUyffomoyzMZ6TWuoz) | 1:13 | 2025-12-23 |  |
 | [Heart of a Hero](https://open.spotify.com/track/6EqecnFbgkjEsKRJ8prLEB) | [Chance Thomas](https://open.spotify.com/artist/1VPqJ10EqqXOQNDw1ppYeh) | [The Lord of the Rings Online \(10th Anniversary Commemorative Soundtrack\)](https://open.spotify.com/album/1lkI0MpnnccE364waiYGOY) | 2:23 | 2022-11-08 |  |
 | [Hello Rocks \- \(From "Hoa" Video Game Soundtrack\)](https://open.spotify.com/track/6AS4f29fe4h6sRE3b3Ytys) | [Johannes Johansson](https://open.spotify.com/artist/7u7VohKLwXLckuyYejvmff) | [Hello Rocks \(From "Hoa" Video Game Soundtrack\)](https://open.spotify.com/album/2WGdVBX5f8xc7r77A7iD8y) | 2:46 | 2022-08-05 |  |

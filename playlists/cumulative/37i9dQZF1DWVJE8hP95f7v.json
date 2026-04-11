@@ -92,7 +92,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 184027,
       "name": "Alibaba",
       "url": "https://open.spotify.com/track/72xneD3pAJmEPJ6Jhbnsoh"
@@ -1020,6 +1020,28 @@
       "duration_ms": 245436,
       "name": "H\u00e1 Festa - Corpos Celestes, Edit",
       "url": "https://open.spotify.com/track/0csSS1qy9v6e0At6HbzVam"
+    },
+    {
+      "album": {
+        "name": "Sens\u00edvel ao Toque",
+        "url": "https://open.spotify.com/album/6dggyc7Rcrl2h3k3z8IdHd"
+      },
+      "artists": [
+        {
+          "name": "Sarah Roston",
+          "url": "https://open.spotify.com/artist/44C3vWqUJwprMS1MtcY98U"
+        },
+        {
+          "name": "Saulo Roston",
+          "url": "https://open.spotify.com/artist/1bBb0yJPCzCHqH63ZgzO93"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236228,
+      "name": "Iluminar",
+      "url": "https://open.spotify.com/track/0IXcgx92Bi6mIVAW1u6ZCK"
     },
     {
       "album": {

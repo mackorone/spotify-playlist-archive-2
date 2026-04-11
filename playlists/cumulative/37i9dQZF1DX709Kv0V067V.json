@@ -3110,7 +3110,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 146956,
       "name": "Mantra",
       "url": "https://open.spotify.com/track/3hT41wMM3PTDoibR6g86Aa"
@@ -5616,6 +5616,24 @@
       "duration_ms": 145769,
       "name": "Tropicala",
       "url": "https://open.spotify.com/track/6XuXHQTeHYC6osJa0SVW9M"
+    },
+    {
+      "album": {
+        "name": "Tunes in the Mist",
+        "url": "https://open.spotify.com/album/0yjIDrbqojqS7aamV2sgwW"
+      },
+      "artists": [
+        {
+          "name": "Erastox",
+          "url": "https://open.spotify.com/artist/3zPEKgYbraip77EsVefCbd"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128155,
+      "name": "Tunes in the Mist",
+      "url": "https://open.spotify.com/track/2m96Ut2Doxbxf83noJ56vk"
     },
     {
       "album": {

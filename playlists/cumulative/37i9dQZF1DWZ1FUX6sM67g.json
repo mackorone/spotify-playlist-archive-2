@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "\u00a1En este punto tropical, se encuentra un poco de todo! Foto: Elsa y Elmar ",
+  "description": "\u00a1En este punto tropical, se encuentra un poco de todo! Foto: Kany Garc\u00eda y Juan Luis Guerra. ",
   "name": "Punto Tropical",
   "tracks": [
     {
@@ -308,6 +308,28 @@
       "duration_ms": 242635,
       "name": "Amor a Primera Vista - Salsa",
       "url": "https://open.spotify.com/track/1IEtGgDB44uNaWR3BfGbmo"
+    },
+    {
+      "album": {
+        "name": "PUERTA ABIERTA",
+        "url": "https://open.spotify.com/album/6WxZB5gxWmzRvKVzG2Pu9P"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        },
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164790,
+      "name": "Amor Bonito",
+      "url": "https://open.spotify.com/track/4L9l8YzYwmGl70RqFhb23B"
     },
     {
       "album": {
@@ -1882,7 +1904,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 240874,
       "name": "Dominiqueando Mix",
       "url": "https://open.spotify.com/track/6SHHcGkw7lh1rkaedIYLz2"
@@ -2298,7 +2320,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 185608,
       "name": "En Silencio Siempre Te Amar\u00e9",
       "url": "https://open.spotify.com/track/6j9HVsZ8TgWFPUTbszqWGt"
@@ -2360,7 +2382,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 168459,
       "name": "Enhorabuena",
       "url": "https://open.spotify.com/track/6Js2Fy0gdSAkpD780TYJGu"
@@ -2644,7 +2666,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 287328,
       "name": "Grecia - Spotify Sessions",
       "url": "https://open.spotify.com/track/2mQm96LDVXWaryyaaJfDUN"
@@ -3432,7 +3454,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 199666,
       "name": "Las Pilanderas",
       "url": "https://open.spotify.com/track/7xXOh3KqSjkTmO2h9SjGWJ"
@@ -3966,7 +3988,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 184506,
       "name": "Mu\u00e9rdeme",
       "url": "https://open.spotify.com/track/6FRyG3kJCYp6Hswy73ISGV"

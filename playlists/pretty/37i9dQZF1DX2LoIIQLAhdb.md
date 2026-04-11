@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Lynda x Franglish
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,158 likes - 40 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,294 likes - 40 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ouvre\-moi ton cœur](https://open.spotify.com/track/65NSfsg411qIZOBSLOKhls) | [Lynda](https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Ouvre\-moi ton cœur](https://open.spotify.com/album/6ITnWpLVmNSV8SSJdWBzaj) | 2:51 |
 | 2 | [J'PENSE À TOI](https://open.spotify.com/track/6jDCqvmPaMw8006fpbfmZx) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [My Eyes Only \- Flashback](https://open.spotify.com/album/2uKZ3Ugh07XRffTInfNcjr) | 2:11 |
-| 3 | [Ensemble \(feat\. Koba LaD\)](https://open.spotify.com/track/3p1UJOhOvpqcPO5TYXsaOL) | [Wejdene](https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Ensemble \(feat\. Koba LaD\)](https://open.spotify.com/album/5EjEBQZhs2O04QiWgiv7Kn) | 2:54 |
+| 3 | [Ensemble](https://open.spotify.com/track/3p1UJOhOvpqcPO5TYXsaOL) | [Wejdene](https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Ensemble](https://open.spotify.com/album/5EjEBQZhs2O04QiWgiv7Kn) | 2:54 |
 | 4 | [Shawty](https://open.spotify.com/track/3nkVSeaL5M6II2uHQHRuYM) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV), [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [Shawty](https://open.spotify.com/album/1BOcfpzanvhwblouD5Fa3m) | 2:57 |
-| 5 | [Une danse](https://open.spotify.com/track/6TJiwUhtDMZxEYczAd8KTk) | [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [Une danse](https://open.spotify.com/album/7kKQWWyQjRXDGjh2ANzAqg) | 2:38 |
+| 5 | [Une danse](https://open.spotify.com/track/6TJiwUhtDMZxEYczAd8KTk) | [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [Une danse](https://open.spotify.com/album/7kKQWWyQjRXDGjh2ANzAqg) | 2:37 |
 | 6 | [GIRLFRIEND](https://open.spotify.com/track/19jskaQ5MXGGMmaqQowfVS) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [GIRLFRIEND](https://open.spotify.com/album/3nsAiu8BlehnoIwlJIwbRy) | 4:19 |
 | 7 | [Coquelicot](https://open.spotify.com/track/2OmiV4VCHXDzGgsOjdJ5dB) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ), [disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g) | [Coquelicot](https://open.spotify.com/album/5VT0KSzFLeyVOPfmNfQfqO) | 2:53 |
 | 8 | [Pas comme moi](https://open.spotify.com/track/3rdiPxdC5Y2N9eDgEk3MY4) | [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Pas comme moi](https://open.spotify.com/album/4Z7rvNms3Gtk1g8BNxejoz) | 3:48 |

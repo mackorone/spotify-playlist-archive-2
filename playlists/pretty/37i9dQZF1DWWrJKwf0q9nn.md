@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 
 > Wekelijkse update! Cover: Armin van Buuren & Olive Anguz
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,054 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,068 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Vem Comigo](https://open.spotify.com/track/3zr7VbJvavpspJF2JipvQ1) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Olive Anguz](https://open.spotify.com/artist/3d0AuH83bH58zFUU7Z1hMk) | [Vem Comigo](https://open.spotify.com/album/324AIUKj8Q96Ir66ng7SmX) | 3:27 |
+| 1 | [Vem Comigo](https://open.spotify.com/track/3zr7VbJvavpspJF2JipvQ1) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Olive Anguz](https://open.spotify.com/artist/3d0AuH83bH58zFUU7Z1hMk), [Project Zeitgeist](https://open.spotify.com/artist/6Fryg7OCCsApuKUvkcGVg3) | [Vem Comigo](https://open.spotify.com/album/324AIUKj8Q96Ir66ng7SmX) | 3:27 |
 | 2 | [Higher When I Rise](https://open.spotify.com/track/45vv0ZVpJ8sCh08YQtRQlT) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [Higher When I Rise](https://open.spotify.com/album/4mZreqlCfU6i3c7MPzwaeA) | 3:15 |
 | 3 | [Rave Never Ends](https://open.spotify.com/track/3A5vAVf6MabbZnfC662cdn) | [Novah](https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF) | [Rave Never Ends](https://open.spotify.com/album/6JMks2UYqlFiOQPPZK8rfX) | 3:27 |
 | 4 | [i need u](https://open.spotify.com/track/6b86AhZ0bwJrjLaRqFnB7L) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [i need u](https://open.spotify.com/album/2t6Ie2kxapG2kMs4hxRJmt) | 3:45 |

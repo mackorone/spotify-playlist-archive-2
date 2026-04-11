@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: Luude
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,860 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,895 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 15 | [Sinking](https://open.spotify.com/track/31N5i68R7fFHqH6E87OgHB) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz), [XIRA](https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ) | [Sinking](https://open.spotify.com/album/3aaoUvAkxmbAqmUDX6wAty) | 3:56 |
 | 16 | [Awake Tonight](https://open.spotify.com/track/4Vdes3GjtIqdFskoWbVYnP) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Awake Tonight](https://open.spotify.com/album/2JVYUljpOqknjBvxeSIFB0) | 3:10 |
 | 17 | [That's When You Know](https://open.spotify.com/track/1XhItJSBxL5yKh0V0ymg6D) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [That's When You Know](https://open.spotify.com/album/2XgEVPnq6LHLAKAIJXmlHZ) | 3:13 |
-| 18 | [Track 1](https://open.spotify.com/track/4XA2gU2B81oY0vR6HEWmqd) | [Upper90](https://open.spotify.com/artist/5ye3YheRaIaodo3nid7Wxz) | [New Nostalgia](https://open.spotify.com/album/2CLrBfyZ8KmsdOkF7COB3L) | 0:00 |
+| 18 | [Watch Over Me](https://open.spotify.com/track/4XA2gU2B81oY0vR6HEWmqd) | [Upper90](https://open.spotify.com/artist/5ye3YheRaIaodo3nid7Wxz) | [New Nostalgia](https://open.spotify.com/album/2CLrBfyZ8KmsdOkF7COB3L) | 4:10 |
 | 19 | [Sweet Nothings](https://open.spotify.com/track/4ktcn64pJ9DzzddRutzrqq) | [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ) | [feel](https://open.spotify.com/album/0tGAZEwyy5wDfDMB5o3VOL) | 3:40 |
 | 20 | [Freaky 1](https://open.spotify.com/track/5cefCIhgIJgsG3r3LcRmwB) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Ali Love](https://open.spotify.com/artist/5XJp0gYotUfFraS626GSge) | [Freaky 1](https://open.spotify.com/album/2iI0aQO2hrnBmMDIUvrLJS) | 3:52 |
 | 21 | [Bad Girls](https://open.spotify.com/track/2M2mxEsoQpXXUujuxxBayv) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U), [JDG](https://open.spotify.com/artist/7oqJesfsNfHYYN6bEKR6UP), [Luciana](https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV) | [Bad Girls](https://open.spotify.com/album/4GuJDoFp7yhWiW9IVGgMYN) | 2:05 |

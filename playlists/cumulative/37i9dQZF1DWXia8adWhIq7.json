@@ -1665,6 +1665,24 @@
     },
     {
       "album": {
+        "name": "Excede o Entendimento (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3x4L1uJleQeCfUqDpWxQKr"
+      },
+      "artists": [
+        {
+          "name": "Lis Avancini",
+          "url": "https://open.spotify.com/artist/30ywC9c3B3POkE02OXf2nE"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224556,
+      "name": "Excede o Entendimento - Ao Vivo",
+      "url": "https://open.spotify.com/track/6SxNpnjmsSTi7xNw3MR7Pr"
+    },
+    {
+      "album": {
         "name": "Faltava Voc\u00ea",
         "url": "https://open.spotify.com/album/2VRthZpnrLNcoM9gvy5717"
       },
@@ -2242,7 +2260,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 187565,
       "name": "Me Chamar de Filho",
       "url": "https://open.spotify.com/track/6wJEeDU8gqDrX4yw2ggmo0"

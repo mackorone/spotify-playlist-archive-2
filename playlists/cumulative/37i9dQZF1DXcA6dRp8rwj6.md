@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Central Cee\)
 
-3,352 songs - 7 day 0 hr 58 min
+3,353 songs - 7 day 1 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2579,6 +2579,7 @@
 | [SIXTY\-SIX](https://open.spotify.com/track/3h2fLjxLIqSw4ofgzcZ3oQ) | [achi](https://open.spotify.com/artist/5afah66mDtf06T5lCyM2jd) | [SIXTY\-SIX](https://open.spotify.com/album/613Q224A1tQIUJYa0PDLBq) | 3:01 | 2024-06-28 | 2024-07-27 |
 | [Ski Ga Ski \(隙が好き\)](https://open.spotify.com/track/52QAsWTBhQOPBA83ZfFERg) | [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Ski Ga Ski \(隙が好き\)](https://open.spotify.com/album/6d9GgeqYFK8JYqhS6U8mwL) | 2:01 | 2025-10-16 | 2026-01-15 |
 | [SKIN](https://open.spotify.com/track/5XOPCqVoruQxZ3INT5x3nW) | [ki mi](https://open.spotify.com/artist/4d39hDGApIZV3x5obwnVpZ), [ziqry](https://open.spotify.com/artist/0RIhhREfyHbEO50mJZdpxf), [BROKEN ENGLISH](https://open.spotify.com/artist/12QrRrP9PaSeZKM0SZozRm), [Ky Den](https://open.spotify.com/artist/2LUQt3IqImFyupLVTie3Tk) | [SKIN](https://open.spotify.com/album/7eVZMSC9aIyTDwEMe62F3n) | 2:29 | 2023-11-09 | 2024-01-12 |
+| [SKIN CARE](https://open.spotify.com/track/5w5l2JFEJNAGEf3nR8iaZY) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [SKIN CARE](https://open.spotify.com/album/6TuYkWjoeAaCZvTxdXiyPP) | 2:10 | 2026-04-01 |  |
 | [Skinny Ninja](https://open.spotify.com/track/2ZdbeiijqzgOaBCHBaSzdp) | [YAYOI DAIMON](https://open.spotify.com/artist/6u1eX0H0rWHLh3Dq1ASdUb) | [Skinny Ninja](https://open.spotify.com/album/38qo2xUzJiJesYkZLvr4P3) | 2:10 | 2022-10-27 | 2022-12-09 |
 | [Skola Renda](https://open.spotify.com/track/78icpPEa4ENOZEntkb5SGd) | [Fariz Jabba](https://open.spotify.com/artist/5euTSdDookRvAEl8yOXhHh) | [Skola Renda](https://open.spotify.com/album/5Wv1NLsSMwNRhZ5T8c9oaJ) | 2:47 | 2024-11-14 | 2024-12-20 |
 | [Skyward](https://open.spotify.com/track/3GG9rhKjngX6bNBFd2XNCg) | [WONK](https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE), [BewhY](https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K) | [Skyward](https://open.spotify.com/album/2TaNO86E7iyqoseUorsgdB) | 3:32 | 2024-10-31 | 2024-12-06 |

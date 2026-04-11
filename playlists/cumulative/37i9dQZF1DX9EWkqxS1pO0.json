@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Yeni favori sanat\u00e7\u0131n\u0131 ke\u015ffet \u26a1 Kapak: Kalabal\u0131klar",
+  "description": "Yeni favori sanat\u00e7\u0131n\u0131 ke\u015ffet \u26a1 Kapak: Dila Uzun",
   "name": "Ke\u015fif",
   "tracks": [
     {
@@ -160,7 +160,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 181894,
       "name": "Ah\u0131m Olsun",
       "url": "https://open.spotify.com/track/73ZR1sekgo3fROlSSgfFug"
@@ -1345,6 +1345,24 @@
     },
     {
       "album": {
+        "name": "BOYUNA POSUNA",
+        "url": "https://open.spotify.com/album/3GaTWjck1M3wL1rgbqOPXr"
+      },
+      "artists": [
+        {
+          "name": "Dila Uzun",
+          "url": "https://open.spotify.com/artist/6pRSJWlvCaNW3YOfk1pmx1"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175670,
+      "name": "BOYUNA POSUNA",
+      "url": "https://open.spotify.com/track/0MyyPh2lX3GJYZ3Suv4SHz"
+    },
+    {
+      "album": {
         "name": "Bu Dertten Geriye",
         "url": "https://open.spotify.com/album/7nsLQ2BHuADr317DUChMqm"
       },
@@ -1396,6 +1414,24 @@
       "duration_ms": 182869,
       "name": "Bu Yang\u0131n",
       "url": "https://open.spotify.com/track/3IQpvbZ2ziQLdZ6muToMb7"
+    },
+    {
+      "album": {
+        "name": "Bubi Tuza\u011f\u0131",
+        "url": "https://open.spotify.com/album/60dCTd6jJ6LWNyEjOIzuIs"
+      },
+      "artists": [
+        {
+          "name": "HAZE!",
+          "url": "https://open.spotify.com/artist/3L0XBqslF2LVbq2WXxDfIT"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196364,
+      "name": "Bubi Tuza\u011f\u0131",
+      "url": "https://open.spotify.com/track/1X5GPRR4W7FLcJi8zs9yTf"
     },
     {
       "album": {
@@ -1774,7 +1810,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 181547,
       "name": "Denge",
       "url": "https://open.spotify.com/track/3CqV6CvOlsOd4Cs8EKyKgt"
@@ -3066,7 +3102,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 200890,
       "name": "ilk",
       "url": "https://open.spotify.com/track/5bqa2T8pBDYO7zimJHONCJ"
@@ -3729,6 +3765,24 @@
     },
     {
       "album": {
+        "name": "MARTI",
+        "url": "https://open.spotify.com/album/30j1yS4acoMuCQ1zgsbXOr"
+      },
+      "artists": [
+        {
+          "name": "Suismekanik",
+          "url": "https://open.spotify.com/artist/69vDGU1FgjGZykiikXCEKP"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179999,
+      "name": "MARTI",
+      "url": "https://open.spotify.com/track/5pkFggQmNg7Urr3d214VuZ"
+    },
+    {
+      "album": {
         "name": "Mazide",
         "url": "https://open.spotify.com/album/0rjCBkzUULXmudEq4vy0hi"
       },
@@ -4278,7 +4332,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 183151,
       "name": "Sana De\u011fen Ellerim",
       "url": "https://open.spotify.com/track/1aYBSPmq9ORPj1cGCejlUU"
@@ -4314,7 +4368,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 130736,
       "name": "SANA YOK",
       "url": "https://open.spotify.com/track/6guSXEILlodbBe1uLen7Jf"
@@ -4430,6 +4484,24 @@
       "duration_ms": 207000,
       "name": "Sen De Duysan",
       "url": "https://open.spotify.com/track/2AjxQZgvrh0URRqVlDv4SE"
+    },
+    {
+      "album": {
+        "name": "Sen Gibi",
+        "url": "https://open.spotify.com/album/12m7iGtdwLEC35gN5u0u0Q"
+      },
+      "artists": [
+        {
+          "name": "Kaan Malko\u00e7",
+          "url": "https://open.spotify.com/artist/7aDwkYjLH6yvueCOmZNYtZ"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120096,
+      "name": "Sen Gibi",
+      "url": "https://open.spotify.com/track/5jypbBzAHXXITnWOMFnMmS"
     },
     {
       "album": {
@@ -4654,7 +4726,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 137500,
       "name": "senli sevda",
       "url": "https://open.spotify.com/track/2COpBVUNsMs075MZGDhXi4"
@@ -5039,6 +5111,24 @@
     },
     {
       "album": {
+        "name": "Sorma Kalbim",
+        "url": "https://open.spotify.com/album/6sPIMuZkMXMU5JoWmFavwF"
+      },
+      "artists": [
+        {
+          "name": "G\u00fcne\u015f Karde\u015f",
+          "url": "https://open.spotify.com/artist/0A8uyrNe5CqlglaVUeTov3"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254042,
+      "name": "Sorma Kalbim",
+      "url": "https://open.spotify.com/track/5prBAtK3pLCIROaNDlciTg"
+    },
+    {
+      "album": {
         "name": "Sosyopat G\u00fcl\u00fcmseme",
         "url": "https://open.spotify.com/album/6UZji7bUoCv3137UqlD7cY"
       },
@@ -5282,6 +5372,24 @@
       "duration_ms": 161818,
       "name": "Ters Y\u00fcz",
       "url": "https://open.spotify.com/track/0IL6Ug2su4V6TRITbyWMoa"
+    },
+    {
+      "album": {
+        "name": "Tut Bi Matem",
+        "url": "https://open.spotify.com/album/776Wj1zIBKeKs3p60bUuR7"
+      },
+      "artists": [
+        {
+          "name": "Ezgi Kardelen",
+          "url": "https://open.spotify.com/artist/7zsUgz62mb3WVFOq6qXhKP"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178760,
+      "name": "Tut Bi Matem",
+      "url": "https://open.spotify.com/track/2Hvz5etcEwMKOwIWBkAuWs"
     },
     {
       "album": {

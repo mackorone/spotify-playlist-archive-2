@@ -1,13 +1,45 @@
 {
   "description": "the deep & minimal side of house & tech \u26cf\ufe0f\u26cf\ufe0f  \nfeaturing Franky Rizardo",
-  "num_followers": 76559,
+  "num_followers": 76667,
   "original_name": "Deep & Minimal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHGmZWP1ql8KLahlrTFV8OmkGBRw",
+  "snapshot_id": "AAAAANauPMhXb7XoPWAiPSLvxPwH78u7",
   "tracks": [
+    {
+      "added_at": "2026-04-03 04:01:44",
+      "album": {
+        "name": "Ain't With That (Late Night Callin')",
+        "url": "https://open.spotify.com/album/1ADJNvsMekByZTH7ZcP0uh"
+      },
+      "artists": [
+        {
+          "name": "Julian Fijma",
+          "url": "https://open.spotify.com/artist/3KEvY1XBn7ZqQcHhUoGeqy"
+        }
+      ],
+      "duration_ms": 207272,
+      "name": "Ain't With That (Late Night Callin')",
+      "url": "https://open.spotify.com/track/6P7sJUzkFeLq9VOqJQSBFH"
+    },
+    {
+      "added_at": "2026-03-20 04:00:44",
+      "album": {
+        "name": "Shinjuku",
+        "url": "https://open.spotify.com/album/5HiGwQ6NJl5XuXD2ugSFMz"
+      },
+      "artists": [
+        {
+          "name": "Franky Rizardo",
+          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+        }
+      ],
+      "duration_ms": 167905,
+      "name": "Shinjuku",
+      "url": "https://open.spotify.com/track/0niU8VMrQzSNhrmsiLlmeS"
+    },
     {
       "added_at": "2026-04-03 04:01:44",
       "album": {
@@ -29,20 +61,20 @@
       "url": "https://open.spotify.com/track/7zQw0isILUc2PAWMRRa82W"
     },
     {
-      "added_at": "2026-03-20 04:00:44",
+      "added_at": "2026-04-10 04:02:13",
       "album": {
-        "name": "Shinjuku",
-        "url": "https://open.spotify.com/album/5HiGwQ6NJl5XuXD2ugSFMz"
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/0YVAn2TP4lUzjFhq6Z89nD"
       },
       "artists": [
         {
-          "name": "Franky Rizardo",
-          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+          "name": "Jordan Peak",
+          "url": "https://open.spotify.com/artist/5Jhhsm26nMbGu8FNOvN3Gk"
         }
       ],
-      "duration_ms": 167905,
-      "name": "Shinjuku",
-      "url": "https://open.spotify.com/track/0niU8VMrQzSNhrmsiLlmeS"
+      "duration_ms": 161450,
+      "name": "Escape",
+      "url": "https://open.spotify.com/track/2TuGDQpH0bN6kSBx8YrXhe"
     },
     {
       "added_at": "2026-03-27 04:00:16",
@@ -81,36 +113,36 @@
       "url": "https://open.spotify.com/track/65zFScdofCOueq6XRLH1gt"
     },
     {
-      "added_at": "2026-04-03 04:01:44",
+      "added_at": "2026-04-10 17:34:49",
       "album": {
-        "name": "Ain't With That (Late Night Callin')",
-        "url": "https://open.spotify.com/album/1ADJNvsMekByZTH7ZcP0uh"
+        "name": "Dark Web Pinger",
+        "url": "https://open.spotify.com/album/4jhsNapiEPLqFvJzFaLSp3"
       },
       "artists": [
         {
-          "name": "Julian Fijma",
-          "url": "https://open.spotify.com/artist/3KEvY1XBn7ZqQcHhUoGeqy"
+          "name": "M-High",
+          "url": "https://open.spotify.com/artist/5lNjdR9GxHHF3twNE6ayJW"
         }
       ],
-      "duration_ms": 207272,
-      "name": "Ain't With That (Late Night Callin')",
-      "url": "https://open.spotify.com/track/6P7sJUzkFeLq9VOqJQSBFH"
+      "duration_ms": 221722,
+      "name": "Thief Of Joy",
+      "url": "https://open.spotify.com/track/68ZJzkHSvxY2Mp3e1YhaAl"
     },
     {
-      "added_at": "2026-03-27 04:00:16",
+      "added_at": "2026-04-10 04:02:13",
       "album": {
-        "name": "Million Things",
-        "url": "https://open.spotify.com/album/4EDiQsBlwDTJkquzyOcymi"
+        "name": "What Did You Come For ?",
+        "url": "https://open.spotify.com/album/6UPddPLVGe8DJmabcnSNWe"
       },
       "artists": [
         {
-          "name": "Tommy Phillips",
-          "url": "https://open.spotify.com/artist/3Z1hS6haFjSDvQc8TORkIW"
+          "name": "Kolter",
+          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
         }
       ],
-      "duration_ms": 160641,
-      "name": "Million Things",
-      "url": "https://open.spotify.com/track/5LfXCy5ZJXdztuu5ophHzm"
+      "duration_ms": 247846,
+      "name": "Authentic Computers 2.0 - Radio-Edit",
+      "url": "https://open.spotify.com/track/4rFRvreAqkla5Gw97tgQCM"
     },
     {
       "added_at": "2026-03-27 04:00:16",
@@ -127,6 +159,22 @@
       "duration_ms": 149838,
       "name": "Too In Love With You",
       "url": "https://open.spotify.com/track/0rS9f6pdy49rLBVzyGyQYv"
+    },
+    {
+      "added_at": "2026-04-10 17:34:49",
+      "album": {
+        "name": "Best Believe (Stole My Heart)",
+        "url": "https://open.spotify.com/album/2Yj9LDL0pILhskGdLQW0kL"
+      },
+      "artists": [
+        {
+          "name": "Stef Davidse",
+          "url": "https://open.spotify.com/artist/7JXk6wlswhEGYkmtpdqYEX"
+        }
+      ],
+      "duration_ms": 146182,
+      "name": "Best Believe (Stole My Heart)",
+      "url": "https://open.spotify.com/track/0fCiBvIBbQQbUx9oerGGXN"
     },
     {
       "added_at": "2026-04-03 04:01:44",
@@ -149,6 +197,54 @@
       "url": "https://open.spotify.com/track/7BryUEmykyolZXwvOFmEtI"
     },
     {
+      "added_at": "2026-04-03 04:01:44",
+      "album": {
+        "name": "In Love With My 909",
+        "url": "https://open.spotify.com/album/12gHWhgeVPkESG8PlGm98Q"
+      },
+      "artists": [
+        {
+          "name": "Blaise Bracic",
+          "url": "https://open.spotify.com/artist/4r61NJYpoMYek97nrUPfvN"
+        }
+      ],
+      "duration_ms": 169218,
+      "name": "In Love With My 909",
+      "url": "https://open.spotify.com/track/17uV2PyLB4lRGIMnsI3WHy"
+    },
+    {
+      "added_at": "2026-04-10 04:02:13",
+      "album": {
+        "name": "Prime / Vibrations",
+        "url": "https://open.spotify.com/album/4NOy19Kb3fVZYJsLcBcN39"
+      },
+      "artists": [
+        {
+          "name": "Easttown",
+          "url": "https://open.spotify.com/artist/60BcxlrIyqHOIjd9dBvld3"
+        }
+      ],
+      "duration_ms": 198855,
+      "name": "Prime",
+      "url": "https://open.spotify.com/track/64lWjyp5R6DkHbD2JFE2PL"
+    },
+    {
+      "added_at": "2026-03-27 04:00:16",
+      "album": {
+        "name": "Million Things",
+        "url": "https://open.spotify.com/album/4EDiQsBlwDTJkquzyOcymi"
+      },
+      "artists": [
+        {
+          "name": "Tommy Phillips",
+          "url": "https://open.spotify.com/artist/3Z1hS6haFjSDvQc8TORkIW"
+        }
+      ],
+      "duration_ms": 160641,
+      "name": "Million Things",
+      "url": "https://open.spotify.com/track/5LfXCy5ZJXdztuu5ophHzm"
+    },
+    {
       "added_at": "2026-03-13 04:00:43",
       "album": {
         "name": "All This Love",
@@ -163,6 +259,38 @@
       "duration_ms": 195692,
       "name": "All This Love",
       "url": "https://open.spotify.com/track/47z7oDHkBMIkaRBhU8lEuW"
+    },
+    {
+      "added_at": "2026-04-03 04:01:44",
+      "album": {
+        "name": "House Mentality",
+        "url": "https://open.spotify.com/album/0Q6T89Fkb4FJFCErQPWPyg"
+      },
+      "artists": [
+        {
+          "name": "Dale Howard",
+          "url": "https://open.spotify.com/artist/0SnbG2YfyykWmnsXwBXonJ"
+        }
+      ],
+      "duration_ms": 156923,
+      "name": "House Mentality - Radio Edit",
+      "url": "https://open.spotify.com/track/1pPz86QiMJvGN6Gkt7uonE"
+    },
+    {
+      "added_at": "2026-04-10 04:02:13",
+      "album": {
+        "name": "Buzzin",
+        "url": "https://open.spotify.com/album/1VQps1pCNJ32Z8ouR7q8a4"
+      },
+      "artists": [
+        {
+          "name": "Ryan Grey",
+          "url": "https://open.spotify.com/artist/68FF5yW2tWcn7HqeL4seaw"
+        }
+      ],
+      "duration_ms": 181817,
+      "name": "Buzzin",
+      "url": "https://open.spotify.com/track/2blaFgkbntstxZBGEmXITG"
     },
     {
       "added_at": "2026-03-06 05:00:09",
@@ -199,6 +327,22 @@
       "duration_ms": 178834,
       "name": "Second Nature",
       "url": "https://open.spotify.com/track/48UKanzGLbagrgYxcH2cuS"
+    },
+    {
+      "added_at": "2026-04-10 04:02:13",
+      "album": {
+        "name": "Passion",
+        "url": "https://open.spotify.com/album/7nm9bUB5s2ulUDgcnbvH0U"
+      },
+      "artists": [
+        {
+          "name": "TeeDee",
+          "url": "https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN"
+        }
+      ],
+      "duration_ms": 187796,
+      "name": "Passion",
+      "url": "https://open.spotify.com/track/1OlS7vWAKZEeoNgIp3JvE2"
     },
     {
       "added_at": "2026-03-27 17:45:51",
@@ -255,6 +399,22 @@
       "duration_ms": 211875,
       "name": "goes like this - radio edit",
       "url": "https://open.spotify.com/track/2UlFidIgZvvdnPwuO4kLlQ"
+    },
+    {
+      "added_at": "2026-04-03 04:01:44",
+      "album": {
+        "name": "Moments EP",
+        "url": "https://open.spotify.com/album/39YkFMUsBIkjmKcseonMEp"
+      },
+      "artists": [
+        {
+          "name": "Fletcher Dawson",
+          "url": "https://open.spotify.com/artist/3Vc3QQu56KAZhgPr62m6h5"
+        }
+      ],
+      "duration_ms": 370798,
+      "name": "Moments",
+      "url": "https://open.spotify.com/track/4xketZOqnzgdggRUwrUEBl"
     },
     {
       "added_at": "2026-03-13 04:00:43",
@@ -335,22 +495,6 @@
       "duration_ms": 135703,
       "name": "Need U",
       "url": "https://open.spotify.com/track/1aHWTyE87SPtspl78tc8zN"
-    },
-    {
-      "added_at": "2026-04-03 04:01:44",
-      "album": {
-        "name": "House Mentality",
-        "url": "https://open.spotify.com/album/0Q6T89Fkb4FJFCErQPWPyg"
-      },
-      "artists": [
-        {
-          "name": "Dale Howard",
-          "url": "https://open.spotify.com/artist/0SnbG2YfyykWmnsXwBXonJ"
-        }
-      ],
-      "duration_ms": 156923,
-      "name": "House Mentality - Radio Edit",
-      "url": "https://open.spotify.com/track/1pPz86QiMJvGN6Gkt7uonE"
     },
     {
       "added_at": "2026-03-27 17:45:51",
@@ -697,22 +841,6 @@
       "url": "https://open.spotify.com/track/2ohyMJx4ArUVno6mcczbN8"
     },
     {
-      "added_at": "2026-04-03 04:01:44",
-      "album": {
-        "name": "In Love With My 909",
-        "url": "https://open.spotify.com/album/12gHWhgeVPkESG8PlGm98Q"
-      },
-      "artists": [
-        {
-          "name": "Blaise Bracic",
-          "url": "https://open.spotify.com/artist/4r61NJYpoMYek97nrUPfvN"
-        }
-      ],
-      "duration_ms": 169218,
-      "name": "In Love With My 909",
-      "url": "https://open.spotify.com/track/17uV2PyLB4lRGIMnsI3WHy"
-    },
-    {
       "added_at": "2026-03-13 04:00:43",
       "album": {
         "name": "Fun Girls EP",
@@ -779,22 +907,6 @@
       "duration_ms": 196225,
       "name": "Dreamboy",
       "url": "https://open.spotify.com/track/2VII8zG0a2wYjTeKYl6GSf"
-    },
-    {
-      "added_at": "2026-04-03 04:01:44",
-      "album": {
-        "name": "Moments EP",
-        "url": "https://open.spotify.com/album/39YkFMUsBIkjmKcseonMEp"
-      },
-      "artists": [
-        {
-          "name": "Fletcher Dawson",
-          "url": "https://open.spotify.com/artist/3Vc3QQu56KAZhgPr62m6h5"
-        }
-      ],
-      "duration_ms": 370798,
-      "name": "Moments",
-      "url": "https://open.spotify.com/track/4xketZOqnzgdggRUwrUEBl"
     },
     {
       "added_at": "2026-03-20 04:00:44",
@@ -1301,22 +1413,6 @@
       "url": "https://open.spotify.com/track/5NYHUgdlNzSoe6XIRNvncF"
     },
     {
-      "added_at": "2026-02-27 05:00:46",
-      "album": {
-        "name": "All Night EP",
-        "url": "https://open.spotify.com/album/2kAu9BvO8TRi37WjUAArH3"
-      },
-      "artists": [
-        {
-          "name": "Pheelo",
-          "url": "https://open.spotify.com/artist/3R2HL3PzOU2tQNeFiNhcfA"
-        }
-      ],
-      "duration_ms": 218352,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/58CYikL1ar42jTlZa1og87"
-    },
-    {
       "added_at": "2025-11-07 05:00:38",
       "album": {
         "name": "Positive",
@@ -1331,38 +1427,6 @@
       "duration_ms": 169846,
       "name": "Positive",
       "url": "https://open.spotify.com/track/0cZN3g7rtfNE6vsmX0k8OF"
-    },
-    {
-      "added_at": "2026-02-20 05:00:42",
-      "album": {
-        "name": "All I Need",
-        "url": "https://open.spotify.com/album/1DhuFTin4vbAyiwM1VzJ86"
-      },
-      "artists": [
-        {
-          "name": "Veritas (UK)",
-          "url": "https://open.spotify.com/artist/1wYLnOvDqzcm20UpEpc9T1"
-        }
-      ],
-      "duration_ms": 185806,
-      "name": "All I Need",
-      "url": "https://open.spotify.com/track/4tpg1cztGbeeB8RHMTzSSM"
-    },
-    {
-      "added_at": "2026-03-04 00:37:47",
-      "album": {
-        "name": "Block Steppa' EP",
-        "url": "https://open.spotify.com/album/1MMsCfmw2Ob4mDZOOXU1Gn"
-      },
-      "artists": [
-        {
-          "name": "Dyl Poole",
-          "url": "https://open.spotify.com/artist/0vRUQytdOTCdqYMZvQ6SQw"
-        }
-      ],
-      "duration_ms": 357014,
-      "name": "Block Steppa'",
-      "url": "https://open.spotify.com/track/4OQjZ459UBa4OtiaGIOnJ9"
     },
     {
       "added_at": "2026-02-27 05:00:46",
@@ -1395,22 +1459,6 @@
       "duration_ms": 210000,
       "name": "No Better - Radio Edit",
       "url": "https://open.spotify.com/track/3TCBds884wZAfPwLuwI9NW"
-    },
-    {
-      "added_at": "2026-03-04 00:37:47",
-      "album": {
-        "name": "5th Dimension",
-        "url": "https://open.spotify.com/album/2cdVBUKRVCXC2w9Jflc1z5"
-      },
-      "artists": [
-        {
-          "name": "Kimsko",
-          "url": "https://open.spotify.com/artist/106yGzl2TapiVExzKcVaGP"
-        }
-      ],
-      "duration_ms": 234699,
-      "name": "House of Love",
-      "url": "https://open.spotify.com/track/51SIFlGqhxscZIHYtMBnZs"
     },
     {
       "added_at": "2026-01-23 05:00:22",
@@ -1585,22 +1633,6 @@
       "url": "https://open.spotify.com/track/2Q6j60VeDs9gY3O2m67CAu"
     },
     {
-      "added_at": "2026-02-13 05:00:30",
-      "album": {
-        "name": "Push The Feeling EP",
-        "url": "https://open.spotify.com/album/3NgjnJP23I6F2tDKkWlqya"
-      },
-      "artists": [
-        {
-          "name": "Foynez",
-          "url": "https://open.spotify.com/artist/1ROTd6m7x93EQaicWZmcmL"
-        }
-      ],
-      "duration_ms": 188307,
-      "name": "Push The Feeling",
-      "url": "https://open.spotify.com/track/13wZII1Xmergka2m0trPYR"
-    },
-    {
       "added_at": "2026-01-16 05:00:33",
       "album": {
         "name": "Certi EP",
@@ -1647,26 +1679,6 @@
       "duration_ms": 193605,
       "name": "Louder",
       "url": "https://open.spotify.com/track/6Gk16Y5baO26U4hmIfQ5F2"
-    },
-    {
-      "added_at": "2026-01-16 05:00:33",
-      "album": {
-        "name": "Doin' It feat. MC DT",
-        "url": "https://open.spotify.com/album/13cNeTgAVDTDGliUCzUSzc"
-      },
-      "artists": [
-        {
-          "name": "Silva Bumpa",
-          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
-        },
-        {
-          "name": "MC DT",
-          "url": "https://open.spotify.com/artist/4cHj4iJzUsjzbEbZLuojl6"
-        }
-      ],
-      "duration_ms": 177831,
-      "name": "Doin' it featuring MC DT",
-      "url": "https://open.spotify.com/track/4bdbgZDx6LkHTNyy5PZW9h"
     },
     {
       "added_at": "2026-01-23 05:00:22",
@@ -1735,22 +1747,6 @@
       "duration_ms": 217577,
       "name": "Find A Way",
       "url": "https://open.spotify.com/track/02RgJpUYnhe1zlyO4N2pZe"
-    },
-    {
-      "added_at": "2025-11-28 05:09:48",
-      "album": {
-        "name": "Up & Down",
-        "url": "https://open.spotify.com/album/144sWmALYwv6VMuJy7docZ"
-      },
-      "artists": [
-        {
-          "name": "Julian Fijma",
-          "url": "https://open.spotify.com/artist/3KEvY1XBn7ZqQcHhUoGeqy"
-        }
-      ],
-      "duration_ms": 198862,
-      "name": "Up & Down",
-      "url": "https://open.spotify.com/track/1q0ahuMCq8Tbf2kY2nxsOi"
     },
     {
       "added_at": "2025-10-17 15:56:09",

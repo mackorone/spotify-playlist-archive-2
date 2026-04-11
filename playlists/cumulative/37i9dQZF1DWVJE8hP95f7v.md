@@ -4,7 +4,7 @@
 
 > Um apanhado do soul brasileiro para animar e dançar\. Foto: Liniker
 
-110 songs - 6 hr 36 min
+111 songs - 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [A Vida Em Seus Métodos Diz Calma](https://open.spotify.com/track/6niY7onsGQgK2sgF9XrYir) | [Di Melo](https://open.spotify.com/artist/4KyZtyl55zzHoBJUp07Doe) | [Di Melo](https://open.spotify.com/album/2Uri1KkpSo6YOnjLC4ly7F) | 3:42 | 2023-12-08 |  |
 | [Aconteceu em Geribá](https://open.spotify.com/track/32gkbhRVA46rnmZWsSDSdf) | [Hyldon](https://open.spotify.com/artist/0ejC7uoHm9rW22mjbLpDgY) | [Aconteceu em Geribá](https://open.spotify.com/album/2ibzWbdC1sspjBkgUREIeR) | 4:38 | 2024-08-30 |  |
 | [Aeroporto](https://open.spotify.com/track/1GHgaj9wk3SjRwmwr1fReW) | [Doug O.](https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0) | [Aeroporto](https://open.spotify.com/album/5Iz6x9d8U6UNsM4T7wfQzq) | 3:29 | 2023-12-08 | 2024-03-30 |
-| [Alibaba](https://open.spotify.com/track/72xneD3pAJmEPJ6Jhbnsoh) | [Melanina Carioca](https://open.spotify.com/artist/1RVHk1teWy5ftUa7J4RiMj) | [Alibaba](https://open.spotify.com/album/1eu7tu748UiYLHVcM9SQoe) | 3:04 | 2023-12-08 |  |
+| [Alibaba](https://open.spotify.com/track/72xneD3pAJmEPJ6Jhbnsoh) | [Melanina Carioca](https://open.spotify.com/artist/1RVHk1teWy5ftUa7J4RiMj) | [Alibaba](https://open.spotify.com/album/1eu7tu748UiYLHVcM9SQoe) | 3:04 | 2023-12-08 | 2026-04-11 |
 | [Amor Distante \- Rap Mix](https://open.spotify.com/track/6EVjdyR5MzER5Tbvo59AXy) | [Mano Brown](https://open.spotify.com/artist/0fMjaafeNhHPA6mJ5ZglAJ), [DJ CIA](https://open.spotify.com/artist/4ADw50fLamm1eoQBm65lHL), [Lino Krizz](https://open.spotify.com/artist/6vA4znwvrwhCSYfcrkC2Hg) | [Boogie Naipe](https://open.spotify.com/album/6HsKHQGO3oineHD04cm17X) | 4:01 | 2023-12-08 |  |
 | [ANTISSOCIAL](https://open.spotify.com/track/2UGAXXO6rxhGIWEROH996S) | [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [Abbot](https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE) | [O AMOR, O PERDÃO E A TECNOLOGIA IRÃO NOS LEVAR PARA OUTRO PLANETA](https://open.spotify.com/album/639QW9bvf08nR0dCWFpcTC) | 3:59 | 2023-12-08 | 2025-02-01 |
 | [Apesar de Agora](https://open.spotify.com/track/7t5vyu2pZ4rnrJ6azywIaD) | [Augusta Barna](https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk) | [Na Miúda](https://open.spotify.com/album/7Cs7J2fEvx1p6plGf8kPI0) | 2:22 | 2024-08-30 |  |
@@ -55,6 +55,7 @@
 | [Hey, Meu Irmão](https://open.spotify.com/track/4Cw2m0WUG089DQz4d0cA4E) | [OSócio](https://open.spotify.com/artist/22D5otAg5F4m45XKuF9Y2O), [Gerson King Combo](https://open.spotify.com/artist/0trib6wgWtz8KhGTbhLb5m) | [Hey, Meu Irmão](https://open.spotify.com/album/3Ykhvi2tH4a7SEhMgLnikx) | 2:52 | 2024-03-29 |  |
 | [Hey, Meu Irmão](https://open.spotify.com/track/1WXOGKtwoZLMETd7EauhWG) | [OSócio](https://open.spotify.com/artist/22D5otAg5F4m45XKuF9Y2O), [Gerson King Combo](https://open.spotify.com/artist/0trib6wgWtz8KhGTbhLb5m) | [Hey, Meu Irmão](https://open.spotify.com/album/0WgbrnvTiOgSTi9DcYo1rl) | 2:52 | 2023-12-08 | 2024-04-19 |
 | [Há Festa \- Corpos Celestes, Edit](https://open.spotify.com/track/0csSS1qy9v6e0At6HbzVam) | [Qinhones](https://open.spotify.com/artist/0pcMoyp7o9Fv8sGMm9rjAU) | [Há Festa \(Corpos Celestes\)](https://open.spotify.com/album/205beuIUDhxhyMkPpw1Sno) | 4:05 | 2023-12-08 |  |
+| [Iluminar](https://open.spotify.com/track/0IXcgx92Bi6mIVAW1u6ZCK) | [Sarah Roston](https://open.spotify.com/artist/44C3vWqUJwprMS1MtcY98U), [Saulo Roston](https://open.spotify.com/artist/1bBb0yJPCzCHqH63ZgzO93) | [Sensível ao Toque](https://open.spotify.com/album/6dggyc7Rcrl2h3k3z8IdHd) | 3:56 | 2026-04-10 |  |
 | [Infinito](https://open.spotify.com/track/2J9Vz0qnw1OLt9U5nWhIIJ) | [Walmir Borges](https://open.spotify.com/artist/2175yP2byBY4mFDJnP1IKc) | [Sala da Música](https://open.spotify.com/album/7FeM0KsDLpSCo7HkbusAMx) | 3:42 | 2024-03-29 |  |
 | [Infinito](https://open.spotify.com/track/1kXcJBehzmagpKbpFdmeq5) | [Walmir Borges](https://open.spotify.com/artist/2175yP2byBY4mFDJnP1IKc) | [SalaDaMúsica](https://open.spotify.com/album/2Ij2a2St7zTz20KCNJoPOC) | 3:46 | 2023-12-08 | 2024-04-19 |
 | [Lady](https://open.spotify.com/track/6ltJBSMYhUCqRy0o7Sahvo) | [Jet Samba Black](https://open.spotify.com/artist/4CX370BwomD0OZVgmcPF63) | [Lady](https://open.spotify.com/album/1uH2xSpfp4GbXr0Smdr9LZ) | 3:18 | 2023-12-08 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Al coraz\u00f3n! Foto: Luciano Pereyra, Uriel Lozano & Un Poco De Ruido.",
-  "num_followers": 275905,
+  "num_followers": 275963,
   "original_name": "Cumbia y Romance",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-03-30 19:46:36",
       "album": {
-        "name": "Le Doy Gracias a la Vida (Y a Todos)",
-        "url": "https://open.spotify.com/album/3xJjfD2BUmlX8Tpe1afUup"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 191712,
-      "name": "Amor Clandestino",
-      "url": "https://open.spotify.com/track/4RSaGC1QwScf0lDMzx9T6I"
-    },
-    {
-      "added_at": "2026-03-30 19:46:36",
-      "album": {
         "name": "El \u00daltimo Rom\u00e1ntico",
         "url": "https://open.spotify.com/album/5XivpS4x7wPLUBxdHQRQnT"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 251724,
       "name": "El \u00daltimo Rom\u00e1ntico",
       "url": "https://open.spotify.com/track/7aPSMl8bmlHtbi9ZBYbPmq"
+    },
+    {
+      "added_at": "2026-03-30 19:46:36",
+      "album": {
+        "name": "Le Doy Gracias a la Vida (Y a Todos)",
+        "url": "https://open.spotify.com/album/3xJjfD2BUmlX8Tpe1afUup"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 191712,
+      "name": "Amor Clandestino",
+      "url": "https://open.spotify.com/track/4RSaGC1QwScf0lDMzx9T6I"
     },
     {
       "added_at": "2026-03-30 19:46:36",
@@ -879,22 +879,6 @@
     {
       "added_at": "2026-03-30 19:46:36",
       "album": {
-        "name": "Eres",
-        "url": "https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5"
-      },
-      "artists": [
-        {
-          "name": "Grupo uno",
-          "url": "https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA"
-        }
-      ],
-      "duration_ms": 195893,
-      "name": "Amor Pirata",
-      "url": "https://open.spotify.com/track/7F15KCy88ObXpqnBrfJsbb"
-    },
-    {
-      "added_at": "2026-03-30 19:46:36",
-      "album": {
         "name": "A PURO DOLOR",
         "url": "https://open.spotify.com/album/3FQi4Oecz065SbJVuvvJXT"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 206153,
       "name": "A PURO DOLOR",
       "url": "https://open.spotify.com/track/7Ho0Xbf3vHdBJiTbQocuxQ"
+    },
+    {
+      "added_at": "2026-03-30 19:46:36",
+      "album": {
+        "name": "Eres",
+        "url": "https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5"
+      },
+      "artists": [
+        {
+          "name": "Grupo uno",
+          "url": "https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA"
+        }
+      ],
+      "duration_ms": 195893,
+      "name": "Amor Pirata",
+      "url": "https://open.spotify.com/track/7F15KCy88ObXpqnBrfJsbb"
     },
     {
       "added_at": "2026-03-30 19:46:36",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2026-03-30 19:46:36",
       "album": {
-        "name": "Y la cumbia se baila as\u00ed...",
-        "url": "https://open.spotify.com/album/1C4JGlucUtnJGEBj7I9BQN"
-      },
-      "artists": [
-        {
-          "name": "El Gordo Luis",
-          "url": "https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq"
-        }
-      ],
-      "duration_ms": 198066,
-      "name": "Los Infieles",
-      "url": "https://open.spotify.com/track/60N0Hb2yL4daYW4u3Ijw4I"
-    },
-    {
-      "added_at": "2026-03-30 19:46:36",
-      "album": {
         "name": "Date cuenta",
         "url": "https://open.spotify.com/album/6N2L9L69osVQXss8wjojYN"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 157244,
       "name": "Date cuenta",
       "url": "https://open.spotify.com/track/3X0FSUKlgyj4mq9BCJzDqE"
+    },
+    {
+      "added_at": "2026-03-30 19:46:36",
+      "album": {
+        "name": "Y la cumbia se baila as\u00ed...",
+        "url": "https://open.spotify.com/album/1C4JGlucUtnJGEBj7I9BQN"
+      },
+      "artists": [
+        {
+          "name": "El Gordo Luis",
+          "url": "https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq"
+        }
+      ],
+      "duration_ms": 198066,
+      "name": "Los Infieles",
+      "url": "https://open.spotify.com/track/60N0Hb2yL4daYW4u3Ijw4I"
     },
     {
       "added_at": "2026-03-30 19:46:36",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2026-03-30 19:46:36",
       "album": {
-        "name": "Vete",
-        "url": "https://open.spotify.com/album/2ULTMUo5UesStNSxif1lgR"
-      },
-      "artists": [
-        {
-          "name": "Los del bohio",
-          "url": "https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn"
-        }
-      ],
-      "duration_ms": 215186,
-      "name": "Vete",
-      "url": "https://open.spotify.com/track/2P1NF2ouvMc3aOjeXdfynr"
-    },
-    {
-      "added_at": "2026-03-30 19:46:36",
-      "album": {
         "name": "T\u00fa, la m\u00e1s bella (En Vivo)",
         "url": "https://open.spotify.com/album/3PKKvCRMgsXJi8v4HxuroL"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 149420,
       "name": "T\u00fa, la m\u00e1s bella - En Vivo",
       "url": "https://open.spotify.com/track/4iNUGRz8usCC8ZeczwIcQN"
+    },
+    {
+      "added_at": "2026-03-30 19:46:36",
+      "album": {
+        "name": "Vete",
+        "url": "https://open.spotify.com/album/2ULTMUo5UesStNSxif1lgR"
+      },
+      "artists": [
+        {
+          "name": "Los del bohio",
+          "url": "https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn"
+        }
+      ],
+      "duration_ms": 215186,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/2P1NF2ouvMc3aOjeXdfynr"
     },
     {
       "added_at": "2026-03-30 19:46:36",
@@ -1755,26 +1755,6 @@
     {
       "added_at": "2026-03-30 19:46:36",
       "album": {
-        "name": "Una Cartita",
-        "url": "https://open.spotify.com/album/579lllA20Ok3w4rBAcaUDq"
-      },
-      "artists": [
-        {
-          "name": "Roze Oficial",
-          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
-        },
-        {
-          "name": "Flor Alvarez",
-          "url": "https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa"
-        }
-      ],
-      "duration_ms": 178588,
-      "name": "Una Cartita",
-      "url": "https://open.spotify.com/track/6vG53GzGUFjla9oiMq4TK3"
-    },
-    {
-      "added_at": "2026-03-30 19:46:36",
-      "album": {
         "name": "Conmigo Te Gust\u00f3",
         "url": "https://open.spotify.com/album/7GjmuXtSwXPTX2VR1TQYER"
       },
@@ -1791,6 +1771,26 @@
       "duration_ms": 233002,
       "name": "Conmigo Te Gust\u00f3",
       "url": "https://open.spotify.com/track/5HlgCSzypWjzrQwfmEJNwW"
+    },
+    {
+      "added_at": "2026-03-30 19:46:36",
+      "album": {
+        "name": "Una Cartita",
+        "url": "https://open.spotify.com/album/579lllA20Ok3w4rBAcaUDq"
+      },
+      "artists": [
+        {
+          "name": "Roze Oficial",
+          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
+        },
+        {
+          "name": "Flor Alvarez",
+          "url": "https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa"
+        }
+      ],
+      "duration_ms": 178588,
+      "name": "Una Cartita",
+      "url": "https://open.spotify.com/track/6vG53GzGUFjla9oiMq4TK3"
     },
     {
       "added_at": "2026-03-30 19:46:36",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2026-03-30 19:46:36",
       "album": {
-        "name": "Buscando Otro Amor",
-        "url": "https://open.spotify.com/album/2ijKJw1PlaNq0wIXL7fNiK"
-      },
-      "artists": [
-        {
-          "name": "Roze Oficial",
-          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
-        }
-      ],
-      "duration_ms": 147725,
-      "name": "Buscando Otro Amor",
-      "url": "https://open.spotify.com/track/5GktPnJ8W17lKXWnVwgD48"
-    },
-    {
-      "added_at": "2026-03-30 19:46:36",
-      "album": {
         "name": "Eterno Amor",
         "url": "https://open.spotify.com/album/1OBPp3h2p2ZTgoeMWH4rSx"
       },
@@ -1887,6 +1871,22 @@
       "duration_ms": 256021,
       "name": "Eterno Amor",
       "url": "https://open.spotify.com/track/3V8XAc2EHbt2M763XhDqQz"
+    },
+    {
+      "added_at": "2026-03-30 19:46:36",
+      "album": {
+        "name": "Buscando Otro Amor",
+        "url": "https://open.spotify.com/album/2ijKJw1PlaNq0wIXL7fNiK"
+      },
+      "artists": [
+        {
+          "name": "Roze Oficial",
+          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
+        }
+      ],
+      "duration_ms": 147725,
+      "name": "Buscando Otro Amor",
+      "url": "https://open.spotify.com/track/5GktPnJ8W17lKXWnVwgD48"
     },
     {
       "added_at": "2026-03-30 19:46:36",

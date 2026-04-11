@@ -875,6 +875,28 @@
     },
     {
       "album": {
+        "name": "Sinnerman (Remix)",
+        "url": "https://open.spotify.com/album/5P8mMogeljpYm6cj3vZbsa"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        },
+        {
+          "name": "Alex Kontsov",
+          "url": "https://open.spotify.com/artist/7z3tSGKzX1JfgL9qfeGUdG"
+        }
+      ],
+      "date_added": "2026-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312824,
+      "name": "Sinnerman - Remix",
+      "url": "https://open.spotify.com/track/2iHUw3XgD9coFjTFHvcodM"
+    },
+    {
+      "album": {
         "name": "Sinnerman (Sofi Tukker Remix)",
         "url": "https://open.spotify.com/album/4BaT7OuXhqB2KRmHsR07Rj"
       },
@@ -890,7 +912,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 232632,
       "name": "Sinnerman - Sofi Tukker Remix",
       "url": "https://open.spotify.com/track/6Au1l0egQFYxbnCZxakoOL"

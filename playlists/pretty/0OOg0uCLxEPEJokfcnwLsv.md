@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 892 likes - 136 songs - 8 hr 20 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 900 likes - 137 songs - 8 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -144,5 +144,6 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 134 | [GIGACHUD](https://open.spotify.com/track/5AbUAbLQ0OwGMKUZJbZBIx) | [BLABSCAM!](https://open.spotify.com/artist/1dgobA4FiBSFA4QRWLs6ok) | [GIGACHUD](https://open.spotify.com/album/6mB0mqrpStENY1wcycOV0A) | 3:38 |
 | 135 | [Crushwhore](https://open.spotify.com/track/3g9dkoiaCGaaAAX8WS88c5) | [moberod](https://open.spotify.com/artist/49lLlq5yOsfgHQnypG2Cdd) | [Learning It the Hard Way](https://open.spotify.com/album/6h3qBmbL2n3vFtfYF9G9uq) | 3:38 |
 | 136 | [Deep Cut](https://open.spotify.com/track/02bk2a5aKm03H9AeQQKQi7) | [Southern States](https://open.spotify.com/artist/2hpxrkZg9qkbadFtXnD0g2) | [Deep Cut EP](https://open.spotify.com/album/3KGDNN12K38UHMMK2Y9zRd) | 2:26 |
+| 137 | [Tonight](https://open.spotify.com/track/6bGdPY1JouZH9X6vfRw5wT) | [LOWSTONE](https://open.spotify.com/artist/6k0RzhlZFShZMv5nMdX6tI) | [Tonight](https://open.spotify.com/album/3UvJthTugKEgXskFI5pmR6) | 5:56 |
 
-Snapshot ID: `AAAFswgYJokzKztYSci1NIABxzuBTi8L`
+Snapshot ID: `AAAFtArLysqoL7ar31YL8y52dTS2HHwH`

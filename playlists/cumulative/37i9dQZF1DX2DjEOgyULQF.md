@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-431 songs - 20 hr 19 min
+432 songs - 20 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,7 @@
 | [Fortune Teller](https://open.spotify.com/track/2jf6qaFGfXR2avaQ2QkmEf) | [Garden of Lotus](https://open.spotify.com/artist/7I1z8LXW0jX3fyWx7h0PRs) | [The whim of fate](https://open.spotify.com/album/7kQKxaXSaBjKr2lBFgJrru) | 3:11 | 2023-04-28 | 2024-11-04 |
 | [Found the Moon](https://open.spotify.com/track/5WM0O39UIuTPYaGsGN77Tt) | [Glacial Patience](https://open.spotify.com/artist/3Ep6YPlzSx1J4CkQG4Fqav) | [Found the Moon](https://open.spotify.com/album/2jEcuWPdfuxdg71KTw0DbA) | 3:02 | 2025-05-21 | 2026-02-24 |
 | [Foundations](https://open.spotify.com/track/6o03zXm9s8B33VjZAS6C6U) | [Oaktale](https://open.spotify.com/artist/4IuzTmSlbUNhhIcAK5fBiQ) | [Foundations](https://open.spotify.com/album/2LVmqp2bxTJsCWQs2pELTC) | 2:58 | 2025-09-10 | 2026-04-10 |
-| [Frequenza Del Cuore 528 Hz \(nature Version\)](https://open.spotify.com/track/04ltEgSfEzF11vXr9OrymS) | [Seconda Fotura](https://open.spotify.com/artist/3dLzY2XAMjuE1soisVnzf7) | [Frequenza Del Cuore 528 Hz \(nature Version\)](https://open.spotify.com/album/5pZuu7kgbojNBoqS3hECmR) | 2:39 | 2026-04-03 |  |
+| [Frequenza Del Cuore 528 Hz \(Nature Version\)](https://open.spotify.com/track/04ltEgSfEzF11vXr9OrymS) | [Seconda Fotura](https://open.spotify.com/artist/3dLzY2XAMjuE1soisVnzf7) | [Frequenza Del Cuore 528 Hz \(Nature Version\)](https://open.spotify.com/album/5pZuu7kgbojNBoqS3hECmR) | 2:39 | 2026-04-03 |  |
 | [Fresco](https://open.spotify.com/track/0uVIvH7SSS85MKai9W4wEA) | [Forrest Gomez](https://open.spotify.com/artist/1PHHfV4BP0QFgommlTuc6Q) | [Fresco](https://open.spotify.com/album/03zoFQS69y1JshsZyFRkvD) | 2:26 | 2024-04-01 | 2026-01-26 |
 | [From Sharavati](https://open.spotify.com/track/3zLjHmnEHwc9bt1EsuqRDK) | [Dormironauts](https://open.spotify.com/artist/6j73VJJ6sZVqO1CVQdLvEA) | [From Sharavati](https://open.spotify.com/album/5PuJEOW1ZbJVvuzLY5sJsm) | 3:23 | 2023-04-28 | 2025-05-22 |
 | [Garden of Calm](https://open.spotify.com/track/3G70KNuG1MIjALKJhLl7Vr) | [Nature Pulse](https://open.spotify.com/artist/70vUxFU28oeZCt4GremOQ0) | [Garden of Calm](https://open.spotify.com/album/7E65aQYqv6QXHQEw2sXcsq) | 2:58 | 2025-03-19 | 2026-04-04 |
@@ -177,7 +177,7 @@
 | [Gravity](https://open.spotify.com/track/6SrGcbpvB216sv4XrtL2Pq) | [Solace Sonique](https://open.spotify.com/artist/4DWW3d7aGHHC51MqYUoQZR) | [Gravity](https://open.spotify.com/album/0RfMrZOANCZ6PHqPhXEomx) | 2:14 | 2026-04-03 |  |
 | [Greenwood](https://open.spotify.com/track/6SoXx6sA7BKjprwVHKfIzY) | [Calil](https://open.spotify.com/artist/0wZ9TiIXE76xXjZUUbVmN7) | [Greenwood](https://open.spotify.com/album/4of8zBFKxdP02r7ZG6tiYW) | 2:44 | 2026-02-23 | 2026-04-04 |
 | [Grounded](https://open.spotify.com/track/4OLwU8YwGCYUAureSrInHQ) | [Zilon Tay](https://open.spotify.com/artist/5MXcNvb6HXa2KgYvCqRbuU) | [Grounded](https://open.spotify.com/album/73OcD8zbuUAOvWShwFij1r) | 2:43 | 2023-09-08 |  |
-| [Groundedness](https://open.spotify.com/track/5bgc9zFfs6s83HiPxgNWGe) | [Mindland](https://open.spotify.com/artist/330UIau66ZSsEGlHH5Wwwg) | [Groundedness](https://open.spotify.com/album/6ceHarmzmqekuosF433eCu) | 3:14 | 2026-04-03 |  |
+| [Groundedness](https://open.spotify.com/track/5bgc9zFfs6s83HiPxgNWGe) | [Mindland](https://open.spotify.com/artist/330UIau66ZSsEGlHH5Wwwg) | [Groundedness](https://open.spotify.com/album/6ceHarmzmqekuosF433eCu) | 3:14 | 2026-04-03 | 2026-04-11 |
 | [Grow, My Dear](https://open.spotify.com/track/5CRZJDlRrjmWXVmnhFHcQY) | [Felix Dekker](https://open.spotify.com/artist/0mUCh5H0yIr67MM7lPq3kL) | [Grow, My Dear](https://open.spotify.com/album/60IN9Im3JUIoN2YGAnMhvs) | 2:57 | 2025-03-19 | 2026-04-04 |
 | [Guided by water](https://open.spotify.com/track/5l7sHk5p9YnwW8WjdYPz3K) | [Ljusnan](https://open.spotify.com/artist/6kprss883ebiMmbGqz4ZMe) | [Guided by water](https://open.spotify.com/album/6aaiU2um6gI6AoZxo03wxB) | 3:37 | 2026-04-03 |  |
 | [Habitat](https://open.spotify.com/track/3SgW6ntZSJqtndVkHgCnNl) | [Decie Orion](https://open.spotify.com/artist/6zcIuvn0dlOdvzljMJFZfO) | [Habitat](https://open.spotify.com/album/7aOV06bE8iDApcqnE5Ov1X) | 2:54 | 2026-02-23 | 2026-04-04 |
@@ -186,6 +186,7 @@
 | [Hands of Peace](https://open.spotify.com/track/09k98ZBBIc5Dn261HfMaO7) | [Man Dala](https://open.spotify.com/artist/3kf3VjiaMISV3pvj50wkk6) | [Hands of Peace](https://open.spotify.com/album/4Dktl0OS3gUY0CrymbhZns) | 3:27 | 2026-04-03 |  |
 | [Handwritten](https://open.spotify.com/track/5E3Ix0osEIpZIf8c9wDUZ7) | [D'Verti](https://open.spotify.com/artist/09rAM5GlzBVG3FODKTlrRu) | [Handwritten](https://open.spotify.com/album/27IHCp4m0XW8XoRJsk4bYl) | 2:10 | 2025-05-21 |  |
 | [Healing gaze](https://open.spotify.com/track/1X8EmDgWvn6AImYPrtDqI9) | [Estra Blue](https://open.spotify.com/artist/2RAV1xltflSfWELSJuAB1S) | [Healing gaze](https://open.spotify.com/album/2hWybEwWNFXc4gauwKkt1h) | 2:40 | 2025-10-15 |  |
+| [Heart of nature](https://open.spotify.com/track/0PydlHyHt06LIZ21X9jS7l) | [Aponian Flow](https://open.spotify.com/artist/0ECZqa8KVFTuyM92asZRy1) | [Heart of nature](https://open.spotify.com/album/4q1LDuZ78fHCF9Eilb74pw) | 3:01 | 2026-04-03 |  |
 | [Held in the Jungle's Sleep](https://open.spotify.com/track/08DivxvdYawXBq4C63a2VI) | [Aura Veil](https://open.spotify.com/artist/0N1zbTaCXUJXZBmAiILWl6) | [Held in the Jungle's Sleep](https://open.spotify.com/album/5YqsYVMj3qJD8rCTEwhVR1) | 2:44 | 2026-04-03 |  |
 | [Herinneringen \(Sound Bath\)](https://open.spotify.com/track/3S2TvczOa5YQQPqkn7Khtp) | [Sohn Aelia](https://open.spotify.com/artist/58PoZ2UB30eX8jppZ6B87i) | [Herinneringen \(Sound Bath\)](https://open.spotify.com/album/4HpA9tcvVWoQdjgLsp88Ru) | 3:02 | 2023-04-28 | 2025-05-22 |
 | [Hidden Stream](https://open.spotify.com/track/48fwIMWuDupqBDonvDiQRZ) | [Emerald Haze](https://open.spotify.com/artist/1ZAxYNJ7InAWRbooQVWtoD) | [Hidden Stream](https://open.spotify.com/album/0Gsbxch2HWzWjuOqZ5Luuf) | 2:03 | 2026-01-28 | 2026-04-04 |

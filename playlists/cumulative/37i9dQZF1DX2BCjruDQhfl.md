@@ -4,7 +4,7 @@
 
 > It's giving vibes\. Cover: Dior & Kaya Imani
 
-298 songs - 13 hr 38 min
+300 songs - 13 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Ayo Amor](https://open.spotify.com/track/6syJbyeoDZOJF1gSquyZpB) | [Pearl Ramos](https://open.spotify.com/artist/4L8v7LCc2BtljMWBEvSgCh) | [Ayo Amor](https://open.spotify.com/album/6Js5y0q9VMRlwHRvlHjP78) | 2:41 | 2025-12-18 | 2026-03-27 |
 | [Baby \(Is it a Crime\)](https://open.spotify.com/track/6NOrpcicPUh2eaj8bAD44u) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Baby \(Is it a Crime\)](https://open.spotify.com/album/6UyYWiOrIJMlccE1DmNRHK) | 2:44 | 2025-07-17 | 2025-08-05 |
 | [Babyboo](https://open.spotify.com/track/7Mxbp0DtUpTetgfBVmWr1j) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN), [Kaya Imani](https://open.spotify.com/artist/1vGqIJlfH4QS0KQzrKU8tw) | [De Ene Hand Wast De Ander](https://open.spotify.com/album/1JZOSXy4Fjjh5bo9FOcTBX) | 3:14 | 2025-08-07 | 2026-03-20 |
+| [Back and Forth \(feat\. Missy Elliott\)](https://open.spotify.com/track/6t263UZVjI9nnHfr7eeLW4) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Back and Forth \(feat\. Missy Elliott\)](https://open.spotify.com/album/3yb1H4Mf6annZTGWpmAoCW) | 3:34 | 2026-04-09 |  |
 | [bad fkn habits](https://open.spotify.com/track/61tCmoJNiTJgaXj1UOc2Va) | [sor](https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO), [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [INSOMNIA](https://open.spotify.com/album/3l4ZN4bsXuGGzpnPt1czlW) | 2:31 | 2026-01-08 | 2026-03-27 |
 | [BADDIE ANTHEM \(feat\. KM\)](https://open.spotify.com/track/7KF8mOuWc31dUxtPyUng1c) | [CHO](https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw) | [BADDIE ANTHEM \(feat\. KM\)](https://open.spotify.com/album/2fPqVvr5YBOhTelZP7zhUA) | 2:38 | 2025-07-17 | 2025-12-19 |
 | [Bambi](https://open.spotify.com/track/0XLOhjJBDxpcL47b1pTShu) | [Amadi Blue](https://open.spotify.com/artist/7vxkFc87aF2xfUZGjxX2If) | [Bambi](https://open.spotify.com/album/48gDv65vyvEszJB79hJEwc) | 1:48 | 2025-08-28 | 2026-02-20 |
@@ -186,6 +187,7 @@
 | [NOBLE](https://open.spotify.com/track/2LSmH4vxyRhkJ2pPqcmkXw) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [NOBLE](https://open.spotify.com/album/0g2so560PUSwl895vWwaQK) | 3:05 | 2026-04-02 |  |
 | [Nog Eén Kans](https://open.spotify.com/track/0FCc5OLgu9iT40WVUCjxUW) | [Gio](https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS) | [Love Sessions](https://open.spotify.com/album/69VMPoJv3rSvGe8ONJQw0m) | 2:22 | 2026-02-23 | 2026-04-03 |
 | [Not Yours \(Too Dangerous\)](https://open.spotify.com/track/5fdWecYMrus5uBcHvDpHVM) | [Indi](https://open.spotify.com/artist/2PVyNqozZZhYo7fDineQsn) | [Not Yours \(Too Dangerous\)](https://open.spotify.com/album/74VSmPQo3VqqVdzWtQTMDU) | 2:34 | 2025-08-04 | 2025-08-29 |
+| [Obvious](https://open.spotify.com/track/7xSS8JxxHbQRjH5TNBw36H) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Obvious](https://open.spotify.com/album/7xW3wSUjBg7PaeQOVpgvVv) | 3:06 | 2026-04-09 |  |
 | [Offa Me \(feat\. Victoria Monét\)](https://open.spotify.com/track/3BRna1YDKLEtiEiJ0ArbSA) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [5ive](https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8) | 3:09 | 2025-07-17 | 2025-09-19 |
 | [On & On](https://open.spotify.com/track/7DKBirP6TeQhecRVWetdEL) | [Montana](https://open.spotify.com/artist/5JxBfSx4Hez2JQEqZy9xgb), [Shemara London](https://open.spotify.com/artist/6X60JJd7EFg2C8k5wBPgo5) | [On & On](https://open.spotify.com/album/4BXD26SFeJGBCGPDoi0Wwv) | 2:51 | 2025-08-28 | 2026-02-06 |
 | [On My Mind](https://open.spotify.com/track/1wf6avCJvxMmxoSS9TdMQ0) | [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw) | [On My Mind](https://open.spotify.com/album/4LrHUpnY1xu6qqvS06lzAm) | 2:00 | 2026-04-09 |  |

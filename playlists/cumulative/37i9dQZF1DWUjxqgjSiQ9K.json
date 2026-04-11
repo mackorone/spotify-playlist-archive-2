@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: Belen Losa & Alex Zurdo",
+  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: Christine D'Clario y Cales Louima",
   "name": "\u00c9xitos Cristianos",
   "tracks": [
     {
@@ -1090,7 +1090,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 298584,
       "name": "Aleluya, \u00c9l Viene Ya",
       "url": "https://open.spotify.com/track/20qAKoemFPaqeDsUqwdxTJ"
@@ -2138,7 +2138,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 1292692,
       "name": "Barro",
       "url": "https://open.spotify.com/track/5ch9ic7jJvh2Y9uDSjXzgM"
@@ -4994,7 +4994,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 483000,
       "name": "Dios de Poder",
       "url": "https://open.spotify.com/track/46rMCGGUSI0kt1LOY3wHQO"
@@ -5980,7 +5980,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 319965,
       "name": "El Rio de Dios - En Vivo",
       "url": "https://open.spotify.com/track/63f6pE2mzuZr8EcP6DiNES"
@@ -6870,7 +6870,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 244000,
       "name": "Espont\u00e1neo + Volvamos al inicio",
       "url": "https://open.spotify.com/track/3Obzl8GXufUfQ3ozsrbAj7"
@@ -8130,7 +8130,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 156000,
       "name": "Guiar\u00e1s",
       "url": "https://open.spotify.com/track/2cUGFLEgf6cpVqeZzIPSG7"
@@ -10762,7 +10762,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 350679,
       "name": "Mi Casa Y Yo",
       "url": "https://open.spotify.com/track/6XrklcX8kC1O21Nl3708dV"
@@ -11064,6 +11064,28 @@
       "duration_ms": 266853,
       "name": "Mi Mejor Temporada - Live",
       "url": "https://open.spotify.com/track/5NXDg7pBCbqfEMu2WuLu3u"
+    },
+    {
+      "album": {
+        "name": "Mi Necesidad (Live)",
+        "url": "https://open.spotify.com/album/3AG8OFmIegy0XtJsyptbFZ"
+      },
+      "artists": [
+        {
+          "name": "Cales Louima",
+          "url": "https://open.spotify.com/artist/5n47pUB4lGWnSuxGkX0UpP"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 616880,
+      "name": "Mi Necesidad - Live",
+      "url": "https://open.spotify.com/track/4ax8W4nFT6r5QfK1hxnXRj"
     },
     {
       "album": {
@@ -12798,6 +12820,28 @@
       "duration_ms": 149347,
       "name": "Otro D\u00eda",
       "url": "https://open.spotify.com/track/0Bq7UQv3bdHZX7NhNKlJCJ"
+    },
+    {
+      "album": {
+        "name": "Pa'lo",
+        "url": "https://open.spotify.com/album/1hTF4RKnSZezjpLVv6Iif5"
+      },
+      "artists": [
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        },
+        {
+          "name": "Funky",
+          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Pa'lo",
+      "url": "https://open.spotify.com/track/2oqI47IlhQBtTHWC290hyS"
     },
     {
       "album": {
@@ -14860,7 +14904,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 320426,
       "name": "Santo Por Siempre - Sesi\u00f3n Ac\u00fastica",
       "url": "https://open.spotify.com/track/18zKn6gs8UArJ6fQdqrjac"
@@ -17848,6 +17892,28 @@
       "duration_ms": 315600,
       "name": "Una Y Otra Vez",
       "url": "https://open.spotify.com/track/07RYlmvOrD1Z9ferw3zoZ8"
+    },
+    {
+      "album": {
+        "name": "Vale La Pena",
+        "url": "https://open.spotify.com/album/4BELOjCFSsA10nyIGqHYm7"
+      },
+      "artists": [
+        {
+          "name": "ECCOS",
+          "url": "https://open.spotify.com/artist/6OnDxasjEMPIRrazHkH61l"
+        },
+        {
+          "name": "Enoc Parra",
+          "url": "https://open.spotify.com/artist/2dXm6Fjb3OP6YKDyaF09jM"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 527875,
+      "name": "Vale La Pena",
+      "url": "https://open.spotify.com/track/6QvJwcW5IksW3cUsPDGqsK"
     },
     {
       "album": {

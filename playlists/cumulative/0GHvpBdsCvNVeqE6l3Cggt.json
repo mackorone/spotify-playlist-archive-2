@@ -1587,6 +1587,28 @@
     },
     {
       "album": {
+        "name": "So I Go",
+        "url": "https://open.spotify.com/album/6HJ9CPcUoUxB73jp4pBsFy"
+      },
+      "artists": [
+        {
+          "name": "Coya",
+          "url": "https://open.spotify.com/artist/4Sk7nS0b73o1fMxiTYxd7x"
+        },
+        {
+          "name": "T Henry",
+          "url": "https://open.spotify.com/artist/6V42pwtgf8J5RNdgHuh4sU"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188481,
+      "name": "So I Go",
+      "url": "https://open.spotify.com/track/3TeB8lRNddWlypSvwXf1R6"
+    },
+    {
+      "album": {
         "name": "Something Better",
         "url": "https://open.spotify.com/album/2bGyHyfbRmdiEazFAZgdyu"
       },

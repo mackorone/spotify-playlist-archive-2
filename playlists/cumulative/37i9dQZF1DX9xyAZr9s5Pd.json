@@ -247,6 +247,24 @@
     },
     {
       "album": {
+        "name": "azul",
+        "url": "https://open.spotify.com/album/4vrG1SGcwyDL9HFI2hTP9e"
+      },
+      "artists": [
+        {
+          "name": "Paula Pera y el fin de los Tiempos",
+          "url": "https://open.spotify.com/artist/5zuGV6u9UobNW3KPGXui6o"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209512,
+      "name": "azul",
+      "url": "https://open.spotify.com/track/6npsvD105b2pUp5XMUudT7"
+    },
+    {
+      "album": {
         "name": "Los D\u00edas",
         "url": "https://open.spotify.com/album/0DSBtXfbEulz3zDVrClVbR"
       },

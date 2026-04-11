@@ -1,6 +1,6 @@
 {
   "description": "Sit back and relax to our favorite local OPM and R&B sounds.",
-  "num_followers": 577221,
+  "num_followers": 577194,
   "original_name": "Relax Tayo",
   "owner": {
     "name": "Spotify",
@@ -863,18 +863,22 @@
     {
       "added_at": "2026-04-08 03:55:58",
       "album": {
-        "name": "Hirap Aminin",
-        "url": "https://open.spotify.com/album/3OKMDzqfbeUCCBtvAwWgTz"
+        "name": "Di Ko Alam",
+        "url": "https://open.spotify.com/album/65yOErUwFhSK9t1so39QBT"
       },
       "artists": [
         {
-          "name": "Cuatro",
-          "url": "https://open.spotify.com/artist/4dg2z4ZmSNpkBGRSSBs3Q0"
+          "name": "RussJr",
+          "url": "https://open.spotify.com/artist/1tfSYCR5FHZlqLzla1lJeG"
+        },
+        {
+          "name": "Melodias",
+          "url": "https://open.spotify.com/artist/51mJcbrO6wCPWJDXffpAKi"
         }
       ],
-      "duration_ms": 267200,
-      "name": "Hirap Aminin",
-      "url": "https://open.spotify.com/track/0kgUhEf0mifj4qTMKiUxqD"
+      "duration_ms": 192361,
+      "name": "Di Ko Alam",
+      "url": "https://open.spotify.com/track/1ESvI4PhWa7pZCh7JRrmLs"
     }
   ],
   "unique_name": "Relax Tayo",

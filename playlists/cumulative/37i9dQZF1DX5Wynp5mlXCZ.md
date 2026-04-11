@@ -4,7 +4,7 @@
 
 > Українські та світові артисти в добірці найцікавіших поп треків\. Обкладинка: emi
 
-529 songs - 1 day 2 hr 50 min
+530 songs - 1 day 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,7 +215,7 @@
 | [Shovkovytsya](https://open.spotify.com/track/4P1ku5d7i5XAIBznNaywLz) | [LATEXFAUNA](https://open.spotify.com/artist/23z16jDNwdZLV9fvE7KliP) | [Shovkovytsya](https://open.spotify.com/album/7IDbrG8oQS4caAv9yuJuRv) | 4:27 | 2025-10-30 | 2025-11-07 |
 | [Silverlines \- prod\. Labrinth](https://open.spotify.com/track/1BK1d7b9bhlbKpQPbYGsol) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Silverlines \- prod\. Labrinth](https://open.spotify.com/album/6xLihtKzCsFZm7nQrAcbF4) | 3:17 | 2024-09-27 | 2025-05-16 |
 | [Siren sounds \(bonus\)](https://open.spotify.com/track/181yGUB8xEh4LfK8KhC4Wa) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/6KaEpgeZQF6ZVVAmSoZUrb) | 3:03 | 2025-02-27 | 2025-11-21 |
-| [SLAY](https://open.spotify.com/track/6QbvonnlVY3gnZnfg4Tpv1) | [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y) | [SLAY](https://open.spotify.com/album/6PL4mLCU4JfBciMBVPMcQ6) | 2:37 | 2026-03-19 |  |
+| [SLAY](https://open.spotify.com/track/6QbvonnlVY3gnZnfg4Tpv1) | [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y) | [SLAY](https://open.spotify.com/album/6PL4mLCU4JfBciMBVPMcQ6) | 2:37 | 2026-03-19 | 2026-04-11 |
 | [Slow It Down](https://open.spotify.com/track/6WO7IDGLakjO38lsvI2gHB) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Slow It Down](https://open.spotify.com/album/5UI2uTwSWoS6NmlxurwElQ) | 2:41 | 2024-06-27 | 2024-12-20 |
 | [Smoking Cherry](https://open.spotify.com/track/5hmQADC08TeCTQaeKhltnY) | [Carpetman](https://open.spotify.com/artist/3zzOs4npAwsNSmwFYDzdHx) | [Smoking Cherry](https://open.spotify.com/album/7hMpzKT3n8J30U8aClUan8) | 4:40 | 2025-01-23 | 2026-02-13 |
 | [Someone New](https://open.spotify.com/track/5pyo1cM0fR2EDJwHLkdOSh) | [MAX BARSKIH](https://open.spotify.com/artist/5zXGVPJHUzQPUXKA7AlTi5) | [Someone New](https://open.spotify.com/album/7dWmQYs2iC5U2UOF0EI5zk) | 2:35 | 2025-04-17 | 2025-05-23 |
@@ -405,6 +405,7 @@
 | [Мій дім це ти](https://open.spotify.com/track/1i1dBZf1wbTmcRPxrKXRds) | [Golubenko](https://open.spotify.com/artist/5XPjmh7BsTQfSfp9wqSoJQ) | [Мій дім це ти](https://open.spotify.com/album/1ACm1jeMH5yiuvbpRhMk9D) | 2:12 | 2025-01-16 | 2025-01-24 |
 | [Мій Санта](https://open.spotify.com/track/3fmhgj3IllD78D9wYhe5kq) | [GRISANA](https://open.spotify.com/artist/3EO10LHXB2cF79P8rYAVHz), [To Eternity](https://open.spotify.com/artist/239RzDmVa4D8Or8e9ZZX5Q) | [Мій Санта](https://open.spotify.com/album/6fhwxKbknOQV4PUJBDnkyr) | 2:40 | 2024-12-19 | 2025-01-10 |
 | [мій хлопець лох](https://open.spotify.com/track/1F6ilDkdASL2OIeAtrNjJ1) | [ANSTAY](https://open.spotify.com/artist/5yboLXHGIuGToCssTrvzz9) | [мій хлопець лох](https://open.spotify.com/album/1vJ0SxDhvbZn6lnMOXVFLD) | 3:08 | 2025-02-27 | 2025-03-21 |
+| [Мінус–плюс](https://open.spotify.com/track/5wDTffcw5YNiWfZnK65Jp8) | [Tember Blanche](https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd) | [Мінус–плюс](https://open.spotify.com/album/6gO03snpUiB0EFzEprTWCe) | 3:58 | 2026-04-10 |  |
 | [МІНІМУМ](https://open.spotify.com/track/2iHe7kpR2XQ9dUYDiH4dJG) | [Golubenko](https://open.spotify.com/artist/5XPjmh7BsTQfSfp9wqSoJQ) | [МІНІМУМ](https://open.spotify.com/album/2kJhT7vq2IvDwRpOLEGv2S) | 2:41 | 2024-11-14 | 2024-11-29 |
 | [Місто дощів](https://open.spotify.com/track/1ooD9MR661uyCOryH4fRWI) | [MAX BARSKIH](https://open.spotify.com/artist/5zXGVPJHUzQPUXKA7AlTi5) | [Місто дощів](https://open.spotify.com/album/5fN2YHkJ5TqcmN7ZS5w1Xw) | 3:40 | 2025-10-09 | 2025-11-07 |
 | [На вінілі](https://open.spotify.com/track/24vXFJ3D1WSEU2eYMBCSsh) | [KLER](https://open.spotify.com/artist/6rHWskJ6ifvI2GNvX1rjui) | [На вінілі](https://open.spotify.com/album/50qlzYAjmFiBiMqvk2qLpY) | 3:33 | 2025-04-24 | 2026-03-13 |

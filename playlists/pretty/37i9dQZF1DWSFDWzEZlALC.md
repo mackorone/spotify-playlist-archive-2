@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: herr ulrich
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,528 likes - 75 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,572 likes - 75 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 2 | [mach nich so](https://open.spotify.com/track/74sWsXinuC5RQAFWjhWFvU) | [frytz](https://open.spotify.com/artist/4hX2AmJ9iZiXYA2Zx1vtBO) | [mach nich so](https://open.spotify.com/album/6pGlbmvJt41qg4OnEQZiXU) | 2:01 |
 | 3 | [Realität](https://open.spotify.com/track/3543N9SkkEF5irRKM0h87l) | [Marlo Grosshardt](https://open.spotify.com/artist/0oUy6JfoeDteAPMDi1lNJo) | [Rasselbande / Realität](https://open.spotify.com/album/7tYHSLeM3vpNauTnShIIvS) | 2:13 |
 | 4 | [Trends \(feat\. Maikel\)](https://open.spotify.com/track/02DYvomBFL8SzeR5hMwC8b) | [moé](https://open.spotify.com/artist/2Odi4EJdB2wFUTMWNCxJ7T), [Maikel](https://open.spotify.com/artist/2T1zM7AtA0Cd9u1m3PBFEY) | [Trends \(feat\. Maikel\)](https://open.spotify.com/album/4H9UjBbJQVGAV6kYa6wPrg) | 3:35 |
-| 5 | [Track 3](https://open.spotify.com/track/4yo4fDAQnu4g39mh1Ro4W4) | [JOPPE](https://open.spotify.com/artist/32SGyqDBvd9HrVhL3ulIvE) | [Und die Vögel singen für mich](https://open.spotify.com/album/7litAY1tukgg6qKUEZBPDM) | 0:00 |
+| 5 | [Ikarus](https://open.spotify.com/track/4yo4fDAQnu4g39mh1Ro4W4) | [JOPPE](https://open.spotify.com/artist/32SGyqDBvd9HrVhL3ulIvE) | [Und die Vögel singen für mich](https://open.spotify.com/album/7litAY1tukgg6qKUEZBPDM) | 3:19 |
 | 6 | [Meer](https://open.spotify.com/track/5P5Y4Uf9EPR5FFJGo8wi1O) | [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT) | [Meer](https://open.spotify.com/album/5xhvpqb39HeymkmufiMft6) | 2:28 |
 | 7 | [poltergeist \(feat\. Emma Josephine\)](https://open.spotify.com/track/2zEsuKoe2JKoi15SMWJLiX) | [georgustav](https://open.spotify.com/artist/5axauV52djUUY4BJcnxdZo), [Emma Josephine](https://open.spotify.com/artist/2Erk3x0bvGdyvu1q7bvkWr) | [poltergeist \(feat\. Emma Josephine\)](https://open.spotify.com/album/6eQFiz8uffTixXA2rH1u4H) | 2:44 |
 | 8 | [Sag mir was du willst](https://open.spotify.com/track/6LAsd98IOgiEFIt1oqgdur) | [Lena&Linus](https://open.spotify.com/artist/3DX6TJtDUfOov1NKF18IXh), [Akryl](https://open.spotify.com/artist/37LWnyoq7uaCMLsnbbducU) | [Sag mir was du willst](https://open.spotify.com/album/580gUTcJs6tlqI9JDR4FsB) | 3:20 |

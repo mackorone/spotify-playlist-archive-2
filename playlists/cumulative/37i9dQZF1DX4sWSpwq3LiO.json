@@ -881,6 +881,24 @@
     },
     {
       "album": {
+        "name": "A Way Forward",
+        "url": "https://open.spotify.com/album/1NR5CRihxGz7dsNoaaot1W"
+      },
+      "artists": [
+        {
+          "name": "Naskal",
+          "url": "https://open.spotify.com/artist/2vpioEdP5cRy9DiJpF90i2"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "A Way Forward",
+      "url": "https://open.spotify.com/track/7wMckEgxWuP0FhwUvpVNsf"
+    },
+    {
+      "album": {
         "name": "Out Of The Blue",
         "url": "https://open.spotify.com/album/7wl0ULSaII6WDHhVUMvmAc"
       },
@@ -6874,6 +6892,24 @@
       "duration_ms": 148000,
       "name": "Des ponts plut\u00f4t que des murs",
       "url": "https://open.spotify.com/track/2raTq4pOKZfeg2h61gnI0L"
+    },
+    {
+      "album": {
+        "name": "Desenio",
+        "url": "https://open.spotify.com/album/2Th4vhpJfux4ro2fi4ZL0t"
+      },
+      "artists": [
+        {
+          "name": "Hector Vall\u00c7e",
+          "url": "https://open.spotify.com/artist/2KlGXtQBlBpqBOt4WnVH4M"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109500,
+      "name": "Desenio",
+      "url": "https://open.spotify.com/track/2NZg2wXBtHDyliA3pqtrUL"
     },
     {
       "album": {
@@ -28230,6 +28266,24 @@
       "duration_ms": 165385,
       "name": "The Light Will Return",
       "url": "https://open.spotify.com/track/0wHtZIo4VfYdXVKj3xrxWG"
+    },
+    {
+      "album": {
+        "name": "The Long Way Home",
+        "url": "https://open.spotify.com/album/7xPC0t2qN4l3dIrh8vfWTY"
+      },
+      "artists": [
+        {
+          "name": "Elio Esyro",
+          "url": "https://open.spotify.com/artist/6pYzoU8lYhRzfHPGAJkVe6"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125451,
+      "name": "The Long Way Home",
+      "url": "https://open.spotify.com/track/0as3Ar1l4C2iHxQhhy7GIS"
     },
     {
       "album": {

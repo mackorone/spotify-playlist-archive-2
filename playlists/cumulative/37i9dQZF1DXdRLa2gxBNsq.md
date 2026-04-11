@@ -4,7 +4,7 @@
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: Non Servium.
 
-448 songs - 22 hr 43 min
+449 songs - 22 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Criatura](https://open.spotify.com/track/1YGKtbd0E2PSTuwc2jOBxt) | [Non Servium](https://open.spotify.com/artist/3xyRzXuv0vKb4kCzVhqAbS) | [Criatura](https://open.spotify.com/album/3G4CgHJv566we7b2M16lSq) | 2:39 | 2024-04-18 | 2024-06-29 |
 | [Criatura](https://open.spotify.com/track/4lpFfUzN3Tss3XrtCj3Gc9) | [Non Servium](https://open.spotify.com/artist/3xyRzXuv0vKb4kCzVhqAbS) | [Criatura](https://open.spotify.com/album/3VnnePO0pWXdHCS1fBbNar) | 2:39 | 2023-12-08 | 2024-04-19 |
 | [Cuan Lejos Voy](https://open.spotify.com/track/3jF7eLWH63tZVjUO5G4Tpk) | [Me Fritos and the Gimme Cheetos](https://open.spotify.com/artist/29Ur1r8tVRPLl6TcppRLkr) | [Cuan Lejos Voy](https://open.spotify.com/album/3oEkZLMj62x7IzO2qcyyiq) | 2:48 | 2025-02-07 | 2025-03-28 |
+| [Cuando nadie está](https://open.spotify.com/track/06rI6RWVN6mRIqEJJ9AYdE) | [Kamikazes](https://open.spotify.com/artist/4PkKM2KE5z1OhO6rHvD5Vy), [Free City](https://open.spotify.com/artist/1LcREmgvQNtlFFkYyIUua0) | [Cuando nadie está](https://open.spotify.com/album/73xTP1HKA5FXLy7v60hBHn) | 3:19 | 2026-04-09 |  |
 | [Cuerpo Terror](https://open.spotify.com/track/3nhQUt4pxH0eHbDSqXT779) | [Imploxtión](https://open.spotify.com/artist/0RG2IRwMNSJr3VUrGu0f7i) | [Cuerpo Terror](https://open.spotify.com/album/483urPus8WrC9Se5mRpV4v) | 1:41 | 2025-09-25 | 2025-10-18 |
 | [Cuidado](https://open.spotify.com/track/2iq7umXGuvE09C6pdWq2pN) | [Zirrosis](https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ) | [Cuidado](https://open.spotify.com/album/00IQFRHhExjBgNSq2bWCz8) | 2:57 | 2023-12-08 | 2025-09-19 |
 | [Cuidado! Las palomas son drones](https://open.spotify.com/track/6oxXnEoxq2jmxXNMqqPZfH) | [aitana gato muerto](https://open.spotify.com/artist/0u1PT5i2diugyPeT1P9OLa), [Megadeath](https://open.spotify.com/artist/0fwBnOt3uTjZeOLJybx7M8) | [Cuidado! Las palomas son drones](https://open.spotify.com/album/4j3mj26BB8U7PcLgAWl2RD) | 2:47 | 2024-06-20 | 2024-07-13 |
@@ -126,7 +127,7 @@
 | [El Incendio](https://open.spotify.com/track/5hK1Fl7rgETlW6Xsop2ay0) | [El Flacotirador](https://open.spotify.com/artist/0iZeqWwJjhv5UN0LKxyfDq) | [El Incendio](https://open.spotify.com/album/67fdGZ8kyZ4py6tP8RoSuc) | 3:43 | 2025-06-05 | 2025-07-18 |
 | [El Infierno Es Demasiado Dulce](https://open.spotify.com/track/4QVgYxK4QKLyeygg5EtSXN) | [Akritud](https://open.spotify.com/artist/42RTZ2sSvtQ2BkzbOT29SX), [Non Servium](https://open.spotify.com/artist/3xyRzXuv0vKb4kCzVhqAbS), [Yugular](https://open.spotify.com/artist/2oBhhi0QflSGHexns2KTsM), [Odio a Muerte](https://open.spotify.com/artist/5JXhckF5PfoPReuIwDuGnS) | [El Infierno Es Demasiado Dulce](https://open.spotify.com/album/66xSqjqAaAlwUgaXEeQJmu) | 2:50 | 2023-12-08 | 2025-09-19 |
 | [El infierno es un after](https://open.spotify.com/track/6OF4GtqvLkOb3E3lQpWbOS) | [aitana gato muerto](https://open.spotify.com/artist/0u1PT5i2diugyPeT1P9OLa) | [El infierno es un after](https://open.spotify.com/album/75cMlsVv7rtadfvZ0uxUtc) | 3:37 | 2024-03-12 | 2024-06-21 |
-| [El Mesías](https://open.spotify.com/track/22M4EmsybRYNbrlOSFffG7) | [Arpaviejas](https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA) | [Ladrón de Almas](https://open.spotify.com/album/6NxQYmLaVay641q8RtK37A) | 3:14 | 2023-12-08 |  |
+| [El Mesías](https://open.spotify.com/track/22M4EmsybRYNbrlOSFffG7) | [Arpaviejas](https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA) | [Ladrón de Almas](https://open.spotify.com/album/6NxQYmLaVay641q8RtK37A) | 3:14 | 2023-12-08 | 2026-04-11 |
 | [El miedo en vuestros ojos](https://open.spotify.com/track/56tN69azjYremLhu5g6Qpk) | [Maverick](https://open.spotify.com/artist/7F7ArQxfgfpwAxY33i01sd) | [El miedo en vuestros ojos](https://open.spotify.com/album/6eNqgoHB3EeXEJ1PQ461lj) | 3:23 | 2024-11-21 | 2024-12-20 |
 | [El Mundo Arder \- Versión 2024](https://open.spotify.com/track/2xLzcyPj970wUwExqxu4c2) | [Akritud](https://open.spotify.com/artist/42RTZ2sSvtQ2BkzbOT29SX), [Kaos Urbano](https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4) | [El Mundo Arder \(Versión 2024\)](https://open.spotify.com/album/3ESvrH1oACPDwKuTXMPXgH) | 2:42 | 2024-09-13 | 2025-02-08 |
 | [El Más Gremlin de Montilla](https://open.spotify.com/track/5bvz0zijssCwb0TzYdA4I4) | [Loncha Velasco](https://open.spotify.com/artist/2GqOx9nLc3mOGApdvV6LHW) | [El Más Gremlin de Montilla](https://open.spotify.com/album/1WvwhwDNw1w7Xsum7oXK34) | 2:19 | 2025-03-27 | 2025-04-25 |

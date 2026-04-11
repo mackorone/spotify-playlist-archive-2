@@ -1,32 +1,200 @@
 {
-  "description": "A laid-back trip in the folk scene. Cover: Forest Blakk & Joy Williams",
-  "num_followers": 167044,
+  "description": "A laid-back trip in the folk scene. Cover: Allison Russell",
+  "num_followers": 167039,
   "original_name": "Folk & Friends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD7230AdHEHG1Qm6yJWloHOq+nSf",
+  "snapshot_id": "AAAAAOOgwMd2ExFLAv9SaCUt05JDotod",
   "tracks": [
     {
-      "added_at": "2026-04-02 19:55:42",
+      "added_at": "2026-04-10 04:04:27",
       "album": {
-        "name": "You\u2019ll Be The Proof (feat. Joy Williams)",
-        "url": "https://open.spotify.com/album/4QQj3QOSKqEEuJ1RdhJiAf"
+        "name": "No Springtime (ft. Joy Oladokun & Julie Williams)",
+        "url": "https://open.spotify.com/album/66qSzjkzyYbD2cXKauAOVJ"
       },
       "artists": [
         {
-          "name": "Forest Blakk",
-          "url": "https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc"
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
         },
         {
-          "name": "Joy Williams",
-          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        },
+        {
+          "name": "Julie Williams",
+          "url": "https://open.spotify.com/artist/4sRUZFWl0hDJg6MW9lHKR9"
         }
       ],
-      "duration_ms": 206504,
-      "name": "You\u2019ll Be The Proof (feat. Joy Williams)",
-      "url": "https://open.spotify.com/track/3IC5qtXccheQyYw27oSSD4"
+      "duration_ms": 200373,
+      "name": "No Springtime (ft. Joy Oladokun & Julie Williams)",
+      "url": "https://open.spotify.com/track/4roCXZFxzB1WrKofdjedQg"
+    },
+    {
+      "added_at": "2026-04-10 04:04:27",
+      "album": {
+        "name": "Venus in the Zinnia",
+        "url": "https://open.spotify.com/album/1g8xMfOWEPfIuxHory8Pg9"
+      },
+      "artists": [
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        },
+        {
+          "name": "H. Hawkline",
+          "url": "https://open.spotify.com/artist/7FmM0XgimRvS48CfObh2ht"
+        }
+      ],
+      "duration_ms": 197372,
+      "name": "Venus in the Zinnia",
+      "url": "https://open.spotify.com/track/6X5ARfLepGTGntuFbc2Hpo"
+    },
+    {
+      "added_at": "2026-04-10 04:04:27",
+      "album": {
+        "name": "Alexander Mure's Songs in the Key of C-Minus!",
+        "url": "https://open.spotify.com/album/04GJJ7V0sBgkRREWsBJHZf"
+      },
+      "artists": [
+        {
+          "name": "Mah Moud",
+          "url": "https://open.spotify.com/artist/5GrZNbHTzxnbHge9Ytafdf"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Milkman",
+      "url": "https://open.spotify.com/track/6HoUzmc0wu7zjKgjnKKTLX"
+    },
+    {
+      "added_at": "2026-04-10 04:04:27",
+      "album": {
+        "name": "Bring Home My Man",
+        "url": "https://open.spotify.com/album/2REPn6jp6zVP2xXf6VhWCy"
+      },
+      "artists": [
+        {
+          "name": "Maya Hawke",
+          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
+        }
+      ],
+      "duration_ms": 262306,
+      "name": "Bring Home My Man",
+      "url": "https://open.spotify.com/track/1OeNu7kjS4MGCt1nTzgefU"
+    },
+    {
+      "added_at": "2026-04-10 04:04:27",
+      "album": {
+        "name": "My Mess",
+        "url": "https://open.spotify.com/album/6SJIgDyt7PDWKtlFP77VLu"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "My Mess",
+      "url": "https://open.spotify.com/track/5p3Jpxg9clWBDLy9kdD6CY"
+    },
+    {
+      "added_at": "2026-04-10 04:04:27",
+      "album": {
+        "name": "Oh, Ana",
+        "url": "https://open.spotify.com/album/7h9mJCFBWhaRdWHm28xIME"
+      },
+      "artists": [
+        {
+          "name": "Dominique Way",
+          "url": "https://open.spotify.com/artist/5kROZ1F7ExRZyFnHvKdlJ7"
+        }
+      ],
+      "duration_ms": 192600,
+      "name": "Oh, Ana",
+      "url": "https://open.spotify.com/track/46G3dLvPYBjRB5WzyvWr32"
+    },
+    {
+      "added_at": "2026-04-10 04:04:27",
+      "album": {
+        "name": "Yet to Let Me Down",
+        "url": "https://open.spotify.com/album/230eu0xSurQLfonPk0MIdP"
+      },
+      "artists": [
+        {
+          "name": "Logan Richard",
+          "url": "https://open.spotify.com/artist/0clafcEW9Npsrqo76bL13o"
+        }
+      ],
+      "duration_ms": 243348,
+      "name": "Yet to Let Me Down",
+      "url": "https://open.spotify.com/track/5OmgtVmWrq2RBh4Lkeu0L5"
+    },
+    {
+      "added_at": "2026-04-10 04:04:27",
+      "album": {
+        "name": "Coming Back Home",
+        "url": "https://open.spotify.com/album/5vaB7XFJHkhn6a7GTyg8H4"
+      },
+      "artists": [
+        {
+          "name": "Late Night Thoughts",
+          "url": "https://open.spotify.com/artist/71o2qG4Qam85pPaPlw4zhN"
+        }
+      ],
+      "duration_ms": 176963,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/1fKlw3VYpNwz2KUqUO0Kou"
+    },
+    {
+      "added_at": "2026-04-10 04:04:27",
+      "album": {
+        "name": "tangerine!",
+        "url": "https://open.spotify.com/album/4e4WfNz2OUB7oqsRJL2PQl"
+      },
+      "artists": [
+        {
+          "name": "Jahson Paynter",
+          "url": "https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8"
+        }
+      ],
+      "duration_ms": 158117,
+      "name": "tangerine!",
+      "url": "https://open.spotify.com/track/3CElLbVHAx5oqgDozDdpwR"
+    },
+    {
+      "added_at": "2026-04-02 19:55:42",
+      "album": {
+        "name": "Horizon (Rework)",
+        "url": "https://open.spotify.com/album/6QjDPepKKxAiSey7oagThh"
+      },
+      "artists": [
+        {
+          "name": "Luca Fogale",
+          "url": "https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med"
+        }
+      ],
+      "duration_ms": 225302,
+      "name": "Horizon - Rework",
+      "url": "https://open.spotify.com/track/3jMDGbZ3UoLiMfQgvV2wWo"
+    },
+    {
+      "added_at": "2026-04-10 04:04:27",
+      "album": {
+        "name": "You and I",
+        "url": "https://open.spotify.com/album/5ILxuigcogkefZqzMuHU2t"
+      },
+      "artists": [
+        {
+          "name": "Lily Meola",
+          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
+        }
+      ],
+      "duration_ms": 169278,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/3veAtMxHWM7SbZOXfJ142t"
     },
     {
       "added_at": "2026-04-02 19:55:42",
@@ -47,18 +215,22 @@
     {
       "added_at": "2026-04-02 19:55:42",
       "album": {
-        "name": "Horizon (Rework)",
-        "url": "https://open.spotify.com/album/6QjDPepKKxAiSey7oagThh"
+        "name": "You\u2019ll Be The Proof (feat. Joy Williams)",
+        "url": "https://open.spotify.com/album/4QQj3QOSKqEEuJ1RdhJiAf"
       },
       "artists": [
         {
-          "name": "Luca Fogale",
-          "url": "https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med"
+          "name": "Forest Blakk",
+          "url": "https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc"
+        },
+        {
+          "name": "Joy Williams",
+          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
         }
       ],
-      "duration_ms": 225302,
-      "name": "Horizon - Rework",
-      "url": "https://open.spotify.com/track/3jMDGbZ3UoLiMfQgvV2wWo"
+      "duration_ms": 206504,
+      "name": "You\u2019ll Be The Proof (feat. Joy Williams)",
+      "url": "https://open.spotify.com/track/3IC5qtXccheQyYw27oSSD4"
     },
     {
       "added_at": "2026-04-02 19:55:42",
@@ -455,6 +627,22 @@
       "duration_ms": 207345,
       "name": "Not Your Fault",
       "url": "https://open.spotify.com/track/0PtaFE2n5Pm4iyghmmDBAN"
+    },
+    {
+      "added_at": "2026-04-10 04:04:27",
+      "album": {
+        "name": "genny please!",
+        "url": "https://open.spotify.com/album/5bYJtGZYAMHHWbDh1qVPVl"
+      },
+      "artists": [
+        {
+          "name": "Jahson Paynter",
+          "url": "https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8"
+        }
+      ],
+      "duration_ms": 203076,
+      "name": "genny please!",
+      "url": "https://open.spotify.com/track/5eFSmlYXFABhaBPH0UO4RG"
     },
     {
       "added_at": "2026-03-20 04:01:39",
@@ -2275,218 +2463,6 @@
       "duration_ms": 271318,
       "name": "I Think I Preferred The Question",
       "url": "https://open.spotify.com/track/3x5y20gf4hrQ1gHS3KrWns"
-    },
-    {
-      "added_at": "2025-11-28 05:01:04",
-      "album": {
-        "name": "Feel it All",
-        "url": "https://open.spotify.com/album/44eu0dtEylQkSNoAHrEnpw"
-      },
-      "artists": [
-        {
-          "name": "Ryan Harris",
-          "url": "https://open.spotify.com/artist/38Cj253ij4uQ7Rce6tArIG"
-        }
-      ],
-      "duration_ms": 235084,
-      "name": "Feel it All",
-      "url": "https://open.spotify.com/track/3HLzg6m80jdZMtuV4P1j0i"
-    },
-    {
-      "added_at": "2025-11-14 00:01:38",
-      "album": {
-        "name": "Daniel's Theme",
-        "url": "https://open.spotify.com/album/0I7OCGcIxEQSSjv23zIMzr"
-      },
-      "artists": [
-        {
-          "name": "Luca Fogale",
-          "url": "https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med"
-        }
-      ],
-      "duration_ms": 102327,
-      "name": "Daniel's Theme",
-      "url": "https://open.spotify.com/track/5vF5orpSWS0qxC0GsPJkq8"
-    },
-    {
-      "added_at": "2025-11-14 00:01:38",
-      "album": {
-        "name": "There's a Place I Go",
-        "url": "https://open.spotify.com/album/2WrT9ExSxQAg3nBWPfJBvI"
-      },
-      "artists": [
-        {
-          "name": "Laura Lucas",
-          "url": "https://open.spotify.com/artist/26C6XIcWyR8utyqb1wycyc"
-        }
-      ],
-      "duration_ms": 224276,
-      "name": "Let the Winter Have Me",
-      "url": "https://open.spotify.com/track/6n95B2mJPJBS3lBSn86JfL"
-    },
-    {
-      "added_at": "2025-11-21 05:01:19",
-      "album": {
-        "name": "The News",
-        "url": "https://open.spotify.com/album/7oRiVvp56YY3YrWn1gWFOp"
-      },
-      "artists": [
-        {
-          "name": "Drugdealer",
-          "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
-        }
-      ],
-      "duration_ms": 225615,
-      "name": "The News",
-      "url": "https://open.spotify.com/track/7DBf7vpgcSNBw6dL3IIuHD"
-    },
-    {
-      "added_at": "2025-11-14 00:01:38",
-      "album": {
-        "name": "winding down",
-        "url": "https://open.spotify.com/album/0LWVJ5rTXEyWs67DMQK4mt"
-      },
-      "artists": [
-        {
-          "name": "Abby Powledge",
-          "url": "https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ"
-        }
-      ],
-      "duration_ms": 252786,
-      "name": "winding down",
-      "url": "https://open.spotify.com/track/3kVCAHJ6NUmyjobxsTzB5O"
-    },
-    {
-      "added_at": "2025-11-14 00:01:38",
-      "album": {
-        "name": "Fourteen Hours",
-        "url": "https://open.spotify.com/album/5WldiAnlW0tmIibUYmik8f"
-      },
-      "artists": [
-        {
-          "name": "My Mercury",
-          "url": "https://open.spotify.com/artist/2YHh4iJPUC1rhEbRw9mi0U"
-        }
-      ],
-      "duration_ms": 209773,
-      "name": "Fourteen Hours",
-      "url": "https://open.spotify.com/track/0IAG7vs6rImln2cP8Hnlyk"
-    },
-    {
-      "added_at": "2025-11-21 05:01:19",
-      "album": {
-        "name": "coldwater canyon",
-        "url": "https://open.spotify.com/album/0KI3RBU6RVvcoNtXv47WQo"
-      },
-      "artists": [
-        {
-          "name": "Sarah Thompson",
-          "url": "https://open.spotify.com/artist/7fMszWkv9oChFal6nM505j"
-        }
-      ],
-      "duration_ms": 177565,
-      "name": "coldwater canyon",
-      "url": "https://open.spotify.com/track/4TF5BEtzmoDaubmY6W4E38"
-    },
-    {
-      "added_at": "2025-11-14 00:01:38",
-      "album": {
-        "name": "The Man I'm Supposed to Be",
-        "url": "https://open.spotify.com/album/7sZ7r9GjMQqoyFsHyIj9h3"
-      },
-      "artists": [
-        {
-          "name": "Bill Callahan",
-          "url": "https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr"
-        }
-      ],
-      "duration_ms": 222131,
-      "name": "The Man I'm Supposed To Be",
-      "url": "https://open.spotify.com/track/3Kbgwa33bP2XwjjI2f4K5V"
-    },
-    {
-      "added_at": "2025-11-14 00:01:38",
-      "album": {
-        "name": "She Told Me Where to Go (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3giMjQzltPGQ6I2yf2DxXk"
-      },
-      "artists": [
-        {
-          "name": "Old Man Luedecke",
-          "url": "https://open.spotify.com/artist/1L29dr4NAXlj2tGo51txba"
-        },
-        {
-          "name": "Willa Owen",
-          "url": "https://open.spotify.com/artist/4530YXk5QycIMohu512pcC"
-        }
-      ],
-      "duration_ms": 159586,
-      "name": "The Greatest",
-      "url": "https://open.spotify.com/track/44yHaAvGzJ9rccfkvDS15X"
-    },
-    {
-      "added_at": "2025-11-07 00:01:45",
-      "album": {
-        "name": "Blurring Time (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6J6DlLzUKCl3jePjrZiF0S"
-      },
-      "artists": [
-        {
-          "name": "Bells Larsen",
-          "url": "https://open.spotify.com/artist/57rcu4emHlYTTeVmmmLeIf"
-        }
-      ],
-      "duration_ms": 233322,
-      "name": "Night Bus",
-      "url": "https://open.spotify.com/track/3MLaTl0fF9Z8SI1h6Tqjka"
-    },
-    {
-      "added_at": "2025-11-07 00:01:45",
-      "album": {
-        "name": "Pajarito",
-        "url": "https://open.spotify.com/album/2LL4R5H9rzRafsw7pCmy71"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
-        }
-      ],
-      "duration_ms": 100733,
-      "name": "Pajarito",
-      "url": "https://open.spotify.com/track/5gAWalJr8o0koAvUVOKO7S"
-    },
-    {
-      "added_at": "2025-11-07 00:01:45",
-      "album": {
-        "name": "Little Things",
-        "url": "https://open.spotify.com/album/4yj8YSQdP7FABVFMxIfzSJ"
-      },
-      "artists": [
-        {
-          "name": "Bella White",
-          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
-        }
-      ],
-      "duration_ms": 209748,
-      "name": "Little Things",
-      "url": "https://open.spotify.com/track/72S6t946GxdLD2hlGhyHHQ"
-    },
-    {
-      "added_at": "2025-11-07 00:01:45",
-      "album": {
-        "name": "Chasing The Chimera",
-        "url": "https://open.spotify.com/album/0H4QxLnUPk1GlEkUtLuTww"
-      },
-      "artists": [
-        {
-          "name": "Del Water Gap",
-          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
-        }
-      ],
-      "duration_ms": 231499,
-      "name": "Small Town Joan of Arc",
-      "url": "https://open.spotify.com/track/3xffKXnwzuAsio7sJgYECf"
     }
   ],
   "unique_name": "Folk & Friends",

@@ -2,7 +2,7 @@
 
 ### [New Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DWV1aMSQY91oR)
 
-> The latest in hip\-hop, updated weekly\. Cover: Meek Mill
+> We'll be back next week with the latest in hip\-hop\. Cover: Meek Mill
 
 4,779 songs - 9 day 11 hr 52 min
 

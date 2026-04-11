@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-553 songs - 1 day 2 hr 25 min
+555 songs - 1 day 2 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -319,6 +319,7 @@
 | [Make Believe](https://open.spotify.com/track/2PWg2jPoQNlusbXZkGsMVg) | [GONE ASTRAY](https://open.spotify.com/artist/4xTIYqGN4btKj8WRWTyfTA), [WHOISJAYE](https://open.spotify.com/artist/6PnBjHJND78m5zNOJ77kgF) | [Make Believe](https://open.spotify.com/album/7n8qZodlWldwKXposxfWwN) | 3:05 | 2025-06-06 |  |
 | [Make It Wet](https://open.spotify.com/track/4v2PsSFdEt6wZOZK8plRR9) | [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [Currently On Earth](https://open.spotify.com/album/7fxZTHkdRmh3axTjquZTiT) | 2:22 | 2025-12-05 |  |
 | [Make It Wet \- 2Spade Remix](https://open.spotify.com/track/2eeHxJ29oyvrToTmPw8Jtr) | [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM), [2Spade](https://open.spotify.com/artist/4pgbuGIiSAJXvW5TeXPkfn) | [Currently On Earth Remixes](https://open.spotify.com/album/7JUYT95dnaemQAfStopYkO) | 2:45 | 2026-03-06 |  |
+| [Make Me Move](https://open.spotify.com/track/4XVEColEvrx3imnI5LZUrJ) | [Benjo](https://open.spotify.com/artist/1rzkcTzJDqCueupkCaCTrZ), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Make Me Move](https://open.spotify.com/album/0TKqNrU7ZZAJH63AhuYAxX) | 3:05 | 2026-04-10 |  |
 | [Make Up Your Mind \(feat\. Jaden Michaels\)](https://open.spotify.com/track/4wVC0NP6WG1sTj29sIb6sR) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Jaden Michaels](https://open.spotify.com/artist/4OKeMjg0BPykaJfAbr3dxs) | [Make Up Your Mind \(feat\. Jaden Michaels\)](https://open.spotify.com/album/22XrjW9n4gShkJVDP7YJEE) | 3:38 | 2022-05-06 | 2022-07-28 |
 | [Make Up Your Mind \(feat\. Jaden Michaels\) \- VIP Mix](https://open.spotify.com/track/5FNGDkVvtmSFpk3oE0JUF5) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Jaden Michaels](https://open.spotify.com/artist/4OKeMjg0BPykaJfAbr3dxs) | [Make Up Your Mind \(feat\. Jaden Michaels\) \[Remixes\]](https://open.spotify.com/album/18phIdubDFd2kFwODkBCZc) | 4:11 | 2022-05-06 | 2022-07-20 |
 | [MAMI](https://open.spotify.com/track/4UqHeg01SyTG6YiamDGKkT) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH) | [MAMI](https://open.spotify.com/album/5PZzF9O1Q0dsrzixb6DGIu) | 1:50 | 2025-01-31 |  |
@@ -385,6 +386,7 @@
 | [Oro Negro](https://open.spotify.com/track/47CgO81InO20CWqKR7bfWC) | [Andrekza](https://open.spotify.com/artist/7K2ZrWY8iteGlM7G4V9B0s) | [Oro Negro](https://open.spotify.com/album/0UufG3fDNZCkVc1mmR59yJ) | 2:13 | 2022-05-06 | 2022-09-10 |
 | [Osaka Psycho](https://open.spotify.com/track/4al48UReBtAEGNK48WLPCR) | [SWAGE](https://open.spotify.com/artist/4AX69F3L6j5N4wZFUaXYdc) | [Osaka Psycho](https://open.spotify.com/album/5gANRMe0nkkXIBhQ4d3ptr) | 3:44 | 2022-12-20 | 2023-03-25 |
 | [Out Of Love](https://open.spotify.com/track/5jRIWngYH11xuX2HjQwacj) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM) | [Out Of Love](https://open.spotify.com/album/2C61LqHVFz12uEJDRdBZUZ) | 2:34 | 2023-08-25 | 2025-04-27 |
+| [Overload](https://open.spotify.com/track/5m7BovDgHbS2enUXCl7Y0I) | [Sikdope](https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG) | [Overload](https://open.spotify.com/album/3JWQRkOq3bodo8Rcy9xPiu) | 2:15 | 2026-04-10 |  |
 | [Own The Night](https://open.spotify.com/track/73yiAXig9qPlUYYAQGTT8F) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [Own The Night](https://open.spotify.com/album/7C5kxq9EAe1TeyT0fMiOB3) | 3:00 | 2022-05-06 | 2023-01-21 |
 | [Pa Pa Pa \(feat\. MC Maromba\)](https://open.spotify.com/track/5FLAWwDuIq8bYZ80uWzgQ4) | [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH), [Mc Maromba](https://open.spotify.com/artist/3o3p6fGYftm6nJpS6YJ11Q), [KAORU](https://open.spotify.com/artist/3eDtd9oQyjD2OuMNgVHOag) | [Pa Pa Pa \(feat\. MC Maromba\)](https://open.spotify.com/album/7epfRuG2KTrdbUrVUGyMhR) | 2:19 | 2024-05-31 | 2025-04-27 |
 | [Paparazzi \(feat\. CERES\)](https://open.spotify.com/track/31ggAAisFrVT25iWx5TnRX) | [Madds](https://open.spotify.com/artist/0Bdyam7rtOjqj4m1PfpeUy), [Hektor Mass](https://open.spotify.com/artist/1EdB8PPdSPE4QEbWNb22Ce), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [Paparazzi \(feat\. CERES\)](https://open.spotify.com/album/3Mm4nJGwnaNbmfDZtOtGEQ) | 2:58 | 2024-08-27 | 2025-04-27 |

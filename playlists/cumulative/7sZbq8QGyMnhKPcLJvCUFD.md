@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-843 songs - 1 day 17 hr 49 min
+844 songs - 1 day 17 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -616,6 +616,7 @@
 | [Redemption](https://open.spotify.com/track/7N267HKpnzJzqToo5KcaoF) | [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [Coopex](https://open.spotify.com/artist/3UV0wVQkft6lKLDGioqnyO), [RIELL](https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd) | [Redemption](https://open.spotify.com/album/6M8MlEiGhdNwCrcqAUS23H) | 2:37 | 2023-08-08 | 2024-04-06 |
 | [Redemption](https://open.spotify.com/track/11hQpTbTymxIZzSmabCd9b) | [Max Brhon](https://open.spotify.com/artist/5DxE39K4wk15NUk2c5zpeI) | [Redemption](https://open.spotify.com/album/7Dl2QenOQCV2oRvbfugT7m) | 4:05 | 2022-09-29 | 2023-04-28 |
 | [Reflect](https://open.spotify.com/track/351BRPYm4aXYMPEvuOUYGm) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH) | [Reflect](https://open.spotify.com/album/3sDGWzEYgNvleBc5tM3p5G) | 3:04 | 2023-04-07 | 2023-08-10 |
+| [Retake](https://open.spotify.com/track/0pAFNHMlgPU3B8hxwVKvPd) | [gabriawll](https://open.spotify.com/artist/5jMwLnp7dI0H2YFvXpCaMH) | [Retake](https://open.spotify.com/album/3INdweTvSeNuhBY3ALjRo3) | 2:22 | 2026-04-10 |  |
 | [Retro Love](https://open.spotify.com/track/4UvYiq1HSksWgAjTvl7eiA) | [Killa](https://open.spotify.com/artist/1gGUO8gYL0YWzyOKFCYegd) | [Retro Love](https://open.spotify.com/album/07etk4i2uQzIyk6YI9Zsei) | 2:53 | 2023-08-18 | 2023-12-14 |
 | [Retrophonic](https://open.spotify.com/track/2jT3LKqUJVrcT6TYJhcsJg) | [Cajama](https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY) | [Retrophonic](https://open.spotify.com/album/1c0bNZGrgSQlcALkrwSgQ2) | 2:31 | 2022-05-13 | 2023-04-28 |
 | [Revolution](https://open.spotify.com/track/27ae7Z5KRAxV4fzAzvDFrq) | [Poylow](https://open.spotify.com/artist/2u1KLzprGSRmfFhjt7MDYq), [Linn Sandin](https://open.spotify.com/artist/3zr3aDseqNYhcqexvcS5ir), [Midranger](https://open.spotify.com/artist/3U6OvgyXngro2ryrJRj8U7) | [Revolution](https://open.spotify.com/album/49jS3Qx2Etr3n2XaL4ieiU) | 3:15 | 2024-10-11 |  |

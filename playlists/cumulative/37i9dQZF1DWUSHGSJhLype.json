@@ -1676,7 +1676,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 178173,
       "name": "BOTA",
       "url": "https://open.spotify.com/track/6XRjI89oGBRJe0etKtI04L"
@@ -3328,6 +3328,24 @@
       "duration_ms": 173370,
       "name": "Dois Fugitivos - Ao Vivo",
       "url": "https://open.spotify.com/track/0H1h4bJVyvphtw1MonsB5I"
+    },
+    {
+      "album": {
+        "name": "DOIS MIL E POUCO",
+        "url": "https://open.spotify.com/album/7FiigPIob3sIVUEQEVhWvW"
+      },
+      "artists": [
+        {
+          "name": "Grelo",
+          "url": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131260,
+      "name": "DOIS MIL E POUCO",
+      "url": "https://open.spotify.com/track/4tlvbeemt9MYmy3njkhYeu"
     },
     {
       "album": {
@@ -5273,6 +5291,24 @@
     },
     {
       "album": {
+        "name": "Nattan In Vegas, Pt. 3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1py4YuLuTkSr8zSGsLt9YZ"
+      },
+      "artists": [
+        {
+          "name": "NATTAN",
+          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169124,
+      "name": "Jeito De Gringa - Ao Vivo",
+      "url": "https://open.spotify.com/track/45HOUXIDT3PDdIsDIkMcIk"
+    },
+    {
+      "album": {
         "name": "Churrasquinho 3 (Ao Vivo)",
         "url": "https://open.spotify.com/album/4o4fRzbvBpmoiSpkr68mmC"
       },
@@ -5362,7 +5398,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 125373,
       "name": "Joga A Tabaca",
       "url": "https://open.spotify.com/track/4p6S4CVlVQDNDdzdHM3VN3"
@@ -8395,6 +8431,32 @@
     },
     {
       "album": {
+        "name": "Parceira Pra Vida",
+        "url": "https://open.spotify.com/album/5bGSk3r41O693lIhvdP9q5"
+      },
+      "artists": [
+        {
+          "name": "Marcynho Sensa\u00e7\u00e3o",
+          "url": "https://open.spotify.com/artist/4dnPDc045bVjibyATxVUOs"
+        },
+        {
+          "name": "Ra\u00ed Saia Rodada",
+          "url": "https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz"
+        },
+        {
+          "name": "Rey Vaqueiro",
+          "url": "https://open.spotify.com/artist/2LiTVEYDOEckioqrkD83jL"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173180,
+      "name": "Parceira Pra Vida",
+      "url": "https://open.spotify.com/track/6jyFIpRJlNnkHQTXQrZYRz"
+    },
+    {
+      "album": {
         "name": "Parecia Tempestade",
         "url": "https://open.spotify.com/album/3DPPcBAX08PIfFZFsfzVTR"
       },
@@ -8528,6 +8590,28 @@
       "duration_ms": 129090,
       "name": "Patricinha",
       "url": "https://open.spotify.com/track/4GA0IKzd3lYLkEbZpndTqT"
+    },
+    {
+      "album": {
+        "name": "Pecados Como Eu (Amor In Studio)",
+        "url": "https://open.spotify.com/album/4av5PkUEYzTT3XFWZ8JCZq"
+      },
+      "artists": [
+        {
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159402,
+      "name": "Pecados Como Eu - Amor In Studio",
+      "url": "https://open.spotify.com/track/7jTU24WOO9JBLBBmlfvvdx"
     },
     {
       "album": {
@@ -11658,7 +11742,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 150857,
       "name": "Toda Natural (Ela Olha o Marginal)",
       "url": "https://open.spotify.com/track/1d3yKikiwWVJOfFCdpvaZV"
@@ -12252,7 +12336,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 191439,
       "name": "Vampirinha - Ao Vivo",
       "url": "https://open.spotify.com/track/4e5wmQErWzLAYvKH80eVxU"
@@ -12880,6 +12964,28 @@
       "duration_ms": 126004,
       "name": "Zero Papo De Amor",
       "url": "https://open.spotify.com/track/3H4gD9o9vK3hY3QuVGhQqb"
+    },
+    {
+      "album": {
+        "name": "Gaab no Entardecer (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4bN6CXBpI56A2Ct3litWQT"
+      },
+      "artists": [
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        },
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199539,
+      "name": "Zero Problema - Ao Vivo",
+      "url": "https://open.spotify.com/track/0dLfdrK8hsRGy2JFUeam5K"
     },
     {
       "album": {

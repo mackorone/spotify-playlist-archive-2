@@ -1,12 +1,12 @@
 {
   "description": "Tiffany Day.... you dropped this \ud83d\udc51",
-  "num_followers": 497743,
+  "num_followers": 497879,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADDkTLmvSlKfKn7jEhhSxUXoTHn7",
+  "snapshot_id": "AAAAAJtDePkHtX+uymhDjVzWfcHizgsg",
   "tracks": [
     {
       "added_at": "2026-04-03 17:24:19",
@@ -25,20 +25,24 @@
       "url": "https://open.spotify.com/track/40p1AU9WjnKzgUTQu3FBEN"
     },
     {
-      "added_at": "2026-03-27 04:00:20",
+      "added_at": "2026-04-10 04:02:39",
       "album": {
-        "name": "U",
-        "url": "https://open.spotify.com/album/1qSS0T6Ffrb3rFVpizzOuk"
+        "name": "ELECTRIC (Olswel Remix)",
+        "url": "https://open.spotify.com/album/4qP9LMu4FrAj47XeKGArxo"
       },
       "artists": [
         {
-          "name": "underscores",
-          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+          "name": "Frost Children",
+          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
+        },
+        {
+          "name": "Olswel",
+          "url": "https://open.spotify.com/artist/5aFfTz3PUiklCHbgz2Aylb"
         }
       ],
-      "duration_ms": 294857,
-      "name": "Hollywood Forever",
-      "url": "https://open.spotify.com/track/3TpzJRU45jUPloLx6LKWcj"
+      "duration_ms": 221793,
+      "name": "ELECTRIC (Olswel Remix)",
+      "url": "https://open.spotify.com/track/4w77ahaIzhDDF26LDsxsQ2"
     },
     {
       "added_at": "2026-03-27 04:00:20",
@@ -55,6 +59,38 @@
       "duration_ms": 99265,
       "name": "prototype",
       "url": "https://open.spotify.com/track/7qgqbZW6SeqV1iEYTRP4nS"
+    },
+    {
+      "added_at": "2026-04-10 04:02:39",
+      "album": {
+        "name": "trinket",
+        "url": "https://open.spotify.com/album/20uJcpJbimpsyG7v9kL5Co"
+      },
+      "artists": [
+        {
+          "name": "tsubi club",
+          "url": "https://open.spotify.com/artist/6fHEaFnFgMxMAtDt7mFoQ3"
+        }
+      ],
+      "duration_ms": 228222,
+      "name": "lil qoo",
+      "url": "https://open.spotify.com/track/0iX9RT9NmaeX9yEflLXTzc"
+    },
+    {
+      "added_at": "2026-03-27 04:00:20",
+      "album": {
+        "name": "U",
+        "url": "https://open.spotify.com/album/1qSS0T6Ffrb3rFVpizzOuk"
+      },
+      "artists": [
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        }
+      ],
+      "duration_ms": 294857,
+      "name": "Hollywood Forever",
+      "url": "https://open.spotify.com/track/3TpzJRU45jUPloLx6LKWcj"
     },
     {
       "added_at": "2026-03-27 04:00:20",
@@ -89,20 +125,20 @@
       "url": "https://open.spotify.com/track/22QyJJgibWEtYCXxTQlbOh"
     },
     {
-      "added_at": "2026-03-27 04:00:20",
+      "added_at": "2026-04-10 04:02:39",
       "album": {
-        "name": "nothing's ever enough",
-        "url": "https://open.spotify.com/album/0Gfx6x8T7g7MolfxEswtj3"
+        "name": "Bounce",
+        "url": "https://open.spotify.com/album/2h9BYQl9c0oxsxwkvh5OIl"
       },
       "artists": [
         {
-          "name": "u.r.trax",
-          "url": "https://open.spotify.com/artist/5bGQtNvk4LrSUTZGzBiZq5"
+          "name": "Tommy Fleece",
+          "url": "https://open.spotify.com/artist/4vv1Y8dwByLcOJ8Wdsxrfg"
         }
       ],
-      "duration_ms": 192000,
-      "name": "nothing's ever enough",
-      "url": "https://open.spotify.com/track/3xuhhCYvXbh6Wy1odwzk16"
+      "duration_ms": 120705,
+      "name": "Bounce",
+      "url": "https://open.spotify.com/track/5HVJP7mmAjZ5NyMpA6nSas"
     },
     {
       "added_at": "2026-03-27 04:00:20",
@@ -143,6 +179,22 @@
     {
       "added_at": "2026-03-27 04:00:20",
       "album": {
+        "name": "SAME LA",
+        "url": "https://open.spotify.com/album/196LXZ6rQkJEwMrysIbSms"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Day",
+          "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
+        }
+      ],
+      "duration_ms": 224661,
+      "name": "SAME LA",
+      "url": "https://open.spotify.com/track/6dycPSQglCA4tZEU2UdLf8"
+    },
+    {
+      "added_at": "2026-03-27 04:00:20",
+      "album": {
         "name": "Fake Denim / Shutting Up",
         "url": "https://open.spotify.com/album/0iZPJncmI2J0XZ6wUuxEaL"
       },
@@ -155,22 +207,6 @@
       "duration_ms": 161502,
       "name": "Shutting Up",
       "url": "https://open.spotify.com/track/6Nv3YIAjAcakczsJafMv0C"
-    },
-    {
-      "added_at": "2026-03-27 04:00:20",
-      "album": {
-        "name": "START OVER",
-        "url": "https://open.spotify.com/album/6JzeTEulNDFMqji6Jq6JY4"
-      },
-      "artists": [
-        {
-          "name": "Tiffany Day",
-          "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
-        }
-      ],
-      "duration_ms": 170381,
-      "name": "START OVER",
-      "url": "https://open.spotify.com/track/23iKYWszFScsU02y1HJb92"
     },
     {
       "added_at": "2026-04-03 17:24:19",
@@ -365,20 +401,20 @@
       "url": "https://open.spotify.com/track/3IlZ0mCuvYfYErPpnHwfuc"
     },
     {
-      "added_at": "2026-03-27 04:00:20",
+      "added_at": "2026-04-10 04:02:39",
       "album": {
-        "name": "SAME LA",
-        "url": "https://open.spotify.com/album/196LXZ6rQkJEwMrysIbSms"
+        "name": "walk you home",
+        "url": "https://open.spotify.com/album/1HKSzkVfhjbw9YeX581RKJ"
       },
       "artists": [
         {
-          "name": "Tiffany Day",
-          "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
+          "name": "b2nny",
+          "url": "https://open.spotify.com/artist/2tbEf5RXMJ4XXwssBVlJ2B"
         }
       ],
-      "duration_ms": 224661,
-      "name": "SAME LA",
-      "url": "https://open.spotify.com/track/6dycPSQglCA4tZEU2UdLf8"
+      "duration_ms": 147692,
+      "name": "walk you home",
+      "url": "https://open.spotify.com/track/1MjBG4QNBd6L1MRhivTNw2"
     },
     {
       "added_at": "2026-04-03 17:24:19",
@@ -427,6 +463,38 @@
       "duration_ms": 244377,
       "name": "ALL TALK (CHEWED OUT)",
       "url": "https://open.spotify.com/track/6YxhaW3jKljdNHaWCS7sZf"
+    },
+    {
+      "added_at": "2026-03-27 04:00:20",
+      "album": {
+        "name": "nothing's ever enough",
+        "url": "https://open.spotify.com/album/0Gfx6x8T7g7MolfxEswtj3"
+      },
+      "artists": [
+        {
+          "name": "u.r.trax",
+          "url": "https://open.spotify.com/artist/5bGQtNvk4LrSUTZGzBiZq5"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "nothing's ever enough",
+      "url": "https://open.spotify.com/track/3xuhhCYvXbh6Wy1odwzk16"
+    },
+    {
+      "added_at": "2026-03-27 04:00:20",
+      "album": {
+        "name": "START OVER",
+        "url": "https://open.spotify.com/album/6JzeTEulNDFMqji6Jq6JY4"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Day",
+          "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
+        }
+      ],
+      "duration_ms": 170381,
+      "name": "START OVER",
+      "url": "https://open.spotify.com/track/23iKYWszFScsU02y1HJb92"
     },
     {
       "added_at": "2026-03-27 04:00:20",
@@ -939,22 +1007,6 @@
     {
       "added_at": "2026-03-27 04:00:20",
       "album": {
-        "name": "Magic Misery",
-        "url": "https://open.spotify.com/album/6F2DiBoxALYQQGjlJ26OFG"
-      },
-      "artists": [
-        {
-          "name": "Bladee",
-          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "Magic Misery",
-      "url": "https://open.spotify.com/track/2dsuTZK7rc1giv9Ipsdvoq"
-    },
-    {
-      "added_at": "2026-03-27 04:00:20",
-      "album": {
         "name": "Fuck My Computer (Frost Children Remix)",
         "url": "https://open.spotify.com/album/3mkVo55KYmJAxy21rPssZ4"
       },
@@ -1091,26 +1143,6 @@
       "duration_ms": 174774,
       "name": "Delete - horsegiirL Remix",
       "url": "https://open.spotify.com/track/3OqV1YnTNsKMwphZw46k5M"
-    },
-    {
-      "added_at": "2026-03-27 04:00:20",
-      "album": {
-        "name": "WORLDWIDE",
-        "url": "https://open.spotify.com/album/0cEE8k0glyG6lBlU5RsIgR"
-      },
-      "artists": [
-        {
-          "name": "Tera",
-          "url": "https://open.spotify.com/artist/0Ug6t4XJseFiO4kb2434ai"
-        },
-        {
-          "name": "seph",
-          "url": "https://open.spotify.com/artist/4NT5xuBdAcT3yuyiu3Wk5U"
-        }
-      ],
-      "duration_ms": 127433,
-      "name": "WORLDWIDE",
-      "url": "https://open.spotify.com/track/6Ha3WmevKwHMFHm5ipovIk"
     },
     {
       "added_at": "2026-03-27 04:00:20",
@@ -1687,26 +1719,6 @@
     {
       "added_at": "2026-03-27 04:00:20",
       "album": {
-        "name": "Final Song (bod [\u5305\u5bb6\u5df7] Remix)",
-        "url": "https://open.spotify.com/album/0wPySlV4tKSgKmYl4l2smP"
-      },
-      "artists": [
-        {
-          "name": "Bassvictim",
-          "url": "https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM"
-        },
-        {
-          "name": "bod [\u5305\u5bb6\u5df7]",
-          "url": "https://open.spotify.com/artist/1D6VOxRs2bOirIONpA4u70"
-        }
-      ],
-      "duration_ms": 126956,
-      "name": "Final Song - bod [\u5305\u5bb6\u5df7] Remix",
-      "url": "https://open.spotify.com/track/4RgDoM6QBWYzMVtu8BpO0i"
-    },
-    {
-      "added_at": "2026-03-27 04:00:20",
-      "album": {
         "name": "DAYCLUB",
         "url": "https://open.spotify.com/album/4RBGOO7pNVe76lC1ecS3hw"
       },
@@ -1971,26 +1983,6 @@
       "duration_ms": 166233,
       "name": "everywhere<3",
       "url": "https://open.spotify.com/track/0x3iQHDSInr7mrFcfYIlYJ"
-    },
-    {
-      "added_at": "2026-03-27 04:00:20",
-      "album": {
-        "name": "What a shame i love you too",
-        "url": "https://open.spotify.com/album/1bS44dS9SlaeSycgZNHg63"
-      },
-      "artists": [
-        {
-          "name": "Mayvi",
-          "url": "https://open.spotify.com/artist/40OnC1gducPfu1ZvA0pwa8"
-        },
-        {
-          "name": "shyne",
-          "url": "https://open.spotify.com/artist/5D969XImVbOJf5LpXWUEAq"
-        }
-      ],
-      "duration_ms": 107175,
-      "name": "What a shame i love you too",
-      "url": "https://open.spotify.com/track/6VP6nTZ2QBf0kQj8RdAnuZ"
     },
     {
       "added_at": "2026-03-27 04:00:20",

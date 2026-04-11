@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 
 > Os funks mais 🔑 do Brasil / Foto: DJ Gu, MC Vine7, MC Tuto, MC Joãozinho VT, Mc Dkziin, MC Fr da Norte
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,764,205 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,765,096 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

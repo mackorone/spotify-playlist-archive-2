@@ -4,7 +4,7 @@
 
 > African Praise music taking you all the way up!
 
-945 songs - 2 day 14 hr 29 min
+945 songs - 2 day 14 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -832,7 +832,6 @@
 | [Too Good](https://open.spotify.com/track/01Sgqsj81Pkw2EyM5F2zg1) | [Johnyjune](https://open.spotify.com/artist/658iJcPBWp0q5DfPf1dzhy), [yoyo michael](https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv) | [Too Good](https://open.spotify.com/album/54FYtDKHmb2VRlD7I5qcPy) | 3:37 | 2025-04-25 | 2025-11-14 |
 | [Tornado](https://open.spotify.com/track/3MrxgrJaHZU1sxysl0xU7J) | [Johay](https://open.spotify.com/artist/5AMZQzbWtj39A4bRoObz9e), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Tornado](https://open.spotify.com/album/6ZKtMQxxGlAbH9H2O9XMBo) | 2:49 | 2026-02-13 | 2026-03-13 |
 | [Tout nouveau tout beau](https://open.spotify.com/track/2JoIx8bmH2zSTddVgMRoVO) | [Morijah](https://open.spotify.com/artist/2YnxuM9f6ABfYjj5juoEuh), [Dena Mwana](https://open.spotify.com/artist/3hI9YP4rI93GyoPk5E9zT3) | [Tout nouveau tout beau](https://open.spotify.com/album/2DwcOMNP63IZSXyRHmpxNv) | 2:47 | 2024-11-08 | 2025-02-28 |
-| [Track 6](https://open.spotify.com/track/2NDUaoJ9h3mTXrAucL0Vv3) | [Mpilo West](https://open.spotify.com/artist/5qSASw5aGWOfyHnZrVR8cf) | [PHEZULU](https://open.spotify.com/album/1dO3Y6U400UZbTTatRpxiy) | 0:00 | 2026-04-10 |  |
 | [Trust in you](https://open.spotify.com/track/5YVZxtAYdDmNlAzhjIBG8i) | [Kole Light](https://open.spotify.com/artist/7eskjtqf8pezcuh4oCfhui) | [Trust in you](https://open.spotify.com/album/2Zp9tuWF33iwX9o6stxu1w) | 2:21 | 2025-09-26 | 2025-10-17 |
 | [Tula](https://open.spotify.com/track/1ZMhq5I7bHDSPzpPU2BVmk) | [Tenacious Tj](https://open.spotify.com/artist/6DccTdAbcqIxBdN6VqVbS7), [Sammy Sas](https://open.spotify.com/artist/6Kz5VJW0MekzAD8lHckzEv) | [Tula](https://open.spotify.com/album/12DT3SfaTFiUaaoUmcxjI0) | 3:21 | 2025-01-24 | 2025-02-28 |
 | [Turn Me Around](https://open.spotify.com/track/0pvx4EQPY5ag9KKQzTYTNu) | [Samsong](https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS) | [On Top of the World](https://open.spotify.com/album/27L74fWY70e6BpJV85QPYn) | 4:49 | 2023-04-06 | 2025-02-28 |
@@ -940,6 +939,7 @@
 | [You Do All](https://open.spotify.com/track/4W9LFXWcFmPUbSFaEMKIwE) | [richieo](https://open.spotify.com/artist/1I0DhnrGCFdgRHreaYacf0) | [You Do All](https://open.spotify.com/album/5THGF7t8qOhlRhKX3MtPfl) | 3:21 | 2025-07-04 | 2025-08-08 |
 | [You Do This One](https://open.spotify.com/track/4Y7dlIILrhbjhwzRIMTBlD) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [You Do This One](https://open.spotify.com/album/2xzpQ4JMvJOjh8WintsJ6o) | 3:46 | 2023-10-27 | 2025-10-03 |
 | [You Hold My Hand](https://open.spotify.com/track/2PgS6xqCCMwskRXngkqzoX) | [DJ Ernesty](https://open.spotify.com/artist/0MGWyvcy2uXq5lVdATxcuj), [Stonelo](https://open.spotify.com/artist/6gj2OYv2QQsyICck6amPRL) | [You Hold My Hand](https://open.spotify.com/album/7wnlAbSh8n1KPtEiFprhnP) | 3:04 | 2025-03-07 | 2025-06-06 |
+| [You Raise Me Up](https://open.spotify.com/track/2NDUaoJ9h3mTXrAucL0Vv3) | [Mpilo West](https://open.spotify.com/artist/5qSASw5aGWOfyHnZrVR8cf), [Deepkid RSA](https://open.spotify.com/artist/1nxzAYhUMCE6o3uRwAxzw3), [Momo RSA](https://open.spotify.com/artist/1xkXXWRbLxrqpevGE7eHI5) | [PHEZULU](https://open.spotify.com/album/1dO3Y6U400UZbTTatRpxiy) | 3:32 | 2026-04-10 |  |
 | [You Thought of Me](https://open.spotify.com/track/1PWjLU214MmESMxzI9rMPI) | [Tres Dei](https://open.spotify.com/artist/0QxXcWpb9kKHHbx10pIVcC) | [You Thought of Me](https://open.spotify.com/album/1CbIESMkBJPirkBmOTudGB) | 3:18 | 2025-07-25 |  |
 | [Your Face](https://open.spotify.com/track/2D30APayldrwbX1mKTPoT4) | [Stanley Ifenna](https://open.spotify.com/artist/65aQElIwxRydi0DXqclTJA), [Light Fred](https://open.spotify.com/artist/4sUoajVY7od9hVhw0yBcOT) | [Your Face](https://open.spotify.com/album/7mWTUF7NUe0fgiPQBk27t6) | 2:38 | 2025-09-26 | 2025-10-03 |
 | [Your Glory](https://open.spotify.com/track/0lAnctDmOeu8ZxNzOyvhR9) | [Killa](https://open.spotify.com/artist/1gGUO8gYL0YWzyOKFCYegd), [Lemmae](https://open.spotify.com/artist/2NSkKwQhl7TqY6f9Cvq5qg) | [Your Glory](https://open.spotify.com/album/4FrCB3GRyEV3oMzYTCsxq0) | 3:12 | 2024-12-06 | 2025-02-28 |

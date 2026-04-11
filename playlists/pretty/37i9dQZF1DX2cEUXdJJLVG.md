@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 
 > Hand\-picked grooves.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,569 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,559 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 | 99 | [Electrical \- Edit](https://open.spotify.com/track/3Sg8iGG91zPVfcbue1vRDm) | [Black Loops](https://open.spotify.com/artist/6AwGe2F49hD3ANXvmOwqQB), [Marlena Dae](https://open.spotify.com/artist/0y3I7EmLSzmzJXZNAKSdH8) | [Electrical](https://open.spotify.com/album/1Ed7MyGpONa5yjRLZ6tRW2) | 4:21 |
 | 100 | [Shedding](https://open.spotify.com/track/4EzIrPHgxqHbNB3ikyo0io) | [Stirmouth](https://open.spotify.com/artist/46VqMlFxczG8TFPHAFnC4W), [Elodie Jeannette](https://open.spotify.com/artist/1S8dJy0rk4PoWBW59sxNXp) | [Shedding](https://open.spotify.com/album/5VkJBbs31x4t480lF7E5WR) | 2:42 |
 
-Snapshot ID: `AAAAACCu7Hrf2H3FPr1VCCxdmmzE4PQV`
+Snapshot ID: `AAAAALvEyFHBn1d5FvASxnnERUHAP9MW`

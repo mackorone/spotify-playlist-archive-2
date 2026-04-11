@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,220 songs - 4 day 19 hr 18 min
+2,221 songs - 4 day 19 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,6 +214,7 @@
 | [Blomma i city](https://open.spotify.com/track/1kjhnKWwhrUFNxuOpzxy2S) | [Johanna Frostling](https://open.spotify.com/artist/4vbrC3LBk1yySodkSbG3IY) | [Blomma i city](https://open.spotify.com/album/2UeQe6zB080WCiO0NIOIRi) | 3:19 | 2024-05-16 | 2024-06-14 |
 | [Blommor och vin](https://open.spotify.com/track/1UzjSwv0Y4mfR0poaMXBD2) | [noll2](https://open.spotify.com/artist/6goq2OWu3ncHBnpFtCZGHR) | [Blommor och vin](https://open.spotify.com/album/466YolZMVkiRuWjUsCHGEr) | 3:01 | 2024-05-23 | 2024-06-21 |
 | [Blommorna på min tapet](https://open.spotify.com/track/1Ogr51K4YQisSHOwrK8Tfl) | [Clara Klingenström](https://open.spotify.com/artist/3tl4Gc5RItD9lE6MJZGhLg) | [Blommorna på min tapet](https://open.spotify.com/album/2kPi230tn7Lt9f8S4HOOWe) | 2:56 | 2023-10-19 | 2023-11-12 |
+| [BLOND](https://open.spotify.com/track/33rnQxZL6yxSgvWFtBe3ci) | [jalda](https://open.spotify.com/artist/5qSesMOFsys9kvpVVOJnHa) | [BLOND](https://open.spotify.com/album/5Mp7yaHyPyTaNSEKIdJwaN) | 2:59 | 2026-04-09 |  |
 | [Blow My Mind](https://open.spotify.com/track/0VBACXaInM2kzjIpklxIG2) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Blow My Mind](https://open.spotify.com/album/642ce0QAKRa0LYwIVwPK6w) | 2:57 | 2026-03-12 |  |
 | [Blue Moon](https://open.spotify.com/track/20R5YwjmKubeva79prlvJq) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/0nte5x6fXd37Nt7jALSmx0) | 3:02 | 2025-09-25 | 2026-02-13 |
 | [Blue Ruin](https://open.spotify.com/track/2drUJuTGdbYofkSkPHjefC) | [Say Lou Lou](https://open.spotify.com/artist/0flVPOQPuTboUwEtzPk6vj) | [Dust](https://open.spotify.com/album/3LqoZQyA47i5Uds9QYkYBW) | 4:10 | 2024-11-21 | 2025-01-27 |
@@ -806,7 +807,7 @@
 | [Hela världen väntar](https://open.spotify.com/track/72qqClHy6Qf9Thi58pc4lX) | [Junie](https://open.spotify.com/artist/3Jy86CVPHDVN858HitaK1N), [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe) | [Hela världen väntar](https://open.spotify.com/album/4xi6g2rx9wsMe4cz5zT6Av) | 3:18 | 2021-12-16 | 2022-03-11 |
 | [Hela världen är min](https://open.spotify.com/track/07l5IJqrY6ERJw7HNdnM0G) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Hela världen är min](https://open.spotify.com/album/2FD0zqU3iO8cwQkR2SEgMN) | 3:06 | 2022-03-17 | 2022-09-16 |
 | [Helan går](https://open.spotify.com/track/3VJHbBZSvktGfRIAW2aXch) | [Lisa Howard](https://open.spotify.com/artist/65eHyQC0V8h38ia3dLKaRm) | [Helan går](https://open.spotify.com/album/6Bzcl46KbEPJLQAUYYcC9T) | 3:15 | 2022-05-05 | 2022-09-30 |
-| [HELIGT VATTEN](https://open.spotify.com/track/6rZnvAe5JLqPOKd8unWTKc) | [ABEL](https://open.spotify.com/artist/24s1thJhRUKrnGcnFDBi5E) | [ABELS UPPENBARELSE](https://open.spotify.com/album/7eSXUGy2VrG7CLt14d5BlO) | 2:47 | 2026-04-09 |  |
+| [HELIGT VATTEN](https://open.spotify.com/track/6rZnvAe5JLqPOKd8unWTKc) | [ABEL](https://open.spotify.com/artist/24s1thJhRUKrnGcnFDBi5E) | [ABELS UPPENBARELSE](https://open.spotify.com/album/7eSXUGy2VrG7CLt14d5BlO) | 2:47 | 2026-04-09 | 2026-04-11 |
 | [Hello Cowboy](https://open.spotify.com/track/2cA6vVOVZCopd5I3VkbLKi) | [Maja Francis](https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c) | [Hello Cowboy](https://open.spotify.com/album/5MF7mgDlb5nDBnOdWN7LsK) | 3:23 | 2024-03-21 | 2024-05-03 |
 | [Hello Life](https://open.spotify.com/track/65Ze1JjeWsYW8BtMjpJDJg) | [Brother Leo](https://open.spotify.com/artist/4FEOZMbo7XIdGHVrrioAP6) | [PoP Poetry \[pt\. 1\]](https://open.spotify.com/album/5r4LuaBBNNEYpJCPWFeLCU) | 3:58 | 2022-03-04 | 2022-05-13 |
 | [Helluva life](https://open.spotify.com/track/1lxnQq2RI4UXqXXegmiiVY) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Jag önskar jag brydde mig mer](https://open.spotify.com/album/5TPuPsRCf4FN29mAYqTToD) | 3:05 | 2024-05-09 | 2024-06-07 |

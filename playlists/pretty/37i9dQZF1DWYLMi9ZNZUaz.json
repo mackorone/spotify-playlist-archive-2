@@ -1,6 +1,6 @@
 {
   "description": "D\u00f2ng ch\u1ea3y rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: YC",
-  "num_followers": 120538,
+  "num_followers": 120593,
   "original_name": "Hip-hop Vi\u1ec7t",
   "owner": {
     "name": "Spotify",
@@ -355,22 +355,6 @@
     {
       "added_at": "2026-04-09 17:00:29",
       "album": {
-        "name": "N\u01b0\u1edbc M\u1eaft C\u00e1 S\u1ea5u",
-        "url": "https://open.spotify.com/album/0it2YRYxtq66pqOfKvh11i"
-      },
-      "artists": [
-        {
-          "name": "HIEUTHUHAI",
-          "url": "https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY"
-        }
-      ],
-      "duration_ms": 206111,
-      "name": "N\u01b0\u1edbc M\u1eaft C\u00e1 S\u1ea5u",
-      "url": "https://open.spotify.com/track/39XiO6D9cuMfJXObD6gVjY"
-    },
-    {
-      "added_at": "2026-04-09 17:00:29",
-      "album": {
         "name": "Cho B\u1ea3o",
         "url": "https://open.spotify.com/album/7sBxGjqAOvQ6KgFjWadlV9"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 163754,
       "name": "Feel At Home",
       "url": "https://open.spotify.com/track/7uulTURh3qtUEUnMNtgcA6"
+    },
+    {
+      "added_at": "2026-04-09 17:00:29",
+      "album": {
+        "name": "N\u01b0\u1edbc M\u1eaft C\u00e1 S\u1ea5u",
+        "url": "https://open.spotify.com/album/0it2YRYxtq66pqOfKvh11i"
+      },
+      "artists": [
+        {
+          "name": "HIEUTHUHAI",
+          "url": "https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY"
+        }
+      ],
+      "duration_ms": 206111,
+      "name": "N\u01b0\u1edbc M\u1eaft C\u00e1 S\u1ea5u",
+      "url": "https://open.spotify.com/track/39XiO6D9cuMfJXObD6gVjY"
     },
     {
       "added_at": "2026-04-09 17:00:29",
@@ -755,26 +755,6 @@
     {
       "added_at": "2026-04-09 17:00:29",
       "album": {
-        "name": "Panorama",
-        "url": "https://open.spotify.com/album/3Qsp8mywrgRP9hZ9cHe0xH"
-      },
-      "artists": [
-        {
-          "name": "Richie D. ICY",
-          "url": "https://open.spotify.com/artist/0FvZX3MHDrlAAnf15FgBkA"
-        },
-        {
-          "name": "Obito",
-          "url": "https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp"
-        }
-      ],
-      "duration_ms": 205232,
-      "name": "Panorama",
-      "url": "https://open.spotify.com/track/6gmvd9Lld9MiNR9r6I9eFE"
-    },
-    {
-      "added_at": "2026-04-09 17:00:29",
-      "album": {
         "name": "L\u1ec7 L\u01b0u Ly",
         "url": "https://open.spotify.com/album/5hKHXzNB0vwgAlFXJNRV34"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 173397,
       "name": "Th\u00f4i Em \u0110\u1eebng \u0110i",
       "url": "https://open.spotify.com/track/7kpNUrBDYDoX6QKGzrBD1R"
+    },
+    {
+      "added_at": "2026-04-09 17:00:29",
+      "album": {
+        "name": "Panorama",
+        "url": "https://open.spotify.com/album/3Qsp8mywrgRP9hZ9cHe0xH"
+      },
+      "artists": [
+        {
+          "name": "Richie D. ICY",
+          "url": "https://open.spotify.com/artist/0FvZX3MHDrlAAnf15FgBkA"
+        },
+        {
+          "name": "Obito",
+          "url": "https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp"
+        }
+      ],
+      "duration_ms": 205232,
+      "name": "Panorama",
+      "url": "https://open.spotify.com/track/6gmvd9Lld9MiNR9r6I9eFE"
     },
     {
       "added_at": "2026-04-09 17:00:29",

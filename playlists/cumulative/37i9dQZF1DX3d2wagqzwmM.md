@@ -4,7 +4,7 @@
 
 > Big rooms and big sounds\. Cover: D'Angello & Francis
 
-686 songs - 1 day 10 hr 45 min
+687 songs - 1 day 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [Fall](https://open.spotify.com/track/77gg2iID0drmIb7bvj3pqo) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8), [L3N](https://open.spotify.com/artist/1CPGHY0C0ju8YUFVSXAWOy) | [Fall](https://open.spotify.com/album/5c7KBGm5itLGnklFh2JSeh) | 2:30 | 2022-06-30 | 2023-02-17 |
 | [Fall Down](https://open.spotify.com/track/3Gh49ji5wft1WtdQqfEHrj) | [Frankyeffe](https://open.spotify.com/artist/1YeRLPqVEJIpa6jstdiD0O), [MOTVS](https://open.spotify.com/artist/11jBSslmTEkEGXxpFfy91F) | [Fall Down](https://open.spotify.com/album/4HvRF2t748T2rcwMftPFoO) | 2:52 | 2024-09-19 | 2024-10-25 |
 | [Fast Moving](https://open.spotify.com/track/2lMCEetyocuK0NW4hwReV6) | [D'Angello & Francis](https://open.spotify.com/artist/63YpQAD9YjknZPfMVYqyIK) | [Fast Moving](https://open.spotify.com/album/1u8jK15gShKb6U5oEJO2b9) | 4:21 | 2024-12-20 | 2025-06-21 |
+| [Favela](https://open.spotify.com/track/15il8Mg8sAiy7eqISGoJK6) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Favela](https://open.spotify.com/album/0AMYBABg2SQ8hWDys7rIJq) | 3:15 | 2026-04-09 |  |
 | [Feedback \- 3 Are Legend & Stephen Hurtley Remix](https://open.spotify.com/track/1lkF98jQYMcnk7PRbn7jOp) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Autoerotique](https://open.spotify.com/artist/3SvCpwSeoWCcjfo8zjPZKB), [3 Are Legend](https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II), [Stephen Hurtley](https://open.spotify.com/artist/1Sgx7PJConAh9YpghCxmy2) | [Feedback \(10 Year Anniversary Remixes\)](https://open.spotify.com/album/3O2qlWVfSPtoG9tM9nDpD6) | 2:26 | 2024-12-20 | 2025-07-04 |
 | [Feel It](https://open.spotify.com/track/4Ui2jRHUtJqJ7DYu0Uj7dm) | [Dirty Signal](https://open.spotify.com/artist/5RI5dWAuSTNZy8GiWN3pzZ) | [Feel It](https://open.spotify.com/album/0pnOnSFqxnSmPWHgZiG8Ci) | 3:13 | 2026-04-02 |  |
 | [Feel Me Baby](https://open.spotify.com/track/0Mr35ce7VqaDXNqKQZg2KS) | [Shapov](https://open.spotify.com/artist/36VSvhsPFTdsj1CtmatPiQ), [Swanky Tunes](https://open.spotify.com/artist/06cLuOP0p7VAnBnqil1eWX) | [Feel Me Baby](https://open.spotify.com/album/3WVEcj1a9hXD7uHPSmZgni) | 2:40 | 2024-12-03 | 2025-09-11 |
@@ -254,7 +255,7 @@
 | [Heaven \(feat\. Sofia Quinn\) \- Club Mix](https://open.spotify.com/track/6uTCim4OGFZOauCqHWIpu9) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE), [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk), [Sofia Quinn](https://open.spotify.com/artist/7aa9NIJCeJoYtpUL56UH6Q) | [Heaven \(feat\. Sofia Quinn\) \[Club Mix\]](https://open.spotify.com/album/3Vw0qrLB2KLYTXEPRFVK9b) | 2:55 | 2022-04-14 | 2024-03-15 |
 | [Heaven Is A Place On Earth](https://open.spotify.com/track/6FAmtZoa7jq6bH9GBjCRkM) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [AXMO](https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc) | [Heaven Is A Place On Earth](https://open.spotify.com/album/12aiQyL5DQ1lPNwOqfiiFM) | 2:45 | 2022-12-16 | 2024-07-05 |
 | [Heavy](https://open.spotify.com/track/00kTtwFuoRVfFiH8wJabBu) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [JOA](https://open.spotify.com/artist/3rOSOkPQ5PHYOiR7mvLTMA) | [Heavy](https://open.spotify.com/album/5U6bJLke6HXBUp6Q40caJN) | 2:51 | 2025-08-07 |  |
-| [Hellfire](https://open.spotify.com/track/5qq6MmZYOHvU3fICNggSCW) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Hellfire](https://open.spotify.com/album/2mSXxOqVfVf855Yops9kAs) | 3:03 | 2025-03-06 |  |
+| [Hellfire](https://open.spotify.com/track/5qq6MmZYOHvU3fICNggSCW) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Hellfire](https://open.spotify.com/album/2mSXxOqVfVf855Yops9kAs) | 3:03 | 2025-03-06 | 2026-04-11 |
 | [Here Comes That Sound](https://open.spotify.com/track/70qMzh6xaZO6PwaBXXWcf6) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV) | [Here Comes That Sound](https://open.spotify.com/album/3lc7uAxIl9r59p9dvX9x5W) | 2:36 | 2025-12-01 | 2025-12-17 |
 | [Here For You](https://open.spotify.com/track/12DLTLX0XRcxbCFHfM8t9U) | [Linka](https://open.spotify.com/artist/4wiFBUvu3Vqn8gZpY81szc), [Gregor Potter](https://open.spotify.com/artist/3QgGgYrGPyaHh4n1d65Ukd) | [Here For You](https://open.spotify.com/album/65ufEqgIXD8A6JcPEQsP1Q) | 2:40 | 2025-01-28 | 2025-03-21 |
 | [Here For You](https://open.spotify.com/track/6bKPbGoNajOURIcz6scBaO) | [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7), [Magnificence](https://open.spotify.com/artist/5zfDGV6C2Xwns1g773GF3N) | [Here For You](https://open.spotify.com/album/5hTj9b6fi06IiQCtwpIUOi) | 3:04 | 2022-06-30 | 2022-08-07 |

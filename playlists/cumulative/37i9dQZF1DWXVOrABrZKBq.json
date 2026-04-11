@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-09",
-  "description": "Les nouveaut\u00e9s rap franco sans fronti\u00e8res. Photo: RnBoi",
+  "description": "Les nouveaut\u00e9s rap franco sans fronti\u00e8res. Photo: Nono La Grinta",
   "name": "Rap francophone",
   "tracks": [
     {
@@ -605,6 +605,24 @@
     },
     {
       "album": {
+        "name": "7 SUR 7",
+        "url": "https://open.spotify.com/album/2uN3PSf7Y3IR4buEVKpp76"
+      },
+      "artists": [
+        {
+          "name": "Yorssy",
+          "url": "https://open.spotify.com/artist/4v3iE7RK6SOyplsSQxZsjc"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161194,
+      "name": "7 SUR 7",
+      "url": "https://open.spotify.com/track/1KXMqFjM0JKivzFPkjsftS"
+    },
+    {
+      "album": {
         "name": "911",
         "url": "https://open.spotify.com/album/67f3PjH1D4jG9wNHaVi7vv"
       },
@@ -974,6 +992,24 @@
       "duration_ms": 146468,
       "name": "Atari",
       "url": "https://open.spotify.com/track/7iIGOm4UGzri6mAMZuIYOP"
+    },
+    {
+      "album": {
+        "name": "EVIL WORLD",
+        "url": "https://open.spotify.com/album/6v5mzCcDl3yZzi8EtPIslR"
+      },
+      "artists": [
+        {
+          "name": "Enima",
+          "url": "https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187941,
+      "name": "AUBE",
+      "url": "https://open.spotify.com/track/69prmOKqr4S5l2yPZpEIck"
     },
     {
       "album": {
@@ -2109,6 +2145,24 @@
     },
     {
       "album": {
+        "name": "CARATS",
+        "url": "https://open.spotify.com/album/7BRafXGYQgVEezPWgmFWmb"
+      },
+      "artists": [
+        {
+          "name": "NANII",
+          "url": "https://open.spotify.com/artist/1Srwnwnweg4tOoujcFXD1W"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196425,
+      "name": "CARATS",
+      "url": "https://open.spotify.com/track/0mcwT92UA1dnVxU2zvcy9H"
+    },
+    {
+      "album": {
         "name": "CO2",
         "url": "https://open.spotify.com/album/40ZUHqyTGLHBiT8Do4oEEx"
       },
@@ -2736,6 +2790,24 @@
       "duration_ms": 126857,
       "name": "CROOKS",
       "url": "https://open.spotify.com/track/5OGWKGisTn3Nwjzls198qz"
+    },
+    {
+      "album": {
+        "name": "Cube",
+        "url": "https://open.spotify.com/album/7GEF4vWoGnwFQr4tbZNumL"
+      },
+      "artists": [
+        {
+          "name": "Bekar",
+          "url": "https://open.spotify.com/artist/6wjkiUBMMYSIx5UBTp7eKC"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129561,
+      "name": "Cube",
+      "url": "https://open.spotify.com/track/6pWbSWoJ8lFpBnp2G6t8p4"
     },
     {
       "album": {
@@ -3377,6 +3449,28 @@
     },
     {
       "album": {
+        "name": "Dua L",
+        "url": "https://open.spotify.com/album/7sw1rAr853sWXgD2ag57kO"
+      },
+      "artists": [
+        {
+          "name": "Vacra",
+          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
+        },
+        {
+          "name": "Zola",
+          "url": "https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157781,
+      "name": "Dua L",
+      "url": "https://open.spotify.com/track/5IfknW0NYsSS5aBYk0dorA"
+    },
+    {
+      "album": {
         "name": "D\u00e9cembre",
         "url": "https://open.spotify.com/album/3jYj8yDBVr3Opb71BldBns"
       },
@@ -3700,7 +3794,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 194000,
       "name": "EVIL WORLD",
       "url": "https://open.spotify.com/track/31ZPyhmB9aLwXWTgwVjnOo"
@@ -3802,7 +3896,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 141573,
       "name": "FASTER",
       "url": "https://open.spotify.com/track/3oCMHzquSjSXN1Tmqa6LiT"
@@ -3904,6 +3998,24 @@
       "duration_ms": 204986,
       "name": "Finalement",
       "url": "https://open.spotify.com/track/0Ki0Jp7XVvBGXgjp6SUgp3"
+    },
+    {
+      "album": {
+        "name": "FLASH-BACK",
+        "url": "https://open.spotify.com/album/0Gff4ye2yCh3isq47rPRaP"
+      },
+      "artists": [
+        {
+          "name": "Nono La Grinta",
+          "url": "https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137622,
+      "name": "FLASH-BACK",
+      "url": "https://open.spotify.com/track/13ykgko9pytBkK3UAoIrfY"
     },
     {
       "album": {
@@ -4166,6 +4278,28 @@
       "duration_ms": 187826,
       "name": "G.A.N.G",
       "url": "https://open.spotify.com/track/5B286OoIX6KAJezPQ02dgz"
+    },
+    {
+      "album": {
+        "name": "G6",
+        "url": "https://open.spotify.com/album/2RFa13DGzhCdnavFnrcldD"
+      },
+      "artists": [
+        {
+          "name": "63OG",
+          "url": "https://open.spotify.com/artist/1wRx48q25O8HPDTyNOUQ2k"
+        },
+        {
+          "name": "Yung Fazo",
+          "url": "https://open.spotify.com/artist/2UuVqmRzuGdHQB7BKACEW4"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144697,
+      "name": "G6",
+      "url": "https://open.spotify.com/track/7GgQTXEGAMD34M4RFhc3PR"
     },
     {
       "album": {
@@ -5633,6 +5767,24 @@
     },
     {
       "album": {
+        "name": "LA RICHESSE",
+        "url": "https://open.spotify.com/album/79LXOB73F6p2kmdbJj9VST"
+      },
+      "artists": [
+        {
+          "name": "FRE5H",
+          "url": "https://open.spotify.com/artist/3wHBt5vw5plrufZh1DdQVe"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "LA RICHESSE",
+      "url": "https://open.spotify.com/track/70Uu1Q3RZHo0gzC21yX0Fh"
+    },
+    {
+      "album": {
         "name": "LA RUE",
         "url": "https://open.spotify.com/album/7IaBlF8e6NvoKSiE0SXRP1"
       },
@@ -6280,7 +6432,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 148051,
       "name": "Martin Scor16",
       "url": "https://open.spotify.com/track/6dMLqVPw4cK0Vi3JioqbqK"
@@ -6629,6 +6781,46 @@
     },
     {
       "album": {
+        "name": "MIROIR",
+        "url": "https://open.spotify.com/album/1KynZPk0CCaj32iy8Ug7Cz"
+      },
+      "artists": [
+        {
+          "name": "Iss",
+          "url": "https://open.spotify.com/artist/4BLLuraEiS8Sb3j5csO1jd"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180937,
+      "name": "MIROIR",
+      "url": "https://open.spotify.com/track/3SiK8uC0Dtto9SPyJcLTAf"
+    },
+    {
+      "album": {
+        "name": "Miroir",
+        "url": "https://open.spotify.com/album/2Ymfa3dacWTZIg4kfkycp2"
+      },
+      "artists": [
+        {
+          "name": "La Fouine",
+          "url": "https://open.spotify.com/artist/6QS84S3i4gwdEKqWoTtDLd"
+        },
+        {
+          "name": "Soprano",
+          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136062,
+      "name": "Miroir",
+      "url": "https://open.spotify.com/track/5PpWdMZ3H6Ky8BqpIc9ZAO"
+    },
+    {
+      "album": {
         "name": "Modass",
         "url": "https://open.spotify.com/album/2xMYFSSgy3vxcCmqii1TAQ"
       },
@@ -6778,7 +6970,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 161538,
       "name": "Monopole",
       "url": "https://open.spotify.com/track/36R49gcDpY0dC8Hax0rPTb"
@@ -7463,6 +7655,28 @@
     },
     {
       "album": {
+        "name": "Opps",
+        "url": "https://open.spotify.com/album/041Y6L8qnVd9GpedMdgCMw"
+      },
+      "artists": [
+        {
+          "name": "Gradur",
+          "url": "https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl"
+        },
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Opps",
+      "url": "https://open.spotify.com/track/64w194RfaOBL7bJr2uD2Zg"
+    },
+    {
+      "album": {
         "name": "Oseille Des Francs-Ma\u00e7ons",
         "url": "https://open.spotify.com/album/49LrhWQdrDcGQrIrFQemTw"
       },
@@ -7956,6 +8170,24 @@
       "duration_ms": 190938,
       "name": "PILIER",
       "url": "https://open.spotify.com/track/14Gt0PQM7nxO5Etc2wwcpU"
+    },
+    {
+      "album": {
+        "name": "Pineapple",
+        "url": "https://open.spotify.com/album/7f3hFVJ3QKtimUriucF5Sx"
+      },
+      "artists": [
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160487,
+      "name": "Pineapple",
+      "url": "https://open.spotify.com/track/1jSRu1IRoB6DPKsWTVGzTB"
     },
     {
       "album": {
@@ -9507,6 +9739,24 @@
     },
     {
       "album": {
+        "name": "Shonen",
+        "url": "https://open.spotify.com/album/1bJd9S4aclvh7ljMp1QriE"
+      },
+      "artists": [
+        {
+          "name": "Lybro",
+          "url": "https://open.spotify.com/artist/3uiTnIx5N6ZWAPkPb8GFC9"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148139,
+      "name": "Shonen",
+      "url": "https://open.spotify.com/track/7crrZNAEGZnJc9ubNtOcqH"
+    },
+    {
+      "album": {
         "name": "Pourvu qu'il pleuve",
         "url": "https://open.spotify.com/album/5mWeWmQXRp2w97i5IN3Wo8"
       },
@@ -10980,6 +11230,24 @@
       "duration_ms": 172380,
       "name": "Vision",
       "url": "https://open.spotify.com/track/69WMiCz57nWMET9vtwaKBf"
+    },
+    {
+      "album": {
+        "name": "Voix",
+        "url": "https://open.spotify.com/album/1zGb3kE4IwDbaLSo34ytMU"
+      },
+      "artists": [
+        {
+          "name": "BatBat",
+          "url": "https://open.spotify.com/artist/04q4egoK1OOrukoyGCXy0k"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162739,
+      "name": "Voix",
+      "url": "https://open.spotify.com/track/2a1vaz3XYg2djvlPU8dmjj"
     },
     {
       "album": {

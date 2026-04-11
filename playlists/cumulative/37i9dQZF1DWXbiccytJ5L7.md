@@ -4,7 +4,7 @@
 
 > Country rap hits of today and tomorrow\. Cover: Bailey Zimmerman and BigXthaPlug
 
-177 songs - 9 hr 19 min
+178 songs - 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [FKN Hate You](https://open.spotify.com/track/5siIfgfQ1ZmmUOpPsBcALG) | [honestav](https://open.spotify.com/artist/5LvRazQ7EDZLfQU4HYc6XF), [JaYy Wick](https://open.spotify.com/artist/1Ks9gnyut4jMphTwjlfz4u) | [FKN Hate You](https://open.spotify.com/album/6ZItnHl9phSgmCyPdgWYxQ) | 2:31 | 2026-03-20 |  |
 | [For My Kinfoke](https://open.spotify.com/track/0FrSK4s7R9gNCSM9JFNOZk) | [SMO](https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9) | [For My Kinfoke](https://open.spotify.com/album/3eTIfdShz9mfOG4Q1Uw5R4) | 3:31 | 2023-06-30 | 2025-05-03 |
 | [Forgive Me](https://open.spotify.com/track/2mBnRpo3EECA5UB24qU2AS) | [FJ Outlaw](https://open.spotify.com/artist/7LOfwXilquLSyzg493dPwJ), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Broken](https://open.spotify.com/album/3rFkyJX6pMbRmz9jaskhdz) | 3:31 | 2023-03-17 | 2023-08-21 |
+| [Going For Broke](https://open.spotify.com/track/2PZ17nwxB53bUCBl210ijD) | [Zai1k](https://open.spotify.com/artist/2ORU5xiGsr9qfRKNvZ3UII), [Paige Penney](https://open.spotify.com/artist/0FigqVH0Qm6GRL5p2QckzI) | [Going For Broke](https://open.spotify.com/album/2mRwEOKp991B7Y2iozeazS) | 3:14 | 2026-04-10 |  |
 | [Good Times Roll](https://open.spotify.com/track/2A0JdQvwSbOtI9sSIIxgQR) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Bettie James](https://open.spotify.com/album/7wftPNQFSMYlpxzNMPHo1h) | 2:38 | 2023-06-30 | 2023-07-29 |
 | [Good Times Roll](https://open.spotify.com/track/6iP3HRpbWj0iPd8gTSQgCn) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Bettie James Gold Edition](https://open.spotify.com/album/7nkRtJr1dCHcQJHUvi2Dii) | 2:38 | 2023-03-17 |  |
 | [Good Times Roll](https://open.spotify.com/track/7MCJA5dCNzzDz9xHSQeklM) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Bettie James Gold Edition](https://open.spotify.com/album/3IqbCcRHR6MWLONfEsa34O) | 2:38 | 2023-07-28 | 2023-11-04 |

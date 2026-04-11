@@ -2259,6 +2259,28 @@
     },
     {
       "album": {
+        "name": "Barbie (Score from the Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5zaVq7C2Fb9ydqg1SU9qFy"
+      },
+      "artists": [
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "Andrew Wyatt",
+          "url": "https://open.spotify.com/artist/4TpW7t4Cz0RG1gOEU6EcUm"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92823,
+      "name": "What Was I Made For? (Epilogue) - Instrumental Version",
+      "url": "https://open.spotify.com/track/5n6l4Q0qiVOQ55B0OvOfVr"
+    },
+    {
+      "album": {
         "name": "Onward (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5GVC60ITCVDwfUGjblfsst"
       },

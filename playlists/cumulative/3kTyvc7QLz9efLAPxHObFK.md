@@ -4,7 +4,7 @@
 
 > 
 
-2,974 songs - 6 day 9 hr 47 min
+2,975 songs - 6 day 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2217,6 +2217,7 @@
 | [Roll Up](https://open.spotify.com/track/0a7aRMRFOc3a9jPMfD4aJp) | [Unproven](https://open.spotify.com/artist/5WPHwuzXyFyIheuZKM42lI), [Barber](https://open.spotify.com/artist/55yd56lRrN815OEFUOrC1W), [Manifest Destiny](https://open.spotify.com/artist/1XTpiNqD37eVQdS0xFqX3j) | [Thunderdome 2021](https://open.spotify.com/album/4W1vCGZ6arGZGQVMwMGWL5) | 3:39 | 2022-09-06 |  |
 | [Rollercoaster](https://open.spotify.com/track/0oNCz0nPgKJLubGJrK6m64) | [Basswell](https://open.spotify.com/artist/4NzdIkiweEHJgVdg8q2Ruk), [So Juice](https://open.spotify.com/artist/7MBMIGBbRcIAn4zZPOMNKR) | [Rollercoaster](https://open.spotify.com/album/1vrTo5Lj23090j73rs96Yi) | 2:27 | 2026-01-23 |  |
 | [ROLLIN' LOUD](https://open.spotify.com/track/4ke0LXdbM4c6CoL1yv4lI4) | [Anderex](https://open.spotify.com/artist/7wXBtpPB5GFddtz9OeBlPW), [Mutilator](https://open.spotify.com/artist/3AkGIMk9xwDj4A5ttNBPiN) | [I SEE THE FUTURE EP](https://open.spotify.com/album/2i2p1CfDwLdjkmemstHiWt) | 2:00 | 2024-04-24 |  |
+| [Roses Are Red \- Original Version](https://open.spotify.com/track/4qZwVr553XcQNdeqjueeE3) | [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Aquarium](https://open.spotify.com/album/7uYn7ZSrXOVlmITyocZs9F) | 3:45 | 2026-04-10 |  |
 | [Round My Head](https://open.spotify.com/track/542YJaaKolRVtYswni3upP) | [Spiady](https://open.spotify.com/artist/49mf75hTY4Bjka8yxByfMs) | [Round My Head](https://open.spotify.com/album/0cbcXYIF7X4STj3zcHC9JO) | 1:41 | 2025-05-31 |  |
 | [ROXBOX](https://open.spotify.com/track/3SYKZZRN9r1Id3Fb54DODK) | [YUKIYANAGI](https://open.spotify.com/artist/5CxWZpW3bKbMiOC6jJ5r7i) | [minority room](https://open.spotify.com/album/6GwFoOMMZhVXtgkhO6fAKa) | 3:37 | 2022-02-22 |  |
 | [RUDE METHODS](https://open.spotify.com/track/25jlmlUJiDquYv8NIyPBTV) | [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7) | [RUDE METHODS](https://open.spotify.com/album/2dSW6exybjXs8rXYQ3utSd) | 3:08 | 2023-03-06 |  |

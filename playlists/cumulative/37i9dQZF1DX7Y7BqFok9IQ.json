@@ -1225,6 +1225,24 @@
     },
     {
       "album": {
+        "name": "Can't Hold Out Much Longer",
+        "url": "https://open.spotify.com/album/5WrhbcyDzbjgydV7Lv09Ql"
+      },
+      "artists": [
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206804,
+      "name": "Can't Hold Out Much Longer",
+      "url": "https://open.spotify.com/track/5kk7kZPsPMMrOm0UNJigwy"
+    },
+    {
+      "album": {
         "name": "Catch Me If You Can (feat. Chris Robertson)",
         "url": "https://open.spotify.com/album/52SxUXwHjJNNBLvSlmbBjC"
       },
@@ -5112,7 +5130,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 300473,
       "name": "Queen of Hearts",
       "url": "https://open.spotify.com/track/0hbqFIZtFrxW2n1xlNDyVR"

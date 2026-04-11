@@ -1,12 +1,12 @@
 {
   "description": "New Music from Adekunle Gold & Olamide, Johnny Drille,   FIDO, Jae5, Teddy Swims and more ",
-  "num_followers": 184842,
+  "num_followers": 185821,
   "original_name": "New Music Friday Naija",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC2Al3UoWKw68L1NVrBuo8bYesjK",
+  "snapshot_id": "AAAAAHriUJPWHsbRSNkbH36hwRRzAOdN",
   "tracks": [
     {
       "added_at": "2026-04-10 00:01:43",
@@ -31,7 +31,7 @@
     {
       "added_at": "2026-04-10 00:01:43",
       "album": {
-        "name": "Dance for Jesus (feat. Zlatan & ODUMODUBLVCK)",
+        "name": "Dance for Jesus",
         "url": "https://open.spotify.com/album/12pkgxsoiyh5Kq7DreKBxp"
       },
       "artists": [
@@ -49,7 +49,7 @@
         }
       ],
       "duration_ms": 200948,
-      "name": "Dance for Jesus (feat. Zlatan & ODUMODUBLVCK)",
+      "name": "Dance for Jesus",
       "url": "https://open.spotify.com/track/7ARtgoelqoU6QGi7fuoQnR"
     },
     {
@@ -176,8 +176,8 @@
           "url": "https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 1",
+      "duration_ms": 183157,
+      "name": "Another One",
       "url": "https://open.spotify.com/track/6awo0Uw6tTUFPhCC450jds"
     },
     {
@@ -231,22 +231,6 @@
       "duration_ms": 198425,
       "name": "Mr. Know It All",
       "url": "https://open.spotify.com/track/0GuyH5MDxEx54wg1Rhe5on"
-    },
-    {
-      "added_at": "2026-04-10 00:01:43",
-      "album": {
-        "name": "TASTE",
-        "url": "https://open.spotify.com/album/6QpPDbZ3Le8U4h9eXhp4rT"
-      },
-      "artists": [
-        {
-          "name": "Uncle Waffles",
-          "url": "https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ"
-        }
-      ],
-      "duration_ms": 141557,
-      "name": "TASTE",
-      "url": "https://open.spotify.com/track/4yIVEK70fYADeKsHfBAa2o"
     },
     {
       "added_at": "2026-04-10 00:01:43",
@@ -383,6 +367,66 @@
     {
       "added_at": "2026-04-10 00:01:43",
       "album": {
+        "name": "My Mess",
+        "url": "https://open.spotify.com/album/6SJIgDyt7PDWKtlFP77VLu"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "My Mess",
+      "url": "https://open.spotify.com/track/5p3Jpxg9clWBDLy9kdD6CY"
+    },
+    {
+      "added_at": "2026-04-10 00:01:43",
+      "album": {
+        "name": "Far Away",
+        "url": "https://open.spotify.com/album/0MWSfiZvwBy6JYhEEWZ21m"
+      },
+      "artists": [
+        {
+          "name": "Kwamzy",
+          "url": "https://open.spotify.com/artist/3v5aYUzyeGmqJGpIxHmhEv"
+        },
+        {
+          "name": "Kususa",
+          "url": "https://open.spotify.com/artist/4UcrwfAI09CLZ7aBXMiucJ"
+        },
+        {
+          "name": "Thuto The Human",
+          "url": "https://open.spotify.com/artist/5gAHEecJcLAR9qtLcaiVfj"
+        },
+        {
+          "name": "LUDWE",
+          "url": "https://open.spotify.com/artist/3ZB66mwY95nT7DOmd19LP5"
+        }
+      ],
+      "duration_ms": 366101,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/7pYVntcKEQ7NsUHDrBoK9W"
+    },
+    {
+      "added_at": "2026-04-10 00:01:43",
+      "album": {
+        "name": "Another Day",
+        "url": "https://open.spotify.com/album/0iQNsB8GQ7b96Za3lvqZsU"
+      },
+      "artists": [
+        {
+          "name": "SEHB",
+          "url": "https://open.spotify.com/artist/2N8j4lbdTWm0mcvq7qk4Xp"
+        }
+      ],
+      "duration_ms": 208014,
+      "name": "Another Day",
+      "url": "https://open.spotify.com/track/3dItjGInuTViNOUEDZSdmu"
+    },
+    {
+      "added_at": "2026-04-10 00:01:43",
+      "album": {
         "name": "MOSQUITOES",
         "url": "https://open.spotify.com/album/7CudWV8gnBMZx9v3wfDjnS"
       },
@@ -399,7 +443,7 @@
     {
       "added_at": "2026-04-10 00:01:43",
       "album": {
-        "name": "Runway",
+        "name": "RUNWAY",
         "url": "https://open.spotify.com/album/0WY1wVmchFYlH4f1yZMc90"
       },
       "artists": [
@@ -413,8 +457,48 @@
         }
       ],
       "duration_ms": 171010,
-      "name": "Runway",
+      "name": "RUNWAY",
       "url": "https://open.spotify.com/track/7BjcYqD0CqXnG45ezWSTYR"
+    },
+    {
+      "added_at": "2026-04-10 00:01:43",
+      "album": {
+        "name": "Obvious",
+        "url": "https://open.spotify.com/album/7xW3wSUjBg7PaeQOVpgvVv"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 186009,
+      "name": "Obvious",
+      "url": "https://open.spotify.com/track/7xSS8JxxHbQRjH5TNBw36H"
+    },
+    {
+      "added_at": "2026-04-10 00:01:43",
+      "album": {
+        "name": "One of Them",
+        "url": "https://open.spotify.com/album/7yHjH5MTdtXNeIcQWVq0LQ"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 204377,
+      "name": "One of Them (with Future & Lil Baby)",
+      "url": "https://open.spotify.com/track/64QhStjcTHwvY7QCkFfT0M"
     },
     {
       "added_at": "2026-04-10 00:01:43",
@@ -855,50 +939,6 @@
     {
       "added_at": "2026-04-10 00:01:43",
       "album": {
-        "name": "My Mess",
-        "url": "https://open.spotify.com/album/6SJIgDyt7PDWKtlFP77VLu"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "My Mess",
-      "url": "https://open.spotify.com/track/5p3Jpxg9clWBDLy9kdD6CY"
-    },
-    {
-      "added_at": "2026-04-10 00:01:43",
-      "album": {
-        "name": "Far Away",
-        "url": "https://open.spotify.com/album/0MWSfiZvwBy6JYhEEWZ21m"
-      },
-      "artists": [
-        {
-          "name": "Kwamzy",
-          "url": "https://open.spotify.com/artist/3v5aYUzyeGmqJGpIxHmhEv"
-        },
-        {
-          "name": "Kususa",
-          "url": "https://open.spotify.com/artist/4UcrwfAI09CLZ7aBXMiucJ"
-        },
-        {
-          "name": "Thuto The Human",
-          "url": "https://open.spotify.com/artist/5gAHEecJcLAR9qtLcaiVfj"
-        },
-        {
-          "name": "LUDWE",
-          "url": "https://open.spotify.com/artist/3ZB66mwY95nT7DOmd19LP5"
-        }
-      ],
-      "duration_ms": 366101,
-      "name": "Far Away",
-      "url": "https://open.spotify.com/track/7pYVntcKEQ7NsUHDrBoK9W"
-    },
-    {
-      "added_at": "2026-04-10 00:01:43",
-      "album": {
         "name": "If You Try",
         "url": "https://open.spotify.com/album/0iF3xgiDeR9hqRi3c62NdQ"
       },
@@ -983,22 +1023,6 @@
       "duration_ms": 156000,
       "name": "Vibes with the Mandema",
       "url": "https://open.spotify.com/track/30EH8nCmDSPd2rujY2xCDY"
-    },
-    {
-      "added_at": "2026-04-10 00:01:43",
-      "album": {
-        "name": "Another Day",
-        "url": "https://open.spotify.com/album/0iQNsB8GQ7b96Za3lvqZsU"
-      },
-      "artists": [
-        {
-          "name": "SEHB",
-          "url": "https://open.spotify.com/artist/2N8j4lbdTWm0mcvq7qk4Xp"
-        }
-      ],
-      "duration_ms": 208014,
-      "name": "Another Day",
-      "url": "https://open.spotify.com/track/3dItjGInuTViNOUEDZSdmu"
     }
   ],
   "unique_name": "New Music Friday Naija",

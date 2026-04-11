@@ -1,13 +1,109 @@
 {
   "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure.",
-  "num_followers": 9090,
+  "num_followers": 9087,
   "original_name": "Best New Songs Right Now",
   "owner": {
     "name": "revolvermagazine",
     "url": "https://open.spotify.com/user/revolvermagazine"
   },
-  "snapshot_id": "AAAP2QTC2to4CUFDyVxF/u6PxCNffMDf",
+  "snapshot_id": "AAAP5m8fArBgf/xGIJTO0m8bAZ/Qd2P1",
   "tracks": [
+    {
+      "added_at": "2026-04-10 17:55:51",
+      "album": {
+        "name": "Lethal Abuse",
+        "url": "https://open.spotify.com/album/4Rw9CwmV50VFaMjD7nFlNW"
+      },
+      "artists": [
+        {
+          "name": "Ablation",
+          "url": "https://open.spotify.com/artist/0CA9QHDBttbK4FboiCh8cm"
+        }
+      ],
+      "duration_ms": 161631,
+      "name": "Lethal Abuse",
+      "url": "https://open.spotify.com/track/7ysxRZuP9dMAvYSiU9l7d3"
+    },
+    {
+      "added_at": "2026-04-10 17:56:34",
+      "album": {
+        "name": "KINDA HARD",
+        "url": "https://open.spotify.com/album/6bJif35DxJzpXob5HfMzqU"
+      },
+      "artists": [
+        {
+          "name": "Bilmuri",
+          "url": "https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89"
+        }
+      ],
+      "duration_ms": 174500,
+      "name": "WORST PART OF YOU",
+      "url": "https://open.spotify.com/track/7f17swjhKJo1dGN0eFujjF"
+    },
+    {
+      "added_at": "2026-04-10 17:57:25",
+      "album": {
+        "name": "A Display of Penance",
+        "url": "https://open.spotify.com/album/7legvC7Eo0oDaeYQltpdSD"
+      },
+      "artists": [
+        {
+          "name": "Burial Path",
+          "url": "https://open.spotify.com/artist/0H3OT5fRfWx8jFkLAEQOIb"
+        }
+      ],
+      "duration_ms": 275400,
+      "name": "A Display of Penance",
+      "url": "https://open.spotify.com/track/5TSiAM9hkTPMcG3sChmbHA"
+    },
+    {
+      "added_at": "2026-04-10 17:57:49",
+      "album": {
+        "name": "Who Will You Follow",
+        "url": "https://open.spotify.com/album/5JszBwCeRc1Psl5RU5oG7j"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "duration_ms": 235504,
+      "name": "Who Will You Follow",
+      "url": "https://open.spotify.com/track/6XQdhnSZJqvhE6LxHEswCU"
+    },
+    {
+      "added_at": "2026-04-10 17:58:13",
+      "album": {
+        "name": "allured",
+        "url": "https://open.spotify.com/album/2qX9evcsvtcxdRKc0tJKLn"
+      },
+      "artists": [
+        {
+          "name": "sace6",
+          "url": "https://open.spotify.com/artist/3II4BTkM0mJbwvFxVJRdeS"
+        }
+      ],
+      "duration_ms": 210858,
+      "name": "allured",
+      "url": "https://open.spotify.com/track/0E5BAno4o00oI3HZFvVXhd"
+    },
+    {
+      "added_at": "2026-04-10 17:58:43",
+      "album": {
+        "name": "In Your Name",
+        "url": "https://open.spotify.com/album/5z3UBg2HZS5tqNyzRZ7wAD"
+      },
+      "artists": [
+        {
+          "name": "Vana",
+          "url": "https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T"
+        }
+      ],
+      "duration_ms": 282138,
+      "name": "In Your Name",
+      "url": "https://open.spotify.com/track/5MC8y7w5E0DUEqii0sP4Fm"
+    },
     {
       "added_at": "2026-04-03 17:49:07",
       "album": {

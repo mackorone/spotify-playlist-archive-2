@@ -1951,6 +1951,28 @@
     },
     {
       "album": {
+        "name": "Gerropaedie",
+        "url": "https://open.spotify.com/album/0stAT5XbzOiUo0hfQms7ha"
+      },
+      "artists": [
+        {
+          "name": "Sally Beamish",
+          "url": "https://open.spotify.com/artist/2BQDNQfUHLrbTDJUtCD7wV"
+        },
+        {
+          "name": "Stephanie Irvine",
+          "url": "https://open.spotify.com/artist/3cIUPGJBCDHKvWGp8YA847"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133621,
+      "name": "Gerropaedie",
+      "url": "https://open.spotify.com/track/7ppSvEwgUgrG21DQRMea2u"
+    },
+    {
+      "album": {
         "name": "Vissi d'Arte - Opera for Orchestra",
         "url": "https://open.spotify.com/album/2vjEH5WILR6M71LdCI3Umv"
       },
@@ -3122,6 +3144,24 @@
       "duration_ms": 224422,
       "name": "Pohjola (Arr. for Strings by Carlos Hof)",
       "url": "https://open.spotify.com/track/2aWm6k9oNgtqJVq61KlANg"
+    },
+    {
+      "album": {
+        "name": "Positano",
+        "url": "https://open.spotify.com/album/5djBNJPkICIaN6MfNg14AC"
+      },
+      "artists": [
+        {
+          "name": "Stephan Moccio",
+          "url": "https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207053,
+      "name": "Positano",
+      "url": "https://open.spotify.com/track/6By3SpQrptW5IErRnCaR9S"
     },
     {
       "album": {

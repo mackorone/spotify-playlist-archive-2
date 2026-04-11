@@ -4,7 +4,7 @@
 
 > Top Christian Worship 2026 \| Praise and Worship with today's top Worship tracks\. From Bible study to Sunday Morning Worship\. Featuring artist's like Chris Tomlin, Kari Jobe, Cody Carnes and Tauren Wells! 2016 \| Winter storm \| snow storm 2026 \| GRAMMYs 2026 Christian
 
-742 songs - 2 day 23 hr 27 min
+743 songs - 2 day 23 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -546,6 +546,7 @@
 | [Rest On Us](https://open.spotify.com/track/25p9WwZkKwI07cZiHxFask) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Harvest Grapevine](https://open.spotify.com/artist/1fHsA04cL5A4gkCzl9gAW0) | [How To Start A Housefire \(Pt\. II\)](https://open.spotify.com/album/00AeTGkKMb4C827JlzT8Uk) | 9:24 | 2025-03-20 |  |
 | [Rest on Us](https://open.spotify.com/track/5eb1zSp4vkky4i3nN5xCzt) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Eniola Abioye](https://open.spotify.com/artist/0vUp0HrA2d7mcExuf5Wbo6) | [Move Your Heart](https://open.spotify.com/album/2rOZswj1Kdxl7mQgVeqjNq) | 5:37 | 2022-02-17 | 2022-04-06 |
 | [Rest On Us \- Live At Bethel Church, Redding, CA, 2024](https://open.spotify.com/track/6g42vmxaRpAhEGqdJMAQyC) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [David Funk](https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc) | [Rest On Us](https://open.spotify.com/album/0HsyzJKf3EgQy9dXdUYTM3) | 9:55 | 2024-11-22 | 2025-03-21 |
+| [Resurrection Day](https://open.spotify.com/track/1CzOi1tRZa50f5htugDDKV) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [CBC Worship](https://open.spotify.com/artist/5MxBiVHfkb8O6bC6fU3UhD) | [Resurrection Day](https://open.spotify.com/album/0P4flUdG8mLq0DlPvhyFdj) | 4:59 | 2026-04-10 |  |
 | [Resurrection Power \- Live](https://open.spotify.com/track/48lsCZVpfWHA5H5KCM34y4) | [ZOE Music](https://open.spotify.com/artist/468p12FvjFTfWvyxLbIL3q) | [Resurrection Power \(Live\)](https://open.spotify.com/album/0lHvcs4Z9YkSLGzq6iPUdp) | 7:03 | 2023-12-01 | 2024-04-19 |
 | [Resurrender \- Live](https://open.spotify.com/track/2yYsMsc5Ic7HZoOS3DbGMZ) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [These Same Skies \(Live\)](https://open.spotify.com/album/08skyG33WqHITgFg6S09LR) | 7:02 | 2022-02-17 | 2022-06-10 |
 | [Revelation Song](https://open.spotify.com/track/086YlKy50RFarVYtRFFTGJ) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Just As I Am \(A Legacy Of Hymns And Worship\)](https://open.spotify.com/album/5Wm8dbKLD7ermzHvC9hIRv) | 5:56 | 2024-02-29 | 2025-03-21 |

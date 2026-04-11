@@ -1,13 +1,397 @@
 {
-  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Thelma & James",
-  "num_followers": 872335,
+  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Josiah and the Bonnevilles",
+  "num_followers": 872623,
   "original_name": "Fresh Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACX4qVVKntlkpsolO/Lo62G5goTq",
+  "snapshot_id": "AAAAAIPxjJBENiLSt08HPMoIxOmi4rHn",
   "tracks": [
+    {
+      "added_at": "2026-04-10 04:01:40",
+      "album": {
+        "name": "Venus in the Zinnia",
+        "url": "https://open.spotify.com/album/1g8xMfOWEPfIuxHory8Pg9"
+      },
+      "artists": [
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        },
+        {
+          "name": "H. Hawkline",
+          "url": "https://open.spotify.com/artist/7FmM0XgimRvS48CfObh2ht"
+        }
+      ],
+      "duration_ms": 197372,
+      "name": "Venus in the Zinnia",
+      "url": "https://open.spotify.com/track/6X5ARfLepGTGntuFbc2Hpo"
+    },
+    {
+      "added_at": "2026-04-10 04:01:40",
+      "album": {
+        "name": "Going Gone",
+        "url": "https://open.spotify.com/album/7gWoQaclVBWJOmFDxloGGt"
+      },
+      "artists": [
+        {
+          "name": "Josiah and the Bonnevilles",
+          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
+        }
+      ],
+      "duration_ms": 176879,
+      "name": "Going Gone",
+      "url": "https://open.spotify.com/track/755YHY8NRYiOtSquUwGPX6"
+    },
+    {
+      "added_at": "2026-04-10 04:01:40",
+      "album": {
+        "name": "Miss Michigan",
+        "url": "https://open.spotify.com/album/403xK3xBydTLfaBxctsZ2X"
+      },
+      "artists": [
+        {
+          "name": "Momo Boyd",
+          "url": "https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd"
+        },
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "duration_ms": 204374,
+      "name": "Cold Hands",
+      "url": "https://open.spotify.com/track/2ZaTomBYLVmHjC3SCfjfl6"
+    },
+    {
+      "added_at": "2026-04-10 04:01:40",
+      "album": {
+        "name": "Moral Victory",
+        "url": "https://open.spotify.com/album/573Kvyj26bxfDm7Bj1cyTK"
+      },
+      "artists": [
+        {
+          "name": "Amble",
+          "url": "https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI"
+        }
+      ],
+      "duration_ms": 302908,
+      "name": "Moral Victory",
+      "url": "https://open.spotify.com/track/5D2AaNj4RfxSbHTSYjbb4E"
+    },
+    {
+      "added_at": "2026-04-10 04:01:40",
+      "album": {
+        "name": "Your Friend",
+        "url": "https://open.spotify.com/album/1aR5D5CejIDjbuYNFYiKGO"
+      },
+      "artists": [
+        {
+          "name": "Jensen McRae",
+          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
+        }
+      ],
+      "duration_ms": 147600,
+      "name": "Your Friend",
+      "url": "https://open.spotify.com/track/1Ko2Ri7VZgqndvv8eC7thh"
+    },
+    {
+      "added_at": "2026-04-10 04:01:40",
+      "album": {
+        "name": "Coming Back Home",
+        "url": "https://open.spotify.com/album/5vaB7XFJHkhn6a7GTyg8H4"
+      },
+      "artists": [
+        {
+          "name": "Late Night Thoughts",
+          "url": "https://open.spotify.com/artist/71o2qG4Qam85pPaPlw4zhN"
+        }
+      ],
+      "duration_ms": 176963,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/1fKlw3VYpNwz2KUqUO0Kou"
+    },
+    {
+      "added_at": "2026-04-10 04:01:40",
+      "album": {
+        "name": "My Mess",
+        "url": "https://open.spotify.com/album/6SJIgDyt7PDWKtlFP77VLu"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "My Mess",
+      "url": "https://open.spotify.com/track/5p3Jpxg9clWBDLy9kdD6CY"
+    },
+    {
+      "added_at": "2026-04-10 04:01:40",
+      "album": {
+        "name": "pink moon",
+        "url": "https://open.spotify.com/album/6obyaef6k16jbYn4EFhCuE"
+      },
+      "artists": [
+        {
+          "name": "runo plum",
+          "url": "https://open.spotify.com/artist/0pouttXEXIHvguV90fhB39"
+        }
+      ],
+      "duration_ms": 201146,
+      "name": "pink moon",
+      "url": "https://open.spotify.com/track/7ps6k8CDGZBh9201nz6UK7"
+    },
+    {
+      "added_at": "2026-04-10 04:01:40",
+      "album": {
+        "name": "No Springtime (ft. Joy Oladokun & Julie Williams)",
+        "url": "https://open.spotify.com/album/66qSzjkzyYbD2cXKauAOVJ"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        },
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        },
+        {
+          "name": "Julie Williams",
+          "url": "https://open.spotify.com/artist/4sRUZFWl0hDJg6MW9lHKR9"
+        }
+      ],
+      "duration_ms": 200373,
+      "name": "No Springtime (ft. Joy Oladokun & Julie Williams)",
+      "url": "https://open.spotify.com/track/4roCXZFxzB1WrKofdjedQg"
+    },
+    {
+      "added_at": "2026-04-10 04:01:40",
+      "album": {
+        "name": "Bring Home My Man",
+        "url": "https://open.spotify.com/album/2REPn6jp6zVP2xXf6VhWCy"
+      },
+      "artists": [
+        {
+          "name": "Maya Hawke",
+          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
+        }
+      ],
+      "duration_ms": 262306,
+      "name": "Bring Home My Man",
+      "url": "https://open.spotify.com/track/1OeNu7kjS4MGCt1nTzgefU"
+    },
+    {
+      "added_at": "2026-04-10 04:01:40",
+      "album": {
+        "name": "i think i had something once",
+        "url": "https://open.spotify.com/album/6DwKhMwRSVNyOtNY2mkZao"
+      },
+      "artists": [
+        {
+          "name": "Aubory Bugg",
+          "url": "https://open.spotify.com/artist/2fRZyxhGkcXXFwe7tGan1U"
+        }
+      ],
+      "duration_ms": 219770,
+      "name": "i think i had something once",
+      "url": "https://open.spotify.com/track/7LnWdwgoNONeKs2MHzMSDe"
+    },
+    {
+      "added_at": "2026-04-10 04:01:40",
+      "album": {
+        "name": "Bones to Ashes, Dark to Light",
+        "url": "https://open.spotify.com/album/2Az6UHRaSG1G37fJF8IaqW"
+      },
+      "artists": [
+        {
+          "name": "The Franklin Electric",
+          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
+        }
+      ],
+      "duration_ms": 209435,
+      "name": "Bones to Ashes, Dark to Light",
+      "url": "https://open.spotify.com/track/69anr1rbMwtfBpOkKHP9pd"
+    },
+    {
+      "added_at": "2026-04-10 04:01:40",
+      "album": {
+        "name": "Kissing The Ground",
+        "url": "https://open.spotify.com/album/2VlhBDoRmHdtU1HhxkpbU4"
+      },
+      "artists": [
+        {
+          "name": "Nell Mescal",
+          "url": "https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE"
+        }
+      ],
+      "duration_ms": 230604,
+      "name": "Kissing The Ground",
+      "url": "https://open.spotify.com/track/1uBcmYV9Ihtu4QicLJAj9K"
+    },
+    {
+      "added_at": "2026-04-10 04:01:40",
+      "album": {
+        "name": "I Love You, Brae",
+        "url": "https://open.spotify.com/album/2BztvJNxd2JgKszB0NGr8m"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00e9ar",
+          "url": "https://open.spotify.com/artist/0xIsWKGGU3QjOvNp3l4jmo"
+        }
+      ],
+      "duration_ms": 283000,
+      "name": "Queenstown",
+      "url": "https://open.spotify.com/track/7EzhSMssOShDH5PfOW2sOe"
+    },
+    {
+      "added_at": "2026-04-10 04:01:40",
+      "album": {
+        "name": "Hurt Again",
+        "url": "https://open.spotify.com/album/5EY4CNdNDZBuPcq2QqkIqo"
+      },
+      "artists": [
+        {
+          "name": "Dirty Blond",
+          "url": "https://open.spotify.com/artist/3ztI1lGY2ZwrmOJ5Kr6wsM"
+        }
+      ],
+      "duration_ms": 157653,
+      "name": "Hurt Again",
+      "url": "https://open.spotify.com/track/3ZHVRTOyFkVBaQKXbMt74O"
+    },
+    {
+      "added_at": "2026-04-10 04:01:40",
+      "album": {
+        "name": "Summer",
+        "url": "https://open.spotify.com/album/0ZRGex2LSlTPx9Na2PBqB5"
+      },
+      "artists": [
+        {
+          "name": "Tasha",
+          "url": "https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej"
+        }
+      ],
+      "duration_ms": 201828,
+      "name": "Summer",
+      "url": "https://open.spotify.com/track/5wghHTSgz3KugE6b7QTm2e"
+    },
+    {
+      "added_at": "2026-04-10 04:01:40",
+      "album": {
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/0Wi1YKnlOHLUm3AlA7dGGW"
+      },
+      "artists": [
+        {
+          "name": "Alex Amen",
+          "url": "https://open.spotify.com/artist/70qCuX4YtspN8K6g4lKHnM"
+        }
+      ],
+      "duration_ms": 248148,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/3NkeZlXfEYXhvzVVrT6GrZ"
+    },
+    {
+      "added_at": "2026-04-10 04:01:40",
+      "album": {
+        "name": "Shape of a Wave",
+        "url": "https://open.spotify.com/album/5az5VajugrAeaJzZDelfMG"
+      },
+      "artists": [
+        {
+          "name": "Steve Gunn",
+          "url": "https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO"
+        }
+      ],
+      "duration_ms": 353773,
+      "name": "Shape of a Wave",
+      "url": "https://open.spotify.com/track/06UZzlvjsAYeeYlC1tBoWW"
+    },
+    {
+      "added_at": "2026-04-10 04:01:40",
+      "album": {
+        "name": "Pretty Strange World",
+        "url": "https://open.spotify.com/album/7blTvGP8v1ZPpNWhOODugT"
+      },
+      "artists": [
+        {
+          "name": "Any Young Mechanic",
+          "url": "https://open.spotify.com/artist/49uksCFEefMvzh3YRMnZmf"
+        }
+      ],
+      "duration_ms": 176460,
+      "name": "Pretty Strange World",
+      "url": "https://open.spotify.com/track/1ydmnM5TlvfUWdgMD2SeZS"
+    },
+    {
+      "added_at": "2026-04-10 04:01:40",
+      "album": {
+        "name": "If We Could, Would We",
+        "url": "https://open.spotify.com/album/14isRFBuLjdXwuQXes0WXr"
+      },
+      "artists": [
+        {
+          "name": "Gracie and Rachel",
+          "url": "https://open.spotify.com/artist/4jKFMEVOa9uon9utRFsLLX"
+        }
+      ],
+      "duration_ms": 197720,
+      "name": "Myself Again",
+      "url": "https://open.spotify.com/track/3fpaarYQRRWIb3BiSM4Ffa"
+    },
+    {
+      "added_at": "2026-04-10 04:01:40",
+      "album": {
+        "name": "I\u2019m Still Learning How To Leave You",
+        "url": "https://open.spotify.com/album/03E8Neqz8GSu5TFeaM5prG"
+      },
+      "artists": [
+        {
+          "name": "Harmony Tividad",
+          "url": "https://open.spotify.com/artist/6oLhfvwfeydj1LrCduXTrW"
+        }
+      ],
+      "duration_ms": 215715,
+      "name": "I\u2019m Still Learning How To Leave You",
+      "url": "https://open.spotify.com/track/5NZz5xUh1Vgz6DesC5SKYZ"
+    },
+    {
+      "added_at": "2026-04-10 04:01:40",
+      "album": {
+        "name": "Coyote",
+        "url": "https://open.spotify.com/album/4ZqVcW4IYvt7aP1W2Wg4wp"
+      },
+      "artists": [
+        {
+          "name": "Thomas Dollbaum",
+          "url": "https://open.spotify.com/artist/3TBOFVWrSRdDxKjNxBdlKZ"
+        }
+      ],
+      "duration_ms": 237493,
+      "name": "Coyote",
+      "url": "https://open.spotify.com/track/2JTksnpU56pS0yRtTKbBbc"
+    },
+    {
+      "added_at": "2026-04-10 04:01:40",
+      "album": {
+        "name": "Another Time",
+        "url": "https://open.spotify.com/album/0t0aZd1jbEiYUzUiKPXiNn"
+      },
+      "artists": [
+        {
+          "name": "Zoh Amba",
+          "url": "https://open.spotify.com/artist/3Xfp6T1hoOKpC4Ywcz93EL"
+        }
+      ],
+      "duration_ms": 181537,
+      "name": "Another Time",
+      "url": "https://open.spotify.com/track/77Ukfo8YLUQg17odJF4brC"
+    },
     {
       "added_at": "2026-04-03 04:02:06",
       "album": {

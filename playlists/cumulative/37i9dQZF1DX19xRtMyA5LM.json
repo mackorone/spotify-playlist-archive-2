@@ -528,7 +528,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 154285,
       "name": "Alo",
       "url": "https://open.spotify.com/track/3bsk1YJFVOVjJPF7z6QFKD"
@@ -3338,6 +3338,24 @@
       "duration_ms": 192635,
       "name": "Ik wil praten..",
       "url": "https://open.spotify.com/track/6XMGS64tneEJ1CdchExqUv"
+    },
+    {
+      "album": {
+        "name": "Immortal",
+        "url": "https://open.spotify.com/album/4HZtXTSZvP9kVEhW2QI6CI"
+      },
+      "artists": [
+        {
+          "name": "Cit\u00e9",
+          "url": "https://open.spotify.com/artist/1IzmTWOBk33eqWZmWpxUqp"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156631,
+      "name": "Immortal",
+      "url": "https://open.spotify.com/track/6z7QPblgmq6HOhuoYEtBZW"
     },
     {
       "album": {
@@ -6974,6 +6992,24 @@
       "duration_ms": 108131,
       "name": "Stenen & Liquide",
       "url": "https://open.spotify.com/track/6BwAzx1XS2j7QTHPFPOnEm"
+    },
+    {
+      "album": {
+        "name": "Street therapy",
+        "url": "https://open.spotify.com/album/2fkYO5Bf9EcLzQ0ZVuRMQ3"
+      },
+      "artists": [
+        {
+          "name": "Henkie T",
+          "url": "https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143004,
+      "name": "Street therapy",
+      "url": "https://open.spotify.com/track/1WVNpw65SACTQtcvf5xY5z"
     },
     {
       "album": {

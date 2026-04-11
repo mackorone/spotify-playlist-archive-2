@@ -2,9 +2,9 @@
 
 ### [Na Zona](https://open.spotify.com/playlist/37i9dQZF1DXdpF2suW27SP)
 
-> LON3R Johnny entra na zona.
+> LON3R JOHNY entra na zona.
 
-993 songs - 2 day 4 hr 10 min
+993 songs - 2 day 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [2 HOLANDESAS](https://open.spotify.com/track/4IM9ODUwoBJo9QTV0EZQvg) | [Wine TKK](https://open.spotify.com/artist/4z82basJVVCSjAoZVkb7Rx), [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx) | [2 HOLANDESAS](https://open.spotify.com/album/7jRTzmMgme4UJrr9pQPRer) | 3:07 | 2025-07-03 | 2025-08-08 |
 | [2 HORAS](https://open.spotify.com/track/6EToWXssCE1xbX42Gghilj) | [Fradick Draizzy](https://open.spotify.com/artist/3HSBs2HKfPygr1SpDhwQWO), [SK5naVOZ](https://open.spotify.com/artist/556Gnybrg7gvvRSw8Ulgk0), [AG ASTRO](https://open.spotify.com/artist/0JmZIeWVFPZa9OQJL2G3wA), [DelcioCy Costa](https://open.spotify.com/artist/5hprYSmIJwE5Kbo8TlgHuy) | [2 HORAS](https://open.spotify.com/album/4hFg2ctB4cPhJ2Q0wMijX0) | 2:06 | 2026-01-23 | 2026-03-06 |
 | [2023](https://open.spotify.com/track/2J1TF8fTaImU4sZhDpIsnp) | [Achero](https://open.spotify.com/artist/7L8DLzR5RuMizLVu9Ww0cs) | [2023](https://open.spotify.com/album/4E12XITnfM7Cer4HGi9RaZ) | 2:41 | 2023-12-15 | 2024-02-09 |
+| [25 DE ABRIL \(feat\. Plutonio\)](https://open.spotify.com/track/7gHPjqCdGSstIBz1knykYn) | [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd), [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [94](https://open.spotify.com/album/0NqDtwq1iiuEqNrL0mkePy) | 2:52 | 2026-04-09 |  |
 | [3 Lugares](https://open.spotify.com/track/79N11TW32uY1w93uygGkIe) | [Atlas](https://open.spotify.com/artist/3tgwJ3YqzYI5jc4XxgCHRk), [Altifridi](https://open.spotify.com/artist/5EDJuUceEPf5Lzw4DviGv1), [Zara G](https://open.spotify.com/artist/7gem2HsdUnIMlGuhZT22Sb) | [3 Lugares](https://open.spotify.com/album/4o4ptCszuV9U4brzpp04HN) | 3:16 | 2024-03-15 | 2024-05-10 |
 | [3,14](https://open.spotify.com/track/1OjAoIz5Gl36rzm9RKEQeG) | [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0), [Sam The Kid](https://open.spotify.com/artist/3NEQ5t2FprBMLmDAP0EPcE) | [3,14](https://open.spotify.com/album/6G62obmFgI2yyK36htUzOe) | 5:24 | 2022-07-16 | 2022-12-16 |
 | [300](https://open.spotify.com/track/6lElXo5x9oyqvIUcG7gP7d) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Ngana Zambi](https://open.spotify.com/album/4ZgWBr16niSFDwCIiJ4iBk) | 4:17 | 2022-07-16 | 2022-10-28 |
@@ -907,7 +908,6 @@
 | [Tou a Ver Mal](https://open.spotify.com/track/1ojC0FuZuXDvV3FZd8nL4d) | [Dbraz](https://open.spotify.com/artist/4GtbhrPCLhHRVvpMrxClZl), [Simba.](https://open.spotify.com/artist/0mYtvNRxZxXxPTkl0A1W4v) | [Tou a Ver Mal](https://open.spotify.com/album/2XelCnw5bxJC2ivMbYzuaQ) | 2:34 | 2024-08-22 | 2025-10-24 |
 | [Tou Off](https://open.spotify.com/track/0FB7uPeeVlMJllljKRXAbP) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm) | [Tou Off](https://open.spotify.com/album/1UQdAkoiFLFlNPKpk7WREn) | 2:44 | 2025-06-12 | 2025-09-26 |
 | [Trabadjadores](https://open.spotify.com/track/6Tz9tjOJI3nH09Q9uQXWSf) | [Vado Más Ki Ás](https://open.spotify.com/artist/6HmLPYedWhpFhiF8BonrMG) | [Trabadjadores](https://open.spotify.com/album/6bAbmLEutiGnryPYhLZ7ZR) | 2:44 | 2026-03-27 |  |
-| [Track 7](https://open.spotify.com/track/7gHPjqCdGSstIBz1knykYn) | [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd) | [94](https://open.spotify.com/album/0NqDtwq1iiuEqNrL0mkePy) | 0:00 | 2026-04-09 |  |
 | [Tradução](https://open.spotify.com/track/0rPbTXcpkUXbP1jqz0oEqG) | [Nayr Faquirá](https://open.spotify.com/artist/04UMTpKorelINdwYKsM9Tb), [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN) | [Entrelinhas](https://open.spotify.com/album/4qzAJABWAoSIy6LoAebV1u) | 2:58 | 2025-05-22 | 2025-06-13 |
 | [TRAJE](https://open.spotify.com/track/1qG4PQKxaInnCww9yu7Tf7) | [Achero](https://open.spotify.com/artist/7L8DLzR5RuMizLVu9Ww0cs), [Zoo](https://open.spotify.com/artist/4pm6alxkPoKq0c334OGbkH) | [Trilogia: O Legado](https://open.spotify.com/album/2pkSKT2bYhqojZdfJxMWD9) | 3:05 | 2023-02-10 | 2023-04-07 |
 | [Trapstar](https://open.spotify.com/track/4cg7kViRwT1TrrQZqGlTpT) | [Dubzy](https://open.spotify.com/artist/66aZNbD282NMzsBneYujhz), [Progvid](https://open.spotify.com/artist/53yPvcTuQToqXFtROPF11W), [Timor YSF](https://open.spotify.com/artist/5iyA3j1yVqGBgaKCeiUIzO) | [Trapstar](https://open.spotify.com/album/0xw87VQKsLJatyGV176jIE) | 3:28 | 2022-07-16 | 2022-08-02 |

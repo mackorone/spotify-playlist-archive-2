@@ -2,9 +2,9 @@
 
 ### [Mood Ring ](https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3)
 
-> Your guide to R&B in Canada, with Zenesoul from Brampton, ON.
+> Your guide to R&B in Canada, with Osé from Brampton, ON.
 
-1,618 songs - 3 day 12 hr 7 min
+1,620 songs - 3 day 12 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,6 +196,7 @@
 | [BODY CAN'T LIE](https://open.spotify.com/track/5VUU5lyaTnxLbJqSZ4BKiS) | [Joéllen](https://open.spotify.com/artist/2y7cvgbbpRXy36T223ujdf) | [BODY CAN'T LIE](https://open.spotify.com/album/68BwvNBTHqF495u9xfBJkG) | 2:36 | 2023-11-10 | 2024-02-03 |
 | [Body Language](https://open.spotify.com/track/50jNARBU3p0YcvDx2LSM7L) | [143](https://open.spotify.com/artist/15MRvQvlbwPUY8C1QcgJA2) | [Body Language](https://open.spotify.com/album/6Yr15Zq2mQXJZxMXZsyDIS) | 2:34 | 2023-10-06 | 2023-12-16 |
 | [Bordeaux](https://open.spotify.com/track/7F80jeq0Nn8QeyNufWeV3D) | [SERAPHINE NOIR](https://open.spotify.com/artist/2KD9QZ3u2oLgdRKsKVSW4I), [Nona Shipov](https://open.spotify.com/artist/5TSx7SKUufxZFqkM0doMCG) | [Bordeaux](https://open.spotify.com/album/10TXpC7OxsHnu8TtfOCU4Z) | 5:06 | 2023-12-01 | 2024-02-03 |
+| [Bother Me \(feat\. Victony\)](https://open.spotify.com/track/2JpcOAR1EGQSxFOVnYCMl0) | [Osé](https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Bother Me \(feat\. Victony\)](https://open.spotify.com/album/7svkXljH25hpPavMawyyb2) | 3:00 | 2026-04-10 |  |
 | [Boys Don't Sob](https://open.spotify.com/track/2fkAbl3FCAj9BKc4Z5GIdr) | [The Free Label](https://open.spotify.com/artist/4YOL2g6AwphwsB1dOZZSOr) | [Boys Don't Sob](https://open.spotify.com/album/3ZFmah5FBGNwfXZx5y7N4J) | 2:56 | 2022-07-15 | 2022-08-13 |
 | [BPM](https://open.spotify.com/track/6MylOVUwvc62SMlvJEJ6CX) | [MADRiiNA](https://open.spotify.com/artist/71hlGt1GyQq0HOXC12ZGQ7), [Obia le Chef](https://open.spotify.com/artist/2gHIHPqWAWEDnmT2qSTEK3) | [BPM](https://open.spotify.com/album/1Zu2yHizxzJxTHMvodRx0T) | 2:01 | 2025-09-19 | 2025-10-05 |
 | [Brand New](https://open.spotify.com/track/4XTXamS1g4g93jPxyuFJJ6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [So Far Gone](https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh) | 3:33 | 2022-03-04 | 2022-03-18 |
@@ -957,6 +958,7 @@
 | [no option](https://open.spotify.com/track/1n56q93nwumxeTkLwJDESR) | [Concepcion](https://open.spotify.com/artist/5mqw4f8V3r2PBVKCKAkqiY) | [no option](https://open.spotify.com/album/7GR7WCQI9MbaRLUP0qbnl7) | 2:21 | 2025-03-28 | 2025-06-28 |
 | [No Relation](https://open.spotify.com/track/41NARZtOutIZOTmFuNwh8Q) | [Jully Black](https://open.spotify.com/artist/781516XewTgtGAnpg6dlmd) | [No Relation](https://open.spotify.com/album/0YngRAPJdgoKdDksYeSDuW) | 3:17 | 2022-02-18 | 2022-03-12 |
 | [No Reminding](https://open.spotify.com/track/0vWY2y9Ns6JFA18ttQQdcA) | [nezsa](https://open.spotify.com/artist/5yIW4jgRpDB1ytNFHSq8XM) | [No Reminding](https://open.spotify.com/album/6FDqeyCmNqw0otcJ2r2VQp) | 2:31 | 2025-07-25 | 2025-09-14 |
+| [No Wonder](https://open.spotify.com/track/20cteJb81MYmbLMiuft2EA) | [Diamond Cafe](https://open.spotify.com/artist/5iy5vWoWLniL8EMg5pFRrh) | [No Wonder](https://open.spotify.com/album/4sLCUGAZIFKoDkNLB9CEFs) | 2:21 | 2026-04-10 |  |
 | [Nobody](https://open.spotify.com/track/0y2bHWIl5EONeBI8baM3Kx) | [RIZ](https://open.spotify.com/artist/0jqnXN5T2fcibfVJOY1G3N) | [Nobody](https://open.spotify.com/album/6ugYEDq5i6W3heSERDouv6) | 2:42 | 2025-07-25 | 2025-08-30 |
 | [Nobody Else](https://open.spotify.com/track/2ThujAO23nqTZVqtWzqPK9) | [Danyka](https://open.spotify.com/artist/5BcGTHxcGIGryQTS4DqFsu) | [Nobody Else](https://open.spotify.com/album/5Tbjjt4hfM9ofdZzTDMSuV) | 2:36 | 2023-06-02 | 2023-06-17 |
 | [NOBODY ELSE](https://open.spotify.com/track/3yABhcucUufptBWbGqVrSo) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG), [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [The Sky Is Recording Me: 100 Years Later, Vol\. 3](https://open.spotify.com/album/2ghjL5JT1VKSNcshmqjrbM) | 2:37 | 2025-10-24 |  |
@@ -1027,7 +1029,7 @@
 | [Open Channels](https://open.spotify.com/track/6Qd4Jb3zUFzQ37d2nfxFEV) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Open Channels](https://open.spotify.com/album/2Y8g7c8KYPGOg5d0Q20QRd) | 4:22 | 2022-03-04 | 2022-03-18 |
 | [Optional](https://open.spotify.com/track/0zJUNXVKn9Zu7oM7jwu6k1) | [Jhyve](https://open.spotify.com/artist/0HmsavbsOIIyKWdQOyFh2f) | [Optional](https://open.spotify.com/album/3y695MWkvgV6Sxb2gjE6PG) | 3:28 | 2022-10-21 | 2023-06-03 |
 | [Original Thoughts](https://open.spotify.com/track/1CzM4bpk0upYDKlqpOFPoA) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Original Thoughts](https://open.spotify.com/album/781XRTRlOFQWfJnAh0hPYz) | 2:47 | 2025-04-17 | 2025-10-05 |
-| [Oscar](https://open.spotify.com/track/6PKUGhmrcASIeqik8Wr6Yc) | [Dariodmusic](https://open.spotify.com/artist/3i3SZMOjdT1T7xowjjtBLU) | [Oscar](https://open.spotify.com/album/2yJoAK5hT3UfmCaSJadtxi) | 3:13 | 2026-03-20 |  |
+| [Oscar](https://open.spotify.com/track/6PKUGhmrcASIeqik8Wr6Yc) | [Dariodmusic](https://open.spotify.com/artist/3i3SZMOjdT1T7xowjjtBLU) | [Oscar](https://open.spotify.com/album/2yJoAK5hT3UfmCaSJadtxi) | 3:13 | 2026-03-20 | 2026-04-11 |
 | [Out for the Night](https://open.spotify.com/track/1XyWCPjWZIddambxdfT8yU) | [RIZ](https://open.spotify.com/artist/0jqnXN5T2fcibfVJOY1G3N) | [Out for the Night](https://open.spotify.com/album/7cy5SXMfi4DoQd1Jpv6Ebb) | 3:19 | 2023-04-07 | 2023-05-20 |
 | [Out Of Line](https://open.spotify.com/track/1s5Z07QUX1A8xin6dviPaI) | [Swavy](https://open.spotify.com/artist/6CHTgEfOTvm5flR5Cpzw0I) | [Out Of Line](https://open.spotify.com/album/7BOpkvdOKmCqi3Bt4VB3ox) | 2:46 | 2023-01-27 | 2023-06-03 |
 | [Out Of Mine](https://open.spotify.com/track/6HxbpPfwzMNU4Cewe4z6wI) | [Mighloe](https://open.spotify.com/artist/44obblyrd8EsnfeDkJpiov) | [Out Of Mine](https://open.spotify.com/album/3GpvgbLFcEXNKFAOzOQ5yS) | 3:19 | 2023-12-01 | 2024-03-09 |
@@ -1209,7 +1211,7 @@
 | [SEALED](https://open.spotify.com/track/7LZBJUhtBnubzkZe7Fmw2F) | [Gaby Harvey](https://open.spotify.com/artist/2viTeSP7GAq0XGW6q8n0nt) | [SEALED](https://open.spotify.com/album/0Dvd00aVRh1EiAXNUBcQ68) | 3:09 | 2022-02-18 | 2022-03-18 |
 | [sean leon must die](https://open.spotify.com/track/6Ec2b5AQFpMj57fgEHfjm1) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [sean leon must die](https://open.spotify.com/album/7xJ6ZYpqRgMyONwLNpxHVc) | 5:03 | 2025-03-21 | 2025-05-17 |
 | [SEASONS](https://open.spotify.com/track/10OEQdjmXQythIMxOWK3GE) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [SEASONS](https://open.spotify.com/album/18VqntcpIxlNqJerVxFHTD) | 3:31 | 2025-12-19 | 2026-03-07 |
-| [Secret Garden](https://open.spotify.com/track/5bWCaZBoS5R4fAEBQla10G) | [Witch Prophet](https://open.spotify.com/artist/5AkXlAsYDGWVZIYOhboeSM) | [Words Are Spells, Thoughts Are Magic](https://open.spotify.com/album/14kNKp8G7YGzW6z2UClYaD) | 3:18 | 2026-03-20 |  |
+| [Secret Garden](https://open.spotify.com/track/5bWCaZBoS5R4fAEBQla10G) | [Witch Prophet](https://open.spotify.com/artist/5AkXlAsYDGWVZIYOhboeSM) | [Words Are Spells, Thoughts Are Magic](https://open.spotify.com/album/14kNKp8G7YGzW6z2UClYaD) | 3:18 | 2026-03-20 | 2026-04-11 |
 | [Seep](https://open.spotify.com/track/5aYJGkWXnEiQ92hkUIQ90O) | [Basil Phoenix](https://open.spotify.com/artist/1XMew7HvkGNxubNoM1u3sV) | [Seep](https://open.spotify.com/album/6IHXPoyWj6xN9zdYsSRLN1) | 2:40 | 2024-04-26 | 2024-06-08 |
 | [Self Talk](https://open.spotify.com/track/1QgRR1orkGMixuhjS1XV8D) | [LOKRE](https://open.spotify.com/artist/5GZK6iJt7jRO73C3zH5sho) | [ELIZABETH](https://open.spotify.com/album/4tzeckAWaM1QnimGXDD796) | 3:42 | 2022-09-16 | 2023-07-22 |
 | [Selfie](https://open.spotify.com/track/1eFptQumbRt3F1mRjsRgwH) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Selfie](https://open.spotify.com/album/4S7MbbcAuQRFBqIKhFNbeK) | 2:44 | 2024-08-02 | 2024-10-26 |

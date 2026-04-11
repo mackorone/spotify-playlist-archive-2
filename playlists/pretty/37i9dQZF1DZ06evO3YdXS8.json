@@ -1,12 +1,12 @@
 {
   "description": "This is Selena. The essential tracks, all in one playlist.",
-  "num_followers": 642779,
+  "num_followers": 642800,
   "original_name": "This Is Selena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adWagAAAAABGdXxLY+IrLyn3ymy6GZX6",
+  "snapshot_id": "adbsAAAAAAB4L73soajI9+zQkbS6ocO9",
   "tracks": [
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Primeros \u00c9xitos",
-        "url": "https://open.spotify.com/album/1j1baA236Z6dGkrXKAIAYU"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 217133,
-      "name": "Siempre",
-      "url": "https://open.spotify.com/track/4OGmMSjKfVIEEwp7oHCUxp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Selena LIVE (Remastered 2026)",
         "url": "https://open.spotify.com/album/05yu3lskS9ViU0Lbq3PN4p"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 190621,
       "name": "La Llamada - Remastered 2026",
       "url": "https://open.spotify.com/track/3OHyYRTocI6tTTB0RgIxj6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis Primeros \u00c9xitos",
+        "url": "https://open.spotify.com/album/1j1baA236Z6dGkrXKAIAYU"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 217133,
+      "name": "Siempre",
+      "url": "https://open.spotify.com/track/4OGmMSjKfVIEEwp7oHCUxp"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Primeros \u00c9xitos",
-        "url": "https://open.spotify.com/album/1j1baA236Z6dGkrXKAIAYU"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 191133,
-      "name": "Cien A\u00f1os",
-      "url": "https://open.spotify.com/track/2PAo9vxNI34cHnYqYBDPFa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/78GeZ5IA1KSbI0MiR4bAhH"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 253733,
       "name": "Bidi Bidi Bom Bom",
       "url": "https://open.spotify.com/track/7brHejB8gAkS3nUNyvllWp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis Primeros \u00c9xitos",
+        "url": "https://open.spotify.com/album/1j1baA236Z6dGkrXKAIAYU"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 191133,
+      "name": "Cien A\u00f1os",
+      "url": "https://open.spotify.com/track/2PAo9vxNI34cHnYqYBDPFa"
     },
     {
       "added_at": null,
@@ -791,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Primeros \u00c9xitos",
-        "url": "https://open.spotify.com/album/1j1baA236Z6dGkrXKAIAYU"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 217826,
-      "name": "Dulce Amor",
-      "url": "https://open.spotify.com/track/20GXVF6YKr4AUP3B0m3g8v"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dreaming Of You",
         "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 263933,
       "name": "Captive Heart",
       "url": "https://open.spotify.com/track/7btQwPwo5ML6RRtrELNWio"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis Primeros \u00c9xitos",
+        "url": "https://open.spotify.com/album/1j1baA236Z6dGkrXKAIAYU"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 217826,
+      "name": "Dulce Amor",
+      "url": "https://open.spotify.com/track/20GXVF6YKr4AUP3B0m3g8v"
     }
   ],
   "unique_name": "This Is Selena",

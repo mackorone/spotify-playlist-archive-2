@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YGbV4eeC1J.md) - [plain]
 
 > What is your love language? Say it in Swahili\.  Cover: Tuku Kantu
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,359 likes - 58 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,375 likes - 58 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YGbV4eeC1J.md) - [plain]
 | 9 | [Tamu Chungu](https://open.spotify.com/track/5qBPJlncdq7swIjYcaBm2G) | [Vanillah](https://open.spotify.com/artist/2KFj5D3aDGmnAyHrvLegtI), [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Tamu Chungu](https://open.spotify.com/album/5hXDmk0ecC2SOXi1PFRh0e) | 3:37 |
 | 10 | [Katam \(feat\. Bien\)](https://open.spotify.com/track/4MGtTXaggDrYal3andtYxP) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Katam \(feat\. Bien\)](https://open.spotify.com/album/2yRuZcR1TDAY2oFyLs6vHf) | 4:05 |
 | 11 | [NERVOUS](https://open.spotify.com/track/6Ct7wMxdVRNPozCqMfpdGl) | [Bee Thee Artiste](https://open.spotify.com/artist/07k23Z4w3q5oq7Qq73s1HU), [Ywaya Tajiri](https://open.spotify.com/artist/6wf9RfrBquBd6Galoe5oQE), [AUGUST IV](https://open.spotify.com/artist/0rSI47DldAq15E6L5pUH6T) | [NERVOUS](https://open.spotify.com/album/4N5rJQrNlZm5eqJazYiyjZ) | 2:50 |
-| 12 | [Track 2](https://open.spotify.com/track/2DeJgXfd917CXIVpU988HJ) | [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe) | [PM](https://open.spotify.com/album/5jPZv395c02JpG6P2CfDBd) | 0:00 |
+| 12 | [Nitafanyaje](https://open.spotify.com/track/2DeJgXfd917CXIVpU988HJ) | [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe) | [PM](https://open.spotify.com/album/5jPZv395c02JpG6P2CfDBd) | 3:26 |
 | 13 | [Wange](https://open.spotify.com/track/6xAiy56e2VZxSsWT7EKx2A) | [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9) | [Wange](https://open.spotify.com/album/35FjBLon7dtFYhsWJXtR8t) | 2:49 |
 | 14 | [Naogelea](https://open.spotify.com/track/0yr8s0uDixBYcKjAVdvQZF) | [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn) | [Hekaya](https://open.spotify.com/album/2kTsEaD1ueaIy6diuV7qKP) | 3:14 |
 | 15 | [Wow](https://open.spotify.com/track/1a50fC98TLpeermDrb5dws) | [Appy](https://open.spotify.com/artist/22CP7pIdG3mGt7AL1Dm4gv) | [This is Appy](https://open.spotify.com/album/43i28oP35562ecl4k6KOzs) | 3:32 |

@@ -1,13 +1,61 @@
 {
-  "description": "a little indie, a little pop, soda featuring Presley Regier",
-  "num_followers": 229391,
+  "description": "a little indie, a little pop, soda featuring Dolder",
+  "num_followers": 229395,
   "original_name": "soda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMPTlmy+dkqQ6hIbjbeq3d5Mwng1",
+  "snapshot_id": "AAAAALexuv8RApHmY4SvzDEE7ewRZrDj",
   "tracks": [
+    {
+      "added_at": "2026-04-10 04:46:07",
+      "album": {
+        "name": "Bone Structure",
+        "url": "https://open.spotify.com/album/5Nqd6iPF3I8dFnVw66cFNV"
+      },
+      "artists": [
+        {
+          "name": "Dolder",
+          "url": "https://open.spotify.com/artist/2zzssv1I5AKOEPI98SZvQb"
+        }
+      ],
+      "duration_ms": 181880,
+      "name": "Bone Structure",
+      "url": "https://open.spotify.com/track/42jkxiYg7D05HKmQNsRp8o"
+    },
+    {
+      "added_at": "2026-04-10 04:46:07",
+      "album": {
+        "name": "Bad To Worse",
+        "url": "https://open.spotify.com/album/6gdwsqzqDAlDszwx2lRnlj"
+      },
+      "artists": [
+        {
+          "name": "Tanner Grigoli",
+          "url": "https://open.spotify.com/artist/1kq96hgs2sFG1Pp7595rPd"
+        }
+      ],
+      "duration_ms": 157684,
+      "name": "Bad To Worse",
+      "url": "https://open.spotify.com/track/4jLRHYDOrPnHMIFGLkV4OY"
+    },
+    {
+      "added_at": "2026-04-10 04:46:07",
+      "album": {
+        "name": "East End Girls",
+        "url": "https://open.spotify.com/album/6sYmd0zjCOp4UFsQqCxjEz"
+      },
+      "artists": [
+        {
+          "name": "PASH",
+          "url": "https://open.spotify.com/artist/3jEgbW70PXxv993symSK35"
+        }
+      ],
+      "duration_ms": 193333,
+      "name": "East End Girls",
+      "url": "https://open.spotify.com/track/34oA9agkYSp4RgzoHYODbc"
+    },
     {
       "added_at": "2026-04-03 04:03:26",
       "album": {
@@ -735,54 +783,6 @@
       "duration_ms": 144101,
       "name": "White Keys",
       "url": "https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI"
-    },
-    {
-      "added_at": "2026-01-16 16:23:10",
-      "album": {
-        "name": "Cinematic",
-        "url": "https://open.spotify.com/album/2H5dfaWvWaCfvEI2zq9XZq"
-      },
-      "artists": [
-        {
-          "name": "Foley",
-          "url": "https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE"
-        }
-      ],
-      "duration_ms": 214584,
-      "name": "Cinematic",
-      "url": "https://open.spotify.com/track/5LPa2CicoiwWBIt0cKDjUW"
-    },
-    {
-      "added_at": "2026-01-16 16:23:10",
-      "album": {
-        "name": "Hi My Love",
-        "url": "https://open.spotify.com/album/5IUwyON6SEB85IblIjowCP"
-      },
-      "artists": [
-        {
-          "name": "Sofia and the Antoinettes",
-          "url": "https://open.spotify.com/artist/2Wmot0sq6wOOjvcYD4NRD7"
-        }
-      ],
-      "duration_ms": 176486,
-      "name": "Hi My Love",
-      "url": "https://open.spotify.com/track/5ZHRKtrosRwOzUHv7WmyGK"
-    },
-    {
-      "added_at": "2026-02-06 10:00:13",
-      "album": {
-        "name": "ohmygod!",
-        "url": "https://open.spotify.com/album/6ffP9JDhw7iYPdnTJwK3Km"
-      },
-      "artists": [
-        {
-          "name": "archie",
-          "url": "https://open.spotify.com/artist/2EqbS3LYLBLS6scWZAHCrE"
-        }
-      ],
-      "duration_ms": 167624,
-      "name": "ohmygod!",
-      "url": "https://open.spotify.com/track/2pxw43ycOory6Ghyo2WOSa"
     },
     {
       "added_at": "2025-08-22 14:59:17",

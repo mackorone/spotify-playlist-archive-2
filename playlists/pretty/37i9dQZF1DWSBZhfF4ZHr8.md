@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 
 > Les meilleures nouveautés de la variété française avec Mentissa
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,351 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,388 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Les enfants difficiles](https://open.spotify.com/track/4NBKnMRRoR84w1rVUzLG1u) | [Mentissa](https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS) | [Les enfants difficiles](https://open.spotify.com/album/1JEO9RDMrBnYigJNYT3LIU) | 2:54 |
 | 2 | [Au\-dessus des vagues](https://open.spotify.com/track/5X2AiGjrRx5Sv4NglUWJN8) | [Alien](https://open.spotify.com/artist/5Y80Kn16d4undgMzx4SaYS) | [Au\-dessus des vagues](https://open.spotify.com/album/4CNYmZLtzyd73T3qPv8BE2) | 2:34 |
-| 3 | [Track 3](https://open.spotify.com/track/74vHwfc0huNsTubsZMqtj4) | [LUIZA](https://open.spotify.com/artist/3K5sYlHk7RZimjYhUWej8D) | [Luiza](https://open.spotify.com/album/5nEO73oNBTQBDq3qdYpnov) | 0:00 |
+| 3 | [La vida loca](https://open.spotify.com/track/74vHwfc0huNsTubsZMqtj4) | [LUIZA](https://open.spotify.com/artist/3K5sYlHk7RZimjYhUWej8D) | [Luiza](https://open.spotify.com/album/5nEO73oNBTQBDq3qdYpnov) | 3:06 |
 | 4 | [T'es où ?](https://open.spotify.com/track/5SoDlb86jAzb4rQ5kSmlQj) | [Robin](https://open.spotify.com/artist/4rBM6zAvArcI0zse5kUVJD) | [T'es où ?](https://open.spotify.com/album/0exWORbwX2Zgt761HDThAC) | 2:51 |
 | 5 | [Superstar](https://open.spotify.com/track/29ngwhaBqObFJoPjDhplN2) | [47ter](https://open.spotify.com/artist/0aXaZj4wB5jLF2E2d8WEVi) | [Superstar](https://open.spotify.com/album/71UYVPUJxCfkisIL9FLrS3) | 2:37 |
 | 6 | [Love Noir](https://open.spotify.com/track/3QSfWyXeGEpEoMpufPPtot) | [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr), [Stéphane](https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif) | [Love Noir](https://open.spotify.com/album/4q3khzl3yEiqMcry65Q4ZW) | 2:51 |

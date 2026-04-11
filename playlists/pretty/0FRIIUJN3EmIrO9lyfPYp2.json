@@ -6,8 +6,108 @@
     "name": "dreamscape",
     "url": "https://open.spotify.com/user/9rn7brfa1vc5yomz3r115w8kf"
   },
-  "snapshot_id": "AAACdjMVNrWS7SYkwrqixW1BMRlIlPj+",
+  "snapshot_id": "AAACd9pMylzsFxnoP6u36E8TJTUhGMPL",
   "tracks": [
+    {
+      "added_at": "2026-04-10 17:36:41",
+      "album": {
+        "name": "space",
+        "url": "https://open.spotify.com/album/4tgSlSMTD4fRj6pG6j6eAF"
+      },
+      "artists": [
+        {
+          "name": "thenian",
+          "url": "https://open.spotify.com/artist/3ydcLRbuZuZx3rKKemnwhJ"
+        }
+      ],
+      "duration_ms": 215327,
+      "name": "space",
+      "url": "https://open.spotify.com/track/6v0a9sdPelw6lGgI3zemHw"
+    },
+    {
+      "added_at": "2026-04-10 17:36:41",
+      "album": {
+        "name": "fade into light",
+        "url": "https://open.spotify.com/album/3Du1wXc6ROKOj2Nkr9kRnG"
+      },
+      "artists": [
+        {
+          "name": "\u00e9nouement",
+          "url": "https://open.spotify.com/artist/4Si65uDCzmOuXSLocLHiaU"
+        }
+      ],
+      "duration_ms": 130285,
+      "name": "fade into light",
+      "url": "https://open.spotify.com/track/3KyWZt5V5FIrkIFIzxHU8q"
+    },
+    {
+      "added_at": "2026-04-10 17:36:41",
+      "album": {
+        "name": "i don't exist anymore",
+        "url": "https://open.spotify.com/album/5vPz4XYeYS04yitY8TS2Ax"
+      },
+      "artists": [
+        {
+          "name": "Unnholy",
+          "url": "https://open.spotify.com/artist/5um0tGaoeKhLVjLjPFG0UX"
+        },
+        {
+          "name": "n\u0153m.",
+          "url": "https://open.spotify.com/artist/04nJ7yf5t9iE3QMW5APTwE"
+        }
+      ],
+      "duration_ms": 104571,
+      "name": "i don't exist anymore",
+      "url": "https://open.spotify.com/track/3bZ3IgrCYlMa4gZLbveM4q"
+    },
+    {
+      "added_at": "2026-04-10 17:36:41",
+      "album": {
+        "name": "dream loop",
+        "url": "https://open.spotify.com/album/4AuXNtrLH4J2i6M0Q2yqb0"
+      },
+      "artists": [
+        {
+          "name": "hir\u00e6th",
+          "url": "https://open.spotify.com/artist/3eeveX1dMtylueBGenVFDf"
+        }
+      ],
+      "duration_ms": 163001,
+      "name": "dream loop",
+      "url": "https://open.spotify.com/track/0Pb7sCwf1vdv6w33SOyizs"
+    },
+    {
+      "added_at": "2026-04-10 17:36:41",
+      "album": {
+        "name": "hollow hush",
+        "url": "https://open.spotify.com/album/6rMzH68fWLLeYju4kSf0wg"
+      },
+      "artists": [
+        {
+          "name": "METAHESH",
+          "url": "https://open.spotify.com/artist/0GOeXrdg9HYdG0etf07eyP"
+        }
+      ],
+      "duration_ms": 117567,
+      "name": "hollow hush",
+      "url": "https://open.spotify.com/track/2XWjZOHO9cesujDyGniDMh"
+    },
+    {
+      "added_at": "2026-04-10 17:36:41",
+      "album": {
+        "name": "addicted",
+        "url": "https://open.spotify.com/album/7jGpaKTQvBtJtY8ls5CMe3"
+      },
+      "artists": [
+        {
+          "name": "METAHESH",
+          "url": "https://open.spotify.com/artist/0GOeXrdg9HYdG0etf07eyP"
+        }
+      ],
+      "duration_ms": 121411,
+      "name": "addicted",
+      "url": "https://open.spotify.com/track/2gw28v2T4ORIpa4gXh2WrW"
+    },
     {
       "added_at": "2026-04-04 20:34:27",
       "album": {

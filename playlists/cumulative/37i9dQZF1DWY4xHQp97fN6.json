@@ -553,6 +553,24 @@
     },
     {
       "album": {
+        "name": "5,6,7, Ate",
+        "url": "https://open.spotify.com/album/1ACAxYAYPSYJuQaErBfNnr"
+      },
+      "artists": [
+        {
+          "name": "jhonniedamnd",
+          "url": "https://open.spotify.com/artist/7qWZ7Mw71hkXKztqoEy727"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167870,
+      "name": "5,6,7, Ate",
+      "url": "https://open.spotify.com/track/0O1qPe4a9Z9wUHX6LRbY3b"
+    },
+    {
+      "album": {
         "name": "500lbs",
         "url": "https://open.spotify.com/album/2Ro9gydgq5JWy7b22zPty9"
       },
@@ -1100,7 +1118,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 229152,
       "name": "ALL THE LOVE (feat. Andre Troutman)",
       "url": "https://open.spotify.com/track/2SjnvpedDUU0Ga69bxnoCa"
@@ -4548,6 +4566,28 @@
       "duration_ms": 161666,
       "name": "Chicken Grease",
       "url": "https://open.spotify.com/track/5BsGbw1doMaFghuOMkkiJB"
+    },
+    {
+      "album": {
+        "name": "Chicken Talkin Bastard",
+        "url": "https://open.spotify.com/album/7cChUPYfmnblkqIyV8oP4R"
+      },
+      "artists": [
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        },
+        {
+          "name": "YKNIECE",
+          "url": "https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169466,
+      "name": "Chicken Talkin Bastard",
+      "url": "https://open.spotify.com/track/5SK7SRwN7AGI6qf1bc9qP4"
     },
     {
       "album": {
@@ -10288,7 +10328,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 114000,
       "name": "How I'm Livin",
       "url": "https://open.spotify.com/track/4k6sLrwnabcM6AiUza1qKb"
@@ -13620,7 +13660,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 84087,
       "name": "Movie on Movie",
       "url": "https://open.spotify.com/track/3u7cN6ZQOk34n1GozgxMlR"
@@ -15886,7 +15926,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 178359,
       "name": "PJ (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/4xbfYPpKIKtGU4iEK3WW2C"
@@ -18459,6 +18499,28 @@
     },
     {
       "album": {
+        "name": "She Can Get It",
+        "url": "https://open.spotify.com/album/7GTxoPRpAfnYQxoyQitXYH"
+      },
+      "artists": [
+        {
+          "name": "H3adband",
+          "url": "https://open.spotify.com/artist/3TvL95zdOZWkMbkvfJ8cCk"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120068,
+      "name": "She Can Get It",
+      "url": "https://open.spotify.com/track/5Byabek1XXCjPksWFtTZMm"
+    },
+    {
+      "album": {
         "name": "Read This When You Wake Up",
         "url": "https://open.spotify.com/album/12jOMUVgZAPZefVHeivVrL"
       },
@@ -20636,7 +20698,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 240000,
       "name": "TEACH YOU HOW TO LUH ME",
       "url": "https://open.spotify.com/track/6AwyXLzD18HptZPpbhrssp"
@@ -24124,7 +24186,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 123000,
       "name": "Y FI DAT",
       "url": "https://open.spotify.com/track/7KctiosmWbWSGt9xUU3ObU"

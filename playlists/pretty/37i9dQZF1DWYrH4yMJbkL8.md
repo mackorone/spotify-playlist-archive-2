@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 
 > These are some of Tanya Tagaq's favourite songs by Indigenous artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,878 likes - 22 songs - 1 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,881 likes - 22 songs - 1 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 | 21 | [Gone Baby Gone](https://open.spotify.com/track/3oKBUb6PiBsOvHl3zBKfDo) | [Aysanabee](https://open.spotify.com/artist/1jbEBKJhX4rRmHD6xW6ve5) | [Edge Of The Earth](https://open.spotify.com/album/3dzRpXVj0YAmnCkeJ6Lt6M) | 3:19 |
 | 22 | [Sila](https://open.spotify.com/track/2Xsd6YL0DyLvlTyxXdpeAi) | [The Halluci Nation](https://open.spotify.com/artist/2jlWF9ltd8UtoaqW0PxY4z), [Tanya Tagaq](https://open.spotify.com/artist/2WIb75pwIt78VCAhAtPObY) | [We Are the Halluci Nation](https://open.spotify.com/album/2iQBWB6FgiNl1mrzNX7ei4) | 3:08 |
 
-Snapshot ID: `AAAAAEV5InopRDEfHz7/RVM8y4RLbuqH`
+Snapshot ID: `AAAAAPe0ohJdLCOn5l3uyhgcCTtAL9vo`

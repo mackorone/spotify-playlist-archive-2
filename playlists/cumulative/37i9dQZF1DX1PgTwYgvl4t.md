@@ -4,7 +4,7 @@
 
 > Strictly Nigerian worship songs\. Cover: <a href=https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x?si=EJUgcVxJSkS3O9JphShRhg>Judikay</a>
 
-375 songs - 1 day 22 hr 31 min
+376 songs - 1 day 22 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,6 +234,7 @@
 | [Mofaramo](https://open.spotify.com/track/5c7vnReasBzgUKKsp44mKZ) | [Labisi](https://open.spotify.com/artist/4AJSklNIYg4jQr5EaDvUR8) | [Mofaramo](https://open.spotify.com/album/3bETF6am5mHOCAMEOYBqNl) | 3:38 | 2025-01-03 | 2025-05-09 |
 | [More Than Enough](https://open.spotify.com/track/3jeP2N4ZncGyBWNsfWpXj3) | [Yinka Okeleye](https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9) | [More Than Enough](https://open.spotify.com/album/4ILIZGOexhKYEfdSaO5Q3z) | 5:00 | 2025-10-24 | 2025-12-19 |
 | [Most High](https://open.spotify.com/track/7m5VI4wtclDWfskjXou2Mh) | [Daniel Ojo](https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r), [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT) | [Most High](https://open.spotify.com/album/3fXrS9CHWxp2tsPCYNaqRn) | 6:15 | 2026-03-06 |  |
+| [Most High God \- Live](https://open.spotify.com/track/3qkicluLq6dTSaIqb8jkrD) | [Raj Bassey](https://open.spotify.com/artist/5wcDczeAUQOZX7UI2oQdf4), [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4), [The Bethels](https://open.spotify.com/artist/31rHOjUlSsmFDVQuUfEEo9) | [Most High God \(Live\)](https://open.spotify.com/album/3rgMcFv6xeNkm1snY39kl1) | 12:00 | 2026-04-10 |  |
 | [My Confidence](https://open.spotify.com/track/7rTWMg1rSSfDpl1pLIsJPa) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [My Confidence](https://open.spotify.com/album/6DY6vwkrPHbayouqFD30pj) | 5:38 | 2024-11-15 | 2025-02-14 |
 | [My Daddy, My Daddy \- Live at AiiiH \- As It Is In Heaven](https://open.spotify.com/track/0bqV6cwBAloZuaPTFww9F4) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [My Daddy, My Daddy \(Live at AiiiH \- As It Is In Heaven\)](https://open.spotify.com/album/1a3RbXj5cz5vDXsJNd7MqQ) | 13:32 | 2024-05-09 |  |
 | [My Devotion](https://open.spotify.com/track/76gmREYRRm5UiusIQxAMNd) | [Nene Olajide](https://open.spotify.com/artist/7cHiOiU3cpE8yU89jgN37F) | [My Devotion](https://open.spotify.com/album/5zKAS4DUe8B1LGBN7luf8e) | 3:34 | 2025-11-07 | 2026-02-27 |

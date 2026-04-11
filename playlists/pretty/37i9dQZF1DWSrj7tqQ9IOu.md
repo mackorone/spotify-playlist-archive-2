@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > Les meilleurs sons du mois sélectionnés par les éditos de Spotify.
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,466 likes - 39 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,480 likes - 39 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 23 | [internet](https://open.spotify.com/track/7aC0og0wGBisY87cUpEdXG) | [Mitty](https://open.spotify.com/artist/6Wo4zyufcc4V8ZM1TCxDxW) | [internet](https://open.spotify.com/album/4I7qdgWeMuzB2ME7LnZcsN) | 2:42 |
 | 24 | [Fast Money](https://open.spotify.com/track/4HfiqUIw23qtbd9Wv58o0q) | [PITCHBLACK](https://open.spotify.com/artist/0BHh71bPCPBbZDDCb3jaHW) | [Fast Money](https://open.spotify.com/album/20mnxDAUfgNVr3KkxrwEaN) | 2:22 |
 | 25 | [Postinternetfame](https://open.spotify.com/track/1EiHTft00amQg7z5TX2lLh) | [Quiet Light](https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9) | [Postinternetfame / Self Tape](https://open.spotify.com/album/34pUJjYymPU7jioThphtiR) | 2:21 |
-| 26 | [Things](https://open.spotify.com/track/5ntTeuCMmKeTzjLk5f4hK3) | [Farveblind](https://open.spotify.com/artist/5AlPqg8caYE9Dc7r9pCN3g), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Things](https://open.spotify.com/album/7kxSE9zfvdC0vs9kwF3Z8W) | 2:39 |
-| 27 | [Tout Va Bien](https://open.spotify.com/track/5KZj2gtIVHWq8TA1lSCb8p) | [TeddyBear](https://open.spotify.com/artist/2wMA0cyQGggqKOjMfUNenu) | [Tout Va Bien](https://open.spotify.com/album/5TKj49a8DSMuxNTHVoxgL9) | 3:11 |
+| 26 | [Tout Va Bien](https://open.spotify.com/track/5KZj2gtIVHWq8TA1lSCb8p) | [TeddyBear](https://open.spotify.com/artist/2wMA0cyQGggqKOjMfUNenu) | [Tout Va Bien](https://open.spotify.com/album/5TKj49a8DSMuxNTHVoxgL9) | 3:11 |
+| 27 | [Things](https://open.spotify.com/track/5ntTeuCMmKeTzjLk5f4hK3) | [Farveblind](https://open.spotify.com/artist/5AlPqg8caYE9Dc7r9pCN3g), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Things](https://open.spotify.com/album/7kxSE9zfvdC0vs9kwF3Z8W) | 2:39 |
 | 28 | [Script \(feat\. 2L\)](https://open.spotify.com/track/6pSjIMSllXgPs9EDP6lHAD) | [Costa](https://open.spotify.com/artist/4wMo1eZWwlJeWoBtIqZYXX), [2L](https://open.spotify.com/artist/2N6RfSP8wXKS6cTraTbqKj) | [Script \(feat\. 2L\)](https://open.spotify.com/album/5rcERDsf8w982QDz219hmC) | 3:16 |
 | 29 | [verden](https://open.spotify.com/track/4Ak1ze9cxOduO9BsbJkI5O) | [Kilu](https://open.spotify.com/artist/795iruo8TSJsZPVAps6Iow) | [PRINT](https://open.spotify.com/album/1sZ1EplSM9SsQJZzg1QZVM) | 3:23 |
 | 30 | [PROMESSES](https://open.spotify.com/track/30THfyXiixGNGYVd5CJy1D) | [Surprise](https://open.spotify.com/artist/0qvSqrreqXO98OunCDZN9r) | [PROMESSES](https://open.spotify.com/album/5UoPqXxD9jTr9HQBYm0mdA) | 2:55 |

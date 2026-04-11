@@ -21179,6 +21179,24 @@
     },
     {
       "album": {
+        "name": "Hardcore",
+        "url": "https://open.spotify.com/album/32XC1Rvc87JaR5YqCNNj9U"
+      },
+      "artists": [
+        {
+          "name": "SAL\u00d2",
+          "url": "https://open.spotify.com/artist/49uauFOxmzTD83IUpZPdLz"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Ich streichle Tauben",
+      "url": "https://open.spotify.com/track/4OrbLteaAmATTXbDyNnP8Z"
+    },
+    {
+      "album": {
         "name": "Ich trag so viele Bilder",
         "url": "https://open.spotify.com/album/5rDBVs9CA7IlO2pCzFwESy"
       },
@@ -31398,6 +31416,24 @@
       "duration_ms": 161305,
       "name": "One Hand Free",
       "url": "https://open.spotify.com/track/5NpvCEftUoUx47H6NwT549"
+    },
+    {
+      "album": {
+        "name": "Somebody Who Loves",
+        "url": "https://open.spotify.com/album/66KDMCKygtWX9Rk7M7p91N"
+      },
+      "artists": [
+        {
+          "name": "Philippa Kinsky",
+          "url": "https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170146,
+      "name": "ONE HEART",
+      "url": "https://open.spotify.com/track/7ueB0Csn8Q9mKJKuswkwAT"
     },
     {
       "album": {
@@ -45008,42 +45044,6 @@
       "duration_ms": 195306,
       "name": "Townies",
       "url": "https://open.spotify.com/track/2deA4WXDrTa7jAZuaIAeqo"
-    },
-    {
-      "album": {
-        "name": "Somebody Who Loves",
-        "url": "https://open.spotify.com/album/66KDMCKygtWX9Rk7M7p91N"
-      },
-      "artists": [
-        {
-          "name": "Philippa Kinsky",
-          "url": "https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0"
-        }
-      ],
-      "date_added": "2026-04-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/7ueB0Csn8Q9mKJKuswkwAT"
-    },
-    {
-      "album": {
-        "name": "Hardcore",
-        "url": "https://open.spotify.com/album/32XC1Rvc87JaR5YqCNNj9U"
-      },
-      "artists": [
-        {
-          "name": "SAL\u00d2",
-          "url": "https://open.spotify.com/artist/49uauFOxmzTD83IUpZPdLz"
-        }
-      ],
-      "date_added": "2026-04-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/4OrbLteaAmATTXbDyNnP8Z"
     },
     {
       "album": {

@@ -1717,6 +1717,32 @@
     },
     {
       "album": {
+        "name": "Brown Representation",
+        "url": "https://open.spotify.com/album/0aCZj2UaFYDWRfRHQzs7fZ"
+      },
+      "artists": [
+        {
+          "name": "Reverie",
+          "url": "https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4"
+        },
+        {
+          "name": "Louden",
+          "url": "https://open.spotify.com/artist/0fLUemlaYm4AL4TvWlYQB5"
+        },
+        {
+          "name": "Coyote",
+          "url": "https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166038,
+      "name": "Brown Representation",
+      "url": "https://open.spotify.com/track/7tezQRzqZmQU4LaATfKgEk"
+    },
+    {
+      "album": {
         "name": "The Last Temptation",
         "url": "https://open.spotify.com/album/5TKNjpazO9toaj3G8Gg7I0"
       },

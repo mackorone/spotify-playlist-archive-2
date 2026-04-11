@@ -4,7 +4,7 @@
 
 > 
 
-1,422 songs - 3 day 3 hr 25 min
+1,423 songs - 3 day 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1287,6 +1287,7 @@
 | [Too Young to Die](https://open.spotify.com/track/3toXFhdNpH0Cs5vQkTrHQ3) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Emergency on Planet Earth \(Remastered\)](https://open.spotify.com/album/0SeTonJJPjy57LqiCDmeEM) | 6:05 | 2023-10-31 | 2024-03-05 |
 | [Took That Mask Off](https://open.spotify.com/track/1SeB1axwoRD0RHbWB7W8ZQ) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Took That Mask Off](https://open.spotify.com/album/3R0hQHd7YrGeLGSqsDd11p) | 2:18 | 2022-12-30 | 2024-03-05 |
 | [Tootheache & Gaslighting!](https://open.spotify.com/track/3x0ObDVWg0iQiZ19v9aaXX) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [Golden Child, Chapter 3](https://open.spotify.com/album/09DoaRc2Dcmll2EhYWcWdy) | 2:47 | 2023-04-03 | 2023-05-09 |
+| [Top Back](https://open.spotify.com/track/4LE8fR53Pjd6xmHBUlxArg) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [King](https://open.spotify.com/album/2X7s6Gt8Xz2qEwlw4GVcQo) | 4:42 | 2026-04-11 |  |
 | [Top in the Trash \(feat\. Chief Keef\)](https://open.spotify.com/track/3zr5WjafiY88tAJCT8RIvG) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Trap House 4](https://open.spotify.com/album/11OqutaYyMiZ7rBRPH2ha4) | 3:50 | 2025-04-16 | 2026-02-08 |
 | [Top Off](https://open.spotify.com/track/0HCnj7pfrvshnocOJUFeit) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Drip Season 3 \(Deluxe\)](https://open.spotify.com/album/5xtAAHr59ozJ2PQ67utEmi) | 3:17 | 2022-04-09 | 2026-02-08 |
 | [TOPIA TWINS \(feat\. Rob49 & 21 Savage\)](https://open.spotify.com/track/0lodMO0qK83vfPiiD7FMEt) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:43 | 2023-08-07 | 2024-03-05 |

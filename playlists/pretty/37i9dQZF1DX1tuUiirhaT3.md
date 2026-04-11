@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tuUiirhaT3.md) - [plain]
 
 > Calm ambient music with gentle nature sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 995,450 likes - 200 songs - 9 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 995,491 likes - 200 songs - 9 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -178,7 +178,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tuUiirhaT3.md) - [plain]
 | 168 | [Evolution](https://open.spotify.com/track/3T4OHmowOZnJnBgXqg8YPQ) | [Harmonic Pathways](https://open.spotify.com/artist/50w3lD1tVFon2IBD8jRBOO), [Nature on Record](https://open.spotify.com/artist/4XC4r2EEPyi9Ox0ZinPaIV) | [Emergence](https://open.spotify.com/album/5npmxbN4pCm1CHhjxHmFuf) | 3:04 |
 | 169 | [Deep Forest](https://open.spotify.com/track/2j0KKxNhlqy8Z3A0gj76cV) | [Sacred Dreams](https://open.spotify.com/artist/1fe7qfllL2e55Iyv4Ur5tc) | [Deep Forest](https://open.spotify.com/album/4Ek8PX0GKxTwGEDLbUdpd2) | 2:35 |
 | 170 | [Luminary Creek](https://open.spotify.com/track/3aECxXZzEPZGDZXjNeVX2n) | [Zephyrical](https://open.spotify.com/artist/35kdbaWQLDJudwBytHuiyW) | [Luminary Creek](https://open.spotify.com/album/6MXhFPCsKGlecRns53i0TP) | 2:25 |
-| 171 | [Frequenza Del Cuore 528 Hz \(nature Version\)](https://open.spotify.com/track/04ltEgSfEzF11vXr9OrymS) | [Seconda Fotura](https://open.spotify.com/artist/3dLzY2XAMjuE1soisVnzf7) | [Frequenza Del Cuore 528 Hz \(nature Version\)](https://open.spotify.com/album/5pZuu7kgbojNBoqS3hECmR) | 2:39 |
+| 171 | [Frequenza Del Cuore 528 Hz \(Nature Version\)](https://open.spotify.com/track/04ltEgSfEzF11vXr9OrymS) | [Seconda Fotura](https://open.spotify.com/artist/3dLzY2XAMjuE1soisVnzf7) | [Frequenza Del Cuore 528 Hz \(Nature Version\)](https://open.spotify.com/album/5pZuu7kgbojNBoqS3hECmR) | 2:39 |
 | 172 | [Glitching](https://open.spotify.com/track/5mGFbVJPUbx8ml6o3gFzcI) | [Solvekin](https://open.spotify.com/artist/6vz9kIJB249V5DbMMH0WZA) | [Glitching](https://open.spotify.com/album/5tEOEdmq5hskUT0cNQlEj8) | 2:27 |
 | 173 | [Curled silence](https://open.spotify.com/track/2UmPertU9XzVjsUOXSdibs) | [Hello Artemisia!](https://open.spotify.com/artist/5A05k3XjnB2j83Vw8Iigx3) | [Curled silence](https://open.spotify.com/album/5qmhHkETswNSnrLhfZQMqG) | 2:50 |
 | 174 | [Flow](https://open.spotify.com/track/24S8iaidseXQRjB95t3P4E) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Flow](https://open.spotify.com/album/7zh4s3MKpQp4Rv878PH9J5) | 4:17 |

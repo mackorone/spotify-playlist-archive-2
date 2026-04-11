@@ -4,7 +4,7 @@
 
 > For the new generation of trendsetters coming through, we move\. Cover: Paul Stephan
 
-176 songs - 7 hr 40 min
+177 songs - 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [Pattern](https://open.spotify.com/track/6ZdnXGLHEtYuvb49N9nGfq) | [SINN6R](https://open.spotify.com/artist/7eUESbuvdPXjeidnqrCeyY), [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [\#FEDERAL++](https://open.spotify.com/album/6Xo6JB03TxDvxF0KE0QXfU) | 2:33 | 2026-03-13 |  |
 | [pentecost of living](https://open.spotify.com/track/13npRfHx2c2FhUXk84vwBO) | [Ceebo](https://open.spotify.com/artist/4wtelmF043mIcSEjNs7wWB) | [pentecost of living](https://open.spotify.com/album/4GqXL87Ny302idXnWQiPyP) | 2:00 | 2025-10-23 | 2026-02-27 |
 | [Phantom](https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy), [Rico Ace](https://open.spotify.com/artist/4sY0lTSkfDMMt27cVvFT6o) | [Rebel](https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug) | 1:49 | 2025-10-23 | 2026-02-27 |
-| [POCKET WATCH](https://open.spotify.com/track/3dlu7DsA4dKwZ7F2cQ9wSH) | [Motive105](https://open.spotify.com/artist/0KmLKEJsXN8ZX4Y9YAlZuG) | [POCKET WATCH](https://open.spotify.com/album/2iTszvMLPPJ6Eouv6wQH73) | 2:26 | 2026-02-06 |  |
+| [POCKET WATCH](https://open.spotify.com/track/3dlu7DsA4dKwZ7F2cQ9wSH) | [Motive105](https://open.spotify.com/artist/0KmLKEJsXN8ZX4Y9YAlZuG) | [POCKET WATCH](https://open.spotify.com/album/2iTszvMLPPJ6Eouv6wQH73) | 2:26 | 2026-02-06 | 2026-04-11 |
 | [Polka dot](https://open.spotify.com/track/7sZ9IdFPv0GkiIrvTdzPvs) | [Niko B](https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk) | [Cheerleader](https://open.spotify.com/album/54YKB5aeBIRCjUe5ssHQzo) | 1:38 | 2025-10-23 | 2026-02-27 |
 | [Pressure](https://open.spotify.com/track/2mwplM6WLAxWaeWuL5vk6x) | [BandobabyLR](https://open.spotify.com/artist/19ACRq8RCDb6b8Q0SpNM1b) | [Pressure](https://open.spotify.com/album/4cfPHwvg91XG29WHQqWivy) | 2:56 | 2025-11-07 | 2026-02-21 |
 | [PRESSURE](https://open.spotify.com/track/4XIiHCQNitoMQQ4an591OS) | [bib sama.](https://open.spotify.com/artist/5CSb8UNFfwDv80vbAIPEtu), [TayoLoxs](https://open.spotify.com/artist/4D1gckOVE54GdYpS7J4noB) | [PRESSURE](https://open.spotify.com/album/0fJqmOCAf63nXEc69V97a1) | 1:50 | 2025-10-23 | 2026-01-15 |
@@ -128,6 +128,7 @@
 | [seasick](https://open.spotify.com/track/2iQMiMoDnqKfVlZz9u8D26) | [Rio Rainz](https://open.spotify.com/artist/1r6P4oTQ7kUvMXTkNjrb4C) | [seasick](https://open.spotify.com/album/1XaszUxl19bdArfxz7TJzh) | 2:30 | 2025-10-23 | 2026-02-13 |
 | [Seems 2 Be](https://open.spotify.com/track/0Atgg7bjvJSjWNpDZ241Kj) | [Leah Music](https://open.spotify.com/artist/3FrtVf61eHTo2BZNG1qTOK) | [Seems 2 Be](https://open.spotify.com/album/6VAHtk5v0XJZ7Es0Mllm9p) | 2:22 | 2025-10-23 | 2025-11-07 |
 | [ShadyBop \(Wesh Wesh\)](https://open.spotify.com/track/0sbIMrEF1rAZWl66Dzq3Dz) | [DeeOrSlim](https://open.spotify.com/artist/0RKAtzzwqFICIFLTCTTHDN) | [ShadyBop \(Wesh Wesh\)](https://open.spotify.com/album/5H77Paiy1Jdg0athIpvg7M) | 3:10 | 2025-10-23 | 2026-02-13 |
+| [shake\_leg](https://open.spotify.com/track/0pdPeMA0ZtA5Pgdfkuh3Z7) | [Nori](https://open.spotify.com/artist/7slFzVc5aRrBk0U69aQiXJ) | [shake\_leg](https://open.spotify.com/album/2hcRHv6WmZTPxeGIA5EDxh) | 2:17 | 2026-04-10 |  |
 | [SHINIGAMI](https://open.spotify.com/track/4BpDKjq7lgHJs1PC69kpWh) | [PIXY](https://open.spotify.com/artist/5AGVMquElW7QIas7i21Xmz) | [SHINIGAMI](https://open.spotify.com/album/73G6D9UNozSCLCxfNnqx2u) | 1:58 | 2026-02-13 |  |
 | [Siren Song](https://open.spotify.com/track/5paAVu6xnigUiRzIGNNEWN) | [Charlotte Dowsson](https://open.spotify.com/artist/77nzrPGvQ9uNA2XE9N9oTy) | [Siren Song](https://open.spotify.com/album/7MjKeqKVTb6MU0TG4YaOng) | 2:57 | 2026-02-06 |  |
 | [skip!](https://open.spotify.com/track/4ncEJ67Xn1yjaURi2X7aTy) | [Nolais](https://open.spotify.com/artist/1oUVVaNAeBZ6w6unHvNUCF) | [skip!](https://open.spotify.com/album/2UukWbmIAt7fb9LAK3xD81) | 2:32 | 2025-10-23 | 2025-12-12 |

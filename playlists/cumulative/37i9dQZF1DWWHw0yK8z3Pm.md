@@ -2,9 +2,9 @@
 
 ### [Renegades](https://open.spotify.com/playlist/37i9dQZF1DWWHw0yK8z3Pm)
 
-> Fearless sounds at the crossroads of country and folk\. Cover: Paul Cauthen
+> Fearless sounds at the crossroads of country and folk\. Cover: Josiah and the Bonnevilles
 
-696 songs - 1 day 18 hr 8 min
+698 songs - 1 day 18 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Arlo](https://open.spotify.com/track/6g8TfaY4o7uzIDHOqXFsxg) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [Arlo](https://open.spotify.com/album/4QdNH73Llt7pENDkJfXl0V) | 4:10 | 2022-11-11 | 2023-01-21 |
 | [Ave H Blue](https://open.spotify.com/track/49kM29AjpsB9Zv444PnvED) | [NUTANA](https://open.spotify.com/artist/2IlotRrtfpIKvTZhXoXDH0) | [NUTANA](https://open.spotify.com/album/6wwhPFPCp19M47e19Y8oK0) | 3:23 | 2023-04-07 | 2023-04-22 |
 | [Aw, Shoot!](https://open.spotify.com/track/4D7db0sTmEWYf9aAzCJl9c) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Aw, Shoot!](https://open.spotify.com/album/2MrVs5OGnY7RGn33GiB2pu) | 3:28 | 2024-05-10 | 2025-11-07 |
-| [Baby Blue](https://open.spotify.com/track/6sthHfwGUlwXAKY4pHUk6U) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Baby Blue](https://open.spotify.com/album/4PMpIDpeiHvUNMMxbze6Oe) | 4:08 | 2025-01-24 |  |
+| [Baby Blue](https://open.spotify.com/track/6sthHfwGUlwXAKY4pHUk6U) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Baby Blue](https://open.spotify.com/album/4PMpIDpeiHvUNMMxbze6Oe) | 4:08 | 2025-01-24 | 2026-04-11 |
 | [Baby, You're a Gun](https://open.spotify.com/track/2t75rwAHmPqCvb1B86NiGN) | [Tami Neilson](https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3) | [Kingmaker](https://open.spotify.com/album/5fuIzeNg4rYracgepUeZWa) | 3:29 | 2023-04-28 | 2024-01-31 |
 | [Baby, You're a Gun](https://open.spotify.com/track/6yk3E2nQ2VNEJynMzQTEgg) | [Tami Neilson](https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3) | [Baby, You're a Gun](https://open.spotify.com/album/56VpDmshdg2w7BQhWnCwTk) | 3:29 | 2022-05-13 | 2023-04-22 |
 | [Back In The Blue](https://open.spotify.com/track/1PQrDN2COuMeQGQnj7Npiu) | [Lucette](https://open.spotify.com/artist/1OlzK1kHcdTcduXcdXHYXn), [Mariel Buckley](https://open.spotify.com/artist/7lghcHbrdt7sqHWeya15aV) | [Back In The Blue](https://open.spotify.com/album/7iOzxAUo7u7QQD0VXX19u8) | 2:53 | 2024-12-13 | 2025-01-16 |
@@ -254,6 +254,7 @@
 | [Give and Take](https://open.spotify.com/track/1m1yaWUGx0qQgl5bqGrcZm) | [Amy Blake](https://open.spotify.com/artist/3mgJBpa8Mp23JoxA1CWxol) | [Give and Take](https://open.spotify.com/album/6uiekTC9PgG5afPi4OWrNo) | 4:28 | 2022-05-13 | 2023-03-25 |
 | [Give Me One Reason](https://open.spotify.com/track/5VvT7bqOekxhMLbux3jJKD) | [Sarah Vanderzon](https://open.spotify.com/artist/3Uu2L05Xr3L34566nH4GbD) | [Give Me One Reason](https://open.spotify.com/album/4MtDxcaSPN6lGsBaq6yyNA) | 3:09 | 2025-10-06 | 2026-02-08 |
 | [Glad You Got Away](https://open.spotify.com/track/5RU76nf29QFbnvJDxHP3oR) | [Madisyn Gifford](https://open.spotify.com/artist/1cNquoaU6Fzw8gbQTxBZ85) | [Glad You Got Away](https://open.spotify.com/album/4WsY4BWCeD447uvIvJoE3e) | 3:34 | 2024-10-25 | 2024-11-13 |
+| [Going Gone](https://open.spotify.com/track/755YHY8NRYiOtSquUwGPX6) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Going Gone](https://open.spotify.com/album/7gWoQaclVBWJOmFDxloGGt) | 2:56 | 2026-04-10 |  |
 | [Going to Water](https://open.spotify.com/track/3HCWK9dtiQ6X2yP5952dvl) | [Pony Bradshaw](https://open.spotify.com/artist/0ATGYvt8HyUK8ydaxJybSi) | [Thus Spoke the Fool](https://open.spotify.com/album/4K8fgkZb2es57x2enGQa9n) | 3:04 | 2024-08-16 | 2025-11-07 |
 | [Golden Embers](https://open.spotify.com/track/4OkKz8LhKo846kN3nncNZs) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Tides of a Teardrop](https://open.spotify.com/album/2SWy4Nbpw77DzLkwXba7Hk) | 4:45 | 2023-04-28 | 2024-04-19 |
 | [Golden Embers](https://open.spotify.com/track/7fdwZ9ShF56daUOBH02U7S) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Tides of a Teardrop](https://open.spotify.com/album/09NM7gTdr3ij71aksxr4Qs) | 4:45 | 2023-04-21 | 2023-04-29 |
@@ -451,6 +452,7 @@
 | [New Highs](https://open.spotify.com/track/0HENdkCmHGj3u7XEsYAYsn) | [Genesis Ritchot](https://open.spotify.com/artist/3G7RNCad1xTbtGy4GYMZhm) | [New Highs, Pt\. 1](https://open.spotify.com/album/0aSUXrulSnrgnzyAzl2eBf) | 4:15 | 2025-10-06 | 2026-02-14 |
 | [Next Somewhere](https://open.spotify.com/track/2BUHojp3DLIExIWPB7fHCZ) | [Sweet Alibi](https://open.spotify.com/artist/1g4g3e7KmtiCWGIazim0A4) | [Make A Scene](https://open.spotify.com/album/6t71WvBFQJpWzVeg2IWA3h) | 4:09 | 2022-05-13 | 2023-03-11 |
 | [No One Else Like Me](https://open.spotify.com/track/5XlMj49P3jjmXpAdVGOLyW) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Made by These Moments](https://open.spotify.com/album/0UQr4EfIUbii2ufru3mnKe) | 4:17 | 2024-08-23 | 2025-11-07 |
+| [No Springtime \(ft\. Joy Oladokun & Julie Williams\)](https://open.spotify.com/track/4roCXZFxzB1WrKofdjedQg) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Julie Williams](https://open.spotify.com/artist/4sRUZFWl0hDJg6MW9lHKR9) | [No Springtime \(ft\. Joy Oladokun & Julie Williams\)](https://open.spotify.com/album/66qSzjkzyYbD2cXKauAOVJ) | 3:20 | 2026-04-10 |  |
 | [Nobody](https://open.spotify.com/track/3S1jrpvGleaEv1KQ8mXCpK) | [David James Allen](https://open.spotify.com/artist/3a1RtSeqazHL2kYLbhydx3) | [Nobody](https://open.spotify.com/album/3No89K9dFtQ4UQGyq1IPL2) | 2:53 | 2022-05-13 | 2022-12-17 |
 | [Nomads](https://open.spotify.com/track/332Fsvy1zczhCgcI5dZGB4) | [Aysanabee](https://open.spotify.com/artist/1jbEBKJhX4rRmHD6xW6ve5) | [Nomads](https://open.spotify.com/album/217CxMC2a2u6pJNohNq2zk) | 4:03 | 2022-08-20 | 2023-09-16 |
 | [Nomads \- Timelines Acoustic](https://open.spotify.com/track/13kaQ2PH77l9v5xOl7maDw) | [Aysanabee](https://open.spotify.com/artist/1jbEBKJhX4rRmHD6xW6ve5) | [Nomads \(Timelines\)](https://open.spotify.com/album/41a62fpVlKPzWMx0zD3IB3) | 3:44 | 2025-11-07 | 2026-01-17 |
@@ -465,7 +467,7 @@
 | [O Glory Lost Those Blues Again](https://open.spotify.com/track/0eyyfDrV3arjYL1kfP1fGd) | [Blackie & The Rodeo Kings](https://open.spotify.com/artist/5Xkfy1HC5JSFKU1Z4lr3Ru) | [O Glory Lost Those Blues Again](https://open.spotify.com/album/3wE1yyIcRn5eITElpD3IS0) | 3:23 | 2022-05-13 | 2022-11-12 |
 | [Oblivion](https://open.spotify.com/track/3fUV94MU8ULFZtKh3KUYlm) | [The Wilderness of Manitoba](https://open.spotify.com/artist/5iiDMOV4u4LhRMqbCAepUM) | [Oblivion](https://open.spotify.com/album/1KYXQbM2qinEl2a0PRMOy7) | 4:08 | 2022-05-13 | 2022-10-29 |
 | [Oh My Days](https://open.spotify.com/track/5xIlWBGj7l83z87YZJISD0) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Appaloosa](https://open.spotify.com/album/33YNI8LLZpVJJcOpSjbOh2) | 3:33 | 2025-11-14 |  |
-| [Oh, Death](https://open.spotify.com/track/5mAFDqCval86CbgkUpUFx3) | [Mike Tod](https://open.spotify.com/artist/3rAoGval7T466R7tVPjPCr) | [Oh, Death](https://open.spotify.com/album/6dtQrabGXJ864xjymK5AxA) | 8:25 | 2026-03-20 |  |
+| [Oh, Death](https://open.spotify.com/track/5mAFDqCval86CbgkUpUFx3) | [Mike Tod](https://open.spotify.com/artist/3rAoGval7T466R7tVPjPCr) | [Oh, Death](https://open.spotify.com/album/6dtQrabGXJ864xjymK5AxA) | 8:25 | 2026-03-20 | 2026-04-11 |
 | [Oklahoma Smokeshow](https://open.spotify.com/track/0OWhKvvsHptt6vnnNUSM9a) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Summertime Blues](https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA) | 3:31 | 2022-08-26 | 2023-04-22 |
 | [On a Bluebird's Wing](https://open.spotify.com/track/2Pha4Ny8PyIq0GkaEnYWYl) | [Julianna Riolino](https://open.spotify.com/artist/4IkYUDeCe6OrwQhdSZZ81b) | [On A Bluebird's Wing](https://open.spotify.com/album/6dOVgmu5erhWM0l4wOjqEx) | 2:29 | 2025-06-13 | 2025-07-12 |
 | [On a Roll](https://open.spotify.com/track/0BDsgepsUjyAmk5CLeHjwG) | [Bruce Cockburn](https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz) | [On A Roll](https://open.spotify.com/album/1a6lHO1OX3bTb4T0H9eLJb) | 3:31 | 2023-05-12 | 2023-07-29 |

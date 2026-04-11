@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: Josi
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,276 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,507 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,14 +20,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 10 | [Fremd](https://open.spotify.com/track/2nO5coy49PLMExXkZMaO7J) | [LYZA](https://open.spotify.com/artist/1GkuVWjCoLLzR2KwEp0zB4) | [Fremd](https://open.spotify.com/album/4wn8wYiiArI6VieflDylSr) | 3:07 |
 | 11 | [DIE ICH WAR](https://open.spotify.com/track/1QhovwYc8cI3OuoX9BPy4v) | [Nalya](https://open.spotify.com/artist/28pXf135fQ3E5AJixrjd4O) | [DIE ICH WAR](https://open.spotify.com/album/3fTNibi2TEva1OWpdXPiWD) | 2:48 |
 | 12 | [atmen](https://open.spotify.com/track/08aWwk8EzNgWC8ZlZ8ojD8) | [Ella Stern](https://open.spotify.com/artist/4JqjErIJOUuM9VSJdSsmxd) | [atmen](https://open.spotify.com/album/1TPzs9tiwqdMAoZh3X3obP) | 2:59 |
-| 13 | [Beiss mich fest](https://open.spotify.com/track/4qBd4iG9kqOIiRNS56r125) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Beiss mich fest](https://open.spotify.com/album/6OQaolEPGCprA6DZeckT2f) | 2:00 |
-| 14 | [P\*rno](https://open.spotify.com/track/2QU13A6S7IAwFNiAfa9Atd) | [VICKY](https://open.spotify.com/artist/7JJqR4GbZwWeUMkRGAk0Va) | [P\*rno](https://open.spotify.com/album/7i9YKFc2yibSRx8JoBtOAB) | 2:05 |
+| 13 | [Dunkel](https://open.spotify.com/track/2UCO6MiyQaUz0ZNAmFppnO) | [Mine](https://open.spotify.com/artist/2jmpnuwn52LqrQASBlyQGJ) | [Dunkel](https://open.spotify.com/album/4VV2sUq22alaFYBTLL68Us) | 2:18 |
+| 14 | [Beiss mich fest](https://open.spotify.com/track/4qBd4iG9kqOIiRNS56r125) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Beiss mich fest](https://open.spotify.com/album/6OQaolEPGCprA6DZeckT2f) | 2:00 |
 | 15 | [YOU&ME](https://open.spotify.com/track/5Lsf972OLKx5LbJyvyoXJ2) | [Josi](https://open.spotify.com/artist/5vQXzZjy86ijQhMjMb1ke4) | [DON'T STOP](https://open.spotify.com/album/75d1zgNLvFKDRx6uwNBwZ2) | 2:04 |
-| 16 | [Girls support Girls](https://open.spotify.com/track/1PmUzmxrYajlmPpn2QmPkQ) | [Anna Grey](https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q) | [DNA](https://open.spotify.com/album/2MJnPfsVwCbyBmcvaG2e2l) | 1:57 |
-| 17 | [Dunkel](https://open.spotify.com/track/2UCO6MiyQaUz0ZNAmFppnO) | [Mine](https://open.spotify.com/artist/2jmpnuwn52LqrQASBlyQGJ) | [Dunkel](https://open.spotify.com/album/4VV2sUq22alaFYBTLL68Us) | 2:18 |
-| 18 | [GEN Z LUV](https://open.spotify.com/track/0HLqEQQmoWswlR2sxYQlCI) | [Rubi](https://open.spotify.com/artist/0VlrorDSkEbLK1D6VvMgd2) | [GEN Z LUV](https://open.spotify.com/album/2Lg8iJMdSJOa3jlo0nMMvQ) | 1:48 |
-| 19 | [wasserfarben](https://open.spotify.com/track/1VlhIy2S6cqPXMIlTxkkXb) | [Caro Schaeffler](https://open.spotify.com/artist/0HOgHNCucycZ7DUyWjFhNB) | [wasserfarben](https://open.spotify.com/album/5anq9Pq1u3YXlbpi94VF3N) | 3:05 |
-| 20 | [Dog Bite](https://open.spotify.com/track/4oMfYG01Heyeqkdxfq9Z3D) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Virgin Lake](https://open.spotify.com/album/5hjXrxckG7e4f8IDw8Czcs) | 4:25 |
+| 16 | [GEN Z LUV](https://open.spotify.com/track/0HLqEQQmoWswlR2sxYQlCI) | [Rubi](https://open.spotify.com/artist/0VlrorDSkEbLK1D6VvMgd2) | [GEN Z LUV](https://open.spotify.com/album/2Lg8iJMdSJOa3jlo0nMMvQ) | 1:48 |
+| 17 | [P\*rno](https://open.spotify.com/track/2QU13A6S7IAwFNiAfa9Atd) | [VICKY](https://open.spotify.com/artist/7JJqR4GbZwWeUMkRGAk0Va) | [P\*rno](https://open.spotify.com/album/7i9YKFc2yibSRx8JoBtOAB) | 2:05 |
+| 18 | [Girls support Girls](https://open.spotify.com/track/1PmUzmxrYajlmPpn2QmPkQ) | [Anna Grey](https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q) | [DNA](https://open.spotify.com/album/2MJnPfsVwCbyBmcvaG2e2l) | 1:57 |
+| 19 | [Dog Bite](https://open.spotify.com/track/4oMfYG01Heyeqkdxfq9Z3D) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Virgin Lake](https://open.spotify.com/album/5hjXrxckG7e4f8IDw8Czcs) | 4:25 |
+| 20 | [wasserfarben](https://open.spotify.com/track/1VlhIy2S6cqPXMIlTxkkXb) | [Caro Schaeffler](https://open.spotify.com/artist/0HOgHNCucycZ7DUyWjFhNB) | [wasserfarben](https://open.spotify.com/album/5anq9Pq1u3YXlbpi94VF3N) | 3:05 |
 | 21 | [It\-girl](https://open.spotify.com/track/6UJ71rHZh9EfgrAuFRR1q0) | [Mieze](https://open.spotify.com/artist/7M4NzPON3JqwE3GRfdg7eU) | [It\-girl](https://open.spotify.com/album/0vmb9sVh34aVdNL1UVyfo7) | 2:04 |
 | 22 | [sommerwind](https://open.spotify.com/track/3puY290XhaYRHxebmg9NvN) | [lovehead](https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce) | [sommerwind](https://open.spotify.com/album/1h0xn8lP2tnxtUm8HitWbz) | 2:48 |
 | 23 | [Chemical Love](https://open.spotify.com/track/4ir6iIZhasIqi7idrxPaP9) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [Chemical Love](https://open.spotify.com/album/2uJvfX269T6v4hdexZMnRv) | 2:44 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 43 | [Muss weh tun](https://open.spotify.com/track/4dRovCpD2NjXpevsQUGjNV) | [Magdalena Wawra](https://open.spotify.com/artist/2vwWLDuUOvqphcrjhpVzaG) | [Muss weh tun](https://open.spotify.com/album/64TtmFtkkYp3Ye4k7NtxIP) | 2:40 |
 | 44 | [Lesbisch](https://open.spotify.com/track/51OO2j8mgN8XvrNnft5EDL) | [Marisabelle](https://open.spotify.com/artist/7juQyo2bnOdDsd0V4UDYdH) | [Lesbisch](https://open.spotify.com/album/5lRfrBB7to4PYgdAImQsw9) | 2:07 |
 | 45 | [Breathe](https://open.spotify.com/track/1sGMGIrHNv8q1Op2mdVuvs) | [Sylvie Miles](https://open.spotify.com/artist/4uPM7QLSNGVm5MncolABqE) | [Breathe](https://open.spotify.com/album/4JAJpikjbeuOPTesxDuWQo) | 4:19 |
-| 46 | [The Crushed](https://open.spotify.com/track/6ilnHlVVofCSXILQHpLEdo) | [JEWLS](https://open.spotify.com/artist/1Yi3eQibPPyKmO0xXWPcfw) | [The Crushed](https://open.spotify.com/album/312mngp1sH77v9ZzWc3gc4) | 3:28 |
-| 47 | [g h o s t](https://open.spotify.com/track/3AQai6OjpDCfVkfAG8hUvy) | [IKAN HYU](https://open.spotify.com/artist/1kcgm5pRULbDb5gs7kDRNK) | [g h o s t](https://open.spotify.com/album/06rufYFGkKG9nBbb0zjWvI) | 3:17 |
+| 46 | [g h o s t](https://open.spotify.com/track/3AQai6OjpDCfVkfAG8hUvy) | [IKAN HYU](https://open.spotify.com/artist/1kcgm5pRULbDb5gs7kDRNK) | [g h o s t](https://open.spotify.com/album/06rufYFGkKG9nBbb0zjWvI) | 3:17 |
+| 47 | [The Crushed](https://open.spotify.com/track/6ilnHlVVofCSXILQHpLEdo) | [JEWLS](https://open.spotify.com/artist/1Yi3eQibPPyKmO0xXWPcfw) | [The Crushed](https://open.spotify.com/album/312mngp1sH77v9ZzWc3gc4) | 3:28 |
 | 48 | [Dreamgirl](https://open.spotify.com/track/4WiAwomfa8OlIqUURYkKRE) | [Alwa Alibi](https://open.spotify.com/artist/4P0DgQh6sua07b6r0C4xPO) | [Dreamgirl](https://open.spotify.com/album/0qEdTlXgqU3vMQrijRcFFC) | 2:49 |
 | 49 | [Vergessen, wie man lebt](https://open.spotify.com/track/4GOP5fJevBuQWvbXY7KAb6) | [MARYAM.fyi](https://open.spotify.com/artist/3XBMpJEVQyZLNKsLI7qri9) | [Vergessen, wie man lebt](https://open.spotify.com/album/5Bno96zgH3uz3UyANOa5Z0) | 2:42 |
 | 50 | [Fused By Desire](https://open.spotify.com/track/5xo3jiK0BtBTUNAUlipVDR) | [Shaleen](https://open.spotify.com/artist/70NHrQYbrBropRsdVLry5p) | [Treatise On A Narcissist \- EP](https://open.spotify.com/album/6byvhokB4f5Z2Y75TEc41u) | 6:00 |

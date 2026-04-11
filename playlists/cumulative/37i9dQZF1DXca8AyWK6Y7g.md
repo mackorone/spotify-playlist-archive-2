@@ -2,9 +2,9 @@
 
 ### [young & free](https://open.spotify.com/playlist/37i9dQZF1DXca8AyWK6Y7g)
 
-> on repeat for a reason\. cover: Mira Housey
+> on repeat for a reason\. cover: STELLA LEFTY
 
-2,738 songs - 5 day 17 hr 44 min
+2,741 songs - 5 day 17 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -556,6 +556,7 @@
 | [Daisies](https://open.spotify.com/track/3xTY1ZFh1md781DtPHodkv) | [Ryan Caraveo](https://open.spotify.com/artist/1PDE2MIJ4M6uvFJDrslazf) | [Daisies](https://open.spotify.com/album/1APeBCt3sawQD09Om6hbqc) | 2:33 | 2021-04-20 | 2022-05-14 |
 | [Daisy Chain](https://open.spotify.com/track/6YDydLu0kWJXAuU6WYcbH2) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI), [Tayo Sound](https://open.spotify.com/artist/7uELj3CTZDGSpqH1TNPIdQ) | [Daisy Chain](https://open.spotify.com/album/2kSOGD37vPRzNroaKKKNxD) | 2:46 | 2023-06-23 | 2023-08-19 |
 | [Daisy Chains](https://open.spotify.com/track/0pCUjjbww2787QjYwlaD7M) | [Aimée](https://open.spotify.com/artist/6kiGJNxa3SvcQWfCrqL1sb) | [Daisy Chains \(The Summer EP\)](https://open.spotify.com/album/0N9G9tvD1yueaWjpHSVvSQ) | 3:20 | 2024-07-05 | 2024-10-19 |
+| [Damn Good Actress](https://open.spotify.com/track/3Uh3cFYJUYqS8CdHDbHkFC) | [Tiffany Stringer](https://open.spotify.com/artist/6Dv6bV7bzZSCAX0E0qLw7u) | [Damn Good Actress](https://open.spotify.com/album/7IReyqV2mLXGxaNcJkBuh3) | 2:49 | 2026-04-10 |  |
 | [dance around it](https://open.spotify.com/track/6Boo0GQjPI7JqhUVjy4bS2) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [dance around it](https://open.spotify.com/album/0pX52I7Q7kfR4vniTPIK6H) | 2:25 | 2025-07-04 | 2025-08-09 |
 | [Dance Before We Walk \(From “The Idea of You”\)](https://open.spotify.com/track/7xELUwXl4BJq1Hm3PE2v1R) | [August Moon](https://open.spotify.com/artist/4INWJGqEB91KDU1xAwLRaA) | [Dance Before We Walk \(From “The Idea of You”\)](https://open.spotify.com/album/6cJvVRDKO1eZcKomjxVQUK) | 2:37 | 2024-03-08 | 2024-07-09 |
 | [Dance For Love](https://open.spotify.com/track/7hredXafMauuh15FNDEPnQ) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [Dance For Love](https://open.spotify.com/album/4ur5fRmG36m0aYACPyCCEE) | 4:22 | 2021-07-16 | 2022-07-16 |
@@ -766,7 +767,7 @@
 | [Eyes Wide Shut](https://open.spotify.com/track/3FhFlQuJiThN8PIUMHuikP) | [Glades](https://open.spotify.com/artist/14rP13jdQNgQvuPA2AkBgm) | [Eyes Wide Shut](https://open.spotify.com/album/6dQOeD3fOJY5X5zU9GbjVM) | 3:43 | 2019-05-26\* | 2020-02-19 |
 | [EZ](https://open.spotify.com/track/0yK7WNzfnq7xS7AARO0rIS) | [Jolina Louise](https://open.spotify.com/artist/6xOLMJky0sqFPGCcnkF6yP) | [EZ](https://open.spotify.com/album/3o2uohhOcMphVdVH42s54a) | 2:20 | 2025-09-26 | 2026-01-15 |
 | [F U Goodbye](https://open.spotify.com/track/205wK88loGkvq5Me6h3XZg) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [F U Goodbye](https://open.spotify.com/album/1qN1cdmp9anpdy8fohdvLo) | 2:46 | 2023-03-03 | 2023-04-23 |
-| [Fabulous](https://open.spotify.com/track/1LkpaAtSjAx5n4rrTkIQyu) | [MEEK](https://open.spotify.com/artist/1eg46ke5TEIuJpypjaSvi0) | [Fabulous](https://open.spotify.com/album/4RxIQmhjviMgTLRbCosPoN) | 2:33 | 2026-02-06 |  |
+| [Fabulous](https://open.spotify.com/track/1LkpaAtSjAx5n4rrTkIQyu) | [MEEK](https://open.spotify.com/artist/1eg46ke5TEIuJpypjaSvi0) | [Fabulous](https://open.spotify.com/album/4RxIQmhjviMgTLRbCosPoN) | 2:33 | 2026-02-06 | 2026-04-11 |
 | [Face Like Yours](https://open.spotify.com/track/3m3aEs2NUwzCPmOG0SXeBt) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [Face Like Yours](https://open.spotify.com/album/1JxGPiYxQlORUJ9yIeJL2G) | 2:41 | 2025-02-28 | 2025-05-17 |
 | [Face Like Yours](https://open.spotify.com/track/2s1eDgLrgfZxcKG0Re5qZM) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Face Like Yours](https://open.spotify.com/album/1JZe1YVeWAAeToAavXZ0f3) | 2:38 | 2026-02-06 |  |
 | [Fail](https://open.spotify.com/track/3wb0OtpuyUjZBOxa8HdxhL) | [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [Fail](https://open.spotify.com/album/6EPz1cdBFPdjoXKdczgdbY) | 2:36 | 2024-07-26 | 2024-09-07 |
@@ -1523,6 +1524,7 @@
 | [madhouse](https://open.spotify.com/track/4b9oAM56ycOQXQCV1BbN2S) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [madhouse](https://open.spotify.com/album/50F5i5F8kiulfRwwoOtG1U) | 2:05 | 2022-09-09 | 2023-04-23 |
 | [Madonna](https://open.spotify.com/track/1eCdsyHZVqHSi5jhwc4TLs) | [Juliana Madrid](https://open.spotify.com/artist/6RhkgeqhRai3jy4ULSlxFx) | [Madonna](https://open.spotify.com/album/2uNNQws3ix4ZyVxueGd2un) | 3:12 | 2022-03-11 | 2022-07-29 |
 | [Madonna \(with Audrey Mika\)](https://open.spotify.com/track/7xU12s4CHm1wT2M3YMmCqg) | [Deux Twins](https://open.spotify.com/artist/7t39GP2opSKuK107Dp0Iae), [Audrey Mika](https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp) | [Madonna \(with Audrey Mika\)](https://open.spotify.com/album/3Rrfdu8t7w0fn8h0c6YRwI) | 2:42 | 2022-07-01 | 2022-07-23 |
+| [Madwoman](https://open.spotify.com/track/0UqHzMvRQnaOXEPKgFVhxN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time: The Final Hour](https://open.spotify.com/album/4DWK6TLXHl1fly2zi5RlO7) | 3:59 | 2026-04-10 |  |
 | [Magic](https://open.spotify.com/track/4WnLmvKvb1tSPme5GejUFG) | [Jany Green](https://open.spotify.com/artist/1Qg99NvQcJaAMmmDl6nPRv), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [Magic](https://open.spotify.com/album/6HzqtOh4KjlZ8MuKZAyL7k) | 2:18 | 2021-08-06 | 2022-01-22 |
 | [Magic](https://open.spotify.com/track/4XsrQYCU60mBHzjFVImgFf) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Cyclorama](https://open.spotify.com/album/46vqvAYDetWqC04lXDzTmc) | 6:48 | 2021-07-16 | 2022-03-26 |
 | [Magic](https://open.spotify.com/track/1ozTHWtYAhhLeJ2CejjNyF) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [Magic](https://open.spotify.com/album/4ArIrhbEuQiYmNsePoj1OJ) | 3:13 | 2023-11-10 | 2024-01-05 |
@@ -1897,6 +1899,7 @@
 | [POSE](https://open.spotify.com/track/1Mf7qE54NoBp5hrZV2iPrX) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [POSE](https://open.spotify.com/album/2N3NGQjuCC1B7qPiY7saGG) | 3:13 | 2022-03-04 | 2022-10-22 |
 | [Post Party Trauma](https://open.spotify.com/track/1tgAuknhoJhAtNFeXf0AZu) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [Post Party Trauma](https://open.spotify.com/album/6vy8LmzdyUO6r0DmqCXutl) | 3:11 | 2022-07-08 | 2022-09-03 |
 | [Post Sex Clarity](https://open.spotify.com/track/1n4Y7LSSZ38HgEdpPpivpg) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [I’m Only F\*\*king Myself](https://open.spotify.com/album/5jUCvcrzCNng7N3iNVY4ts) | 4:21 | 2025-09-19 | 2026-02-21 |
+| [Postcard](https://open.spotify.com/track/6kFViXXkWdLjU4ZSyTmEIE) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [The Boutique](https://open.spotify.com/album/0mf3iO1pGIee8XIqr8V8rn) | 3:51 | 2026-04-10 |  |
 | [poster boy](https://open.spotify.com/track/2TaCG1ArsxRsUyZhqy5jei) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [poster boy](https://open.spotify.com/album/2ErL96QPbe4hXnU8K2giJr) | 2:46 | 2023-04-14 | 2023-06-17 |
 | [Postmates](https://open.spotify.com/track/1RtPogfTYqi4r4CUP715fA) | [valentina cy](https://open.spotify.com/artist/6VSCooQeDo6An0mx1mhYyx) | [Postmates](https://open.spotify.com/album/5OfvjKaTnPrWanUVC2mjix) | 2:20 | 2021-02-23 | 2021-09-17 |
 | [Power, Sex, Dreams](https://open.spotify.com/track/1I0M16RVBlZWto9b9k7sKF) | [Annika Bennett](https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l) | [Power, Sex, Dreams](https://open.spotify.com/album/4v5oF4WRck0udkteUqDHHZ) | 2:55 | 2024-02-23 | 2024-06-01 |
@@ -2465,7 +2468,7 @@
 | [TIME](https://open.spotify.com/track/0yGXheydoHP4EKZpfAs9zk) | [Sofia D'Angelo](https://open.spotify.com/artist/4dZ7XqXL0hD6rSIkUs11b5) | [TIME](https://open.spotify.com/album/0Z6GDq6vic09cDKt4LVoKR) | 3:15 | 2026-04-03 |  |
 | [Time Bomb](https://open.spotify.com/track/7n1XKFfjkUjrcnzeSnNLVD) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/0Bu6vqh3RrzgWTVGSkS4g7) | 3:23 | 2022-07-22 | 2022-08-13 |
 | [time flies](https://open.spotify.com/track/3xokVOOKnvZLdUFJHmtYqk) | [dempsey hope](https://open.spotify.com/artist/6ZzYOQMKYTj2lJeAitjSl7) | [time flies](https://open.spotify.com/album/4J3u99zfnJFmAT0l6XlbCL) | 2:18 | 2020-07-30 | 2021-03-18 |
-| [TIME HEALS EVERYTHING](https://open.spotify.com/track/4aiTHsXqQMjRQGwY3nNjV0) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [Two People at Once](https://open.spotify.com/album/3sm7J7JLRNQsmOPoaD5Rj7) | 3:06 | 2026-03-20 |  |
+| [TIME HEALS EVERYTHING](https://open.spotify.com/track/4aiTHsXqQMjRQGwY3nNjV0) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [Two People at Once](https://open.spotify.com/album/3sm7J7JLRNQsmOPoaD5Rj7) | 3:06 | 2026-03-20 | 2026-04-11 |
 | [Time On](https://open.spotify.com/track/6hwlAQ9DSZlXOWqdIEtevQ) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [Time On](https://open.spotify.com/album/1bIHKulVPftrMQwWKBOte7) | 3:48 | 2022-04-29 | 2022-07-16 |
 | [Time to Go!](https://open.spotify.com/track/6pLVmA6CTGYRsrQpxt5A49) | [Syd Taylor](https://open.spotify.com/artist/3dZ1fTizrmY5jfkf0jrvav) | [After the Fact](https://open.spotify.com/album/6BP85aqfZUNWeaG3lbLUux) | 2:28 | 2025-06-27 | 2025-08-18 |
 | [Time to Pretend \- Spotify Singles](https://open.spotify.com/track/2fyn9gJRCGG6o2u3EIGBjg) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [Time to Pretend \(Spotify Singles\)](https://open.spotify.com/album/1WNVeIIhcUl4dU2TerEdz7) | 4:03 | 2024-05-17 | 2024-07-09 |

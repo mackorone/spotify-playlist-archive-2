@@ -392,7 +392,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 194744,
       "name": "Anthem",
       "url": "https://open.spotify.com/track/2WaxEavbIServ6UOMJijd2"
@@ -1714,6 +1714,28 @@
       "duration_ms": 144600,
       "name": "I Get A Kick Out Of You",
       "url": "https://open.spotify.com/track/2GS0xi7GyKNT63khohKoPF"
+    },
+    {
+      "album": {
+        "name": "CHESS the Musical (2025 Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/27MXrcyr0fg5oABxibAMa5"
+      },
+      "artists": [
+        {
+          "name": "Lea Michele",
+          "url": "https://open.spotify.com/artist/16rJDrSGCHMXjPUuKwQcvp"
+        },
+        {
+          "name": "Hannah Cruz",
+          "url": "https://open.spotify.com/artist/4Okl6bPzDlvptmDBdFwLJw"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247386,
+      "name": "I Know Him So Well",
+      "url": "https://open.spotify.com/track/4B1vaV4uePLvX82UJGYkqC"
     },
     {
       "album": {
@@ -3347,6 +3369,28 @@
     },
     {
       "album": {
+        "name": "CHESS the Musical (2025 Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/27MXrcyr0fg5oABxibAMa5"
+      },
+      "artists": [
+        {
+          "name": "Aaron Tveit",
+          "url": "https://open.spotify.com/artist/68h2f0WXn4zEctSgNYozXx"
+        },
+        {
+          "name": "CHESS 2025 Broadway Company",
+          "url": "https://open.spotify.com/artist/6gfwuJdi9Bk7s41QgLAxiW"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197645,
+      "name": "One Night In Bangkok",
+      "url": "https://open.spotify.com/track/3oTOU2LBxHaSJmqtx3RDJG"
+    },
+    {
+      "album": {
         "name": "Wicked (Original Broadway Cast Recording / Deluxe Edition)",
         "url": "https://open.spotify.com/album/1woCvthHJakakroP6dXNxs"
       },
@@ -4288,6 +4332,32 @@
       "duration_ms": 213280,
       "name": "The Rainy Day We Met (from Maybe Happy Ending) - Original Broadway Cast Recording",
       "url": "https://open.spotify.com/track/2unUEpRfYNVGj0L3JPaOw1"
+    },
+    {
+      "album": {
+        "name": "Paddington The Musical (Original Cast Recording)",
+        "url": "https://open.spotify.com/album/1b40xdcn5sMrYc2zppIYPy"
+      },
+      "artists": [
+        {
+          "name": "Paddington The Musical",
+          "url": "https://open.spotify.com/artist/4yhYkrJARi1BP6W4Wi3C2w"
+        },
+        {
+          "name": "Timi Akinyosade",
+          "url": "https://open.spotify.com/artist/5QmVVvkcakxXg32VCzICP9"
+        },
+        {
+          "name": "Brenda Edwards",
+          "url": "https://open.spotify.com/artist/2pFpzM83iJHIwIK44eZWVo"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279370,
+      "name": "The Rhythm Of London",
+      "url": "https://open.spotify.com/track/3zQxAaETupt0KXeeqeqyTd"
     },
     {
       "album": {

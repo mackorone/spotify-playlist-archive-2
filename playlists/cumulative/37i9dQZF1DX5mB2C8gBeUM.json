@@ -3441,6 +3441,24 @@
     },
     {
       "album": {
+        "name": "GEORGIA (ROOTS)",
+        "url": "https://open.spotify.com/album/1sdClqOLPcxJn9LKekpY4r"
+      },
+      "artists": [
+        {
+          "name": "Niko Moon",
+          "url": "https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222306,
+      "name": "GEORGIA (ROOTS)",
+      "url": "https://open.spotify.com/track/7blNcHDs2kYlQ9eJNseo8u"
+    },
+    {
+      "album": {
         "name": "Georgia Ways (with Teddy Swims & Luke Bryan)",
         "url": "https://open.spotify.com/album/4MvWcgCB3dBfSgW8dctJ2h"
       },

@@ -4,7 +4,7 @@
 
 > Your weekly dose of new dance\. Cover: Luude
 
-3,896 songs - 8 day 21 hr 14 min
+3,896 songs - 8 day 21 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3526,7 +3526,6 @@
 | [Toxic](https://open.spotify.com/track/6bavRPbVF9voNZ4r6hTgVO) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Ragie Ban](https://open.spotify.com/artist/7lz52Oe1rAo5DwfSRwFsQL) | [Toxic](https://open.spotify.com/album/1dHYU7DWo9jAW6gphowkRn) | 2:44 | 2025-03-27 | 2025-05-02 |
 | [Toxic](https://open.spotify.com/track/0ZEI0seiT4dTdaeAG0Elpm) | [Sunset Bros](https://open.spotify.com/artist/2LNuTYPmlmFYnti5EJQoKQ), [Kormak](https://open.spotify.com/artist/2bPjd3e5EW7GfP6shz0Py5) | [Toxic](https://open.spotify.com/album/2IQ0X4YEGvqn9WPddpOxQp) | 2:48 | 2023-12-01 | 2024-01-12 |
 | [Toys](https://open.spotify.com/track/4kvlc8CUlIxiqZP3Z2TSUG) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [Rafael](https://open.spotify.com/artist/3DHC2ZUVADRKLSmqPcqvc6) | [Toys](https://open.spotify.com/album/1fbMRUAFSSUb3my9yo78cN) | 4:20 | 2024-04-11 | 2024-05-10 |
-| [Track 1](https://open.spotify.com/track/4XA2gU2B81oY0vR6HEWmqd) | [Upper90](https://open.spotify.com/artist/5ye3YheRaIaodo3nid7Wxz) | [New Nostalgia](https://open.spotify.com/album/2CLrBfyZ8KmsdOkF7COB3L) | 0:00 | 2026-04-09 |  |
 | [Traga ft\. STO Cultr](https://open.spotify.com/track/6RZ4uwBqEF0o9R0htuTCZ7) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [STO CULTR](https://open.spotify.com/artist/3rxaya7knZ0iL2myO6CX6G) | [Traga ft\. STO Cultr](https://open.spotify.com/album/5nthDQNJm6U72odQxQLH5v) | 3:59 | 2023-02-09 | 2023-03-10 |
 | [Transport God](https://open.spotify.com/track/7mMZlq2vNjjpBVYkMoaNjp) | [Whyte Fang](https://open.spotify.com/artist/6ziQKWMuCe0unfDXoqyVdt) | [Transport God](https://open.spotify.com/album/5IGurSLvJs2ZOPBqdZtuUF) | 2:12 | 2023-01-12 | 2023-02-17 |
 | [Trapped](https://open.spotify.com/track/28byfmQCZ3hJggUIFuaPiK) | [Tina Says](https://open.spotify.com/artist/4NStEEdNYCLBx2jwKGQhju) | [Trapped / Unreal](https://open.spotify.com/album/7uJvuYmxYopKjIDbO3TFKZ) | 3:29 | 2024-03-07 | 2024-04-05 |
@@ -3669,6 +3668,7 @@
 | [Wasted \- Yuto\. Remix](https://open.spotify.com/track/5h9FYgx3M1Gn23PeDcMRSb) | [Cadence](https://open.spotify.com/artist/2GXTCh27OeQa4ee7fTs1ha), [Sidney](https://open.spotify.com/artist/4nlincxLK6HxbApSH1MCR8), [Yuto.](https://open.spotify.com/artist/6UwoKdavvfpEGn6c4s8zAg) | [Wasted \(Yuto\. Remix\)](https://open.spotify.com/album/1YqzhK5sQPLl6OylOC4yyv) | 2:51 | 2024-02-16 | 2024-03-15 |
 | [WASTING TIME](https://open.spotify.com/track/5wrrrD16NokT83A7zONN2l) | [IN PARALLEL](https://open.spotify.com/artist/6xaiGRpXAB9JdoSy3gzw4H), [Baika](https://open.spotify.com/artist/2eS4YApdBBq5lPwh7hfj2l) | [WASTING TIME](https://open.spotify.com/album/7elPdVZxhx39jJ942o39uP) | 2:22 | 2025-04-24 | 2025-06-13 |
 | [Watch Me](https://open.spotify.com/track/3Zu4WIeXp4NbQZbcqv1MOr) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Watch Me](https://open.spotify.com/album/7qfq6ubyO9WY1vLFAMAC85) | 3:40 | 2023-11-16 | 2023-12-09 |
+| [Watch Over Me](https://open.spotify.com/track/4XA2gU2B81oY0vR6HEWmqd) | [Upper90](https://open.spotify.com/artist/5ye3YheRaIaodo3nid7Wxz) | [New Nostalgia](https://open.spotify.com/album/2CLrBfyZ8KmsdOkF7COB3L) | 4:10 | 2026-04-09 |  |
 | [watchin](https://open.spotify.com/track/01Jq8qmbANmVYqkpLUA4zv) | [For Life](https://open.spotify.com/artist/6Fr8UvJOgnnQNQZNSWzWCV) | [watchin](https://open.spotify.com/album/6Kov4JqwalTpKolB5Ntf0m) | 3:15 | 2023-11-23 | 2023-12-09 |
 | [Water](https://open.spotify.com/track/4Q2IUQo8YuoCqiRrDazKK4) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Water](https://open.spotify.com/album/2GyIYK9C2K870xKjo5HI9D) | 3:11 | 2023-11-16 | 2023-12-09 |
 | [Water Sign \(feat\. Aluna\)](https://open.spotify.com/track/5bIneqUqPsUuYi2gwuaXzU) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Water Sign \(feat\. Aluna\)](https://open.spotify.com/album/7jQdHXK0JnydEDPF0yUn2P) | 3:29 | 2024-10-24 | 2024-12-06 |

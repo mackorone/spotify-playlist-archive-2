@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Naye Indie gaano ka khazana, featuring Neyhal, Samad Khan,  Zodiac Wave and other exciting artists.\n",
+  "description": "Naye Indie gaano ka khazana, featuring Euphoria, Suzonn,  Shreya Jain and other exciting artists.\n",
   "name": "Naya Indiestan",
   "tracks": [
     {
@@ -4008,7 +4008,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 190666,
       "name": "Bewaqt",
       "url": "https://open.spotify.com/track/10dJ2BfbWaS0cy9DldrOob"
@@ -6480,7 +6480,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 174580,
       "name": "Dil Ki Nadani",
       "url": "https://open.spotify.com/track/1LkeeEfNJVy8x7kb4yRu63"
@@ -8750,7 +8750,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 187147,
       "name": "gulbahar",
       "url": "https://open.spotify.com/track/2LE6zZj17aW1U1aktMHnw8"
@@ -16805,6 +16805,28 @@
     },
     {
       "album": {
+        "name": "Marhaba",
+        "url": "https://open.spotify.com/album/4kCfwjaL8DhDfUwFn98FH0"
+      },
+      "artists": [
+        {
+          "name": "Euphoria",
+          "url": "https://open.spotify.com/artist/5puYkZFJ4JkrJGEYnMSNVd"
+        },
+        {
+          "name": "Palash Sen",
+          "url": "https://open.spotify.com/artist/33132SkzbRbOGL6fQBWHqQ"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225653,
+      "name": "Marhaba",
+      "url": "https://open.spotify.com/track/611RzhEYT8vSiLt24sKnm1"
+    },
+    {
+      "album": {
         "name": "Marham",
         "url": "https://open.spotify.com/album/6k1zkKFbiA2M9DEA0vdHsp"
       },
@@ -18295,6 +18317,28 @@
     },
     {
       "album": {
+        "name": "Love And Machines",
+        "url": "https://open.spotify.com/album/0fWfU1WJh4pwIof4eSei9m"
+      },
+      "artists": [
+        {
+          "name": "Midival Punditz",
+          "url": "https://open.spotify.com/artist/7GmnD2XZleQw8PPzRJV7FY"
+        },
+        {
+          "name": "Papon",
+          "url": "https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198006,
+      "name": "Na Jaaney Kyun",
+      "url": "https://open.spotify.com/track/7EZmoVJNJfda66TJ44aME6"
+    },
+    {
+      "album": {
         "name": "Na Na Na",
         "url": "https://open.spotify.com/album/0QDUhXQiHlLxWQpRriyva4"
       },
@@ -19268,6 +19312,32 @@
     {
       "album": {
         "name": "Noor",
+        "url": "https://open.spotify.com/album/6AQI6tq6HP33Wf3WUgev6S"
+      },
+      "artists": [
+        {
+          "name": "Arslan Nizami",
+          "url": "https://open.spotify.com/artist/5yzqUq3vXrMkmfcOwMY203"
+        },
+        {
+          "name": "Duha Shah",
+          "url": "https://open.spotify.com/artist/3l1qBa4ZTuNfYOap9WGbDQ"
+        },
+        {
+          "name": "Hyder Dar",
+          "url": "https://open.spotify.com/artist/7Khu2sHjq6VFAfiRLql5tt"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "Noor",
+      "url": "https://open.spotify.com/track/7s2e7TAiZtmIJK72ETrRZX"
+    },
+    {
+      "album": {
+        "name": "Noor",
         "url": "https://open.spotify.com/album/2AjN4gjLFrNFmPMys0ZjDC"
       },
       "artists": [
@@ -19928,6 +19998,36 @@
       "duration_ms": 199024,
       "name": "Parinda",
       "url": "https://open.spotify.com/track/1Uh2GbDBOv2ahTnZV3xXBT"
+    },
+    {
+      "album": {
+        "name": "Pariye Payan",
+        "url": "https://open.spotify.com/album/5HPD5lrnei0e1uEbpmmJPG"
+      },
+      "artists": [
+        {
+          "name": "Shyam Jain",
+          "url": "https://open.spotify.com/artist/4SReAY299rUeDixw2OBhjP"
+        },
+        {
+          "name": "Shreya Jain",
+          "url": "https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD"
+        },
+        {
+          "name": "Shruti Jain",
+          "url": "https://open.spotify.com/artist/7MdrBVqMl3p3bL0wrUkS2Z"
+        },
+        {
+          "name": "Nakul Chugh",
+          "url": "https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191911,
+      "name": "Pariye Payan",
+      "url": "https://open.spotify.com/track/68RyGtjDHqAPKgq3njtPSd"
     },
     {
       "album": {
@@ -21134,7 +21234,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 128407,
       "name": "Raina Jaage",
       "url": "https://open.spotify.com/track/3iXBl2sXTdSMJG4t0xioY6"
@@ -24218,7 +24318,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 151242,
       "name": "So Jaana",
       "url": "https://open.spotify.com/track/4Avuf1H2DQtyo10cQSaT9L"
@@ -24360,6 +24460,28 @@
       "duration_ms": 176156,
       "name": "Space Mein",
       "url": "https://open.spotify.com/track/2k0etpq0NUhxhMy5ZvWvEO"
+    },
+    {
+      "album": {
+        "name": "Starstruck",
+        "url": "https://open.spotify.com/album/2WJJRkBgHsxIkSX1o0Au6Z"
+      },
+      "artists": [
+        {
+          "name": "Kushagra",
+          "url": "https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6"
+        },
+        {
+          "name": "somanshu",
+          "url": "https://open.spotify.com/artist/0q7fw7pC9FcW9AUfIw4H5H"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156477,
+      "name": "Starstruck",
+      "url": "https://open.spotify.com/track/4B3Zu3ZkocQJ5uZ0LSVi2z"
     },
     {
       "album": {
@@ -25002,7 +25124,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 189729,
       "name": "Tanhaiyaan",
       "url": "https://open.spotify.com/track/6i4mVSCgUPbpNQxtQnKqe1"
@@ -28548,6 +28670,24 @@
       "duration_ms": 212432,
       "name": "Woh Main Hoon",
       "url": "https://open.spotify.com/track/1RxbNlquEzPxXO2O20axxp"
+    },
+    {
+      "album": {
+        "name": "Wujood",
+        "url": "https://open.spotify.com/album/50xoQvSY29s3EHfxtvEMkJ"
+      },
+      "artists": [
+        {
+          "name": "Suzonn",
+          "url": "https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249857,
+      "name": "Wujood",
+      "url": "https://open.spotify.com/track/0YnjxgtaKuU0eJbbezEYNI"
     },
     {
       "album": {

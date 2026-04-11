@@ -1,13 +1,77 @@
 {
-  "description": "The home of Canadian country music. Cover: Kalsey Kulyk",
-  "num_followers": 83755,
+  "description": "The home of Canadian country music. Cover: Tenille Townes",
+  "num_followers": 83777,
   "original_name": "North Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALxO56XalHX3GUSZLANM2a/gXZmB",
+  "snapshot_id": "AAAAAC/Byl8uSDaQt1q4swVrbiFd4mQ8",
   "tracks": [
+    {
+      "added_at": "2026-04-10 04:04:24",
+      "album": {
+        "name": "The Acrobat",
+        "url": "https://open.spotify.com/album/1VLxDl8t4mVEhcyInmnSH0"
+      },
+      "artists": [
+        {
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+        }
+      ],
+      "duration_ms": 148995,
+      "name": "ordinary love song",
+      "url": "https://open.spotify.com/track/17NrsW6bdRJzkUjCDnEEuj"
+    },
+    {
+      "added_at": "2026-04-10 04:04:24",
+      "album": {
+        "name": "Anything But Me",
+        "url": "https://open.spotify.com/album/1jpaJooKiwVkEIV4egj1Tz"
+      },
+      "artists": [
+        {
+          "name": "Owen Riegling",
+          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
+        }
+      ],
+      "duration_ms": 299453,
+      "name": "Anything But Me",
+      "url": "https://open.spotify.com/track/0A1gnuKVww2zEcZcu7seyu"
+    },
+    {
+      "added_at": "2026-04-10 04:04:24",
+      "album": {
+        "name": "If Somebody Told Me You Were Dying",
+        "url": "https://open.spotify.com/album/0izbYSBk32Aos3qHS2ZW1M"
+      },
+      "artists": [
+        {
+          "name": "Tenille Arts",
+          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
+        }
+      ],
+      "duration_ms": 185944,
+      "name": "If Somebody Told Me You Were Dying",
+      "url": "https://open.spotify.com/track/7AC8IxFKVkAbW7R8wJisUg"
+    },
+    {
+      "added_at": "2026-04-10 04:04:24",
+      "album": {
+        "name": "Last Time",
+        "url": "https://open.spotify.com/album/076sNIR2ABp6gR2w66aIyf"
+      },
+      "artists": [
+        {
+          "name": "Sully Burrows",
+          "url": "https://open.spotify.com/artist/5lCc0O15jryv68uC4A8McT"
+        }
+      ],
+      "duration_ms": 188210,
+      "name": "Last Time",
+      "url": "https://open.spotify.com/track/7rzdvbHWu26l6B6qt85Sgz"
+    },
     {
       "added_at": "2026-04-03 04:04:15",
       "album": {
@@ -23,6 +87,118 @@
       "duration_ms": 201468,
       "name": "Give 'Er Hell",
       "url": "https://open.spotify.com/track/0kopcRj073aQTVbQVeHWm3"
+    },
+    {
+      "added_at": "2026-03-27 04:01:06",
+      "album": {
+        "name": "Kingdom of Fear",
+        "url": "https://open.spotify.com/album/6nE9zag2eaoLn58KZSqRVZ"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "duration_ms": 161075,
+      "name": "Kingdom of Fear",
+      "url": "https://open.spotify.com/track/4Es6f0zquGHCrv9Hespx9W"
+    },
+    {
+      "added_at": "2026-04-10 04:04:24",
+      "album": {
+        "name": "Country Club",
+        "url": "https://open.spotify.com/album/4RxtNebG0fjQiC8ZM0P90x"
+      },
+      "artists": [
+        {
+          "name": "Brittany Kennell",
+          "url": "https://open.spotify.com/artist/5LqrMo8Uh0K7mJ6zoWd3CP"
+        }
+      ],
+      "duration_ms": 204277,
+      "name": "Country Club",
+      "url": "https://open.spotify.com/track/1ONn9Syk42LP1LAJ9Km2aU"
+    },
+    {
+      "added_at": "2026-04-10 04:04:24",
+      "album": {
+        "name": "Ride At Dawn",
+        "url": "https://open.spotify.com/album/6WRRYqCe2UFxw8xpvxHd6K"
+      },
+      "artists": [
+        {
+          "name": "Shawnee Kish",
+          "url": "https://open.spotify.com/artist/67KtTWjRTAU9ZkjRFnaffZ"
+        }
+      ],
+      "duration_ms": 166834,
+      "name": "Ride At Dawn",
+      "url": "https://open.spotify.com/track/7pTM9SbEDlonGGyN8bvu4w"
+    },
+    {
+      "added_at": "2026-04-10 04:04:24",
+      "album": {
+        "name": "Ain't Goin' Nowhere",
+        "url": "https://open.spotify.com/album/5Tt87rXPnepduWrmXs7tVU"
+      },
+      "artists": [
+        {
+          "name": "Shawn Austin",
+          "url": "https://open.spotify.com/artist/72iCV78mmAfr5s4A5dhjYg"
+        }
+      ],
+      "duration_ms": 208164,
+      "name": "Ain't Goin' Nowhere",
+      "url": "https://open.spotify.com/track/0Ko4G62bDwfZIDGpv3ORbW"
+    },
+    {
+      "added_at": "2026-04-10 04:04:24",
+      "album": {
+        "name": "The Other",
+        "url": "https://open.spotify.com/album/3b1tujPPLvZzlbpWnDzWvr"
+      },
+      "artists": [
+        {
+          "name": "Brandi Caroline",
+          "url": "https://open.spotify.com/artist/4W3vgO5COtH2sUKrPJUcjQ"
+        }
+      ],
+      "duration_ms": 195471,
+      "name": "The Other",
+      "url": "https://open.spotify.com/track/7pHBLvFot6YzbDH4M0am8j"
+    },
+    {
+      "added_at": "2026-03-20 04:01:39",
+      "album": {
+        "name": "Under The Influence",
+        "url": "https://open.spotify.com/album/2WERKp67qBnuJ1H8hMT0Y4"
+      },
+      "artists": [
+        {
+          "name": "Tyler Joe Miller",
+          "url": "https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM"
+        }
+      ],
+      "duration_ms": 201925,
+      "name": "Under The Influence",
+      "url": "https://open.spotify.com/track/48KR896jmozh3qJImcytaJ"
+    },
+    {
+      "added_at": "2026-04-10 04:04:24",
+      "album": {
+        "name": "I Like You Better",
+        "url": "https://open.spotify.com/album/5QYzFFGUdkrC7FBGLY2CRi"
+      },
+      "artists": [
+        {
+          "name": "Brian John Harwood",
+          "url": "https://open.spotify.com/artist/1G1bUq811pgPU3TAlPavy4"
+        }
+      ],
+      "duration_ms": 187109,
+      "name": "I Like You Better",
+      "url": "https://open.spotify.com/track/2huHrCWootpZzQvstBPKGp"
     },
     {
       "added_at": "2026-04-03 04:04:15",
@@ -57,22 +233,6 @@
       "url": "https://open.spotify.com/track/3ZCZ9lfSSjhLl9E1FJwrWK"
     },
     {
-      "added_at": "2026-03-27 04:01:06",
-      "album": {
-        "name": "Kingdom of Fear",
-        "url": "https://open.spotify.com/album/6nE9zag2eaoLn58KZSqRVZ"
-      },
-      "artists": [
-        {
-          "name": "Cameron Whitcomb",
-          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
-        }
-      ],
-      "duration_ms": 161075,
-      "name": "Kingdom of Fear",
-      "url": "https://open.spotify.com/track/4Es6f0zquGHCrv9Hespx9W"
-    },
-    {
       "added_at": "2026-04-03 04:04:15",
       "album": {
         "name": "The Truth We Hold",
@@ -87,6 +247,22 @@
       "duration_ms": 222933,
       "name": "One Of These Days",
       "url": "https://open.spotify.com/track/1ll5HKOjeWDnRlVpk4r0np"
+    },
+    {
+      "added_at": "2026-04-03 04:04:15",
+      "album": {
+        "name": "Dans l\u2019temps",
+        "url": "https://open.spotify.com/album/4kyxM6cCGRQFRDfHxik3gn"
+      },
+      "artists": [
+        {
+          "name": "Sara Dufour",
+          "url": "https://open.spotify.com/artist/3MSqVr13Lkb9iCiigUOm4S"
+        }
+      ],
+      "duration_ms": 187198,
+      "name": "Dans l\u2019temps",
+      "url": "https://open.spotify.com/track/1vFup6NBDo6yL5ubgErCo9"
     },
     {
       "added_at": "2026-03-13 04:01:34",
@@ -123,22 +299,6 @@
     {
       "added_at": "2026-04-03 04:04:15",
       "album": {
-        "name": "Dans l\u2019temps",
-        "url": "https://open.spotify.com/album/4kyxM6cCGRQFRDfHxik3gn"
-      },
-      "artists": [
-        {
-          "name": "Sara Dufour",
-          "url": "https://open.spotify.com/artist/3MSqVr13Lkb9iCiigUOm4S"
-        }
-      ],
-      "duration_ms": 187198,
-      "name": "Dans l\u2019temps",
-      "url": "https://open.spotify.com/track/1vFup6NBDo6yL5ubgErCo9"
-    },
-    {
-      "added_at": "2026-04-03 04:04:15",
-      "album": {
         "name": "Jesus Drank Whiskey",
         "url": "https://open.spotify.com/album/2zRtC3ctcX4AMfFd2Hdfyx"
       },
@@ -167,22 +327,6 @@
       "duration_ms": 170752,
       "name": "Cut Him Loose",
       "url": "https://open.spotify.com/track/0muNW8rIdKibQ53jYZtntK"
-    },
-    {
-      "added_at": "2026-03-20 04:01:39",
-      "album": {
-        "name": "Under The Influence",
-        "url": "https://open.spotify.com/album/2WERKp67qBnuJ1H8hMT0Y4"
-      },
-      "artists": [
-        {
-          "name": "Tyler Joe Miller",
-          "url": "https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM"
-        }
-      ],
-      "duration_ms": 201925,
-      "name": "Under The Influence",
-      "url": "https://open.spotify.com/track/48KR896jmozh3qJImcytaJ"
     },
     {
       "added_at": "2026-04-03 04:04:15",
@@ -1085,6 +1229,22 @@
       "url": "https://open.spotify.com/track/7Kp6frqhrF4iWZtPHFAZeh"
     },
     {
+      "added_at": "2025-10-06 15:31:33",
+      "album": {
+        "name": "Nobody Roads",
+        "url": "https://open.spotify.com/album/64uW030Bc4voTeBdJkz6Sp"
+      },
+      "artists": [
+        {
+          "name": "Josh Stumpf",
+          "url": "https://open.spotify.com/artist/3KtMd5CrHVTQd4g3Yq8Btj"
+        }
+      ],
+      "duration_ms": 210425,
+      "name": "Nobody Roads",
+      "url": "https://open.spotify.com/track/0z1WNPABTJVmhDG9WK8EHT"
+    },
+    {
       "added_at": "2026-01-16 05:01:18",
       "album": {
         "name": "I Don't Shine",
@@ -1747,22 +1907,6 @@
     {
       "added_at": "2026-01-09 05:01:23",
       "album": {
-        "name": "When Do We Stop Talking",
-        "url": "https://open.spotify.com/album/0Aw1GSjpqOgct55qda6dNH"
-      },
-      "artists": [
-        {
-          "name": "Parker Graye",
-          "url": "https://open.spotify.com/artist/5od7G79jgG9IA9ZOruwxM8"
-        }
-      ],
-      "duration_ms": 186959,
-      "name": "When Do We Stop Talking",
-      "url": "https://open.spotify.com/track/2dlTZcFwslAbXKufGp3zXV"
-    },
-    {
-      "added_at": "2026-01-09 05:01:23",
-      "album": {
         "name": "Call Again",
         "url": "https://open.spotify.com/album/3Xe3ReUIuziqbELyLxRs1f"
       },
@@ -1913,30 +2057,6 @@
       "url": "https://open.spotify.com/track/5xuF5KMWRnrY1Yhyp5aWCQ"
     },
     {
-      "added_at": "2026-01-09 05:01:23",
-      "album": {
-        "name": "Till The Wheels Fall Off",
-        "url": "https://open.spotify.com/album/5yjUESbR9eAe5GutYGSiP7"
-      },
-      "artists": [
-        {
-          "name": "The Road Hammers",
-          "url": "https://open.spotify.com/artist/1JEhLfoNDGbqu40txdS8go"
-        },
-        {
-          "name": "Tyler Connolly",
-          "url": "https://open.spotify.com/artist/39ZGpCbM3dvIl4okiBMtA4"
-        },
-        {
-          "name": "Ian Thornley",
-          "url": "https://open.spotify.com/artist/4UOnZpz8ci9OxltbLvGXjg"
-        }
-      ],
-      "duration_ms": 200985,
-      "name": "Till The Wheels Fall Off",
-      "url": "https://open.spotify.com/track/0otT7ehFIPb3GgqrMieC74"
-    },
-    {
       "added_at": "2025-11-28 05:01:04",
       "album": {
         "name": "County Line Five",
@@ -1999,22 +2119,6 @@
       "duration_ms": 202506,
       "name": "Memories and Empties",
       "url": "https://open.spotify.com/track/2dlgdp1u8EgOWOy2ABLpg7"
-    },
-    {
-      "added_at": "2026-01-09 05:01:23",
-      "album": {
-        "name": "Born Again",
-        "url": "https://open.spotify.com/album/4m8X1dy1NKN2R46GUBFpBh"
-      },
-      "artists": [
-        {
-          "name": "Owen Riegling",
-          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
-        }
-      ],
-      "duration_ms": 211991,
-      "name": "Born Again",
-      "url": "https://open.spotify.com/track/5hEsOCXxKpxn5n96Hzs4oV"
     },
     {
       "added_at": "2025-11-28 05:01:04",
@@ -2101,22 +2205,6 @@
       "url": "https://open.spotify.com/track/0W11nQLhkb6gfn1r19A4kl"
     },
     {
-      "added_at": "2025-10-06 15:31:33",
-      "album": {
-        "name": "Nobody Roads",
-        "url": "https://open.spotify.com/album/64uW030Bc4voTeBdJkz6Sp"
-      },
-      "artists": [
-        {
-          "name": "Josh Stumpf",
-          "url": "https://open.spotify.com/artist/3KtMd5CrHVTQd4g3Yq8Btj"
-        }
-      ],
-      "duration_ms": 210425,
-      "name": "Nobody Roads",
-      "url": "https://open.spotify.com/track/0z1WNPABTJVmhDG9WK8EHT"
-    },
-    {
       "added_at": "2025-10-31 00:01:28",
       "album": {
         "name": "Sometimes It Don't",
@@ -2131,22 +2219,6 @@
       "duration_ms": 210182,
       "name": "Sometimes It Don't",
       "url": "https://open.spotify.com/track/1V6ImmKDA2wOXfcJdAr4DW"
-    },
-    {
-      "added_at": "2025-11-14 12:09:53",
-      "album": {
-        "name": "Love Can Build A Bridge",
-        "url": "https://open.spotify.com/album/77l3iPJ4UxNjefOz4isYY9"
-      },
-      "artists": [
-        {
-          "name": "Shawnee Kish",
-          "url": "https://open.spotify.com/artist/67KtTWjRTAU9ZkjRFnaffZ"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Love Can Build A Bridge",
-      "url": "https://open.spotify.com/track/1t3YIOY6n3Rc54sJaetCQf"
     },
     {
       "added_at": "2025-11-07 00:01:45",
@@ -2219,22 +2291,6 @@
       "duration_ms": 145100,
       "name": "Keep on Truckin'",
       "url": "https://open.spotify.com/track/2grFyPMwj6cFj9ONYhiWjh"
-    },
-    {
-      "added_at": "2025-11-07 00:01:45",
-      "album": {
-        "name": "Reckless Nights",
-        "url": "https://open.spotify.com/album/4Eglxfn1nm9eE1XPGXSWu8"
-      },
-      "artists": [
-        {
-          "name": "Andy Colonico",
-          "url": "https://open.spotify.com/artist/3u3WCmcBDZw4Ow4sDft4kO"
-        }
-      ],
-      "duration_ms": 233541,
-      "name": "Reckless Nights",
-      "url": "https://open.spotify.com/track/4GdfLxFLb7NhaIrFopsUPP"
     },
     {
       "added_at": "2025-10-06 15:31:33",
@@ -2319,22 +2375,6 @@
     {
       "added_at": "2025-10-17 04:01:39",
       "album": {
-        "name": "Forever Reckless",
-        "url": "https://open.spotify.com/album/5OPcl6xUd78hZmshYVKpdE"
-      },
-      "artists": [
-        {
-          "name": "Rick Duff",
-          "url": "https://open.spotify.com/artist/4MNUaMf0Yl05yY6x342xBH"
-        }
-      ],
-      "duration_ms": 224819,
-      "name": "One Hell Of A Night",
-      "url": "https://open.spotify.com/track/581jm0RBSUfwuX6K3GCc81"
-    },
-    {
-      "added_at": "2025-10-17 04:01:39",
-      "album": {
         "name": "South Side of Sober",
         "url": "https://open.spotify.com/album/7bIHEOowAoqBJFY8DKmLwO"
       },
@@ -2347,22 +2387,6 @@
       "duration_ms": 149715,
       "name": "South Side of Sober",
       "url": "https://open.spotify.com/track/1XctHNqa8Ev0jJmd5uSlKz"
-    },
-    {
-      "added_at": "2025-10-17 04:01:39",
-      "album": {
-        "name": "Walk Away Wishing",
-        "url": "https://open.spotify.com/album/2WcgHoUuXM6uQ7R6MHVXQS"
-      },
-      "artists": [
-        {
-          "name": "Trudy",
-          "url": "https://open.spotify.com/artist/4lBFE3enDio6Yb5xJaXbWS"
-        }
-      ],
-      "duration_ms": 165017,
-      "name": "Walk Away Wishing",
-      "url": "https://open.spotify.com/track/6qy7R1oYughuKogqTbIytH"
     },
     {
       "added_at": "2025-10-18 21:43:18",
@@ -2379,46 +2403,6 @@
       "duration_ms": 177491,
       "name": "Angel",
       "url": "https://open.spotify.com/track/2o3iV0wXd1uhSp2M0vBM0A"
-    },
-    {
-      "added_at": "2025-10-10 00:01:13",
-      "album": {
-        "name": "Hearts Don't Break",
-        "url": "https://open.spotify.com/album/3CqFzCygjaA2cnaKdp4NSB"
-      },
-      "artists": [
-        {
-          "name": "Taylor-Rae",
-          "url": "https://open.spotify.com/artist/0DlnbmX0kuF1v8xzxxtqN8"
-        },
-        {
-          "name": "Antonio Larosa",
-          "url": "https://open.spotify.com/artist/6Dq03yxvWqvZPoZR7OWbZX"
-        }
-      ],
-      "duration_ms": 193121,
-      "name": "Hearts Don't Break",
-      "url": "https://open.spotify.com/track/4MK4jsFbuW2yjAZGxLpIdb"
-    },
-    {
-      "added_at": "2025-10-06 15:31:33",
-      "album": {
-        "name": "Sweetheart",
-        "url": "https://open.spotify.com/album/1zTSjTGULbtRDD3CegA3fO"
-      },
-      "artists": [
-        {
-          "name": "Robert Adam",
-          "url": "https://open.spotify.com/artist/1nQfw4PecsFq0uw4Cj1z7u"
-        },
-        {
-          "name": "Heather May",
-          "url": "https://open.spotify.com/artist/0TOvV5tNC8JiVcFCIHvQRM"
-        }
-      ],
-      "duration_ms": 208072,
-      "name": "Sweetheart",
-      "url": "https://open.spotify.com/track/24xjUcJR7tcftc2N146WFm"
     }
   ],
   "unique_name": "North Country",

@@ -2,13 +2,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 ### [Na Zona](https://open.spotify.com/playlist/37i9dQZF1DXdpF2suW27SP)
 
-> LON3R Johnny entra na zona.
+> LON3R JOHNY entra na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,937 likes - 70 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,993 likes - 70 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 7](https://open.spotify.com/track/7gHPjqCdGSstIBz1knykYn) | [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd) | [94](https://open.spotify.com/album/0NqDtwq1iiuEqNrL0mkePy) | 0:00 |
+| 1 | [25 DE ABRIL \(feat\. Plutonio\)](https://open.spotify.com/track/7gHPjqCdGSstIBz1knykYn) | [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd), [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [94](https://open.spotify.com/album/0NqDtwq1iiuEqNrL0mkePy) | 2:52 |
 | 2 | [YOU](https://open.spotify.com/track/67hRfkimnr96M2zPmcfrJZ) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [YOU](https://open.spotify.com/album/7fR9AC0fV437sT5qBEWFhk) | 3:29 |
 | 3 | [O Juízo Final](https://open.spotify.com/track/4rZZ7sgIafZFElHmfevhJw) | [Prodígio](https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5), [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [A Última Ceia Do Bandido](https://open.spotify.com/album/0CLQ3efyc9neJzkRjERGKf) | 3:32 |
 | 4 | [Bem Zen](https://open.spotify.com/track/0EheRsG3tZgIYAVP3m9b0u) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [+ Reservado](https://open.spotify.com/album/65EamwZnZsgVnompZedhm4) | 2:55 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 69 | [Notas & Traumas \(feat\. Agir\)](https://open.spotify.com/track/1l2ufC3Dh2gUNpoNjGxLtC) | [Dengaz](https://open.spotify.com/artist/4nT1hsAySSK78ycor1bVn0), [Agir](https://open.spotify.com/artist/6CDebPALpa0iwJyx0IgnaC) | [Notas & Traumas \(feat\. Agir\)](https://open.spotify.com/album/6JKj7u3UJS7UoLYmFC8q70) | 2:41 |
 | 70 | [Deja Vu](https://open.spotify.com/track/3aqIh3m5MIBlt91YCLwfrv) | [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1), [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Deja Vu](https://open.spotify.com/album/1R11gIJLYoU3nK84eXD5Lu) | 2:58 |
 
-Snapshot ID: `AAAAABVJmp6DSBgXHXBJhrhjvCBbYoCE`
+Snapshot ID: `AAAAAJD0AQgqNxGPZCItEyHfc7eDQFkS`

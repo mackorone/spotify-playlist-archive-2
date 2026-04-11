@@ -124,7 +124,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 133782,
       "name": "A Curious Little Friend",
       "url": "https://open.spotify.com/track/2UgUf29QyY9PNX6FmapgMC"
@@ -1852,7 +1852,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 131687,
       "name": "Bedtime Tales",
       "url": "https://open.spotify.com/track/2kk2KURZJMrhlXIIe13M0w"
@@ -2000,6 +2000,24 @@
       "duration_ms": 107250,
       "name": "Beneath a Summer Sky",
       "url": "https://open.spotify.com/track/3jqgSCeCfn179Gu9gVHFOL"
+    },
+    {
+      "album": {
+        "name": "Beneath a Twinkling Star",
+        "url": "https://open.spotify.com/album/3mCEpKqxKg0P7xXxTyxWJH"
+      },
+      "artists": [
+        {
+          "name": "Francis Star",
+          "url": "https://open.spotify.com/artist/3uMHTWAWoFInTEN0r4d3BF"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108050,
+      "name": "Beneath a Twinkling Star",
+      "url": "https://open.spotify.com/track/5gJ9IdRJSmyRQfOk2ULnl2"
     },
     {
       "album": {
@@ -5945,6 +5963,24 @@
     },
     {
       "album": {
+        "name": "Gentle Dreamer",
+        "url": "https://open.spotify.com/album/4syXWVrsTz81nJGduhhCqv"
+      },
+      "artists": [
+        {
+          "name": "Elysia Blue",
+          "url": "https://open.spotify.com/artist/2k5sFyfe6qC2VU3NFFHqEL"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111000,
+      "name": "Gentle Dreamer",
+      "url": "https://open.spotify.com/track/0liNI6zknYOETQUMutNwtz"
+    },
+    {
+      "album": {
         "name": "Gentle Dreams",
         "url": "https://open.spotify.com/album/6d9jrEM1JZqllV7I27h5BI"
       },
@@ -7533,6 +7569,24 @@
     },
     {
       "album": {
+        "name": "Hush Little Friend",
+        "url": "https://open.spotify.com/album/5hQC17gTAIKxd8ddAIryam"
+      },
+      "artists": [
+        {
+          "name": "Soothing Sandman",
+          "url": "https://open.spotify.com/artist/2hXy2uPUnu9UEnYUwGTNZy"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89500,
+      "name": "Hush Little Friend",
+      "url": "https://open.spotify.com/track/3hnGLe9oPVSy5PCrmz9Ih3"
+    },
+    {
+      "album": {
         "name": "Hush My Darling",
         "url": "https://open.spotify.com/album/5V5pR3LpovfAIFR6GeMuN7"
       },
@@ -8300,7 +8354,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 89000,
       "name": "Iris",
       "url": "https://open.spotify.com/track/44uqQJfPv3LO9p4Zt8CyIH"
@@ -9092,7 +9146,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 112355,
       "name": "Le Mieux",
       "url": "https://open.spotify.com/track/6qAY1YWDswimKss02PPbiB"
@@ -12429,6 +12483,24 @@
     },
     {
       "album": {
+        "name": "Night Blossom",
+        "url": "https://open.spotify.com/album/2vemQhyisIjFtTHOBgzCBw"
+      },
+      "artists": [
+        {
+          "name": "Nolan Wren",
+          "url": "https://open.spotify.com/artist/1bglI3t0xRpDdeiYugmOz0"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117828,
+      "name": "Night Blossom",
+      "url": "https://open.spotify.com/track/2xBkQEeRYOaRRGBbywKwcr"
+    },
+    {
+      "album": {
         "name": "Night Time",
         "url": "https://open.spotify.com/album/7e7q7EN2MBZ3efkL9rcbYA"
       },
@@ -13186,6 +13258,24 @@
       "duration_ms": 156000,
       "name": "Over The Rainbow",
       "url": "https://open.spotify.com/track/0z8WSsrrCRw0gxj7DxEVK8"
+    },
+    {
+      "album": {
+        "name": "Pancake Parade",
+        "url": "https://open.spotify.com/album/5HCo0fdNeWuaVXxdhaCFbE"
+      },
+      "artists": [
+        {
+          "name": "Steinar Lugn",
+          "url": "https://open.spotify.com/artist/4t0C7gwYJn7VTcCU5os2m1"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88155,
+      "name": "Pancake Parade",
+      "url": "https://open.spotify.com/track/5OP2hdqC2DzWD7Dm9uFf2p"
     },
     {
       "album": {
@@ -15112,7 +15202,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 93500,
       "name": "Sirene",
       "url": "https://open.spotify.com/track/3iAVV3uznI2zqJ6IXv1GUz"
@@ -16754,6 +16844,24 @@
       "duration_ms": 75803,
       "name": "Som stj\u00e4rnor sm\u00e5",
       "url": "https://open.spotify.com/track/4zkjDKRClIoGCjzVzh4x6R"
+    },
+    {
+      "album": {
+        "name": "Somebody's Dream",
+        "url": "https://open.spotify.com/album/0Aj3WSTfEKSRoJuxN5z2z1"
+      },
+      "artists": [
+        {
+          "name": "Fab Greenwich",
+          "url": "https://open.spotify.com/artist/35OzUznezj2Y175Y1fekEg"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78624,
+      "name": "Somebody's Dream",
+      "url": "https://open.spotify.com/track/6iG7WjFdc5S3jxlNLvTUta"
     },
     {
       "album": {
@@ -21358,7 +21466,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 115914,
       "name": "Whispering Stars",
       "url": "https://open.spotify.com/track/1iWib3qZhkQSVQRW0l2mir"

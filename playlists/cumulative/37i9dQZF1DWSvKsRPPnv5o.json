@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Holdin' it down for the westside. Cover: YG and Ty Dolla $ign",
+  "description": "Holdin' it down for the westside. Cover: Snoop Dogg",
   "name": "Westside",
   "tracks": [
     {
@@ -3206,7 +3206,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 153398,
       "name": "BAY VIBEZ",
       "url": "https://open.spotify.com/track/6NS9hvtS9896ncaAw5Ty1K"
@@ -3382,6 +3382,32 @@
       "duration_ms": 141531,
       "name": "Beat The Yacci (feat. Blueface & Mike Crook)",
       "url": "https://open.spotify.com/track/4HAblGHDRJcwYeuCbJOwYa"
+    },
+    {
+      "album": {
+        "name": "Quik Flip",
+        "url": "https://open.spotify.com/album/7yldo3BKdTIfT5kf4YRSC9"
+      },
+      "artists": [
+        {
+          "name": "JasonMartin",
+          "url": "https://open.spotify.com/artist/0399oiMcmbOzzsYQDNYqxn"
+        },
+        {
+          "name": "Dj Flippp",
+          "url": "https://open.spotify.com/artist/4MyJFvr1LOniuQPUcqa0aw"
+        },
+        {
+          "name": "Fenix Flexin",
+          "url": "https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212232,
+      "name": "Bed Rest",
+      "url": "https://open.spotify.com/track/3hzPdQzoswzPhbHX4bHgyP"
     },
     {
       "album": {
@@ -4686,7 +4712,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 132363,
       "name": "BOW",
       "url": "https://open.spotify.com/track/61TRLUFjOYglAKNFzgfFfh"
@@ -7278,7 +7304,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 125054,
       "name": "CUT UP",
       "url": "https://open.spotify.com/track/7JEvphBBcnSXxxAmcTGCpX"
@@ -7464,6 +7490,32 @@
       "duration_ms": 106374,
       "name": "Dawg House",
       "url": "https://open.spotify.com/track/4OWhcwHOnB7ZLGJI0Fo4oN"
+    },
+    {
+      "album": {
+        "name": "Day After Day (feat. Lori Perry)",
+        "url": "https://open.spotify.com/album/5SR4FxTHW3yTLbFZZmO1uP"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Big Sad 1900",
+          "url": "https://open.spotify.com/artist/6CPTMFjo7Sq3ACuzHsXVkt"
+        },
+        {
+          "name": "Lori Perry",
+          "url": "https://open.spotify.com/artist/5D4g8u0UfgSFcisAei0qPI"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "Day After Day (feat. Lori Perry)",
+      "url": "https://open.spotify.com/track/4deVP1zpdGKQs5QRqTvE3i"
     },
     {
       "album": {
@@ -8196,7 +8248,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 238250,
       "name": "Doin Too Much (feat. Isaiah Jaay)",
       "url": "https://open.spotify.com/track/6jLbOKIVXGx4pPGQEc1t6a"
@@ -8519,6 +8571,24 @@
     },
     {
       "album": {
+        "name": "Simmie Sims III",
+        "url": "https://open.spotify.com/album/27CufK7Chv4FrKdvsob35j"
+      },
+      "artists": [
+        {
+          "name": "Buddy",
+          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151578,
+      "name": "Don't Rush",
+      "url": "https://open.spotify.com/track/2PJgcUreYPU3tZvskDEuPO"
+    },
+    {
+      "album": {
         "name": "Don't Say",
         "url": "https://open.spotify.com/album/7DD3mYOaPTQZyeRxs4DLw5"
       },
@@ -8822,7 +8892,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 209600,
       "name": "Drive Alone",
       "url": "https://open.spotify.com/track/52O0lWLhF9VoOVACnlnAnS"
@@ -12170,7 +12240,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 152997,
       "name": "Get To It",
       "url": "https://open.spotify.com/track/30gLkMvn3raTaXGdDb6iZc"
@@ -14794,6 +14864,28 @@
       "duration_ms": 155224,
       "name": "How's Life?",
       "url": "https://open.spotify.com/track/4quJwx6ONmYjepFCFUeE9V"
+    },
+    {
+      "album": {
+        "name": "Humble'Em_PINK / Doin Too Much",
+        "url": "https://open.spotify.com/album/0j9CJn69fdtymqVXfKo4EA"
+      },
+      "artists": [
+        {
+          "name": "REASON",
+          "url": "https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o"
+        },
+        {
+          "name": "CUZZOS",
+          "url": "https://open.spotify.com/artist/0TY3Wab2Z1kmp5jZoxdPjZ"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208502,
+      "name": "Humble'Em_PINK",
+      "url": "https://open.spotify.com/track/542GAgyvyAmFEKgSsUAPUl"
     },
     {
       "album": {
@@ -18973,6 +19065,24 @@
     },
     {
       "album": {
+        "name": "Me & Mines",
+        "url": "https://open.spotify.com/album/5QEKJRCEGv7ZFQDjhLZ6TW"
+      },
+      "artists": [
+        {
+          "name": "RJMrLA",
+          "url": "https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190566,
+      "name": "Me & Mines",
+      "url": "https://open.spotify.com/track/78mE5FiBnZLGy6yuwfW1b7"
+    },
+    {
+      "album": {
         "name": "Iz It a Crime?",
         "url": "https://open.spotify.com/album/2EDW8OhiHdB2UtE6PCAxZD"
       },
@@ -21310,7 +21420,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 155744,
       "name": "NOT ME",
       "url": "https://open.spotify.com/track/5SZ4q71Sfy2GbrqMoglJr1"
@@ -22240,7 +22350,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 155375,
       "name": "Onetake",
       "url": "https://open.spotify.com/track/1pxFyeSk93gM5G8lawVk8j"
@@ -23968,6 +24078,28 @@
       "duration_ms": 189600,
       "name": "Pop It Off",
       "url": "https://open.spotify.com/track/41Rb31TeUfCQqSHrPTbsrL"
+    },
+    {
+      "album": {
+        "name": "10 Til' Midnight",
+        "url": "https://open.spotify.com/album/2A1wHE90Z5Aj3TSQVhyU4Y"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Trinidad James",
+          "url": "https://open.spotify.com/artist/0I5HubncQ8E1MFZOlPDY4J"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151989,
+      "name": "Pop My Shit",
+      "url": "https://open.spotify.com/track/0QbymLm4MoSx2SrTYM2b82"
     },
     {
       "album": {
@@ -28165,6 +28297,28 @@
     },
     {
       "album": {
+        "name": "10 Til' Midnight",
+        "url": "https://open.spotify.com/album/2A1wHE90Z5Aj3TSQVhyU4Y"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Swizz Beatz",
+          "url": "https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214723,
+      "name": "Step",
+      "url": "https://open.spotify.com/track/3Kv6sMC4N5zEWkTugluCV8"
+    },
+    {
+      "album": {
         "name": "Step For Me",
         "url": "https://open.spotify.com/album/5dr8x0eAwGR7SaQylNBodR"
       },
@@ -28394,7 +28548,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 160007,
       "name": "Still Nothing",
       "url": "https://open.spotify.com/track/0hACM4S2OmnfCxi4kqt1TV"
@@ -29194,7 +29348,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 136875,
       "name": "Switches & Dracs",
       "url": "https://open.spotify.com/track/4xEx8Q7Iqtktk2BoeX36zU"
@@ -29340,6 +29494,24 @@
       "duration_ms": 144200,
       "name": "talk 2 em",
       "url": "https://open.spotify.com/track/7L4gDJcbomtunXe5zEgYGZ"
+    },
+    {
+      "album": {
+        "name": "TALK LIKE THIS",
+        "url": "https://open.spotify.com/album/52FRwwCptm0Mbu1DRpw20i"
+      },
+      "artists": [
+        {
+          "name": "Peysoh",
+          "url": "https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132244,
+      "name": "TALK LIKE THIS",
+      "url": "https://open.spotify.com/track/6GiyYwhB1nFxXjx2vsYISo"
     },
     {
       "album": {
@@ -29690,6 +29862,24 @@
       "duration_ms": 193488,
       "name": "Terry Davis",
       "url": "https://open.spotify.com/track/5CxvjoDRlsRZeYxJgvvzU1"
+    },
+    {
+      "album": {
+        "name": "TFIGO?!",
+        "url": "https://open.spotify.com/album/7izSCy6vWzOjJ7YoJdlRRl"
+      },
+      "artists": [
+        {
+          "name": "detahjae",
+          "url": "https://open.spotify.com/artist/7hx5UNqYxEh0RnyWRExG7g"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129000,
+      "name": "TFIGO?!",
+      "url": "https://open.spotify.com/track/6H49JLIsA3GZFm8I6ljr4l"
     },
     {
       "album": {
@@ -31506,7 +31696,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 180839,
       "name": "UHHH",
       "url": "https://open.spotify.com/track/2dZxA09hVAbFrxYfqCvO5C"
@@ -32277,6 +32467,28 @@
     },
     {
       "album": {
+        "name": "Wata",
+        "url": "https://open.spotify.com/album/0Y87XYGHA1o8ZtaNdXd7pu"
+      },
+      "artists": [
+        {
+          "name": "Ovrkast.",
+          "url": "https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7"
+        },
+        {
+          "name": "Niontay",
+          "url": "https://open.spotify.com/artist/3wkT6THiKqbXC0jJpfKL7t"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113824,
+      "name": "Wata",
+      "url": "https://open.spotify.com/track/6zuBr0T4FNsaqT0ThVRDZF"
+    },
+    {
+      "album": {
         "name": "Still Easty",
         "url": "https://open.spotify.com/album/6USgkbXy83bqB4eZFDJcmZ"
       },
@@ -33036,7 +33248,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 152210,
       "name": "Why",
       "url": "https://open.spotify.com/track/5m7WSCHb0I8wBSAM0xAVOq"
@@ -33876,6 +34088,28 @@
       "duration_ms": 148800,
       "name": "You're A Jerk 2",
       "url": "https://open.spotify.com/track/5aXplC3gYU14i6HW5Fpaer"
+    },
+    {
+      "album": {
+        "name": "Beezy World",
+        "url": "https://open.spotify.com/album/0HfM0XcgxNGGGAnaZxddFH"
+      },
+      "artists": [
+        {
+          "name": "Heembeezy",
+          "url": "https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei"
+        },
+        {
+          "name": "310babii",
+          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176496,
+      "name": "Yucky",
+      "url": "https://open.spotify.com/track/3Qv2VKSNhPHEteCXreaeiE"
     },
     {
       "album": {

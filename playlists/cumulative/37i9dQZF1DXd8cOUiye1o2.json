@@ -3180,7 +3180,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 143086,
       "name": "Delhi Se Manali (Ladka Tera Diwana)",
       "url": "https://open.spotify.com/track/7EL1imZ2943VqtWJ65TVtX"
@@ -3424,7 +3424,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 200512,
       "name": "Dhoop",
       "url": "https://open.spotify.com/track/62XHNQFlRz62edjBpdoYt5"
@@ -6566,7 +6566,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 243750,
       "name": "Jamuna Kinaare",
       "url": "https://open.spotify.com/track/5EMzjJF46nOPU9kmM1jatd"
@@ -9061,6 +9061,36 @@
     },
     {
       "album": {
+        "name": "Mera Jee Nahi Bhara (From \"Maatrubhumi: May War Rest in Peace\")",
+        "url": "https://open.spotify.com/album/4Q4ZDA8WEq1p3z1BRnfBM2"
+      },
+      "artists": [
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        },
+        {
+          "name": "Shamir Tandon",
+          "url": "https://open.spotify.com/artist/5l78zXA0RNE96IP45w3d5t"
+        },
+        {
+          "name": "Kumar Gaurav Singh",
+          "url": "https://open.spotify.com/artist/7qEZJYicYMbczsEG3x1RL0"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245368,
+      "name": "Mera Jee Nahi Bhara (From \"Maatrubhumi: May War Rest in Peace\")",
+      "url": "https://open.spotify.com/track/3XPEDdg9Zpms1WWeTI63S2"
+    },
+    {
+      "album": {
         "name": "Rana Naidu Season 2 (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/0l9QKKZG09kkACPJ5raPM3"
       },
@@ -9210,7 +9240,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 211267,
       "name": "Mileya Eh Mahiya",
       "url": "https://open.spotify.com/track/4HNPthuf16z4D04qJXEAFM"
@@ -9576,6 +9606,28 @@
       "duration_ms": 243750,
       "name": "Na Ja Re",
       "url": "https://open.spotify.com/track/4yLCmbKDYY61XYHzrzdcnu"
+    },
+    {
+      "album": {
+        "name": "Love And Machines",
+        "url": "https://open.spotify.com/album/0fWfU1WJh4pwIof4eSei9m"
+      },
+      "artists": [
+        {
+          "name": "Midival Punditz",
+          "url": "https://open.spotify.com/artist/7GmnD2XZleQw8PPzRJV7FY"
+        },
+        {
+          "name": "Papon",
+          "url": "https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198006,
+      "name": "Na Jaaney Kyun",
+      "url": "https://open.spotify.com/track/7EZmoVJNJfda66TJ44aME6"
     },
     {
       "album": {
@@ -10570,6 +10622,36 @@
       "duration_ms": 231739,
       "name": "Pardesiya - From \"Param Sundari\"",
       "url": "https://open.spotify.com/track/0q84FggW57NXGtLHoetS0Y"
+    },
+    {
+      "album": {
+        "name": "Pariye Payan",
+        "url": "https://open.spotify.com/album/5HPD5lrnei0e1uEbpmmJPG"
+      },
+      "artists": [
+        {
+          "name": "Shyam Jain",
+          "url": "https://open.spotify.com/artist/4SReAY299rUeDixw2OBhjP"
+        },
+        {
+          "name": "Shreya Jain",
+          "url": "https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD"
+        },
+        {
+          "name": "Shruti Jain",
+          "url": "https://open.spotify.com/artist/7MdrBVqMl3p3bL0wrUkS2Z"
+        },
+        {
+          "name": "Nakul Chugh",
+          "url": "https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191911,
+      "name": "Pariye Payan",
+      "url": "https://open.spotify.com/track/68RyGtjDHqAPKgq3njtPSd"
     },
     {
       "album": {
@@ -13873,7 +13955,7 @@
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 338070,
+      "duration_ms": 339130,
       "name": "Tere Ishq Ne (From \"Dhurandhar The Revenge\")",
       "url": "https://open.spotify.com/track/6iMasiFzpQt3Y8c9EnITCP"
     },
@@ -14633,6 +14715,28 @@
     },
     {
       "album": {
+        "name": "Tu Jo Hai Meri Taraf",
+        "url": "https://open.spotify.com/album/6dXsRD4XtjLbWqHdXbT9gw"
+      },
+      "artists": [
+        {
+          "name": "Prakhar Jojan",
+          "url": "https://open.spotify.com/artist/6NkGiUlpPzp6ag3kBT5SBh"
+        },
+        {
+          "name": "Neerav",
+          "url": "https://open.spotify.com/artist/7aComsMRIWTm2cVTxMqdqO"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210513,
+      "name": "Tu Jo Hai Meri Taraf",
+      "url": "https://open.spotify.com/track/5SNBvlvSdqPUatWH8s2ZrS"
+    },
+    {
+      "album": {
         "name": "Tu Kahan",
         "url": "https://open.spotify.com/album/3517f2paPRHjXd8A3J8aWD"
       },
@@ -15205,7 +15309,7 @@
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 249047,
+      "duration_ms": 250040,
       "name": "Vaari Jaavan (From \"Dhurandhar The Revenge\")",
       "url": "https://open.spotify.com/track/1qJiRzRlmNrzYBsMdVPqT2"
     },

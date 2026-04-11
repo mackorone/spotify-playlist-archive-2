@@ -1397,6 +1397,28 @@
     },
     {
       "album": {
+        "name": "Going For Broke",
+        "url": "https://open.spotify.com/album/2mRwEOKp991B7Y2iozeazS"
+      },
+      "artists": [
+        {
+          "name": "Zai1k",
+          "url": "https://open.spotify.com/artist/2ORU5xiGsr9qfRKNvZ3UII"
+        },
+        {
+          "name": "Paige Penney",
+          "url": "https://open.spotify.com/artist/0FigqVH0Qm6GRL5p2QckzI"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194161,
+      "name": "Going For Broke",
+      "url": "https://open.spotify.com/track/2PZ17nwxB53bUCBl210ijD"
+    },
+    {
+      "album": {
         "name": "Bettie James",
         "url": "https://open.spotify.com/album/7wftPNQFSMYlpxzNMPHo1h"
       },

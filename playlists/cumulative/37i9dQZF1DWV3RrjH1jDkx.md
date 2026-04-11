@@ -4,7 +4,7 @@
 
 > Endelig fredag og ny musikk fra Ramón, Holly Humberstone, Roc Boyz & VC Barre og mange flere!🎵
 
-10,315 songs - 22 day 7 hr 27 min
+10,318 songs - 22 day 7 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -677,6 +677,7 @@
 | [Bacchanal \(vem bryr sej om 200 år!?\)](https://open.spotify.com/track/0OQFqa9Iu94v7n0pH3f3XA) | [HOFFMAESTRO](https://open.spotify.com/artist/6hL8IlB7tKuRiqChLyEJGr), [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES) | [Bacchanal \(vem bryr sej om 200 år!?\)](https://open.spotify.com/album/6Q3yzxOqe25kwUTDH3JPWD) | 2:45 | 2025-06-05 | 2025-06-13 |
 | [Back 2 Back](https://open.spotify.com/track/13DIg33b655IuPHHdnlimm) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Back 2 Back](https://open.spotify.com/album/4lnsaWcuoXUzDINVbyG9ak) | 3:07 | 2025-08-22 | 2025-08-30 |
 | [Back Again](https://open.spotify.com/track/5xgyunRLVx3yF09LF0C0ka) | [cortex](https://open.spotify.com/artist/7h1gWbG7KDMC8NduLP3H2i) | [Back Again](https://open.spotify.com/album/7FcRHmYreISlTk2W3bF8rt) | 2:38 | 2025-08-01 | 2025-08-09 |
+| [Back and Forth \(feat\. Missy Elliott\)](https://open.spotify.com/track/6t263UZVjI9nnHfr7eeLW4) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Back and Forth \(feat\. Missy Elliott\)](https://open.spotify.com/album/3yb1H4Mf6annZTGWpmAoCW) | 3:34 | 2026-04-09 |  |
 | [Back At Your Door](https://open.spotify.com/track/4JL5loZbBLCyLsLPgjLmEb) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Stampede](https://open.spotify.com/album/3vi7hLbbjQBJypfAA2gafE) | 3:32 | 2024-08-01 | 2024-08-09 |
 | [Back Door](https://open.spotify.com/track/1DnLZZYOAtGzjYNKcUu1ap) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Back Door](https://open.spotify.com/album/5guxsMehonEQNO93lZW8eJ) | 4:08 | 2025-02-20 | 2025-02-28 |
 | [BACK IGJEN](https://open.spotify.com/track/1DIQyfQyrSqZqHzF9xyq8U) | [Dinho](https://open.spotify.com/artist/463x0OI3W1zDhJvMLcjaCa) | [BACK IGJEN](https://open.spotify.com/album/6LfQkBZ8wbtvbxkjve8wT1) | 2:14 | 2025-02-20 | 2025-02-28 |
@@ -6835,6 +6836,7 @@
 | [One Of A Kind](https://open.spotify.com/track/2g9H48ik1DzJ6qz0CXGDUC) | [Rambow](https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9) | [Etter Sol Kommer Regn](https://open.spotify.com/album/5A9oFMnEIV61LPgHgHW4F7) | 2:10 | 2025-02-13 | 2025-02-21 |
 | [One Of A Kind](https://open.spotify.com/track/4vL9jXd1sOgzcmucXOlPau) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [One Of A Kind](https://open.spotify.com/album/0uHTwI7g1Kzf1dOI4fhdC9) | 3:22 | 2025-04-17 | 2025-04-25 |
 | [One of the Greats](https://open.spotify.com/track/4MMQdCB91BabMdpeFSxhv3) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [One of the Greats](https://open.spotify.com/album/2tJD14Pr3uNltSZJ4Iz4Yi) | 6:32 | 2025-09-26 | 2025-10-03 |
+| [One of Them \(with Future & Lil Baby\)](https://open.spotify.com/track/64QhStjcTHwvY7QCkFfT0M) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [One of Them](https://open.spotify.com/album/7yHjH5MTdtXNeIcQWVq0LQ) | 3:24 | 2026-04-09 |  |
 | [ONE SPARK](https://open.spotify.com/track/22TC1XBg8FZWTQHWsDvZ0s) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [With YOU\-th](https://open.spotify.com/album/0gDrK0OBXJxekT9klz3DM5) | 3:03 | 2025-05-15 | 2025-05-23 |
 | [ONE THING](https://open.spotify.com/track/3EpMgxSOLZKW6mCCfERXcb) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [ONE THING](https://open.spotify.com/album/4SpGTji6llKZtSiJ5aN90V) | 3:37 | 2025-07-24 | 2025-08-01 |
 | [One Thing](https://open.spotify.com/track/6KFQdIB3njXBQNcg1xUh9U) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [One Thing](https://open.spotify.com/album/2pIQ2uWPJUvfnmM917UC1I) | 3:28 | 2025-05-15 | 2025-05-23 |
@@ -7601,7 +7603,7 @@
 | [Running Out](https://open.spotify.com/track/5v2SfybFL0ZkYcPOR5WmbC) | [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Running Out](https://open.spotify.com/album/7oI2MpU23gi49Ph6EOiWqT) | 3:01 | 2025-01-16 | 2025-01-24 |
 | [Running Out Of Time](https://open.spotify.com/track/3H5cGzWfaWla53nt7Craeh) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Running Out Of Time](https://open.spotify.com/album/4c24YVXh460XLcuAcro3Z0) | 3:34 | 2024-06-27 | 2024-07-05 |
 | [Runrunrunrun](https://open.spotify.com/track/3jqThr5s8GwfpOlCPiLXSQ) | [ALBA](https://open.spotify.com/artist/5MKM7cNYL4SIuIe6q4Qd1p) | [Runrunrunrun](https://open.spotify.com/album/1N15Wlc2sq5iEljPSj9UgI) | 3:38 | 2025-12-04 | 2025-12-12 |
-| [Runway](https://open.spotify.com/track/7BjcYqD0CqXnG45ezWSTYR) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Runway](https://open.spotify.com/album/0WY1wVmchFYlH4f1yZMc90) | 2:51 | 2026-04-09 |  |
+| [RUNWAY](https://open.spotify.com/track/7BjcYqD0CqXnG45ezWSTYR) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [RUNWAY](https://open.spotify.com/album/0WY1wVmchFYlH4f1yZMc90) | 2:51 | 2026-04-09 |  |
 | [RUSH](https://open.spotify.com/track/3IeMcMqiXEseTvQ4yYTuiZ) | [Iselin Leine](https://open.spotify.com/artist/2FwZwk17r0EA97FYyTHhiT) | [RUSH](https://open.spotify.com/album/5WyJ4jLz2SQHP9GRDchREH) | 2:49 | 2026-01-23 | 2026-01-30 |
 | [Rush](https://open.spotify.com/track/0ppdjEVfuHUZQYK8t9uJ9Q) | [Saveus](https://open.spotify.com/artist/2rR0cafJvL0JVTC8E2qIqt) | [Rush](https://open.spotify.com/album/643BzXAzVnCV2YBxSCJfpe) | 2:32 | 2024-09-05 | 2024-09-13 |
 | [Rush Of Blood](https://open.spotify.com/track/7qKmGhUhmsqwHnYNAm2mwp) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Rush Of Blood](https://open.spotify.com/album/77uBN5BPyZA5z5K09MKRcQ) | 3:22 | 2024-08-15 | 2024-08-23 |
@@ -8382,6 +8384,7 @@
 | [Stay The Same](https://open.spotify.com/track/0dKT5uBZHwButbQhbNn7n0) | [NSH](https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS) | [Stay The Same](https://open.spotify.com/album/04K2gCjYdFVvhNdHez1smw) | 3:24 | 2024-08-29 | 2024-09-06 |
 | [Stay Together](https://open.spotify.com/track/5DcVfbtAxCtDzzWxNE0Be8) | [Club 8](https://open.spotify.com/artist/0bDw4crr1aysTpUTjI3Wqx) | [Stay Together](https://open.spotify.com/album/5pHVRLTSBLtAJxULTEb1NB) | 2:15 | 2025-06-05 | 2025-06-13 |
 | [Stay up](https://open.spotify.com/track/2Ca3mYJqZp85aVS5v91RcW) | [Ys1](https://open.spotify.com/artist/5xd5dejPupUZBQxKNDfp5B) | [Stay up](https://open.spotify.com/album/5FduMLsqBS2MG6ZrWlPZKT) | 2:24 | 2024-10-03 | 2024-10-11 |
+| [stay with me](https://open.spotify.com/track/3ohtc0JIOXUIjZVy5DCSBI) | [dóttir.x](https://open.spotify.com/artist/7jq2vXolpLlHipMTPVeMR0) | [stay with me](https://open.spotify.com/album/1szkuMBPAlxjThr7K8PVxv) | 2:59 | 2026-04-09 |  |
 | [Stay With Me](https://open.spotify.com/track/5Lu0RsvwyI37fzUAjIb6RL) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [Stay With Me](https://open.spotify.com/album/5w4Va9YoVAS3MCAiyMbfkR) | 3:47 | 2026-02-26 | 2026-03-06 |
 | [Steady](https://open.spotify.com/track/4PZQtsDTNlq5hFWmdBb5xh) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [a couple minutes out](https://open.spotify.com/album/13sFSgU0S2NUdpv4BbLN0t) | 3:26 | 2026-02-12 | 2026-02-20 |
 | [Steder jeg aldri har drømt om](https://open.spotify.com/track/052RXu8Kz2ELPNSoY202Wy) | [Ingvild Homme](https://open.spotify.com/artist/49F9ZYgevXMvE1B25PaX9b) | [Steder jeg aldri har drømt om](https://open.spotify.com/album/0Ns22BR4PEb3ZVTjPp0i2D) | 4:35 | 2025-11-06 | 2025-11-14 |

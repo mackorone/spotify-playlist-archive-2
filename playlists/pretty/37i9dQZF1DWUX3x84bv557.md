@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Frisse Nederlandse pop\. Cover: Russo
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,737 likes - 85 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,750 likes - 85 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Waar De Ladies Zijn](https://open.spotify.com/track/1RBAmptvCgOBmUQorOiT31) | [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee), [Matthy](https://open.spotify.com/artist/0QHed4AjWDRonljqAa92EF) | [Waar De Ladies Zijn](https://open.spotify.com/album/7sItPhIOsuhFEqT9PyPRXq) | 2:20 |
 | 2 | [Lauw Sixpack](https://open.spotify.com/track/1rbrgVWiMPVkGn9AjIhIJf) | [Roeland Beelen](https://open.spotify.com/artist/3AO2szj8eZ8MSTw0hghw3M) | [Lauw Sixpack](https://open.spotify.com/album/4YWVZtPIUexPuvTkwbwfN3) | 2:38 |
-| 3 | [Wat Blijft Er Nog Over?](https://open.spotify.com/track/0bCTV70cX6yjUtF91Fnkws) | [BENR](https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ), [OLIVIA](https://open.spotify.com/artist/4YddROOnHgB7LxvhqP88gw) | [Wat Blijft Er Nog Over?](https://open.spotify.com/album/1Fed1JYE41KqFq2og7LiMi) | 2:33 |
+| 3 | [Wat Blijft Er Nog Over?](https://open.spotify.com/track/0bCTV70cX6yjUtF91Fnkws) | [BENR](https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ), [OLIVIA](https://open.spotify.com/artist/0r4SuP92ATT2wpKCT7blnM) | [Wat Blijft Er Nog Over?](https://open.spotify.com/album/1Fed1JYE41KqFq2og7LiMi) | 2:33 |
 | 4 | [⁠Tot Het Eind Van Mij \- Akoestisch](https://open.spotify.com/track/2uA8dEMA61IBCXGz4lA3GD) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [⁠Tot Het Eind Van Mij \- Akoestisch](https://open.spotify.com/album/5kgoAHKiaOk2YsJe6HATxX) | 2:30 |
 | 5 | [In Je Bed](https://open.spotify.com/track/5v78Fw0egMGlffUGn1pnb7) | [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR), [LUNA](https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf), [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [In Je Bed](https://open.spotify.com/album/0zjj2c9hvjajVWRQZpSYyZ) | 2:50 |
 | 6 | [Liefdesverdriet](https://open.spotify.com/track/2GMVReNSsJhHds116zpLXQ) | [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee), [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM) | [Liefdesverdriet](https://open.spotify.com/album/3pObjYeEC5hk7c5sbnh4Ly) | 3:00 |

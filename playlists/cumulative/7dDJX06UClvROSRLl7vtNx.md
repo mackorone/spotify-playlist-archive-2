@@ -4,7 +4,7 @@
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-1,266 songs - 2 day 6 hr 41 min
+1,268 songs - 2 day 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -439,6 +439,7 @@
 | [Hold Me Close](https://open.spotify.com/track/7CcHekzCRzibYwCYn2WKgc) | [Scott Rill](https://open.spotify.com/artist/7dNg7OLrxcWU9cVe3sQoMV) | [Hold Me Close](https://open.spotify.com/album/1b1CiWm3Psfi4US4Ec5d4h) | 2:10 | 2023-12-30 | 2024-03-04 |
 | [Hold Me Closer](https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Hold Me Closer](https://open.spotify.com/album/4QQWpCEX4BxMXwRQmtkKY6) | 3:22 | 2023-09-22 | 2024-06-01 |
 | [Hold Me Down](https://open.spotify.com/track/0hdRaXColEX1JGmEn9C4BD) | [B\-Rain](https://open.spotify.com/artist/3hWT3bsPOSKsJkR30Z9xQr), [RAZZ](https://open.spotify.com/artist/42vNc7YKaB7aleV5gdBz4l), [Ema Feud](https://open.spotify.com/artist/2rPtbgOmhSJcV7GenHKwPd) | [Hold Me Down](https://open.spotify.com/album/7MenaK1jRxJWDC5aBTKvAh) | 2:28 | 2025-06-13 | 2025-09-22 |
+| [Hold Me Now](https://open.spotify.com/track/5ZHcuIlAiJOiVBOj4iW1cT) | [Sevenkey](https://open.spotify.com/artist/7qsMABBiWRUKCVR1NihLoT) | [Hold Me Now](https://open.spotify.com/album/3yCBHo9PxGLNacQcN50D7k) | 2:29 | 2026-04-10 |  |
 | [Hold Me Tight](https://open.spotify.com/track/1dHWwuRihXyoVjLYhlvF31) | [D3EPANK](https://open.spotify.com/artist/1mRJB43i0qK9HubZt4f8FJ), [Xiam](https://open.spotify.com/artist/6W0fy0QYg158jtGa4cfJ84), [Rukid](https://open.spotify.com/artist/190Yg2nkLySugQt7NXZf5a) | [Hold Me Tight](https://open.spotify.com/album/5wyNnufWsVXI2DVLobBqCh) | 2:16 | 2023-09-22 | 2024-04-19 |
 | [Hold On](https://open.spotify.com/track/1L2iAHvjYMSKVEZcKfEkKY) | [FIXL](https://open.spotify.com/artist/0Kxf9SzJfQfE0o80i5N3Li), [November Lights](https://open.spotify.com/artist/1XynSPT6cyvrZhQXrZh1qH), [Jaker](https://open.spotify.com/artist/1OiylLVpVrT0ToNcZBZaZY) | [Hold On](https://open.spotify.com/album/6CoXT4snUxg6OJUePzSb0L) | 2:23 | 2026-03-01 | 2026-03-30 |
 | [Hold On](https://open.spotify.com/track/5C3oYCLmX1ftTCDv5ePQAE) | [Lost Ways](https://open.spotify.com/artist/4tI5grRhokUSIptaT5shnu), [Yiqi](https://open.spotify.com/artist/6VKFK8E6qs6ETzKWP13jOG) | [Hold On](https://open.spotify.com/album/5N43rVFdgAhIX1N6zZ0xSH) | 2:37 | 2023-09-22 | 2024-04-15 |
@@ -648,6 +649,7 @@
 | [Lonely](https://open.spotify.com/track/5m6g1yfcVCoR1TTkwQm0iQ) | [Jay Mason](https://open.spotify.com/artist/0dS5IlInNc5Qq0wIrFTKob), [Horizon Blue](https://open.spotify.com/artist/2vOzV5WdvOYH3K1NJyt7wb), [Edwardo Atlas](https://open.spotify.com/artist/7fafcnfLroOhtWlp6Xh7j7) | [Lonely](https://open.spotify.com/album/41WKklZLaFVYxVwdNI83Da) | 2:25 | 2024-03-24 | 2024-04-08 |
 | [Long Days](https://open.spotify.com/track/7nA0NTeGTdE0aT431iYoTj) | [The kid in blue](https://open.spotify.com/artist/0RMiVWe4b7wnzAFwgFBUfD), [one more cig](https://open.spotify.com/artist/58xxhAwEQi1Gx6XxU5Nqm5) | [Long Days](https://open.spotify.com/album/6PYRJhIMHfAmosYZhEDzD2) | 2:34 | 2026-04-08 |  |
 | [Long Island](https://open.spotify.com/track/26edX6Ce1xLb780DyRkLK4) | [Lost Coconut](https://open.spotify.com/artist/6tZYWVDKrYd9S0ez1L0vou) | [Long Island](https://open.spotify.com/album/7abIIrnjL0Q71hCv5v9ZLq) | 2:46 | 2023-10-09 | 2024-05-13 |
+| [Long Time](https://open.spotify.com/track/5rq6H4Uxi0mbr8Nn8IbmsC) | [CLÜE](https://open.spotify.com/artist/3Su0ARjycouuBn1jXKPgQv) | [Long Time](https://open.spotify.com/album/2kiWGxSAl0492tzU5prNa9) | 2:30 | 2026-04-10 |  |
 | [Look At Us](https://open.spotify.com/track/4dVjXRECnu1iZjmSpfSOH4) | [Goldaine](https://open.spotify.com/artist/1QftYA5x2E5cUTutfjtcfg) | [Look At Us](https://open.spotify.com/album/7p4ew7H5zflO6GNGXbX7t5) | 2:12 | 2026-02-01 |  |
 | [Look Away](https://open.spotify.com/track/01gbQboVMTroyjoUBJlzOx) | [Planet Wave House](https://open.spotify.com/artist/0TtBVSCNHItUJOT8PEgsNd), [Kelo](https://open.spotify.com/artist/5USLHyCuiBT2He3fZvRGwg), [Lost In Reveries](https://open.spotify.com/artist/1Elez1o6G0sxPQaG9t4fOT) | [Look Away](https://open.spotify.com/album/1i0KkBPcKr6uLMF3BEbvMw) | 2:38 | 2024-02-04 | 2024-03-04 |
 | [Looking 4 Love](https://open.spotify.com/track/3nKX4UBDbwUHLU97LmEOsq) | [Second Sun](https://open.spotify.com/artist/4ITZhADtXQl7SXvQOlMmPS) | [Looking 4 Love](https://open.spotify.com/album/2HQOiUVmhd2PGJOomZXFBo) | 2:32 | 2025-06-07 | 2025-11-24 |

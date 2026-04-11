@@ -1,6 +1,6 @@
 {
   "description": "New music from Camille Yembe, The Strokes, Lady Gaga x Doechii, Gradur x Ninho and more...",
-  "num_followers": 49769,
+  "num_followers": 49917,
   "original_name": "New Music Friday BE",
   "owner": {
     "name": "Spotify",
@@ -43,7 +43,7 @@
     {
       "added_at": "2026-04-09 22:01:22",
       "album": {
-        "name": "Runway",
+        "name": "RUNWAY",
         "url": "https://open.spotify.com/album/0WY1wVmchFYlH4f1yZMc90"
       },
       "artists": [
@@ -57,7 +57,7 @@
         }
       ],
       "duration_ms": 171010,
-      "name": "Runway",
+      "name": "RUNWAY",
       "url": "https://open.spotify.com/track/7BjcYqD0CqXnG45ezWSTYR"
     },
     {
@@ -169,7 +169,7 @@
         },
         {
           "name": "OLIVIA",
-          "url": "https://open.spotify.com/artist/4YddROOnHgB7LxvhqP88gw"
+          "url": "https://open.spotify.com/artist/0r4SuP92ATT2wpKCT7blnM"
         }
       ],
       "duration_ms": 153476,
@@ -414,6 +414,10 @@
         {
           "name": "Olive Anguz",
           "url": "https://open.spotify.com/artist/3d0AuH83bH58zFUU7Z1hMk"
+        },
+        {
+          "name": "Project Zeitgeist",
+          "url": "https://open.spotify.com/artist/6Fryg7OCCsApuKUvkcGVg3"
         }
       ],
       "duration_ms": 207483,
@@ -455,6 +459,30 @@
       "duration_ms": 243837,
       "name": "Lucie",
       "url": "https://open.spotify.com/track/5HVpoNaZx9teIEKPlG0bhw"
+    },
+    {
+      "added_at": "2026-04-09 22:01:22",
+      "album": {
+        "name": "One of Them",
+        "url": "https://open.spotify.com/album/7yHjH5MTdtXNeIcQWVq0LQ"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 204377,
+      "name": "One of Them (with Future & Lil Baby)",
+      "url": "https://open.spotify.com/track/64QhStjcTHwvY7QCkFfT0M"
     },
     {
       "added_at": "2026-04-09 22:01:22",
@@ -572,8 +600,8 @@
           "url": "https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 1",
+      "duration_ms": 217637,
+      "name": "Liar",
       "url": "https://open.spotify.com/track/2OWXbIn2geYwaSLgBxwkOM"
     },
     {
@@ -620,8 +648,8 @@
           "url": "https://open.spotify.com/artist/7Iff7uMHGSpOygBkCsdcHq"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 12",
+      "duration_ms": 287238,
+      "name": "Nothing",
       "url": "https://open.spotify.com/track/3VfiR8Ikkdx9H8CKaBkVwL"
     },
     {
@@ -820,8 +848,8 @@
           "url": "https://open.spotify.com/artist/3K5sYlHk7RZimjYhUWej8D"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 3",
+      "duration_ms": 186071,
+      "name": "La vida loca",
       "url": "https://open.spotify.com/track/74vHwfc0huNsTubsZMqtj4"
     },
     {
@@ -843,6 +871,26 @@
       "duration_ms": 163065,
       "name": "My Boo (feat. Kaya Imani)",
       "url": "https://open.spotify.com/track/0h3Apt2jHZ2e29emFrqQ18"
+    },
+    {
+      "added_at": "2026-04-09 22:01:22",
+      "album": {
+        "name": "Back and Forth (feat. Missy Elliott)",
+        "url": "https://open.spotify.com/album/3yb1H4Mf6annZTGWpmAoCW"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        },
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        }
+      ],
+      "duration_ms": 214757,
+      "name": "Back and Forth (feat. Missy Elliott)",
+      "url": "https://open.spotify.com/track/6t263UZVjI9nnHfr7eeLW4"
     },
     {
       "added_at": "2026-04-09 22:01:22",
@@ -1041,7 +1089,7 @@
         },
         {
           "name": "N'Ken",
-          "url": "https://open.spotify.com/artist/4tZPI4M7z2CV9odcpAbRmF"
+          "url": "https://open.spotify.com/artist/7CiDghduh4uqMn0zSkPx1p"
         }
       ],
       "duration_ms": 165360,
@@ -1379,7 +1427,7 @@
     {
       "added_at": "2026-04-09 22:01:22",
       "album": {
-        "name": "Ensemble (feat. Koba LaD)",
+        "name": "Ensemble",
         "url": "https://open.spotify.com/album/5EjEBQZhs2O04QiWgiv7Kn"
       },
       "artists": [
@@ -1393,7 +1441,7 @@
         }
       ],
       "duration_ms": 174866,
-      "name": "Ensemble (feat. Koba LaD)",
+      "name": "Ensemble",
       "url": "https://open.spotify.com/track/3p1UJOhOvpqcPO5TYXsaOL"
     },
     {
@@ -1428,7 +1476,7 @@
           "url": "https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR"
         }
       ],
-      "duration_ms": 158095,
+      "duration_ms": 157619,
       "name": "Une danse",
       "url": "https://open.spotify.com/track/6TJiwUhtDMZxEYczAd8KTk"
     },

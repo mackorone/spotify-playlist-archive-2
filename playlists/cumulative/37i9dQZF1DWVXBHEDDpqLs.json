@@ -1425,6 +1425,24 @@
     },
     {
       "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/5YNWHAMW0bRZwdkByWWJTF"
+      },
+      "artists": [
+        {
+          "name": "Hekt",
+          "url": "https://open.spotify.com/artist/0SOn6FeWwXGHcF9JEGM4Y1"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208086,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/4DQSP5wca3LZUz6ETZ4IE9"
+    },
+    {
+      "album": {
         "name": "Backhand EP",
         "url": "https://open.spotify.com/album/7zpkQkyEou9JD03OIYrZO6"
       },
@@ -1668,7 +1686,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 186000,
       "name": "Bam Bom",
       "url": "https://open.spotify.com/track/7rQm2wjSZvQajHK6AgGiPk"
@@ -2802,7 +2820,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 205500,
       "name": "Brighter Days - Remix",
       "url": "https://open.spotify.com/track/1wwOcmGxrIn9SjrWYgI7LX"
@@ -2920,7 +2938,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 300173,
       "name": "Buck Rogers",
       "url": "https://open.spotify.com/track/7g2fvPhQ98N9w9eyAOYFmr"
@@ -2960,7 +2978,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 365500,
       "name": "Bullseye",
       "url": "https://open.spotify.com/track/75i8huIJU6EyNV1SqUWz8m"
@@ -4050,7 +4068,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 306289,
       "name": "Comin",
       "url": "https://open.spotify.com/track/2NTaAUg7XX76RPBQKyWzM0"
@@ -4508,6 +4526,24 @@
       "duration_ms": 234835,
       "name": "Dark Cloud",
       "url": "https://open.spotify.com/track/3Yu7YWkRIx3DaZflhEsbwE"
+    },
+    {
+      "album": {
+        "name": "Dark Web Pinger",
+        "url": "https://open.spotify.com/album/4jhsNapiEPLqFvJzFaLSp3"
+      },
+      "artists": [
+        {
+          "name": "M-High",
+          "url": "https://open.spotify.com/artist/5lNjdR9GxHHF3twNE6ayJW"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226866,
+      "name": "Dark Web Pinger",
+      "url": "https://open.spotify.com/track/2b9mN6jNFYJnY8ADEv6U6Y"
     },
     {
       "album": {
@@ -5971,6 +6007,24 @@
     },
     {
       "album": {
+        "name": "Eye Drop",
+        "url": "https://open.spotify.com/album/3ZSJ5JFCxuUvrX0nmrMMuA"
+      },
+      "artists": [
+        {
+          "name": "Stones Taro",
+          "url": "https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353615,
+      "name": "Eye Drop",
+      "url": "https://open.spotify.com/track/7LKakpplgrNyTlHXsU4sgI"
+    },
+    {
+      "album": {
         "name": "eyes",
         "url": "https://open.spotify.com/album/3kjWlk30j8gIzBe39MbndW"
       },
@@ -6442,6 +6496,24 @@
       "duration_ms": 291555,
       "name": "Flangelic",
       "url": "https://open.spotify.com/track/1HLH4jJHqPzgBOVYyu4R2Y"
+    },
+    {
+      "album": {
+        "name": "Incorregible",
+        "url": "https://open.spotify.com/album/7LxxNa3h2EGW6m0TlGnnlh"
+      },
+      "artists": [
+        {
+          "name": "Rosa Pistola",
+          "url": "https://open.spotify.com/artist/06fEHseCklFEuDgM5dccHX"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218786,
+      "name": "Flauta Nahua",
+      "url": "https://open.spotify.com/track/5rGZlI9JXIMlMqp3hqAWhK"
     },
     {
       "album": {
@@ -11028,7 +11100,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 256000,
       "name": "Mau Contato (Clementaum) - Remix",
       "url": "https://open.spotify.com/track/0gwJXOLx8Ts5La3OkDRPLE"
@@ -11718,7 +11790,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 245481,
       "name": "Naive Club",
       "url": "https://open.spotify.com/track/58yaNeyomlxC2FN9E12g4V"
@@ -12090,7 +12162,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 126926,
       "name": "Nobody (Like You)",
       "url": "https://open.spotify.com/track/2ua4P7zVjvyDp54hhGEALs"
@@ -13109,6 +13181,36 @@
     },
     {
       "album": {
+        "name": "Bborn Again",
+        "url": "https://open.spotify.com/album/0I9U9zBMdzqvawfaIt6JvY"
+      },
+      "artists": [
+        {
+          "name": "PPP",
+          "url": "https://open.spotify.com/artist/3GASp5SoyDbFg7JgY0RV7M"
+        },
+        {
+          "name": "Piezo",
+          "url": "https://open.spotify.com/artist/4vr49Ycb253qEyUuXnlYaM"
+        },
+        {
+          "name": "DJ Plead",
+          "url": "https://open.spotify.com/artist/3srk7xv520Ls9D09QMpEJg"
+        },
+        {
+          "name": "DJ Python",
+          "url": "https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274565,
+      "name": "Pez",
+      "url": "https://open.spotify.com/track/5QvvtpGUlrEedXvberu01w"
+    },
+    {
+      "album": {
         "name": "Phantom Fibre",
         "url": "https://open.spotify.com/album/6zM3Cniazo75HBwMqhq8G7"
       },
@@ -13230,6 +13332,24 @@
       "duration_ms": 205077,
       "name": "Pipe Up",
       "url": "https://open.spotify.com/track/0RlCE8V8FPIr4FOsPDkzSv"
+    },
+    {
+      "album": {
+        "name": "Plastic Camelia / Laurel",
+        "url": "https://open.spotify.com/album/12PCtvnkWhvr5RRPXrFxyP"
+      },
+      "artists": [
+        {
+          "name": "Olof Dreijer",
+          "url": "https://open.spotify.com/artist/1Wxx3yxd6gZsNiAF1OwLk0"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265878,
+      "name": "Plastic Camelia",
+      "url": "https://open.spotify.com/track/0ep3CnoP0dSWyFPUhQJU0D"
     },
     {
       "album": {
@@ -14036,6 +14156,24 @@
       "duration_ms": 398422,
       "name": "Rave Baby",
       "url": "https://open.spotify.com/track/24wPaBQp4ERidcEmeRioSK"
+    },
+    {
+      "album": {
+        "name": "Glitch 2000 / Rave Down",
+        "url": "https://open.spotify.com/album/3x18E3lT5HGAp2FLYmqeTG"
+      },
+      "artists": [
+        {
+          "name": "Populous",
+          "url": "https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277312,
+      "name": "Rave Down",
+      "url": "https://open.spotify.com/track/0DN6z52rCHLU6ilv50VGQ7"
     },
     {
       "album": {
@@ -15501,6 +15639,24 @@
     },
     {
       "album": {
+        "name": "Slingshooters",
+        "url": "https://open.spotify.com/album/2EM4b2sdXX8SxPaJhM31SU"
+      },
+      "artists": [
+        {
+          "name": "HLRTY",
+          "url": "https://open.spotify.com/artist/3d8yEl9r4C6FKNoqZ6PykY"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292012,
+      "name": "Slingshooters",
+      "url": "https://open.spotify.com/track/3e9b3CxiQ02SPSDfGWcBIY"
+    },
+    {
+      "album": {
         "name": "Slowpoke",
         "url": "https://open.spotify.com/album/4ULYg5rkAiwTEaJLjZx702"
       },
@@ -16620,7 +16776,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 236062,
       "name": "TAKIS",
       "url": "https://open.spotify.com/track/6vErDum5Vq5UnT2vFJieX1"
@@ -16956,6 +17112,24 @@
       "duration_ms": 148965,
       "name": "That That",
       "url": "https://open.spotify.com/track/28YIH5gv7UGQL8zL6PpL9w"
+    },
+    {
+      "album": {
+        "name": "The Bass Groove",
+        "url": "https://open.spotify.com/album/4YaycaUthD3TQ1MkO3ykX7"
+      },
+      "artists": [
+        {
+          "name": "Bambounou",
+          "url": "https://open.spotify.com/artist/48P6su5lHrVCZtJVXMjJnX"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156541,
+      "name": "The Bass Groove",
+      "url": "https://open.spotify.com/track/6AzgoeU6BqzXwOFOBrlKLM"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-11",
-  "description": "L\u2019alternatif qu\u00e9b\u00e9cois \u00e0 plein volume. Photo: Babyteeth",
+  "description": "L\u2019alternatif qu\u00e9b\u00e9cois \u00e0 plein volume. Photo: kerri, Fraud Perry",
   "name": "ALT_QC",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 199582,
       "name": "(Trag\u00e9die)",
       "url": "https://open.spotify.com/track/4kM7eWoOLqUvz0F8SGyx1V"
+    },
+    {
+      "album": {
+        "name": "1999",
+        "url": "https://open.spotify.com/album/6hi1Bsxvs5hIX1aZh7UV50"
+      },
+      "artists": [
+        {
+          "name": "Summerled",
+          "url": "https://open.spotify.com/artist/6zeA4Y8yrI50OYMm1kMBzq"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157843,
+      "name": "1999",
+      "url": "https://open.spotify.com/track/6hGURJGNAOihpgqQYeBO7z"
     },
     {
       "album": {
@@ -604,6 +622,24 @@
       "duration_ms": 138431,
       "name": "Armada de chiens",
       "url": "https://open.spotify.com/track/6RdXZ2N8HWdo4xUR5oBpw7"
+    },
+    {
+      "album": {
+        "name": "Ask Me/Yesterday's Tomorrow",
+        "url": "https://open.spotify.com/album/1GAtmkBBwVYsU6miHW8JwK"
+      },
+      "artists": [
+        {
+          "name": "The Satisfactory",
+          "url": "https://open.spotify.com/artist/2GiACcsyua4nr7W68PhE7O"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177990,
+      "name": "Ask Me",
+      "url": "https://open.spotify.com/track/1VtPpUAN1LsuLwjFDkTMmg"
     },
     {
       "album": {
@@ -1694,6 +1730,42 @@
       "duration_ms": 177335,
       "name": "Cool et branch\u00e9e",
       "url": "https://open.spotify.com/track/1yOQDjZTq4hrj6iemnUlzr"
+    },
+    {
+      "album": {
+        "name": "Correct",
+        "url": "https://open.spotify.com/album/3FyxSOLf5zrWgC7Osw3peU"
+      },
+      "artists": [
+        {
+          "name": "Les Louanges",
+          "url": "https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286128,
+      "name": "Correct",
+      "url": "https://open.spotify.com/track/3rePvNyj1VwHKnlMngBrUk"
+    },
+    {
+      "album": {
+        "name": "Coup de vent",
+        "url": "https://open.spotify.com/album/4Jtej4dOIc8GAogC71Kkix"
+      },
+      "artists": [
+        {
+          "name": "Erwan",
+          "url": "https://open.spotify.com/artist/3uWhb8ADEysVQ5IRoFfAcH"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269375,
+      "name": "Coup de vent",
+      "url": "https://open.spotify.com/track/55wBGo1kOr3ISMHTTJR28I"
     },
     {
       "album": {
@@ -2915,6 +2987,24 @@
     },
     {
       "album": {
+        "name": "graduation",
+        "url": "https://open.spotify.com/album/29nnIgIqOY8pb1jYu9pH7V"
+      },
+      "artists": [
+        {
+          "name": "hooper",
+          "url": "https://open.spotify.com/artist/6xEOM5GlVNZpX1Db8f4jVp"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147582,
+      "name": "graduation",
+      "url": "https://open.spotify.com/track/3xsEofcAiQgpYqDOoAMJpK"
+    },
+    {
+      "album": {
         "name": "P'tit Belliveau",
         "url": "https://open.spotify.com/album/5SZCCO2cJiLbQ5vUopQxh2"
       },
@@ -3785,6 +3875,28 @@
     },
     {
       "album": {
+        "name": "Kicking & screaming",
+        "url": "https://open.spotify.com/album/5qpj5EMpg80UMEd7jJPFvo"
+      },
+      "artists": [
+        {
+          "name": "kerri",
+          "url": "https://open.spotify.com/artist/7mupgmN5rkDNGrqQt1tjcf"
+        },
+        {
+          "name": "Fraud Perry",
+          "url": "https://open.spotify.com/artist/21bSNtXANYKKlrjo4RVTQm"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171939,
+      "name": "Kicking & screaming",
+      "url": "https://open.spotify.com/track/5ydb6mhv4W8e6mdWte91z9"
+    },
+    {
+      "album": {
         "name": "Kill",
         "url": "https://open.spotify.com/album/0cDEyMaf68HsTOGte8PJZz"
       },
@@ -4495,6 +4607,24 @@
     },
     {
       "album": {
+        "name": "Lex Julia",
+        "url": "https://open.spotify.com/album/7r0oVlT5VOtm4QJ2Q1e37k"
+      },
+      "artists": [
+        {
+          "name": "Fire in the City",
+          "url": "https://open.spotify.com/artist/3hWaTH8hZ33N5SCFoju8u0"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220140,
+      "name": "Lex Julia",
+      "url": "https://open.spotify.com/track/2Ku1oBIgXdWNiuAdMVEhJw"
+    },
+    {
+      "album": {
         "name": "Lighter Fluid",
         "url": "https://open.spotify.com/album/5qHZZ38krHocEYUbDpAWtQ"
       },
@@ -4618,6 +4748,24 @@
       "duration_ms": 183692,
       "name": "Lundi normal",
       "url": "https://open.spotify.com/track/01q5hNY32vR6b1xa1nMZlQ"
+    },
+    {
+      "album": {
+        "name": "Softest Attack",
+        "url": "https://open.spotify.com/album/51uYxZpz3l8pJpE3fPGYb5"
+      },
+      "artists": [
+        {
+          "name": "Prism Shores",
+          "url": "https://open.spotify.com/artist/6GAOVXekIJiv2MWeCBQoEk"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168693,
+      "name": "Lying in Wait",
+      "url": "https://open.spotify.com/track/3r1RYiEStgIqNCHwkSfk7N"
     },
     {
       "album": {
@@ -6639,6 +6787,24 @@
     },
     {
       "album": {
+        "name": "Sens",
+        "url": "https://open.spotify.com/album/0qewbmI8R7FExDIbz9bTGc"
+      },
+      "artists": [
+        {
+          "name": "Tc1zo",
+          "url": "https://open.spotify.com/artist/2jI7xZpPpRZar4X9otP2XD"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109968,
+      "name": "Sens",
+      "url": "https://open.spotify.com/track/2MAkBjNLgokaHdFO8bPmXW"
+    },
+    {
+      "album": {
         "name": "Comme dans un penthouse",
         "url": "https://open.spotify.com/album/12rLRy19o75nJG4cXKn2tR"
       },
@@ -7291,6 +7457,24 @@
     },
     {
       "album": {
+        "name": "Thread",
+        "url": "https://open.spotify.com/album/2TQi70hqsV2nbOZqeTGFCE"
+      },
+      "artists": [
+        {
+          "name": "goldenstar",
+          "url": "https://open.spotify.com/artist/7EeB9iiM7ESsG4VJZwVgtM"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197772,
+      "name": "Thread",
+      "url": "https://open.spotify.com/track/29EXdjFrCHZCSiXmFxfsUc"
+    },
+    {
+      "album": {
         "name": "Toi mon unique d\u00e9sir",
         "url": "https://open.spotify.com/album/6mJ3JqXLDRVjGUkRj4BMzX"
       },
@@ -7450,6 +7634,24 @@
       "duration_ms": 189510,
       "name": "Tracer des lignes",
       "url": "https://open.spotify.com/track/37nelpJO6CHNhl9tOvuTDB"
+    },
+    {
+      "album": {
+        "name": "Trade",
+        "url": "https://open.spotify.com/album/1I4znHM1ve4fXVJN9eVLOY"
+      },
+      "artists": [
+        {
+          "name": "Museums",
+          "url": "https://open.spotify.com/artist/6AojHY3vDiUeA0OWCkFDt6"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148905,
+      "name": "Trade",
+      "url": "https://open.spotify.com/track/2sIiarSXhCOX8qJUM7pm4M"
     },
     {
       "album": {
@@ -8131,6 +8333,42 @@
     },
     {
       "album": {
+        "name": "You're Watching Live",
+        "url": "https://open.spotify.com/album/6E8lyHualSxESUFEfZ3oa1"
+      },
+      "artists": [
+        {
+          "name": "Dante's Paradise",
+          "url": "https://open.spotify.com/artist/4VzpH52IFQ86CZn9KVYd5J"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205331,
+      "name": "You're Watching Live",
+      "url": "https://open.spotify.com/track/26ABCUYrX8zo3TkwBUP3Gn"
+    },
+    {
+      "album": {
+        "name": "Your mother from the nineties",
+        "url": "https://open.spotify.com/album/1XtMsSe3jx7xIvtvQbj0Hp"
+      },
+      "artists": [
+        {
+          "name": "Emma Beko",
+          "url": "https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172350,
+      "name": "Your mother from the nineties",
+      "url": "https://open.spotify.com/track/64yzYx98ZpbTFsEDFFTWj9"
+    },
+    {
+      "album": {
         "name": "\u00c0 quoi tu penses",
         "url": "https://open.spotify.com/album/5NRQmMRMrQHhzkfrZe9DFa"
       },
@@ -8164,6 +8402,24 @@
       "duration_ms": 242086,
       "name": "\u00c7a part avec toi",
       "url": "https://open.spotify.com/track/6FDTHYLa4jRRAZiUbH5zdI"
+    },
+    {
+      "album": {
+        "name": "\u00c9coute Man",
+        "url": "https://open.spotify.com/album/6xv4RvdJWKccOvcRSV77uM"
+      },
+      "artists": [
+        {
+          "name": "Les Fleurs du Tapis",
+          "url": "https://open.spotify.com/artist/1VfCqO58maY8khcq1Ul404"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214973,
+      "name": "\u00c9coute Man",
+      "url": "https://open.spotify.com/track/2k4axHFbjIT8DuxnLx8Ukr"
     },
     {
       "album": {

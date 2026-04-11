@@ -1,12 +1,12 @@
 {
   "description": "This is Ella Mai. The essential tracks, all in one playlist.",
-  "num_followers": 157653,
+  "num_followers": 157680,
   "original_name": "This Is Ella Mai",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adWagAAAAABSAcZtkBJf0I2+FnNA5sd4",
+  "snapshot_id": "adbsAAAAAAADEoT9fPd00I6koepbxKyv",
   "tracks": [
     {
       "added_at": null,
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
         }
       ],
-      "duration_ms": 209133,
-      "name": "Leave You Alone",
-      "url": "https://open.spotify.com/track/0cNc0bSxmRVhAUJVYEd2Qk"
+      "duration_ms": 194826,
+      "name": "Break My Heart",
+      "url": "https://open.spotify.com/track/0TYsPcmqWOtPdaEXmHvNSE"
     },
     {
       "added_at": null,
@@ -720,9 +720,9 @@
           "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
         }
       ],
-      "duration_ms": 194826,
-      "name": "Break My Heart",
-      "url": "https://open.spotify.com/track/0TYsPcmqWOtPdaEXmHvNSE"
+      "duration_ms": 209133,
+      "name": "Leave You Alone",
+      "url": "https://open.spotify.com/track/0cNc0bSxmRVhAUJVYEd2Qk"
     }
   ],
   "unique_name": "This Is Ella Mai",

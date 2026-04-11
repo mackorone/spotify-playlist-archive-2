@@ -4,7 +4,7 @@
 
 > Jazz for breakfast to start your day right.
 
-260 songs - 22 hr 18 min
+261 songs - 22 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [In the Wee Small Hours of the Morning](https://open.spotify.com/track/0lMIb2WobAlzmr8t1yZeUd) | [David Finck](https://open.spotify.com/artist/0izr5ONrQxIf2EbHPCCavn) | [In the Wee Small Hours of the Morning](https://open.spotify.com/album/5Bige15opD3V4HHy1jsymc) | 4:30 | 2022-06-23 |  |
 | [In the Wee Small Hours of the Morning](https://open.spotify.com/track/0kHc5lXxGsf4Dfe0iLhEsE) | [Will Bonness](https://open.spotify.com/artist/2XicePOelCV9UVv6Ir1Xgo) | [In the Wee Small Hours of the Morning](https://open.spotify.com/album/6onu3dtSozmPb5GBbcXL3m) | 5:15 | 2021-12-21 | 2023-02-23 |
 | [In This Moment](https://open.spotify.com/track/5ntssQtDHWUdKBYiQDQP5I) | [Emil Brandqvist Trio](https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG) | [In This Moment](https://open.spotify.com/album/0UFAX4kDWFNLpXWAjrBq4G) | 3:43 | 2023-02-07 |  |
-| [Indian Summer](https://open.spotify.com/track/0gb4iUX1t4GJTE1ljMacEI) | [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik) | [Indian Summer](https://open.spotify.com/album/2SVFivIaBfPoqoFUviRirL) | 4:04 | 2022-02-10 |  |
+| [Indian Summer](https://open.spotify.com/track/0gb4iUX1t4GJTE1ljMacEI) | [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik) | [Indian Summer](https://open.spotify.com/album/2SVFivIaBfPoqoFUviRirL) | 4:04 | 2022-02-10 | 2026-04-11 |
 | [Indian Summer](https://open.spotify.com/track/7ID8YBMZd8Cqi2fto81sP2) | [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik) | [Sideways](https://open.spotify.com/album/0nd4ki7GPhLrH5MjjdP7eP) | 4:04 | 2022-06-30 | 2024-04-19 |
 | [It Ain’t Necessarily So](https://open.spotify.com/track/0vwTHK0RI01avuLIrAHp8C) | [Mary Lou Williams](https://open.spotify.com/artist/6hrEc1XqVcGLK0Di6zVADR) | [Mary Lou Williams Presents Black Christ of the Andes](https://open.spotify.com/album/35TchegKRAVtmhwSfDA8hy) | 4:45 | 2025-11-21 |  |
 | [It Might as Well Be Spring](https://open.spotify.com/track/0mmhNRfvI599pLb0bNV13N) | [Ari Hoenig](https://open.spotify.com/artist/1P6Llrp12ldpVbyC8gCHBz), [Yoav Eshed](https://open.spotify.com/artist/0xgMRXvX4wS1we58R46Xh5), [Gadi Lehavi](https://open.spotify.com/artist/01FRXq3Es0z4crmTkjkR7o), [Ben Tiberio](https://open.spotify.com/artist/4HF9chz1OmDunHzUD3ZIos) | [Golden Treasures](https://open.spotify.com/album/6HVVdncUSlgCkRh5qQaTV4) | 6:14 | 2022-06-02 | 2023-03-01 |
@@ -202,6 +202,7 @@
 | [Sometimes I Cry](https://open.spotify.com/track/6gA0ps6IzjBj7azFvWjWME) | [Les McCann](https://open.spotify.com/artist/07tYu4BGrfeogBobCefkHI) | [Layers](https://open.spotify.com/album/6f1xvgs11hAh1Jedx9lRWm) | 5:22 | 2021-12-21 | 2022-09-15 |
 | [Somewhere over the Rainbow](https://open.spotify.com/track/6WaLMmbnmG1T2HWm5hwKOU) | [Carsten Dahl](https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda), [Lennart Ginman](https://open.spotify.com/artist/2s2DJXB8q7ahN97T2gAeKX), [Thomas Blachman](https://open.spotify.com/artist/2HJEk3ULU54nb5csZV35Aw) | [The Velvet Blues](https://open.spotify.com/album/3Td7ptaHioLJ3THpiRvZ4l) | 4:36 | 2021-12-21 |  |
 | [Son binocle](https://open.spotify.com/track/5B3DbHWAony8uv56c8EdQZ) | [Cyrus Chestnut](https://open.spotify.com/artist/319U6LVt3j3iT9oAEzrpRO) | [Kaleidoscope](https://open.spotify.com/album/2rSm26o6ns4fvS9achkJ2b) | 4:04 | 2021-12-21 |  |
+| [Song for Helen](https://open.spotify.com/track/793md1IobZmADtYbsCo2YH) | [Enrico Pieranunzi](https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP), [Bebo Ferra](https://open.spotify.com/artist/7x68038NwGK0HcnZh49aMB), [Diego Imbert](https://open.spotify.com/artist/0jdE0ynq5zcnMeAn9XutIX) | [Song for Helen](https://open.spotify.com/album/47cyt84sqfEw15Zvq6CCdV) | 4:37 | 2026-04-10 |  |
 | [Soul Survivor](https://open.spotify.com/track/12EXBCttLw6aschKlJ0u2d) | [Nuvole](https://open.spotify.com/artist/5X65Iv1V1AcOZhFM1AzjJ1) | [Soul Survivor](https://open.spotify.com/album/0hYgT7AnSTvB89TirwT1Yw) | 4:28 | 2025-01-10 | 2025-07-08 |
 | [Soulsides](https://open.spotify.com/track/2sHWX0OKbabU5Nz5pDUc0D) | [Art Farmer](https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u) | [Feeling Good \- The Supreme Sound Of Producer Bob Shad](https://open.spotify.com/album/6sR9DBCXgOZo9oZ9zGkRkr) | 4:28 | 2021-12-21 | 2022-09-28 |
 | [Spring of Life](https://open.spotify.com/track/1jfeTu7iQd0vhGSXJ1FEjw) | [Daniel García Trio](https://open.spotify.com/artist/6utaOlREmKr4nbVWA0z6eP) | [Via de la Plata](https://open.spotify.com/album/4nwGWXjKct2mSfGjQQcbYI) | 3:35 | 2022-06-30 | 2024-04-19 |

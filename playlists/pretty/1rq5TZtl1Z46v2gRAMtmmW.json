@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 31824,
+  "num_followers": 31823,
   "original_name": "Ninja Tune // New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "AAARYGn6y6RB3rb00X8RsZV6gWNAZQdu",
+  "snapshot_id": "AAARYualRuij9/eM2osJD1jTt+Q/QZxu",
   "tracks": [
     {
       "added_at": "2026-04-03 20:05:06",
@@ -611,6 +611,26 @@
       "duration_ms": 190267,
       "name": "Home Ground",
       "url": "https://open.spotify.com/track/5Nf5Cce8DePSYvu2IuEvcg"
+    },
+    {
+      "added_at": "2026-04-10 10:17:25",
+      "album": {
+        "name": "Patchwork",
+        "url": "https://open.spotify.com/album/1jdPpk0cKJ4iQvsZfEXstU"
+      },
+      "artists": [
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        },
+        {
+          "name": "Paige Cavell",
+          "url": "https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24"
+        }
+      ],
+      "duration_ms": 187087,
+      "name": "Patchwork",
+      "url": "https://open.spotify.com/track/3BxWLwl3xcFAN0Hk5X13JD"
     },
     {
       "added_at": "2026-03-18 16:55:29",

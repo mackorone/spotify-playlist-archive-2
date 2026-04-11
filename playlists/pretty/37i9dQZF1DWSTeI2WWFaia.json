@@ -1,15 +1,35 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Kota The Friend",
-  "num_followers": 1568340,
+  "num_followers": 1568295,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJjv76e7VXwTRdbhMXSnhrLK6Rgh",
+  "snapshot_id": "AAAAAOdagUDOkY97qAaCzJtWfJQAkHCQ",
   "tracks": [
     {
-      "added_at": "2026-04-03 04:07:15",
+      "added_at": "2026-04-10 04:02:23",
+      "album": {
+        "name": "BULLY",
+        "url": "https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ye",
+          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
+        }
+      ],
+      "duration_ms": 119272,
+      "name": "WHATEVER WORKS",
+      "url": "https://open.spotify.com/track/7GVuAK4EmYP7gvlXA4JXqU"
+    },
+    {
+      "added_at": "2026-04-10 04:02:23",
       "album": {
         "name": "The Fall-Off",
         "url": "https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7"
@@ -25,7 +45,7 @@
       "url": "https://open.spotify.com/track/3sJLoIc9y1b4gKAP8ZNsR9"
     },
     {
-      "added_at": "2026-04-03 04:07:15",
+      "added_at": "2026-04-10 04:02:23",
       "album": {
         "name": "Ca$ino",
         "url": "https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b"
@@ -36,12 +56,12 @@
           "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
         }
       ],
-      "duration_ms": 118425,
-      "name": "No Security",
-      "url": "https://open.spotify.com/track/4LGFc5Vv5YlqTvWIa37CbG"
+      "duration_ms": 205176,
+      "name": "I am not a Lyricist",
+      "url": "https://open.spotify.com/track/76uwSqRmmSfRZVocIceH1b"
     },
     {
-      "added_at": "2026-04-03 04:07:15",
+      "added_at": "2026-04-10 04:02:23",
       "album": {
         "name": "Alligator Bites Never Heal",
         "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
@@ -57,31 +77,7 @@
       "url": "https://open.spotify.com/track/3QQvSQKV8YmQxGolwwWe59"
     },
     {
-      "added_at": "2026-04-03 04:07:15",
-      "album": {
-        "name": "Harlem's Finest: Return Of The King",
-        "url": "https://open.spotify.com/album/52bbgcaJfoKW3N2eO8TYMN"
-      },
-      "artists": [
-        {
-          "name": "Big L",
-          "url": "https://open.spotify.com/artist/30fiiwr2EeZp1tAhzYCmyM"
-        },
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        },
-        {
-          "name": "Pale Jay",
-          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
-        }
-      ],
-      "duration_ms": 155142,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/7lCpzHEIIBf7BQKfRyRP01"
-    },
-    {
-      "added_at": "2026-04-03 04:07:15",
+      "added_at": "2026-04-10 04:02:23",
       "album": {
         "name": "LOCAL ART DEALER, Vol. 1",
         "url": "https://open.spotify.com/album/56lgO3adqzjPejVWsPgsSf"
@@ -101,7 +97,7 @@
       "url": "https://open.spotify.com/track/2yPRkI7nHoCpyBs4g30E4n"
     },
     {
-      "added_at": "2026-04-03 04:07:15",
+      "added_at": "2026-04-10 04:02:23",
       "album": {
         "name": "Leadbelly (feat. MIKE)",
         "url": "https://open.spotify.com/album/3y6xpGcglPjbrpUZAMymiI"
@@ -125,27 +121,23 @@
       "url": "https://open.spotify.com/track/3VzXDNlINnvGTYWXtQlQr1"
     },
     {
-      "added_at": "2026-04-03 04:07:15",
+      "added_at": "2026-04-10 04:02:23",
       "album": {
-        "name": "BULLY",
-        "url": "https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS"
+        "name": "ADHD 2 Reloaded",
+        "url": "https://open.spotify.com/album/61MEzXrdKxuTvken9N1C7g"
       },
       "artists": [
         {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Ye",
-          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
         }
       ],
-      "duration_ms": 119272,
-      "name": "WHATEVER WORKS",
-      "url": "https://open.spotify.com/track/7GVuAK4EmYP7gvlXA4JXqU"
+      "duration_ms": 217411,
+      "name": "Reconsider",
+      "url": "https://open.spotify.com/track/68s4qX9mitS8d3u1UY7SDj"
     },
     {
-      "added_at": "2026-04-03 04:07:15",
+      "added_at": "2026-04-10 04:02:23",
       "album": {
         "name": "Welcome to My Garden",
         "url": "https://open.spotify.com/album/1QdrO31i8ZwDzvN7LfAcf3"
@@ -165,7 +157,7 @@
       "url": "https://open.spotify.com/track/3ytDYvpKtqsyLj6sPk6nq0"
     },
     {
-      "added_at": "2026-04-03 04:07:15",
+      "added_at": "2026-04-10 04:02:23",
       "album": {
         "name": "Pops",
         "url": "https://open.spotify.com/album/68C9RgYAybkxqDZzdtt3ak"
@@ -185,7 +177,7 @@
       "url": "https://open.spotify.com/track/2OTJjxvUACGWALxdUDohBu"
     },
     {
-      "added_at": "2026-04-03 04:07:15",
+      "added_at": "2026-04-10 04:02:23",
       "album": {
         "name": "Never Change",
         "url": "https://open.spotify.com/album/2sGj6UCPfypqtzzjF21HWl"
@@ -209,23 +201,23 @@
       "url": "https://open.spotify.com/track/5B3Q7otESAwf2ZFZ2SIz5W"
     },
     {
-      "added_at": "2026-04-03 04:07:15",
+      "added_at": "2026-04-10 04:02:23",
       "album": {
-        "name": "The Fall-Off",
-        "url": "https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7"
+        "name": "Windows 98",
+        "url": "https://open.spotify.com/album/0psECGsjUjWHD0uH383uYG"
       },
       "artists": [
         {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+          "name": "MARCO PLUS",
+          "url": "https://open.spotify.com/artist/6Agwo4UWzZes5CDUMFFlvU"
         }
       ],
-      "duration_ms": 332386,
-      "name": "I Love Her Again",
-      "url": "https://open.spotify.com/track/5pjf75G1zn9EEFa8iaCV5h"
+      "duration_ms": 119438,
+      "name": "Windows 98",
+      "url": "https://open.spotify.com/track/2HeWM9T5uXuh9U0g54fqwF"
     },
     {
-      "added_at": "2026-04-03 04:07:15",
+      "added_at": "2026-04-10 04:02:23",
       "album": {
         "name": "Unapologetic",
         "url": "https://open.spotify.com/album/1oLtD7t1FlyuKIdH8pgKkR"
@@ -241,23 +233,23 @@
       "url": "https://open.spotify.com/track/2UVnxfCRYPysZ1V8s1XICt"
     },
     {
-      "added_at": "2026-04-03 04:07:15",
+      "added_at": "2026-04-10 04:02:23",
       "album": {
-        "name": "Ca$ino",
-        "url": "https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b"
+        "name": "The Fall-Off",
+        "url": "https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7"
       },
       "artists": [
         {
-          "name": "Baby Keem",
-          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 205176,
-      "name": "I am not a Lyricist",
-      "url": "https://open.spotify.com/track/76uwSqRmmSfRZVocIceH1b"
+      "duration_ms": 332386,
+      "name": "I Love Her Again",
+      "url": "https://open.spotify.com/track/5pjf75G1zn9EEFa8iaCV5h"
     },
     {
-      "added_at": "2026-04-03 04:07:15",
+      "added_at": "2026-04-10 04:02:23",
       "album": {
         "name": "Spiral Staircases",
         "url": "https://open.spotify.com/album/4XGYIMntQYL5PPjsUZJoGJ"
@@ -281,7 +273,7 @@
       "url": "https://open.spotify.com/track/3sgv5VRl0IZpocRJcwc5CK"
     },
     {
-      "added_at": "2026-04-03 04:07:15",
+      "added_at": "2026-04-10 04:02:23",
       "album": {
         "name": "ALREADY MINE",
         "url": "https://open.spotify.com/album/5FrD2Gq0lVZnFqln6OKmb7"
@@ -297,7 +289,7 @@
       "url": "https://open.spotify.com/track/3r0z0osqa5540ESSK3xQrq"
     },
     {
-      "added_at": "2026-04-03 04:07:15",
+      "added_at": "2026-04-10 04:02:23",
       "album": {
         "name": "The Fall-Off",
         "url": "https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7"
@@ -313,7 +305,7 @@
       "url": "https://open.spotify.com/track/3kUHIvjJ8p9UzeaeeqHkfg"
     },
     {
-      "added_at": "2026-04-03 04:07:15",
+      "added_at": "2026-04-10 04:02:23",
       "album": {
         "name": "BULLY",
         "url": "https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS"
@@ -333,7 +325,7 @@
       "url": "https://open.spotify.com/track/0fD7KBtQgPR1YCtuPAsyZJ"
     },
     {
-      "added_at": "2026-04-03 04:07:15",
+      "added_at": "2026-04-10 04:02:23",
       "album": {
         "name": "Ca$ino",
         "url": "https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b"
@@ -344,12 +336,36 @@
           "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
         }
       ],
-      "duration_ms": 166469,
-      "name": "No Blame",
-      "url": "https://open.spotify.com/track/4OiF7pHMapELmWxgwShCbK"
+      "duration_ms": 118425,
+      "name": "No Security",
+      "url": "https://open.spotify.com/track/4LGFc5Vv5YlqTvWIa37CbG"
     },
     {
-      "added_at": "2026-04-03 04:07:15",
+      "added_at": "2026-04-10 04:02:23",
+      "album": {
+        "name": "Harlem's Finest: Return Of The King",
+        "url": "https://open.spotify.com/album/52bbgcaJfoKW3N2eO8TYMN"
+      },
+      "artists": [
+        {
+          "name": "Big L",
+          "url": "https://open.spotify.com/artist/30fiiwr2EeZp1tAhzYCmyM"
+        },
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "Pale Jay",
+          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
+        }
+      ],
+      "duration_ms": 155142,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/7lCpzHEIIBf7BQKfRyRP01"
+    },
+    {
+      "added_at": "2026-04-10 04:02:23",
       "album": {
         "name": "GNX",
         "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
@@ -365,7 +381,7 @@
       "url": "https://open.spotify.com/track/5ho7VSXSmI2KM2nDjcnLyz"
     },
     {
-      "added_at": "2026-04-03 04:07:15",
+      "added_at": "2026-04-10 04:02:23",
       "album": {
         "name": "Balloonerism",
         "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
@@ -381,23 +397,7 @@
       "url": "https://open.spotify.com/track/4pu58kqegTnOxPNJpY3kr9"
     },
     {
-      "added_at": "2026-04-03 04:07:15",
-      "album": {
-        "name": "Port Antonio",
-        "url": "https://open.spotify.com/album/5PsNxZIlqO0zVMxDF9zulW"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 316235,
-      "name": "Port Antonio",
-      "url": "https://open.spotify.com/track/74QLfg69aVm4Afw3VGhDTY"
-    },
-    {
-      "added_at": "2026-04-03 04:07:15",
+      "added_at": "2026-04-10 04:02:23",
       "album": {
         "name": "Life Is Beautiful",
         "url": "https://open.spotify.com/album/7KldyyeQxbaR4oXtMprIJD"
@@ -421,7 +421,39 @@
       "url": "https://open.spotify.com/track/6hh74g3EXXM8dF1Boamcyn"
     },
     {
-      "added_at": "2026-04-03 04:07:15",
+      "added_at": "2026-04-10 04:02:23",
+      "album": {
+        "name": "Ca$ino",
+        "url": "https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b"
+      },
+      "artists": [
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        }
+      ],
+      "duration_ms": 166469,
+      "name": "No Blame",
+      "url": "https://open.spotify.com/track/4OiF7pHMapELmWxgwShCbK"
+    },
+    {
+      "added_at": "2026-04-10 04:02:23",
+      "album": {
+        "name": "Port Antonio",
+        "url": "https://open.spotify.com/album/5PsNxZIlqO0zVMxDF9zulW"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 316235,
+      "name": "Port Antonio",
+      "url": "https://open.spotify.com/track/74QLfg69aVm4Afw3VGhDTY"
+    },
+    {
+      "added_at": "2026-04-10 04:02:23",
       "album": {
         "name": "Alfredo 2",
         "url": "https://open.spotify.com/album/5WrpCQmbTUZuzNxGCPUFSV"
@@ -441,7 +473,7 @@
       "url": "https://open.spotify.com/track/7I3cmK1BCShHs3MIZ3rOWF"
     },
     {
-      "added_at": "2026-04-03 04:07:15",
+      "added_at": "2026-04-10 04:02:23",
       "album": {
         "name": "Let God Sort Em Out",
         "url": "https://open.spotify.com/album/17ScNnJ0lSWajodZaRpHdQ"
@@ -469,7 +501,31 @@
       "url": "https://open.spotify.com/track/6X5sXeRwqbqPsZ8FFFae0F"
     },
     {
-      "added_at": "2026-04-03 04:07:15",
+      "added_at": "2026-04-10 04:02:23",
+      "album": {
+        "name": "Spiral Staircases",
+        "url": "https://open.spotify.com/album/4XGYIMntQYL5PPjsUZJoGJ"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        },
+        {
+          "name": "Curren$y",
+          "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "duration_ms": 209600,
+      "name": "Drive Alone",
+      "url": "https://open.spotify.com/track/52O0lWLhF9VoOVACnlnAnS"
+    },
+    {
+      "added_at": "2026-04-10 04:02:23",
       "album": {
         "name": "Alligator Bites Never Heal",
         "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
@@ -485,7 +541,7 @@
       "url": "https://open.spotify.com/track/27oSDhuYJWxdm9yjI6891v"
     },
     {
-      "added_at": "2026-04-03 04:07:15",
+      "added_at": "2026-04-10 04:02:23",
       "album": {
         "name": "God Does Like Ugly",
         "url": "https://open.spotify.com/album/2tU04u3hxtziB4sOVJKak3"
@@ -513,31 +569,7 @@
       "url": "https://open.spotify.com/track/3LXxHFZWt6OHdBsgucSIjJ"
     },
     {
-      "added_at": "2026-04-03 04:07:15",
-      "album": {
-        "name": "Spiral Staircases",
-        "url": "https://open.spotify.com/album/4XGYIMntQYL5PPjsUZJoGJ"
-      },
-      "artists": [
-        {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
-        },
-        {
-          "name": "Curren$y",
-          "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        }
-      ],
-      "duration_ms": 209600,
-      "name": "Drive Alone",
-      "url": "https://open.spotify.com/track/52O0lWLhF9VoOVACnlnAnS"
-    },
-    {
-      "added_at": "2026-04-03 04:07:15",
+      "added_at": "2026-04-10 04:02:23",
       "album": {
         "name": "Alfredo 2",
         "url": "https://open.spotify.com/album/5WrpCQmbTUZuzNxGCPUFSV"
@@ -561,7 +593,7 @@
       "url": "https://open.spotify.com/track/6yZPdc1jlYnG9QFG8WnrMm"
     },
     {
-      "added_at": "2026-04-03 04:07:15",
+      "added_at": "2026-04-10 04:02:23",
       "album": {
         "name": "Balloonerism",
         "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
@@ -577,51 +609,7 @@
       "url": "https://open.spotify.com/track/1lw3asU5xp73sdBy0rYsuK"
     },
     {
-      "added_at": "2026-04-03 04:07:15",
-      "album": {
-        "name": "e.t.d.s. A Mixtape by .idk.",
-        "url": "https://open.spotify.com/album/0CfaDINhy5bFTz9UwM7WAF"
-      },
-      "artists": [
-        {
-          "name": "IDK",
-          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
-        },
-        {
-          "name": "Conductor Williams",
-          "url": "https://open.spotify.com/artist/1VuBGdfqq86BQyiDactQAC"
-        },
-        {
-          "name": "MF DOOM",
-          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
-        }
-      ],
-      "duration_ms": 149503,
-      "name": "FLAKKA",
-      "url": "https://open.spotify.com/track/7JXgFyQNzpxcfIILwryyJZ"
-    },
-    {
-      "added_at": "2026-04-03 04:07:15",
-      "album": {
-        "name": "Home on the Range // Back Home",
-        "url": "https://open.spotify.com/album/5FMSAdmLudQYXyLWLfoya7"
-      },
-      "artists": [
-        {
-          "name": "Earl Sweatshirt",
-          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
-        },
-        {
-          "name": "SURF GANG",
-          "url": "https://open.spotify.com/artist/0rTeZQSxEg1XzZ1dFz6Moz"
-        }
-      ],
-      "duration_ms": 97874,
-      "name": "Home on the Range",
-      "url": "https://open.spotify.com/track/4QiWYpCnD5TipN2AycUy2i"
-    },
-    {
-      "added_at": "2026-04-03 04:07:15",
+      "added_at": "2026-04-10 04:02:23",
       "album": {
         "name": "Life Is Beautiful",
         "url": "https://open.spotify.com/album/7KldyyeQxbaR4oXtMprIJD"
@@ -645,7 +633,51 @@
       "url": "https://open.spotify.com/track/65F3PDyVWG6sYeiMJJEBly"
     },
     {
-      "added_at": "2026-04-03 04:07:15",
+      "added_at": "2026-04-10 04:02:23",
+      "album": {
+        "name": "e.t.d.s. A Mixtape by .idk.",
+        "url": "https://open.spotify.com/album/0CfaDINhy5bFTz9UwM7WAF"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        },
+        {
+          "name": "Conductor Williams",
+          "url": "https://open.spotify.com/artist/1VuBGdfqq86BQyiDactQAC"
+        },
+        {
+          "name": "MF DOOM",
+          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
+        }
+      ],
+      "duration_ms": 149503,
+      "name": "FLAKKA",
+      "url": "https://open.spotify.com/track/7JXgFyQNzpxcfIILwryyJZ"
+    },
+    {
+      "added_at": "2026-04-10 04:02:23",
+      "album": {
+        "name": "Home on the Range // Back Home",
+        "url": "https://open.spotify.com/album/5FMSAdmLudQYXyLWLfoya7"
+      },
+      "artists": [
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        },
+        {
+          "name": "SURF GANG",
+          "url": "https://open.spotify.com/artist/0rTeZQSxEg1XzZ1dFz6Moz"
+        }
+      ],
+      "duration_ms": 97874,
+      "name": "Home on the Range",
+      "url": "https://open.spotify.com/track/4QiWYpCnD5TipN2AycUy2i"
+    },
+    {
+      "added_at": "2026-04-10 04:02:23",
       "album": {
         "name": "Alfredo 2",
         "url": "https://open.spotify.com/album/5WrpCQmbTUZuzNxGCPUFSV"
@@ -669,7 +701,7 @@
       "url": "https://open.spotify.com/track/4ig1U15Fek3EOm6lJppxu1"
     },
     {
-      "added_at": "2026-04-03 04:07:15",
+      "added_at": "2026-04-10 04:02:23",
       "album": {
         "name": "Balloonerism",
         "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
@@ -685,27 +717,7 @@
       "url": "https://open.spotify.com/track/1KwIDHEK3CYbHPJUTMxxNu"
     },
     {
-      "added_at": "2026-04-03 04:07:15",
-      "album": {
-        "name": "e.t.d.s. A Mixtape by .idk.",
-        "url": "https://open.spotify.com/album/0CfaDINhy5bFTz9UwM7WAF"
-      },
-      "artists": [
-        {
-          "name": "IDK",
-          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
-        },
-        {
-          "name": "Black Thought",
-          "url": "https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo"
-        }
-      ],
-      "duration_ms": 178342,
-      "name": "P.O",
-      "url": "https://open.spotify.com/track/7KIriYANPEsBGTZoF5WwUB"
-    },
-    {
-      "added_at": "2026-04-03 04:07:15",
+      "added_at": "2026-04-10 04:02:23",
       "album": {
         "name": "Muddy Waters Too",
         "url": "https://open.spotify.com/album/5aahGTQnyEzNwR8Wy2lEpi"
@@ -725,7 +737,27 @@
       "url": "https://open.spotify.com/track/36u1dV1zt17N8Cv7Ptct4u"
     },
     {
-      "added_at": "2026-04-03 04:07:15",
+      "added_at": "2026-04-10 04:02:23",
+      "album": {
+        "name": "e.t.d.s. A Mixtape by .idk.",
+        "url": "https://open.spotify.com/album/0CfaDINhy5bFTz9UwM7WAF"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        },
+        {
+          "name": "Black Thought",
+          "url": "https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo"
+        }
+      ],
+      "duration_ms": 178342,
+      "name": "P.O",
+      "url": "https://open.spotify.com/track/7KIriYANPEsBGTZoF5WwUB"
+    },
+    {
+      "added_at": "2026-04-10 04:02:23",
       "album": {
         "name": "God Does Like Ugly",
         "url": "https://open.spotify.com/album/2tU04u3hxtziB4sOVJKak3"
@@ -745,7 +777,7 @@
       "url": "https://open.spotify.com/track/12Wh0aUUoJUFffOQdY1ouy"
     },
     {
-      "added_at": "2026-04-03 04:07:15",
+      "added_at": "2026-04-10 04:02:23",
       "album": {
         "name": "Alfredo 2",
         "url": "https://open.spotify.com/album/5WrpCQmbTUZuzNxGCPUFSV"
@@ -765,7 +797,7 @@
       "url": "https://open.spotify.com/track/0JoGpxGXpz5vuam5Fopc4C"
     },
     {
-      "added_at": "2026-04-03 04:07:15",
+      "added_at": "2026-04-10 04:02:23",
       "album": {
         "name": "EGYPT (Remix)",
         "url": "https://open.spotify.com/album/3XC0hyQcq2vsrpGXZKtGs2"
@@ -785,7 +817,7 @@
       "url": "https://open.spotify.com/track/61b65LQ9rxhcMtDEusHPZL"
     },
     {
-      "added_at": "2026-04-03 04:07:15",
+      "added_at": "2026-04-10 04:02:23",
       "album": {
         "name": "Squeeze First",
         "url": "https://open.spotify.com/album/5Dnp4AmChJ8QrRfDzdXYyK"
@@ -809,7 +841,23 @@
       "url": "https://open.spotify.com/track/0E5qrxehEzhaBVBJOZKsHi"
     },
     {
-      "added_at": "2026-04-03 04:07:15",
+      "added_at": "2026-04-10 04:02:23",
+      "album": {
+        "name": "2014 Forest Hills Drive (10 Year Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2fSAC0ZiYnwKfzLEvyaMm8"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 224639,
+      "name": "Die Together",
+      "url": "https://open.spotify.com/track/4mtpjNb1aZ5TVBpqCGtqv0"
+    },
+    {
+      "added_at": "2026-04-10 04:02:23",
       "album": {
         "name": "Everything Allocated",
         "url": "https://open.spotify.com/album/0d8VO6wtDm5NoPjR8N4YUi"
@@ -833,23 +881,7 @@
       "url": "https://open.spotify.com/track/6wUsnG6BpMPjuuQ7KQgQjD"
     },
     {
-      "added_at": "2026-04-03 04:07:15",
-      "album": {
-        "name": "2014 Forest Hills Drive (10 Year Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2fSAC0ZiYnwKfzLEvyaMm8"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 224639,
-      "name": "Die Together",
-      "url": "https://open.spotify.com/track/4mtpjNb1aZ5TVBpqCGtqv0"
-    },
-    {
-      "added_at": "2026-04-03 04:07:15",
+      "added_at": "2026-04-10 04:02:23",
       "album": {
         "name": "Cabin In The Sky",
         "url": "https://open.spotify.com/album/0yBlUg27MbywASeGd1uNIA"
@@ -869,7 +901,7 @@
       "url": "https://open.spotify.com/track/3YB9aijWreezTUgRzQhwrZ"
     },
     {
-      "added_at": "2026-04-03 04:07:15",
+      "added_at": "2026-04-10 04:02:23",
       "album": {
         "name": "God Does Like Ugly",
         "url": "https://open.spotify.com/album/2tU04u3hxtziB4sOVJKak3"
@@ -885,7 +917,7 @@
       "url": "https://open.spotify.com/track/2XXyUvdXTomMQleoui097l"
     },
     {
-      "added_at": "2026-04-03 04:07:15",
+      "added_at": "2026-04-10 04:02:23",
       "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/3E7lljIMKcipr3i5LT4sOp"
@@ -901,7 +933,7 @@
       "url": "https://open.spotify.com/track/48h1wMdyPIasyZ8thTVoQU"
     },
     {
-      "added_at": "2026-04-03 04:07:15",
+      "added_at": "2026-04-10 04:02:23",
       "album": {
         "name": "Manhunt",
         "url": "https://open.spotify.com/album/5OAT54oeB6x3VFbcbGwkbX"
@@ -921,7 +953,7 @@
       "url": "https://open.spotify.com/track/09j7r4RINFFmmWxQMCaVIC"
     },
     {
-      "added_at": "2026-04-03 04:07:15",
+      "added_at": "2026-04-10 04:02:23",
       "album": {
         "name": "Infinite",
         "url": "https://open.spotify.com/album/6vmyn1RL0oHkJhXM9hG7m3"
@@ -941,7 +973,7 @@
       "url": "https://open.spotify.com/track/1Z1TErSXbCXjEJWKqcpf3V"
     },
     {
-      "added_at": "2026-04-03 04:07:15",
+      "added_at": "2026-04-10 04:02:23",
       "album": {
         "name": "The Louvre",
         "url": "https://open.spotify.com/album/6190G0Qx9vwR0gINCGumqH"
@@ -971,42 +1003,6 @@
       "duration_ms": 249600,
       "name": "The Louvre",
       "url": "https://open.spotify.com/track/54blTc3AnAVPehzb7u3TDs"
-    },
-    {
-      "added_at": "2026-04-03 04:07:15",
-      "album": {
-        "name": "Small Talk",
-        "url": "https://open.spotify.com/album/4uFrzWn4YGeEgtugDyhcmB"
-      },
-      "artists": [
-        {
-          "name": "Ovrkast.",
-          "url": "https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7"
-        },
-        {
-          "name": "Samara Cyn",
-          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
-        }
-      ],
-      "duration_ms": 193883,
-      "name": "Small Talk",
-      "url": "https://open.spotify.com/track/7qGSwh7ZhKy0iHIXsDfn0N"
-    },
-    {
-      "added_at": "2026-04-03 04:07:15",
-      "album": {
-        "name": "what will they say",
-        "url": "https://open.spotify.com/album/0fKRLBkEn4QwgKw5OdRZgQ"
-      },
-      "artists": [
-        {
-          "name": "Samara Cyn",
-          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
-        }
-      ],
-      "duration_ms": 157591,
-      "name": "what will they say",
-      "url": "https://open.spotify.com/track/1pwhB1CR3CP83pwDfzM9Qd"
     }
   ],
   "unique_name": "Spilled Ink",

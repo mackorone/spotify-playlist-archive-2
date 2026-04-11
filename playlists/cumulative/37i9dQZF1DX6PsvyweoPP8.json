@@ -2810,7 +2810,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 312558,
       "name": "Fala Quem Machuca?",
       "url": "https://open.spotify.com/track/3KG2VF4wrFpzQHwNwduL5i"
@@ -4122,6 +4122,24 @@
       "duration_ms": 165714,
       "name": "Luz de Velas",
       "url": "https://open.spotify.com/track/6IitElRJYS4fhaL1SNvfXR"
+    },
+    {
+      "album": {
+        "name": "AR\ua4d8ANO",
+        "url": "https://open.spotify.com/album/6dehecfgOrOfZqIzzwDQxl"
+      },
+      "artists": [
+        {
+          "name": "Derek",
+          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73043,
+      "name": "Magia",
+      "url": "https://open.spotify.com/track/1OGzxVDGfZ9gnDJCgbqB2I"
     },
     {
       "album": {

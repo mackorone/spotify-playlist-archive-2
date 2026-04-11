@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Tune in here for new and current hits in Contemporary Christian music! Cover: Josiah Queen",
+  "description": "Tune in here for new and current hits in Contemporary Christian music! Cover: We The Kingdom",
   "name": "Top Contemporary Christian",
   "tracks": [
     {
@@ -92,7 +92,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 219879,
       "name": "A Thousand Times",
       "url": "https://open.spotify.com/track/1hmvM542L5jSQ6ZJjB7jTc"
@@ -1246,7 +1246,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 189750,
       "name": "Burn",
       "url": "https://open.spotify.com/track/7CnDX6GF94ZkZ9Yr6VMWDF"
@@ -2927,6 +2927,24 @@
     },
     {
       "album": {
+        "name": "Give Him Praise",
+        "url": "https://open.spotify.com/album/3JvUduXTnDt761dPp3TOM5"
+      },
+      "artists": [
+        {
+          "name": "Building 429",
+          "url": "https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238937,
+      "name": "Give Him Praise",
+      "url": "https://open.spotify.com/track/485zKUmIlpHwiOVI1u1JKu"
+    },
+    {
+      "album": {
         "name": "A New Reality (Deluxe Version)",
         "url": "https://open.spotify.com/album/7cLkLPRP2tcPihrTg3Ciqf"
       },
@@ -3372,6 +3390,24 @@
       "duration_ms": 258067,
       "name": "God's Still Working On Me",
       "url": "https://open.spotify.com/track/70icn8eAyAcbI0GYT8qdk1"
+    },
+    {
+      "album": {
+        "name": "God's Way",
+        "url": "https://open.spotify.com/album/4wmwWbSwo8mYU4PF1hO9GL"
+      },
+      "artists": [
+        {
+          "name": "We The Kingdom",
+          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203229,
+      "name": "God's Way",
+      "url": "https://open.spotify.com/track/45nUmxdwpjdkosuOCmywu9"
     },
     {
       "album": {
@@ -3877,6 +3913,24 @@
     },
     {
       "album": {
+        "name": "Halfway Home",
+        "url": "https://open.spotify.com/album/3mys52nKcxd0nAAtB7XMA0"
+      },
+      "artists": [
+        {
+          "name": "We Are Messengers",
+          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237180,
+      "name": "Halfway Home",
+      "url": "https://open.spotify.com/track/0aS1qk5IIimBhHzwhbYruc"
+    },
+    {
+      "album": {
         "name": "Whosoever",
         "url": "https://open.spotify.com/album/7fSvOKp7nHDbiDoxhqirZZ"
       },
@@ -4196,7 +4250,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 169950,
       "name": "He's Alive",
       "url": "https://open.spotify.com/track/2ezSDe3bF66KcYIOqByihm"
@@ -5942,7 +5996,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 233575,
       "name": "It Is Well",
       "url": "https://open.spotify.com/track/0cKZ96VfjE9Ay6kuhSusn9"
@@ -9038,7 +9092,7 @@
       ],
       "date_added": "2026-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 207380,
       "name": "Rescue Me - Radio Edit",
       "url": "https://open.spotify.com/track/0NXMf4Q9vJJ12Hv2sXJWpS"
@@ -9852,7 +9906,7 @@
       ],
       "date_added": "2026-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 169400,
       "name": "Sparrow",
       "url": "https://open.spotify.com/track/4xYAN31UUpPR7WOa4nxdh0"
@@ -10897,6 +10951,28 @@
     },
     {
       "album": {
+        "name": "The Jesus I Know Now",
+        "url": "https://open.spotify.com/album/7lnIDIoFSoHRRx2XJTsxju"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213771,
+      "name": "The Jesus I Know Now",
+      "url": "https://open.spotify.com/track/5b1kZLzylm4PWvlX6DEklE"
+    },
+    {
+      "album": {
         "name": "The Jesus Way Collection",
         "url": "https://open.spotify.com/album/4gCBVcYiWYXKs9WTaglgCC"
       },
@@ -11454,6 +11530,24 @@
       "duration_ms": 241951,
       "name": "Time",
       "url": "https://open.spotify.com/track/5mOeK4IBsw9SailoaEB9Kj"
+    },
+    {
+      "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/2ZiFRKlEgjOs98Uno3OQrG"
+      },
+      "artists": [
+        {
+          "name": "David Leonard",
+          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200466,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/1LsGjcNxbdOCPWASQWxXQG"
     },
     {
       "album": {
@@ -12090,7 +12184,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 166000,
       "name": "Well Done",
       "url": "https://open.spotify.com/track/5GNTb6qrTZr20saXzuamt6"
@@ -12242,7 +12336,7 @@
       ],
       "date_added": "2026-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 237000,
       "name": "When A Cowboy Prays - with Cody Johnson",
       "url": "https://open.spotify.com/track/6c40Bt52lBQOEKgaJRPpHo"
@@ -12318,6 +12412,24 @@
       "duration_ms": 197817,
       "name": "When I Say Yes",
       "url": "https://open.spotify.com/track/09wek0QXMM5ZjZ2B3JAcp4"
+    },
+    {
+      "album": {
+        "name": "When You Give It Up",
+        "url": "https://open.spotify.com/album/174U4t8jS0tRqjhpXlgBMh"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Plank",
+          "url": "https://open.spotify.com/artist/2rZyX9csPrIfGn1E7iSF7y"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162157,
+      "name": "When You Give It Up",
+      "url": "https://open.spotify.com/track/5d70RGXlCzwqQl5WLV6Wpk"
     },
     {
       "album": {
@@ -12688,6 +12800,24 @@
       "duration_ms": 190250,
       "name": "Who the Cross Is For",
       "url": "https://open.spotify.com/track/7tmJcijyirkPOEf2CJuL8d"
+    },
+    {
+      "album": {
+        "name": "Whole Wide World",
+        "url": "https://open.spotify.com/album/74LvYRtJs5MhvXTvHhIZ8K"
+      },
+      "artists": [
+        {
+          "name": "Consumed By Fire",
+          "url": "https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171579,
+      "name": "Whole Wide World",
+      "url": "https://open.spotify.com/track/6PUttXfO7izVlSBB1GiCl0"
     },
     {
       "album": {

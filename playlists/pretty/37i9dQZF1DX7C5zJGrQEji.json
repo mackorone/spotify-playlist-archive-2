@@ -1,6 +1,6 @@
 {
   "description": "Tracks crediting NATURE support its conservation.",
-  "num_followers": 13140,
+  "num_followers": 13167,
   "original_name": "feat. NATURE",
   "owner": {
     "name": "Spotify",
@@ -799,30 +799,6 @@
     {
       "added_at": "2026-02-05 08:45:41",
       "album": {
-        "name": "Air - Reimagined (feat. NATURE and Kat Pither)",
-        "url": "https://open.spotify.com/album/5qYnWj7Q31jHiF0jAeLqa3"
-      },
-      "artists": [
-        {
-          "name": "Jessie Marcella",
-          "url": "https://open.spotify.com/artist/6BWY7ghwnw3YP1Mx21PJfb"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        },
-        {
-          "name": "Kat Pither",
-          "url": "https://open.spotify.com/artist/647lLtUfHMTIehOMikJnFo"
-        }
-      ],
-      "duration_ms": 419076,
-      "name": "Air - Reimagined (feat. NATURE and Kat Pither)",
-      "url": "https://open.spotify.com/track/25K6NrCTRpxgRYgKHHQ4n3"
-    },
-    {
-      "added_at": "2026-02-05 08:45:41",
-      "album": {
         "name": "Dar (feat. NATURE)",
         "url": "https://open.spotify.com/album/3pKjNLOnBzVgxSDkgSIdRh"
       },
@@ -843,6 +819,30 @@
       "duration_ms": 326311,
       "name": "Dar (feat. NATURE)",
       "url": "https://open.spotify.com/track/6TLZz8jKRZJ6qZ00UOqt9a"
+    },
+    {
+      "added_at": "2026-02-05 08:45:41",
+      "album": {
+        "name": "Air - Reimagined (feat. NATURE and Kat Pither)",
+        "url": "https://open.spotify.com/album/5qYnWj7Q31jHiF0jAeLqa3"
+      },
+      "artists": [
+        {
+          "name": "Jessie Marcella",
+          "url": "https://open.spotify.com/artist/6BWY7ghwnw3YP1Mx21PJfb"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        },
+        {
+          "name": "Kat Pither",
+          "url": "https://open.spotify.com/artist/647lLtUfHMTIehOMikJnFo"
+        }
+      ],
+      "duration_ms": 419076,
+      "name": "Air - Reimagined (feat. NATURE and Kat Pither)",
+      "url": "https://open.spotify.com/track/25K6NrCTRpxgRYgKHHQ4n3"
     },
     {
       "added_at": "2026-02-05 08:45:41",
@@ -1003,26 +1003,6 @@
     {
       "added_at": "2026-02-05 08:45:41",
       "album": {
-        "name": "Naima (feat. NATURE)",
-        "url": "https://open.spotify.com/album/2QQnmpxrcluC5qv4ewnh25"
-      },
-      "artists": [
-        {
-          "name": "Aura Dione",
-          "url": "https://open.spotify.com/artist/5SUSe6NpDjc6BNKX8Dx0hj"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        }
-      ],
-      "duration_ms": 150272,
-      "name": "Naima (feat. NATURE)",
-      "url": "https://open.spotify.com/track/1diMMU4dEjZad3i42ldDwN"
-    },
-    {
-      "added_at": "2026-02-05 08:45:41",
-      "album": {
         "name": "Dew (feat. NATURE)",
         "url": "https://open.spotify.com/album/7lXQ19myGmHdIPBVaoeDJo"
       },
@@ -1043,22 +1023,22 @@
     {
       "added_at": "2026-02-05 08:45:41",
       "album": {
-        "name": "Hot Dog on a Stick (feat. NATURE)",
-        "url": "https://open.spotify.com/album/6quHYanKkIKirUeoNWJ3ew"
+        "name": "Naima (feat. NATURE)",
+        "url": "https://open.spotify.com/album/2QQnmpxrcluC5qv4ewnh25"
       },
       "artists": [
         {
-          "name": "Quinn Christopherson",
-          "url": "https://open.spotify.com/artist/0tzC81XDBWtTPfJyUg6O2j"
+          "name": "Aura Dione",
+          "url": "https://open.spotify.com/artist/5SUSe6NpDjc6BNKX8Dx0hj"
         },
         {
           "name": "NATURE",
           "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
         }
       ],
-      "duration_ms": 168260,
-      "name": "Hot Dog on a Stick (feat. NATURE)",
-      "url": "https://open.spotify.com/track/30Ebq0g8zqlTk074KyvfKh"
+      "duration_ms": 150272,
+      "name": "Naima (feat. NATURE)",
+      "url": "https://open.spotify.com/track/1diMMU4dEjZad3i42ldDwN"
     },
     {
       "added_at": "2026-02-05 08:45:41",
@@ -1083,6 +1063,46 @@
       "duration_ms": 220000,
       "name": "Wale Nze Mbong (feat. NATURE)",
       "url": "https://open.spotify.com/track/66Cbh5T7nJ6pP6urJNospJ"
+    },
+    {
+      "added_at": "2026-02-05 08:45:41",
+      "album": {
+        "name": "Hot Dog on a Stick (feat. NATURE)",
+        "url": "https://open.spotify.com/album/6quHYanKkIKirUeoNWJ3ew"
+      },
+      "artists": [
+        {
+          "name": "Quinn Christopherson",
+          "url": "https://open.spotify.com/artist/0tzC81XDBWtTPfJyUg6O2j"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "duration_ms": 168260,
+      "name": "Hot Dog on a Stick (feat. NATURE)",
+      "url": "https://open.spotify.com/track/30Ebq0g8zqlTk074KyvfKh"
+    },
+    {
+      "added_at": "2026-02-05 08:45:41",
+      "album": {
+        "name": "Lesser Spotted (feat. NATURE)",
+        "url": "https://open.spotify.com/album/3MN0OGSZUjsetEhOHlDdX8"
+      },
+      "artists": [
+        {
+          "name": "I. JORDAN",
+          "url": "https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "duration_ms": 202122,
+      "name": "Lesser Spotted (feat. NATURE)",
+      "url": "https://open.spotify.com/track/0KP19nnFanB8K2h8bQp1Yv"
     },
     {
       "added_at": "2026-02-05 08:45:41",
@@ -1115,46 +1135,6 @@
     {
       "added_at": "2026-02-05 08:45:41",
       "album": {
-        "name": "Lesser Spotted (feat. NATURE)",
-        "url": "https://open.spotify.com/album/3MN0OGSZUjsetEhOHlDdX8"
-      },
-      "artists": [
-        {
-          "name": "I. JORDAN",
-          "url": "https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        }
-      ],
-      "duration_ms": 202122,
-      "name": "Lesser Spotted (feat. NATURE)",
-      "url": "https://open.spotify.com/track/0KP19nnFanB8K2h8bQp1Yv"
-    },
-    {
-      "added_at": "2026-02-05 08:45:41",
-      "album": {
-        "name": "Nightingale (feat. NATURE)",
-        "url": "https://open.spotify.com/album/2rQTUrvNkzyhnMtlTMMN02"
-      },
-      "artists": [
-        {
-          "name": "Wildforms",
-          "url": "https://open.spotify.com/artist/3JN5wydzHKvTzzn9R3Zy8a"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        }
-      ],
-      "duration_ms": 163408,
-      "name": "Nightingale (feat. NATURE)",
-      "url": "https://open.spotify.com/track/3NawWmpRgds78Yo53QOw8G"
-    },
-    {
-      "added_at": "2026-02-05 08:45:41",
-      "album": {
         "name": "Metropolis (feat. NATURE)",
         "url": "https://open.spotify.com/album/56LyWTBEzesbge7fz95sTi"
       },
@@ -1179,54 +1159,22 @@
     {
       "added_at": "2026-02-05 08:45:41",
       "album": {
-        "name": "Universal (feat. NATURE)",
-        "url": "https://open.spotify.com/album/6yRMDEcwvw3GNTgiBHGdDn"
+        "name": "Nightingale (feat. NATURE)",
+        "url": "https://open.spotify.com/album/2rQTUrvNkzyhnMtlTMMN02"
       },
       "artists": [
         {
-          "name": "Joshua Sam Miller",
-          "url": "https://open.spotify.com/artist/2AWiZLYN8BaYhMJp9lfQ9j"
-        },
-        {
-          "name": "WHAIA",
-          "url": "https://open.spotify.com/artist/52frXpqXCFxLGQIZ59V7LD"
+          "name": "Wildforms",
+          "url": "https://open.spotify.com/artist/3JN5wydzHKvTzzn9R3Zy8a"
         },
         {
           "name": "NATURE",
           "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
         }
       ],
-      "duration_ms": 280241,
-      "name": "Universal (feat. NATURE)",
-      "url": "https://open.spotify.com/track/1FiLR3xdD95WyN4XSX9rfY"
-    },
-    {
-      "added_at": "2026-02-05 08:45:41",
-      "album": {
-        "name": "Oregon Rain (feat. NATURE)",
-        "url": "https://open.spotify.com/album/7jSTzL0Nco71gqnp2PLTXA"
-      },
-      "artists": [
-        {
-          "name": "David Allred",
-          "url": "https://open.spotify.com/artist/05XWJrLfEbTiyv1oirnMSm"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        },
-        {
-          "name": "Fay Funk",
-          "url": "https://open.spotify.com/artist/6mj7MG08uhdgK9zvG0nyI6"
-        },
-        {
-          "name": "Gentle Millennials",
-          "url": "https://open.spotify.com/artist/3OlaO238BrZB7fZSVvnXCK"
-        }
-      ],
-      "duration_ms": 260657,
-      "name": "Oregon Rain (feat. NATURE)",
-      "url": "https://open.spotify.com/track/4QXodwucoCLns2sp22Azvo"
+      "duration_ms": 163408,
+      "name": "Nightingale (feat. NATURE)",
+      "url": "https://open.spotify.com/track/3NawWmpRgds78Yo53QOw8G"
     },
     {
       "added_at": "2026-02-05 08:45:41",
@@ -1251,6 +1199,30 @@
       "duration_ms": 274822,
       "name": "Loved & Lost Reprise (feat. NATURE)",
       "url": "https://open.spotify.com/track/5uold1wGpiF1Fj2monmTVP"
+    },
+    {
+      "added_at": "2026-02-05 08:45:41",
+      "album": {
+        "name": "Universal (feat. NATURE)",
+        "url": "https://open.spotify.com/album/6yRMDEcwvw3GNTgiBHGdDn"
+      },
+      "artists": [
+        {
+          "name": "Joshua Sam Miller",
+          "url": "https://open.spotify.com/artist/2AWiZLYN8BaYhMJp9lfQ9j"
+        },
+        {
+          "name": "WHAIA",
+          "url": "https://open.spotify.com/artist/52frXpqXCFxLGQIZ59V7LD"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "duration_ms": 280241,
+      "name": "Universal (feat. NATURE)",
+      "url": "https://open.spotify.com/track/1FiLR3xdD95WyN4XSX9rfY"
     },
     {
       "added_at": "2026-02-05 08:45:41",
@@ -1283,22 +1255,30 @@
     {
       "added_at": "2026-02-05 08:45:41",
       "album": {
-        "name": "I Don\u2019t Wanna Be Strong (feat. NATURE)",
-        "url": "https://open.spotify.com/album/3uYcFZ6EAYLY2lXJYhpmz4"
+        "name": "Oregon Rain (feat. NATURE)",
+        "url": "https://open.spotify.com/album/7jSTzL0Nco71gqnp2PLTXA"
       },
       "artists": [
         {
-          "name": "Magnus M\u00fcnster",
-          "url": "https://open.spotify.com/artist/1B5Ve8nZVrz3iRMwFnqEtn"
+          "name": "David Allred",
+          "url": "https://open.spotify.com/artist/05XWJrLfEbTiyv1oirnMSm"
         },
         {
           "name": "NATURE",
           "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        },
+        {
+          "name": "Fay Funk",
+          "url": "https://open.spotify.com/artist/6mj7MG08uhdgK9zvG0nyI6"
+        },
+        {
+          "name": "Gentle Millennials",
+          "url": "https://open.spotify.com/artist/3OlaO238BrZB7fZSVvnXCK"
         }
       ],
-      "duration_ms": 197809,
-      "name": "I Don\u2019t Wanna Be Strong (feat. NATURE)",
-      "url": "https://open.spotify.com/track/7qWReEoqggN71VzO58JnV2"
+      "duration_ms": 260657,
+      "name": "Oregon Rain (feat. NATURE)",
+      "url": "https://open.spotify.com/track/4QXodwucoCLns2sp22Azvo"
     },
     {
       "added_at": "2026-02-05 08:45:41",
@@ -1323,6 +1303,26 @@
       "duration_ms": 178666,
       "name": "Running Water (feat.NATURE)",
       "url": "https://open.spotify.com/track/7lc1sk4MXZUvTvDvheOAaN"
+    },
+    {
+      "added_at": "2026-02-05 08:45:41",
+      "album": {
+        "name": "I Don\u2019t Wanna Be Strong (feat. NATURE)",
+        "url": "https://open.spotify.com/album/3uYcFZ6EAYLY2lXJYhpmz4"
+      },
+      "artists": [
+        {
+          "name": "Magnus M\u00fcnster",
+          "url": "https://open.spotify.com/artist/1B5Ve8nZVrz3iRMwFnqEtn"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "duration_ms": 197809,
+      "name": "I Don\u2019t Wanna Be Strong (feat. NATURE)",
+      "url": "https://open.spotify.com/track/7qWReEoqggN71VzO58JnV2"
     },
     {
       "added_at": "2026-02-05 08:45:41",

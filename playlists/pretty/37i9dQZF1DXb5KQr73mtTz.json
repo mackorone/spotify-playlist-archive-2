@@ -1,6 +1,6 @@
 {
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
-  "num_followers": 21683,
+  "num_followers": 21688,
   "original_name": "\ub098\uc758 \uc6b0\uc6b8\uc740, (K-Pop Sad Songs)",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2026-04-06 01:24:57",
       "album": {
-        "name": "Dynamite Kiss (Original Television Soundtrack), Pt.6",
-        "url": "https://open.spotify.com/album/2Mtcqih5r7TMsLnUYMkCn3"
-      },
-      "artists": [
-        {
-          "name": "Jeon Sang Keun",
-          "url": "https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "A Lie That Says I'm Fine",
-      "url": "https://open.spotify.com/track/42UMF5PTrHF10go5IRzmFE"
-    },
-    {
-      "added_at": "2026-04-06 01:24:57",
-      "album": {
         "name": "Hopeless Romantic",
         "url": "https://open.spotify.com/album/1EVvzyt33kcS37UOcQIhYS"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 235920,
       "name": "Hopeless Romantic (Feat. LEE SUHYUN)",
       "url": "https://open.spotify.com/track/0LY4jOJChwNOYUp2dTNEss"
+    },
+    {
+      "added_at": "2026-04-06 01:24:57",
+      "album": {
+        "name": "Dynamite Kiss (Original Television Soundtrack), Pt.6",
+        "url": "https://open.spotify.com/album/2Mtcqih5r7TMsLnUYMkCn3"
+      },
+      "artists": [
+        {
+          "name": "Jeon Sang Keun",
+          "url": "https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "A Lie That Says I'm Fine",
+      "url": "https://open.spotify.com/track/42UMF5PTrHF10go5IRzmFE"
     },
     {
       "added_at": "2026-04-06 01:24:57",
@@ -255,6 +255,34 @@
     {
       "added_at": "2026-04-06 01:24:57",
       "album": {
+        "name": "Phantom Pain",
+        "url": "https://open.spotify.com/album/1UHtWE0ml91fMJkFHfsupS"
+      },
+      "artists": [
+        {
+          "name": "1ANDON",
+          "url": "https://open.spotify.com/artist/3FuZ5fJDy5kgZ994gpSmEf"
+        },
+        {
+          "name": "Kim Feelsun",
+          "url": "https://open.spotify.com/artist/5jOztsbYMrFcbPauBMX6ih"
+        },
+        {
+          "name": "L-like",
+          "url": "https://open.spotify.com/artist/6L639z5gxUZ0uvXFewX9E7"
+        },
+        {
+          "name": "Verbal Jint",
+          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
+        }
+      ],
+      "duration_ms": 195333,
+      "name": "Villain",
+      "url": "https://open.spotify.com/track/6wiasLz64Eo0qdwOEuuq2Q"
+    },
+    {
+      "added_at": "2026-04-06 01:24:57",
+      "album": {
         "name": "&10",
         "url": "https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF"
       },
@@ -315,34 +343,6 @@
       "duration_ms": 160370,
       "name": "Meaningless",
       "url": "https://open.spotify.com/track/3scpCy6R3B2V8zmD2lBq5u"
-    },
-    {
-      "added_at": "2026-04-06 01:24:57",
-      "album": {
-        "name": "Phantom Pain",
-        "url": "https://open.spotify.com/album/1UHtWE0ml91fMJkFHfsupS"
-      },
-      "artists": [
-        {
-          "name": "1ANDON",
-          "url": "https://open.spotify.com/artist/3FuZ5fJDy5kgZ994gpSmEf"
-        },
-        {
-          "name": "Kim Feelsun",
-          "url": "https://open.spotify.com/artist/5jOztsbYMrFcbPauBMX6ih"
-        },
-        {
-          "name": "L-like",
-          "url": "https://open.spotify.com/artist/6L639z5gxUZ0uvXFewX9E7"
-        },
-        {
-          "name": "Verbal Jint",
-          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
-        }
-      ],
-      "duration_ms": 195333,
-      "name": "Villain",
-      "url": "https://open.spotify.com/track/6wiasLz64Eo0qdwOEuuq2Q"
     },
     {
       "added_at": "2026-04-06 01:24:57",
@@ -415,22 +415,6 @@
     {
       "added_at": "2026-04-06 01:24:57",
       "album": {
-        "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
-        "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
-      },
-      "artists": [
-        {
-          "name": "TAEMIN",
-          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
-        }
-      ],
-      "duration_ms": 227360,
-      "name": "Clockwork",
-      "url": "https://open.spotify.com/track/09SIbdUVr34sBd7Uwwt63J"
-    },
-    {
-      "added_at": "2026-04-06 01:24:57",
-      "album": {
         "name": "Narcissus",
         "url": "https://open.spotify.com/album/3fJW2iurWA0QBCMc3qrFwh"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 195186,
       "name": "Star (Feat. 10CM)",
       "url": "https://open.spotify.com/track/42LBHPwYS9g5lDbLxk0LCg"
+    },
+    {
+      "added_at": "2026-04-06 01:24:57",
+      "album": {
+        "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
+        "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
+      },
+      "artists": [
+        {
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+        }
+      ],
+      "duration_ms": 227360,
+      "name": "Clockwork",
+      "url": "https://open.spotify.com/track/09SIbdUVr34sBd7Uwwt63J"
     },
     {
       "added_at": "2026-04-06 01:24:57",
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-04-06 01:24:57",
       "album": {
-        "name": "Try (Journey Epilogue)",
-        "url": "https://open.spotify.com/album/5jb1JQY7bJhOWXlMjID9uQ"
-      },
-      "artists": [
-        {
-          "name": "Choi Yu Ree",
-          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
-        }
-      ],
-      "duration_ms": 216026,
-      "name": "Try (Journey Epilogue)",
-      "url": "https://open.spotify.com/track/7HK1elgUFULwdkMsiCbqoJ"
-    },
-    {
-      "added_at": "2026-04-06 01:24:57",
-      "album": {
         "name": "Can I Not ?",
         "url": "https://open.spotify.com/album/2oS4HX7sFBamp0sTlR9S2R"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 207666,
       "name": "Dumb (Feat. Kim Seungmin, Chan)",
       "url": "https://open.spotify.com/track/7ikmONRRDAN8Qi6C0B2qSp"
+    },
+    {
+      "added_at": "2026-04-06 01:24:57",
+      "album": {
+        "name": "Try (Journey Epilogue)",
+        "url": "https://open.spotify.com/album/5jb1JQY7bJhOWXlMjID9uQ"
+      },
+      "artists": [
+        {
+          "name": "Choi Yu Ree",
+          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
+        }
+      ],
+      "duration_ms": 216026,
+      "name": "Try (Journey Epilogue)",
+      "url": "https://open.spotify.com/track/7HK1elgUFULwdkMsiCbqoJ"
     },
     {
       "added_at": "2026-04-06 01:24:57",
@@ -651,22 +651,6 @@
     {
       "added_at": "2026-04-06 01:24:57",
       "album": {
-        "name": "STAR",
-        "url": "https://open.spotify.com/album/1MUyyE12R9UI3ySu6QPBvz"
-      },
-      "artists": [
-        {
-          "name": "Noel",
-          "url": "https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx"
-        }
-      ],
-      "duration_ms": 261850,
-      "name": "How about you",
-      "url": "https://open.spotify.com/track/6ph9CwuzgnCii8NsJ1JJ0G"
-    },
-    {
-      "added_at": "2026-04-06 01:24:57",
-      "album": {
         "name": "Please Forget Me",
         "url": "https://open.spotify.com/album/4U5CaXlqvjccAJlP5vP5uT"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 216830,
       "name": "Let`s never meet again",
       "url": "https://open.spotify.com/track/1ds0NS97ocY31n1PSE1DUT"
+    },
+    {
+      "added_at": "2026-04-06 01:24:57",
+      "album": {
+        "name": "STAR",
+        "url": "https://open.spotify.com/album/1MUyyE12R9UI3ySu6QPBvz"
+      },
+      "artists": [
+        {
+          "name": "Noel",
+          "url": "https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx"
+        }
+      ],
+      "duration_ms": 261850,
+      "name": "How about you",
+      "url": "https://open.spotify.com/track/6ph9CwuzgnCii8NsJ1JJ0G"
     },
     {
       "added_at": "2026-04-06 01:24:57",
@@ -771,22 +771,6 @@
     {
       "added_at": "2026-04-06 01:24:57",
       "album": {
-        "name": "After A Long Time",
-        "url": "https://open.spotify.com/album/4yAwgNjDnvbdfK3IIlAL2H"
-      },
-      "artists": [
-        {
-          "name": "Cha ga eul",
-          "url": "https://open.spotify.com/artist/4mSV7GdIFUByJJVxI4HyOi"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "After A Long Time",
-      "url": "https://open.spotify.com/track/6x2iQYiypmUoAyapbeyVWt"
-    },
-    {
-      "added_at": "2026-04-06 01:24:57",
-      "album": {
         "name": "Hold on",
         "url": "https://open.spotify.com/album/4xDmwkuOs9WDHKMVdmNiH3"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 231826,
       "name": "Hold on",
       "url": "https://open.spotify.com/track/4I8HkdCUsx3klJdXyefBaq"
+    },
+    {
+      "added_at": "2026-04-06 01:24:57",
+      "album": {
+        "name": "After A Long Time",
+        "url": "https://open.spotify.com/album/4yAwgNjDnvbdfK3IIlAL2H"
+      },
+      "artists": [
+        {
+          "name": "Cha ga eul",
+          "url": "https://open.spotify.com/artist/4mSV7GdIFUByJJVxI4HyOi"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "After A Long Time",
+      "url": "https://open.spotify.com/track/6x2iQYiypmUoAyapbeyVWt"
     },
     {
       "added_at": "2026-04-06 01:24:57",

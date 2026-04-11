@@ -4501,6 +4501,24 @@
     },
     {
       "album": {
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/2B4IUOCFFe0TSeFqYNKF9J"
+      },
+      "artists": [
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133500,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/1LkS4sqxIIbBwB0Rmn85Q1"
+    },
+    {
+      "album": {
         "name": "Fuerteventura Forever",
         "url": "https://open.spotify.com/album/7sAmDL45qjgM10ekWtaMV2"
       },

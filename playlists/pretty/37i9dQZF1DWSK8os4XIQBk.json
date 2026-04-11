@@ -1,13 +1,29 @@
 {
-  "description": "Ella Langley and the biggest hits in country music.",
-  "num_followers": 560381,
+  "description": "Josh Ross and the biggest hits in country music.",
+  "num_followers": 560365,
   "original_name": "All About Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADwYyBqB5+Gsi+5Es0Uiht7En3ms",
+  "snapshot_id": "AAAAAKROxw9VWCfmMUlmQlMe8YkFFawG",
   "tracks": [
+    {
+      "added_at": "2026-04-10 04:04:13",
+      "album": {
+        "name": "Give 'Er Hell",
+        "url": "https://open.spotify.com/album/0p1xtZSyS5Ke7kezDsSFZj"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "duration_ms": 201468,
+      "name": "Give 'Er Hell",
+      "url": "https://open.spotify.com/track/0kopcRj073aQTVbQVeHWm3"
+    },
     {
       "added_at": "2026-03-20 04:01:39",
       "album": {
@@ -23,22 +39,6 @@
       "duration_ms": 232226,
       "name": "Choosin' Texas",
       "url": "https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc"
-    },
-    {
-      "added_at": "2026-03-20 04:01:39",
-      "album": {
-        "name": "I\u2019m The Problem",
-        "url": "https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 204963,
-      "name": "I Got Better",
-      "url": "https://open.spotify.com/track/4gfrYDtaRmp6HPvN80V2ob"
     },
     {
       "added_at": "2026-03-20 04:01:39",
@@ -59,18 +59,18 @@
     {
       "added_at": "2026-03-20 04:01:39",
       "album": {
-        "name": "Hate How You Look",
-        "url": "https://open.spotify.com/album/1t3ggBU7tZh8cn5b3PDLzX"
+        "name": "I\u2019m The Problem",
+        "url": "https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD"
       },
       "artists": [
         {
-          "name": "Josh Ross",
-          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 194364,
-      "name": "Hate How You Look",
-      "url": "https://open.spotify.com/track/1e5jpBtujcn9CMRwNsB9Rq"
+      "duration_ms": 204963,
+      "name": "I Got Better",
+      "url": "https://open.spotify.com/track/4gfrYDtaRmp6HPvN80V2ob"
     },
     {
       "added_at": "2026-03-20 04:01:39",
@@ -91,38 +91,6 @@
     {
       "added_at": "2026-03-20 04:01:39",
       "album": {
-        "name": "Night Diving",
-        "url": "https://open.spotify.com/album/10hjsM00M8pghNdZRwOShY"
-      },
-      "artists": [
-        {
-          "name": "Max McNown",
-          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
-        }
-      ],
-      "duration_ms": 194120,
-      "name": "Better Me For You (Brown Eyes)",
-      "url": "https://open.spotify.com/track/4Iu73sdCNxZXZUIyClMoPZ"
-    },
-    {
-      "added_at": "2026-03-20 04:01:39",
-      "album": {
-        "name": "Taillight This Town",
-        "url": "https://open.spotify.com/album/7hxiN7d6lCpcwPgLRSWpoH"
-      },
-      "artists": [
-        {
-          "name": "Owen Riegling",
-          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
-        }
-      ],
-      "duration_ms": 186003,
-      "name": "Taillight This Town",
-      "url": "https://open.spotify.com/track/1n1NjVpPDdpn8BMQOL7lGY"
-    },
-    {
-      "added_at": "2026-03-20 04:01:39",
-      "album": {
         "name": "Golden Child (The Final Chapter)",
         "url": "https://open.spotify.com/album/0HqvCRbmTmx7liSWmFhI6m"
       },
@@ -137,58 +105,58 @@
       "url": "https://open.spotify.com/track/2JiAYxUToEPSOLMe1qm5BA"
     },
     {
-      "added_at": "2026-03-20 04:01:39",
+      "added_at": "2026-04-10 04:04:13",
       "album": {
-        "name": "I'm Leavin' You",
-        "url": "https://open.spotify.com/album/7lpDPjfOekEcPLJTBwxLKj"
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/2thPfbnjMxEs3RwK1LRL2C"
       },
       "artists": [
         {
-          "name": "High Valley",
-          "url": "https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN"
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
         }
       ],
-      "duration_ms": 152915,
-      "name": "I'm Leavin' You",
-      "url": "https://open.spotify.com/track/6PUQOqhQVjchu5iqsMTVEX"
+      "duration_ms": 166735,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/7lJv6f6HBpUoLBnM0RxuKB"
     },
     {
       "added_at": "2026-03-20 04:01:39",
       "album": {
-        "name": "Options",
-        "url": "https://open.spotify.com/album/20aeq6HnVyERNhHNw9GD04"
+        "name": "Nobody Roads",
+        "url": "https://open.spotify.com/album/64uW030Bc4voTeBdJkz6Sp"
       },
       "artists": [
         {
-          "name": "Cameron Whitcomb",
-          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+          "name": "Josh Stumpf",
+          "url": "https://open.spotify.com/artist/3KtMd5CrHVTQd4g3Yq8Btj"
         }
       ],
-      "duration_ms": 169331,
-      "name": "Options",
-      "url": "https://open.spotify.com/track/5CKp1RqaCeUYDGqo14KMfU"
+      "duration_ms": 210425,
+      "name": "Nobody Roads",
+      "url": "https://open.spotify.com/track/0z1WNPABTJVmhDG9WK8EHT"
     },
     {
-      "added_at": "2026-03-20 04:01:39",
+      "added_at": "2026-04-10 04:04:13",
       "album": {
-        "name": "With Heaven On Top",
-        "url": "https://open.spotify.com/album/4NvMwUFmY1dcDEgD8KoQjG"
+        "name": "In The Feeling",
+        "url": "https://open.spotify.com/album/2fukn0TC7ea6nOs7ALTjyl"
       },
       "artists": [
         {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          "name": "Owen Riegling",
+          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
         }
       ],
-      "duration_ms": 185788,
-      "name": "Plastic Cigarette",
-      "url": "https://open.spotify.com/track/2jCJjRc9mz6VYBMhLy3H9i"
+      "duration_ms": 250998,
+      "name": "In The Feeling",
+      "url": "https://open.spotify.com/track/6O88XHRzbDCOB4Ov30qW8C"
     },
     {
-      "added_at": "2026-03-20 04:01:39",
+      "added_at": "2026-04-10 04:04:13",
       "album": {
-        "name": "6 Months Later",
-        "url": "https://open.spotify.com/album/0JGIg3ny1crTowB0Qi1Zx1"
+        "name": "Cloud 9",
+        "url": "https://open.spotify.com/album/4ntHwySryzYS8Td67WlVVq"
       },
       "artists": [
         {
@@ -196,29 +164,9 @@
           "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
         }
       ],
-      "duration_ms": 182868,
-      "name": "6 Months Later",
-      "url": "https://open.spotify.com/track/4Km9FSF9iaQiTLnFPdbPom"
-    },
-    {
-      "added_at": "2026-03-20 04:01:39",
-      "album": {
-        "name": "Backfire",
-        "url": "https://open.spotify.com/album/6D8fqhOXVPJAC521jMWSIM"
-      },
-      "artists": [
-        {
-          "name": "Nate Haller",
-          "url": "https://open.spotify.com/artist/5nAWMdNNuSpUNxzwqaBQQr"
-        },
-        {
-          "name": "Tenille Townes",
-          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
-        }
-      ],
-      "duration_ms": 215701,
-      "name": "Backfire",
-      "url": "https://open.spotify.com/track/48kjeOLcEMg9yRUqcBj4h0"
+      "duration_ms": 235535,
+      "name": "Beautiful Things",
+      "url": "https://open.spotify.com/track/6nImybWzraGrI7B2xNWwSV"
     },
     {
       "added_at": "2026-03-20 04:01:39",
@@ -243,6 +191,22 @@
     {
       "added_at": "2026-03-20 04:01:39",
       "album": {
+        "name": "A Man Without A Woman",
+        "url": "https://open.spotify.com/album/7alDpK3rtHDlToG8GFxpxm"
+      },
+      "artists": [
+        {
+          "name": "Dean Brody",
+          "url": "https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak"
+        }
+      ],
+      "duration_ms": 215002,
+      "name": "A Man Without A Woman",
+      "url": "https://open.spotify.com/track/0qAuzgQAd3jdfYLm7Z4NdO"
+    },
+    {
+      "added_at": "2026-03-20 04:01:39",
+      "album": {
         "name": "After All The Bars Are Closed",
         "url": "https://open.spotify.com/album/07gfJHUBVX2VxXovVuUGjA"
       },
@@ -255,6 +219,38 @@
       "duration_ms": 191839,
       "name": "After All The Bars Are Closed",
       "url": "https://open.spotify.com/track/0oBbkZuDLkT8DY9DK67kfr"
+    },
+    {
+      "added_at": "2026-03-20 04:01:39",
+      "album": {
+        "name": "Night Diving",
+        "url": "https://open.spotify.com/album/10hjsM00M8pghNdZRwOShY"
+      },
+      "artists": [
+        {
+          "name": "Max McNown",
+          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
+        }
+      ],
+      "duration_ms": 194120,
+      "name": "Better Me For You (Brown Eyes)",
+      "url": "https://open.spotify.com/track/4Iu73sdCNxZXZUIyClMoPZ"
+    },
+    {
+      "added_at": "2026-03-20 04:01:39",
+      "album": {
+        "name": "Options",
+        "url": "https://open.spotify.com/album/20aeq6HnVyERNhHNw9GD04"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "duration_ms": 169331,
+      "name": "Options",
+      "url": "https://open.spotify.com/track/5CKp1RqaCeUYDGqo14KMfU"
     },
     {
       "added_at": "2026-03-20 04:01:39",
@@ -279,6 +275,38 @@
     {
       "added_at": "2026-03-20 04:01:39",
       "album": {
+        "name": "With Heaven On Top",
+        "url": "https://open.spotify.com/album/4NvMwUFmY1dcDEgD8KoQjG"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 185788,
+      "name": "Plastic Cigarette",
+      "url": "https://open.spotify.com/track/2jCJjRc9mz6VYBMhLy3H9i"
+    },
+    {
+      "added_at": "2026-04-10 04:04:13",
+      "album": {
+        "name": "Put It On Me",
+        "url": "https://open.spotify.com/album/4TmWYzpJwkZc85g9b4hpNc"
+      },
+      "artists": [
+        {
+          "name": "Sully Burrows",
+          "url": "https://open.spotify.com/artist/5lCc0O15jryv68uC4A8McT"
+        }
+      ],
+      "duration_ms": 156562,
+      "name": "Put It On Me",
+      "url": "https://open.spotify.com/track/2JZDyIQLudHyPupl7P9eDW"
+    },
+    {
+      "added_at": "2026-03-20 04:01:39",
+      "album": {
         "name": "Bar None",
         "url": "https://open.spotify.com/album/2dbV2Hkxmm5CiUu7a5tBjI"
       },
@@ -291,6 +319,22 @@
       "duration_ms": 173064,
       "name": "Bar None",
       "url": "https://open.spotify.com/track/212xtcXoSqbbwFAYd0zvNP"
+    },
+    {
+      "added_at": "2026-04-10 04:04:13",
+      "album": {
+        "name": "Rearview",
+        "url": "https://open.spotify.com/album/2FZakM4qEkdslB5d4BrSiS"
+      },
+      "artists": [
+        {
+          "name": "Kyle McKearney",
+          "url": "https://open.spotify.com/artist/7sAGzb8R5byxD1U13npShz"
+        }
+      ],
+      "duration_ms": 188296,
+      "name": "Rearview",
+      "url": "https://open.spotify.com/track/3ch8gS3RWmIfpTvExfVBJb"
     },
     {
       "added_at": "2026-03-20 04:01:39",
@@ -311,18 +355,18 @@
     {
       "added_at": "2026-03-20 04:01:39",
       "album": {
-        "name": "A Man Without A Woman",
-        "url": "https://open.spotify.com/album/7alDpK3rtHDlToG8GFxpxm"
+        "name": "I'm Leavin' You",
+        "url": "https://open.spotify.com/album/7lpDPjfOekEcPLJTBwxLKj"
       },
       "artists": [
         {
-          "name": "Dean Brody",
-          "url": "https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak"
+          "name": "High Valley",
+          "url": "https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN"
         }
       ],
-      "duration_ms": 215002,
-      "name": "A Man Without A Woman",
-      "url": "https://open.spotify.com/track/0qAuzgQAd3jdfYLm7Z4NdO"
+      "duration_ms": 152915,
+      "name": "I'm Leavin' You",
+      "url": "https://open.spotify.com/track/6PUQOqhQVjchu5iqsMTVEX"
     },
     {
       "added_at": "2026-03-20 04:01:39",
@@ -343,6 +387,26 @@
       "duration_ms": 300113,
       "name": "Bad As I Used To Be (From F1\u00ae The Movie)",
       "url": "https://open.spotify.com/track/5r2PhhTusIuX91ZGLqtzvk"
+    },
+    {
+      "added_at": "2026-03-20 04:01:39",
+      "album": {
+        "name": "Backfire",
+        "url": "https://open.spotify.com/album/6D8fqhOXVPJAC521jMWSIM"
+      },
+      "artists": [
+        {
+          "name": "Nate Haller",
+          "url": "https://open.spotify.com/artist/5nAWMdNNuSpUNxzwqaBQQr"
+        },
+        {
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+        }
+      ],
+      "duration_ms": 215701,
+      "name": "Backfire",
+      "url": "https://open.spotify.com/track/48kjeOLcEMg9yRUqcBj4h0"
     },
     {
       "added_at": "2026-03-20 04:01:39",
@@ -399,22 +463,6 @@
     {
       "added_at": "2026-03-20 04:01:39",
       "album": {
-        "name": "Cross Your Mind",
-        "url": "https://open.spotify.com/album/3ABNV2ngop51t8AsmFKtJm"
-      },
-      "artists": [
-        {
-          "name": "Danielle Ryan",
-          "url": "https://open.spotify.com/artist/7lyU0zKn0p7RDoXFoL7opK"
-        }
-      ],
-      "duration_ms": 179438,
-      "name": "Cross Your Mind",
-      "url": "https://open.spotify.com/track/1TrQ7icC0ep5h1QqRx0nyh"
-    },
-    {
-      "added_at": "2026-03-20 04:01:39",
-      "album": {
         "name": "Backup Plan (feat. Luke Combs)",
         "url": "https://open.spotify.com/album/7zSwRYnnPvr3BIljhzf9uQ"
       },
@@ -435,38 +483,22 @@
     {
       "added_at": "2026-03-20 04:01:39",
       "album": {
-        "name": "Nobody Roads",
-        "url": "https://open.spotify.com/album/64uW030Bc4voTeBdJkz6Sp"
+        "name": "Hometown Heroes (feat. Dean Brody)",
+        "url": "https://open.spotify.com/album/7oNjPhQc4OEP93PWPFecsp"
       },
       "artists": [
         {
-          "name": "Josh Stumpf",
-          "url": "https://open.spotify.com/artist/3KtMd5CrHVTQd4g3Yq8Btj"
-        }
-      ],
-      "duration_ms": 210425,
-      "name": "Nobody Roads",
-      "url": "https://open.spotify.com/track/0z1WNPABTJVmhDG9WK8EHT"
-    },
-    {
-      "added_at": "2026-03-20 04:01:39",
-      "album": {
-        "name": "Fight With You",
-        "url": "https://open.spotify.com/album/2uBOm5O2NwBmtIlPLTxXTI"
-      },
-      "artists": [
-        {
-          "name": "Griffen Palmer",
-          "url": "https://open.spotify.com/artist/00b93R5OC1EHaBxEdQUfAQ"
+          "name": "The Reklaws",
+          "url": "https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv"
         },
         {
-          "name": "Madison Kozak",
-          "url": "https://open.spotify.com/artist/3UsRi9YafI0zUTd0OR8VSJ"
+          "name": "Dean Brody",
+          "url": "https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak"
         }
       ],
-      "duration_ms": 202137,
-      "name": "Fight With You",
-      "url": "https://open.spotify.com/track/6hdvMIbkpxWN6owrVTdEEY"
+      "duration_ms": 223538,
+      "name": "Hometown Heroes (feat. Dean Brody)",
+      "url": "https://open.spotify.com/track/6p7rRIvBUDsWkJoJpTYMIo"
     },
     {
       "added_at": "2026-03-20 04:01:39",
@@ -499,6 +531,22 @@
       "duration_ms": 199209,
       "name": "Good News",
       "url": "https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt"
+    },
+    {
+      "added_at": "2026-03-20 04:01:39",
+      "album": {
+        "name": "Taillight This Town",
+        "url": "https://open.spotify.com/album/7hxiN7d6lCpcwPgLRSWpoH"
+      },
+      "artists": [
+        {
+          "name": "Owen Riegling",
+          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
+        }
+      ],
+      "duration_ms": 186003,
+      "name": "Taillight This Town",
+      "url": "https://open.spotify.com/track/1n1NjVpPDdpn8BMQOL7lGY"
     },
     {
       "added_at": "2026-03-20 04:01:39",
@@ -567,18 +615,18 @@
     {
       "added_at": "2026-03-20 04:01:39",
       "album": {
-        "name": "Middle Of The Bed",
-        "url": "https://open.spotify.com/album/5jsaJkg4rqIfGYfourQ3an"
+        "name": "Cross Your Mind",
+        "url": "https://open.spotify.com/album/3ABNV2ngop51t8AsmFKtJm"
       },
       "artists": [
         {
-          "name": "Madeline Merlo",
-          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+          "name": "Danielle Ryan",
+          "url": "https://open.spotify.com/artist/7lyU0zKn0p7RDoXFoL7opK"
         }
       ],
-      "duration_ms": 200800,
-      "name": "Middle Of The Bed - Single Version",
-      "url": "https://open.spotify.com/track/0jWCf9yZB4eTdHmzkwzh88"
+      "duration_ms": 179438,
+      "name": "Cross Your Mind",
+      "url": "https://open.spotify.com/track/1TrQ7icC0ep5h1QqRx0nyh"
     },
     {
       "added_at": "2026-03-20 04:01:39",
@@ -599,26 +647,6 @@
     {
       "added_at": "2026-03-20 04:01:39",
       "album": {
-        "name": "Hometown Heroes (feat. Dean Brody)",
-        "url": "https://open.spotify.com/album/7oNjPhQc4OEP93PWPFecsp"
-      },
-      "artists": [
-        {
-          "name": "The Reklaws",
-          "url": "https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv"
-        },
-        {
-          "name": "Dean Brody",
-          "url": "https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak"
-        }
-      ],
-      "duration_ms": 223538,
-      "name": "Hometown Heroes (feat. Dean Brody)",
-      "url": "https://open.spotify.com/track/6p7rRIvBUDsWkJoJpTYMIo"
-    },
-    {
-      "added_at": "2026-03-20 04:01:39",
-      "album": {
         "name": "Something Else",
         "url": "https://open.spotify.com/album/7xB11hfwSgXw0xPcEgJro7"
       },
@@ -631,22 +659,6 @@
       "duration_ms": 165460,
       "name": "Something Else",
       "url": "https://open.spotify.com/track/2yXDFQweqY6qi4wVVkXzMT"
-    },
-    {
-      "added_at": "2026-03-20 04:01:39",
-      "album": {
-        "name": "Worst Way",
-        "url": "https://open.spotify.com/album/2pEZkJlkzLMBXPUPWyQJxn"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 220558,
-      "name": "Worst Way",
-      "url": "https://open.spotify.com/track/4u2pk0zATUkEeMtuuMtu46"
     },
     {
       "added_at": "2026-03-20 04:01:39",
@@ -667,22 +679,6 @@
       "duration_ms": 165000,
       "name": "All The Way (feat. Bailey Zimmerman)",
       "url": "https://open.spotify.com/track/73kIKvg65QWieOKXIwyLJP"
-    },
-    {
-      "added_at": "2026-03-20 04:01:39",
-      "album": {
-        "name": "Rally Around",
-        "url": "https://open.spotify.com/album/7Lamznt9F1wvIzbOGvIrf0"
-      },
-      "artists": [
-        {
-          "name": "Sully Burrows",
-          "url": "https://open.spotify.com/artist/5lCc0O15jryv68uC4A8McT"
-        }
-      ],
-      "duration_ms": 159468,
-      "name": "Rally Around",
-      "url": "https://open.spotify.com/track/7tH9XCkn5VJVtEsKli7GPt"
     },
     {
       "added_at": "2026-03-20 04:01:39",
@@ -757,6 +753,22 @@
       "url": "https://open.spotify.com/track/10zzzR1ccEHtdmimfgLUf5"
     },
     {
+      "added_at": "2026-04-10 04:04:13",
+      "album": {
+        "name": "Be Her",
+        "url": "https://open.spotify.com/album/0xY9ccawTTfHlwdVlkDT90"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "duration_ms": 217240,
+      "name": "Be Her",
+      "url": "https://open.spotify.com/track/05CjWFAcAlY6O9po6Qwakk"
+    },
+    {
       "added_at": "2026-03-20 04:01:39",
       "album": {
         "name": "Restless Mind",
@@ -775,38 +787,6 @@
       "duration_ms": 286634,
       "name": "Indigo (feat. Avery Anna)",
       "url": "https://open.spotify.com/track/1KZG1H1OCugGqIRmk1wF9m"
-    },
-    {
-      "added_at": "2026-03-20 04:01:39",
-      "album": {
-        "name": "Feels Country To Me (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/19tVEMyqvXqOt3LiVjohQI"
-      },
-      "artists": [
-        {
-          "name": "Zach McPhee",
-          "url": "https://open.spotify.com/artist/41Rl91W4wP74bD4vRoMWrN"
-        }
-      ],
-      "duration_ms": 195959,
-      "name": "Smoke",
-      "url": "https://open.spotify.com/track/7aIFWLKkxzL8R9JEsi1McB"
-    },
-    {
-      "added_at": "2026-03-20 04:01:39",
-      "album": {
-        "name": "Fortune Teller",
-        "url": "https://open.spotify.com/album/1GIHpTihLalWrEw8qi07RJ"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vanderzon",
-          "url": "https://open.spotify.com/artist/3Uu2L05Xr3L34566nH4GbD"
-        }
-      ],
-      "duration_ms": 155332,
-      "name": "Fortune Teller",
-      "url": "https://open.spotify.com/track/43mitDdTC0YfAQ0y1o8jaS"
     },
     {
       "added_at": "2026-03-20 04:01:39",

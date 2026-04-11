@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3iu1uE.md) - [plain]
 | 11 | [The Day the World Turned Day\-Glo](https://open.spotify.com/track/0rccdaligaDK8URad52GZG) | [X\-Ray Spex](https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt) | [Germ Free Adolescents](https://open.spotify.com/album/6O0hDvYYCjEoOzJdXkiaXa) | 2:52 |
 | 12 | [Good Time Girl](https://open.spotify.com/track/39YULbxBJ8q7yQSdWffNH9) | [X\-Ray Spex](https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt) | [Conscious Consumer](https://open.spotify.com/album/5mFOmug1IuWTlUPc9EzL9G) | 2:59 |
 | 13 | [Art\-I\-Ficial](https://open.spotify.com/track/4sOHhQfxnV1Wdr26hnuVtC) | [X\-Ray Spex](https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt) | [Germ Free Adolescents](https://open.spotify.com/album/6O0hDvYYCjEoOzJdXkiaXa) | 3:24 |
-| 14 | [Party](https://open.spotify.com/track/3AekeEt7Fn2erIUo1YoOQa) | [X\-Ray Spex](https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt) | [Conscious Consumer](https://open.spotify.com/album/5mFOmug1IuWTlUPc9EzL9G) | 2:48 |
+| 14 | [Peace Meal](https://open.spotify.com/track/1yVF4IbeaoBWg3YgBLd4N9) | [X\-Ray Spex](https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt) | [Conscious Consumer](https://open.spotify.com/album/5mFOmug1IuWTlUPc9EzL9G) | 2:31 |
 | 15 | [Warrior in Woolworths](https://open.spotify.com/track/1euywBbU9IYRoT9qFOdUvr) | [X\-Ray Spex](https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt) | [Germ Free Adolescents](https://open.spotify.com/album/6O0hDvYYCjEoOzJdXkiaXa) | 3:07 |
-| 16 | [Peace Meal](https://open.spotify.com/track/1yVF4IbeaoBWg3YgBLd4N9) | [X\-Ray Spex](https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt) | [Conscious Consumer](https://open.spotify.com/album/5mFOmug1IuWTlUPc9EzL9G) | 2:31 |
+| 16 | [Party](https://open.spotify.com/track/3AekeEt7Fn2erIUo1YoOQa) | [X\-Ray Spex](https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt) | [Conscious Consumer](https://open.spotify.com/album/5mFOmug1IuWTlUPc9EzL9G) | 2:48 |
 
-Snapshot ID: `adWagAAAAAByRMNcBoUF3m875PqtcctJ`
+Snapshot ID: `adbsAAAAAADfmtBVkP3E3OOvAKh1IH2h`

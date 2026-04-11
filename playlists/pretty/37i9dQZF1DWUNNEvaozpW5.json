@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Ultraligera.",
-  "num_followers": 614197,
+  "num_followers": 614250,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -815,22 +815,6 @@
     {
       "added_at": "2026-04-09 22:00:48",
       "album": {
-        "name": "Arena En Los Bolsillos",
-        "url": "https://open.spotify.com/album/0bFrRKmqzgPqL1ej485WLf"
-      },
-      "artists": [
-        {
-          "name": "Manolo Garcia",
-          "url": "https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4"
-        }
-      ],
-      "duration_ms": 227641,
-      "name": "A San Fernando un Ratito a Pie y Otro Caminando",
-      "url": "https://open.spotify.com/track/740Rh302Wm6uHRsYTa4KDQ"
-    },
-    {
-      "added_at": "2026-04-09 22:00:48",
-      "album": {
         "name": "Patchanka",
         "url": "https://open.spotify.com/album/1i6RiKDCLS9KqgwfCQ1mRQ"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 174973,
       "name": "Mala Vida",
       "url": "https://open.spotify.com/track/0UY0JLj9kxOlgF6FHogCmX"
+    },
+    {
+      "added_at": "2026-04-09 22:00:48",
+      "album": {
+        "name": "Arena En Los Bolsillos",
+        "url": "https://open.spotify.com/album/0bFrRKmqzgPqL1ej485WLf"
+      },
+      "artists": [
+        {
+          "name": "Manolo Garcia",
+          "url": "https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4"
+        }
+      ],
+      "duration_ms": 227641,
+      "name": "A San Fernando un Ratito a Pie y Otro Caminando",
+      "url": "https://open.spotify.com/track/740Rh302Wm6uHRsYTa4KDQ"
     },
     {
       "added_at": "2026-04-09 22:00:48",
@@ -979,22 +979,6 @@
     {
       "added_at": "2026-04-09 22:00:48",
       "album": {
-        "name": "La Rosa De Los Vientos",
-        "url": "https://open.spotify.com/album/51ohZ4F4nZ40R8eGyK7tZT"
-      },
-      "artists": [
-        {
-          "name": "La Frontera",
-          "url": "https://open.spotify.com/artist/4WeIMVqCUH09dxtBsstIw3"
-        }
-      ],
-      "duration_ms": 275026,
-      "name": "El Limite",
-      "url": "https://open.spotify.com/track/0NFcUhw2uKzX0zqH81tWOu"
-    },
-    {
-      "added_at": "2026-04-09 22:00:48",
-      "album": {
         "name": "Heroes De Los 80",
         "url": "https://open.spotify.com/album/6Lml9AoEtkTD7BW6J57wzd"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 293533,
       "name": "El ritmo del garaje",
       "url": "https://open.spotify.com/track/020aPMXlwYFpPB7cI8Kuc1"
+    },
+    {
+      "added_at": "2026-04-09 22:00:48",
+      "album": {
+        "name": "La Rosa De Los Vientos",
+        "url": "https://open.spotify.com/album/51ohZ4F4nZ40R8eGyK7tZT"
+      },
+      "artists": [
+        {
+          "name": "La Frontera",
+          "url": "https://open.spotify.com/artist/4WeIMVqCUH09dxtBsstIw3"
+        }
+      ],
+      "duration_ms": 275026,
+      "name": "El Limite",
+      "url": "https://open.spotify.com/track/0NFcUhw2uKzX0zqH81tWOu"
     },
     {
       "added_at": "2026-04-09 22:00:48",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2026-04-09 22:00:48",
       "album": {
-        "name": "Vispera De Todos Los Santos",
-        "url": "https://open.spotify.com/album/3oMQlXuuVWj4hPFvgKK7oY"
-      },
-      "artists": [
-        {
-          "name": "Los Suaves",
-          "url": "https://open.spotify.com/artist/1Z3i5hUtelWqBwEA1RoWhL"
-        }
-      ],
-      "duration_ms": 294200,
-      "name": "Palabras Para Julia",
-      "url": "https://open.spotify.com/track/2jGfKzi1RvbkAyffbDyESE"
-    },
-    {
-      "added_at": "2026-04-09 22:00:48",
-      "album": {
         "name": "Corre Corre",
         "url": "https://open.spotify.com/album/7ymYtcn91u3FY8P07QKO53"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 245440,
       "name": "Sorprendente",
       "url": "https://open.spotify.com/track/6Xueg8DmwhkU4xf0Q3xlWN"
+    },
+    {
+      "added_at": "2026-04-09 22:00:48",
+      "album": {
+        "name": "Vispera De Todos Los Santos",
+        "url": "https://open.spotify.com/album/3oMQlXuuVWj4hPFvgKK7oY"
+      },
+      "artists": [
+        {
+          "name": "Los Suaves",
+          "url": "https://open.spotify.com/artist/1Z3i5hUtelWqBwEA1RoWhL"
+        }
+      ],
+      "duration_ms": 294200,
+      "name": "Palabras Para Julia",
+      "url": "https://open.spotify.com/track/2jGfKzi1RvbkAyffbDyESE"
     },
     {
       "added_at": "2026-04-09 22:00:48",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2026-04-09 22:00:48",
       "album": {
-        "name": "Lo mejor de m\u00ed",
-        "url": "https://open.spotify.com/album/05QC4Jnu9NwhesWYlvtamJ"
-      },
-      "artists": [
-        {
-          "name": "Revolver",
-          "url": "https://open.spotify.com/artist/0U5P1naxYkkOsbHIGkVU9c"
-        }
-      ],
-      "duration_ms": 270336,
-      "name": "Lo mejor de m\u00ed",
-      "url": "https://open.spotify.com/track/0jvZb9YCtPrAk4AsKouvGm"
-    },
-    {
-      "added_at": "2026-04-09 22:00:48",
-      "album": {
         "name": "Rock en Espa\u00f1ol",
         "url": "https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 236160,
       "name": "Pacto Entre Caballeros",
       "url": "https://open.spotify.com/track/2pD9O35trzPh9yqqNCIuL5"
+    },
+    {
+      "added_at": "2026-04-09 22:00:48",
+      "album": {
+        "name": "Lo mejor de m\u00ed",
+        "url": "https://open.spotify.com/album/05QC4Jnu9NwhesWYlvtamJ"
+      },
+      "artists": [
+        {
+          "name": "Revolver",
+          "url": "https://open.spotify.com/artist/0U5P1naxYkkOsbHIGkVU9c"
+        }
+      ],
+      "duration_ms": 270336,
+      "name": "Lo mejor de m\u00ed",
+      "url": "https://open.spotify.com/track/0jvZb9YCtPrAk4AsKouvGm"
     },
     {
       "added_at": "2026-04-09 22:00:48",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2026-04-09 22:00:48",
       "album": {
-        "name": "Rock en Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV"
-      },
-      "artists": [
-        {
-          "name": "Tequila",
-          "url": "https://open.spotify.com/artist/6stZWw6L5Sjy5m7OdUR3rO"
-        }
-      ],
-      "duration_ms": 190013,
-      "name": "Salta!!!",
-      "url": "https://open.spotify.com/track/4lpA2O8BwukysKGtUyMVtn"
-    },
-    {
-      "added_at": "2026-04-09 22:00:48",
-      "album": {
         "name": "Un Palo Al Agua (20 Grandes Canciones)",
         "url": "https://open.spotify.com/album/1XcBGMLrcNXMHukhrRNHCq"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 273880,
       "name": "Agradecido",
       "url": "https://open.spotify.com/track/4WfsIWwYMxMZhezMSUQZQW"
+    },
+    {
+      "added_at": "2026-04-09 22:00:48",
+      "album": {
+        "name": "Rock en Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV"
+      },
+      "artists": [
+        {
+          "name": "Tequila",
+          "url": "https://open.spotify.com/artist/6stZWw6L5Sjy5m7OdUR3rO"
+        }
+      ],
+      "duration_ms": 190013,
+      "name": "Salta!!!",
+      "url": "https://open.spotify.com/track/4lpA2O8BwukysKGtUyMVtn"
     },
     {
       "added_at": "2026-04-09 22:00:48",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2026-04-09 22:00:48",
       "album": {
-        "name": "Rock en Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV"
-      },
-      "artists": [
-        {
-          "name": "La Guardia",
-          "url": "https://open.spotify.com/artist/5UYbCAN2H4Yr4f46tN5AeD"
-        }
-      ],
-      "duration_ms": 223240,
-      "name": "Cuando Brille el Sol",
-      "url": "https://open.spotify.com/track/307jZeOmkkd7mKc7wgFglj"
-    },
-    {
-      "added_at": "2026-04-09 22:00:48",
-      "album": {
         "name": "Padres hu\u00e9rfanos (Canci\u00f3n original para la pel\u00edcula Lap\u00f6nia)",
         "url": "https://open.spotify.com/album/5NgjqTaNZO1pPqxrxF0cYx"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 234936,
       "name": "Padres hu\u00e9rfanos - Canci\u00f3n original para la pel\u00edcula Lap\u00f6nia",
       "url": "https://open.spotify.com/track/0M6KVwE9J1MRCv8yXV7T0L"
+    },
+    {
+      "added_at": "2026-04-09 22:00:48",
+      "album": {
+        "name": "Rock en Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV"
+      },
+      "artists": [
+        {
+          "name": "La Guardia",
+          "url": "https://open.spotify.com/artist/5UYbCAN2H4Yr4f46tN5AeD"
+        }
+      ],
+      "duration_ms": 223240,
+      "name": "Cuando Brille el Sol",
+      "url": "https://open.spotify.com/track/307jZeOmkkd7mKc7wgFglj"
     },
     {
       "added_at": "2026-04-09 22:00:48",

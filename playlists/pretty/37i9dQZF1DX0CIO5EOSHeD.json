@@ -1,6 +1,6 @@
 {
   "description": "Slacker jams. ",
-  "num_followers": 3324,
+  "num_followers": 3372,
   "original_name": "Lofi Indie",
   "owner": {
     "name": "Spotify",
@@ -615,22 +615,6 @@
     {
       "added_at": "2025-05-01 22:27:23",
       "album": {
-        "name": "say goodbye",
-        "url": "https://open.spotify.com/album/1EmJAmRdDyfQAqhXOvKzSB"
-      },
-      "artists": [
-        {
-          "name": "Sarcastic Sounds",
-          "url": "https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ"
-        }
-      ],
-      "duration_ms": 86749,
-      "name": "say goodbye",
-      "url": "https://open.spotify.com/track/6JdU7eaEl9fPAq0sEVNzGc"
-    },
-    {
-      "added_at": "2025-05-01 22:27:23",
-      "album": {
         "name": "into me",
         "url": "https://open.spotify.com/album/0IoYTbRX2fybz0yqHM2TNT"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 172394,
       "name": "into me",
       "url": "https://open.spotify.com/track/7qmqKMqHTxBGvcjTN1wOaj"
+    },
+    {
+      "added_at": "2025-05-01 22:27:23",
+      "album": {
+        "name": "say goodbye",
+        "url": "https://open.spotify.com/album/1EmJAmRdDyfQAqhXOvKzSB"
+      },
+      "artists": [
+        {
+          "name": "Sarcastic Sounds",
+          "url": "https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ"
+        }
+      ],
+      "duration_ms": 86749,
+      "name": "say goodbye",
+      "url": "https://open.spotify.com/track/6JdU7eaEl9fPAq0sEVNzGc"
     },
     {
       "added_at": "2025-05-01 22:27:23",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2025-05-01 22:27:23",
       "album": {
-        "name": "Crisis Kid",
-        "url": "https://open.spotify.com/album/0C62cG4T1q9Vgqh5QlsQj2"
-      },
-      "artists": [
-        {
-          "name": "Corbin",
-          "url": "https://open.spotify.com/artist/3K40SMapVhc8PxyYFofHff"
-        }
-      ],
-      "duration_ms": 203666,
-      "name": "Curse Of Creation",
-      "url": "https://open.spotify.com/track/5uhjSHUwCANn8iRtsjCn9z"
-    },
-    {
-      "added_at": "2025-05-01 22:27:23",
-      "album": {
         "name": "Can\u2019t Get Enough",
         "url": "https://open.spotify.com/album/474MpKHvn3W8j2E9x3qEfu"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 131174,
       "name": "Can\u2019t Get Enough",
       "url": "https://open.spotify.com/track/6zp8BWzu4dzuygZTVf5H2H"
+    },
+    {
+      "added_at": "2025-05-01 22:27:23",
+      "album": {
+        "name": "Crisis Kid",
+        "url": "https://open.spotify.com/album/0C62cG4T1q9Vgqh5QlsQj2"
+      },
+      "artists": [
+        {
+          "name": "Corbin",
+          "url": "https://open.spotify.com/artist/3K40SMapVhc8PxyYFofHff"
+        }
+      ],
+      "duration_ms": 203666,
+      "name": "Curse Of Creation",
+      "url": "https://open.spotify.com/track/5uhjSHUwCANn8iRtsjCn9z"
     },
     {
       "added_at": "2025-05-01 22:27:23",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2025-05-01 22:27:23",
       "album": {
-        "name": "gums",
-        "url": "https://open.spotify.com/album/5WIoze1Mah2RAPGwWefQOa"
-      },
-      "artists": [
-        {
-          "name": "Blue Mena",
-          "url": "https://open.spotify.com/artist/0OVCaaj4RxjhMe7vHsPPCa"
-        }
-      ],
-      "duration_ms": 218263,
-      "name": "Gums",
-      "url": "https://open.spotify.com/track/1SPkDEDUnOZqMfcRPPMYgu"
-    },
-    {
-      "added_at": "2025-05-01 22:27:23",
-      "album": {
         "name": "Warning Sign (Alt Version)",
         "url": "https://open.spotify.com/album/622AyvYosXOdxnbW2CprMx"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 179669,
       "name": "Warning Sign - Alt Version",
       "url": "https://open.spotify.com/track/1rIols5fQBAIwsCuN4kFXG"
+    },
+    {
+      "added_at": "2025-05-01 22:27:23",
+      "album": {
+        "name": "gums",
+        "url": "https://open.spotify.com/album/5WIoze1Mah2RAPGwWefQOa"
+      },
+      "artists": [
+        {
+          "name": "Blue Mena",
+          "url": "https://open.spotify.com/artist/0OVCaaj4RxjhMe7vHsPPCa"
+        }
+      ],
+      "duration_ms": 218263,
+      "name": "Gums",
+      "url": "https://open.spotify.com/track/1SPkDEDUnOZqMfcRPPMYgu"
     }
   ],
   "unique_name": "Lofi Indie",

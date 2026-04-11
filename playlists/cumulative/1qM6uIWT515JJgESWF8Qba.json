@@ -387,6 +387,24 @@
     },
     {
       "album": {
+        "name": "Radiobed",
+        "url": "https://open.spotify.com/album/0Q0KaneUvsWOisNrcsDnxO"
+      },
+      "artists": [
+        {
+          "name": "Lost in Lilacs",
+          "url": "https://open.spotify.com/artist/3yeEX4ZL3lpbKEe1hj2GtJ"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Boy Racer",
+      "url": "https://open.spotify.com/track/3mjmoDsMcRZXIKGNYVDkQJ"
+    },
+    {
+      "album": {
         "name": "My Tribe - EP",
         "url": "https://open.spotify.com/album/782Sz599wkUZsZOXhuOTOh"
       },

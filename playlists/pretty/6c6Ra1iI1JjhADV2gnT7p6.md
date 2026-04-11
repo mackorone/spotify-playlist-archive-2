@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 
 > A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music 💜
 
-[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 59,924 likes - 609 songs - 1 day 9 hr 0 min
+[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 59,930 likes - 609 songs - 1 day 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,11 +21,11 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 11 | [Lullaby](https://open.spotify.com/track/57ieECS4lsQotGtpCGBYlQ) | [Kat Duma](https://open.spotify.com/artist/4mq9h5EXNKgL4aPDBTFMGa) | [Lullaby](https://open.spotify.com/album/30tKIBkfWmCDqOBnCim7kd) | 2:29 |
 | 12 | [made it](https://open.spotify.com/track/7dgudBKMEhbVjo1cDGePp8) | [drifting.](https://open.spotify.com/artist/4VEAvjBB04pvTuBP06UeAV) | [made it](https://open.spotify.com/album/2VYJYWA0P1Iz1F1c82LkLR) | 2:34 |
 | 13 | [Somehow](https://open.spotify.com/track/04xfDpReIdCIXPZWdaMHun) | [Hudson Freeman](https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8), [The Bedroomer](https://open.spotify.com/artist/40nN0AtXvLlPJMnUX7B7SB) | [Adult Contemporary](https://open.spotify.com/album/3GUtMJU1SvmsqJ7UYyVKrb) | 3:03 |
-| 14 | [KookieCannibal](https://open.spotify.com/track/4cBvn41NnVmR7EZmbI18xW) | [My Precious Bunny](https://open.spotify.com/artist/0F9Ze647kaLptWQU2Pg0u2) | [KookieCannibal](https://open.spotify.com/album/7ygysUSDfyvk1ajHe139vp) | 3:47 |
-| 15 | [Gentle Love](https://open.spotify.com/track/5adzqxkfPcRr3lEmoZvxgN) | [Greg Mendez](https://open.spotify.com/artist/3pGNoAJX3UVctU6X8eG55h) | [Gentle Love / Frog](https://open.spotify.com/album/3dbNuhLpCJ8LIRtcPtUOwK) | 1:31 |
-| 16 | [Frog](https://open.spotify.com/track/2W581UrjpZiGcAdmXyGykj) | [Greg Mendez](https://open.spotify.com/artist/3pGNoAJX3UVctU6X8eG55h) | [Gentle Love / Frog](https://open.spotify.com/album/3dbNuhLpCJ8LIRtcPtUOwK) | 1:13 |
-| 17 | [S'mores](https://open.spotify.com/track/4rhno1gIW5Is6gnCUj69tR) | [Isaac Stalling](https://open.spotify.com/artist/3qfuw2kKPpDgkwvD0AJPsZ) | [S'mores](https://open.spotify.com/album/4Fm5WcOWVEsjazq2cioq9n) | 2:34 |
-| 18 | [Buster](https://open.spotify.com/track/68WaAvbwmWERKo0ospYCXg) | [Shock Corridor](https://open.spotify.com/artist/0JT08KMWRxr4z0J8sUp7Em) | [Buster](https://open.spotify.com/album/37WhKrX6enqN6HwHZ6sVfI) | 4:22 |
+| 14 | [Gentle Love](https://open.spotify.com/track/5adzqxkfPcRr3lEmoZvxgN) | [Greg Mendez](https://open.spotify.com/artist/3pGNoAJX3UVctU6X8eG55h) | [Gentle Love / Frog](https://open.spotify.com/album/3dbNuhLpCJ8LIRtcPtUOwK) | 1:31 |
+| 15 | [Frog](https://open.spotify.com/track/2W581UrjpZiGcAdmXyGykj) | [Greg Mendez](https://open.spotify.com/artist/3pGNoAJX3UVctU6X8eG55h) | [Gentle Love / Frog](https://open.spotify.com/album/3dbNuhLpCJ8LIRtcPtUOwK) | 1:13 |
+| 16 | [S'mores](https://open.spotify.com/track/4rhno1gIW5Is6gnCUj69tR) | [Isaac Stalling](https://open.spotify.com/artist/3qfuw2kKPpDgkwvD0AJPsZ) | [S'mores](https://open.spotify.com/album/4Fm5WcOWVEsjazq2cioq9n) | 2:34 |
+| 17 | [Buster](https://open.spotify.com/track/68WaAvbwmWERKo0ospYCXg) | [Shock Corridor](https://open.spotify.com/artist/0JT08KMWRxr4z0J8sUp7Em) | [Buster](https://open.spotify.com/album/37WhKrX6enqN6HwHZ6sVfI) | 4:22 |
+| 18 | [KookieCannibal](https://open.spotify.com/track/4cBvn41NnVmR7EZmbI18xW) | [My Precious Bunny](https://open.spotify.com/artist/0F9Ze647kaLptWQU2Pg0u2) | [KookieCannibal](https://open.spotify.com/album/7ygysUSDfyvk1ajHe139vp) | 3:47 |
 | 19 | [N64](https://open.spotify.com/track/6qTRbcIWRHEvgAcYOPZSDp) | [Tom Somera](https://open.spotify.com/artist/4bDXFe8zYSxNYm24hucnVo) | [DWEEB](https://open.spotify.com/album/2vyqoRerksX5KQIWpVEx4B) | 3:38 |
 | 20 | [Wildflower and Me](https://open.spotify.com/track/48YwzUHdNSyLLo3IAi4ofn) | [DVC Refreshments](https://open.spotify.com/artist/7blHMuc0CaAXrklhsXbiDM) | [Hits Only](https://open.spotify.com/album/2Q1TneZZpJGVh8pK7jQsHA) | 2:44 |
 | 21 | [my blues](https://open.spotify.com/track/76NNHDxC6uh4iG6KLN0Dzc) | [lor2mg](https://open.spotify.com/artist/5JmWLxL2ESIufByQzPQ9zh) | [musidora](https://open.spotify.com/album/5blCaXRss9q0FYgasbNgwf) | 3:15 |
@@ -618,4 +618,4 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 608 | [The Fool](https://open.spotify.com/track/4tqRUD7qZeMfE7E6KeswWG) | [WU LYF](https://open.spotify.com/artist/5mGTnJvTkLDN76DgXka5f0) | [The Fool](https://open.spotify.com/album/3aNyeJsL8GbxBNOU7yanV0) | 5:30 |
 | 609 | [cherry coke](https://open.spotify.com/track/57rHY7cEoM37HeK7Ts7Ckj) | [prisms](https://open.spotify.com/artist/4jkvw4BX42bsV5iIGQuqGB) | [cherry coke](https://open.spotify.com/album/1cqpbZt1ZFXJOCVviEERzs) | 2:28 |
 
-Snapshot ID: `AAA1kz8lizT7Xi7JFpUF4kAgUdnuHgvK`
+Snapshot ID: `AAA1lADnURxu+0VEfrExpaGaCn4EnW9p`

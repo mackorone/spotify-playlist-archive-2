@@ -2,9 +2,9 @@
 
 ### [Rock Chileno](https://open.spotify.com/playlist/37i9dQZF1DX3TKWnpd3vOb)
 
-> Encuentra un mix de clásicos y nuevos talentos\. Foto: Triciclo Parlante
+> Encuentra un mix de clásicos y nuevos talentos\. Foto: Los Tres
 
-323 songs - 20 hr 26 min
+324 songs - 20 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Clavelito Antártico](https://open.spotify.com/track/2X2FciR0lbbWcJUof3R8rw) | [Hijo de Ladrón](https://open.spotify.com/artist/2X4WeD7RHacya71SNgMWgM) | [Clavelito Antártico](https://open.spotify.com/album/3VrIHqJEqLI27Yd86wF2Oj) | 5:21 | 2022-07-01 | 2023-03-03 |
 | [Como Caes](https://open.spotify.com/track/1UYbrhb57tGcZtYOq9sdRA) | [Ermitaño](https://open.spotify.com/artist/6ICRv7oox3xRu0WxvELbqO) | [La Balada de la Muerte](https://open.spotify.com/album/0o9tgfIzCwid0QI6OnTcy2) | 3:28 | 2022-04-08 | 2022-07-23 |
 | [Como es que no gozas](https://open.spotify.com/track/6hMwYF9yok533cqZB631MN) | [La Floripondio](https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL) | [Como es que no gozas](https://open.spotify.com/album/03odKd6H9wlEQIHmjgBdEv) | 2:49 | 2023-08-11 |  |
+| [Como llegaste te vas](https://open.spotify.com/track/7oCjBMI0O5H8fE8A2T1W1O) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [XCLNT](https://open.spotify.com/album/69PDApE4B4ckucDwyaFZRq) | 4:18 | 2026-04-10 |  |
 | [Como te amo \- Radio Edit](https://open.spotify.com/track/7G6Pz2vuyWNsUufG2SvLqE) | [Valija Diplomatica](https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV) | [Como te amo \(Radio Edit\)](https://open.spotify.com/album/61FnC75lKPAbFr3jiR3lHV) | 2:56 | 2022-04-08 | 2024-08-31 |
 | [Conspiradores](https://open.spotify.com/track/6r3Q5foiIWeKmX0yh1ikum) | [Pez Plátano](https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT) | [Sofrito](https://open.spotify.com/album/5TH4Gp9Zne4iSgbhPu4Lgh) | 2:18 | 2022-07-01 | 2023-03-03 |
 | [Corazón Negro](https://open.spotify.com/track/2kacIVCOgeIypJgcsxJomO) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT) | [Corazón Negro](https://open.spotify.com/album/5UGVjuYlzgYGalIrb4jqPI) | 4:02 | 2024-05-10 |  |
@@ -197,7 +198,7 @@
 | [María Lucía \- Live](https://open.spotify.com/track/1PRs9Gh428DviHvAiH70Ma) | [Ignacio Arocena](https://open.spotify.com/artist/0TbWYLui7d7rhkKbjg94r9) | [María Lucía \(Live\)](https://open.spotify.com/album/5em6cQH7GLLUhOtSLkIN8T) | 5:15 | 2022-12-16 | 2023-03-02 |
 | [Me Incendié](https://open.spotify.com/track/62ekhOprWRIyIYGp1aC5Df) | [Cigarbox Man](https://open.spotify.com/artist/6KvYkMetRUoKfIjEt9A0QV) | [Me Incendié](https://open.spotify.com/album/6fXtxVIiTyR3N8G3izyW7M) | 3:12 | 2022-04-08 | 2022-07-24 |
 | [Me Verás Arder](https://open.spotify.com/track/4zkkLNSobRfnY0xfVZOtMc) | [Weichafe](https://open.spotify.com/artist/1V9tvIpFfMl1cFJjxJKAre) | [Me Verás Arder](https://open.spotify.com/album/1T9wtTULYIJxiOlDC2gI77) | 3:46 | 2022-04-08 | 2022-12-17 |
-| [Me Vuelves a Herir \- En Vivo](https://open.spotify.com/track/7H18lwb683he5Wwec7gfHH) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Me Vuelves a Herir \(En Vivo\)](https://open.spotify.com/album/5XsMRVvQlZURZcjFqSvovq) | 4:42 | 2022-04-08 |  |
+| [Me Vuelves a Herir \- En Vivo](https://open.spotify.com/track/7H18lwb683he5Wwec7gfHH) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Me Vuelves a Herir \(En Vivo\)](https://open.spotify.com/album/5XsMRVvQlZURZcjFqSvovq) | 4:42 | 2022-04-08 | 2026-04-11 |
 | [Mechón](https://open.spotify.com/track/68PYDFoH55e9euHECfuy8o) | [VerDor](https://open.spotify.com/artist/68oZgpDCBYNeOCncHDrE9o) | [Punk Para Gatitos](https://open.spotify.com/album/380arxDGMx4MMOgFZ9PwSn) | 2:52 | 2024-12-20 |  |
 | [Mi Destino](https://open.spotify.com/track/01mNrMDaDseSKzrTmRfqKa) | [Glup!](https://open.spotify.com/artist/6BrWnoM0y0Viv3DVEcT8GE) | [Glup](https://open.spotify.com/album/3BLpp8f1EeWHPESunzu1F9) | 3:25 | 2022-04-08 | 2022-12-17 |
 | [Mientras Duermes](https://open.spotify.com/track/1HZNMsGylrBnAuHkRMLl8O) | [Lanza Internacional](https://open.spotify.com/artist/5s4SbJgMMtIyl0caPyZMmT), [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn) | [Mientras Duermes](https://open.spotify.com/album/5Gv3HrGr085Rv4Fc2uuMm3) | 3:39 | 2022-04-08 | 2023-03-03 |

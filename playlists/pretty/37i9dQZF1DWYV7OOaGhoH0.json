@@ -1,12 +1,12 @@
 {
-  "description": "The best in folk & acoustic today featuring music from Buffalo Traffic Jam",
-  "num_followers": 1707619,
+  "description": "The best in folk & acoustic today featuring music from Allison Russell, Joy Oladokun, Julie WIlliams",
+  "num_followers": 1707468,
   "original_name": "Roots Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFtzdxe60BNXWDW7QsMcxtfmEAm0",
+  "snapshot_id": "AAAAAFLOZ24eFqfHuoEEDqVvM3q4Rwwh",
   "tracks": [
     {
       "added_at": "2026-04-03 04:02:23",
@@ -25,6 +25,42 @@
       "url": "https://open.spotify.com/track/5MD0n5OdhzQE8TGbGO0n7c"
     },
     {
+      "added_at": "2026-04-10 04:01:49",
+      "album": {
+        "name": "Venus in the Zinnia",
+        "url": "https://open.spotify.com/album/1g8xMfOWEPfIuxHory8Pg9"
+      },
+      "artists": [
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        },
+        {
+          "name": "H. Hawkline",
+          "url": "https://open.spotify.com/artist/7FmM0XgimRvS48CfObh2ht"
+        }
+      ],
+      "duration_ms": 197372,
+      "name": "Venus in the Zinnia",
+      "url": "https://open.spotify.com/track/6X5ARfLepGTGntuFbc2Hpo"
+    },
+    {
+      "added_at": "2026-04-10 04:01:49",
+      "album": {
+        "name": "i think i had something once",
+        "url": "https://open.spotify.com/album/6DwKhMwRSVNyOtNY2mkZao"
+      },
+      "artists": [
+        {
+          "name": "Aubory Bugg",
+          "url": "https://open.spotify.com/artist/2fRZyxhGkcXXFwe7tGan1U"
+        }
+      ],
+      "duration_ms": 219770,
+      "name": "i think i had something once",
+      "url": "https://open.spotify.com/track/7LnWdwgoNONeKs2MHzMSDe"
+    },
+    {
       "added_at": "2026-04-03 04:02:23",
       "album": {
         "name": "Hanging on Hope",
@@ -41,6 +77,30 @@
       "url": "https://open.spotify.com/track/2VlikHNvR4PcBzQwJBGqzt"
     },
     {
+      "added_at": "2026-04-10 04:01:49",
+      "album": {
+        "name": "No Springtime (ft. Joy Oladokun & Julie Williams)",
+        "url": "https://open.spotify.com/album/66qSzjkzyYbD2cXKauAOVJ"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        },
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        },
+        {
+          "name": "Julie Williams",
+          "url": "https://open.spotify.com/artist/4sRUZFWl0hDJg6MW9lHKR9"
+        }
+      ],
+      "duration_ms": 200373,
+      "name": "No Springtime (ft. Joy Oladokun & Julie Williams)",
+      "url": "https://open.spotify.com/track/4roCXZFxzB1WrKofdjedQg"
+    },
+    {
       "added_at": "2026-04-03 04:02:23",
       "album": {
         "name": "Porch Light",
@@ -55,6 +115,22 @@
       "duration_ms": 262726,
       "name": "Porch Light",
       "url": "https://open.spotify.com/track/0AV4GhGeGCVJphsMTxDWdE"
+    },
+    {
+      "added_at": "2026-04-10 04:01:49",
+      "album": {
+        "name": "Swimming",
+        "url": "https://open.spotify.com/album/6HoUyHZhEVpo1S6iKQTVXV"
+      },
+      "artists": [
+        {
+          "name": "villagerrr",
+          "url": "https://open.spotify.com/artist/1vQ5CUq3dcQkRRCGd94UD5"
+        }
+      ],
+      "duration_ms": 261533,
+      "name": "Swimming",
+      "url": "https://open.spotify.com/track/5rvooe7Tm8rebvBmdJTvgn"
     },
     {
       "added_at": "2026-04-03 04:02:23",
@@ -75,6 +151,22 @@
       "duration_ms": 153250,
       "name": "Stolen Valor",
       "url": "https://open.spotify.com/track/0BTAdEtKSG7qtaeXqBBJTQ"
+    },
+    {
+      "added_at": "2026-04-10 04:01:49",
+      "album": {
+        "name": "Alternate Ending",
+        "url": "https://open.spotify.com/album/1imXHb4yzZBWR5ZEZZVaRJ"
+      },
+      "artists": [
+        {
+          "name": "Thelma & James",
+          "url": "https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE"
+        }
+      ],
+      "duration_ms": 190550,
+      "name": "Alternate Ending",
+      "url": "https://open.spotify.com/track/4ARFJVAoSfB6pw5lZ9AnAI"
     },
     {
       "added_at": "2026-04-03 04:02:23",
@@ -175,6 +267,22 @@
       "duration_ms": 185955,
       "name": "Everyone Around Me Dancing",
       "url": "https://open.spotify.com/track/4zAGDYOy1IXm2EX2QhJFWp"
+    },
+    {
+      "added_at": "2026-04-10 04:01:49",
+      "album": {
+        "name": "Somehow Made It Out",
+        "url": "https://open.spotify.com/album/2WK7bpbUtyKCqIedCqNI3B"
+      },
+      "artists": [
+        {
+          "name": "Brenn!",
+          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
+        }
+      ],
+      "duration_ms": 222513,
+      "name": "Somehow Made It Out",
+      "url": "https://open.spotify.com/track/3squeOqGJzGz3x2WyTJSD3"
     },
     {
       "added_at": "2026-04-03 04:02:23",

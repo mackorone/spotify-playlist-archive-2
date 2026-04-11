@@ -1,13 +1,29 @@
 {
-  "description": "\u00a1Los grandes temas del Pop Urbano, eso es Popet\u00f3n! Foto: Juan Duque",
-  "num_followers": 634325,
+  "description": "\u00a1Los grandes temas del Pop Urbano, eso es Popet\u00f3n! Foto: Manuel Turizo.",
+  "num_followers": 634307,
   "original_name": "Popet\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOw4qlSPlFFK4EB02yzu4Ds/qmrg",
+  "snapshot_id": "AAAAAFDtWevZQ+fQwHOl3DL625C2FljV",
   "tracks": [
+    {
+      "added_at": "2026-04-10 04:59:29",
+      "album": {
+        "name": "Apambichao",
+        "url": "https://open.spotify.com/album/0DOZOtgMZm8GvvFJFZ6vvT"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 161285,
+      "name": "Te hacen falta dos",
+      "url": "https://open.spotify.com/track/3Oohz3N32glZTOz0nuxGMD"
+    },
     {
       "added_at": "2026-03-13 04:59:25",
       "album": {
@@ -85,6 +101,26 @@
       "url": "https://open.spotify.com/track/5RAIMjdrCEjpjaR5tBATXU"
     },
     {
+      "added_at": "2026-04-10 04:59:29",
+      "album": {
+        "name": "Grande",
+        "url": "https://open.spotify.com/album/6kKjC5UkhP2AoBwhO6FDOF"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        },
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        }
+      ],
+      "duration_ms": 193426,
+      "name": "Grande",
+      "url": "https://open.spotify.com/track/4orByxFsUO8lPSIxn5o76P"
+    },
+    {
       "added_at": "2025-10-17 04:59:02",
       "album": {
         "name": "morena",
@@ -99,30 +135,6 @@
       "duration_ms": 188930,
       "name": "morena",
       "url": "https://open.spotify.com/track/4RPeZbmVON5ZKT5HC9wALt"
-    },
-    {
-      "added_at": "2026-04-03 04:59:16",
-      "album": {
-        "name": "Amar y ya",
-        "url": "https://open.spotify.com/album/4OohI11DO3V8cGobXFMCyB"
-      },
-      "artists": [
-        {
-          "name": "Andy Rivera",
-          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
-        },
-        {
-          "name": "Juan Duque",
-          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
-        },
-        {
-          "name": "ONIKX",
-          "url": "https://open.spotify.com/artist/0vFQoUD1qGYeY6i908EYiZ"
-        }
-      ],
-      "duration_ms": 179214,
-      "name": "Amar y ya",
-      "url": "https://open.spotify.com/track/4vvCb3lqE1dkfltnkk7aZ8"
     },
     {
       "added_at": "2025-10-17 04:59:02",
@@ -857,6 +869,30 @@
       "url": "https://open.spotify.com/track/1ZN2Dat0KrO0xqr9t8QP9r"
     },
     {
+      "added_at": "2026-04-10 04:59:29",
+      "album": {
+        "name": "Sussy",
+        "url": "https://open.spotify.com/album/45DC2xHGmXJcQxqd5gyoMM"
+      },
+      "artists": [
+        {
+          "name": "Moffa",
+          "url": "https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        }
+      ],
+      "duration_ms": 194103,
+      "name": "Sussy",
+      "url": "https://open.spotify.com/track/7BwTusOtnCb1TDnwfwqALe"
+    },
+    {
       "added_at": "2025-10-17 04:59:02",
       "album": {
         "name": "Ni\u00f1a Bonita",
@@ -1251,30 +1287,6 @@
     {
       "added_at": "2025-10-17 04:59:02",
       "album": {
-        "name": "Yankee 150",
-        "url": "https://open.spotify.com/album/6ufsNn6vIdR75yr6uYZW9F"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 242667,
-      "name": "Yankee 150",
-      "url": "https://open.spotify.com/track/28BSTgZH1ckI8Xfy8LXaRz"
-    },
-    {
-      "added_at": "2025-10-17 04:59:02",
-      "album": {
         "name": "A Veces A Besos",
         "url": "https://open.spotify.com/album/63JayllHAHJ5N3auAorY2w"
       },
@@ -1335,26 +1347,6 @@
       "duration_ms": 188936,
       "name": "Pailas Parcera",
       "url": "https://open.spotify.com/track/7wadGShHx40m4EJGObdjyj"
-    },
-    {
-      "added_at": "2025-10-17 04:59:02",
-      "album": {
-        "name": "Gaga",
-        "url": "https://open.spotify.com/album/0s0AvUobBkq1X2wIyapBME"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "SAIKO",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        }
-      ],
-      "duration_ms": 188304,
-      "name": "Gaga",
-      "url": "https://open.spotify.com/track/1CmXpRe5Z7bKhX9N0mzAZM"
     },
     {
       "added_at": "2025-10-17 04:59:02",

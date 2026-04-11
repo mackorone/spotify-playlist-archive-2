@@ -1090,7 +1090,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 169929,
       "name": "2.0",
       "url": "https://open.spotify.com/track/3bmpXHVie1GTy37OkXJ7Vc"
@@ -3680,7 +3680,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 187285,
       "name": "Actin' Tough",
       "url": "https://open.spotify.com/track/507j66jaEEUU11uFSTOHFM"
@@ -8872,7 +8872,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-05",
+      "date_removed": null,
       "duration_ms": 108121,
       "name": "Bazooka",
       "url": "https://open.spotify.com/track/28Y6r99oMdMAb4LxwLLKwa"
@@ -8890,7 +8890,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 108121,
       "name": "Bazooka",
       "url": "https://open.spotify.com/track/65WKFX9Zjt2jhF2SByGmRg"
@@ -16694,6 +16694,24 @@
     {
       "album": {
         "name": "Can We Hang Out Sometime?",
+        "url": "https://open.spotify.com/album/7pGzGYHDOMvdyqY1RBzBjB"
+      },
+      "artists": [
+        {
+          "name": "Good Kid",
+          "url": "https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166955,
+      "name": "Cicada",
+      "url": "https://open.spotify.com/track/2dvTutCISmanWOYdFMfqKo"
+    },
+    {
+      "album": {
+        "name": "Can We Hang Out Sometime?",
         "url": "https://open.spotify.com/album/2ude1QTWRjfCQYgpr5mc11"
       },
       "artists": [
@@ -16704,7 +16722,7 @@
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 166955,
       "name": "Cicada",
       "url": "https://open.spotify.com/track/3Fq4n87VV3NGkPTAKG36qp"
@@ -37378,7 +37396,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 219190,
       "name": "Honest",
       "url": "https://open.spotify.com/track/6RrlTNk3a68nMjN5vSOXMp"
@@ -68968,10 +68986,28 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 128659,
       "name": "Queen St",
       "url": "https://open.spotify.com/track/6o86CKQQc85ql8pMHrvJpo"
+    },
+    {
+      "album": {
+        "name": "Queen St",
+        "url": "https://open.spotify.com/album/74R9aj8T53tA5jE5ykCsuo"
+      },
+      "artists": [
+        {
+          "name": "twentythree",
+          "url": "https://open.spotify.com/artist/1GQzpnt34BgH3ojK5zYI11"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128682,
+      "name": "Queen St",
+      "url": "https://open.spotify.com/track/7b2KsfXCB3pwY9fBJWKYqY"
     },
     {
       "album": {
@@ -79359,6 +79395,28 @@
     },
     {
       "album": {
+        "name": "Future Archives",
+        "url": "https://open.spotify.com/album/6bCH4bUqV4FEosxkkN6mAa"
+      },
+      "artists": [
+        {
+          "name": "Jassa Dhillon",
+          "url": "https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd"
+        },
+        {
+          "name": "Starboy X",
+          "url": "https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143898,
+      "name": "Still in Love",
+      "url": "https://open.spotify.com/track/7xMxDC51EwpHoOTrAfwhCR"
+    },
+    {
+      "album": {
         "name": "KING OF THE MISCHIEVOUS SOUTH",
         "url": "https://open.spotify.com/album/1OUX2HxH2tyqyHMALnYbnG"
       },
@@ -87704,7 +87762,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-01",
+      "date_removed": null,
       "duration_ms": 168648,
       "name": "Toucher la lune",
       "url": "https://open.spotify.com/track/41VuR0Csa3kZpLBAgVSJzy"
@@ -92532,7 +92590,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 188095,
       "name": "We Do What We Want - Edit",
       "url": "https://open.spotify.com/track/2qGvgsRsmrB0Y7Y4MmuP1M"
@@ -94406,6 +94464,24 @@
     {
       "album": {
         "name": "When I Stand",
+        "url": "https://open.spotify.com/album/7LFRhhyy2DuAETHdjwrFel"
+      },
+      "artists": [
+        {
+          "name": "Owen James",
+          "url": "https://open.spotify.com/artist/6kqeHxe4IG1RCR15nMT34L"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199836,
+      "name": "When I Stand",
+      "url": "https://open.spotify.com/track/4oWlx07Vhjw6s65CV28HpQ"
+    },
+    {
+      "album": {
+        "name": "When I Stand",
         "url": "https://open.spotify.com/album/1ZZnKO1LCDBxjqdJ5n4EvT"
       },
       "artists": [
@@ -94526,6 +94602,28 @@
       "duration_ms": 170808,
       "name": "Where Do You Go",
       "url": "https://open.spotify.com/track/3lXEoPxZMDiMNeE4ea5nct"
+    },
+    {
+      "album": {
+        "name": "Where Have You Been",
+        "url": "https://open.spotify.com/album/4mjdKbLjFJPtKCOHZx4pkY"
+      },
+      "artists": [
+        {
+          "name": "Bryan V",
+          "url": "https://open.spotify.com/artist/0UKwof7pq8Tz02TEnvcWJE"
+        },
+        {
+          "name": "RHEA",
+          "url": "https://open.spotify.com/artist/23qVgHxDZ8VK0kD9GKKoJs"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156923,
+      "name": "Where Have You Been",
+      "url": "https://open.spotify.com/track/4RlnD1zo3kAvARMvzhp4qa"
     },
     {
       "album": {

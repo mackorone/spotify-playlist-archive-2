@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Amelie Lens
 
-[Spotify](https://open.spotify.com/user/spotify) - 744,126 likes - 90 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 744,307 likes - 90 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [whatever you do](https://open.spotify.com/track/7tYkpOOHN2YB5RhFkLPs6R) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [whatever you do](https://open.spotify.com/album/332Ale8JZU0KaSGjoL3aXY) | 3:30 |
 | 2 | [Setting Off](https://open.spotify.com/track/3yoSGnKXjego8YDQC4z1m7) | [PALASTIC](https://open.spotify.com/artist/6OFZSmtxDquMkX2XZJSN6y) | [Setting Off](https://open.spotify.com/album/0VWJeZKcSOa5JX2ZwwAJ4L) | 2:38 |
 | 3 | [Clipping Me Softly](https://open.spotify.com/track/2QFMAZaqloahLVRwzBpp2Q) | [Extrawelt](https://open.spotify.com/artist/3VRvi42U8SsiT4YKP5LNCB) | [Clipping Me Softly](https://open.spotify.com/album/2qMwpTLG3fk0fE38eu4aWT) | 6:15 |
-| 4 | [Track 1](https://open.spotify.com/track/4PwCqgcJMrZRnUh4kXLPWT) | [Lampe](https://open.spotify.com/artist/7hvD2Cs8fbF3HvhQCmV3xq) | [Progressed](https://open.spotify.com/album/4FIUhN38faNlwkSb9zSn4w) | 0:00 |
+| 4 | [Progressed](https://open.spotify.com/track/4PwCqgcJMrZRnUh4kXLPWT) | [Lampe](https://open.spotify.com/artist/7hvD2Cs8fbF3HvhQCmV3xq) | [Progressed](https://open.spotify.com/album/4FIUhN38faNlwkSb9zSn4w) | 3:37 |
 | 5 | [Culpa da Cachaça](https://open.spotify.com/track/7CgCl558UoZCUn5dqJwGw0) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [Culpa da Cachaça](https://open.spotify.com/album/1n4OD3UfOIKaLINOyed9cs) | 4:57 |
 | 6 | [Flow Free](https://open.spotify.com/track/1AK271I7M3ZQmSulRg5EQ4) | [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI), [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Flow Free](https://open.spotify.com/album/1lSb4HADfBQ422Z89G0Ovg) | 3:59 |
 | 7 | [Calle Sur](https://open.spotify.com/track/11cPVqd8DVvSWLF2CrHgjS) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR) | [12](https://open.spotify.com/album/08xfWf2SRMuZc0jVszMoLO) | 4:54 |

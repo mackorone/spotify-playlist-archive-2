@@ -4,7 +4,7 @@
 
 > Relaxing soundtracks to help you escape and unwind.
 
-113 songs - 5 hr 25 min
+114 songs - 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Truman Sleeps \- Arr\. for Orchestra by David Le Page](https://open.spotify.com/track/1wBKODaRY52BIpiUshP7SZ) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC), [Orchestra of the Swan](https://open.spotify.com/artist/4Q6c37zCXu7UvWmUcROoVq), [David le Page](https://open.spotify.com/artist/2ibsbvp3eHcQOgxZxVsk8x) | [Light and Shadow](https://open.spotify.com/album/4tSwVev13zJxh3UTdX1a5d) | 2:34 | 2025-07-02 |  |
 | [Truths \(From "Everything, Everything" Score\)](https://open.spotify.com/track/4lGzvVyw3ETJPiBD5YR1w4) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Everything, Everything \(Original Motion Picture Score\)](https://open.spotify.com/album/4iH6tmjBXE7mHONZn9KylD) | 1:54 | 2021-11-19 |  |
 | [What I Really Wanted](https://open.spotify.com/track/7IoZ5JlxMkGhk4Xvi19Hyo) | [Clinton Shorter](https://open.spotify.com/artist/23Vu6ClvSnmNSbz3ODd3iJ) | [The Expanse Season 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/7wAz7kEaaZ80CWhGdBA7h1) | 2:38 | 2021-11-19 |  |
+| [What Was I Made For? \(Epilogue\) \- Instrumental Version](https://open.spotify.com/track/5n6l4Q0qiVOQ55B0OvOfVr) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Andrew Wyatt](https://open.spotify.com/artist/4TpW7t4Cz0RG1gOEU6EcUm) | [Barbie \(Score from the Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5zaVq7C2Fb9ydqg1SU9qFy) | 1:32 | 2026-04-10 |  |
 | [Wish I Could Spend The Day With You](https://open.spotify.com/track/7H1qlREWSW4MgamNSrgZbw) | [Mychael Danna](https://open.spotify.com/artist/0x8J72N9ilqcIZbWEKB8T2), [Jeff Danna](https://open.spotify.com/artist/4v7z4d0nyIY3mWGz1AXoK1) | [Onward \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5GVC60ITCVDwfUGjblfsst) | 1:46 | 2021-11-19 |  |
 | [Your Mother](https://open.spotify.com/track/5iIgAykeu8ydXD3wa0ODjn) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ) | [Beauty and the Beast \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/3AhP76AusdcJ9sZ4XgUcEc) | 2:13 | 2021-11-19 |  |
 

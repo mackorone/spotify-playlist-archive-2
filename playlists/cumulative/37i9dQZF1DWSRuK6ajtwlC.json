@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-11",
-  "description": "A levantar polvadera con lo mejor de la m\u00fasica de sax \ud83c\udfb7 La Furia del Bravo en portada \ud83d\udcf8",
+  "description": "A levantar polvadera con lo mejor de la m\u00fasica de sax \ud83c\udfb7 Los Reales del Rio en portada \ud83d\udcf8",
   "name": "Norte\u00f1o Sax",
   "tracks": [
     {
@@ -1266,7 +1266,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 202399,
       "name": "Contigo Me Caso",
       "url": "https://open.spotify.com/track/3ba8ez37MuVZlrUAR6rmvd"
@@ -2543,6 +2543,24 @@
     },
     {
       "album": {
+        "name": "Conexiones",
+        "url": "https://open.spotify.com/album/2ab6F4iMqEruwNzNEGfizr"
+      },
+      "artists": [
+        {
+          "name": "Los Reales Del Rio",
+          "url": "https://open.spotify.com/artist/4kNePvgiofm21MEs9fL7Yc"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225314,
+      "name": "Estoy Aqu\u00ed",
+      "url": "https://open.spotify.com/track/02ETb44PXYJdTqoD9I5CRa"
+    },
+    {
+      "album": {
         "name": "#TB...Hits, Vol. 2",
         "url": "https://open.spotify.com/album/1YUSyCbT1KgYbc3RCXnZvf"
       },
@@ -2638,6 +2656,24 @@
       "duration_ms": 231932,
       "name": "Fuentes de Ortiz",
       "url": "https://open.spotify.com/track/4vvxsS3eN7EGJf1Ejdbmz6"
+    },
+    {
+      "album": {
+        "name": "Gracias Por Existir",
+        "url": "https://open.spotify.com/album/4fIN9j6DaiySLUz6lJN0oH"
+      },
+      "artists": [
+        {
+          "name": "La M\u00e1quina DEL Norte",
+          "url": "https://open.spotify.com/artist/0pryc9Mc794DGWAzT3BYem"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212440,
+      "name": "Gracias Por Existir",
+      "url": "https://open.spotify.com/track/3VrdZNlOBJKUQDdh7nzhRl"
     },
     {
       "album": {
@@ -4554,7 +4590,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 258319,
       "name": "NO ME DEJES CAER",
       "url": "https://open.spotify.com/track/1r7lUbDFhUqMsWSC8KX8qy"
@@ -4882,7 +4918,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 150689,
       "name": "Pelotero A La Bola",
       "url": "https://open.spotify.com/track/65WSBtTB8JcYlW3yyaVsJT"
@@ -5589,6 +5625,28 @@
     },
     {
       "album": {
+        "name": "Se Rindi\u00f3 El Amor",
+        "url": "https://open.spotify.com/album/4SGyPxe8BQMyVVnaysr39p"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Amanecer",
+          "url": "https://open.spotify.com/artist/0wCyyn2rUtk96O0ZBzgM33"
+        },
+        {
+          "name": "Conjunto Rio Grande",
+          "url": "https://open.spotify.com/artist/2Ro0uSqcQMG6L3ZRyoDEsG"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153885,
+      "name": "Se Rindi\u00f3 El Amor",
+      "url": "https://open.spotify.com/track/4ZJs70EwkQqgEHUFq4vjtM"
+    },
+    {
+      "album": {
         "name": "Se Te Da",
         "url": "https://open.spotify.com/album/1K5I0CGcFW3703d4pClz1p"
       },
@@ -6214,6 +6272,24 @@
       "duration_ms": 288511,
       "name": "Te Pido Que",
       "url": "https://open.spotify.com/track/0XTwela4AmqfKE6PewCDP1"
+    },
+    {
+      "album": {
+        "name": "Te Quedaste",
+        "url": "https://open.spotify.com/album/2YlfSVa2FnDmfYsThQiWw4"
+      },
+      "artists": [
+        {
+          "name": "Grupo Zona Regia",
+          "url": "https://open.spotify.com/artist/23nvERBfyJniYS3nSwTMp3"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Te Quedaste",
+      "url": "https://open.spotify.com/track/2WpA4hKQoBj3ayaS0zXTwW"
     },
     {
       "album": {
@@ -7068,6 +7144,24 @@
       "duration_ms": 223082,
       "name": "\u00bfQu\u00e9 Est\u00e1s Esperando?",
       "url": "https://open.spotify.com/track/3bVsodddPYMjrnhxgj7EA7"
+    },
+    {
+      "album": {
+        "name": "\u00bfQu\u00e9 Pasar\u00e1 Ma\u00f1ana?",
+        "url": "https://open.spotify.com/album/3jfYrDSTwDAJCuilHQU60X"
+      },
+      "artists": [
+        {
+          "name": "La Nueva Estrategia",
+          "url": "https://open.spotify.com/artist/6KrsPUXRtIKhTla4QfuRW0"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189120,
+      "name": "\u00bfQu\u00e9 Pasar\u00e1 Ma\u00f1ana?",
+      "url": "https://open.spotify.com/track/3sHxsVpiib6QOEIdIByHHm"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWSRuK6ajtwlC"

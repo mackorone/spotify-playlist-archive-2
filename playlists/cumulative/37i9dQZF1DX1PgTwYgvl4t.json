@@ -4509,6 +4509,32 @@
     },
     {
       "album": {
+        "name": "Most High God (Live)",
+        "url": "https://open.spotify.com/album/3rgMcFv6xeNkm1snY39kl1"
+      },
+      "artists": [
+        {
+          "name": "Raj Bassey",
+          "url": "https://open.spotify.com/artist/5wcDczeAUQOZX7UI2oQdf4"
+        },
+        {
+          "name": "Nosa",
+          "url": "https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4"
+        },
+        {
+          "name": "The Bethels",
+          "url": "https://open.spotify.com/artist/31rHOjUlSsmFDVQuUfEEo9"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 720129,
+      "name": "Most High God - Live",
+      "url": "https://open.spotify.com/track/3qkicluLq6dTSaIqb8jkrD"
+    },
+    {
+      "album": {
         "name": "My Confidence",
         "url": "https://open.spotify.com/album/6DY6vwkrPHbayouqFD30pj"
       },

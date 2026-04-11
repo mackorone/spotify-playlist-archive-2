@@ -1,6 +1,6 @@
 {
   "description": "Classic anthems from a classic era. Cover: Sunship",
-  "num_followers": 671846,
+  "num_followers": 672115,
   "original_name": "UK Garage Classics",
   "owner": {
     "name": "Spotify",
@@ -383,26 +383,6 @@
     {
       "added_at": "2026-03-11 09:40:56",
       "album": {
-        "name": "Never Gonna Let You Go",
-        "url": "https://open.spotify.com/album/0FAmqcsD2sDWlBygKeLpwl"
-      },
-      "artists": [
-        {
-          "name": "Tina Moore",
-          "url": "https://open.spotify.com/artist/0bxfUFzgizyJXJK7A3iQ8u"
-        },
-        {
-          "name": "Kelly G.",
-          "url": "https://open.spotify.com/artist/0mG3A01g7vJFOHrHRzgzEb"
-        }
-      ],
-      "duration_ms": 237906,
-      "name": "Never Gonna Let You Go - Kelly G Bump-N-Go Dub Edit",
-      "url": "https://open.spotify.com/track/6ja7ocYMj2FpuENgXexBrH"
-    },
-    {
-      "added_at": "2026-03-11 09:40:56",
-      "album": {
         "name": "Garage Girls",
         "url": "https://open.spotify.com/album/1fL1Un5OtmTDzL8jWOfy0M"
       },
@@ -419,6 +399,26 @@
       "duration_ms": 200333,
       "name": "Garage Girls - Sunship Radio Edit",
       "url": "https://open.spotify.com/track/4P5Rntc1SI0IGeqlrWJQCq"
+    },
+    {
+      "added_at": "2026-03-11 09:40:56",
+      "album": {
+        "name": "Never Gonna Let You Go",
+        "url": "https://open.spotify.com/album/0FAmqcsD2sDWlBygKeLpwl"
+      },
+      "artists": [
+        {
+          "name": "Tina Moore",
+          "url": "https://open.spotify.com/artist/0bxfUFzgizyJXJK7A3iQ8u"
+        },
+        {
+          "name": "Kelly G.",
+          "url": "https://open.spotify.com/artist/0mG3A01g7vJFOHrHRzgzEb"
+        }
+      ],
+      "duration_ms": 237906,
+      "name": "Never Gonna Let You Go - Kelly G Bump-N-Go Dub Edit",
+      "url": "https://open.spotify.com/track/6ja7ocYMj2FpuENgXexBrH"
     },
     {
       "added_at": "2026-03-11 09:40:56",

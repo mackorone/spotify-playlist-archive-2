@@ -784,7 +784,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 221474,
       "name": "Club Of Extremes",
       "url": "https://open.spotify.com/track/6l2Bsn6s3NOBfK3j3CVGMj"
@@ -5294,6 +5294,24 @@
       "duration_ms": 372006,
       "name": "West Coast Love",
       "url": "https://open.spotify.com/track/6IdsEMXOA9i8efy41OlFB4"
+    },
+    {
+      "album": {
+        "name": "whatever you do",
+        "url": "https://open.spotify.com/album/332Ale8JZU0KaSGjoL3aXY"
+      },
+      "artists": [
+        {
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210014,
+      "name": "whatever you do",
+      "url": "https://open.spotify.com/track/7tYkpOOHN2YB5RhFkLPs6R"
     },
     {
       "album": {

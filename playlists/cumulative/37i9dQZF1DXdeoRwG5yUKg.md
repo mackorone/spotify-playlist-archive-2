@@ -4,7 +4,7 @@
 
 > Soulful, bluesy ballads\. Cover: Kashus Culpepper
 
-183 songs - 12 hr 46 min
+184 songs - 12 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Take Me Home](https://open.spotify.com/track/4PyYmYeTVUv2dEkaj1VxnG) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz), [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW) | [No Beginning No End 2](https://open.spotify.com/album/0KKurlvDI9YjNgwHm8fNP4) | 4:11 | 2020-11-05 |  |
 | [Tears Run Dry](https://open.spotify.com/track/4nNQHLhhjwAAmcm9Zcrebd) | [Abraham Alexander](https://open.spotify.com/artist/2f6fW5uWhqbEDXDK6IGirN) | [Tears Run Dry](https://open.spotify.com/album/6tOPyaHFIOa9zXDQr5m4cJ) | 4:14 | 2023-04-14 |  |
 | [Tell Me](https://open.spotify.com/track/6VLqNoGxbJZd3mKa4cCSXS) | [Meena](https://open.spotify.com/artist/7sntqdL07LSVjtlbVJgoui) | [Tell Me](https://open.spotify.com/album/4XSyd1dqmvO4SX4xh7tvru) | 4:55 | 2020-11-05 | 2024-03-09 |
+| [Tempting Fate](https://open.spotify.com/track/2lxYhDhgFTqF1vfzBXARjh) | [Jack Savoretti](https://open.spotify.com/artist/7nC05zmJukRGYObQeRgg3x), [KT Tunstall](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) | [We Will Always Be The Way We Were](https://open.spotify.com/album/0lLm4zLB446rpCHC4yZTey) | 3:08 | 2026-04-10 |  |
 | [That's How Love Is Made](https://open.spotify.com/track/1BIX2BQa6BroVxG6O97UWk) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [That's How Love Is Made](https://open.spotify.com/album/7jEsDY3DfzPI2MRJaOyZdP) | 3:46 | 2022-09-02 | 2025-09-27 |
 | [The Hammer & The Rose](https://open.spotify.com/track/1gDbDOHyTpzB9rVn9BtC05) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [The Hammer & The Rose](https://open.spotify.com/album/73wi0uQeyjOEZRc98N5qm6) | 3:16 | 2025-02-07 | 2025-03-08 |
 | [The Truth Comes Out Eventually](https://open.spotify.com/track/3sl3JwQFNgLn6VDqKPTgWY) | [Connor Selby](https://open.spotify.com/artist/4UDgyOm8Xpbxqid8l427Mc) | [The Truth Comes Out Eventually](https://open.spotify.com/album/4JZk6LgKvWmbc8ESpc7aDC) | 5:46 | 2025-06-27 |  |
@@ -167,7 +168,7 @@
 | [Time To Leave](https://open.spotify.com/track/5TUCm5o4qf5y47EnyHStZy) | [Rich Robinson](https://open.spotify.com/artist/7lEokLkF9CWjEBogNWcV69) | [Flux](https://open.spotify.com/album/0aCwNu0L6QMcSexzdUjcGD) | 4:58 | 2020-11-05 | 2022-09-03 |
 | [Tricky Thing](https://open.spotify.com/track/7bpJJDFOR7CQMA2Ssm1yka) | [Jessy Martens and Band](https://open.spotify.com/artist/4kJMG0aB4UYiKfHA9esWDt) | [Tricky Thing](https://open.spotify.com/album/4aPtimYS5kIEl8d03ToDUz) | 4:31 | 2020-11-05 |  |
 | [Try Me](https://open.spotify.com/track/1OqIafVbegBpzFIONJsSX2) | [Gina Sicilia](https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ) | [Allow Me to Confess](https://open.spotify.com/album/34puSs63TscNNMGLCjF7qY) | 3:14 | 2020-11-05 | 2024-04-19 |
-| [Try Me](https://open.spotify.com/track/5vjbpawQ7l5Qdgwh1WafWe) | [Gina Sicilia](https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ) | [Allow Me to Confess](https://open.spotify.com/album/2c2cFKHtezKf5Fna1rZO4T) | 3:14 | 2020-11-05 |  |
+| [Try Me](https://open.spotify.com/track/5vjbpawQ7l5Qdgwh1WafWe) | [Gina Sicilia](https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ) | [Allow Me to Confess](https://open.spotify.com/album/2c2cFKHtezKf5Fna1rZO4T) | 3:14 | 2020-11-05 | 2026-04-11 |
 | [Try Me](https://open.spotify.com/track/7fdF1y8Sm2dWryO5kRDlGL) | [Gina Sicilia](https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ) | [Allow Me to Confess](https://open.spotify.com/album/4vcPUYfpoYWXqbucRoATgK) | 3:14 | 2020-11-05 | 2023-04-29 |
 | [Walking Wounded](https://open.spotify.com/track/0oda94HwAfT8uLO7jC3ykV) | [Robin Trower](https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3), [Maxi Priest](https://open.spotify.com/artist/3aTuTR5Nf6pVW3837q2ZL7), [Livingstone Brown](https://open.spotify.com/artist/31sc2XGm5zXKCGybwD0azD) | [United State of Mind](https://open.spotify.com/album/0M6vvqZo0MkpukkCikKpad) | 4:14 | 2020-11-05 |  |
 | [Walking Wounded](https://open.spotify.com/track/6HKUwJ4coXppVQ6SXjjmZi) | [Robin Trower](https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3), [Maxi Priest](https://open.spotify.com/artist/3aTuTR5Nf6pVW3837q2ZL7), [Livingstone Brown](https://open.spotify.com/artist/31sc2XGm5zXKCGybwD0azD) | [United State of Mind](https://open.spotify.com/album/2FPldCz6JwLElIjJZ9B9s9) | 4:14 | 2020-11-05 | 2024-04-19 |

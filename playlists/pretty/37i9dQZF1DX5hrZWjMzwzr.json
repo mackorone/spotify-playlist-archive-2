@@ -1,6 +1,6 @@
 {
   "description": "Nagrody rozdane! Pos\u0142uchaj zwyci\u0119zc\u00f3w i  nominowanych utwor\u00f3w w kategorii singiel roku. ",
-  "num_followers": 11522,
+  "num_followers": 11635,
   "original_name": "Popkillery 2026: Singiel Roku",
   "owner": {
     "name": "Spotify",
@@ -1211,26 +1211,6 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
-        "name": "ODRODZENIE",
-        "url": "https://open.spotify.com/album/1QspK6ZaAhtUUXu6uuABdY"
-      },
-      "artists": [
-        {
-          "name": "Asster",
-          "url": "https://open.spotify.com/artist/5PJKbcbs3gm5tdePNo2eZX"
-        },
-        {
-          "name": "lohleq",
-          "url": "https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF"
-        }
-      ],
-      "duration_ms": 159230,
-      "name": "ODRODZENIE",
-      "url": "https://open.spotify.com/track/3jnqxfEcLlOBfcqNmOAoWu"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
         "name": "LET'S DANCE MIXTAPE",
         "url": "https://open.spotify.com/album/7bITUtLMeiSWGM6RzZjpu6"
       },
@@ -1247,6 +1227,26 @@
       "duration_ms": 124833,
       "name": "STYL POPPIN",
       "url": "https://open.spotify.com/track/2ifECaZoMt964XTfJpfKOe"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
+        "name": "ODRODZENIE",
+        "url": "https://open.spotify.com/album/1QspK6ZaAhtUUXu6uuABdY"
+      },
+      "artists": [
+        {
+          "name": "Asster",
+          "url": "https://open.spotify.com/artist/5PJKbcbs3gm5tdePNo2eZX"
+        },
+        {
+          "name": "lohleq",
+          "url": "https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF"
+        }
+      ],
+      "duration_ms": 159230,
+      "name": "ODRODZENIE",
+      "url": "https://open.spotify.com/track/3jnqxfEcLlOBfcqNmOAoWu"
     },
     {
       "added_at": "2026-04-09 22:12:46",

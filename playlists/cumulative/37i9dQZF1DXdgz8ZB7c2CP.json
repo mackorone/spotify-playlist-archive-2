@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a> \ud83c\udf1f featuring MAYV",
+  "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a> \ud83e\udd32 featuring zensei \u30bc\u30f3\u30bb\u30fc",
   "name": "creamy",
   "tracks": [
     {
@@ -760,6 +760,28 @@
       "duration_ms": 354708,
       "name": "All I Really Need",
       "url": "https://open.spotify.com/track/1swFJw7cDPCqzMfC7a2bWb"
+    },
+    {
+      "album": {
+        "name": "ALL IN",
+        "url": "https://open.spotify.com/album/3pExh5ZPT1vAgNpHUgSaRD"
+      },
+      "artists": [
+        {
+          "name": "2XT",
+          "url": "https://open.spotify.com/artist/3l5WfQg5rEqCbvLZSyuvVi"
+        },
+        {
+          "name": "K.Flay",
+          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170266,
+      "name": "ALL IN",
+      "url": "https://open.spotify.com/track/3qKmaSnePGCYCfybNDuxG1"
     },
     {
       "album": {
@@ -2088,7 +2110,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 174518,
       "name": "Bet You Didn't Need",
       "url": "https://open.spotify.com/track/7rjtwubvFpMtchNnQf4Nwf"
@@ -5764,7 +5786,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 136551,
       "name": "Do It",
       "url": "https://open.spotify.com/track/4ROpQkJLaOIN9O8klpaz0s"
@@ -5866,6 +5888,28 @@
       "duration_ms": 143093,
       "name": "Dog Years - weird inside Remix",
       "url": "https://open.spotify.com/track/15zSGbZomfOYEJJdZ55OAs"
+    },
+    {
+      "album": {
+        "name": "Doing It Wrong",
+        "url": "https://open.spotify.com/album/0ir7ane2shVWPnuBZwYCwG"
+      },
+      "artists": [
+        {
+          "name": "Slater Manzo",
+          "url": "https://open.spotify.com/artist/4o1zIIgHPK4GcdNNbIXNPQ"
+        },
+        {
+          "name": "First June",
+          "url": "https://open.spotify.com/artist/4f2GbBCjUJJDFXSvsTuyqn"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236571,
+      "name": "Doing It Wrong",
+      "url": "https://open.spotify.com/track/7JV9PR0p7ejQmRugzlFTyp"
     },
     {
       "album": {
@@ -6396,7 +6440,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 198774,
       "name": "Drugs I Like",
       "url": "https://open.spotify.com/track/6I96oT2ZcOypVJkmqSujtr"
@@ -7912,6 +7956,24 @@
       "duration_ms": 224000,
       "name": "Fever Dream",
       "url": "https://open.spotify.com/track/7nBFYnnuzZdqc6FN0elfl6"
+    },
+    {
+      "album": {
+        "name": "Fidget",
+        "url": "https://open.spotify.com/album/7tSptfAre0cq5ZSYTo82tb"
+      },
+      "artists": [
+        {
+          "name": "Neumonic",
+          "url": "https://open.spotify.com/artist/2vmS0sFSxIZccEf510Xb52"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184941,
+      "name": "Fidget",
+      "url": "https://open.spotify.com/track/4SCJ7RAdDPJTmekms0Pvl0"
     },
     {
       "album": {
@@ -10600,7 +10662,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 216181,
       "name": "Hit Em Like",
       "url": "https://open.spotify.com/track/3lYXC9anGtlSF6wmLI82cF"
@@ -11836,10 +11898,28 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 182400,
       "name": "I WANNA SHOW YOU",
       "url": "https://open.spotify.com/track/3Q14qNlMH88tq3ZCB4IlW1"
+    },
+    {
+      "album": {
+        "name": "i'd hate me 2",
+        "url": "https://open.spotify.com/album/0abVrKZPELc2yOSG0t6L73"
+      },
+      "artists": [
+        {
+          "name": "Rad Cat",
+          "url": "https://open.spotify.com/artist/4wrWMxa1wnZX5ZDhV6qk6f"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156521,
+      "name": "i'd hate me 2",
+      "url": "https://open.spotify.com/track/2DfwSdlpqtOmErmqAdIUwH"
     },
     {
       "album": {
@@ -12689,6 +12769,28 @@
     },
     {
       "album": {
+        "name": "It Hits Me Now",
+        "url": "https://open.spotify.com/album/5DdEsEPuhLTPYhsWdOSKUO"
+      },
+      "artists": [
+        {
+          "name": "Repiet",
+          "url": "https://open.spotify.com/artist/5fDx43KRyr21vME3lLxmxY"
+        },
+        {
+          "name": "FELYN",
+          "url": "https://open.spotify.com/artist/0szTDpZPGXwM1fJpgaJkhF"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196662,
+      "name": "It Hits Me Now",
+      "url": "https://open.spotify.com/track/39JHPzMjrO9RoptN3QEC9J"
+    },
+    {
+      "album": {
         "name": "IT HURTS!",
         "url": "https://open.spotify.com/album/45HOGzVjjJojLyOMvCqDD5"
       },
@@ -13289,6 +13391,24 @@
     },
     {
       "album": {
+        "name": "KILL EM WITH THE",
+        "url": "https://open.spotify.com/album/3hp6WXX0co5hUkYxga34eR"
+      },
+      "artists": [
+        {
+          "name": "longstoryshort",
+          "url": "https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116691,
+      "name": "KILL EM WITH THE",
+      "url": "https://open.spotify.com/track/5xiyaIuaorB1QzpemFKvD1"
+    },
+    {
+      "album": {
         "name": "Killa",
         "url": "https://open.spotify.com/album/0dSEgLGoOnAs8zgih944Jt"
       },
@@ -13776,6 +13896,28 @@
       "duration_ms": 179441,
       "name": "leavemealone - Nia Archives Remix",
       "url": "https://open.spotify.com/track/5tJGW8Wbfyb1TrRjMc8mCc"
+    },
+    {
+      "album": {
+        "name": "Left Right Center",
+        "url": "https://open.spotify.com/album/3MnNYJROxBY47nBIRU9Flx"
+      },
+      "artists": [
+        {
+          "name": "Jkyl & Hyde",
+          "url": "https://open.spotify.com/artist/23AH13eC6V0NB0QCkV6206"
+        },
+        {
+          "name": "D38",
+          "url": "https://open.spotify.com/artist/0x1B0bD5jSY4Py6VWB66Fe"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207428,
+      "name": "Left Right Center",
+      "url": "https://open.spotify.com/track/5mYbB3uF2Yja0CDFj3umYD"
     },
     {
       "album": {
@@ -14588,6 +14730,28 @@
       "duration_ms": 206250,
       "name": "Losing My Mind",
       "url": "https://open.spotify.com/track/1WjP8YhhlrpDv8oL6ewp0X"
+    },
+    {
+      "album": {
+        "name": "Prediction Affliction",
+        "url": "https://open.spotify.com/album/5s736AwUUpc1a65IvdCf1b"
+      },
+      "artists": [
+        {
+          "name": "Leotrix",
+          "url": "https://open.spotify.com/artist/3mVL1qynaYs31rgyDTytkS"
+        },
+        {
+          "name": "Dassim",
+          "url": "https://open.spotify.com/artist/4xQmnt9Hb7O21o31jkS8Sg"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185142,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/5IAgFwzXYCSxoHKS0SdvjW"
     },
     {
       "album": {
@@ -16133,6 +16297,28 @@
     },
     {
       "album": {
+        "name": "Never Adds Up (feat. In\u00e9z)",
+        "url": "https://open.spotify.com/album/7IXwcsGgJwo2bHlGFFjkhe"
+      },
+      "artists": [
+        {
+          "name": "Luude",
+          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
+        },
+        {
+          "name": "In\u00e9z",
+          "url": "https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148774,
+      "name": "Never Adds Up (feat. In\u00e9z)",
+      "url": "https://open.spotify.com/track/0Cum83rmJihiD99CkRmOCn"
+    },
+    {
+      "album": {
         "name": "Never Be Mine",
         "url": "https://open.spotify.com/album/7hJjm7oazb7hP0lTmLEuWF"
       },
@@ -17430,7 +17616,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 128000,
       "name": "Original Ting",
       "url": "https://open.spotify.com/track/3vIqqkBhAVLB3cwwuhAvQY"
@@ -18698,7 +18884,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 197345,
       "name": "Put It Down",
       "url": "https://open.spotify.com/track/2xN3idUgMENVNctCfDn4IW"
@@ -19660,7 +19846,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 133181,
       "name": "Rockin The Drums",
       "url": "https://open.spotify.com/track/4KaepqQ7soHYflZmSDS3YB"
@@ -20322,6 +20508,24 @@
       "duration_ms": 111473,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/7K4Qx5XjMLsgJi71uHwbmG"
+    },
+    {
+      "album": {
+        "name": "fun 2.",
+        "url": "https://open.spotify.com/album/3ofQ0qdi2jIyjKNep5n1Kk"
+      },
+      "artists": [
+        {
+          "name": "zensei \u30bc\u30f3\u30bb\u30fc",
+          "url": "https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114777,
+      "name": "save me",
+      "url": "https://open.spotify.com/track/4lOz7B6WFBewHeRMcMBTX6"
     },
     {
       "album": {
@@ -21350,6 +21554,28 @@
       "duration_ms": 596775,
       "name": "Silver Thread Golden Needle",
       "url": "https://open.spotify.com/track/36j1SeSsw7OZsTO3ogFKEM"
+    },
+    {
+      "album": {
+        "name": "Sinking",
+        "url": "https://open.spotify.com/album/3aaoUvAkxmbAqmUDX6wAty"
+      },
+      "artists": [
+        {
+          "name": "33 Below",
+          "url": "https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz"
+        },
+        {
+          "name": "XIRA",
+          "url": "https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236927,
+      "name": "Sinking",
+      "url": "https://open.spotify.com/track/31N5i68R7fFHqH6E87OgHB"
     },
     {
       "album": {
@@ -22492,7 +22718,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 209594,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/7pcDMoWKhoIGo3lkkzbWex"
@@ -23384,7 +23610,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 135692,
       "name": "T.A.S.T.E.",
       "url": "https://open.spotify.com/track/1mIphNjyFAp2SecLo9GsEG"
@@ -25972,7 +26198,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 182571,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/11h1KwP4Ii4ASDUxY9zpMg"

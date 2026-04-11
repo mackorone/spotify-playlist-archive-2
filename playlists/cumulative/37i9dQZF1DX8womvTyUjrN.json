@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The new wave of Latin pop \ud83c\udf0a Cover: Paloma Morphy & EMJAY",
+  "description": "The new wave of Latin pop \ud83c\udf0a Cover: FABIAN",
   "name": "el nuevo pop",
   "tracks": [
     {
@@ -446,7 +446,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 183652,
       "name": "50mm",
       "url": "https://open.spotify.com/track/3x41wi60bGPm3Zf8VWbuMF"
@@ -1978,7 +1978,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 169548,
       "name": "Azul",
       "url": "https://open.spotify.com/track/3OwVh7EcRjaFjXXoUSQOWg"
@@ -6010,7 +6010,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 165110,
       "name": "Distinto",
       "url": "https://open.spotify.com/track/3ozopXR7pzz7Mr5z04rK1U"
@@ -6094,6 +6094,28 @@
       "duration_ms": 164000,
       "name": "dos dedos de frente",
       "url": "https://open.spotify.com/track/7unscTqHZ3UjQdvmPvBLQP"
+    },
+    {
+      "album": {
+        "name": "Apambichao",
+        "url": "https://open.spotify.com/album/0DOZOtgMZm8GvvFJFZ6vvT"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178828,
+      "name": "Dos Lunas",
+      "url": "https://open.spotify.com/track/241T0LgkefRZw84wxgexrM"
     },
     {
       "album": {
@@ -6903,6 +6925,24 @@
     },
     {
       "album": {
+        "name": "en voz alta",
+        "url": "https://open.spotify.com/album/6CANqUuTmkD7LFwwwpcazR"
+      },
+      "artists": [
+        {
+          "name": "ABRL",
+          "url": "https://open.spotify.com/artist/34gZHRoHXDq8RR9p0koUbk"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216442,
+      "name": "en el aire",
+      "url": "https://open.spotify.com/track/5OVkjvPONlIkkwbhOXhJ8l"
+    },
+    {
+      "album": {
         "name": "en el pasado",
         "url": "https://open.spotify.com/album/78EFQKhgET0w845QMun4na"
       },
@@ -7350,7 +7390,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 198144,
       "name": "Es tan f\u00e1cil",
       "url": "https://open.spotify.com/track/6Cwx6t3sU1Lk9l2oo3CKbT"
@@ -7554,6 +7594,24 @@
       "duration_ms": 207567,
       "name": "Especial",
       "url": "https://open.spotify.com/track/0becwxEO40AxKIDQto7CLD"
+    },
+    {
+      "album": {
+        "name": "esperando que vuelvas",
+        "url": "https://open.spotify.com/album/1vqUjUxGNccr4r4kgFTd7M"
+      },
+      "artists": [
+        {
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216594,
+      "name": "esperando que vuelvas",
+      "url": "https://open.spotify.com/track/7hOpmWDACdtAeuksK2BseS"
     },
     {
       "album": {
@@ -8641,6 +8699,24 @@
     },
     {
       "album": {
+        "name": "GOLPE",
+        "url": "https://open.spotify.com/album/49AuSYwbco5EczMgDz0kip"
+      },
+      "artists": [
+        {
+          "name": "FABIAN",
+          "url": "https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216875,
+      "name": "GOLPE",
+      "url": "https://open.spotify.com/track/2WkDS7zFZI6Y1xzYLUltI8"
+    },
+    {
+      "album": {
         "name": "Goo Goo Ga Ga",
         "url": "https://open.spotify.com/album/0QrOLBDdv5gk0oVI1hAolW"
       },
@@ -8678,6 +8754,24 @@
       "duration_ms": 184745,
       "name": "Good Enough",
       "url": "https://open.spotify.com/track/7nJRXovps7c2ffbnbLD642"
+    },
+    {
+      "album": {
+        "name": "King Of Big Ideas",
+        "url": "https://open.spotify.com/album/5GyHuxECXanvEvJiwfj5l2"
+      },
+      "artists": [
+        {
+          "name": "Kobi Cantillo",
+          "url": "https://open.spotify.com/artist/3eAw8vSPkVqu0VfSZxv79h"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154320,
+      "name": "gotas - raw demo",
+      "url": "https://open.spotify.com/track/54N459IAKDsbEgBALzGifR"
     },
     {
       "album": {
@@ -19758,7 +19852,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 181568,
       "name": "S\u00e9 Que La Quiero",
       "url": "https://open.spotify.com/track/31UbEZ8U90vBxoZ9VISRd6"

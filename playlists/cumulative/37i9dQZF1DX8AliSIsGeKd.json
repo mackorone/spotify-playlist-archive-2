@@ -92131,6 +92131,24 @@
     },
     {
       "album": {
+        "name": "Progressed",
+        "url": "https://open.spotify.com/album/4FIUhN38faNlwkSb9zSn4w"
+      },
+      "artists": [
+        {
+          "name": "Lampe",
+          "url": "https://open.spotify.com/artist/7hvD2Cs8fbF3HvhQCmV3xq"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217099,
+      "name": "Progressed",
+      "url": "https://open.spotify.com/track/4PwCqgcJMrZRnUh4kXLPWT"
+    },
+    {
+      "album": {
         "name": "Prologue",
         "url": "https://open.spotify.com/album/5fscZACGVl4of5SBdUtrxN"
       },
@@ -121998,24 +122016,6 @@
       "duration_ms": 415037,
       "name": "Tracid",
       "url": "https://open.spotify.com/track/3YTvtOAHQADgCvn2XVEzPp"
-    },
-    {
-      "album": {
-        "name": "Progressed",
-        "url": "https://open.spotify.com/album/4FIUhN38faNlwkSb9zSn4w"
-      },
-      "artists": [
-        {
-          "name": "Lampe",
-          "url": "https://open.spotify.com/artist/7hvD2Cs8fbF3HvhQCmV3xq"
-        }
-      ],
-      "date_added": "2026-04-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/4PwCqgcJMrZRnUh4kXLPWT"
     },
     {
       "album": {

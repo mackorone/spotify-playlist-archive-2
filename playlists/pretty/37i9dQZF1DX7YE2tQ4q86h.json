@@ -1,15 +1,107 @@
 {
-  "description": "SLAYYYTER is having her main pop girl moment \ud83c\udd98",
-  "num_followers": 224822,
+  "description": "Tiffany Day is having her main pop girl moment \ud83c\udd98",
+  "num_followers": 224856,
   "original_name": "OBSESSED",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAISHo+ZSsJvoqXSXjVsjmwdbRDfK",
+  "snapshot_id": "AAAAAHjcVLdsR26htR1BvZWNv9vxGg4i",
   "tracks": [
     {
-      "added_at": "2026-04-03 04:50:38",
+      "added_at": "2026-04-10 04:17:23",
+      "album": {
+        "name": "HALO",
+        "url": "https://open.spotify.com/album/4T7qu6MdxoGjzZPErRWgsO"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Day",
+          "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
+        }
+      ],
+      "duration_ms": 135111,
+      "name": "EVERYTHING I'VE EVER WANTED",
+      "url": "https://open.spotify.com/track/40p1AU9WjnKzgUTQu3FBEN"
+    },
+    {
+      "added_at": "2026-04-10 04:26:55",
+      "album": {
+        "name": "That's When You Know",
+        "url": "https://open.spotify.com/album/2XgEVPnq6LHLAKAIJXmlHZ"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Carter Faith",
+          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
+        }
+      ],
+      "duration_ms": 193842,
+      "name": "That's When You Know",
+      "url": "https://open.spotify.com/track/1XhItJSBxL5yKh0V0ymg6D"
+    },
+    {
+      "added_at": "2026-04-10 04:26:55",
+      "album": {
+        "name": "RUNWAY",
+        "url": "https://open.spotify.com/album/0WY1wVmchFYlH4f1yZMc90"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 171010,
+      "name": "RUNWAY",
+      "url": "https://open.spotify.com/track/7BjcYqD0CqXnG45ezWSTYR"
+    },
+    {
+      "added_at": "2026-04-10 04:04:00",
+      "album": {
+        "name": "Big Disgrace",
+        "url": "https://open.spotify.com/album/3iyn2K7YlhKie8qrmUV6lS"
+      },
+      "artists": [
+        {
+          "name": "Haute & Freddy",
+          "url": "https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR"
+        }
+      ],
+      "duration_ms": 187658,
+      "name": "Shy Girl",
+      "url": "https://open.spotify.com/track/2LIOTreGvPk5GdpeGUqYIu"
+    },
+    {
+      "added_at": "2026-04-10 04:29:47",
+      "album": {
+        "name": "Miss Michigan",
+        "url": "https://open.spotify.com/album/403xK3xBydTLfaBxctsZ2X"
+      },
+      "artists": [
+        {
+          "name": "Momo Boyd",
+          "url": "https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd"
+        },
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "duration_ms": 146738,
+      "name": "Oops",
+      "url": "https://open.spotify.com/track/5HUqlNEKgLwBiPfpK9wBaX"
+    },
+    {
+      "added_at": "2026-04-10 04:04:00",
       "album": {
         "name": "WOR$T GIRL IN AMERICA",
         "url": "https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA"
@@ -20,9 +112,25 @@
           "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
         }
       ],
-      "duration_ms": 156344,
-      "name": "I'M ACTUALLY KINDA FAMOUS",
-      "url": "https://open.spotify.com/track/0FnvAn6pU9CjIUaBH82tCO"
+      "duration_ms": 159691,
+      "name": "YES GODDD",
+      "url": "https://open.spotify.com/track/4P1zfoLVuBfKHGShgXUjQy"
+    },
+    {
+      "added_at": "2026-04-10 04:04:00",
+      "album": {
+        "name": "perfect / ICE COLD",
+        "url": "https://open.spotify.com/album/7gDyDbTj058fkWYBaU0uM7"
+      },
+      "artists": [
+        {
+          "name": "AMBRR",
+          "url": "https://open.spotify.com/artist/5YEptScmtPToYK8qyT2Naa"
+        }
+      ],
+      "duration_ms": 110186,
+      "name": "perfect",
+      "url": "https://open.spotify.com/track/2KiSzLT48y3RR9SXW0h1da"
     },
     {
       "added_at": "2026-04-03 04:50:38",
@@ -141,7 +249,7 @@
       "url": "https://open.spotify.com/track/31D55MpvBHFSaeef0EeUDM"
     },
     {
-      "added_at": "2026-03-27 04:29:44",
+      "added_at": "2026-04-03 04:50:38",
       "album": {
         "name": "WOR$T GIRL IN AMERICA",
         "url": "https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA"
@@ -152,9 +260,9 @@
           "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
         }
       ],
-      "duration_ms": 224319,
-      "name": "BRITTANY MURPHY.",
-      "url": "https://open.spotify.com/track/4oUrl0RyDqr1DvNDvPNdRL"
+      "duration_ms": 156344,
+      "name": "I'M ACTUALLY KINDA FAMOUS",
+      "url": "https://open.spotify.com/track/0FnvAn6pU9CjIUaBH82tCO"
     },
     {
       "added_at": "2026-04-03 04:50:38",
@@ -171,6 +279,22 @@
       "duration_ms": 191408,
       "name": "Hall of Fame",
       "url": "https://open.spotify.com/track/0J0s3wgpcUAsrszrr0vfb9"
+    },
+    {
+      "added_at": "2026-04-10 04:04:00",
+      "album": {
+        "name": "PINKY UP",
+        "url": "https://open.spotify.com/album/5tLy0MEMDVqiHKso6B4jnz"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "duration_ms": 131437,
+      "name": "PINKY UP",
+      "url": "https://open.spotify.com/track/4KmkJjHTNlr1jFY56Lyz4E"
     },
     {
       "added_at": "2026-03-20 04:00:57",
@@ -255,6 +379,38 @@
       "duration_ms": 174400,
       "name": "New Religion",
       "url": "https://open.spotify.com/track/3TWpz0iK17gFlxWlIs3MIQ"
+    },
+    {
+      "added_at": "2026-03-27 04:29:44",
+      "album": {
+        "name": "WOR$T GIRL IN AMERICA",
+        "url": "https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "duration_ms": 224319,
+      "name": "BRITTANY MURPHY.",
+      "url": "https://open.spotify.com/track/4oUrl0RyDqr1DvNDvPNdRL"
+    },
+    {
+      "added_at": "2026-04-10 04:04:00",
+      "album": {
+        "name": "Watch You Cry",
+        "url": "https://open.spotify.com/album/3051n3lHJtiS1XzjRB2xXP"
+      },
+      "artists": [
+        {
+          "name": "Hyd",
+          "url": "https://open.spotify.com/artist/3pYle1qnqjdGhG0agFZLj5"
+        }
+      ],
+      "duration_ms": 149048,
+      "name": "Watch You Cry",
+      "url": "https://open.spotify.com/track/58V9jnfzBFl02vdET97snL"
     },
     {
       "added_at": "2026-04-03 04:50:38",
@@ -685,22 +841,6 @@
       "url": "https://open.spotify.com/track/4HEBNeUYxEpjDglZbjYz7o"
     },
     {
-      "added_at": "2026-01-30 05:01:08",
-      "album": {
-        "name": "Iconic",
-        "url": "https://open.spotify.com/album/0HgLE4fEcT5oFPbMRF4Ej3"
-      },
-      "artists": [
-        {
-          "name": "A*Teens",
-          "url": "https://open.spotify.com/artist/5zMgvYBz4AW0gFyPtg7fR9"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Iconic",
-      "url": "https://open.spotify.com/track/5FjvINvxiM03aNN7o1nUVc"
-    },
-    {
       "added_at": "2026-03-09 19:23:15",
       "album": {
         "name": "Humiliation Ritual",
@@ -765,22 +905,6 @@
       "url": "https://open.spotify.com/track/19vcdecWhQfCqf4KzEnlRj"
     },
     {
-      "added_at": "2026-03-13 04:00:45",
-      "album": {
-        "name": "slut for the dj",
-        "url": "https://open.spotify.com/album/4OwU91pl4OEW1k0hhYLM1K"
-      },
-      "artists": [
-        {
-          "name": "Virgin Miri",
-          "url": "https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm"
-        }
-      ],
-      "duration_ms": 165117,
-      "name": "slut for the dj",
-      "url": "https://open.spotify.com/track/3TePjhnsBXPFpPZ7yqo0cl"
-    },
-    {
       "added_at": "2026-02-27 05:00:35",
       "album": {
         "name": "What You Want",
@@ -799,38 +923,6 @@
       "duration_ms": 188320,
       "name": "What You Want",
       "url": "https://open.spotify.com/track/7J4dPn4Xg9Op0e8N2tjqkX"
-    },
-    {
-      "added_at": "2026-03-06 05:00:09",
-      "album": {
-        "name": "Dog",
-        "url": "https://open.spotify.com/album/3TbON5WSx3OksjRcQVyvpz"
-      },
-      "artists": [
-        {
-          "name": "Cobrah",
-          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
-        }
-      ],
-      "duration_ms": 157556,
-      "name": "Dog",
-      "url": "https://open.spotify.com/track/5eBhs4ethVM65azitjNAFv"
-    },
-    {
-      "added_at": "2026-03-06 05:00:09",
-      "album": {
-        "name": "amanda",
-        "url": "https://open.spotify.com/album/279AFyO1fVRd6WhgxwSmrQ"
-      },
-      "artists": [
-        {
-          "name": "Willa Ford",
-          "url": "https://open.spotify.com/artist/0kuEP1E9k3WBEwMKwEmp9u"
-        }
-      ],
-      "duration_ms": 162637,
-      "name": "Disassociate",
-      "url": "https://open.spotify.com/track/3Fx4AuoiicM7y0lwdnqhqa"
     },
     {
       "added_at": "2026-02-13 05:00:31",
@@ -903,26 +995,6 @@
       "duration_ms": 216026,
       "name": "Pop",
       "url": "https://open.spotify.com/track/028i7HBfp8uE5epmx5ieMA"
-    },
-    {
-      "added_at": "2026-03-06 05:00:09",
-      "album": {
-        "name": "SOS XOX (ft. vi0let)",
-        "url": "https://open.spotify.com/album/6tyUrFJViUo8l93eqpn2Wh"
-      },
-      "artists": [
-        {
-          "name": "MARiMARi",
-          "url": "https://open.spotify.com/artist/4EuIByMqMJOCQijthmKLwl"
-        },
-        {
-          "name": "vi0let",
-          "url": "https://open.spotify.com/artist/3ZzSaEjPW9zwhYfvId1l0Q"
-        }
-      ],
-      "duration_ms": 139710,
-      "name": "SOS XOX (ft. vi0let)",
-      "url": "https://open.spotify.com/track/1reCHfsIleI81FSbGvcHBN"
     },
     {
       "added_at": "2026-02-27 05:00:35",
@@ -1373,22 +1445,6 @@
       "url": "https://open.spotify.com/track/6yHRGd0A1mF3tys6GNTlnD"
     },
     {
-      "added_at": "2026-01-23 05:00:26",
-      "album": {
-        "name": "Feels Like Heaven",
-        "url": "https://open.spotify.com/album/5SaGyl331ck5Z5CQaIntGz"
-      },
-      "artists": [
-        {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "Feels Like Heaven",
-      "url": "https://open.spotify.com/track/1jWjsj9YKDoYhTVoZnSivY"
-    },
-    {
       "added_at": "2025-12-05 05:00:22",
       "album": {
         "name": "THAT'S SHOWBIZ BABY! THE ENCORE",
@@ -1581,38 +1637,6 @@
       "url": "https://open.spotify.com/track/688F4WEXlJBlNYPMOpLmAx"
     },
     {
-      "added_at": "2025-11-14 05:00:35",
-      "album": {
-        "name": "High Fashion Pop Music",
-        "url": "https://open.spotify.com/album/1Z6wCBWieZ1RkvuF6WX7H1"
-      },
-      "artists": [
-        {
-          "name": "Tommi Aura",
-          "url": "https://open.spotify.com/artist/0RPos3j6vQijjlI0X17k88"
-        }
-      ],
-      "duration_ms": 148093,
-      "name": "Lipstick",
-      "url": "https://open.spotify.com/track/0hkldzYtuZMygFwni4u2v1"
-    },
-    {
-      "added_at": "2025-11-14 05:00:35",
-      "album": {
-        "name": "Ultraviolet",
-        "url": "https://open.spotify.com/album/0jkMvR1I7rEWZstXCDT0MV"
-      },
-      "artists": [
-        {
-          "name": "Moyka",
-          "url": "https://open.spotify.com/artist/2u7pjisWrThF8JErPVIPlJ"
-        }
-      ],
-      "duration_ms": 183622,
-      "name": "Headlights",
-      "url": "https://open.spotify.com/track/4K6uNplAcD1OBHNnbOimgZ"
-    },
-    {
       "added_at": "2025-10-24 04:21:35",
       "album": {
         "name": "00:00",
@@ -1643,30 +1667,6 @@
       "duration_ms": 193103,
       "name": "Elevate",
       "url": "https://open.spotify.com/track/7jIIaLkLcxyn9z2GvQi1Se"
-    },
-    {
-      "added_at": "2025-11-21 05:00:40",
-      "album": {
-        "name": "Human Nature (Howie Tee New Edit)",
-        "url": "https://open.spotify.com/album/7E5C3BfVLeCt67zNiLeOET"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        },
-        {
-          "name": "Danny Tenaglia",
-          "url": "https://open.spotify.com/artist/2tG935baRE4mH8B3saiwbm"
-        },
-        {
-          "name": "Howie Tee",
-          "url": "https://open.spotify.com/artist/6PFHvFVHLNmU45qbtJxLpi"
-        }
-      ],
-      "duration_ms": 200080,
-      "name": "Human Nature - Howie Tee New Edit",
-      "url": "https://open.spotify.com/track/1izJB7BcfE39WOP5MCAivd"
     },
     {
       "added_at": "2025-11-21 05:00:40",

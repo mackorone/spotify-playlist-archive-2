@@ -1,6 +1,6 @@
 {
   "description": "Celebrating South Africa's most beloved hits.",
-  "num_followers": 1104,
+  "num_followers": 1137,
   "original_name": "SA Gold",
   "owner": {
     "name": "Spotify",
@@ -143,6 +143,22 @@
     {
       "added_at": "2026-04-09 09:50:14",
       "album": {
+        "name": "Family Values",
+        "url": "https://open.spotify.com/album/4Vka3hwfaOqISTHYyOdkKC"
+      },
+      "artists": [
+        {
+          "name": "Riky Rick",
+          "url": "https://open.spotify.com/artist/61ZRdppZ5sCtl9m5gfhoGO"
+        }
+      ],
+      "duration_ms": 240061,
+      "name": "Boss Zonke",
+      "url": "https://open.spotify.com/track/40k035nx9YwLSpfDhEyKwM"
+    },
+    {
+      "added_at": "2026-04-09 09:50:14",
+      "album": {
         "name": "Sondelani",
         "url": "https://open.spotify.com/album/4R42gWyYsd9ybilmlcia1j"
       },
@@ -175,22 +191,6 @@
     {
       "added_at": "2026-04-09 09:50:14",
       "album": {
-        "name": "Family Values",
-        "url": "https://open.spotify.com/album/4Vka3hwfaOqISTHYyOdkKC"
-      },
-      "artists": [
-        {
-          "name": "Riky Rick",
-          "url": "https://open.spotify.com/artist/61ZRdppZ5sCtl9m5gfhoGO"
-        }
-      ],
-      "duration_ms": 240061,
-      "name": "Boss Zonke",
-      "url": "https://open.spotify.com/track/40k035nx9YwLSpfDhEyKwM"
-    },
-    {
-      "added_at": "2026-04-09 09:50:14",
-      "album": {
         "name": "Memeza",
         "url": "https://open.spotify.com/album/0IvfrpuZ1uq9JGuWrImJqQ"
       },
@@ -207,22 +207,6 @@
     {
       "added_at": "2026-04-09 09:50:14",
       "album": {
-        "name": "Touch My Blood",
-        "url": "https://open.spotify.com/album/1cCpD6ImDJDP1nrsZVhV7O"
-      },
-      "artists": [
-        {
-          "name": "AKA",
-          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
-        }
-      ],
-      "duration_ms": 304140,
-      "name": "Jika",
-      "url": "https://open.spotify.com/track/5CaUga1xSORieHUwZ5urnG"
-    },
-    {
-      "added_at": "2026-04-09 09:50:14",
-      "album": {
         "name": "Work of Heart",
         "url": "https://open.spotify.com/album/0EH4i0I9Mjw7skmHXqfCUk"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 214640,
       "name": "Reach It",
       "url": "https://open.spotify.com/track/2cV5IKy6RdZ5RyN6mLGy1j"
+    },
+    {
+      "added_at": "2026-04-09 09:50:14",
+      "album": {
+        "name": "Touch My Blood",
+        "url": "https://open.spotify.com/album/1cCpD6ImDJDP1nrsZVhV7O"
+      },
+      "artists": [
+        {
+          "name": "AKA",
+          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
+        }
+      ],
+      "duration_ms": 304140,
+      "name": "Jika",
+      "url": "https://open.spotify.com/track/5CaUga1xSORieHUwZ5urnG"
     },
     {
       "added_at": "2026-04-09 09:50:14",
@@ -307,6 +307,22 @@
     {
       "added_at": "2026-04-09 09:50:14",
       "album": {
+        "name": "Jamali",
+        "url": "https://open.spotify.com/album/5Qe0Khsxx4fLlzk7cdATN7"
+      },
+      "artists": [
+        {
+          "name": "Jamali",
+          "url": "https://open.spotify.com/artist/4dyN2fwkUd8Y0qjKH7ztK0"
+        }
+      ],
+      "duration_ms": 242840,
+      "name": "Love Me For Me",
+      "url": "https://open.spotify.com/track/5uOQhnhCDxGb9QlSmCcXRO"
+    },
+    {
+      "added_at": "2026-04-09 09:50:14",
+      "album": {
         "name": "Sound Revival",
         "url": "https://open.spotify.com/album/3u5wvGZJGwCMWXKVvTMUFV"
       },
@@ -327,22 +343,6 @@
     {
       "added_at": "2026-04-09 09:50:14",
       "album": {
-        "name": "Jamali",
-        "url": "https://open.spotify.com/album/5Qe0Khsxx4fLlzk7cdATN7"
-      },
-      "artists": [
-        {
-          "name": "Jamali",
-          "url": "https://open.spotify.com/artist/4dyN2fwkUd8Y0qjKH7ztK0"
-        }
-      ],
-      "duration_ms": 242840,
-      "name": "Love Me For Me",
-      "url": "https://open.spotify.com/track/5uOQhnhCDxGb9QlSmCcXRO"
-    },
-    {
-      "added_at": "2026-04-09 09:50:14",
-      "album": {
         "name": "Uit Die Diepte Van My Hart",
         "url": "https://open.spotify.com/album/72xPC5J61vPhQdPdRmBlKp"
       },
@@ -359,22 +359,6 @@
     {
       "added_at": "2026-04-09 09:50:14",
       "album": {
-        "name": "Legends",
-        "url": "https://open.spotify.com/album/0RDdkzqoqSDVle30Cn4csO"
-      },
-      "artists": [
-        {
-          "name": "Brenda & The Big Dudes",
-          "url": "https://open.spotify.com/artist/3PGhsvfwxsjXsQw2swnopZ"
-        }
-      ],
-      "duration_ms": 279306,
-      "name": "Weekend Special",
-      "url": "https://open.spotify.com/track/0t8R66DymqgWq2BjureW9r"
-    },
-    {
-      "added_at": "2026-04-09 09:50:14",
-      "album": {
         "name": "In The Meantime",
         "url": "https://open.spotify.com/album/31trLskVnGbl1GFS9BzOkZ"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 180546,
       "name": "Indigo Girl",
       "url": "https://open.spotify.com/track/13lumrL4b1cw4htq7R2uKV"
+    },
+    {
+      "added_at": "2026-04-09 09:50:14",
+      "album": {
+        "name": "Legends",
+        "url": "https://open.spotify.com/album/0RDdkzqoqSDVle30Cn4csO"
+      },
+      "artists": [
+        {
+          "name": "Brenda & The Big Dudes",
+          "url": "https://open.spotify.com/artist/3PGhsvfwxsjXsQw2swnopZ"
+        }
+      ],
+      "duration_ms": 279306,
+      "name": "Weekend Special",
+      "url": "https://open.spotify.com/track/0t8R66DymqgWq2BjureW9r"
     },
     {
       "added_at": "2026-04-09 09:50:14",
@@ -947,22 +947,6 @@
     {
       "added_at": "2026-04-09 09:50:14",
       "album": {
-        "name": "Ultimate Zoid",
-        "url": "https://open.spotify.com/album/6umebim7hsEZeR3DfsWmpX"
-      },
-      "artists": [
-        {
-          "name": "Karen Zoid",
-          "url": "https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC"
-        }
-      ],
-      "duration_ms": 224626,
-      "name": "Afrikaners Is Plesierig",
-      "url": "https://open.spotify.com/track/3GHN9QEIr3mYiGRmtleNvc"
-    },
-    {
-      "added_at": "2026-04-09 09:50:14",
-      "album": {
         "name": "Heads and Tales",
         "url": "https://open.spotify.com/album/0H1DKASzcSdPOSrXc8Ovx6"
       },
@@ -979,18 +963,18 @@
     {
       "added_at": "2026-04-09 09:50:14",
       "album": {
-        "name": "Grand Masters",
-        "url": "https://open.spotify.com/album/4pZt9qJUgqAevuCKmzw5Fj"
+        "name": "Ultimate Zoid",
+        "url": "https://open.spotify.com/album/6umebim7hsEZeR3DfsWmpX"
       },
       "artists": [
         {
-          "name": "Simphiwe Dana",
-          "url": "https://open.spotify.com/artist/5l39d1wBRlqBC1qhXmYCuu"
+          "name": "Karen Zoid",
+          "url": "https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC"
         }
       ],
-      "duration_ms": 296911,
-      "name": "Ndiredi",
-      "url": "https://open.spotify.com/track/4AxFUQVcla7vyMSl4tGBZj"
+      "duration_ms": 224626,
+      "name": "Afrikaners Is Plesierig",
+      "url": "https://open.spotify.com/track/3GHN9QEIr3mYiGRmtleNvc"
     },
     {
       "added_at": "2026-04-09 09:50:14",
@@ -1007,6 +991,22 @@
       "duration_ms": 231839,
       "name": "Doc Shebeleza",
       "url": "https://open.spotify.com/track/1fRMv66SdJrWowk0rJduKM"
+    },
+    {
+      "added_at": "2026-04-09 09:50:14",
+      "album": {
+        "name": "Grand Masters",
+        "url": "https://open.spotify.com/album/4pZt9qJUgqAevuCKmzw5Fj"
+      },
+      "artists": [
+        {
+          "name": "Simphiwe Dana",
+          "url": "https://open.spotify.com/artist/5l39d1wBRlqBC1qhXmYCuu"
+        }
+      ],
+      "duration_ms": 296911,
+      "name": "Ndiredi",
+      "url": "https://open.spotify.com/track/4AxFUQVcla7vyMSl4tGBZj"
     },
     {
       "added_at": "2026-04-09 09:50:14",

@@ -15397,6 +15397,24 @@
     },
     {
       "album": {
+        "name": "G.U.I.",
+        "url": "https://open.spotify.com/album/2e5hhg16o9OUGL4dCKn9Mm"
+      },
+      "artists": [
+        {
+          "name": "Nitro Microphone Underground",
+          "url": "https://open.spotify.com/artist/2Zc6sm77bsQ92QvXQ73iP9"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198881,
+      "name": "G.U.I.",
+      "url": "https://open.spotify.com/track/4CM50Ga1MPU4OIJm3Y2jcS"
+    },
+    {
+      "album": {
         "name": "GAME",
         "url": "https://open.spotify.com/album/1M9wTYLjBvsoNNufp789Bo"
       },

@@ -1,13 +1,29 @@
 {
   "description": "FurryRadio.com, furry music for furs, by furs.",
-  "num_followers": 1062,
+  "num_followers": 1061,
   "original_name": "FURRY RADIO",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAAFLsXTViFGihTPYdKzSr78hvglBz5a",
+  "snapshot_id": "AAAFLxj50gdpeNfBgN7VD5feh8Dyiy1X",
   "tracks": [
+    {
+      "added_at": "2026-04-10 13:43:20",
+      "album": {
+        "name": "so easy",
+        "url": "https://open.spotify.com/album/0Qn3SgnRl4lTD3HjnTSP0a"
+      },
+      "artists": [
+        {
+          "name": "Jaylaflame",
+          "url": "https://open.spotify.com/artist/5UdUCGK24WtRFRcXyzxN6U"
+        }
+      ],
+      "duration_ms": 123428,
+      "name": "so easy",
+      "url": "https://open.spotify.com/track/61uQSk7Sgr2J5vnO3U83Gj"
+    },
     {
       "added_at": "2026-04-02 05:49:23",
       "album": {

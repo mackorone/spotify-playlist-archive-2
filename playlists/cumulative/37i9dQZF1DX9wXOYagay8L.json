@@ -390,7 +390,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 210000,
       "name": "Akalali",
       "url": "https://open.spotify.com/track/1Pm3tROceKIORA3h6a3g5v"
@@ -3990,7 +3990,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 222491,
       "name": "Goodbye My Love",
       "url": "https://open.spotify.com/track/42WeyWlyK5Ogj0kqb62OxA"
@@ -6878,6 +6878,40 @@
       "duration_ms": 350641,
       "name": "Kuvele Kukhanye",
       "url": "https://open.spotify.com/track/5r8aHQYosE37dL7zznR4LR"
+    },
+    {
+      "album": {
+        "name": "Genesis Chapter 1",
+        "url": "https://open.spotify.com/album/1c3YTpnvWNgONgyS2DubMf"
+      },
+      "artists": [
+        {
+          "name": "Stallion X",
+          "url": "https://open.spotify.com/artist/3V3keoOsIZ5Hj0PTGTWqds"
+        },
+        {
+          "name": "Mjolisi",
+          "url": "https://open.spotify.com/artist/241x5prRiXJmnk4vSGEHcr"
+        },
+        {
+          "name": "Diary",
+          "url": "https://open.spotify.com/artist/2pTKezPNKXyQCfkUVIRJ74"
+        },
+        {
+          "name": "Ugatsheni",
+          "url": "https://open.spotify.com/artist/2kUReuoaNS6Thgl4zFQA60"
+        },
+        {
+          "name": "Pretty Masompisi",
+          "url": "https://open.spotify.com/artist/7xBgvT4t4AQ0t7gcBc90ts"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279562,
+      "name": "Kuwe (feat. Ugatsheni & Pretty Masompisi)",
+      "url": "https://open.spotify.com/track/0WxdS0wwIkVQKppKum6Xvi"
     },
     {
       "album": {
@@ -14200,6 +14234,32 @@
       "duration_ms": 223520,
       "name": "Ukukhanya",
       "url": "https://open.spotify.com/track/21zXbMOdDs7BterIteBmvU"
+    },
+    {
+      "album": {
+        "name": "UkuKhanya",
+        "url": "https://open.spotify.com/album/2RAnVe6camS6f2T3ByAraW"
+      },
+      "artists": [
+        {
+          "name": "Shane907",
+          "url": "https://open.spotify.com/artist/2JrN19KmNsyT3BWdEEbFeX"
+        },
+        {
+          "name": "BanzoSinas SA",
+          "url": "https://open.spotify.com/artist/23QmkAKJAjdUw9e4FVsSlz"
+        },
+        {
+          "name": "MvulEnhle",
+          "url": "https://open.spotify.com/artist/2Of3mFcd1zqpTtbEDpzGIb"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144017,
+      "name": "UkuKhanya",
+      "url": "https://open.spotify.com/track/67zGRzMRhjoDLCIM5CqDOK"
     },
     {
       "album": {

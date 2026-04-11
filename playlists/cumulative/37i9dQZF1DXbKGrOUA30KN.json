@@ -4991,6 +4991,24 @@
     },
     {
       "album": {
+        "name": "Mein Herz Kriegst Du Nicht",
+        "url": "https://open.spotify.com/album/4mqDThnBYldj5Qh8XLrJ20"
+      },
+      "artists": [
+        {
+          "name": "Tom Twers",
+          "url": "https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121506,
+      "name": "Mein Herz Kriegst Du Nicht",
+      "url": "https://open.spotify.com/track/6MSFHB0Fwjlr1gWcRnjcat"
+    },
+    {
+      "album": {
         "name": "Mein L\u00f6we",
         "url": "https://open.spotify.com/album/2FH8PUUTfI8sykjGiQLofy"
       },
@@ -6784,24 +6802,6 @@
       "duration_ms": 154426,
       "name": "Tot",
       "url": "https://open.spotify.com/track/73ZDBpbxuy8CP45FKLrhPd"
-    },
-    {
-      "album": {
-        "name": "Mein Herz Kriegst Du Nicht",
-        "url": "https://open.spotify.com/album/4mqDThnBYldj5Qh8XLrJ20"
-      },
-      "artists": [
-        {
-          "name": "Tom Twers",
-          "url": "https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO"
-        }
-      ],
-      "date_added": "2026-04-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/6MSFHB0Fwjlr1gWcRnjcat"
     },
     {
       "album": {

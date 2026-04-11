@@ -3433,6 +3433,24 @@
     },
     {
       "album": {
+        "name": "Desenio",
+        "url": "https://open.spotify.com/album/2Th4vhpJfux4ro2fi4ZL0t"
+      },
+      "artists": [
+        {
+          "name": "Hector Vall\u00c7e",
+          "url": "https://open.spotify.com/artist/2KlGXtQBlBpqBOt4WnVH4M"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109500,
+      "name": "Desenio",
+      "url": "https://open.spotify.com/track/2NZg2wXBtHDyliA3pqtrUL"
+    },
+    {
+      "album": {
         "name": "Desire paths",
         "url": "https://open.spotify.com/album/4Y19aC7T5QTSBiWBPALRFV"
       },

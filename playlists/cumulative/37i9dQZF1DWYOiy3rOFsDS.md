@@ -2,9 +2,9 @@
 
 ### [nuevo bolero](https://open.spotify.com/playlist/37i9dQZF1DWYOiy3rOFsDS)
 
-> Romance a la antigüita con Diana Meril en portada.
+> Romance a la antigüita con La Santa Cecilia en portada.
 
-416 songs - 23 hr 45 min
+417 songs - 23 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Algo contigo](https://open.spotify.com/track/3HMuJG1y7pyjg7Rrk17Rsb) | [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM), [Elisabeth Roma](https://open.spotify.com/artist/4YU7oWQY1EZzkkMVK4dJHm) | [Imagina](https://open.spotify.com/album/4mWMKw1bTjskg9KXg7rFwc) | 4:57 | 2022-04-08 | 2025-05-17 |
 | [Algo contigo](https://open.spotify.com/track/7BYO980wn5wYBZeVdBuGy2) | [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM), [Elisabeth Roma](https://open.spotify.com/artist/4YU7oWQY1EZzkkMVK4dJHm) | [Imagina](https://open.spotify.com/album/2E7qEOP4LuSEvb5yHwUlLo) | 4:57 | 2022-04-08 | 2022-07-29 |
 | [ALIENS](https://open.spotify.com/track/3XqtFjnJGnFd7S6ItomaZ7) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [ALIENS](https://open.spotify.com/album/4GYUSdvlM3XEZUmekBBRtJ) | 2:50 | 2026-03-13 |  |
-| [Almohada](https://open.spotify.com/track/3lL5AiJtpdGe7AYCIwJ5cI) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Celebrando Al Príncipe](https://open.spotify.com/album/2HZkh6ay4cVKa8lxMvDfol) | 4:02 | 2021-10-16 | 2026-04-10 |
+| [Almohada](https://open.spotify.com/track/3lL5AiJtpdGe7AYCIwJ5cI) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Celebrando Al Príncipe](https://open.spotify.com/album/2HZkh6ay4cVKa8lxMvDfol) | 4:02 | 2021-10-16 |  |
 | [Amar](https://open.spotify.com/track/55lkRONUdhDT87IbTuJKXN) | [Donovan Morales](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax) | [Amar](https://open.spotify.com/album/2WLYPoynzvRPOPBtdXaPrj) | 2:59 | 2021-10-16 | 2024-06-29 |
 | [Amar Y Vivir \- En Vivo](https://open.spotify.com/track/1nqOX76aLJYNY74ZDBPSBO) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v), [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR) | [Amar Y Vivir \(En Vivo Desde La Ciudad De México, 2017\)](https://open.spotify.com/album/37552bcHW2vZ5tGBvs4rey) | 3:02 | 2021-10-16 |  |
 | [Amarga Navidad](https://open.spotify.com/track/4EGf9hOeXowF79OICACmZh) | [Paola Decanini](https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE) | [Amarga Navidad](https://open.spotify.com/album/7siI9CRzZujtX9LeHH7iXh) | 2:42 | 2025-11-21 | 2026-01-15 |
@@ -56,6 +56,7 @@
 | [Bolero de Luna](https://open.spotify.com/track/0NMkHQmNdibqPkl6pt4OwV) | [MAKENNA](https://open.spotify.com/artist/7kuKovTlZKbogv3xJBJdP0) | [Espacio Tiempo](https://open.spotify.com/album/4SjnICxkHO9va45jcVDATH) | 3:09 | 2022-04-07 | 2022-07-21 |
 | [Bolero Estelar](https://open.spotify.com/track/46ZNN9JUQFl0LXiTLKKkMZ) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Bolero Estelar](https://open.spotify.com/album/5m0fMRnEneLg8pZaoL9F4E) | 3:58 | 2022-03-11 |  |
 | [BOLERo LIBRA](https://open.spotify.com/track/6KGbKJBVB8tu5u6vrQCjbu) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [BOLERo LIBRA](https://open.spotify.com/album/4VjwNAmNUBdYZL0fTRTVOk) | 2:52 | 2024-09-27 | 2025-11-30 |
+| [Bolero Para El Que No Esperó](https://open.spotify.com/track/2qgNQyXPhIgeIrX660JKKY) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v) | [Bolero Para El Que No Esperó](https://open.spotify.com/album/1hnIdv3iAXrpEaasJABJOx) | 3:47 | 2026-04-10 |  |
 | [Bolero Para Mis Abuelos](https://open.spotify.com/track/4kZNOWaebUqAXFR2xz3hol) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ) | [Bolero Para Mis Abuelos](https://open.spotify.com/album/0CDZPlWCKPNrNnqGPvP6AG) | 3:00 | 2024-10-18 | 2024-12-03 |
 | [Bolero Surrealista](https://open.spotify.com/track/0axqkZNASfnYOI3abp06dT) | [Dali Mata](https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL) | [Bolero Surrealista](https://open.spotify.com/album/6kZcXw3tT2Kbj9rqZsh83a) | 3:54 | 2021-10-16 | 2022-04-20 |
 | [Bolero Triste](https://open.spotify.com/track/5w7o1kxfOP6SUNhaYRWlE3) | [Dali Mata](https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL) | [Bolero Triste](https://open.spotify.com/album/4U5TwT71ftkvWS9vJ2bQY0) | 4:00 | 2022-10-28 | 2023-02-10 |
@@ -152,7 +153,7 @@
 | [Esto no acabó por mí](https://open.spotify.com/track/22Go3tznhPvBdgep0nmQSb) | [Chucho Rivas](https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1) | [Esto no acabó por mí](https://open.spotify.com/album/1tShB0umEqtrmHzr8mNRdZ) | 3:27 | 2026-02-13 |  |
 | [Fantasías](https://open.spotify.com/track/5eHegIfGPku1Jo70rRzv6k) | [El HueyCoyote](https://open.spotify.com/artist/3FP0UgKEa2aprodn6KboaK), [José y el Toro](https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex) | [Fantasías](https://open.spotify.com/album/5JF53e3hNvCz7FQXWqhLZG) | 3:46 | 2024-05-17 |  |
 | [Farolito \(with Gilberto Gil\)](https://open.spotify.com/track/30CNJpVV1qtEisIeunne7j) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Mujer Divina \- Homenaje a Agustín Lara](https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh) | 2:41 | 2021-10-16 |  |
-| [Femme Fatale \- Spotify Sessions](https://open.spotify.com/track/5T9WsAmro0KoNqdGE8a19f) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Mon Laferte \(Spotify Sessions\)](https://open.spotify.com/album/25QXSN5ubMJcqEfMVoOi0x) | 4:18 | 2026-03-13 |  |
+| [Femme Fatale \- Spotify Sessions](https://open.spotify.com/track/5T9WsAmro0KoNqdGE8a19f) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Mon Laferte \(Spotify Sessions\)](https://open.spotify.com/album/25QXSN5ubMJcqEfMVoOi0x) | 4:18 | 2026-03-13 | 2026-04-11 |
 | [Florecer Contigo](https://open.spotify.com/track/7BizyJuwuuRYp4hnExnO16) | [Nasa Histoires](https://open.spotify.com/artist/2nAAvoxXJdXRyKH2srQ3qu), [Pedrina](https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1) | [Florecer Contigo](https://open.spotify.com/album/60u8fR1xRaw7SWKIn0J3XG) | 2:47 | 2024-08-23 | 2024-10-26 |
 | [Foto de Perfil](https://open.spotify.com/track/39IkVWszvdXMPozlCYi0yX) | [Los Rivera Destino](https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [BESITOS Y BESITAS](https://open.spotify.com/album/77CfbYt3OGzTxk7bCugAS5) | 3:43 | 2022-04-22 | 2023-02-22 |
 | [Frenesi \(Frenzy\)](https://open.spotify.com/track/6VK0IGRSon5Z0EcFEgbZAM) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc) | [Frenesi](https://open.spotify.com/album/4tNsjDg5Yuo7Y4BLFJPtpD) | 3:36 | 2021-10-16 | 2022-07-29 |
@@ -174,7 +175,7 @@
 | [Ilegal](https://open.spotify.com/track/1Bk7sGtQFhHPYoaDH7e9JL) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ) | [Ilegal](https://open.spotify.com/album/3nqo0sYJIme1yMB1Jeykr3) | 3:04 | 2025-07-11 | 2026-01-06 |
 | [Improbable](https://open.spotify.com/track/63q0cRDrf9ggONS650fOah) | [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI) | [Improbable](https://open.spotify.com/album/22GqTBokcsZFpo3iIRzHZq) | 2:34 | 2024-05-17 | 2024-08-25 |
 | [Incomprensible](https://open.spotify.com/track/39eazIEoQhjlwg6u29zMnl) | [Meme del Real](https://open.spotify.com/artist/0HkMgxowXkwqDN3Z0s7kAB) | [Incomprensible](https://open.spotify.com/album/4zwpvu8E4Ev8iM6V76nnI3) | 3:31 | 2025-07-11 | 2025-12-06 |
-| [Infierno Favorito](https://open.spotify.com/track/2VmnYX2n0eGrONLto2pg74) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [José y el Toro](https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex) | [Infierno Favorito](https://open.spotify.com/album/5h4XBRTNDxEB9Cr7j4FE3H) | 3:34 | 2025-10-24 |  |
+| [Infierno Favorito](https://open.spotify.com/track/2VmnYX2n0eGrONLto2pg74) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [José y el Toro](https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex) | [Infierno Favorito](https://open.spotify.com/album/5h4XBRTNDxEB9Cr7j4FE3H) | 3:34 | 2025-10-24 | 2026-04-11 |
 | [Inmensamente Frágil](https://open.spotify.com/track/7dbLDpFeg0Gydsf3UrxSdI) | [Ronroneo](https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK) | [Inmensamente Frágil](https://open.spotify.com/album/1kdyYN2uapW4W1RFVcSPCa) | 3:39 | 2021-10-16 | 2023-03-18 |
 | [Jacaranda](https://open.spotify.com/track/3BuXMPHThfHp3znFM3vOnp) | [Carlos Cuevas](https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL) | [Triología](https://open.spotify.com/album/1pW0PEHTSVkSyVlmdfvxwL) | 3:11 | 2021-10-16 | 2025-07-12 |
 | [Jaque Mate](https://open.spotify.com/track/1e1qYSKEhN4UkIAoKRQgZ1) | [Fer Soberón](https://open.spotify.com/artist/7N3Td3Wa6ADFhGYc9wp88U) | [Jaque Mate](https://open.spotify.com/album/6ISwwA1Y7kKGEjH2EoxsjZ) | 3:06 | 2025-01-24 |  |

@@ -923,6 +923,24 @@
     },
     {
       "album": {
+        "name": "Halyna's Theme - By the Water",
+        "url": "https://open.spotify.com/album/5uS16PngfHiVU6DwcqwLC0"
+      },
+      "artists": [
+        {
+          "name": "Daniela Mars",
+          "url": "https://open.spotify.com/artist/71r1FG65OQEQiR6Tk5c1bJ"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111413,
+      "name": "Halyna's Theme - By the Water",
+      "url": "https://open.spotify.com/track/5hAEVg3C4fmupryvXqskLw"
+    },
+    {
+      "album": {
         "name": "Desplat: Harry Potter and the Deathly Hallows: Lily\u2019s Theme",
         "url": "https://open.spotify.com/album/1ZAGGUyffomoyzMZ6TWuoz"
       },

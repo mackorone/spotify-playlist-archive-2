@@ -1740,7 +1740,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 187867,
       "name": "First High",
       "url": "https://open.spotify.com/track/4WG91Pt9MkJs5gMHZECKfZ"
@@ -1780,6 +1780,24 @@
       "duration_ms": 211200,
       "name": "For the Love of Money",
       "url": "https://open.spotify.com/track/5jH6P7e6RUGZnFGTeq3pUe"
+    },
+    {
+      "album": {
+        "name": "Freakin\u2019 Out",
+        "url": "https://open.spotify.com/album/3hToTQIS84qGNxEhrZHiWf"
+      },
+      "artists": [
+        {
+          "name": "Dexter and The Moonrocks",
+          "url": "https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217897,
+      "name": "Freakin\u2019 Out",
+      "url": "https://open.spotify.com/track/2SaWT781xr3hHLdbVt5DB7"
     },
     {
       "album": {
@@ -2777,6 +2795,24 @@
     },
     {
       "album": {
+        "name": "Rock Is Dead",
+        "url": "https://open.spotify.com/album/3C34o5gjRZ4VmaPmKperGz"
+      },
+      "artists": [
+        {
+          "name": "Cody Jasper",
+          "url": "https://open.spotify.com/artist/5TUeTFpidqbyGqXeOj5I1H"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243500,
+      "name": "Jaded",
+      "url": "https://open.spotify.com/track/4amVS2vahYN2b0VnB2nn32"
+    },
+    {
+      "album": {
         "name": "John Wayne",
         "url": "https://open.spotify.com/album/1O9rZ9fDKAddiZSImbxRpG"
       },
@@ -2972,7 +3008,7 @@
       ],
       "date_added": "2020-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 217786,
       "name": "Let It Ride",
       "url": "https://open.spotify.com/track/1TR1KgInMmVlpCI6QWg0Ze"

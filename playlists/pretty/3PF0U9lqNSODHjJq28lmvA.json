@@ -1,352 +1,176 @@
 {
   "description": "This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday \ud83d\ude0e",
-  "num_followers": 2596,
+  "num_followers": 2598,
   "original_name": "Independent Music Friday",
   "owner": {
     "name": "Record Union",
     "url": "https://open.spotify.com/user/recordunion"
   },
-  "snapshot_id": "AAAFRaxypRET0uw0OAuHSskX/FqfzEHR",
+  "snapshot_id": "AAAFUFoutDgFVcF+bamTutU6TVT4CCMv",
   "tracks": [
     {
-      "added_at": "2026-04-03 10:45:14",
+      "added_at": "2026-04-10 13:02:15",
       "album": {
-        "name": "Kommentar",
-        "url": "https://open.spotify.com/album/7CM3zmSLBQsNqe55qsxVF1"
+        "name": "TOAPAPPRET \u00c4R SLUT",
+        "url": "https://open.spotify.com/album/7HbonGeZlew1sB2n0HDCN7"
       },
       "artists": [
         {
-          "name": "HUVET",
-          "url": "https://open.spotify.com/artist/22bdLMh0gA8cpIKF5qRFvO"
+          "name": "Mejeristerna",
+          "url": "https://open.spotify.com/artist/27P0zwyOk3CLx4sTBwj1ha"
         }
       ],
-      "duration_ms": 212640,
-      "name": "Kommentar",
-      "url": "https://open.spotify.com/track/4gvvHS7N65KWggs2mtUBUo"
+      "duration_ms": 155680,
+      "name": "TOAPAPPRET \u00c4R SLUT",
+      "url": "https://open.spotify.com/track/4FYYrsXtKUXhSBGqKeSogI"
     },
     {
-      "added_at": "2026-04-03 10:45:14",
+      "added_at": "2026-04-10 13:02:49",
       "album": {
-        "name": "Hayati",
-        "url": "https://open.spotify.com/album/0j6pc14SZXpf4aGYjJHUAp"
+        "name": "Be With You",
+        "url": "https://open.spotify.com/album/2wxuKn5mob0MYLtDfWdR3i"
       },
       "artists": [
         {
-          "name": "Sultan",
-          "url": "https://open.spotify.com/artist/16EQuNU6K3sGYYgd4OnEJM"
+          "name": "Only Once",
+          "url": "https://open.spotify.com/artist/4kyWlDJ4ihbDlRkJYpK68r"
         }
       ],
-      "duration_ms": 154829,
-      "name": "Hayati",
-      "url": "https://open.spotify.com/track/7zLXrPJBXxaNF4aTLpMxHw"
+      "duration_ms": 243730,
+      "name": "Be With You",
+      "url": "https://open.spotify.com/track/5TTRWo8AiHsySpZHVpwEeS"
     },
     {
-      "added_at": "2026-04-03 10:45:14",
+      "added_at": "2026-04-10 13:03:15",
       "album": {
-        "name": "Love Her",
-        "url": "https://open.spotify.com/album/5oZY15S1ZM2XWwkEbQDCFd"
+        "name": "I'm Gonna Be There",
+        "url": "https://open.spotify.com/album/4BdhOTJuU7jfEmwC30MCmP"
       },
       "artists": [
         {
-          "name": "Steeplechase",
-          "url": "https://open.spotify.com/artist/0H13AElYfso0Uuxg8tUFFP"
+          "name": "JANELIA",
+          "url": "https://open.spotify.com/artist/6iYVabk3wyvkGqdGrCLtnp"
         }
       ],
-      "duration_ms": 233834,
-      "name": "Love Her",
-      "url": "https://open.spotify.com/track/5iHEV9ei0leuhG0l4yim1L"
+      "duration_ms": 219853,
+      "name": "I'm Gonna Be There",
+      "url": "https://open.spotify.com/track/6wnhehBQvquf38ev6DHTJl"
     },
     {
-      "added_at": "2026-04-03 10:45:14",
+      "added_at": "2026-04-10 13:03:51",
       "album": {
-        "name": "Stay True",
-        "url": "https://open.spotify.com/album/0ZYW9yLaybQ8CXUZ4kN2Ul"
+        "name": "Rise Higher",
+        "url": "https://open.spotify.com/album/630QztE93QKlYd4DLT3edT"
       },
       "artists": [
         {
-          "name": "Marcus Wulf",
-          "url": "https://open.spotify.com/artist/3nXryNPoQ88DbChlxmWhnG"
+          "name": "Ro. Musikk",
+          "url": "https://open.spotify.com/artist/1A6GK6ESTEFfAUzPjX8gGE"
         }
       ],
-      "duration_ms": 194620,
-      "name": "Stay True",
-      "url": "https://open.spotify.com/track/2Z1y75VWFzaI8NQMheNQsK"
+      "duration_ms": 400000,
+      "name": "Rise Higher",
+      "url": "https://open.spotify.com/track/7dzAWkfFpdUd82hSVd0ski"
     },
     {
-      "added_at": "2026-04-03 10:45:14",
+      "added_at": "2026-04-10 13:04:53",
       "album": {
-        "name": "Restad L\u00e5ngevatten",
-        "url": "https://open.spotify.com/album/4YrWdEdCn1Xinim7RS5W1W"
+        "name": "Huudan",
+        "url": "https://open.spotify.com/album/7C7vNr7FAlBpjHbk4LJIoX"
       },
       "artists": [
         {
-          "name": "Bo Savik",
-          "url": "https://open.spotify.com/artist/4BuuD79f72XM4GtamZ9Abz"
+          "name": "Keltuma",
+          "url": "https://open.spotify.com/artist/4dQ6LxyokqMNSVCplnoaSL"
         }
       ],
-      "duration_ms": 333902,
-      "name": "Restad L\u00e5ngevatten",
-      "url": "https://open.spotify.com/track/2NTV4YgNwXMlADbEQyY0oq"
+      "duration_ms": 334506,
+      "name": "Huudan",
+      "url": "https://open.spotify.com/track/3xvs9eU0o5cidiWLyVTbiN"
     },
     {
-      "added_at": "2026-04-03 10:45:14",
+      "added_at": "2026-04-10 13:05:12",
       "album": {
-        "name": "On Your Way",
-        "url": "https://open.spotify.com/album/1t1Q8HY6zhxkHmEPH1FSvE"
+        "name": "Break Me Down",
+        "url": "https://open.spotify.com/album/1CMTeyo7B5e3KjtOiXzLYO"
       },
       "artists": [
         {
-          "name": "Dinner Time",
-          "url": "https://open.spotify.com/artist/4wlyzfgVJHCbF3LXiQAjCm"
+          "name": "Veseli",
+          "url": "https://open.spotify.com/artist/50s52gIdkQNpkt7iKWrvjY"
         }
       ],
-      "duration_ms": 204492,
-      "name": "On Your Way",
-      "url": "https://open.spotify.com/track/2wvom3ecTi0BYRaALv6cWv"
+      "duration_ms": 262500,
+      "name": "Break Me Down",
+      "url": "https://open.spotify.com/track/0adgDRKO5XJXLG36JxiDmQ"
     },
     {
-      "added_at": "2026-04-03 10:45:14",
+      "added_at": "2026-04-10 13:05:37",
       "album": {
-        "name": "Alone Tonight",
-        "url": "https://open.spotify.com/album/4ft7NR5qdAqNRFUtGLkWQs"
+        "name": "On the top of the rainbow",
+        "url": "https://open.spotify.com/album/2EQYs2VwKHPsvnVECo2nfq"
       },
       "artists": [
         {
-          "name": "Dirty Mirrors",
-          "url": "https://open.spotify.com/artist/1FhjQZsRmILECVbS55paHG"
+          "name": "Alban Bentein",
+          "url": "https://open.spotify.com/artist/5QwCteqkggJLF2lndR1v41"
+        }
+      ],
+      "duration_ms": 222481,
+      "name": "On the top of the rainbow",
+      "url": "https://open.spotify.com/track/59GvYwLFTSvKdxF3d0VzPy"
+    },
+    {
+      "added_at": "2026-04-10 13:06:22",
+      "album": {
+        "name": "Chez Moi",
+        "url": "https://open.spotify.com/album/1D4CNPATyNyTDnGrf3XtOH"
+      },
+      "artists": [
+        {
+          "name": "Eva sur Seine",
+          "url": "https://open.spotify.com/artist/0i67aNTXibb7XIqWuMCmHb"
+        }
+      ],
+      "duration_ms": 128546,
+      "name": "Chez Moi",
+      "url": "https://open.spotify.com/track/7mXwlFXewatoMrwTy6gIVY"
+    },
+    {
+      "added_at": "2026-04-10 13:06:47",
+      "album": {
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/3ZlkrbKtnVhL96Ux3Oz9CC"
+      },
+      "artists": [
+        {
+          "name": "Sara Gill",
+          "url": "https://open.spotify.com/artist/6cvQdUJz7qvPGf7kQ3P4yz"
+        }
+      ],
+      "duration_ms": 252786,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/5M6hrQFri31qa73Y1xLIL2"
+    },
+    {
+      "added_at": "2026-04-10 13:08:49",
+      "album": {
+        "name": "weli",
+        "url": "https://open.spotify.com/album/4Hba4SwGI2Dl5V3VePHC9B"
+      },
+      "artists": [
+        {
+          "name": "Rachid Kasmi",
+          "url": "https://open.spotify.com/artist/36wD11p3VIwHH25Glcn2ut"
         },
         {
-          "name": "Paije",
-          "url": "https://open.spotify.com/artist/4uFfVPj6D39RBhVjpY84Ji"
+          "name": "Jamal Ahlam",
+          "url": "https://open.spotify.com/artist/79JwIhnEBbdA1zX4dCmAKj"
         }
       ],
-      "duration_ms": 215593,
-      "name": "Alone Tonight",
-      "url": "https://open.spotify.com/track/646TxKvBRXu9VRxpE5ZjCR"
-    },
-    {
-      "added_at": "2026-04-03 10:45:14",
-      "album": {
-        "name": "Hearts Will Be Broken Here",
-        "url": "https://open.spotify.com/album/01c5NZISh4MrlgKGcGYCHR"
-      },
-      "artists": [
-        {
-          "name": "Danella Hocevar",
-          "url": "https://open.spotify.com/artist/7Mea23wAKLd3AKIRIoFMt9"
-        }
-      ],
-      "duration_ms": 210390,
-      "name": "Wearing Thin",
-      "url": "https://open.spotify.com/track/3ijm5s75Wqy1ySGxq2k41a"
-    },
-    {
-      "added_at": "2026-04-03 10:45:14",
-      "album": {
-        "name": "Vr\u00e1sky od l\u00e1sky",
-        "url": "https://open.spotify.com/album/0Hehs1KDgdtj1JKSgEJl03"
-      },
-      "artists": [
-        {
-          "name": "Claire The Moon",
-          "url": "https://open.spotify.com/artist/2lSfNKBvBeqWBFQh4H6vk2"
-        },
-        {
-          "name": "Andre The Sun",
-          "url": "https://open.spotify.com/artist/6uXRimFckTsyuyJfH6Kboz"
-        }
-      ],
-      "duration_ms": 178101,
-      "name": "Vr\u00e1sky od l\u00e1sky",
-      "url": "https://open.spotify.com/track/20t7Tw0Lh5sZ5oCPs2Ggsk"
-    },
-    {
-      "added_at": "2026-04-03 10:45:14",
-      "album": {
-        "name": "Experiential Project 2 Bloom",
-        "url": "https://open.spotify.com/album/4OUlQzsTjxOelJIuQyscxQ"
-      },
-      "artists": [
-        {
-          "name": "Umoja McNeish",
-          "url": "https://open.spotify.com/artist/5zeiLRixdSwVMaqcdhq5LH"
-        }
-      ],
-      "duration_ms": 279111,
-      "name": "Experiential Project 2 Bloom",
-      "url": "https://open.spotify.com/track/3cM130eYkxFMXJLhwCOvze"
-    },
-    {
-      "added_at": "2026-04-03 10:45:14",
-      "album": {
-        "name": "P\u00e5 andra sidan bron (Live)",
-        "url": "https://open.spotify.com/album/20ulXaB7unhmEjZCcZBxrh"
-      },
-      "artists": [
-        {
-          "name": "Armborst & Tulpaner",
-          "url": "https://open.spotify.com/artist/0UXIqLPaCQHEHCVFk41fVT"
-        },
-        {
-          "name": "Filharmoniska S\u00e4llskapet",
-          "url": "https://open.spotify.com/artist/7wKZWp6IDakZyP6Q6RxVRX"
-        }
-      ],
-      "duration_ms": 351475,
-      "name": "P\u00e5 andra sidan bron - Live",
-      "url": "https://open.spotify.com/track/3RiRfpppaANsIHhJNeXQwL"
-    },
-    {
-      "added_at": "2026-04-03 10:45:14",
-      "album": {
-        "name": "Une \u00e9vidence",
-        "url": "https://open.spotify.com/album/2Y0uKIqR6xl6p4vAuUaCJl"
-      },
-      "artists": [
-        {
-          "name": "Emma Vifargent",
-          "url": "https://open.spotify.com/artist/6O0EPXarHJiuDjInxTrAmR"
-        },
-        {
-          "name": "Laurent Buratti",
-          "url": "https://open.spotify.com/artist/4j73WszgCQSdT0rsohD0jJ"
-        }
-      ],
-      "duration_ms": 213759,
-      "name": "En coup de vent",
-      "url": "https://open.spotify.com/track/4HxAszUmT3bh33iLqm0Xse"
-    },
-    {
-      "added_at": "2026-04-03 10:45:14",
-      "album": {
-        "name": "Vals i skymningen",
-        "url": "https://open.spotify.com/album/1fYlrjfpGmb6jo0gxLn4hV"
-      },
-      "artists": [
-        {
-          "name": "Tjuvholmen",
-          "url": "https://open.spotify.com/artist/2ZSnKDsEO5IJhnHzsPQiwc"
-        }
-      ],
-      "duration_ms": 255388,
-      "name": "Vals i skymningen",
-      "url": "https://open.spotify.com/track/4BIZ25mZcCNzxdGSHh9AYn"
-    },
-    {
-      "added_at": "2026-04-03 10:45:14",
-      "album": {
-        "name": "Parasitus Apparatus (2026 Remaster)",
-        "url": "https://open.spotify.com/album/2T9iOI6wwDdcmjl0OwMwVT"
-      },
-      "artists": [
-        {
-          "name": "Liquorworks",
-          "url": "https://open.spotify.com/artist/5N0HHSj9VyFK76Q22rU3FJ"
-        }
-      ],
-      "duration_ms": 259350,
-      "name": "Not Human Anymore - 2026 Remaster",
-      "url": "https://open.spotify.com/track/2wiQDSVotG2m9NcbYFVelx"
-    },
-    {
-      "added_at": "2026-04-04 04:59:21",
-      "album": {
-        "name": "Wonderland",
-        "url": "https://open.spotify.com/album/6Go5fSQhk5V7PahXmQK7KU"
-      },
-      "artists": [
-        {
-          "name": "WISP.",
-          "url": "https://open.spotify.com/artist/1PJGi72nAhzNmESDrqLq6F"
-        }
-      ],
-      "duration_ms": 229958,
-      "name": "Wonderland",
-      "url": "https://open.spotify.com/track/0htijs4zJkE7yrdzPQ5moF"
-    },
-    {
-      "added_at": "2026-04-04 05:17:34",
-      "album": {
-        "name": "Pull Each Other Through",
-        "url": "https://open.spotify.com/album/7I9okDfRAAe4zB9kbgGA4a"
-      },
-      "artists": [
-        {
-          "name": "Marko Kattilakoski",
-          "url": "https://open.spotify.com/artist/6Txkvc6QZf8Qfr3YyEgdnR"
-        },
-        {
-          "name": "West11",
-          "url": "https://open.spotify.com/artist/70VJLyt1Xs8zZG5Qf0v2LK"
-        }
-      ],
-      "duration_ms": 261162,
-      "name": "Pull Each Other Through",
-      "url": "https://open.spotify.com/track/5rttlyeu5ixjhOcEdUKBUN"
-    },
-    {
-      "added_at": "2026-04-04 05:18:52",
-      "album": {
-        "name": "Sleuth Saga: Under Starless Skies (Official Soundtrack)",
-        "url": "https://open.spotify.com/album/41zjQkyunBxweprzzmOSn7"
-      },
-      "artists": [
-        {
-          "name": "Libertian Phonographic Repertoire",
-          "url": "https://open.spotify.com/artist/4aMZt94QH5qnccdRRRoqOY"
-        }
-      ],
-      "duration_ms": 137093,
-      "name": "Main Theme - Under Starless Skies",
-      "url": "https://open.spotify.com/track/2oKQP668wDjAnNQK2rRX5f"
-    },
-    {
-      "added_at": "2026-04-04 05:19:51",
-      "album": {
-        "name": "BAD B (Radio Edit)",
-        "url": "https://open.spotify.com/album/0x1E5QRyUARfXRbQK5gvgg"
-      },
-      "artists": [
-        {
-          "name": "Kurt Joseph",
-          "url": "https://open.spotify.com/artist/1TFSTrw4PLhPMQmPjVWiof"
-        }
-      ],
-      "duration_ms": 142519,
-      "name": "BAD B - Radio Edit",
-      "url": "https://open.spotify.com/track/2FDj1oCl0J6T3avfJ4a9sq"
-    },
-    {
-      "added_at": "2026-04-04 15:56:10",
-      "album": {
-        "name": "Eldhest",
-        "url": "https://open.spotify.com/album/4LRcqe6Em8rfrWYMqzb02D"
-      },
-      "artists": [
-        {
-          "name": "TOKI",
-          "url": "https://open.spotify.com/artist/0mwA3K93Eg90Fa8ZwN3zGV"
-        }
-      ],
-      "duration_ms": 336000,
-      "name": "Eldhest",
-      "url": "https://open.spotify.com/track/1pJw28DloNeED4RlZrpMQI"
-    },
-    {
-      "added_at": "2026-04-04 16:08:28",
-      "album": {
-        "name": "headprint",
-        "url": "https://open.spotify.com/album/4jsAUETf6odOuBFKbyU3kK"
-      },
-      "artists": [
-        {
-          "name": "endive",
-          "url": "https://open.spotify.com/artist/3o2f0i5JFW9kUglJgwsoIp"
-        }
-      ],
-      "duration_ms": 318689,
-      "name": "changing of days",
-      "url": "https://open.spotify.com/track/6eOe9XdSosJPPmkk73vY4l"
+      "duration_ms": 291428,
+      "name": "weli",
+      "url": "https://open.spotify.com/track/0KqKIo7jAZYsxbwZVoynQ7"
     }
   ],
   "unique_name": "Independent Music Friday",

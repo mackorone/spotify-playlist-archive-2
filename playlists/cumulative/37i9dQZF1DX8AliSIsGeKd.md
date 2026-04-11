@@ -4,7 +4,7 @@
 
 > The best new electronic music\. Cover: Amelie Lens
 
-6,787 songs - 23 day 5 hr 46 min
+6,787 songs - 23 day 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4625,6 +4625,7 @@
 | [Prisoner](https://open.spotify.com/track/34Wg9FZYv2ExwHuS1SguqN) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [Prisoner](https://open.spotify.com/album/1E6qZMld3GIRp7Ii5UReWv) | 6:20 | 2024-04-04 | 2024-04-26 |
 | [Private Dancer](https://open.spotify.com/track/6gJJ1yADd3n3eJM6PV0rWd) | [Johannes Albert](https://open.spotify.com/artist/5FMcKm7A4LRwIJnkzuKZFt), [Iron Curtis](https://open.spotify.com/artist/3SxSMKGboN9d8DxDRIB7pH) | [Private Dancer](https://open.spotify.com/album/3IK6bKcHkxeVnm7b7K0fJN) | 3:16 | 2025-05-22 | 2025-06-06 |
 | [Problems](https://open.spotify.com/track/1UERuR9hjz9GM609JIjtGx) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Problems](https://open.spotify.com/album/1aA9qnJT9NtySZA16RHkCD) | 4:37 | 2022-09-22 | 2022-10-07 |
+| [Progressed](https://open.spotify.com/track/4PwCqgcJMrZRnUh4kXLPWT) | [Lampe](https://open.spotify.com/artist/7hvD2Cs8fbF3HvhQCmV3xq) | [Progressed](https://open.spotify.com/album/4FIUhN38faNlwkSb9zSn4w) | 3:37 | 2026-04-09 |  |
 | [Prologue](https://open.spotify.com/track/17N7MwDRZnU4OTDMWkweO3) | [Peer Kusiv](https://open.spotify.com/artist/0yTV2etph4xN8PXPLPeEG5) | [Prologue](https://open.spotify.com/album/5fscZACGVl4of5SBdUtrxN) | 5:10 | 2025-08-21 | 2025-09-19 |
 | [Prometheus](https://open.spotify.com/track/1dznoQSE5C6FWSuQR3ULw6) | [Thomas Schumacher](https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD), [A.D.H.S.](https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl) | [Prometheus](https://open.spotify.com/album/5exMhB5Came3qQnVQNTly0) | 4:09 | 2026-03-12 | 2026-04-03 |
 | [Promise](https://open.spotify.com/track/02iid7jLIDPuI4JyHTtyBz) | [Somewhen](https://open.spotify.com/artist/0k47nZgznsmnNkSIJvjbVy) | [Promise](https://open.spotify.com/album/7BUxsv49YApxUBSwfYgG0e) | 4:04 | 2025-11-20 | 2025-12-12 |
@@ -6104,7 +6105,6 @@
 | [TR Smooth](https://open.spotify.com/track/6NV9a8WK4MvuJZg6VSu2KD) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [L'Ecstasy](https://open.spotify.com/album/5gHsDs3ofg8qejWBcIGtJv) | 3:42 | 2023-12-01 | 2023-12-15 |
 | [Traces](https://open.spotify.com/track/13wSFbVCKZEWteQbaGq6Se) | [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx), [Jonas Saalbach](https://open.spotify.com/artist/1bLLaWOLavY2Tthjoz19mA), [SBSTN](https://open.spotify.com/artist/1NC5UXrIWNEj6zQ46obvkq) | [Traces](https://open.spotify.com/album/3lQuVODMH0jhrC8X5zKlyY) | 4:39 | 2023-05-25 | 2023-06-16 |
 | [Tracid](https://open.spotify.com/track/3YTvtOAHQADgCvn2XVEzPp) | [Kai Tracid](https://open.spotify.com/artist/0frSMmZSEdr8pVRi8PBSwF) | [Tracid](https://open.spotify.com/album/6tC9bQAD7NgOFQPtK8cna2) | 6:55 | 2023-08-25 | 2023-09-15 |
-| [Track 1](https://open.spotify.com/track/4PwCqgcJMrZRnUh4kXLPWT) | [Lampe](https://open.spotify.com/artist/7hvD2Cs8fbF3HvhQCmV3xq) | [Progressed](https://open.spotify.com/album/4FIUhN38faNlwkSb9zSn4w) | 0:00 | 2026-04-09 |  |
 | [Track Your Steps](https://open.spotify.com/track/0uojm86o10peXMlThzQOZG) | [Alyssa & Gia](https://open.spotify.com/artist/5w3B8Yivj5m2bgDixId20g) | [Track Your Steps](https://open.spotify.com/album/4Eq9q4Ib6WClxr44or8fHQ) | 3:10 | 2024-08-29 | 2024-09-20 |
 | [Tradesman](https://open.spotify.com/track/6hPzftly26k15FIqmjHnSG) | [Ramsey Neville](https://open.spotify.com/artist/1Y8pFAVjIzar47RDW7dBew) | [The Polygon](https://open.spotify.com/album/4xDIihZGD1rDKOermEgwsU) | 6:16 | 2023-03-02 | 2023-03-25 |
 | [Traffik](https://open.spotify.com/track/4GqYKYWyOdr89O5loSz7wQ) | [UVITA](https://open.spotify.com/artist/4lAkDxZ9sgjZD3mDPRgM4B), [Twiins](https://open.spotify.com/artist/1TcSU2JWmiIxrJbii3m3E7), [Motip White](https://open.spotify.com/artist/15dJhuFBU2E0JB874wGanT) | [Traffik](https://open.spotify.com/album/1aez6AJVJ4sV6mNjGd961k) | 5:41 | 2026-01-29 | 2026-02-20 |

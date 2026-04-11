@@ -6,7 +6,7 @@
     "name": "Cargo Independent Distribution",
     "url": "https://open.spotify.com/user/cargorecords"
   },
-  "snapshot_id": "AABLdH07n0Q7zkm76gwDrbawpyH/bjJm",
+  "snapshot_id": "AABLjqQYnEEmEMbwEE3zcUWnK3neWzeV",
   "tracks": [
     {
       "added_at": "2026-04-09 14:20:23",
@@ -25,6 +25,34 @@
       "url": "https://open.spotify.com/track/7waKVeTZb1D5a5r6aqyDF3"
     },
     {
+      "added_at": "2026-04-10 07:23:04",
+      "album": {
+        "name": "Bborn Again",
+        "url": "https://open.spotify.com/album/0I9U9zBMdzqvawfaIt6JvY"
+      },
+      "artists": [
+        {
+          "name": "PPP",
+          "url": "https://open.spotify.com/artist/3GASp5SoyDbFg7JgY0RV7M"
+        },
+        {
+          "name": "Piezo",
+          "url": "https://open.spotify.com/artist/4vr49Ycb253qEyUuXnlYaM"
+        },
+        {
+          "name": "DJ Plead",
+          "url": "https://open.spotify.com/artist/3srk7xv520Ls9D09QMpEJg"
+        },
+        {
+          "name": "DJ Python",
+          "url": "https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl"
+        }
+      ],
+      "duration_ms": 274565,
+      "name": "Pez",
+      "url": "https://open.spotify.com/track/5QvvtpGUlrEedXvberu01w"
+    },
+    {
       "added_at": "2026-04-09 14:17:47",
       "album": {
         "name": "The Ice Is Thin",
@@ -39,6 +67,26 @@
       "duration_ms": 280293,
       "name": "The Ice Is Thin",
       "url": "https://open.spotify.com/track/4IZzTSRUfZ4qKIDnlq0t6d"
+    },
+    {
+      "added_at": "2026-04-10 07:29:36",
+      "album": {
+        "name": "THE RETURN",
+        "url": "https://open.spotify.com/album/5FTMFZgkhLQb7aC3Lm60fR"
+      },
+      "artists": [
+        {
+          "name": "DJ LUCKY TEKLIFE",
+          "url": "https://open.spotify.com/artist/50j6WLqlEq4CDoMFhyLCiK"
+        },
+        {
+          "name": "Teklife",
+          "url": "https://open.spotify.com/artist/1GoZKzpOpwfoZLj1W6sjeg"
+        }
+      ],
+      "duration_ms": 219750,
+      "name": "THE RETURN",
+      "url": "https://open.spotify.com/track/6NrB8BPT8ukMl92SBXKNEx"
     },
     {
       "added_at": "2026-04-09 14:18:33",
@@ -71,6 +119,154 @@
       "duration_ms": 340627,
       "name": "One last stroll in the garden of light",
       "url": "https://open.spotify.com/track/34UqZyl5Qk4w8eccs9kFVg"
+    },
+    {
+      "added_at": "2026-04-10 07:21:53",
+      "album": {
+        "name": "Chronicles of Gnowt (Vol 1)",
+        "url": "https://open.spotify.com/album/22cMoC9PLqzGvKJOcQpVoJ"
+      },
+      "artists": [
+        {
+          "name": "Gnod",
+          "url": "https://open.spotify.com/artist/0M7HBnNJoTfTWouL5O7FtO"
+        }
+      ],
+      "duration_ms": 611861,
+      "name": "Ekstasis",
+      "url": "https://open.spotify.com/track/1hJo5tWdrcNLrGGJ7jc6jK"
+    },
+    {
+      "added_at": "2026-04-10 07:29:06",
+      "album": {
+        "name": "HERE YOU DREAM",
+        "url": "https://open.spotify.com/album/48HKuxqA3CoUq4YdDh2Xb7"
+      },
+      "artists": [
+        {
+          "name": "Blush Puppy",
+          "url": "https://open.spotify.com/artist/1629PB7RC2q35b9H3mkMAr"
+        }
+      ],
+      "duration_ms": 162986,
+      "name": "TEARS IN RAIN",
+      "url": "https://open.spotify.com/track/1AFy7x1q0wBgkk75O4VZUM"
+    },
+    {
+      "added_at": "2026-04-10 07:28:35",
+      "album": {
+        "name": "SHOUTING THE ODDS",
+        "url": "https://open.spotify.com/album/5WI51sMYSqFzEiRobt8GFf"
+      },
+      "artists": [
+        {
+          "name": "Monrella",
+          "url": "https://open.spotify.com/artist/3IaqdYidFqtiJRgcwPbeP5"
+        }
+      ],
+      "duration_ms": 243600,
+      "name": "DOUBLE RED",
+      "url": "https://open.spotify.com/track/0w4m8haDMZaW5l3OZHVIDu"
+    },
+    {
+      "added_at": "2026-04-10 07:30:40",
+      "album": {
+        "name": "Saitte Mit\u00e4 Halusitte",
+        "url": "https://open.spotify.com/album/6VLZsqvIwcFDp0jqNxdh4S"
+      },
+      "artists": [
+        {
+          "name": "Yleiset Syyt",
+          "url": "https://open.spotify.com/artist/77xJ3l102w1ehtQP7akp34"
+        }
+      ],
+      "duration_ms": 67291,
+      "name": "Saitte Mit\u00e4 Halusitte",
+      "url": "https://open.spotify.com/track/2N72oN6vOWdYXZn27lnSsx"
+    },
+    {
+      "added_at": "2026-04-10 07:30:57",
+      "album": {
+        "name": "No! Racist",
+        "url": "https://open.spotify.com/album/1kD2oYQg4gGwAsoQ5MwBiB"
+      },
+      "artists": [
+        {
+          "name": "Raw Distractions",
+          "url": "https://open.spotify.com/artist/6QWjW6UwgwYyN9nvv3tQaP"
+        }
+      ],
+      "duration_ms": 116057,
+      "name": "No! Racist",
+      "url": "https://open.spotify.com/track/1sQKCkjvBODEvNMQVUOXfp"
+    },
+    {
+      "added_at": "2026-04-10 07:27:26",
+      "album": {
+        "name": "LAgoon",
+        "url": "https://open.spotify.com/album/74sNq23sQIqVu8nRua59DC"
+      },
+      "artists": [
+        {
+          "name": "Europa",
+          "url": "https://open.spotify.com/artist/5ucimC5sYK4MCXjKrWtpwP"
+        },
+        {
+          "name": "GUCCISAMO",
+          "url": "https://open.spotify.com/artist/2dyl6axw4mZ37rhKWd7QwY"
+        }
+      ],
+      "duration_ms": 133382,
+      "name": "Listerine",
+      "url": "https://open.spotify.com/track/2I5ThO5AvIlblpbLRbsvHy"
+    },
+    {
+      "added_at": "2026-04-10 07:29:22",
+      "album": {
+        "name": "Genre is a disease 127.1",
+        "url": "https://open.spotify.com/album/1Xh1IcI2BdaUKNypOIXT1v"
+      },
+      "artists": [
+        {
+          "name": "Soft-Bodied Humans",
+          "url": "https://open.spotify.com/artist/3jXygCVTtuPllL66aNXJvl"
+        }
+      ],
+      "duration_ms": 349082,
+      "name": "Genre is a disease 127.1",
+      "url": "https://open.spotify.com/track/3PHqMLXJ87dAJKrUWuYJkR"
+    },
+    {
+      "added_at": "2026-04-10 07:30:21",
+      "album": {
+        "name": "Roses on the Esplanade",
+        "url": "https://open.spotify.com/album/4ZUYQcoJNsGmkJhqAYTI0P"
+      },
+      "artists": [
+        {
+          "name": "Stone Anthem",
+          "url": "https://open.spotify.com/artist/7nhWh1LfBBqLDbRv3y7wWM"
+        }
+      ],
+      "duration_ms": 225952,
+      "name": "Roses on the Esplanade",
+      "url": "https://open.spotify.com/track/5vgVhd4VaaU7i3K59tCy0O"
+    },
+    {
+      "added_at": "2026-04-10 07:22:12",
+      "album": {
+        "name": "Softness",
+        "url": "https://open.spotify.com/album/3wFiYaFElqn1WGwRI1soQT"
+      },
+      "artists": [
+        {
+          "name": "Neon Fog",
+          "url": "https://open.spotify.com/artist/36pxVjNShmoD2SOQRgo2rQ"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Softness",
+      "url": "https://open.spotify.com/track/0GpIUZMMamBdIojJmS1EYG"
     },
     {
       "added_at": "2026-04-09 14:21:45",
@@ -523,22 +719,6 @@
       "duration_ms": 301306,
       "name": "Giallo Yellow",
       "url": "https://open.spotify.com/track/2dy3QobBBquTnOHRp6t9EA"
-    },
-    {
-      "added_at": "2026-03-20 14:40:49",
-      "album": {
-        "name": "Still House Plants",
-        "url": "https://open.spotify.com/album/0lyjpMG5DTxeWSldnYvRCT"
-      },
-      "artists": [
-        {
-          "name": "Still House Plants",
-          "url": "https://open.spotify.com/artist/1zvVxcYQEbn9D1tMG7960a"
-        }
-      ],
-      "duration_ms": 415250,
-      "name": "The House Sound of Chicago",
-      "url": "https://open.spotify.com/track/4rOiLbB2b9UVdk8LHluDeP"
     },
     {
       "added_at": "2026-03-20 14:41:22",
@@ -1147,286 +1327,6 @@
       "duration_ms": 265366,
       "name": "Behind Us",
       "url": "https://open.spotify.com/track/4I3zIa31UfkHe4ITBsaw6z"
-    },
-    {
-      "added_at": "2026-02-13 09:34:25",
-      "album": {
-        "name": "New ADHD",
-        "url": "https://open.spotify.com/album/2yXJmY5B1iozAXIsOaM6T9"
-      },
-      "artists": [
-        {
-          "name": "33",
-          "url": "https://open.spotify.com/artist/4lY7e5NKMLIIQGi5WdrKkq"
-        },
-        {
-          "name": "Astrid Sonne",
-          "url": "https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689"
-        }
-      ],
-      "duration_ms": 244572,
-      "name": "New ADHD",
-      "url": "https://open.spotify.com/track/3B6vRouUzwrdQsVnyAtqZa"
-    },
-    {
-      "added_at": "2026-02-13 09:34:06",
-      "album": {
-        "name": "Valiant Heart",
-        "url": "https://open.spotify.com/album/34S8hKCmjtYbxo02djwWP2"
-      },
-      "artists": [
-        {
-          "name": "HOUSE Of ALL",
-          "url": "https://open.spotify.com/artist/0JsPcGGkZqw5uMV93ag2LQ"
-        }
-      ],
-      "duration_ms": 242953,
-      "name": "Valiant Heart",
-      "url": "https://open.spotify.com/track/6ED9UHv3cYK7ql6vwHeivu"
-    },
-    {
-      "added_at": "2026-02-13 09:33:08",
-      "album": {
-        "name": "Celebration",
-        "url": "https://open.spotify.com/album/3StboLQQRP9nU9neBOYj3l"
-      },
-      "artists": [
-        {
-          "name": "Super Powers",
-          "url": "https://open.spotify.com/artist/2bZIMykHiZLWvEFc4LVEMD"
-        }
-      ],
-      "duration_ms": 178616,
-      "name": "Celebration",
-      "url": "https://open.spotify.com/track/5GxAgWTLLzcNWXXlnZRZxZ"
-    },
-    {
-      "added_at": "2026-02-06 08:17:41",
-      "album": {
-        "name": "Vertical Take-Off and Landing",
-        "url": "https://open.spotify.com/album/4C7jveL5z9KPkLFKXkR38u"
-      },
-      "artists": [
-        {
-          "name": "Swell Maps",
-          "url": "https://open.spotify.com/artist/1FGzeqDPTLZwfbfxpmPAZn"
-        }
-      ],
-      "duration_ms": 178812,
-      "name": "Vertical Take-Off and Landing",
-      "url": "https://open.spotify.com/track/1VTbRtpyYTDodeYOwe7BpH"
-    },
-    {
-      "added_at": "2026-02-06 08:14:14",
-      "album": {
-        "name": "Exchequer EP",
-        "url": "https://open.spotify.com/album/0OeCdBWuix1xSHDcUaft7G"
-      },
-      "artists": [
-        {
-          "name": "Proc Fiskal",
-          "url": "https://open.spotify.com/artist/1eFFmUlWRIvt26lnUzdduk"
-        }
-      ],
-      "duration_ms": 177506,
-      "name": "she\u2019s veiled",
-      "url": "https://open.spotify.com/track/63SlPoiJjF9Gr70imB6PnR"
-    },
-    {
-      "added_at": "2026-02-06 08:21:16",
-      "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/3cEcEGss649pfQ9Xd4Y9Tk"
-      },
-      "artists": [
-        {
-          "name": "Xylitol",
-          "url": "https://open.spotify.com/artist/4m6lKZU5qS7ZIPFhYx5bEx"
-        }
-      ],
-      "duration_ms": 403866,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/1XsXpgYRetyKkhdfLkAf6t"
-    },
-    {
-      "added_at": "2026-02-06 08:16:25",
-      "album": {
-        "name": "nagoyaka na kaze / \u548c\u3084\u304b\u306a\u98a8 (quiet wind)",
-        "url": "https://open.spotify.com/album/2jGNyVsCzJSMkZoOCuqDwA"
-      },
-      "artists": [
-        {
-          "name": "DHYAN",
-          "url": "https://open.spotify.com/artist/5MbpkydHiVd4Zx2MFlgcWe"
-        }
-      ],
-      "duration_ms": 276000,
-      "name": "Swim Up",
-      "url": "https://open.spotify.com/track/1gJHTCXLXVTU4XHGMLYNPb"
-    },
-    {
-      "added_at": "2026-02-06 08:20:34",
-      "album": {
-        "name": "Death Juke",
-        "url": "https://open.spotify.com/album/3ftErEANAwMpGIg2gO1RQK"
-      },
-      "artists": [
-        {
-          "name": "Nondi_",
-          "url": "https://open.spotify.com/artist/6vcnozR3JODUnpP8VL8OWF"
-        }
-      ],
-      "duration_ms": 187026,
-      "name": "Death Juke",
-      "url": "https://open.spotify.com/track/0rHKa21KoVWKxoFOBZdCfj"
-    },
-    {
-      "added_at": "2026-02-06 08:20:49",
-      "album": {
-        "name": "Hefei",
-        "url": "https://open.spotify.com/album/4vcUXqFGBGBW07ii0plTfW"
-      },
-      "artists": [
-        {
-          "name": "Gooooose",
-          "url": "https://open.spotify.com/artist/6LrVvnuJQLN3IcpXN6BObi"
-        },
-        {
-          "name": "Yang Sifu",
-          "url": "https://open.spotify.com/artist/6VS7G9P5mAs4Mx7LdKVKIu"
-        }
-      ],
-      "duration_ms": 238336,
-      "name": "Hefei",
-      "url": "https://open.spotify.com/track/313XrSxESXeIxiTRo9KSa7"
-    },
-    {
-      "added_at": "2026-02-06 08:19:21",
-      "album": {
-        "name": "Shadow Mirror",
-        "url": "https://open.spotify.com/album/4myZIEq2SEnUe3dixeAVpr"
-      },
-      "artists": [
-        {
-          "name": "Gnod",
-          "url": "https://open.spotify.com/artist/0M7HBnNJoTfTWouL5O7FtO"
-        }
-      ],
-      "duration_ms": 426500,
-      "name": "Shadow Mirror",
-      "url": "https://open.spotify.com/track/42FXyGS2W94sTXFhMh7tT9"
-    },
-    {
-      "added_at": "2026-02-06 08:19:07",
-      "album": {
-        "name": "Tears for Leda",
-        "url": "https://open.spotify.com/album/0lEZvf7mWOoW0BLAAxWKEu"
-      },
-      "artists": [
-        {
-          "name": "Would-Be-Goods",
-          "url": "https://open.spotify.com/artist/6jXqh4cxbD6QiDlHPwqcHO"
-        }
-      ],
-      "duration_ms": 124777,
-      "name": "Tears for Leda",
-      "url": "https://open.spotify.com/track/7Hy4Dz3U2RvQ3GjIURb9Jo"
-    },
-    {
-      "added_at": "2026-02-06 08:08:28",
-      "album": {
-        "name": "\u2018Going Wrong\u2019/\u2018Lesbian Caf\u00e9\u2019 EP",
-        "url": "https://open.spotify.com/album/5ALCFQe7KObR2sKcd6mL4D"
-      },
-      "artists": [
-        {
-          "name": "The Godfathers",
-          "url": "https://open.spotify.com/artist/3Gf6z7kuVRjZ2e3W2cxoXN"
-        }
-      ],
-      "duration_ms": 217088,
-      "name": "Going Wrong",
-      "url": "https://open.spotify.com/track/6CEnWKPwTNr0Zy9nzb1EUJ"
-    },
-    {
-      "added_at": "2026-02-06 08:12:41",
-      "album": {
-        "name": "A Point Blank Dream",
-        "url": "https://open.spotify.com/album/0RqtEGLXaIxB4IXwJAjV2V"
-      },
-      "artists": [
-        {
-          "name": "The Home Current",
-          "url": "https://open.spotify.com/artist/7nM47nWOWJ4Hj4RurO6WUn"
-        }
-      ],
-      "duration_ms": 276000,
-      "name": "Desert Hoods",
-      "url": "https://open.spotify.com/track/4yKp4yfDDyrOf0K2On8UJH"
-    },
-    {
-      "added_at": "2026-02-06 08:15:10",
-      "album": {
-        "name": "Waiting For The Morning",
-        "url": "https://open.spotify.com/album/4L9uGUJFP5QUgDqhsVLxRA"
-      },
-      "artists": [
-        {
-          "name": "Rebecca Downes",
-          "url": "https://open.spotify.com/artist/0M58iPe1szo9bVKf6F6GXH"
-        }
-      ],
-      "duration_ms": 198137,
-      "name": "Waiting For The Morning",
-      "url": "https://open.spotify.com/track/1DSJABZMooaRbjZAeIEtGp"
-    },
-    {
-      "added_at": "2026-02-06 08:15:23",
-      "album": {
-        "name": "Railcard",
-        "url": "https://open.spotify.com/album/0EdktCUpNHbGEeteJlNbSU"
-      },
-      "artists": [
-        {
-          "name": "Railcard",
-          "url": "https://open.spotify.com/artist/1h7YejqHI5OfMCS6fcRbEr"
-        }
-      ],
-      "duration_ms": 285757,
-      "name": "Railcard",
-      "url": "https://open.spotify.com/track/5dkE1hDM7trNGMoBab1K62"
-    },
-    {
-      "added_at": "2026-02-06 08:16:45",
-      "album": {
-        "name": "Sea Fever",
-        "url": "https://open.spotify.com/album/3vt97TLMRxA3BXTDaXsJYo"
-      },
-      "artists": [
-        {
-          "name": "Sarah Nixey",
-          "url": "https://open.spotify.com/artist/7nzpICHWCUXx7i9TTWwPSZ"
-        }
-      ],
-      "duration_ms": 165576,
-      "name": "Sea Fever",
-      "url": "https://open.spotify.com/track/7GPIF5NosnNo65KmGxYKtK"
-    },
-    {
-      "added_at": "2026-02-06 08:17:18",
-      "album": {
-        "name": "blue fifty-six",
-        "url": "https://open.spotify.com/album/4K0K2DVlYgKXzc5Cf8m3QZ"
-      },
-      "artists": [
-        {
-          "name": "Yapping Portal",
-          "url": "https://open.spotify.com/artist/1baAuJTMJ214WzPCryux02"
-        }
-      ],
-      "duration_ms": 172804,
-      "name": "Ghoulish Socket Vapor ! Voltage Phantasm Uprising",
-      "url": "https://open.spotify.com/track/4Mj6XzQWwRnC6gHHxIVEb2"
     }
   ],
   "unique_name": "Cargo Independent Distribution New Release Playlist",

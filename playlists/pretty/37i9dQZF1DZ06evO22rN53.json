@@ -1,12 +1,12 @@
 {
   "description": "This is Victor Ray. The essential tracks, all in one playlist.",
-  "num_followers": 5840,
+  "num_followers": 5843,
   "original_name": "This Is Victor Ray",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adWagAAAAAA6l0p67xQJTtccaMeMQwy+",
+  "snapshot_id": "adbsAAAAAAC1plH7v5qU76U4QU89yxja",
   "tracks": [
     {
       "added_at": null,
@@ -231,22 +231,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Off Balance",
-        "url": "https://open.spotify.com/album/7E8I4TyooemC9brsZzMP6w"
-      },
-      "artists": [
-        {
-          "name": "Victor Ray",
-          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
-        }
-      ],
-      "duration_ms": 190479,
-      "name": "Off Balance",
-      "url": "https://open.spotify.com/track/2CDiN7sx4xHa8H7360GAcJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sticks and Stones (ft. Kojey Radical & Strandz)",
         "url": "https://open.spotify.com/album/6KTsdhNUKZUZIXvrEWcPiO"
       },
@@ -280,9 +264,9 @@
           "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
         }
       ],
-      "duration_ms": 177293,
-      "name": "Like The Moon",
-      "url": "https://open.spotify.com/track/38UHOSV8sYkMCGM8wPo7Eq"
+      "duration_ms": 191640,
+      "name": "Off Balance",
+      "url": "https://open.spotify.com/track/4TpuUq3YpUxDodC2KLC81T"
     },
     {
       "added_at": null,
@@ -312,9 +296,9 @@
           "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
         }
       ],
-      "duration_ms": 196746,
-      "name": "A Little Less Lonely",
-      "url": "https://open.spotify.com/track/1bgIZITln5cavD4ucPMXYL"
+      "duration_ms": 177293,
+      "name": "Like The Moon",
+      "url": "https://open.spotify.com/track/38UHOSV8sYkMCGM8wPo7Eq"
     }
   ],
   "unique_name": "This Is Victor Ray",

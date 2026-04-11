@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124096,
+  "num_followers": 124090,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVTEUSCfQ633oauplYzvJ++c55nozj",
+  "snapshot_id": "AAAVTRhkilKaI5ipyAVPEELWBGA4IP7U",
   "tracks": [
+    {
+      "added_at": "2026-04-10 16:18:42",
+      "album": {
+        "name": "Wide Awake",
+        "url": "https://open.spotify.com/album/0wxsN6kCy8tnCGRAPJAYqT"
+      },
+      "artists": [
+        {
+          "name": "Arcando",
+          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
+        },
+        {
+          "name": "Sam Harper",
+          "url": "https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe"
+        }
+      ],
+      "duration_ms": 209655,
+      "name": "Wide Awake",
+      "url": "https://open.spotify.com/track/24HdzUbqJrVX07kUvLErVa"
+    },
     {
       "added_at": "2026-04-09 22:15:06",
       "album": {

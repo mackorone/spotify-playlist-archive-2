@@ -6,7 +6,7 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAIKU6aCZ5FS2k7+oCoqLNiMSHEAei3",
+  "snapshot_id": "AAAIK0nk1lcdl1fWSyk9DPHDXy85zDZf",
   "tracks": [
     {
       "added_at": "2026-04-06 16:27:11",
@@ -69595,6 +69595,38 @@
       "duration_ms": 186709,
       "name": "Facciamo Magia",
       "url": "https://open.spotify.com/track/14IlnJGHHbt4JzduLMdFMR"
+    },
+    {
+      "added_at": "2026-04-10 11:48:48",
+      "album": {
+        "name": "Abyss",
+        "url": "https://open.spotify.com/album/3EQpjJI7oJbsfFDw2wR84B"
+      },
+      "artists": [
+        {
+          "name": "Moonlight Wild",
+          "url": "https://open.spotify.com/artist/4YGuNsct1wczluINOR0VXz"
+        }
+      ],
+      "duration_ms": 300282,
+      "name": "Abyss",
+      "url": "https://open.spotify.com/track/1a1aKkuMpS40ClyL1HEgRq"
+    },
+    {
+      "added_at": "2026-04-10 11:54:37",
+      "album": {
+        "name": "\u041a\u043e\u0441\u043c\u043e\u0441 \u0436\u0434\u0451\u0442!",
+        "url": "https://open.spotify.com/album/3aEUPND51PH4Kw466Tw49M"
+      },
+      "artists": [
+        {
+          "name": "Kutas",
+          "url": "https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq"
+        }
+      ],
+      "duration_ms": 284200,
+      "name": "\u041a\u043e\u0441\u043c\u043e\u0441 \u0436\u0434\u0451\u0442!",
+      "url": "https://open.spotify.com/track/3eI5TOZVCiR9F1UGgBunrq"
     }
   ],
   "unique_name": "playlist spotify free",

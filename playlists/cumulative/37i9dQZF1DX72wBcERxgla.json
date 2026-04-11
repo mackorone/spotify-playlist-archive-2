@@ -8872,7 +8872,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 188022,
       "name": "Relief On A Shitty Day",
       "url": "https://open.spotify.com/track/4LDZC11b3Xe5s6jgz1RQJ3"
@@ -10553,6 +10553,24 @@
     },
     {
       "album": {
+        "name": "Take The Slow Train",
+        "url": "https://open.spotify.com/album/5kB287YlIH5xbsEpn7D3NN"
+      },
+      "artists": [
+        {
+          "name": "AJ Saffir",
+          "url": "https://open.spotify.com/artist/3xm9vJ3VJ68zzLG5ZJKYSi"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131517,
+      "name": "Take The Slow Train",
+      "url": "https://open.spotify.com/track/4EbP21o24IOAoYY8r4AGlP"
+    },
+    {
+      "album": {
         "name": "Tangerine",
         "url": "https://open.spotify.com/album/1jRoIrwrLAZlY7quAk5GUJ"
       },
@@ -11021,6 +11039,24 @@
     },
     {
       "album": {
+        "name": "The Next Road",
+        "url": "https://open.spotify.com/album/3klCdtU3R1wEhoG9aM3kaY"
+      },
+      "artists": [
+        {
+          "name": "Caye Skye",
+          "url": "https://open.spotify.com/artist/3ocLLPDmkfgvjHZ5Yn10oW"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152729,
+      "name": "The Next Road",
+      "url": "https://open.spotify.com/track/7bDIBgPSiTpArCqjLm3BOY"
+    },
+    {
+      "album": {
         "name": "The Night Forgot Our Names",
         "url": "https://open.spotify.com/album/3flAwqL9DL2A1MpWb0UQo5"
       },
@@ -11338,7 +11374,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 184742,
       "name": "The Things We Did Last Summer",
       "url": "https://open.spotify.com/track/2kZE2oq2A6IdoXFxNEVQwV"

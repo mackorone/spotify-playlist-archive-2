@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The home of Canadian country music. Cover: Kalsey Kulyk",
+  "description": "The home of Canadian country music. Cover: Tenille Townes",
   "name": "North Country",
   "tracks": [
     {
@@ -146,6 +146,24 @@
       "duration_ms": 187594,
       "name": "Ahead of Our Time",
       "url": "https://open.spotify.com/track/3l0z706WPwEyD1i5sSjlxD"
+    },
+    {
+      "album": {
+        "name": "Ain't Goin' Nowhere",
+        "url": "https://open.spotify.com/album/5Tt87rXPnepduWrmXs7tVU"
+      },
+      "artists": [
+        {
+          "name": "Shawn Austin",
+          "url": "https://open.spotify.com/artist/72iCV78mmAfr5s4A5dhjYg"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208164,
+      "name": "Ain't Goin' Nowhere",
+      "url": "https://open.spotify.com/track/0Ko4G62bDwfZIDGpv3ORbW"
     },
     {
       "album": {
@@ -388,6 +406,24 @@
       "duration_ms": 212426,
       "name": "Another One",
       "url": "https://open.spotify.com/track/7hZxg7lxEGl5k8uFhorSKg"
+    },
+    {
+      "album": {
+        "name": "Anything But Me",
+        "url": "https://open.spotify.com/album/1jpaJooKiwVkEIV4egj1Tz"
+      },
+      "artists": [
+        {
+          "name": "Owen Riegling",
+          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299453,
+      "name": "Anything But Me",
+      "url": "https://open.spotify.com/track/0A1gnuKVww2zEcZcu7seyu"
     },
     {
       "album": {
@@ -972,7 +1008,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 211991,
       "name": "Born Again",
       "url": "https://open.spotify.com/track/5hEsOCXxKpxn5n96Hzs4oV"
@@ -1670,6 +1706,24 @@
       "duration_ms": 219929,
       "name": "Count On Me",
       "url": "https://open.spotify.com/track/1KunqIj5qXEYbB8aBCY5bb"
+    },
+    {
+      "album": {
+        "name": "Country Club",
+        "url": "https://open.spotify.com/album/4RxtNebG0fjQiC8ZM0P90x"
+      },
+      "artists": [
+        {
+          "name": "Brittany Kennell",
+          "url": "https://open.spotify.com/artist/5LqrMo8Uh0K7mJ6zoWd3CP"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204277,
+      "name": "Country Club",
+      "url": "https://open.spotify.com/track/1ONn9Syk42LP1LAJ9Km2aU"
     },
     {
       "album": {
@@ -3858,7 +3912,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 193121,
       "name": "Hearts Don't Break",
       "url": "https://open.spotify.com/track/4MK4jsFbuW2yjAZGxLpIdb"
@@ -4573,6 +4627,24 @@
     },
     {
       "album": {
+        "name": "I Like You Better",
+        "url": "https://open.spotify.com/album/5QYzFFGUdkrC7FBGLY2CRi"
+      },
+      "artists": [
+        {
+          "name": "Brian John Harwood",
+          "url": "https://open.spotify.com/artist/1G1bUq811pgPU3TAlPavy4"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187109,
+      "name": "I Like You Better",
+      "url": "https://open.spotify.com/track/2huHrCWootpZzQvstBPKGp"
+    },
+    {
+      "album": {
         "name": "Dan Dara\u00eeche",
         "url": "https://open.spotify.com/album/3PdhGMEahw5t4PVcnevJVQ"
       },
@@ -4912,6 +4984,24 @@
       "duration_ms": 184320,
       "name": "If I\u2019m Being Honest",
       "url": "https://open.spotify.com/track/2ETyJpJZg64ap9pdg8UiKM"
+    },
+    {
+      "album": {
+        "name": "If Somebody Told Me You Were Dying",
+        "url": "https://open.spotify.com/album/0izbYSBk32Aos3qHS2ZW1M"
+      },
+      "artists": [
+        {
+          "name": "Tenille Arts",
+          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185944,
+      "name": "If Somebody Told Me You Were Dying",
+      "url": "https://open.spotify.com/track/7AC8IxFKVkAbW7R8wJisUg"
     },
     {
       "album": {
@@ -5320,6 +5410,24 @@
       "duration_ms": 206260,
       "name": "Last Rodeo",
       "url": "https://open.spotify.com/track/2zktqQLyXilXPmGIoly5M9"
+    },
+    {
+      "album": {
+        "name": "Last Time",
+        "url": "https://open.spotify.com/album/076sNIR2ABp6gR2w66aIyf"
+      },
+      "artists": [
+        {
+          "name": "Sully Burrows",
+          "url": "https://open.spotify.com/artist/5lCc0O15jryv68uC4A8McT"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188210,
+      "name": "Last Time",
+      "url": "https://open.spotify.com/track/7rzdvbHWu26l6B6qt85Sgz"
     },
     {
       "album": {
@@ -5818,7 +5926,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 156000,
       "name": "Love Can Build A Bridge",
       "url": "https://open.spotify.com/track/1t3YIOY6n3Rc54sJaetCQf"
@@ -6898,7 +7006,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 224819,
       "name": "One Hell Of A Night",
       "url": "https://open.spotify.com/track/581jm0RBSUfwuX6K3GCc81"
@@ -7064,6 +7172,24 @@
       "duration_ms": 169331,
       "name": "Options",
       "url": "https://open.spotify.com/track/5CKp1RqaCeUYDGqo14KMfU"
+    },
+    {
+      "album": {
+        "name": "The Acrobat",
+        "url": "https://open.spotify.com/album/1VLxDl8t4mVEhcyInmnSH0"
+      },
+      "artists": [
+        {
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148995,
+      "name": "ordinary love song",
+      "url": "https://open.spotify.com/track/17NrsW6bdRJzkUjCDnEEuj"
     },
     {
       "album": {
@@ -7670,7 +7796,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 233541,
       "name": "Reckless Nights",
       "url": "https://open.spotify.com/track/4GdfLxFLb7NhaIrFopsUPP"
@@ -7728,6 +7854,24 @@
       "duration_ms": 193621,
       "name": "RENT FREE",
       "url": "https://open.spotify.com/track/0aVHXmSUizaqth5OswMMUE"
+    },
+    {
+      "album": {
+        "name": "Ride At Dawn",
+        "url": "https://open.spotify.com/album/6WRRYqCe2UFxw8xpvxHd6K"
+      },
+      "artists": [
+        {
+          "name": "Shawnee Kish",
+          "url": "https://open.spotify.com/artist/67KtTWjRTAU9ZkjRFnaffZ"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166834,
+      "name": "Ride At Dawn",
+      "url": "https://open.spotify.com/track/7pTM9SbEDlonGGyN8bvu4w"
     },
     {
       "album": {
@@ -8914,7 +9058,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 208072,
       "name": "Sweetheart",
       "url": "https://open.spotify.com/track/24xjUcJR7tcftc2N146WFm"
@@ -9361,6 +9505,24 @@
     },
     {
       "album": {
+        "name": "The Other",
+        "url": "https://open.spotify.com/album/3b1tujPPLvZzlbpWnDzWvr"
+      },
+      "artists": [
+        {
+          "name": "Brandi Caroline",
+          "url": "https://open.spotify.com/artist/4W3vgO5COtH2sUKrPJUcjQ"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195471,
+      "name": "The Other",
+      "url": "https://open.spotify.com/track/7pHBLvFot6YzbDH4M0am8j"
+    },
+    {
+      "album": {
         "name": "Roads That Go Nowhere",
         "url": "https://open.spotify.com/album/5fxgfA3NwGKeIhi22Z9Pir"
       },
@@ -9618,7 +9780,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 200985,
       "name": "Till The Wheels Fall Off",
       "url": "https://open.spotify.com/track/0otT7ehFIPb3GgqrMieC74"
@@ -9928,7 +10090,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 165017,
       "name": "Walk Away Wishing",
       "url": "https://open.spotify.com/track/6qy7R1oYughuKogqTbIytH"
@@ -10336,7 +10498,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 186959,
       "name": "When Do We Stop Talking",
       "url": "https://open.spotify.com/track/2dlTZcFwslAbXKufGp3zXV"

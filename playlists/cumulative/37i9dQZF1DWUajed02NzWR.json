@@ -1013,6 +1013,28 @@
     },
     {
       "album": {
+        "name": "Unfolding Lines",
+        "url": "https://open.spotify.com/album/6t5pw5WCiQlpmo0aIkejXk"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Lavinia Meijer",
+          "url": "https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307253,
+      "name": "H\u00e4ndel: Tema con Variazioni",
+      "url": "https://open.spotify.com/track/7qgQ7VV7DGXZ0CTUHeW6GC"
+    },
+    {
+      "album": {
         "name": "Orpheus Chamber Orchestra - Baroque Highlights",
         "url": "https://open.spotify.com/album/2e0FIWorD7mcJNs573R4Zq"
       },
@@ -1748,6 +1770,36 @@
       "duration_ms": 343013,
       "name": "Piano Sonata No. 8 in C Minor, Op. 13 \"Path\u00e9tique\": II. Adagio cantabile",
       "url": "https://open.spotify.com/track/0rG7ulopZcEhcHnyOQuQpL"
+    },
+    {
+      "album": {
+        "name": "Debussy: Pr\u00e9ludes, Book 1, CD 125: VIII. La fille aux cheveux de lin (Arr. Spindler for Violin & Orchestra)",
+        "url": "https://open.spotify.com/album/4LnUHGoOw5snSVmCB9E2Z3"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Mar\u00eda Due\u00f1as",
+          "url": "https://open.spotify.com/artist/3tzzRz6WvbIF021Ak4l2PE"
+        },
+        {
+          "name": "Sim\u00f3n Bol\u00edvar Symphony Orchestra Of Venezuela",
+          "url": "https://open.spotify.com/artist/5p6H6NoqsMesY9ZvMBg1tu"
+        },
+        {
+          "name": "Gustavo Dudamel",
+          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151466,
+      "name": "Pr\u00e9ludes, Book 1, CD 125: VIII. La fille aux cheveux de lin (Arr. Spindler for Violin & Orchestra)",
+      "url": "https://open.spotify.com/track/3F9BW0Y8JB7tmTRNZrIfIz"
     },
     {
       "album": {

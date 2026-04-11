@@ -4,7 +4,7 @@
 
 > Welcome to DISCOLAND 🪩🕺🏽 it's a happy place
 
-764 songs - 1 day 21 hr 44 min
+765 songs - 1 day 21 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Blue Berries](https://open.spotify.com/track/7M4GUQ0CZU5A9CO2hkadG4) | [Sem Jacobs](https://open.spotify.com/artist/4IDxbXfz5yMK7OGD4sdRjt), [Tagmann](https://open.spotify.com/artist/12mvXbSB0GrbiXeqbh2Is7) | [Blue Berries](https://open.spotify.com/album/5rYaOhuUSKY1APLQ131QWN) | 2:50 | 2024-05-17 | 2025-05-13 |
 | [Bodega Disko](https://open.spotify.com/track/4iuoxbEzfXwvRS33MWmzBE) | [LET BR](https://open.spotify.com/artist/29C7gsF5u72cFaRluEj6vq) | [Bodega Disko](https://open.spotify.com/album/1A8R6l4AgKicMUMujFNAta) | 3:52 | 2025-05-30 |  |
 | [Body Funk](https://open.spotify.com/track/064PIXni8eIfwYocDoCBUD) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Body Funk \(Edit\)](https://open.spotify.com/album/3Mr7LVhsxJJxglxRaqORpa) | 4:16 | 2022-04-06 | 2022-04-20 |
-| [Body Talk \- DJ burgerhead Remix](https://open.spotify.com/track/312THy9peF2TUU4ECiurE9) | [Leonardo Das Cabrio](https://open.spotify.com/artist/3nMN6fAKa2mtruEGyLB8AI), [Diya](https://open.spotify.com/artist/6JIV0J3sqofXnYROxdUIMm), [DJ burgerhead](https://open.spotify.com/artist/7tkCO3Cc3NEhjZ3T3PM6ar) | [Body Talk \(Remixes\)](https://open.spotify.com/album/540N73VRpcg6XixKQJb5pc) | 4:30 | 2026-01-16 |  |
+| [Body Talk \- DJ burgerhead Remix](https://open.spotify.com/track/312THy9peF2TUU4ECiurE9) | [Leonardo Das Cabrio](https://open.spotify.com/artist/3nMN6fAKa2mtruEGyLB8AI), [Diya](https://open.spotify.com/artist/6JIV0J3sqofXnYROxdUIMm), [DJ burgerhead](https://open.spotify.com/artist/7tkCO3Cc3NEhjZ3T3PM6ar) | [Body Talk \(Remixes\)](https://open.spotify.com/album/540N73VRpcg6XixKQJb5pc) | 4:30 | 2026-01-16 | 2026-04-11 |
 | [BONKERS](https://open.spotify.com/track/0xttlPnsPJBbasq9fzDlzH) | [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [BONKERS](https://open.spotify.com/album/4nZWTZl55srdbsah2ijVRj) | 3:06 | 2024-06-17 | 2025-05-31 |
 | [BOUNCE](https://open.spotify.com/track/5fGj24yvNAqYB3aeI3CZ34) | [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [BOUNCE](https://open.spotify.com/album/0t9y0Pphuc03bkUPhFUI6T) | 2:44 | 2025-07-25 |  |
 | [Bout Rockin' \- All\-You\-Can\-Play Edit](https://open.spotify.com/track/5gkEJDEw3P0pSOvdBNVUF2) | [TheDjLawyer](https://open.spotify.com/artist/7k2fD4YbAzbcHX5DFl0RDD) | [Bout Rockin'](https://open.spotify.com/album/0Kf4Bs2Oq8lT32spjEkCzJ) | 3:29 | 2025-09-19 |  |
@@ -414,6 +414,7 @@
 | [Lost \- Gerd Janson Edit](https://open.spotify.com/track/4bpB7YsjgZ436rwT5Iwl5g) | [Mute](https://open.spotify.com/artist/1oW42kA1HFvXhiNTPuf6n5), [Gerd Janson](https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO) | [Lost \(Gerd Janson Edit\)](https://open.spotify.com/album/3k4kMMEFdStFTqxiGDb9sZ) | 3:30 | 2024-08-09 | 2024-11-09 |
 | [Lost In Space \(feat\. SG Lewis\)](https://open.spotify.com/track/142MW1OLW8GobITMDIhMCD) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Lost In Space \(feat\. SG Lewis\)](https://open.spotify.com/album/22zT7XF3pnP4T2MxDZOcDC) | 2:23 | 2022-01-14 | 2024-08-10 |
 | [Lost Without You](https://open.spotify.com/track/7ikaNXd2hseoALG4yu0rsy) | [RSCL](https://open.spotify.com/artist/5pkU7zjIzHgfN1n91e51r3), [LEØN](https://open.spotify.com/artist/6WZbz166GpLmnIRWrQxGYB), [Nila](https://open.spotify.com/artist/1TSMEmfhW3tiPIjoYVusGY) | [Lost Without You](https://open.spotify.com/album/26wa33YnxTb3bmaig0U2ZD) | 2:27 | 2024-09-20 | 2025-08-30 |
+| [Lot More Love](https://open.spotify.com/track/7obqbQ3RMw1FLZWnEnz9Ib) | [Bellaire](https://open.spotify.com/artist/6yeeXqk3RxV7l5DxmlXMnw), [Cerrone](https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM) | [Born Funky](https://open.spotify.com/album/4fgmkEC1PEIe7tADrMHWeE) | 3:11 | 2026-04-10 |  |
 | [Love Ain't Over \- Gerd Janson Remix](https://open.spotify.com/track/3KU7S29UbwE9TwN86cV1yg) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a), [Gerd Janson](https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO) | [Love Ain't Over \(Gerd Janson Remix\)](https://open.spotify.com/album/1hdehNKSIbU6MFiyoapqPS) | 6:22 | 2022-04-06 | 2022-07-28 |
 | [Love Divide](https://open.spotify.com/track/6ezKiq5uvUlNlxCzQzZZ9n) | [PADDY](https://open.spotify.com/artist/0Dcbqd0bkwytdhGS8Zvuky) | [Love Divide](https://open.spotify.com/album/362ceaJQRuOKtYw8xsGIa3) | 3:52 | 2022-01-14 | 2022-07-28 |
 | [Love Got High \- The Magician Remix](https://open.spotify.com/track/621EBjdaQom5sL13w30RPS) | [Sam i](https://open.spotify.com/artist/5AUTN6tMncnOnYgJK1VM6K), [Kiinjo](https://open.spotify.com/artist/1oYyzyMTx629ZyyYENdhrZ), [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM), [Petite Meller](https://open.spotify.com/artist/2gUVyV9z7T6cielHCMSpvb) | [Love Got High \(The Magician Remix\)](https://open.spotify.com/album/2KFqEWA3FPAYtqgcbFczfb) | 3:12 | 2025-07-04 | 2026-02-27 |

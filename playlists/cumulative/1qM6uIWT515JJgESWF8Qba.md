@@ -4,7 +4,7 @@
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-205 songs - 12 hr 46 min
+206 songs - 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Boltneck](https://open.spotify.com/track/6igTRenZofbW7sR9zElLja) | [The Trespassers](https://open.spotify.com/artist/4uLDuEBgtKBoOjCjBYMrtF) | [Boltneck](https://open.spotify.com/album/2GZSgTWpVYLXapQsOfjgYZ) | 4:20 | 2025-11-13 | 2025-12-28 |
 | [Borderline](https://open.spotify.com/track/4jyWOoKSEY0zOTadmguLrL) | [On\-Off](https://open.spotify.com/artist/3Qb1E9hm1R0In79aIumUsR) | [Borderline](https://open.spotify.com/album/5naCmg7cIFEsG4tuHeaKll) | 5:04 | 2025-11-04 |  |
 | [Bored](https://open.spotify.com/track/2YG4sw9fnCT0WGHBS3bWqp) | [Uppercut](https://open.spotify.com/artist/6iAaDvMyMRJm4gFFg0qTQA) | [Bored](https://open.spotify.com/album/09qmqovsaeodwmhdnq81ou) | 3:10 | 2026-01-11 | 2026-02-23 |
+| [Boy Racer](https://open.spotify.com/track/3mjmoDsMcRZXIKGNYVDkQJ) | [Lost in Lilacs](https://open.spotify.com/artist/3yeEX4ZL3lpbKEe1hj2GtJ) | [Radiobed](https://open.spotify.com/album/0Q0KaneUvsWOisNrcsDnxO) | 3:28 | 2026-04-10 |  |
 | [Break the Chain](https://open.spotify.com/track/0AA9NZXJtDtqkjRevrDgv7) | [Harold Payne](https://open.spotify.com/artist/1BfgVctke9PP5LJDIWrUxC) | [My Tribe \- EP](https://open.spotify.com/album/782Sz599wkUZsZOXhuOTOh) | 3:27 | 2026-01-22 | 2026-02-23 |
 | [Bring Your Love](https://open.spotify.com/track/05PP999Sbm9nVpjINfBNDB) | [Tin Zelkova](https://open.spotify.com/artist/1uft4s6QGconk4zwMNBBhu) | [Bring Your Love](https://open.spotify.com/album/4qe45XUNWmGqzffApM2cZx) | 2:24 | 2025-11-26 |  |
 | [Buio \- Eng Version](https://open.spotify.com/track/6CGsIEzR1l5I2cKjKXtz42) | [Crosslane](https://open.spotify.com/artist/34gfe82kVOOUdmSdcghnGA) | [Buio Deluxe](https://open.spotify.com/album/7agcgNqIzHnBH7E8dcj0xx) | 3:42 | 2026-01-16 | 2026-02-23 |

@@ -2552,7 +2552,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 122357,
       "name": "BUSCA SONIDO",
       "url": "https://open.spotify.com/track/2SkTSfDoJlfdFP9V1nWkV7"
@@ -3534,7 +3534,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 95974,
       "name": "Chocala",
       "url": "https://open.spotify.com/track/7KoPXxSPcPHEmFFhnMj1GY"
@@ -6413,6 +6413,44 @@
     },
     {
       "album": {
+        "name": "DOMI",
+        "url": "https://open.spotify.com/album/3Kr66lsYEsQ1XaeRJho9x5"
+      },
+      "artists": [
+        {
+          "name": "Boy Wonder CF",
+          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
+        },
+        {
+          "name": "Jezzy",
+          "url": "https://open.spotify.com/artist/1y8spb5Thg0p5ybNtdk4tu"
+        },
+        {
+          "name": "Nino Freestyle",
+          "url": "https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV"
+        },
+        {
+          "name": "Shelow Shaq",
+          "url": "https://open.spotify.com/artist/658X86qMyJpSRY87oPvExU"
+        },
+        {
+          "name": "Three Seven Music",
+          "url": "https://open.spotify.com/artist/6WpyChzOE17EotLrDxy3Cb"
+        },
+        {
+          "name": "The Chosen Few",
+          "url": "https://open.spotify.com/artist/2HOZmbv4saI1WELN907XSN"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160615,
+      "name": "DOMI",
+      "url": "https://open.spotify.com/track/0Kr9tPPgBaINkfA9nEgrNu"
+    },
+    {
+      "album": {
         "name": "Dominguito",
         "url": "https://open.spotify.com/album/4ruGnPUCGqaNX3F3mwb7XM"
       },
@@ -6698,7 +6736,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 140114,
       "name": "DVD",
       "url": "https://open.spotify.com/track/5ptHDXM2VEYPUVhxJ00Kc5"
@@ -6838,7 +6876,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 155382,
       "name": "EA",
       "url": "https://open.spotify.com/track/1MjY4SJ85qSWbpTPMPnXRV"
@@ -8616,6 +8654,28 @@
       "duration_ms": 157571,
       "name": "Esa Malondra",
       "url": "https://open.spotify.com/track/6uiMQLU94ZPLF7gKKXnOQ6"
+    },
+    {
+      "album": {
+        "name": "The Phenomenon",
+        "url": "https://open.spotify.com/album/2oqrpvxjIsEXxlwB8HHcdL"
+      },
+      "artists": [
+        {
+          "name": "Ronny GTA",
+          "url": "https://open.spotify.com/artist/4cnOWlaCqpRNGiLvsxgKgu"
+        },
+        {
+          "name": "Megadivo Produce",
+          "url": "https://open.spotify.com/artist/0fDsWL50lXtP2fc8ayi4KN"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84272,
+      "name": "Esa Nena",
+      "url": "https://open.spotify.com/track/6oz7fzEbjNNR1tqr95uXdM"
     },
     {
       "album": {
@@ -11286,7 +11346,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 114258,
       "name": "La Espinaca",
       "url": "https://open.spotify.com/track/7ckfaBGoRtQTv4PogipYRT"
@@ -13982,7 +14042,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 154000,
       "name": "MATALO",
       "url": "https://open.spotify.com/track/0gSFgaiO04ichqVqISBlnc"
@@ -17484,6 +17544,52 @@
       "duration_ms": 98418,
       "name": "Panikeo",
       "url": "https://open.spotify.com/track/40qitcqYBYmJFBT8lLf0wr"
+    },
+    {
+      "album": {
+        "name": "ADIOS",
+        "url": "https://open.spotify.com/album/28TpiwghzeUEx0HMP2Giui"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
+        },
+        {
+          "name": "DJ Chulo NYC",
+          "url": "https://open.spotify.com/artist/6c6C4zF0PwHiS5EdDQbrLC"
+        },
+        {
+          "name": "El Cherry Scom",
+          "url": "https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY"
+        },
+        {
+          "name": "La Gre\u00f1a",
+          "url": "https://open.spotify.com/artist/7LnCLRzUnLRTFOe4NjAkGX"
+        },
+        {
+          "name": "Ronny GTA",
+          "url": "https://open.spotify.com/artist/4cnOWlaCqpRNGiLvsxgKgu"
+        },
+        {
+          "name": "Ezzy R",
+          "url": "https://open.spotify.com/artist/0DiYoKuXAI3xAA5JiU5UFX"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279685,
+      "name": "PANTI Y COLALE 2.0",
+      "url": "https://open.spotify.com/track/2ZSBqVV3T89BohjsYHmWtJ"
     },
     {
       "album": {
@@ -22194,7 +22300,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 141639,
       "name": "Se Solto El Tiguere",
       "url": "https://open.spotify.com/track/0HF1CVAIwzvMgNNvYWJEIT"
@@ -28380,7 +28486,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-11",
       "duration_ms": 86640,
       "name": "Vite",
       "url": "https://open.spotify.com/track/73gy02Fb3oQrGT7RlOzZ26"

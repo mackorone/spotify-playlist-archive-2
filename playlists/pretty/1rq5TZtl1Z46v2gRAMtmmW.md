@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 
 > 
 
-[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 31,824 likes - 36 songs - 1 hr 59 min
+[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 31,823 likes - 37 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,8 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 | 32 | [MOVEMENT](https://open.spotify.com/track/3fLwSEBKc3hVBqfuGUyzxN) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [CHOROPHOBIA](https://open.spotify.com/album/3Hqy5F2Bny4NmVvc40XN69) | 3:27 |
 | 33 | [Forge](https://open.spotify.com/track/6iELW37OhvMST3JfbzzQMc) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Forge](https://open.spotify.com/album/130C9Fb8aYMPQWNTMoBTO9) | 3:48 |
 | 34 | [Home Ground](https://open.spotify.com/track/5Nf5Cce8DePSYvu2IuEvcg) | [Ebbb](https://open.spotify.com/artist/2LikjKVyI5gqANlB9S7DNW) | [Home Ground](https://open.spotify.com/album/5jq1y0ryj6SZcEnGYlhSXS) | 3:10 |
-| 35 | [Wrong Things](https://open.spotify.com/track/1wB6r8nXiBz0EETAAT2Ysn) | [Danitsa](https://open.spotify.com/artist/0M1Kb2aco43kS4nb66HOn2), [Jarreau Vandal](https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW) | [Wrong Things](https://open.spotify.com/album/3FVMLm8MQt729AkPGPIikI) | 2:49 |
-| 36 | [Around The World](https://open.spotify.com/track/4ZVTVsWf2RkQ3EF0ieob8w) | [Ben Sterling](https://open.spotify.com/artist/79uJoLQkQ621xZy7MyH4uL), [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Around The World](https://open.spotify.com/album/1qGAXU1eeb2GbROrjzl0lA) | 3:48 |
+| 35 | [Patchwork](https://open.spotify.com/track/3BxWLwl3xcFAN0Hk5X13JD) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Paige Cavell](https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24) | [Patchwork](https://open.spotify.com/album/1jdPpk0cKJ4iQvsZfEXstU) | 3:07 |
+| 36 | [Wrong Things](https://open.spotify.com/track/1wB6r8nXiBz0EETAAT2Ysn) | [Danitsa](https://open.spotify.com/artist/0M1Kb2aco43kS4nb66HOn2), [Jarreau Vandal](https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW) | [Wrong Things](https://open.spotify.com/album/3FVMLm8MQt729AkPGPIikI) | 2:49 |
+| 37 | [Around The World](https://open.spotify.com/track/4ZVTVsWf2RkQ3EF0ieob8w) | [Ben Sterling](https://open.spotify.com/artist/79uJoLQkQ621xZy7MyH4uL), [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Around The World](https://open.spotify.com/album/1qGAXU1eeb2GbROrjzl0lA) | 3:48 |
 
-Snapshot ID: `AAARYGn6y6RB3rb00X8RsZV6gWNAZQdu`
+Snapshot ID: `AAARYualRuij9/eM2osJD1jTt+Q/QZxu`

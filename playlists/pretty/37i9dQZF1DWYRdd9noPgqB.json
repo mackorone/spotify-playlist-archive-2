@@ -1,6 +1,6 @@
 {
   "description": "La playlist qui fait du bien \u2600\ufe0f",
-  "num_followers": 299103,
+  "num_followers": 299098,
   "original_name": "Feel Good",
   "owner": {
     "name": "Spotify",
@@ -163,18 +163,18 @@
     {
       "added_at": "2026-04-09 22:00:49",
       "album": {
-        "name": "Slow Tonight",
-        "url": "https://open.spotify.com/album/0dShMq1RPDfB7BSS7O3xRc"
+        "name": "the van",
+        "url": "https://open.spotify.com/album/70zrCL7WfIPJQcXqzhRAho"
       },
       "artists": [
         {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
         }
       ],
-      "duration_ms": 192495,
-      "name": "Slow Tonight",
-      "url": "https://open.spotify.com/track/2H3L0xj5L4OlYFlRjhJQN5"
+      "duration_ms": 178001,
+      "name": "the van",
+      "url": "https://open.spotify.com/track/4C2o68XUoLpjvncsNsgwjA"
     },
     {
       "added_at": "2026-04-09 22:00:49",
@@ -195,18 +195,18 @@
     {
       "added_at": "2026-04-09 22:00:49",
       "album": {
-        "name": "the van",
-        "url": "https://open.spotify.com/album/70zrCL7WfIPJQcXqzhRAho"
+        "name": "Slow Tonight",
+        "url": "https://open.spotify.com/album/0dShMq1RPDfB7BSS7O3xRc"
       },
       "artists": [
         {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
         }
       ],
-      "duration_ms": 178001,
-      "name": "the van",
-      "url": "https://open.spotify.com/track/4C2o68XUoLpjvncsNsgwjA"
+      "duration_ms": 192495,
+      "name": "Slow Tonight",
+      "url": "https://open.spotify.com/track/2H3L0xj5L4OlYFlRjhJQN5"
     },
     {
       "added_at": "2026-04-09 22:00:49",
@@ -267,22 +267,6 @@
     {
       "added_at": "2026-04-09 22:00:49",
       "album": {
-        "name": "Yellow Eyes",
-        "url": "https://open.spotify.com/album/0LOoC1v3WNX2z8x1lUSmxL"
-      },
-      "artists": [
-        {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
-        }
-      ],
-      "duration_ms": 162096,
-      "name": "Yellow Eyes",
-      "url": "https://open.spotify.com/track/6xYi9wfZb81gJIVQ95qPNl"
-    },
-    {
-      "added_at": "2026-04-09 22:00:49",
-      "album": {
         "name": "Dream",
         "url": "https://open.spotify.com/album/5RRxkgSIBJ02AUEUf9pi9d"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 164885,
       "name": "Dream",
       "url": "https://open.spotify.com/track/1zQ3aaipEmoZ4tHtwIR28a"
+    },
+    {
+      "added_at": "2026-04-09 22:00:49",
+      "album": {
+        "name": "Yellow Eyes",
+        "url": "https://open.spotify.com/album/0LOoC1v3WNX2z8x1lUSmxL"
+      },
+      "artists": [
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "duration_ms": 162096,
+      "name": "Yellow Eyes",
+      "url": "https://open.spotify.com/track/6xYi9wfZb81gJIVQ95qPNl"
     },
     {
       "added_at": "2026-04-09 22:00:49",
@@ -463,22 +463,6 @@
     {
       "added_at": "2026-04-09 22:00:49",
       "album": {
-        "name": "The Avenue wave 1",
-        "url": "https://open.spotify.com/album/32evpf12hMTPw544bBrMsq"
-      },
-      "artists": [
-        {
-          "name": "GrooveBoom",
-          "url": "https://open.spotify.com/artist/5DBe9f0EnYtMcldlb9vH0R"
-        }
-      ],
-      "duration_ms": 254119,
-      "name": "Back Alley Rhythm",
-      "url": "https://open.spotify.com/track/3hJvsWP7gzv09iosdDmiAu"
-    },
-    {
-      "added_at": "2026-04-09 22:00:49",
-      "album": {
         "name": "Don't Remind Me (with Anderson .Paak)",
         "url": "https://open.spotify.com/album/1Z1L15G68wBQU7gG57QXl9"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 218472,
       "name": "Don't Remind Me (with Anderson .Paak)",
       "url": "https://open.spotify.com/track/7zptU3OZqdXe6qsRcpNWiS"
+    },
+    {
+      "added_at": "2026-04-09 22:00:49",
+      "album": {
+        "name": "The Avenue wave 1",
+        "url": "https://open.spotify.com/album/32evpf12hMTPw544bBrMsq"
+      },
+      "artists": [
+        {
+          "name": "GrooveBoom",
+          "url": "https://open.spotify.com/artist/5DBe9f0EnYtMcldlb9vH0R"
+        }
+      ],
+      "duration_ms": 254119,
+      "name": "Back Alley Rhythm",
+      "url": "https://open.spotify.com/track/3hJvsWP7gzv09iosdDmiAu"
     },
     {
       "added_at": "2026-04-09 22:00:49",
@@ -671,22 +671,6 @@
     {
       "added_at": "2026-04-09 22:00:49",
       "album": {
-        "name": "Eden",
-        "url": "https://open.spotify.com/album/1PIpblTFI5xO71o0SWj5Ca"
-      },
-      "artists": [
-        {
-          "name": "Avalon Emerson",
-          "url": "https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz"
-        }
-      ],
-      "duration_ms": 247588,
-      "name": "Eden",
-      "url": "https://open.spotify.com/track/5jFiIiqGyS35QMov2WvFaT"
-    },
-    {
-      "added_at": "2026-04-09 22:00:49",
-      "album": {
         "name": "Delusional",
         "url": "https://open.spotify.com/album/1RnkE63I6UR3FUTue5OG0a"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 214893,
       "name": "Delusional",
       "url": "https://open.spotify.com/track/4YV1PTqHU45t70PJZSlqom"
+    },
+    {
+      "added_at": "2026-04-09 22:00:49",
+      "album": {
+        "name": "Eden",
+        "url": "https://open.spotify.com/album/1PIpblTFI5xO71o0SWj5Ca"
+      },
+      "artists": [
+        {
+          "name": "Avalon Emerson",
+          "url": "https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz"
+        }
+      ],
+      "duration_ms": 247588,
+      "name": "Eden",
+      "url": "https://open.spotify.com/track/5jFiIiqGyS35QMov2WvFaT"
     },
     {
       "added_at": "2026-04-09 22:00:49",
@@ -775,6 +775,22 @@
     {
       "added_at": "2026-04-09 22:00:49",
       "album": {
+        "name": "A Matter of Time: The Final Hour",
+        "url": "https://open.spotify.com/album/4DWK6TLXHl1fly2zi5RlO7"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 239333,
+      "name": "Madwoman",
+      "url": "https://open.spotify.com/track/0UqHzMvRQnaOXEPKgFVhxN"
+    },
+    {
+      "added_at": "2026-04-09 22:00:49",
+      "album": {
         "name": "Give Me More",
         "url": "https://open.spotify.com/album/42jsuMoNdmTPbr8msasO8e"
       },
@@ -807,6 +823,22 @@
     {
       "added_at": "2026-04-09 22:00:49",
       "album": {
+        "name": "Can Feel It",
+        "url": "https://open.spotify.com/album/1e8S7SRezSUny3W9y0nLVn"
+      },
+      "artists": [
+        {
+          "name": "Marie Sarah",
+          "url": "https://open.spotify.com/artist/6eKmkdJGSByhfNDciam6bC"
+        }
+      ],
+      "duration_ms": 153520,
+      "name": "Can Feel It",
+      "url": "https://open.spotify.com/track/0rrlUV4F6oFbQDz02qqZVE"
+    },
+    {
+      "added_at": "2026-04-09 22:00:49",
+      "album": {
         "name": "Here We Go Again",
         "url": "https://open.spotify.com/album/4THNExkJ80NtafCGJADvar"
       },
@@ -819,22 +851,6 @@
       "duration_ms": 251718,
       "name": "Here We Go Again",
       "url": "https://open.spotify.com/track/7bvUKfeVJweptHIJtnC8Kz"
-    },
-    {
-      "added_at": "2026-04-09 22:00:49",
-      "album": {
-        "name": "The House That Doesn\u2019t Exist",
-        "url": "https://open.spotify.com/album/3KrWKehFGLzIywovhhRoUx"
-      },
-      "artists": [
-        {
-          "name": "Melody's Echo Chamber",
-          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
-        }
-      ],
-      "duration_ms": 143985,
-      "name": "The House That Doesn\u2019t Exist",
-      "url": "https://open.spotify.com/track/2EW7Z014nM1OJkU2OMhzQL"
     },
     {
       "added_at": "2026-04-09 22:00:49",
@@ -855,18 +871,18 @@
     {
       "added_at": "2026-04-09 22:00:49",
       "album": {
-        "name": "Can Feel It",
-        "url": "https://open.spotify.com/album/1e8S7SRezSUny3W9y0nLVn"
+        "name": "The House That Doesn\u2019t Exist",
+        "url": "https://open.spotify.com/album/3KrWKehFGLzIywovhhRoUx"
       },
       "artists": [
         {
-          "name": "Marie Sarah",
-          "url": "https://open.spotify.com/artist/6eKmkdJGSByhfNDciam6bC"
+          "name": "Melody's Echo Chamber",
+          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
         }
       ],
-      "duration_ms": 153520,
-      "name": "Can Feel It",
-      "url": "https://open.spotify.com/track/0rrlUV4F6oFbQDz02qqZVE"
+      "duration_ms": 143985,
+      "name": "The House That Doesn\u2019t Exist",
+      "url": "https://open.spotify.com/track/2EW7Z014nM1OJkU2OMhzQL"
     },
     {
       "added_at": "2026-04-09 22:00:49",
@@ -883,6 +899,22 @@
       "duration_ms": 174751,
       "name": "Not What\u2019s Going On",
       "url": "https://open.spotify.com/track/1oeUbGUc5kRSGLYoBdZR1S"
+    },
+    {
+      "added_at": "2026-04-09 22:00:49",
+      "album": {
+        "name": "Promises",
+        "url": "https://open.spotify.com/album/5p7wQPXWtiOBVUb6X8BwBA"
+      },
+      "artists": [
+        {
+          "name": "Marie Sarah",
+          "url": "https://open.spotify.com/artist/6eKmkdJGSByhfNDciam6bC"
+        }
+      ],
+      "duration_ms": 196360,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/3rMpx4dIw5OeouWZsc2Ql5"
     },
     {
       "added_at": "2026-04-09 22:00:49",
@@ -911,22 +943,6 @@
     {
       "added_at": "2026-04-09 22:00:49",
       "album": {
-        "name": "In The Stars",
-        "url": "https://open.spotify.com/album/4GZkJrxJFY9dPuG919zAmQ"
-      },
-      "artists": [
-        {
-          "name": "Melody's Echo Chamber",
-          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
-        }
-      ],
-      "duration_ms": 159078,
-      "name": "In The Stars",
-      "url": "https://open.spotify.com/track/2Derfdf5dzn6LXehZFR5Qj"
-    },
-    {
-      "added_at": "2026-04-09 22:00:49",
-      "album": {
         "name": "555",
         "url": "https://open.spotify.com/album/3TzTUtBE6D489IUaKcGw2k"
       },
@@ -943,18 +959,18 @@
     {
       "added_at": "2026-04-09 22:00:49",
       "album": {
-        "name": "Promises",
-        "url": "https://open.spotify.com/album/5p7wQPXWtiOBVUb6X8BwBA"
+        "name": "In The Stars",
+        "url": "https://open.spotify.com/album/4GZkJrxJFY9dPuG919zAmQ"
       },
       "artists": [
         {
-          "name": "Marie Sarah",
-          "url": "https://open.spotify.com/artist/6eKmkdJGSByhfNDciam6bC"
+          "name": "Melody's Echo Chamber",
+          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
         }
       ],
-      "duration_ms": 196360,
-      "name": "Promises",
-      "url": "https://open.spotify.com/track/3rMpx4dIw5OeouWZsc2Ql5"
+      "duration_ms": 159078,
+      "name": "In The Stars",
+      "url": "https://open.spotify.com/track/2Derfdf5dzn6LXehZFR5Qj"
     },
     {
       "added_at": "2026-04-09 22:00:49",
@@ -975,22 +991,6 @@
     {
       "added_at": "2026-04-09 22:00:49",
       "album": {
-        "name": "The Meeting (Deluxe)",
-        "url": "https://open.spotify.com/album/6hJvlNYhmPZeJH19TTAKde"
-      },
-      "artists": [
-        {
-          "name": "Astels",
-          "url": "https://open.spotify.com/artist/4azViUTvRLgNwb3GmtZvii"
-        }
-      ],
-      "duration_ms": 173172,
-      "name": "That Girl",
-      "url": "https://open.spotify.com/track/367jZlkmOpSqMGwjlRvQrp"
-    },
-    {
-      "added_at": "2026-04-09 22:00:49",
-      "album": {
         "name": "A Hundred Mixed Emotions",
         "url": "https://open.spotify.com/album/14XI796MhuPowz8BubR7Cb"
       },
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2026-04-09 22:00:49",
       "album": {
-        "name": "Note to self",
-        "url": "https://open.spotify.com/album/6cONV0PwNUpEoaEtnQrKoQ"
+        "name": "The Meeting (Deluxe)",
+        "url": "https://open.spotify.com/album/6hJvlNYhmPZeJH19TTAKde"
       },
       "artists": [
         {
-          "name": "Emma Hoet",
-          "url": "https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9"
+          "name": "Astels",
+          "url": "https://open.spotify.com/artist/4azViUTvRLgNwb3GmtZvii"
         }
       ],
-      "duration_ms": 165458,
-      "name": "Note to self",
-      "url": "https://open.spotify.com/track/4kLzXyCBn0kUOFihOaOxXZ"
+      "duration_ms": 173172,
+      "name": "That Girl",
+      "url": "https://open.spotify.com/track/367jZlkmOpSqMGwjlRvQrp"
     }
   ],
   "unique_name": "Feel Good",

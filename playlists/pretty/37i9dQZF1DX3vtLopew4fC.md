@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 
 > Listen to Daniela Andrade and Canadian women at full volume!
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,286 likes - 40 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,293 likes - 40 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 | 39 | [Cupid](https://open.spotify.com/track/3wnk6cVBfBxO0HB7n3XGIu) | [Täbï Yösha](https://open.spotify.com/artist/7mFQZ0JDq4jMjWXGyaU8EO) | [Cupid](https://open.spotify.com/album/2XPoZXewYmtVB6uaDKL6Xx) | 2:44 |
 | 40 | [Coeur](https://open.spotify.com/track/2m4UpWdbazN2LX8p0YipqI) | [Aysha](https://open.spotify.com/artist/1OB3f4tbFumeXeI8vjhvKO) | [Coeur](https://open.spotify.com/album/0KXwv04Mwz4piyB5K8NBB0) | 2:49 |
 
-Snapshot ID: `AAAAAMFt+/7+i0Zl3KauHtvL1gh4omgL`
+Snapshot ID: `AAAAALRem+71aoTwkeR1N+bWJaEeRbrh`

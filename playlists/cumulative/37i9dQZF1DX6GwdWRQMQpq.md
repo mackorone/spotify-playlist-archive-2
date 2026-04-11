@@ -2,9 +2,9 @@
 
 ### [Feelin' Myself](https://open.spotify.com/playlist/37i9dQZF1DX6GwdWRQMQpq)
 
-> The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Trim
+> The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Flo Milli
 
-803 songs - 1 day 11 hr 43 min
+805 songs - 1 day 11 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [BAD BITCHES](https://open.spotify.com/track/58edubUqtCDoirPaUAZ1b4) | [BreezyLYN](https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq) | [BAD BITCHES](https://open.spotify.com/album/3VIqkHl5RyYPNeI5RJYA7W) | 2:09 | 2023-01-20 | 2023-04-12 |
 | [Bad Bitches](https://open.spotify.com/track/1bOUmlmuxBY22foEJvYcQB) | [BreezyLYN](https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq) | [Bad Bitches](https://open.spotify.com/album/6HdImiXIslmzq6aFofGWCF) | 2:10 | 2023-04-07 | 2023-05-13 |
 | [Bad Bitches \(Remix\) \[feat\. Lola Brooke & Kaliii\]](https://open.spotify.com/track/5uNg131mN22zZzQ9XjRQ5Q) | [BreezyLYN](https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Bad Bitches \(Remix\) \[feat\. Lola Brooke & Kaliii\]](https://open.spotify.com/album/4lUP6CjI2ZsClgPCGi6bbW) | 3:10 | 2023-05-12 | 2023-09-23 |
-| [Bad Guy](https://open.spotify.com/track/3PdaZHszqVFNrjOsGYNFUY) | [Leikeli47](https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR) | [Bad Guy](https://open.spotify.com/album/3xjGxiWy6nHYUkCUd81IpW) | 3:34 | 2026-03-27 |  |
+| [Bad Guy](https://open.spotify.com/track/3PdaZHszqVFNrjOsGYNFUY) | [Leikeli47](https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR) | [Bad Guy](https://open.spotify.com/album/3xjGxiWy6nHYUkCUd81IpW) | 3:34 | 2026-03-27 | 2026-04-11 |
 | [Bad Ho's](https://open.spotify.com/track/2OTXDzDbBhIb2gXMrthc6G) | [Trim](https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9), [TrapStaxrC](https://open.spotify.com/artist/4kHOnKpjjj6BUzAGkSYCa5) | [Bad Ho's](https://open.spotify.com/album/5Yvh0ywo9uhoDgqZOEKvEs) | 2:36 | 2026-01-09 | 2026-02-14 |
 | [Baddie Baddie](https://open.spotify.com/track/5iiY9BOYRkydswD29G0SAh) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Baddie Baddie](https://open.spotify.com/album/4oRJgw3nyDQ3hnx7cXlbQr) | 2:00 | 2025-09-26 |  |
 | [Baddie Decisions](https://open.spotify.com/track/15DFymferHXLgfrYowTVFl) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Baddie Decisions](https://open.spotify.com/album/4Y3SXDyYi8Uxikp4YTqtsI) | 2:04 | 2025-02-21 | 2025-03-29 |
@@ -467,6 +467,7 @@
 | [Mind Yo Business \(Feat\. Latto\)](https://open.spotify.com/track/5hR1PFUnx0uRkqYsW4Z4ja) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Mind Yo Business \(Feat\. Latto\)](https://open.spotify.com/album/0NCupn1XlJsAHmUcCCGLQk) | 2:02 | 2022-06-03 | 2023-02-18 |
 | [Miss Irresponsible](https://open.spotify.com/track/21Ra5gh1mRQH5VVfqf5MSo) | [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ) | [Miss Irresponsible](https://open.spotify.com/album/3cYSoTW5N0mBD3l2WtsWX6) | 3:14 | 2025-12-05 | 2025-12-31 |
 | [Miss Me](https://open.spotify.com/track/2B1PCtaMT0Zrev6svMvHB1) | [Bri3](https://open.spotify.com/artist/2nQ17oZU3rP09w7d17VK8H) | [Miss Me](https://open.spotify.com/album/0fhSjuQFei2QCsfX9yHRW1) | 2:30 | 2025-10-03 | 2025-10-18 |
+| [Missin' You](https://open.spotify.com/track/3G922nfHctzs57wtJXqxfR) | [Dess Dior](https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O), [YFN Lucci](https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP) | [Note To Self](https://open.spotify.com/album/47KtxHjRKa2h8gHdmS10Zs) | 2:47 | 2026-04-10 |  |
 | [MMM MMM \(feat\. ATL Jacob\)](https://open.spotify.com/track/7GLqR9ToJLb0PV3XyNAWNm) | [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq) | [MMM MMM \(feat\. ATL Jacob\)](https://open.spotify.com/album/5IPRVG3Ph5zixjdC49LKdu) | 2:17 | 2021-07-02 | 2022-02-05 |
 | [Moncler Coat](https://open.spotify.com/track/6nDIfZcCj06dGLY1sckgaZ) | [Sally Sossa](https://open.spotify.com/artist/58q28H7IgX06YXkPvUtGgR) | [Moncler Coat](https://open.spotify.com/album/2Aatr5J5mRJxyeHydQyNxF) | 1:47 | 2021-12-17 | 2022-03-05 |
 | [Money \(feat\. Flo Milli\)](https://open.spotify.com/track/2xo2fUrwrdOruV2zdNtWoP) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Money \(feat\. Flo Milli\)](https://open.spotify.com/album/5u9dBzQdVd9YDblzgtxOlD) | 2:30 | 2021-11-19 | 2022-04-16 |
@@ -699,7 +700,7 @@
 | [TEETHSUCKER \(YEA3x\)](https://open.spotify.com/track/36gQ2Hyr8ErtuxmssOYEOX) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [TEETHSUCKER \(YEA3x\)](https://open.spotify.com/album/3pS5fcf4omfdgFP14wvmqJ) | 2:18 | 2025-02-21 | 2025-03-22 |
 | [Telfy](https://open.spotify.com/track/4vj1VHAC9n8ZodCqdnauS7) | [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ) | [Telfy](https://open.spotify.com/album/6jzTgp5UKMbNgqbTbKbDZo) | 3:07 | 2022-11-11 | 2023-05-13 |
 | [Tell Me](https://open.spotify.com/track/0nu0nKOAapse83G3orhXIW) | [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM), [Ralo](https://open.spotify.com/artist/6Z99p0M73gzZSHQ1FlonCi) | [Cocky on Purpose 2](https://open.spotify.com/album/4s7ReNcddaGsq2bmgUAO5M) | 2:12 | 2024-08-30 | 2024-09-14 |
-| [Tell Me Now](https://open.spotify.com/track/61YxvXZkU0JbQYwVcGTlCd) | [Dess Dior](https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O), [Belly Gang Kushington](https://open.spotify.com/artist/7oHPIc7BYAIUhYFF6hSggI) | [Tell Me Now](https://open.spotify.com/album/1i2bKNS6BYBvp8JCDUwKWB) | 3:10 | 2026-02-20 |  |
+| [Tell Me Now](https://open.spotify.com/track/61YxvXZkU0JbQYwVcGTlCd) | [Dess Dior](https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O), [Belly Gang Kushington](https://open.spotify.com/artist/7oHPIc7BYAIUhYFF6hSggI) | [Tell Me Now](https://open.spotify.com/album/1i2bKNS6BYBvp8JCDUwKWB) | 3:10 | 2026-02-20 | 2026-04-11 |
 | [Tell Ur Girlfriend](https://open.spotify.com/track/3lMzT16MjAKKXF7pSZn13B) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Tell Ur Girlfriend](https://open.spotify.com/album/0S8DGX9LmBkRSVi3ywcCOT) | 2:04 | 2024-03-29 | 2025-06-07 |
 | [TGIF](https://open.spotify.com/track/2hKYtHbwYOSjvYQhVdUpdQ) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [TGIF](https://open.spotify.com/album/3VY29d0cCe38jPSYvAiI0D) | 2:44 | 2024-06-21 | 2025-12-06 |
 | [The Assignment](https://open.spotify.com/track/1iBfg5pMNqR0HFTpDTr73A) | [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7) | [The Assignment](https://open.spotify.com/album/2lnn72jnHA6corVKMzibS5) | 1:53 | 2021-09-10 | 2022-02-19 |
@@ -758,6 +759,7 @@
 | [WASSUP WIT IT](https://open.spotify.com/track/02iqkGzWVLtBSMx1Ir1x2p) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [WASSUP WIT IT](https://open.spotify.com/album/76O4qRPV4sOHZdx4edvnB6) | 2:19 | 2025-10-10 | 2025-10-25 |
 | [Wasted](https://open.spotify.com/track/78crxkAaQ38xBYs4uM5Xkz) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Wasted](https://open.spotify.com/album/6L96Vte8baOFYbFB3HIIqZ) | 2:37 | 2022-12-23 | 2023-01-14 |
 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 | 2023-10-13 | 2024-04-19 |
+| [WE BACK OUTSIDE](https://open.spotify.com/track/1BEsMoxJUeGalSCr7KIKwo) | [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB) | [WE BACK OUTSIDE](https://open.spotify.com/album/0qtXVm1vzmVuEIFu4lZpIJ) | 1:47 | 2026-04-10 |  |
 | [We Go Up \(feat\. Fivio Foreign\)](https://open.spotify.com/track/3zQ61IRdlSbEyYQlwQZZxS) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [We Go Up](https://open.spotify.com/album/5IfknrZnkcbBcT7KQuDZXI) | 4:15 | 2022-03-25 | 2022-07-23 |
 | [We Not Humping](https://open.spotify.com/track/0ypTgFheHb8nRVq4ygoQ3P) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [We Not Humping](https://open.spotify.com/album/5zdbJoOThfYjQhzDwpdF7B) | 2:24 | 2021-12-03 | 2022-02-05 |
 | [We Not Humping \- Remix](https://open.spotify.com/track/4ue41gFbAjoU0P1EberJWm) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [We Not Humping \(Remix\)](https://open.spotify.com/album/1V9eCkZxExdad79zHEE6Dk) | 2:23 | 2022-04-22 | 2022-10-29 |

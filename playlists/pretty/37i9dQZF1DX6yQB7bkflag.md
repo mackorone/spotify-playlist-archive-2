@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Teddy Adhitya
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,434 likes - 136 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,438 likes - 136 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
