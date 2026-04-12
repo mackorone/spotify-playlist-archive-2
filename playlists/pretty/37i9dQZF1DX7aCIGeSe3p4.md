@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aCIGeSe3p4.md) - [plain]
 
 > me gustaba más mi yo de antes 🥺❤️‍🩹 Cosechando los éxitos del internet 🤠
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,187 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,217 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Aqui est\u00e1n todas las esenciales Tropicales de adoraci\u00f3n!",
-  "num_followers": 107025,
+  "num_followers": 107042,
   "original_name": "Inspiraci\u00f3n Tropical",
   "owner": {
     "name": "Spotify",
@@ -275,6 +275,22 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
+        "name": "NADA",
+        "url": "https://open.spotify.com/album/4MbQSQu6wFLCU3x1wZFbY3"
+      },
+      "artists": [
+        {
+          "name": "Obyone",
+          "url": "https://open.spotify.com/artist/1kjzrYEdRok24Tpamprfpa"
+        }
+      ],
+      "duration_ms": 176074,
+      "name": "NADA",
+      "url": "https://open.spotify.com/track/4ErCYpaLhbYdLmRdtWLrEn"
+    },
+    {
+      "added_at": "2026-03-29 00:09:04",
+      "album": {
         "name": "Sublime Gracia",
         "url": "https://open.spotify.com/album/4JMgMpgaGlSDXTEa8kV1CX"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 166875,
       "name": "Sublime Gracia",
       "url": "https://open.spotify.com/track/7ql7c661G5jstNSU3UVt0S"
-    },
-    {
-      "added_at": "2026-03-29 00:09:04",
-      "album": {
-        "name": "NADA",
-        "url": "https://open.spotify.com/album/4MbQSQu6wFLCU3x1wZFbY3"
-      },
-      "artists": [
-        {
-          "name": "Obyone",
-          "url": "https://open.spotify.com/artist/1kjzrYEdRok24Tpamprfpa"
-        }
-      ],
-      "duration_ms": 176074,
-      "name": "NADA",
-      "url": "https://open.spotify.com/track/4ErCYpaLhbYdLmRdtWLrEn"
     },
     {
       "added_at": "2026-03-29 00:09:04",
@@ -651,22 +651,6 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
-        "name": "Lo Mejor De La Vida",
-        "url": "https://open.spotify.com/album/10o6MR8g8EXpeRGulLaPSl"
-      },
-      "artists": [
-        {
-          "name": "R Nova",
-          "url": "https://open.spotify.com/artist/7rXuCCgw2Intfg2EJdQypx"
-        }
-      ],
-      "duration_ms": 217660,
-      "name": "Lo Mejor De La Vida",
-      "url": "https://open.spotify.com/track/4T8vv4Hwzg0vEwsRg253oS"
-    },
-    {
-      "added_at": "2026-03-29 00:09:04",
-      "album": {
         "name": "30 A\u00f1os de Adoraci\u00f3n Tropical",
         "url": "https://open.spotify.com/album/5CrNPfMYE1RZXCvABtn7Aq"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 249576,
       "name": "Coritos Medley 2.0",
       "url": "https://open.spotify.com/track/0lECYI5HpJSQqpKk0BRp9z"
+    },
+    {
+      "added_at": "2026-03-29 00:09:04",
+      "album": {
+        "name": "Lo Mejor De La Vida",
+        "url": "https://open.spotify.com/album/10o6MR8g8EXpeRGulLaPSl"
+      },
+      "artists": [
+        {
+          "name": "R Nova",
+          "url": "https://open.spotify.com/artist/7rXuCCgw2Intfg2EJdQypx"
+        }
+      ],
+      "duration_ms": 217660,
+      "name": "Lo Mejor De La Vida",
+      "url": "https://open.spotify.com/track/4T8vv4Hwzg0vEwsRg253oS"
     },
     {
       "added_at": "2026-03-29 00:09:04",
@@ -799,26 +799,18 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
-        "name": "CARTAGENA",
-        "url": "https://open.spotify.com/album/1LKiiYDppMPV3xQCn9W65N"
+        "name": "Ped\u00ed Un Deseo",
+        "url": "https://open.spotify.com/album/6denrjuHskfvkh4ag75SN7"
       },
       "artists": [
         {
-          "name": "CSHALOM",
-          "url": "https://open.spotify.com/artist/5SnxvQmYVN1duOHPQpequL"
-        },
-        {
-          "name": "ANMILY",
-          "url": "https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT"
-        },
-        {
-          "name": "Zoprano",
-          "url": "https://open.spotify.com/artist/2mdcXhVmknCqnJU4M5ofyl"
+          "name": "Yaronk Rouse",
+          "url": "https://open.spotify.com/artist/0X4lCAYlpMKKkNOcuL14eI"
         }
       ],
-      "duration_ms": 164877,
-      "name": "CARTAGENA",
-      "url": "https://open.spotify.com/track/5PfhsUM1oFLszzFO449aC7"
+      "duration_ms": 196156,
+      "name": "Ped\u00ed Un Deseo",
+      "url": "https://open.spotify.com/track/1efS7fzuIPrfiQFVoPxjg9"
     },
     {
       "added_at": "2026-03-29 00:09:04",
@@ -839,18 +831,26 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
-        "name": "Ped\u00ed Un Deseo",
-        "url": "https://open.spotify.com/album/6denrjuHskfvkh4ag75SN7"
+        "name": "CARTAGENA",
+        "url": "https://open.spotify.com/album/1LKiiYDppMPV3xQCn9W65N"
       },
       "artists": [
         {
-          "name": "Yaronk Rouse",
-          "url": "https://open.spotify.com/artist/0X4lCAYlpMKKkNOcuL14eI"
+          "name": "CSHALOM",
+          "url": "https://open.spotify.com/artist/5SnxvQmYVN1duOHPQpequL"
+        },
+        {
+          "name": "ANMILY",
+          "url": "https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT"
+        },
+        {
+          "name": "Zoprano",
+          "url": "https://open.spotify.com/artist/2mdcXhVmknCqnJU4M5ofyl"
         }
       ],
-      "duration_ms": 196156,
-      "name": "Ped\u00ed Un Deseo",
-      "url": "https://open.spotify.com/track/1efS7fzuIPrfiQFVoPxjg9"
+      "duration_ms": 164877,
+      "name": "CARTAGENA",
+      "url": "https://open.spotify.com/track/5PfhsUM1oFLszzFO449aC7"
     },
     {
       "added_at": "2026-03-29 00:09:04",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
-        "name": "La alegr\u00eda del Se\u00f1or",
-        "url": "https://open.spotify.com/album/6aLCUr0EpQnYToBLxWyedO"
-      },
-      "artists": [
-        {
-          "name": "Promesa de Dios",
-          "url": "https://open.spotify.com/artist/0qwUWQ2ly5S4jViFyRgNlp"
-        }
-      ],
-      "duration_ms": 193846,
-      "name": "La alegr\u00eda del Se\u00f1or",
-      "url": "https://open.spotify.com/track/1NB1vkw0KCxcFIgAyBVdsZ"
-    },
-    {
-      "added_at": "2026-03-29 00:09:04",
-      "album": {
         "name": "CONMIGO VA",
         "url": "https://open.spotify.com/album/3pjDokX4LvRA9kZwTKYJdn"
       },
@@ -1071,6 +1055,22 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
+        "name": "La alegr\u00eda del Se\u00f1or",
+        "url": "https://open.spotify.com/album/6aLCUr0EpQnYToBLxWyedO"
+      },
+      "artists": [
+        {
+          "name": "Promesa de Dios",
+          "url": "https://open.spotify.com/artist/0qwUWQ2ly5S4jViFyRgNlp"
+        }
+      ],
+      "duration_ms": 193846,
+      "name": "La alegr\u00eda del Se\u00f1or",
+      "url": "https://open.spotify.com/track/1NB1vkw0KCxcFIgAyBVdsZ"
+    },
+    {
+      "added_at": "2026-03-29 00:09:04",
+      "album": {
         "name": "30 Bachatas Cristianas Pegaditas",
         "url": "https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt"
       },
@@ -1083,6 +1083,22 @@
       "duration_ms": 268613,
       "name": "Sinceridad",
       "url": "https://open.spotify.com/track/6N49H4sNWlPvytIiNmjVzB"
+    },
+    {
+      "added_at": "2026-03-29 00:09:04",
+      "album": {
+        "name": "Grande y Maravillosas Son Tus Obras",
+        "url": "https://open.spotify.com/album/14kFQmxzWMlUTQiZUOttWC"
+      },
+      "artists": [
+        {
+          "name": "Altar Vivo",
+          "url": "https://open.spotify.com/artist/0KWLKDSGdlJhOfd0Wkb2mr"
+        }
+      ],
+      "duration_ms": 246919,
+      "name": "Grande y Maravillosas Son Tus Obras",
+      "url": "https://open.spotify.com/track/1QyOxWPY0hOMWV7yEuk4cq"
     },
     {
       "added_at": "2026-03-29 00:09:04",
@@ -1107,18 +1123,22 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
-        "name": "Grande y Maravillosas Son Tus Obras",
-        "url": "https://open.spotify.com/album/14kFQmxzWMlUTQiZUOttWC"
+        "name": "Hombre Nuevo",
+        "url": "https://open.spotify.com/album/3viv1vGNFkD2Sro7UtDqFe"
       },
       "artists": [
         {
-          "name": "Altar Vivo",
-          "url": "https://open.spotify.com/artist/0KWLKDSGdlJhOfd0Wkb2mr"
+          "name": "HeartBeat Music",
+          "url": "https://open.spotify.com/artist/1r9xLwoX9cNdZQL1Weekrd"
+        },
+        {
+          "name": "Travy Joe",
+          "url": "https://open.spotify.com/artist/0K2Feyu8wJj25eXYZr3rT5"
         }
       ],
-      "duration_ms": 246919,
-      "name": "Grande y Maravillosas Son Tus Obras",
-      "url": "https://open.spotify.com/track/1QyOxWPY0hOMWV7yEuk4cq"
+      "duration_ms": 202659,
+      "name": "Hombre Nuevo",
+      "url": "https://open.spotify.com/track/71YS4ykCSdZgBfXRLOd2Vk"
     },
     {
       "added_at": "2026-03-29 00:09:04",
@@ -1143,22 +1163,18 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
-        "name": "Hombre Nuevo",
-        "url": "https://open.spotify.com/album/3viv1vGNFkD2Sro7UtDqFe"
+        "name": "M\u00e1s de Una Vez",
+        "url": "https://open.spotify.com/album/5BZAv2tmF7d1m6iRx31OBG"
       },
       "artists": [
         {
-          "name": "HeartBeat Music",
-          "url": "https://open.spotify.com/artist/1r9xLwoX9cNdZQL1Weekrd"
-        },
-        {
-          "name": "Travy Joe",
-          "url": "https://open.spotify.com/artist/0K2Feyu8wJj25eXYZr3rT5"
+          "name": "Soly",
+          "url": "https://open.spotify.com/artist/2HfhjHrQurBYcK7EEXH3kQ"
         }
       ],
-      "duration_ms": 202659,
-      "name": "Hombre Nuevo",
-      "url": "https://open.spotify.com/track/71YS4ykCSdZgBfXRLOd2Vk"
+      "duration_ms": 173332,
+      "name": "M\u00e1s de Una Vez",
+      "url": "https://open.spotify.com/track/67mNCKyJeruy19jjXzmdVm"
     },
     {
       "added_at": "2026-03-29 00:09:04",
@@ -1183,22 +1199,6 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
-        "name": "M\u00e1s de Una Vez",
-        "url": "https://open.spotify.com/album/5BZAv2tmF7d1m6iRx31OBG"
-      },
-      "artists": [
-        {
-          "name": "Soly",
-          "url": "https://open.spotify.com/artist/2HfhjHrQurBYcK7EEXH3kQ"
-        }
-      ],
-      "duration_ms": 173332,
-      "name": "M\u00e1s de Una Vez",
-      "url": "https://open.spotify.com/track/67mNCKyJeruy19jjXzmdVm"
-    },
-    {
-      "added_at": "2026-03-29 00:09:04",
-      "album": {
         "name": "Por Mucho Tiempo",
         "url": "https://open.spotify.com/album/4XeRGkZPzvBmpohrCTD55f"
       },
@@ -1215,22 +1215,6 @@
       "duration_ms": 182772,
       "name": "Por Mucho Tiempo",
       "url": "https://open.spotify.com/track/3GaWTQ1vKqjGjSSaau0khU"
-    },
-    {
-      "added_at": "2026-03-29 00:09:04",
-      "album": {
-        "name": "Ech\u00f3 A La Mar Los Carros Del Fara\u00f3n",
-        "url": "https://open.spotify.com/album/5OJF5gjJmi6RhI0YnqQBuU"
-      },
-      "artists": [
-        {
-          "name": "Altar Vivo",
-          "url": "https://open.spotify.com/artist/0KWLKDSGdlJhOfd0Wkb2mr"
-        }
-      ],
-      "duration_ms": 139839,
-      "name": "Ech\u00f3 A La Mar Los Carros Del Fara\u00f3n",
-      "url": "https://open.spotify.com/track/1jm1I2fv53f1xH3DFTYR2D"
     },
     {
       "added_at": "2026-03-29 00:09:04",
@@ -1263,6 +1247,22 @@
       "duration_ms": 234432,
       "name": "Me Encontr\u00f3",
       "url": "https://open.spotify.com/track/63u65QjlAGPZeWFiqtRnUu"
+    },
+    {
+      "added_at": "2026-03-29 00:09:04",
+      "album": {
+        "name": "Ech\u00f3 A La Mar Los Carros Del Fara\u00f3n",
+        "url": "https://open.spotify.com/album/5OJF5gjJmi6RhI0YnqQBuU"
+      },
+      "artists": [
+        {
+          "name": "Altar Vivo",
+          "url": "https://open.spotify.com/artist/0KWLKDSGdlJhOfd0Wkb2mr"
+        }
+      ],
+      "duration_ms": 139839,
+      "name": "Ech\u00f3 A La Mar Los Carros Del Fara\u00f3n",
+      "url": "https://open.spotify.com/track/1jm1I2fv53f1xH3DFTYR2D"
     },
     {
       "added_at": "2026-03-29 00:09:04",
@@ -1303,26 +1303,6 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
-        "name": "Baila",
-        "url": "https://open.spotify.com/album/2DDQ42rZLhCHGkzyI56lHB"
-      },
-      "artists": [
-        {
-          "name": "Common Hymnal",
-          "url": "https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN"
-        },
-        {
-          "name": "JonCarlos + Gabriella",
-          "url": "https://open.spotify.com/artist/6QluT3zLHLfjZZNcWvpL47"
-        }
-      ],
-      "duration_ms": 209837,
-      "name": "Baila",
-      "url": "https://open.spotify.com/track/1JDkqv7ry2RPAbK18JEllb"
-    },
-    {
-      "added_at": "2026-03-29 00:09:04",
-      "album": {
         "name": "La Criolla",
         "url": "https://open.spotify.com/album/3UlKZOXdj6lqe9eyssrjFP"
       },
@@ -1339,6 +1319,26 @@
       "duration_ms": 160285,
       "name": "La Criolla",
       "url": "https://open.spotify.com/track/3pEBiQSYCtSC1wyNIeNvgH"
+    },
+    {
+      "added_at": "2026-03-29 00:09:04",
+      "album": {
+        "name": "Baila",
+        "url": "https://open.spotify.com/album/2DDQ42rZLhCHGkzyI56lHB"
+      },
+      "artists": [
+        {
+          "name": "Common Hymnal",
+          "url": "https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN"
+        },
+        {
+          "name": "JonCarlos + Gabriella",
+          "url": "https://open.spotify.com/artist/6QluT3zLHLfjZZNcWvpL47"
+        }
+      ],
+      "duration_ms": 209837,
+      "name": "Baila",
+      "url": "https://open.spotify.com/track/1JDkqv7ry2RPAbK18JEllb"
     },
     {
       "added_at": "2026-03-29 00:09:04",
@@ -1503,26 +1503,6 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
-        "name": "A Tu Lado",
-        "url": "https://open.spotify.com/album/7J4irmLEusLkjIZJWOign4"
-      },
-      "artists": [
-        {
-          "name": "Sarah Nathali\u00e9",
-          "url": "https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni"
-        },
-        {
-          "name": "Mami y Papi",
-          "url": "https://open.spotify.com/artist/3ma8kBhrOIcqep9jzYTzhg"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "A Tu Lado",
-      "url": "https://open.spotify.com/track/58EYT5eV7H7VL46V9O2TNM"
-    },
-    {
-      "added_at": "2026-03-29 00:09:04",
-      "album": {
         "name": "Absoluto",
         "url": "https://open.spotify.com/album/4PllLhV4CKScbqcYqffkov"
       },
@@ -1539,6 +1519,26 @@
       "duration_ms": 287524,
       "name": "Absoluto",
       "url": "https://open.spotify.com/track/5utdSmqXGbCLDIus7U82DD"
+    },
+    {
+      "added_at": "2026-03-29 00:09:04",
+      "album": {
+        "name": "A Tu Lado",
+        "url": "https://open.spotify.com/album/7J4irmLEusLkjIZJWOign4"
+      },
+      "artists": [
+        {
+          "name": "Sarah Nathali\u00e9",
+          "url": "https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni"
+        },
+        {
+          "name": "Mami y Papi",
+          "url": "https://open.spotify.com/artist/3ma8kBhrOIcqep9jzYTzhg"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "A Tu Lado",
+      "url": "https://open.spotify.com/track/58EYT5eV7H7VL46V9O2TNM"
     },
     {
       "added_at": "2026-03-29 00:09:04",

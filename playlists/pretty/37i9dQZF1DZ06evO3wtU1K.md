@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wtU1K.md) - [plain]
 
 > This is Tasha Cobbs Leonard\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,391 likes - 50 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,396 likes - 50 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wtU1K.md) - [plain]
 | 41 | [More Than Able \(feat\. Tasha Cobbs Leonard , Chandler Moore, Naomi Raine\)](https://open.spotify.com/track/7KeMUZAdegNFrikChmSbvV) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [The Maverick Way \- EP](https://open.spotify.com/album/4GHtoBIXzNJcjoqPD0WSlz) | 9:16 |
 | 42 | [Great I Am \(feat\. Tasha Cobbs Leonard\) \- Live](https://open.spotify.com/track/5MlBcBP7ARqZI4dYNzcZMa) | [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Chandler Moore: Live in Los Angeles](https://open.spotify.com/album/0Zjn1YJmwcsvmHqc4LPI6V) | 9:12 |
 | 43 | [Do It Anyway](https://open.spotify.com/track/7K5ANVeHIzH73bI9WMBpeN) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [TASHA](https://open.spotify.com/album/6MN5JNWHd9PYF1gtnl0ccP) | 2:57 |
-| 44 | [The Hand That Keeps Holding Me](https://open.spotify.com/track/3JFsd4nEKY80A0CJcUq9n7) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [The Hand That Keeps Holding Me](https://open.spotify.com/album/25qfoIDGA0TncdbRPgloqm) | 4:51 |
-| 45 | [Blessings on Blessings \(Another Thing\) \(with Tasha Cobbs Leonard\) \- Live](https://open.spotify.com/track/67JYk0HjCsGhrY2rhwiYZM) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Jesus Over Everything \(Live In Las Vegas\)](https://open.spotify.com/album/0ipgHKNQF4HtAqVeIxEDcp) | 5:06 |
+| 44 | [Blessings on Blessings \(Another Thing\) \(with Tasha Cobbs Leonard\) \- Live](https://open.spotify.com/track/67JYk0HjCsGhrY2rhwiYZM) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Jesus Over Everything \(Live In Las Vegas\)](https://open.spotify.com/album/0ipgHKNQF4HtAqVeIxEDcp) | 5:06 |
+| 45 | [The Hand That Keeps Holding Me](https://open.spotify.com/track/3JFsd4nEKY80A0CJcUq9n7) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [The Hand That Keeps Holding Me](https://open.spotify.com/album/25qfoIDGA0TncdbRPgloqm) | 4:51 |
 | 46 | [Wonderful Grace](https://open.spotify.com/track/2USmhOGKSID1Zs7f13hwWC) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Heart\. Passion\. Pursuit.](https://open.spotify.com/album/39UpQWkYwByspw53CTZDis) | 6:49 |
 | 47 | [Smile \- Live](https://open.spotify.com/track/5XFYRxSFLFnxJOCFqXRLc9) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Grace \(Live/Deluxe\)](https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5) | 5:47 |
 | 48 | [Together \(We'll Get Through This\)](https://open.spotify.com/track/2tw1U7sV7kvAeAGLU6pFkt) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot), [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Together \(We'll Get Through This\)](https://open.spotify.com/album/5Dzgbis6hGQ5btWlMDnoK3) | 3:24 |
 | 49 | [Another Thing \(with Tasha Cobbs Leonard\) \- Live](https://open.spotify.com/track/28dBWQUI19spbuQacMBPhc) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Jesus Over Everything \(Live In Las Vegas\)](https://open.spotify.com/album/0ipgHKNQF4HtAqVeIxEDcp) | 3:56 |
 | 50 | [THIS IS A MOVE \(LIVE FROM GREENSBORO\)](https://open.spotify.com/track/4chx4qrqcgMalneuDKedPt) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [TEAR OFF THE ROOF \(LIVE FROM THE HOLY CITY\)](https://open.spotify.com/album/3RA4ISUwFp9KIhEWYbio1A) | 7:08 |
 
-Snapshot ID: `adbsAAAAAAD9fJQq7FK9ZKVtwlYWvo91`
+Snapshot ID: `adg9gAAAAAC0ZmpFC3TgmzUyhNUPlzYq`

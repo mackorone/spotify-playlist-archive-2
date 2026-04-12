@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 
 > The home for heavy music\. Cover: Drug Church
 
-[Spotify](https://open.spotify.com/user/spotify) - 494,001 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 493,973 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,17 +60,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 | 50 | [Hereditary](https://open.spotify.com/track/4j4NCpKg0dZKqepfdwL1KH) | [Wind Walkers](https://open.spotify.com/artist/2K2bsaNeuQAFkuVwrrlJe0) | [I Don't Belong Here](https://open.spotify.com/album/7qYZEoFXuB2AAK99y98l2N) | 3:24 |
 | 51 | [Rain](https://open.spotify.com/track/3cbBEGn5f65b1YCI28Oixn) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Rain](https://open.spotify.com/album/3ndeaQffdBCpmpIzfoQz53) | 3:23 |
 | 52 | [Cellophane](https://open.spotify.com/track/5yIkrjh4x9S4gLB43uIZMx) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia) | [Cellophane](https://open.spotify.com/album/5pW48u8bbfOtvpp5xxAWLn) | 3:18 |
-| 53 | [Good Enough \(feat\. Caskets\)](https://open.spotify.com/track/634fbt01oPnkmCBMPNJUWA) | [Rising Insane](https://open.spotify.com/artist/7InRNmmQuAi5KGBFtfOkrf), [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [Good Enough \(feat\. Caskets\)](https://open.spotify.com/album/2Knj2sM9MP94zUuYcHqmwH) | 2:45 |
-| 54 | [Nice Guy \(feat\. Ekoh\)](https://open.spotify.com/track/1BbPTYq3fpY5qtDeublQM2) | [TX2](https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H), [Ekoh](https://open.spotify.com/artist/5lC7N2Mm9i92KSfW4opawO) | [Nice Guy \(feat\. Ekoh\)](https://open.spotify.com/album/6USpargOEBNeYfcXzn9dJe) | 3:05 |
-| 55 | [Ego Death](https://open.spotify.com/track/2JJfPd80KcUu4IMD6ZjAkz) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Ego Death](https://open.spotify.com/album/4N7E4CwLMu8iaANPPT2Twx) | 2:12 |
+| 53 | [Nice Guy \(feat\. Ekoh\)](https://open.spotify.com/track/1BbPTYq3fpY5qtDeublQM2) | [TX2](https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H), [Ekoh](https://open.spotify.com/artist/5lC7N2Mm9i92KSfW4opawO) | [Nice Guy \(feat\. Ekoh\)](https://open.spotify.com/album/6USpargOEBNeYfcXzn9dJe) | 3:05 |
+| 54 | [Ego Death](https://open.spotify.com/track/2JJfPd80KcUu4IMD6ZjAkz) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Ego Death](https://open.spotify.com/album/4N7E4CwLMu8iaANPPT2Twx) | 2:12 |
+| 55 | [Good Enough \(feat\. Caskets\)](https://open.spotify.com/track/634fbt01oPnkmCBMPNJUWA) | [Rising Insane](https://open.spotify.com/artist/7InRNmmQuAi5KGBFtfOkrf), [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [Good Enough \(feat\. Caskets\)](https://open.spotify.com/album/2Knj2sM9MP94zUuYcHqmwH) | 2:45 |
 | 56 | [Like A Woman Can](https://open.spotify.com/track/2a938Z2yqpxHAyNLjJHymh) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Everest](https://open.spotify.com/album/5i8fhyMoVuH1O3pofbxywv) | 4:22 |
 | 57 | [Can I Get A](https://open.spotify.com/track/12u8LK8Sb3mY4rVxTtUCZf) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Can I Get A](https://open.spotify.com/album/2Eqf4ijMQbWEw16hp8vGJt) | 3:43 |
-| 58 | [Our Parting Ways](https://open.spotify.com/track/0ac8ZDjMOBYW2V5BK9KW4y) | [156/Silence](https://open.spotify.com/artist/2qXHYRTtZytxMMfO9pW1V9) | [Our Parting Ways](https://open.spotify.com/album/4n3UwfFh4TryZGGnfTscjL) | 3:40 |
-| 59 | [Cold \- 2025 VERSION](https://open.spotify.com/track/3iJD97o04av0fRPMmciboH) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [BEST OF \(Volume 2\)](https://open.spotify.com/album/2HnxhjQnktpHhk44KePSaU) | 3:46 |
+| 58 | [Cold \- 2025 VERSION](https://open.spotify.com/track/3iJD97o04av0fRPMmciboH) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [BEST OF \(Volume 2\)](https://open.spotify.com/album/2HnxhjQnktpHhk44KePSaU) | 3:46 |
+| 59 | [Our Parting Ways](https://open.spotify.com/track/0ac8ZDjMOBYW2V5BK9KW4y) | [156/Silence](https://open.spotify.com/artist/2qXHYRTtZytxMMfO9pW1V9) | [Our Parting Ways](https://open.spotify.com/album/4n3UwfFh4TryZGGnfTscjL) | 3:40 |
 | 60 | [Spared From The Guillotine](https://open.spotify.com/track/2xcQzoMgFfbvCjhVaQRNo4) | [Sylosis](https://open.spotify.com/artist/2RiGIRDi4GoJpDbjDnPVJl) | [The New Flesh](https://open.spotify.com/album/1cTxv3R4nOPQnR7et4cFkz) | 3:55 |
 | 61 | [Puppet Parade](https://open.spotify.com/track/1wK0EaN9EAuSNSp3uB3rgs) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Puppet Parade](https://open.spotify.com/album/4c2I5KEpliGFpP3YGY2jMq) | 4:40 |
-| 62 | [WEAPON](https://open.spotify.com/track/0PAQ2onMF2K69b2IYtK8yX) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Somewhere In Between](https://open.spotify.com/album/5KJPUWvsYR8QKCITHAY9zG) | 2:27 |
-| 63 | [Unravel](https://open.spotify.com/track/43fImwroNsNnVKRVz999XF) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Unravel](https://open.spotify.com/album/0selBZxUKunwDGF6MOmVvn) | 2:55 |
+| 62 | [Unravel](https://open.spotify.com/track/43fImwroNsNnVKRVz999XF) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Unravel](https://open.spotify.com/album/0selBZxUKunwDGF6MOmVvn) | 2:55 |
+| 63 | [WEAPON](https://open.spotify.com/track/0PAQ2onMF2K69b2IYtK8yX) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Somewhere In Between](https://open.spotify.com/album/5KJPUWvsYR8QKCITHAY9zG) | 2:27 |
 | 64 | [Sepsis](https://open.spotify.com/track/3ScIZdvkqGTrhW4hZDIL00) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Sepsis](https://open.spotify.com/album/3M2vuwAY3UtNNvGiclTR7V) | 3:38 |
 | 65 | [Bloodlust](https://open.spotify.com/track/0EJ9cdzNwraAU0yzwGL2ZE) | [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Bloodlust](https://open.spotify.com/album/0bgNfjHXv1wHZjvoRlLA0D) | 3:29 |
 | 66 | [DANGEROUS](https://open.spotify.com/track/70RmpH9F7edjr4Q31FYDGa) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [DANGEROUS](https://open.spotify.com/album/7IyRivYKTh7Ius18JMzbmL) | 4:06 |
@@ -95,18 +95,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 | 85 | [Silent Divide](https://open.spotify.com/track/6IoPjy0HGLlNpn7HuhG1kC) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [Silent Divide](https://open.spotify.com/album/1tLqFsA3Cjx6gzC9vageGW) | 5:03 |
 | 86 | [DENIAL](https://open.spotify.com/track/1CD1nPQZfclZTzbEjy5PkU) | [As Everything Unfolds](https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT) | [DENIAL](https://open.spotify.com/album/6ELFIMa34IPv08f6s1iuNj) | 3:25 |
 | 87 | [Gladrags](https://open.spotify.com/track/34ZKtMpAQq4xPVyI2dfXTG) | [The Scratch](https://open.spotify.com/artist/6BCpGC485tSshwjemmeAmd) | [Gladrags](https://open.spotify.com/album/5GjuavL2oQlGOpKFoiLUqZ) | 3:10 |
-| 88 | [Broken and Blind](https://open.spotify.com/track/1UKPDEkYKuqxdItIyaZehC) | [Black Label Society](https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5) | [Broken and Blind](https://open.spotify.com/album/36IfjYBdMiXDTm9vyB3SVj) | 3:12 |
-| 89 | [Iron Gate](https://open.spotify.com/track/3hxOUdnf1zeY2RoH7ozob5) | [Faetooth](https://open.spotify.com/artist/6bAM7jeIX4pI5lZ0QoSZjt) | [Labyrinthine](https://open.spotify.com/album/3WOLRTjNMQBPzHB1wgFYev) | 4:01 |
+| 88 | [Iron Gate](https://open.spotify.com/track/3hxOUdnf1zeY2RoH7ozob5) | [Faetooth](https://open.spotify.com/artist/6bAM7jeIX4pI5lZ0QoSZjt) | [Labyrinthine](https://open.spotify.com/album/3WOLRTjNMQBPzHB1wgFYev) | 4:01 |
+| 89 | [Broken and Blind](https://open.spotify.com/track/1UKPDEkYKuqxdItIyaZehC) | [Black Label Society](https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5) | [Broken and Blind](https://open.spotify.com/album/36IfjYBdMiXDTm9vyB3SVj) | 3:12 |
 | 90 | [Nerve](https://open.spotify.com/track/7axsqaUbWaD2MMnIiJUv36) | [Orbit Culture](https://open.spotify.com/artist/7k29FbDq69ju2fe6zTskxY) | [Nerve](https://open.spotify.com/album/4BbTiIHFLWEkqabIVpDDDE) | 5:52 |
 | 91 | [Bloodsport](https://open.spotify.com/track/66wM8T14qRselu34qFBhC2) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [Pain to Power](https://open.spotify.com/album/6wymdowW8HbQ4H3nVs93Hj) | 3:42 |
-| 92 | [GASOLINE](https://open.spotify.com/track/4HGEwC9WRC2NMVtIkaC5ye) | [As Everything Unfolds](https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT) | [GASOLINE](https://open.spotify.com/album/2ZL64l82SA1HN5EX06b4Kg) | 3:08 |
-| 93 | [Killher](https://open.spotify.com/track/73fQhw7b0rTJa73YnxGeXZ) | [RinRin](https://open.spotify.com/artist/4O4yXhwbHmxOv9csGeu6qq) | [The Nut House](https://open.spotify.com/album/0HFpKIG41ZlcUkODU4Smns) | 3:21 |
+| 92 | [Killher](https://open.spotify.com/track/73fQhw7b0rTJa73YnxGeXZ) | [RinRin](https://open.spotify.com/artist/4O4yXhwbHmxOv9csGeu6qq) | [The Nut House](https://open.spotify.com/album/0HFpKIG41ZlcUkODU4Smns) | 3:21 |
+| 93 | [GASOLINE](https://open.spotify.com/track/4HGEwC9WRC2NMVtIkaC5ye) | [As Everything Unfolds](https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT) | [GASOLINE](https://open.spotify.com/album/2ZL64l82SA1HN5EX06b4Kg) | 3:08 |
 | 94 | [Twilight Cabaret](https://open.spotify.com/track/5SMh3O6GhEN31zwLfiqTqK) | [Battle Beast](https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize) | [Steelbound](https://open.spotify.com/album/2729tzbbE6CeRuFmbGOUry) | 3:55 |
 | 95 | [NO LIES.](https://open.spotify.com/track/6B535fHF5M5BG9NZZevMl7) | [paradise fell.](https://open.spotify.com/artist/6xiHXeTXBiPw7J9w85oye3) | [NO LIES.](https://open.spotify.com/album/6OQshUiS1eZqvP1y28fqvh) | 3:26 |
 | 96 | [Lay Down Your Soul](https://open.spotify.com/track/07dB6A1bWXRvVbmPDlU0FQ) | [Venom](https://open.spotify.com/artist/5fwaejlOHVBAw1KhIPPaQe) | [Lay Down Your Soul](https://open.spotify.com/album/2uhPWdogsliFDsq2OBme4F) | 3:13 |
 | 97 | [Moths](https://open.spotify.com/track/71Rgf3kRwb7ReVASnkNAkz) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Blood Dynasty \(Expanded Deluxe Edition\)](https://open.spotify.com/album/1fRRVExZOrOXIdu0RgUGtY) | 4:01 |
 | 98 | [Everybody Knows](https://open.spotify.com/track/4uHsDdr65dajDR7zuc7336) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [Everybody Knows](https://open.spotify.com/album/13gb5lKK6fIsAEYMzEg9Qs) | 3:19 |
 | 99 | [Thoroughbreds](https://open.spotify.com/track/1c4Oq2SYTnRzt1gg4zCl9q) | [Poison The Well](https://open.spotify.com/artist/71t8oi0TjZ9Op6JRrVqaBx) | [Thoroughbreds](https://open.spotify.com/album/5RhKFclwguoGY9QTRmKA0g) | 3:24 |
-| 100 | [Dominate](https://open.spotify.com/track/5R0uszDwzrAEtxMgTwoIbt) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Dominate](https://open.spotify.com/album/17qRjBxoYcA3joNL4d6EzZ) | 3:14 |
+| 100 | [Who You Are](https://open.spotify.com/track/0j9t178RM9qytMVpOFbIqO) | [KIDPUNK](https://open.spotify.com/artist/6QUkxY9FkBh9XF4qCbaABt) | [Who You Are](https://open.spotify.com/album/1mNzsgisaSwRHy5gwrVCNJ) | 2:36 |
 
 Snapshot ID: `AAAAACyEJqviHnXL78y+tcaMfWxA6O3E`

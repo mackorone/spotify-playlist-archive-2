@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: The Strokes
 
-1,967 songs - 4 day 18 hr 3 min
+1,968 songs - 4 day 18 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [A Fragile Thing](https://open.spotify.com/track/17k0Dwj1nr2VnES26230lJ) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [A Fragile Thing](https://open.spotify.com/album/0AWjjB8tla6JjP2XQzKS9l) | 4:43 | 2024-10-10 | 2024-12-19 |
 | [A Kiss for the Whole World x](https://open.spotify.com/track/1LAuVHMWdVkdbNmSVXWw2K) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [A Kiss for the Whole World](https://open.spotify.com/album/5bTSXCOLlIH6gsOvuI3PCI) | 3:31 | 2023-04-20 | 2023-04-28 |
 | [A Kiss for the Whole World x](https://open.spotify.com/track/28kdCguOw9S30DVMRhL3uh) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [A Kiss for the Whole World](https://open.spotify.com/album/54ueM4SD9fr9VTYeXJc8xp) | 3:31 | 2023-04-20 | 2023-04-22 |
-| [A Light That Waits](https://open.spotify.com/track/58gVmfPYnafwxolIaPPqDo) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [A Light That Waits](https://open.spotify.com/album/6KCQ2KCGBL9dByWTy4Qdh6) | 3:23 | 2026-01-29 |  |
+| [A Light That Waits](https://open.spotify.com/track/58gVmfPYnafwxolIaPPqDo) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [A Light That Waits](https://open.spotify.com/album/6KCQ2KCGBL9dByWTy4Qdh6) | 3:23 | 2026-01-29 | 2026-04-12 |
 | [A Little Bit Happy](https://open.spotify.com/track/0QligzLNiKkIKW1Ea2MFHt) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [A Little Bit Happy](https://open.spotify.com/album/1sijQqTWjxFFCYg71WR0oh) | 3:15 | 2023-06-22 | 2023-12-24 |
 | [A Little Bit Of Your Love](https://open.spotify.com/track/45i63OHmiclVbkmM3piK3B) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Indian Burn](https://open.spotify.com/album/0IChffToKdKcuJTlz5H7AI) | 3:15 | 2024-02-29 | 2024-03-08 |
 | [A Little Too High](https://open.spotify.com/track/07UhkkoVZLfX0khL5UzpoZ) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [No Rain, No Flowers](https://open.spotify.com/album/3GP6fZgniD9cydeW0nwEe4) | 3:37 | 2025-08-08 | 2025-09-12 |
@@ -934,7 +934,7 @@
 | [KiSS OF DEATH](https://open.spotify.com/track/1rnNzNbx6Upu7PNXTVgCDE) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/7BoulOzl9ZKbDG1wc1ZyP3) | 3:52 | 2023-09-07 | 2023-09-09 |
 | [KiSS OF DEATH](https://open.spotify.com/track/3vv2Mr8J2jGPjFOPiaTwic) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [KiSS OF DEATH](https://open.spotify.com/album/0B5D8P1aZ82QMKjDr361Vg) | 3:52 | 2023-09-08 | 2023-09-29 |
 | [Kiss Ur Face Forever](https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Kiss Ur Face Forever](https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s) | 2:46 | 2023-08-03 | 2023-08-18 |
-| [KISSBURN](https://open.spotify.com/track/06PLaIZyj917CnrwaJ3USU) | [Bye Parula](https://open.spotify.com/artist/3CokWxStGaVakZGwOmIZjm) | [KISSBURN](https://open.spotify.com/album/5Q7FMsEUK0Cc35gxZqZDaT) | 3:12 | 2026-03-12 | 2026-04-06 |
+| [KISSBURN](https://open.spotify.com/track/06PLaIZyj917CnrwaJ3USU) | [Bye Parula](https://open.spotify.com/artist/3CokWxStGaVakZGwOmIZjm) | [KISSBURN](https://open.spotify.com/album/5Q7FMsEUK0Cc35gxZqZDaT) | 3:12 | 2026-03-12 |  |
 | [kisses](https://open.spotify.com/track/7LuPjGUfJqxuW14W4gMrU2) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [everything is alive](https://open.spotify.com/album/2jSmcj39eQiU76EbMGuxS0) | 3:57 | 2024-02-08 | 2024-03-01 |
 | [Knights of Jahannam](https://open.spotify.com/track/5hFOWZO8xzX0sQayxyUHR0) | [The Panturas](https://open.spotify.com/artist/1eblwVFP5H4whVZrYmXQLl) | [Knights of Jahannam / Soma Gospel](https://open.spotify.com/album/718mLwYhZMgjweBEFycTqz) | 3:29 | 2025-07-31 | 2025-08-10 |
 | [Knik](https://open.spotify.com/track/1JQN3gqqNUV83MeN8OLZax) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [SHISH](https://open.spotify.com/album/7pbhvtNUvp160w3qgtwCCg) | 5:38 | 2025-11-20 | 2025-11-27 |
@@ -1399,6 +1399,7 @@
 | [Riptides](https://open.spotify.com/track/34HWkEfh1KRkw5hReCVtcz) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Riptides](https://open.spotify.com/album/5GBDzuHE3dMAauYKN8FvrN) | 3:17 | 2026-03-19 |  |
 | [Rise Up](https://open.spotify.com/track/3wEKXWiYq3h4MCDJZiny0S) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Rise Up](https://open.spotify.com/album/6eDKKi7HgzlGQQM8F67og7) | 3:16 | 2023-12-14 | 2024-02-17 |
 | [Rise Up Singing](https://open.spotify.com/track/3VZXbrdQnGkt9gUwosnKM0) | [Paul Weller](https://open.spotify.com/artist/7Lf3LOZp3U3u2f6cWMd3AH) | [Rise Up Singing](https://open.spotify.com/album/6eNJoilR2M8wVoMDDQdoRm) | 3:02 | 2024-04-04 | 2024-04-19 |
+| [ROCK BOTTOM](https://open.spotify.com/track/0jZFZA3lTGL5SM3GEgNGSy) | [Bilmuri](https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89) | [KINDA HARD](https://open.spotify.com/album/6bJif35DxJzpXob5HfMzqU) | 2:47 | 2026-04-09 |  |
 | [Rock Bottom](https://open.spotify.com/track/4IMUNFZqhkRJp7X8PAOrZ9) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Rock Bottom / Octopus](https://open.spotify.com/album/6QtKyp4Hgq87SA1sV5b52d) | 4:10 | 2026-03-12 | 2026-04-03 |
 | [Rock N Roll Heart](https://open.spotify.com/track/4kCj379OwHRAlibAIX2gXl) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Rock N Roll Heart](https://open.spotify.com/album/1HomQzn39w5HzxMDHtuUZ7) | 3:47 | 2023-06-30 | 2023-07-07 |
 | [Rock n' Roll Star](https://open.spotify.com/track/2ScXh7LmiWNnQAfJbyRGr2) | [OKAMOTO'S](https://open.spotify.com/artist/3X1afU2VL6MV0AJacARH7T), [ROY](https://open.spotify.com/artist/3iKOpAmh3GBJdjXi9RcE6a) | [Rock n' Roll Star](https://open.spotify.com/album/6gNpGgAlZMddZCXlO4d2x3) | 2:56 | 2023-06-22 | 2023-07-07 |
@@ -1682,7 +1683,7 @@
 | [The Laugh Track](https://open.spotify.com/track/2B2r9ZYdlvntDcwmYydnsx) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [The Laugh Track](https://open.spotify.com/album/6uo9LWc5MS8CZ2QWFMEyrz) | 3:15 | 2025-10-09 | 2026-03-13 |
 | [The Matrix](https://open.spotify.com/track/0bpmBKuehVqxXeYtdeTqEG) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [The Matrix](https://open.spotify.com/album/6gqw69YjxD8oXGZ2rp1pPd) | 3:21 | 2023-11-02 | 2023-11-17 |
 | [the mom song](https://open.spotify.com/track/1ll3KUyYBk2TQrOWQQ4ICV) | [audalei](https://open.spotify.com/artist/5kVRPeQHKUoQ7ooGlewyXP) | [the mom song](https://open.spotify.com/album/46E1IiLWBHCyrXxZNn0ZbI) | 2:32 | 2024-01-04 | 2024-01-12 |
-| [The Monsters of Pig Alley](https://open.spotify.com/track/3VJXO5CI2npzuyBoctCQKQ) | [Morrissey](https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ) | [Make\-up is a Lie](https://open.spotify.com/album/6A40Ozbw7pFO7HBeKHkxs2) | 4:57 | 2026-03-12 |  |
+| [The Monsters of Pig Alley](https://open.spotify.com/track/3VJXO5CI2npzuyBoctCQKQ) | [Morrissey](https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ) | [Make\-up is a Lie](https://open.spotify.com/album/6A40Ozbw7pFO7HBeKHkxs2) | 4:57 | 2026-03-12 | 2026-04-12 |
 | [The Narcissist](https://open.spotify.com/track/2TNyNqT3RBXhtNV7OiAgiC) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Ballad of Darren](https://open.spotify.com/album/0gIZSG9WUDO3TK0B5y7UtU) | 4:05 | 2023-10-12 | 2023-10-27 |
 | [The Narcissist](https://open.spotify.com/track/35d93v9AXADp8Wc0qJ3mIo) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Narcissist](https://open.spotify.com/album/2BfpnbY3M0oc9NyW87NKGz) | 4:05 | 2023-05-18 | 2023-09-15 |
 | [The Night Before](https://open.spotify.com/track/4kawArrYyru9uT0phHxWKt) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [The Night Before](https://open.spotify.com/album/3rEd1OxnsM8XPKp5LgVI6O) | 2:34 | 2025-02-06 | 2025-04-29 |

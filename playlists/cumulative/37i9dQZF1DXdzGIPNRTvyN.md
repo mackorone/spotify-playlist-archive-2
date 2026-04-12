@@ -4,7 +4,7 @@
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-494 songs - 23 hr 9 min
+496 songs - 23 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Benevolent](https://open.spotify.com/track/3Eq3PQV5GeqlmzqmcH1lJa) | [Waking Up Inside](https://open.spotify.com/artist/2nFUQ65Yx9UWldBxOmBKlG) | [Benevolent](https://open.spotify.com/album/41Mu0iwQolq2DhBo2VdAEP) | 2:24 | 2026-04-03 |  |
 | [Bewilderment](https://open.spotify.com/track/7JmTFcW5KDPZZyJyXHIgbE) | [Waves Of Wonder](https://open.spotify.com/artist/57lCW38CVKbL9zWSy7Ewpn) | [Bewilderment](https://open.spotify.com/album/0DrHkO9AXh9JRrpKSSMwTi) | 2:15 | 2026-02-18 |  |
 | [big blue](https://open.spotify.com/track/5OdMECOOVFwGSAoXW67gt9) | [drift in blue](https://open.spotify.com/artist/7Fdf7Z7Yu68K726WE64Ifv) | [floating in circles](https://open.spotify.com/album/3BoCsNBuT1umaQwO9ilAtN) | 2:32 | 2026-03-16 | 2026-04-04 |
+| [Birds In The Cul\-De\-Sac](https://open.spotify.com/track/6Vv7pOvG9e8zFWOwIKJTqA) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Birds In The Cul\-De\-Sac](https://open.spotify.com/album/7sUigBnrLRsr8JD3oCVNfq) | 1:05 | 2026-04-03 |  |
 | [Blooming Flowers](https://open.spotify.com/track/713dLHQqGsLpHRxOyZfQsS) | [Ari Einarsson](https://open.spotify.com/artist/4phG0P0DDFhm0ZORDBMaSk) | [Blooming Flowers](https://open.spotify.com/album/041bD9COQS0TGAsZCNFUJg) | 2:55 | 2025-10-01 |  |
 | [Blue River Hills](https://open.spotify.com/track/1Qp4ZHQYLCH3PjVvmKGuaS) | [Nolan West](https://open.spotify.com/artist/25DKElOUj8NYekti1LTyzS) | [Blue River Hills](https://open.spotify.com/album/5HJiGeDUsdAuouuEOVPZH9) | 2:37 | 2026-04-03 |  |
 | [Blue Shadows](https://open.spotify.com/track/1S5UW31xDfoNW3Tc7rNyKp) | [Maira](https://open.spotify.com/artist/6x0Xdy7LgcYtyIWBG7CA04) | [Blue Shadows](https://open.spotify.com/album/1Iy98GEoDPSUJHx6iIKh5E) | 2:52 | 2025-03-14 | 2026-03-17 |
@@ -138,6 +139,7 @@
 | [Eternal Now](https://open.spotify.com/track/4QQ8n1F9MwBLHnemQCoYob) | [Knot Released](https://open.spotify.com/artist/6uS1WmBHW9aJl8NkxoNaZY) | [Eternal Now](https://open.spotify.com/album/2Z1tt4Z8Jx6EGdZSAcuWoN) | 2:14 | 2026-04-03 |  |
 | [Eternal River](https://open.spotify.com/track/51WiXO31Qb04gRsfVJWroH) | [Nature Pulse](https://open.spotify.com/artist/70vUxFU28oeZCt4GremOQ0) | [Eternal River](https://open.spotify.com/album/1zPQvxhdklIdXN7hJlv0NV) | 2:37 | 2026-03-16 |  |
 | [Eternally](https://open.spotify.com/track/6ee3Zz8m66BxfnB4ARUWSA) | [Norröga](https://open.spotify.com/artist/6k2rfOW9DnWyV4cKXkfjMw) | [Eternally](https://open.spotify.com/album/4ZXUEUdcDJEqKwdtXFxojg) | 3:04 | 2025-12-18 |  |
+| [Everbound](https://open.spotify.com/track/3ukMCHjdNl8qExi9R9cydc) | [Lore](https://open.spotify.com/artist/5iAmH8roFlCIzK73jFSV5G) | [Everbound](https://open.spotify.com/album/173m3DmZedeHBdzJFY6Sws) | 2:54 | 2026-04-03 |  |
 | [Everyday Wonders & Sunday Mornings](https://open.spotify.com/track/1TBF5kZA7FR0e70lEuyr43) | [Josef Homola](https://open.spotify.com/artist/01Mll8wovVOj5XaWVanxkB) | [Sunday Mornings XXI](https://open.spotify.com/album/3UzefjAhmOfaPoySM0gHR4) | 2:18 | 2023-01-24 | 2024-11-29 |
 | [Everything's okay](https://open.spotify.com/track/2SZ2yUWp0iHGFetUo5MJay) | [RA\-UL](https://open.spotify.com/artist/2JeqxmyESYTBLsPY9Xvdjt) | [Everything's okay](https://open.spotify.com/album/0eXgqijm4ijx968hQbO3uG) | 3:07 | 2023-01-24 | 2023-05-20 |
 | [Far Away](https://open.spotify.com/track/3vnJ6sp5LZC3FrvWovd1Bn) | [Ani](https://open.spotify.com/artist/3W5apiMDqy6v6ai4tP3SkX) | [Far Away](https://open.spotify.com/album/1i1qbq7Toqfq84FClzRrUK) | 2:49 | 2026-04-03 |  |
@@ -307,7 +309,7 @@
 | [Northwest](https://open.spotify.com/track/7L448q1PmOLAczKmDNkVXv) | [Waveframe](https://open.spotify.com/artist/6qllkUXzVK9b2C1HRVsp2T) | [Northwest](https://open.spotify.com/album/4zRVDtjiuzE8tcuMQNmmSa) | 2:38 | 2025-05-16 | 2025-10-02 |
 | [Oasis](https://open.spotify.com/track/1pGHWehHrHz09Ehjwtl3DG) | [Inner Purpose](https://open.spotify.com/artist/5Oy46V4li9PKCzp6bBxxd7) | [Oasis](https://open.spotify.com/album/1dOa9Yi7Rt5QP1JHDrmjwJ) | 2:51 | 2024-01-18 | 2025-04-30 |
 | [Oasis](https://open.spotify.com/track/7C8Rz0cs00PxqLFNK8M7Ni) | [Moon Garden](https://open.spotify.com/artist/3BXLBEYS53k3FXlvHUJsw7) | [Oasis](https://open.spotify.com/album/1MM6e5be6yMO3nFcobJFDQ) | 2:04 | 2023-08-18 | 2026-02-12 |
-| [Of Dreams](https://open.spotify.com/track/5NNzFE3bBtnld4aCc6cg3s) | [Kal Koren](https://open.spotify.com/artist/48ZAcUtJjaZZ0OZstH5X4v) | [Of Dreams](https://open.spotify.com/album/1rLMWKKbiR0yf3jAeoBlp4) | 3:03 | 2025-05-16 |  |
+| [Of Dreams](https://open.spotify.com/track/5NNzFE3bBtnld4aCc6cg3s) | [Kal Koren](https://open.spotify.com/artist/48ZAcUtJjaZZ0OZstH5X4v) | [Of Dreams](https://open.spotify.com/album/1rLMWKKbiR0yf3jAeoBlp4) | 3:03 | 2025-05-16 | 2026-04-12 |
 | [Only you](https://open.spotify.com/track/3CqQsTiEYjy3LQXvxmdBws) | [Moon Swan](https://open.spotify.com/artist/2VGICkSc7ni1sr0orWXLo0) | [Only You](https://open.spotify.com/album/12UfG7di9fD2S65HGnlslw) | 3:00 | 2023-07-28 | 2025-08-14 |
 | [Onwards](https://open.spotify.com/track/0Hzikv1GwB1MdJwqFl9iVf) | [Sinnesro](https://open.spotify.com/artist/3CHM9Tbf0hM4MBzWGAcGPc) | [Onwards](https://open.spotify.com/album/2ViDH9sOAqf6poxE0d3aMz) | 2:44 | 2025-10-24 |  |
 | [Open Windows](https://open.spotify.com/track/0haM4uUy5Gl0qVdyn6csKG) | [Leonore Baldwin](https://open.spotify.com/artist/6ZlHe1gzZkHFr83kgRkxNA) | [Open Windows](https://open.spotify.com/album/2ieEchgcw6pTWoQSpNPDt7) | 2:42 | 2023-01-24 | 2024-08-23 |
@@ -466,7 +468,7 @@
 | [The Universe Whitin \(Nature Sounds\)](https://open.spotify.com/track/3LK95mRAhmD7mSDKj1qDQq) | [Prophétique](https://open.spotify.com/artist/4uhsb1EuCyjawRUy9RXt6v) | [The Universe Within](https://open.spotify.com/album/0XVYHXKxNHRGjUGfUN8ukA) | 2:13 | 2023-03-28 |  |
 | [The View & Sunday Mornings](https://open.spotify.com/track/4d7JV9GmoojG8Rz9qDMrxy) | [Josef Homola](https://open.spotify.com/artist/01Mll8wovVOj5XaWVanxkB) | [Sunday Mornings XX](https://open.spotify.com/album/6xIXhRLZjOFKZjFknsfVtP) | 2:21 | 2023-01-24 | 2024-12-13 |
 | [The Way I Am & Sunday Mornings](https://open.spotify.com/track/5oUzKkdvWBoX6B0slLHZX7) | [Josef Homola](https://open.spotify.com/artist/01Mll8wovVOj5XaWVanxkB) | [Sunday Mornings XXVIII](https://open.spotify.com/album/6xyFTbKHD0jolOCX5KstzK) | 1:07 | 2023-01-24 | 2023-12-14 |
-| [Thought Blanket \(Spa\)](https://open.spotify.com/track/3CRamP6ljvQYdmN5w1afQg) | [Waves Of Sine](https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt) | [Thought Blanket \(Spa\)](https://open.spotify.com/album/1x38SybytpZIkMTXZxYV2l) | 2:38 | 2026-03-16 |  |
+| [Thought Blanket \(Spa\)](https://open.spotify.com/track/3CRamP6ljvQYdmN5w1afQg) | [Waves Of Sine](https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt) | [Thought Blanket \(Spa\)](https://open.spotify.com/album/1x38SybytpZIkMTXZxYV2l) | 2:38 | 2026-03-16 | 2026-04-12 |
 | [Thoughts Outside My Window](https://open.spotify.com/track/0nM5PzquYJRtbWEwnc0q2t) | [Joan Abe](https://open.spotify.com/artist/3c526c367gWjgUMPxUF5pi) | [Thoughts Outside My Window](https://open.spotify.com/album/4pOfZ2daBo1XvcUucRYtyc) | 2:27 | 2026-04-03 |  |
 | [Through the Forest](https://open.spotify.com/track/0oTdeagIaeCFi6f5kypFsm) | [Forest Gold](https://open.spotify.com/artist/12Lj4bvVL57SoslmmpalNU) | [Through the Forest](https://open.spotify.com/album/4gWWUsdWzGa7ieooBBZKSO) | 3:02 | 2025-04-29 |  |
 | [Time](https://open.spotify.com/track/0NCu83mnrKzJRpWdgtgJ3d) | [Mjukare](https://open.spotify.com/artist/3EPVUUtw45SMtLy90Inn8j) | [Time](https://open.spotify.com/album/7nDQYVGnsHuy1OQzqPiZRn) | 2:09 | 2025-04-29 |  |

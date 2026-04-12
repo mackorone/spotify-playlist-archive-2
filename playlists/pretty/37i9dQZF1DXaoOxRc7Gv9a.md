@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoOxRc7Gv9a.md) - [plain]
 
 > Enjoy the sound track of Still Shining with memorable lines from the show \(샤이닝의 사운드 트랙을 대사와 함께 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 251 likes - 30 songs - 58 min 7 sec
+[Spotify](https://open.spotify.com/user/spotify) - 279 likes - 30 songs - 58 min 7 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoOxRc7Gv9a.md) - [plain]
 | 29 | [A Heart That I Can’t Hold](https://open.spotify.com/track/5xp5hHDBNjv7iAApoGslRf) | [Nam Hye Seung](https://open.spotify.com/artist/1vOJqsD0H57xUKg9IcknD9), [Park Sang Hee](https://open.spotify.com/artist/1icVxSPmme4DhN7q0HTM5p) | [Still Shining OST](https://open.spotify.com/album/4Drx72QTTUQ9J8IlWattKB) | 1:32 |
 | 30 | [Sunbeam through the trees](https://open.spotify.com/track/3bYeLUHgysX4uwi8bxx1QA) | [Jo Han Na](https://open.spotify.com/artist/6SBoY6UJqMVKen88gLWP8m) | [Still Shining OST](https://open.spotify.com/album/4Drx72QTTUQ9J8IlWattKB) | 1:17 |
 
-Snapshot ID: `AAAAAFxVCGmiys4mcM9oo6HrMtp6K4JZ`
+Snapshot ID: `AAAAAPsn2NDWyD2NXWTZksPuuJC9Ajhc`

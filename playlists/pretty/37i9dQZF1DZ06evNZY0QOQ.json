@@ -1,12 +1,12 @@
 {
   "description": "This is CKay. The essential tracks, all in one playlist.",
-  "num_followers": 24095,
+  "num_followers": 24100,
   "original_name": "This Is CKay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adbsAAAAAADLOZZTgCo8CBoGUhF5mHaW",
+  "snapshot_id": "adg9gAAAAAASQMYFRi7zP7Fv2j/VXJG2",
   "tracks": [
     {
       "added_at": null,
@@ -207,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boyfriend",
-        "url": "https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 176320,
-      "name": "Jeje de Whine",
-      "url": "https://open.spotify.com/track/3IKW5FVGMa3a45ZNHc6jxy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Better Time",
         "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 187893,
       "name": "La La (feat. Ckay)",
       "url": "https://open.spotify.com/track/53PewZvhksjF9EynzsBnAR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boyfriend",
+        "url": "https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 176320,
+      "name": "Jeje de Whine",
+      "url": "https://open.spotify.com/track/3IKW5FVGMa3a45ZNHc6jxy"
     },
     {
       "added_at": null,
@@ -675,6 +675,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "CKay The Second",
+        "url": "https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 172619,
+      "name": "tey tey",
+      "url": "https://open.spotify.com/track/2rnfU3akycNpzV0hSXdkGG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Age of Pleasure",
         "url": "https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 169986,
       "name": "Know Better (feat. CKay, Seun Kuti & Egypt 80)",
       "url": "https://open.spotify.com/track/0pSIOwm8Jz5iMj3nR2rllq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CKay The Second",
-        "url": "https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 172619,
-      "name": "tey tey",
-      "url": "https://open.spotify.com/track/2rnfU3akycNpzV0hSXdkGG"
     },
     {
       "added_at": null,
@@ -759,6 +759,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "CKay The Second",
+        "url": "https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 160429,
+      "name": "say no more",
+      "url": "https://open.spotify.com/track/6b6KwJ5Ig1SmOKM9cD3Bem"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Boyfriend",
         "url": "https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 208372,
       "name": "Mezebu (feat. Oxlade & KiDi)",
       "url": "https://open.spotify.com/track/69n4ie3SRkt4uPYG3RYFOl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CKay The Second",
-        "url": "https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 160429,
-      "name": "say no more",
-      "url": "https://open.spotify.com/track/6b6KwJ5Ig1SmOKM9cD3Bem"
     },
     {
       "added_at": null,
@@ -832,25 +832,9 @@
           "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
         }
       ],
-      "duration_ms": 152920,
-      "name": "MYSTERIOUS LOVE",
-      "url": "https://open.spotify.com/track/6E60TB6THcK8aglk78MHbS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CKay The First",
-        "url": "https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 159813,
-      "name": "kalakuta",
-      "url": "https://open.spotify.com/track/0X5yARwJLSCTFhuJTSXvFU"
+      "duration_ms": 183652,
+      "name": "IS IT YOU?",
+      "url": "https://open.spotify.com/track/3xmnR9kblvHlUWY2YDWkrE"
     },
     {
       "added_at": null,
@@ -867,6 +851,22 @@
       "duration_ms": 175615,
       "name": "permit me",
       "url": "https://open.spotify.com/track/0UdlBInYiNqclTU4bGm7dN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CKay The First",
+        "url": "https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 159813,
+      "name": "kalakuta",
+      "url": "https://open.spotify.com/track/0X5yARwJLSCTFhuJTSXvFU"
     },
     {
       "added_at": null,
@@ -900,29 +900,9 @@
           "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
         }
       ],
-      "duration_ms": 183652,
-      "name": "IS IT YOU?",
-      "url": "https://open.spotify.com/track/3xmnR9kblvHlUWY2YDWkrE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CKay The First",
-        "url": "https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        },
-        {
-          "name": "Dj Lambo",
-          "url": "https://open.spotify.com/artist/6UJMc7CLW0JpsbdIke13nU"
-        }
-      ],
-      "duration_ms": 152066,
-      "name": "way (feat. DJ Lambo)",
-      "url": "https://open.spotify.com/track/1aFnU8fcGS9EHUh36DJ8Ml"
+      "duration_ms": 152920,
+      "name": "MYSTERIOUS LOVE",
+      "url": "https://open.spotify.com/track/6E60TB6THcK8aglk78MHbS"
     },
     {
       "added_at": null,
@@ -947,6 +927,26 @@
       "duration_ms": 222604,
       "name": "FANTASY",
       "url": "https://open.spotify.com/track/6ylNT9nQLTOglCEHqvFnGo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CKay The First",
+        "url": "https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        },
+        {
+          "name": "Dj Lambo",
+          "url": "https://open.spotify.com/artist/6UJMc7CLW0JpsbdIke13nU"
+        }
+      ],
+      "duration_ms": 152066,
+      "name": "way (feat. DJ Lambo)",
+      "url": "https://open.spotify.com/track/1aFnU8fcGS9EHUh36DJ8Ml"
     },
     {
       "added_at": null,

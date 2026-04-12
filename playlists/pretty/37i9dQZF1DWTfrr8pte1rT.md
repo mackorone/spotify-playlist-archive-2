@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfrr8pte1rT.md) - [plain]
 
 > Rock with a Drop\. Cover: Rezz \\m/
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,139 likes - 125 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,203 likes - 125 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfrr8pte1rT.md) - [plain]
 | 73 | [Guts](https://open.spotify.com/track/5cEgck20T0z74Ta9CZnGP3) | [Ellie Dixon](https://open.spotify.com/artist/4mvJltDSlBawXCZhq6NAso) | [Guts](https://open.spotify.com/album/5EbGb97EmI0PrYWH7rNFhi) | 2:06 |
 | 74 | [Reasons](https://open.spotify.com/track/5cqOmjN3auHvZlhbebzKQx) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc), [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [Reasons](https://open.spotify.com/album/3WzQWDcaxWTvBMGnZP5u0v) | 4:00 |
 | 75 | [Sacrificial](https://open.spotify.com/track/5YvYKEQEYJp4orh4z3Dnpk) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [Sacrificial](https://open.spotify.com/album/66jlZyvN4g2VBo9RNDYrOS) | 3:02 |
-| 76 | [CHOKE \(with grandson & Zero 9:36\)](https://open.spotify.com/track/3AV8nyFN5AgejU5DZI9wKl) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4), [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [CHOKE](https://open.spotify.com/album/6AovsGSkC91dKnj7rXeK0z) | 2:40 |
-| 77 | [Rescue Me](https://open.spotify.com/track/5dLP5JbgWGZttnUv4NFJeg) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Rescue Me](https://open.spotify.com/album/62Ue60s1T4isvLz36lrqhO) | 3:57 |
+| 76 | [Rescue Me](https://open.spotify.com/track/5dLP5JbgWGZttnUv4NFJeg) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Rescue Me](https://open.spotify.com/album/62Ue60s1T4isvLz36lrqhO) | 3:57 |
+| 77 | [CHOKE \(with grandson & Zero 9:36\)](https://open.spotify.com/track/3AV8nyFN5AgejU5DZI9wKl) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4), [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [CHOKE](https://open.spotify.com/album/6AovsGSkC91dKnj7rXeK0z) | 2:40 |
 | 78 | [Industrial Strain](https://open.spotify.com/track/3H1Er6tmf4akNcWW0iIRaj) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Higher Ground \(Part 1\)](https://open.spotify.com/album/0ZYsPQxRA80y5bEwlLQWmz) | 3:46 |
 | 79 | [Unbound](https://open.spotify.com/track/5pUO56AVaHEO685BLIBsVt) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Unbound](https://open.spotify.com/album/1kyiRmLqB55GTGA0fPqlyi) | 3:47 |
 | 80 | [Signal](https://open.spotify.com/track/1RcKEwbDLoLLkwCng0DzZq) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Signal](https://open.spotify.com/album/6cEiwSWxau10hGkDHsYbhj) | 3:14 |
@@ -132,6 +132,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfrr8pte1rT.md) - [plain]
 | 122 | [The Wild Hunt](https://open.spotify.com/track/5ND25ZCEXxfAr6BFPQ5wvu) | [YMIR](https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD) | [The Wild Hunt](https://open.spotify.com/album/0QvtHIbiF4ykReZATPi4km) | 3:18 |
 | 123 | [Get To U](https://open.spotify.com/track/7J5d8EHVjEYbMgOXGi0PKD) | [Papa Khan](https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM) | [Get To U](https://open.spotify.com/album/7vKLfc4WO47NIDIrXOUqDB) | 2:56 |
 | 124 | [FEEL THE RAGE](https://open.spotify.com/track/1oiWd6ShFvTmp8IXwcfpwz) | [SNAILS](https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6), [Uncured](https://open.spotify.com/artist/6YicvYF7Qo1FxNt903gAMh) | [FEEL THE RAGE](https://open.spotify.com/album/0GCSrc22Kdti0WbJWGET7p) | 3:25 |
-| 125 | [iF\_i\_FaLL](https://open.spotify.com/track/12O1jHrTRLaQE2fWeZatIz) | [Silos](https://open.spotify.com/artist/4qKGqODmx9zKc4zCvsr6d9), [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX), [HIGHSOCIETY](https://open.spotify.com/artist/32MQN2sITkJGNQN40QLPEa), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [iF\_i\_FaLL](https://open.spotify.com/album/4nWbYRHt7G99SEg5dAyW89) | 3:55 |
+| 125 | [Bad Blood \- Weird Genius Remix](https://open.spotify.com/track/1ztPHFuEadFj9SdFPsD1HQ) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ), [Weird Genius](https://open.spotify.com/artist/5B4kCOhcqTywB9YwXPfFtJ) | [Bad Blood \(Weird Genius Remix\)](https://open.spotify.com/album/2YsuUjmQ2ycwqIh6tWmsV4) | 3:17 |
 
 Snapshot ID: `AAAAAETkv3Zo9hMKr0cmr7FJGUhNKdiL`

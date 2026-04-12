@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HC3xQbIKZ8.md) - [plain]
 
 > Pacific reggae, roots rockers\. Relax, you're on island time\. Cover: Myshaan
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,740 likes - 75 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,762 likes - 75 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,9 +78,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HC3xQbIKZ8.md) - [plain]
 | 68 | [One Man Band](https://open.spotify.com/track/0FDQH6KTR00yu047uhHCfS) | [Sione Liti](https://open.spotify.com/artist/5c0jLNILQAaxBObwOUghei), [Canaan Ene](https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA) | [One Man Band](https://open.spotify.com/album/3FCzAUUB9Ldz6kdrKx52OV) | 3:14 |
 | 69 | [One Night](https://open.spotify.com/track/3sj1XIHQwhHxtnUiIHAjPq) | [Sons of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW) | [One Night](https://open.spotify.com/album/3HnSYaFII4be1pYhbzSroJ) | 3:33 |
 | 70 | [Screems from Da Old Plantation](https://open.spotify.com/track/1DPMqbabMHKm8bN04arwK8) | [King Kapisi](https://open.spotify.com/artist/4f3x4YITcuzveAflxCB8Hd) | [Savage Thoughts](https://open.spotify.com/album/6CmbniAwT57Wrg51lAzXL1) | 4:46 |
-| 71 | [They Don't Know](https://open.spotify.com/track/1KoUNUIASLygPUAboZ6rdv) | [Aaradhna](https://open.spotify.com/artist/4CeW2xghttvllIwy4AqNSg), [Savage](https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf) | [Treble & Reverb \(Deluxe Edition\)](https://open.spotify.com/album/77tgpOa06Z8hMeI8hDp3sw) | 3:59 |
+| 71 | [Summertime In Aotearoa](https://open.spotify.com/track/0ovU4fKL5J7V80YNwuqUYg) | [Corrella](https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX) | [Summertime In Aotearoa](https://open.spotify.com/album/6G4gwoemNI7fz9j1l79qVu) | 3:57 |
 | 72 | [Milk & Honey](https://open.spotify.com/track/3FeHLLnTnOvDKuFo46nTKI) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Milk & Honey](https://open.spotify.com/album/2evlCGKSXmun0ByXPY5BY2) | 4:20 |
-| 73 | [Summertime In Aotearoa](https://open.spotify.com/track/0ovU4fKL5J7V80YNwuqUYg) | [Corrella](https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX) | [Summertime In Aotearoa](https://open.spotify.com/album/6G4gwoemNI7fz9j1l79qVu) | 3:57 |
+| 73 | [They Don't Know](https://open.spotify.com/track/1KoUNUIASLygPUAboZ6rdv) | [Aaradhna](https://open.spotify.com/artist/4CeW2xghttvllIwy4AqNSg), [Savage](https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf) | [Treble & Reverb \(Deluxe Edition\)](https://open.spotify.com/album/77tgpOa06Z8hMeI8hDp3sw) | 3:59 |
 | 74 | [Give It To Me](https://open.spotify.com/track/4txRMzYZ1jDyKIQwbZ0tBJ) | [Tomorrow People](https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY), [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ) | [21](https://open.spotify.com/album/78J8bZXTc1Wr7DXg6lyAeg) | 3:33 |
 | 75 | [Slowly](https://open.spotify.com/track/7oaq2kZQXREqCN7flvblov) | [Ismuki](https://open.spotify.com/artist/72C1ypMUqI4dVpwUf601RG), [Chris Young](https://open.spotify.com/artist/24nf3HFgkV1Qer9ZqIPfUB), [Stegga Bwoy](https://open.spotify.com/artist/7Izwcum9BvJfbkQR8CdUPs) | [Slowly](https://open.spotify.com/album/48cDtcnsnRFuhnc7XjSsoI) | 4:24 |
 

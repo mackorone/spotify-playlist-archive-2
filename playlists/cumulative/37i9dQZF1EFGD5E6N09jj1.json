@@ -1563,6 +1563,24 @@
     },
     {
       "album": {
+        "name": "The Moment (The Score)",
+        "url": "https://open.spotify.com/album/1lY7an5G8gMEsIS9vy4pDl"
+      },
+      "artists": [
+        {
+          "name": "A. G. Cook",
+          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
+        }
+      ],
+      "date_added": "2026-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349714,
+      "name": "Dread",
+      "url": "https://open.spotify.com/track/2LUOkfeJeGnQUWNOAzIBFE"
+    },
+    {
+      "album": {
         "name": "Dream Glow (BTS World Original Soundtrack) (Pt. 1)",
         "url": "https://open.spotify.com/album/1CnfThuhzI0hf4b6CJd5rq"
       },

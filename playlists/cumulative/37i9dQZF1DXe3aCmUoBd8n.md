@@ -4,7 +4,7 @@
 
 > Top Sharqi hits right now\. Cover: Bessan Ismail
 
-221 songs - 12 hr 38 min
+222 songs - 12 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Ehtirami](https://open.spotify.com/track/6G7ZvwAVPFyBLwYtBZeIk8) | [Hussein Al Deek](https://open.spotify.com/artist/1QxkWzg3QsYJv6xMXSuVMs) | [Ehtirami](https://open.spotify.com/album/3yvKVLjqfhqsPoUliqRAkW) | 3:49 | 2023-06-13 | 2025-03-21 |
 | [El Bekle](https://open.spotify.com/track/7Ey7TpsXn1ZkrT8ZyQ4Jsa) | [Zef](https://open.spotify.com/artist/5xLrAcC8QXJSik2rLNAR8L), [Stephanie Atala](https://open.spotify.com/artist/3JdUFXhNjJufnoXDwK3rjs) | [El Bekle](https://open.spotify.com/album/142Pz4HXUYVzwlUUUUNAXp) | 3:00 | 2022-06-20 | 2024-02-10 |
 | [El Bint El Awiye](https://open.spotify.com/track/1l3S4j9ksQMh2tKIta1bfw) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [El Bint El Awiye](https://open.spotify.com/album/6TQquIuw9t7upY6tYfFtGF) | 3:34 | 2022-05-04 | 2023-06-28 |
+| [El Ensan](https://open.spotify.com/track/2YFsPzMVVNNS0hk3gGlcZs) | [Naeim AlSheikh](https://open.spotify.com/artist/027a3M0QTLt6odi8qyqXAq) | [El Ensan](https://open.spotify.com/album/4eTWdnzZSFQMHGvTHwE5yw) | 3:12 | 2026-04-11 |  |
 | [El Hob El Hob](https://open.spotify.com/track/4q1zwkAWuwTvJe10jxWuif) | [Mohamed el Majzoub](https://open.spotify.com/artist/154fa6GCqPcTDUCF6BBdHS) | [El Hob El Hob](https://open.spotify.com/album/1z65J61oSJOskywPbemr1y) | 3:38 | 2022-05-04 | 2023-03-14 |
 | [El M3alim \- وديع الشيخ \- المعلم](https://open.spotify.com/track/3AB1VEVI7OvhTb8G5L3UGR) | [Wadih El Cheikh](https://open.spotify.com/artist/6eeAS0L17Rl7edN18yWfFl) | [El M3alim \(وديع الشيخ \- المعلم\)](https://open.spotify.com/album/1ZmeRfx7JcUbRaGAh5uYTF) | 3:54 | 2022-07-04 | 2023-08-26 |
 | [El Waet Hdiye](https://open.spotify.com/track/6lsZjyA5UAA8BYR88rAKNk) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [El Waet Hdiye](https://open.spotify.com/album/2K9R8YE2IyUuwTqQJJzxHi) | 3:16 | 2024-04-23 | 2026-03-07 |
@@ -118,7 +119,7 @@
 | [Lesatni Janbi](https://open.spotify.com/track/5YXQtuKZuWJbdEqwT7IVbI) | [A5rass \- الاخرس](https://open.spotify.com/artist/5xnWZW2Jslqu07aO3gTZA4) | [Lesatni Janbi](https://open.spotify.com/album/2E0LB1TU3vUSuveGhyrjgH) | 4:18 | 2023-03-22 | 2023-05-20 |
 | [Ma B7ebak](https://open.spotify.com/track/3dl5HjZ7kdsvibYRTozyjE) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Ma B7ebak](https://open.spotify.com/album/7jzYoKIXN4FSjA1GZCafAS) | 4:05 | 2022-05-04 | 2023-03-14 |
 | [Ma Byetkarar](https://open.spotify.com/track/4BZl8mgWXlv6v6RsQNaABx) | [Wadih El Cheikh](https://open.spotify.com/artist/6eeAS0L17Rl7edN18yWfFl) | [Ma Byetkarar](https://open.spotify.com/album/3xH3ywXsLQAQUOTk4nt5dJ) | 3:36 | 2023-05-05 | 2024-12-17 |
-| [Ma Fi Leil](https://open.spotify.com/track/7eBCrBVZGlfgbutr8CbqiG) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65), [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [Ma Fi Leil](https://open.spotify.com/album/1Rp9bFeceWXdz8bifip2cM) | 3:57 | 2024-04-23 |  |
+| [Ma Fi Leil](https://open.spotify.com/track/7eBCrBVZGlfgbutr8CbqiG) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65), [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [Ma Fi Leil](https://open.spotify.com/album/1Rp9bFeceWXdz8bifip2cM) | 3:57 | 2024-04-23 | 2026-04-12 |
 | [Ma Tarakna](https://open.spotify.com/track/59UWCOSGrNNrkFUn7rCZtS) | [Saif safadi](https://open.spotify.com/artist/5YOpMW6wgD0l50bK1DBq74) | [Ma Tarakna](https://open.spotify.com/album/7bOBrNOz7Ey6GLfKyBj1a1) | 3:18 | 2023-03-13 | 2024-10-13 |
 | [Madi Aswad](https://open.spotify.com/track/24IyeYzwIGXWBtqqxQ5Kde) | [Mohamed el Majzoub](https://open.spotify.com/artist/154fa6GCqPcTDUCF6BBdHS) | [Madi Aswad](https://open.spotify.com/album/2ZiZGls3VjAKzK7Ga1ZBtw) | 3:17 | 2022-05-04 | 2022-07-17 |
 | [Maleket Gamal El Kon](https://open.spotify.com/track/2UaswhFiFjhWfIBpiVSfEt) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy), [AL SHAMI](https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k) | [Maleket Gamal El Kon](https://open.spotify.com/album/2o3FieURTMsE0wPBPqFogl) | 2:53 | 2025-05-28 |  |

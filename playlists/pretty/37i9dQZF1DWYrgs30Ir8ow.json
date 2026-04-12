@@ -1,6 +1,6 @@
 {
   "description": "Altijd frisse hits! Cover: Yssi SB & KM",
-  "num_followers": 36334,
+  "num_followers": 36333,
   "original_name": "Fresh Hits",
   "owner": {
     "name": "Spotify",
@@ -148,12 +148,12 @@
       },
       "artists": [
         {
-          "name": "Billy Dans",
-          "url": "https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW"
-        },
-        {
           "name": "Mart Hoogkamer",
           "url": "https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa"
+        },
+        {
+          "name": "Billy Dans",
+          "url": "https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW"
         }
       ],
       "duration_ms": 137198,

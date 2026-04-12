@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Juju, Farruko, Lady Gaga, Jazeek, Mike Candys & many more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,551 likes - 98 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,556 likes - 98 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 41 | [Madwoman](https://open.spotify.com/track/0UqHzMvRQnaOXEPKgFVhxN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time: The Final Hour](https://open.spotify.com/album/4DWK6TLXHl1fly2zi5RlO7) | 3:59 |
 | 42 | [Oh Ma Jolie](https://open.spotify.com/track/7u7wn0MqPlSaBV0hSyfF9K) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Oh Ma Jolie](https://open.spotify.com/album/5TpDCjJt83Oibx4RzeUZx3) | 2:15 |
 | 43 | [Back for the Rush](https://open.spotify.com/track/306qP7BrH7YmWCmoIbQ4Fh) | [Read the News](https://open.spotify.com/artist/53Bre8OBwqzpowWa2uQ2KV) | [Back for the Rush](https://open.spotify.com/album/77tbesbm0Zc1ZN4eF2498D) | 3:14 |
-| 44 | [The Last Time](https://open.spotify.com/track/2L0zhlf3PzOuoxr3WfCBhX) | [Immersed](https://open.spotify.com/artist/32gWxeDN3ZzMUNfoiKWGEr) | [Last Time](https://open.spotify.com/album/0z8wNo1gsaFX1CP2wuqwwo) | 3:13 |
+| 44 | [The Last Time](https://open.spotify.com/track/2L0zhlf3PzOuoxr3WfCBhX) | [Immersed](https://open.spotify.com/artist/32gWxeDN3ZzMUNfoiKWGEr) | [The Last Time](https://open.spotify.com/album/0z8wNo1gsaFX1CP2wuqwwo) | 3:13 |
 | 45 | [FLASH\-BACK](https://open.spotify.com/track/13ykgko9pytBkK3UAoIrfY) | [Nono La Grinta](https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN) | [FLASH\-BACK](https://open.spotify.com/album/0Gff4ye2yCh3isq47rPRaP) | 2:17 |
 | 46 | [Nasewiis](https://open.spotify.com/track/5imgbjYaUY6VQ5e3uN9TP2) | [Mc Hero](https://open.spotify.com/artist/2G7CDlBznNGyzKFpbngRMx) | [Nasewiis](https://open.spotify.com/album/4QMNZOxSYKX5jYlTQ01E5c) | 2:30 |
 | 47 | [Colorado](https://open.spotify.com/track/7C2IUngL0Xp8MsD575v2cJ) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Colorado](https://open.spotify.com/album/1P8BZuY2ZRlCPzXhSly5eZ) | 3:44 |
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 77 | [Mein Herz Kriegst Du Nicht](https://open.spotify.com/track/6MSFHB0Fwjlr1gWcRnjcat) | [Tom Twers](https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO) | [Mein Herz Kriegst Du Nicht](https://open.spotify.com/album/4mqDThnBYldj5Qh8XLrJ20) | 2:01 |
 | 78 | [lie to me](https://open.spotify.com/track/762QbgsEwLAQ2ev76EXLrs) | [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [lie to me](https://open.spotify.com/album/6LF6dA9L155MBeBdreL184) | 2:51 |
 | 79 | [Going Shopping](https://open.spotify.com/track/4dUOhTTMy4ITIbNQKPKYFP) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Going Shopping](https://open.spotify.com/album/4XCAqkLSm0CozIX5dQRXPI) | 4:21 |
-| 80 | [poltergeist \(feat\. Emma Josephine\)](https://open.spotify.com/track/2zEsuKoe2JKoi15SMWJLiX) | [georgustav](https://open.spotify.com/artist/5axauV52djUUY4BJcnxdZo), [Emma Josephine](https://open.spotify.com/artist/2Erk3x0bvGdyvu1q7bvkWr) | [poltergeist \(feat\. Emma Josephine\)](https://open.spotify.com/album/6eQFiz8uffTixXA2rH1u4H) | 2:44 |
+| 80 | [poltergeist](https://open.spotify.com/track/2zEsuKoe2JKoi15SMWJLiX) | [georgustav](https://open.spotify.com/artist/5axauV52djUUY4BJcnxdZo), [Emma Josephine](https://open.spotify.com/artist/2Erk3x0bvGdyvu1q7bvkWr) | [poltergeist](https://open.spotify.com/album/6eQFiz8uffTixXA2rH1u4H) | 2:44 |
 | 81 | [Formation](https://open.spotify.com/track/687RJSOAS8xDed1hoFxum1) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Formation](https://open.spotify.com/album/3kVrx9gltuUKLXgAToVjWx) | 2:36 |
 | 82 | [Focus Disease](https://open.spotify.com/track/30lcg7EBdJ8Gnu1KPdwIyG) | [Odd Beholder](https://open.spotify.com/artist/3QXIzf05xhPdEUciKVif6v) | [Focus Disease](https://open.spotify.com/album/3seuApr7dEsbVStb9JPy1L) | 3:00 |
 | 83 | [BALTIGO](https://open.spotify.com/track/3zjR80pkRDtcSqjkCy6kdS) | [Rounhaa](https://open.spotify.com/artist/6jFcJYXzABu7Us9iwENUJe) | [BALTIGO](https://open.spotify.com/album/2L958LRSdORFC383aLB7Uw) | 2:10 |

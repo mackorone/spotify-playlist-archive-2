@@ -4,7 +4,7 @@
 
 > Música tranquila para evadirse.
 
-512 songs - 1 day 5 hr 4 min
+513 songs - 1 day 5 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [BLU](https://open.spotify.com/track/1SBcduWy2JPFRDKqxBjowZ) | [Blackpanda](https://open.spotify.com/artist/7LrXIUbc5YUI3SjEaAh3ma) | [BLU](https://open.spotify.com/album/0lTNBDVR2b8Ubcm0L44CA5) | 2:28 | 2024-05-02 | 2024-06-07 |
 | [Blu](https://open.spotify.com/track/7p4XQTjHv9uSXUxQnPmPSV) | [Joviale](https://open.spotify.com/artist/2U1y15TfmMGMDCV7S2mbQ7) | [Mount Crystal](https://open.spotify.com/album/5qiZBMIgAH1lqylwi0FC8h) | 3:09 | 2025-09-18 | 2025-12-05 |
 | [Boredom](https://open.spotify.com/track/4aiKBAp88Q23KpuSdzekDr) | [Núria Graham](https://open.spotify.com/artist/3ZJhC6cKBtTx6jUJSTr8XI) | [Boredom \(Demo 2015\)](https://open.spotify.com/album/5vGRH6zvJ5bXI7fBFcO3jN) | 3:52 | 2024-06-06 |  |
-| [Bossa Recíproca](https://open.spotify.com/track/3YXn94f6pqidYMaXWy2ULg) | [Ronroneo](https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK), [María Yfeu](https://open.spotify.com/artist/46tCymlXwfZS4wog93XK0B) | [La Cura del Habla](https://open.spotify.com/album/4tnC4JYgeOn3vzj02IvrHA) | 3:23 | 2026-02-19 |  |
+| [Bossa Recíproca](https://open.spotify.com/track/3YXn94f6pqidYMaXWy2ULg) | [Ronroneo](https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK), [María Yfeu](https://open.spotify.com/artist/46tCymlXwfZS4wog93XK0B) | [La Cura del Habla](https://open.spotify.com/album/4tnC4JYgeOn3vzj02IvrHA) | 3:23 | 2026-02-19 | 2026-04-12 |
 | [Botecito](https://open.spotify.com/track/3jd98IqkeEChfoe98H24Ma) | [Cosmic Wacho](https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa) | [Botecito](https://open.spotify.com/album/0ldh3YA3WxIdKM4Gdr8vrm) | 3:57 | 2023-10-26 |  |
 | [brb](https://open.spotify.com/track/2S1rtk02tgZSX2zQhVdoYO) | [The Two Lips](https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50) | [brb](https://open.spotify.com/album/4gQyZYV5aQBUpgyOI1K7jl) | 2:36 | 2026-03-26 |  |
 | [Brilla el sol](https://open.spotify.com/track/6n88P24r5XiVb7qXfkXFya) | [Rebe](https://open.spotify.com/artist/09JzopXDnVeP5YvaNh7VhF) | [Brilla el sol](https://open.spotify.com/album/2hQ31mZrkKFlqwulf87IDr) | 3:22 | 2026-02-26 | 2026-03-27 |
@@ -101,6 +101,7 @@
 | [Change It All](https://open.spotify.com/track/7lWKpA4JZrGVqYURuz7cnu) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Change It All](https://open.spotify.com/album/0dkUKtlAdUxzlhmvS4BVmU) | 4:07 | 2022-11-11 | 2023-07-07 |
 | [Chilleando por Madrid](https://open.spotify.com/track/5aMpFYfR9ixFBje9eeZMGE) | [Veve Milah](https://open.spotify.com/artist/4U1aujuzk3gLF3v0HNWZET), [Raphael Karell](https://open.spotify.com/artist/0rzj1DUlP3tDKSVQhSkpv8) | [Chilleando por Madrid](https://open.spotify.com/album/3vNNIS0eZY0cu45dYfq6q8) | 3:54 | 2023-06-09 | 2026-03-27 |
 | [Cieguita](https://open.spotify.com/track/2cqrxmFu6kQwlV9E3QnbBh) | [DALILA](https://open.spotify.com/artist/7CNhaJPKRhrcKfVgQY1EWO), [tontimer weber](https://open.spotify.com/artist/4V31E6EFu5yCqf49e5WwAH) | [Cieguita "Los Remixes"](https://open.spotify.com/album/6Dyzm69MdAu3lP4aEdfwXx) | 4:56 | 2023-05-12 | 2023-10-24 |
+| [Close My Eyes](https://open.spotify.com/track/6NOUlMbo6c3XXFC5kmuHIw) | [Les Imprimés](https://open.spotify.com/artist/6pCq758EGVhfbiUIeuHTcf) | [Fading Forward](https://open.spotify.com/album/6nTysmAKuGBgaaHj8hfMy7) | 3:06 | 2026-04-09 |  |
 | [Cold Little Heart \- Radio Edit](https://open.spotify.com/track/7KX65PC1UZuImsUInThbav) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Cold Little Heart \(Radio Edit\)](https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A) | 3:30 | 2022-11-11 |  |
 | [Collar](https://open.spotify.com/track/2pTybbfIVMwtgQNArFb1ca) | [Carlos Ares](https://open.spotify.com/artist/3eReTIjhrje1sk2hFQgwhI) | [Collar](https://open.spotify.com/album/1RrDIJxt64MMRhJ6c2uPIb) | 5:46 | 2025-09-18 |  |
 | [Color Pomelo](https://open.spotify.com/track/2N1IkXdMqhO12VUUU4TKlw) | [Cheti](https://open.spotify.com/artist/14MWie92G8fspcINNwL7n7) | [Color Pomelo](https://open.spotify.com/album/6BdL4sKb4pZzCpwbq0miIh) | 3:53 | 2023-04-20 | 2024-04-19 |

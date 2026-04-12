@@ -4,7 +4,7 @@
 
 > De nieuwste Hollands & Volkspop releases\. Cover: Billy Dans & Mart Hoogkamer
 
-611 songs - 1 day 5 hr 26 min
+612 songs - 1 day 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,7 +195,7 @@
 | [Ga Als Je Wilt \- 2024](https://open.spotify.com/track/40UqMDhrBlpFLbQEBkMuBS) | [Frank Van Etten](https://open.spotify.com/artist/6idunrSGiChqlZG6MJVhHM) | [Ga Als Je Wilt \(2024\)](https://open.spotify.com/album/5MWJJ1lNhQ2NfL7PvUougL) | 3:36 | 2024-09-12 | 2025-02-21 |
 | [Ga Je Mee Naar Curaçao](https://open.spotify.com/track/3xBd1gbBaLr4my4i4fq7oJ) | [Danilo Wattez](https://open.spotify.com/artist/2ih0o0T3ywRy5V3aIGZDqh) | [Ga Je Mee Naar Curaçao](https://open.spotify.com/album/3ZmaHQ7pskm59sWdFTBa6O) | 2:24 | 2025-07-17 | 2025-08-08 |
 | [Ga Maar Weg](https://open.spotify.com/track/5hKzFdijIotT1gIqz0OeSU) | [Gianluca](https://open.spotify.com/artist/2yL7gNaFIc8VoJeH7GxUkN) | [Ga Maar Weg](https://open.spotify.com/album/1LdSdblkB9FyS7UgMqV7dG) | 2:49 | 2026-02-05 |  |
-| [Gappie Sappie](https://open.spotify.com/track/2FCDwCdXpMnSq3QuHWZ3UM) | [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW), [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Gappie Sappie](https://open.spotify.com/album/7FE9PW71kUT5Ry6N1D0TDo) | 2:17 | 2026-04-09 |  |
+| [Gappie Sappie](https://open.spotify.com/track/2FCDwCdXpMnSq3QuHWZ3UM) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Gappie Sappie](https://open.spotify.com/album/7FE9PW71kUT5Ry6N1D0TDo) | 2:17 | 2026-04-09 |  |
 | [Gas erop!](https://open.spotify.com/track/2kfyLD77mP58mp3kPL8rkW) | [Jannes](https://open.spotify.com/artist/02ydjJPvRKpejxRzZyHdaq) | [Gas erop!](https://open.spotify.com/album/42jWVRVwpS1cDOtJ1KucYL) | 3:18 | 2025-09-25 | 2026-01-16 |
 | [Gastenlijst](https://open.spotify.com/track/75qX2UUOEVioN583H26GbZ) | [Marco Kanters](https://open.spotify.com/artist/2VF4qPKEmzjjssI2razMNt) | [Gastenlijst](https://open.spotify.com/album/5cvekJiUirg06O5KCC8mWs) | 2:45 | 2025-06-19 | 2025-07-11 |
 | [Geef Mij Eens Antwoord](https://open.spotify.com/track/2xu3WF8Fb55sXZpQqA9W0n) | [Marlane](https://open.spotify.com/artist/5kqIUI0aXHIVZofHKUSPYk) | [Geef Mij Eens Antwoord](https://open.spotify.com/album/7iCYgHqyrOaRKcbbGrrQJj) | 2:54 | 2025-05-08 | 2025-09-12 |
@@ -296,6 +296,7 @@
 | [Ik Woon Nou In Een Caravan](https://open.spotify.com/track/5V5qanXslQUFbsZEAyVeIW) | [Jan Biggel](https://open.spotify.com/artist/0fJJXAAxGeDwdS7HCUVkbs) | [Ik Woon Nou In Een Caravan](https://open.spotify.com/album/7CakS6waLUxnqX1i1B6pan) | 3:11 | 2025-04-17 | 2025-05-09 |
 | [Ik Zal Er Zijn](https://open.spotify.com/track/3U1y2yON7uEZqMSBWxjYYQ) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k), [Kimberly Fransens](https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk) | [Ik Zal Er Zijn](https://open.spotify.com/album/4RmhGsZpq5TfSTwuQen0ES) | 3:16 | 2025-01-10 | 2025-02-28 |
 | [Ik Zal Geen Traan Meer Om Je Laten](https://open.spotify.com/track/0IG9KSc2YJLOfg0NzKpFZR) | [GIO VAN VEEN](https://open.spotify.com/artist/4vssXvv1qrZJ8ti9PbTm8j) | [Ik Zal Geen Traan Meer Om Je Laten](https://open.spotify.com/album/5AM6T3qtxVhdkBGJbz9YCa) | 2:47 | 2024-06-13 | 2024-09-13 |
+| [Ik zou het zo weer overdoen](https://open.spotify.com/track/3VmopKB6zV3SOkZBlsV0ZZ) | [Julia Cecile](https://open.spotify.com/artist/1ujg2quXH0LCrTb1BD8ECa) | [Ik zou het zo weer overdoen](https://open.spotify.com/album/1D4PQXSWNPlISYnbFBQZuh) | 3:25 | 2026-04-11 |  |
 | [In Amsterdam](https://open.spotify.com/track/2jXZIL7zp6lbvkcNGJYtIm) | [Mick Harren](https://open.spotify.com/artist/3rC0vVL6atCESm1dahvBDl), [Johnny Jordaan](https://open.spotify.com/artist/0tlvzmFmhfItI4bdwby03e) | [In Amsterdam](https://open.spotify.com/album/3Z80GTtmsgI2WnmcAo0Fni) | 2:17 | 2025-03-13 | 2025-06-27 |
 | [In de naam van...](https://open.spotify.com/track/4YbZKK7m1meoBcCFdlab7c) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [In de naam van...](https://open.spotify.com/album/5DP7AnlHxP3NABQUGjI7bF) | 2:27 | 2025-06-27 | 2025-10-10 |
 | [In De Wolken](https://open.spotify.com/track/0lEEf3dbpEVEpsn67UMhiQ) | [Priscilla Ophof](https://open.spotify.com/artist/1WPZn8qRmT7tFIeEmm1szs) | [In De Wolken](https://open.spotify.com/album/0GL6gXnV0Efq6M4YF6Mv04) | 3:20 | 2024-09-12 | 2024-11-05 |
@@ -334,7 +335,7 @@
 | [Kameraden](https://open.spotify.com/track/4HU1ixk3hDB51dSqzMsDFT) | [Ancora](https://open.spotify.com/artist/6XNz9WBY0eqg95kZxbHnJZ), [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq), [Jan Keizer](https://open.spotify.com/artist/1pADHrgtnPgv0TO0j8V8S6) | [Kameraden](https://open.spotify.com/album/14FyazPIwBSqIIqxxrjSz2) | 2:49 | 2024-09-26 | 2025-01-11 |
 | [Kan Het Ook Later](https://open.spotify.com/track/4UvEz0QvMjhGTvCgkMNGAG) | [FeestDJRuud](https://open.spotify.com/artist/0IId5Ktyl22C7W9PtisEXD), [Rene Karst](https://open.spotify.com/artist/3upXQVqKZlTKRES3LQ9VjO), [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE) | [Kan Het Ook Later](https://open.spotify.com/album/55ziC8FL68Gy3HIoAxjoc0) | 2:40 | 2025-02-07 | 2025-05-02 |
 | [Kater Van De Liefde](https://open.spotify.com/track/63nNz8FdlSc5TmxZ8soTej) | [Jesse Prins](https://open.spotify.com/artist/7cTPmBuInxNTQsNGlDIyrm) | [Kater Van De Liefde](https://open.spotify.com/album/4A8yq22J8ljbYLCFBkcRWo) | 3:07 | 2024-10-18 | 2024-11-29 |
-| [Kijk mij niet zo aan](https://open.spotify.com/track/3mzaisAm0LHNAchlOB3Lc4) | [Henk Damen](https://open.spotify.com/artist/2ZUBS5L3nTT2H3ck5EEEDW) | [Kijk mij niet zo aan](https://open.spotify.com/album/3LDpqnA4m5vUmFnUGgGKA0) | 2:34 | 2025-11-13 |  |
+| [Kijk mij niet zo aan](https://open.spotify.com/track/3mzaisAm0LHNAchlOB3Lc4) | [Henk Damen](https://open.spotify.com/artist/2ZUBS5L3nTT2H3ck5EEEDW) | [Kijk mij niet zo aan](https://open.spotify.com/album/3LDpqnA4m5vUmFnUGgGKA0) | 2:34 | 2025-11-13 | 2026-04-12 |
 | [Kijk Om Je Heen](https://open.spotify.com/track/3U5KWLt1lWCIQIlpoxEGiU) | [Pascal Redeker](https://open.spotify.com/artist/2pPlC5pHDMwx9vCtEszoub) | [Kijk Om Je Heen](https://open.spotify.com/album/3SKNynZrP8QFY4jL6NJELH) | 3:36 | 2025-07-04 | 2025-10-31 |
 | [King Van De Camping \- Ferry Bouman](https://open.spotify.com/track/3MNbwa4BHTc0nsrRnxvODI) | [Frank Lammers](https://open.spotify.com/artist/29dtP6x6ulMqlK0AydxvXc) | [King Van De Camping \(Ferry Bouman\)](https://open.spotify.com/album/0mheUJEFtEwhKn30gJt9x8) | 2:41 | 2024-12-12 | 2025-03-14 |
 | [Klavertje Vier](https://open.spotify.com/track/3l5Vc6BkuyOaokYDQlAWuU) | [Gideon](https://open.spotify.com/artist/6PHGgzRIDkaBOexjV4wfSp) | [Klavertje Vier](https://open.spotify.com/album/2jmywAI8bTlz307pi2Oj4D) | 2:26 | 2026-04-09 |  |

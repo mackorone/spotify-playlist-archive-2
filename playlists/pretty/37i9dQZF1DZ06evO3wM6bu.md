@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wM6bu.md) - [plain]
 
 > This is Westlife\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 495,597 likes - 48 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 495,602 likes - 48 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wM6bu.md) - [plain]
 | 31 | [Amazing](https://open.spotify.com/track/0yehfLw05bDDKHS4Tdl01G) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Face To Face](https://open.spotify.com/album/07sBktUc2CbnzPd8ecePWk) | 2:48 |
 | 32 | [Tonight](https://open.spotify.com/track/0WuxeaNneRSYdRtjyIWs93) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Greatest Hits](https://open.spotify.com/album/6gtDABGSqEp6waUHbtVbYT) | 4:31 |
 | 33 | [Hard to Say I'm Sorry](https://open.spotify.com/track/4QTIkK8161b0A8wvXWZo8D) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [B\-Sides, Rarities and Remixes](https://open.spotify.com/album/3Ln53Tw9oXf3PKhYBusTAD) | 3:59 |
-| 34 | [Chariot](https://open.spotify.com/track/7cl5wyCUBcGj9s2ATHLBUm) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Chariot](https://open.spotify.com/album/3sjAlkf4ReWGTx2RhHanZQ) | 3:20 |
-| 35 | [The Rose](https://open.spotify.com/track/1kAC8QX4meGZhEbtXtqF1o) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [The Love Album](https://open.spotify.com/album/714ejRNfL8eCRvgIKeOMqj) | 3:38 |
+| 34 | [The Rose](https://open.spotify.com/track/1kAC8QX4meGZhEbtXtqF1o) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [The Love Album](https://open.spotify.com/album/714ejRNfL8eCRvgIKeOMqj) | 3:38 |
+| 35 | [Chariot](https://open.spotify.com/track/7cl5wyCUBcGj9s2ATHLBUm) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Chariot](https://open.spotify.com/album/3sjAlkf4ReWGTx2RhHanZQ) | 3:20 |
 | 36 | [Us Against the World](https://open.spotify.com/track/6wzgVq5ziHmiqOF9GZpljh) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Back Home](https://open.spotify.com/album/0K3igCblJjDIJcFbaOHlxD) | 4:00 |
 | 37 | [Written in the Stars](https://open.spotify.com/track/6cGfYPEmADL7vquaizoCPQ) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Greatest Hits](https://open.spotify.com/album/6gtDABGSqEp6waUHbtVbYT) | 4:10 |
 | 38 | [The Reason](https://open.spotify.com/track/1ZmRSjt13LUbA96RbRtA0j) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Gravity](https://open.spotify.com/album/0zfK1gyZipv83K4v8phlpH) | 3:55 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wM6bu.md) - [plain]
 | 47 | [Lighthouse](https://open.spotify.com/track/7CRolYDXJsl10y3UkJv8jX) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Greatest Hits](https://open.spotify.com/album/6gtDABGSqEp6waUHbtVbYT) | 4:22 |
 | 48 | [The Dance](https://open.spotify.com/track/3dVTwiTpjWCdtlq9tcsf91) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [The Love Album](https://open.spotify.com/album/714ejRNfL8eCRvgIKeOMqj) | 3:58 |
 
-Snapshot ID: `adbsAAAAAACcKnDpKQv+xhLKe2wg82D9`
+Snapshot ID: `adg9gAAAAAA2YpaQknecrvWARigXgeMn`

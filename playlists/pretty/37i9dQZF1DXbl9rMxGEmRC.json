@@ -507,22 +507,6 @@
     {
       "added_at": "2025-07-04 07:24:43",
       "album": {
-        "name": "You Wildflower",
-        "url": "https://open.spotify.com/album/25FC9A6YPrFGFLHoKrg4Cc"
-      },
-      "artists": [
-        {
-          "name": "Witch Club Satan",
-          "url": "https://open.spotify.com/artist/395rqoVSDgQIF7fzRfZIoy"
-        }
-      ],
-      "duration_ms": 214655,
-      "name": "You Wildflower",
-      "url": "https://open.spotify.com/track/6k8BOF9z8d7yhMNtQLfAaV"
-    },
-    {
-      "added_at": "2025-07-04 07:24:43",
-      "album": {
         "name": "Schizophrenia (Re-Recorded)",
         "url": "https://open.spotify.com/album/3SlfkVIXt6loQjZOByllmv"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 293995,
       "name": "From the Past Comes the Storms - Re-Recorded",
       "url": "https://open.spotify.com/track/133XNDpjZDeklMjhb1jDic"
+    },
+    {
+      "added_at": "2025-07-04 07:24:43",
+      "album": {
+        "name": "You Wildflower",
+        "url": "https://open.spotify.com/album/25FC9A6YPrFGFLHoKrg4Cc"
+      },
+      "artists": [
+        {
+          "name": "Witch Club Satan",
+          "url": "https://open.spotify.com/artist/395rqoVSDgQIF7fzRfZIoy"
+        }
+      ],
+      "duration_ms": 214655,
+      "name": "You Wildflower",
+      "url": "https://open.spotify.com/track/6k8BOF9z8d7yhMNtQLfAaV"
     },
     {
       "added_at": "2025-07-04 07:24:43",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2025-07-04 07:24:43",
       "album": {
-        "name": "I Resign",
-        "url": "https://open.spotify.com/album/0ThLiiA7fav9v9hMEajvro"
-      },
-      "artists": [
-        {
-          "name": "Crypta",
-          "url": "https://open.spotify.com/artist/0w1xNkvjKVskWP7GvbiwRB"
-        }
-      ],
-      "duration_ms": 233626,
-      "name": "I Resign",
-      "url": "https://open.spotify.com/track/6s3s4DgMYB4aXtZhNa2rmf"
-    },
-    {
-      "added_at": "2025-07-04 07:24:43",
-      "album": {
         "name": "Caught in the Treads",
         "url": "https://open.spotify.com/album/5ghkYlQALtSaQDvek8IfPO"
       },
@@ -1251,18 +1235,18 @@
     {
       "added_at": "2025-07-04 07:24:43",
       "album": {
-        "name": "Goliath",
-        "url": "https://open.spotify.com/album/0wJBlM3pHLvc2JwMYXVzPv"
+        "name": "I Resign",
+        "url": "https://open.spotify.com/album/0ThLiiA7fav9v9hMEajvro"
       },
       "artists": [
         {
-          "name": "Kataklysm",
-          "url": "https://open.spotify.com/artist/7kozeGeawfP7IEEL6dddrM"
+          "name": "Crypta",
+          "url": "https://open.spotify.com/artist/0w1xNkvjKVskWP7GvbiwRB"
         }
       ],
-      "duration_ms": 293351,
-      "name": "Dark Wings of Deception",
-      "url": "https://open.spotify.com/track/5LrX5wEhuuEKrsw2EKWznq"
+      "duration_ms": 233626,
+      "name": "I Resign",
+      "url": "https://open.spotify.com/track/6s3s4DgMYB4aXtZhNa2rmf"
     },
     {
       "added_at": "2025-07-04 07:24:43",
@@ -1279,6 +1263,22 @@
       "duration_ms": 281443,
       "name": "Nosferatu",
       "url": "https://open.spotify.com/track/2nt0f1WitVhsMzY3uMae4r"
+    },
+    {
+      "added_at": "2025-07-04 07:24:43",
+      "album": {
+        "name": "Goliath",
+        "url": "https://open.spotify.com/album/0wJBlM3pHLvc2JwMYXVzPv"
+      },
+      "artists": [
+        {
+          "name": "Kataklysm",
+          "url": "https://open.spotify.com/artist/7kozeGeawfP7IEEL6dddrM"
+        }
+      ],
+      "duration_ms": 293351,
+      "name": "Dark Wings of Deception",
+      "url": "https://open.spotify.com/track/5LrX5wEhuuEKrsw2EKWznq"
     },
     {
       "added_at": "2025-07-04 07:24:43",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2025-07-04 07:24:43",
       "album": {
-        "name": "Faking It",
-        "url": "https://open.spotify.com/album/1ojh4hiSv6uhe2lSCtb3CF"
-      },
-      "artists": [
-        {
-          "name": "Svalbard",
-          "url": "https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA"
-        }
-      ],
-      "duration_ms": 328015,
-      "name": "Faking It",
-      "url": "https://open.spotify.com/track/0lP6unRRdWs0cqa6qjsSmn"
-    },
-    {
-      "added_at": "2025-07-04 07:24:43",
-      "album": {
         "name": "Harbinger Of Woe",
         "url": "https://open.spotify.com/album/4mYfUVZtfYzGEEEErTcMYc"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 243240,
       "name": "Of Pillars And Trees",
       "url": "https://open.spotify.com/track/29wTjvpsmkdWARwDxuWLXC"
+    },
+    {
+      "added_at": "2025-07-04 07:24:43",
+      "album": {
+        "name": "Faking It",
+        "url": "https://open.spotify.com/album/1ojh4hiSv6uhe2lSCtb3CF"
+      },
+      "artists": [
+        {
+          "name": "Svalbard",
+          "url": "https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA"
+        }
+      ],
+      "duration_ms": 328015,
+      "name": "Faking It",
+      "url": "https://open.spotify.com/track/0lP6unRRdWs0cqa6qjsSmn"
     },
     {
       "added_at": "2025-07-04 07:24:43",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2025-07-04 07:24:43",
       "album": {
-        "name": "Vengeance of Eternal Fire",
-        "url": "https://open.spotify.com/album/4MHngXy37mudMEn2H39sAg"
-      },
-      "artists": [
-        {
-          "name": "Antichrist Siege Machine",
-          "url": "https://open.spotify.com/artist/0g132bsggkLIMT0pW9aa7s"
-        }
-      ],
-      "duration_ms": 113705,
-      "name": "Sisera",
-      "url": "https://open.spotify.com/track/2nbqZzQN6FfueGRJKBQ9lG"
-    },
-    {
-      "added_at": "2025-07-04 07:24:43",
-      "album": {
         "name": "Oathbreaker",
         "url": "https://open.spotify.com/album/2yzK9pt0CGRKQMnMOl3m9l"
       },
@@ -1531,6 +1515,22 @@
     {
       "added_at": "2025-07-04 07:24:43",
       "album": {
+        "name": "Vengeance of Eternal Fire",
+        "url": "https://open.spotify.com/album/4MHngXy37mudMEn2H39sAg"
+      },
+      "artists": [
+        {
+          "name": "Antichrist Siege Machine",
+          "url": "https://open.spotify.com/artist/0g132bsggkLIMT0pW9aa7s"
+        }
+      ],
+      "duration_ms": 113705,
+      "name": "Sisera",
+      "url": "https://open.spotify.com/track/2nbqZzQN6FfueGRJKBQ9lG"
+    },
+    {
+      "added_at": "2025-07-04 07:24:43",
+      "album": {
         "name": "Death March",
         "url": "https://open.spotify.com/album/5Mpro4JXyYlwrbA1cX9Nzs"
       },
@@ -1543,6 +1543,22 @@
       "duration_ms": 281298,
       "name": "Death March",
       "url": "https://open.spotify.com/track/29jdT24cfdRzOmn57MSFlS"
+    },
+    {
+      "added_at": "2025-07-04 07:24:43",
+      "album": {
+        "name": "Silent Echoes",
+        "url": "https://open.spotify.com/album/6yAZyCX2aU637Lm0jxRVZG"
+      },
+      "artists": [
+        {
+          "name": "Gruesome",
+          "url": "https://open.spotify.com/artist/3IkWr3wRsPZ4lqcGVKKlqG"
+        }
+      ],
+      "duration_ms": 234618,
+      "name": "Shards",
+      "url": "https://open.spotify.com/track/30wpsK20KIzRRKj22CSQHR"
     },
     {
       "added_at": "2025-07-04 07:24:43",
@@ -1575,22 +1591,6 @@
     {
       "added_at": "2025-07-04 07:24:43",
       "album": {
-        "name": "Turbulence",
-        "url": "https://open.spotify.com/album/6B0rX3xoZawMWKTTDm5zR8"
-      },
-      "artists": [
-        {
-          "name": "Escuela Grind",
-          "url": "https://open.spotify.com/artist/75lXMXjUfNNbrBz6auGvvG"
-        }
-      ],
-      "duration_ms": 200023,
-      "name": "Turbulence",
-      "url": "https://open.spotify.com/track/5GHvpuEjReFEL2lVeOiKxC"
-    },
-    {
-      "added_at": "2025-07-04 07:24:43",
-      "album": {
         "name": "The End We Start From",
         "url": "https://open.spotify.com/album/5BtsN0Bkxk4TAGfJB0qhak"
       },
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2025-07-04 07:24:43",
       "album": {
-        "name": "Silent Echoes",
-        "url": "https://open.spotify.com/album/6yAZyCX2aU637Lm0jxRVZG"
+        "name": "Turbulence",
+        "url": "https://open.spotify.com/album/6B0rX3xoZawMWKTTDm5zR8"
       },
       "artists": [
         {
-          "name": "Gruesome",
-          "url": "https://open.spotify.com/artist/3IkWr3wRsPZ4lqcGVKKlqG"
+          "name": "Escuela Grind",
+          "url": "https://open.spotify.com/artist/75lXMXjUfNNbrBz6auGvvG"
         }
       ],
-      "duration_ms": 234618,
-      "name": "Shards",
-      "url": "https://open.spotify.com/track/30wpsK20KIzRRKj22CSQHR"
+      "duration_ms": 200023,
+      "name": "Turbulence",
+      "url": "https://open.spotify.com/track/5GHvpuEjReFEL2lVeOiKxC"
     },
     {
       "added_at": "2025-07-04 07:24:43",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2025-07-04 07:24:43",
       "album": {
-        "name": "Between the Worlds Of Life And Death",
-        "url": "https://open.spotify.com/album/5Z8BLgcS7m6vycYBJzjhzo"
-      },
-      "artists": [
-        {
-          "name": "Vale Of Pnath",
-          "url": "https://open.spotify.com/artist/31i0H73pagGhaNZ9YLgUYY"
-        }
-      ],
-      "duration_ms": 267274,
-      "name": "Silent Prayers",
-      "url": "https://open.spotify.com/track/1f1CfdRtLuYPo7FBdclY5e"
-    },
-    {
-      "added_at": "2025-07-04 07:24:43",
-      "album": {
         "name": "Therizo",
         "url": "https://open.spotify.com/album/0n1euTWxvPt5Vzp9L81EVW"
       },
@@ -1803,18 +1787,18 @@
     {
       "added_at": "2025-07-04 07:24:43",
       "album": {
-        "name": "The Fall Of Jotunheim",
-        "url": "https://open.spotify.com/album/3FcSGIdAmWtIiIQkjHnvGL"
+        "name": "Between the Worlds Of Life And Death",
+        "url": "https://open.spotify.com/album/5Z8BLgcS7m6vycYBJzjhzo"
       },
       "artists": [
         {
-          "name": "Unfound Reliance",
-          "url": "https://open.spotify.com/artist/1I7qaL2lIjPmA84PPyenBq"
+          "name": "Vale Of Pnath",
+          "url": "https://open.spotify.com/artist/31i0H73pagGhaNZ9YLgUYY"
         }
       ],
-      "duration_ms": 242452,
-      "name": "The Fall Of Jotunheim",
-      "url": "https://open.spotify.com/track/5Gi5afRoFO7qFTSKYmbWmg"
+      "duration_ms": 267274,
+      "name": "Silent Prayers",
+      "url": "https://open.spotify.com/track/1f1CfdRtLuYPo7FBdclY5e"
     },
     {
       "added_at": "2025-07-04 07:24:43",
@@ -1835,18 +1819,18 @@
     {
       "added_at": "2025-07-04 07:24:43",
       "album": {
-        "name": "Slasher - EP",
-        "url": "https://open.spotify.com/album/5WsMlyF5REQmjiP4ANaVFu"
+        "name": "The Fall Of Jotunheim",
+        "url": "https://open.spotify.com/album/3FcSGIdAmWtIiIQkjHnvGL"
       },
       "artists": [
         {
-          "name": "Omnium Gatherum",
-          "url": "https://open.spotify.com/artist/52xuvlUvnxqH0xzxGPKXSu"
+          "name": "Unfound Reliance",
+          "url": "https://open.spotify.com/artist/1I7qaL2lIjPmA84PPyenBq"
         }
       ],
-      "duration_ms": 269346,
-      "name": "Sacred",
-      "url": "https://open.spotify.com/track/0t4TOpK2sqt3Xzj3WlATlk"
+      "duration_ms": 242452,
+      "name": "The Fall Of Jotunheim",
+      "url": "https://open.spotify.com/track/5Gi5afRoFO7qFTSKYmbWmg"
     },
     {
       "added_at": "2025-07-04 07:24:43",
@@ -1879,6 +1863,22 @@
       "duration_ms": 400940,
       "name": "Step Through the Portal and Breathe",
       "url": "https://open.spotify.com/track/3w3Qf1qQ8J98BFhSQPl8Sv"
+    },
+    {
+      "added_at": "2025-07-04 07:24:43",
+      "album": {
+        "name": "Slasher - EP",
+        "url": "https://open.spotify.com/album/5WsMlyF5REQmjiP4ANaVFu"
+      },
+      "artists": [
+        {
+          "name": "Omnium Gatherum",
+          "url": "https://open.spotify.com/artist/52xuvlUvnxqH0xzxGPKXSu"
+        }
+      ],
+      "duration_ms": 269346,
+      "name": "Sacred",
+      "url": "https://open.spotify.com/track/0t4TOpK2sqt3Xzj3WlATlk"
     },
     {
       "added_at": "2025-07-04 07:24:43",
@@ -1947,22 +1947,6 @@
     {
       "added_at": "2025-07-04 07:24:43",
       "album": {
-        "name": "Culture of Violence",
-        "url": "https://open.spotify.com/album/6RLlW1OIKY7lpwu37ywZMw"
-      },
-      "artists": [
-        {
-          "name": "Extinction A.D.",
-          "url": "https://open.spotify.com/artist/1AVn1BUp281M9gQhYCrvGQ"
-        }
-      ],
-      "duration_ms": 205856,
-      "name": "Culture of Violence",
-      "url": "https://open.spotify.com/track/6001jTk0jdao1oVV4vanVB"
-    },
-    {
-      "added_at": "2025-07-04 07:24:43",
-      "album": {
         "name": "Labyrinth of Stone",
         "url": "https://open.spotify.com/album/17qNRU2LfnOuZUFmD4LRPY"
       },
@@ -1975,6 +1959,22 @@
       "duration_ms": 345805,
       "name": "Labyrinth of Stone",
       "url": "https://open.spotify.com/track/0sIT4kW3fa9jgDOEsIVJJo"
+    },
+    {
+      "added_at": "2025-07-04 07:24:43",
+      "album": {
+        "name": "Culture of Violence",
+        "url": "https://open.spotify.com/album/6RLlW1OIKY7lpwu37ywZMw"
+      },
+      "artists": [
+        {
+          "name": "Extinction A.D.",
+          "url": "https://open.spotify.com/artist/1AVn1BUp281M9gQhYCrvGQ"
+        }
+      ],
+      "duration_ms": 205856,
+      "name": "Culture of Violence",
+      "url": "https://open.spotify.com/track/6001jTk0jdao1oVV4vanVB"
     },
     {
       "added_at": "2025-07-04 07:24:43",
@@ -2091,22 +2091,6 @@
     {
       "added_at": "2025-07-04 07:24:43",
       "album": {
-        "name": "Remains Of A Dead World",
-        "url": "https://open.spotify.com/album/55fcaJ1hopKffHCtOJig0j"
-      },
-      "artists": [
-        {
-          "name": "Nightrage",
-          "url": "https://open.spotify.com/artist/6dhqzgrbFggOBns03STnU3"
-        }
-      ],
-      "duration_ms": 273266,
-      "name": "Euphoria Within Chaos",
-      "url": "https://open.spotify.com/track/4tYHASDmTcl9d6zFCDPNXK"
-    },
-    {
-      "added_at": "2025-07-04 07:24:43",
-      "album": {
         "name": "Divided You'll Stand & United You'll Fall",
         "url": "https://open.spotify.com/album/0ygHMxnxuQmY8ob8WnWf7P"
       },
@@ -2123,18 +2107,18 @@
     {
       "added_at": "2025-07-04 07:24:43",
       "album": {
-        "name": "The Stygian Rose",
-        "url": "https://open.spotify.com/album/4ZboZxi4dwNEzhRqWIZmlI"
+        "name": "Remains Of A Dead World",
+        "url": "https://open.spotify.com/album/55fcaJ1hopKffHCtOJig0j"
       },
       "artists": [
         {
-          "name": "Crypt Sermon",
-          "url": "https://open.spotify.com/artist/363ih5wuNGWBFcjeKFG8cc"
+          "name": "Nightrage",
+          "url": "https://open.spotify.com/artist/6dhqzgrbFggOBns03STnU3"
         }
       ],
-      "duration_ms": 493337,
-      "name": "Glimmers in the Underworld",
-      "url": "https://open.spotify.com/track/09b99GnXKcgzQmgb6rhXsB"
+      "duration_ms": 273266,
+      "name": "Euphoria Within Chaos",
+      "url": "https://open.spotify.com/track/4tYHASDmTcl9d6zFCDPNXK"
     },
     {
       "added_at": "2025-07-04 07:24:43",
@@ -2171,6 +2155,22 @@
       "duration_ms": 338617,
       "name": "Pacifier",
       "url": "https://open.spotify.com/track/4ywWva0s8MTSJmdnf8IpZd"
+    },
+    {
+      "added_at": "2025-07-04 07:24:43",
+      "album": {
+        "name": "The Stygian Rose",
+        "url": "https://open.spotify.com/album/4ZboZxi4dwNEzhRqWIZmlI"
+      },
+      "artists": [
+        {
+          "name": "Crypt Sermon",
+          "url": "https://open.spotify.com/artist/363ih5wuNGWBFcjeKFG8cc"
+        }
+      ],
+      "duration_ms": 493337,
+      "name": "Glimmers in the Underworld",
+      "url": "https://open.spotify.com/track/09b99GnXKcgzQmgb6rhXsB"
     },
     {
       "added_at": "2025-07-04 07:24:43",
@@ -2223,22 +2223,6 @@
     {
       "added_at": "2025-07-04 07:24:43",
       "album": {
-        "name": "Hell On Four Wheels",
-        "url": "https://open.spotify.com/album/4VqdaBRmNPTtFrAQIbpBo7"
-      },
-      "artists": [
-        {
-          "name": "Warmen",
-          "url": "https://open.spotify.com/artist/28pvPjZ2n9xUBEHnMgupmh"
-        }
-      ],
-      "duration_ms": 219653,
-      "name": "Hell On Four Wheels",
-      "url": "https://open.spotify.com/track/6l4T6o2tH14GXfDBXOFW5C"
-    },
-    {
-      "added_at": "2025-07-04 07:24:43",
-      "album": {
         "name": "The Beginning",
         "url": "https://open.spotify.com/album/1dswjtpwyXafIlvELgWbVc"
       },
@@ -2251,6 +2235,22 @@
       "duration_ms": 319520,
       "name": "The Fortress Without Gates",
       "url": "https://open.spotify.com/track/2dYdc4xLucYmVqS4ESKKoT"
+    },
+    {
+      "added_at": "2025-07-04 07:24:43",
+      "album": {
+        "name": "Hell On Four Wheels",
+        "url": "https://open.spotify.com/album/4VqdaBRmNPTtFrAQIbpBo7"
+      },
+      "artists": [
+        {
+          "name": "Warmen",
+          "url": "https://open.spotify.com/artist/28pvPjZ2n9xUBEHnMgupmh"
+        }
+      ],
+      "duration_ms": 219653,
+      "name": "Hell On Four Wheels",
+      "url": "https://open.spotify.com/track/6l4T6o2tH14GXfDBXOFW5C"
     },
     {
       "added_at": "2025-07-04 07:24:43",
@@ -2303,22 +2303,6 @@
     {
       "added_at": "2025-07-04 07:24:43",
       "album": {
-        "name": "Jailbreak",
-        "url": "https://open.spotify.com/album/4ExTIKeTM1xWIefWnf7EoY"
-      },
-      "artists": [
-        {
-          "name": "Nervosa",
-          "url": "https://open.spotify.com/artist/5D9d9xyLNQu32QVD9t4YqH"
-        }
-      ],
-      "duration_ms": 205712,
-      "name": "Jailbreak",
-      "url": "https://open.spotify.com/track/0zAMnEOY4hrzwThQuRbRiI"
-    },
-    {
-      "added_at": "2025-07-04 07:24:43",
-      "album": {
         "name": "Mochado",
         "url": "https://open.spotify.com/album/0z6pfWnafRJ6xg2k0JKEjQ"
       },
@@ -2335,50 +2319,18 @@
     {
       "added_at": "2025-07-04 07:24:43",
       "album": {
-        "name": "Casket",
-        "url": "https://open.spotify.com/album/2LxTOI2LPiX0wvhwbbVNyS"
+        "name": "Jailbreak",
+        "url": "https://open.spotify.com/album/4ExTIKeTM1xWIefWnf7EoY"
       },
       "artists": [
         {
-          "name": "Enforced",
-          "url": "https://open.spotify.com/artist/7vZV2UPiXQMVesiAxQmvBp"
+          "name": "Nervosa",
+          "url": "https://open.spotify.com/artist/5D9d9xyLNQu32QVD9t4YqH"
         }
       ],
-      "duration_ms": 113870,
-      "name": "Casket",
-      "url": "https://open.spotify.com/track/70sPsaQWdRZGbSyaOkkDIo"
-    },
-    {
-      "added_at": "2025-07-04 07:24:43",
-      "album": {
-        "name": "Twin Mouthed Spring",
-        "url": "https://open.spotify.com/album/19J0fKbFOotwNCtqtXT9cB"
-      },
-      "artists": [
-        {
-          "name": "Wolves In The Throne Room",
-          "url": "https://open.spotify.com/artist/5lqyPWmAivV75tII5Vxpet"
-        }
-      ],
-      "duration_ms": 294169,
-      "name": "Twin Mouthed Spring",
-      "url": "https://open.spotify.com/track/4Qh04ifvbekN7yZ6hsqSod"
-    },
-    {
-      "added_at": "2025-07-04 07:24:43",
-      "album": {
-        "name": "Maze of Phobetor",
-        "url": "https://open.spotify.com/album/3nVDEuRTIuCY5CLZwajUjt"
-      },
-      "artists": [
-        {
-          "name": "Akhlys",
-          "url": "https://open.spotify.com/artist/7swiuMho0UMNYbZqcO0dho"
-        }
-      ],
-      "duration_ms": 455033,
-      "name": "Maze of Phobetor",
-      "url": "https://open.spotify.com/track/7oHVHq7BF7d9INJvJ74iYv"
+      "duration_ms": 205712,
+      "name": "Jailbreak",
+      "url": "https://open.spotify.com/track/0zAMnEOY4hrzwThQuRbRiI"
     },
     {
       "added_at": "2025-07-04 07:24:43",
@@ -2399,18 +2351,50 @@
     {
       "added_at": "2025-07-04 07:24:43",
       "album": {
-        "name": "Origin of Fire",
-        "url": "https://open.spotify.com/album/3d13ij5bG0Cqt5ZucZuEeh"
+        "name": "Casket",
+        "url": "https://open.spotify.com/album/2LxTOI2LPiX0wvhwbbVNyS"
       },
       "artists": [
         {
-          "name": "Mors Subita",
-          "url": "https://open.spotify.com/artist/6OTqwzePF081l2Oz9PEku8"
+          "name": "Enforced",
+          "url": "https://open.spotify.com/artist/7vZV2UPiXQMVesiAxQmvBp"
         }
       ],
-      "duration_ms": 200253,
-      "name": "Fire, Walk With Me",
-      "url": "https://open.spotify.com/track/75j3ufmOnr2hnaTAUkSwCy"
+      "duration_ms": 113870,
+      "name": "Casket",
+      "url": "https://open.spotify.com/track/70sPsaQWdRZGbSyaOkkDIo"
+    },
+    {
+      "added_at": "2025-07-04 07:24:43",
+      "album": {
+        "name": "Maze of Phobetor",
+        "url": "https://open.spotify.com/album/3nVDEuRTIuCY5CLZwajUjt"
+      },
+      "artists": [
+        {
+          "name": "Akhlys",
+          "url": "https://open.spotify.com/artist/7swiuMho0UMNYbZqcO0dho"
+        }
+      ],
+      "duration_ms": 455033,
+      "name": "Maze of Phobetor",
+      "url": "https://open.spotify.com/track/7oHVHq7BF7d9INJvJ74iYv"
+    },
+    {
+      "added_at": "2025-07-04 07:24:43",
+      "album": {
+        "name": "Twin Mouthed Spring",
+        "url": "https://open.spotify.com/album/19J0fKbFOotwNCtqtXT9cB"
+      },
+      "artists": [
+        {
+          "name": "Wolves In The Throne Room",
+          "url": "https://open.spotify.com/artist/5lqyPWmAivV75tII5Vxpet"
+        }
+      ],
+      "duration_ms": 294169,
+      "name": "Twin Mouthed Spring",
+      "url": "https://open.spotify.com/track/4Qh04ifvbekN7yZ6hsqSod"
     },
     {
       "added_at": "2025-07-04 07:24:43",
@@ -2431,18 +2415,18 @@
     {
       "added_at": "2025-07-04 07:24:43",
       "album": {
-        "name": "Pipe Dreams",
-        "url": "https://open.spotify.com/album/45QoSSOld1MCnxRqUbeAnl"
+        "name": "Origin of Fire",
+        "url": "https://open.spotify.com/album/3d13ij5bG0Cqt5ZucZuEeh"
       },
       "artists": [
         {
-          "name": "Konvent",
-          "url": "https://open.spotify.com/artist/0GLSraWh95uXS5s8nIuJ8Q"
+          "name": "Mors Subita",
+          "url": "https://open.spotify.com/artist/6OTqwzePF081l2Oz9PEku8"
         }
       ],
-      "duration_ms": 245897,
-      "name": "Pipe Dreams",
-      "url": "https://open.spotify.com/track/0UkBBPriZLFvN8t9jsaK5Y"
+      "duration_ms": 200253,
+      "name": "Fire, Walk With Me",
+      "url": "https://open.spotify.com/track/75j3ufmOnr2hnaTAUkSwCy"
     },
     {
       "added_at": "2025-07-04 07:24:43",
@@ -2459,6 +2443,22 @@
       "duration_ms": 347680,
       "name": "Aamunkoi",
       "url": "https://open.spotify.com/track/7I56BHRWuizDEWVFurrPfH"
+    },
+    {
+      "added_at": "2025-07-04 07:24:43",
+      "album": {
+        "name": "Pipe Dreams",
+        "url": "https://open.spotify.com/album/45QoSSOld1MCnxRqUbeAnl"
+      },
+      "artists": [
+        {
+          "name": "Konvent",
+          "url": "https://open.spotify.com/artist/0GLSraWh95uXS5s8nIuJ8Q"
+        }
+      ],
+      "duration_ms": 245897,
+      "name": "Pipe Dreams",
+      "url": "https://open.spotify.com/track/0UkBBPriZLFvN8t9jsaK5Y"
     }
   ],
   "unique_name": "Extreme Metal",

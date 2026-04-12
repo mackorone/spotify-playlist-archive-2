@@ -900,10 +900,28 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 260720,
       "name": "Heroes",
       "url": "https://open.spotify.com/track/1WE1WsxSqVofH8ugxJkc0c"
+    },
+    {
+      "album": {
+        "name": "Bad Magic: Seriously Bad Magic",
+        "url": "https://open.spotify.com/album/4s6noQtkOGFI6uGHh1nzN7"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2026-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277000,
+      "name": "Heroes",
+      "url": "https://open.spotify.com/track/2abomxjOAjQeFSuigBkk4x"
     },
     {
       "album": {

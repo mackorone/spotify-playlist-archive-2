@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIKVPO4xOlK.md) - [plain]
 
 > Welcome to L.A\. Lo que suena in the city of dreams\. Cover: Linea Personal
 
-[Spotify](https://open.spotify.com/user/spotify) - 413,050 likes - 40 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 413,104 likes - 40 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIKVPO4xOlK.md) - [plain]
 | 39 | [El Doble F](https://open.spotify.com/track/686i19rfToKBSd2JL0NmaV) | [Los Ases De California](https://open.spotify.com/artist/4A02qQ0vbPQj9oCB2FE1I2) | [El Doble F](https://open.spotify.com/album/28RRFKR7n67tBwRpdR65UQ) | 3:17 |
 | 40 | [Los Cuadros \(En Vivo\)](https://open.spotify.com/track/7C2tv3mhtVvHrB3w1bSRN1) | [Grupo Cuadra](https://open.spotify.com/artist/65R3oFgaTYkTgkseRlh1Xr) | [En Vivo Desde La Cuadra, Vol.1](https://open.spotify.com/album/44d0ReWJ2z8pTtk6b22uoB) | 3:06 |
 
-Snapshot ID: `AAAAAHeLGxeFvUsF0ekRgBAJJVBcWyyh`
+Snapshot ID: `AAAAANVCqZWoF+qaHGlCIChuSiTz4dS0`

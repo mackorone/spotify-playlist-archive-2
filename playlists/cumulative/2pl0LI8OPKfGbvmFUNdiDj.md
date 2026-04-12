@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-415 songs - 23 hr 19 min
+416 songs - 23 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -387,6 +387,7 @@
 | [VAMOS!](https://open.spotify.com/track/4HPh05Go7vxyYpqQb3xLs1) | [PeGie](https://open.spotify.com/artist/54TYnbAQnkrjI6ry4eUU6X), [Wszołek](https://open.spotify.com/artist/5EGOQRzEzTxqczyOwRIhKm) | [VAMOS!](https://open.spotify.com/album/0aHzsFNtkvrltOfK1ed20g) | 1:49 | 2025-11-10 | 2025-12-01 |
 | [Veloz](https://open.spotify.com/track/684O5uzlLPREElx1sVhy1P) | [Melany Cubero](https://open.spotify.com/artist/4OrIEJHh24oAbE1evJRR7c) | [Invisible](https://open.spotify.com/album/26CgmwfJA3HjUE9A8SBZ47) | 3:12 | 2026-03-10 |  |
 | [Volver a Brillar](https://open.spotify.com/track/4WBaBFfLF2XIGSojdu01pI) | [10 A.M.](https://open.spotify.com/artist/3C4upqs3USikUXXrB6Rivz) | [Volver a Brillar](https://open.spotify.com/album/4WtZNvgYn6wodmMvtKjkSN) | 4:51 | 2025-11-16 | 2026-01-05 |
+| [Walk this road](https://open.spotify.com/track/6RlhMFUctXgyXJpJWnfHHu) | [Slim Dragon](https://open.spotify.com/artist/312cwwaEcsB3saZEWLyQEO) | [Walk this road](https://open.spotify.com/album/5Gal7XaBtHNT687d69zomu) | 3:31 | 2026-04-11 |  |
 | [Walls](https://open.spotify.com/track/4jfale9zgHt9thJ6JFX6Ew) | [Joy Xande](https://open.spotify.com/artist/1lgXevJ9jOHDFulgS77qdR), [The Peace Option](https://open.spotify.com/artist/2vqA6XWr6sAnkDOIvd6YWM) | [Walls](https://open.spotify.com/album/52adXcCRJ2WMZ4lzuRjlej) | 3:56 | 2026-03-09 |  |
 | [Warzone](https://open.spotify.com/track/5eoBteAO3WSt6o9f18AVzm) | [Young Naughty G](https://open.spotify.com/artist/5ffV6UQd1XxjugmDxDN4cw) | [Warzone](https://open.spotify.com/album/4be2Xs4hXkcvjhkNKuN1Dl) | 1:19 | 2026-01-03 | 2026-01-25 |
 | [Was All \(Live at Rui2online\)](https://open.spotify.com/track/7287cbTyQRUs93lI7T5kLA) | [Bed Riders](https://open.spotify.com/artist/5ZD5TtaJpglHW9xPCjrdpZ), [Sexbasstian](https://open.spotify.com/artist/4p5dHOfoagYZjykFlyClIf) | [2014](https://open.spotify.com/album/4zRuYKD8Jr5mFjxeghUQ1E) | 5:08 | 2025-12-20 | 2026-01-15 |

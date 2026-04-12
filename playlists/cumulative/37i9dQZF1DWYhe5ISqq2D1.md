@@ -4,7 +4,7 @@
 
 > 日本のシンガーソングライターを特集。Cover: 紫 今
 
-1,324 songs - 3 day 11 hr 43 min
+1,325 songs - 3 day 11 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [again](https://open.spotify.com/track/1aseYWvk8nyKCLYIBkMyRr) | [眉村ちあき](https://open.spotify.com/artist/4DjusI9WuKLk3cmsJGtl8T) | [again](https://open.spotify.com/album/5RLK5P7bmOWSnAwsWNtp42) | 3:12 | 2026-03-03 | 2026-03-11 |
 | [Aging](https://open.spotify.com/track/4wSfTNpteKJo0uKiy4VCBT) | [Ai Higuchi](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [Aging](https://open.spotify.com/album/4Tcip93W7ziXsIInpVzUY9) | 4:01 | 2025-07-08 | 2025-07-23 |
 | [Ai](https://open.spotify.com/track/7MtFI7SSGFJAkCYaj5IoJZ) | [猫蛙](https://open.spotify.com/artist/4LoPTaiMDcYYOohGwm5T11) | [Ai](https://open.spotify.com/album/5tJg96D4h2SqZXDDLuiNoU) | 1:48 | 2025-03-18 | 2025-03-26 |
-| [Ai ga tokenai uchini](https://open.spotify.com/track/0zedFXbBZMdMkYMx5py6Wh) | [TOMIOKA AI](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [Ai ga tokenai uchini](https://open.spotify.com/album/6GHEXCy9UsevYbOCjyrtMc) | 3:48 | 2026-02-24 |  |
+| [Ai ga tokenai uchini](https://open.spotify.com/track/0zedFXbBZMdMkYMx5py6Wh) | [TOMIOKA AI](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [Ai ga tokenai uchini](https://open.spotify.com/album/6GHEXCy9UsevYbOCjyrtMc) | 3:48 | 2026-02-24 | 2026-04-12 |
 | [Aiga Subeteno Koto](https://open.spotify.com/track/3wTxcNyt5lp0GTH2wkDVZC) | [STRANGE REITARO](https://open.spotify.com/artist/56GlPMUHPnbBDYMMbgLHN4) | [Aiga Subeteno Koto](https://open.spotify.com/album/1UXwpIKVYuaXRPprSChU92) | 4:32 | 2026-01-14 | 2026-01-21 |
 | [aiko ga tuduita mitaina](https://open.spotify.com/track/4Xp8BPH0XH1kvaRj0FCKLi) | [Mizuki Ohira](https://open.spotify.com/artist/5rNUVqgzCi4FX47RY8n9cx) | [After All, All Mine](https://open.spotify.com/album/0KweSlxA28L6NhNqwRV5iO) | 3:02 | 2025-02-18 | 2025-02-26 |
 | [Aimayu](https://open.spotify.com/track/2iB24OTJfF6Gx1wjkJxX0n) | [Xiwum.](https://open.spotify.com/artist/4vgoKIbrBmS4kOXu6gd1aC) | [Aimayu](https://open.spotify.com/album/6GRTfTrsmQsaLaHBDENzid) | 3:18 | 2025-12-09 | 2025-12-17 |
@@ -382,6 +382,7 @@
 | [My summer](https://open.spotify.com/track/7CTY2G11hGQYt4p71CVwfo) | [Sakura Fujiwara](https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et) | [My summer](https://open.spotify.com/album/1vJ4vwHNJSrhmNRqjGd6Z5) | 4:02 | 2026-02-11 |  |
 | [Nakasu Night.](https://open.spotify.com/track/6u2UqLsva95PjzVqwTSYZ5) | [クボタカイ](https://open.spotify.com/artist/0eg7sMst2b9wLVyMgtRFpY) | [Nakasu Night.](https://open.spotify.com/album/7Fd1uHCJUa9m1vMrtFcsS6) | 2:16 | 2025-05-07 | 2025-05-14 |
 | [NAMAE](https://open.spotify.com/track/6Onyn20upVTyo6BVJVQXqX) | [Ami Sakaguchi](https://open.spotify.com/artist/4aJOCsyxr9bOooJDwmXUwX) | [NAMAE](https://open.spotify.com/album/0CqlKVuJQV18fSmSVkSUWO) | 3:45 | 2025-12-09 | 2025-12-17 |
+| [Navy](https://open.spotify.com/track/6CqlTwtPM4yK2GpdXtEzvB) | [梓川](https://open.spotify.com/artist/2iydjGtDnXejF2L1pgsBB8) | [Navy](https://open.spotify.com/album/2Zi7RpcLBSXHqEkjUe2nbN) | 2:57 | 2026-04-07 |  |
 | [Near Pin Romance](https://open.spotify.com/track/2uWy0KHw5LZmnlBPUU55r4) | [Niina](https://open.spotify.com/artist/3awoctCVai4GDLEzZREbPV) | [Near Pin Romance](https://open.spotify.com/album/2o3z0YEdacUCfnVVaPyDVV) | 3:34 | 2025-08-19 | 2025-08-27 |
 | [Necklace](https://open.spotify.com/track/44emqO2dckfkL67F53TuHJ) | [Angela Aki](https://open.spotify.com/artist/7if7UQ2RpiPgIvUkgomgR7) | [SHADOW WORK](https://open.spotify.com/album/2IdM3we2u6vwMQpeETtHPi) | 4:56 | 2026-02-17 | 2026-03-18 |
 | [Neko Mitaina Kanojyo \- demo](https://open.spotify.com/track/2FgEx69gkzc6eCbS2RXkyl) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [Neko Mitaina Kanojyo \- demo](https://open.spotify.com/album/4Swf3YByzBu98C7k0JvLDB) | 3:10 | 2025-03-11 | 2025-03-19 |

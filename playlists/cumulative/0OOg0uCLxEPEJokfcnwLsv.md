@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-434 songs - 1 day 3 hr 0 min
+437 songs - 1 day 3 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,12 +113,14 @@
 | [Doctor Nic](https://open.spotify.com/track/4XYU90isBsinHacvaUtV1g) | [DORK](https://open.spotify.com/artist/76QFsdAqZECaFPJW1bxIKV) | [Doctor Nic](https://open.spotify.com/album/6wwti6Vjul2wP1hnQKE8MB) | 3:26 | 2026-01-31 | 2026-02-18 |
 | [Domenica mattina](https://open.spotify.com/track/0l3BjpYgBsWqS73T2PyDhV) | [Social Six](https://open.spotify.com/artist/4NAshWdxgeqcFG6kioF8eq) | [Domenica mattina](https://open.spotify.com/album/2bZjKSpBeuBPvVm3BbHzLX) | 3:41 | 2026-02-16 | 2026-03-22 |
 | [Don't Ask Why](https://open.spotify.com/track/5UDr0x745fkPgpILhvNjLC) | [The Lollygags](https://open.spotify.com/artist/2i8RjASHxZLub8hlOOHl6t) | [Don't Ask Why & Maum Meditation](https://open.spotify.com/album/6mosG3jbAhh0CGnynBON2T) | 4:36 | 2025-11-21 | 2025-12-12 |
+| [Don't Call](https://open.spotify.com/track/6mezWgu1bwXF0AUsbJOIhe) | [Royal Fools](https://open.spotify.com/artist/4OQMfxWWXrkJJlIuUfkrC8) | [PROM](https://open.spotify.com/album/1fWnNXEHS7MeHzh5aoG2pg) | 2:18 | 2026-04-11 |  |
 | [don't know better](https://open.spotify.com/track/6OPNg2fvD1f2HIPj4Tfh7x) | [Nathan Etes](https://open.spotify.com/artist/11WVY9LG4XWkOptquaXJ71) | [juniper](https://open.spotify.com/album/5e49oVu5bURuKYCej31uVw) | 2:45 | 2025-11-22 | 2025-12-12 |
 | [Don't Let Me Go](https://open.spotify.com/track/02h0GTr7iO4JUUu5Vy2cfZ) | [Paranoize](https://open.spotify.com/artist/2IsNoOamJMVdmEKK4dQKcS) | [Don't Let Me Go](https://open.spotify.com/album/3Kg1v6AGrwbxB1D8MqPZTF) | 2:13 | 2025-11-09 | 2026-02-04 |
 | [Don't Look Down](https://open.spotify.com/track/2rChoCLrXcHGrLW5l4lya6) | [Beth Seymour & The Lizzies](https://open.spotify.com/artist/04kwM7mgN8lfQPfnwukpUX) | [Don't Look Down](https://open.spotify.com/album/2LD7xfQB1uIHkluQfz7mJH) | 3:42 | 2025-11-12 | 2025-12-12 |
 | [Don't Wanna](https://open.spotify.com/track/2ZUpvS0jEJ0pfnRXB5dn7A) | [Empty Head](https://open.spotify.com/artist/6UWKEdxaXbMMQYtIyBWe9X) | [Don't Wanna](https://open.spotify.com/album/1UdvKOk5LxOXyaKhhPmg4l) | 4:19 | 2025-11-21 | 2025-12-12 |
 | [Don’t Let Your Boyfriends Go to Europe](https://open.spotify.com/track/7Ch3AafJnh1R8uSsklKaq1) | [Gardening Club](https://open.spotify.com/artist/4tVR6UmVssdtcN2BY6fbmg) | [Don’t Let Your Boyfriends Go to Europe / America](https://open.spotify.com/album/4P8bLnks0P5Ca7evdu1YG8) | 3:33 | 2026-03-13 |  |
 | [Dove potremmo volare](https://open.spotify.com/track/6E5inIWTfbmyqz9JM2CpHo) | [Cristian Nevola](https://open.spotify.com/artist/5obCJ7rIcd96XExURB2NTv) | [Amaroamore](https://open.spotify.com/album/4YRkPuAuBGSCFzD4Inbum7) | 3:07 | 2026-01-11 | 2026-02-04 |
+| [Down and Out](https://open.spotify.com/track/4FijKBMTSLv63uXNh3qM1e) | [White Star Line](https://open.spotify.com/artist/3qDMmbHoQIpMvNuOzyazsh) | [Down and Out](https://open.spotify.com/album/6Hg0NRmmjjjjaBKYqG3nGh) | 3:42 | 2026-04-11 |  |
 | [Down to My Feet](https://open.spotify.com/track/2DlausN3Iu4vDkdAID6w2c) | [Tuesday Morality](https://open.spotify.com/artist/2cFjxotbhCT7shNvSC4NxS) | [PARASITES](https://open.spotify.com/album/0OYvlXzuH05dKaP9uLsjYa) | 5:03 | 2025-12-05 | 2025-12-28 |
 | [Drink Deep](https://open.spotify.com/track/7gikiS1tbe16Xh3FPkRojT) | [The Rabbit Council](https://open.spotify.com/artist/1nSm3sva0zgXWbnUjsu5nf) | [Camera 321/Tivoli Park/Drink Deep](https://open.spotify.com/album/2U7atN68CngRU0oJk6BkOx) | 4:02 | 2025-11-26 | 2026-01-21 |
 | [Easy Rollin](https://open.spotify.com/track/32v73Yi63EoEukVxoaSv93) | [CHOCA BLUES](https://open.spotify.com/artist/3cCPBFA3njtllaTGO7Av2W) | [The Way We Roll](https://open.spotify.com/album/1QkiIps2aHo0aqkw3xWukw) | 2:48 | 2026-02-20 |  |
@@ -175,6 +177,7 @@
 | [Hold On](https://open.spotify.com/track/0wAzX0NZLyAFPTflxOTCTc) | [Broken Star](https://open.spotify.com/artist/7jixBxoSPjyr8LXJaa8TX6) | [Hold On](https://open.spotify.com/album/43GFUuYUiB80EuOmuTcbCj) | 2:38 | 2026-02-09 | 2026-03-04 |
 | [Horsedance](https://open.spotify.com/track/5Kyxld3QBUpL5RzO9ahlBm) | [23 And Beyond The Infinite](https://open.spotify.com/artist/2nFL6h2Km7gLJumEEOaDLW) | [Lumen Del Mundo](https://open.spotify.com/album/4S2EiOj8ZQfU0ytNo7RN8H) | 3:18 | 2026-03-22 |  |
 | [Hover](https://open.spotify.com/track/1VPbv7tBDx59RfOEPe1zgH) | [Jenine](https://open.spotify.com/artist/0oWzaYwOVGqNCeUa6ozxn3) | [Hover](https://open.spotify.com/album/1Q7soH0TmMr4GGJCtEmMLE) | 2:52 | 2025-12-13 | 2026-02-23 |
+| [Hunt Me Down](https://open.spotify.com/track/0b2RimjmoPFCqXvppAZeAq) | [Forestt Light](https://open.spotify.com/artist/1dQO7ovsxueUnTvuQril35) | [Hunt Me Down](https://open.spotify.com/album/6FdekhGJLX3juBXFgSqyvh) | 3:57 | 2026-04-11 |  |
 | [Hurts \(Dancing With Ghosts\)](https://open.spotify.com/track/1QFmP5yTicfkV52OjzJRqD) | [The New Old](https://open.spotify.com/artist/0YPr7kEbKKF1wICVeL71tb) | [Hurts \(Dancing With Ghosts\)](https://open.spotify.com/album/1LttVa39jjMMHbKWXsKujT) | 3:59 | 2026-02-14 |  |
 | [Hypernormal](https://open.spotify.com/track/1ACaEDG5jQ8KfvKTUKjEu5) | [Dead Broke](https://open.spotify.com/artist/5pAHHsGlcYhq7bUJNvjKsu) | [Hypernormal](https://open.spotify.com/album/1uwOBbr56z90M0sxbWYr6M) | 3:17 | 2025-12-12 | 2026-01-05 |
 | [I Am Flawed](https://open.spotify.com/track/3oYFTvvRrZ9KSMq7hbuaOo) | [not equal to](https://open.spotify.com/artist/0ULpVOsLdkHOUlA3006rnz) | [I Am Flawed](https://open.spotify.com/album/20ZRfSRKjTMNCYtRXmWI36) | 3:16 | 2025-12-07 | 2025-12-28 |

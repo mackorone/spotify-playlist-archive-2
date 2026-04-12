@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Anitta, Shakira
 
-[Spotify](https://open.spotify.com/user/spotify) - 849,219 likes - 49 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 849,121 likes - 49 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 21 | [EL SENTRITA](https://open.spotify.com/track/1RDegRqPNWTRSqFWfJ5Qho) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [ETERNO](https://open.spotify.com/album/6yNzRHzjoxFZ4rpgvCudT7) | 2:57 |
 | 22 | [Dona de Casa](https://open.spotify.com/track/23S0CnAJMB0vLCL1vYHLXH) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [Dona de Casa](https://open.spotify.com/album/59YfQZNocygHKxxJ7DEaAQ) | 1:08 |
 | 23 | [Mi primer Amor](https://open.spotify.com/track/5RixRY8ckuBeyPBfl2Mn7X) | [Moncho Chavea](https://open.spotify.com/artist/7fL1kRUb9Zv1xxgOmsuUPn), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [Xiyo](https://open.spotify.com/artist/2FzRIRtYVDBIJBvTqh7xzQ), [Fernandezz](https://open.spotify.com/artist/7mVQGK5j4VKkAvdOhUotB1) | [Mi primer Amor](https://open.spotify.com/album/7mQmfMIinhLabELcTJ1urW) | 3:57 |
-| 24 | [I Just Wanna Go](https://open.spotify.com/track/7IBcDaxj8udmlYCZ6mVZ9f) | [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td) | [ARꓘANO](https://open.spotify.com/album/6dehecfgOrOfZqIzzwDQxl) | 4:24 |
+| 24 | [I Just Wanna Go](https://open.spotify.com/track/7IBcDaxj8udmlYCZ6mVZ9f) | [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td), [CLY G](https://open.spotify.com/artist/2ga75byi3NtSCJIvQGl19j) | [ARꓘANO](https://open.spotify.com/album/6dehecfgOrOfZqIzzwDQxl) | 4:24 |
 | 25 | [Letras Chiquitas](https://open.spotify.com/track/2xX22Q4snEaWfqUVooJp9b) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy), [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C), [Caztro](https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW) | [Letras Chiquitas](https://open.spotify.com/album/7cdkN6vQDrlnZMGJjvg3gT) | 4:22 |
 | 26 | [FFF](https://open.spotify.com/track/3EPGWBvRxGWkPSChTBkABG) | [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [FFF](https://open.spotify.com/album/4zBseCXdGVBhWeJuq89ZVZ) | 2:44 |
 | 27 | [Verte en abril](https://open.spotify.com/track/50gLxVAZCpxOa72LoAsQqL) | [Marta Santos](https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK) | [Verte en abril](https://open.spotify.com/album/5gjNZpso9EepOVd0Nsy16w) | 3:09 |

@@ -1,6 +1,6 @@
 {
   "description": "2010\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 31154,
+  "num_followers": 31161,
   "original_name": "2010\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
@@ -647,6 +647,22 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
+        "name": "WINTER",
+        "url": "https://open.spotify.com/album/0xrAlQfw3MZ5QGhw2NptQt"
+      },
+      "artists": [
+        {
+          "name": "AKMU",
+          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
+        }
+      ],
+      "duration_ms": 283800,
+      "name": "Last Goodbye",
+      "url": "https://open.spotify.com/track/0x50cQ1pZeV4xl737GhKBk"
+    },
+    {
+      "added_at": "2024-08-05 16:58:20",
+      "album": {
         "name": "Electric Shock - The 2nd Mini Album",
         "url": "https://open.spotify.com/album/7LVMjDwcyhVhDTHddKPjIs"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 193153,
       "name": "Catallena",
       "url": "https://open.spotify.com/track/5fWKr5p15BTazjflJ6HX5j"
-    },
-    {
-      "added_at": "2024-08-05 16:58:20",
-      "album": {
-        "name": "WINTER",
-        "url": "https://open.spotify.com/album/0xrAlQfw3MZ5QGhw2NptQt"
-      },
-      "artists": [
-        {
-          "name": "AKMU",
-          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
-        }
-      ],
-      "duration_ms": 283800,
-      "name": "Last Goodbye",
-      "url": "https://open.spotify.com/track/0x50cQ1pZeV4xl737GhKBk"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "ALONE",
-        "url": "https://open.spotify.com/album/5PXVRXQIPAXH0j78MfeDrV"
-      },
-      "artists": [
-        {
-          "name": "SISTAR",
-          "url": "https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP"
-        }
-      ],
-      "duration_ms": 206266,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/40gUfKHwCNLpXowFN9Hvsu"
-    },
-    {
-      "added_at": "2024-08-05 16:58:20",
-      "album": {
         "name": "BIGBANG Special Edition",
         "url": "https://open.spotify.com/album/2fpQB21ER6ETvnfADPdaHl"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 223786,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/2G8HyURZh9SBNuCzllz8Fu"
+    },
+    {
+      "added_at": "2024-08-05 16:58:20",
+      "album": {
+        "name": "ALONE",
+        "url": "https://open.spotify.com/album/5PXVRXQIPAXH0j78MfeDrV"
+      },
+      "artists": [
+        {
+          "name": "SISTAR",
+          "url": "https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP"
+        }
+      ],
+      "duration_ms": 206266,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/40gUfKHwCNLpXowFN9Hvsu"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "Act. 7",
-        "url": "https://open.spotify.com/album/2QGDdrZDuxK7VBmcJZxi1B"
-      },
-      "artists": [
-        {
-          "name": "4Minute",
-          "url": "https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv"
-        }
-      ],
-      "duration_ms": 216333,
-      "name": "Hate",
-      "url": "https://open.spotify.com/track/3Hd6zm1J4bVeu4VXwaDQL3"
-    },
-    {
-      "added_at": "2024-08-05 16:58:20",
-      "album": {
         "name": "PRODUCE 101 - 35 Boys 5 Concepts",
         "url": "https://open.spotify.com/album/1cXSov8tF5PietO9VICqDI"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 196853,
       "name": "NEVER",
       "url": "https://open.spotify.com/track/095rDYLjAHYmis3vU8gRxo"
+    },
+    {
+      "added_at": "2024-08-05 16:58:20",
+      "album": {
+        "name": "Act. 7",
+        "url": "https://open.spotify.com/album/2QGDdrZDuxK7VBmcJZxi1B"
+      },
+      "artists": [
+        {
+          "name": "4Minute",
+          "url": "https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv"
+        }
+      ],
+      "duration_ms": 216333,
+      "name": "Hate",
+      "url": "https://open.spotify.com/track/3Hd6zm1J4bVeu4VXwaDQL3"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "Volume Up",
-        "url": "https://open.spotify.com/album/392dpAiWwgaZBrc7iexjtT"
-      },
-      "artists": [
-        {
-          "name": "4Minute",
-          "url": "https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv"
-        }
-      ],
-      "duration_ms": 230008,
-      "name": "Volume Up",
-      "url": "https://open.spotify.com/track/2RKgRT8O8K3DXfsGfnbNWx"
-    },
-    {
-      "added_at": "2024-08-05 16:58:20",
-      "album": {
         "name": "Time And Fallen Leaves",
         "url": "https://open.spotify.com/album/3rF55htTUDmzgxJ5CT3XQC"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 247435,
       "name": "Time And Fallen Leaves",
       "url": "https://open.spotify.com/track/5Qy4FxZ6FtNwWmRaLi6Fcu"
+    },
+    {
+      "added_at": "2024-08-05 16:58:20",
+      "album": {
+        "name": "Volume Up",
+        "url": "https://open.spotify.com/album/392dpAiWwgaZBrc7iexjtT"
+      },
+      "artists": [
+        {
+          "name": "4Minute",
+          "url": "https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv"
+        }
+      ],
+      "duration_ms": 230008,
+      "name": "Volume Up",
+      "url": "https://open.spotify.com/track/2RKgRT8O8K3DXfsGfnbNWx"
     },
     {
       "added_at": "2024-08-05 16:58:20",

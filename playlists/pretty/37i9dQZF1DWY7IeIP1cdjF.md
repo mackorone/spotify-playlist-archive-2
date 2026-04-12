@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7IeIP1cdjF.md) - [plain]
 
 > Reggaeton hits from El Malilla & Luis R Conriquez, Omar Courtz , Bad Gyal, Bad Bunny and more\. 🔥🍑
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,366,465 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,365,646 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

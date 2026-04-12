@@ -1,12 +1,12 @@
 {
   "description": "This is Bluey. The essential tracks, all in one playlist.",
-  "num_followers": 51367,
+  "num_followers": 51386,
   "original_name": "This Is Bluey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adbsAAAAAACE7mE9IOFpHsreXCiELE+6",
+  "snapshot_id": "adg9gAAAAAAkhregYJEwWlxQGIERaipE",
   "tracks": [
     {
       "added_at": null,
@@ -642,11 +642,15 @@
         {
           "name": "Joff Bush",
           "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
+        },
+        {
+          "name": "Pluto Jonze",
+          "url": "https://open.spotify.com/artist/6DRm66ULaD9MVnfZ4TBfmF"
         }
       ],
-      "duration_ms": 76443,
-      "name": "Rug Island, Pt. 2",
-      "url": "https://open.spotify.com/track/3Cq2MyHslpTABcw1bPx50m"
+      "duration_ms": 216849,
+      "name": "Cricket",
+      "url": "https://open.spotify.com/track/3lKbohZkDt7f2TtS0b41XL"
     }
   ],
   "unique_name": "This Is Bluey",

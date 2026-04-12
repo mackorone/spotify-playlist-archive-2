@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 
 > 
 
-[CerVon Campbell](https://open.spotify.com/user/1275620579) - 525 likes - 200 songs - 10 hr 25 min
+[CerVon Campbell](https://open.spotify.com/user/1275620579) - 525 likes - 201 songs - 10 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -208,5 +208,6 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 | 198 | [Buffet Froid](https://open.spotify.com/track/53S1EkSKU0xYaYuTLpkTkG) | [Ratel C](https://open.spotify.com/artist/2ZDIYXNX6XbJrIWGCaTLxc) | [Buffet Froid](https://open.spotify.com/album/2lqF0eFcb7yIw4LmZqTpwN) | 2:39 |
 | 199 | [personal](https://open.spotify.com/track/3euE3Hrf5sGffTMoWaQw80) | [Rafael Dies](https://open.spotify.com/artist/4td046m3qUPVqi53lzbw3N), [taidyn](https://open.spotify.com/artist/28xsr9dcYuN8Kmy1zdN4xx) | [personal](https://open.spotify.com/album/38zNure1dJiTE4rhKE2Fxf) | 2:58 |
 | 200 | [Still classy](https://open.spotify.com/track/3YQ3kRyU3KkdJmRKDTbrdZ) | [Dylan Vel](https://open.spotify.com/artist/1JZ7h4obyLusP8iJoX5lv5) | [Intelligence without love](https://open.spotify.com/album/1ogbieHuWXXudQIIxKCGFJ) | 5:51 |
+| 201 | [KILLER](https://open.spotify.com/track/4EzcHscbLds0XLxTxlzdYG) | [MEanIngfUl](https://open.spotify.com/artist/5j62YtmsqrRgu7v49wDtrA) | [KILLER](https://open.spotify.com/album/7zN3fyHeb5UujbCsNSJWM2) | 2:49 |
 
-Snapshot ID: `AAAVzpWD4LNKNtGaRmao6oXLr/uu4lvl`
+Snapshot ID: `AAAVz4B0idSEVlTCHyVVPashzB95gcUB`

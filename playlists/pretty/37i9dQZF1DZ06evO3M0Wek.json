@@ -1,12 +1,12 @@
 {
   "description": "This is Halestorm. The essential tracks, all in one playlist.",
-  "num_followers": 115540,
+  "num_followers": 115563,
   "original_name": "This Is Halestorm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adbsAAAAAADd7MxWY55dBSVcJfQEKyaZ",
+  "snapshot_id": "adg9gAAAAACmErDpbA16VEZZ11e6mfqF",
   "tracks": [
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back From the Dead",
-        "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 205228,
-      "name": "Psycho Crazy",
-      "url": "https://open.spotify.com/track/5TAdz0I4uEIOnUiJ3Q6YPd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ReAniMate: The CoVeRs eP",
         "url": "https://open.spotify.com/album/2fwH1QL0wgnbbXiHWCYs1D"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 302413,
       "name": "All I Wanna Do Is Make Love to You - EP Version",
       "url": "https://open.spotify.com/track/0TqBBrdwai3zdM90Tmyt8J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Back From the Dead",
+        "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 205228,
+      "name": "Psycho Crazy",
+      "url": "https://open.spotify.com/track/5TAdz0I4uEIOnUiJ3Q6YPd"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back From the Dead",
-        "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 206959,
-      "name": "Wicked Ways",
-      "url": "https://open.spotify.com/track/7dIObUjmQfXbs56UsaBIHT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ReAniMate 2.0: The CoVeRs eP",
         "url": "https://open.spotify.com/album/2uCehLMuLbXVqEklFZzfZA"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 188573,
       "name": "Get Lucky",
       "url": "https://open.spotify.com/track/66PgT7clBWAuQlMqoUL0YU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Back From the Dead",
+        "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 206959,
+      "name": "Wicked Ways",
+      "url": "https://open.spotify.com/track/7dIObUjmQfXbs56UsaBIHT"
     },
     {
       "added_at": null,
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
         }
       ],
-      "duration_ms": 250881,
-      "name": "Black Vultures",
-      "url": "https://open.spotify.com/track/42rrPJg1u7rX7Rx52taVVn"
+      "duration_ms": 240453,
+      "name": "Killing Ourselves to Live",
+      "url": "https://open.spotify.com/track/44eIe8EuF5DCM50hgWLR3b"
     },
     {
       "added_at": null,
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
         }
       ],
-      "duration_ms": 240453,
-      "name": "Killing Ourselves to Live",
-      "url": "https://open.spotify.com/track/44eIe8EuF5DCM50hgWLR3b"
+      "duration_ms": 250881,
+      "name": "Black Vultures",
+      "url": "https://open.spotify.com/track/42rrPJg1u7rX7Rx52taVVn"
     },
     {
       "added_at": null,
@@ -703,38 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everest",
-        "url": "https://open.spotify.com/album/5i8fhyMoVuH1O3pofbxywv"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 233897,
-      "name": "Gather The Lambs",
-      "url": "https://open.spotify.com/track/1HY8G7dYpwlxJ9XVrOq6j1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vicious",
-        "url": "https://open.spotify.com/album/6hIMdrqgLXY73T9411Y7Ux"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 220666,
-      "name": "Uncomfortable",
-      "url": "https://open.spotify.com/track/6qKSmXS6AOmSFAnmSxkASx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Who I Am",
         "url": "https://open.spotify.com/album/7hAIZs0bKgPMX8J10TBZiU"
       },
@@ -755,6 +723,38 @@
       "duration_ms": 254887,
       "name": "Out In the Rain",
       "url": "https://open.spotify.com/track/3OEbly55618a1uDTP3Pd4a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vicious",
+        "url": "https://open.spotify.com/album/6hIMdrqgLXY73T9411Y7Ux"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 220666,
+      "name": "Uncomfortable",
+      "url": "https://open.spotify.com/track/6qKSmXS6AOmSFAnmSxkASx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Everest",
+        "url": "https://open.spotify.com/album/5i8fhyMoVuH1O3pofbxywv"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 233897,
+      "name": "Gather The Lambs",
+      "url": "https://open.spotify.com/track/1HY8G7dYpwlxJ9XVrOq6j1"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: Evado",
-  "num_followers": 79744,
+  "num_followers": 79783,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-04-10 00:01:55",
       "album": {
-        "name": "Hat-Trick",
-        "url": "https://open.spotify.com/album/3jSB9yCl5M97zQTNeR8DNo"
-      },
-      "artists": [
-        {
-          "name": "Muyeez",
-          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
-        }
-      ],
-      "duration_ms": 137892,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/5jEEHhGcHpAbzqQuQPylOT"
-    },
-    {
-      "added_at": "2026-04-10 00:01:55",
-      "album": {
         "name": "FLAKO",
         "url": "https://open.spotify.com/album/0JPDGiGSSfjSw0VPFXKHjX"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 174117,
       "name": "FLAKO",
       "url": "https://open.spotify.com/track/4gNOP9BGhyl2apkm8Xy7Eg"
+    },
+    {
+      "added_at": "2026-04-10 00:01:55",
+      "album": {
+        "name": "Hat-Trick",
+        "url": "https://open.spotify.com/album/3jSB9yCl5M97zQTNeR8DNo"
+      },
+      "artists": [
+        {
+          "name": "Muyeez",
+          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
+        }
+      ],
+      "duration_ms": 137892,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/5jEEHhGcHpAbzqQuQPylOT"
     },
     {
       "added_at": "2026-04-10 00:01:55",
@@ -1023,18 +1023,26 @@
     {
       "added_at": "2026-04-10 00:01:55",
       "album": {
-        "name": "INDUSTRY MACHINE",
-        "url": "https://open.spotify.com/album/6jqvqsLMnDQc1iRNkLwxrL"
+        "name": "THE MACHINE IS COMING",
+        "url": "https://open.spotify.com/album/36U8302LdYPvDkPFs8MlBZ"
       },
       "artists": [
         {
           "name": "ODUMODUBLVCK",
           "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Juno",
+          "url": "https://open.spotify.com/artist/1K8EfKCk74fvBfCFiyK8is"
+        },
+        {
+          "name": "Valentino Rose",
+          "url": "https://open.spotify.com/artist/0qIB4W2DllGjdIdeDK4l8t"
         }
       ],
-      "duration_ms": 184821,
-      "name": "INDUSTRY MACHINE",
-      "url": "https://open.spotify.com/track/3wxFGa444tOpit0dsToPd6"
+      "duration_ms": 172800,
+      "name": "TOY GIRL (with Juno & Valentino Rose)",
+      "url": "https://open.spotify.com/track/3iHp95MVzN1hBiOuR0cJmy"
     },
     {
       "added_at": "2026-04-10 00:01:55",
@@ -1303,18 +1311,30 @@
     {
       "added_at": "2026-04-10 00:01:55",
       "album": {
-        "name": "No Excuses",
-        "url": "https://open.spotify.com/album/307ndfsqUj3MF4y0uHsinE"
+        "name": "Ikigai / \u751f\u304d\u7532\u6590, Vol. 1",
+        "url": "https://open.spotify.com/album/4L4439Ev3pC3bRZdmKUCgI"
       },
       "artists": [
         {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        },
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        },
+        {
+          "name": "Lil Kesh",
+          "url": "https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT"
         }
       ],
-      "duration_ms": 224000,
-      "name": "ACL",
-      "url": "https://open.spotify.com/track/26hGieucfbYZBwHcq2G05S"
+      "duration_ms": 163468,
+      "name": "Synchro System (feat. Pheelz, Young Jonn & Lil Kesh)",
+      "url": "https://open.spotify.com/track/4OXlgrOv4FtLuMnuqsI69c"
     }
   ],
   "unique_name": "Naija Bars ",

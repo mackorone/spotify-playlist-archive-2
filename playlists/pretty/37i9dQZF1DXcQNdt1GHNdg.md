@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQNdt1GHNdg.md) - [plain]
 
 > Pump up your adrenaline with Punjabi hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,579 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,641 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Dealer](https://open.spotify.com/track/7k65xsOjTqONQhfpVWYAWG) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Da Future](https://open.spotify.com/artist/0JoJujh7AH388xjwLHe0IR), [Virk Andaaz](https://open.spotify.com/artist/4jIIs4ktqKx3OJMbn7Xo7l) | [Dealer](https://open.spotify.com/album/500ZX1Af0B65dJHBwRWJ8N) | 1:50 |
-| 2 | [Gym De Shokeen 2](https://open.spotify.com/track/2btGjzyyfMrt7dhiE7KqBy) | [Bhalwaan](https://open.spotify.com/artist/0B6Y4zlto5DbCaU6eNLvXi), [Saab Goraya](https://open.spotify.com/artist/7nqFt6qdbyBX9o9ZFXfCTB) | [Gym De Shokeen 2](https://open.spotify.com/album/1KNLDT5MfVWYDvyEG6XjaB) | 5:38 |
+| 2 | [Gym De Shokeen 2](https://open.spotify.com/track/2btGjzyyfMrt7dhiE7KqBy) | [Bhallwaan](https://open.spotify.com/artist/3FxW0tkjSNrYa2RvxqNKMG), [Saab Goraya](https://open.spotify.com/artist/7nqFt6qdbyBX9o9ZFXfCTB) | [Gym De Shokeen 2](https://open.spotify.com/album/1KNLDT5MfVWYDvyEG6XjaB) | 5:38 |
 | 3 | [God Did](https://open.spotify.com/track/6uXLkl9s5ER4ztOT77d1pa) | [NIJJAR](https://open.spotify.com/artist/4tnu4MuDLf51KcBOYvaB5W) | [God Did](https://open.spotify.com/album/5WVHUqcMoOmqdBlhwkEbCN) | 2:38 |
 | 4 | [5\-7](https://open.spotify.com/track/6PRFDCNAMLeSZimkPGrKMG) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [5\-7](https://open.spotify.com/album/4dXcuXW8WwIL72AdynEorK) | 2:34 |
 | 5 | [Kudi Chidi](https://open.spotify.com/track/13jtIRitHaTMsBgZn5EGOj) | [SAHIL CHEEMA](https://open.spotify.com/artist/386AhN34S4IHWkG8mGM1g6), [Prodbywizrd](https://open.spotify.com/artist/0ZmMkBzd5XM8fJBFZrJU0W) | [Kudi Chidi](https://open.spotify.com/album/6jbEuuqf3VDacCKn1kdu0B) | 3:16 |

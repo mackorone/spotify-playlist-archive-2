@@ -1,6 +1,6 @@
 {
   "description": "for the late nights",
-  "num_followers": 20809,
+  "num_followers": 20817,
   "original_name": "the night bus",
   "owner": {
     "name": "Spotify",
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Bad",
-        "url": "https://open.spotify.com/album/3I8m0mug29wYCCVJuX7xqA"
-      },
-      "artists": [
-        {
-          "name": "Gotts Street Park",
-          "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y"
-        },
-        {
-          "name": "Zilo",
-          "url": "https://open.spotify.com/artist/3fcW2V4zOfFm0IsWCJUuzz"
-        }
-      ],
-      "duration_ms": 211733,
-      "name": "Bad",
-      "url": "https://open.spotify.com/track/4NOzEFuBL6jzKqovwxB5Pi"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "West End",
         "url": "https://open.spotify.com/album/4Loru0xZI5PfOd3ntrImBa"
       },
@@ -1295,6 +1275,26 @@
       "duration_ms": 154426,
       "name": "West End",
       "url": "https://open.spotify.com/track/3kQ9d2gkLtNT0xkGbefSgH"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "Bad",
+        "url": "https://open.spotify.com/album/3I8m0mug29wYCCVJuX7xqA"
+      },
+      "artists": [
+        {
+          "name": "Gotts Street Park",
+          "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y"
+        },
+        {
+          "name": "Zilo",
+          "url": "https://open.spotify.com/artist/3fcW2V4zOfFm0IsWCJUuzz"
+        }
+      ],
+      "duration_ms": 211733,
+      "name": "Bad",
+      "url": "https://open.spotify.com/track/4NOzEFuBL6jzKqovwxB5Pi"
     },
     {
       "added_at": "2025-08-07 15:52:15",

@@ -1,12 +1,12 @@
 {
   "description": "This is G Herbo. The essential tracks, all in one playlist.",
-  "num_followers": 35818,
+  "num_followers": 35821,
   "original_name": "This Is G Herbo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adbsAAAAAAABPtGry53LGRQ5hT4ulNfb",
+  "snapshot_id": "adg9gAAAAABhWoYInM4bAtP0tegpRkbF",
   "tracks": [
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Welcome to Fazoland (Anniversary Edition)",
-        "url": "https://open.spotify.com/album/1xUgmXMX6ojx1Tum5FbL26"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 256052,
-      "name": "Same Me",
-      "url": "https://open.spotify.com/track/1vSbIcIQHsquII7EkSwCa4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GANG",
         "url": "https://open.spotify.com/album/1x3J6WxUBpVsk58fDM2KLf"
       },
@@ -691,6 +675,26 @@
       "duration_ms": 224702,
       "name": "GANG",
       "url": "https://open.spotify.com/track/2pDJmM3hkzefoW8c8St7Iw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Survivor\u2019s Guilt (feat. G Herbo)",
+        "url": "https://open.spotify.com/album/5LmyrJlTv5zRJm2CiyxHSS"
+      },
+      "artists": [
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 183703,
+      "name": "Survivor\u2019s Guilt (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/6nCWE96dbCCeWig5TZu4jv"
     },
     {
       "added_at": null,
@@ -719,42 +723,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Survivor\u2019s Guilt (feat. G Herbo)",
-        "url": "https://open.spotify.com/album/5LmyrJlTv5zRJm2CiyxHSS"
+        "name": "Welcome to Fazoland (Anniversary Edition)",
+        "url": "https://open.spotify.com/album/1xUgmXMX6ojx1Tum5FbL26"
       },
       "artists": [
-        {
-          "name": "Meek Mill",
-          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
-        },
         {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
         }
       ],
-      "duration_ms": 183703,
-      "name": "Survivor\u2019s Guilt (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/6nCWE96dbCCeWig5TZu4jv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Not One Of Them",
-        "url": "https://open.spotify.com/album/1StgT8Y7STqeEdxy2ncqR6"
-      },
-      "artists": [
-        {
-          "name": "Hunxho",
-          "url": "https://open.spotify.com/artist/508weSx4HBumrGggFmc7br"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 196378,
-      "name": "Stone Cold (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/6i9DrvlluOrjSVe2JsZnKi"
+      "duration_ms": 256052,
+      "name": "Same Me",
+      "url": "https://open.spotify.com/track/1vSbIcIQHsquII7EkSwCa4"
     },
     {
       "added_at": null,
@@ -775,6 +755,26 @@
       "duration_ms": 154581,
       "name": "Back 2 Back",
       "url": "https://open.spotify.com/track/1tsDf9YBzRuAon9RgzfyOd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Not One Of Them",
+        "url": "https://open.spotify.com/album/1StgT8Y7STqeEdxy2ncqR6"
+      },
+      "artists": [
+        {
+          "name": "Hunxho",
+          "url": "https://open.spotify.com/artist/508weSx4HBumrGggFmc7br"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 196378,
+      "name": "Stone Cold (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/6i9DrvlluOrjSVe2JsZnKi"
     },
     {
       "added_at": null,
@@ -867,26 +867,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sneaky Link Chicago",
-        "url": "https://open.spotify.com/album/2lSKyvTSRoWix2gGoqz8Wk"
+        "name": "Still Swervin",
+        "url": "https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV"
       },
       "artists": [
-        {
-          "name": "HXLLYWOOD",
-          "url": "https://open.spotify.com/artist/7xlLJW6mWTYxZVLYkSGPjJ"
-        },
         {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
         },
         {
-          "name": "Queen Key",
-          "url": "https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR"
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         }
       ],
-      "duration_ms": 120852,
-      "name": "Sneaky Link Chicago",
-      "url": "https://open.spotify.com/track/1eoBWsU36esCVnmX947nBX"
+      "duration_ms": 200490,
+      "name": "Never Scared (feat. Juice WRLD)",
+      "url": "https://open.spotify.com/track/6D2RIkzcbQ5JT99JA0eVgi"
     },
     {
       "added_at": null,
@@ -911,22 +907,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Still Swervin",
-        "url": "https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV"
+        "name": "Sneaky Link Chicago",
+        "url": "https://open.spotify.com/album/2lSKyvTSRoWix2gGoqz8Wk"
       },
       "artists": [
+        {
+          "name": "HXLLYWOOD",
+          "url": "https://open.spotify.com/artist/7xlLJW6mWTYxZVLYkSGPjJ"
+        },
         {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
         },
         {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+          "name": "Queen Key",
+          "url": "https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR"
         }
       ],
-      "duration_ms": 200490,
-      "name": "Never Scared (feat. Juice WRLD)",
-      "url": "https://open.spotify.com/track/6D2RIkzcbQ5JT99JA0eVgi"
+      "duration_ms": 120852,
+      "name": "Sneaky Link Chicago",
+      "url": "https://open.spotify.com/track/1eoBWsU36esCVnmX947nBX"
     },
     {
       "added_at": null,
@@ -955,42 +955,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Swerv",
-        "url": "https://open.spotify.com/album/0E2aK1mNCG2c0AfMaRs3a4"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 176981,
-      "name": "Influence",
-      "url": "https://open.spotify.com/track/72nXS4EZQbF7TW9omZNro7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Skeletor",
-        "url": "https://open.spotify.com/album/3IAgMv1WFncG3ucFS0Jywd"
-      },
-      "artists": [
-        {
-          "name": "Chief Keef",
-          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 371618,
-      "name": "Slide (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/2A875AE6xfeiBuC28ZYtO3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Still Swervin",
         "url": "https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV"
       },
@@ -1003,6 +967,54 @@
       "duration_ms": 148239,
       "name": "Wilt Chamberlin",
       "url": "https://open.spotify.com/track/3t4ElXlTaOv5pFZmJBLh06"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AREA 41",
+        "url": "https://open.spotify.com/album/2Hn5BTivLqJy8bkKN3cUCI"
+      },
+      "artists": [
+        {
+          "name": "41",
+          "url": "https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8"
+        },
+        {
+          "name": "TaTa",
+          "url": "https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41"
+        },
+        {
+          "name": "Kyle Richh",
+          "url": "https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU"
+        },
+        {
+          "name": "Jenn Carter",
+          "url": "https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 184453,
+      "name": "Dracos & ARPs (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/74y5DbMsvYomEDFuMDP73l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Big Swerv",
+        "url": "https://open.spotify.com/album/0E2aK1mNCG2c0AfMaRs3a4"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 176981,
+      "name": "Influence",
+      "url": "https://open.spotify.com/track/72nXS4EZQbF7TW9omZNro7"
     }
   ],
   "unique_name": "This Is G Herbo",

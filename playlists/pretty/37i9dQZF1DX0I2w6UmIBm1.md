@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0I2w6UmIBm1.md) - [plain]
 
 > Uplift your spirit with these faith\-filled folk melodies\. Cover: Doyina
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,310 likes - 68 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,372 likes - 68 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0I2w6UmIBm1.md) - [plain]
 | 18 | [You Loved Me First](https://open.spotify.com/track/4KRGSKS702BHApwZBiCtZR) | [Landon Forbes](https://open.spotify.com/artist/07Y4FLIt4oUI1aUZsUDOM9) | [You Loved Me First](https://open.spotify.com/album/2igiPSrGLGeuFElYgNPF0V) | 3:06 |
 | 19 | [Far Far](https://open.spotify.com/track/3HJv7EgAFZQJrNGAZQemi4) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5) | [Far Far](https://open.spotify.com/album/334ovjV48rjW7uZAv395fV) | 2:35 |
 | 20 | [Holy Ghost Town](https://open.spotify.com/track/2nWIazEUVvVGxUFDG1dKxk) | [ELI GABLE](https://open.spotify.com/artist/4b9TssR4OW2BKUrrsffzsY) | [Holy Ghost Town](https://open.spotify.com/album/2Gikg56hpykR34ZE79BntV) | 3:12 |
-| 21 | [Hollow Grave](https://open.spotify.com/track/2BLwU4wimlaVNUtgUshRne) | [Aodhán King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf), [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [Hollow Grave](https://open.spotify.com/album/4yNbmNxjROUUaZcjQMa57p) | 3:40 |
+| 21 | [Hollow Grave](https://open.spotify.com/track/2BLwU4wimlaVNUtgUshRne) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm), [Aodhán King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf) | [Hollow Grave](https://open.spotify.com/album/4yNbmNxjROUUaZcjQMa57p) | 3:40 |
 | 22 | [Useless](https://open.spotify.com/track/3aHCy6JN3Rd50zYSyvqWcm) | [Thunderstorm Artis](https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5) | [Useless](https://open.spotify.com/album/31FsHpo1uaTCxGQyQIg1sl) | 2:58 |
 | 23 | [After All This Time](https://open.spotify.com/track/6R6cldyeIPH1pBGrSUYBJ8) | [Van Buren](https://open.spotify.com/artist/3Yu0KVIiHkzduNTv4V8QNl) | [After All This Time](https://open.spotify.com/album/5DCcYRli3V8rdF0gn5BSz2) | 3:38 |
 | 24 | [Come Back To Me \(Father's Song\)](https://open.spotify.com/track/2gLXY5Hrqik8eZo5cNliur) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Come Back To Me \(Father's Song\)](https://open.spotify.com/album/0Hhn9qin0XYC4ExuVaGMmn) | 3:58 |

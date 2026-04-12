@@ -4,7 +4,7 @@
 
 > This is The Who\. The essential tracks, all in one playlist.
 
-134 songs - 8 hr 56 min
+135 songs - 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Hero Ground Zero \- Live At Wembley, UK / 2019](https://open.spotify.com/track/1cIsreCkMrWc5o5cqvtTER) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w), [Isobel Griffiths Orchestra](https://open.spotify.com/artist/0LI0zBCk7MqZmKDAsD2aDz) | [The Who With Orchestra: Live At Wembley](https://open.spotify.com/album/0ZM1dVIT9Yb2BtWDGM1ZXx) | 4:50 | 2023-04-05 | 2023-08-26 |
 | [However Much I Booze](https://open.spotify.com/track/70DORJ8hj35Zy6yQPV76jo) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Who By Numbers \(Expanded Edition\)](https://open.spotify.com/album/6CTiKdIgtmCJT7lKY0EYNK) | 5:03 | 2025-08-23 | 2025-10-12 |
 | [I Am The Sea](https://open.spotify.com/track/0f0DUjcrkg9Vi4Eg0abLPi) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Quadrophenia \(Super Deluxe Edition\)](https://open.spotify.com/album/2miMVTH3qNA49YD2BUaIWK) | 2:09 | 2025-11-17 | 2025-12-04 |
-| [I Am The Sea](https://open.spotify.com/track/1HKbWgJm1kYJvuU1yl7Aoy) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Quadrophenia](https://open.spotify.com/album/3JV6BIIXo3mj6GLIGH9p8a) | 2:09 | 2022-10-13 |  |
+| [I Am The Sea](https://open.spotify.com/track/1HKbWgJm1kYJvuU1yl7Aoy) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Quadrophenia](https://open.spotify.com/album/3JV6BIIXo3mj6GLIGH9p8a) | 2:09 | 2022-10-13 | 2026-04-12 |
 | [I Can See For Miles \- Mono Version](https://open.spotify.com/track/7B9F9nLxe7MZgZ68Jj86Fn) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Who Sell Out \(Super Deluxe\)](https://open.spotify.com/album/2JyNDhGhp0hiizSPuUs0i9) | 4:07 | 2022-09-17 |  |
 | [I Can't Explain \- Mono Version](https://open.spotify.com/track/4B3gkbr7aGC2sujjgivK0s) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [My Generation \(50th Anniversary / Super Deluxe\)](https://open.spotify.com/album/0ooEHMMu3yiwnFwNYHcqwX) | 2:05 | 2022-09-17 |  |
 | [I Can't Explain \- Stereo Version](https://open.spotify.com/track/0xHxeH4QTqlfNrQvczkoTA) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [My Generation \(Stereo Version\)](https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy) | 2:05 | 2022-09-24 | 2023-07-12 |
@@ -130,6 +130,7 @@
 | [The Seeker \- Edit](https://open.spotify.com/track/5orygsZ5Ga0jEOvftsXqw2) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Meaty, Beaty, Big And Bouncy](https://open.spotify.com/album/0NufsuTuf3U0BY0p6jFdxV) | 3:10 | 2022-09-17 | 2023-11-11 |
 | [The Seeker \- Original Single A\-Side Mix](https://open.spotify.com/track/788cNfvhhitTb5T8GORmqj) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who’s Next : Life House \(Super Deluxe\)](https://open.spotify.com/album/4uehIELOvaBf8ZbhQGrhkd) | 3:12 | 2023-11-10 |  |
 | [The Song Is Over](https://open.spotify.com/track/1F10hpkS0xntdnTZ4bIjTp) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who's Next \(Deluxe Edition\)](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) | 6:16 | 2022-09-17 | 2022-10-13 |
+| [The Song Is Over \- Remastered 2022](https://open.spotify.com/track/1eqiVoLCw9lIYBuLwFqO6L) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who's Next \(Remastered 2022\)](https://open.spotify.com/album/5mQnSrc0cFV6greyhJJIR6) | 6:24 | 2026-04-12 |  |
 | [There's A Fortune In Those Hills \- Demo / Remastered 2022](https://open.spotify.com/track/3OWo2IdRFjbM3XoqMACb0M) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who’s Next : Life House \(Super Deluxe\)](https://open.spotify.com/album/4uehIELOvaBf8ZbhQGrhkd) | 4:09 | 2023-09-18 | 2023-11-11 |
 | [Things Go Better With Coke](https://open.spotify.com/track/25LUTb24rdwKnse0wAXCJm) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Who Sell Out \(Super Deluxe\)](https://open.spotify.com/album/2JyNDhGhp0hiizSPuUs0i9) | 0:31 | 2024-10-11 | 2024-10-30 |
 | [Tommy Can You Hear Me?](https://open.spotify.com/track/0HLIhUYvZdxemJ5vHJsSBy) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Tommy](https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4) | 1:35 | 2022-09-19 | 2025-03-22 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Kris Kristofferson. The essential tracks, all in one playlist.",
-  "num_followers": 31802,
+  "num_followers": 31807,
   "original_name": "This Is Kris Kristofferson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adbsAAAAAAD2ZClKoxeHn3V5vX7IAY9D",
+  "snapshot_id": "adg9gAAAAABwLLA08YcoT/qmnVY6wmF8",
   "tracks": [
     {
       "added_at": null,
@@ -443,6 +443,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Essential Kris Kristofferson",
+        "url": "https://open.spotify.com/album/0gGq5EiYpLZaJNYwEoPRY3"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 270800,
+      "name": "Sunday Mornin' Comin' Down",
+      "url": "https://open.spotify.com/track/4mLo5ouQ9giUdWSAOtn5TK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Silver Tongued Devil and I",
         "url": "https://open.spotify.com/album/4wj7dvOFqAEIiFS1WbpQdw"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 264871,
       "name": "Me and Bobby McGee",
       "url": "https://open.spotify.com/track/68p2wVoGWkDKGJtdsRZDP6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Essential Kris Kristofferson",
-        "url": "https://open.spotify.com/album/0gGq5EiYpLZaJNYwEoPRY3"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 270800,
-      "name": "Sunday Mornin' Comin' Down",
-      "url": "https://open.spotify.com/track/4mLo5ouQ9giUdWSAOtn5TK"
     },
     {
       "added_at": null,
@@ -611,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Austin Sessions",
+        "url": "https://open.spotify.com/album/32A8UJ6MXprzzhpLA9J2hA"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 157733,
+      "name": "Please Don't Tell Me How the Story Ends",
+      "url": "https://open.spotify.com/track/48TigsPAXv9CBdI0QWsniJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Country State Of Mind",
         "url": "https://open.spotify.com/album/7aM9Q3hl6uxC4xGuDdVyBY"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 180472,
       "name": "Why Me",
       "url": "https://open.spotify.com/track/25OnNQJNBJgGDxmi4AUN6F"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Austin Sessions",
-        "url": "https://open.spotify.com/album/32A8UJ6MXprzzhpLA9J2hA"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 157733,
-      "name": "Please Don't Tell Me How the Story Ends",
-      "url": "https://open.spotify.com/track/48TigsPAXv9CBdI0QWsniJ"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kristofferson",
-        "url": "https://open.spotify.com/album/4HN8SWymMSOxquR6wY2vke"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 207306,
-      "name": "For the Good Times",
-      "url": "https://open.spotify.com/track/7tKThAWCTqEaksY09wViaq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Highwayman 2",
         "url": "https://open.spotify.com/album/7ftmg3XnQcA0bzbWolYzOn"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 240610,
       "name": "Living Legend",
       "url": "https://open.spotify.com/track/4iXbVCLRijzZGCSb3g6FtB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kristofferson",
+        "url": "https://open.spotify.com/album/4HN8SWymMSOxquR6wY2vke"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 207306,
+      "name": "For the Good Times",
+      "url": "https://open.spotify.com/track/7tKThAWCTqEaksY09wViaq"
     },
     {
       "added_at": null,
@@ -1095,6 +1095,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Austin Sessions",
+        "url": "https://open.spotify.com/album/32A8UJ6MXprzzhpLA9J2hA"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 209066,
+      "name": "Who's to Bless and Who's to Blame",
+      "url": "https://open.spotify.com/track/3iHeBDBH9aObEBPZWL7HFN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Highwayman 2",
         "url": "https://open.spotify.com/album/7ftmg3XnQcA0bzbWolYzOn"
       },
@@ -1127,22 +1143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Austin Sessions",
-        "url": "https://open.spotify.com/album/32A8UJ6MXprzzhpLA9J2hA"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 209066,
-      "name": "Who's to Bless and Who's to Blame",
-      "url": "https://open.spotify.com/track/3iHeBDBH9aObEBPZWL7HFN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Closer to the Bone",
         "url": "https://open.spotify.com/album/04rij6WooSg0tyBU7rw8Cz"
       },
@@ -1152,9 +1152,9 @@
           "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
         }
       ],
-      "duration_ms": 212306,
-      "name": "From Here to Forever",
-      "url": "https://open.spotify.com/track/2yPUVAm73P5lU5S904nDsP"
+      "duration_ms": 170920,
+      "name": "Good Morning John",
+      "url": "https://open.spotify.com/track/6FCZfUsAc9khfsEiFQ9MSG"
     },
     {
       "added_at": null,
@@ -1215,38 +1215,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Essential Kris Kristofferson",
-        "url": "https://open.spotify.com/album/0gGq5EiYpLZaJNYwEoPRY3"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 215133,
-      "name": "Casey's Last Ride",
-      "url": "https://open.spotify.com/track/51ixKYFELQvEYoMcWOmg34"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Closer to the Bone",
-        "url": "https://open.spotify.com/album/04rij6WooSg0tyBU7rw8Cz"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 170920,
-      "name": "Good Morning John",
-      "url": "https://open.spotify.com/track/6FCZfUsAc9khfsEiFQ9MSG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Extras",
         "url": "https://open.spotify.com/album/4FhxquIK5TPAu2TyJjIF4Y"
       },
@@ -1263,6 +1231,38 @@
       "duration_ms": 198193,
       "name": "Eye of the Storm (with Willie Nelson)",
       "url": "https://open.spotify.com/track/7zntn2S272qOfguB7JVlvN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Closer to the Bone",
+        "url": "https://open.spotify.com/album/04rij6WooSg0tyBU7rw8Cz"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 212306,
+      "name": "From Here to Forever",
+      "url": "https://open.spotify.com/track/2yPUVAm73P5lU5S904nDsP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Essential Kris Kristofferson",
+        "url": "https://open.spotify.com/album/0gGq5EiYpLZaJNYwEoPRY3"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 215133,
+      "name": "Casey's Last Ride",
+      "url": "https://open.spotify.com/track/51ixKYFELQvEYoMcWOmg34"
     },
     {
       "added_at": null,
@@ -1307,22 +1307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Surreal Thing",
-        "url": "https://open.spotify.com/album/5zzpsikgJ2uwAAEduiHG88"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 211421,
-      "name": "If You Don't Like Hank Williams",
-      "url": "https://open.spotify.com/track/2O01W7mcUZMhA8WmA3k44X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Closer to the Bone",
         "url": "https://open.spotify.com/album/04rij6WooSg0tyBU7rw8Cz"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 152586,
       "name": "Closer to the Bone",
       "url": "https://open.spotify.com/track/4sS68UKofTv1lPsUuwh6Sf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Surreal Thing",
+        "url": "https://open.spotify.com/album/5zzpsikgJ2uwAAEduiHG88"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 211421,
+      "name": "If You Don't Like Hank Williams",
+      "url": "https://open.spotify.com/track/2O01W7mcUZMhA8WmA3k44X"
     },
     {
       "added_at": null,

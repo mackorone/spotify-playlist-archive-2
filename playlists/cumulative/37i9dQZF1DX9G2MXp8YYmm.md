@@ -4,7 +4,7 @@
 
 > Pop'un sevilen isimleri\. Kapak: Murat Boz x Melek Mosso
 
-552 songs - 1 day 3 hr 57 min
+554 songs - 1 day 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Acının Seyir Defteri](https://open.spotify.com/track/5h9KIm7EeobUVGbnB3Fk1y) | [Aşkın Nur Yengi](https://open.spotify.com/artist/2fYdUIUPS7aDdWCzb8Aw2k) | [Acının Seyir Defteri](https://open.spotify.com/album/7f0M03KQBjUNlSP1zxRMcc) | 2:51 | 2024-11-21 | 2024-11-28 |
 | [Acıyla Kucaklaştım](https://open.spotify.com/track/0OP73LxXno2zdkxETjg3KF) | [Anıl Durmuş](https://open.spotify.com/artist/10aqquITh9xMvNFTMZicY9) | [Acıyla Kucaklaştım](https://open.spotify.com/album/6VOx7oShyeQgY11InDvTZX) | 3:19 | 2024-06-27 | 2025-01-26 |
 | [Acıyla Kucaklaştım](https://open.spotify.com/track/5WK9ocd8NIPsHKZ6OcVdmw) | [Çağan Şengül](https://open.spotify.com/artist/3W0gwNZqdtkleuMYlKElaw) | [Acıyla Kucaklaştım](https://open.spotify.com/album/6syG8s0ci1qDXt2UVGJvIG) | 3:28 | 2025-12-04 | 2025-12-31 |
-| [Acıyor Kalbim](https://open.spotify.com/track/5at6EvpZwE8neKRrDrk7gI) | [Anıl Durmuş](https://open.spotify.com/artist/10aqquITh9xMvNFTMZicY9), [Ahmet Hatipoğlu](https://open.spotify.com/artist/2sOq4hJZRAybcz8AvKjDK4) | [Acıyor Kalbim](https://open.spotify.com/album/2svxTBuMYsgzUq6er9ROiA) | 2:08 | 2025-07-17 |  |
+| [Acıyor Kalbim](https://open.spotify.com/track/5at6EvpZwE8neKRrDrk7gI) | [Anıl Durmuş](https://open.spotify.com/artist/10aqquITh9xMvNFTMZicY9), [Ahmet Hatipoğlu](https://open.spotify.com/artist/2sOq4hJZRAybcz8AvKjDK4) | [Acıyor Kalbim](https://open.spotify.com/album/2svxTBuMYsgzUq6er9ROiA) | 2:08 | 2025-07-17 | 2026-04-12 |
 | [Adı Yok](https://open.spotify.com/track/7IZ9Fw0EYYhReIdYiUUoIe) | [Murat Dalkılıç](https://open.spotify.com/artist/6dDaXbE1caD65TONToYXYx) | [Adı Yok](https://open.spotify.com/album/4sISEKhVWCYRb2Rct7iLLI) | 2:39 | 2025-06-26 | 2025-11-17 |
 | [Adını Yazdım](https://open.spotify.com/track/3U2n2bDXv2X4eIxQ0Rqsbw) | [Samet Kardeşler](https://open.spotify.com/artist/4Jah47VbnOtQGLtmdrDRXp), [Sıla Şahin](https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC) | [Adını Yazdım](https://open.spotify.com/album/6A4vsUDLXGiDtqplTzSPon) | 2:29 | 2024-06-27 | 2024-10-02 |
 | [Aferin Bana](https://open.spotify.com/track/1PTAhnedy6E7RUB6kAlxsE) | [Demet Akalın](https://open.spotify.com/artist/1U449OOb70EZlElNjLMwCM) | [Aferin Bana](https://open.spotify.com/album/0LBF46qGy65WEcrtbxetHP) | 3:40 | 2024-07-25 | 2024-09-06 |
@@ -330,6 +330,7 @@
 | [Kırmızı](https://open.spotify.com/track/58Y5BrcGgDUd5RWApT1lV9) | [Ayla Çelik](https://open.spotify.com/artist/3Z7GwK4hUEczTklLsVedcx) | [Kırmızı](https://open.spotify.com/album/3wk2gK2cnkhfqMqydtqdf9) | 3:25 | 2026-04-03 |  |
 | [Kızılca Şerbet](https://open.spotify.com/track/0aIrUkvAvcy36CtV5pXEme) | [Seda Sayan](https://open.spotify.com/artist/5hKNaXEXIxQ3dmZR7FoRr8), [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D) | [Kızılca Şerbet](https://open.spotify.com/album/746RjfRw4bAjdrGLcOQdys) | 3:00 | 2025-05-27 | 2025-07-01 |
 | [Kış Kış](https://open.spotify.com/track/7dPt6dEmIr788BonzTIVJt) | [Serdar Ortaç](https://open.spotify.com/artist/7BJjzi0JHyDHAsmVe21dGa) | [Kış Kış](https://open.spotify.com/album/4FA7EWO0U9xGxBfvlbeeGg) | 3:13 | 2025-06-05 |  |
+| [Labirent](https://open.spotify.com/track/2mssGi7e5Aac72PxoOGhLp) | [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [Labirent](https://open.spotify.com/album/3UbHNfhM2RXE6GN27HPuEn) | 3:10 | 2026-04-09 |  |
 | [Lakin](https://open.spotify.com/track/7AjPgrmEzCBVkQWUiOncM3) | [Sufle](https://open.spotify.com/artist/1hWfWJvstJQPgjZ2vDFY0P) | [Lakin](https://open.spotify.com/album/7u52LKZ2sJ0LnYxMol4Sxi) | 2:41 | 2024-06-27 | 2026-01-30 |
 | [Lan](https://open.spotify.com/track/1whKKdtCiFjN7MW7DrIRUH) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Lan](https://open.spotify.com/album/1LvnmkkATPS4wBrEPMec26) | 3:16 | 2024-06-27 | 2024-09-06 |
 | [LEYLA](https://open.spotify.com/track/0mZK7W92DU73Xhtho4T6jY) | [Sıla](https://open.spotify.com/artist/5gFPi3KWXEwA9bLEO47Ow0) | [LEYLA](https://open.spotify.com/album/4LFPZUR2Ve4NR0iS44P5Kr) | 3:15 | 2025-08-07 | 2025-10-16 |
@@ -374,6 +375,7 @@
 | [O Bİ’TANE](https://open.spotify.com/track/744xRGSYI3qlWgXtgZ6OHt) | [M Lisa](https://open.spotify.com/artist/7CLojerj7StFcAX03tA8Pc), [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [O Bİ’TANE](https://open.spotify.com/album/1HZSZxNz5qioQsZi070XzH) | 2:27 | 2026-02-26 | 2026-03-27 |
 | [O Kapı Kapandı](https://open.spotify.com/track/6pvgDOs4Ekl7UiF76yXEek) | [Ege Balkiz](https://open.spotify.com/artist/2lny2DY0mKzdgAwIx0WD4H) | [O Kapı Kapandı](https://open.spotify.com/album/4eCD2ParWU9MPOsmspFXoy) | 2:52 | 2025-11-06 | 2025-11-14 |
 | [Odalar Soğuk](https://open.spotify.com/track/5Fb3ND9grQeAY9hb9WKE4v) | [Funda Arar](https://open.spotify.com/artist/6g7GF7BLC41JTHJwgB4wQW) | [Odalar Soğuk](https://open.spotify.com/album/3HIGefGhLWPy6XgqLzVj6t) | 2:59 | 2025-12-11 | 2026-01-19 |
+| [Olacak Gibi Değil](https://open.spotify.com/track/69aA1OBOJiyhysEIc0KBw0) | [Ersay Üner](https://open.spotify.com/artist/6kf7koRM31Dgsj2WbByZpB) | [Olacak Gibi Değil](https://open.spotify.com/album/61qpQymIvcAuM8s5zIsguo) | 3:09 | 2026-04-09 |  |
 | [Olan Oldu](https://open.spotify.com/track/62X0aS5kJGVuQV6ei4cVk4) | [Batuhan Kordel](https://open.spotify.com/artist/53GzfAvawfKb966INeFp18) | [Olan Oldu](https://open.spotify.com/album/3MVJianAjvMi16H5QPvLrB) | 2:49 | 2026-02-26 | 2026-03-06 |
 | [Olmaz Senden](https://open.spotify.com/track/3uhGsSTBXOncVptR9nEOvJ) | [Bedo](https://open.spotify.com/artist/7xD3PtnXEsJeqsPtJ3N3si) | [Olmaz Senden](https://open.spotify.com/album/63Phykg9euTwthd6h3rAKE) | 2:56 | 2024-12-05 | 2024-12-15 |
 | [Olmuşum Leyla](https://open.spotify.com/track/4mGcrLq0JSjumS1GyyQOYj) | [Buray](https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd) | [Olmuşum Leyla](https://open.spotify.com/album/3KO4mFibY1L2nbqOateAOA) | 2:52 | 2024-06-27 | 2025-08-01 |
@@ -411,7 +413,7 @@
 | [Sende De Benden Var](https://open.spotify.com/track/1UoOIt4oT3jLh4waq06wmG) | [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D) | [Sende De Benden Var](https://open.spotify.com/album/39zwVUxvdqEfPwW0JRg0KP) | 3:08 | 2025-09-25 | 2025-11-18 |
 | [senden başka](https://open.spotify.com/track/1VQU6ewApPAVS6wTtxF321) | [aisu](https://open.spotify.com/artist/6WCTGeTYQ71cApZr34u4er) | [senden başka](https://open.spotify.com/album/2e6ZwZkrFmawSOV7ivJep6) | 3:30 | 2025-12-04 | 2026-02-05 |
 | [Senden Kalanlar](https://open.spotify.com/track/4wfenAbKjdMEIH8xt3R1Cp) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ), [İrem Derici](https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ) | [Senden Kalanlar](https://open.spotify.com/album/3T1ITiHfBlStHbXkYdUzGj) | 2:56 | 2026-03-19 |  |
-| [Senden Sonrası Yalan](https://open.spotify.com/track/4vpUmpzAjDeaKSxSmJDkIF) | [Kendimden Hallice](https://open.spotify.com/artist/7sAmHLY4Fs2rweYwdcQtft), [Kayra Kayan](https://open.spotify.com/artist/4yJY7VgA3Ztk5H5oPiXzPE) | [Senden Sonrası Yalan](https://open.spotify.com/album/2ZlR5erL8TrKPsx29ji9a3) | 2:40 | 2026-02-19 |  |
+| [Senden Sonrası Yalan](https://open.spotify.com/track/4vpUmpzAjDeaKSxSmJDkIF) | [Kendimden Hallice](https://open.spotify.com/artist/7sAmHLY4Fs2rweYwdcQtft), [Kayra Kayan](https://open.spotify.com/artist/4yJY7VgA3Ztk5H5oPiXzPE) | [Senden Sonrası Yalan](https://open.spotify.com/album/2ZlR5erL8TrKPsx29ji9a3) | 2:40 | 2026-02-19 | 2026-04-12 |
 | [Seni Adam Zannettim](https://open.spotify.com/track/1JB9GEyH4AoyU6xvS1y0vV) | [Yılmaz Morgül](https://open.spotify.com/artist/2ooGZ0Y7LLS6G2LJoqFGlc) | [Seni Adam Zannettim](https://open.spotify.com/album/3QbDleOjtHIT3goFvpdaAY) | 3:07 | 2026-03-19 | 2026-04-03 |
 | [Seni Bana Katsam](https://open.spotify.com/track/7wU7ynZWkIuMAGPf5aeb7i) | [Deniz Seki](https://open.spotify.com/artist/28bHkFlKKHHudmgvnfYpiJ) | [Seni Bana Katsam](https://open.spotify.com/album/75tIwCmOofXvaW0okaNeCW) | 3:26 | 2026-04-02 |  |
 | [Seni Bana Vermediler](https://open.spotify.com/track/1RfKc1ILYZtgkD41gCpZRc) | [Mavi Gri](https://open.spotify.com/artist/4otJVkrLLqDF8OxFJOigme) | [Seni Bana Vermediler](https://open.spotify.com/album/7nkt6nd03wiPPZOjS1VKnj) | 2:55 | 2025-04-17 | 2025-05-09 |

@@ -10800,6 +10800,36 @@
     {
       "album": {
         "name": "Jealous",
+        "url": "https://open.spotify.com/album/2mt9564w8001zioTwQIZzU"
+      },
+      "artists": [
+        {
+          "name": "9mice",
+          "url": "https://open.spotify.com/artist/3v0qTkZvuro4johOZyIhOm"
+        },
+        {
+          "name": "Egor Kreed",
+          "url": "https://open.spotify.com/artist/2KoLmBXwsgMkfAvoPBlPmb"
+        },
+        {
+          "name": "\u0442\u0451\u043c\u043d\u044b\u0439 \u043f\u0440\u0438\u043d\u0446",
+          "url": "https://open.spotify.com/artist/3jayBSUIK2eqnLCWfJoWwV"
+        },
+        {
+          "name": "madk1d",
+          "url": "https://open.spotify.com/artist/1Q5COYHgA7ch0y3HqCNgwt"
+        }
+      ],
+      "date_added": "2026-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185850,
+      "name": "Jealous",
+      "url": "https://open.spotify.com/track/1A4VLW48hd3N4leX2bkLs6"
+    },
+    {
+      "album": {
+        "name": "Jealous",
         "url": "https://open.spotify.com/album/4keJsdw9XhEvimhIgXmtO1"
       },
       "artists": [
@@ -12200,6 +12230,24 @@
       "duration_ms": 169946,
       "name": "Limbo",
       "url": "https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp"
+    },
+    {
+      "album": {
+        "name": "Limousine Music",
+        "url": "https://open.spotify.com/album/7xNft8RCC8HN9ElK0c9ghN"
+      },
+      "artists": [
+        {
+          "name": "Kai Angel",
+          "url": "https://open.spotify.com/artist/1pxLlPRiWRUBGdSOrVL4f0"
+        }
+      ],
+      "date_added": "2026-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Limousine Music",
+      "url": "https://open.spotify.com/track/4vIgKflntahCWGBv51T7bY"
     },
     {
       "album": {
@@ -18131,6 +18179,28 @@
     },
     {
       "album": {
+        "name": "RUNWAY",
+        "url": "https://open.spotify.com/album/0WY1wVmchFYlH4f1yZMc90"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "date_added": "2026-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171010,
+      "name": "RUNWAY",
+      "url": "https://open.spotify.com/track/7BjcYqD0CqXnG45ezWSTYR"
+    },
+    {
+      "album": {
         "name": "Rush",
         "url": "https://open.spotify.com/album/35N2XoH2rveqI5FAB30HSf"
       },
@@ -20484,7 +20554,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 240426,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"
@@ -27012,7 +27082,7 @@
       ],
       "date_added": "2025-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 200000,
       "name": "\u0413\u0435\u043d\u0433\u0441\u0442\u0430",
       "url": "https://open.spotify.com/track/3zHlmzzkUVgL8ao2KKojAt"
@@ -31260,7 +31330,7 @@
       ],
       "date_added": "2022-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-11",
+      "date_removed": null,
       "duration_ms": 169130,
       "name": "\u041b\u0410\u0411\u0418\u0420\u0418\u041d\u0422",
       "url": "https://open.spotify.com/track/7biChppM3c8q7qcVl7ceb2"
@@ -32768,7 +32838,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 159567,
       "name": "\u041d\u0430 \u043f\u043e\u0440\u043e\u0437\u0456",
       "url": "https://open.spotify.com/track/4SbcktBkOk1YgAyQvjC8kl"
@@ -35260,7 +35330,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 166500,
       "name": "\u041f\u043e\u0432\u0456\u043b\u044c\u043d\u043e",
       "url": "https://open.spotify.com/track/0NYvacFqoJdJggiOynzbur"
@@ -36064,7 +36134,7 @@
       ],
       "date_added": "2025-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-10",
+      "date_removed": null,
       "duration_ms": 170334,
       "name": "\u041f\u0423\u0421\u0422\u041e\u0419 \u0412\u041e\u041a\u0417\u0410\u041b",
       "url": "https://open.spotify.com/track/31DoKPoVBMXfPcrlb44gF0"
@@ -36540,6 +36610,24 @@
       "duration_ms": 110769,
       "name": "\u0420\u043e\u0433\u0430",
       "url": "https://open.spotify.com/track/0dwr83TSphRxWrZmnhwInI"
+    },
+    {
+      "album": {
+        "name": "\u0440\u043e\u0437\u043c\u043e\u0432\u0430 \u0437 \u043c\u0456\u0441\u0442\u043e\u043c",
+        "url": "https://open.spotify.com/album/0SdlYluxB8YEal8KI3o2qV"
+      },
+      "artists": [
+        {
+          "name": "Nikow",
+          "url": "https://open.spotify.com/artist/1ewZuAmm3Em0KlM0pIBwVe"
+        }
+      ],
+      "date_added": "2026-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179307,
+      "name": "\u0440\u043e\u0437\u043c\u043e\u0432\u0430 \u0437 \u043c\u0456\u0441\u0442\u043e\u043c",
+      "url": "https://open.spotify.com/track/7tpk93TWrPZy6etiJSU8Bv"
     },
     {
       "album": {
@@ -38220,7 +38308,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 190124,
       "name": "\u0422\u0430\u043a\u0443 \u044f\u043a \u0454",
       "url": "https://open.spotify.com/track/64vbnvKJMPgLHBkvLjKQao"
@@ -41078,7 +41166,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 185061,
       "name": "\u0428\u041e\u0412\u041a\u041e\u0412\u0418\u0426\u042f",
       "url": "https://open.spotify.com/track/2vsIoRPtatBX9GceGkPHkY"

@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: 幾田りら
 
-3,751 songs - 9 day 23 hr 0 min
+3,752 songs - 9 day 23 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2113,6 +2113,7 @@
 | [Wonderful Days \- feat.Jan](https://open.spotify.com/track/2ptgJKRPCgVI1iI4w5KcaU) | [GIRA MUNDO](https://open.spotify.com/artist/62Va8ffu6xF2kgP4oqHBkW), [Jan](https://open.spotify.com/artist/4PjXq1smNWJ32ixoXMlgGQ) | [Wonderful Days \(feat.Jan\)](https://open.spotify.com/album/4cgRCUJjioyKM0JEr8dekI) | 3:39 | 2024-04-16 | 2024-04-24 |
 | [Wonderland](https://open.spotify.com/track/394oCRuzRAlpjgWhYE0Z2X) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [BONNIE PINK](https://open.spotify.com/artist/0ogtEa0KT8kmWr6n0UoAqu) | [Wonderland](https://open.spotify.com/album/1JOeGgY4MCY2LbvoCvCxma) | 4:17 | 2022-06-02 | 2022-07-21 |
 | [wonderland](https://open.spotify.com/track/2ZprfZxepqebe1iIuyFK37) | [yukaDD](https://open.spotify.com/artist/5AfbFgeqRYOGZbu3lYtZLe) | [wonderland](https://open.spotify.com/album/1utyCLbWwQ4hW21s5Wbhsk) | 2:48 | 2024-05-21 | 2024-05-29 |
+| [Words to Follow](https://open.spotify.com/track/1NaLmLLhaM6EtTxHvbFffz) | [Rokudenashi](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [Words to Follow](https://open.spotify.com/album/7nGlLqnNc3AffIsZGLH9eP) | 3:11 | 2026-04-07 |  |
 | [WORLD DANCE](https://open.spotify.com/track/4t6YlJMuO54junyfkZG3eC) | [AI](https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q), [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [WORLD DANCE](https://open.spotify.com/album/6hS2sOF0dexmQBEOFnS3s1) | 3:41 | 2023-08-15 | 2023-10-13 |
 | [Wrecked](https://open.spotify.com/track/68wXxnlnc3B5r5QrfwRiiH) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [Wrecked](https://open.spotify.com/album/41NdOKlkYvk8FJL0Uj4el1) | 2:08 | 2023-06-30 | 2023-07-05 |
 | [Wren](https://open.spotify.com/track/4251HZQieHxgvAH6D7v8U5) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Sign](https://open.spotify.com/album/268Fp4sOfh7kFOmChBsT4f) | 3:07 | 2024-08-27 | 2024-11-13 |
@@ -2393,7 +2394,7 @@
 | [ひとりごと](https://open.spotify.com/track/68USuzMKVJumOD1xcefdZ7) | [Asa yoji](https://open.spotify.com/artist/1HxALqjeA47S0wLQPHY9oA) | [ひとりごと](https://open.spotify.com/album/4khTFuDufrX8wVHZBfC05G) | 4:27 | 2025-02-04 | 2025-02-12 |
 | [ひとりじゃないから](https://open.spotify.com/track/60wJcpxSTj2uG90ym05f48) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM) | [ひとりじゃないから](https://open.spotify.com/album/00CjrzTKlfuDIeDyzxtV4u) | 3:34 | 2022-05-29 | 2022-07-27 |
 | [ひとりぼっちはやめた](https://open.spotify.com/track/7irKTBIgIKmDByJj2OVwCr) | [Hikari Mitsushima](https://open.spotify.com/artist/4ZX8Wr8KHHrW7radu6IwYG) | [スタジオジブリ トリビュートアルバム「ジブリをうたう」](https://open.spotify.com/album/3lB0B7C191nUhH8ar64hJ0) | 3:56 | 2023-10-31 | 2023-11-08 |
-| [ひと匙](https://open.spotify.com/track/0EER0gGCZy5dKVl9K0t79M) | [Ai Higuchi](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [ひと匙](https://open.spotify.com/album/5WqkaG4lV9a2OwpkweWQWj) | 4:21 | 2026-04-07 |  |
+| [ひと匙](https://open.spotify.com/track/0EER0gGCZy5dKVl9K0t79M) | [Ai Higuchi](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [ひと匙](https://open.spotify.com/album/5WqkaG4lV9a2OwpkweWQWj) | 4:21 | 2026-04-07 | 2026-04-12 |
 | [ひめすぎる](https://open.spotify.com/track/10oh35tl681Kg99f6ggNAU) | [はしメロ](https://open.spotify.com/artist/7Bokk7F8hq4P8wWwEO5mZy) | [ひめすぎる](https://open.spotify.com/album/5cNHm1M6F9cFGOx7uWvKw4) | 2:41 | 2026-02-11 | 2026-02-25 |
 | [ひゅるりらぱっぱ](https://open.spotify.com/track/0J8JXuvQADkec6AThPGzjR) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [ひゅるりらぱっぱ](https://open.spotify.com/album/44GzMAdLPt9Yc0cIKGIYGY) | 3:20 | 2024-07-25 | 2025-02-26 |
 | [ひるねの国](https://open.spotify.com/track/7x0x7RjQ0xQEKsfds73MGW) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [ひるねの国](https://open.spotify.com/album/42FD62QpX9fh4PUcKjSRXM) | 3:06 | 2023-05-16 | 2023-05-18 |

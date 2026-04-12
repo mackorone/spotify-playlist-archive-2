@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adbsAAAAAACJwcy0jngBDwwlQ13za+pr",
+  "snapshot_id": "adg9gAAAAACd3ptNrWtlipkTPdn+wB7T",
   "tracks": [
     {
       "added_at": null,
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
         }
       ],
-      "duration_ms": 189405,
-      "name": "One Eye Open",
-      "url": "https://open.spotify.com/track/4XDw17n0Ktb2NcuEyTNj7t"
+      "duration_ms": 193443,
+      "name": "Now What?",
+      "url": "https://open.spotify.com/track/4aGmuQteLbBpqU08Jpd36t"
     },
     {
       "added_at": null,
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
         }
       ],
-      "duration_ms": 193443,
-      "name": "Now What?",
-      "url": "https://open.spotify.com/track/4aGmuQteLbBpqU08Jpd36t"
+      "duration_ms": 189405,
+      "name": "One Eye Open",
+      "url": "https://open.spotify.com/track/4XDw17n0Ktb2NcuEyTNj7t"
     },
     {
       "added_at": null,
@@ -527,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Woman on the Internet (Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2YhwPEmRaJz5oMqxmCx5U5"
+        "name": "Freckle Season",
+        "url": "https://open.spotify.com/album/4efTt6CQruNynQymtG3Iz5"
       },
       "artists": [
         {
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
         }
       ],
-      "duration_ms": 83129,
-      "name": "Afterlife - demo",
-      "url": "https://open.spotify.com/track/3OKVZxc0bnYfKUEX8Y6uTC"
+      "duration_ms": 179439,
+      "name": "New Friends",
+      "url": "https://open.spotify.com/track/33Erxwd8RV55M6ZX6KigNt"
     },
     {
       "added_at": null,
@@ -563,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Freckle Season",
-        "url": "https://open.spotify.com/album/4efTt6CQruNynQymtG3Iz5"
+        "name": "Woman on the Internet (Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2YhwPEmRaJz5oMqxmCx5U5"
       },
       "artists": [
         {
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
         }
       ],
-      "duration_ms": 179439,
-      "name": "New Friends",
-      "url": "https://open.spotify.com/track/33Erxwd8RV55M6ZX6KigNt"
+      "duration_ms": 83129,
+      "name": "Afterlife - demo",
+      "url": "https://open.spotify.com/track/3OKVZxc0bnYfKUEX8Y6uTC"
     },
     {
       "added_at": null,

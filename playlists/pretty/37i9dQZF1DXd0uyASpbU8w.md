@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Xduppy, Goldfish & Zolani Mahola, Myles Smith and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,859 likes - 75 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,930 likes - 75 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 56 | [With You](https://open.spotify.com/track/6ms1mOmSxRvNsZ7ZcpONmC) | [LEWS](https://open.spotify.com/artist/25tLh0UFb4VoF3Oe8C8vuL), [Steve N](https://open.spotify.com/artist/0he1A3HWxtr44Ifk21DNKH), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Untitled Audio](https://open.spotify.com/artist/0P49O12yf6UlMdBsN7sPt0) | [With You](https://open.spotify.com/album/06RvuK7Tk48VnwmE4eFRS6) | 2:44 |
 | 57 | [Te hacen falta dos](https://open.spotify.com/track/3Oohz3N32glZTOz0nuxGMD) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Apambichao](https://open.spotify.com/album/0DOZOtgMZm8GvvFJFZ6vvT) | 2:41 |
 | 58 | [Ngbambe](https://open.spotify.com/track/581eTminPJVEv0jdRQIquy) | [ATK MusiQ](https://open.spotify.com/artist/6Tf0sayrMYnKMo2iYdDCXs), [Tee Tee Sa](https://open.spotify.com/artist/0Xza4QXRezuU9MGqizIV3s), [Mpho Spizzy](https://open.spotify.com/artist/6or3L6AbGx83tADuwcS3PF) | [Ngbambe](https://open.spotify.com/album/0ql5XHWLjaHUSjYxHk3wdh) | 7:09 |
-| 59 | [Phola Inhliziyo](https://open.spotify.com/track/3wcWABrO17WWBNUlAECF4f) | [Baby Momo](https://open.spotify.com/artist/4vvWw19AbXNRhTcJoNbzU6), [FLUXX](https://open.spotify.com/artist/3EBIij4PVtSFD8aoKa4Hwf), [SmileyKeys](https://open.spotify.com/artist/5w3oNTmRLWyQgWxo2iDDn8) | [Phola Inhliziyo](https://open.spotify.com/album/2OwatyDHENvPngy0CFXTAY) | 5:39 |
+| 59 | [Phola Inhliziyo](https://open.spotify.com/track/3wcWABrO17WWBNUlAECF4f) | [Baby Momo](https://open.spotify.com/artist/4vvWw19AbXNRhTcJoNbzU6), [FLUXX](https://open.spotify.com/artist/3EBIij4PVtSFD8aoKa4Hwf), [SmileyKeys](https://open.spotify.com/artist/6AhFjba6TfPftZUPW3NJYh) | [Phola Inhliziyo](https://open.spotify.com/album/2OwatyDHENvPngy0CFXTAY) | 5:39 |
 | 60 | [Here's To All the Ones](https://open.spotify.com/track/440guCzsWXGK62SHKL7chG) | [Hunter As a Horse](https://open.spotify.com/artist/4ymRolHad3YoWJw8rW7G9F) | [Here's To All the Ones](https://open.spotify.com/album/7wqoeUHHK19M7ks6gPfxnG) | 3:24 |
 | 61 | [Upside Down](https://open.spotify.com/track/6Ih8EkS0dsKAIAN1i7XaFF) | [Batundi](https://open.spotify.com/artist/0K2Su3rHagcOMrBnIf2P9I), [Manu WorldStar](https://open.spotify.com/artist/4P9liSYQDYgABacn43YzV4), [The Big Hash](https://open.spotify.com/artist/4NR8j34QrjVEIAqUP43SwL) | [Upside Down](https://open.spotify.com/album/7i2pghRjDcL79WOBrkUaLX) | 3:48 |
 | 62 | [Past Midnight](https://open.spotify.com/track/4ci6IX2syTg0pVti9lbh2y) | [Mega D Melo Rae](https://open.spotify.com/artist/47bCkMW3wk822wrfLp48GE), [Zeph Junior](https://open.spotify.com/artist/6wQHlmmMI7Ly6EKBMAKZp8) | [Past Midnight](https://open.spotify.com/album/5qic0yfGEf0V1q8sjjbcJD) | 2:14 |

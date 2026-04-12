@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37d6hz.md) - [plain]
 
 > This is Laurie Spiegel\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 488 likes - 20 songs - 1 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 491 likes - 20 songs - 1 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37d6hz.md) - [plain]
 | 4 | [Heliopause](https://open.spotify.com/track/0rdAXMl6YbYR185e1R6veY) | [VooCha](https://open.spotify.com/artist/7jsvIBs0a30EIAo9EQiMkW), [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Static](https://open.spotify.com/album/7zU2S06sQRLGXN309ATvuK) | 2:54 |
 | 5 | [Finding Voice](https://open.spotify.com/track/4qignkPNvo2z2pbjHKBcoL) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Unseen Worlds](https://open.spotify.com/album/4XHcaSU6bLMEVNl6IqWYBS) | 2:45 |
 | 6 | [Old Wave](https://open.spotify.com/track/0KBRR5awpziELPG5H7dOTK) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [The Expanding Universe](https://open.spotify.com/album/1oiMfhS7X0MJSjowR49VPK) | 6:53 |
-| 7 | [At Sea](https://open.spotify.com/track/7BuMYswqgm6BT5kEPY0EFM) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Common Ground, Vol\. 1](https://open.spotify.com/album/7m1hNJg5fKlw5WHn1sI7oM) | 3:34 |
-| 8 | [Soundtrack For Sandin](https://open.spotify.com/track/0Sp2XO0Rtr90E34OnRxvkA) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Miniatures 2 Edited By Morgan Fisher](https://open.spotify.com/album/3tTluaKUQk3QZrq1jxn7ws) | 1:21 |
+| 7 | [Soundtrack For Sandin](https://open.spotify.com/track/0Sp2XO0Rtr90E34OnRxvkA) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Miniatures 2 Edited By Morgan Fisher](https://open.spotify.com/album/3tTluaKUQk3QZrq1jxn7ws) | 1:21 |
+| 8 | [At Sea](https://open.spotify.com/track/7BuMYswqgm6BT5kEPY0EFM) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Common Ground, Vol\. 1](https://open.spotify.com/album/7m1hNJg5fKlw5WHn1sI7oM) | 3:34 |
 | 9 | [Three Sonic Spaces I](https://open.spotify.com/track/40YsslZstSIWncQEt8NNls) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Unseen Worlds](https://open.spotify.com/album/4XHcaSU6bLMEVNl6IqWYBS) | 1:36 |
 | 10 | [Patchwork](https://open.spotify.com/track/4RLVoOmGiYhxUe9WVPr8t2) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [The Expanding Universe](https://open.spotify.com/album/1oiMfhS7X0MJSjowR49VPK) | 9:46 |
 | 11 | [Taking It Further](https://open.spotify.com/track/6Ph3sAJMW1MXr0X6tAltVp) | [VooCha](https://open.spotify.com/artist/7jsvIBs0a30EIAo9EQiMkW), [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Static](https://open.spotify.com/album/7zU2S06sQRLGXN309ATvuK) | 2:51 |
@@ -27,6 +27,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37d6hz.md) - [plain]
 | 17 | [A Folk Study](https://open.spotify.com/track/5SuTsR3Mjaq3Ss0VKFyQof) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [The Expanding Universe](https://open.spotify.com/album/1oiMfhS7X0MJSjowR49VPK) | 2:03 |
 | 18 | [Sparks](https://open.spotify.com/track/48IypreqroL9IQjDA0IgB4) | [VooCha](https://open.spotify.com/artist/7jsvIBs0a30EIAo9EQiMkW), [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Static](https://open.spotify.com/album/7zU2S06sQRLGXN309ATvuK) | 3:38 |
 | 19 | [Two Archetypes: Hurricane's Eye – II](https://open.spotify.com/track/1B2ZdyyHD2BMwEjeYg1g0m) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Unseen Worlds](https://open.spotify.com/album/4XHcaSU6bLMEVNl6IqWYBS) | 3:35 |
-| 20 | [Pentachrome](https://open.spotify.com/track/4PD6tbRB8w1F4Jnc08CTzw) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [The Expanding Universe](https://open.spotify.com/album/1oiMfhS7X0MJSjowR49VPK) | 7:18 |
+| 20 | [Appalachian Grove I](https://open.spotify.com/track/58ODorNYopmxNhZnWdjQjO) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [The Expanding Universe](https://open.spotify.com/album/1oiMfhS7X0MJSjowR49VPK) | 5:22 |
 
-Snapshot ID: `adbsAAAAAABEj4sQURZSZhxeYbOonfwc`
+Snapshot ID: `adg9gAAAAADhSqWLdkEQImH4iToSClcm`

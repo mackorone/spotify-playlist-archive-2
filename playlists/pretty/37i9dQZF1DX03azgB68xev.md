@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 
 > Pop bops for the saints!  Cover: Tenroc
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,156 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,161 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 | 9 | [No Longer](https://open.spotify.com/track/2Gip6bIkOWHZv8QHsbWWPN) | [Reyne L.](https://open.spotify.com/artist/3HpGGXW3yN7H6t67UweHLe), [REYNE](https://open.spotify.com/artist/5Zb2vIUyfZbX15otYc072P) | [No Longer](https://open.spotify.com/album/2Iaj9XacDJojiyGyau0mfo) | 2:32 |
 | 10 | [SOS](https://open.spotify.com/track/2plxZbunq262aPivPjURsw) | [PARTY WAVE](https://open.spotify.com/artist/6iQ0SOfahRnTthPNGhgzkB), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [SOS](https://open.spotify.com/album/0sszJvPEklSUadOC4rilwQ) | 2:49 |
 | 11 | [that's my life](https://open.spotify.com/track/3RzeND9jTPsTDv8wiHIDfm) | [Allison Eide](https://open.spotify.com/artist/6RDeotP2Ny6OsLRt5OJLQ1) | [that's my life](https://open.spotify.com/album/2IL7DRiuW2ZxzkB1YKznXz) | 3:38 |
-| 12 | [To God Be The Glory \- Studio](https://open.spotify.com/track/5DTyY5w9NT214c8hrUDZ9H) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [To God Be The Glory](https://open.spotify.com/album/45c0d22lk0ttL7aZvWEWmI) | 4:44 |
+| 12 | [To God Be The Glory](https://open.spotify.com/track/5DTyY5w9NT214c8hrUDZ9H) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [To God Be The Glory](https://open.spotify.com/album/45c0d22lk0ttL7aZvWEWmI) | 4:44 |
 | 13 | [Won't Let Go](https://open.spotify.com/track/4pRJMNLtar65GtT9vpzHu4) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4) | [Jamie MacDonald](https://open.spotify.com/album/0y3pWJZ5j2JPYI2K3vPzZp) | 3:09 |
 | 14 | [EVERYTHING](https://open.spotify.com/track/7B2qUMtvYuAr8QGCx1vVij) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [EVERYTHING](https://open.spotify.com/album/4i49RtwqvKoilyro0TIypt) | 3:23 |
 | 15 | [There Goes That Man](https://open.spotify.com/track/7pOo4GVNndyLhhlVRliHYU) | [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [There Goes That Man](https://open.spotify.com/album/0VfyycjOpJgt56sEz6OD8C) | 4:20 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 | 26 | [ICU](https://open.spotify.com/track/5MgTtwRKD6Mm7eRJbMh4N1) | [Joseph O'Brien](https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa) | [ICU](https://open.spotify.com/album/5orbBYRUUgZsZSDuN9z8j3) | 2:53 |
 | 27 | [The Mercy Room](https://open.spotify.com/track/5I7WPi3OheSMwPRf8AGPpC) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [The Mercy Room](https://open.spotify.com/album/1Beku06tr0tlr8ScsF8CsG) | 3:42 |
 | 28 | [Remember](https://open.spotify.com/track/0VgkDPY3jHMxr3Q4kVYjfU) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [DAY](https://open.spotify.com/album/3b9ImDd2bG8YDyERA57PXf) | 3:39 |
-| 29 | [alright <3](https://open.spotify.com/track/3B3UXCixeVlTOyJS0dkMi9) | [taylor charmayne](https://open.spotify.com/artist/6iEKnPF41oa4jXXOmOnvWS), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T), [David Alexander Fields](https://open.spotify.com/artist/1T0sNtVxvAkesJAxcjhAeJ), [Jontavais Jermaine johnson](https://open.spotify.com/artist/116wMw3zxbx9d2zdpX0Nzj) | [alright <3](https://open.spotify.com/album/4vn8PhGIvol3OtMPriOFiq) | 3:48 |
+| 29 | [alright <3](https://open.spotify.com/track/3B3UXCixeVlTOyJS0dkMi9) | [taylor charmayne](https://open.spotify.com/artist/6iEKnPF41oa4jXXOmOnvWS), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [alright <3](https://open.spotify.com/album/4vn8PhGIvol3OtMPriOFiq) | 3:48 |
 | 30 | [Beautiful Things \(From the Angel Original Series Miracle\)](https://open.spotify.com/track/5pdVUXCTlMP4kfwcNICBai) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C), [Eris Ford](https://open.spotify.com/artist/1zZDuiPTuQzsbXPj4N58G4) | [Beautiful Things \(From the Angel Original Series Miracle\)](https://open.spotify.com/album/3EaCnsYAOPeRGrd6bfful3) | 3:22 |
 | 31 | [Good Woman](https://open.spotify.com/track/0HygZvNlBcHgLfqQxlwdcN) | [Franni Cash](https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1) | [Good Woman](https://open.spotify.com/album/4RLMo2rEWRHFyTYsDmMDjB) | 4:02 |
 | 32 | [ALIVE](https://open.spotify.com/track/0TdKXMh37guhnEqbHgZPEX) | [Van Buren](https://open.spotify.com/artist/3Yu0KVIiHkzduNTv4V8QNl) | [ALIVE](https://open.spotify.com/album/3pKoSRdFHjUH8ynsdfZMJr) | 3:33 |

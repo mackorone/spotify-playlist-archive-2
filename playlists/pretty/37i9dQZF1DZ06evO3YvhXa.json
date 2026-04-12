@@ -1,12 +1,12 @@
 {
   "description": "This is Jamiroquai. The essential tracks, all in one playlist.",
-  "num_followers": 434719,
+  "num_followers": 434790,
   "original_name": "This Is Jamiroquai",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adbsAAAAAACf3Vg3U6nq+PM6dmuGaONP",
+  "snapshot_id": "adg9gAAAAAAclQ9FwWOafc1egpGK0c/C",
   "tracks": [
     {
       "added_at": null,
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Automaton",
-        "url": "https://open.spotify.com/album/1xQq0txMTpstjFUwp4c4E0"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 236946,
-      "name": "Cloud 9",
-      "url": "https://open.spotify.com/track/2kX4ykCwUeAVYv6fahnDfG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Space Cowboy (Remixes)",
         "url": "https://open.spotify.com/album/3yEBzDpFwVIfAUkeS0GYa7"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 243913,
       "name": "Space Cowboy (Classic Radio)",
       "url": "https://open.spotify.com/track/4SauVG68Oqmznmm04IQ0rm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Automaton",
+        "url": "https://open.spotify.com/album/1xQq0txMTpstjFUwp4c4E0"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 236946,
+      "name": "Cloud 9",
+      "url": "https://open.spotify.com/track/2kX4ykCwUeAVYv6fahnDfG"
     },
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Travelling Without Moving (Remastered)",
-        "url": "https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 245786,
-      "name": "Drifting Along - Remastered 2013",
-      "url": "https://open.spotify.com/track/7a3ts6r8HHYp7VU7sefVAl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Return of the Space Cowboy (Remastered)",
         "url": "https://open.spotify.com/album/3emhnEQ76nUUehouSvnGxk"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 256640,
       "name": "Stillness in Time",
       "url": "https://open.spotify.com/track/704D4dPfn1ubgJ1UHXwg3Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Travelling Without Moving (Remastered)",
+        "url": "https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 245786,
+      "name": "Drifting Along - Remastered 2013",
+      "url": "https://open.spotify.com/track/7a3ts6r8HHYp7VU7sefVAl"
     },
     {
       "added_at": null,

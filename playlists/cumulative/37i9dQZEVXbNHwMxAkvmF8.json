@@ -3204,7 +3204,7 @@
       ],
       "date_added": "2022-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 124273,
       "name": "BAGIRA",
       "url": "https://open.spotify.com/track/18DVypBkvcJtVFzQr5Ly7J"
@@ -8446,7 +8446,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 205308,
       "name": "Dracula",
       "url": "https://open.spotify.com/track/1NXbNEAcPvY5G1xvfN57aA"
@@ -16010,7 +16010,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 139551,
       "name": "KERTES H\u00c1Z",
       "url": "https://open.spotify.com/track/1YEzjWjdDNHFeycih2VNGm"
@@ -19054,7 +19054,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 146400,
       "name": "MEGGYF\u00c1N",
       "url": "https://open.spotify.com/track/0Ro1NBqAymTPeQuHVNOekw"
@@ -24054,7 +24054,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-11",
+      "date_removed": null,
       "duration_ms": 185783,
       "name": "POKOL",
       "url": "https://open.spotify.com/track/5kWvRnSdvA7Au78O0zGZug"
@@ -25656,7 +25656,7 @@
       ],
       "date_added": "2025-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-11",
+      "date_removed": null,
       "duration_ms": 174843,
       "name": "REND\u0150R B\u00c1CSI, K\u00c9REM",
       "url": "https://open.spotify.com/track/3RrdbFM2AF1fT9dK70mMRP"
@@ -27172,6 +27172,28 @@
       "duration_ms": 139014,
       "name": "seholse",
       "url": "https://open.spotify.com/track/520pvY0G0yZ9Jcwlhik7lD"
+    },
+    {
+      "album": {
+        "name": "SEHONNAI",
+        "url": "https://open.spotify.com/album/7frUrxm6049qQdd4eO3y5i"
+      },
+      "artists": [
+        {
+          "name": "Co Lee",
+          "url": "https://open.spotify.com/artist/7AFCBet5F4Pocp1il3bxv0"
+        },
+        {
+          "name": "don sea",
+          "url": "https://open.spotify.com/artist/36i8o4PQpcxmPCiGNPI99L"
+        }
+      ],
+      "date_added": "2026-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169655,
+      "name": "SEHONNAI",
+      "url": "https://open.spotify.com/track/2CN4SYlzQpx08P9HDZRYou"
     },
     {
       "album": {
@@ -30206,7 +30228,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 146808,
       "name": "Talpra cig\u00e1nyok",
       "url": "https://open.spotify.com/track/7ol1qsH3u5MpgoEwuAh8ES"

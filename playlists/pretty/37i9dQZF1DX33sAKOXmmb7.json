@@ -1,6 +1,6 @@
 {
   "description": "Indie folk that defined the 2010s.",
-  "num_followers": 85743,
+  "num_followers": 85756,
   "original_name": "10s Indie Folk",
   "owner": {
     "name": "Spotify",
@@ -155,22 +155,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Hozier (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 240147,
-      "name": "Cherry Wine - Live",
-      "url": "https://open.spotify.com/track/1C042FLYy7rP3MfnkOcnha"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "Nation of Two",
         "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 214720,
       "name": "Saturday Sun",
       "url": "https://open.spotify.com/track/2RiBogNRfulkNf7fVbPOrJ"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "Hozier (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 240147,
+      "name": "Cherry Wine - Live",
+      "url": "https://open.spotify.com/track/1C042FLYy7rP3MfnkOcnha"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Mala",
-        "url": "https://open.spotify.com/album/1Z69PSnbIBojgF9NBJbKca"
-      },
-      "artists": [
-        {
-          "name": "Devendra Banhart",
-          "url": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
-        }
-      ],
-      "duration_ms": 204506,
-      "name": "Mi Negrita",
-      "url": "https://open.spotify.com/track/4r7iDEGdW2Gw9hJlCbi5qL"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "A Face Like Mine",
         "url": "https://open.spotify.com/album/5swCwkecIl1ZafeyxJYbYk"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 200800,
       "name": "My Arms Were Always Around You",
       "url": "https://open.spotify.com/track/53iFMaNUXn6Oj8hUIKSO5a"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "Mala",
+        "url": "https://open.spotify.com/album/1Z69PSnbIBojgF9NBJbKca"
+      },
+      "artists": [
+        {
+          "name": "Devendra Banhart",
+          "url": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
+        }
+      ],
+      "duration_ms": 204506,
+      "name": "Mi Negrita",
+      "url": "https://open.spotify.com/track/4r7iDEGdW2Gw9hJlCbi5qL"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Two",
-        "url": "https://open.spotify.com/album/36iznSMpm0zbibJ7TsIUmQ"
-      },
-      "artists": [
-        {
-          "name": "Liza Anne",
-          "url": "https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ"
-        }
-      ],
-      "duration_ms": 236834,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/078kLYfYCjjPMbABqriXT3"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "No Witch",
         "url": "https://open.spotify.com/album/0oxIRAe6kVERSR8DaNUyUC"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 191266,
       "name": "Distant Sures",
       "url": "https://open.spotify.com/track/7vLWnCf4KEbde9pG4mHqd8"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "Two",
+        "url": "https://open.spotify.com/album/36iznSMpm0zbibJ7TsIUmQ"
+      },
+      "artists": [
+        {
+          "name": "Liza Anne",
+          "url": "https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ"
+        }
+      ],
+      "duration_ms": 236834,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/078kLYfYCjjPMbABqriXT3"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Small Town Heroes",
-        "url": "https://open.spotify.com/album/2PKIZjQQgHQeDAw5fn35LO"
-      },
-      "artists": [
-        {
-          "name": "Hurray For The Riff Raff",
-          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
-        }
-      ],
-      "duration_ms": 153546,
-      "name": "Blue Ridge Mountain",
-      "url": "https://open.spotify.com/track/2y9IwrkkEVfWpKgPotxf8Q"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "The Carpenter",
         "url": "https://open.spotify.com/album/3zvxtXSdWY2JHkKmoIG3OG"
       },
@@ -1691,18 +1675,18 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Mint Condition",
-        "url": "https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794"
+        "name": "Small Town Heroes",
+        "url": "https://open.spotify.com/album/2PKIZjQQgHQeDAw5fn35LO"
       },
       "artists": [
         {
-          "name": "Caroline Spence",
-          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
+          "name": "Hurray For The Riff Raff",
+          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
         }
       ],
-      "duration_ms": 242493,
-      "name": "Mint Condition",
-      "url": "https://open.spotify.com/track/3k0YUWIovSt3e6BRsERRPA"
+      "duration_ms": 153546,
+      "name": "Blue Ridge Mountain",
+      "url": "https://open.spotify.com/track/2y9IwrkkEVfWpKgPotxf8Q"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1719,6 +1703,22 @@
       "duration_ms": 346493,
       "name": "Believe",
       "url": "https://open.spotify.com/track/3MuZrrcX0Ko3lgvbfLA7mU"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "Mint Condition",
+        "url": "https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794"
+      },
+      "artists": [
+        {
+          "name": "Caroline Spence",
+          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
+        }
+      ],
+      "duration_ms": 242493,
+      "name": "Mint Condition",
+      "url": "https://open.spotify.com/track/3k0YUWIovSt3e6BRsERRPA"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "The Silver Gymnasium",
-        "url": "https://open.spotify.com/album/5aO3jsVyUZRrnyFkRXlhnU"
-      },
-      "artists": [
-        {
-          "name": "Okkervil River",
-          "url": "https://open.spotify.com/artist/5E7zSu46SqTmgKqsc0tFkY"
-        }
-      ],
-      "duration_ms": 392893,
-      "name": "Down Down The Deep River",
-      "url": "https://open.spotify.com/track/6FyokYpQp8qm3WVPLDIRJP"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "Maraqopa (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0M9qrwqS1gTf7ONzbws7z4"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 170906,
       "name": "Museum of Flight",
       "url": "https://open.spotify.com/track/66FQj8xV0Jv082kNhzKdGi"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "The Silver Gymnasium",
+        "url": "https://open.spotify.com/album/5aO3jsVyUZRrnyFkRXlhnU"
+      },
+      "artists": [
+        {
+          "name": "Okkervil River",
+          "url": "https://open.spotify.com/artist/5E7zSu46SqTmgKqsc0tFkY"
+        }
+      ],
+      "duration_ms": 392893,
+      "name": "Down Down The Deep River",
+      "url": "https://open.spotify.com/track/6FyokYpQp8qm3WVPLDIRJP"
     },
     {
       "added_at": "2024-08-28 14:05:36",

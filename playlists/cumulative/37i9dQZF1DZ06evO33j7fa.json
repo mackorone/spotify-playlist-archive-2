@@ -1199,6 +1199,32 @@
     },
     {
       "album": {
+        "name": "The Endless Coloured Ways: The Songs of Nick Drake",
+        "url": "https://open.spotify.com/album/6RoEhsWUSLVTh9wILDBfGJ"
+      },
+      "artists": [
+        {
+          "name": "Bombay Bicycle Club",
+          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+        },
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        },
+        {
+          "name": "Nick Drake",
+          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+        }
+      ],
+      "date_added": "2026-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156689,
+      "name": "Road",
+      "url": "https://open.spotify.com/track/6LdShMhRMBP1deIQlHGH1U"
+    },
+    {
+      "album": {
         "name": "Pink Moon",
         "url": "https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg"
       },

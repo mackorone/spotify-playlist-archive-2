@@ -211,6 +211,28 @@
     },
     {
       "album": {
+        "name": "House Of Cards",
+        "url": "https://open.spotify.com/album/1l1l8xo7IAxCor2QPYM0Mg"
+      },
+      "artists": [
+        {
+          "name": "Debbie",
+          "url": "https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17"
+        },
+        {
+          "name": "Victor Ray",
+          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
+        }
+      ],
+      "date_added": "2026-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150333,
+      "name": "House Of Cards",
+      "url": "https://open.spotify.com/track/2NSsAlLowF4oBBBktsAwM7"
+    },
+    {
+      "album": {
         "name": "It Only Cost Everything",
         "url": "https://open.spotify.com/album/0ciuSJpaytL7XoDSyt4jhl"
       },

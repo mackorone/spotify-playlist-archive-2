@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6M9QH5CEPdtif778LoMbQ5">Emily Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-200 songs - 10 hr 55 min
+201 songs - 10 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,8 @@
 | [Into The Blue](https://open.spotify.com/track/2xYZtNV1Mn9pPc6nYSzg1Z) | [Rationale](https://open.spotify.com/artist/2IQDM5URYGYfSMmwhTCmyy) | [Rationale](https://open.spotify.com/album/6H9qymov6q3LpGwjhaSLsn) | 3:21 | 2024-02-27 |  |
 | [It Gets Dark](https://open.spotify.com/track/2atxeaxfexFVa2YglwPlSN) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [How To Let Go](https://open.spotify.com/album/4V714KyABj469FBI9Dao8T) | 3:23 | 2024-02-27 |  |
 | [It Takes Two](https://open.spotify.com/track/21vLEEtCTBS6fxw1TuPJAy) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Anna Kendrick](https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Eric Andre](https://open.spotify.com/artist/65b4bZsoMS43PhlilVEzke), [Daveed Diggs](https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [It Takes Two \(feat\. Eric Andre, Daveed Diggs, Kid Cudi & Trolls\)](https://open.spotify.com/album/7oGTxPAGX6htcQblSqWo0r) | 3:39 | 2024-02-27 |  |
-| [Jump \- Live From The Studio](https://open.spotify.com/track/0orqUsqNaLLGF4aXoU6F3d) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Jump \(Live From The Studio\)](https://open.spotify.com/album/3AKoMsGO1lldUy7vIYG6fi) | 2:55 | 2024-02-27 |  |
+| [Jump](https://open.spotify.com/track/44QPo940wumNDeqL8v6AMu) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Astrid S](https://open.spotify.com/album/5iK2afnsB8wwv9WULCE9e7) | 3:13 | 2026-04-11 |  |
+| [Jump \- Live From The Studio](https://open.spotify.com/track/0orqUsqNaLLGF4aXoU6F3d) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Jump \(Live From The Studio\)](https://open.spotify.com/album/3AKoMsGO1lldUy7vIYG6fi) | 2:55 | 2024-02-27 | 2026-04-12 |
 | [Just You, Not Now \(Love Theme\)](https://open.spotify.com/track/5Zs9RUmMV7H8VSowoKV6Uu) | [SAYGRACE](https://open.spotify.com/artist/6y5amJcTjeDgLXIjtQLMst) | [The Get Down: Original Soundtrack From The Netflix Original Series \(Deluxe Version\)](https://open.spotify.com/album/7ezeSBh9E63ijDAxn8Ke4P) | 4:25 | 2024-02-27 |  |
 | [La Di Da](https://open.spotify.com/track/2YyvWje3cEYyqgYhNUIaBJ) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Love, me](https://open.spotify.com/album/3OIuzwZjpwUwyvFhSHYjj6) | 3:29 | 2024-02-27 |  |
 | [Last Goodbye \(feat\. Tove Styrke & Stefflon Don\)](https://open.spotify.com/track/6Vly9VOZmMnHDDambtb32p) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [What Is Love? \(Deluxe Edition\)](https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc) | 3:19 | 2024-02-27 |  |

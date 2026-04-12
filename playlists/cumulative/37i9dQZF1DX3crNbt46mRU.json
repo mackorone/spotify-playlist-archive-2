@@ -304661,25 +304661,7 @@
     },
     {
       "album": {
-        "name": "Poltergeist",
-        "url": "https://open.spotify.com/album/25y2eF6i5f9yMtGjXdxmzj"
-      },
-      "artists": [
-        {
-          "name": "Isolate.exe",
-          "url": "https://open.spotify.com/artist/6awzrpxHXHtibHWUv86jVI"
-        }
-      ],
-      "date_added": "2023-01-05",
-      "date_added_asterisk": false,
-      "date_removed": "2023-01-13",
-      "duration_ms": 188571,
-      "name": "Poltergeist",
-      "url": "https://open.spotify.com/track/68CQySa6pXdkVTmH1nio7D"
-    },
-    {
-      "album": {
-        "name": "poltergeist (feat. Emma Josephine)",
+        "name": "poltergeist",
         "url": "https://open.spotify.com/album/6eQFiz8uffTixXA2rH1u4H"
       },
       "artists": [
@@ -304696,8 +304678,26 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 164668,
-      "name": "poltergeist (feat. Emma Josephine)",
+      "name": "poltergeist",
       "url": "https://open.spotify.com/track/2zEsuKoe2JKoi15SMWJLiX"
+    },
+    {
+      "album": {
+        "name": "Poltergeist",
+        "url": "https://open.spotify.com/album/25y2eF6i5f9yMtGjXdxmzj"
+      },
+      "artists": [
+        {
+          "name": "Isolate.exe",
+          "url": "https://open.spotify.com/artist/6awzrpxHXHtibHWUv86jVI"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-13",
+      "duration_ms": 188571,
+      "name": "Poltergeist",
+      "url": "https://open.spotify.com/track/68CQySa6pXdkVTmH1nio7D"
     },
     {
       "album": {
@@ -377081,7 +377081,7 @@
     },
     {
       "album": {
-        "name": "Last Time",
+        "name": "The Last Time",
         "url": "https://open.spotify.com/album/0z8wNo1gsaFX1CP2wuqwwo"
       },
       "artists": [

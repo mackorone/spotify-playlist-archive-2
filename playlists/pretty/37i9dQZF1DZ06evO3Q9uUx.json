@@ -1,12 +1,12 @@
 {
   "description": "This is BIA. The essential tracks, all in one playlist.",
-  "num_followers": 16005,
+  "num_followers": 16009,
   "original_name": "This Is BIA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adbsAAAAAADDNPio6VIXKM2vYVTbNz76",
+  "snapshot_id": "adg9gAAAAAAXkdYCVGQLbWsk9JbbebGA",
   "tracks": [
     {
       "added_at": null,
@@ -403,26 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seductive",
-        "url": "https://open.spotify.com/album/75bi4SlFkQJ2zogYEjlHK5"
-      },
-      "artists": [
-        {
-          "name": "Luciano",
-          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 178546,
-      "name": "Mami (feat. BIA)",
-      "url": "https://open.spotify.com/track/0fu8IDTHrJgnUMgJmhrWRa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Run",
         "url": "https://open.spotify.com/album/7b7CkJuDzMUFt0vbzj0pjv"
       },
@@ -451,26 +431,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perfect (Remix) (feat. Doja Cat & BIA)",
-        "url": "https://open.spotify.com/album/2S5f607kus6aZo5UcA3gPS"
+        "name": "Seductive",
+        "url": "https://open.spotify.com/album/75bi4SlFkQJ2zogYEjlHK5"
       },
       "artists": [
         {
-          "name": "Cousin Stizz",
-          "url": "https://open.spotify.com/artist/0KpCz7V5XRkqKuM1JDf56O"
-        },
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
         },
         {
           "name": "BIA",
           "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
         }
       ],
-      "duration_ms": 197461,
-      "name": "Perfect (Remix) (feat. Doja Cat & BIA)",
-      "url": "https://open.spotify.com/track/31tgCy8mn6sFuIiHSHfEhm"
+      "duration_ms": 178546,
+      "name": "Mami (feat. BIA)",
+      "url": "https://open.spotify.com/track/0fu8IDTHrJgnUMgJmhrWRa"
     },
     {
       "added_at": null,
@@ -495,22 +471,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Buy What U Want",
-        "url": "https://open.spotify.com/album/0vUKTBr1GMhIk96Ndhml1h"
+        "name": "Perfect (Remix) (feat. Doja Cat & BIA)",
+        "url": "https://open.spotify.com/album/2S5f607kus6aZo5UcA3gPS"
       },
       "artists": [
         {
-          "name": "Black Fortune",
-          "url": "https://open.spotify.com/artist/5kEIoxHSPy9qHJqgR2Ng5Z"
+          "name": "Cousin Stizz",
+          "url": "https://open.spotify.com/artist/0KpCz7V5XRkqKuM1JDf56O"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         },
         {
           "name": "BIA",
           "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
         }
       ],
-      "duration_ms": 227669,
-      "name": "Buy What U Want",
-      "url": "https://open.spotify.com/track/2DEIPMzcyKZ45YYYPZl4WC"
+      "duration_ms": 197461,
+      "name": "Perfect (Remix) (feat. Doja Cat & BIA)",
+      "url": "https://open.spotify.com/track/31tgCy8mn6sFuIiHSHfEhm"
     },
     {
       "added_at": null,
@@ -539,22 +519,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "FOR CERTAIN (Deluxe)",
-        "url": "https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc"
+        "name": "Buy What U Want",
+        "url": "https://open.spotify.com/album/0vUKTBr1GMhIk96Ndhml1h"
       },
       "artists": [
         {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+          "name": "Black Fortune",
+          "url": "https://open.spotify.com/artist/5kEIoxHSPy9qHJqgR2Ng5Z"
         },
         {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
         }
       ],
-      "duration_ms": 131224,
-      "name": "BESITO (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/1JTJws1FmfNRrF90bns0TT"
+      "duration_ms": 227669,
+      "name": "Buy What U Want",
+      "url": "https://open.spotify.com/track/2DEIPMzcyKZ45YYYPZl4WC"
     },
     {
       "added_at": null,
@@ -587,6 +567,26 @@
       "duration_ms": 208885,
       "name": "Perfect (with Sia)",
       "url": "https://open.spotify.com/track/7gh6635LXixA4Cw9baMWKp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FOR CERTAIN (Deluxe)",
+        "url": "https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 131224,
+      "name": "BESITO (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/1JTJws1FmfNRrF90bns0TT"
     },
     {
       "added_at": null,
@@ -727,26 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FOR CERTAIN",
-        "url": "https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "Lil Jon",
-          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
-        }
-      ],
-      "duration_ms": 125440,
-      "name": "BIA BIA (feat. Lil Jon)",
-      "url": "https://open.spotify.com/track/23xteU6IlMeNxJ2sYcjHlR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "moo",
         "url": "https://open.spotify.com/album/5RHHriIsaO6PnS4DodUsat"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 187826,
       "name": "jaded (feat. BIA)",
       "url": "https://open.spotify.com/track/02Qel05Z1siC6oZUWjeP3p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FOR CERTAIN",
+        "url": "https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        }
+      ],
+      "duration_ms": 125440,
+      "name": "BIA BIA (feat. Lil Jon)",
+      "url": "https://open.spotify.com/track/23xteU6IlMeNxJ2sYcjHlR"
     },
     {
       "added_at": null,
@@ -955,6 +955,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "REALLY HER",
+        "url": "https://open.spotify.com/album/4acZyhrXnAZR3PSDLAaoX5"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 151431,
+      "name": "FALLBACK",
+      "url": "https://open.spotify.com/track/7hnxhq0SI3FWYJtsRnWroM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I'M THAT BITCH",
         "url": "https://open.spotify.com/album/3XZmrh1D5RI5kvz5N6i6Lp"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 152043,
       "name": "I'M THAT BITCH",
       "url": "https://open.spotify.com/track/39uEuUEWsAZtozSQRPlf62"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "REALLY HER",
-        "url": "https://open.spotify.com/album/4acZyhrXnAZR3PSDLAaoX5"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 151431,
-      "name": "FALLBACK",
-      "url": "https://open.spotify.com/track/7hnxhq0SI3FWYJtsRnWroM"
     },
     {
       "added_at": null,
@@ -1043,6 +1043,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "REALLY HER",
+        "url": "https://open.spotify.com/album/4acZyhrXnAZR3PSDLAaoX5"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 172974,
+      "name": "MILLIONS",
+      "url": "https://open.spotify.com/track/11AsxhPhTYYIwLiE6bkA0v"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The End of an Era",
         "url": "https://open.spotify.com/album/7lpONbbHTKDFk5nDpOgdFD"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 170899,
       "name": "Is That Right",
       "url": "https://open.spotify.com/track/3vbfLTQ4F7CvL3DGO1cdZF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "REALLY HER",
-        "url": "https://open.spotify.com/album/4acZyhrXnAZR3PSDLAaoX5"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 172974,
-      "name": "MILLIONS",
-      "url": "https://open.spotify.com/track/11AsxhPhTYYIwLiE6bkA0v"
     },
     {
       "added_at": null,

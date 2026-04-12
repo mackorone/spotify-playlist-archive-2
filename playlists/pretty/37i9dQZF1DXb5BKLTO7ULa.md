@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuw: Hiqpy, Yssi SB, KATSEYE, Kehlani, Son Mieux, Russo en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,738 likes - 90 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,731 likes - 90 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 4 | [Back and Forth \(feat\. Missy Elliott\)](https://open.spotify.com/track/6t263UZVjI9nnHfr7eeLW4) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Back and Forth \(feat\. Missy Elliott\)](https://open.spotify.com/album/3yb1H4Mf6annZTGWpmAoCW) | 3:34 |
 | 5 | [24 Hours](https://open.spotify.com/track/3pFYcTc0okPqmVF4DDQfup) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [24 Hours](https://open.spotify.com/album/67lBzfEqQE39zkXHcH6ltY) | 3:26 |
 | 6 | [Vem Comigo](https://open.spotify.com/track/3zr7VbJvavpspJF2JipvQ1) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Olive Anguz](https://open.spotify.com/artist/3d0AuH83bH58zFUU7Z1hMk), [Project Zeitgeist](https://open.spotify.com/artist/6Fryg7OCCsApuKUvkcGVg3) | [Vem Comigo](https://open.spotify.com/album/324AIUKj8Q96Ir66ng7SmX) | 3:27 |
-| 7 | [Gappie Sappie](https://open.spotify.com/track/2FCDwCdXpMnSq3QuHWZ3UM) | [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW), [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Gappie Sappie](https://open.spotify.com/album/7FE9PW71kUT5Ry6N1D0TDo) | 2:17 |
+| 7 | [Gappie Sappie](https://open.spotify.com/track/2FCDwCdXpMnSq3QuHWZ3UM) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Gappie Sappie](https://open.spotify.com/album/7FE9PW71kUT5Ry6N1D0TDo) | 2:17 |
 | 8 | [Waar De Ladies Zijn](https://open.spotify.com/track/1RBAmptvCgOBmUQorOiT31) | [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee), [Matthy](https://open.spotify.com/artist/0QHed4AjWDRonljqAa92EF) | [Waar De Ladies Zijn](https://open.spotify.com/album/7sItPhIOsuhFEqT9PyPRXq) | 2:20 |
 | 9 | [Woman I Am](https://open.spotify.com/track/7JDJimCnfNpiReuMNPXIVJ) | [Skye Newman](https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M) | [Woman I Am](https://open.spotify.com/album/2sgEblpbAegLtRuCpHJl70) | 3:31 |
 | 10 | [Liar](https://open.spotify.com/track/2OWXbIn2geYwaSLgBxwkOM) | [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [Liar](https://open.spotify.com/album/5zGqHfBnD4Lpk3dTwQT2b9) | 3:37 |
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 65 | [SAME SH!T](https://open.spotify.com/track/0EOc1cP1zMmF9kR0w3AM5f) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [SAME SH!T](https://open.spotify.com/album/34v3zMWlkxsKbaYnERZV6d) | 3:13 |
 | 66 | [Reconsider](https://open.spotify.com/track/68s4qX9mitS8d3u1UY7SDj) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [ADHD 2 Reloaded](https://open.spotify.com/album/61MEzXrdKxuTvken9N1C7g) | 3:37 |
 | 67 | [All You Ever Wanted](https://open.spotify.com/track/4TLx9SRerOh8eKkNEJ8Bty) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [All You Ever Wanted](https://open.spotify.com/album/4KUpiZ42WqvNZ5gT3ZfNRm) | 1:59 |
-| 68 | [Love Hate](https://open.spotify.com/track/1ysnEi1bFBkn0aCQFPh8gY) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9), [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Love Hate](https://open.spotify.com/album/0tLM5uck8tjqqvgagX4I1p) | 3:12 |
+| 68 | [Love Hate \(feat\. Thomas Day\)](https://open.spotify.com/track/1ysnEi1bFBkn0aCQFPh8gY) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9), [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Love Hate \(feat\. Thomas Day\)](https://open.spotify.com/album/0tLM5uck8tjqqvgagX4I1p) | 3:12 |
 | 69 | [WORK OF ART](https://open.spotify.com/track/3zoGDSqhsrkZ8nRQ2M3YpU) | [Tkandz](https://open.spotify.com/artist/4Uwx6qzRn0kA9sz6cCDpBO) | [WORK OF ART](https://open.spotify.com/album/0bba4GBcp9JghU5teKM1ed) | 2:27 |
 | 70 | [Ting Loud \(with Masicka\)](https://open.spotify.com/track/0SXhAXeKf5QuSsCUWoxRsH) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [Ting Loud \(with Masicka\)](https://open.spotify.com/album/46RyBz5z8NqR7x7wCJuKPX) | 3:22 |
 | 71 | [American Dream](https://open.spotify.com/track/2hEtEN8dt6Hj2djG33DT6e) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [American Dream](https://open.spotify.com/album/45NVjCLXsyk3X8gxD5d18s) | 4:27 |

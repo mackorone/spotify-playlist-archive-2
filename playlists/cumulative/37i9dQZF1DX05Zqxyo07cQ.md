@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-1,023 songs - 2 day 0 hr 56 min
+1,025 songs - 2 day 1 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -455,6 +455,7 @@
 | [In the Stillness](https://open.spotify.com/track/38UK747YAiaElqtkXz8xmX) | [Hector Warrens](https://open.spotify.com/artist/18djQbUQxMlklEPDlDif6B) | [In the Stillness](https://open.spotify.com/album/1t7JhPDdr9OqJOez5uB1SW) | 3:09 | 2025-02-14 | 2025-10-16 |
 | [In Warmth](https://open.spotify.com/track/28xW5WozDABhJvfxNx3XDq) | [The Lay\-Backs](https://open.spotify.com/artist/3hcHU2Pwf2YPgQXqdEi83C) | [In Warmth](https://open.spotify.com/album/6Mgqs0QSsWG6j6jXC5MuNm) | 2:33 | 2026-03-20 |  |
 | [Incandescent](https://open.spotify.com/track/0PPWFj7RtjyPpdzkHdXBQx) | [Adirenne Lushara](https://open.spotify.com/artist/4Bq0flYhY0O3Tl8qMZsaO4) | [Incandescent](https://open.spotify.com/album/2LihUwNXSVTW601y1XLlzz) | 2:56 | 2024-02-08 | 2024-03-21 |
+| [Inceptum](https://open.spotify.com/track/1PtNlpqHMwOQ93hh7pRizT) | [Amphose](https://open.spotify.com/artist/719YWjEvZBDkU5Esi9rsZz) | [Inceptum](https://open.spotify.com/album/2F9UiY6Cyay1nWd8OlyWZB) | 2:38 | 2026-04-03 |  |
 | [Include](https://open.spotify.com/track/0v4OsqxNQmqxaz10teJsWO) | [different spaces](https://open.spotify.com/artist/5TGuPLjK2IVw8eDuJ9oZ1K) | [Include](https://open.spotify.com/album/1Hs4Nl5uMnxyn4skV5EIF5) | 2:57 | 2024-05-20 | 2025-04-28 |
 | [Indevotion](https://open.spotify.com/track/1HRBykBRCr7YjarwKv5TzZ) | [Author S](https://open.spotify.com/artist/7velK5j4c1vTfJLItteMBm) | [Indevotion](https://open.spotify.com/album/0AYM3u9BPqgwid49Y4g1Zy) | 2:34 | 2025-12-17 | 2026-02-26 |
 | [Indigo](https://open.spotify.com/track/1UnO7GoJHbOxjr7E4o0J5x) | [Cinnamon Glass](https://open.spotify.com/artist/6BzNyyP6Cp3gzqHFZmdeeq) | [Indigo](https://open.spotify.com/album/4kt42Jy8fZNVox7Zfdk82q) | 2:29 | 2025-12-17 | 2026-02-26 |
@@ -570,7 +571,7 @@
 | [Migla](https://open.spotify.com/track/0AY2x7N94uTmkYruyZDPKu) | [Adelina Palm](https://open.spotify.com/artist/5EUJpZPU6Oo6v9E5I21qFe) | [Migla](https://open.spotify.com/album/1ImyklVXN9AtfPPDfRNYEH) | 2:00 | 2023-03-23 | 2024-03-21 |
 | [Mind](https://open.spotify.com/track/7DvR34weBiIehUpND2sN6O) | [From Alfie](https://open.spotify.com/artist/6lqr9FKlo45VgiWOu6P6kT) | [The Thread](https://open.spotify.com/album/7zwuCg5viRTfN5xKAYgmSU) | 2:31 | 2023-03-23 | 2024-02-09 |
 | [Mindful Heights](https://open.spotify.com/track/7zGEVhbWkkwVeu15l42JCV) | [Snooze Narrator](https://open.spotify.com/artist/4AIFEMrtoaGz1z3j8OXeR3) | [Mindful Heights](https://open.spotify.com/album/6waTwZDuN0H1mFP7rZhQZK) | 3:24 | 2024-05-20 | 2025-09-30 |
-| [Mindful Retreat](https://open.spotify.com/track/0IaCcbEwkyL9sZIJpvDHPJ) | [Sol Sagewood](https://open.spotify.com/artist/1kNDHlOteyieJuK7EBqsce) | [Mindful Retreat](https://open.spotify.com/album/4upJvJw7CB0xCF90vxF0Ro) | 3:24 | 2026-04-03 |  |
+| [Mindful Retreat](https://open.spotify.com/track/0IaCcbEwkyL9sZIJpvDHPJ) | [Sol Sagewood](https://open.spotify.com/artist/1kNDHlOteyieJuK7EBqsce) | [Mindful Retreat](https://open.spotify.com/album/4upJvJw7CB0xCF90vxF0Ro) | 3:24 | 2026-04-03 | 2026-04-12 |
 | [Mindvibe](https://open.spotify.com/track/3aROTIlJEYc90xE8hlm4Be) | [Sir Dejvid](https://open.spotify.com/artist/0pwSi22Ps7HUNFmaAQHTJF) | [Cipher](https://open.spotify.com/album/2jBr8FtJiUIW5KuklZAaxa) | 3:03 | 2023-07-14 | 2024-07-10 |
 | [Miracle Manifestations](https://open.spotify.com/track/434O3sagPl9KLkBhGp7aP5) | [Chakra Tides](https://open.spotify.com/artist/7gfe0wDVyfNBiAWSVQyZRk) | [Miracle Manifestations](https://open.spotify.com/album/1nqyNBtjTe6UuWdq86sB6G) | 2:08 | 2025-01-22 | 2025-06-26 |
 | [Mirage](https://open.spotify.com/track/6DRFqcpIn6lH267u3pIMnF) | [Foreglow](https://open.spotify.com/artist/2fxdHlNjFfdYlMltby9IpJ) | [Mirage](https://open.spotify.com/album/4i0PuQlDnKEbyYe3Qh5nIX) | 2:38 | 2025-02-26 | 2025-12-04 |
@@ -692,6 +693,7 @@
 | [Places](https://open.spotify.com/track/3OoXbnBZiWY3RHhz31zKPj) | [Elysha Iman](https://open.spotify.com/artist/3YG9AoDdEIOygPtme6s1ZE) | [Places](https://open.spotify.com/album/6EmGsuDo6pV86aTIeeVK99) | 3:25 | 2023-03-23 | 2024-01-18 |
 | [Placid](https://open.spotify.com/track/742kqQt105kEHD0I8A9Kmg) | [Noah Moon](https://open.spotify.com/artist/6kXZd2PVpbPLWi6P0QQeQ8) | [Placid](https://open.spotify.com/album/5DckMEoufXVkRjne54lPdo) | 2:46 | 2025-11-12 |  |
 | [Placid Echoes](https://open.spotify.com/track/7ybzymL0w0XYyJaBeqFSRy) | [Leon White](https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2) | [Placid Echoes](https://open.spotify.com/album/7qB2UagPGPPr2t7hTZQS58) | 2:36 | 2024-07-22 | 2025-03-26 |
+| [Placid Interval](https://open.spotify.com/track/3rejhbJj7L7YG8dYkaq1Th) | [Zyair Price](https://open.spotify.com/artist/767ee2dusb4P76a8GXPf6t) | [Placid Interval](https://open.spotify.com/album/7d55HIpi8OCtp0LiiU2KQK) | 2:44 | 2026-04-03 |  |
 | [Placid Meadow](https://open.spotify.com/track/1lASWxoxCu2S2HC7IsKgxJ) | [Zephyrical](https://open.spotify.com/artist/35kdbaWQLDJudwBytHuiyW) | [Placid Meadow](https://open.spotify.com/album/2NttgSl71sdervU4tsb5sq) | 2:45 | 2024-08-30 |  |
 | [Pondering](https://open.spotify.com/track/1BhS7zg5Xc8HvCqILpiDgq) | [Aetheria Solara](https://open.spotify.com/artist/53Dh6mRLAQrQVAwNvXiifJ) | [Pondering](https://open.spotify.com/album/7t9gbTOlSMndGUbLJqOYH6) | 2:55 | 2024-01-17 | 2024-10-15 |
 | [Positive Outcome](https://open.spotify.com/track/59HagQwQZ3qOviU1m1gOHx) | [Sonic Waterfall](https://open.spotify.com/artist/3dYazD43M85TR46lQcHzyO) | [Positive Outcome](https://open.spotify.com/album/4p76z1YbqcjFp3vsBaKFn4) | 2:58 | 2025-12-17 |  |
@@ -900,7 +902,7 @@
 | [Suivez\-moi](https://open.spotify.com/track/1iUWhhQqt3vCxrMCZluokP) | [Charmaine D'Avis](https://open.spotify.com/artist/62nJsaKqTjBj5aHPE1RyqZ) | [Suivez\-moi](https://open.spotify.com/album/56Ic0KB997WaLyYWoDRu09) | 3:20 | 2023-03-23 | 2024-02-09 |
 | [Sunborn 396Hz](https://open.spotify.com/track/6jLSvTOdPH592NgIZpFgs7) | [The Relief Experience](https://open.spotify.com/artist/3NY4Ze0E1m0C4LPlYgFZxr) | [Sunborn 396Hz](https://open.spotify.com/album/1zJmBoVNGNeLStD3orOfiE) | 2:46 | 2024-05-04 | 2025-02-05 |
 | [Sunday Morning](https://open.spotify.com/track/44CGw5yimT0uwQnurWo2gz) | [Ella Watson](https://open.spotify.com/artist/6JWxnRLmLn5kIc1IDLMaja) | [Sunday Morning](https://open.spotify.com/album/7xv22kXgcqKHocBfCkaVry) | 2:26 | 2023-03-23 | 2024-02-09 |
-| [Sundial in the Fog](https://open.spotify.com/track/63n4BKVSL1tUR0wT5uVxD9) | [Emberlace](https://open.spotify.com/artist/7a7GAIop7VfMQgWiSphyQC) | [Sundial in the Fog](https://open.spotify.com/album/2QUlbl71LkpvEev7FhoMHv) | 2:58 | 2025-06-17 |  |
+| [Sundial in the Fog](https://open.spotify.com/track/63n4BKVSL1tUR0wT5uVxD9) | [Emberlace](https://open.spotify.com/artist/7a7GAIop7VfMQgWiSphyQC) | [Sundial in the Fog](https://open.spotify.com/album/2QUlbl71LkpvEev7FhoMHv) | 2:58 | 2025-06-17 | 2026-04-12 |
 | [Sunlit Pathway](https://open.spotify.com/track/1LcvWhopXfaoZ7zEyp2tO5) | [Joudinoire](https://open.spotify.com/artist/5mZP1quYaLv8h8ppurtqaX) | [Sunlit Pathway](https://open.spotify.com/album/3wuR2L2DMZnKdT8rgy1LKG) | 2:31 | 2025-02-04 |  |
 | [Sunlit Understory](https://open.spotify.com/track/1jAbNYgBCIDlQlBaOPLVDf) | [Somnia Flow](https://open.spotify.com/artist/5r14VhQ7URvz9IclyYvrZl) | [Sunlit Understory](https://open.spotify.com/album/5HoY4nF6IewhgaNaBAWPXo) | 2:15 | 2026-01-27 |  |
 | [Sunthread](https://open.spotify.com/track/00UONkk82og7iOStsRQtMG) | [Ethereal Nocturne](https://open.spotify.com/artist/25nulPweeZpoA1zyu4wASV) | [Sunthread](https://open.spotify.com/album/3RfL5E3O6eXmGxFFcm7O8f) | 2:12 | 2024-12-12 | 2025-07-29 |

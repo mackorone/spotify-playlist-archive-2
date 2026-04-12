@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: march\-april 2026 \(previous playlists archived on my profile\)
 
-958 songs - 2 day 10 hr 7 min
+960 songs - 2 day 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,6 +288,7 @@
 | [Freak Scene](https://open.spotify.com/track/7FIhuHZUdUxWX2hDMGdIbF) | [Dinosaur Jr.](https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ) | [Bug](https://open.spotify.com/album/217wquCr9YCvsIHEsFkVPs) | 3:36 | 2025-03-01 | 2025-05-09 |
 | [Free Man in Paris](https://open.spotify.com/track/2by5mqpQ1ZP2G5FOIccMnu) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Court and Spark](https://open.spotify.com/album/2akjxkzFolkeV72Yyv5KrM) | 3:03 | 2025-02-21 | 2025-03-02 |
 | [Fullgás](https://open.spotify.com/track/0YoMPuDCAusO2a5eipQsPa) | [Marina Lima](https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol) | [Marina Todas Ao Vivo](https://open.spotify.com/album/3g7J1aC0RKkCYVybsCXYC8) | 3:54 | 2025-12-24 | 2025-12-27 |
+| [Funkier Than a Mosquito's Tweeter](https://open.spotify.com/track/5wBi26umb4oxXLmpJ32BWV) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [It Is Finished \(Expanded Edition\)](https://open.spotify.com/album/5rzptvCrGaKKR0vT49BHYk) | 5:20 | 2026-04-11 |  |
 | [Fussball Politics](https://open.spotify.com/track/0ndmRaklMcl9CVBahHrPHw) | [Cousin](https://open.spotify.com/artist/2E58ObVipz7mTA9iW95VdE) | [Alternate Tunings for Regular People](https://open.spotify.com/album/7tIPyrgJ8OMQBqMmIm0Znf) | 3:33 | 2024-11-25 | 2025-01-12 |
 | [Future Perfect](https://open.spotify.com/track/0RlpgTdnxatoTRBvG34zaB) | [The Durutti Column](https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe) | [Fidelity](https://open.spotify.com/album/05V4gFM4ZIkotmDJxAGLl9) | 5:15 | 2025-01-11 | 2025-03-02 |
 | [Game Over](https://open.spotify.com/track/36U34yPBv5hSEjjAZJd3Uk) | [Antelope](https://open.spotify.com/artist/4lSlPRplvabiorNKIn3NNR) | [Antelope](https://open.spotify.com/album/76dEh2y2iJlA7rrXR1bdzm) | 2:47 | 2024-07-12 | 2024-09-08 |
@@ -470,6 +471,7 @@
 | [Lay Buy](https://open.spotify.com/track/0m0OryF8oGVav8tMo5rN5I) | [Anelog](https://open.spotify.com/artist/46vb4j5NxwsYVqSeEks52I) | [Lay Buy](https://open.spotify.com/album/1aieWujDlrLsSMKT4qiVsb) | 3:11 | 2025-07-09 | 2025-09-11 |
 | [Le jardin](https://open.spotify.com/track/5kaqycPUjIi1PdZWlhfWsD) | [Roedelius](https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc) | [Jardin au fou](https://open.spotify.com/album/7eQ5WjiXia8SrVxyeBLUVV) | 4:28 | 2024-12-12 | 2025-01-12 |
 | [Le Rêve De CJ](https://open.spotify.com/track/3zZTkc18kbBW8hthawXrl5) | [Absent Music](https://open.spotify.com/artist/5g4vYpxRlQ0PAglBI3XW12) | [Lost And Latest](https://open.spotify.com/album/1YTMrikZDprUv2cjFlIoOh) | 2:31 | 2024-04-01 | 2024-05-16 |
+| [Leaving Home](https://open.spotify.com/track/0YjQxuht2CPatgu8xlUWwA) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [Old Joy](https://open.spotify.com/album/2CAW8tKG9OAJVqr0Ol48F1) | 5:32 | 2026-04-11 |  |
 | [Lecture 25](https://open.spotify.com/track/5NKOEid35mXxvcPbV11pLb) | [My New Band Believe](https://open.spotify.com/artist/5bPSCPf8wOY03ENKd6Aw9O) | [Lecture 25](https://open.spotify.com/album/1t0OR1fkgxJon5CAosQWMl) | 3:06 | 2025-03-01 | 2025-05-09 |
 | [Left Alone](https://open.spotify.com/track/18U67rsYOw5X0rY7LJzZQD) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [The Idler Wheel Is Wiser Than the Driver of the Screw and Whipping Cords Will Serve You More Than Ropes Will Ever Do \(Expanded Edition\)](https://open.spotify.com/album/6B5favhKTShFTjRLsKIUfa) | 4:50 | 2026-02-02 | 2026-03-13 |
 | [Left Handed \- Maxi Version](https://open.spotify.com/track/2VpFGTK1Z7UBhq1NMNuCpn) | [Lali Puna](https://open.spotify.com/artist/2GkJdEJneopHc10XQV76rN) | [Left Handed](https://open.spotify.com/album/5Qs51CPwMKeOB7rdC7OBpn) | 3:43 | 2024-11-25 | 2024-12-04 |

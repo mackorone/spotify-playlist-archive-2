@@ -4,7 +4,7 @@
 
 > The home for heavy music\. Cover: Drug Church
 
-724 songs - 1 day 19 hr 33 min
+725 songs - 1 day 19 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,7 @@
 | [Do It So Good](https://open.spotify.com/track/7AdLQWyE8e2AKUBooSGCBt) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Do It So Good](https://open.spotify.com/album/7s7bmCIHQjNtt83diSRZjm) | 3:22 | 2023-07-25 | 2023-08-25 |
 | [Do One](https://open.spotify.com/track/0m8IKzcaOnjMIDMgFzmkFE) | [PLAIINS](https://open.spotify.com/artist/3gUHDc3I3G1bFRElrj90fR) | [Do One](https://open.spotify.com/album/2ENUR4w5JHhovY6tKRX7DS) | 2:38 | 2025-08-11 | 2025-09-12 |
 | [Do Or Die](https://open.spotify.com/track/49iTK9So8pHaCmVT9Pf1Q3) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [Ethan Ross](https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN) | [Do Or Die](https://open.spotify.com/album/4IDkIjuZLrkW8XFrcjQmw9) | 2:50 | 2023-02-10 | 2024-05-24 |
-| [Dominate](https://open.spotify.com/track/5R0uszDwzrAEtxMgTwoIbt) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Dominate](https://open.spotify.com/album/17qRjBxoYcA3joNL4d6EzZ) | 3:14 | 2025-08-11 |  |
+| [Dominate](https://open.spotify.com/track/5R0uszDwzrAEtxMgTwoIbt) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Dominate](https://open.spotify.com/album/17qRjBxoYcA3joNL4d6EzZ) | 3:14 | 2025-08-11 | 2026-04-12 |
 | [DON'T HOLD ME DOWN](https://open.spotify.com/track/2NvjbR2qhfILBblL36Fchm) | [Florence Black](https://open.spotify.com/artist/7ubhUvkY7FB68rfzz7DmW4) | [DON'T HOLD ME DOWN](https://open.spotify.com/album/4TYkhMh8yHxNxCOK3j68z8) | 3:14 | 2023-09-07 | 2025-09-12 |
 | [Don't Tell Me \(feat\. Ann Wilson\)](https://open.spotify.com/track/47RXxwVW825H8bMiBw4Ve5) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa), [Ann Wilson](https://open.spotify.com/artist/4lPDIYPFDs5gpcToUczJDs) | [Don't Tell Me \(feat\. Ann Wilson\) \[PLZ Tethered Version\]](https://open.spotify.com/album/5txXtUvhYlx6l7kgJsZeoU) | 4:31 | 2024-03-08 | 2025-09-12 |
 | [Dope](https://open.spotify.com/track/6hpnjVqEa7LSyG5cJOuqc4) | [Profiler](https://open.spotify.com/artist/3rIfGORYIxh2aBVnThX8Lo) | [Dope](https://open.spotify.com/album/4uxYRLI4sPIx1tsHEl13WV) | 2:17 | 2025-08-11 | 2025-09-12 |
@@ -718,6 +718,7 @@
 | [White Hellebore](https://open.spotify.com/track/22gOVSEhSn2xraSnUX326C) | [Cradle Of Filth](https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd) | [White Hellebore](https://open.spotify.com/album/6zwmaRb3D1BjS1nCmBjcT9) | 5:04 | 2025-03-26 | 2025-09-12 |
 | [Who Am I](https://open.spotify.com/track/2gDzbtMofzJlmaN5oGjI7x) | [Grandmas House](https://open.spotify.com/artist/6BFppN7DZ1DR7zFyNTj7Nv) | [Who Am I](https://open.spotify.com/album/112fCF19lmyd56p14czHBO) | 1:46 | 2023-07-25 | 2024-01-12 |
 | [who am i?](https://open.spotify.com/track/0pfFn3KYKI6mc6fd4blgxA) | [Split Chain](https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar) | [who am i?](https://open.spotify.com/album/0nPc7GBdemUzf6YsHc3YpS) | 2:49 | 2025-06-06 | 2025-09-12 |
+| [Who You Are](https://open.spotify.com/track/0j9t178RM9qytMVpOFbIqO) | [KIDPUNK](https://open.spotify.com/artist/6QUkxY9FkBh9XF4qCbaABt) | [Who You Are](https://open.spotify.com/album/1mNzsgisaSwRHy5gwrVCNJ) | 2:36 | 2026-03-13 |  |
 | [Wicked Ways](https://open.spotify.com/track/7dIObUjmQfXbs56UsaBIHT) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Back From the Dead](https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu) | 3:26 | 2022-11-10 | 2023-02-03 |
 | [Winona](https://open.spotify.com/track/24RP8LdRXT4Om2NxZ0R7OS) | [Deafheaven](https://open.spotify.com/artist/4XpPveeg7RuYS3CgLo75t9) | [Lonely People With Power](https://open.spotify.com/album/5Eh3xMVdGFAUiYwuoPOzXc) | 7:28 | 2025-04-04 | 2026-02-01 |
 | [Wireless](https://open.spotify.com/track/671W1lZGS9LcyzkMCRK3ve) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Wireless](https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB) | 4:41 | 2023-05-19 | 2024-02-17 |

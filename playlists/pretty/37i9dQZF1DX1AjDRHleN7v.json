@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 419323,
+  "num_followers": 419395,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,6 @@
     {
       "added_at": "2026-03-27 15:41:14",
       "album": {
-        "name": "15 Anos (Ao vivo)",
-        "url": "https://open.spotify.com/album/1XRXhmwnkbjh8voQ5rIn0L"
-      },
-      "artists": [
-        {
-          "name": "Tribo De Jah",
-          "url": "https://open.spotify.com/artist/6oAqyhJILwJf9S3Of2zTuv"
-        }
-      ],
-      "duration_ms": 209226,
-      "name": "Uma onda que passou (E eu n\u00e3o dropei) - Ao vivo",
-      "url": "https://open.spotify.com/track/5hmTjMenODKpZuE5c4XzCy"
-    },
-    {
-      "added_at": "2026-03-27 15:41:14",
-      "album": {
         "name": "OCANV (Cap. I)",
         "url": "https://open.spotify.com/album/1HsTv5Cy3zBYcmHlh72LIQ"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 216774,
       "name": "Onde Existe Amor",
       "url": "https://open.spotify.com/track/6b6YVmtwd65R1HizYKKm1l"
+    },
+    {
+      "added_at": "2026-03-27 15:41:14",
+      "album": {
+        "name": "15 Anos (Ao vivo)",
+        "url": "https://open.spotify.com/album/1XRXhmwnkbjh8voQ5rIn0L"
+      },
+      "artists": [
+        {
+          "name": "Tribo De Jah",
+          "url": "https://open.spotify.com/artist/6oAqyhJILwJf9S3Of2zTuv"
+        }
+      ],
+      "duration_ms": 209226,
+      "name": "Uma onda que passou (E eu n\u00e3o dropei) - Ao vivo",
+      "url": "https://open.spotify.com/track/5hmTjMenODKpZuE5c4XzCy"
     },
     {
       "added_at": "2026-03-27 15:41:14",
@@ -771,22 +771,6 @@
     {
       "added_at": "2026-03-27 15:41:14",
       "album": {
-        "name": "Saquarema (Remix)",
-        "url": "https://open.spotify.com/album/7sWij8NaethU2vuouVcjgr"
-      },
-      "artists": [
-        {
-          "name": "Blitz",
-          "url": "https://open.spotify.com/artist/1POsQml4E21Ku75BirHFMQ"
-        }
-      ],
-      "duration_ms": 232353,
-      "name": "Saquarema - Remix",
-      "url": "https://open.spotify.com/track/3UroqLcI69FDBw4l41iVGO"
-    },
-    {
-      "added_at": "2026-03-27 15:41:14",
-      "album": {
         "name": "Agarradinho - Spotify Singles",
         "url": "https://open.spotify.com/album/6ldTBilOX402xGqAcFeFWi"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 164494,
       "name": "Agarradinho - Spotify Singles",
       "url": "https://open.spotify.com/track/6j9YiLIN5TqwUuBwoyglMW"
+    },
+    {
+      "added_at": "2026-03-27 15:41:14",
+      "album": {
+        "name": "Saquarema (Remix)",
+        "url": "https://open.spotify.com/album/7sWij8NaethU2vuouVcjgr"
+      },
+      "artists": [
+        {
+          "name": "Blitz",
+          "url": "https://open.spotify.com/artist/1POsQml4E21Ku75BirHFMQ"
+        }
+      ],
+      "duration_ms": 232353,
+      "name": "Saquarema - Remix",
+      "url": "https://open.spotify.com/track/3UroqLcI69FDBw4l41iVGO"
     },
     {
       "added_at": "2026-03-27 15:41:14",
@@ -867,22 +867,6 @@
     {
       "added_at": "2026-03-27 15:41:14",
       "album": {
-        "name": "Uma Noite E 1/2",
-        "url": "https://open.spotify.com/album/3CJRazEYFedeCnvMtHvtua"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Costa",
-          "url": "https://open.spotify.com/artist/2HKe0e9UKKX1aBRvY0nmL7"
-        }
-      ],
-      "duration_ms": 170608,
-      "name": "Uma Noite E 1/2",
-      "url": "https://open.spotify.com/track/5GlfIGn9OlBlo9YVMENbzS"
-    },
-    {
-      "added_at": "2026-03-27 15:41:14",
-      "album": {
         "name": "Deusa Do Amor (Reggae Version)",
         "url": "https://open.spotify.com/album/1oxZt4tOzbHFerdyA7LNBY"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 312490,
       "name": "Deusa Do Amor - Reggae Version",
       "url": "https://open.spotify.com/track/0ZxYosj0mowV4YcZlwhhia"
+    },
+    {
+      "added_at": "2026-03-27 15:41:14",
+      "album": {
+        "name": "Uma Noite E 1/2",
+        "url": "https://open.spotify.com/album/3CJRazEYFedeCnvMtHvtua"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Costa",
+          "url": "https://open.spotify.com/artist/2HKe0e9UKKX1aBRvY0nmL7"
+        }
+      ],
+      "duration_ms": 170608,
+      "name": "Uma Noite E 1/2",
+      "url": "https://open.spotify.com/track/5GlfIGn9OlBlo9YVMENbzS"
     },
     {
       "added_at": "2026-03-27 15:41:14",

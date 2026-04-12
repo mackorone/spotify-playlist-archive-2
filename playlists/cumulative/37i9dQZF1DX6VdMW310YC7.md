@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,882 songs - 5 day 7 hr 50 min
+1,883 songs - 5 day 7 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1078,7 +1078,7 @@
 | [Miles to Go \- Radio Edit](https://open.spotify.com/track/163yEINE12989qKfcFjTTF) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP), [Högni](https://open.spotify.com/artist/3HAGb8WLuYRre506Dr8oJm) | [Stay Close to Me](https://open.spotify.com/album/13x4ZWzeyLcuXEWXrPfN8L) | 3:37 | 2020-05-18 | 2021-12-21 |
 | [Mind \(feat\. Kai\) \- Ekali & Gravez Remix](https://open.spotify.com/track/6Becybd5TsDaxOiP9YzGf9) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Jack Ü](https://open.spotify.com/artist/1HxJeLhIuegM3KgvPn8sTa), [kai](https://open.spotify.com/artist/6xHUXzrfhFgnIv86EBR3Ml), [Ekali](https://open.spotify.com/artist/0Y0QSi6lz1bPik5Ffjr8sd), [Gravez](https://open.spotify.com/artist/2vit5LtsHrU9420Cw4V1jn) | [Mind \(feat\. Kai\) \[Remixes\]](https://open.spotify.com/album/4OWIDGjTkXMKEaEGJrbQqa) | 4:15 | 2020-05-22 | 2020-07-03 |
 | [MINDGAMES \- \(JYRYMY REMIX\)](https://open.spotify.com/track/0ycteGsaJrAlhOh1hEBH5X) | [Paulina](https://open.spotify.com/artist/4za5fbTdW3zQbV0pQ1ZMhI), [JYRYMY](https://open.spotify.com/artist/4rAYqc4yDNxG7fn8nkNFYe) | [MINDGAMES \(JYRYMY REMIX\)](https://open.spotify.com/album/2pHBRCMbLEQYQsa0XQ6nQ6) | 3:55 | 2021-01-16 | 2022-12-29 |
-| [Mine](https://open.spotify.com/track/0s9vuU1DPc3Us9TboMMeK8) | [narou](https://open.spotify.com/artist/4WZfEIgHLAMmAxATgVjspH) | [Mine](https://open.spotify.com/album/1VrpTWfDRK2pdzgGSoyDty) | 3:52 | 2025-12-19 |  |
+| [Mine](https://open.spotify.com/track/0s9vuU1DPc3Us9TboMMeK8) | [narou](https://open.spotify.com/artist/4WZfEIgHLAMmAxATgVjspH) | [Mine](https://open.spotify.com/album/1VrpTWfDRK2pdzgGSoyDty) | 3:52 | 2025-12-19 | 2026-04-12 |
 | [Mine To Love](https://open.spotify.com/track/0T9qmOvid82TeLi4ZyyA9D) | [Ross Quinn](https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr) | [Azure EP](https://open.spotify.com/album/5M4iiiphjdlqSq9Yutm6QU) | 3:42 | 2023-03-03 | 2024-04-06 |
 | [Miracle](https://open.spotify.com/track/7JSS036IjVSwD64TAr6n32) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc) | [Good Faith](https://open.spotify.com/album/6Lq1lrCfkpxKa4jCo5gKWr) | 4:10 | 2020-03-16 | 2020-06-12 |
 | [Mirror](https://open.spotify.com/track/3puQ8QUzvzBfFnlIOSYaK4) | [Deltium](https://open.spotify.com/artist/0QroI8p7Rd0bK54HCFtelN) | [Mirror](https://open.spotify.com/album/6DpmqFLINjAajemiJPpMGw) | 3:12 | 2022-12-28 | 2023-01-06 |
@@ -1418,6 +1418,7 @@
 | [Seamount](https://open.spotify.com/track/0zCp6ijK245KSVf4YO28K2) | [Klur](https://open.spotify.com/artist/5Y1YwWzFX7BIxBbdAOXOEJ) | [After The Rain](https://open.spotify.com/album/6CLXlv3FVca6uNMKmpTOHo) | 3:55 | 2025-10-17 | 2025-10-24 |
 | [Seasons](https://open.spotify.com/track/7IQgAVMaCu0ImfMnKV7Xik) | [Arinity](https://open.spotify.com/artist/6CS3Y9pOBxpjxb1jAC8fhy) | [Seasons](https://open.spotify.com/album/5hH8hyj1Jrhi2dYwv9nhDO) | 2:33 | 2023-02-24 | 2024-03-02 |
 | [See Me](https://open.spotify.com/track/00Aadz2JtbpEilrOUWsrVt) | [Keanler](https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK), [Jyll](https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe) | [See Me](https://open.spotify.com/album/6lxCZOVCs1PPvXcEmp9Wed) | 3:40 | 2024-05-31 | 2024-07-13 |
+| [See My Soul](https://open.spotify.com/track/5IDYlNp75toRLVVdaZL8W6) | [Lynnic](https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT), [ItsArius](https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27), [Courtney Storm](https://open.spotify.com/artist/6zd0ClAbzCmZ9qReLzekUV) | [See My Soul](https://open.spotify.com/album/6pCdAFYi2NujUtttD0fPQJ) | 3:41 | 2026-04-09 |  |
 | [See You](https://open.spotify.com/track/5xHFQvcmStd8e53BgXChlD) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [See You / Feel So Lonely](https://open.spotify.com/album/2zovU4jSBL8HL0SM0SnF5q) | 4:43 | 2023-02-17 | 2024-03-23 |
 | [See You In Dreams](https://open.spotify.com/track/3Qpu1wWIAot60NJc2gbUUW) | [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs), [Be No Rain](https://open.spotify.com/artist/0ToTNYPspLv4FWbcpXgOUt) | [See You In Dreams](https://open.spotify.com/album/3C3KUYrEI6XYlwf0n4h2Wz) | 4:31 | 2024-06-21 | 2025-06-20 |
 | [Seeker](https://open.spotify.com/track/6weYVdQPXtbS7CjdCdBgZs) | [Dual Manner](https://open.spotify.com/artist/5PwyPUA68oTVythcReHzXy) | [Seeker](https://open.spotify.com/album/4keAjNKZJURwQIgMIkzthP) | 4:57 | 2020-07-18 | 2020-10-09 |

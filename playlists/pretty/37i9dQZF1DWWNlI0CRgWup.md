@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 
 > Découvrez les nouveautés des artistes RADAR France\. Photo : Oria
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,867 likes - 71 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,882 likes - 71 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 | 14 | [NEMO](https://open.spotify.com/track/4u9DA8mEKzSsgj5T6nxmA5) | [Sherifflazone](https://open.spotify.com/artist/3LkkxNCsK47Af8vXoIVG0L) | [DMVP EXTEND](https://open.spotify.com/album/6tTgq7ROrGdRaHNorjnDfP) | 2:30 |
 | 15 | [problème problème](https://open.spotify.com/track/06GlYvE9CUWUV83OUrDBUI) | [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [problème problème](https://open.spotify.com/album/3dqSveAkJ0DezC4IkzS3qE) | 2:38 |
 | 16 | [Nuits bleues](https://open.spotify.com/track/6uESzOXtKjkcFrrV9eZ4V3) | [Andéol](https://open.spotify.com/artist/3lWweK5IAJrNMXazhS5oV3), [Kyana](https://open.spotify.com/artist/1xOGqfYHZ2N0C06PzHE1dx) | [Caillou](https://open.spotify.com/album/7GglAkJ939IR3AykckYEgX) | 2:42 |
-| 17 | [L'idée de toi](https://open.spotify.com/track/6RfkKFLWWTKslcXvnOm4T9) | [Satine](https://open.spotify.com/artist/7Abx1tdwQoBDWr1nD1o62B) | [L'idée de toi](https://open.spotify.com/album/55r8lz3hQkCVjOUd2u30Yf) | 2:02 |
+| 17 | [L'idée de toi](https://open.spotify.com/track/6RfkKFLWWTKslcXvnOm4T9) | [satine](https://open.spotify.com/artist/7Abx1tdwQoBDWr1nD1o62B) | [L'idée de toi](https://open.spotify.com/album/55r8lz3hQkCVjOUd2u30Yf) | 2:02 |
 | 18 | [NY1504](https://open.spotify.com/track/1ZQ4VjqMG7v24ynzQoA6Fc) | [Folie's](https://open.spotify.com/artist/0pyhWJCYRgIoXusQQuMO4c) | [NY1504](https://open.spotify.com/album/3NigFUiM9FTxwVdbdY7rIl) | 2:29 |
 | 19 | [Thelma et Louise](https://open.spotify.com/track/4WabBsw8o8lgMmJeSNirUz) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv), [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [Thelma et Louise](https://open.spotify.com/album/6ob1nfJYrRIGZbTD9hJ5ZJ) | 2:40 |
 | 20 | [Rare](https://open.spotify.com/track/5A0vRRLkGSBrpLRlbWRGDY) | [VEN1](https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL) | [Rare](https://open.spotify.com/album/5z9ftSP43qrCBjPgQ8tQAd) | 3:08 |

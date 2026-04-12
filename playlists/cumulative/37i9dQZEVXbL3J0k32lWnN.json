@@ -703,6 +703,24 @@
     },
     {
       "album": {
+        "name": "26",
+        "url": "https://open.spotify.com/album/5RTwUXP4jGsHyEbbjmgGhF"
+      },
+      "artists": [
+        {
+          "name": "Cizzo",
+          "url": "https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP"
+        }
+      ],
+      "date_added": "2026-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109306,
+      "name": "26",
+      "url": "https://open.spotify.com/track/5jT5wsWSCmQUYuqvrU879E"
+    },
+    {
+      "album": {
         "name": "SkyLL",
         "url": "https://open.spotify.com/album/71TLoF8RqN7XCrHQbsLj6x"
       },
@@ -1924,7 +1942,7 @@
       ],
       "date_added": "2026-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 229152,
       "name": "ALL THE LOVE (feat. Andre Troutman)",
       "url": "https://open.spotify.com/track/2SjnvpedDUU0Ga69bxnoCa"
@@ -4887,6 +4905,24 @@
     },
     {
       "album": {
+        "name": "blessed",
+        "url": "https://open.spotify.com/album/2SGhFr27vLpx0QCG4MU6Ic"
+      },
+      "artists": [
+        {
+          "name": "D1MA",
+          "url": "https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut"
+        }
+      ],
+      "date_added": "2026-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "blessed",
+      "url": "https://open.spotify.com/track/15cjK5y0kli27DFjxZUCt7"
+    },
+    {
+      "album": {
         "name": "After Hours",
         "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
       },
@@ -7526,7 +7562,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 135000,
       "name": "CLEOPATRA",
       "url": "https://open.spotify.com/track/65C4AmFA6oyMJ2lwLNPiIB"
@@ -9158,6 +9194,28 @@
       "duration_ms": 212411,
       "name": "Den (u)officielle VM-sang",
       "url": "https://open.spotify.com/track/7rr0ERtwcVJIllxqqTN03s"
+    },
+    {
+      "album": {
+        "name": "Den Danske Sommer (feat. Birthe Kj\u00e6r)",
+        "url": "https://open.spotify.com/album/58BARLI2OONpcVlJnuKXmw"
+      },
+      "artists": [
+        {
+          "name": "Tobias Rahim",
+          "url": "https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB"
+        },
+        {
+          "name": "Birthe Kj\u00e6r",
+          "url": "https://open.spotify.com/artist/0IfpyCP48pZ9kkFVSeHbC5"
+        }
+      ],
+      "date_added": "2026-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145620,
+      "name": "Den Danske Sommer (feat. Birthe Kj\u00e6r)",
+      "url": "https://open.spotify.com/track/3oRnLpv1REaIDhxIR8F0zw"
     },
     {
       "album": {
@@ -12752,7 +12810,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 207639,
       "name": "Et sted hvor vi de f\u00f8rste",
       "url": "https://open.spotify.com/track/2saoOMgzvDizi7CE8qxvyB"
@@ -24616,10 +24674,28 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 156086,
       "name": "Kogeplade",
       "url": "https://open.spotify.com/track/3CSmqvgWBYmGUnGqLeXYLC"
+    },
+    {
+      "album": {
+        "name": "Ved du jeg en snerle",
+        "url": "https://open.spotify.com/album/2UNqajAq02YTybhMvumgQm"
+      },
+      "artists": [
+        {
+          "name": "Katinka",
+          "url": "https://open.spotify.com/artist/05tsGKo76eTXi0yrK4e4rZ"
+        }
+      ],
+      "date_added": "2026-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157097,
+      "name": "Kogeplade",
+      "url": "https://open.spotify.com/track/4Uh2jneAmvQUNCChZw1DcF"
     },
     {
       "album": {
@@ -29772,6 +29848,24 @@
       "duration_ms": 105691,
       "name": "Mr Romeo",
       "url": "https://open.spotify.com/track/5674aTBHCadkrKz1E9t1zh"
+    },
+    {
+      "album": {
+        "name": "Mr. Know It All",
+        "url": "https://open.spotify.com/album/6pSMDQxVmzO16b4feWczz1"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "date_added": "2026-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198425,
+      "name": "Mr. Know It All",
+      "url": "https://open.spotify.com/track/2g5kPQh1EexoG8kGZH2nOZ"
     },
     {
       "album": {
@@ -38047,6 +38141,46 @@
     },
     {
       "album": {
+        "name": "Ved du jeg en snerle",
+        "url": "https://open.spotify.com/album/2UNqajAq02YTybhMvumgQm"
+      },
+      "artists": [
+        {
+          "name": "Katinka",
+          "url": "https://open.spotify.com/artist/05tsGKo76eTXi0yrK4e4rZ"
+        }
+      ],
+      "date_added": "2026-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150070,
+      "name": "Snerle",
+      "url": "https://open.spotify.com/track/5zzjqcGj2Q1LTBJVmjtbd5"
+    },
+    {
+      "album": {
+        "name": "Anderledes Aura",
+        "url": "https://open.spotify.com/album/68TaBEOIlGQjolKMIDThPa"
+      },
+      "artists": [
+        {
+          "name": "Carmon",
+          "url": "https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv"
+        },
+        {
+          "name": "Noah Carter",
+          "url": "https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp"
+        }
+      ],
+      "date_added": "2026-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Snik Snak (feat. Noah Carter)",
+      "url": "https://open.spotify.com/track/0Y3i5QMg6gkiNNXQl2fBAM"
+    },
+    {
+      "album": {
         "name": "Midnights",
         "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
       },
@@ -40118,7 +40252,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 185355,
       "name": "Superlim",
       "url": "https://open.spotify.com/track/4BwPT0pILUhY4wUdv0NLLT"
@@ -40766,7 +40900,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 195172,
       "name": "Tag Mig Som Jeg Er",
       "url": "https://open.spotify.com/track/3ng6kO3MEzOMBUDyWJxTHM"
@@ -41676,7 +41810,7 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 226073,
       "name": "The Fate of Ophelia",
       "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
@@ -44858,7 +44992,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 305979,
       "name": "Vi pumper hjertet op",
       "url": "https://open.spotify.com/track/1cfMhTjfBjnnTkbs2chWzD"
@@ -45196,6 +45330,24 @@
       "duration_ms": 166275,
       "name": "Vilde Ingen Hvile",
       "url": "https://open.spotify.com/track/5hSsSeLlibK1UjnBEYaGmJ"
+    },
+    {
+      "album": {
+        "name": "Vind & Vejr",
+        "url": "https://open.spotify.com/album/45VZXwNOuioG2Qjba4iAeH"
+      },
+      "artists": [
+        {
+          "name": "Thor Farlov",
+          "url": "https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X"
+        }
+      ],
+      "date_added": "2026-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158500,
+      "name": "Vind & Vejr",
+      "url": "https://open.spotify.com/track/7qIQL8M3VhfRAKDD49GERE"
     },
     {
       "album": {

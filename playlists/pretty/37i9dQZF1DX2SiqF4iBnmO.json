@@ -1,6 +1,6 @@
 {
   "description": "Only music produced on a TR-808 drum machine. Cover: Egyptian Lover",
-  "num_followers": 163744,
+  "num_followers": 163829,
   "original_name": "808 Classics",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,22 @@
   },
   "snapshot_id": "AAAAAH7aUVCsJLn9nrVAkmtL+q+saJgl",
   "tracks": [
+    {
+      "added_at": "2024-07-10 08:31:19",
+      "album": {
+        "name": "808s & Heartbreak",
+        "url": "https://open.spotify.com/album/3WFTGIO6E3Xh4paEOBY9OU"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Heartless",
+      "url": "https://open.spotify.com/track/4EWCNWgDS8707fNSZ1oaA5"
+    },
     {
       "added_at": "2024-07-10 08:31:19",
       "album": {
@@ -31,22 +47,6 @@
       "duration_ms": 250373,
       "name": "Yeah! (feat. Lil Jon & Ludacris)",
       "url": "https://open.spotify.com/track/5rb9QrpfcKFHM1EUbSIurX"
-    },
-    {
-      "added_at": "2024-07-10 08:31:19",
-      "album": {
-        "name": "808s & Heartbreak",
-        "url": "https://open.spotify.com/album/3WFTGIO6E3Xh4paEOBY9OU"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Heartless",
-      "url": "https://open.spotify.com/track/4EWCNWgDS8707fNSZ1oaA5"
     },
     {
       "added_at": "2024-07-10 08:31:19",
@@ -787,6 +787,22 @@
     {
       "added_at": "2024-07-10 08:31:19",
       "album": {
+        "name": "How Much Can You Take",
+        "url": "https://open.spotify.com/album/2tcn2YqXFYVMFC1iNwC5Lu"
+      },
+      "artists": [
+        {
+          "name": "M.C. A.D.E.",
+          "url": "https://open.spotify.com/artist/0jveTQoUhhYD72xp3iGoQT"
+        }
+      ],
+      "duration_ms": 202866,
+      "name": "How Much Can You Take?",
+      "url": "https://open.spotify.com/track/52MBGU6vfC5szW3ASgliPT"
+    },
+    {
+      "added_at": "2024-07-10 08:31:19",
+      "album": {
         "name": "Sweet And Short",
         "url": "https://open.spotify.com/album/322JprSjhVbBNbh0M09RIf"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 303440,
       "name": "Remote Control",
       "url": "https://open.spotify.com/track/6IUUtpmkYh34mj8QXj6c6U"
-    },
-    {
-      "added_at": "2024-07-10 08:31:19",
-      "album": {
-        "name": "How Much Can You Take",
-        "url": "https://open.spotify.com/album/2tcn2YqXFYVMFC1iNwC5Lu"
-      },
-      "artists": [
-        {
-          "name": "M.C. A.D.E.",
-          "url": "https://open.spotify.com/artist/0jveTQoUhhYD72xp3iGoQT"
-        }
-      ],
-      "duration_ms": 202866,
-      "name": "How Much Can You Take?",
-      "url": "https://open.spotify.com/track/52MBGU6vfC5szW3ASgliPT"
     },
     {
       "added_at": "2024-07-10 08:31:19",

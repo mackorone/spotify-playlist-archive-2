@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Die Mannequin, blazingfairis, The Soap Girls and more",
+  "description": "With Die Mannequin, blazingfairis, The Donnas and more",
   "name": "Renee Cassar Radio",
   "tracks": [
     {
@@ -506,7 +506,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 153207,
       "name": "Babysitter",
       "url": "https://open.spotify.com/track/4EWLpHXUXmYRV2eQb0e0D2"
@@ -524,7 +524,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 264037,
       "name": "Bad Bitch (Bonus Track)",
       "url": "https://open.spotify.com/track/4pCkOPhDf0jHYpAmSOFYg2"
@@ -542,7 +542,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-18",
+      "date_removed": null,
       "duration_ms": 194500,
       "name": "Bad Fit",
       "url": "https://open.spotify.com/track/4vCgUOSK4Netdnut3HJbWX"
@@ -686,7 +686,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-10",
+      "date_removed": null,
       "duration_ms": 181613,
       "name": "Best Of Me",
       "url": "https://open.spotify.com/track/1JhmW4NdVThYhB6W5Af9OU"
@@ -704,7 +704,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-09",
+      "date_removed": null,
       "duration_ms": 201142,
       "name": "Better Off Dancing",
       "url": "https://open.spotify.com/track/1DpFP5szxmfhKtmmQseenG"
@@ -1262,7 +1262,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 250414,
       "name": "Cliche",
       "url": "https://open.spotify.com/track/5NVeHtdTszfC2Ub69fnQiG"
@@ -1370,7 +1370,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 168813,
       "name": "Crystal Meth",
       "url": "https://open.spotify.com/track/3kwPkNrY8ZBfL1nHysvuXQ"
@@ -1532,7 +1532,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 180653,
       "name": "Dead Inside",
       "url": "https://open.spotify.com/track/1BB5t7kR9RqQ1CY8D1miDt"
@@ -1640,7 +1640,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-09",
+      "date_removed": null,
       "duration_ms": 211533,
       "name": "Don't Break Me Down",
       "url": "https://open.spotify.com/track/7g5tIBg1W2ySyFeds4Iurv"
@@ -1694,7 +1694,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 176229,
       "name": "DON'T TELL BOMBSHELL",
       "url": "https://open.spotify.com/track/758jBrA6BmGdCv0jFlTRZw"
@@ -2072,7 +2072,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 270535,
       "name": "Find what you would die for",
       "url": "https://open.spotify.com/track/6gkbpDvy20VvSSafVCN5Ws"
@@ -2296,7 +2296,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 237080,
       "name": "Freaks Like Us",
       "url": "https://open.spotify.com/track/6FvEXczXsFq0P92Oe3prqs"
@@ -2429,6 +2429,24 @@
     },
     {
       "album": {
+        "name": "Superbeautifulmonster",
+        "url": "https://open.spotify.com/album/7j1wE833kH2Bezi7W7nLyx"
+      },
+      "artists": [
+        {
+          "name": "Bif Naked",
+          "url": "https://open.spotify.com/artist/02odAcSXGSPTSO4P44Ztuw"
+        }
+      ],
+      "date_added": "2026-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156683,
+      "name": "Funeral Of A Good Grrl",
+      "url": "https://open.spotify.com/track/2UOEWzQIGIwxxBdT64ZV8J"
+    },
+    {
+      "album": {
         "name": "From the Grave",
         "url": "https://open.spotify.com/album/5DZwggP6PDtv9VMkAmpAsD"
       },
@@ -2530,7 +2548,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 261981,
       "name": "Glass Eyes Cryin'",
       "url": "https://open.spotify.com/track/1pr01IymP1cUpd4efyrUzs"
@@ -2746,7 +2764,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 244371,
       "name": "Heartbreakin' woman",
       "url": "https://open.spotify.com/track/6z7teyNlfVhzaGwr5zSaHx"
@@ -3878,7 +3896,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-10",
+      "date_removed": null,
       "duration_ms": 164389,
       "name": "Let Down",
       "url": "https://open.spotify.com/track/7ygnnIP16QYsqErfosSruw"
@@ -4177,6 +4195,28 @@
     },
     {
       "album": {
+        "name": "Syd Taylor on Audiotree Live",
+        "url": "https://open.spotify.com/album/2t0ej5uKDB5qPEfreNCTt1"
+      },
+      "artists": [
+        {
+          "name": "Syd Taylor",
+          "url": "https://open.spotify.com/artist/3dZ1fTizrmY5jfkf0jrvav"
+        },
+        {
+          "name": "Audiotree",
+          "url": "https://open.spotify.com/artist/1j8QyWpOJKAe6Iw2KvEg2j"
+        }
+      ],
+      "date_added": "2026-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292972,
+      "name": "Love of Your Life - Audiotree Live Version",
+      "url": "https://open.spotify.com/track/72NyDCWyeTzY1DtU7Rs4bh"
+    },
+    {
+      "album": {
         "name": "Love Shot",
         "url": "https://open.spotify.com/album/02tIYo7EneLIHiRFBWxgUy"
       },
@@ -4354,7 +4394,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-10",
+      "date_removed": null,
       "duration_ms": 222933,
       "name": "messy",
       "url": "https://open.spotify.com/track/3LfW2tSMgOp93RTUlJHuD2"
@@ -5204,7 +5244,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 245296,
       "name": "Party in Hell",
       "url": "https://open.spotify.com/track/4TOVRQJy5GhBpDbXV6BR8t"
@@ -5474,7 +5514,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-11",
+      "date_removed": null,
       "duration_ms": 219080,
       "name": "Queens and Pharaohs",
       "url": "https://open.spotify.com/track/4O9XXHFVDCbIH1hu9d8qWN"
@@ -5600,7 +5640,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 135081,
       "name": "RIDE",
       "url": "https://open.spotify.com/track/7ATjepYoHS5o5Bz7JiAiDm"
@@ -5874,7 +5914,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-10",
+      "date_removed": null,
       "duration_ms": 184848,
       "name": "So Many Bullets",
       "url": "https://open.spotify.com/track/29VkXvAbzDqh345Q447uoZ"
@@ -5892,10 +5932,28 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-15",
+      "date_removed": null,
       "duration_ms": 193899,
       "name": "So What",
       "url": "https://open.spotify.com/track/17mDkw99uAJnjFOXeDuLbE"
+    },
+    {
+      "album": {
+        "name": "When Innocence Plays Tricks",
+        "url": "https://open.spotify.com/album/5ErobCBg0cQnoACVeeQxIk"
+      },
+      "artists": [
+        {
+          "name": "Trinity",
+          "url": "https://open.spotify.com/artist/3GVRuDiz2SuhpZBSz8KTcT"
+        }
+      ],
+      "date_added": "2026-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300000,
+      "name": "Some sin like that",
+      "url": "https://open.spotify.com/track/2ZgKHAKPKbxWmyGxldrBm1"
     },
     {
       "album": {
@@ -5982,7 +6040,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 198778,
       "name": "Step Outside",
       "url": "https://open.spotify.com/track/3EbZm1kpZC2b0mwPMbGWL3"
@@ -6328,7 +6386,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-11",
+      "date_removed": null,
       "duration_ms": 200333,
       "name": "The Other Tiffany",
       "url": "https://open.spotify.com/track/0QNkibueS48C3DR6o9PqOi"
@@ -6346,7 +6404,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-11",
+      "date_removed": null,
       "duration_ms": 266386,
       "name": "The Pretender",
       "url": "https://open.spotify.com/track/5aWZYkmFgLC9XAUNJimLjz"
@@ -6534,6 +6592,28 @@
       "duration_ms": 188969,
       "name": "Time Bomb",
       "url": "https://open.spotify.com/track/53LKe6p4Ozpnex4kFHe0yd"
+    },
+    {
+      "album": {
+        "name": "Syd Taylor on Audiotree Live",
+        "url": "https://open.spotify.com/album/2t0ej5uKDB5qPEfreNCTt1"
+      },
+      "artists": [
+        {
+          "name": "Syd Taylor",
+          "url": "https://open.spotify.com/artist/3dZ1fTizrmY5jfkf0jrvav"
+        },
+        {
+          "name": "Audiotree",
+          "url": "https://open.spotify.com/artist/1j8QyWpOJKAe6Iw2KvEg2j"
+        }
+      ],
+      "date_added": "2026-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163024,
+      "name": "Time to Go! - Audiotree Live Version",
+      "url": "https://open.spotify.com/track/3TGh9oLCFHLd27i5zuggAU"
     },
     {
       "album": {
@@ -6962,7 +7042,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 129660,
       "name": "What You See",
       "url": "https://open.spotify.com/track/5oLra2jYU0gsoo4ZSIFGsE"
@@ -7160,7 +7240,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 223530,
       "name": "You don't answer your phone",
       "url": "https://open.spotify.com/track/5ikq1d9lj9zxxzdYeFhSY9"

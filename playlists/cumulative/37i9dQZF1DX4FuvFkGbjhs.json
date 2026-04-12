@@ -3628,7 +3628,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 107000,
       "name": "Don't Cheese Me Off",
       "url": "https://open.spotify.com/track/27uWMEs9zo3Yc2ZfgNvRKR"
@@ -7422,6 +7422,28 @@
       "duration_ms": 140302,
       "name": "Joker",
       "url": "https://open.spotify.com/track/3HyD8c5C8C7P5TgmNfc8YK"
+    },
+    {
+      "album": {
+        "name": "July",
+        "url": "https://open.spotify.com/album/3sbAIbwlBjdUt1GD1iteHO"
+      },
+      "artists": [
+        {
+          "name": "Wesley Joseph",
+          "url": "https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152493,
+      "name": "July",
+      "url": "https://open.spotify.com/track/6LzxjnLFFlk639Xw43MDB9"
     },
     {
       "album": {
@@ -12641,6 +12663,24 @@
     },
     {
       "album": {
+        "name": "Sick Of Love",
+        "url": "https://open.spotify.com/album/2ETP833yyVmqvtnbnRHtxb"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216933,
+      "name": "Sick Of Love",
+      "url": "https://open.spotify.com/track/6aPG5Atb3L3l8pZYzLrpEi"
+    },
+    {
+      "album": {
         "name": "Signs",
         "url": "https://open.spotify.com/album/3SE1r3rQPdbrqYB3SuWNmq"
       },
@@ -16352,7 +16392,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 221826,
       "name": "You're My",
       "url": "https://open.spotify.com/track/2TeNHfb3Xb8aWWESW1QCkl"

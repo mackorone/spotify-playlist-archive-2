@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6UztFn6QlpVV2mxivfMFol">Hannah Wilson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-190 songs - 10 hr 4 min
+191 songs - 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [Young Forever](https://open.spotify.com/track/2BdmFvrHjvoONEWvVZ4oPU) | [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [Young Forever](https://open.spotify.com/album/2e8oc7P5dTFx30KMvpaYHZ) | 3:38 | 2023-12-13 |  |
 | [Young Forever](https://open.spotify.com/track/2VveodsDiyIi3zcYMDgRx1) | [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [Young Forever](https://open.spotify.com/album/4tUfK3lJ9ss49U0CwuDnDo) | 3:38 | 2022-05-25 | 2023-12-14 |
 | [Young Love](https://open.spotify.com/track/5SD1NZszAZ34u3EF5J9GYC) | [Madyx](https://open.spotify.com/artist/0yMcs3BSd3sReeuzbyZGVK) | [Young Love](https://open.spotify.com/album/6lMKIsFf3fuFrCoEgkjsZk) | 3:08 | 2022-06-15 | 2024-07-27 |
-| [マスター・ピース](https://open.spotify.com/track/179kkA0bqolD4KcrcCRX3I) | [Emi Meyer](https://open.spotify.com/artist/6f4y1h4jbvEDZXMojr4hNn) | [スーツケース・オブ・ストーンズ](https://open.spotify.com/album/6RBEZzB0lJG46LOnwE6TDC) | 4:20 | 2024-08-13 |  |
+| [マスター・ピース](https://open.spotify.com/track/179kkA0bqolD4KcrcCRX3I) | [Emi Meyer](https://open.spotify.com/artist/6f4y1h4jbvEDZXMojr4hNn) | [スーツケース・オブ・ストーンズ](https://open.spotify.com/album/6RBEZzB0lJG46LOnwE6TDC) | 4:20 | 2024-08-13 | 2026-04-12 |
+| [マスター・ピース](https://open.spotify.com/track/0vqEBLf7OfPwJPAhHeuo5R) | [Emi Meyer](https://open.spotify.com/artist/6f4y1h4jbvEDZXMojr4hNn) | [スーツケース・オブ・ストーンズ](https://open.spotify.com/album/0baJWk1RdDFQpZdqrhWkWT) | 4:21 | 2026-04-11 |  |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

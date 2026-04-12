@@ -538,7 +538,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 228866,
       "name": "Ai ga tokenai uchini",
       "url": "https://open.spotify.com/track/0zedFXbBZMdMkYMx5py6Wh"
@@ -6834,6 +6834,24 @@
       "duration_ms": 225474,
       "name": "NAMAE",
       "url": "https://open.spotify.com/track/6Onyn20upVTyo6BVJVQXqX"
+    },
+    {
+      "album": {
+        "name": "Navy",
+        "url": "https://open.spotify.com/album/2Zi7RpcLBSXHqEkjUe2nbN"
+      },
+      "artists": [
+        {
+          "name": "\u6893\u5ddd",
+          "url": "https://open.spotify.com/artist/2iydjGtDnXejF2L1pgsBB8"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177190,
+      "name": "Navy",
+      "url": "https://open.spotify.com/track/6CqlTwtPM4yK2GpdXtEzvB"
     },
     {
       "album": {

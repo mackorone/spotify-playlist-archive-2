@@ -4,7 +4,7 @@
 
 > This is Little Walter\. The essential tracks, all in one playlist.
 
-96 songs - 4 hr 47 min
+97 songs - 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Key To The Highway](https://open.spotify.com/track/4E3Q2DOynwgP3VwBFf59kL) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Hate To See You Go](https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI) | 2:43 | 2022-08-05 |  |
 | [Last Boogie](https://open.spotify.com/track/3MkzZ99BQH5a7HwzbsgBpP) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Complete Chess Masters \(1950 \- 1967\)](https://open.spotify.com/album/3xRh7E2R2WdxFYeQFakVbr) | 2:30 | 2022-08-05 | 2024-11-20 |
 | [Last Night](https://open.spotify.com/track/1eVYc7k0T5QmllPqfUwYHR) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 2:54 | 2022-08-05 |  |
+| [Left Me with a Broken Heart \- Remastered](https://open.spotify.com/track/31ni5tgexPPHyNKrmTY9U8) | [Jimmy Rogers](https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0), [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Anthology: His Early Years \(Remastered\)](https://open.spotify.com/album/77Zjw39g47Y37bPn3gOVgR) | 2:54 | 2026-04-12 |  |
 | [Long Distance Call](https://open.spotify.com/track/0HrQoyIK6ia0XjZviwW0Fv) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Super Blues](https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s) | 5:07 | 2022-08-07 | 2022-10-08 |
 | [Make It Alright](https://open.spotify.com/track/1nnMGDzwGPIGMGZ3xWo9w2) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Complete Chess Masters \(1950 \- 1967\)](https://open.spotify.com/album/3xRh7E2R2WdxFYeQFakVbr) | 3:21 | 2022-08-05 | 2025-05-23 |
 | [Me and My Chauffeur](https://open.spotify.com/track/1REOluXV2Mz0dIPm2LhYw9) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Little Walter](https://open.spotify.com/album/4A3npjd6hsbOuRZPgO6oKp) | 2:54 | 2022-08-08 | 2024-02-18 |

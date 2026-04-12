@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT3BBqsirp2.md) - [plain]
 | 55 | [Stranger](https://open.spotify.com/track/5cPJGZ6Xi1UutxSHgFx7LK) | [Iiris](https://open.spotify.com/artist/3Y10Y3MuSy0W1ACvSQwTJv) | [Stranger](https://open.spotify.com/album/3monx2C6vmKX8nro8c7NIS) | 4:22 |
 | 56 | [Sentence](https://open.spotify.com/track/4tGtEGg2A20DKXGMZFpf0F) | [Thy Slaughter](https://open.spotify.com/artist/4tXmMY3u0qbzec7aocHPPt), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [Soft Rock](https://open.spotify.com/album/5lgqJ8vLfDGbL1AFHgj2o1) | 2:23 |
 | 57 | [Apps](https://open.spotify.com/track/2wnP0qlqM3apllw9hfAuQt) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu), [Robokid](https://open.spotify.com/artist/3n7KOlGKfaR8KKKSkC4tA3) | [Apps](https://open.spotify.com/album/5F8Ym9NVDD6XcTquQIYa6O) | 2:42 |
-| 58 | [Audio](https://open.spotify.com/track/2C4kl8zvhUwmdlofcRcbH3) | [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [Audio](https://open.spotify.com/album/1MpGcRFAoTJi1e5fCEBoAd) | 3:31 |
-| 59 | [Precious](https://open.spotify.com/track/4PpurS5c7TgFOSAbw0Z6X2) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [TOTAL SELLOUT](https://open.spotify.com/album/1b4DpY9UqW2Sau2q0YH9pl) | 3:20 |
+| 58 | [Precious](https://open.spotify.com/track/4PpurS5c7TgFOSAbw0Z6X2) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [TOTAL SELLOUT](https://open.spotify.com/album/1b4DpY9UqW2Sau2q0YH9pl) | 3:20 |
+| 59 | [Audio](https://open.spotify.com/track/2C4kl8zvhUwmdlofcRcbH3) | [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [Audio](https://open.spotify.com/album/1MpGcRFAoTJi1e5fCEBoAd) | 3:31 |
 | 60 | [Better Than Yesterday](https://open.spotify.com/track/2TBg5af1f7U0XIaNfGJOq4) | [Alfie Jukes](https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9) | [Little Omens EP](https://open.spotify.com/album/3EeJLfBgbl3xIOVVR5voFV) | 2:41 |
 | 61 | [If I Knew](https://open.spotify.com/track/5BZahKYBRrikRlqmIfdIon) | [Thy Slaughter](https://open.spotify.com/artist/4tXmMY3u0qbzec7aocHPPt), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [Soft Rock](https://open.spotify.com/album/5lgqJ8vLfDGbL1AFHgj2o1) | 2:35 |
 | 62 | [ARCHIVE MAMI](https://open.spotify.com/track/6SAN0s0zXbjy35HHZnhXlm) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [WOAH, WHAT A BLUR!](https://open.spotify.com/album/4Bu8CaTOWByWSfmhQ4Rmzy) | 0:43 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT3BBqsirp2.md) - [plain]
 | 81 | [They’re So Smart](https://open.spotify.com/track/5fZJZbIM6GWLmPZG2EcXxs) | [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [ACOUSTIC](https://open.spotify.com/album/6GaiPPXFiQrZ6mXs6BLGl5) | 2:29 |
 | 82 | [Damaged III](https://open.spotify.com/track/5pJEHO4Yi6IZyIqNF003Ui) | [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [ACOUSTIC](https://open.spotify.com/album/6GaiPPXFiQrZ6mXs6BLGl5) | 1:36 |
 
-Snapshot ID: `AcOg4AAAAAD/x5LvPVxnjGcZ1LvIfjuL`
+Snapshot ID: `AcOmqAAAAAC/ObUQWQcPgXXpN72BGPJf`

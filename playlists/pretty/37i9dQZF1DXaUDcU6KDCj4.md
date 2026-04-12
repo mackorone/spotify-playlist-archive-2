@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Josiah and the Bonnevilles
 
-[Spotify](https://open.spotify.com/user/spotify) - 872,623 likes - 172 songs - 10 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 872,646 likes - 172 songs - 10 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

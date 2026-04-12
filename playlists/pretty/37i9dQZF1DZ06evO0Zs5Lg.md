@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Zs5Lg.md) - [plain]
 
 > This is Prof\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,709 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,801 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Jewelry Duty \(with T\-Pain\)](https://open.spotify.com/track/7DSqGWatwo13yjAIgKx8g8) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Jewelry Duty \(with T\-Pain\)](https://open.spotify.com/album/2fBT3VgUrM7S3HVfZiqjbJ) | 3:07 |
-| 2 | [Squad Goals](https://open.spotify.com/track/5KnRZlqdf0xcUkZ2g2kKl6) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Powderhorn Suites](https://open.spotify.com/album/6tXIQnsK1yWm4Y1NQv9vWC) | 3:20 |
+| 2 | [Fire Lessons](https://open.spotify.com/track/3FLMN8fVYCVu0UgVpifSWa) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Powderhorn Suites](https://open.spotify.com/album/6tXIQnsK1yWm4Y1NQv9vWC) | 3:18 |
 | 3 | [High Priced Shoes](https://open.spotify.com/track/4HZAmZEps1rnI8u3PgPLhT) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Horse](https://open.spotify.com/album/5S5Yc3c77mjVpb87Ko8PAm) | 3:41 |
 | 4 | [Big Dog \(with That Mexican OT & 2 Chainz\)](https://open.spotify.com/track/7BO9V2NxeJRvrWS65BCvkB) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Big Dog \(with That Mexican OT & 2 Chainz\)](https://open.spotify.com/album/1zS7KTyodkgZ4pMo1okKgE) | 3:00 |
 | 5 | [Bar Breaker](https://open.spotify.com/track/4pynucrEEPPD3ZRQtnvjSz) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Liability](https://open.spotify.com/album/5s5svsB4vo4STUkneqJGlr) | 2:44 |
-| 6 | [Fire Lessons](https://open.spotify.com/track/3FLMN8fVYCVu0UgVpifSWa) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Powderhorn Suites](https://open.spotify.com/album/6tXIQnsK1yWm4Y1NQv9vWC) | 3:18 |
+| 6 | [Squad Goals](https://open.spotify.com/track/5KnRZlqdf0xcUkZ2g2kKl6) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Powderhorn Suites](https://open.spotify.com/album/6tXIQnsK1yWm4Y1NQv9vWC) | 3:20 |
 | 7 | [Judy](https://open.spotify.com/track/0KijC5ByPD43qXLkxEmf7o) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Horse](https://open.spotify.com/album/5S5Yc3c77mjVpb87Ko8PAm) | 2:56 |
 | 8 | [Dynamite](https://open.spotify.com/track/76N39WgN4xENapS5tnw7Of) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Ghosttown](https://open.spotify.com/artist/0N0vqeNgObPiqIVeNZYHKf) | [Dynamite](https://open.spotify.com/album/7BYzMlE0anzovqdMe5bNSJ) | 2:40 |
 | 9 | [Cutthroat](https://open.spotify.com/track/6jWg9ZeIlDOuwr62vpKfut) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Cutthroat](https://open.spotify.com/album/3RswC4TBK1oa5mEh9nHtKS) | 3:07 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Zs5Lg.md) - [plain]
 | 43 | [Whiskey](https://open.spotify.com/track/2P4otq5puB0C9ZqDJVveQt) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [King Gampo](https://open.spotify.com/album/2JQWfvAfH1f5ypTohkGfT2) | 2:55 |
 | 44 | [Pookie Baby](https://open.spotify.com/track/1GLZpvlLj1nMrn2Ld2ehhK) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Pookie Baby](https://open.spotify.com/album/4PsACI8jpFTGFgpbTUat5A) | 3:31 |
 | 45 | [Super Scary Monsters \(feat\. Prof\)](https://open.spotify.com/track/1IbqDQZm5jTt7wE6VcoPKC) | [Grieves](https://open.spotify.com/artist/2ActkR0xU2ZiDhWYhijydE), [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Super Scary Monsters \(feat\. Prof\)](https://open.spotify.com/album/6bpPZjVaWmmodTGbu9adra) | 2:28 |
-| 46 | [Permission](https://open.spotify.com/track/2KZ0GMuXz3EOOSzi0XIAk4) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Liability](https://open.spotify.com/album/5s5svsB4vo4STUkneqJGlr) | 2:57 |
-| 47 | [Dodo Birds](https://open.spotify.com/track/4ZitKfCGxhOcqrfQU6STgq) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Dodo Birds](https://open.spotify.com/album/6nM5ZjZp85PxVjbyszoOft) | 2:13 |
+| 46 | [Dodo Birds](https://open.spotify.com/track/4ZitKfCGxhOcqrfQU6STgq) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Dodo Birds](https://open.spotify.com/album/6nM5ZjZp85PxVjbyszoOft) | 2:13 |
+| 47 | [Permission](https://open.spotify.com/track/2KZ0GMuXz3EOOSzi0XIAk4) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Liability](https://open.spotify.com/album/5s5svsB4vo4STUkneqJGlr) | 2:57 |
 | 48 | [Butter \(with Baby Tate\)](https://open.spotify.com/track/7s8nNvuxQyAobdOcaJNJVv) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Ghosttown](https://open.spotify.com/artist/0N0vqeNgObPiqIVeNZYHKf) | [Butter \(with Baby Tate\)](https://open.spotify.com/album/1AcQ5sph3JVQ9lPMwDaHax) | 3:47 |
 | 49 | [Chitty Bang](https://open.spotify.com/track/14EUifm44d6gODebTIEDSn) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Devin The Dude](https://open.spotify.com/artist/0OMJR0LjjKv21qNvICTgbi), [Jarren Benton](https://open.spotify.com/artist/5YI7PJwny5JsO7djczHwhP) | [Chitty Bang](https://open.spotify.com/album/6bTXdnnsOOgsWdxxNGnwPA) | 3:28 |
 | 50 | [Penny Nickel Dime](https://open.spotify.com/track/30rmz7OJYaDnYrgxkzpsS1) | [Amp Live](https://open.spotify.com/artist/4WoeMzXhDQyoFCKdji4FlL), [Anya](https://open.spotify.com/artist/1Y2BbSdBwvfln12Otq7XTk), [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Headphone Concerto](https://open.spotify.com/album/5UbbNvHn4onGGOmD4rpkMT) | 3:52 |
 
-Snapshot ID: `adbsAAAAAABD23zWhsY6PeOTM2+mpg7e`
+Snapshot ID: `adg9gAAAAACSvRljVXumnlEpeU68lzwj`

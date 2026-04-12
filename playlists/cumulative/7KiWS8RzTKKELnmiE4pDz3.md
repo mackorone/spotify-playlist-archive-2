@@ -4,7 +4,7 @@
 
 > 
 
-1,423 songs - 3 day 3 hr 30 min
+1,424 songs - 3 day 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -466,6 +466,7 @@
 | [Get Hi](https://open.spotify.com/track/7kKEXvq4NQ9OatQs906MGV) | [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU), [B\-Real](https://open.spotify.com/artist/2LiWxiQzuD9nmWQ6NCA8Gd) | [Atrocity Exhibition](https://open.spotify.com/album/3e7vtKJ3m1zVh38VGq2g3H) | 3:33 | 2026-02-27 |  |
 | [Get Right](https://open.spotify.com/track/1reODpPaa9HlnYn8ysiPH9) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Master the Day of Judgement](https://open.spotify.com/album/3rNf2SErEqCBoyHVYEDNU9) | 2:08 | 2022-06-10 | 2023-05-09 |
 | [Get Ta Steppin'](https://open.spotify.com/track/4zOPcDeRdPTwjkMN4YZYBO) | [Hi\-Tek](https://open.spotify.com/artist/2S3kEShbYaNGvSyJdd7sJg) | [Hi\-Teknology](https://open.spotify.com/album/1QWTtdbC4PJpN48Ey9o99c) | 4:37 | 2026-01-13 |  |
+| [Get Ya Mind Right](https://open.spotify.com/track/3QHdKXnXbI7Moz2lhVK0bq) | [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [Let’s Get It: Thug Motivation 101 \(Deluxe Edition\)](https://open.spotify.com/album/7z6s0Wd7MWCJYLYyMOfRJl) | 3:41 | 2026-04-11 |  |
 | [Get Your Mind Right](https://open.spotify.com/track/12Thqf0zERYjFHNlWbb6rc) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Finally Rollin 2 \(Deluxe Edition\)](https://open.spotify.com/album/0BaBF43wCi33REVTeSiTlN) | 3:31 | 2025-04-16 | 2026-02-08 |
 | [Getting Out The Game](https://open.spotify.com/track/6cft8Dv0XXzwYrX0PXlUQ1) | [Consequence](https://open.spotify.com/artist/5KkgZ31b9eDwkvo9oMIrSm), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Take'Em To The Cleaners](https://open.spotify.com/album/3ML87nypNxX5ueuol1OMF0) | 3:10 | 2026-02-10 |  |
 | [Ginseng](https://open.spotify.com/track/0SIBZ4mKy6LTeyKEwsedN1) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [Ginseng](https://open.spotify.com/album/1STfJ3C23c0QivER7mI9KL) | 2:44 | 2022-11-16 | 2023-04-12 |

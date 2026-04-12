@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 618 likes - 93 songs - 5 hr 25 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 619 likes - 96 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,5 +101,8 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 91 | [Of a Beautiful Dream](https://open.spotify.com/track/48T7NGSrmgHx40d3H3Iwl6) | [Static Switch](https://open.spotify.com/artist/6X1nrWVRY4Lz46bdn1h00M) | [Of a Beautiful Dream](https://open.spotify.com/album/7q1s3GZxJQ6CMES2udqaue) | 2:52 |
 | 92 | [Uncrumpled](https://open.spotify.com/track/5Pv86y8cdyKj1VbKVrrJK9) | [Skyway](https://open.spotify.com/artist/7Gls7YN8kthen9FXXWIM3R) | [Time To Be Alive](https://open.spotify.com/album/6QRatbdQi9sUQfP7o5sN82) | 2:24 |
 | 93 | [Broken \(Goodbye\)](https://open.spotify.com/track/22r1gUmB2NNu88vNv1Cqc0) | [Ten Eighty Trees](https://open.spotify.com/artist/0ej6zez5h9tG4QiqvOj9ZD) | [Broken \(Goodbye\)](https://open.spotify.com/album/724YnXwsn0WHxmRZjia31B) | 3:45 |
+| 94 | [Похуй](https://open.spotify.com/track/2dSR6mFSl5JtKsWkh3e6pO) | [LU DI](https://open.spotify.com/artist/5RRBvAv0PQ9trVMrH8X6ZA) | [Похуй](https://open.spotify.com/album/6HAK3Nt64YIMqkyh9ZLvqK) | 3:23 |
+| 95 | [Down and Out](https://open.spotify.com/track/4FijKBMTSLv63uXNh3qM1e) | [White Star Line](https://open.spotify.com/artist/3qDMmbHoQIpMvNuOzyazsh) | [Down and Out](https://open.spotify.com/album/6Hg0NRmmjjjjaBKYqG3nGh) | 3:42 |
+| 96 | [Fetishize Me](https://open.spotify.com/track/7LyMFbtf8aiUgUtZYoXgXb) | [Sarah Hedger](https://open.spotify.com/artist/2CQDj93K4SEEYoQf96TjIy) | [Fetishize Me](https://open.spotify.com/album/79kv9dZL1zwHvcebBXMTnw) | 2:33 |
 
-Snapshot ID: `AAADO7FtaBwV3xWyCnSih8YWf+PywnMd`
+Snapshot ID: `AAADPiQMWdjR0+z7Ap1Uim3J1cb2RC5t`

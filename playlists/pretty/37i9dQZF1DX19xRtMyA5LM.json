@@ -1,12 +1,12 @@
 {
   "description": "De beste tracks in WS\u2757\ufe0fCover: Lusho",
-  "num_followers": 708024,
+  "num_followers": 708006,
   "original_name": "Woordenschat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKQ9fiszEc3u8ntAPZcS1BR2RrEU",
+  "snapshot_id": "AAAAAIRXUuQX00W4JqwF52tLtot8E7yQ",
   "tracks": [
     {
       "added_at": "2026-04-10 06:23:32",
@@ -59,6 +59,22 @@
     {
       "added_at": "2026-04-10 06:23:32",
       "album": {
+        "name": "Street therapy",
+        "url": "https://open.spotify.com/album/2fkYO5Bf9EcLzQ0ZVuRMQ3"
+      },
+      "artists": [
+        {
+          "name": "Henkie T",
+          "url": "https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El"
+        }
+      ],
+      "duration_ms": 143004,
+      "name": "Street therapy",
+      "url": "https://open.spotify.com/track/1WVNpw65SACTQtcvf5xY5z"
+    },
+    {
+      "added_at": "2026-04-10 06:23:32",
+      "album": {
         "name": "Sensa",
         "url": "https://open.spotify.com/album/04aZ9bzLSxCBwKBmo7UXwW"
       },
@@ -79,22 +95,6 @@
       "duration_ms": 122818,
       "name": "Sensa",
       "url": "https://open.spotify.com/track/4OByoXgJXbXD4KXtHeA4Xi"
-    },
-    {
-      "added_at": "2026-04-10 06:23:32",
-      "album": {
-        "name": "Street therapy",
-        "url": "https://open.spotify.com/album/2fkYO5Bf9EcLzQ0ZVuRMQ3"
-      },
-      "artists": [
-        {
-          "name": "Henkie T",
-          "url": "https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El"
-        }
-      ],
-      "duration_ms": 143004,
-      "name": "Street therapy",
-      "url": "https://open.spotify.com/track/1WVNpw65SACTQtcvf5xY5z"
     },
     {
       "added_at": "2026-04-10 06:23:32",
@@ -371,6 +371,30 @@
     {
       "added_at": "2026-04-10 06:23:32",
       "album": {
+        "name": "WINDOW SHOPPER",
+        "url": "https://open.spotify.com/album/2RElHRNyUG34d1YxrYLwsv"
+      },
+      "artists": [
+        {
+          "name": "Boufi",
+          "url": "https://open.spotify.com/artist/2MdgZ3w54OVxWs8C0wdBFK"
+        },
+        {
+          "name": "vendro",
+          "url": "https://open.spotify.com/artist/7udaepa4ooqit76XwlGe4F"
+        },
+        {
+          "name": "Curved",
+          "url": "https://open.spotify.com/artist/3VYrPMiZNKklGWvhpcyojr"
+        }
+      ],
+      "duration_ms": 149387,
+      "name": "WINDOW SHOPPER",
+      "url": "https://open.spotify.com/track/3k2U3fnFhRXqVgJqFd4T9n"
+    },
+    {
+      "added_at": "2026-04-10 06:23:32",
+      "album": {
         "name": "SU EFFECT",
         "url": "https://open.spotify.com/album/7p4slYCD1i2UkEJcCi5b8C"
       },
@@ -475,30 +499,6 @@
       "duration_ms": 160000,
       "name": "Hans Kazan",
       "url": "https://open.spotify.com/track/51lD3R9Ze3iDWCVTwa6yun"
-    },
-    {
-      "added_at": "2026-04-10 06:23:32",
-      "album": {
-        "name": "WINDOW SHOPPER",
-        "url": "https://open.spotify.com/album/2RElHRNyUG34d1YxrYLwsv"
-      },
-      "artists": [
-        {
-          "name": "Boufi",
-          "url": "https://open.spotify.com/artist/2MdgZ3w54OVxWs8C0wdBFK"
-        },
-        {
-          "name": "vendro",
-          "url": "https://open.spotify.com/artist/7udaepa4ooqit76XwlGe4F"
-        },
-        {
-          "name": "Curved",
-          "url": "https://open.spotify.com/artist/3VYrPMiZNKklGWvhpcyojr"
-        }
-      ],
-      "duration_ms": 149387,
-      "name": "WINDOW SHOPPER",
-      "url": "https://open.spotify.com/track/3k2U3fnFhRXqVgJqFd4T9n"
     },
     {
       "added_at": "2026-04-10 06:23:32",

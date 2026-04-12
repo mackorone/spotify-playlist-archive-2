@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musaa tarjoilevat Jenni Vartiainen, Turisti, Teddy Swims, Karim B..\. ja moni muu  🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,306 likes - 99 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,305 likes - 99 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 88 | [Chance to Bleed](https://open.spotify.com/track/6jGus0lgXFwZGQ9aNAhOFw) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Chance to Bleed](https://open.spotify.com/album/6YaH4jJhfaOlc5XyLqFBrx) | 4:56 |
 | 89 | [Oh, Ana](https://open.spotify.com/track/46G3dLvPYBjRB5WzyvWr32) | [Dominique Way](https://open.spotify.com/artist/5kROZ1F7ExRZyFnHvKdlJ7) | [Oh, Ana](https://open.spotify.com/album/7h9mJCFBWhaRdWHm28xIME) | 3:12 |
 | 90 | [Put That Banger On Next](https://open.spotify.com/track/3Telt6qNs0A3XaUTfG3p1e) | [Ahadadream](https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW), [Capo Lee](https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh) | [Put That Banger On Next](https://open.spotify.com/album/1MNMB9fCDWKHW5bA4iSgCy) | 3:19 |
-| 91 | [Love Hate](https://open.spotify.com/track/1ysnEi1bFBkn0aCQFPh8gY) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9), [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Love Hate](https://open.spotify.com/album/0tLM5uck8tjqqvgagX4I1p) | 3:12 |
+| 91 | [Love Hate \(feat\. Thomas Day\)](https://open.spotify.com/track/1ysnEi1bFBkn0aCQFPh8gY) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9), [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Love Hate \(feat\. Thomas Day\)](https://open.spotify.com/album/0tLM5uck8tjqqvgagX4I1p) | 3:12 |
 | 92 | [dog](https://open.spotify.com/track/2xGnKBIR2u2Xrc9YvJvQk5) | [boerd](https://open.spotify.com/artist/5E5cEevLYdQHU04gIkA3ff), [ABY iO](https://open.spotify.com/artist/5iqh7Mzaz75Gw2BqOYCYkP) | [dog](https://open.spotify.com/album/7n2xXglaILASnBypurS5wc) | 3:11 |
 | 93 | [Cross My Heart](https://open.spotify.com/track/2uEWM5lSQsl0ubzbxFd6U7) | [Lime Garden](https://open.spotify.com/artist/5GA6j57yIPCBrWk1lTvF9o) | [Maybe Not Tonight](https://open.spotify.com/album/7EO4tVModdOi5Xh3m7uEzC) | 2:40 |
 | 94 | [Patchwork](https://open.spotify.com/track/3BxWLwl3xcFAN0Hk5X13JD) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Paige Cavell](https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24) | [Patchwork](https://open.spotify.com/album/1jdPpk0cKJ4iQvsZfEXstU) | 3:07 |

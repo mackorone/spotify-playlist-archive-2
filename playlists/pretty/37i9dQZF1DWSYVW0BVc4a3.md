@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 
 > All energy\. Cover: Olof Dreijer
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,289 likes - 171 songs - 11 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,312 likes - 171 songs - 11 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 | 6 | [Ricota](https://open.spotify.com/track/4uZh7m5a3DFqI1WCUniio6) | [ZULAN](https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF), [Debians](https://open.spotify.com/artist/09qVSIokv31IKHQGv7PkNd) | [Ricota](https://open.spotify.com/album/0IBSOQFCbrtAMcfjygozLN) | 2:25 |
 | 7 | [Warawara](https://open.spotify.com/track/6iICsz7vM9BkAPGw0Axsyq) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [Asulin](https://open.spotify.com/artist/76O0DRobXGao078KT0xci8) | [Warawara](https://open.spotify.com/album/4dPznvhGo9Yd7vEwGGPjUK) | 3:39 |
 | 8 | [Shinjuku](https://open.spotify.com/track/0niU8VMrQzSNhrmsiLlmeS) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Shinjuku](https://open.spotify.com/album/5HiGwQ6NJl5XuXD2ugSFMz) | 2:47 |
-| 9 | [Summer Card](https://open.spotify.com/track/3Q0LhQkqusn71J7kkxcIZS) | [SDK](https://open.spotify.com/artist/6hQpZrmcUI9Yb9PITngE67), [Simone De Kunovich](https://open.spotify.com/artist/6qEYuBlZWeehY6RxWCpA0r) | [Summer Card](https://open.spotify.com/album/3od5UAhncfYXEiHwkYqk0K) | 6:06 |
+| 9 | [Summer Card](https://open.spotify.com/track/3Q0LhQkqusn71J7kkxcIZS) | [SDK](https://open.spotify.com/artist/7hN6wFQYdWHD7KnfV0CVnA), [Simone De Kunovich](https://open.spotify.com/artist/6qEYuBlZWeehY6RxWCpA0r) | [Summer Card](https://open.spotify.com/album/3od5UAhncfYXEiHwkYqk0K) | 6:06 |
 | 10 | [Bis Co](https://open.spotify.com/track/31CX1ac8qC6Odzr9qlbWP2) | [Markus Homm](https://open.spotify.com/artist/6lU2Le0VfhyLnb8x0bOqil), [Mihai Popoviciu](https://open.spotify.com/artist/0NkrYKqkzWI0pilb6ko9uM), [Jay Bliss](https://open.spotify.com/artist/71Osp1yJ0Xi7LH3czMOh7I) | [Bis Co EP](https://open.spotify.com/album/7ADCMw5H3pFkkVX3R0Oybw) | 7:03 |
 | 11 | [Imagination](https://open.spotify.com/track/43FVchS087rIcfmnrOkNsC) | [Hunter/Game](https://open.spotify.com/artist/2EpNqFMVXOEGaliyKnZzDt), [Aries](https://open.spotify.com/artist/5i3GGVDRXf0fPJsmzA6uuC) | [Imagination](https://open.spotify.com/album/7IcoBgb1jeBfEDDQ9R0lg0) | 2:46 |
 | 12 | [Turn It Around](https://open.spotify.com/track/7c2GfylG2F77Ujwtt8hj4c) | [Joshua Idehen](https://open.spotify.com/artist/3PubLnxnO5N2Avr3UvG1Vc) | [Turn It Around](https://open.spotify.com/album/01SHVwmFX05g57hArB14RW) | 3:25 |

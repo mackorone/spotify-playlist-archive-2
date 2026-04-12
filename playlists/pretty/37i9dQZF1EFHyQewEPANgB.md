@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHyQewEPANgB.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1t4poam1A1i9RT8MUOhfh2">Earlly Mac</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175 likes - 89 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 176 likes - 89 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHyQewEPANgB.md) - [plain]
 | 22 | [Into It](https://open.spotify.com/track/5MkzBXz8mYUOlUrChqkElo) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [What You Expect](https://open.spotify.com/album/6aLBUWVN4WcBAJeJ7nI6j1) | 3:10 |
 | 23 | [Woke Up \(feat\. Sayitainttone, Early Mac, Mike Posner\)](https://open.spotify.com/track/521RyvUnbvmrNz896aacPa) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa), [Sayit Aint Tone](https://open.spotify.com/artist/5LNiimWud6WxXYplBbgSSc), [Early Mac](https://open.spotify.com/artist/3sS2J23rrtQJUonOvvbxW6) | [Good Music Chicago](https://open.spotify.com/album/4TQQatT1Z2q4iIPcja4zGB) | 4:44 |
 | 24 | [Back Outside](https://open.spotify.com/track/01oDECPfif2UO4snu3GPk7) | [Tyla Yaweh](https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr) | [Back Outside](https://open.spotify.com/album/54uOIknCmWnu9SQXf0BunM) | 2:44 |
-| 25 | [Light It Up](https://open.spotify.com/track/6T2JUqCZBxvSZERKCJluEy) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Kevin Hart: What Now? \(The Mixtape Presents Chocolate Droppa\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/3eZNjH1rXVW1cq777iyYTy) | 2:48 |
-| 26 | [Turned Off \(feat\. Sage the Gemini\)](https://open.spotify.com/track/1LDGCDdUN4IUzmdHe9C0wj) | [Marteen](https://open.spotify.com/artist/6kEshovvQbjyh6RlJxxMQV), [Sage The Gemini](https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z) | [8](https://open.spotify.com/album/2oVjEoTZfqYkHaV1FWDIwO) | 2:59 |
+| 25 | [Turned Off \(feat\. Sage the Gemini\)](https://open.spotify.com/track/1LDGCDdUN4IUzmdHe9C0wj) | [Marteen](https://open.spotify.com/artist/6kEshovvQbjyh6RlJxxMQV), [Sage The Gemini](https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z) | [8](https://open.spotify.com/album/2oVjEoTZfqYkHaV1FWDIwO) | 2:59 |
+| 26 | [Light It Up](https://open.spotify.com/track/6T2JUqCZBxvSZERKCJluEy) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Kevin Hart: What Now? \(The Mixtape Presents Chocolate Droppa\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/3eZNjH1rXVW1cq777iyYTy) | 2:48 |
 | 27 | [It Is What It Is](https://open.spotify.com/track/4Has2YUvHrF9Fw5mLPNj7k) | [Diggy](https://open.spotify.com/artist/2LuUALONla8DJRSCiGONBp) | [Lighten Up](https://open.spotify.com/album/2cOUZ5AnAz7dCO2sdIg3Ic) | 3:25 |
 | 28 | [NOTHANKYOU.](https://open.spotify.com/track/6YqOMpVHSFUb6q79KU0Udo) | [Marteen](https://open.spotify.com/artist/6kEshovvQbjyh6RlJxxMQV) | [NOTHANKYOU.](https://open.spotify.com/album/51lEd4Hi53W1ks52ICPCcn) | 3:09 |
 | 29 | [Do It Again](https://open.spotify.com/track/4aX3k2ormxmarZLATLElSu) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Do It Again \(feat\. Big Sean\) \- Single](https://open.spotify.com/album/4RIOoYFmPAQcH2udvXQjFk) | 4:31 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHyQewEPANgB.md) - [plain]
 | 88 | [W.H.E.W\. \(Fat Al & The Silk Drawers\)](https://open.spotify.com/track/5ZxIVf6rWtKuBnYMe6smcH) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [W.H.E.W.](https://open.spotify.com/album/5HOZdRUmU9xas3SRjQx5wE) | 1:21 |
 | 89 | [W.H.E.W\. \(SouthWest Kesha Mission\)](https://open.spotify.com/track/2nXQCxv2VSlHZ1ELHpOnLo) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [W.H.E.W.](https://open.spotify.com/album/5HOZdRUmU9xas3SRjQx5wE) | 1:27 |
 
-Snapshot ID: `AcOg1gAAAAAwg5Sv8mHVciVKtTAkpCS9`
+Snapshot ID: `AcOmqAAAAADt/s2bWTrEhwabC/jQcZ3B`

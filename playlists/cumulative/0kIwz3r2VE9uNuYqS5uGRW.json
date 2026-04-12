@@ -1783,6 +1783,24 @@
     },
     {
       "album": {
+        "name": "KILLER",
+        "url": "https://open.spotify.com/album/7zN3fyHeb5UujbCsNSJWM2"
+      },
+      "artists": [
+        {
+          "name": "MEanIngfUl",
+          "url": "https://open.spotify.com/artist/5j62YtmsqrRgu7v49wDtrA"
+        }
+      ],
+      "date_added": "2026-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169157,
+      "name": "KILLER",
+      "url": "https://open.spotify.com/track/4EzcHscbLds0XLxTxlzdYG"
+    },
+    {
+      "album": {
         "name": "La Corista",
         "url": "https://open.spotify.com/album/3CCtu0y4QxmoTFvP4RjgGa"
       },

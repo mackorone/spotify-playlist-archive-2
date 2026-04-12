@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的華台語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,826 likes - 116 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,824 likes - 116 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,7 +120,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 110 | [阿茲海默症](https://open.spotify.com/track/6jOrxJKCSKEzRBXHH9AdsS) | [陳星甫](https://open.spotify.com/artist/3GAyU6U4EG5mc5YR76hG1c) | [阿茲海默症](https://open.spotify.com/album/6yXtfZX54tS8UkYSuGlp9n) | 3:58 |
 | 111 | [第七根菸](https://open.spotify.com/track/0WIWIplgpguNe0uZdjqjuf) | [李佳歡](https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH), [曾柏鈞](https://open.spotify.com/artist/1A6qrb6qglTwq3rtzQ3L7L) | [第七根菸](https://open.spotify.com/album/4NjYnOHVPgUjqGnLKAKRdT) | 2:54 |
 | 112 | [東京巴黎](https://open.spotify.com/track/1n8C9qdwrWP3EthY4cNHsC) | [HowZ](https://open.spotify.com/artist/348ClvzEm6fr680BJOeYcE) | [東京巴黎](https://open.spotify.com/album/1cI1ZvOAWixA1wGtltyXL4) | 3:27 |
-| 113 | [慢慢遊](https://open.spotify.com/track/0Hz9xXxvoVQccx8JqaIuEP) | [布鲁昔](https://open.spotify.com/artist/07RSJfIHVWCe4SnFciwbmv), [喬西](https://open.spotify.com/artist/6NjOFVAPrdudtsGlyukAAv) | [慢慢遊](https://open.spotify.com/album/6u3Hvsb3ISv4q5YpoL2Ybt) | 3:46 |
+| 113 | [慢慢遊](https://open.spotify.com/track/0Hz9xXxvoVQccx8JqaIuEP) | [白浩贤BlueC](https://open.spotify.com/artist/07RSJfIHVWCe4SnFciwbmv), [喬西](https://open.spotify.com/artist/6NjOFVAPrdudtsGlyukAAv) | [慢慢遊](https://open.spotify.com/album/6u3Hvsb3ISv4q5YpoL2Ybt) | 3:46 |
 | 114 | [你要幸福啊 \(《风过留痕》影视剧插曲\)](https://open.spotify.com/track/1mamLpkge19ydKzytZF8dj) | [Jess Lee](https://open.spotify.com/artist/02Cz717BTulFiQXUuIXH6n) | [你要幸福啊 \(《风过留痕》影视剧插曲\)](https://open.spotify.com/album/7fzdWNyTmUaI1ltWll5Bjc) | 5:10 |
 | 115 | [想要保護的 \- 電影《功夫》主題曲](https://open.spotify.com/track/3j0l0O8haMn4QsktFn9MMx) | [Bii](https://open.spotify.com/artist/1AIrEsIWKWiJJ6lfkLmtWK), [徐暐翔](https://open.spotify.com/artist/2xZkWvVTxC65o3dqETdfPm) | [想要保護的 \(電影《功夫》主題曲\)](https://open.spotify.com/album/6ji6MIrhkYlM2MfoBepuUM) | 4:15 |
 | 116 | [曾經如今](https://open.spotify.com/track/2JJt6Htt2idNEPrypw46MZ) | [Della](https://open.spotify.com/artist/1EUq1MC4vfYYxcVK9aJnXf) | [《愛了100萬次的我》新歌經典自選輯](https://open.spotify.com/album/2wylLEXuNZqCmhleC9UoUa) | 4:05 |

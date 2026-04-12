@@ -6,28 +6,8 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adbsAAAAAABQCx8wGmnjgQ788fN06y2R",
+  "snapshot_id": "adg9gAAAAADzNJr0Hr4i2VV6/kl/XlV9",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eat It Uh",
-        "url": "https://open.spotify.com/album/4uTwrDdiUyyYR8fNtp3jnr"
-      },
-      "artists": [
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        },
-        {
-          "name": "Zukenee",
-          "url": "https://open.spotify.com/artist/3FFfAZsrsx8ot1m6H5vzQc"
-        }
-      ],
-      "duration_ms": 99428,
-      "name": "Eat It Uh",
-      "url": "https://open.spotify.com/track/61lsu3ZWd1JIoE4vUmusLa"
-    },
     {
       "added_at": null,
       "album": {
@@ -391,6 +371,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eat It Uh",
+        "url": "https://open.spotify.com/album/4uTwrDdiUyyYR8fNtp3jnr"
+      },
+      "artists": [
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        },
+        {
+          "name": "Zukenee",
+          "url": "https://open.spotify.com/artist/3FFfAZsrsx8ot1m6H5vzQc"
+        }
+      ],
+      "duration_ms": 99428,
+      "name": "Eat It Uh",
+      "url": "https://open.spotify.com/track/61lsu3ZWd1JIoE4vUmusLa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wake Em Up",
         "url": "https://open.spotify.com/album/0PdmRhlaO6JuOcsWLVjPaK"
       },
@@ -431,6 +431,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Memory Lane 2",
+        "url": "https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd"
+      },
+      "artists": [
+        {
+          "name": "Shordie Shordie",
+          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "duration_ms": 156819,
+      "name": "Don't Forget Me",
+      "url": "https://open.spotify.com/track/54VfgEoBYuplzLH4gS7y7u"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "GRoCERIES",
         "url": "https://open.spotify.com/album/4ukKkRaCiWcgJ3YZ3jmUfu"
       },
@@ -451,26 +471,6 @@
       "duration_ms": 226845,
       "name": "GRoCERIES",
       "url": "https://open.spotify.com/track/2ZueZJriwJi7vFXD1UVEVj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Memory Lane 2",
-        "url": "https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd"
-      },
-      "artists": [
-        {
-          "name": "Shordie Shordie",
-          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 156819,
-      "name": "Don't Forget Me",
-      "url": "https://open.spotify.com/track/54VfgEoBYuplzLH4gS7y7u"
     },
     {
       "added_at": null,
@@ -623,26 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Memory Lane 2",
-        "url": "https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd"
-      },
-      "artists": [
-        {
-          "name": "Shordie Shordie",
-          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 148464,
-      "name": "Me Too",
-      "url": "https://open.spotify.com/track/7sqrit5R5kBEQ7yZENxvZB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "420 in London",
         "url": "https://open.spotify.com/album/1BMfByaGjaWoSraUSfCQQh"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 219088,
       "name": "420 in London",
       "url": "https://open.spotify.com/track/1zDwQIp3BgbH9dSmYtPBDH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Memory Lane 2",
+        "url": "https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd"
+      },
+      "artists": [
+        {
+          "name": "Shordie Shordie",
+          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "duration_ms": 148464,
+      "name": "Me Too",
+      "url": "https://open.spotify.com/track/7sqrit5R5kBEQ7yZENxvZB"
     },
     {
       "added_at": null,

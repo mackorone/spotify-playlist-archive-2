@@ -2567,6 +2567,28 @@
     },
     {
       "album": {
+        "name": "Bother Me (feat. Victony)",
+        "url": "https://open.spotify.com/album/7svkXljH25hpPavMawyyb2"
+      },
+      "artists": [
+        {
+          "name": "Os\u00e9",
+          "url": "https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180959,
+      "name": "Bother Me (feat. Victony)",
+      "url": "https://open.spotify.com/track/2JpcOAR1EGQSxFOVnYCMl0"
+    },
+    {
+      "album": {
         "name": "Bounce",
         "url": "https://open.spotify.com/album/0WMD6V0S9gLpqZIutA8hL1"
       },
@@ -3203,7 +3225,7 @@
         },
         {
           "name": "Alpha P",
-          "url": "https://open.spotify.com/artist/5Q64QD30Oty9M2veg8l3un"
+          "url": "https://open.spotify.com/artist/3dUPwMGYAsymFv80wkqEKl"
         }
       ],
       "date_added": "2026-04-10",
@@ -3628,6 +3650,32 @@
       "duration_ms": 193586,
       "name": "Cold War (with FAVE)",
       "url": "https://open.spotify.com/track/3wZx58DkyBoPIQ8UaAdt3g"
+    },
+    {
+      "album": {
+        "name": "Colorado",
+        "url": "https://open.spotify.com/album/1P8BZuY2ZRlCPzXhSly5eZ"
+      },
+      "artists": [
+        {
+          "name": "Johnny Drille",
+          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224684,
+      "name": "Colorado",
+      "url": "https://open.spotify.com/track/7C2IUngL0Xp8MsD575v2cJ"
     },
     {
       "album": {
@@ -9822,7 +9870,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 173666,
       "name": "Letter to My Ex",
       "url": "https://open.spotify.com/track/2YFtJo8IvnSGyIv17PlIIx"
@@ -14856,7 +14904,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 184583,
       "name": "SAILOR (with Oxlade)",
       "url": "https://open.spotify.com/track/1F1WDMlVyxfyIwGhQPKYdW"

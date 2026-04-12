@@ -1,12 +1,12 @@
 {
   "description": "This is Kylie Minogue. The essential tracks, all in one playlist.",
-  "num_followers": 171048,
+  "num_followers": 171057,
   "original_name": "This Is Kylie Minogue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adbsAAAAAAAbWe3V0hSQCe+Mb2Xdsb5F",
+  "snapshot_id": "adg9gAAAAACWyj5PFW/NrQZtXW/ExhDQ",
   "tracks": [
     {
       "added_at": null,
@@ -836,9 +836,9 @@
           "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
         }
       ],
-      "duration_ms": 168293,
-      "name": "Taboo",
-      "url": "https://open.spotify.com/track/3NugCU8elmTyNscNBZFWZr"
+      "duration_ms": 154706,
+      "name": "Someone For Me",
+      "url": "https://open.spotify.com/track/4RqWoB5cfvROXfgO8pYKzL"
     },
     {
       "added_at": null,
@@ -879,18 +879,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Enjoy Yourself",
-        "url": "https://open.spotify.com/album/4oz4KLPtQlhuN392NqQVxx"
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/55khqtC0aVEUkIAefNjklD"
       },
       "artists": [
         {
           "name": "Kylie Minogue",
           "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        },
+        {
+          "name": "Jack Savoretti",
+          "url": "https://open.spotify.com/artist/7nC05zmJukRGYObQeRgg3x"
         }
       ],
-      "duration_ms": 149732,
-      "name": "Tears on My Pillow",
-      "url": "https://open.spotify.com/track/7KxgFP7YSKYO3IQY7OngLr"
+      "duration_ms": 249666,
+      "name": "Music's Too Sad Without You",
+      "url": "https://open.spotify.com/track/2cUU9jelvVTypTwJttFwkV"
     }
   ],
   "unique_name": "This Is Kylie Minogue",

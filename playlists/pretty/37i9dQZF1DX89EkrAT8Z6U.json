@@ -1,6 +1,6 @@
 {
   "description": "The perfect mixtape for an anime fight scene. Also, check out <a href='spotify:playlist:37i9dQZF1EId8uVIwoG4N5'>Anime Rap Mix</a>.",
-  "num_followers": 1317117,
+  "num_followers": 1317337,
   "original_name": "sh\u014dnen",
   "owner": {
     "name": "Spotify",
@@ -367,6 +367,22 @@
     {
       "added_at": "2024-09-18 21:12:46",
       "album": {
+        "name": "By the Sword",
+        "url": "https://open.spotify.com/album/3kdQLkOoQY2TtZflmtlyRa"
+      },
+      "artists": [
+        {
+          "name": "iamjakehill",
+          "url": "https://open.spotify.com/artist/26JloX1vHxGGrGUVeMItFJ"
+        }
+      ],
+      "duration_ms": 125812,
+      "name": "By the Sword",
+      "url": "https://open.spotify.com/track/3HsFSrIsbO54TFDfG66pZm"
+    },
+    {
+      "added_at": "2024-09-18 21:12:46",
+      "album": {
         "name": "sunset dreams",
         "url": "https://open.spotify.com/album/49zxPpemrGsPpWnVpQcLNh"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 110773,
       "name": "sunset dreams",
       "url": "https://open.spotify.com/track/6zg431pIV64icWpxl46rzk"
-    },
-    {
-      "added_at": "2024-09-18 21:12:46",
-      "album": {
-        "name": "RAHHHH",
-        "url": "https://open.spotify.com/album/0kBzlWRuGqJCKTLU453Hoa"
-      },
-      "artists": [
-        {
-          "name": "alt!",
-          "url": "https://open.spotify.com/artist/2JUbvars1Q5hnkRa8IglAa"
-        }
-      ],
-      "duration_ms": 60945,
-      "name": "RAHHHH",
-      "url": "https://open.spotify.com/track/5NLnV0krXXSIOqL1PyAd1Q"
     },
     {
       "added_at": "2024-09-18 21:12:46",
@@ -419,18 +419,18 @@
     {
       "added_at": "2024-09-18 21:12:46",
       "album": {
-        "name": "By the Sword",
-        "url": "https://open.spotify.com/album/3kdQLkOoQY2TtZflmtlyRa"
+        "name": "RAHHHH",
+        "url": "https://open.spotify.com/album/0kBzlWRuGqJCKTLU453Hoa"
       },
       "artists": [
         {
-          "name": "iamjakehill",
-          "url": "https://open.spotify.com/artist/26JloX1vHxGGrGUVeMItFJ"
+          "name": "alt!",
+          "url": "https://open.spotify.com/artist/2JUbvars1Q5hnkRa8IglAa"
         }
       ],
-      "duration_ms": 125812,
-      "name": "By the Sword",
-      "url": "https://open.spotify.com/track/3HsFSrIsbO54TFDfG66pZm"
+      "duration_ms": 60945,
+      "name": "RAHHHH",
+      "url": "https://open.spotify.com/track/5NLnV0krXXSIOqL1PyAd1Q"
     },
     {
       "added_at": "2024-09-18 21:12:46",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-09-18 21:12:46",
       "album": {
-        "name": "Break Shit",
-        "url": "https://open.spotify.com/album/589UEOGJTF0Jk8sXA4GLKA"
-      },
-      "artists": [
-        {
-          "name": "Jasiah",
-          "url": "https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0"
-        }
-      ],
-      "duration_ms": 95483,
-      "name": "Break Shit",
-      "url": "https://open.spotify.com/track/0Sd0kdgU6HrIclxYjuV99j"
-    },
-    {
-      "added_at": "2024-09-18 21:12:46",
-      "album": {
         "name": "Go!",
         "url": "https://open.spotify.com/album/2e1GXVnwfl6zGCigos6g4w"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 160666,
       "name": "Go!",
       "url": "https://open.spotify.com/track/4Fd2jLQspwZVv7hF3bXHFg"
+    },
+    {
+      "added_at": "2024-09-18 21:12:46",
+      "album": {
+        "name": "Break Shit",
+        "url": "https://open.spotify.com/album/589UEOGJTF0Jk8sXA4GLKA"
+      },
+      "artists": [
+        {
+          "name": "Jasiah",
+          "url": "https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0"
+        }
+      ],
+      "duration_ms": 95483,
+      "name": "Break Shit",
+      "url": "https://open.spotify.com/track/0Sd0kdgU6HrIclxYjuV99j"
     },
     {
       "added_at": "2024-09-18 21:12:46",
@@ -923,6 +923,22 @@
     {
       "added_at": "2024-09-18 21:12:46",
       "album": {
+        "name": "MAMBO",
+        "url": "https://open.spotify.com/album/2BTaK3AfGOQCHEy7ivSSw7"
+      },
+      "artists": [
+        {
+          "name": "DIRTYXAN",
+          "url": "https://open.spotify.com/artist/5BEGUGWpPDPKXCgqubqnLB"
+        }
+      ],
+      "duration_ms": 127925,
+      "name": "MAMBO",
+      "url": "https://open.spotify.com/track/4U69c6x6vG2ULgUd6tRapG"
+    },
+    {
+      "added_at": "2024-09-18 21:12:46",
+      "album": {
         "name": "Memphis Cult Vol. 6",
         "url": "https://open.spotify.com/album/5CZnhiTI3K85wLKwPLNOJB"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 86709,
       "name": "9mm",
       "url": "https://open.spotify.com/track/3K5KXm1uZjiyQk0J7op1xf"
-    },
-    {
-      "added_at": "2024-09-18 21:12:46",
-      "album": {
-        "name": "MAMBO",
-        "url": "https://open.spotify.com/album/2BTaK3AfGOQCHEy7ivSSw7"
-      },
-      "artists": [
-        {
-          "name": "DIRTYXAN",
-          "url": "https://open.spotify.com/artist/5BEGUGWpPDPKXCgqubqnLB"
-        }
-      ],
-      "duration_ms": 127925,
-      "name": "MAMBO",
-      "url": "https://open.spotify.com/track/4U69c6x6vG2ULgUd6tRapG"
     },
     {
       "added_at": "2025-02-21 22:48:04",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-09-18 21:12:46",
       "album": {
-        "name": "STOKELEY",
-        "url": "https://open.spotify.com/album/0z0z4DcXhHiobX5ZKAw8Qn"
-      },
-      "artists": [
-        {
-          "name": "Ski Mask The Slump God",
-          "url": "https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry"
-        }
-      ],
-      "duration_ms": 138426,
-      "name": "Unbothered",
-      "url": "https://open.spotify.com/track/5hwUsRKvnO5yThjVrxHQVt"
-    },
-    {
-      "added_at": "2024-09-18 21:12:46",
-      "album": {
         "name": "OKE",
         "url": "https://open.spotify.com/album/2yZNGTY9G1WABteaesNDRR"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 146620,
       "name": "OKE",
       "url": "https://open.spotify.com/track/6Qah1RanKHrrv7iYoqjNKM"
+    },
+    {
+      "added_at": "2024-09-18 21:12:46",
+      "album": {
+        "name": "STOKELEY",
+        "url": "https://open.spotify.com/album/0z0z4DcXhHiobX5ZKAw8Qn"
+      },
+      "artists": [
+        {
+          "name": "Ski Mask The Slump God",
+          "url": "https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry"
+        }
+      ],
+      "duration_ms": 138426,
+      "name": "Unbothered",
+      "url": "https://open.spotify.com/track/5hwUsRKvnO5yThjVrxHQVt"
     },
     {
       "added_at": "2024-09-18 21:12:46",
@@ -1241,26 +1241,6 @@
       "url": "https://open.spotify.com/track/2qmn3UsrMtbt3orqjZSDVh"
     },
     {
-      "added_at": "2025-02-21 22:48:04",
-      "album": {
-        "name": "Abrakadabra",
-        "url": "https://open.spotify.com/album/4mY1EBvNaHaOhoFtwpIre0"
-      },
-      "artists": [
-        {
-          "name": "Sinoda",
-          "url": "https://open.spotify.com/artist/0ndm6JWcrLhnmrbVzSGi0b"
-        },
-        {
-          "name": "XANAKIN SKYWOK",
-          "url": "https://open.spotify.com/artist/2YHPVKeJcX02OyeNneU5v3"
-        }
-      ],
-      "duration_ms": 147748,
-      "name": "Abrakadabra",
-      "url": "https://open.spotify.com/track/5WEv8GQubyTUSkPowNJa87"
-    },
-    {
       "added_at": "2024-09-18 21:12:46",
       "album": {
         "name": "Nikes",
@@ -1279,6 +1259,26 @@
       "duration_ms": 139910,
       "name": "Nikes",
       "url": "https://open.spotify.com/track/65ha6jDdEeQ05hbiDeSUjT"
+    },
+    {
+      "added_at": "2025-02-21 22:48:04",
+      "album": {
+        "name": "Abrakadabra",
+        "url": "https://open.spotify.com/album/4mY1EBvNaHaOhoFtwpIre0"
+      },
+      "artists": [
+        {
+          "name": "Sinoda",
+          "url": "https://open.spotify.com/artist/0ndm6JWcrLhnmrbVzSGi0b"
+        },
+        {
+          "name": "XANAKIN SKYWOK",
+          "url": "https://open.spotify.com/artist/2YHPVKeJcX02OyeNneU5v3"
+        }
+      ],
+      "duration_ms": 147748,
+      "name": "Abrakadabra",
+      "url": "https://open.spotify.com/track/5WEv8GQubyTUSkPowNJa87"
     },
     {
       "added_at": "2024-09-18 21:12:46",

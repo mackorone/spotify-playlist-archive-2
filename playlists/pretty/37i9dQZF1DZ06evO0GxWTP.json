@@ -1,12 +1,12 @@
 {
   "description": "This is Bankzitters. The essential tracks, all in one playlist.",
-  "num_followers": 24019,
+  "num_followers": 24041,
   "original_name": "This Is Bankzitters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adbsAAAAAACGPE1LdeBhYLclWBodRt83",
+  "snapshot_id": "adg9gAAAAADuH3A9ZI+ENcMxuNSCJnaB",
   "tracks": [
     {
       "added_at": null,
@@ -135,22 +135,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wangedrag",
-        "url": "https://open.spotify.com/album/25BoRvIE0KFoZyc7L7pxhc"
-      },
-      "artists": [
-        {
-          "name": "Bankzitters",
-          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
-        }
-      ],
-      "duration_ms": 121889,
-      "name": "Wangedrag",
-      "url": "https://open.spotify.com/track/69RtYziGoEPCttknYGNcS1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Huisfeestje",
         "url": "https://open.spotify.com/album/7Ida3KTJ3zMQ9lchjH3BnF"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 149732,
       "name": "Huisfeestje",
       "url": "https://open.spotify.com/track/6HfzAzEWhwo19n2jrJnM7k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wangedrag",
+        "url": "https://open.spotify.com/album/25BoRvIE0KFoZyc7L7pxhc"
+      },
+      "artists": [
+        {
+          "name": "Bankzitters",
+          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
+        }
+      ],
+      "duration_ms": 121889,
+      "name": "Wangedrag",
+      "url": "https://open.spotify.com/track/69RtYziGoEPCttknYGNcS1"
     },
     {
       "added_at": null,

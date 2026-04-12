@@ -14262,7 +14262,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 166955,
       "name": "Cicada",
       "url": "https://open.spotify.com/track/2dvTutCISmanWOYdFMfqKo"
@@ -24358,7 +24358,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 139038,
       "name": "entrando pa la discoteca",
       "url": "https://open.spotify.com/track/6nGGhFDsU0Txopw9eo8d8T"
@@ -26404,7 +26404,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-03",
+      "date_removed": null,
       "duration_ms": 225786,
       "name": "Fashion Girl pt.2",
       "url": "https://open.spotify.com/track/6EKUSdzaD9zRaaR5Yg0SoC"
@@ -28968,7 +28968,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 356000,
       "name": "Getsemani (Oraci\u00f3n del Huerto) - [Musical \"Jesucristo Superstar\"]",
       "url": "https://open.spotify.com/track/49Ved7nBuSy0wafl49g2f5"
@@ -40548,7 +40548,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 134071,
       "name": "Looping the Rooms",
       "url": "https://open.spotify.com/track/3XJCMkEWhd8xwHx6UGGa7C"
@@ -60640,7 +60640,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 219743,
       "name": "Raindance (feat. Tems)",
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
@@ -72435,6 +72435,40 @@
     },
     {
       "album": {
+        "name": "Tienes (Remix)",
+        "url": "https://open.spotify.com/album/7IJoR4cBCoABPq7HmKsFwG"
+      },
+      "artists": [
+        {
+          "name": "Ya Ice Dilan",
+          "url": "https://open.spotify.com/artist/3EumQuYai5g1235jIBaPhA"
+        },
+        {
+          "name": "Rey Tony",
+          "url": "https://open.spotify.com/artist/7o5F7ecSmTFTIt9lrDtB0l"
+        },
+        {
+          "name": "Helabusador",
+          "url": "https://open.spotify.com/artist/43FkTZ35A6B7miP8a5AlPX"
+        },
+        {
+          "name": "JipMusic Global",
+          "url": "https://open.spotify.com/artist/6qX4h29LUPPUx0ykEdYAL7"
+        },
+        {
+          "name": "Dj Honda",
+          "url": "https://open.spotify.com/artist/5OLgZmlrgCBKtR47DXwnsk"
+        }
+      ],
+      "date_added": "2026-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191578,
+      "name": "Tienes - Remix (Prod. by Dj Honda)",
+      "url": "https://open.spotify.com/track/7MbqAiyl4FtyGwSLjT3g70"
+    },
+    {
+      "album": {
         "name": "Tierra Tr\u00e1game (con Car\u00edn Le\u00f3n)",
         "url": "https://open.spotify.com/album/4nDXv2MDmLPjo1n1tq1Mwd"
       },
@@ -80114,7 +80148,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 269596,
       "name": "WO OH OH",
       "url": "https://open.spotify.com/track/0h54mLixODOqU6vTcZMqVM"

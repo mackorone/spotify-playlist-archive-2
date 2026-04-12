@@ -4,7 +4,7 @@
 
 > Sechs Saiten für ein Halleluja\. Cover: Enter Shikari
 
-889 songs - 2 day 2 hr 31 min
+890 songs - 2 day 2 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -329,7 +329,7 @@
 | [God’s Eye](https://open.spotify.com/track/3G600027WLRbsunHeYJ5G2) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [God's Eye](https://open.spotify.com/album/5iPaMXX4jgANF9uiEERtxi) | 2:10 | 2026-01-22 |  |
 | [GOING PLACES](https://open.spotify.com/track/6Cg9KS7mamFAA0UYrlnLYI) | [SICK PUPPIES](https://open.spotify.com/artist/7qAcXJgt1PWnxwUgxMdyuk) | [GOING PLACES](https://open.spotify.com/album/6TyCueMW56lTdTihls5zVY) | 2:56 | 2024-09-12 | 2024-09-20 |
 | [Going Under](https://open.spotify.com/track/595wNiuyUoaBsGY4lIm7WI) | [The Haunt](https://open.spotify.com/artist/45d8YG3R2DApOMnIZuyK8p) | [Going Under](https://open.spotify.com/album/39sTquleWB80szwh7NY5MI) | 2:19 | 2024-11-28 | 2024-12-06 |
-| [Good Enough \(feat\. Caskets\)](https://open.spotify.com/track/634fbt01oPnkmCBMPNJUWA) | [Rising Insane](https://open.spotify.com/artist/7InRNmmQuAi5KGBFtfOkrf), [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [Good Enough \(feat\. Caskets\)](https://open.spotify.com/album/2Knj2sM9MP94zUuYcHqmwH) | 2:45 | 2026-02-19 |  |
+| [Good Enough \(feat\. Caskets\)](https://open.spotify.com/track/634fbt01oPnkmCBMPNJUWA) | [Rising Insane](https://open.spotify.com/artist/7InRNmmQuAi5KGBFtfOkrf), [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [Good Enough \(feat\. Caskets\)](https://open.spotify.com/album/2Knj2sM9MP94zUuYcHqmwH) | 2:45 | 2026-02-19 | 2026-04-12 |
 | [Good To Know You Told Me So](https://open.spotify.com/track/3v88P3pMjbZvmpcKRptVF2) | [Loose Lips](https://open.spotify.com/artist/0n5RkUf3LWm4kBn5i1OeND) | [Pretty Devastating](https://open.spotify.com/album/34BBzzfIIKqd99hAHf9A3S) | 3:08 | 2025-12-18 | 2026-01-15 |
 | [Goodbye For Now \(feat\. Julien Baker\)](https://open.spotify.com/track/0lPwT1JHuNFeXtIV6i6Eg2) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Spiral In A Straight Line](https://open.spotify.com/album/0P5CZ4l155R1udzsELjXSC) | 4:20 | 2024-10-10 | 2024-11-01 |
 | [GOSSIP \(feat\. Tom Morello\)](https://open.spotify.com/track/4GvPlSOKfN7aXEuGW8zKUx) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [GOSSIP \(feat\. Tom Morello\)](https://open.spotify.com/album/6kHJE5xnpA6zncKOD70bS8) | 2:48 | 2024-06-27 | 2024-12-20 |
@@ -563,6 +563,7 @@
 | [Obey](https://open.spotify.com/track/1Zm0Y3RM2Pan9gzpFs3dPn) | [Hands Like Houses](https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Obey](https://open.spotify.com/album/4w6LmidRk4Joz88AojOfBb) | 3:04 | 2024-11-14 | 2024-11-22 |
 | [Obsessed](https://open.spotify.com/track/32lG2dcfHHFJZLRPOogB7E) | [Lost in Hollywood](https://open.spotify.com/artist/7r7mwbmR3LZeRdOOklCfWP), [IMPVLSE](https://open.spotify.com/artist/4Xb8zLSdetzreInyw9csZN) | [Obsessed](https://open.spotify.com/album/1aKJqetnisCdbUA6YFVROh) | 3:38 | 2025-01-16 | 2025-01-31 |
 | [Obsolete](https://open.spotify.com/track/7MuVMzOoomIlcdTRPx4hiP) | [vianova](https://open.spotify.com/artist/01DWiz55UPC4lQOGIo4z5n) | [Obsolete](https://open.spotify.com/album/5t5ATC7XZSx8clvDETqDYH) | 5:12 | 2025-08-14 | 2025-08-23 |
+| [Of All People](https://open.spotify.com/track/1jhI5gfOIA2iGOWk6gp1xc) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Of All People](https://open.spotify.com/album/1Df1pG5H92VbkhbTehf6Sn) | 2:34 | 2026-04-09 |  |
 | [Oh No!](https://open.spotify.com/track/0yV2fqp1VpVsPJc54LX92R) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Oh No!](https://open.spotify.com/album/1VQTxITRTWerCVUOORuMPi) | 3:13 | 2025-09-04 | 2025-09-26 |
 | [Ok, But This Is The Last Time](https://open.spotify.com/track/6diTGCtoRTj198zL0v2RIO) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [SUPERCHARGED](https://open.spotify.com/album/5PDtsevGakWdIRZyeOZ83g) | 3:23 | 2024-10-10 | 2024-12-20 |
 | [ON](https://open.spotify.com/track/6xKKL8J5f4QgO9AlluRN5Y) | [Blackout Problems](https://open.spotify.com/artist/22P5BkhcPUCtDGC9laXpDM) | [SONGS](https://open.spotify.com/album/1ERnqF39eUW1JCt8y7emAg) | 3:00 | 2025-11-27 | 2025-12-05 |

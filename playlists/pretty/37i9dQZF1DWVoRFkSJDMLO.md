@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 
 > The latest in world music\. From the continent, to the islands with Adekunle Gold.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,860 likes - 70 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,882 likes - 70 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 | 9 | [I Believe In Better](https://open.spotify.com/track/4DQ5zn0wZytaZYM6UjLlMY) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [I Believe In Better](https://open.spotify.com/album/5JEpbiNqmy1IfsdrM8SQks) | 2:33 |
 | 10 | [Joy](https://open.spotify.com/track/5rdXPdk1QvAeoopHdtPkNF) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW) | [Joy](https://open.spotify.com/album/3a2w2RtqfDtsZ0fAw9Q9uE) | 3:39 |
 | 11 | [Hit With Music](https://open.spotify.com/track/1BypV2vDJ5nudihKMdN5QS) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA) | [Hit With Music](https://open.spotify.com/album/0zqhxiLkWbJufPN3cv0myH) | 3:15 |
-| 12 | [CC](https://open.spotify.com/track/3oRfAVFj4sazro06ePnXNe) | [TÖME](https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX), [Alpha P](https://open.spotify.com/artist/5Q64QD30Oty9M2veg8l3un) | [CC](https://open.spotify.com/album/0d05eIekJoVsraIkT9VqCM) | 2:16 |
+| 12 | [CC](https://open.spotify.com/track/3oRfAVFj4sazro06ePnXNe) | [TÖME](https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX), [Alpha P](https://open.spotify.com/artist/3dUPwMGYAsymFv80wkqEKl) | [CC](https://open.spotify.com/album/0d05eIekJoVsraIkT9VqCM) | 2:16 |
 | 13 | [Paranoid Riddim \- Brawta Mini Mix](https://open.spotify.com/track/4rxs0CmzPD7MMLGxHcszWO) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [Demarco](https://open.spotify.com/artist/0af5VM6xubf8EXKvoG35x6), [Tony Matterhorn](https://open.spotify.com/artist/6taesTUSevB9eK8bm5Y7b9) | [Y2K Dancehall Gold \(Paranoid Riddim\)](https://open.spotify.com/album/4xpzGwgcdCCGAWzkiCur9w) | 4:03 |
 | 14 | [PopStar](https://open.spotify.com/track/2LO82nA2HMBbwqs0KNUeMx) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [PopStar](https://open.spotify.com/album/7KZIeyxwBz47w5bWbAF7XL) | 2:36 |
 | 15 | [Bounce](https://open.spotify.com/track/6gBThFhnhTl3gf5KKWVzlY) | [450](https://open.spotify.com/artist/2v6V75NbousiJwy2HV44VL), [Weekday](https://open.spotify.com/artist/2ZoRuY63B7fzl9HaKjlWoF) | [Bounce](https://open.spotify.com/album/2kINW1AylHJXbip4jDmDFm) | 2:43 |

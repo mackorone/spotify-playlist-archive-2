@@ -60165,6 +60165,24 @@
     },
     {
       "album": {
+        "name": "The Medicine",
+        "url": "https://open.spotify.com/album/31eRUigxIZmyhLRyCbi7dn"
+      },
+      "artists": [
+        {
+          "name": "Stuboi2000",
+          "url": "https://open.spotify.com/artist/7Lg9bfZlIMygUkzDKZLx0G"
+        }
+      ],
+      "date_added": "2026-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271764,
+      "name": "The Medicine",
+      "url": "https://open.spotify.com/track/2CI7CHHYeckwO4HeVl6eKP"
+    },
+    {
+      "album": {
         "name": "The Memories Will Remain",
         "url": "https://open.spotify.com/album/6WuPijjuAfPZcXRGOymUNA"
       },

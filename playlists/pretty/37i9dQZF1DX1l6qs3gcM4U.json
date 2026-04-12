@@ -1,6 +1,6 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Calema",
-  "num_followers": 243906,
+  "num_followers": 243980,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-04-09 23:00:41",
       "album": {
-        "name": "Akanadja",
-        "url": "https://open.spotify.com/album/2bvvjR9iZN9jo4qugFZnON"
-      },
-      "artists": [
-        {
-          "name": "Neyna",
-          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
-        }
-      ],
-      "duration_ms": 182023,
-      "name": "Akanadja",
-      "url": "https://open.spotify.com/track/5YFM2pnhKvoBUPOlBkCXrV"
-    },
-    {
-      "added_at": "2026-04-09 23:00:41",
-      "album": {
         "name": "O Jeito Dela",
         "url": "https://open.spotify.com/album/3soRnkMgKurzDLFH41Zb8g"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 285116,
       "name": "O Jeito Dela - Original Mix",
       "url": "https://open.spotify.com/track/5sWHddw9qAaa5nlfNzYeCn"
+    },
+    {
+      "added_at": "2026-04-09 23:00:41",
+      "album": {
+        "name": "Akanadja",
+        "url": "https://open.spotify.com/album/2bvvjR9iZN9jo4qugFZnON"
+      },
+      "artists": [
+        {
+          "name": "Neyna",
+          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
+        }
+      ],
+      "duration_ms": 182023,
+      "name": "Akanadja",
+      "url": "https://open.spotify.com/track/5YFM2pnhKvoBUPOlBkCXrV"
     },
     {
       "added_at": "2026-04-09 23:00:41",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2026-04-09 23:00:41",
       "album": {
-        "name": "11\u00b0 Ano",
-        "url": "https://open.spotify.com/album/3Cl9iASC8gLoBjBh9KoQg3"
-      },
-      "artists": [
-        {
-          "name": "Gerilson Insrael",
-          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
-        }
-      ],
-      "duration_ms": 197052,
-      "name": "Deixa",
-      "url": "https://open.spotify.com/track/6SowTiTBlpo0c8ExyiDsR9"
-    },
-    {
-      "added_at": "2026-04-09 23:00:41",
-      "album": {
         "name": "Vida Linda",
         "url": "https://open.spotify.com/album/7dB9tIZsUxMfgyeWgUGCkH"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 175346,
       "name": "Vida Linda",
       "url": "https://open.spotify.com/track/6PFCS07ThHLVYlOM5LeJFP"
+    },
+    {
+      "added_at": "2026-04-09 23:00:41",
+      "album": {
+        "name": "11\u00b0 Ano",
+        "url": "https://open.spotify.com/album/3Cl9iASC8gLoBjBh9KoQg3"
+      },
+      "artists": [
+        {
+          "name": "Gerilson Insrael",
+          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
+        }
+      ],
+      "duration_ms": 197052,
+      "name": "Deixa",
+      "url": "https://open.spotify.com/track/6SowTiTBlpo0c8ExyiDsR9"
     },
     {
       "added_at": "2026-04-09 23:00:41",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-04-09 23:00:41",
       "album": {
-        "name": "Vem Relaxar",
-        "url": "https://open.spotify.com/album/4KqwpNCIeLXUIPqwa5QBVd"
-      },
-      "artists": [
-        {
-          "name": "Jay Oliver",
-          "url": "https://open.spotify.com/artist/19ynMaKoJYvOhZATkHYt3X"
-        }
-      ],
-      "duration_ms": 172962,
-      "name": "Vem Relaxar",
-      "url": "https://open.spotify.com/track/1e55OqUQMPI9kG2NhG5Dm5"
-    },
-    {
-      "added_at": "2026-04-09 23:00:41",
-      "album": {
         "name": "Waves",
         "url": "https://open.spotify.com/album/1cCpht9GFIIXxs8eZ5nZrg"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 227843,
       "name": "S\u00f3 Sodadi",
       "url": "https://open.spotify.com/track/0DVyY8f6620VYX5lH35l9Q"
+    },
+    {
+      "added_at": "2026-04-09 23:00:41",
+      "album": {
+        "name": "Vem Relaxar",
+        "url": "https://open.spotify.com/album/4KqwpNCIeLXUIPqwa5QBVd"
+      },
+      "artists": [
+        {
+          "name": "Jay Oliver",
+          "url": "https://open.spotify.com/artist/19ynMaKoJYvOhZATkHYt3X"
+        }
+      ],
+      "duration_ms": 172962,
+      "name": "Vem Relaxar",
+      "url": "https://open.spotify.com/track/1e55OqUQMPI9kG2NhG5Dm5"
     },
     {
       "added_at": "2026-04-09 23:00:41",
@@ -1231,26 +1231,6 @@
     {
       "added_at": "2026-04-09 23:00:41",
       "album": {
-        "name": "Nha Preta",
-        "url": "https://open.spotify.com/album/1Bq46oN238vBDzOl6VHUza"
-      },
-      "artists": [
-        {
-          "name": "Helio Batalha",
-          "url": "https://open.spotify.com/artist/08ukYp96CtGT1te37kfVoz"
-        },
-        {
-          "name": "Garry",
-          "url": "https://open.spotify.com/artist/3U0IGidZSk3ObLUMwDxVxS"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Nha Preta",
-      "url": "https://open.spotify.com/track/0JjHBA5DGZx80PS6TMuzAp"
-    },
-    {
-      "added_at": "2026-04-09 23:00:41",
-      "album": {
         "name": "CICLOS",
         "url": "https://open.spotify.com/album/5XY0auxYieXVEG7pmn6ANc"
       },
@@ -1279,6 +1259,26 @@
       "duration_ms": 195350,
       "name": "Jungle Fever",
       "url": "https://open.spotify.com/track/4GLJD3Rgy9Dmzy2Ies61Ca"
+    },
+    {
+      "added_at": "2026-04-09 23:00:41",
+      "album": {
+        "name": "Nha Preta",
+        "url": "https://open.spotify.com/album/1Bq46oN238vBDzOl6VHUza"
+      },
+      "artists": [
+        {
+          "name": "Helio Batalha",
+          "url": "https://open.spotify.com/artist/08ukYp96CtGT1te37kfVoz"
+        },
+        {
+          "name": "Garry",
+          "url": "https://open.spotify.com/artist/3U0IGidZSk3ObLUMwDxVxS"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Nha Preta",
+      "url": "https://open.spotify.com/track/0JjHBA5DGZx80PS6TMuzAp"
     },
     {
       "added_at": "2026-04-09 23:00:41",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2026-04-09 23:00:41",
       "album": {
-        "name": "BTLV",
-        "url": "https://open.spotify.com/album/4p7bM6yutMVmZkWiFMes4a"
-      },
-      "artists": [
-        {
-          "name": "Lisandro Cuxi",
-          "url": "https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY"
-        }
-      ],
-      "duration_ms": 163426,
-      "name": "Limbisa - Kriolu Version",
-      "url": "https://open.spotify.com/track/6kJ1Teb1Tx6XHYhbIkfmn2"
-    },
-    {
-      "added_at": "2026-04-09 23:00:41",
-      "album": {
         "name": "GBB",
         "url": "https://open.spotify.com/album/5VNohJcXXxahm6IvtjDJxh"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 202986,
       "name": "GBB",
       "url": "https://open.spotify.com/track/7tdtvi7LWBoR9OTTjxd46A"
+    },
+    {
+      "added_at": "2026-04-09 23:00:41",
+      "album": {
+        "name": "BTLV",
+        "url": "https://open.spotify.com/album/4p7bM6yutMVmZkWiFMes4a"
+      },
+      "artists": [
+        {
+          "name": "Lisandro Cuxi",
+          "url": "https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY"
+        }
+      ],
+      "duration_ms": 163426,
+      "name": "Limbisa - Kriolu Version",
+      "url": "https://open.spotify.com/track/6kJ1Teb1Tx6XHYhbIkfmn2"
     },
     {
       "added_at": "2026-04-09 23:00:41",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2026-04-09 23:00:41",
       "album": {
-        "name": "Sodadi",
-        "url": "https://open.spotify.com/album/6yGZtar5VkZZsSTcBMPXAW"
-      },
-      "artists": [
-        {
-          "name": "Avanah",
-          "url": "https://open.spotify.com/artist/4kS6NC6K4IAwuwuaAazVFY"
-        }
-      ],
-      "duration_ms": 189621,
-      "name": "Sodadi",
-      "url": "https://open.spotify.com/track/1LBVatFYRDSfosUCsdPJjb"
-    },
-    {
-      "added_at": "2026-04-09 23:00:41",
-      "album": {
         "name": "Longe Daqui",
         "url": "https://open.spotify.com/album/2lV2eLC9oG1zx36I4CO5nS"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 214935,
       "name": "Longe Daqui",
       "url": "https://open.spotify.com/track/6MexAjdg4Fc1qSudsOBGKo"
+    },
+    {
+      "added_at": "2026-04-09 23:00:41",
+      "album": {
+        "name": "Sodadi",
+        "url": "https://open.spotify.com/album/6yGZtar5VkZZsSTcBMPXAW"
+      },
+      "artists": [
+        {
+          "name": "Avanah",
+          "url": "https://open.spotify.com/artist/4kS6NC6K4IAwuwuaAazVFY"
+        }
+      ],
+      "duration_ms": 189621,
+      "name": "Sodadi",
+      "url": "https://open.spotify.com/track/1LBVatFYRDSfosUCsdPJjb"
     },
     {
       "added_at": "2026-04-09 23:00:41",
@@ -1715,6 +1715,22 @@
     {
       "added_at": "2026-04-09 23:00:41",
       "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/5jUjS2T7cQaGWQXKHJP72b"
+      },
+      "artists": [
+        {
+          "name": "Halison Paix\u00e3o",
+          "url": "https://open.spotify.com/artist/1lNVs3gqrX6Qw01FqnP12N"
+        }
+      ],
+      "duration_ms": 164636,
+      "name": "The Best",
+      "url": "https://open.spotify.com/track/0iSoRQn44pm6j5JOM1LKww"
+    },
+    {
+      "added_at": "2026-04-09 23:00:41",
+      "album": {
         "name": "Tarraxinha",
         "url": "https://open.spotify.com/album/74ausXGM4e3XqEi8Ew7wda"
       },
@@ -1735,22 +1751,6 @@
       "duration_ms": 144255,
       "name": "Tarraxinha",
       "url": "https://open.spotify.com/track/5zFiKis35K7y8G4H5Y1A9j"
-    },
-    {
-      "added_at": "2026-04-09 23:00:41",
-      "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/5jUjS2T7cQaGWQXKHJP72b"
-      },
-      "artists": [
-        {
-          "name": "Halison Paix\u00e3o",
-          "url": "https://open.spotify.com/artist/1lNVs3gqrX6Qw01FqnP12N"
-        }
-      ],
-      "duration_ms": 164636,
-      "name": "The Best",
-      "url": "https://open.spotify.com/track/0iSoRQn44pm6j5JOM1LKww"
     },
     {
       "added_at": "2026-04-09 23:00:41",
@@ -1811,6 +1811,22 @@
     {
       "added_at": "2026-04-09 23:00:41",
       "album": {
+        "name": "Mais Nada",
+        "url": "https://open.spotify.com/album/4qUns8RK2Sjqz9lHKCbPhT"
+      },
+      "artists": [
+        {
+          "name": "Cubita",
+          "url": "https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di"
+        }
+      ],
+      "duration_ms": 176770,
+      "name": "Mais Nada",
+      "url": "https://open.spotify.com/track/2DDBR1QD9d9Qjg0a1hwOAJ"
+    },
+    {
+      "added_at": "2026-04-09 23:00:41",
+      "album": {
         "name": "Control",
         "url": "https://open.spotify.com/album/6xxYj7XEsGGquc3DSbUf7L"
       },
@@ -1835,22 +1851,6 @@
       "duration_ms": 207500,
       "name": "Control",
       "url": "https://open.spotify.com/track/3WQxc2F2C57eqs57YJgEcZ"
-    },
-    {
-      "added_at": "2026-04-09 23:00:41",
-      "album": {
-        "name": "Mais Nada",
-        "url": "https://open.spotify.com/album/4qUns8RK2Sjqz9lHKCbPhT"
-      },
-      "artists": [
-        {
-          "name": "Cubita",
-          "url": "https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di"
-        }
-      ],
-      "duration_ms": 176770,
-      "name": "Mais Nada",
-      "url": "https://open.spotify.com/track/2DDBR1QD9d9Qjg0a1hwOAJ"
     },
     {
       "added_at": "2026-04-09 23:00:41",

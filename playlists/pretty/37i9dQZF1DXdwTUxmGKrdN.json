@@ -1,6 +1,6 @@
 {
   "description": "Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...",
-  "num_followers": 456925,
+  "num_followers": 456968,
   "original_name": "Smooth Jazz",
   "owner": {
     "name": "Spotify",
@@ -591,22 +591,6 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
-        "name": "Rite of Passage",
-        "url": "https://open.spotify.com/album/1tySvkpLhtmLa7HzQvTB4A"
-      },
-      "artists": [
-        {
-          "name": "Kim Scott",
-          "url": "https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP"
-        }
-      ],
-      "duration_ms": 226666,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/6dAiJguW0vDdbLf8QlY2DR"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
         "name": "Tim Bowman",
         "url": "https://open.spotify.com/album/5WzwDaBCkfloJvg5zgbwkh"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 253577,
       "name": "Listen to This",
       "url": "https://open.spotify.com/track/6kXk5A2Ea0NtN4H9xVvSc0"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
+        "name": "Rite of Passage",
+        "url": "https://open.spotify.com/album/1tySvkpLhtmLa7HzQvTB4A"
+      },
+      "artists": [
+        {
+          "name": "Kim Scott",
+          "url": "https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP"
+        }
+      ],
+      "duration_ms": 226666,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/6dAiJguW0vDdbLf8QlY2DR"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
-        "name": "The Limit's the Sky",
-        "url": "https://open.spotify.com/album/3YFixNZQruKFSuXhd3W69S"
-      },
-      "artists": [
-        {
-          "name": "Oli Silk",
-          "url": "https://open.spotify.com/artist/7a9DZt3DpmEVkZZZ6MkWdE"
-        }
-      ],
-      "duration_ms": 223669,
-      "name": "Chill or Be Chilled",
-      "url": "https://open.spotify.com/track/5gAbksSWP6H2gzdWpN21w9"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
         "name": "Let's Get Away",
         "url": "https://open.spotify.com/album/5Ja2SjrDC7ul4nijfHoujD"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 205880,
       "name": "Down Here On The Ground",
       "url": "https://open.spotify.com/track/4pZBySL7Vz9RiCnedhCpHX"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
+        "name": "The Limit's the Sky",
+        "url": "https://open.spotify.com/album/3YFixNZQruKFSuXhd3W69S"
+      },
+      "artists": [
+        {
+          "name": "Oli Silk",
+          "url": "https://open.spotify.com/artist/7a9DZt3DpmEVkZZZ6MkWdE"
+        }
+      ],
+      "duration_ms": 223669,
+      "name": "Chill or Be Chilled",
+      "url": "https://open.spotify.com/track/5gAbksSWP6H2gzdWpN21w9"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -995,22 +995,6 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
-        "name": "The Journey",
-        "url": "https://open.spotify.com/album/5E3aoFBEXHFhJ2CwIViB89"
-      },
-      "artists": [
-        {
-          "name": "Nick Colionne",
-          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
-        }
-      ],
-      "duration_ms": 257933,
-      "name": "Say What's on Your Mind",
-      "url": "https://open.spotify.com/track/25I5asfjuKPkmU3T0iOAkX"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
         "name": "Escape",
         "url": "https://open.spotify.com/album/7qOXrZte4eeBH3S7LYoO1T"
       },
@@ -1031,6 +1015,22 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
+        "name": "The Journey",
+        "url": "https://open.spotify.com/album/5E3aoFBEXHFhJ2CwIViB89"
+      },
+      "artists": [
+        {
+          "name": "Nick Colionne",
+          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
+        }
+      ],
+      "duration_ms": 257933,
+      "name": "Say What's on Your Mind",
+      "url": "https://open.spotify.com/track/25I5asfjuKPkmU3T0iOAkX"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
         "name": "Smooth Grooves, Vol. 2",
         "url": "https://open.spotify.com/album/2dWhDa6kTyZlw7ip13EhTm"
       },
@@ -1043,6 +1043,22 @@
       "duration_ms": 365000,
       "name": "Southern Style",
       "url": "https://open.spotify.com/track/18xGFscyHeMxrlgyti66gX"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
+        "name": "Lifted",
+        "url": "https://open.spotify.com/album/2q5FbIK44fNkcw6w2TWXs9"
+      },
+      "artists": [
+        {
+          "name": "Phil Denny",
+          "url": "https://open.spotify.com/artist/1qRb36fHSmuSGm6WewqmdH"
+        }
+      ],
+      "duration_ms": 260746,
+      "name": "Lifted",
+      "url": "https://open.spotify.com/track/0nUK8QO7du1cqA1KW3fzxg"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -1063,22 +1079,6 @@
       "duration_ms": 309981,
       "name": "Imagine (Living as One)",
       "url": "https://open.spotify.com/track/5GpFYx5Q5h38LZnDamGBOB"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
-        "name": "Lifted",
-        "url": "https://open.spotify.com/album/2q5FbIK44fNkcw6w2TWXs9"
-      },
-      "artists": [
-        {
-          "name": "Phil Denny",
-          "url": "https://open.spotify.com/artist/1qRb36fHSmuSGm6WewqmdH"
-        }
-      ],
-      "duration_ms": 260746,
-      "name": "Lifted",
-      "url": "https://open.spotify.com/track/0nUK8QO7du1cqA1KW3fzxg"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
+        "name": "Ascension",
+        "url": "https://open.spotify.com/album/5wZPP4EBzRTbOltJNGPdDi"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Sean Hector",
+          "url": "https://open.spotify.com/artist/1akYcPyDtIQAN54HFVHbWR"
+        }
+      ],
+      "duration_ms": 287400,
+      "name": "Spray Bay",
+      "url": "https://open.spotify.com/track/3KHLV5FTalpbnNmmznJcVk"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
         "name": "Happy",
         "url": "https://open.spotify.com/album/5niIPoCZuJw83hBrj2dPKv"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 275773,
       "name": "Lip Service",
       "url": "https://open.spotify.com/track/2fmT3fYkiWXFFZ6YKm7voS"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
-        "name": "Ascension",
-        "url": "https://open.spotify.com/album/5wZPP4EBzRTbOltJNGPdDi"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Sean Hector",
-          "url": "https://open.spotify.com/artist/1akYcPyDtIQAN54HFVHbWR"
-        }
-      ],
-      "duration_ms": 287400,
-      "name": "Spray Bay",
-      "url": "https://open.spotify.com/track/3KHLV5FTalpbnNmmznJcVk"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
-        "name": "Natural",
-        "url": "https://open.spotify.com/album/0yTUvZL1yR88cGrfyW3WI5"
-      },
-      "artists": [
-        {
-          "name": "Cindy Bradley",
-          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
-        }
-      ],
-      "duration_ms": 311359,
-      "name": "Everyone but You",
-      "url": "https://open.spotify.com/track/1w7bLa7WRh4Bi0mojbfJ0K"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
         "name": "Ready to Go",
         "url": "https://open.spotify.com/album/3lMmhPqyO3M5ECUj0enyJr"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 240300,
       "name": "Ready to Go",
       "url": "https://open.spotify.com/track/6aFbcAvsjTgQyfEw4M1hyz"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/0yTUvZL1yR88cGrfyW3WI5"
+      },
+      "artists": [
+        {
+          "name": "Cindy Bradley",
+          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
+        }
+      ],
+      "duration_ms": 311359,
+      "name": "Everyone but You",
+      "url": "https://open.spotify.com/track/1w7bLa7WRh4Bi0mojbfJ0K"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
-        "name": "All We Have Are Moments",
-        "url": "https://open.spotify.com/album/0smdqyg37o4BTYbC5coqVx"
-      },
-      "artists": [
-        {
-          "name": "Marqueal Jordan",
-          "url": "https://open.spotify.com/artist/67z4QmWjkhUiM9LcGvvr87"
-        }
-      ],
-      "duration_ms": 213536,
-      "name": "What Key?",
-      "url": "https://open.spotify.com/track/7AeeeNlvjxHKq5ekmdY72B"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
         "name": "No Turning Back",
         "url": "https://open.spotify.com/album/1xoFifChEKnySmiYpqNXxy"
       },
@@ -1655,6 +1639,22 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
+        "name": "All We Have Are Moments",
+        "url": "https://open.spotify.com/album/0smdqyg37o4BTYbC5coqVx"
+      },
+      "artists": [
+        {
+          "name": "Marqueal Jordan",
+          "url": "https://open.spotify.com/artist/67z4QmWjkhUiM9LcGvvr87"
+        }
+      ],
+      "duration_ms": 213536,
+      "name": "What Key?",
+      "url": "https://open.spotify.com/track/7AeeeNlvjxHKq5ekmdY72B"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
         "name": "Coevolve",
         "url": "https://open.spotify.com/album/1Ppa4z7b3BL1qB8nkqvQoT"
       },
@@ -1667,6 +1667,22 @@
       "duration_ms": 293595,
       "name": "Zephyr",
       "url": "https://open.spotify.com/track/7H8SthzNfUQphbs96I2Gfs"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
+        "name": "All About Love",
+        "url": "https://open.spotify.com/album/4rxMMiNhCn8FeJiVnoiYxd"
+      },
+      "artists": [
+        {
+          "name": "Tony Saunders",
+          "url": "https://open.spotify.com/artist/5OLFOdnwdWsZry0VUo3b2Q"
+        }
+      ],
+      "duration_ms": 289200,
+      "name": "Just Between Us",
+      "url": "https://open.spotify.com/track/53Z6wHAS1oohnCSgLGmaLc"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -1691,22 +1707,6 @@
       "duration_ms": 223853,
       "name": "Soleh",
       "url": "https://open.spotify.com/track/56YE4O9RrVQa1JNy0ytneB"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
-        "name": "All About Love",
-        "url": "https://open.spotify.com/album/4rxMMiNhCn8FeJiVnoiYxd"
-      },
-      "artists": [
-        {
-          "name": "Tony Saunders",
-          "url": "https://open.spotify.com/artist/5OLFOdnwdWsZry0VUo3b2Q"
-        }
-      ],
-      "duration_ms": 289200,
-      "name": "Just Between Us",
-      "url": "https://open.spotify.com/track/53Z6wHAS1oohnCSgLGmaLc"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -2379,22 +2379,6 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
-        "name": "Smooth Operators: Great Smooth Jazz Moments",
-        "url": "https://open.spotify.com/album/0fRFvT84F2MtzqccEsplpv"
-      },
-      "artists": [
-        {
-          "name": "Brian Tarquin",
-          "url": "https://open.spotify.com/artist/2giMW0q2qh3k6ZIrFEsux2"
-        }
-      ],
-      "duration_ms": 228573,
-      "name": "Charlemagne",
-      "url": "https://open.spotify.com/track/7IoguPlcKyVkf9t0nUE5YV"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
         "name": "Double Vision",
         "url": "https://open.spotify.com/album/6KmbBezsEykMwmMmxgqRuY"
       },
@@ -2411,6 +2395,22 @@
       "duration_ms": 263493,
       "name": "Just Dance (feat. Dave Koz)",
       "url": "https://open.spotify.com/track/5S6EHC45If9NSN5jIHVzP1"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
+        "name": "Smooth Operators: Great Smooth Jazz Moments",
+        "url": "https://open.spotify.com/album/0fRFvT84F2MtzqccEsplpv"
+      },
+      "artists": [
+        {
+          "name": "Brian Tarquin",
+          "url": "https://open.spotify.com/artist/2giMW0q2qh3k6ZIrFEsux2"
+        }
+      ],
+      "duration_ms": 228573,
+      "name": "Charlemagne",
+      "url": "https://open.spotify.com/track/7IoguPlcKyVkf9t0nUE5YV"
     },
     {
       "added_at": "2026-01-14 10:46:11",

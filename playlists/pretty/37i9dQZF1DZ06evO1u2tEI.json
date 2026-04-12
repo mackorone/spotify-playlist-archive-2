@@ -1,12 +1,12 @@
 {
   "description": "This is Elliott Smith. The essential tracks, all in one playlist.",
-  "num_followers": 87376,
+  "num_followers": 87383,
   "original_name": "This Is Elliott Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adbsAAAAAACz/koPWe5UdxAs+iV5ag3v",
+  "snapshot_id": "adg9gAAAAAAgSy9AjKrX6dZnav6iggnX",
   "tracks": [
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "From a Basement on the Hill",
-        "url": "https://open.spotify.com/album/4YRoxHoDrGw0LI5rxDH9Dl"
+        "name": "Elliott Smith",
+        "url": "https://open.spotify.com/album/1nGWgkinMkmX7BlAuC4umM"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 269360,
-      "name": "Twilight",
-      "url": "https://open.spotify.com/track/51LWYJAmtqHLYOQD1BKG9X"
+      "duration_ms": 256586,
+      "name": "Needle in the Hay",
+      "url": "https://open.spotify.com/track/7I7O0huqjKrXHX0aaLuO5B"
     },
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Elliott Smith",
-        "url": "https://open.spotify.com/album/1nGWgkinMkmX7BlAuC4umM"
+        "name": "From a Basement on the Hill",
+        "url": "https://open.spotify.com/album/4YRoxHoDrGw0LI5rxDH9Dl"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 256586,
-      "name": "Needle in the Hay",
-      "url": "https://open.spotify.com/track/7I7O0huqjKrXHX0aaLuO5B"
+      "duration_ms": 269360,
+      "name": "Twilight",
+      "url": "https://open.spotify.com/track/51LWYJAmtqHLYOQD1BKG9X"
     },
     {
       "added_at": null,
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 230573,
-      "name": "Half Right",
-      "url": "https://open.spotify.com/track/1mOR1rwZ9YDGfzVjczYXXV"
+      "duration_ms": 204573,
+      "name": "Pretty Mary K - Other Version",
+      "url": "https://open.spotify.com/track/5m80zPT09wNZd3MO7flmEv"
     },
     {
       "added_at": null,
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 204573,
-      "name": "Pretty Mary K - Other Version",
-      "url": "https://open.spotify.com/track/5m80zPT09wNZd3MO7flmEv"
+      "duration_ms": 230573,
+      "name": "Half Right",
+      "url": "https://open.spotify.com/track/1mOR1rwZ9YDGfzVjczYXXV"
     },
     {
       "added_at": null,

@@ -2433,6 +2433,24 @@
     },
     {
       "album": {
+        "name": "ASLAN YAKI\u015eMAZ KAFESTE",
+        "url": "https://open.spotify.com/album/2WfdMP5Y3GtlBO857nvF7a"
+      },
+      "artists": [
+        {
+          "name": "Keskin",
+          "url": "https://open.spotify.com/artist/76gCQtIoyzxs0HDKIyQC66"
+        }
+      ],
+      "date_added": "2026-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118474,
+      "name": "ASLAN YAKI\u015eMAZ KAFESTE",
+      "url": "https://open.spotify.com/track/3bfcPN5EAU1CzXIGaWBaUR"
+    },
+    {
+      "album": {
         "name": "Asosyal",
         "url": "https://open.spotify.com/album/1LM0lpge7aGKOfWJdk3rMK"
       },
@@ -6186,7 +6204,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-10",
+      "date_removed": null,
       "duration_ms": 163200,
       "name": "BYE BYE",
       "url": "https://open.spotify.com/track/63tBXIkHpGP99Powr8UxBv"
@@ -11606,7 +11624,7 @@
       ],
       "date_added": "2025-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 168774,
       "name": "G\u00fcld\u00fc\u011f\u00fcn G\u00fcn",
       "url": "https://open.spotify.com/track/4SCe7B8JmbXrrSxphhddPo"
@@ -12244,7 +12262,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 153956,
       "name": "HAN\u0130",
       "url": "https://open.spotify.com/track/2XvD5yqFAQspc5gIKXqfsA"
@@ -15466,7 +15484,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-11",
+      "date_removed": null,
       "duration_ms": 152888,
       "name": "Kalbini Verdin",
       "url": "https://open.spotify.com/track/5xcscm6LaaOxFZ4J5NZ7BQ"
@@ -16232,7 +16250,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 207253,
       "name": "Ke\u015fke",
       "url": "https://open.spotify.com/track/1horGWxHKfwctCKdHwrO0n"
@@ -16778,7 +16796,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-10",
+      "date_removed": null,
       "duration_ms": 328440,
       "name": "Kur\u015fun Adres Sormaz Ki",
       "url": "https://open.spotify.com/track/7rCJlWtpNCwegGXECRLwnk"
@@ -17148,6 +17166,28 @@
       "duration_ms": 139047,
       "name": "La La La",
       "url": "https://open.spotify.com/track/3blRKhNNedjdZFR0b9Wtxw"
+    },
+    {
+      "album": {
+        "name": "Labirent",
+        "url": "https://open.spotify.com/album/3UbHNfhM2RXE6GN27HPuEn"
+      },
+      "artists": [
+        {
+          "name": "Hadise",
+          "url": "https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49"
+        },
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+        }
+      ],
+      "date_added": "2026-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190080,
+      "name": "Labirent",
+      "url": "https://open.spotify.com/track/2mssGi7e5Aac72PxoOGhLp"
     },
     {
       "album": {
@@ -18886,7 +18926,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 152207,
       "name": "Me\u011ferse",
       "url": "https://open.spotify.com/track/5YWSiU0ouDolW864L6HDJh"
@@ -19404,10 +19444,32 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 114174,
       "name": "NAF\u0130LE",
       "url": "https://open.spotify.com/track/5uiLK7FAZIObaJEMNAHPy3"
+    },
+    {
+      "album": {
+        "name": "NAF\u0130LE",
+        "url": "https://open.spotify.com/album/0d5fkTh2cdJAgY1hSiwKyK"
+      },
+      "artists": [
+        {
+          "name": "ERAY067",
+          "url": "https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT"
+        },
+        {
+          "name": "Mansur",
+          "url": "https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm"
+        }
+      ],
+      "date_added": "2026-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114174,
+      "name": "NAF\u0130LE",
+      "url": "https://open.spotify.com/track/6za5uNOnbaJ2nsW0HiMCCF"
     },
     {
       "album": {
@@ -26742,7 +26804,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 226768,
       "name": "Yaln\u0131zl\u0131\u011f\u0131n \u00c7aresini Bulmu\u015flar",
       "url": "https://open.spotify.com/track/3jW5r9FkxQuouF9sMSw2hb"

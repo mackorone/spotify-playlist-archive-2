@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 900 likes - 137 songs - 8 hr 26 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 902 likes - 140 songs - 8 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -145,5 +145,8 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 135 | [Crushwhore](https://open.spotify.com/track/3g9dkoiaCGaaAAX8WS88c5) | [moberod](https://open.spotify.com/artist/49lLlq5yOsfgHQnypG2Cdd) | [Learning It the Hard Way](https://open.spotify.com/album/6h3qBmbL2n3vFtfYF9G9uq) | 3:38 |
 | 136 | [Deep Cut](https://open.spotify.com/track/02bk2a5aKm03H9AeQQKQi7) | [Southern States](https://open.spotify.com/artist/2hpxrkZg9qkbadFtXnD0g2) | [Deep Cut EP](https://open.spotify.com/album/3KGDNN12K38UHMMK2Y9zRd) | 2:26 |
 | 137 | [Tonight](https://open.spotify.com/track/6bGdPY1JouZH9X6vfRw5wT) | [LOWSTONE](https://open.spotify.com/artist/6k0RzhlZFShZMv5nMdX6tI) | [Tonight](https://open.spotify.com/album/3UvJthTugKEgXskFI5pmR6) | 5:56 |
+| 138 | [Hunt Me Down](https://open.spotify.com/track/0b2RimjmoPFCqXvppAZeAq) | [Forestt Light](https://open.spotify.com/artist/1dQO7ovsxueUnTvuQril35) | [Hunt Me Down](https://open.spotify.com/album/6FdekhGJLX3juBXFgSqyvh) | 3:57 |
+| 139 | [Don't Call](https://open.spotify.com/track/6mezWgu1bwXF0AUsbJOIhe) | [Royal Fools](https://open.spotify.com/artist/4OQMfxWWXrkJJlIuUfkrC8) | [PROM](https://open.spotify.com/album/1fWnNXEHS7MeHzh5aoG2pg) | 2:18 |
+| 140 | [Down and Out](https://open.spotify.com/track/4FijKBMTSLv63uXNh3qM1e) | [White Star Line](https://open.spotify.com/artist/3qDMmbHoQIpMvNuOzyazsh) | [Down and Out](https://open.spotify.com/album/6Hg0NRmmjjjjaBKYqG3nGh) | 3:42 |
 
-Snapshot ID: `AAAFtArLysqoL7ar31YL8y52dTS2HHwH`
+Snapshot ID: `AAAFt99Z4yBLULqlMVC3nFRX4F4fc3zV`

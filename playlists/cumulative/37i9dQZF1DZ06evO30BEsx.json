@@ -937,6 +937,36 @@
     },
     {
       "album": {
+        "name": "Elgar & Walton: Cello Concertos",
+        "url": "https://open.spotify.com/album/0apsTmjAkVs4ks2tfXIDOs"
+      },
+      "artists": [
+        {
+          "name": "Edward Elgar",
+          "url": "https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Antonio Pappano",
+          "url": "https://open.spotify.com/artist/0xHw5qPRSEc8sUmSmXf5sw"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "date_added": "2026-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 485026,
+      "name": "Elgar: Cello Concerto in E Minor, Op. 85: I. Adagio - Moderato",
+      "url": "https://open.spotify.com/track/1xF2NucEGH7ENxEyKXW2xk"
+    },
+    {
+      "album": {
         "name": "Elgar: Cello Concerto in E Minor, Op. 85: III. Adagio",
         "url": "https://open.spotify.com/album/5GRQgouohxuDxhd6ujam3d"
       },
@@ -2262,7 +2292,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 200360,
       "name": "Towards the Light",
       "url": "https://open.spotify.com/track/4SG9kgdc4zEjSl0qMcobUb"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > hyper\_sleaze.electro\-glitch.wiredheadphones.v2008.zip.\[FINAL\]\_\[REAL\]\_\_coverartist.Slayyyter
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,362,228 likes - 75 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,362,180 likes - 75 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

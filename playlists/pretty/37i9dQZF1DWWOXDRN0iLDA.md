@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOXDRN0iLDA.md) - [plain]
 
 > soft ambient + bird song for spring study sessions 🦜🌿 🌷
 
-[Spotify](https://open.spotify.com/user/spotify) - 54 likes - 62 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 72 likes - 62 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOXDRN0iLDA.md) - [plain]
 | 61 | [Far Away](https://open.spotify.com/track/3vnJ6sp5LZC3FrvWovd1Bn) | [Ani](https://open.spotify.com/artist/3W5apiMDqy6v6ai4tP3SkX) | [Far Away](https://open.spotify.com/album/1i1qbq7Toqfq84FClzRrUK) | 2:49 |
 | 62 | [and finally, we reach the summit](https://open.spotify.com/track/5H3eECDA7nMacVuqr5At31) | [rhubiqs](https://open.spotify.com/artist/5RQkuHg4XctV2O1tsIvOkT), [Good Weather For An Airstrike](https://open.spotify.com/artist/1LcsFT5fwJajcpAqmlitHX) | [AV // TH](https://open.spotify.com/album/452uPYouELxWeqwyap8Dyj) | 3:47 |
 
-Snapshot ID: `AAAAAIdp3USY8etToQ8EpFHEVS4rRrC/`
+Snapshot ID: `AAAAAMAam2pd7es1wbuIk0JC9TLsuM6V`

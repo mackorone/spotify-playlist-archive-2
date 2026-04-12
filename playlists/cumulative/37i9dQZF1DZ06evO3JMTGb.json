@@ -677,6 +677,42 @@
     },
     {
       "album": {
+        "name": "Planetes",
+        "url": "https://open.spotify.com/album/7mgSukUn1BYjvnzNWCruCf"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        }
+      ],
+      "date_added": "2026-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311079,
+      "name": "Return from Silence",
+      "url": "https://open.spotify.com/track/2ZRQeRdVWghcc42LGUEWUN"
+    },
+    {
+      "album": {
+        "name": "Planetes",
+        "url": "https://open.spotify.com/album/7mgSukUn1BYjvnzNWCruCf"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        }
+      ],
+      "date_added": "2026-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 432106,
+      "name": "Reverie",
+      "url": "https://open.spotify.com/track/6npTUba77dx5CHI2nN3lfZ"
+    },
+    {
+      "album": {
         "name": "2nd Quake",
         "url": "https://open.spotify.com/album/0e7lXXUdpt9aBP6neNLolB"
       },

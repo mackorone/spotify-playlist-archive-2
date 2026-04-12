@@ -815,6 +815,24 @@
     },
     {
       "album": {
+        "name": "Birds In The Cul-De-Sac",
+        "url": "https://open.spotify.com/album/7sUigBnrLRsr8JD3oCVNfq"
+      },
+      "artists": [
+        {
+          "name": "Nature Dreams",
+          "url": "https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65882,
+      "name": "Birds In The Cul-De-Sac",
+      "url": "https://open.spotify.com/track/6Vv7pOvG9e8zFWOwIKJTqA"
+    },
+    {
+      "album": {
         "name": "Blooming Flowers",
         "url": "https://open.spotify.com/album/041bD9COQS0TGAsZCNFUJg"
       },
@@ -2350,6 +2368,24 @@
       "duration_ms": 184468,
       "name": "Eternally",
       "url": "https://open.spotify.com/track/6ee3Zz8m66BxfnB4ARUWSA"
+    },
+    {
+      "album": {
+        "name": "Everbound",
+        "url": "https://open.spotify.com/album/173m3DmZedeHBdzJFY6Sws"
+      },
+      "artists": [
+        {
+          "name": "Lore",
+          "url": "https://open.spotify.com/artist/5iAmH8roFlCIzK73jFSV5G"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174705,
+      "name": "Everbound",
+      "url": "https://open.spotify.com/track/3ukMCHjdNl8qExi9R9cydc"
     },
     {
       "album": {
@@ -5414,7 +5450,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 183333,
       "name": "Of Dreams",
       "url": "https://open.spotify.com/track/5NNzFE3bBtnld4aCc6cg3s"
@@ -8280,7 +8316,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 158000,
       "name": "Thought Blanket (Spa)",
       "url": "https://open.spotify.com/track/3CRamP6ljvQYdmN5w1afQg"

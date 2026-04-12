@@ -1,6 +1,6 @@
 {
-  "description": "Le meilleur du rock fran\u00e7ais moderne. Photo : Last Train",
-  "num_followers": 56778,
+  "description": "Le meilleur du rock fran\u00e7ais moderne. Photo : Saez",
+  "num_followers": 56794,
   "original_name": "G\u00e9n\u00e9ration Rock Fran\u00e7ais",
   "owner": {
     "name": "Spotify",
@@ -607,22 +607,6 @@
     {
       "added_at": "2025-11-13 09:07:41",
       "album": {
-        "name": "Notre Epoque",
-        "url": "https://open.spotify.com/album/3nKsRvwwToIvCoodMywDeo"
-      },
-      "artists": [
-        {
-          "name": "Tarmac",
-          "url": "https://open.spotify.com/artist/7jj1zcBEwp0Joqfb9Bdk7J"
-        }
-      ],
-      "duration_ms": 214666,
-      "name": "Notre Epoque",
-      "url": "https://open.spotify.com/track/0tas4ZLkePk8aTjt5eesp6"
-    },
-    {
-      "added_at": "2025-11-13 09:07:41",
-      "album": {
         "name": "La t\u00eate en arri\u00e8re",
         "url": "https://open.spotify.com/album/69kNfBXJtvtkIm4PJUYrL2"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 188280,
       "name": "Soledad",
       "url": "https://open.spotify.com/track/2HGJqKtabrDzhXrWw1RylG"
+    },
+    {
+      "added_at": "2025-11-13 09:07:41",
+      "album": {
+        "name": "Notre Epoque",
+        "url": "https://open.spotify.com/album/3nKsRvwwToIvCoodMywDeo"
+      },
+      "artists": [
+        {
+          "name": "Tarmac",
+          "url": "https://open.spotify.com/artist/7jj1zcBEwp0Joqfb9Bdk7J"
+        }
+      ],
+      "duration_ms": 214666,
+      "name": "Notre Epoque",
+      "url": "https://open.spotify.com/track/0tas4ZLkePk8aTjt5eesp6"
     },
     {
       "added_at": "2025-11-13 09:07:41",

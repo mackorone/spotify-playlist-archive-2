@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > The Strokes, Lady Gaga x Doechii et Gradur x Ninho au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 403,055 likes - 97 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 403,027 likes - 97 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 24 | [Madwoman](https://open.spotify.com/track/0UqHzMvRQnaOXEPKgFVhxN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time: The Final Hour](https://open.spotify.com/album/4DWK6TLXHl1fly2zi5RlO7) | 3:59 |
 | 25 | [Where We Go](https://open.spotify.com/track/1aHAmd4iXRRkXIrTJwKncm) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Where We Go](https://open.spotify.com/album/6NtERYanUda0B8Oh1LI1LE) | 3:16 |
 | 26 | [MINK SB \(feat\. Skepta, Lojay & Skillibeng\)](https://open.spotify.com/track/7M0LA37GOq8SAUX4TWWHov) | [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [MINK SB \(feat\. Skepta, Lojay & Skillibeng\)](https://open.spotify.com/album/59Fs0w068THGXqx33PzCr7) | 3:04 |
-| 27 | [La vida loca](https://open.spotify.com/track/74vHwfc0huNsTubsZMqtj4) | [LUIZA](https://open.spotify.com/artist/3K5sYlHk7RZimjYhUWej8D) | [Luiza](https://open.spotify.com/album/5nEO73oNBTQBDq3qdYpnov) | 3:06 |
+| 27 | [La Vida Loca](https://open.spotify.com/track/74vHwfc0huNsTubsZMqtj4) | [LUIZA](https://open.spotify.com/artist/3K5sYlHk7RZimjYhUWej8D) | [Luiza](https://open.spotify.com/album/5nEO73oNBTQBDq3qdYpnov) | 3:06 |
 | 28 | [Back and Forth \(feat\. Missy Elliott\)](https://open.spotify.com/track/6t263UZVjI9nnHfr7eeLW4) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Back and Forth \(feat\. Missy Elliott\)](https://open.spotify.com/album/3yb1H4Mf6annZTGWpmAoCW) | 3:34 |
 | 29 | [Sick Of Love](https://open.spotify.com/track/6aPG5Atb3L3l8pZYzLrpEi) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Sick Of Love](https://open.spotify.com/album/2ETP833yyVmqvtnbnRHtxb) | 3:36 |
 | 30 | [Vem Comigo](https://open.spotify.com/track/3zr7VbJvavpspJF2JipvQ1) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Olive Anguz](https://open.spotify.com/artist/3d0AuH83bH58zFUU7Z1hMk), [Project Zeitgeist](https://open.spotify.com/artist/6Fryg7OCCsApuKUvkcGVg3) | [Vem Comigo](https://open.spotify.com/album/324AIUKj8Q96Ir66ng7SmX) | 3:27 |

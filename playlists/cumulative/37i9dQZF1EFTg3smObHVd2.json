@@ -549,6 +549,24 @@
     },
     {
       "album": {
+        "name": "Gentleman",
+        "url": "https://open.spotify.com/album/1zjogtorX0HTkEfUQ1zot7"
+      },
+      "artists": [
+        {
+          "name": "Budjerah",
+          "url": "https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE"
+        }
+      ],
+      "date_added": "2026-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215602,
+      "name": "Gentleman",
+      "url": "https://open.spotify.com/track/6URTOfc0nxjdDOW78EpWSR"
+    },
+    {
+      "album": {
         "name": "A Residency in the Los Angeles Area",
         "url": "https://open.spotify.com/album/2m3DTEZlDC9cnvTdCUJCTl"
       },

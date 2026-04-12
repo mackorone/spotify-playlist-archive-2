@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: ECCOS y Enoc Parra
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,960 likes - 100 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,017 likes - 100 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 16 | [Ola de Calma](https://open.spotify.com/track/4q9sQbwmCA95KNJNSXl27A) | [David Ordoñez](https://open.spotify.com/artist/2ObAn94Bm0Q9cSyryDKVI0), [Odanis BSK](https://open.spotify.com/artist/2equ79Fk9Rj9vmQsuJpIJ9) | [Ola de Calma](https://open.spotify.com/album/5oMkWlFJpUUwyJaT8kE3wE) | 3:24 |
 | 17 | [CONMIGO](https://open.spotify.com/track/24f4VVLrdfXkbhUVUu6WR0) | [Dabid Thomas](https://open.spotify.com/artist/6KoIvIn6MdHInLfcWc2MG9), [Un Despertar](https://open.spotify.com/artist/3ruAsG4cuZqtZP1VMEjMwf), [Karina Vanegas](https://open.spotify.com/artist/3UcmWUIhAfxtqY795aaAdz) | [CONMIGO](https://open.spotify.com/album/0G19WnNZqsPahdyR7hdkAZ) | 3:43 |
 | 18 | [Pa'lo](https://open.spotify.com/track/2oqI47IlhQBtTHWC290hyS) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd), [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu) | [Pa'lo](https://open.spotify.com/album/1hTF4RKnSZezjpLVv6Iif5) | 3:12 |
-| 19 | [Demasiado](https://open.spotify.com/track/4KIUGowU0SyDdLPd1jm2j3) | [Omy Alka](https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh) | [Demasiado](https://open.spotify.com/album/1U8QXZ7JrExeFYjQMoDsFy) | 3:10 |
+| 19 | [Demasiado](https://open.spotify.com/track/4KIUGowU0SyDdLPd1jm2j3) | [Omy Alka](https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh) | [Demasiado](https://open.spotify.com/album/1U8QXZ7JrExeFYjQMoDsFy) | 3:15 |
 | 20 | [Una Relación](https://open.spotify.com/track/5vrvE33c5uhVEa0h6v3BdP) | [Andrez Babii](https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8) | [Una Relación](https://open.spotify.com/album/4P1RKI70pI7ESRSwhlOzeI) | 2:21 |
 | 21 | [ALMA ENCENDIDA](https://open.spotify.com/track/2dhUA3sQUglSROt1QD5jmH) | [Liaz](https://open.spotify.com/artist/0gT1I8icNvTAd7KBPmSWXJ) | [ALMA ENCENDIDA](https://open.spotify.com/album/2KT7Matoj1OVdC0Ccrihaw) | 2:43 |
 | 22 | [GoPro](https://open.spotify.com/track/3bzuNTwr2K3f6hC0IfCNS9) | [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL), [Diamnd El Cientifico](https://open.spotify.com/artist/6cO9lHBHUhwyLxcEuasjWe), [Elikemusic](https://open.spotify.com/artist/1hBJVDA61cu2Svqxm2nMor) | [GoPro](https://open.spotify.com/album/7CrpeddJPgNGJv1BuJnoKC) | 2:22 |

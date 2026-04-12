@@ -1,6 +1,6 @@
 {
   "description": "No tags, no labels - just free form. Cover: BaggE",
-  "num_followers": 180620,
+  "num_followers": 180630,
   "original_name": "Free Form",
   "owner": {
     "name": "Spotify",
@@ -155,22 +155,6 @@
     {
       "added_at": "2026-04-09 23:00:27",
       "album": {
-        "name": "petal rock black",
-        "url": "https://open.spotify.com/album/055CZXcGINxmZKxwQ9hroP"
-      },
-      "artists": [
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 258228,
-      "name": "ear to the cocoon",
-      "url": "https://open.spotify.com/track/5tC7DM52PIElQGpxnRVK5m"
-    },
-    {
-      "added_at": "2026-04-09 23:00:27",
-      "album": {
         "name": "Come With Me (feat. Jorja Smith)",
         "url": "https://open.spotify.com/album/3UZXRGAsUy1h8XdLoclc26"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 214886,
       "name": "Come With Me (feat. Jorja Smith)",
       "url": "https://open.spotify.com/track/65CwK6coaH8GnQnatXnJDH"
+    },
+    {
+      "added_at": "2026-04-09 23:00:27",
+      "album": {
+        "name": "petal rock black",
+        "url": "https://open.spotify.com/album/055CZXcGINxmZKxwQ9hroP"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 258228,
+      "name": "ear to the cocoon",
+      "url": "https://open.spotify.com/track/5tC7DM52PIElQGpxnRVK5m"
     },
     {
       "added_at": "2026-04-09 23:00:27",
@@ -243,26 +243,6 @@
     {
       "added_at": "2026-04-09 23:00:27",
       "album": {
-        "name": "Miss You",
-        "url": "https://open.spotify.com/album/1SdzUAaeUy54xHAgWo2Gcg"
-      },
-      "artists": [
-        {
-          "name": "Ms Ray",
-          "url": "https://open.spotify.com/artist/1OwAcRe2gUEpDZhLAkiLRp"
-        },
-        {
-          "name": "Nourished by Time",
-          "url": "https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g"
-        }
-      ],
-      "duration_ms": 224826,
-      "name": "Miss You",
-      "url": "https://open.spotify.com/track/6JSb9ZQroda8Lgd4rF8o60"
-    },
-    {
-      "added_at": "2026-04-09 23:00:27",
-      "album": {
         "name": "wHIMSY",
         "url": "https://open.spotify.com/album/4JbxuyZJlpIyvXhVCRoq9E"
       },
@@ -279,6 +259,26 @@
       "duration_ms": 193714,
       "name": "wASH U AWAY",
       "url": "https://open.spotify.com/track/6rrv9Ye4cQSGAjSSZOYp1x"
+    },
+    {
+      "added_at": "2026-04-09 23:00:27",
+      "album": {
+        "name": "Miss You",
+        "url": "https://open.spotify.com/album/1SdzUAaeUy54xHAgWo2Gcg"
+      },
+      "artists": [
+        {
+          "name": "Ms Ray",
+          "url": "https://open.spotify.com/artist/1OwAcRe2gUEpDZhLAkiLRp"
+        },
+        {
+          "name": "Nourished by Time",
+          "url": "https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g"
+        }
+      ],
+      "duration_ms": 224826,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/6JSb9ZQroda8Lgd4rF8o60"
     },
     {
       "added_at": "2026-04-09 23:00:27",
@@ -351,22 +351,6 @@
     {
       "added_at": "2026-04-09 23:00:27",
       "album": {
-        "name": "PROMISE",
-        "url": "https://open.spotify.com/album/7oWYUxwVjjoegzzbFGbLQV"
-      },
-      "artists": [
-        {
-          "name": "DAMEDAME*",
-          "url": "https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11"
-        }
-      ],
-      "duration_ms": 223738,
-      "name": "PROMISE",
-      "url": "https://open.spotify.com/track/7Fs6E2JVl6LthzLgFcrx4r"
-    },
-    {
-      "added_at": "2026-04-09 23:00:27",
-      "album": {
         "name": "LOVE ON DIGITAL",
         "url": "https://open.spotify.com/album/7ChitlgU5oFgKmjLtViJ8K"
       },
@@ -387,6 +371,22 @@
     {
       "added_at": "2026-04-09 23:00:27",
       "album": {
+        "name": "PROMISE",
+        "url": "https://open.spotify.com/album/7oWYUxwVjjoegzzbFGbLQV"
+      },
+      "artists": [
+        {
+          "name": "DAMEDAME*",
+          "url": "https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11"
+        }
+      ],
+      "duration_ms": 223738,
+      "name": "PROMISE",
+      "url": "https://open.spotify.com/track/7Fs6E2JVl6LthzLgFcrx4r"
+    },
+    {
+      "added_at": "2026-04-09 23:00:27",
+      "album": {
         "name": "Sweetie",
         "url": "https://open.spotify.com/album/0vDhIEFfkP8uURlzIdBi36"
       },
@@ -399,6 +399,26 @@
       "duration_ms": 244049,
       "name": "Sweetie",
       "url": "https://open.spotify.com/track/5rffvBl5fCAGCW6hdTZ3q9"
+    },
+    {
+      "added_at": "2026-04-09 23:00:27",
+      "album": {
+        "name": "Love Hate (feat. Thomas Day)",
+        "url": "https://open.spotify.com/album/0tLM5uck8tjqqvgagX4I1p"
+      },
+      "artists": [
+        {
+          "name": "Master Peace",
+          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
+        },
+        {
+          "name": "Thomas Day",
+          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
+        }
+      ],
+      "duration_ms": 192075,
+      "name": "Love Hate (feat. Thomas Day)",
+      "url": "https://open.spotify.com/track/1ysnEi1bFBkn0aCQFPh8gY"
     },
     {
       "added_at": "2026-04-09 23:00:27",
@@ -579,26 +599,6 @@
     {
       "added_at": "2026-04-09 23:00:27",
       "album": {
-        "name": "On My Way",
-        "url": "https://open.spotify.com/album/1A2jIqCVzhGJXh5oTPia4H"
-      },
-      "artists": [
-        {
-          "name": "Pitch 92",
-          "url": "https://open.spotify.com/artist/0LjApYPFAPUvMYMb1gFJrc"
-        },
-        {
-          "name": "JayaHadADream",
-          "url": "https://open.spotify.com/artist/1Zr6I0quVpqoCSTs6TRCpo"
-        }
-      ],
-      "duration_ms": 144705,
-      "name": "On My Way",
-      "url": "https://open.spotify.com/track/29hXJp6z4uPKnNmdXF1HcO"
-    },
-    {
-      "added_at": "2026-04-09 23:00:27",
-      "album": {
         "name": "Azimuth",
         "url": "https://open.spotify.com/album/7ICY4AzOwrAx2WkPYZmSrA"
       },
@@ -615,6 +615,26 @@
       "duration_ms": 266719,
       "name": "Azimuth",
       "url": "https://open.spotify.com/track/0IbfVp3NAjPFW5NpA9e2I3"
+    },
+    {
+      "added_at": "2026-04-09 23:00:27",
+      "album": {
+        "name": "On My Way",
+        "url": "https://open.spotify.com/album/1A2jIqCVzhGJXh5oTPia4H"
+      },
+      "artists": [
+        {
+          "name": "Pitch 92",
+          "url": "https://open.spotify.com/artist/0LjApYPFAPUvMYMb1gFJrc"
+        },
+        {
+          "name": "JayaHadADream",
+          "url": "https://open.spotify.com/artist/1Zr6I0quVpqoCSTs6TRCpo"
+        }
+      ],
+      "duration_ms": 144705,
+      "name": "On My Way",
+      "url": "https://open.spotify.com/track/29hXJp6z4uPKnNmdXF1HcO"
     },
     {
       "added_at": "2026-04-09 23:00:27",
@@ -703,6 +723,22 @@
     {
       "added_at": "2026-04-09 23:00:27",
       "album": {
+        "name": "Naturally",
+        "url": "https://open.spotify.com/album/7gJC1w5cF7GQXBzTal3XTQ"
+      },
+      "artists": [
+        {
+          "name": "Nectar Woode",
+          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
+        }
+      ],
+      "duration_ms": 151640,
+      "name": "Naturally",
+      "url": "https://open.spotify.com/track/1Mny3onDz12YDgSUXkGfET"
+    },
+    {
+      "added_at": "2026-04-09 23:00:27",
+      "album": {
         "name": "The Way I Love You",
         "url": "https://open.spotify.com/album/30XJtJhtrYMbsBnSmMS8iA"
       },
@@ -735,6 +771,22 @@
     {
       "added_at": "2026-04-09 23:00:27",
       "album": {
+        "name": "the beginning of the end",
+        "url": "https://open.spotify.com/album/3ZBg25ekvOHG3jG6nIHQqc"
+      },
+      "artists": [
+        {
+          "name": "hemlocke springs",
+          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
+        }
+      ],
+      "duration_ms": 171810,
+      "name": "the beginning of the end",
+      "url": "https://open.spotify.com/track/3LcxAYnhIVamB09yYzJR7n"
+    },
+    {
+      "added_at": "2026-04-09 23:00:27",
+      "album": {
         "name": "JIGGY",
         "url": "https://open.spotify.com/album/6ufPPtJ4nLKEc1wAZI8IOe"
       },
@@ -751,22 +803,6 @@
       "duration_ms": 141170,
       "name": "JIGGY",
       "url": "https://open.spotify.com/track/3bwSYqsCf1FLQ3bZN8zepl"
-    },
-    {
-      "added_at": "2026-04-09 23:00:27",
-      "album": {
-        "name": "the beginning of the end",
-        "url": "https://open.spotify.com/album/3ZBg25ekvOHG3jG6nIHQqc"
-      },
-      "artists": [
-        {
-          "name": "hemlocke springs",
-          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
-        }
-      ],
-      "duration_ms": 171810,
-      "name": "the beginning of the end",
-      "url": "https://open.spotify.com/track/3LcxAYnhIVamB09yYzJR7n"
     },
     {
       "added_at": "2026-04-09 23:00:27",
@@ -859,54 +895,6 @@
     {
       "added_at": "2026-04-09 23:00:27",
       "album": {
-        "name": "AMANZI",
-        "url": "https://open.spotify.com/album/1KCg6ZTO1YMCRqjJecxXPS"
-      },
-      "artists": [
-        {
-          "name": "AMANZI",
-          "url": "https://open.spotify.com/artist/2JntGPQDmz3Lm0m3C7OEm4"
-        }
-      ],
-      "duration_ms": 192018,
-      "name": "Give Us Some Time",
-      "url": "https://open.spotify.com/track/1rVAuA1iGNTOUOLbLg0HtS"
-    },
-    {
-      "added_at": "2026-04-09 23:00:27",
-      "album": {
-        "name": "Figures On The Wall",
-        "url": "https://open.spotify.com/album/6hY9QAvmK9VgXrknFcLFqi"
-      },
-      "artists": [
-        {
-          "name": "MOIO",
-          "url": "https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb"
-        }
-      ],
-      "duration_ms": 182546,
-      "name": "Figures On The Wall",
-      "url": "https://open.spotify.com/track/5gtVkK1PFQ7kMDfddHxMuH"
-    },
-    {
-      "added_at": "2026-04-09 23:00:27",
-      "album": {
-        "name": "Angel Patience",
-        "url": "https://open.spotify.com/album/38M9Upz2H2raj01spTcwRp"
-      },
-      "artists": [
-        {
-          "name": "Olympia Vitalis",
-          "url": "https://open.spotify.com/artist/2hGdIKyNUkvMzSxllWksAt"
-        }
-      ],
-      "duration_ms": 213688,
-      "name": "Angel Patience",
-      "url": "https://open.spotify.com/track/3QquNL6YhignMnpVNHotO7"
-    },
-    {
-      "added_at": "2026-04-09 23:00:27",
-      "album": {
         "name": "DON'T TOUCH THE CDJ",
         "url": "https://open.spotify.com/album/6AtBMCTUBlu8w8NPqpe8xz"
       },
@@ -927,6 +915,54 @@
     {
       "added_at": "2026-04-09 23:00:27",
       "album": {
+        "name": "AMANZI",
+        "url": "https://open.spotify.com/album/1KCg6ZTO1YMCRqjJecxXPS"
+      },
+      "artists": [
+        {
+          "name": "AMANZI",
+          "url": "https://open.spotify.com/artist/2JntGPQDmz3Lm0m3C7OEm4"
+        }
+      ],
+      "duration_ms": 192018,
+      "name": "Give Us Some Time",
+      "url": "https://open.spotify.com/track/1rVAuA1iGNTOUOLbLg0HtS"
+    },
+    {
+      "added_at": "2026-04-09 23:00:27",
+      "album": {
+        "name": "Angel Patience",
+        "url": "https://open.spotify.com/album/38M9Upz2H2raj01spTcwRp"
+      },
+      "artists": [
+        {
+          "name": "Olympia Vitalis",
+          "url": "https://open.spotify.com/artist/2hGdIKyNUkvMzSxllWksAt"
+        }
+      ],
+      "duration_ms": 213688,
+      "name": "Angel Patience",
+      "url": "https://open.spotify.com/track/3QquNL6YhignMnpVNHotO7"
+    },
+    {
+      "added_at": "2026-04-09 23:00:27",
+      "album": {
+        "name": "Figures On The Wall",
+        "url": "https://open.spotify.com/album/6hY9QAvmK9VgXrknFcLFqi"
+      },
+      "artists": [
+        {
+          "name": "MOIO",
+          "url": "https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb"
+        }
+      ],
+      "duration_ms": 182546,
+      "name": "Figures On The Wall",
+      "url": "https://open.spotify.com/track/5gtVkK1PFQ7kMDfddHxMuH"
+    },
+    {
+      "added_at": "2026-04-09 23:00:27",
+      "album": {
         "name": "Self Titled",
         "url": "https://open.spotify.com/album/4yRTZSqafx7hhRELaOHU4o"
       },
@@ -939,6 +975,22 @@
       "duration_ms": 190413,
       "name": "Sunshine On Catford",
       "url": "https://open.spotify.com/track/6EWH3LNszyqxW9eo6PdByl"
+    },
+    {
+      "added_at": "2026-04-09 23:00:27",
+      "album": {
+        "name": "AppleBottomCigarets",
+        "url": "https://open.spotify.com/album/44zWEXs4rEHQotlWwVZKV1"
+      },
+      "artists": [
+        {
+          "name": "KhakiKid",
+          "url": "https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp"
+        }
+      ],
+      "duration_ms": 146312,
+      "name": "AppleBottomCigarets",
+      "url": "https://open.spotify.com/track/642SEZ5hpoVs5TAg5hTadC"
     },
     {
       "added_at": "2026-04-09 23:00:27",
@@ -999,22 +1051,6 @@
     {
       "added_at": "2026-04-09 23:00:27",
       "album": {
-        "name": "AppleBottomCigarets",
-        "url": "https://open.spotify.com/album/44zWEXs4rEHQotlWwVZKV1"
-      },
-      "artists": [
-        {
-          "name": "KhakiKid",
-          "url": "https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp"
-        }
-      ],
-      "duration_ms": 146312,
-      "name": "AppleBottomCigarets",
-      "url": "https://open.spotify.com/track/642SEZ5hpoVs5TAg5hTadC"
-    },
-    {
-      "added_at": "2026-04-09 23:00:27",
-      "album": {
         "name": "Avoid The Drones & 9 Months",
         "url": "https://open.spotify.com/album/48h66y6JPTB4ie6wMDl9Lc"
       },
@@ -1047,26 +1083,6 @@
     {
       "added_at": "2026-04-09 23:00:27",
       "album": {
-        "name": "Glaze",
-        "url": "https://open.spotify.com/album/2P84jHNs5YMCuLw3uX8ZLM"
-      },
-      "artists": [
-        {
-          "name": "Tora-i",
-          "url": "https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z"
-        },
-        {
-          "name": "EMIL",
-          "url": "https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb"
-        }
-      ],
-      "duration_ms": 163494,
-      "name": "Glaze",
-      "url": "https://open.spotify.com/track/6mfokGkQnfHkrizH9s2FYu"
-    },
-    {
-      "added_at": "2026-04-09 23:00:27",
-      "album": {
         "name": "Ode To Friend",
         "url": "https://open.spotify.com/album/4JqxoQZmtPSo2OPIWIEbsr"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 209000,
       "name": "Ode To Friend",
       "url": "https://open.spotify.com/track/51h16aD5I2qGmuE46fYKjz"
-    },
-    {
-      "added_at": "2026-04-09 23:00:27",
-      "album": {
-        "name": "HIGH",
-        "url": "https://open.spotify.com/album/0M2wuRfrnrfM9QWLmMtEnr"
-      },
-      "artists": [
-        {
-          "name": "Malaki",
-          "url": "https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF"
-        }
-      ],
-      "duration_ms": 216621,
-      "name": "HIGH",
-      "url": "https://open.spotify.com/track/70rtaYi2AprbjQQCz8rgTF"
     }
   ],
   "unique_name": "Free Form",

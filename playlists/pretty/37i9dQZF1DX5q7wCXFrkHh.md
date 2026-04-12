@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q7wCXFrkHh.md) - [plain]
 
 > The classic piano recordings in Jazz\. Cover: Oscar Peterson
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,265 likes - 100 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,348 likes - 100 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q7wCXFrkHh.md) - [plain]
 | 40 | [I Can't Give You Anything But Love](https://open.spotify.com/track/04md2B5nmsojIkTSUWff2C) | [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG), [Art Taylor](https://open.spotify.com/artist/3CsHGnB9qK3KYH7xmyGAGX) | [Red Garland's Piano](https://open.spotify.com/album/1Lrt5saApIz6z8dGmyKB7d) | 5:01 |
 | 41 | [Milestones](https://open.spotify.com/track/1FSf2JmNY7qCq5GK8ZB67w) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Waltz For Debby \(Original Jazz Classics Remaster 2010\)](https://open.spotify.com/album/0MjlKhtsyax9HSWNkYaWM2) | 6:32 |
 | 42 | [I'm in a Dancing Mood](https://open.spotify.com/track/3DkdldkTR0pbVYKMg5eXJO) | [Dave Brubeck](https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E) | [Dave Brubeck's Greatest Hits](https://open.spotify.com/album/425dVE44lkA2a0FBI7MGLE) | 2:59 |
-| 43 | [In A Sentimental Mood](https://open.spotify.com/track/484SnsU9yGBsaHh9byM0AU) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Duke Plays Ellington](https://open.spotify.com/album/16DFutmQC0e4V8etsg5ZGG) | 2:32 |
-| 44 | [Swahililand](https://open.spotify.com/track/7qwuryqoBBEH56d3iEhIBO) | [Ahmad Jamal](https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O) | [Crystal](https://open.spotify.com/album/61tuvxkgsvrsRQmoMSu6YA) | 4:08 |
+| 43 | [Swahililand](https://open.spotify.com/track/7qwuryqoBBEH56d3iEhIBO) | [Ahmad Jamal](https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O) | [Crystal](https://open.spotify.com/album/61tuvxkgsvrsRQmoMSu6YA) | 4:08 |
+| 44 | [In A Sentimental Mood](https://open.spotify.com/track/484SnsU9yGBsaHh9byM0AU) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Duke Plays Ellington](https://open.spotify.com/album/16DFutmQC0e4V8etsg5ZGG) | 2:32 |
 | 45 | [On Green Dolphin Street](https://open.spotify.com/track/6sq2n7GBZHX3Z7MtdwYrlI) | [Wynton Kelly](https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0) | [Kelly Blue \(Keepnews Collection\)](https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B) | 4:44 |
 | 46 | [Looking Up](https://open.spotify.com/track/6i1WORWeJD92fYDhww2wYE) | [Michel Petrucciani](https://open.spotify.com/artist/13kHQ586h4Lm9iwVyS2b3K) | [Music](https://open.spotify.com/album/6TYjyPndfRAuYDTmiYIt2g) | 5:47 |
 | 47 | [Body and Soul](https://open.spotify.com/track/7IAFc5iQti2tzob7Uo7N1Y) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Monk's Dream](https://open.spotify.com/album/5VTlqV8lZH3YspQ1cDcjrL) | 4:28 |
@@ -70,9 +70,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q7wCXFrkHh.md) - [plain]
 | 60 | [Blind Man, Blind Man](https://open.spotify.com/track/7wzPJFQRgx0bsl8QYtIfWR) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [My Point Of View \(Expanded Edition\)](https://open.spotify.com/album/2d2kGgtdmuiBR7D9HsOJGh) | 8:19 |
 | 61 | [Angelo](https://open.spotify.com/track/57LtAkQYV0aD4ULVk9szkW) | [Shai Maestro](https://open.spotify.com/artist/0ctjXj4AKsMtj6Tsm0JzSj) | [Shai Maestro Trio](https://open.spotify.com/album/53LA5Radjeit5J77Ka1T0w) | 4:27 |
 | 62 | [High Wire](https://open.spotify.com/track/5L8yfDH7MIE7jWidHZPwBX) | [Erroll Garner](https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED) | [Ready Take One](https://open.spotify.com/album/2wWuVfDOvITHUmb0KDzbrM) | 3:47 |
-| 63 | [Elevation of Love](https://open.spotify.com/track/35CNi2g5eqqwvfoAdJtjpp) | [Esbjörn Svensson Trio](https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk) | [Seven Days of Falling](https://open.spotify.com/album/36M6vwSgrPqzUYYG4cKlIB) | 6:43 |
+| 63 | [52nd Street Theme](https://open.spotify.com/track/63AH56BdSoBHKJAnsB6KiR) | [Kenny Drew](https://open.spotify.com/artist/65uKPt40QH8dMBLuoJHPVY) | [Kenny Drew And His Progressive Piano](https://open.spotify.com/album/3xelKHGo8Hcp0Eml2S95pe) | 3:24 |
 | 64 | [Smoke Gets In Your Eyes](https://open.spotify.com/track/5nfWH9Vn6PIaUnf2a9VthM) | [Art Tatum](https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq) | [The Art Tatum Solo Masterpieces, Vol\. 7](https://open.spotify.com/album/7Dp502glaAEcu6WzJiR7jG) | 3:55 |
-| 65 | [52nd Street Theme](https://open.spotify.com/track/63AH56BdSoBHKJAnsB6KiR) | [Kenny Drew](https://open.spotify.com/artist/65uKPt40QH8dMBLuoJHPVY) | [Kenny Drew And His Progressive Piano](https://open.spotify.com/album/3xelKHGo8Hcp0Eml2S95pe) | 3:24 |
+| 65 | [Elevation of Love](https://open.spotify.com/track/35CNi2g5eqqwvfoAdJtjpp) | [Esbjörn Svensson Trio](https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk) | [Seven Days of Falling](https://open.spotify.com/album/36M6vwSgrPqzUYYG4cKlIB) | 6:43 |
 | 66 | [Blue Note Boogie](https://open.spotify.com/track/0EM6XvukQPiXdUY724xVyE) | [James P\. Johnson](https://open.spotify.com/artist/0BMlIte9CqjItQ6mh2GoGi) | [Blue Boogie: Boogie Woogie, Stride And The Piano Blues](https://open.spotify.com/album/6Lk9CyCY1xTs7ZpKaJ92z5) | 3:58 |
 | 67 | [Polka Dots And Moonbeams \- Remastered 1998 / Rudy Van Gelder Edition](https://open.spotify.com/track/7pKWTcPfT9mg2iAhobFHpS) | [Bud Powell](https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6) | [The Amazing Bud Powell, Vol\. 2 \(2001 RVG Edition\)](https://open.spotify.com/album/0g89pAOtXDdr9HfO79s5uM) | 4:04 |
 | 68 | [Little Girl Blue](https://open.spotify.com/track/2oNkZcL1A2rhRZ4yKKxxcF) | [John Lewis](https://open.spotify.com/artist/7G7zZjjTwBZ9vzaoogk95s) | [The John Lewis Piano](https://open.spotify.com/album/3TpGQijqIYEBpr1rAtYqeA) | 4:29 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q7wCXFrkHh.md) - [plain]
 | 96 | [They Didn't Believe Me](https://open.spotify.com/track/2FaUOm50kOFVAn388NGxAe) | [Bobby Timmons Trio](https://open.spotify.com/artist/47jpbb07933jSiHmir7yda) | [In Person](https://open.spotify.com/album/0lKhYEfTneqxxjLqs2jC24) | 6:47 |
 | 97 | [They Can't Take That Away From Me](https://open.spotify.com/track/0RWX4MAHKUvnnF2gGbMNtp) | [Duke Jordan](https://open.spotify.com/artist/27Zmfr3VpJSgOf8iyWiZzM) | [Duke Jordan Trio & Quintet](https://open.spotify.com/album/2GJjrrPo1zGXxrCiMdvWz8) | 4:34 |
 | 98 | [Hot Sauce](https://open.spotify.com/track/7CEyuSyDGpF2tQveDpoYza) | [Elmo Hope Trio](https://open.spotify.com/artist/07zkqgFs90uCQrG5CkL3ft) | [Trio And Quintet](https://open.spotify.com/album/2913MA0EdrVvj8wJkHYyEe) | 3:53 |
-| 99 | [Frankie and Johnnie](https://open.spotify.com/track/10ugsW7VNz3ePFqX4nsLHP) | [Earl Hines](https://open.spotify.com/artist/2mY5u4CceAPrpBnse1WpFr) | [Fatha](https://open.spotify.com/album/44GmAp9XFBoimjYya5tJzw) | 2:31 |
-| 100 | [My foolish heart](https://open.spotify.com/track/5dhgrt2is9rFBuEKtwBPdU) | [Horace Parlan](https://open.spotify.com/artist/413WfGS7CgAHEJD4DtAo3e) | [No Blues](https://open.spotify.com/album/1OEFn9mgfKhJRmnjWpu7tC) | 4:57 |
+| 99 | [My foolish heart](https://open.spotify.com/track/5dhgrt2is9rFBuEKtwBPdU) | [Horace Parlan](https://open.spotify.com/artist/413WfGS7CgAHEJD4DtAo3e) | [No Blues](https://open.spotify.com/album/1OEFn9mgfKhJRmnjWpu7tC) | 4:57 |
+| 100 | [Frankie and Johnnie](https://open.spotify.com/track/10ugsW7VNz3ePFqX4nsLHP) | [Earl Hines](https://open.spotify.com/artist/2mY5u4CceAPrpBnse1WpFr) | [Fatha](https://open.spotify.com/album/44GmAp9XFBoimjYya5tJzw) | 2:31 |
 
 Snapshot ID: `AAAAAHYrMf/XwTFLetw/EsXb1wAXMxbH`

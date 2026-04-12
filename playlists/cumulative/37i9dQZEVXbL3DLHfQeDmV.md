@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- United Kingdom.
 
-649 songs - 1 day 11 hr 5 min
+650 songs - 1 day 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,8 @@
 | [cheap talks](https://open.spotify.com/track/0SDqhvk0rm4HzgDASA4DGC) | [PET3RPUNX](https://open.spotify.com/artist/1Z0DRUany5l8E7J6XNRlmC) | [cheap talks](https://open.spotify.com/album/3l9rsUbLD9Q1tAz6drApCx) | 2:31 | 2025-12-04 | 2025-12-10 |
 | [cheap talks](https://open.spotify.com/track/3lYvI38cjz2EuENIFPvwZf) | [PET3RPUNX](https://open.spotify.com/artist/1Z0DRUany5l8E7J6XNRlmC) | [cheap talks](https://open.spotify.com/album/3K5nmo2BWqNsFGoYdnmoZN) | 2:31 | 2025-12-02 | 2025-12-11 |
 | [Choose the latter](https://open.spotify.com/track/28pc8L2UVMdbh4XN0DRqBR) | [Finn Wolfhard](https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG) | [Happy Birthday](https://open.spotify.com/album/5uQ0e1loxV2LcIIQRw0crF) | 2:42 | 2026-01-05 | 2026-01-17 |
-| [Choosin' Texas](https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Choosin' Texas](https://open.spotify.com/album/4ggV0IaczfDFjVSwBM8yvi) | 3:52 | 2025-11-04 |  |
+| [Choosin' Texas](https://open.spotify.com/track/7scFxt9VhL4FJwuPSfRlfN) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Dandelion](https://open.spotify.com/album/6nrtxtgaD9zSYBl9APvOCH) | 3:51 | 2026-04-11 |  |
+| [Choosin' Texas](https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Choosin' Texas](https://open.spotify.com/album/4ggV0IaczfDFjVSwBM8yvi) | 3:52 | 2025-11-04 | 2026-04-12 |
 | [Chy Cartier's Adlibs](https://open.spotify.com/track/6x3lgBSNS1URDeDZhTYyLO) | [Marnz Malone](https://open.spotify.com/artist/0mxo01LgzQUpNf8KFMGHe4), [Tunde](https://open.spotify.com/artist/0sOjyMhtDzH1DSvcPjVXsi) | [Yaqeen](https://open.spotify.com/album/6Dfh1h3bNM26MVj9Ou3ekB) | 2:32 | 2026-02-17 | 2026-02-22 |
 | [Cicada](https://open.spotify.com/track/1wCD215s6KtEg5PjXnCRej) | [Good Kid](https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP) | [Cicada](https://open.spotify.com/album/5axnyPxOLswnEDZS40YMXC) | 2:46 | 2026-04-01 | 2026-04-03 |
 | [Cicada](https://open.spotify.com/track/2dvTutCISmanWOYdFMfqKo) | [Good Kid](https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP) | [Can We Hang Out Sometime?](https://open.spotify.com/album/7pGzGYHDOMvdyqY1RBzBjB) | 2:46 | 2026-04-04 | 2026-04-11 |
@@ -282,7 +283,7 @@
 | [I've Seen It](https://open.spotify.com/track/6tHVEMyRfxGgQuXRzl2yOF) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:06 | 2025-10-27 | 2025-10-29 |
 | [idk idk](https://open.spotify.com/track/3CZ0ba4RIVdv40FbjHpOEA) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [idk idk](https://open.spotify.com/album/1ovpuKaHI7hSKSUTQtLfJ1) | 2:26 | 2026-04-07 |  |
 | [If You Don't Want This](https://open.spotify.com/track/0WubvB0DnKO1BlJZspiKcT) | [ManLikeTwin](https://open.spotify.com/artist/1fb2GnIxzoYYSCKsm6DCqV) | [If You Don't Want This](https://open.spotify.com/album/6wYjqjs9I9E4uHeL4ifDXD) | 2:33 | 2025-10-28 | 2025-11-26 |
-| [if you wanna party, come over to my house](https://open.spotify.com/track/0snzpWpjUj6dxRFrsNQOZs) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Ö](https://open.spotify.com/album/4RrsgnUbZIFTw42Apa8lXO) | 2:51 | 2026-03-28 | 2026-04-08 |
+| [if you wanna party, come over to my house](https://open.spotify.com/track/0snzpWpjUj6dxRFrsNQOZs) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Ö](https://open.spotify.com/album/4RrsgnUbZIFTw42Apa8lXO) | 2:51 | 2026-03-28 |  |
 | [if you wanna party, come over to my house](https://open.spotify.com/track/5rBBVYaOqtFS1Dx6MVpr5O) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [if you wanna party, come over to my house](https://open.spotify.com/album/6idF8Ss7GdiB5L0jfMs4wT) | 2:51 | 2026-03-17 | 2026-03-23 |
 | [iloveitiloveitiloveit](https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [iloveitiloveitiloveit](https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF) | 3:03 | 2026-01-27 |  |
 | [Imbattables](https://open.spotify.com/track/58tJWENhYBmH4uy77iV8Ag) | [Crystalo](https://open.spotify.com/artist/2nPJtqrXlDkQju7WlGA2op) | [Imbattables](https://open.spotify.com/album/4EbDdbNMruyLIg7iexh47B) | 3:08 | 2026-04-02 | 2026-04-09 |
@@ -441,7 +442,7 @@
 | [PIXELATED KISSES](https://open.spotify.com/track/2OZVskV28xxJjjhQqKTLSg) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [PIXELATED KISSES](https://open.spotify.com/album/3FLlai6YTV9IwCU0KolG1w) | 1:50 | 2025-11-04 | 2025-11-13 |
 | [Plastic Cigarette](https://open.spotify.com/track/2jCJjRc9mz6VYBMhLy3H9i) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [With Heaven On Top](https://open.spotify.com/album/4NvMwUFmY1dcDEgD8KoQjG) | 3:05 | 2026-01-27 | 2026-02-04 |
 | [Please Don't Hate Me](https://open.spotify.com/track/1yvgEFgtTMU5jz9m6GXj9t) | [Aaron Rowe](https://open.spotify.com/artist/1wskVZXoUsbxB5mBhR9Oke) | [Please Don't Hate Me](https://open.spotify.com/album/14EBLrQbRhhzyCMQBSlhmn) | 3:21 | 2026-02-03 | 2026-02-05 |
-| [Please Me x Titanium](https://open.spotify.com/track/5xopbIDOEEqHIMEEQhHj6a) | [DJ Unzensiert](https://open.spotify.com/artist/6hqQvKElfJpaGlombyyZTJ) | [Please Me x Titanium](https://open.spotify.com/album/1A5V7nxLNfDe8BqqI40dp4) | 3:07 | 2026-04-07 |  |
+| [Please Me x Titanium](https://open.spotify.com/track/5xopbIDOEEqHIMEEQhHj6a) | [DJ Unzensiert](https://open.spotify.com/artist/6hqQvKElfJpaGlombyyZTJ) | [Please Me x Titanium](https://open.spotify.com/album/1A5V7nxLNfDe8BqqI40dp4) | 3:07 | 2026-04-07 | 2026-04-12 |
 | [POP DAT THANG](https://open.spotify.com/track/0QgwjxR1VchizzckKXwyBu) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [BE MORE GRATEFUL](https://open.spotify.com/album/3JoiYj7Wu5cM6X6rHJAVdg) | 2:18 | 2026-02-10 |  |
 | [Porch Light](https://open.spotify.com/track/0AV4GhGeGCVJphsMTxDWdE) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Porch Light](https://open.spotify.com/album/2E1WqaMb2UoM3ivJyJT03q) | 4:22 | 2026-03-31 | 2026-04-03 |
 | [Positive](https://open.spotify.com/track/0cZN3g7rtfNE6vsmX0k8OF) | [Jamback](https://open.spotify.com/artist/7n5VjDNd00Hy0ZDEGn0erB) | [Positive](https://open.spotify.com/album/4ZIJvPTy2VrVEUkc0FpdaI) | 2:49 | 2025-11-25 | 2025-12-04 |
@@ -482,8 +483,8 @@
 | [Rottweiler](https://open.spotify.com/track/7mcxFbFdnFFbWwPflgqqKE) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy) | [Rebel](https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug) | 1:36 | 2025-10-27 | 2025-12-09 |
 | [Rubber Band Man \(with Hozier\)](https://open.spotify.com/track/5DJ0y9uatNMVRCqLtFxGPR) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Rubber Band Man \(with Hozier\)](https://open.spotify.com/album/2L7tp1R1F3f2KOLCGkmzDp) | 3:40 | 2025-11-17 | 2025-11-19 |
 | [Rubber Band Man \(with Hozier\)](https://open.spotify.com/track/6rrqv0WwGTTlavCNqVGd6A) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Rubber Band Man \(with Hozier\)](https://open.spotify.com/album/6yWyUmKuNAPw5M4Ee3PtUq) | 3:40 | 2025-11-11 | 2025-11-18 |
-| [RUDE!](https://open.spotify.com/track/0WA27lZzPKFJKAbiDRmQDc) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [RUDE!](https://open.spotify.com/album/4teVVZHVxs4FgjPhT3lUKz) | 3:20 | 2026-03-10 | 2026-04-09 |
-| [RUDE!](https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [RUDE!](https://open.spotify.com/album/3053E9tumiU5rqbAPWF06s) | 3:20 | 2026-03-11 |  |
+| [RUDE!](https://open.spotify.com/track/0WA27lZzPKFJKAbiDRmQDc) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [RUDE!](https://open.spotify.com/album/4teVVZHVxs4FgjPhT3lUKz) | 3:20 | 2026-03-10 |  |
+| [RUDE!](https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [RUDE!](https://open.spotify.com/album/3053E9tumiU5rqbAPWF06s) | 3:20 | 2026-03-11 | 2026-04-12 |
 | [Ruminating](https://open.spotify.com/track/0kJAopMxyyqtF1GiIIsgzn) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [West End Girl](https://open.spotify.com/album/4Dn3Z14YfT2gQVDgLmWUVn) | 3:26 | 2025-11-11 | 2025-11-14 |
 | [Run My Way](https://open.spotify.com/track/5vEdGoNQHH2FZT9y2wc2zr) | [December 10](https://open.spotify.com/artist/3QvfzWcCo67s7bhOYEz5Tr) | [Run My Way](https://open.spotify.com/album/2iCHhOIojuvNTY1hINgWOi) | 2:44 | 2026-02-17 | 2026-03-03 |
 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/7MfeFE3RzhbBq9Z86JWL35) | [Sunny Ray](https://open.spotify.com/artist/6MAu0Z9K1Si5WxLMPkx1Rw) | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/album/71XAqeqj5q01vAB1vUobDR) | 4:01 | 2026-02-19 | 2026-03-01 |

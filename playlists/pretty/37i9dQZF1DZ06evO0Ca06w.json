@@ -1,12 +1,12 @@
 {
   "description": "This is Miriam Makeba. The essential tracks, all in one playlist.",
-  "num_followers": 14569,
+  "num_followers": 14570,
   "original_name": "This Is Miriam Makeba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adbsAAAAAADsvkxXCy05rG36yyHB/Gvk",
+  "snapshot_id": "adg9gAAAAABjV44IlaBBRw5ex/4puIPH",
   "tracks": [
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Welela",
-        "url": "https://open.spotify.com/album/77b73CkVByeIMB3mlVC7A4"
-      },
-      "artists": [
-        {
-          "name": "Miriam Makeba",
-          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
-        }
-      ],
-      "duration_ms": 289920,
-      "name": "A Luta Continua",
-      "url": "https://open.spotify.com/track/3mH0Lmh3xjk16INiPISHq7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pata Pata",
         "url": "https://open.spotify.com/album/4xPYddRQPYB5jbTB3e7tL5"
       },
@@ -351,6 +335,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Welela",
+        "url": "https://open.spotify.com/album/77b73CkVByeIMB3mlVC7A4"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "duration_ms": 289920,
+      "name": "A Luta Continua",
+      "url": "https://open.spotify.com/track/3mH0Lmh3xjk16INiPISHq7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/4EGe5tRktJgNpbWjC6ijLn"
       },
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Comme une symphonie d'amour",
-        "url": "https://open.spotify.com/album/07SqXGVzjMKrUHHwLqZDGb"
-      },
-      "artists": [
-        {
-          "name": "Miriam Makeba",
-          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
-        }
-      ],
-      "duration_ms": 267240,
-      "name": "Chicken - Kikirikiki",
-      "url": "https://open.spotify.com/track/1sxsg67QN7K9rusWjGHxfx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pata Pata",
         "url": "https://open.spotify.com/album/4xPYddRQPYB5jbTB3e7tL5"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 156709,
       "name": "Maria Fulo - Mono Version",
       "url": "https://open.spotify.com/track/1to6aqYV55jNN85KDELPkz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Comme une symphonie d'amour",
+        "url": "https://open.spotify.com/album/07SqXGVzjMKrUHHwLqZDGb"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "duration_ms": 267240,
+      "name": "Chicken - Kikirikiki",
+      "url": "https://open.spotify.com/track/1sxsg67QN7K9rusWjGHxfx"
     },
     {
       "added_at": null,
@@ -479,22 +479,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sarafina! The Sound Of Freedom",
-        "url": "https://open.spotify.com/album/2lumpSO6GsjUwZhvIto0Mp"
+        "name": "An Evening With Belafonte/Makeba",
+        "url": "https://open.spotify.com/album/27SMV8TOEzD5NvCI6dK7Xc"
       },
       "artists": [
         {
           "name": "Miriam Makeba",
           "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
-        },
-        {
-          "name": "Leleti Khumalo",
-          "url": "https://open.spotify.com/artist/70AhV3ZFgTlWWFifcVf2BT"
         }
       ],
-      "duration_ms": 264613,
-      "name": "Thank You Mama",
-      "url": "https://open.spotify.com/track/4Ln1AwNBuDbtpo6K63T4bw"
+      "duration_ms": 209570,
+      "name": "Hurry, Mama, Hurry! (Khawuleza)",
+      "url": "https://open.spotify.com/track/6msNNwM4xPiC71ow3emYsU"
     },
     {
       "added_at": null,
@@ -515,18 +511,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "An Evening With Belafonte/Makeba",
-        "url": "https://open.spotify.com/album/27SMV8TOEzD5NvCI6dK7Xc"
+        "name": "Sarafina! The Sound Of Freedom",
+        "url": "https://open.spotify.com/album/2lumpSO6GsjUwZhvIto0Mp"
       },
       "artists": [
         {
           "name": "Miriam Makeba",
           "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        },
+        {
+          "name": "Leleti Khumalo",
+          "url": "https://open.spotify.com/artist/70AhV3ZFgTlWWFifcVf2BT"
         }
       ],
-      "duration_ms": 209570,
-      "name": "Hurry, Mama, Hurry! (Khawuleza)",
-      "url": "https://open.spotify.com/track/6msNNwM4xPiC71ow3emYsU"
+      "duration_ms": 264613,
+      "name": "Thank You Mama",
+      "url": "https://open.spotify.com/track/4Ln1AwNBuDbtpo6K63T4bw"
     },
     {
       "added_at": null,
@@ -551,8 +551,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Welela",
-        "url": "https://open.spotify.com/album/77b73CkVByeIMB3mlVC7A4"
+        "name": "An Evening With Belafonte/Makeba",
+        "url": "https://open.spotify.com/album/27SMV8TOEzD5NvCI6dK7Xc"
       },
       "artists": [
         {
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
         }
       ],
-      "duration_ms": 346800,
-      "name": "African Sunset",
-      "url": "https://open.spotify.com/track/5426Q6firRdP2b7VI2puMZ"
+      "duration_ms": 153331,
+      "name": "Kwazulu (In the Land of the Zulus)",
+      "url": "https://open.spotify.com/track/5PpuB6i7ZCUAfKUeAdjvWK"
     },
     {
       "added_at": null,
@@ -583,8 +583,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "An Evening With Belafonte/Makeba",
-        "url": "https://open.spotify.com/album/27SMV8TOEzD5NvCI6dK7Xc"
+        "name": "Welela",
+        "url": "https://open.spotify.com/album/77b73CkVByeIMB3mlVC7A4"
       },
       "artists": [
         {
@@ -592,9 +592,9 @@
           "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
         }
       ],
-      "duration_ms": 153331,
-      "name": "Kwazulu (In the Land of the Zulus)",
-      "url": "https://open.spotify.com/track/5PpuB6i7ZCUAfKUeAdjvWK"
+      "duration_ms": 346800,
+      "name": "African Sunset",
+      "url": "https://open.spotify.com/track/5426Q6firRdP2b7VI2puMZ"
     },
     {
       "added_at": null,
@@ -615,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Welela",
-        "url": "https://open.spotify.com/album/77b73CkVByeIMB3mlVC7A4"
-      },
-      "artists": [
-        {
-          "name": "Miriam Makeba",
-          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
-        }
-      ],
-      "duration_ms": 248640,
-      "name": "Djiu de Galinha",
-      "url": "https://open.spotify.com/track/6DiHndbg1CcNgZRXjiDUbj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sound of South Africa",
         "url": "https://open.spotify.com/album/6NnwZi32pAsFiCoCyHiD7i"
       },
@@ -643,22 +627,6 @@
       "duration_ms": 153653,
       "name": "The Lion Sleeps Tonight (Mbube)",
       "url": "https://open.spotify.com/track/2lj10RweUv9XVv9jObBBMV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Promise",
-        "url": "https://open.spotify.com/album/2MN4gZa70AyA9QQu9CuSnT"
-      },
-      "artists": [
-        {
-          "name": "Miriam Makeba",
-          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
-        }
-      ],
-      "duration_ms": 206040,
-      "name": "Mama Ndiyalila",
-      "url": "https://open.spotify.com/track/1b8NKhwpWMmUOybnSmkDVq"
     },
     {
       "added_at": null,
@@ -680,7 +648,7 @@
       "added_at": null,
       "album": {
         "name": "Welela",
-        "url": "https://open.spotify.com/album/1180eoJLK2TTwI6D8DIiJX"
+        "url": "https://open.spotify.com/album/77b73CkVByeIMB3mlVC7A4"
       },
       "artists": [
         {
@@ -688,9 +656,25 @@
           "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
         }
       ],
-      "duration_ms": 289200,
-      "name": "Aluta Continua",
-      "url": "https://open.spotify.com/track/2iRyWE1WNGPC4tGybziX7b"
+      "duration_ms": 248640,
+      "name": "Djiu de Galinha",
+      "url": "https://open.spotify.com/track/6DiHndbg1CcNgZRXjiDUbj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Promise",
+        "url": "https://open.spotify.com/album/2MN4gZa70AyA9QQu9CuSnT"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "duration_ms": 206040,
+      "name": "Mama Ndiyalila",
+      "url": "https://open.spotify.com/track/1b8NKhwpWMmUOybnSmkDVq"
     },
     {
       "added_at": null,
@@ -707,6 +691,42 @@
       "duration_ms": 127505,
       "name": "Beware, Verwoerd! (Ndodemnyama)",
       "url": "https://open.spotify.com/track/74iAZSzuJ6tfvhf79ig0SK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Welela",
+        "url": "https://open.spotify.com/album/1180eoJLK2TTwI6D8DIiJX"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "duration_ms": 289200,
+      "name": "Aluta Continua",
+      "url": "https://open.spotify.com/track/2iRyWE1WNGPC4tGybziX7b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chayanne",
+        "url": "https://open.spotify.com/album/20LKBgzwk7zrSSn0N8ukFV"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        },
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "duration_ms": 255760,
+      "name": "Pata-Pata (feat. Miriam Makeba)",
+      "url": "https://open.spotify.com/track/3BcQp5aLCDx1XdHmB6pyjE"
     },
     {
       "added_at": null,
@@ -728,7 +748,7 @@
       "added_at": null,
       "album": {
         "name": "Miriam Makeba",
-        "url": "https://open.spotify.com/album/1x0hxEsfIUX7NR2ovzDY8n"
+        "url": "https://open.spotify.com/album/4E067sQw5yPAQ79HORHdAT"
       },
       "artists": [
         {
@@ -736,29 +756,9 @@
           "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
         }
       ],
-      "duration_ms": 167502,
-      "name": "Suliram",
-      "url": "https://open.spotify.com/track/3hMPRSk1vOYvMhTcCIqXMQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chayanne",
-        "url": "https://open.spotify.com/album/20LKBgzwk7zrSSn0N8ukFV"
-      },
-      "artists": [
-        {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
-        },
-        {
-          "name": "Miriam Makeba",
-          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
-        }
-      ],
-      "duration_ms": 255760,
-      "name": "Pata-Pata (feat. Miriam Makeba)",
-      "url": "https://open.spotify.com/track/3BcQp5aLCDx1XdHmB6pyjE"
+      "duration_ms": 201480,
+      "name": "Mbube",
+      "url": "https://open.spotify.com/track/1KjkL2T5ZPYdYoMoaMeZ7C"
     },
     {
       "added_at": null,
@@ -795,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Miriam Makeba",
-        "url": "https://open.spotify.com/album/4E067sQw5yPAQ79HORHdAT"
-      },
-      "artists": [
-        {
-          "name": "Miriam Makeba",
-          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
-        }
-      ],
-      "duration_ms": 201480,
-      "name": "Mbube",
-      "url": "https://open.spotify.com/track/1KjkL2T5ZPYdYoMoaMeZ7C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/4EGe5tRktJgNpbWjC6ijLn"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 294733,
       "name": "The Click Song a.k.a. Qongqothwane",
       "url": "https://open.spotify.com/track/3hEjs6cSbz0lULe5HCZuhL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Miriam Makeba",
+        "url": "https://open.spotify.com/album/1x0hxEsfIUX7NR2ovzDY8n"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "duration_ms": 167502,
+      "name": "Suliram",
+      "url": "https://open.spotify.com/track/3hMPRSk1vOYvMhTcCIqXMQ"
     },
     {
       "added_at": null,

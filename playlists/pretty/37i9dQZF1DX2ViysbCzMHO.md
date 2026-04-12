@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,320 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,325 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 | 92 | [I Should Probably Go To Bed \- Acoustic](https://open.spotify.com/track/3PUYUmxOlVtAEUMKuoT7T1) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [I Should Probably Go To Bed \(Acoustic\)](https://open.spotify.com/album/4hX3KKNZn3WHQIUNnSUyCc) | 2:57 |
 | 93 | [Breakin' in Boots \- Stripped](https://open.spotify.com/track/1NF0YGDJOgX0iMixCwDK7d) | [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [Breakin' in Boots \(Stripped\)](https://open.spotify.com/album/5So2dWFevZC3x2WPdZihJG) | 2:34 |
 | 94 | [Heartbreaker \- Piano Version](https://open.spotify.com/track/5w1q62Vqr4kLCEaHV9HrXS) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Heartbreaker \(Piano Version\)](https://open.spotify.com/album/6SPhlQgLyYrpVhZ8AvcylB) | 3:42 |
-| 95 | [Can't Have Mine \(Find You A Girl\) \[Acoustic\]](https://open.spotify.com/track/6bEnpoQyw1REmp42Ql8iXr) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Can't Have Mine \(Find You A Girl\) \[Acoustic\]](https://open.spotify.com/album/6Z5hiPEf5U9Z3Q9t2atIPn) | 3:04 |
-| 96 | [You Didn’t \- Acoustic](https://open.spotify.com/track/27cNKdragPxvklYZNT8QIs) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Weekends Look A Little Acoustic These Days](https://open.spotify.com/album/4kVKg4LdknIwFgktCrYMy0) | 4:14 |
-| 97 | [I Wanna Remember \(feat\. Carrie Underwood\) \- Acoustic](https://open.spotify.com/track/34eeqKzBs5jWOPRoLaagrz) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [I Wanna Remember \(feat\. Carrie Underwood\) \[Acoustic\]](https://open.spotify.com/album/11r0mt27sHJJi8RVhH4Urn) | 3:26 |
-| 98 | [My Left Hand \(Wedding Version\)](https://open.spotify.com/track/2S7fxN0RqZwAqXuXkVi9Ij) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [My Left Hand \(Wedding Version\)](https://open.spotify.com/album/59WB1DENlJgW6tC9mElV7Z) | 3:06 |
+| 95 | [You Didn’t \- Acoustic](https://open.spotify.com/track/27cNKdragPxvklYZNT8QIs) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Weekends Look A Little Acoustic These Days](https://open.spotify.com/album/4kVKg4LdknIwFgktCrYMy0) | 4:14 |
+| 96 | [Can't Have Mine \(Find You A Girl\) \[Acoustic\]](https://open.spotify.com/track/6bEnpoQyw1REmp42Ql8iXr) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Can't Have Mine \(Find You A Girl\) \[Acoustic\]](https://open.spotify.com/album/6Z5hiPEf5U9Z3Q9t2atIPn) | 3:04 |
+| 97 | [My Left Hand \(Wedding Version\)](https://open.spotify.com/track/2S7fxN0RqZwAqXuXkVi9Ij) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [My Left Hand \(Wedding Version\)](https://open.spotify.com/album/59WB1DENlJgW6tC9mElV7Z) | 3:06 |
+| 98 | [I Wanna Remember \(feat\. Carrie Underwood\) \- Acoustic](https://open.spotify.com/track/34eeqKzBs5jWOPRoLaagrz) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [I Wanna Remember \(feat\. Carrie Underwood\) \[Acoustic\]](https://open.spotify.com/album/11r0mt27sHJJi8RVhH4Urn) | 3:26 |
 | 99 | [Waiting For You \- Acoustic](https://open.spotify.com/track/6tcxucpT43gb76cCXtGzo9) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Studio 900 Sessions](https://open.spotify.com/album/3ooKzgaNauxvrQeIl5DTZK) | 3:05 |
-| 100 | [Lessons \(Acoustic\)](https://open.spotify.com/track/45dRlmdb1eb9shNH6VOvyw) | [Tommy Karlas](https://open.spotify.com/artist/7t5t9O35bE8qMnUAybSzbY) | [Put It in Drive](https://open.spotify.com/album/1QVygeRrG4uHm6RnglN9kB) | 3:11 |
+| 100 | [Pretty Little Poison \- Piano Version](https://open.spotify.com/track/7Cch8QA1FTnFcCijMkrM8E) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Pretty Little Poison \(Piano Version\)](https://open.spotify.com/album/00q0IXrfOMAKRrOg8iBEzb) | 3:36 |
 
 Snapshot ID: `AAAAABTz9Q8fYI0D/7XgBwb7J5zLOGDW`

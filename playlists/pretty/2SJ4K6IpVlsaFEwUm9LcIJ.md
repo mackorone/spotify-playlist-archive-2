@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: march\-april 2026 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 24,277 likes - 31 songs - 2 hr 14 min
+[margeaux](https://open.spotify.com/user/1220511975) - 24,281 likes - 33 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,5 +39,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 29 | [Queen of the Slipstream](https://open.spotify.com/track/61FvI5bYYj6wBpUKR8GMh2) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Poetic Champions Compose](https://open.spotify.com/album/38hOhXB3SzolmArtNzZxCE) | 4:57 |
 | 30 | [State Trooper](https://open.spotify.com/track/1Ulh5rWbhhV3PltDadTBZC) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Nebraska](https://open.spotify.com/album/6yskFQZNlLYhkchAxELHi6) | 3:17 |
 | 31 | [The Ultraworld](https://open.spotify.com/track/1KGLcXp6hVKESnRYxzo10m) | [Wendy Eisenberg](https://open.spotify.com/artist/7HrVZurdKyYpQamwyD1gBi) | [Wendy Eisenberg](https://open.spotify.com/album/461pbwQf3k7oOQ43DZjzf5) | 5:10 |
+| 32 | [Leaving Home](https://open.spotify.com/track/0YjQxuht2CPatgu8xlUWwA) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [Old Joy](https://open.spotify.com/album/2CAW8tKG9OAJVqr0Ol48F1) | 5:32 |
+| 33 | [Funkier Than a Mosquito's Tweeter](https://open.spotify.com/track/5wBi26umb4oxXLmpJ32BWV) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [It Is Finished \(Expanded Edition\)](https://open.spotify.com/album/5rzptvCrGaKKR0vT49BHYk) | 5:20 |
 
-Snapshot ID: `AAAOG5kJUMQd+7Q0uxa/csmbFvJIZJze`
+Snapshot ID: `AAAOHTylRqu6ibaMYO1CZJ+8L566f0sy`

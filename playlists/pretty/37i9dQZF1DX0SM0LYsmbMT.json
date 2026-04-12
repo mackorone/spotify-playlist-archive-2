@@ -1,6 +1,6 @@
 {
   "description": "The original chill instrumental beats playlist.",
-  "num_followers": 2235951,
+  "num_followers": 2236006,
   "original_name": "Jazz Vibes",
   "owner": {
     "name": "Spotify",
@@ -323,22 +323,6 @@
     {
       "added_at": "2026-04-10 04:00:57",
       "album": {
-        "name": "Hopeful",
-        "url": "https://open.spotify.com/album/4xRrsYTwW8TrOgNfpdNarf"
-      },
-      "artists": [
-        {
-          "name": "Ajmw",
-          "url": "https://open.spotify.com/artist/64StAk1W7veJKQ9x0rlE2R"
-        }
-      ],
-      "duration_ms": 129438,
-      "name": "Hopeful",
-      "url": "https://open.spotify.com/track/4p5yTJaQge6qsL2kuwsKih"
-    },
-    {
-      "added_at": "2026-04-10 04:00:57",
-      "album": {
         "name": "Fresh out the shower",
         "url": "https://open.spotify.com/album/3S2Lnq0i89pJ47FZkUHV19"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 158522,
       "name": "Fresh out the shower",
       "url": "https://open.spotify.com/track/57Sy84Hxj9rEiUyvphRpMO"
+    },
+    {
+      "added_at": "2026-04-10 04:00:57",
+      "album": {
+        "name": "Hopeful",
+        "url": "https://open.spotify.com/album/4xRrsYTwW8TrOgNfpdNarf"
+      },
+      "artists": [
+        {
+          "name": "Ajmw",
+          "url": "https://open.spotify.com/artist/64StAk1W7veJKQ9x0rlE2R"
+        }
+      ],
+      "duration_ms": 129438,
+      "name": "Hopeful",
+      "url": "https://open.spotify.com/track/4p5yTJaQge6qsL2kuwsKih"
     },
     {
       "added_at": "2026-04-10 04:00:57",
@@ -419,6 +419,26 @@
     {
       "added_at": "2026-04-10 04:00:57",
       "album": {
+        "name": "Downstream, Vol. 1",
+        "url": "https://open.spotify.com/album/3inAj1PFj9hOa6dcN3nUEg"
+      },
+      "artists": [
+        {
+          "name": "Prime8",
+          "url": "https://open.spotify.com/artist/6QdTv5ondFNAz1tdwVy3gP"
+        },
+        {
+          "name": "Uevo",
+          "url": "https://open.spotify.com/artist/4dQG1cEezr8XaQg8rFKuBi"
+        }
+      ],
+      "duration_ms": 137931,
+      "name": "Mal\u00e6la",
+      "url": "https://open.spotify.com/track/7xfWIh2yjHDmkomIO7uiAH"
+    },
+    {
+      "added_at": "2026-04-10 04:00:57",
+      "album": {
         "name": "Cashew",
         "url": "https://open.spotify.com/album/3BEc8zu0BjzuRSAd3kTD8Z"
       },
@@ -455,26 +475,6 @@
     {
       "added_at": "2026-04-10 04:00:57",
       "album": {
-        "name": "Como",
-        "url": "https://open.spotify.com/album/0Lmtn1wQW2mylIF95koVXo"
-      },
-      "artists": [
-        {
-          "name": "SamuW",
-          "url": "https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio"
-        },
-        {
-          "name": "Kimm\u00f8",
-          "url": "https://open.spotify.com/artist/0T2cWe3Y09qz2tp19oDLUz"
-        }
-      ],
-      "duration_ms": 125581,
-      "name": "Como",
-      "url": "https://open.spotify.com/track/4P2vzyD2SoN9WIkXKSqSDE"
-    },
-    {
-      "added_at": "2026-04-10 04:00:57",
-      "album": {
         "name": "The Realest",
         "url": "https://open.spotify.com/album/7mQn9XWfeffVvBFzfGrlA8"
       },
@@ -499,22 +499,22 @@
     {
       "added_at": "2026-04-10 04:00:57",
       "album": {
-        "name": "Downstream, Vol. 1",
-        "url": "https://open.spotify.com/album/3inAj1PFj9hOa6dcN3nUEg"
+        "name": "Como",
+        "url": "https://open.spotify.com/album/0Lmtn1wQW2mylIF95koVXo"
       },
       "artists": [
         {
-          "name": "Prime8",
-          "url": "https://open.spotify.com/artist/6QdTv5ondFNAz1tdwVy3gP"
+          "name": "SamuW",
+          "url": "https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio"
         },
         {
-          "name": "Uevo",
-          "url": "https://open.spotify.com/artist/4dQG1cEezr8XaQg8rFKuBi"
+          "name": "Kimm\u00f8",
+          "url": "https://open.spotify.com/artist/0T2cWe3Y09qz2tp19oDLUz"
         }
       ],
-      "duration_ms": 137931,
-      "name": "Mal\u00e6la",
-      "url": "https://open.spotify.com/track/7xfWIh2yjHDmkomIO7uiAH"
+      "duration_ms": 125581,
+      "name": "Como",
+      "url": "https://open.spotify.com/track/4P2vzyD2SoN9WIkXKSqSDE"
     },
     {
       "added_at": "2026-04-10 04:00:57",
@@ -563,6 +563,26 @@
     {
       "added_at": "2026-04-10 04:00:57",
       "album": {
+        "name": "Ristretto",
+        "url": "https://open.spotify.com/album/58CLPhMzxtOC0VF4eonzXz"
+      },
+      "artists": [
+        {
+          "name": "Showyou",
+          "url": "https://open.spotify.com/artist/7KbVIv3ToW5rD8qJNnypKO"
+        },
+        {
+          "name": "Noflik",
+          "url": "https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt"
+        }
+      ],
+      "duration_ms": 116221,
+      "name": "Ristretto",
+      "url": "https://open.spotify.com/track/1BvTEnucIyuazGGGeeu9w5"
+    },
+    {
+      "added_at": "2026-04-10 04:00:57",
+      "album": {
         "name": "But Not For Me",
         "url": "https://open.spotify.com/album/6OK95kft518XyEuoG0pR26"
       },
@@ -583,26 +603,6 @@
       "duration_ms": 107000,
       "name": "But Not For Me",
       "url": "https://open.spotify.com/track/2TBMHEJgPUvxsaoQ5W4YwP"
-    },
-    {
-      "added_at": "2026-04-10 04:00:57",
-      "album": {
-        "name": "Ristretto",
-        "url": "https://open.spotify.com/album/58CLPhMzxtOC0VF4eonzXz"
-      },
-      "artists": [
-        {
-          "name": "Showyou",
-          "url": "https://open.spotify.com/artist/7KbVIv3ToW5rD8qJNnypKO"
-        },
-        {
-          "name": "Noflik",
-          "url": "https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt"
-        }
-      ],
-      "duration_ms": 116221,
-      "name": "Ristretto",
-      "url": "https://open.spotify.com/track/1BvTEnucIyuazGGGeeu9w5"
     },
     {
       "added_at": "2026-04-10 04:00:57",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-04-10 04:00:57",
       "album": {
-        "name": "Another One",
-        "url": "https://open.spotify.com/album/1EE19WjhpCrf7VZFriw4xF"
-      },
-      "artists": [
-        {
-          "name": "Phlocalyst",
-          "url": "https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Another One",
-      "url": "https://open.spotify.com/track/0sYDpoiZCWQv0iTRITUz7w"
-    },
-    {
-      "added_at": "2026-04-10 04:00:57",
-      "album": {
         "name": "Suede",
         "url": "https://open.spotify.com/album/3CQ8JqN7VXUpae0y3Je0Hq"
       },
@@ -911,58 +895,18 @@
     {
       "added_at": "2026-04-10 04:00:57",
       "album": {
-        "name": "No Goodbyes",
-        "url": "https://open.spotify.com/album/05lIfZJmiXCSMsFZK85m5Q"
+        "name": "Another One",
+        "url": "https://open.spotify.com/album/1EE19WjhpCrf7VZFriw4xF"
       },
       "artists": [
         {
-          "name": "ENRA",
-          "url": "https://open.spotify.com/artist/1jDbZQQs4VNtiC4AerpIg4"
+          "name": "Phlocalyst",
+          "url": "https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt"
         }
       ],
-      "duration_ms": 130251,
-      "name": "No Goodbyes",
-      "url": "https://open.spotify.com/track/6OXEMJbqt8DYPg8lYmRxjZ"
-    },
-    {
-      "added_at": "2026-04-10 04:00:57",
-      "album": {
-        "name": "Suave",
-        "url": "https://open.spotify.com/album/2waInyZdaTJP9zSKna8Nh9"
-      },
-      "artists": [
-        {
-          "name": "Hoffy Beats",
-          "url": "https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq"
-        },
-        {
-          "name": "UKDD",
-          "url": "https://open.spotify.com/artist/14AiEXtiaKk6yF7YO2fap8"
-        }
-      ],
-      "duration_ms": 100909,
-      "name": "Suave",
-      "url": "https://open.spotify.com/track/2AnGLfLySrmIhmneu4meTM"
-    },
-    {
-      "added_at": "2026-04-10 04:00:57",
-      "album": {
-        "name": "Recover",
-        "url": "https://open.spotify.com/album/288PsEJSIn8dvsXg1lUzkB"
-      },
-      "artists": [
-        {
-          "name": "Jikuru",
-          "url": "https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp"
-        },
-        {
-          "name": "Lola",
-          "url": "https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT"
-        }
-      ],
-      "duration_ms": 129884,
-      "name": "Recover",
-      "url": "https://open.spotify.com/track/6em5GpaVcKiOF7BdMg8EdJ"
+      "duration_ms": 120000,
+      "name": "Another One",
+      "url": "https://open.spotify.com/track/0sYDpoiZCWQv0iTRITUz7w"
     },
     {
       "added_at": "2026-04-10 04:00:57",
@@ -995,6 +939,22 @@
     {
       "added_at": "2026-04-10 04:00:57",
       "album": {
+        "name": "No Goodbyes",
+        "url": "https://open.spotify.com/album/05lIfZJmiXCSMsFZK85m5Q"
+      },
+      "artists": [
+        {
+          "name": "ENRA",
+          "url": "https://open.spotify.com/artist/1jDbZQQs4VNtiC4AerpIg4"
+        }
+      ],
+      "duration_ms": 130251,
+      "name": "No Goodbyes",
+      "url": "https://open.spotify.com/track/6OXEMJbqt8DYPg8lYmRxjZ"
+    },
+    {
+      "added_at": "2026-04-10 04:00:57",
+      "album": {
         "name": "Sedimental",
         "url": "https://open.spotify.com/album/1lQq9mUXrgcHt5eFWRgqRO"
       },
@@ -1019,22 +979,22 @@
     {
       "added_at": "2026-04-10 04:00:57",
       "album": {
-        "name": "Slowrider",
-        "url": "https://open.spotify.com/album/5PQNQXN9wMJE5Z3UwbXy44"
+        "name": "Suave",
+        "url": "https://open.spotify.com/album/2waInyZdaTJP9zSKna8Nh9"
       },
       "artists": [
         {
-          "name": "Lotus Beats",
-          "url": "https://open.spotify.com/artist/667RkTKDzJP6Hi3viSrkWI"
+          "name": "Hoffy Beats",
+          "url": "https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq"
         },
         {
-          "name": "Two Scents",
-          "url": "https://open.spotify.com/artist/7sRau6OFIdLc2jMdzZRt81"
+          "name": "UKDD",
+          "url": "https://open.spotify.com/artist/14AiEXtiaKk6yF7YO2fap8"
         }
       ],
-      "duration_ms": 120625,
-      "name": "Slowrider",
-      "url": "https://open.spotify.com/track/7umX9ZZEoUgvVnM16FiJwo"
+      "duration_ms": 100909,
+      "name": "Suave",
+      "url": "https://open.spotify.com/track/2AnGLfLySrmIhmneu4meTM"
     },
     {
       "added_at": "2026-04-10 04:00:57",
@@ -1059,26 +1019,6 @@
     {
       "added_at": "2026-04-10 04:00:57",
       "album": {
-        "name": "Late Checkout",
-        "url": "https://open.spotify.com/album/5aMfr04C4kb4ao4QSKXBb5"
-      },
-      "artists": [
-        {
-          "name": "Deauxnuts",
-          "url": "https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB"
-        },
-        {
-          "name": "Nokiaa",
-          "url": "https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN"
-        }
-      ],
-      "duration_ms": 123243,
-      "name": "Late Checkout",
-      "url": "https://open.spotify.com/track/0kpn2pR2KG3Q9Fw4osl1oA"
-    },
-    {
-      "added_at": "2026-04-10 04:00:57",
-      "album": {
         "name": "Space Patrol",
         "url": "https://open.spotify.com/album/4SygTOSMqssPhZLMVtT3ss"
       },
@@ -1099,22 +1039,42 @@
     {
       "added_at": "2026-04-10 04:00:57",
       "album": {
-        "name": "Honey",
-        "url": "https://open.spotify.com/album/6HA0YCt69EeDJzGXpab7qt"
+        "name": "Slowrider",
+        "url": "https://open.spotify.com/album/5PQNQXN9wMJE5Z3UwbXy44"
       },
       "artists": [
         {
-          "name": "Dani Catal\u00e1",
-          "url": "https://open.spotify.com/artist/47KS10JqzPOZND1Uxr7U1i"
+          "name": "Lotus Beats",
+          "url": "https://open.spotify.com/artist/667RkTKDzJP6Hi3viSrkWI"
         },
         {
-          "name": "Casiio",
-          "url": "https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a"
+          "name": "Two Scents",
+          "url": "https://open.spotify.com/artist/7sRau6OFIdLc2jMdzZRt81"
         }
       ],
-      "duration_ms": 118518,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/3pycJOi4bv8s9guLHYtXcZ"
+      "duration_ms": 120625,
+      "name": "Slowrider",
+      "url": "https://open.spotify.com/track/7umX9ZZEoUgvVnM16FiJwo"
+    },
+    {
+      "added_at": "2026-04-10 04:00:57",
+      "album": {
+        "name": "Recover",
+        "url": "https://open.spotify.com/album/288PsEJSIn8dvsXg1lUzkB"
+      },
+      "artists": [
+        {
+          "name": "Jikuru",
+          "url": "https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp"
+        },
+        {
+          "name": "Lola",
+          "url": "https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT"
+        }
+      ],
+      "duration_ms": 129884,
+      "name": "Recover",
+      "url": "https://open.spotify.com/track/6em5GpaVcKiOF7BdMg8EdJ"
     },
     {
       "added_at": "2026-04-10 04:00:57",
@@ -1139,6 +1099,66 @@
       "duration_ms": 128606,
       "name": "Morning Routine",
       "url": "https://open.spotify.com/track/22oY68j9hKLirnVZ1Um77c"
+    },
+    {
+      "added_at": "2026-04-10 04:00:57",
+      "album": {
+        "name": "Late Checkout",
+        "url": "https://open.spotify.com/album/5aMfr04C4kb4ao4QSKXBb5"
+      },
+      "artists": [
+        {
+          "name": "Deauxnuts",
+          "url": "https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB"
+        },
+        {
+          "name": "Nokiaa",
+          "url": "https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN"
+        }
+      ],
+      "duration_ms": 123243,
+      "name": "Late Checkout",
+      "url": "https://open.spotify.com/track/0kpn2pR2KG3Q9Fw4osl1oA"
+    },
+    {
+      "added_at": "2026-04-10 04:00:57",
+      "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/6HA0YCt69EeDJzGXpab7qt"
+      },
+      "artists": [
+        {
+          "name": "Dani Catal\u00e1",
+          "url": "https://open.spotify.com/artist/47KS10JqzPOZND1Uxr7U1i"
+        },
+        {
+          "name": "Casiio",
+          "url": "https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a"
+        }
+      ],
+      "duration_ms": 118518,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/3pycJOi4bv8s9guLHYtXcZ"
+    },
+    {
+      "added_at": "2026-04-10 04:00:57",
+      "album": {
+        "name": "Tokyo Lights",
+        "url": "https://open.spotify.com/album/6J2YMaUFDJf0eoQCgr3o6p"
+      },
+      "artists": [
+        {
+          "name": "Shuko",
+          "url": "https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10"
+        },
+        {
+          "name": "FLKS",
+          "url": "https://open.spotify.com/artist/0su9f9WdmaeYFON6XEaXb0"
+        }
+      ],
+      "duration_ms": 125818,
+      "name": "Tokyo Lights",
+      "url": "https://open.spotify.com/track/4DkAN8ownDd6sDUOVUZyG4"
     },
     {
       "added_at": "2026-04-10 04:00:57",
@@ -1191,26 +1211,6 @@
       "duration_ms": 168546,
       "name": "Melatonin",
       "url": "https://open.spotify.com/track/3ZQesTkzTHEoku8EcIUeYd"
-    },
-    {
-      "added_at": "2026-04-10 04:00:57",
-      "album": {
-        "name": "Tokyo Lights",
-        "url": "https://open.spotify.com/album/6J2YMaUFDJf0eoQCgr3o6p"
-      },
-      "artists": [
-        {
-          "name": "Shuko",
-          "url": "https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10"
-        },
-        {
-          "name": "FLKS",
-          "url": "https://open.spotify.com/artist/0su9f9WdmaeYFON6XEaXb0"
-        }
-      ],
-      "duration_ms": 125818,
-      "name": "Tokyo Lights",
-      "url": "https://open.spotify.com/track/4DkAN8ownDd6sDUOVUZyG4"
     },
     {
       "added_at": "2026-04-10 04:00:57",
@@ -1279,6 +1279,42 @@
     {
       "added_at": "2026-04-10 04:00:57",
       "album": {
+        "name": "Bask",
+        "url": "https://open.spotify.com/album/1yRuNCV4Wa5DjPYkVUwAV8"
+      },
+      "artists": [
+        {
+          "name": "CMJ",
+          "url": "https://open.spotify.com/artist/0PbBgZYFayICVW0646NtXG"
+        }
+      ],
+      "duration_ms": 106666,
+      "name": "Bask",
+      "url": "https://open.spotify.com/track/1BjS00Udv7m5tJKj7x5uhz"
+    },
+    {
+      "added_at": "2026-04-10 04:00:57",
+      "album": {
+        "name": "Peaches",
+        "url": "https://open.spotify.com/album/3wQP9rKBIOC6dPYZj67BPd"
+      },
+      "artists": [
+        {
+          "name": "LESKY",
+          "url": "https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6"
+        },
+        {
+          "name": "Donkeychote",
+          "url": "https://open.spotify.com/artist/3qPSdWkG9474zgjbxYwncU"
+        }
+      ],
+      "duration_ms": 105000,
+      "name": "Peaches",
+      "url": "https://open.spotify.com/track/0kb8vmrVXeYlz51c5PR3zN"
+    },
+    {
+      "added_at": "2026-04-10 04:00:57",
+      "album": {
         "name": "skills",
         "url": "https://open.spotify.com/album/6wrc9Wgs0TbJBweRqWWj8W"
       },
@@ -1311,42 +1347,6 @@
     {
       "added_at": "2026-04-10 04:00:57",
       "album": {
-        "name": "Peaches",
-        "url": "https://open.spotify.com/album/3wQP9rKBIOC6dPYZj67BPd"
-      },
-      "artists": [
-        {
-          "name": "LESKY",
-          "url": "https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6"
-        },
-        {
-          "name": "Donkeychote",
-          "url": "https://open.spotify.com/artist/3qPSdWkG9474zgjbxYwncU"
-        }
-      ],
-      "duration_ms": 105000,
-      "name": "Peaches",
-      "url": "https://open.spotify.com/track/0kb8vmrVXeYlz51c5PR3zN"
-    },
-    {
-      "added_at": "2026-04-10 04:00:57",
-      "album": {
-        "name": "Bask",
-        "url": "https://open.spotify.com/album/1yRuNCV4Wa5DjPYkVUwAV8"
-      },
-      "artists": [
-        {
-          "name": "CMJ",
-          "url": "https://open.spotify.com/artist/0PbBgZYFayICVW0646NtXG"
-        }
-      ],
-      "duration_ms": 106666,
-      "name": "Bask",
-      "url": "https://open.spotify.com/track/1BjS00Udv7m5tJKj7x5uhz"
-    },
-    {
-      "added_at": "2026-04-10 04:00:57",
-      "album": {
         "name": "Strolling",
         "url": "https://open.spotify.com/album/4wc8ncOeR7srC6EX9QlQDV"
       },
@@ -1363,26 +1363,6 @@
       "duration_ms": 196363,
       "name": "Strolling",
       "url": "https://open.spotify.com/track/6M5K2XS8Chefq5MvzCM8VM"
-    },
-    {
-      "added_at": "2026-04-10 04:00:57",
-      "album": {
-        "name": "Wildflower",
-        "url": "https://open.spotify.com/album/2QZC9CVSd0RJTdLV6VCB90"
-      },
-      "artists": [
-        {
-          "name": "softy",
-          "url": "https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB"
-        },
-        {
-          "name": "Casiio",
-          "url": "https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a"
-        }
-      ],
-      "duration_ms": 111000,
-      "name": "Wildflower",
-      "url": "https://open.spotify.com/track/7Ad9qF3coONCC9nRbDIxAb"
     },
     {
       "added_at": "2026-04-10 04:00:57",
@@ -1431,6 +1411,26 @@
     {
       "added_at": "2026-04-10 04:00:57",
       "album": {
+        "name": "Wildflower",
+        "url": "https://open.spotify.com/album/2QZC9CVSd0RJTdLV6VCB90"
+      },
+      "artists": [
+        {
+          "name": "softy",
+          "url": "https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB"
+        },
+        {
+          "name": "Casiio",
+          "url": "https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a"
+        }
+      ],
+      "duration_ms": 111000,
+      "name": "Wildflower",
+      "url": "https://open.spotify.com/track/7Ad9qF3coONCC9nRbDIxAb"
+    },
+    {
+      "added_at": "2026-04-10 04:00:57",
+      "album": {
         "name": "Jube Jubes",
         "url": "https://open.spotify.com/album/5KwfnhuBlxA2b39O0EXtuX"
       },
@@ -1467,22 +1467,18 @@
     {
       "added_at": "2026-04-10 04:00:57",
       "album": {
-        "name": "Stellar Swing",
-        "url": "https://open.spotify.com/album/5pSr6V1Q5OGcezxMoTqPwR"
+        "name": "Avatar",
+        "url": "https://open.spotify.com/album/0aYM02dMtb5SShWP6cTpyx"
       },
       "artists": [
         {
-          "name": "Monocloud",
-          "url": "https://open.spotify.com/artist/5nljYdfvafyRYs5soqzJ1U"
-        },
-        {
-          "name": "Bertram Kvist",
-          "url": "https://open.spotify.com/artist/2Dd2EvgmTdtghdTS07FtcG"
+          "name": "Screen Jazzmaster",
+          "url": "https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt"
         }
       ],
-      "duration_ms": 124000,
-      "name": "Stellar Swing",
-      "url": "https://open.spotify.com/track/3XCIcRyYOQIrzh24k2Kzev"
+      "duration_ms": 126075,
+      "name": "Avatar",
+      "url": "https://open.spotify.com/track/3FWPTZmG1Ee6AlfB7trJof"
     },
     {
       "added_at": "2026-04-10 04:00:57",
@@ -1503,6 +1499,46 @@
     {
       "added_at": "2026-04-10 04:00:57",
       "album": {
+        "name": "Stellar Swing",
+        "url": "https://open.spotify.com/album/5pSr6V1Q5OGcezxMoTqPwR"
+      },
+      "artists": [
+        {
+          "name": "Monocloud",
+          "url": "https://open.spotify.com/artist/5nljYdfvafyRYs5soqzJ1U"
+        },
+        {
+          "name": "Bertram Kvist",
+          "url": "https://open.spotify.com/artist/2Dd2EvgmTdtghdTS07FtcG"
+        }
+      ],
+      "duration_ms": 124000,
+      "name": "Stellar Swing",
+      "url": "https://open.spotify.com/track/3XCIcRyYOQIrzh24k2Kzev"
+    },
+    {
+      "added_at": "2026-04-10 04:00:57",
+      "album": {
+        "name": "High Towers",
+        "url": "https://open.spotify.com/album/78TBxs86z7tcgKCilqwip2"
+      },
+      "artists": [
+        {
+          "name": "DLJ",
+          "url": "https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA"
+        },
+        {
+          "name": "Pastel",
+          "url": "https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO"
+        }
+      ],
+      "duration_ms": 157931,
+      "name": "High Towers",
+      "url": "https://open.spotify.com/track/6vVNA5CqNbvJHP8xNlqGGW"
+    },
+    {
+      "added_at": "2026-04-10 04:00:57",
+      "album": {
         "name": "moments",
         "url": "https://open.spotify.com/album/4JNzCvA37BbzSpNWVDIDqi"
       },
@@ -1519,22 +1555,6 @@
       "duration_ms": 113323,
       "name": "tuesday evenings",
       "url": "https://open.spotify.com/track/1Rl4Qph0hXgF6cadGi4qcd"
-    },
-    {
-      "added_at": "2026-04-10 04:00:57",
-      "album": {
-        "name": "Avatar",
-        "url": "https://open.spotify.com/album/0aYM02dMtb5SShWP6cTpyx"
-      },
-      "artists": [
-        {
-          "name": "Screen Jazzmaster",
-          "url": "https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt"
-        }
-      ],
-      "duration_ms": 126075,
-      "name": "Avatar",
-      "url": "https://open.spotify.com/track/3FWPTZmG1Ee6AlfB7trJof"
     },
     {
       "added_at": "2026-04-10 04:00:57",
@@ -1571,46 +1591,6 @@
     {
       "added_at": "2026-04-10 04:00:57",
       "album": {
-        "name": "High Towers",
-        "url": "https://open.spotify.com/album/78TBxs86z7tcgKCilqwip2"
-      },
-      "artists": [
-        {
-          "name": "DLJ",
-          "url": "https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA"
-        },
-        {
-          "name": "Pastel",
-          "url": "https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO"
-        }
-      ],
-      "duration_ms": 157931,
-      "name": "High Towers",
-      "url": "https://open.spotify.com/track/6vVNA5CqNbvJHP8xNlqGGW"
-    },
-    {
-      "added_at": "2026-04-10 04:00:57",
-      "album": {
-        "name": "Worn Out",
-        "url": "https://open.spotify.com/album/5dyGbWLIxKFomU8pJGL4V8"
-      },
-      "artists": [
-        {
-          "name": "Donkeychote",
-          "url": "https://open.spotify.com/artist/3qPSdWkG9474zgjbxYwncU"
-        },
-        {
-          "name": "Cutecake",
-          "url": "https://open.spotify.com/artist/4siWS58eyzzQFTp3XJYKin"
-        }
-      ],
-      "duration_ms": 103764,
-      "name": "Worn Out",
-      "url": "https://open.spotify.com/track/3L4lHBy6v9QPDyep6H7lFm"
-    },
-    {
-      "added_at": "2026-04-10 04:00:57",
-      "album": {
         "name": "In Time",
         "url": "https://open.spotify.com/album/7w19NU5mFrSNZ6a2BtbQfh"
       },
@@ -1631,6 +1611,26 @@
       "duration_ms": 140487,
       "name": "In Time",
       "url": "https://open.spotify.com/track/0H69sRjYmMXDyRGJWrcFtt"
+    },
+    {
+      "added_at": "2026-04-10 04:00:57",
+      "album": {
+        "name": "Worn Out",
+        "url": "https://open.spotify.com/album/5dyGbWLIxKFomU8pJGL4V8"
+      },
+      "artists": [
+        {
+          "name": "Donkeychote",
+          "url": "https://open.spotify.com/artist/3qPSdWkG9474zgjbxYwncU"
+        },
+        {
+          "name": "Cutecake",
+          "url": "https://open.spotify.com/artist/4siWS58eyzzQFTp3XJYKin"
+        }
+      ],
+      "duration_ms": 103764,
+      "name": "Worn Out",
+      "url": "https://open.spotify.com/track/3L4lHBy6v9QPDyep6H7lFm"
     },
     {
       "added_at": "2026-04-10 04:00:57",
@@ -1659,6 +1659,26 @@
     {
       "added_at": "2026-04-10 04:00:57",
       "album": {
+        "name": "Prism",
+        "url": "https://open.spotify.com/album/4zAA0CEKfqYNXpXRoLYcdZ"
+      },
+      "artists": [
+        {
+          "name": "Jam'addict",
+          "url": "https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca"
+        },
+        {
+          "name": "Monocloud",
+          "url": "https://open.spotify.com/artist/5nljYdfvafyRYs5soqzJ1U"
+        }
+      ],
+      "duration_ms": 134953,
+      "name": "Prism",
+      "url": "https://open.spotify.com/track/6blNZXXHzVGD5yVFAsyk6E"
+    },
+    {
+      "added_at": "2026-04-10 04:00:57",
+      "album": {
         "name": "Portra",
         "url": "https://open.spotify.com/album/3AnzSh1jkhN6MVBDic96Y4"
       },
@@ -1675,22 +1695,6 @@
       "duration_ms": 156937,
       "name": "Portra",
       "url": "https://open.spotify.com/track/12hVNKYLidrXipsEyU0vfa"
-    },
-    {
-      "added_at": "2026-04-10 04:00:57",
-      "album": {
-        "name": "Duality",
-        "url": "https://open.spotify.com/album/15qFamrjJ7508LcvywyGp3"
-      },
-      "artists": [
-        {
-          "name": "Mr. K\u00e4fer",
-          "url": "https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ"
-        }
-      ],
-      "duration_ms": 127415,
-      "name": "Bridges",
-      "url": "https://open.spotify.com/track/1oZ4DvXqHgoWqvhJWSUXQJ"
     },
     {
       "added_at": "2026-04-10 04:00:57",
@@ -1715,38 +1719,18 @@
     {
       "added_at": "2026-04-10 04:00:57",
       "album": {
-        "name": "Prism",
-        "url": "https://open.spotify.com/album/4zAA0CEKfqYNXpXRoLYcdZ"
+        "name": "Duality",
+        "url": "https://open.spotify.com/album/15qFamrjJ7508LcvywyGp3"
       },
       "artists": [
         {
-          "name": "Jam'addict",
-          "url": "https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca"
-        },
-        {
-          "name": "Monocloud",
-          "url": "https://open.spotify.com/artist/5nljYdfvafyRYs5soqzJ1U"
+          "name": "Mr. K\u00e4fer",
+          "url": "https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ"
         }
       ],
-      "duration_ms": 134953,
-      "name": "Prism",
-      "url": "https://open.spotify.com/track/6blNZXXHzVGD5yVFAsyk6E"
-    },
-    {
-      "added_at": "2026-04-10 04:00:57",
-      "album": {
-        "name": "Perseide",
-        "url": "https://open.spotify.com/album/1D0UJXx0daVQELS0h609PD"
-      },
-      "artists": [
-        {
-          "name": "lorleaf",
-          "url": "https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y"
-        }
-      ],
-      "duration_ms": 133500,
-      "name": "Perseide",
-      "url": "https://open.spotify.com/track/5ezI0oZOneVDxQjHUn1REs"
+      "duration_ms": 127415,
+      "name": "Bridges",
+      "url": "https://open.spotify.com/track/1oZ4DvXqHgoWqvhJWSUXQJ"
     },
     {
       "added_at": "2026-04-10 04:00:57",
@@ -1787,26 +1771,34 @@
     {
       "added_at": "2026-04-10 04:00:57",
       "album": {
-        "name": "Home Run",
-        "url": "https://open.spotify.com/album/3QjX7jMqywyn2VmnxdZVxk"
+        "name": "Perseide",
+        "url": "https://open.spotify.com/album/1D0UJXx0daVQELS0h609PD"
       },
       "artists": [
         {
-          "name": "Clifford",
-          "url": "https://open.spotify.com/artist/2yS9Ixr0a7wHxb0dpEvc2j"
-        },
-        {
-          "name": "Louk",
-          "url": "https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O"
-        },
-        {
-          "name": "No\u00e9 Mina",
-          "url": "https://open.spotify.com/artist/6bhgnwSJ85LTzAeWRFXrzF"
+          "name": "lorleaf",
+          "url": "https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y"
         }
       ],
-      "duration_ms": 161379,
-      "name": "Home Run",
-      "url": "https://open.spotify.com/track/4uF76csKmN7qyuCoYFEDQN"
+      "duration_ms": 133500,
+      "name": "Perseide",
+      "url": "https://open.spotify.com/track/5ezI0oZOneVDxQjHUn1REs"
+    },
+    {
+      "added_at": "2026-04-10 04:00:57",
+      "album": {
+        "name": "No Worries",
+        "url": "https://open.spotify.com/album/6mjouGeKc1ccrL7KrBDsmn"
+      },
+      "artists": [
+        {
+          "name": "Jules Hiero",
+          "url": "https://open.spotify.com/artist/2eK4vL0m6Ws2vg078EGk8J"
+        }
+      ],
+      "duration_ms": 149189,
+      "name": "No Worries",
+      "url": "https://open.spotify.com/track/7nIkZLDERK6FYvnFqDlOrU"
     },
     {
       "added_at": "2026-04-10 04:00:57",
@@ -1831,6 +1823,30 @@
     {
       "added_at": "2026-04-10 04:00:57",
       "album": {
+        "name": "Home Run",
+        "url": "https://open.spotify.com/album/3QjX7jMqywyn2VmnxdZVxk"
+      },
+      "artists": [
+        {
+          "name": "Clifford",
+          "url": "https://open.spotify.com/artist/2yS9Ixr0a7wHxb0dpEvc2j"
+        },
+        {
+          "name": "Louk",
+          "url": "https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O"
+        },
+        {
+          "name": "No\u00e9 Mina",
+          "url": "https://open.spotify.com/artist/6bhgnwSJ85LTzAeWRFXrzF"
+        }
+      ],
+      "duration_ms": 161379,
+      "name": "Home Run",
+      "url": "https://open.spotify.com/track/4uF76csKmN7qyuCoYFEDQN"
+    },
+    {
+      "added_at": "2026-04-10 04:00:57",
+      "album": {
         "name": "canvas",
         "url": "https://open.spotify.com/album/2APuLlyBNRY1GAuo4Iyog9"
       },
@@ -1851,18 +1867,22 @@
     {
       "added_at": "2026-04-10 04:00:57",
       "album": {
-        "name": "No Worries",
-        "url": "https://open.spotify.com/album/6mjouGeKc1ccrL7KrBDsmn"
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/4XTJYG8rjsBdq8w3M0OdXM"
       },
       "artists": [
         {
-          "name": "Jules Hiero",
-          "url": "https://open.spotify.com/artist/2eK4vL0m6Ws2vg078EGk8J"
+          "name": "Krynoze",
+          "url": "https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0"
+        },
+        {
+          "name": "MAS",
+          "url": "https://open.spotify.com/artist/1YHFdanyCXr7QH2yK5g1Lm"
         }
       ],
-      "duration_ms": 149189,
-      "name": "No Worries",
-      "url": "https://open.spotify.com/track/7nIkZLDERK6FYvnFqDlOrU"
+      "duration_ms": 123569,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/3ohEcXhu9VOX7T3yKsTrhL"
     },
     {
       "added_at": "2026-04-10 04:00:57",
@@ -1887,26 +1907,6 @@
       "duration_ms": 135735,
       "name": "Stolen Moments",
       "url": "https://open.spotify.com/track/7izzQ1H8WnpyFWFVoMbbtK"
-    },
-    {
-      "added_at": "2026-04-10 04:00:57",
-      "album": {
-        "name": "Hope",
-        "url": "https://open.spotify.com/album/4XTJYG8rjsBdq8w3M0OdXM"
-      },
-      "artists": [
-        {
-          "name": "Krynoze",
-          "url": "https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0"
-        },
-        {
-          "name": "MAS",
-          "url": "https://open.spotify.com/artist/1YHFdanyCXr7QH2yK5g1Lm"
-        }
-      ],
-      "duration_ms": 123569,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/3ohEcXhu9VOX7T3yKsTrhL"
     },
     {
       "added_at": "2026-04-10 04:00:57",
@@ -1987,26 +1987,6 @@
     {
       "added_at": "2026-04-10 04:00:57",
       "album": {
-        "name": "Lava Lamp",
-        "url": "https://open.spotify.com/album/4uaf1d87TUIuyo60wU09WK"
-      },
-      "artists": [
-        {
-          "name": "Lock",
-          "url": "https://open.spotify.com/artist/0gpKex5pDrVpQ6YGOrOb6A"
-        },
-        {
-          "name": "pepperonibeats",
-          "url": "https://open.spotify.com/artist/6umzt0RZKFvgGpph8tRqDT"
-        }
-      ],
-      "duration_ms": 125783,
-      "name": "Lava Lamp",
-      "url": "https://open.spotify.com/track/1Zk4cXeXgFzRZRFxj9xqqc"
-    },
-    {
-      "added_at": "2026-04-10 04:00:57",
-      "album": {
         "name": "Wind",
         "url": "https://open.spotify.com/album/6dpMkpP4Yn36VWWYwkNPIZ"
       },
@@ -2047,22 +2027,22 @@
     {
       "added_at": "2026-04-10 04:00:57",
       "album": {
-        "name": "Flurry",
-        "url": "https://open.spotify.com/album/6d2Ndd53OQc96RLZsQEuPI"
+        "name": "Lava Lamp",
+        "url": "https://open.spotify.com/album/4uaf1d87TUIuyo60wU09WK"
       },
       "artists": [
         {
-          "name": ".Eehou",
-          "url": "https://open.spotify.com/artist/5n9SautEmQzoC7G47NBta0"
+          "name": "Lock",
+          "url": "https://open.spotify.com/artist/0gpKex5pDrVpQ6YGOrOb6A"
         },
         {
-          "name": "Prod. By Outtake",
-          "url": "https://open.spotify.com/artist/6NMa9jf0w0gIw0vEQyCuqc"
+          "name": "pepperonibeats",
+          "url": "https://open.spotify.com/artist/6umzt0RZKFvgGpph8tRqDT"
         }
       ],
-      "duration_ms": 120000,
-      "name": "Flurry",
-      "url": "https://open.spotify.com/track/57B3pq1OnMyAgpPP4iwVq8"
+      "duration_ms": 125783,
+      "name": "Lava Lamp",
+      "url": "https://open.spotify.com/track/1Zk4cXeXgFzRZRFxj9xqqc"
     },
     {
       "added_at": "2026-04-10 04:00:57",
@@ -2087,22 +2067,22 @@
     {
       "added_at": "2026-04-10 04:00:57",
       "album": {
-        "name": "Reveries",
-        "url": "https://open.spotify.com/album/2BtiUcWF9zmRoqgPAIJ2QA"
+        "name": "Flurry",
+        "url": "https://open.spotify.com/album/6d2Ndd53OQc96RLZsQEuPI"
       },
       "artists": [
         {
-          "name": "Monkay",
-          "url": "https://open.spotify.com/artist/6zmFDLFLjVKcJFgbF6PF6l"
+          "name": ".Eehou",
+          "url": "https://open.spotify.com/artist/5n9SautEmQzoC7G47NBta0"
         },
         {
-          "name": "\u00d8NEMOR3",
-          "url": "https://open.spotify.com/artist/75XUnXCiMd1YMHwBvAIfnn"
+          "name": "Prod. By Outtake",
+          "url": "https://open.spotify.com/artist/6NMa9jf0w0gIw0vEQyCuqc"
         }
       ],
-      "duration_ms": 155121,
-      "name": "Lovely Places",
-      "url": "https://open.spotify.com/track/7FdXOLMEnvyyB20WiKWWuT"
+      "duration_ms": 120000,
+      "name": "Flurry",
+      "url": "https://open.spotify.com/track/57B3pq1OnMyAgpPP4iwVq8"
     },
     {
       "added_at": "2026-04-10 04:00:57",
@@ -2127,18 +2107,22 @@
     {
       "added_at": "2026-04-10 04:00:57",
       "album": {
-        "name": "Calm Winds",
-        "url": "https://open.spotify.com/album/0HVatdmOV7mRKymcHEoLJo"
+        "name": "Reveries",
+        "url": "https://open.spotify.com/album/2BtiUcWF9zmRoqgPAIJ2QA"
       },
       "artists": [
         {
-          "name": "Dpsht",
-          "url": "https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3"
+          "name": "Monkay",
+          "url": "https://open.spotify.com/artist/6zmFDLFLjVKcJFgbF6PF6l"
+        },
+        {
+          "name": "\u00d8NEMOR3",
+          "url": "https://open.spotify.com/artist/75XUnXCiMd1YMHwBvAIfnn"
         }
       ],
-      "duration_ms": 114929,
-      "name": "Calm Winds",
-      "url": "https://open.spotify.com/track/22x6TxJlGxZfQjJbAN4cQY"
+      "duration_ms": 155121,
+      "name": "Lovely Places",
+      "url": "https://open.spotify.com/track/7FdXOLMEnvyyB20WiKWWuT"
     },
     {
       "added_at": "2026-04-10 04:00:57",
@@ -2163,6 +2147,22 @@
       "duration_ms": 150162,
       "name": "Inappropriately Sleeping",
       "url": "https://open.spotify.com/track/2RMhe7e13lhoQJA2tSNyvU"
+    },
+    {
+      "added_at": "2026-04-10 04:00:57",
+      "album": {
+        "name": "Calm Winds",
+        "url": "https://open.spotify.com/album/0HVatdmOV7mRKymcHEoLJo"
+      },
+      "artists": [
+        {
+          "name": "Dpsht",
+          "url": "https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3"
+        }
+      ],
+      "duration_ms": 114929,
+      "name": "Calm Winds",
+      "url": "https://open.spotify.com/track/22x6TxJlGxZfQjJbAN4cQY"
     },
     {
       "added_at": "2026-04-10 04:00:57",
@@ -2207,6 +2207,22 @@
     {
       "added_at": "2026-04-10 04:00:57",
       "album": {
+        "name": "Passenger",
+        "url": "https://open.spotify.com/album/7tiborXS3xOmuaeB2nGMj1"
+      },
+      "artists": [
+        {
+          "name": "Damn Homies",
+          "url": "https://open.spotify.com/artist/3oNxrt290hm3HcMTqPi5L7"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Passenger",
+      "url": "https://open.spotify.com/track/5SH0eiiSCxHr1FZijS7aSP"
+    },
+    {
+      "added_at": "2026-04-10 04:00:57",
+      "album": {
         "name": "Drip",
         "url": "https://open.spotify.com/album/0a6U7OW9YxAX9SklG6X976"
       },
@@ -2223,22 +2239,6 @@
       "duration_ms": 118333,
       "name": "Drip",
       "url": "https://open.spotify.com/track/4Y0B217JMYCcdKjsC87SCB"
-    },
-    {
-      "added_at": "2026-04-10 04:00:57",
-      "album": {
-        "name": "Passenger",
-        "url": "https://open.spotify.com/album/7tiborXS3xOmuaeB2nGMj1"
-      },
-      "artists": [
-        {
-          "name": "Damn Homies",
-          "url": "https://open.spotify.com/artist/3oNxrt290hm3HcMTqPi5L7"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Passenger",
-      "url": "https://open.spotify.com/track/5SH0eiiSCxHr1FZijS7aSP"
     },
     {
       "added_at": "2026-04-10 04:00:57",
@@ -2299,22 +2299,6 @@
     {
       "added_at": "2026-04-10 04:00:57",
       "album": {
-        "name": "Good Life",
-        "url": "https://open.spotify.com/album/1ICaCOfTCfaa6lIImFCKx4"
-      },
-      "artists": [
-        {
-          "name": "Harry Hawaii",
-          "url": "https://open.spotify.com/artist/7fQVHvcP2LSpPU3pNU7wKA"
-        }
-      ],
-      "duration_ms": 126005,
-      "name": "Good Life",
-      "url": "https://open.spotify.com/track/2Ud7OQ3gvBuKOhMrzX1SVe"
-    },
-    {
-      "added_at": "2026-04-10 04:00:57",
-      "album": {
         "name": "Charm Shades",
         "url": "https://open.spotify.com/album/46PY6dYntpc5wRHdSZXJAu"
       },
@@ -2335,6 +2319,22 @@
       "duration_ms": 115862,
       "name": "Charm Shades",
       "url": "https://open.spotify.com/track/5WISdIkbxEtCjVvxfIVIYp"
+    },
+    {
+      "added_at": "2026-04-10 04:00:57",
+      "album": {
+        "name": "Good Life",
+        "url": "https://open.spotify.com/album/1ICaCOfTCfaa6lIImFCKx4"
+      },
+      "artists": [
+        {
+          "name": "Harry Hawaii",
+          "url": "https://open.spotify.com/artist/7fQVHvcP2LSpPU3pNU7wKA"
+        }
+      ],
+      "duration_ms": 126005,
+      "name": "Good Life",
+      "url": "https://open.spotify.com/track/2Ud7OQ3gvBuKOhMrzX1SVe"
     },
     {
       "added_at": "2026-04-10 04:00:57",
@@ -2371,26 +2371,6 @@
     {
       "added_at": "2026-04-10 04:00:57",
       "album": {
-        "name": "On Deck",
-        "url": "https://open.spotify.com/album/1xqQixpj6MnxOLUPChcfbL"
-      },
-      "artists": [
-        {
-          "name": "SamuW",
-          "url": "https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio"
-        },
-        {
-          "name": "Kimm\u00f8",
-          "url": "https://open.spotify.com/artist/0T2cWe3Y09qz2tp19oDLUz"
-        }
-      ],
-      "duration_ms": 130119,
-      "name": "On Deck",
-      "url": "https://open.spotify.com/track/0JKCembNLNFrS8U8V6I8K5"
-    },
-    {
-      "added_at": "2026-04-10 04:00:57",
-      "album": {
         "name": "Rhythm",
         "url": "https://open.spotify.com/album/0G5IAmVM6UiQS4IyAQaKWZ"
       },
@@ -2403,26 +2383,6 @@
       "duration_ms": 97687,
       "name": "Rhythm",
       "url": "https://open.spotify.com/track/1gx8cjqMnGmY7264h36zrJ"
-    },
-    {
-      "added_at": "2026-04-10 04:00:57",
-      "album": {
-        "name": "Suite 8",
-        "url": "https://open.spotify.com/album/6zlTwu4W93EGNO9mBToGTP"
-      },
-      "artists": [
-        {
-          "name": "Casiio",
-          "url": "https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a"
-        },
-        {
-          "name": "Nokiaa",
-          "url": "https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN"
-        }
-      ],
-      "duration_ms": 110769,
-      "name": "Suite 8",
-      "url": "https://open.spotify.com/track/2gT8jhUQ5BXEBLNTePmlR1"
     },
     {
       "added_at": "2026-04-10 04:00:57",
@@ -2443,22 +2403,42 @@
     {
       "added_at": "2026-04-10 04:00:57",
       "album": {
-        "name": "Lo Que Queda",
-        "url": "https://open.spotify.com/album/3djr31EpN79WlmnWgGjxXB"
+        "name": "On Deck",
+        "url": "https://open.spotify.com/album/1xqQixpj6MnxOLUPChcfbL"
       },
       "artists": [
         {
-          "name": "Fed Nance",
-          "url": "https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm"
+          "name": "SamuW",
+          "url": "https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio"
         },
         {
-          "name": "Donkeychote",
-          "url": "https://open.spotify.com/artist/3qPSdWkG9474zgjbxYwncU"
+          "name": "Kimm\u00f8",
+          "url": "https://open.spotify.com/artist/0T2cWe3Y09qz2tp19oDLUz"
         }
       ],
-      "duration_ms": 129655,
-      "name": "Lo Que Queda",
-      "url": "https://open.spotify.com/track/2O5U7PvbZI0zgwZwbI7rCr"
+      "duration_ms": 130119,
+      "name": "On Deck",
+      "url": "https://open.spotify.com/track/0JKCembNLNFrS8U8V6I8K5"
+    },
+    {
+      "added_at": "2026-04-10 04:00:57",
+      "album": {
+        "name": "Suite 8",
+        "url": "https://open.spotify.com/album/6zlTwu4W93EGNO9mBToGTP"
+      },
+      "artists": [
+        {
+          "name": "Casiio",
+          "url": "https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a"
+        },
+        {
+          "name": "Nokiaa",
+          "url": "https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN"
+        }
+      ],
+      "duration_ms": 110769,
+      "name": "Suite 8",
+      "url": "https://open.spotify.com/track/2gT8jhUQ5BXEBLNTePmlR1"
     },
     {
       "added_at": "2026-04-10 04:00:57",
@@ -2487,26 +2467,22 @@
     {
       "added_at": "2026-04-10 04:00:57",
       "album": {
-        "name": "Moon Shades",
-        "url": "https://open.spotify.com/album/6c8Iq1Oi5SD5qbu0c6C2mz"
+        "name": "Lo Que Queda",
+        "url": "https://open.spotify.com/album/3djr31EpN79WlmnWgGjxXB"
       },
       "artists": [
         {
-          "name": "T.Check",
-          "url": "https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc"
+          "name": "Fed Nance",
+          "url": "https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm"
         },
         {
-          "name": "Jam'addict",
-          "url": "https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca"
-        },
-        {
-          "name": "Lowkey",
-          "url": "https://open.spotify.com/artist/7toCka0iNs3DkEyWv94JmO"
+          "name": "Donkeychote",
+          "url": "https://open.spotify.com/artist/3qPSdWkG9474zgjbxYwncU"
         }
       ],
-      "duration_ms": 120000,
-      "name": "Moon Shades",
-      "url": "https://open.spotify.com/track/2HQKaNWXU1qecVs7hSAtFs"
+      "duration_ms": 129655,
+      "name": "Lo Que Queda",
+      "url": "https://open.spotify.com/track/2O5U7PvbZI0zgwZwbI7rCr"
     },
     {
       "added_at": "2026-04-10 04:00:57",
@@ -2527,22 +2503,26 @@
     {
       "added_at": "2026-04-10 04:00:57",
       "album": {
-        "name": "Parallax",
-        "url": "https://open.spotify.com/album/5LhaEzY2NT5JLJHrwOT9IB"
+        "name": "Moon Shades",
+        "url": "https://open.spotify.com/album/6c8Iq1Oi5SD5qbu0c6C2mz"
       },
       "artists": [
         {
-          "name": "Lito Akari",
-          "url": "https://open.spotify.com/artist/4ATIy1cxe2gE276vbRv2Hu"
+          "name": "T.Check",
+          "url": "https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc"
         },
         {
-          "name": "Smoke Trees",
-          "url": "https://open.spotify.com/artist/6cN5TvotJoRbhYHoCHw8BI"
+          "name": "Jam'addict",
+          "url": "https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca"
+        },
+        {
+          "name": "Lowkey",
+          "url": "https://open.spotify.com/artist/7toCka0iNs3DkEyWv94JmO"
         }
       ],
-      "duration_ms": 108102,
-      "name": "Parallax",
-      "url": "https://open.spotify.com/track/6mveH4NIJph6hdnPybILkS"
+      "duration_ms": 120000,
+      "name": "Moon Shades",
+      "url": "https://open.spotify.com/track/2HQKaNWXU1qecVs7hSAtFs"
     },
     {
       "added_at": "2026-04-10 04:00:57",
@@ -2571,34 +2551,22 @@
     {
       "added_at": "2026-04-10 04:00:57",
       "album": {
-        "name": "Against You",
-        "url": "https://open.spotify.com/album/5mnB0IXCKrkIw1fZygfeRV"
+        "name": "Parallax",
+        "url": "https://open.spotify.com/album/5LhaEzY2NT5JLJHrwOT9IB"
       },
       "artists": [
         {
-          "name": "CrazyJaZz",
-          "url": "https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm"
-        }
-      ],
-      "duration_ms": 131013,
-      "name": "Against You",
-      "url": "https://open.spotify.com/track/4hUNcEFXCoq26rPGd3jZlV"
-    },
-    {
-      "added_at": "2026-04-10 04:00:57",
-      "album": {
-        "name": "Renato",
-        "url": "https://open.spotify.com/album/74p8SxoJSY2gtaC6BlpTHa"
-      },
-      "artists": [
+          "name": "Lito Akari",
+          "url": "https://open.spotify.com/artist/4ATIy1cxe2gE276vbRv2Hu"
+        },
         {
-          "name": "Seaspray",
-          "url": "https://open.spotify.com/artist/1Okty0KbID5pnDTfNKB7mO"
+          "name": "Smoke Trees",
+          "url": "https://open.spotify.com/artist/6cN5TvotJoRbhYHoCHw8BI"
         }
       ],
-      "duration_ms": 118095,
-      "name": "Renato",
-      "url": "https://open.spotify.com/track/0S7QUkT5qMA3wXAge3xQxX"
+      "duration_ms": 108102,
+      "name": "Parallax",
+      "url": "https://open.spotify.com/track/6mveH4NIJph6hdnPybILkS"
     },
     {
       "added_at": "2026-04-10 04:00:57",
@@ -2623,18 +2591,18 @@
     {
       "added_at": "2026-04-10 04:00:57",
       "album": {
-        "name": "Cohibas",
-        "url": "https://open.spotify.com/album/0HXc2high8QHZwiD9sC9k8"
+        "name": "Against You",
+        "url": "https://open.spotify.com/album/5mnB0IXCKrkIw1fZygfeRV"
       },
       "artists": [
         {
-          "name": "Slowdown",
-          "url": "https://open.spotify.com/artist/6qMZqcd02lR7PB8Np47OSF"
+          "name": "CrazyJaZz",
+          "url": "https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm"
         }
       ],
-      "duration_ms": 111046,
-      "name": "Cohibas",
-      "url": "https://open.spotify.com/track/56yJ6yhbaPSe9SwTgwi3Go"
+      "duration_ms": 131013,
+      "name": "Against You",
+      "url": "https://open.spotify.com/track/4hUNcEFXCoq26rPGd3jZlV"
     },
     {
       "added_at": "2026-04-10 04:00:57",
@@ -2655,6 +2623,38 @@
     {
       "added_at": "2026-04-10 04:00:57",
       "album": {
+        "name": "Renato",
+        "url": "https://open.spotify.com/album/74p8SxoJSY2gtaC6BlpTHa"
+      },
+      "artists": [
+        {
+          "name": "Seaspray",
+          "url": "https://open.spotify.com/artist/1Okty0KbID5pnDTfNKB7mO"
+        }
+      ],
+      "duration_ms": 118095,
+      "name": "Renato",
+      "url": "https://open.spotify.com/track/0S7QUkT5qMA3wXAge3xQxX"
+    },
+    {
+      "added_at": "2026-04-10 04:00:57",
+      "album": {
+        "name": "Cohibas",
+        "url": "https://open.spotify.com/album/0HXc2high8QHZwiD9sC9k8"
+      },
+      "artists": [
+        {
+          "name": "Slowdown",
+          "url": "https://open.spotify.com/artist/6qMZqcd02lR7PB8Np47OSF"
+        }
+      ],
+      "duration_ms": 111046,
+      "name": "Cohibas",
+      "url": "https://open.spotify.com/track/56yJ6yhbaPSe9SwTgwi3Go"
+    },
+    {
+      "added_at": "2026-04-10 04:00:57",
+      "album": {
         "name": "way home",
         "url": "https://open.spotify.com/album/4wt7dpPKyWzgNcLIwEgvFS"
       },
@@ -2667,6 +2667,22 @@
       "duration_ms": 121558,
       "name": "way home",
       "url": "https://open.spotify.com/track/3qFu1A9mh9eG8xIGhYjOmR"
+    },
+    {
+      "added_at": "2026-04-10 04:00:57",
+      "album": {
+        "name": "Crimson",
+        "url": "https://open.spotify.com/album/7jWYq4jLHtPtmgMvA4m8aD"
+      },
+      "artists": [
+        {
+          "name": "7apes",
+          "url": "https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv"
+        }
+      ],
+      "duration_ms": 112602,
+      "name": "Crimson",
+      "url": "https://open.spotify.com/track/0lHKUq3vasc9eAKVdMVcG3"
     },
     {
       "added_at": "2026-04-10 04:00:57",
@@ -2707,22 +2723,6 @@
     {
       "added_at": "2026-04-10 04:00:57",
       "album": {
-        "name": "Crimson",
-        "url": "https://open.spotify.com/album/7jWYq4jLHtPtmgMvA4m8aD"
-      },
-      "artists": [
-        {
-          "name": "7apes",
-          "url": "https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv"
-        }
-      ],
-      "duration_ms": 112602,
-      "name": "Crimson",
-      "url": "https://open.spotify.com/track/0lHKUq3vasc9eAKVdMVcG3"
-    },
-    {
-      "added_at": "2026-04-10 04:00:57",
-      "album": {
         "name": "Myth",
         "url": "https://open.spotify.com/album/2uEzVjqCcDFdfbgRjyMn4s"
       },
@@ -2755,22 +2755,6 @@
     {
       "added_at": "2026-04-10 04:00:57",
       "album": {
-        "name": "Straight Up",
-        "url": "https://open.spotify.com/album/2nZMG2S53o7mAk9mzTp4G7"
-      },
-      "artists": [
-        {
-          "name": "Two Scents",
-          "url": "https://open.spotify.com/artist/7sRau6OFIdLc2jMdzZRt81"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Straight Up",
-      "url": "https://open.spotify.com/track/5WIDMj1UPekxVyMrUGGpXM"
-    },
-    {
-      "added_at": "2026-04-10 04:00:57",
-      "album": {
         "name": "Midwinter",
         "url": "https://open.spotify.com/album/1xt4asJhgJkJrHP3DAELoz"
       },
@@ -2787,6 +2771,22 @@
       "duration_ms": 129473,
       "name": "Midwinter",
       "url": "https://open.spotify.com/track/54HrOr8kE2HJZb1af5qBuD"
+    },
+    {
+      "added_at": "2026-04-10 04:00:57",
+      "album": {
+        "name": "Straight Up",
+        "url": "https://open.spotify.com/album/2nZMG2S53o7mAk9mzTp4G7"
+      },
+      "artists": [
+        {
+          "name": "Two Scents",
+          "url": "https://open.spotify.com/artist/7sRau6OFIdLc2jMdzZRt81"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Straight Up",
+      "url": "https://open.spotify.com/track/5WIDMj1UPekxVyMrUGGpXM"
     },
     {
       "added_at": "2026-04-10 04:00:57",
@@ -2819,6 +2819,26 @@
       "duration_ms": 120000,
       "name": "Think Twice",
       "url": "https://open.spotify.com/track/5TYagQdQRwe9ivfuKU471K"
+    },
+    {
+      "added_at": "2026-04-10 04:00:57",
+      "album": {
+        "name": "open windows",
+        "url": "https://open.spotify.com/album/2lOQZXSVPpxY9cLLain070"
+      },
+      "artists": [
+        {
+          "name": "Sleepermane",
+          "url": "https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI"
+        },
+        {
+          "name": "dennisivnvc",
+          "url": "https://open.spotify.com/artist/03sYI7Ckj5JOq6cYowPUmo"
+        }
+      ],
+      "duration_ms": 111575,
+      "name": "open windows",
+      "url": "https://open.spotify.com/track/1ZwtG4NRAypqG6cWwARmtL"
     },
     {
       "added_at": "2026-04-10 04:00:57",
@@ -2859,26 +2879,6 @@
     {
       "added_at": "2026-04-10 04:00:57",
       "album": {
-        "name": "open windows",
-        "url": "https://open.spotify.com/album/2lOQZXSVPpxY9cLLain070"
-      },
-      "artists": [
-        {
-          "name": "Sleepermane",
-          "url": "https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI"
-        },
-        {
-          "name": "dennisivnvc",
-          "url": "https://open.spotify.com/artist/03sYI7Ckj5JOq6cYowPUmo"
-        }
-      ],
-      "duration_ms": 111575,
-      "name": "open windows",
-      "url": "https://open.spotify.com/track/1ZwtG4NRAypqG6cWwARmtL"
-    },
-    {
-      "added_at": "2026-04-10 04:00:57",
-      "album": {
         "name": "cycles",
         "url": "https://open.spotify.com/album/0wbo43jLQ902v4wSimCh1u"
       },
@@ -2891,6 +2891,22 @@
       "duration_ms": 132107,
       "name": "cycles",
       "url": "https://open.spotify.com/track/55nIFLXoWJDzwbTyT3v6tu"
+    },
+    {
+      "added_at": "2026-04-10 04:00:57",
+      "album": {
+        "name": "Fint",
+        "url": "https://open.spotify.com/album/4pYr5jUlcKsChopvZaTMjP"
+      },
+      "artists": [
+        {
+          "name": "lorleaf",
+          "url": "https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y"
+        }
+      ],
+      "duration_ms": 114615,
+      "name": "Fint",
+      "url": "https://open.spotify.com/track/6RcS2D1J87SPKZcbfNUKgG"
     },
     {
       "added_at": "2026-04-10 04:00:57",
@@ -2911,22 +2927,6 @@
       "duration_ms": 121519,
       "name": "City Lounge",
       "url": "https://open.spotify.com/track/33nQf4ErH4PSorxi3KuEHM"
-    },
-    {
-      "added_at": "2026-04-10 04:00:57",
-      "album": {
-        "name": "Fint",
-        "url": "https://open.spotify.com/album/4pYr5jUlcKsChopvZaTMjP"
-      },
-      "artists": [
-        {
-          "name": "lorleaf",
-          "url": "https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y"
-        }
-      ],
-      "duration_ms": 114615,
-      "name": "Fint",
-      "url": "https://open.spotify.com/track/6RcS2D1J87SPKZcbfNUKgG"
     },
     {
       "added_at": "2026-04-10 04:00:57",
@@ -2963,6 +2963,22 @@
       "duration_ms": 118489,
       "name": "Chichihua",
       "url": "https://open.spotify.com/track/2r20uyktL1iCiwXIBN19ok"
+    },
+    {
+      "added_at": "2026-04-10 04:00:57",
+      "album": {
+        "name": "Crooked Mirror of the Soul",
+        "url": "https://open.spotify.com/album/10bXkjlaEHrIEhuDRiDAle"
+      },
+      "artists": [
+        {
+          "name": "NEKOB",
+          "url": "https://open.spotify.com/artist/3tMMTfUIzDEm4qxPMrV1Mi"
+        }
+      ],
+      "duration_ms": 111000,
+      "name": "Crooked Mirror of the Soul",
+      "url": "https://open.spotify.com/track/6rx7YJo2x8GxKowxkvH8Qe"
     },
     {
       "added_at": "2026-04-10 04:00:57",
@@ -3027,26 +3043,6 @@
     {
       "added_at": "2026-04-10 04:00:57",
       "album": {
-        "name": "sovereign",
-        "url": "https://open.spotify.com/album/029MF3wH8f1fppVAbZJUKg"
-      },
-      "artists": [
-        {
-          "name": "UKDD",
-          "url": "https://open.spotify.com/artist/14AiEXtiaKk6yF7YO2fap8"
-        },
-        {
-          "name": "Maadrhino",
-          "url": "https://open.spotify.com/artist/69NXAR2kpX8fv5ed7xJpgx"
-        }
-      ],
-      "duration_ms": 121363,
-      "name": "sovereign",
-      "url": "https://open.spotify.com/track/6i9D8RMFWBu7d4PAWCBvVY"
-    },
-    {
-      "added_at": "2026-04-10 04:00:57",
-      "album": {
         "name": "Love Language",
         "url": "https://open.spotify.com/album/0eMLIP4iewU0BjiakdWzRz"
       },
@@ -3063,58 +3059,22 @@
     {
       "added_at": "2026-04-10 04:00:57",
       "album": {
-        "name": "Crooked Mirror of the Soul",
-        "url": "https://open.spotify.com/album/10bXkjlaEHrIEhuDRiDAle"
+        "name": "sovereign",
+        "url": "https://open.spotify.com/album/029MF3wH8f1fppVAbZJUKg"
       },
       "artists": [
         {
-          "name": "NEKOB",
-          "url": "https://open.spotify.com/artist/3tMMTfUIzDEm4qxPMrV1Mi"
-        }
-      ],
-      "duration_ms": 111000,
-      "name": "Crooked Mirror of the Soul",
-      "url": "https://open.spotify.com/track/6rx7YJo2x8GxKowxkvH8Qe"
-    },
-    {
-      "added_at": "2026-04-10 04:00:57",
-      "album": {
-        "name": "lemon maffin",
-        "url": "https://open.spotify.com/album/5JKt17rTX3zBmoveaQjCHV"
-      },
-      "artists": [
-        {
-          "name": "skrn",
-          "url": "https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ"
+          "name": "UKDD",
+          "url": "https://open.spotify.com/artist/14AiEXtiaKk6yF7YO2fap8"
         },
         {
-          "name": ".Eehou",
-          "url": "https://open.spotify.com/artist/5n9SautEmQzoC7G47NBta0"
+          "name": "Maadrhino",
+          "url": "https://open.spotify.com/artist/69NXAR2kpX8fv5ed7xJpgx"
         }
       ],
-      "duration_ms": 128780,
-      "name": "lemon maffin",
-      "url": "https://open.spotify.com/track/2tch1kGFkwkWwaPfFo3MoU"
-    },
-    {
-      "added_at": "2026-04-10 04:00:57",
-      "album": {
-        "name": "Beach Bars",
-        "url": "https://open.spotify.com/album/0ucTkzP2XUrQ1ADwr2Kll4"
-      },
-      "artists": [
-        {
-          "name": "Lowkey",
-          "url": "https://open.spotify.com/artist/7toCka0iNs3DkEyWv94JmO"
-        },
-        {
-          "name": "Jam'addict",
-          "url": "https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Beach Bars",
-      "url": "https://open.spotify.com/track/0AZWFFaznQQBh3COx61Nce"
+      "duration_ms": 121363,
+      "name": "sovereign",
+      "url": "https://open.spotify.com/track/6i9D8RMFWBu7d4PAWCBvVY"
     },
     {
       "added_at": "2026-04-10 04:00:57",
@@ -3159,6 +3119,46 @@
     {
       "added_at": "2026-04-10 04:00:57",
       "album": {
+        "name": "lemon maffin",
+        "url": "https://open.spotify.com/album/5JKt17rTX3zBmoveaQjCHV"
+      },
+      "artists": [
+        {
+          "name": "skrn",
+          "url": "https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ"
+        },
+        {
+          "name": ".Eehou",
+          "url": "https://open.spotify.com/artist/5n9SautEmQzoC7G47NBta0"
+        }
+      ],
+      "duration_ms": 128780,
+      "name": "lemon maffin",
+      "url": "https://open.spotify.com/track/2tch1kGFkwkWwaPfFo3MoU"
+    },
+    {
+      "added_at": "2026-04-10 04:00:57",
+      "album": {
+        "name": "Beach Bars",
+        "url": "https://open.spotify.com/album/0ucTkzP2XUrQ1ADwr2Kll4"
+      },
+      "artists": [
+        {
+          "name": "Lowkey",
+          "url": "https://open.spotify.com/artist/7toCka0iNs3DkEyWv94JmO"
+        },
+        {
+          "name": "Jam'addict",
+          "url": "https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Beach Bars",
+      "url": "https://open.spotify.com/track/0AZWFFaznQQBh3COx61Nce"
+    },
+    {
+      "added_at": "2026-04-10 04:00:57",
+      "album": {
         "name": "Afternoondriftaway",
         "url": "https://open.spotify.com/album/2nimlAPPV8KeS7HOcS51TA"
       },
@@ -3179,18 +3179,18 @@
     {
       "added_at": "2026-04-10 04:00:57",
       "album": {
-        "name": "Emotions",
-        "url": "https://open.spotify.com/album/62cmR42ComAoovd8lep0sc"
+        "name": "Calafate",
+        "url": "https://open.spotify.com/album/6hZjD4GnH6TbRUglyMWWCv"
       },
       "artists": [
         {
-          "name": "skrn",
-          "url": "https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ"
+          "name": "Civin",
+          "url": "https://open.spotify.com/artist/05PE7U7GPUq687RB2ZJdFW"
         }
       ],
-      "duration_ms": 124235,
-      "name": "Emotions",
-      "url": "https://open.spotify.com/track/2iq7cTcwCbPXwjQ969MZ63"
+      "duration_ms": 99791,
+      "name": "Calafate",
+      "url": "https://open.spotify.com/track/6j8wCbTxcupulGNPLkqTsE"
     },
     {
       "added_at": "2026-04-10 04:00:57",
@@ -3207,6 +3207,22 @@
       "duration_ms": 110833,
       "name": "Full Circle",
       "url": "https://open.spotify.com/track/7GmAZTd0h6PCzVXfGKa9co"
+    },
+    {
+      "added_at": "2026-04-10 04:00:57",
+      "album": {
+        "name": "Emotions",
+        "url": "https://open.spotify.com/album/62cmR42ComAoovd8lep0sc"
+      },
+      "artists": [
+        {
+          "name": "skrn",
+          "url": "https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ"
+        }
+      ],
+      "duration_ms": 124235,
+      "name": "Emotions",
+      "url": "https://open.spotify.com/track/2iq7cTcwCbPXwjQ969MZ63"
     },
     {
       "added_at": "2026-04-10 04:00:57",
@@ -3243,22 +3259,6 @@
       "duration_ms": 132416,
       "name": "Cream",
       "url": "https://open.spotify.com/track/7gKStrOOATphBtfbQnfah4"
-    },
-    {
-      "added_at": "2026-04-10 04:00:57",
-      "album": {
-        "name": "Calafate",
-        "url": "https://open.spotify.com/album/6hZjD4GnH6TbRUglyMWWCv"
-      },
-      "artists": [
-        {
-          "name": "Civin",
-          "url": "https://open.spotify.com/artist/05PE7U7GPUq687RB2ZJdFW"
-        }
-      ],
-      "duration_ms": 99791,
-      "name": "Calafate",
-      "url": "https://open.spotify.com/track/6j8wCbTxcupulGNPLkqTsE"
     },
     {
       "added_at": "2026-04-10 04:00:57",

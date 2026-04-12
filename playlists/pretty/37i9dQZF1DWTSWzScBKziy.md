@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 
 > All new Contemporary Christian songs on the rise! Cover: Lainey Wilson & Brandon Lake
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,370 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,440 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 | 11 | [ICU](https://open.spotify.com/track/5MgTtwRKD6Mm7eRJbMh4N1) | [Joseph O'Brien](https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa) | [ICU](https://open.spotify.com/album/5orbBYRUUgZsZSDuN9z8j3) | 2:53 |
 | 12 | [Silence](https://open.spotify.com/track/1shkGViIKA1j6afZNF6jwN) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [Silence](https://open.spotify.com/album/4Pr78CKZWWqGq6GAEo83QX) | 3:53 |
 | 13 | [Questions](https://open.spotify.com/track/3ncYFpndnPoTdoV8NUNBJz) | [Samantha Ebert](https://open.spotify.com/artist/0ETOPq7bpPG7rxYsV0MEzu) | [Questions](https://open.spotify.com/album/5pnwdDVdh7EABESXfKdZoQ) | 2:54 |
-| 14 | [Hollow Grave](https://open.spotify.com/track/2BLwU4wimlaVNUtgUshRne) | [Aodhán King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf), [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [Hollow Grave](https://open.spotify.com/album/4yNbmNxjROUUaZcjQMa57p) | 3:40 |
+| 14 | [Hollow Grave](https://open.spotify.com/track/2BLwU4wimlaVNUtgUshRne) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm), [Aodhán King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf) | [Hollow Grave](https://open.spotify.com/album/4yNbmNxjROUUaZcjQMa57p) | 3:40 |
 | 15 | [Say It Now](https://open.spotify.com/track/3eOLu0TlUxIZfO27U2rH57) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [The Long Surrender](https://open.spotify.com/album/5Yd6dCvGRj66lmbRmdgHEf) | 3:53 |
 | 16 | [We Turn Our Eyes](https://open.spotify.com/track/0FmXi9DmlwfA15LKO47Dp1) | [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU), [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4) | [The Resurrection Of A King](https://open.spotify.com/album/4wLFc5K7ODnAYiFD9bXOfK) | 5:55 |
 | 17 | [Resurrect \(John 20\)](https://open.spotify.com/track/7kMLw2enk84NNp001TSfTw) | [Jonny Henninger](https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4), [Mattea Bret](https://open.spotify.com/artist/6fNpEj8qIBOiH0UpkdlaWK) | [Fidelity](https://open.spotify.com/album/4VEedDAjIFSLYbSNLNHcfX) | 3:25 |

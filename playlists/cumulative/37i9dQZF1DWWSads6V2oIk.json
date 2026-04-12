@@ -243,6 +243,24 @@
     },
     {
       "album": {
+        "name": "Catskill Forest Preserve",
+        "url": "https://open.spotify.com/album/3hXgvl77LoBLLxZ83jfxb8"
+      },
+      "artists": [
+        {
+          "name": "Waveseekers",
+          "url": "https://open.spotify.com/artist/02ucRkp1Tm4yA5ZZwfG184"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247466,
+      "name": "Catskill Forest Preserve",
+      "url": "https://open.spotify.com/track/13NGtQYPvPqAt4e02LpDJz"
+    },
+    {
+      "album": {
         "name": "Wonders of Tranquility",
         "url": "https://open.spotify.com/album/1nsqaBBOXh4iPeJ6Mf1E9A"
       },
@@ -629,6 +647,24 @@
     },
     {
       "album": {
+        "name": "Evergreen Noise",
+        "url": "https://open.spotify.com/album/1RLp7d0lQa4gQxYlVsImJt"
+      },
+      "artists": [
+        {
+          "name": "Celestial Noise",
+          "url": "https://open.spotify.com/artist/6UxIoQdnDknYEYsVX61G9z"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154033,
+      "name": "Evergreen Noise",
+      "url": "https://open.spotify.com/track/2mmfMsEA9FmbrphnBvyJEa"
+    },
+    {
+      "album": {
         "name": "Nature Sound in HD",
         "url": "https://open.spotify.com/album/2FamwsbosEaAyFWlcIFFdF"
       },
@@ -892,7 +928,7 @@
       ],
       "date_added": "2025-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 190044,
       "name": "Grasshopper Song",
       "url": "https://open.spotify.com/track/2jJa0x8vU6LhjKbo9S5Iwo"
@@ -2218,7 +2254,7 @@
       ],
       "date_added": "2025-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 896000,
       "name": "Secluded Forest",
       "url": "https://open.spotify.com/track/4VZuBxVjeoLFjmPq6ZCrwt"

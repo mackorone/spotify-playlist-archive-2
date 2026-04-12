@@ -1,12 +1,12 @@
 {
   "description": "This is Racionais MC's. The essential tracks, all in one playlist.",
-  "num_followers": 576134,
+  "num_followers": 576104,
   "original_name": "This Is Racionais MC's",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adbsAAAAAAA5ee2by9oVb3F5/cYGEqsk",
+  "snapshot_id": "adg9gAAAAACCWP5VpUeZn0KQXoFjjczq",
   "tracks": [
     {
       "added_at": null,
@@ -334,17 +334,21 @@
         {
           "name": "Racionais MC's",
           "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
+        },
+        {
+          "name": "DJ CIA",
+          "url": "https://open.spotify.com/artist/4ADw50fLamm1eoQBm65lHL"
         }
       ],
-      "duration_ms": 159902,
-      "name": "Voc\u00ea Me Deve",
-      "url": "https://open.spotify.com/track/5G4rIw7lHwmxQUADg2lnWo"
+      "duration_ms": 67429,
+      "name": "Somos o Que Somos",
+      "url": "https://open.spotify.com/track/2u9TNvu3s7bvuzluO18B0P"
     },
     {
       "added_at": null,
       "album": {
         "name": "Raio X do Brasil",
-        "url": "https://open.spotify.com/album/2QMZRtm35gtG3ZJs0yl9EM"
+        "url": "https://open.spotify.com/album/3RwDSMSj82TPDkKMnamGeZ"
       },
       "artists": [
         {
@@ -352,9 +356,9 @@
           "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
         }
       ],
-      "duration_ms": 278333,
-      "name": "Panico na Zona Sul",
-      "url": "https://open.spotify.com/track/6uNitskNYppKgkaQQgjKmZ"
+      "duration_ms": 36597,
+      "name": "Introdu\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0AIGUzrv8GEO3fZfmsOPNT"
     },
     {
       "added_at": null,
@@ -398,21 +402,17 @@
         {
           "name": "Racionais MC's",
           "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
-        },
-        {
-          "name": "DJ CIA",
-          "url": "https://open.spotify.com/artist/4ADw50fLamm1eoQBm65lHL"
         }
       ],
-      "duration_ms": 67429,
-      "name": "Somos o Que Somos",
-      "url": "https://open.spotify.com/track/2u9TNvu3s7bvuzluO18B0P"
+      "duration_ms": 159902,
+      "name": "Voc\u00ea Me Deve",
+      "url": "https://open.spotify.com/track/5G4rIw7lHwmxQUADg2lnWo"
     },
     {
       "added_at": null,
       "album": {
         "name": "Raio X do Brasil",
-        "url": "https://open.spotify.com/album/3RwDSMSj82TPDkKMnamGeZ"
+        "url": "https://open.spotify.com/album/2QMZRtm35gtG3ZJs0yl9EM"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
         }
       ],
-      "duration_ms": 36597,
-      "name": "Introdu\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/0AIGUzrv8GEO3fZfmsOPNT"
+      "duration_ms": 278333,
+      "name": "Panico na Zona Sul",
+      "url": "https://open.spotify.com/track/6uNitskNYppKgkaQQgjKmZ"
     },
     {
       "added_at": null,

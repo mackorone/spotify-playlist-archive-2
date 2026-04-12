@@ -1,6 +1,6 @@
 {
   "description": "\u4e16\u754c\u4e2d\u3067\u8a71\u984c\u306e\u30a8\u30ec\u30af\u30c8\u30ed\u30cb\u30c3\u30af\u30fb\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\uff01Cover: AFROJACK, Sia, David Guetta",
-  "num_followers": 68904,
+  "num_followers": 68906,
   "original_name": "mint Japan",
   "owner": {
     "name": "Spotify",
@@ -435,6 +435,26 @@
     {
       "added_at": "2026-04-09 15:00:56",
       "album": {
+        "name": "Dive Into Me",
+        "url": "https://open.spotify.com/album/4wXWmSfJIQerp2UJ2K0wEa"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 166440,
+      "name": "Dive Into Me",
+      "url": "https://open.spotify.com/track/2y3qIbsaOPaj0xKv20rbOQ"
+    },
+    {
+      "added_at": "2026-04-09 15:00:56",
+      "album": {
         "name": "Mockingbird",
         "url": "https://open.spotify.com/album/22dOSFgcI8e3gJbHpG5gYg"
       },
@@ -455,26 +475,6 @@
       "duration_ms": 154838,
       "name": "Mockingbird",
       "url": "https://open.spotify.com/track/2x4JC9TxW2LACuuxbsncfG"
-    },
-    {
-      "added_at": "2026-04-09 15:00:56",
-      "album": {
-        "name": "Dive Into Me",
-        "url": "https://open.spotify.com/album/4wXWmSfJIQerp2UJ2K0wEa"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 166440,
-      "name": "Dive Into Me",
-      "url": "https://open.spotify.com/track/2y3qIbsaOPaj0xKv20rbOQ"
     },
     {
       "added_at": "2026-04-09 15:00:56",
@@ -671,22 +671,18 @@
     {
       "added_at": "2026-04-09 15:00:56",
       "album": {
-        "name": "Alibi (feat. Rudimental)",
-        "url": "https://open.spotify.com/album/3Ku8LDPYg53Kh59amfFWjL"
+        "name": "Actin' Tough",
+        "url": "https://open.spotify.com/album/0lL98VdijOX8PAeg6sl8MZ"
       },
       "artists": [
         {
-          "name": "Ella Henderson",
-          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
-        },
-        {
-          "name": "Rudimental",
-          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+          "name": "Dean Turnley",
+          "url": "https://open.spotify.com/artist/3BcWcwYXVjvLWHMGKsuvsd"
         }
       ],
-      "duration_ms": 184852,
-      "name": "Alibi (feat. Rudimental)",
-      "url": "https://open.spotify.com/track/5Jpz4nv8nA6FIYO5gEyQa2"
+      "duration_ms": 187285,
+      "name": "Actin' Tough",
+      "url": "https://open.spotify.com/track/507j66jaEEUU11uFSTOHFM"
     },
     {
       "added_at": "2026-04-09 15:00:56",
@@ -719,22 +715,22 @@
     {
       "added_at": "2026-04-09 15:00:56",
       "album": {
-        "name": "1-800",
-        "url": "https://open.spotify.com/album/1EsY408Bg5cxj5SCa6ABaI"
+        "name": "Alibi (feat. Rudimental)",
+        "url": "https://open.spotify.com/album/3Ku8LDPYg53Kh59amfFWjL"
       },
       "artists": [
         {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
         },
         {
-          "name": "Ironmouse",
-          "url": "https://open.spotify.com/artist/3rkwWB8rbBCNTrSvVUBa6C"
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
         }
       ],
-      "duration_ms": 209515,
-      "name": "1-800",
-      "url": "https://open.spotify.com/track/6NBZu27n3cxEk4y4c2Kxi8"
+      "duration_ms": 184852,
+      "name": "Alibi (feat. Rudimental)",
+      "url": "https://open.spotify.com/track/5Jpz4nv8nA6FIYO5gEyQa2"
     },
     {
       "added_at": "2026-04-09 15:00:56",
@@ -771,18 +767,22 @@
     {
       "added_at": "2026-04-09 15:00:56",
       "album": {
-        "name": "Actin' Tough",
-        "url": "https://open.spotify.com/album/0lL98VdijOX8PAeg6sl8MZ"
+        "name": "1-800",
+        "url": "https://open.spotify.com/album/1EsY408Bg5cxj5SCa6ABaI"
       },
       "artists": [
         {
-          "name": "Dean Turnley",
-          "url": "https://open.spotify.com/artist/3BcWcwYXVjvLWHMGKsuvsd"
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        },
+        {
+          "name": "Ironmouse",
+          "url": "https://open.spotify.com/artist/3rkwWB8rbBCNTrSvVUBa6C"
         }
       ],
-      "duration_ms": 187285,
-      "name": "Actin' Tough",
-      "url": "https://open.spotify.com/track/507j66jaEEUU11uFSTOHFM"
+      "duration_ms": 209515,
+      "name": "1-800",
+      "url": "https://open.spotify.com/track/6NBZu27n3cxEk4y4c2Kxi8"
     },
     {
       "added_at": "2026-04-09 15:00:56",
@@ -807,6 +807,26 @@
       "duration_ms": 165299,
       "name": "All the Things She Said",
       "url": "https://open.spotify.com/track/6FxRH7N7Q86i6aixaSYYzx"
+    },
+    {
+      "added_at": "2026-04-09 15:00:56",
+      "album": {
+        "name": "Free Your Mind",
+        "url": "https://open.spotify.com/album/0uo2O3BcYrZJzCnHk0I0BU"
+      },
+      "artists": [
+        {
+          "name": "Prospa",
+          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+        },
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        }
+      ],
+      "duration_ms": 201700,
+      "name": "Free Your Mind",
+      "url": "https://open.spotify.com/track/6TWbY1dq8eYtFiMiGdBlOa"
     },
     {
       "added_at": "2026-04-09 15:00:56",
@@ -863,6 +883,26 @@
     {
       "added_at": "2026-04-09 15:00:56",
       "album": {
+        "name": "So Much Beauty (Around Us)",
+        "url": "https://open.spotify.com/album/21Mv7U24CtuCynPMhZGihK"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Nathan Nicholson",
+          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
+        }
+      ],
+      "duration_ms": 154712,
+      "name": "So Much Beauty (Around Us)",
+      "url": "https://open.spotify.com/track/1QNK97rGcsv0EuG7b6Bdey"
+    },
+    {
+      "added_at": "2026-04-09 15:00:56",
+      "album": {
         "name": "Die Living",
         "url": "https://open.spotify.com/album/77gWAhX5gNNkBCOCrPtJTl"
       },
@@ -883,46 +923,6 @@
       "duration_ms": 170625,
       "name": "Die Living",
       "url": "https://open.spotify.com/track/2oKsaWKGDnYD5V0Q8SiSVK"
-    },
-    {
-      "added_at": "2026-04-09 15:00:56",
-      "album": {
-        "name": "Free Your Mind",
-        "url": "https://open.spotify.com/album/0uo2O3BcYrZJzCnHk0I0BU"
-      },
-      "artists": [
-        {
-          "name": "Prospa",
-          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
-        },
-        {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
-        }
-      ],
-      "duration_ms": 201700,
-      "name": "Free Your Mind",
-      "url": "https://open.spotify.com/track/6TWbY1dq8eYtFiMiGdBlOa"
-    },
-    {
-      "added_at": "2026-04-09 15:00:56",
-      "album": {
-        "name": "So Much Beauty (Around Us)",
-        "url": "https://open.spotify.com/album/21Mv7U24CtuCynPMhZGihK"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "Nathan Nicholson",
-          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
-        }
-      ],
-      "duration_ms": 154712,
-      "name": "So Much Beauty (Around Us)",
-      "url": "https://open.spotify.com/track/1QNK97rGcsv0EuG7b6Bdey"
     },
     {
       "added_at": "2026-04-09 15:00:56",
@@ -1379,42 +1379,6 @@
     {
       "added_at": "2026-04-09 15:00:56",
       "album": {
-        "name": "Monster",
-        "url": "https://open.spotify.com/album/0sA97FnZUu5OtYRtN8fZIy"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Emyrson Flora",
-          "url": "https://open.spotify.com/artist/7ojpclnAqwGSfHaSDKDRNW"
-        }
-      ],
-      "duration_ms": 158798,
-      "name": "Monster",
-      "url": "https://open.spotify.com/track/2cxjLvJ5U7rTAyG14aebDX"
-    },
-    {
-      "added_at": "2026-04-09 15:00:56",
-      "album": {
-        "name": "Orla",
-        "url": "https://open.spotify.com/album/7wdlY46kyc6xqANNpog05O"
-      },
-      "artists": [
-        {
-          "name": "nimino",
-          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
-        }
-      ],
-      "duration_ms": 205190,
-      "name": "Orla",
-      "url": "https://open.spotify.com/track/0VFmkwR6SCmT7TIJThlCn9"
-    },
-    {
-      "added_at": "2026-04-09 15:00:56",
-      "album": {
         "name": "Feeling (Hold On You)",
         "url": "https://open.spotify.com/album/5I47KwFb8gDioJY7BlKmDr"
       },
@@ -1431,6 +1395,26 @@
       "duration_ms": 216969,
       "name": "Feeling (Hold On You)",
       "url": "https://open.spotify.com/track/6WAx8NDZE4V1EW7nCAU7tt"
+    },
+    {
+      "added_at": "2026-04-09 15:00:56",
+      "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/0sA97FnZUu5OtYRtN8fZIy"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Emyrson Flora",
+          "url": "https://open.spotify.com/artist/7ojpclnAqwGSfHaSDKDRNW"
+        }
+      ],
+      "duration_ms": 158798,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/2cxjLvJ5U7rTAyG14aebDX"
     },
     {
       "added_at": "2026-04-09 15:00:56",
@@ -1459,6 +1443,22 @@
       "duration_ms": 161367,
       "name": "Our Time",
       "url": "https://open.spotify.com/track/3MUFebos5drIwrUHxUorhP"
+    },
+    {
+      "added_at": "2026-04-09 15:00:56",
+      "album": {
+        "name": "Orla",
+        "url": "https://open.spotify.com/album/7wdlY46kyc6xqANNpog05O"
+      },
+      "artists": [
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        }
+      ],
+      "duration_ms": 205190,
+      "name": "Orla",
+      "url": "https://open.spotify.com/track/0VFmkwR6SCmT7TIJThlCn9"
     },
     {
       "added_at": "2026-04-09 15:00:56",
@@ -1563,26 +1563,6 @@
     {
       "added_at": "2026-04-09 15:00:56",
       "album": {
-        "name": "Come Find Me (with Clementine Douglas)",
-        "url": "https://open.spotify.com/album/2D48QGD5lU5kErH6PxLjTs"
-      },
-      "artists": [
-        {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
-        },
-        {
-          "name": "Clementine Douglas",
-          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
-        }
-      ],
-      "duration_ms": 207149,
-      "name": "Come Find Me (with Clementine Douglas)",
-      "url": "https://open.spotify.com/track/03AhbPoniP5uqqJKYGWgZE"
-    },
-    {
-      "added_at": "2026-04-09 15:00:56",
-      "album": {
         "name": "Galaxy",
         "url": "https://open.spotify.com/album/2BALbsQWKxU1RbUN9oh0NS"
       },
@@ -1607,6 +1587,26 @@
     {
       "added_at": "2026-04-09 15:00:56",
       "album": {
+        "name": "Come Find Me (with Clementine Douglas)",
+        "url": "https://open.spotify.com/album/2D48QGD5lU5kErH6PxLjTs"
+      },
+      "artists": [
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "duration_ms": 207149,
+      "name": "Come Find Me (with Clementine Douglas)",
+      "url": "https://open.spotify.com/track/03AhbPoniP5uqqJKYGWgZE"
+    },
+    {
+      "added_at": "2026-04-09 15:00:56",
+      "album": {
         "name": "Now Or Never",
         "url": "https://open.spotify.com/album/4ObwiIpULEzwOPrtLSd7xA"
       },
@@ -1627,22 +1627,26 @@
     {
       "added_at": "2026-04-09 15:00:56",
       "album": {
-        "name": "Bring Me To Life",
-        "url": "https://open.spotify.com/album/0hLl6XW9qAjuuPijk9SKTe"
+        "name": "One Night",
+        "url": "https://open.spotify.com/album/3h0Ji7hcblEaxopm8daeWL"
       },
       "artists": [
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
         },
         {
-          "name": "FORS",
-          "url": "https://open.spotify.com/artist/3IG2AmQqnXTje1NHlIQViX"
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "Max B",
+          "url": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
         }
       ],
-      "duration_ms": 258461,
-      "name": "Bring Me To Life",
-      "url": "https://open.spotify.com/track/6pkSEqfTFyoqaPXQ1d4nLp"
+      "duration_ms": 147541,
+      "name": "One Night",
+      "url": "https://open.spotify.com/track/7GknomLbhNNjwUH7IqDPZd"
     },
     {
       "added_at": "2026-04-09 15:00:56",
@@ -1667,22 +1671,22 @@
     {
       "added_at": "2026-04-09 15:00:56",
       "album": {
-        "name": "Lifting",
-        "url": "https://open.spotify.com/album/3cSNiUGgO7a6IcGANlCsJg"
+        "name": "Bring Me To Life",
+        "url": "https://open.spotify.com/album/0hLl6XW9qAjuuPijk9SKTe"
       },
       "artists": [
         {
-          "name": "Silva Bumpa",
-          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         },
         {
-          "name": "Riordan",
-          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+          "name": "FORS",
+          "url": "https://open.spotify.com/artist/3IG2AmQqnXTje1NHlIQViX"
         }
       ],
-      "duration_ms": 171428,
-      "name": "Lifting",
-      "url": "https://open.spotify.com/track/5FYqQZJG2PRl2WqttIseZ1"
+      "duration_ms": 258461,
+      "name": "Bring Me To Life",
+      "url": "https://open.spotify.com/track/6pkSEqfTFyoqaPXQ1d4nLp"
     }
   ],
   "unique_name": "mint Japan",

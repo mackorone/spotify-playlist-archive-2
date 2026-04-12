@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,268 songs - 9 day 11 hr 18 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,269 songs - 9 day 11 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4276,5 +4276,6 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4266 | [Facciamo Magia](https://open.spotify.com/track/14IlnJGHHbt4JzduLMdFMR) | [Artide](https://open.spotify.com/artist/7JDUHZiaiEls9VVH7hmnNF) | [Facciamo Magia](https://open.spotify.com/album/3mESk1TGMe6222vIIp8xMi) | 3:06 |
 | 4267 | [Abyss](https://open.spotify.com/track/1a1aKkuMpS40ClyL1HEgRq) | [Moonlight Wild](https://open.spotify.com/artist/4YGuNsct1wczluINOR0VXz) | [Abyss](https://open.spotify.com/album/3EQpjJI7oJbsfFDw2wR84B) | 5:00 |
 | 4268 | [Космос ждёт!](https://open.spotify.com/track/3eI5TOZVCiR9F1UGgBunrq) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Космос ждёт!](https://open.spotify.com/album/3aEUPND51PH4Kw466Tw49M) | 4:44 |
+| 4269 | [Falta o Sobra](https://open.spotify.com/track/6tDWnFJcIUAxhZ2GVoBQXd) | [Miscellaneous](https://open.spotify.com/artist/4lVq1XJ7brnkOBuzOzznHi) | [Miscellaneous](https://open.spotify.com/album/3suDk3EaTehsxRL6yoEx5s) | 3:53 |
 
-Snapshot ID: `AAAIK0nk1lcdl1fWSyk9DPHDXy85zDZf`
+Snapshot ID: `AAAILHRrkUgDNQ+RW2J+AC8iKMXrAvNX`

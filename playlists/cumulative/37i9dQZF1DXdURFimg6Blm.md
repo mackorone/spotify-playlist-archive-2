@@ -4,7 +4,7 @@
 
 > Boost your energy with these dance tracks.
 
-709 songs - 1 day 11 hr 6 min
+710 songs - 1 day 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [Dystopia](https://open.spotify.com/track/755jaJqdAQTreuL8MLYT5K) | [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A) | [Hope In Chaos](https://open.spotify.com/album/3pRgDX9Fl29rR0WcQNm0tt) | 3:13 | 2022-01-07 | 2022-04-16 |
 | [Easy On My Heart](https://open.spotify.com/track/6f08saOLZyQr0ulFKUzFeL) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Easy On My Heart](https://open.spotify.com/album/4HW5Zf1o0eOxIfQETZFqab) | 2:58 | 2023-09-15 | 2024-06-22 |
 | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/album/6UC9oEbksP0m0Sfl1sgVEQ) | 3:17 | 2023-06-03 | 2025-04-16 |
+| [Echo](https://open.spotify.com/track/1HJqcvrJAgiID47SEGe27X) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Echo](https://open.spotify.com/album/37CYoaYJA39qUt4zl00Dnp) | 3:39 | 2026-04-10 |  |
 | [Edge Of Paradise](https://open.spotify.com/track/0YNHg1o0UemtxcGmI1SIQW) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw), [ZANA](https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE) | [Edge Of Paradise](https://open.spotify.com/album/1Fr2ssI43ou8DaXrce1Uaz) | 3:12 | 2022-04-08 | 2022-04-13 |
 | [Edge of Seventeen](https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Edge of Seventeen](https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef) | 2:44 | 2022-12-16 | 2025-04-16 |
 | [Edge Of The World \(feat\. Nu\-La\)](https://open.spotify.com/track/2zfWwqiWzmXRsyICIDbwGW) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e), [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7), [Nu\-La](https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR) | [Edge Of The World \(feat\. Nu\-La\)](https://open.spotify.com/album/5v93LnHvcpo8xS7bl1DCA5) | 2:53 | 2025-03-14 | 2025-05-31 |
@@ -208,7 +209,7 @@
 | [Eyes On You](https://open.spotify.com/track/1evX3NUBE7QujnSmky2ox4) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Quarterhead](https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY) | [Eyes On You](https://open.spotify.com/album/6UiYJyJVz6xIwlYOL6g4WI) | 3:22 | 2022-01-07 | 2022-05-07 |
 | [Facilita](https://open.spotify.com/track/2VZ0ncmWdOyrsVKfc8fwa4) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54), [Menor Teteu](https://open.spotify.com/artist/3uxTvUjeRTQDfrB59A1zWb) | [Facilita](https://open.spotify.com/album/3WmLwaeaQ07qodXo5Cmel0) | 4:17 | 2025-10-24 | 2025-12-20 |
 | [FADE](https://open.spotify.com/track/1ZpzOXJwRbvKgYK2XBVRfi) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B) | [FADE](https://open.spotify.com/album/5n4l9QpvnozMdhrdxRQIHU) | 2:58 | 2026-03-20 |  |
-| [FADED](https://open.spotify.com/track/0OSKN4D9kXEunDf89augTt) | [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [FADED](https://open.spotify.com/album/2MUwWCMAyqzlf0xn3LyH4s) | 3:35 | 2025-11-21 |  |
+| [FADED](https://open.spotify.com/track/0OSKN4D9kXEunDf89augTt) | [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [FADED](https://open.spotify.com/album/2MUwWCMAyqzlf0xn3LyH4s) | 3:35 | 2025-11-21 | 2026-04-12 |
 | [Fancy $hit](https://open.spotify.com/track/2pZwLbKPazJUZItP235e6O) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [Taylr Renee](https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8) | [Fancy $hit](https://open.spotify.com/album/2DFFAszheHpFsCnCUUyQgh) | 2:48 | 2025-09-26 | 2025-11-09 |
 | [favorite kind of high \- David Guetta Remix](https://open.spotify.com/track/1QotPsE3JVNnrAAtatQFt0) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [favorite kind of high \(David Guetta Remix\)](https://open.spotify.com/album/6wMEg3O3cbrXcOYXSnFYR6) | 2:33 | 2023-06-03 | 2023-07-23 |
 | [Feel It \- Club Edit](https://open.spotify.com/track/71xKlOIhZKO55Rt3zSHzQt) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Feel It \(Club Edit\)](https://open.spotify.com/album/0xa0dJgYKO9keCfgjhuBYH) | 2:04 | 2023-08-11 | 2024-02-24 |

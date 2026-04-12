@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,308 likes - 307 songs - 15 hr 50 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,311 likes - 314 songs - 16 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -315,5 +315,12 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 305 | [Caged Bird](https://open.spotify.com/track/2kVrtACAxnJ79qqoeCzFVg) | [Lola Baptiste](https://open.spotify.com/artist/4oACN8ZVI5OobB1nj27FAV) | [Caged Bird](https://open.spotify.com/album/5poAZ62ym1Lf13xfdBz2dM) | 3:29 |
 | 306 | [Homeless](https://open.spotify.com/track/7vHHflI6hSrD6duUuA6isJ) | [Georgia Nicole](https://open.spotify.com/artist/2pTC56k6ZW1DejqY0Rlorw) | [A Little Bit of It All](https://open.spotify.com/album/4fVeslZAw5j2wwpjXfjTV4) | 3:47 |
 | 307 | [Summer Love](https://open.spotify.com/track/1fJV5Nh5U34PLpNtJEiPro) | [Harmonic Molecules](https://open.spotify.com/artist/4mIy6xV2sBGlHWKWpHJ07I) | [Summer Love](https://open.spotify.com/album/2NjPQdbsiPFL8SHVE6G6VM) | 2:29 |
+| 308 | [Love You Today \- Radio edit](https://open.spotify.com/track/2lTbBtqrCP23JfunytfMyW) | [MJ\-Project](https://open.spotify.com/artist/4MAtK46EhiJ4GezljIf5Oe) | [Love You Today](https://open.spotify.com/album/3vaEYijzrOIkgWz5K0ihzH) | 3:13 |
+| 309 | [Anyways](https://open.spotify.com/track/5FhVqnkTu6fvb67FyBYBpQ) | [Ryan Bieber](https://open.spotify.com/artist/5TEyc5npuIW553GHDty73B), [Costac](https://open.spotify.com/artist/7nXt7GgQdyaffZEetW9in2) | [Anyways](https://open.spotify.com/album/7ut5TR193f2Z3ubrUOe9wJ) | 3:30 |
+| 310 | [End of Beginning](https://open.spotify.com/track/0c9nI05cjuvSkYYd6DUcWW) | [Max Cooper III](https://open.spotify.com/artist/5VwbADUdH8ryktypdkpX06) | [End of Beginning](https://open.spotify.com/album/5Z8h6iJlIsMx2PjqfzX9bx) | 2:56 |
+| 311 | [Dear Daddy \- 2026 Remastered](https://open.spotify.com/track/1hN8PTBDA8GCXu4VTSzM0j) | [A Beautiful Tomorrow](https://open.spotify.com/artist/0Fd3aWON7L3qh9raMXIETm) | [11 songs Plus 4 Bonus songs](https://open.spotify.com/album/7DAKx9ycYQwffRhKRIU6PU) | 3:00 |
+| 312 | [BAD FOR ME](https://open.spotify.com/track/1hLifMjKoOqU4S02NHLsL1) | [KRYPTIK](https://open.spotify.com/artist/1h9vJsppNxuSDulCupO2iV), [Quillon](https://open.spotify.com/artist/6R7Yea2GOequIs1j4rdCLK) | [BAD FOR ME](https://open.spotify.com/album/5S1y2Jzmfu4U0iIm6dGSyY) | 2:57 |
+| 313 | [PAPERS](https://open.spotify.com/track/2riBdqRDyKAejelz0slgKq) | [BRADLEY](https://open.spotify.com/artist/7FTHkjnUKEfp1zZi5WN1rX) | [PAPERS](https://open.spotify.com/album/6hIuRbERN6xSDDh5bfDYRA) | 2:14 |
+| 314 | [Show You What I Mean](https://open.spotify.com/track/0truxB74xekwROU3dakNcw) | [Reincke](https://open.spotify.com/artist/5cNBDKS4FOXalmodtfyTZa) | [Show You What I Mean](https://open.spotify.com/album/2u23Vq8ijGAJJUUAstQqgU) | 2:22 |
 
-Snapshot ID: `AAA27aatne49tHL+FDQOUq2atabuXp1h`
+Snapshot ID: `AAA29If/drBKVNx7ApD5tFTgv/Q4T+3f`

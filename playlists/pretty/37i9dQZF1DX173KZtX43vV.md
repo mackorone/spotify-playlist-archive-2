@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 
 > The newest arrivals\. Cover: Kelela
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,724 likes - 45 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,723 likes - 45 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 | 17 | [promised land](https://open.spotify.com/track/1Xsk798mnogV1DcrVgdJYe) | [Reuben Aziz](https://open.spotify.com/artist/7si4D4nUA1Z9WKUV58hhnh) | [promised land](https://open.spotify.com/album/19CjpdahSIGd2n1h025Cvv) | 2:37 |
 | 18 | [BABY](https://open.spotify.com/track/6UU6UdlK7t0wJEmygdKjrP) | [sbk](https://open.spotify.com/artist/1SDlOEGpzLuqjC74p6GK85) | [BABY](https://open.spotify.com/album/6lhQckgtTgu7aVHuLpB0Mu) | 2:58 |
 | 19 | [HOME](https://open.spotify.com/track/2Ue3BelOn2jSFUdPMtvHuO) | [CLAVIS 7EVEN](https://open.spotify.com/artist/3PDQTV8PvwYMsbPXzndDQF) | [IF I DON'T LAUGH, I'LL CRY](https://open.spotify.com/album/6ZoVhO8U0DJTRwqsgCKVfb) | 3:16 |
-| 20 | [Love Hate](https://open.spotify.com/track/1ysnEi1bFBkn0aCQFPh8gY) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9), [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Love Hate](https://open.spotify.com/album/0tLM5uck8tjqqvgagX4I1p) | 3:12 |
+| 20 | [Love Hate \(feat\. Thomas Day\)](https://open.spotify.com/track/1ysnEi1bFBkn0aCQFPh8gY) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9), [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Love Hate \(feat\. Thomas Day\)](https://open.spotify.com/album/0tLM5uck8tjqqvgagX4I1p) | 3:12 |
 | 21 | [Losing Game](https://open.spotify.com/track/2jCdu3IUpkc7k7G0e7EdJI) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Limerence](https://open.spotify.com/album/2M9nuz1rCUiuVYdA25of8F) | 2:52 |
 | 22 | [Naturally](https://open.spotify.com/track/1Mny3onDz12YDgSUXkGfET) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Naturally](https://open.spotify.com/album/7gJC1w5cF7GQXBzTal3XTQ) | 2:31 |
 | 23 | [stuck](https://open.spotify.com/track/1nEzZ4l1LYmmaDNgWNzVCG) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [stuck](https://open.spotify.com/album/2WQhpOLkmPLPgrcBYjWmRK) | 2:41 |

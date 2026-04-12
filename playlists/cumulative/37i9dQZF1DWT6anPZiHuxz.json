@@ -5209,6 +5209,28 @@
     },
     {
       "album": {
+        "name": "Money",
+        "url": "https://open.spotify.com/album/34vI2Yhs8mhxWMgWgK1Z9q"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "Mark Neve",
+          "url": "https://open.spotify.com/artist/0JRqO4cmb3UXFw4itnYSaH"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110878,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/4EkzKYYjvYhrJICl3MlbeJ"
+    },
+    {
+      "album": {
         "name": "Monster (Robin Schulz Remix)",
         "url": "https://open.spotify.com/album/67PtnkGcMlHCa1RcYSzleO"
       },
@@ -8466,7 +8488,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 203813,
       "name": "The Way I Love You",
       "url": "https://open.spotify.com/track/1OZI3RisxFgtx2IdZB7i4X"

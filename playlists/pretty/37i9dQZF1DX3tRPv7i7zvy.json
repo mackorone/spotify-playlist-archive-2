@@ -1,6 +1,6 @@
 {
   "description": "We Outsideeeee!",
-  "num_followers": 19546,
+  "num_followers": 19572,
   "original_name": "Abonten ",
   "owner": {
     "name": "Spotify",
@@ -303,26 +303,6 @@
     {
       "added_at": "2026-04-10 00:02:14",
       "album": {
-        "name": "Management",
-        "url": "https://open.spotify.com/album/7HRbB37rfjzopeNej7TPsg"
-      },
-      "artists": [
-        {
-          "name": "Smur Lee",
-          "url": "https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A"
-        },
-        {
-          "name": "BIGKHALID",
-          "url": "https://open.spotify.com/artist/5xnQJvSHeJkVvYjFhgUIFB"
-        }
-      ],
-      "duration_ms": 155669,
-      "name": "Management",
-      "url": "https://open.spotify.com/track/7L1DT2ByQ331AJkDfjvI5N"
-    },
-    {
-      "added_at": "2026-04-10 00:02:14",
-      "album": {
         "name": "Escaladizzy II",
         "url": "https://open.spotify.com/album/0DSBgUcKAyKmto3gkKDqUu"
       },
@@ -347,6 +327,26 @@
       "duration_ms": 213559,
       "name": "Escaladizzy II",
       "url": "https://open.spotify.com/track/2h1aaSSMUspQfHKDl5uISY"
+    },
+    {
+      "added_at": "2026-04-10 00:02:14",
+      "album": {
+        "name": "Management",
+        "url": "https://open.spotify.com/album/7HRbB37rfjzopeNej7TPsg"
+      },
+      "artists": [
+        {
+          "name": "Smur Lee",
+          "url": "https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A"
+        },
+        {
+          "name": "BIGKHALID",
+          "url": "https://open.spotify.com/artist/5xnQJvSHeJkVvYjFhgUIFB"
+        }
+      ],
+      "duration_ms": 155669,
+      "name": "Management",
+      "url": "https://open.spotify.com/track/7L1DT2ByQ331AJkDfjvI5N"
     },
     {
       "added_at": "2026-04-10 00:02:14",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2026-04-10 00:02:14",
       "album": {
-        "name": "Awurade Aye",
-        "url": "https://open.spotify.com/album/0iMv1LDtzvVJWrZ1nBAjs4"
-      },
-      "artists": [
-        {
-          "name": "R2Bees",
-          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
-        }
-      ],
-      "duration_ms": 219428,
-      "name": "Awurade Aye",
-      "url": "https://open.spotify.com/track/5MO3ZW5mDhQiUmrYoYfitt"
-    },
-    {
-      "added_at": "2026-04-10 00:02:14",
-      "album": {
         "name": "TSOOBI (AKONOBA)",
         "url": "https://open.spotify.com/album/298RAd7DjwBSO2PYx9NEIV"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 226809,
       "name": "TSOOBI (AKONOBA)",
       "url": "https://open.spotify.com/track/4jGGlJ79PIT8MA85gfCMSR"
+    },
+    {
+      "added_at": "2026-04-10 00:02:14",
+      "album": {
+        "name": "Awurade Aye",
+        "url": "https://open.spotify.com/album/0iMv1LDtzvVJWrZ1nBAjs4"
+      },
+      "artists": [
+        {
+          "name": "R2Bees",
+          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
+        }
+      ],
+      "duration_ms": 219428,
+      "name": "Awurade Aye",
+      "url": "https://open.spotify.com/track/5MO3ZW5mDhQiUmrYoYfitt"
     },
     {
       "added_at": "2026-04-10 00:02:14",

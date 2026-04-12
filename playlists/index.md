@@ -1,4 +1,4 @@
-## Playlists \(9167\)
+## Playlists \(9168\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -3746,6 +3746,7 @@
 - [Let Loose](/playlists/pretty/3Nh594yQ7PkhEPzUUAKlnH.md)
 - [Let's Aikatsu!](/playlists/pretty/37i9dQZF1DX6gmUBAHLzQz.md)
 - [Let's Eat!](/playlists/pretty/37i9dQZF1DXcB9sN6ZkZ58.md)
+- [Let's Golf! ⛳️](/playlists/pretty/37i9dQZF1DWVXrj5u3hMCp.md)
 - [Let's Rock Festival 2023](/playlists/pretty/37i9dQZF1DXaW7Dil94ozt.md)
 - [Let's See Them Aliens](/playlists/pretty/37i9dQZF1DX4wJiDXwIMDT.md)
 - [Levitate](/playlists/pretty/37i9dQZF1DWVY5eNJoKHd2.md)
@@ -3767,7 +3768,7 @@
 - [Liner Voice+  Awich『THE UNION』](/playlists/pretty/37i9dQZF1DXcZ0D9Pii8ub.md)
 - [Liner Voice+ SiM『PLAYDEAD』](/playlists/pretty/37i9dQZF1DWUAK58Yov6Re.md)
 - [Liricisti](/playlists/pretty/37i9dQZF1DX5e23vWCjL5N.md)
-- [Lista de LOS40 \(Oficial\) \- Manuel Turizo en el Nº1](/playlists/pretty/2z7k6r8z0OlXuDsIuy80ZN.md)
+- [Lista de LOS40 \(Oficial\) \- Djo en el Nº1](/playlists/pretty/2z7k6r8z0OlXuDsIuy80ZN.md)
 - [Little Mix: Pride](/playlists/pretty/37i9dQZF1DX7wHseZmxqFF.md)
 - [Live Gospel](/playlists/pretty/37i9dQZF1DWYW0wKwdPj2g.md)
 - [Livet på Bøgda!](/playlists/pretty/37i9dQZF1DXa5zM0UrfG4s.md)

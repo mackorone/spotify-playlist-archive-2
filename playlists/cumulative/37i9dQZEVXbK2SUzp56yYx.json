@@ -2450,7 +2450,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-04",
+      "date_removed": null,
       "duration_ms": 113834,
       "name": "bedrott",
       "url": "https://open.spotify.com/track/3rhZUqbKiA1ILhjc1LptC5"
@@ -2468,7 +2468,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 113834,
       "name": "bedrott",
       "url": "https://open.spotify.com/track/702PdqaIxUlxgzy97WCP71"
@@ -9124,7 +9124,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-09",
+      "date_removed": null,
       "duration_ms": 180543,
       "name": "FYA",
       "url": "https://open.spotify.com/track/0KmrKOdScRDVYwWS8hkkdv"
@@ -11072,7 +11072,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 182046,
       "name": "Hooligan",
       "url": "https://open.spotify.com/track/20dAJsyno9ZoBLJtqgQnUI"
@@ -22899,6 +22899,24 @@
     },
     {
       "album": {
+        "name": "Silver Night",
+        "url": "https://open.spotify.com/album/4kEpjscGelhhFnczBKUR3O"
+      },
+      "artists": [
+        {
+          "name": "Tender May",
+          "url": "https://open.spotify.com/artist/4hOwbjy9KFnw8dxdlDvluO"
+        }
+      ],
+      "date_added": "2026-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306384,
+      "name": "Silver Night",
+      "url": "https://open.spotify.com/track/5OofzL3J0XvkaA2jRi1y0q"
+    },
+    {
+      "album": {
         "name": "Silverlines - prod. Labrinth",
         "url": "https://open.spotify.com/album/6xLihtKzCsFZm7nQrAcbF4"
       },
@@ -25050,7 +25068,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-11",
+      "date_removed": null,
       "duration_ms": 121461,
       "name": "the kill 2",
       "url": "https://open.spotify.com/track/0jH7Z3yuEehQeU1IK4gkpA"
@@ -27370,6 +27388,24 @@
       "duration_ms": 187120,
       "name": "VYZEE",
       "url": "https://open.spotify.com/track/0amVJVFJfwe5htMUF7hhNe"
+    },
+    {
+      "album": {
+        "name": "VYZEE (Slowed)",
+        "url": "https://open.spotify.com/album/6MqmOcqS28uP7cOvD0M3VU"
+      },
+      "artists": [
+        {
+          "name": "sweetiele",
+          "url": "https://open.spotify.com/artist/7HW7euBVtNogyNZMxGXFmU"
+        }
+      ],
+      "date_added": "2026-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245813,
+      "name": "VYZEE - Slowed",
+      "url": "https://open.spotify.com/track/5ynx89QmObdcIZsLbtfC6Z"
     },
     {
       "album": {
@@ -31524,7 +31560,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 145800,
       "name": "\u0412\u0410\u0422 \u0418\u0417 \u041b\u0410\u0412",
       "url": "https://open.spotify.com/track/0PJY9IuTIXoW5adoIEOjZN"
@@ -33298,7 +33334,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-06",
+      "date_removed": null,
       "duration_ms": 106450,
       "name": "\u0433\u0440\u0443\u0441\u0442\u0438\u043d\u043a\u0430",
       "url": "https://open.spotify.com/track/5DKNH9PdNi8ideCxyDY5M6"
@@ -36316,7 +36352,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 105000,
       "name": "\u041a\u0423\u041f\u0415\u0420",
       "url": "https://open.spotify.com/track/7fYkeBS6A7uiKh39L1POmA"
@@ -41256,7 +41292,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 172307,
       "name": "\u041f\u043b\u0430\u043a\u0430\u043b\u0430 \u043d\u0430\u0434\u0435\u0436\u0434\u0430",
       "url": "https://open.spotify.com/track/5vU0oWfaMLgztQLYcmBtuP"
@@ -44092,7 +44128,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 264000,
       "name": "\u0421\u043b\u0451\u0437\u044b",
       "url": "https://open.spotify.com/track/19MLjTYk97gWzZQ0DHJMaI"

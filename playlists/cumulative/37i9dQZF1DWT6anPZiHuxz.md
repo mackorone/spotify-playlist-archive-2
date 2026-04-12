@@ -4,7 +4,7 @@
 
 > Chasing that runner's high!
 
-419 songs - 22 hr 40 min
+420 songs - 22 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,6 +236,7 @@
 | [Mind Dimension \- Adam Sellouk Remix](https://open.spotify.com/track/7e5S2rMuJtJNdqTGXflxsn) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Adam Sellouk](https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq) | [Mind Dimension \(Adam Sellouk Remix\)](https://open.spotify.com/album/5JcItSeupngDftJZmxCEiz) | 3:39 | 2026-01-09 |  |
 | [Miracle](https://open.spotify.com/track/7A2K6UcyFSt7wBuv4B6kXi) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Culture Shock](https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE), [Fragma](https://open.spotify.com/artist/2t9efDsc10DtZpi4LP3BJJ) | [Miracle](https://open.spotify.com/album/36Vuo1Sls1ZzZqcceuapAh) | 2:45 | 2025-08-12 | 2026-01-17 |
 | [Miss Your Body](https://open.spotify.com/track/0IPBqw1WDfXfkzJgQaYOl9) | [nate band](https://open.spotify.com/artist/2n0lFF6QKRjr0jGB9UIT1W) | [Miss Your Body](https://open.spotify.com/album/0GgQlsotSFIwzaYtyxYmwL) | 2:33 | 2025-11-07 |  |
+| [Money](https://open.spotify.com/track/4EkzKYYjvYhrJICl3MlbeJ) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Mark Neve](https://open.spotify.com/artist/0JRqO4cmb3UXFw4itnYSaH) | [Money](https://open.spotify.com/album/34vI2Yhs8mhxWMgWgK1Z9q) | 1:50 | 2026-04-09 |  |
 | [Monster \- Robin Schulz Remix](https://open.spotify.com/track/4tknhO5RmXIxnpoipMKBmG) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Monster \(Robin Schulz Remix\)](https://open.spotify.com/album/67PtnkGcMlHCa1RcYSzleO) | 2:45 | 2022-08-12 | 2024-12-17 |
 | [More Baby \- VIP Mix](https://open.spotify.com/track/4ddRKTrv4fXl47Jzigwyit) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [More Baby](https://open.spotify.com/album/1Pei7Y5MNZQvfkDWds5EWa) | 4:24 | 2024-01-19 | 2024-01-27 |
 | [Move Your Body](https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [Move Your Body](https://open.spotify.com/album/4l9wMVL4XAM5jPMXP5RAbL) | 2:37 | 2024-01-19 | 2025-10-18 |
@@ -377,7 +378,7 @@
 | [The Music Began To Play](https://open.spotify.com/track/5jOhS3S7vTj9yQ4UmEk8qj) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [The Music Began To Play](https://open.spotify.com/album/1RPFQ2LTLiHL7hxRwL8RZc) | 2:25 | 2024-01-19 | 2024-11-08 |
 | [The Sound of Silence \- CYRIL Remix](https://open.spotify.com/track/32aeRhnsILUPSbPiH5x62t) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa), [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [The Sound of Silence \(CYRIL Remix\)](https://open.spotify.com/album/2aj8dhy2wfAtzBwh0bYuQc) | 3:05 | 2024-02-23 |  |
 | [The Spark](https://open.spotify.com/track/0bhnFakmRioZbuQcmhVwoH) | [Kabin Crew](https://open.spotify.com/artist/6BHou7i94KE1FpHgDVWZEK), [Lisdoonvarna Crew](https://open.spotify.com/artist/7BUWoquo4gsA4kREUujbSi) | [The Spark](https://open.spotify.com/album/6xNvkXuK0QL7vr9wEsCREW) | 2:26 | 2024-06-14 | 2024-06-22 |
-| [The Way I Love You](https://open.spotify.com/track/1OZI3RisxFgtx2IdZB7i4X) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [The Way I Love You](https://open.spotify.com/album/30XJtJhtrYMbsBnSmMS8iA) | 3:23 | 2025-10-31 |  |
+| [The Way I Love You](https://open.spotify.com/track/1OZI3RisxFgtx2IdZB7i4X) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [The Way I Love You](https://open.spotify.com/album/30XJtJhtrYMbsBnSmMS8iA) | 3:23 | 2025-10-31 | 2026-04-12 |
 | [The Weekend](https://open.spotify.com/track/1KEs5gnaNl40iM9Ytmq1DD) | [Anti Up](https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF) | [The Weekend / Control the Media](https://open.spotify.com/album/3Xc6RzQVgNWt6LrQr4nwdI) | 2:58 | 2024-04-19 | 2024-05-29 |
 | [There She Goes](https://open.spotify.com/track/2aSjWonALEwE3wTpjYMvc7) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [MOONLGHT](https://open.spotify.com/artist/0b9SpFqsoxkyoTbZqLlzSs), [The La's](https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT) | [There She Goes](https://open.spotify.com/album/3gHDnPPOgXcueJrL1r03q2) | 2:01 | 2025-05-16 |  |
 | [These Words](https://open.spotify.com/track/7leW1Dmvs9A4oDh9i5Qwpz) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [These Words](https://open.spotify.com/album/3boWgDZHAI5tHYwdLuMuwq) | 2:16 | 2024-04-15 |  |

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1FxDVhXcHEAtLrLA0KD9CC">Bebe Rexha</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-119 songs - 6 hr 28 min
+120 songs - 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [I Got Time](https://open.spotify.com/track/2CBtDxdTSz3MP8yUnA4Xkh) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [All Your Fault: Pt\. 2](https://open.spotify.com/album/6t5D6LEgHxqUVOxJItkzfb) | 3:50 | 2023-12-30 |  |
 | [I Got You](https://open.spotify.com/track/2jB9QaPJyVdz2Q0Va8rrnU) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Expectations](https://open.spotify.com/album/4TOkZvtqNpg5UHyGxCn0mS) | 3:11 | 2023-12-31 |  |
 | [I Got You](https://open.spotify.com/track/28oyTtOGt7zUu08z205YwK) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I Got You](https://open.spotify.com/album/2d5XYsFYSu7qJzxCkUaSX1) | 3:16 | 2023-12-30 | 2024-01-31 |
+| [i like you better than me](https://open.spotify.com/track/3f6rPOdeS6QSrqemADJ5XC) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [i like you better than me](https://open.spotify.com/album/0ScYexrAYA9MV0yN5YgLyn) | 2:37 | 2026-04-11 |  |
 | [I'm a Mess](https://open.spotify.com/track/04ZTP5KsCypmtCmQg5tH9R) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Expectations](https://open.spotify.com/album/4TOkZvtqNpg5UHyGxCn0mS) | 3:15 | 2023-12-30 |  |
 | [I'm a Mess](https://open.spotify.com/track/7fVlNSnUgiOPfqudCCbBzQ) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm a Mess](https://open.spotify.com/album/5SZSqHx6xGy8iFKaOlwQRY) | 3:16 | 2023-12-31 | 2024-02-02 |
 | [I'm Gonna Show You Crazy](https://open.spotify.com/track/5LtNBCM2ve0SxP0dlRVvMu) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Gonna Show You Crazy](https://open.spotify.com/album/1jjRCEFt2eCfCNWHV7AtEk) | 3:27 | 2024-01-01 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-17",
-  "description": "Cover: 7liwa",
+  "description": "Cover: Stormy",
   "name": "ABAT\u2211RA",
   "tracks": [
     {
@@ -3668,7 +3668,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 159025,
       "name": "HBALI",
       "url": "https://open.spotify.com/track/4g7Z4HhwHObaDpWS1waRVQ"
@@ -9800,6 +9800,28 @@
       "duration_ms": 203807,
       "name": "\u00c9chec - Spotify Singles",
       "url": "https://open.spotify.com/track/7bpuBTsNwlWnBABYbCZAkN"
+    },
+    {
+      "album": {
+        "name": "\u00c9VIDEMMENT",
+        "url": "https://open.spotify.com/album/2sTrB03DSMttKn9qZs5tc2"
+      },
+      "artists": [
+        {
+          "name": "Snor",
+          "url": "https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN"
+        },
+        {
+          "name": "Najm",
+          "url": "https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI"
+        }
+      ],
+      "date_added": "2026-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208695,
+      "name": "\u00c9VIDEMMENT",
+      "url": "https://open.spotify.com/track/2SlYKyAt0flJtDNjQqOwLh"
     },
     {
       "album": {

@@ -227,26 +227,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Bare",
-        "url": "https://open.spotify.com/album/11uRisUr2dNqeKIn8dhB3Z"
-      },
-      "artists": [
-        {
-          "name": "Rosie Carney",
-          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
-        },
-        {
-          "name": "Lisa Hannigan",
-          "url": "https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt"
-        }
-      ],
-      "duration_ms": 206440,
-      "name": "Thousand (feat. Lisa Hannigan)",
-      "url": "https://open.spotify.com/track/2QlPMIhutG3WHV26Eza8u9"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Forever Young (From NBC's Parenthood)",
         "url": "https://open.spotify.com/album/6Q7WssoFXDJoqNEkn8LnWN"
       },
@@ -263,6 +243,26 @@
       "duration_ms": 261370,
       "name": "Forever Young - From NBC's Parenthood",
       "url": "https://open.spotify.com/track/0QYgtwYCftkAqunXmvkZtr"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Bare",
+        "url": "https://open.spotify.com/album/11uRisUr2dNqeKIn8dhB3Z"
+      },
+      "artists": [
+        {
+          "name": "Rosie Carney",
+          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
+        },
+        {
+          "name": "Lisa Hannigan",
+          "url": "https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt"
+        }
+      ],
+      "duration_ms": 206440,
+      "name": "Thousand (feat. Lisa Hannigan)",
+      "url": "https://open.spotify.com/track/2QlPMIhutG3WHV26Eza8u9"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Mick Flannery",
-        "url": "https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls"
-      },
-      "artists": [
-        {
-          "name": "Mick Flannery",
-          "url": "https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf"
-        }
-      ],
-      "duration_ms": 202677,
-      "name": "I'll Be out Here",
-      "url": "https://open.spotify.com/track/7tkOm1ZNcIg4lKu0XCQgCq"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Moment Of Surrender",
         "url": "https://open.spotify.com/album/3kjn9W0g15GXc6Dkgs3OmY"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 299179,
       "name": "Moment Of Surrender",
       "url": "https://open.spotify.com/track/4f25p7B3SRzh9Yep7o3w6G"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Mick Flannery",
+        "url": "https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls"
+      },
+      "artists": [
+        {
+          "name": "Mick Flannery",
+          "url": "https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf"
+        }
+      ],
+      "duration_ms": 202677,
+      "name": "I'll Be out Here",
+      "url": "https://open.spotify.com/track/7tkOm1ZNcIg4lKu0XCQgCq"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "The Neon Skyline",
-        "url": "https://open.spotify.com/album/41M6R2mWLgqU9aKFUvZv8S"
-      },
-      "artists": [
-        {
-          "name": "Andy Shauf",
-          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
-        }
-      ],
-      "duration_ms": 218628,
-      "name": "Neon Skyline",
-      "url": "https://open.spotify.com/track/6CJM0s9pqIDTbSQ9KPnRqa"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "One",
         "url": "https://open.spotify.com/album/0gfT2lXIBkjYHUYqQwLGqm"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 251253,
       "name": "Be Where You Are",
       "url": "https://open.spotify.com/track/0Spm6fjntrn9IXqfR1MHCD"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "The Neon Skyline",
+        "url": "https://open.spotify.com/album/41M6R2mWLgqU9aKFUvZv8S"
+      },
+      "artists": [
+        {
+          "name": "Andy Shauf",
+          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
+        }
+      ],
+      "duration_ms": 218628,
+      "name": "Neon Skyline",
+      "url": "https://open.spotify.com/track/6CJM0s9pqIDTbSQ9KPnRqa"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Songs of Instruction",
-        "url": "https://open.spotify.com/album/2a6YqHKrHMJ8TmdsnexFzf"
-      },
-      "artists": [
-        {
-          "name": "Kim Taylor",
-          "url": "https://open.spotify.com/artist/3yF0qqHNkEaE4xc4r1b5bP"
-        }
-      ],
-      "duration_ms": 283456,
-      "name": "Cover Me",
-      "url": "https://open.spotify.com/track/4LNsvVkpWhiJf382uD5cuQ"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Together Alone",
         "url": "https://open.spotify.com/album/17doIeg3S4GqQfqot4oxQf"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 171773,
       "name": "Brave Young Man",
       "url": "https://open.spotify.com/track/3cu4RyvPHcRLROGqxuvx75"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Songs of Instruction",
+        "url": "https://open.spotify.com/album/2a6YqHKrHMJ8TmdsnexFzf"
+      },
+      "artists": [
+        {
+          "name": "Kim Taylor",
+          "url": "https://open.spotify.com/artist/3yF0qqHNkEaE4xc4r1b5bP"
+        }
+      ],
+      "duration_ms": 283456,
+      "name": "Cover Me",
+      "url": "https://open.spotify.com/track/4LNsvVkpWhiJf382uD5cuQ"
     },
     {
       "added_at": "2023-09-15 04:00:00",

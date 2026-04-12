@@ -4,7 +4,7 @@
 
 > 
 
-87 songs - 4 hr 16 min
+88 songs - 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Bustling River Sounds](https://open.spotify.com/track/5j5HMHeNbSDzVU9eEgZzUI) | [Rivers and Streams](https://open.spotify.com/artist/6NYAxBsKdDH00qCDvcFdA7) | [Soothing River Sounds](https://open.spotify.com/album/7HqcInonH7fXgJ83uyAAap) | 2:50 | 2023-06-19 |  |
 | [By The Docks](https://open.spotify.com/track/1nVn1Mf8bUbANYgozOoCuq) | [Ocean Bank](https://open.spotify.com/artist/0Hv3Q7w8U9OJRP8t78JhJr) | [Ocean Noises](https://open.spotify.com/album/0szLMw3GmyGkoN7KVS39Mk) | 4:07 | 2023-06-19 | 2024-03-27 |
 | [Calming Creek](https://open.spotify.com/track/5R113kfoXvoFBlIPpUUuRd) | [EFX Mirelight](https://open.spotify.com/artist/1xC1qS9lztnzURXtrrXFuv) | [Calm Green Wave Sounds](https://open.spotify.com/album/6bx52OyqGSwW8oCpooPjTT) | 1:44 | 2026-04-02 |  |
-| [Canto](https://open.spotify.com/track/13xuyCrZJoVhdWLbSMePxY) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Vozterra](https://open.spotify.com/artist/1uvFGqJiEwPFy2v84uG5U9) | [Trópico](https://open.spotify.com/album/6lGtzT3i9uBtT20lJtrrQT) | 2:35 | 2026-04-02 |  |
+| [Canto](https://open.spotify.com/track/13xuyCrZJoVhdWLbSMePxY) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Vozterra](https://open.spotify.com/artist/1uvFGqJiEwPFy2v84uG5U9) | [Trópico](https://open.spotify.com/album/6lGtzT3i9uBtT20lJtrrQT) | 2:35 | 2026-04-02 | 2026-04-12 |
 | [Cheerful Rain](https://open.spotify.com/track/2BBD54IBeXwbTTsgbeibgI) | [Daily Calm](https://open.spotify.com/artist/1RFbFQgjNdi8M4qM5gzgfj) | [Calm Rain](https://open.spotify.com/album/7jRKQ6G04oCT4O1QA0A5X3) | 3:00 | 2023-06-19 | 2026-04-03 |
 | [Chill Waves & Wind in Leaves](https://open.spotify.com/track/37TdJ5EWlM9Jfw8IqiUHcm) | [Pinetree Way](https://open.spotify.com/artist/3nGR9SAynFBCiRqx1NiU67) | [Waves](https://open.spotify.com/album/4UvRUxM8fwrChyFg0fglnz) | 4:01 | 2023-06-19 |  |
 | [Close to the River, Birds Watching](https://open.spotify.com/track/05K6un84uxHhHlmel2WWnu) | [Shaman](https://open.spotify.com/artist/35P36DZtjEMEP2KOO9759M) | [3D Audio Textures of Birds & Water](https://open.spotify.com/album/0IVTahDgPVYrsC56rid7Mu) | 3:12 | 2023-06-19 |  |
@@ -69,6 +69,7 @@
 | [Riverlight Through Leaves](https://open.spotify.com/track/08WqDRfDIHCroRHoYuAP66) | [Nature's Essence](https://open.spotify.com/artist/0JklQwIpSXSIxaSP1IbT8j) | [Riverlight Through Leaves](https://open.spotify.com/album/4eO9Q2g6EAwyvvkN4JtqQV) | 3:01 | 2026-04-02 |  |
 | [Singing Birds by the Stream](https://open.spotify.com/track/4x01eyysDx5Y4xS1LP6nHK) | [El Naturel](https://open.spotify.com/artist/2OSqVGR0G4PUJkOskabGEX) | [Soothing Birdsong by the River](https://open.spotify.com/album/5Lf0jb8zb9ylmubTVx6xtf) | 2:55 | 2023-06-19 |  |
 | [Sleepy Rain Noise](https://open.spotify.com/track/0lyKoc6Batb1kDGCtw6pdF) | [Amsonia Star](https://open.spotify.com/artist/3qlVZpNlhxCVf5xIuDd7kL) | [Sleepy Rain Noise](https://open.spotify.com/album/2C9n2yEhA1q6kCjHl0evqu) | 2:50 | 2026-04-02 |  |
+| [Small River Stream in the Jungle](https://open.spotify.com/track/48iKn7tBRTh1iE0HSd9kSJ) | [Nicolas Gutierrez G.](https://open.spotify.com/artist/5blyFWCmmsbLdxQVRARv6x) | [Small River Stream in the Jungle](https://open.spotify.com/album/0S5qW479HpIwdekAYTFbcj) | 4:41 | 2026-04-02 |  |
 | [Small Waves Hitting Beach](https://open.spotify.com/track/0qLbSqEgFtyLOp1epIw1fa) | [Wonderful Escape](https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T) | [Seawaves](https://open.spotify.com/album/2i7LfUCCCko8PQpqsiwcB4) | 4:37 | 2023-06-19 | 2024-12-04 |
 | [Soft Stream](https://open.spotify.com/track/1eC6Wmq37JseUSUILFrHTS) | [Lake Nebula](https://open.spotify.com/artist/2vrz4UIWYTyVEKZ3DubfRU) | [Soft Stream](https://open.spotify.com/album/0JxcMY0Ayx8FFAzvOcLhqA) | 3:06 | 2026-04-02 |  |
 | [Songbirds at Dawn](https://open.spotify.com/track/6fdR2xhj9S7xZ46U8cw9H1) | [Brontology](https://open.spotify.com/artist/2wV6tmD1aCH03G6uBqVOMp) | [Songbirds at Dawn](https://open.spotify.com/album/6Lx76KJ6upyFHgFGgumCgq) | 2:49 | 2026-04-02 |  |

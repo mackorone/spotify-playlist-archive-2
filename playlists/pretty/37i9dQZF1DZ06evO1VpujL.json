@@ -1,12 +1,12 @@
 {
   "description": "This is Skindred. The essential tracks, all in one playlist.",
-  "num_followers": 29734,
+  "num_followers": 29746,
   "original_name": "This Is Skindred",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adbsAAAAAAB9Ej61N+4aoa6cp3sOARDG",
+  "snapshot_id": "adg9gAAAAADXtzzGMtGmJBse/Xu/EWhl",
   "tracks": [
     {
       "added_at": null,
@@ -59,8 +59,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Tings",
-        "url": "https://open.spotify.com/album/3zzPgycVf0JRD1Fj6JdLam"
+        "name": "Can I Get A",
+        "url": "https://open.spotify.com/album/2Eqf4ijMQbWEw16hp8vGJt"
       },
       "artists": [
         {
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
         }
       ],
-      "duration_ms": 196051,
-      "name": "That's My Jam",
-      "url": "https://open.spotify.com/track/5q8PArV4Tbt6efvP7qxp0u"
+      "duration_ms": 223484,
+      "name": "Can I Get A",
+      "url": "https://open.spotify.com/track/12u8LK8Sb3mY4rVxTtUCZf"
     },
     {
       "added_at": null,
@@ -91,8 +91,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Can I Get A",
-        "url": "https://open.spotify.com/album/2Eqf4ijMQbWEw16hp8vGJt"
+        "name": "Big Tings",
+        "url": "https://open.spotify.com/album/3zzPgycVf0JRD1Fj6JdLam"
       },
       "artists": [
         {
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
         }
       ],
-      "duration_ms": 223484,
-      "name": "Can I Get A",
-      "url": "https://open.spotify.com/track/12u8LK8Sb3mY4rVxTtUCZf"
+      "duration_ms": 196051,
+      "name": "That's My Jam",
+      "url": "https://open.spotify.com/track/5q8PArV4Tbt6efvP7qxp0u"
     },
     {
       "added_at": null,

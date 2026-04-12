@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 
 > Highlighting key releases from this month's most exciting songwriters from around the globe\. Cover: <a href="spotify:artist:034u8Qcs47NHkRQXaWkLXW">MORGXN</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,516 likes - 36 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,535 likes - 36 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 | 35 | [Smile More](https://open.spotify.com/track/3cvxnOEMYkOWKKi3yJbZ1Y) | [Emelie Trahan](https://open.spotify.com/artist/26ZYSsr8RPofalTXPh4yyq) | [Smile More](https://open.spotify.com/album/641fN8nipBqleoXvyebEYl) | 3:48 |
 | 36 | [Slap On The Wrist](https://open.spotify.com/track/54t4eAvCmdEWh2QwelmCXC) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [Slap On The Wrist](https://open.spotify.com/album/7hVghiFPHSveuIwK8YzQWt) | 2:38 |
 
-Snapshot ID: `AAAAAAlo54PlriIqruC3sOU8mq2MeKxW`
+Snapshot ID: `AAAAAGBZNCQ4AWW4BNUWbMQRLzLchiML`

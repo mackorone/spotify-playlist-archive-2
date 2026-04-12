@@ -1,6 +1,6 @@
 {
   "description": "If you're blessed!",
-  "num_followers": 21293,
+  "num_followers": 21296,
   "original_name": "Blessed",
   "owner": {
     "name": "Spotify",
@@ -481,26 +481,6 @@
       "url": "https://open.spotify.com/track/65jA8kJUA3BHyH1h1QGkwk"
     },
     {
-      "added_at": "2026-01-23 00:01:16",
-      "album": {
-        "name": "ENOUGH FOR ME",
-        "url": "https://open.spotify.com/album/5P2RR6rOO8lTNvVxMObKmj"
-      },
-      "artists": [
-        {
-          "name": "Sinach",
-          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
-        },
-        {
-          "name": "Sunmisola Agbebi",
-          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
-        }
-      ],
-      "duration_ms": 580500,
-      "name": "ENOUGH FOR ME",
-      "url": "https://open.spotify.com/track/3d0LYyvQwDKG3h4R7dCZW3"
-    },
-    {
       "added_at": "2026-01-30 00:01:25",
       "album": {
         "name": "God, In all Seasons",
@@ -519,6 +499,26 @@
       "duration_ms": 237913,
       "name": "Boku",
       "url": "https://open.spotify.com/track/3EX183tnITp6RMePnXFAfl"
+    },
+    {
+      "added_at": "2026-01-23 00:01:16",
+      "album": {
+        "name": "ENOUGH FOR ME",
+        "url": "https://open.spotify.com/album/5P2RR6rOO8lTNvVxMObKmj"
+      },
+      "artists": [
+        {
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+        },
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        }
+      ],
+      "duration_ms": 580500,
+      "name": "ENOUGH FOR ME",
+      "url": "https://open.spotify.com/track/3d0LYyvQwDKG3h4R7dCZW3"
     },
     {
       "added_at": "2026-01-09 00:01:29",
@@ -589,24 +589,20 @@
       "url": "https://open.spotify.com/track/25WsThhuvxiv7i2G0qMv0h"
     },
     {
-      "added_at": "2025-12-12 00:01:22",
+      "added_at": "2026-04-03 00:01:46",
       "album": {
-        "name": "Good God",
-        "url": "https://open.spotify.com/album/7deIkmtEUfNPRRHUNmXTI4"
+        "name": "Yeshua!",
+        "url": "https://open.spotify.com/album/6f1T835QYYd56uvPFg2gj8"
       },
       "artists": [
         {
-          "name": "Minister GUC",
-          "url": "https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL"
-        },
-        {
-          "name": "Sunmisola Agbebi",
-          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+          "name": "Vic Lucas",
+          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
         }
       ],
-      "duration_ms": 889180,
-      "name": "Good God",
-      "url": "https://open.spotify.com/track/3sj94nxEe8RNwUtew2FvFq"
+      "duration_ms": 220766,
+      "name": "Yeshua!",
+      "url": "https://open.spotify.com/track/1j9kTaj53ZnU2JOXPbgGhN"
     },
     {
       "added_at": "2025-03-14 00:01:27",
@@ -627,6 +623,26 @@
       "duration_ms": 233135,
       "name": "Your love",
       "url": "https://open.spotify.com/track/6sQq98ykctwIpq79syEt5x"
+    },
+    {
+      "added_at": "2025-12-12 00:01:22",
+      "album": {
+        "name": "Good God",
+        "url": "https://open.spotify.com/album/7deIkmtEUfNPRRHUNmXTI4"
+      },
+      "artists": [
+        {
+          "name": "Minister GUC",
+          "url": "https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL"
+        },
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        }
+      ],
+      "duration_ms": 889180,
+      "name": "Good God",
+      "url": "https://open.spotify.com/track/3sj94nxEe8RNwUtew2FvFq"
     },
     {
       "added_at": "2025-02-14 00:01:09",
@@ -659,22 +675,6 @@
       "duration_ms": 511207,
       "name": "Adonai",
       "url": "https://open.spotify.com/track/7axctArGc7dtaEJSl3IZge"
-    },
-    {
-      "added_at": "2026-04-03 00:01:46",
-      "album": {
-        "name": "Yeshua!",
-        "url": "https://open.spotify.com/album/6f1T835QYYd56uvPFg2gj8"
-      },
-      "artists": [
-        {
-          "name": "Vic Lucas",
-          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
-        }
-      ],
-      "duration_ms": 220766,
-      "name": "Yeshua!",
-      "url": "https://open.spotify.com/track/1j9kTaj53ZnU2JOXPbgGhN"
     },
     {
       "added_at": "2025-05-09 00:01:37",
@@ -733,22 +733,6 @@
       "url": "https://open.spotify.com/track/6NYcrgToyDj04al4ZMtHxz"
     },
     {
-      "added_at": "2025-12-19 00:01:10",
-      "album": {
-        "name": "\u00d3 D\u00e1ra",
-        "url": "https://open.spotify.com/album/5sxgXCn36fH43SxVlLVM5S"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
-        }
-      ],
-      "duration_ms": 507645,
-      "name": "\u00d3 D\u00e1ra",
-      "url": "https://open.spotify.com/track/7FzPrWUZ5WCBPYICSTZmmr"
-    },
-    {
       "added_at": "2026-03-27 00:01:13",
       "album": {
         "name": "Yeshua (The Summary Of My Life)",
@@ -767,6 +751,22 @@
       "duration_ms": 204036,
       "name": "Impossibility Shatterer",
       "url": "https://open.spotify.com/track/4NCR1DUnHd1HHrCRfJu68P"
+    },
+    {
+      "added_at": "2025-12-19 00:01:10",
+      "album": {
+        "name": "\u00d3 D\u00e1ra",
+        "url": "https://open.spotify.com/album/5sxgXCn36fH43SxVlLVM5S"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        }
+      ],
+      "duration_ms": 507645,
+      "name": "\u00d3 D\u00e1ra",
+      "url": "https://open.spotify.com/track/7FzPrWUZ5WCBPYICSTZmmr"
     },
     {
       "added_at": "2026-02-20 00:01:25",
@@ -841,20 +841,24 @@
       "url": "https://open.spotify.com/track/3EAHBjhFMwuIdAS5FodQTF"
     },
     {
-      "added_at": "2026-02-13 00:01:34",
+      "added_at": "2026-03-20 00:01:38",
       "album": {
-        "name": "I Live",
-        "url": "https://open.spotify.com/album/0cZteUtrDx3uIeTOVvVI8E"
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/6keem9E7SyTfokxcZozuB3"
       },
       "artists": [
         {
-          "name": "Ada Ehi",
-          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
+          "name": "Malcolm Rue",
+          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
+        },
+        {
+          "name": "Destiny Marko",
+          "url": "https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa"
         }
       ],
-      "duration_ms": 560126,
-      "name": "I Live - Live",
-      "url": "https://open.spotify.com/track/122j35m29xC1Xbd8vTKvJP"
+      "duration_ms": 133333,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/1CEJTnMr4DoPrYvbNbdAmS"
     },
     {
       "added_at": "2025-02-28 00:01:33",
@@ -877,26 +881,6 @@
       "url": "https://open.spotify.com/track/1hhgSr6jl97R9znizeUrM0"
     },
     {
-      "added_at": "2026-03-20 00:01:38",
-      "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/6keem9E7SyTfokxcZozuB3"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Rue",
-          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
-        },
-        {
-          "name": "Destiny Marko",
-          "url": "https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa"
-        }
-      ],
-      "duration_ms": 133333,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/1CEJTnMr4DoPrYvbNbdAmS"
-    },
-    {
       "added_at": "2025-10-17 00:01:26",
       "album": {
         "name": "Benefit",
@@ -915,6 +899,22 @@
       "duration_ms": 419027,
       "name": "Benefit",
       "url": "https://open.spotify.com/track/36sznNt2BniOB8BWYpWYmP"
+    },
+    {
+      "added_at": "2026-02-13 00:01:34",
+      "album": {
+        "name": "I Live",
+        "url": "https://open.spotify.com/album/0cZteUtrDx3uIeTOVvVI8E"
+      },
+      "artists": [
+        {
+          "name": "Ada Ehi",
+          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
+        }
+      ],
+      "duration_ms": 560126,
+      "name": "I Live - Live",
+      "url": "https://open.spotify.com/track/122j35m29xC1Xbd8vTKvJP"
     },
     {
       "added_at": "2026-01-30 00:01:25",
@@ -1001,6 +1001,22 @@
       "url": "https://open.spotify.com/track/1XSUg7qjjIGayEV4Rbyvvd"
     },
     {
+      "added_at": "2026-03-27 00:01:13",
+      "album": {
+        "name": "All My Life",
+        "url": "https://open.spotify.com/album/1HMUdkIPCBsOBJy7518Hh6"
+      },
+      "artists": [
+        {
+          "name": "Oge Stan",
+          "url": "https://open.spotify.com/artist/3aL8XwNOqOVv8NwpVLFo1c"
+        }
+      ],
+      "duration_ms": 271699,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/3l6ek8A46LHzqPDSbWfBXw"
+    },
+    {
       "added_at": "2026-03-13 00:01:18",
       "album": {
         "name": "In Awe",
@@ -1019,22 +1035,6 @@
       "duration_ms": 279352,
       "name": "In Awe",
       "url": "https://open.spotify.com/track/4Y54TudheWIYrglYTNsmPn"
-    },
-    {
-      "added_at": "2026-03-27 00:01:13",
-      "album": {
-        "name": "All My Life",
-        "url": "https://open.spotify.com/album/1HMUdkIPCBsOBJy7518Hh6"
-      },
-      "artists": [
-        {
-          "name": "Oge Stan",
-          "url": "https://open.spotify.com/artist/3aL8XwNOqOVv8NwpVLFo1c"
-        }
-      ],
-      "duration_ms": 271699,
-      "name": "All My Life",
-      "url": "https://open.spotify.com/track/3l6ek8A46LHzqPDSbWfBXw"
     },
     {
       "added_at": "2026-04-03 00:01:46",
@@ -1173,26 +1173,6 @@
       "url": "https://open.spotify.com/track/1FBv0lVe3a99N6tlaqxTA3"
     },
     {
-      "added_at": "2026-03-20 00:01:38",
-      "album": {
-        "name": "Rest",
-        "url": "https://open.spotify.com/album/4I6jfQErCWguANlJgrimnN"
-      },
-      "artists": [
-        {
-          "name": "A Mose",
-          "url": "https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X"
-        },
-        {
-          "name": "WINNER WAYS.",
-          "url": "https://open.spotify.com/artist/29L1pzmDzW3P2FmQBovIFK"
-        }
-      ],
-      "duration_ms": 136092,
-      "name": "Rest",
-      "url": "https://open.spotify.com/track/1Mct4TjRxkfHkSOzAUvVbl"
-    },
-    {
       "added_at": "2025-11-28 00:01:15",
       "album": {
         "name": "The Lover",
@@ -1227,6 +1207,26 @@
       "duration_ms": 544864,
       "name": "Orun Si",
       "url": "https://open.spotify.com/track/3FF3zeBKsLZzpNT6hnF0xc"
+    },
+    {
+      "added_at": "2026-03-20 00:01:38",
+      "album": {
+        "name": "Rest",
+        "url": "https://open.spotify.com/album/4I6jfQErCWguANlJgrimnN"
+      },
+      "artists": [
+        {
+          "name": "A Mose",
+          "url": "https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X"
+        },
+        {
+          "name": "WINNER WAYS.",
+          "url": "https://open.spotify.com/artist/29L1pzmDzW3P2FmQBovIFK"
+        }
+      ],
+      "duration_ms": 136092,
+      "name": "Rest",
+      "url": "https://open.spotify.com/track/1Mct4TjRxkfHkSOzAUvVbl"
     },
     {
       "added_at": "2026-02-27 00:01:20",
@@ -1273,22 +1273,6 @@
       "url": "https://open.spotify.com/track/3Gs6YU18uwHoN72sMVJxI8"
     },
     {
-      "added_at": "2025-11-28 00:01:15",
-      "album": {
-        "name": "Rooted",
-        "url": "https://open.spotify.com/album/7nO3M1Sty4NSZVpW4b2p1A"
-      },
-      "artists": [
-        {
-          "name": "BunjoVille Ug",
-          "url": "https://open.spotify.com/artist/3f91pgWJ6c1s17VkGXEfeT"
-        }
-      ],
-      "duration_ms": 312407,
-      "name": "Rooted",
-      "url": "https://open.spotify.com/track/06T6Pl96e1I83rtCFJYah9"
-    },
-    {
       "added_at": "2026-02-27 00:01:20",
       "album": {
         "name": "Holy Love",
@@ -1311,6 +1295,22 @@
       "duration_ms": 170500,
       "name": "Holy Love",
       "url": "https://open.spotify.com/track/07cr2u369CWTuGefo4dygx"
+    },
+    {
+      "added_at": "2025-11-28 00:01:15",
+      "album": {
+        "name": "Rooted",
+        "url": "https://open.spotify.com/album/7nO3M1Sty4NSZVpW4b2p1A"
+      },
+      "artists": [
+        {
+          "name": "BunjoVille Ug",
+          "url": "https://open.spotify.com/artist/3f91pgWJ6c1s17VkGXEfeT"
+        }
+      ],
+      "duration_ms": 312407,
+      "name": "Rooted",
+      "url": "https://open.spotify.com/track/06T6Pl96e1I83rtCFJYah9"
     },
     {
       "added_at": "2026-03-27 00:01:13",
@@ -1385,22 +1385,6 @@
       "url": "https://open.spotify.com/track/2QnLiyTitKVp7HUJTewKwz"
     },
     {
-      "added_at": "2026-03-13 00:01:18",
-      "album": {
-        "name": "My Lovaa",
-        "url": "https://open.spotify.com/album/1Kebf3KL7OYy9DMhNETrKk"
-      },
-      "artists": [
-        {
-          "name": "StraTeGee",
-          "url": "https://open.spotify.com/artist/4utqTLxdOhcJAAq0DXL6PR"
-        }
-      ],
-      "duration_ms": 207894,
-      "name": "My Lovaa",
-      "url": "https://open.spotify.com/track/6CMNOeLoFrtoLJ0tOyqjD4"
-    },
-    {
       "added_at": "2026-04-03 00:01:46",
       "album": {
         "name": "With You",
@@ -1419,6 +1403,22 @@
       "duration_ms": 162935,
       "name": "With You",
       "url": "https://open.spotify.com/track/1q73vgp83XE42lE86YiSNT"
+    },
+    {
+      "added_at": "2026-03-13 00:01:18",
+      "album": {
+        "name": "My Lovaa",
+        "url": "https://open.spotify.com/album/1Kebf3KL7OYy9DMhNETrKk"
+      },
+      "artists": [
+        {
+          "name": "StraTeGee",
+          "url": "https://open.spotify.com/artist/4utqTLxdOhcJAAq0DXL6PR"
+        }
+      ],
+      "duration_ms": 207894,
+      "name": "My Lovaa",
+      "url": "https://open.spotify.com/track/6CMNOeLoFrtoLJ0tOyqjD4"
     },
     {
       "added_at": "2026-03-20 00:01:38",
@@ -1465,22 +1465,6 @@
       "url": "https://open.spotify.com/track/5kcDXI5RsSfsM7HJCuOA74"
     },
     {
-      "added_at": "2026-01-09 00:01:29",
-      "album": {
-        "name": "Thank You Lord",
-        "url": "https://open.spotify.com/album/3X3cDqZxggXSKHGx5FAC3Q"
-      },
-      "artists": [
-        {
-          "name": "Grace Uma",
-          "url": "https://open.spotify.com/artist/1H7NA9xbNLXR6ckY55K1ep"
-        }
-      ],
-      "duration_ms": 455322,
-      "name": "Thank You Lord",
-      "url": "https://open.spotify.com/track/6qZwgTk4UOlN9oN3MhdOYD"
-    },
-    {
       "added_at": "2026-02-13 00:01:34",
       "album": {
         "name": "Blow my mind",
@@ -1495,6 +1479,22 @@
       "duration_ms": 265666,
       "name": "Blow my mind",
       "url": "https://open.spotify.com/track/5UukjLj7VD5vdYxGeYHxvC"
+    },
+    {
+      "added_at": "2026-01-09 00:01:29",
+      "album": {
+        "name": "Thank You Lord",
+        "url": "https://open.spotify.com/album/3X3cDqZxggXSKHGx5FAC3Q"
+      },
+      "artists": [
+        {
+          "name": "Grace Uma",
+          "url": "https://open.spotify.com/artist/1H7NA9xbNLXR6ckY55K1ep"
+        }
+      ],
+      "duration_ms": 455322,
+      "name": "Thank You Lord",
+      "url": "https://open.spotify.com/track/6qZwgTk4UOlN9oN3MhdOYD"
     },
     {
       "added_at": "2026-01-09 00:01:29",

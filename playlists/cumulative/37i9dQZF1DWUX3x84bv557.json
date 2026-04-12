@@ -2814,7 +2814,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 233853,
       "name": "Bel me als je thuis bent",
       "url": "https://open.spotify.com/track/64ROYevyhHmxcGmvObFs6E"
@@ -10604,6 +10604,24 @@
       "duration_ms": 174288,
       "name": "Ik Zing (feat. Snelle)",
       "url": "https://open.spotify.com/track/0fROjdyTv6S6E65qpQfwHa"
+    },
+    {
+      "album": {
+        "name": "Ik zou het zo weer overdoen",
+        "url": "https://open.spotify.com/album/1D4PQXSWNPlISYnbFBQZuh"
+      },
+      "artists": [
+        {
+          "name": "Julia Cecile",
+          "url": "https://open.spotify.com/artist/1ujg2quXH0LCrTb1BD8ECa"
+        }
+      ],
+      "date_added": "2026-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205918,
+      "name": "Ik zou het zo weer overdoen",
+      "url": "https://open.spotify.com/track/3VmopKB6zV3SOkZBlsV0ZZ"
     },
     {
       "album": {

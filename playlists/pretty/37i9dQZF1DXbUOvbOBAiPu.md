@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Camille Yembe, The Strokes, Lady Gaga x Doechii, Gradur x Ninho and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,917 likes - 124 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,920 likes - 124 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,14 +47,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 37 | [Of All People](https://open.spotify.com/track/1jhI5gfOIA2iGOWk6gp1xc) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Of All People](https://open.spotify.com/album/1Df1pG5H92VbkhbTehf6Sn) | 2:34 |
 | 38 | [24 Hours](https://open.spotify.com/track/3pFYcTc0okPqmVF4DDQfup) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [24 Hours](https://open.spotify.com/album/67lBzfEqQE39zkXHcH6ltY) | 3:26 |
 | 39 | [Miroir](https://open.spotify.com/track/5PpWdMZ3H6Ky8BqpIc9ZAO) | [La Fouine](https://open.spotify.com/artist/6QS84S3i4gwdEKqWoTtDLd), [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [Miroir](https://open.spotify.com/album/2Ymfa3dacWTZIg4kfkycp2) | 2:16 |
-| 40 | [Gappie Sappie](https://open.spotify.com/track/2FCDwCdXpMnSq3QuHWZ3UM) | [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW), [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Gappie Sappie](https://open.spotify.com/album/7FE9PW71kUT5Ry6N1D0TDo) | 2:17 |
+| 40 | [Gappie Sappie](https://open.spotify.com/track/2FCDwCdXpMnSq3QuHWZ3UM) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Gappie Sappie](https://open.spotify.com/album/7FE9PW71kUT5Ry6N1D0TDo) | 2:17 |
 | 41 | [Madwoman](https://open.spotify.com/track/0UqHzMvRQnaOXEPKgFVhxN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time: The Final Hour](https://open.spotify.com/album/4DWK6TLXHl1fly2zi5RlO7) | 3:59 |
 | 42 | [Higher When I Rise](https://open.spotify.com/track/45vv0ZVpJ8sCh08YQtRQlT) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [Higher When I Rise](https://open.spotify.com/album/4mZreqlCfU6i3c7MPzwaeA) | 3:15 |
 | 43 | [Where We Go](https://open.spotify.com/track/1aHAmd4iXRRkXIrTJwKncm) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Where We Go](https://open.spotify.com/album/6NtERYanUda0B8Oh1LI1LE) | 3:16 |
 | 44 | [Lauw Sixpack](https://open.spotify.com/track/1rbrgVWiMPVkGn9AjIhIJf) | [Roeland Beelen](https://open.spotify.com/artist/3AO2szj8eZ8MSTw0hghw3M) | [Lauw Sixpack](https://open.spotify.com/album/4YWVZtPIUexPuvTkwbwfN3) | 2:38 |
 | 45 | [MINK SB \(feat\. Skepta, Lojay & Skillibeng\)](https://open.spotify.com/track/7M0LA37GOq8SAUX4TWWHov) | [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [MINK SB \(feat\. Skepta, Lojay & Skillibeng\)](https://open.spotify.com/album/59Fs0w068THGXqx33PzCr7) | 3:04 |
 | 46 | [Maandag](https://open.spotify.com/track/2DIsaYyACYgf2Svj7EDXyq) | [Lusho](https://open.spotify.com/artist/28PqBC4Est3XUrAiPwvzKs) | [Geef Me FF](https://open.spotify.com/album/3DzWHsuXnAQCN8llSLp8P0) | 1:40 |
-| 47 | [La vida loca](https://open.spotify.com/track/74vHwfc0huNsTubsZMqtj4) | [LUIZA](https://open.spotify.com/artist/3K5sYlHk7RZimjYhUWej8D) | [Luiza](https://open.spotify.com/album/5nEO73oNBTQBDq3qdYpnov) | 3:06 |
+| 47 | [La Vida Loca](https://open.spotify.com/track/74vHwfc0huNsTubsZMqtj4) | [LUIZA](https://open.spotify.com/artist/3K5sYlHk7RZimjYhUWej8D) | [Luiza](https://open.spotify.com/album/5nEO73oNBTQBDq3qdYpnov) | 3:06 |
 | 48 | [My Boo \(feat\. Kaya Imani\)](https://open.spotify.com/track/0h3Apt2jHZ2e29emFrqQ18) | [Dior](https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt), [Kaya Imani](https://open.spotify.com/artist/1vGqIJlfH4QS0KQzrKU8tw) | [My Boo \(feat\. Kaya Imani\)](https://open.spotify.com/album/7AmTGKsC6PLwiCSbbTDcyx) | 2:43 |
 | 49 | [Back and Forth \(feat\. Missy Elliott\)](https://open.spotify.com/track/6t263UZVjI9nnHfr7eeLW4) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Back and Forth \(feat\. Missy Elliott\)](https://open.spotify.com/album/3yb1H4Mf6annZTGWpmAoCW) | 3:34 |
 | 50 | [Voor Me Toppers](https://open.spotify.com/track/3SLAqMGVewR2ON7G2Rw4GU) | [Def](https://open.spotify.com/artist/7xSvzzpRGlGKyXVOI6IeWk) | [Voor Me Toppers](https://open.spotify.com/album/1SvFRAqDgwj2NRGuiPz3D2) | 2:08 |

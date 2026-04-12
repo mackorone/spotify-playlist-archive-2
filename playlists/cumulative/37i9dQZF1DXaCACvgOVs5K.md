@@ -4,7 +4,7 @@
 
 > Get ready for Ibiza season 2026\. See you on the dancefloor.
 
-462 songs - 1 day 3 hr 19 min
+463 songs - 1 day 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [For The Weekend](https://open.spotify.com/track/3TIVP3c5tT1rlDjAmzSaqF) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q), [New Machine](https://open.spotify.com/artist/6wSxVh97cc5ZTSXvPgvv81) | [For The Weekend](https://open.spotify.com/album/7pyBFzdn9AmZilactoHqeX) | 2:49 | 2024-08-29 | 2025-02-26 |
 | [Forever](https://open.spotify.com/track/4JRLxf6sMSOcQQP75m3QZh) | [Bontan](https://open.spotify.com/artist/1tZgoMqNTa7lII4w9pV3ud) | [Forever](https://open.spotify.com/album/0un2xX5yJkl6Yjri9yMXJU) | 3:35 | 2026-04-10 |  |
 | [Fragile](https://open.spotify.com/track/5Q9Ds8Q34V9ZPfi0noJ7Xe) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC), [FNX OMAR](https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW), [Syon](https://open.spotify.com/artist/7eKtGS8Huzy0vi0KVmNfqE) | [Fragile](https://open.spotify.com/album/37abhSU412bkiwXr3ShshM) | 3:56 | 2022-08-26 | 2024-07-19 |
+| [Freaky 1](https://open.spotify.com/track/5cefCIhgIJgsG3r3LcRmwB) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Ali Love](https://open.spotify.com/artist/5XJp0gYotUfFraS626GSge) | [Freaky 1](https://open.spotify.com/album/2iI0aQO2hrnBmMDIUvrLJS) | 3:52 | 2026-04-10 |  |
 | [Free Your Mind](https://open.spotify.com/track/6TWbY1dq8eYtFiMiGdBlOa) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Free Your Mind](https://open.spotify.com/album/0uo2O3BcYrZJzCnHk0I0BU) | 3:21 | 2026-04-10 |  |
 | [Fresh \- House of Prayers Poolside Edit](https://open.spotify.com/track/71vqZFDzzvwt7tsTYy1g01) | [Crazibiza](https://open.spotify.com/artist/7gLis8CQkAQ7fJJNTWQNU1), [House of Prayers](https://open.spotify.com/artist/6UZpnBnk8Ubc6fflLAb6qg) | [Fresh](https://open.spotify.com/album/3VYGGCtGjNHGOSFkYVNmLV) | 4:44 | 2023-07-12 | 2025-04-18 |
 | [Front & Back Seat](https://open.spotify.com/track/1KyMTc7vqMotAPD21EvzBx) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv) | [Front & Back Seat](https://open.spotify.com/album/3prlLKT6UH9wH4zmIhiNyG) | 2:51 | 2025-07-25 |  |
@@ -183,7 +184,7 @@
 | [Happy Music](https://open.spotify.com/track/3rh495Z2rIRwD316blea4f) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music / Something on My Mind](https://open.spotify.com/album/4D78IEl2Nl3ywiu254VOVn) | 3:52 | 2022-08-26 | 2022-10-19 |
 | [Happy Music](https://open.spotify.com/track/7uGpUhy4uf2UrHH7TyhM6C) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music / Something on My Mind](https://open.spotify.com/album/3UgxrgP8q9U0Zjz4t7PPGR) | 3:52 | 2022-08-26 | 2023-08-21 |
 | [Hawt](https://open.spotify.com/track/2K6qq0V7jXSlhucLr8R74Z) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo) | [Hawt](https://open.spotify.com/album/2pAXyc02IaCw8JOPjoDVLM) | 2:37 | 2023-04-04 | 2023-10-01 |
-| [HERZSCHLAG](https://open.spotify.com/track/1qJH8giBk7OawPg5RF5j9A) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [KLUBPARTEI](https://open.spotify.com/album/1uISv19ZmoOXpsqqm48iik) | 3:53 | 2025-04-17 |  |
+| [HERZSCHLAG](https://open.spotify.com/track/1qJH8giBk7OawPg5RF5j9A) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [KLUBPARTEI](https://open.spotify.com/album/1uISv19ZmoOXpsqqm48iik) | 3:53 | 2025-04-17 | 2026-04-12 |
 | [Heute Nacht](https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Heute Nacht](https://open.spotify.com/album/3hUV4shxjzrCGFtJgBOF82) | 3:24 | 2023-04-04 | 2024-04-20 |
 | [Hey Baby](https://open.spotify.com/track/2ud3Yzg63Z6rGUytQH9LUQ) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Hey Baby](https://open.spotify.com/album/3OqaQBrwAfOLerlgJlJj8q) | 3:56 | 2024-05-17 | 2025-04-25 |
 | [High](https://open.spotify.com/track/5mKFwrsNBhaRjvefLd1azY) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Vinter](https://open.spotify.com/artist/7kxIJLoHe2W8GFXSN17KWz) | [High](https://open.spotify.com/album/1KXGij9oegXwEbsx8jnXe8) | 3:00 | 2024-09-26 | 2025-05-30 |

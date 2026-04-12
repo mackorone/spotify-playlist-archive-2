@@ -1,12 +1,12 @@
 {
   "description": "This is Edicion Especial. The essential tracks, all in one playlist.",
-  "num_followers": 191891,
+  "num_followers": 191936,
   "original_name": "This Is Edicion Especial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adbsAAAAAACnHs4r/tvZ3FiaDERQbW68",
+  "snapshot_id": "adg9gAAAAAD7KcjLFUmXnk8KbNk1QFsB",
   "tracks": [
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "S\u00f3lo T\u00fa (En Vivo)",
-        "url": "https://open.spotify.com/album/4g0TTwd8kOOQEYwGgZiiKg"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 187989,
-      "name": "S\u00f3lo T\u00fa - En Vivo",
-      "url": "https://open.spotify.com/track/4jZHBWgeRYvLEexYEr1qrY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Pareja Ideal (Live)",
         "url": "https://open.spotify.com/album/7tf6GpdBaocZXuE1NlOR9F"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 249088,
       "name": "La Pareja Ideal - Live",
       "url": "https://open.spotify.com/track/0nwTI8VwuCvNIR2mhq0rnr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "S\u00f3lo T\u00fa (En Vivo)",
+        "url": "https://open.spotify.com/album/4g0TTwd8kOOQEYwGgZiiKg"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 187989,
+      "name": "S\u00f3lo T\u00fa - En Vivo",
+      "url": "https://open.spotify.com/track/4jZHBWgeRYvLEexYEr1qrY"
     },
     {
       "added_at": null,
@@ -815,22 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seraf\u00edn",
-        "url": "https://open.spotify.com/album/4QMWgjMVSP4cvmZIhv1u1X"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 240605,
-      "name": "Seraf\u00edn",
-      "url": "https://open.spotify.com/track/7DKx7f5mwJIcDb62NG0PfV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Super Del Barril",
         "url": "https://open.spotify.com/album/1GN1V9GFypeKwM2xclRkRo"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 197151,
       "name": "La Super Del Barril",
       "url": "https://open.spotify.com/track/6HjLOag0JzUheMcTrMGVL4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seraf\u00edn",
+        "url": "https://open.spotify.com/album/4QMWgjMVSP4cvmZIhv1u1X"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 240605,
+      "name": "Seraf\u00edn",
+      "url": "https://open.spotify.com/track/7DKx7f5mwJIcDb62NG0PfV"
     }
   ],
   "unique_name": "This Is Edicion Especial",

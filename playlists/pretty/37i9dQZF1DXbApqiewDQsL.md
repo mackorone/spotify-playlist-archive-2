@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Axel Rodriguez
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,983 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,996 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 | 49 | [Extasy Mode](https://open.spotify.com/track/5E30B4PAa3HQ2s849f1KRF) | [Julio LV](https://open.spotify.com/artist/4rh7r9ZUjRAZXg93Nr8S0S) | [Extasy Mode](https://open.spotify.com/album/5XSiLyb4PC5xwAsjD70naw) | 2:50 |
 | 50 | [Mejor Me Voy \- En Vivo](https://open.spotify.com/track/639oDU9iReQ0IJ8THcsFOE) | [Janely Rosa](https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF) | [Mejor Me Voy \(En Vivo\)](https://open.spotify.com/album/6vYp8NDOIBPbSxK7WEtIPK) | 3:27 |
 
-Snapshot ID: `AAAAAAg5l6uhF/IOqMeTTXeZ9d60swGR`
+Snapshot ID: `AAAAAPxYX8/V18p6pTQfkuVnZxxs6dtj`

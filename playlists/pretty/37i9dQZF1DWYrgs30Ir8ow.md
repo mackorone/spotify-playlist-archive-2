@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 
 > Altijd frisse hits! Cover: Yssi SB & KM
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,334 likes - 42 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,333 likes - 42 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 | 4 | [Save My Love](https://open.spotify.com/track/5ObyGDxNWH0Uuuk3NvC5r8) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh) | [Save My Love](https://open.spotify.com/album/16OQglx2ocK2F03OgmYIxh) | 3:30 |
 | 5 | [Voor de straten](https://open.spotify.com/track/1KEnIOAe6vLqj7uNvLOCn9) | [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Rolf Sanchez](https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws) | [Voor de straten](https://open.spotify.com/album/4LpLWzuQmZD581Z1NPyQtD) | 2:33 |
 | 6 | [Ik Ken Die Girls](https://open.spotify.com/track/4LCDrR00rJwjGPQYKavU7G) | [Yung Felix](https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu), [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI), [Rijck](https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ) | [Ik Ken Die Girls](https://open.spotify.com/album/3MJnKNmeKEjunKkT1bZSeW) | 2:16 |
-| 7 | [Gappie Sappie](https://open.spotify.com/track/2FCDwCdXpMnSq3QuHWZ3UM) | [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW), [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Gappie Sappie](https://open.spotify.com/album/7FE9PW71kUT5Ry6N1D0TDo) | 2:17 |
+| 7 | [Gappie Sappie](https://open.spotify.com/track/2FCDwCdXpMnSq3QuHWZ3UM) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Gappie Sappie](https://open.spotify.com/album/7FE9PW71kUT5Ry6N1D0TDo) | 2:17 |
 | 8 | [Alleen Is Maar Alleen](https://open.spotify.com/track/6tcolgcmZjT4AFqvNStPWz) | [Lusho](https://open.spotify.com/artist/28PqBC4Est3XUrAiPwvzKs), [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4) | [Alleen Is Maar Alleen](https://open.spotify.com/album/7EtaXo9QKligGu9dgenUSy) | 2:22 |
 | 9 | [Waar Blijf Je Nou](https://open.spotify.com/track/3zPB1hMsorvAEiIl88JOpr) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Senna](https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ) | [Waar Blijf Je Nou](https://open.spotify.com/album/5bVeC1xSb9cerOTLbVCKDJ) | 2:58 |
 | 10 | [ALL THE LOVE \(feat\. Andre Troutman\)](https://open.spotify.com/track/2SjnvpedDUU0Ga69bxnoCa) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ye](https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq), [Andre Troutman](https://open.spotify.com/artist/1EpaJyg2sMnPqKRsjjcG7R) | [BULLY](https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS) | 3:49 |

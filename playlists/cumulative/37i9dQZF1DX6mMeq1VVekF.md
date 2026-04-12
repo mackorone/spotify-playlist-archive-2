@@ -4,7 +4,7 @@
 
 > No tags, no labels \- just free form\. Cover: BaggE
 
-552 songs - 1 day 4 hr 28 min
+554 songs - 1 day 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,7 +204,7 @@
 | [Get Me](https://open.spotify.com/track/2QYHEIBi1SlaIQbzDOHC5g) | [Nate Brazier](https://open.spotify.com/artist/4cavlP5GhgtNXiWSS3wIO7) | [Get Me](https://open.spotify.com/album/0uATdxFoiP0PRKVDqJ6O7F) | 2:47 | 2024-10-25 | 2025-04-27 |
 | [Give Me Time](https://open.spotify.com/track/3p1bQx6kqm8p9PCFELKkNG) | [Sâlo](https://open.spotify.com/artist/1Jxb2XyHKir8W0oZrdsCpN) | [Give Me Time](https://open.spotify.com/album/6yIT2IQGECZ0BWl3krrL3J) | 3:39 | 2025-11-14 |  |
 | [Give Us Some Time](https://open.spotify.com/track/1rVAuA1iGNTOUOLbLg0HtS) | [AMANZI](https://open.spotify.com/artist/2JntGPQDmz3Lm0m3C7OEm4) | [AMANZI](https://open.spotify.com/album/1KCg6ZTO1YMCRqjJecxXPS) | 3:12 | 2025-04-04 |  |
-| [Glaze](https://open.spotify.com/track/6mfokGkQnfHkrizH9s2FYu) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z), [EMIL](https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb) | [Glaze](https://open.spotify.com/album/2P84jHNs5YMCuLw3uX8ZLM) | 2:43 | 2025-10-10 |  |
+| [Glaze](https://open.spotify.com/track/6mfokGkQnfHkrizH9s2FYu) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z), [EMIL](https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb) | [Glaze](https://open.spotify.com/album/2P84jHNs5YMCuLw3uX8ZLM) | 2:43 | 2025-10-10 | 2026-04-12 |
 | [GLT Freestyle](https://open.spotify.com/track/2KiH3ZHLrWifFpmtzz9veg) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [GLT Freestyle](https://open.spotify.com/album/5YdDjGB5ARWBpHkna6ZyJr) | 2:28 | 2023-05-15 | 2023-06-17 |
 | [Go](https://open.spotify.com/track/2eoJHHLFlADDkbyOm3icMf) | [BenjiFlow](https://open.spotify.com/artist/3NRpcByltnHx7oZxWbg8Lt) | [Go](https://open.spotify.com/album/6PdBkfE508vLyjZdFGZsaP) | 2:29 | 2022-06-24 | 2022-07-28 |
 | [Gold Chains](https://open.spotify.com/track/0T7PAJKN2k6k7kBSWIcw34) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Gold Chains](https://open.spotify.com/album/3IRr3MaG3mJQbrvMLhS3Zr) | 3:38 | 2022-06-24 | 2022-07-27 |
@@ -227,7 +227,7 @@
 | [Hate It Or Luv It](https://open.spotify.com/track/5CpnjR6DE6X3PFvmKqrw1l) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Wild West](https://open.spotify.com/album/0aAVMtHuK9wX1mQozWvdSZ) | 2:32 | 2022-07-17 | 2024-10-04 |
 | [HEARTACHE & CHEST PAINS](https://open.spotify.com/track/5sO2NkmWPTAWryJ6CWcj3Q) | [BERWYN](https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR) | [DEMOTAPE/VEGA](https://open.spotify.com/album/3SucuvOplRzjCm602c5XuK) | 2:35 | 2022-06-24 | 2022-07-29 |
 | [Hello](https://open.spotify.com/track/2dPljTAcJMuHXwojPtsv3h) | [Jelani Blackman](https://open.spotify.com/artist/0fjaIHFhiW9vWX8bncZCOo) | [Unlimited](https://open.spotify.com/album/72vlLzn1FIEi1mHwJjfsW5) | 2:58 | 2022-07-17 | 2023-04-19 |
-| [HIGH](https://open.spotify.com/track/70rtaYi2AprbjQQCz8rgTF) | [Malaki](https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF) | [HIGH](https://open.spotify.com/album/0M2wuRfrnrfM9QWLmMtEnr) | 3:36 | 2026-02-27 |  |
+| [HIGH](https://open.spotify.com/track/70rtaYi2AprbjQQCz8rgTF) | [Malaki](https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF) | [HIGH](https://open.spotify.com/album/0M2wuRfrnrfM9QWLmMtEnr) | 3:36 | 2026-02-27 | 2026-04-12 |
 | [Higher Life](https://open.spotify.com/track/45hcfulMM8BGDKFj6MnZv6) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S), [Chronic Law](https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w) | [Higher Life](https://open.spotify.com/album/3lhwBOftasfbBakMOQOAzX) | 3:18 | 2024-04-26 | 2025-01-18 |
 | [Hold Me](https://open.spotify.com/track/2FyKNGjjdGFY26MODQcR8s) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Hold Me](https://open.spotify.com/album/1lPP40l172ZtM0JK0wrfbC) | 3:34 | 2022-06-24 | 2022-07-28 |
 | [Hold You Down](https://open.spotify.com/track/1UAv2FU9jslNl8AHsoUBjY) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Hold You Down](https://open.spotify.com/album/2GYVBRo8ElxaGoBtKbNVG0) | 2:38 | 2024-04-26 | 2025-01-18 |
@@ -289,6 +289,7 @@
 | [Los Pollos Hermanos](https://open.spotify.com/track/6hlrui656yBRUb3qGkd5lH) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [Los Pollos Hermanos](https://open.spotify.com/album/766Mv8IX7ddrwGr9jiSKjM) | 1:35 | 2022-06-24 | 2024-10-04 |
 | [lost my mind](https://open.spotify.com/track/3AXwlM0fd6zL2fm5KANQRO) | [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C), [Yvnnis](https://open.spotify.com/artist/2Av0IgTSSDYLJNajJrQwyb) | [lost my mind](https://open.spotify.com/album/6wFuPwowIDNpICX9oqXFc5) | 3:15 | 2025-04-24 | 2025-07-12 |
 | [Lotto](https://open.spotify.com/track/4BWX21Z66fCp2y7IxZjJOW) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS), [Mixtape Madness](https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9) | [Lotto](https://open.spotify.com/album/6trpH2gOheocHdjxeotCNZ) | 3:05 | 2023-08-18 | 2024-02-25 |
+| [Love Hate \(feat\. Thomas Day\)](https://open.spotify.com/track/1ysnEi1bFBkn0aCQFPh8gY) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9), [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Love Hate \(feat\. Thomas Day\)](https://open.spotify.com/album/0tLM5uck8tjqqvgagX4I1p) | 3:12 | 2026-04-09 |  |
 | [Love is a Lottery](https://open.spotify.com/track/2vYBVOigtDiRXbH6TOg6sx) | [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd) | [Love is a Lottery](https://open.spotify.com/album/0BmQyo8T0Oief6QZjsbQfZ) | 3:37 | 2022-10-28 | 2023-03-27 |
 | [lOvE LeTtEr \(feat\. Don Toliver\)](https://open.spotify.com/track/6uff47vGupqiJHswiEiIW3) | [TisaKorean](https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [In Silly We Trust](https://open.spotify.com/album/1BuAXWfCXHeQVRDYiUDCUg) | 3:02 | 2024-10-21 | 2025-03-17 |
 | [Love Me](https://open.spotify.com/track/6fgfoT5DB6f4IOgzPRJm0n) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Love Me](https://open.spotify.com/album/1PdFlqzfgz8oqbHwGFdrBC) | 2:54 | 2022-06-24 | 2022-07-12 |
@@ -335,6 +336,7 @@
 | [My Girl](https://open.spotify.com/track/3plqhYuTPtqtdYNkW419pp) | [Ama](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [My Girl](https://open.spotify.com/album/7twy0Kqh0tnxrZKMUORn09) | 2:58 | 2025-05-29 |  |
 | [my way \(w/ Rico Nasty & Kanii\)](https://open.spotify.com/track/0MIJyhl23TYo8HBVcLxx0Y) | [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW) | [my way \(w/ Rico Nasty & Kanii\)](https://open.spotify.com/album/4CmTdaHt5vFyOQQjjmcruR) | 2:57 | 2024-10-21 | 2025-03-21 |
 | [Nah It Ain't The Same](https://open.spotify.com/track/3KKOxkUPWhKQssiMCSJxqO) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Nah It Ain't The Same](https://open.spotify.com/album/27QNFuoSpcwEYnMJhwHhiP) | 4:11 | 2022-06-24 | 2022-07-29 |
+| [Naturally](https://open.spotify.com/track/1Mny3onDz12YDgSUXkGfET) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Naturally](https://open.spotify.com/album/7gJC1w5cF7GQXBzTal3XTQ) | 2:31 | 2026-04-09 |  |
 | [Near Life Experience](https://open.spotify.com/track/5NvkeXRumat4XN88E1psIX) | [Ocean Wisdom](https://open.spotify.com/artist/0D9N9NxMbXKjmoRI1JVdz8) | [Near Life Experience](https://open.spotify.com/album/3Xeg29uWoIOMemK10WNpN1) | 3:42 | 2024-10-03 | 2024-10-11 |
 | [Need Me](https://open.spotify.com/track/7a636g0dl8a487foiAcoCM) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Need Me](https://open.spotify.com/album/453LC2RXr0Yv6M86esUdqm) | 2:20 | 2023-05-15 | 2024-10-04 |
 | [NEIGHBOURS](https://open.spotify.com/track/1q74d6pWGeHrGOifl6o2W9) | [BERWYN](https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR) | [NEIGHBOURS](https://open.spotify.com/album/5k1htUtASv8WIFomZCnb7a) | 3:06 | 2024-04-26 | 2024-10-09 |

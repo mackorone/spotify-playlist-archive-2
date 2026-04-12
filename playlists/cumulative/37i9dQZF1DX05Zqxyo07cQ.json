@@ -8055,6 +8055,24 @@
     },
     {
       "album": {
+        "name": "Inceptum",
+        "url": "https://open.spotify.com/album/2F9UiY6Cyay1nWd8OlyWZB"
+      },
+      "artists": [
+        {
+          "name": "Amphose",
+          "url": "https://open.spotify.com/artist/719YWjEvZBDkU5Esi9rsZz"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "Inceptum",
+      "url": "https://open.spotify.com/track/1PtNlpqHMwOQ93hh7pRizT"
+    },
+    {
+      "album": {
         "name": "Include",
         "url": "https://open.spotify.com/album/1Hs4Nl5uMnxyn4skV5EIF5"
       },
@@ -10136,7 +10154,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 204000,
       "name": "Mindful Retreat",
       "url": "https://open.spotify.com/track/0IaCcbEwkyL9sZIJpvDHPJ"
@@ -12322,6 +12340,24 @@
       "duration_ms": 156723,
       "name": "Placid Echoes",
       "url": "https://open.spotify.com/track/7ybzymL0w0XYyJaBeqFSRy"
+    },
+    {
+      "album": {
+        "name": "Placid Interval",
+        "url": "https://open.spotify.com/album/7d55HIpi8OCtp0LiiU2KQK"
+      },
+      "artists": [
+        {
+          "name": "Zyair Price",
+          "url": "https://open.spotify.com/artist/767ee2dusb4P76a8GXPf6t"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164305,
+      "name": "Placid Interval",
+      "url": "https://open.spotify.com/track/3rejhbJj7L7YG8dYkaq1Th"
     },
     {
       "album": {
@@ -16080,7 +16116,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 178369,
       "name": "Sundial in the Fog",
       "url": "https://open.spotify.com/track/63n4BKVSL1tUR0wT5uVxD9"

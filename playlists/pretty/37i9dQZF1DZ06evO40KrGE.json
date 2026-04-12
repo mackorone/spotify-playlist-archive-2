@@ -1,12 +1,12 @@
 {
   "description": "This is Cassiane. The essential tracks, all in one playlist.",
-  "num_followers": 37944,
+  "num_followers": 37950,
   "original_name": "This Is Cassiane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adbsAAAAAAArhtIAXXHtCivAlBh3NUht",
+  "snapshot_id": "adg9gAAAAADWlK5GsyyQowYMf+SXgYe2",
   "tracks": [
     {
       "added_at": null,
@@ -275,22 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ao Som dos Louvores",
-        "url": "https://open.spotify.com/album/1SBOCUbV8TfURNJtRyISFU"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 313093,
-      "name": "Amigo Esp\u00edrito Santo",
-      "url": "https://open.spotify.com/track/5wjvv06YEBbkh86PjfXRk0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sem Palavras",
         "url": "https://open.spotify.com/album/5l3C8WhPoluyf3FqslYyNd"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 289459,
       "name": "Imagine",
       "url": "https://open.spotify.com/track/7sfSpQPesW7pNS7gaPnE7j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ao Som dos Louvores",
+        "url": "https://open.spotify.com/album/1SBOCUbV8TfURNJtRyISFU"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 313093,
+      "name": "Amigo Esp\u00edrito Santo",
+      "url": "https://open.spotify.com/track/5wjvv06YEBbkh86PjfXRk0"
     },
     {
       "added_at": null,
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Harpa Vol.1",
-        "url": "https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 345698,
-      "name": "Alvo Mais que a Neve",
-      "url": "https://open.spotify.com/track/5iWARO07W7fW9uaU07zMeT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fa\u00e7a Diferen\u00e7a",
         "url": "https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 276549,
       "name": "Mergulhe",
       "url": "https://open.spotify.com/track/0aToQvWg4KfOKuHvsKcDkg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Harpa Vol.1",
+        "url": "https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 345698,
+      "name": "Alvo Mais que a Neve",
+      "url": "https://open.spotify.com/track/5iWARO07W7fW9uaU07zMeT"
     },
     {
       "added_at": null,
@@ -823,22 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recompensa",
-        "url": "https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 272973,
-      "name": "Deus Responde",
-      "url": "https://open.spotify.com/track/6wDT07mGxHH9JbZiwt76bI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fa\u00e7a Diferen\u00e7a",
         "url": "https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 237586,
       "name": "Ele Tem Poder",
       "url": "https://open.spotify.com/track/0fzmCMwvPCJKLWK7oyvJuY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Recompensa",
+        "url": "https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 272973,
+      "name": "Deus Responde",
+      "url": "https://open.spotify.com/track/6wDT07mGxHH9JbZiwt76bI"
     },
     {
       "added_at": null,

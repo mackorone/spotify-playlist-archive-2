@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6NlIeT95t9.md) - [plain]
 
 > Meet the future ♥️ Cover: Shae Gill
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,855 likes - 76 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,859 likes - 76 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Yung Money](https://open.spotify.com/track/5AhLbtL9gzUJ4Na9V1A9oP) | [AliSoomroMusic](https://open.spotify.com/artist/2hXbxDaLthfodvgEpP6Xpm), [Afusic](https://open.spotify.com/artist/1pS0qiLG23HMMLFwsQALKx), [Ali Raza](https://open.spotify.com/artist/522dF8hRyQ3b0jypJfUDQW), [Azan Ali](https://open.spotify.com/artist/1Ww6kYtGqgLRqGeVJkb7yU) | [birds in the trap](https://open.spotify.com/album/4vzcWip8QHisJ2hbszZ11y) | 3:14 |
+| 1 | [Yung Money](https://open.spotify.com/track/5AhLbtL9gzUJ4Na9V1A9oP) | [AliSoomroMusic](https://open.spotify.com/artist/2hXbxDaLthfodvgEpP6Xpm), [Afusic](https://open.spotify.com/artist/1pS0qiLG23HMMLFwsQALKx), [Ali Raza](https://open.spotify.com/artist/522dF8hRyQ3b0jypJfUDQW), [Azan Ali](https://open.spotify.com/artist/0V5VTIpWy4tsz3XienFcxJ) | [birds in the trap](https://open.spotify.com/album/4vzcWip8QHisJ2hbszZ11y) | 3:14 |
 | 2 | [Pasoori](https://open.spotify.com/track/7lvDsmTRXFE3dK4OjvRiWB) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl), [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP) | [Pasoori](https://open.spotify.com/album/7wgrW5XyZdtk0K8PkW5A7h) | 3:44 |
 | 3 | [WHERE R U](https://open.spotify.com/track/15vcBRyEkUZkH8xpGs35xe) | [Alistair Alvin](https://open.spotify.com/artist/6oVcou7NADA31wfWBtZchF), [Samar Jafri](https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq) | [WHERE R U](https://open.spotify.com/album/0LvPT3BxK0v7hCkzHsnp5K) | 3:41 |
 | 4 | [Kanwal](https://open.spotify.com/track/1ZriJmDC61hn2z2eajgooI) | [Afusic](https://open.spotify.com/artist/1pS0qiLG23HMMLFwsQALKx), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [AliSoomroMusic](https://open.spotify.com/artist/2hXbxDaLthfodvgEpP6Xpm) | [Kanwal](https://open.spotify.com/album/6HJGTGOa9H0t8WUv2PpxpG) | 3:14 |

@@ -4,7 +4,7 @@
 
 > Frisse Nederlandse pop\. Cover: Russo
 
-1,277 songs - 2 day 13 hr 2 min
+1,278 songs - 2 day 13 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,7 +157,7 @@
 | [Beetje Vrijheid](https://open.spotify.com/track/6uRh5pPZNPuMgFoSNlHKNN) | [Joël Domingos](https://open.spotify.com/artist/5LzkF8ZUuxdSg8BCEwrosb) | [Beetje Vrijheid](https://open.spotify.com/album/7noOA6uNQKPIOS0PUkACvf) | 3:50 | 2023-02-23 | 2023-04-28 |
 | [Begin Opnieuw](https://open.spotify.com/track/3Q9ljh3xWnWJpzGYDY0qfP) | [Bazart](https://open.spotify.com/artist/3kcwSBHk3lMgHMHuxjJLNZ) | [Begin Opnieuw](https://open.spotify.com/album/2JotcPiUL4bSobxOXNJ2xg) | 3:06 | 2025-09-11 | 2025-11-07 |
 | [beiden gebroken](https://open.spotify.com/track/48DV9IJN747mdOMkYAr8ZA) | [ANNE](https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS) | [beiden gebroken](https://open.spotify.com/album/5xeIQDxvUTcCRd3gmfy5qc) | 2:46 | 2024-09-19 | 2024-12-13 |
-| [Bel me als je thuis bent](https://open.spotify.com/track/64ROYevyhHmxcGmvObFs6E) | [Pommelien Thijs](https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b) | [Gedoe](https://open.spotify.com/album/4UW6gZzDkRJcEDdZPhmu4R) | 3:53 | 2026-01-08 |  |
+| [Bel me als je thuis bent](https://open.spotify.com/track/64ROYevyhHmxcGmvObFs6E) | [Pommelien Thijs](https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b) | [Gedoe](https://open.spotify.com/album/4UW6gZzDkRJcEDdZPhmu4R) | 3:53 | 2026-01-08 | 2026-04-12 |
 | [Bel me niet](https://open.spotify.com/track/6NtORS6kdQnmBrAnbNPHTl) | [Edwin Evers](https://open.spotify.com/artist/5BVgpCPWqBxTVis97X2fVO) | [Levensdraden](https://open.spotify.com/album/6arLkm6MoS93r5rE50uNQJ) | 4:06 | 2023-10-12 | 2023-11-10 |
 | [Beloof Je Dat \(Live in de Ziggo Dome\)](https://open.spotify.com/track/70kfXjOOXt41h6c2zSj051) | [Maan](https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU) | [Beloof Je Dat \(Live in de Ziggo Dome\)](https://open.spotify.com/album/2Q6t4oJAbaTjWOFyXXBVGi) | 4:22 | 2023-02-23 | 2023-06-09 |
 | [Ben je klaar?](https://open.spotify.com/track/5Zj0gTZAjXSHAaSxVtFVlq) | [Pommelien Thijs](https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b) | [Ben je klaar?](https://open.spotify.com/album/1t75WIdwiHc9qTvv50RYRA) | 3:40 | 2025-08-14 | 2025-10-03 |
@@ -569,6 +569,7 @@
 | [Ik Wil Dat Je Liegt](https://open.spotify.com/track/6ifKXZTqAuLA35TGCVuGBU) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG), [MAKSIM](https://open.spotify.com/artist/5ncHUtKhiVsHlugFN0DCDl) | [Ik Wil Dat Je Liegt](https://open.spotify.com/album/5OpBG7QnV8Frg31RrAvjYV) | 2:54 | 2024-05-23 | 2024-09-13 |
 | [Ik Zeg Niets](https://open.spotify.com/track/2gmXfe301S1Hpla35JYzBw) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [Ik Zeg Niets](https://open.spotify.com/album/7drCcFtZkN6zxdXmehJHSM) | 3:07 | 2024-08-29 | 2024-11-08 |
 | [Ik Zing \(feat\. Snelle\)](https://open.spotify.com/track/0fROjdyTv6S6E65qpQfwHa) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE), [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Ik Zing \(feat\. Snelle\)](https://open.spotify.com/album/0mGKEPfav9UHa2wssnrruz) | 2:54 | 2025-03-20 | 2025-05-30 |
+| [Ik zou het zo weer overdoen](https://open.spotify.com/track/3VmopKB6zV3SOkZBlsV0ZZ) | [Julia Cecile](https://open.spotify.com/artist/1ujg2quXH0LCrTb1BD8ECa) | [Ik zou het zo weer overdoen](https://open.spotify.com/album/1D4PQXSWNPlISYnbFBQZuh) | 3:25 | 2026-04-11 |  |
 | [Illegaal](https://open.spotify.com/track/4rjyBW1y6hv43BtkasJAeh) | [DAVE](https://open.spotify.com/artist/1b8Wn3xSquDw84o7yJI6Jk) | [Dagboek](https://open.spotify.com/album/3BQPnnnEFqxPg7Oj7AoRfW) | 2:44 | 2024-09-26 | 2024-12-20 |
 | [Illusie](https://open.spotify.com/track/6Pw5XCjhExzhzPxtcsG6hd) | [Emma Luca](https://open.spotify.com/artist/3ijcW9QMa7wkBs1ACGpdcs) | [Illusie](https://open.spotify.com/album/4tko40VypsOm3fL4jENmls) | 2:36 | 2024-11-14 | 2025-01-31 |
 | [Illusies](https://open.spotify.com/track/54E9cqWN03bwOSXpZ0WI3y) | [Tomson](https://open.spotify.com/artist/4OcAOYzLAiGREe0stWTGXp) | [Illusies](https://open.spotify.com/album/5XgzPaAbCwP8z6sN3ivyL9) | 2:55 | 2023-08-31 | 2023-09-15 |

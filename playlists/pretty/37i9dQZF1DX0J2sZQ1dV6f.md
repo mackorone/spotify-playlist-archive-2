@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0J2sZQ1dV6f.md) - [plain]
 
 > Bien alucin con el electro, la nueva ola de la fiesta\. Cover: Rivs, Sahir Montoya
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,879 likes - 105 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,874 likes - 105 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

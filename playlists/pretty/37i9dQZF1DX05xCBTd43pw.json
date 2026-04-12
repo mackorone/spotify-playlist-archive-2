@@ -1,12 +1,12 @@
 {
   "description": "Aus der Schweiz f\u00fcr dich \u2013 musique suisse \u2013 musica svizzera \ud83c\udde8\ud83c\udded\nCover: Eileen Alister",
-  "num_followers": 37763,
+  "num_followers": 37761,
   "original_name": "Swiss Made",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJeba7lsJZl++hgJqcvp36JJjxcW",
+  "snapshot_id": "AAAAAPOsQc4MF4/N2bbvJIB3I2u+eQA2",
   "tracks": [
     {
       "added_at": "2026-04-02 22:01:09",
@@ -491,6 +491,22 @@
     {
       "added_at": "2026-04-02 22:01:09",
       "album": {
+        "name": "Mindreader",
+        "url": "https://open.spotify.com/album/16SV6RzmnV9PM2gUtiu0MZ"
+      },
+      "artists": [
+        {
+          "name": "Hazel Rose",
+          "url": "https://open.spotify.com/artist/24tXzUYMQwtDjajAAIJVt8"
+        }
+      ],
+      "duration_ms": 184578,
+      "name": "Mindreader",
+      "url": "https://open.spotify.com/track/5wcA85plXK7wQuQRafrCob"
+    },
+    {
+      "added_at": "2026-04-02 22:01:09",
+      "album": {
         "name": "As I Am",
         "url": "https://open.spotify.com/album/3gUDZfZ8ySMiWT5zFINNuC"
       },
@@ -555,26 +571,6 @@
     {
       "added_at": "2026-04-02 22:01:09",
       "album": {
-        "name": "Valse \u00e0 Demi",
-        "url": "https://open.spotify.com/album/5imqbp4UGgNwRUftlTjUIR"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00eb M\u00eb",
-          "url": "https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN"
-        },
-        {
-          "name": "Stephan Eicher",
-          "url": "https://open.spotify.com/artist/29My6ypNwcVp0mjpy3sX2E"
-        }
-      ],
-      "duration_ms": 162835,
-      "name": "Valse \u00e0 Demi",
-      "url": "https://open.spotify.com/track/5gfb1OANgI7roumlmuYo0x"
-    },
-    {
-      "added_at": "2026-04-02 22:01:09",
-      "album": {
         "name": "Happy Here",
         "url": "https://open.spotify.com/album/5SoVqbsyAO0Qplj4hxT7Z9"
       },
@@ -591,6 +587,26 @@
       "duration_ms": 174000,
       "name": "Happy Here",
       "url": "https://open.spotify.com/track/2HmUgFWhCMs44ONcQAFhkm"
+    },
+    {
+      "added_at": "2026-04-02 22:01:09",
+      "album": {
+        "name": "Valse \u00e0 Demi",
+        "url": "https://open.spotify.com/album/5imqbp4UGgNwRUftlTjUIR"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb M\u00eb",
+          "url": "https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN"
+        },
+        {
+          "name": "Stephan Eicher",
+          "url": "https://open.spotify.com/artist/29My6ypNwcVp0mjpy3sX2E"
+        }
+      ],
+      "duration_ms": 162835,
+      "name": "Valse \u00e0 Demi",
+      "url": "https://open.spotify.com/track/5gfb1OANgI7roumlmuYo0x"
     },
     {
       "added_at": "2026-04-02 22:01:09",
@@ -643,22 +659,6 @@
     {
       "added_at": "2026-04-02 22:01:09",
       "album": {
-        "name": "Mindreader",
-        "url": "https://open.spotify.com/album/16SV6RzmnV9PM2gUtiu0MZ"
-      },
-      "artists": [
-        {
-          "name": "Hazel Rose",
-          "url": "https://open.spotify.com/artist/24tXzUYMQwtDjajAAIJVt8"
-        }
-      ],
-      "duration_ms": 184578,
-      "name": "Mindreader",
-      "url": "https://open.spotify.com/track/5wcA85plXK7wQuQRafrCob"
-    },
-    {
-      "added_at": "2026-04-02 22:01:09",
-      "album": {
         "name": "Fire To The Sky",
         "url": "https://open.spotify.com/album/1Fz5JAZlatqEDYC9gpThwl"
       },
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-04-02 22:01:09",
       "album": {
-        "name": "Des montagnes de toi",
-        "url": "https://open.spotify.com/album/2YgOkEKH4iJbGz4SOwHEAe"
-      },
-      "artists": [
-        {
-          "name": "Vendredi sur Mer",
-          "url": "https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B"
-        }
-      ],
-      "duration_ms": 181333,
-      "name": "Des montagnes de toi",
-      "url": "https://open.spotify.com/track/4SyrpjEFYjsYJKq2kNhzSs"
-    },
-    {
-      "added_at": "2026-04-02 22:01:09",
-      "album": {
         "name": "Will You Take Me As I Am?",
         "url": "https://open.spotify.com/album/5ozgfuDI2e1vjcSKwXkRaF"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 199983,
       "name": "Take me as i am",
       "url": "https://open.spotify.com/track/2XQW9PF9na8qextnDmjg9K"
+    },
+    {
+      "added_at": "2026-04-02 22:01:09",
+      "album": {
+        "name": "Des montagnes de toi",
+        "url": "https://open.spotify.com/album/2YgOkEKH4iJbGz4SOwHEAe"
+      },
+      "artists": [
+        {
+          "name": "Vendredi sur Mer",
+          "url": "https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B"
+        }
+      ],
+      "duration_ms": 181333,
+      "name": "Des montagnes de toi",
+      "url": "https://open.spotify.com/track/4SyrpjEFYjsYJKq2kNhzSs"
     },
     {
       "added_at": "2026-04-02 22:01:09",
@@ -771,22 +771,6 @@
     {
       "added_at": "2026-04-02 22:01:09",
       "album": {
-        "name": "Dancing Alone Again",
-        "url": "https://open.spotify.com/album/6r1STi3YoZcpBOoWBaEK1C"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Amaru",
-          "url": "https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp"
-        }
-      ],
-      "duration_ms": 191432,
-      "name": "Dancing Alone Again",
-      "url": "https://open.spotify.com/track/6B4zn4wOOrNGpPc6Sg54Oo"
-    },
-    {
-      "added_at": "2026-04-02 22:01:09",
-      "album": {
         "name": "Julia?",
         "url": "https://open.spotify.com/album/0yb32DY8k0di8YqzkyQAKi"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 183157,
       "name": "Starcrossed",
       "url": "https://open.spotify.com/track/0vIAdlejSPRVJZwY5h7pqe"
+    },
+    {
+      "added_at": "2026-04-02 22:01:09",
+      "album": {
+        "name": "Dancing Alone Again",
+        "url": "https://open.spotify.com/album/6r1STi3YoZcpBOoWBaEK1C"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Amaru",
+          "url": "https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp"
+        }
+      ],
+      "duration_ms": 191432,
+      "name": "Dancing Alone Again",
+      "url": "https://open.spotify.com/track/6B4zn4wOOrNGpPc6Sg54Oo"
     },
     {
       "added_at": "2026-04-02 22:01:09",
@@ -867,22 +867,6 @@
     {
       "added_at": "2026-04-02 22:01:09",
       "album": {
-        "name": "Stories of the XXI",
-        "url": "https://open.spotify.com/album/5nGM72Vr3X2zq1bqxtC6GG"
-      },
-      "artists": [
-        {
-          "name": "Bastian Baker",
-          "url": "https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC"
-        }
-      ],
-      "duration_ms": 175093,
-      "name": "Call Me in L.A.",
-      "url": "https://open.spotify.com/track/0AQa2zcUia32ZfDTUqL617"
-    },
-    {
-      "added_at": "2026-04-02 22:01:09",
-      "album": {
         "name": "Bailar Bachata",
         "url": "https://open.spotify.com/album/1GuwfVXyDfqq9PgUM3S9J3"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 169158,
       "name": "Bailar Bachata",
       "url": "https://open.spotify.com/track/0Y9Ur7tkHfN43EF24K85AN"
+    },
+    {
+      "added_at": "2026-04-02 22:01:09",
+      "album": {
+        "name": "Stories of the XXI",
+        "url": "https://open.spotify.com/album/5nGM72Vr3X2zq1bqxtC6GG"
+      },
+      "artists": [
+        {
+          "name": "Bastian Baker",
+          "url": "https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC"
+        }
+      ],
+      "duration_ms": 175093,
+      "name": "Call Me in L.A.",
+      "url": "https://open.spotify.com/track/0AQa2zcUia32ZfDTUqL617"
     },
     {
       "added_at": "2026-04-02 22:01:09",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2026-04-02 22:01:09",
       "album": {
+        "name": "This I Know",
+        "url": "https://open.spotify.com/album/6dkEelex2bMAhmLvrm0Y5V"
+      },
+      "artists": [
+        {
+          "name": "Noemi Beza",
+          "url": "https://open.spotify.com/artist/6VxYXAGO7LTKvpNv2n93TD"
+        }
+      ],
+      "duration_ms": 173302,
+      "name": "This I Know",
+      "url": "https://open.spotify.com/track/5tKuFGcwytK8EMw0YqMQae"
+    },
+    {
+      "added_at": "2026-04-02 22:01:09",
+      "album": {
         "name": "The Feast",
         "url": "https://open.spotify.com/album/0eNHN1wdo7BA0kP0a2P7Gu"
       },
@@ -1051,34 +1067,18 @@
     {
       "added_at": "2026-04-02 22:01:09",
       "album": {
-        "name": "This I Know",
-        "url": "https://open.spotify.com/album/6dkEelex2bMAhmLvrm0Y5V"
+        "name": "Don't Let Him Go",
+        "url": "https://open.spotify.com/album/5rVY4saaxwGxuyVUSHQn09"
       },
       "artists": [
         {
-          "name": "Noemi Beza",
-          "url": "https://open.spotify.com/artist/6VxYXAGO7LTKvpNv2n93TD"
+          "name": "Marlin",
+          "url": "https://open.spotify.com/artist/4CYjGEYERBkCTF2fK2QjVG"
         }
       ],
-      "duration_ms": 173302,
-      "name": "This I Know",
-      "url": "https://open.spotify.com/track/5tKuFGcwytK8EMw0YqMQae"
-    },
-    {
-      "added_at": "2026-04-02 22:01:09",
-      "album": {
-        "name": "Love Is A Lie",
-        "url": "https://open.spotify.com/album/4UFBXEuqazPcVNvzcm11M4"
-      },
-      "artists": [
-        {
-          "name": "Luca H\u00e4nni",
-          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
-        }
-      ],
-      "duration_ms": 139683,
-      "name": "Love Is A Lie",
-      "url": "https://open.spotify.com/track/3Ji9fllpDPn8DQGkFnLaBY"
+      "duration_ms": 177250,
+      "name": "Don't Let Him Go",
+      "url": "https://open.spotify.com/track/2ukDVX6smfiRj3LjDS6fCk"
     },
     {
       "added_at": "2026-04-02 22:01:09",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2026-04-02 22:01:09",
       "album": {
-        "name": "Don't Let Him Go",
-        "url": "https://open.spotify.com/album/5rVY4saaxwGxuyVUSHQn09"
+        "name": "Love Is A Lie",
+        "url": "https://open.spotify.com/album/4UFBXEuqazPcVNvzcm11M4"
       },
       "artists": [
         {
-          "name": "Marlin",
-          "url": "https://open.spotify.com/artist/4CYjGEYERBkCTF2fK2QjVG"
+          "name": "Luca H\u00e4nni",
+          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
         }
       ],
-      "duration_ms": 177250,
-      "name": "Don't Let Him Go",
-      "url": "https://open.spotify.com/track/2ukDVX6smfiRj3LjDS6fCk"
+      "duration_ms": 139683,
+      "name": "Love Is A Lie",
+      "url": "https://open.spotify.com/track/3Ji9fllpDPn8DQGkFnLaBY"
     },
     {
       "added_at": "2026-04-02 22:01:09",
@@ -1147,22 +1147,6 @@
       "duration_ms": 164066,
       "name": "Power",
       "url": "https://open.spotify.com/track/4wSKiYLFHTcG3HRXgbjNyI"
-    },
-    {
-      "added_at": "2026-04-02 22:01:09",
-      "album": {
-        "name": "These Walls",
-        "url": "https://open.spotify.com/album/6aLdjyeTqqpkUk86IaE69g"
-      },
-      "artists": [
-        {
-          "name": "Luca H\u00e4nni",
-          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
-        }
-      ],
-      "duration_ms": 184893,
-      "name": "These Walls",
-      "url": "https://open.spotify.com/track/5fr2nes4H8khGAlOT9Vj6t"
     },
     {
       "added_at": "2026-04-02 22:01:09",
@@ -1215,6 +1199,22 @@
     {
       "added_at": "2026-04-02 22:01:09",
       "album": {
+        "name": "These Walls",
+        "url": "https://open.spotify.com/album/6aLdjyeTqqpkUk86IaE69g"
+      },
+      "artists": [
+        {
+          "name": "Luca H\u00e4nni",
+          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
+        }
+      ],
+      "duration_ms": 184893,
+      "name": "These Walls",
+      "url": "https://open.spotify.com/track/5fr2nes4H8khGAlOT9Vj6t"
+    },
+    {
+      "added_at": "2026-04-02 22:01:09",
+      "album": {
         "name": "homemade dynamite",
         "url": "https://open.spotify.com/album/0uAEZ3O8vzbgHdKJqa5zvg"
       },
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2026-04-02 22:01:09",
       "album": {
+        "name": "Type Of Way",
+        "url": "https://open.spotify.com/album/3ZaRCKIxP10Nf10xjirFfj"
+      },
+      "artists": [
+        {
+          "name": "Marlin",
+          "url": "https://open.spotify.com/artist/4CYjGEYERBkCTF2fK2QjVG"
+        }
+      ],
+      "duration_ms": 194750,
+      "name": "Type Of Way",
+      "url": "https://open.spotify.com/track/21ZNEpSVD3aawNNRmed3uV"
+    },
+    {
+      "added_at": "2026-04-02 22:01:09",
+      "album": {
         "name": "Stranger",
         "url": "https://open.spotify.com/album/6YFNqJt03Zb2ZXVIm6YyQL"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 195055,
       "name": "How Much Can a Heart Break",
       "url": "https://open.spotify.com/track/0NAzeWAZjFBFzTorfZS9DF"
-    },
-    {
-      "added_at": "2026-04-02 22:01:09",
-      "album": {
-        "name": "Type Of Way",
-        "url": "https://open.spotify.com/album/3ZaRCKIxP10Nf10xjirFfj"
-      },
-      "artists": [
-        {
-          "name": "Marlin",
-          "url": "https://open.spotify.com/artist/4CYjGEYERBkCTF2fK2QjVG"
-        }
-      ],
-      "duration_ms": 194750,
-      "name": "Type Of Way",
-      "url": "https://open.spotify.com/track/21ZNEpSVD3aawNNRmed3uV"
     },
     {
       "added_at": "2026-04-02 22:01:09",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2026-04-02 22:01:09",
       "album": {
-        "name": "Superpower",
-        "url": "https://open.spotify.com/album/2fclAXbuvFGnRmJZFXaK3n"
-      },
-      "artists": [
-        {
-          "name": "Black Sea Dahu",
-          "url": "https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70"
-        }
-      ],
-      "duration_ms": 284786,
-      "name": "Superpower",
-      "url": "https://open.spotify.com/track/3km0TRpKgO2YKtL6emfxqp"
-    },
-    {
-      "added_at": "2026-04-02 22:01:09",
-      "album": {
         "name": "Damaged By Their Silence",
         "url": "https://open.spotify.com/album/1XZBDOsQ5sPAUEeKymhpwI"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 271680,
       "name": "Therapist",
       "url": "https://open.spotify.com/track/2XBr4ZTVcORNfhckCfpFg5"
+    },
+    {
+      "added_at": "2026-04-02 22:01:09",
+      "album": {
+        "name": "Superpower",
+        "url": "https://open.spotify.com/album/2fclAXbuvFGnRmJZFXaK3n"
+      },
+      "artists": [
+        {
+          "name": "Black Sea Dahu",
+          "url": "https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70"
+        }
+      ],
+      "duration_ms": 284786,
+      "name": "Superpower",
+      "url": "https://open.spotify.com/track/3km0TRpKgO2YKtL6emfxqp"
     },
     {
       "added_at": "2026-04-02 22:01:09",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2026-04-02 22:01:09",
       "album": {
-        "name": "Good",
-        "url": "https://open.spotify.com/album/17d8AeWoYu428twNlwtXjI"
-      },
-      "artists": [
-        {
-          "name": "Stefanie Heinzmann",
-          "url": "https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5"
-        }
-      ],
-      "duration_ms": 227413,
-      "name": "Good",
-      "url": "https://open.spotify.com/track/22LulLIuYZS8qspHQeVi7w"
-    },
-    {
-      "added_at": "2026-04-02 22:01:09",
-      "album": {
         "name": "Prosecco",
         "url": "https://open.spotify.com/album/4fDTqKqjw8HO5gTLdyU6ug"
       },
@@ -1535,6 +1519,42 @@
       "duration_ms": 199838,
       "name": "Prosecco",
       "url": "https://open.spotify.com/track/761Vzi9ixB6F1dvJ0fJqpq"
+    },
+    {
+      "added_at": "2026-04-02 22:01:09",
+      "album": {
+        "name": "Roommates",
+        "url": "https://open.spotify.com/album/5Fl6WfcI7nBW7XPnUcEiLk"
+      },
+      "artists": [
+        {
+          "name": "Tobias Jensen",
+          "url": "https://open.spotify.com/artist/58b7ah7ekcjMDdqRXp0VrK"
+        },
+        {
+          "name": "Tobias Carshey",
+          "url": "https://open.spotify.com/artist/1fmlzagVqokRcqqNrdueqo"
+        }
+      ],
+      "duration_ms": 151250,
+      "name": "Roommates",
+      "url": "https://open.spotify.com/track/48tRJaSTyD9JJ1qcybPZiq"
+    },
+    {
+      "added_at": "2026-04-02 22:01:09",
+      "album": {
+        "name": "Good",
+        "url": "https://open.spotify.com/album/17d8AeWoYu428twNlwtXjI"
+      },
+      "artists": [
+        {
+          "name": "Stefanie Heinzmann",
+          "url": "https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5"
+        }
+      ],
+      "duration_ms": 227413,
+      "name": "Good",
+      "url": "https://open.spotify.com/track/22LulLIuYZS8qspHQeVi7w"
     },
     {
       "added_at": "2026-04-02 22:01:09",
@@ -1567,26 +1587,6 @@
       "duration_ms": 122410,
       "name": "Lost In You",
       "url": "https://open.spotify.com/track/1vQAiK2MWj2D2zgYq6LPbA"
-    },
-    {
-      "added_at": "2026-04-02 22:01:09",
-      "album": {
-        "name": "Roommates",
-        "url": "https://open.spotify.com/album/5Fl6WfcI7nBW7XPnUcEiLk"
-      },
-      "artists": [
-        {
-          "name": "Tobias Jensen",
-          "url": "https://open.spotify.com/artist/58b7ah7ekcjMDdqRXp0VrK"
-        },
-        {
-          "name": "Tobias Carshey",
-          "url": "https://open.spotify.com/artist/1fmlzagVqokRcqqNrdueqo"
-        }
-      ],
-      "duration_ms": 151250,
-      "name": "Roommates",
-      "url": "https://open.spotify.com/track/48tRJaSTyD9JJ1qcybPZiq"
     },
     {
       "added_at": "2026-04-02 22:01:09",

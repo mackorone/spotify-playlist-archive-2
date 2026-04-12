@@ -4,7 +4,7 @@
 
 > Listen to all of her hits right here!
 
-133 songs - 6 hr 15 min
+134 songs - 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Chata Pra Caralho](https://open.spotify.com/track/1XIgWdD6XTplmTrSKespJO) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Ensaios Da Anitta](https://open.spotify.com/album/1h9SJU080omTqqqDf68qc9) | 2:08 | 2024-12-06 | 2025-12-10 |
 | [Cheio De Vontade](https://open.spotify.com/track/3BIQphXTZAul7BTTZ0Bsza) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Priscila Senna](https://open.spotify.com/artist/44F6hbmusaHQR96WFbo6Lv) | [Ensaios Da Anitta](https://open.spotify.com/album/6EkCnMeO4zOURLKlTKbl39) | 2:35 | 2025-12-05 | 2025-12-10 |
 | [Cheio De Vontade](https://open.spotify.com/track/3EUHRIMFUrG5s8Qm9P93b7) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Priscila Senna](https://open.spotify.com/artist/44F6hbmusaHQR96WFbo6Lv) | [Cheio De Vontade](https://open.spotify.com/album/2TQk8jyfpi7aYCa3WSR625) | 2:35 | 2025-12-09 |  |
+| [Choka Choka](https://open.spotify.com/track/7CBWajKPyBA0GFtxmTzLBV) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Choka Choka](https://open.spotify.com/album/0ei3ArgXpn3uFZwxs90ySw) | 2:11 | 2026-04-11 |  |
 | [Combatchy \(feat\. MC Rebecca\)](https://open.spotify.com/track/2bPtwnrpFNEe8N7Q85kLHw) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr) | [Combatchy \(feat\. MC Rebecca\)](https://open.spotify.com/album/4YQQS1DM9JskregbISv1dq) | 2:37 | 2023-09-08 |  |
 | [CONJUNTÃO DE TIME](https://open.spotify.com/track/3LRKdDvergteDGEbEmWsXo) | [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [CONJUNTÃO DE TIME](https://open.spotify.com/album/4pgo3csOaWMd4VpqmW12sR) | 2:34 | 2025-05-30 | 2025-12-10 |
 | [Cria De Favela](https://open.spotify.com/track/5urmjhy5zPVXDluQZ1WKmG) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Funk Generation](https://open.spotify.com/album/6z6VObudfoxrvGNC5MtiTY) | 2:57 | 2024-06-12 |  |

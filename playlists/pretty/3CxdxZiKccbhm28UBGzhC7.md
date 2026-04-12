@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3CxdxZiKccbhm28UBGzhC7.md) - [plain]
 
 > 2023
 
-[Evan](https://open.spotify.com/user/sn313e4ludhgj8lelf5kmxk1l) - 0 likes - 116 songs - 6 hr 48 min
+[Evan](https://open.spotify.com/user/sn313e4ludhgj8lelf5kmxk1l) - 0 likes - 118 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,5 +124,7 @@ pretty - [cumulative](/playlists/cumulative/3CxdxZiKccbhm28UBGzhC7.md) - [plain]
 | 114 | [This Is Why](https://open.spotify.com/track/7HdXRMw14roDx2a0COWk3M) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:27 |
 | 115 | [Lo/Hi](https://open.spotify.com/track/25YlltWXRb9k7KbrEBRuhJ) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 2:57 |
 | 116 | [hold on, we're going home by alex](https://open.spotify.com/episode/6Zut0QtyPNItirwEliKmzq) | [louis, this is for u](https://open.spotify.com/show/66Mz7S5bGPRJ9gWE5upXjL) | [louis, this is for u](https://open.spotify.com/album/66Mz7S5bGPRJ9gWE5upXjL) | 3:20 |
+| 117 | [New Song](https://open.spotify.com/track/5XHCdXhFUpWMp5lYgpfbXT) | [Warpaint](https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO) | [Heads Up](https://open.spotify.com/album/18REqENWyDEdkdERylgdgw) | 4:16 |
+| 118 | [Off & On](https://open.spotify.com/track/2viPnE2LOAPQEVdF3ocNwM) | [Findlay](https://open.spotify.com/artist/12XBVoWq6M6etLxxe1TQWn) | [Off & On](https://open.spotify.com/album/3aCbx4OWv5srNk0RkDAqMO) | 2:47 |
 
-Snapshot ID: `AAAA4YQWTyOrrALaxIW61BGELryS+YAB`
+Snapshot ID: `AAAA45RzGPtbPDR/2im/uefI3A271f9b`

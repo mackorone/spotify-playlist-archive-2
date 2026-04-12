@@ -3698,10 +3698,28 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 260466,
       "name": "\u30de\u30b9\u30bf\u30fc\u30fb\u30d4\u30fc\u30b9",
       "url": "https://open.spotify.com/track/179kkA0bqolD4KcrcCRX3I"
+    },
+    {
+      "album": {
+        "name": "\u30b9\u30fc\u30c4\u30b1\u30fc\u30b9\u30fb\u30aa\u30d6\u30fb\u30b9\u30c8\u30fc\u30f3\u30ba",
+        "url": "https://open.spotify.com/album/0baJWk1RdDFQpZdqrhWkWT"
+      },
+      "artists": [
+        {
+          "name": "Emi Meyer",
+          "url": "https://open.spotify.com/artist/6f4y1h4jbvEDZXMojr4hNn"
+        }
+      ],
+      "date_added": "2026-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261480,
+      "name": "\u30de\u30b9\u30bf\u30fc\u30fb\u30d4\u30fc\u30b9",
+      "url": "https://open.spotify.com/track/0vqEBLf7OfPwJPAhHeuo5R"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1EFRBrkYMAxqIw"

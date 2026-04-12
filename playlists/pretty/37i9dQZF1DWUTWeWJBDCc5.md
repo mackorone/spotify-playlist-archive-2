@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTWeWJBDCc5.md) - [plain]
 
 > 스포티파이 뮤직 에디터가 선정한 4월의 노래를 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,582 likes - 48 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,663 likes - 48 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTWeWJBDCc5.md) - [plain]
 | 27 | [miss u so](https://open.spotify.com/track/4esld7TA0IQqsdKhhL85dh) | [blueberryclub](https://open.spotify.com/artist/1dgj9mN2Tuy1gdPHn78gZC), [Nam Gijun](https://open.spotify.com/artist/11IQLhF0CLzk7l1KoQUpEn) | [miss u so](https://open.spotify.com/album/6ayvj3yPahHwnSEUom6PMg) | 3:35 |
 | 28 | [Forevermore](https://open.spotify.com/track/1TBF4AVAShgxVjfp2qIgYh) | [Yunsae](https://open.spotify.com/artist/7DLucR65sSvihkpKZcdymt) | [Forevermore](https://open.spotify.com/album/735wFCN8D5P3Wkf918S834) | 3:00 |
 | 29 | [somesomesome x3](https://open.spotify.com/track/0sRjlIRHdLcwdemxnUMjnR) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [6SEOUL](https://open.spotify.com/album/0YV6qvJTTXx7AYD2RSyMfh) | 2:18 |
-| 30 | [Keychain \- FROM THE FILM K\-POPS!](https://open.spotify.com/track/3Q3WZ7sJLoIZQKY7hWFyQu) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Keychain \(FROM THE FILM K\-POPS!\)](https://open.spotify.com/album/58x92u1JINTa5K7lTzfU02) | 2:50 |
+| 30 | [Keychain \- from Original Motion Picture Soundtrack K\-POPS!](https://open.spotify.com/track/3Q3WZ7sJLoIZQKY7hWFyQu) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Keychain \(from Original Motion Picture Soundtrack K\-POPS!\)](https://open.spotify.com/album/58x92u1JINTa5K7lTzfU02) | 2:50 |
 | 31 | [RUDE!](https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [RUDE!](https://open.spotify.com/album/3053E9tumiU5rqbAPWF06s) | 3:20 |
 | 32 | [All of me](https://open.spotify.com/track/0GPbxTKmIt498pYnWl5e31) | [gongwon](https://open.spotify.com/artist/7kX37KAwZZxvbsXSF1rtpJ) | [0](https://open.spotify.com/album/6Jc3IcnPpjAWFeYf19Bz7H) | 4:42 |
 | 33 | [BLACKHOLE](https://open.spotify.com/track/0ITUAjt6O8FIzGPHNQpvKu) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REVIVE+](https://open.spotify.com/album/3BSpzEq1p4bSWdvrEKtOcF) | 3:14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 
 > This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday 😎
 
-[Record Union](https://open.spotify.com/user/recordunion) - 2,598 likes - 10 songs - 41 min 51 sec
+[Record Union](https://open.spotify.com/user/recordunion) - 2,597 likes - 11 songs - 46 min 23 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,5 +18,6 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 | 8 | [Chez Moi](https://open.spotify.com/track/7mXwlFXewatoMrwTy6gIVY) | [Eva sur Seine](https://open.spotify.com/artist/0i67aNTXibb7XIqWuMCmHb) | [Chez Moi](https://open.spotify.com/album/1D4CNPATyNyTDnGrf3XtOH) | 2:08 |
 | 9 | [Karma](https://open.spotify.com/track/5M6hrQFri31qa73Y1xLIL2) | [Sara Gill](https://open.spotify.com/artist/6cvQdUJz7qvPGf7kQ3P4yz) | [Karma](https://open.spotify.com/album/3ZlkrbKtnVhL96Ux3Oz9CC) | 4:12 |
 | 10 | [weli](https://open.spotify.com/track/0KqKIo7jAZYsxbwZVoynQ7) | [Rachid Kasmi](https://open.spotify.com/artist/36wD11p3VIwHH25Glcn2ut), [Jamal Ahlam](https://open.spotify.com/artist/79JwIhnEBbdA1zX4dCmAKj) | [weli](https://open.spotify.com/album/4Hba4SwGI2Dl5V3VePHC9B) | 4:51 |
+| 11 | [The Medicine](https://open.spotify.com/track/2CI7CHHYeckwO4HeVl6eKP) | [Stuboi2000](https://open.spotify.com/artist/7Lg9bfZlIMygUkzDKZLx0G) | [The Medicine](https://open.spotify.com/album/31eRUigxIZmyhLRyCbi7dn) | 4:31 |
 
-Snapshot ID: `AAAFUFoutDgFVcF+bamTutU6TVT4CCMv`
+Snapshot ID: `AAAFUZEpnOXk+4u1K5iXx+CvkVJYH8J9`

@@ -1,12 +1,12 @@
 {
   "description": "This is Bruno Mars. The essential tracks, all in one playlist.",
-  "num_followers": 4293499,
+  "num_followers": 4294105,
   "original_name": "This Is Bruno Mars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adbsAAAAAAB7qd8/+7lLaQ5dMNQmEqhf",
+  "snapshot_id": "adg9gAAAAAADzgv5bPv0HVM6TM9VyCE0",
   "tracks": [
     {
       "added_at": null,
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 254360,
-      "name": "Why You Wanna Fight?",
-      "url": "https://open.spotify.com/track/3Ac4AjYkqsvop2ydbSAhTX"
+      "duration_ms": 236559,
+      "name": "Cha Cha Cha",
+      "url": "https://open.spotify.com/track/6QletrrmpkUpeJkipX9pgf"
     },
     {
       "added_at": null,
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 236559,
-      "name": "Cha Cha Cha",
-      "url": "https://open.spotify.com/track/6QletrrmpkUpeJkipX9pgf"
+      "duration_ms": 254360,
+      "name": "Why You Wanna Fight?",
+      "url": "https://open.spotify.com/track/3Ac4AjYkqsvop2ydbSAhTX"
     },
     {
       "added_at": null,

@@ -7155,6 +7155,28 @@
     },
     {
       "album": {
+        "name": "Det g\u00f6r s\u00e5 ont",
+        "url": "https://open.spotify.com/album/4OSwNvqp1QyONZIHWb1zV4"
+      },
+      "artists": [
+        {
+          "name": "Vince Wavy",
+          "url": "https://open.spotify.com/artist/1SqKGJizWclJMBj6HETaTW"
+        },
+        {
+          "name": "Melwin Wid",
+          "url": "https://open.spotify.com/artist/4NaHJb2Q1WaWdU4IIHKcdb"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153346,
+      "name": "Det g\u00f6r s\u00e5 ont",
+      "url": "https://open.spotify.com/track/6FyKG2Pw4JPYi7jJ7Hh5gC"
+    },
+    {
+      "album": {
         "name": "Det h\u00e4r ska dom f\u00e5 fa-an f\u00f6r (Fr\u00e5n filmen \"H\u00e5kan Br\u00e5kan 2\")",
         "url": "https://open.spotify.com/album/6kW6gQlPBa53JAczZVaU8O"
       },
@@ -14954,7 +14976,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-11",
+      "date_removed": null,
       "duration_ms": 167368,
       "name": "HELIGT VATTEN",
       "url": "https://open.spotify.com/track/6rZnvAe5JLqPOKd8unWTKc"
@@ -17934,7 +17956,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 221653,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/5OCuFqx1Y8KUdMcJjb5nqA"
@@ -27816,7 +27838,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 148000,
       "name": "pianoboy",
       "url": "https://open.spotify.com/track/7J4ZVJuGIKZDIEml0zl6x9"
@@ -28126,7 +28148,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 263286,
       "name": "Porcelain Heart",
       "url": "https://open.spotify.com/track/4ultq7i49iBq7EmnHXUnaZ"
@@ -39352,6 +39374,28 @@
       "duration_ms": 182000,
       "name": "V\u00e4ntat",
       "url": "https://open.spotify.com/track/6FlICUJXQ6JcBsdR7y9wuM"
+    },
+    {
+      "album": {
+        "name": "Stj\u00e4rnor & Fallna \u00c4nglar",
+        "url": "https://open.spotify.com/album/7syXsEpYHr1xl3jweajBid"
+      },
+      "artists": [
+        {
+          "name": "Ison & Fille",
+          "url": "https://open.spotify.com/artist/1fhvwCr1HKEZgZYOrfsHyk"
+        },
+        {
+          "name": "ANJI",
+          "url": "https://open.spotify.com/artist/0OTtMOIJs0iVMT8mpvtU25"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175989,
+      "name": "V\u00e4rlden \u00c4r Din (feat. Anji)",
+      "url": "https://open.spotify.com/track/5G45LEpKex2TYYr65AVK1n"
     },
     {
       "album": {

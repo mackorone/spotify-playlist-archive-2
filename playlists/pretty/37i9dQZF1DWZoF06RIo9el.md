@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 
 > Lo mejor de marzo 2026\. Cover: María Isabel
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,556,388 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,556,413 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 18 | [Y si peleamos](https://open.spotify.com/track/0JWgArA3FO5l0JQdi4d6O1) | [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Y si peleamos](https://open.spotify.com/album/1CpUVHEtxwsRB3KGiqnDVY) | 3:12 |
 | 19 | [Buenos Días](https://open.spotify.com/track/4mc8byHXW8rmZT5L5jwYG5) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Buenos Días](https://open.spotify.com/album/0VI9CUYMmXVlCGhHJ4bgN2) | 2:39 |
 | 20 | [Algo de mí](https://open.spotify.com/track/6ciwQPaKG7QERMMLrjznZE) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Algo de mí](https://open.spotify.com/album/7mUyUHgpceqFrbVqKnyoqm) | 3:01 |
-| 21 | [UuUuuU](https://open.spotify.com/track/2agO3LjMdwhgVrDt7bsBB6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy) | [MAN IN BLACK](https://open.spotify.com/album/6tSMLC7sCpo11PfrDJFCy3) | 3:11 |
-| 22 | [Te Extraño](https://open.spotify.com/track/4k0nstlu1ScPY6XoosWPZE) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [LA 8VA MARAVILLA](https://open.spotify.com/album/4ZMzNSoTgWgSfkBpJTCx9w) | 3:12 |
+| 21 | [Te Extraño](https://open.spotify.com/track/4k0nstlu1ScPY6XoosWPZE) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [LA 8VA MARAVILLA](https://open.spotify.com/album/4ZMzNSoTgWgSfkBpJTCx9w) | 3:12 |
+| 22 | [UuUuuU](https://open.spotify.com/track/2agO3LjMdwhgVrDt7bsBB6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy) | [MAN IN BLACK](https://open.spotify.com/album/6tSMLC7sCpo11PfrDJFCy3) | 3:11 |
 | 23 | [NEXO 01\. Me acuerdo de ti](https://open.spotify.com/track/4qmNeOovGFdhsiBgPKxlTQ) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [NEXO 01\. Me acuerdo de ti](https://open.spotify.com/album/10jwEmHOwVHYPFecFcUoGd) | 3:15 |
 | 24 | [barquito \- bonus track](https://open.spotify.com/track/2W7HbOnu7ivBFXGrcdcwDB) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [barquito \(bonus track\)](https://open.spotify.com/album/6vyb0NaK9u3StlgRlYxFuZ) | 3:24 |
 | 25 | [AAA](https://open.spotify.com/track/7LSZyRFY3SzFFocAGnyJXV) | [John Pollõn](https://open.spotify.com/artist/4fJie9zmEW6VmFoQKrx4Lh) | [AAA](https://open.spotify.com/album/3CM4KNAWHvvgAB83gydKOS) | 2:23 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 31 | [no me importa](https://open.spotify.com/track/6O4QnV6zuewfbBhVW4YghD) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [no me importa](https://open.spotify.com/album/3Tbq5jFyncpgjEiZeJH5mL) | 3:20 |
 | 32 | [el silencio](https://open.spotify.com/track/2I5Z0tMDcsJuYEcOnLZs5G) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [el silencio](https://open.spotify.com/album/7y8VSzFuSe0TXeX7nbKXnL) | 3:38 |
 | 33 | [ENCONTREMOS UNA MANERA](https://open.spotify.com/track/7vB1xkHbYIC6pLavmhMJjb) | [PARDOPARDO](https://open.spotify.com/artist/4jK6qJJ6s34BziEutGFMra) | [ENCONTREMOS UNA MANERA](https://open.spotify.com/album/6f1tNlGmy7U1rIn9Ye94RC) | 2:14 |
-| 34 | [brb](https://open.spotify.com/track/2S1rtk02tgZSX2zQhVdoYO) | [The Two Lips](https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50) | [brb](https://open.spotify.com/album/4gQyZYV5aQBUpgyOI1K7jl) | 2:36 |
-| 35 | [Una Vez Y Ya](https://open.spotify.com/track/6joFkH4jcJwW4QefTVphZD) | [RIA](https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt) | [Una Vez Y Ya](https://open.spotify.com/album/3H0L8xL0Ha6FhfycLHz5oR) | 2:34 |
+| 34 | [Una Vez Y Ya](https://open.spotify.com/track/6joFkH4jcJwW4QefTVphZD) | [RIA](https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt) | [Una Vez Y Ya](https://open.spotify.com/album/3H0L8xL0Ha6FhfycLHz5oR) | 2:34 |
+| 35 | [brb](https://open.spotify.com/track/2S1rtk02tgZSX2zQhVdoYO) | [The Two Lips](https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50) | [brb](https://open.spotify.com/album/4gQyZYV5aQBUpgyOI1K7jl) | 2:36 |
 | 36 | [BRRREAK!](https://open.spotify.com/track/5bW3kexDHYek62nlbRBi7c) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [BRRREAK!](https://open.spotify.com/album/5pSsnrYZIOxKiZdWLRLpa9) | 2:47 |
 | 37 | [Star](https://open.spotify.com/track/6ZzycZmHaFzfbIBl24BV3N) | [mori](https://open.spotify.com/artist/473Xxv1N3YJJdKxYH0XaiX), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [El Niño Bola](https://open.spotify.com/album/3Bo7xLuNrJhubah3xYLCqv) | 3:31 |
 | 38 | [Oídos Sordos](https://open.spotify.com/track/13NTcv9NSptJaE14Bpa17C) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Oídos Sordos](https://open.spotify.com/album/1q0EMeWp6yXKG5iYbolRE4) | 3:34 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 41 | [\(todo lo que haces para no acordarte de mi\)](https://open.spotify.com/track/1LSZR83twS1UYcydCYzx9E) | [nic](https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph) | [\(todo lo que haces para no acordarte de mi\)](https://open.spotify.com/album/5xVfYjfD6MMIg9xq9KLyvj) | 2:29 |
 | 42 | [UN PIKETON](https://open.spotify.com/track/7cF71NBxGJjBo6k7ssiiJu) | [Antony Z](https://open.spotify.com/artist/5lXkaxOaoMr8fpQFgYdGTc), [Toni Anzis](https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq) | [le f\*llen al miedo](https://open.spotify.com/album/6CtkaDBkGQ7KkRUCOddpNi) | 2:27 |
 | 43 | [oda](https://open.spotify.com/track/7FHFuoxWoO7Hx523AbDJW0) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Oda](https://open.spotify.com/album/4v7uRExuPK8lxPiooSjY1T) | 3:44 |
-| 44 | [monumento..](https://open.spotify.com/track/5gA6oCSFTWxQif7HXqMN2s) | [Broke Carrey](https://open.spotify.com/artist/6FWTqLIVK9jjMGcNJnF7xE), [Cocó](https://open.spotify.com/artist/7wO9ayWlYsOX16S5xa3EXi) | [monumento..](https://open.spotify.com/album/0K1DpRzofDbHqViJT3mnDl) | 2:50 |
-| 45 | [La Teoría](https://open.spotify.com/track/27E6Y2wX6kqo0JiZpBq5xa) | [Olivia Wald](https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0), [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [La Teoría](https://open.spotify.com/album/1mu6jH9g2iTjOLVrE51fpm) | 3:33 |
+| 44 | [La Teoría](https://open.spotify.com/track/27E6Y2wX6kqo0JiZpBq5xa) | [Olivia Wald](https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0), [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [La Teoría](https://open.spotify.com/album/1mu6jH9g2iTjOLVrE51fpm) | 3:33 |
+| 45 | [monumento..](https://open.spotify.com/track/5gA6oCSFTWxQif7HXqMN2s) | [Broke Carrey](https://open.spotify.com/artist/6FWTqLIVK9jjMGcNJnF7xE), [Cocó](https://open.spotify.com/artist/7wO9ayWlYsOX16S5xa3EXi) | [monumento..](https://open.spotify.com/album/0K1DpRzofDbHqViJT3mnDl) | 2:50 |
 | 46 | [BES4ME](https://open.spotify.com/track/4YoHssP1wgFxKIrgkAJRDD) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [BES4ME](https://open.spotify.com/album/2pDTIwOIb85dGC7Pj0RUay) | 2:33 |
 | 47 | [miau](https://open.spotify.com/track/2Z7EkSkuK9oAnTN7AyRwMq) | [Nina del Río](https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd) | [miau](https://open.spotify.com/album/6rJ72wMDmU2SMehEoVG7Ts) | 3:26 |
 | 48 | [otro día más](https://open.spotify.com/track/0MZNQzcqeGylshOBZxoKie) | [MAGNA](https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF) | [otro día más](https://open.spotify.com/album/471YuJRVMB6FkBZSQXlTeJ) | 2:31 |

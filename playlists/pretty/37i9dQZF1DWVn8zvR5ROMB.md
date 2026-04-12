@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > Country music's latest offerings featuring Marshmello with Thomas Rhett, Ella Langley, Warren  Zeiders and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,227 likes - 83 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,373 likes - 83 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 29 | [Fit For A King](https://open.spotify.com/track/7wgdR3gkbeFXzecak5MIUv) | [Hayden Coffman](https://open.spotify.com/artist/5p7Ph7LBiVb8cUCCSGq5aF) | [Fit For A King](https://open.spotify.com/album/4WbIcby7fPx4xaciGitRJb) | 3:05 |
 | 30 | [I Let the Devil In](https://open.spotify.com/track/0GxVpUTcg0sgpkWNIVKufx) | [CHASE WRIGHT](https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c) | [I Let the Devil In](https://open.spotify.com/album/3RzpwnernBZTKGVttcPqxF) | 3:11 |
 | 31 | [Truth Is](https://open.spotify.com/track/6pAC8vAqfXO1QJJGrd7NZg) | [Jordana Bryant](https://open.spotify.com/artist/69CLILkCLdR4JOoQieAFm2) | [Truth Is](https://open.spotify.com/album/0vQYcNhcPE4VkEDeDBGCwp) | 3:12 |
-| 32 | [STRANGE](https://open.spotify.com/track/7tWZuWDD6ddy3oxImHjF4l) | [Wade Forster](https://open.spotify.com/artist/4ZPuBr6MAXRpyQsQMfqVRK) | [STRANGE](https://open.spotify.com/album/6Eu72RHqQLK1ToCmBmhDAC) | 6:04 |
+| 32 | [Strange](https://open.spotify.com/track/7tWZuWDD6ddy3oxImHjF4l) | [Wade Forster](https://open.spotify.com/artist/4ZPuBr6MAXRpyQsQMfqVRK) | [Strange](https://open.spotify.com/album/6Eu72RHqQLK1ToCmBmhDAC) | 6:04 |
 | 33 | [House Arrest](https://open.spotify.com/track/6FUYEIbflNuRlTpm13ovz9) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [House Arrest](https://open.spotify.com/album/759H9XNbNFBtTdupfRSNB3) | 2:32 |
 | 34 | [Growing Up Too](https://open.spotify.com/track/0fRaYdIXzeOdaKarHxUzB0) | [Kelsey Lamb](https://open.spotify.com/artist/2eoYr2pnDgyoDe9GLhuBoo) | [Growing Up Too](https://open.spotify.com/album/4jxhsX01XAyMtHrdkVgmGQ) | 3:46 |
 | 35 | [Last Goodbye](https://open.spotify.com/track/3kVERF8i3Ox3HtvaBXUSNH) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Last Goodbye](https://open.spotify.com/album/5hToOmZtnG5LFeJmR6rvBS) | 3:24 |

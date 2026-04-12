@@ -4,7 +4,7 @@
 
 > Det beste av ny pop akkurat nå! 🍭<br/>Cover: Lykke Li
 
-504 songs - 1 day 2 hr 15 min
+506 songs - 1 day 2 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [99 Problemer](https://open.spotify.com/track/4GrN08TEmpFC93cOf0S4sE) | [Morgan Sulele](https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X) | [99 Problemer](https://open.spotify.com/album/4jv7JUXugDpAu0bHx89Q4n) | 2:32 | 2025-04-22 | 2025-05-16 |
 | [A COLD PLAY](https://open.spotify.com/track/4H5DcBcHSt6ReloheY37Yi) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [A COLD PLAY](https://open.spotify.com/album/3JMcOksjXIs6UV4olURFSS) | 2:59 | 2025-09-04 | 2025-09-19 |
 | [A Little Bit Sad](https://open.spotify.com/track/4Y74xfq9w0WZsTy7GuPnLV) | [Tolou](https://open.spotify.com/artist/6aJLBAuRRedmYQfUxXUByH) | [A Little Bit Sad](https://open.spotify.com/album/1bhI33k7QCalRM9uzPJ3p4) | 2:46 | 2024-11-01 | 2024-12-06 |
-| [A Little More](https://open.spotify.com/track/18FN1Kz7KMF0ujN6ID4ans) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [A Little More](https://open.spotify.com/album/0FFwoqf6fRZCxERyjIOI4X) | 3:12 | 2025-08-07 |  |
+| [A Little More](https://open.spotify.com/track/18FN1Kz7KMF0ujN6ID4ans) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [A Little More](https://open.spotify.com/album/0FFwoqf6fRZCxERyjIOI4X) | 3:12 | 2025-08-07 | 2026-04-12 |
 | [A Little Too Lost Sometimes](https://open.spotify.com/track/5T5sOXwBzka5WAdy6jahsV) | [RABO](https://open.spotify.com/artist/6bf8OgxXTVqU1OZIJmnBpf) | [A Little Too Lost Sometimes](https://open.spotify.com/album/1hgILChVJdx3d1s6CqUUnb) | 3:48 | 2025-10-09 | 2025-10-31 |
 | [A Night To Remember](https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Night To Remember](https://open.spotify.com/album/73wBVA41AulgjGiL3rBwfe) | 3:53 | 2024-07-04 | 2024-08-09 |
 | [Abba](https://open.spotify.com/track/5xaLNTIiiaNPZvNPGWNhAN) | [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [Abba](https://open.spotify.com/album/5Nb4zhPvV8PyrM035JybzM) | 3:52 | 2026-01-08 | 2026-03-05 |
@@ -59,6 +59,7 @@
 | [Blåögd](https://open.spotify.com/track/4JAjSsZO4DX0tWYjMjppdM) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Blåögd](https://open.spotify.com/album/1nxYAabZgRXCzGo14eBYWv) | 3:35 | 2025-09-18 | 2025-09-26 |
 | [Bored](https://open.spotify.com/track/2SPbioo65CuUB3H0aW1ID5) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched: The Goddess Edition](https://open.spotify.com/album/1hmlhl74JfLyUqmqtCwvFb) | 3:33 | 2024-06-27 | 2024-08-04 |
 | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/track/4CPuDVC8jhhK6lA2DIt8Cf) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/album/5ADTbFCyP8cFAu59i4idiC) | 3:51 | 2025-02-06 | 2025-11-28 |
+| [Bottom Of Your Boots](https://open.spotify.com/track/0hv6276QhpMDnVJIMxEWPH) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Dandelion](https://open.spotify.com/album/6nrtxtgaD9zSYBl9APvOCH) | 3:19 | 2026-04-09 |  |
 | [Boxes](https://open.spotify.com/track/2Rt8iphdrBbcknJg1GZ8Pe) | [Emma Jensen](https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS) | [Boxes](https://open.spotify.com/album/5UvxcC7flSaHQONo8GR3Nk) | 3:18 | 2025-01-23 | 2025-01-31 |
 | [BOY](https://open.spotify.com/track/07OqVLTu7tXELtgFX1jQvZ) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [BOY](https://open.spotify.com/album/4QeC0vQhMooQYZMiJizbpi) | 2:31 | 2024-09-05 | 2024-09-17 |
 | [BOY CRAZY.](https://open.spotify.com/track/5CiPDLxXmUG7Fk5yjlNy9n) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [BOY CRAZY.](https://open.spotify.com/album/5vbKk8Ki7HxcDUCYh5EUZc) | 2:28 | 2025-05-15 | 2025-07-11 |
@@ -99,7 +100,7 @@
 | [Demo](https://open.spotify.com/track/7M0fpWZdYVNQkg5nAurAlG) | [Randi Oline](https://open.spotify.com/artist/5O7vw7DOXDVSqVWWc8FpYV) | [Demo](https://open.spotify.com/album/5gAl4ca58g7eJk5FkP2HuA) | 2:30 | 2024-12-05 | 2025-01-03 |
 | [Den Jeg Vil For Deg](https://open.spotify.com/track/6buuay8KIO39oyykLOovoR) | [Pasha](https://open.spotify.com/artist/0elSJZFrHnayc7AUCkbWAl), [ayaga](https://open.spotify.com/artist/3lQGBiydiKJ5OyHp9BwpEO) | [Den Jeg Vil For Deg](https://open.spotify.com/album/6BfpfWSdctCqhvX7OMdzv5) | 3:03 | 2026-02-12 | 2026-02-20 |
 | [Den Jeg Vil Ha](https://open.spotify.com/track/7JYQQZAzLJA3ZwhdUfzWUM) | [KLIKK9](https://open.spotify.com/artist/23UykbvVp8sE5YTO1Y9003) | [Den Jeg Vil Ha](https://open.spotify.com/album/1wchO4jCyy507FPNMvVcfk) | 3:03 | 2025-11-27 | 2025-12-05 |
-| [DEPRESSED](https://open.spotify.com/track/1kO8TSZU0ORR4eJpirLPGW) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [DEPRESSED](https://open.spotify.com/album/4wdp5hBwGx9AgqUoiCCDUV) | 2:18 | 2025-09-25 |  |
+| [DEPRESSED](https://open.spotify.com/track/1kO8TSZU0ORR4eJpirLPGW) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [DEPRESSED](https://open.spotify.com/album/4wdp5hBwGx9AgqUoiCCDUV) | 2:18 | 2025-09-25 | 2026-04-12 |
 | [Der du brente vår bro \- Spotify Singles](https://open.spotify.com/track/3JJrV0alnSfJ6n9EtiqRk9) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM), [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Der du brente vår bro \- Spotify Singles](https://open.spotify.com/album/1HoKUWp7mHeJErg7rRWp5q) | 2:53 | 2026-03-05 | 2026-03-13 |
 | [DESPUÉS DE LA FERIA](https://open.spotify.com/track/0gi0UeiivFSkgrc8Bw7m4x) | [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL) | [05050](https://open.spotify.com/album/78Y7RCEFDKdDWfQ62prVwx) | 3:06 | 2025-09-04 | 2025-09-26 |
 | [Det får världen aldrig veta](https://open.spotify.com/track/5gvf3tnmRlEacNJ5XmaKJV) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Blåögd](https://open.spotify.com/album/1vfkutPs1Wd9ouKGAt0h3S) | 2:31 | 2025-10-16 | 2026-01-24 |
@@ -286,6 +287,7 @@
 | [Lys på mig](https://open.spotify.com/track/3kbNesyQPnUreP6bD7aADS) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Lys på mig](https://open.spotify.com/album/3WzL7EQg84unvvF8q3Cq5M) | 2:39 | 2025-06-26 | 2026-02-13 |
 | [Låt Mig Va](https://open.spotify.com/track/7MnietXFwPdKk3QhlxzgwR) | [Puls](https://open.spotify.com/artist/0SOZWHKbmT868SRjpyd6Wa), [FILIPPA](https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG) | [Låt Mig Va](https://open.spotify.com/album/7DuBr9drXCvHzsNoiyiw8s) | 2:52 | 2025-09-18 | 2025-09-26 |
 | [Mad](https://open.spotify.com/track/1uq1pf0UdjGmfbPqIpPg5K) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Mad](https://open.spotify.com/album/1jqgdLTganjzL121lxeusU) | 2:54 | 2025-06-26 | 2025-09-01 |
+| [Madwoman](https://open.spotify.com/track/0UqHzMvRQnaOXEPKgFVhxN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time: The Final Hour](https://open.spotify.com/album/4DWK6TLXHl1fly2zi5RlO7) | 3:59 | 2026-04-09 |  |
 | [Make You Mine](https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Make You Mine](https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC) | 3:41 | 2024-06-27 | 2024-11-02 |
 | [Mamma & Pappa](https://open.spotify.com/track/2bn2Cyw9D15R2pvZ6Z6q2D) | [William Gamborg](https://open.spotify.com/artist/4ODEL6BNYKlXrfMUsHMK5P) | [Mamma & Pappa](https://open.spotify.com/album/1fgYpghUw0LZf9B6r8A21g) | 2:50 | 2026-01-01 | 2026-02-06 |
 | [Man I Need](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Man I Need](https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a) | 3:04 | 2025-08-14 |  |

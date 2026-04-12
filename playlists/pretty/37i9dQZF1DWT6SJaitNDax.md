@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6SJaitNDax.md) - [plain]
 
 > Afro sounds crossing borders\. Cover: Adekunle Gold and Olamide
 
-[Spotify](https://open.spotify.com/user/spotify) - 773,476 likes - 112 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 773,614 likes - 112 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

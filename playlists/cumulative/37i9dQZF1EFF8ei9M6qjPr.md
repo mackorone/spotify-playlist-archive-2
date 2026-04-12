@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5Uk3LfCG3anf7ZT6TIJZgV">Jesse Fink</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-223 songs - 10 hr 31 min
+225 songs - 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Free](https://open.spotify.com/track/17IHogEwGpHjodPv7zUrUB) | [O.A.R.](https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI) | [The Mighty](https://open.spotify.com/album/6aaRaPwK2QDEIro5UcHMIO) | 3:29 | 2024-07-09 |  |
 | [FUCKBOI REJECTS](https://open.spotify.com/track/580TkL4a8bKLgVbsiSoEFQ) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [IF I DIED WOULD ANYONE CARE](https://open.spotify.com/album/0Ze8BkvkvoZ9VmiIM7s2hQ) | 2:07 | 2024-07-09 |  |
 | [gaslight](https://open.spotify.com/track/1w6EDue1Ze95AzYcjr8ED3) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [young forever](https://open.spotify.com/album/4uoeBpJ631QyWNHw9GqTEn) | 3:16 | 2024-07-09 |  |
+| [GASLIGHT](https://open.spotify.com/track/3v37i8GScxczqJSkepTr9z) | [WesGhost](https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ) | [GASLIGHT](https://open.spotify.com/album/1X7IpkBAiDZPQI2PuMIM39) | 2:10 | 2026-04-11 |  |
 | [Gasoline](https://open.spotify.com/track/3OmU1R6xEVCkuokKHtOfOl) | [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj) | [Gasoline](https://open.spotify.com/album/1uikojMAJzDy1x7eBj1AQ5) | 2:50 | 2024-07-09 |  |
 | [Ghost](https://open.spotify.com/track/12y97ZRl9zs5JjwSj5aEss) | [Rob Thomas](https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC) | [All Night Days](https://open.spotify.com/album/29X77czxu4Wi88sASWvKHi) | 2:45 | 2025-09-08 |  |
 | [Ghost Of Us](https://open.spotify.com/track/4Nxk4StgFRbgPXztvbYw2u) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [WILD CHILD](https://open.spotify.com/album/0BA7J5iUJHMnKrCga3m5pR) | 2:15 | 2024-10-03 |  |
@@ -90,6 +91,7 @@
 | [Go!](https://open.spotify.com/track/5RHXCRZwXTIt5uYdKmu9jk) | [Rence](https://open.spotify.com/artist/3VJTtTgub426X1NuzcyAOb) | [SINK OR SWIM](https://open.spotify.com/album/4Bdc1txexdBh1j5h17BVIs) | 2:08 | 2025-03-13 |  |
 | [Gold](https://open.spotify.com/track/2HGi7sW7mDKyTgQZ2SAXTk) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Gold \(Acoustic\)](https://open.spotify.com/album/2TOC7DKcekUzDh8UAzF4T2) | 2:44 | 2026-04-08 |  |
 | [Good Bad & Ugly](https://open.spotify.com/track/5lrIBgTRHWlQj2LZdUYIwA) | [JaeyBxrd](https://open.spotify.com/artist/4rBpyETZEnrBQB7Xc4oRfa) | [Good Bad & Ugly](https://open.spotify.com/album/4V8iHTf70CbUtPmPre6WJl) | 2:01 | 2024-09-05 |  |
+| [good to me](https://open.spotify.com/track/6DPYRPBrpf7jwfwxhcEX8j) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [girl music vol\. 1](https://open.spotify.com/album/5GUXKPrSqb6kdXQHKmKmHm) | 2:34 | 2026-04-11 |  |
 | [Grey Lines](https://open.spotify.com/track/1cyGXol3yjiLI6UXpkI1xk) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Grey Lines](https://open.spotify.com/album/60UeVI6qh6PRnTYf4uqtzj) | 2:48 | 2024-07-09 | 2024-08-03 |
 | [Grey Lines](https://open.spotify.com/track/31wd3JOLQpdDMkTAr1TkbM) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Grey Lines](https://open.spotify.com/album/4HnuaXBXjcgF6vHANPLMAc) | 2:48 | 2024-08-02 |  |
 | [growing pains](https://open.spotify.com/track/5DCla4SclRwZhGRlI9Gq4J) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rising](https://open.spotify.com/album/6moZ0XzoBW9Yg35w0y5GlN) | 2:42 | 2024-07-09 |  |

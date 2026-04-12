@@ -4,7 +4,7 @@
 
 > ¡A gastar la suela con lo mejor de la ranchera chilena! Foto: Grupo Zúmbale Primo, & Corazón Serrano.
 
-174 songs - 11 hr 34 min
+175 songs - 11 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,8 +43,9 @@
 | [Con Que Derecho](https://open.spotify.com/track/26iOxv7FyPSfYeV1beFg7j) | [Gran Sismo Tropikal](https://open.spotify.com/artist/2ukK9Jw0F1ZX9NZqx7r8Rs) | [Siempre Arriba](https://open.spotify.com/album/1ZyuRSvEjBg1lbS9tfTNNR) | 4:06 | 2023-03-03 | 2024-04-19 |
 | [Con Quien Te Olvido](https://open.spotify.com/track/2N9p8JgTiXJHJsqETbctXe) | [Los Potros Del Sur](https://open.spotify.com/artist/6zWLSfAWJ35c78VgLRs7EY) | [Hecho y Derecho](https://open.spotify.com/album/5ox4gVjB2vljDMSfKUFOK6) | 3:28 | 2023-03-03 | 2026-02-18 |
 | [Cómo Dejar de Amarte y Otros](https://open.spotify.com/track/53u3hNXGUNCYLjKnnC3Sji) | [Los Charros De Lumaco](https://open.spotify.com/artist/6diRAnbJMBmn4MXIS4IHYk) | [La Nueva Fiesta de los Charros](https://open.spotify.com/album/7KD3IwiAS6qxvq8O29PDHv) | 5:16 | 2023-03-03 | 2026-04-02 |
-| [Cómo Quisiera](https://open.spotify.com/track/1uNMTskDd2HBF5UOdV5cdY) | [Los Machos de la Cumbia](https://open.spotify.com/artist/31zOLg3uYZLDbtpA1JoQmH), [Toly Fu](https://open.spotify.com/artist/4jCc0YkArDVaVzswZyMtyH) | [Cómo Quisiera](https://open.spotify.com/album/1eHjkkwOksQhKl0HQc8jBL) | 3:50 | 2025-02-07 |  |
+| [Cómo Quisiera](https://open.spotify.com/track/1uNMTskDd2HBF5UOdV5cdY) | [Los Machos de la Cumbia](https://open.spotify.com/artist/31zOLg3uYZLDbtpA1JoQmH), [Toly Fu](https://open.spotify.com/artist/4jCc0YkArDVaVzswZyMtyH) | [Cómo Quisiera](https://open.spotify.com/album/1eHjkkwOksQhKl0HQc8jBL) | 3:50 | 2025-02-07 | 2026-04-12 |
 | [Dame Tu Pelo Niña](https://open.spotify.com/track/4ht12mGJ4B7wf7cJ4wmxuI) | [Los Charros de Luchito y Rafael](https://open.spotify.com/artist/35qSQ3Rr7VGXFyB8qimJUq), [René Inostroza](https://open.spotify.com/artist/6XV9G9NCLb6xx1FCxLddDG) | [Guarachas Rancheras](https://open.spotify.com/album/6nASV1w9xlItVsMV9QTSaI) | 3:08 | 2023-03-03 | 2026-01-15 |
+| [Dame una Respuesta](https://open.spotify.com/track/43IZE1ADlu0YHtYWDOHqsj) | [Los Infieles de Santa Barbara](https://open.spotify.com/artist/7sUHsT8c4m9Ji8ztrEGRhs) | [Dame una Respuesta](https://open.spotify.com/album/2kyt4HXFRO29nVujrMkl2B) | 3:43 | 2026-02-19 |  |
 | [De los Besos Que Te Di](https://open.spotify.com/track/4LUaS5jz52YHteRwv6HClW) | [Alexia Lillo](https://open.spotify.com/artist/0kCPdfcspHbuEplkmEGBgU) | [De los Besos Que Te Di](https://open.spotify.com/album/7C6m8Ksv2KePPs31KhrWpD) | 2:43 | 2025-08-01 |  |
 | [De Paisano a Paisano](https://open.spotify.com/track/7Efl38yKPpMdl5mxFTrvpE) | [Los Rancheros De Rio Maule](https://open.spotify.com/artist/6r90tCIVqGvSHLouiTUhQW) | [18 Exitos](https://open.spotify.com/album/0wYu6VATuQ9vuMvrZzXf2c) | 4:14 | 2023-03-03 | 2026-03-19 |
 | [De Paisano a Paisano / Mi Adolescencia a los 40 / Nadie \(Fiestas Patrias 2021\)](https://open.spotify.com/track/6EzlHIY7kPsF6X2JmzR8UV) | [Los Rancheros De Rio Maule](https://open.spotify.com/artist/6r90tCIVqGvSHLouiTUhQW) | [De Paisano a Paisano / Mi Adolescencia a los 40 / Nadie \(Fiestas Patrias 2021\)](https://open.spotify.com/album/3mbYBkz6udI9fjkOMCJwAj) | 12:32 | 2023-10-05 | 2025-06-25 |

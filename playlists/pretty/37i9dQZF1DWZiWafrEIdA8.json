@@ -1,6 +1,6 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \uac10\uc131\uc744 \ub354\ud574\uc8fc\ub294 \uac00\uc0ac\uc640 \ube44\ud2b8\ub97c \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 14375,
+  "num_followers": 14386,
   "original_name": "\uac10\uc131\ud799\ud569",
   "owner": {
     "name": "Spotify",
@@ -847,6 +847,22 @@
     {
       "added_at": "2026-04-01 10:58:09",
       "album": {
+        "name": "[Hwa Sa Show Vol.1] just talking to myself",
+        "url": "https://open.spotify.com/album/2ewNXQbBgZuETosKZ3RTim"
+      },
+      "artists": [
+        {
+          "name": "HWASA",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+        }
+      ],
+      "duration_ms": 169386,
+      "name": "just talking to myself",
+      "url": "https://open.spotify.com/track/0VjP1Lm6NkbsF5Icvu5rY5"
+    },
+    {
+      "added_at": "2026-04-01 10:58:09",
+      "album": {
         "name": "RE:UP",
         "url": "https://open.spotify.com/album/7eLDu8gX4OteyGpDLvM99h"
       },
@@ -867,22 +883,6 @@
     {
       "added_at": "2026-04-01 10:58:09",
       "album": {
-        "name": "[Hwa Sa Show Vol.1] just talking to myself",
-        "url": "https://open.spotify.com/album/2ewNXQbBgZuETosKZ3RTim"
-      },
-      "artists": [
-        {
-          "name": "HWASA",
-          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
-        }
-      ],
-      "duration_ms": 169386,
-      "name": "just talking to myself",
-      "url": "https://open.spotify.com/track/0VjP1Lm6NkbsF5Icvu5rY5"
-    },
-    {
-      "added_at": "2026-04-01 10:58:09",
-      "album": {
         "name": "Fragile",
         "url": "https://open.spotify.com/album/0sb0tegIC42FpaodGVDVNe"
       },
@@ -892,8 +892,8 @@
           "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
         },
         {
-          "name": "\ucfe0\uae30 (Coogie)",
-          "url": "https://open.spotify.com/artist/5Wz7bYvDiqOfcQnE66pGBB"
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
         }
       ],
       "duration_ms": 168640,

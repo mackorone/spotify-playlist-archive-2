@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7zjIlRz0yNsZwtpV07KLBI">RuthAnne Cunningham</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 877 likes - 140 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 878 likes - 140 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 | 50 | [On And On](https://open.spotify.com/track/65j4tmIraduYx8J0AqlQ0A) | [Thirdstory](https://open.spotify.com/artist/7GJbWH8vhhuW22707B8HsW) | [Cold Heart](https://open.spotify.com/album/3UJW1p1qiGScFrGKLwBptB) | 4:49 |
 | 51 | [I Still Believe \- Purple Disco Machine Remix](https://open.spotify.com/track/40uD8YIrDmTuFFPNYp3ovN) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [I Still Believe \(Purple Disco Machine Remix\)](https://open.spotify.com/album/4vRTaNLGafRDnsuQfyetJY) | 3:39 |
 | 52 | [Proud](https://open.spotify.com/track/2P6pcE74d5TMQLy4fn6TqD) | [Lea Michele](https://open.spotify.com/artist/16rJDrSGCHMXjPUuKwQcvp) | [Places](https://open.spotify.com/album/7k39NBjViaNw8dpzNpiXwA) | 3:00 |
-| 53 | [Stronger](https://open.spotify.com/track/40IYwvYNbAtCpVIGFTAVBi) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO), [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [Glorious](https://open.spotify.com/album/3M9tDLu83Y8XlcicBUF3sL) | 4:11 |
-| 54 | [Feel The Same](https://open.spotify.com/track/5g9zQM8xjmZRHbGbrm0fdU) | [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km), [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Feel The Same \(feat\. RuthAnne\)](https://open.spotify.com/album/1BvIg5jWpKM73SY0YQYieB) | 2:50 |
+| 53 | [Feel The Same](https://open.spotify.com/track/5g9zQM8xjmZRHbGbrm0fdU) | [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km), [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Feel The Same \(feat\. RuthAnne\)](https://open.spotify.com/album/1BvIg5jWpKM73SY0YQYieB) | 2:50 |
+| 54 | [Stronger](https://open.spotify.com/track/40IYwvYNbAtCpVIGFTAVBi) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO), [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [Glorious](https://open.spotify.com/album/3M9tDLu83Y8XlcicBUF3sL) | 4:11 |
 | 55 | [She Do](https://open.spotify.com/track/7cJWV4gJVR78HFLvosMhcb) | [In Real Life](https://open.spotify.com/artist/09fEeGYqb3MUeV1c9BJgDI) | [She Do](https://open.spotify.com/album/7KnSdU7mu0fvU1M4gl8Ct7) | 3:20 |
 | 56 | [Give Me Something](https://open.spotify.com/track/2gfUIB27jMLK2w0xMRdemZ) | [Alex & Sierra](https://open.spotify.com/artist/58MLl9nC29IXbE4nEtuoP2) | [It's About Us](https://open.spotify.com/album/3Yk19X5zgXDSrG8uqrPnXC) | 3:12 |
 | 57 | [Crown \(feat\. Jamila Velazquez, Raquel Castro & Yani Marin\)](https://open.spotify.com/track/76QiAAm2W1uyCmjgX8Hrrk) | [Empire Cast](https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA), [Jamila Velazquez](https://open.spotify.com/artist/0DNer7EBpWOFyAGuxmF9GN), [Raquel Castro](https://open.spotify.com/artist/1FOw6qIycSqShZV57QtDIX), [Yani Marin](https://open.spotify.com/artist/6eMmKtGbT9oHRnDMDzPlu3) | [Crown \(feat\. Jamila Velazquez, Raquel Castro & Yani Marin\)](https://open.spotify.com/album/1dsVjZhOY20EkB0AfJY8E8) | 3:11 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 | 62 | [You're Not Alone](https://open.spotify.com/track/5myFOTh0KEzMRakY9aYjBn) | [The Mowgli's](https://open.spotify.com/artist/6AGUQK1EWK6nvN4pLIDQDQ) | [Kids In Love](https://open.spotify.com/album/4M2p2BIRHIeBu8Ew9IBQ0s) | 3:21 |
 | 63 | [It Is What It Is](https://open.spotify.com/track/0qToG4c9TPophAYK9MaZMA) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 3:18 |
 | 64 | [All We Ever Wanted](https://open.spotify.com/track/7ekvWq3OCA6avtuSOnc2c1) | [Hey Violet](https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am) | [From The Outside](https://open.spotify.com/album/6ZZbMKUghvClcRLF5pZT6Y) | 2:44 |
-| 65 | [All for You](https://open.spotify.com/track/40tXx7A9uzWXFB3fOAmlYH) | [Alex & Sierra](https://open.spotify.com/artist/58MLl9nC29IXbE4nEtuoP2) | [It's About Us](https://open.spotify.com/album/3Yk19X5zgXDSrG8uqrPnXC) | 3:11 |
-| 66 | [Runaway Train \(feat\. RuthAnne\)](https://open.spotify.com/track/6wE4dMcWmaEvDcQGGjYHZc) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Runaway Train \(feat\. RuthAnne\)](https://open.spotify.com/album/4coGBdg0K0f6SSttAa4OXI) | 2:16 |
+| 65 | [Runaway Train \(feat\. RuthAnne\)](https://open.spotify.com/track/6wE4dMcWmaEvDcQGGjYHZc) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Runaway Train \(feat\. RuthAnne\)](https://open.spotify.com/album/4coGBdg0K0f6SSttAa4OXI) | 2:16 |
+| 66 | [All for You](https://open.spotify.com/track/40tXx7A9uzWXFB3fOAmlYH) | [Alex & Sierra](https://open.spotify.com/artist/58MLl9nC29IXbE4nEtuoP2) | [It's About Us](https://open.spotify.com/album/3Yk19X5zgXDSrG8uqrPnXC) | 3:11 |
 | 67 | [Move Me](https://open.spotify.com/track/3iLlxpfcB1sv6VpKaGoRkn) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 2:58 |
 | 68 | [Freedom](https://open.spotify.com/track/1Y7PcAoFbvlTWGX75kzyf5) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Elijah Blake](https://open.spotify.com/artist/65OtBLtkrifQrdTlKI90IR) | [Jesus Piece \(Deluxe\)](https://open.spotify.com/album/5IBNSiR9VYaGIxOfcOJ2LB) | 5:46 |
 | 69 | [Look What We've Become](https://open.spotify.com/track/033XHRodS00XmHxTuVlHNt) | [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Midnight](https://open.spotify.com/album/6vH6hPl0Woh6Cp1EUbpYq7) | 3:11 |
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 | 139 | [Waiting Room](https://open.spotify.com/track/6WIjcI93x7ai2wHjIYbvkH) | [Sasha Lee](https://open.spotify.com/artist/3dT9AnyUKXdrXCzGsJjx7H) | [Sasha\-Lee](https://open.spotify.com/album/7jzpZmpkbzHMRB3YCTlYfC) | 3:31 |
 | 140 | [New World](https://open.spotify.com/track/3FDGiAjvt2DgrW59SPzz1C) | [Ruth\-Anne](https://open.spotify.com/artist/4LnlxzBp14IU8sJ0dmC9Au) | [New World](https://open.spotify.com/album/5XiSwbh3jsRJvGz8qRjch4) | 3:08 |
 
-Snapshot ID: `AcOg/gAAAABZCdwrhGOFoYPjdJTw6KJg`
+Snapshot ID: `AcOmngAAAAChsgADiwdOj4avVYyg4dQT`

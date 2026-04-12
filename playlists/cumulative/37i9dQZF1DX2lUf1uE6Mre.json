@@ -129,6 +129,28 @@
     },
     {
       "album": {
+        "name": "4LAP",
+        "url": "https://open.spotify.com/album/70wVZEB9vmrSVAQg450J5V"
+      },
+      "artists": [
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        },
+        {
+          "name": "Aymen",
+          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141934,
+      "name": "304",
+      "url": "https://open.spotify.com/track/2qxKLomkyezYTpbohE2atr"
+    },
+    {
+      "album": {
         "name": "21 Gramm",
         "url": "https://open.spotify.com/album/0xRRqJIhWIU0WASStddsWK"
       },
@@ -2646,7 +2668,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 113707,
       "name": "DON JULIO",
       "url": "https://open.spotify.com/track/6COPeJMS0eoG89hpIqeAKZ"
@@ -2730,7 +2752,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 140138,
       "name": "drop body",
       "url": "https://open.spotify.com/track/3rVlMJrODgRKxoELRjgh4i"
@@ -2996,6 +3018,24 @@
       "duration_ms": 161883,
       "name": "Ekipa",
       "url": "https://open.spotify.com/track/7K4sgsFvhwPpgEHE54li5Z"
+    },
+    {
+      "album": {
+        "name": "EL FENOMENO",
+        "url": "https://open.spotify.com/album/6dHMK4DSSmI349lUPXUKkp"
+      },
+      "artists": [
+        {
+          "name": "Summer Cem",
+          "url": "https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113000,
+      "name": "EL FENOMENO",
+      "url": "https://open.spotify.com/track/3GT4AolmOnwDbK3LL57ZXM"
     },
     {
       "album": {
@@ -5374,7 +5414,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 108569,
       "name": "MAYBACH TRUCK",
       "url": "https://open.spotify.com/track/3i9job2A83v6yQ0zQEkZQT"
@@ -6169,6 +6209,28 @@
     },
     {
       "album": {
+        "name": "Nonstop",
+        "url": "https://open.spotify.com/album/74GrasHWig0q5L1RP1osVu"
+      },
+      "artists": [
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        },
+        {
+          "name": "Azet",
+          "url": "https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151346,
+      "name": "Nonstop",
+      "url": "https://open.spotify.com/track/72mTkKFJYy497k5cJhqVwi"
+    },
+    {
+      "album": {
         "name": "Normal",
         "url": "https://open.spotify.com/album/2qwtH3Q4KzAKoCxwX9fgml"
       },
@@ -6246,7 +6308,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 206053,
       "name": "NuR Du :/",
       "url": "https://open.spotify.com/track/3DYJ9tHSIhZqCVT8l5QAd0"
@@ -7660,7 +7722,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 150612,
       "name": "SO FRESH SO CLEAN",
       "url": "https://open.spotify.com/track/3l4Z4P6YWerBZ4uBammxdW"
@@ -8867,6 +8929,28 @@
     },
     {
       "album": {
+        "name": "Viele Jahre",
+        "url": "https://open.spotify.com/album/1FcZdkkqn7vHjL677FBdNF"
+      },
+      "artists": [
+        {
+          "name": "SIL3A",
+          "url": "https://open.spotify.com/artist/1dEhRvKJYEXBg55HN7MD4U"
+        },
+        {
+          "name": "Nimo",
+          "url": "https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Viele Jahre",
+      "url": "https://open.spotify.com/track/48Cj8m9K8c4qOmbsSqklf5"
+    },
+    {
+      "album": {
         "name": "viertel nach acht",
         "url": "https://open.spotify.com/album/4X0iEzLkRkVcAa4oAehzdY"
       },
@@ -9726,6 +9810,28 @@
       "duration_ms": 166015,
       "name": "Zeit ist Geld",
       "url": "https://open.spotify.com/track/6A8yt5nUqOyBMWpnfxF1kP"
+    },
+    {
+      "album": {
+        "name": "ZEITPUNKT",
+        "url": "https://open.spotify.com/album/4m3nfq2fuj6SThSCnVHE6D"
+      },
+      "artists": [
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        },
+        {
+          "name": "Kontra K",
+          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181624,
+      "name": "ZEITPUNKT",
+      "url": "https://open.spotify.com/track/16tQle4JK4LshKFOvOyV7w"
     },
     {
       "album": {

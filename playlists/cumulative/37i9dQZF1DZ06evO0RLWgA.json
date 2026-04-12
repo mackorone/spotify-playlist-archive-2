@@ -2045,6 +2045,24 @@
     },
     {
       "album": {
+        "name": "Roll and Tumble",
+        "url": "https://open.spotify.com/album/2V14jhiANSAAxNFmEu1MdN"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "date_added": "2026-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307035,
+      "name": "Roll and Tumble",
+      "url": "https://open.spotify.com/track/1iyysG7r8IyL7oKEnnNxKC"
+    },
+    {
+      "album": {
         "name": "LIVE IN HOUSTON 1979",
         "url": "https://open.spotify.com/album/2KlhM7Pl2zOOW6v07qBG87"
       },
@@ -2640,7 +2658,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 3250760,
       "name": "The Wanderings of The Avener - Continuous Mix",
       "url": "https://open.spotify.com/track/5FH2dK89RFAs293DDuV31z"

@@ -4,7 +4,7 @@
 
 > 🎧 hit play, lock in, get stuff done 📚
 
-2,491 songs - 3 day 22 hr 49 min
+2,492 songs - 3 day 22 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -485,6 +485,7 @@
 | [Costa Calma](https://open.spotify.com/track/24NZxpbfzt63NTDghVS43j) | [Rudy Raw](https://open.spotify.com/artist/4ZITuhWAaVoUTge2JwIton) | [Costa Calma](https://open.spotify.com/album/2J4NHehoXZvV1fgPNFnL7H) | 2:20 | 2022-05-27 | 2022-11-12 |
 | [Couch Surfin](https://open.spotify.com/track/7cdtk7HnMhII62dQiNURWU) | [Shayla Sereno](https://open.spotify.com/artist/0d2oMUkzD4I5It0MFXNVpb) | [Couch Surfin](https://open.spotify.com/album/04TMjkWAztNDmVSgqSh7no) | 1:55 | 2024-12-20 | 2025-02-01 |
 | [Couch Vibes](https://open.spotify.com/track/2xJKFoxhnWsG2vPxqZJxFL) | [Tune in with Chewie](https://open.spotify.com/artist/4M4gexhCyv12RmbowD8xjS) | [Couch Vibes](https://open.spotify.com/album/2ybbG29HdBzYcwnzcf6xP5) | 2:34 | 2024-03-01 | 2024-07-27 |
+| [Counting Days](https://open.spotify.com/track/2dedcVP2EesbH8acWU8jh5) | [Fremantle Doctor](https://open.spotify.com/artist/4Y5gklmu7DtgKiCKuPDgBX) | [Counting Days](https://open.spotify.com/album/3pzkNYFXp9WWzJsphSspyI) | 2:20 | 2026-04-10 |  |
 | [Court Mix](https://open.spotify.com/track/57etJd3yibZ0b7F7igfNKz) | [Kartel of Sound](https://open.spotify.com/artist/1aaKuoHFyzRHeLh7nflK1R) | [Court Mix](https://open.spotify.com/album/1FKVxpuffdBOe2vzCpTGO0) | 1:39 | 2022-11-11 | 2024-07-18 |
 | [Cozy Pillow Whispers](https://open.spotify.com/track/5e6u0cpQHk9JOGsolbcgpQ) | [Mr Sleep](https://open.spotify.com/artist/6VtqApngKv3UlCnSneWdyD) | [Cozy Pillow Whispers](https://open.spotify.com/album/1XcsHA50vlwJaKpSXLnOoz) | 2:04 | 2024-01-12 | 2025-04-26 |
 | [Cranes in the Sky](https://open.spotify.com/track/11KGqg5uJUr72i3MFdcoHb) | [ARISU](https://open.spotify.com/artist/2jqODWgHJI8JDjZOyf7Xy4) | [Cranes in the Sky](https://open.spotify.com/album/3E1mgYaAAxnWuQDD4dnrGu) | 2:12 | 2024-07-19 | 2025-11-26 |
@@ -2384,7 +2385,7 @@
 | [wall colors.](https://open.spotify.com/track/3NcBc9qshhcySWH721OHWR) | [vibesment](https://open.spotify.com/artist/6UWqTGxMm01khzGeZlOimx) | [wall colors.](https://open.spotify.com/album/1x9txLbApbNCcc0Lx6F6GH) | 2:22 | 2022-04-15 | 2023-03-02 |
 | [Wallflower](https://open.spotify.com/track/55A4cz4xvBtybJAguBzBSJ) | [< b a r u b e a t >](https://open.spotify.com/artist/7HCQbPZSE554rp75XWBWGL) | [Wallflower](https://open.spotify.com/album/2QROOCX5ImLrU3hpeHXzTG) | 2:28 | 2025-04-11 |  |
 | [Waltz of the Ancients](https://open.spotify.com/track/0v54Uruqd5UyzfifVVaHUK) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Runa](https://open.spotify.com/album/59m5jt7eZk4og1QhHT4YHf) | 2:03 | 2024-02-02 | 2025-07-18 |
-| [Wandering Youth](https://open.spotify.com/track/0DZgVl0tbe7CE4gOkBylBl) | [Takatsugu Wakabayashi](https://open.spotify.com/artist/716mtoleH0e8XKIzcEmVQ4) | [Wandering Youth](https://open.spotify.com/album/4iErkJn4xMgyUIogvZ1snA) | 2:26 | 2025-09-18 |  |
+| [Wandering Youth](https://open.spotify.com/track/0DZgVl0tbe7CE4gOkBylBl) | [Takatsugu Wakabayashi](https://open.spotify.com/artist/716mtoleH0e8XKIzcEmVQ4) | [Wandering Youth](https://open.spotify.com/album/4iErkJn4xMgyUIogvZ1snA) | 2:26 | 2025-09-18 | 2026-04-12 |
 | [wanderlust](https://open.spotify.com/track/3H4uTtG1wEOaEgMt5TuTim) | [flamingo zamperoni](https://open.spotify.com/artist/3ru7BkhVCEo3lsGNLHzhtz) | [wanderlust](https://open.spotify.com/album/0Nf2gi4zB4TQ4PZme0xgZo) | 2:09 | 2023-06-06 | 2023-10-06 |
 | [warm & orange](https://open.spotify.com/track/6wXSZsRZ1vxooWZ4W9yWHG) | [AUIIRA](https://open.spotify.com/artist/3qmmaE4hDMkylgYQC5VrKU) | [warm & orange](https://open.spotify.com/album/4jvL1JGNrNs90TPPvE6iXW) | 3:06 | 2023-01-20 | 2026-01-24 |
 | [Warm Breeze](https://open.spotify.com/track/39Sa33g3e6ILORXGjjQ6y0) | [gsky.](https://open.spotify.com/artist/2eOqRtl9EiC51P6KiUtIV3) | [Warm Breeze](https://open.spotify.com/album/2QmF2hYspOaGflrbUNKi7u) | 2:01 | 2022-04-15 | 2022-08-12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 
 > La nueva ola de trovadores del siglo XXI\. En portada: Sofía Comas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,485 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,499 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 | 99 | [verte mejor](https://open.spotify.com/track/4NGoMoDYIe5133L7QQrbyu) | [Josearmen](https://open.spotify.com/artist/2RB7pU0xCVApiluKSjpwyf) | [verte mejor](https://open.spotify.com/album/5T29CRzNVmjgQWkvDJcJQx) | 2:26 |
 | 100 | [Como tú sabes](https://open.spotify.com/track/4CjWMGkPtEiJH4Di6tYvnt) | [Sara Sístole](https://open.spotify.com/artist/5IITtWpOwYWgCQOC5saIg8) | [Como tú sabes](https://open.spotify.com/album/1obNE5gPs9o2R59jbo976H) | 2:27 |
 
-Snapshot ID: `AAAAAIeSJm3M75oZK5qI4AEcWOnBq/ov`
+Snapshot ID: `AAAAAGyYLgDJdODEZRr9frZSfh9Wly/f`

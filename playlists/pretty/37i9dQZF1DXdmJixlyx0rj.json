@@ -1,6 +1,6 @@
 {
   "description": "New & best K-Electronic music is here. (Cover: Kimmy gone)",
-  "num_followers": 35992,
+  "num_followers": 36004,
   "original_name": "Electronii[K]",
   "owner": {
     "name": "Spotify",
@@ -607,26 +607,6 @@
     {
       "added_at": "2026-04-01 11:05:43",
       "album": {
-        "name": "Formula of Love: O+T=<3",
-        "url": "https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 208780,
-      "name": "SCIENTIST (R3HAB Remix)",
-      "url": "https://open.spotify.com/track/3uazfRfe8P0L6j82EnHjOW"
-    },
-    {
-      "added_at": "2026-04-01 11:05:43",
-      "album": {
         "name": "NO DRUGS",
         "url": "https://open.spotify.com/album/3UTPtWpVQ8d2IEBNOLQN0M"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 146293,
       "name": "DRIFT",
       "url": "https://open.spotify.com/track/0e5xZ1b1Ol2sSSvDvihh9U"
+    },
+    {
+      "added_at": "2026-04-01 11:05:43",
+      "album": {
+        "name": "Formula of Love: O+T=<3",
+        "url": "https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 208780,
+      "name": "SCIENTIST (R3HAB Remix)",
+      "url": "https://open.spotify.com/track/3uazfRfe8P0L6j82EnHjOW"
     },
     {
       "added_at": "2026-04-01 11:05:43",
@@ -1211,42 +1211,22 @@
     {
       "added_at": "2026-04-01 11:05:43",
       "album": {
-        "name": "SPAZ",
-        "url": "https://open.spotify.com/album/0SSbN0KyO3qtoA4OgoQPmT"
+        "name": "Back for More (More Edition)",
+        "url": "https://open.spotify.com/album/3InBiuGXecuwXqG81YrB1E"
       },
       "artists": [
         {
-          "name": "Kimmy gone",
-          "url": "https://open.spotify.com/artist/7fy9KcCR883R5ryS8IoGXB"
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
         },
         {
-          "name": "Kid Milli",
-          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         }
       ],
-      "duration_ms": 169506,
-      "name": "Bassister (Feat. Kid Milli)",
-      "url": "https://open.spotify.com/track/6fprDkNvBbqjFYsSQ9cbCS"
-    },
-    {
-      "added_at": "2026-04-01 11:05:43",
-      "album": {
-        "name": "wo ai ni / break it even",
-        "url": "https://open.spotify.com/album/1Had0ltWJoM2L8xBPjLMK6"
-      },
-      "artists": [
-        {
-          "name": "Balming Tiger",
-          "url": "https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1"
-        },
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 211525,
-      "name": "wo ai ni",
-      "url": "https://open.spotify.com/track/5FJtLMs3dkq0K28v69lbRb"
+      "duration_ms": 139419,
+      "name": "Back for More (with Anitta) (House Remix)",
+      "url": "https://open.spotify.com/track/7KK7A6niqD66y0duJ6iupC"
     },
     {
       "added_at": "2026-04-01 11:05:43",
@@ -1267,6 +1247,26 @@
       "duration_ms": 310952,
       "name": "Re: searchlight",
       "url": "https://open.spotify.com/track/7u7mFTVWBbWcAc3NQzOmgq"
+    },
+    {
+      "added_at": "2026-04-01 11:05:43",
+      "album": {
+        "name": "SPAZ",
+        "url": "https://open.spotify.com/album/0SSbN0KyO3qtoA4OgoQPmT"
+      },
+      "artists": [
+        {
+          "name": "Kimmy gone",
+          "url": "https://open.spotify.com/artist/7fy9KcCR883R5ryS8IoGXB"
+        },
+        {
+          "name": "Kid Milli",
+          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
+        }
+      ],
+      "duration_ms": 169506,
+      "name": "Bassister (Feat. Kid Milli)",
+      "url": "https://open.spotify.com/track/6fprDkNvBbqjFYsSQ9cbCS"
     },
     {
       "added_at": "2026-04-01 11:05:43",
@@ -1307,22 +1307,22 @@
     {
       "added_at": "2026-04-01 11:05:43",
       "album": {
-        "name": "Back for More (More Edition)",
-        "url": "https://open.spotify.com/album/3InBiuGXecuwXqG81YrB1E"
+        "name": "wo ai ni / break it even",
+        "url": "https://open.spotify.com/album/1Had0ltWJoM2L8xBPjLMK6"
       },
       "artists": [
         {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+          "name": "Balming Tiger",
+          "url": "https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1"
         },
         {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
         }
       ],
-      "duration_ms": 139419,
-      "name": "Back for More (with Anitta) (House Remix)",
-      "url": "https://open.spotify.com/track/7KK7A6niqD66y0duJ6iupC"
+      "duration_ms": 211525,
+      "name": "wo ai ni",
+      "url": "https://open.spotify.com/track/5FJtLMs3dkq0K28v69lbRb"
     },
     {
       "added_at": "2026-04-01 11:05:43",
@@ -1735,22 +1735,22 @@
     {
       "added_at": "2026-04-01 11:05:43",
       "album": {
-        "name": "Breakthrough",
-        "url": "https://open.spotify.com/album/7dU0vceNngXWT2XZUU4y9W"
+        "name": "iScreaM Vol.12 : Bad Boy Remixes",
+        "url": "https://open.spotify.com/album/46q4DrAttifm5PnrAtYqp2"
       },
       "artists": [
         {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
         },
         {
-          "name": "taalthechoi",
-          "url": "https://open.spotify.com/artist/0Wz3NC2nQgeV1titlYTj4C"
+          "name": "nomad",
+          "url": "https://open.spotify.com/artist/2xPc9Yvp2U0uUYxZdvFLOz"
         }
       ],
-      "duration_ms": 202586,
-      "name": "Breakthrough - taalthechoi Remix",
-      "url": "https://open.spotify.com/track/2qM9XN5Wm4qqfjdfTGEK0Y"
+      "duration_ms": 211845,
+      "name": "Bad Boy - nomad Remix",
+      "url": "https://open.spotify.com/track/49FchQE6EsiDYK9Ls0YtiN"
     },
     {
       "added_at": "2026-04-01 11:05:43",
@@ -1775,26 +1775,6 @@
     {
       "added_at": "2026-04-01 11:05:43",
       "album": {
-        "name": "iScreaM Vol.12 : Bad Boy Remixes",
-        "url": "https://open.spotify.com/album/46q4DrAttifm5PnrAtYqp2"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        },
-        {
-          "name": "nomad",
-          "url": "https://open.spotify.com/artist/2xPc9Yvp2U0uUYxZdvFLOz"
-        }
-      ],
-      "duration_ms": 211845,
-      "name": "Bad Boy - nomad Remix",
-      "url": "https://open.spotify.com/track/49FchQE6EsiDYK9Ls0YtiN"
-    },
-    {
-      "added_at": "2026-04-01 11:05:43",
-      "album": {
         "name": "LOTTO - The 3rd Album Repackage",
         "url": "https://open.spotify.com/album/4e75ohAqqgV3zgLn8qMxki"
       },
@@ -1807,6 +1787,26 @@
       "duration_ms": 245189,
       "name": "Monster - LDN Noise Creeper Bass Remix",
       "url": "https://open.spotify.com/track/1U1wrOyV4SotwDmFxKXqpN"
+    },
+    {
+      "added_at": "2026-04-01 11:05:43",
+      "album": {
+        "name": "Breakthrough",
+        "url": "https://open.spotify.com/album/7dU0vceNngXWT2XZUU4y9W"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        },
+        {
+          "name": "taalthechoi",
+          "url": "https://open.spotify.com/artist/0Wz3NC2nQgeV1titlYTj4C"
+        }
+      ],
+      "duration_ms": 202586,
+      "name": "Breakthrough - taalthechoi Remix",
+      "url": "https://open.spotify.com/track/2qM9XN5Wm4qqfjdfTGEK0Y"
     },
     {
       "added_at": "2026-04-01 11:05:43",
@@ -1851,26 +1851,6 @@
     {
       "added_at": "2026-04-01 11:05:43",
       "album": {
-        "name": "SET ME FREE (Remixes)",
-        "url": "https://open.spotify.com/album/6lEtnxGk1CMv0ZbhI6i0eD"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        },
-        {
-          "name": "Lindgren",
-          "url": "https://open.spotify.com/artist/0vk7Ds4u6waswHkzrfACVg"
-        }
-      ],
-      "duration_ms": 211573,
-      "name": "SET ME FREE (Lindgren Remix)",
-      "url": "https://open.spotify.com/track/5wNQXN45nL1BM6fuSZolVn"
-    },
-    {
-      "added_at": "2026-04-01 11:05:43",
-      "album": {
         "name": "iScreaM Vol.25 : Red Flavor Remix",
         "url": "https://open.spotify.com/album/10M8ccltzArj4gzfYQu9hn"
       },
@@ -1907,6 +1887,26 @@
       "duration_ms": 213273,
       "name": "FOREVER 1 - Matisse & Sadko Remix",
       "url": "https://open.spotify.com/track/5dJ6HlXlZw4MvIkH9293M5"
+    },
+    {
+      "added_at": "2026-04-01 11:05:43",
+      "album": {
+        "name": "SET ME FREE (Remixes)",
+        "url": "https://open.spotify.com/album/6lEtnxGk1CMv0ZbhI6i0eD"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        },
+        {
+          "name": "Lindgren",
+          "url": "https://open.spotify.com/artist/0vk7Ds4u6waswHkzrfACVg"
+        }
+      ],
+      "duration_ms": 211573,
+      "name": "SET ME FREE (Lindgren Remix)",
+      "url": "https://open.spotify.com/track/5wNQXN45nL1BM6fuSZolVn"
     }
   ],
   "unique_name": "Electronii[K]",

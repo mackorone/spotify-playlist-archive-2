@@ -1,6 +1,6 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 176320,
+  "num_followers": 176325,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2026-02-27 05:00:29",
       "album": {
+        "name": "Weekends Look A Little Acoustic These Days",
+        "url": "https://open.spotify.com/album/4kVKg4LdknIwFgktCrYMy0"
+      },
+      "artists": [
+        {
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+        }
+      ],
+      "duration_ms": 254989,
+      "name": "You Didn\u2019t - Acoustic",
+      "url": "https://open.spotify.com/track/27cNKdragPxvklYZNT8QIs"
+    },
+    {
+      "added_at": "2026-02-27 05:00:29",
+      "album": {
         "name": "Can't Have Mine (Find You A Girl) [Acoustic]",
         "url": "https://open.spotify.com/album/6Z5hiPEf5U9Z3Q9t2atIPn"
       },
@@ -1587,18 +1603,18 @@
     {
       "added_at": "2026-02-27 05:00:29",
       "album": {
-        "name": "Weekends Look A Little Acoustic These Days",
-        "url": "https://open.spotify.com/album/4kVKg4LdknIwFgktCrYMy0"
+        "name": "My Left Hand (Wedding Version)",
+        "url": "https://open.spotify.com/album/59WB1DENlJgW6tC9mElV7Z"
       },
       "artists": [
         {
-          "name": "Brett Young",
-          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+          "name": "Meghan Patrick",
+          "url": "https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ"
         }
       ],
-      "duration_ms": 254989,
-      "name": "You Didn\u2019t - Acoustic",
-      "url": "https://open.spotify.com/track/27cNKdragPxvklYZNT8QIs"
+      "duration_ms": 186133,
+      "name": "My Left Hand (Wedding Version)",
+      "url": "https://open.spotify.com/track/2S7fxN0RqZwAqXuXkVi9Ij"
     },
     {
       "added_at": "2026-02-27 05:00:29",
@@ -1623,22 +1639,6 @@
     {
       "added_at": "2026-02-27 05:00:29",
       "album": {
-        "name": "My Left Hand (Wedding Version)",
-        "url": "https://open.spotify.com/album/59WB1DENlJgW6tC9mElV7Z"
-      },
-      "artists": [
-        {
-          "name": "Meghan Patrick",
-          "url": "https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ"
-        }
-      ],
-      "duration_ms": 186133,
-      "name": "My Left Hand (Wedding Version)",
-      "url": "https://open.spotify.com/track/2S7fxN0RqZwAqXuXkVi9Ij"
-    },
-    {
-      "added_at": "2026-02-27 05:00:29",
-      "album": {
         "name": "Studio 900 Sessions",
         "url": "https://open.spotify.com/album/3ooKzgaNauxvrQeIl5DTZK"
       },
@@ -1655,18 +1655,18 @@
     {
       "added_at": "2026-02-27 05:00:29",
       "album": {
-        "name": "Put It in Drive",
-        "url": "https://open.spotify.com/album/1QVygeRrG4uHm6RnglN9kB"
+        "name": "Pretty Little Poison (Piano Version)",
+        "url": "https://open.spotify.com/album/00q0IXrfOMAKRrOg8iBEzb"
       },
       "artists": [
         {
-          "name": "Tommy Karlas",
-          "url": "https://open.spotify.com/artist/7t5t9O35bE8qMnUAybSzbY"
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
         }
       ],
-      "duration_ms": 191973,
-      "name": "Lessons (Acoustic)",
-      "url": "https://open.spotify.com/track/45dRlmdb1eb9shNH6VOvyw"
+      "duration_ms": 216866,
+      "name": "Pretty Little Poison - Piano Version",
+      "url": "https://open.spotify.com/track/7Cch8QA1FTnFcCijMkrM8E"
     }
   ],
   "unique_name": "Nashville Stripped",

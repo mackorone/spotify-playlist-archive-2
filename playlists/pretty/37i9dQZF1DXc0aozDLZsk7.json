@@ -1,12 +1,12 @@
 {
   "description": "Relax. Abbandonati alla musica e ritrova la tua tranquillit\u00e0.",
-  "num_followers": 675131,
+  "num_followers": 675143,
   "original_name": "No Stress",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANtYA8PRGPvPOFt9g9tJsJttsMjn",
+  "snapshot_id": "AAAAAKftWPfhjkPKKIYsNxSn1r8oQxxe",
   "tracks": [
     {
       "added_at": "2026-04-02 22:03:30",
@@ -699,22 +699,6 @@
     {
       "added_at": "2026-04-02 22:03:30",
       "album": {
-        "name": "Blue Sky Mentality (Complete Edition)",
-        "url": "https://open.spotify.com/album/40OV4pw1Vvzrvo2yOTl5AF"
-      },
-      "artists": [
-        {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
-        }
-      ],
-      "duration_ms": 169880,
-      "name": "Somebody",
-      "url": "https://open.spotify.com/track/2p2PyJXXzOzpaP2HEEKYsE"
-    },
-    {
-      "added_at": "2026-04-02 22:03:30",
-      "album": {
         "name": "Coming Up for Air (Expanded Edition)",
         "url": "https://open.spotify.com/album/3IJ5RDbQeiWIf7Fo601JwE"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 232520,
       "name": "The One",
       "url": "https://open.spotify.com/track/0My8NPmENHrN5W7OfgZnZJ"
+    },
+    {
+      "added_at": "2026-04-02 22:03:30",
+      "album": {
+        "name": "Blue Sky Mentality (Complete Edition)",
+        "url": "https://open.spotify.com/album/40OV4pw1Vvzrvo2yOTl5AF"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "duration_ms": 169880,
+      "name": "Somebody",
+      "url": "https://open.spotify.com/track/2p2PyJXXzOzpaP2HEEKYsE"
     },
     {
       "added_at": "2026-04-02 22:03:30",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-04-02 22:03:30",
       "album": {
-        "name": "Echoes, Silence, Patience & Grace",
-        "url": "https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 293337,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/2fDVMNQmFuMORDD3dP7GkN"
-    },
-    {
-      "added_at": "2026-04-02 22:03:30",
-      "album": {
         "name": "Hurt Somebody",
         "url": "https://open.spotify.com/album/1TMA2dKLdsJZ8u1iikE6Ow"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 168640,
       "name": "Hurt Somebody (With Julia Michaels)",
       "url": "https://open.spotify.com/track/7vA2Y79Q4bBqdzBCfHeGEe"
+    },
+    {
+      "added_at": "2026-04-02 22:03:30",
+      "album": {
+        "name": "Echoes, Silence, Patience & Grace",
+        "url": "https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 293337,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/2fDVMNQmFuMORDD3dP7GkN"
     },
     {
       "added_at": "2026-04-02 22:03:30",

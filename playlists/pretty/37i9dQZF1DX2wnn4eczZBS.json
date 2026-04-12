@@ -1,6 +1,6 @@
 {
   "description": "Indiepop in het Nederlands. Cover: IDA",
-  "num_followers": 11359,
+  "num_followers": 11358,
   "original_name": "indie.nl",
   "owner": {
     "name": "Spotify",
@@ -447,6 +447,22 @@
     {
       "added_at": "2026-04-09 22:01:54",
       "album": {
+        "name": "LATEN ME KOUD",
+        "url": "https://open.spotify.com/album/57CRAm3v7LNB6cSoaac433"
+      },
+      "artists": [
+        {
+          "name": "Brokezart",
+          "url": "https://open.spotify.com/artist/6L6GRikGI6S87FmKwsJxou"
+        }
+      ],
+      "duration_ms": 155132,
+      "name": "LATEN ME KOUD",
+      "url": "https://open.spotify.com/track/1A8uEMR3qNUsxIbG5bzhi5"
+    },
+    {
+      "added_at": "2026-04-09 22:01:54",
+      "album": {
         "name": "Giftig",
         "url": "https://open.spotify.com/album/6XjQOyWXlcCjgKzivTgUl2"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 172941,
       "name": "Giftig",
       "url": "https://open.spotify.com/track/0KfzPMMjRQw9Vh3J8rzTDK"
-    },
-    {
-      "added_at": "2026-04-09 22:01:54",
-      "album": {
-        "name": "LATEN ME KOUD",
-        "url": "https://open.spotify.com/album/57CRAm3v7LNB6cSoaac433"
-      },
-      "artists": [
-        {
-          "name": "Brokezart",
-          "url": "https://open.spotify.com/artist/6L6GRikGI6S87FmKwsJxou"
-        }
-      ],
-      "duration_ms": 155132,
-      "name": "LATEN ME KOUD",
-      "url": "https://open.spotify.com/track/1A8uEMR3qNUsxIbG5bzhi5"
     },
     {
       "added_at": "2026-04-09 22:01:54",
@@ -759,26 +759,6 @@
     {
       "added_at": "2026-04-09 22:01:54",
       "album": {
-        "name": "Schaduw",
-        "url": "https://open.spotify.com/album/66mkzk0QFKvP4BalRxe8ZR"
-      },
-      "artists": [
-        {
-          "name": "Wende",
-          "url": "https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G"
-        },
-        {
-          "name": "Abel",
-          "url": "https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ"
-        }
-      ],
-      "duration_ms": 216887,
-      "name": "Schaduw",
-      "url": "https://open.spotify.com/track/51K5jkPVyjP4jcqPcfBTYl"
-    },
-    {
-      "added_at": "2026-04-09 22:01:54",
-      "album": {
         "name": "Niemandsland",
         "url": "https://open.spotify.com/album/4MfChcpoXYxVcbsiEraWll"
       },
@@ -799,6 +779,26 @@
     {
       "added_at": "2026-04-09 22:01:54",
       "album": {
+        "name": "Schaduw",
+        "url": "https://open.spotify.com/album/66mkzk0QFKvP4BalRxe8ZR"
+      },
+      "artists": [
+        {
+          "name": "Wende",
+          "url": "https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G"
+        },
+        {
+          "name": "Abel",
+          "url": "https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ"
+        }
+      ],
+      "duration_ms": 216887,
+      "name": "Schaduw",
+      "url": "https://open.spotify.com/track/51K5jkPVyjP4jcqPcfBTYl"
+    },
+    {
+      "added_at": "2026-04-09 22:01:54",
+      "album": {
         "name": "Kan Je Niet Blijven?",
         "url": "https://open.spotify.com/album/0zDtda7KNQvJ1jggMPyhvI"
       },
@@ -815,22 +815,18 @@
     {
       "added_at": "2026-04-09 22:01:54",
       "album": {
-        "name": "Moe Van Jezelf",
-        "url": "https://open.spotify.com/album/7DZIfMTGxzRN9nkcIxCDfo"
+        "name": "Bob Dylan",
+        "url": "https://open.spotify.com/album/15cwNEjCv4EjW8xUiUnQ5M"
       },
       "artists": [
         {
-          "name": "nonchelange",
-          "url": "https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n"
-        },
-        {
-          "name": "Mathieu Terryn",
-          "url": "https://open.spotify.com/artist/49lHyCtrgMgmijZw2FqPHK"
+          "name": "De Plaag",
+          "url": "https://open.spotify.com/artist/5ezJSYbBLR78v7cKsoC46d"
         }
       ],
-      "duration_ms": 160678,
-      "name": "Moe Van Jezelf",
-      "url": "https://open.spotify.com/track/3gsHFY5eFCkanac1hMUjOo"
+      "duration_ms": 225428,
+      "name": "Bob Dylan",
+      "url": "https://open.spotify.com/track/5FfhOLX2T07YpFNctSrO9P"
     },
     {
       "added_at": "2026-04-09 22:01:54",
@@ -851,18 +847,22 @@
     {
       "added_at": "2026-04-09 22:01:54",
       "album": {
-        "name": "Bob Dylan",
-        "url": "https://open.spotify.com/album/15cwNEjCv4EjW8xUiUnQ5M"
+        "name": "Moe Van Jezelf",
+        "url": "https://open.spotify.com/album/7DZIfMTGxzRN9nkcIxCDfo"
       },
       "artists": [
         {
-          "name": "De Plaag",
-          "url": "https://open.spotify.com/artist/5ezJSYbBLR78v7cKsoC46d"
+          "name": "nonchelange",
+          "url": "https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n"
+        },
+        {
+          "name": "Mathieu Terryn",
+          "url": "https://open.spotify.com/artist/49lHyCtrgMgmijZw2FqPHK"
         }
       ],
-      "duration_ms": 225428,
-      "name": "Bob Dylan",
-      "url": "https://open.spotify.com/track/5FfhOLX2T07YpFNctSrO9P"
+      "duration_ms": 160678,
+      "name": "Moe Van Jezelf",
+      "url": "https://open.spotify.com/track/3gsHFY5eFCkanac1hMUjOo"
     },
     {
       "added_at": "2026-04-09 22:01:54",

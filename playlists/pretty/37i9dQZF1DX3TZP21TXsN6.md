@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 
 > Nieuw: Fle, YG24, Rseis en meer…
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,122 likes - 76 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,118 likes - 76 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -3639,6 +3639,28 @@
     },
     {
       "album": {
+        "name": "If The World Was Ending",
+        "url": "https://open.spotify.com/album/5CBbA4bVDdbyMtprUAJ4I4"
+      },
+      "artists": [
+        {
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+        },
+        {
+          "name": "Colbie Caillat",
+          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208597,
+      "name": "If The World Was Ending",
+      "url": "https://open.spotify.com/track/2HF7Aq8uTCPwUPaG8sMwrT"
+    },
+    {
+      "album": {
         "name": "If We Were Vampires",
         "url": "https://open.spotify.com/album/5DkrmJBS8N5ZAdEbQnrIBK"
       },
@@ -5088,7 +5110,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 276116,
       "name": "Neon Moon",
       "url": "https://open.spotify.com/track/6ek5meLoh67PearowyYJ5A"

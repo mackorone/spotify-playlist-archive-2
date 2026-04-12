@@ -4,7 +4,7 @@
 
 > Tropical nature sounds for bedtime.
 
-162 songs - 9 hr 46 min
+164 songs - 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Calming Creek](https://open.spotify.com/track/5R113kfoXvoFBlIPpUUuRd) | [EFX Mirelight](https://open.spotify.com/artist/1xC1qS9lztnzURXtrrXFuv) | [Calm Green Wave Sounds](https://open.spotify.com/album/6bx52OyqGSwW8oCpooPjTT) | 1:44 | 2026-04-02 |  |
 | [Camping In the Forest \- \(Rain & Birds\)](https://open.spotify.com/track/0R2cDyGhOpTSl7Feeu4Zs6) | [Wide Noise HD](https://open.spotify.com/artist/2W6Z4GQCDaktUWbXP8huax) | [Cabin Rain, Crickets and Birds](https://open.spotify.com/album/4mmbBrhNanIweSk6vAqdf6) | 2:19 | 2025-11-11 | 2026-04-03 |
 | [Catching the Wild](https://open.spotify.com/track/6YEz0RELNHzC4NyxGahieP) | [Djunjo](https://open.spotify.com/artist/1DWBwafhEN1i2zYG6r05Au) | [Below the Tree Crowns](https://open.spotify.com/album/6WpLLecUsmYisQNQpJcU6A) | 3:32 | 2023-02-20 |  |
+| [Catskill Forest Preserve](https://open.spotify.com/track/13NGtQYPvPqAt4e02LpDJz) | [Waveseekers](https://open.spotify.com/artist/02ucRkp1Tm4yA5ZZwfG184) | [Catskill Forest Preserve](https://open.spotify.com/album/3hXgvl77LoBLLxZ83jfxb8) | 4:07 | 2026-04-02 |  |
 | [Chirping Melodies](https://open.spotify.com/track/75I25WfmlmxZxhSX4Uf88Z) | [Nature Neighbors](https://open.spotify.com/artist/4rIFzNdfjbxs0PB2XWda3z) | [Wonders of Tranquility](https://open.spotify.com/album/1nsqaBBOXh4iPeJ6Mf1E9A) | 15:00 | 2025-11-11 |  |
 | [Cicadas, Toucans, Troglodytes Aedon bird in the Columbian Amazon](https://open.spotify.com/track/62gRyCQ4TkVOewn3iYgEdX) | [Nicoguga](https://open.spotify.com/artist/7h3EBgqROmytU7UE4UwFoS) | [Rain and Wildlife in the Jungle](https://open.spotify.com/album/3DF0n2qw6pKnP0ZWPl2s0e) | 3:01 | 2024-08-23 | 2025-06-03 |
 | [costa rica jungle downpour](https://open.spotify.com/track/2HvAiax6XQNCORkA6S1WoF) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [rainbolt](https://open.spotify.com/artist/7s5ur9sUuCW6O3fd5phcS1) | [costa rica rains](https://open.spotify.com/album/3oxEFOaQCjpQxlBHeOBAuV) | 2:14 | 2025-11-11 |  |
@@ -42,6 +43,7 @@
 | [El Sonido De La Jungla](https://open.spotify.com/track/3X9fYeMzViZNTg3FptCZZq) | [Nerea Llopis](https://open.spotify.com/artist/45DFCRFgVJdYToAWjPau6O) | [El Sonido De La Jungla](https://open.spotify.com/album/4UpQkIb1B3HDThLzEKI0DT) | 2:02 | 2021-12-22 |  |
 | [Evening Drizzle](https://open.spotify.com/track/6cT7dRMHzgURq44rPtFHUB) | [Sounds of the Jungle](https://open.spotify.com/artist/13JAi6QRXqwdDSK4jY60Zh) | [Sounds of the Jungle](https://open.spotify.com/album/6KR8ekx3goy7PjLYhINlgQ) | 3:00 | 2021-12-22 | 2024-03-28 |
 | [Everflow Basin Green Noise](https://open.spotify.com/track/6yZBV5DSJid7XUyAJEDriM) | [Arx](https://open.spotify.com/artist/1WE6CfpIRxkLEpMddVhEXI) | [Everflow Basin Green Noise](https://open.spotify.com/album/1XW7wRiuk1J9eJZQKW7Dwp) | 3:16 | 2026-04-02 |  |
+| [Evergreen Noise](https://open.spotify.com/track/2mmfMsEA9FmbrphnBvyJEa) | [Celestial Noise](https://open.spotify.com/artist/6UxIoQdnDknYEYsVX61G9z) | [Evergreen Noise](https://open.spotify.com/album/1RLp7d0lQa4gQxYlVsImJt) | 2:34 | 2026-04-02 |  |
 | [Exotic Jungle Life for Meditation and Deep Sleep](https://open.spotify.com/track/1c2q71mRUvPAjkNvPEjv4x) | [Nature Sounds in HD](https://open.spotify.com/artist/4OejBwsKe73jfbVP9Csef7) | [Nature Sound in HD](https://open.spotify.com/album/2FamwsbosEaAyFWlcIFFdF) | 6:00 | 2022-07-06 | 2022-11-13 |
 | [Florida Rain Storm](https://open.spotify.com/track/41ngfIhPv1DkwHozVjH5Yc) | [Mother Nature Sound FX](https://open.spotify.com/artist/4lrOh2SR7H3guHky2lAYOk) | [Thunderstorms](https://open.spotify.com/album/47aFId4LZv1BI9UZEpzbpx) | 2:55 | 2021-12-22 | 2024-03-28 |
 | [Flying South \(Nature\)](https://open.spotify.com/track/5j49xdRfVVXfrH0oi6UkKv) | [Nature Neighbors](https://open.spotify.com/artist/4rIFzNdfjbxs0PB2XWda3z) | [Flying South \(Nature\)](https://open.spotify.com/album/1vhivmFoFcs1WRHLwWA70R) | 3:00 | 2026-04-02 |  |
@@ -56,7 +58,7 @@
 | [Frogs and Rain near the River](https://open.spotify.com/track/6e5HVs8ctp5QxGShtMlEMY) | [Nicolas Gutierrez G.](https://open.spotify.com/artist/5blyFWCmmsbLdxQVRARv6x) | [Frogs and Rain near the River](https://open.spotify.com/album/7DDVhkJ1acgUJlMFXPz73p) | 2:20 | 2023-06-20 | 2026-02-22 |
 | [Gentle Waters \(Rain\)](https://open.spotify.com/track/5DKlfLW5p13tBiuetBLWNX) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Gentle Waters](https://open.spotify.com/album/2JDyyTD89nIEtUddaUuawD) | 2:16 | 2021-12-22 |  |
 | [Ghosts of the Woods](https://open.spotify.com/track/2Z3NZCHCW05TxANQYPyuYj) | [Willow Drift](https://open.spotify.com/artist/2HWEeg2dzDuXcK0tD8nBfI) | [Evening Soundscapes](https://open.spotify.com/album/0JPQTfhNspilaTkduVToOf) | 2:31 | 2024-03-27 | 2025-07-08 |
-| [Grasshopper Song](https://open.spotify.com/track/2jJa0x8vU6LhjKbo9S5Iwo) | [Xiskko](https://open.spotify.com/artist/4UMyTN1UI04MCa5s5HO2sg) | [Grasshopper Song](https://open.spotify.com/album/2Ga9oIbuiKxZJdZdRslgd7) | 3:10 | 2025-07-21 |  |
+| [Grasshopper Song](https://open.spotify.com/track/2jJa0x8vU6LhjKbo9S5Iwo) | [Xiskko](https://open.spotify.com/artist/4UMyTN1UI04MCa5s5HO2sg) | [Grasshopper Song](https://open.spotify.com/album/2Ga9oIbuiKxZJdZdRslgd7) | 3:10 | 2025-07-21 | 2026-04-12 |
 | [Healing Rain](https://open.spotify.com/track/3MeV1PeFOCjgwXOnADJtE5) | [R\. Guru](https://open.spotify.com/artist/1J6XFH9yaFImOmbaAWAx48) | [Healing Rain](https://open.spotify.com/album/3q6h5lns25xvocifvgsXv8) | 3:28 | 2022-01-06 | 2024-03-28 |
 | [Heavy Island of Borneo Ambience](https://open.spotify.com/track/42MugaGyjJt5jHcn6uXgQw) | [Nature Sound Collection](https://open.spotify.com/artist/0qhhlPFVV3YoxoB4jtqvkx) | [200 Nature Sounds](https://open.spotify.com/album/4GWSfEGWNCOGWvTkkiIgYn) | 6:00 | 2022-07-06 | 2024-04-19 |
 | [Hidden Birds of the Jungle](https://open.spotify.com/track/7bYZLycurOWi4nyO5bfOAy) | [Nature's Essence](https://open.spotify.com/artist/0JklQwIpSXSIxaSP1IbT8j) | [Hidden Birds of the Jungle](https://open.spotify.com/album/0CxJTq7RjtuaSEsw7D8EGt) | 3:03 | 2026-04-02 |  |
@@ -129,7 +131,7 @@
 | [Riverlight Through Leaves](https://open.spotify.com/track/08WqDRfDIHCroRHoYuAP66) | [Nature's Essence](https://open.spotify.com/artist/0JklQwIpSXSIxaSP1IbT8j) | [Riverlight Through Leaves](https://open.spotify.com/album/4eO9Q2g6EAwyvvkN4JtqQV) | 3:01 | 2026-04-02 |  |
 | [Rural Thailand Ambience](https://open.spotify.com/track/59ovY6mzPV8fRwjQ2rYlwB) | [Sounds of the Jungle](https://open.spotify.com/artist/13JAi6QRXqwdDSK4jY60Zh) | [Wildlife and Nature Soundscapes](https://open.spotify.com/album/3lM9fS11Kki3uL6o65Ozea) | 5:15 | 2025-07-21 | 2026-03-19 |
 | [Seal Cove Pond 10/30 8am](https://open.spotify.com/track/5sT358T58i5g3nbJHZ1U6F) | [Aaron Lewis](https://open.spotify.com/artist/2xmSfP65WLEwRyrQlpODuR) | [Sounds of Mount Desert Island](https://open.spotify.com/album/2pwkOeetQXNKjKrXIDu2JB) | 3:24 | 2021-12-22 |  |
-| [Secluded Forest](https://open.spotify.com/track/4VZuBxVjeoLFjmPq6ZCrwt) | [Times That Bind](https://open.spotify.com/artist/0EVUcxKE6uB06NZe75La8X) | [Secluded Forest](https://open.spotify.com/album/2n58A84yz5qTPa3cFDEpR2) | 14:56 | 2025-07-21 |  |
+| [Secluded Forest](https://open.spotify.com/track/4VZuBxVjeoLFjmPq6ZCrwt) | [Times That Bind](https://open.spotify.com/artist/0EVUcxKE6uB06NZe75La8X) | [Secluded Forest](https://open.spotify.com/album/2n58A84yz5qTPa3cFDEpR2) | 14:56 | 2025-07-21 | 2026-04-12 |
 | [Sierra Nevada Dawn after Rain](https://open.spotify.com/track/53rnuqvDjs2SfnL94Barm1) | [Nicolas Gutierrez G.](https://open.spotify.com/artist/5blyFWCmmsbLdxQVRARv6x) | [Sierra Nevada Dawn after Rain](https://open.spotify.com/album/7tpj7GkDDjYietM3PHPM4c) | 2:03 | 2024-12-03 |  |
 | [Sleepy Rain Noise](https://open.spotify.com/track/0lyKoc6Batb1kDGCtw6pdF) | [Amsonia Star](https://open.spotify.com/artist/3qlVZpNlhxCVf5xIuDd7kL) | [Sleepy Rain Noise](https://open.spotify.com/album/2C9n2yEhA1q6kCjHl0evqu) | 2:50 | 2026-04-02 |  |
 | [Sleepy Rainforest](https://open.spotify.com/track/2zwb8MgGoTTA6eDUQ563v1) | [Wildazon](https://open.spotify.com/artist/3MDGo9gMugtZGrB0oyQ69G) | [Waterfall Creek](https://open.spotify.com/album/1yKJFw1dDWFr7cwGBHz4jg) | 3:28 | 2023-02-20 |  |

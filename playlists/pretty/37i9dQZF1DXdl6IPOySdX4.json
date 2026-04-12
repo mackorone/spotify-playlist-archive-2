@@ -1,12 +1,12 @@
 {
   "description": "you up?",
-  "num_followers": 2167261,
+  "num_followers": 2167776,
   "original_name": "goosebumps",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANoVvzRXj9s64bdje3L3D6COj/vv",
+  "snapshot_id": "AAAAADqlPcZMCk0l4uJImAmHANbKuBK7",
   "tracks": [
     {
       "added_at": "2025-04-18 17:03:04",
@@ -465,6 +465,22 @@
       "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
     },
     {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "The Best of Sade",
+        "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 258693,
+      "name": "Smooth Operator - Single Version",
+      "url": "https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R"
+    },
+    {
       "added_at": "2025-07-03 03:36:52",
       "album": {
         "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
@@ -483,22 +499,6 @@
       "duration_ms": 200680,
       "name": "PERFuMITO NUEVO",
       "url": "https://open.spotify.com/track/1Q9Efnm5csdCMFynISxL2x"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "The Best of Sade",
-        "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 258693,
-      "name": "Smooth Operator - Single Version",
-      "url": "https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "older",
-        "url": "https://open.spotify.com/album/1CRkQ0NwUlzM4052uaZbtn"
-      },
-      "artists": [
-        {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
-        }
-      ],
-      "duration_ms": 137778,
-      "name": "older",
-      "url": "https://open.spotify.com/track/75c2zaSdDBSX0A8Jyvm4fO"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
         "url": "https://open.spotify.com/album/4q4rHdKxyCzxuQrPcdjPyC"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 204763,
       "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
       "url": "https://open.spotify.com/track/09gysnJpfQ3ublBmJDfcEC"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "older",
+        "url": "https://open.spotify.com/album/1CRkQ0NwUlzM4052uaZbtn"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "duration_ms": 137778,
+      "name": "older",
+      "url": "https://open.spotify.com/track/75c2zaSdDBSX0A8Jyvm4fO"
     },
     {
       "added_at": "2025-07-03 03:36:52",
@@ -1121,22 +1121,6 @@
       "url": "https://open.spotify.com/track/7ueP5u2qkdZbIPN2YA6LR0"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "eyes don't lie",
-        "url": "https://open.spotify.com/album/55XQzGrXvQgpVWAn7mL7CT"
-      },
-      "artists": [
-        {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
-        }
-      ],
-      "duration_ms": 150720,
-      "name": "eyes don't lie",
-      "url": "https://open.spotify.com/track/2GWCZJWundoYi5IloWIgTX"
-    },
-    {
       "added_at": "2024-08-12 15:52:22",
       "album": {
         "name": "Lust For Life",
@@ -1151,6 +1135,22 @@
       "duration_ms": 180902,
       "name": "Cherry",
       "url": "https://open.spotify.com/track/1Ym6aMuT5bliaZMC67AmPp"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "eyes don't lie",
+        "url": "https://open.spotify.com/album/55XQzGrXvQgpVWAn7mL7CT"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "duration_ms": 150720,
+      "name": "eyes don't lie",
+      "url": "https://open.spotify.com/track/2GWCZJWundoYi5IloWIgTX"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1321,22 +1321,6 @@
       "url": "https://open.spotify.com/track/1yvSMyZn27M4wEslpSvB0D"
     },
     {
-      "added_at": "2025-11-21 05:00:31",
-      "album": {
-        "name": "WHEN A GIRL CRIES",
-        "url": "https://open.spotify.com/album/4Wd9B89j1dUHo2bLYJPWch"
-      },
-      "artists": [
-        {
-          "name": "Olga Myko",
-          "url": "https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm"
-        }
-      ],
-      "duration_ms": 124590,
-      "name": "use me!!!!!!!",
-      "url": "https://open.spotify.com/track/4RvaI6d8mWCfEcGffUN52w"
-    },
-    {
       "added_at": "2024-11-08 04:00:00",
       "album": {
         "name": "LET THE WORLD BURN (with G-Eazy & Ari Abdul) [Remix]",
@@ -1359,6 +1343,22 @@
       "duration_ms": 165874,
       "name": "LET THE WORLD BURN (with G-Eazy & Ari Abdul) - Remix",
       "url": "https://open.spotify.com/track/5wNDRMkoysXZGiW4ja5Tik"
+    },
+    {
+      "added_at": "2025-11-21 05:00:31",
+      "album": {
+        "name": "WHEN A GIRL CRIES",
+        "url": "https://open.spotify.com/album/4Wd9B89j1dUHo2bLYJPWch"
+      },
+      "artists": [
+        {
+          "name": "Olga Myko",
+          "url": "https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm"
+        }
+      ],
+      "duration_ms": 124590,
+      "name": "use me!!!!!!!",
+      "url": "https://open.spotify.com/track/4RvaI6d8mWCfEcGffUN52w"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1509,26 +1509,6 @@
       "url": "https://open.spotify.com/track/6OOdgnBjXKHCiq0K6pPeaE"
     },
     {
-      "added_at": "2026-01-09 05:00:48",
-      "album": {
-        "name": "Rivalry / It's You (from \"Heated Rivalry\" Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/1NsdL2wUV1Wogqpefzxl7s"
-      },
-      "artists": [
-        {
-          "name": "Peter Peter",
-          "url": "https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC"
-        },
-        {
-          "name": "Heated Rivalry",
-          "url": "https://open.spotify.com/artist/0pDgAgv55HFzAlAh2uQEqz"
-        }
-      ],
-      "duration_ms": 240491,
-      "name": "It's You - from \"Heated Rivalry\"",
-      "url": "https://open.spotify.com/track/6mCpjU7bPQgImcu7iW7rDD"
-    },
-    {
       "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Life On Earth - EP",
@@ -1547,6 +1527,26 @@
       "duration_ms": 211373,
       "name": "White Tee (with NO1-NOAH)",
       "url": "https://open.spotify.com/track/5m0eMnsWwzgGsUxe1mhFYR"
+    },
+    {
+      "added_at": "2026-01-09 05:00:48",
+      "album": {
+        "name": "Rivalry / It's You (from \"Heated Rivalry\" Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/1NsdL2wUV1Wogqpefzxl7s"
+      },
+      "artists": [
+        {
+          "name": "Peter Peter",
+          "url": "https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC"
+        },
+        {
+          "name": "Heated Rivalry",
+          "url": "https://open.spotify.com/artist/0pDgAgv55HFzAlAh2uQEqz"
+        }
+      ],
+      "duration_ms": 240491,
+      "name": "It's You - from \"Heated Rivalry\"",
+      "url": "https://open.spotify.com/track/6mCpjU7bPQgImcu7iW7rDD"
     },
     {
       "added_at": "2025-09-05 04:00:04",

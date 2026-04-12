@@ -1,6 +1,6 @@
 {
   "description": "layan je",
-  "num_followers": 166124,
+  "num_followers": 166203,
   "original_name": "galau rabak",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2026-02-20 05:28:17",
       "album": {
-        "name": "Bila Memang Kamu",
-        "url": "https://open.spotify.com/album/3ct5klx1zG7v3A160MtmrB"
-      },
-      "artists": [
-        {
-          "name": "Betrand Putra Onsu",
-          "url": "https://open.spotify.com/artist/6Pu9A4Pe31OK06u1GL8q4c"
-        }
-      ],
-      "duration_ms": 231093,
-      "name": "Bila Memang Kamu",
-      "url": "https://open.spotify.com/track/3LQDUCmBfo12tYCbr6Acyr"
-    },
-    {
-      "added_at": "2026-02-20 05:28:17",
-      "album": {
         "name": "Berdamai",
         "url": "https://open.spotify.com/album/1RKSbvPUDUEeKPIhGdnzSD"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 255599,
       "name": "Terima Kasih Sudah Bertahan",
       "url": "https://open.spotify.com/track/6A1VXwBrL7hpGXScZkGo8D"
+    },
+    {
+      "added_at": "2026-02-20 05:28:17",
+      "album": {
+        "name": "Bila Memang Kamu",
+        "url": "https://open.spotify.com/album/3ct5klx1zG7v3A160MtmrB"
+      },
+      "artists": [
+        {
+          "name": "Betrand Putra Onsu",
+          "url": "https://open.spotify.com/artist/6Pu9A4Pe31OK06u1GL8q4c"
+        }
+      ],
+      "duration_ms": 231093,
+      "name": "Bila Memang Kamu",
+      "url": "https://open.spotify.com/track/3LQDUCmBfo12tYCbr6Acyr"
     },
     {
       "added_at": "2026-02-20 05:28:17",
@@ -367,6 +367,22 @@
     {
       "added_at": "2026-02-20 05:28:17",
       "album": {
+        "name": "Setengah Mati (From \"Bila Esok Ibu Tiada\")",
+        "url": "https://open.spotify.com/album/5xgGkD8AlVjkwa6nxOotUH"
+      },
+      "artists": [
+        {
+          "name": "Ghea Indrawari",
+          "url": "https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX"
+        }
+      ],
+      "duration_ms": 239992,
+      "name": "Setengah Mati - From \"Bila Esok Ibu Tiada\"",
+      "url": "https://open.spotify.com/track/7tCxRQhDcXehM90nj4Nsit"
+    },
+    {
+      "added_at": "2026-02-20 05:28:17",
+      "album": {
         "name": "Tak Kan Terganti",
         "url": "https://open.spotify.com/album/1QSwTwZoeKZPNXb5DQ7agR"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 237798,
       "name": "Tak Kan Terganti",
       "url": "https://open.spotify.com/track/03JEmUuvNg6a3SHW8HNI98"
-    },
-    {
-      "added_at": "2026-02-20 05:28:17",
-      "album": {
-        "name": "Setengah Mati (From \"Bila Esok Ibu Tiada\")",
-        "url": "https://open.spotify.com/album/5xgGkD8AlVjkwa6nxOotUH"
-      },
-      "artists": [
-        {
-          "name": "Ghea Indrawari",
-          "url": "https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX"
-        }
-      ],
-      "duration_ms": 239992,
-      "name": "Setengah Mati - From \"Bila Esok Ibu Tiada\"",
-      "url": "https://open.spotify.com/track/7tCxRQhDcXehM90nj4Nsit"
     },
     {
       "added_at": "2026-02-20 05:28:17",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-02-20 05:28:17",
       "album": {
-        "name": "Kuharap Duka Ini Selamanya",
-        "url": "https://open.spotify.com/album/35jjxX4BwfJxWjr2MpRAts"
-      },
-      "artists": [
-        {
-          "name": "Raisa",
-          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
-        }
-      ],
-      "duration_ms": 262338,
-      "name": "Kuharap Duka Ini Selamanya",
-      "url": "https://open.spotify.com/track/4VCmXihNaBZdnVNWOIk7NC"
-    },
-    {
-      "added_at": "2026-02-20 05:28:17",
-      "album": {
         "name": "Kata",
         "url": "https://open.spotify.com/album/35fHsrwGpL2s8YK2P4ZIjZ"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 220083,
       "name": "Kata",
       "url": "https://open.spotify.com/track/1GBDDrMNDBHAiuyj1Sbw4Y"
+    },
+    {
+      "added_at": "2026-02-20 05:28:17",
+      "album": {
+        "name": "Kuharap Duka Ini Selamanya",
+        "url": "https://open.spotify.com/album/35jjxX4BwfJxWjr2MpRAts"
+      },
+      "artists": [
+        {
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+        }
+      ],
+      "duration_ms": 262338,
+      "name": "Kuharap Duka Ini Selamanya",
+      "url": "https://open.spotify.com/track/4VCmXihNaBZdnVNWOIk7NC"
     },
     {
       "added_at": "2026-02-20 05:28:17",

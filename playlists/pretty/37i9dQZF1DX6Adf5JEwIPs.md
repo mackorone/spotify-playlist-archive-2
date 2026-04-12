@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Lenin Ramírez 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 725,388 likes - 54 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 725,447 likes - 55 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,12 +55,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 45 | [Ahora Resulta](https://open.spotify.com/track/64uCj2nU2CTgiSnywmaw0F) | [Janeth Valenzuela](https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G) | [Ahora Resulta](https://open.spotify.com/album/1TfPUjEcwXON2UNd2WufGn) | 2:50 |
 | 46 | [Se Lo Dejo a Dios](https://open.spotify.com/track/4pxmkN3ShBhO3OOyF0ksn2) | [Los Ramones De Nuevo Leon](https://open.spotify.com/artist/4QNjwKEWrjiqpq1GJ8D6Qw) | [Se Lo Dejo a Dios](https://open.spotify.com/album/7m5RsIY4MGDXVU9q5wdDIp) | 3:42 |
 | 47 | [¿Para qué?](https://open.spotify.com/track/5uBHQfiRzxPAXuSNZqaIYx) | [Jhaner Trujillo](https://open.spotify.com/artist/1NYRWCDZDQ8CeN4Sflk2nV) | [¿Para qué?](https://open.spotify.com/album/2uEm83TTwBBsa9yDjk8feI) | 3:15 |
-| 48 | [Puro Pa' Delante](https://open.spotify.com/track/69ytsG8rb67U1n2xvlhU8S) | [Los Mayitos De Sinaloa](https://open.spotify.com/artist/0vnz9PZNUDprkhDBg3aF6R) | [Puro Pa' Delante](https://open.spotify.com/album/1y0uaixmgh3V8ZgfyuOryR) | 2:51 |
-| 49 | [El Corrido De Saul](https://open.spotify.com/track/5l6IlU1BIiFv4isDi9PslY) | [El Halcon De La Sierra Jr](https://open.spotify.com/artist/0pG7nBqR0BLBGo5NJlKljQ) | [El Corrido De Saul](https://open.spotify.com/album/0bLdnzghYqxWqmSDMJ3ng7) | 3:30 |
-| 50 | [La Culpable](https://open.spotify.com/track/3LcfsnsxE0AsUtry81FxsU) | [eydrey](https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4) | [La Culpable](https://open.spotify.com/album/5XMBK8fMW1S1oto6Qmyl6R) | 3:57 |
-| 51 | [¡Ay, Amor!](https://open.spotify.com/track/10908UoYKr6kcvJ68MT9DH) | [Grupo Los de Chiwas](https://open.spotify.com/artist/55UyMd1aJojv9xFEg5cLbR), [Grupo La Etiqueta](https://open.spotify.com/artist/1PKrDFePfBYTEh8cDHqiAp) | [¡Ay, Amor!](https://open.spotify.com/album/1nEJBYVAFYgSuRfZQ9H4hx) | 3:15 |
-| 52 | [Váyanle con el Mitote](https://open.spotify.com/track/3n31hWWBb6X9uNvmonbQOB) | [Uriel VR](https://open.spotify.com/artist/6no3rwnpxxnZOqs5IIQJ6j) | [Váyanle con el Mitote](https://open.spotify.com/album/5lTkrratFqcjDilukXkjTg) | 3:32 |
-| 53 | [Diente De León](https://open.spotify.com/track/0QnAR0S70keqrIMvfKBjzF) | [Rosalía León](https://open.spotify.com/artist/3CmpJ8AXGUzYIRPmFUbjyx), [Mariachi Romanza de Rodrigo Rodriguez](https://open.spotify.com/artist/7CDk4Vxdjm4mXXqgXbscyL) | [Diente De León](https://open.spotify.com/album/6tF3e4s4jH2JH2HYyoPexo) | 3:39 |
-| 54 | [Clasico \- Live](https://open.spotify.com/track/35lrlRoHAcwJBjTCsge8BC) | [Predilecto](https://open.spotify.com/artist/4aSPfFWnPIu4zsbGm0FZM2) | [Jammin' sessions](https://open.spotify.com/album/1pahXinIrDupTLh26l1A4g) | 3:30 |
+| 48 | [Black Hat GZR](https://open.spotify.com/track/1WCPT1bF1rHd0pA9gYaRVq) | [Angel Trino](https://open.spotify.com/artist/6G9e3oARcq4ThyH91ye38W) | [Black Hat GZR](https://open.spotify.com/album/5lWSklJO6DlwinZfLjdEyR) | 2:48 |
+| 49 | [Puro Pa' Delante](https://open.spotify.com/track/69ytsG8rb67U1n2xvlhU8S) | [Los Mayitos De Sinaloa](https://open.spotify.com/artist/0vnz9PZNUDprkhDBg3aF6R) | [Puro Pa' Delante](https://open.spotify.com/album/1y0uaixmgh3V8ZgfyuOryR) | 2:51 |
+| 50 | [El Corrido De Saul](https://open.spotify.com/track/5l6IlU1BIiFv4isDi9PslY) | [El Halcon De La Sierra Jr](https://open.spotify.com/artist/0pG7nBqR0BLBGo5NJlKljQ) | [El Corrido De Saul](https://open.spotify.com/album/0bLdnzghYqxWqmSDMJ3ng7) | 3:30 |
+| 51 | [La Culpable](https://open.spotify.com/track/3LcfsnsxE0AsUtry81FxsU) | [eydrey](https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4) | [La Culpable](https://open.spotify.com/album/5XMBK8fMW1S1oto6Qmyl6R) | 3:57 |
+| 52 | [¡Ay, Amor!](https://open.spotify.com/track/10908UoYKr6kcvJ68MT9DH) | [Grupo Los de Chiwas](https://open.spotify.com/artist/55UyMd1aJojv9xFEg5cLbR), [Grupo La Etiqueta](https://open.spotify.com/artist/1PKrDFePfBYTEh8cDHqiAp) | [¡Ay, Amor!](https://open.spotify.com/album/1nEJBYVAFYgSuRfZQ9H4hx) | 3:15 |
+| 53 | [Váyanle con el Mitote](https://open.spotify.com/track/3n31hWWBb6X9uNvmonbQOB) | [Uriel VR](https://open.spotify.com/artist/6no3rwnpxxnZOqs5IIQJ6j) | [Váyanle con el Mitote](https://open.spotify.com/album/5lTkrratFqcjDilukXkjTg) | 3:32 |
+| 54 | [Diente De León](https://open.spotify.com/track/0QnAR0S70keqrIMvfKBjzF) | [Rosalía León](https://open.spotify.com/artist/3CmpJ8AXGUzYIRPmFUbjyx), [Mariachi Romanza de Rodrigo Rodriguez](https://open.spotify.com/artist/7CDk4Vxdjm4mXXqgXbscyL) | [Diente De León](https://open.spotify.com/album/6tF3e4s4jH2JH2HYyoPexo) | 3:39 |
+| 55 | [Clasico \- Live](https://open.spotify.com/track/35lrlRoHAcwJBjTCsge8BC) | [Predilecto](https://open.spotify.com/artist/4aSPfFWnPIu4zsbGm0FZM2) | [Jammin' sessions](https://open.spotify.com/album/1pahXinIrDupTLh26l1A4g) | 3:30 |
 
-Snapshot ID: `AAAAALt5pRu/1anRk2MhAiQDMq2oRVL1`
+Snapshot ID: `AAAAAHEboFI7PxjuDtBES69za0z6jZjW`

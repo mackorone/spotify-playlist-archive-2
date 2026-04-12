@@ -9010,14 +9010,6 @@
         {
           "name": "Joe L Barnes",
           "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
-        },
-        {
-          "name": "David Alexander Fields",
-          "url": "https://open.spotify.com/artist/1T0sNtVxvAkesJAxcjhAeJ"
-        },
-        {
-          "name": "Jontavais Jermaine johnson",
-          "url": "https://open.spotify.com/artist/116wMw3zxbx9d2zdpX0Nzj"
         }
       ],
       "date_added": "2026-04-10",
@@ -212213,6 +212205,24 @@
     },
     {
       "album": {
+        "name": "To God Be The Glory",
+        "url": "https://open.spotify.com/album/45c0d22lk0ttL7aZvWEWmI"
+      },
+      "artists": [
+        {
+          "name": "Mosaic MSC",
+          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284200,
+      "name": "To God Be The Glory",
+      "url": "https://open.spotify.com/track/5DTyY5w9NT214c8hrUDZ9H"
+    },
+    {
+      "album": {
         "name": "Great Things",
         "url": "https://open.spotify.com/album/49mG3aU1Xr6sqOAdU5dpF8"
       },
@@ -212244,24 +212254,6 @@
       "duration_ms": 358800,
       "name": "To God Be The Glory (Great Things)",
       "url": "https://open.spotify.com/track/05RjZ6u5sQjUFH16nm8CYg"
-    },
-    {
-      "album": {
-        "name": "To God Be The Glory",
-        "url": "https://open.spotify.com/album/45c0d22lk0ttL7aZvWEWmI"
-      },
-      "artists": [
-        {
-          "name": "Mosaic MSC",
-          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
-        }
-      ],
-      "date_added": "2026-04-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 284200,
-      "name": "To God Be The Glory - Studio",
-      "url": "https://open.spotify.com/track/5DTyY5w9NT214c8hrUDZ9H"
     },
     {
       "album": {

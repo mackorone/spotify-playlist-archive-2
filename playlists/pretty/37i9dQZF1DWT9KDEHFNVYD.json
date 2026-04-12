@@ -1,6 +1,6 @@
 {
   "description": "Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations. CAN on cover.",
-  "num_followers": 17003,
+  "num_followers": 17013,
   "original_name": "Krautrock",
   "owner": {
     "name": "Spotify",
@@ -927,18 +927,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Again",
-        "url": "https://open.spotify.com/album/4bTWH5P6CykNnANLOAzKCR"
+        "name": "Not The Time / Callous",
+        "url": "https://open.spotify.com/album/1uXHnCnyJxEXUc8znM3gLU"
       },
       "artists": [
         {
-          "name": "Colder",
-          "url": "https://open.spotify.com/artist/1z7SXnaVwt0Fnncfrz94SG"
+          "name": "SASAMI",
+          "url": "https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz"
         }
       ],
-      "duration_ms": 311600,
-      "name": "Crazy Love",
-      "url": "https://open.spotify.com/track/0McxNzcP8DB1VKDLqZ0T3h"
+      "duration_ms": 170760,
+      "name": "Not The Time",
+      "url": "https://open.spotify.com/track/2kz4JUPAQLcaViOVgYxzfF"
     },
     {
       "added_at": "2024-04-09 16:27:14",
@@ -959,18 +959,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Not The Time / Callous",
-        "url": "https://open.spotify.com/album/1uXHnCnyJxEXUc8znM3gLU"
+        "name": "Again",
+        "url": "https://open.spotify.com/album/4bTWH5P6CykNnANLOAzKCR"
       },
       "artists": [
         {
-          "name": "SASAMI",
-          "url": "https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz"
+          "name": "Colder",
+          "url": "https://open.spotify.com/artist/1z7SXnaVwt0Fnncfrz94SG"
         }
       ],
-      "duration_ms": 170760,
-      "name": "Not The Time",
-      "url": "https://open.spotify.com/track/2kz4JUPAQLcaViOVgYxzfF"
+      "duration_ms": 311600,
+      "name": "Crazy Love",
+      "url": "https://open.spotify.com/track/0McxNzcP8DB1VKDLqZ0T3h"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1149,38 +1149,6 @@
       "url": "https://open.spotify.com/track/7w6PcnUzc5cRadoO4DJa1e"
     },
     {
-      "added_at": "2022-01-20 20:59:43",
-      "album": {
-        "name": "Ecdysis!",
-        "url": "https://open.spotify.com/album/7ofV8dUpKkDgd068rK3Vly"
-      },
-      "artists": [
-        {
-          "name": "DARKSIDE",
-          "url": "https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB"
-        }
-      ],
-      "duration_ms": 389869,
-      "name": "Ecdysis!",
-      "url": "https://open.spotify.com/track/4NwLdxjO1eqR5cgGInf7Go"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "La D\u00fcsseldorf",
-        "url": "https://open.spotify.com/album/4GYlqAkTsHoY55fEq03EPZ"
-      },
-      "artists": [
-        {
-          "name": "La D\u00fcsseldorf",
-          "url": "https://open.spotify.com/artist/3GLAEAmt9FYRZWv8HUYha0"
-        }
-      ],
-      "duration_ms": 269133,
-      "name": "La D\u00fcsseldorf",
-      "url": "https://open.spotify.com/track/3xGzJ6lwDAoBDisjCHkGtT"
-    },
-    {
       "added_at": "2021-07-30 14:56:06",
       "album": {
         "name": "Panther Rotate",
@@ -1199,6 +1167,38 @@
       "duration_ms": 309200,
       "name": "Don't Blow Experiment",
       "url": "https://open.spotify.com/track/1izjXQB5vXhgEHzsMTNQOf"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "La D\u00fcsseldorf",
+        "url": "https://open.spotify.com/album/4GYlqAkTsHoY55fEq03EPZ"
+      },
+      "artists": [
+        {
+          "name": "La D\u00fcsseldorf",
+          "url": "https://open.spotify.com/artist/3GLAEAmt9FYRZWv8HUYha0"
+        }
+      ],
+      "duration_ms": 269133,
+      "name": "La D\u00fcsseldorf",
+      "url": "https://open.spotify.com/track/3xGzJ6lwDAoBDisjCHkGtT"
+    },
+    {
+      "added_at": "2022-01-20 20:59:43",
+      "album": {
+        "name": "Ecdysis!",
+        "url": "https://open.spotify.com/album/7ofV8dUpKkDgd068rK3Vly"
+      },
+      "artists": [
+        {
+          "name": "DARKSIDE",
+          "url": "https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB"
+        }
+      ],
+      "duration_ms": 389869,
+      "name": "Ecdysis!",
+      "url": "https://open.spotify.com/track/4NwLdxjO1eqR5cgGInf7Go"
     },
     {
       "added_at": "2021-07-30 14:56:06",

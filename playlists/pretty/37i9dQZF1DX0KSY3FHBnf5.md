@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KSY3FHBnf5.md) - [plain]
 
 > Dreamy Ambient in a chilled, dark aesthetic
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,426 likes - 150 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,511 likes - 150 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KSY3FHBnf5.md) - [plain]
 | 149 | [white or maybe purple \- Slowed & Reverb](https://open.spotify.com/track/3AcMWfUDqclstlywTuYcfe) | [daniel.mp3](https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC) | [white or maybe purple](https://open.spotify.com/album/7g6h6355xLZelKQsSBmQge) | 2:05 |
 | 150 | [we could have been more](https://open.spotify.com/track/2IJiul5vlckoCOB3NKsXKO) | [Hinoku](https://open.spotify.com/artist/4VL8BfRXdbEuK5UoqQWezr), [pandora.](https://open.spotify.com/artist/2kz8ErEfOCprZuWDcFgzSM) | [we could have been more](https://open.spotify.com/album/6CtEhAgK6FiVH151C4zOo5) | 1:47 |
 
-Snapshot ID: `AAAAAPHFyA4ulow5IbyTqsu+r0Y69Tj3`
+Snapshot ID: `AAAAAESp/yNtdUajUsmjgFlsaNXMCSGk`

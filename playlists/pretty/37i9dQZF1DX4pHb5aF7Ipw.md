@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by Jazzy B & More
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,538 likes - 75 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,541 likes - 75 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 6 | [BITCH AM AT](https://open.spotify.com/track/7ugskSRZDMsPNoLTV1tU9J) | [GV13](https://open.spotify.com/artist/4W1ntfnymfSRN09SBNjKZw), [DSPLY](https://open.spotify.com/artist/7vnJXgoK7YbuZZRqdKjefw) | [BITCH AM AT](https://open.spotify.com/album/60WojuaRTfGblDC4pX6xFc) | 2:13 |
 | 7 | [Shipment](https://open.spotify.com/track/2lRKDTSfbgfDW4nt3SWgfF) | [Deep Kalsi](https://open.spotify.com/artist/23S2w22FCwFjDBBn7qdB2I), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C), [DRJ Sohail](https://open.spotify.com/artist/1cMmtYmcMDsPOrEu7uVJYN) | [Shipment](https://open.spotify.com/album/3C9aHoOtjcMd4NvLIZItN2) | 2:16 |
 | 8 | [All Yours](https://open.spotify.com/track/0AbjMsksrmJrxr5fC35pO9) | [Harp Multani](https://open.spotify.com/artist/6Jq7Ie4zIjf7R4pNA4k4Ib), [Karam Brar](https://open.spotify.com/artist/0XgLBVrCtSZJPvb0s33e79), [JSD Music](https://open.spotify.com/artist/6sqrEWUnr5MDsDzrmjXT96) | [All Yours](https://open.spotify.com/album/2PfSUe4Qgll2qztJtuM3AH) | 2:35 |
-| 9 | [Gym De Shokeen 2](https://open.spotify.com/track/2btGjzyyfMrt7dhiE7KqBy) | [Bhalwaan](https://open.spotify.com/artist/0B6Y4zlto5DbCaU6eNLvXi), [Saab Goraya](https://open.spotify.com/artist/7nqFt6qdbyBX9o9ZFXfCTB) | [Gym De Shokeen 2](https://open.spotify.com/album/1KNLDT5MfVWYDvyEG6XjaB) | 5:38 |
+| 9 | [Gym De Shokeen 2](https://open.spotify.com/track/2btGjzyyfMrt7dhiE7KqBy) | [Bhallwaan](https://open.spotify.com/artist/3FxW0tkjSNrYa2RvxqNKMG), [Saab Goraya](https://open.spotify.com/artist/7nqFt6qdbyBX9o9ZFXfCTB) | [Gym De Shokeen 2](https://open.spotify.com/album/1KNLDT5MfVWYDvyEG6XjaB) | 5:38 |
 | 10 | [Primo](https://open.spotify.com/track/44bD6KrP1YyZRANdWrbPz4) | [Sagar Thind](https://open.spotify.com/artist/43FeXDq2NnxskazfjydVSP), [Vabc](https://open.spotify.com/artist/66yeAFjhaTSbGw5ZHCKxEP) | [Primo](https://open.spotify.com/album/1kK7gH1g0C67ND5tbZ0U4D) | 2:51 |
 | 11 | [RIP](https://open.spotify.com/track/3OMzjr15qtkAEW6fZN9y4B) | [Amrit Badesha](https://open.spotify.com/artist/5dumXbVlVHNY5ntMYCPiP9), [Kinda Pooni](https://open.spotify.com/artist/5YvDxFuUsDHuIMt3rR7aKu), [Vansh DX](https://open.spotify.com/artist/2sO8oRYnSaKKBRjavZRpE3) | [RIP](https://open.spotify.com/album/0UKqAaZccOpVbSqZ4YaA1t) | 2:31 |
 | 12 | [Anti Sara Shehar](https://open.spotify.com/track/5itbN7gWchDkIe9ZcwkO89) | [Hazi Sidhu](https://open.spotify.com/artist/3CZzYirefdCsfb77wmS6Ul), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj), [Karam Brar](https://open.spotify.com/artist/0XgLBVrCtSZJPvb0s33e79) | [Anti Sara Shehar](https://open.spotify.com/album/3tXONnehLFSchs7CfwBWCH) | 2:29 |

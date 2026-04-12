@@ -1,6 +1,6 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 839294,
+  "num_followers": 839404,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
@@ -439,6 +439,22 @@
     {
       "added_at": "2026-03-19 20:00:23",
       "album": {
+        "name": "The Rabbit That Hunts Tigers",
+        "url": "https://open.spotify.com/album/4jH5VMBiLa3LqYASv9QQWK"
+      },
+      "artists": [
+        {
+          "name": "Yin Yin",
+          "url": "https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2"
+        }
+      ],
+      "duration_ms": 308301,
+      "name": "One Inch Punch",
+      "url": "https://open.spotify.com/track/6BdpQ5lDOUNbaER31ajumE"
+    },
+    {
+      "added_at": "2026-03-19 20:00:23",
+      "album": {
         "name": "Lou's Tune",
         "url": "https://open.spotify.com/album/7qjmrPRpj4ppzd6rQRLj0A"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 102634,
       "name": "Lou's Tune",
       "url": "https://open.spotify.com/track/5crkOzXbUZ5SOSkSat7g4T"
-    },
-    {
-      "added_at": "2026-03-19 20:00:23",
-      "album": {
-        "name": "The Rabbit That Hunts Tigers",
-        "url": "https://open.spotify.com/album/4jH5VMBiLa3LqYASv9QQWK"
-      },
-      "artists": [
-        {
-          "name": "Yin Yin",
-          "url": "https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2"
-        }
-      ],
-      "duration_ms": 308301,
-      "name": "One Inch Punch",
-      "url": "https://open.spotify.com/track/6BdpQ5lDOUNbaER31ajumE"
     },
     {
       "added_at": "2026-03-19 20:00:23",
@@ -591,22 +591,6 @@
     {
       "added_at": "2026-03-19 20:00:23",
       "album": {
-        "name": "If My Wife New I'd Be Dead (Deluxe)",
-        "url": "https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh"
-      },
-      "artists": [
-        {
-          "name": "CMAT",
-          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
-        }
-      ],
-      "duration_ms": 244693,
-      "name": "I Don't Really Care for You",
-      "url": "https://open.spotify.com/track/38x9U1nlxCblWCmu6g4mPy"
-    },
-    {
-      "added_at": "2026-03-19 20:00:23",
-      "album": {
         "name": "Eddie",
         "url": "https://open.spotify.com/album/5FTrv0ut24vm76hx1WuWSN"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 290893,
       "name": "Out Of Love",
       "url": "https://open.spotify.com/track/3hNywmR93yvj68y2zl8mRt"
+    },
+    {
+      "added_at": "2026-03-19 20:00:23",
+      "album": {
+        "name": "If My Wife New I'd Be Dead (Deluxe)",
+        "url": "https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "duration_ms": 244693,
+      "name": "I Don't Really Care for You",
+      "url": "https://open.spotify.com/track/38x9U1nlxCblWCmu6g4mPy"
     },
     {
       "added_at": "2026-03-19 20:00:23",
@@ -695,18 +695,18 @@
     {
       "added_at": "2026-03-19 20:00:23",
       "album": {
-        "name": "A Light for Attracting Attention",
-        "url": "https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi"
+        "name": "Bar Mediterraneo",
+        "url": "https://open.spotify.com/album/1PBw30oj8VdileUpLUzhhS"
       },
       "artists": [
         {
-          "name": "The Smile",
-          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
         }
       ],
-      "duration_ms": 219727,
-      "name": "The Smoke",
-      "url": "https://open.spotify.com/track/1usvtV2D0EBPb7Rk1l0PwQ"
+      "duration_ms": 200135,
+      "name": "Praja Magia",
+      "url": "https://open.spotify.com/track/1E0DgbwpT4sfkrbulNpxi4"
     },
     {
       "added_at": "2026-03-19 20:00:23",
@@ -727,18 +727,18 @@
     {
       "added_at": "2026-03-19 20:00:23",
       "album": {
-        "name": "Bar Mediterraneo",
-        "url": "https://open.spotify.com/album/1PBw30oj8VdileUpLUzhhS"
+        "name": "A Light for Attracting Attention",
+        "url": "https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi"
       },
       "artists": [
         {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+          "name": "The Smile",
+          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
         }
       ],
-      "duration_ms": 200135,
-      "name": "Praja Magia",
-      "url": "https://open.spotify.com/track/1E0DgbwpT4sfkrbulNpxi4"
+      "duration_ms": 219727,
+      "name": "The Smoke",
+      "url": "https://open.spotify.com/track/1usvtV2D0EBPb7Rk1l0PwQ"
     },
     {
       "added_at": "2026-03-19 20:00:23",
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-03-19 20:00:23",
       "album": {
-        "name": "Pronounced McGee",
-        "url": "https://open.spotify.com/album/25mNgv9kcDpET9UWcCxu16"
-      },
-      "artists": [
-        {
-          "name": "Mk.gee",
-          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
-        }
-      ],
-      "duration_ms": 310597,
-      "name": "You",
-      "url": "https://open.spotify.com/track/5qcwzdhDQjHjmu12gOLjY0"
-    },
-    {
-      "added_at": "2026-03-19 20:00:23",
-      "album": {
         "name": "Cheesin'",
         "url": "https://open.spotify.com/album/6VA0Ybh6uHkRpCf1pKhlzh"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 138000,
       "name": "Cheesin\u2019 (with Cautious Clay, Remi Wolf, Still Woozy, Sophie Meiers, Claud, Melanie Faye, & HXNS)",
       "url": "https://open.spotify.com/track/6lIRYe72fn1pf7TNqfI0ul"
+    },
+    {
+      "added_at": "2026-03-19 20:00:23",
+      "album": {
+        "name": "Pronounced McGee",
+        "url": "https://open.spotify.com/album/25mNgv9kcDpET9UWcCxu16"
+      },
+      "artists": [
+        {
+          "name": "Mk.gee",
+          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
+        }
+      ],
+      "duration_ms": 310597,
+      "name": "You",
+      "url": "https://open.spotify.com/track/5qcwzdhDQjHjmu12gOLjY0"
     },
     {
       "added_at": "2026-03-19 20:00:23",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2026-03-19 20:00:23",
       "album": {
-        "name": "Wiggle Room",
-        "url": "https://open.spotify.com/album/1r9A5sIVm8cLrU9oSH5jsW"
-      },
-      "artists": [
-        {
-          "name": "Drug Cabin",
-          "url": "https://open.spotify.com/artist/127gPdUYBwpTLUNdKX1MMk"
-        }
-      ],
-      "duration_ms": 147893,
-      "name": "Handsome",
-      "url": "https://open.spotify.com/track/4kJG95g177WS0WMq7yFqVX"
-    },
-    {
-      "added_at": "2026-03-19 20:00:23",
-      "album": {
         "name": "Hunt for the Wilderpeople (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2XvgNn4HiItRHFG5R8i3Tg"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 145881,
       "name": "Ocean Blue",
       "url": "https://open.spotify.com/track/5BzGvBwBL3y2WSGml0rkLH"
+    },
+    {
+      "added_at": "2026-03-19 20:00:23",
+      "album": {
+        "name": "Wiggle Room",
+        "url": "https://open.spotify.com/album/1r9A5sIVm8cLrU9oSH5jsW"
+      },
+      "artists": [
+        {
+          "name": "Drug Cabin",
+          "url": "https://open.spotify.com/artist/127gPdUYBwpTLUNdKX1MMk"
+        }
+      ],
+      "duration_ms": 147893,
+      "name": "Handsome",
+      "url": "https://open.spotify.com/track/4kJG95g177WS0WMq7yFqVX"
     },
     {
       "added_at": "2026-03-19 20:00:23",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2026-03-19 20:00:23",
       "album": {
-        "name": "Picture Frame",
-        "url": "https://open.spotify.com/album/6LaTToJMRmCo1Wtxb2NyhU"
-      },
-      "artists": [
-        {
-          "name": "Hector Morlet",
-          "url": "https://open.spotify.com/artist/1xgCILfNVWEJx7EBN1rC2A"
-        }
-      ],
-      "duration_ms": 195276,
-      "name": "Picture Frame",
-      "url": "https://open.spotify.com/track/0DkZynmdHveUtwaas1Xj2m"
-    },
-    {
-      "added_at": "2026-03-19 20:00:23",
-      "album": {
         "name": "Open Season",
         "url": "https://open.spotify.com/album/5z5qxQggmOBwSDjTOy77L6"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 240453,
       "name": "One Evening - Remix By VV",
       "url": "https://open.spotify.com/track/60EtNIlUeObRr4eCQ5ex3d"
+    },
+    {
+      "added_at": "2026-03-19 20:00:23",
+      "album": {
+        "name": "Picture Frame",
+        "url": "https://open.spotify.com/album/6LaTToJMRmCo1Wtxb2NyhU"
+      },
+      "artists": [
+        {
+          "name": "Hector Morlet",
+          "url": "https://open.spotify.com/artist/1xgCILfNVWEJx7EBN1rC2A"
+        }
+      ],
+      "duration_ms": 195276,
+      "name": "Picture Frame",
+      "url": "https://open.spotify.com/track/0DkZynmdHveUtwaas1Xj2m"
     },
     {
       "added_at": "2026-03-19 20:00:23",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2026-03-19 20:00:23",
       "album": {
-        "name": "Tako Tsubo (Extended)",
-        "url": "https://open.spotify.com/album/5TzIufkUkIyyDmWse36b9p"
-      },
-      "artists": [
-        {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
-        }
-      ],
-      "duration_ms": 268179,
-      "name": "Off to the Side",
-      "url": "https://open.spotify.com/track/23I5jM64mGFDmYAUpcYBO4"
-    },
-    {
-      "added_at": "2026-03-19 20:00:23",
-      "album": {
         "name": "S.O.L. EP",
         "url": "https://open.spotify.com/album/2dSeTSbKTzauej8icTIzdk"
       },
@@ -1927,6 +1911,38 @@
       "duration_ms": 349026,
       "name": "S.O.L.",
       "url": "https://open.spotify.com/track/2FkLjsFnK6H9iuoXNLGfNy"
+    },
+    {
+      "added_at": "2026-03-19 20:00:23",
+      "album": {
+        "name": "Tako Tsubo (Extended)",
+        "url": "https://open.spotify.com/album/5TzIufkUkIyyDmWse36b9p"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        }
+      ],
+      "duration_ms": 268179,
+      "name": "Off to the Side",
+      "url": "https://open.spotify.com/track/23I5jM64mGFDmYAUpcYBO4"
+    },
+    {
+      "added_at": "2026-03-19 20:00:23",
+      "album": {
+        "name": "TORNADO",
+        "url": "https://open.spotify.com/album/1u7lnVv0gqzo6TNSSvjojv"
+      },
+      "artists": [
+        {
+          "name": "FLEECE",
+          "url": "https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm"
+        }
+      ],
+      "duration_ms": 204817,
+      "name": "Where's My Beach Hat",
+      "url": "https://open.spotify.com/track/0W7ID3fBwiarBoHqETvlXh"
     },
     {
       "added_at": "2026-03-19 20:00:23",
@@ -1967,34 +1983,18 @@
     {
       "added_at": "2026-03-19 20:00:23",
       "album": {
-        "name": "TORNADO",
-        "url": "https://open.spotify.com/album/1u7lnVv0gqzo6TNSSvjojv"
+        "name": "Damn It All",
+        "url": "https://open.spotify.com/album/187FGJdmzkRYumZ8iasaVd"
       },
       "artists": [
         {
-          "name": "FLEECE",
-          "url": "https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm"
+          "name": "Rob Galbraith",
+          "url": "https://open.spotify.com/artist/4r5lB44cSZOqpgx7i9iHUc"
         }
       ],
-      "duration_ms": 204817,
-      "name": "Where's My Beach Hat",
-      "url": "https://open.spotify.com/track/0W7ID3fBwiarBoHqETvlXh"
-    },
-    {
-      "added_at": "2026-03-19 20:00:23",
-      "album": {
-        "name": "Maybe Later",
-        "url": "https://open.spotify.com/album/7yocoFhxAHU4mvE0anaPFm"
-      },
-      "artists": [
-        {
-          "name": "Neighbor Lady",
-          "url": "https://open.spotify.com/artist/5a6aoCNPAYj5AE6RbenOB6"
-        }
-      ],
-      "duration_ms": 210240,
-      "name": "Oh Honey",
-      "url": "https://open.spotify.com/track/4eDePvo9VfLNLmp8RcSAoy"
+      "duration_ms": 227600,
+      "name": "Tell Me With Your Eyes (Just Be You)",
+      "url": "https://open.spotify.com/track/0kO8fvAqoXIOLMybjJY108"
     }
   ],
   "unique_name": "Feel Good Dinner",

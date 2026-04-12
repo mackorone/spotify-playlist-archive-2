@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adbsAAAAAADkVXoz37mMwmnCRClKxpRK",
+  "snapshot_id": "adg9gAAAAABsNL7+aRAT58LA/t/rBxso",
   "tracks": [
     {
       "added_at": null,
@@ -479,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tom Petty And The Heartbreakers",
-        "url": "https://open.spotify.com/album/0JBy4lxBlQIxMZ8qPMIJER"
+        "name": "Damn The Torpedoes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 144026,
-      "name": "Anything That's Rock 'N' Roll",
-      "url": "https://open.spotify.com/track/1Un5JIygMYuV5OLVHERTQY"
+      "duration_ms": 352413,
+      "name": "Louisiana Rain",
+      "url": "https://open.spotify.com/track/5dfg1Piej2rQ0jwmwxo3kF"
     },
     {
       "added_at": null,
@@ -511,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Damn The Torpedoes (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
+        "name": "Tom Petty And The Heartbreakers",
+        "url": "https://open.spotify.com/album/0JBy4lxBlQIxMZ8qPMIJER"
       },
       "artists": [
         {
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 352413,
-      "name": "Louisiana Rain",
-      "url": "https://open.spotify.com/track/5dfg1Piej2rQ0jwmwxo3kF"
+      "duration_ms": 144026,
+      "name": "Anything That's Rock 'N' Roll",
+      "url": "https://open.spotify.com/track/1Un5JIygMYuV5OLVHERTQY"
     },
     {
       "added_at": null,
@@ -534,15 +534,11 @@
         {
           "name": "Tom Petty and the Heartbreakers",
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        },
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 260972,
-      "name": "Insider",
-      "url": "https://open.spotify.com/track/6I9mM7Q3YXKYSppopUuCQN"
+      "duration_ms": 284093,
+      "name": "Something Big",
+      "url": "https://open.spotify.com/track/4baFF50eIx6z3xz7HCL7DF"
     },
     {
       "added_at": null,
@@ -602,11 +598,15 @@
         {
           "name": "Tom Petty and the Heartbreakers",
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        },
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 284093,
-      "name": "Something Big",
-      "url": "https://open.spotify.com/track/4baFF50eIx6z3xz7HCL7DF"
+      "duration_ms": 260972,
+      "name": "Insider",
+      "url": "https://open.spotify.com/track/6I9mM7Q3YXKYSppopUuCQN"
     },
     {
       "added_at": null,
@@ -643,6 +643,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hypnotic Eye",
+        "url": "https://open.spotify.com/album/55dSc0Ry199sq95DwnHFFa"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 251853,
+      "name": "U Get Me High",
+      "url": "https://open.spotify.com/track/2rlhuKi3o7oySloqWw5TUa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hard Promises",
+        "url": "https://open.spotify.com/album/5OO8oMupaMhIZhMrEM8ja3"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 237440,
+      "name": "Nightwatchman",
+      "url": "https://open.spotify.com/track/7xXplDt8DI9L2kmZvVSzZ7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Concert For George (Live)",
         "url": "https://open.spotify.com/album/6EvU9hFh2ZPeumNOFy1dAu"
       },
@@ -667,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hard Promises",
-        "url": "https://open.spotify.com/album/5OO8oMupaMhIZhMrEM8ja3"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 237440,
-      "name": "Nightwatchman",
-      "url": "https://open.spotify.com/track/7xXplDt8DI9L2kmZvVSzZ7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pack Up The Plantation: Live!",
         "url": "https://open.spotify.com/album/5HutXQpnb17yRXVnrolKR0"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 145201,
       "name": "Needles And Pins - Live At The The Forum/1981",
       "url": "https://open.spotify.com/track/6Alshe3WYMVZRbYWgijYWT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hypnotic Eye",
-        "url": "https://open.spotify.com/album/55dSc0Ry199sq95DwnHFFa"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 251853,
-      "name": "U Get Me High",
-      "url": "https://open.spotify.com/track/2rlhuKi3o7oySloqWw5TUa"
     },
     {
       "added_at": null,
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 183400,
-      "name": "The Wild One, Forever",
-      "url": "https://open.spotify.com/track/6I3JRwx6jAF3wozmy6uiYW"
+      "duration_ms": 183426,
+      "name": "Mystery Man",
+      "url": "https://open.spotify.com/track/08aq0woLggpJoUYep1XgN5"
     },
     {
       "added_at": null,
@@ -815,8 +815,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nobody's Children",
-        "url": "https://open.spotify.com/album/3xcXoGZnv9c6ubjkF9Ehio"
+        "name": "Angel Dream (Songs and Music From The Motion Picture \"She\u2019s The One\")",
+        "url": "https://open.spotify.com/album/0sX76SUnbgcKtdZcJ9kJwd"
       },
       "artists": [
         {
@@ -824,9 +824,9 @@
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 209813,
-      "name": "Waiting for Tonight - 2015 Remaster",
-      "url": "https://open.spotify.com/track/0lBy4mnED2JLmdSxMyG37f"
+      "duration_ms": 215802,
+      "name": "Thirteen Days",
+      "url": "https://open.spotify.com/track/5khakanIneOQaelzgiG7LK"
     }
   ],
   "unique_name": "This Is Tom Petty and the Heartbreakers",

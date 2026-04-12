@@ -1339,6 +1339,32 @@
     },
     {
       "album": {
+        "name": "Live It Up (Official Song 2018 FIFA World Cup Russia)",
+        "url": "https://open.spotify.com/album/1oxKlNFmKZ4heJRiBP0Sny"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Will Smith",
+          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
+        },
+        {
+          "name": "Era Istrefi",
+          "url": "https://open.spotify.com/artist/4poL7YCSkG7kMnWjAdDU91"
+        }
+      ],
+      "date_added": "2026-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207977,
+      "name": "Live It Up - Official Song 2018 FIFA World Cup Russia",
+      "url": "https://open.spotify.com/track/4DnHUy01jEA4b5ydC3HgsT"
+    },
+    {
+      "album": {
         "name": "Happy Place",
         "url": "https://open.spotify.com/album/2GF4liPUbApWEsVd4mTlpR"
       },

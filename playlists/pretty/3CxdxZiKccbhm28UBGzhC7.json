@@ -6,7 +6,7 @@
     "name": "Evan",
     "url": "https://open.spotify.com/user/sn313e4ludhgj8lelf5kmxk1l"
   },
-  "snapshot_id": "AAAA4YQWTyOrrALaxIW61BGELryS+YAB",
+  "snapshot_id": "AAAA45RzGPtbPDR/2im/uefI3A271f9b",
   "tracks": [
     {
       "added_at": "2021-12-01 17:59:34",
@@ -1883,6 +1883,38 @@
       "duration_ms": 200341,
       "name": "hold on, we're going home by alex",
       "url": "https://open.spotify.com/episode/6Zut0QtyPNItirwEliKmzq"
+    },
+    {
+      "added_at": "2026-04-11 16:44:05",
+      "album": {
+        "name": "Heads Up",
+        "url": "https://open.spotify.com/album/18REqENWyDEdkdERylgdgw"
+      },
+      "artists": [
+        {
+          "name": "Warpaint",
+          "url": "https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO"
+        }
+      ],
+      "duration_ms": 256440,
+      "name": "New Song",
+      "url": "https://open.spotify.com/track/5XHCdXhFUpWMp5lYgpfbXT"
+    },
+    {
+      "added_at": "2026-04-11 16:56:17",
+      "album": {
+        "name": "Off & On",
+        "url": "https://open.spotify.com/album/3aCbx4OWv5srNk0RkDAqMO"
+      },
+      "artists": [
+        {
+          "name": "Findlay",
+          "url": "https://open.spotify.com/artist/12XBVoWq6M6etLxxe1TQWn"
+        }
+      ],
+      "duration_ms": 167813,
+      "name": "Off & On",
+      "url": "https://open.spotify.com/track/2viPnE2LOAPQEVdF3ocNwM"
     }
   ],
   "unique_name": "white girl indie",

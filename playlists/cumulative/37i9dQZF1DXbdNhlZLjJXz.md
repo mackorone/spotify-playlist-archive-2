@@ -2,9 +2,9 @@
 
 ### [hot girl agenda 🔥 🚒](https://open.spotify.com/playlist/37i9dQZF1DXbdNhlZLjJXz)
 
-> you got a sports car?
+> She's actually kinda famous\. Welcome to Slayyyyter summer
 
-339 songs - 18 hr 23 min
+341 songs - 18 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Bad Liar](https://open.spotify.com/track/2fZQIJew3nkNe99s2PKzul) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Bad Liar](https://open.spotify.com/album/1iuzMKNzVo8HJ67eW32YMr) | 3:34 | 2023-02-02 | 2023-07-07 |
 | [Bang Bang](https://open.spotify.com/track/7zrYKlgYQv1ELz7LGyjTd1) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Bang Bang](https://open.spotify.com/album/64BkZx3UGRbTlF3VUMxUCi) | 3:19 | 2024-09-06 | 2025-08-16 |
 | [Bang Bang](https://open.spotify.com/track/0puf9yIluy9W0vpMEUoAnN) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Sweet Talker \(Deluxe Version\)](https://open.spotify.com/album/2rDIivxBafNKpgRqlzIRSb) | 3:19 | 2023-02-02 | 2024-04-19 |
-| [Bathroom Bitch](https://open.spotify.com/track/6BwWW3DNze0gEjetSx5vJ8) | [HOLYCHILD](https://open.spotify.com/artist/4itksv8jgpEcvRvZ7lDalQ) | [Bathroom Bitch](https://open.spotify.com/album/1EHRwnytbAt7i6WXsnNkAP) | 2:49 | 2025-08-15 |  |
+| [Bathroom Bitch](https://open.spotify.com/track/6BwWW3DNze0gEjetSx5vJ8) | [HOLYCHILD](https://open.spotify.com/artist/4itksv8jgpEcvRvZ7lDalQ) | [Bathroom Bitch](https://open.spotify.com/album/1EHRwnytbAt7i6WXsnNkAP) | 2:49 | 2025-08-15 | 2026-04-12 |
 | [BEAT UP CHANEL$](https://open.spotify.com/track/10wJ35whDsMVQ04fhkR5QS) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [BEAT UP CHANEL$](https://open.spotify.com/album/20LgrvecBXfayOLkjbrEIU) | 3:18 | 2025-08-08 |  |
 | [Beauty And A Beat](https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Believe](https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN) | 3:47 | 2023-07-06 |  |
 | [BedRock](https://open.spotify.com/track/3iL2l5gUqyPS6vDwJFgJTR) | [Young Money](https://open.spotify.com/artist/5OrB6Jhhrl9y2PK0pSV4VP), [Lloyd](https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9) | [We Are Young Money](https://open.spotify.com/album/0hDy52fqKwb2ZIjyNXGxan) | 4:48 | 2022-01-12 | 2023-02-03 |
@@ -173,6 +173,7 @@
 | [I Only Smoke When I Drink](https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [I Only Smoke When I Drink](https://open.spotify.com/album/05iJvxOa8h8GjGPe5JnvDG) | 3:18 | 2024-10-04 | 2025-11-01 |
 | [I Wanna Go](https://open.spotify.com/track/3gkQyMVLWI2A2BELNOv87g) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [I Wanna Go Remixes](https://open.spotify.com/album/5Z5H9BGNuLB9Kbj2P6oOBj) | 3:30 | 2025-02-04 |  |
 | [I Wanna Thank Me \(feat\. Niecy Nash\)](https://open.spotify.com/track/6deUyNbUOrWDytrOtqehmr) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Niecy Nash](https://open.spotify.com/artist/2hK8Hdnk56sxGMswzFbXaD) | [I Wanna Thank Me \(feat\. Niecy Nash\)](https://open.spotify.com/album/0XWBLjX39G0QsoItK55PmO) | 2:23 | 2024-06-28 | 2024-07-21 |
+| [I'M ACTUALLY KINDA FAMOUS](https://open.spotify.com/track/0FnvAn6pU9CjIUaBH82tCO) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [WOR$T GIRL IN AMERICA](https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA) | 2:36 | 2026-04-11 |  |
 | [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 | 2023-02-02 | 2024-09-07 |
 | [IF YOU GO DOWN \(I'M GOIN' DOWN TOO\)](https://open.spotify.com/track/1jX9wlAgVkAl0fCZqkCI73) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 2:46 | 2023-02-02 | 2023-12-27 |
 | [Immaculate](https://open.spotify.com/track/21XJd63KiArnOgo39sJezL) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Immaculate](https://open.spotify.com/album/4O1qp17rGimPUls9c54bS2) | 2:34 | 2024-10-25 | 2025-09-06 |
@@ -252,6 +253,7 @@
 | [Partition](https://open.spotify.com/track/2vPTtiR7x7T6Lr17CE2FAE) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Partition](https://open.spotify.com/album/1hq4Vrcbua3DDBLhuWFEVQ) | 5:19 | 2022-01-12 | 2023-02-03 |
 | [Pepas](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pepas](https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1) | 4:47 | 2023-02-02 | 2024-09-07 |
 | [PINK LIKE SUKI](https://open.spotify.com/track/75aKhlE0JTqaVuTsDDdtD3) | [Pebbles&TamTam](https://open.spotify.com/artist/2Bv1Fns7qP5fQrrGQRA3Of) | [PINK LIKE SUKI](https://open.spotify.com/album/1V25vUnBtkGB5EI0GqaMnB) | 2:30 | 2024-06-28 |  |
+| [PINKY UP](https://open.spotify.com/track/4KmkJjHTNlr1jFY56Lyz4E) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [PINKY UP](https://open.spotify.com/album/5tLy0MEMDVqiHKso6B4jnz) | 2:11 | 2026-04-11 |  |
 | [Players](https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Players](https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM) | 2:19 | 2023-02-02 |  |
 | [Potential Breakup Song](https://open.spotify.com/track/2ieu0FHqTpBUrMoCFVL3cb) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Potential Breakup Song](https://open.spotify.com/album/7GBwVFeuN4IJcsuoYJKlEl) | 3:38 | 2022-01-12 | 2022-10-13 |
 | [Potential Breakup Song](https://open.spotify.com/track/6fyzsHCwnt8oL4XgGIMrdN) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Potential Breakup Song](https://open.spotify.com/album/49mFTJkOKu0labagCQyURy) | 3:38 | 2022-01-12 | 2023-02-03 |
@@ -293,7 +295,7 @@
 | [Somethin' Bad \(with Carrie Underwood\) \- Duet with Carrie Underwood \[Album\]](https://open.spotify.com/track/6s9m5J92By7jii22Q2XtY2) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Platinum](https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw) | 2:49 | 2023-02-02 | 2023-07-07 |
 | [SOS](https://open.spotify.com/track/30cSNer6TV8x2utjULVeQ5) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [A Girl Like Me](https://open.spotify.com/album/2JdjS6jjOml7nt7Yjo0nnh) | 3:58 | 2022-01-12 | 2025-05-03 |
 | [SOS](https://open.spotify.com/track/4S5b3wwIXpVNvY2jeIQdKu) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [A Girl Like Me](https://open.spotify.com/album/1F0HfWg9fdLDdeIfh9CnjU) | 3:58 | 2022-01-12 | 2022-07-29 |
-| [SPEAKERS](https://open.spotify.com/track/1A9xerPyv4MQJBpCvAqSeD) | [CARLA](https://open.spotify.com/artist/3dBpGX6fuWAYxWhDspbVbQ) | [SPEAKERS](https://open.spotify.com/album/1jLXo9Y5IH2C9fnnnzdN84) | 2:01 | 2025-12-08 |  |
+| [SPEAKERS](https://open.spotify.com/track/1A9xerPyv4MQJBpCvAqSeD) | [CARLA](https://open.spotify.com/artist/3dBpGX6fuWAYxWhDspbVbQ) | [SPEAKERS](https://open.spotify.com/album/1jLXo9Y5IH2C9fnnnzdN84) | 2:01 | 2025-12-08 | 2026-04-12 |
 | [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/album/6MLx7SZjcmMHNUJc1Tcir0) | 1:57 | 2023-07-21 | 2024-08-01 |
 | [Sports car](https://open.spotify.com/track/2zOmS55knKWSgScYPTNmGQ) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Sports car](https://open.spotify.com/album/1fOTqAU8mRMHlmOaHMqsge) | 2:45 | 2025-09-08 |  |
 | [Spring breakers featuring kesha](https://open.spotify.com/track/6iiofFfntEWeKApZqX18WD) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Spring breakers featuring kesha](https://open.spotify.com/album/0qsp9ye0GPLLEdey7UAzaN) | 2:22 | 2024-10-15 | 2025-04-29 |

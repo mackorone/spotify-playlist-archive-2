@@ -56002,12 +56002,12 @@
       },
       "artists": [
         {
-          "name": "Billy Dans",
-          "url": "https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW"
-        },
-        {
           "name": "Mart Hoogkamer",
           "url": "https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa"
+        },
+        {
+          "name": "Billy Dans",
+          "url": "https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW"
         }
       ],
       "date_added": "2026-04-09",
@@ -84788,7 +84788,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 186071,
-      "name": "La vida loca",
+      "name": "La Vida Loca",
       "url": "https://open.spotify.com/track/74vHwfc0huNsTubsZMqtj4"
     },
     {

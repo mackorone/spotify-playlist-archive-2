@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Adekunle Gold & Olamide, Johnny Drille,   FIDO, Jae5, Teddy Swims and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,821 likes - 53 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,981 likes - 53 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 15 | [dey my body](https://open.spotify.com/track/1ZiemYFTvNJE4GGNn84e6Q) | [activ.boizzz](https://open.spotify.com/artist/3M4rkbZStvMavZQt8lElw2), [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE), [Danpapa GTA](https://open.spotify.com/artist/3EC3itx7VHQg0KYhuPsp5O) | [dey my body](https://open.spotify.com/album/7xNxunaFO8UC2mtTK1EZOa) | 2:32 |
 | 16 | [Doucement](https://open.spotify.com/track/5oooP3k9wgJPSi1VL31J6Q) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV), [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Doucement](https://open.spotify.com/album/5t3kZ84tS3zxidUwy5qZaf) | 3:47 |
 | 17 | [I Do](https://open.spotify.com/track/69OAjLMZY04TEhJLLhNwfC) | [Eni](https://open.spotify.com/artist/4ouEO1smffj3blcRy4nTed), [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [I Do](https://open.spotify.com/album/5K7ZRAFpIDS1YShqGhf7I3) | 3:22 |
-| 18 | [CC](https://open.spotify.com/track/3oRfAVFj4sazro06ePnXNe) | [TÖME](https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX), [Alpha P](https://open.spotify.com/artist/5Q64QD30Oty9M2veg8l3un) | [CC](https://open.spotify.com/album/0d05eIekJoVsraIkT9VqCM) | 2:16 |
+| 18 | [CC](https://open.spotify.com/track/3oRfAVFj4sazro06ePnXNe) | [TÖME](https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX), [Alpha P](https://open.spotify.com/artist/3dUPwMGYAsymFv80wkqEKl) | [CC](https://open.spotify.com/album/0d05eIekJoVsraIkT9VqCM) | 2:16 |
 | 19 | [My Mess](https://open.spotify.com/track/5p3Jpxg9clWBDLy9kdD6CY) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [My Mess](https://open.spotify.com/album/6SJIgDyt7PDWKtlFP77VLu) | 3:11 |
 | 20 | [Far Away](https://open.spotify.com/track/7pYVntcKEQ7NsUHDrBoK9W) | [Kwamzy](https://open.spotify.com/artist/3v5aYUzyeGmqJGpIxHmhEv), [Kususa](https://open.spotify.com/artist/4UcrwfAI09CLZ7aBXMiucJ), [Thuto The Human](https://open.spotify.com/artist/5gAHEecJcLAR9qtLcaiVfj), [LUDWE](https://open.spotify.com/artist/3ZB66mwY95nT7DOmd19LP5) | [Far Away](https://open.spotify.com/album/0MWSfiZvwBy6JYhEEWZ21m) | 6:06 |
 | 21 | [Another Day](https://open.spotify.com/track/3dItjGInuTViNOUEDZSdmu) | [SEHB](https://open.spotify.com/artist/2N8j4lbdTWm0mcvq7qk4Xp) | [Another Day](https://open.spotify.com/album/0iQNsB8GQ7b96Za3lvqZsU) | 3:28 |

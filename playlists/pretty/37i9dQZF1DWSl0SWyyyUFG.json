@@ -1,6 +1,6 @@
 {
   "description": "Recordando a los \u00eddolos de la m\u00fasica de banda. COSME TADEO en portada.",
-  "num_followers": 425202,
+  "num_followers": 425421,
   "original_name": "Banda: Viejitas Pero Bonitas",
   "owner": {
     "name": "Spotify",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
+        "name": "Cosas De La Vida",
+        "url": "https://open.spotify.com/album/1w5pqUdSrGOMgUbVVfb8Ri"
+      },
+      "artists": [
+        {
+          "name": "Banda Tierra Blanca",
+          "url": "https://open.spotify.com/artist/1Y8dOnSKslODbDNr5DmTuB"
+        }
+      ],
+      "duration_ms": 200053,
+      "name": "Juro Por Dios",
+      "url": "https://open.spotify.com/track/6osud8uV5xJV9eODR6del5"
+    },
+    {
+      "added_at": "2026-02-09 16:44:15",
+      "album": {
         "name": "Chalino S\u00e1nchez con Banda Brava",
         "url": "https://open.spotify.com/album/4GmmvkdzlwP5TDac2be0hK"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 212857,
       "name": "Nieves De Enero",
       "url": "https://open.spotify.com/track/1s0Jzgg7S6yR4PAvmJOSfB"
-    },
-    {
-      "added_at": "2026-02-09 16:44:15",
-      "album": {
-        "name": "Cosas De La Vida",
-        "url": "https://open.spotify.com/album/1w5pqUdSrGOMgUbVVfb8Ri"
-      },
-      "artists": [
-        {
-          "name": "Banda Tierra Blanca",
-          "url": "https://open.spotify.com/artist/1Y8dOnSKslODbDNr5DmTuB"
-        }
-      ],
-      "duration_ms": 200053,
-      "name": "Juro Por Dios",
-      "url": "https://open.spotify.com/track/6osud8uV5xJV9eODR6del5"
     },
     {
       "added_at": "2026-02-09 16:44:15",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
-        "name": "Chiquitita",
-        "url": "https://open.spotify.com/album/6TpXaOqDOfQgvItf3Fe0v5"
-      },
-      "artists": [
-        {
-          "name": "Banda Brava",
-          "url": "https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk"
-        }
-      ],
-      "duration_ms": 175995,
-      "name": "El Baile Nuevo",
-      "url": "https://open.spotify.com/track/7cG8NhUwc1NhxxcmIIiWbJ"
-    },
-    {
-      "added_at": "2026-02-09 16:44:15",
-      "album": {
         "name": "M\u00fasica Rom\u00e1ntica",
         "url": "https://open.spotify.com/album/67rnAlCx3BKN52eyACQKmD"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 134186,
       "name": "Estrellita Marinera",
       "url": "https://open.spotify.com/track/0NatF9wNvUjWVOVGaYKDuf"
+    },
+    {
+      "added_at": "2026-02-09 16:44:15",
+      "album": {
+        "name": "Chiquitita",
+        "url": "https://open.spotify.com/album/6TpXaOqDOfQgvItf3Fe0v5"
+      },
+      "artists": [
+        {
+          "name": "Banda Brava",
+          "url": "https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk"
+        }
+      ],
+      "duration_ms": 175995,
+      "name": "El Baile Nuevo",
+      "url": "https://open.spotify.com/track/7cG8NhUwc1NhxxcmIIiWbJ"
     },
     {
       "added_at": "2026-02-09 16:44:15",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
-        "name": "Cada Amanecer",
-        "url": "https://open.spotify.com/album/71OF2FGR7cCkrrwvHrOZmf"
-      },
-      "artists": [
-        {
-          "name": "Banda La Coste\u00f1a",
-          "url": "https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7"
-        }
-      ],
-      "duration_ms": 155746,
-      "name": "Animas Que No Amanezca",
-      "url": "https://open.spotify.com/track/2eHAZVZggELJy1iTWJiMaq"
-    },
-    {
-      "added_at": "2026-02-09 16:44:15",
-      "album": {
         "name": "M\u00fasica Rom\u00e1ntica",
         "url": "https://open.spotify.com/album/67rnAlCx3BKN52eyACQKmD"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 143426,
       "name": "Tus Desprecios",
       "url": "https://open.spotify.com/track/1uuGSnwSJOJsNW9iN4uskZ"
+    },
+    {
+      "added_at": "2026-02-09 16:44:15",
+      "album": {
+        "name": "Cada Amanecer",
+        "url": "https://open.spotify.com/album/71OF2FGR7cCkrrwvHrOZmf"
+      },
+      "artists": [
+        {
+          "name": "Banda La Coste\u00f1a",
+          "url": "https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7"
+        }
+      ],
+      "duration_ms": 155746,
+      "name": "Animas Que No Amanezca",
+      "url": "https://open.spotify.com/track/2eHAZVZggELJy1iTWJiMaq"
     },
     {
       "added_at": "2026-02-09 16:44:15",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
+        "name": "A Bailar De Caballito",
+        "url": "https://open.spotify.com/album/2rXbAorimO8C06RkqS2oq5"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 241382,
+      "name": "No Bailes De Caballito",
+      "url": "https://open.spotify.com/track/1yOLrH7nF0R7MWDuuva6va"
+    },
+    {
+      "added_at": "2026-02-09 16:44:15",
+      "album": {
         "name": "Cada Amanecer",
         "url": "https://open.spotify.com/album/71OF2FGR7cCkrrwvHrOZmf"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 179573,
       "name": "Sufriendo Por Ti",
       "url": "https://open.spotify.com/track/41zxFE1IROf6He43b0RwUd"
-    },
-    {
-      "added_at": "2026-02-09 16:44:15",
-      "album": {
-        "name": "Los 20 para Coleccionar",
-        "url": "https://open.spotify.com/album/61L7qffqpjWVCTbxjFS9QF"
-      },
-      "artists": [
-        {
-          "name": "Banda El Pueblito",
-          "url": "https://open.spotify.com/artist/15myS3NDS2iwVo2gyCl2rm"
-        }
-      ],
-      "duration_ms": 157520,
-      "name": "El Papalotito",
-      "url": "https://open.spotify.com/track/39TNrfFgNsQlSaVkMCW3Uv"
     },
     {
       "added_at": "2026-02-09 16:44:15",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
-        "name": "A Bailar De Caballito",
-        "url": "https://open.spotify.com/album/2rXbAorimO8C06RkqS2oq5"
+        "name": "Los 20 para Coleccionar",
+        "url": "https://open.spotify.com/album/61L7qffqpjWVCTbxjFS9QF"
       },
       "artists": [
         {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+          "name": "Banda El Pueblito",
+          "url": "https://open.spotify.com/artist/15myS3NDS2iwVo2gyCl2rm"
         }
       ],
-      "duration_ms": 241382,
-      "name": "No Bailes De Caballito",
-      "url": "https://open.spotify.com/track/1yOLrH7nF0R7MWDuuva6va"
+      "duration_ms": 157520,
+      "name": "El Papalotito",
+      "url": "https://open.spotify.com/track/39TNrfFgNsQlSaVkMCW3Uv"
     },
     {
       "added_at": "2026-02-09 16:44:15",
@@ -1655,18 +1655,18 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
-        "name": "Banda Cuisillos",
-        "url": "https://open.spotify.com/album/4ZC8tvvAKlOY0XCu3QLjgD"
+        "name": "Grupo El Mexicano",
+        "url": "https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8"
       },
       "artists": [
         {
-          "name": "Cuisillos De Arturo Macias",
-          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
         }
       ],
-      "duration_ms": 173429,
-      "name": "Como Sufro",
-      "url": "https://open.spotify.com/track/0GrltzfS9xVSjcEny6LxUi"
+      "duration_ms": 218267,
+      "name": "Feliz, Feliz",
+      "url": "https://open.spotify.com/track/6hFek9A3Xz4g1vgSYJBnzV"
     },
     {
       "added_at": "2026-02-09 16:44:15",
@@ -1687,18 +1687,18 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
-        "name": "Grupo El Mexicano",
-        "url": "https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8"
+        "name": "Banda Cuisillos",
+        "url": "https://open.spotify.com/album/4ZC8tvvAKlOY0XCu3QLjgD"
       },
       "artists": [
         {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+          "name": "Cuisillos De Arturo Macias",
+          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
         }
       ],
-      "duration_ms": 212746,
-      "name": "Ramito De Violetas",
-      "url": "https://open.spotify.com/track/5SiAusJizzxkKXy0oowWyK"
+      "duration_ms": 173429,
+      "name": "Como Sufro",
+      "url": "https://open.spotify.com/track/0GrltzfS9xVSjcEny6LxUi"
     },
     {
       "added_at": "2026-02-09 16:44:15",
@@ -1739,18 +1739,18 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
-        "name": "Evolution",
-        "url": "https://open.spotify.com/album/0bSO97EWemxZI9dyzq5IS3"
+        "name": "Grupo El Mexicano",
+        "url": "https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8"
       },
       "artists": [
         {
-          "name": "Banda Pelillos",
-          "url": "https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE"
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
         }
       ],
-      "duration_ms": 252213,
-      "name": "MI Vida Sin Ti",
-      "url": "https://open.spotify.com/track/7r7tEGlRGeeGsprdBIfBru"
+      "duration_ms": 212746,
+      "name": "Ramito De Violetas",
+      "url": "https://open.spotify.com/track/5SiAusJizzxkKXy0oowWyK"
     },
     {
       "added_at": "2026-02-09 16:44:15",
@@ -1771,18 +1771,18 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
-        "name": "Grupo El Mexicano",
-        "url": "https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8"
+        "name": "Evolution",
+        "url": "https://open.spotify.com/album/0bSO97EWemxZI9dyzq5IS3"
       },
       "artists": [
         {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+          "name": "Banda Pelillos",
+          "url": "https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE"
         }
       ],
-      "duration_ms": 218267,
-      "name": "Feliz, Feliz",
-      "url": "https://open.spotify.com/track/6hFek9A3Xz4g1vgSYJBnzV"
+      "duration_ms": 252213,
+      "name": "MI Vida Sin Ti",
+      "url": "https://open.spotify.com/track/7r7tEGlRGeeGsprdBIfBru"
     },
     {
       "added_at": "2026-02-09 16:44:15",
@@ -1819,18 +1819,18 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
-        "name": "El Ultimo Trago",
-        "url": "https://open.spotify.com/album/6OUv4N8H2dRSmuNXdOFnl3"
+        "name": "Grupo El Mexicano",
+        "url": "https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8"
       },
       "artists": [
         {
-          "name": "Banda Pelillos",
-          "url": "https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE"
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
         }
       ],
-      "duration_ms": 189387,
-      "name": "Frio De Aucencia",
-      "url": "https://open.spotify.com/track/3YxSPQh2jQgyxrLdB9tKqK"
+      "duration_ms": 208689,
+      "name": "La Bota",
+      "url": "https://open.spotify.com/track/3kUmCQhA8aFuKPYcZYNJ0X"
     },
     {
       "added_at": "2026-02-09 16:44:15",
@@ -1851,18 +1851,18 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
-        "name": "Grupo El Mexicano",
-        "url": "https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8"
+        "name": "El Ultimo Trago",
+        "url": "https://open.spotify.com/album/6OUv4N8H2dRSmuNXdOFnl3"
       },
       "artists": [
         {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+          "name": "Banda Pelillos",
+          "url": "https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE"
         }
       ],
-      "duration_ms": 208689,
-      "name": "La Bota",
-      "url": "https://open.spotify.com/track/3kUmCQhA8aFuKPYcZYNJ0X"
+      "duration_ms": 189387,
+      "name": "Frio De Aucencia",
+      "url": "https://open.spotify.com/track/3YxSPQh2jQgyxrLdB9tKqK"
     },
     {
       "added_at": "2026-02-09 16:44:15",

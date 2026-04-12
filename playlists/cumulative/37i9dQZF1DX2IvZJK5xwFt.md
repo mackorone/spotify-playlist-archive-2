@@ -2,7 +2,7 @@
 
 ### [Just Rock!](https://open.spotify.com/playlist/37i9dQZF1DX2IvZJK5xwFt)
 
-> Only the best rock in the world\. Cover: Megadeth
+> Only the best rock in the world\. Cover: Måneskin
 
 1,084 songs - 2 day 18 hr 57 min
 

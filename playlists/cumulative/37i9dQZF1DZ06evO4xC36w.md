@@ -4,7 +4,7 @@
 
 > This is Joan Sebastian\. The essential tracks, all in one playlist.
 
-84 songs - 4 hr 24 min
+85 songs - 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,8 +43,9 @@
 | [La Mamá de los Pollitos](https://open.spotify.com/track/75Jq9WYY1EzcBsc8pPf3eD) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joyas Musicales, Vol\. 3: La Mamá de los Pollitos](https://open.spotify.com/album/3LtM9PLqBUT6nGSJy9wYyZ) | 2:48 | 2026-02-28 |  |
 | [La Prietita Que Yo Quiero](https://open.spotify.com/track/69O3Bdh6vBYY3cN3BwTH2Y) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Tambora, Vol\. 2](https://open.spotify.com/album/2p2eoxekXVfwJQM1wfqlcQ) | 2:49 | 2023-08-08 |  |
 | [La Ventana](https://open.spotify.com/track/1js1ErXLdhEICtjWGG7Q6i) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Colección De Oro: Tres Grandes Con Mariachi, Vol\. 1 – Joan Sebastian](https://open.spotify.com/album/4nT0tuBlMgoUMIHnAMI43G) | 2:25 | 2023-09-25 | 2023-11-11 |
+| [Llorar](https://open.spotify.com/track/0IGlHKJ7Q5LGynrnugorck) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian Con Mariachi](https://open.spotify.com/album/1jYXfyqPjptyl9xuiNu42Z) | 2:39 | 2026-04-12 |  |
 | [Llorar](https://open.spotify.com/track/7qjelT2ay3rsDk1cLWDJpE) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Colección De Oro, Vol\. 5: Mariachi](https://open.spotify.com/album/5nCibJfM8LvlVDRVk2GKIa) | 2:39 | 2023-08-08 | 2026-03-15 |
-| [Llorar \- En Vivo](https://open.spotify.com/track/3bD4YI30hd79nACiEuGRzY) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [El Último Jaripeo \(Vol.2/En Vivo\)](https://open.spotify.com/album/2ZDs6Wku34Kty8tZziFunQ) | 2:46 | 2026-03-15 |  |
+| [Llorar \- En Vivo](https://open.spotify.com/track/3bD4YI30hd79nACiEuGRzY) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [El Último Jaripeo \(Vol.2/En Vivo\)](https://open.spotify.com/album/2ZDs6Wku34Kty8tZziFunQ) | 2:46 | 2026-03-15 | 2026-04-12 |
 | [Llorar Entre Sombras \- Remastered 2024](https://open.spotify.com/track/1ZIwc6LT0i6AWVd6VWlFnp) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Norteño \(Remastered 2024\)](https://open.spotify.com/album/06npu0n45B88Rod6KW3mEJ) | 2:39 | 2024-09-29 | 2024-10-27 |
 | [Lobo Domesticado](https://open.spotify.com/track/1pPvMN2KipyEBsuP2VSLPR) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [15 Grandes Éxitos](https://open.spotify.com/album/2dTjktd31M87a9QseiJjDO) | 2:44 | 2023-08-08 | 2023-09-26 |
 | [Lobo Domesticado](https://open.spotify.com/track/7g4RwwhSrmX9iuNFE8wk2G) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [20 Éxitos Con Orquesta/Grupo](https://open.spotify.com/album/28imweMDfB3oyByj6MySDQ) | 2:44 | 2023-11-10 | 2026-02-23 |

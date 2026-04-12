@@ -1,12 +1,12 @@
 {
   "description": "This is Odeal. The essential tracks, all in one playlist.",
-  "num_followers": 13036,
+  "num_followers": 13064,
   "original_name": "This Is Odeal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adbsAAAAAACAjmsMrMWXRDrySIrtwE7g",
+  "snapshot_id": "adg9gAAAAAA2OXLM4ic+630/cdmGPAfR",
   "tracks": [
     {
       "added_at": null,
@@ -267,22 +267,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Holier (SHOWBIZ)",
-        "url": "https://open.spotify.com/album/3bj5fZFxgQrTOzc2deaNhG"
+        "name": "Space",
+        "url": "https://open.spotify.com/album/5Bhe2wkVUz1nOjPp2L80t9"
       },
       "artists": [
         {
-          "name": "Olli P",
-          "url": "https://open.spotify.com/artist/1sVeCzkWGI0b1Y8NyyAJCx"
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
         },
         {
           "name": "Odeal",
           "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        },
+        {
+          "name": "Victor Ray",
+          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
         }
       ],
-      "duration_ms": 146165,
-      "name": "Holier (SHOWBIZ)",
-      "url": "https://open.spotify.com/track/5kMGUDbBjN6uNHEmIrnYXH"
+      "duration_ms": 142135,
+      "name": "Space",
+      "url": "https://open.spotify.com/track/43Gw9Yd4mYtpJ1AHFA00oY"
     },
     {
       "added_at": null,
@@ -335,26 +339,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Space",
-        "url": "https://open.spotify.com/album/5Bhe2wkVUz1nOjPp2L80t9"
+        "name": "Holier (SHOWBIZ)",
+        "url": "https://open.spotify.com/album/3bj5fZFxgQrTOzc2deaNhG"
       },
       "artists": [
         {
-          "name": "Zerb",
-          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+          "name": "Olli P",
+          "url": "https://open.spotify.com/artist/1sVeCzkWGI0b1Y8NyyAJCx"
         },
         {
           "name": "Odeal",
           "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        },
-        {
-          "name": "Victor Ray",
-          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
         }
       ],
-      "duration_ms": 142135,
-      "name": "Space",
-      "url": "https://open.spotify.com/track/43Gw9Yd4mYtpJ1AHFA00oY"
+      "duration_ms": 146165,
+      "name": "Holier (SHOWBIZ)",
+      "url": "https://open.spotify.com/track/5kMGUDbBjN6uNHEmIrnYXH"
     },
     {
       "added_at": null,

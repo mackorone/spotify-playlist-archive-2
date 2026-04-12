@@ -3876,7 +3876,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 163494,
       "name": "Glaze",
       "url": "https://open.spotify.com/track/6mfokGkQnfHkrizH9s2FYu"
@@ -4318,7 +4318,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 216621,
       "name": "HIGH",
       "url": "https://open.spotify.com/track/70rtaYi2AprbjQQCz8rgTF"
@@ -5575,6 +5575,28 @@
     },
     {
       "album": {
+        "name": "Love Hate (feat. Thomas Day)",
+        "url": "https://open.spotify.com/album/0tLM5uck8tjqqvgagX4I1p"
+      },
+      "artists": [
+        {
+          "name": "Master Peace",
+          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
+        },
+        {
+          "name": "Thomas Day",
+          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192075,
+      "name": "Love Hate (feat. Thomas Day)",
+      "url": "https://open.spotify.com/track/1ysnEi1bFBkn0aCQFPh8gY"
+    },
+    {
+      "album": {
         "name": "Love is a Lottery",
         "url": "https://open.spotify.com/album/0BmQyo8T0Oief6QZjsbQfZ"
       },
@@ -6528,6 +6550,24 @@
       "duration_ms": 251831,
       "name": "Nah It Ain't The Same",
       "url": "https://open.spotify.com/track/3KKOxkUPWhKQssiMCSJxqO"
+    },
+    {
+      "album": {
+        "name": "Naturally",
+        "url": "https://open.spotify.com/album/7gJC1w5cF7GQXBzTal3XTQ"
+      },
+      "artists": [
+        {
+          "name": "Nectar Woode",
+          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151640,
+      "name": "Naturally",
+      "url": "https://open.spotify.com/track/1Mny3onDz12YDgSUXkGfET"
     },
     {
       "album": {

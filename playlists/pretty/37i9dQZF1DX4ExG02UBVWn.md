@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ExG02UBVWn.md) - [plain]
 
 > for the late nights
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,809 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,817 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ExG02UBVWn.md) - [plain]
 | 67 | [Jet Plane 5000](https://open.spotify.com/track/0YOVGM1hQKI3ulmWFxBYSO) | [j.flowers.mp3](https://open.spotify.com/artist/4jwygfSZd43Dd8vemguwH3), [Ralph Taylor](https://open.spotify.com/artist/7lyYVCbqJocjkyoYwWYgwK), [Rebekah Fitch](https://open.spotify.com/artist/3okhrC6DbZJOUhPTiUkwM6) | [Jet Plane 5000](https://open.spotify.com/album/3noTnaZZqXuflfPKDokgfJ) | 2:44 |
 | 68 | [Will Smith](https://open.spotify.com/track/4oQHOvfACi3uh67gujOGAa) | [BEASTIE](https://open.spotify.com/artist/0kxRqPeVVubS6KBRsTG0p1) | [Will Smith](https://open.spotify.com/album/6GUTrIRyW7aLEMmmHQEKFV) | 2:06 |
 | 69 | [Feel A Way](https://open.spotify.com/track/1dbmyZIJPifnlKNWjnS3Ke) | [Stacy N.K.R](https://open.spotify.com/artist/1UzBibT2gCadoWxVLRlq3U) | [Feel A Way](https://open.spotify.com/album/5Et4BGkwJu1peujLFzOtM4) | 2:34 |
-| 70 | [Bad](https://open.spotify.com/track/4NOzEFuBL6jzKqovwxB5Pi) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Zilo](https://open.spotify.com/artist/3fcW2V4zOfFm0IsWCJUuzz) | [Bad](https://open.spotify.com/album/3I8m0mug29wYCCVJuX7xqA) | 3:31 |
-| 71 | [West End](https://open.spotify.com/track/3kQ9d2gkLtNT0xkGbefSgH) | [The Silhouettes Project](https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw), [Frankie Stew and Harvey Gunn](https://open.spotify.com/artist/1jVvXqdwDHekLwFBamrcUx), [Turt](https://open.spotify.com/artist/0VkwWpbd5pxXBYZu3ns9N0) | [West End](https://open.spotify.com/album/4Loru0xZI5PfOd3ntrImBa) | 2:34 |
+| 70 | [West End](https://open.spotify.com/track/3kQ9d2gkLtNT0xkGbefSgH) | [The Silhouettes Project](https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw), [Frankie Stew and Harvey Gunn](https://open.spotify.com/artist/1jVvXqdwDHekLwFBamrcUx), [Turt](https://open.spotify.com/artist/0VkwWpbd5pxXBYZu3ns9N0) | [West End](https://open.spotify.com/album/4Loru0xZI5PfOd3ntrImBa) | 2:34 |
+| 71 | [Bad](https://open.spotify.com/track/4NOzEFuBL6jzKqovwxB5Pi) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Zilo](https://open.spotify.com/artist/3fcW2V4zOfFm0IsWCJUuzz) | [Bad](https://open.spotify.com/album/3I8m0mug29wYCCVJuX7xqA) | 3:31 |
 | 72 | [Lagoon](https://open.spotify.com/track/6AukzxLBWmUJ6F5anYkQDu) | [MANIK MC](https://open.spotify.com/artist/5Bapg9halr8vzjfc0Cbxol), [EMIL](https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb), [R\-Kay](https://open.spotify.com/artist/4M5sR9GhVebERklwVPeEp2) | [Lagoon](https://open.spotify.com/album/0syGgHpT59AFLYZD1qVnBY) | 4:48 |
 | 73 | [Coffee](https://open.spotify.com/track/4l9kdmAOpO7Y0wCc4PnhzI) | [j.flowers.mp3](https://open.spotify.com/artist/4jwygfSZd43Dd8vemguwH3), [Ralph Taylor](https://open.spotify.com/artist/7lyYVCbqJocjkyoYwWYgwK) | [Coffee](https://open.spotify.com/album/0nK9CHDXm14WIlRssT2ifO) | 2:31 |
 | 74 | [Living Room](https://open.spotify.com/track/6DPmvogAL1AH6QJ4NfQ3ba) | [Loie](https://open.spotify.com/artist/1IcA6oyWXac8laFWul0ZaJ) | [What We Become](https://open.spotify.com/album/59orHxxohwog8QsHMSXjso) | 2:53 |

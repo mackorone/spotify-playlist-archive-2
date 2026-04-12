@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEbxox96IUk.md) - [plain]
 
 > C'est parti pour une nuit de folie ! Photo : Gilbert Montagné
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,761 likes - 60 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,780 likes - 60 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEbxox96IUk.md) - [plain]
 | 13 | [Nuit de folie \- Version originale 1988](https://open.spotify.com/track/2pXzTDfEoA19Fqhtl08Hiw) | [Début De Soirée](https://open.spotify.com/artist/3EeGYcRZaklMqgjWNhPrzu) | [Best of Début de Soirée \(Le meilleur des années 80\)](https://open.spotify.com/album/57LfHmeSkUoS4rImFooP0L) | 4:13 |
 | 14 | [Libertine](https://open.spotify.com/track/6WjOjG7ujOd4uCv4wQvMjV) | [Mylène Farmer](https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD) | [Cendres De Lune](https://open.spotify.com/album/4tWO2hIvgjP9J6ZaZHW4cD) | 3:46 |
 | 15 | [Ouragan \- Remastered](https://open.spotify.com/track/3qd96R8vwARMzD8uBSNui5) | [Stephanie](https://open.spotify.com/artist/16q1X9q6DxoNdqPQlYwxgM) | [Irresistible Princess](https://open.spotify.com/album/1R2G7lobLL80kaFPrVCCQ6) | 4:21 |
-| 16 | [Boule de flipper](https://open.spotify.com/track/1S0SNWFuMJOnruRgIklPRg) | [Corynne CHARBY](https://open.spotify.com/artist/0g3UZ5TKLKBB9m35O8KAm3) | [Boule de flipper](https://open.spotify.com/album/0lzuBZIhhzpooxF2dR9sPk) | 3:26 |
+| 16 | [Boule de flipper](https://open.spotify.com/track/1S0SNWFuMJOnruRgIklPRg) | [Corynne Charby](https://open.spotify.com/artist/0g3UZ5TKLKBB9m35O8KAm3) | [Boule de flipper](https://open.spotify.com/album/0lzuBZIhhzpooxF2dR9sPk) | 3:26 |
 | 17 | [Le banana split](https://open.spotify.com/track/67IqnuAkobMaPub7lGGcN5) | [Lio](https://open.spotify.com/artist/48sZWxnqspohWtxJNg7OsI) | [Je garde quelques images..\. pour mes vies postérieures](https://open.spotify.com/album/11LefkOl8xHR2L8MQj2vJe) | 2:33 |
 | 18 | [C'est comme ça](https://open.spotify.com/track/3y9FzflARxBDRuARWGDWmq) | [Les Rita Mitsouko](https://open.spotify.com/artist/7CdlYgtOoxBtNjuDeIxSPM) | [The No Comprendo](https://open.spotify.com/album/3VnFLQ6pO9MSvVeKv5DHjY) | 4:54 |
 | 19 | [Dès que le vent soufflera \- 2013 Remaster](https://open.spotify.com/track/66oUD4UVvC2DsPaKzw8sJy) | [Renaud](https://open.spotify.com/artist/15uNxh8omvRvH71kcdIe2r) | [Morgane De Toi \(2013 Remaster\)](https://open.spotify.com/album/0kXYiKUznqm9ZyFxhuOvBE) | 4:27 |

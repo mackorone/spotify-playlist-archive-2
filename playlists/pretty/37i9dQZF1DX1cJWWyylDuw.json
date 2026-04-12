@@ -1,6 +1,6 @@
 {
   "description": "A mix of the best modern Deathcore tracks. Cover: FIt For An Autopsy",
-  "num_followers": 289909,
+  "num_followers": 289992,
   "original_name": "Deathcore",
   "owner": {
     "name": "Spotify",
@@ -999,6 +999,22 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
+        "name": "Sharp Teeth",
+        "url": "https://open.spotify.com/album/4MSbUy9NDCRRs3EjAJQBzQ"
+      },
+      "artists": [
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1u1DkbYSAOpAWeBir7TEUV"
+        }
+      ],
+      "duration_ms": 184640,
+      "name": "Sharp Teeth",
+      "url": "https://open.spotify.com/track/2iruoTNGENcCv0UtfRuN81"
+    },
+    {
+      "added_at": "2026-03-22 01:11:05",
+      "album": {
         "name": "Spirit (feat. Tyler Beam of The Last Ten Seconds Of Life)",
         "url": "https://open.spotify.com/album/2kvMb8wE8J9hnrBzvBecNI"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 173624,
       "name": "Spirit (feat. Tyler Beam of The Last Ten Seconds Of Life)",
       "url": "https://open.spotify.com/track/2hSjpNE3JZtPDuA8zG6pMT"
-    },
-    {
-      "added_at": "2026-03-22 01:11:05",
-      "album": {
-        "name": "Sharp Teeth",
-        "url": "https://open.spotify.com/album/4MSbUy9NDCRRs3EjAJQBzQ"
-      },
-      "artists": [
-        {
-          "name": "Kanine",
-          "url": "https://open.spotify.com/artist/1u1DkbYSAOpAWeBir7TEUV"
-        }
-      ],
-      "duration_ms": 184640,
-      "name": "Sharp Teeth",
-      "url": "https://open.spotify.com/track/2iruoTNGENcCv0UtfRuN81"
     },
     {
       "added_at": "2026-03-22 01:11:05",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
-        "name": "Nothing Left to Hate",
-        "url": "https://open.spotify.com/album/0E2gDJcCMVouqy8PeT6H2A"
-      },
-      "artists": [
-        {
-          "name": "Distant",
-          "url": "https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ"
-        }
-      ],
-      "duration_ms": 192848,
-      "name": "Nothing Left to Hate",
-      "url": "https://open.spotify.com/track/0i4ygpC8IvP4CsKdfbz5eV"
-    },
-    {
-      "added_at": "2026-03-22 01:11:05",
-      "album": {
         "name": "Purge",
         "url": "https://open.spotify.com/album/7o1VvlYeqiBiSQUZNXQHbF"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 282909,
       "name": "Purge",
       "url": "https://open.spotify.com/track/4O0qk2XaOAKVjLnKnEQ0RW"
+    },
+    {
+      "added_at": "2026-03-22 01:11:05",
+      "album": {
+        "name": "Nothing Left to Hate",
+        "url": "https://open.spotify.com/album/0E2gDJcCMVouqy8PeT6H2A"
+      },
+      "artists": [
+        {
+          "name": "Distant",
+          "url": "https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ"
+        }
+      ],
+      "duration_ms": 192848,
+      "name": "Nothing Left to Hate",
+      "url": "https://open.spotify.com/track/0i4ygpC8IvP4CsKdfbz5eV"
     },
     {
       "added_at": "2026-03-22 01:11:05",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
-        "name": "Walk With Me In Hell",
-        "url": "https://open.spotify.com/album/7bAqjOAUci57f6be2isPZh"
-      },
-      "artists": [
-        {
-          "name": "Fit For An Autopsy",
-          "url": "https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i"
-        }
-      ],
-      "duration_ms": 316599,
-      "name": "Walk With Me In Hell",
-      "url": "https://open.spotify.com/track/4bwp2R1oJxwNwoc28T7iy7"
-    },
-    {
-      "added_at": "2026-03-22 01:11:05",
-      "album": {
         "name": "Bleeding Sun",
         "url": "https://open.spotify.com/album/7hkhFnClNPmRXL20KqdzSO"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 219692,
       "name": "Bleeding Sun",
       "url": "https://open.spotify.com/track/6bsxDgpU5nlcHNZYtsfZG8"
+    },
+    {
+      "added_at": "2026-03-22 01:11:05",
+      "album": {
+        "name": "Walk With Me In Hell",
+        "url": "https://open.spotify.com/album/7bAqjOAUci57f6be2isPZh"
+      },
+      "artists": [
+        {
+          "name": "Fit For An Autopsy",
+          "url": "https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i"
+        }
+      ],
+      "duration_ms": 316599,
+      "name": "Walk With Me In Hell",
+      "url": "https://open.spotify.com/track/4bwp2R1oJxwNwoc28T7iy7"
     },
     {
       "added_at": "2026-03-22 01:11:05",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
-        "name": "Dawn Of The Iconoclast",
-        "url": "https://open.spotify.com/album/08iPL2nhkuigxxDw6DZtIW"
-      },
-      "artists": [
-        {
-          "name": "Worm Shepherd",
-          "url": "https://open.spotify.com/artist/7hsOYe7y8uBqV4UUsVne73"
-        }
-      ],
-      "duration_ms": 284466,
-      "name": "Feast",
-      "url": "https://open.spotify.com/track/4I3w9Jvab9DomBSuHZrGx3"
-    },
-    {
-      "added_at": "2026-03-22 01:11:05",
-      "album": {
         "name": "Set the World on Fire",
         "url": "https://open.spotify.com/album/3EWHosgZgHFx7SI2iTI2ZW"
       },
@@ -1355,18 +1339,18 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
-        "name": "Desecrate Infinite",
-        "url": "https://open.spotify.com/album/5RiOQviWhbcKtjvO1F2e6Y"
+        "name": "Dawn Of The Iconoclast",
+        "url": "https://open.spotify.com/album/08iPL2nhkuigxxDw6DZtIW"
       },
       "artists": [
         {
-          "name": "Crown Magnetar",
-          "url": "https://open.spotify.com/artist/0DlST2L7efoM5Lb0uxG3Tx"
+          "name": "Worm Shepherd",
+          "url": "https://open.spotify.com/artist/7hsOYe7y8uBqV4UUsVne73"
         }
       ],
-      "duration_ms": 191026,
-      "name": "Desecrate Infinite",
-      "url": "https://open.spotify.com/track/7i4BhFW2LMShsOULSjN9ko"
+      "duration_ms": 284466,
+      "name": "Feast",
+      "url": "https://open.spotify.com/track/4I3w9Jvab9DomBSuHZrGx3"
     },
     {
       "added_at": "2026-03-22 01:11:05",
@@ -1391,22 +1375,18 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
-        "name": "POSTMORTEM ANOMALIES",
-        "url": "https://open.spotify.com/album/4ZcALjg9LmEWU7I6d8B6xI"
+        "name": "Desecrate Infinite",
+        "url": "https://open.spotify.com/album/5RiOQviWhbcKtjvO1F2e6Y"
       },
       "artists": [
         {
-          "name": "Sinizter",
-          "url": "https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8"
-        },
-        {
-          "name": "PeelingFlesh",
-          "url": "https://open.spotify.com/artist/40DbKvYvADTiks7hZIUPHG"
+          "name": "Crown Magnetar",
+          "url": "https://open.spotify.com/artist/0DlST2L7efoM5Lb0uxG3Tx"
         }
       ],
-      "duration_ms": 153786,
-      "name": "POSTMORTEM ANOMALIES",
-      "url": "https://open.spotify.com/track/43uo4tgy8C1rDNGmJmwATm"
+      "duration_ms": 191026,
+      "name": "Desecrate Infinite",
+      "url": "https://open.spotify.com/track/7i4BhFW2LMShsOULSjN9ko"
     },
     {
       "added_at": "2026-03-22 01:11:05",
@@ -1443,6 +1423,26 @@
       "duration_ms": 243099,
       "name": "Feeding The Meatgrinder",
       "url": "https://open.spotify.com/track/74U3CoDKEDulnzpHfvKS8L"
+    },
+    {
+      "added_at": "2026-03-22 01:11:05",
+      "album": {
+        "name": "POSTMORTEM ANOMALIES",
+        "url": "https://open.spotify.com/album/4ZcALjg9LmEWU7I6d8B6xI"
+      },
+      "artists": [
+        {
+          "name": "Sinizter",
+          "url": "https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8"
+        },
+        {
+          "name": "PeelingFlesh",
+          "url": "https://open.spotify.com/artist/40DbKvYvADTiks7hZIUPHG"
+        }
+      ],
+      "duration_ms": 153786,
+      "name": "POSTMORTEM ANOMALIES",
+      "url": "https://open.spotify.com/track/43uo4tgy8C1rDNGmJmwATm"
     },
     {
       "added_at": "2026-03-22 01:11:05",
@@ -1531,38 +1531,6 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
-        "name": "A Hill to Die Upon",
-        "url": "https://open.spotify.com/album/79VMfL0k3LZFy95k6xTM5m"
-      },
-      "artists": [
-        {
-          "name": "Mental Cruelty",
-          "url": "https://open.spotify.com/artist/2iE1NqruxoSxTvOpTCLkE9"
-        }
-      ],
-      "duration_ms": 229000,
-      "name": "King Ov Fire",
-      "url": "https://open.spotify.com/track/79Tk6FAVdwYretxYFbT9wk"
-    },
-    {
-      "added_at": "2026-03-22 01:11:05",
-      "album": {
-        "name": "HIDE FROM THE LIGHT",
-        "url": "https://open.spotify.com/album/5cLwOTfMHRD4nuFdtWY2Gs"
-      },
-      "artists": [
-        {
-          "name": "DIESECT",
-          "url": "https://open.spotify.com/artist/3omvraIGd4KYyb89eeordB"
-        }
-      ],
-      "duration_ms": 198924,
-      "name": "NO HOME LEFT TO FIND",
-      "url": "https://open.spotify.com/track/3GBW3ISQc8jAQojA28IW18"
-    },
-    {
-      "added_at": "2026-03-22 01:11:05",
-      "album": {
         "name": "The Orphan",
         "url": "https://open.spotify.com/album/6Ht4AEKGQHhDst26WlWy62"
       },
@@ -1579,6 +1547,22 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
+        "name": "A Hill to Die Upon",
+        "url": "https://open.spotify.com/album/79VMfL0k3LZFy95k6xTM5m"
+      },
+      "artists": [
+        {
+          "name": "Mental Cruelty",
+          "url": "https://open.spotify.com/artist/2iE1NqruxoSxTvOpTCLkE9"
+        }
+      ],
+      "duration_ms": 229000,
+      "name": "King Ov Fire",
+      "url": "https://open.spotify.com/track/79Tk6FAVdwYretxYFbT9wk"
+    },
+    {
+      "added_at": "2026-03-22 01:11:05",
+      "album": {
         "name": "twenty/eight",
         "url": "https://open.spotify.com/album/4mCBNVmcnK0qvDsT3Fcyhz"
       },
@@ -1591,6 +1575,38 @@
       "duration_ms": 224343,
       "name": "twenty/eight",
       "url": "https://open.spotify.com/track/6Ld5B3jvlCXsDqPWm1Fhek"
+    },
+    {
+      "added_at": "2026-03-22 01:11:05",
+      "album": {
+        "name": "Disappoint Me",
+        "url": "https://open.spotify.com/album/2mSPOTwIwW8TkscyYGsETO"
+      },
+      "artists": [
+        {
+          "name": "Left to Suffer",
+          "url": "https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk"
+        }
+      ],
+      "duration_ms": 138709,
+      "name": "Disappoint Me",
+      "url": "https://open.spotify.com/track/4D5UuP96X7cXNzQ1YzqQiF"
+    },
+    {
+      "added_at": "2026-03-22 01:11:05",
+      "album": {
+        "name": "HIDE FROM THE LIGHT",
+        "url": "https://open.spotify.com/album/5cLwOTfMHRD4nuFdtWY2Gs"
+      },
+      "artists": [
+        {
+          "name": "DIESECT",
+          "url": "https://open.spotify.com/artist/3omvraIGd4KYyb89eeordB"
+        }
+      ],
+      "duration_ms": 198924,
+      "name": "NO HOME LEFT TO FIND",
+      "url": "https://open.spotify.com/track/3GBW3ISQc8jAQojA28IW18"
     },
     {
       "added_at": "2026-03-22 01:11:05",
@@ -1627,18 +1643,18 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
-        "name": "Disappoint Me",
-        "url": "https://open.spotify.com/album/2mSPOTwIwW8TkscyYGsETO"
+        "name": "Sing to the Grave",
+        "url": "https://open.spotify.com/album/6NLPfi1CsS3PmCWe6QSb2o"
       },
       "artists": [
         {
-          "name": "Left to Suffer",
-          "url": "https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk"
+          "name": "Chelsea Grin",
+          "url": "https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b"
         }
       ],
-      "duration_ms": 138709,
-      "name": "Disappoint Me",
-      "url": "https://open.spotify.com/track/4D5UuP96X7cXNzQ1YzqQiF"
+      "duration_ms": 159417,
+      "name": "Sing to the Grave",
+      "url": "https://open.spotify.com/track/3GcWW4Bmb0q0LsbDOWChNU"
     },
     {
       "added_at": "2026-03-22 01:11:05",
@@ -1659,22 +1675,6 @@
       "duration_ms": 221446,
       "name": "Aeons of Oblivion",
       "url": "https://open.spotify.com/track/6HcXTUJEOpTbiCPyGtU1sA"
-    },
-    {
-      "added_at": "2026-03-22 01:11:05",
-      "album": {
-        "name": "Sing to the Grave",
-        "url": "https://open.spotify.com/album/6NLPfi1CsS3PmCWe6QSb2o"
-      },
-      "artists": [
-        {
-          "name": "Chelsea Grin",
-          "url": "https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b"
-        }
-      ],
-      "duration_ms": 159417,
-      "name": "Sing to the Grave",
-      "url": "https://open.spotify.com/track/3GcWW4Bmb0q0LsbDOWChNU"
     },
     {
       "added_at": "2026-03-22 01:11:05",
@@ -1775,6 +1775,30 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
+        "name": "SILENT DECISIONS",
+        "url": "https://open.spotify.com/album/6y284pHhGTzxyHzufmv2x9"
+      },
+      "artists": [
+        {
+          "name": "Avalanche Effect",
+          "url": "https://open.spotify.com/artist/1lhzMZn54qAGcj8hdoMCCb"
+        },
+        {
+          "name": "We Are Perspectives",
+          "url": "https://open.spotify.com/artist/7LiYrCrbd16SPtQUDnLNms"
+        },
+        {
+          "name": "Screamistry",
+          "url": "https://open.spotify.com/artist/7CfvatjUCoi2RBmE6sv3n3"
+        }
+      ],
+      "duration_ms": 138428,
+      "name": "SILENT DECISIONS",
+      "url": "https://open.spotify.com/track/1gNudcyZVoiGN06iK1wd6C"
+    },
+    {
+      "added_at": "2026-03-22 01:11:05",
+      "album": {
         "name": "Infinity Of Horrors",
         "url": "https://open.spotify.com/album/1EDNRl5Rzrs0W5telXtzQB"
       },
@@ -1823,30 +1847,6 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
-        "name": "SILENT DECISIONS",
-        "url": "https://open.spotify.com/album/6y284pHhGTzxyHzufmv2x9"
-      },
-      "artists": [
-        {
-          "name": "Avalanche Effect",
-          "url": "https://open.spotify.com/artist/1lhzMZn54qAGcj8hdoMCCb"
-        },
-        {
-          "name": "We Are Perspectives",
-          "url": "https://open.spotify.com/artist/7LiYrCrbd16SPtQUDnLNms"
-        },
-        {
-          "name": "Screamistry",
-          "url": "https://open.spotify.com/artist/7CfvatjUCoi2RBmE6sv3n3"
-        }
-      ],
-      "duration_ms": 138428,
-      "name": "SILENT DECISIONS",
-      "url": "https://open.spotify.com/track/1gNudcyZVoiGN06iK1wd6C"
-    },
-    {
-      "added_at": "2026-03-22 01:11:05",
-      "album": {
         "name": "Chainbreaker",
         "url": "https://open.spotify.com/album/6z2fHbf7Wvy93ZO4YN4H2B"
       },
@@ -1863,18 +1863,18 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
-        "name": "Circus Sapiens",
-        "url": "https://open.spotify.com/album/0Ys3qZo73uTLQ4L03pdHja"
+        "name": "Welcome To Shell Town",
+        "url": "https://open.spotify.com/album/5kGVhCZPsvy5cVbKnBMGT4"
       },
       "artists": [
         {
-          "name": "NECROTTED",
-          "url": "https://open.spotify.com/artist/7khBSLZWST1HqSjWpEFlXl"
+          "name": "Filth",
+          "url": "https://open.spotify.com/artist/4v3LXseeTJyL6GVDS2N8oY"
         }
       ],
-      "duration_ms": 201468,
-      "name": "Circus Sapiens",
-      "url": "https://open.spotify.com/track/5JlRn4UO14O7RuxwZUwOeJ"
+      "duration_ms": 233927,
+      "name": "Shell Town",
+      "url": "https://open.spotify.com/track/6ujqPQVHvJ81axiza9KJRj"
     },
     {
       "added_at": "2026-03-22 01:11:05",
@@ -1907,6 +1907,22 @@
       "duration_ms": 268283,
       "name": "A Bloodsoaked Symphony",
       "url": "https://open.spotify.com/track/2sgZkQnJUdBEKUX1F5s745"
+    },
+    {
+      "added_at": "2026-03-22 01:11:05",
+      "album": {
+        "name": "Circus Sapiens",
+        "url": "https://open.spotify.com/album/0Ys3qZo73uTLQ4L03pdHja"
+      },
+      "artists": [
+        {
+          "name": "NECROTTED",
+          "url": "https://open.spotify.com/artist/7khBSLZWST1HqSjWpEFlXl"
+        }
+      ],
+      "duration_ms": 201468,
+      "name": "Circus Sapiens",
+      "url": "https://open.spotify.com/track/5JlRn4UO14O7RuxwZUwOeJ"
     },
     {
       "added_at": "2026-03-22 01:11:05",
@@ -1971,22 +1987,6 @@
       "duration_ms": 187585,
       "name": "Incinerate",
       "url": "https://open.spotify.com/track/4Y9958hlA4824tFCljgNXd"
-    },
-    {
-      "added_at": "2026-03-22 01:11:05",
-      "album": {
-        "name": "Welcome To Shell Town",
-        "url": "https://open.spotify.com/album/5kGVhCZPsvy5cVbKnBMGT4"
-      },
-      "artists": [
-        {
-          "name": "Filth",
-          "url": "https://open.spotify.com/artist/4v3LXseeTJyL6GVDS2N8oY"
-        }
-      ],
-      "duration_ms": 233927,
-      "name": "Shell Town",
-      "url": "https://open.spotify.com/track/6ujqPQVHvJ81axiza9KJRj"
     },
     {
       "added_at": "2026-03-22 01:11:05",
@@ -2111,6 +2111,22 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
+        "name": "Alter of Self",
+        "url": "https://open.spotify.com/album/1uaRwI5nCeV09tfBvhS1bD"
+      },
+      "artists": [
+        {
+          "name": "Suicide Silence",
+          "url": "https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc"
+        }
+      ],
+      "duration_ms": 189704,
+      "name": "Alter of Self",
+      "url": "https://open.spotify.com/track/222Pr7e0L9peOkdKVY9fIX"
+    },
+    {
+      "added_at": "2026-03-22 01:11:05",
+      "album": {
         "name": "Join Me In Armageddon",
         "url": "https://open.spotify.com/album/5KpZEmnkR80qQNk9NGlNto"
       },
@@ -2139,22 +2155,6 @@
       "duration_ms": 90913,
       "name": "Midnight",
       "url": "https://open.spotify.com/track/7EsZWVFlIOwpkkg3YJHUS6"
-    },
-    {
-      "added_at": "2026-03-22 01:11:05",
-      "album": {
-        "name": "Alter of Self",
-        "url": "https://open.spotify.com/album/1uaRwI5nCeV09tfBvhS1bD"
-      },
-      "artists": [
-        {
-          "name": "Suicide Silence",
-          "url": "https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc"
-        }
-      ],
-      "duration_ms": 189704,
-      "name": "Alter of Self",
-      "url": "https://open.spotify.com/track/222Pr7e0L9peOkdKVY9fIX"
     },
     {
       "added_at": "2026-03-22 01:11:05",
@@ -2315,22 +2315,6 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
-        "name": "Concrete Casket",
-        "url": "https://open.spotify.com/album/6lICdyiJ6S1WU8aUjx9UVg"
-      },
-      "artists": [
-        {
-          "name": "Waste",
-          "url": "https://open.spotify.com/artist/2XuyPcxHeNlK7tOej51mqj"
-        }
-      ],
-      "duration_ms": 178173,
-      "name": "Concrete Casket",
-      "url": "https://open.spotify.com/track/6zKq6LzG5XtVKye6urOW6G"
-    },
-    {
-      "added_at": "2026-03-22 01:11:05",
-      "album": {
         "name": "Extraction",
         "url": "https://open.spotify.com/album/2UYMVHDDn7kwm8YQy40ndu"
       },
@@ -2347,6 +2331,22 @@
       "duration_ms": 264463,
       "name": "Calcium Closet",
       "url": "https://open.spotify.com/track/1bygSIvHzKkDtfYLVNSiGd"
+    },
+    {
+      "added_at": "2026-03-22 01:11:05",
+      "album": {
+        "name": "Concrete Casket",
+        "url": "https://open.spotify.com/album/6lICdyiJ6S1WU8aUjx9UVg"
+      },
+      "artists": [
+        {
+          "name": "Waste",
+          "url": "https://open.spotify.com/artist/2XuyPcxHeNlK7tOej51mqj"
+        }
+      ],
+      "duration_ms": 178173,
+      "name": "Concrete Casket",
+      "url": "https://open.spotify.com/track/6zKq6LzG5XtVKye6urOW6G"
     },
     {
       "added_at": "2026-03-22 01:11:05",
@@ -2387,6 +2387,22 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
+        "name": "selfish",
+        "url": "https://open.spotify.com/album/7H21DastPGNSAMfFr6GwLP"
+      },
+      "artists": [
+        {
+          "name": "Axty",
+          "url": "https://open.spotify.com/artist/4zVeGdifjxGkC3eCSmCo0H"
+        }
+      ],
+      "duration_ms": 182704,
+      "name": "selfish",
+      "url": "https://open.spotify.com/track/74iXMAVaJXb9319uYRUSi4"
+    },
+    {
+      "added_at": "2026-03-22 01:11:05",
+      "album": {
         "name": "Demon King",
         "url": "https://open.spotify.com/album/7mQTEBCTYqQL58cJwGQBbn"
       },
@@ -2419,22 +2435,6 @@
       "duration_ms": 261012,
       "name": "Confounder",
       "url": "https://open.spotify.com/track/2k31Xzc5ooZO44mBeYx7dw"
-    },
-    {
-      "added_at": "2026-03-22 01:11:05",
-      "album": {
-        "name": "selfish",
-        "url": "https://open.spotify.com/album/7H21DastPGNSAMfFr6GwLP"
-      },
-      "artists": [
-        {
-          "name": "Axty",
-          "url": "https://open.spotify.com/artist/4zVeGdifjxGkC3eCSmCo0H"
-        }
-      ],
-      "duration_ms": 182704,
-      "name": "selfish",
-      "url": "https://open.spotify.com/track/74iXMAVaJXb9319uYRUSi4"
     },
     {
       "added_at": "2026-03-22 01:11:05",

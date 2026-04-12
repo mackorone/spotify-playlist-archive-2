@@ -1,12 +1,12 @@
 {
   "description": "This is Jelly Roll. The essential tracks, all in one playlist.",
-  "num_followers": 336726,
+  "num_followers": 336813,
   "original_name": "This Is Jelly Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adbsAAAAAAAzMUu39jF1gYBmOvitYkYw",
+  "snapshot_id": "adg9gAAAAAD2mv5nad9gGNAGcrcmUNMn",
   "tracks": [
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thorns",
-        "url": "https://open.spotify.com/album/6AMa9mH7ee5Q02TXf2LCGg"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Thorns",
-      "url": "https://open.spotify.com/track/00mF2mWX2yYQehNfDDrY11"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "So Help Me God",
         "url": "https://open.spotify.com/album/01WU13PMkMohKI8mHJJ0DL"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 179253,
       "name": "Son Of The Dirty South",
       "url": "https://open.spotify.com/track/6WaPKTy7RYb21gs8PasOPL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thorns",
+        "url": "https://open.spotify.com/album/6AMa9mH7ee5Q02TXf2LCGg"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Thorns",
+      "url": "https://open.spotify.com/track/00mF2mWX2yYQehNfDDrY11"
     },
     {
       "added_at": null,
@@ -707,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Therapeutic Music 5",
+        "url": "https://open.spotify.com/album/2djiUl5MCOJWODl4KTw5Tn"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 248946,
+      "name": "Smoking Section",
+      "url": "https://open.spotify.com/track/5ELEsgMwvWJald9BQbIgsV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Beautifully Broken (Pickin\u2019 Up The Pieces)",
         "url": "https://open.spotify.com/album/2NqI5Hd3wWXNWUrZNuZvO9"
       },
@@ -743,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Therapeutic Music 5",
-        "url": "https://open.spotify.com/album/2djiUl5MCOJWODl4KTw5Tn"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 248946,
-      "name": "Smoking Section",
-      "url": "https://open.spotify.com/track/5ELEsgMwvWJald9BQbIgsV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ballads of the Broken",
         "url": "https://open.spotify.com/album/4HNIAKT3412itayEYv2BxL"
       },
@@ -771,26 +771,6 @@
       "duration_ms": 201280,
       "name": "Dead Man Walking",
       "url": "https://open.spotify.com/track/4BImM1ASmigkuEhxrPfUAf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Beautifully Broken (Pickin\u2019 Up The Pieces)",
-        "url": "https://open.spotify.com/album/2NqI5Hd3wWXNWUrZNuZvO9"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        },
-        {
-          "name": "Skylar Grey",
-          "url": "https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV"
-        }
-      ],
-      "duration_ms": 193880,
-      "name": "Past Yesterday (with Skylar Grey)",
-      "url": "https://open.spotify.com/track/0mQWqf3GGHuwlF7VUaCeEk"
     },
     {
       "added_at": null,
@@ -811,6 +791,26 @@
       "duration_ms": 192969,
       "name": "Cowboys",
       "url": "https://open.spotify.com/track/6VhJjazWLRpXMNjT3AAEON"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beautifully Broken (Pickin\u2019 Up The Pieces)",
+        "url": "https://open.spotify.com/album/2NqI5Hd3wWXNWUrZNuZvO9"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        },
+        {
+          "name": "Skylar Grey",
+          "url": "https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV"
+        }
+      ],
+      "duration_ms": 193880,
+      "name": "Past Yesterday (with Skylar Grey)",
+      "url": "https://open.spotify.com/track/0mQWqf3GGHuwlF7VUaCeEk"
     },
     {
       "added_at": null,

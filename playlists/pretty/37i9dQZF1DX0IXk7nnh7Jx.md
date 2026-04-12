@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 
 > Listen to the best songs from faith\-based indie artists\.  Cover: <br/>PARTY WAVE
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,933 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,967 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 | 20 | [You Started Fires](https://open.spotify.com/track/7MSAzuFE518IbCEei4grXh) | [James Paek](https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz) | [You Started Fires](https://open.spotify.com/album/5GXntm7xZ56kwUBcbJDphV) | 2:49 |
 | 21 | [Permanent](https://open.spotify.com/track/7dvcjzfLn2cbWHDOlbboE9) | [Calah Mikal](https://open.spotify.com/artist/2c2Y05pVIabK1AT1zfsH0h) | [Permanent](https://open.spotify.com/album/3VxE9Fnyyk256pE25Q2z6r) | 3:50 |
 | 22 | [The Gospel](https://open.spotify.com/track/1Ia3lyWy9kZuDsjIW8voZ0) | [Joel Figueroa](https://open.spotify.com/artist/3QRS0RlYKcQFdr7X4pcE4V) | [The Gospel](https://open.spotify.com/album/2IHGF8zeVW7GgpVHVEIqDB) | 3:46 |
-| 23 | [To God Be The Glory \- Studio](https://open.spotify.com/track/5DTyY5w9NT214c8hrUDZ9H) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [To God Be The Glory](https://open.spotify.com/album/45c0d22lk0ttL7aZvWEWmI) | 4:44 |
+| 23 | [To God Be The Glory](https://open.spotify.com/track/5DTyY5w9NT214c8hrUDZ9H) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [To God Be The Glory](https://open.spotify.com/album/45c0d22lk0ttL7aZvWEWmI) | 4:44 |
 | 24 | [Cascade View](https://open.spotify.com/track/6hzt50r5ZdUsQWXwMEsDcR) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Cascade View](https://open.spotify.com/album/4dDCw9RcW3cbVfj02qA6MW) | 2:45 |
 | 25 | [Never Not Been Okay](https://open.spotify.com/track/5OEvyJGxHbeAVHJGAtw3SG) | [Skye Peterson](https://open.spotify.com/artist/4W0D3e2IbX3hZD27ooX3xZ) | [Never Not Been Okay](https://open.spotify.com/album/6LlfA0AJjzMb7SNgoA7MWK) | 3:34 |
 | 26 | [promise](https://open.spotify.com/track/0qtY6wDzL1S56oWw7AiwiZ) | [sun haze](https://open.spotify.com/artist/2fm6kygt9BS4un4NcXC5E2) | [promise](https://open.spotify.com/album/1d8zkVUyZQ7pZCIo17VkxI) | 3:54 |

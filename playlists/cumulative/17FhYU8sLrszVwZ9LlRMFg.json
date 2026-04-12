@@ -355,6 +355,24 @@
     },
     {
       "album": {
+        "name": "Let's Skip to the Wedding",
+        "url": "https://open.spotify.com/album/5GpRahH84HsI3SSQrpTj50"
+      },
+      "artists": [
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        }
+      ],
+      "date_added": "2026-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122338,
+      "name": "Jealous",
+      "url": "https://open.spotify.com/track/0bhudMmr0XdtBOjFbjq8R0"
+    },
+    {
+      "album": {
         "name": "(III)",
         "url": "https://open.spotify.com/album/2KYBzzK8L9yvBe0k5GeoD8"
       },

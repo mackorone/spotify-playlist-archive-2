@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-536 songs - 1 day 7 hr 38 min
+537 songs - 1 day 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Bara mellan oss](https://open.spotify.com/track/4VIWX9gEawpAkvzvwz2a1h) | [Oskar Linnros](https://open.spotify.com/artist/3E8Mx37sikkaFoX5DRecLi) | [Bara mellan oss](https://open.spotify.com/album/0uu0VZmG5Bk4q5VAXTLmnn) | 3:41 | 2026-04-02 |  |
 | [Bara om min älskade väntar \- Akustiskversion Dust](https://open.spotify.com/track/6A9oBk2A0KDpnK4ledt7yD) | [Thåström](https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H) | [Skebokvarnsv\. 209 \(Deluxe Version\)](https://open.spotify.com/album/7xvyIn38X0tWtD0OIHdvdd) | 3:33 | 2025-11-27 |  |
 | [Bara vara mig själv](https://open.spotify.com/track/2FZ3LanaveWTMf2aWaMnpy) | [Lisa Miskovsky](https://open.spotify.com/artist/5J0dXmqEYctfFsmcakqZFH) | [Eljest](https://open.spotify.com/album/3D0jMkMGAaZ7AbPnYr4tJG) | 4:06 | 2025-03-10 | 2025-06-06 |
-| [Bara vi andas](https://open.spotify.com/track/1WbUSbSwnQ6YbvWiqjoe6L) | [Mattias Berghagen](https://open.spotify.com/artist/2ugah26q5oy9jnFb1JyTWE), [Sonja Aldén](https://open.spotify.com/artist/3XyHsKlvXenLURpECPEQOJ) | [Bara vi andas](https://open.spotify.com/album/70IDdegrPyqI2bWYFW5GmL) | 2:47 | 2026-01-22 |  |
+| [Bara vi andas](https://open.spotify.com/track/1WbUSbSwnQ6YbvWiqjoe6L) | [Mattias Berghagen](https://open.spotify.com/artist/2ugah26q5oy9jnFb1JyTWE), [Sonja Aldén](https://open.spotify.com/artist/3XyHsKlvXenLURpECPEQOJ) | [Bara vi andas](https://open.spotify.com/album/70IDdegrPyqI2bWYFW5GmL) | 2:47 | 2026-01-22 | 2026-04-12 |
 | [Beautiful Things](https://open.spotify.com/track/7yteHACWU1wnAle5GqzMbx) | [Dad Harmony](https://open.spotify.com/artist/0FstuWxWJB3t2RA7FTAmjX) | [Beautiful Things](https://open.spotify.com/album/1roKvLZQqtzpvxiuEA5jMt) | 3:12 | 2025-04-10 | 2026-02-13 |
 | [Benjamin \- From the TV series 'Etter Benjamin'](https://open.spotify.com/track/6qMI1g2TrI8YkybFCBnmwM) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Benjamin \(From the TV series 'Etter Benjamin'\)](https://open.spotify.com/album/2fpkbXE7GnDltvI6m4AJZX) | 3:20 | 2025-09-25 | 2026-03-06 |
 | [Bermuda Triangle](https://open.spotify.com/track/3VfcwjlkUMqbXlJlXpWr5u) | [Lexi Berg](https://open.spotify.com/artist/5ZN5AAuWmyLdheRP0rE7dK) | [Bermuda Triangle](https://open.spotify.com/album/1SaesdaWRe58QoVxuNqy5z) | 3:20 | 2024-09-19 | 2024-10-15 |
@@ -94,6 +94,7 @@
 | [Den jag kunde blivit \- Den jag blev](https://open.spotify.com/track/3bXeMeJmDSe8ZPGx2FWnH7) | [Melissa Horn](https://open.spotify.com/artist/0tOdy7SqogILIjzGU2hSr5) | [Den jag kunde blivit \- Den jag blev](https://open.spotify.com/album/7uXYOA68E1WQSfBuVpvGQC) | 2:57 | 2024-09-12 | 2025-04-11 |
 | [Den känslan](https://open.spotify.com/track/3WlFsQdH5zExoJ5TvmIVhz) | [Linnea Henriksson](https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq) | [Den känslan](https://open.spotify.com/album/3muDr0rYaowGQhYjKE4ol2) | 2:46 | 2025-01-31 | 2026-02-13 |
 | [Den var aldrig jag](https://open.spotify.com/track/3LdjyOCA3Xj5hS4q5y3Pdu) | [Shirley Clamp](https://open.spotify.com/artist/09AdawDC7B5zcphs18nRB7) | [Den var aldrig jag](https://open.spotify.com/album/5eJLPau2afg63p9rCHVQL4) | 4:04 | 2024-06-27 | 2024-08-09 |
+| [Det blir bättre](https://open.spotify.com/track/59awxTVwVwz3yY7Oo4syqV) | [Axel Schylström](https://open.spotify.com/artist/0Oomam5yjtfqVPnscjx8GT) | [Det blir bättre](https://open.spotify.com/album/1eodPSarhvGseJM3jvOdvM) | 3:11 | 2026-04-09 |  |
 | [Det blir inte bättre](https://open.spotify.com/track/6LT4cWGVZPPvXCPIc6Esmi) | [Tomas Ledin](https://open.spotify.com/artist/518rTAIFPwQjLUSi4Pdzzn), [Vapendragarna](https://open.spotify.com/artist/2oLvIYXFghwfx85ywFoR2G) | [Det blir inte bättre](https://open.spotify.com/album/1GRP0pIQbFixMkTNnlsNLC) | 3:15 | 2024-06-27 | 2024-08-23 |
 | [Det bästa av allt](https://open.spotify.com/track/4WFxrUnpVOAL5a3jMNUXgq) | [Thåström](https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H) | [Somliga av oss](https://open.spotify.com/album/3hqJs0VTyrdYVERNsYTwsD) | 3:26 | 2024-10-17 | 2025-04-25 |
 | [Det jag såg i din spegel såg inte ut som mig](https://open.spotify.com/track/1iVmZTfxHv6hRDaGamR52T) | [Den svenska björnstammen](https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G) | [Det jag såg i din spegel såg inte ut som mig](https://open.spotify.com/album/6PDWwnqJ0eygYguIyFBGUv) | 3:23 | 2026-04-09 |  |

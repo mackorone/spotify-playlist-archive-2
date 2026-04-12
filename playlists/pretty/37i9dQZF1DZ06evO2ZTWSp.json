@@ -1,12 +1,12 @@
 {
   "description": "This is Lizzo. The essential tracks, all in one playlist.",
-  "num_followers": 477533,
+  "num_followers": 477511,
   "original_name": "This Is Lizzo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adbsAAAAAAACw9K9503TOjaXveU23sPx",
+  "snapshot_id": "adg9gAAAAADC0rO3XsG/FwAKS7kePjLI",
   "tracks": [
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 187544,
-      "name": "Birthday Girl",
-      "url": "https://open.spotify.com/track/7IoLdpqB5igE13t12SKV8g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Phone",
         "url": "https://open.spotify.com/album/2MiUqzCCfWD0hLJvQXfBG2"
       },
@@ -755,22 +739,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Juice (Breakbot Mix)",
-        "url": "https://open.spotify.com/album/2PfQ8dwtLbBEunURVww5qB"
+        "name": "Special",
+        "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
       },
       "artists": [
         {
           "name": "Lizzo",
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        },
-        {
-          "name": "Breakbot",
-          "url": "https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL"
         }
       ],
-      "duration_ms": 172453,
-      "name": "Juice - Breakbot Mix",
-      "url": "https://open.spotify.com/track/47OnQIAx7QHkm1SbfXcjfP"
+      "duration_ms": 187544,
+      "name": "Birthday Girl",
+      "url": "https://open.spotify.com/track/7IoLdpqB5igE13t12SKV8g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MY FACE HURTS FROM SMILING",
+        "url": "https://open.spotify.com/album/4DzGpfwSY0GIGECJpR6lkk"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "NEW MISTAKES",
+      "url": "https://open.spotify.com/track/2i8qZfW5H5xCG3YJBqZ0ZA"
     },
     {
       "added_at": null,
@@ -791,18 +787,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "MY FACE HURTS FROM SMILING",
-        "url": "https://open.spotify.com/album/4DzGpfwSY0GIGECJpR6lkk"
+        "name": "Juice (Breakbot Mix)",
+        "url": "https://open.spotify.com/album/2PfQ8dwtLbBEunURVww5qB"
       },
       "artists": [
         {
           "name": "Lizzo",
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        },
+        {
+          "name": "Breakbot",
+          "url": "https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL"
         }
       ],
-      "duration_ms": 197000,
-      "name": "NEW MISTAKES",
-      "url": "https://open.spotify.com/track/2i8qZfW5H5xCG3YJBqZ0ZA"
+      "duration_ms": 172453,
+      "name": "Juice - Breakbot Mix",
+      "url": "https://open.spotify.com/track/47OnQIAx7QHkm1SbfXcjfP"
     },
     {
       "added_at": null,

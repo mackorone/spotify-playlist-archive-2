@@ -1,29 +1,13 @@
 {
   "description": "This is Jacob Banks. The essential tracks, all in one playlist.",
-  "num_followers": 40244,
+  "num_followers": 40245,
   "original_name": "This Is Jacob Banks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adbsAAAAAADucK0qPjyGyYWZJPw54oiz",
+  "snapshot_id": "adg9gAAAAAB4n2AULGmUz77y7nHtC/el",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Claim To Fame",
-        "url": "https://open.spotify.com/album/787LMvGOkQv1Zx24FpscpJ"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 286099,
-      "name": "Claim To Fame",
-      "url": "https://open.spotify.com/track/1QFzbzgffdy4XxxZvtxXAi"
-    },
     {
       "added_at": null,
       "album": {
@@ -467,6 +451,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Claim To Fame",
+        "url": "https://open.spotify.com/album/3ZoQcnaE1wrq2RjvgjMQBL"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 286099,
+      "name": "Claim To Fame",
+      "url": "https://open.spotify.com/track/4rBGEMauvu7JaEjFSG6p3s"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Like You'll Never See Me Again",
         "url": "https://open.spotify.com/album/5jXpTr504jjizPvcn9FnZP"
       },
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In The Name Of Love (From The Motion Picture The Equalizer 2)",
-        "url": "https://open.spotify.com/album/0KA7H5EiLI2uPwXSw3dJpf"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 204658,
-      "name": "In The Name Of Love - From The Motion Picture The Equalizer 2",
-      "url": "https://open.spotify.com/track/79WjeGL4IR8svbAVC2FF0I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Village",
         "url": "https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 250826,
       "name": "Be Good To Me (feat. Seinabo Sey)",
       "url": "https://open.spotify.com/track/7juealXfkel1kLInjvY4W8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In The Name Of Love (From The Motion Picture The Equalizer 2)",
+        "url": "https://open.spotify.com/album/0KA7H5EiLI2uPwXSw3dJpf"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 204658,
+      "name": "In The Name Of Love - From The Motion Picture The Equalizer 2",
+      "url": "https://open.spotify.com/track/79WjeGL4IR8svbAVC2FF0I"
     },
     {
       "added_at": null,
@@ -755,6 +755,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Village",
+        "url": "https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 220906,
+      "name": "Mexico",
+      "url": "https://open.spotify.com/track/6sL9r9439ijWhZhtLHFBbm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I'm A Dream",
         "url": "https://open.spotify.com/album/0yaanxtB24lLgKvzXPw4gi"
       },
@@ -775,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Village",
-        "url": "https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 220906,
-      "name": "Mexico",
-      "url": "https://open.spotify.com/track/6sL9r9439ijWhZhtLHFBbm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Paradox",
         "url": "https://open.spotify.com/album/32cDtKd8eH2F74ChwdiWaT"
       },
@@ -803,6 +803,22 @@
       "duration_ms": 276605,
       "name": "Silver Lining",
       "url": "https://open.spotify.com/track/3oFTt5ivFcWXLypCNosbur"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Limerence",
+        "url": "https://open.spotify.com/album/2M9nuz1rCUiuVYdA25of8F"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 76840,
+      "name": "Moon",
+      "url": "https://open.spotify.com/track/7iSmDEMNccANybhTUR1YzK"
     },
     {
       "added_at": null,
@@ -863,6 +879,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Limerence",
+        "url": "https://open.spotify.com/album/2M9nuz1rCUiuVYdA25of8F"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 235714,
+      "name": "In The End",
+      "url": "https://open.spotify.com/track/2nRYqxhoFrPRJve5h0UMa0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lies About The War",
         "url": "https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv"
       },
@@ -875,54 +907,6 @@
       "duration_ms": 191613,
       "name": "Parachute",
       "url": "https://open.spotify.com/track/1zDC7bs9jmXzBReD5JvpHn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Monologue",
-        "url": "https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 293244,
-      "name": "Hostage",
-      "url": "https://open.spotify.com/track/6FwlaG3vag0IHp8McdVY0C"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Other People\u2019s Heartache (Pt. 4)",
-        "url": "https://open.spotify.com/album/3cGGFGQJ027VtMknlIHNNi"
-      },
-      "artists": [
-        {
-          "name": "Other People's Heartache",
-          "url": "https://open.spotify.com/artist/5gXNY1o9BtajaZfYJVXQrv"
-        },
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        },
-        {
-          "name": "Lily Moore",
-          "url": "https://open.spotify.com/artist/1SQeTDXO492WB6aFvrntSS"
-        },
-        {
-          "name": "Moss Kena",
-          "url": "https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv"
-        },
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 342012,
-      "name": "The Descent",
-      "url": "https://open.spotify.com/track/54bqtn4yFAPD9OoIecweDA"
     }
   ],
   "unique_name": "This Is Jacob Banks",

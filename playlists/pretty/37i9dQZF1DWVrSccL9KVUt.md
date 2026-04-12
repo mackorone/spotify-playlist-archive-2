@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrSccL9KVUt.md) - [plain]
 
 > Celebrating the women of all the genres of Christian & Gospel music!  Cover: Meagan Tibbits
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,506 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,525 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrSccL9KVUt.md) - [plain]
 | 99 | [Carry Me](https://open.spotify.com/track/4q3Y80rmbaIaZqR8PcRhie) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [Carry Me](https://open.spotify.com/album/0JKuT0K56zJYmCnXrI13sy) | 3:13 |
 | 100 | [Have Your Way](https://open.spotify.com/track/27wpOVposNwYnFAQ8c4mSo) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC) | [Honest Conversations](https://open.spotify.com/album/3qGiq0le8CJHSjclrv7TW0) | 3:02 |
 
-Snapshot ID: `AAAAABvULq5LrZwy5X7dzKS3FWHzArmC`
+Snapshot ID: `AAAAANMofV95cPO8TZ4wU5Xj6t6LCGBy`

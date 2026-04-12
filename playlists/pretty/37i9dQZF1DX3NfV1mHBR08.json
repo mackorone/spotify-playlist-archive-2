@@ -1,6 +1,6 @@
 {
   "description": "\ub2f9\uc2e0\uc758 \ud558\ub8e8. \uc624\ub298\ub3c4 \uc798\ud558\uace0 \uc788\uc5b4\uc694. (Listen to K-Pop comforting songs)",
-  "num_followers": 49723,
+  "num_followers": 49730,
   "original_name": "\uc798\ud588\uc5b4 \uc624\ub298\ub3c4 (You Did Well.)",
   "owner": {
     "name": "Spotify",
@@ -323,22 +323,6 @@
     {
       "added_at": "2026-04-06 02:12:38",
       "album": {
-        "name": "WHO WE ARE",
-        "url": "https://open.spotify.com/album/0RBuVlwwEKFRj4wTiDayRz"
-      },
-      "artists": [
-        {
-          "name": "AHOF",
-          "url": "https://open.spotify.com/artist/4qfEQKZj3GXPjLBEppvHTH"
-        }
-      ],
-      "duration_ms": 193013,
-      "name": "Cosmic Underdog",
-      "url": "https://open.spotify.com/track/5SQFdiZM3xEwPjRVrZqXpm"
-    },
-    {
-      "added_at": "2026-04-06 02:12:38",
-      "album": {
         "name": "ERROR",
         "url": "https://open.spotify.com/album/0rOZyialXbHAA4qAKi0YaL"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 198558,
       "name": "Panorama",
       "url": "https://open.spotify.com/track/6faF0N0fecqw3dopttNP9i"
+    },
+    {
+      "added_at": "2026-04-06 02:12:38",
+      "album": {
+        "name": "WHO WE ARE",
+        "url": "https://open.spotify.com/album/0RBuVlwwEKFRj4wTiDayRz"
+      },
+      "artists": [
+        {
+          "name": "AHOF",
+          "url": "https://open.spotify.com/artist/4qfEQKZj3GXPjLBEppvHTH"
+        }
+      ],
+      "duration_ms": 193013,
+      "name": "Cosmic Underdog",
+      "url": "https://open.spotify.com/track/5SQFdiZM3xEwPjRVrZqXpm"
     },
     {
       "added_at": "2026-04-06 02:12:38",
@@ -567,22 +567,6 @@
     {
       "added_at": "2026-04-06 02:12:38",
       "album": {
-        "name": "2nd Mini Album 'Algorithm's Blossom'",
-        "url": "https://open.spotify.com/album/4i0rZXe1lgKDzJ8LkueifT"
-      },
-      "artists": [
-        {
-          "name": "QWER",
-          "url": "https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy"
-        }
-      ],
-      "duration_ms": 271293,
-      "name": "Goodbye My Sadness",
-      "url": "https://open.spotify.com/track/7BoC7eEStVxZSBeLtLSoHv"
-    },
-    {
-      "added_at": "2026-04-06 02:12:38",
-      "album": {
         "name": "Take You Home - SM STATION",
         "url": "https://open.spotify.com/album/35xEwaC2WlMzkllTa3XwhK"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 234954,
       "name": "Take You Home",
       "url": "https://open.spotify.com/track/54Nx0KMNIIA0tAPewmd69X"
+    },
+    {
+      "added_at": "2026-04-06 02:12:38",
+      "album": {
+        "name": "2nd Mini Album 'Algorithm's Blossom'",
+        "url": "https://open.spotify.com/album/4i0rZXe1lgKDzJ8LkueifT"
+      },
+      "artists": [
+        {
+          "name": "QWER",
+          "url": "https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy"
+        }
+      ],
+      "duration_ms": 271293,
+      "name": "Goodbye My Sadness",
+      "url": "https://open.spotify.com/track/7BoC7eEStVxZSBeLtLSoHv"
     },
     {
       "added_at": "2026-04-06 02:12:38",

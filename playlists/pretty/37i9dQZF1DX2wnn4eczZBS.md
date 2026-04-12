@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 
 > Indiepop in het Nederlands\. Cover: IDA
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,359 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,358 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 | 22 | [Praat Te Veel](https://open.spotify.com/track/1U5e0L9t9393QN0FrzPa6h) | [jet van der steen](https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo) | [Praat Te Veel](https://open.spotify.com/album/5fcW10KqULqNexBgtsehXY) | 2:22 |
 | 23 | [DON'T BELIEVE DE KRANT](https://open.spotify.com/track/4j3R4MpvwHA9LRJgejoe7q) | [Abel](https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ), [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0), [IJSLAND](https://open.spotify.com/artist/6qldO9Y7hb0qI9J50uR1zW) | [IJSLAND 2](https://open.spotify.com/album/1qwQoDUVZNAGP8g9vBoHug) | 3:38 |
 | 24 | [Rode Seks Feeks](https://open.spotify.com/track/3om5HZ8ueyHTzqyGNOPCfw) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [Rode Seks Feeks](https://open.spotify.com/album/5qp1z7oKUeWaCHGIp2JBsu) | 2:47 |
-| 25 | [Giftig](https://open.spotify.com/track/0KfzPMMjRQw9Vh3J8rzTDK) | [Flaire](https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH), [Wally](https://open.spotify.com/artist/5sKJpW8V9gGDpLIaBYbr8x) | [Giftig](https://open.spotify.com/album/6XjQOyWXlcCjgKzivTgUl2) | 2:52 |
-| 26 | [LATEN ME KOUD](https://open.spotify.com/track/1A8uEMR3qNUsxIbG5bzhi5) | [Brokezart](https://open.spotify.com/artist/6L6GRikGI6S87FmKwsJxou) | [LATEN ME KOUD](https://open.spotify.com/album/57CRAm3v7LNB6cSoaac433) | 2:35 |
+| 25 | [LATEN ME KOUD](https://open.spotify.com/track/1A8uEMR3qNUsxIbG5bzhi5) | [Brokezart](https://open.spotify.com/artist/6L6GRikGI6S87FmKwsJxou) | [LATEN ME KOUD](https://open.spotify.com/album/57CRAm3v7LNB6cSoaac433) | 2:35 |
+| 26 | [Giftig](https://open.spotify.com/track/0KfzPMMjRQw9Vh3J8rzTDK) | [Flaire](https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH), [Wally](https://open.spotify.com/artist/5sKJpW8V9gGDpLIaBYbr8x) | [Giftig](https://open.spotify.com/album/6XjQOyWXlcCjgKzivTgUl2) | 2:52 |
 | 27 | [Als Het Donker Wordt](https://open.spotify.com/track/4nz0xR3gS5OfFOYo8OmWDu) | [Pip Lieke Lucas](https://open.spotify.com/artist/3eWGqcshWI4ujDmuzyKYl0) | [Als Het Donker Wordt](https://open.spotify.com/album/5w1GDsb8nCcvajsVwuVfMY) | 2:13 |
 | 28 | [Of Er Nog Iets Terugkaatst](https://open.spotify.com/track/6YRTHsPQyM0ga4fdsLy0oO) | [WIES](https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n) | [AH!](https://open.spotify.com/album/0csMfna0Qy1dVDGQO0PVPX) | 3:44 |
 | 29 | [Nederland](https://open.spotify.com/track/6lByEnaXlZS78u7YxvKEF4) | [Spinvis](https://open.spotify.com/artist/1Vxc40v4VtLpSWTF2bn8Y4), [Vinkenoog](https://open.spotify.com/artist/6AGDhC3w4fUUMOwuzQlysK) | [Nederland](https://open.spotify.com/album/45DRLkQnQCjxiPDLrK0x63) | 3:04 |
@@ -50,12 +50,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 | 40 | [Was Het Nou Maar Zo](https://open.spotify.com/track/16109XiqzxPp5UrwFTB285) | [Politie Warnsveld](https://open.spotify.com/artist/7dknEQKM1f3bOMXN1pmoqe) | [Was Het Nou Maar Zo](https://open.spotify.com/album/4Qu9jV13GeXFLgSr7Voada) | 3:14 |
 | 41 | [Boterham](https://open.spotify.com/track/43jTtqGXC9Haqr1CsCQ6et) | [Gotu Jim](https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ), [Faberyayo](https://open.spotify.com/artist/3tSNYodPp4woMbWy6XZQG0) | [Boterham](https://open.spotify.com/album/2gs4DAtbdobe6Zc0WEYXoO) | 2:07 |
 | 42 | [Magneten](https://open.spotify.com/track/5OHgSlszGzcqsmcIGigxkD) | [WIES](https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n) | [Magneten](https://open.spotify.com/album/41tDTfgCQ1Ybl7TAAERFIw) | 3:10 |
-| 43 | [Schaduw](https://open.spotify.com/track/51K5jkPVyjP4jcqPcfBTYl) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G), [Abel](https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ) | [Schaduw](https://open.spotify.com/album/66mkzk0QFKvP4BalRxe8ZR) | 3:36 |
-| 44 | [Niemandsland](https://open.spotify.com/track/7iXUwdWoR4dDwKk85zvcCa) | [Ploegendienst](https://open.spotify.com/artist/2aJUvAtem0t0zRKxJsRoea), [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds) | [Niemandsland](https://open.spotify.com/album/4MfChcpoXYxVcbsiEraWll) | 2:45 |
+| 43 | [Niemandsland](https://open.spotify.com/track/7iXUwdWoR4dDwKk85zvcCa) | [Ploegendienst](https://open.spotify.com/artist/2aJUvAtem0t0zRKxJsRoea), [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds) | [Niemandsland](https://open.spotify.com/album/4MfChcpoXYxVcbsiEraWll) | 2:45 |
+| 44 | [Schaduw](https://open.spotify.com/track/51K5jkPVyjP4jcqPcfBTYl) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G), [Abel](https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ) | [Schaduw](https://open.spotify.com/album/66mkzk0QFKvP4BalRxe8ZR) | 3:36 |
 | 45 | [Kan Je Niet Blijven?](https://open.spotify.com/track/39eWBLGnZPIwBNESykz0V8) | [Politie Warnsveld](https://open.spotify.com/artist/7dknEQKM1f3bOMXN1pmoqe) | [Kan Je Niet Blijven?](https://open.spotify.com/album/0zDtda7KNQvJ1jggMPyhvI) | 3:35 |
-| 46 | [Moe Van Jezelf](https://open.spotify.com/track/3gsHFY5eFCkanac1hMUjOo) | [nonchelange](https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n), [Mathieu Terryn](https://open.spotify.com/artist/49lHyCtrgMgmijZw2FqPHK) | [Moe Van Jezelf](https://open.spotify.com/album/7DZIfMTGxzRN9nkcIxCDfo) | 2:40 |
+| 46 | [Bob Dylan](https://open.spotify.com/track/5FfhOLX2T07YpFNctSrO9P) | [De Plaag](https://open.spotify.com/artist/5ezJSYbBLR78v7cKsoC46d) | [Bob Dylan](https://open.spotify.com/album/15cwNEjCv4EjW8xUiUnQ5M) | 3:45 |
 | 47 | [Komt Goed](https://open.spotify.com/track/1vw8hWQB4iST0TzmjNYCM2) | [IDA](https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN) | [Kubus In Een Ballenbak](https://open.spotify.com/album/2qCMxawxzGP2g3dJ8q0eNR) | 2:33 |
-| 48 | [Bob Dylan](https://open.spotify.com/track/5FfhOLX2T07YpFNctSrO9P) | [De Plaag](https://open.spotify.com/artist/5ezJSYbBLR78v7cKsoC46d) | [Bob Dylan](https://open.spotify.com/album/15cwNEjCv4EjW8xUiUnQ5M) | 3:45 |
+| 48 | [Moe Van Jezelf](https://open.spotify.com/track/3gsHFY5eFCkanac1hMUjOo) | [nonchelange](https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n), [Mathieu Terryn](https://open.spotify.com/artist/49lHyCtrgMgmijZw2FqPHK) | [Moe Van Jezelf](https://open.spotify.com/album/7DZIfMTGxzRN9nkcIxCDfo) | 2:40 |
 | 49 | [Skinroutine Bikinilijn](https://open.spotify.com/track/6Q0MNS8ZNeEKDnLgDgoZe2) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [Skinroutine Bikinilijn](https://open.spotify.com/album/6Gxagh1mE6Z9Mipof5thLQ) | 3:03 |
 | 50 | [Water](https://open.spotify.com/track/0Q7FWCLgqatwSWma0K3afr) | [Vic Willems](https://open.spotify.com/artist/0StW0SKh1kJo8Myzc8ZjCX), [Denise Breevaart](https://open.spotify.com/artist/7a7QUAAZArOW20p34t9nhS) | [Ook De Miezer](https://open.spotify.com/album/40xY7z7fbX1drEWKz5y5CQ) | 4:00 |
 

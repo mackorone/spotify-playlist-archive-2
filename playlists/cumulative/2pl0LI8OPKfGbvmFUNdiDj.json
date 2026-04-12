@@ -7031,6 +7031,24 @@
     },
     {
       "album": {
+        "name": "Walk this road",
+        "url": "https://open.spotify.com/album/5Gal7XaBtHNT687d69zomu"
+      },
+      "artists": [
+        {
+          "name": "Slim Dragon",
+          "url": "https://open.spotify.com/artist/312cwwaEcsB3saZEWLyQEO"
+        }
+      ],
+      "date_added": "2026-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211777,
+      "name": "Walk this road",
+      "url": "https://open.spotify.com/track/6RlhMFUctXgyXJpJWnfHHu"
+    },
+    {
+      "album": {
         "name": "Walls",
         "url": "https://open.spotify.com/album/52adXcCRJ2WMZ4lzuRjlej"
       },

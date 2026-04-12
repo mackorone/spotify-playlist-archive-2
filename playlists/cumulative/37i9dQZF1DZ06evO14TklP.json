@@ -748,10 +748,28 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 68063,
       "name": "Dona de Casa",
       "url": "https://open.spotify.com/track/23S0CnAJMB0vLCL1vYHLXH"
+    },
+    {
+      "album": {
+        "name": "KM2 (De Luxo)",
+        "url": "https://open.spotify.com/album/6TWX7QLULtq9672vLeUZTO"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        }
+      ],
+      "date_added": "2026-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68063,
+      "name": "Dona de Casa",
+      "url": "https://open.spotify.com/track/3JT4I9BqWvwwvtmc4jbDLF"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > This is Outsiders\. The essential tracks, all in one playlist.
 
-67 songs - 3 hr 35 min
+68 songs - 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [Popcorn](https://open.spotify.com/track/2WEAjQeoTRm7T3leqV2YfQ) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Bass Chaserz](https://open.spotify.com/artist/5SxjKJ2HIg3dVQ427HYVHS), [Anita Doth](https://open.spotify.com/artist/7xhR4wM8X8SeGTKKPujotA) | [Popcorn](https://open.spotify.com/album/2pM2KhElow7DCyDuf1vZ4O) | 3:16 | 2025-07-20 |  |
 | [Puberbrein \- Outsiders Remix](https://open.spotify.com/track/1J1pj5hRtDhvqEuSleAFrZ) | [STUK](https://open.spotify.com/artist/0MnM8NE69iw1cVc7GVIZ41), [Kafke](https://open.spotify.com/artist/0nC1zkioNJaPntz8XAeLx9), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Puberbrein \(Outsiders Remix\)](https://open.spotify.com/album/04njY5hDefPtnKZRpb6Ppk) | 1:58 | 2025-07-20 |  |
 | [Pullover \(feat\. J.D.A.\)](https://open.spotify.com/track/0lhpUzuy55cSFC44B143I2) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [J.D.A.](https://open.spotify.com/artist/2JDi9za9u6zXMmUwSZGPZs) | [Pullover \(feat\. J.D.A.\)](https://open.spotify.com/album/0ehvryl4ZSycpdBU54I5Ak) | 3:02 | 2025-07-20 |  |
-| [Rebel Baby](https://open.spotify.com/track/2M5mu6nJEFbq6Z6shY3WSZ) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Rebel Baby](https://open.spotify.com/album/7hk0hPdYtMeqT1rdANRbne) | 4:12 | 2025-07-20 |  |
+| [Rebel Baby](https://open.spotify.com/track/2M5mu6nJEFbq6Z6shY3WSZ) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Rebel Baby](https://open.spotify.com/album/7hk0hPdYtMeqT1rdANRbne) | 4:12 | 2025-07-20 | 2026-04-12 |
+| [Rebel Baby \- Potato Remix](https://open.spotify.com/track/5F31rHUu95XlySioIqSnSP) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Potato](https://open.spotify.com/artist/6qMNbZcFG1ibrUM4QhUsQV) | [Rebel Baby \(Potato Remix\)](https://open.spotify.com/album/3R1B6UoXntXxILHzykAABQ) | 2:29 | 2026-04-12 |  |
 | [Rebls 4 Life](https://open.spotify.com/track/632MogW61VKRFtmvYuY8jV) | [Bass Chaserz](https://open.spotify.com/artist/5SxjKJ2HIg3dVQ427HYVHS), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Rebls 4 Life](https://open.spotify.com/album/7y6SPprhgZXGYlzADaw8AP) | 3:31 | 2025-07-27 |  |
 | [Right Now](https://open.spotify.com/track/0sIhLsGX8xLNmegXBmkzEP) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6) | [Right Now](https://open.spotify.com/album/4bGCG6X43KPhbtjNrrSHOL) | 2:57 | 2026-03-15 |  |
 | [Ruinen Dieser Welt](https://open.spotify.com/track/0M6Ev2Pkm72m8t13siJPDp) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [2 Engel & Charlie](https://open.spotify.com/artist/0XRkZikEumDTaGGE9mW8HA) | [Ruinen Dieser Welt](https://open.spotify.com/album/2JPl1Vfq5p6MtZ3re2QD6J) | 3:10 | 2025-07-20 |  |

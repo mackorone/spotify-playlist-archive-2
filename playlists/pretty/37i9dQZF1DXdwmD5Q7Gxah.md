@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > wasia project on the cover <3 <a href="https://loremandfriends.substack.com/p/everything\-comes\-back\-around\-and">read our substack 🫧  </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,186,630 likes - 151 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,186,625 likes - 151 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

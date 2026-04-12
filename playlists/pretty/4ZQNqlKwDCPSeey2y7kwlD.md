@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4ZQNqlKwDCPSeey2y7kwlD.md) - [plain]
 
 > What have we done?
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 105,277 likes - 81 songs - 4 hr 30 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 105,263 likes - 81 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Lainey Wilson. The essential tracks, all in one playlist.",
-  "num_followers": 110224,
+  "num_followers": 110255,
   "original_name": "This Is Lainey Wilson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adbsAAAAAACTIua85iAo52hC6NoHViOH",
+  "snapshot_id": "adg9gAAAAABsKosq6CEBLUbnYwPTtiar",
   "tracks": [
     {
       "added_at": null,
@@ -195,22 +195,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somewhere Over Laredo",
-        "url": "https://open.spotify.com/album/7AM3OzfWrmxHJ5xkWSEEre"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Somewhere Over Laredo",
-      "url": "https://open.spotify.com/track/0aGIy8kll4HYDnNTDlf2vU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Turn Back Time",
         "url": "https://open.spotify.com/album/1YTUy55SBqVmOTSJHJ8ken"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 196306,
       "name": "Pieces",
       "url": "https://open.spotify.com/track/73rxH6rYJQZtwfjKNb4mwZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Somewhere Over Laredo",
+        "url": "https://open.spotify.com/album/7AM3OzfWrmxHJ5xkWSEEre"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Somewhere Over Laredo",
+      "url": "https://open.spotify.com/track/0aGIy8kll4HYDnNTDlf2vU"
     },
     {
       "added_at": null,
@@ -355,26 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stereotype",
-        "url": "https://open.spotify.com/album/5UgaQfAOaOdfLxFClw8EWa"
-      },
-      "artists": [
-        {
-          "name": "Cole Swindell",
-          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
-        },
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 176146,
-      "name": "Never Say Never (with Lainey Wilson)",
-      "url": "https://open.spotify.com/track/3iYEsBl8NBq1o1j5uY2Noe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NASHVILLE, TENNESSEE",
         "url": "https://open.spotify.com/album/0fbS7loVI8hh7T06iymFU8"
       },
@@ -391,6 +371,26 @@
       "duration_ms": 202434,
       "name": "Would If I Could (feat. Lainey Wilson)",
       "url": "https://open.spotify.com/track/26o6A0vDrmjiaM0bgP5BH8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stereotype",
+        "url": "https://open.spotify.com/album/5UgaQfAOaOdfLxFClw8EWa"
+      },
+      "artists": [
+        {
+          "name": "Cole Swindell",
+          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 176146,
+      "name": "Never Say Never (with Lainey Wilson)",
+      "url": "https://open.spotify.com/track/3iYEsBl8NBq1o1j5uY2Noe"
     },
     {
       "added_at": null,
@@ -819,22 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6FScslXq5fezJiaKFRwBlQ"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 233973,
-      "name": "Rock and Roll, Hoochie Koo - Spotify Singles",
-      "url": "https://open.spotify.com/track/4h9GMqQ7bG7XbsC5kdXzNw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tougher",
         "url": "https://open.spotify.com/album/139iXhHdS8eCKVx7tOaOqo"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 219760,
       "name": "Tougher",
       "url": "https://open.spotify.com/track/0lJhjZ46DHqNbRjBILfnox"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6FScslXq5fezJiaKFRwBlQ"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 233973,
+      "name": "Rock and Roll, Hoochie Koo - Spotify Singles",
+      "url": "https://open.spotify.com/track/4h9GMqQ7bG7XbsC5kdXzNw"
     },
     {
       "added_at": null,
@@ -867,22 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whirlwind (Deluxe)",
-        "url": "https://open.spotify.com/album/4jzl02ZBUX359L5VlqLNCQ"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 184453,
-      "name": "Yesterday, All Day, Every Day",
-      "url": "https://open.spotify.com/track/6g3b9wRGkNqxwWmhRkLc7O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Workin' Overtime",
         "url": "https://open.spotify.com/album/7lSO4tNS7QRbsJXY8PAq7O"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 197685,
       "name": "Workin' Overtime",
       "url": "https://open.spotify.com/track/7moCajI0QyQ4mHf1ayiihD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Whirlwind (Deluxe)",
+        "url": "https://open.spotify.com/album/4jzl02ZBUX359L5VlqLNCQ"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 184453,
+      "name": "Yesterday, All Day, Every Day",
+      "url": "https://open.spotify.com/track/6g3b9wRGkNqxwWmhRkLc7O"
     }
   ],
   "unique_name": "This Is Lainey Wilson",

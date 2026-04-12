@@ -1,12 +1,12 @@
 {
   "description": "This is Howlin' Wolf. The essential tracks, all in one playlist.",
-  "num_followers": 31167,
+  "num_followers": 31172,
   "original_name": "This Is Howlin' Wolf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adbsAAAAAACNt9eUbhSP4aHFjounAs7M",
+  "snapshot_id": "adg9gAAAAADq4ziHpzjq2eFI8MDmONnH",
   "tracks": [
     {
       "added_at": null,
@@ -479,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Back Door Wolf",
-        "url": "https://open.spotify.com/album/4vh7IH7qY7ToZsSUeNseLt"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 167853,
-      "name": "Moving",
-      "url": "https://open.spotify.com/track/4IyT52kGjY8nc9eyXa5eBn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Smokestack Lightning /The Complete Chess Masters 1951-1960",
         "url": "https://open.spotify.com/album/0Oc3QMGeNj9JC7f0rBaP8Q"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 159373,
       "name": "Going Back Home",
       "url": "https://open.spotify.com/track/2I48KvJxmIXeIZJjmrJxHW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Back Door Wolf",
+        "url": "https://open.spotify.com/album/4vh7IH7qY7ToZsSUeNseLt"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 167853,
+      "name": "Moving",
+      "url": "https://open.spotify.com/track/4IyT52kGjY8nc9eyXa5eBn"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Back Door Wolf",
-        "url": "https://open.spotify.com/album/4vh7IH7qY7ToZsSUeNseLt"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 293066,
-      "name": "You Turn Slick On Me",
-      "url": "https://open.spotify.com/track/4vFSTxdwlrZJrN5hx6D4ik"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ain't Gonna Be Your Dog: Chess Collectibles Vol. 2",
         "url": "https://open.spotify.com/album/6QdJm82BTysvMJVoT7nF61"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 181240,
       "name": "My Life - Single Version",
       "url": "https://open.spotify.com/track/155NceRDOs2fZUXdNTNxvA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Back Door Wolf",
+        "url": "https://open.spotify.com/album/4vh7IH7qY7ToZsSUeNseLt"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 293066,
+      "name": "You Turn Slick On Me",
+      "url": "https://open.spotify.com/track/4vFSTxdwlrZJrN5hx6D4ik"
     },
     {
       "added_at": null,
@@ -627,6 +627,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Music Legends Howlin' Wolf: The Giant Voice of Blues",
+        "url": "https://open.spotify.com/album/10PSqAaeMiAWmeYtheIs4Z"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 175379,
+      "name": "I'm Leaving You",
+      "url": "https://open.spotify.com/track/6uNfp2UaHJFucfdxmZaQvx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Electro Blues - In House Selection",
         "url": "https://open.spotify.com/album/3WIp2Kipz5Wc4OPLvQ54iW"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 175733,
       "name": "Just Like I Treat You - Single Version",
       "url": "https://open.spotify.com/track/4rFIhtPEMIL63bc8mNWUrO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Music Legends Howlin' Wolf: The Giant Voice of Blues",
-        "url": "https://open.spotify.com/album/10PSqAaeMiAWmeYtheIs4Z"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 175379,
-      "name": "I'm Leaving You",
-      "url": "https://open.spotify.com/track/6uNfp2UaHJFucfdxmZaQvx"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Change My Way",
-        "url": "https://open.spotify.com/album/3hiph4Eva4CueYfapJb312"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 140760,
-      "name": "Hidden Charms - Single Version",
-      "url": "https://open.spotify.com/track/3BuY7nN3DWskCCBY3wTKgE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "More Real Folk Blues",
         "url": "https://open.spotify.com/album/0VhNNQHnR3ZVTgeEGBTAYS"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 191640,
       "name": "You Can't Be Beat - Single Version",
       "url": "https://open.spotify.com/track/0ZkCiuzIOa8g63BbesjHNM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Change My Way",
+        "url": "https://open.spotify.com/album/3hiph4Eva4CueYfapJb312"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 140760,
+      "name": "Hidden Charms - Single Version",
+      "url": "https://open.spotify.com/track/3BuY7nN3DWskCCBY3wTKgE"
     },
     {
       "added_at": null,
@@ -783,6 +783,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Live in Europe 1964 (2025 Remaster)",
+        "url": "https://open.spotify.com/album/5KG3JmXjgdCM6d7YILye05"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 249440,
+      "name": "All My Life - Live in Europe 1964 - 2025 Remaster",
+      "url": "https://open.spotify.com/track/1Cir0qnb0sdjzTtzisaGa3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Change My Way",
         "url": "https://open.spotify.com/album/3hiph4Eva4CueYfapJb312"
       },
@@ -815,22 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live in Europe 1964 (2025 Remaster)",
-        "url": "https://open.spotify.com/album/5KG3JmXjgdCM6d7YILye05"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 249440,
-      "name": "All My Life - Live in Europe 1964 - 2025 Remaster",
-      "url": "https://open.spotify.com/track/1Cir0qnb0sdjzTtzisaGa3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Memphis Sessions",
         "url": "https://open.spotify.com/album/4SseCrDhnIn2ZbMhPV1A1n"
       },
@@ -843,6 +843,22 @@
       "duration_ms": 178000,
       "name": "California Blues",
       "url": "https://open.spotify.com/track/71o5zMXNmF539Ff2anKj8m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live in Europe 1964 (2025 Remaster)",
+        "url": "https://open.spotify.com/album/5KG3JmXjgdCM6d7YILye05"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 334640,
+      "name": "I Didn't Mean to Hurt Your Feelings - Live in Europe 1964 - 2025 Remaster",
+      "url": "https://open.spotify.com/track/5KJJ9nLPdplYLv7QQuXDe4"
     },
     {
       "added_at": null,
@@ -891,22 +907,6 @@
       "duration_ms": 302266,
       "name": "Dust My Broom - Live in Europe 1964 - 2025 Remaster",
       "url": "https://open.spotify.com/track/4a0NdfY3aWOlZCB3nWz0vS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live in Europe 1964 (2025 Remaster)",
-        "url": "https://open.spotify.com/album/5KG3JmXjgdCM6d7YILye05"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 334640,
-      "name": "I Didn't Mean to Hurt Your Feelings - Live in Europe 1964 - 2025 Remaster",
-      "url": "https://open.spotify.com/track/5KJJ9nLPdplYLv7QQuXDe4"
     },
     {
       "added_at": null,

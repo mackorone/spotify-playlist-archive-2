@@ -143,6 +143,36 @@
     },
     {
       "album": {
+        "name": "A Gozar",
+        "url": "https://open.spotify.com/album/4ZN8AOjAkMnIlEqd0Fav9u"
+      },
+      "artists": [
+        {
+          "name": "DJ Morphius",
+          "url": "https://open.spotify.com/artist/0JG1qMChKnNWRh0GRgOJJN"
+        },
+        {
+          "name": "DJ Hazel Mty",
+          "url": "https://open.spotify.com/artist/40t9WzNauTKHjLkG6ok3rG"
+        },
+        {
+          "name": "Muzik Junkies",
+          "url": "https://open.spotify.com/artist/34DQTRbIYPLSGU2SkOTEja"
+        },
+        {
+          "name": "La Bomba Kike Play",
+          "url": "https://open.spotify.com/artist/0hIYNKlYxQY4O6edWnnn9Y"
+        }
+      ],
+      "date_added": "2025-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150591,
+      "name": "A Gozar",
+      "url": "https://open.spotify.com/track/2i7sKsVOXtrhBdQGMWNTcp"
+    },
+    {
+      "album": {
         "name": "A La PM Puse En Alto",
         "url": "https://open.spotify.com/album/7JMd6WQhu41hgPGNsktSax"
       },
@@ -3024,7 +3054,7 @@
       ],
       "date_added": "2025-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 207980,
       "name": "Es As\u00ed",
       "url": "https://open.spotify.com/track/6UcSnz6quThUb3XsjQbmgY"

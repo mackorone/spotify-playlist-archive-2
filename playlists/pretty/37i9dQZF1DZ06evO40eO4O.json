@@ -1,12 +1,12 @@
 {
   "description": "This is Angela Torres. The essential tracks, all in one playlist.",
-  "num_followers": 7078,
+  "num_followers": 7104,
   "original_name": "This Is Angela Torres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adbsAAAAAAC8+THJU4Agdc1McNjF/MUN",
+  "snapshot_id": "adg9gAAAAAC79d17ChGDsIMxVfNlnhij",
   "tracks": [
     {
       "added_at": null,
@@ -147,26 +147,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mejor Que Ayer",
-        "url": "https://open.spotify.com/album/4V8VrdZELSBwlvKaEr4jNC"
+        "name": "La vida rosa",
+        "url": "https://open.spotify.com/album/1QNNw4vdlcNW6oRBGVT9h0"
       },
       "artists": [
         {
-          "name": "Diego Torres",
-          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
-        },
-        {
           "name": "Angela Torres",
           "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
-        },
-        {
-          "name": "Benja Torres",
-          "url": "https://open.spotify.com/artist/2oYfJFUmjFi67Fn6sBIUY4"
         }
       ],
-      "duration_ms": 199340,
-      "name": "Las Leyes de La Vida",
-      "url": "https://open.spotify.com/track/1E9mUWox7ZaSnfGS4P3fBp"
+      "duration_ms": 228680,
+      "name": "La vida rosa",
+      "url": "https://open.spotify.com/track/6S7CT8xrkOpDOXC4xjdhXt"
     },
     {
       "added_at": null,
@@ -187,18 +179,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "La vida rosa",
-        "url": "https://open.spotify.com/album/1QNNw4vdlcNW6oRBGVT9h0"
+        "name": "Mejor Que Ayer",
+        "url": "https://open.spotify.com/album/4V8VrdZELSBwlvKaEr4jNC"
       },
       "artists": [
         {
+          "name": "Diego Torres",
+          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+        },
+        {
           "name": "Angela Torres",
           "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        },
+        {
+          "name": "Benja Torres",
+          "url": "https://open.spotify.com/artist/2oYfJFUmjFi67Fn6sBIUY4"
         }
       ],
-      "duration_ms": 228680,
-      "name": "La vida rosa",
-      "url": "https://open.spotify.com/track/6S7CT8xrkOpDOXC4xjdhXt"
+      "duration_ms": 199340,
+      "name": "Las Leyes de La Vida",
+      "url": "https://open.spotify.com/track/1E9mUWox7ZaSnfGS4P3fBp"
     },
     {
       "added_at": null,
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
         }
       ],
-      "duration_ms": 136774,
-      "name": "FRAGIL",
-      "url": "https://open.spotify.com/track/3or5eT4oHWARZ9JUYfXM1C"
+      "duration_ms": 182400,
+      "name": "LNDF",
+      "url": "https://open.spotify.com/track/49b86Qmdexs8IxuaLHD0AA"
     },
     {
       "added_at": null,
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
         }
       ],
-      "duration_ms": 182400,
-      "name": "LNDF",
-      "url": "https://open.spotify.com/track/49b86Qmdexs8IxuaLHD0AA"
+      "duration_ms": 136774,
+      "name": "FRAGIL",
+      "url": "https://open.spotify.com/track/3or5eT4oHWARZ9JUYfXM1C"
     },
     {
       "added_at": null,

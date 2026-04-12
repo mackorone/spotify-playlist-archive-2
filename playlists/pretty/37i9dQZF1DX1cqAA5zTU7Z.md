@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cqAA5zTU7Z.md) - [plain]
 
 > Based on the best\-selling book series\. Listen to the music from Heated Rivalry, now streaming on Crave and HBO Max.
 
-[Spotify](https://open.spotify.com/user/spotify) - 409,045 likes - 73 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 409,574 likes - 73 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cqAA5zTU7Z.md) - [plain]
 | 26 | [Grenn pwonmennen](https://open.spotify.com/track/1rFzZo0fjq3SpGevCs166G) | [The Bongo Hop](https://open.spotify.com/artist/0vIM6xovGnCeWUNYR42Zsk), [Kephny Eliacin](https://open.spotify.com/artist/3gPI2iPuMnMphVk7YK34lT) | [Satingarona Pt\. 2](https://open.spotify.com/album/1dZQRZHQUDcXHwZpKwZHF2) | 5:26 |
 | 27 | [Tu T'en Souviens \- A COLORS SHOW](https://open.spotify.com/track/0Q5rXLOF7NxSfiNE9xEtuc) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [Tu T'en Souviens \- A COLORS SHOW](https://open.spotify.com/album/76RFXXmVwMd7VpAwb2dpIR) | 2:52 |
 | 28 | [En dedans](https://open.spotify.com/track/2u6KcnqiuEcg9Vumf01hzS) | [Richy Jay](https://open.spotify.com/artist/1tzsk4xoWgfCkOO5dpR486), [EkaySounds](https://open.spotify.com/artist/42q6JhdjbfB3IFtBsr3TmV) | [Recto Verso](https://open.spotify.com/album/5OWswD29Pw1gpftLdcn2sy) | 2:50 |
-| 29 | [C'est toi](https://open.spotify.com/track/7vzLRsfNytlCFJzZhM1AXK) | [Satine](https://open.spotify.com/artist/7Abx1tdwQoBDWr1nD1o62B) | [C'est toi](https://open.spotify.com/album/6vUy11UYLwzE3V89PbpELy) | 1:58 |
+| 29 | [C'est toi](https://open.spotify.com/track/7vzLRsfNytlCFJzZhM1AXK) | [satine](https://open.spotify.com/artist/7Abx1tdwQoBDWr1nD1o62B) | [C'est toi](https://open.spotify.com/album/6vUy11UYLwzE3V89PbpELy) | 1:58 |
 | 30 | [Aaliyah](https://open.spotify.com/track/26hUeZUdgM5AEzs31qr3SU) | [Malko](https://open.spotify.com/artist/501Uzli8ksZoUEWZj8uKJI) | [SAHARA](https://open.spotify.com/album/2C7QaRqtc4u0jErPw63A5o) | 1:58 |
 | 31 | [Solutions to My Gloom](https://open.spotify.com/track/3Cq3SRFSWK7qhfSvSWMkxg) | [Unessential Oils](https://open.spotify.com/artist/34dPqKupUgAXZRn6beb0Zu) | [Unessential Oils](https://open.spotify.com/album/7wv2WyE90zTTbgEGKVWtaq) | 4:25 |
 | 32 | [Prendre soin du beau](https://open.spotify.com/track/6cqT1guXExDBibebscbGqg) | [Jessica Charlie](https://open.spotify.com/artist/0nBaWM1NoLFB7kPSftK6op) | [Prendre soin du beau](https://open.spotify.com/album/6qGTjFlt1VfhS1ISV2OACY) | 3:15 |

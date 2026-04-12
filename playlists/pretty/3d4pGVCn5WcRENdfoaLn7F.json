@@ -1,12 +1,12 @@
 {
   "description": "These are some independent alternative rock bands you need to hear.",
-  "num_followers": 618,
+  "num_followers": 619,
   "original_name": "Unsigned Alternative Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAADO7FtaBwV3xWyCnSih8YWf+PywnMd",
+  "snapshot_id": "AAADPiQMWdjR0+z7Ap1Uim3J1cb2RC5t",
   "tracks": [
     {
       "added_at": "2026-02-16 17:21:01",
@@ -1507,6 +1507,54 @@
       "duration_ms": 225333,
       "name": "Broken (Goodbye)",
       "url": "https://open.spotify.com/track/22r1gUmB2NNu88vNv1Cqc0"
+    },
+    {
+      "added_at": "2026-04-11 14:26:14",
+      "album": {
+        "name": "\u041f\u043e\u0445\u0443\u0439",
+        "url": "https://open.spotify.com/album/6HAK3Nt64YIMqkyh9ZLvqK"
+      },
+      "artists": [
+        {
+          "name": "LU DI",
+          "url": "https://open.spotify.com/artist/5RRBvAv0PQ9trVMrH8X6ZA"
+        }
+      ],
+      "duration_ms": 203177,
+      "name": "\u041f\u043e\u0445\u0443\u0439",
+      "url": "https://open.spotify.com/track/2dSR6mFSl5JtKsWkh3e6pO"
+    },
+    {
+      "added_at": "2026-04-11 14:33:15",
+      "album": {
+        "name": "Down and Out",
+        "url": "https://open.spotify.com/album/6Hg0NRmmjjjjaBKYqG3nGh"
+      },
+      "artists": [
+        {
+          "name": "White Star Line",
+          "url": "https://open.spotify.com/artist/3qDMmbHoQIpMvNuOzyazsh"
+        }
+      ],
+      "duration_ms": 222155,
+      "name": "Down and Out",
+      "url": "https://open.spotify.com/track/4FijKBMTSLv63uXNh3qM1e"
+    },
+    {
+      "added_at": "2026-04-11 14:35:57",
+      "album": {
+        "name": "Fetishize Me",
+        "url": "https://open.spotify.com/album/79kv9dZL1zwHvcebBXMTnw"
+      },
+      "artists": [
+        {
+          "name": "Sarah Hedger",
+          "url": "https://open.spotify.com/artist/2CQDj93K4SEEYoQf96TjIy"
+        }
+      ],
+      "duration_ms": 153046,
+      "name": "Fetishize Me",
+      "url": "https://open.spotify.com/track/7LyMFbtf8aiUgUtZYoXgXb"
     }
   ],
   "unique_name": "Unsigned Alternative Rock",

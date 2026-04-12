@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > 🇳🇴🤝🇸🇪
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,430 likes - 107 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,436 likes - 107 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 83 | [FUCKA UR](https://open.spotify.com/track/49fxUYsoVY6HA7FlmvlFAd) | [10.2%](https://open.spotify.com/artist/6sObrcMSo8LcFzXeXWxwHH), [FESTEN](https://open.spotify.com/artist/6kkPyeuOgSIKJGWbPCSW5h) | [FUCKA UR](https://open.spotify.com/album/0Ysvz0OTF0bXlMRIIGeQ5K) | 2:37 |
 | 84 | [PÅ LOKAL](https://open.spotify.com/track/5pF1DygehF10LeCIpV936H) | [Rivstart](https://open.spotify.com/artist/0NNJLiIAqTaLE1MMMgrBNj), [Fredrik Lundman](https://open.spotify.com/artist/6wAyoT7d2NrEWUcG2IbN23) | [PÅ LOKAL](https://open.spotify.com/album/6PzvVlavNNqMMWzSKusoX5) | 2:28 |
 | 85 | [LÄTTAR](https://open.spotify.com/track/0haBpxAKNDWImmQf91NPdF) | [10.2%](https://open.spotify.com/artist/6sObrcMSo8LcFzXeXWxwHH) | [LÄTTAR](https://open.spotify.com/album/6WvdffDFUri9uyYv4VznKR) | 2:02 |
-| 86 | [ALLURE](https://open.spotify.com/track/3aSfDNWONpRvFYV85E7inq) | [DJ Hellan](https://open.spotify.com/artist/65uIRTMznTeapqZ6SBy52z), [Russebassisten](https://open.spotify.com/artist/3KMDuL3T8s1cMvN2PntlLZ) | [ALLURE](https://open.spotify.com/album/4Zt8RNa8Xf2GqIX077ezbG) | 2:34 |
+| 86 | [ALLURE](https://open.spotify.com/track/3aSfDNWONpRvFYV85E7inq) | [DJ Hellan](https://open.spotify.com/artist/65uIRTMznTeapqZ6SBy52z) | [ALLURE](https://open.spotify.com/album/4Zt8RNa8Xf2GqIX077ezbG) | 2:34 |
 | 87 | [Kvällen tar aldrig slut](https://open.spotify.com/track/0P8bAaQDNklUlZ6Izjinll) | [Mojnz](https://open.spotify.com/artist/61cp16xuPyKTvJYmaAY6st), [KLIKK](https://open.spotify.com/artist/5KzAtk6MPVaEFBvrvfFh69) | [Kvällen tar aldrig slut](https://open.spotify.com/album/1e1FE357U2LZ6BtPolgRRF) | 2:25 |
 | 88 | [Kurtisør 2026](https://open.spotify.com/track/5xiYCXTo3PnbkjdRRcuMdq) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Kurtisør 2026](https://open.spotify.com/album/0Dz7qLsSVwDeGB0Xfqptjf) | 2:51 |
 | 89 | [DUM](https://open.spotify.com/track/1PgM2LfYjscFrgqXByCLHI) | [BAKI$](https://open.spotify.com/artist/5Cbn1PScGFcG2PlibZY65u) | [DUM](https://open.spotify.com/album/2wMFWGVcjh2Lx6Ipcb8cM5) | 2:18 |

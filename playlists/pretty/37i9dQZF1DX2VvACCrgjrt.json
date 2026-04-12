@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house \ud83d\udd25\ud83d\udd25 featuring bradeazy",
-  "num_followers": 1313153,
+  "num_followers": 1313148,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -476,7 +476,7 @@
       },
       "artists": [
         {
-          "name": "Dillon Nathaniel",
+          "name": "dillon nathaniel",
           "url": "https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j"
         }
       ],
@@ -871,6 +871,22 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
+        "name": "I Got Feelings",
+        "url": "https://open.spotify.com/album/5VA1Nehnfdr4ao3Tr2XCrK"
+      },
+      "artists": [
+        {
+          "name": "Twin Diplomacy",
+          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
+        }
+      ],
+      "duration_ms": 153321,
+      "name": "I Got Feelings",
+      "url": "https://open.spotify.com/track/3f5LJiAEHHZtW8bzF4qpNr"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
         "name": "LA NOCHE",
         "url": "https://open.spotify.com/album/3iBDg8qZiUWJy0kiZHI3Cv"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 212244,
       "name": "LA NOCHE",
       "url": "https://open.spotify.com/track/5vu69csqeUJheoQWPd2MoM"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "I Got Feelings",
-        "url": "https://open.spotify.com/album/5VA1Nehnfdr4ao3Tr2XCrK"
-      },
-      "artists": [
-        {
-          "name": "Twin Diplomacy",
-          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
-        }
-      ],
-      "duration_ms": 153321,
-      "name": "I Got Feelings",
-      "url": "https://open.spotify.com/track/3f5LJiAEHHZtW8bzF4qpNr"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -947,30 +947,6 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Temperature (Club Mix)",
-        "url": "https://open.spotify.com/album/3WWC6D8L3H9bErbu0FMi5w"
-      },
-      "artists": [
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        },
-        {
-          "name": "Henry Fong",
-          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
-        },
-        {
-          "name": "Proppa",
-          "url": "https://open.spotify.com/artist/6h9guyYUhKLeDhyUVoOE68"
-        }
-      ],
-      "duration_ms": 126461,
-      "name": "Temperature - Club Mix",
-      "url": "https://open.spotify.com/track/3UG51j7jDfdfKlErPRMXOT"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
         "name": "Focus (feat. CLOVES) [Alok Remix]",
         "url": "https://open.spotify.com/album/71YUx35MIG4R7DUAAxCVfF"
       },
@@ -991,6 +967,30 @@
       "duration_ms": 207761,
       "name": "Focus (feat. CLOVES) - Alok Remix",
       "url": "https://open.spotify.com/track/2DOUbOh1k3n9Ek6Eur61K4"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Temperature (Club Mix)",
+        "url": "https://open.spotify.com/album/3WWC6D8L3H9bErbu0FMi5w"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "Henry Fong",
+          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
+        },
+        {
+          "name": "Proppa",
+          "url": "https://open.spotify.com/artist/6h9guyYUhKLeDhyUVoOE68"
+        }
+      ],
+      "duration_ms": 126461,
+      "name": "Temperature - Club Mix",
+      "url": "https://open.spotify.com/track/3UG51j7jDfdfKlErPRMXOT"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1069,26 +1069,6 @@
       "url": "https://open.spotify.com/track/2gfZFPc4CzHRKlbiGU14rL"
     },
     {
-      "added_at": "2026-03-06 05:00:10",
-      "album": {
-        "name": "INERTIA",
-        "url": "https://open.spotify.com/album/6vQY11JrPuG6h17SzGa1oD"
-      },
-      "artists": [
-        {
-          "name": "Angrybaby",
-          "url": "https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr"
-        },
-        {
-          "name": "Marzi",
-          "url": "https://open.spotify.com/artist/4ou6cmjDFP0qzoXwr0cJTM"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "YOU GOT ME",
-      "url": "https://open.spotify.com/track/0clHsShVOKyXflPbH5adcg"
-    },
-    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "CODEINE",
@@ -1127,6 +1107,26 @@
       "duration_ms": 200353,
       "name": "Better Place",
       "url": "https://open.spotify.com/track/7klsdxLeKIkIE9RG49mDpD"
+    },
+    {
+      "added_at": "2026-03-06 05:00:10",
+      "album": {
+        "name": "INERTIA",
+        "url": "https://open.spotify.com/album/6vQY11JrPuG6h17SzGa1oD"
+      },
+      "artists": [
+        {
+          "name": "Angrybaby",
+          "url": "https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr"
+        },
+        {
+          "name": "Marzi",
+          "url": "https://open.spotify.com/artist/4ou6cmjDFP0qzoXwr0cJTM"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "YOU GOT ME",
+      "url": "https://open.spotify.com/track/0clHsShVOKyXflPbH5adcg"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
+        "name": "At The Disco",
+        "url": "https://open.spotify.com/album/5w3BNfdlLz339pUpattTTl"
+      },
+      "artists": [
+        {
+          "name": "Twin Diplomacy",
+          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
+        }
+      ],
+      "duration_ms": 165146,
+      "name": "At The Disco",
+      "url": "https://open.spotify.com/track/2PLAhK85fxXzy64KoIKQqg"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
         "name": "Fashion From France",
         "url": "https://open.spotify.com/album/4XgWx25OZd07OphjZQxsvz"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 132760,
       "name": "Fashion From France",
       "url": "https://open.spotify.com/track/3CapV3APaBIJKtg65nbefT"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "At The Disco",
-        "url": "https://open.spotify.com/album/5w3BNfdlLz339pUpattTTl"
-      },
-      "artists": [
-        {
-          "name": "Twin Diplomacy",
-          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
-        }
-      ],
-      "duration_ms": 165146,
-      "name": "At The Disco",
-      "url": "https://open.spotify.com/track/2PLAhK85fxXzy64KoIKQqg"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
+        "name": "Let Me Clear My Throat",
+        "url": "https://open.spotify.com/album/2b6Uc8pfLq9SeITcAobTMt"
+      },
+      "artists": [
+        {
+          "name": "Devault",
+          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
+        }
+      ],
+      "duration_ms": 161818,
+      "name": "Let Me Clear My Throat",
+      "url": "https://open.spotify.com/track/7dP5EtY64b0dWwcWXb8Xlq"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
         "name": "Big Bad Sound",
         "url": "https://open.spotify.com/album/5kbNQthGaDLvSlczyJnSDM"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 151384,
       "name": "Big Bad Sound",
       "url": "https://open.spotify.com/track/79lJ78VF91JSP4mQz44feU"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Let Me Clear My Throat",
-        "url": "https://open.spotify.com/album/2b6Uc8pfLq9SeITcAobTMt"
-      },
-      "artists": [
-        {
-          "name": "Devault",
-          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
-        }
-      ],
-      "duration_ms": 161818,
-      "name": "Let Me Clear My Throat",
-      "url": "https://open.spotify.com/track/7dP5EtY64b0dWwcWXb8Xlq"
     },
     {
       "added_at": "2026-01-30 05:00:51",
@@ -1669,6 +1669,22 @@
       "url": "https://open.spotify.com/track/6JinlTBOcePrN15YuHLWMS"
     },
     {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Sound of da Police",
+        "url": "https://open.spotify.com/album/5l514VFmvgMm3DJwMEjwe4"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 140624,
+      "name": "Sound of da Police",
+      "url": "https://open.spotify.com/track/3dqb5yqVo6Oq8OCDOKx8o2"
+    },
+    {
       "added_at": "2026-02-27 05:00:47",
       "album": {
         "name": "T.A.S.T.E.",
@@ -1687,22 +1703,6 @@
       "duration_ms": 135692,
       "name": "T.A.S.T.E.",
       "url": "https://open.spotify.com/track/1mIphNjyFAp2SecLo9GsEG"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Sound of da Police",
-        "url": "https://open.spotify.com/album/5l514VFmvgMm3DJwMEjwe4"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 140624,
-      "name": "Sound of da Police",
-      "url": "https://open.spotify.com/track/3dqb5yqVo6Oq8OCDOKx8o2"
     },
     {
       "added_at": "2026-03-13 04:00:35",
@@ -2107,6 +2107,22 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
+        "name": "Warehouse",
+        "url": "https://open.spotify.com/album/5cguVMkWcQVYde2ZucBdNR"
+      },
+      "artists": [
+        {
+          "name": "Quintino",
+          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
+        }
+      ],
+      "duration_ms": 139852,
+      "name": "Warehouse",
+      "url": "https://open.spotify.com/track/0TH77vpxcIxMIND1gnne68"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
         "name": "BOTA (feat. MC Lan)",
         "url": "https://open.spotify.com/album/03SZzt5XMIIiRwukZkCgxL"
       },
@@ -2127,18 +2143,18 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Warehouse",
-        "url": "https://open.spotify.com/album/5cguVMkWcQVYde2ZucBdNR"
+        "name": "Earthquake",
+        "url": "https://open.spotify.com/album/0NksrZrnQcFMSxiRnu6den"
       },
       "artists": [
         {
-          "name": "Quintino",
-          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
+          "name": "SKILAH",
+          "url": "https://open.spotify.com/artist/0ILzznvRwQsrGX7BsaDer0"
         }
       ],
-      "duration_ms": 139852,
-      "name": "Warehouse",
-      "url": "https://open.spotify.com/track/0TH77vpxcIxMIND1gnne68"
+      "duration_ms": 182272,
+      "name": "Earthquake",
+      "url": "https://open.spotify.com/track/4XzOmCCiAeu0XaH8XVrU1l"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2159,22 +2175,6 @@
       "duration_ms": 167633,
       "name": "Cocaine Inside My Blunts - Dave Summer Remix",
       "url": "https://open.spotify.com/track/2rJqvBhCrN9Bt4nrK6fLOC"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Earthquake",
-        "url": "https://open.spotify.com/album/0NksrZrnQcFMSxiRnu6den"
-      },
-      "artists": [
-        {
-          "name": "SKILAH",
-          "url": "https://open.spotify.com/artist/0ILzznvRwQsrGX7BsaDer0"
-        }
-      ],
-      "duration_ms": 182272,
-      "name": "Earthquake",
-      "url": "https://open.spotify.com/track/4XzOmCCiAeu0XaH8XVrU1l"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2307,26 +2307,6 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Holy",
-        "url": "https://open.spotify.com/album/5rQQ6nrZo1AH4HfmGkPq2b"
-      },
-      "artists": [
-        {
-          "name": "Nostalgix",
-          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
-        },
-        {
-          "name": "Kyra Mastro",
-          "url": "https://open.spotify.com/artist/0VijmgKPGaaOsmM6jWgbQJ"
-        }
-      ],
-      "duration_ms": 184222,
-      "name": "Holy",
-      "url": "https://open.spotify.com/track/6NvjxNJOvBMdAXwWVnPKuT"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
         "name": "MAMI",
         "url": "https://open.spotify.com/album/5PZzF9O1Q0dsrzixb6DGIu"
       },
@@ -2343,6 +2323,26 @@
       "duration_ms": 110769,
       "name": "MAMI",
       "url": "https://open.spotify.com/track/4UqHeg01SyTG6YiamDGKkT"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Holy",
+        "url": "https://open.spotify.com/album/5rQQ6nrZo1AH4HfmGkPq2b"
+      },
+      "artists": [
+        {
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        },
+        {
+          "name": "Kyra Mastro",
+          "url": "https://open.spotify.com/artist/0VijmgKPGaaOsmM6jWgbQJ"
+        }
+      ],
+      "duration_ms": 184222,
+      "name": "Holy",
+      "url": "https://open.spotify.com/track/6NvjxNJOvBMdAXwWVnPKuT"
     },
     {
       "added_at": "2026-01-09 16:39:37",

@@ -4,7 +4,7 @@
 
 > These are some independent alternative rock bands you need to hear.
 
-301 songs - 18 hr 19 min
+304 songs - 18 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Disaster](https://open.spotify.com/track/3aAMBTuhmlMEsKgLEyo4v1) | [Hearts Fail](https://open.spotify.com/artist/0g30Kbxw2uxutv0sMGk80s) | [You Are Never Alone](https://open.spotify.com/album/1J5WUaoUFhuSjE0Z3mpwMs) | 5:34 | 2025-09-06 | 2026-01-05 |
 | [Distance](https://open.spotify.com/track/1PlyiUyljQJmnopGshRJSU) | [Hiding from Humans](https://open.spotify.com/artist/6An6djnsnRfFEKVqnSr5B8) | [Radio](https://open.spotify.com/album/5EWounwm5DI4ypI4xAcZgH) | 3:35 | 2026-01-17 | 2026-02-25 |
 | [Don't Quit](https://open.spotify.com/track/0wNDCelSWPNcCEdZUbSEJT) | [Ten Eighty Trees](https://open.spotify.com/artist/0ej6zez5h9tG4QiqvOj9ZD) | [Don't Quit](https://open.spotify.com/album/2NUIXDspmP39m3JnH5qmaA) | 2:54 | 2025-11-04 | 2025-12-06 |
+| [Down and Out](https://open.spotify.com/track/4FijKBMTSLv63uXNh3qM1e) | [White Star Line](https://open.spotify.com/artist/3qDMmbHoQIpMvNuOzyazsh) | [Down and Out](https://open.spotify.com/album/6Hg0NRmmjjjjaBKYqG3nGh) | 3:42 | 2026-04-11 |  |
 | [Drugstore Cowboy](https://open.spotify.com/track/232OmR6gGYDi94gCDHFLGI) | [Krooked Tongue](https://open.spotify.com/artist/1KURu1cYKhnrpZ8W1sGynh) | [Drugstore Cowboy](https://open.spotify.com/album/30lF61DTj8x7Ep1htMWuyw) | 3:41 | 2025-10-31 | 2025-12-06 |
 | [Edge of Reality](https://open.spotify.com/track/0P8Jiz2SFpfEwH1dNxT90q) | [Joel Hunt](https://open.spotify.com/artist/57j07A2nkEk1CDE4BJVuy8), [Norm Stockton](https://open.spotify.com/artist/59P8FStgQ946nzfFSc7aMP) | [Space & Time](https://open.spotify.com/album/0QHaA065L5kdg9UWcfqv8D) | 4:53 | 2026-01-28 | 2026-02-19 |
 | [Eighty\-Six](https://open.spotify.com/track/5qx78NNc9QLN0PeWXgveUf) | [Lake Point Drive](https://open.spotify.com/artist/0gcWzPRyPbChJiJ4kTWivn) | [Eighty\-Six](https://open.spotify.com/album/1iJgSclWGAiQWpwCZvlcrG) | 3:43 | 2026-02-20 |  |
@@ -89,6 +90,7 @@
 | [elvira](https://open.spotify.com/track/1MN0j7rkRyjKHNnpPrRI6p) | [The Links](https://open.spotify.com/artist/2TFSpXVPNjJAFyFbzitt3c) | [elvira](https://open.spotify.com/album/51zYMlPIqJDH3m6h0QdJrI) | 4:13 | 2025-12-03 | 2026-01-05 |
 | [Erinnerungen](https://open.spotify.com/track/5AKMbE3VUKTQcaHPsb16k6) | [Seelenpein](https://open.spotify.com/artist/3zOFOdI46zJqqGMKYhUTDV) | [Erinnerungen](https://open.spotify.com/album/0bd8FyoYz7sC0zZl911zya) | 3:06 | 2026-01-15 | 2026-02-25 |
 | [Fake](https://open.spotify.com/track/6ZiqkmLK7iMUwp4XrrmjMh) | [Tina Debs](https://open.spotify.com/artist/48c3LCh0VFH0nMeFnbyaMe) | [Fake](https://open.spotify.com/album/0uVwgFrjKFF0UVPFTtyltL) | 3:46 | 2026-02-16 | 2026-03-27 |
+| [Fetishize Me](https://open.spotify.com/track/7LyMFbtf8aiUgUtZYoXgXb) | [Sarah Hedger](https://open.spotify.com/artist/2CQDj93K4SEEYoQf96TjIy) | [Fetishize Me](https://open.spotify.com/album/79kv9dZL1zwHvcebBXMTnw) | 2:33 | 2026-04-11 |  |
 | [Fever Dream](https://open.spotify.com/track/3h1J3rsW0PMGuaPYqThR7D) | [Touch of Red](https://open.spotify.com/artist/07GYobUq3xeoOIhrqJ2Bc1) | [In Our Nature](https://open.spotify.com/album/3OpeVn7ARilpWiXIgZS6j3) | 4:15 | 2026-01-07 | 2026-02-02 |
 | [Fly Eagle Fly](https://open.spotify.com/track/3hPCPkc3F0Sho1x08IJ4SD) | [O KANENAS](https://open.spotify.com/artist/0gW8xjhBaC0eO8xyS5lZDa) | [Fly Eagle Fly](https://open.spotify.com/album/4ESwKcvRe5si6TTtCvomWv) | 3:50 | 2026-01-22 | 2026-02-25 |
 | [Flying High](https://open.spotify.com/track/34Vu65tSCXXHcuKJXZYtrN) | [Ladat](https://open.spotify.com/artist/2nX96XjXTUZvCoNWTNNun3), [Mark Henes](https://open.spotify.com/artist/1HSODWzFk49xph0BPYAF0l) | [Flying High](https://open.spotify.com/album/6x5RwDFMeEGiHWJtnRQ5so) | 3:15 | 2025-11-11 | 2025-12-06 |
@@ -309,5 +311,6 @@
 | [Лавины](https://open.spotify.com/track/4yY60xQzkD3t5esainGo5F) | [genteel renegade](https://open.spotify.com/artist/7AfX5ZMx0UP4ZouLe1HNEl) | [Лавины](https://open.spotify.com/album/1uq5G5T9eEP9BKhkTRitBX) | 3:53 | 2026-03-12 |  |
 | [Навстречу вам](https://open.spotify.com/track/0JTBRA7RuYCA0rbsrzDwOV) | [Палмерин](https://open.spotify.com/artist/4TWuUkIy1dyDqDkGUFqglO) | [Навстречу вам](https://open.spotify.com/album/1rwoyeO3KQOwAfE8ypt8ob) | 3:18 | 2026-01-19 | 2026-02-19 |
 | [нам не нужны друзья 2](https://open.spotify.com/track/5tQjNmHZzliw3VofqYR8n0) | [Władek Sheen](https://open.spotify.com/artist/5elwcM1iBIib16jSGK1SQe) | [нет меня](https://open.spotify.com/album/6WpS7JSN3qKRTpnFiS8tLA) | 2:57 | 2026-02-20 | 2026-03-27 |
+| [Похуй](https://open.spotify.com/track/2dSR6mFSl5JtKsWkh3e6pO) | [LU DI](https://open.spotify.com/artist/5RRBvAv0PQ9trVMrH8X6ZA) | [Похуй](https://open.spotify.com/album/6HAK3Nt64YIMqkyh9ZLvqK) | 3:23 | 2026-04-11 |  |
 
 \*This playlist was first scraped on 2025-11-19. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-419 songs - 1 day 2 hr 11 min
+420 songs - 1 day 2 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Fever Dream](https://open.spotify.com/track/3h1J3rsW0PMGuaPYqThR7D) | [Touch of Red](https://open.spotify.com/artist/07GYobUq3xeoOIhrqJ2Bc1) | [In Our Nature](https://open.spotify.com/album/3OpeVn7ARilpWiXIgZS6j3) | 4:15 | 2026-03-03 | 2026-03-18 |
 | [Finding You](https://open.spotify.com/track/5jCpLxpsNUM2QU7sa5FuLO) | [Casey Bloom](https://open.spotify.com/artist/3Yp2AG1A20FQbUtNqed1rq) | [Casey Bloom \- EP](https://open.spotify.com/album/2lQ4xbUEr2B6EbIrBrd5MK) | 3:16 | 2025-11-25 | 2025-12-17 |
 | [Fine](https://open.spotify.com/track/1acTG3McucI4PvWXxjGwoV) | [Brian Wolff](https://open.spotify.com/artist/5tW2IMfCtMzMHLij0PlQht) | [Fine](https://open.spotify.com/album/0wxCT2YorPsh4VKkei1jfP) | 4:10 | 2025-10-02 | 2025-12-17 |
+| [FLICK MY HAIR](https://open.spotify.com/track/6kUmbD1EfBxaa95s05UhTU) | [ABELA](https://open.spotify.com/artist/3t19go2ralbBNKL0LggZW0) | [FLICK MY HAIR](https://open.spotify.com/album/0cNFUNwrBZw5WCSocHkpGI) | 2:47 | 2026-04-11 |  |
 | [Former Familiars](https://open.spotify.com/track/42nPI8i0ytjsI9s8qaBZ1Q) | [Nicolust](https://open.spotify.com/artist/0uZVCERmBAm9C9PWvbIwlb) | [Former Familiars](https://open.spotify.com/album/2oR5fZvdLWdJndK28PdXv4) | 4:21 | 2026-03-16 |  |
 | [Free Way Out](https://open.spotify.com/track/7gSjuNcfiqLaUDYS5jEBPD) | [Voodoo Queen](https://open.spotify.com/artist/4TCJrwz91dvytiaX8RZhi6) | [Free Way Out](https://open.spotify.com/album/0KppBhyakdpAXmc9HAi6hM) | 4:11 | 2025-09-22 | 2025-12-17 |
 | [Fuiste tú](https://open.spotify.com/track/4MDNiQSfuDW61sZZWybM45) | [Raúl Cabo](https://open.spotify.com/artist/5A0xF7wdd6jdeirVtqjvF2) | [Fuiste tú](https://open.spotify.com/album/4VD4xgeA2A4IyVc3zoHzun) | 3:23 | 2026-03-22 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Juju, Lady Gaga, Jazeek, David Guetta & vielen mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 912,617 likes - 97 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 912,634 likes - 97 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 32 | [Work](https://open.spotify.com/track/0ArfxWwRJx3Q5RCSnhZEED) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Work](https://open.spotify.com/album/50Dgr7jv8mIp9fZFo8aLwd) | 2:51 |
 | 33 | [Madwoman](https://open.spotify.com/track/0UqHzMvRQnaOXEPKgFVhxN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time: The Final Hour](https://open.spotify.com/album/4DWK6TLXHl1fly2zi5RlO7) | 3:59 |
 | 34 | [Fremd auf der Party](https://open.spotify.com/track/14nS9cqReJSA4ffb1Hhlek) | [Florian Künstler](https://open.spotify.com/artist/50ZzowkYhUZZ2uGZSXqJbE), [SOPHIA](https://open.spotify.com/artist/45wdSLZd70phdDkxlA5D3v) | [Fremd auf der Party](https://open.spotify.com/album/7tLJi5UQGEB5hAdMbBiijk) | 2:16 |
-| 35 | [The Last Time](https://open.spotify.com/track/2L0zhlf3PzOuoxr3WfCBhX) | [Immersed](https://open.spotify.com/artist/32gWxeDN3ZzMUNfoiKWGEr) | [Last Time](https://open.spotify.com/album/0z8wNo1gsaFX1CP2wuqwwo) | 3:13 |
+| 35 | [The Last Time](https://open.spotify.com/track/2L0zhlf3PzOuoxr3WfCBhX) | [Immersed](https://open.spotify.com/artist/32gWxeDN3ZzMUNfoiKWGEr) | [The Last Time](https://open.spotify.com/album/0z8wNo1gsaFX1CP2wuqwwo) | 3:13 |
 | 36 | [Colorado](https://open.spotify.com/track/7C2IUngL0Xp8MsD575v2cJ) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Colorado](https://open.spotify.com/album/1P8BZuY2ZRlCPzXhSly5eZ) | 3:44 |
 | 37 | [K2](https://open.spotify.com/track/6ih5IRWOEOxRuWvFGqpWjd) | [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp), [Blümchen](https://open.spotify.com/artist/1Wch8598BBzU0zVBtcCFJh) | [K2](https://open.spotify.com/album/69qpXsRANJSERe4ssqXPNe) | 2:31 |
 | 38 | [Sick Of Love](https://open.spotify.com/track/6aPG5Atb3L3l8pZYzLrpEi) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Sick Of Love](https://open.spotify.com/album/2ETP833yyVmqvtnbnRHtxb) | 3:36 |
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 60 | [Hulk Hogan](https://open.spotify.com/track/2q4B7AwTE9IQN9SDO3gYVt) | [Pozer](https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Hulk Hogan](https://open.spotify.com/album/4O9LvfC6iVLvNpWs68Vy73) | 2:58 |
 | 61 | [du bist verliebt.](https://open.spotify.com/track/2ha8y1Y6vQSGEgR5fpJEjn) | [Luca Noel](https://open.spotify.com/artist/2fgVPd8uD6O3GdNbJqp7Kw) | [du bist verliebt.](https://open.spotify.com/album/0uvG7zIopTY9HK0chARJWx) | 2:59 |
 | 62 | [Einfach So](https://open.spotify.com/track/6GY7kh64DUn6QMshGp3zyO) | [OK KID](https://open.spotify.com/artist/5syyAQTWJ2BaLtjOKE99MK) | [Einfach So](https://open.spotify.com/album/59RIVHhel1J6xCRrdK63xn) | 2:45 |
-| 63 | [poltergeist \(feat\. Emma Josephine\)](https://open.spotify.com/track/2zEsuKoe2JKoi15SMWJLiX) | [georgustav](https://open.spotify.com/artist/5axauV52djUUY4BJcnxdZo), [Emma Josephine](https://open.spotify.com/artist/2Erk3x0bvGdyvu1q7bvkWr) | [poltergeist \(feat\. Emma Josephine\)](https://open.spotify.com/album/6eQFiz8uffTixXA2rH1u4H) | 2:44 |
+| 63 | [poltergeist](https://open.spotify.com/track/2zEsuKoe2JKoi15SMWJLiX) | [georgustav](https://open.spotify.com/artist/5axauV52djUUY4BJcnxdZo), [Emma Josephine](https://open.spotify.com/artist/2Erk3x0bvGdyvu1q7bvkWr) | [poltergeist](https://open.spotify.com/album/6eQFiz8uffTixXA2rH1u4H) | 2:44 |
 | 64 | [ELECTRIC CIRCUS](https://open.spotify.com/track/0IKpUoJz9bvL6rclPF2qeB) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Boi\-1da](https://open.spotify.com/artist/2RQnTQM6OQd8dTUDF7UsT7), [Canada Soccer](https://open.spotify.com/artist/0fOO2ZhdgNGh7h0BY5R1Ez) | [ELECTRIC CIRCUS](https://open.spotify.com/album/2K0vMiT7DTwwpAnCc2Idqb) | 3:29 |
 | 65 | [Already There](https://open.spotify.com/track/0cU0j0Qh3op4FxO7Ai310h) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Already There](https://open.spotify.com/album/7sM8cK4wMWZBvZaPPfNw1b) | 3:50 |
 | 66 | [Sag mir was du willst](https://open.spotify.com/track/6LAsd98IOgiEFIt1oqgdur) | [Lena&Linus](https://open.spotify.com/artist/3DX6TJtDUfOov1NKF18IXh), [Akryl](https://open.spotify.com/artist/37LWnyoq7uaCMLsnbbducU) | [Sag mir was du willst](https://open.spotify.com/album/580gUTcJs6tlqI9JDR4FsB) | 3:20 |

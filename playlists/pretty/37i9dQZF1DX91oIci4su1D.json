@@ -1,12 +1,12 @@
 {
   "description": "Setting sights on banging <a href=\"spotify:genre:0JQ5DAqbMKFFfBKlpu08ru\">trance and progressive</a> with the one & only Ti\u00ebsto",
-  "num_followers": 872707,
+  "num_followers": 872779,
   "original_name": "Trance Mission",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB8Rp6sM8LDBoV8m4vV2MQVFlFD+",
+  "snapshot_id": "AAAAALuoGbY3hd91MHHlnUiBrbRHDLRk",
   "tracks": [
     {
       "added_at": "2026-04-03 17:11:03",
@@ -1191,26 +1191,6 @@
     {
       "added_at": "2026-04-03 17:11:03",
       "album": {
-        "name": "Orange",
-        "url": "https://open.spotify.com/album/2hRVRqscqI4SvBTm3H7Y7n"
-      },
-      "artists": [
-        {
-          "name": "Paul Oakenfold",
-          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
-        },
-        {
-          "name": "Markus Schulz",
-          "url": "https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL"
-        }
-      ],
-      "duration_ms": 171555,
-      "name": "Orange",
-      "url": "https://open.spotify.com/track/3QDMRjEw9lwNlNesjFw0am"
-    },
-    {
-      "added_at": "2026-04-03 17:11:03",
-      "album": {
         "name": "Bigger Than All Of Us (Club Mix)",
         "url": "https://open.spotify.com/album/66SVqoxHHXUfLBoj5vCv9U"
       },
@@ -1243,6 +1223,26 @@
       "duration_ms": 184737,
       "name": "Each Other",
       "url": "https://open.spotify.com/track/7L9XqPFJeHkl6g8fdjyHUA"
+    },
+    {
+      "added_at": "2026-04-03 17:11:03",
+      "album": {
+        "name": "Orange",
+        "url": "https://open.spotify.com/album/2hRVRqscqI4SvBTm3H7Y7n"
+      },
+      "artists": [
+        {
+          "name": "Paul Oakenfold",
+          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
+        },
+        {
+          "name": "Markus Schulz",
+          "url": "https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL"
+        }
+      ],
+      "duration_ms": 171555,
+      "name": "Orange",
+      "url": "https://open.spotify.com/track/3QDMRjEw9lwNlNesjFw0am"
     },
     {
       "added_at": "2026-04-03 17:11:03",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2026-04-03 17:11:03",
       "album": {
-        "name": "Ride Of Your Life (Scarborough Fair)",
-        "url": "https://open.spotify.com/album/5PV3Y5996bW2eZrrj8E4V7"
-      },
-      "artists": [
-        {
-          "name": "AVA CROWN",
-          "url": "https://open.spotify.com/artist/0jd43OPsT2l0NAXUSBY7xC"
-        }
-      ],
-      "duration_ms": 132413,
-      "name": "Ride Of Your Life (Scarborough Fair)",
-      "url": "https://open.spotify.com/track/1sPIWtbLJNa4vCkK8wv4tI"
-    },
-    {
-      "added_at": "2026-04-03 17:11:03",
-      "album": {
         "name": "Faultline",
         "url": "https://open.spotify.com/album/624dOqHl09SJsjMWBj9T9f"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 220821,
       "name": "Faultline",
       "url": "https://open.spotify.com/track/1ohbar8IexoLGkxFiwwqPT"
+    },
+    {
+      "added_at": "2026-04-03 17:11:03",
+      "album": {
+        "name": "Ride Of Your Life (Scarborough Fair)",
+        "url": "https://open.spotify.com/album/5PV3Y5996bW2eZrrj8E4V7"
+      },
+      "artists": [
+        {
+          "name": "AVA CROWN",
+          "url": "https://open.spotify.com/artist/0jd43OPsT2l0NAXUSBY7xC"
+        }
+      ],
+      "duration_ms": 132413,
+      "name": "Ride Of Your Life (Scarborough Fair)",
+      "url": "https://open.spotify.com/track/1sPIWtbLJNa4vCkK8wv4tI"
     },
     {
       "added_at": "2026-04-03 17:11:03",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2026-04-03 17:11:03",
       "album": {
+        "name": "Madness",
+        "url": "https://open.spotify.com/album/2RxoQZVEWaNX5VLZIaBU73"
+      },
+      "artists": [
+        {
+          "name": "Nifra",
+          "url": "https://open.spotify.com/artist/4Ipm3lGKLqzhir25JU846A"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Madness",
+      "url": "https://open.spotify.com/track/1N0SMPZllogg6bH4ueBSw4"
+    },
+    {
+      "added_at": "2026-04-03 17:11:03",
+      "album": {
         "name": "Still Here",
         "url": "https://open.spotify.com/album/7xODWuhqiBGndgvajvmo69"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 191200,
       "name": "Still Here",
       "url": "https://open.spotify.com/track/7H3GMZLMdTaiAytCvI3i93"
-    },
-    {
-      "added_at": "2026-04-03 17:11:03",
-      "album": {
-        "name": "Madness",
-        "url": "https://open.spotify.com/album/2RxoQZVEWaNX5VLZIaBU73"
-      },
-      "artists": [
-        {
-          "name": "Nifra",
-          "url": "https://open.spotify.com/artist/4Ipm3lGKLqzhir25JU846A"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Madness",
-      "url": "https://open.spotify.com/track/1N0SMPZllogg6bH4ueBSw4"
     },
     {
       "added_at": "2026-04-03 17:11:03",
@@ -1499,6 +1499,26 @@
     {
       "added_at": "2026-04-03 17:11:03",
       "album": {
+        "name": "On Repeat",
+        "url": "https://open.spotify.com/album/4OPGJJLMAVTTSua5snkDRa"
+      },
+      "artists": [
+        {
+          "name": "Nifra",
+          "url": "https://open.spotify.com/artist/4Ipm3lGKLqzhir25JU846A"
+        },
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+        }
+      ],
+      "duration_ms": 210236,
+      "name": "On Repeat",
+      "url": "https://open.spotify.com/track/6EWpyMOKacMLSPhJ5VS0dt"
+    },
+    {
+      "added_at": "2026-04-03 17:11:03",
+      "album": {
         "name": "Count On Me",
         "url": "https://open.spotify.com/album/5ZvpOg6K4kkgmMsXdG1Tye"
       },
@@ -1523,26 +1543,6 @@
       "duration_ms": 222859,
       "name": "Count On Me",
       "url": "https://open.spotify.com/track/7tjrnacKmIePgy2CiNNE97"
-    },
-    {
-      "added_at": "2026-04-03 17:11:03",
-      "album": {
-        "name": "On Repeat",
-        "url": "https://open.spotify.com/album/4OPGJJLMAVTTSua5snkDRa"
-      },
-      "artists": [
-        {
-          "name": "Nifra",
-          "url": "https://open.spotify.com/artist/4Ipm3lGKLqzhir25JU846A"
-        },
-        {
-          "name": "Sarah de Warren",
-          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
-        }
-      ],
-      "duration_ms": 210236,
-      "name": "On Repeat",
-      "url": "https://open.spotify.com/track/6EWpyMOKacMLSPhJ5VS0dt"
     },
     {
       "added_at": "2026-04-03 17:11:03",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2026-04-03 17:11:03",
       "album": {
-        "name": "Vigor",
-        "url": "https://open.spotify.com/album/60qF1M4EN6peLtusu8RCpB"
-      },
-      "artists": [
-        {
-          "name": "Maarten de Jong",
-          "url": "https://open.spotify.com/artist/1Rkbc6XIHQ89uq9n1a8kGY"
-        }
-      ],
-      "duration_ms": 193243,
-      "name": "Vigor",
-      "url": "https://open.spotify.com/track/0ZYzu1zDUOuaZ4oNZLZBFr"
-    },
-    {
-      "added_at": "2026-04-03 17:11:03",
-      "album": {
         "name": "Ayla",
         "url": "https://open.spotify.com/album/3agKT48Fj6rcbwwkftFagv"
       },
@@ -1651,6 +1635,22 @@
     {
       "added_at": "2026-04-03 17:11:03",
       "album": {
+        "name": "Vigor",
+        "url": "https://open.spotify.com/album/60qF1M4EN6peLtusu8RCpB"
+      },
+      "artists": [
+        {
+          "name": "Maarten de Jong",
+          "url": "https://open.spotify.com/artist/1Rkbc6XIHQ89uq9n1a8kGY"
+        }
+      ],
+      "duration_ms": 193243,
+      "name": "Vigor",
+      "url": "https://open.spotify.com/track/0ZYzu1zDUOuaZ4oNZLZBFr"
+    },
+    {
+      "added_at": "2026-04-03 17:11:03",
+      "album": {
         "name": "This World Is Ours",
         "url": "https://open.spotify.com/album/2EFAlkyeRPGo3pTHbldWd4"
       },
@@ -1667,6 +1667,30 @@
       "duration_ms": 281250,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/75JEQxjvZKEBCSAIFEkZnz"
+    },
+    {
+      "added_at": "2026-04-03 17:11:03",
+      "album": {
+        "name": "Finding My Way To You",
+        "url": "https://open.spotify.com/album/37h4YzM20FNl9Fl1eFHNwo"
+      },
+      "artists": [
+        {
+          "name": "Ashley Wallbridge",
+          "url": "https://open.spotify.com/artist/4hNpdlfPY7R51u4FEkBxJG"
+        },
+        {
+          "name": "Dicosis",
+          "url": "https://open.spotify.com/artist/1OzaVbvTssplYwiAq5xq2V"
+        },
+        {
+          "name": "Linney",
+          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
+        }
+      ],
+      "duration_ms": 239239,
+      "name": "Finding My Way To You",
+      "url": "https://open.spotify.com/track/2QsMWa3DcVrsBYenj0ZI87"
     },
     {
       "added_at": "2026-04-03 17:11:03",
@@ -1727,30 +1751,6 @@
       "duration_ms": 179142,
       "name": "King's Secret Garden",
       "url": "https://open.spotify.com/track/0VNjHw4IngGNVHw8eyqlqx"
-    },
-    {
-      "added_at": "2026-04-03 17:11:03",
-      "album": {
-        "name": "Finding My Way To You",
-        "url": "https://open.spotify.com/album/37h4YzM20FNl9Fl1eFHNwo"
-      },
-      "artists": [
-        {
-          "name": "Ashley Wallbridge",
-          "url": "https://open.spotify.com/artist/4hNpdlfPY7R51u4FEkBxJG"
-        },
-        {
-          "name": "Dicosis",
-          "url": "https://open.spotify.com/artist/1OzaVbvTssplYwiAq5xq2V"
-        },
-        {
-          "name": "Linney",
-          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
-        }
-      ],
-      "duration_ms": 239239,
-      "name": "Finding My Way To You",
-      "url": "https://open.spotify.com/track/2QsMWa3DcVrsBYenj0ZI87"
     },
     {
       "added_at": "2026-04-03 17:11:03",
@@ -1963,22 +1963,6 @@
     {
       "added_at": "2026-04-03 17:11:03",
       "album": {
-        "name": "Embrace",
-        "url": "https://open.spotify.com/album/45qnEf54HGMZxJKpS3slZQ"
-      },
-      "artists": [
-        {
-          "name": "Tourist",
-          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
-        }
-      ],
-      "duration_ms": 260353,
-      "name": "Embrace",
-      "url": "https://open.spotify.com/track/2rioycV7h8P0ujiMy59bkP"
-    },
-    {
-      "added_at": "2026-04-03 17:11:03",
-      "album": {
         "name": "Turn Back",
         "url": "https://open.spotify.com/album/5US7NXUSEZcFrWpumiMQ5i"
       },
@@ -1995,6 +1979,22 @@
       "duration_ms": 195107,
       "name": "Turn Back",
       "url": "https://open.spotify.com/track/6XAlf4sB4AWqwsKCTCQ9Ei"
+    },
+    {
+      "added_at": "2026-04-03 17:11:03",
+      "album": {
+        "name": "Embrace",
+        "url": "https://open.spotify.com/album/45qnEf54HGMZxJKpS3slZQ"
+      },
+      "artists": [
+        {
+          "name": "Tourist",
+          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+        }
+      ],
+      "duration_ms": 260353,
+      "name": "Embrace",
+      "url": "https://open.spotify.com/track/2rioycV7h8P0ujiMy59bkP"
     },
     {
       "added_at": "2026-04-03 17:11:03",
@@ -2063,34 +2063,6 @@
     {
       "added_at": "2026-04-03 17:11:03",
       "album": {
-        "name": "Never Be The Same",
-        "url": "https://open.spotify.com/album/4hNWaniy9ESOGo26SF2bEI"
-      },
-      "artists": [
-        {
-          "name": "Andrew Rayel",
-          "url": "https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr"
-        },
-        {
-          "name": "EXTASIA",
-          "url": "https://open.spotify.com/artist/0yfUG8p1uhkTrjDYcpFEIH"
-        },
-        {
-          "name": "Alan Morris",
-          "url": "https://open.spotify.com/artist/2C51Wbu4q389aUw2Vy8IA4"
-        },
-        {
-          "name": "Joanna Angelina",
-          "url": "https://open.spotify.com/artist/4JFamZHVFgvQq75yHwQxa8"
-        }
-      ],
-      "duration_ms": 218502,
-      "name": "Never Be The Same",
-      "url": "https://open.spotify.com/track/709wx0A9pdBEJeV7PRQrZ8"
-    },
-    {
-      "added_at": "2026-04-03 17:11:03",
-      "album": {
         "name": "ResuRection (Call Me)",
         "url": "https://open.spotify.com/album/6MfwXxqZWKDS1B0nVMYrW6"
       },
@@ -2127,6 +2099,34 @@
       "duration_ms": 198414,
       "name": "Eivissa",
       "url": "https://open.spotify.com/track/0wbxPb0IXdtIBFX34YOrq2"
+    },
+    {
+      "added_at": "2026-04-03 17:11:03",
+      "album": {
+        "name": "Never Be The Same",
+        "url": "https://open.spotify.com/album/4hNWaniy9ESOGo26SF2bEI"
+      },
+      "artists": [
+        {
+          "name": "Andrew Rayel",
+          "url": "https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr"
+        },
+        {
+          "name": "EXTASIA",
+          "url": "https://open.spotify.com/artist/0yfUG8p1uhkTrjDYcpFEIH"
+        },
+        {
+          "name": "Alan Morris",
+          "url": "https://open.spotify.com/artist/2C51Wbu4q389aUw2Vy8IA4"
+        },
+        {
+          "name": "Joanna Angelina",
+          "url": "https://open.spotify.com/artist/4JFamZHVFgvQq75yHwQxa8"
+        }
+      ],
+      "duration_ms": 218502,
+      "name": "Never Be The Same",
+      "url": "https://open.spotify.com/track/709wx0A9pdBEJeV7PRQrZ8"
     },
     {
       "added_at": "2026-04-03 17:11:03",

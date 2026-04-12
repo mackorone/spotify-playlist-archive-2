@@ -946,7 +946,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-05",
+      "date_removed": null,
       "duration_ms": 369359,
       "name": "Ahki Ya Tareekh",
       "url": "https://open.spotify.com/track/2yjOEcmukC84C56uEoDn3k"
@@ -7550,7 +7550,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 205308,
       "name": "Dracula",
       "url": "https://open.spotify.com/track/1NXbNEAcPvY5G1xvfN57aA"
@@ -21547,6 +21547,24 @@
     },
     {
       "album": {
+        "name": "PINKY UP",
+        "url": "https://open.spotify.com/album/5tLy0MEMDVqiHKso6B4jnz"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "date_added": "2026-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131437,
+      "name": "PINKY UP",
+      "url": "https://open.spotify.com/track/4KmkJjHTNlr1jFY56Lyz4E"
+    },
+    {
+      "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
@@ -22652,7 +22670,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 244013,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/2xql0pid3EUwW38AsywxhV"
@@ -31602,7 +31620,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 287216,
       "name": "\u0627\u0631\u062c\u0639 \u0639\u0644\u064a\u0646\u0627",
       "url": "https://open.spotify.com/track/20IgyjZCkaLFXqXERnN5tq"
@@ -34246,6 +34264,28 @@
       "duration_ms": 342855,
       "name": "\u0635\u0628\u0627\u062d \u0627\u0644\u0639\u064a\u062f",
       "url": "https://open.spotify.com/track/5xACYeEFIdoB8K1in6iTeg"
+    },
+    {
+      "album": {
+        "name": "\u0637\u0627\u062d \u0627\u0644\u0634\u0631 (feat. Dope boy)",
+        "url": "https://open.spotify.com/album/2bdw5XPhs7HlAy06uPY17H"
+      },
+      "artists": [
+        {
+          "name": "ADAM",
+          "url": "https://open.spotify.com/artist/5oLMBzEyhXilZhBr8BBagf"
+        },
+        {
+          "name": "Dopeboy",
+          "url": "https://open.spotify.com/artist/5NbUOZRL8z5NOzcRtNgN2Z"
+        }
+      ],
+      "date_added": "2026-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110170,
+      "name": "\u0637\u0627\u062d \u0627\u0644\u0634\u0631 (feat. Dope boy)",
+      "url": "https://open.spotify.com/track/6YAPmgFem0uDmRFRdtx5CD"
     },
     {
       "album": {

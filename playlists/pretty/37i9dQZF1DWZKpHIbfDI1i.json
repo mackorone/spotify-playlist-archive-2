@@ -1,6 +1,6 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. El Malilla y Luis R Conriquez en portada ",
-  "num_followers": 838621,
+  "num_followers": 839087,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -423,30 +423,22 @@
     {
       "added_at": "2026-04-10 06:00:37",
       "album": {
-        "name": "Chaparrita (Remix)",
-        "url": "https://open.spotify.com/album/6PrdKGA2ZSkdjEQBqWzxeV"
+        "name": "Seguro Le Doli\u00f3",
+        "url": "https://open.spotify.com/album/0laSYvHtmxy7gG0z8secrX"
       },
       "artists": [
         {
-          "name": "Standly",
-          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         },
         {
-          "name": "Yeri Mua",
-          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
-        },
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        },
-        {
-          "name": "Cachirula",
-          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
         }
       ],
-      "duration_ms": 266400,
-      "name": "Chaparrita (Remix)",
-      "url": "https://open.spotify.com/track/1Du2rsAGiX1LcCegMomlFH"
+      "duration_ms": 149459,
+      "name": "Seguro Le Doli\u00f3",
+      "url": "https://open.spotify.com/track/6KslzTHpbnoFGcRUkVgRXc"
     },
     {
       "added_at": "2026-04-10 06:00:37",
@@ -475,22 +467,30 @@
     {
       "added_at": "2026-04-10 06:00:37",
       "album": {
-        "name": "Seguro Le Doli\u00f3",
-        "url": "https://open.spotify.com/album/0laSYvHtmxy7gG0z8secrX"
+        "name": "Chaparrita (Remix)",
+        "url": "https://open.spotify.com/album/6PrdKGA2ZSkdjEQBqWzxeV"
       },
       "artists": [
         {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
         },
         {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+          "name": "Yeri Mua",
+          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Cachirula",
+          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
         }
       ],
-      "duration_ms": 149459,
-      "name": "Seguro Le Doli\u00f3",
-      "url": "https://open.spotify.com/track/6KslzTHpbnoFGcRUkVgRXc"
+      "duration_ms": 266400,
+      "name": "Chaparrita (Remix)",
+      "url": "https://open.spotify.com/track/1Du2rsAGiX1LcCegMomlFH"
     },
     {
       "added_at": "2026-04-10 06:00:37",
@@ -507,26 +507,6 @@
       "duration_ms": 194858,
       "name": "Pasta",
       "url": "https://open.spotify.com/track/5m6bsa7qhZXjSDDqwRRfTD"
-    },
-    {
-      "added_at": "2026-04-10 06:00:37",
-      "album": {
-        "name": "MI GATA",
-        "url": "https://open.spotify.com/album/0tK2oT6337tuhZt5mqnsXZ"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        },
-        {
-          "name": "Gael Valenzuela",
-          "url": "https://open.spotify.com/artist/5mo9Z7aGxbLG7gVYajpCar"
-        }
-      ],
-      "duration_ms": 222366,
-      "name": "MI GATA",
-      "url": "https://open.spotify.com/track/36T0zLipTSOXQrY8oFBAvT"
     },
     {
       "added_at": "2026-04-10 06:00:37",
@@ -551,6 +531,26 @@
     {
       "added_at": "2026-04-10 06:00:37",
       "album": {
+        "name": "MI GATA",
+        "url": "https://open.spotify.com/album/0tK2oT6337tuhZt5mqnsXZ"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Gael Valenzuela",
+          "url": "https://open.spotify.com/artist/5mo9Z7aGxbLG7gVYajpCar"
+        }
+      ],
+      "duration_ms": 222366,
+      "name": "MI GATA",
+      "url": "https://open.spotify.com/track/36T0zLipTSOXQrY8oFBAvT"
+    },
+    {
+      "added_at": "2026-04-10 06:00:37",
+      "album": {
         "name": "CRISTIAN",
         "url": "https://open.spotify.com/album/1g5DtpsRYh0UzdkxHEZY4F"
       },
@@ -563,6 +563,26 @@
       "duration_ms": 168979,
       "name": "OJITOS MENTIROSOS",
       "url": "https://open.spotify.com/track/1MPs1qa830QkHuyAOnaRqe"
+    },
+    {
+      "added_at": "2026-04-10 06:00:37",
+      "album": {
+        "name": "Mi Ni\u00f1a",
+        "url": "https://open.spotify.com/album/7D23YDRGp0lkOgX6dWBwj5"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        }
+      ],
+      "duration_ms": 175522,
+      "name": "Mi Ni\u00f1a",
+      "url": "https://open.spotify.com/track/6oLeiLXwyuExCdb5yKwupB"
     },
     {
       "added_at": "2026-04-10 06:00:37",
@@ -599,22 +619,6 @@
     {
       "added_at": "2026-04-10 06:00:37",
       "album": {
-        "name": "Ay Dieguito",
-        "url": "https://open.spotify.com/album/3SYYvFKrvzAbsLhxrH4goD"
-      },
-      "artists": [
-        {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
-        }
-      ],
-      "duration_ms": 170284,
-      "name": "Ay Dieguito",
-      "url": "https://open.spotify.com/track/57jY51VJ9iyZBP5DGFwQpP"
-    },
-    {
-      "added_at": "2026-04-10 06:00:37",
-      "album": {
         "name": "La Morrita",
         "url": "https://open.spotify.com/album/3vQe3Bm2uOfECFYjWnxmev"
       },
@@ -631,6 +635,22 @@
       "duration_ms": 154951,
       "name": "La Morrita",
       "url": "https://open.spotify.com/track/29YP167FTBz8m3937YbKDw"
+    },
+    {
+      "added_at": "2026-04-10 06:00:37",
+      "album": {
+        "name": "Ay Dieguito",
+        "url": "https://open.spotify.com/album/3SYYvFKrvzAbsLhxrH4goD"
+      },
+      "artists": [
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        }
+      ],
+      "duration_ms": 170284,
+      "name": "Ay Dieguito",
+      "url": "https://open.spotify.com/track/57jY51VJ9iyZBP5DGFwQpP"
     },
     {
       "added_at": "2026-04-10 06:00:37",
@@ -655,26 +675,6 @@
     {
       "added_at": "2026-04-10 06:00:37",
       "album": {
-        "name": "Mi Ni\u00f1a",
-        "url": "https://open.spotify.com/album/7D23YDRGp0lkOgX6dWBwj5"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Victor Mendivil",
-          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
-        }
-      ],
-      "duration_ms": 175522,
-      "name": "Mi Ni\u00f1a",
-      "url": "https://open.spotify.com/track/6oLeiLXwyuExCdb5yKwupB"
-    },
-    {
-      "added_at": "2026-04-10 06:00:37",
-      "album": {
         "name": "Muchacho Alegre",
         "url": "https://open.spotify.com/album/2zA3A4nFCfiFitdLqgLg0G"
       },
@@ -687,6 +687,22 @@
       "duration_ms": 188121,
       "name": "Muchacho Alegre",
       "url": "https://open.spotify.com/track/101qOS5lXHs5hvu5xVT8Q1"
+    },
+    {
+      "added_at": "2026-04-10 06:00:37",
+      "album": {
+        "name": "LINAJE",
+        "url": "https://open.spotify.com/album/1IUyPkacFHORWwLM9SBbOy"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Espinoza",
+          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
+        }
+      ],
+      "duration_ms": 336026,
+      "name": "FREESTYLE",
+      "url": "https://open.spotify.com/track/7FcV9ysZVFnmAOYwipRSGp"
     },
     {
       "added_at": "2026-04-10 06:00:37",
@@ -707,22 +723,6 @@
       "duration_ms": 180756,
       "name": "Todo a Su Tiempo",
       "url": "https://open.spotify.com/track/6sBjyBwRAQEONPaJunUZVm"
-    },
-    {
-      "added_at": "2026-04-10 06:00:37",
-      "album": {
-        "name": "LINAJE",
-        "url": "https://open.spotify.com/album/1IUyPkacFHORWwLM9SBbOy"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Espinoza",
-          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
-        }
-      ],
-      "duration_ms": 336026,
-      "name": "FREESTYLE",
-      "url": "https://open.spotify.com/track/7FcV9ysZVFnmAOYwipRSGp"
     },
     {
       "added_at": "2026-04-10 06:00:37",
@@ -975,6 +975,22 @@
     {
       "added_at": "2026-04-10 06:00:37",
       "album": {
+        "name": "Cabr\u00f3n Y Medio",
+        "url": "https://open.spotify.com/album/6ajjSA5aKCb0yHjLLrVYw6"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 166500,
+      "name": "Cabr\u00f3n Y Medio",
+      "url": "https://open.spotify.com/track/4U13UQFjLoB8heUDkGx7lB"
+    },
+    {
+      "added_at": "2026-04-10 06:00:37",
+      "album": {
         "name": "300 Noches",
         "url": "https://open.spotify.com/album/1eXnHv9p2TLAg1X4LoFTml"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 204800,
       "name": "300 Noches",
       "url": "https://open.spotify.com/track/0163eXbLwh5dFhKa73n9wG"
-    },
-    {
-      "added_at": "2026-04-10 06:00:37",
-      "album": {
-        "name": "Perd\u00f3n :(",
-        "url": "https://open.spotify.com/album/7DtZK4jK6sRDfSapx0ljla"
-      },
-      "artists": [
-        {
-          "name": "LENCHO",
-          "url": "https://open.spotify.com/artist/34pmYm95tyjrnk8Cbj6nFo"
-        }
-      ],
-      "duration_ms": 181945,
-      "name": "Perd\u00f3n :(",
-      "url": "https://open.spotify.com/track/5UdQUaT21CCDiYKc8T6VIF"
     },
     {
       "added_at": "2026-04-10 06:00:37",
@@ -1031,22 +1031,18 @@
     {
       "added_at": "2026-04-10 06:00:37",
       "album": {
-        "name": "Ctrl + Z (En Vivo)",
-        "url": "https://open.spotify.com/album/0evVM9Y8MYKfSJWNGVbaiF"
+        "name": "Perd\u00f3n :(",
+        "url": "https://open.spotify.com/album/7DtZK4jK6sRDfSapx0ljla"
       },
       "artists": [
         {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+          "name": "LENCHO",
+          "url": "https://open.spotify.com/artist/34pmYm95tyjrnk8Cbj6nFo"
         }
       ],
-      "duration_ms": 161480,
-      "name": "Ctrl + Z (En Vivo)",
-      "url": "https://open.spotify.com/track/3TSIabMcU2C3lx41wPtW5s"
+      "duration_ms": 181945,
+      "name": "Perd\u00f3n :(",
+      "url": "https://open.spotify.com/track/5UdQUaT21CCDiYKc8T6VIF"
     },
     {
       "added_at": "2026-04-10 06:00:37",
@@ -1075,6 +1071,26 @@
       "duration_ms": 121800,
       "name": "TiTis",
       "url": "https://open.spotify.com/track/5sviOHka5WMyKidQCSdFNa"
+    },
+    {
+      "added_at": "2026-04-10 06:00:37",
+      "album": {
+        "name": "Ctrl + Z (En Vivo)",
+        "url": "https://open.spotify.com/album/0evVM9Y8MYKfSJWNGVbaiF"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 161480,
+      "name": "Ctrl + Z (En Vivo)",
+      "url": "https://open.spotify.com/track/3TSIabMcU2C3lx41wPtW5s"
     },
     {
       "added_at": "2026-04-10 06:00:37",
@@ -1135,22 +1151,6 @@
       "duration_ms": 204849,
       "name": "50/50",
       "url": "https://open.spotify.com/track/2uBRBvEuLx0i3B1cbJLXxp"
-    },
-    {
-      "added_at": "2026-04-10 06:00:37",
-      "album": {
-        "name": "Cabr\u00f3n Y Medio",
-        "url": "https://open.spotify.com/album/6ajjSA5aKCb0yHjLLrVYw6"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 166500,
-      "name": "Cabr\u00f3n Y Medio",
-      "url": "https://open.spotify.com/track/4U13UQFjLoB8heUDkGx7lB"
     },
     {
       "added_at": "2026-04-10 06:00:37",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2026-04-10 06:00:37",
       "album": {
-        "name": "Grietas de Oro",
-        "url": "https://open.spotify.com/album/31U0PoWVEWtJCSnhEzgCH7"
-      },
-      "artists": [
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        }
-      ],
-      "duration_ms": 197551,
-      "name": "Grietas de Oro",
-      "url": "https://open.spotify.com/track/6gzYizdEjvGGx1gtVue8Ch"
-    },
-    {
-      "added_at": "2026-04-10 06:00:37",
-      "album": {
         "name": "No Me Pidas Un Tiempo",
         "url": "https://open.spotify.com/album/5CARWChEinGKjMDSIxV4ol"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 194782,
       "name": "No Me Pidas Un Tiempo",
       "url": "https://open.spotify.com/track/7vV6vTQGEhdfYIF9ZfFnR7"
+    },
+    {
+      "added_at": "2026-04-10 06:00:37",
+      "album": {
+        "name": "Grietas de Oro",
+        "url": "https://open.spotify.com/album/31U0PoWVEWtJCSnhEzgCH7"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "duration_ms": 197551,
+      "name": "Grietas de Oro",
+      "url": "https://open.spotify.com/track/6gzYizdEjvGGx1gtVue8Ch"
     },
     {
       "added_at": "2026-04-10 06:00:37",
@@ -1323,26 +1323,6 @@
     {
       "added_at": "2026-04-10 06:00:37",
       "album": {
-        "name": "Mi Droga",
-        "url": "https://open.spotify.com/album/5RE7nniZDKaiF1WYMcaeiv"
-      },
-      "artists": [
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        },
-        {
-          "name": "Natt Calma",
-          "url": "https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH"
-        }
-      ],
-      "duration_ms": 195389,
-      "name": "Magia",
-      "url": "https://open.spotify.com/track/6bbTjLQR2TmEApXj8QYhl8"
-    },
-    {
-      "added_at": "2026-04-10 06:00:37",
-      "album": {
         "name": "Eso Si Es De Gangster",
         "url": "https://open.spotify.com/album/5DyoeBkxYOgCrA2TpCvJKL"
       },
@@ -1363,6 +1343,26 @@
       "duration_ms": 198361,
       "name": "Motelear",
       "url": "https://open.spotify.com/track/3O0qEIelB7qOCDvTRhQTP0"
+    },
+    {
+      "added_at": "2026-04-10 06:00:37",
+      "album": {
+        "name": "Mi Droga",
+        "url": "https://open.spotify.com/album/5RE7nniZDKaiF1WYMcaeiv"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Natt Calma",
+          "url": "https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH"
+        }
+      ],
+      "duration_ms": 195389,
+      "name": "Magia",
+      "url": "https://open.spotify.com/track/6bbTjLQR2TmEApXj8QYhl8"
     },
     {
       "added_at": "2026-04-10 06:00:37",

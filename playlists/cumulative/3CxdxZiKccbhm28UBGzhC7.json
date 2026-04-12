@@ -1371,6 +1371,24 @@
     },
     {
       "album": {
+        "name": "Heads Up",
+        "url": "https://open.spotify.com/album/18REqENWyDEdkdERylgdgw"
+      },
+      "artists": [
+        {
+          "name": "Warpaint",
+          "url": "https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO"
+        }
+      ],
+      "date_added": "2026-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256440,
+      "name": "New Song",
+      "url": "https://open.spotify.com/track/5XHCdXhFUpWMp5lYgpfbXT"
+    },
+    {
+      "album": {
         "name": "Nothing Matters",
         "url": "https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3"
       },
@@ -1386,6 +1404,24 @@
       "duration_ms": 181750,
       "name": "Nothing Matters",
       "url": "https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o"
+    },
+    {
+      "album": {
+        "name": "Off & On",
+        "url": "https://open.spotify.com/album/3aCbx4OWv5srNk0RkDAqMO"
+      },
+      "artists": [
+        {
+          "name": "Findlay",
+          "url": "https://open.spotify.com/artist/12XBVoWq6M6etLxxe1TQWn"
+        }
+      ],
+      "date_added": "2026-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167813,
+      "name": "Off & On",
+      "url": "https://open.spotify.com/track/2viPnE2LOAPQEVdF3ocNwM"
     },
     {
       "album": {

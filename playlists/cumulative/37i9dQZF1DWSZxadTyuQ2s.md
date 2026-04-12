@@ -4,7 +4,7 @@
 
 > The sound of Afrobeats echoing around the world\. Cover:  Jae5, Skepta, Skillibeng, Lojay
 
-183 songs - 9 hr 22 min
+184 songs - 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Birthday](https://open.spotify.com/track/0703G3CAQ3oDJAzaVIvUJ9) | [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Steel Banglez](https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI) | [Birthday](https://open.spotify.com/album/0x1Q0qm394QlhVrqdVMI5d) | 2:35 | 2026-01-30 |  |
 | [BLESSINGS](https://open.spotify.com/track/2w8h4UxNixZ48O5eYqXJ7w) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [BLESSINGS](https://open.spotify.com/album/0nL0w3df3IsbhIXYEcTXDQ) | 3:28 | 2025-10-10 | 2026-02-20 |
 | [Body Go](https://open.spotify.com/track/4UDguq9kRecAxXZZl2kH1P) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Body Go](https://open.spotify.com/album/1U8dEy3fn8V9veOSZ9onfM) | 2:45 | 2025-10-22 | 2025-10-24 |
+| [Bother Me \(feat\. Victony\)](https://open.spotify.com/track/2JpcOAR1EGQSxFOVnYCMl0) | [Osé](https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Bother Me \(feat\. Victony\)](https://open.spotify.com/album/7svkXljH25hpPavMawyyb2) | 3:00 | 2026-04-10 |  |
 | [Calm Down](https://open.spotify.com/track/6hgoYQDUcPyCz7LcTUHKxa) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Calm Down](https://open.spotify.com/album/37iaWiKMa9YBbEDlw5c3Qh) | 3:39 | 2025-10-10 | 2026-02-20 |
 | [Calor](https://open.spotify.com/track/4JfNOa4cXfaTryi361HDVS) | [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN), [Vidal](https://open.spotify.com/artist/10duOEQIy2Bhu9Dm1SIMtI), [Tropa da W&S](https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ) | [Tempo Certo](https://open.spotify.com/album/1VcP3WDtCsE58XEEDiKu1e) | 2:29 | 2025-12-03 | 2026-01-16 |
 | [cc like that](https://open.spotify.com/track/09ydXiKINm4pPtPaCaEOYy) | [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [cc like that](https://open.spotify.com/album/5G77D202zIyLOgW2eZBFOR) | 2:44 | 2025-10-10 | 2025-11-11 |
@@ -156,7 +157,7 @@
 | [SOLEAO](https://open.spotify.com/track/3jAshemiRYWukWLtT3Ivrb) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [SOLEAO](https://open.spotify.com/album/1UMdrgq8ZuZRrJv7ZLvjpP) | 3:38 | 2025-10-10 | 2026-02-20 |
 | [Some More](https://open.spotify.com/track/7qZOtiN7oiDpKqEVW7szZc) | [TÖME](https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX) | [Some More](https://open.spotify.com/album/6hpBTb0X11p3Tp3hVtf09C) | 2:02 | 2025-12-03 | 2026-01-16 |
 | [soso](https://open.spotify.com/track/1wADwLSkYhrSmy4vdy6BRn) | [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 3:03 | 2025-10-10 |  |
-| [Speed](https://open.spotify.com/track/5NzJQcALCxkwV8BUrFUtDS) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Speed](https://open.spotify.com/album/5I386VD2f5rXpvuKwzmxBo) | 2:54 | 2025-11-14 |  |
+| [Speed](https://open.spotify.com/track/5NzJQcALCxkwV8BUrFUtDS) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Speed](https://open.spotify.com/album/5I386VD2f5rXpvuKwzmxBo) | 2:54 | 2025-11-14 | 2026-04-12 |
 | [SSA](https://open.spotify.com/track/0DI7TtujPBwhpjmUncFpU9) | [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [VANDAL](https://open.spotify.com/artist/5h4q1RQZ3TrsU4fImHo11r), [LP Beatzz](https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele), [ajcookin](https://open.spotify.com/artist/3dPBvWJ7dL5kKn74P2ys0F) | [SSA](https://open.spotify.com/album/4MbRQR6jIWe9IQArJXVUFd) | 3:41 | 2025-12-03 | 2026-01-16 |
 | [STINGY](https://open.spotify.com/track/0BLBUWKNlHGV9BcQ9yZQF3) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N), [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP), [Kemuel](https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH) | [STINGY](https://open.spotify.com/album/39iGK6XDM9VBIURDthep4V) | 3:40 | 2026-02-20 |  |
 | [TaTaTa \(feat\. Travis Scott\)](https://open.spotify.com/track/7iCvoWlfuJ1y7zibnh1EW9) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [TaTaTa \(feat\. Travis Scott\)](https://open.spotify.com/album/5g7VbiVwXeu8lVdj4tpAZ5) | 2:30 | 2025-10-10 | 2026-02-20 |

@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ7FIErJiGPT.md) - [plain]
 | 17 | [Wolf](https://open.spotify.com/track/65QpqPsptQU1VPyq4QbjWk) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Porcelain](https://open.spotify.com/album/0IVewblBonxlT9EyBz7UfT) | 3:43 |
 | 18 | [Ride or Die](https://open.spotify.com/track/1MARJrjeD1y6JXeTVJALGv) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Ride or Die](https://open.spotify.com/album/3bl7S3JQLLoFlKxtjZ8cyX) | 2:49 |
 | 19 | [Våran sång \(Sveriges Officiella VM\-låt 2023\)](https://open.spotify.com/track/1p0RjMued7Tmm0o7CjzoHY) | [Miss Li](https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7) | [Våran sång \(Sveriges Officiella VM\-låt 2023\)](https://open.spotify.com/album/18j2FMjXGeb0FAlaA89Nme) | 2:47 |
-| 20 | [Same Old](https://open.spotify.com/track/7n1OZXdSi6XUK4iB02nzX3) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Same Old](https://open.spotify.com/album/0KjqWjoXVrJsPqHtTJwXSz) | 2:55 |
-| 21 | [Die For Me](https://open.spotify.com/track/15tkKpcwBE3XJhaBdLPBKJ) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Die For Me](https://open.spotify.com/album/3sEuskgtxTNNvdJAsMk9kG) | 3:00 |
+| 20 | [Die For Me](https://open.spotify.com/track/15tkKpcwBE3XJhaBdLPBKJ) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Die For Me](https://open.spotify.com/album/3sEuskgtxTNNvdJAsMk9kG) | 3:00 |
+| 21 | [Same Old](https://open.spotify.com/track/7n1OZXdSi6XUK4iB02nzX3) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Same Old](https://open.spotify.com/album/0KjqWjoXVrJsPqHtTJwXSz) | 2:55 |
 | 22 | [All They Wanna Be](https://open.spotify.com/track/2ffNvrXkSX5hNTCcDp0q9V) | [Madison Mars](https://open.spotify.com/artist/4gJCFxvqKc43Ifk0UIBB42), [Caslin](https://open.spotify.com/artist/6We20xnlWq1e0X62ONbrFL) | [All They Wanna Be](https://open.spotify.com/album/2tzjglYB5QW3baeP7J9xHj) | 2:48 |
 | 23 | [Fira jul med mig](https://open.spotify.com/track/0V4WjLiC3Kg7pkGHN5O2cU) | [Linnea Henriksson](https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq) | [TILL\_\_\_\_\_FRÅN\_\_\_\_\_](https://open.spotify.com/album/12YzGnrZZ99j2C5eQciaTK) | 3:43 |
 | 24 | [Human](https://open.spotify.com/track/38aPeueGAUmEneEEJoANXO) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [Human](https://open.spotify.com/album/74OCmHnI3mJUjJri4WlmIA) | 2:26 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ7FIErJiGPT.md) - [plain]
 | 105 | [Take It As a Man](https://open.spotify.com/track/7D0NNAhOm46YZneCCplG2Z) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [TRANSPARENT](https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK) | 2:46 |
 | 106 | [Dance With Myself](https://open.spotify.com/track/1w0yZ491kumXS2qSJUawHz) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [TRANSPARENT](https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK) | 3:34 |
 
-Snapshot ID: `AcOg/gAAAAB5sJdLIjjtHtw1bfRizxOS`
+Snapshot ID: `AcOmngAAAAAZi9Zx2psMIbzLW7/u9BoH`

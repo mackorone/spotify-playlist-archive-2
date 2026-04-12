@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adbsAAAAAAASKUv8ruGkR2Sl3rVarHhE",
+  "snapshot_id": "adg9gAAAAABdj7fzTsBjgeLvuJl1FfDQ",
   "tracks": [
     {
       "added_at": null,
@@ -172,9 +172,9 @@
           "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
         }
       ],
-      "duration_ms": 152120,
-      "name": "Competition Ain't Nothin' - Single Version",
-      "url": "https://open.spotify.com/track/4RefDIOsz8d20CyS2a5W9E"
+      "duration_ms": 147133,
+      "name": "I Can Feel It",
+      "url": "https://open.spotify.com/track/3WvNMhry4GsGV2J2EffdO8"
     },
     {
       "added_at": null,
@@ -236,9 +236,9 @@
           "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
         }
       ],
-      "duration_ms": 147133,
-      "name": "I Can Feel It",
-      "url": "https://open.spotify.com/track/3WvNMhry4GsGV2J2EffdO8"
+      "duration_ms": 152120,
+      "name": "Competition Ain't Nothin' - Single Version",
+      "url": "https://open.spotify.com/track/4RefDIOsz8d20CyS2a5W9E"
     },
     {
       "added_at": null,
@@ -300,15 +300,15 @@
           "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
         }
       ],
-      "duration_ms": 213186,
-      "name": "Smokin' Room",
-      "url": "https://open.spotify.com/track/1Hmm0C4IccbRODCp5vUGBU"
+      "duration_ms": 220493,
+      "name": "Morning Noon And Nightime",
+      "url": "https://open.spotify.com/track/3TSokwmbHnVbiYQ0XApkb3"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Hold On a Little Longer",
-        "url": "https://open.spotify.com/album/78kWRNYPsSD4HSMBTNNiQq"
+        "name": "God Is Good",
+        "url": "https://open.spotify.com/album/2JktMstBcepNgVJX58Ig7Z"
       },
       "artists": [
         {
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
         }
       ],
-      "duration_ms": 201962,
-      "name": "Hold On a Little Longer",
-      "url": "https://open.spotify.com/track/7uNmf3URsQftTLFPXo5VRM"
+      "duration_ms": 260706,
+      "name": "God Is Good",
+      "url": "https://open.spotify.com/track/7kNdtp5dx70N6doCbllzsF"
     },
     {
       "added_at": null,
@@ -364,9 +364,41 @@
           "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
         }
       ],
-      "duration_ms": 220493,
-      "name": "Morning Noon And Nightime",
-      "url": "https://open.spotify.com/track/3TSokwmbHnVbiYQ0XApkb3"
+      "duration_ms": 213186,
+      "name": "Smokin' Room",
+      "url": "https://open.spotify.com/track/1Hmm0C4IccbRODCp5vUGBU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Three Way Love",
+        "url": "https://open.spotify.com/album/4J8klFc6tXtpSwRt9Z6gvF"
+      },
+      "artists": [
+        {
+          "name": "Carl Carlton",
+          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
+        }
+      ],
+      "duration_ms": 149606,
+      "name": "Three Way Love",
+      "url": "https://open.spotify.com/track/3cs4NayPNNcJ03KIjDJFBO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Wanna Be With You",
+        "url": "https://open.spotify.com/album/1ylIK4HqN5u8zMDz3fNQBJ"
+      },
+      "artists": [
+        {
+          "name": "Carl Carlton",
+          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
+        }
+      ],
+      "duration_ms": 196319,
+      "name": "Ain't Been No One Before You",
+      "url": "https://open.spotify.com/track/3P1vhPtCccWnN2T8I22TUM"
     },
     {
       "added_at": null,
@@ -403,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Three Way Love",
-        "url": "https://open.spotify.com/album/4J8klFc6tXtpSwRt9Z6gvF"
-      },
-      "artists": [
-        {
-          "name": "Carl Carlton",
-          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
-        }
-      ],
-      "duration_ms": 149606,
-      "name": "Three Way Love",
-      "url": "https://open.spotify.com/track/3cs4NayPNNcJ03KIjDJFBO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hellhound On My Trail: Songs Of Robert Johnson",
         "url": "https://open.spotify.com/album/7GFGlwLu3F4PCYDPp7qxex"
       },
@@ -443,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "God Is Good",
-        "url": "https://open.spotify.com/album/2JktMstBcepNgVJX58Ig7Z"
+        "name": "Hold On a Little Longer",
+        "url": "https://open.spotify.com/album/78kWRNYPsSD4HSMBTNNiQq"
       },
       "artists": [
         {
@@ -452,41 +468,9 @@
           "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
         }
       ],
-      "duration_ms": 260706,
-      "name": "God Is Good",
-      "url": "https://open.spotify.com/track/7kNdtp5dx70N6doCbllzsF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Wanna Be With You",
-        "url": "https://open.spotify.com/album/1ylIK4HqN5u8zMDz3fNQBJ"
-      },
-      "artists": [
-        {
-          "name": "Carl Carlton",
-          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
-        }
-      ],
-      "duration_ms": 196319,
-      "name": "Ain't Been No One Before You",
-      "url": "https://open.spotify.com/track/3P1vhPtCccWnN2T8I22TUM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Private Property",
-        "url": "https://open.spotify.com/album/78sYYdjYiy7XgpjXqOEJwU"
-      },
-      "artists": [
-        {
-          "name": "Carl Carlton",
-          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
-        }
-      ],
-      "duration_ms": 247355,
-      "name": "Hot",
-      "url": "https://open.spotify.com/track/2aIqulwYsfldNK9u11Bg0B"
+      "duration_ms": 201962,
+      "name": "Hold On a Little Longer",
+      "url": "https://open.spotify.com/track/7uNmf3URsQftTLFPXo5VRM"
     },
     {
       "added_at": null,
@@ -507,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Private Property",
+        "url": "https://open.spotify.com/album/78sYYdjYiy7XgpjXqOEJwU"
+      },
+      "artists": [
+        {
+          "name": "Carl Carlton",
+          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
+        }
+      ],
+      "duration_ms": 250377,
+      "name": "Mama's Boy",
+      "url": "https://open.spotify.com/track/1dmyGytxcI7OQLAclmOJ52"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Private Revibe",
         "url": "https://open.spotify.com/album/0Ae4jrAHXyNKxD91BY4ZW4"
       },
@@ -523,38 +523,6 @@
       "duration_ms": 293623,
       "name": "Private Revibe",
       "url": "https://open.spotify.com/track/0HoxL5hk97ccPyrS50ccAb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "One More Minute",
-        "url": "https://open.spotify.com/album/3jndkU4mOLfouW54RprLar"
-      },
-      "artists": [
-        {
-          "name": "Carl Carlton",
-          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
-        }
-      ],
-      "duration_ms": 281826,
-      "name": "One More Minute",
-      "url": "https://open.spotify.com/track/6INAA0Qx3PKl0Y74Vrv5qH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Private Property",
-        "url": "https://open.spotify.com/album/78sYYdjYiy7XgpjXqOEJwU"
-      },
-      "artists": [
-        {
-          "name": "Carl Carlton",
-          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
-        }
-      ],
-      "duration_ms": 237009,
-      "name": "Free Fine and 21",
-      "url": "https://open.spotify.com/track/2epGU96QmILHnfs3RFX7sz"
     },
     {
       "added_at": null,
@@ -591,6 +559,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "Private Property",
+        "url": "https://open.spotify.com/album/78sYYdjYiy7XgpjXqOEJwU"
+      },
+      "artists": [
+        {
+          "name": "Carl Carlton",
+          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
+        }
+      ],
+      "duration_ms": 247355,
+      "name": "Hot",
+      "url": "https://open.spotify.com/track/2aIqulwYsfldNK9u11Bg0B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "One More Minute",
+        "url": "https://open.spotify.com/album/3jndkU4mOLfouW54RprLar"
+      },
+      "artists": [
+        {
+          "name": "Carl Carlton",
+          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
+        }
+      ],
+      "duration_ms": 281826,
+      "name": "One More Minute",
+      "url": "https://open.spotify.com/track/6INAA0Qx3PKl0Y74Vrv5qH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Times Me Plus Love",
+        "url": "https://open.spotify.com/album/44jRoq7XaNWNbqyuGzPFuf"
+      },
+      "artists": [
+        {
+          "name": "Carl Carlton",
+          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
+        }
+      ],
+      "duration_ms": 144503,
+      "name": "You Times Me Plus Love",
+      "url": "https://open.spotify.com/track/5I77aUEixy9laeC5C4cQS1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Saturday",
         "url": "https://open.spotify.com/album/064WgfCRzGQpkYR62DFe4U"
       },
@@ -616,9 +632,9 @@
           "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
         }
       ],
-      "duration_ms": 250377,
-      "name": "Mama's Boy",
-      "url": "https://open.spotify.com/track/1dmyGytxcI7OQLAclmOJ52"
+      "duration_ms": 237009,
+      "name": "Free Fine and 21",
+      "url": "https://open.spotify.com/track/2epGU96QmILHnfs3RFX7sz"
     },
     {
       "added_at": null,
@@ -651,22 +667,6 @@
       "duration_ms": 192000,
       "name": "Bring down - Foggy Day Mix",
       "url": "https://open.spotify.com/track/4rCGAWGK22AEDfiVOLflxJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "You Times Me Plus Love",
-        "url": "https://open.spotify.com/album/44jRoq7XaNWNbqyuGzPFuf"
-      },
-      "artists": [
-        {
-          "name": "Carl Carlton",
-          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
-        }
-      ],
-      "duration_ms": 144503,
-      "name": "You Times Me Plus Love",
-      "url": "https://open.spotify.com/track/5I77aUEixy9laeC5C4cQS1"
     },
     {
       "added_at": null,

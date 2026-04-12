@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 
 > Deutschpop, der jetzt passiert\. Cover: Ivo Martin
 
-[Spotify](https://open.spotify.com/user/spotify) - 652,130 likes - 89 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 652,097 likes - 89 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 | 15 | [So gut](https://open.spotify.com/track/6XeWiaVccx7THsF34WJAYG) | [LAZLO](https://open.spotify.com/artist/435fmLcbvAJdnVy78faNWY), [Anna Grey](https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q) | [So gut](https://open.spotify.com/album/2A1XA3x2IEt5Eocu0ZfNGC) | 2:19 |
 | 16 | [Frag für 'n Freund](https://open.spotify.com/track/4we9MN5jHcCxL1HlSHNJiz) | [ENKAY](https://open.spotify.com/artist/3ZR4DKb6szzEmIavtFES5j) | [Frag für 'n Freund](https://open.spotify.com/album/0KJFDOMjShBHsaxQyePxRC) | 2:08 |
 | 17 | [Ein Herz kann man nicht reparieren](https://open.spotify.com/track/2x6SV7ZcXxuUGzS22NGxxy) | [Alli Neumann](https://open.spotify.com/artist/2fUZ5QodNiQntWefUy6Jfh) | [Ein Herz kann man nicht reparieren](https://open.spotify.com/album/4JNZWGAciC47Oh3E6NUXZx) | 3:18 |
-| 18 | [poltergeist \(feat\. Emma Josephine\)](https://open.spotify.com/track/2zEsuKoe2JKoi15SMWJLiX) | [georgustav](https://open.spotify.com/artist/5axauV52djUUY4BJcnxdZo), [Emma Josephine](https://open.spotify.com/artist/2Erk3x0bvGdyvu1q7bvkWr) | [poltergeist \(feat\. Emma Josephine\)](https://open.spotify.com/album/6eQFiz8uffTixXA2rH1u4H) | 2:44 |
+| 18 | [poltergeist](https://open.spotify.com/track/2zEsuKoe2JKoi15SMWJLiX) | [georgustav](https://open.spotify.com/artist/5axauV52djUUY4BJcnxdZo), [Emma Josephine](https://open.spotify.com/artist/2Erk3x0bvGdyvu1q7bvkWr) | [poltergeist](https://open.spotify.com/album/6eQFiz8uffTixXA2rH1u4H) | 2:44 |
 | 19 | [Niemand ist perfekt](https://open.spotify.com/track/4l8VmY3YnBZ1heMneGSS9p) | [ELEHA](https://open.spotify.com/artist/56mSZjn1q0tcYyC1N2c7TT) | [Niemand ist perfekt](https://open.spotify.com/album/30g8F2xvwPCi0TCCIrs2zP) | 2:58 |
 | 20 | [Feuer](https://open.spotify.com/track/2wSGu4sGnxWTNlymOfdjnU) | [wylhem](https://open.spotify.com/artist/5rRyC53HYyWwWChzlbIgbS) | [Feuer](https://open.spotify.com/album/65cD8n0ixy7kU0KWF6sasT) | 2:45 |
 | 21 | [Flackern](https://open.spotify.com/track/3ThXfB9n13QWWaJIB6xF2A) | [Bosse](https://open.spotify.com/artist/2e4uIDIIBXR0MmZe0AJGhR) | [Flackern](https://open.spotify.com/album/0hgdilqnbJgIbIywMSGJt9) | 2:57 |

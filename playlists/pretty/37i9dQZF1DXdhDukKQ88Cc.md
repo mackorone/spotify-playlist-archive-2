@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > 🔥 den nyeste rap i dk 🔥 cover: D1MA
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,890 likes - 26 songs - 1 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,888 likes - 26 songs - 1 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

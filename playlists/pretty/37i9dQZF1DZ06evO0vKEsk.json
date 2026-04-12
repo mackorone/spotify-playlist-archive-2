@@ -1,12 +1,12 @@
 {
   "description": "This is Bruna Karla. The essential tracks, all in one playlist.",
-  "num_followers": 132816,
+  "num_followers": 132815,
   "original_name": "This Is Bruna Karla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adbsAAAAAABy5+up3HJeMLMhlUaQMqlL",
+  "snapshot_id": "adg9gAAAAABK1Sy67N6wR0DC823/+Oiw",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,22 @@
       "duration_ms": 284835,
       "name": "Debaixo da Nuvem",
       "url": "https://open.spotify.com/track/6hkuCiWjyqkaWmPBI6xpwJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00caxodo",
+        "url": "https://open.spotify.com/album/44sV0KO83IohkU1FhQHB2b"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 363075,
+      "name": "Deus de Mois\u00e9s",
+      "url": "https://open.spotify.com/track/3ghzHm4lHHhA9WO9Yiu5nY"
     },
     {
       "added_at": null,
@@ -671,26 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Marca da Promessa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1cI1aaKiOEj22QwoM62hXB"
-      },
-      "artists": [
-        {
-          "name": "Trazendo a Arca",
-          "url": "https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5"
-        },
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 333002,
-      "name": "Marca da Promessa - Ao Vivo",
-      "url": "https://open.spotify.com/track/2BZn6s6vJhZYV2PRkl0oHZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Com Muito Louvor",
         "url": "https://open.spotify.com/album/5NItVsuGoKUjQOK8kfa72v"
       },
@@ -707,6 +703,26 @@
       "duration_ms": 321039,
       "name": "Com Muito Louvor",
       "url": "https://open.spotify.com/track/3fMWh5ZDVPFKoQnUxO29L8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Marca da Promessa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1cI1aaKiOEj22QwoM62hXB"
+      },
+      "artists": [
+        {
+          "name": "Trazendo a Arca",
+          "url": "https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5"
+        },
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 333002,
+      "name": "Marca da Promessa - Ao Vivo",
+      "url": "https://open.spotify.com/track/2BZn6s6vJhZYV2PRkl0oHZ"
     },
     {
       "added_at": null,
@@ -795,26 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "10 Anos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4sAqEgbJ67S6lA2LeVu0nv"
-      },
-      "artists": [
-        {
-          "name": "R\u00e9gis Danese",
-          "url": "https://open.spotify.com/artist/0eEbruEG13xwoZ0uT2rpll"
-        },
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 244680,
-      "name": "Eu Creio Nos Planos de Deus - Ao Vivo",
-      "url": "https://open.spotify.com/track/4StyOe9pamMyZHE5MTxclY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Se Deus \u00c9 Por Mim (Ao Vivo)",
         "url": "https://open.spotify.com/album/5axelF9ejzkR8Ju6eDHo5f"
       },
@@ -835,6 +831,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "10 Anos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4sAqEgbJ67S6lA2LeVu0nv"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gis Danese",
+          "url": "https://open.spotify.com/artist/0eEbruEG13xwoZ0uT2rpll"
+        },
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 244680,
+      "name": "Eu Creio Nos Planos de Deus - Ao Vivo",
+      "url": "https://open.spotify.com/track/4StyOe9pamMyZHE5MTxclY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Como \u00c1guia.",
         "url": "https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH"
       },
@@ -851,22 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Leva-me Ao Lugar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5oIiQFj1BsB0U8iA5F0yNd"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 332267,
-      "name": "Leva-me Ao Lugar - Ao Vivo",
-      "url": "https://open.spotify.com/track/6GDzuWdVeOV8BaJ0iuWv4n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vento do Esp\u00edrito",
         "url": "https://open.spotify.com/album/1o8OkaZKl1pTCMrWlDHxEp"
       },
@@ -879,6 +879,22 @@
       "duration_ms": 244831,
       "name": "Uma Mulher, Um Milagre",
       "url": "https://open.spotify.com/track/7376jMT2i67KqphVdumwPQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Leva-me Ao Lugar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5oIiQFj1BsB0U8iA5F0yNd"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 332267,
+      "name": "Leva-me Ao Lugar - Ao Vivo",
+      "url": "https://open.spotify.com/track/6GDzuWdVeOV8BaJ0iuWv4n"
     },
     {
       "added_at": null,
@@ -915,22 +931,6 @@
       "duration_ms": 321574,
       "name": "Eu Creio (Ao Vivo)",
       "url": "https://open.spotify.com/track/7EgXcH7sYVoWdaqkVF9FFr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bruna Kids",
-        "url": "https://open.spotify.com/album/0W7kUdHwTI6L17XHH73HY2"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 174660,
-      "name": "Corpo Perfeito",
-      "url": "https://open.spotify.com/track/0ppgTngQMJwHyM5DTjo8nv"
     }
   ],
   "unique_name": "This Is Bruna Karla",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27pyaOBBFp6.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 60's! Cover: Boudewijn de Groot
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,448 likes - 90 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,453 likes - 90 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27pyaOBBFp6.md) - [plain]
 | 26 | [Wie heeft de sleutels van de jukebox gezien](https://open.spotify.com/track/765nN5UPfEY3cf956Qvzpj) | [Het Cocktail Trio](https://open.spotify.com/artist/4utchSczIK6dlfPDkpVn9w) | [Hollands Glorie](https://open.spotify.com/album/1uqfT0g5mzIUmovRoXrhG8) | 3:21 |
 | 27 | [Zai Zai Zai](https://open.spotify.com/track/2RJb5Fm0dre38McoUXLACa) | [Ben Cramer](https://open.spotify.com/artist/6ZGYLlgUagyNo2UXDTHU1U) | [Zai Zai Zai](https://open.spotify.com/album/6RXvitAivy3iW8ebDORM2t) | 3:05 |
 | 28 | [Soerabaja](https://open.spotify.com/track/6WgIBSj3JIImcRurWWt63T) | [Anneke Gronloh](https://open.spotify.com/artist/29Chv9G8hshAc8E2fL9R9Y) | [Warm Is De Liefde \- 50 Gouden Herinneringen](https://open.spotify.com/album/4UiNhbNhYlkznyjr85N7im) | 2:28 |
-| 29 | [Draai Dan 797204](https://open.spotify.com/track/1e4u7Y4k7KISE5dRDFGzHW) | [Will Tura](https://open.spotify.com/artist/4HS0xcnX3oDHfCLJpHlUT8) | [The Real..\. Will Tura](https://open.spotify.com/album/1ePKQbue1TcYAXS396gBq6) | 2:15 |
-| 30 | [Ik Kan Geen Kikker Van De Kant Afduwen](https://open.spotify.com/track/3UzgV7RakYC3cwMa1zcCeJ) | [Lowland Trio](https://open.spotify.com/artist/0UWgpDfVMPO1mVVcYdIy48) | [Lowland Trio](https://open.spotify.com/album/5cuRfpQZqI2F6cahasPgwE) | 3:23 |
+| 29 | [Ik Kan Geen Kikker Van De Kant Afduwen](https://open.spotify.com/track/3UzgV7RakYC3cwMa1zcCeJ) | [Lowland Trio](https://open.spotify.com/artist/0UWgpDfVMPO1mVVcYdIy48) | [Lowland Trio](https://open.spotify.com/album/5cuRfpQZqI2F6cahasPgwE) | 3:23 |
+| 30 | [Draai Dan 797204](https://open.spotify.com/track/1e4u7Y4k7KISE5dRDFGzHW) | [Will Tura](https://open.spotify.com/artist/4HS0xcnX3oDHfCLJpHlUT8) | [The Real..\. Will Tura](https://open.spotify.com/album/1ePKQbue1TcYAXS396gBq6) | 2:15 |
 | 31 | [De Wandelclub](https://open.spotify.com/track/2Uyu9r8dY1MIhG76fubp0H) | [Jasperina de Jong](https://open.spotify.com/artist/3ll4qAeqLNOB6U3FSPwyJX) | [Die Goeie Ouwe Tijd Top 100](https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3) | 3:30 |
 | 32 | [De Wereld Is Leeg Zonder Jou](https://open.spotify.com/track/3GWOmCm7y2lobaykZbkjpm) | [Corry Konings](https://open.spotify.com/artist/3pqfZ3xfayx6qJWcsVcXnS) | [Corry](https://open.spotify.com/album/7HN3yPzTLfJhGf8Ek67H4i) | 2:53 |
 | 33 | [Middellandse Zee](https://open.spotify.com/track/5VJZNUSVtEntXztFaJWcZt) | [Anita Berry](https://open.spotify.com/artist/2Lrqb1RPGQ8vXNVTL65uL0) | [Middellandse Zee](https://open.spotify.com/album/1yLrPvd8Y5bV2pHkKxjgZz) | 3:08 |
@@ -89,9 +89,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27pyaOBBFp6.md) - [plain]
 | 79 | [Beestjes](https://open.spotify.com/track/5bNlDs2IvevjBJ3MH0FluN) | [Ronnie](https://open.spotify.com/artist/4T7ASdOjsGw9IwfeBt7ZjO), [De Ronnies](https://open.spotify.com/artist/4RSK0PChFYVDOyk9yHrhjC) | [Hollandse Hits Top 100](https://open.spotify.com/album/3olYePqSyCQeR2jvXwKhiD) | 2:48 |
 | 80 | [Oh Was Ik Maar Bij Moeder Thuis Gebleven](https://open.spotify.com/track/3IKPbGsMMEZS2ngXYcrVNC) | [Johnny Hoes](https://open.spotify.com/artist/1Mi47bz9As8xAtRrVDTn3x) | [Hollandse Hits Top 100](https://open.spotify.com/album/3olYePqSyCQeR2jvXwKhiD) | 3:08 |
 | 81 | [Spel Kaarten](https://open.spotify.com/track/68A1ozNluwp0GuDzSiYnDT) | [Gerard De Vries](https://open.spotify.com/artist/0NkWtmKhwsCX7VoMu0DpGP) | [Heerlijk Hollands \- Het Allerbeste van Gerard de Vries & Henk Wijngaard](https://open.spotify.com/album/2X9Y0QCl5xrDvqrsaVWj0l) | 4:23 |
-| 82 | [Wat Een Geluk](https://open.spotify.com/track/2rLSLk5ke1KlZJUAyvl5fb) | [Rudi Carrell](https://open.spotify.com/artist/52OEAGQwJplUGohcbmtAG5) | [Hollandse Hits Top 100](https://open.spotify.com/album/3olYePqSyCQeR2jvXwKhiD) | 2:30 |
-| 83 | [Glaasje Op ..\. Laat Je Rijden](https://open.spotify.com/track/05yFbot05gXlbBErzpdLzk) | [Sjakie Schram](https://open.spotify.com/artist/2KnzTjr0eagWmhB5JHZD8i) | [De Beste Amsterdamse Hits Ooit](https://open.spotify.com/album/480v7dRWwISKjCTiBmnGGk) | 2:29 |
-| 84 | [Anja\- De laatste dans](https://open.spotify.com/track/3ZKJvMeGf3nyvXYUbRZyLm) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [16 Vlaamse Hits](https://open.spotify.com/album/0joha6r0Q7FUybe1YodKsc) | 3:02 |
+| 82 | [Anja\- De laatste dans](https://open.spotify.com/track/3ZKJvMeGf3nyvXYUbRZyLm) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [16 Vlaamse Hits](https://open.spotify.com/album/0joha6r0Q7FUybe1YodKsc) | 3:02 |
+| 83 | [Wat Een Geluk](https://open.spotify.com/track/2rLSLk5ke1KlZJUAyvl5fb) | [Rudi Carrell](https://open.spotify.com/artist/52OEAGQwJplUGohcbmtAG5) | [Hollandse Hits Top 100](https://open.spotify.com/album/3olYePqSyCQeR2jvXwKhiD) | 2:30 |
+| 84 | [Glaasje Op ..\. Laat Je Rijden](https://open.spotify.com/track/05yFbot05gXlbBErzpdLzk) | [Sjakie Schram](https://open.spotify.com/artist/2KnzTjr0eagWmhB5JHZD8i) | [De Beste Amsterdamse Hits Ooit](https://open.spotify.com/album/480v7dRWwISKjCTiBmnGGk) | 2:29 |
 | 85 | [Mexico](https://open.spotify.com/track/00LS9wY7MHuurmWfefavb9) | [Zangeres Zonder Naam](https://open.spotify.com/artist/6m9EYPGGPleNS457wrg9p9) | [Alle 40 Goed](https://open.spotify.com/album/7E0mYawKN4S3u4gK0mwq88) | 3:36 |
 | 86 | [Giddy Up Go](https://open.spotify.com/track/3Nw18q2ryka6Cjs6h5eSov) | [Gerard De Vries](https://open.spotify.com/artist/0NkWtmKhwsCX7VoMu0DpGP) | [Heerlijk Hollands \- Het Allerbeste van Gerard de Vries & Henk Wijngaard](https://open.spotify.com/album/2X9Y0QCl5xrDvqrsaVWj0l) | 3:59 |
 | 87 | [Dans Nog Eenmaal Met Mij](https://open.spotify.com/track/71vNfPlAu8m3Hmg0ue91DM) | [The Fouryo's](https://open.spotify.com/artist/02QZUVfKe6DpXBTOPdAoLB) | [The Story of Volume 1](https://open.spotify.com/album/5PE0jrnXa9TA9HR96YoWGJ) | 2:39 |

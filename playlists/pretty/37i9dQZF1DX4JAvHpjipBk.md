@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Ella Langley, Lady Gaga & Doechii, Kehlani & Missy Elliott, Teddy Swims, KATSEYE, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,545,992 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,546,649 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 85 | [Target Practice](https://open.spotify.com/track/6ViXXJ6TMKmHIbgm3Hgqm8) | [My New Band Believe](https://open.spotify.com/artist/5bPSCPf8wOY03ENKd6Aw9O) | [My New Band Believe](https://open.spotify.com/album/0FypCc1StF9mNiLemcuJ3J) | 2:05 |
 | 86 | [over anything](https://open.spotify.com/track/72NGcY2sSw6FFvmUymouC8) | [Midrift](https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E) | [over anything](https://open.spotify.com/album/2UFaO6xoNt2f9WE73hiE8D) | 2:38 |
 | 87 | [no te vayas](https://open.spotify.com/track/6BEubkVfewFOsd0LUwtb0C) | [Sparklmami](https://open.spotify.com/artist/50NGgQQCV0QLrOefzyuNh0) | [no te vayas](https://open.spotify.com/album/2lqWGkViqu6n36AZc9rSVJ) | 3:14 |
-| 88 | [Love Hate](https://open.spotify.com/track/1ysnEi1bFBkn0aCQFPh8gY) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9), [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Love Hate](https://open.spotify.com/album/0tLM5uck8tjqqvgagX4I1p) | 3:12 |
+| 88 | [Love Hate \(feat\. Thomas Day\)](https://open.spotify.com/track/1ysnEi1bFBkn0aCQFPh8gY) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9), [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Love Hate \(feat\. Thomas Day\)](https://open.spotify.com/album/0tLM5uck8tjqqvgagX4I1p) | 3:12 |
 | 89 | [stay with me](https://open.spotify.com/track/3ohtc0JIOXUIjZVy5DCSBI) | [dóttir.x](https://open.spotify.com/artist/7jq2vXolpLlHipMTPVeMR0) | [stay with me](https://open.spotify.com/album/1szkuMBPAlxjThr7K8PVxv) | 2:59 |
 | 90 | [Woman I Am](https://open.spotify.com/track/7JDJimCnfNpiReuMNPXIVJ) | [Skye Newman](https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M) | [Woman I Am](https://open.spotify.com/album/2sgEblpbAegLtRuCpHJl70) | 3:31 |
 | 91 | [Put That Banger On Next](https://open.spotify.com/track/3Telt6qNs0A3XaUTfG3p1e) | [Ahadadream](https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW), [Capo Lee](https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh) | [Put That Banger On Next](https://open.spotify.com/album/1MNMB9fCDWKHW5bA4iSgCy) | 3:19 |

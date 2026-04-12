@@ -2088,7 +2088,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 274546,
       "name": "Las Cuatro Fiestas",
       "url": "https://open.spotify.com/track/6saaz6xf1KVaSWT4Geb5L6"
@@ -3304,6 +3304,28 @@
       "duration_ms": 280426,
       "name": "Preg\u00fantele a Su Hija",
       "url": "https://open.spotify.com/track/6ZL4R6iFvVd3R6a6OuPbKv"
+    },
+    {
+      "album": {
+        "name": "Volver A Vivir",
+        "url": "https://open.spotify.com/album/3YcKNLwwpEl9sUpJsNMCEX"
+      },
+      "artists": [
+        {
+          "name": "Diomedes Diaz",
+          "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
+        },
+        {
+          "name": "Ivan Zuleta",
+          "url": "https://open.spotify.com/artist/5EaL3CfK7WVRU5pCzUt35B"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278466,
+      "name": "Puro Amor",
+      "url": "https://open.spotify.com/track/25ptCY34kvpkfucDUpqhPH"
     },
     {
       "album": {

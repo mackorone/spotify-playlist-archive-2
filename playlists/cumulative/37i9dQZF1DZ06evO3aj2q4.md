@@ -4,7 +4,7 @@
 
 > This is Evanescence\. The essential tracks, all in one playlist.
 
-49 songs - 3 hr 9 min
+50 songs - 3 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [My Heart Is Broken](https://open.spotify.com/track/1Ej0xptDBpBxUM1dIPcHlm) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Evanescence](https://open.spotify.com/album/3U85Q4GtR0I3VwgDOKHttO) | 4:29 | 2025-03-08 |  |
 | [My Immortal](https://open.spotify.com/track/4UzVcXufOhGUwF56HT7b8M) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm) | 4:22 | 2025-03-08 |  |
 | [My Immortal \- Live From Le Zénith,France/2004](https://open.spotify.com/track/0umOKmb2xrgD9yutQHbCXz) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Anywhere But Home \(Live\)](https://open.spotify.com/album/5SpQ4sf9sXFWHgUKYCZSDF) | 4:38 | 2025-03-08 |  |
-| [Overture](https://open.spotify.com/track/4Kmipg6Y3gfA5UIS8MVUt9) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Synthesis](https://open.spotify.com/album/6NNgZE7QZi5mvDkA6aJsuF) | 0:57 | 2025-08-01 |  |
+| [Overture](https://open.spotify.com/track/4Kmipg6Y3gfA5UIS8MVUt9) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Synthesis](https://open.spotify.com/album/6NNgZE7QZi5mvDkA6aJsuF) | 0:57 | 2025-08-01 | 2026-04-12 |
 | [Part Of Me](https://open.spotify.com/track/74TiAd5cXM1vW5H7rCFBBI) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Bitter Truth](https://open.spotify.com/album/5KbvYEF5b17V0ofM46iOVY) | 3:58 | 2025-03-08 |  |
 | [Say You Will](https://open.spotify.com/track/4cfoU2UXXsbES5qwvdLHCO) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Evanescence \(Deluxe Version\)](https://open.spotify.com/album/0CHgu3JbE3Y0XQSejmQqLU) | 3:43 | 2025-03-08 |  |
 | [Secret Door](https://open.spotify.com/track/1ium9V09FUQ32Co0D3B6Dz) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Evanescence \(Deluxe Version\)](https://open.spotify.com/album/0CHgu3JbE3Y0XQSejmQqLU) | 3:53 | 2025-03-08 |  |
@@ -57,5 +57,6 @@
 | [Wasted On You](https://open.spotify.com/track/4aKT05gqcKBw2q6mnvzIzM) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Bitter Truth](https://open.spotify.com/album/5KbvYEF5b17V0ofM46iOVY) | 4:24 | 2025-03-08 |  |
 | [Weight Of The World](https://open.spotify.com/track/1UfCIFhRr8Bci9LUJ68dvp) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Open Door](https://open.spotify.com/album/3lFQ9ihSNR5YD0yi0yTzdC) | 3:37 | 2025-03-08 |  |
 | [What You Want](https://open.spotify.com/track/0uOo8xRtQ6okTZMR89ppVk) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Evanescence](https://open.spotify.com/album/3U85Q4GtR0I3VwgDOKHttO) | 3:41 | 2025-03-08 |  |
+| [Who Will You Follow](https://open.spotify.com/track/6XQdhnSZJqvhE6LxHEswCU) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Who Will You Follow](https://open.spotify.com/album/5JszBwCeRc1Psl5RU5oG7j) | 3:55 | 2026-04-12 |  |
 
 \*This playlist was first scraped on 2025-03-08. Prior content cannot be recovered.

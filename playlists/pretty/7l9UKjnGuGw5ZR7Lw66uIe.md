@@ -8,11 +8,11 @@ pretty - [cumulative](/playlists/cumulative/7l9UKjnGuGw5ZR7Lw66uIe.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Bilen Varsa](https://open.spotify.com/track/4X7mqQVz8rs6rbbe0iTMiC) | [Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [Bilen Varsa](https://open.spotify.com/album/1InCVaeeXbDzR3kSLD08VA) | 2:20 |
+| 1 | [Pişmanım \- Akustik](https://open.spotify.com/track/3J3F7tuKTkmv4NEhXk6lke) | [Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg), [Gökhan Türkmen](https://open.spotify.com/artist/4uGB0nZ5d1iCXS3sHR3pzm) | [Pişmanım \(Akustik\)](https://open.spotify.com/album/5Gl43bYKyhihUP94SeNJPs) | 2:15 |
 | 2 | [Kör Sevdam](https://open.spotify.com/track/2RlpOjMTH17Gf0F0AM40Lw) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Kör Sevdam](https://open.spotify.com/album/5LnSokIxzuo1rVOdq6plPa) | 3:11 |
 | 3 | [Mutlu Bir Son](https://open.spotify.com/track/1KTXMmoHI17NnUWhhtj5qq) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Anlatasım Var](https://open.spotify.com/album/2qMIz3YNB30GPbj6hTurWQ) | 3:07 |
 | 4 | [Yas Tutarak](https://open.spotify.com/track/5knvXOMEn9wadb4GNaTFiF) | [Berkay](https://open.spotify.com/artist/5juVQV1lGuA4o5IrLwpZar) | [Yas Tutarak](https://open.spotify.com/album/7uPqReZ6mc48CYTDVyKAkn) | 2:50 |
-| 5 | [Pişmanım \- Akustik](https://open.spotify.com/track/3J3F7tuKTkmv4NEhXk6lke) | [Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg), [Gökhan Türkmen](https://open.spotify.com/artist/4uGB0nZ5d1iCXS3sHR3pzm) | [Pişmanım \(Akustik\)](https://open.spotify.com/album/5Gl43bYKyhihUP94SeNJPs) | 2:15 |
+| 5 | [Bilen Varsa](https://open.spotify.com/track/4X7mqQVz8rs6rbbe0iTMiC) | [Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [Bilen Varsa](https://open.spotify.com/album/1InCVaeeXbDzR3kSLD08VA) | 2:20 |
 | 6 | [Yıkılana Kadar](https://open.spotify.com/track/3lIVcbwGFHXCxhm3fjAqss) | [Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [Yıkılana Kadar](https://open.spotify.com/album/3oP289E84GWpjyPFWfE3qg) | 3:00 |
 | 7 | [Her Zerrene](https://open.spotify.com/track/5RlKRK8iKnzRtY5Aep5Gnl) | [Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [Her Zerrene](https://open.spotify.com/album/2IAGAUOIhYhKdZzMnY5xV8) | 2:29 |
 | 8 | [Harbi Güzel](https://open.spotify.com/track/34NtMvhl3m4w4MnrBQPXsN) | [Murat Boz](https://open.spotify.com/artist/53oeVgECSa18dkHBQ9X6Eh) | [Harbi Güzel](https://open.spotify.com/album/65p0xMngIABEvDUFF3gYHW) | 2:55 |
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/7l9UKjnGuGw5ZR7Lw66uIe.md) - [plain]
 | 32 | [Rüzgar](https://open.spotify.com/track/75LtlhYeSASffU7076kxqX) | [Cansu Esin](https://open.spotify.com/artist/1uoDHmd2nPKxqxh1bDKU6j) | [Rüzgar](https://open.spotify.com/album/7aGfnRVxMdMgaKKiHi4Nvw) | 3:06 |
 | 33 | [Vurgunum](https://open.spotify.com/track/1c6eJEK4sM98qjRcHkswQf) | [Ayberk Serin](https://open.spotify.com/artist/1Q8rbtdvSoGQj33lP2HcJF) | [Vurgunum](https://open.spotify.com/album/5KGbhBsixH1hWtN3Rwjt7K) | 2:06 |
 
-Snapshot ID: `AAAAsyWqNbxFiB2ro+ZBSCrQvB5z1I+e`
+Snapshot ID: `AAAAtaNFIzs8nvfjtP1MSjMctyUEd3FQ`

@@ -4,7 +4,7 @@
 
 > afrobeats: best served chill
 
-743 songs - 1 day 11 hr 58 min
+744 songs - 1 day 12 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [CLOUD 9](https://open.spotify.com/track/6NPGARxLviKCfERFuSMiaO) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [CLOUD 9](https://open.spotify.com/album/7Jk4YjRuYlomAcJ9ELgZDx) | 3:08 | 2022-06-09 | 2023-11-03 |
 | [Coat](https://open.spotify.com/track/72I8QNOhxOPlIUd706FPHd) | [Rvdical the Kid](https://open.spotify.com/artist/4eu9GW8WwzF6n6fb34COES), [Maesu](https://open.spotify.com/artist/2kk1THOr0gsQaAqOj02tbl) | [Coat](https://open.spotify.com/album/6MrDXdoSfJyULkVYDUIm0n) | 1:30 | 2023-11-24 | 2023-12-02 |
 | [Coffee](https://open.spotify.com/track/1sbNYISa3lQzBWNPtRm5w6) | [G\-West](https://open.spotify.com/artist/39utnMndFEvTgT6ldinEaJ) | [Coffee](https://open.spotify.com/album/5GI1eCPF18sNydRvHGLdqM) | 2:54 | 2025-04-04 | 2025-05-30 |
+| [Colorado](https://open.spotify.com/track/7C2IUngL0Xp8MsD575v2cJ) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Colorado](https://open.spotify.com/album/1P8BZuY2ZRlCPzXhSly5eZ) | 3:44 | 2026-04-10 |  |
 | [Come Closer](https://open.spotify.com/track/2SBPw60niF4PMa0i5HRrBS) | [Swish Music](https://open.spotify.com/artist/7BU3LRtUwP48t4OYNmYZHI), [Dau Dau](https://open.spotify.com/artist/5zE6gcTHIzl8LuAqhcCDu1), [Lil Nafy](https://open.spotify.com/artist/1dwSEaXiwO5ggqNXQuReTS) | [Come Closer](https://open.spotify.com/album/24ExWn1W0i4NzG1CPxXYXT) | 2:41 | 2023-04-27 | 2023-06-23 |
 | [Come My Way](https://open.spotify.com/track/15rWCjxhuKiWgHLzuzduKn) | [boistory](https://open.spotify.com/artist/1SCzhjMwBRzC25O01ybQtc) | [Hopeless Romantic Riddim](https://open.spotify.com/album/49JiNiTZIyxzCeGhoc2yBs) | 3:04 | 2022-06-09 | 2023-03-04 |
 | [Comforter \(feat\. Ayra Starr\)](https://open.spotify.com/track/2Vr7Qvt5a9f6W9m6ifke4K) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Comforter \(feat\. Ayra Starr\)](https://open.spotify.com/album/2NmB4LzQtfkv88hY595YtL) | 3:36 | 2022-07-08 | 2023-10-18 |
@@ -685,7 +686,7 @@
 | [Vanity](https://open.spotify.com/track/7CT9KE85Muc2n7UG6JS0dv) | [capespring.](https://open.spotify.com/artist/2VF53usTu5Chbp1fmxjUeS) | [Vanity](https://open.spotify.com/album/07xgzcCcQz2uahUuO1xnkq) | 2:32 | 2023-07-20 | 2023-07-29 |
 | [Vawulence](https://open.spotify.com/track/0tu7UAep0cBH35Lzln2Fjw) | [Yaadman fka Yung L](https://open.spotify.com/artist/0XnH3M78JKVEjutHn1146c) | [Vawulence](https://open.spotify.com/album/09EXBWpvIYBAwO9lCNZMvw) | 2:12 | 2023-08-10 | 2023-10-13 |
 | [Vawulence \(Remix\)](https://open.spotify.com/track/26zrOWI3JO2y0grY3UyTGj) | [Yaadman fka Yung L](https://open.spotify.com/artist/0XnH3M78JKVEjutHn1146c), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn) | [Vawulence \(Remix\)](https://open.spotify.com/album/1hkosTcAidMQWeEdYgMEri) | 2:54 | 2024-01-12 | 2024-03-30 |
-| [Verily](https://open.spotify.com/track/78JnyPSDt67KvELlYdQvcw) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Verily](https://open.spotify.com/album/7vU3HmCgSJfCmreSA9LXOR) | 3:15 | 2025-02-21 |  |
+| [Verily](https://open.spotify.com/track/78JnyPSDt67KvELlYdQvcw) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Verily](https://open.spotify.com/album/7vU3HmCgSJfCmreSA9LXOR) | 3:15 | 2025-02-21 | 2026-04-12 |
 | [Vibration](https://open.spotify.com/track/3yEPVODnT2tXcc3NN6ymIN) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Vibration](https://open.spotify.com/album/3UN7Hvdib6FUBXVOZHNYjh) | 3:01 | 2024-05-24 | 2024-11-22 |
 | [Vision](https://open.spotify.com/track/5jLBhr4USswMtmsItEAFqf) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Qing Madi](https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn) | 2:26 | 2023-11-17 | 2024-11-22 |
 | [Vision Remix \(feat\. Chlöe\)](https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Vision Remix \(feat\. Chlöe\)](https://open.spotify.com/album/1cdHnVkU4QloSiH06bI8pA) | 2:46 | 2024-05-03 | 2024-11-22 |

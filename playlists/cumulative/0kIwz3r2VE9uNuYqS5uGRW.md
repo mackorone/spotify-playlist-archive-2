@@ -4,7 +4,7 @@
 
 > 
 
-195 songs - 10 hr 8 min
+196 songs - 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [jive](https://open.spotify.com/track/7bTCD4VX14Le9iNWUBjUJ5) | [Moonrust](https://open.spotify.com/artist/0BdOZyc2UcgDOc46WepPBY) | [four dreams, one day](https://open.spotify.com/album/0NJfVdFby9KWkRWe4a5RjT) | 3:02 | 2025-11-28 |  |
 | [Julieta](https://open.spotify.com/track/0ych2VtgKxgHWicZg84yGX) | [Amillie](https://open.spotify.com/artist/1duM4rm8TlgqBKOTPCHXgd), [Fermin Daddy](https://open.spotify.com/artist/021cc0FsTWmMjCULvwsZg8) | [Julieta](https://open.spotify.com/album/58vKWq7EQkKQIcw92aOhPm) | 3:16 | 2025-03-27 |  |
 | [KEEPIN IT REAL](https://open.spotify.com/track/06yfIxqtvS9uKuFOISWTuF) | [Swízzy](https://open.spotify.com/artist/0UECTvB4F2xASEH91yftgO) | [Melodic Desire II](https://open.spotify.com/album/3zyNtvKFT6Fcgmr3B0APjn) | 2:01 | 2025-04-10 |  |
+| [KILLER](https://open.spotify.com/track/4EzcHscbLds0XLxTxlzdYG) | [MEanIngfUl](https://open.spotify.com/artist/5j62YtmsqrRgu7v49wDtrA) | [KILLER](https://open.spotify.com/album/7zN3fyHeb5UujbCsNSJWM2) | 2:49 | 2026-04-11 |  |
 | [La Corista](https://open.spotify.com/track/3nEddgET3KJeYUoT9nx9Kq) | [Gharet & Lkenn](https://open.spotify.com/artist/39m8tomZHufG8tNNPc96jq) | [La Corista](https://open.spotify.com/album/3CCtu0y4QxmoTFvP4RjgGa) | 3:25 | 2025-04-10 |  |
 | [LATELY](https://open.spotify.com/track/4ajoLXkoZzkCIxeWAjqS3V) | [KvN](https://open.spotify.com/artist/2JNr329RMdieI5JCYwUnIh) | [LATELY](https://open.spotify.com/album/6ot5Qbgd08hzUmvtiFhDLv) | 2:52 | 2025-12-10 |  |
 | [Latina BB](https://open.spotify.com/track/3XqDTOzpLaSUFT2GPwbQW8) | [cami santiz](https://open.spotify.com/artist/5SqIDTS8ZHDtkIFZpS6G0S) | [Latina BB](https://open.spotify.com/album/19kXzogdcK0IQAKGUI3Je3) | 2:17 | 2026-03-13 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Louis Armstrong. The essential tracks, all in one playlist.",
-  "num_followers": 197387,
+  "num_followers": 197402,
   "original_name": "This Is Louis Armstrong",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adbsAAAAAAAYKz2OKb38ryPIGZ0xS9jv",
+  "snapshot_id": "adg9gAAAAAAZ1ugGjYn+xGVt27wr06hH",
   "tracks": [
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Satchmo Serenades",
-        "url": "https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 181493,
-      "name": "A Kiss To Build A Dream On - Single Version",
-      "url": "https://open.spotify.com/track/5y8zb3grlQonjdqd27K39T"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love, Ella",
         "url": "https://open.spotify.com/album/1y5KGkUKO0NG32MhIIagCA"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 185160,
       "name": "Dream A Little Dream Of Me - Single Version",
       "url": "https://open.spotify.com/track/78MI7mu1LV1k4IA2HzKmHe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Satchmo Serenades",
+        "url": "https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 181493,
+      "name": "A Kiss To Build A Dream On - Single Version",
+      "url": "https://open.spotify.com/track/5y8zb3grlQonjdqd27K39T"
     },
     {
       "added_at": null,
@@ -227,22 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Satchmo Serenades",
-        "url": "https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 203760,
-      "name": "La vie en rose - Single Version",
-      "url": "https://open.spotify.com/track/0zDVclPMSsjeyvbnqhWOmt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ella And Louis Again",
         "url": "https://open.spotify.com/album/4zWqQOob980K9drUrUGM8M"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 356626,
       "name": "Autumn In New York",
       "url": "https://open.spotify.com/track/0f2489MzoisF9pKduawvce"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Satchmo Serenades",
+        "url": "https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 203760,
+      "name": "La vie en rose - Single Version",
+      "url": "https://open.spotify.com/track/0zDVclPMSsjeyvbnqhWOmt"
     },
     {
       "added_at": null,
@@ -799,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ambassador Satch",
-        "url": "https://open.spotify.com/album/58kHPlQWaYIBgLnYmBObvG"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 125533,
-      "name": "When the Red, Red Robin Comes Bob, Bob, Bobbin' Along - Live at Medina Temple",
-      "url": "https://open.spotify.com/track/6NfoO2HWC2O3FkffWJBdnZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Satchmo In Style (Expanded Edition)",
         "url": "https://open.spotify.com/album/39pZKbuS93KkNXwLsYCmQ7"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 194160,
       "name": "When It's Sleepy Time Down South",
       "url": "https://open.spotify.com/track/07NPpmKrMZEIpOp5ELr7g3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ambassador Satch",
+        "url": "https://open.spotify.com/album/58kHPlQWaYIBgLnYmBObvG"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 125533,
+      "name": "When the Red, Red Robin Comes Bob, Bob, Bobbin' Along - Live at Medina Temple",
+      "url": "https://open.spotify.com/track/6NfoO2HWC2O3FkffWJBdnZ"
     },
     {
       "added_at": null,
@@ -875,22 +875,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Satchmo Sings",
-        "url": "https://open.spotify.com/album/02UO3sLoeFzfooxg02pO34"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 186573,
-      "name": "Kiss Of Fire",
-      "url": "https://open.spotify.com/track/6CpHznEM3XknffOqhduhg0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Satchmo In Style (Expanded Edition)",
         "url": "https://open.spotify.com/album/39pZKbuS93KkNXwLsYCmQ7"
       },
@@ -911,22 +895,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Complete Louis Armstrong - Duke Ellington Sessions",
-        "url": "https://open.spotify.com/album/0tDaldQZb0L4jsIbEJnNhF"
+        "name": "Satchmo Sings",
+        "url": "https://open.spotify.com/album/02UO3sLoeFzfooxg02pO34"
       },
       "artists": [
         {
           "name": "Louis Armstrong",
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        },
-        {
-          "name": "Duke Ellington",
-          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
         }
       ],
-      "duration_ms": 240040,
-      "name": "Mood Indigo",
-      "url": "https://open.spotify.com/track/1EzGtQRzHlP3xNvzNalgvZ"
+      "duration_ms": 186573,
+      "name": "Kiss Of Fire",
+      "url": "https://open.spotify.com/track/6CpHznEM3XknffOqhduhg0"
     },
     {
       "added_at": null,
@@ -943,6 +923,26 @@
       "duration_ms": 199893,
       "name": "West End Blues",
       "url": "https://open.spotify.com/track/1fcHyenlOvYHnF3xMz2wDB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Complete Louis Armstrong - Duke Ellington Sessions",
+        "url": "https://open.spotify.com/album/0tDaldQZb0L4jsIbEJnNhF"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "duration_ms": 240040,
+      "name": "Mood Indigo",
+      "url": "https://open.spotify.com/track/1EzGtQRzHlP3xNvzNalgvZ"
     },
     {
       "added_at": null,

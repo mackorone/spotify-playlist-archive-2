@@ -4,7 +4,7 @@
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-1,268 songs - 2 day 6 hr 46 min
+1,269 songs - 2 day 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1211,6 +1211,7 @@
 | [What We Found](https://open.spotify.com/track/7zyIeme5grGkInU0nizU0i) | [DJSM](https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx), [Hanno](https://open.spotify.com/artist/4y08hdBM8X8dh1Ik7eWZFg), [Felix Samuel](https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK) | [What We Found](https://open.spotify.com/album/7rYGBAwBSE2LIcTH0mpPqx) | 3:08 | 2024-02-02 | 2024-05-13 |
 | [What We Started](https://open.spotify.com/track/5jsiM3FA6cmJmmepchwNCz) | [DALEXO](https://open.spotify.com/artist/5s4QJTzJRjMrqBDzPiif9l), [Ruxolf](https://open.spotify.com/artist/35UJGn6qRHJ2rWqWJl9ps5), [Mason](https://open.spotify.com/artist/4jXbk5gQsWSBWL8HGnIcoh) | [What We Started](https://open.spotify.com/album/4uq0IbSNNaY2IbPE9oatns) | 2:31 | 2024-09-05 | 2025-07-17 |
 | [What's The Harm](https://open.spotify.com/track/6sEZPeZtEYGAQ9ncLdORpu) | [Maggie Szabo](https://open.spotify.com/artist/1V5IVmwHG2veT0CUw3kb48), [Youngmin](https://open.spotify.com/artist/2w271WbWiCuYjWGz92Dzwb) | [What's The Harm](https://open.spotify.com/album/1dIU2tly1YsvYXPLj24NCC) | 2:27 | 2025-01-25 | 2025-07-28 |
+| [When I Get Old](https://open.spotify.com/track/0MXckdumBMa8PENNx7kc02) | [Baked Moon](https://open.spotify.com/artist/1EakYdOq1DNS0vJEC9Gy8K), [blue my mind](https://open.spotify.com/artist/6D1wjtA3nKandBjo3erjkJ) | [When I Get Old](https://open.spotify.com/album/5I2Tg8veMNJcp1w63oiCvV) | 2:10 | 2026-04-11 |  |
 | [When I'm Lovin’ U](https://open.spotify.com/track/3HfCYLIrpEkiyzRS1erhFz) | [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Yann Muller](https://open.spotify.com/artist/41HOzTOe9JNerhym1HWxti) | [When I'm Lovin’ U](https://open.spotify.com/album/06c9hyMCBoJKpveW5EDmfE) | 2:34 | 2025-09-05 |  |
 | [When The Beat Drops Out](https://open.spotify.com/track/0TV5O9DZxQ561w1fNc0TSg) | [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu), [july](https://open.spotify.com/artist/0mZ3vE5UEhRLjfTLfyWD77), [Luna Serenade](https://open.spotify.com/artist/1GmIz6AGIA1KTzqltGRkJJ) | [When The Beat Drops Out](https://open.spotify.com/album/5BLj4vYsELaoM95lOU2Ogg) | 2:24 | 2024-10-03 | 2025-07-29 |
 | [When Tomorrow Comes](https://open.spotify.com/track/5yHxG2tJuvjhp9OLodQI8k) | [rshand](https://open.spotify.com/artist/7gjIrPoGRWrG0ymsV5TZ16) | [When Tomorrow Comes](https://open.spotify.com/album/1VHPLsguIyg5fQSiD4P0o3) | 2:28 | 2024-06-30 | 2024-08-05 |

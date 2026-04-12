@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKMCnEhDnDL.md) - [plain]
 
 > De beste Nederlandse liedjes\. Cover: Zoë Livay \(<a href="spotify:playlist:37i9dQZF1DXaxwXKCsImRe">RADAR</a><br/>\-artiest\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 525,449 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 525,476 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

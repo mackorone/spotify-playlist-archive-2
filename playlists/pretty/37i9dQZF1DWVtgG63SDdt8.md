@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: bodie
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,322 likes - 96 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,350 likes - 96 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 5 | [EVERYTHING](https://open.spotify.com/track/7B2qUMtvYuAr8QGCx1vVij) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [EVERYTHING](https://open.spotify.com/album/4i49RtwqvKoilyro0TIypt) | 3:23 |
 | 6 | [SOMETHING IN THE WATER](https://open.spotify.com/track/38abUcedwmO4pyKllQBNxO) | [PARTY WAVE](https://open.spotify.com/artist/6iQ0SOfahRnTthPNGhgzkB), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [DAWN PATROL](https://open.spotify.com/album/0DM6P83bgDbFuwNaZz09fh) | 2:39 |
 | 7 | [Talking To A Dove](https://open.spotify.com/track/2VBWGfh1WorNT0yHkbG2Va) | [Lani Rose](https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb) | [Talking To A Dove](https://open.spotify.com/album/22XaF4IHvqBCIlWic1GNEb) | 3:19 |
-| 8 | [To God Be The Glory \- Studio](https://open.spotify.com/track/5DTyY5w9NT214c8hrUDZ9H) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [To God Be The Glory](https://open.spotify.com/album/45c0d22lk0ttL7aZvWEWmI) | 4:44 |
+| 8 | [To God Be The Glory](https://open.spotify.com/track/5DTyY5w9NT214c8hrUDZ9H) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [To God Be The Glory](https://open.spotify.com/album/45c0d22lk0ttL7aZvWEWmI) | 4:44 |
 | 9 | [MAGNIFICENT](https://open.spotify.com/track/7aJGq4cCqeiHk2VVTxn7oT) | [Seth Condrey](https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg), [Lilia Condrey](https://open.spotify.com/artist/00awqaWsqjyX4VGl0O3DZj) | [Family Worship, Vol\. 1: Roots](https://open.spotify.com/album/0BX3PpFECnDtWutJ6BxFm9) | 2:24 |
 | 10 | [call My name \(YHWH\)](https://open.spotify.com/track/3QF9JprTGyPB9dMnnRL0U9) | [Tenroc](https://open.spotify.com/artist/2vjr6uTQVOzLdsNIWaqy2i) | [God Is A Person](https://open.spotify.com/album/6of0HtLpPFq7ZgZIigbTg6) | 2:55 |
 | 11 | [CRESCERE \- BLVRS Remix](https://open.spotify.com/track/5Sdci9F4857qfhfEcSLL3o) | [Sam Bowman](https://open.spotify.com/artist/4cRZTgXsG1S8tR5vtkUqxP), [BLVRS](https://open.spotify.com/artist/3SeJEA9smshVPlk8jbWlPD) | [CRESCERE \(BLVRS Remix\)](https://open.spotify.com/album/1fZWSo1d5rYsIEcAEpZCmi) | 2:36 |
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 23 | [Mercy](https://open.spotify.com/track/70b52gyy9fRkXhPfQ38hnN) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Mercy](https://open.spotify.com/album/0JkOeQSX2cFvxqBsWI2uhJ) | 2:27 |
 | 24 | [Sunday Morning](https://open.spotify.com/track/2gyMKeLaMJnOCCoeTE9yae) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [Sunday Morning](https://open.spotify.com/album/2az66l3p60stcXJh8u7iqk) | 3:04 |
 | 25 | [Out Of Touch](https://open.spotify.com/track/6EGSvVXneV86Ct1dctAxqB) | [Perri Jones](https://open.spotify.com/artist/0v7n7KWfzG0Gg4grOnHdg4) | [Out Of Touch](https://open.spotify.com/album/0MkbRC8bibouKkeo4PFolh) | 3:00 |
-| 26 | [alright <3](https://open.spotify.com/track/3B3UXCixeVlTOyJS0dkMi9) | [taylor charmayne](https://open.spotify.com/artist/6iEKnPF41oa4jXXOmOnvWS), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T), [David Alexander Fields](https://open.spotify.com/artist/1T0sNtVxvAkesJAxcjhAeJ), [Jontavais Jermaine johnson](https://open.spotify.com/artist/116wMw3zxbx9d2zdpX0Nzj) | [alright <3](https://open.spotify.com/album/4vn8PhGIvol3OtMPriOFiq) | 3:48 |
+| 26 | [alright <3](https://open.spotify.com/track/3B3UXCixeVlTOyJS0dkMi9) | [taylor charmayne](https://open.spotify.com/artist/6iEKnPF41oa4jXXOmOnvWS), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [alright <3](https://open.spotify.com/album/4vn8PhGIvol3OtMPriOFiq) | 3:48 |
 | 27 | [nine things](https://open.spotify.com/track/0GtQdknge5kb9iH5q5VyIX) | [Sarah Nathalié](https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni) | [nine things & true love](https://open.spotify.com/album/0fsCenVJIamz57SgY5b17z) | 3:15 |
 | 28 | [Time for You](https://open.spotify.com/track/54IR8l2bqqj5CLlgAZ8mRO) | [Anna Makula](https://open.spotify.com/artist/2sCH9kYASIAGOaloAfOe44) | [Time for You](https://open.spotify.com/album/6CUZHvfCGAPlo8Q7fsJlz0) | 3:39 |
 | 29 | [Savior](https://open.spotify.com/track/3Aj2VPE6lCiEmI97HNkQsx) | [Kachi Annuncia](https://open.spotify.com/artist/1BX5LtwtToqHi5kRICFlYf) | [Savior](https://open.spotify.com/album/6lVdRPoAW3zsTLnzIaPcEg) | 3:26 |

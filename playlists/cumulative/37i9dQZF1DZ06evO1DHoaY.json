@@ -1069,6 +1069,24 @@
     },
     {
       "album": {
+        "name": "Legend - The Best Of Bob Marley And The Wailers",
+        "url": "https://open.spotify.com/album/4jKeipwuUTjlx9USNYdhZn"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2026-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330760,
+      "name": "Stir It Up",
+      "url": "https://open.spotify.com/track/4FNm4ZJaUVLDCMXcqwS6zY"
+    },
+    {
+      "album": {
         "name": "Catch A Fire",
         "url": "https://open.spotify.com/album/39kLAVdcgW7jbMcTEaY2qy"
       },
@@ -1080,7 +1098,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 332400,
       "name": "Stir It Up",
       "url": "https://open.spotify.com/track/3sqZDdEO5viqNqMCNem5m5"

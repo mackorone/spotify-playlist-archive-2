@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2023-05-02",
-  "description": "Ambient with the soothing sounds of water, rain and birds. ",
+  "description": "Ambient with the soothing sounds of water, rain and birds.",
   "name": "Nature Relaxation",
   "tracks": [
+    {
+      "album": {
+        "name": "40Hz Sound Of Nature",
+        "url": "https://open.spotify.com/album/1MgH6LgiOlhtYVPygkFr0F"
+      },
+      "artists": [
+        {
+          "name": "Alex Zenum",
+          "url": "https://open.spotify.com/artist/1R7IPqmjjDOWrp2vH7xspV"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "40Hz Sound Of Nature",
+      "url": "https://open.spotify.com/track/3nwx8hPz31dVTuNMlybFzn"
+    },
     {
       "album": {
         "name": "Garden of Night",
@@ -200,6 +218,28 @@
       "duration_ms": 140000,
       "name": "Amyntas",
       "url": "https://open.spotify.com/track/2LoApskCgehKJwVbl81Ktd"
+    },
+    {
+      "album": {
+        "name": "AV // TH",
+        "url": "https://open.spotify.com/album/452uPYouELxWeqwyap8Dyj"
+      },
+      "artists": [
+        {
+          "name": "rhubiqs",
+          "url": "https://open.spotify.com/artist/5RQkuHg4XctV2O1tsIvOkT"
+        },
+        {
+          "name": "Good Weather For An Airstrike",
+          "url": "https://open.spotify.com/artist/1LcsFT5fwJajcpAqmlitHX"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227266,
+      "name": "and finally, we reach the summit",
+      "url": "https://open.spotify.com/track/5H3eECDA7nMacVuqr5At31"
     },
     {
       "album": {
@@ -952,7 +992,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 158212,
       "name": "Calmia Verde",
       "url": "https://open.spotify.com/track/1l05FOsjqFDcvQNjVENclj"
@@ -1330,7 +1370,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 160076,
       "name": "Crystal Shore",
       "url": "https://open.spotify.com/track/1B7gbkPVwmZdCE0PZpglzl"
@@ -1442,6 +1482,28 @@
       "duration_ms": 168931,
       "name": "Destination",
       "url": "https://open.spotify.com/track/7xXpydVsZUv86p3SSi3JJ2"
+    },
+    {
+      "album": {
+        "name": "Developments 2: Motion",
+        "url": "https://open.spotify.com/album/67zojxNhuPhPre8kID2R3T"
+      },
+      "artists": [
+        {
+          "name": "Six Missing",
+          "url": "https://open.spotify.com/artist/70yRyjWkxX4n1jcdC3Pzmt"
+        },
+        {
+          "name": "Patrik Berg Almkvisth",
+          "url": "https://open.spotify.com/artist/0K5Ns1UkBlmyx8clOiEUbo"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247000,
+      "name": "Developments 2: Motion",
+      "url": "https://open.spotify.com/track/7hCIU4hiTwMiZ3r9C5cX87"
     },
     {
       "album": {
@@ -5478,7 +5540,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 189250,
       "name": "Rising Up",
       "url": "https://open.spotify.com/track/52ucjqmX0AZ5NXugBrcJzp"

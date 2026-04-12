@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 
 > The best of Latin Trap\. Cover: Clarent
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,492,527 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,492,517 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 | 99 | [POLOS OPUESTOS REMIX \- BLESSD VERSION](https://open.spotify.com/track/2ALQyXMC26Vew7JX7ert9M) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK) | [POLOS OPUESTOS REMIX \(BLESSD VERSION\)](https://open.spotify.com/album/2o89OBJVbw4BdBeyVOGanN) | 3:36 |
 | 100 | [Q U E V A S H A C E R H O Y ?](https://open.spotify.com/track/0Sr7ssScx54yxdM2ols7nW) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [PRIMERA MUSA](https://open.spotify.com/album/3C5uwdRE5QRoXSGPPxpDd4) | 3:44 |
 
-Snapshot ID: `AAAAAESEX1b1Ms0HrfPfACSSB7xFSN14`
+Snapshot ID: `AAAAAATcDtvuVyk8araJazkFqs576zcN`

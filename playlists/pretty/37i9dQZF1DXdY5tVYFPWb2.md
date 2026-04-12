@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdY5tVYFPWb2.md) - [plain]
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,853 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,872 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdY5tVYFPWb2.md) - [plain]
 | 54 | [革命前夜](https://open.spotify.com/track/2vOeE2Uh2UDG5jow8F2WQ9) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [from JAPAN 2](https://open.spotify.com/album/6MQkhc7AduXNgGCv43WCxl) | 4:35 |
 | 55 | [カ ミ ナ リ](https://open.spotify.com/track/1zFY4oOz58ps2Eeztu12S3) | [I Don't Like Mondays.](https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF) | [カ ミ ナ リ](https://open.spotify.com/album/2zqIBWA4EAuPPNqeznO68y) | 3:33 |
 | 56 | [ふたり](https://open.spotify.com/track/6mWM2XvitdQyMPOhPKiOSX) | [RETRORIRON](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [コレクションアローン](https://open.spotify.com/album/3XO7V4ThUG4ytIau8qSxaL) | 4:58 |
-| 57 | [Loneliness](https://open.spotify.com/track/0dPQXzKfYSVPCoTftltoiC) | [Funkindustry](https://open.spotify.com/artist/0QYdME0a29bLqdSqKaprOX), [Natsu Summer](https://open.spotify.com/artist/4l3pCmSMjqdSkhWUZp6jCD) | [Loneliness](https://open.spotify.com/album/0rtgFB3NTb4M2hjJcU05zJ) | 4:14 |
-| 58 | [あらわれないで](https://open.spotify.com/track/4J355x8SX4orM1H3tyPBFa) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [あらわれないで](https://open.spotify.com/album/3Of0ZbIf2fr4VTCoy8YNxY) | 3:57 |
-| 59 | [さつきちゃん](https://open.spotify.com/track/7CaO1v3WLzHhXhJS1tmcmG) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [さつきちゃん](https://open.spotify.com/album/7vFlRilca0ZERCshQ8hU6t) | 3:22 |
+| 57 | [あらわれないで](https://open.spotify.com/track/4J355x8SX4orM1H3tyPBFa) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [あらわれないで](https://open.spotify.com/album/3Of0ZbIf2fr4VTCoy8YNxY) | 3:57 |
+| 58 | [さつきちゃん](https://open.spotify.com/track/7CaO1v3WLzHhXhJS1tmcmG) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [さつきちゃん](https://open.spotify.com/album/7vFlRilca0ZERCshQ8hU6t) | 3:22 |
+| 59 | [Loneliness](https://open.spotify.com/track/0dPQXzKfYSVPCoTftltoiC) | [Funkindustry](https://open.spotify.com/artist/0QYdME0a29bLqdSqKaprOX), [Natsu Summer](https://open.spotify.com/artist/4l3pCmSMjqdSkhWUZp6jCD) | [Loneliness](https://open.spotify.com/album/0rtgFB3NTb4M2hjJcU05zJ) | 4:14 |
 | 60 | [MOON NIGHT](https://open.spotify.com/track/4Ndg10oNRmN8FtOrWxs3Q5) | [I Don't Like Mondays.](https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF) | [Black Humor](https://open.spotify.com/album/0LNnAK39uQkjEa0fSCYjBt) | 3:10 |
 | 61 | [白無垢](https://open.spotify.com/track/2QzJWdpJOGKwAIyA4anrbo) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [白無垢](https://open.spotify.com/album/0QyNQAjr0iOZOp4n5EeyiB) | 3:26 |
 | 62 | [シンデレラ](https://open.spotify.com/track/4u9vXoi6e2SRaCQNicDg3B) | [Offo tokyo](https://open.spotify.com/artist/24dGzgKTwpUdb4cGdnFj7y) | [シンデレラ](https://open.spotify.com/album/08V4DnfoV2GJEhipLhUyrD) | 3:15 |

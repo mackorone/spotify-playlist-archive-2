@@ -1,6 +1,6 @@
 {
   "description": "Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus. ",
-  "num_followers": 162786,
+  "num_followers": 162798,
   "original_name": "Chocolate Crente",
   "owner": {
     "name": "Spotify",
@@ -431,6 +431,22 @@
     {
       "added_at": "2025-03-07 03:01:18",
       "album": {
+        "name": "Rastros e Trilha",
+        "url": "https://open.spotify.com/album/6AQjmvg9tvK1584vkpNZeA"
+      },
+      "artists": [
+        {
+          "name": "Os Arrais",
+          "url": "https://open.spotify.com/artist/1Ja8qReIBoi7Z6ik0AQ6zS"
+        }
+      ],
+      "duration_ms": 302653,
+      "name": "Deserto",
+      "url": "https://open.spotify.com/track/61fJbKeTzsoKwSgYEFjmsY"
+    },
+    {
+      "added_at": "2025-03-07 03:01:18",
+      "album": {
         "name": "Olhar de Longe",
         "url": "https://open.spotify.com/album/703VJ4yLS4vu7Yv7d4hhIJ"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 212354,
       "name": "Olhar de Longe",
       "url": "https://open.spotify.com/track/38Ehecm8meAMYbcYjnaVbI"
-    },
-    {
-      "added_at": "2025-03-07 03:01:18",
-      "album": {
-        "name": "Rastros e Trilha",
-        "url": "https://open.spotify.com/album/6AQjmvg9tvK1584vkpNZeA"
-      },
-      "artists": [
-        {
-          "name": "Os Arrais",
-          "url": "https://open.spotify.com/artist/1Ja8qReIBoi7Z6ik0AQ6zS"
-        }
-      ],
-      "duration_ms": 302653,
-      "name": "Deserto",
-      "url": "https://open.spotify.com/track/61fJbKeTzsoKwSgYEFjmsY"
     },
     {
       "added_at": "2025-03-07 03:01:18",
@@ -651,22 +651,6 @@
     {
       "added_at": "2025-03-07 03:01:18",
       "album": {
-        "name": "Cuide",
-        "url": "https://open.spotify.com/album/78ArfVJaIJCEe5Vvh1sCNt"
-      },
-      "artists": [
-        {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
-        }
-      ],
-      "duration_ms": 185196,
-      "name": "Cuide",
-      "url": "https://open.spotify.com/track/0eiMgFRAe823eFAnqXLD35"
-    },
-    {
-      "added_at": "2025-03-07 03:01:18",
-      "album": {
         "name": "Tributo A Iehovah (Ao Vivo)",
         "url": "https://open.spotify.com/album/4d6pzEk3gFbP4tJJFKrS62"
       },
@@ -687,22 +671,18 @@
     {
       "added_at": "2025-03-07 03:01:18",
       "album": {
-        "name": "Claro e Certo",
-        "url": "https://open.spotify.com/album/47ggi22ENuvh5a7AXHbDbI"
+        "name": "Cuide",
+        "url": "https://open.spotify.com/album/78ArfVJaIJCEe5Vvh1sCNt"
       },
       "artists": [
         {
-          "name": "Rafa Blauth",
-          "url": "https://open.spotify.com/artist/2nnZzrOxN6dN3zOae5MeHU"
-        },
-        {
-          "name": "Estev\u00e3o Queiroga",
-          "url": "https://open.spotify.com/artist/1nQaNbf287f5x9oe2R3faK"
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
         }
       ],
-      "duration_ms": 241840,
-      "name": "Claro e Certo",
-      "url": "https://open.spotify.com/track/2C4bL85AHMERutNrejvo0B"
+      "duration_ms": 185196,
+      "name": "Cuide",
+      "url": "https://open.spotify.com/track/0eiMgFRAe823eFAnqXLD35"
     },
     {
       "added_at": "2025-03-07 03:01:18",
@@ -719,6 +699,26 @@
       "duration_ms": 242829,
       "name": "Simples Ora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/0H0lcJhH4r7XcBDm33ygaF"
+    },
+    {
+      "added_at": "2025-03-07 03:01:18",
+      "album": {
+        "name": "Claro e Certo",
+        "url": "https://open.spotify.com/album/47ggi22ENuvh5a7AXHbDbI"
+      },
+      "artists": [
+        {
+          "name": "Rafa Blauth",
+          "url": "https://open.spotify.com/artist/2nnZzrOxN6dN3zOae5MeHU"
+        },
+        {
+          "name": "Estev\u00e3o Queiroga",
+          "url": "https://open.spotify.com/artist/1nQaNbf287f5x9oe2R3faK"
+        }
+      ],
+      "duration_ms": 241840,
+      "name": "Claro e Certo",
+      "url": "https://open.spotify.com/track/2C4bL85AHMERutNrejvo0B"
     },
     {
       "added_at": "2025-03-07 03:01:18",

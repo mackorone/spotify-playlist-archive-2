@@ -1,6 +1,6 @@
 {
   "description": "Get into the mood with beautiful collections of Jazz Pop tunes. Cover: Laufey",
-  "num_followers": 196196,
+  "num_followers": 196262,
   "original_name": "Jazz Pop",
   "owner": {
     "name": "Spotify",
@@ -715,26 +715,6 @@
     {
       "added_at": "2026-03-14 19:25:00",
       "album": {
-        "name": "Feeling",
-        "url": "https://open.spotify.com/album/6utFX9YFFC48mhZrlUcK9i"
-      },
-      "artists": [
-        {
-          "name": "Adrian Setiawan",
-          "url": "https://open.spotify.com/artist/39XX7BNu95xOOxusr1BzFn"
-        },
-        {
-          "name": "Diona Dewiriana",
-          "url": "https://open.spotify.com/artist/5TCbrPG4VAeoypYoHsLsAf"
-        }
-      ],
-      "duration_ms": 232004,
-      "name": "Feeling",
-      "url": "https://open.spotify.com/track/0lKHpAK3ybZxuX7K5KuOnm"
-    },
-    {
-      "added_at": "2026-03-14 19:25:00",
-      "album": {
         "name": "Much Rain",
         "url": "https://open.spotify.com/album/6Rl3a9T2VTGwCita9jJTeo"
       },
@@ -751,6 +731,26 @@
       "duration_ms": 286678,
       "name": "Much Rain",
       "url": "https://open.spotify.com/track/3R7Cy7vHabyoHeWey6n6Dn"
+    },
+    {
+      "added_at": "2026-03-14 19:25:00",
+      "album": {
+        "name": "Feeling",
+        "url": "https://open.spotify.com/album/6utFX9YFFC48mhZrlUcK9i"
+      },
+      "artists": [
+        {
+          "name": "Adrian Setiawan",
+          "url": "https://open.spotify.com/artist/39XX7BNu95xOOxusr1BzFn"
+        },
+        {
+          "name": "Diona Dewiriana",
+          "url": "https://open.spotify.com/artist/5TCbrPG4VAeoypYoHsLsAf"
+        }
+      ],
+      "duration_ms": 232004,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/0lKHpAK3ybZxuX7K5KuOnm"
     },
     {
       "added_at": "2026-03-14 19:25:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-03-14 19:25:00",
       "album": {
-        "name": "Loneliness",
-        "url": "https://open.spotify.com/album/2vPNtFnHCKBRIsGPlZL9cd"
-      },
-      "artists": [
-        {
-          "name": "Lady Linn",
-          "url": "https://open.spotify.com/artist/7lG8Ngp13005VC7O8dD7QL"
-        }
-      ],
-      "duration_ms": 185653,
-      "name": "Loneliness",
-      "url": "https://open.spotify.com/track/32OA13wgTrofFyy79cYtyy"
-    },
-    {
-      "added_at": "2026-03-14 19:25:00",
-      "album": {
         "name": "Little Songs",
         "url": "https://open.spotify.com/album/6F9lolDvmsdb9j8eCk2bNC"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 211893,
       "name": "Okay Far Away",
       "url": "https://open.spotify.com/track/71pCUljdEvSTyXAshOr04o"
+    },
+    {
+      "added_at": "2026-03-14 19:25:00",
+      "album": {
+        "name": "Loneliness",
+        "url": "https://open.spotify.com/album/2vPNtFnHCKBRIsGPlZL9cd"
+      },
+      "artists": [
+        {
+          "name": "Lady Linn",
+          "url": "https://open.spotify.com/artist/7lG8Ngp13005VC7O8dD7QL"
+        }
+      ],
+      "duration_ms": 185653,
+      "name": "Loneliness",
+      "url": "https://open.spotify.com/track/32OA13wgTrofFyy79cYtyy"
     },
     {
       "added_at": "2026-03-14 19:25:00",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2026-03-14 19:25:00",
       "album": {
-        "name": "Catwoman",
-        "url": "https://open.spotify.com/album/1F3oZyWkL83S4CjBvVMhWj"
-      },
-      "artists": [
-        {
-          "name": "Stephanie Domet",
-          "url": "https://open.spotify.com/artist/03vbrO2FBrwjmzWk9ukzSZ"
-        }
-      ],
-      "duration_ms": 211343,
-      "name": "Catwoman",
-      "url": "https://open.spotify.com/track/1pu7UTT1w7DjazO2in03EE"
-    },
-    {
-      "added_at": "2026-03-14 19:25:00",
-      "album": {
         "name": "Reverie",
         "url": "https://open.spotify.com/album/1yiHIdrp16UXHGjwbbCmxJ"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 229687,
       "name": "If I'd Had Your Heart",
       "url": "https://open.spotify.com/track/2fVdaV8noj9GhCpXTxVm2c"
+    },
+    {
+      "added_at": "2026-03-14 19:25:00",
+      "album": {
+        "name": "Catwoman",
+        "url": "https://open.spotify.com/album/1F3oZyWkL83S4CjBvVMhWj"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Domet",
+          "url": "https://open.spotify.com/artist/03vbrO2FBrwjmzWk9ukzSZ"
+        }
+      ],
+      "duration_ms": 211343,
+      "name": "Catwoman",
+      "url": "https://open.spotify.com/track/1pu7UTT1w7DjazO2in03EE"
     },
     {
       "added_at": "2026-03-14 19:25:00",

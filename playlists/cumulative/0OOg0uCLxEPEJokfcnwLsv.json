@@ -1911,6 +1911,24 @@
     },
     {
       "album": {
+        "name": "PROM",
+        "url": "https://open.spotify.com/album/1fWnNXEHS7MeHzh5aoG2pg"
+      },
+      "artists": [
+        {
+          "name": "Royal Fools",
+          "url": "https://open.spotify.com/artist/4OQMfxWWXrkJJlIuUfkrC8"
+        }
+      ],
+      "date_added": "2026-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138152,
+      "name": "Don't Call",
+      "url": "https://open.spotify.com/track/6mezWgu1bwXF0AUsbJOIhe"
+    },
+    {
+      "album": {
         "name": "juniper",
         "url": "https://open.spotify.com/album/5e49oVu5bURuKYCej31uVw"
       },
@@ -2016,6 +2034,24 @@
       "duration_ms": 187974,
       "name": "Dove potremmo volare",
       "url": "https://open.spotify.com/track/6E5inIWTfbmyqz9JM2CpHo"
+    },
+    {
+      "album": {
+        "name": "Down and Out",
+        "url": "https://open.spotify.com/album/6Hg0NRmmjjjjaBKYqG3nGh"
+      },
+      "artists": [
+        {
+          "name": "White Star Line",
+          "url": "https://open.spotify.com/artist/3qDMmbHoQIpMvNuOzyazsh"
+        }
+      ],
+      "date_added": "2026-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222155,
+      "name": "Down and Out",
+      "url": "https://open.spotify.com/track/4FijKBMTSLv63uXNh3qM1e"
     },
     {
       "album": {
@@ -3024,6 +3060,24 @@
       "duration_ms": 172250,
       "name": "Hover",
       "url": "https://open.spotify.com/track/1VPbv7tBDx59RfOEPe1zgH"
+    },
+    {
+      "album": {
+        "name": "Hunt Me Down",
+        "url": "https://open.spotify.com/album/6FdekhGJLX3juBXFgSqyvh"
+      },
+      "artists": [
+        {
+          "name": "Forestt Light",
+          "url": "https://open.spotify.com/artist/1dQO7ovsxueUnTvuQril35"
+        }
+      ],
+      "date_added": "2026-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237618,
+      "name": "Hunt Me Down",
+      "url": "https://open.spotify.com/track/0b2RimjmoPFCqXvppAZeAq"
     },
     {
       "album": {

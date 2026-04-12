@@ -3574,7 +3574,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 177800,
       "name": "Vai Partir",
       "url": "https://open.spotify.com/track/0TU4A9f61vxswsSgxAwnIw"
@@ -3748,6 +3748,32 @@
       "duration_ms": 162461,
       "name": "Yin Yang",
       "url": "https://open.spotify.com/track/4dfYeOXuSPR6ZG9oxtj1yR"
+    },
+    {
+      "album": {
+        "name": "Yin Yang (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/1RPpaDqdfqaLwkRXgzY25E"
+      },
+      "artists": [
+        {
+          "name": "Moreiranavoz",
+          "url": "https://open.spotify.com/artist/2ti4Q3nLT9uQmGdiJIYKDX"
+        },
+        {
+          "name": "Delta7",
+          "url": "https://open.spotify.com/artist/4kZTC2MdZt3AgKWBvS17C3"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "date_added": "2026-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162727,
+      "name": "Yin Yang - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5uSdmzCHnsRvyWi3DE55W9"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0reIgs"

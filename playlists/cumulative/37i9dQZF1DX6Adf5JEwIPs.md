@@ -4,7 +4,7 @@
 
 > Lo más nuevo de la Música Mexicana\. Cover: Lenin Ramírez 📸
 
-10,229 songs - 22 day 2 hr 27 min
+10,230 songs - 22 day 2 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1026,6 +1026,7 @@
 | [Bipolar](https://open.spotify.com/track/1b6nrjKTkDk88iAXiHAGYH) | [Superiores de Nuevo Leon](https://open.spotify.com/artist/2SET3aaOFm3cLiDGw3xyPv) | [Bipolar](https://open.spotify.com/album/0xymspg4DsJYY0WQE7XnVv) | 3:14 | 2026-03-06 | 2026-03-14 |
 | [bk](https://open.spotify.com/track/4kXd3byDcibgGVJ19gYCSE) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [La Traición y El Contrabando \(Deluxe\)](https://open.spotify.com/album/2BTtbzVyc4s0r3bIWuJB4W) | 3:25 | 2025-12-12 | 2025-12-20 |
 | [Bla Bla Bla \- En Vivo](https://open.spotify.com/track/6V8T3AHQPphSxCE8CtrH8a) | [Uziel Payan](https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ), [Los Chavalos De La Perla](https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO) | [Bla Bla Bla \(En Vivo\)](https://open.spotify.com/album/3AkuquPdeQkiiz3eDADGuP) | 2:30 | 2022-08-05 | 2022-08-13 |
+| [Black Hat GZR](https://open.spotify.com/track/1WCPT1bF1rHd0pA9gYaRVq) | [Angel Trino](https://open.spotify.com/artist/6G9e3oARcq4ThyH91ye38W) | [Black Hat GZR](https://open.spotify.com/album/5lWSklJO6DlwinZfLjdEyR) | 2:48 | 2026-04-11 |  |
 | [Blackjack](https://open.spotify.com/track/21u72Pe9uaOlLOhk6LGkcf) | [Plan de Escape](https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R) | [Blackjack](https://open.spotify.com/album/4meU6vwQy6izFIInCZTPOm) | 2:53 | 2025-01-17 | 2025-01-25 |
 | [Bladi V1](https://open.spotify.com/track/6MxpSZqq01tpygiFogA2Ck) | [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [Bladi V1](https://open.spotify.com/album/14vSmCkn1WXCNQpcgXq1bO) | 2:42 | 2025-08-22 | 2025-08-30 |
 | [Blanca Navidad](https://open.spotify.com/track/4OMWnF2F4GBhdxovCuaOZu) | [Destino](https://open.spotify.com/artist/1OxOSIlaBxSoWcT7UzxFwZ) | [Blanca Navidad](https://open.spotify.com/album/7rqCe7icr9tWXDPNCWzXED) | 2:46 | 2025-12-12 | 2025-12-20 |

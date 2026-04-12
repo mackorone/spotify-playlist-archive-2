@@ -1095,6 +1095,24 @@
     },
     {
       "album": {
+        "name": "El Ensan",
+        "url": "https://open.spotify.com/album/4eTWdnzZSFQMHGvTHwE5yw"
+      },
+      "artists": [
+        {
+          "name": "Naeim AlSheikh",
+          "url": "https://open.spotify.com/artist/027a3M0QTLt6odi8qyqXAq"
+        }
+      ],
+      "date_added": "2026-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192115,
+      "name": "El Ensan",
+      "url": "https://open.spotify.com/track/2YFsPzMVVNNS0hk3gGlcZs"
+    },
+    {
+      "album": {
         "name": "El Hob El Hob",
         "url": "https://open.spotify.com/album/1z65J61oSJOskywPbemr1y"
       },
@@ -2056,7 +2074,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 237452,
       "name": "Ma Fi Leil",
       "url": "https://open.spotify.com/track/7eBCrBVZGlfgbutr8CbqiG"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 51,650 likes - 95 songs - 4 hr 47 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 51,671 likes - 95 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 2 | [Out Of Your League](https://open.spotify.com/track/5RkjFexmQuY3rPZIUYC2mb) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Out Of Your League](https://open.spotify.com/album/4ZrvHRUCiUpB6l30WlNe7g) | 2:39 |
 | 3 | [Jealous](https://open.spotify.com/track/3E7RtOd84uMelgpy28ivBc) | [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [Jealous](https://open.spotify.com/album/4vJN7ZMDbFwevSkADayCVU) | 2:46 |
 | 4 | [One At A Time](https://open.spotify.com/track/7BPkW9qPBbCXdD5ON5TLo0) | [Poté](https://open.spotify.com/artist/4mHvZlo1KyW4kW3F1FE1q5) | [One At A Time](https://open.spotify.com/album/4tdwEMuRoeI9QzF5wkuMkk) | 4:29 |
-| 5 | [CC](https://open.spotify.com/track/3oRfAVFj4sazro06ePnXNe) | [TÖME](https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX), [Alpha P](https://open.spotify.com/artist/5Q64QD30Oty9M2veg8l3un) | [CC](https://open.spotify.com/album/0d05eIekJoVsraIkT9VqCM) | 2:16 |
+| 5 | [CC](https://open.spotify.com/track/3oRfAVFj4sazro06ePnXNe) | [TÖME](https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX), [Alpha P](https://open.spotify.com/artist/3dUPwMGYAsymFv80wkqEKl) | [CC](https://open.spotify.com/album/0d05eIekJoVsraIkT9VqCM) | 2:16 |
 | 6 | [Life I Chose](https://open.spotify.com/track/2VL873YktGaHovvP1xCuc0) | [Offica](https://open.spotify.com/artist/3z9G13I73VCCZgf2j7i8q2) | [Life I Chose](https://open.spotify.com/album/530cEtWkb3pn6NTwMiD6Nu) | 3:33 |
 | 7 | [Lover](https://open.spotify.com/track/5nmW1Oq7FisQ5eAEeM9QZZ) | [Juke Ross](https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY) | [Lover](https://open.spotify.com/album/1M46PQFhnP8N6FEoxfCGlF) | 3:26 |
 | 8 | [Statue Down](https://open.spotify.com/track/5jgSYrcxB3vTg44Kt0RV3o) | [Alex Cameron](https://open.spotify.com/artist/6kGMx9MqwnbKR2EYvZvvrG) | [Statue Down](https://open.spotify.com/album/2SmJXv6gplgHNc21SkshWU) | 3:52 |

@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Bassline",
+        "url": "https://open.spotify.com/album/0OutIfPgB0uJbyXMaJqmOl"
+      },
+      "artists": [
+        {
+          "name": "Ayumu Imazu",
+          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
+        }
+      ],
+      "date_added": "2026-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172076,
+      "name": "Bassline",
+      "url": "https://open.spotify.com/track/2Nw5FJmcZfM7kQVU2GsYOR"
+    },
+    {
+      "album": {
         "name": "bLeSs uR hEaRt",
         "url": "https://open.spotify.com/album/7GDQZo95yvUhGpYCeEWYuU"
       },

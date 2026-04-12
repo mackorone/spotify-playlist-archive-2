@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 
 > Nostalgic <a href="spotify:genre:edm\_dance">dance</a> festival favorites from the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,132 likes - 125 songs - 8 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,174 likes - 125 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,8 +115,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 | 105 | [Calling \(Lose My Mind\) \- Radio Edit](https://open.spotify.com/track/5Sey3HgGa6KB46mlOyCClZ) | [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Ryan Tedder](https://open.spotify.com/artist/4we5S2VLjgY9KzIzApL1KI) | [Calling \(Lose My Mind\)](https://open.spotify.com/album/68ORvGqWXloU4WOUOdW8bm) | 3:25 |
 | 106 | [More Than You Know](https://open.spotify.com/track/4q8PHoRsPUB52LFylX8Ulz) | [Axwell /\\ Ingrosso](https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz) | [More Than You Know](https://open.spotify.com/album/5wtHzowB37Fre3iXWQW5v5) | 3:23 |
 | 107 | [Cola](https://open.spotify.com/track/7ir1tVqAtNjctvteJPw5MF) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Cola](https://open.spotify.com/album/06M4lDqeBSMxVTFsNE8Sxi) | 3:43 |
-| 108 | [Cinema \- Skrillex Remix](https://open.spotify.com/track/02FuO3zDHGFAz0yP7HHGvy) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Gary Go](https://open.spotify.com/artist/6beTArFVpUujvkHi9FVPqs), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Electroman](https://open.spotify.com/album/5miSqsykQPBenTYVCx3uN5) | 5:07 |
-| 109 | [Ghosts 'n' Stuff \(feat\. Rob Swire\)](https://open.spotify.com/track/3ezkJgagRPZ39KCTrKcSI7) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Rob Swire](https://open.spotify.com/artist/2SNg8nqwOHF1eZgRnL9zes) | [For Lack of a Better Name \(The Extended Mixes\)](https://open.spotify.com/album/3eNZDL2rqTVvmiC1f0yFwF) | 5:28 |
+| 108 | [Ghosts 'n' Stuff \(feat\. Rob Swire\)](https://open.spotify.com/track/3ezkJgagRPZ39KCTrKcSI7) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Rob Swire](https://open.spotify.com/artist/2SNg8nqwOHF1eZgRnL9zes) | [For Lack of a Better Name \(The Extended Mixes\)](https://open.spotify.com/album/3eNZDL2rqTVvmiC1f0yFwF) | 5:28 |
+| 109 | [Cinema \- Skrillex Remix](https://open.spotify.com/track/02FuO3zDHGFAz0yP7HHGvy) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Gary Go](https://open.spotify.com/artist/6beTArFVpUujvkHi9FVPqs), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Electroman](https://open.spotify.com/album/5miSqsykQPBenTYVCx3uN5) | 5:07 |
 | 110 | [Mammoth](https://open.spotify.com/track/76fqWMe0buqQoaNTIbLWmr) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ) | [Mammoth](https://open.spotify.com/album/4H0bjkai5WPp6Y5oLpk2iv) | 5:32 |
 | 111 | [Walking with Elephants](https://open.spotify.com/track/6wPMapHawG4uns1R3vHzUG) | [Ten Walls](https://open.spotify.com/artist/4veIvBHKoUacjuoMOm3vsg) | [Walking With Elephants](https://open.spotify.com/album/7etzwfYztvvEQqqx9ryWxj) | 5:25 |
 | 112 | [Boneless](https://open.spotify.com/track/4qPnE8jBZN3wmgGxspsOcP) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh) | [Boneless \(Remixes\)](https://open.spotify.com/album/2aXItG3t99T9Siy4kXae5P) | 4:30 |

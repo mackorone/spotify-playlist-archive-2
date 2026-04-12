@@ -4,7 +4,7 @@
 
 > mate\- Bus stop!
 
-776 songs - 1 day 16 hr 4 min
+777 songs - 1 day 16 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,6 +278,7 @@
 | [Girl Next Door](https://open.spotify.com/track/000N4CJL8IjQ0f2I4grgBO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Girl Next Door](https://open.spotify.com/album/1FLS0YAOPY3Mcb0o5n5fl4) | 3:00 | 2023-05-11 | 2023-09-28 |
 | [Girlfriend](https://open.spotify.com/track/4MzOppXoeKvDsVaNMeOK3C) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [The Second Wave Deluxe](https://open.spotify.com/album/6dvqARQzWnVbGym9dEWw4Y) | 3:16 | 2022-06-16 | 2023-02-24 |
 | [Give Me Love](https://open.spotify.com/track/63GLHZWNbGyg0e4n07aIqA) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [TOP BOY](https://open.spotify.com/album/7GmKqpAQbUw7Nr8SboaAPq) | 3:46 | 2023-02-16 | 2023-05-18 |
+| [Go n Look](https://open.spotify.com/track/6uUh6ap9kH5Zuag6mFFW4w) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [Go n Look](https://open.spotify.com/album/0H4zop3iXGovw6xqjTLnjh) | 2:15 | 2026-04-10 |  |
 | [God Abeg \(feat\. Kwesi Arthur, Joey B & Kay T\)](https://open.spotify.com/track/5WZXhQL346sTAQ4WKPUJpJ) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Kay T](https://open.spotify.com/artist/65KHsymx2SxbuY1uaFZ2Rr) | [God Abeg \(feat\. Kwesi Arthur, Joey B & Kay T\)](https://open.spotify.com/album/30tV92VWx0ImjvBDCNiJJf) | 6:40 | 2023-04-27 | 2023-05-12 |
 | [Good Girl \(Evandy Girl\)](https://open.spotify.com/track/0S7PJaI9wUdua6uafHV9Xh) | [DJ Vyrusky](https://open.spotify.com/artist/20uZPZ6EXItffkdLevoEdV), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Shaker](https://open.spotify.com/artist/5I1G1MSxXh3zrZsVZCPzZj) | [Good Girl \(Evandy Girl\)](https://open.spotify.com/album/0qP1Ep1na1g15udNUiIXOo) | 2:09 | 2025-03-14 | 2025-08-01 |
 | [GoodSin](https://open.spotify.com/track/4lkI6BidQ1dC19KaCb0SUn) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Avana](https://open.spotify.com/album/1ZinBC6aI5Ck8CEa64GShC) | 2:20 | 2023-09-21 | 2024-03-04 |
@@ -423,7 +424,7 @@
 | [Mapuka](https://open.spotify.com/track/2OwWSctJ0S8Nd44gBzmQQC) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [Dikoo](https://open.spotify.com/artist/7tp80zkGuZP0Bqfb41iPkw), [KWESI AMEWUGA](https://open.spotify.com/artist/2CdvQgo8DCIOyScP9GDkDA) | [Mapuka](https://open.spotify.com/album/0FF6Wtr4hqAWcUKyWto24h) | 3:18 | 2023-09-14 | 2023-10-13 |
 | [March Past](https://open.spotify.com/track/4QSiCeZdgmjfX2dLIJeffE) | [Safo Newman](https://open.spotify.com/artist/1XygOZOkRxWKr0vEKgZxFl) | [March Past](https://open.spotify.com/album/3oZRIUW6kEvsBtPVKBv6b8) | 3:05 | 2024-03-08 | 2024-03-15 |
 | [Mariana](https://open.spotify.com/track/0eN2iadqY8XAVqlx20EM6R) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Mariana](https://open.spotify.com/album/6IDE7vBvoNuLeQaEGHYIWX) | 2:28 | 2026-03-20 |  |
-| [Masallaci](https://open.spotify.com/track/33VYsUAdBLXYfwDm657qpJ) | [Pappy Kojo](https://open.spotify.com/artist/05wqlCGQReohsxStVBR052) | [Masallaci](https://open.spotify.com/album/0fZTCzdV6sxq4l2Ez6Bt6M) | 2:05 | 2026-03-13 |  |
+| [Masallaci](https://open.spotify.com/track/33VYsUAdBLXYfwDm657qpJ) | [Pappy Kojo](https://open.spotify.com/artist/05wqlCGQReohsxStVBR052) | [Masallaci](https://open.spotify.com/album/0fZTCzdV6sxq4l2Ez6Bt6M) | 2:05 | 2026-03-13 | 2026-04-12 |
 | [Masesa](https://open.spotify.com/track/0h6KxX4VJVRUL2lQhCmMFE) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Masesa](https://open.spotify.com/album/3F2RjwQ9FAkP8gs6eGos0S) | 2:52 | 2023-10-17 | 2023-12-10 |
 | [Me & U](https://open.spotify.com/track/47EElDzmkP731PXNzeXt0G) | [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW) | [Me & U](https://open.spotify.com/album/2qjiZYwMeOeejMdtupyMXf) | 3:04 | 2023-10-06 | 2023-12-02 |
 | [Me & U](https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Me & U](https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa) | 3:12 | 2023-10-06 | 2024-09-28 |

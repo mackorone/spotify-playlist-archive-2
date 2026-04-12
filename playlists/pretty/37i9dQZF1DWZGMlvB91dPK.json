@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez la programmation du BISE Festival 2026.",
-  "num_followers": 3900,
+  "num_followers": 3903,
   "original_name": "BISE Festival 2026",
   "owner": {
     "name": "Spotify",
@@ -363,18 +363,18 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "Flou",
-        "url": "https://open.spotify.com/album/7JavIhWOxHvoD6C1DDJ1Ro"
+        "name": "To Get Fucked Up",
+        "url": "https://open.spotify.com/album/05mc5DP88eRyhoH9qCArzQ"
       },
       "artists": [
         {
-          "name": "Elena Copsi",
-          "url": "https://open.spotify.com/artist/5YafOG1cCGaf4dpzCNVPXm"
+          "name": "Jasmine Not Jafar",
+          "url": "https://open.spotify.com/artist/1P8cIgzmOiorjmyVG6a8Eg"
         }
       ],
-      "duration_ms": 141998,
-      "name": "Flou",
-      "url": "https://open.spotify.com/track/30tWzwvW86eJJ6qZvApsFF"
+      "duration_ms": 249601,
+      "name": "To Get Fucked Up",
+      "url": "https://open.spotify.com/track/7Mw0GVjk2NyXXk0cmR4M96"
     },
     {
       "added_at": "2025-11-20 17:00:08",
@@ -395,18 +395,18 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "To Get Fucked Up",
-        "url": "https://open.spotify.com/album/05mc5DP88eRyhoH9qCArzQ"
+        "name": "Flou",
+        "url": "https://open.spotify.com/album/7JavIhWOxHvoD6C1DDJ1Ro"
       },
       "artists": [
         {
-          "name": "Jasmine Not Jafar",
-          "url": "https://open.spotify.com/artist/1P8cIgzmOiorjmyVG6a8Eg"
+          "name": "Elena Copsi",
+          "url": "https://open.spotify.com/artist/5YafOG1cCGaf4dpzCNVPXm"
         }
       ],
-      "duration_ms": 249601,
-      "name": "To Get Fucked Up",
-      "url": "https://open.spotify.com/track/7Mw0GVjk2NyXXk0cmR4M96"
+      "duration_ms": 141998,
+      "name": "Flou",
+      "url": "https://open.spotify.com/track/30tWzwvW86eJJ6qZvApsFF"
     },
     {
       "added_at": "2025-11-20 17:00:08",
@@ -539,38 +539,6 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "Oxyballad",
-        "url": "https://open.spotify.com/album/2gBVbWyEoofNBmuEHrkULI"
-      },
-      "artists": [
-        {
-          "name": "Goodbye Karelle",
-          "url": "https://open.spotify.com/artist/68VYqXg7Ruk6VWnUHBDoJM"
-        }
-      ],
-      "duration_ms": 178698,
-      "name": "Oxyballad",
-      "url": "https://open.spotify.com/track/40lhbdDvg4gUMJHnv8ofJ8"
-    },
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
-        "name": "Luxury",
-        "url": "https://open.spotify.com/album/5XTypqWsPdyGyE5DxYqkBv"
-      },
-      "artists": [
-        {
-          "name": "Blue Katrice",
-          "url": "https://open.spotify.com/artist/4kMdQKGCjwNnQj6HKBP3xx"
-        }
-      ],
-      "duration_ms": 212618,
-      "name": "Luxury",
-      "url": "https://open.spotify.com/track/3MvNyNs6VkjzRE5Op135Vf"
-    },
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
         "name": "Lisusu te",
         "url": "https://open.spotify.com/album/3hCP4PF84sKAQFC5RQk4fZ"
       },
@@ -603,18 +571,34 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "SAM",
-        "url": "https://open.spotify.com/album/3cEzNP6c8TRTjYNJ5Al3NZ"
+        "name": "Oxyballad",
+        "url": "https://open.spotify.com/album/2gBVbWyEoofNBmuEHrkULI"
       },
       "artists": [
         {
-          "name": "ARTICLE15",
-          "url": "https://open.spotify.com/artist/1alQDQ8WNBT4NQHFrjnvqx"
+          "name": "Goodbye Karelle",
+          "url": "https://open.spotify.com/artist/68VYqXg7Ruk6VWnUHBDoJM"
         }
       ],
-      "duration_ms": 290002,
-      "name": "SAM",
-      "url": "https://open.spotify.com/track/1F95Q6fI5kK6nhu35Cup9J"
+      "duration_ms": 178698,
+      "name": "Oxyballad",
+      "url": "https://open.spotify.com/track/40lhbdDvg4gUMJHnv8ofJ8"
+    },
+    {
+      "added_at": "2025-11-20 17:00:08",
+      "album": {
+        "name": "Luxury",
+        "url": "https://open.spotify.com/album/5XTypqWsPdyGyE5DxYqkBv"
+      },
+      "artists": [
+        {
+          "name": "Blue Katrice",
+          "url": "https://open.spotify.com/artist/4kMdQKGCjwNnQj6HKBP3xx"
+        }
+      ],
+      "duration_ms": 212618,
+      "name": "Luxury",
+      "url": "https://open.spotify.com/track/3MvNyNs6VkjzRE5Op135Vf"
     },
     {
       "added_at": "2025-11-20 17:00:08",
@@ -635,22 +619,6 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "Roots (Extended)",
-        "url": "https://open.spotify.com/album/5gapoLe8lA9FaW9Gc1fvTY"
-      },
-      "artists": [
-        {
-          "name": "Woody",
-          "url": "https://open.spotify.com/artist/3oIExcjKPYb3gFv45jQmgK"
-        }
-      ],
-      "duration_ms": 176899,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/1e4C8204vxAYmszdhAG0KR"
-    },
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
         "name": "Sotula",
         "url": "https://open.spotify.com/album/1HDYBhqJkaMwLwCFyxPhYm"
       },
@@ -667,6 +635,22 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
+        "name": "SAM",
+        "url": "https://open.spotify.com/album/3cEzNP6c8TRTjYNJ5Al3NZ"
+      },
+      "artists": [
+        {
+          "name": "ARTICLE15",
+          "url": "https://open.spotify.com/artist/1alQDQ8WNBT4NQHFrjnvqx"
+        }
+      ],
+      "duration_ms": 290002,
+      "name": "SAM",
+      "url": "https://open.spotify.com/track/1F95Q6fI5kK6nhu35Cup9J"
+    },
+    {
+      "added_at": "2025-11-20 17:00:08",
+      "album": {
         "name": "INSURGENCIA",
         "url": "https://open.spotify.com/album/5i3UaYjZefcMK7mLyMOtXX"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 132600,
       "name": "INSURGENCIA",
       "url": "https://open.spotify.com/track/2LEQxGKWXcr9reo0RMCppt"
+    },
+    {
+      "added_at": "2025-11-20 17:00:08",
+      "album": {
+        "name": "Roots (Extended)",
+        "url": "https://open.spotify.com/album/5gapoLe8lA9FaW9Gc1fvTY"
+      },
+      "artists": [
+        {
+          "name": "Woody",
+          "url": "https://open.spotify.com/artist/3oIExcjKPYb3gFv45jQmgK"
+        }
+      ],
+      "duration_ms": 176899,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/1e4C8204vxAYmszdhAG0KR"
     },
     {
       "added_at": "2025-11-20 17:00:08",

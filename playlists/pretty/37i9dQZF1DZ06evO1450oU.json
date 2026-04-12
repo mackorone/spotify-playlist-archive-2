@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adbsAAAAAAB7yyI/lsKz6M3PXTtsWqP5",
+  "snapshot_id": "adg9gAAAAAB8/XVrzPUDYvt6XjMBr1F/",
   "tracks": [
     {
       "added_at": null,
@@ -36,9 +36,9 @@
           "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
         }
       ],
-      "duration_ms": 239872,
-      "name": "On Your Road",
-      "url": "https://open.spotify.com/track/04GJSqGoFAuzOhOahSrUDA"
+      "duration_ms": 218137,
+      "name": "Lock the Doors",
+      "url": "https://open.spotify.com/track/3bA0HYpBmhLH1qpQTIEPEL"
     },
     {
       "added_at": null,
@@ -59,8 +59,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Occult Box (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1gBL6rEeGLUM1anvgGuisF"
+        "name": "What You Would Hear",
+        "url": "https://open.spotify.com/album/3BOEbFnyzuUNQvKITmKGrR"
       },
       "artists": [
         {
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
         }
       ],
-      "duration_ms": 320320,
-      "name": "Destroy",
-      "url": "https://open.spotify.com/track/5GMsUTlHVuuKF08zW6zQ5g"
+      "duration_ms": 235768,
+      "name": "What You Would Hear",
+      "url": "https://open.spotify.com/track/4gL7RlSNgtRcl567oOVkYY"
     },
     {
       "added_at": null,
@@ -100,15 +100,15 @@
           "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
         }
       ],
-      "duration_ms": 218137,
-      "name": "Lock the Doors",
-      "url": "https://open.spotify.com/track/3bA0HYpBmhLH1qpQTIEPEL"
+      "duration_ms": 239872,
+      "name": "On Your Road",
+      "url": "https://open.spotify.com/track/04GJSqGoFAuzOhOahSrUDA"
     },
     {
       "added_at": null,
       "album": {
-        "name": "What You Would Hear",
-        "url": "https://open.spotify.com/album/3BOEbFnyzuUNQvKITmKGrR"
+        "name": "Occult Box (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1gBL6rEeGLUM1anvgGuisF"
       },
       "artists": [
         {
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
         }
       ],
-      "duration_ms": 235768,
-      "name": "What You Would Hear",
-      "url": "https://open.spotify.com/track/4gL7RlSNgtRcl567oOVkYY"
+      "duration_ms": 320320,
+      "name": "Destroy",
+      "url": "https://open.spotify.com/track/5GMsUTlHVuuKF08zW6zQ5g"
     },
     {
       "added_at": null,
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
         }
       ],
-      "duration_ms": 205826,
-      "name": "Weathervane",
-      "url": "https://open.spotify.com/track/3vf4tcRsnsQWT0T3EqXGrD"
+      "duration_ms": 264133,
+      "name": "Phase",
+      "url": "https://open.spotify.com/track/5usiEfBDU1yU6qvuXlg81z"
     },
     {
       "added_at": null,
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
         }
       ],
-      "duration_ms": 264133,
-      "name": "Phase",
-      "url": "https://open.spotify.com/track/5usiEfBDU1yU6qvuXlg81z"
+      "duration_ms": 205826,
+      "name": "Weathervane",
+      "url": "https://open.spotify.com/track/3vf4tcRsnsQWT0T3EqXGrD"
     },
     {
       "added_at": null,

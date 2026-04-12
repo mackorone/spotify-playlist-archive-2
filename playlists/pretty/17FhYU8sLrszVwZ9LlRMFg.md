@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/17FhYU8sLrszVwZ9LlRMFg.md) - [plain]
 
 > 
 
-[Adrian](https://open.spotify.com/user/31626gky5snq4aklpfcfmh6arhoa) - 1 like - 36 songs - 1 hr 57 min
+[Adrian](https://open.spotify.com/user/31626gky5snq4aklpfcfmh6arhoa) - 1 like - 37 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,5 +44,6 @@ pretty - [cumulative](/playlists/cumulative/17FhYU8sLrszVwZ9LlRMFg.md) - [plain]
 | 34 | [secrets](https://open.spotify.com/track/2ABwmC6R0EqTwGjdOduoD7) | [julez](https://open.spotify.com/artist/72DZClrG6inu1xATuKl6lH) | [secrets](https://open.spotify.com/album/28qAR0pihpYG5aOocXNH5r) | 1:37 |
 | 35 | [Her](https://open.spotify.com/track/2vlkTkPqdATznKHu9gD2c1) | [The American Dawn](https://open.spotify.com/artist/3EXC0gkpntFvtLS1R0yf11) | [Her](https://open.spotify.com/album/3YsLlWQ9dzG0dFQQZO1jEv) | 3:34 |
 | 36 | [Beanie](https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Beanie](https://open.spotify.com/album/3sgTZuoyovg4bR5iTgQoo3) | 2:12 |
+| 37 | [Jealous](https://open.spotify.com/track/0bhudMmr0XdtBOjFbjq8R0) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Let's Skip to the Wedding](https://open.spotify.com/album/5GpRahH84HsI3SSQrpTj50) | 2:02 |
 
-Snapshot ID: `AAAAPyegyrr6MjCa4tOD67ICwqlIoJlV`
+Snapshot ID: `AAAAQOEnRZtrRHbiNfmHFBH9fF2ub2Ld`

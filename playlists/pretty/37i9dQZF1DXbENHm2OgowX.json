@@ -1,6 +1,6 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 331868,
+  "num_followers": 332068,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
@@ -243,26 +243,6 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
-        "name": "Forever Held",
-        "url": "https://open.spotify.com/album/4kltw3bgytAYd9DiwbeI58"
-      },
-      "artists": [
-        {
-          "name": "Jon Hopkins",
-          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
-        },
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        }
-      ],
-      "duration_ms": 158651,
-      "name": "Forever Held",
-      "url": "https://open.spotify.com/track/1xp8KLwH1VbCcWSE1RtrBf"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
         "name": "believe",
         "url": "https://open.spotify.com/album/3d9zz7wizBTlH8mT6SmOhj"
       },
@@ -283,6 +263,26 @@
       "duration_ms": 161259,
       "name": "believe",
       "url": "https://open.spotify.com/track/3sC9JwhFLEIWkYedvhPLTG"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
+        "name": "Forever Held",
+        "url": "https://open.spotify.com/album/4kltw3bgytAYd9DiwbeI58"
+      },
+      "artists": [
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        },
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "duration_ms": 158651,
+      "name": "Forever Held",
+      "url": "https://open.spotify.com/track/1xp8KLwH1VbCcWSE1RtrBf"
     },
     {
       "added_at": "2026-03-20 04:00:38",
@@ -343,22 +343,6 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
-        "name": "RITUAL (nothing is lost)",
-        "url": "https://open.spotify.com/album/011DfCTPYJDAcHt8Tahjei"
-      },
-      "artists": [
-        {
-          "name": "Jon Hopkins",
-          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
-        }
-      ],
-      "duration_ms": 195044,
-      "name": "RITUAL (nothing is lost)",
-      "url": "https://open.spotify.com/track/7xrsufKq2fEmuUL70bi1WN"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
         "name": "her story",
         "url": "https://open.spotify.com/album/0GtSeHGELDodCkG38O9x8m"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 117333,
       "name": "her story",
       "url": "https://open.spotify.com/track/0yWZZiE75vuh2kIE3gzqcO"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
+        "name": "RITUAL (nothing is lost)",
+        "url": "https://open.spotify.com/album/011DfCTPYJDAcHt8Tahjei"
+      },
+      "artists": [
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        }
+      ],
+      "duration_ms": 195044,
+      "name": "RITUAL (nothing is lost)",
+      "url": "https://open.spotify.com/track/7xrsufKq2fEmuUL70bi1WN"
     },
     {
       "added_at": "2026-03-20 04:00:38",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
-        "name": "Mat\u00e8l (original motion picture soundtrack)",
-        "url": "https://open.spotify.com/album/6Uu2aSnnskKHLs0mriQfcT"
-      },
-      "artists": [
-        {
-          "name": "Ginevra Nervi",
-          "url": "https://open.spotify.com/artist/1D0bKzmxdExazYDP4ahsBj"
-        }
-      ],
-      "duration_ms": 204043,
-      "name": "Mat\u00e8l",
-      "url": "https://open.spotify.com/track/6d81er1G1FqItrbdX2Ta5E"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
         "name": "the hardest part",
         "url": "https://open.spotify.com/album/5FejFrtgFBHiHsH3bULuAz"
       },
@@ -775,6 +759,22 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
+        "name": "Mat\u00e8l (original motion picture soundtrack)",
+        "url": "https://open.spotify.com/album/6Uu2aSnnskKHLs0mriQfcT"
+      },
+      "artists": [
+        {
+          "name": "Ginevra Nervi",
+          "url": "https://open.spotify.com/artist/1D0bKzmxdExazYDP4ahsBj"
+        }
+      ],
+      "duration_ms": 204043,
+      "name": "Mat\u00e8l",
+      "url": "https://open.spotify.com/track/6d81er1G1FqItrbdX2Ta5E"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
         "name": "fly high",
         "url": "https://open.spotify.com/album/7g2YMNuWZaOxXLffXGa2v3"
       },
@@ -787,6 +787,22 @@
       "duration_ms": 107056,
       "name": "fly high",
       "url": "https://open.spotify.com/track/2MZ5LDS1QzKIEWhkUPiyvp"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
+        "name": "Shall We Begin",
+        "url": "https://open.spotify.com/album/6fAc71Y6Z2tPdEmYeVE9Jg"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Shall We Begin",
+      "url": "https://open.spotify.com/track/7cOyWm2g0GNZMbsFIiR2J6"
     },
     {
       "added_at": "2026-03-20 04:00:38",
@@ -819,22 +835,6 @@
       "duration_ms": 112826,
       "name": "4AM ambient version",
       "url": "https://open.spotify.com/track/3oatMSu9wjDbbPEFGRIdk0"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
-        "name": "Shall We Begin",
-        "url": "https://open.spotify.com/album/6fAc71Y6Z2tPdEmYeVE9Jg"
-      },
-      "artists": [
-        {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Shall We Begin",
-      "url": "https://open.spotify.com/track/7cOyWm2g0GNZMbsFIiR2J6"
     },
     {
       "added_at": "2026-03-20 04:00:38",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
-        "name": "And They Will Fall",
-        "url": "https://open.spotify.com/album/3JJqbD5SjeRnDJCMEgkAZk"
-      },
-      "artists": [
-        {
-          "name": "Nik Sudan",
-          "url": "https://open.spotify.com/artist/4zQ53leKAM0j0hyRuSP5lD"
-        }
-      ],
-      "duration_ms": 241333,
-      "name": "And They Will Fall",
-      "url": "https://open.spotify.com/track/7v5EO7IGRc4PnK3coVrdjG"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
         "name": "Nebel",
         "url": "https://open.spotify.com/album/4gyklZEAM1QW9lOiIPAZCO"
       },
@@ -1255,6 +1239,22 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
+        "name": "And They Will Fall",
+        "url": "https://open.spotify.com/album/3JJqbD5SjeRnDJCMEgkAZk"
+      },
+      "artists": [
+        {
+          "name": "Nik Sudan",
+          "url": "https://open.spotify.com/artist/4zQ53leKAM0j0hyRuSP5lD"
+        }
+      ],
+      "duration_ms": 241333,
+      "name": "And They Will Fall",
+      "url": "https://open.spotify.com/track/7v5EO7IGRc4PnK3coVrdjG"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
         "name": "Murken Hollow",
         "url": "https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q"
       },
@@ -1267,54 +1267,6 @@
       "duration_ms": 417142,
       "name": "Polaroid",
       "url": "https://open.spotify.com/track/0ViKD5cWI2NaPeTMhKp9EO"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
-        "name": "The Beautiful World",
-        "url": "https://open.spotify.com/album/2mYF47xMK4YdDipgj88DSD"
-      },
-      "artists": [
-        {
-          "name": "David Allred",
-          "url": "https://open.spotify.com/artist/05XWJrLfEbTiyv1oirnMSm"
-        }
-      ],
-      "duration_ms": 178858,
-      "name": "Stray",
-      "url": "https://open.spotify.com/track/2qJ1lpSOeAsbHr5WP86KtF"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
-        "name": "Love Is Colder Than Death",
-        "url": "https://open.spotify.com/album/04G4BWBdbZSPZJPE3anfLb"
-      },
-      "artists": [
-        {
-          "name": "Romance",
-          "url": "https://open.spotify.com/artist/0A18cE9pDz57f0cj7q8wxt"
-        }
-      ],
-      "duration_ms": 213832,
-      "name": "Out Of The Past",
-      "url": "https://open.spotify.com/track/6iTpwzfupCsZWM7V67Okog"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
-        "name": "Womb Trails",
-        "url": "https://open.spotify.com/album/2JNoncPfQy0XJGxzADRGBG"
-      },
-      "artists": [
-        {
-          "name": "Vile Karimi",
-          "url": "https://open.spotify.com/artist/0bnejaF6VYzssOaUveetsL"
-        }
-      ],
-      "duration_ms": 200059,
-      "name": "Perpetual Care",
-      "url": "https://open.spotify.com/track/00obKbt8QTLsUoSNGvVd2e"
     },
     {
       "added_at": "2026-03-20 04:00:38",
@@ -1339,6 +1291,54 @@
       "duration_ms": 142038,
       "name": "i still remember the first place we met.",
       "url": "https://open.spotify.com/track/1M481wZAR3n4a4QEUQU2Mo"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
+        "name": "The Beautiful World",
+        "url": "https://open.spotify.com/album/2mYF47xMK4YdDipgj88DSD"
+      },
+      "artists": [
+        {
+          "name": "David Allred",
+          "url": "https://open.spotify.com/artist/05XWJrLfEbTiyv1oirnMSm"
+        }
+      ],
+      "duration_ms": 178858,
+      "name": "Stray",
+      "url": "https://open.spotify.com/track/2qJ1lpSOeAsbHr5WP86KtF"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
+        "name": "Womb Trails",
+        "url": "https://open.spotify.com/album/2JNoncPfQy0XJGxzADRGBG"
+      },
+      "artists": [
+        {
+          "name": "Vile Karimi",
+          "url": "https://open.spotify.com/artist/0bnejaF6VYzssOaUveetsL"
+        }
+      ],
+      "duration_ms": 200059,
+      "name": "Perpetual Care",
+      "url": "https://open.spotify.com/track/00obKbt8QTLsUoSNGvVd2e"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
+        "name": "Love Is Colder Than Death",
+        "url": "https://open.spotify.com/album/04G4BWBdbZSPZJPE3anfLb"
+      },
+      "artists": [
+        {
+          "name": "Romance",
+          "url": "https://open.spotify.com/artist/0A18cE9pDz57f0cj7q8wxt"
+        }
+      ],
+      "duration_ms": 213832,
+      "name": "Out Of The Past",
+      "url": "https://open.spotify.com/track/6iTpwzfupCsZWM7V67Okog"
     },
     {
       "added_at": "2026-03-20 04:00:38",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
+        "name": "Near Silence",
+        "url": "https://open.spotify.com/album/3Xv1uvYnSeU8phHkccNZLe"
+      },
+      "artists": [
+        {
+          "name": "knownbyC",
+          "url": "https://open.spotify.com/artist/3r6IlT9KI2aOfSuBClGBxb"
+        }
+      ],
+      "duration_ms": 184109,
+      "name": "Near Silence",
+      "url": "https://open.spotify.com/track/48TdI8BCUcvBlsfm3oZN1K"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
         "name": "Murken Hollow",
         "url": "https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 134314,
       "name": "thoughts inside my head",
       "url": "https://open.spotify.com/track/164X9gk1G6s6G6NWVYQ5XY"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
-        "name": "Near Silence",
-        "url": "https://open.spotify.com/album/3Xv1uvYnSeU8phHkccNZLe"
-      },
-      "artists": [
-        {
-          "name": "knownbyC",
-          "url": "https://open.spotify.com/artist/3r6IlT9KI2aOfSuBClGBxb"
-        }
-      ],
-      "duration_ms": 184109,
-      "name": "Near Silence",
-      "url": "https://open.spotify.com/track/48TdI8BCUcvBlsfm3oZN1K"
     },
     {
       "added_at": "2026-03-20 04:00:38",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
-        "name": "Line Gone Cold (Deconstructed)",
-        "url": "https://open.spotify.com/album/5fMIvFAs8VY75dTMCgsGEq"
-      },
-      "artists": [
-        {
-          "name": "Forest Swords",
-          "url": "https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP"
-        }
-      ],
-      "duration_ms": 156500,
-      "name": "Line Gone Cold - Deconstructed",
-      "url": "https://open.spotify.com/track/02hS8hWSlOdP8FvC2VK063"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
         "name": "Displacement (KMRU rework)",
         "url": "https://open.spotify.com/album/3k0N6eVV7JYpyxEd7cHdu7"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 256000,
       "name": "Displacement - KMRU rework",
       "url": "https://open.spotify.com/track/2wUujeRMhcXXettDljS5Hl"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
+        "name": "Line Gone Cold (Deconstructed)",
+        "url": "https://open.spotify.com/album/5fMIvFAs8VY75dTMCgsGEq"
+      },
+      "artists": [
+        {
+          "name": "Forest Swords",
+          "url": "https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP"
+        }
+      ],
+      "duration_ms": 156500,
+      "name": "Line Gone Cold - Deconstructed",
+      "url": "https://open.spotify.com/track/02hS8hWSlOdP8FvC2VK063"
     },
     {
       "added_at": "2026-03-20 04:00:38",
@@ -1691,6 +1691,22 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
+        "name": "iel te guide (lumineuse arp v)",
+        "url": "https://open.spotify.com/album/3iGWgsVsg598vpnPMGOGst"
+      },
+      "artists": [
+        {
+          "name": "Passa Tempo",
+          "url": "https://open.spotify.com/artist/6Qpnrt9GMCBN54ec9eTsAu"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "iel te guide (lumineuse arp v)",
+      "url": "https://open.spotify.com/track/2Qn4xuj7oMw2DwWQGUdjsT"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
         "name": "Canneto",
         "url": "https://open.spotify.com/album/5yPvFSDxdzszBMr3lF3t5N"
       },
@@ -1707,22 +1723,6 @@
       "duration_ms": 114500,
       "name": "Canneto",
       "url": "https://open.spotify.com/track/6hx5tz1VTta0cnTLcvCSaI"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
-        "name": "iel te guide (lumineuse arp v)",
-        "url": "https://open.spotify.com/album/3iGWgsVsg598vpnPMGOGst"
-      },
-      "artists": [
-        {
-          "name": "Passa Tempo",
-          "url": "https://open.spotify.com/artist/6Qpnrt9GMCBN54ec9eTsAu"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "iel te guide (lumineuse arp v)",
-      "url": "https://open.spotify.com/track/2Qn4xuj7oMw2DwWQGUdjsT"
     },
     {
       "added_at": "2026-03-20 04:00:38",

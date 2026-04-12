@@ -186,7 +186,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 128804,
       "name": "Ac\u0131yor Kalbim",
       "url": "https://open.spotify.com/track/5at6EvpZwE8neKRrDrk7gI"
@@ -6161,6 +6161,28 @@
     },
     {
       "album": {
+        "name": "Labirent",
+        "url": "https://open.spotify.com/album/3UbHNfhM2RXE6GN27HPuEn"
+      },
+      "artists": [
+        {
+          "name": "Hadise",
+          "url": "https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49"
+        },
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190080,
+      "name": "Labirent",
+      "url": "https://open.spotify.com/track/2mssGi7e5Aac72PxoOGhLp"
+    },
+    {
+      "album": {
         "name": "Lakin",
         "url": "https://open.spotify.com/album/7u52LKZ2sJ0LnYxMol4Sxi"
       },
@@ -6993,6 +7015,24 @@
     },
     {
       "album": {
+        "name": "Olacak Gibi De\u011fil",
+        "url": "https://open.spotify.com/album/61qpQymIvcAuM8s5zIsguo"
+      },
+      "artists": [
+        {
+          "name": "Ersay \u00dcner",
+          "url": "https://open.spotify.com/artist/6kf7koRM31Dgsj2WbByZpB"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189061,
+      "name": "Olacak Gibi De\u011fil",
+      "url": "https://open.spotify.com/track/69aA1OBOJiyhysEIc0KBw0"
+    },
+    {
+      "album": {
         "name": "Olan Oldu",
         "url": "https://open.spotify.com/album/3MVJianAjvMi16H5QPvLrB"
       },
@@ -7718,7 +7758,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 160833,
       "name": "Senden Sonras\u0131 Yalan",
       "url": "https://open.spotify.com/track/4vpUmpzAjDeaKSxSmJDkIF"

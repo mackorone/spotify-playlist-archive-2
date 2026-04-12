@@ -3432,7 +3432,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 154368,
       "name": "Dom",
       "url": "https://open.spotify.com/track/0rkj5f4oLCYbver5KyDZza"
@@ -7711,6 +7711,24 @@
     },
     {
       "album": {
+        "name": "A Matter of Time: The Final Hour",
+        "url": "https://open.spotify.com/album/4DWK6TLXHl1fly2zi5RlO7"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239333,
+      "name": "Madwoman",
+      "url": "https://open.spotify.com/track/0UqHzMvRQnaOXEPKgFVhxN"
+    },
+    {
+      "album": {
         "name": "Malibu",
         "url": "https://open.spotify.com/album/3rdky53UG5s1ORpeOTJ2fm"
       },
@@ -8630,6 +8648,24 @@
       "duration_ms": 216320,
       "name": "my",
       "url": "https://open.spotify.com/track/19dHt2hh8aaWNCDC3ReLZY"
+    },
+    {
+      "album": {
+        "name": "My Mess",
+        "url": "https://open.spotify.com/album/6SJIgDyt7PDWKtlFP77VLu"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "My Mess",
+      "url": "https://open.spotify.com/track/5p3Jpxg9clWBDLy9kdD6CY"
     },
     {
       "album": {
@@ -10440,7 +10476,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 168571,
       "name": "PAMI\u0118TAJ",
       "url": "https://open.spotify.com/track/5xGpJoxIzALCGEVreG4KoW"
@@ -12726,7 +12762,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 219294,
       "name": "SHELL ( OF A MAN )",
       "url": "https://open.spotify.com/track/79ckbJiCdKrGYPTmpFlc7u"
@@ -13366,6 +13402,32 @@
       "duration_ms": 244000,
       "name": "Sto \u017cy\u0107",
       "url": "https://open.spotify.com/track/44GIhCbTHFHiTEee4UaydE"
+    },
+    {
+      "album": {
+        "name": "Strach",
+        "url": "https://open.spotify.com/album/2Qn2P4QEFyGaf8vO9v4SDZ"
+      },
+      "artists": [
+        {
+          "name": "Gibbs",
+          "url": "https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ"
+        },
+        {
+          "name": "DOPEHOUSE",
+          "url": "https://open.spotify.com/artist/1jGFwoIhmjGm0VMXTsi3dN"
+        },
+        {
+          "name": "Jonatan",
+          "url": "https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Strach",
+      "url": "https://open.spotify.com/track/7oOc4hJOT5914sOc6W4SgG"
     },
     {
       "album": {

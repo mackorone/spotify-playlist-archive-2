@@ -370,7 +370,7 @@
       ],
       "date_added": "2024-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 223510,
       "name": "DUST/DIVINITY",
       "url": "https://open.spotify.com/track/52PFBc2sSdQOcDxfjLZPNi"
@@ -1060,6 +1060,32 @@
       "duration_ms": 257917,
       "name": "NO COUNTRY",
       "url": "https://open.spotify.com/track/3kdsJl2DIuphGlswsCVsu0"
+    },
+    {
+      "album": {
+        "name": "No Springtime (ft. Joy Oladokun & Julie Williams)",
+        "url": "https://open.spotify.com/album/66qSzjkzyYbD2cXKauAOVJ"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        },
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        },
+        {
+          "name": "Julie Williams",
+          "url": "https://open.spotify.com/artist/4sRUZFWl0hDJg6MW9lHKR9"
+        }
+      ],
+      "date_added": "2026-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200373,
+      "name": "No Springtime (ft. Joy Oladokun & Julie Williams)",
+      "url": "https://open.spotify.com/track/4roCXZFxzB1WrKofdjedQg"
     },
     {
       "album": {

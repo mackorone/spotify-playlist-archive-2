@@ -4,7 +4,7 @@
 
 > 
 
-36 songs - 1 hr 57 min
+37 songs - 1 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [i was only temporary](https://open.spotify.com/track/0X4YYZtZcvqNqYIpMd93IT) | [my head is empty](https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy) | [i was only temporary](https://open.spotify.com/album/24tfAQTRqLfKw5bFjMhc4m) | 1:38 | 2024-07-16 |  |
 | [In Essence](https://open.spotify.com/track/08PCgz6tyNfo8k8emNQHqD) | [Ka$tro](https://open.spotify.com/artist/22AaKQKPmQXX1xFhc825rJ) | [Barren.](https://open.spotify.com/album/5eaVjPmWfeSWQauCsWWA0P) | 1:37 | 2023-11-17 |  |
 | [In This Shirt](https://open.spotify.com/track/14QX1ckbDIhqetvu5VZ3cP) | [The Irrepressibles](https://open.spotify.com/artist/1v5bOzXbhrQ57qSvRwGA6s) | [Mirror Mirror](https://open.spotify.com/album/6AOnHGR6Adnmi4FyR3UK6e) | 5:35 | 2024-06-28 |  |
+| [Jealous](https://open.spotify.com/track/0bhudMmr0XdtBOjFbjq8R0) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Let's Skip to the Wedding](https://open.spotify.com/album/5GpRahH84HsI3SSQrpTj50) | 2:02 | 2026-04-12 |  |
 | [Kerosene](https://open.spotify.com/track/2K70ZV0Ls65Kkj0WUEfHlz) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [\(III\)](https://open.spotify.com/album/2KYBzzK8L9yvBe0k5GeoD8) | 3:12 | 2023-12-26 |  |
 | [Let Go](https://open.spotify.com/track/07mdQUH1Cy5j4mTpyG6IOe) | [Ark Patrol](https://open.spotify.com/artist/3zaxUd86U92CdZkNa6NUo9), [Veronika Redd](https://open.spotify.com/artist/6kuFWCCvd7bWB1PV0tJMN2) | [Let Go](https://open.spotify.com/album/2jyHYK0byP7L61nlSJf4Wn) | 4:08 | 2025-05-18 |  |
 | [Little Dark Age](https://open.spotify.com/track/2Y0iGXY6m6immVb2ktbseM) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Little Dark Age](https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H) | 4:59 | 2024-01-21 |  |

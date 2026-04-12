@@ -1,12 +1,12 @@
 {
   "description": "This is Neto Pe\u00f1a. The essential tracks, all in one playlist.",
-  "num_followers": 57651,
+  "num_followers": 57660,
   "original_name": "This Is Neto Pe\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adbsAAAAAABkL4+xIlq5mlOZMDF751M7",
+  "snapshot_id": "adg9gAAAAAAVA77TQHk4DO5Leb0gp40B",
   "tracks": [
     {
       "added_at": null,
@@ -1151,22 +1151,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nube Roja",
-        "url": "https://open.spotify.com/album/7l611d6c9kU7kCzHZabXhD"
+        "name": "Los de la A",
+        "url": "https://open.spotify.com/album/75nAlGbzK3WWByNiKqkrK0"
       },
       "artists": [
+        {
+          "name": "Alzada",
+          "url": "https://open.spotify.com/artist/68Nt8XHuyEgQSOHih2iMlv"
+        },
         {
           "name": "Neto Pe\u00f1a",
           "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
         },
         {
-          "name": "Yng Naz",
-          "url": "https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC"
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        },
+        {
+          "name": "Chato 473",
+          "url": "https://open.spotify.com/artist/7zvcqoLiInqmSmPzX0gwfp"
+        },
+        {
+          "name": "Turek Hem",
+          "url": "https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx"
         }
       ],
-      "duration_ms": 263000,
-      "name": "Nube Roja",
-      "url": "https://open.spotify.com/track/5V3ooSsqapq7yzZniTHvaK"
+      "duration_ms": 226813,
+      "name": "Los de la A",
+      "url": "https://open.spotify.com/track/1ihehm2g1nnca5wn5eZsaf"
     },
     {
       "added_at": null,
@@ -1207,42 +1227,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los de la A",
-        "url": "https://open.spotify.com/album/75nAlGbzK3WWByNiKqkrK0"
+        "name": "Nube Roja",
+        "url": "https://open.spotify.com/album/7l611d6c9kU7kCzHZabXhD"
       },
       "artists": [
-        {
-          "name": "Alzada",
-          "url": "https://open.spotify.com/artist/68Nt8XHuyEgQSOHih2iMlv"
-        },
         {
           "name": "Neto Pe\u00f1a",
           "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
         },
         {
-          "name": "Toser One",
-          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Zxmyr",
-          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
-        },
-        {
-          "name": "Chato 473",
-          "url": "https://open.spotify.com/artist/7zvcqoLiInqmSmPzX0gwfp"
-        },
-        {
-          "name": "Turek Hem",
-          "url": "https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx"
+          "name": "Yng Naz",
+          "url": "https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC"
         }
       ],
-      "duration_ms": 226813,
-      "name": "Los de la A",
-      "url": "https://open.spotify.com/track/1ihehm2g1nnca5wn5eZsaf"
+      "duration_ms": 263000,
+      "name": "Nube Roja",
+      "url": "https://open.spotify.com/track/5V3ooSsqapq7yzZniTHvaK"
     },
     {
       "added_at": null,

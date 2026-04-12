@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: 연우 \(Yeonwoo\)\) \(Meet the emerging talents of Korea!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,383 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,379 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 49 | [The errand of Love](https://open.spotify.com/track/6Cu9v1zM42SENG7DghjPyG) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [The errand of Love](https://open.spotify.com/album/0uaPPrvjeW2y8cSHQpjVv6) | 3:37 |
 | 50 | [Koi](https://open.spotify.com/track/43nyP68GKT0fDa6ftbmvr1) | [Tuesday Beach Club](https://open.spotify.com/artist/3kbrbhnjLCObXwmOsqadXT) | [Forever’s Not Enough](https://open.spotify.com/album/5uYqh7FXvk3jvyUEM1L88b) | 3:01 |
 
-Snapshot ID: `AAAAAKK+8q4GyytIlVR2fDPlKiGzPzTt`
+Snapshot ID: `AAAAAF6VCATdb7Vk8cQ1xpc1D4B/ov88`

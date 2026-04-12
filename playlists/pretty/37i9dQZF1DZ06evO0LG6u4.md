@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0LG6u4.md) - [plain]
 
 > This is Éliane Radigue\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 386 likes - 15 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 386 likes - 15 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,14 +14,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0LG6u4.md) - [plain]
 | 4 | [Devenir musicienne](https://open.spotify.com/track/1OrlxOHSlotYdRyW9Rwvvn) | [Éliane Radigue](https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh) | [Musique de notre temps \(1976\-1977\)](https://open.spotify.com/album/2T7mJ9ihJfmheoBWau3mpr) | 4:21 |
 | 5 | [Kailasha](https://open.spotify.com/track/2aSwsrvPkO86rrYIPSkLyO) | [Éliane Radigue](https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh) | [Trilogie De La Mort](https://open.spotify.com/album/2qLeLtVxS5N9A9B0qd1BC5) | 56:08 |
 | 6 | [Song of the Path Guides](https://open.spotify.com/track/4YDhnp4PveeMYXDM5LaRv3) | [Éliane Radigue](https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh) | [Songs of Milarepa](https://open.spotify.com/album/0pGs09jkdBCp7wYUpTDeHO) | 21:01 |
-| 7 | [Le soleil](https://open.spotify.com/track/5iFT5Xi0wixMPmBw8PI0Lh) | [Éliane Radigue](https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh) | [Musique de notre temps \(1976\-1977\)](https://open.spotify.com/album/2T7mJ9ihJfmheoBWau3mpr) | 0:48 |
+| 7 | [Son miroir](https://open.spotify.com/track/4GltqtOOK8KxgORA00fHQo) | [Éliane Radigue](https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh) | [Musique de notre temps \(1976\-1977\)](https://open.spotify.com/album/2T7mJ9ihJfmheoBWau3mpr) | 0:44 |
 | 8 | [Koume](https://open.spotify.com/track/68yY905rINFVTKWAaTGQHm) | [Éliane Radigue](https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh) | [Trilogie De La Mort](https://open.spotify.com/album/2qLeLtVxS5N9A9B0qd1BC5) | 51:17 |
 | 9 | [Elimination of Desires](https://open.spotify.com/track/5viWHOFZrtrnCjBFx4usnq) | [Éliane Radigue](https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh) | [Songs of Milarepa](https://open.spotify.com/album/0pGs09jkdBCp7wYUpTDeHO) | 17:21 |
-| 10 | [Son miroir](https://open.spotify.com/track/4GltqtOOK8KxgORA00fHQo) | [Éliane Radigue](https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh) | [Musique de notre temps \(1976\-1977\)](https://open.spotify.com/album/2T7mJ9ihJfmheoBWau3mpr) | 0:44 |
+| 10 | [Le synthétiseur](https://open.spotify.com/track/0EzWzEVxEGekSR3E3T5cTh) | [Éliane Radigue](https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh) | [Musique de notre temps \(1976\-1977\)](https://open.spotify.com/album/2T7mJ9ihJfmheoBWau3mpr) | 1:41 |
 | 11 | [Symbols for Yogic Experience](https://open.spotify.com/track/5h5c78cN5uw5dOauQGOqtf) | [Éliane Radigue](https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh) | [Songs of Milarepa](https://open.spotify.com/album/0pGs09jkdBCp7wYUpTDeHO) | 19:27 |
-| 12 | [Le synthétiseur](https://open.spotify.com/track/0EzWzEVxEGekSR3E3T5cTh) | [Éliane Radigue](https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh) | [Musique de notre temps \(1976\-1977\)](https://open.spotify.com/album/2T7mJ9ihJfmheoBWau3mpr) | 1:41 |
+| 12 | [Le soleil](https://open.spotify.com/track/5iFT5Xi0wixMPmBw8PI0Lh) | [Éliane Radigue](https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh) | [Musique de notre temps \(1976\-1977\)](https://open.spotify.com/album/2T7mJ9ihJfmheoBWau3mpr) | 0:48 |
 | 13 | [Mila's Journey Inspired by a Dream](https://open.spotify.com/track/4T7pXJ4oJI5z5VyKb4ZeRW) | [Éliane Radigue](https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh) | [Songs of Milarepa](https://open.spotify.com/album/0pGs09jkdBCp7wYUpTDeHO) | 1:02:21 |
-| 14 | [La note](https://open.spotify.com/track/2ZpGWu0myOzQevbBpjcA8P) | [Éliane Radigue](https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh) | [Musique de notre temps \(1976\-1977\)](https://open.spotify.com/album/2T7mJ9ihJfmheoBWau3mpr) | 1:36 |
-| 15 | [Musique pour l'image](https://open.spotify.com/track/32Cql4hQZxiHAvyuLwk703) | [Éliane Radigue](https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh) | [Musique de notre temps \(1976\-1977\)](https://open.spotify.com/album/2T7mJ9ihJfmheoBWau3mpr) | 0:48 |
+| 14 | [Le reflet](https://open.spotify.com/track/6DxYjk3VnYEKOzNgyi7cXc) | [Éliane Radigue](https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh) | [Musique de notre temps \(1976\-1977\)](https://open.spotify.com/album/2T7mJ9ihJfmheoBWau3mpr) | 1:40 |
+| 15 | [La note](https://open.spotify.com/track/2ZpGWu0myOzQevbBpjcA8P) | [Éliane Radigue](https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh) | [Musique de notre temps \(1976\-1977\)](https://open.spotify.com/album/2T7mJ9ihJfmheoBWau3mpr) | 1:36 |
 
-Snapshot ID: `adbsAAAAAAC41XevTA0f9+i9Yj7zd6UA`
+Snapshot ID: `adg9gAAAAACpdLPmV+Wu3OHKVJEQKlTu`

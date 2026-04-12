@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyxueI1JMs3.md) - [plain]
 
 > Music from “A3!”, Japan’s top anime style mobile games.©Liber Entertainment Inc\. All Rights Reserved.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,665 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,666 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyxueI1JMs3.md) - [plain]
 | 5 | [Third Impact](https://open.spotify.com/track/2u0jlZh5L0FCEDXK7CaHHb) | [秋組](https://open.spotify.com/artist/3PbIyfeqZWJx0GNsU9wrgX) | [A3! NEW BLOOMING](https://open.spotify.com/album/39v9H4Lc7AGWjkN4PXqOZ0) | 4:00 |
 | 6 | [むつのはな](https://open.spotify.com/track/1grTVwp3p0V2lXVY8nCDTh) | [冬組](https://open.spotify.com/artist/22TokuezpjqIqb51lUUjah) | [A3! NEW BLOOMING](https://open.spotify.com/album/39v9H4Lc7AGWjkN4PXqOZ0) | 2:42 |
 | 7 | [月虹上のアリア](https://open.spotify.com/track/3Zg5gxoGnLvYzHZbpW4Ybm) | [雪白東\(CV:柿原徹也\)](https://open.spotify.com/artist/5jOsh9ZDyWonTu56jdXrlp) | [A3! Blooming WINTER EP](https://open.spotify.com/album/2k2gFUguLzu5KkUZXHgaiT) | 4:10 |
-| 8 | [ペテン師の憂鬱](https://open.spotify.com/track/7a7EQgcJT9sJkRuKgQXDXf) | [卯木千景\(CV:羽多野渉\)](https://open.spotify.com/artist/2q1iYBonWHVaAKjA7RgzYO) | [A3! VIVID SPRING EP](https://open.spotify.com/album/4c25HmOFJqSRpmD9sBbKJC) | 3:07 |
-| 9 | [トロイメライと空白](https://open.spotify.com/track/5gP2A1oGmHxGZl1bJ2H9vp) | [御影密\(CV:寺島惇太\)](https://open.spotify.com/artist/0hXb0YqEirdRnu6COfDVAn) | [A3! Blooming WINTER EP](https://open.spotify.com/album/2k2gFUguLzu5KkUZXHgaiT) | 4:19 |
+| 8 | [トロイメライと空白](https://open.spotify.com/track/5gP2A1oGmHxGZl1bJ2H9vp) | [御影密\(CV:寺島惇太\)](https://open.spotify.com/artist/0hXb0YqEirdRnu6COfDVAn) | [A3! Blooming WINTER EP](https://open.spotify.com/album/2k2gFUguLzu5KkUZXHgaiT) | 4:19 |
+| 9 | [ペテン師の憂鬱](https://open.spotify.com/track/7a7EQgcJT9sJkRuKgQXDXf) | [卯木千景\(CV:羽多野渉\)](https://open.spotify.com/artist/2q1iYBonWHVaAKjA7RgzYO) | [A3! VIVID SPRING EP](https://open.spotify.com/album/4c25HmOFJqSRpmD9sBbKJC) | 3:07 |
 | 10 | [春夏秋冬☆Blooming!](https://open.spotify.com/track/45RpTPKeWsGGRkX5onDCf4) | [A3ders!](https://open.spotify.com/artist/4mAab1tXVGXGgmqt4Sbbkv), [佐久間咲也\(CV:酒井広大\)](https://open.spotify.com/artist/6rPornlr337BSL4cfY3dTC), [皇天馬\(CV:江口拓也\)](https://open.spotify.com/artist/5W3qMhWABumuWMdkg9tHH5), [摂津万里\(CV:沢城千春\)](https://open.spotify.com/artist/1tQ0ttx4p0OGK374aMxqFh), [月岡紬\(CV:田丸篤志\)](https://open.spotify.com/artist/4VaShRsxkpIJRszVDJAXpt) | [春夏秋冬☆Blooming!](https://open.spotify.com/album/4FG9dxPiMVyvZTiANQGLI6) | 3:21 |
 | 11 | [Circle of Seasons](https://open.spotify.com/track/0INHmCFlkg3oI1vSlonQ0C) | [A3ders!](https://open.spotify.com/artist/4mAab1tXVGXGgmqt4Sbbkv) | [Circle of Seasons](https://open.spotify.com/album/4wfAkeE04rz5KflrwYW75N) | 3:27 |
 | 12 | [meteor trail](https://open.spotify.com/track/4Iwnc79ADACRkjUquG1LF5) | [ロベルト\[卯木千景\(CV:羽多野 渉\)\]](https://open.spotify.com/artist/3llUZMuq2j0Mpl4YJYBHx0), [ジーノ\[皆木 綴\(CV:西山宏太朗\)\]](https://open.spotify.com/artist/2YS3AWllJJiJz6S11AvyEv) | [A3! INNOCENT SPRING EP](https://open.spotify.com/album/0oyAO1ffpeY5ALDUULnIZ8) | 5:03 |

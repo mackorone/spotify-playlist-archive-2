@@ -4,7 +4,7 @@
 
 > Tierra linda que siempre sueño, y que muy dentro llevo\. Ciudad de Monterrey ♥️
 
-412 songs - 1 day 0 hr 2 min
+413 songs - 1 day 0 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [24/7](https://open.spotify.com/track/4K4ks2NpTorYdGIitosc5U) | [EVÍC](https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [24/7](https://open.spotify.com/album/4spOiFzbH5Q2ORqtPcREG5) | 3:04 | 2025-11-09 |  |
 | [99,99%](https://open.spotify.com/track/1YsHWGRvwLhJZ3wJgx9JrB) | [El Riqué](https://open.spotify.com/artist/5LxT7DrG2qyNr8YYC3RMEG) | [Scratch De Versos](https://open.spotify.com/album/7sRbfBmwb0jFdmyUJEJh28) | 4:19 | 2025-11-09 |  |
 | [A Ella](https://open.spotify.com/track/6xIiVGZs194HCa9wTVHRys) | [El Poder Del Norte](https://open.spotify.com/artist/4E9GScOUpq8PgyRhItXx7x) | [A Ellas](https://open.spotify.com/album/0CwYtDDWOYWvrMXN1GWg8u) | 3:46 | 2023-06-16 | 2025-11-10 |
+| [A Gozar](https://open.spotify.com/track/2i7sKsVOXtrhBdQGMWNTcp) | [DJ Morphius](https://open.spotify.com/artist/0JG1qMChKnNWRh0GRgOJJN), [DJ Hazel Mty](https://open.spotify.com/artist/40t9WzNauTKHjLkG6ok3rG), [Muzik Junkies](https://open.spotify.com/artist/34DQTRbIYPLSGU2SkOTEja), [La Bomba Kike Play](https://open.spotify.com/artist/0hIYNKlYxQY4O6edWnnn9Y) | [A Gozar](https://open.spotify.com/album/4ZN8AOjAkMnIlEqd0Fav9u) | 2:30 | 2025-11-09 |  |
 | [A La PM Puse En Alto](https://open.spotify.com/track/6SxEw6xmkOhO2BgF6fnm0K) | [Doble ONE Flow Letal](https://open.spotify.com/artist/25OaNybC8G6g5KkAmthQtX) | [A La PM Puse En Alto](https://open.spotify.com/album/7JMd6WQhu41hgPGNsktSax) | 4:21 | 2025-11-09 |  |
 | [A Mí Me Gustas Tú](https://open.spotify.com/track/1EaKvr4fXEolYtb37KLrE5) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo), [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq), [Oscar Iván Trevíno](https://open.spotify.com/artist/5pPdYQPzWpb1XnsNqE6OOz) | [Se Alinearon Los Planetas](https://open.spotify.com/album/0cYR192hnEFfTCjfqAnigQ) | 3:08 | 2025-11-09 |  |
 | [A Mí, ¿Qué Me Quedó?](https://open.spotify.com/track/0b72rOmkspR8dJHsUjaVi4) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Vuelvo Contigo](https://open.spotify.com/album/3Bqrpyh09jij3b2SiqzQlU) | 2:41 | 2023-06-16 | 2025-11-10 |
@@ -162,7 +163,7 @@
 | [Eras](https://open.spotify.com/track/6Tfdvb0Evy5rjjcoIiXRaO) | [KUMBIAMBEROS RS](https://open.spotify.com/artist/4dH4CQPLPsx2YDuH4Insak) | [Eras](https://open.spotify.com/album/6zVmmrev2eBuEDBRSCsUUg) | 3:39 | 2023-11-08 | 2025-06-18 |
 | [Eres Mi Droga](https://open.spotify.com/track/3t4BZRyfrZGgICZGyNewyi) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [IV](https://open.spotify.com/album/43UFBkcvSy10IIqsGIJzUw) | 3:27 | 2023-06-16 | 2025-11-10 |
 | [Eres un encanto \- En vivo](https://open.spotify.com/track/04xY2a4sWhjc1zCAdFwGSJ) | [Israel Morales](https://open.spotify.com/artist/6ojwZd66jiZlplxrG6JVjW) | [En vivo desde El Potrero](https://open.spotify.com/album/5aUra0wikb6Z7C5lms9DMf) | 3:23 | 2023-06-16 | 2025-06-18 |
-| [Es Así](https://open.spotify.com/track/6UcSnz6quThUb3XsjQbmgY) | [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E), [Sam Vazquez](https://open.spotify.com/artist/3k684W4rJtfWKNkUZIhuAq) | [Es Así](https://open.spotify.com/album/0BF82aBeWmhKrMf81RpUeb) | 3:27 | 2025-11-09 |  |
+| [Es Así](https://open.spotify.com/track/6UcSnz6quThUb3XsjQbmgY) | [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E), [Sam Vazquez](https://open.spotify.com/artist/3k684W4rJtfWKNkUZIhuAq) | [Es Así](https://open.spotify.com/album/0BF82aBeWmhKrMf81RpUeb) | 3:27 | 2025-11-09 | 2026-04-12 |
 | [Eslabón Por Eslabón](https://open.spotify.com/track/7ajSrG0IdN2XC27mPfgnum) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Esto Es Lo Nuestro](https://open.spotify.com/album/5fKj1UiyRfFcRmLGPN4tTn) | 3:01 | 2023-06-16 | 2024-04-19 |
 | [Eslabón Por Eslabón](https://open.spotify.com/track/75vBz6v4IrakqmnqNTdnE0) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Ni Dada La Quiero](https://open.spotify.com/album/1wJklr611fFhZoveD89y4F) | 3:02 | 2023-11-08 | 2025-11-10 |
 | [Esta Noche Tu Vendrás](https://open.spotify.com/track/2wHcALEBx39LP7ziwlHkSQ) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Me Rindo](https://open.spotify.com/album/5Jeg7MzgKFXenbJAcD64Hj) | 3:09 | 2024-07-15 | 2025-11-10 |

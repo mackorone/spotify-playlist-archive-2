@@ -1,6 +1,6 @@
 {
   "description": "Welcome to the Nordic queendom. ",
-  "num_followers": 7913,
+  "num_followers": 7914,
   "original_name": "GRL PWR",
   "owner": {
     "name": "Spotify",
@@ -751,6 +751,22 @@
     {
       "added_at": "2025-05-06 11:46:39",
       "album": {
+        "name": "No Room For Love",
+        "url": "https://open.spotify.com/album/75Vumdz8ONJyJX3LGXHpf8"
+      },
+      "artists": [
+        {
+          "name": "Dotter",
+          "url": "https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t"
+        }
+      ],
+      "duration_ms": 177818,
+      "name": "No Room For Love",
+      "url": "https://open.spotify.com/track/3Xz5IqnHEeyJ9xnMJwXtla"
+    },
+    {
+      "added_at": "2025-05-06 11:46:39",
+      "album": {
         "name": "Psycho",
         "url": "https://open.spotify.com/album/17TD5aiZAItTy2ToJofnDp"
       },
@@ -767,18 +783,18 @@
     {
       "added_at": "2025-05-06 11:46:39",
       "album": {
-        "name": "No Room For Love",
-        "url": "https://open.spotify.com/album/75Vumdz8ONJyJX3LGXHpf8"
+        "name": "Portland",
+        "url": "https://open.spotify.com/album/44HhRymrweWh8rKCHOpsWf"
       },
       "artists": [
         {
-          "name": "Dotter",
-          "url": "https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t"
+          "name": "Rhys Frank",
+          "url": "https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU"
         }
       ],
-      "duration_ms": 177818,
-      "name": "No Room For Love",
-      "url": "https://open.spotify.com/track/3Xz5IqnHEeyJ9xnMJwXtla"
+      "duration_ms": 172872,
+      "name": "Portland",
+      "url": "https://open.spotify.com/track/43IbZJjKp3vo7t88TGjocB"
     },
     {
       "added_at": "2025-05-06 11:46:39",
@@ -815,22 +831,6 @@
       "duration_ms": 175746,
       "name": "Dance All Night",
       "url": "https://open.spotify.com/track/4g9HX5pBd1CHk4oq7vM9B0"
-    },
-    {
-      "added_at": "2025-05-06 11:46:39",
-      "album": {
-        "name": "Portland",
-        "url": "https://open.spotify.com/album/44HhRymrweWh8rKCHOpsWf"
-      },
-      "artists": [
-        {
-          "name": "Rhys Frank",
-          "url": "https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU"
-        }
-      ],
-      "duration_ms": 172872,
-      "name": "Portland",
-      "url": "https://open.spotify.com/track/43IbZJjKp3vo7t88TGjocB"
     },
     {
       "added_at": "2025-05-06 11:46:39",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2025-05-06 11:46:39",
       "album": {
-        "name": "Silver Heart",
-        "url": "https://open.spotify.com/album/6lrh5oMgt7bWxPo9oyDZd3"
-      },
-      "artists": [
-        {
-          "name": "Ronia",
-          "url": "https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z"
-        }
-      ],
-      "duration_ms": 229079,
-      "name": "Silver Heart",
-      "url": "https://open.spotify.com/track/3VRl0Gv158qthcg30K3Hdy"
-    },
-    {
-      "added_at": "2025-05-06 11:46:39",
-      "album": {
         "name": "I Hate San Francisco",
         "url": "https://open.spotify.com/album/6pF4utdDeVRkUmHyny2C36"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 193093,
       "name": "I Hate San Francisco",
       "url": "https://open.spotify.com/track/604ZOG5yxHW5tqxUIFzIJ0"
+    },
+    {
+      "added_at": "2025-05-06 11:46:39",
+      "album": {
+        "name": "Silver Heart",
+        "url": "https://open.spotify.com/album/6lrh5oMgt7bWxPo9oyDZd3"
+      },
+      "artists": [
+        {
+          "name": "Ronia",
+          "url": "https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z"
+        }
+      ],
+      "duration_ms": 229079,
+      "name": "Silver Heart",
+      "url": "https://open.spotify.com/track/3VRl0Gv158qthcg30K3Hdy"
     },
     {
       "added_at": "2025-05-06 11:46:39",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2025-05-06 11:46:39",
       "album": {
-        "name": "I Should\u2019ve Danced More",
-        "url": "https://open.spotify.com/album/23ZYTwf4AeZozJU3mRNC0o"
-      },
-      "artists": [
-        {
-          "name": "Elina",
-          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
-        }
-      ],
-      "duration_ms": 201026,
-      "name": "I Should\u2019ve Danced More",
-      "url": "https://open.spotify.com/track/7vCZ1vLPbbTG42dPHg0PC9"
-    },
-    {
-      "added_at": "2025-05-06 11:46:39",
-      "album": {
         "name": "Lupins In Blue",
         "url": "https://open.spotify.com/album/5h0x1dJtmfnVwVBY3rNNyc"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 226672,
       "name": "Lupins In Blue",
       "url": "https://open.spotify.com/track/1JDepuBvpnzV4BLIPvA2re"
+    },
+    {
+      "added_at": "2025-05-06 11:46:39",
+      "album": {
+        "name": "I Should\u2019ve Danced More",
+        "url": "https://open.spotify.com/album/23ZYTwf4AeZozJU3mRNC0o"
+      },
+      "artists": [
+        {
+          "name": "Elina",
+          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
+        }
+      ],
+      "duration_ms": 201026,
+      "name": "I Should\u2019ve Danced More",
+      "url": "https://open.spotify.com/track/7vCZ1vLPbbTG42dPHg0PC9"
     },
     {
       "added_at": "2025-05-06 11:46:39",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2025-05-06 11:46:39",
       "album": {
-        "name": "PARASITE",
-        "url": "https://open.spotify.com/album/4XWYTwYbIQ5Av9dcMrheEH"
+        "name": "This Isn't Cool",
+        "url": "https://open.spotify.com/album/6hNWARcj3WEfGOIdZiOLrd"
       },
       "artists": [
         {
-          "name": "Wilma Vidal",
-          "url": "https://open.spotify.com/artist/15rEuZ5MAH3TAzOWkEOj6O"
+          "name": "Mekdes",
+          "url": "https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx"
         }
       ],
-      "duration_ms": 220885,
-      "name": "PARASITE",
-      "url": "https://open.spotify.com/track/4L5jAC9hM6uJ9T7wW7SlXI"
+      "duration_ms": 187679,
+      "name": "This Isn't Cool",
+      "url": "https://open.spotify.com/track/55SZGuMJ3rvpIdgAMUAfX7"
     },
     {
       "added_at": "2025-05-06 11:46:39",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2025-05-06 11:46:39",
       "album": {
-        "name": "This Isn't Cool",
-        "url": "https://open.spotify.com/album/6hNWARcj3WEfGOIdZiOLrd"
+        "name": "PARASITE",
+        "url": "https://open.spotify.com/album/4XWYTwYbIQ5Av9dcMrheEH"
       },
       "artists": [
         {
-          "name": "Mekdes",
-          "url": "https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx"
+          "name": "Wilma Vidal",
+          "url": "https://open.spotify.com/artist/15rEuZ5MAH3TAzOWkEOj6O"
         }
       ],
-      "duration_ms": 187679,
-      "name": "This Isn't Cool",
-      "url": "https://open.spotify.com/track/55SZGuMJ3rvpIdgAMUAfX7"
+      "duration_ms": 220885,
+      "name": "PARASITE",
+      "url": "https://open.spotify.com/track/4L5jAC9hM6uJ9T7wW7SlXI"
     }
   ],
   "unique_name": "GRL PWR",

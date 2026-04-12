@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Baby. The essential tracks, all in one playlist.",
-  "num_followers": 446151,
+  "num_followers": 446172,
   "original_name": "This Is Lil Baby",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adbsAAAAAACNq7Ouw7jzqZoTOIuv9rxz",
+  "snapshot_id": "adg9gAAAAAB04D2tRGPkLfxc28ACc+6+",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,30 @@
       "duration_ms": 148860,
       "name": "Mrs. Trendsetter",
       "url": "https://open.spotify.com/track/7KSe5wIvvaKCrPN8ySgSfg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "One of Them",
+        "url": "https://open.spotify.com/album/1UdgMVTxBKIOym1765b7E7"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 204377,
+      "name": "One of Them (with Future & Lil Baby)",
+      "url": "https://open.spotify.com/track/6jUe8PqrzK94gpzA25jPvp"
     },
     {
       "added_at": null,
@@ -123,26 +147,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Certified Lover Boy",
-        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 221979,
-      "name": "Girls Want Girls (with Lil Baby)",
-      "url": "https://open.spotify.com/track/37Nqx7iavZpotJSDXZWbJ3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CAN'T RUSH GREATNESS",
         "url": "https://open.spotify.com/album/1pnm9zBlblhTRlE46ItLzU"
       },
@@ -159,6 +163,26 @@
       "duration_ms": 140720,
       "name": "BAND4BAND (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/70TGNwQDvF5b6GQWlYPr8p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 221979,
+      "name": "Girls Want Girls (with Lil Baby)",
+      "url": "https://open.spotify.com/track/37Nqx7iavZpotJSDXZWbJ3"
     },
     {
       "added_at": null,
@@ -559,26 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tuition Remix (feat. Lil Baby)",
-        "url": "https://open.spotify.com/album/1nWomZQimTLQBhDUfcg3WG"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 169090,
-      "name": "Tuition Remix (feat. Lil Baby)",
-      "url": "https://open.spotify.com/track/65ljzAo3PFVv1VFArQbA1k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hollywood's Bleeding",
         "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
       },
@@ -663,6 +667,26 @@
       "duration_ms": 167977,
       "name": "Forever (feat. Fridayy)",
       "url": "https://open.spotify.com/track/1T4k0sw0HldDg004Kw4Oct"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tuition Remix (feat. Lil Baby)",
+        "url": "https://open.spotify.com/album/1nWomZQimTLQBhDUfcg3WG"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 169090,
+      "name": "Tuition Remix (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/65ljzAo3PFVv1VFArQbA1k"
     },
     {
       "added_at": null,
@@ -983,26 +1007,6 @@
       "duration_ms": 130714,
       "name": "Guaranteed",
       "url": "https://open.spotify.com/track/0wU2tBZRjLe84vEVSdCvQ6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pray 4 Love (Deluxe)",
-        "url": "https://open.spotify.com/album/0pGGvcUT08FrwV0RJIIVA9"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 235987,
-      "name": "Rags2Riches 2 (feat. Lil Baby)",
-      "url": "https://open.spotify.com/track/40TPiJpvwGIyvPjJMDTKfy"
     }
   ],
   "unique_name": "This Is Lil Baby",

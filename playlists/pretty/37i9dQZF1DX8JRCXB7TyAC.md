@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 
 > Workout with Haryanvi Songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,161 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,208 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 | 19 | [Tagde Karam](https://open.spotify.com/track/4KokOfuYaiKzjpbKbQfiOT) | [Sumit Parta](https://open.spotify.com/artist/3b3PfZsOrb3cPzSCZjawbr) | [Tagde Karam](https://open.spotify.com/album/5rTJ8zrN5kCFWM0uhoCiwa) | 2:45 |
 | 20 | [Og](https://open.spotify.com/track/2y286nV941JBSCJUF35fhC) | [Gulzaar Chhaniwala](https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo) | [Og](https://open.spotify.com/album/6jO2GFWlZRkYqVXc5U3nnS) | 3:05 |
 | 21 | [Surrey BC](https://open.spotify.com/track/7uMZMs65u1FlVYdmvQKXMs) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Surrey BC](https://open.spotify.com/album/4FZjdxEiFL0HWL4antngWO) | 3:47 |
-| 22 | [BROTHERHOOD](https://open.spotify.com/track/3wFvPbq2unoV7EaQUHMQZ4) | [Naveen Chaudhary](https://open.spotify.com/artist/7mG5Kqg1c8YqOjzxwbmdxB), [OG Sandhu](https://open.spotify.com/artist/6BWgZpr1zVC2EYLpTv8ZVE) | [BROTHERHOOD](https://open.spotify.com/album/7FbUkl3XwYstd8g2xI9tQy) | 2:32 |
+| 22 | [Lala Lori](https://open.spotify.com/track/7r48j4khJzIT2uqcIU33ax) | [Fazilpuria](https://open.spotify.com/artist/4oaJL0V5asQDh4sqplTVhX), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo) | [Lala Lori](https://open.spotify.com/album/594NRt70OyoHOUljG5CBiy) | 2:40 |
 | 23 | [Cheete](https://open.spotify.com/track/10ipeWfN2UZWuFgN82YiV2) | [Masoom Sharma](https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj) | [Cheete](https://open.spotify.com/album/156qPdGRsin25x6LKHJTXg) | 2:32 |
-| 24 | [Lala Lori](https://open.spotify.com/track/7r48j4khJzIT2uqcIU33ax) | [Fazilpuria](https://open.spotify.com/artist/4oaJL0V5asQDh4sqplTVhX), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo) | [Lala Lori](https://open.spotify.com/album/594NRt70OyoHOUljG5CBiy) | 2:40 |
+| 24 | [BROTHERHOOD](https://open.spotify.com/track/3wFvPbq2unoV7EaQUHMQZ4) | [Naveen Chaudhary](https://open.spotify.com/artist/7mG5Kqg1c8YqOjzxwbmdxB), [OG Sandhu](https://open.spotify.com/artist/6BWgZpr1zVC2EYLpTv8ZVE) | [BROTHERHOOD](https://open.spotify.com/album/7FbUkl3XwYstd8g2xI9tQy) | 2:32 |
 | 25 | [SYSTEM PAAD](https://open.spotify.com/track/5T0zX3YBzgxknRs74X50YM) | [Virat](https://open.spotify.com/artist/3uHCE9eimH5dJx7TLslsmE), [Masoom Sharma](https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj), [Ashu Twinkle](https://open.spotify.com/artist/5J23fam8Qq5thmzmk91qob), [Vaishali Chaudhary](https://open.spotify.com/artist/1IAz1o1bWqWHYzx0qKoarq) | [SYSTEM PAAD](https://open.spotify.com/album/3mqaU3yGoA1XQXV7dj5t4Z) | 2:35 |
 | 26 | [Ha Ha Ha](https://open.spotify.com/track/57JUrL5ZfFN35tLCJuyGmU) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb), [Deep Kalsi](https://open.spotify.com/artist/23S2w22FCwFjDBBn7qdB2I) | [Ha Ha Ha](https://open.spotify.com/album/5gxztKpDmQc00vuOCE9NtV) | 3:09 |
 | 27 | [Chora Baba Ka](https://open.spotify.com/track/3fz747rKjbEa6mtclKacjf) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Chora Baba Ka](https://open.spotify.com/album/6qW38JP4tbzrsZ5VtxUNUS) | 2:55 |

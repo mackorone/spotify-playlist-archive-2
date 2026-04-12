@@ -3387,6 +3387,24 @@
     },
     {
       "album": {
+        "name": "The album",
+        "url": "https://open.spotify.com/album/4L6CXU0lV05T253fNW8UJH"
+      },
+      "artists": [
+        {
+          "name": "FRF2",
+          "url": "https://open.spotify.com/artist/6WD8ugMWHBwTSI2HaNyL7A"
+        }
+      ],
+      "date_added": "2026-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108920,
+      "name": "Thelusion",
+      "url": "https://open.spotify.com/track/00Qc32eVkJxr4HNLZkGN3x"
+    },
+    {
+      "album": {
         "name": "These Days",
         "url": "https://open.spotify.com/album/5TIcIHvjz2ydUJFBQB7L3M"
       },

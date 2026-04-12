@@ -1,12 +1,12 @@
 {
   "description": "This is All Time Low. The essential tracks, all in one playlist.",
-  "num_followers": 178177,
+  "num_followers": 178185,
   "original_name": "This Is All Time Low",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adbsAAAAAAC6meO8imeqhGahMRkmexFn",
+  "snapshot_id": "adg9gAAAAAA2K18D0EpxbBSS5c2oycHU",
   "tracks": [
     {
       "added_at": null,
@@ -315,22 +315,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "PMA (feat. Pale Waves)",
-        "url": "https://open.spotify.com/album/2Q6u1VzybZKzXfPMPQkyuz"
+        "name": "So Wrong, It's Right",
+        "url": "https://open.spotify.com/album/0H4ELcHequ3OligrjWfrZP"
       },
       "artists": [
         {
           "name": "All Time Low",
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        },
-        {
-          "name": "Pale Waves",
-          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
         }
       ],
-      "duration_ms": 191757,
-      "name": "PMA (feat. Pale Waves)",
-      "url": "https://open.spotify.com/track/52BHuLFKoBemaQ1oOPFhFZ"
+      "duration_ms": 216546,
+      "name": "Six Feet Under The Stars",
+      "url": "https://open.spotify.com/track/3MfRql0HwuxEZzGpoIC832"
     },
     {
       "added_at": null,
@@ -351,18 +347,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "So Wrong, It's Right",
-        "url": "https://open.spotify.com/album/0H4ELcHequ3OligrjWfrZP"
+        "name": "PMA (feat. Pale Waves)",
+        "url": "https://open.spotify.com/album/2Q6u1VzybZKzXfPMPQkyuz"
       },
       "artists": [
         {
           "name": "All Time Low",
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        },
+        {
+          "name": "Pale Waves",
+          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
         }
       ],
-      "duration_ms": 216546,
-      "name": "Six Feet Under The Stars",
-      "url": "https://open.spotify.com/track/3MfRql0HwuxEZzGpoIC832"
+      "duration_ms": 191757,
+      "name": "PMA (feat. Pale Waves)",
+      "url": "https://open.spotify.com/track/52BHuLFKoBemaQ1oOPFhFZ"
     },
     {
       "added_at": null,
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 180599,
-      "name": "Sleeping In",
-      "url": "https://open.spotify.com/track/402Ecma69MRxeQK6ml6YbI"
+      "duration_ms": 223994,
+      "name": "Some Kind of Disaster",
+      "url": "https://open.spotify.com/track/02lU0Hj680zVexT4GqJJZ4"
     },
     {
       "added_at": null,
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 223994,
-      "name": "Some Kind of Disaster",
-      "url": "https://open.spotify.com/track/02lU0Hj680zVexT4GqJJZ4"
+      "duration_ms": 180599,
+      "name": "Sleeping In",
+      "url": "https://open.spotify.com/track/402Ecma69MRxeQK6ml6YbI"
     },
     {
       "added_at": null,

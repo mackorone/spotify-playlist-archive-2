@@ -4,7 +4,7 @@
 
 > Mantras for meditation
 
-193 songs - 1 day 22 hr 28 min
+194 songs - 1 day 23 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Amitayus](https://open.spotify.com/track/57s4nYX7mglYseLG1RELMS) | [Buddhist Monks](https://open.spotify.com/artist/71M5KBWnBCoGYGJxudnGBW) | [Live Mantra](https://open.spotify.com/album/29QB7nHpA8SU435vVage0Y) | 2:51 | 2023-05-23 | 2023-06-09 |
 | [Antarjami Purakh Bidhate](https://open.spotify.com/track/6gKNIl2Cv47OKDa9JKwX40) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Mantras for Positive Energy](https://open.spotify.com/album/7C97tpyMI6dTlWVAkWXBZ7) | 11:20 | 2022-01-24 |  |
 | [Bajrang Baan](https://open.spotify.com/track/1Ab0PsTSuqFjU3hxdzZ41t) | [GowraHari](https://open.spotify.com/artist/1GEwRtJ6snJ0z2hzmXAG80), [Saicharan Bhaskaruni](https://open.spotify.com/artist/32rgf5uvf7GtEPjrHyJ6uU), [Lokeshwar Edara](https://open.spotify.com/artist/7ag0al5P3y3IzzEh0G7YL8), [Harshavardhan Chavali](https://open.spotify.com/artist/4ViFjJxWBVs6VrXj72J05G) | [Bajrang Baan](https://open.spotify.com/album/4ElIZIv6fb4LRQpwIh8Kre) | 5:37 | 2026-01-22 |  |
-| [Beej Mantra](https://open.spotify.com/track/3VNUYQmYbWMzOuaHN3wTJj) | [Pandit Jasraj](https://open.spotify.com/artist/6vvIQFcpGLIum7HYhYwNx0) | [Ganesh](https://open.spotify.com/album/7Lz3EKOyxykUNf9Woixb8E) | 4:57 | 2024-09-05 |  |
+| [Beej Mantra](https://open.spotify.com/track/3VNUYQmYbWMzOuaHN3wTJj) | [Pandit Jasraj](https://open.spotify.com/artist/6vvIQFcpGLIum7HYhYwNx0) | [Ganesh](https://open.spotify.com/album/7Lz3EKOyxykUNf9Woixb8E) | 4:57 | 2024-09-05 | 2026-04-12 |
 | [Bendición de Guru](https://open.spotify.com/track/5rNgiNxnzyeKYCVA9yTqSg) | [Lama Dorje](https://open.spotify.com/artist/1zTJulYHHc7xqncJh2qw9Z) | [Mantras Budista](https://open.spotify.com/album/7AfpljlxDdVVf4AQcpjamv) | 4:29 | 2024-12-30 |  |
 | [Bhairavi Vandana](https://open.spotify.com/track/2BPfuEhYccGXJe4nXCW9XT) | [Sounds of Isha](https://open.spotify.com/artist/07dLDdQaGtCzRksu1phXbG) | [Triveni: Durga, Lakshmi, Saraswati](https://open.spotify.com/album/5339WvUHRv9qRGG4G0pmQv) | 5:15 | 2023-05-23 |  |
 | [Buddham Sharanam Gachhami \(Buddha Chants, Pt\. 4\)](https://open.spotify.com/track/1gxt3cazhB9VbauY2iEfoe) | [Amit Mishra](https://open.spotify.com/artist/2LgKrgRJcbJlt14i1LTzDU), [Flipsyd](https://open.spotify.com/artist/0FLg7KXUSAjWEgpuU09Itb) | [Buddham Sharanam Gachhami \(Buddha Chants, Pt\. 4\)](https://open.spotify.com/album/7uLLOVFMzasRXNupYHQGtX) | 4:46 | 2025-03-25 |  |
@@ -39,6 +39,7 @@
 | [Gayatri Mantra](https://open.spotify.com/track/6Pxkly12ehE2VNASvzIixs) | [Raghav Sachar](https://open.spotify.com/artist/7nVsNB3N2S3AoAyvIPNXlj) | [Gayatri Mantra](https://open.spotify.com/album/1X42voH71W82ExkkJfno1Z) | 3:08 | 2026-02-19 |  |
 | [Gayatri Mantra \(108 Times\)](https://open.spotify.com/track/3DsFfzvxc9kHbG1q7l5eZJ) | [Vibhuti Vaity](https://open.spotify.com/artist/2ou5DGQBNMTiks8rkMtowx), [Rajshree Agarwal](https://open.spotify.com/artist/1xplyUBGhB2VU3bkIWI05C), [Abhinay Jain](https://open.spotify.com/artist/76VyCCJKWRtgRk7JSC32bW) | [Gayatri Mantra](https://open.spotify.com/album/3KuTEH3Gcspp4jz1icbKzi) | 36:50 | 2024-02-15 | 2024-04-19 |
 | [Gayatri Mantra \(108 Times\)](https://open.spotify.com/track/5PFiiReo58SGPeKfEnRuc8) | [Vibhuti Vaity](https://open.spotify.com/artist/2ou5DGQBNMTiks8rkMtowx), [Rajshree Agarwal](https://open.spotify.com/artist/1xplyUBGhB2VU3bkIWI05C), [Abhinay Jain](https://open.spotify.com/artist/76VyCCJKWRtgRk7JSC32bW) | [Gayatri Mantra](https://open.spotify.com/album/6yAEcjB0tVVFcrJB7i0FdB) | 36:50 | 2023-09-15 | 2024-12-31 |
+| [Gayatri Mantra 108 Times](https://open.spotify.com/track/20PZKyB4QLEMgAkbAHnzFX) | [Amit Sawant](https://open.spotify.com/artist/1Vd1MrlSSOKlCG1nL3amJj) | [Gayatri Mantra 108 Times](https://open.spotify.com/album/6ownMtjFdSqL4USFMfzqul) | 56:30 | 2026-04-06 |  |
 | [Gayatri Mantra 108 Times](https://open.spotify.com/track/3ZkrJk4fRxrRmY9vTnPqfb) | [Dr\. Rahul Joshi](https://open.spotify.com/artist/71cFvaV1O8Jb5jzJc86YLr) | [Gayatri Mantra 108 Times \- Single](https://open.spotify.com/album/2ghS5qaKObWNuoXbRgD9LU) | 47:29 | 2022-01-24 | 2023-06-23 |
 | [Gayatri Mantra 108 Times](https://open.spotify.com/track/6WX94Hv9LXIzxKvJYJUhMy) | [Dr\. Rahul Joshi](https://open.spotify.com/artist/71cFvaV1O8Jb5jzJc86YLr) | [Gayatri Mantra 108 Times \- Single](https://open.spotify.com/album/76rIJ92IJGiqPju3epWuoM) | 47:29 | 2022-01-24 | 2023-03-12 |
 | [Gayatri Mantra 108 Times](https://open.spotify.com/track/2v1mkc6rK4XB5zWiMwsIgG) | [Lakshit Patiyal](https://open.spotify.com/artist/3hnTXNBUgGp2FJ2Pu6hBbe), [Insane Muzik](https://open.spotify.com/artist/3i0fKusLUkw5dq9ypNQMzq) | [Gayatri Mantra 108 Times](https://open.spotify.com/album/0ujyZG2HtKKNH2Q6Wu01rw) | 23:24 | 2024-09-29 | 2026-02-17 |

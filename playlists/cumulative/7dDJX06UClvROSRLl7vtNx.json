@@ -27287,6 +27287,28 @@
     },
     {
       "album": {
+        "name": "When I Get Old",
+        "url": "https://open.spotify.com/album/5I2Tg8veMNJcp1w63oiCvV"
+      },
+      "artists": [
+        {
+          "name": "Baked Moon",
+          "url": "https://open.spotify.com/artist/1EakYdOq1DNS0vJEC9Gy8K"
+        },
+        {
+          "name": "blue my mind",
+          "url": "https://open.spotify.com/artist/6D1wjtA3nKandBjo3erjkJ"
+        }
+      ],
+      "date_added": "2026-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130731,
+      "name": "When I Get Old",
+      "url": "https://open.spotify.com/track/0MXckdumBMa8PENNx7kc02"
+    },
+    {
+      "album": {
         "name": "When I'm Lovin\u2019 U",
         "url": "https://open.spotify.com/album/06c9hyMCBoJKpveW5EDmfE"
       },

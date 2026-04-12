@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UnoGuyf388.md) - [plain]
 
 > Pop music driving the current, every week\.  Cover: RAYE
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,456 likes - 65 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,475 likes - 65 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UnoGuyf388.md) - [plain]
 | 64 | [Lonyo!](https://open.spotify.com/track/0oJtICIgw8eoJkMOriYjAP) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Lonyo!](https://open.spotify.com/album/19Me956UK4tz4kL1KKbOeE) | 3:35 |
 | 65 | [KELEBU](https://open.spotify.com/track/6aoKNOL481xVNuqeayQjPj) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [KELEBU](https://open.spotify.com/album/0dTlxJzKKFaUdPoW7aIQIa) | 2:52 |
 
-Snapshot ID: `AAAAAJMlooP8aAGlklM0QLXQ0OgjfSsC`
+Snapshot ID: `AAAAANF4xgHlv8hFCnu5HbgRS2pY/CHX`

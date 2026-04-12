@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOID196oGJfG.md) - [plain]
 | 18 | [body](https://open.spotify.com/track/6Vei3kKN9pPMpBZ9kgF1w8) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [body](https://open.spotify.com/album/1Ys8zFS9GLkPWlTnVX0n7b) | 3:51 |
 | 19 | [ferrari](https://open.spotify.com/track/1MGxxrE534VUAYOiWaWwR2) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [balloons don't float here](https://open.spotify.com/album/4Qb82ieP4gzGzJiRnUNYyw) | 3:45 |
 | 20 | [How Do You Know](https://open.spotify.com/track/1QiGePKveZjlbyZEcdYyF8) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Victory](https://open.spotify.com/album/4T0KHJNt0mCuAyXSXfhQc3) | 4:00 |
-| 21 | [The Ruler](https://open.spotify.com/track/2PNPqJ8V4WZYtsZLgqScLW) | [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [The Ruler](https://open.spotify.com/album/0Y23xE35UnyPKLEilLkyGx) | 3:15 |
-| 22 | [Angel](https://open.spotify.com/track/3NsUoVExP6TwMHcMHvXznV) | [December 10](https://open.spotify.com/artist/3QvfzWcCo67s7bhOYEz5Tr) | [Angel](https://open.spotify.com/album/4LZ608Psrp8ih2PzJc6V32) | 2:27 |
+| 21 | [Angel](https://open.spotify.com/track/3NsUoVExP6TwMHcMHvXznV) | [December 10](https://open.spotify.com/artist/3QvfzWcCo67s7bhOYEz5Tr) | [Angel](https://open.spotify.com/album/4LZ608Psrp8ih2PzJc6V32) | 2:27 |
+| 22 | [The Ruler](https://open.spotify.com/track/2PNPqJ8V4WZYtsZLgqScLW) | [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [The Ruler](https://open.spotify.com/album/0Y23xE35UnyPKLEilLkyGx) | 3:15 |
 | 23 | [No Hard Feelings](https://open.spotify.com/track/7qpPnapb1VUCvr74EnaI4q) | [Navvy](https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24) | [No Hard Feelings](https://open.spotify.com/album/72WLSIvdo0R4NuNHu4pEz7) | 3:25 |
 | 24 | [Happy We Happened](https://open.spotify.com/track/3mEUU5VAHA5TMQHs2vLLWi) | [Carter Ryan](https://open.spotify.com/artist/2hg54ZO1N0bQXbTlLKWSnc) | [Happy We Happened](https://open.spotify.com/album/3Q16F8hTgZAWFniox8j8Ol) | 2:57 |
 | 25 | [Loving Means Leaving](https://open.spotify.com/track/2ySKEa16GDpwon90g1cILI) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [A Heart Is a Terrible Thing to Break](https://open.spotify.com/album/6mBNXZGN2V1JmcUhjlxU3q) | 3:03 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOID196oGJfG.md) - [plain]
 | 40 | [Unhappy](https://open.spotify.com/track/5u3j8OZnb4PP4B3gnTjuoO) | [GRAACE](https://open.spotify.com/artist/4nqqGSsclFchZXaiafOYyV) | [Self Preservation](https://open.spotify.com/album/4plpuG3ZuucaxXhIo2gobJ) | 3:08 |
 | 41 | [I Love It When You're Low](https://open.spotify.com/track/4SNXOFgK2f3TUkj4ZBt9T8) | [LORYN](https://open.spotify.com/artist/0ryyI8NGZJ4MLeRfwbkODZ) | [Less Is More](https://open.spotify.com/album/3OAGrLvtuYjT7Zy6V3EKkp) | 3:06 |
 
-Snapshot ID: `AcOg4AAAAADTt9Cyv0cVxtazMKHF/wiz`
+Snapshot ID: `AcOmqAAAAAB78i6lBdbfOjGlEZmHiU53`

@@ -1,6 +1,6 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3916954,
+  "num_followers": 3916851,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2026-04-09 22:02:50",
       "album": {
+        "name": "Dark In This Room",
+        "url": "https://open.spotify.com/album/0wrMY5uUsBFVvfnXLLeA6z"
+      },
+      "artists": [
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Dark In This Room",
+      "url": "https://open.spotify.com/track/5F99affpmfcqtaVu1hO5dw"
+    },
+    {
+      "added_at": "2026-04-09 22:02:50",
+      "album": {
         "name": "The Thought of You",
         "url": "https://open.spotify.com/album/6d0iQSicRabPDucJ2YspZD"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 262008,
       "name": "The Thought of You",
       "url": "https://open.spotify.com/track/2KbMdgWDWQSHPd9wRMV8ka"
-    },
-    {
-      "added_at": "2026-04-09 22:02:50",
-      "album": {
-        "name": "Dark In This Room",
-        "url": "https://open.spotify.com/album/0wrMY5uUsBFVvfnXLLeA6z"
-      },
-      "artists": [
-        {
-          "name": "CRi",
-          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "Dark In This Room",
-      "url": "https://open.spotify.com/track/5F99affpmfcqtaVu1hO5dw"
     },
     {
       "added_at": "2026-04-09 22:02:50",
@@ -1443,26 +1443,6 @@
     {
       "added_at": "2026-04-09 22:02:50",
       "album": {
-        "name": "blinded",
-        "url": "https://open.spotify.com/album/068Ad4vmafuvDv2AARyYLM"
-      },
-      "artists": [
-        {
-          "name": "Le Youth",
-          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
-        },
-        {
-          "name": "Orem",
-          "url": "https://open.spotify.com/artist/1HjQ6IQwNatqgTtFnklIoL"
-        }
-      ],
-      "duration_ms": 259400,
-      "name": "blinded",
-      "url": "https://open.spotify.com/track/0RExYs6iWZwRpIMRnbofMi"
-    },
-    {
-      "added_at": "2026-04-09 22:02:50",
-      "album": {
         "name": "Screen",
         "url": "https://open.spotify.com/album/0vMC7XHhED9lyzCDor1rXu"
       },
@@ -1483,6 +1463,26 @@
       "duration_ms": 246147,
       "name": "Screen",
       "url": "https://open.spotify.com/track/4Jwjq4kSi0IroSqO52Ob6M"
+    },
+    {
+      "added_at": "2026-04-09 22:02:50",
+      "album": {
+        "name": "blinded",
+        "url": "https://open.spotify.com/album/068Ad4vmafuvDv2AARyYLM"
+      },
+      "artists": [
+        {
+          "name": "Le Youth",
+          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
+        },
+        {
+          "name": "Orem",
+          "url": "https://open.spotify.com/artist/1HjQ6IQwNatqgTtFnklIoL"
+        }
+      ],
+      "duration_ms": 259400,
+      "name": "blinded",
+      "url": "https://open.spotify.com/track/0RExYs6iWZwRpIMRnbofMi"
     },
     {
       "added_at": "2026-04-09 22:02:50",
@@ -1683,6 +1683,30 @@
     {
       "added_at": "2026-04-09 22:02:50",
       "album": {
+        "name": "See My Soul",
+        "url": "https://open.spotify.com/album/6pCdAFYi2NujUtttD0fPQJ"
+      },
+      "artists": [
+        {
+          "name": "Lynnic",
+          "url": "https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT"
+        },
+        {
+          "name": "ItsArius",
+          "url": "https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27"
+        },
+        {
+          "name": "Courtney Storm",
+          "url": "https://open.spotify.com/artist/6zd0ClAbzCmZ9qReLzekUV"
+        }
+      ],
+      "duration_ms": 221250,
+      "name": "See My Soul",
+      "url": "https://open.spotify.com/track/5IDYlNp75toRLVVdaZL8W6"
+    },
+    {
+      "added_at": "2026-04-09 22:02:50",
+      "album": {
         "name": "Fool",
         "url": "https://open.spotify.com/album/4NX1hljajlgXtjhMWFbNJb"
       },
@@ -1779,6 +1803,22 @@
     {
       "added_at": "2026-04-09 22:02:50",
       "album": {
+        "name": "LOVE",
+        "url": "https://open.spotify.com/album/3XzF1AVLmTtSA9exleQY0V"
+      },
+      "artists": [
+        {
+          "name": "Eric Luttrell",
+          "url": "https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "LOVE",
+      "url": "https://open.spotify.com/track/2Ci8fAS7bgl1RMHiWzJvcD"
+    },
+    {
+      "added_at": "2026-04-09 22:02:50",
+      "album": {
         "name": "Promise Me",
         "url": "https://open.spotify.com/album/1MIt6ANHK9beYtRBQqxup4"
       },
@@ -1815,26 +1855,6 @@
     {
       "added_at": "2026-04-09 22:02:50",
       "album": {
-        "name": "Future Hearts",
-        "url": "https://open.spotify.com/album/139N7ZPYhh5SGXCoe4ladv"
-      },
-      "artists": [
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
-        },
-        {
-          "name": "Ravid",
-          "url": "https://open.spotify.com/artist/0skRhVJnuKDMGoLkqr1MAL"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Future Hearts",
-      "url": "https://open.spotify.com/track/4WLzJ35y78zny5vltK7HLs"
-    },
-    {
-      "added_at": "2026-04-09 22:02:50",
-      "album": {
         "name": "Can't Read Your Mind",
         "url": "https://open.spotify.com/album/7nl7JCskc9bFG6Hb1R9Peu"
       },
@@ -1855,18 +1875,22 @@
     {
       "added_at": "2026-04-09 22:02:50",
       "album": {
-        "name": "LOVE",
-        "url": "https://open.spotify.com/album/3XzF1AVLmTtSA9exleQY0V"
+        "name": "Future Hearts",
+        "url": "https://open.spotify.com/album/139N7ZPYhh5SGXCoe4ladv"
       },
       "artists": [
         {
-          "name": "Eric Luttrell",
-          "url": "https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2"
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
+        },
+        {
+          "name": "Ravid",
+          "url": "https://open.spotify.com/artist/0skRhVJnuKDMGoLkqr1MAL"
         }
       ],
-      "duration_ms": 201600,
-      "name": "LOVE",
-      "url": "https://open.spotify.com/track/2Ci8fAS7bgl1RMHiWzJvcD"
+      "duration_ms": 236000,
+      "name": "Future Hearts",
+      "url": "https://open.spotify.com/track/4WLzJ35y78zny5vltK7HLs"
     },
     {
       "added_at": "2026-04-09 22:02:50",
@@ -1891,38 +1915,6 @@
     {
       "added_at": "2026-04-09 22:02:50",
       "album": {
-        "name": "Devices / Green",
-        "url": "https://open.spotify.com/album/3KxNq8zMtKQkZlZqnsW3xm"
-      },
-      "artists": [
-        {
-          "name": "Tycho",
-          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
-        }
-      ],
-      "duration_ms": 310560,
-      "name": "Devices",
-      "url": "https://open.spotify.com/track/3aTLs7K3otOLePj92JM8Be"
-    },
-    {
-      "added_at": "2026-04-09 22:02:50",
-      "album": {
-        "name": "Mine",
-        "url": "https://open.spotify.com/album/1VrpTWfDRK2pdzgGSoyDty"
-      },
-      "artists": [
-        {
-          "name": "narou",
-          "url": "https://open.spotify.com/artist/4WZfEIgHLAMmAxATgVjspH"
-        }
-      ],
-      "duration_ms": 232133,
-      "name": "Mine",
-      "url": "https://open.spotify.com/track/0s9vuU1DPc3Us9TboMMeK8"
-    },
-    {
-      "added_at": "2026-04-09 22:02:50",
-      "album": {
         "name": "Light in the Dark",
         "url": "https://open.spotify.com/album/0EBLHOBqzQAy27J7mBzaId"
       },
@@ -1939,6 +1931,22 @@
       "duration_ms": 210967,
       "name": "Light in the Dark",
       "url": "https://open.spotify.com/track/4Ujt0vphNuVoXIaxkfKcwM"
+    },
+    {
+      "added_at": "2026-04-09 22:02:50",
+      "album": {
+        "name": "Devices / Green",
+        "url": "https://open.spotify.com/album/3KxNq8zMtKQkZlZqnsW3xm"
+      },
+      "artists": [
+        {
+          "name": "Tycho",
+          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+        }
+      ],
+      "duration_ms": 310560,
+      "name": "Devices",
+      "url": "https://open.spotify.com/track/3aTLs7K3otOLePj92JM8Be"
     }
   ],
   "unique_name": "Chill Tracks",

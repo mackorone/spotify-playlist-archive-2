@@ -1,6 +1,6 @@
 {
   "description": "Jazz for breakfast to start your day right.",
-  "num_followers": 440766,
+  "num_followers": 440820,
   "original_name": "Good Morning Jazz",
   "owner": {
     "name": "Spotify",
@@ -519,18 +519,26 @@
     {
       "added_at": "2026-04-10 09:28:57",
       "album": {
-        "name": "Jennie / Gravol",
-        "url": "https://open.spotify.com/album/3cU5aG5kVY2PERgkd0EXNJ"
+        "name": "The Velvet Blues",
+        "url": "https://open.spotify.com/album/3Td7ptaHioLJ3THpiRvZ4l"
       },
       "artists": [
         {
-          "name": "Hederosgruppen",
-          "url": "https://open.spotify.com/artist/0UNiBtRacvAnbospnyiEhw"
+          "name": "Carsten Dahl",
+          "url": "https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda"
+        },
+        {
+          "name": "Lennart Ginman",
+          "url": "https://open.spotify.com/artist/2s2DJXB8q7ahN97T2gAeKX"
+        },
+        {
+          "name": "Thomas Blachman",
+          "url": "https://open.spotify.com/artist/2HJEk3ULU54nb5csZV35Aw"
         }
       ],
-      "duration_ms": 364741,
-      "name": "Jennie",
-      "url": "https://open.spotify.com/track/5pvXycrzupnyDZT1FVuwEL"
+      "duration_ms": 276040,
+      "name": "Somewhere over the Rainbow",
+      "url": "https://open.spotify.com/track/6WaLMmbnmG1T2HWm5hwKOU"
     },
     {
       "added_at": "2026-04-10 09:28:57",
@@ -575,26 +583,34 @@
     {
       "added_at": "2026-04-10 09:28:57",
       "album": {
-        "name": "The Velvet Blues",
-        "url": "https://open.spotify.com/album/3Td7ptaHioLJ3THpiRvZ4l"
+        "name": "Jennie / Gravol",
+        "url": "https://open.spotify.com/album/3cU5aG5kVY2PERgkd0EXNJ"
       },
       "artists": [
         {
-          "name": "Carsten Dahl",
-          "url": "https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda"
-        },
-        {
-          "name": "Lennart Ginman",
-          "url": "https://open.spotify.com/artist/2s2DJXB8q7ahN97T2gAeKX"
-        },
-        {
-          "name": "Thomas Blachman",
-          "url": "https://open.spotify.com/artist/2HJEk3ULU54nb5csZV35Aw"
+          "name": "Hederosgruppen",
+          "url": "https://open.spotify.com/artist/0UNiBtRacvAnbospnyiEhw"
         }
       ],
-      "duration_ms": 276040,
-      "name": "Somewhere over the Rainbow",
-      "url": "https://open.spotify.com/track/6WaLMmbnmG1T2HWm5hwKOU"
+      "duration_ms": 364741,
+      "name": "Jennie",
+      "url": "https://open.spotify.com/track/5pvXycrzupnyDZT1FVuwEL"
+    },
+    {
+      "added_at": "2026-04-10 09:28:57",
+      "album": {
+        "name": "These Simple Things",
+        "url": "https://open.spotify.com/album/6J9bDFXg7ofIXZ3QQelMjl"
+      },
+      "artists": [
+        {
+          "name": "Triosence",
+          "url": "https://open.spotify.com/artist/2NxFqOk7uZCe0hxfohdWJX"
+        }
+      ],
+      "duration_ms": 308525,
+      "name": "These Simple Things",
+      "url": "https://open.spotify.com/track/3YrOOO4f2ENqK3geQiTpat"
     },
     {
       "added_at": "2026-04-10 09:28:57",
@@ -619,22 +635,6 @@
     {
       "added_at": "2026-04-10 09:28:57",
       "album": {
-        "name": "These Simple Things",
-        "url": "https://open.spotify.com/album/6J9bDFXg7ofIXZ3QQelMjl"
-      },
-      "artists": [
-        {
-          "name": "Triosence",
-          "url": "https://open.spotify.com/artist/2NxFqOk7uZCe0hxfohdWJX"
-        }
-      ],
-      "duration_ms": 308525,
-      "name": "These Simple Things",
-      "url": "https://open.spotify.com/track/3YrOOO4f2ENqK3geQiTpat"
-    },
-    {
-      "added_at": "2026-04-10 09:28:57",
-      "album": {
         "name": "Uncle John's Band",
         "url": "https://open.spotify.com/album/1Plvo3OJgozxDluN4QKoTo"
       },
@@ -655,6 +655,30 @@
       "duration_ms": 386786,
       "name": "Uncle John\u2019s Band",
       "url": "https://open.spotify.com/track/6bt7GwrXpUgIeXMw16yBkY"
+    },
+    {
+      "added_at": "2026-04-10 09:28:57",
+      "album": {
+        "name": "Song for Helen",
+        "url": "https://open.spotify.com/album/47cyt84sqfEw15Zvq6CCdV"
+      },
+      "artists": [
+        {
+          "name": "Enrico Pieranunzi",
+          "url": "https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP"
+        },
+        {
+          "name": "Bebo Ferra",
+          "url": "https://open.spotify.com/artist/7x68038NwGK0HcnZh49aMB"
+        },
+        {
+          "name": "Diego Imbert",
+          "url": "https://open.spotify.com/artist/0jdE0ynq5zcnMeAn9XutIX"
+        }
+      ],
+      "duration_ms": 277026,
+      "name": "Song for Helen",
+      "url": "https://open.spotify.com/track/793md1IobZmADtYbsCo2YH"
     },
     {
       "added_at": "2026-04-10 09:28:57",
@@ -743,22 +767,6 @@
     {
       "added_at": "2026-04-10 09:28:57",
       "album": {
-        "name": "Take Ten",
-        "url": "https://open.spotify.com/album/5QGF8v9Qxf021ctF5MqZ7i"
-      },
-      "artists": [
-        {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
-        }
-      ],
-      "duration_ms": 366173,
-      "name": "Nancy",
-      "url": "https://open.spotify.com/track/4RbdHV0AcJa8pOPFI7jd2g"
-    },
-    {
-      "added_at": "2026-04-10 09:28:57",
-      "album": {
         "name": "Amelia",
         "url": "https://open.spotify.com/album/12RPTPkpm9bA9LvN8BOSW3"
       },
@@ -783,6 +791,22 @@
     {
       "added_at": "2026-04-10 09:28:57",
       "album": {
+        "name": "Take Ten",
+        "url": "https://open.spotify.com/album/5QGF8v9Qxf021ctF5MqZ7i"
+      },
+      "artists": [
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        }
+      ],
+      "duration_ms": 366173,
+      "name": "Nancy",
+      "url": "https://open.spotify.com/track/4RbdHV0AcJa8pOPFI7jd2g"
+    },
+    {
+      "added_at": "2026-04-10 09:28:57",
+      "album": {
         "name": "Waltz for Hal Willner",
         "url": "https://open.spotify.com/album/3UJN3LrJVHiPnAuneBgCSK"
       },
@@ -795,30 +819,6 @@
       "duration_ms": 167906,
       "name": "Waltz for Hal Willner",
       "url": "https://open.spotify.com/track/5GiqJaoSZn8pMpYztkKeR1"
-    },
-    {
-      "added_at": "2026-04-10 09:28:57",
-      "album": {
-        "name": "Song for Helen",
-        "url": "https://open.spotify.com/album/47cyt84sqfEw15Zvq6CCdV"
-      },
-      "artists": [
-        {
-          "name": "Enrico Pieranunzi",
-          "url": "https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP"
-        },
-        {
-          "name": "Bebo Ferra",
-          "url": "https://open.spotify.com/artist/7x68038NwGK0HcnZh49aMB"
-        },
-        {
-          "name": "Diego Imbert",
-          "url": "https://open.spotify.com/artist/0jdE0ynq5zcnMeAn9XutIX"
-        }
-      ],
-      "duration_ms": 277026,
-      "name": "Song for Helen",
-      "url": "https://open.spotify.com/track/793md1IobZmADtYbsCo2YH"
     },
     {
       "added_at": "2026-04-10 09:28:57",
@@ -963,6 +963,22 @@
     {
       "added_at": "2026-04-10 09:28:57",
       "album": {
+        "name": "Tell Him I Said Hello",
+        "url": "https://open.spotify.com/album/5igLwfMr78OI5MXHbvXksZ"
+      },
+      "artists": [
+        {
+          "name": "Nicole Glover",
+          "url": "https://open.spotify.com/artist/3b45vGS2YWLMEzUE0R5PhT"
+        }
+      ],
+      "duration_ms": 337160,
+      "name": "Tell Him I Said Hello",
+      "url": "https://open.spotify.com/track/2Lgi3cSv27mb2JkvGAdEX8"
+    },
+    {
+      "added_at": "2026-04-10 09:28:57",
+      "album": {
         "name": "Oh Brother",
         "url": "https://open.spotify.com/album/3DC22laI2ExbcsQ5vX7M1g"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 364700,
       "name": "Oh Brother",
       "url": "https://open.spotify.com/track/3DxZ8GyNWXaCnR01vvZjkY"
-    },
-    {
-      "added_at": "2026-04-10 09:28:57",
-      "album": {
-        "name": "Tell Him I Said Hello",
-        "url": "https://open.spotify.com/album/5igLwfMr78OI5MXHbvXksZ"
-      },
-      "artists": [
-        {
-          "name": "Nicole Glover",
-          "url": "https://open.spotify.com/artist/3b45vGS2YWLMEzUE0R5PhT"
-        }
-      ],
-      "duration_ms": 337160,
-      "name": "Tell Him I Said Hello",
-      "url": "https://open.spotify.com/track/2Lgi3cSv27mb2JkvGAdEX8"
     },
     {
       "added_at": "2026-04-10 09:28:57",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2026-04-10 09:28:57",
       "album": {
-        "name": "The Way to Be",
-        "url": "https://open.spotify.com/album/4MkGtCy6yGfSlT6cSlvaUg"
-      },
-      "artists": [
-        {
-          "name": "Harry Allen",
-          "url": "https://open.spotify.com/artist/7HEPzI1k3SXs2lJ3EixmjR"
-        }
-      ],
-      "duration_ms": 219432,
-      "name": "The Way to Be",
-      "url": "https://open.spotify.com/track/6VcOTpAa3fmU3lZBsAntTj"
-    },
-    {
-      "added_at": "2026-04-10 09:28:57",
-      "album": {
         "name": "Smoke Rings",
         "url": "https://open.spotify.com/album/3cuyGBeGovNSkafVyR5V9Q"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 270339,
       "name": "Smoke Rings",
       "url": "https://open.spotify.com/track/68Bi9EUUa5jNvpD5sEwGOT"
+    },
+    {
+      "added_at": "2026-04-10 09:28:57",
+      "album": {
+        "name": "The Way to Be",
+        "url": "https://open.spotify.com/album/4MkGtCy6yGfSlT6cSlvaUg"
+      },
+      "artists": [
+        {
+          "name": "Harry Allen",
+          "url": "https://open.spotify.com/artist/7HEPzI1k3SXs2lJ3EixmjR"
+        }
+      ],
+      "duration_ms": 219432,
+      "name": "The Way to Be",
+      "url": "https://open.spotify.com/track/6VcOTpAa3fmU3lZBsAntTj"
     },
     {
       "added_at": "2026-04-10 09:28:57",

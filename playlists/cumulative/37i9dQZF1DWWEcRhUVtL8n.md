@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Ravyn Lenae & Dominic Fike
 
-2,368 songs - 5 day 6 hr 8 min
+2,369 songs - 5 day 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -444,7 +444,7 @@
 | [Come Home](https://open.spotify.com/track/4Hs0dbbWphP4ILaGaV9dYb) | [Jace June](https://open.spotify.com/artist/0Hsm1DHvcL8kNCWRlZAxkP) | [Come Home](https://open.spotify.com/album/2I8n3Hm1SWZz7HfOTP281M) | 2:48 | 2025-03-28 | 2026-02-21 |
 | [Come Home](https://open.spotify.com/track/6NpkEt1C0m5AnK13Y76qR5) | [Softee](https://open.spotify.com/artist/3uWJaTLnUnp0wZfB5xcdJy) | [Come Home](https://open.spotify.com/album/3sSmnR952IGjKyhsNZlcxJ) | 3:43 | 2023-02-04 | 2023-02-11 |
 | [come on come on](https://open.spotify.com/track/0DtBLzMEDG3xWgr516VOM3) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [come on come on](https://open.spotify.com/album/56zGeV8gCqo1RXNiOx6JJo) | 2:47 | 2021-01-17 | 2021-06-03 |
-| [Come To God](https://open.spotify.com/track/3BR1VoYGdznLtRIhRUUZ0J) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Come To God](https://open.spotify.com/album/3LdJFujF3iS82kdG8KMNdo) | 2:37 | 2026-03-27 |  |
+| [Come To God](https://open.spotify.com/track/3BR1VoYGdznLtRIhRUUZ0J) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Come To God](https://open.spotify.com/album/3LdJFujF3iS82kdG8KMNdo) | 2:37 | 2026-03-27 | 2026-04-12 |
 | [Coming For Ya](https://open.spotify.com/track/5jAfv9Pn47goB2LD67Yimh) | [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [Coming For Ya](https://open.spotify.com/album/0BwHDNebdYqyqJlz4E5EXj) | 3:13 | 2021-06-03 | 2021-10-05 |
 | [Coming Home](https://open.spotify.com/track/7qGnlI5MrFAs3OHU1E7Wpa) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Coming Home](https://open.spotify.com/album/5xJOewC53fRL37VrHco2de) | 2:16 | 2024-06-07 | 2024-11-21 |
 | [coming of age](https://open.spotify.com/track/0bmBT74X61khNZckpm6qWi) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [coming of age](https://open.spotify.com/album/16dHQevaWoeNkgMQxa4PD5) | 2:38 | 2022-05-13 | 2022-07-29 |
@@ -2034,6 +2034,7 @@
 | [Sweat You Out My System](https://open.spotify.com/track/6PWJ0aOLUcQ1sqeqikPRjy) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Sweat You Out My System](https://open.spotify.com/album/7FTGQ7UcBkyxH6c92dDLAi) | 3:09 | 2023-01-23 | 2023-03-12 |
 | [Sweatshirt](https://open.spotify.com/track/7G8r6LUWl9JVvQjlFyg1gq) | [X Lovers](https://open.spotify.com/artist/1Hr5Adjkxh6ihfsoahOY38) | [Sweatshirt](https://open.spotify.com/album/4Hpz6r8vf6XBZesSWG20A2) | 3:16 | 2020-10-20 | 2020-10-21 |
 | [Sweet Boy](https://open.spotify.com/track/59c2xv2kMzYM6HR9oY6BIa) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Sweet Boy](https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ) | 3:00 | 2025-08-18 | 2026-03-21 |
+| [Sweet Hallelujah](https://open.spotify.com/track/6EoD3qpTgNtwXNqamzLCn5) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sweet Hallelujah](https://open.spotify.com/album/68nIcmHCJpK8DfX4YPWmb0) | 3:02 | 2026-04-10 |  |
 | [Sweet N Low](https://open.spotify.com/track/0f4motUd4Dn7UXr6I7GUsG) | [Henry Morris](https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq) | [Sweet N Low](https://open.spotify.com/album/7e0ZCDgmeakv4Fqz1tIq1G) | 2:59 | 2024-01-12 | 2024-04-10 |
 | [sweeter than drugs](https://open.spotify.com/track/6hPIwV7Cs1zVNaWVJZCWoH) | [april june](https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG) | [sweeter than drugs](https://open.spotify.com/album/4farqEcbjG87qRN7WIg5Iw) | 2:48 | 2024-01-12 | 2024-02-03 |
 | [Swing of Things](https://open.spotify.com/track/3RdeNliZsyeL5oph6uvULC) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Swing of Things](https://open.spotify.com/album/33F6zJv4F7A4WfvxmyDdnN) | 2:58 | 2021-06-02 | 2022-04-16 |

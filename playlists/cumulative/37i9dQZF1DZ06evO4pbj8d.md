@@ -4,7 +4,7 @@
 
 > This is Joy Oladokun\. The essential tracks, all in one playlist.
 
-105 songs - 5 hr 59 min
+106 songs - 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Dear Maria](https://open.spotify.com/track/474l0bzcgUT8Y6e8pul43i) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [May](https://open.spotify.com/album/0zL7IkhuOdQtIKp999gDv6) | 3:13 | 2025-06-01 |  |
 | [DRUGS](https://open.spotify.com/track/0q4DbCRYxEAZQXXyCFhNe3) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [OBSERVATIONS FROM A CROWDED ROOM](https://open.spotify.com/album/7gPXVcBGrnnIXfC68nyFtV) | 3:23 | 2024-11-01 |  |
 | [DRUGS](https://open.spotify.com/track/2kJUgk2aoKWN1cP1lErEOj) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [DRUGS](https://open.spotify.com/album/67T0rpWRDBsHTVSCZqxC7e) | 3:23 | 2024-07-21 | 2024-11-01 |
-| [DUST/DIVINITY](https://open.spotify.com/track/52PFBc2sSdQOcDxfjLZPNi) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [OBSERVATIONS FROM A CROWDED ROOM](https://open.spotify.com/album/7gPXVcBGrnnIXfC68nyFtV) | 3:43 | 2024-10-20 |  |
+| [DUST/DIVINITY](https://open.spotify.com/track/52PFBc2sSdQOcDxfjLZPNi) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [OBSERVATIONS FROM A CROWDED ROOM](https://open.spotify.com/album/7gPXVcBGrnnIXfC68nyFtV) | 3:43 | 2024-10-20 | 2026-04-12 |
 | [Fight for It](https://open.spotify.com/track/6utNdBDGTw1DRUQLn20T7b) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Carry](https://open.spotify.com/album/0yUV7CmhrBa3a30vrzk3dt) | 3:40 | 2022-09-16 | 2023-04-30 |
 | [flowers](https://open.spotify.com/track/6y3cOwUVb3MZQQzzLcscYb) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [OBSERVATIONS FROM A CROWDED ROOM](https://open.spotify.com/album/7gPXVcBGrnnIXfC68nyFtV) | 3:44 | 2024-10-21 | 2026-04-07 |
 | [Flyin' High \(In The Friendly Sky\)](https://open.spotify.com/track/3K7eIFjBMP37ueJaApIJ1k) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [What's Going On](https://open.spotify.com/album/0ZgGiET6nxLm3cQTaMS3gx) | 3:54 | 2022-09-18 | 2023-05-01 |
@@ -63,6 +63,7 @@
 | [My Girl](https://open.spotify.com/track/25TrYuBFlgMIaaQDYZNJoa) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [My Girl](https://open.spotify.com/album/48rv1iGnI8ggoWnKNalXRR) | 3:05 | 2022-09-16 |  |
 | [Nazareth](https://open.spotify.com/track/3Jbv6IxhzJK3jthNIbKheI) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Nazareth](https://open.spotify.com/album/1Ny7Q4HVVdo4fOA99DX4mM) | 3:06 | 2025-04-20 | 2025-11-13 |
 | [NO COUNTRY](https://open.spotify.com/track/3kdsJl2DIuphGlswsCVsu0) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [NO COUNTRY](https://open.spotify.com/album/7ruqdZtzBceRy4B5WVvAlg) | 4:17 | 2024-09-17 | 2024-10-25 |
+| [No Springtime \(ft\. Joy Oladokun & Julie Williams\)](https://open.spotify.com/track/4roCXZFxzB1WrKofdjedQg) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Julie Williams](https://open.spotify.com/artist/4sRUZFWl0hDJg6MW9lHKR9) | [No Springtime \(ft\. Joy Oladokun & Julie Williams\)](https://open.spotify.com/album/66qSzjkzyYbD2cXKauAOVJ) | 3:20 | 2026-04-12 |  |
 | [No Turning Back](https://open.spotify.com/track/6XwtP51GmM6r09dVouba1W) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [No Turning Back](https://open.spotify.com/album/4QWBRmlZjIolh4WBq84jy0) | 3:48 | 2022-09-16 | 2026-04-06 |
 | [Northern Sky \- from The Fire Inside](https://open.spotify.com/track/6ySbh4Se81hlu3oqITPCAL) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Northern Sky \(from The Fire Inside\)](https://open.spotify.com/album/5SUt4IBkcDOfQPtukbwJkO) | 3:30 | 2025-01-19 | 2025-08-05 |
 | [Nothing Comes Easy](https://open.spotify.com/track/1DTsVhtb0tUaYncdT5yT6W) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Nothing Comes Easy](https://open.spotify.com/album/4uPXWqH0hBzxT5u67PxLHy) | 2:54 | 2026-01-18 |  |

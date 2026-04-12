@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,207 songs - 9 day 8 hr 12 min
+4,208 songs - 9 day 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1336,6 +1336,7 @@
 | [Fallo e Basta \(another\)](https://open.spotify.com/track/60BLoEVbGcIQlf3BTwEhss) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Punk rock italiano](https://open.spotify.com/album/31T2HdAXWX1xRStHgoSPoH) | 2:35 | 2025-09-14 |  |
 | [False Down](https://open.spotify.com/track/5Ma05qLUkwsGM3EnlacIl6) | [Christaris](https://open.spotify.com/artist/65bycLZE7csn1qM95wLuCa) | [False Down](https://open.spotify.com/album/40FijVrYIAoj2XFHaKOPR3) | 4:17 | 2026-02-05 |  |
 | [False Love](https://open.spotify.com/track/0ZCCjJEffv3cTFrYkHRAXZ) | [UAC Records](https://open.spotify.com/artist/5YMC2DzzURBLoxLrUKOyF6) | [False Love](https://open.spotify.com/album/2EFcRQn12DMEaPquDNxFGs) | 2:23 | 2025-06-28 |  |
+| [Falta o Sobra](https://open.spotify.com/track/6tDWnFJcIUAxhZ2GVoBQXd) | [Miscellaneous](https://open.spotify.com/artist/4lVq1XJ7brnkOBuzOzznHi) | [Miscellaneous](https://open.spotify.com/album/3suDk3EaTehsxRL6yoEx5s) | 3:53 | 2026-04-11 |  |
 | [Fammi il piacere](https://open.spotify.com/track/3AmxF9vbSlby4ppFyRIZ8Y) | [Oto corpse](https://open.spotify.com/artist/4rQeLvrur32dXAIXU0oWHW), [PPOISON](https://open.spotify.com/artist/7q8XJXCL70Q8JjcPNUQUlE) | [Fammi il piacere](https://open.spotify.com/album/4im2xMfiVtovZFY1cJ2EUz) | 3:22 | 2025-06-08 |  |
 | [Fanfara 1° Funky Reggimento](https://open.spotify.com/track/1vzuMKsy5WDOVaNi7u0SAk) | [Italiani Medi](https://open.spotify.com/artist/6pDVMmLAVZr7n3249bB34G) | [Pasta con l'Odio](https://open.spotify.com/album/0z20JFHPazYmTBBeP5bMXP) | 2:47 | 2025-06-20 |  |
 | [Fangs](https://open.spotify.com/track/1fTAnQ294CTsqcY4gOUfhZ) | [Straight](https://open.spotify.com/artist/7fS7VDiU6F8uH9Ca43R3j2) | [Fangs](https://open.spotify.com/album/1YllGvPPFf07aSEv2ziMEJ) | 3:11 | 2026-02-17 |  |

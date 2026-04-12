@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-682 songs - 2 day 7 hr 53 min
+683 songs - 2 day 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Chasing Ghosts](https://open.spotify.com/track/4uzqcDlCOl0et4pGtfkka5) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Chasing Ghosts](https://open.spotify.com/album/6SjsSADxNyzHxGbh0qQfq4) | 4:12 | 2025-08-22 |  |
 | [Childish](https://open.spotify.com/track/2BMhaksbPZEVPUx4U98WgK) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Childish](https://open.spotify.com/album/2tj4SjIgpp92mAT2wtiDoZ) | 4:50 | 2024-10-01 |  |
 | [China Plate](https://open.spotify.com/track/0aGjzEGpEJgBLb5KoZAS8i) | [djimboh](https://open.spotify.com/artist/7cIzAFnvs0ilTGyfFJY8fd) | [China Plate / Sivonium](https://open.spotify.com/album/21bUJXbaJUOewmKrZfxfjE) | 3:48 | 2023-05-26 | 2025-08-30 |
+| [chrone](https://open.spotify.com/track/0EFCKDoiPI4zTVXrgP2wJR) | [not even noticed](https://open.spotify.com/artist/2pAV7s3FEruu2LJW6JQGFo) | [chrone](https://open.spotify.com/album/19Eq7Kx4RwHPFoLqpzowRJ) | 3:06 | 2026-04-03 |  |
 | [Churches](https://open.spotify.com/track/4PWnRpj7y40SaUUD2fELAn) | [INVŌKER](https://open.spotify.com/artist/2TV6OGSsDnoV2EpybXrNZ1) | [Secret Weapons Part 12](https://open.spotify.com/album/3aN2y7POprvpyRmxOR1hzD) | 4:41 | 2021-12-08 | 2022-07-23 |
 | [Circulations](https://open.spotify.com/track/3MjKR35SfCpO0DTTYNKvTp) | [Lycoriscoris](https://open.spotify.com/artist/44fky3vQ6AYZ15CmNYrmyt) | [Circulations](https://open.spotify.com/album/37XToRwRagx0FQSJNqjKdr) | 5:22 | 2025-08-29 |  |
 | [Citrus](https://open.spotify.com/track/6M6rvs8rX3TmGWaGowu00X) | [Juno Mamba](https://open.spotify.com/artist/5RAHYRgJdI1D82IANP5yYL), [Rino](https://open.spotify.com/artist/2ZEU5Xgl6aQ41zK7NTPo4s) | [Citrus](https://open.spotify.com/album/4fNtkB4ZUhl4cXdTxRlSew) | 4:50 | 2025-12-19 |  |
@@ -273,7 +274,7 @@
 | [It'll All Be Over \- DJ Koze Remix \- Radio Edit](https://open.spotify.com/track/48dojgnBKfp3drKOFdwycc) | [Gerry Read](https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [It'll All Be Over \(DJ Koze Remix \- Radio Edit\)](https://open.spotify.com/album/0T4xFSNi3vOmlC4GUXPfIE) | 3:08 | 2021-12-08 | 2022-02-18 |
 | [It's All Here](https://open.spotify.com/track/2OcG6qGjgkW4zE7HYH0rN9) | [RONA.](https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6) | [It's All Here](https://open.spotify.com/album/6slPM9uKXBhPF1hp8kMuaF) | 4:44 | 2025-09-26 |  |
 | [It's All Love](https://open.spotify.com/track/4KD5P3vY1rZUziFdw2qrKp) | [Ashibah](https://open.spotify.com/artist/5krSTcI0xPGmeloiQTPsYP) | [It's All Love](https://open.spotify.com/album/0bSjpqslnkqZHImdwBIRL0) | 5:15 | 2023-10-13 |  |
-| [It's Alright \- Original Mix](https://open.spotify.com/track/3ABPEz0ASeocrzXOHZix5D) | [Marc Brauner](https://open.spotify.com/artist/6HX3fbKCin6OPe6ZFZ8qsf) | [Radiant EP](https://open.spotify.com/album/43ZuCqtg7zu8dhpvZTJVf2) | 4:49 | 2026-02-06 |  |
+| [It's Alright \- Original Mix](https://open.spotify.com/track/3ABPEz0ASeocrzXOHZix5D) | [Marc Brauner](https://open.spotify.com/artist/6HX3fbKCin6OPe6ZFZ8qsf) | [Radiant EP](https://open.spotify.com/album/43ZuCqtg7zu8dhpvZTJVf2) | 4:49 | 2026-02-06 | 2026-04-12 |
 | [It's Me](https://open.spotify.com/track/7ruGyAPvRrNFqT2XroqzjP) | [P.O.S](https://open.spotify.com/artist/6PqtTOqDDdBJQzgCW2TbwU), [Spencer Brown](https://open.spotify.com/artist/4L9PX6lwPWo2NeuXL9kyJK), [Marieme](https://open.spotify.com/artist/4M9MGz93wIiFmEKhrw2yDD) | [It's Me](https://open.spotify.com/album/2wGMjnwb9iVAGO1hKpe0p9) | 4:13 | 2023-05-26 |  |
 | [it's sky time](https://open.spotify.com/track/1oraMgXwEWgGPrcn2FCKD4) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV) | [separation anxiety](https://open.spotify.com/album/7o9t3adexgpcxrEeEp8Dut) | 5:17 | 2024-04-12 | 2024-04-27 |
 | [Jakarta](https://open.spotify.com/track/05rQuHa8lWk9PTpQUqcO31) | [Bonsaye](https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG) | [Jakarta](https://open.spotify.com/album/6om4LDfQtmfEp76GPQluOT) | 3:56 | 2021-12-08 | 2023-07-15 |

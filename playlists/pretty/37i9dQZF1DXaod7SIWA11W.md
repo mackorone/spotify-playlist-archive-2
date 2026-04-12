@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 
 > Get lifted by the waves of faith\-infused music\.  Cover: Taylor Hill
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,603 likes - 74 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,616 likes - 74 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 | 73 | [Shine On Me](https://open.spotify.com/track/3ilA9oCTZqYUb4RX0FD1K1) | [Will Ngonga](https://open.spotify.com/artist/6IRwmt9e2PKz2uTmCOzme7) | [Shine On Me](https://open.spotify.com/album/0zjerkNvx6bJwtQTSCmbxA) | 2:37 |
 | 74 | [Father God](https://open.spotify.com/track/4oFCxoJilFfmiAdfvA6J0e) | [Gifted Hands](https://open.spotify.com/artist/39rx4zgUPeQQXZbD9xphK6) | [Father God](https://open.spotify.com/album/5AkZv8q5uAouw9Vt23nRJd) | 3:11 |
 
-Snapshot ID: `AAAAAJM6EdLmWnCObp0c+06upa8MwFU/`
+Snapshot ID: `AAAAAJMLp7T7qHfXhGMKrmcywGhSZubm`

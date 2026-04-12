@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from Ella Langley, The Strokes, Teddy Swims, PNAU, The Warning, Kehlani, Missy Elliot + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 448,906 likes - 96 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 448,938 likes - 96 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 45 | [Hulk Hogan](https://open.spotify.com/track/2q4B7AwTE9IQN9SDO3gYVt) | [Pozer](https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Hulk Hogan](https://open.spotify.com/album/4O9LvfC6iVLvNpWs68Vy73) | 2:58 |
 | 46 | [Pretty Strange World](https://open.spotify.com/track/1ydmnM5TlvfUWdgMD2SeZS) | [Any Young Mechanic](https://open.spotify.com/artist/49uksCFEefMvzh3YRMnZmf) | [Pretty Strange World](https://open.spotify.com/album/7blTvGP8v1ZPpNWhOODugT) | 2:56 |
 | 47 | [MOVE](https://open.spotify.com/track/1Eflk1EzM6SS2oLixKomDD) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [Mashd N Kutcher](https://open.spotify.com/artist/0G5lZVxoMwoY8oV6zR8E7k) | [MOVE](https://open.spotify.com/album/3mJCYsFxF2CHYSmh366z1U) | 2:27 |
-| 48 | [STRANGE](https://open.spotify.com/track/7tWZuWDD6ddy3oxImHjF4l) | [Wade Forster](https://open.spotify.com/artist/4ZPuBr6MAXRpyQsQMfqVRK) | [STRANGE](https://open.spotify.com/album/6Eu72RHqQLK1ToCmBmhDAC) | 6:04 |
+| 48 | [Strange](https://open.spotify.com/track/7tWZuWDD6ddy3oxImHjF4l) | [Wade Forster](https://open.spotify.com/artist/4ZPuBr6MAXRpyQsQMfqVRK) | [Strange](https://open.spotify.com/album/6Eu72RHqQLK1ToCmBmhDAC) | 6:04 |
 | 49 | [Woman I Am](https://open.spotify.com/track/7JDJimCnfNpiReuMNPXIVJ) | [Skye Newman](https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M) | [Woman I Am](https://open.spotify.com/album/2sgEblpbAegLtRuCpHJl70) | 3:31 |
 | 50 | [July](https://open.spotify.com/track/7LwR08L58CiifSFw7tqdOl) | [Wesley Joseph](https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Forever Ends Someday](https://open.spotify.com/album/7GVpOkI5do8Hb8NOtqb39y) | 2:32 |
 | 51 | [Cease Fire](https://open.spotify.com/track/2bePPnrertUBWkVhkEpIjs) | [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5) | [The Black Album](https://open.spotify.com/album/6sAqhQyrqqPgOPADP7tvXx) | 6:54 |

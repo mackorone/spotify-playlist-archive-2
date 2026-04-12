@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LjobXS2hzX.md) - [plain]
 
 > Voici les hits du moment avec Souldia
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,376 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,370 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LjobXS2hzX.md) - [plain]
 | 22 | [Ritz Carlton](https://open.spotify.com/track/6nJKlIarVo4DkFel40XF8g) | [Zinera](https://open.spotify.com/artist/5wrFfjvRhrVdGQlaVr0Svn) | [Ritz Carlton](https://open.spotify.com/album/03S4nz2a753KSzsh8uH4uC) | 4:06 |
 | 23 | [Midnight Sun](https://open.spotify.com/track/1qRV1dKLOfH1s00b9J2LUQ) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/2IdHrETl3jsOYQRsF0nV16) | 3:09 |
 | 24 | [Scotch & poches](https://open.spotify.com/track/6MvBA4qUPzHQd6PMt9tA5i) | [Bleu Jeans Bleu](https://open.spotify.com/artist/7sk1rfSVKopRQf1fxSJLTq) | [Record n°V](https://open.spotify.com/album/10J5WwzpLF6FRz7MABkLps) | 2:56 |
-| 25 | [C'est toi](https://open.spotify.com/track/7vzLRsfNytlCFJzZhM1AXK) | [Satine](https://open.spotify.com/artist/7Abx1tdwQoBDWr1nD1o62B) | [C'est toi](https://open.spotify.com/album/6vUy11UYLwzE3V89PbpELy) | 1:58 |
+| 25 | [C'est toi](https://open.spotify.com/track/7vzLRsfNytlCFJzZhM1AXK) | [satine](https://open.spotify.com/artist/7Abx1tdwQoBDWr1nD1o62B) | [C'est toi](https://open.spotify.com/album/6vUy11UYLwzE3V89PbpELy) | 1:58 |
 | 26 | [Woodstock](https://open.spotify.com/track/0oBxRhHoaLXn7pK2uaqhuN) | [Jay Scøtt](https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx) | [Toutes les rues sont silencieuses](https://open.spotify.com/album/0TiErnEo7n4RpcFM6tTTCa) | 2:58 |
 | 27 | [Hold Me Close](https://open.spotify.com/track/4Q6qj0fdFZxFS7hCJ5H0x0) | [Roxane Bruneau](https://open.spotify.com/artist/1joqsAPOg4vW2yn2BrEtzQ) | [Hold Me Close](https://open.spotify.com/album/6UKm9svBPqMv3AQMaUADsl) | 2:16 |
 | 28 | [Ballon\-sonde](https://open.spotify.com/track/699SpD5VkpC4PKGgnvK13g) | [JF Pauzé](https://open.spotify.com/artist/39KOW7xbNWdI7SBMcXlo9d) | [Les amours de seconde main](https://open.spotify.com/album/3Hesk7w0WcahDmMjpTybob) | 2:58 |

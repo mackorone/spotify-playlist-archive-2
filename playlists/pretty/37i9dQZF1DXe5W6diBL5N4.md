@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: KISS OF LIFE\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,135 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,171 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 6 | [가지 마 가지 마 떠나지 마](https://open.spotify.com/track/4FhWtDnrHg0ZKUKVRTdCya) | [Yeoeun](https://open.spotify.com/artist/05ymeYZDsPYz6TsR6KjrrQ) | [가지 마 가지 마 떠나지 마](https://open.spotify.com/album/2yNq8OPEf2p1nZQgUWe8dm) | 3:28 |
 | 7 | [We Go \(Reply High School OST Ver.\)](https://open.spotify.com/track/2zNBYGB3x8OXxPg6P6dm0N) | [REPLY HIGH SCHOOL](https://open.spotify.com/artist/6TJ8j6wCwMBLVdNuTa085A) | [Reply High School OST \(2026\)](https://open.spotify.com/album/2AT1tKsbUkY9bgSNEqBe0u) | 3:30 |
 | 8 | [130 Metronome](https://open.spotify.com/track/7dke6KEqVsre2xLiuG0aKR) | [ZENE THE ZILLA](https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN), [Hash Swan](https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg), [Nosun](https://open.spotify.com/artist/0BHYZCuuyLl53LVgeC3pUa) | [AMBITION 4/10](https://open.spotify.com/album/1YOj0bdZuAbfKlVizFuqPJ) | 2:37 |
-| 9 | [Blossom](https://open.spotify.com/track/45iFUxo3chvO9ub7vnN5A6) | [YECHAN](https://open.spotify.com/artist/0ECjzwXONQbrKyswxTy3mr), [연서](https://open.spotify.com/artist/5lQRV4dmjEGwKQokTrvtT2) | [Spring, flowers, love](https://open.spotify.com/album/2MkbnwWoqq35mRKC0C6AZc) | 3:42 |
+| 9 | [Blossom](https://open.spotify.com/track/45iFUxo3chvO9ub7vnN5A6) | [YECHAN](https://open.spotify.com/artist/0ECjzwXONQbrKyswxTy3mr), [Yeon seo](https://open.spotify.com/artist/0qSvXeaski5Xii16GeehVl) | [Spring, flowers, love](https://open.spotify.com/album/2MkbnwWoqq35mRKC0C6AZc) | 3:42 |
 | 10 | [Woman](https://open.spotify.com/track/2YfyJuonyCfxEkJq0goWbZ) | [chicken97](https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4) | [Woman](https://open.spotify.com/album/3WjYynyQReDpZVN0Nm5I5m) | 3:38 |
 | 11 | [So Cute](https://open.spotify.com/track/0M5sCYya9sa2LOz551IBeI) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [So Cute](https://open.spotify.com/album/2pdrozDMXT6gnXBbKGeMfI) | 3:35 |
 | 12 | [A Rain of Petals](https://open.spotify.com/track/0bjY1AC7Dg0dY08XwIqaTD) | [Sohyang](https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg) | [My Little New Diary, Pt\. 4](https://open.spotify.com/album/1QvSAkm9UyY4gcriXIQmN3) | 3:43 |
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 87 | [FancY \( \)](https://open.spotify.com/track/7rWrB560l9aOzHuGOPJ4Fo) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [ring...<3](https://open.spotify.com/album/3uvt9zF1Mi2y5ghJ4L26s5) | 1:50 |
 | 88 | [Empty Place](https://open.spotify.com/track/4qEngMrqCO2aSjEsextm5s) | [LeeZe](https://open.spotify.com/artist/6sRRCxqgRynrEW5Qc3pZxx) | [Siren's Kiss \(Original Soundtrack\) Part.5](https://open.spotify.com/album/3ka0VgRn6mTPosgN8qVUlt) | 4:10 |
 | 89 | [Silence \~ body & soul \~](https://open.spotify.com/track/0llJuOlqr3FI3k3C3reDaB) | [cosmosy](https://open.spotify.com/artist/2tWtaN38sQRfSWij1d43tn) | [\~ of the world \~](https://open.spotify.com/album/2H3t3Hfzj4p5ydFepwpmCb) | 2:53 |
-| 90 | [Black Star](https://open.spotify.com/track/0j4gn4I8fFURnKuHPH2jzW) | [NANA](https://open.spotify.com/artist/1SCTePCP2mFKMOCs07h7R8) | [Climax, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/3oZwL02OMjG63S0L6SQ6qt) | 5:15 |
+| 90 | [Black Star](https://open.spotify.com/track/0j4gn4I8fFURnKuHPH2jzW) | [NANA](https://open.spotify.com/artist/0y7Ayco2wqh26ps6bYsor8) | [Climax, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/3oZwL02OMjG63S0L6SQ6qt) | 5:15 |
 | 91 | [Peas and carrots](https://open.spotify.com/track/4n42HTO7zNVpTViUILfsLY) | [Jade](https://open.spotify.com/artist/2EmcKC5wA38PKb4ue4ZzbE) | [Peas and carrots](https://open.spotify.com/album/7kikOAyMLmVxDUA6hXlDra) | 2:09 |
 | 92 | [사랑병동 Highs and Lows](https://open.spotify.com/track/2fzdKqLRPuCHd6SUI6ypJY) | [WONPIL](https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP) | [Unpiltered](https://open.spotify.com/album/1MQjq9SydT8E0dCf3qLSvk) | 2:48 |
 | 93 | [Still Here, Still Us](https://open.spotify.com/track/2OE45UXXsoaYkWNNaMLmot) | [SeeYa](https://open.spotify.com/artist/3Mbxr8TL0Sny7dUNicKWm2) | [Still Here, Still Us](https://open.spotify.com/album/7gI1pzZRjxCgWHMwRb8ouv) | 3:33 |

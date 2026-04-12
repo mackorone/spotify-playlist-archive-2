@@ -1,6 +1,6 @@
 {
   "description": "Reggaet\u00f3n de antes y de siempre en compa\u00f1\u00eda de Plan B.",
-  "num_followers": 3954198,
+  "num_followers": 3955148,
   "original_name": "Reggaet\u00f3n Viejito",
   "owner": {
     "name": "Spotify",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-03-19 17:34:20",
       "album": {
-        "name": "El Movimiento: The Mixtape",
-        "url": "https://open.spotify.com/album/2ouuoBa8BHjrwj68lftlaZ"
-      },
-      "artists": [
-        {
-          "name": "J Alvarez",
-          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
-        }
-      ],
-      "duration_ms": 250546,
-      "name": "Junto Al Amanecer",
-      "url": "https://open.spotify.com/track/1HPzBInBPVJfSUDNLsTGGn"
-    },
-    {
-      "added_at": "2026-03-19 17:34:20",
-      "album": {
         "name": "Masterpiece: Nuestra Obra Maestra",
         "url": "https://open.spotify.com/album/7CpmPDrPfeDnR4ykfM7OYE"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 196360,
       "name": "Me Matas",
       "url": "https://open.spotify.com/track/5mVcyopMGY8dSpN1ZyaBUD"
+    },
+    {
+      "added_at": "2026-03-19 17:34:20",
+      "album": {
+        "name": "El Movimiento: The Mixtape",
+        "url": "https://open.spotify.com/album/2ouuoBa8BHjrwj68lftlaZ"
+      },
+      "artists": [
+        {
+          "name": "J Alvarez",
+          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
+        }
+      ],
+      "duration_ms": 250546,
+      "name": "Junto Al Amanecer",
+      "url": "https://open.spotify.com/track/1HPzBInBPVJfSUDNLsTGGn"
     },
     {
       "added_at": "2026-03-19 17:34:20",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2026-03-19 17:34:20",
       "album": {
-        "name": "La Familia",
-        "url": "https://open.spotify.com/album/0eaYHx42IseJf6jfxKi2Nr"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 199933,
-      "name": "Tranquila",
-      "url": "https://open.spotify.com/track/6klAm7Z2oR2FM7lozc7agF"
-    },
-    {
-      "added_at": "2026-03-19 17:34:20",
-      "album": {
         "name": "Conspiracion 2",
         "url": "https://open.spotify.com/album/1gEvJBXsQmn4PMDh9SYFrX"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 179093,
       "name": "Me Voy Pa'l Party",
       "url": "https://open.spotify.com/track/634SIK3O65qhslx5DLX44X"
+    },
+    {
+      "added_at": "2026-03-19 17:34:20",
+      "album": {
+        "name": "La Familia",
+        "url": "https://open.spotify.com/album/0eaYHx42IseJf6jfxKi2Nr"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 199933,
+      "name": "Tranquila",
+      "url": "https://open.spotify.com/track/6klAm7Z2oR2FM7lozc7agF"
     },
     {
       "added_at": "2026-03-19 17:34:20",
@@ -2247,22 +2247,6 @@
     {
       "added_at": "2026-03-19 17:34:20",
       "album": {
-        "name": "El Fenomeno",
-        "url": "https://open.spotify.com/album/5MLBEmgDNIltSfxvXesq9s"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 181373,
-      "name": "\u00c9l No Se Va A Entrar",
-      "url": "https://open.spotify.com/track/6WpzXjdGVrAhRMO5F0yBD8"
-    },
-    {
-      "added_at": "2026-03-19 17:34:20",
-      "album": {
         "name": "La Pelicula",
         "url": "https://open.spotify.com/album/6EAn7VG0UE83hUkzrUMBME"
       },
@@ -2283,22 +2267,18 @@
     {
       "added_at": "2026-03-19 17:34:20",
       "album": {
-        "name": "Quien Contra Mi",
-        "url": "https://open.spotify.com/album/1xWGBUugmlHCwXH6AtpQCE"
+        "name": "El Fenomeno",
+        "url": "https://open.spotify.com/album/5MLBEmgDNIltSfxvXesq9s"
       },
       "artists": [
         {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Tego Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         }
       ],
-      "duration_ms": 185973,
-      "name": "La Calle Me Lo Pidio",
-      "url": "https://open.spotify.com/track/2h2BxMOTXrYAApqWQ6ZqTy"
+      "duration_ms": 181373,
+      "name": "\u00c9l No Se Va A Entrar",
+      "url": "https://open.spotify.com/track/6WpzXjdGVrAhRMO5F0yBD8"
     },
     {
       "added_at": "2026-03-19 17:34:20",
@@ -2315,6 +2295,26 @@
       "duration_ms": 212520,
       "name": "Acech\u00e1ndote",
       "url": "https://open.spotify.com/track/1how0UKUUwdF0ukchBbVy4"
+    },
+    {
+      "added_at": "2026-03-19 17:34:20",
+      "album": {
+        "name": "Quien Contra Mi",
+        "url": "https://open.spotify.com/album/1xWGBUugmlHCwXH6AtpQCE"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Tego Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+        }
+      ],
+      "duration_ms": 185973,
+      "name": "La Calle Me Lo Pidio",
+      "url": "https://open.spotify.com/track/2h2BxMOTXrYAApqWQ6ZqTy"
     },
     {
       "added_at": "2026-03-19 17:34:20",
@@ -2515,22 +2515,6 @@
     {
       "added_at": "2026-03-19 17:34:20",
       "album": {
-        "name": "12 Discipulos",
-        "url": "https://open.spotify.com/album/7txBx0XCrl5IhJuTNgNV4w"
-      },
-      "artists": [
-        {
-          "name": "Eddie Dee",
-          "url": "https://open.spotify.com/artist/7zLcnirfgw1VEHHshuGcDR"
-        }
-      ],
-      "duration_ms": 238890,
-      "name": "Si No Cuidas Tu Mujer",
-      "url": "https://open.spotify.com/track/40AGTob7V8pCDvvXERrCu3"
-    },
-    {
-      "added_at": "2026-03-19 17:34:20",
-      "album": {
         "name": "Contra la Corriente",
         "url": "https://open.spotify.com/album/0Fwze3uCIDKHwOUFSeY8VY"
       },
@@ -2547,6 +2531,22 @@
       "duration_ms": 213577,
       "name": "Si Te Vas (feat. Kartiel)",
       "url": "https://open.spotify.com/track/2idYorcqrno522ANO7mDhY"
+    },
+    {
+      "added_at": "2026-03-19 17:34:20",
+      "album": {
+        "name": "12 Discipulos",
+        "url": "https://open.spotify.com/album/7txBx0XCrl5IhJuTNgNV4w"
+      },
+      "artists": [
+        {
+          "name": "Eddie Dee",
+          "url": "https://open.spotify.com/artist/7zLcnirfgw1VEHHshuGcDR"
+        }
+      ],
+      "duration_ms": 238890,
+      "name": "Si No Cuidas Tu Mujer",
+      "url": "https://open.spotify.com/track/40AGTob7V8pCDvvXERrCu3"
     },
     {
       "added_at": "2026-03-19 17:34:20",
@@ -2619,26 +2619,6 @@
     {
       "added_at": "2026-03-19 17:34:20",
       "album": {
-        "name": "Ella Se Contradice (feat. Plan B)",
-        "url": "https://open.spotify.com/album/3JYVc0zcw01y9Xjq16266O"
-      },
-      "artists": [
-        {
-          "name": "Baby Rasta y Gringo",
-          "url": "https://open.spotify.com/artist/3IEvQoAohcGX7CdrbtIle7"
-        },
-        {
-          "name": "Plan B",
-          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
-        }
-      ],
-      "duration_ms": 256756,
-      "name": "Ella Se Contradice (feat. Plan B)",
-      "url": "https://open.spotify.com/track/4nNeRNXmdZWfw3IjAnITZR"
-    },
-    {
-      "added_at": "2026-03-19 17:34:20",
-      "album": {
         "name": "Matador (Official Remix)",
         "url": "https://open.spotify.com/album/2mL69LoCsroXQIDdNHYPsq"
       },
@@ -2683,6 +2663,26 @@
       "duration_ms": 240000,
       "name": "La Fuga",
       "url": "https://open.spotify.com/track/4fhjhwazrEfayRC7l52TZ0"
+    },
+    {
+      "added_at": "2026-03-19 17:34:20",
+      "album": {
+        "name": "Ella Se Contradice (feat. Plan B)",
+        "url": "https://open.spotify.com/album/3JYVc0zcw01y9Xjq16266O"
+      },
+      "artists": [
+        {
+          "name": "Baby Rasta y Gringo",
+          "url": "https://open.spotify.com/artist/3IEvQoAohcGX7CdrbtIle7"
+        },
+        {
+          "name": "Plan B",
+          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
+        }
+      ],
+      "duration_ms": 256756,
+      "name": "Ella Se Contradice (feat. Plan B)",
+      "url": "https://open.spotify.com/track/4nNeRNXmdZWfw3IjAnITZR"
     },
     {
       "added_at": "2026-03-19 17:34:20",
@@ -3151,26 +3151,6 @@
     {
       "added_at": "2026-03-19 17:34:20",
       "album": {
-        "name": "Todo a su tiempo",
-        "url": "https://open.spotify.com/album/18neQPQsVNNFYYpFAWrthZ"
-      },
-      "artists": [
-        {
-          "name": "Divino",
-          "url": "https://open.spotify.com/artist/3PkVrt8lRBTV2RDSICxz5X"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 193466,
-      "name": "Se activaron los anormales",
-      "url": "https://open.spotify.com/track/67kdWhNX9GwoA76IAIYHTK"
-    },
-    {
-      "added_at": "2026-03-19 17:34:20",
-      "album": {
         "name": "Guanabanas Update, Vol. 2",
         "url": "https://open.spotify.com/album/33OqL37rJF7Kv9Sj6KsJTU"
       },
@@ -3187,6 +3167,26 @@
       "duration_ms": 229694,
       "name": "Mi Gatita y Yo",
       "url": "https://open.spotify.com/track/3SNi0cgDGKJxUOZbbnAn7w"
+    },
+    {
+      "added_at": "2026-03-19 17:34:20",
+      "album": {
+        "name": "Todo a su tiempo",
+        "url": "https://open.spotify.com/album/18neQPQsVNNFYYpFAWrthZ"
+      },
+      "artists": [
+        {
+          "name": "Divino",
+          "url": "https://open.spotify.com/artist/3PkVrt8lRBTV2RDSICxz5X"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 193466,
+      "name": "Se activaron los anormales",
+      "url": "https://open.spotify.com/track/67kdWhNX9GwoA76IAIYHTK"
     },
     {
       "added_at": "2026-03-19 17:34:20",
@@ -3351,22 +3351,6 @@
     {
       "added_at": "2026-03-19 17:34:20",
       "album": {
-        "name": "Todo a su tiempo",
-        "url": "https://open.spotify.com/album/18neQPQsVNNFYYpFAWrthZ"
-      },
-      "artists": [
-        {
-          "name": "Divino",
-          "url": "https://open.spotify.com/artist/3PkVrt8lRBTV2RDSICxz5X"
-        }
-      ],
-      "duration_ms": 162680,
-      "name": "Ya estoy llegando",
-      "url": "https://open.spotify.com/track/7zFBXWKZah3pMlSMUCYfVU"
-    },
-    {
-      "added_at": "2026-03-19 17:34:20",
-      "album": {
         "name": "Loose",
         "url": "https://open.spotify.com/album/2X0W94w0tW0yKzzO8pf3Qs"
       },
@@ -3383,6 +3367,22 @@
       "duration_ms": 219106,
       "name": "No Hay Igual",
       "url": "https://open.spotify.com/track/1Er2I7cx6EeIAnPznRhyhZ"
+    },
+    {
+      "added_at": "2026-03-19 17:34:20",
+      "album": {
+        "name": "Todo a su tiempo",
+        "url": "https://open.spotify.com/album/18neQPQsVNNFYYpFAWrthZ"
+      },
+      "artists": [
+        {
+          "name": "Divino",
+          "url": "https://open.spotify.com/artist/3PkVrt8lRBTV2RDSICxz5X"
+        }
+      ],
+      "duration_ms": 162680,
+      "name": "Ya estoy llegando",
+      "url": "https://open.spotify.com/track/7zFBXWKZah3pMlSMUCYfVU"
     },
     {
       "added_at": "2026-03-19 17:34:20",
@@ -3587,6 +3587,22 @@
     {
       "added_at": "2026-03-19 17:34:20",
       "album": {
+        "name": "House Of Pleasure",
+        "url": "https://open.spotify.com/album/3WEwS5DLsagnqQtHP2oEEu"
+      },
+      "artists": [
+        {
+          "name": "Plan B",
+          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
+        }
+      ],
+      "duration_ms": 220056,
+      "name": "Si No Le Contesto",
+      "url": "https://open.spotify.com/track/3XaWuYsTtnkzCSBr0RmROc"
+    },
+    {
+      "added_at": "2026-03-19 17:34:20",
+      "album": {
         "name": "Desahogo",
         "url": "https://open.spotify.com/album/5uENvCoFFohiR1bBF3IxrN"
       },
@@ -3607,18 +3623,18 @@
     {
       "added_at": "2026-03-19 17:34:20",
       "album": {
-        "name": "House Of Pleasure",
-        "url": "https://open.spotify.com/album/3WEwS5DLsagnqQtHP2oEEu"
+        "name": "Los Bacatranes",
+        "url": "https://open.spotify.com/album/6L3AvTd86IFDOEcPCLUmf7"
       },
       "artists": [
         {
-          "name": "Plan B",
-          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
+          "name": "Trebol Clan",
+          "url": "https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr"
         }
       ],
-      "duration_ms": 220056,
-      "name": "Si No Le Contesto",
-      "url": "https://open.spotify.com/track/3XaWuYsTtnkzCSBr0RmROc"
+      "duration_ms": 152106,
+      "name": "Ag\u00e1rrala - Remix",
+      "url": "https://open.spotify.com/track/43yyvWNjl3yWpghcrxZYkr"
     },
     {
       "added_at": "2026-03-19 17:34:20",
@@ -3639,22 +3655,6 @@
     {
       "added_at": "2026-03-19 17:34:20",
       "album": {
-        "name": "Los Bacatranes",
-        "url": "https://open.spotify.com/album/6L3AvTd86IFDOEcPCLUmf7"
-      },
-      "artists": [
-        {
-          "name": "Trebol Clan",
-          "url": "https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr"
-        }
-      ],
-      "duration_ms": 152106,
-      "name": "Ag\u00e1rrala - Remix",
-      "url": "https://open.spotify.com/track/43yyvWNjl3yWpghcrxZYkr"
-    },
-    {
-      "added_at": "2026-03-19 17:34:20",
-      "album": {
         "name": "Goldstar Music La Familia Reggaeton Hits",
         "url": "https://open.spotify.com/album/4OapfRPzZGP0iphPp5byyk"
       },
@@ -3671,22 +3671,6 @@
       "duration_ms": 248406,
       "name": "D\u00e9jale Caer To' El Peso (feat. Yomo)",
       "url": "https://open.spotify.com/track/6eyrEbsUwKUPXNxv6FuCqv"
-    },
-    {
-      "added_at": "2026-03-19 17:34:20",
-      "album": {
-        "name": "e5",
-        "url": "https://open.spotify.com/album/50m6CwGzwKsAcVPz9SCMrp"
-      },
-      "artists": [
-        {
-          "name": "Ivy Queen",
-          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
-        }
-      ],
-      "duration_ms": 183053,
-      "name": "Quiero Bailar",
-      "url": "https://open.spotify.com/track/4HNlRF6Nux7jU68kTpX7CP"
     },
     {
       "added_at": "2026-03-19 17:34:20",
@@ -3731,6 +3715,22 @@
     {
       "added_at": "2026-03-19 17:34:20",
       "album": {
+        "name": "e5",
+        "url": "https://open.spotify.com/album/50m6CwGzwKsAcVPz9SCMrp"
+      },
+      "artists": [
+        {
+          "name": "Ivy Queen",
+          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
+        }
+      ],
+      "duration_ms": 183053,
+      "name": "Quiero Bailar",
+      "url": "https://open.spotify.com/track/4HNlRF6Nux7jU68kTpX7CP"
+    },
+    {
+      "added_at": "2026-03-19 17:34:20",
+      "album": {
         "name": "The Hitmakers, Vol. 1",
         "url": "https://open.spotify.com/album/7lOFMaGJP3waQdBRAFPAoz"
       },
@@ -3767,18 +3767,18 @@
     {
       "added_at": "2026-03-19 17:34:20",
       "album": {
-        "name": "DIVA- Platinum Edition",
-        "url": "https://open.spotify.com/album/0Sv18KP8WCk1eHGnhJqTrb"
+        "name": "Chosen Few El Documental II",
+        "url": "https://open.spotify.com/album/1TVl1g20UTbzmoPgyyqjCe"
       },
       "artists": [
         {
-          "name": "Ivy Queen",
-          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
+          "name": "Plan B",
+          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
         }
       ],
-      "duration_ms": 175533,
-      "name": "Quiero Saber",
-      "url": "https://open.spotify.com/track/4VKI2yBkCE4mWhFBwZp0LU"
+      "duration_ms": 183133,
+      "name": "Frikitona",
+      "url": "https://open.spotify.com/track/7Fmf6fTY42XwGIgQQR69CU"
     }
   ],
   "unique_name": "Reggaet\u00f3n Viejito",

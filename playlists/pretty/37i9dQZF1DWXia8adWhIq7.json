@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Gui Neris",
-  "num_followers": 112450,
+  "num_followers": 112455,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
@@ -275,6 +275,22 @@
     {
       "added_at": "2026-04-10 17:16:27",
       "album": {
+        "name": "Excede o Entendimento (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3x4L1uJleQeCfUqDpWxQKr"
+      },
+      "artists": [
+        {
+          "name": "Lis Avancini",
+          "url": "https://open.spotify.com/artist/30ywC9c3B3POkE02OXf2nE"
+        }
+      ],
+      "duration_ms": 224556,
+      "name": "Excede o Entendimento - Ao Vivo",
+      "url": "https://open.spotify.com/track/6SxNpnjmsSTi7xNw3MR7Pr"
+    },
+    {
+      "added_at": "2026-04-10 17:16:27",
+      "album": {
         "name": "Aten\u00e7\u00e3o (Ao Vivo)",
         "url": "https://open.spotify.com/album/3RSielfFcEPyj7XiFN8H87"
       },
@@ -311,6 +327,26 @@
     {
       "added_at": "2026-04-10 17:16:27",
       "album": {
+        "name": "O Reino Vem",
+        "url": "https://open.spotify.com/album/1XGpn9IDF3qwuCPfF8SgW8"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        },
+        {
+          "name": "Vit\u00f3ria Souza",
+          "url": "https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j"
+        }
+      ],
+      "duration_ms": 198928,
+      "name": "O Reino Vem",
+      "url": "https://open.spotify.com/track/2kA9woThYCW2HDgV8OMKJ8"
+    },
+    {
+      "added_at": "2026-04-10 17:16:27",
+      "album": {
         "name": "Esperarei com Paci\u00eancia",
         "url": "https://open.spotify.com/album/53C192EeqK9cTA0dohXePM"
       },
@@ -331,26 +367,6 @@
       "duration_ms": 329500,
       "name": "Esperarei Com Paci\u00eancia",
       "url": "https://open.spotify.com/track/1QPj2hLuGuxqU8bHlUoUNS"
-    },
-    {
-      "added_at": "2026-04-10 17:16:27",
-      "album": {
-        "name": "O Reino Vem",
-        "url": "https://open.spotify.com/album/1XGpn9IDF3qwuCPfF8SgW8"
-      },
-      "artists": [
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        },
-        {
-          "name": "Vit\u00f3ria Souza",
-          "url": "https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j"
-        }
-      ],
-      "duration_ms": 198928,
-      "name": "O Reino Vem",
-      "url": "https://open.spotify.com/track/2kA9woThYCW2HDgV8OMKJ8"
     },
     {
       "added_at": "2026-04-10 17:16:27",
@@ -495,22 +511,6 @@
     {
       "added_at": "2026-04-10 17:16:27",
       "album": {
-        "name": "Teu Amor Me Consome",
-        "url": "https://open.spotify.com/album/5MapzYpDh2VHJCilZmkdRr"
-      },
-      "artists": [
-        {
-          "name": "Guerreiros da F\u00e9",
-          "url": "https://open.spotify.com/artist/362UHZOhL8SmqkRvUy1QeL"
-        }
-      ],
-      "duration_ms": 226187,
-      "name": "Teu Amor Me Consome",
-      "url": "https://open.spotify.com/track/6gQuUoxL0ajOQeWEK1p9Vw"
-    },
-    {
-      "added_at": "2026-04-10 17:16:27",
-      "album": {
         "name": "Desacreditar Jamais (Ao Vivo)",
         "url": "https://open.spotify.com/album/4nc06VDidz51hnkBaXPRCq"
       },
@@ -527,18 +527,18 @@
     {
       "added_at": "2026-04-10 17:16:27",
       "album": {
-        "name": "Excede o Entendimento (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3x4L1uJleQeCfUqDpWxQKr"
+        "name": "Teu Amor Me Consome",
+        "url": "https://open.spotify.com/album/5MapzYpDh2VHJCilZmkdRr"
       },
       "artists": [
         {
-          "name": "Lis Avancini",
-          "url": "https://open.spotify.com/artist/30ywC9c3B3POkE02OXf2nE"
+          "name": "Guerreiros da F\u00e9",
+          "url": "https://open.spotify.com/artist/362UHZOhL8SmqkRvUy1QeL"
         }
       ],
-      "duration_ms": 224556,
-      "name": "Excede o Entendimento - Ao Vivo",
-      "url": "https://open.spotify.com/track/6SxNpnjmsSTi7xNw3MR7Pr"
+      "duration_ms": 226187,
+      "name": "Teu Amor Me Consome",
+      "url": "https://open.spotify.com/track/6gQuUoxL0ajOQeWEK1p9Vw"
     },
     {
       "added_at": "2026-04-10 17:16:27",
@@ -631,22 +631,6 @@
     {
       "added_at": "2026-04-10 17:16:27",
       "album": {
-        "name": "Dia de Festa",
-        "url": "https://open.spotify.com/album/7knyVqeyA7t2dcizeOPQhs"
-      },
-      "artists": [
-        {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
-        }
-      ],
-      "duration_ms": 298213,
-      "name": "Dia de Festa",
-      "url": "https://open.spotify.com/track/0Noo39tE71YM0x48nxAVzi"
-    },
-    {
-      "added_at": "2026-04-10 17:16:27",
-      "album": {
         "name": "Epifania",
         "url": "https://open.spotify.com/album/55tRKqircj6qHHB3tzMrGr"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 207667,
       "name": "A Chave",
       "url": "https://open.spotify.com/track/6kk7NYRUwebj54yAHZWU7j"
+    },
+    {
+      "added_at": "2026-04-10 17:16:27",
+      "album": {
+        "name": "Dia de Festa",
+        "url": "https://open.spotify.com/album/7knyVqeyA7t2dcizeOPQhs"
+      },
+      "artists": [
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        }
+      ],
+      "duration_ms": 298213,
+      "name": "Dia de Festa",
+      "url": "https://open.spotify.com/track/0Noo39tE71YM0x48nxAVzi"
     },
     {
       "added_at": "2026-04-10 17:16:27",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-04-10 17:16:27",
       "album": {
-        "name": "Testemunho",
-        "url": "https://open.spotify.com/album/1hzZ5ugTa68A1Q96rolfAQ"
-      },
-      "artists": [
-        {
-          "name": "Avipa",
-          "url": "https://open.spotify.com/artist/61IkIw7upLhDJOQl528uyq"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "Testemunho",
-      "url": "https://open.spotify.com/track/6HcUgggcWIqOEQASujbMy0"
-    },
-    {
-      "added_at": "2026-04-10 17:16:27",
-      "album": {
         "name": "\u00c9 Mais Que Uma Honra",
         "url": "https://open.spotify.com/album/4IItVJeLdLmppzqHqymA94"
       },
@@ -719,18 +703,18 @@
     {
       "added_at": "2026-04-10 17:16:27",
       "album": {
-        "name": "Iluminado",
-        "url": "https://open.spotify.com/album/6WidAThASUspFTkUzM9X88"
+        "name": "Testemunho",
+        "url": "https://open.spotify.com/album/1hzZ5ugTa68A1Q96rolfAQ"
       },
       "artists": [
         {
-          "name": "Weslley Fonseca",
-          "url": "https://open.spotify.com/artist/44tt6vxqg3vYCiTm8p8Rg9"
+          "name": "Avipa",
+          "url": "https://open.spotify.com/artist/61IkIw7upLhDJOQl528uyq"
         }
       ],
-      "duration_ms": 240066,
-      "name": "Iluminado",
-      "url": "https://open.spotify.com/track/4e3IEiapCBKboOv2QNivDV"
+      "duration_ms": 139000,
+      "name": "Testemunho",
+      "url": "https://open.spotify.com/track/6HcUgggcWIqOEQASujbMy0"
     },
     {
       "added_at": "2026-04-10 17:16:27",
@@ -747,6 +731,22 @@
       "duration_ms": 189154,
       "name": "Nossa Ora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/5Xy8zMqDbpkWd9vmPen5mt"
+    },
+    {
+      "added_at": "2026-04-10 17:16:27",
+      "album": {
+        "name": "Iluminado",
+        "url": "https://open.spotify.com/album/6WidAThASUspFTkUzM9X88"
+      },
+      "artists": [
+        {
+          "name": "Weslley Fonseca",
+          "url": "https://open.spotify.com/artist/44tt6vxqg3vYCiTm8p8Rg9"
+        }
+      ],
+      "duration_ms": 240066,
+      "name": "Iluminado",
+      "url": "https://open.spotify.com/track/4e3IEiapCBKboOv2QNivDV"
     },
     {
       "added_at": "2026-04-10 17:16:27",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-04-10 17:16:27",
       "album": {
-        "name": "Rota",
-        "url": "https://open.spotify.com/album/4YeDhdeWBJCA9CyQytxhoH"
-      },
-      "artists": [
-        {
-          "name": "Isabella Lopes",
-          "url": "https://open.spotify.com/artist/4Anc0OS4S3ZOLk295QoHds"
-        }
-      ],
-      "duration_ms": 196032,
-      "name": "Rota",
-      "url": "https://open.spotify.com/track/2ce659MS4j8MCjpebtgcL4"
-    },
-    {
-      "added_at": "2026-04-10 17:16:27",
-      "album": {
         "name": "Amor de Deus",
         "url": "https://open.spotify.com/album/5I2JV3wQEFOlxhVaf1hCxw"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 178000,
       "name": "Amor de Deus",
       "url": "https://open.spotify.com/track/2PSV2OX4z6cuDbh90cy4z3"
+    },
+    {
+      "added_at": "2026-04-10 17:16:27",
+      "album": {
+        "name": "Rota",
+        "url": "https://open.spotify.com/album/4YeDhdeWBJCA9CyQytxhoH"
+      },
+      "artists": [
+        {
+          "name": "Isabella Lopes",
+          "url": "https://open.spotify.com/artist/4Anc0OS4S3ZOLk295QoHds"
+        }
+      ],
+      "duration_ms": 196032,
+      "name": "Rota",
+      "url": "https://open.spotify.com/track/2ce659MS4j8MCjpebtgcL4"
     },
     {
       "added_at": "2026-04-10 17:16:27",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2026-04-10 17:16:27",
       "album": {
-        "name": "Pai Nosso",
-        "url": "https://open.spotify.com/album/2CunA6PC2Oxb5fRjaX4Kcl"
-      },
-      "artists": [
-        {
-          "name": "Welcson",
-          "url": "https://open.spotify.com/artist/24KBFgKuNtKpvYdxm5CAqN"
-        }
-      ],
-      "duration_ms": 261200,
-      "name": "Pai Nosso - Our Father",
-      "url": "https://open.spotify.com/track/5UcxW6kkmh1wkhkxFRzqOp"
-    },
-    {
-      "added_at": "2026-04-10 17:16:27",
-      "album": {
         "name": "Pra Onde Vou Correr",
         "url": "https://open.spotify.com/album/0RQmuhQgvKDgqlHsGLLcmq"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 215125,
       "name": "Pra Onde Vou Correr",
       "url": "https://open.spotify.com/track/1rJpxLz9szBRy1t1Mg2sVE"
+    },
+    {
+      "added_at": "2026-04-10 17:16:27",
+      "album": {
+        "name": "Pai Nosso",
+        "url": "https://open.spotify.com/album/2CunA6PC2Oxb5fRjaX4Kcl"
+      },
+      "artists": [
+        {
+          "name": "Welcson",
+          "url": "https://open.spotify.com/artist/24KBFgKuNtKpvYdxm5CAqN"
+        }
+      ],
+      "duration_ms": 261200,
+      "name": "Pai Nosso - Our Father",
+      "url": "https://open.spotify.com/track/5UcxW6kkmh1wkhkxFRzqOp"
     },
     {
       "added_at": "2026-04-10 17:16:27",
@@ -1231,8 +1231,8 @@
     {
       "added_at": "2026-04-10 17:16:27",
       "album": {
-        "name": "Mostra-Me Tua Gl\u00f3ria",
-        "url": "https://open.spotify.com/album/7cl3wKgvILtYbTp4hDkRbK"
+        "name": "Te Vejo",
+        "url": "https://open.spotify.com/album/4F5ccF1Z6aw4YHXvHZkohv"
       },
       "artists": [
         {
@@ -1240,9 +1240,9 @@
           "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
         }
       ],
-      "duration_ms": 230208,
-      "name": "Mostra-Me Tua Gl\u00f3ria",
-      "url": "https://open.spotify.com/track/4lpmXAuqiQ3h69eIzQ57lQ"
+      "duration_ms": 210125,
+      "name": "Te Vejo",
+      "url": "https://open.spotify.com/track/6CS88lKEQ0A7xvGqL0r5Z1"
     },
     {
       "added_at": "2026-04-10 17:16:27",
@@ -1315,8 +1315,8 @@
     {
       "added_at": "2026-04-10 17:16:27",
       "album": {
-        "name": "Te Vejo",
-        "url": "https://open.spotify.com/album/4F5ccF1Z6aw4YHXvHZkohv"
+        "name": "Mostra-Me Tua Gl\u00f3ria",
+        "url": "https://open.spotify.com/album/7cl3wKgvILtYbTp4hDkRbK"
       },
       "artists": [
         {
@@ -1324,9 +1324,9 @@
           "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
         }
       ],
-      "duration_ms": 210125,
-      "name": "Te Vejo",
-      "url": "https://open.spotify.com/track/6CS88lKEQ0A7xvGqL0r5Z1"
+      "duration_ms": 230208,
+      "name": "Mostra-Me Tua Gl\u00f3ria",
+      "url": "https://open.spotify.com/track/4lpmXAuqiQ3h69eIzQ57lQ"
     },
     {
       "added_at": "2026-04-10 17:16:27",

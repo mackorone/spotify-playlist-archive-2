@@ -1,6 +1,6 @@
 {
   "description": "Wyzwania, cele, zadania, spotkania, dedlajny\u2026 ale najpierw kawa.",
-  "num_followers": 112490,
+  "num_followers": 112482,
   "original_name": "... ale najpierw kawa",
   "owner": {
     "name": "Spotify",
@@ -595,26 +595,6 @@
     {
       "added_at": "2026-04-10 09:40:45",
       "album": {
-        "name": "Angels' Share",
-        "url": "https://open.spotify.com/album/2iTs57ox6KJn1IjuH3IMWl"
-      },
-      "artists": [
-        {
-          "name": "Nathan Evans",
-          "url": "https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo"
-        },
-        {
-          "name": "SAINT PHNX",
-          "url": "https://open.spotify.com/artist/1Tdg7NIdyWx9icE2GNZzxk"
-        }
-      ],
-      "duration_ms": 160909,
-      "name": "Angels' Share",
-      "url": "https://open.spotify.com/track/1UNVWbwbIEnxElW8b0PTFL"
-    },
-    {
-      "added_at": "2026-04-10 09:40:45",
-      "album": {
         "name": "P\u00f3ki Mam Ciebie",
         "url": "https://open.spotify.com/album/6Vf7UxIJeTLSFazrwu6TDy"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 140869,
       "name": "P\u00f3ki Mam Ciebie",
       "url": "https://open.spotify.com/track/7I3rXFOYOXyHfimFAdOoC0"
+    },
+    {
+      "added_at": "2026-04-10 09:40:45",
+      "album": {
+        "name": "Angels' Share",
+        "url": "https://open.spotify.com/album/2iTs57ox6KJn1IjuH3IMWl"
+      },
+      "artists": [
+        {
+          "name": "Nathan Evans",
+          "url": "https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo"
+        },
+        {
+          "name": "SAINT PHNX",
+          "url": "https://open.spotify.com/artist/1Tdg7NIdyWx9icE2GNZzxk"
+        }
+      ],
+      "duration_ms": 160909,
+      "name": "Angels' Share",
+      "url": "https://open.spotify.com/track/1UNVWbwbIEnxElW8b0PTFL"
     },
     {
       "added_at": "2026-04-10 09:40:45",
@@ -695,6 +695,26 @@
     {
       "added_at": "2026-04-10 09:40:45",
       "album": {
+        "name": "PAMI\u0118TAJ",
+        "url": "https://open.spotify.com/album/3FWEcL3khaOowLFFzgNDLE"
+      },
+      "artists": [
+        {
+          "name": "pszona",
+          "url": "https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq"
+        },
+        {
+          "name": "FANKA",
+          "url": "https://open.spotify.com/artist/5wUmzMcZxXPMi2qpddL0wg"
+        }
+      ],
+      "duration_ms": 168571,
+      "name": "PAMI\u0118TAJ",
+      "url": "https://open.spotify.com/track/5xGpJoxIzALCGEVreG4KoW"
+    },
+    {
+      "added_at": "2026-04-10 09:40:45",
+      "album": {
         "name": "Znajd\u017a mnie w tym",
         "url": "https://open.spotify.com/album/3ejpPh0fWw2YEzyd2Rl17R"
       },
@@ -731,26 +751,6 @@
     {
       "added_at": "2026-04-10 09:40:45",
       "album": {
-        "name": "PAMI\u0118TAJ",
-        "url": "https://open.spotify.com/album/3FWEcL3khaOowLFFzgNDLE"
-      },
-      "artists": [
-        {
-          "name": "pszona",
-          "url": "https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq"
-        },
-        {
-          "name": "FANKA",
-          "url": "https://open.spotify.com/artist/5wUmzMcZxXPMi2qpddL0wg"
-        }
-      ],
-      "duration_ms": 168571,
-      "name": "PAMI\u0118TAJ",
-      "url": "https://open.spotify.com/track/5xGpJoxIzALCGEVreG4KoW"
-    },
-    {
-      "added_at": "2026-04-10 09:40:45",
-      "album": {
         "name": "Dotknij",
         "url": "https://open.spotify.com/album/5zqGQnNNJiDGcxCQIE3Kmh"
       },
@@ -763,6 +763,22 @@
       "duration_ms": 154736,
       "name": "Dotknij",
       "url": "https://open.spotify.com/track/5a9izOBVjC242rMhmUxrsx"
+    },
+    {
+      "added_at": "2026-04-10 09:40:45",
+      "album": {
+        "name": "kto jak nie my",
+        "url": "https://open.spotify.com/album/32CQm6plS0cfSSfvomyqn0"
+      },
+      "artists": [
+        {
+          "name": "Lanberry",
+          "url": "https://open.spotify.com/artist/2t3aJxThQrMWaNJgqjMcU8"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "kto jak nie my",
+      "url": "https://open.spotify.com/track/5rNlHvLzdWxWUPX2oPGv0B"
     },
     {
       "added_at": "2026-04-10 09:40:45",
@@ -791,22 +807,6 @@
       "duration_ms": 181565,
       "name": "SEN",
       "url": "https://open.spotify.com/track/1Gc4ROFZUlEupmjMGKLSe2"
-    },
-    {
-      "added_at": "2026-04-10 09:40:45",
-      "album": {
-        "name": "kto jak nie my",
-        "url": "https://open.spotify.com/album/32CQm6plS0cfSSfvomyqn0"
-      },
-      "artists": [
-        {
-          "name": "Lanberry",
-          "url": "https://open.spotify.com/artist/2t3aJxThQrMWaNJgqjMcU8"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "kto jak nie my",
-      "url": "https://open.spotify.com/track/5rNlHvLzdWxWUPX2oPGv0B"
     },
     {
       "added_at": "2026-04-10 09:40:45",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-04-10 09:40:45",
       "album": {
-        "name": "Codzienno\u015b\u0107 (Pami\u0119taj Nas)",
-        "url": "https://open.spotify.com/album/6lLQXfC2VHLdrEbAdn1m4m"
-      },
-      "artists": [
-        {
-          "name": "Roxie",
-          "url": "https://open.spotify.com/artist/6Lf4vAUaFUR2jAsybC7cGV"
-        }
-      ],
-      "duration_ms": 157272,
-      "name": "Codzienno\u015b\u0107 (Pami\u0119taj Nas)",
-      "url": "https://open.spotify.com/track/0XY68QmJAUqzRCIHS5xEEp"
-    },
-    {
-      "added_at": "2026-04-10 09:40:45",
-      "album": {
         "name": "Po blady \u015bwit",
         "url": "https://open.spotify.com/album/33CEjHlVgmCZ6CHbIGSwUc"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 156027,
       "name": "Po blady \u015bwit",
       "url": "https://open.spotify.com/track/66JVsDHnnrvcbDci9qLYMO"
+    },
+    {
+      "added_at": "2026-04-10 09:40:45",
+      "album": {
+        "name": "Codzienno\u015b\u0107 (Pami\u0119taj Nas)",
+        "url": "https://open.spotify.com/album/6lLQXfC2VHLdrEbAdn1m4m"
+      },
+      "artists": [
+        {
+          "name": "Roxie",
+          "url": "https://open.spotify.com/artist/6Lf4vAUaFUR2jAsybC7cGV"
+        }
+      ],
+      "duration_ms": 157272,
+      "name": "Codzienno\u015b\u0107 (Pami\u0119taj Nas)",
+      "url": "https://open.spotify.com/track/0XY68QmJAUqzRCIHS5xEEp"
     },
     {
       "added_at": "2026-04-10 09:40:45",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2026-04-10 09:40:45",
       "album": {
-        "name": "Sp\u00f3jrz",
-        "url": "https://open.spotify.com/album/1UZqtwjBs43IY8xCRDGYFo"
+        "name": "Niesamowita Trupa Pana Hiroszimy",
+        "url": "https://open.spotify.com/album/0keblXeuVMoglZxtBUGYfE"
       },
       "artists": [
         {
-          "name": "Daniel Godson",
-          "url": "https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU"
+          "name": "Lordofon",
+          "url": "https://open.spotify.com/artist/7G3hAQixY7DIAGTgA2GU99"
         }
       ],
-      "duration_ms": 189834,
-      "name": "Sp\u00f3jrz",
-      "url": "https://open.spotify.com/track/5jdLq3kQMWC2W4Skf5y45e"
+      "duration_ms": 211524,
+      "name": "Hiroszima, mon amour",
+      "url": "https://open.spotify.com/track/3gMwIRYyZV3hpE5WhBCkNQ"
     }
   ],
   "unique_name": "... ale najpierw kawa",

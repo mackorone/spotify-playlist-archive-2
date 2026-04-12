@@ -1,6 +1,6 @@
 {
   "description": "New music from Camille Yembe, The Strokes, Lady Gaga x Doechii, Gradur x Ninho and more...",
-  "num_followers": 49917,
+  "num_followers": 49920,
   "original_name": "New Music Friday BE",
   "owner": {
     "name": "Spotify",
@@ -712,12 +712,12 @@
       },
       "artists": [
         {
-          "name": "Billy Dans",
-          "url": "https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW"
-        },
-        {
           "name": "Mart Hoogkamer",
           "url": "https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa"
+        },
+        {
+          "name": "Billy Dans",
+          "url": "https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW"
         }
       ],
       "duration_ms": 137198,
@@ -849,7 +849,7 @@
         }
       ],
       "duration_ms": 186071,
-      "name": "La vida loca",
+      "name": "La Vida Loca",
       "url": "https://open.spotify.com/track/74vHwfc0huNsTubsZMqtj4"
     },
     {

@@ -1,12 +1,12 @@
 {
   "description": "This is Kenny G. The essential tracks, all in one playlist.",
-  "num_followers": 152345,
+  "num_followers": 152363,
   "original_name": "This Is Kenny G",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adbsAAAAAABcuUi+ZMg6/QUR5qY31Nu3",
+  "snapshot_id": "adg9gAAAAABzdOHGj7/6tihsRH6fDxi6",
   "tracks": [
     {
       "added_at": null,
@@ -359,8 +359,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rhythm & Romance",
-        "url": "https://open.spotify.com/album/50pPvpL85j6tSLbnLqC9IO"
+        "name": "Duotones",
+        "url": "https://open.spotify.com/album/4Ptfthe5KoQuCNxcXbcoL1"
       },
       "artists": [
         {
@@ -368,9 +368,9 @@
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 262533,
-      "name": "Sabor A Mi",
-      "url": "https://open.spotify.com/track/4Pu9FoZv0FPYD1aDE1lmJ2"
+      "duration_ms": 303506,
+      "name": "Songbird",
+      "url": "https://open.spotify.com/track/5a2lHMvRRwhQp2zSwtjNmq"
     },
     {
       "added_at": null,
@@ -391,8 +391,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duotones",
-        "url": "https://open.spotify.com/album/4Ptfthe5KoQuCNxcXbcoL1"
+        "name": "Rhythm & Romance",
+        "url": "https://open.spotify.com/album/50pPvpL85j6tSLbnLqC9IO"
       },
       "artists": [
         {
@@ -400,9 +400,9 @@
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 303506,
-      "name": "Songbird",
-      "url": "https://open.spotify.com/track/5a2lHMvRRwhQp2zSwtjNmq"
+      "duration_ms": 262533,
+      "name": "Sabor A Mi",
+      "url": "https://open.spotify.com/track/4Pu9FoZv0FPYD1aDE1lmJ2"
     },
     {
       "added_at": null,
@@ -687,6 +687,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/1JeUDgG8kEdUUlqa6Omgsr"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 254640,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/7vK5XIuj2sglBRFFN4KR43"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "You're The Inspiration: The Music Of David Foster And Friends (Int'l DMD)",
         "url": "https://open.spotify.com/album/7zXao5a6CPcsA8mbmdKpVs"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 176626,
       "name": "Love Theme from St. Elmo's Fire (feat. Kenny G) - Live",
       "url": "https://open.spotify.com/track/7AcZoTDqYtqYyYYt3CBPSw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/1JeUDgG8kEdUUlqa6Omgsr"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 254640,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/7vK5XIuj2sglBRFFN4KR43"
     },
     {
       "added_at": null,

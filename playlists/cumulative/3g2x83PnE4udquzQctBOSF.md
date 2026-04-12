@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-675 songs - 1 day 18 hr 18 min
+679 songs - 1 day 18 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [Dead Channel](https://open.spotify.com/track/2Kbyt0eL42C68RAKqMWDxE) | [Audio Horizon](https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz) | [Afterhours: Cinematic Techno \(Vol\. 1\)](https://open.spotify.com/album/0bBdJLYoz7A5noEA8jVREa) | 4:28 | 2026-04-04 |  |
 | [Deep Down Low](https://open.spotify.com/track/3Ue9vGsg5XVnEo7P2EdLxX) | [Ell Jordan](https://open.spotify.com/artist/3ZfwdqNPzevAjnBlRCkBKl) | [Deep Down Low](https://open.spotify.com/album/4IwNXHXcjHJsLLEE3mwESP) | 4:55 | 2024-07-07 |  |
 | [Deep In](https://open.spotify.com/track/5C7RLTV7tbTjStCdn8KrEt) | [Archi K](https://open.spotify.com/artist/2t0eG7qAMeAL62ZdVzlcRY), [Артур Кетов](https://open.spotify.com/artist/5g68HnhWHSrMC15D0qLL16) | [Jazzy\-Hazy](https://open.spotify.com/album/6EuY3dU5mtxrkyBXD4cnHw) | 2:58 | 2026-04-01 |  |
+| [Deep Motion](https://open.spotify.com/track/5UZeFHedkK1oxxf4DLrBNN) | [DJ Esse](https://open.spotify.com/artist/5eXb8rgQwq17mWwmotpgQc) | [No Name](https://open.spotify.com/album/3I4tmZaSuBpGbCVBC8Spoh) | 7:03 | 2026-04-11 |  |
 | [Deeper](https://open.spotify.com/track/7D6SEmF2v2xlFUct2atTfe) | [OTK](https://open.spotify.com/artist/1RfUpnBiwRzA6LCl4qaJwG) | [Deeper](https://open.spotify.com/album/2HJ5dqnKM6w7yFhgWkrxyu) | 3:17 | 2025-11-28 | 2026-01-03 |
 | [Dentro a due vite](https://open.spotify.com/track/3yZHjRPsC7c8CT5ylbN07E) | [DreamerWild](https://open.spotify.com/artist/31lDG1hUYSmIw5jYclernj) | [Dentro a due vite](https://open.spotify.com/album/7KVJtGXPA1cEyZomd6bB83) | 3:08 | 2026-01-01 | 2026-01-03 |
 | [DESIRE96](https://open.spotify.com/track/1Isw0eYkTeBUP4uuqLNHZt) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [DESIRE96](https://open.spotify.com/album/32qjzjfmDJX4lA6yAPR2fb) | 4:13 | 2023-04-16 | 2023-05-01 |
@@ -411,6 +412,7 @@
 | [Needle On The Record](https://open.spotify.com/track/5qKuF0NtvWVn5UarAgyli3) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [Needle On The Record](https://open.spotify.com/album/7E0q2fAykseBKfLY7X53jJ) | 3:06 | 2023-11-26 | 2024-02-05 |
 | [Needle On The Record \- 4am Mix](https://open.spotify.com/track/1EzAJBjrWvYsUBHI1hoDnc) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [Needle On The Record \(4am Mix\)](https://open.spotify.com/album/6Vwh7m7Dc6c2ouZgjBLqZW) | 2:58 | 2024-02-18 | 2024-04-15 |
 | [NEMO](https://open.spotify.com/track/2RvUquRNqRRCh3y5Ls7DTc) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE), [Brittles](https://open.spotify.com/artist/4AatAhtKlfnbdMwlxdTwwr) | [NEMO](https://open.spotify.com/album/4aYOQcCVX4mIua85Ub8jCi) | 2:33 | 2023-04-09 | 2023-04-24 |
+| [Neutron Decay \- Rebirth Edit](https://open.spotify.com/track/1l3B54wNNMgcnS6NDvJC1m) | [SPXCEPVNK](https://open.spotify.com/artist/2AMOCfEU0hWfO6qtzxcy8Z) | [Neutron Decay \(Rebirth Edit\)](https://open.spotify.com/album/15FhN2ruECaPCWpb7JEbV6) | 2:57 | 2026-04-11 |  |
 | [Neutron Decay \- Rebirth Edit](https://open.spotify.com/track/4F6VoXxtgQyy2iJEEWXv6c) | [SPXCEPVNK](https://open.spotify.com/artist/2AMOCfEU0hWfO6qtzxcy8Z) | [Neutron Decay \(Rebirth Edit\)](https://open.spotify.com/album/6yR0ksueyFX1JaCqAOqJz3) | 2:57 | 2026-03-11 |  |
 | [Niagara Falls](https://open.spotify.com/track/6xwE2y6DfKLT1y6Q74QcvK) | [Archi K](https://open.spotify.com/artist/2t0eG7qAMeAL62ZdVzlcRY) | [Here&Now](https://open.spotify.com/album/0gUuLG4LGy9E6mw6xswUIx) | 3:06 | 2026-04-08 |  |
 | [Night Crane](https://open.spotify.com/track/4FD48eynO8XoG9Zn6nVzQr) | [Audio Horizon](https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz) | [Glass After the Fall: Cinematic Melodic House for Rooftop Nights \(Vol\. 1\)](https://open.spotify.com/album/50EZegdviixgmt6ZpGYj78) | 5:19 | 2026-03-30 |  |
@@ -419,6 +421,7 @@
 | [No me Veas Asi](https://open.spotify.com/track/3zKqKfDQuWR7vMkm5s8f8K) | [fabiom\_dj](https://open.spotify.com/artist/4OzRJdzcb3HQXpRpG1jJIP) | [Symphonic house](https://open.spotify.com/album/3jr52nMEY2rcECDUMHPPjQ) | 3:43 | 2026-04-04 |  |
 | [No Means No](https://open.spotify.com/track/5zgFNWFAzeGqU4QxsdmyG5) | [DMAO](https://open.spotify.com/artist/7I1N6VLZiAXwulLEnuIkUg) | [No Means No](https://open.spotify.com/album/4vSLnL9L4YK3KT3gWOl2GO) | 4:40 | 2026-03-19 |  |
 | [No Mendacium \- Radio Edit](https://open.spotify.com/track/1XMQsx7IzYpuYcj3HZEqJQ) | [Nadda](https://open.spotify.com/artist/2UBywQW4UxTyUJPfVloPbR) | [No Mendacium](https://open.spotify.com/album/16A9qDBJoU5fYqccnGtpKS) | 3:40 | 2023-11-26 | 2024-02-05 |
+| [No More](https://open.spotify.com/track/0j1ev9c75CFvpE2XsjVWO4) | [680Tone](https://open.spotify.com/artist/6dyENcarC8GAyfoI9GFw6l) | [No More](https://open.spotify.com/album/2VK02R4GujroMfIufCrQNd) | 5:49 | 2026-04-11 |  |
 | [no quiero hablar mas con mi mente](https://open.spotify.com/track/4erwWa7FDbpXfB6iOX5pDa) | [fabiom\_dj](https://open.spotify.com/artist/4OzRJdzcb3HQXpRpG1jJIP) | [ultimo verano](https://open.spotify.com/album/6WK5IArf4z1QP9UXYHom4I) | 3:31 | 2026-01-12 | 2026-02-23 |
 | [No Ref](https://open.spotify.com/track/3Nm4NCldFwiefi74NrbRpm) | [PakoLP](https://open.spotify.com/artist/7hXA9Gsz23oiXjZ25UyZta), [Pasquale Licito](https://open.spotify.com/artist/4gtyf1Bf2sFWTQH1HdtEiU) | [No Ref](https://open.spotify.com/album/33lQqtRNdyvieE3hNSGDHO) | 3:10 | 2026-03-23 |  |
 | [No Signal](https://open.spotify.com/track/7lvkLByatGBLXCBiiRQ49Q) | [Cris Rocks](https://open.spotify.com/artist/6OSYk8t24QxVGgLZj3gTbJ) | [Vol\. 038](https://open.spotify.com/album/3zB9ukseQG3aOnWAMSqQpE) | 3:35 | 2026-04-10 |  |
@@ -567,6 +570,7 @@
 | [Stuck In This Groove \- Radio Mix](https://open.spotify.com/track/28LUlmUub0GfnP294ELZZ6) | [Lumiere](https://open.spotify.com/artist/3Yty2Yiw88iHcVEyzZSWhj) | [Stuck In My Groove EP](https://open.spotify.com/album/6bLzCIiBkAnyRVjdlfZ5QS) | 2:57 | 2026-02-20 | 2026-02-23 |
 | [STUPID](https://open.spotify.com/track/3yW4OUmhCGjgj7hb11hMMP) | [Detlef](https://open.spotify.com/artist/5lZ8HC92jRDlyeq0vSxGeI) | [STUPID](https://open.spotify.com/album/3TeajY9TawyGrr0r3Gfvwg) | 5:27 | 2023-07-02 | 2023-07-31 |
 | [Stupid Love](https://open.spotify.com/track/3JIo2eOLK87AaZ8Y4sNOoF) | [Daniele Polge](https://open.spotify.com/artist/5VW0vABbPzjpG5B81MfyiZ) | [Stupid Love](https://open.spotify.com/album/6c4haH9o8Rss7VdErplr7K) | 4:22 | 2026-02-02 | 2026-02-23 |
+| [Stupid Sexy Vibe](https://open.spotify.com/track/7kZw7JWDXDb8Tc0AJIDYjc) | [NØD3](https://open.spotify.com/artist/4GzClhWpkbu12QzY1nZoPy) | [Stupid Sexy Vibe](https://open.spotify.com/album/424U7FIAaoqdl4TXhVU0WD) | 3:07 | 2026-04-11 |  |
 | [Sueltate](https://open.spotify.com/track/6H9nRRIKgRARzEWxxKrInp) | [Dre Mendez](https://open.spotify.com/artist/7IgWNyKhkmxREElrD3XEvk), [Caleb Dent](https://open.spotify.com/artist/3V6IeJyXSj7ApMbvv1ZqWE) | [Sueltate](https://open.spotify.com/album/7gsKayaP9XMyAaLF3RGArF) | 3:09 | 2023-04-30 | 2023-05-30 |
 | [Summertime Blues \(feat\. Nathan Nicholson\)](https://open.spotify.com/track/6q36Cqt2d3O5jqrQR9uXCp) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Summertime Blues \(feat\. Nathan Nicholson\)](https://open.spotify.com/album/7ddG8bsJLWEgVNONjhnT8z) | 4:11 | 2024-05-19 | 2024-07-08 |
 | [Superlicious](https://open.spotify.com/track/6YtsfLBQpR23z1GN3IC6Tm) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Superlicious](https://open.spotify.com/album/6JH3t6xNDVN7DY5t15KOAs) | 3:01 | 2023-03-19 | 2023-04-10 |
@@ -622,7 +626,7 @@
 | [Tres Ecos en la Ciudad](https://open.spotify.com/track/3PqsZ7UxI0Y1wQdOoDHlC7) | [fabiom\_dj](https://open.spotify.com/artist/4OzRJdzcb3HQXpRpG1jJIP) | [Symphonic house](https://open.spotify.com/album/3jr52nMEY2rcECDUMHPPjQ) | 4:00 | 2026-04-06 |  |
 | [Triky Moment](https://open.spotify.com/track/4NM9hQgxiSBuyB6e04JVsX) | [DJ Esse](https://open.spotify.com/artist/5eXb8rgQwq17mWwmotpgQc) | [Triky Moment](https://open.spotify.com/album/39jvciHJ6qXimS2Vhmiuam) | 5:32 | 2026-02-03 | 2026-02-23 |
 | [Tuci Taci](https://open.spotify.com/track/08MT55tciHqmnVY8upiHFJ) | [TR3 Sound](https://open.spotify.com/artist/5pvDXe2gZvEZgxv2l2fHtf) | [Tuci Taci](https://open.spotify.com/album/7w7DYreWyk8sJ3iQiSMEid) | 3:59 | 2026-01-21 | 2026-02-23 |
-| [Turn Up Da Bassline](https://open.spotify.com/track/4Dodmdr8t9FVk183pBQ0gc) | [Dillon Nathaniel](https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j) | [Turn Up Da Bassline](https://open.spotify.com/album/5hgWXkwEEm8mJgU50BVZe8) | 3:11 | 2024-10-13 |  |
+| [Turn Up Da Bassline](https://open.spotify.com/track/4Dodmdr8t9FVk183pBQ0gc) | [dillon nathaniel](https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j) | [Turn Up Da Bassline](https://open.spotify.com/album/5hgWXkwEEm8mJgU50BVZe8) | 3:11 | 2024-10-13 |  |
 | [Twentyk](https://open.spotify.com/track/3FNOkOASmP5RW1kws04Msv) | [THEOS](https://open.spotify.com/artist/1hfqK3rF48A3CDcV8SAiyM) | [Break The Roof EP](https://open.spotify.com/album/5gxHkVyxMaMXsoZKcYfntZ) | 3:35 | 2023-12-10 | 2024-02-19 |
 | [Un vacío en el ser me dejaste](https://open.spotify.com/track/2v3K6Y1Z9SMhsapgvae9IU) | [fabiom\_dj](https://open.spotify.com/artist/4OzRJdzcb3HQXpRpG1jJIP) | [House latino por un mundo mejor](https://open.spotify.com/album/5gsQQyh19aGYDGvNzfdY2K) | 3:48 | 2026-01-19 | 2026-02-23 |
 | [Unplug](https://open.spotify.com/track/1lMfEjN2aKjpGtapViabUo) | [White Off](https://open.spotify.com/artist/3YYih7Xf8yIMm6nm6r1j7N) | [Unplug EP](https://open.spotify.com/album/0hPx4gWeqLaZv3FouezDUK) | 3:27 | 2024-10-13 |  |

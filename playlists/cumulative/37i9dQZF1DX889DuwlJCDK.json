@@ -9364,7 +9364,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 165447,
       "name": "Projection",
       "url": "https://open.spotify.com/track/1IFrWwHR3TlD7oQP4LFGUU"
@@ -18299,6 +18299,24 @@
     },
     {
       "album": {
+        "name": "\u30b9\u30bf\u30fc\u30c0\u30b9\u30c8\u30fb\u30a8\u30a6\u30ec\u30ab",
+        "url": "https://open.spotify.com/album/6hBaqbaXoO17HqbC38SauQ"
+      },
+      "artists": [
+        {
+          "name": "\u591a\u6b21\u5143\u5236\u5fa1\u6a5f\u69cb\u3088\u3060\u304b",
+          "url": "https://open.spotify.com/artist/2GJMiGBEYG8xiK6XAojxCd"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234080,
+      "name": "\u30b9\u30bf\u30fc\u30c0\u30b9\u30c8\u30fb\u30a8\u30a6\u30ec\u30ab",
+      "url": "https://open.spotify.com/track/4zqiyfooqhHUq1yxWAy3I7"
+    },
+    {
+      "album": {
         "name": "\u30b9\u30c8\u30c3\u30af\u30db\u30eb\u30e0\u306e\u7bb1",
         "url": "https://open.spotify.com/album/51oY8HhOEljEFqIOIyzsOG"
       },
@@ -22716,7 +22734,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-11",
+      "date_removed": null,
       "duration_ms": 183539,
       "name": "\u4f59\u71b1",
       "url": "https://open.spotify.com/track/5ey3sxOv6cmVXynUxp81C2"
@@ -29786,7 +29804,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 214693,
       "name": "\u8a00\u8449\u306b\u305b\u305a\u3068\u3082 -Acoustic version-",
       "url": "https://open.spotify.com/track/5QekvgiYhsq02Fa0PyKlX3"

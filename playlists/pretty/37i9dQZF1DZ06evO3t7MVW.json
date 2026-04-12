@@ -1,12 +1,12 @@
 {
   "description": "This is Stick Figure. The essential tracks, all in one playlist.",
-  "num_followers": 94969,
+  "num_followers": 94998,
   "original_name": "This Is Stick Figure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adbsAAAAAADoFgaLXE3kdnXNWM0qCXqA",
+  "snapshot_id": "adg9gAAAAABHHpqP8QVkVHXO8KAUHvdr",
   "tracks": [
     {
       "added_at": null,
@@ -359,26 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ways Of The World",
-        "url": "https://open.spotify.com/album/4fDFYGSc4P92SZ8UZ3te3q"
-      },
-      "artists": [
-        {
-          "name": "The Movement",
-          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
-        },
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 237756,
-      "name": "Siren (with Stick Figure)",
-      "url": "https://open.spotify.com/track/3jSlARN861elnfSuveZx8X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hopes and Dreams",
         "url": "https://open.spotify.com/album/3yCsh7NFJKoF9sEo2YLkE5"
       },
@@ -395,6 +375,26 @@
       "duration_ms": 233810,
       "name": "Livin' Easy",
       "url": "https://open.spotify.com/track/02jGkgEhljd0UC9V0HeV2v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ways Of The World",
+        "url": "https://open.spotify.com/album/4fDFYGSc4P92SZ8UZ3te3q"
+      },
+      "artists": [
+        {
+          "name": "The Movement",
+          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
+        },
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 237756,
+      "name": "Siren (with Stick Figure)",
+      "url": "https://open.spotify.com/track/3jSlARN861elnfSuveZx8X"
     },
     {
       "added_at": null,
@@ -771,6 +771,22 @@
       "duration_ms": 176399,
       "name": "Moon Palace",
       "url": "https://open.spotify.com/track/6kYKKpUZYlbDveoRsB1jTD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wisdom",
+        "url": "https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 256588,
+      "name": "Fall into the Sun",
+      "url": "https://open.spotify.com/track/0dpdFqEAwSh3KPcIiLxSMP"
     },
     {
       "added_at": null,

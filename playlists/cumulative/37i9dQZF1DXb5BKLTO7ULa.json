@@ -94656,12 +94656,12 @@
       },
       "artists": [
         {
-          "name": "Billy Dans",
-          "url": "https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW"
-        },
-        {
           "name": "Mart Hoogkamer",
           "url": "https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa"
+        },
+        {
+          "name": "Billy Dans",
+          "url": "https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW"
         }
       ],
       "date_added": "2026-04-09",
@@ -159395,7 +159395,7 @@
     },
     {
       "album": {
-        "name": "Love Hate",
+        "name": "Love Hate (feat. Thomas Day)",
         "url": "https://open.spotify.com/album/0tLM5uck8tjqqvgagX4I1p"
       },
       "artists": [
@@ -159412,7 +159412,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 192075,
-      "name": "Love Hate",
+      "name": "Love Hate (feat. Thomas Day)",
       "url": "https://open.spotify.com/track/1ysnEi1bFBkn0aCQFPh8gY"
     },
     {

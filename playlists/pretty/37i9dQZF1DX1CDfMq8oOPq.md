@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > CADÊ O BONDE DO ESCULACHO?? // Ciça
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,592 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,625 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,12 +50,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 40 | [Indomável](https://open.spotify.com/track/6J0ZXuSkhRME2HrcgnhUWJ) | [CRIOLA](https://open.spotify.com/artist/7eMtPbhMxkdp5XXD0eNu74), [VHOOR](https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH) | [Indomável](https://open.spotify.com/album/1SPuLKrxQjNmIfGIpNzPiA) | 1:52 |
 | 41 | [Bandida chata](https://open.spotify.com/track/5JcEzg4pdWcr76G0MXTqeY) | [Ana Rima](https://open.spotify.com/artist/4o94LXBtkksntdZEJbQWJk), [VITOR VRIL](https://open.spotify.com/artist/1r4Ur6C9ZTPQQQXrgY1BM8) | [bandida chata \(original\)](https://open.spotify.com/album/1WiJNCtZ8MVQ2Bh7gZztEq) | 3:20 |
 | 42 | [Man Down](https://open.spotify.com/track/1fXsBep9ifLIHlzKWuF7bA) | [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw) | [Man Down](https://open.spotify.com/album/4PDBM8CE55AbLWoISVuU5m) | 2:33 |
-| 43 | [O OURO](https://open.spotify.com/track/0XiCLdW2aLwm6LcyHvirWq) | [Mylena Drague](https://open.spotify.com/artist/1ODMXHrfQ2k5trZl4HqM4d), [Luzk](https://open.spotify.com/artist/330Q01SQBu9PZkCwmsELsy), [Damarcus](https://open.spotify.com/artist/1wv6AJd7XarhSVOIxRhWnc) | [O OURO](https://open.spotify.com/album/6Z2zqrGvbVqHhQEKdUbUOs) | 2:32 |
+| 43 | [FUTURO DO PAÍS](https://open.spotify.com/track/5bWGglIdnSSCScb4ddDGRM) | [Mylena Drague](https://open.spotify.com/artist/1ODMXHrfQ2k5trZl4HqM4d), [Luzk](https://open.spotify.com/artist/330Q01SQBu9PZkCwmsELsy), [Damarcus](https://open.spotify.com/artist/1wv6AJd7XarhSVOIxRhWnc) | [FUTURO DO PAÍS](https://open.spotify.com/album/0iPdazhl9zp5DLpCcqhrQ0) | 3:04 |
 | 44 | [Os 100](https://open.spotify.com/track/0a5B0NLxHmV0p0uK3IWqYV) | [SHURY](https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM), [biggie diehl](https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy) | [Os 100](https://open.spotify.com/album/5pKR7QsvIbyVQig07l8MFO) | 4:08 |
 | 45 | [Kylie Kenner](https://open.spotify.com/track/7jfzviafhHFK7a3rKRhT22) | [Btrem](https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Mahai](https://open.spotify.com/artist/2wRHyStBiMxi4bYc8nHdPy) | [Kylie Kenner](https://open.spotify.com/album/000FnEhyZ7C6noRngF6r1W) | 2:19 |
 | 46 | [Risquinho na Régua](https://open.spotify.com/track/5wFRckREY9EkJiz2RM3YHh) | [Buh](https://open.spotify.com/artist/3hxPH3tigGzZbPmYbYo12v), [INDIATHEBO$$](https://open.spotify.com/artist/1Kr5D5CsWUlhtHnNCRfLDO), [wBoy](https://open.spotify.com/artist/6IGiSwB4WOac9EkGQMTNRI) | [Risquinho na Régua](https://open.spotify.com/album/6i4JWGJUPgr7q3QmRnrIGC) | 2:26 |
 | 47 | [Taurus](https://open.spotify.com/track/6QEXxXD0UWYqRtD0fH4QmX) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [THS](https://open.spotify.com/artist/3mI838insJsm1g7P3EsQW4) | [TAURUS/ ÚNICA](https://open.spotify.com/album/3y0Mjfqb8h1wLITswMNri3) | 2:06 |
-| 48 | [FUTURO DO PAÍS](https://open.spotify.com/track/5bWGglIdnSSCScb4ddDGRM) | [Mylena Drague](https://open.spotify.com/artist/1ODMXHrfQ2k5trZl4HqM4d), [Luzk](https://open.spotify.com/artist/330Q01SQBu9PZkCwmsELsy), [Damarcus](https://open.spotify.com/artist/1wv6AJd7XarhSVOIxRhWnc) | [FUTURO DO PAÍS](https://open.spotify.com/album/0iPdazhl9zp5DLpCcqhrQ0) | 3:04 |
+| 48 | [O OURO](https://open.spotify.com/track/0XiCLdW2aLwm6LcyHvirWq) | [Mylena Drague](https://open.spotify.com/artist/1ODMXHrfQ2k5trZl4HqM4d), [Luzk](https://open.spotify.com/artist/330Q01SQBu9PZkCwmsELsy), [Damarcus](https://open.spotify.com/artist/1wv6AJd7XarhSVOIxRhWnc) | [O OURO](https://open.spotify.com/album/6Z2zqrGvbVqHhQEKdUbUOs) | 2:32 |
 | 49 | [Faina](https://open.spotify.com/track/50G0SGgI8Q9bGmwLH3ImvM) | [SHURY](https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM), [biggie diehl](https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy) | [Código de Rua](https://open.spotify.com/album/27XyYc372EYMhHiKdU6qb6) | 2:39 |
 | 50 | [TÃOQUENTE](https://open.spotify.com/track/23Z1lShTFinifegJBwhOaz) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [TÃOQUENTE \- No Meu Club](https://open.spotify.com/album/6rBy862OKIVHmQeMStkcUC) | 1:49 |
 

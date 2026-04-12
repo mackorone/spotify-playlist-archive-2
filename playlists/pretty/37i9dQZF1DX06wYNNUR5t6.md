@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06wYNNUR5t6.md) - [plain]
 
 > Recent hits from all your favorite Christian Rock artists!  Cover: Emerson Day
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,042 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,065 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06wYNNUR5t6.md) - [plain]
 | 49 | [Mirror Mirror](https://open.spotify.com/track/655chF6VkcXtmErpzj0h0x) | [Random Hero](https://open.spotify.com/artist/0FOuR45KED7o5G3bugebGA) | [The Covering](https://open.spotify.com/album/7GwZOydAvSG27rpzjhAhZP) | 3:26 |
 | 50 | [What Are You Waiting For](https://open.spotify.com/track/0Nu0KWmS8h2QRV2vhCzE3S) | [Futur](https://open.spotify.com/artist/4Z9WYkdvygjmT03fH7syx9) | [What Are You Waiting For](https://open.spotify.com/album/5FFS881QSIWbv9oxbAMFK9) | 3:19 |
 
-Snapshot ID: `AAAAAGiaK6rcIGqSRvIR4VXamhriJDeq`
+Snapshot ID: `AAAAAP8lflg+6s0WY+qRMq3MDTgdz7Xh`

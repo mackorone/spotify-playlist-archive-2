@@ -2,7 +2,7 @@
 
 ### [Bolero Tuyệt Phẩm](https://open.spotify.com/playlist/37i9dQZF1DWWdlSG3xntgM)
 
-> Những ca khúc để đời của dòng nhạc vàng\. Ảnh bìa: Như Quỳnh
+> Những ca khúc để đời của dòng nhạc vàng\. Ảnh bìa: Lệ Quyên
 
 351 songs - 1 day 6 hr 36 min
 
@@ -31,7 +31,7 @@
 | [Cho Vừa Lòng Em](https://open.spotify.com/track/6GNpeqpRmnw1vd7Qwikxur) | [Lệ Quyên](https://open.spotify.com/artist/4F5jaYapI8RtTpqwaYs4IF) | [Đêm Tâm Sự \(Khúc Tình Xưa 3\)](https://open.spotify.com/album/1u3z4jXHWQlbn6as6GECjV) | 5:18 | 2025-05-23 | 2026-02-08 |
 | [Cho Vừa Lòng Em](https://open.spotify.com/track/1YKdd2qGWbHTlUPICTZ9b8) | [Tuấn Vũ](https://open.spotify.com/artist/5KPAddqEN2xZHp4jHxtpvP) | [Tuấn Vũ \- Tuyệt Phẩm Để Đời](https://open.spotify.com/album/7dXRbsTyd3zxiA931DSi6k) | 5:49 | 2023-10-06 | 2023-10-13 |
 | [Cho Vừa Lòng Em](https://open.spotify.com/track/6UD98g4tbiLzjas9m81jpo) | [Đàm Vĩnh Hưng](https://open.spotify.com/artist/4ht0wODL01ELRxlDYvsFad) | [Qua Cơn Mê](https://open.spotify.com/album/5e8L4OFh0PSEKzWYKY9uAK) | 5:31 | 2022-03-11 | 2022-07-28 |
-| [Chuyen Tinh Khong Di Vang](https://open.spotify.com/track/5ygjBNNPEdVjmUmWxzEJ7V) | [Tuấn Vũ](https://open.spotify.com/artist/5KPAddqEN2xZHp4jHxtpvP) | [Chuyen Doi Toi Tuan Vu, Vol\. 6](https://open.spotify.com/album/5p3HfLsl5TsfCABDfvh9VY) | 5:29 | 2024-05-27 | 2026-03-27 |
+| [Chuyen Tinh Khong Di Vang](https://open.spotify.com/track/5ygjBNNPEdVjmUmWxzEJ7V) | [Tuấn Vũ](https://open.spotify.com/artist/5KPAddqEN2xZHp4jHxtpvP) | [Chuyen Doi Toi Tuan Vu, Vol\. 6](https://open.spotify.com/album/5p3HfLsl5TsfCABDfvh9VY) | 5:29 | 2024-05-27 |  |
 | [Chuyen Tinh Nguoi Dan Ao](https://open.spotify.com/track/4ySMmjCyJvFt3eMbIjFyv7) | [Thái Châu](https://open.spotify.com/artist/5AnqQwU6JkgU0dFmFKI6dM) | [Hoang Vu](https://open.spotify.com/album/3mbToXjyHoSaiHnFweVJuJ) | 6:01 | 2025-06-03 | 2025-11-07 |
 | [Chuyến tàu hoàng hôn](https://open.spotify.com/track/1Cx6Fu7TJGFUlly9wLGgwN) | [Dan Nguyen](https://open.spotify.com/artist/3AYPFIPDQ5aUUZzQ9OsqEn) | [Thương Về Miền Trung](https://open.spotify.com/album/3N6nwHtcPzuxlnwWFj4jYA) | 5:36 | 2022-03-11 |  |
 | [Chuyến Tàu Hoàng Hôn](https://open.spotify.com/track/68MQeS7SL9bIe3BMZ9NKow) | [Lệ Quyên](https://open.spotify.com/artist/4F5jaYapI8RtTpqwaYs4IF) | [Đêm Tâm Sự \(Khúc Tình Xưa 3\)](https://open.spotify.com/album/1u3z4jXHWQlbn6as6GECjV) | 5:05 | 2026-03-01 |  |
@@ -177,7 +177,7 @@
 | [Neu Xuan Nay Vang Anh](https://open.spotify.com/track/20Gr99jzzSqnU17k93UwNX) | [Tuấn Vũ](https://open.spotify.com/artist/5KPAddqEN2xZHp4jHxtpvP) | [Xuan](https://open.spotify.com/album/7ElPpeYDFpYEIcnyhZEpNH) | 4:16 | 2024-02-09 | 2024-02-22 |
 | [Ngay Vui Qua Mau](https://open.spotify.com/track/1t72SNEH2cWtXI0Hj2Ib4V) | [Tuấn Vũ](https://open.spotify.com/artist/5KPAddqEN2xZHp4jHxtpvP) | [Qua Ngo Nha Em](https://open.spotify.com/album/5Z6icFsqd4VgKXacK0Jm9S) | 5:16 | 2025-05-02 | 2025-06-04 |
 | [Ngay Xuan Tham Nhau](https://open.spotify.com/track/1ApL5usvMkc2ed3S4NRV9r) | [Dang The Luan](https://open.spotify.com/artist/5ZoyJCSoTvvE12HZFBpwT4), [Truc Mi](https://open.spotify.com/artist/46zJ3KV7IBDYq3s0LEUvT8) | [Cau Chuyen Dau Nam](https://open.spotify.com/album/6yv81QWA6z2dHcZn7rCKQX) | 4:20 | 2023-01-17 | 2023-06-04 |
-| [Ngoại ô buồn](https://open.spotify.com/track/3YPk1P3F4qnlnTCN1lrhJh) | [Tuấn Vũ](https://open.spotify.com/artist/5KPAddqEN2xZHp4jHxtpvP) | [Tuyệt phẩm Tuấn Vũ](https://open.spotify.com/album/1irQ9Llxt2PKrQgx0Cxujh) | 4:40 | 2024-05-27 |  |
+| [Ngoại ô buồn](https://open.spotify.com/track/3YPk1P3F4qnlnTCN1lrhJh) | [Tuấn Vũ](https://open.spotify.com/artist/5KPAddqEN2xZHp4jHxtpvP) | [Tuyệt phẩm Tuấn Vũ](https://open.spotify.com/album/1irQ9Llxt2PKrQgx0Cxujh) | 4:40 | 2024-05-27 | 2026-04-12 |
 | [Nguoi Ngoai Pho](https://open.spotify.com/track/7ctjDZ8vqfFvZj26wGM2Ll) | [Nhu Quynh](https://open.spotify.com/artist/2MMHHBwHK7jwIns4hcKIBe) | [Ao Hoa \(The Best Of Nhu Quynh 2\)](https://open.spotify.com/album/3zm5S110SIrzxxlRebDYN8) | 4:36 | 2022-03-11 | 2022-07-28 |
 | [Ngàn thu vĩnh biệt](https://open.spotify.com/track/55wkwUdE1WK5f6ZmxvFoW3) | [Tường Nguyên](https://open.spotify.com/artist/4Ai58ZXyAVZWgvyxSpiWhK) | [Về Lại Đồi Sim](https://open.spotify.com/album/0sy3wvCtsGgb6aUJg2Wghg) | 4:34 | 2025-06-03 | 2026-01-15 |
 | [Ngày Buồn](https://open.spotify.com/track/5Ab3ZKWVr25rmJjEeFiksR) | [Trường Vũ](https://open.spotify.com/artist/78P4eADp0NwlcU4tsRCBdo) | [Người Mang Tâm Sự](https://open.spotify.com/album/1LULpv1alFFo8RP1aBAd8L) | 5:24 | 2024-03-12 | 2024-06-24 |

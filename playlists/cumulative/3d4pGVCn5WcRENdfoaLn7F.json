@@ -1313,6 +1313,24 @@
     },
     {
       "album": {
+        "name": "Down and Out",
+        "url": "https://open.spotify.com/album/6Hg0NRmmjjjjaBKYqG3nGh"
+      },
+      "artists": [
+        {
+          "name": "White Star Line",
+          "url": "https://open.spotify.com/artist/3qDMmbHoQIpMvNuOzyazsh"
+        }
+      ],
+      "date_added": "2026-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222155,
+      "name": "Down and Out",
+      "url": "https://open.spotify.com/track/4FijKBMTSLv63uXNh3qM1e"
+    },
+    {
+      "album": {
         "name": "Drugstore Cowboy",
         "url": "https://open.spotify.com/album/30lF61DTj8x7Ep1htMWuyw"
       },
@@ -1476,6 +1494,24 @@
       "duration_ms": 226171,
       "name": "Fake",
       "url": "https://open.spotify.com/track/6ZiqkmLK7iMUwp4XrrmjMh"
+    },
+    {
+      "album": {
+        "name": "Fetishize Me",
+        "url": "https://open.spotify.com/album/79kv9dZL1zwHvcebBXMTnw"
+      },
+      "artists": [
+        {
+          "name": "Sarah Hedger",
+          "url": "https://open.spotify.com/artist/2CQDj93K4SEEYoQf96TjIy"
+        }
+      ],
+      "date_added": "2026-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153046,
+      "name": "Fetishize Me",
+      "url": "https://open.spotify.com/track/7LyMFbtf8aiUgUtZYoXgXb"
     },
     {
       "album": {
@@ -5492,6 +5528,24 @@
       "duration_ms": 177218,
       "name": "\u043d\u0430\u043c \u043d\u0435 \u043d\u0443\u0436\u043d\u044b \u0434\u0440\u0443\u0437\u044c\u044f 2",
       "url": "https://open.spotify.com/track/5tQjNmHZzliw3VofqYR8n0"
+    },
+    {
+      "album": {
+        "name": "\u041f\u043e\u0445\u0443\u0439",
+        "url": "https://open.spotify.com/album/6HAK3Nt64YIMqkyh9ZLvqK"
+      },
+      "artists": [
+        {
+          "name": "LU DI",
+          "url": "https://open.spotify.com/artist/5RRBvAv0PQ9trVMrH8X6ZA"
+        }
+      ],
+      "date_added": "2026-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203177,
+      "name": "\u041f\u043e\u0445\u0443\u0439",
+      "url": "https://open.spotify.com/track/2dSR6mFSl5JtKsWkh3e6pO"
     }
   ],
   "url": "https://open.spotify.com/playlist/3d4pGVCn5WcRENdfoaLn7F"

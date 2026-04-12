@@ -1,6 +1,6 @@
 {
   "description": "The latest straight bars and Afro-Trap. Cover:  Jae5, Skillibeng, Skepta, Lojay",
-  "num_followers": 188868,
+  "num_followers": 188911,
   "original_name": "Afro Bars ",
   "owner": {
     "name": "Spotify",
@@ -655,18 +655,22 @@
     {
       "added_at": "2026-04-10 00:02:01",
       "album": {
-        "name": "No Excuses",
-        "url": "https://open.spotify.com/album/307ndfsqUj3MF4y0uHsinE"
+        "name": "Emeka Must Shine",
+        "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
       },
       "artists": [
         {
           "name": "Blaqbonez",
           "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
         }
       ],
-      "duration_ms": 224000,
-      "name": "ACL",
-      "url": "https://open.spotify.com/track/26hGieucfbYZBwHcq2G05S"
+      "duration_ms": 155500,
+      "name": "NYEM EGO (feat. Jeriq)",
+      "url": "https://open.spotify.com/track/2GG6ETOQ8jiXcKYrwhNi0M"
     },
     {
       "added_at": "2026-04-10 00:02:01",
@@ -751,22 +755,18 @@
     {
       "added_at": "2026-04-10 00:02:01",
       "album": {
-        "name": "Emeka Must Shine",
-        "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
+        "name": "Go Crazy",
+        "url": "https://open.spotify.com/album/5uE4icrIPuWXaMFcCGyC1y"
       },
       "artists": [
         {
           "name": "Blaqbonez",
           "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "Jeriq",
-          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
         }
       ],
-      "duration_ms": 155500,
-      "name": "NYEM EGO (feat. Jeriq)",
-      "url": "https://open.spotify.com/track/2GG6ETOQ8jiXcKYrwhNi0M"
+      "duration_ms": 134237,
+      "name": "Go Crazy",
+      "url": "https://open.spotify.com/track/1lWcw1YdBbYbFzJ9BKyDqc"
     },
     {
       "added_at": "2026-04-10 00:02:01",
@@ -847,8 +847,8 @@
     {
       "added_at": "2026-04-10 00:02:01",
       "album": {
-        "name": "Go Crazy",
-        "url": "https://open.spotify.com/album/5uE4icrIPuWXaMFcCGyC1y"
+        "name": "No Excuses",
+        "url": "https://open.spotify.com/album/307ndfsqUj3MF4y0uHsinE"
       },
       "artists": [
         {
@@ -856,9 +856,9 @@
           "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
         }
       ],
-      "duration_ms": 134237,
-      "name": "Go Crazy",
-      "url": "https://open.spotify.com/track/1lWcw1YdBbYbFzJ9BKyDqc"
+      "duration_ms": 224000,
+      "name": "ACL",
+      "url": "https://open.spotify.com/track/26hGieucfbYZBwHcq2G05S"
     },
     {
       "added_at": "2026-04-10 00:02:01",
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2026-04-10 00:02:01",
       "album": {
-        "name": "Leftie (Dlala Ngcobo)",
-        "url": "https://open.spotify.com/album/4vrHJEAGizqZHuf4pSXpQD"
-      },
-      "artists": [
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        },
-        {
-          "name": "Blxckie",
-          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
-        }
-      ],
-      "duration_ms": 148869,
-      "name": "Leftie (Dlala Ngcobo)",
-      "url": "https://open.spotify.com/track/4rvyWzIbcobWutWtcgUN0k"
-    },
-    {
-      "added_at": "2026-04-10 00:02:01",
-      "album": {
         "name": "Forever (feat. Shallipopi)",
         "url": "https://open.spotify.com/album/59uFPaqOx7ASdp3SM6tTFZ"
       },
@@ -1147,6 +1127,26 @@
       "duration_ms": 155883,
       "name": "Forever (feat. Shallipopi)",
       "url": "https://open.spotify.com/track/0MAUM5bJIV77liYMlLLf08"
+    },
+    {
+      "added_at": "2026-04-10 00:02:01",
+      "album": {
+        "name": "Leftie (Dlala Ngcobo)",
+        "url": "https://open.spotify.com/album/4vrHJEAGizqZHuf4pSXpQD"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        },
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        }
+      ],
+      "duration_ms": 148869,
+      "name": "Leftie (Dlala Ngcobo)",
+      "url": "https://open.spotify.com/track/4rvyWzIbcobWutWtcgUN0k"
     },
     {
       "added_at": "2026-04-10 00:02:01",
@@ -1187,6 +1187,30 @@
       "duration_ms": 168000,
       "name": "TRAUMA",
       "url": "https://open.spotify.com/track/6JePde3UV8Bu4rcmw4Jnym"
+    },
+    {
+      "added_at": "2026-04-10 00:02:01",
+      "album": {
+        "name": "JET SET",
+        "url": "https://open.spotify.com/album/3hlJr1ryAyQ9mavdIqLneV"
+      },
+      "artists": [
+        {
+          "name": "Ameka Zrai",
+          "url": "https://open.spotify.com/artist/2PG1Fj7Mp49NqxNtjZdMsv"
+        },
+        {
+          "name": "OG Mahilet",
+          "url": "https://open.spotify.com/artist/3WbcgjqtToJiTxZ3IlibGT"
+        },
+        {
+          "name": "Hoodbaby",
+          "url": "https://open.spotify.com/artist/2QUhLhWyOfUIJnSCwmJNbY"
+        }
+      ],
+      "duration_ms": 184347,
+      "name": "JET SET",
+      "url": "https://open.spotify.com/track/6FZZQalH51XLffDBwkh1JO"
     },
     {
       "added_at": "2026-04-10 00:02:01",
@@ -1243,30 +1267,6 @@
       "duration_ms": 169793,
       "name": "TAI CHI",
       "url": "https://open.spotify.com/track/5dc28G1bMYFNGsSc1D5uA7"
-    },
-    {
-      "added_at": "2026-04-10 00:02:01",
-      "album": {
-        "name": "JET SET",
-        "url": "https://open.spotify.com/album/3hlJr1ryAyQ9mavdIqLneV"
-      },
-      "artists": [
-        {
-          "name": "Ameka Zrai",
-          "url": "https://open.spotify.com/artist/2PG1Fj7Mp49NqxNtjZdMsv"
-        },
-        {
-          "name": "OG Mahilet",
-          "url": "https://open.spotify.com/artist/3WbcgjqtToJiTxZ3IlibGT"
-        },
-        {
-          "name": "Hoodbaby",
-          "url": "https://open.spotify.com/artist/2QUhLhWyOfUIJnSCwmJNbY"
-        }
-      ],
-      "duration_ms": 184347,
-      "name": "JET SET",
-      "url": "https://open.spotify.com/track/6FZZQalH51XLffDBwkh1JO"
     },
     {
       "added_at": "2026-04-10 00:02:01",

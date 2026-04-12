@@ -1,6 +1,6 @@
 {
   "description": "Rock legends from Ireland. Cover: Sin\u00e9ad O'Connor",
-  "num_followers": 61507,
+  "num_followers": 61536,
   "original_name": "Irish Rock Classics",
   "owner": {
     "name": "Spotify",
@@ -523,22 +523,6 @@
     {
       "added_at": "2022-03-17 10:54:32",
       "album": {
-        "name": "Twenty Fifth Anniversary Collection",
-        "url": "https://open.spotify.com/album/2OwFueJdLMczXLH0WDptqq"
-      },
-      "artists": [
-        {
-          "name": "Bagatelle",
-          "url": "https://open.spotify.com/artist/4NlVFd1K2l7eDURUGjXxde"
-        }
-      ],
-      "duration_ms": 294506,
-      "name": "Summer in Dublin",
-      "url": "https://open.spotify.com/track/7mY1GSHaJplKRF8yJOf8iO"
-    },
-    {
-      "added_at": "2022-03-17 10:54:32",
-      "album": {
         "name": "Johnny The Fox",
         "url": "https://open.spotify.com/album/4mxKyD8U3gtuLha0YdQbpD"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 137866,
       "name": "Don't Believe A Word",
       "url": "https://open.spotify.com/track/19Db89BvpKxmuT4S31OkRX"
+    },
+    {
+      "added_at": "2022-03-17 10:54:32",
+      "album": {
+        "name": "Twenty Fifth Anniversary Collection",
+        "url": "https://open.spotify.com/album/2OwFueJdLMczXLH0WDptqq"
+      },
+      "artists": [
+        {
+          "name": "Bagatelle",
+          "url": "https://open.spotify.com/artist/4NlVFd1K2l7eDURUGjXxde"
+        }
+      ],
+      "duration_ms": 294506,
+      "name": "Summer in Dublin",
+      "url": "https://open.spotify.com/track/7mY1GSHaJplKRF8yJOf8iO"
     },
     {
       "added_at": "2022-03-17 10:54:32",
@@ -651,6 +651,22 @@
     {
       "added_at": "2022-03-17 10:54:32",
       "album": {
+        "name": "Solo In Soho",
+        "url": "https://open.spotify.com/album/2rDqLB2SCj6lgiVkdYnA7c"
+      },
+      "artists": [
+        {
+          "name": "Phil Lynott",
+          "url": "https://open.spotify.com/artist/7yVrX2XZQ8eaRiD1ykz0H7"
+        }
+      ],
+      "duration_ms": 218826,
+      "name": "King's Call",
+      "url": "https://open.spotify.com/track/3x3oEFoQzTwqrMLj6Zufgf"
+    },
+    {
+      "added_at": "2022-03-17 10:54:32",
+      "album": {
         "name": "Songs For The Tempted",
         "url": "https://open.spotify.com/album/4GFXKDjclL9PwTnjrJiFpo"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 213573,
       "name": "Mary",
       "url": "https://open.spotify.com/track/29U5hgoEjrssTYJ9KeaFub"
-    },
-    {
-      "added_at": "2022-03-17 10:54:32",
-      "album": {
-        "name": "Solo In Soho",
-        "url": "https://open.spotify.com/album/2rDqLB2SCj6lgiVkdYnA7c"
-      },
-      "artists": [
-        {
-          "name": "Phil Lynott",
-          "url": "https://open.spotify.com/artist/7yVrX2XZQ8eaRiD1ykz0H7"
-        }
-      ],
-      "duration_ms": 218826,
-      "name": "King's Call",
-      "url": "https://open.spotify.com/track/3x3oEFoQzTwqrMLj6Zufgf"
     },
     {
       "added_at": "2022-03-17 10:54:32",

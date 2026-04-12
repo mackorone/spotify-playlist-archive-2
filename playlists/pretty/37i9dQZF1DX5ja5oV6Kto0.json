@@ -1,6 +1,6 @@
 {
   "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: Anabel Rose ",
-  "num_followers": 111307,
+  "num_followers": 111311,
   "original_name": "Alt\u00e9 Cruise",
   "owner": {
     "name": "Spotify",
@@ -867,22 +867,18 @@
     {
       "added_at": "2026-04-10 00:01:58",
       "album": {
-        "name": "Nana",
-        "url": "https://open.spotify.com/album/1tFYuZ0v7O2x34L0XlKEMC"
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/0btdloHfWQPFpK9UEn1GgE"
       },
       "artists": [
         {
-          "name": "Thee Diane",
-          "url": "https://open.spotify.com/artist/7DcE4JnEVxd3ZHlA5TVBK5"
-        },
-        {
-          "name": "Sabrina Bellaouel",
-          "url": "https://open.spotify.com/artist/1TI3pJmtWgehlVMJzKJaJB"
+          "name": "Sam Opoku",
+          "url": "https://open.spotify.com/artist/5NDzGl3leOCXxfUcyQC0sv"
         }
       ],
-      "duration_ms": 193453,
-      "name": "Nana",
-      "url": "https://open.spotify.com/track/4jZb5ARAPY47dZOr8nqIJa"
+      "duration_ms": 207157,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/4BOIp4SgirfXxcZltWzllK"
     },
     {
       "added_at": "2026-04-10 00:01:58",
@@ -911,38 +907,22 @@
     {
       "added_at": "2026-04-10 00:01:58",
       "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/0btdloHfWQPFpK9UEn1GgE"
+        "name": "Nana",
+        "url": "https://open.spotify.com/album/1tFYuZ0v7O2x34L0XlKEMC"
       },
       "artists": [
         {
-          "name": "Sam Opoku",
-          "url": "https://open.spotify.com/artist/5NDzGl3leOCXxfUcyQC0sv"
-        }
-      ],
-      "duration_ms": 207157,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/4BOIp4SgirfXxcZltWzllK"
-    },
-    {
-      "added_at": "2026-04-10 00:01:58",
-      "album": {
-        "name": "september rush",
-        "url": "https://open.spotify.com/album/7gdMifqpW7gUeSePcGlDWA"
-      },
-      "artists": [
-        {
-          "name": "Baves O",
-          "url": "https://open.spotify.com/artist/42tS8RFwfqTZFuyW0FrPIs"
+          "name": "Thee Diane",
+          "url": "https://open.spotify.com/artist/7DcE4JnEVxd3ZHlA5TVBK5"
         },
         {
-          "name": "M.anifest",
-          "url": "https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX"
+          "name": "Sabrina Bellaouel",
+          "url": "https://open.spotify.com/artist/1TI3pJmtWgehlVMJzKJaJB"
         }
       ],
-      "duration_ms": 137142,
-      "name": "september rush",
-      "url": "https://open.spotify.com/track/0aSkyAsDk2e2RG1R62kTjp"
+      "duration_ms": 193453,
+      "name": "Nana",
+      "url": "https://open.spotify.com/track/4jZb5ARAPY47dZOr8nqIJa"
     },
     {
       "added_at": "2026-04-10 00:01:58",
@@ -963,6 +943,26 @@
       "duration_ms": 200676,
       "name": "Rudia",
       "url": "https://open.spotify.com/track/5i1nYNLXTFnYWpYeo9ueTf"
+    },
+    {
+      "added_at": "2026-04-10 00:01:58",
+      "album": {
+        "name": "september rush",
+        "url": "https://open.spotify.com/album/7gdMifqpW7gUeSePcGlDWA"
+      },
+      "artists": [
+        {
+          "name": "Baves O",
+          "url": "https://open.spotify.com/artist/42tS8RFwfqTZFuyW0FrPIs"
+        },
+        {
+          "name": "M.anifest",
+          "url": "https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "september rush",
+      "url": "https://open.spotify.com/track/0aSkyAsDk2e2RG1R62kTjp"
     },
     {
       "added_at": "2026-04-10 00:01:58",
@@ -1039,6 +1039,26 @@
     {
       "added_at": "2026-04-10 00:01:58",
       "album": {
+        "name": "Novacaine",
+        "url": "https://open.spotify.com/album/1Xx313px4lu947MnygS9ej"
+      },
+      "artists": [
+        {
+          "name": "K0NYE",
+          "url": "https://open.spotify.com/artist/0hyEwDiCc3bp1NVMGi8PMZ"
+        },
+        {
+          "name": "DEBAYO",
+          "url": "https://open.spotify.com/artist/2uBCvfIeglYX3d6NOKKxGL"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Novacaine",
+      "url": "https://open.spotify.com/track/6lkYy8wRZiVOp33BgyiXMu"
+    },
+    {
+      "added_at": "2026-04-10 00:01:58",
+      "album": {
         "name": "Lust In Lagos",
         "url": "https://open.spotify.com/album/1p64taGG5alX0Um08kFN1N"
       },
@@ -1059,26 +1079,6 @@
       "duration_ms": 211934,
       "name": "Soft Prayer",
       "url": "https://open.spotify.com/track/7BIkcr2aqUPUuRXCL75L6z"
-    },
-    {
-      "added_at": "2026-04-10 00:01:58",
-      "album": {
-        "name": "Novacaine",
-        "url": "https://open.spotify.com/album/1Xx313px4lu947MnygS9ej"
-      },
-      "artists": [
-        {
-          "name": "K0NYE",
-          "url": "https://open.spotify.com/artist/0hyEwDiCc3bp1NVMGi8PMZ"
-        },
-        {
-          "name": "DEBAYO",
-          "url": "https://open.spotify.com/artist/2uBCvfIeglYX3d6NOKKxGL"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Novacaine",
-      "url": "https://open.spotify.com/track/6lkYy8wRZiVOp33BgyiXMu"
     },
     {
       "added_at": "2026-04-10 00:01:58",
@@ -1275,34 +1275,6 @@
     {
       "added_at": "2026-04-10 00:01:58",
       "album": {
-        "name": "STYLO",
-        "url": "https://open.spotify.com/album/2ucxizxSDZPeSVCB5Gsjtj"
-      },
-      "artists": [
-        {
-          "name": "La So\u00fclchyld",
-          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
-        },
-        {
-          "name": "UNiTY Originaal",
-          "url": "https://open.spotify.com/artist/485fRmt9X7md56mWTeen5V"
-        },
-        {
-          "name": "BayO",
-          "url": "https://open.spotify.com/artist/2sxBe3sK3BbxcZ9QGDiSCi"
-        },
-        {
-          "name": "Kavali King",
-          "url": "https://open.spotify.com/artist/72NnAw7RD362zfQsBPvoPn"
-        }
-      ],
-      "duration_ms": 202500,
-      "name": "STYLO",
-      "url": "https://open.spotify.com/track/3IAPorNgZ8uAr7pfmMYfZO"
-    },
-    {
-      "added_at": "2026-04-10 00:01:58",
-      "album": {
         "name": "4 DA PAIN",
         "url": "https://open.spotify.com/album/0TM6jciackri09qoY3SV9s"
       },
@@ -1343,22 +1315,30 @@
     {
       "added_at": "2026-04-10 00:01:58",
       "album": {
-        "name": "Lock In",
-        "url": "https://open.spotify.com/album/5ziFmKymfaKOe3b1axOjjS"
+        "name": "STYLO",
+        "url": "https://open.spotify.com/album/2ucxizxSDZPeSVCB5Gsjtj"
       },
       "artists": [
         {
-          "name": "Tim Lyre",
-          "url": "https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx"
+          "name": "La So\u00fclchyld",
+          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
         },
         {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+          "name": "UNiTY Originaal",
+          "url": "https://open.spotify.com/artist/485fRmt9X7md56mWTeen5V"
+        },
+        {
+          "name": "BayO",
+          "url": "https://open.spotify.com/artist/2sxBe3sK3BbxcZ9QGDiSCi"
+        },
+        {
+          "name": "Kavali King",
+          "url": "https://open.spotify.com/artist/72NnAw7RD362zfQsBPvoPn"
         }
       ],
-      "duration_ms": 173839,
-      "name": "Lock In",
-      "url": "https://open.spotify.com/track/69u0Cv7EK6HoRDtfhb7vrv"
+      "duration_ms": 202500,
+      "name": "STYLO",
+      "url": "https://open.spotify.com/track/3IAPorNgZ8uAr7pfmMYfZO"
     },
     {
       "added_at": "2026-04-10 00:01:58",
@@ -1375,6 +1355,26 @@
       "duration_ms": 172634,
       "name": "Italawa",
       "url": "https://open.spotify.com/track/3P2eWhx3G91lOwuv95NHw9"
+    },
+    {
+      "added_at": "2026-04-10 00:01:58",
+      "album": {
+        "name": "Lock In",
+        "url": "https://open.spotify.com/album/5ziFmKymfaKOe3b1axOjjS"
+      },
+      "artists": [
+        {
+          "name": "Tim Lyre",
+          "url": "https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx"
+        },
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        }
+      ],
+      "duration_ms": 173839,
+      "name": "Lock In",
+      "url": "https://open.spotify.com/track/69u0Cv7EK6HoRDtfhb7vrv"
     },
     {
       "added_at": "2026-04-10 00:01:58",
@@ -1415,26 +1415,6 @@
     {
       "added_at": "2026-04-10 00:01:58",
       "album": {
-        "name": "Bounce",
-        "url": "https://open.spotify.com/album/4OmRGgT3q2bdlk3Ikd9R6r"
-      },
-      "artists": [
-        {
-          "name": "OS\u00c1",
-          "url": "https://open.spotify.com/artist/5aAEuygCKLNC6RmKotyGpl"
-        },
-        {
-          "name": "MAUIM\u00d8ON",
-          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
-        }
-      ],
-      "duration_ms": 125581,
-      "name": "Bounce",
-      "url": "https://open.spotify.com/track/0WxcWcoxl59hd7pLZuUxeW"
-    },
-    {
-      "added_at": "2026-04-10 00:01:58",
-      "album": {
         "name": "In Pursuit Of Happiness",
         "url": "https://open.spotify.com/album/7cR90I8NPn64HTVjcDHQpb"
       },
@@ -1455,6 +1435,26 @@
     {
       "added_at": "2026-04-10 00:01:58",
       "album": {
+        "name": "Bounce",
+        "url": "https://open.spotify.com/album/4OmRGgT3q2bdlk3Ikd9R6r"
+      },
+      "artists": [
+        {
+          "name": "OS\u00c1",
+          "url": "https://open.spotify.com/artist/5aAEuygCKLNC6RmKotyGpl"
+        },
+        {
+          "name": "MAUIM\u00d8ON",
+          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
+        }
+      ],
+      "duration_ms": 125581,
+      "name": "Bounce",
+      "url": "https://open.spotify.com/track/0WxcWcoxl59hd7pLZuUxeW"
+    },
+    {
+      "added_at": "2026-04-10 00:01:58",
+      "album": {
         "name": "Candies",
         "url": "https://open.spotify.com/album/2rgFM5NLjLSEbp4CjUUFzR"
       },
@@ -1471,42 +1471,38 @@
     {
       "added_at": "2026-04-10 00:01:58",
       "album": {
-        "name": "WELCOME 2 THE VILLE",
-        "url": "https://open.spotify.com/album/67FvSNo4BQU0I46AuwIbvU"
+        "name": "Pray for the Kids",
+        "url": "https://open.spotify.com/album/6YK2EvLKE64QQjYjHGtHIS"
       },
       "artists": [
         {
-          "name": "Apex Village",
-          "url": "https://open.spotify.com/artist/2ARvKBDt3jOQooc73rI2Y2"
-        },
-        {
-          "name": "Uloko",
-          "url": "https://open.spotify.com/artist/1674s2psVcNDWPwXZ9x1ZP"
-        },
-        {
-          "name": "Marv OTM",
-          "url": "https://open.spotify.com/artist/6d8xfrC9LQGafSliHHxEZq"
+          "name": "AYL\u00d8",
+          "url": "https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd"
         }
       ],
-      "duration_ms": 115200,
-      "name": "HOW FAR?",
-      "url": "https://open.spotify.com/track/0qRiTOwGSqofLgLKOfclBZ"
+      "duration_ms": 186636,
+      "name": "Pray for the Kids",
+      "url": "https://open.spotify.com/track/79HMF5FAzSwzhFp6it4XFL"
     },
     {
       "added_at": "2026-04-10 00:01:58",
       "album": {
-        "name": "Freaky",
-        "url": "https://open.spotify.com/album/2t0o2APZCEKQAaBo3GlRku"
+        "name": "LAGOS",
+        "url": "https://open.spotify.com/album/0kOF0DfPNby1aHYAIi4FXn"
       },
       "artists": [
         {
-          "name": "MiDi KwaKwa",
-          "url": "https://open.spotify.com/artist/2JHku4gYXdo24MfdETrc3D"
+          "name": "SuperJazzClub",
+          "url": "https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp"
+        },
+        {
+          "name": "TR1GGA",
+          "url": "https://open.spotify.com/artist/4VQFYrDf3IMmLPbQOF7Ve3"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Freaky",
-      "url": "https://open.spotify.com/track/2bbMeEUhF9uiFSONDUBMWr"
+      "duration_ms": 180000,
+      "name": "LAGOS",
+      "url": "https://open.spotify.com/track/3H5ua10iU8NTD93zawcnVo"
     }
   ],
   "unique_name": "Alt\u00e9 Cruise",

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-388 songs - 19 hr 35 min
+389 songs - 19 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,9 +94,10 @@
 | [Funny Face](https://open.spotify.com/track/6yJ7h7EThTaR4IYG23XWiA) | [Shelley Fabares](https://open.spotify.com/artist/6ZID5oFfvvgzIRrqXaTJSy) | [Shelley!](https://open.spotify.com/album/3gm0Xom6PrWBT1t6ua7oE0) | 1:59 | 2023-12-30 |  |
 | [Go Away Little Girl](https://open.spotify.com/track/0xx4lbu88MyZRjq8f45B0e) | [Steve Lawrence](https://open.spotify.com/artist/271pvVqDFiREx6PqzwOX8p) | [The Greatest Hits Vol\. 1](https://open.spotify.com/album/29JhBdtiRHwYqClsCCih2R) | 2:12 | 2025-12-17 | 2026-01-15 |
 | [Go Away Little Girl](https://open.spotify.com/track/5p3g0504Hv6D2noNuwOr89) | [Steve Lawrence](https://open.spotify.com/artist/271pvVqDFiREx6PqzwOX8p), [Eydie Gorme](https://open.spotify.com/artist/6ga7tG092PyUsC7M2IWHIO) | [Here To Love You](https://open.spotify.com/album/68ogOEGPzBWBPxCmtINTzD) | 2:14 | 2026-01-14 | 2026-02-20 |
+| [Go Away Little Girl](https://open.spotify.com/track/1wwdRXhMXl5JiyAc0uIMry) | [Steve Lawrence](https://open.spotify.com/artist/271pvVqDFiREx6PqzwOX8p), [Eydie Gormé](https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z) | [Midnight In Manhattan](https://open.spotify.com/album/0iA7HG1up9s39tkDN7rp40) | 2:11 | 2026-04-11 |  |
 | [Go Away Little Girl](https://open.spotify.com/track/2kwuLiLoJb0XRjKmHGZFdF) | [Steve Lawrence](https://open.spotify.com/artist/271pvVqDFiREx6PqzwOX8p), [Eydie Gormé](https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z) | [The Myth of Steve Lawrence](https://open.spotify.com/album/0rnEhJ3BRFjsPOtQhEydmD) | 2:14 | 2024-11-17 | 2024-12-12 |
 | [Go Away Little Girl](https://open.spotify.com/track/5wumm6TVaKYbfZo5hCcE4l) | [Steve Lawrence](https://open.spotify.com/artist/271pvVqDFiREx6PqzwOX8p), [Eydie Gormé](https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z) | [Bewitched](https://open.spotify.com/album/5cUmTGC6CZd3ptJW7eTqI5) | 2:14 | 2024-12-19 | 2025-12-18 |
-| [Go Away Little Girl \(2023 Remastered\)](https://open.spotify.com/track/3TNJOWgzYMYtTbVJfD8sPE) | [Steve Lawrence](https://open.spotify.com/artist/271pvVqDFiREx6PqzwOX8p), [Eydie Gormé](https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z) | [Essential Classics, Vol\. 16: Steve Lawrence](https://open.spotify.com/album/4QNsKDSEVji4sM98Yer9ej) | 2:11 | 2024-03-02 |  |
+| [Go Away Little Girl \(2023 Remastered\)](https://open.spotify.com/track/3TNJOWgzYMYtTbVJfD8sPE) | [Steve Lawrence](https://open.spotify.com/artist/271pvVqDFiREx6PqzwOX8p), [Eydie Gormé](https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z) | [Essential Classics, Vol\. 16: Steve Lawrence](https://open.spotify.com/album/4QNsKDSEVji4sM98Yer9ej) | 2:11 | 2024-03-02 | 2026-04-12 |
 | [God Only Knows](https://open.spotify.com/track/08eCQi9h03wYDNxtUN94OF) | [The Fun Surfers](https://open.spotify.com/artist/46sr5uwA9UiQgqtVPQMSgM) | [Hot 100 2017: Australia Day](https://open.spotify.com/album/3HQsI1KdfBILNojoVRdDMc) | 2:24 | 2023-12-30 |  |
 | [Goin' Back](https://open.spotify.com/track/6mM3QPK502fHwOYaj6ELmm) | [The Byrds](https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc) | [The Notorious Byrd Brothers](https://open.spotify.com/album/5UI2X5VAmgu9xrlXDd5U7B) | 3:25 | 2023-12-30 |  |
 | [Golden Days](https://open.spotify.com/track/7jcInqhfBalnzBRfozpvbJ) | [Kathy Kirby](https://open.spotify.com/artist/1kVx0f62SrfKxKIzXJtTUf) | [The Best Of The EMI Years](https://open.spotify.com/album/4IgZkMxuTkMXiaa6Nq9IJw) | 2:59 | 2023-12-30 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTL4zPbYeMFs.md) - [plain]
 
 > Music, laughter and happiness all around on your special day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,561 likes - 75 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,589 likes - 75 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTL4zPbYeMFs.md) - [plain]
 | 68 | [Phir Aur Kya Chahiye \(From "Zara Hatke Zara Bachke"\)](https://open.spotify.com/track/7Ky9U9iHjGBiRax3joCRDS) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabha Bhattacharya](https://open.spotify.com/artist/7uw9rkZ9mxuSBuURy86ERR) | [Phir Aur Kya Chahiye \(From "Zara Hatke Zara Bachke"\) \- Single](https://open.spotify.com/album/1skD49xUwXnHLMrlEKTo6j) | 4:26 |
 | 69 | [Kadi Te Has Bol](https://open.spotify.com/track/10ds7gidDqEORLayc77ABS) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Velo Sound Station](https://open.spotify.com/artist/36R4BjMUZw5ivfFomI7WGd) | [Velo Sound Station EP 1](https://open.spotify.com/album/65gu8TflgmcPGccXb2cYNf) | 4:29 |
 | 70 | [Raanjhan Aaya](https://open.spotify.com/track/0vqtlDkv6BamM6PIKM9ptz) | [Masaba](https://open.spotify.com/artist/5wqQrS5pyg3kv4FRI6I45P), [Akshay & IP](https://open.spotify.com/artist/2jiSIlVrIaBnJA2x4jqqvf) | [Raanjhan Aaya](https://open.spotify.com/album/1D42KMvs4ntxc04oXyY7cJ) | 2:43 |
-| 71 | [Chaap Tilak](https://open.spotify.com/track/0XCtRvfDHT98h0iUSDFtyO) | [Namita Choudhary](https://open.spotify.com/artist/3OzUySgSF8QxZScB0RxDCB) | [Chaap Tilak](https://open.spotify.com/album/0HkwpQ25VaAl4DNeXh3CtW) | 3:14 |
-| 72 | [Ek Ladki Ko Dekha Toh Aisa Laga \(From "Ek Ladki Ko Dekha Toh Aisa Laga"\)](https://open.spotify.com/track/3jyqXdAjwqO3gFtjnYrbq9) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS), [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe) | [Ek Ladki Ko Dekha Toh Aisa Laga \(From "Ek Ladki Ko Dekha Toh Aisa Laga"\) \- Single](https://open.spotify.com/album/3UWRB8JT1OrMhx9diCj31y) | 2:35 |
+| 71 | [Ek Ladki Ko Dekha Toh Aisa Laga \(From "Ek Ladki Ko Dekha Toh Aisa Laga"\)](https://open.spotify.com/track/3jyqXdAjwqO3gFtjnYrbq9) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS), [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe) | [Ek Ladki Ko Dekha Toh Aisa Laga \(From "Ek Ladki Ko Dekha Toh Aisa Laga"\) \- Single](https://open.spotify.com/album/3UWRB8JT1OrMhx9diCj31y) | 2:35 |
+| 72 | [Chaap Tilak](https://open.spotify.com/track/0XCtRvfDHT98h0iUSDFtyO) | [Namita Choudhary](https://open.spotify.com/artist/3OzUySgSF8QxZScB0RxDCB) | [Chaap Tilak](https://open.spotify.com/album/0HkwpQ25VaAl4DNeXh3CtW) | 3:14 |
 | 73 | [Tere Bin](https://open.spotify.com/track/3F5PXirySr1SjFZWOcSUbS) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Wazir](https://open.spotify.com/album/58UGZt8xJwDCcxZlRCGNws) | 4:04 |
 | 74 | [Nit Nit](https://open.spotify.com/track/6GT0oiQdjiYX91qgAMi7Vd) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c) | [Nit Nit](https://open.spotify.com/album/4RxwQSQoIluErWi0NHUs05) | 4:06 |
 | 75 | [Piya Tose Naina Laage Re Unplugged](https://open.spotify.com/track/4Koh5awXrYiWcfpQ3FOGaf) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Keba Jeremiah](https://open.spotify.com/artist/6DkjwBFBsTAzEo9M5HCI9c), [Sanket Naik](https://open.spotify.com/artist/1Gcm9bmpbQ9zsJEFXKz6lR), [S\. D\. Burman](https://open.spotify.com/artist/4vMKEXQ4cU5hb2BL4omVrT) | [Piya Tose Naina Laage Re Unplugged \- Jonita Gandhi](https://open.spotify.com/album/354fPU4JJWaRna84lIe4Np) | 3:28 |

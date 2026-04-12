@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 
 > Uma playlist de pura alma pop! Foto: Fernando Daniel
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,570 likes - 70 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,589 likes - 70 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 | 7 | [Primavera](https://open.spotify.com/track/7qmXxfDw3MUL0GJIkSi822) | [Bandidos do Cante](https://open.spotify.com/artist/3Yv2ZG7hKpMhJxzUbx8DpC), [António Zambujo](https://open.spotify.com/artist/72G65J87dqMi39O00Du2Je) | [Primavera](https://open.spotify.com/album/0tQ10DnJbxb5O1rLULpc15) | 3:49 |
 | 8 | [Há De Haver](https://open.spotify.com/track/5oEd2A6Kz0Q5Lp3Fm02sU5) | [Tiago Nacarato](https://open.spotify.com/artist/3mwYj8Nb9VZbAnLpli7l8X) | [Não Sabia O Desamor](https://open.spotify.com/album/7pY9lCo5PcqoINnHRLifhM) | 3:09 |
 | 9 | [Na Próxima Vida](https://open.spotify.com/track/6w1HPBt5ZEBtbvKB9wb03s) | [Vizinhos](https://open.spotify.com/artist/3phiMOerdzoGRyTJ240Sxj), [ÁTOA](https://open.spotify.com/artist/2IK559MuWjlwxUj6zuikU7), [Atitude 67](https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo) | [Na Próxima Vida](https://open.spotify.com/album/6PMHfeeZTWOpDmAJNEKGbE) | 2:49 |
-| 10 | [Gente Aberta](https://open.spotify.com/track/2gCiIWKITflnf9Yv7hhAUB) | [Marisa Liz](https://open.spotify.com/artist/2cM6v3lyiTwzu0lIDp1zMn) | [Gente Aberta](https://open.spotify.com/album/4XTFsTUZnv4ICoMYDxZFvQ) | 3:01 |
+| 10 | [Gente Aberta](https://open.spotify.com/track/2gCiIWKITflnf9Yv7hhAUB) | [Marisa Liz](https://open.spotify.com/artist/2cM6v3lyiTwzu0lIDp1zMn), [Camané](https://open.spotify.com/artist/3MLPFTe4BrpEV2eOVG0gLK) | [Gente Aberta](https://open.spotify.com/album/4XTFsTUZnv4ICoMYDxZFvQ) | 3:01 |
 | 11 | [Se Fores ao Alentejo](https://open.spotify.com/track/2Q8VfEzxR1rPxrwa6CopIy) | [Khiaro](https://open.spotify.com/artist/1F9fj23YI3lhbe8IX5mHRb) | [Se Fores ao Alentejo](https://open.spotify.com/album/2zi4M7CSOFzL79PODIonEx) | 2:55 |
 | 12 | [Carta de Despedida](https://open.spotify.com/track/0HEWSiwrNCjYHEVRakHMPM) | [Descendentes](https://open.spotify.com/artist/5DpVZE4NH0yveH86S2gcjh) | [Carta de Despedida](https://open.spotify.com/album/07alfjhg3pejQxssBb6AYi) | 2:51 |
 | 13 | [Amor Antigo](https://open.spotify.com/track/0A7EhW7szUKXijk50SQ489) | [Os Alentons](https://open.spotify.com/artist/4l0cDeXPYEksWKHCk424K2) | [Amor Antigo](https://open.spotify.com/album/3Wp15P2TDQhsgFAFxlRO9C) | 3:12 |

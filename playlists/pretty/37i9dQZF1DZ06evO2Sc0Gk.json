@@ -1,12 +1,12 @@
 {
   "description": "This is Mr Eazi. The essential tracks, all in one playlist.",
-  "num_followers": 21286,
+  "num_followers": 21288,
   "original_name": "This Is Mr Eazi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adbsAAAAAADhYZ8ZYZxfQ79VTXuMq8h9",
+  "snapshot_id": "adg9gAAAAAC+0jT63pmpeGuh0DMuRAGp",
   "tracks": [
     {
       "added_at": null,
@@ -895,34 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Never Walk Alone",
-        "url": "https://open.spotify.com/album/1zwm4teG7b5ySEn1cqmPV9"
-      },
-      "artists": [
-        {
-          "name": "ChopLife SoundSystem",
-          "url": "https://open.spotify.com/artist/6s93Sx8tUcsqIWtCJJzQMw"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Les Teriba",
-          "url": "https://open.spotify.com/artist/7fwk67xtIn7vS7t6EwvkbG"
-        },
-        {
-          "name": "Jessi Selm",
-          "url": "https://open.spotify.com/artist/1WLMT9B3XcmOH7WxEOi4pq"
-        }
-      ],
-      "duration_ms": 214710,
-      "name": "Never Walk Alone",
-      "url": "https://open.spotify.com/track/1rUjssvd1FdBjlTGTwohaK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Call Waiting",
         "url": "https://open.spotify.com/album/5JkpF4etIZ5IOrAPzCcfjI"
       },
@@ -951,6 +923,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Never Walk Alone",
+        "url": "https://open.spotify.com/album/1zwm4teG7b5ySEn1cqmPV9"
+      },
+      "artists": [
+        {
+          "name": "ChopLife SoundSystem",
+          "url": "https://open.spotify.com/artist/6s93Sx8tUcsqIWtCJJzQMw"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Les Teriba",
+          "url": "https://open.spotify.com/artist/7fwk67xtIn7vS7t6EwvkbG"
+        },
+        {
+          "name": "Jessi Selm",
+          "url": "https://open.spotify.com/artist/1WLMT9B3XcmOH7WxEOi4pq"
+        }
+      ],
+      "duration_ms": 214710,
+      "name": "Never Walk Alone",
+      "url": "https://open.spotify.com/track/1rUjssvd1FdBjlTGTwohaK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Life is Eazi, Vol. 2 - Lagos to London",
         "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
       },
@@ -967,22 +967,6 @@
       "duration_ms": 145174,
       "name": "Property",
       "url": "https://open.spotify.com/track/5hiegqyy2caIt1A0p0db5A"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Maison Rouge",
-        "url": "https://open.spotify.com/album/3iVYEdFLoTQjndEUi2I67I"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 187105,
-      "name": "Wait For Your Love",
-      "url": "https://open.spotify.com/track/6Xjzd1MocclDoo2jcKBdK9"
     },
     {
       "added_at": null,
@@ -1031,26 +1015,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Patek",
-        "url": "https://open.spotify.com/album/2LQzJSGVHLyIJX8rGUlhU0"
+        "name": "Maison Rouge",
+        "url": "https://open.spotify.com/album/3iVYEdFLoTQjndEUi2I67I"
       },
       "artists": [
         {
           "name": "Mr Eazi",
           "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Joey B",
-          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
-        },
-        {
-          "name": "DJ Tarico",
-          "url": "https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H"
         }
       ],
-      "duration_ms": 218230,
-      "name": "Patek",
-      "url": "https://open.spotify.com/track/3Ry6M5to0EblssBg3pfJt8"
+      "duration_ms": 187105,
+      "name": "Wait For Your Love",
+      "url": "https://open.spotify.com/track/6Xjzd1MocclDoo2jcKBdK9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dance Pon Me",
+        "url": "https://open.spotify.com/album/6FYMnjlhhyoThcscYjPHqF"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 146272,
+      "name": "Dance Pon Me",
+      "url": "https://open.spotify.com/track/5QAkndPQOLg72jJIsHEY8n"
     }
   ],
   "unique_name": "This Is Mr Eazi",

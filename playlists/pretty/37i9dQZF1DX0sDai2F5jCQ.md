@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 
 > Your shortcut to the best new Hip Hop\. Cover: DaBaby
 
-[Spotify](https://open.spotify.com/user/spotify) - 503,846 likes - 76 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 503,833 likes - 76 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > This is Sofie Birch\. The essential tracks, all in one playlist.
 
-44 songs - 3 hr 28 min
+46 songs - 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,8 @@
 | [Observatory](https://open.spotify.com/track/6DE8VAI99LyIJ16anacufA) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Nana Pi](https://open.spotify.com/artist/3gbm3E5mVftZywfgEysN6I) | [Holotropica](https://open.spotify.com/album/2W4n1zPDKzqGpbMKU21mBu) | 5:52 | 2026-03-19 |  |
 | [Outro](https://open.spotify.com/track/1xMb2ja1p267QATU3oXg8Y) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Antonina Nowacka](https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR) | [Languoria](https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf) | 1:50 | 2026-03-19 |  |
 | [Portal Of](https://open.spotify.com/track/1cVO0Xcf4ZhZXjz2NOSBZI) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Johan Carøe](https://open.spotify.com/artist/3l6IHjr0ouXmcLF1eY1Kxw) | [Calibrating Senses](https://open.spotify.com/album/4bkwSPS4JuOPwU9eoCpb7Z) | 1:42 | 2026-03-19 |  |
+| [Return from Silence](https://open.spotify.com/track/2ZRQeRdVWghcc42LGUEWUN) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Planetes](https://open.spotify.com/album/7mgSukUn1BYjvnzNWCruCf) | 5:11 | 2026-04-12 |  |
+| [Reverie](https://open.spotify.com/track/6npTUba77dx5CHI2nN3lfZ) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Planetes](https://open.spotify.com/album/7mgSukUn1BYjvnzNWCruCf) | 7:12 | 2026-04-12 |  |
 | [Runge](https://open.spotify.com/track/1ox3vHoIccsiV7t86Zw3RF) | [OTOOTO](https://open.spotify.com/artist/4bTgYIf70ESA9P1HYj7chQ), [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [2nd Quake](https://open.spotify.com/album/0e7lXXUdpt9aBP6neNLolB) | 3:54 | 2026-03-19 |  |
 | [Silver Age](https://open.spotify.com/track/4ztZ4SgrT8OnBCaExPva0R) | [OTOOTO](https://open.spotify.com/artist/4bTgYIf70ESA9P1HYj7chQ), [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [2nd Quake](https://open.spotify.com/album/0e7lXXUdpt9aBP6neNLolB) | 5:11 | 2026-03-19 |  |
 | [Slow Piru](https://open.spotify.com/track/40rypDZRUKDNpnNDxTfh54) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Island Alchemy](https://open.spotify.com/album/1ERBT1FkGAKPslESZgxWKS) | 6:53 | 2026-03-19 |  |

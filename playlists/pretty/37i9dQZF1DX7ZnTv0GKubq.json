@@ -1,6 +1,6 @@
 {
   "description": "Late night chilled vibes, for those intimate moments.",
-  "num_followers": 373774,
+  "num_followers": 373773,
   "original_name": "Spotify & Chill",
   "owner": {
     "name": "Spotify",
@@ -415,6 +415,22 @@
     {
       "added_at": "2026-04-09 11:21:32",
       "album": {
+        "name": "For All The Right Reasons Vol. 1",
+        "url": "https://open.spotify.com/album/36KvnNSPeyCHUrAQVpgwwN"
+      },
+      "artists": [
+        {
+          "name": "Lekan",
+          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
+        }
+      ],
+      "duration_ms": 191809,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/5havOQ4fTGftcDsg4LyWKc"
+    },
+    {
+      "added_at": "2026-04-09 11:21:32",
+      "album": {
         "name": "BACKWARD",
         "url": "https://open.spotify.com/album/0zN2naR1Vok73SgqTLS701"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 153145,
       "name": "SMOKIN POTNA",
       "url": "https://open.spotify.com/track/30DOrW1HFyvuwBUFKwXg29"
-    },
-    {
-      "added_at": "2026-04-09 11:21:32",
-      "album": {
-        "name": "For All The Right Reasons Vol. 1",
-        "url": "https://open.spotify.com/album/36KvnNSPeyCHUrAQVpgwwN"
-      },
-      "artists": [
-        {
-          "name": "Lekan",
-          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
-        }
-      ],
-      "duration_ms": 191809,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/5havOQ4fTGftcDsg4LyWKc"
     },
     {
       "added_at": "2026-04-09 11:21:32",

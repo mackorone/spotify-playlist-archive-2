@@ -1,6 +1,6 @@
 {
   "description": "El amor no se escucha, se siente...  \ud83d\udc96 nic & Leo Rizzi en portada.",
-  "num_followers": 557822,
+  "num_followers": 557845,
   "original_name": "Radio Coraz\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -307,22 +307,6 @@
     {
       "added_at": "2026-04-10 06:00:53",
       "album": {
-        "name": "Cuatro Caminos",
-        "url": "https://open.spotify.com/album/3ifA4OUPiT92YB4vYtAdVh"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
-        }
-      ],
-      "duration_ms": 267600,
-      "name": "Eres",
-      "url": "https://open.spotify.com/track/6kdCN6gTWLcLxmLXoUcwuI"
-    },
-    {
-      "added_at": "2026-04-10 06:00:53",
-      "album": {
         "name": "Aries",
         "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 281000,
       "name": "Hasta Que Me Olvides",
       "url": "https://open.spotify.com/track/6vPAmoERUMRoTZaCCSWQ12"
+    },
+    {
+      "added_at": "2026-04-10 06:00:53",
+      "album": {
+        "name": "Cuatro Caminos",
+        "url": "https://open.spotify.com/album/3ifA4OUPiT92YB4vYtAdVh"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "duration_ms": 267600,
+      "name": "Eres",
+      "url": "https://open.spotify.com/track/6kdCN6gTWLcLxmLXoUcwuI"
     },
     {
       "added_at": "2026-04-10 06:00:53",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-04-10 06:00:53",
       "album": {
-        "name": "Lo Que Siempre So\u00f1amos Ser",
-        "url": "https://open.spotify.com/album/0zk9uwiVhuRfUs6XnE2wsx"
-      },
-      "artists": [
-        {
-          "name": "Sandoval",
-          "url": "https://open.spotify.com/artist/4FG27h3EzTkxI1YDnHhuRW"
-        }
-      ],
-      "duration_ms": 229760,
-      "name": "A quien t\u00fa decidiste amar",
-      "url": "https://open.spotify.com/track/3lJwIAfeWtnNRbJXWbIHKD"
-    },
-    {
-      "added_at": "2026-04-10 06:00:53",
-      "album": {
         "name": "30 de Febrero",
         "url": "https://open.spotify.com/album/2OxyM5ID5JYs1wh8hTsJph"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 194386,
       "name": "No Pasa Nada",
       "url": "https://open.spotify.com/track/6Gusd5o0sQD1jmmoQlvNw4"
+    },
+    {
+      "added_at": "2026-04-10 06:00:53",
+      "album": {
+        "name": "Lo Que Siempre So\u00f1amos Ser",
+        "url": "https://open.spotify.com/album/0zk9uwiVhuRfUs6XnE2wsx"
+      },
+      "artists": [
+        {
+          "name": "Sandoval",
+          "url": "https://open.spotify.com/artist/4FG27h3EzTkxI1YDnHhuRW"
+        }
+      ],
+      "duration_ms": 229760,
+      "name": "A quien t\u00fa decidiste amar",
+      "url": "https://open.spotify.com/track/3lJwIAfeWtnNRbJXWbIHKD"
     },
     {
       "added_at": "2026-04-10 06:00:53",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2026-04-10 06:00:53",
       "album": {
+        "name": "Si Me Dejas Ahora",
+        "url": "https://open.spotify.com/album/67vQGGmJo6HWohZswCAnXc"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "Si Me Dejas Ahora",
+      "url": "https://open.spotify.com/track/4Ffrs6kqh1cyNC1gdRWI38"
+    },
+    {
+      "added_at": "2026-04-10 06:00:53",
+      "album": {
         "name": "Lejos de la Ciudad (con Camilo)",
         "url": "https://open.spotify.com/album/77bk6nc9OGUllHsYJh0Icu"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 187358,
       "name": "Lejos de la Ciudad - con Camilo",
       "url": "https://open.spotify.com/track/3iDMvP8BZxE2Olorh2pWg9"
-    },
-    {
-      "added_at": "2026-04-10 06:00:53",
-      "album": {
-        "name": "Si Me Dejas Ahora",
-        "url": "https://open.spotify.com/album/67vQGGmJo6HWohZswCAnXc"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 272000,
-      "name": "Si Me Dejas Ahora",
-      "url": "https://open.spotify.com/track/4Ffrs6kqh1cyNC1gdRWI38"
     },
     {
       "added_at": "2026-04-10 06:00:53",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2026-04-10 06:00:53",
       "album": {
+        "name": "Me Enamor\u00e9 De Ti",
+        "url": "https://open.spotify.com/album/01akT8TopYGRiYtyeN0qTU"
+      },
+      "artists": [
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        }
+      ],
+      "duration_ms": 206173,
+      "name": "Me Enamor\u00e9 De Ti",
+      "url": "https://open.spotify.com/track/6DT0LvU0a2wI3RN7SQs8P6"
+    },
+    {
+      "added_at": "2026-04-10 06:00:53",
+      "album": {
         "name": "Te Elijo",
         "url": "https://open.spotify.com/album/6tiLCUQHveCwBusTVQCU8C"
       },
@@ -1427,22 +1443,6 @@
     {
       "added_at": "2026-04-10 06:00:53",
       "album": {
-        "name": "Me Enamor\u00e9 De Ti",
-        "url": "https://open.spotify.com/album/01akT8TopYGRiYtyeN0qTU"
-      },
-      "artists": [
-        {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
-        }
-      ],
-      "duration_ms": 206173,
-      "name": "Me Enamor\u00e9 De Ti",
-      "url": "https://open.spotify.com/track/6DT0LvU0a2wI3RN7SQs8P6"
-    },
-    {
-      "added_at": "2026-04-10 06:00:53",
-      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/3JhHRFetUgAWw376a3sk6C"
       },
@@ -1455,22 +1455,6 @@
       "duration_ms": 251053,
       "name": "Antolog\u00eda",
       "url": "https://open.spotify.com/track/1I1DRPWM8iIYEbsuGMbaR3"
-    },
-    {
-      "added_at": "2026-04-10 06:00:53",
-      "album": {
-        "name": "El tiempo",
-        "url": "https://open.spotify.com/album/025y8NVegAk0HEAZwXRHo5"
-      },
-      "artists": [
-        {
-          "name": "Benny",
-          "url": "https://open.spotify.com/artist/3YHFRVdfHlJ98iAc50PIYk"
-        }
-      ],
-      "duration_ms": 211560,
-      "name": "M\u00eda",
-      "url": "https://open.spotify.com/track/7sZJnGa1a3iCm74SIiNRxU"
     },
     {
       "added_at": "2026-04-10 06:00:53",
@@ -1491,6 +1475,22 @@
       "duration_ms": 243307,
       "name": "Mariposa Traicionera",
       "url": "https://open.spotify.com/track/5YPyuMfaK6GjdFfRaryJak"
+    },
+    {
+      "added_at": "2026-04-10 06:00:53",
+      "album": {
+        "name": "El tiempo",
+        "url": "https://open.spotify.com/album/025y8NVegAk0HEAZwXRHo5"
+      },
+      "artists": [
+        {
+          "name": "Benny",
+          "url": "https://open.spotify.com/artist/3YHFRVdfHlJ98iAc50PIYk"
+        }
+      ],
+      "duration_ms": 211560,
+      "name": "M\u00eda",
+      "url": "https://open.spotify.com/track/7sZJnGa1a3iCm74SIiNRxU"
     },
     {
       "added_at": "2026-04-10 06:00:53",
@@ -1703,6 +1703,22 @@
     {
       "added_at": "2026-04-10 06:00:53",
       "album": {
+        "name": "Mis Covers, Vol. 5",
+        "url": "https://open.spotify.com/album/269CUSn61yMvZIcJqkxGgH"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 217478,
+      "name": "En Peligro de Extinci\u00f3n",
+      "url": "https://open.spotify.com/track/4hl4QsudusiDu4IMnoOmGl"
+    },
+    {
+      "added_at": "2026-04-10 06:00:53",
+      "album": {
         "name": "Nunca Me Lo Esper\u00e9",
         "url": "https://open.spotify.com/album/1PWDNAdAcDUbyMPUHMHGoa"
       },
@@ -1719,22 +1735,6 @@
       "duration_ms": 165194,
       "name": "Nunca Me Lo Esper\u00e9",
       "url": "https://open.spotify.com/track/7gtowQfLM1t2nlS1ZKG6uk"
-    },
-    {
-      "added_at": "2026-04-10 06:00:53",
-      "album": {
-        "name": "Mis Covers, Vol. 5",
-        "url": "https://open.spotify.com/album/269CUSn61yMvZIcJqkxGgH"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 217478,
-      "name": "En Peligro de Extinci\u00f3n",
-      "url": "https://open.spotify.com/track/4hl4QsudusiDu4IMnoOmGl"
     },
     {
       "added_at": "2026-04-10 06:00:53",

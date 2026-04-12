@@ -746,7 +746,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 203000,
       "name": "A Light That Waits",
       "url": "https://open.spotify.com/track/58gVmfPYnafwxolIaPPqDo"
@@ -17372,7 +17372,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-06",
+      "date_removed": null,
       "duration_ms": 192904,
       "name": "KISSBURN",
       "url": "https://open.spotify.com/track/06PLaIZyj917CnrwaJ3USU"
@@ -25939,6 +25939,24 @@
     },
     {
       "album": {
+        "name": "KINDA HARD",
+        "url": "https://open.spotify.com/album/6bJif35DxJzpXob5HfMzqU"
+      },
+      "artists": [
+        {
+          "name": "Bilmuri",
+          "url": "https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167554,
+      "name": "ROCK BOTTOM",
+      "url": "https://open.spotify.com/track/0jZFZA3lTGL5SM3GEgNGSy"
+    },
+    {
+      "album": {
         "name": "Rock Bottom / Octopus",
         "url": "https://open.spotify.com/album/6QtKyp4Hgq87SA1sV5b52d"
       },
@@ -31204,7 +31222,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 297133,
       "name": "The Monsters of Pig Alley",
       "url": "https://open.spotify.com/track/3VJXO5CI2npzuyBoctCQKQ"

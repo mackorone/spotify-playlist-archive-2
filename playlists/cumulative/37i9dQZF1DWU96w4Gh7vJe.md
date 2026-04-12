@@ -4,7 +4,7 @@
 
 > Sit back and relax to our favorite local OPM and R&B sounds.
 
-228 songs - 14 hr 22 min
+229 songs - 14 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Ex](https://open.spotify.com/track/0GHwNr0lqf8jpc9wesmnHo) | [Callalily](https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01) | [Ex](https://open.spotify.com/album/0qny2u4DXtiOu7ENsopaaA) | 4:39 | 2023-10-20 |  |
 | [Follow](https://open.spotify.com/track/6yT9DXOOdumPMkrV0gWfHy) | [Aud](https://open.spotify.com/artist/3NMhcW66XxBDyv3AH9T23w) | [Follow](https://open.spotify.com/album/1WM1m5U1JuoUG9c7Ur9o5K) | 2:50 | 2024-05-08 | 2024-07-11 |
 | [For You](https://open.spotify.com/track/6QzlxzQXbXsdzfprUKULTy) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [For You](https://open.spotify.com/album/0OtaRZl2qPDKMGE3Ejbwiy) | 3:42 | 2025-12-08 | 2025-12-12 |
+| [Gabi](https://open.spotify.com/track/5Wgr1W75MsQG9RssVjjjMD) | [nicole](https://open.spotify.com/artist/64c6qxJIkcvJP3glpCkWHp) | [Gabi](https://open.spotify.com/album/7wblINp3AEPE9nNOurnaCa) | 4:28 | 2026-04-08 |  |
 | [Gitara](https://open.spotify.com/track/7nbIGbDitZIYoMrMsXunAu) | [Parokya Ni Edgar](https://open.spotify.com/artist/2XHTklRsNMOOQT56Zm3WS4) | [Halina Sa Parokya](https://open.spotify.com/album/7g5RBMWC3jvPVmytLEZLZL) | 4:02 | 2023-10-20 | 2024-04-19 |
 | [Grabe Ka Naman Saktan](https://open.spotify.com/track/1xlozwdp4AABxtIgLVub7t) | [Abby Asistio](https://open.spotify.com/artist/1SzRbptyg5juRlfWOAFHLM) | [Grabe Ka Naman Saktan](https://open.spotify.com/album/292rYJLw0TqS2uC2LJJAAK) | 4:17 | 2026-03-17 | 2026-03-31 |
 | [Guhit](https://open.spotify.com/track/74maWJVe6tA1nKGs5pwfj5) | [Dro Perez](https://open.spotify.com/artist/1Qwm4EmOYuY34nAFfeEUOa) | [Guhit](https://open.spotify.com/album/7mEau3f3BD6ksCQQ9ukL3Q) | 3:45 | 2026-03-17 | 2026-03-31 |
@@ -235,6 +236,6 @@
 | [Weak](https://open.spotify.com/track/06cUybZMETs4i3yQO1f7p3) | [Khel Pangilinan](https://open.spotify.com/artist/30DIeQNV9s1HEXyuCpGF4l) | [Weak](https://open.spotify.com/album/5ZxNoCcUNppsFWVkMkEoed) | 3:31 | 2023-10-20 |  |
 | [What U Need](https://open.spotify.com/track/3UGYWNkjCjR13d04feCeCW) | [Justin Vasquez](https://open.spotify.com/artist/1juIpte4oHJ5ngVLPTUPuJ) | [What U Need](https://open.spotify.com/album/5ewXhs9DiMwp61jGOqXj7U) | 2:49 | 2024-12-04 | 2025-11-11 |
 | [What’s Yo Name?](https://open.spotify.com/track/6vuuKCxfDhXrcK9jCa4bBm) | [Fern.](https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF) | [What’s Yo Name?](https://open.spotify.com/album/32KtqZVeijTXVypIIjmwu6) | 3:30 | 2025-11-24 | 2025-12-09 |
-| [With a Smile \(feat\. Kelly Badon\)](https://open.spotify.com/track/6XmskR1cMfgys1W7dExmgi) | [South Border](https://open.spotify.com/artist/6ZgBJRjJsK1iOJGKGZxEUv), [Kelly Badon](https://open.spotify.com/artist/32pTJUDIqu5vvX5McsyU26) | [Ultraelectromagnetic Jam](https://open.spotify.com/album/7tfDmiKEApFiZmT5MzIN1o) | 4:24 | 2023-10-20 |  |
+| [With a Smile \(feat\. Kelly Badon\)](https://open.spotify.com/track/6XmskR1cMfgys1W7dExmgi) | [South Border](https://open.spotify.com/artist/6ZgBJRjJsK1iOJGKGZxEUv), [Kelly Badon](https://open.spotify.com/artist/32pTJUDIqu5vvX5McsyU26) | [Ultraelectromagnetic Jam](https://open.spotify.com/album/7tfDmiKEApFiZmT5MzIN1o) | 4:24 | 2023-10-20 | 2026-04-12 |
 
 \*This playlist was first scraped on 2023-10-25. Prior content cannot be recovered.

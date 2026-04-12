@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Holly Humberstone, Teddy Swims, Kehlani and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,016,580 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,016,585 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 26 | [No Feeling](https://open.spotify.com/track/4irsdnZsat5QRfveJwb3Qz) | [American Football](https://open.spotify.com/artist/5FwydyGVcsQllnM4xM6jw4), [Brendan Yates](https://open.spotify.com/artist/4AJe4qjJG5DrDEN7Ijz6Ar) | [No Feeling](https://open.spotify.com/album/2YmGdAeIZqXU8tSDFtwV3S) | 4:48 |
 | 27 | [WORK OF ART](https://open.spotify.com/track/3zoGDSqhsrkZ8nRQ2M3YpU) | [Tkandz](https://open.spotify.com/artist/4Uwx6qzRn0kA9sz6cCDpBO) | [WORK OF ART](https://open.spotify.com/album/0bba4GBcp9JghU5teKM1ed) | 2:27 |
 | 28 | [Papi](https://open.spotify.com/track/5UEklGu4o74KKMtPPZ2zo8) | [Junior Simba](https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn), [Bouvier](https://open.spotify.com/artist/1y0FWrK1ME3VBOAJInlPbd) | [Papi](https://open.spotify.com/album/55UwEvrBItps33rbQV858H) | 2:31 |
-| 29 | [Love Hate](https://open.spotify.com/track/1ysnEi1bFBkn0aCQFPh8gY) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9), [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Love Hate](https://open.spotify.com/album/0tLM5uck8tjqqvgagX4I1p) | 3:12 |
+| 29 | [Love Hate \(feat\. Thomas Day\)](https://open.spotify.com/track/1ysnEi1bFBkn0aCQFPh8gY) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9), [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Love Hate \(feat\. Thomas Day\)](https://open.spotify.com/album/0tLM5uck8tjqqvgagX4I1p) | 3:12 |
 | 30 | [4Get The Girl](https://open.spotify.com/track/6yjyavXzUEkkBsg4ZQAUQr) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6) | [4Get The Girl](https://open.spotify.com/album/06mEYqnxJNqLm5Jh1iX4cb) | 3:34 |
 | 31 | [Hulk Hogan](https://open.spotify.com/track/2q4B7AwTE9IQN9SDO3gYVt) | [Pozer](https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Hulk Hogan](https://open.spotify.com/album/4O9LvfC6iVLvNpWs68Vy73) | 2:58 |
 | 32 | [Ember](https://open.spotify.com/track/7jdLVBEhoDxGKdhfBEulzY) | [Iceage](https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU) | [Ember](https://open.spotify.com/album/7v39mio0wBEBfW44yf39bE) | 3:25 |
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 54 | [Pull Up](https://open.spotify.com/track/3mlWa4kG7dOeO509aLJUfY) | [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR), [Riko Dan](https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y), [Royal\-T](https://open.spotify.com/artist/0Eob3oXbs3eny5yHhM2QeW) | [Pull Up](https://open.spotify.com/album/0cRikIMmmZbGnJiEHmWMmW) | 3:13 |
 | 55 | [Chance to Bleed](https://open.spotify.com/track/6jGus0lgXFwZGQ9aNAhOFw) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Chance to Bleed](https://open.spotify.com/album/6YaH4jJhfaOlc5XyLqFBrx) | 4:56 |
 | 56 | [Work](https://open.spotify.com/track/0ArfxWwRJx3Q5RCSnhZEED) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Work](https://open.spotify.com/album/50Dgr7jv8mIp9fZFo8aLwd) | 2:51 |
-| 57 | [clarence pier \(feat\. Hella\)](https://open.spotify.com/track/5aYvSF0z25qbY1g4bKpDZZ) | [1\-800 GIRLS](https://open.spotify.com/artist/67yGrC4QoCSD0g7YMcGIgJ), [Hella](https://open.spotify.com/artist/6SUCBohFaFNbVoXB3MurPA) | [clarence pier \(feat\. Hella\)](https://open.spotify.com/album/6qGUvIaQNpnxfuaTNtXAH3) | 2:51 |
+| 57 | [clarence pier](https://open.spotify.com/track/5aYvSF0z25qbY1g4bKpDZZ) | [1\-800 GIRLS](https://open.spotify.com/artist/67yGrC4QoCSD0g7YMcGIgJ), [Hella](https://open.spotify.com/artist/6SUCBohFaFNbVoXB3MurPA) | [clarence pier](https://open.spotify.com/album/6qGUvIaQNpnxfuaTNtXAH3) | 2:51 |
 | 58 | [The Luckiest Man Alive](https://open.spotify.com/track/0yzvi02nlOBEtCqvNcOFxy) | [Courteeners](https://open.spotify.com/artist/1NfJU4hy56Z4UM4iyIa1B2) | [The Luckiest Man Alive](https://open.spotify.com/album/0Ppu0QP5o7moPzFqpp3VS6) | 3:11 |
 | 59 | [promised land](https://open.spotify.com/track/1Xsk798mnogV1DcrVgdJYe) | [Reuben Aziz](https://open.spotify.com/artist/7si4D4nUA1Z9WKUV58hhnh) | [promised land](https://open.spotify.com/album/19CjpdahSIGd2n1h025Cvv) | 2:37 |
 | 60 | [Wonderluv](https://open.spotify.com/track/6w28PfNPGBrfuaHRrOJ0aE) | [IZCO](https://open.spotify.com/artist/4uqqEE1NaQBAa4wnDug9c1) | [Wonderluv](https://open.spotify.com/album/2LkzjaFwGulpxmAU9qYNDD) | 4:16 |

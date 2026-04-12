@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hNQN2Fv6Cy.md) - [plain]
 
 > 90's & 00's party jams with Aaliyah, Justin Timberlake, Destiny's Child and Usher.
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,568 likes - 128 songs - 8 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,053 likes - 128 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,9 +88,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hNQN2Fv6Cy.md) - [plain]
 | 78 | [Get It On Tonite](https://open.spotify.com/track/3ii5VBrIXJXKEVkjx1IAdP) | [Montell Jordan](https://open.spotify.com/artist/0iVrCROxeyon7MZUW3MfzT) | [Get It On...Tonite](https://open.spotify.com/album/6N3grwnyspQghLGLNyduWH) | 4:36 |
 | 79 | [Don't Mess With My Man](https://open.spotify.com/track/2J2hVpwVV25EK8Bvd3OgCK) | [Lucy Pearl](https://open.spotify.com/artist/0OUXTnqjvTg4iZ7Lhq6vv7) | [Lucy Pearl](https://open.spotify.com/album/5cT0D5QzJo8coTaeT4OynR) | 3:37 |
 | 80 | [Where My Girls At](https://open.spotify.com/track/4VSyH8AkIt3kaR5xIPFVVi) | [702](https://open.spotify.com/artist/2S8UlyXW4JjjHcbeg8ddIo) | [702](https://open.spotify.com/album/6PELMehRtCwGXXyFS0fLKR) | 2:46 |
-| 81 | [Fantasy \(feat\. O.D.B.\) \- Bad Boy Fantasy](https://open.spotify.com/track/2AlO5CLisJAA9X5JybMtuz) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Ol' Dirty Bastard](https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu) | [Fantasy EP](https://open.spotify.com/album/4aK77BPpiigFVQaLqs7AI4) | 4:51 |
+| 81 | [Ooh Wee \(feat\. Ghostface Killah, Nate Dogg, Trife & Saigon\)](https://open.spotify.com/track/4WimB4Ei0LU3MotHhL3kBL) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h), [Trife](https://open.spotify.com/artist/3wPM3fbGYp56vzXMId27qs), [Saigon](https://open.spotify.com/artist/0mTfntDCCWRozUnyxpGf6E) | [Here Comes The Fuzz](https://open.spotify.com/album/62Qu5QoNx3De0p5qQT0u7o) | 3:29 |
 | 82 | [Loungin \(Who Do Ya Luv\) \- Remix](https://open.spotify.com/track/0UN5OvKlbg06LnZyVk48ll) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC), [Total](https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7) | [Mr\. Smith \(Deluxe Edition\)](https://open.spotify.com/album/6b7NVGKHlwKyQzFKoVTaMA) | 3:49 |
-| 83 | [Ooh Wee \(feat\. Ghostface Killah, Nate Dogg, Trife & Saigon\)](https://open.spotify.com/track/4WimB4Ei0LU3MotHhL3kBL) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h), [Trife](https://open.spotify.com/artist/3wPM3fbGYp56vzXMId27qs), [Saigon](https://open.spotify.com/artist/0mTfntDCCWRozUnyxpGf6E) | [Here Comes The Fuzz](https://open.spotify.com/album/62Qu5QoNx3De0p5qQT0u7o) | 3:29 |
+| 83 | [Fantasy \(feat\. O.D.B.\) \- Bad Boy Fantasy](https://open.spotify.com/track/2AlO5CLisJAA9X5JybMtuz) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Ol' Dirty Bastard](https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu) | [Fantasy EP](https://open.spotify.com/album/4aK77BPpiigFVQaLqs7AI4) | 4:51 |
 | 84 | [Addictive](https://open.spotify.com/track/36jSIOSE72neBbKntCthqw) | [Truth Hurts](https://open.spotify.com/artist/0HCeK90YUyjWi0utTPYXw1), [Rakim](https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE) | [Truthfully Speaking](https://open.spotify.com/album/2qDd6KcV4L5MfBSIrjDWZ0) | 3:46 |
 | 85 | [I Just Wanna Love U \(Give It 2 Me\)](https://open.spotify.com/track/0s46SltT4On0Z6kglK1I5c) | [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Dynasty: Roc La Familia](https://open.spotify.com/album/3VfeeJElCEDeXlDiNZbn3E) | 3:47 |
 | 86 | [How Deep Is Your Love](https://open.spotify.com/track/60NvAO9lx0KmBNAVHIlWN6) | [Dru Hill](https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT) | [Enter The Dru](https://open.spotify.com/album/6L5uROBQ5wy3MOPI334RHE) | 4:03 |

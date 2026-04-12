@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2012. Cover: Flume",
-  "num_followers": 110932,
+  "num_followers": 110973,
   "original_name": "Best of Indie 2012",
   "owner": {
     "name": "Spotify",
@@ -63,18 +63,22 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
-        "name": "Picture Show",
-        "url": "https://open.spotify.com/album/0uRFz92JmjwDbZbB7hEBIr"
+        "name": "Some Nights",
+        "url": "https://open.spotify.com/album/7m7F7SQ3BXvIpvOgjW51Gp"
       },
       "artists": [
         {
-          "name": "Neon Trees",
-          "url": "https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy"
+          "name": "fun.",
+          "url": "https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0"
+        },
+        {
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
         }
       ],
-      "duration_ms": 177280,
-      "name": "Everybody Talks",
-      "url": "https://open.spotify.com/track/2iUmqdfGZcHIhS3b9E9EWq"
+      "duration_ms": 250626,
+      "name": "We Are Young (feat. Janelle Mon\u00e1e)",
+      "url": "https://open.spotify.com/track/5rgy6ghBq1eRApCkeUdJXf"
     },
     {
       "added_at": "2025-03-14 12:16:12",
@@ -95,22 +99,18 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
-        "name": "Some Nights",
-        "url": "https://open.spotify.com/album/7m7F7SQ3BXvIpvOgjW51Gp"
+        "name": "Picture Show",
+        "url": "https://open.spotify.com/album/0uRFz92JmjwDbZbB7hEBIr"
       },
       "artists": [
         {
-          "name": "fun.",
-          "url": "https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0"
-        },
-        {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+          "name": "Neon Trees",
+          "url": "https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy"
         }
       ],
-      "duration_ms": 250626,
-      "name": "We Are Young (feat. Janelle Mon\u00e1e)",
-      "url": "https://open.spotify.com/track/5rgy6ghBq1eRApCkeUdJXf"
+      "duration_ms": 177280,
+      "name": "Everybody Talks",
+      "url": "https://open.spotify.com/track/2iUmqdfGZcHIhS3b9E9EWq"
     },
     {
       "added_at": "2025-03-14 12:16:12",
@@ -699,18 +699,18 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
-        "name": "shrines",
-        "url": "https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8"
+        "name": "Sixteen Saltines",
+        "url": "https://open.spotify.com/album/0lPeJhxMC3gIYOv9lmdV6V"
       },
       "artists": [
         {
-          "name": "Purity Ring",
-          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
         }
       ],
-      "duration_ms": 209760,
-      "name": "fineshrine",
-      "url": "https://open.spotify.com/track/5aJmSzmuhLI6fr1Rm0EnkS"
+      "duration_ms": 198620,
+      "name": "Love Is Blindness",
+      "url": "https://open.spotify.com/track/1kBM7AURqQTIXFePNVpEwP"
     },
     {
       "added_at": "2025-03-14 12:16:12",
@@ -731,18 +731,18 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
-        "name": "Sixteen Saltines",
-        "url": "https://open.spotify.com/album/0lPeJhxMC3gIYOv9lmdV6V"
+        "name": "shrines",
+        "url": "https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8"
       },
       "artists": [
         {
-          "name": "Jack White",
-          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+          "name": "Purity Ring",
+          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
         }
       ],
-      "duration_ms": 198620,
-      "name": "Love Is Blindness",
-      "url": "https://open.spotify.com/track/1kBM7AURqQTIXFePNVpEwP"
+      "duration_ms": 209760,
+      "name": "fineshrine",
+      "url": "https://open.spotify.com/track/5aJmSzmuhLI6fr1Rm0EnkS"
     },
     {
       "added_at": "2025-03-14 12:16:12",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
-        "name": "An Awesome Wave",
-        "url": "https://open.spotify.com/album/2AxfZb5aQHIXgsB1HA6OLL"
-      },
-      "artists": [
-        {
-          "name": "alt-J",
-          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
-        }
-      ],
-      "duration_ms": 227080,
-      "name": "Breezeblocks",
-      "url": "https://open.spotify.com/track/3Wu6MhnZuLuzfH5wFC2g9i"
-    },
-    {
-      "added_at": "2025-03-14 12:16:12",
-      "album": {
         "name": "2",
         "url": "https://open.spotify.com/album/7x6wYKbZUU2BL3N8ZWwM3q"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 173888,
       "name": "Freaking Out the Neighborhood",
       "url": "https://open.spotify.com/track/25SJaCCPiosugnlY53VhRG"
+    },
+    {
+      "added_at": "2025-03-14 12:16:12",
+      "album": {
+        "name": "An Awesome Wave",
+        "url": "https://open.spotify.com/album/2AxfZb5aQHIXgsB1HA6OLL"
+      },
+      "artists": [
+        {
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+        }
+      ],
+      "duration_ms": 227080,
+      "name": "Breezeblocks",
+      "url": "https://open.spotify.com/track/3Wu6MhnZuLuzfH5wFC2g9i"
     },
     {
       "added_at": "2025-03-14 12:16:12",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
-        "name": "An Awesome Wave",
-        "url": "https://open.spotify.com/album/2AxfZb5aQHIXgsB1HA6OLL"
-      },
-      "artists": [
-        {
-          "name": "alt-J",
-          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
-        }
-      ],
-      "duration_ms": 219400,
-      "name": "Fitzpleasure",
-      "url": "https://open.spotify.com/track/09BGE23vqmtylTUBEhzu2H"
-    },
-    {
-      "added_at": "2025-03-14 12:16:12",
-      "album": {
         "name": "2",
         "url": "https://open.spotify.com/album/7x6wYKbZUU2BL3N8ZWwM3q"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 190845,
       "name": "My Kind of Woman",
       "url": "https://open.spotify.com/track/2OFrAsP5Vrcb0DtsPNsm54"
+    },
+    {
+      "added_at": "2025-03-14 12:16:12",
+      "album": {
+        "name": "An Awesome Wave",
+        "url": "https://open.spotify.com/album/2AxfZb5aQHIXgsB1HA6OLL"
+      },
+      "artists": [
+        {
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+        }
+      ],
+      "duration_ms": 219400,
+      "name": "Fitzpleasure",
+      "url": "https://open.spotify.com/track/09BGE23vqmtylTUBEhzu2H"
     },
     {
       "added_at": "2025-03-14 12:16:12",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
-        "name": "An Awesome Wave",
-        "url": "https://open.spotify.com/album/2AxfZb5aQHIXgsB1HA6OLL"
-      },
-      "artists": [
-        {
-          "name": "alt-J",
-          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
-        }
-      ],
-      "duration_ms": 218240,
-      "name": "Something Good",
-      "url": "https://open.spotify.com/track/4VPZX5qq0mujdIrVhLFROu"
-    },
-    {
-      "added_at": "2025-03-14 12:16:12",
-      "album": {
         "name": "Mixed Emotions",
         "url": "https://open.spotify.com/album/6ilQUgysYUuauHDwqJ0l7L"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 230586,
       "name": "All Of Me",
       "url": "https://open.spotify.com/track/0B4R6lMH2Fsyzcndp4RP4c"
+    },
+    {
+      "added_at": "2025-03-14 12:16:12",
+      "album": {
+        "name": "An Awesome Wave",
+        "url": "https://open.spotify.com/album/2AxfZb5aQHIXgsB1HA6OLL"
+      },
+      "artists": [
+        {
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+        }
+      ],
+      "duration_ms": 218240,
+      "name": "Something Good",
+      "url": "https://open.spotify.com/track/4VPZX5qq0mujdIrVhLFROu"
     },
     {
       "added_at": "2025-03-14 12:16:12",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
-        "name": "An Awesome Wave",
-        "url": "https://open.spotify.com/album/2AxfZb5aQHIXgsB1HA6OLL"
-      },
-      "artists": [
-        {
-          "name": "alt-J",
-          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
-        }
-      ],
-      "duration_ms": 314986,
-      "name": "Taro",
-      "url": "https://open.spotify.com/track/7EDMvrb5PA5TP0VQ8z9p82"
-    },
-    {
-      "added_at": "2025-03-14 12:16:12",
-      "album": {
         "name": "Gone",
         "url": "https://open.spotify.com/album/3Lx8YDSuswGCfV8Tsb6i4E"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 204031,
       "name": "Good As New",
       "url": "https://open.spotify.com/track/0XIHRIerpIPFLCjlgeLHbN"
+    },
+    {
+      "added_at": "2025-03-14 12:16:12",
+      "album": {
+        "name": "An Awesome Wave",
+        "url": "https://open.spotify.com/album/2AxfZb5aQHIXgsB1HA6OLL"
+      },
+      "artists": [
+        {
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+        }
+      ],
+      "duration_ms": 314986,
+      "name": "Taro",
+      "url": "https://open.spotify.com/track/7EDMvrb5PA5TP0VQ8z9p82"
     },
     {
       "added_at": "2025-03-14 12:16:12",

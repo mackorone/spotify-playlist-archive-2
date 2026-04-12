@@ -1,6 +1,6 @@
 {
   "description": "Discover the best in new music from Aotearoa. Cover: Lorde",
-  "num_followers": 19337,
+  "num_followers": 19336,
   "original_name": "The Local List Aotearoa",
   "owner": {
     "name": "Spotify",
@@ -631,22 +631,6 @@
     {
       "added_at": "2026-03-26 13:00:23",
       "album": {
-        "name": "Under The Surface",
-        "url": "https://open.spotify.com/album/4DLH00hSYYu1nhf6ys0Nvz"
-      },
-      "artists": [
-        {
-          "name": "NO CIGAR",
-          "url": "https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT"
-        }
-      ],
-      "duration_ms": 254385,
-      "name": "Under The Surface",
-      "url": "https://open.spotify.com/track/35Ywft3pwk7kfm1fGJ0Y6m"
-    },
-    {
-      "added_at": "2026-03-26 13:00:23",
-      "album": {
         "name": "CURSE",
         "url": "https://open.spotify.com/album/0cFnSWyfKw7gmgURlfeQ41"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 148525,
       "name": "DEATH COMES FROM THE SKY",
       "url": "https://open.spotify.com/track/7xkyqFdogcqpGKkn3baJ6d"
+    },
+    {
+      "added_at": "2026-03-26 13:00:23",
+      "album": {
+        "name": "Under The Surface",
+        "url": "https://open.spotify.com/album/4DLH00hSYYu1nhf6ys0Nvz"
+      },
+      "artists": [
+        {
+          "name": "NO CIGAR",
+          "url": "https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT"
+        }
+      ],
+      "duration_ms": 254385,
+      "name": "Under The Surface",
+      "url": "https://open.spotify.com/track/35Ywft3pwk7kfm1fGJ0Y6m"
     },
     {
       "added_at": "2026-03-26 13:00:23",
@@ -679,6 +679,22 @@
     {
       "added_at": "2026-03-26 13:00:23",
       "album": {
+        "name": "Chrysalis",
+        "url": "https://open.spotify.com/album/0l0eWxEsoBXZ415CRKDJuB"
+      },
+      "artists": [
+        {
+          "name": "Borderline",
+          "url": "https://open.spotify.com/artist/2VHeXzEg1gCfwYf3oADlUQ"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "Breakdown",
+      "url": "https://open.spotify.com/track/0B8G8zXxETLTQQmsoNuSto"
+    },
+    {
+      "added_at": "2026-03-26 13:00:23",
+      "album": {
         "name": "STALKER (feat. Ramirez)",
         "url": "https://open.spotify.com/album/4e9pi8Kqj9VWDEUa39o6mt"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 152415,
       "name": "STALKER (feat. Ramirez)",
       "url": "https://open.spotify.com/track/0DqMDEZk9dFM631sQOPVJh"
-    },
-    {
-      "added_at": "2026-03-26 13:00:23",
-      "album": {
-        "name": "Chrysalis",
-        "url": "https://open.spotify.com/album/0l0eWxEsoBXZ415CRKDJuB"
-      },
-      "artists": [
-        {
-          "name": "Borderline",
-          "url": "https://open.spotify.com/artist/2VHeXzEg1gCfwYf3oADlUQ"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "Breakdown",
-      "url": "https://open.spotify.com/track/0B8G8zXxETLTQQmsoNuSto"
     },
     {
       "added_at": "2026-03-26 13:00:23",
@@ -923,6 +923,22 @@
     {
       "added_at": "2026-03-26 13:00:23",
       "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/6S7iMcj2CRCj8RdPtEI6gM"
+      },
+      "artists": [
+        {
+          "name": "Louis Baker",
+          "url": "https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy"
+        }
+      ],
+      "duration_ms": 201480,
+      "name": "So Good",
+      "url": "https://open.spotify.com/track/39lr0bifw4DjmVHySQVEch"
+    },
+    {
+      "added_at": "2026-03-26 13:00:23",
+      "album": {
         "name": "Knocking At Your Door",
         "url": "https://open.spotify.com/album/7dfLlEgi0O9NzbvyUJiWN3"
       },
@@ -955,22 +971,6 @@
     {
       "added_at": "2026-03-26 13:00:23",
       "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/6S7iMcj2CRCj8RdPtEI6gM"
-      },
-      "artists": [
-        {
-          "name": "Louis Baker",
-          "url": "https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy"
-        }
-      ],
-      "duration_ms": 201480,
-      "name": "So Good",
-      "url": "https://open.spotify.com/track/39lr0bifw4DjmVHySQVEch"
-    },
-    {
-      "added_at": "2026-03-26 13:00:23",
-      "album": {
         "name": "Broken Glass",
         "url": "https://open.spotify.com/album/5t31M8n1vxdpWaNlCeSeEG"
       },
@@ -983,22 +983,6 @@
       "duration_ms": 196260,
       "name": "Broken Glass",
       "url": "https://open.spotify.com/track/7lYyAj4YWhsP1naYx8DSZc"
-    },
-    {
-      "added_at": "2026-03-26 13:00:23",
-      "album": {
-        "name": "In The Shade",
-        "url": "https://open.spotify.com/album/4xj1vyEuXxhAaiZIm8ePne"
-      },
-      "artists": [
-        {
-          "name": "Bean Magazine",
-          "url": "https://open.spotify.com/artist/39f9ht0YjVFG1L7lMHc152"
-        }
-      ],
-      "duration_ms": 193987,
-      "name": "Don't You Die",
-      "url": "https://open.spotify.com/track/3y3f5uaZ4xvHZ2QCGZ5BR0"
     },
     {
       "added_at": "2026-03-26 13:00:23",
@@ -1019,18 +1003,18 @@
     {
       "added_at": "2026-03-26 13:00:23",
       "album": {
-        "name": "The Drip",
-        "url": "https://open.spotify.com/album/4AnurorczccotGyQOVXEdp"
+        "name": "In The Shade",
+        "url": "https://open.spotify.com/album/4xj1vyEuXxhAaiZIm8ePne"
       },
       "artists": [
         {
-          "name": "Body Ocean",
-          "url": "https://open.spotify.com/artist/33f4HE9MrvJAlX9cOuhAay"
+          "name": "Bean Magazine",
+          "url": "https://open.spotify.com/artist/39f9ht0YjVFG1L7lMHc152"
         }
       ],
-      "duration_ms": 185714,
-      "name": "What Would It Profit",
-      "url": "https://open.spotify.com/track/7dkq1w6yOO6yWmHpsSDwIO"
+      "duration_ms": 193987,
+      "name": "Don't You Die",
+      "url": "https://open.spotify.com/track/3y3f5uaZ4xvHZ2QCGZ5BR0"
     },
     {
       "added_at": "2026-03-26 13:00:23",
@@ -1051,6 +1035,22 @@
       "duration_ms": 161559,
       "name": "Handyman.",
       "url": "https://open.spotify.com/track/1xd2siUNv5buHMILOQZeRB"
+    },
+    {
+      "added_at": "2026-03-26 13:00:23",
+      "album": {
+        "name": "The Drip",
+        "url": "https://open.spotify.com/album/4AnurorczccotGyQOVXEdp"
+      },
+      "artists": [
+        {
+          "name": "Body Ocean",
+          "url": "https://open.spotify.com/artist/33f4HE9MrvJAlX9cOuhAay"
+        }
+      ],
+      "duration_ms": 185714,
+      "name": "What Would It Profit",
+      "url": "https://open.spotify.com/track/7dkq1w6yOO6yWmHpsSDwIO"
     },
     {
       "added_at": "2026-03-26 13:00:23",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2026-03-26 13:00:23",
       "album": {
-        "name": "I Want More",
-        "url": "https://open.spotify.com/album/30WNWO1pzDaqSyJ7Ich5uD"
-      },
-      "artists": [
-        {
-          "name": "Sons of Zion",
-          "url": "https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW"
-        },
-        {
-          "name": "TAWAZ",
-          "url": "https://open.spotify.com/artist/6SBZ3XblxACQRrZK4olxhH"
-        }
-      ],
-      "duration_ms": 177989,
-      "name": "I Want More",
-      "url": "https://open.spotify.com/track/0bvVx47ygehREuixC0o5r0"
-    },
-    {
-      "added_at": "2026-03-26 13:00:23",
-      "album": {
         "name": "Metal",
         "url": "https://open.spotify.com/album/4xjNfpHmPjhl2coRgNWvOz"
       },
@@ -1155,6 +1135,26 @@
     {
       "added_at": "2026-03-26 13:00:23",
       "album": {
+        "name": "I Want More",
+        "url": "https://open.spotify.com/album/30WNWO1pzDaqSyJ7Ich5uD"
+      },
+      "artists": [
+        {
+          "name": "Sons of Zion",
+          "url": "https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW"
+        },
+        {
+          "name": "TAWAZ",
+          "url": "https://open.spotify.com/artist/6SBZ3XblxACQRrZK4olxhH"
+        }
+      ],
+      "duration_ms": 177989,
+      "name": "I Want More",
+      "url": "https://open.spotify.com/track/0bvVx47ygehREuixC0o5r0"
+    },
+    {
+      "added_at": "2026-03-26 13:00:23",
+      "album": {
         "name": "Didn't Change A Thing",
         "url": "https://open.spotify.com/album/7q6gFymoUw39CUBeDQJTkr"
       },
@@ -1171,22 +1171,18 @@
     {
       "added_at": "2026-03-26 13:00:23",
       "album": {
-        "name": "Holding Your Hand",
-        "url": "https://open.spotify.com/album/1Ggks2L6vGzHraAO2a98gZ"
+        "name": "SENESCENCE",
+        "url": "https://open.spotify.com/album/3ibzGjl8ndao9xMTtMEPf9"
       },
       "artists": [
         {
-          "name": "SACHI",
-          "url": "https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR"
-        },
-        {
-          "name": "Poppy Baskcomb",
-          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+          "name": "BAYNK",
+          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
         }
       ],
-      "duration_ms": 152603,
-      "name": "Holding Your Hand",
-      "url": "https://open.spotify.com/track/1Ve2EdxdPBAA9wOiDdkS4y"
+      "duration_ms": 176706,
+      "name": "Older",
+      "url": "https://open.spotify.com/track/5iYllqp8cdbFSjU3sHzoKn"
     },
     {
       "added_at": "2026-03-26 13:00:23",
@@ -1207,18 +1203,22 @@
     {
       "added_at": "2026-03-26 13:00:23",
       "album": {
-        "name": "SENESCENCE",
-        "url": "https://open.spotify.com/album/3ibzGjl8ndao9xMTtMEPf9"
+        "name": "Holding Your Hand",
+        "url": "https://open.spotify.com/album/1Ggks2L6vGzHraAO2a98gZ"
       },
       "artists": [
         {
-          "name": "BAYNK",
-          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
+          "name": "SACHI",
+          "url": "https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
         }
       ],
-      "duration_ms": 176706,
-      "name": "Older",
-      "url": "https://open.spotify.com/track/5iYllqp8cdbFSjU3sHzoKn"
+      "duration_ms": 152603,
+      "name": "Holding Your Hand",
+      "url": "https://open.spotify.com/track/1Ve2EdxdPBAA9wOiDdkS4y"
     },
     {
       "added_at": "2026-03-26 13:00:23",

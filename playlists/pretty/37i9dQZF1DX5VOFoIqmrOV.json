@@ -1,6 +1,6 @@
 {
   "description": "The finest set of Telugu music from the past 10 years. \nCover : Pushpa 2",
-  "num_followers": 455486,
+  "num_followers": 455572,
   "original_name": "Tollywood Pearls",
   "owner": {
     "name": "Spotify",
@@ -793,30 +793,6 @@
       "url": "https://open.spotify.com/track/7uo3wgB8We99kdcJpKDiq9"
     },
     {
-      "added_at": "2022-08-16 07:40:21",
-      "album": {
-        "name": "Inthandham [From \"Sita Ramam (Telugu)\"]",
-        "url": "https://open.spotify.com/album/6J9Jhm6rr5RboOPtvzkNrX"
-      },
-      "artists": [
-        {
-          "name": "Vishal Chandrashekhar",
-          "url": "https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr"
-        },
-        {
-          "name": "S.P. Charan",
-          "url": "https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja"
-        },
-        {
-          "name": "Krishna Kanth",
-          "url": "https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx"
-        }
-      ],
-      "duration_ms": 218808,
-      "name": "Inthandham (From \"Sita Ramam (Telugu)\")",
-      "url": "https://open.spotify.com/track/3BVjPpVvki8Jpm1Ew21UjH"
-    },
-    {
       "added_at": "2022-07-24 04:40:57",
       "album": {
         "name": "Radhe Shyam (Telugu)",
@@ -843,6 +819,30 @@
       "duration_ms": 232762,
       "name": "Ee Raathale",
       "url": "https://open.spotify.com/track/77feKtBcyhRv4SE2u6dd9R"
+    },
+    {
+      "added_at": "2022-08-16 07:40:21",
+      "album": {
+        "name": "Inthandham [From \"Sita Ramam (Telugu)\"]",
+        "url": "https://open.spotify.com/album/6J9Jhm6rr5RboOPtvzkNrX"
+      },
+      "artists": [
+        {
+          "name": "Vishal Chandrashekhar",
+          "url": "https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr"
+        },
+        {
+          "name": "S.P. Charan",
+          "url": "https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja"
+        },
+        {
+          "name": "Krishna Kanth",
+          "url": "https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx"
+        }
+      ],
+      "duration_ms": 218808,
+      "name": "Inthandham (From \"Sita Ramam (Telugu)\")",
+      "url": "https://open.spotify.com/track/3BVjPpVvki8Jpm1Ew21UjH"
     },
     {
       "added_at": "2023-05-04 06:50:45",
@@ -1327,26 +1327,26 @@
     {
       "added_at": "2022-07-24 04:40:57",
       "album": {
-        "name": "Ashoka Vanamlo Arjuna Kalyanam (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7pocDFnAWVLjSwp7biK2Le"
+        "name": "Sarkaru Vaari Paata",
+        "url": "https://open.spotify.com/album/5CI4FwuIVMnJPVCr8e8HLw"
       },
       "artists": [
         {
-          "name": "Jay Krish",
-          "url": "https://open.spotify.com/artist/3Yz04XcMjC097xmoo1VYob"
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
         },
         {
-          "name": "Ram Miriyala",
-          "url": "https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj"
+          "name": "Sri Krishna",
+          "url": "https://open.spotify.com/artist/06V3WlbxMpgl639AJoFH7C"
         },
         {
-          "name": "Anantha Sriram",
-          "url": "https://open.spotify.com/artist/5wE0KHIPasAq9oKW3PkDpq"
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
         }
       ],
-      "duration_ms": 297391,
-      "name": "Oo Aadapilla",
-      "url": "https://open.spotify.com/track/6KJyZlCGIeGoyj6QKxUUBC"
+      "duration_ms": 246864,
+      "name": "Ma Ma Mahesha",
+      "url": "https://open.spotify.com/track/18rdJauTStd04N56UetMmZ"
     },
     {
       "added_at": "2023-12-12 05:49:47",
@@ -1391,26 +1391,26 @@
     {
       "added_at": "2022-07-24 04:40:57",
       "album": {
-        "name": "Sarkaru Vaari Paata",
-        "url": "https://open.spotify.com/album/5CI4FwuIVMnJPVCr8e8HLw"
+        "name": "Ashoka Vanamlo Arjuna Kalyanam (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7pocDFnAWVLjSwp7biK2Le"
       },
       "artists": [
         {
-          "name": "Thaman S",
-          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+          "name": "Jay Krish",
+          "url": "https://open.spotify.com/artist/3Yz04XcMjC097xmoo1VYob"
         },
         {
-          "name": "Sri Krishna",
-          "url": "https://open.spotify.com/artist/06V3WlbxMpgl639AJoFH7C"
+          "name": "Ram Miriyala",
+          "url": "https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj"
         },
         {
-          "name": "Jonita Gandhi",
-          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+          "name": "Anantha Sriram",
+          "url": "https://open.spotify.com/artist/5wE0KHIPasAq9oKW3PkDpq"
         }
       ],
-      "duration_ms": 246864,
-      "name": "Ma Ma Mahesha",
-      "url": "https://open.spotify.com/track/18rdJauTStd04N56UetMmZ"
+      "duration_ms": 297391,
+      "name": "Oo Aadapilla",
+      "url": "https://open.spotify.com/track/6KJyZlCGIeGoyj6QKxUUBC"
     },
     {
       "added_at": "2023-12-12 05:49:47",
@@ -1435,6 +1435,30 @@
       "duration_ms": 224554,
       "name": "Oh Na Madhu",
       "url": "https://open.spotify.com/track/46WainWGEgKqmUpnfEnzlH"
+    },
+    {
+      "added_at": "2022-07-24 04:40:57",
+      "album": {
+        "name": "Solo Brathuke So Better (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7awYSEyiYQKxMwz6jBumue"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        },
+        {
+          "name": "Raghu Ram",
+          "url": "https://open.spotify.com/artist/4b5xBk2NYeK5kGKJKGhnJj"
+        }
+      ],
+      "duration_ms": 254999,
+      "name": "Hey Idi Nenena",
+      "url": "https://open.spotify.com/track/10nKbCaaU2OFTywWNvqHkX"
     },
     {
       "added_at": "2025-12-16 12:04:49",
@@ -1511,30 +1535,6 @@
     {
       "added_at": "2022-07-24 04:40:57",
       "album": {
-        "name": "Solo Brathuke So Better (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7awYSEyiYQKxMwz6jBumue"
-      },
-      "artists": [
-        {
-          "name": "Thaman S",
-          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
-        },
-        {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
-        },
-        {
-          "name": "Raghu Ram",
-          "url": "https://open.spotify.com/artist/4b5xBk2NYeK5kGKJKGhnJj"
-        }
-      ],
-      "duration_ms": 254999,
-      "name": "Hey Idi Nenena",
-      "url": "https://open.spotify.com/track/10nKbCaaU2OFTywWNvqHkX"
-    },
-    {
-      "added_at": "2022-07-24 04:40:57",
-      "album": {
         "name": "Geetha Govindam",
         "url": "https://open.spotify.com/album/4X8f6Xj3EHnv6haTEByM3X"
       },
@@ -1547,6 +1547,26 @@
       "duration_ms": 266715,
       "name": "Inkem Inkem Inkem Kaavaale",
       "url": "https://open.spotify.com/track/5JnXwEckWO0oFijOyTZDLf"
+    },
+    {
+      "added_at": "2022-07-24 04:40:57",
+      "album": {
+        "name": "Sarkaru Vaari Paata",
+        "url": "https://open.spotify.com/album/5CI4FwuIVMnJPVCr8e8HLw"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        }
+      ],
+      "duration_ms": 242322,
+      "name": "Kalaavathi",
+      "url": "https://open.spotify.com/track/1hzaaPxtBKyTTnOiz0zALA"
     },
     {
       "added_at": "2023-08-07 09:11:28",
@@ -1601,26 +1621,6 @@
       "url": "https://open.spotify.com/track/0UipbyZ94eKrCm1Vcydvl3"
     },
     {
-      "added_at": "2022-07-24 04:40:57",
-      "album": {
-        "name": "Sarkaru Vaari Paata",
-        "url": "https://open.spotify.com/album/5CI4FwuIVMnJPVCr8e8HLw"
-      },
-      "artists": [
-        {
-          "name": "Thaman S",
-          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
-        },
-        {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
-        }
-      ],
-      "duration_ms": 242322,
-      "name": "Kalaavathi",
-      "url": "https://open.spotify.com/track/1hzaaPxtBKyTTnOiz0zALA"
-    },
-    {
       "added_at": "2023-01-11 20:52:12",
       "album": {
         "name": "Hushaaru",
@@ -1635,6 +1635,30 @@
       "duration_ms": 173932,
       "name": "Undiporaadhey",
       "url": "https://open.spotify.com/track/6jUscicoyUljrPOdQCfhnd"
+    },
+    {
+      "added_at": "2023-12-12 05:49:47",
+      "album": {
+        "name": "Veera Simha Reddy (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/75cyVUKLaK7KZKVrLYBjbM"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Ram Miriyala",
+          "url": "https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj"
+        },
+        {
+          "name": "Snigdha Sharma",
+          "url": "https://open.spotify.com/artist/5UvSpmSgcPlDX49LTyvdfl"
+        }
+      ],
+      "duration_ms": 254094,
+      "name": "Suguna Sundari",
+      "url": "https://open.spotify.com/track/1E0uPi2rjMgcZ3ayODv6DX"
     },
     {
       "added_at": "2023-05-04 06:50:45",
@@ -1687,30 +1711,6 @@
       "duration_ms": 202111,
       "name": "Choosi Chudangane",
       "url": "https://open.spotify.com/track/0fYTkcBMtjtP4hzoOxGgSF"
-    },
-    {
-      "added_at": "2023-12-12 05:49:47",
-      "album": {
-        "name": "Veera Simha Reddy (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/75cyVUKLaK7KZKVrLYBjbM"
-      },
-      "artists": [
-        {
-          "name": "Thaman S",
-          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
-        },
-        {
-          "name": "Ram Miriyala",
-          "url": "https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj"
-        },
-        {
-          "name": "Snigdha Sharma",
-          "url": "https://open.spotify.com/artist/5UvSpmSgcPlDX49LTyvdfl"
-        }
-      ],
-      "duration_ms": 254094,
-      "name": "Suguna Sundari",
-      "url": "https://open.spotify.com/track/1E0uPi2rjMgcZ3ayODv6DX"
     },
     {
       "added_at": "2021-12-16 12:46:43",

@@ -1,12 +1,12 @@
 {
   "description": "This is Cynthia Erivo. The essential tracks, all in one playlist.",
-  "num_followers": 11492,
+  "num_followers": 11493,
   "original_name": "This Is Cynthia Erivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adbsAAAAAADvLpHizo9pF17OpWHNzcyZ",
+  "snapshot_id": "adg9gAAAAAA+96EwZW++32mV41EtPlzX",
   "tracks": [
     {
       "added_at": null,
@@ -227,18 +227,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ch. 1 Vs. 1",
-        "url": "https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De"
+        "name": "Ocean In The Desert",
+        "url": "https://open.spotify.com/album/07nZoKl1t2TWlXhTuN0GsR"
       },
       "artists": [
+        {
+          "name": "Dionne Warwick",
+          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
+        },
         {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 217718,
-      "name": "I Might Be In Love With You",
-      "url": "https://open.spotify.com/track/1JXuz7eSjrpkI5FCdruZuN"
+      "duration_ms": 224643,
+      "name": "Ocean In The Desert",
+      "url": "https://open.spotify.com/track/5CWX9Qi9qXCM0GufMVTwGT"
     },
     {
       "added_at": null,
@@ -283,22 +287,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ocean In The Desert",
-        "url": "https://open.spotify.com/album/07nZoKl1t2TWlXhTuN0GsR"
+        "name": "Ch. 1 Vs. 1",
+        "url": "https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De"
       },
       "artists": [
-        {
-          "name": "Dionne Warwick",
-          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
-        },
         {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 224643,
-      "name": "Ocean In The Desert",
-      "url": "https://open.spotify.com/track/5CWX9Qi9qXCM0GufMVTwGT"
+      "duration_ms": 217718,
+      "name": "I Might Be In Love With You",
+      "url": "https://open.spotify.com/track/1JXuz7eSjrpkI5FCdruZuN"
     },
     {
       "added_at": null,
@@ -371,22 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everytime You Go Away (From the Documentary \u201cJohn Candy: I Like Me\")",
-        "url": "https://open.spotify.com/album/1WdHwykRftuLBoD4LlzOBg"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 308948,
-      "name": "Everytime You Go Away - From the Documentary \u201cJohn Candy: I Like Me\"",
-      "url": "https://open.spotify.com/track/2m32Fp49p0F3ojwUJ295WC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Forgive You",
         "url": "https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 273132,
       "name": "More Than Twice",
       "url": "https://open.spotify.com/track/6Jy9uF2uWIWVwgtWkT2yGm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Everytime You Go Away (From the Documentary \u201cJohn Candy: I Like Me\")",
+        "url": "https://open.spotify.com/album/1WdHwykRftuLBoD4LlzOBg"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 308948,
+      "name": "Everytime You Go Away - From the Documentary \u201cJohn Candy: I Like Me\"",
+      "url": "https://open.spotify.com/track/2m32Fp49p0F3ojwUJ295WC"
     },
     {
       "added_at": null,
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 275198,
-      "name": "Save Me From You",
-      "url": "https://open.spotify.com/track/7dfzkJizZp2oIOWfiRSs6w"
+      "duration_ms": 207500,
+      "name": "Worst Of Me",
+      "url": "https://open.spotify.com/track/3eHHJqCt5LNTvvmPCCvLuB"
     },
     {
       "added_at": null,
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 207500,
-      "name": "Worst Of Me",
-      "url": "https://open.spotify.com/track/3eHHJqCt5LNTvvmPCCvLuB"
+      "duration_ms": 275198,
+      "name": "Save Me From You",
+      "url": "https://open.spotify.com/track/7dfzkJizZp2oIOWfiRSs6w"
     },
     {
       "added_at": null,
@@ -751,22 +751,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Color Purple (New Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W"
+        "name": "Beyond The Lights (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/76IoyEyJjmgL6vLAK6a6EI"
       },
       "artists": [
         {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        },
-        {
-          "name": "Color Purple New Broadway Cast",
-          "url": "https://open.spotify.com/artist/59nDI6cgkij2y6empWnaJE"
         }
       ],
-      "duration_ms": 234731,
-      "name": "The Color Purple (Reprise)",
-      "url": "https://open.spotify.com/track/4v92TDdqX3VlFyeEA5sOfy"
+      "duration_ms": 183506,
+      "name": "Fly Before You Fall",
+      "url": "https://open.spotify.com/track/6Ch1e7h3b19r8HnR6HD1MW"
     },
     {
       "added_at": null,
@@ -787,18 +783,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beyond The Lights (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/76IoyEyJjmgL6vLAK6a6EI"
+        "name": "The Color Purple (New Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W"
       },
       "artists": [
         {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        },
+        {
+          "name": "Color Purple New Broadway Cast",
+          "url": "https://open.spotify.com/artist/59nDI6cgkij2y6empWnaJE"
         }
       ],
-      "duration_ms": 183506,
-      "name": "Fly Before You Fall",
-      "url": "https://open.spotify.com/track/6Ch1e7h3b19r8HnR6HD1MW"
+      "duration_ms": 234731,
+      "name": "The Color Purple (Reprise)",
+      "url": "https://open.spotify.com/track/4v92TDdqX3VlFyeEA5sOfy"
     },
     {
       "added_at": null,
@@ -815,26 +815,6 @@
       "duration_ms": 232896,
       "name": "Glowing Up",
       "url": "https://open.spotify.com/track/5aeUHbWlVXp0TZ0L1tuKsc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Color Purple (New Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        },
-        {
-          "name": "Jennifer Hudson",
-          "url": "https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5"
-        }
-      ],
-      "duration_ms": 237387,
-      "name": "What About Love?",
-      "url": "https://open.spotify.com/track/6QY1bfRkcQyvzkPqf0fsYN"
     },
     {
       "added_at": null,
@@ -871,6 +851,26 @@
       "duration_ms": 254293,
       "name": "We'll Meet Again",
       "url": "https://open.spotify.com/track/5ptXBoHYyiJ2NOgCLb02wP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Color Purple (New Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        },
+        {
+          "name": "Jennifer Hudson",
+          "url": "https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5"
+        }
+      ],
+      "duration_ms": 237387,
+      "name": "What About Love?",
+      "url": "https://open.spotify.com/track/6QY1bfRkcQyvzkPqf0fsYN"
     },
     {
       "added_at": null,
@@ -915,22 +915,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Color Purple (New Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 77077,
-      "name": "Somebody Gonna Love You",
-      "url": "https://open.spotify.com/track/1dKsRmAjZ8HAvdVMZYEval"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Together (Soundtrack from Year in Search)",
         "url": "https://open.spotify.com/album/1lBWCio6Lq0FcZTkyV7GWy"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 192873,
       "name": "Together (Soundtrack from Year in Search)",
       "url": "https://open.spotify.com/track/4P3YIQ8etgONpiS1DIpFat"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Color Purple (New Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 77077,
+      "name": "Somebody Gonna Love You",
+      "url": "https://open.spotify.com/track/1dKsRmAjZ8HAvdVMZYEval"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 
 > Check out the emerging independent tracks from these Telugu Artists!<br/>Cover : Anirudh Suswaram
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,819 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,824 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 | 74 | [Cheliya](https://open.spotify.com/track/5lhfZHPPPvgHsvlEoQIEZC) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Cheliya](https://open.spotify.com/album/3hqJlxtPFccOcBIVlqHKTk) | 3:03 |
 | 75 | [Seenu Gaani Dawath](https://open.spotify.com/track/2vbfIUYmq9H9B2CVaZrtYK) | [CNU beats](https://open.spotify.com/artist/5yV7QlgvvrXkNL1HBYcqZb) | [Seenu Gaani Dawath](https://open.spotify.com/album/5UgeFsY9v8Sc5VOTQhgF6C) | 3:01 |
 
-Snapshot ID: `AAAAALKCLw+RI3+GXIViQA1aZOxd/HVm`
+Snapshot ID: `AAAAAFIYpbbm4qdFq3to6/yvhj64EgA2`

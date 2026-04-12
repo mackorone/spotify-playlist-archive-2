@@ -1,12 +1,12 @@
 {
   "description": "This is Dropkick Murphys. The essential tracks, all in one playlist.",
-  "num_followers": 126334,
+  "num_followers": 126347,
   "original_name": "This Is Dropkick Murphys",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adbsAAAAAAApirXWhJ1VnBRYG7jwZcOk",
+  "snapshot_id": "adg9gAAAAAAzCXqpGhJJAnzN0AOjoKB0",
   "tracks": [
     {
       "added_at": null,
@@ -339,22 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Do Or Die",
-        "url": "https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 177887,
-      "name": "Barroom Hero",
-      "url": "https://open.spotify.com/track/0kVyKxg7SMIB3NnduRdo6n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "New England Forever",
         "url": "https://open.spotify.com/album/1QLd43rPsA1fPd0iDkbiJN"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 191415,
       "name": "Always By My Side",
       "url": "https://open.spotify.com/track/11DE0wxMteUTBf7e6OfQkE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Do Or Die",
+        "url": "https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 177887,
+      "name": "Barroom Hero",
+      "url": "https://open.spotify.com/track/0kVyKxg7SMIB3NnduRdo6n"
     },
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Going Out In Style",
-        "url": "https://open.spotify.com/album/66aspK0qKetRvNP3KGbEuq"
+        "name": "Turn Up That Dial (Expanded Version)",
+        "url": "https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 140693,
-      "name": "Peg O' My Heart",
-      "url": "https://open.spotify.com/track/46zP5b35ipdZE4dj619sAY"
+      "duration_ms": 231655,
+      "name": "Queen Of Suffolk County",
+      "url": "https://open.spotify.com/track/2QkLpiSHHSwxIedR20IYIW"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Turn Up That Dial (Expanded Version)",
-        "url": "https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd"
+        "name": "Going Out In Style",
+        "url": "https://open.spotify.com/album/66aspK0qKetRvNP3KGbEuq"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 231655,
-      "name": "Queen Of Suffolk County",
-      "url": "https://open.spotify.com/track/2QkLpiSHHSwxIedR20IYIW"
+      "duration_ms": 140693,
+      "name": "Peg O' My Heart",
+      "url": "https://open.spotify.com/track/46zP5b35ipdZE4dj619sAY"
     },
     {
       "added_at": null,
@@ -651,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Turn Up That Dial (Expanded Version)",
+        "url": "https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 238286,
+      "name": "James Connolly",
+      "url": "https://open.spotify.com/track/319QtkcOF005zXjCE14Zds"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Signed and Sealed In Blood",
         "url": "https://open.spotify.com/album/1wI9Oqt2gbv0wM24NssHcc"
       },
@@ -663,6 +679,22 @@
       "duration_ms": 166960,
       "name": "Prisoner's Song",
       "url": "https://open.spotify.com/track/1buzYFaWAwVlYPbXq3Bt4A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "11 Short Stories of Pain & Glory",
+        "url": "https://open.spotify.com/album/2x8e1IYd6eaQzAi7X2oRMB"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 241760,
+      "name": "Blood",
+      "url": "https://open.spotify.com/track/33MzDklgMtP9OSgtSS1p9x"
     },
     {
       "added_at": null,
@@ -692,15 +724,15 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 238286,
-      "name": "James Connolly",
-      "url": "https://open.spotify.com/track/319QtkcOF005zXjCE14Zds"
+      "duration_ms": 160013,
+      "name": "Mick Jones Nicked My Pudding",
+      "url": "https://open.spotify.com/track/2MmLVVAR4tB2zc7S61mvYk"
     },
     {
       "added_at": null,
       "album": {
-        "name": "11 Short Stories of Pain & Glory",
-        "url": "https://open.spotify.com/album/2x8e1IYd6eaQzAi7X2oRMB"
+        "name": "New England Forever",
+        "url": "https://open.spotify.com/album/1QLd43rPsA1fPd0iDkbiJN"
       },
       "artists": [
         {
@@ -708,9 +740,9 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 241760,
-      "name": "Blood",
-      "url": "https://open.spotify.com/track/33MzDklgMtP9OSgtSS1p9x"
+      "duration_ms": 138485,
+      "name": "Solidarity",
+      "url": "https://open.spotify.com/track/5fcVW5y9qWX48UKbopp7GG"
     },
     {
       "added_at": null,
@@ -751,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Turn Up That Dial (Expanded Version)",
-        "url": "https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 160013,
-      "name": "Mick Jones Nicked My Pudding",
-      "url": "https://open.spotify.com/track/2MmLVVAR4tB2zc7S61mvYk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Going Out In Style",
         "url": "https://open.spotify.com/album/66aspK0qKetRvNP3KGbEuq"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 303333,
       "name": "Broken Hymns",
       "url": "https://open.spotify.com/track/2OMqDQENvS5CF7UN0wQJT4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "New England Forever",
-        "url": "https://open.spotify.com/album/1QLd43rPsA1fPd0iDkbiJN"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 138485,
-      "name": "Solidarity",
-      "url": "https://open.spotify.com/track/5fcVW5y9qWX48UKbopp7GG"
     },
     {
       "added_at": null,

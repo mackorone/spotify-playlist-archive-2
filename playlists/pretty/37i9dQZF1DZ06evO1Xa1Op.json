@@ -1,12 +1,12 @@
 {
   "description": "This is Ali Farka Tour\u00e9. The essential tracks, all in one playlist.",
-  "num_followers": 22181,
+  "num_followers": 22182,
   "original_name": "This Is Ali Farka Tour\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adbsAAAAAADvdEA0Fm4ZYQqkMws/w2q4",
+  "snapshot_id": "adg9gAAAAABX7ykkCqxQ57L1pj4Fz5HC",
   "tracks": [
     {
       "added_at": null,
@@ -639,8 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Niafunk\u00e9",
-        "url": "https://open.spotify.com/album/5saGS2llpHUO3TOoACcmRq"
+        "name": "The River",
+        "url": "https://open.spotify.com/album/0WYJawWwPI0i99889vtr7O"
       },
       "artists": [
         {
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
         }
       ],
-      "duration_ms": 341333,
-      "name": "Mali Dje",
-      "url": "https://open.spotify.com/track/19HLWdo9rmxdpLuJZEjXyc"
+      "duration_ms": 384866,
+      "name": "Goydiotodam",
+      "url": "https://open.spotify.com/track/1vOXlVPiI7F8hBwy9CD5qc"
     },
     {
       "added_at": null,
@@ -707,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The River",
-        "url": "https://open.spotify.com/album/0WYJawWwPI0i99889vtr7O"
+        "name": "Niafunk\u00e9",
+        "url": "https://open.spotify.com/album/5saGS2llpHUO3TOoACcmRq"
       },
       "artists": [
         {
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
         }
       ],
-      "duration_ms": 384866,
-      "name": "Goydiotodam",
-      "url": "https://open.spotify.com/track/1vOXlVPiI7F8hBwy9CD5qc"
+      "duration_ms": 341333,
+      "name": "Mali Dje",
+      "url": "https://open.spotify.com/track/19HLWdo9rmxdpLuJZEjXyc"
     },
     {
       "added_at": null,

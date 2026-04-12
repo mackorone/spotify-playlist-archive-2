@@ -1,13 +1,77 @@
 {
   "description": "Our weekly selection is here \u26a1\ufe0f",
-  "num_followers": 2731,
+  "num_followers": 2732,
   "original_name": "AGLF Playlist",
   "owner": {
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "AAASHfpHMG+vgWSIvhmVwMqMDVxCflXf",
+  "snapshot_id": "AAASIePPwfe4QuUpzMKycOPI/usiLIBn",
   "tracks": [
+    {
+      "added_at": "2026-04-11 17:01:54",
+      "album": {
+        "name": "Neutron Decay (Rebirth Edit)",
+        "url": "https://open.spotify.com/album/15FhN2ruECaPCWpb7JEbV6"
+      },
+      "artists": [
+        {
+          "name": "SPXCEPVNK",
+          "url": "https://open.spotify.com/artist/2AMOCfEU0hWfO6qtzxcy8Z"
+        }
+      ],
+      "duration_ms": 177096,
+      "name": "Neutron Decay - Rebirth Edit",
+      "url": "https://open.spotify.com/track/1l3B54wNNMgcnS6NDvJC1m"
+    },
+    {
+      "added_at": "2026-04-11 13:23:17",
+      "album": {
+        "name": "No Name",
+        "url": "https://open.spotify.com/album/3I4tmZaSuBpGbCVBC8Spoh"
+      },
+      "artists": [
+        {
+          "name": "DJ Esse",
+          "url": "https://open.spotify.com/artist/5eXb8rgQwq17mWwmotpgQc"
+        }
+      ],
+      "duration_ms": 423307,
+      "name": "Deep Motion",
+      "url": "https://open.spotify.com/track/5UZeFHedkK1oxxf4DLrBNN"
+    },
+    {
+      "added_at": "2026-04-11 13:20:00",
+      "album": {
+        "name": "Stupid Sexy Vibe",
+        "url": "https://open.spotify.com/album/424U7FIAaoqdl4TXhVU0WD"
+      },
+      "artists": [
+        {
+          "name": "N\u00d8D3",
+          "url": "https://open.spotify.com/artist/4GzClhWpkbu12QzY1nZoPy"
+        }
+      ],
+      "duration_ms": 187645,
+      "name": "Stupid Sexy Vibe",
+      "url": "https://open.spotify.com/track/7kZw7JWDXDb8Tc0AJIDYjc"
+    },
+    {
+      "added_at": "2026-04-11 12:41:18",
+      "album": {
+        "name": "No More",
+        "url": "https://open.spotify.com/album/2VK02R4GujroMfIufCrQNd"
+      },
+      "artists": [
+        {
+          "name": "680Tone",
+          "url": "https://open.spotify.com/artist/6dyENcarC8GAyfoI9GFw6l"
+        }
+      ],
+      "duration_ms": 349440,
+      "name": "No More",
+      "url": "https://open.spotify.com/track/0j1ev9c75CFvpE2XsjVWO4"
+    },
     {
       "added_at": "2026-04-10 21:35:42",
       "album": {
@@ -3760,7 +3824,7 @@
       },
       "artists": [
         {
-          "name": "Dillon Nathaniel",
+          "name": "dillon nathaniel",
           "url": "https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j"
         }
       ],

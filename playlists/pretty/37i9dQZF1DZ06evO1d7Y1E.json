@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adbsAAAAAABRado+LZtWST6kBpuRimWI",
+  "snapshot_id": "adg9gAAAAAAznSIZqeDvYCXTNBysQJPx",
   "tracks": [
     {
       "added_at": null,
@@ -939,38 +939,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fica \u00e0 Vontade",
-        "url": "https://open.spotify.com/album/51aoXX99wzWxtURo5A5hpX"
-      },
-      "artists": [
-        {
-          "name": "M\u00e3olee",
-          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
-        },
-        {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
-        },
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
-        },
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        }
-      ],
-      "duration_ms": 276105,
-      "name": "Fica \u00e0 Vontade",
-      "url": "https://open.spotify.com/track/0Dqr7DChZi6MqEvpW7faLv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Quadrilha",
         "url": "https://open.spotify.com/album/2RJTHg5adV55Bb6Zjo67PL"
       },
@@ -1011,6 +979,38 @@
       "duration_ms": 296000,
       "name": "A Quadrilha",
       "url": "https://open.spotify.com/track/1FDz1IpAT8ZrVgR39q8cJk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fica \u00e0 Vontade",
+        "url": "https://open.spotify.com/album/51aoXX99wzWxtURo5A5hpX"
+      },
+      "artists": [
+        {
+          "name": "M\u00e3olee",
+          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
+        },
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        },
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        }
+      ],
+      "duration_ms": 276105,
+      "name": "Fica \u00e0 Vontade",
+      "url": "https://open.spotify.com/track/0Dqr7DChZi6MqEvpW7faLv"
     },
     {
       "added_at": null,
@@ -1355,6 +1355,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Me D\u00e1 Sua M\u00e3o",
+        "url": "https://open.spotify.com/album/2TPngKT3Xh3JMDpwcPrwqB"
+      },
+      "artists": [
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        }
+      ],
+      "duration_ms": 162413,
+      "name": "Me D\u00e1 Sua M\u00e3o",
+      "url": "https://open.spotify.com/track/3by89k8zGClgmQgz9SbtKp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Camisa 10",
         "url": "https://open.spotify.com/album/3JUT6jPZXrzkqIBJSSyrno"
       },
@@ -1375,26 +1395,6 @@
       "duration_ms": 90909,
       "name": "Camisa 10",
       "url": "https://open.spotify.com/track/6p8mBeEhoP4aywtAXHbcVT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Me D\u00e1 Sua M\u00e3o",
-        "url": "https://open.spotify.com/album/2TPngKT3Xh3JMDpwcPrwqB"
-      },
-      "artists": [
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        }
-      ],
-      "duration_ms": 162413,
-      "name": "Me D\u00e1 Sua M\u00e3o",
-      "url": "https://open.spotify.com/track/3by89k8zGClgmQgz9SbtKp"
     },
     {
       "added_at": null,

@@ -20137,6 +20137,24 @@
     },
     {
       "album": {
+        "name": "Black Hat GZR",
+        "url": "https://open.spotify.com/album/5lWSklJO6DlwinZfLjdEyR"
+      },
+      "artists": [
+        {
+          "name": "Angel Trino",
+          "url": "https://open.spotify.com/artist/6G9e3oARcq4ThyH91ye38W"
+        }
+      ],
+      "date_added": "2026-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168234,
+      "name": "Black Hat GZR",
+      "url": "https://open.spotify.com/track/1WCPT1bF1rHd0pA9gYaRVq"
+    },
+    {
+      "album": {
         "name": "Blackjack",
         "url": "https://open.spotify.com/album/4meU6vwQy6izFIInCZTPOm"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨Yaeger✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,867 likes - 225 songs - 12 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,875 likes - 225 songs - 12 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

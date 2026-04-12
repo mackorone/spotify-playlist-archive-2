@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMXdDNyT5XPb.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5SUu7au16Jd2bvqWVN09HM">Jon "MAGS" Maguire</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 359 likes - 112 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 360 likes - 112 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,15 +85,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMXdDNyT5XPb.md) - [plain]
 | 75 | [Dancing with You](https://open.spotify.com/track/0p8Hgkkya6bsENOHhmOO1G) | [Scouting For Girls](https://open.spotify.com/artist/2wpJOPmf1TIOzrB9mzHifd) | [The Trouble with Boys](https://open.spotify.com/album/2UtkESQfPycoEra0XYvys2) | 3:18 |
 | 76 | [She'll Never Love You \- Acoustic](https://open.spotify.com/track/77Uaz7KDRg26gTyFLg9lL8) | [Catherine McGrath](https://open.spotify.com/artist/0db28KdTi7VNaTipfAnlWQ) | [The Acoustics](https://open.spotify.com/album/7a34CZOKXi8YfB4e81GGw0) | 3:14 |
 | 77 | [Simple](https://open.spotify.com/track/5kUfd28cjloYrcCX1NUDiP) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Corner Of The Sky](https://open.spotify.com/album/6uVYHwWQqyR0Y57oyQ7wSH) | 3:25 |
-| 78 | [The Writing's On The Wall](https://open.spotify.com/track/0TBNJLc19JEr5PXwbyaWfX) | [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY) | [The Writing's On The Wall](https://open.spotify.com/album/6Ed2yhkWOGoGog1QTSch0j) | 2:39 |
-| 79 | [Gone](https://open.spotify.com/track/6vdaDwTbA2yKq9NV6MG6w8) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Avenoir](https://open.spotify.com/album/0PpZlKRSocIBOf6mUY3tVw) | 2:59 |
+| 78 | [Gone](https://open.spotify.com/track/6vdaDwTbA2yKq9NV6MG6w8) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Avenoir](https://open.spotify.com/album/0PpZlKRSocIBOf6mUY3tVw) | 2:59 |
+| 79 | [The Writing's On The Wall](https://open.spotify.com/track/0TBNJLc19JEr5PXwbyaWfX) | [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY) | [The Writing's On The Wall](https://open.spotify.com/album/6Ed2yhkWOGoGog1QTSch0j) | 2:39 |
 | 80 | [Song I Can't Forget](https://open.spotify.com/track/3LNV9RmV3zxKuLN6D0G1aZ) | [Scouting For Girls](https://open.spotify.com/artist/2wpJOPmf1TIOzrB9mzHifd) | [The Place We Used to Meet](https://open.spotify.com/album/4uuofFLpxeB321PaVpW6GY) | 3:14 |
-| 81 | [Lay With Me](https://open.spotify.com/track/5E3IZVtPnAMKJ5jC177L2M) | [John Adams](https://open.spotify.com/artist/4LaimQU44rsz2kMWQmY6Bi) | [Lay With Me](https://open.spotify.com/album/4MfKhq3j9MqPdicPW31B6o) | 2:51 |
-| 82 | [Take on the World](https://open.spotify.com/track/2X9W0RM92EE7IJCj8u6mZD) | [Luke Friend](https://open.spotify.com/artist/0fN6T4AfuRK8fWrENakh5U) | [Take on the World](https://open.spotify.com/album/2fTi0wYA5Ne7mk9puy2br6) | 3:07 |
-| 83 | [Hologram](https://open.spotify.com/track/6mg2Fd0xxlHTJRNk4sv2Y7) | [Max Pope](https://open.spotify.com/artist/1pW42WHCsBicnNoBkcbD7i) | [In Limbo \- EP](https://open.spotify.com/album/35J8iowYlwbt5IcA7UZKPy) | 3:22 |
+| 81 | [Holy](https://open.spotify.com/track/5kje42RAjDsJlKpN4OezWL) | [Dave Lofts](https://open.spotify.com/artist/7HiQfngxGAV1NmPcywkREb) | [Holy](https://open.spotify.com/album/4eXbnV8FXwsq70sKvLM1YR) | 3:19 |
+| 82 | [Lay With Me](https://open.spotify.com/track/5E3IZVtPnAMKJ5jC177L2M) | [John Adams](https://open.spotify.com/artist/4LaimQU44rsz2kMWQmY6Bi) | [Lay With Me](https://open.spotify.com/album/4MfKhq3j9MqPdicPW31B6o) | 2:51 |
+| 83 | [Take on the World](https://open.spotify.com/track/2X9W0RM92EE7IJCj8u6mZD) | [Luke Friend](https://open.spotify.com/artist/0fN6T4AfuRK8fWrENakh5U) | [Take on the World](https://open.spotify.com/album/2fTi0wYA5Ne7mk9puy2br6) | 3:07 |
 | 84 | [All For You](https://open.spotify.com/track/0vmxkMlvs48oKYcOJJRfZj) | [Simple Things](https://open.spotify.com/artist/4shOc51gERMCBeJALYIQmN) | [All For You](https://open.spotify.com/album/2PN4Pl0eqHebYdXpWofu25) | 3:26 |
-| 85 | [Don't Play This on the Radio](https://open.spotify.com/track/1PJ5jEyfsLYPHe8Arlq68B) | [Lucy Spraggan](https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N) | [Today Was a Good Day](https://open.spotify.com/album/7IIVfnuwQ2zrfbMp2vWsdQ) | 3:13 |
-| 86 | [Holy](https://open.spotify.com/track/5kje42RAjDsJlKpN4OezWL) | [Dave Lofts](https://open.spotify.com/artist/7HiQfngxGAV1NmPcywkREb) | [Holy](https://open.spotify.com/album/4eXbnV8FXwsq70sKvLM1YR) | 3:19 |
+| 85 | [Hologram](https://open.spotify.com/track/6mg2Fd0xxlHTJRNk4sv2Y7) | [Max Pope](https://open.spotify.com/artist/1pW42WHCsBicnNoBkcbD7i) | [In Limbo \- EP](https://open.spotify.com/album/35J8iowYlwbt5IcA7UZKPy) | 3:22 |
+| 86 | [Don't Play This on the Radio](https://open.spotify.com/track/1PJ5jEyfsLYPHe8Arlq68B) | [Lucy Spraggan](https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N) | [Today Was a Good Day](https://open.spotify.com/album/7IIVfnuwQ2zrfbMp2vWsdQ) | 3:13 |
 | 87 | [Bodystop](https://open.spotify.com/track/3p3N646rTTbyp6SE59Ezxz) | [Hook N Sling](https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D), [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY), [YOU](https://open.spotify.com/artist/266PvBAoJzPdxt3dgkEsBW) | [Bodystop](https://open.spotify.com/album/66rZeSSkClPAobtRPt9E0m) | 2:50 |
 | 88 | [Avenoir](https://open.spotify.com/track/1nMplJAQWqee9xNj8qvlfl) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Avenoir](https://open.spotify.com/album/0PpZlKRSocIBOf6mUY3tVw) | 1:26 |
 | 89 | [All About a Girl](https://open.spotify.com/track/1KO9sRiIZhRDKpu7MAFkBV) | [Union J](https://open.spotify.com/artist/7DTZkttLXeUXamkocrRzeh) | [You Got It All](https://open.spotify.com/album/312WowjvJsuTSfaxXBXi6Q) | 3:15 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMXdDNyT5XPb.md) - [plain]
 | 111 | [Breaking My Back](https://open.spotify.com/track/2BMzyOMgpmVRF9vqzYXGvA) | [Sons of William](https://open.spotify.com/artist/7JLB199dcJqEozdoTndjQo) | [Sons Of William](https://open.spotify.com/album/5tN9cixqUntcylVZ2T4f6K) | 2:25 |
 | 112 | [DIE FOR YOU](https://open.spotify.com/track/6h18FgTEtFKdbhwwmP8VHt) | [Álbert Montes](https://open.spotify.com/artist/4xkX06GBRTgABQAT18ADgW) | [DIE FOR YOU](https://open.spotify.com/album/4L0ewrs2F2poqVYkeZ8nKI) | 3:13 |
 
-Snapshot ID: `AcOhCAAAAAAmJw1cRjvuMuqW8hLuE9zG`
+Snapshot ID: `AcOmqAAAAAAPVVu3BI+y7nSnuwsiXbmS`

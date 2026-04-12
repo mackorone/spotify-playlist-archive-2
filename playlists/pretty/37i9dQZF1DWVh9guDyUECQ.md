@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 
 > Lo nuevo del Trap, Rap y Reggaeton Cristiano\. <br/>Foto: Tommy Royale
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,366 likes - 75 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,393 likes - 75 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 | 74 | [HIJOS DE DIOS](https://open.spotify.com/track/7lpJqPhyTW1Rde5Clo3Aig) | [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU), [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL), [Vianca "The Grace"](https://open.spotify.com/artist/3Xekr22iZIFUAb6eMOPNxP), [Borrero](https://open.spotify.com/artist/4v1ySMpX5kA1V5HlVsJwDU) | [HIJOS DE DIOS](https://open.spotify.com/album/0GudmSRso9SiDKQS6Pzz33) | 3:10 |
 | 75 | [Se Enloqueció](https://open.spotify.com/track/1hQAhWeOxaL4rxMq071wpG) | [Jackson Martinez](https://open.spotify.com/artist/01nKsHc3t6RZ15vwM8coxx), [Natan El Profeta](https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf) | [UNÁ](https://open.spotify.com/album/3Mn5RvVJbTHYclCZMkgOvp) | 3:29 |
 
-Snapshot ID: `AAAAAOYlLB6Ea/fN7jCsfEVnHUwHIiVC`
+Snapshot ID: `AAAAAEpwIND4aRtMap6+EHzMeWfkt4xD`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 
 > The classic Jazz guitarists and their finest pieces\. Cover: Grant Green
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,471 likes - 100 songs - 9 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,521 likes - 100 songs - 9 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,11 +29,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 | 19 | [Days Of Wine And Roses](https://open.spotify.com/track/1yegDiVa8d94H07ga1SLOt) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Boss Guitar](https://open.spotify.com/album/41Ymau5t3NA04iDRzdv3mR) | 3:46 |
 | 20 | [James](https://open.spotify.com/track/5E7hYtzDxeIsa5yEI597KO) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA), [Lyle Mays](https://open.spotify.com/artist/3yjmQDYGp9XYnFwptDvYc4), [Pat Metheny Group](https://open.spotify.com/artist/4uBSazM6snEc9wCG3jMlYt) | [Offramp](https://open.spotify.com/album/1heeMC7VVWEDxdQKxesqQK) | 6:41 |
 | 21 | [Nocturne](https://open.spotify.com/track/7BQVhWw9GR1Up3eKQrYFlI) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Arclight](https://open.spotify.com/album/6sKJEBTRRuQhI696nyr1mD) | 3:19 |
-| 22 | [Soul Lament \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/7xBpyAsYTgSxqOpMnMHNEt) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Midnight Blue \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/0hMuKAciHKinu4L3R4Ojjl) | 2:43 |
-| 23 | [Send In The Clowns](https://open.spotify.com/track/6Raz653SzfvRokSgYg9yxY) | [Ted Greene](https://open.spotify.com/artist/5GPOtnbe7RBHBUur5OzpO3) | [Solo Guitar](https://open.spotify.com/album/7fSp1R10Hsbtcfa3tvRdDX) | 4:59 |
+| 22 | [Send In The Clowns](https://open.spotify.com/track/6Raz653SzfvRokSgYg9yxY) | [Ted Greene](https://open.spotify.com/artist/5GPOtnbe7RBHBUur5OzpO3) | [Solo Guitar](https://open.spotify.com/album/7fSp1R10Hsbtcfa3tvRdDX) | 4:59 |
+| 23 | [Soul Lament \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/7xBpyAsYTgSxqOpMnMHNEt) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Midnight Blue \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/0hMuKAciHKinu4L3R4Ojjl) | 2:43 |
 | 24 | [Django](https://open.spotify.com/track/1LgoYJ5IYe74pDyayo3QHH) | [Joe Pass](https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ) | [For Django](https://open.spotify.com/album/52hlifh2FGBhx4BQVl2OJD) | 3:20 |
-| 25 | [Unity Village](https://open.spotify.com/track/7o56T3Ib6ZjVT6qFTCQFqP) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [Bright Size Life](https://open.spotify.com/album/1wyaHGxXkIGaLGSQTTgKzw) | 3:42 |
-| 26 | [Hüttengriffe](https://open.spotify.com/track/15pJPbo0r00e82puUIUS1i) | [Wolfgang Muthspiel](https://open.spotify.com/artist/7a7Vs88vzOcmHh4GOpUEJJ), [Scott Colley](https://open.spotify.com/artist/7AxNB7slEfo3WsWmZf4TSs), [Brian Blade](https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu) | [Angular Blues](https://open.spotify.com/album/4wxLJpGmJetMtZHslJz3DR) | 5:15 |
+| 25 | [Hüttengriffe](https://open.spotify.com/track/15pJPbo0r00e82puUIUS1i) | [Wolfgang Muthspiel](https://open.spotify.com/artist/7a7Vs88vzOcmHh4GOpUEJJ), [Scott Colley](https://open.spotify.com/artist/7AxNB7slEfo3WsWmZf4TSs), [Brian Blade](https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu) | [Angular Blues](https://open.spotify.com/album/4wxLJpGmJetMtZHslJz3DR) | 5:15 |
+| 26 | [Unity Village](https://open.spotify.com/track/7o56T3Ib6ZjVT6qFTCQFqP) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [Bright Size Life](https://open.spotify.com/album/1wyaHGxXkIGaLGSQTTgKzw) | 3:42 |
 | 27 | [It Could Happen To You](https://open.spotify.com/track/7ns8zu3jKepR1oed6TvglA) | [Herb Ellis](https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz) | [Ellis In Wonderland](https://open.spotify.com/album/0eoeuhP2vaqXF05wiDTTWP) | 3:44 |
 | 28 | [In Your Own Sweet Way](https://open.spotify.com/track/392OK8Qdmos0wNDrduiwy0) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Incredible Jazz Guitar](https://open.spotify.com/album/74kBIzv8E0CG5V6qx5ytm2) | 4:51 |
 | 29 | [Lil' Darlin'](https://open.spotify.com/track/6G9gDSV2reYifOmD4cwUSf) | [Joe Pass](https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ) | [Intercontinental](https://open.spotify.com/album/2zdmAZybFyUmIMPDok4y6A) | 3:44 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 | 94 | [Exactly Like You](https://open.spotify.com/track/2gRJ1I0QWkU8E9ECZ6iZM6) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A), [Herb Ellis](https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz) | [Lifestyle2 \- Bar Jazz Vol 2 \(International Version\)](https://open.spotify.com/album/32JF2WnLL2FYQwxHVqGEKp) | 4:47 |
 | 95 | [Straight No Chaser](https://open.spotify.com/track/0v9zEA8dCjkNja4l75w6NE) | [Mike Stern](https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP) | [Standards \[And Other Songs\]](https://open.spotify.com/album/1DNCkNNowfEz9towiU2PDo) | 5:24 |
 | 96 | [Airegin](https://open.spotify.com/track/2UCUSLYC6EX0AGnI7DAC35) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Incredible Jazz Guitar](https://open.spotify.com/album/74kBIzv8E0CG5V6qx5ytm2) | 4:24 |
-| 97 | [And I Love Her](https://open.spotify.com/track/6ITNRagpLcw79jH8gkiyBS) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [What's It All About](https://open.spotify.com/album/1PFk7YXdSPenmhnsy85qN0) | 4:22 |
+| 97 | [Spiritual](https://open.spotify.com/track/44BzwIxfRRzOJOe97DLnvx) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA), [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin) | [Beyond The Missouri Sky](https://open.spotify.com/album/2PULgzT2IHwYzfNxi4n3vY) | 8:22 |
 | 98 | [D\-Natural Blues](https://open.spotify.com/track/5fxPh44pYzAR5M5KW5SdMk) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Incredible Jazz Guitar](https://open.spotify.com/album/74kBIzv8E0CG5V6qx5ytm2) | 5:20 |
-| 99 | [Spiritual](https://open.spotify.com/track/44BzwIxfRRzOJOe97DLnvx) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA), [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin) | [Beyond The Missouri Sky](https://open.spotify.com/album/2PULgzT2IHwYzfNxi4n3vY) | 8:22 |
+| 99 | [And I Love Her](https://open.spotify.com/track/6ITNRagpLcw79jH8gkiyBS) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [What's It All About](https://open.spotify.com/album/1PFk7YXdSPenmhnsy85qN0) | 4:22 |
 | 100 | [Solar](https://open.spotify.com/track/0AduWgUPoSsKHMzhHKzqkn) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [Question and Answer](https://open.spotify.com/album/1kM7n3aiIKwS4FZqWLLdLv) | 8:25 |
 
 Snapshot ID: `AAAAAHZGX7eoh6EdY4fJ3Yx8i3M4zpJp`

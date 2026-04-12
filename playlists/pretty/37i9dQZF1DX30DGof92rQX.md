@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 
 > Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- Faisal Kapadia
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,733 likes - 90 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,745 likes - 90 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Kya Yehi Pyar Hai](https://open.spotify.com/track/24eFHEdqC713HsVSxtk0Bu) | [Faisal Kapadia](https://open.spotify.com/artist/5sJRjMmbbpbEZCtkiZYPCR) | [Kya Yehi Pyar Hai](https://open.spotify.com/album/4lALVLwgcZBgmCkIyvf5vX) | 4:37 |
 | 2 | [Neendran](https://open.spotify.com/track/3ZvTgtNtnLyGpXRWOnT6mV) | [Rabi Ahmed](https://open.spotify.com/artist/7o7GKafH7LeVDLVzl2kTsn), [Syed Hamza](https://open.spotify.com/artist/4aszTEWKdtIPcvzJjlfnoQ), [Aalehaider Gillani](https://open.spotify.com/artist/36oQ9VCIlkevaIa1Mi6hmA) | [Neendran](https://open.spotify.com/album/7CbyGQDGfDNyI5d9qaqRLI) | 2:34 |
-| 3 | [Yung Money](https://open.spotify.com/track/5AhLbtL9gzUJ4Na9V1A9oP) | [AliSoomroMusic](https://open.spotify.com/artist/2hXbxDaLthfodvgEpP6Xpm), [Afusic](https://open.spotify.com/artist/1pS0qiLG23HMMLFwsQALKx), [Ali Raza](https://open.spotify.com/artist/522dF8hRyQ3b0jypJfUDQW), [Azan Ali](https://open.spotify.com/artist/1Ww6kYtGqgLRqGeVJkb7yU) | [birds in the trap](https://open.spotify.com/album/4vzcWip8QHisJ2hbszZ11y) | 3:14 |
+| 3 | [Yung Money](https://open.spotify.com/track/5AhLbtL9gzUJ4Na9V1A9oP) | [AliSoomroMusic](https://open.spotify.com/artist/2hXbxDaLthfodvgEpP6Xpm), [Afusic](https://open.spotify.com/artist/1pS0qiLG23HMMLFwsQALKx), [Ali Raza](https://open.spotify.com/artist/522dF8hRyQ3b0jypJfUDQW), [Azan Ali](https://open.spotify.com/artist/0V5VTIpWy4tsz3XienFcxJ) | [birds in the trap](https://open.spotify.com/album/4vzcWip8QHisJ2hbszZ11y) | 3:14 |
 | 4 | [Habibi \(feat\. Zoha Zuberi\)](https://open.spotify.com/track/1jNRvKWOjotXJ7JmonNJV5) | [Ali Allahditta](https://open.spotify.com/artist/26ESxp0K50aZZForRTctle), [Zoha Zuberi](https://open.spotify.com/artist/7q7OAPH7UHoaTYL4DXe1LK) | [Habibi \(feat\. Zoha Zuberi\)](https://open.spotify.com/album/4XfVilYNN5U9zbRAy755Jw) | 2:44 |
 | 5 | [Bas Hum Do](https://open.spotify.com/track/0YM5djlXvCD6BtC3WOBc2T) | [Hamzay](https://open.spotify.com/artist/3jZgv3hijK101spub7clyS) | [Bas Hum Do](https://open.spotify.com/album/7rrcIn8XECyCD9ChagIowq) | 2:48 |
 | 6 | [Meherban](https://open.spotify.com/track/5gSklh8rvCmevtjcFGeI7n) | [Huma Khawaja](https://open.spotify.com/artist/6zXQ4B6xtyEZOESXckFFfb) | [Meherban](https://open.spotify.com/album/2IbmfBjzgNlzdWC4PUOStx) | 2:58 |

@@ -4420,7 +4420,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-16",
+      "date_removed": null,
       "duration_ms": 150769,
       "name": "Gazelle (feat. Ele A)",
       "url": "https://open.spotify.com/track/4vqY8SB6XArs7IkEpWHTw9"
@@ -4802,7 +4802,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 191193,
       "name": "GOAT",
       "url": "https://open.spotify.com/track/5XSDWYzMXzPtwimHufQ1Ai"
@@ -11587,6 +11587,28 @@
     },
     {
       "album": {
+        "name": "SEI TU",
+        "url": "https://open.spotify.com/album/5kBACwZpm4UpVEbzAb1ucl"
+      },
+      "artists": [
+        {
+          "name": "Chomsk'",
+          "url": "https://open.spotify.com/artist/0CJDBEjJQYGcyC12FI1L0b"
+        },
+        {
+          "name": "Davide Shorty",
+          "url": "https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146229,
+      "name": "SEI TU",
+      "url": "https://open.spotify.com/track/4FvNMfY6V0iEzwQYsxS0lN"
+    },
+    {
+      "album": {
         "name": "Sembra scritto",
         "url": "https://open.spotify.com/album/4Hm99WxUTNe9dHLumJUQQb"
       },
@@ -13938,7 +13960,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-12",
       "duration_ms": 242758,
       "name": "Verde (feat. Willie Peyote & Cicco Sanchez)",
       "url": "https://open.spotify.com/track/2xAgjA6BKstSr6lLtdczw8"

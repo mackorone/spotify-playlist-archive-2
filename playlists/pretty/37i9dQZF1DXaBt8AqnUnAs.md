@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 
 > aqueles papo de amor tlgd não?
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,943 likes - 74 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,976 likes - 74 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Um Pouco](https://open.spotify.com/track/0MXuN923Y0DfRsPx2vFdzO) | [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [HASOS](https://open.spotify.com/album/0T6NLOJMmjD6xyvzNswmnn) | 2:40 |
 | 2 | [Ambição no Olhar](https://open.spotify.com/track/0NhVXuekK4VRo777zMPpor) | [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH), [Thiago Kelbert](https://open.spotify.com/artist/22kCWlXVaiBMYozPgHQhZM), [Volp](https://open.spotify.com/artist/6fFgNVTo4bxMf2eswaar7Z) | [Ambição no Olhar](https://open.spotify.com/album/6Kybrq2kHFZ7WihHe8WGVB) | 2:29 |
 | 3 | [Bloco dos Apaixonados](https://open.spotify.com/track/238zMnsORb3vbrpJtTCzPE) | [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l), [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN) | [Até o Próximo Carnaval, Vol\. 3](https://open.spotify.com/album/56wCjkQK8O6x2V25skPFsB) | 2:42 |
-| 4 | [Esquinas](https://open.spotify.com/track/2voUpWwBaRyJ0gTfbePHFX) | [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td), [Los Brasileiros](https://open.spotify.com/artist/6EXiGuXCcqXrA20ejbi5lU) | [ARꓘANO](https://open.spotify.com/album/6dehecfgOrOfZqIzzwDQxl) | 3:44 |
+| 4 | [Esquinas](https://open.spotify.com/track/2voUpWwBaRyJ0gTfbePHFX) | [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td), [Los Brasileiros](https://open.spotify.com/artist/6EXiGuXCcqXrA20ejbi5lU), [Jorge Vercillo](https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs) | [ARꓘANO](https://open.spotify.com/album/6dehecfgOrOfZqIzzwDQxl) | 3:44 |
 | 5 | [Beatriz](https://open.spotify.com/track/3RDv5uDgHJS8wBdPkoCXUF) | [2ZDinizz](https://open.spotify.com/artist/13zmjclMwzz8kIxRrN7JOV), [Leborato](https://open.spotify.com/artist/22YKiuRdkpMJ0yKO550zIq), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [Beatriz](https://open.spotify.com/album/4ShDsc9HALU5W3i0l8rLup) | 4:07 |
 | 6 | [Unha de Cereja](https://open.spotify.com/track/0PojmJyNJlPxNqfXtyx33r) | [TH⁷n](https://open.spotify.com/artist/7nVxMo0q8WyI5BTqxfCrV3), [David, The Crazy Boy](https://open.spotify.com/artist/7LSYVe2YIjzHXnmGrE8W5Q), [.REMY00](https://open.spotify.com/artist/0WFkDQT1DYwveHbVBwbDtW), [Seventy Seven](https://open.spotify.com/artist/6zZ1sLFUsUHFgXgvBydhaw) | [Unha de Cereja](https://open.spotify.com/album/4eZRkHz2gi5BThDv2tAiI6) | 2:08 |
 | 7 | [Whiskey Com Água de Choro](https://open.spotify.com/track/3EX5wGiv3N2iAwvpgk4d9E) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Fragmentos](https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb) | 2:45 |

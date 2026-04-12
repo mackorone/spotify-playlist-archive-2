@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > 50 artists who are the future of Canadian music, according to our editors\. Cover: WHIPPED CREAM
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,144 likes - 40 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,158 likes - 40 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 39 | [Le signal](https://open.spotify.com/track/1GKAJgvvFhmIRyMXCdC69g) | [Gabriel Fredette](https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4) | [Le signal](https://open.spotify.com/album/3SkLehLh1EYNzSM9lcl1NW) | 3:00 |
 | 40 | [Pop Shit](https://open.spotify.com/track/2YbsFrxepUS7s3IGHjLLWn) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Pop Shit](https://open.spotify.com/album/2TSJIhXkxnkfqfIuhc1729) | 1:40 |
 
-Snapshot ID: `AAAAACJS+O52lm0gSiD/u8rpKPe4m3J4`
+Snapshot ID: `AAAAAFY1GPoRrFpSe6gA04j6t90EyjXx`

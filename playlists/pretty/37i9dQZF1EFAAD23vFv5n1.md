@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 33 | [Paranoie](https://open.spotify.com/track/6pRSnQ7NxpB9eCIa3N0Gqg) | [Tancredi](https://open.spotify.com/artist/6BeaPpdgW7R4Q1ZGqENbV0) | [Paranoie](https://open.spotify.com/album/0Xmz1F6dcfJ8mRpZyJhPZT) | 2:30 |
 | 34 | [ok :\)](https://open.spotify.com/track/5QTT9PQDW6CSl1UByi5nxt) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok :\)](https://open.spotify.com/album/499zhITIl5pq4NgXU7AXoR) | 3:29 |
 | 35 | [Mr\. Nobody](https://open.spotify.com/track/2nKAJsGygU8lWxd8VE6kjU) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [1998](https://open.spotify.com/album/5nQff1e9q2Tcsa4bEyWXMa) | 3:03 |
-| 36 | [Baby](https://open.spotify.com/track/6pGsdKu9meinWCqFDiD94g) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [INTERNET](https://open.spotify.com/album/5KsrpADyPgZQA4f67KmuGz) | 3:13 |
-| 37 | [okokok](https://open.spotify.com/track/5VML2SOtSpYIKxtAQ3oAzq) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [okokok](https://open.spotify.com/album/0a6WPtwGDH6doaQoBiIp2C) | 2:38 |
+| 36 | [okokok](https://open.spotify.com/track/5VML2SOtSpYIKxtAQ3oAzq) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [okokok](https://open.spotify.com/album/0a6WPtwGDH6doaQoBiIp2C) | 2:38 |
+| 37 | [Baby](https://open.spotify.com/track/6pGsdKu9meinWCqFDiD94g) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [INTERNET](https://open.spotify.com/album/5KsrpADyPgZQA4f67KmuGz) | 3:13 |
 | 38 | [Wah Wah](https://open.spotify.com/track/4ENsfBs38JiwX96HasFH78) | [Tancredi](https://open.spotify.com/artist/6BeaPpdgW7R4Q1ZGqENbV0) | [Wah Wah](https://open.spotify.com/album/7hW0lNWIc1ll7RjjCn0k64) | 2:28 |
 | 39 | [Senza te](https://open.spotify.com/track/5MMwVqWiDhOkiFEgLOOZXw) | [Benji & Fede](https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm) | [20:05](https://open.spotify.com/album/03OohCVFo6mv6g1oj5pW8D) | 3:15 |
 | 40 | [Asfalto](https://open.spotify.com/track/0h6zzKCpqIQwCetFJWhd8f) | [Colla Zio](https://open.spotify.com/artist/5b7RP4RDJ37q5EPUs4nf59) | [ROCKABILLY CARTER](https://open.spotify.com/album/4JhRql5w7yWaRipBuUM7ar) | 2:45 |
@@ -103,9 +103,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 93 | [Soliloquio \(feat\. Vale LP\)](https://open.spotify.com/track/0jFMalinhTNl67iYNBfYSd) | [Lil Jolie](https://open.spotify.com/artist/2IhanhNfIn38Qjybdt2ie9), [Vale LP](https://open.spotify.com/artist/4nTnJuhLXyyNms4wowqmkQ) | [Bambina](https://open.spotify.com/album/24DzoYmI9DkE8AqaQ593EP) | 3:01 |
 | 94 | [Una come te](https://open.spotify.com/track/1lSMWsYGwTa17qJzvCqB3C) | [Teseghella](https://open.spotify.com/artist/7iJcABhFmM1ZgpG24dHK7D) | [Una come te](https://open.spotify.com/album/2WBl8ncquaQ5OrnnMkbvUK) | 2:42 |
 | 95 | [BREAKOUT v10](https://open.spotify.com/track/6bkNqpZYmcM4kbOCa8ubPl) | [Sethu](https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5), [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [ANATOMIA CRISTALLO](https://open.spotify.com/album/3cQbctP7TYxlAQIZjDduuv) | 2:19 |
-| 96 | [ok](https://open.spotify.com/track/5D9OWjK5p7eQyWPrr4jHlM) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok](https://open.spotify.com/album/1w7C8fTWGQu5QhHdS5B7pi) | 1:19 |
-| 97 | [chissenefrega](https://open.spotify.com/track/3KD0W1cTkKp7L9obShsOSJ) | [rovere](https://open.spotify.com/artist/5epzSn98pqluCq6hyGu3ux) | [11 case](https://open.spotify.com/album/6qOC7izy6HXMCyGF9N29YA) | 2:33 |
-| 98 | [Serial Killer](https://open.spotify.com/track/3xqC5Ya3UmVOM4eC6lZA2a) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [Serial Killer](https://open.spotify.com/album/2RgVZmru4TcFFq5hyGLGti) | 2:52 |
+| 96 | [Serial Killer](https://open.spotify.com/track/3xqC5Ya3UmVOM4eC6lZA2a) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [Serial Killer](https://open.spotify.com/album/2RgVZmru4TcFFq5hyGLGti) | 2:52 |
+| 97 | [ok](https://open.spotify.com/track/5D9OWjK5p7eQyWPrr4jHlM) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok](https://open.spotify.com/album/1w7C8fTWGQu5QhHdS5B7pi) | 1:19 |
+| 98 | [chissenefrega](https://open.spotify.com/track/3KD0W1cTkKp7L9obShsOSJ) | [rovere](https://open.spotify.com/artist/5epzSn98pqluCq6hyGu3ux) | [11 case](https://open.spotify.com/album/6qOC7izy6HXMCyGF9N29YA) | 2:33 |
 | 99 | [Flights](https://open.spotify.com/track/3KKLnhraL4Dgdav4jDz3VY) | [HÅN](https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1) | [projections on a human screen](https://open.spotify.com/album/6l6gC5OMQRjxPQFunLNRCP) | 3:07 |
 | 100 | [BUGIA](https://open.spotify.com/track/2LrD9eskzGNULjsdc4z8PG) | [Claudym](https://open.spotify.com/artist/7pNCSsicJGpwrn2wwGD91g) | [Incidenti Di Percorso](https://open.spotify.com/album/3F8GHkZjiGX9djLFSAGgW9) | 2:36 |
 | 101 | [Fantasmi](https://open.spotify.com/track/6dY5LOFtTIwo54HeGclMxQ) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [Fantasmi](https://open.spotify.com/album/6yQnrMHJtwV7AjRuWmHFeX) | 2:57 |
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 159 | [Intro](https://open.spotify.com/track/6qyeQ7FdZXM44vqY2DWtv4) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [Hotel Corallo](https://open.spotify.com/album/6TOinoXJcHtiLvF3Nrw8rB) | 0:46 |
 | 160 | [Lo So](https://open.spotify.com/track/1bDgDSlaiBty5VenRsoSPP) | [Valentina](https://open.spotify.com/artist/7hgZDU5UtpRoaWEjfHsliw) | [Io So](https://open.spotify.com/album/57px9qcd6jgsymMSkJ0Rjx) | 3:39 |
 
-Snapshot ID: `AcOgzAAAAACr8G4L8PGpgOKb3AKL7jMc`
+Snapshot ID: `AcOmbAAAAAANDyomHaeD1yE9DUwcSkQa`

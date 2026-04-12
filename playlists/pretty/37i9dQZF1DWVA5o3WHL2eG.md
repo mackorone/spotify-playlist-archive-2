@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: Josi
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,507 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,745 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 4 | [DU BIST DER FEHLER.](https://open.spotify.com/track/7Fz8qYsfyRfUCKCzdiCiaV) | [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6), [Juh\-Dee](https://open.spotify.com/artist/69ZDIPK1YKLwhmN4EzB0l0) | [DU BIST DER FEHLER.](https://open.spotify.com/album/7hG8ey2DjuDylQTdvr7Rh5) | 2:40 |
 | 5 | [Body](https://open.spotify.com/track/6LUf8iHa70FFxTnALLeRLA) | [Rejy](https://open.spotify.com/artist/2CojzxjCPLv66ckREXidsb), [Close Friends](https://open.spotify.com/artist/3bMpyALhf1EUyj3brU0CKT) | [Body](https://open.spotify.com/album/6zA6w2OeqTyZr8lfeBuuic) | 2:25 |
 | 6 | [90\-60\-111](https://open.spotify.com/track/0wG5oaGGdeEbTPUrKeNst9) | [Shirin David](https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa) | [Bitches brauchen Rap](https://open.spotify.com/album/7dP4Wy0JeQLuyXfSaUACtt) | 2:21 |
-| 7 | [Nicht alle Männer](https://open.spotify.com/track/1EW65ROral0c7zxKuYwyP0) | [Mariybu](https://open.spotify.com/artist/3R1Ha6KqmyhC2vUrmEocEG), [Ebow](https://open.spotify.com/artist/0A6JvVRIH3NZRto4r1OUrA) | [Nicht alle Männer](https://open.spotify.com/album/1McXTV5fnHSRVBJlfk5Cz9) | 2:05 |
+| 7 | [get naked](https://open.spotify.com/track/0YFvVVhJ4OiETfKZCcZ4hI) | [panicbaby](https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA) | [get naked](https://open.spotify.com/album/2EN89KuXbkhMPSWmo2VIIf) | 2:17 |
 | 8 | [Flashbacks](https://open.spotify.com/track/7yQ5Am9vUK6xXPiZVzfyRi) | [Josi](https://open.spotify.com/artist/5vQXzZjy86ijQhMjMb1ke4) | [Flashbacks](https://open.spotify.com/album/5JKJkVavUgl68IwaTo7N3U) | 3:15 |
-| 9 | [get naked](https://open.spotify.com/track/0YFvVVhJ4OiETfKZCcZ4hI) | [panicbaby](https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA) | [get naked](https://open.spotify.com/album/2EN89KuXbkhMPSWmo2VIIf) | 2:17 |
+| 9 | [Nicht alle Männer](https://open.spotify.com/track/1EW65ROral0c7zxKuYwyP0) | [Mariybu](https://open.spotify.com/artist/3R1Ha6KqmyhC2vUrmEocEG), [Ebow](https://open.spotify.com/artist/0A6JvVRIH3NZRto4r1OUrA) | [Nicht alle Männer](https://open.spotify.com/album/1McXTV5fnHSRVBJlfk5Cz9) | 2:05 |
 | 10 | [Fremd](https://open.spotify.com/track/2nO5coy49PLMExXkZMaO7J) | [LYZA](https://open.spotify.com/artist/1GkuVWjCoLLzR2KwEp0zB4) | [Fremd](https://open.spotify.com/album/4wn8wYiiArI6VieflDylSr) | 3:07 |
 | 11 | [DIE ICH WAR](https://open.spotify.com/track/1QhovwYc8cI3OuoX9BPy4v) | [Nalya](https://open.spotify.com/artist/28pXf135fQ3E5AJixrjd4O) | [DIE ICH WAR](https://open.spotify.com/album/3fTNibi2TEva1OWpdXPiWD) | 2:48 |
 | 12 | [atmen](https://open.spotify.com/track/08aWwk8EzNgWC8ZlZ8ojD8) | [Ella Stern](https://open.spotify.com/artist/4JqjErIJOUuM9VSJdSsmxd) | [atmen](https://open.spotify.com/album/1TPzs9tiwqdMAoZh3X3obP) | 2:59 |
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 14 | [Beiss mich fest](https://open.spotify.com/track/4qBd4iG9kqOIiRNS56r125) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Beiss mich fest](https://open.spotify.com/album/6OQaolEPGCprA6DZeckT2f) | 2:00 |
 | 15 | [YOU&ME](https://open.spotify.com/track/5Lsf972OLKx5LbJyvyoXJ2) | [Josi](https://open.spotify.com/artist/5vQXzZjy86ijQhMjMb1ke4) | [DON'T STOP](https://open.spotify.com/album/75d1zgNLvFKDRx6uwNBwZ2) | 2:04 |
 | 16 | [GEN Z LUV](https://open.spotify.com/track/0HLqEQQmoWswlR2sxYQlCI) | [Rubi](https://open.spotify.com/artist/0VlrorDSkEbLK1D6VvMgd2) | [GEN Z LUV](https://open.spotify.com/album/2Lg8iJMdSJOa3jlo0nMMvQ) | 1:48 |
-| 17 | [P\*rno](https://open.spotify.com/track/2QU13A6S7IAwFNiAfa9Atd) | [VICKY](https://open.spotify.com/artist/7JJqR4GbZwWeUMkRGAk0Va) | [P\*rno](https://open.spotify.com/album/7i9YKFc2yibSRx8JoBtOAB) | 2:05 |
-| 18 | [Girls support Girls](https://open.spotify.com/track/1PmUzmxrYajlmPpn2QmPkQ) | [Anna Grey](https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q) | [DNA](https://open.spotify.com/album/2MJnPfsVwCbyBmcvaG2e2l) | 1:57 |
-| 19 | [Dog Bite](https://open.spotify.com/track/4oMfYG01Heyeqkdxfq9Z3D) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Virgin Lake](https://open.spotify.com/album/5hjXrxckG7e4f8IDw8Czcs) | 4:25 |
+| 17 | [Dog Bite](https://open.spotify.com/track/4oMfYG01Heyeqkdxfq9Z3D) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Virgin Lake](https://open.spotify.com/album/5hjXrxckG7e4f8IDw8Czcs) | 4:25 |
+| 18 | [P\*rno](https://open.spotify.com/track/2QU13A6S7IAwFNiAfa9Atd) | [VICKY](https://open.spotify.com/artist/7JJqR4GbZwWeUMkRGAk0Va) | [P\*rno](https://open.spotify.com/album/7i9YKFc2yibSRx8JoBtOAB) | 2:05 |
+| 19 | [Girls support Girls](https://open.spotify.com/track/1PmUzmxrYajlmPpn2QmPkQ) | [Anna Grey](https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q) | [DNA](https://open.spotify.com/album/2MJnPfsVwCbyBmcvaG2e2l) | 1:57 |
 | 20 | [wasserfarben](https://open.spotify.com/track/1VlhIy2S6cqPXMIlTxkkXb) | [Caro Schaeffler](https://open.spotify.com/artist/0HOgHNCucycZ7DUyWjFhNB) | [wasserfarben](https://open.spotify.com/album/5anq9Pq1u3YXlbpi94VF3N) | 3:05 |
 | 21 | [It\-girl](https://open.spotify.com/track/6UJ71rHZh9EfgrAuFRR1q0) | [Mieze](https://open.spotify.com/artist/7M4NzPON3JqwE3GRfdg7eU) | [It\-girl](https://open.spotify.com/album/0vmb9sVh34aVdNL1UVyfo7) | 2:04 |
 | 22 | [sommerwind](https://open.spotify.com/track/3puY290XhaYRHxebmg9NvN) | [lovehead](https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce) | [sommerwind](https://open.spotify.com/album/1h0xn8lP2tnxtUm8HitWbz) | 2:48 |
@@ -35,16 +35,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 25 | [Kasse](https://open.spotify.com/track/00bCnJgI9MXfZqMVemLSdK) | [Josi](https://open.spotify.com/artist/5vQXzZjy86ijQhMjMb1ke4) | [Kasse](https://open.spotify.com/album/5JzGXoMZulIHnH7hTdItSE) | 2:26 |
 | 26 | [Trauma Glam](https://open.spotify.com/track/6yvQlol6H9go2UB6OwwUDj) | [Charlize](https://open.spotify.com/artist/5RKUXG6hD3vVpakjwcK5IW) | [Trauma Glam](https://open.spotify.com/album/10WnTmQt87J8s2YkwLkHiK) | 2:23 |
 | 27 | [Männersache](https://open.spotify.com/track/1HBITtBwmz9ZUDekimTnwS) | [CARLI](https://open.spotify.com/artist/669JFUZgZaJ9uuBT7cGpU6) | [Männersache](https://open.spotify.com/album/6em78l04f1OVhKKNZAbAgL) | 2:11 |
-| 28 | [nie verstehen](https://open.spotify.com/track/0nKiL94U8ti7ksxjSaIDB8) | [Cosima Kiby](https://open.spotify.com/artist/1hm4J3Mp8Yh2TDhOp6u7sM) | [nie verstehen](https://open.spotify.com/album/7CR6gLaObiPTPqOg2CIUoN) | 2:13 |
-| 29 | [Was du nicht siehst](https://open.spotify.com/track/1xDt2hyZhp0ChDl4zynHku) | [Katha Pauer](https://open.spotify.com/artist/2YxWusBgSh4BLJdypUbFbC) | [Was du nicht siehst](https://open.spotify.com/album/3DxsfptcHKBfMg3f3rQVWU) | 3:26 |
+| 28 | [Was du nicht siehst](https://open.spotify.com/track/1xDt2hyZhp0ChDl4zynHku) | [Katha Pauer](https://open.spotify.com/artist/2YxWusBgSh4BLJdypUbFbC) | [Was du nicht siehst](https://open.spotify.com/album/3DxsfptcHKBfMg3f3rQVWU) | 3:26 |
+| 29 | [nie verstehen](https://open.spotify.com/track/0nKiL94U8ti7ksxjSaIDB8) | [Cosima Kiby](https://open.spotify.com/artist/1hm4J3Mp8Yh2TDhOp6u7sM) | [nie verstehen](https://open.spotify.com/album/7CR6gLaObiPTPqOg2CIUoN) | 2:13 |
 | 30 | [bitte bleibt](https://open.spotify.com/track/6RAIxtTwirHYMrQxYC51wY) | [cami](https://open.spotify.com/artist/64bv5tnrfDXWI1McC1vitt) | [bitte bleibt](https://open.spotify.com/album/6qn9DZ93ArDVmazACHQjZC) | 2:58 |
-| 31 | [double L](https://open.spotify.com/track/7jAX6V6DdTRETOP4Zekrby) | [Anna Ullrich](https://open.spotify.com/artist/50KbwRJgMFxSmT50FamuDN) | [double L](https://open.spotify.com/album/2NffmfK2kiciEDLg7JY71Z) | 3:32 |
-| 32 | [yin und yang](https://open.spotify.com/track/3uEWjrFM2sY2eRPrR7msZq) | [Bella](https://open.spotify.com/artist/5faCGAse4maeHgRIvEMS56) | [yin und yang](https://open.spotify.com/album/7tgDjiD2laU5xXl32fzy6o) | 2:32 |
+| 31 | [yin und yang](https://open.spotify.com/track/3uEWjrFM2sY2eRPrR7msZq) | [Bella](https://open.spotify.com/artist/5faCGAse4maeHgRIvEMS56) | [yin und yang](https://open.spotify.com/album/7tgDjiD2laU5xXl32fzy6o) | 2:32 |
+| 32 | [double L](https://open.spotify.com/track/7jAX6V6DdTRETOP4Zekrby) | [Anna Ullrich](https://open.spotify.com/artist/50KbwRJgMFxSmT50FamuDN) | [double L](https://open.spotify.com/album/2NffmfK2kiciEDLg7JY71Z) | 3:32 |
 | 33 | [Sniper](https://open.spotify.com/track/52KhmZdOWIk02dwffldHMu) | [Josi](https://open.spotify.com/artist/5vQXzZjy86ijQhMjMb1ke4) | [Sniper](https://open.spotify.com/album/06JWbSUX77An10BejKN9C0) | 1:56 |
 | 34 | [BEBII](https://open.spotify.com/track/6YocybQAUDMGdSgU9d2pXp) | [Miss Marla](https://open.spotify.com/artist/3MtJzCQCzp6r1oEqAifuDJ), [Prod Gordon](https://open.spotify.com/artist/0xj2xEx3aLor6lFSGgP0iv) | [YOUNG BARBIE LIFE](https://open.spotify.com/album/0mFfkucO2ccQ40IvOoGyCo) | 1:54 |
 | 35 | [Jenny](https://open.spotify.com/track/1MJV6Q7cYQEOEwwgNwRcJ7) | [LOTTE](https://open.spotify.com/artist/3gqabzO7zvHVzAIT0Nxqa3) | [Jenny](https://open.spotify.com/album/3BQWnI0Gg22LnYTsN2ksJp) | 4:33 |
-| 36 | [Summer In The Woods](https://open.spotify.com/track/2oMVZc7fzqNy6iq9ugUmrV) | [lùisa](https://open.spotify.com/artist/0we7IYHF0G5i1j934KBxUa) | [Summer In The Woods](https://open.spotify.com/album/4yQ3hrlA3RsYy4CXlXmDP6) | 3:04 |
-| 37 | [wieviele Tage](https://open.spotify.com/track/3AfgaomsUEosFavo59d5Ki) | [fiora](https://open.spotify.com/artist/757EH7oogI3l10jrOicVzE) | [wieviele Tage](https://open.spotify.com/album/6SaXHsxV1SFbQgULjEfUmw) | 2:24 |
+| 36 | [wieviele Tage](https://open.spotify.com/track/3AfgaomsUEosFavo59d5Ki) | [fiora](https://open.spotify.com/artist/757EH7oogI3l10jrOicVzE) | [wieviele Tage](https://open.spotify.com/album/6SaXHsxV1SFbQgULjEfUmw) | 2:24 |
+| 37 | [Summer In The Woods](https://open.spotify.com/track/2oMVZc7fzqNy6iq9ugUmrV) | [lùisa](https://open.spotify.com/artist/0we7IYHF0G5i1j934KBxUa) | [Summer In The Woods](https://open.spotify.com/album/4yQ3hrlA3RsYy4CXlXmDP6) | 3:04 |
 | 38 | [Mitte März](https://open.spotify.com/track/55wceeG8waWoG6db0o7xul) | [maïa](https://open.spotify.com/artist/3bcCrzlcDxhgXEsk5sqgmR) | [Hinter Meiner Zunge](https://open.spotify.com/album/6kaF0hoHAMefyi7izKy6TH) | 2:38 |
 | 39 | [Little Me](https://open.spotify.com/track/2tczW8Sc81tavxVcpxSC87) | [Mira Taylor](https://open.spotify.com/artist/4gjxiBSKlUuAJwltoX1v2r) | [Little Me](https://open.spotify.com/album/4n6YwmEsm6ZSee8sGR8ygb) | 3:12 |
 | 40 | [Primapulsa](https://open.spotify.com/track/5TJjKFnwFmnejKyzDLdUoq) | [Suena](https://open.spotify.com/artist/3ZCy1ehzbzEAcpcHnHJYXd) | [Primapulsa](https://open.spotify.com/album/6yK3S6RhA6tSIef0epie7D) | 2:27 |

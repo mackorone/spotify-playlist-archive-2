@@ -1,6 +1,6 @@
 {
   "description": "Coloque a bota e o ch\u00e1peu que hoje o trabalho vai render!",
-  "num_followers": 435061,
+  "num_followers": 435010,
   "original_name": "Sertanejo no Trabalho",
   "owner": {
     "name": "Spotify",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Buteco Raiz (S\u00f3 As Derramadas) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/2QUwcnKuQauMomrEftu2Ai"
-      },
-      "artists": [
-        {
-          "name": "Bruno & Barretto",
-          "url": "https://open.spotify.com/artist/70x9rYb58QCNNeNxuO3StS"
-        }
-      ],
-      "duration_ms": 163090,
-      "name": "Amor De Cana - Ao Vivo",
-      "url": "https://open.spotify.com/track/0fZfE8LEbsQT8eLMxqJBRF"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
         "name": "Sigilo (Ao Vivo)",
         "url": "https://open.spotify.com/album/7GRukQVPHOjQW1l6o3W9aa"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 165366,
       "name": "Sigilo - Ao Vivo",
       "url": "https://open.spotify.com/track/6vnKRiOjUjYT59xl4awHTx"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
+        "name": "Buteco Raiz (S\u00f3 As Derramadas) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/2QUwcnKuQauMomrEftu2Ai"
+      },
+      "artists": [
+        {
+          "name": "Bruno & Barretto",
+          "url": "https://open.spotify.com/artist/70x9rYb58QCNNeNxuO3StS"
+        }
+      ],
+      "duration_ms": 163090,
+      "name": "Amor De Cana - Ao Vivo",
+      "url": "https://open.spotify.com/track/0fZfE8LEbsQT8eLMxqJBRF"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -911,22 +911,6 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Eu Era",
-        "url": "https://open.spotify.com/album/4vQ19EdJVj7sS6JvKGlq0K"
-      },
-      "artists": [
-        {
-          "name": "Marcos & Belutti",
-          "url": "https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT"
-        }
-      ],
-      "duration_ms": 211324,
-      "name": "Eu Era",
-      "url": "https://open.spotify.com/track/09hQbo0PphvZ7y3ZZK9AJw"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
         "name": "Espelho Meu (Ao Vivo)",
         "url": "https://open.spotify.com/album/3KM4EBZiYYhusvKoOgAZBC"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 161152,
       "name": "Espelho Meu - Ao Vivo",
       "url": "https://open.spotify.com/track/5vAH9kwRajhfewbqBczqwJ"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
+        "name": "Eu Era",
+        "url": "https://open.spotify.com/album/4vQ19EdJVj7sS6JvKGlq0K"
+      },
+      "artists": [
+        {
+          "name": "Marcos & Belutti",
+          "url": "https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT"
+        }
+      ],
+      "duration_ms": 211324,
+      "name": "Eu Era",
+      "url": "https://open.spotify.com/track/09hQbo0PphvZ7y3ZZK9AJw"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Juramento do Dedinho",
-        "url": "https://open.spotify.com/album/2OKTFhlxZ0yvUEQsgXaCP0"
-      },
-      "artists": [
-        {
-          "name": "Mano Walter",
-          "url": "https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP"
-        }
-      ],
-      "duration_ms": 164808,
-      "name": "Juramento do Dedinho",
-      "url": "https://open.spotify.com/track/4Eco98ezksfnQzVNJCjg9j"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
         "name": "Do Jeito que N\u00f3is Gosta 2",
         "url": "https://open.spotify.com/album/3i7XBb2cgTp2QCCv3xcQwM"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 161529,
       "name": "Se Eu Te Procurar",
       "url": "https://open.spotify.com/track/7dYm9m4c51h4IeICvu6b1O"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
+        "name": "Juramento do Dedinho",
+        "url": "https://open.spotify.com/album/2OKTFhlxZ0yvUEQsgXaCP0"
+      },
+      "artists": [
+        {
+          "name": "Mano Walter",
+          "url": "https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP"
+        }
+      ],
+      "duration_ms": 164808,
+      "name": "Juramento do Dedinho",
+      "url": "https://open.spotify.com/track/4Eco98ezksfnQzVNJCjg9j"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Esquenta do DVD",
-        "url": "https://open.spotify.com/album/7vP0uuTxpBPK2jpmt8TcyV"
-      },
-      "artists": [
-        {
-          "name": "Yasmin Santos",
-          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
-        }
-      ],
-      "duration_ms": 155661,
-      "name": "Sofro Onde Eu Quiser",
-      "url": "https://open.spotify.com/track/2Xr33epIjw1fbwOhrng4Pd"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
         "name": "Continua, Vol. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/3GhwRv4secHoQSIpzchEwy"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 147826,
       "name": "Ponto Final - Ao Vivo",
       "url": "https://open.spotify.com/track/78UZagNegqHZAKv3491xB2"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
+        "name": "Esquenta do DVD",
+        "url": "https://open.spotify.com/album/7vP0uuTxpBPK2jpmt8TcyV"
+      },
+      "artists": [
+        {
+          "name": "Yasmin Santos",
+          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
+        }
+      ],
+      "duration_ms": 155661,
+      "name": "Sofro Onde Eu Quiser",
+      "url": "https://open.spotify.com/track/2Xr33epIjw1fbwOhrng4Pd"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Aperte O Play! (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7aTa9z5YclUkR84FcTjsGI"
-      },
-      "artists": [
-        {
-          "name": "Simone & Simaria",
-          "url": "https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE"
-        }
-      ],
-      "duration_ms": 201669,
-      "name": "Aperte O Play - Ao Vivo",
-      "url": "https://open.spotify.com/track/5M8qHiAV6b0jo3phlyhxcR"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
         "name": "Continua, Vol. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/3GhwRv4secHoQSIpzchEwy"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 173020,
       "name": "Desconhecido - Ao Vivo",
       "url": "https://open.spotify.com/track/1e73nMt46OzhtYT1GLzue1"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
+        "name": "Aperte O Play! (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7aTa9z5YclUkR84FcTjsGI"
+      },
+      "artists": [
+        {
+          "name": "Simone & Simaria",
+          "url": "https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE"
+        }
+      ],
+      "duration_ms": 201669,
+      "name": "Aperte O Play - Ao Vivo",
+      "url": "https://open.spotify.com/track/5M8qHiAV6b0jo3phlyhxcR"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -1491,26 +1491,6 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Compartilhando M\u00e1goa",
-        "url": "https://open.spotify.com/album/1MUtaCm5QQgf1vDx846Sji"
-      },
-      "artists": [
-        {
-          "name": "George Henrique & Rodrigo",
-          "url": "https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z"
-        },
-        {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
-        }
-      ],
-      "duration_ms": 170038,
-      "name": "Compartilhando M\u00e1goa",
-      "url": "https://open.spotify.com/track/3M6QJpWhM9NPcBwxTRKLlH"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
         "name": "My Baby",
         "url": "https://open.spotify.com/album/2YWSmJ37zzqKI9gqjwDJ0L"
       },
@@ -1531,6 +1511,26 @@
       "duration_ms": 146424,
       "name": "My Baby",
       "url": "https://open.spotify.com/track/6N46P4y6dlnrtAWWCaHu7O"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
+        "name": "Compartilhando M\u00e1goa",
+        "url": "https://open.spotify.com/album/1MUtaCm5QQgf1vDx846Sji"
+      },
+      "artists": [
+        {
+          "name": "George Henrique & Rodrigo",
+          "url": "https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z"
+        },
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "duration_ms": 170038,
+      "name": "Compartilhando M\u00e1goa",
+      "url": "https://open.spotify.com/track/3M6QJpWhM9NPcBwxTRKLlH"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -1571,26 +1571,6 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Diego & Victor Hugo Ao Vivo em Bras\u00edlia",
-        "url": "https://open.spotify.com/album/6PlcH8kJmbJIagbWVuqHz7"
-      },
-      "artists": [
-        {
-          "name": "Diego & Victor Hugo",
-          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
-        },
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
-        }
-      ],
-      "duration_ms": 144071,
-      "name": "Do Copo Eu Vim (feat. Mar\u00edlia Mendon\u00e7a) - Ao Vivo em Bras\u00edlia",
-      "url": "https://open.spotify.com/track/7sl95MXCpM8WWsaH1BqvR3"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
         "name": "Em Sintonia (Ao Vivo) - Deluxe",
         "url": "https://open.spotify.com/album/4etUK377JH3G9YZEgEEwt6"
       },
@@ -1607,6 +1587,26 @@
       "duration_ms": 206850,
       "name": "Prisioneiros - Ao Vivo",
       "url": "https://open.spotify.com/track/15gIb6lnjIMcgtbasaeXwq"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
+        "name": "Diego & Victor Hugo Ao Vivo em Bras\u00edlia",
+        "url": "https://open.spotify.com/album/6PlcH8kJmbJIagbWVuqHz7"
+      },
+      "artists": [
+        {
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        },
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "duration_ms": 144071,
+      "name": "Do Copo Eu Vim (feat. Mar\u00edlia Mendon\u00e7a) - Ao Vivo em Bras\u00edlia",
+      "url": "https://open.spotify.com/track/7sl95MXCpM8WWsaH1BqvR3"
     },
     {
       "added_at": "2026-01-16 03:03:24",

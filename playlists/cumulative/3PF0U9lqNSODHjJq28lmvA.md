@@ -4,7 +4,7 @@
 
 > This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday 😎
 
-3,771 songs - 9 day 13 hr 1 min
+3,772 songs - 9 day 13 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3222,6 +3222,7 @@
 | [The Long Trail](https://open.spotify.com/track/12xl3KepYwJGZmmh6aXK6l) | [Avelian](https://open.spotify.com/artist/24Cv3SYI2zwsDieZpZO8Ro), [Cecilie Helle](https://open.spotify.com/artist/0Kn3o6FuxMsB3fhc44HR45) | [River's End](https://open.spotify.com/album/5iKdKs9nuWSxsjbqtwvoR7) | 3:37 | 2023-07-28 | 2023-08-06 |
 | [The Loop](https://open.spotify.com/track/0KtFJxhaHDZl5by1PPVAXX) | [Sterile Hermaphrodite](https://open.spotify.com/artist/0X8pNuISwstS60ElSfDsTT) | [The Loop](https://open.spotify.com/album/7oPCJzs7ik27ZA8n4LNh3C) | 2:14 | 2024-03-01 | 2024-03-09 |
 | [The Meanest Child](https://open.spotify.com/track/788M65eTO4PpLYuvxjxX1w) | [Vau](https://open.spotify.com/artist/2qx4y4ZEEuLFE6UB03i6oa), [Bac Nini](https://open.spotify.com/artist/4IGtKQLus3NHOkv6yc5Mux) | [The Meanest Child](https://open.spotify.com/album/3yRVlrNP1n90MZilKn59hP) | 3:36 | 2023-03-17 | 2023-03-25 |
+| [The Medicine](https://open.spotify.com/track/2CI7CHHYeckwO4HeVl6eKP) | [Stuboi2000](https://open.spotify.com/artist/7Lg9bfZlIMygUkzDKZLx0G) | [The Medicine](https://open.spotify.com/album/31eRUigxIZmyhLRyCbi7dn) | 4:31 | 2026-04-11 |  |
 | [The Memories Will Remain](https://open.spotify.com/track/2owrL4pWOhJMAaValUZweT) | [Zaga Rehn](https://open.spotify.com/artist/4ooOLohgmm2oQqYMBZNOK2) | [The Memories Will Remain](https://open.spotify.com/album/6WuPijjuAfPZcXRGOymUNA) | 3:32 | 2023-01-27 | 2023-02-04 |
 | [THE MESSAGE](https://open.spotify.com/track/5TWLYw09cPZWtzXJ2zJFjC) | [Sun7ife](https://open.spotify.com/artist/1jEQexeO9YL6SiqJCfldDq) | [The Message](https://open.spotify.com/album/7rE4YDgxmZlVhmWzQ8dst3) | 3:35 | 2022-07-15 | 2022-07-23 |
 | [The MILF dream \(forget about it\)](https://open.spotify.com/track/6yi6Eo5EqmpPwcNZVvOspX) | [Ai\-na](https://open.spotify.com/artist/1jKqpV5L4Llxm70jACkiLj) | [The MILF dream \(forget about it\)](https://open.spotify.com/album/1ME1hUd3W07Sbo2wSpwzMk) | 3:23 | 2024-08-09 | 2024-08-17 |

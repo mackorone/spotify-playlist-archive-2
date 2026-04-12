@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 480414,
+  "num_followers": 480604,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPBIWPOt03VzZDcN5GBKzAeG0NnX",
+  "snapshot_id": "AAAAANnhIK2tk08zXjGA7BBKUgvJjZcJ",
   "tracks": [
     {
       "added_at": "2026-04-03 04:01:30",
@@ -411,26 +411,6 @@
     {
       "added_at": "2026-04-03 04:01:30",
       "album": {
-        "name": "Sonne Geht Auf",
-        "url": "https://open.spotify.com/album/3zh834YrAtWDuBumqFkgHR"
-      },
-      "artists": [
-        {
-          "name": "Klangkuenstler",
-          "url": "https://open.spotify.com/artist/6H77vD9YyhyxHBTkRpbMBk"
-        },
-        {
-          "name": "Ski Aggu",
-          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
-        }
-      ],
-      "duration_ms": 126538,
-      "name": "Sonne Geht Auf",
-      "url": "https://open.spotify.com/track/6bs1myCEARQoI7oOLxqHkp"
-    },
-    {
-      "added_at": "2026-04-03 04:01:30",
-      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/1ZDVL85CeBfljGDtwOVvW9"
       },
@@ -447,6 +427,26 @@
       "duration_ms": 238270,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/5Hh09KHzQ9NRjRd6HIes5R"
+    },
+    {
+      "added_at": "2026-04-03 04:01:30",
+      "album": {
+        "name": "Sonne Geht Auf",
+        "url": "https://open.spotify.com/album/3zh834YrAtWDuBumqFkgHR"
+      },
+      "artists": [
+        {
+          "name": "Klangkuenstler",
+          "url": "https://open.spotify.com/artist/6H77vD9YyhyxHBTkRpbMBk"
+        },
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        }
+      ],
+      "duration_ms": 126538,
+      "name": "Sonne Geht Auf",
+      "url": "https://open.spotify.com/track/6bs1myCEARQoI7oOLxqHkp"
     },
     {
       "added_at": "2026-04-03 04:01:30",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-04-03 04:01:30",
       "album": {
-        "name": "Bigger Than Techno",
-        "url": "https://open.spotify.com/album/38gzifiSgb7tpOzpSt9OOf"
-      },
-      "artists": [
-        {
-          "name": "Lilly Palmer",
-          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
-        }
-      ],
-      "duration_ms": 168706,
-      "name": "Bigger Than Techno",
-      "url": "https://open.spotify.com/track/65pMj3fAa6GEg5kB2dJLy3"
-    },
-    {
-      "added_at": "2026-04-03 04:01:30",
-      "album": {
         "name": "Acid Blood",
         "url": "https://open.spotify.com/album/6bmsMcbQLEfYykzpRd3qEf"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 211741,
       "name": "Acid Blood",
       "url": "https://open.spotify.com/track/1ivhs5EQc8eAw5rcB9SEQz"
+    },
+    {
+      "added_at": "2026-04-03 04:01:30",
+      "album": {
+        "name": "Bigger Than Techno",
+        "url": "https://open.spotify.com/album/38gzifiSgb7tpOzpSt9OOf"
+      },
+      "artists": [
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        }
+      ],
+      "duration_ms": 168706,
+      "name": "Bigger Than Techno",
+      "url": "https://open.spotify.com/track/65pMj3fAa6GEg5kB2dJLy3"
     },
     {
       "added_at": "2026-04-03 04:01:30",
@@ -923,18 +923,22 @@
     {
       "added_at": "2026-04-03 04:01:30",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/3vUbTHFU39OGMaJ3VGD98N"
+        "name": "Coming In Heavy",
+        "url": "https://open.spotify.com/album/723kV64ne2P2nR3PLXHNyY"
       },
       "artists": [
         {
           "name": "Eli Brown",
           "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        },
+        {
+          "name": "Pan-Pot",
+          "url": "https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se"
         }
       ],
-      "duration_ms": 408669,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/40up5wCfwQXTDXyE18hJbJ"
+      "duration_ms": 231521,
+      "name": "Coming In Heavy",
+      "url": "https://open.spotify.com/track/6VTiQz9Er68Nn8DywsO2v3"
     },
     {
       "added_at": "2026-04-03 04:01:30",
