@@ -4,7 +4,7 @@
 
 > This is Forrest Frank\. The essential tracks, all in one playlist.
 
-84 songs - 4 hr 1 min
+85 songs - 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [slow down](https://open.spotify.com/track/1bxEymHzVbGrbjR99QjS0l) | [Forrest.](https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [slow down](https://open.spotify.com/album/2r3fHmQRc30dXt6me57yAG) | 2:50 | 2025-04-09 |  |
 | [SOMETHING IN THE WATER](https://open.spotify.com/track/38abUcedwmO4pyKllQBNxO) | [PARTY WAVE](https://open.spotify.com/artist/6iQ0SOfahRnTthPNGhgzkB), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [DAWN PATROL](https://open.spotify.com/album/0DM6P83bgDbFuwNaZz09fh) | 2:39 | 2026-04-10 |  |
 | [SOS](https://open.spotify.com/track/2plxZbunq262aPivPjURsw) | [PARTY WAVE](https://open.spotify.com/artist/6iQ0SOfahRnTthPNGhgzkB), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [SOS](https://open.spotify.com/album/0sszJvPEklSUadOC4rilwQ) | 2:49 | 2026-03-29 |  |
+| [SOULSHINE](https://open.spotify.com/track/0fvskLBakfqcslW0RkB5JT) | [PARTY WAVE](https://open.spotify.com/artist/6iQ0SOfahRnTthPNGhgzkB), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [DAWN PATROL](https://open.spotify.com/album/0DM6P83bgDbFuwNaZz09fh) | 2:05 | 2026-04-13 |  |
 | [Summer Love](https://open.spotify.com/track/3u0EAF4zydCzw5wKFFqJdD) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [California Cowboy](https://open.spotify.com/album/6WbSGtYjhsDT4sMbeONLBn) | 3:40 | 2025-04-09 | 2025-05-13 |
 | [SUNRISE](https://open.spotify.com/track/7scWcScVJIcVTLLE1cv1ib) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [SUNRISE](https://open.spotify.com/album/7HFnz2dskywxtDeWEdWkdg) | 2:36 | 2025-04-09 |  |
 | [Thank You](https://open.spotify.com/track/28utdkpekXSsk9LSVjxnoh) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [Thank You](https://open.spotify.com/album/4JxaMl4zCyktWBBMPW2vod) | 2:24 | 2025-04-09 |  |

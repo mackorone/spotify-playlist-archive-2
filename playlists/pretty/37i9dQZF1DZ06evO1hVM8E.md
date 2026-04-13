@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hVM8E.md) - [plain]
 
 > This is La Original Banda El Limón de Salvador Lizárraga\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,041 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,050 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hVM8E.md) - [plain]
 | 23 | [Y Sigues Siendo Tú](https://open.spotify.com/track/2csn0HOElqpk8gc8mhtGeN) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Y Sigues Siendo Tú](https://open.spotify.com/album/6BLpmYtWTS9IdxVTsFQZdd) | 2:42 |
 | 24 | [Que Se Te Olvidó](https://open.spotify.com/track/0TBBrqwC87pusube1JOiw9) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Nuestra Colección de Oro](https://open.spotify.com/album/3NLVLDgR1CFQwCf1lBb0Je) | 3:27 |
 | 25 | [Laurita Garza](https://open.spotify.com/track/1WMqXkIY78VBdOW0DlWEy3) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Me Lo Contaron Ayer](https://open.spotify.com/album/7hT6QaevlgYP5QcmCJBRDT) | 3:06 |
-| 26 | [Team Anticupido](https://open.spotify.com/track/0FWYGwchuYpsaug5lCdBKQ) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Team Anticupido](https://open.spotify.com/album/3wknDSJXDweatSo9usUV8t) | 2:26 |
-| 27 | [Si por Casualidad](https://open.spotify.com/track/6kbB6X2qqS0XkAPkk7TLee) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Qué Se Te Olvidó](https://open.spotify.com/album/3oiSnqUzFbSrekYtLyypon) | 2:39 |
+| 26 | [Si por Casualidad](https://open.spotify.com/track/6kbB6X2qqS0XkAPkk7TLee) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Qué Se Te Olvidó](https://open.spotify.com/album/3oiSnqUzFbSrekYtLyypon) | 2:39 |
+| 27 | [Team Anticupido](https://open.spotify.com/track/0FWYGwchuYpsaug5lCdBKQ) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Team Anticupido](https://open.spotify.com/album/3wknDSJXDweatSo9usUV8t) | 2:26 |
 | 28 | [El Sinaloense](https://open.spotify.com/track/3oVS5y1oJz5MxBxN5xCUks) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Nuestra Colección de Oro](https://open.spotify.com/album/3NLVLDgR1CFQwCf1lBb0Je) | 3:11 |
 | 29 | [Hasta Mi Último Día](https://open.spotify.com/track/1nk4xd6JR6pWUTIRfdXDea) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Soy Tu Maestro \("45 Aniversario" \- Relanzamiento\)](https://open.spotify.com/album/6b1eKVdMRpTQ4qn9FbY0jZ) | 2:34 |
 | 30 | [El Rengo del Gallo Giro](https://open.spotify.com/track/1BEaN9jtTbJ17WyVH2drnC) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Corridos de Caballos y Gallos](https://open.spotify.com/album/55AsQlLpfNU7FvmpMw3ooL) | 3:11 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hVM8E.md) - [plain]
 | 44 | [Corazón Partío](https://open.spotify.com/track/2UwNu246lcE3XN2XUAmqcG) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Corazón Partío](https://open.spotify.com/album/16xGEBlk7H0WjCnNlu5106) | 3:04 |
 | 45 | [Me Lo Contaron Ayer](https://open.spotify.com/track/2rfwtM9C88E3WO282eoU9L) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Me Lo Contaron Ayer](https://open.spotify.com/album/7hT6QaevlgYP5QcmCJBRDT) | 2:34 |
 | 46 | [Me Caíste del Cielo](https://open.spotify.com/track/3VnEuFStQRp1GauvdhaYTN) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Qué Se Te Olvidó](https://open.spotify.com/album/3oiSnqUzFbSrekYtLyypon) | 2:36 |
-| 47 | [Ya No Te Vayas](https://open.spotify.com/track/1oPVmgkbkkeXQi6WsEO3ji) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Nuestras Favoritas De Marco Antonio Solis](https://open.spotify.com/album/2zjpWBGbBXHNervP77MSOn) | 3:41 |
-| 48 | [Vida Prestada](https://open.spotify.com/track/1ZxJMsXgZdVqguQvm1AvuK) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Nuestra Colección de Oro](https://open.spotify.com/album/3NLVLDgR1CFQwCf1lBb0Je) | 2:54 |
+| 47 | [Vida Prestada](https://open.spotify.com/track/1ZxJMsXgZdVqguQvm1AvuK) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Nuestra Colección de Oro](https://open.spotify.com/album/3NLVLDgR1CFQwCf1lBb0Je) | 2:54 |
+| 48 | [Ya No Te Vayas](https://open.spotify.com/track/1oPVmgkbkkeXQi6WsEO3ji) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Nuestras Favoritas De Marco Antonio Solis](https://open.spotify.com/album/2zjpWBGbBXHNervP77MSOn) | 3:41 |
 | 49 | [Leña de Pirul](https://open.spotify.com/track/0s2Mt4jbI34GEYP2zq8Dq2) | [Julio Preciado](https://open.spotify.com/artist/332dFYM9sC7JH8UvRL1TiR), [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Más Original Que Nunca](https://open.spotify.com/album/4eq9E7F1vZHHvnQwmfMjhJ) | 3:12 |
 | 50 | [La Caída de un Monarca](https://open.spotify.com/track/5R6yypmCiCOv7Ortrf8ldL) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [25 Corridos Explosivos](https://open.spotify.com/album/1wqdhLWLKOu9l5R54oQtpM) | 3:07 |
 
-Snapshot ID: `adg9gAAAAADnZ7UUSi15d9j27iLeK0JU`
+Snapshot ID: `admPAAAAAADnt1zdXv5EnXDR8d3of7ql`

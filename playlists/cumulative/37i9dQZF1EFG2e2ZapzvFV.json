@@ -78,6 +78,24 @@
     {
       "album": {
         "name": "Talk",
+        "url": "https://open.spotify.com/album/7lrC5VrR0O2PXl8EWbRztk"
+      },
+      "artists": [
+        {
+          "name": "Daniel Johns",
+          "url": "https://open.spotify.com/artist/52sbFniPptK6lNYHmuoPpz"
+        }
+      ],
+      "date_added": "2026-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214947,
+      "name": "Aerial Love",
+      "url": "https://open.spotify.com/track/355787LU9T5PxFX4BJQ4Xr"
+    },
+    {
+      "album": {
+        "name": "Talk",
         "url": "https://open.spotify.com/album/4WEXLPtiftj1O4Sx03wPHb"
       },
       "artists": [
@@ -88,7 +106,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 214947,
       "name": "Aerial Love",
       "url": "https://open.spotify.com/track/5tA07aNEFIjJ5LLn29REZc"
@@ -564,6 +582,24 @@
     {
       "album": {
         "name": "Talk",
+        "url": "https://open.spotify.com/album/7lrC5VrR0O2PXl8EWbRztk"
+      },
+      "artists": [
+        {
+          "name": "Daniel Johns",
+          "url": "https://open.spotify.com/artist/52sbFniPptK6lNYHmuoPpz"
+        }
+      ],
+      "date_added": "2026-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213429,
+      "name": "Cool on Fire",
+      "url": "https://open.spotify.com/track/1Qjf2wFVNI0oz9bTtUOac2"
+    },
+    {
+      "album": {
+        "name": "Talk",
         "url": "https://open.spotify.com/album/4WEXLPtiftj1O4Sx03wPHb"
       },
       "artists": [
@@ -574,7 +610,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 213429,
       "name": "Cool On Fire",
       "url": "https://open.spotify.com/track/3WifWW4VeNDQewWTRqGYCr"
@@ -3622,10 +3658,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 228954,
       "name": "Warm Hands",
       "url": "https://open.spotify.com/track/26zeBswxGL0oYmaQoY66Bb"
+    },
+    {
+      "album": {
+        "name": "Talk",
+        "url": "https://open.spotify.com/album/7lrC5VrR0O2PXl8EWbRztk"
+      },
+      "artists": [
+        {
+          "name": "Daniel Johns",
+          "url": "https://open.spotify.com/artist/52sbFniPptK6lNYHmuoPpz"
+        }
+      ],
+      "date_added": "2026-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228954,
+      "name": "Warm Hands",
+      "url": "https://open.spotify.com/track/2oo231nFXaBANCMEIqTW1p"
     },
     {
       "album": {

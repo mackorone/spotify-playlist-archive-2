@@ -1,12 +1,12 @@
 {
   "description": "This is Codiciado. The essential tracks, all in one playlist.",
-  "num_followers": 43296,
+  "num_followers": 43310,
   "original_name": "This Is Codiciado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adg9gAAAAACdB88p7nsqNvYV5GUV7C0L",
+  "snapshot_id": "admPAAAAAACESHFX03hStA08M47GCdnh",
   "tracks": [
     {
       "added_at": null,
@@ -283,6 +283,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cuando Empec\u00e9",
+        "url": "https://open.spotify.com/album/2vJvbL9xU5fqmYhy28HOVp"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 197051,
+      "name": "Cuando Empec\u00e9",
+      "url": "https://open.spotify.com/track/5rRnLEb5pOU0i2I9ZDfojI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Voy A Cambiar",
         "url": "https://open.spotify.com/album/1kgLWHrvpuZuZ40DguJmbf"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 165865,
       "name": "No Voy A Cambiar",
       "url": "https://open.spotify.com/track/7mLqaJfinPdwZ9evLFaG5p"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cuando Empec\u00e9",
-        "url": "https://open.spotify.com/album/2vJvbL9xU5fqmYhy28HOVp"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 197051,
-      "name": "Cuando Empec\u00e9",
-      "url": "https://open.spotify.com/track/5rRnLEb5pOU0i2I9ZDfojI"
     },
     {
       "added_at": null,
@@ -359,6 +359,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "D.M.8.",
+        "url": "https://open.spotify.com/album/21LnZrWsvb3tUqXtD0qqiZ"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
+        {
+          "name": "Miguel Comando",
+          "url": "https://open.spotify.com/artist/25RePYVNbbmWn4IuJoxxvm"
+        }
+      ],
+      "duration_ms": 271541,
+      "name": "D.M.8.",
+      "url": "https://open.spotify.com/track/5FlA2DSMSewJsrR00Q9IdZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "C.H.S.M",
         "url": "https://open.spotify.com/album/6WhE39eYeHUcjNuvjoRRVg"
       },
@@ -383,8 +403,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "D.M.8.",
-        "url": "https://open.spotify.com/album/21LnZrWsvb3tUqXtD0qqiZ"
+        "name": "PISTEANDO DESDE LOS ANGELES (En Vivo)",
+        "url": "https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL"
       },
       "artists": [
         {
@@ -392,13 +412,13 @@
           "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
         },
         {
-          "name": "Miguel Comando",
-          "url": "https://open.spotify.com/artist/25RePYVNbbmWn4IuJoxxvm"
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 271541,
-      "name": "D.M.8.",
-      "url": "https://open.spotify.com/track/5FlA2DSMSewJsrR00Q9IdZ"
+      "duration_ms": 242928,
+      "name": "AMOR LIMOSNERO - En Vivo desde Los \u00c1ngeles",
+      "url": "https://open.spotify.com/track/2YJP21RyT4UKKocPJQJGku"
     },
     {
       "added_at": null,
@@ -419,26 +439,6 @@
       "duration_ms": 177704,
       "name": "Relojito Adiamantado",
       "url": "https://open.spotify.com/track/0ECe0wvJwuLcfopJLBaEb1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PISTEANDO DESDE LOS ANGELES (En Vivo)",
-        "url": "https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 242928,
-      "name": "AMOR LIMOSNERO - En Vivo desde Los \u00c1ngeles",
-      "url": "https://open.spotify.com/track/2YJP21RyT4UKKocPJQJGku"
     },
     {
       "added_at": null,
@@ -631,22 +631,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Norte a Sur",
-        "url": "https://open.spotify.com/album/0WbzAROHxqLtsjzrd6UtXm"
+        "name": "Flotando En El Aire",
+        "url": "https://open.spotify.com/album/35vp7QOXsyTnlOFmWLgetW"
       },
       "artists": [
-        {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
-        },
         {
           "name": "Codiciado",
           "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
         }
       ],
-      "duration_ms": 213926,
-      "name": "Tal Vez Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/2eVmYcOm2tfW0qsVwiQcDu"
+      "duration_ms": 184192,
+      "name": "Flotando En El Aire",
+      "url": "https://open.spotify.com/track/5C20Df5lKns5u5CxBrHel2"
     },
     {
       "added_at": null,
@@ -675,18 +671,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Flotando En El Aire",
-        "url": "https://open.spotify.com/album/35vp7QOXsyTnlOFmWLgetW"
+        "name": "De Norte a Sur",
+        "url": "https://open.spotify.com/album/0WbzAROHxqLtsjzrd6UtXm"
       },
       "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        },
         {
           "name": "Codiciado",
           "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
         }
       ],
-      "duration_ms": 184192,
-      "name": "Flotando En El Aire",
-      "url": "https://open.spotify.com/track/5C20Df5lKns5u5CxBrHel2"
+      "duration_ms": 213926,
+      "name": "Tal Vez Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/2eVmYcOm2tfW0qsVwiQcDu"
     },
     {
       "added_at": null,

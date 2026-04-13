@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cwL6qhvzYg.md) - [plain]
 
 > Porque el barrio es el barrio y eso nadie lo va a cambiar 😎💃🏾🕺🏾
 
-[Spotify](https://open.spotify.com/user/spotify) - 447,464 likes - 125 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 447,577 likes - 125 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cwL6qhvzYg.md) - [plain]
 | 59 | [Cumbia Del Sol](https://open.spotify.com/track/10jdyLaybUVbi8AlJf7nYF) | [Control](https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx) | [Fuera De Control](https://open.spotify.com/album/4x89VPVDzHs5iooMxojyDw) | 3:14 |
 | 60 | [Sera El Amor](https://open.spotify.com/track/4hi3efC8QrfV2PIJ8tE7sh) | [Hermanos Vega Jr.](https://open.spotify.com/artist/5AI8Ps93kygPilymCY7Tnm), [Su Majestad La Brissa](https://open.spotify.com/artist/7a3iMWZsFMqrVItxwFVo5L) | [Desde Estacion Corral Hasta Los Hornos Sonora](https://open.spotify.com/album/3mQloaIk4vubKSpULWf8Ww) | 2:50 |
 | 61 | [Que nadie sepa mi sufrir \(Amor de mis amores\)](https://open.spotify.com/track/6azC9WCgqehMj2tHoaa10b) | [Margarita la diosa de la cumbia](https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn), [Zaida y su Sonora La Tremenda](https://open.spotify.com/artist/7jUKdlvwrJB1UDHMa7fP4x) | [30 Aniversario](https://open.spotify.com/album/7bYeeLp33ix2DiyM8f5It6) | 4:19 |
-| 62 | [Cumbia de Marisol](https://open.spotify.com/track/3S03VuRu7nAkPHisVB87ma) | [Supergrupo Son Tepito](https://open.spotify.com/artist/2OsVjQ6haJx589IpLmpYBp) | [Cumbia de Marisol](https://open.spotify.com/album/61sd5yEb8gDv6Ey9vHi0nE) | 4:13 |
-| 63 | [Negra Ron y Velas](https://open.spotify.com/track/4WhZLHyENNOqKk0HOjTZLI) | [Morgan Blanco](https://open.spotify.com/artist/3ff3ZIeqM9LA1R0aPul14w) | [Negra Ron y Velas](https://open.spotify.com/album/2CN4H5EWZliNhozx62mnWD) | 4:36 |
+| 62 | [Negra Ron y Velas](https://open.spotify.com/track/4WhZLHyENNOqKk0HOjTZLI) | [Morgan Blanco](https://open.spotify.com/artist/3ff3ZIeqM9LA1R0aPul14w) | [Negra Ron y Velas](https://open.spotify.com/album/2CN4H5EWZliNhozx62mnWD) | 4:36 |
+| 63 | [Cumbia de Marisol](https://open.spotify.com/track/3S03VuRu7nAkPHisVB87ma) | [Supergrupo Son Tepito](https://open.spotify.com/artist/2OsVjQ6haJx589IpLmpYBp) | [Cumbia de Marisol](https://open.spotify.com/album/61sd5yEb8gDv6Ey9vHi0nE) | 4:13 |
 | 64 | [Sueño del Alma](https://open.spotify.com/track/51rIVieMOTXVufas0FZ0SC) | [La Cheverisima de Mauricio Rodríguez](https://open.spotify.com/artist/5OjKMhPoN2Os8r86Nu4SkH) | [Quiero Ser Feliz](https://open.spotify.com/album/3DzoRQWzAcxVQ7rimv57Il) | 3:19 |
 | 65 | [Medley Apache \(En Vivo\)](https://open.spotify.com/track/1wvmmgW85gmk6wOMlSwZuL) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [UVV Vol\. 8 \(En Vivo\)](https://open.spotify.com/album/270yHmtmUVaxF0nSm1J21K) | 11:49 |
 | 66 | [En Mi Escritorio \(La Carta\)](https://open.spotify.com/track/67gv7qQLwSAxOQHfXBv6Bm) | [Sensacion Latina](https://open.spotify.com/artist/0t4U97R9dS4uYMAvlb7J1e) | [Por Encima de Todos](https://open.spotify.com/album/3oU1cOrdFNJayzA9kY70DG) | 4:47 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cwL6qhvzYg.md) - [plain]
 | 92 | [Vampiresa](https://open.spotify.com/track/2wVmS5mkzdSGxYhHPnEXuO) | [Explosión Colombiana de Ortiz Ortiz](https://open.spotify.com/artist/0iCrNiPOUvxrmnCAF1vPzZ) | [Vampiresa](https://open.spotify.com/album/4uLC55AJiRjlvWLuhhJio0) | 4:58 |
 | 93 | [Hoy Voy a Tomar](https://open.spotify.com/track/7lzYlCHuJukEVQl1Uu9R6t) | [La Trombanda De Chick](https://open.spotify.com/artist/6PLNae5ImysWIQrE8jHREf), [Claudio Morán](https://open.spotify.com/artist/7nhmhY1TyOa8drWz4O6tAO) | [Gran Festival Bailable](https://open.spotify.com/album/47kTykdNZ9oQolnxceP5F5) | 3:58 |
 | 94 | [Cabo E](https://open.spotify.com/track/7srQDWnrRqwnlNExaP9AJa) | [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc) | [Jala Jala y Boogaloo](https://open.spotify.com/album/6MIXsMeMn6pWayEeXOoRkA) | 4:16 |
-| 95 | [Vivo Pensando](https://open.spotify.com/track/535VOYu3rpCr6T8yxN4f0X) | [Ramón Chaverra y Su Orquesta Salsa](https://open.spotify.com/artist/3cMRB9zDn27gz917ELuHBD) | [Vivo Pensando](https://open.spotify.com/album/7a8EIsuzBITzyGuVEWdXcy) | 4:57 |
-| 96 | [Ojitos Mentirosos](https://open.spotify.com/track/4b8Dn37dyqyQ101TuC2Vgw) | [Moab](https://open.spotify.com/artist/5B7UoQQ1YBUcVbrmUZ24XN) | [Tequendama de Oro, Vol\. 4](https://open.spotify.com/album/52k7leNvJSZROJgEZhHuku) | 3:44 |
+| 95 | [Ojitos Mentirosos](https://open.spotify.com/track/4b8Dn37dyqyQ101TuC2Vgw) | [Moab](https://open.spotify.com/artist/5B7UoQQ1YBUcVbrmUZ24XN) | [Tequendama de Oro, Vol\. 4](https://open.spotify.com/album/52k7leNvJSZROJgEZhHuku) | 3:44 |
+| 96 | [Vivo Pensando](https://open.spotify.com/track/535VOYu3rpCr6T8yxN4f0X) | [Ramón Chaverra y Su Orquesta Salsa](https://open.spotify.com/artist/3cMRB9zDn27gz917ELuHBD) | [Vivo Pensando](https://open.spotify.com/album/7a8EIsuzBITzyGuVEWdXcy) | 4:57 |
 | 97 | [Pequeña y Frágil](https://open.spotify.com/track/3IbfRWQ9IFrK2Lwd0lmxaE) | [Tropical Del Bravo](https://open.spotify.com/artist/1h593dhQfwv3e4t9YdzRU1) | [20vo Aniversario](https://open.spotify.com/album/79bgGXUJ95LrJ7uL4o8unR) | 2:36 |
 | 98 | [La Pobreza \- Rebajada](https://open.spotify.com/track/57ix5CIFlMvpCbyfaUDWkt) | [Sensacion Latina](https://open.spotify.com/artist/0t4U97R9dS4uYMAvlb7J1e) | [Por Encima de Todos](https://open.spotify.com/album/3oU1cOrdFNJayzA9kY70DG) | 2:46 |
 | 99 | [Chico Vacilón](https://open.spotify.com/track/5m2llCeyIMSMEE8ondwft4) | [La Trombanda De Chick](https://open.spotify.com/artist/6PLNae5ImysWIQrE8jHREf) | [Gran Festival Bailable](https://open.spotify.com/album/47kTykdNZ9oQolnxceP5F5) | 3:55 |

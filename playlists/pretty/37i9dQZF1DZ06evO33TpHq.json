@@ -1,12 +1,12 @@
 {
   "description": "This is Phil Wickham. The essential tracks, all in one playlist.",
-  "num_followers": 63668,
+  "num_followers": 63697,
   "original_name": "This Is Phil Wickham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adg9gAAAAAA8q+wPFyHo1vz2TIUTPHfP",
+  "snapshot_id": "admPAAAAAAAfY3rYj1jLwLlo49pszVWi",
   "tracks": [
     {
       "added_at": null,
@@ -219,26 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "He Arose",
-        "url": "https://open.spotify.com/album/1Ld4v9YKxyKclc8MXADZ4m"
-      },
-      "artists": [
-        {
-          "name": "Tommee Profitt",
-          "url": "https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU"
-        },
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 289972,
-      "name": "He Arose",
-      "url": "https://open.spotify.com/track/48AK0EB5FNgZS10wLBGjJ9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Song Of The Saints (Deluxe)",
         "url": "https://open.spotify.com/album/5shcL77IqPmZPBRbfl0cHT"
       },
@@ -255,6 +235,26 @@
       "duration_ms": 254000,
       "name": "It Really Is Amazing Grace",
       "url": "https://open.spotify.com/track/44ivpVgDIZgzeZRaflODT8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "He Arose",
+        "url": "https://open.spotify.com/album/1Ld4v9YKxyKclc8MXADZ4m"
+      },
+      "artists": [
+        {
+          "name": "Tommee Profitt",
+          "url": "https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU"
+        },
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 289972,
+      "name": "He Arose",
+      "url": "https://open.spotify.com/track/48AK0EB5FNgZS10wLBGjJ9"
     },
     {
       "added_at": null,
@@ -863,22 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Children of God Acoustic Sessions",
-        "url": "https://open.spotify.com/album/5AyRWQVQ69mjrdoxIhNanU"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 464398,
-      "name": "Divine / Sailing / Time / Hymn - Acoustic",
-      "url": "https://open.spotify.com/track/3Ia4fDeie06NoYMSnoipZV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heaven & Earth",
         "url": "https://open.spotify.com/album/1REUtxsMboujnyPU1laW6v"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 244546,
       "name": "Heaven Song",
       "url": "https://open.spotify.com/track/39yNGLlopJa3q3brHLUrlc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Children of God Acoustic Sessions",
+        "url": "https://open.spotify.com/album/5AyRWQVQ69mjrdoxIhNanU"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 464398,
+      "name": "Divine / Sailing / Time / Hymn - Acoustic",
+      "url": "https://open.spotify.com/track/3Ia4fDeie06NoYMSnoipZV"
     },
     {
       "added_at": null,

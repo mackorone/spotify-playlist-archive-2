@@ -1,6 +1,6 @@
 {
   "description": "\uc0c8\ubcbd \uac10\uc131. Issa Vibe.",
-  "num_followers": 147587,
+  "num_followers": 147580,
   "original_name": "4:00 AM GROOVE",
   "owner": {
     "name": "Spotify",
@@ -163,26 +163,6 @@
     {
       "added_at": "2026-04-01 10:59:09",
       "album": {
-        "name": "stars burn out",
-        "url": "https://open.spotify.com/album/7zR88DU7qfwRM8LujvL4EZ"
-      },
-      "artists": [
-        {
-          "name": "cykim",
-          "url": "https://open.spotify.com/artist/2X35vslJoAwfxLhu3wAdjq"
-        },
-        {
-          "name": "justin",
-          "url": "https://open.spotify.com/artist/0JyJ6hyu6CYpX6AKH9e5bv"
-        }
-      ],
-      "duration_ms": 215852,
-      "name": "stars burn out",
-      "url": "https://open.spotify.com/track/2SZkuX2KgTCugNYcKCoEqH"
-    },
-    {
-      "added_at": "2026-04-01 10:59:09",
-      "album": {
         "name": "3:33",
         "url": "https://open.spotify.com/album/1AzP7NB0qSSJJSLX9ZQe98"
       },
@@ -199,6 +179,26 @@
       "duration_ms": 161766,
       "name": "NASA",
       "url": "https://open.spotify.com/track/2y3opu08ybnMRziQFdvcZv"
+    },
+    {
+      "added_at": "2026-04-01 10:59:09",
+      "album": {
+        "name": "stars burn out",
+        "url": "https://open.spotify.com/album/7zR88DU7qfwRM8LujvL4EZ"
+      },
+      "artists": [
+        {
+          "name": "cykim",
+          "url": "https://open.spotify.com/artist/2X35vslJoAwfxLhu3wAdjq"
+        },
+        {
+          "name": "justin",
+          "url": "https://open.spotify.com/artist/0JyJ6hyu6CYpX6AKH9e5bv"
+        }
+      ],
+      "duration_ms": 215852,
+      "name": "stars burn out",
+      "url": "https://open.spotify.com/track/2SZkuX2KgTCugNYcKCoEqH"
     },
     {
       "added_at": "2026-04-01 10:59:09",

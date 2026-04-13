@@ -659,6 +659,24 @@
     },
     {
       "album": {
+        "name": "Drinking Game",
+        "url": "https://open.spotify.com/album/6yBtHDlryRS2EQAfGYNMQN"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "date_added": "2026-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170971,
+      "name": "Drinking Game",
+      "url": "https://open.spotify.com/track/3NpotblRm0XLn747iCZ75w"
+    },
+    {
+      "album": {
         "name": "dying on the inside",
         "url": "https://open.spotify.com/album/67sFRrnPbvz9Te28kO6Ktu"
       },

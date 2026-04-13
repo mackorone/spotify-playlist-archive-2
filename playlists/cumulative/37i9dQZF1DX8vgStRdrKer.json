@@ -3332,7 +3332,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 173473,
       "name": "E No Dey Finish",
       "url": "https://open.spotify.com/track/607RU3eLBQCeiqBCWBh4eq"
@@ -8480,7 +8480,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-28",
+      "date_removed": null,
       "duration_ms": 214250,
       "name": "Living Waters",
       "url": "https://open.spotify.com/track/6IFworJItnOJgbcI9vGnwV"
@@ -12035,6 +12035,28 @@
     },
     {
       "album": {
+        "name": "Seek You With All My Heart",
+        "url": "https://open.spotify.com/album/7Fhr46zGSyYLQMYlRjcEDG"
+      },
+      "artists": [
+        {
+          "name": "Efe Lucky",
+          "url": "https://open.spotify.com/artist/2dFgoR6fiFFJ21OdG7A28b"
+        },
+        {
+          "name": "Yinka Okeleye",
+          "url": "https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265263,
+      "name": "Seek You With All My Heart",
+      "url": "https://open.spotify.com/track/2qZ55Xzsyl5kTsbhTZ7PGM"
+    },
+    {
+      "album": {
         "name": "Shackles",
         "url": "https://open.spotify.com/album/517LYgwHfxH71E7w1QFoZT"
       },
@@ -15482,7 +15504,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 291692,
       "name": "You Are Holy",
       "url": "https://open.spotify.com/track/3aModrqpU2p6Vrmfzbb48L"

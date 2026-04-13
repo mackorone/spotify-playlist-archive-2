@@ -1,6 +1,6 @@
 {
   "description": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c. \uc131\uacf5\uc744 \uc704\ud55c \uc5f4\uc815\uacfc \uc9d1\ub150\uc744 \ub290\uaef4\ubcf4\uc138\uc694. (\ucee4\ubc84: Royal 44)",
-  "num_followers": 614,
+  "num_followers": 617,
   "original_name": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c",
   "owner": {
     "name": "Spotify",
@@ -727,30 +727,6 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "MUGGLES' MANSION",
-        "url": "https://open.spotify.com/album/4SUzNglOur6GH4IGIbNGcr"
-      },
-      "artists": [
-        {
-          "name": "CODE KUNST",
-          "url": "https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ"
-        },
-        {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        },
-        {
-          "name": "MINO",
-          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
-        }
-      ],
-      "duration_ms": 285281,
-      "name": "StrOngerrr (Feat. Loco, MINO)",
-      "url": "https://open.spotify.com/track/6mzxQgOkdymXCCz8A7wyz9"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
         "name": "Show Me The Money 9 Semi Final",
         "url": "https://open.spotify.com/album/0plEgZoHiIXfQQ8eJYir1V"
       },
@@ -771,6 +747,30 @@
       "duration_ms": 198186,
       "name": "Part Time (Feat. Queen WA$ABII) (Prod. GroovyRoom)",
       "url": "https://open.spotify.com/track/1WUyKGWYfkZ5n9hb0w3WX3"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
+        "name": "MUGGLES' MANSION",
+        "url": "https://open.spotify.com/album/4SUzNglOur6GH4IGIbNGcr"
+      },
+      "artists": [
+        {
+          "name": "CODE KUNST",
+          "url": "https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        }
+      ],
+      "duration_ms": 285281,
+      "name": "StrOngerrr (Feat. Loco, MINO)",
+      "url": "https://open.spotify.com/track/6mzxQgOkdymXCCz8A7wyz9"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -899,6 +899,22 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
+        "name": "BREATHE",
+        "url": "https://open.spotify.com/album/1bT3WfNdi5ETuvLSMIP5EW"
+      },
+      "artists": [
+        {
+          "name": "YUMDDA",
+          "url": "https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR"
+        }
+      ],
+      "duration_ms": 193402,
+      "name": "\ud558\uc774\ud30c\uc774\ube0c HIGH-FIVE",
+      "url": "https://open.spotify.com/track/2GdqlrIDWp3QLN9hYniKjh"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
         "name": "\uc8fd\uc744\ud798\uc744 \ub2e4\ud558\uc5ec",
         "url": "https://open.spotify.com/album/6n4NjXecmDkfJHIAaeg5cb"
       },
@@ -919,18 +935,22 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "BREATHE",
-        "url": "https://open.spotify.com/album/1bT3WfNdi5ETuvLSMIP5EW"
+        "name": "HIGH RISK HIGH RETURN",
+        "url": "https://open.spotify.com/album/340j9Dgw9Nuy772bHowbih"
       },
       "artists": [
         {
-          "name": "YUMDDA",
-          "url": "https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR"
+          "name": "SINCE",
+          "url": "https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616"
+        },
+        {
+          "name": "Chin",
+          "url": "https://open.spotify.com/artist/3YxtjzaXsF9cVq2MlIe6cw"
         }
       ],
-      "duration_ms": 193402,
-      "name": "\ud558\uc774\ud30c\uc774\ube0c HIGH-FIVE",
-      "url": "https://open.spotify.com/track/2GdqlrIDWp3QLN9hYniKjh"
+      "duration_ms": 231182,
+      "name": "COMPASS (Feat. Chin)",
+      "url": "https://open.spotify.com/track/3GkGRq5fqKM2hARxS1Odhk"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -963,26 +983,6 @@
       "duration_ms": 242970,
       "name": "My Side (feat. oceanfromtheblue, ASH ISLAND, BRADYSTREET, Wonstein)",
       "url": "https://open.spotify.com/track/0Xo1PD12y7qZ13S3UAENqN"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
-        "name": "HIGH RISK HIGH RETURN",
-        "url": "https://open.spotify.com/album/340j9Dgw9Nuy772bHowbih"
-      },
-      "artists": [
-        {
-          "name": "SINCE",
-          "url": "https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616"
-        },
-        {
-          "name": "Chin",
-          "url": "https://open.spotify.com/artist/3YxtjzaXsF9cVq2MlIe6cw"
-        }
-      ],
-      "duration_ms": 231182,
-      "name": "COMPASS (Feat. Chin)",
-      "url": "https://open.spotify.com/track/3GkGRq5fqKM2hARxS1Odhk"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1327,6 +1327,26 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
+        "name": "Millionaire Poetry",
+        "url": "https://open.spotify.com/album/2iqRyGFGVwHsSgKvc6EuDv"
+      },
+      "artists": [
+        {
+          "name": "The Quiett",
+          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
+        },
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 200620,
+      "name": "Light",
+      "url": "https://open.spotify.com/track/1PvnbvwAaZgj1x9D20ppBS"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
         "name": "IT\u2032S YOUR WAY",
         "url": "https://open.spotify.com/album/1fElnXqdUqkPD9qEGxwEYb"
       },
@@ -1347,26 +1367,6 @@
       "duration_ms": 189834,
       "name": "Double Up (Feat. skinny brown, CK)",
       "url": "https://open.spotify.com/track/3TfIXDBZJqZzjDHnw50yDL"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
-        "name": "Millionaire Poetry",
-        "url": "https://open.spotify.com/album/2iqRyGFGVwHsSgKvc6EuDv"
-      },
-      "artists": [
-        {
-          "name": "The Quiett",
-          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
-        },
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 200620,
-      "name": "Light",
-      "url": "https://open.spotify.com/track/1PvnbvwAaZgj1x9D20ppBS"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1447,18 +1447,22 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "GAROSAWK",
-        "url": "https://open.spotify.com/album/4WXMcC4tSLWowFlX67HMwi"
+        "name": "MultrillVerse",
+        "url": "https://open.spotify.com/album/3EHMUauddW3rH3K2KA6oxI"
       },
       "artists": [
         {
-          "name": "Khundi Panda",
-          "url": "https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU"
+          "name": "BLAS\u00c9",
+          "url": "https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0"
+        },
+        {
+          "name": "The Quiett",
+          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
         }
       ],
-      "duration_ms": 184024,
-      "name": "BLACKBOX",
-      "url": "https://open.spotify.com/track/2LMrUWb6bnyM8bWWcppwXL"
+      "duration_ms": 167571,
+      "name": "Retirement (feat. The Quiett)",
+      "url": "https://open.spotify.com/track/3y7FzkR7JiY3E750C6p0hA"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1479,22 +1483,18 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "MultrillVerse",
-        "url": "https://open.spotify.com/album/3EHMUauddW3rH3K2KA6oxI"
+        "name": "GAROSAWK",
+        "url": "https://open.spotify.com/album/4WXMcC4tSLWowFlX67HMwi"
       },
       "artists": [
         {
-          "name": "BLAS\u00c9",
-          "url": "https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0"
-        },
-        {
-          "name": "The Quiett",
-          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
+          "name": "Khundi Panda",
+          "url": "https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU"
         }
       ],
-      "duration_ms": 167571,
-      "name": "Retirement (feat. The Quiett)",
-      "url": "https://open.spotify.com/track/3y7FzkR7JiY3E750C6p0hA"
+      "duration_ms": 184024,
+      "name": "BLACKBOX",
+      "url": "https://open.spotify.com/track/2LMrUWb6bnyM8bWWcppwXL"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1719,6 +1719,26 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
+        "name": "IT\u2032S YOUR WAY",
+        "url": "https://open.spotify.com/album/1fElnXqdUqkPD9qEGxwEYb"
+      },
+      "artists": [
+        {
+          "name": "Way Ched",
+          "url": "https://open.spotify.com/artist/75OcDAFGCzj0qehe1mADeM"
+        },
+        {
+          "name": "DON MALIK",
+          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
+        }
+      ],
+      "duration_ms": 179769,
+      "name": "runaway (Feat. DON MALIK)",
+      "url": "https://open.spotify.com/track/5mgJHVqjrx56K4mAJx8eaY"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
         "name": "GAROSAWK",
         "url": "https://open.spotify.com/album/4WXMcC4tSLWowFlX67HMwi"
       },
@@ -1751,26 +1771,6 @@
       "duration_ms": 230408,
       "name": "Superbee's Maserati",
       "url": "https://open.spotify.com/track/1pGoaP5ACWwcXrgnS0KDpu"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
-        "name": "IT\u2032S YOUR WAY",
-        "url": "https://open.spotify.com/album/1fElnXqdUqkPD9qEGxwEYb"
-      },
-      "artists": [
-        {
-          "name": "Way Ched",
-          "url": "https://open.spotify.com/artist/75OcDAFGCzj0qehe1mADeM"
-        },
-        {
-          "name": "DON MALIK",
-          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
-        }
-      ],
-      "duration_ms": 179769,
-      "name": "runaway (Feat. DON MALIK)",
-      "url": "https://open.spotify.com/track/5mgJHVqjrx56K4mAJx8eaY"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1815,6 +1815,22 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
+        "name": "BREATHE",
+        "url": "https://open.spotify.com/album/1bT3WfNdi5ETuvLSMIP5EW"
+      },
+      "artists": [
+        {
+          "name": "YUMDDA",
+          "url": "https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR"
+        }
+      ],
+      "duration_ms": 188232,
+      "name": "FEELING",
+      "url": "https://open.spotify.com/track/2G0mGZLZs5R82BED7hwCEV"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
         "name": "It's Your Turn (Feat. Futuristic Swaver)",
         "url": "https://open.spotify.com/album/6PJegtUCcQPhdkP11FyXJt"
       },
@@ -1831,22 +1847,6 @@
       "duration_ms": 193174,
       "name": "It's Your Turn (Feat. Futuristic Swaver)",
       "url": "https://open.spotify.com/track/37gsND37Afaqykeo0forwU"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
-        "name": "BREATHE",
-        "url": "https://open.spotify.com/album/1bT3WfNdi5ETuvLSMIP5EW"
-      },
-      "artists": [
-        {
-          "name": "YUMDDA",
-          "url": "https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR"
-        }
-      ],
-      "duration_ms": 188232,
-      "name": "FEELING",
-      "url": "https://open.spotify.com/track/2G0mGZLZs5R82BED7hwCEV"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -2023,18 +2023,18 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "A SOLITARY MAN",
-        "url": "https://open.spotify.com/album/1qFLsgIIgQ46hwoCnutc3P"
+        "name": "END OF PUBERTY",
+        "url": "https://open.spotify.com/album/3uOT0XBkp1JZeMBydK62Fj"
       },
       "artists": [
         {
-          "name": "CRUCiAL STAR",
-          "url": "https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ"
+          "name": "D.Ark",
+          "url": "https://open.spotify.com/artist/2UaheMCNCnN1CrrnZnmh3j"
         }
       ],
-      "duration_ms": 187045,
-      "name": "A SOLITARY MAN",
-      "url": "https://open.spotify.com/track/3kCnWwL7H4HNxSOV2CwBCa"
+      "duration_ms": 203693,
+      "name": "APOLOGY",
+      "url": "https://open.spotify.com/track/1G2XUrrMjf9DNuFWMBMpPA"
     },
     {
       "added_at": "2025-11-10 09:53:18",

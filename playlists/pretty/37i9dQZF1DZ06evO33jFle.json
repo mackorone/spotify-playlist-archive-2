@@ -1,12 +1,12 @@
 {
   "description": "This is Jenni Rivera. The essential tracks, all in one playlist.",
-  "num_followers": 546413,
+  "num_followers": 546491,
   "original_name": "This Is Jenni Rivera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adg9gAAAAABNQgvbS3KrPN9m8U9eTTWz",
+  "snapshot_id": "admPAAAAAAC4WxA7PE51Q2fEJxLjyizg",
   "tracks": [
     {
       "added_at": null,
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 220173,
-      "name": "La Chacalosa",
-      "url": "https://open.spotify.com/track/78thkAb46Sm4s67EW6kDby"
+      "duration_ms": 205040,
+      "name": "Las Mismas Costumbres",
+      "url": "https://open.spotify.com/track/3N9IiTrJOqVECQy9zvhvPq"
     },
     {
       "added_at": null,
@@ -824,9 +824,9 @@
           "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 205040,
-      "name": "Las Mismas Costumbres",
-      "url": "https://open.spotify.com/track/3N9IiTrJOqVECQy9zvhvPq"
+      "duration_ms": 220173,
+      "name": "La Chacalosa",
+      "url": "https://open.spotify.com/track/78thkAb46Sm4s67EW6kDby"
     }
   ],
   "unique_name": "This Is Jenni Rivera",

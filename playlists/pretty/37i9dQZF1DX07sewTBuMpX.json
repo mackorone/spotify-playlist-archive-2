@@ -1,6 +1,6 @@
 {
   "description": "De beste tunes op repeat. Cover: CHO",
-  "num_followers": 140982,
+  "num_followers": 141001,
   "original_name": "Pull Up Hits",
   "owner": {
     "name": "Spotify",
@@ -339,26 +339,6 @@
     {
       "added_at": "2026-04-02 22:02:08",
       "album": {
-        "name": "Vervreemd",
-        "url": "https://open.spotify.com/album/3Zme7AYOj5SA4Xuh8TDWjr"
-      },
-      "artists": [
-        {
-          "name": "Kevin",
-          "url": "https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1"
-        },
-        {
-          "name": "Bente",
-          "url": "https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e"
-        }
-      ],
-      "duration_ms": 208373,
-      "name": "Vervreemd",
-      "url": "https://open.spotify.com/track/7M4F4A8M7k13zOnyt3q2CC"
-    },
-    {
-      "added_at": "2026-04-02 22:02:08",
-      "album": {
         "name": "SPIDER",
         "url": "https://open.spotify.com/album/5stpXgOAVPkVA7WDPB4IZf"
       },
@@ -375,6 +355,26 @@
       "duration_ms": 188818,
       "name": "SPIDER",
       "url": "https://open.spotify.com/track/2fFTn0f94EopgZyfSGQuyK"
+    },
+    {
+      "added_at": "2026-04-02 22:02:08",
+      "album": {
+        "name": "Vervreemd",
+        "url": "https://open.spotify.com/album/3Zme7AYOj5SA4Xuh8TDWjr"
+      },
+      "artists": [
+        {
+          "name": "Kevin",
+          "url": "https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1"
+        },
+        {
+          "name": "Bente",
+          "url": "https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e"
+        }
+      ],
+      "duration_ms": 208373,
+      "name": "Vervreemd",
+      "url": "https://open.spotify.com/track/7M4F4A8M7k13zOnyt3q2CC"
     },
     {
       "added_at": "2026-04-02 22:02:08",
@@ -1287,26 +1287,6 @@
     {
       "added_at": "2026-04-02 22:02:08",
       "album": {
-        "name": "Afterparty",
-        "url": "https://open.spotify.com/album/0G2EyFZBx9YTCx1BAOknTU"
-      },
-      "artists": [
-        {
-          "name": "Chavant\u00e9",
-          "url": "https://open.spotify.com/artist/46hfNL2Bni5Ux8hCDMAjIN"
-        },
-        {
-          "name": "Kleine John",
-          "url": "https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M"
-        }
-      ],
-      "duration_ms": 155381,
-      "name": "Afterparty",
-      "url": "https://open.spotify.com/track/3DsLjf29C93KN8Fu9rlrHW"
-    },
-    {
-      "added_at": "2026-04-02 22:02:08",
-      "album": {
         "name": "Je Bent Leuk",
         "url": "https://open.spotify.com/album/0ylQLQW9UUNOs0uINvTkgt"
       },
@@ -1323,6 +1303,26 @@
       "duration_ms": 122812,
       "name": "Je Bent Leuk",
       "url": "https://open.spotify.com/track/4ZI2g8wtdJOLdPf6TFwitA"
+    },
+    {
+      "added_at": "2026-04-02 22:02:08",
+      "album": {
+        "name": "Afterparty",
+        "url": "https://open.spotify.com/album/0G2EyFZBx9YTCx1BAOknTU"
+      },
+      "artists": [
+        {
+          "name": "Chavant\u00e9",
+          "url": "https://open.spotify.com/artist/46hfNL2Bni5Ux8hCDMAjIN"
+        },
+        {
+          "name": "Kleine John",
+          "url": "https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M"
+        }
+      ],
+      "duration_ms": 155381,
+      "name": "Afterparty",
+      "url": "https://open.spotify.com/track/3DsLjf29C93KN8Fu9rlrHW"
     },
     {
       "added_at": "2026-04-02 22:02:08",
@@ -1599,8 +1599,8 @@
     {
       "added_at": "2026-04-02 22:02:08",
       "album": {
-        "name": "Deim Van Je",
-        "url": "https://open.spotify.com/album/4t4eaa2CdjvOj0E0ojRqZu"
+        "name": "Bon Mij",
+        "url": "https://open.spotify.com/album/1yMLdQ7qZu26m6wy0cKJ6a"
       },
       "artists": [
         {
@@ -1608,21 +1608,17 @@
           "url": "https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg"
         },
         {
-          "name": "Diquenza",
-          "url": "https://open.spotify.com/artist/3DIhZ8xOvMa1KpXPV6BZXV"
+          "name": "DJ Wale",
+          "url": "https://open.spotify.com/artist/4gTsaC1OX5plDemue2uZHn"
         },
         {
-          "name": "Frsh",
-          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
-        },
-        {
-          "name": "Geechi",
-          "url": "https://open.spotify.com/artist/30TCJAB49OXPfotwqvvB8W"
+          "name": "ADF Samski",
+          "url": "https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8"
         }
       ],
-      "duration_ms": 156854,
-      "name": "Deim Van Je",
-      "url": "https://open.spotify.com/track/4xyLHd9CyBt3ky2BxtwDxL"
+      "duration_ms": 151874,
+      "name": "Bon Mij",
+      "url": "https://open.spotify.com/track/2OYXPbWNIJjS5Um0iviIdM"
     },
     {
       "added_at": "2026-04-02 22:02:08",
@@ -1715,8 +1711,8 @@
     {
       "added_at": "2026-04-02 22:02:08",
       "album": {
-        "name": "Bon Mij",
-        "url": "https://open.spotify.com/album/1yMLdQ7qZu26m6wy0cKJ6a"
+        "name": "Deim Van Je",
+        "url": "https://open.spotify.com/album/4t4eaa2CdjvOj0E0ojRqZu"
       },
       "artists": [
         {
@@ -1724,17 +1720,21 @@
           "url": "https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg"
         },
         {
-          "name": "DJ Wale",
-          "url": "https://open.spotify.com/artist/4gTsaC1OX5plDemue2uZHn"
+          "name": "Diquenza",
+          "url": "https://open.spotify.com/artist/3DIhZ8xOvMa1KpXPV6BZXV"
         },
         {
-          "name": "ADF Samski",
-          "url": "https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8"
+          "name": "Frsh",
+          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
+        },
+        {
+          "name": "Geechi",
+          "url": "https://open.spotify.com/artist/30TCJAB49OXPfotwqvvB8W"
         }
       ],
-      "duration_ms": 151874,
-      "name": "Bon Mij",
-      "url": "https://open.spotify.com/track/2OYXPbWNIJjS5Um0iviIdM"
+      "duration_ms": 156854,
+      "name": "Deim Van Je",
+      "url": "https://open.spotify.com/track/4xyLHd9CyBt3ky2BxtwDxL"
     },
     {
       "added_at": "2026-04-02 22:02:08",
@@ -1779,30 +1779,6 @@
     {
       "added_at": "2026-04-02 22:02:08",
       "album": {
-        "name": "Alsjeblieft",
-        "url": "https://open.spotify.com/album/3Y9TtesZiPzWxBXWD0GSwr"
-      },
-      "artists": [
-        {
-          "name": "Josylvio",
-          "url": "https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx"
-        },
-        {
-          "name": "CHO",
-          "url": "https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R"
-        },
-        {
-          "name": "Henkie T",
-          "url": "https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El"
-        }
-      ],
-      "duration_ms": 200453,
-      "name": "Alsjeblieft",
-      "url": "https://open.spotify.com/track/6EqWfORn8udIwOBx6NSktf"
-    },
-    {
-      "added_at": "2026-04-02 22:02:08",
-      "album": {
         "name": "Amazin\u2019 (Remix)",
         "url": "https://open.spotify.com/album/7CJPdQcYGjdOqor42uir6h"
       },
@@ -1823,6 +1799,30 @@
       "duration_ms": 175250,
       "name": "Amazin' - Remix",
       "url": "https://open.spotify.com/track/00XmWMEZ4ms7Xxk6ZoH4Lo"
+    },
+    {
+      "added_at": "2026-04-02 22:02:08",
+      "album": {
+        "name": "Alsjeblieft",
+        "url": "https://open.spotify.com/album/3Y9TtesZiPzWxBXWD0GSwr"
+      },
+      "artists": [
+        {
+          "name": "Josylvio",
+          "url": "https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx"
+        },
+        {
+          "name": "CHO",
+          "url": "https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R"
+        },
+        {
+          "name": "Henkie T",
+          "url": "https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El"
+        }
+      ],
+      "duration_ms": 200453,
+      "name": "Alsjeblieft",
+      "url": "https://open.spotify.com/track/6EqWfORn8udIwOBx6NSktf"
     },
     {
       "added_at": "2026-04-02 22:02:08",

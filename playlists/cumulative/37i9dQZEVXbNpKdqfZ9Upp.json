@@ -24953,6 +24953,28 @@
     },
     {
       "album": {
+        "name": "M\u00e1s Cara",
+        "url": "https://open.spotify.com/album/1xrj7cbZtRtEt1KjXNFQ26"
+      },
+      "artists": [
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        },
+        {
+          "name": "Jadiel el Incomparable",
+          "url": "https://open.spotify.com/artist/0ANypE7iy3sVMppNuKFpGh"
+        }
+      ],
+      "date_added": "2026-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225786,
+      "name": "Fashion Girl pt.2",
+      "url": "https://open.spotify.com/track/6EKUSdzaD9zRaaR5Yg0SoC"
+    },
+    {
+      "album": {
         "name": "Gettin' Old",
         "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
       },
@@ -32452,7 +32474,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 294260,
       "name": "Impostor Syndrome",
       "url": "https://open.spotify.com/track/33KU9huHP1Lv1UWWVkuTYd"
@@ -32786,7 +32808,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-09",
+      "date_removed": null,
       "duration_ms": 227660,
       "name": "Into the Sun",
       "url": "https://open.spotify.com/track/1ZNolq7VI7efGlh2hb2VVr"
@@ -35576,6 +35598,24 @@
       "duration_ms": 344186,
       "name": "La mano de Dios (Homenaje a Diego Maradona)",
       "url": "https://open.spotify.com/track/5s8onl5Lw5q1AijP5BUm7G"
+    },
+    {
+      "album": {
+        "name": "EL GREEN PRINT: La Saga (Disc 1) \u2014 FEID VS FERXXO",
+        "url": "https://open.spotify.com/album/2TXU5Ie2RcPLT1cp7ztKXa"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2026-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158299,
+      "name": "La Mejor M\u00fasica",
+      "url": "https://open.spotify.com/track/5FJmy7JIUXmBw88lI6vnkS"
     },
     {
       "album": {
@@ -39306,7 +39346,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-09",
+      "date_removed": null,
       "duration_ms": 186680,
       "name": "Love Without Disguises",
       "url": "https://open.spotify.com/track/1Ghsz0gso8z3dyJ4OwqIFV"
@@ -39324,7 +39364,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 186680,
       "name": "Love Without Disguises",
       "url": "https://open.spotify.com/track/4UH8HyU5HJnyQEcVT4rfcx"
@@ -48964,7 +49004,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 181649,
       "name": "NORMAL",
       "url": "https://open.spotify.com/track/4B4Q7zfd0aHcuhQBfCRnH5"
@@ -51958,7 +51998,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 152253,
       "name": "PANTI Y COLALE",
       "url": "https://open.spotify.com/track/3eyEIpmHHTANgXZQ6i4csM"
@@ -54290,7 +54330,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-11",
+      "date_removed": null,
       "duration_ms": 172796,
       "name": "Please",
       "url": "https://open.spotify.com/track/1XpVhaI4HzWrhRWIpdfyJB"
@@ -55524,7 +55564,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 652759,
       "name": "Preg\u00f3n Pascual",
       "url": "https://open.spotify.com/track/1x4fxJRgVuJSboBnC3ZrjR"
@@ -59474,7 +59514,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/0WA27lZzPKFJKAbiDRmQDc"
@@ -59492,7 +59532,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-12",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"

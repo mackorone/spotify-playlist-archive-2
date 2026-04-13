@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 
 > Journey through the sounds of South African Jazz\. Cover: Spha Mdlalose
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,268 likes - 60 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,280 likes - 60 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 | 9 | [The Beyond](https://open.spotify.com/track/1CFaQyXq0nSHSBQ9AAALDQ) | [Shane Cooper](https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ) | [The Beyond](https://open.spotify.com/album/5xTKYO7RjVCdaROa9kvBcN) | 1:45 |
 | 10 | [Hymn For Hani](https://open.spotify.com/track/1dyINry7aQw296piLxPzUB) | [Kujenga](https://open.spotify.com/artist/46zBMWkU58KyXCD5WuS3ha) | [Hymn For Hani](https://open.spotify.com/album/1ii3szb5NzB9ssDm4Vghvg) | 11:56 |
 | 11 | [xandibona wena feat\. Thandi Ntuli](https://open.spotify.com/track/2i34qxXLo879bdRYDwyhQN) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N), [Thandi Ntuli](https://open.spotify.com/artist/1g7pneoNO9Thq5oYQyR5Dy) | [Sankofa](https://open.spotify.com/album/5y7tFgFLl0d5AKExJC8Rsy) | 4:03 |
-| 12 | [Kumi Lach](https://open.spotify.com/track/582xo1tnxDsa0F8bpSxoWP) | [Yosef Gutman](https://open.spotify.com/artist/1OwUfPzYcaJWE1TwWyNfhr) | [Kumi Lach](https://open.spotify.com/album/2VwIIPBUSoP15YG2reEYa8) | 4:04 |
-| 13 | [Wendile](https://open.spotify.com/track/72eOisbgNdPmSKNMrokUIQ) | [Nomfundo Xaluva](https://open.spotify.com/artist/71N9TXfexGfLXxPDJec5iE) | [Ndilapha](https://open.spotify.com/album/794Pfh9JnYrNIVox3OVtax) | 6:38 |
+| 12 | [Wendile](https://open.spotify.com/track/72eOisbgNdPmSKNMrokUIQ) | [Nomfundo Xaluva](https://open.spotify.com/artist/71N9TXfexGfLXxPDJec5iE) | [Ndilapha](https://open.spotify.com/album/794Pfh9JnYrNIVox3OVtax) | 6:38 |
+| 13 | [Kumi Lach](https://open.spotify.com/track/582xo1tnxDsa0F8bpSxoWP) | [Yosef Gutman](https://open.spotify.com/artist/1OwUfPzYcaJWE1TwWyNfhr) | [Kumi Lach](https://open.spotify.com/album/2VwIIPBUSoP15YG2reEYa8) | 4:04 |
 | 14 | [Baby Ngimanzi Wuthando](https://open.spotify.com/track/5LRPsio6JkXoOXHNCavnvJ) | [Malcolm Jiyane Tree\-O](https://open.spotify.com/artist/4OKERbN3Zv7ZLU8XfINKBH) | [TRUE STORY](https://open.spotify.com/album/4Pyg9xened5ecpzU6BVYzX) | 3:57 |
 | 15 | [Lesedi](https://open.spotify.com/track/7yCLdDtr0RBqQ36gQ0OYhO) | [Kujenga](https://open.spotify.com/artist/46zBMWkU58KyXCD5WuS3ha) | [In The Wake](https://open.spotify.com/album/7vBYVegNxjgWj8eJwiXEWq) | 10:02 |
 | 16 | [Thixo Akunangqalelo](https://open.spotify.com/track/7hZsc0THR1IshMDE0VlTua) | [Herbie Tsoaeli](https://open.spotify.com/artist/6W8K5VbMD7qZq60OeFgcFn) | [African Time](https://open.spotify.com/album/5WBAzcalp0upbOBakABp6s) | 2:53 |
@@ -34,11 +34,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 | 24 | [A Fallist's Prayer](https://open.spotify.com/track/5ezGQd7f7t9FgSdGobmIEw) | [Keenan Meyer](https://open.spotify.com/artist/0JZcAWFy9viaXUHqu08nFG), [Muneyi](https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM) | [Reawakening](https://open.spotify.com/album/6kXVFaMcxjNoB9X11MhxOb) | 7:29 |
 | 25 | [Ransome, Pt\. 1](https://open.spotify.com/track/6Qq0U6mp8ziiObrYHiVFwU) | [Kujenga](https://open.spotify.com/artist/46zBMWkU58KyXCD5WuS3ha) | [Ransome](https://open.spotify.com/album/1OVSlDC8KEWjuB7kpI2zHl) | 5:22 |
 | 26 | [Hamba No Malume](https://open.spotify.com/track/4JmB7lkQdDpz2xbvfG95ps) | [Herbie Tsoaeli](https://open.spotify.com/artist/6W8K5VbMD7qZq60OeFgcFn) | [Hamba No Malume](https://open.spotify.com/album/4dJ6nQJPT95KYfYqoiADSJ) | 4:58 |
-| 27 | [Walk Away](https://open.spotify.com/track/1v0x492mSc227x9PSJWfw7) | [Nomfundo Xaluva](https://open.spotify.com/artist/71N9TXfexGfLXxPDJec5iE) | [Ndilapha](https://open.spotify.com/album/794Pfh9JnYrNIVox3OVtax) | 4:17 |
-| 28 | [Come Home \(feat\. Filah Lah Lah\)](https://open.spotify.com/track/6vMe5lYrd4xHK10r2kJCto) | [Ndabo Zulu](https://open.spotify.com/artist/2y5IQvsu5Q78XVuCREkQ33), [Filah Lah Lah](https://open.spotify.com/artist/0xACKjkY8pqrot7s6da1Sw) | [Come Home \(feat\. Filah Lah Lah\)](https://open.spotify.com/album/4aotwHazC1DeazuX3hmLIW) | 6:06 |
-| 29 | [Air](https://open.spotify.com/track/7AO25tDOP5b6vphirmFJqk) | [Asher Gamedze](https://open.spotify.com/artist/0seHw20kF6a8af3qsufKyQ) | [A Semblance: Of Return](https://open.spotify.com/album/2BzJDkyvW1nT6XotKEkgZl) | 6:33 |
+| 27 | [The Anchor](https://open.spotify.com/track/5S91DIl4Wy8Bv4gWAAKi89) | [Rorisang Sechele](https://open.spotify.com/artist/56cA6GXVKFti1Ax2iWZmwU) | [The Seed](https://open.spotify.com/album/0aOrh3PB8Dc41VEcrFxGM8) | 4:31 |
+| 28 | [Walk Away](https://open.spotify.com/track/1v0x492mSc227x9PSJWfw7) | [Nomfundo Xaluva](https://open.spotify.com/artist/71N9TXfexGfLXxPDJec5iE) | [Ndilapha](https://open.spotify.com/album/794Pfh9JnYrNIVox3OVtax) | 4:17 |
+| 29 | [Come Home \(feat\. Filah Lah Lah\)](https://open.spotify.com/track/6vMe5lYrd4xHK10r2kJCto) | [Ndabo Zulu](https://open.spotify.com/artist/2y5IQvsu5Q78XVuCREkQ33), [Filah Lah Lah](https://open.spotify.com/artist/0xACKjkY8pqrot7s6da1Sw) | [Come Home \(feat\. Filah Lah Lah\)](https://open.spotify.com/album/4aotwHazC1DeazuX3hmLIW) | 6:06 |
 | 30 | [Inveterate](https://open.spotify.com/track/3rADL2yuY67rUBUs5o2Zib) | [Kujenga](https://open.spotify.com/artist/46zBMWkU58KyXCD5WuS3ha) | [Common Ground](https://open.spotify.com/album/0CxcBTRqAXosN7Ux6aNqAw) | 6:38 |
-| 31 | [The Anchor](https://open.spotify.com/track/5S91DIl4Wy8Bv4gWAAKi89) | [Rorisang Sechele](https://open.spotify.com/artist/56cA6GXVKFti1Ax2iWZmwU) | [The Seed](https://open.spotify.com/album/0aOrh3PB8Dc41VEcrFxGM8) | 4:31 |
+| 31 | [Air](https://open.spotify.com/track/7AO25tDOP5b6vphirmFJqk) | [Asher Gamedze](https://open.spotify.com/artist/0seHw20kF6a8af3qsufKyQ) | [A Semblance: Of Return](https://open.spotify.com/album/2BzJDkyvW1nT6XotKEkgZl) | 6:33 |
 | 32 | [kulungile](https://open.spotify.com/track/5IMyRcJrykW4EQKUEwOIrC) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N), [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft) | [kulungile](https://open.spotify.com/album/2Z7VkHwAezY18EJ9wHPeR9) | 5:46 |
 | 33 | [Our People](https://open.spotify.com/track/4knK9nXhnH4k01cVOo33jj) | [NLite.](https://open.spotify.com/artist/1LtjSJhBTIHe7auEuEg7VZ) | [Our People](https://open.spotify.com/album/2wyTG0UqnHXTJ4FffxJ9PS) | 3:19 |
 | 34 | [Brunch In Harlem](https://open.spotify.com/track/3DNguS5r1FV5U8nikhRkJ9) | [Jazzgroupiez](https://open.spotify.com/artist/2SmWARs3Ky24E8bfpqj5QM), [Saul Madiope](https://open.spotify.com/artist/2BbonfFXXMlwfcLemarFh3), [Stephen Richard](https://open.spotify.com/artist/4OO982yjCXgY3K3zFqflp3) | [The Crossover II](https://open.spotify.com/album/3jyWT4o0KD5VMAuUAJM5BE) | 2:09 |

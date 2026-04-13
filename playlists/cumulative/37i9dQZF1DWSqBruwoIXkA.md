@@ -4,7 +4,7 @@
 
 > heartbreak feels good in a place like sad hour, with Mulaa Joans
 
-1,041 songs - 2 day 9 hr 19 min
+1,042 songs - 2 day 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [24](https://open.spotify.com/track/1dODOcUBb5SrXflh3L4zjE) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [24](https://open.spotify.com/album/547AToKcvgV26kOjsuvUhR) | 4:06 | 2024-01-12 | 2024-03-16 |
 | [25](https://open.spotify.com/track/5lDv9IAnprD7TPjq367YzE) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [25](https://open.spotify.com/album/0C92Qrku2KYDLNlTmLdaKX) | 2:51 | 2024-12-06 | 2025-01-11 |
 | [28 \(with Dean Lewis\)](https://open.spotify.com/track/3fajzhEHSdlSmY31dORz9M) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [28 \(with Dean Lewis\)](https://open.spotify.com/album/04iQ8HwkumvYXot2TG3F0K) | 3:28 | 2023-11-10 |  |
-| [29](https://open.spotify.com/track/7dNqvoB3wIUp4w60Lo8r2Y) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [29](https://open.spotify.com/album/7zE8WryMg0RpDh2VUISZSn) | 3:14 | 2026-01-23 |  |
+| [29](https://open.spotify.com/track/7dNqvoB3wIUp4w60Lo8r2Y) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [29](https://open.spotify.com/album/7zE8WryMg0RpDh2VUISZSn) | 3:14 | 2026-01-23 | 2026-04-13 |
 | [3 Months](https://open.spotify.com/track/5tIlUGPdbicQEDxzxD75ap) | [Lily Kincade](https://open.spotify.com/artist/0NODVk6hwl48KNw9cfeT3c) | [3 Months](https://open.spotify.com/album/37Gx1RWOu7T6O2QmU3j0Yj) | 4:30 | 2023-02-03 | 2023-02-18 |
 | [3 Moods](https://open.spotify.com/track/3n9ok4Eyi26VSubDdVLA1E) | [Abe Parker](https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES) | [3 Moods](https://open.spotify.com/album/5eWV4nxVgx850XQp3ZJSEn) | 3:08 | 2021-12-17 | 2022-05-20 |
 | [405](https://open.spotify.com/track/10aiqU1b6yK8zm4jOnQsA7) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 3:01 | 2023-06-16 | 2023-08-05 |
@@ -673,6 +673,7 @@
 | [Never Had a Chance](https://open.spotify.com/track/7kWHoZvIn3TzxUHYrszYFc) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Never Had a Chance](https://open.spotify.com/album/5td0jzs96pRarCswOchXN8) | 2:25 | 2022-04-08 | 2022-10-08 |
 | [never have i ever](https://open.spotify.com/track/3Xd99mhH9oQVZTzTlVo2yI) | [Casey Baer](https://open.spotify.com/artist/0NJXUPqUHxTBWf7n3naRqy) | [never have i ever](https://open.spotify.com/album/2LiJdjvvjQ9epjhTMtbedp) | 2:28 | 2022-02-11 | 2022-03-13 |
 | [never knew a heart could break itself](https://open.spotify.com/track/4d2ZJ9W7dkQuITwUCTuD5n) | [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U) | [never knew a heart could break itself](https://open.spotify.com/album/7nRAoFQVg6Sv2Qm31Vgup6) | 2:35 | 2022-03-18 |  |
+| [Never Know Love](https://open.spotify.com/track/2tlONys5V3ZuO5OxrDJfE8) | [Bea](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Never Know Love](https://open.spotify.com/album/2AZdDD0w09CGHCDKP2Tqnf) | 3:09 | 2026-04-10 |  |
 | [Never the 1](https://open.spotify.com/track/6xyOZrXp6UGOFa30jewqIV) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Never the 1](https://open.spotify.com/album/5bOtmciyogNRJH1P1XXmGA) | 2:51 | 2021-12-17 | 2022-05-20 |
 | [Next Summer](https://open.spotify.com/track/6xZCDUaY4XzlhCSHKSW7rf) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Next Summer](https://open.spotify.com/album/1wWQTVv9OUwmW6EIAOZ3Ri) | 2:45 | 2025-03-21 |  |
 | [Next Time](https://open.spotify.com/track/3HQrxN0bBKxWIKRmgjUq06) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [Next Time](https://open.spotify.com/album/7hgfr4aUdhvtwC1xK5XhJ6) | 3:17 | 2022-03-25 | 2023-04-29 |

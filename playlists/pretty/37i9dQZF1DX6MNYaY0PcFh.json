@@ -1,6 +1,6 @@
 {
   "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound. Cover: Ghoulish",
-  "num_followers": 104634,
+  "num_followers": 104652,
   "original_name": "New UK Garage",
   "owner": {
     "name": "Spotify",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2026-03-20 08:27:15",
       "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/18xJ0JRAmhpsv2JMjTDbE5"
+      },
+      "artists": [
+        {
+          "name": "Higgo",
+          "url": "https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64"
+        }
+      ],
+      "duration_ms": 169130,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/2zflx0uUTi6e8nw25XYvMo"
+    },
+    {
+      "added_at": "2026-03-20 08:27:15",
+      "album": {
         "name": "Nobody Else But U",
         "url": "https://open.spotify.com/album/6vNxyOKtUI4bpLKOtYlIkY"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 200804,
       "name": "Nobody Else But U",
       "url": "https://open.spotify.com/track/3iagcHosUvxs9876pJwZKI"
-    },
-    {
-      "added_at": "2026-03-20 08:27:15",
-      "album": {
-        "name": "Shine",
-        "url": "https://open.spotify.com/album/18xJ0JRAmhpsv2JMjTDbE5"
-      },
-      "artists": [
-        {
-          "name": "Higgo",
-          "url": "https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64"
-        }
-      ],
-      "duration_ms": 169130,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/2zflx0uUTi6e8nw25XYvMo"
     },
     {
       "added_at": "2026-03-20 08:27:15",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2026-03-20 08:27:15",
       "album": {
+        "name": "Melon",
+        "url": "https://open.spotify.com/album/6zlg3V43JYvY7HMhFsv6D3"
+      },
+      "artists": [
+        {
+          "name": "Lockerz",
+          "url": "https://open.spotify.com/artist/1LuS7XrtiwtzvdAnZPC6BN"
+        }
+      ],
+      "duration_ms": 207761,
+      "name": "Melon",
+      "url": "https://open.spotify.com/track/3z9QZsBbiHrYi25dsxKG3M"
+    },
+    {
+      "added_at": "2026-03-20 08:27:15",
+      "album": {
         "name": "Pull Up",
         "url": "https://open.spotify.com/album/6bBot7gb3Uu3sqDiiusSDu"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 196480,
       "name": "Pull Up",
       "url": "https://open.spotify.com/track/1MMFFS8ddSQbYVBclBZTZN"
-    },
-    {
-      "added_at": "2026-03-20 08:27:15",
-      "album": {
-        "name": "Melon",
-        "url": "https://open.spotify.com/album/6zlg3V43JYvY7HMhFsv6D3"
-      },
-      "artists": [
-        {
-          "name": "Lockerz",
-          "url": "https://open.spotify.com/artist/1LuS7XrtiwtzvdAnZPC6BN"
-        }
-      ],
-      "duration_ms": 207761,
-      "name": "Melon",
-      "url": "https://open.spotify.com/track/3z9QZsBbiHrYi25dsxKG3M"
     },
     {
       "added_at": "2026-03-20 08:27:15",

@@ -1,6 +1,6 @@
 {
   "description": "C'est parti pour une bonne journ\u00e9e.",
-  "num_followers": 388694,
+  "num_followers": 388759,
   "original_name": "R\u00e9veil en douceur",
   "owner": {
     "name": "Spotify",
@@ -151,22 +151,6 @@
     {
       "added_at": "2026-04-09 22:01:32",
       "album": {
-        "name": "End of Time",
-        "url": "https://open.spotify.com/album/39bOm3zdtpBtT4lNjsTh2q"
-      },
-      "artists": [
-        {
-          "name": "Olive Jones",
-          "url": "https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn"
-        }
-      ],
-      "duration_ms": 226052,
-      "name": "End of Time",
-      "url": "https://open.spotify.com/track/7bRZSHUpTQFne0BbARBO8i"
-    },
-    {
-      "added_at": "2026-04-09 22:01:32",
-      "album": {
         "name": "Still In Love",
         "url": "https://open.spotify.com/album/43semGRPVsd8ctl3R19FGS"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 161164,
       "name": "Still In Love",
       "url": "https://open.spotify.com/track/1B3YSc9Pgkf3S1ly3ks7kO"
+    },
+    {
+      "added_at": "2026-04-09 22:01:32",
+      "album": {
+        "name": "End of Time",
+        "url": "https://open.spotify.com/album/39bOm3zdtpBtT4lNjsTh2q"
+      },
+      "artists": [
+        {
+          "name": "Olive Jones",
+          "url": "https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn"
+        }
+      ],
+      "duration_ms": 226052,
+      "name": "End of Time",
+      "url": "https://open.spotify.com/track/7bRZSHUpTQFne0BbARBO8i"
     },
     {
       "added_at": "2026-04-09 22:01:32",
@@ -399,6 +399,22 @@
     {
       "added_at": "2026-04-09 22:01:32",
       "album": {
+        "name": "Julia",
+        "url": "https://open.spotify.com/album/71VHBPBBSf8P93F4uoo3si"
+      },
+      "artists": [
+        {
+          "name": "\u00c1sgeir",
+          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
+        }
+      ],
+      "duration_ms": 285240,
+      "name": "Julia",
+      "url": "https://open.spotify.com/track/3R6Tl3h7z21hPVz55ZEMeQ"
+    },
+    {
+      "added_at": "2026-04-09 22:01:32",
+      "album": {
         "name": "Stranger - A COLORS SHOW",
         "url": "https://open.spotify.com/album/4Yzt0EVPbpFPVFvaN4BUkF"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 146430,
       "name": "Stranger - A COLORS SHOW",
       "url": "https://open.spotify.com/track/1QzvrIv4uCWf3pv1xCUvAf"
-    },
-    {
-      "added_at": "2026-04-09 22:01:32",
-      "album": {
-        "name": "Julia",
-        "url": "https://open.spotify.com/album/71VHBPBBSf8P93F4uoo3si"
-      },
-      "artists": [
-        {
-          "name": "\u00c1sgeir",
-          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
-        }
-      ],
-      "duration_ms": 285240,
-      "name": "Julia",
-      "url": "https://open.spotify.com/track/3R6Tl3h7z21hPVz55ZEMeQ"
     },
     {
       "added_at": "2026-04-09 22:01:32",
@@ -471,22 +471,6 @@
     {
       "added_at": "2026-04-09 22:01:32",
       "album": {
-        "name": "Ridin' (Deluxe)",
-        "url": "https://open.spotify.com/album/1sN04YNP3ZXH3zEKN2xX9p"
-      },
-      "artists": [
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        }
-      ],
-      "duration_ms": 233051,
-      "name": "Dreamin'",
-      "url": "https://open.spotify.com/track/05RVHlafuc1NMa2ci1GS0U"
-    },
-    {
-      "added_at": "2026-04-09 22:01:32",
-      "album": {
         "name": "Satin Psicodelic",
         "url": "https://open.spotify.com/album/1HRzxvSMJSc6sNHrU2JA1W"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 324130,
       "name": "Mornin Dew",
       "url": "https://open.spotify.com/track/6bxtai04eVsvV7IZGqOXMy"
+    },
+    {
+      "added_at": "2026-04-09 22:01:32",
+      "album": {
+        "name": "Ridin' (Deluxe)",
+        "url": "https://open.spotify.com/album/1sN04YNP3ZXH3zEKN2xX9p"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "duration_ms": 233051,
+      "name": "Dreamin'",
+      "url": "https://open.spotify.com/track/05RVHlafuc1NMa2ci1GS0U"
     },
     {
       "added_at": "2026-04-09 22:01:32",
@@ -607,22 +607,6 @@
     {
       "added_at": "2026-04-09 22:01:32",
       "album": {
-        "name": "If Only",
-        "url": "https://open.spotify.com/album/56c8txn6KCWuukEMSvoegl"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Day Wilson",
-          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
-        }
-      ],
-      "duration_ms": 208890,
-      "name": "If Only",
-      "url": "https://open.spotify.com/track/6Lo1FtdhJ4htWxJrDBED7c"
-    },
-    {
-      "added_at": "2026-04-09 22:01:32",
-      "album": {
         "name": "Against The Current",
         "url": "https://open.spotify.com/album/680Q8QjaLVuXs6MO9xLVJY"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 216426,
       "name": "Against The Current",
       "url": "https://open.spotify.com/track/2p1ifc7yOpZDgBUZd6WpsQ"
+    },
+    {
+      "added_at": "2026-04-09 22:01:32",
+      "album": {
+        "name": "If Only",
+        "url": "https://open.spotify.com/album/56c8txn6KCWuukEMSvoegl"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        }
+      ],
+      "duration_ms": 208890,
+      "name": "If Only",
+      "url": "https://open.spotify.com/track/6Lo1FtdhJ4htWxJrDBED7c"
     },
     {
       "added_at": "2026-04-09 22:01:32",
@@ -883,18 +883,18 @@
     {
       "added_at": "2026-04-09 22:01:32",
       "album": {
-        "name": "Be Better",
-        "url": "https://open.spotify.com/album/2Qyyy2NOOfAW518lRv9km1"
+        "name": "L.A.B VI",
+        "url": "https://open.spotify.com/album/7Cq7tNfVMckpwGX4llhsVN"
       },
       "artists": [
         {
-          "name": "Son Little",
-          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
         }
       ],
-      "duration_ms": 239601,
-      "name": "Be Better",
-      "url": "https://open.spotify.com/track/2atHF8jAsduhfPqkxAw7Jr"
+      "duration_ms": 254920,
+      "name": "Give Me That Feeling",
+      "url": "https://open.spotify.com/track/1TttmYJbJ5SfbmA06qJ8kZ"
     },
     {
       "added_at": "2026-04-09 22:01:32",
@@ -915,22 +915,6 @@
       "duration_ms": 119140,
       "name": "Home",
       "url": "https://open.spotify.com/track/232RM3E3HNMDxuLcXLSaYq"
-    },
-    {
-      "added_at": "2026-04-09 22:01:32",
-      "album": {
-        "name": "L.A.B VI",
-        "url": "https://open.spotify.com/album/7Cq7tNfVMckpwGX4llhsVN"
-      },
-      "artists": [
-        {
-          "name": "L.A.B.",
-          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
-        }
-      ],
-      "duration_ms": 254920,
-      "name": "Give Me That Feeling",
-      "url": "https://open.spotify.com/track/1TttmYJbJ5SfbmA06qJ8kZ"
     },
     {
       "added_at": "2026-04-09 22:01:32",
@@ -963,6 +947,22 @@
       "duration_ms": 214401,
       "name": "The Seize",
       "url": "https://open.spotify.com/track/00opIKNQBtGqhfVOYIvaDj"
+    },
+    {
+      "added_at": "2026-04-09 22:01:32",
+      "album": {
+        "name": "Be Better",
+        "url": "https://open.spotify.com/album/2Qyyy2NOOfAW518lRv9km1"
+      },
+      "artists": [
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        }
+      ],
+      "duration_ms": 239601,
+      "name": "Be Better",
+      "url": "https://open.spotify.com/track/2atHF8jAsduhfPqkxAw7Jr"
     },
     {
       "added_at": "2026-04-09 22:01:32",

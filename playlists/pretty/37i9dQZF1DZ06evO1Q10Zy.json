@@ -1,12 +1,12 @@
 {
   "description": "This is Babyface. The essential tracks, all in one playlist.",
-  "num_followers": 38591,
+  "num_followers": 38597,
   "original_name": "This Is Babyface",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adg9gAAAAADB7mllesCirNL2Y/XbWIHg",
+  "snapshot_id": "admPAAAAAABcIMs/DMa+fW+b18P1TJAi",
   "tracks": [
     {
       "added_at": null,
@@ -263,6 +263,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Babyface Unplugged NYC 1997",
+        "url": "https://open.spotify.com/album/6mREwcBMN0h6bNLAyEZtEs"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 305426,
+      "name": "I Care About You",
+      "url": "https://open.spotify.com/track/0u5NhbNEcSxSA5wjmOfJyq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bonafide",
         "url": "https://open.spotify.com/album/1Os4j9C15CDRcQsfpraAkY"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 273400,
       "name": "Someone to Love (feat. Babyface)",
       "url": "https://open.spotify.com/track/1ukbwpUGSimFKWxI7KfT8h"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Babyface Unplugged NYC 1997",
-        "url": "https://open.spotify.com/album/6mREwcBMN0h6bNLAyEZtEs"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 305426,
-      "name": "I Care About You",
-      "url": "https://open.spotify.com/track/0u5NhbNEcSxSA5wjmOfJyq"
     },
     {
       "added_at": null,
@@ -319,6 +319,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tender Lover",
+        "url": "https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 309640,
+      "name": "Soon as I Get Home",
+      "url": "https://open.spotify.com/track/2yZxdm4Fdi8B5UGVqv8IgP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Girls Night Out (Extended)",
         "url": "https://open.spotify.com/album/4PXpm2KQF7XLi1ngOhkdNb"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 195579,
       "name": "Sometimes (with Jenevieve)",
       "url": "https://open.spotify.com/track/6PKUK8e414fvSvVDGTdirr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tender Lover",
-        "url": "https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 309640,
-      "name": "Soon as I Get Home",
-      "url": "https://open.spotify.com/track/2yZxdm4Fdi8B5UGVqv8IgP"
     },
     {
       "added_at": null,
@@ -443,6 +443,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lips On Lips",
+        "url": "https://open.spotify.com/album/3c6tkZqDVzUq6HEyn0Klhl"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Young",
+          "url": "https://open.spotify.com/artist/2lkCfFklQDBPlQzS4tR3VP"
+        },
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 226926,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/3sIbXHStayfEMhIrLgsJs2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HAV PLENTY Music From The Motion Picture",
         "url": "https://open.spotify.com/album/7wxX5fskiw7VnGKw5PWwZc"
       },
@@ -463,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Face 2 Face",
-        "url": "https://open.spotify.com/album/31EfLOgVsfPS4oZGBVlLRB"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 215466,
-      "name": "Stressed Out",
-      "url": "https://open.spotify.com/track/4ES2gMcCQshE8EWU0FY8vW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love, Marriage\u200e & Divorce",
         "url": "https://open.spotify.com/album/77JvBkDfZ7r74mcQcTkdqM"
       },
@@ -495,22 +499,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lips On Lips",
-        "url": "https://open.spotify.com/album/3c6tkZqDVzUq6HEyn0Klhl"
+        "name": "Face 2 Face",
+        "url": "https://open.spotify.com/album/31EfLOgVsfPS4oZGBVlLRB"
       },
       "artists": [
-        {
-          "name": "Tiffany Young",
-          "url": "https://open.spotify.com/artist/2lkCfFklQDBPlQzS4tR3VP"
-        },
         {
           "name": "Babyface",
           "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
         }
       ],
-      "duration_ms": 226926,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/3sIbXHStayfEMhIrLgsJs2"
+      "duration_ms": 215466,
+      "name": "Stressed Out",
+      "url": "https://open.spotify.com/track/4ES2gMcCQshE8EWU0FY8vW"
     },
     {
       "added_at": null,
@@ -579,26 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Girls Night Out",
-        "url": "https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        },
-        {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
-        }
-      ],
-      "duration_ms": 151577,
-      "name": "Simple (with Coco Jones)",
-      "url": "https://open.spotify.com/track/7uCtRKlnqNET1ohX7xzU7j"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In My Lifetime, Vol.1",
         "url": "https://open.spotify.com/album/2nJapeqTbOhnhHUhh5tzpB"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 283360,
       "name": "Always Be My Sunshine",
       "url": "https://open.spotify.com/track/1EkteNRr1GNnrjRZ5zRXWy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Girls Night Out",
+        "url": "https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        },
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "duration_ms": 151577,
+      "name": "Simple (with Coco Jones)",
+      "url": "https://open.spotify.com/track/7uCtRKlnqNET1ohX7xzU7j"
     },
     {
       "added_at": null,
@@ -927,22 +927,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Partners (Deluxe)",
-        "url": "https://open.spotify.com/album/0vpZmvUH5x2ByXTYtXB4mG"
+        "name": "Grown & Sexy",
+        "url": "https://open.spotify.com/album/7bgcJhLUw8ISSxIidbnCog"
       },
       "artists": [
-        {
-          "name": "Barbra Streisand",
-          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
-        },
         {
           "name": "Babyface",
           "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
         }
       ],
-      "duration_ms": 194970,
-      "name": "Evergreen (with Babyface)",
-      "url": "https://open.spotify.com/track/1Mn263ocXqVrFArQJ3QKJi"
+      "duration_ms": 243400,
+      "name": "Grown & Sexy",
+      "url": "https://open.spotify.com/track/2FlaI8o6RjwfiwyN2eMkOY"
     }
   ],
   "unique_name": "This Is Babyface",

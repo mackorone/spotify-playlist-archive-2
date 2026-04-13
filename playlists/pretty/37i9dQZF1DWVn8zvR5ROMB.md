@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > Country music's latest offerings featuring Marshmello with Thomas Rhett, Ella Langley, Warren  Zeiders and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,373 likes - 83 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,490 likes - 83 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

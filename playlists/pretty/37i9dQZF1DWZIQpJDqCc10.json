@@ -1,6 +1,6 @@
 {
   "description": "The greatest indie love songs of all time. ",
-  "num_followers": 763486,
+  "num_followers": 763632,
   "original_name": "Indie Love Songs",
   "owner": {
     "name": "Spotify",
@@ -751,22 +751,6 @@
     {
       "added_at": "2026-02-19 14:58:26",
       "album": {
-        "name": "So My Darling (Acoustic)",
-        "url": "https://open.spotify.com/album/2FceNexUuKIatc3YFEq08L"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 228922,
-      "name": "So My Darling - Acoustic",
-      "url": "https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn"
-    },
-    {
-      "added_at": "2026-02-19 14:58:26",
-      "album": {
         "name": "Rollerblades",
         "url": "https://open.spotify.com/album/6pOBptbCkOMPilLRihX4tw"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 134066,
       "name": "Rollerblades",
       "url": "https://open.spotify.com/track/7iSNEgSJYlc42H73xePMLh"
+    },
+    {
+      "added_at": "2026-02-19 14:58:26",
+      "album": {
+        "name": "So My Darling (Acoustic)",
+        "url": "https://open.spotify.com/album/2FceNexUuKIatc3YFEq08L"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 228922,
+      "name": "So My Darling - Acoustic",
+      "url": "https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn"
     },
     {
       "added_at": "2026-02-19 14:58:26",
@@ -999,22 +999,6 @@
     {
       "added_at": "2026-02-19 14:58:26",
       "album": {
-        "name": "God Damn",
-        "url": "https://open.spotify.com/album/2mjukAJ9FMOhkt61buPCaQ"
-      },
-      "artists": [
-        {
-          "name": "Maella",
-          "url": "https://open.spotify.com/artist/5fj7pxTryEpCSP1Fnde8GY"
-        }
-      ],
-      "duration_ms": 172749,
-      "name": "God Damn",
-      "url": "https://open.spotify.com/track/2BbEpvzlxXkCunokWdbAqp"
-    },
-    {
-      "added_at": "2026-02-19 14:58:26",
-      "album": {
         "name": "Lady's Bridge",
         "url": "https://open.spotify.com/album/5hlcLAkhlCrV6j8NxEptXl"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 222506,
       "name": "Tonight the Streets Are Ours",
       "url": "https://open.spotify.com/track/68UGKNGREtwsO7fDRwftZ2"
+    },
+    {
+      "added_at": "2026-02-19 14:58:26",
+      "album": {
+        "name": "God Damn",
+        "url": "https://open.spotify.com/album/2mjukAJ9FMOhkt61buPCaQ"
+      },
+      "artists": [
+        {
+          "name": "Maella",
+          "url": "https://open.spotify.com/artist/5fj7pxTryEpCSP1Fnde8GY"
+        }
+      ],
+      "duration_ms": 172749,
+      "name": "God Damn",
+      "url": "https://open.spotify.com/track/2BbEpvzlxXkCunokWdbAqp"
     },
     {
       "added_at": "2026-02-19 14:58:26",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2026-02-19 14:58:26",
       "album": {
-        "name": "Cuts & Bruises",
-        "url": "https://open.spotify.com/album/2qZd7lp0lLRjeFe0O9Ou6S"
-      },
-      "artists": [
-        {
-          "name": "Inhaler",
-          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
-        }
-      ],
-      "duration_ms": 247986,
-      "name": "Valentine",
-      "url": "https://open.spotify.com/track/5jBmL2z0L4xQyXNs5Sqari"
-    },
-    {
-      "added_at": "2026-02-19 14:58:26",
-      "album": {
         "name": "Psychopomp",
         "url": "https://open.spotify.com/album/1XjQUeeHjQCEhOdBCE8Amo"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 132631,
       "name": "Everybody Wants to Love You",
       "url": "https://open.spotify.com/track/21iSFtrC2VHP3PfImVTglV"
+    },
+    {
+      "added_at": "2026-02-19 14:58:26",
+      "album": {
+        "name": "Cuts & Bruises",
+        "url": "https://open.spotify.com/album/2qZd7lp0lLRjeFe0O9Ou6S"
+      },
+      "artists": [
+        {
+          "name": "Inhaler",
+          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+        }
+      ],
+      "duration_ms": 247986,
+      "name": "Valentine",
+      "url": "https://open.spotify.com/track/5jBmL2z0L4xQyXNs5Sqari"
     },
     {
       "added_at": "2026-02-19 14:58:26",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2026-02-19 14:58:26",
       "album": {
-        "name": "substack girl",
-        "url": "https://open.spotify.com/album/21DkCT5JXgHgaVWPoaDGTl"
-      },
-      "artists": [
-        {
-          "name": "NEW LORE",
-          "url": "https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "substack girl",
-      "url": "https://open.spotify.com/track/1KtQOlLH1dKEYVys18V3Fz"
-    },
-    {
-      "added_at": "2026-02-19 14:58:26",
-      "album": {
         "name": "One Life Stand",
         "url": "https://open.spotify.com/album/4g9B6VXmdHhmqYhVHIXsbc"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 321496,
       "name": "One Life Stand",
       "url": "https://open.spotify.com/track/1BfXy0gM3tmB6Jc1QdtaLj"
+    },
+    {
+      "added_at": "2026-02-19 14:58:26",
+      "album": {
+        "name": "Feeding Seahorses by Hand",
+        "url": "https://open.spotify.com/album/6hGu9RB3CDDdorBicf4dMo"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "duration_ms": 283393,
+      "name": "She Dances",
+      "url": "https://open.spotify.com/track/72655YyFEnLXG54FC6tCtT"
     }
   ],
   "unique_name": "Indie Love Songs",

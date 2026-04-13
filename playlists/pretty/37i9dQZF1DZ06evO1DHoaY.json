@@ -1,12 +1,12 @@
 {
   "description": "This is Bob Marley & The Wailers. The essential tracks, all in one playlist.",
-  "num_followers": 2074081,
+  "num_followers": 2074116,
   "original_name": "This Is Bob Marley & The Wailers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adg9gAAAAAAgTlGmMil5I51bNHQNVHem",
+  "snapshot_id": "admPAAAAAAAJW6SzeFub4XhI9cPrTuNi",
   "tracks": [
     {
       "added_at": null,
@@ -507,26 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chant Down Babylon",
-        "url": "https://open.spotify.com/album/4hV6TxaUkzEi4wUN6Fd0s7"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        },
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        }
-      ],
-      "duration_ms": 346333,
-      "name": "Turn Your Lights Down Low",
-      "url": "https://open.spotify.com/track/7I1fHMDNlHobS8SBUJAUDt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Burnin' (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 330760,
       "name": "Stir It Up",
       "url": "https://open.spotify.com/track/4FNm4ZJaUVLDCMXcqwS6zY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chant Down Babylon",
+        "url": "https://open.spotify.com/album/4hV6TxaUkzEi4wUN6Fd0s7"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        },
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 346333,
+      "name": "Turn Your Lights Down Low",
+      "url": "https://open.spotify.com/track/7I1fHMDNlHobS8SBUJAUDt"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Stapleton. The essential tracks, all in one playlist.",
-  "num_followers": 718084,
+  "num_followers": 718162,
   "original_name": "This Is Chris Stapleton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adg9gAAAAABexvknUrNz2HoiaQERkFxK",
+  "snapshot_id": "admPAAAAAAALbeHz68ioCxJeYH0nUQz/",
   "tracks": [
     {
       "added_at": null,
@@ -195,22 +195,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Traveller",
-        "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 244333,
-      "name": "Fire Away",
-      "url": "https://open.spotify.com/track/5j4hSQH0KaAc8f6cimnXIT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "What Are You Listening To?",
         "url": "https://open.spotify.com/album/7DQVMB8uAJyLF7lyvY7j1n"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 245920,
       "name": "What Are You Listening To?",
       "url": "https://open.spotify.com/track/3KZw9g7PNBBx66sHNqme6Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Traveller",
+        "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 244333,
+      "name": "Fire Away",
+      "url": "https://open.spotify.com/track/5j4hSQH0KaAc8f6cimnXIT"
     },
     {
       "added_at": null,
@@ -263,22 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Traveller",
-        "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 222413,
-      "name": "Traveller",
-      "url": "https://open.spotify.com/track/178OI1A3qjROeFeh8lmNwW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Starting Over",
         "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 231720,
       "name": "Devil Always Made Me Think Twice",
       "url": "https://open.spotify.com/track/3olGkpomYOWwRZsbFTZqiX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Traveller",
+        "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 222413,
+      "name": "Traveller",
+      "url": "https://open.spotify.com/track/178OI1A3qjROeFeh8lmNwW"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC9sWdkmZbU.md) - [plain]
 
 > Christian & Gospel songs for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,954 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,979 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,10 +48,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC9sWdkmZbU.md) - [plain]
 | 38 | [Your Ways \(Isaiah 55\) \- Live](https://open.spotify.com/track/3jmXhvsA6Y9SQX5HohC26n) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied), [Kingdom Kids](https://open.spotify.com/artist/5ZEFkYy6VPMg1C4QssVKCZ) | [Your Ways \(Isaiah 55\) \[Live\]](https://open.spotify.com/album/6h3ij29LgLW3qannd61h1Q) | 4:02 |
 | 39 | [Prayed for This Day](https://open.spotify.com/track/2GZK4aAvR7QYTPuQOoJCVN) | [Chrissy Metz](https://open.spotify.com/artist/1UxVEV7mxsSuRZG7niH70a) | [Prayed for This Day](https://open.spotify.com/album/13Ii0A5r6l30sUK74lMsYS) | 3:18 |
 | 40 | [Awesome God](https://open.spotify.com/track/4k8xg3hXmatho793UA1DBQ) | [Here I Am To Worship For Kids Performers](https://open.spotify.com/artist/4swSTrcaD1kMk6B0QhYgrW) | [Worship For Your Family \(Yellow\)](https://open.spotify.com/album/7FVmb7lT2S4FIT30LkAorA) | 3:14 |
-| 41 | [I've Got Peace Like A River](https://open.spotify.com/track/1QNzSJpXT821Ywcw70jf9S) | [Cedarmont Kids](https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt) | [100 Singalong Songs For Kids](https://open.spotify.com/album/2EiryC1JLLMcy6SDeOuT7F) | 1:34 |
-| 42 | [How Great Is Our God](https://open.spotify.com/track/0QWFvWKOnA9giC28sQnCfy) | [Kids Praise Co.](https://open.spotify.com/artist/72GwlC9WENLKUaZiwixp5V) | [Top 50 Kids' Praise! Company](https://open.spotify.com/album/76ydbYVdYIcrk0fvIykacg) | 4:00 |
+| 41 | [Best Day of My Life](https://open.spotify.com/track/1A6or9Pbj0RDBKHyiujChc) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Best Day of My Life](https://open.spotify.com/album/7dBJvgDpKP4aF9DzkRdz7u) | 3:16 |
+| 42 | [I've Got Peace Like A River](https://open.spotify.com/track/1QNzSJpXT821Ywcw70jf9S) | [Cedarmont Kids](https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt) | [100 Singalong Songs For Kids](https://open.spotify.com/album/2EiryC1JLLMcy6SDeOuT7F) | 1:34 |
 | 43 | [Wherever Whatever](https://open.spotify.com/track/5DVdqxQlrCtotYOwsro4aA) | [Amber Sky Records](https://open.spotify.com/artist/6cAxRZyhkM7NqvV2hSc7Wb) | [I Count on You](https://open.spotify.com/album/7mMVwfLd4OtTX1dfs5UQrY) | 2:30 |
-| 44 | [Best Day of My Life](https://open.spotify.com/track/1A6or9Pbj0RDBKHyiujChc) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Best Day of My Life](https://open.spotify.com/album/7dBJvgDpKP4aF9DzkRdz7u) | 3:16 |
+| 44 | [How Great Is Our God](https://open.spotify.com/track/0QWFvWKOnA9giC28sQnCfy) | [Kids Praise Co.](https://open.spotify.com/artist/72GwlC9WENLKUaZiwixp5V) | [Top 50 Kids' Praise! Company](https://open.spotify.com/album/76ydbYVdYIcrk0fvIykacg) | 4:00 |
 | 45 | [God Is So Good](https://open.spotify.com/track/75Bunn94DbQP7xgwdfXzu8) | [Hillsong Kids](https://open.spotify.com/artist/6B9zcemB6pCVlbLac9pwWF) | [Thank You Jesus](https://open.spotify.com/album/1JB2VmkBVE3SQOKPj6Z4uh) | 2:41 |
 | 46 | [Let It Rise](https://open.spotify.com/track/1DvX3oEER1H4KV2LWvAnlI) | [Maranatha! Kids](https://open.spotify.com/artist/40JuNvEnk3vufsyLg9WX5n) | [Top 25 Kids' Praise Songs 2012](https://open.spotify.com/album/4LQGT35YB9CxVcSSp5NnbJ) | 3:33 |
 | 47 | [Amazing Grace](https://open.spotify.com/track/2a2p5OmUg1cf9qH2ruF9qt) | [Juana](https://open.spotify.com/artist/5uK5UNdzOWT47tcq2VLsek), [Canticuentos](https://open.spotify.com/artist/4R4q5rN3KAEFfLvpC94T2j) | [Amazing Grace](https://open.spotify.com/album/77kMAZ0oUkx5dqNkoLaEcw) | 3:39 |

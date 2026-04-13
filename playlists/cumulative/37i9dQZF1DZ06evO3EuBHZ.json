@@ -1582,7 +1582,7 @@
       ],
       "date_added": "2023-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 178693,
       "name": "Just Can't Help Myself",
       "url": "https://open.spotify.com/track/5gUZ3K7ooE6UbMxMPNVCsM"
@@ -2346,6 +2346,24 @@
       "duration_ms": 405146,
       "name": "Rock Me Baby",
       "url": "https://open.spotify.com/track/4HYvUhFFqlzCpObJL8YBmp"
+    },
+    {
+      "album": {
+        "name": "Real Cool Cat",
+        "url": "https://open.spotify.com/album/4ZTvUA6m87dAY6tXAYV25p"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152393,
+      "name": "Rock-A-Bye Baby",
+      "url": "https://open.spotify.com/track/3ydFlJpAMMjZtmXAyIacD8"
     },
     {
       "album": {

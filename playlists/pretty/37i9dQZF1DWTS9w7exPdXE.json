@@ -1,6 +1,6 @@
 {
   "description": "Nederpop en Volkspop meezingers. Cover: Samuel Welten (<a href=\"spotify:artist:37i9dQZF1DXaxwXKCsImRe\">RADAR BNLX</a>-artiest)",
-  "num_followers": 160230,
+  "num_followers": 160297,
   "original_name": "Hollandse Meezingers",
   "owner": {
     "name": "Spotify",
@@ -111,30 +111,22 @@
     {
       "added_at": "2026-04-08 22:00:13",
       "album": {
-        "name": "Wereldwonder",
-        "url": "https://open.spotify.com/album/3rmTpJlbHeChLSFdItMpY7"
+        "name": "Hartslag Van De Stad",
+        "url": "https://open.spotify.com/album/4CFGDK4RYUeX4v544VExLo"
       },
       "artists": [
         {
-          "name": "LA$$A",
-          "url": "https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR"
+          "name": "Tino Martin",
+          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
         },
         {
-          "name": "Poke",
-          "url": "https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1"
-        },
-        {
-          "name": "John West",
-          "url": "https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy"
-        },
-        {
-          "name": "Billy Dans",
-          "url": "https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW"
+          "name": "Mart Hoogkamer",
+          "url": "https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa"
         }
       ],
-      "duration_ms": 151714,
-      "name": "Wereldwonder",
-      "url": "https://open.spotify.com/track/4NZ15Gn3KJrmflE8jwiMBU"
+      "duration_ms": 179025,
+      "name": "Hartslag Van De Stad",
+      "url": "https://open.spotify.com/track/78ZiXK0IZ1uiuCHUzFWmcl"
     },
     {
       "added_at": "2026-04-08 22:00:13",
@@ -191,22 +183,30 @@
     {
       "added_at": "2026-04-08 22:00:13",
       "album": {
-        "name": "Hartslag Van De Stad",
-        "url": "https://open.spotify.com/album/4CFGDK4RYUeX4v544VExLo"
+        "name": "Wereldwonder",
+        "url": "https://open.spotify.com/album/3rmTpJlbHeChLSFdItMpY7"
       },
       "artists": [
         {
-          "name": "Tino Martin",
-          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
+          "name": "LA$$A",
+          "url": "https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR"
         },
         {
-          "name": "Mart Hoogkamer",
-          "url": "https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa"
+          "name": "Poke",
+          "url": "https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1"
+        },
+        {
+          "name": "John West",
+          "url": "https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy"
+        },
+        {
+          "name": "Billy Dans",
+          "url": "https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW"
         }
       ],
-      "duration_ms": 179025,
-      "name": "Hartslag Van De Stad",
-      "url": "https://open.spotify.com/track/78ZiXK0IZ1uiuCHUzFWmcl"
+      "duration_ms": 151714,
+      "name": "Wereldwonder",
+      "url": "https://open.spotify.com/track/4NZ15Gn3KJrmflE8jwiMBU"
     },
     {
       "added_at": "2026-04-08 22:00:13",
@@ -251,22 +251,6 @@
     {
       "added_at": "2026-04-08 22:00:13",
       "album": {
-        "name": "Ken Je Dat Gevoel",
-        "url": "https://open.spotify.com/album/6GW5a2DNFBewhniIe3LD2x"
-      },
-      "artists": [
-        {
-          "name": "Suzan & Freek",
-          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
-        }
-      ],
-      "duration_ms": 171750,
-      "name": "Ken Je Dat Gevoel",
-      "url": "https://open.spotify.com/track/1nzVNvN2bLkN8AMjfTxvTT"
-    },
-    {
-      "added_at": "2026-04-08 22:00:13",
-      "album": {
         "name": "Jouw Blik",
         "url": "https://open.spotify.com/album/1nsSemfOY3jGrPmBdWAhst"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 219640,
       "name": "Jouw Blik",
       "url": "https://open.spotify.com/track/3kkb0mHyZJTFGrzaUscnkh"
+    },
+    {
+      "added_at": "2026-04-08 22:00:13",
+      "album": {
+        "name": "Ken Je Dat Gevoel",
+        "url": "https://open.spotify.com/album/6GW5a2DNFBewhniIe3LD2x"
+      },
+      "artists": [
+        {
+          "name": "Suzan & Freek",
+          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
+        }
+      ],
+      "duration_ms": 171750,
+      "name": "Ken Je Dat Gevoel",
+      "url": "https://open.spotify.com/track/1nzVNvN2bLkN8AMjfTxvTT"
     },
     {
       "added_at": "2026-04-08 22:00:13",
@@ -351,22 +351,6 @@
     {
       "added_at": "2026-04-08 22:00:13",
       "album": {
-        "name": "Live In Het Philips Stadion",
-        "url": "https://open.spotify.com/album/1BegCmidDeh43ntUxDGODt"
-      },
-      "artists": [
-        {
-          "name": "Guus Meeuwis",
-          "url": "https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv"
-        }
-      ],
-      "duration_ms": 224133,
-      "name": "Geef Mij Je Angst",
-      "url": "https://open.spotify.com/track/1dHkLKpYhYiJ7tPThULrbK"
-    },
-    {
-      "added_at": "2026-04-08 22:00:13",
-      "album": {
         "name": "Met Heel Mijn Hart",
         "url": "https://open.spotify.com/album/1O66zmJwQw98cKjVzdRAiD"
       },
@@ -379,6 +363,26 @@
       "duration_ms": 209600,
       "name": "Uit M'n Bol",
       "url": "https://open.spotify.com/track/0uCGho2Tyzcq3vTKerkWiQ"
+    },
+    {
+      "added_at": "2026-04-08 22:00:13",
+      "album": {
+        "name": "De Stad",
+        "url": "https://open.spotify.com/album/74oRzSmRTs0BPr4rQSvywO"
+      },
+      "artists": [
+        {
+          "name": "Rene Froger",
+          "url": "https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb"
+        },
+        {
+          "name": "Billy Dans",
+          "url": "https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW"
+        }
+      ],
+      "duration_ms": 158857,
+      "name": "De Stad",
+      "url": "https://open.spotify.com/track/2N0J2JFNDuRh4bEiaYWTHY"
     },
     {
       "added_at": "2026-04-08 22:00:13",
@@ -407,22 +411,18 @@
     {
       "added_at": "2026-04-08 22:00:13",
       "album": {
-        "name": "De Stad",
-        "url": "https://open.spotify.com/album/74oRzSmRTs0BPr4rQSvywO"
+        "name": "Live In Het Philips Stadion",
+        "url": "https://open.spotify.com/album/1BegCmidDeh43ntUxDGODt"
       },
       "artists": [
         {
-          "name": "Rene Froger",
-          "url": "https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb"
-        },
-        {
-          "name": "Billy Dans",
-          "url": "https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW"
+          "name": "Guus Meeuwis",
+          "url": "https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv"
         }
       ],
-      "duration_ms": 158857,
-      "name": "De Stad",
-      "url": "https://open.spotify.com/track/2N0J2JFNDuRh4bEiaYWTHY"
+      "duration_ms": 224133,
+      "name": "Geef Mij Je Angst",
+      "url": "https://open.spotify.com/track/1dHkLKpYhYiJ7tPThULrbK"
     },
     {
       "added_at": "2026-04-08 22:00:13",
@@ -767,22 +767,6 @@
     {
       "added_at": "2026-04-08 22:00:13",
       "album": {
-        "name": "Het Leven Gaat Door",
-        "url": "https://open.spotify.com/album/3QqQKl5TIz3uMfhRWpoCWW"
-      },
-      "artists": [
-        {
-          "name": "Koos Alberts",
-          "url": "https://open.spotify.com/artist/2x8IIf3l8n2kJgLOxcYP29"
-        }
-      ],
-      "duration_ms": 200800,
-      "name": "Zijn Het Je Ogen",
-      "url": "https://open.spotify.com/track/1kNYqojoCcL50GzXQKCLL6"
-    },
-    {
-      "added_at": "2026-04-08 22:00:13",
-      "album": {
         "name": "Bailando",
         "url": "https://open.spotify.com/album/6vVNkqg0uf9HTt966hqReK"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 163125,
       "name": "Bailando",
       "url": "https://open.spotify.com/track/1pegjs65Iwuk2IrGGieOYx"
+    },
+    {
+      "added_at": "2026-04-08 22:00:13",
+      "album": {
+        "name": "Het Leven Gaat Door",
+        "url": "https://open.spotify.com/album/3QqQKl5TIz3uMfhRWpoCWW"
+      },
+      "artists": [
+        {
+          "name": "Koos Alberts",
+          "url": "https://open.spotify.com/artist/2x8IIf3l8n2kJgLOxcYP29"
+        }
+      ],
+      "duration_ms": 200800,
+      "name": "Zijn Het Je Ogen",
+      "url": "https://open.spotify.com/track/1kNYqojoCcL50GzXQKCLL6"
     },
     {
       "added_at": "2026-04-08 22:00:13",
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-04-08 22:00:13",
       "album": {
-        "name": "De Jonge Jaren van Toontje Lager - 50 Jaar Nederpop",
-        "url": "https://open.spotify.com/album/2aTTEiGgwrBkwXbJmlZYTr"
-      },
-      "artists": [
-        {
-          "name": "Toontje Lager",
-          "url": "https://open.spotify.com/artist/7isSKzkNHe3Tsmht2ar6Ai"
-        }
-      ],
-      "duration_ms": 214975,
-      "name": "Stiekem Gedanst",
-      "url": "https://open.spotify.com/track/1tU5J8aMqCQe7WtqTkFLQL"
-    },
-    {
-      "added_at": "2026-04-08 22:00:13",
-      "album": {
         "name": "Gina",
         "url": "https://open.spotify.com/album/3OO7avslFyhPayBU2Ev1vi"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 218890,
       "name": "Gina",
       "url": "https://open.spotify.com/track/5meI025SYNIsanGc3NpCAs"
+    },
+    {
+      "added_at": "2026-04-08 22:00:13",
+      "album": {
+        "name": "De Jonge Jaren van Toontje Lager - 50 Jaar Nederpop",
+        "url": "https://open.spotify.com/album/2aTTEiGgwrBkwXbJmlZYTr"
+      },
+      "artists": [
+        {
+          "name": "Toontje Lager",
+          "url": "https://open.spotify.com/artist/7isSKzkNHe3Tsmht2ar6Ai"
+        }
+      ],
+      "duration_ms": 214975,
+      "name": "Stiekem Gedanst",
+      "url": "https://open.spotify.com/track/1tU5J8aMqCQe7WtqTkFLQL"
     },
     {
       "added_at": "2026-04-08 22:00:13",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2026-04-08 22:00:13",
       "album": {
-        "name": "De nieuwe van....",
-        "url": "https://open.spotify.com/album/2x0327Ozc7ODk3LQCSk6tL"
-      },
-      "artists": [
-        {
-          "name": "Jannes",
-          "url": "https://open.spotify.com/artist/02ydjJPvRKpejxRzZyHdaq"
-        }
-      ],
-      "duration_ms": 308053,
-      "name": "Jannes hitmedley",
-      "url": "https://open.spotify.com/track/5ytN4bv3YOAPtYr6WJFFea"
-    },
-    {
-      "added_at": "2026-04-08 22:00:13",
-      "album": {
         "name": "In Spanje",
         "url": "https://open.spotify.com/album/2ES5voKkNIQXKvjgyDhkV1"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 179161,
       "name": "In Spanje",
       "url": "https://open.spotify.com/track/4opSg2AR63oSBkys9zq2qb"
+    },
+    {
+      "added_at": "2026-04-08 22:00:13",
+      "album": {
+        "name": "De nieuwe van....",
+        "url": "https://open.spotify.com/album/2x0327Ozc7ODk3LQCSk6tL"
+      },
+      "artists": [
+        {
+          "name": "Jannes",
+          "url": "https://open.spotify.com/artist/02ydjJPvRKpejxRzZyHdaq"
+        }
+      ],
+      "duration_ms": 308053,
+      "name": "Jannes hitmedley",
+      "url": "https://open.spotify.com/track/5ytN4bv3YOAPtYr6WJFFea"
     },
     {
       "added_at": "2026-04-08 22:00:13",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2026-04-08 22:00:13",
       "album": {
-        "name": "Maak Me Nou Niet Gek",
-        "url": "https://open.spotify.com/album/24xjFLhiUSgGS8NWgJB3wa"
-      },
-      "artists": [
-        {
-          "name": "Quido van de Graaf",
-          "url": "https://open.spotify.com/artist/0EeBSdffc4ckG8Yh9HOPuj"
-        }
-      ],
-      "duration_ms": 136133,
-      "name": "Maak Me Nou Niet Gek",
-      "url": "https://open.spotify.com/track/6gOgwLQfEfRh0SfXUZZk7Z"
-    },
-    {
-      "added_at": "2026-04-08 22:00:13",
-      "album": {
         "name": "Beste Zangers Seizoen 12 (Aflevering 8 - Duetten)",
         "url": "https://open.spotify.com/album/282BwXPUfsaB47dC9dKWIi"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 171508,
       "name": "Pa Olvidarte",
       "url": "https://open.spotify.com/track/3XAaiiSNPVDvXC2CKAetY3"
+    },
+    {
+      "added_at": "2026-04-08 22:00:13",
+      "album": {
+        "name": "Maak Me Nou Niet Gek",
+        "url": "https://open.spotify.com/album/24xjFLhiUSgGS8NWgJB3wa"
+      },
+      "artists": [
+        {
+          "name": "Quido van de Graaf",
+          "url": "https://open.spotify.com/artist/0EeBSdffc4ckG8Yh9HOPuj"
+        }
+      ],
+      "duration_ms": 136133,
+      "name": "Maak Me Nou Niet Gek",
+      "url": "https://open.spotify.com/track/6gOgwLQfEfRh0SfXUZZk7Z"
     },
     {
       "added_at": "2026-04-08 22:00:13",
@@ -1559,22 +1559,18 @@
     {
       "added_at": "2026-04-08 22:00:13",
       "album": {
-        "name": "Frans Duits",
-        "url": "https://open.spotify.com/album/275oSAHa19SMqDyPdjUVzh"
+        "name": "Leef",
+        "url": "https://open.spotify.com/album/6lTrzzgpV4zOaEhtYgclKm"
       },
       "artists": [
         {
-          "name": "Donnie",
-          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
-        },
-        {
-          "name": "Frans Duijts",
-          "url": "https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t"
+          "name": "Andr\u00e9 Hazes Jr.",
+          "url": "https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD"
         }
       ],
-      "duration_ms": 172881,
-      "name": "Frans Duits",
-      "url": "https://open.spotify.com/track/6iSm0u8DL5MqeptlsoeS90"
+      "duration_ms": 217902,
+      "name": "Leef",
+      "url": "https://open.spotify.com/track/4lBkLeU6LNgWzfbWPGm1c9"
     },
     {
       "added_at": "2026-04-08 22:00:13",
@@ -1599,18 +1595,22 @@
     {
       "added_at": "2026-04-08 22:00:13",
       "album": {
-        "name": "Leef",
-        "url": "https://open.spotify.com/album/6lTrzzgpV4zOaEhtYgclKm"
+        "name": "Frans Duits",
+        "url": "https://open.spotify.com/album/275oSAHa19SMqDyPdjUVzh"
       },
       "artists": [
         {
-          "name": "Andr\u00e9 Hazes Jr.",
-          "url": "https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD"
+          "name": "Donnie",
+          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
+        },
+        {
+          "name": "Frans Duijts",
+          "url": "https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t"
         }
       ],
-      "duration_ms": 217902,
-      "name": "Leef",
-      "url": "https://open.spotify.com/track/4lBkLeU6LNgWzfbWPGm1c9"
+      "duration_ms": 172881,
+      "name": "Frans Duits",
+      "url": "https://open.spotify.com/track/6iSm0u8DL5MqeptlsoeS90"
     },
     {
       "added_at": "2026-04-08 22:00:13",

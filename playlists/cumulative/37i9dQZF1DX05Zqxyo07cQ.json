@@ -5769,6 +5769,24 @@
     },
     {
       "album": {
+        "name": "Ethereal Oasis",
+        "url": "https://open.spotify.com/album/3pRSJPNv9Sjr1BgsIvF9nk"
+      },
+      "artists": [
+        {
+          "name": "Sleep Envoy",
+          "url": "https://open.spotify.com/artist/7hFdOASx9ClXjLhg4itqdc"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165333,
+      "name": "Ethereal Oasis",
+      "url": "https://open.spotify.com/track/6qMubqI3HpYwSt2Riaaway"
+    },
+    {
+      "album": {
         "name": "Ethereal Slumbercode",
         "url": "https://open.spotify.com/album/78g8xhwAei2E94MRuQDll8"
       },
@@ -12008,7 +12026,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 157673,
       "name": "Pale Memory",
       "url": "https://open.spotify.com/track/7rhwr3FfXyso3CpR5d3X97"

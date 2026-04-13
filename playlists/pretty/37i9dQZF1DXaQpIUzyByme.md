@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaQpIUzyByme.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 90's! Cover: Acda en de Munnik
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,339 likes - 70 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,361 likes - 70 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaQpIUzyByme.md) - [plain]
 | 53 | [Kleine Jongen](https://open.spotify.com/track/6vzj8d0yOzg3ELH2T4u0CC) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Kleine Jongen](https://open.spotify.com/album/0EsXBeEagSo9xrbKW17FBq) | 3:43 |
 | 54 | [Op Fietse](https://open.spotify.com/track/0C8H9i00fPS3fJkjQ2eTOF) | [Skik](https://open.spotify.com/artist/1ezIAAhRJCCU5C6gRWX4xc) | [Niks Is Zoas 't Lek](https://open.spotify.com/album/6NMjDUpZ4HlJpW4A6OZjWL) | 4:50 |
 | 55 | [Per Spoor \(Kedeng Kedeng\)](https://open.spotify.com/track/5FdLWxpHT56vitVh3CGiFV) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv), [Vagant](https://open.spotify.com/artist/2ZywabPnRCoHjfPJfQavrA) | [Verbazing](https://open.spotify.com/album/6hqBbsWRFC9Mh1Z2YdYDNQ) | 4:13 |
-| 56 | [Ik Wil Niet Dat Je Liegt](https://open.spotify.com/track/76ikfBK8uCzlSmhlYKQMLm) | [Paul de Leeuw](https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT) | [ParaCDmol](https://open.spotify.com/album/2zWo1Ql9eSAWxXxKqYU3yW) | 3:55 |
+| 56 | [Zelfs Je Naam Is Mooi](https://open.spotify.com/track/0BGiXFcfWNE1ZOJYwtbWbX) | [Henk Westbroek](https://open.spotify.com/artist/178yD2iAVWr5qYldTaWBA2) | [Het Beste Uit De Q Music Top 500 Van Het Foute Uur](https://open.spotify.com/album/2EbhHZgmdy362RoEAE3Rbt) | 4:28 |
 | 57 | [Aan De Kust](https://open.spotify.com/track/7mvxl7tRdYZsJ9jxgIJrVa) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Hier \- Het Beste Van 20 Jaar BLØF](https://open.spotify.com/album/6CXlCKvZ8vyIEDlOIDZZUp) | 3:33 |
-| 58 | [Oude Maasweg](https://open.spotify.com/track/0rY0wiJbmpy42X0EUtgkd6) | [The Amazing Stroopwafels](https://open.spotify.com/artist/4j32y3UVJaypInH9lOKcZ4) | [Badmuts Verplicht](https://open.spotify.com/album/3hiFSfbf6VOf0EfTEUvhem) | 3:25 |
-| 59 | [Zelfs Je Naam Is Mooi](https://open.spotify.com/track/0BGiXFcfWNE1ZOJYwtbWbX) | [Henk Westbroek](https://open.spotify.com/artist/178yD2iAVWr5qYldTaWBA2) | [Het Beste Uit De Q Music Top 500 Van Het Foute Uur](https://open.spotify.com/album/2EbhHZgmdy362RoEAE3Rbt) | 4:28 |
+| 58 | [Ik Wil Niet Dat Je Liegt](https://open.spotify.com/track/76ikfBK8uCzlSmhlYKQMLm) | [Paul de Leeuw](https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT) | [ParaCDmol](https://open.spotify.com/album/2zWo1Ql9eSAWxXxKqYU3yW) | 3:55 |
+| 59 | [Oude Maasweg](https://open.spotify.com/track/0rY0wiJbmpy42X0EUtgkd6) | [The Amazing Stroopwafels](https://open.spotify.com/artist/4j32y3UVJaypInH9lOKcZ4) | [Badmuts Verplicht](https://open.spotify.com/album/3hiFSfbf6VOf0EfTEUvhem) | 3:25 |
 | 60 | [Verliefd Zijn](https://open.spotify.com/track/2wLPPLc2mNOskEOtpwgqX8) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv), [Vagant](https://open.spotify.com/artist/2ZywabPnRCoHjfPJfQavrA) | [Verbazing](https://open.spotify.com/album/6hqBbsWRFC9Mh1Z2YdYDNQ) | 3:30 |
 | 61 | [Domino](https://open.spotify.com/track/3XeuDg8LpGQ6LCZBok55QC) | [Clouseau](https://open.spotify.com/artist/1aK4CAEPdOJS3wBL0OnQts) | [Clouseau30](https://open.spotify.com/album/5jy4Ndvb4aJcbt9Cy8LDFJ) | 4:08 |
 | 62 | [Ademnood](https://open.spotify.com/track/4MtbnO2jRAtFwMagTAYJwE) | [Linda Roos & Jessica](https://open.spotify.com/artist/6cMX0sjDf0CJQMI3lVY5Xc) | [Linda Roos & Jessica](https://open.spotify.com/album/15vMNA7eaNpwu3h8m3siCz) | 3:58 |

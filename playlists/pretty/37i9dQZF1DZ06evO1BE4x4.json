@@ -1,12 +1,12 @@
 {
   "description": "This is Violent Soho. The essential tracks, all in one playlist.",
-  "num_followers": 6876,
+  "num_followers": 6878,
   "original_name": "This Is Violent Soho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adg9gAAAAABMWYmNHkxKL7z1QlYO5ztC",
+  "snapshot_id": "admPAAAAAABfxEWlEq2ROz6vdr3lBDqp",
   "tracks": [
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
         }
       ],
-      "duration_ms": 252226,
-      "name": "So Sentimental",
-      "url": "https://open.spotify.com/track/6QVLOVHtYM3oCbiLkr8B8K"
+      "duration_ms": 270773,
+      "name": "How To Taste",
+      "url": "https://open.spotify.com/track/4TDUxnS5QcrrKua4AKOnPk"
     },
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
         }
       ],
-      "duration_ms": 270773,
-      "name": "How To Taste",
-      "url": "https://open.spotify.com/track/4TDUxnS5QcrrKua4AKOnPk"
+      "duration_ms": 252226,
+      "name": "So Sentimental",
+      "url": "https://open.spotify.com/track/6QVLOVHtYM3oCbiLkr8B8K"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "de skarpeste knive i dansk musik  \ud83d\udcf8  lucca",
-  "num_followers": 47104,
+  "num_followers": 47100,
   "original_name": "ung kniv ",
   "owner": {
     "name": "Spotify",
@@ -711,22 +711,6 @@
     {
       "added_at": "2026-03-27 09:39:18",
       "album": {
-        "name": "Minute Nothing",
-        "url": "https://open.spotify.com/album/6vSqgWESqtKe3zTatouCUz"
-      },
-      "artists": [
-        {
-          "name": "Alba Akvama",
-          "url": "https://open.spotify.com/artist/0aOHcQWEx7wsZg277ZOcGe"
-        }
-      ],
-      "duration_ms": 218998,
-      "name": "Big Solo",
-      "url": "https://open.spotify.com/track/6hXZ1dD9oNhJ0ircyjsrjR"
-    },
-    {
-      "added_at": "2026-03-27 09:39:18",
-      "album": {
         "name": "Pissoir",
         "url": "https://open.spotify.com/album/44yvHIEEJXArf5hWPlea4E"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 185533,
       "name": "Pissoir",
       "url": "https://open.spotify.com/track/2zd5aojgRe21i2R0kgrpb0"
+    },
+    {
+      "added_at": "2026-03-27 09:39:18",
+      "album": {
+        "name": "Minute Nothing",
+        "url": "https://open.spotify.com/album/6vSqgWESqtKe3zTatouCUz"
+      },
+      "artists": [
+        {
+          "name": "Alba Akvama",
+          "url": "https://open.spotify.com/artist/0aOHcQWEx7wsZg277ZOcGe"
+        }
+      ],
+      "duration_ms": 218998,
+      "name": "Big Solo",
+      "url": "https://open.spotify.com/track/6hXZ1dD9oNhJ0ircyjsrjR"
     },
     {
       "added_at": "2026-03-27 09:39:18",
@@ -931,6 +931,22 @@
     {
       "added_at": "2026-03-27 09:39:18",
       "album": {
+        "name": "The Way She Says Goodbye",
+        "url": "https://open.spotify.com/album/55Z9H1tbXpvoExNlFG1ShB"
+      },
+      "artists": [
+        {
+          "name": "Emily Bowen",
+          "url": "https://open.spotify.com/artist/4IcbSUnp61Iqco9c8OsTUc"
+        }
+      ],
+      "duration_ms": 165500,
+      "name": "Bye Sofia",
+      "url": "https://open.spotify.com/track/6hSPxHXE1atS2bMY53MPZW"
+    },
+    {
+      "added_at": "2026-03-27 09:39:18",
+      "album": {
         "name": "You Want The World",
         "url": "https://open.spotify.com/album/7xrkfiQ19Ov8H78vNGgrsS"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 198812,
       "name": "Verona",
       "url": "https://open.spotify.com/track/0aFsmiYkXI9C8yoiIUZNPw"
-    },
-    {
-      "added_at": "2026-03-27 09:39:18",
-      "album": {
-        "name": "The Way She Says Goodbye",
-        "url": "https://open.spotify.com/album/55Z9H1tbXpvoExNlFG1ShB"
-      },
-      "artists": [
-        {
-          "name": "Emily Bowen",
-          "url": "https://open.spotify.com/artist/4IcbSUnp61Iqco9c8OsTUc"
-        }
-      ],
-      "duration_ms": 165500,
-      "name": "Bye Sofia",
-      "url": "https://open.spotify.com/track/6hSPxHXE1atS2bMY53MPZW"
     },
     {
       "added_at": "2026-03-27 09:39:18",

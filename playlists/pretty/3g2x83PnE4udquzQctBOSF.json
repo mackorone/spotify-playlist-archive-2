@@ -1,13 +1,61 @@
 {
   "description": "Our weekly selection is here \u26a1\ufe0f",
-  "num_followers": 2732,
+  "num_followers": 2731,
   "original_name": "AGLF Playlist",
   "owner": {
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "AAASIePPwfe4QuUpzMKycOPI/usiLIBn",
+  "snapshot_id": "AAASJC1VwJTztxWnKbEQl6h4o938WKzv",
   "tracks": [
+    {
+      "added_at": "2026-04-12 21:00:20",
+      "album": {
+        "name": "Aplysia",
+        "url": "https://open.spotify.com/album/5jK8fD4534sjltztJ8oMe7"
+      },
+      "artists": [
+        {
+          "name": "The Seadix",
+          "url": "https://open.spotify.com/artist/5q5xX0d07ULjV8NKTGXLrB"
+        }
+      ],
+      "duration_ms": 231250,
+      "name": "In Pain",
+      "url": "https://open.spotify.com/track/3PjmypGy0co98Jgeo11jMc"
+    },
+    {
+      "added_at": "2026-04-12 16:32:08",
+      "album": {
+        "name": "aevor",
+        "url": "https://open.spotify.com/album/6n2wd5hDqSugXMXUwffR2H"
+      },
+      "artists": [
+        {
+          "name": "680Tone",
+          "url": "https://open.spotify.com/artist/6dyENcarC8GAyfoI9GFw6l"
+        }
+      ],
+      "duration_ms": 277073,
+      "name": "aevor - Radio Mix",
+      "url": "https://open.spotify.com/track/6kZsKXbVNJk8YgUkYXvI7S"
+    },
+    {
+      "added_at": "2026-04-12 10:31:33",
+      "album": {
+        "name": "Natural born dancer",
+        "url": "https://open.spotify.com/album/6NSCB0nuaihelCZ7lVLGWA"
+      },
+      "artists": [
+        {
+          "name": "Tess Mac Keen",
+          "url": "https://open.spotify.com/artist/77mpUoVwkQ9qs9b4AQiDin"
+        }
+      ],
+      "duration_ms": 197199,
+      "name": "Natural born dancer",
+      "url": "https://open.spotify.com/track/65Q8NGAO8O5yc3vH9xHS3w"
+    },
     {
       "added_at": "2026-04-11 17:01:54",
       "album": {

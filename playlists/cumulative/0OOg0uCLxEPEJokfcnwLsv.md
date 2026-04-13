@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-437 songs - 1 day 3 hr 10 min
+438 songs - 1 day 3 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [Jane](https://open.spotify.com/track/4XedfQTRrrkH48buhGSbFd) | [Lunar Chain](https://open.spotify.com/artist/6esnKS6lev7QYCZAL0y8bW) | [Jane](https://open.spotify.com/album/3McsECnITe5RZAbrBHn36C) | 3:01 | 2026-03-28 |  |
 | [Just A Good Time 80s Jam](https://open.spotify.com/track/3Ytv0HiQSQKrPg0JL1ql22) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [Just A Good Time 80s Jam](https://open.spotify.com/album/7dcLwSUHVmHRhwBZUz3XSq) | 2:34 | 2025-09-27 |  |
 | [Just Another Dying Hero](https://open.spotify.com/track/6MJZL9jgx23emQ5lzhwBEz) | [The Galacticas](https://open.spotify.com/artist/3OqM9wx94VLVevksMclrGI) | [Planned Obsolescence](https://open.spotify.com/album/4DOu5lRGwahVpAoUewAFN2) | 4:10 | 2025-10-29 | 2025-11-22 |
+| [Just Let It Go](https://open.spotify.com/track/5lPn1Gsaqo8NO3NpFGgwqJ) | [FLÒRALYN](https://open.spotify.com/artist/2LcgkfAzVOD0qeVCgDAqmy) | [Just Let It Go](https://open.spotify.com/album/50TsgNRCRfPWhO8dy9YERH) | 3:13 | 2026-04-12 |  |
 | [knocked \-down/\-out](https://open.spotify.com/track/11PesUdCoyNUXCJWiijURC) | [KXENIA](https://open.spotify.com/artist/4xGnce5EXkdJNeOxaZeYTL) | [knocked \-down/\-out](https://open.spotify.com/album/1e1LTHlMdwv0v8figkkxR5) | 4:16 | 2026-02-07 |  |
 | [La Ciudad de las Estrellas](https://open.spotify.com/track/677GnwOJwoEG51xaRdYMe4) | [Pablopatodo](https://open.spotify.com/artist/14owTErTcmgIPS30z27tBA) | [La Ciudad de las Estrellas](https://open.spotify.com/album/7GSkEzkfsVnoy4uIykt7XE) | 3:48 | 2026-02-04 | 2026-02-23 |
 | [La Loca Con Ancla](https://open.spotify.com/track/1x582FY63ErBAC5CafxTnM) | [Sexbasstian](https://open.spotify.com/artist/4p5dHOfoagYZjykFlyClIf) | [ACT](https://open.spotify.com/album/2T0zUxpubg0QwiCn8NTiRZ) | 3:58 | 2026-03-27 |  |

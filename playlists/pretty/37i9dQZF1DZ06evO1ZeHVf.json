@@ -1,12 +1,12 @@
 {
   "description": "This is CeCe Winans. The essential tracks, all in one playlist.",
-  "num_followers": 55788,
+  "num_followers": 55810,
   "original_name": "This Is CeCe Winans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adg9gAAAAAD8XqKXAypz/fizskeje7fm",
+  "snapshot_id": "admPAAAAAABlCgjQzUWKhe/4Xz3Wyxkw",
   "tracks": [
     {
       "added_at": null,
@@ -363,6 +363,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Alone In His Presence",
+        "url": "https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 329573,
+      "name": "I Surrender All",
+      "url": "https://open.spotify.com/track/61PM6e4ZKNyk0cliMB2oNv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "For Your Glory",
         "url": "https://open.spotify.com/album/3fNNAjL8EF75DfXo8k8ySZ"
       },
@@ -387,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alone In His Presence",
-        "url": "https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 329573,
-      "name": "I Surrender All",
-      "url": "https://open.spotify.com/track/61PM6e4ZKNyk0cliMB2oNv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Throne Room (Gold Edition)",
         "url": "https://open.spotify.com/album/5ErmGtv1jPppmj2GoESfVz"
       },
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 219333,
-      "name": "A Heart Like Yours",
-      "url": "https://open.spotify.com/track/75Zi4UtjmA481WbpT0nXjA"
+      "duration_ms": 294493,
+      "name": "Jesus, You're Beautiful",
+      "url": "https://open.spotify.com/track/2hURR2OEp83kltTqHXaB6G"
     },
     {
       "added_at": null,
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 294493,
-      "name": "Jesus, You're Beautiful",
-      "url": "https://open.spotify.com/track/2hURR2OEp83kltTqHXaB6G"
+      "duration_ms": 219333,
+      "name": "A Heart Like Yours",
+      "url": "https://open.spotify.com/track/75Zi4UtjmA481WbpT0nXjA"
     },
     {
       "added_at": null,

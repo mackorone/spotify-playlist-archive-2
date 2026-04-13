@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeMORbC1XNa.md) - [plain]
 
 > A perfect link up to soundtrack your day\. Cover: Adekunle Gold, Olamide
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,053 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,060 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeMORbC1XNa.md) - [plain]
 | 47 | [Tomorrow](https://open.spotify.com/track/6NymBsuoyIsjNxZFZRmynz) | [AlorG](https://open.spotify.com/artist/3XVsxJ7cSnDnHtssbKiIPb) | [Tomorrow](https://open.spotify.com/album/0UZfeZizENHfRbHmrCXbV6) | 2:26 |
 | 48 | [London Summers](https://open.spotify.com/track/1vCnTZE7PVUakwkqCnIhrn) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [London Summers](https://open.spotify.com/album/6L0fjCZSfZxhavSOOh4ohF) | 3:37 |
 | 49 | [On The Low](https://open.spotify.com/track/4Y7VhlTbbiugnmw1UNX4ox) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [On The Low](https://open.spotify.com/album/5IRpVk3ZkwNeU2OuoUdW9S) | 2:30 |
-| 50 | [Anyting](https://open.spotify.com/track/2pVZlbHWvJHjqLxSUM40Au) | [Skeete](https://open.spotify.com/artist/7vwwjn0kTEsI82Gj6HGypO) | [Anyting](https://open.spotify.com/album/0iYSMTpsRLaFztVnVhkxHo) | 2:02 |
+| 50 | [Ting Loud \(with Masicka\)](https://open.spotify.com/track/0SXhAXeKf5QuSsCUWoxRsH) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [Ting Loud \(with Masicka\)](https://open.spotify.com/album/46RyBz5z8NqR7x7wCJuKPX) | 3:22 |
 
 Snapshot ID: `AAAAAN4cYwyJdGNYT9k4LElTqE6INPbF`

@@ -1,6 +1,6 @@
 {
   "description": "Nousussa olevat hitit. \ud83c\udf2a\ufe0f ",
-  "num_followers": 60252,
+  "num_followers": 60244,
   "original_name": "Nousussa",
   "owner": {
     "name": "Spotify",
@@ -423,22 +423,6 @@
     {
       "added_at": "2026-04-09 21:00:33",
       "album": {
-        "name": "DO IT",
-        "url": "https://open.spotify.com/album/4lkJ6i3LDK8HvcU2tPWX9k"
-      },
-      "artists": [
-        {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Do It",
-      "url": "https://open.spotify.com/track/1KuNhOubescxn3xD6WNI7Q"
-    },
-    {
-      "added_at": "2026-04-09 21:00:33",
-      "album": {
         "name": "Beautiful People",
         "url": "https://open.spotify.com/album/41GrpCcoPSawyIVDbLRdLW"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 187086,
       "name": "Beautiful People",
       "url": "https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W"
+    },
+    {
+      "added_at": "2026-04-09 21:00:33",
+      "album": {
+        "name": "DO IT",
+        "url": "https://open.spotify.com/album/4lkJ6i3LDK8HvcU2tPWX9k"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Do It",
+      "url": "https://open.spotify.com/track/1KuNhOubescxn3xD6WNI7Q"
     },
     {
       "added_at": "2026-04-09 21:00:33",
@@ -571,6 +571,22 @@
     {
       "added_at": "2026-04-09 21:00:33",
       "album": {
+        "name": "Need Your Love",
+        "url": "https://open.spotify.com/album/3UZVtXHg8FsA3Y9H1S1NbI"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 238427,
+      "name": "Need Your Love",
+      "url": "https://open.spotify.com/track/3FK9wVJHNdJhqVPbIcoZsn"
+    },
+    {
+      "added_at": "2026-04-09 21:00:33",
+      "album": {
         "name": "To Love Somebody",
         "url": "https://open.spotify.com/album/0YZQHiFydiWcBpISxOCFdc"
       },
@@ -587,18 +603,22 @@
     {
       "added_at": "2026-04-09 21:00:33",
       "album": {
-        "name": "Need Your Love",
-        "url": "https://open.spotify.com/album/3UZVtXHg8FsA3Y9H1S1NbI"
+        "name": "Reputation (feat. Dominic Fike)",
+        "url": "https://open.spotify.com/album/0GagxhdItrfNoWwTI6mogx"
       },
       "artists": [
         {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        },
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
         }
       ],
-      "duration_ms": 238427,
-      "name": "Need Your Love",
-      "url": "https://open.spotify.com/track/3FK9wVJHNdJhqVPbIcoZsn"
+      "duration_ms": 235705,
+      "name": "Reputation (feat. Dominic Fike)",
+      "url": "https://open.spotify.com/track/52m9ZMBCf6tv5ONxr81Uv0"
     },
     {
       "added_at": "2026-04-09 21:00:33",
@@ -623,26 +643,6 @@
       "duration_ms": 178853,
       "name": "Berghain",
       "url": "https://open.spotify.com/track/6V4ntlX6608rd3Ec5SpVhj"
-    },
-    {
-      "added_at": "2026-04-09 21:00:33",
-      "album": {
-        "name": "Reputation (feat. Dominic Fike)",
-        "url": "https://open.spotify.com/album/0GagxhdItrfNoWwTI6mogx"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        },
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 235705,
-      "name": "Reputation (feat. Dominic Fike)",
-      "url": "https://open.spotify.com/track/52m9ZMBCf6tv5ONxr81Uv0"
     },
     {
       "added_at": "2026-04-09 21:00:33",
@@ -975,6 +975,22 @@
     {
       "added_at": "2026-04-09 21:00:33",
       "album": {
+        "name": "m0ti0n",
+        "url": "https://open.spotify.com/album/2agpEAlJ7uDQjcIGswVPLM"
+      },
+      "artists": [
+        {
+          "name": "louna0nline",
+          "url": "https://open.spotify.com/artist/363l8KbAMnNgWeNfH9m6Jy"
+        }
+      ],
+      "duration_ms": 147562,
+      "name": "m0ti0n",
+      "url": "https://open.spotify.com/track/1bfGnvSonrY4NJcG8DAK0l"
+    },
+    {
+      "added_at": "2026-04-09 21:00:33",
+      "album": {
         "name": "Prismatic: Pack One",
         "url": "https://open.spotify.com/album/7CUOkVn3NrdH1Q6y2hmEQx"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 175970,
       "name": "Alcoholic",
       "url": "https://open.spotify.com/track/3wGRalPt5dBMWDjn0EU7ax"
-    },
-    {
-      "added_at": "2026-04-09 21:00:33",
-      "album": {
-        "name": "m0ti0n",
-        "url": "https://open.spotify.com/album/2agpEAlJ7uDQjcIGswVPLM"
-      },
-      "artists": [
-        {
-          "name": "louna0nline",
-          "url": "https://open.spotify.com/artist/363l8KbAMnNgWeNfH9m6Jy"
-        }
-      ],
-      "duration_ms": 147562,
-      "name": "m0ti0n",
-      "url": "https://open.spotify.com/track/1bfGnvSonrY4NJcG8DAK0l"
     },
     {
       "added_at": "2026-04-09 21:00:33",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2026-04-09 21:00:33",
       "album": {
-        "name": "Rakkaudenkipee",
-        "url": "https://open.spotify.com/album/2GojwnBicLHPaakAexrwG7"
-      },
-      "artists": [
-        {
-          "name": "KIKI",
-          "url": "https://open.spotify.com/artist/5zod5X1F6ZTshIfpg2vVAF"
-        }
-      ],
-      "duration_ms": 174044,
-      "name": "Rakkaudenkipee",
-      "url": "https://open.spotify.com/track/2aWi2TIoTMu83w6zagrnzx"
-    },
-    {
-      "added_at": "2026-04-09 21:00:33",
-      "album": {
         "name": "Me, Myself and The Night",
         "url": "https://open.spotify.com/album/7bSQts9CfkAh6MNQ7BkBjy"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 251748,
       "name": "Me, Myself and The Night",
       "url": "https://open.spotify.com/track/7mKy65CyVCmawYMw3JJGPQ"
+    },
+    {
+      "added_at": "2026-04-09 21:00:33",
+      "album": {
+        "name": "Rakkaudenkipee",
+        "url": "https://open.spotify.com/album/2GojwnBicLHPaakAexrwG7"
+      },
+      "artists": [
+        {
+          "name": "KIKI",
+          "url": "https://open.spotify.com/artist/5zod5X1F6ZTshIfpg2vVAF"
+        }
+      ],
+      "duration_ms": 174044,
+      "name": "Rakkaudenkipee",
+      "url": "https://open.spotify.com/track/2aWi2TIoTMu83w6zagrnzx"
     },
     {
       "added_at": "2026-04-09 21:00:33",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2026-04-09 21:00:33",
       "album": {
-        "name": "Feels Like Heaven",
-        "url": "https://open.spotify.com/album/5SaGyl331ck5Z5CQaIntGz"
+        "name": "Meid\u00e4n t\u00e4ss\u00e4 kuuluisi rakastuu",
+        "url": "https://open.spotify.com/album/1PGqNvO98f5KApMX6bqsbR"
       },
       "artists": [
         {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+          "name": "Elias Kaskinen",
+          "url": "https://open.spotify.com/artist/2ema1DJVrVL8ZzcNF2hRcj"
         }
       ],
-      "duration_ms": 193000,
-      "name": "Feels Like Heaven",
-      "url": "https://open.spotify.com/track/1jWjsj9YKDoYhTVoZnSivY"
+      "duration_ms": 188631,
+      "name": "Meid\u00e4n t\u00e4ss\u00e4 kuuluisi rakastuu",
+      "url": "https://open.spotify.com/track/6yy7IWGVnuqG6pXjDPzRxc"
     },
     {
       "added_at": "2026-04-09 21:00:33",
@@ -1283,34 +1283,34 @@
     {
       "added_at": "2026-04-09 21:00:33",
       "album": {
-        "name": "Meid\u00e4n t\u00e4ss\u00e4 kuuluisi rakastuu",
-        "url": "https://open.spotify.com/album/1PGqNvO98f5KApMX6bqsbR"
+        "name": "Feels Like Heaven",
+        "url": "https://open.spotify.com/album/5SaGyl331ck5Z5CQaIntGz"
       },
       "artists": [
         {
-          "name": "Elias Kaskinen",
-          "url": "https://open.spotify.com/artist/2ema1DJVrVL8ZzcNF2hRcj"
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
         }
       ],
-      "duration_ms": 188631,
-      "name": "Meid\u00e4n t\u00e4ss\u00e4 kuuluisi rakastuu",
-      "url": "https://open.spotify.com/track/6yy7IWGVnuqG6pXjDPzRxc"
+      "duration_ms": 193000,
+      "name": "Feels Like Heaven",
+      "url": "https://open.spotify.com/track/1jWjsj9YKDoYhTVoZnSivY"
     },
     {
       "added_at": "2026-04-09 21:00:33",
       "album": {
-        "name": "Best For You",
-        "url": "https://open.spotify.com/album/0GgW3k1BAhcRQWPZXo03yJ"
+        "name": "Tytt\u00f6yst\u00e4v\u00e4",
+        "url": "https://open.spotify.com/album/5j0Jb4o5pSg8EXCw70Atu8"
       },
       "artists": [
         {
-          "name": "Isac Elliot",
-          "url": "https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D"
+          "name": "Minttu",
+          "url": "https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Best For You",
-      "url": "https://open.spotify.com/track/4K72fcQI2FQED0976NUlX2"
+      "duration_ms": 177132,
+      "name": "Tytt\u00f6yst\u00e4v\u00e4",
+      "url": "https://open.spotify.com/track/6eN4usKcguQrcGwnepHVE9"
     },
     {
       "added_at": "2026-04-09 21:00:33",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2026-04-09 21:00:33",
       "album": {
-        "name": "Tytt\u00f6yst\u00e4v\u00e4",
-        "url": "https://open.spotify.com/album/5j0Jb4o5pSg8EXCw70Atu8"
+        "name": "Best For You",
+        "url": "https://open.spotify.com/album/0GgW3k1BAhcRQWPZXo03yJ"
       },
       "artists": [
         {
-          "name": "Minttu",
-          "url": "https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr"
+          "name": "Isac Elliot",
+          "url": "https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D"
         }
       ],
-      "duration_ms": 177132,
-      "name": "Tytt\u00f6yst\u00e4v\u00e4",
-      "url": "https://open.spotify.com/track/6eN4usKcguQrcGwnepHVE9"
+      "duration_ms": 150000,
+      "name": "Best For You",
+      "url": "https://open.spotify.com/track/4K72fcQI2FQED0976NUlX2"
     },
     {
       "added_at": "2026-04-09 21:00:33",

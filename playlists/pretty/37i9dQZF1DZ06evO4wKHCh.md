@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wKHCh.md) - [plain]
 
 > This is Emei\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,196 likes - 33 songs - 1 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,206 likes - 33 songs - 1 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wKHCh.md) - [plain]
 | 32 | [9 LIVES](https://open.spotify.com/track/64APtv04ls8z8Cjv6iGUsY) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [9 LIVES](https://open.spotify.com/album/7hpEYDgSxgLy8t8TFNnCn7) | 3:02 |
 | 33 | [SUNNYD](https://open.spotify.com/track/4vnauoJf6OYYU73jPUJbZa) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP) | [SUNNYD](https://open.spotify.com/album/1D8kmnJy5pX2oxTsydOEYZ) | 2:06 |
 
-Snapshot ID: `adg9gAAAAABUud1levz/LwpwPn3XxkyH`
+Snapshot ID: `admPAAAAAABdXTZ/6vCMIuxbXEzw0ipJ`

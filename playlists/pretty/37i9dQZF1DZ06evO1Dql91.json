@@ -1,12 +1,12 @@
 {
   "description": "This is Infinity Song. The essential tracks, all in one playlist.",
-  "num_followers": 2471,
+  "num_followers": 2472,
   "original_name": "This Is Infinity Song",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adg9gAAAAABW8vhlfYUyDPYh7GRevby3",
+  "snapshot_id": "admPAAAAAAAQuz1U9RFcUiw9w4dz50gS",
   "tracks": [
     {
       "added_at": null,
@@ -71,6 +71,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Miss Michigan",
+        "url": "https://open.spotify.com/album/403xK3xBydTLfaBxctsZ2X"
+      },
+      "artists": [
+        {
+          "name": "Momo Boyd",
+          "url": "https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd"
+        },
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "duration_ms": 178716,
+      "name": "Big Country",
+      "url": "https://open.spotify.com/track/2Mp25bWz6FUGpk2AIhDE46"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Metamorphosis Complete",
         "url": "https://open.spotify.com/album/0mfdTcr1Y7vlMSXDpKAZ2G"
       },
@@ -103,26 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Miss Michigan",
-        "url": "https://open.spotify.com/album/403xK3xBydTLfaBxctsZ2X"
-      },
-      "artists": [
-        {
-          "name": "Momo Boyd",
-          "url": "https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd"
-        },
-        {
-          "name": "Infinity Song",
-          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
-        }
-      ],
-      "duration_ms": 178716,
-      "name": "Big Country",
-      "url": "https://open.spotify.com/track/2Mp25bWz6FUGpk2AIhDE46"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "American Love Song",
         "url": "https://open.spotify.com/album/1v87Db6C6ll3Ha7eZzEOOt"
       },
@@ -139,6 +139,26 @@
       "duration_ms": 201949,
       "name": "American Love Song",
       "url": "https://open.spotify.com/track/2qPRysyqvhLiZKK44fA2P4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Miss Michigan",
+        "url": "https://open.spotify.com/album/403xK3xBydTLfaBxctsZ2X"
+      },
+      "artists": [
+        {
+          "name": "Momo Boyd",
+          "url": "https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd"
+        },
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "duration_ms": 204374,
+      "name": "Cold Hands",
+      "url": "https://open.spotify.com/track/2ZaTomBYLVmHjC3SCfjfl6"
     },
     {
       "added_at": null,
@@ -204,9 +224,9 @@
           "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
         }
       ],
-      "duration_ms": 204374,
-      "name": "Cold Hands",
-      "url": "https://open.spotify.com/track/2ZaTomBYLVmHjC3SCfjfl6"
+      "duration_ms": 238251,
+      "name": "Second Best",
+      "url": "https://open.spotify.com/track/0pLnMvw4qjAyhKXTKg6RRK"
     },
     {
       "added_at": null,
@@ -259,22 +279,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Miss Michigan",
-        "url": "https://open.spotify.com/album/403xK3xBydTLfaBxctsZ2X"
+        "name": "Everything Is Gonna Be Alright",
+        "url": "https://open.spotify.com/album/20Aiwmkcgo4LVORJQenn0F"
       },
       "artists": [
-        {
-          "name": "Momo Boyd",
-          "url": "https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd"
-        },
         {
           "name": "Infinity Song",
           "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
         }
       ],
-      "duration_ms": 238251,
-      "name": "Second Best",
-      "url": "https://open.spotify.com/track/0pLnMvw4qjAyhKXTKg6RRK"
+      "duration_ms": 198636,
+      "name": "Everything Is Gonna Be Alright",
+      "url": "https://open.spotify.com/track/0E7ZCzPoxcMM90ppB47d1Y"
     },
     {
       "added_at": null,
@@ -291,22 +307,6 @@
       "duration_ms": 234691,
       "name": "The Sunshine",
       "url": "https://open.spotify.com/track/6iefEnldbME0ecUsWYgbgC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Everything Is Gonna Be Alright",
-        "url": "https://open.spotify.com/album/20Aiwmkcgo4LVORJQenn0F"
-      },
-      "artists": [
-        {
-          "name": "Infinity Song",
-          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
-        }
-      ],
-      "duration_ms": 198636,
-      "name": "Everything Is Gonna Be Alright",
-      "url": "https://open.spotify.com/track/0E7ZCzPoxcMM90ppB47d1Y"
     },
     {
       "added_at": null,
@@ -343,22 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Metamorphosis Complete",
-        "url": "https://open.spotify.com/album/0mfdTcr1Y7vlMSXDpKAZ2G"
-      },
-      "artists": [
-        {
-          "name": "Infinity Song",
-          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
-        }
-      ],
-      "duration_ms": 234563,
-      "name": "Comedy",
-      "url": "https://open.spotify.com/track/5EcUvUZ7wioHI6KEb4Q6YS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Feels Like Home, Vol. 1",
         "url": "https://open.spotify.com/album/6yDHXqAdyjYi4f1FBbl8dc"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 379619,
       "name": "Promise Keeper",
       "url": "https://open.spotify.com/track/6nHkgmNaCyfc5D2mLNIkni"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Metamorphosis Complete",
+        "url": "https://open.spotify.com/album/0mfdTcr1Y7vlMSXDpKAZ2G"
+      },
+      "artists": [
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "duration_ms": 234563,
+      "name": "Comedy",
+      "url": "https://open.spotify.com/track/5EcUvUZ7wioHI6KEb4Q6YS"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Metamorphosis Complete",
-        "url": "https://open.spotify.com/album/0mfdTcr1Y7vlMSXDpKAZ2G"
-      },
-      "artists": [
-        {
-          "name": "Infinity Song",
-          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
-        }
-      ],
-      "duration_ms": 200551,
-      "name": "More Beautiful",
-      "url": "https://open.spotify.com/track/3ZPG1HLi5JCidWkB0eCJEQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mad Love",
         "url": "https://open.spotify.com/album/5qmLJG8mG05p5R9Gu2ckGn"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 233053,
       "name": "Ride Or Die",
       "url": "https://open.spotify.com/track/6buSeaKiMT7DYkwZxRGtFY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Metamorphosis Complete",
+        "url": "https://open.spotify.com/album/0mfdTcr1Y7vlMSXDpKAZ2G"
+      },
+      "artists": [
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "duration_ms": 200551,
+      "name": "More Beautiful",
+      "url": "https://open.spotify.com/track/3ZPG1HLi5JCidWkB0eCJEQ"
     },
     {
       "added_at": null,
@@ -483,6 +483,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mad Love",
+        "url": "https://open.spotify.com/album/5qmLJG8mG05p5R9Gu2ckGn"
+      },
+      "artists": [
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "duration_ms": 330533,
+      "name": "When The Rain Starts",
+      "url": "https://open.spotify.com/track/5NqQuvIwPJ6cJ7Y7BLyRCr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Broken Instrument",
         "url": "https://open.spotify.com/album/5NLCrRypAi1t9hwKi6w9jG"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 301106,
       "name": "Don\u2019t You Ever",
       "url": "https://open.spotify.com/track/4QBeaYQMz6cx1Np9XNsprp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mad Love",
-        "url": "https://open.spotify.com/album/5qmLJG8mG05p5R9Gu2ckGn"
-      },
-      "artists": [
-        {
-          "name": "Infinity Song",
-          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
-        }
-      ],
-      "duration_ms": 330533,
-      "name": "When The Rain Starts",
-      "url": "https://open.spotify.com/track/5NqQuvIwPJ6cJ7Y7BLyRCr"
     },
     {
       "added_at": null,
@@ -551,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Infinity Song LIVE",
-        "url": "https://open.spotify.com/album/0n1hEUk6RJwHH5Wh8z3AtN"
-      },
-      "artists": [
-        {
-          "name": "Infinity Song",
-          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
-        }
-      ],
-      "duration_ms": 89235,
-      "name": "Hater's Reprise - Live",
-      "url": "https://open.spotify.com/track/2zqWaSUAAn4JcBP0VtBe7o"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mad Love",
         "url": "https://open.spotify.com/album/5qmLJG8mG05p5R9Gu2ckGn"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 228600,
       "name": "Just Loving Me",
       "url": "https://open.spotify.com/track/1Wg313696XypzoaKJktZ6o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Infinity Song LIVE",
+        "url": "https://open.spotify.com/album/0n1hEUk6RJwHH5Wh8z3AtN"
+      },
+      "artists": [
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "duration_ms": 89235,
+      "name": "Hater's Reprise - Live",
+      "url": "https://open.spotify.com/track/2zqWaSUAAn4JcBP0VtBe7o"
     },
     {
       "added_at": null,
@@ -615,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Infinity's Song",
-        "url": "https://open.spotify.com/album/0GoLzvpZeGV5OFOn1RZUkI"
-      },
-      "artists": [
-        {
-          "name": "Infinity Song",
-          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
-        }
-      ],
-      "duration_ms": 234356,
-      "name": "Raindrops Keep Falling On My Head",
-      "url": "https://open.spotify.com/track/4PFh0a7r03jCNHtj69mvA3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mad Love",
         "url": "https://open.spotify.com/album/5qmLJG8mG05p5R9Gu2ckGn"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 207360,
       "name": "We Are The Light",
       "url": "https://open.spotify.com/track/2eevyW5N3mnqwpYIOjXStk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Infinity's Song",
+        "url": "https://open.spotify.com/album/0GoLzvpZeGV5OFOn1RZUkI"
+      },
+      "artists": [
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "duration_ms": 234356,
+      "name": "Raindrops Keep Falling On My Head",
+      "url": "https://open.spotify.com/track/4PFh0a7r03jCNHtj69mvA3"
     },
     {
       "added_at": null,
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
         }
       ],
-      "duration_ms": 245133,
-      "name": "Beautiful",
-      "url": "https://open.spotify.com/track/2fOE0me07CZIsqLwS8cdK5"
+      "duration_ms": 269909,
+      "name": "Love Is Watching",
+      "url": "https://open.spotify.com/track/65xhNReVnrQevKNnC3xgbm"
     },
     {
       "added_at": null,
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
         }
       ],
-      "duration_ms": 269909,
-      "name": "Love Is Watching",
-      "url": "https://open.spotify.com/track/65xhNReVnrQevKNnC3xgbm"
+      "duration_ms": 245133,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/2fOE0me07CZIsqLwS8cdK5"
     },
     {
       "added_at": null,

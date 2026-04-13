@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6obleAi6sudUqcaSK7Gqbp.md) - [plain]
 
 > 
 
-[evelyn](https://open.spotify.com/user/1229726454) - 24 likes - 47 songs - 3 hr 11 min
+[evelyn](https://open.spotify.com/user/1229726454) - 23 likes - 47 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

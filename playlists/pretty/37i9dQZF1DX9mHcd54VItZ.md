@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best new and classic South African Rock\. Cover: Blush
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,227 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,233 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 26 | [My Huis](https://open.spotify.com/track/4J7eWAverusqBod1ECoqFc) | [Van Der Aven](https://open.spotify.com/artist/24YKf4cTz4brZ8j8UShB2e), [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [My Huis](https://open.spotify.com/album/4LFMmXfu0M8LakG0Rxrvad) | 3:30 |
 | 27 | [The Right Words](https://open.spotify.com/track/7EHocaSQCcyFBgbYILTYM2) | [Man As Machine](https://open.spotify.com/artist/0gMp8WEb3FwRk5WHuCDj3k) | [The Right Words](https://open.spotify.com/album/6qmoBD3upg3iUvNkysr2fB) | 3:40 |
 | 28 | [Blue Eyes](https://open.spotify.com/track/7DirY6NZx5zbsNChNHUZNb) | [Springbok Nude Girls](https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh) | [Surpass The Power](https://open.spotify.com/album/7hCunCzhFrtnlE24iOtQwY) | 3:53 |
-| 29 | [By Jou](https://open.spotify.com/track/4C8xraIkYwd4Iq1Na4jx6q) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [By Jou](https://open.spotify.com/album/3WBPVjsyDeQabBrLz4c0gi) | 3:20 |
+| 29 | [Hemel Op Die Platteland](https://open.spotify.com/track/5I3Az6oo2LaU1P8yvRk22d) | [Fokofpolisiekar](https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x) | [As Jy Met Vuur Speel Sal Jy Brand](https://open.spotify.com/album/5gSfDHZrqgG02WCE30NRvM) | 2:39 |
 | 30 | [Take It Or Leave It](https://open.spotify.com/track/72gLIIWyUjQxBveANncBVH) | [Snowing Down South](https://open.spotify.com/artist/0MRawG0uBBe1Zz7tmXfZoN) | [Take It Or Leave It](https://open.spotify.com/album/1iUacaP0QivpSjfxyvpnlo) | 2:47 |
-| 31 | [Hemel Op Die Platteland](https://open.spotify.com/track/5I3Az6oo2LaU1P8yvRk22d) | [Fokofpolisiekar](https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x) | [As Jy Met Vuur Speel Sal Jy Brand](https://open.spotify.com/album/5gSfDHZrqgG02WCE30NRvM) | 2:39 |
+| 31 | [By Jou](https://open.spotify.com/track/4C8xraIkYwd4Iq1Na4jx6q) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [By Jou](https://open.spotify.com/album/3WBPVjsyDeQabBrLz4c0gi) | 3:20 |
 | 32 | [Cowboys Of Doom](https://open.spotify.com/track/3sLufhrnJMJ6D5SB3Kx0mC) | [We Kill Cowboys](https://open.spotify.com/artist/2M7xonKOedqLEmBlxm1U8k), [Jay Smith](https://open.spotify.com/artist/1qS4fe56ZPYitRYMlJsLaO) | [Cowboys Of Doom](https://open.spotify.com/album/1VC01TRAKUqqNw3QsyLfbB) | 4:59 |
 | 33 | [Kannie Langer](https://open.spotify.com/track/16OP0hwomGCAkh7xStFga9) | [Bonus in Desember](https://open.spotify.com/artist/3qmrl2CODNuh7DyxyHnv7t) | [Kannie Langer](https://open.spotify.com/album/55hLanMo7hAShc3tr85cAr) | 2:53 |
 | 34 | [KLEUR](https://open.spotify.com/track/4lSRuva7KOITTOIf5JONxH) | [MOEGOE](https://open.spotify.com/artist/3LuJllzfjmmo5p6R4HRbrZ) | [KLEUR](https://open.spotify.com/album/3jEq8k4lYAkqTwHawZg8E0) | 3:21 |

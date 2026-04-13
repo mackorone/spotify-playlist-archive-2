@@ -4,7 +4,7 @@
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: Non Servium.
 
-449 songs - 22 hr 46 min
+450 songs - 22 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Arguiñano Eta](https://open.spotify.com/track/2OMglONIz0gKFC0cKAiwmO) | [El Esfinter de la Britney](https://open.spotify.com/artist/40mgPMNVyvF9iyljXDqo2N) | [Arguiñano Eta](https://open.spotify.com/album/7wcSeTVttIdwtrRcH4tdAP) | 1:48 | 2025-06-05 | 2025-08-01 |
 | [Asesino](https://open.spotify.com/track/5Ea2vv462Slyk3xh9mBRnV) | [Anti\-Regimen](https://open.spotify.com/artist/31Z203RSSNLMPBEiVSlKPX) | [Asesino](https://open.spotify.com/album/7CWCkNZXurX0lIxMxsu60Z) | 1:51 | 2025-04-10 | 2025-05-16 |
 | [Asesinos](https://open.spotify.com/track/0CRt6D5Rvprkc7ldCixcSJ) | [Manifa](https://open.spotify.com/artist/7ynFnXnaMHYbTeT4JQ97tc) | [Asesinos](https://open.spotify.com/album/795sm61CeAsygXN9TlRnNc) | 2:56 | 2023-12-08 |  |
-| [Así Es la Vida](https://open.spotify.com/track/12obLt5jLRqJTWwbV7HywQ) | [Los De Marras](https://open.spotify.com/artist/0E1P5uNgbD11POIDxFROHh) | [Vulnerable](https://open.spotify.com/album/7hL5n61zepkS2WQ1MCTpCI) | 3:53 | 2024-04-18 |  |
+| [Así Es la Vida](https://open.spotify.com/track/12obLt5jLRqJTWwbV7HywQ) | [Los De Marras](https://open.spotify.com/artist/0E1P5uNgbD11POIDxFROHh) | [Vulnerable](https://open.spotify.com/album/7hL5n61zepkS2WQ1MCTpCI) | 3:53 | 2024-04-18 | 2026-04-13 |
 | [Así Es la Vida](https://open.spotify.com/track/2cGNb9Z0OrUjL0xcfPGPO7) | [Los De Marras](https://open.spotify.com/artist/0E1P5uNgbD11POIDxFROHh) | [Vulnerable](https://open.spotify.com/album/7BbQMEtJZ7ut8EDjcnrGyd) | 3:53 | 2023-12-08 | 2024-04-19 |
 | [ATEAK ITXI DIRA](https://open.spotify.com/track/66swNe3lefYMMs3tvIDGwy) | [Brigade Loco](https://open.spotify.com/artist/7vHtzjOcvBFheRysRt9BWd) | [ATEAK ITXI DIRA](https://open.spotify.com/album/7yS4Qfi7wTGCsEMdN4Lgbb) | 2:54 | 2025-01-30 | 2025-02-28 |
 | [Autosuficiencia](https://open.spotify.com/track/5p4QGTJiTFStnddffBS4bK) | [Paralisis Permanente](https://open.spotify.com/artist/5OIvhuAngAyS1rt3MU5r3k) | [Los singles y primeras grabaciones](https://open.spotify.com/album/16khoJtvvbN9y7hk8zRtke) | 2:07 | 2023-12-08 | 2024-12-20 |
@@ -375,6 +375,7 @@
 | [Sahara](https://open.spotify.com/track/5hDQhCL9BrZPsBdhCcZqRc) | [Pota en la Sopa](https://open.spotify.com/artist/4fOyA8pQ1Td1iE1kCPKCOO), [Ska\-P](https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl) | [Sahara](https://open.spotify.com/album/27b6R1rArOqNMAKmNuXMBG) | 2:48 | 2024-06-27 | 2024-07-20 |
 | [Salgo a la Calle](https://open.spotify.com/track/3KOep0HeA6PxeoLT4I4Ixx) | [Elektroduendes](https://open.spotify.com/artist/7oboTHVarRYloS0WJxGSJW) | [Salgo a la Calle](https://open.spotify.com/album/3wdwyHXHc5NKboxzLsE6pS) | 4:07 | 2023-12-08 | 2024-04-05 |
 | [Salomé](https://open.spotify.com/track/582zJuJGv7vdEfG1lmmwZk) | [Afónica Naranjo](https://open.spotify.com/artist/31m17aNHvEGETXMWWKw1XC) | [Salomé](https://open.spotify.com/album/3Nto07Udigz5f1Dpv8dnco) | 3:05 | 2025-05-15 | 2025-07-18 |
+| [Salve](https://open.spotify.com/track/3A5g4sFwzahqS2B3NeqNV2) | [La Polla Records](https://open.spotify.com/artist/3vHlZN6pTa2zOl2eVxiEdJ) | [Salve](https://open.spotify.com/album/1XCAxFWUmdLpI0WEtfBYmU) | 3:06 | 2026-04-09 |  |
 | [Salve](https://open.spotify.com/track/6KQLnQDDqaqGqog4jsiYb7) | [La Polla Records](https://open.spotify.com/artist/3vHlZN6pTa2zOl2eVxiEdJ) | [Salve](https://open.spotify.com/album/57AwljF0RpTwtEd5A1SzUP) | 3:06 | 2023-12-08 | 2024-04-19 |
 | [Sarri, Sarri](https://open.spotify.com/track/3Ikl1NP2ZnR2QktOqkdQfi) | [Kortatu](https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann) | [A Frontline Compilation](https://open.spotify.com/album/2GUirHCExX549jcIgaYWKO) | 4:05 | 2023-12-08 | 2024-12-20 |
 | [Seguimos Aquí](https://open.spotify.com/track/05g06Nra53owwkDiZPlFHI) | [Engaño Manifiesto](https://open.spotify.com/artist/0cnl8NwbODpVqEc5sUGT9c), [Visita Inesperada](https://open.spotify.com/artist/6P0ptQ4ig29OLLOZNv0DfC) | [Seguimos Aquí](https://open.spotify.com/album/68IAhBscj9tOQkufgMLGue) | 4:17 | 2024-05-23 | 2024-06-17 |

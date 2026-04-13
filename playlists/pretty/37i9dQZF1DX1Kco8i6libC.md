@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Kco8i6libC.md) - [plain]
 
 > 狗年生的人忠誠負責、認真有禮，而且是人生最佳伙伴之一哦！看看有哪些歌手吧！Cover: 王心凌 \(Cyndi Wang\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,282 likes - 52 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,283 likes - 52 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

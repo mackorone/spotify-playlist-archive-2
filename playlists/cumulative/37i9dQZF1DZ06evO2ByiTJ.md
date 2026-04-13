@@ -4,7 +4,7 @@
 
 > This is Elaine Martins\. The essential tracks, all in one playlist.
 
-82 songs - 6 hr 12 min
+83 songs - 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Chegou Um Tempo Novo](https://open.spotify.com/track/2fwtvB5PDJ88Cnm3BuabjF) | [Fabiana Sinfrônio](https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Chegou Um Tempo Novo](https://open.spotify.com/album/1pJOzwn6LVrNtB5BvDQBYf) | 4:46 | 2025-02-02 |  |
 | [Colhendo Frutos](https://open.spotify.com/track/70NUGliFKWIQca4lC0YiQp) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Santificação](https://open.spotify.com/album/2JkGjKimc5PRRA4CLCw0Mj) | 3:22 | 2025-09-18 |  |
 | [Colhendo Frutos \(Ao Vivo\)](https://open.spotify.com/track/5YQRkkXA0efmfBgd5cmoGf) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Elaine Martins \(Ao Vivo\)](https://open.spotify.com/album/5S7CFFCOS5RKNB6gpDmD3U) | 3:23 | 2023-07-09 | 2025-04-19 |
-| [Coração de Amor](https://open.spotify.com/track/5mUJM4nc9shy1fvGp8NagS) | [Kleber Lucas](https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Coração de Amor](https://open.spotify.com/album/0UhkVBk40nVYUtAt7ELzuB) | 3:57 | 2023-07-09 |  |
+| [Coração de Amor](https://open.spotify.com/track/5mUJM4nc9shy1fvGp8NagS) | [Kleber Lucas](https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Coração de Amor](https://open.spotify.com/album/0UhkVBk40nVYUtAt7ELzuB) | 3:57 | 2023-07-09 | 2026-04-13 |
 | [Coração Valente \(Ao Vivo\)](https://open.spotify.com/track/3lZEjmgn9yQsSRWkY6XWRl) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Coração Valente \(Ao Vivo\)](https://open.spotify.com/album/0uUbBvXPDtSXPBQMscajl7) | 4:28 | 2024-08-12 |  |
 | [Criança Nota 10](https://open.spotify.com/track/2kPwaMnS3qowXfg8aBh7nn) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8), [Coral de Crianças](https://open.spotify.com/artist/2qUfzKBWjm4UpH1MjdKnSi) | [Criança Nota 10](https://open.spotify.com/album/2nFtRppoPctEbxAUTpynL3) | 2:44 | 2023-07-09 |  |
 | [Cumpra o Seu Chamado \(Ao Vivo\)](https://open.spotify.com/track/1m6qnO7l4JtqbQILMqRONj) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Cumpra o Seu Chamado \(Ao Vivo\)](https://open.spotify.com/album/0qTJpbVoBxVpAEFOMDRBDS) | 4:26 | 2023-07-09 |  |
@@ -74,6 +74,7 @@
 | [Quem é Este?](https://open.spotify.com/track/7IQ2ohWCn0riWIs580kI0g) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Posso Confiar](https://open.spotify.com/album/3A5WfixvsA44oIkknRbupr) | 7:04 | 2023-07-09 | 2024-01-28 |
 | [Raridade \- Live MK 10 MI](https://open.spotify.com/track/6uMYKg90PUb1ShNbQ2l5pH) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Elaine Martins \(Ao Vivo\) \- Live MK 10 MI](https://open.spotify.com/album/18FC3cu0Q7b8F2pCPc2DuD) | 4:58 | 2023-07-09 | 2025-06-20 |
 | [Reaja](https://open.spotify.com/track/7DpeczFLm2elOLEw6Q2jLe) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Reaja](https://open.spotify.com/album/17r33aBrTu1nRgMKdnWWrB) | 4:16 | 2025-08-14 |  |
+| [Reverência \(Ao Vivo\)](https://open.spotify.com/track/5GuTSu2iZKu0Vb6EBPRQGE) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Reverência \(Ao Vivo\)](https://open.spotify.com/album/7Gl3WqPY0xOY4s9i9zFuGg) | 4:54 | 2026-04-13 |  |
 | [Rompendo](https://open.spotify.com/track/6sB7p8BHhA2MqTU7hZFxvT) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Rompendo](https://open.spotify.com/album/0L9ZMTBc8ZuSL8ExboD92L) | 4:52 | 2025-02-21 | 2025-03-01 |
 | [Santificação](https://open.spotify.com/track/30ildQSiiB2W4CeiZ23oul) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Santificação](https://open.spotify.com/album/2JkGjKimc5PRRA4CLCw0Mj) | 4:33 | 2023-07-09 |  |
 | [Santificação \(Ao Vivo\)](https://open.spotify.com/track/3Bg1HJtKZAH0sH07vY9dn9) | [Thalita Roberta](https://open.spotify.com/artist/1yZUa312JkTmgQCEzp8QTc), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Santificação \(Ao Vivo\)](https://open.spotify.com/album/0w3FVZ8PUX84dgKIhOBjns) | 4:14 | 2023-07-09 | 2025-02-21 |

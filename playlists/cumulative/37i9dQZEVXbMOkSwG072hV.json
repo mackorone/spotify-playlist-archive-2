@@ -18201,6 +18201,24 @@
     },
     {
       "album": {
+        "name": "CONEX\u00c3O",
+        "url": "https://open.spotify.com/album/05VaK2NqUsfSKjmsppvemA"
+      },
+      "artists": [
+        {
+          "name": "O APAIXONADO",
+          "url": "https://open.spotify.com/artist/5OeWKDkypGHFwfNW9x1Ccb"
+        }
+      ],
+      "date_added": "2026-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311840,
+      "name": "CONEX\u00c3O",
+      "url": "https://open.spotify.com/track/3Qwh7wT2c3o6nrFpj3c74k"
+    },
+    {
+      "album": {
         "name": "Conex\u00f5es de M\u00e1fia",
         "url": "https://open.spotify.com/album/6e3XpW0ajuqXkeyFGpeJM5"
       },
@@ -71888,7 +71906,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 107147,
       "name": "RITMADA SAYONARA",
       "url": "https://open.spotify.com/track/00EAp4hbsbcPR2sRXQx0Li"

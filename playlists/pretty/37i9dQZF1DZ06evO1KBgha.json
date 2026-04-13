@@ -1,12 +1,12 @@
 {
   "description": "This is Kenia Os. The essential tracks, all in one playlist.",
-  "num_followers": 376197,
+  "num_followers": 376486,
   "original_name": "This Is Kenia Os",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adbsAAAAAABAspI95u1YaeE/N9/1jo+u",
+  "snapshot_id": "admPAAAAAAAcKFNs5etrxqj4wk9T/nrS",
   "tracks": [
     {
       "added_at": null,
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
         }
       ],
-      "duration_ms": 53773,
-      "name": "Breaking News (Interlude)",
-      "url": "https://open.spotify.com/track/2m7TRMonJAxKIw2y3sJFIp"
+      "duration_ms": 152765,
+      "name": "Boys",
+      "url": "https://open.spotify.com/track/1YVjjxE9UErzHRL6hqA2CH"
     },
     {
       "added_at": null,
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
         }
       ],
-      "duration_ms": 152765,
-      "name": "Boys",
-      "url": "https://open.spotify.com/track/1YVjjxE9UErzHRL6hqA2CH"
+      "duration_ms": 53773,
+      "name": "Breaking News (Interlude)",
+      "url": "https://open.spotify.com/track/2m7TRMonJAxKIw2y3sJFIp"
     },
     {
       "added_at": null,
@@ -691,42 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rumores",
-        "url": "https://open.spotify.com/album/1NK0ocpcz8JpZfsdzNYJid"
-      },
-      "artists": [
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        }
-      ],
-      "duration_ms": 202594,
-      "name": "Rumores",
-      "url": "https://open.spotify.com/track/3OUkQJY3YQ00HwD5GPuk7A"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mentiroso",
-        "url": "https://open.spotify.com/album/0NAINCWZldqYy5iY2CL4jq"
-      },
-      "artists": [
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 147766,
-      "name": "Mentiroso",
-      "url": "https://open.spotify.com/track/5iXCrcLT5iirF2UTmaa284"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Joder",
         "url": "https://open.spotify.com/album/4AuyjPAbIqovnGdkiashml"
       },
@@ -747,22 +711,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Plut\u00f3n",
-        "url": "https://open.spotify.com/album/6etaamYe4bL3P9MHoDcMSQ"
+        "name": "Mentiroso",
+        "url": "https://open.spotify.com/album/0NAINCWZldqYy5iY2CL4jq"
       },
       "artists": [
-        {
-          "name": "CNCO",
-          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
-        },
         {
           "name": "Kenia Os",
           "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
         }
       ],
-      "duration_ms": 165533,
-      "name": "Plut\u00f3n",
-      "url": "https://open.spotify.com/track/0w41wEubHTq13Hh4tfRCke"
+      "duration_ms": 147766,
+      "name": "Mentiroso",
+      "url": "https://open.spotify.com/track/5iXCrcLT5iirF2UTmaa284"
     },
     {
       "added_at": null,
@@ -779,6 +739,46 @@
       "duration_ms": 236288,
       "name": "Kenia Roast Yourself",
       "url": "https://open.spotify.com/track/3Z3cDIMrnPhIv0iCuhOqhY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rumores",
+        "url": "https://open.spotify.com/album/1NK0ocpcz8JpZfsdzNYJid"
+      },
+      "artists": [
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 202594,
+      "name": "Rumores",
+      "url": "https://open.spotify.com/track/3OUkQJY3YQ00HwD5GPuk7A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Plut\u00f3n",
+        "url": "https://open.spotify.com/album/6etaamYe4bL3P9MHoDcMSQ"
+      },
+      "artists": [
+        {
+          "name": "CNCO",
+          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
+        },
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 165533,
+      "name": "Plut\u00f3n",
+      "url": "https://open.spotify.com/track/0w41wEubHTq13Hh4tfRCke"
     },
     {
       "added_at": null,

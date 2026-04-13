@@ -1971,6 +1971,24 @@
     },
     {
       "album": {
+        "name": "Chcia\u0142bym by\u0107 kotem",
+        "url": "https://open.spotify.com/album/0j3LDKTuqYsg3TbBnylyEB"
+      },
+      "artists": [
+        {
+          "name": "Wiktor Walig\u00f3ra",
+          "url": "https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189270,
+      "name": "Chcia\u0142bym by\u0107 kotem",
+      "url": "https://open.spotify.com/track/235BIVbYtJp4090aHD60VR"
+    },
+    {
+      "album": {
         "name": "Zo\u0142za",
         "url": "https://open.spotify.com/album/2HYqAYWxtSpgFQ4QPvU500"
       },
@@ -6084,7 +6102,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 131661,
       "name": "Kumple <3 - MAVOOI Remix",
       "url": "https://open.spotify.com/track/2IzsajD0fEx4pITXTKt5J0"
@@ -7866,7 +7884,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 306892,
       "name": "nad ranem (kr\u00f3tki metra\u017c)",
       "url": "https://open.spotify.com/track/4bT7K59EKjtBBn4RtGxvN1"
@@ -10790,6 +10808,24 @@
       "duration_ms": 268941,
       "name": "rom-com",
       "url": "https://open.spotify.com/track/0yRWI0NaGJKuRfFvQPXW1n"
+    },
+    {
+      "album": {
+        "name": "Room Of Lies",
+        "url": "https://open.spotify.com/album/2MmHtirw3z96fZr2EAmsR7"
+      },
+      "artists": [
+        {
+          "name": "emi",
+          "url": "https://open.spotify.com/artist/5yUvntXwc1otvnZ8Bhxo85"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170880,
+      "name": "Room Of Lies",
+      "url": "https://open.spotify.com/track/1pAGEVfhuIkMUwH0JJdj8o"
     },
     {
       "album": {

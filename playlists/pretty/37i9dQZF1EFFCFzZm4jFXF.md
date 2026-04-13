@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 | 11 | [Ain't Letting You Down](https://open.spotify.com/track/2U3K7r9F5Ufnj2hkaKwR0M) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Saksham](https://open.spotify.com/artist/0v51lDHIlZBqe2F6yEeskF), [Scott Quinn](https://open.spotify.com/artist/0FlBLkbHEvmCMu2X46Ail1) | [ORIGO](https://open.spotify.com/album/1Fw0y4iPr8b9SF3pohkBic) | 4:21 |
 | 12 | [Beautiful](https://open.spotify.com/track/3nM6TlNmnR7gFmcWB3vojl) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Small Town Boy \(Track By Track\)](https://open.spotify.com/album/4fEgAL4ge9hHhxVDCUZbeF) | 4:17 |
 | 13 | [Fool & The Thief](https://open.spotify.com/track/5ciOOIdA1BkqEK9kbNm80n) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Fool & The Thief](https://open.spotify.com/album/61yQsAjmpQZGqwnB0AaRn2) | 2:57 |
-| 14 | [Learn To Let Go](https://open.spotify.com/track/0bkhYOTZjerRS8V6IzTwYP) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [Learn To Let Go](https://open.spotify.com/album/2plYHT0IWYG709H7dJyY14) | 3:30 |
-| 15 | [Crazy Bitch](https://open.spotify.com/track/1ALb2cQBsy82S5kmBVkpxD) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [Crazy Bitch](https://open.spotify.com/album/3nTpGSWw548JAYpwVJS4jZ) | 3:02 |
+| 14 | [Crazy Bitch](https://open.spotify.com/track/1ALb2cQBsy82S5kmBVkpxD) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [Crazy Bitch](https://open.spotify.com/album/3nTpGSWw548JAYpwVJS4jZ) | 3:02 |
+| 15 | [Learn To Let Go](https://open.spotify.com/track/0bkhYOTZjerRS8V6IzTwYP) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [Learn To Let Go](https://open.spotify.com/album/2plYHT0IWYG709H7dJyY14) | 3:30 |
 | 16 | [Light Up](https://open.spotify.com/track/4nwsFIIP3YmIVRpReo0JrC) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Remember To Remember Me](https://open.spotify.com/album/3k1r8pNLVD6Lbq0Qyr9yfk) | 3:04 |
 | 17 | [Falling into You](https://open.spotify.com/track/02GRplM4IhpuHaCpKbbKOm) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Falling into You](https://open.spotify.com/album/6NiqDjyRBAosW0HAdREPdv) | 3:55 |
 | 18 | [too late](https://open.spotify.com/track/4ggEgjXUdpsh80hbJRvP6t) | [Ruben Pol](https://open.spotify.com/artist/1eCiBMynCZBUlq0v5FeB2w) | [too late](https://open.spotify.com/album/0iPembrErla1mAj0jFjvn4) | 3:03 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 | 125 | [Pon Me](https://open.spotify.com/track/6gNgcVrZceb97UQFZbKPCk) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 4:15 |
 | 126 | [Find You](https://open.spotify.com/track/0wtNmuETEesYuB73ni1tZU) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 3:48 |
 
-Snapshot ID: `AcOmgAAAAADAdcDauSvImp3HIqnb8KeU`
+Snapshot ID: `AcOsIAAAAAB7/kTgDXCBvUsIE3HTenWb`

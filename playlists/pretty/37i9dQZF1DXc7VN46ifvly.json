@@ -1,6 +1,6 @@
 {
   "description": "\ud55c\uacc4\ub97c \ub6f0\uc5b4\ub118\ub294 \ub2f9\uc2e0\uc744 \uc6b4\ub3d9\uc744 \uc704\ud558\uc5ec.",
-  "num_followers": 20821,
+  "num_followers": 20831,
   "original_name": "3\ub300 1000",
   "owner": {
     "name": "Spotify",
@@ -571,6 +571,26 @@
     {
       "added_at": "2025-12-26 06:58:41",
       "album": {
+        "name": "The Motto",
+        "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 164818,
+      "name": "The Motto",
+      "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
+    },
+    {
+      "added_at": "2025-12-26 06:58:41",
+      "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
       },
@@ -591,26 +611,6 @@
       "duration_ms": 207306,
       "name": "Niagara Falls (Foot or 2) [with Travis Scott & 21 Savage]",
       "url": "https://open.spotify.com/track/4WuOWVnAqvEQxgSRrspBgt"
-    },
-    {
-      "added_at": "2025-12-26 06:58:41",
-      "album": {
-        "name": "The Motto",
-        "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 164818,
-      "name": "The Motto",
-      "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
     },
     {
       "added_at": "2025-12-26 06:58:41",
@@ -639,6 +639,22 @@
     {
       "added_at": "2025-12-26 06:58:41",
       "album": {
+        "name": "You Never Walk Alone",
+        "url": "https://open.spotify.com/album/6THpewjqJ15ORBJkh5CEYb"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 231859,
+      "name": "Not Today",
+      "url": "https://open.spotify.com/track/3wyrhwPpV8uhMMEms4vG3X"
+    },
+    {
+      "added_at": "2025-12-26 06:58:41",
+      "album": {
         "name": "21 Reasons (feat. Ella Henderson)",
         "url": "https://open.spotify.com/album/118PKNjhP4NWcrW5OjMwzc"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 155253,
       "name": "21 Reasons (feat. Ella Henderson)",
       "url": "https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR"
-    },
-    {
-      "added_at": "2025-12-26 06:58:41",
-      "album": {
-        "name": "You Never Walk Alone",
-        "url": "https://open.spotify.com/album/6THpewjqJ15ORBJkh5CEYb"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 231859,
-      "name": "Not Today",
-      "url": "https://open.spotify.com/track/3wyrhwPpV8uhMMEms4vG3X"
     },
     {
       "added_at": "2025-12-26 06:58:41",
@@ -723,6 +723,22 @@
     {
       "added_at": "2025-12-26 06:58:41",
       "album": {
+        "name": "Love Yourself \u627f 'Her'",
+        "url": "https://open.spotify.com/album/07Rq17GzCnIdWJcyVHb57G"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 238193,
+      "name": "MIC Drop",
+      "url": "https://open.spotify.com/track/4gZGAVECoiutzp64KSHNjE"
+    },
+    {
+      "added_at": "2025-12-26 06:58:41",
+      "album": {
         "name": "act ii: date @ 8 (feat. Drake) [remix]",
         "url": "https://open.spotify.com/album/7luH8lI8B6c4r3TxLJ2aU1"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 231338,
       "name": "act ii: date @ 8 (feat. Drake) - remix",
       "url": "https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS"
-    },
-    {
-      "added_at": "2025-12-26 06:58:41",
-      "album": {
-        "name": "Love Yourself \u627f 'Her'",
-        "url": "https://open.spotify.com/album/07Rq17GzCnIdWJcyVHb57G"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 238193,
-      "name": "MIC Drop",
-      "url": "https://open.spotify.com/track/4gZGAVECoiutzp64KSHNjE"
     },
     {
       "added_at": "2025-12-26 06:58:41",
@@ -1735,18 +1735,26 @@
     {
       "added_at": "2025-12-26 06:58:41",
       "album": {
-        "name": "Back On My Baby Jesus Sh!t AGAIN",
-        "url": "https://open.spotify.com/album/6IqDBDKg1kWzZfpKorTv0B"
+        "name": "MIC Drop (feat. Desiigner) [Steve Aoki Remix]",
+        "url": "https://open.spotify.com/album/6wIyi2KokLUlWMnn3fQc6C"
       },
       "artists": [
         {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        },
+        {
+          "name": "Desiigner",
+          "url": "https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
         }
       ],
-      "duration_ms": 94520,
-      "name": "ROOF",
-      "url": "https://open.spotify.com/track/1zwvbkUqTozLnmIECvBfgs"
+      "duration_ms": 238726,
+      "name": "MIC Drop (feat. Desiigner) [Steve Aoki Remix]",
+      "url": "https://open.spotify.com/track/6XxpvCj3eLWs3lYowSgC4G"
     },
     {
       "added_at": "2025-12-26 06:58:41",
@@ -1771,26 +1779,18 @@
     {
       "added_at": "2025-12-26 06:58:41",
       "album": {
-        "name": "MIC Drop (feat. Desiigner) [Steve Aoki Remix]",
-        "url": "https://open.spotify.com/album/6wIyi2KokLUlWMnn3fQc6C"
+        "name": "Back On My Baby Jesus Sh!t AGAIN",
+        "url": "https://open.spotify.com/album/6IqDBDKg1kWzZfpKorTv0B"
       },
       "artists": [
         {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        },
-        {
-          "name": "Desiigner",
-          "url": "https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4"
-        },
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
         }
       ],
-      "duration_ms": 238726,
-      "name": "MIC Drop (feat. Desiigner) [Steve Aoki Remix]",
-      "url": "https://open.spotify.com/track/6XxpvCj3eLWs3lYowSgC4G"
+      "duration_ms": 94520,
+      "name": "ROOF",
+      "url": "https://open.spotify.com/track/1zwvbkUqTozLnmIECvBfgs"
     },
     {
       "added_at": "2025-12-26 06:58:41",

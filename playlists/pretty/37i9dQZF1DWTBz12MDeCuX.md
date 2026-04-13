@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: Rubi
 
-[Spotify](https://open.spotify.com/user/spotify) - 480,274 likes - 99 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 480,197 likes - 99 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

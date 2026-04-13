@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : אבנר טואג
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,548 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,552 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 33 | [GODMOTHER \(feat\. Eden Ben Zaken\)](https://open.spotify.com/track/72yhMb8kkkzWxM4UEPywPC) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ), [Eden Ben Zaken](https://open.spotify.com/artist/2eUKkTNZsIuZzV95DM0cbt) | [GODMOTHER \(feat\. Eden Ben Zaken\)](https://open.spotify.com/album/2epktylpW82pRgLMu0FSHo) | 3:11 |
 | 34 | [בוקר טוב יא בני זונות](https://open.spotify.com/track/532BS1J4sSrJ7sYlobX020) | [Peled](https://open.spotify.com/artist/26lUUiDmS9zj1LOOCkZUiS), [Shredhead](https://open.spotify.com/artist/2xooJtcCsHoPmD1nnQUMJm) | [כאב ודמעות 2](https://open.spotify.com/album/5WBWYsMDiN5DrEOHBCUnBA) | 3:37 |
 | 35 | [אולי צריך לתת לזה עוד זמן](https://open.spotify.com/track/7oe7CBzN5sBm0fel0Vssco) | [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC) | [אולי צריך לתת לזה עוד זמן](https://open.spotify.com/album/1QyKspHvGqtsKzbC06NYni) | 3:51 |
-| 36 | [מנגינת הלב](https://open.spotify.com/track/262Qkoq8jUNyzBTUnvT549) | [Aviv Geffen](https://open.spotify.com/artist/73ieysHN7XpJYEnEAYsO3K), [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC) | [מנגינת הלב](https://open.spotify.com/album/4uV4c9I1SiCEZLwDpSZ190) | 2:45 |
+| 36 | [א יידישע ראסטהמאן](https://open.spotify.com/track/39qjT6d16GYsjXkrsHuciH) | [Ehud Banai](https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk), [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx) | [א יידישע ראסטהמאן](https://open.spotify.com/album/13Z3HKPuJMuoG9YOVeTYY1) | 5:04 |
 | 37 | [The Call Of The Flow](https://open.spotify.com/track/0d3rgGVa0WAOrUg1vSR2oA) | [Asaf Avidan](https://open.spotify.com/artist/7t51dSX8ZkKC7VoKRd0lME) | [The Call Of The Flow](https://open.spotify.com/album/4IfBE388B8vhY2AUXBiJLc) | 3:56 |
-| 38 | [א יידישע ראסטהמאן](https://open.spotify.com/track/39qjT6d16GYsjXkrsHuciH) | [Ehud Banai](https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk), [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx) | [א יידישע ראסטהמאן](https://open.spotify.com/album/13Z3HKPuJMuoG9YOVeTYY1) | 5:04 |
+| 38 | [מנגינת הלב](https://open.spotify.com/track/262Qkoq8jUNyzBTUnvT549) | [Aviv Geffen](https://open.spotify.com/artist/73ieysHN7XpJYEnEAYsO3K), [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC) | [מנגינת הלב](https://open.spotify.com/album/4uV4c9I1SiCEZLwDpSZ190) | 2:45 |
 | 39 | [חלק לא נפרד מאחרים](https://open.spotify.com/track/7aOFrZTExl780REZ3CIFiN) | [Ivri Lider](https://open.spotify.com/artist/1L8QE7iUTf9330wcKxnieK), [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [חלק לא נפרד מאחרים](https://open.spotify.com/album/1X7A7EhntT8Lk4c61oPFUL) | 3:28 |
 | 40 | [אפשר לנשום](https://open.spotify.com/track/09zklQ120q209D3xXGrKnZ) | [יושי](https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ) | [אפשר לנשום](https://open.spotify.com/album/4rmIIrkqvUwGiFYfrIQ0uH) | 2:57 |
 | 41 | [היי אני רוצה להגיד לך \- מתוך פסקול האחיות המוצלחות שלי](https://open.spotify.com/track/2JRU7fPnZSAeAw15PZiauH) | [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv) | [האחות הרביעית \- פסקול האחיות המוצלחות שלי](https://open.spotify.com/album/18cEepEacUOra5Y9iJe7xz) | 3:00 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 47 | [כנפי רוח](https://open.spotify.com/track/5V8d8fQGZrGmDxAj9RaKMW) | [Pulkes](https://open.spotify.com/artist/3GuD5lqoDUYEPVx5lyC5gP), [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC), [Tuval Haim](https://open.spotify.com/artist/7bV9WTLQ86dYHoz6xFRSSH) | [כנפי רוח](https://open.spotify.com/album/0zFt4df2XFaUozjI276G9U) | 3:59 |
 | 48 | [Midnight Blue](https://open.spotify.com/track/60qwBKu1GnzJmfbISwAl3T) | [Omer Netzer](https://open.spotify.com/artist/6yCGdZHId0vWEO5NxS4g8d) | [Midnight Blue](https://open.spotify.com/album/6d9kdw3DKd8821NezRmK6Q) | 3:49 |
 | 49 | [לפני שהכל נרדם](https://open.spotify.com/track/3vaYdeBFQpYbcd0VfeZa6X) | [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv), [אבנר טואג](https://open.spotify.com/artist/6O8I8ytHHfWxU2x3yX2p3H) | [לפני שהכל נרדם](https://open.spotify.com/album/1ivPvapAsPBNroZlcfRn9P) | 3:16 |
-| 50 | [טבע](https://open.spotify.com/track/7HNLTGplfBTSEM4oxcvXPF) | [Hila Ruach](https://open.spotify.com/artist/24Rzfui4UwLMlhZcWYYk7P) | [טבע](https://open.spotify.com/album/0MJ1EgY7SOK9RTON6y6DHc) | 3:15 |
+| 50 | [המוזיקה הישראלית](https://open.spotify.com/track/3DfOUS0VV7MISyhd5hqphu) | [Gon Ben Ari](https://open.spotify.com/artist/28ZTrx51TAHFvSdmK6NbQm), [מקהלת זולת](https://open.spotify.com/artist/5pvjWGOi3YYGnjwSXQD8jd) | [המוזיקה הישראלית](https://open.spotify.com/album/2DvGi2JC1NZt9nwi128lnb) | 4:31 |
 
 Snapshot ID: `AAAAALI7WlbhrAdeA+1xelJkVhSTbF9s`

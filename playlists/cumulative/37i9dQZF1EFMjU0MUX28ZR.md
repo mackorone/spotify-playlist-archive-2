@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5eENjzQVV1Oe8jaF4lni0J">Evan Blair</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-122 songs - 6 hr 14 min
+123 songs - 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [do you really want to hurt me?](https://open.spotify.com/track/2xMY0vcPCP5GHHqom5i6Gl) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [young forever \(extended\)](https://open.spotify.com/album/7vXNMveRwef98O1M6I3Lrb) | 2:09 | 2024-09-17 |  |
 | [Dojo](https://open.spotify.com/track/6EdpnaVhFJZGkI0th2SQwW) | [Charlie Darker](https://open.spotify.com/artist/7C0yh6MRghHb3T7lPvtSjX) | [Dojo EP](https://open.spotify.com/album/3TYmNSqOycjNSMaXmG46zf) | 5:03 | 2024-09-17 |  |
 | [Don't Hate Me When It's Over](https://open.spotify.com/track/76pV06GMcz7OMVEnmjV83e) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [The Day We Met](https://open.spotify.com/album/7JHcvfslueH4YSOxIUTRDx) | 2:36 | 2024-09-17 |  |
+| [Drinking Game](https://open.spotify.com/track/3NpotblRm0XLn747iCZ75w) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Drinking Game](https://open.spotify.com/album/6yBtHDlryRS2EQAfGYNMQN) | 2:50 | 2026-04-12 |  |
 | [dying on the inside](https://open.spotify.com/track/6h1s7cKnUtsbRpE5bwnUTf) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [dying on the inside](https://open.spotify.com/album/67sFRrnPbvz9Te28kO6Ktu) | 3:24 | 2024-09-17 |  |
 | [Enter The Void](https://open.spotify.com/track/58xeEl5QLO0AGq7HoRV8Lt) | [The Bloody Beetroots](https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5), [Eric Nally](https://open.spotify.com/artist/3NoeRIxHApi6qe4yan2Vnn) | [The Great Electronic Swindle](https://open.spotify.com/album/2scV487TMD9hf0uSXcxwP3) | 5:15 | 2024-09-17 |  |
 | [Everything Forever](https://open.spotify.com/track/2FQApjUJ96lxynRqrcIDiW) | [Wingtip](https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI) | [Everything Forever](https://open.spotify.com/album/1sSxJMVGRg1Z4O6XNh00aD) | 2:48 | 2024-09-17 | 2024-12-15 |

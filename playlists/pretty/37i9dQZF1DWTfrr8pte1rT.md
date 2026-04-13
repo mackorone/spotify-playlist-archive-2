@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfrr8pte1rT.md) - [plain]
 
 > Rock with a Drop\. Cover: Rezz \\m/
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,203 likes - 125 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,272 likes - 125 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,7 +131,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfrr8pte1rT.md) - [plain]
 | 121 | [Ritual](https://open.spotify.com/track/25ED1oQWMy32cQh9Dv9BjC) | [AWAY](https://open.spotify.com/artist/2ZmerElhvxg8uVKCmlZ4ij), [Echos](https://open.spotify.com/artist/6SnMMbLQ4iS8WIyt3ksmCR) | [Ritual](https://open.spotify.com/album/1lT3ohVQ41Rvq17iDLFOZq) | 4:06 |
 | 122 | [The Wild Hunt](https://open.spotify.com/track/5ND25ZCEXxfAr6BFPQ5wvu) | [YMIR](https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD) | [The Wild Hunt](https://open.spotify.com/album/0QvtHIbiF4ykReZATPi4km) | 3:18 |
 | 123 | [Get To U](https://open.spotify.com/track/7J5d8EHVjEYbMgOXGi0PKD) | [Papa Khan](https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM) | [Get To U](https://open.spotify.com/album/7vKLfc4WO47NIDIrXOUqDB) | 2:56 |
-| 124 | [FEEL THE RAGE](https://open.spotify.com/track/1oiWd6ShFvTmp8IXwcfpwz) | [SNAILS](https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6), [Uncured](https://open.spotify.com/artist/6YicvYF7Qo1FxNt903gAMh) | [FEEL THE RAGE](https://open.spotify.com/album/0GCSrc22Kdti0WbJWGET7p) | 3:25 |
-| 125 | [Bad Blood \- Weird Genius Remix](https://open.spotify.com/track/1ztPHFuEadFj9SdFPsD1HQ) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ), [Weird Genius](https://open.spotify.com/artist/5B4kCOhcqTywB9YwXPfFtJ) | [Bad Blood \(Weird Genius Remix\)](https://open.spotify.com/album/2YsuUjmQ2ycwqIh6tWmsV4) | 3:17 |
+| 124 | [Bad Blood \- Weird Genius Remix](https://open.spotify.com/track/1ztPHFuEadFj9SdFPsD1HQ) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ), [Weird Genius](https://open.spotify.com/artist/5B4kCOhcqTywB9YwXPfFtJ) | [Bad Blood \(Weird Genius Remix\)](https://open.spotify.com/album/2YsuUjmQ2ycwqIh6tWmsV4) | 3:17 |
+| 125 | [FEEL THE RAGE](https://open.spotify.com/track/1oiWd6ShFvTmp8IXwcfpwz) | [SNAILS](https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6), [Uncured](https://open.spotify.com/artist/6YicvYF7Qo1FxNt903gAMh) | [FEEL THE RAGE](https://open.spotify.com/album/0GCSrc22Kdti0WbJWGET7p) | 3:25 |
 
 Snapshot ID: `AAAAAETkv3Zo9hMKr0cmr7FJGUhNKdiL`

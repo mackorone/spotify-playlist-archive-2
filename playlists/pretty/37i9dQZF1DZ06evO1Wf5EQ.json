@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adg9gAAAAACzl0Hvssjexbjq07FWJDqY",
+  "snapshot_id": "admPAAAAAAAMTYnkueBVnw2Y1n60ZWO8",
   "tracks": [
     {
       "added_at": null,
@@ -131,8 +131,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Godless (Original Music from the Netflix Series)",
-        "url": "https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv"
+        "name": "They Will Kill You (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4zI0xlmNa7wJGKx31W4jHU"
       },
       "artists": [
         {
@@ -140,9 +140,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 86546,
-      "name": "You Lost Your Shadow, Bill",
-      "url": "https://open.spotify.com/track/6QHUneXaBqZDM02tJjtZxs"
+      "duration_ms": 116411,
+      "name": "Maria Reeves",
+      "url": "https://open.spotify.com/track/051RWMYpTL1ZYjZR3C9rGa"
     },
     {
       "added_at": null,
@@ -179,22 +179,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "They Will Kill You (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4zI0xlmNa7wJGKx31W4jHU"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rafael Rivera",
-          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
-        }
-      ],
-      "duration_ms": 116411,
-      "name": "Maria Reeves",
-      "url": "https://open.spotify.com/track/051RWMYpTL1ZYjZR3C9rGa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Godless (Original Music from the Netflix Series)",
         "url": "https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv"
       },
@@ -204,9 +188,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 178000,
-      "name": "Alice",
-      "url": "https://open.spotify.com/track/2yxEakHVn3iOGKnxcvuOQ6"
+      "duration_ms": 86546,
+      "name": "You Lost Your Shadow, Bill",
+      "url": "https://open.spotify.com/track/6QHUneXaBqZDM02tJjtZxs"
     },
     {
       "added_at": null,
@@ -252,9 +236,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 143893,
-      "name": "LaBelle Opera",
-      "url": "https://open.spotify.com/track/4aE6lKn6mPTRF2DDqUPAuS"
+      "duration_ms": 178000,
+      "name": "Alice",
+      "url": "https://open.spotify.com/track/2yxEakHVn3iOGKnxcvuOQ6"
     },
     {
       "added_at": null,
@@ -300,9 +284,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 398320,
-      "name": "Atascadero (Denouement)",
-      "url": "https://open.spotify.com/track/755e7xFM0mBUpN0uFPBaVj"
+      "duration_ms": 143893,
+      "name": "LaBelle Opera",
+      "url": "https://open.spotify.com/track/4aE6lKn6mPTRF2DDqUPAuS"
     },
     {
       "added_at": null,
@@ -335,6 +319,22 @@
       "duration_ms": 76850,
       "name": "Lessons In Chemistry",
       "url": "https://open.spotify.com/track/5uF3bldebcNNuyZaJliK5h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Godless (Original Music from the Netflix Series)",
+        "url": "https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "duration_ms": 398320,
+      "name": "Atascadero (Denouement)",
+      "url": "https://open.spotify.com/track/755e7xFM0mBUpN0uFPBaVj"
     },
     {
       "added_at": null,

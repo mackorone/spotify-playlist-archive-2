@@ -4,7 +4,7 @@
 
 > Błogie dźwięki na powitanie słonecznych dni 🌷
 
-901 songs - 2 day 2 hr 31 min
+902 songs - 2 day 2 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -549,7 +549,7 @@
 | [Ordinary](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S) | 3:06 | 2025-02-28 | 2025-09-16 |
 | [Orlando in Love](https://open.spotify.com/track/3qDO9F32RqyPXK34ZujwBc) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Orlando in Love](https://open.spotify.com/album/204ZEkmbexzRPGHltUDCP6) | 2:25 | 2025-01-10 | 2025-03-01 |
 | [Ostatni dzień lata](https://open.spotify.com/track/4WF2CXSyL1vgcNohuSC9XT) | [Ralph Kaminski](https://open.spotify.com/artist/7l1IUcuGTEXMuD1aN3wFqw) | [Ostatni dzień lata](https://open.spotify.com/album/0YcboQK6yPH31Qj3dOtKS6) | 3:19 | 2025-12-05 | 2026-02-21 |
-| [Ostatni zachód](https://open.spotify.com/track/4EgoMsJMmcJWhooKAKYBGV) | [Biały Falochron](https://open.spotify.com/artist/7cBzCHNcMBGPXSkdhZZTul), [Hubert.](https://open.spotify.com/artist/7dlH4L7i8CtRUZMQDSuXqH) | [Ostatni zachód](https://open.spotify.com/album/0KrQr46hPd9XUVwLmml5I7) | 3:04 | 2026-03-27 |  |
+| [Ostatni zachód](https://open.spotify.com/track/4EgoMsJMmcJWhooKAKYBGV) | [Biały Falochron](https://open.spotify.com/artist/7cBzCHNcMBGPXSkdhZZTul), [Hubert.](https://open.spotify.com/artist/7dlH4L7i8CtRUZMQDSuXqH) | [Ostatni zachód](https://open.spotify.com/album/0KrQr46hPd9XUVwLmml5I7) | 3:04 | 2026-03-27 | 2026-04-13 |
 | [other boys are boring](https://open.spotify.com/track/4GBZaVt4WS0OpK4WERsFZ3) | [panicbaby](https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA) | [other boys are boring](https://open.spotify.com/album/64pyxehnihFcz81L645ezR) | 2:20 | 2025-10-10 | 2026-03-14 |
 | [Other Side of Heartbreak](https://open.spotify.com/track/3sDAhr0fT4SiW8ycZXCXB7) | [Kaeyra](https://open.spotify.com/artist/3LRqB4U9moDI5yO6e4NrEG) | [Other Side of Heartbreak](https://open.spotify.com/album/1Cvj3lBW4QJ0wd8qi5YQtL) | 3:02 | 2025-10-23 | 2025-11-08 |
 | [Our Way](https://open.spotify.com/track/3KDo3wvYICgcGLapjSf1Oc) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Our Way](https://open.spotify.com/album/72qslYplIfk8cSXiz7X8K5) | 3:05 | 2024-06-28 | 2024-09-13 |
@@ -856,6 +856,7 @@
 | [Więcej](https://open.spotify.com/track/73l4adiuFKirZH4umyzEog) | [Carla Fernandes](https://open.spotify.com/artist/2PowY1osU1K9Qa8d1fn0PF) | [Więcej](https://open.spotify.com/album/2wLGQoYi4SsbyGmjEbQiNE) | 2:33 | 2024-11-08 | 2025-02-22 |
 | [Wolta](https://open.spotify.com/track/3HdpFbpjgxgSxEw5LctEFY) | [Blauka](https://open.spotify.com/artist/2ZgaoICJy1V38lHdzlVB8a) | [Wolta](https://open.spotify.com/album/59hCJs29RWZ0SdfxiXzGfs) | 4:43 | 2025-05-31 | 2025-06-22 |
 | [Wolę Cię kochać, niż mieć](https://open.spotify.com/track/2KMoi0vQU6xVUZ05atEOSe) | [Marta Bijan](https://open.spotify.com/artist/6H38O4b9x7V56MfLOpfNZt) | [Wolę Cię kochać, niż mieć](https://open.spotify.com/album/751UQhysLprUGTXrhTrHvP) | 2:57 | 2026-01-23 | 2026-03-14 |
+| [Woman I Am](https://open.spotify.com/track/7JDJimCnfNpiReuMNPXIVJ) | [Skye Newman](https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M) | [Woman I Am](https://open.spotify.com/album/2sgEblpbAegLtRuCpHJl70) | 3:31 | 2026-04-10 |  |
 | [Worlds Collide \(Inspired by Arcane League of Legends\)](https://open.spotify.com/track/4Z3a18Jw4aGcmN6WLon32x) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [Worlds Collide \(Inspired by Arcane League of Legends\)](https://open.spotify.com/album/0kEn5uReYi5megeo5W3IeC) | 3:02 | 2024-12-16 | 2025-03-01 |
 | [Wpadłem Ci powiedzieć](https://open.spotify.com/track/6xPxUv6tV3ytPdSR94goTL) | [Edzio](https://open.spotify.com/artist/7HPUYcx61PbkQbtjsVgTCa), [Sonia Maselik](https://open.spotify.com/artist/0MA7GBODPbcTV0v3FZj2tl) | [Wpadłem Ci powiedzieć](https://open.spotify.com/album/2IZ8Rit1o1cSGGl47F7NDG) | 2:59 | 2026-03-27 | 2026-04-11 |
 | [Wschód](https://open.spotify.com/track/09eOvJ9ZLfchwrgBRNSibh) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU), [Moo Latte](https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F) | [Wschód](https://open.spotify.com/album/0XYL9Ik9aLA9AUs2EPqR3G) | 2:46 | 2024-08-20 | 2024-09-13 |

@@ -1,12 +1,12 @@
 {
   "description": "This is AWOLNATION. The essential tracks, all in one playlist.",
-  "num_followers": 37702,
+  "num_followers": 37700,
   "original_name": "This Is AWOLNATION",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adg9gAAAAADONix9o15vxA9BG6tyyZVY",
+  "snapshot_id": "admPAAAAAAD1CgdKwG/WZqgUmnZZasal",
   "tracks": [
     {
       "added_at": null,
@@ -542,11 +542,15 @@
         {
           "name": "AWOLNATION",
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        },
+        {
+          "name": "Del The Funky Homosapien",
+          "url": "https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl"
         }
       ],
-      "duration_ms": 190866,
-      "name": "When I Was Young",
-      "url": "https://open.spotify.com/track/0qRIrk73nzkddAHX65D1Hb"
+      "duration_ms": 182893,
+      "name": "I Am Happy",
+      "url": "https://open.spotify.com/track/7hlS8OyiuxxNI8aoQM9hCf"
     },
     {
       "added_at": null,
@@ -583,42 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Run (10th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/27mRZk6YZ4yVLXXRmKkQFK"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 224759,
-      "name": "Found Atlas",
-      "url": "https://open.spotify.com/track/42nE0MvyqvtV1Ee9lgMVKv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Phantom Five",
-        "url": "https://open.spotify.com/album/13rCwtfBHmNlPBYyFFU0u5"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        },
-        {
-          "name": "Del The Funky Homosapien",
-          "url": "https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl"
-        }
-      ],
-      "duration_ms": 182893,
-      "name": "I Am Happy",
-      "url": "https://open.spotify.com/track/7hlS8OyiuxxNI8aoQM9hCf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My Echo, My Shadow, My Covers & Me",
         "url": "https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW"
       },
@@ -635,6 +603,38 @@
       "duration_ms": 241499,
       "name": "Take A Chance On Me (feat. Jewel)",
       "url": "https://open.spotify.com/track/2QZpV3KZnDfqrvOfJNcvCY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Phantom Five",
+        "url": "https://open.spotify.com/album/13rCwtfBHmNlPBYyFFU0u5"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 190866,
+      "name": "When I Was Young",
+      "url": "https://open.spotify.com/track/0qRIrk73nzkddAHX65D1Hb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Run (10th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/27mRZk6YZ4yVLXXRmKkQFK"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 224759,
+      "name": "Found Atlas",
+      "url": "https://open.spotify.com/track/42nE0MvyqvtV1Ee9lgMVKv"
     },
     {
       "added_at": null,

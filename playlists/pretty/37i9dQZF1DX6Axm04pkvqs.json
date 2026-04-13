@@ -1,6 +1,6 @@
 {
   "description": "When my mouth has no words, let my spirit sing",
-  "num_followers": 74592,
+  "num_followers": 74673,
   "original_name": "Worship Chants",
   "owner": {
     "name": "Spotify",
@@ -75,6 +75,22 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
+        "name": "Never Be the Same",
+        "url": "https://open.spotify.com/album/1tUbpFa1twKE0dwltJpaF1"
+      },
+      "artists": [
+        {
+          "name": "David Dam",
+          "url": "https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc"
+        }
+      ],
+      "duration_ms": 384000,
+      "name": "Never Be the Same",
+      "url": "https://open.spotify.com/track/10FpYQLJ3urAr7tPJOnFy5"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
         "name": "Deeper Experience Chant",
         "url": "https://open.spotify.com/album/1Tay2nbUOJnoshqUEoIbO8"
       },
@@ -91,22 +107,6 @@
       "duration_ms": 564888,
       "name": "Deeper Experience Chant",
       "url": "https://open.spotify.com/track/7JJ1xN2a1s7EV7ujV3TQyE"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
-        "name": "Never Be the Same",
-        "url": "https://open.spotify.com/album/1tUbpFa1twKE0dwltJpaF1"
-      },
-      "artists": [
-        {
-          "name": "David Dam",
-          "url": "https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc"
-        }
-      ],
-      "duration_ms": 384000,
-      "name": "Never Be the Same",
-      "url": "https://open.spotify.com/track/10FpYQLJ3urAr7tPJOnFy5"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -663,6 +663,22 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
+        "name": "To Yahweh's Delight",
+        "url": "https://open.spotify.com/album/4MCPXcYlgqMGWqm8B2k3ap"
+      },
+      "artists": [
+        {
+          "name": "Minister GUC",
+          "url": "https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL"
+        }
+      ],
+      "duration_ms": 631338,
+      "name": "Captured My Heart",
+      "url": "https://open.spotify.com/track/0mkiOUQl052rRacosA5fS4"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
         "name": "Fragrance (feat. GGTQ All Stars)",
         "url": "https://open.spotify.com/album/4taa6a2TeF7uSOS6280L0p"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 267337,
       "name": "Fragrance (feat. GGTQ All Stars)",
       "url": "https://open.spotify.com/track/3BbGiJH0O5U1E9hJaFJuPO"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
-        "name": "To Yahweh's Delight",
-        "url": "https://open.spotify.com/album/4MCPXcYlgqMGWqm8B2k3ap"
-      },
-      "artists": [
-        {
-          "name": "Minister GUC",
-          "url": "https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL"
-        }
-      ],
-      "duration_ms": 631338,
-      "name": "Captured My Heart",
-      "url": "https://open.spotify.com/track/0mkiOUQl052rRacosA5fS4"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -932,9 +932,9 @@
           "url": "https://open.spotify.com/artist/3w0OMqAlsf7zRV2GprZvJK"
         }
       ],
-      "duration_ms": 770500,
-      "name": "Chants of Intimacy",
-      "url": "https://open.spotify.com/track/5pzgMmTjKJlThDPQnfRX5I"
+      "duration_ms": 564250,
+      "name": "Intense Spontaneous Worship",
+      "url": "https://open.spotify.com/track/3Q4IU160DfWbjRJnRVZwe0"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -1012,9 +1012,9 @@
           "url": "https://open.spotify.com/artist/3w0OMqAlsf7zRV2GprZvJK"
         }
       ],
-      "duration_ms": 564250,
-      "name": "Intense Spontaneous Worship",
-      "url": "https://open.spotify.com/track/3Q4IU160DfWbjRJnRVZwe0"
+      "duration_ms": 770500,
+      "name": "Chants of Intimacy",
+      "url": "https://open.spotify.com/track/5pzgMmTjKJlThDPQnfRX5I"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "There Is Prophecy over Me (Prayer Instrumental Music)",
-        "url": "https://open.spotify.com/album/3P98nKARTr1d2OA5QxEv97"
-      },
-      "artists": [
-        {
-          "name": "Ucious Music",
-          "url": "https://open.spotify.com/artist/04SC030qxHLFoyyug9Pawa"
-        }
-      ],
-      "duration_ms": 899474,
-      "name": "There Is Prophecy over Me (Prayer Instrumental Music)",
-      "url": "https://open.spotify.com/track/70ULbNpGcjEJRjeqJZAiEm"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
         "name": "Midnight Cry, Vol. 2",
         "url": "https://open.spotify.com/album/6ONKFW2nc1mznSaGdxoOJo"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 1442088,
       "name": "Midnight Cry, Vol. 2",
       "url": "https://open.spotify.com/track/4GReGQny43YTFYz6YXIJqd"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "There Is Prophecy over Me (Prayer Instrumental Music)",
+        "url": "https://open.spotify.com/album/3P98nKARTr1d2OA5QxEv97"
+      },
+      "artists": [
+        {
+          "name": "Ucious Music",
+          "url": "https://open.spotify.com/artist/04SC030qxHLFoyyug9Pawa"
+        }
+      ],
+      "duration_ms": 899474,
+      "name": "There Is Prophecy over Me (Prayer Instrumental Music)",
+      "url": "https://open.spotify.com/track/70ULbNpGcjEJRjeqJZAiEm"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -1123,22 +1123,18 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "Names of God",
-        "url": "https://open.spotify.com/album/3WCZbOcvzRlzyEnRVPtKQF"
+        "name": "Eze Mmuo",
+        "url": "https://open.spotify.com/album/6HYR6TCB7BypDFHryf87Kn"
       },
       "artists": [
         {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
-        },
-        {
-          "name": "OYINKAN KOKU-BAZUAYE",
-          "url": "https://open.spotify.com/artist/4MsiVr0uduVTupBlpBs4D9"
+          "name": "Mr M & Revelation",
+          "url": "https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa"
         }
       ],
-      "duration_ms": 478664,
-      "name": "Yeshua Hamashiach (Overture)",
-      "url": "https://open.spotify.com/track/3hbjwNtFbsRjjPA08oeSLS"
+      "duration_ms": 333740,
+      "name": "Eze Mmuo",
+      "url": "https://open.spotify.com/track/4Ja1oWQdJqXZ35ZZ1GAdua"
     },
     {
       "added_at": "2024-08-23 00:01:00",
@@ -1167,18 +1163,22 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "Eze Mmuo",
-        "url": "https://open.spotify.com/album/6HYR6TCB7BypDFHryf87Kn"
+        "name": "Names of God",
+        "url": "https://open.spotify.com/album/3WCZbOcvzRlzyEnRVPtKQF"
       },
       "artists": [
         {
-          "name": "Mr M & Revelation",
-          "url": "https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa"
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        },
+        {
+          "name": "OYINKAN KOKU-BAZUAYE",
+          "url": "https://open.spotify.com/artist/4MsiVr0uduVTupBlpBs4D9"
         }
       ],
-      "duration_ms": 333740,
-      "name": "Eze Mmuo",
-      "url": "https://open.spotify.com/track/4Ja1oWQdJqXZ35ZZ1GAdua"
+      "duration_ms": 478664,
+      "name": "Yeshua Hamashiach (Overture)",
+      "url": "https://open.spotify.com/track/3hbjwNtFbsRjjPA08oeSLS"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -1215,26 +1215,6 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "Names of God",
-        "url": "https://open.spotify.com/album/3WCZbOcvzRlzyEnRVPtKQF"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
-        },
-        {
-          "name": "MR M &REVELATION",
-          "url": "https://open.spotify.com/artist/31piuVFPQCLSAj0tmypT9a"
-        }
-      ],
-      "duration_ms": 422802,
-      "name": "Ndum (My Life)",
-      "url": "https://open.spotify.com/track/4rjIjPrpDPIu2W8wwSB9Do"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
         "name": "Ruach Hakodesh",
         "url": "https://open.spotify.com/album/60kUZ9PqK6MlCKpN4tL44d"
       },
@@ -1263,6 +1243,26 @@
       "duration_ms": 668238,
       "name": "Song of Answers (Spirits Must Obey)",
       "url": "https://open.spotify.com/track/47TMxkW5qIPFTEKqbFWh0i"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "Names of God",
+        "url": "https://open.spotify.com/album/3WCZbOcvzRlzyEnRVPtKQF"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        },
+        {
+          "name": "MR M &REVELATION",
+          "url": "https://open.spotify.com/artist/31piuVFPQCLSAj0tmypT9a"
+        }
+      ],
+      "duration_ms": 422802,
+      "name": "Ndum (My Life)",
+      "url": "https://open.spotify.com/track/4rjIjPrpDPIu2W8wwSB9Do"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -1299,26 +1299,6 @@
       "duration_ms": 295477,
       "name": "Hallelujah Chant (Ruach Hakodesh)",
       "url": "https://open.spotify.com/track/39sTVazPHh5IB8SdWNgLha"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
-        "name": "Names of God",
-        "url": "https://open.spotify.com/album/3WCZbOcvzRlzyEnRVPtKQF"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
-        },
-        {
-          "name": "Victoria Orenze",
-          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
-        }
-      ],
-      "duration_ms": 601940,
-      "name": "Ruach Elohim",
-      "url": "https://open.spotify.com/track/4fATkvHKHCDjowOqX3I8er"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -1361,6 +1341,26 @@
       "url": "https://open.spotify.com/track/3JMh7EqWmxzguJaSCqQuwc"
     },
     {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "Names of God",
+        "url": "https://open.spotify.com/album/3WCZbOcvzRlzyEnRVPtKQF"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        },
+        {
+          "name": "Victoria Orenze",
+          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
+        }
+      ],
+      "duration_ms": 601940,
+      "name": "Ruach Elohim",
+      "url": "https://open.spotify.com/track/4fATkvHKHCDjowOqX3I8er"
+    },
+    {
       "added_at": "2025-08-01 00:01:33",
       "album": {
         "name": "Worship Chant",
@@ -1395,22 +1395,22 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "Revival Flames",
-        "url": "https://open.spotify.com/album/3ouj0BXXkGizxWYTtcPK3y"
+        "name": "HEAVEN HAS COME",
+        "url": "https://open.spotify.com/album/6NxdOsigezOUD537lSYTDz"
       },
       "artists": [
         {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+          "name": "Ty Bello",
+          "url": "https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J"
         },
         {
-          "name": "Victoria Orenze",
-          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
+          "name": "Abbey Ojomu",
+          "url": "https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM"
         }
       ],
-      "duration_ms": 271934,
-      "name": "Alagbada Ina (feat. Victoria Orenze)",
-      "url": "https://open.spotify.com/track/5nYZcBMWmElPweuzKs4ANs"
+      "duration_ms": 378071,
+      "name": "Kabiyesi",
+      "url": "https://open.spotify.com/track/2qQz5I3VxBWjXDHNqMg6UB"
     }
   ],
   "unique_name": "Worship Chants",

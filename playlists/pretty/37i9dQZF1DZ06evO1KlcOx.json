@@ -1,12 +1,12 @@
 {
   "description": "This is Grouper. The essential tracks, all in one playlist.",
-  "num_followers": 7971,
+  "num_followers": 7977,
   "original_name": "This Is Grouper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adbsAAAAAAB9Rlk2iPc2Va2oYkihh2Cq",
+  "snapshot_id": "admPAAAAAAB9Ls+Xgmf/Y7bhqhY9+2lL",
   "tracks": [
     {
       "added_at": null,
@@ -75,8 +75,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paradise Valley",
-        "url": "https://open.spotify.com/album/5e5MtmjBRnh3eI5g5C0Tyv"
+        "name": "Inca Ore / Grouper",
+        "url": "https://open.spotify.com/album/2oztVYt7jDJBTysn00vM6E"
       },
       "artists": [
         {
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 174370,
-      "name": "I'm Clean Now",
-      "url": "https://open.spotify.com/track/4qm8sWdYoXkdhMN8EL9mAL"
+      "duration_ms": 265893,
+      "name": "Little Gray Cat",
+      "url": "https://open.spotify.com/track/1Sllhw0OERRlTU9tjFpbW3"
     },
     {
       "added_at": null,
@@ -123,22 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inca Ore / Grouper",
-        "url": "https://open.spotify.com/album/2oztVYt7jDJBTysn00vM6E"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 265893,
-      "name": "Little Gray Cat",
-      "url": "https://open.spotify.com/track/1Sllhw0OERRlTU9tjFpbW3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Paradise Valley",
         "url": "https://open.spotify.com/album/5e5MtmjBRnh3eI5g5C0Tyv"
       },
@@ -148,9 +132,25 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 304460,
-      "name": "Headache",
-      "url": "https://open.spotify.com/track/4EDj8GXOlI45vG4SOfswK3"
+      "duration_ms": 174370,
+      "name": "I'm Clean Now",
+      "url": "https://open.spotify.com/track/4qm8sWdYoXkdhMN8EL9mAL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inca Ore / Grouper",
+        "url": "https://open.spotify.com/album/2oztVYt7jDJBTysn00vM6E"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 247093,
+      "name": "Fallow",
+      "url": "https://open.spotify.com/track/6sgr20vGQkBEHg0fXhz4EJ"
     },
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inca Ore / Grouper",
-        "url": "https://open.spotify.com/album/2oztVYt7jDJBTysn00vM6E"
+        "name": "Paradise Valley",
+        "url": "https://open.spotify.com/album/5e5MtmjBRnh3eI5g5C0Tyv"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 247093,
-      "name": "Fallow",
-      "url": "https://open.spotify.com/track/6sgr20vGQkBEHg0fXhz4EJ"
+      "duration_ms": 304460,
+      "name": "Headache",
+      "url": "https://open.spotify.com/track/4EDj8GXOlI45vG4SOfswK3"
     },
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ruins",
-        "url": "https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 92786,
-      "name": "Holofernes",
-      "url": "https://open.spotify.com/track/4UL9DScE7SnHhcDlNVq4v0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Inca Ore / Grouper",
         "url": "https://open.spotify.com/album/2oztVYt7jDJBTysn00vM6E"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 201040,
       "name": "A Light Change",
       "url": "https://open.spotify.com/track/2wy9QMJdpa74PVkr1V7NmY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ruins",
+        "url": "https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 92786,
+      "name": "Holofernes",
+      "url": "https://open.spotify.com/track/4UL9DScE7SnHhcDlNVq4v0"
     },
     {
       "added_at": null,
@@ -331,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ruins",
-        "url": "https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 281680,
-      "name": "Clearing",
-      "url": "https://open.spotify.com/track/3IL43TRkEnh4buGOZ1Brb5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Man Who Died in His Boat",
         "url": "https://open.spotify.com/album/2arK6QEmfa25k2feNozs9e"
       },
@@ -356,9 +340,25 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 254040,
-      "name": "Vital",
-      "url": "https://open.spotify.com/track/4BzmSQYR6wYkjG894IMfdd"
+      "duration_ms": 366373,
+      "name": "STS",
+      "url": "https://open.spotify.com/track/5qBNDLnDNj3j34T7PMqxqY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ruins",
+        "url": "https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 344160,
+      "name": "Lighthouse",
+      "url": "https://open.spotify.com/track/10dTTsgL5hPujRahg22tan"
     },
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ruins",
-        "url": "https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 344160,
-      "name": "Lighthouse",
-      "url": "https://open.spotify.com/track/10dTTsgL5hPujRahg22tan"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Man Who Died in His Boat",
         "url": "https://open.spotify.com/album/2arK6QEmfa25k2feNozs9e"
       },
@@ -420,9 +404,25 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 366373,
-      "name": "STS",
-      "url": "https://open.spotify.com/track/5qBNDLnDNj3j34T7PMqxqY"
+      "duration_ms": 254040,
+      "name": "Vital",
+      "url": "https://open.spotify.com/track/4BzmSQYR6wYkjG894IMfdd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ruins",
+        "url": "https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 281680,
+      "name": "Clearing",
+      "url": "https://open.spotify.com/track/3IL43TRkEnh4buGOZ1Brb5"
     },
     {
       "added_at": null,
@@ -452,25 +452,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 295826,
-      "name": "Atone",
-      "url": "https://open.spotify.com/track/1hKjbUkgAJUerYuE4XhsoU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ruins",
-        "url": "https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 179253,
-      "name": "Call Across Rooms",
-      "url": "https://open.spotify.com/track/4detZaj6qfObdW7h9cHnFz"
+      "duration_ms": 226493,
+      "name": "No Other",
+      "url": "https://open.spotify.com/track/2zmNpl4DSTf388swxiV7F3"
     },
     {
       "added_at": null,
@@ -487,6 +471,22 @@
       "duration_ms": 245653,
       "name": "Cover the Long Way",
       "url": "https://open.spotify.com/track/5NxOjQYObGO5cISU5jd8uu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ruins",
+        "url": "https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 179253,
+      "name": "Call Across Rooms",
+      "url": "https://open.spotify.com/track/4detZaj6qfObdW7h9cHnFz"
     },
     {
       "added_at": null,
@@ -516,9 +516,25 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 226493,
-      "name": "No Other",
-      "url": "https://open.spotify.com/track/2zmNpl4DSTf388swxiV7F3"
+      "duration_ms": 295826,
+      "name": "Atone",
+      "url": "https://open.spotify.com/track/1hKjbUkgAJUerYuE4XhsoU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Man Who Died in His Boat",
+        "url": "https://open.spotify.com/album/2arK6QEmfa25k2feNozs9e"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 245306,
+      "name": "Cloud in Places",
+      "url": "https://open.spotify.com/track/0diPy4X3fZ253nxtUXXitO"
     },
     {
       "added_at": null,
@@ -539,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Water People 7\"",
-        "url": "https://open.spotify.com/album/6hROXTXMjBXQmteE2zLQlx"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 247713,
-      "name": "Water People",
-      "url": "https://open.spotify.com/track/7nRiJ3ytw6cuVsLkuEOMQP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shade",
         "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
       },
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Man Who Died in His Boat",
-        "url": "https://open.spotify.com/album/2arK6QEmfa25k2feNozs9e"
+        "name": "A I A: Dream Loss",
+        "url": "https://open.spotify.com/album/5l4dgQzaAkmbTpueLhSR3q"
       },
       "artists": [
         {
@@ -580,9 +580,25 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 245306,
-      "name": "Cloud in Places",
-      "url": "https://open.spotify.com/track/0diPy4X3fZ253nxtUXXitO"
+      "duration_ms": 313680,
+      "name": "A Lie",
+      "url": "https://open.spotify.com/track/03nTHUIdIV4a2Wjb1puEDO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Water People 7\"",
+        "url": "https://open.spotify.com/album/6hROXTXMjBXQmteE2zLQlx"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 247713,
+      "name": "Water People",
+      "url": "https://open.spotify.com/track/7nRiJ3ytw6cuVsLkuEOMQP"
     },
     {
       "added_at": null,
@@ -628,9 +644,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 313680,
-      "name": "A Lie",
-      "url": "https://open.spotify.com/track/03nTHUIdIV4a2Wjb1puEDO"
+      "duration_ms": 380226,
+      "name": "Dragging the Streets - First Heart Tone",
+      "url": "https://open.spotify.com/track/7xpVS1KQiRFWgZGi1bdijA"
     },
     {
       "added_at": null,
@@ -651,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shade",
-        "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
+        "name": "Hold / Sick - Single",
+        "url": "https://open.spotify.com/album/2ZeEvU0R5ZE0Pgr1xRy6IE"
       },
       "artists": [
         {
@@ -660,9 +676,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 231125,
-      "name": "Unclean mind",
-      "url": "https://open.spotify.com/track/1KoXckcdNDUFPu0MPMIG9Y"
+      "duration_ms": 330373,
+      "name": "Hold",
+      "url": "https://open.spotify.com/track/5khRdxp5670i4gUmJoVxKH"
     },
     {
       "added_at": null,
@@ -692,9 +708,25 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 380226,
-      "name": "Dragging the Streets - First Heart Tone",
-      "url": "https://open.spotify.com/track/7xpVS1KQiRFWgZGi1bdijA"
+      "duration_ms": 480440,
+      "name": "Soul Eraser",
+      "url": "https://open.spotify.com/track/3ylmcpuUneUlGgGkuO4Htw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shade",
+        "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 231125,
+      "name": "Unclean mind",
+      "url": "https://open.spotify.com/track/1KoXckcdNDUFPu0MPMIG9Y"
     },
     {
       "added_at": null,
@@ -715,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shade",
-        "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 317749,
-      "name": "Basement Mix",
-      "url": "https://open.spotify.com/track/19Frh8I9RkXJBwfI2v7cVd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cover the Windows and the Walls",
         "url": "https://open.spotify.com/album/6FDT9qQNRT6ntiEhTI8SI6"
       },
@@ -743,38 +759,6 @@
       "duration_ms": 367720,
       "name": "Down to the Ocean",
       "url": "https://open.spotify.com/track/0Eci42j6D7tsAVhOVlSuk2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A I A: Dream Loss",
-        "url": "https://open.spotify.com/album/5l4dgQzaAkmbTpueLhSR3q"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 480440,
-      "name": "Soul Eraser",
-      "url": "https://open.spotify.com/track/3ylmcpuUneUlGgGkuO4Htw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hold / Sick - Single",
-        "url": "https://open.spotify.com/album/2ZeEvU0R5ZE0Pgr1xRy6IE"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 330373,
-      "name": "Hold",
-      "url": "https://open.spotify.com/track/5khRdxp5670i4gUmJoVxKH"
     },
     {
       "added_at": null,
@@ -795,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cover the Windows and the Walls",
-        "url": "https://open.spotify.com/album/6FDT9qQNRT6ntiEhTI8SI6"
+        "name": "Shade",
+        "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
       },
       "artists": [
         {
@@ -804,9 +788,25 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 335360,
-      "name": "You Never Came",
-      "url": "https://open.spotify.com/track/20rFw2Y26pbwK2qZV0nCKc"
+      "duration_ms": 317749,
+      "name": "Basement Mix",
+      "url": "https://open.spotify.com/track/19Frh8I9RkXJBwfI2v7cVd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wide",
+        "url": "https://open.spotify.com/album/3iLSxt5fh8f0vN89861WnE"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 119733,
+      "name": "Make Me Over",
+      "url": "https://open.spotify.com/track/4OlY6a2c0sF9uE1RzSdzsO"
     }
   ],
   "unique_name": "This Is Grouper",

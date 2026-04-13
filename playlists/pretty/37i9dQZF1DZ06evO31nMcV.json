@@ -1,12 +1,12 @@
 {
   "description": "This is Alexis Ffrench. The essential tracks, all in one playlist.",
-  "num_followers": 25083,
+  "num_followers": 25091,
   "original_name": "This Is Alexis Ffrench",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adg9gAAAAAAPZYAKZvZ0QISKqpxNHcMn",
+  "snapshot_id": "admPAAAAAABu2dA3WolHrAZ8XK4zys3/",
   "tracks": [
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piano Karma",
-        "url": "https://open.spotify.com/album/4lZkexfsSWFwe73hLx9Tvr"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 154372,
-      "name": "Truth Vibrations",
-      "url": "https://open.spotify.com/track/3SLMylmbPzGQL68AO4w6e4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dreamland",
         "url": "https://open.spotify.com/album/4jb1RWCUm2HlhSNumh5bcm"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 76923,
       "name": "Midnight Reverie",
       "url": "https://open.spotify.com/track/0dVL9nYiBF9ioCpq2oWR67"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Piano Karma",
+        "url": "https://open.spotify.com/album/4lZkexfsSWFwe73hLx9Tvr"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 154372,
+      "name": "Truth Vibrations",
+      "url": "https://open.spotify.com/track/3SLMylmbPzGQL68AO4w6e4"
     },
     {
       "added_at": null,

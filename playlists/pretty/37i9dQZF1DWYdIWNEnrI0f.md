@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdIWNEnrI0f.md) - [plain]
 
 > Let Japanese beats guide you into a calm and blissful evening\. / 心地よい夜を過ごすための日本製ビートサウンド
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,711 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,768 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdIWNEnrI0f.md) - [plain]
 | 44 | [Clair de lune](https://open.spotify.com/track/5R7OTQUvO9M4tAvfN3C80W) | [Bajune Tobeta](https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7) | [Clair de lune](https://open.spotify.com/album/1TvDFq4IjYInEpg2b5yfrY) | 3:24 |
 | 45 | [North Wing](https://open.spotify.com/track/05kA0tTx15o8wx0vYqm251) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [tender](https://open.spotify.com/album/6xSM45V8BDQAkDudFVCCHA) | 2:34 |
 | 46 | [Flow Motion](https://open.spotify.com/track/6letr2UF42D0KowDsi8IRN) | [Seizan Ishigaki](https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0), [Jikuru](https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [Flow Motion](https://open.spotify.com/album/4cJ8GhgQkfaoQLpHcESCJB) | 2:12 |
-| 47 | [Space Orgazm](https://open.spotify.com/track/5BxPmRFKVf9bMGr2q9ZmEA) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc), [Kazuhiko Maeda](https://open.spotify.com/artist/1bBgJ0Q6qVnnx23ZtpCSMZ) | [Syn Fonia I](https://open.spotify.com/album/0LprKxhCl7cBBkQHzBbWRU) | 3:48 |
+| 47 | [アルゴリズム \(Algorithm\)](https://open.spotify.com/track/5EO2F73atj1IigcN6nPGMv) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc), [Nagipan](https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS) | [アルゴリズム \(Algorithm\)](https://open.spotify.com/album/3KaAWv5vYooRAcYWwLc5UY) | 3:27 |
 | 48 | [Hidden Shrine](https://open.spotify.com/track/4uciSF8VXH3ne7K4AFFfiV) | [HIDE×HIDE](https://open.spotify.com/artist/618q3uBCcddItL9IPh5yRA), [Jikuru](https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [Hidden Shrine](https://open.spotify.com/album/0CnkfHS7C6nimtwpdAhgOI) | 2:11 |
 | 49 | [Up and Down](https://open.spotify.com/track/3ijY3w5fc6bIkMjEuKBNNh) | [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [Always in a Hurry](https://open.spotify.com/album/2vJdvUwTvo6DfePDG4XaMf) | 2:31 |
 | 50 | [迷いの森](https://open.spotify.com/track/5hyzs0L6FPxvdJIZLN5eyn) | [Olive Oil](https://open.spotify.com/artist/10wpBaBV9o6cEGr1FnmYIH), [CHANNY D](https://open.spotify.com/artist/23FsJf4Uv89b1kPtqqsUFr) | [迷いの森](https://open.spotify.com/album/1xaXJ6OxH8fYZ00wMiwZT7) | 5:26 |

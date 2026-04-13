@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adg9gAAAAADhSqWLdkEQImH4iToSClcm",
+  "snapshot_id": "admPAAAAAACeH+Aw87Q9CLCaSn4bi3bj",
   "tracks": [
     {
       "added_at": null,
@@ -43,26 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Donnie & Laurie",
-        "url": "https://open.spotify.com/album/5nsagfjuKN6coxKmbfXUSC"
-      },
-      "artists": [
-        {
-          "name": "Laurie Spiegel",
-          "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
-        },
-        {
-          "name": "Don Christensen",
-          "url": "https://open.spotify.com/artist/3X6haiuk2rBlAqlWIpClbm"
-        }
-      ],
-      "duration_ms": 324222,
-      "name": "Donnie and Laurie",
-      "url": "https://open.spotify.com/track/5AQQFtmuIQpLyIu86vrCjp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Static",
         "url": "https://open.spotify.com/album/7zU2S06sQRLGXN309ATvuK"
       },
@@ -79,6 +59,26 @@
       "duration_ms": 174000,
       "name": "Heliopause",
       "url": "https://open.spotify.com/track/0rdAXMl6YbYR185e1R6veY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Donnie & Laurie",
+        "url": "https://open.spotify.com/album/5nsagfjuKN6coxKmbfXUSC"
+      },
+      "artists": [
+        {
+          "name": "Laurie Spiegel",
+          "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
+        },
+        {
+          "name": "Don Christensen",
+          "url": "https://open.spotify.com/artist/3X6haiuk2rBlAqlWIpClbm"
+        }
+      ],
+      "duration_ms": 324222,
+      "name": "Donnie and Laurie",
+      "url": "https://open.spotify.com/track/5AQQFtmuIQpLyIu86vrCjp"
     },
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
         }
       ],
-      "duration_ms": 202426,
-      "name": "Three Sonic Spaces II",
-      "url": "https://open.spotify.com/track/4RxXmmiphC17d9h0zCxIzR"
+      "duration_ms": 215040,
+      "name": "Two Archetypes: Hurricane's Eye \u2013 II",
+      "url": "https://open.spotify.com/track/1B2ZdyyHD2BMwEjeYg1g0m"
     },
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
         }
       ],
-      "duration_ms": 123773,
-      "name": "A Folk Study",
-      "url": "https://open.spotify.com/track/5SuTsR3Mjaq3Ss0VKFyQof"
+      "duration_ms": 322960,
+      "name": "Appalachian Grove I",
+      "url": "https://open.spotify.com/track/58ODorNYopmxNhZnWdjQjO"
     },
     {
       "added_at": null,
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
         }
       ],
-      "duration_ms": 215040,
-      "name": "Two Archetypes: Hurricane's Eye \u2013 II",
-      "url": "https://open.spotify.com/track/1B2ZdyyHD2BMwEjeYg1g0m"
+      "duration_ms": 202426,
+      "name": "Three Sonic Spaces II",
+      "url": "https://open.spotify.com/track/4RxXmmiphC17d9h0zCxIzR"
     },
     {
       "added_at": null,
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
         }
       ],
-      "duration_ms": 322960,
-      "name": "Appalachian Grove I",
-      "url": "https://open.spotify.com/track/58ODorNYopmxNhZnWdjQjO"
+      "duration_ms": 123773,
+      "name": "A Folk Study",
+      "url": "https://open.spotify.com/track/5SuTsR3Mjaq3Ss0VKFyQof"
     }
   ],
   "unique_name": "This Is Laurie Spiegel",

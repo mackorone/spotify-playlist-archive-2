@@ -1381,6 +1381,24 @@
     },
     {
       "album": {
+        "name": "A Matter of Time: The Final Hour",
+        "url": "https://open.spotify.com/album/7cbnBLsnivg6Of3MDkFPcW"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2026-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219866,
+      "name": "How I Get",
+      "url": "https://open.spotify.com/track/3rxGjJQOourXRZ6DFXQaHy"
+    },
+    {
+      "album": {
         "name": "How I Get",
         "url": "https://open.spotify.com/album/0V8XBtfNf15WcdXHxwlBCT"
       },
@@ -1392,7 +1410,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 219866,
       "name": "How I Get",
       "url": "https://open.spotify.com/track/5Xos1UTwFeG3c2GWfLdxMi"

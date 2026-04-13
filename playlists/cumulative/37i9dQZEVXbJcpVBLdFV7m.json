@@ -2450,7 +2450,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-03",
+      "date_removed": null,
       "duration_ms": 147500,
       "name": "An Eater",
       "url": "https://open.spotify.com/track/33YkiqLWsxzZdi8Z1AKyIk"
@@ -8966,7 +8966,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 146328,
       "name": "DAVINCHI ZAKON",
       "url": "https://open.spotify.com/track/5nbUkPbo9dG112afcwskBQ"
@@ -9798,6 +9798,28 @@
       "duration_ms": 152760,
       "name": "Disco",
       "url": "https://open.spotify.com/track/2Lumsra3kuU61wXkEKzKaK"
+    },
+    {
+      "album": {
+        "name": "Disco-Tech",
+        "url": "https://open.spotify.com/album/0gcIvBjFvumZy9ecqGUA3x"
+      },
+      "artists": [
+        {
+          "name": "Eleni Foureira",
+          "url": "https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2"
+        },
+        {
+          "name": "ARCADE",
+          "url": "https://open.spotify.com/artist/565UjtVObRIa1hdNFUJajr"
+        }
+      ],
+      "date_added": "2026-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199354,
+      "name": "Disco-Tech",
+      "url": "https://open.spotify.com/track/2pbc9HOxka0qUSE2oIW5Tc"
     },
     {
       "album": {
@@ -11730,7 +11752,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 147407,
       "name": "En Derine",
       "url": "https://open.spotify.com/track/1Y0dPkNvAXzfWqhXknO8Ji"
@@ -16204,7 +16226,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 208000,
       "name": "Hello Juliet",
       "url": "https://open.spotify.com/track/0miNQiJqyO5CIZbyLTHO7J"
@@ -29944,7 +29966,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 187620,
       "name": "Please Me x Titanium",
       "url": "https://open.spotify.com/track/5xopbIDOEEqHIMEEQhHj6a"
@@ -47912,7 +47934,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 184687,
       "name": "\u041d\u0430\u043a\u0430\u0437\u0432\u0430\u043c",
       "url": "https://open.spotify.com/track/5hVGgwsMo3Q67k2REgWKKD"
@@ -49140,7 +49162,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-12",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "\u0420\u0430\u043d\u043e \u043f\u0440\u0438\u0437\u043e\u0440\u0438",
       "url": "https://open.spotify.com/track/6i1VePbXqvRNdANixCeGUq"
@@ -49424,6 +49446,24 @@
       "duration_ms": 220689,
       "name": "\u0421\u0434\u0435\u043b\u043a\u0430 \u0438\u043b\u0438 \u043d\u0435",
       "url": "https://open.spotify.com/track/4lwOd2YgX1BEvX7FfSvdcu"
+    },
+    {
+      "album": {
+        "name": "\u041f\u0440\u0435\u043a\u0432\u0430\u043b\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u044f",
+        "url": "https://open.spotify.com/album/1vhoDY9ImKyrxKt8gdEpzu"
+      },
+      "artists": [
+        {
+          "name": "\u041c\u0438\u0445\u0430\u0438\u043b \u0411\u0435\u043b\u0447\u0435\u0432",
+          "url": "https://open.spotify.com/artist/55DqEEaOVrdHFkOJdJMoow"
+        }
+      ],
+      "date_added": "2026-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187753,
+      "name": "\u0421\u0435\u0434\u0435\u043c \u0434\u043d\u0438 \u043d\u0430\u043f\u0440\u0435\u0434",
+      "url": "https://open.spotify.com/track/0hA7VFaelGKQCc5aXVPpPQ"
     },
     {
       "album": {
@@ -49856,7 +49896,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 250966,
       "name": "\u0422\u0410\u041c",
       "url": "https://open.spotify.com/track/74vmC4rES6qWcsGh9ciPHj"

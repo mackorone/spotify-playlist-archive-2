@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4je779Ww5L2.md) - [plain]
 
 > de sfeer van 6 uur in de ochtend in de buitenlucht
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,018 likes - 94 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,031 likes - 94 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4je779Ww5L2.md) - [plain]
 | 8 | [Opening Night](https://open.spotify.com/track/2p0d5L13tdRztbOySvqlY2) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Opening Night](https://open.spotify.com/album/0ukMJVPrCtdr6p3rctbSbr) | 3:31 |
 | 9 | [Wither](https://open.spotify.com/track/75tuLoo93ovd5lSDWrTdpi) | [Sevens](https://open.spotify.com/artist/16TJwfQFZXTDDkPwG1FOzd) | [Wither](https://open.spotify.com/album/67cUnpKyp9JRjQXOuXfvCM) | 3:00 |
 | 10 | [Only You](https://open.spotify.com/track/49VfcjjkNQA822cDE1r5iy) | [Olive Jones](https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn) | [For Mary](https://open.spotify.com/album/0VjLyzT1oN7aQqdkazdPCh) | 4:23 |
-| 11 | [Always The Same \(feat\. St\. Vincent\)](https://open.spotify.com/track/4gWVMKnpY7zU1SfNr7sFbg) | [Cate Le Bon](https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G), [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Always The Same \(feat\. St\. Vincent\)](https://open.spotify.com/album/1ymjKA3yey1nVI4GuktFk0) | 4:16 |
-| 12 | [Homerun 2021](https://open.spotify.com/track/4JZSfAfaOHxDOqVo76l2KL) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [Homerun 2021](https://open.spotify.com/album/3eso9JkXxZyMBrjzUbsBxR) | 3:21 |
+| 11 | [Homerun 2021](https://open.spotify.com/track/4JZSfAfaOHxDOqVo76l2KL) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [Homerun 2021](https://open.spotify.com/album/3eso9JkXxZyMBrjzUbsBxR) | 3:21 |
+| 12 | [Always The Same \(feat\. St\. Vincent\)](https://open.spotify.com/track/4gWVMKnpY7zU1SfNr7sFbg) | [Cate Le Bon](https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G), [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Always The Same \(feat\. St\. Vincent\)](https://open.spotify.com/album/1ymjKA3yey1nVI4GuktFk0) | 4:16 |
 | 13 | [Gown](https://open.spotify.com/track/2qDjzlewG9Dx3rC1M2OWXh) | [Joanne Robertson](https://open.spotify.com/artist/4MdQ9btIlh6rzIMA19tu3L), [Oliver Coates](https://open.spotify.com/artist/2jToqK8MU3rtt0DYrgCIXM) | [Blurrr](https://open.spotify.com/album/5WhOeAAZdZNuVPd0owQ88D) | 3:15 |
 | 14 | [Can You Swim?](https://open.spotify.com/track/2dWjtV6SUgVT1oPpA45wQH) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Can You Swim?](https://open.spotify.com/album/3xiBXsB2pmzFwLh8WiWXEc) | 4:55 |
 | 15 | [4am](https://open.spotify.com/track/1OvoqDv9bEHUs4oVaX70wv) | [GOODWIN](https://open.spotify.com/artist/0jHZBFB1WUFnfEv1FgNo7l) | [4am](https://open.spotify.com/album/5EIG5KoHg9xuwuJw46BLox) | 3:30 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4je779Ww5L2.md) - [plain]
 | 41 | [Bright Belief](https://open.spotify.com/track/4GJzoqPOhCylLzM7mtMQbw) | [Jonny Nash](https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde) | [Bright Belief](https://open.spotify.com/album/1kGJexSZDdSZbfkmefWDaD) | 4:42 |
 | 42 | [Cold Comfort](https://open.spotify.com/track/08P9JuQ2LGJDTue3lUsTt6) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Cold Comfort](https://open.spotify.com/album/4tO6Fxl8uuoQjeYpUT00t6) | 2:44 |
 | 43 | [I Don´t Feel](https://open.spotify.com/track/3wqEwrMnhMUboJRVx0cknF) | [Aggy Ally](https://open.spotify.com/artist/0BA6Cx7qcqWVHg0dUjDsZs) | [I Don´t Feel](https://open.spotify.com/album/2EcwGODe0tlGGlB02xrMOr) | 3:28 |
-| 44 | [Rush Hour Traffic](https://open.spotify.com/track/6s1lxdvY8PRX3omWmOVaXx) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Rush Hour Traffic](https://open.spotify.com/album/5ADcIb3FaxCChD4dhjbg1y) | 4:24 |
-| 45 | [walk the line](https://open.spotify.com/track/7t7P4Qy8zyjmS8dPbhst9y) | [AKA lisa](https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1) | [walk the line](https://open.spotify.com/album/3ix30TIxlRGD2wN5xUofq8) | 3:35 |
+| 44 | [walk the line](https://open.spotify.com/track/7t7P4Qy8zyjmS8dPbhst9y) | [AKA lisa](https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1) | [walk the line](https://open.spotify.com/album/3ix30TIxlRGD2wN5xUofq8) | 3:35 |
+| 45 | [Rush Hour Traffic](https://open.spotify.com/track/6s1lxdvY8PRX3omWmOVaXx) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Rush Hour Traffic](https://open.spotify.com/album/5ADcIb3FaxCChD4dhjbg1y) | 4:24 |
 | 46 | [Never Again](https://open.spotify.com/track/0KwMTCtE9g1K3e6VoOjf0A) | [Thomas Azier](https://open.spotify.com/artist/6AE7CSJUwDMnTXV4yKVLLv) | [Never Again](https://open.spotify.com/album/4ThezZScitRuZONCfkJewe) | 2:52 |
 | 47 | [All That We Are](https://open.spotify.com/track/2oXRZaEegYDvZxozbDtgcW) | [tjels](https://open.spotify.com/artist/47rSKopkbamYzXzYY7PoIX) | [All That We Are](https://open.spotify.com/album/60B3oN31JFl2u2r6ryGg9i) | 3:24 |
 | 48 | [Birds Of Paradise](https://open.spotify.com/track/5y3rW5XMct8Rp1P0iRCuTj) | [Hydrogen Sea](https://open.spotify.com/artist/5MdGszDt9p0CjdUYOidTBH) | [Wolves EP](https://open.spotify.com/album/0bxlRfsXldvLDC0RxGkfd7) | 2:26 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4je779Ww5L2.md) - [plain]
 | 53 | [BB II](https://open.spotify.com/track/08G9r5z6KrPw1UgTTGoC7K) | [The Feather](https://open.spotify.com/artist/6ZhYrSh1U6FaRYefNSLwCc), [Benni](https://open.spotify.com/artist/331VAK6qkIiNdWoE2BGFWq) | [BB II](https://open.spotify.com/album/2JlAPW0XsIVE5zh4JaBws3) | 3:23 |
 | 54 | [U&I](https://open.spotify.com/track/05NozMI1lUuXSdZrnXW1wi) | [Isaac Roux](https://open.spotify.com/artist/7tPhoEe9VD1m37VqUiC6hA) | [U&I](https://open.spotify.com/album/38ke3Rhd86DdDcdnXYNqHB) | 2:33 |
 | 55 | [Try Try Try \- Acoustic Version](https://open.spotify.com/track/3tW8fWg7hHY62dPs8qxyjc) | [Noémie Wolfs](https://open.spotify.com/artist/5sJWIuRMqeiMooXNf6pavo) | [Try Try Try \(Acoustic Version\)](https://open.spotify.com/album/0hcMwG9nEiYXMlm5o15Rff) | 2:59 |
-| 56 | [At The Party](https://open.spotify.com/track/0eD9nDx3ZdZt5wzLOOUtxy) | [CHARLOT](https://open.spotify.com/artist/4jwyHfEELByxcUm6JEP5yC) | [At The Party](https://open.spotify.com/album/5vnuxacWPnc7oQ1UZtNfSm) | 3:35 |
-| 57 | [The End](https://open.spotify.com/track/408Y9eM7N3ZRodHyvxxHyM) | [Ato Pérez](https://open.spotify.com/artist/1YESxvefykMWbXEUFOkdKc), [Jeffrey Dol](https://open.spotify.com/artist/09UVRn1NH4bTQ3lQrmvVHh) | [The Farm](https://open.spotify.com/album/40J82quNYkW4TBE5ebbHPs) | 5:02 |
+| 56 | [The End](https://open.spotify.com/track/408Y9eM7N3ZRodHyvxxHyM) | [Ato Pérez](https://open.spotify.com/artist/1YESxvefykMWbXEUFOkdKc), [Jeffrey Dol](https://open.spotify.com/artist/09UVRn1NH4bTQ3lQrmvVHh) | [The Farm](https://open.spotify.com/album/40J82quNYkW4TBE5ebbHPs) | 5:02 |
+| 57 | [At The Party](https://open.spotify.com/track/0eD9nDx3ZdZt5wzLOOUtxy) | [CHARLOT](https://open.spotify.com/artist/4jwyHfEELByxcUm6JEP5yC) | [At The Party](https://open.spotify.com/album/5vnuxacWPnc7oQ1UZtNfSm) | 3:35 |
 | 58 | [My Child, My Friend](https://open.spotify.com/track/4fJ1qHYvlGZVtCWkIbO7hQ) | [Annelie](https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC) | [My Child, My Friend \- Anchor](https://open.spotify.com/album/63nOrTo9E93yU00AZvnCLD) | 2:32 |
 | 59 | [Queen\-Size Life](https://open.spotify.com/track/3Ci3PhwCqFUTNlfQ59Nj3z) | [Mountaineer](https://open.spotify.com/artist/5ayGJVSrPdzT28dxwsxgOj) | [Queen\-Size Life](https://open.spotify.com/album/7e5CvNi9fnhAIJ9ntZnlDB) | 3:36 |
 | 60 | [Mother](https://open.spotify.com/track/5DRhpU3EnIGQFqyUCNBHZP) | [Sam De Nef](https://open.spotify.com/artist/2rAloVqbj3g1s6Pvs7gRno) | [Mother](https://open.spotify.com/album/3XMCVhIHXHKrKaI2YL88Qy) | 3:14 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4je779Ww5L2.md) - [plain]
 | 69 | [More than a warning](https://open.spotify.com/track/2WyoxWAgDvsGzqKOWIhxPv) | [Amongster](https://open.spotify.com/artist/6YIKMlerK7c5j109TgfjnK) | [More than a warning](https://open.spotify.com/album/6mDTQhx9rC4e7fnRv9qgOW) | 5:01 |
 | 70 | [Tardigrades](https://open.spotify.com/track/1Kihs06ERAUQiliX9AdK5Z) | [Slow Res](https://open.spotify.com/artist/0w5Ntkxa6z2RF00gXNRBrF) | [Tardigrades](https://open.spotify.com/album/6VI768BQ6QW6sSo6yswiYd) | 3:10 |
 | 71 | [Boat](https://open.spotify.com/track/2nWj5r88reOB7RXxZc3DvE) | [RAMAN.](https://open.spotify.com/artist/5AwiKiIdwyrjQtRt0C0I86) | [Boat](https://open.spotify.com/album/27Df3AJdoQ94z0CD6XmKqA) | 5:08 |
-| 72 | [Sunflower Sunset](https://open.spotify.com/track/6PIsXGxWSZj7p2VqmrUbbq) | [Future Husband](https://open.spotify.com/artist/7IkZTuasXLNz2HCezR6KuI) | [Sunflower Sunset](https://open.spotify.com/album/2ViF7zmhrLihawIK3rJ9u2) | 5:08 |
-| 73 | [Moonlit Parade](https://open.spotify.com/track/1NL10e7NLz2eODtCieADly) | [Jono McCleery](https://open.spotify.com/artist/23usQJ95w7f95tnN4MJEgy) | [Moonlit Parade](https://open.spotify.com/album/7AHqrOj1zf75jkMjkjqWat) | 3:05 |
+| 72 | [Moonlit Parade](https://open.spotify.com/track/1NL10e7NLz2eODtCieADly) | [Jono McCleery](https://open.spotify.com/artist/23usQJ95w7f95tnN4MJEgy) | [Moonlit Parade](https://open.spotify.com/album/7AHqrOj1zf75jkMjkjqWat) | 3:05 |
+| 73 | [Sunflower Sunset](https://open.spotify.com/track/6PIsXGxWSZj7p2VqmrUbbq) | [Future Husband](https://open.spotify.com/artist/7IkZTuasXLNz2HCezR6KuI) | [Sunflower Sunset](https://open.spotify.com/album/2ViF7zmhrLihawIK3rJ9u2) | 5:08 |
 | 74 | [Exit Wounds](https://open.spotify.com/track/4ExjFndsVBO5i2mAB5Eutf) | [Sevens](https://open.spotify.com/artist/16TJwfQFZXTDDkPwG1FOzd) | [Sincerely, Sevens](https://open.spotify.com/album/5v8vQHWZctWcuM6VpuLAFn) | 4:10 |
 | 75 | [Embers](https://open.spotify.com/track/3QDvbfhuz5KyCbpEava0vw) | [I Am Oak](https://open.spotify.com/artist/3rkCcFVpbFYCvnNKTT7LUe) | [Time Drifts](https://open.spotify.com/album/4rySmePDloJBmc1nEYDk61) | 3:57 |
 | 76 | [EMBERS](https://open.spotify.com/track/5F1sWEiHVBYUbVQ178MZ5d) | [Cero Ismael](https://open.spotify.com/artist/2Nj4ggzoUqfVAiE9sVRmSo) | [AT LEAST SOMETHING IS PROTECTING YOU](https://open.spotify.com/album/4gSBN4HJksGUFxXVsdcAX0) | 3:37 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4je779Ww5L2.md) - [plain]
 | 79 | [Swimming](https://open.spotify.com/track/0LuRbtuakg2uS1z5qoDzba) | [Jacob Drescher](https://open.spotify.com/artist/0azBrYau1kmzbjLIkVG4mv) | [Swimming](https://open.spotify.com/album/2AmsdFE6K0JljNeAB2EqrD) | 3:29 |
 | 80 | [Where's The Fun In That?](https://open.spotify.com/track/0sZtc0hnEZL9OJ1PfyaCWS) | [Ola](https://open.spotify.com/artist/31IxxyimG9CPpDkpFiYatC) | [Where's The Fun In That?](https://open.spotify.com/album/4b4p6k9ibGvXrIaVk7BDgg) | 2:28 |
 | 81 | [The Distance](https://open.spotify.com/track/0DQgWaerMRpgyB0VEZsFO2) | [Prize Collect](https://open.spotify.com/artist/1QL9FUDTuHnhRI2qp1rogr) | [The Distance](https://open.spotify.com/album/2Wc0fRSE7K6ZI4xX3DGqud) | 3:04 |
-| 82 | [In My Head Today](https://open.spotify.com/track/6LvwKP5nY8ESrLTn6TvnkL) | [Send Me Flowers](https://open.spotify.com/artist/12XFstDiWIWvVnYOvPU8Z5) | [In My Head Today](https://open.spotify.com/album/5ApOG5o1JKyDreecmUYIdL) | 2:28 |
-| 83 | [Way Back](https://open.spotify.com/track/6PS7UXENl8M47HDDg3uW1x) | [MAYA MARIA](https://open.spotify.com/artist/7HPzShbwmLfVSs5Yd3bvvy) | [the bed\-ties](https://open.spotify.com/album/2R8Fri8R7n1q3za8By1MnL) | 3:40 |
+| 82 | [Way Back](https://open.spotify.com/track/6PS7UXENl8M47HDDg3uW1x) | [MAYA MARIA](https://open.spotify.com/artist/7HPzShbwmLfVSs5Yd3bvvy) | [the bed\-ties](https://open.spotify.com/album/2R8Fri8R7n1q3za8By1MnL) | 3:40 |
+| 83 | [In My Head Today](https://open.spotify.com/track/6LvwKP5nY8ESrLTn6TvnkL) | [Send Me Flowers](https://open.spotify.com/artist/12XFstDiWIWvVnYOvPU8Z5) | [In My Head Today](https://open.spotify.com/album/5ApOG5o1JKyDreecmUYIdL) | 2:28 |
 | 84 | [The Moon Is Going For A Swim](https://open.spotify.com/track/4yfEsna4QNbBL0EYnieNY6) | [Christopher Green](https://open.spotify.com/artist/7hsSRTKla7JWIsGRlq0LvL) | [The Moon Is Going For A Swim](https://open.spotify.com/album/3JhrlyhuzmS6WfSSpyunNq) | 3:47 |
 | 85 | [Don't Worry About The Rain](https://open.spotify.com/track/08Vk3LcVrkbEphzkLvvBSq) | [Maida Rose](https://open.spotify.com/artist/1XNEYqJZDKq9lEqe61sF1k) | [Don't Worry About The Rain](https://open.spotify.com/album/2SC76QjYJ4oIoAiypWlj93) | 3:47 |
 | 86 | [Realize \(Essence\)](https://open.spotify.com/track/789rnoPBFblPQBMTNGrGc2) | [Melle Jutte](https://open.spotify.com/artist/29NcmXvID0g9FtDLTvTrxZ) | [A Passage Between](https://open.spotify.com/album/6ghjaRprdmAhepnKaEpVIL) | 4:12 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4je779Ww5L2.md) - [plain]
 | 93 | [my moon](https://open.spotify.com/track/1hafzeP5FlBnUljHl6OIKh) | [la loye](https://open.spotify.com/artist/1cvKyOKTQeG0sEHhkyz99S) | [my moon](https://open.spotify.com/album/6cevS6KNQ3lsNIEtMskfQ2) | 2:07 |
 | 94 | [Fortune \- Acoustic Version](https://open.spotify.com/track/4yBaSpXD0NXU0fVVORb0Dx) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Acoustic Sessions](https://open.spotify.com/album/67VE6RTOJLwouXsB6Bs5zB) | 3:48 |
 
-Snapshot ID: `AAAAAFqNz/u0RcAc0e2mYMFeZp+58wJx`
+Snapshot ID: `AAAAAEpdwwJ8+14MsyzDJjNOwVT7DHLg`

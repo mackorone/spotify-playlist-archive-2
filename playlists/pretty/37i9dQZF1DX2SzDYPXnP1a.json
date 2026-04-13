@@ -1,6 +1,6 @@
 {
   "description": "Country tracks to get your beast mode on! ",
-  "num_followers": 113683,
+  "num_followers": 113752,
   "original_name": "Beast Mode Country",
   "owner": {
     "name": "Spotify",
@@ -375,26 +375,6 @@
     {
       "added_at": "2026-03-22 23:15:50",
       "album": {
-        "name": "Rocky Mountain Low (feat. Koe Wetzel)",
-        "url": "https://open.spotify.com/album/34UbZH97R1t0TR1IoV5alN"
-      },
-      "artists": [
-        {
-          "name": "Corey Kent",
-          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
-        },
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 168333,
-      "name": "Rocky Mountain Low - feat. Koe Wetzel",
-      "url": "https://open.spotify.com/track/6sP76Z6IeqyCOcTHArKOR3"
-    },
-    {
-      "added_at": "2026-03-22 23:15:50",
-      "album": {
         "name": "Broadway Girls (feat. Morgan Wallen)",
         "url": "https://open.spotify.com/album/021fiBoLY6KwQmgIvByEtG"
       },
@@ -411,6 +391,26 @@
       "duration_ms": 185600,
       "name": "Broadway Girls (feat. Morgan Wallen)",
       "url": "https://open.spotify.com/track/3DZ8dbKg4OTSSqGARvecYd"
+    },
+    {
+      "added_at": "2026-03-22 23:15:50",
+      "album": {
+        "name": "Rocky Mountain Low (feat. Koe Wetzel)",
+        "url": "https://open.spotify.com/album/34UbZH97R1t0TR1IoV5alN"
+      },
+      "artists": [
+        {
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        },
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 168333,
+      "name": "Rocky Mountain Low - feat. Koe Wetzel",
+      "url": "https://open.spotify.com/track/6sP76Z6IeqyCOcTHArKOR3"
     },
     {
       "added_at": "2026-03-22 23:15:50",

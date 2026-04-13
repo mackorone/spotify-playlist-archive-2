@@ -4,7 +4,7 @@
 
 > This is LUDMILLA\. The essential tracks, all in one playlist.
 
-107 songs - 6 hr 23 min
+108 songs - 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [CAFÉ DA MANHÃ ;P](https://open.spotify.com/track/0sPtV4stCHkFJB6GpoaZ1f) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [DOCE 22](https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x) | 3:01 | 2023-10-10 | 2024-09-23 |
 | [CAM GIRL](https://open.spotify.com/track/0b7fhIHDFwmzwOcVCQvB2Y) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [CAM GIRL](https://open.spotify.com/album/2UDItWXKVZ4hhrsjMR3xks) | 3:00 | 2025-08-24 | 2025-11-30 |
 | [Cena De Filme](https://open.spotify.com/track/56GCHT7NiS8pR6Bk7vUlfV) | [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5) | [Cena De Filme](https://open.spotify.com/album/528WbC4aQg0ohpeOWv7Vld) | 2:05 | 2024-02-10 | 2024-05-11 |
-| [Cheiro de Despedida](https://open.spotify.com/track/4jtkR4tu1aLpfFmPZhUaJq) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse) | [Fragmentos](https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb) | 3:11 | 2025-11-09 |  |
+| [Cheiro de Despedida](https://open.spotify.com/track/4jtkR4tu1aLpfFmPZhUaJq) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse) | [Fragmentos](https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb) | 3:11 | 2025-11-09 | 2026-04-13 |
 | [Cigana \- Ao Vivo](https://open.spotify.com/track/58RnbwfvEYB8VS5JHrUwc8) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4) | [Numanice \#2 \(Ao Vivo\)](https://open.spotify.com/album/1sikBy4Cu6l99M6Sd6mDdu) | 3:42 | 2023-10-10 |  |
 | [Coisa de Pele](https://open.spotify.com/track/6WSj6dONKKx9InJwNhcvYI) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Fragmentos](https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb) | 3:24 | 2025-11-14 | 2025-12-07 |
 | [Coração Deserto / Ninguém Merece Amar Sozinho / A Primeira Namorada \- Ao Vivo](https://open.spotify.com/track/0oWy49SNvFELOHnu4BI5SI) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Sorriso Eu Gosto No Pagode \- Parte 1 \(Ao Vivo\)](https://open.spotify.com/album/0XclkMPoy9RZWvp1lwT29v) | 7:31 | 2023-10-10 |  |
@@ -78,6 +78,7 @@
 | [Não É Por Maldade \- Ao vivo](https://open.spotify.com/track/19IIiuViFv6TsPDXV2ZWB3) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [Numanice \(Ao vivo\)](https://open.spotify.com/album/5u9JxohIzAYCPE53Ev4uiN) | 3:35 | 2023-10-10 |  |
 | [Paciência \(Participação especial de Ludmilla\) \- Ao vivo](https://open.spotify.com/track/3jHsNUej99xBE7TX3fg1xD) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Prazer, eu sou Ferrugem \(Ao vivo\)](https://open.spotify.com/album/3SkOXrdSri5EIpDpUvfdm3) | 3:53 | 2023-10-10 |  |
 | [Paraíso](https://open.spotify.com/track/6HMNf7IfNZYNKGVNpc6UdQ) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Paraíso](https://open.spotify.com/album/67EMxtfXTpZVQFQ76TlDOs) | 3:25 | 2025-06-07 |  |
+| [Pecados Como Eu \- Amor In Studio](https://open.spotify.com/track/7jTU24WOO9JBLBBmlfvvdx) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Pecados Como Eu \(Amor In Studio\)](https://open.spotify.com/album/4av5PkUEYzTT3XFWZ8JCZq) | 2:39 | 2026-04-13 |  |
 | [Perfume \- Ao Vivo](https://open.spotify.com/track/5RrkZPErBSiNW8OjRxnkId) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Perfume \(Ao Vivo\)](https://open.spotify.com/album/5tE6GbtjP4htGoyrT5H78A) | 2:54 | 2024-10-07 | 2024-11-03 |
 | [Perfume \- Ao Vivo](https://open.spotify.com/track/6Eu4upXqRZxGTJref5U5c4) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Belo](https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki) | [Numanice \#2 \(Ao Vivo\) \- Deluxe](https://open.spotify.com/album/6iCqu8WWngOqpEGxGthyvv) | 2:01 | 2023-10-10 |  |
 | [Pique Djavan \- Ao Vivo](https://open.spotify.com/track/7D9sdH2LEs3To9nMZnLXUt) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Numanice \#3 \(Ao Vivo\)](https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af) | 2:46 | 2024-02-23 | 2024-11-18 |

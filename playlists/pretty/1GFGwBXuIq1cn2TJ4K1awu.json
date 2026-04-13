@@ -1,192 +1,192 @@
 {
   "description": "Ten or eleven songs a week. Updated every Sunday. Enjoy.",
-  "num_followers": 30,
+  "num_followers": 31,
   "original_name": "Songs of the Week by Roy",
   "owner": {
     "name": "royva06",
     "url": "https://open.spotify.com/user/royva06"
   },
-  "snapshot_id": "AAAKMPLjFW3HXZf+KnNGfOhMp5ZLXOp6",
+  "snapshot_id": "AAAKRpZvLsY+/XWps8gkpegHkYomhL1H",
   "tracks": [
     {
-      "added_at": "2026-04-05 14:50:28",
+      "added_at": "2026-04-12 16:42:40",
       "album": {
-        "name": "De la Orqu\u00eddea y la Avispa",
-        "url": "https://open.spotify.com/album/7L50tSXXmpzbpIDpNDyv5d"
+        "name": "Washed",
+        "url": "https://open.spotify.com/album/1TukpTVBvtfpuGn59YEDGa"
       },
       "artists": [
         {
-          "name": "Austin TV",
-          "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
+          "name": "The Jack Wharff Band",
+          "url": "https://open.spotify.com/artist/7Hw6prEoT6M58ChR8A1Rlz"
         }
       ],
-      "duration_ms": 407793,
-      "name": "De la Orqu\u00eddea y la Avispa",
-      "url": "https://open.spotify.com/track/2cWaaXZL5idipbPuJkfvH9"
+      "duration_ms": 207019,
+      "name": "Washed",
+      "url": "https://open.spotify.com/track/0bgijbvBSiTi4slIRi1OwC"
     },
     {
-      "added_at": "2026-04-05 14:50:40",
+      "added_at": "2026-04-12 16:42:55",
       "album": {
-        "name": "3 Years, 5 Months And 2 Days In The Life Of...",
-        "url": "https://open.spotify.com/album/4QrhfVaznhrAPlM5xCKBPh"
+        "name": "Plum",
+        "url": "https://open.spotify.com/album/3pFbQCFNSwQgcmU4RzTgLA"
       },
       "artists": [
         {
-          "name": "Arrested Development",
-          "url": "https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7"
+          "name": "Widowspeak",
+          "url": "https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP"
         }
       ],
-      "duration_ms": 247506,
-      "name": "Mr. Wendal",
-      "url": "https://open.spotify.com/track/5DOYik1z3Of1wAFfY3dYbC"
+      "duration_ms": 278904,
+      "name": "The Good Ones",
+      "url": "https://open.spotify.com/track/1bPqUmahpsq322oJWYpnnu"
     },
     {
-      "added_at": "2026-04-05 14:50:49",
+      "added_at": "2026-04-12 16:43:01",
       "album": {
-        "name": "Loving is Easy",
-        "url": "https://open.spotify.com/album/3GgV5IZzgFljVfmxFeHsLY"
+        "name": "Texas Yard Sale",
+        "url": "https://open.spotify.com/album/2hl9Rjriax33GWB0Dl4tyo"
       },
       "artists": [
         {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+          "name": "Cactus Lee",
+          "url": "https://open.spotify.com/artist/6eAIPGye8l6QohTSNNVUD4"
+        }
+      ],
+      "duration_ms": 236810,
+      "name": "All That While",
+      "url": "https://open.spotify.com/track/5BS3HrgmS3DZC2oTzDRr4K"
+    },
+    {
+      "added_at": "2026-04-12 16:43:09",
+      "album": {
+        "name": "Diary of a Sinner: 1st Entry",
+        "url": "https://open.spotify.com/album/5HRSHdifYk7QXStjKB0SJZ"
+      },
+      "artists": [
+        {
+          "name": "Petey Pablo",
+          "url": "https://open.spotify.com/artist/4Js9eYwAf9rypNtV8pNSw9"
+        }
+      ],
+      "duration_ms": 286426,
+      "name": "Raise Up",
+      "url": "https://open.spotify.com/track/02GwPAncasVL82yC7y2hmN"
+    },
+    {
+      "added_at": "2026-04-12 16:43:15",
+      "album": {
+        "name": "Down To Earth",
+        "url": "https://open.spotify.com/album/6olpeE5qTK6hkzN8PhwEBM"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        }
+      ],
+      "duration_ms": 284902,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/78PKCefXwDLbl4FVO1Pjzh"
+    },
+    {
+      "added_at": "2026-04-12 16:43:21",
+      "album": {
+        "name": "THE MOUSE & THE MASK",
+        "url": "https://open.spotify.com/album/6vAKENvwUSLMUAWYruV9sw"
+      },
+      "artists": [
+        {
+          "name": "DANGERDOOM",
+          "url": "https://open.spotify.com/artist/0b3fYxnG6tlR0zLtBJd8DF"
         },
         {
-          "name": "Benny Sings",
-          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
         }
       ],
-      "duration_ms": 155720,
-      "name": "Loving Is Easy",
-      "url": "https://open.spotify.com/track/7ASFZh1D0DPZro7UXUKGmd"
+      "duration_ms": 192226,
+      "name": "The Mask",
+      "url": "https://open.spotify.com/track/7JB1RkYu0EIgQHEgH8Klax"
     },
     {
-      "added_at": "2026-04-05 14:50:57",
+      "added_at": "2026-04-12 16:43:28",
       "album": {
-        "name": "10:10",
-        "url": "https://open.spotify.com/album/3pyL2DyrsM2GrzAjrUwPYj"
+        "name": "Crazy Love",
+        "url": "https://open.spotify.com/album/3MXDonOIzrIrCh0HvlACyj"
       },
       "artists": [
         {
-          "name": "LABRYS",
-          "url": "https://open.spotify.com/artist/1Ch6kGftOC8brjjXQwPCx9"
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
         }
       ],
-      "duration_ms": 266533,
-      "name": "Gimme Something",
-      "url": "https://open.spotify.com/track/6YNUQOu0XxdE3OPVluWtNb"
+      "duration_ms": 244586,
+      "name": "Haven't Met You Yet",
+      "url": "https://open.spotify.com/track/4fIWvT19w9PR0VVBuPYpWA"
     },
     {
-      "added_at": "2026-04-05 14:51:06",
+      "added_at": "2026-04-12 16:43:36",
       "album": {
-        "name": "Metamodern Sounds in Country Music",
-        "url": "https://open.spotify.com/album/4makbOuLd5SUdyHMaNM1Ag"
+        "name": "Sometimes I Might Be Introvert",
+        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
       },
       "artists": [
         {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
         }
       ],
-      "duration_ms": 257426,
-      "name": "The Promise",
-      "url": "https://open.spotify.com/track/6OV4CbPHRtbqrpJrbEFJfi"
+      "duration_ms": 188800,
+      "name": "Protect My Energy",
+      "url": "https://open.spotify.com/track/64DqILfBnCXzhEDGUHZet1"
     },
     {
-      "added_at": "2026-04-05 14:51:13",
+      "added_at": "2026-04-12 16:43:42",
       "album": {
-        "name": "to Perth, before the border closes",
-        "url": "https://open.spotify.com/album/4gblLDiEXc4UOwTWlF3UZS"
+        "name": "By the Way, I Forgive You",
+        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
       },
       "artists": [
         {
-          "name": "Julia Jacklin",
-          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 176733,
-      "name": "to Perth, before the border closes",
-      "url": "https://open.spotify.com/track/6AqFR4UHMbdlMPcJGrynXV"
+      "duration_ms": 196973,
+      "name": "The Mother",
+      "url": "https://open.spotify.com/track/6jeIbpsYPF0CTId7QrLLer"
     },
     {
-      "added_at": "2026-04-05 14:51:21",
+      "added_at": "2026-04-12 16:43:54",
       "album": {
-        "name": "Fox Confessor Brings The Flood (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/5yIiFmVkza1N3ddMtftxIZ"
+        "name": "She Wants Revenge",
+        "url": "https://open.spotify.com/album/0ikcvM61CScaAOSKHOralR"
       },
       "artists": [
         {
-          "name": "Neko Case",
-          "url": "https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED"
+          "name": "She Wants Revenge",
+          "url": "https://open.spotify.com/artist/2zRt0sfxNnqI8gLR7d8gWt"
         }
       ],
-      "duration_ms": 157520,
-      "name": "Maybe Sparrow",
-      "url": "https://open.spotify.com/track/3QqRGEclfb3qnjs5NhSkRN"
+      "duration_ms": 284613,
+      "name": "Tear You Apart",
+      "url": "https://open.spotify.com/track/3urJUvRhgMrwydaTQFVEg9"
     },
     {
-      "added_at": "2026-04-05 14:51:29",
+      "added_at": "2026-04-12 16:44:00",
       "album": {
-        "name": "Christopher Cross",
-        "url": "https://open.spotify.com/album/43L4t2oVmuJsudEls5C6Gh"
+        "name": "Start Walkin' 1965-1976",
+        "url": "https://open.spotify.com/album/1J3CtRxcG9Tkuw2xQ59NEk"
       },
       "artists": [
         {
-          "name": "Christopher Cross",
-          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
+          "name": "Nancy Sinatra",
+          "url": "https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2"
         }
       ],
-      "duration_ms": 275506,
-      "name": "Ride Like the Wind",
-      "url": "https://open.spotify.com/track/6Rd36fAvK6klQPYgx3534I"
-    },
-    {
-      "added_at": "2026-04-05 14:51:36",
-      "album": {
-        "name": "Revolver (Remastered)",
-        "url": "https://open.spotify.com/album/3PRoXYsngSwjEQWR5PsHWR"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 119813,
-      "name": "For No One - Remastered 2009",
-      "url": "https://open.spotify.com/track/1kDkaFlmkdEZiVUogaP9OZ"
-    },
-    {
-      "added_at": "2026-04-05 14:51:42",
-      "album": {
-        "name": "A Light for Attracting Attention",
-        "url": "https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi"
-      },
-      "artists": [
-        {
-          "name": "The Smile",
-          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
-        }
-      ],
-      "duration_ms": 331914,
-      "name": "Skrting On The Surface",
-      "url": "https://open.spotify.com/track/0AmkMHfI5zFNuptoglfmOp"
-    },
-    {
-      "added_at": "2026-04-05 14:51:51",
-      "album": {
-        "name": "Ivory Castanets",
-        "url": "https://open.spotify.com/album/4feDk4LVjagDkvmpCem8Le"
-      },
-      "artists": [
-        {
-          "name": "Cat Clyde",
-          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
-        }
-      ],
-      "duration_ms": 189986,
-      "name": "The Meadow",
-      "url": "https://open.spotify.com/track/6K9uicZQfMuMVJLazWZ5tT"
+      "duration_ms": 161386,
+      "name": "Bang Bang",
+      "url": "https://open.spotify.com/track/1VJ82z9vp7hvBzthdGWtNa"
     }
   ],
   "unique_name": "Songs of the Week by Roy",

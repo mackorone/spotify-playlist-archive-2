@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08yFHoTZpuK.md) - [plain]
 
 > Cutting\-edge dance music emerging from Japan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,769 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,836 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08yFHoTZpuK.md) - [plain]
 | 37 | [TOKYO](https://open.spotify.com/track/4asW0vZmvIWmqp2ueazpeQ) | [Nakajin](https://open.spotify.com/artist/2TIGcMsXemeBUE3CN6c0Uk) | [TOKYO](https://open.spotify.com/album/3ichHRNhN8dHWctJ4mTCsH) | 3:01 |
 | 38 | [PYFPDD](https://open.spotify.com/track/6sJbKZbCcDvF4udMdtf9uE) | [Shinichi Osawa](https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp) | [PYFPDD](https://open.spotify.com/album/7CikTOp0SBBM2x2AWdBEhw) | 3:41 |
 | 39 | [Clockwork Dub](https://open.spotify.com/track/13rcE5fNdeR8fL7Y7DwSaA) | [Stones Taro](https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB) | [Lost City Archives, Vol\. 4](https://open.spotify.com/album/6K44LrVGB7csp6698Bly9a) | 4:54 |
-| 40 | [Dry Action Pump](https://open.spotify.com/track/0nonTTE1UucPmcFJOyns1n) | [TESTSET](https://open.spotify.com/artist/5yNHyOo143SXywbGvCAXhD) | [ALL HAZE](https://open.spotify.com/album/6rQIB992oYHKN1TZvf1DsJ) | 4:19 |
-| 41 | [DOSHABURI \(feat\. JUMADIBA\) \- PAS TASTA Remix](https://open.spotify.com/track/60iwtXuUHtepUcIHXiSrfv) | [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [DOSHABURI \(feat\. JUMADIBA\) \[PAS TASTA Remix\]](https://open.spotify.com/album/7By1ykbXs5wNZ9VPty1ubR) | 2:58 |
-| 42 | [SWARMER](https://open.spotify.com/track/29YUKiGMxEvmtXml3egDpE) | [SYCLES](https://open.spotify.com/artist/6gJjkwWveT0RtNy6FsRG4I) | [SWARMER](https://open.spotify.com/album/0DknbcyRqXrm11Zs1wZps6) | 6:01 |
+| 40 | [DOSHABURI \(feat\. JUMADIBA\) \- PAS TASTA Remix](https://open.spotify.com/track/60iwtXuUHtepUcIHXiSrfv) | [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [DOSHABURI \(feat\. JUMADIBA\) \[PAS TASTA Remix\]](https://open.spotify.com/album/7By1ykbXs5wNZ9VPty1ubR) | 2:58 |
+| 41 | [Dry Action Pump](https://open.spotify.com/track/0nonTTE1UucPmcFJOyns1n) | [TESTSET](https://open.spotify.com/artist/5yNHyOo143SXywbGvCAXhD) | [ALL HAZE](https://open.spotify.com/album/6rQIB992oYHKN1TZvf1DsJ) | 4:19 |
+| 42 | [Life, Dream, Love](https://open.spotify.com/track/0M6Xd82gmkSV5dvA6Jht3r) | [Daishi Dance](https://open.spotify.com/artist/01HEACGPo5xyiXgAJKEvxQ), [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [Oh Jieun](https://open.spotify.com/artist/0yhoq5pPSa7eCpA65358cU), [Himekami](https://open.spotify.com/artist/7F1bUE2y2JjoReZ4hESAAV) | [Life, Dream, Love](https://open.spotify.com/album/0qUWCYFJilaDox1l7PAF8P) | 3:52 |
 | 43 | [You Ain't My Friend](https://open.spotify.com/track/2kW15aO83Ix1lFGreg9F7l) | [Shinichi Osawa](https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp), [RHYME](https://open.spotify.com/artist/5soNcAUPxpWwipU594dlqZ) | [You Ain't My Friend](https://open.spotify.com/album/1XyrELP834fbjigvHSIaEl) | 2:57 |
-| 44 | [Life, Dream, Love](https://open.spotify.com/track/0M6Xd82gmkSV5dvA6Jht3r) | [Daishi Dance](https://open.spotify.com/artist/01HEACGPo5xyiXgAJKEvxQ), [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [Oh Jieun](https://open.spotify.com/artist/0yhoq5pPSa7eCpA65358cU), [Himekami](https://open.spotify.com/artist/7F1bUE2y2JjoReZ4hESAAV) | [Life, Dream, Love](https://open.spotify.com/album/0qUWCYFJilaDox1l7PAF8P) | 3:52 |
+| 44 | [SWARMER](https://open.spotify.com/track/29YUKiGMxEvmtXml3egDpE) | [SYCLES](https://open.spotify.com/artist/6gJjkwWveT0RtNy6FsRG4I) | [SWARMER](https://open.spotify.com/album/0DknbcyRqXrm11Zs1wZps6) | 6:01 |
 | 45 | [Mizukami](https://open.spotify.com/track/1SNUUPgkHHOAnMsyCUbPCu) | [Snowk](https://open.spotify.com/artist/2IEDOKhzkk1EKk93fZ759r) | [Mizukami](https://open.spotify.com/album/521QOxLFhoz3ocRjZWVoNV) | 5:32 |
 | 46 | [Fabric](https://open.spotify.com/track/2SFQD2ZQ6NVrn7zKTy3Fsp) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye) | [Love Flutter](https://open.spotify.com/album/7Fnt5RXowlmGbfdnWtjj2z) | 4:03 |
-| 47 | [Nulife](https://open.spotify.com/track/58YPHNk3iFesdE22u5giwN) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj) | [Nulife](https://open.spotify.com/album/6wzmYBtzA90cXIUvTuD5I3) | 3:56 |
-| 48 | [Attracted to you](https://open.spotify.com/track/0Bb9a95zKTFs7E6ecyDYea) | [Uilou](https://open.spotify.com/artist/3CdEu2bSpVDTmpSMWqFKCL), [AFAMoo](https://open.spotify.com/artist/3A45aBAjydAM6h6iic8GOl), [Lily June](https://open.spotify.com/artist/0bspB4ERg4mbPRwlsYW8k6) | [Attracted to you](https://open.spotify.com/album/30ZNvOTFgeEcXI2oMq4N9z) | 2:42 |
+| 47 | [Attracted to you](https://open.spotify.com/track/0Bb9a95zKTFs7E6ecyDYea) | [Uilou](https://open.spotify.com/artist/3CdEu2bSpVDTmpSMWqFKCL), [AFAMoo](https://open.spotify.com/artist/3A45aBAjydAM6h6iic8GOl), [Lily June](https://open.spotify.com/artist/0bspB4ERg4mbPRwlsYW8k6) | [Attracted to you](https://open.spotify.com/album/30ZNvOTFgeEcXI2oMq4N9z) | 2:42 |
+| 48 | [Nulife](https://open.spotify.com/track/58YPHNk3iFesdE22u5giwN) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj) | [Nulife](https://open.spotify.com/album/6wzmYBtzA90cXIUvTuD5I3) | 3:56 |
 | 49 | [glowing arcade](https://open.spotify.com/track/4QD3PW1ziWyTbduNcIznEG) | [tamanaramen](https://open.spotify.com/artist/06rauF4YCx0U1NALbqdlE3) | [glowing arcade](https://open.spotify.com/album/5JQaDQbsFfYOO27LqAdJS2) | 2:48 |
-| 50 | [Say Less](https://open.spotify.com/track/6p8JSLla78rp2FvhoVFpGu) | [勢喜遊](https://open.spotify.com/artist/7w2BHxP6oYaE5sWW7fE4NE), [Yohji Igarashi](https://open.spotify.com/artist/4Wp4OXDldnaJ0JPRpkUKQs) | [Say Less](https://open.spotify.com/album/1QgcS44kySkqDwLTkf3OJX) | 2:43 |
+| 50 | [KURU KURU HARAJUKU](https://open.spotify.com/track/0J4rHdjYkIRCVn6DvEg7aD) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP) | [KURU KURU HARAJUKU](https://open.spotify.com/album/72Rq4jmmzkQ4db2CgliNvP) | 4:17 |
 
 Snapshot ID: `AAAAAFXhgVNihB0zLA7zGUi730YIzola`

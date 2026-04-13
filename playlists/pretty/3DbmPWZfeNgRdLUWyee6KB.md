@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,291 likes - 123 songs - 7 hr 5 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,291 likes - 126 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,5 +131,8 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 121 | [No Es para Ti](https://open.spotify.com/track/3KzdyeLHY03BGaflizEsUO) | [MDN](https://open.spotify.com/artist/6M7T1w0kGNqLrOdXbWZoNT), [mdn.beats](https://open.spotify.com/artist/1VFNIHRiKBm7BkpQdF2qUD) | [No Es para Ti](https://open.spotify.com/album/1VdO2ivmFAg6QyUo155F7N) | 3:10 |
 | 122 | [Some Hearts Dont Break](https://open.spotify.com/track/43gPk2sJOauGMn2PsnrzzW) | [Walters fall](https://open.spotify.com/artist/1vSZimclLOOqCmbFyE0RgJ) | [Some Hearts Dont Break](https://open.spotify.com/album/7p2DAitLxNE8BfFvIrPfL8) | 3:22 |
 | 123 | [Agora eu sei](https://open.spotify.com/track/6902JxNpmXEdLVzkvgkikL) | [MARÉ MANSA](https://open.spotify.com/artist/0aqA11WetNWTGzgeHm6aF7) | [Agora eu sei](https://open.spotify.com/album/0C0D9OAV3SXYwUExC32JgK) | 1:39 |
+| 124 | [Poupée Vaudou](https://open.spotify.com/track/1joDNTcwDoJrbzJXRqMS6K) | [Dominique Daumann](https://open.spotify.com/artist/1Nm0cvOQp7njIOVzZ3Wqe6) | [La parade des loups\-garous](https://open.spotify.com/album/4EYMdV25eZul4vWVEQ9I98) | 3:18 |
+| 125 | [Postcard](https://open.spotify.com/track/0XtyVSIs5tI9bhthZ7GGwh) | [Barrie Johnson](https://open.spotify.com/artist/1Y5kb8pZVSA6CH12qTROX4) | [Postcard](https://open.spotify.com/album/5UyKe732CV1ODmjUn1JiGU) | 3:03 |
+| 126 | [Gelir Gider](https://open.spotify.com/track/5rceAFRqiXKbfZ1c5H0HJJ) | [Berdush38](https://open.spotify.com/artist/1xLymL7zjs2w2PbCewdP3J) | [Gelir Gider](https://open.spotify.com/album/2DxOFl5paLb9KLQOq24ys2) | 2:38 |
 
-Snapshot ID: `AAAS9HCKmiIwsOa+rEGEhEOjh4is/JFK`
+Snapshot ID: `AAAS93N7e3kyHw+u6DSsDI8tuhIAU/Uc`

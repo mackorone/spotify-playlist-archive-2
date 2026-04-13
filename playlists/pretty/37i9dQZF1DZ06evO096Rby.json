@@ -1,12 +1,12 @@
 {
   "description": "This is Edgardo Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 56485,
+  "num_followers": 56650,
   "original_name": "This Is Edgardo Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adg9gAAAAAAMrLIjdXL56y5tTXqXcmP3",
+  "snapshot_id": "admPAAAAAAB1ubKbO1/pydt+to+4VUIc",
   "tracks": [
     {
       "added_at": null,
@@ -535,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sin Miedo (En Vivo)",
-        "url": "https://open.spotify.com/album/6jPw6jBlRWQGnoaFzf2Ve5"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 234154,
-      "name": "Y Ahora Te Vas - En Vivo",
-      "url": "https://open.spotify.com/track/19qba16XwdaHTXVrmPKZcM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Ando Solo",
         "url": "https://open.spotify.com/album/04B0jWoQI5vd3hFqFrKa7e"
       },
@@ -571,22 +555,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Es Por Ti",
-        "url": "https://open.spotify.com/album/4oGlytrjITiA75RXzWJt3f"
+        "name": "Sin Miedo (En Vivo)",
+        "url": "https://open.spotify.com/album/6jPw6jBlRWQGnoaFzf2Ve5"
       },
       "artists": [
         {
           "name": "Edgardo Nu\u00f1ez",
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        },
-        {
-          "name": "Juanpa Salazar",
-          "url": "https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx"
         }
       ],
-      "duration_ms": 155365,
-      "name": "Es Por Ti",
-      "url": "https://open.spotify.com/track/1wAa4SwcmuffVDXwL6PpPY"
+      "duration_ms": 234154,
+      "name": "Y Ahora Te Vas - En Vivo",
+      "url": "https://open.spotify.com/track/19qba16XwdaHTXVrmPKZcM"
     },
     {
       "added_at": null,
@@ -603,6 +583,26 @@
       "duration_ms": 180229,
       "name": "El Don Nadie - En Vivo",
       "url": "https://open.spotify.com/track/3AxzKzoESCwJcwFFpXlQNE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Es Por Ti",
+        "url": "https://open.spotify.com/album/4oGlytrjITiA75RXzWJt3f"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Juanpa Salazar",
+          "url": "https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx"
+        }
+      ],
+      "duration_ms": 155365,
+      "name": "Es Por Ti",
+      "url": "https://open.spotify.com/track/1wAa4SwcmuffVDXwL6PpPY"
     },
     {
       "added_at": null,
@@ -675,6 +675,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Polvo Soy",
+        "url": "https://open.spotify.com/album/3SWmKgWCz1IOYbkdPjqVc7"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 173793,
+      "name": "Polvo Soy",
+      "url": "https://open.spotify.com/track/7rzEV4j9gxblnC9DHN53iC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dicen y Dicen",
         "url": "https://open.spotify.com/album/1KOlHmExRD42dLpWE4GwkF"
       },
@@ -695,26 +715,6 @@
       "duration_ms": 173135,
       "name": "Dicen y Dicen",
       "url": "https://open.spotify.com/track/6mzQvzXGWVoNjWhdhup27l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Polvo Soy",
-        "url": "https://open.spotify.com/album/3SWmKgWCz1IOYbkdPjqVc7"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 173793,
-      "name": "Polvo Soy",
-      "url": "https://open.spotify.com/track/7rzEV4j9gxblnC9DHN53iC"
     },
     {
       "added_at": null,
@@ -771,22 +771,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Envidia Se Dio Cuenta (En Vivo)",
-        "url": "https://open.spotify.com/album/63XdgF882pL2ryGEM8jPSR"
+        "name": "Corridos 602",
+        "url": "https://open.spotify.com/album/2xrbCG92PwLpKWUAWD4Wv3"
       },
       "artists": [
         {
           "name": "Edgardo Nu\u00f1ez",
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        },
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
         }
       ],
-      "duration_ms": 206271,
-      "name": "La Envidia Se Dio Cuenta - En Vivo",
-      "url": "https://open.spotify.com/track/46WJUGGILoo7R7GwheR1wh"
+      "duration_ms": 202509,
+      "name": "Alto y Piel Morena",
+      "url": "https://open.spotify.com/track/0utj0xCPvTGptQ60MrqNeh"
     },
     {
       "added_at": null,
@@ -807,8 +803,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos 602",
-        "url": "https://open.spotify.com/album/2xrbCG92PwLpKWUAWD4Wv3"
+        "name": "La Envidia Se Dio Cuenta (En Vivo)",
+        "url": "https://open.spotify.com/album/63XdgF882pL2ryGEM8jPSR"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 206271,
+      "name": "La Envidia Se Dio Cuenta - En Vivo",
+      "url": "https://open.spotify.com/track/46WJUGGILoo7R7GwheR1wh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sin Miedo (En Vivo)",
+        "url": "https://open.spotify.com/album/6jPw6jBlRWQGnoaFzf2Ve5"
       },
       "artists": [
         {
@@ -816,9 +832,9 @@
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 202509,
-      "name": "Alto y Piel Morena",
-      "url": "https://open.spotify.com/track/0utj0xCPvTGptQ60MrqNeh"
+      "duration_ms": 172000,
+      "name": "Fruta Prohibida - En Vivo",
+      "url": "https://open.spotify.com/track/1T7YWrunbux383JYtEdWwD"
     },
     {
       "added_at": null,
@@ -839,22 +855,6 @@
       "duration_ms": 164000,
       "name": "Pongase Bien Chula",
       "url": "https://open.spotify.com/track/2Jp6ClwLW6AWEmCGSNOFm4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sin Miedo (En Vivo)",
-        "url": "https://open.spotify.com/album/6jPw6jBlRWQGnoaFzf2Ve5"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Fruta Prohibida - En Vivo",
-      "url": "https://open.spotify.com/track/1T7YWrunbux383JYtEdWwD"
     },
     {
       "added_at": null,

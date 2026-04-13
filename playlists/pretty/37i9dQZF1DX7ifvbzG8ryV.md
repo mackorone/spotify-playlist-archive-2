@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ifvbzG8ryV.md) - [plain]
 
 > From the LGBTQIA+ songwriters that make the music happen\. This month's cover: Harry Paynter
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,347 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,350 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ifvbzG8ryV.md) - [plain]
 | 49 | [IGNORANT](https://open.spotify.com/track/01gpd8j9gKFtLFfoZOaIms) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [HEAVY](https://open.spotify.com/album/26678sDHO3Xg8g6q3Fo1WX) | 3:04 |
 | 50 | [The Giver](https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Giver](https://open.spotify.com/album/7GicDmV1udDFss8K0QY1v1) | 3:22 |
 
-Snapshot ID: `AAAAABqHGjhAHQsSMwpbkjEp9Qrweh+p`
+Snapshot ID: `AAAAAACnpj2Jco7YB+yf0LhlHm7cew8T`

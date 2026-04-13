@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0684jS.md) - [plain]
 
 > This is Nicki Minaj\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 888,882 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 888,873 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0684jS.md) - [plain]
 | 44 | [IDOL](https://open.spotify.com/track/54azQnjuDYDFfImXimGFsA) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Love Yourself 結 'Answer'](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) | 4:20 |
 | 45 | [Take It To The Head](https://open.spotify.com/track/2lD4LsB3iQVnddkVM2RFAl) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Kiss The Ring \(Deluxe\)](https://open.spotify.com/album/1KDc01X8ZF9VYqVW6c4lvr) | 4:27 |
 | 46 | [Letting Go \(Dutty Love\) featuring Nicki Minaj \(feat\. Nicki Minaj\)](https://open.spotify.com/track/0wDbYIl4fN2mccHczCJqEf) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Letting Go \(Dutty Love\) featuring Nicki Minaj \(feat\. Nicki Minaj\)](https://open.spotify.com/album/6b9hnQ1lP77DB40PbpHwWI) | 3:50 |
-| 47 | [Down In the DM \(feat\. Nicki Minaj\) \- Remix](https://open.spotify.com/track/5w1vhNA2OEWUQ371QzyMmM) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [The Art of Hustle \(Deluxe\)](https://open.spotify.com/album/0s9cSoniuN0HfXpwlCpGUF) | 4:18 |
-| 48 | [Throw Sum Mo](https://open.spotify.com/track/5uqphUYsR45kPYplrYSAQh) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [SremmLife](https://open.spotify.com/album/6eDx949ONWDCN0O22wFZf7) | 4:20 |
-| 49 | [Touchin, Lovin \(feat\. Nicki Minaj\)](https://open.spotify.com/track/3N8tI63CfkEc2WW5IkRfAj) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Trigga \(Deluxe\)](https://open.spotify.com/album/09ZagJCLFszgQZTlK99yqP) | 3:41 |
+| 47 | [Touchin, Lovin \(feat\. Nicki Minaj\)](https://open.spotify.com/track/3N8tI63CfkEc2WW5IkRfAj) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Trigga \(Deluxe\)](https://open.spotify.com/album/09ZagJCLFszgQZTlK99yqP) | 3:41 |
+| 48 | [Down In the DM \(feat\. Nicki Minaj\) \- Remix](https://open.spotify.com/track/5w1vhNA2OEWUQ371QzyMmM) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [The Art of Hustle \(Deluxe\)](https://open.spotify.com/album/0s9cSoniuN0HfXpwlCpGUF) | 4:18 |
+| 49 | [Throw Sum Mo](https://open.spotify.com/track/5uqphUYsR45kPYplrYSAQh) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [SremmLife](https://open.spotify.com/album/6eDx949ONWDCN0O22wFZf7) | 4:20 |
 | 50 | [AGATS2 \(Insecure\) \[with Nicki Minaj\]](https://open.spotify.com/track/2iVpUQJaQjOWGja05zyIj9) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [The Party Never Ends 2.0](https://open.spotify.com/album/7kOpqRCEqTTzcGc4CwEFph) | 3:19 |
 
-Snapshot ID: `adg9gAAAAADx82XbJt38Bmu7C1JZ5+DP`
+Snapshot ID: `admPAAAAAAD4RK4GCyETWOKrsFBbF/TO`

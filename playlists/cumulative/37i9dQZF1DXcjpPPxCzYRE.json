@@ -67,6 +67,28 @@
     },
     {
       "album": {
+        "name": "1 Dolor",
+        "url": "https://open.spotify.com/album/7gXbL0h3fgN9iThK5cypAG"
+      },
+      "artists": [
+        {
+          "name": "Suave",
+          "url": "https://open.spotify.com/artist/16QMnwd53HiSIbB57esWKu"
+        },
+        {
+          "name": "Junnio",
+          "url": "https://open.spotify.com/artist/1sLvo7ClsDMTBrFe8aTzF6"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186737,
+      "name": "1 Dolor",
+      "url": "https://open.spotify.com/track/6lNBceAGdl6t9slEQQc9UC"
+    },
+    {
+      "album": {
         "name": "2 seater",
         "url": "https://open.spotify.com/album/67CW3pOkOhn5ugepbhxCJ4"
       },
@@ -4516,7 +4538,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 328960,
       "name": "La jugada maestra",
       "url": "https://open.spotify.com/track/4xutN2gHS4wl4kXZNAhP3A"

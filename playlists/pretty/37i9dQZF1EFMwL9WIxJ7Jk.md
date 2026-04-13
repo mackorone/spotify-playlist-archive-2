@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3wlYs23A2Ma5v7mAwIBJsR">Meghan Trainor</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,383 likes - 104 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,381 likes - 104 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 | 74 | [Christmas Got Me Blue](https://open.spotify.com/track/29kJi1YtkZi4uyyDdvakib) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [A Very Trainor Christmas](https://open.spotify.com/album/2Mb2HvX9H2J98qOvZGdsFf) | 3:33 |
 | 75 | [Color of My Lips \(feat\. Busy Signal\)](https://open.spotify.com/track/6MrrKe8ewhFykqBz1QDB8q) | [OMI](https://open.spotify.com/artist/5MouCg6ta7zAxsfMEbc1uh), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Me 4 U](https://open.spotify.com/album/7cVXH4slEYzGjDh498OFyL) | 3:10 |
 | 76 | [I Get It](https://open.spotify.com/track/6Uj10GHUgJ7D8QVwx9BpKI) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless](https://open.spotify.com/album/07oUxYZMdbyNQtxBsaNhyB) | 3:05 |
-| 77 | [Sugar Daddy](https://open.spotify.com/track/44ROJAxh2jBDQpxgMMIiCC) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Ruby](https://open.spotify.com/album/3NaRWUhsOLdHsmqJON0aiv) | 3:38 |
+| 77 | [Sugar Daddy](https://open.spotify.com/track/66w94M418mHrEEdDfKn5ob) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Ruby](https://open.spotify.com/album/5ukER8Gzjr4CPSwN8fwykc) | 3:38 |
 | 78 | [Sleepin' On Me](https://open.spotify.com/track/26DJdIigEELxJHKS56ILCw) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless](https://open.spotify.com/album/58UwdMAci96aMa30xLuutY) | 3:02 |
 | 79 | [Another Opinion](https://open.spotify.com/track/0uvlQUhGqx6NPzxkEhfAyT) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [TREAT MYSELF](https://open.spotify.com/album/766Hr0WDvATeOSIo41JvNs) | 3:03 |
 | 80 | [Forget How To Love](https://open.spotify.com/track/0bwJ9PbVbtbHXzGEEkvTmd) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless](https://open.spotify.com/album/07oUxYZMdbyNQtxBsaNhyB) | 3:18 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 | 103 | [Painkiller](https://open.spotify.com/track/2q60LHPspsHW8Bct7f6c42) | [The Potsdam Pitches](https://open.spotify.com/artist/1JHUAYhBvMGmvrNLLukLP9) | [Echoes](https://open.spotify.com/album/7FLzk92ZO6d1ZehKmsWn9P) | 3:11 |
 | 104 | [nice to meet ya](https://open.spotify.com/track/2JPXij4tkRfMpOqc9YnjRb) | [Edovann](https://open.spotify.com/artist/6UB4cj61Qyr2uI6j12AmbC), [Aleri](https://open.spotify.com/artist/0JOXL3w9yvATW3MM42cYQM) | [nice to meet ya](https://open.spotify.com/album/1xMewPd8OsoI8MKjud3DKh) | 3:16 |
 
-Snapshot ID: `AcOmqAAAAACFFEhy/OusLTkqjWGqGHTi`
+Snapshot ID: `AcOsSAAAAAClu1UZ/AeSaeKzwXu+zyaN`

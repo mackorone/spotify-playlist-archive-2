@@ -1,6 +1,6 @@
 {
   "description": "Chill out to the sweetest soul songs.",
-  "num_followers": 1404245,
+  "num_followers": 1404427,
   "original_name": "Sweet Soul Chillout",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2024-06-24 11:23:29",
       "album": {
-        "name": "Back To Black (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 233733,
-      "name": "Valerie - Live At BBC Radio 1 Live Lounge, London / 2007",
-      "url": "https://open.spotify.com/track/6nLvaCZFR1wEzW3sIKpsnr"
-    },
-    {
-      "added_at": "2024-06-24 11:23:29",
-      "album": {
         "name": "If That's What It Takes",
         "url": "https://open.spotify.com/album/43P5lpZxSh8r0uNz7x6Sx1"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 222280,
       "name": "I Keep Forgettin' (Every Time You're Near)",
       "url": "https://open.spotify.com/track/5GvWrvLIqoHroq7YvO260M"
+    },
+    {
+      "added_at": "2024-06-24 11:23:29",
+      "album": {
+        "name": "Back To Black (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 233733,
+      "name": "Valerie - Live At BBC Radio 1 Live Lounge, London / 2007",
+      "url": "https://open.spotify.com/track/6nLvaCZFR1wEzW3sIKpsnr"
     },
     {
       "added_at": "2024-06-24 11:23:29",
@@ -511,6 +511,22 @@
     {
       "added_at": "2024-06-24 11:23:29",
       "album": {
+        "name": "The Silver Collection",
+        "url": "https://open.spotify.com/album/6t4BECovfkgGTrtbqmTlZf"
+      },
+      "artists": [
+        {
+          "name": "Dusty Springfield",
+          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
+        }
+      ],
+      "duration_ms": 146626,
+      "name": "Son Of A Preacher Man",
+      "url": "https://open.spotify.com/track/0scrtPmtlIVwwk9s4LXJ8n"
+    },
+    {
+      "added_at": "2024-06-24 11:23:29",
+      "album": {
         "name": "A Day in the Life",
         "url": "https://open.spotify.com/album/4jUwgH0Zd9DtgKiXFcBuHB"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 280880,
       "name": "Georgy Porgy (feat. Faith Evans)",
       "url": "https://open.spotify.com/track/5AIA8TpGhuilLpHbA6c1bq"
-    },
-    {
-      "added_at": "2024-06-24 11:23:29",
-      "album": {
-        "name": "The Silver Collection",
-        "url": "https://open.spotify.com/album/6t4BECovfkgGTrtbqmTlZf"
-      },
-      "artists": [
-        {
-          "name": "Dusty Springfield",
-          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
-        }
-      ],
-      "duration_ms": 146626,
-      "name": "Son Of A Preacher Man",
-      "url": "https://open.spotify.com/track/0scrtPmtlIVwwk9s4LXJ8n"
     },
     {
       "added_at": "2024-06-24 11:23:29",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-06-24 11:23:29",
       "album": {
-        "name": "Risqu\u00e9",
-        "url": "https://open.spotify.com/album/1UFBJkKiBe3Lzjr307UhuU"
-      },
-      "artists": [
-        {
-          "name": "CHIC",
-          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
-        }
-      ],
-      "duration_ms": 364853,
-      "name": "A Warm Summer Night",
-      "url": "https://open.spotify.com/track/55CJVnRVa2fHlwyKBVPJbZ"
-    },
-    {
-      "added_at": "2024-06-24 11:23:29",
-      "album": {
         "name": "Soul Folk In Action",
         "url": "https://open.spotify.com/album/6zv0vPPNWxgi8UvKsSWztL"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 275640,
       "name": "The Weight",
       "url": "https://open.spotify.com/track/00bOhb4584JjyfTiXX81mO"
+    },
+    {
+      "added_at": "2024-06-24 11:23:29",
+      "album": {
+        "name": "Risqu\u00e9",
+        "url": "https://open.spotify.com/album/1UFBJkKiBe3Lzjr307UhuU"
+      },
+      "artists": [
+        {
+          "name": "CHIC",
+          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
+        }
+      ],
+      "duration_ms": 364853,
+      "name": "A Warm Summer Night",
+      "url": "https://open.spotify.com/track/55CJVnRVa2fHlwyKBVPJbZ"
     },
     {
       "added_at": "2024-06-24 11:23:29",

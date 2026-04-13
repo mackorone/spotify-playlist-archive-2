@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-679 songs - 1 day 18 hr 37 min
+682 songs - 1 day 18 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Abra](https://open.spotify.com/track/4DB4uMofaOI0tejIe26XGI) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [Abra](https://open.spotify.com/album/73QJDc0XOLeUvA0ZbpoaHH) | 2:35 | 2022-07-15 | 2023-07-01 |
 | [Acide](https://open.spotify.com/track/5OEKWNC6VYU1Hpc48YdgBj) | [OOTORO](https://open.spotify.com/artist/3kWLEfykUXgiuhbR2NwnLI) | [Acide](https://open.spotify.com/album/0UjOOxQqX2guMInZQUUIsh) | 2:39 | 2023-08-20 | 2023-09-26 |
 | [Aerial View](https://open.spotify.com/track/1KhY15cipWHBZt2KgSIvto) | [Audio Horizon](https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz) | [Cinematic Bass: Epic Dubstep & Trap \(Vol\. 1\)](https://open.spotify.com/album/1WNBIHcvpB6sWakBROrIPV) | 3:04 | 2026-04-04 |  |
+| [aevor \- Radio Mix](https://open.spotify.com/track/6kZsKXbVNJk8YgUkYXvI7S) | [680Tone](https://open.spotify.com/artist/6dyENcarC8GAyfoI9GFw6l) | [aevor](https://open.spotify.com/album/6n2wd5hDqSugXMXUwffR2H) | 4:37 | 2026-04-12 |  |
 | [After the Dust Settles](https://open.spotify.com/track/7IbNQFyIa84ruIy43ZH4t5) | [Audio Horizon](https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz) | [Glass After the Fall: Cinematic Melodic House for Rooftop Nights \(Vol\. 1\)](https://open.spotify.com/album/50EZegdviixgmt6ZpGYj78) | 4:57 | 2026-03-30 |  |
 | [After the Echo](https://open.spotify.com/track/2H3g7RJOeQbha9i71Dri0d) | [Audio Horizon](https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz) | [Parallel Skies: Future Garage & Cinematic Bass \(Vol\. 1\)](https://open.spotify.com/album/1zHuy0yhMHocAREenyzNIB) | 3:57 | 2026-03-22 |  |
 | [Afterlife \- Original Mix](https://open.spotify.com/track/7pc3t5Yr2VLcsdRGFLvqES) | [Bartolomeo Di Chiara](https://open.spotify.com/artist/79HWXwdfrEFu327dotcqph) | [Afterlife \(Original Mix\)](https://open.spotify.com/album/0jwgN7ICfDjn2KD2MCndMK) | 4:03 | 2026-04-05 |  |
@@ -298,6 +299,7 @@
 | [Idiot Lights](https://open.spotify.com/track/36zyoakYKxmbY2JTHNAtKP) | [Audio Horizon](https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz) | [Afterhours: Cinematic Techno \(Vol\. 1\)](https://open.spotify.com/album/0bBdJLYoz7A5noEA8jVREa) | 5:38 | 2026-04-04 |  |
 | [If U Need It](https://open.spotify.com/track/5CaUUACiQFEf4zR5WoeIrp) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [If U Need It](https://open.spotify.com/album/628CN0UzuPsstc678cQ5Sn) | 2:59 | 2023-11-05 | 2024-01-15 |
 | [In My Brain](https://open.spotify.com/track/75VaEHJpYnWtHj7CenYbf8) | [Yungness & Jaminn](https://open.spotify.com/artist/2W0LCDXmrMO7acenLvkxyR) | [In My Brain](https://open.spotify.com/album/5fT2Hkzx9dhJCPsffatJDu) | 3:34 | 2023-03-05 | 2023-03-20 |
+| [In Pain](https://open.spotify.com/track/3PjmypGy0co98Jgeo11jMc) | [The Seadix](https://open.spotify.com/artist/5q5xX0d07ULjV8NKTGXLrB) | [Aplysia](https://open.spotify.com/album/5jK8fD4534sjltztJ8oMe7) | 3:51 | 2026-04-12 |  |
 | [In side skin](https://open.spotify.com/track/6JIivXWodaHrTBzlUVuIr2) | [Bruno Costa](https://open.spotify.com/artist/3yxmvN8rSmNEfyTCC7FaA2) | [Forbiten](https://open.spotify.com/album/37Nr0tgS9TULHQXu9HM73J) | 2:53 | 2026-01-27 | 2026-02-23 |
 | [In The Air](https://open.spotify.com/track/1d6drNGnLw63kP9Bm8aQtz) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [In The Air](https://open.spotify.com/album/4JHdM4BYdqOJGGw12t1bzX) | 2:44 | 2023-07-30 | 2023-08-28 |
 | [In the Park](https://open.spotify.com/track/1uyVw7Y1qZ5cOFXIxqku38) | [Marco Strous](https://open.spotify.com/artist/56HtyYJoZvYc5aVdqDd94i) | [In the Park / Snakes](https://open.spotify.com/album/2BEW4mDyxZP2BnyHbEx8xo) | 2:47 | 2024-07-07 |  |
@@ -408,6 +410,7 @@
 | [My Mind](https://open.spotify.com/track/6ansZdTXkdaVk3tyMTi6bb) | [Andrea Moricone](https://open.spotify.com/artist/5smRjMdumk9zNe6UQjc3eh), [Movha](https://open.spotify.com/artist/3NOBj57odsPGBoHI9Q2BrN) | [My Mind](https://open.spotify.com/album/5i2ESadvOMUga5McgUTlhL) | 3:14 | 2025-12-15 | 2026-01-03 |
 | [My Mind](https://open.spotify.com/track/4ZNuShYJjCqhDq83ZtYGgr) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Jack The House 4](https://open.spotify.com/album/544MMaUVvbfjueaRYH0SDl) | 2:56 | 2023-08-27 | 2023-09-26 |
 | [My Struggles](https://open.spotify.com/track/0vk1YQk2z3xad276H9wwNR) | [CHRIS GROOVES](https://open.spotify.com/artist/7c560bOtDY38gaSpNiN7y5) | [My Struggles](https://open.spotify.com/album/3pJypWlBAwUOMRxrUFSWDv) | 2:48 | 2024-07-07 |  |
+| [Natural born dancer](https://open.spotify.com/track/65Q8NGAO8O5yc3vH9xHS3w) | [Tess Mac Keen](https://open.spotify.com/artist/77mpUoVwkQ9qs9b4AQiDin) | [Natural born dancer](https://open.spotify.com/album/6NSCB0nuaihelCZ7lVLGWA) | 3:17 | 2026-04-12 |  |
 | [Navidad Se Siente](https://open.spotify.com/track/5ZsvrLOBLZijRHu73esl4I) | [Fabi Oterix](https://open.spotify.com/artist/2qFFYkDlojU3ca7hQmwKJK) | [Navidad Se Siente](https://open.spotify.com/album/3V9veXeh6Mzcbo6WmRcNPP) | 2:42 | 2026-04-06 |  |
 | [Needle On The Record](https://open.spotify.com/track/5qKuF0NtvWVn5UarAgyli3) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [Needle On The Record](https://open.spotify.com/album/7E0q2fAykseBKfLY7X53jJ) | 3:06 | 2023-11-26 | 2024-02-05 |
 | [Needle On The Record \- 4am Mix](https://open.spotify.com/track/1EzAJBjrWvYsUBHI1hoDnc) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [Needle On The Record \(4am Mix\)](https://open.spotify.com/album/6Vwh7m7Dc6c2ouZgjBLqZW) | 2:58 | 2024-02-18 | 2024-04-15 |

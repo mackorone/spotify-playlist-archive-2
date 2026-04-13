@@ -1,6 +1,6 @@
 {
   "description": "Intimate, sultry, satisfying. =",
-  "num_followers": 986061,
+  "num_followers": 986598,
   "original_name": "sexy indie",
   "owner": {
     "name": "Spotify",
@@ -503,22 +503,6 @@
     {
       "added_at": "2026-01-20 16:43:32",
       "album": {
-        "name": "JAMIE",
-        "url": "https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Destroy Myself Just For You",
-      "url": "https://open.spotify.com/track/40Fmr4mXhz4PtrMAPTnoXB"
-    },
-    {
-      "added_at": "2026-01-20 16:43:32",
-      "album": {
         "name": "Starboy",
         "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 111640,
       "name": "Stargirl Interlude",
       "url": "https://open.spotify.com/track/4EDijkJdHBZZ0GwJ12iTAj"
+    },
+    {
+      "added_at": "2026-01-20 16:43:32",
+      "album": {
+        "name": "JAMIE",
+        "url": "https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Destroy Myself Just For You",
+      "url": "https://open.spotify.com/track/40Fmr4mXhz4PtrMAPTnoXB"
     },
     {
       "added_at": "2026-01-20 16:43:32",

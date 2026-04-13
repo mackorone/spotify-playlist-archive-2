@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,850 likes - 60 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,860 likes - 60 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 54 | [Peito Aberto](https://open.spotify.com/track/6rrc5zmu5jC1j1146di7GY) | [Marina Peralta](https://open.spotify.com/artist/5zL3IWBA5pdMvLUmj0Dq2O), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [EME Lab](https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48) | [Peito Aberto](https://open.spotify.com/album/0scoy8UHbc4b7Rz5fZxuOl) | 3:13 |
 | 55 | [Sem Pressão](https://open.spotify.com/track/3kljvt39F20M9GWxS32jSy) | [Fúria](https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS), [Muse Maya](https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa) | [ALAKASAM](https://open.spotify.com/album/6OvCm5b3mYCKuNEzFB63A6) | 3:32 |
 | 56 | [Pegando Carona](https://open.spotify.com/track/4tc1q7IeDAfld5pKg0k4TA) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq) | [Ciclo Vicioso](https://open.spotify.com/album/5NN6jAsZ5ePXElnkk3gCuJ) | 3:26 |
-| 57 | [Conexão](https://open.spotify.com/track/1hoBqJiq8sR58nxGA1Wyva) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX), [Luan LDS](https://open.spotify.com/artist/09zWmRrnBdacbqJUkysC3J) | [Conexão](https://open.spotify.com/album/3B0e27bRsdqkf8jAYIMC4i) | 2:23 |
+| 57 | [Passa a Bola \(Ao Vivo em Noronha\)](https://open.spotify.com/track/41nNYqljJ4TY1ORtcMoNA1) | [Planta E Raiz](https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV) | [Passa a Bola \(Ao Vivo em Noronha\)](https://open.spotify.com/album/4eCXQWkuhMpQJpF33batUs) | 3:08 |
 | 58 | [Toda Linda \(feat\. Caslu\)](https://open.spotify.com/track/2NyTRP7BbxiiCdH3V48oyd) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE), [DoisP](https://open.spotify.com/artist/4xcFNIVM3qTAXKmGRcBxx2), [Junior Lord](https://open.spotify.com/artist/6rFkZxhheU9l1nODgZm4SP), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0), [Caslu](https://open.spotify.com/artist/1FrO6hhB0YyDvFJMonSY9T) | [Modo Avião](https://open.spotify.com/album/1GZPzZKe37xeQqxi1gXASH) | 2:48 |
-| 59 | [Passa a Bola \(Ao Vivo em Noronha\)](https://open.spotify.com/track/41nNYqljJ4TY1ORtcMoNA1) | [Planta E Raiz](https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV) | [Passa a Bola \(Ao Vivo em Noronha\)](https://open.spotify.com/album/4eCXQWkuhMpQJpF33batUs) | 3:08 |
+| 59 | [Conexão](https://open.spotify.com/track/1hoBqJiq8sR58nxGA1Wyva) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX), [Luan LDS](https://open.spotify.com/artist/09zWmRrnBdacbqJUkysC3J) | [Conexão](https://open.spotify.com/album/3B0e27bRsdqkf8jAYIMC4i) | 2:23 |
 | 60 | [Bate A Onda](https://open.spotify.com/track/4fS2nX8MqXNoj3blmhKN37) | [Rio Santana](https://open.spotify.com/artist/3mLdH6xxrscTf2poCN9Kzy), [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [TrapLaudo](https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF) | [Bate A Onda](https://open.spotify.com/album/5a6vhhBt57N7ICELNkJ7Z1) | 4:41 |
 
 Snapshot ID: `AAAAAFL1sGrzJ45eSkjKdipMgqLZ444B`

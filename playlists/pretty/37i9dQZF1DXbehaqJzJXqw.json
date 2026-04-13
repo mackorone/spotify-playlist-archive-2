@@ -1,6 +1,6 @@
 {
   "description": "You are sipping on your coffee in a caf\u00e9 in Paris while a Jazz band plays somewhere in the background. ",
-  "num_followers": 667844,
+  "num_followers": 668209,
   "original_name": "French Jazz Caf\u00e9",
   "owner": {
     "name": "Spotify",
@@ -327,6 +327,22 @@
     {
       "added_at": "2026-02-13 08:51:02",
       "album": {
+        "name": "Le Temps D'un Jazz",
+        "url": "https://open.spotify.com/album/1SCXuUhchyBCqujs642Uc9"
+      },
+      "artists": [
+        {
+          "name": "DANIEL ROURE",
+          "url": "https://open.spotify.com/artist/7chv9cbzN45866WLtedtIO"
+        }
+      ],
+      "duration_ms": 233653,
+      "name": "Le Temps D'Un Jazz",
+      "url": "https://open.spotify.com/track/5NWxFc2xocyRyx0sak1H9Z"
+    },
+    {
+      "added_at": "2026-02-13 08:51:02",
+      "album": {
         "name": "Dalida By Ibrahim Maalouf",
         "url": "https://open.spotify.com/album/6yEmVECRBuuBzZzGkSvTUH"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 259000,
       "name": "J'attendrai",
       "url": "https://open.spotify.com/track/0ik9ZRMOJjA9GK2QCcuVXj"
-    },
-    {
-      "added_at": "2026-02-13 08:51:02",
-      "album": {
-        "name": "Le Temps D'un Jazz",
-        "url": "https://open.spotify.com/album/1SCXuUhchyBCqujs642Uc9"
-      },
-      "artists": [
-        {
-          "name": "DANIEL ROURE",
-          "url": "https://open.spotify.com/artist/7chv9cbzN45866WLtedtIO"
-        }
-      ],
-      "duration_ms": 233653,
-      "name": "Le Temps D'Un Jazz",
-      "url": "https://open.spotify.com/track/5NWxFc2xocyRyx0sak1H9Z"
     },
     {
       "added_at": "2026-02-13 08:51:02",
@@ -523,22 +523,6 @@
     {
       "added_at": "2026-02-13 08:51:02",
       "album": {
-        "name": "Little French Songs (Deluxe Version Without Videos)",
-        "url": "https://open.spotify.com/album/0VeKwTXHqVb5fHj2SaNXwx"
-      },
-      "artists": [
-        {
-          "name": "Carla Bruni",
-          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
-        }
-      ],
-      "duration_ms": 216282,
-      "name": "Libert\u00e9",
-      "url": "https://open.spotify.com/track/4yqfZnLlKlNI4xOazFq0Jo"
-    },
-    {
-      "added_at": "2026-02-13 08:51:02",
-      "album": {
         "name": "Soir\u00e9e",
         "url": "https://open.spotify.com/album/4lddlOYftwWpttdq2MRpVy"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 189026,
       "name": "Vous Qui Passez Sans Me Voir",
       "url": "https://open.spotify.com/track/4GMWA6sqYzdDCma6oCBI1D"
+    },
+    {
+      "added_at": "2026-02-13 08:51:02",
+      "album": {
+        "name": "Little French Songs (Deluxe Version Without Videos)",
+        "url": "https://open.spotify.com/album/0VeKwTXHqVb5fHj2SaNXwx"
+      },
+      "artists": [
+        {
+          "name": "Carla Bruni",
+          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
+        }
+      ],
+      "duration_ms": 216282,
+      "name": "Libert\u00e9",
+      "url": "https://open.spotify.com/track/4yqfZnLlKlNI4xOazFq0Jo"
     },
     {
       "added_at": "2026-02-13 08:51:02",
@@ -815,22 +815,6 @@
     {
       "added_at": "2026-02-13 08:51:02",
       "album": {
-        "name": "Lovely Difficult",
-        "url": "https://open.spotify.com/album/19vR7lLDnkhfmcdEYmXOtB"
-      },
-      "artists": [
-        {
-          "name": "Mayra Andrade",
-          "url": "https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE"
-        }
-      ],
-      "duration_ms": 227026,
-      "name": "Les mots d'amour",
-      "url": "https://open.spotify.com/track/5wWsPTSLg9gLuD39EjCxB4"
-    },
-    {
-      "added_at": "2026-02-13 08:51:02",
-      "album": {
         "name": "Merle Noir",
         "url": "https://open.spotify.com/album/6kb00WTbKIXhUqK8VAFXod"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 289413,
       "name": "Menilmontant",
       "url": "https://open.spotify.com/track/7k125cYjRfIYB23FOQTeTy"
+    },
+    {
+      "added_at": "2026-02-13 08:51:02",
+      "album": {
+        "name": "Lovely Difficult",
+        "url": "https://open.spotify.com/album/19vR7lLDnkhfmcdEYmXOtB"
+      },
+      "artists": [
+        {
+          "name": "Mayra Andrade",
+          "url": "https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE"
+        }
+      ],
+      "duration_ms": 227026,
+      "name": "Les mots d'amour",
+      "url": "https://open.spotify.com/track/5wWsPTSLg9gLuD39EjCxB4"
     },
     {
       "added_at": "2026-02-13 08:51:02",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-02-13 08:51:02",
       "album": {
-        "name": "My Gentleman Friend",
-        "url": "https://open.spotify.com/album/5D5eQmgvrCleIhNPOixTqh"
-      },
-      "artists": [
-        {
-          "name": "Blossom Dearie",
-          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
-        }
-      ],
-      "duration_ms": 186693,
-      "name": "Chez Moi",
-      "url": "https://open.spotify.com/track/16UdsCC8mjirUrtjA9HaG5"
-    },
-    {
-      "added_at": "2026-02-13 08:51:02",
-      "album": {
         "name": "Sous le ciel de Paris",
         "url": "https://open.spotify.com/album/4GExjXdEO3WjgQnWH7nLKe"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 194863,
       "name": "Sous le ciel de Paris",
       "url": "https://open.spotify.com/track/5nG9avzwlv693nrs10GZXW"
+    },
+    {
+      "added_at": "2026-02-13 08:51:02",
+      "album": {
+        "name": "My Gentleman Friend",
+        "url": "https://open.spotify.com/album/5D5eQmgvrCleIhNPOixTqh"
+      },
+      "artists": [
+        {
+          "name": "Blossom Dearie",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+        }
+      ],
+      "duration_ms": 186693,
+      "name": "Chez Moi",
+      "url": "https://open.spotify.com/track/16UdsCC8mjirUrtjA9HaG5"
     },
     {
       "added_at": "2026-02-13 08:51:02",
@@ -1195,18 +1195,22 @@
     {
       "added_at": "2026-02-13 08:51:02",
       "album": {
-        "name": "Chansons sans \u00e9poques: 1964 - 1968 (Remasteris\u00e9 en 2017)",
-        "url": "https://open.spotify.com/album/0lFb6bBBCGagIFrblxhjE3"
+        "name": "Venez donc chez moi",
+        "url": "https://open.spotify.com/album/1yxOTyDqxGDFFPVBql7fHO"
       },
       "artists": [
         {
-          "name": "Charles Trenet",
-          "url": "https://open.spotify.com/artist/4a16JEaHldo5vZuRojtGTZ"
+          "name": "Laura Anglade",
+          "url": "https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG"
+        },
+        {
+          "name": "Sam Kirmayer",
+          "url": "https://open.spotify.com/artist/0uXK3xGtTXmMvcVVCeHee5"
         }
       ],
-      "duration_ms": 193586,
-      "name": "Si tu vas \u00e0 Paris - Remasteris\u00e9 en 2017",
-      "url": "https://open.spotify.com/track/0WYNxfmeHtYss2iUaiEDCJ"
+      "duration_ms": 180139,
+      "name": "J\u2019aime Paris au mois de mai",
+      "url": "https://open.spotify.com/track/1S9iKpZkOwa8DHfpf0I27l"
     },
     {
       "added_at": "2026-02-13 08:51:02",
@@ -1227,22 +1231,18 @@
     {
       "added_at": "2026-02-13 08:51:02",
       "album": {
-        "name": "Venez donc chez moi",
-        "url": "https://open.spotify.com/album/1yxOTyDqxGDFFPVBql7fHO"
+        "name": "Chansons sans \u00e9poques: 1964 - 1968 (Remasteris\u00e9 en 2017)",
+        "url": "https://open.spotify.com/album/0lFb6bBBCGagIFrblxhjE3"
       },
       "artists": [
         {
-          "name": "Laura Anglade",
-          "url": "https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG"
-        },
-        {
-          "name": "Sam Kirmayer",
-          "url": "https://open.spotify.com/artist/0uXK3xGtTXmMvcVVCeHee5"
+          "name": "Charles Trenet",
+          "url": "https://open.spotify.com/artist/4a16JEaHldo5vZuRojtGTZ"
         }
       ],
-      "duration_ms": 180139,
-      "name": "J\u2019aime Paris au mois de mai",
-      "url": "https://open.spotify.com/track/1S9iKpZkOwa8DHfpf0I27l"
+      "duration_ms": 193586,
+      "name": "Si tu vas \u00e0 Paris - Remasteris\u00e9 en 2017",
+      "url": "https://open.spotify.com/track/0WYNxfmeHtYss2iUaiEDCJ"
     },
     {
       "added_at": "2026-02-13 08:51:02",

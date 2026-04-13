@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 
 > All new Gospel songs on the rise! Cover: Forward City
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,015 likes - 100 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,058 likes - 100 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 | 99 | [Striving \(feat\. Anthony Moore\)](https://open.spotify.com/track/44f2MNIC9eNDBCyaWhYIrX) | [Meant by God](https://open.spotify.com/artist/6aauaoCOgZLUfQhyGDUpk7), [Anthony Moore](https://open.spotify.com/artist/76wxz8vBe42BMa36k2gb3v) | [Striving \(feat\. Anthony Moore\)](https://open.spotify.com/album/775Fjkw5kR3hwGOArcgiXx) | 4:42 |
 | 100 | [no stages](https://open.spotify.com/track/3sX88h1DVMSRa1VUm3rvhe) | [ANTHNY](https://open.spotify.com/artist/4BlBv9QEzkvROw7jx0uWC5) | [no stages](https://open.spotify.com/album/7EHxYwSPjYf9WkSFfVeC1u) | 4:30 |
 
-Snapshot ID: `AAAAAHbEPzpqxUuEOGlt4cPDMiYWg8eO`
+Snapshot ID: `AAAAAEcsd+gmHT3fwcA80TZargGwQCj+`

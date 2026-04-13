@@ -1,12 +1,12 @@
 {
   "description": "This is Pedro Cap\u00f3. The essential tracks, all in one playlist.",
-  "num_followers": 70555,
+  "num_followers": 70556,
   "original_name": "This Is Pedro Cap\u00f3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adg9gAAAAAA1FsWdQf2+5y71lTP/5Rw0",
+  "snapshot_id": "admPAAAAAAC3Yg5hCpHnmX0sJunho1Q6",
   "tracks": [
     {
       "added_at": null,
@@ -499,18 +499,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "MUNAY",
-        "url": "https://open.spotify.com/album/4E0E7d1jNLPrmf1u4xMnl8"
+        "name": "Hasta El Alma",
+        "url": "https://open.spotify.com/album/6LP2T6ARkvQcoqBornwcox"
       },
       "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        },
         {
           "name": "Pedro Cap\u00f3",
           "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
         }
       ],
-      "duration_ms": 174917,
-      "name": "Buena Suerte",
-      "url": "https://open.spotify.com/track/4fAlzlBojsx7aA9llmidAN"
+      "duration_ms": 187593,
+      "name": "Sin Haber Dormido",
+      "url": "https://open.spotify.com/track/4NfO9rUJEMgZ1C9Vw059vc"
     },
     {
       "added_at": null,
@@ -539,22 +543,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hasta El Alma",
-        "url": "https://open.spotify.com/album/6LP2T6ARkvQcoqBornwcox"
+        "name": "MUNAY",
+        "url": "https://open.spotify.com/album/4E0E7d1jNLPrmf1u4xMnl8"
       },
       "artists": [
-        {
-          "name": "Luciano Pereyra",
-          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
-        },
         {
           "name": "Pedro Cap\u00f3",
           "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
         }
       ],
-      "duration_ms": 187593,
-      "name": "Sin Haber Dormido",
-      "url": "https://open.spotify.com/track/4NfO9rUJEMgZ1C9Vw059vc"
+      "duration_ms": 174917,
+      "name": "Buena Suerte",
+      "url": "https://open.spotify.com/track/4fAlzlBojsx7aA9llmidAN"
     },
     {
       "added_at": null,
@@ -815,42 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PAUSA",
-        "url": "https://open.spotify.com/album/3hS1wzvOJuioDs9VV6HW3R"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 218665,
-      "name": "Cae de Una",
-      "url": "https://open.spotify.com/track/3NG3wfTRRPiGLxysGXG5RU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Neta",
-        "url": "https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 173310,
-      "name": "Volver a Casa",
-      "url": "https://open.spotify.com/track/0fiY9KBlMWgK1xrQTlmzyS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Palmeras",
         "url": "https://open.spotify.com/album/44T0wt9lD2FnxPg5d2qXJL"
       },
@@ -871,6 +835,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Neta",
+        "url": "https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 173310,
+      "name": "Volver a Casa",
+      "url": "https://open.spotify.com/track/0fiY9KBlMWgK1xrQTlmzyS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PAUSA",
+        "url": "https://open.spotify.com/album/3hS1wzvOJuioDs9VV6HW3R"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 218665,
+      "name": "Cae de Una",
+      "url": "https://open.spotify.com/track/3NG3wfTRRPiGLxysGXG5RU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mis No Lugares",
         "url": "https://open.spotify.com/album/5UTVOml5TfH7wUeCkqxM8k"
       },
@@ -887,6 +887,26 @@
       "duration_ms": 178285,
       "name": "Jard\u00edn",
       "url": "https://open.spotify.com/track/6SpEFYmSZQJGuyL8tiyhnZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Fiesta",
+        "url": "https://open.spotify.com/album/3zn9otXWGsS4fKtmayZgC0"
+      },
+      "artists": [
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 170099,
+      "name": "La Fiesta",
+      "url": "https://open.spotify.com/track/5bcR0cFXf0qhLR6de6xCmO"
     },
     {
       "added_at": null,
@@ -923,26 +943,6 @@
       "duration_ms": 205104,
       "name": "Detalles",
       "url": "https://open.spotify.com/track/096jMYuaNreIRkEQ4EuM5Z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Fiesta",
-        "url": "https://open.spotify.com/album/3zn9otXWGsS4fKtmayZgC0"
-      },
-      "artists": [
-        {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 170099,
-      "name": "La Fiesta",
-      "url": "https://open.spotify.com/track/5bcR0cFXf0qhLR6de6xCmO"
     },
     {
       "added_at": null,

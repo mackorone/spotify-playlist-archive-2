@@ -1,6 +1,6 @@
 {
   "description": "Queeeima pared\u00e3o! Pra forrozeiro sofrer dan\u00e7ando e dan\u00e7ar sofrendo, bora.",
-  "num_followers": 282098,
+  "num_followers": 282120,
   "original_name": "Bora arrochar",
   "owner": {
     "name": "Spotify",
@@ -219,26 +219,6 @@
     {
       "added_at": "2025-11-07 18:48:09",
       "album": {
-        "name": "SENTIMENTO (Ao Vivo Em Fortaleza)",
-        "url": "https://open.spotify.com/album/78AGsXwaEeeldx45IYQwD7"
-      },
-      "artists": [
-        {
-          "name": "Manim Vaqueiro",
-          "url": "https://open.spotify.com/artist/2MRXYszuTIaEliCCD22crt"
-        },
-        {
-          "name": "Raphaela Santos",
-          "url": "https://open.spotify.com/artist/1xUYzPQi0zdezdLkEjuqQH"
-        }
-      ],
-      "duration_ms": 147575,
-      "name": "Como \u00c9 Que Fala N\u00e3o - Ao Vivo em Fortaleza",
-      "url": "https://open.spotify.com/track/7nGa1g2h11waps42jwfQPa"
-    },
-    {
-      "added_at": "2025-11-07 18:48:09",
-      "album": {
         "name": "Me Usa (Ao Vivo)",
         "url": "https://open.spotify.com/album/6ojZbzLsAtBkFhRXdGslYl"
       },
@@ -255,6 +235,26 @@
       "duration_ms": 166451,
       "name": "Me Usa - Ao Vivo",
       "url": "https://open.spotify.com/track/6a382HNK01vxXOucIrXMZ3"
+    },
+    {
+      "added_at": "2025-11-07 18:48:09",
+      "album": {
+        "name": "SENTIMENTO (Ao Vivo Em Fortaleza)",
+        "url": "https://open.spotify.com/album/78AGsXwaEeeldx45IYQwD7"
+      },
+      "artists": [
+        {
+          "name": "Manim Vaqueiro",
+          "url": "https://open.spotify.com/artist/2MRXYszuTIaEliCCD22crt"
+        },
+        {
+          "name": "Raphaela Santos",
+          "url": "https://open.spotify.com/artist/1xUYzPQi0zdezdLkEjuqQH"
+        }
+      ],
+      "duration_ms": 147575,
+      "name": "Como \u00c9 Que Fala N\u00e3o - Ao Vivo em Fortaleza",
+      "url": "https://open.spotify.com/track/7nGa1g2h11waps42jwfQPa"
     },
     {
       "added_at": "2025-11-07 18:48:09",
@@ -655,26 +655,6 @@
     {
       "added_at": "2025-11-07 18:48:09",
       "album": {
-        "name": "Quem Me Dera",
-        "url": "https://open.spotify.com/album/4dnvHZqul9z0csYtnHcHw7"
-      },
-      "artists": [
-        {
-          "name": "M\u00e1rcia Fellipe",
-          "url": "https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K"
-        },
-        {
-          "name": "Jerry Smith",
-          "url": "https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk"
-        }
-      ],
-      "duration_ms": 147990,
-      "name": "Quem Me Dera",
-      "url": "https://open.spotify.com/track/29dRTbLTxRaSl63DIzbjvl"
-    },
-    {
-      "added_at": "2025-11-07 18:48:09",
-      "album": {
         "name": "Todos Os Ritmos",
         "url": "https://open.spotify.com/album/2Jim2Tr9XtfwdDB5ZsmI6u"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 197233,
       "name": "Ela Aperta a Minha Mente",
       "url": "https://open.spotify.com/track/1T3hcBQRwacjWLuJJFt8co"
+    },
+    {
+      "added_at": "2025-11-07 18:48:09",
+      "album": {
+        "name": "Quem Me Dera",
+        "url": "https://open.spotify.com/album/4dnvHZqul9z0csYtnHcHw7"
+      },
+      "artists": [
+        {
+          "name": "M\u00e1rcia Fellipe",
+          "url": "https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K"
+        },
+        {
+          "name": "Jerry Smith",
+          "url": "https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk"
+        }
+      ],
+      "duration_ms": 147990,
+      "name": "Quem Me Dera",
+      "url": "https://open.spotify.com/track/29dRTbLTxRaSl63DIzbjvl"
     },
     {
       "added_at": "2025-11-07 18:48:09",

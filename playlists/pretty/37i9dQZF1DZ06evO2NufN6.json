@@ -1,12 +1,12 @@
 {
   "description": "This is Mac Miller. The essential tracks, all in one playlist.",
-  "num_followers": 985523,
+  "num_followers": 985604,
   "original_name": "This Is Mac Miller",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adg9gAAAAAA+TINu4mDYbygZp8OCfgiJ",
+  "snapshot_id": "admPAAAAAAAyB0c49N4LD8ERuAiyeChf",
   "tracks": [
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Divine Feminine",
-        "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 272973,
-      "name": "Soulmate",
-      "url": "https://open.spotify.com/track/2puHJmjL4jvO19aEA7kzcb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Watching Movies with the Sound Off",
         "url": "https://open.spotify.com/album/4iwdNpYgW4MwnJ3q1JZ88U"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 259143,
       "name": "Objects in the Mirror",
       "url": "https://open.spotify.com/track/4zlfuYV39hjCa5RbgdhVCr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Divine Feminine",
+        "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 272973,
+      "name": "Soulmate",
+      "url": "https://open.spotify.com/track/2puHJmjL4jvO19aEA7kzcb"
     },
     {
       "added_at": null,
@@ -571,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Watching Movies with the Sound Off",
+        "url": "https://open.spotify.com/album/4iwdNpYgW4MwnJ3q1JZ88U"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 256423,
+      "name": "Someone Like You",
+      "url": "https://open.spotify.com/track/3jAvvLf01asKBOSVrIFkmq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Divine Feminine",
         "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
       },
@@ -591,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Watching Movies with the Sound Off",
-        "url": "https://open.spotify.com/album/4iwdNpYgW4MwnJ3q1JZ88U"
+        "name": "Live From Space",
+        "url": "https://open.spotify.com/album/4SRDdI1KeTePYz4R3Padx8"
       },
       "artists": [
         {
@@ -600,9 +616,9 @@
           "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
         }
       ],
-      "duration_ms": 256423,
-      "name": "Someone Like You",
-      "url": "https://open.spotify.com/track/3jAvvLf01asKBOSVrIFkmq"
+      "duration_ms": 195453,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/01juI6Hbx2KNaQCRY14kzz"
     },
     {
       "added_at": null,
@@ -635,22 +651,6 @@
       "duration_ms": 292466,
       "name": "Ascension",
       "url": "https://open.spotify.com/track/19CkkPInDRDIOlqfrz1mVn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live From Space",
-        "url": "https://open.spotify.com/album/4SRDdI1KeTePYz4R3Padx8"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 195453,
-      "name": "Life",
-      "url": "https://open.spotify.com/track/01juI6Hbx2KNaQCRY14kzz"
     },
     {
       "added_at": null,
@@ -703,38 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GO:OD AM",
-        "url": "https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 180866,
-      "name": "Clubhouse",
-      "url": "https://open.spotify.com/track/7rdyAfIm1t6h6I1gyLtD17"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Faces",
-        "url": "https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 198107,
-      "name": "Diablo",
-      "url": "https://open.spotify.com/track/3BDpkLMkgrtrM3HckrVIXr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "K.I.D.S. (Deluxe)",
         "url": "https://open.spotify.com/album/70Zkfb99ladZ3q0JVg97co"
       },
@@ -751,6 +719,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "GO:OD AM",
+        "url": "https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 180866,
+      "name": "Clubhouse",
+      "url": "https://open.spotify.com/track/7rdyAfIm1t6h6I1gyLtD17"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Best Day Ever",
         "url": "https://open.spotify.com/album/2OxW8MjnnNSAvFoG7igg7M"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 164522,
       "name": "Donald Trump",
       "url": "https://open.spotify.com/track/7bgEdC6evKWmOwWpEGoAOw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Faces",
+        "url": "https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 198107,
+      "name": "Diablo",
+      "url": "https://open.spotify.com/track/3BDpkLMkgrtrM3HckrVIXr"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Bask in the sound of soul, old and new.",
-  "num_followers": 727952,
+  "num_followers": 727966,
   "original_name": "Sweet Soul Sunday",
   "owner": {
     "name": "Spotify",
@@ -879,22 +879,6 @@
     {
       "added_at": "2026-01-28 15:18:37",
       "album": {
-        "name": "It Could Be Worse",
-        "url": "https://open.spotify.com/album/1mRgtlHEIpq6xOg71TxGqV"
-      },
-      "artists": [
-        {
-          "name": "Samm Henshaw",
-          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
-        }
-      ],
-      "duration_ms": 177688,
-      "name": "Float",
-      "url": "https://open.spotify.com/track/053cVLAvWvv8VIRolBs9nP"
-    },
-    {
-      "added_at": "2026-01-28 15:18:37",
-      "album": {
         "name": "Every Great Motown Hit Of Marvin Gaye",
         "url": "https://open.spotify.com/album/4JdEAA9aYadM2pZ96VHKNL"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 223523,
       "name": "Love the One You're With",
       "url": "https://open.spotify.com/track/0NnyYBnyStcNKDu7PejLPF"
+    },
+    {
+      "added_at": "2026-01-28 15:18:37",
+      "album": {
+        "name": "It Could Be Worse",
+        "url": "https://open.spotify.com/album/1mRgtlHEIpq6xOg71TxGqV"
+      },
+      "artists": [
+        {
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+        }
+      ],
+      "duration_ms": 177688,
+      "name": "Float",
+      "url": "https://open.spotify.com/track/053cVLAvWvv8VIRolBs9nP"
     },
     {
       "added_at": "2026-01-28 15:18:37",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2026-01-28 15:18:37",
       "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/3trzDDxRglGCjR0QVnR3zd"
-      },
-      "artists": [
-        {
-          "name": "JONES",
-          "url": "https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv"
-        }
-      ],
-      "duration_ms": 191689,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/1yQVv5jxjHfx2hP8VUfyiA"
-    },
-    {
-      "added_at": "2026-01-28 15:18:37",
-      "album": {
         "name": "Everything",
         "url": "https://open.spotify.com/album/7H2TlAwM0GMWeZbT3XGI0F"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 215573,
       "name": "Everything",
       "url": "https://open.spotify.com/track/3ELZG2YLGrwCVesooFyF4e"
+    },
+    {
+      "added_at": "2026-01-28 15:18:37",
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/3trzDDxRglGCjR0QVnR3zd"
+      },
+      "artists": [
+        {
+          "name": "JONES",
+          "url": "https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv"
+        }
+      ],
+      "duration_ms": 191689,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/1yQVv5jxjHfx2hP8VUfyiA"
     },
     {
       "added_at": "2026-01-28 15:18:37",
@@ -1215,26 +1215,6 @@
     {
       "added_at": "2026-01-28 15:18:37",
       "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/48GGRBVO34uMUTyCII8ZpY"
-      },
-      "artists": [
-        {
-          "name": "Dayo Bello",
-          "url": "https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2"
-        },
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 205846,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/7HUWDK8W290h5FD9G5t3eH"
-    },
-    {
-      "added_at": "2026-01-28 15:18:37",
-      "album": {
         "name": "Ten Cane Row (feat. Jorja Smith)",
         "url": "https://open.spotify.com/album/5BY7i9MB7Ykwf7hMt1npU1"
       },
@@ -1251,6 +1231,26 @@
       "duration_ms": 209586,
       "name": "Ten Cane Row (feat. Jorja Smith)",
       "url": "https://open.spotify.com/track/1ObD1mQ91u4yBK46EYNCgl"
+    },
+    {
+      "added_at": "2026-01-28 15:18:37",
+      "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/48GGRBVO34uMUTyCII8ZpY"
+      },
+      "artists": [
+        {
+          "name": "Dayo Bello",
+          "url": "https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2"
+        },
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 205846,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/7HUWDK8W290h5FD9G5t3eH"
     },
     {
       "added_at": "2026-01-28 15:18:37",

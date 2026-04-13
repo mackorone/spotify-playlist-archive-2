@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PsvJSPnPf.md) - [plain]
 
 > Sweet sounds and welcoming vibes—come on in and stay for a while
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,841 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,853 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PsvJSPnPf.md) - [plain]
 | 59 | [It Knows Me \- Alt Version](https://open.spotify.com/track/3nXQmF3Dzmi9W1UWDigZtu) | [Avi Kaplan](https://open.spotify.com/artist/179MtpbgyNgeNnwNVqnn4p) | [Lean On Me EP](https://open.spotify.com/album/6NIVIrZyIiaZiC8zkZ4tDe) | 4:02 |
 | 60 | [Heartache After Heartache](https://open.spotify.com/track/29iUxBEvjcdwDW8xxH0qB3) | [Thomas Csorba](https://open.spotify.com/artist/21BSy0UVoDXEiRdA9v9uUH) | [Thomas Csorba](https://open.spotify.com/album/4YDSW8TCkvKByl7sOKtyH4) | 4:15 |
 | 61 | [Whippoorwill](https://open.spotify.com/track/1n0UUVUi4OzfjJEtuBKWfL) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Whippoorwill](https://open.spotify.com/album/5XGBibZqSHNNIqASXsYuKW) | 4:38 |
-| 62 | [Gentle on My Mind](https://open.spotify.com/track/2nX2TPYt4QOuRdCfbPFq9o) | [Robert Ellis](https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE), [Courtney Hartman](https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7) | [Dear John](https://open.spotify.com/album/5tRGxNTSlav2KGfMrRN1L6) | 5:52 |
-| 63 | [Where is the Heart of My Country](https://open.spotify.com/track/4VnrZj5hxHkKvY60VbpDLS) | [Caitlin Canty](https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl) | [Where is the Heart of My Country](https://open.spotify.com/album/2PIfdfMglh7KRBIzseJpd5) | 5:13 |
+| 62 | [Where is the Heart of My Country](https://open.spotify.com/track/4VnrZj5hxHkKvY60VbpDLS) | [Caitlin Canty](https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl) | [Where is the Heart of My Country](https://open.spotify.com/album/2PIfdfMglh7KRBIzseJpd5) | 5:13 |
+| 63 | [Gentle on My Mind](https://open.spotify.com/track/2nX2TPYt4QOuRdCfbPFq9o) | [Robert Ellis](https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE), [Courtney Hartman](https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7) | [Dear John](https://open.spotify.com/album/5tRGxNTSlav2KGfMrRN1L6) | 5:52 |
 | 64 | [When Creation Was Young](https://open.spotify.com/track/4ZkZeQaJjmKuUPr7SOIjhU) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu) | 3:29 |
 | 65 | [How Bad I Wanna Live](https://open.spotify.com/track/4k3Cin3TLWvOwRwCPnStl5) | [Maya De Vitry](https://open.spotify.com/artist/183NiypM74rwjSbeava1pq) | [Violet Light](https://open.spotify.com/album/5hjFXxJnA3yIO5kDGjr2GC) | 2:53 |
 | 66 | [Sunshine Kisses](https://open.spotify.com/track/7t0EiqNogoInkPjvI3eLZI) | [Sabine McCalla](https://open.spotify.com/artist/7Eo1K9fCpeF4lnvbpVcrWR) | [Anything Without You](https://open.spotify.com/album/4ea2marOalv22zoOpc5wnl) | 4:00 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PsvJSPnPf.md) - [plain]
 | 83 | [Heart Swell](https://open.spotify.com/track/2mML5QnqL781rheJbrmJuW) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Heart Swell](https://open.spotify.com/album/1MxHShulhqcUsMq6Iddlk7) | 4:09 |
 | 84 | [I Think Of You \(feat\. Ruston Kelly\)](https://open.spotify.com/track/0lCsl0fx0eXqt4GjvoZkjv) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R), [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [I Think of You \(The Heartache Collection\)](https://open.spotify.com/album/79sDvY5z5bsXMfCq6iegQ6) | 3:17 |
 | 85 | [May Your Kindness Remain](https://open.spotify.com/track/71l6dkMk6FSKcL4LcC8hzG) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [May Your Kindness Remain](https://open.spotify.com/album/1U8907wmzKNgvDEW3mk21S) | 3:54 |
-| 86 | [Olive](https://open.spotify.com/track/3DolcY2auWoB9cWQFt5L7L) | [Sara Marie Rorie](https://open.spotify.com/artist/39YXEVzdhxmjPonCaqbdpz) | [Olive](https://open.spotify.com/album/4ymDc9SrTnwkegqrJgx4U9) | 3:30 |
-| 87 | [Love Me Today](https://open.spotify.com/track/6at7kKJ4UAO7EXXto19gYU) | [Bryan Andrews](https://open.spotify.com/artist/0YFw9O2fbwkGXgnmTxAavB) | [Love Me Today](https://open.spotify.com/album/04sgEuWq9dL2s8j8E7y97s) | 3:51 |
+| 86 | [Love Me Today](https://open.spotify.com/track/6at7kKJ4UAO7EXXto19gYU) | [Bryan Andrews](https://open.spotify.com/artist/0YFw9O2fbwkGXgnmTxAavB) | [Love Me Today](https://open.spotify.com/album/04sgEuWq9dL2s8j8E7y97s) | 3:51 |
+| 87 | [Olive](https://open.spotify.com/track/3DolcY2auWoB9cWQFt5L7L) | [Sara Marie Rorie](https://open.spotify.com/artist/39YXEVzdhxmjPonCaqbdpz) | [Olive](https://open.spotify.com/album/4ymDc9SrTnwkegqrJgx4U9) | 3:30 |
 | 88 | [July Jackson \- Billy Horton Sessions](https://open.spotify.com/track/0mgeY4RQLtvDtmqp8A5m9n) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [July Jackson \(Billy Horton Sessions\)](https://open.spotify.com/album/39gJS5syykqaNY6U4DHwvW) | 2:43 |
 | 89 | [Silver Valley](https://open.spotify.com/track/2FbPOBRlg3s36jfEC2vAGj) | [David Miner](https://open.spotify.com/artist/6VumpqEj917mn0DCQMUbGJ) | [Silver Valley](https://open.spotify.com/album/6N8JvTIcevgsOAcwwfmJWo) | 4:35 |
 | 90 | [Little Reminders](https://open.spotify.com/track/1t9t8EHLXIhSgp0ffBB8oQ) | [Caleb Caudle](https://open.spotify.com/artist/2FZLOlw11Ta6hcSK6a7FPU) | [Little Reminders](https://open.spotify.com/album/6jnwhFn1h5eQpgyb6HGeES) | 3:40 |
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PsvJSPnPf.md) - [plain]
 | 93 | [Road to Avalon](https://open.spotify.com/track/0iQMKwNdYXGWRW9bS7yoKf) | [Ida Mae](https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK) | [Click Click Domino](https://open.spotify.com/album/4jZkftndOfxPCNaUyeUQfq) | 4:36 |
 | 94 | [Just Want To Be Loved](https://open.spotify.com/track/0NYl9aDHEcTNQ8SKu8GLqM) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Mipso](https://open.spotify.com/album/71wj7iB4JXxUUTPosOpXMM) | 3:16 |
 | 95 | [Falling Snow in Santa Fe](https://open.spotify.com/track/5cniB9uCQHULDoYPqxGfms) | [Jonathan Terrell](https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3) | [Falling Snow in Santa Fe](https://open.spotify.com/album/7COeOahgGmkCcy3riGWJLF) | 3:40 |
-| 96 | [Aw Jeez](https://open.spotify.com/track/0iBCiqgiu2afgvBhPBBuQv) | [The Lowest Pair](https://open.spotify.com/artist/0q9jV5Ht9bBTX6pHgzRjRg) | [Aw Jeez](https://open.spotify.com/album/1C5HxdwvGIMuEgOFDccqYb) | 4:20 |
-| 97 | [Circles](https://open.spotify.com/track/4tHtFHy9v5jwIXjZRTIU8o) | [Esmé Patterson](https://open.spotify.com/artist/1PoFNQQDFXvOYm6Dx8coAa) | [Circles](https://open.spotify.com/album/0WsA33vc6Qc6MONy3mj0OT) | 3:09 |
+| 96 | [Circles](https://open.spotify.com/track/4tHtFHy9v5jwIXjZRTIU8o) | [Esmé Patterson](https://open.spotify.com/artist/1PoFNQQDFXvOYm6Dx8coAa) | [Circles](https://open.spotify.com/album/0WsA33vc6Qc6MONy3mj0OT) | 3:09 |
+| 97 | [Aw Jeez](https://open.spotify.com/track/0iBCiqgiu2afgvBhPBBuQv) | [The Lowest Pair](https://open.spotify.com/artist/0q9jV5Ht9bBTX6pHgzRjRg) | [Aw Jeez](https://open.spotify.com/album/1C5HxdwvGIMuEgOFDccqYb) | 4:20 |
 | 98 | [Picasso](https://open.spotify.com/track/61lEtBJFRuC8Ssf007KI7A) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Boots No\. 2: The Lost Songs, Vol\. 2](https://open.spotify.com/album/2eTVwNCb5MD6rESetU4t4M) | 3:41 |
 | 99 | [The Sun Oh Yeah](https://open.spotify.com/track/3U57mXqMsaCGEWU2KlGRc9) | [Dave Simonett](https://open.spotify.com/artist/6CKy7Do4kT6GmeDoHTSvdr) | [The Sun Oh Yeah](https://open.spotify.com/album/19zgVzRekB6Iga2nn5pc39) | 4:32 |
 | 100 | [One Little Feeling](https://open.spotify.com/track/14G8DeuH1VjEA9FKaWvPDg) | [Caitlin Jemma](https://open.spotify.com/artist/4HoLKkz2xfqo7LaveUkFkI) | [True Meaning](https://open.spotify.com/album/1hAH4XIkzAgTyVqVP3EDsK) | 3:33 |

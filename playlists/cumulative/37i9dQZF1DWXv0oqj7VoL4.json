@@ -607,6 +607,24 @@
     },
     {
       "album": {
+        "name": "ROCKET",
+        "url": "https://open.spotify.com/album/0VR4AOEr2bJBgOt6deWIFi"
+      },
+      "artists": [
+        {
+          "name": "BURNOUT SYNDROMES",
+          "url": "https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT"
+        }
+      ],
+      "date_added": "2026-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208260,
+      "name": "ROCKET",
+      "url": "https://open.spotify.com/track/7dZJWmJ7wdhPGIFHicT3uT"
+    },
+    {
+      "album": {
         "name": "Rolling Stone",
         "url": "https://open.spotify.com/album/5nWdcQx3A75Z9E8BLPd1WY"
       },

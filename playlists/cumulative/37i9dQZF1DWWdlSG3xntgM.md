@@ -2,9 +2,9 @@
 
 ### [Bolero Tuyệt Phẩm](https://open.spotify.com/playlist/37i9dQZF1DWWdlSG3xntgM)
 
-> Những ca khúc để đời của dòng nhạc vàng\. Ảnh bìa: Lệ Quyên
+> Những ca khúc để đời của dòng nhạc vàng\. Ảnh bìa: Như Quỳnh
 
-351 songs - 1 day 6 hr 36 min
+352 songs - 1 day 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,7 +245,8 @@
 | [Qua cơn mê](https://open.spotify.com/track/7smrOkkqEjdFAL503JQCAT) | [Giao Linh](https://open.spotify.com/artist/4H5Eeyp0AbxXuJKbeuc1wx) | [Em sắp về chưa \- Giao Linh \- Tuấn Vũ](https://open.spotify.com/album/3oknZfj9o9ItCsudi58zMr) | 5:48 | 2024-03-12 | 2024-04-19 |
 | [Qua Cơn Mê](https://open.spotify.com/track/57GWgvNyt4Rps9U61kO1qx) | [Giao Linh](https://open.spotify.com/artist/4H5Eeyp0AbxXuJKbeuc1wx), [Tuấn Vũ](https://open.spotify.com/artist/5KPAddqEN2xZHp4jHxtpvP) | [Giao Linh Và Tuyệt Phẩm Song Ca](https://open.spotify.com/album/58mVoSfM9NBAzOBPTjIcYY) | 5:48 | 2024-03-12 | 2024-05-28 |
 | [Qua cơn mê](https://open.spotify.com/track/1NVYZCxEwpfniJ8Pi3zuZH) | [Hà Thanh Xuân](https://open.spotify.com/artist/5dJC6sFNciDahBR0AeaGvH) | [Phận tơ tằm](https://open.spotify.com/album/6DZ89SwYU7lInZi4gjIJig) | 4:11 | 2022-03-11 |  |
-| [Qua Ngõ Nhà Anh](https://open.spotify.com/track/41t4yWDcIa4vQQ5NIwL7Rk) | [Như Quỳnh](https://open.spotify.com/artist/5TIZ9p5TSviYl96ladXXFw) | [Rừng Lá Thay Chưa](https://open.spotify.com/album/6KJ9jm4HTPwsW3ydfDHGJ6) | 3:55 | 2026-03-01 |  |
+| [Qua Cơn Mê](https://open.spotify.com/track/5Fs1rIE9L830HIij2cuHyX) | [Vũ Như Nguyệt](https://open.spotify.com/artist/1TGqWkBXJUXQ8LofwIwNmE), [Duy Phương](https://open.spotify.com/artist/6MYzSoIOq4WYIbTBOZJDWI) | [Bóng Nhỏ Đường Chiều](https://open.spotify.com/album/5tMjBqFvfnVr1Jaz8txfJU) | 4:50 | 2026-03-01 |  |
+| [Qua Ngõ Nhà Anh](https://open.spotify.com/track/41t4yWDcIa4vQQ5NIwL7Rk) | [Như Quỳnh](https://open.spotify.com/artist/5TIZ9p5TSviYl96ladXXFw) | [Rừng Lá Thay Chưa](https://open.spotify.com/album/6KJ9jm4HTPwsW3ydfDHGJ6) | 3:55 | 2026-03-01 | 2026-04-13 |
 | [Quan Nua Khuya](https://open.spotify.com/track/4zcBnikcX5fF94yVdU3haq) | [Hương Lan](https://open.spotify.com/artist/7KOMoBXp30tI5E6SA0NQVn) | [Nhac Tuyen 2](https://open.spotify.com/album/4ggb7FWdVhzXhhw9xBg51n) | 5:31 | 2024-05-27 | 2024-09-30 |
 | [Quán Nửa Khuya](https://open.spotify.com/track/7dCVnDCnech2habuRBRkcZ) | [Luu Anh Loan](https://open.spotify.com/artist/4doYTYrpvNr6P7JjgTqN0V) | [Mưa Buồn Nhớ Anh](https://open.spotify.com/album/6BvrBTpsPCG7hiGB1xT4AR) | 5:32 | 2022-03-11 | 2022-07-23 |
 | [Rao Bán Vần Thơ Say](https://open.spotify.com/track/3Ggyzr0mygtpLHgrnQpgOr) | [Dan Nguyen](https://open.spotify.com/artist/3AYPFIPDQ5aUUZzQ9OsqEn) | [Rao Bán Vần Thơ Say](https://open.spotify.com/album/2ghRaDSPKQPlsN6jT4Ct38) | 5:08 | 2022-03-11 | 2023-12-14 |

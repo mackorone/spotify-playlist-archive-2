@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/1GFGwBXuIq1cn2TJ4K1awu.md) - [plain]
 
 > Ten or eleven songs a week\. Updated every Sunday\. Enjoy.
 
-[royva06](https://open.spotify.com/user/royva06) - 30 likes - 11 songs - 43 min 6 sec
+[royva06](https://open.spotify.com/user/royva06) - 31 likes - 11 songs - 42 min 42 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [De la Orquídea y la Avispa](https://open.spotify.com/track/2cWaaXZL5idipbPuJkfvH9) | [Austin TV](https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR) | [De la Orquídea y la Avispa](https://open.spotify.com/album/7L50tSXXmpzbpIDpNDyv5d) | 6:47 |
-| 2 | [Mr\. Wendal](https://open.spotify.com/track/5DOYik1z3Of1wAFfY3dYbC) | [Arrested Development](https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7) | [3 Years, 5 Months And 2 Days In The Life Of...](https://open.spotify.com/album/4QrhfVaznhrAPlM5xCKBPh) | 4:07 |
-| 3 | [Loving Is Easy](https://open.spotify.com/track/7ASFZh1D0DPZro7UXUKGmd) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Loving is Easy](https://open.spotify.com/album/3GgV5IZzgFljVfmxFeHsLY) | 2:35 |
-| 4 | [Gimme Something](https://open.spotify.com/track/6YNUQOu0XxdE3OPVluWtNb) | [LABRYS](https://open.spotify.com/artist/1Ch6kGftOC8brjjXQwPCx9) | [10:10](https://open.spotify.com/album/3pyL2DyrsM2GrzAjrUwPYj) | 4:26 |
-| 5 | [The Promise](https://open.spotify.com/track/6OV4CbPHRtbqrpJrbEFJfi) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [Metamodern Sounds in Country Music](https://open.spotify.com/album/4makbOuLd5SUdyHMaNM1Ag) | 4:17 |
-| 6 | [to Perth, before the border closes](https://open.spotify.com/track/6AqFR4UHMbdlMPcJGrynXV) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [to Perth, before the border closes](https://open.spotify.com/album/4gblLDiEXc4UOwTWlF3UZS) | 2:56 |
-| 7 | [Maybe Sparrow](https://open.spotify.com/track/3QqRGEclfb3qnjs5NhSkRN) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Fox Confessor Brings The Flood \(Bonus Track Version\)](https://open.spotify.com/album/5yIiFmVkza1N3ddMtftxIZ) | 2:37 |
-| 8 | [Ride Like the Wind](https://open.spotify.com/track/6Rd36fAvK6klQPYgx3534I) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Christopher Cross](https://open.spotify.com/album/43L4t2oVmuJsudEls5C6Gh) | 4:35 |
-| 9 | [For No One \- Remastered 2009](https://open.spotify.com/track/1kDkaFlmkdEZiVUogaP9OZ) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Revolver \(Remastered\)](https://open.spotify.com/album/3PRoXYsngSwjEQWR5PsHWR) | 1:59 |
-| 10 | [Skrting On The Surface](https://open.spotify.com/track/0AmkMHfI5zFNuptoglfmOp) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [A Light for Attracting Attention](https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi) | 5:31 |
-| 11 | [The Meadow](https://open.spotify.com/track/6K9uicZQfMuMVJLazWZ5tT) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Ivory Castanets](https://open.spotify.com/album/4feDk4LVjagDkvmpCem8Le) | 3:09 |
+| 1 | [Washed](https://open.spotify.com/track/0bgijbvBSiTi4slIRi1OwC) | [The Jack Wharff Band](https://open.spotify.com/artist/7Hw6prEoT6M58ChR8A1Rlz) | [Washed](https://open.spotify.com/album/1TukpTVBvtfpuGn59YEDGa) | 3:27 |
+| 2 | [The Good Ones](https://open.spotify.com/track/1bPqUmahpsq322oJWYpnnu) | [Widowspeak](https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP) | [Plum](https://open.spotify.com/album/3pFbQCFNSwQgcmU4RzTgLA) | 4:38 |
+| 3 | [All That While](https://open.spotify.com/track/5BS3HrgmS3DZC2oTzDRr4K) | [Cactus Lee](https://open.spotify.com/artist/6eAIPGye8l6QohTSNNVUD4) | [Texas Yard Sale](https://open.spotify.com/album/2hl9Rjriax33GWB0Dl4tyo) | 3:56 |
+| 4 | [Raise Up](https://open.spotify.com/track/02GwPAncasVL82yC7y2hmN) | [Petey Pablo](https://open.spotify.com/artist/4Js9eYwAf9rypNtV8pNSw9) | [Diary of a Sinner: 1st Entry](https://open.spotify.com/album/5HRSHdifYk7QXStjKB0SJZ) | 4:46 |
+| 5 | [Dreamer](https://open.spotify.com/track/78PKCefXwDLbl4FVO1Pjzh) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Down To Earth](https://open.spotify.com/album/6olpeE5qTK6hkzN8PhwEBM) | 4:44 |
+| 6 | [The Mask](https://open.spotify.com/track/7JB1RkYu0EIgQHEgH8Klax) | [DANGERDOOM](https://open.spotify.com/artist/0b3fYxnG6tlR0zLtBJd8DF), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe) | [THE MOUSE & THE MASK](https://open.spotify.com/album/6vAKENvwUSLMUAWYruV9sw) | 3:12 |
+| 7 | [Haven't Met You Yet](https://open.spotify.com/track/4fIWvT19w9PR0VVBuPYpWA) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Crazy Love](https://open.spotify.com/album/3MXDonOIzrIrCh0HvlACyj) | 4:04 |
+| 8 | [Protect My Energy](https://open.spotify.com/track/64DqILfBnCXzhEDGUHZet1) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW) | 3:08 |
+| 9 | [The Mother](https://open.spotify.com/track/6jeIbpsYPF0CTId7QrLLer) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By the Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 3:16 |
+| 10 | [Tear You Apart](https://open.spotify.com/track/3urJUvRhgMrwydaTQFVEg9) | [She Wants Revenge](https://open.spotify.com/artist/2zRt0sfxNnqI8gLR7d8gWt) | [She Wants Revenge](https://open.spotify.com/album/0ikcvM61CScaAOSKHOralR) | 4:44 |
+| 11 | [Bang Bang](https://open.spotify.com/track/1VJ82z9vp7hvBzthdGWtNa) | [Nancy Sinatra](https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2) | [Start Walkin' 1965\-1976](https://open.spotify.com/album/1J3CtRxcG9Tkuw2xQ59NEk) | 2:41 |
 
-Snapshot ID: `AAAKMPLjFW3HXZf+KnNGfOhMp5ZLXOp6`
+Snapshot ID: `AAAKRpZvLsY+/XWps8gkpegHkYomhL1H`

@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "Alternative Ulster",
+        "url": "https://open.spotify.com/album/4wZLd7iVyTOsJtoe491Spj"
+      },
+      "artists": [
+        {
+          "name": "The Manky Melters",
+          "url": "https://open.spotify.com/artist/7eeVrnLC5YwCslvhxGTVuF"
+        }
+      ],
+      "date_added": "2026-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218762,
+      "name": "Alternative Ulster",
+      "url": "https://open.spotify.com/track/5SVn3rhLXevK8FsM73yN0b"
+    },
+    {
+      "album": {
         "name": "Altrove",
         "url": "https://open.spotify.com/album/0CJWJRcXmh5ZaKmccgdgHc"
       },
@@ -1314,6 +1332,24 @@
       "duration_ms": 242628,
       "name": "Drink Deep",
       "url": "https://open.spotify.com/track/7gikiS1tbe16Xh3FPkRojT"
+    },
+    {
+      "album": {
+        "name": "Dusty",
+        "url": "https://open.spotify.com/album/2JedsFcyYV4MxfQPjRHFBA"
+      },
+      "artists": [
+        {
+          "name": "Pondlife",
+          "url": "https://open.spotify.com/artist/7nAw4BKkoWhKV2R0i7Xprz"
+        }
+      ],
+      "date_added": "2026-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190661,
+      "name": "Dusty",
+      "url": "https://open.spotify.com/track/5hWvpIKz06G3iKvQaU2zXT"
     },
     {
       "album": {
@@ -4036,6 +4072,24 @@
       "duration_ms": 209596,
       "name": "Take Me",
       "url": "https://open.spotify.com/track/7rtj9ELtA6y0zFxv12pOEN"
+    },
+    {
+      "album": {
+        "name": "That's Cool",
+        "url": "https://open.spotify.com/album/7aPGxG33vGIZrTO3YQ5xQb"
+      },
+      "artists": [
+        {
+          "name": "Slaney Bay",
+          "url": "https://open.spotify.com/artist/6jfR9Na2d55xoFOK5mQT1I"
+        }
+      ],
+      "date_added": "2026-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226722,
+      "name": "That's Cool",
+      "url": "https://open.spotify.com/track/2k7SrfAazc3aXOSGcBT66L"
     },
     {
       "album": {

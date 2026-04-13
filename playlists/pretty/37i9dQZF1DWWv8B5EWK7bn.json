@@ -1,6 +1,6 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 207084,
+  "num_followers": 207100,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
@@ -439,22 +439,6 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "Follow the Cyborg",
-        "url": "https://open.spotify.com/album/1u4u2LCBocqNltaY4Q2lli"
-      },
-      "artists": [
-        {
-          "name": "Miss Grit",
-          "url": "https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD"
-        }
-      ],
-      "duration_ms": 229183,
-      "name": "Nothing's Wrong",
-      "url": "https://open.spotify.com/track/1BHffF1YV6e1pMyjaujmvT"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
         "name": "Classic Objects",
         "url": "https://open.spotify.com/album/71T5vyKWwbd4oUPfDpyNwb"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 362428,
       "name": "American Coffee",
       "url": "https://open.spotify.com/track/2ywyJsQa0vew5YEbAr7Jgr"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
+        "name": "Follow the Cyborg",
+        "url": "https://open.spotify.com/album/1u4u2LCBocqNltaY4Q2lli"
+      },
+      "artists": [
+        {
+          "name": "Miss Grit",
+          "url": "https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD"
+        }
+      ],
+      "duration_ms": 229183,
+      "name": "Nothing's Wrong",
+      "url": "https://open.spotify.com/track/1BHffF1YV6e1pMyjaujmvT"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -643,22 +643,6 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "L\u00f8veskatt",
-        "url": "https://open.spotify.com/album/4brikg7YkZMYyXuIIQptE1"
-      },
-      "artists": [
-        {
-          "name": "Ora the Molecule",
-          "url": "https://open.spotify.com/artist/6RQoLyY1nkArRcNc3sE86m"
-        }
-      ],
-      "duration_ms": 287185,
-      "name": "L\u00f8veskatt",
-      "url": "https://open.spotify.com/track/00nk5f2eHeKQpmXCJY1Hll"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
         "name": "Afternoon X",
         "url": "https://open.spotify.com/album/6yUptnHXA1lRp48hWzXsUl"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 246466,
       "name": "Afternoon X",
       "url": "https://open.spotify.com/track/3DdKYu9en4HzWUdg98bB9Z"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
+        "name": "L\u00f8veskatt",
+        "url": "https://open.spotify.com/album/4brikg7YkZMYyXuIIQptE1"
+      },
+      "artists": [
+        {
+          "name": "Ora the Molecule",
+          "url": "https://open.spotify.com/artist/6RQoLyY1nkArRcNc3sE86m"
+        }
+      ],
+      "duration_ms": 287185,
+      "name": "L\u00f8veskatt",
+      "url": "https://open.spotify.com/track/00nk5f2eHeKQpmXCJY1Hll"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -695,22 +695,6 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2lGT7K0SQyk4c9jB1cddAM"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 289461,
-      "name": "Army Of Me - Spotify Single",
-      "url": "https://open.spotify.com/track/1tE9hcCoX2CcSSqS78MAZt"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
         "name": "Love in Constant Spectacle",
         "url": "https://open.spotify.com/album/7JQueQibvRMgQ6gHRpUOpd"
       },
@@ -727,6 +711,22 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2lGT7K0SQyk4c9jB1cddAM"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 289461,
+      "name": "Army Of Me - Spotify Single",
+      "url": "https://open.spotify.com/track/1tE9hcCoX2CcSSqS78MAZt"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
         "name": "Deux Paradis",
         "url": "https://open.spotify.com/album/4uwHuTOND0nzdivw2yuqtG"
       },
@@ -739,22 +739,6 @@
       "duration_ms": 273897,
       "name": "Deux Paradis",
       "url": "https://open.spotify.com/track/5rpm1ugQFOy1X76YvVFmEO"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
-        "name": "Imaginal Disk",
-        "url": "https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF"
-      },
-      "artists": [
-        {
-          "name": "Magdalena Bay",
-          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
-        }
-      ],
-      "duration_ms": 212866,
-      "name": "Image",
-      "url": "https://open.spotify.com/track/0QW0KPBXXv67haGjbtkRRB"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -787,6 +771,22 @@
       "duration_ms": 151022,
       "name": "Highway Brain Planet (Credits)",
       "url": "https://open.spotify.com/track/7BGPolTJ1ptq3zxGIf64yR"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
+        "name": "Imaginal Disk",
+        "url": "https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF"
+      },
+      "artists": [
+        {
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+        }
+      ],
+      "duration_ms": 212866,
+      "name": "Image",
+      "url": "https://open.spotify.com/track/0QW0KPBXXv67haGjbtkRRB"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -979,22 +979,6 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "thieves",
-        "url": "https://open.spotify.com/album/0Xs1Xc5yUxPlYFOKyJ0UV7"
-      },
-      "artists": [
-        {
-          "name": "Astoria",
-          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
-        }
-      ],
-      "duration_ms": 178616,
-      "name": "thieves",
-      "url": "https://open.spotify.com/track/34ZXYNErf3WC4tgO0PAnUx"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
         "name": "The Apple Drop",
         "url": "https://open.spotify.com/album/0jlrYQZy6lkuIN0mYgxLfS"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 316413,
       "name": "Big Appetite",
       "url": "https://open.spotify.com/track/4XPlKxzm2My7efFgFbsomR"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
+        "name": "thieves",
+        "url": "https://open.spotify.com/album/0Xs1Xc5yUxPlYFOKyJ0UV7"
+      },
+      "artists": [
+        {
+          "name": "Astoria",
+          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
+        }
+      ],
+      "duration_ms": 178616,
+      "name": "thieves",
+      "url": "https://open.spotify.com/track/34ZXYNErf3WC4tgO0PAnUx"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "Itchy",
-        "url": "https://open.spotify.com/album/1ND77RmeJxHFW7J4imS0MI"
-      },
-      "artists": [
-        {
-          "name": "Leatherette",
-          "url": "https://open.spotify.com/artist/4nAQf14Uz5C0uSACkrNwIW"
-        }
-      ],
-      "duration_ms": 192973,
-      "name": "Itchy",
-      "url": "https://open.spotify.com/track/7gLNxGyUmJWxjDTkZKOvQZ"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
         "name": "Space Jumps",
         "url": "https://open.spotify.com/album/25px9ivu1nlZUNk5LhKmeM"
       },
@@ -1371,18 +1355,18 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "The Apple Drop",
-        "url": "https://open.spotify.com/album/50WuzTucOcvfOPzldNVUXZ"
+        "name": "Itchy",
+        "url": "https://open.spotify.com/album/1ND77RmeJxHFW7J4imS0MI"
       },
       "artists": [
         {
-          "name": "Liars",
-          "url": "https://open.spotify.com/artist/2z78AlkdwE2Ghj9EB50M6z"
+          "name": "Leatherette",
+          "url": "https://open.spotify.com/artist/4nAQf14Uz5C0uSACkrNwIW"
         }
       ],
-      "duration_ms": 274626,
-      "name": "Sekwar",
-      "url": "https://open.spotify.com/track/52OBVPpbLif9YczNqUJUUd"
+      "duration_ms": 192973,
+      "name": "Itchy",
+      "url": "https://open.spotify.com/track/7gLNxGyUmJWxjDTkZKOvQZ"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1399,6 +1383,22 @@
       "duration_ms": 196331,
       "name": "Sur la terre",
       "url": "https://open.spotify.com/track/2A3NYCyctcRnCCy3UwngoH"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
+        "name": "The Apple Drop",
+        "url": "https://open.spotify.com/album/50WuzTucOcvfOPzldNVUXZ"
+      },
+      "artists": [
+        {
+          "name": "Liars",
+          "url": "https://open.spotify.com/artist/2z78AlkdwE2Ghj9EB50M6z"
+        }
+      ],
+      "duration_ms": 274626,
+      "name": "Sekwar",
+      "url": "https://open.spotify.com/track/52OBVPpbLif9YczNqUJUUd"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "Life Drummer",
-        "url": "https://open.spotify.com/album/7FGTtUQdU299dKGgpHxDXQ"
-      },
-      "artists": [
-        {
-          "name": "Vanishing Twin",
-          "url": "https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5"
-        }
-      ],
-      "duration_ms": 158638,
-      "name": "Life Drummer",
-      "url": "https://open.spotify.com/track/29s6C2D4Y2EjT9fwRG2YMD"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
         "name": "Hay Veces",
         "url": "https://open.spotify.com/album/2qZEJQ3dOSJeqGnH3EnTe7"
       },
@@ -1483,18 +1467,18 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "Dog's Life",
-        "url": "https://open.spotify.com/album/5gYTOwpIA1xyeS4olKWPPX"
+        "name": "Life Drummer",
+        "url": "https://open.spotify.com/album/7FGTtUQdU299dKGgpHxDXQ"
       },
       "artists": [
         {
-          "name": "plantoid",
-          "url": "https://open.spotify.com/artist/1vrdaOj47E8sKFcc1Ekoxd"
+          "name": "Vanishing Twin",
+          "url": "https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5"
         }
       ],
-      "duration_ms": 237702,
-      "name": "Dog's Life",
-      "url": "https://open.spotify.com/track/2W7rrKEKlBGGYcYmTBHLCY"
+      "duration_ms": 158638,
+      "name": "Life Drummer",
+      "url": "https://open.spotify.com/track/29s6C2D4Y2EjT9fwRG2YMD"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1515,6 +1499,22 @@
       "duration_ms": 269399,
       "name": "Island Family - uh Remix",
       "url": "https://open.spotify.com/track/6OpTAE9fOLxYzQMMSWyo0s"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
+        "name": "Dog's Life",
+        "url": "https://open.spotify.com/album/5gYTOwpIA1xyeS4olKWPPX"
+      },
+      "artists": [
+        {
+          "name": "plantoid",
+          "url": "https://open.spotify.com/artist/1vrdaOj47E8sKFcc1Ekoxd"
+        }
+      ],
+      "duration_ms": 237702,
+      "name": "Dog's Life",
+      "url": "https://open.spotify.com/track/2W7rrKEKlBGGYcYmTBHLCY"
     },
     {
       "added_at": "2025-11-18 17:38:22",

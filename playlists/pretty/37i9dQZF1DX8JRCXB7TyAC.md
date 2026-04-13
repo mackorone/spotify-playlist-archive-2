@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 
 > Workout with Haryanvi Songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,208 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,258 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 | 41 | [Petrol](https://open.spotify.com/track/5B60tnqylP3wRYjJvtcj5y) | [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe) | [Petrol](https://open.spotify.com/album/5a24ONxmGIedTYLgg5smpR) | 2:55 |
 | 42 | [Jhota](https://open.spotify.com/track/7HBufeUOfByxWXTRO8AhaR) | [D Naveen](https://open.spotify.com/artist/5D80BHvnjVZSI4M9mVp7Sb), [Daulatpuria](https://open.spotify.com/artist/0c8dHxShstYZeEkR4SIrBI), [Fiza Choudhary](https://open.spotify.com/artist/2mMUQGaKHQGZieMXnJpHiB) | [Jhota](https://open.spotify.com/album/4zf8nXEvy8vsAWYVcbZ1vA) | 3:14 |
 | 43 | [Pistal Te Mehnga Lehnga](https://open.spotify.com/track/3C1uC6FCTvftY4H9nyFEYB) | [Vinod Sorkhi](https://open.spotify.com/artist/5XseceQa0u43rtE8s2DIoV), [Kay D](https://open.spotify.com/artist/7xThNFckeyb6roLYdLmyEm), [Anjali Raghav](https://open.spotify.com/artist/4tnyxnjCVBlkqaefQ6fgbv) | [Pistal Te Mehnga Lehnga](https://open.spotify.com/album/4KGnfHLFoZ7ZlIT7P5Aa29) | 2:42 |
-| 44 | [2 Numbari](https://open.spotify.com/track/44QLCfLlW3WAiyLyQxkVmk) | [Sumit Parta](https://open.spotify.com/artist/3b3PfZsOrb3cPzSCZjawbr), [Anjali 99](https://open.spotify.com/artist/4QirDUwZFIIRDP3tL7gB6E) | [2 Numbari](https://open.spotify.com/album/5rf6ySbyNTgoYdhpZzKiRa) | 3:32 |
-| 45 | [No One Knows](https://open.spotify.com/track/03zEU8s3KD7erkkXN3GWgR) | [Gulzaar Chhaniwala](https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo) | [No One Knows](https://open.spotify.com/album/0wwZVKonQFQMtpHAHHW2Zs) | 3:12 |
+| 44 | [No One Knows](https://open.spotify.com/track/03zEU8s3KD7erkkXN3GWgR) | [Gulzaar Chhaniwala](https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo) | [No One Knows](https://open.spotify.com/album/0wwZVKonQFQMtpHAHHW2Zs) | 3:12 |
+| 45 | [2 Numbari](https://open.spotify.com/track/44QLCfLlW3WAiyLyQxkVmk) | [Sumit Parta](https://open.spotify.com/artist/3b3PfZsOrb3cPzSCZjawbr), [Anjali 99](https://open.spotify.com/artist/4QirDUwZFIIRDP3tL7gB6E) | [2 Numbari](https://open.spotify.com/album/5rf6ySbyNTgoYdhpZzKiRa) | 3:32 |
 | 46 | [Jat Supremacy](https://open.spotify.com/track/5H8UVQwQKebV6PaB6iTQX8) | [Ndee Kundu](https://open.spotify.com/artist/61P6g4b3TgZ9m2caJlXS4K) | [Jat Supremacy](https://open.spotify.com/album/3rDnXnhPvYyPVj0uT4MMzl) | 2:38 |
 | 47 | [Koi Na](https://open.spotify.com/track/64qn5oeo6Dcrur3dsu0gsJ) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Uchana Amit](https://open.spotify.com/artist/5bUGkhve6dkRRnwUH12IHW), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Koi Na](https://open.spotify.com/album/7106si82R8FQw7KApQKk2n) | 2:39 |
 | 48 | [Tha Tha](https://open.spotify.com/track/3NCTkRAJLcSK0OMyuomlAs) | [Manisha Sharma](https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf), [Raj Mawar](https://open.spotify.com/artist/0481f4CMOOSlFB69C2wyZf) | [Tha Tha](https://open.spotify.com/album/48tF1dtmzFTUflbODkZ6UO) | 2:49 |
-| 49 | [Albedi](https://open.spotify.com/track/0qFp9OBd6h4l6XelnBNzlZ) | [Sangam Vigyaanik](https://open.spotify.com/artist/6QCNlu5DCtRhOTxGovAols), [Elvish Yadav](https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp) | [Albedi](https://open.spotify.com/album/4wgSAxKaTsBRsQClR0kR1H) | 3:00 |
-| 50 | [Dole Laadle](https://open.spotify.com/track/4vDGNh41YgJrSHPxnAJnOS) | [Gulzaar Chhaniwala](https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo) | [Dole Laadle](https://open.spotify.com/album/5Ca9Nx2w4IUCXAtBy5vuyq) | 3:01 |
+| 49 | [Dole Laadle](https://open.spotify.com/track/4vDGNh41YgJrSHPxnAJnOS) | [Gulzaar Chhaniwala](https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo) | [Dole Laadle](https://open.spotify.com/album/5Ca9Nx2w4IUCXAtBy5vuyq) | 3:01 |
+| 50 | [Albedi](https://open.spotify.com/track/0qFp9OBd6h4l6XelnBNzlZ) | [Sangam Vigyaanik](https://open.spotify.com/artist/6QCNlu5DCtRhOTxGovAols), [Elvish Yadav](https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp) | [Albedi](https://open.spotify.com/album/4wgSAxKaTsBRsQClR0kR1H) | 3:00 |
 
 Snapshot ID: `AAAAAE65h2m79GHSHwqCn3RQdk/dfC3R`

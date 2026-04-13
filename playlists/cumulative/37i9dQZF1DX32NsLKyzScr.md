@@ -4,7 +4,7 @@
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-1,393 songs - 3 day 3 hr 44 min
+1,394 songs - 3 day 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -739,7 +739,7 @@
 | [Midnight Rapture](https://open.spotify.com/track/1c5sVhqoQvLHTXTYJTb98i) | [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c) | [Midnight Rapture](https://open.spotify.com/album/52OxA20iRzso3tPiXvHkrF) | 3:17 | 2021-09-18 | 2022-03-12 |
 | [Midnight Sun](https://open.spotify.com/track/0rY4VH4Gztiwi6uLGaQcdP) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Midnight Sun](https://open.spotify.com/album/15PdggN6xD2mtIE9odL5y2) | 3:18 | 2022-07-08 | 2022-07-28 |
 | [Miles On It](https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Miles On It](https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM) | 2:48 | 2024-05-07 | 2025-11-04 |
-| [million angels](https://open.spotify.com/track/5A19V4mQ66x8JTz6WSqW5x) | [Aaron Hibell](https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj) | [SYNCHRONICITY](https://open.spotify.com/album/5epFPEGNPEK9eaDSSZ9qjX) | 4:17 | 2026-03-27 |  |
+| [million angels](https://open.spotify.com/track/5A19V4mQ66x8JTz6WSqW5x) | [Aaron Hibell](https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj) | [SYNCHRONICITY](https://open.spotify.com/album/5epFPEGNPEK9eaDSSZ9qjX) | 4:17 | 2026-03-27 | 2026-04-13 |
 | [Million Dreams](https://open.spotify.com/track/0yHP5chOwBC6BUWXPIxQcc) | [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv), [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt) | [Million Dreams](https://open.spotify.com/album/4CQAuIBhVkHcn21rZTOx8a) | 3:08 | 2021-08-14 | 2022-03-12 |
 | [Million Good Reasons](https://open.spotify.com/track/2dQZBkS0imJIezf1C7Dl73) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Million Good Reasons](https://open.spotify.com/album/3UpwS93J7Rcr18wwKzXYvT) | 2:37 | 2025-02-07 | 2026-02-21 |
 | [Million Miles Away](https://open.spotify.com/track/4wDM0nGseA8k7Eh6fHMk5w) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR), [P.O.U](https://open.spotify.com/artist/04vxVTBTwAFFbMFl1cvcZs), [Susie Ledge](https://open.spotify.com/artist/2IuTspiSwgQQs4LmvNSBIZ) | [Million Miles Away](https://open.spotify.com/album/1Cs6V1AmIKa9pXTcxnfX6v) | 4:15 | 2025-04-04 | 2025-04-26 |
@@ -948,6 +948,7 @@
 | [Readymade Sweat](https://open.spotify.com/track/47RHGBGyfNHQkyT9m5lXpi) | [Dada Life](https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9) | [Blood, Sweat & Smiles](https://open.spotify.com/album/2CDFsCNzHaS5NSj0tSBVCy) | 2:53 | 2022-04-01 | 2022-07-03 |
 | [Real Love](https://open.spotify.com/track/4Juaa2ppIOYcSWbrVtcrNp) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Happy Machine](https://open.spotify.com/album/2iab1reuBluKDh3wspwu3e) | 2:15 | 2021-10-09 | 2022-03-12 |
 | [Real Love](https://open.spotify.com/track/6afdNrotJ1PCt9DoFiHpLj) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Real Love](https://open.spotify.com/album/7jENFxE6ngcSKd9UqjEKxY) | 2:43 | 2023-09-22 | 2024-07-13 |
+| [Reality Check](https://open.spotify.com/track/4RB7S3C5A6ziH6Jni0Jlxv) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Godtripper](https://open.spotify.com/artist/3wXRRhirLZoMLwuw9d8PIb) | [Hekataia EP](https://open.spotify.com/album/6OqYMy7da8pAJmnLvMmpiW) | 4:52 | 2026-04-10 |  |
 | [Reason For Fighting \(feat\. ERV ELLO\)](https://open.spotify.com/track/2L2rzhnx1Xr6LiGuaYMepY) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Blastoyz](https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p), [ERV ELLO](https://open.spotify.com/artist/6uCQQAHmh8iINfwg98z6zn) | [Reason For Fighting \(feat\. ERV ELLO\)](https://open.spotify.com/album/1Cauh0pJOIIMFZU7eCOALc) | 3:58 | 2022-04-15 | 2022-07-20 |
 | [Reckless \(with MØ\)](https://open.spotify.com/track/6FUHEGAHbt4DbUFp5dNwod) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Reckless](https://open.spotify.com/album/2Oy8FCMc08WhIBKRU9r79v) | 2:36 | 2022-07-15 | 2022-11-14 |
 | [Recycle That](https://open.spotify.com/track/7b0gOMeLUSWLRtYRmsOszV) | [FREAK ON](https://open.spotify.com/artist/2KujQ1kiORdmd4GCruc4sZ) | [Recycle That](https://open.spotify.com/album/5y6kkoVyNa7jKYsxBqps0a) | 3:09 | 2021-04-10 | 2021-07-24 |

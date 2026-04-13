@@ -1,6 +1,6 @@
 {
   "description": "Todo o calor latino est\u00e1 aqui! \ud83d\udd25  foto: Shakira, Bel\u00e9e",
-  "num_followers": 240992,
+  "num_followers": 241025,
   "original_name": "Calorcito",
   "owner": {
     "name": "Spotify",
@@ -399,22 +399,6 @@
     {
       "added_at": "2026-04-10 03:00:47",
       "album": {
-        "name": "Telefone",
-        "url": "https://open.spotify.com/album/2va62ELLdq6PygdowajASo"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 91749,
-      "name": "Telefone",
-      "url": "https://open.spotify.com/track/7rIeU9DvfVAz2hroqBAiuV"
-    },
-    {
-      "added_at": "2026-04-10 03:00:47",
-      "album": {
         "name": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
         "url": "https://open.spotify.com/album/4589OIFRZp41qbsp7TWFCx"
       },
@@ -439,6 +423,22 @@
     {
       "added_at": "2026-04-10 03:00:47",
       "album": {
+        "name": "Telefone",
+        "url": "https://open.spotify.com/album/2va62ELLdq6PygdowajASo"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 91749,
+      "name": "Telefone",
+      "url": "https://open.spotify.com/track/7rIeU9DvfVAz2hroqBAiuV"
+    },
+    {
+      "added_at": "2026-04-10 03:00:47",
+      "album": {
         "name": "El Merengue",
         "url": "https://open.spotify.com/album/6sU751LOdNBPvVErW1GunP"
       },
@@ -455,6 +455,26 @@
       "duration_ms": 189668,
       "name": "El Merengue",
       "url": "https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9"
+    },
+    {
+      "added_at": "2026-04-10 03:00:47",
+      "album": {
+        "name": "Choka Choka",
+        "url": "https://open.spotify.com/album/0ei3ArgXpn3uFZwxs90ySw"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 131562,
+      "name": "Choka Choka",
+      "url": "https://open.spotify.com/track/7CBWajKPyBA0GFtxmTzLBV"
     },
     {
       "added_at": "2026-04-10 03:00:47",
@@ -515,6 +535,22 @@
     {
       "added_at": "2026-04-10 03:00:47",
       "album": {
+        "name": "DESPECH\u00c1",
+        "url": "https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 157017,
+      "name": "DESPECH\u00c1",
+      "url": "https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc"
+    },
+    {
+      "added_at": "2026-04-10 03:00:47",
+      "album": {
         "name": "FAN\u00c1TICO",
         "url": "https://open.spotify.com/album/5i1q6psK3WZa28SOSqeZ8z"
       },
@@ -531,22 +567,6 @@
       "duration_ms": 235102,
       "name": "FAN\u00c1TICO",
       "url": "https://open.spotify.com/track/0e3d2UZRjtvviXWWMRYGQo"
-    },
-    {
-      "added_at": "2026-04-10 03:00:47",
-      "album": {
-        "name": "DESPECH\u00c1",
-        "url": "https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 157017,
-      "name": "DESPECH\u00c1",
-      "url": "https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc"
     },
     {
       "added_at": "2026-04-10 03:00:47",
@@ -659,46 +679,6 @@
     {
       "added_at": "2026-04-10 03:00:47",
       "album": {
-        "name": "Choka Choka",
-        "url": "https://open.spotify.com/album/0ei3ArgXpn3uFZwxs90ySw"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 131562,
-      "name": "Choka Choka",
-      "url": "https://open.spotify.com/track/7CBWajKPyBA0GFtxmTzLBV"
-    },
-    {
-      "added_at": "2026-04-10 03:00:47",
-      "album": {
-        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
-        "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 172797,
-      "name": "QLONA",
-      "url": "https://open.spotify.com/track/3XB5uhhlYSnkxpSihkNQwh"
-    },
-    {
-      "added_at": "2026-04-10 03:00:47",
-      "album": {
         "name": "OA",
         "url": "https://open.spotify.com/album/6YpCug9vNZz4uvlmlU7cet"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 235200,
       "name": "OA",
       "url": "https://open.spotify.com/track/6gMj2DzKR2PjrrbNSwcGFR"
+    },
+    {
+      "added_at": "2026-04-10 03:00:47",
+      "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
+        "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 172797,
+      "name": "QLONA",
+      "url": "https://open.spotify.com/track/3XB5uhhlYSnkxpSihkNQwh"
     },
     {
       "added_at": "2026-04-10 03:00:47",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2026-04-10 03:00:47",
       "album": {
-        "name": "ROMEO",
-        "url": "https://open.spotify.com/album/7mRkuJO3wFrp1CKKVPsodh"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 190624,
-      "name": "ROMEO",
-      "url": "https://open.spotify.com/track/5KloY4dqqARqRPavfyRmRE"
-    },
-    {
-      "added_at": "2026-04-10 03:00:47",
-      "album": {
         "name": "IDGAF ERA (postdata)",
         "url": "https://open.spotify.com/album/26TRZwSMrhMrTC3WkD6qM8"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 144720,
       "name": "Yo Tambi\u00e9n",
       "url": "https://open.spotify.com/track/05ome1JpawDHUZ1VJeix8e"
+    },
+    {
+      "added_at": "2026-04-10 03:00:47",
+      "album": {
+        "name": "ROMEO",
+        "url": "https://open.spotify.com/album/7mRkuJO3wFrp1CKKVPsodh"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 190624,
+      "name": "ROMEO",
+      "url": "https://open.spotify.com/track/5KloY4dqqARqRPavfyRmRE"
     },
     {
       "added_at": "2026-04-10 03:00:47",

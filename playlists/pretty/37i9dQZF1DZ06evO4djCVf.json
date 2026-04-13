@@ -1,12 +1,12 @@
 {
   "description": "This is Suzan & Freek. The essential tracks, all in one playlist.",
-  "num_followers": 98697,
+  "num_followers": 98733,
   "original_name": "This Is Suzan & Freek",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adg9gAAAAABEyABjaZZp59G1I1NYYtuD",
+  "snapshot_id": "admPAAAAAAD+MBgXqyFiUaIXK5ayZ94h",
   "tracks": [
     {
       "added_at": null,
@@ -143,22 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Batterij",
-        "url": "https://open.spotify.com/album/3iUA629Sgwm5LKaBXfS3bw"
-      },
-      "artists": [
-        {
-          "name": "Suzan & Freek",
-          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
-        }
-      ],
-      "duration_ms": 148965,
-      "name": "Batterij",
-      "url": "https://open.spotify.com/track/2MoLobj6hxy9NdH59TImPL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Iemand Van Vroeger",
         "url": "https://open.spotify.com/album/1AiSzH7IpBmv9O9Y6oObXc"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 196034,
       "name": "Honderd Keer",
       "url": "https://open.spotify.com/track/4VyOQKexcxUcUmEwtcVnnd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Batterij",
+        "url": "https://open.spotify.com/album/3iUA629Sgwm5LKaBXfS3bw"
+      },
+      "artists": [
+        {
+          "name": "Suzan & Freek",
+          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
+        }
+      ],
+      "duration_ms": 148965,
+      "name": "Batterij",
+      "url": "https://open.spotify.com/track/2MoLobj6hxy9NdH59TImPL"
     },
     {
       "added_at": null,

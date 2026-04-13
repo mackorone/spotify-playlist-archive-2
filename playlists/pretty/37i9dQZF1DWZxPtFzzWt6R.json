@@ -1,6 +1,6 @@
 {
   "description": "A palavra de Jesus embalada pelo ritmo sertanejo. Foto: Andr\u00e9 e Felipe",
-  "num_followers": 111006,
+  "num_followers": 111040,
   "original_name": "Sertanejo Religioso",
   "owner": {
     "name": "Spotify",
@@ -155,8 +155,8 @@
     {
       "added_at": "2026-02-27 03:01:13",
       "album": {
-        "name": "Meu Barquinho",
-        "url": "https://open.spotify.com/album/3jpOEOizUzsvAkVNdmnF86"
+        "name": "Tempo de Vit\u00f3ria",
+        "url": "https://open.spotify.com/album/37FO02peMZLf3Vh7Ie5Lu9"
       },
       "artists": [
         {
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF"
         }
       ],
-      "duration_ms": 195520,
-      "name": "Meu Barquinho - Ao Vivo",
-      "url": "https://open.spotify.com/track/3zE6VnZ7RuUNiftqoi51eg"
+      "duration_ms": 229408,
+      "name": "Tempo de Vit\u00f3ria",
+      "url": "https://open.spotify.com/track/3iGe1rRUw6Y1XX2xRBYpD4"
     },
     {
       "added_at": "2026-02-27 03:01:13",
@@ -239,8 +239,8 @@
     {
       "added_at": "2026-02-27 03:01:13",
       "album": {
-        "name": "Tempo de Vit\u00f3ria",
-        "url": "https://open.spotify.com/album/37FO02peMZLf3Vh7Ie5Lu9"
+        "name": "Meu Barquinho",
+        "url": "https://open.spotify.com/album/3jpOEOizUzsvAkVNdmnF86"
       },
       "artists": [
         {
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF"
         }
       ],
-      "duration_ms": 229408,
-      "name": "Tempo de Vit\u00f3ria",
-      "url": "https://open.spotify.com/track/3iGe1rRUw6Y1XX2xRBYpD4"
+      "duration_ms": 195520,
+      "name": "Meu Barquinho - Ao Vivo",
+      "url": "https://open.spotify.com/track/3zE6VnZ7RuUNiftqoi51eg"
     },
     {
       "added_at": "2026-02-27 03:01:13",
@@ -523,26 +523,6 @@
     {
       "added_at": "2026-02-27 03:01:13",
       "album": {
-        "name": "Trajet\u00f3ria",
-        "url": "https://open.spotify.com/album/713WXPAkeukQUrkN7ZRzSi"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00f4nia Gomes",
-          "url": "https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe"
-        },
-        {
-          "name": "Louvor Eterno",
-          "url": "https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw"
-        }
-      ],
-      "duration_ms": 233472,
-      "name": "Trajet\u00f3ria",
-      "url": "https://open.spotify.com/track/64mFWof8nKdLgHpFSSDbEf"
-    },
-    {
-      "added_at": "2026-02-27 03:01:13",
-      "album": {
         "name": "O Segredo da Felicidade",
         "url": "https://open.spotify.com/album/558l8xXJGcfrhNjn6WIBFv"
       },
@@ -563,6 +543,26 @@
       "duration_ms": 200294,
       "name": "O Segredo da Felicidade",
       "url": "https://open.spotify.com/track/1cqL5ETI4Ik9nnYQfUuuwP"
+    },
+    {
+      "added_at": "2026-02-27 03:01:13",
+      "album": {
+        "name": "Trajet\u00f3ria",
+        "url": "https://open.spotify.com/album/713WXPAkeukQUrkN7ZRzSi"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00f4nia Gomes",
+          "url": "https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe"
+        },
+        {
+          "name": "Louvor Eterno",
+          "url": "https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw"
+        }
+      ],
+      "duration_ms": 233472,
+      "name": "Trajet\u00f3ria",
+      "url": "https://open.spotify.com/track/64mFWof8nKdLgHpFSSDbEf"
     },
     {
       "added_at": "2026-02-27 03:01:13",
@@ -651,22 +651,6 @@
     {
       "added_at": "2026-02-27 03:01:13",
       "album": {
-        "name": "Tudo",
-        "url": "https://open.spotify.com/album/4Euna4VyMQhDuL63IDP4fK"
-      },
-      "artists": [
-        {
-          "name": "Claudio Louvor",
-          "url": "https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA"
-        }
-      ],
-      "duration_ms": 271166,
-      "name": "Tudo",
-      "url": "https://open.spotify.com/track/3hWDJKRQcZxruEHaNIRrxL"
-    },
-    {
-      "added_at": "2026-02-27 03:01:13",
-      "album": {
         "name": "Guerreiro Adorador",
         "url": "https://open.spotify.com/album/4jRfEXevgeiyxCjXGZ6zz9"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 352085,
       "name": "Guerreiro Adorador",
       "url": "https://open.spotify.com/track/5DdPOo1lK5TBndXG24HFfw"
+    },
+    {
+      "added_at": "2026-02-27 03:01:13",
+      "album": {
+        "name": "Tudo",
+        "url": "https://open.spotify.com/album/4Euna4VyMQhDuL63IDP4fK"
+      },
+      "artists": [
+        {
+          "name": "Claudio Louvor",
+          "url": "https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA"
+        }
+      ],
+      "duration_ms": 271166,
+      "name": "Tudo",
+      "url": "https://open.spotify.com/track/3hWDJKRQcZxruEHaNIRrxL"
     },
     {
       "added_at": "2026-02-27 03:01:13",
@@ -779,18 +779,22 @@
     {
       "added_at": "2026-02-27 03:01:13",
       "album": {
-        "name": "Eu Quero Ir pro C\u00e9u",
-        "url": "https://open.spotify.com/album/4AHy5MgRbegK1jelN5TFwQ"
+        "name": "Fora do Normal (Majestade) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/1Gga11E0sopkHf1KEfYZIK"
       },
       "artists": [
         {
           "name": "Marcos e Matteus",
           "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
+        },
+        {
+          "name": "Gerson Rufino",
+          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
         }
       ],
-      "duration_ms": 273913,
-      "name": "Eu Quero Ir pro C\u00e9u",
-      "url": "https://open.spotify.com/track/5kfEfvMet4tHzqYtrDY9He"
+      "duration_ms": 225365,
+      "name": "Fora do Normal (Majestade) - Ao Vivo",
+      "url": "https://open.spotify.com/track/4J8QQp1meKEf8lteMqL3av"
     },
     {
       "added_at": "2026-02-27 03:01:13",
@@ -895,22 +899,18 @@
     {
       "added_at": "2026-02-27 03:01:13",
       "album": {
-        "name": "Fora do Normal (Majestade) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/1Gga11E0sopkHf1KEfYZIK"
+        "name": "Eu Quero Ir pro C\u00e9u",
+        "url": "https://open.spotify.com/album/4AHy5MgRbegK1jelN5TFwQ"
       },
       "artists": [
         {
           "name": "Marcos e Matteus",
           "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
-        },
-        {
-          "name": "Gerson Rufino",
-          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
         }
       ],
-      "duration_ms": 225365,
-      "name": "Fora do Normal (Majestade) - Ao Vivo",
-      "url": "https://open.spotify.com/track/4J8QQp1meKEf8lteMqL3av"
+      "duration_ms": 273913,
+      "name": "Eu Quero Ir pro C\u00e9u",
+      "url": "https://open.spotify.com/track/5kfEfvMet4tHzqYtrDY9He"
     },
     {
       "added_at": "2026-02-27 03:01:13",

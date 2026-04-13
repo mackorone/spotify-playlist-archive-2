@@ -4504,7 +4504,7 @@
       ],
       "date_added": "2025-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-09",
+      "date_removed": null,
       "duration_ms": 140782,
       "name": "Baila de Gasolina",
       "url": "https://open.spotify.com/track/43TPlT0l0HXLtKUOUoY3gY"
@@ -8592,7 +8592,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 301674,
       "name": "Click Clack Symphony. (feat. Hans Zimmer)",
       "url": "https://open.spotify.com/track/0XOynYFi9hQfIXKnTct9A7"
@@ -15350,7 +15350,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 137198,
       "name": "Gappie Sappie",
       "url": "https://open.spotify.com/track/2FCDwCdXpMnSq3QuHWZ3UM"
@@ -16434,7 +16434,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-10",
+      "date_removed": null,
       "duration_ms": 194607,
       "name": "Golden",
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
@@ -25238,7 +25238,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 180545,
       "name": "Liefdesverdriet",
       "url": "https://open.spotify.com/track/2GMVReNSsJhHds116zpLXQ"
@@ -28346,7 +28346,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-09",
+      "date_removed": null,
       "duration_ms": 147367,
       "name": "Mona Lisa",
       "url": "https://open.spotify.com/track/05mRvdy1w3YtLhz2sHYzrB"
@@ -31351,6 +31351,24 @@
     },
     {
       "album": {
+        "name": "Ola ole olee",
+        "url": "https://open.spotify.com/album/7ngcrCDOECtSKA9ONeMwOq"
+      },
+      "artists": [
+        {
+          "name": "Kinderen voor Kinderen",
+          "url": "https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN"
+        }
+      ],
+      "date_added": "2026-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173312,
+      "name": "Ola ole olee",
+      "url": "https://open.spotify.com/track/0Ul3G0uGWfI2qPYjVVv4ix"
+    },
+    {
+      "album": {
         "name": "Olivia",
         "url": "https://open.spotify.com/album/5q1CBu4yM0QZqv3PAHpblw"
       },
@@ -31524,7 +31542,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 120410,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/2hJW4Ch32yKz490OBhW9aX"

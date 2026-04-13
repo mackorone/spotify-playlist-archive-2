@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMVK39I3IIK.md) - [plain]
 
 > de skarpeste knive i dansk musik  📸  lucca
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,104 likes - 70 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,100 likes - 70 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMVK39I3IIK.md) - [plain]
 | 40 | [Frederiksberg Allé](https://open.spotify.com/track/3f1DlWjYiewzRCqMcHY8TA) | [Bastian](https://open.spotify.com/artist/2aVSAsnjQKM1vb0D8tUxTe) | [Frederiksberg Allé](https://open.spotify.com/album/4OCRcpNTnraKNLNRBzaBIb) | 2:52 |
 | 41 | [Anna](https://open.spotify.com/track/1aTvtqzdNdivWqhPY7G9z0) | [ABSURD](https://open.spotify.com/artist/5g2Fj5Ecjr8HQX5hqltsRv) | [Anna](https://open.spotify.com/album/1EjQLRWtKkSF9jjvktpS1O) | 3:12 |
 | 42 | [Søvnløs](https://open.spotify.com/track/5Yl5GYYL1r9BYQMJCR0rMN) | [Friða Saiya](https://open.spotify.com/artist/6IiXrasPoQjldn8FF3N7Mm) | [Søvnløs](https://open.spotify.com/album/7DmRBNaNbulvvaYJnKPoiN) | 2:29 |
-| 43 | [Big Solo](https://open.spotify.com/track/6hXZ1dD9oNhJ0ircyjsrjR) | [Alba Akvama](https://open.spotify.com/artist/0aOHcQWEx7wsZg277ZOcGe) | [Minute Nothing](https://open.spotify.com/album/6vSqgWESqtKe3zTatouCUz) | 3:38 |
-| 44 | [Pissoir](https://open.spotify.com/track/2zd5aojgRe21i2R0kgrpb0) | [Søn](https://open.spotify.com/artist/1hPnocntW3PwV6fsiifdNr) | [Pissoir](https://open.spotify.com/album/44yvHIEEJXArf5hWPlea4E) | 3:05 |
+| 43 | [Pissoir](https://open.spotify.com/track/2zd5aojgRe21i2R0kgrpb0) | [Søn](https://open.spotify.com/artist/1hPnocntW3PwV6fsiifdNr) | [Pissoir](https://open.spotify.com/album/44yvHIEEJXArf5hWPlea4E) | 3:05 |
+| 44 | [Big Solo](https://open.spotify.com/track/6hXZ1dD9oNhJ0ircyjsrjR) | [Alba Akvama](https://open.spotify.com/artist/0aOHcQWEx7wsZg277ZOcGe) | [Minute Nothing](https://open.spotify.com/album/6vSqgWESqtKe3zTatouCUz) | 3:38 |
 | 45 | [Jeg håber \(feat\. Mekdes\)](https://open.spotify.com/track/7grS76cFWGhWDnlkA9DkxO) | [KEDDE](https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ), [Mekdes](https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx) | [Jeg håber \(feat\. Mekdes\)](https://open.spotify.com/album/6kIp7hgt0wpyZheKKklQrG) | 2:48 |
 | 46 | [Idiot](https://open.spotify.com/track/2kz6Tlbmx37JJmehWobN1x) | [Von Quar](https://open.spotify.com/artist/5B7f5pkLEMpnY20go77xX3) | [Kraftidiot](https://open.spotify.com/album/37jQgF1Jh6vaofnRFT8A82) | 2:45 |
 | 47 | [Marianne og Henrik](https://open.spotify.com/track/0awHR3yreICeQbqZmSfGVw) | [Sofie1998](https://open.spotify.com/artist/56kAP8Glt3AVDWrOwxX9aB) | [Marianne og Henrik](https://open.spotify.com/album/0sRUBB8pBrYJHak5F0sppr) | 3:00 |
@@ -63,9 +63,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMVK39I3IIK.md) - [plain]
 | 53 | [ja ja ja](https://open.spotify.com/track/0R2ZuzA1mZcrIWFhpOZnSP) | [Yör](https://open.spotify.com/artist/5LX065qqygHI7V6VvvZ5Sn) | [aldrig uden dig](https://open.spotify.com/album/0GEGTjPWdIcUdNq7ZtH9rd) | 4:27 |
 | 54 | [Upgrade](https://open.spotify.com/track/3ogJQFKXZconuA2XeTYo90) | [marius](https://open.spotify.com/artist/0DxnhmBH9QUcVojeyZROdZ) | [Upgrade](https://open.spotify.com/album/5W2Ey9dqhjwkG4zxSynNjy) | 2:18 |
 | 55 | [If I](https://open.spotify.com/track/1l0d4cUKLLafugiEUSyZdB) | [A Good Year](https://open.spotify.com/artist/30F8R1qAerw8VvYtRGGg0j), [Alba Akvama](https://open.spotify.com/artist/0aOHcQWEx7wsZg277ZOcGe) | [If I](https://open.spotify.com/album/5rdeXSZ2oLrt4DoKXAxnzo) | 2:56 |
-| 56 | [You Want The World](https://open.spotify.com/track/0WyzgKVsL3GNfaPZsUOUG0) | [GUZO](https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV) | [You Want The World](https://open.spotify.com/album/7xrkfiQ19Ov8H78vNGgrsS) | 2:42 |
-| 57 | [Verona](https://open.spotify.com/track/0aFsmiYkXI9C8yoiIUZNPw) | [August Høyen](https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm) | [Verona](https://open.spotify.com/album/12Z5gFrDEo92tFLeBQOSR9) | 3:18 |
-| 58 | [Bye Sofia](https://open.spotify.com/track/6hSPxHXE1atS2bMY53MPZW) | [Emily Bowen](https://open.spotify.com/artist/4IcbSUnp61Iqco9c8OsTUc) | [The Way She Says Goodbye](https://open.spotify.com/album/55Z9H1tbXpvoExNlFG1ShB) | 2:45 |
+| 56 | [Bye Sofia](https://open.spotify.com/track/6hSPxHXE1atS2bMY53MPZW) | [Emily Bowen](https://open.spotify.com/artist/4IcbSUnp61Iqco9c8OsTUc) | [The Way She Says Goodbye](https://open.spotify.com/album/55Z9H1tbXpvoExNlFG1ShB) | 2:45 |
+| 57 | [You Want The World](https://open.spotify.com/track/0WyzgKVsL3GNfaPZsUOUG0) | [GUZO](https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV) | [You Want The World](https://open.spotify.com/album/7xrkfiQ19Ov8H78vNGgrsS) | 2:42 |
+| 58 | [Verona](https://open.spotify.com/track/0aFsmiYkXI9C8yoiIUZNPw) | [August Høyen](https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm) | [Verona](https://open.spotify.com/album/12Z5gFrDEo92tFLeBQOSR9) | 3:18 |
 | 59 | [Et Sted på Vesterbro](https://open.spotify.com/track/1gWXpKhwYDqAT0Ct29NjdZ) | [Augusta Schackinger](https://open.spotify.com/artist/0A1gtg9Bzgv4Tlpn0D9IVm) | [Et Sted på Vesterbro](https://open.spotify.com/album/6b4gxg1zLkUbY68IrQgYRn) | 2:28 |
 | 60 | [Ind I Solen](https://open.spotify.com/track/0reWoytdJChwzqhVwUpiFz) | [Kayak](https://open.spotify.com/artist/52CkRpzc0v3TRxHC5maRCz) | [Ind I Solen](https://open.spotify.com/album/3zOUUHsN36r3eqFNh1gz0b) | 3:47 |
 | 61 | [Lige så fucked som mig](https://open.spotify.com/track/4UFwMCiQUEgF9JgKSsa0Mu) | [Marcus.wav](https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr) | [Lige så fucked som mig](https://open.spotify.com/album/6hVpbms2YycDjkvHTSagOk) | 2:30 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Jai Wolf. The essential tracks, all in one playlist.",
-  "num_followers": 11389,
+  "num_followers": 11390,
   "original_name": "This Is Jai Wolf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adg9gAAAAADA7Qa99k+9DWwKQz06rhg5",
+  "snapshot_id": "admPAAAAAADVboWPpCddObv7fUPL6dk1",
   "tracks": [
     {
       "added_at": null,
@@ -243,18 +243,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kindred Spirits",
-        "url": "https://open.spotify.com/album/1DmphUwESvvmUaBHUA2FMA"
+        "name": "trilogy remixes",
+        "url": "https://open.spotify.com/album/05H1dRhfSFcuWW1HD5Nama"
       },
       "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        },
         {
           "name": "Jai Wolf",
           "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
         }
       ],
-      "duration_ms": 222400,
-      "name": "The World Is Ours",
-      "url": "https://open.spotify.com/track/6mJIo03fCz9txSxE1ZhFSR"
+      "duration_ms": 202666,
+      "name": "blue - Jai Wolf Remix",
+      "url": "https://open.spotify.com/track/0qoPwaD8mJz5tlfPF0hO2t"
     },
     {
       "added_at": null,
@@ -279,22 +283,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "trilogy remixes",
-        "url": "https://open.spotify.com/album/05H1dRhfSFcuWW1HD5Nama"
+        "name": "Kindred Spirits",
+        "url": "https://open.spotify.com/album/1DmphUwESvvmUaBHUA2FMA"
       },
       "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        },
         {
           "name": "Jai Wolf",
           "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
         }
       ],
-      "duration_ms": 202666,
-      "name": "blue - Jai Wolf Remix",
-      "url": "https://open.spotify.com/track/0qoPwaD8mJz5tlfPF0hO2t"
+      "duration_ms": 222400,
+      "name": "The World Is Ours",
+      "url": "https://open.spotify.com/track/6mJIo03fCz9txSxE1ZhFSR"
     },
     {
       "added_at": null,
@@ -319,26 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kindred Spirits",
-        "url": "https://open.spotify.com/album/1DmphUwESvvmUaBHUA2FMA"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        },
-        {
-          "name": "JMR",
-          "url": "https://open.spotify.com/artist/5TvAqaxbbxUNnzX11Pt752"
-        }
-      ],
-      "duration_ms": 228480,
-      "name": "Gravity (feat. JMR)",
-      "url": "https://open.spotify.com/track/4jo8IfDa6WLOlvexEEWLAz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lost (feat. Chelsea Jade)",
         "url": "https://open.spotify.com/album/4mob4bXDH8B9fBkbesET3C"
       },
@@ -359,22 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Cure To Loneliness",
-        "url": "https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 229906,
-      "name": "Telepathy",
-      "url": "https://open.spotify.com/track/4mhlPdtYrrX7J01zWOo52k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "We Will Meet Again",
         "url": "https://open.spotify.com/album/1nUmQRRZBF8sQTgPUmWo6d"
       },
@@ -391,6 +355,42 @@
       "duration_ms": 201199,
       "name": "We Will Meet Again",
       "url": "https://open.spotify.com/track/0eneJjIdG1cAhjeK831bLt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kindred Spirits",
+        "url": "https://open.spotify.com/album/1DmphUwESvvmUaBHUA2FMA"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "JMR",
+          "url": "https://open.spotify.com/artist/5TvAqaxbbxUNnzX11Pt752"
+        }
+      ],
+      "duration_ms": 228480,
+      "name": "Gravity (feat. JMR)",
+      "url": "https://open.spotify.com/track/4jo8IfDa6WLOlvexEEWLAz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Cure To Loneliness",
+        "url": "https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 229906,
+      "name": "Telepathy",
+      "url": "https://open.spotify.com/track/4mhlPdtYrrX7J01zWOo52k"
     },
     {
       "added_at": null,
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Cure To Loneliness",
-        "url": "https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 176266,
-      "name": "It All Started With A Feeling",
-      "url": "https://open.spotify.com/track/01LPPn0zlhtWefUkXK6e58"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Red Eye Home",
         "url": "https://open.spotify.com/album/6MGFhNLw9fZVFD1KgBqGta"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 186000,
       "name": "Want It All (feat. Evalyn)",
       "url": "https://open.spotify.com/track/7bOaDKe3yqgf2on0Od42UF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Cure To Loneliness",
+        "url": "https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 176266,
+      "name": "It All Started With A Feeling",
+      "url": "https://open.spotify.com/track/01LPPn0zlhtWefUkXK6e58"
     },
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Cure To Loneliness",
-        "url": "https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 286013,
-      "name": "Still Sleeping",
-      "url": "https://open.spotify.com/track/6KDDYv7WWi6hJl8HtTtXmq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "eye2eye (Jai Wolf Remix)",
         "url": "https://open.spotify.com/album/1MBOL6X1XLaNkqVHrSbgTv"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 253714,
       "name": "eye2eye - Jai Wolf Remix",
       "url": "https://open.spotify.com/track/2SwWCfAwxum7Yl8F6AdDw3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Cure To Loneliness",
+        "url": "https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 286013,
+      "name": "Still Sleeping",
+      "url": "https://open.spotify.com/track/6KDDYv7WWi6hJl8HtTtXmq"
     },
     {
       "added_at": null,
@@ -583,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Cure To Loneliness",
-        "url": "https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 234813,
-      "name": "This Song Reminds Me Of You",
-      "url": "https://open.spotify.com/track/0b7vBIHMp6A4e8PxFElyhc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Red Eye Home",
         "url": "https://open.spotify.com/album/6MGFhNLw9fZVFD1KgBqGta"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 209142,
       "name": "Water Sign (feat. Aluna)",
       "url": "https://open.spotify.com/track/5P1WwERubwLGRt2Vz5nY6q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Cure To Loneliness",
+        "url": "https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 234813,
+      "name": "This Song Reminds Me Of You",
+      "url": "https://open.spotify.com/track/0b7vBIHMp6A4e8PxFElyhc"
     },
     {
       "added_at": null,
@@ -659,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Red Eye Home",
+        "url": "https://open.spotify.com/album/6MGFhNLw9fZVFD1KgBqGta"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Heaven Is Calling",
+      "url": "https://open.spotify.com/track/1rZKC24fmvMlfzYo668JdJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "We Rise (Jai Wolf Remix)",
         "url": "https://open.spotify.com/album/7IsUiiiwpbZ94J1CMAFNXW"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 188616,
       "name": "We Rise - Jai Wolf Remix",
       "url": "https://open.spotify.com/track/3t9m6BZTPVw7ClRSJBQpGs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Red Eye Home",
-        "url": "https://open.spotify.com/album/6MGFhNLw9fZVFD1KgBqGta"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Heaven Is Calling",
-      "url": "https://open.spotify.com/track/1rZKC24fmvMlfzYo668JdJ"
     },
     {
       "added_at": null,
@@ -731,6 +731,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Red Eye Home",
+        "url": "https://open.spotify.com/album/6MGFhNLw9fZVFD1KgBqGta"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "rei brown",
+          "url": "https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6"
+        }
+      ],
+      "duration_ms": 283764,
+      "name": "Red Eye (feat. rei brown)",
+      "url": "https://open.spotify.com/track/6YNFPf33hsayb5qwuehAQS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "In The End (Jai Wolf Club Babu Remix)",
         "url": "https://open.spotify.com/album/3f33kxanpbHtn87RAfGBuc"
       },
@@ -755,26 +775,6 @@
       "duration_ms": 229928,
       "name": "In The End - Jai Wolf Club Babu Remix",
       "url": "https://open.spotify.com/track/2fdN9YHdCMXdstUqmHAQUS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Red Eye Home",
-        "url": "https://open.spotify.com/album/6MGFhNLw9fZVFD1KgBqGta"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        },
-        {
-          "name": "rei brown",
-          "url": "https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6"
-        }
-      ],
-      "duration_ms": 283764,
-      "name": "Red Eye (feat. rei brown)",
-      "url": "https://open.spotify.com/track/6YNFPf33hsayb5qwuehAQS"
     },
     {
       "added_at": null,

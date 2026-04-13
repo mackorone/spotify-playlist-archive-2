@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 
 > Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: Grasu XXL
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,007 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,010 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 | 30 | [Ofiter la pamant](https://open.spotify.com/track/1BbXHat6Zlcg4bpFL2qEBE) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ) | [Ofiter la pamant](https://open.spotify.com/album/2N2IwwEhBAOvLnaf12XWTl) | 2:12 |
 | 31 | [OCHI ALBAȘTRI](https://open.spotify.com/track/2TPCbtaXlKvgyBOedKQ3yX) | [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh), [Bianca Ionescu](https://open.spotify.com/artist/6FjEnxqyibwj2OM2WQg8hU) | [OCHI ALBAȘTRI](https://open.spotify.com/album/6ZhrWAL2jz0MqctVKSayK3) | 3:52 |
 | 32 | [Voila](https://open.spotify.com/track/4Kxn0Ix6IDWLnkGxmb4i2D) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM), [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC) | [Voila](https://open.spotify.com/album/2Ca2IsS4Yle1zUL6w5ryVP) | 2:19 |
-| 33 | [Hustler](https://open.spotify.com/track/04tshGzLF1sydGIWCm5Fes) | [Ian](https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om), [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr) | [Hustler](https://open.spotify.com/album/5ftH8hbrnUCFhJydF6kLCr) | 2:41 |
-| 34 | [MAROC](https://open.spotify.com/track/09ePeeqELKQhxRPED0Fakf) | [Vali Miron](https://open.spotify.com/artist/1ojOFDojdgukpkEF7L1opU) | [MAROC](https://open.spotify.com/album/2SWazH4hYRDoeNRYSkrCwe) | 2:20 |
+| 33 | [MAROC](https://open.spotify.com/track/09ePeeqELKQhxRPED0Fakf) | [Vali Miron](https://open.spotify.com/artist/1ojOFDojdgukpkEF7L1opU) | [MAROC](https://open.spotify.com/album/2SWazH4hYRDoeNRYSkrCwe) | 2:20 |
+| 34 | [Hustler](https://open.spotify.com/track/04tshGzLF1sydGIWCm5Fes) | [Ian](https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om), [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr) | [Hustler](https://open.spotify.com/album/5ftH8hbrnUCFhJydF6kLCr) | 2:41 |
 | 35 | [Operatiunea GhostGun](https://open.spotify.com/track/6ZvxHr1I4tofQp3WOh68j4) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ) | [Toata lumea moare](https://open.spotify.com/album/3HSN1uMfMOg2j7fCmVVAh2) | 2:24 |
 | 36 | [inexplicabil](https://open.spotify.com/track/6XIkg4IIz3DP1Z7WCa63o5) | [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F), [Stefan Costea](https://open.spotify.com/artist/3w8r8LEPG3zHNvRCj92b58), [Pitariu George](https://open.spotify.com/artist/2Bc4sRO6Nnwn2bc1lLpL5s) | [Ștefan IV](https://open.spotify.com/album/1j2XXVOk5fk60ZRm5QpqFp) | 3:14 |
 | 37 | [A.D.S.](https://open.spotify.com/track/4mbf5d3c5YsqEEnJQlVrzV) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM), [NOUA UNSPE](https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp) | [PLAYBOY CITY](https://open.spotify.com/album/6vx1YeTyd5t0UTXb44rEMi) | 2:03 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 | 45 | [Grinch](https://open.spotify.com/track/0RCOFsv0uaHhIwjZXJJ5yk) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ), [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6) | [Grinch](https://open.spotify.com/album/2QN6om23DL5Gwek4PCTGx6) | 3:14 |
 | 46 | [FACE DOWN](https://open.spotify.com/track/6i8vHHCDrN2KePIjsTP9XR) | [Bvcovia](https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR), [Marko Glass](https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS) | [BANDO 4](https://open.spotify.com/album/3wE4neLiYyfvKHzQYMPlVh) | 2:28 |
 | 47 | [Adam](https://open.spotify.com/track/6deXLFe1JUF7x76CNbBRiJ) | [Deliric](https://open.spotify.com/artist/357du2352LkLWerYcY49WY), [Silent Strike](https://open.spotify.com/artist/7wogO6QhOf6U31t2EHmAiS), [Irina Rimes](https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj) | [Deliric X Silent Strike III](https://open.spotify.com/album/64iIHOllncN6PQ7pW1g7ch) | 4:17 |
-| 48 | [Lumea toată](https://open.spotify.com/track/1H5ymY6zVPvz43md1qJnql) | [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC), [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [Lumea toată](https://open.spotify.com/album/0evtaj3GaU12XA1t9j4tCT) | 2:15 |
-| 49 | [Șmecher](https://open.spotify.com/track/047EZz6lObOJGbisz9BQ1V) | [Badd G](https://open.spotify.com/artist/6E6YfcufPi0NVJqJqV6zBl) | [Șmecher](https://open.spotify.com/album/2y0W7bqPbV8D7gSKJIDuCX) | 2:36 |
+| 48 | [Șmecher](https://open.spotify.com/track/047EZz6lObOJGbisz9BQ1V) | [Badd G](https://open.spotify.com/artist/6E6YfcufPi0NVJqJqV6zBl) | [Șmecher](https://open.spotify.com/album/2y0W7bqPbV8D7gSKJIDuCX) | 2:36 |
+| 49 | [Lumea toată](https://open.spotify.com/track/1H5ymY6zVPvz43md1qJnql) | [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC), [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [Lumea toată](https://open.spotify.com/album/0evtaj3GaU12XA1t9j4tCT) | 2:15 |
 | 50 | [Vise La Plic](https://open.spotify.com/track/4f5Vs65RAPuAOrNrRrKcgA) | [Connect\-R](https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr) | [Vise La Plic](https://open.spotify.com/album/2rBedZhrwkQ1k41clHtX7m) | 2:46 |
 
 Snapshot ID: `AAAAALOms8zYOs5UHke7gmmgqKtsq2x2`

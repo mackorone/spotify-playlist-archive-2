@@ -1,6 +1,6 @@
 {
   "description": "\u90fd\u4f1a\u306e\u7a7a\u3092\u898b\u4e0a\u3052\u308b\u3068\u8074\u3053\u3048\u3066\u304f\u308b\u97f3\u697d\u3002 cover painting: \u6c38\u4e95\u535a",
-  "num_followers": 147279,
+  "num_followers": 147268,
   "original_name": "\u90fd\u4f1a\u306e\u7a7a\u3068\u97f3\u697d\u3068",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,6 @@
     {
       "added_at": "2026-04-08 05:16:40",
       "album": {
-        "name": "TYLA",
-        "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 148377,
-      "name": "ART",
-      "url": "https://open.spotify.com/track/40ds3xedbMkWhszkGnZwxi"
-    },
-    {
-      "added_at": "2026-04-08 05:16:40",
-      "album": {
         "name": "Breaking Through",
         "url": "https://open.spotify.com/album/21uBDpJNMAs8iQEC9JkY0j"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 252800,
       "name": "Breaking Through",
       "url": "https://open.spotify.com/track/02jSnbMfNzX1aLR7HPyvpH"
+    },
+    {
+      "added_at": "2026-04-08 05:16:40",
+      "album": {
+        "name": "TYLA",
+        "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 148377,
+      "name": "ART",
+      "url": "https://open.spotify.com/track/40ds3xedbMkWhszkGnZwxi"
     },
     {
       "added_at": "2026-04-08 05:16:40",
@@ -571,6 +571,22 @@
     {
       "added_at": "2026-04-08 05:16:40",
       "album": {
+        "name": "TYLA",
+        "url": "https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 190392,
+      "name": "Truth or Dare",
+      "url": "https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf"
+    },
+    {
+      "added_at": "2026-04-08 05:16:40",
+      "album": {
         "name": "Vie",
         "url": "https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 227000,
       "name": "Witchy (feat. Childish Gambino)",
       "url": "https://open.spotify.com/track/1PxKsGzQcmiwDHvA9ig5gv"
-    },
-    {
-      "added_at": "2026-04-08 05:16:40",
-      "album": {
-        "name": "TYLA",
-        "url": "https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 190392,
-      "name": "Truth or Dare",
-      "url": "https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf"
     },
     {
       "added_at": "2026-04-08 05:16:40",
@@ -739,38 +739,6 @@
     {
       "added_at": "2026-04-08 05:16:40",
       "album": {
-        "name": "Let Me",
-        "url": "https://open.spotify.com/album/7H0zJ2YjvitbNFGqwmTbgu"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        }
-      ],
-      "duration_ms": 291513,
-      "name": "Let Me",
-      "url": "https://open.spotify.com/track/27PPzQyuNkGn8YRNtuPx0X"
-    },
-    {
-      "added_at": "2026-04-08 05:16:40",
-      "album": {
-        "name": "We Go Again",
-        "url": "https://open.spotify.com/album/4vdQXcHcAGcVSBA7956EMq"
-      },
-      "artists": [
-        {
-          "name": "ENNY",
-          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
-        }
-      ],
-      "duration_ms": 185715,
-      "name": "Charge It",
-      "url": "https://open.spotify.com/track/2YIIDMcF9zWJ2xcFSA99lH"
-    },
-    {
-      "added_at": "2026-04-08 05:16:40",
-      "album": {
         "name": "Waiting Room (feat. Jordan Ward)",
         "url": "https://open.spotify.com/album/2vZiDHDvCpRC5VoC3mxNkK"
       },
@@ -791,6 +759,38 @@
     {
       "added_at": "2026-04-08 05:16:40",
       "album": {
+        "name": "We Go Again",
+        "url": "https://open.spotify.com/album/4vdQXcHcAGcVSBA7956EMq"
+      },
+      "artists": [
+        {
+          "name": "ENNY",
+          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
+        }
+      ],
+      "duration_ms": 185715,
+      "name": "Charge It",
+      "url": "https://open.spotify.com/track/2YIIDMcF9zWJ2xcFSA99lH"
+    },
+    {
+      "added_at": "2026-04-08 05:16:40",
+      "album": {
+        "name": "Let Me",
+        "url": "https://open.spotify.com/album/7H0zJ2YjvitbNFGqwmTbgu"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 291513,
+      "name": "Let Me",
+      "url": "https://open.spotify.com/track/27PPzQyuNkGn8YRNtuPx0X"
+    },
+    {
+      "added_at": "2026-04-08 05:16:40",
+      "album": {
         "name": "BELOVED",
         "url": "https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ"
       },
@@ -803,6 +803,22 @@
       "duration_ms": 195869,
       "name": "I CAN TELL",
       "url": "https://open.spotify.com/track/18wmUghxdWxTgFsW4leZnt"
+    },
+    {
+      "added_at": "2026-04-08 05:16:40",
+      "album": {
+        "name": "Bunny Girl",
+        "url": "https://open.spotify.com/album/1mxib3LFgnhuMciehemliH"
+      },
+      "artists": [
+        {
+          "name": "AKASAKI",
+          "url": "https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw"
+        }
+      ],
+      "duration_ms": 217492,
+      "name": "Bunny Girl",
+      "url": "https://open.spotify.com/track/5skCbGGAnc7Ns18Figz54h"
     },
     {
       "added_at": "2026-04-08 05:16:40",
@@ -823,22 +839,6 @@
       "duration_ms": 327217,
       "name": "No More Lies",
       "url": "https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj"
-    },
-    {
-      "added_at": "2026-04-08 05:16:40",
-      "album": {
-        "name": "Bunny Girl",
-        "url": "https://open.spotify.com/album/1mxib3LFgnhuMciehemliH"
-      },
-      "artists": [
-        {
-          "name": "AKASAKI",
-          "url": "https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw"
-        }
-      ],
-      "duration_ms": 217492,
-      "name": "Bunny Girl",
-      "url": "https://open.spotify.com/track/5skCbGGAnc7Ns18Figz54h"
     },
     {
       "added_at": "2026-04-08 05:16:40",
@@ -907,22 +907,6 @@
     {
       "added_at": "2026-04-08 05:16:40",
       "album": {
-        "name": "Slow Tonight",
-        "url": "https://open.spotify.com/album/0dShMq1RPDfB7BSS7O3xRc"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 192495,
-      "name": "Slow Tonight",
-      "url": "https://open.spotify.com/track/2H3L0xj5L4OlYFlRjhJQN5"
-    },
-    {
-      "added_at": "2026-04-08 05:16:40",
-      "album": {
         "name": "Selfish",
         "url": "https://open.spotify.com/album/3G89Vbw7shdM38VCVsFdoy"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 229331,
       "name": "Selfish",
       "url": "https://open.spotify.com/track/0QosomGFiJYOxj2ViZfqng"
+    },
+    {
+      "added_at": "2026-04-08 05:16:40",
+      "album": {
+        "name": "Slow Tonight",
+        "url": "https://open.spotify.com/album/0dShMq1RPDfB7BSS7O3xRc"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 192495,
+      "name": "Slow Tonight",
+      "url": "https://open.spotify.com/track/2H3L0xj5L4OlYFlRjhJQN5"
     },
     {
       "added_at": "2026-04-08 05:16:40",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2026-04-08 05:16:40",
       "album": {
-        "name": "eternal sunshine (slightly deluxe)",
-        "url": "https://open.spotify.com/album/5Csjy4XeA7KnizkhIvI7y2"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        },
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 163381,
-      "name": "supernatural (with Troye Sivan) - remix",
-      "url": "https://open.spotify.com/track/3iJOkxYP59kFJ5OLgHo4Tp"
-    },
-    {
-      "added_at": "2026-04-08 05:16:40",
-      "album": {
         "name": "99 Steps",
         "url": "https://open.spotify.com/album/1B57GqqYDv7nSHsiymJzv0"
       },
@@ -1143,6 +1123,26 @@
       "duration_ms": 197870,
       "name": "99 Steps",
       "url": "https://open.spotify.com/track/7iy5CzNNrpJD3i0hx8t83n"
+    },
+    {
+      "added_at": "2026-04-08 05:16:40",
+      "album": {
+        "name": "eternal sunshine (slightly deluxe)",
+        "url": "https://open.spotify.com/album/5Csjy4XeA7KnizkhIvI7y2"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 163381,
+      "name": "supernatural (with Troye Sivan) - remix",
+      "url": "https://open.spotify.com/track/3iJOkxYP59kFJ5OLgHo4Tp"
     },
     {
       "added_at": "2026-04-08 05:16:40",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-04-08 05:16:40",
       "album": {
-        "name": "BACKWARD",
-        "url": "https://open.spotify.com/album/0zN2naR1Vok73SgqTLS701"
-      },
-      "artists": [
-        {
-          "name": "Jordan Ward",
-          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
-        }
-      ],
-      "duration_ms": 166687,
-      "name": "THEMSELVES",
-      "url": "https://open.spotify.com/track/3vzSGr8Anj3SLaMrp613Gm"
-    },
-    {
-      "added_at": "2026-04-08 05:16:40",
-      "album": {
         "name": "\u559c\u5287",
         "url": "https://open.spotify.com/album/0W9ENhe5arttYknqbp67DB"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 196500,
       "name": "Obsessed",
       "url": "https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM"
+    },
+    {
+      "added_at": "2026-04-08 05:16:40",
+      "album": {
+        "name": "BACKWARD",
+        "url": "https://open.spotify.com/album/0zN2naR1Vok73SgqTLS701"
+      },
+      "artists": [
+        {
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        }
+      ],
+      "duration_ms": 166687,
+      "name": "THEMSELVES",
+      "url": "https://open.spotify.com/track/3vzSGr8Anj3SLaMrp613Gm"
     },
     {
       "added_at": "2026-04-08 05:16:40",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2026-04-08 05:16:40",
       "album": {
+        "name": "Dangerous Lover",
+        "url": "https://open.spotify.com/album/2EIRNYg9YwfZt0iRuuUFCh"
+      },
+      "artists": [
+        {
+          "name": "Sekou",
+          "url": "https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c"
+        }
+      ],
+      "duration_ms": 204323,
+      "name": "Dangerous Lover",
+      "url": "https://open.spotify.com/track/6k5MFxx07WH3p0cC6DK9PD"
+    },
+    {
+      "added_at": "2026-04-08 05:16:40",
+      "album": {
         "name": "Friends, Family & God (feat. G-k.i.d & KEIJU)",
         "url": "https://open.spotify.com/album/0NFLbdYg7vCwWYSE7OiRpZ"
       },
@@ -1355,38 +1371,6 @@
     {
       "added_at": "2026-04-08 05:16:40",
       "album": {
-        "name": "Have A Baby (With Me)",
-        "url": "https://open.spotify.com/album/0FAHYQcSzpQ41vTTyRHUtm"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 225874,
-      "name": "Have A Baby (With Me)",
-      "url": "https://open.spotify.com/track/1V0rl8HIvcfn1ztxPuYMFc"
-    },
-    {
-      "added_at": "2026-04-08 05:16:40",
-      "album": {
-        "name": "Dangerous Lover",
-        "url": "https://open.spotify.com/album/2EIRNYg9YwfZt0iRuuUFCh"
-      },
-      "artists": [
-        {
-          "name": "Sekou",
-          "url": "https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c"
-        }
-      ],
-      "duration_ms": 204323,
-      "name": "Dangerous Lover",
-      "url": "https://open.spotify.com/track/6k5MFxx07WH3p0cC6DK9PD"
-    },
-    {
-      "added_at": "2026-04-08 05:16:40",
-      "album": {
         "name": "Ambiguous Desire",
         "url": "https://open.spotify.com/album/2l7Qtf3Mffx6ZIDTpyaMtS"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 242541,
       "name": "Senses ft. Sampha",
       "url": "https://open.spotify.com/track/53j4dcm9Jn47sFJx8nVz5X"
+    },
+    {
+      "added_at": "2026-04-08 05:16:40",
+      "album": {
+        "name": "Have A Baby (With Me)",
+        "url": "https://open.spotify.com/album/0FAHYQcSzpQ41vTTyRHUtm"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 225874,
+      "name": "Have A Baby (With Me)",
+      "url": "https://open.spotify.com/track/1V0rl8HIvcfn1ztxPuYMFc"
     },
     {
       "added_at": "2026-04-08 05:16:40",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2026-04-08 05:16:40",
       "album": {
+        "name": "Sincere",
+        "url": "https://open.spotify.com/album/0Tu7Vpu49X7oduL2AVbKZq"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 234600,
+      "name": "Heatstroke",
+      "url": "https://open.spotify.com/track/5zjS49hh8KF7mnbvgUtiJa"
+    },
+    {
+      "added_at": "2026-04-08 05:16:40",
+      "album": {
         "name": "To Whom This May Concern",
         "url": "https://open.spotify.com/album/7mwyiTViOEtAtOeoilQ3QG"
       },
@@ -1567,38 +1583,6 @@
     {
       "added_at": "2026-04-08 05:16:40",
       "album": {
-        "name": "Sincere",
-        "url": "https://open.spotify.com/album/0Tu7Vpu49X7oduL2AVbKZq"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 234600,
-      "name": "Heatstroke",
-      "url": "https://open.spotify.com/track/5zjS49hh8KF7mnbvgUtiJa"
-    },
-    {
-      "added_at": "2026-04-08 05:16:40",
-      "album": {
-        "name": "\u7768\u3081\u3063\u5a18",
-        "url": "https://open.spotify.com/album/1ujicwHmO1pnHs8mieQ9U2"
-      },
-      "artists": [
-        {
-          "name": "TOMONARI SORA\t",
-          "url": "https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "\u7768\u3081\u3063\u5a18",
-      "url": "https://open.spotify.com/track/2SL6pRmKNyug2DqhoVjVXq"
-    },
-    {
-      "added_at": "2026-04-08 05:16:40",
-      "album": {
         "name": "Monsters",
         "url": "https://open.spotify.com/album/199hyVqmka83Ubpm9Qs8jx"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 363791,
       "name": "Monsters",
       "url": "https://open.spotify.com/track/3yDV0PzSV2okw1w9jno0me"
+    },
+    {
+      "added_at": "2026-04-08 05:16:40",
+      "album": {
+        "name": "\u7768\u3081\u3063\u5a18",
+        "url": "https://open.spotify.com/album/1ujicwHmO1pnHs8mieQ9U2"
+      },
+      "artists": [
+        {
+          "name": "TOMONARI SORA\t",
+          "url": "https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "\u7768\u3081\u3063\u5a18",
+      "url": "https://open.spotify.com/track/2SL6pRmKNyug2DqhoVjVXq"
     },
     {
       "added_at": "2026-04-08 05:16:40",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2026-04-08 05:16:40",
       "album": {
-        "name": "\u304a\u3084\u3059\u307fTaxi",
-        "url": "https://open.spotify.com/album/3S9qiC6GPD71gOg5hMrQZe"
-      },
-      "artists": [
-        {
-          "name": "MON7A",
-          "url": "https://open.spotify.com/artist/1Ypw6Y7ks3rw8EUPIE1Iqi"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "\u304a\u3084\u3059\u307fTaxi",
-      "url": "https://open.spotify.com/track/5gU52B9mqwvxi0XD8bfKWJ"
-    },
-    {
-      "added_at": "2026-04-08 05:16:40",
-      "album": {
         "name": "What It Gave Me",
         "url": "https://open.spotify.com/album/3LEphQCvlgsy8LmUDYqMva"
       },
@@ -1707,6 +1691,22 @@
     {
       "added_at": "2026-04-08 05:16:40",
       "album": {
+        "name": "\u304a\u3084\u3059\u307fTaxi",
+        "url": "https://open.spotify.com/album/3S9qiC6GPD71gOg5hMrQZe"
+      },
+      "artists": [
+        {
+          "name": "MON7A",
+          "url": "https://open.spotify.com/artist/1Ypw6Y7ks3rw8EUPIE1Iqi"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "\u304a\u3084\u3059\u307fTaxi",
+      "url": "https://open.spotify.com/track/5gU52B9mqwvxi0XD8bfKWJ"
+    },
+    {
+      "added_at": "2026-04-08 05:16:40",
+      "album": {
         "name": "FULLCOLOR",
         "url": "https://open.spotify.com/album/1rDLRueueI2ILXOyZE5qWd"
       },
@@ -1723,6 +1723,22 @@
     {
       "added_at": "2026-04-08 05:16:40",
       "album": {
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/0vjakRygJi7Z4JQzy1biqV"
+      },
+      "artists": [
+        {
+          "name": "GEMINI",
+          "url": "https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/6wzi8plTTF8LHkruWOmCQS"
+    },
+    {
+      "added_at": "2026-04-08 05:16:40",
+      "album": {
         "name": "MIRROR",
         "url": "https://open.spotify.com/album/4bIo5w5xKztinGjv11NoOQ"
       },
@@ -1735,30 +1751,6 @@
       "duration_ms": 178000,
       "name": "MIRROR",
       "url": "https://open.spotify.com/track/0NtfH5RUt4V3Vzh18Wuc23"
-    },
-    {
-      "added_at": "2026-04-08 05:16:40",
-      "album": {
-        "name": "Good Care",
-        "url": "https://open.spotify.com/album/6GE5HCTdt1M0ByOFLoXV4d"
-      },
-      "artists": [
-        {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
-        },
-        {
-          "name": "slchld",
-          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
-        },
-        {
-          "name": "asiatic.wav",
-          "url": "https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx"
-        }
-      ],
-      "duration_ms": 194550,
-      "name": "Good Care",
-      "url": "https://open.spotify.com/track/1argqjqP7b6GjGfAGiBlF8"
     }
   ],
   "unique_name": "\u90fd\u4f1a\u306e\u7a7a\u3068\u97f3\u697d\u3068",

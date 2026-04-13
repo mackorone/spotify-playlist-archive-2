@@ -4,7 +4,7 @@
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-424 songs - 23 hr 17 min
+425 songs - 23 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,8 +143,9 @@
 | [Eastern Sun](https://open.spotify.com/track/7jlv9EFXU3Hn1nsqjBe3nC) | [Quiet Tones](https://open.spotify.com/artist/0ZXLhPxIihjrquOaJFGU6Z) | [Eastern Sun](https://open.spotify.com/album/6eAIeTd6KUTbHtXk4UKo3K) | 2:14 | 2026-02-12 |  |
 | [Empty](https://open.spotify.com/track/1M0kmnY1ztJC0ZNQxCS7st) | [Alessandro Martire](https://open.spotify.com/artist/0R7yKHPyuxLG1iHgTc7OSf), [BAILE](https://open.spotify.com/artist/135mViPxje2MED7hOnn2j9), [Ellyn Woods](https://open.spotify.com/artist/2j6jDlTTN4EW5HVEOn25p2) | [Longing EP](https://open.spotify.com/album/0ajy8kD383s9wmYBq4ADnE) | 4:21 | 2025-02-26 | 2026-02-13 |
 | [Enamorados](https://open.spotify.com/track/2VFBT8eSZZ6a9AQ2Kk3qTt) | [EIXE](https://open.spotify.com/artist/4TqoArkD4dRhe02UeuxO54) | [Enamorados](https://open.spotify.com/album/2YcUBptGA3lrTKQXs02xYy) | 2:53 | 2020-12-08\* | 2025-07-16 |
+| [Enchanted Lakes](https://open.spotify.com/track/5rF6ZCev458A3utp4XC36X) | [Yuddhapoot](https://open.spotify.com/artist/36ZKzVYdFd6bTpTOm94bcH) | [Enchanted Lakes](https://open.spotify.com/album/4W2qw0HykU5XyZ4GQKjMvR) | 3:15 | 2026-02-12 |  |
 | [Endless Horizons](https://open.spotify.com/track/4aX9oNml3NCLc7BymvyKwi) | [Stellar Luminous](https://open.spotify.com/artist/1dgWSlkCY69O3oTa1u6vKN) | [Endless Horizons](https://open.spotify.com/album/616Kuhwk6PUqLzZwInp9yW) | 2:22 | 2025-02-26 |  |
-| [Endless Sky](https://open.spotify.com/track/07uOWWv9HviCYCc0D6xE2A) | [Waking Up Inside](https://open.spotify.com/artist/2nFUQ65Yx9UWldBxOmBKlG) | [Endless Sky](https://open.spotify.com/album/5FP33gbyS9UDYVK5viOH2O) | 3:01 | 2026-02-12 |  |
+| [Endless Sky](https://open.spotify.com/track/07uOWWv9HviCYCc0D6xE2A) | [Waking Up Inside](https://open.spotify.com/artist/2nFUQ65Yx9UWldBxOmBKlG) | [Endless Sky](https://open.spotify.com/album/5FP33gbyS9UDYVK5viOH2O) | 3:01 | 2026-02-12 | 2026-04-13 |
 | [Entering The Clockwork Halls](https://open.spotify.com/track/0zMVJBjdegDLhwhG0Iu9nS) | [Enchanted Candlestick](https://open.spotify.com/artist/3jAFYmyMpB3O7LD8zRiRae) | [Gale](https://open.spotify.com/album/3f8gwakpBwYXt6bIt8YTvR) | 2:18 | 2022-11-22 | 2026-03-05 |
 | [Envision](https://open.spotify.com/track/3QG6JoaGwxU2zNUDg0Zcac) | [Adriana Milou](https://open.spotify.com/artist/1hdDs4wK0nVxEMPc1IXXRb) | [Envision](https://open.spotify.com/album/2IgSdhA4y6Dv3D7q54OyT0) | 2:34 | 2023-07-28 | 2023-10-24 |
 | [Ephemara](https://open.spotify.com/track/6MJP8z8GbPYyS69TvlrEL8) | [Admira Mara](https://open.spotify.com/artist/1Pmc0APexvMU8usc0gixhv) | [Ephemara](https://open.spotify.com/album/1iPCFWvutN5Vrp8cpcBfTg) | 2:48 | 2024-02-16 | 2025-09-18 |

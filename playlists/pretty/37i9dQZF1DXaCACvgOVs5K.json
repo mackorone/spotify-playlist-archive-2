@@ -1,6 +1,6 @@
 {
   "description": "Get ready for Ibiza season 2026. See you on the dancefloor.",
-  "num_followers": 858287,
+  "num_followers": 858752,
   "original_name": "Ibiza 2026",
   "owner": {
     "name": "Spotify",
@@ -119,6 +119,22 @@
     {
       "added_at": "2026-04-10 10:09:26",
       "album": {
+        "name": "The Less I Know The Better",
+        "url": "https://open.spotify.com/album/37k9VMEhAj9tO9g7MTkHWk"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "duration_ms": 176114,
+      "name": "The Less I Know The Better",
+      "url": "https://open.spotify.com/track/7lDGg8CFySbkKUrjgzcLlY"
+    },
+    {
+      "added_at": "2026-04-10 10:09:26",
+      "album": {
         "name": "Can't Decide",
         "url": "https://open.spotify.com/album/2VezYvaKWplhVgqRq1mEKD"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 175384,
       "name": "Can't Decide",
       "url": "https://open.spotify.com/track/10pfamFYvg5ftwq6rGJrWx"
-    },
-    {
-      "added_at": "2026-04-10 10:09:26",
-      "album": {
-        "name": "The Less I Know The Better",
-        "url": "https://open.spotify.com/album/37k9VMEhAj9tO9g7MTkHWk"
-      },
-      "artists": [
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        }
-      ],
-      "duration_ms": 176114,
-      "name": "The Less I Know The Better",
-      "url": "https://open.spotify.com/track/7lDGg8CFySbkKUrjgzcLlY"
     },
     {
       "added_at": "2026-04-10 10:09:26",
@@ -275,18 +275,22 @@
     {
       "added_at": "2026-04-10 10:09:26",
       "album": {
-        "name": "Don't Wake Me Up",
-        "url": "https://open.spotify.com/album/3j5uOXYCe6ebHU86UcAMAg"
+        "name": "CHICA 305",
+        "url": "https://open.spotify.com/album/5WKnVOiGYqy9Aqva01ttB2"
       },
       "artists": [
         {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 154139,
-      "name": "Don't Wake Me Up",
-      "url": "https://open.spotify.com/track/3sU1L9okYWbN61oHZNQTfh"
+      "duration_ms": 188085,
+      "name": "CHICA 305",
+      "url": "https://open.spotify.com/track/2xz5qmonUWZytz5jIw04LM"
     },
     {
       "added_at": "2026-04-10 10:09:26",
@@ -311,22 +315,18 @@
     {
       "added_at": "2026-04-10 10:09:26",
       "album": {
-        "name": "CHICA 305",
-        "url": "https://open.spotify.com/album/5WKnVOiGYqy9Aqva01ttB2"
+        "name": "Don't Wake Me Up",
+        "url": "https://open.spotify.com/album/3j5uOXYCe6ebHU86UcAMAg"
       },
       "artists": [
         {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
         }
       ],
-      "duration_ms": 188085,
-      "name": "CHICA 305",
-      "url": "https://open.spotify.com/track/2xz5qmonUWZytz5jIw04LM"
+      "duration_ms": 154139,
+      "name": "Don't Wake Me Up",
+      "url": "https://open.spotify.com/track/3sU1L9okYWbN61oHZNQTfh"
     },
     {
       "added_at": "2026-04-10 10:09:26",
@@ -383,6 +383,26 @@
     {
       "added_at": "2026-04-10 10:09:26",
       "album": {
+        "name": "light years (feat. In\u00e9z)",
+        "url": "https://open.spotify.com/album/3Ze2F3oYCJnaotDZBVWMkI"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "In\u00e9z",
+          "url": "https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5"
+        }
+      ],
+      "duration_ms": 220978,
+      "name": "light years (feat. In\u00e9z)",
+      "url": "https://open.spotify.com/track/2wRKES8HKm4EutRHz7JD1x"
+    },
+    {
+      "added_at": "2026-04-10 10:09:26",
+      "album": {
         "name": "Verano En NY",
         "url": "https://open.spotify.com/album/6lwdsDlonNio6vDG42eUZu"
       },
@@ -411,26 +431,6 @@
       "duration_ms": 227272,
       "name": "Appetite",
       "url": "https://open.spotify.com/track/6zldvnVMC25b4uliSKO9Lz"
-    },
-    {
-      "added_at": "2026-04-10 10:09:26",
-      "album": {
-        "name": "light years (feat. In\u00e9z)",
-        "url": "https://open.spotify.com/album/3Ze2F3oYCJnaotDZBVWMkI"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "In\u00e9z",
-          "url": "https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5"
-        }
-      ],
-      "duration_ms": 220978,
-      "name": "light years (feat. In\u00e9z)",
-      "url": "https://open.spotify.com/track/2wRKES8HKm4EutRHz7JD1x"
     },
     {
       "added_at": "2026-04-10 10:09:26",
@@ -1067,6 +1067,30 @@
     {
       "added_at": "2026-04-10 10:09:26",
       "album": {
+        "name": "Freaky 1",
+        "url": "https://open.spotify.com/album/2iI0aQO2hrnBmMDIUvrLJS"
+      },
+      "artists": [
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Ali Love",
+          "url": "https://open.spotify.com/artist/5XJp0gYotUfFraS626GSge"
+        }
+      ],
+      "duration_ms": 232093,
+      "name": "Freaky 1",
+      "url": "https://open.spotify.com/track/5cefCIhgIJgsG3r3LcRmwB"
+    },
+    {
+      "added_at": "2026-04-10 10:09:26",
+      "album": {
         "name": "nothin lasts 4ever",
         "url": "https://open.spotify.com/album/28KXehF6hOt3iYjCxVPr0o"
       },
@@ -1259,26 +1283,42 @@
     {
       "added_at": "2026-04-10 10:09:26",
       "album": {
-        "name": "Freaky 1",
-        "url": "https://open.spotify.com/album/2iI0aQO2hrnBmMDIUvrLJS"
+        "name": "My Temptations",
+        "url": "https://open.spotify.com/album/7zkuvjLRSq5dqOlNekcQGU"
       },
       "artists": [
         {
-          "name": "Max Styler",
-          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+          "name": "Oden & Fatzo",
+          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
         },
         {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "Ali Love",
-          "url": "https://open.spotify.com/artist/5XJp0gYotUfFraS626GSge"
+          "name": "Barney Bones",
+          "url": "https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV"
         }
       ],
-      "duration_ms": 232093,
-      "name": "Freaky 1",
-      "url": "https://open.spotify.com/track/5cefCIhgIJgsG3r3LcRmwB"
+      "duration_ms": 191657,
+      "name": "My Temptations",
+      "url": "https://open.spotify.com/track/2MK2fcwBiq2fHxooYW4qfC"
+    },
+    {
+      "added_at": "2026-04-10 10:09:26",
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/2mJ08Ks0w1VpU5g5LjgM6W"
+      },
+      "artists": [
+        {
+          "name": "Amine Edge",
+          "url": "https://open.spotify.com/artist/5iCqqgYu0T23xUwnBFGpU1"
+        },
+        {
+          "name": "Daecolm",
+          "url": "https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N"
+        }
+      ],
+      "duration_ms": 219080,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/7qMxaJcpIGtxzEiovcnZ8A"
     },
     {
       "added_at": "2026-04-10 10:09:26",
@@ -1339,42 +1379,6 @@
     {
       "added_at": "2026-04-10 10:09:26",
       "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/2mJ08Ks0w1VpU5g5LjgM6W"
-      },
-      "artists": [
-        {
-          "name": "Amine Edge",
-          "url": "https://open.spotify.com/artist/5iCqqgYu0T23xUwnBFGpU1"
-        },
-        {
-          "name": "Daecolm",
-          "url": "https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N"
-        }
-      ],
-      "duration_ms": 219080,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/7qMxaJcpIGtxzEiovcnZ8A"
-    },
-    {
-      "added_at": "2026-04-10 10:09:26",
-      "album": {
-        "name": "Mamacita",
-        "url": "https://open.spotify.com/album/5nKSZIsIRjTCsQN3M6RE3P"
-      },
-      "artists": [
-        {
-          "name": "Yung Omz ",
-          "url": "https://open.spotify.com/artist/0XtHWrMRipVdHRV9QNyu04"
-        }
-      ],
-      "duration_ms": 128780,
-      "name": "Mamacita",
-      "url": "https://open.spotify.com/track/7BGh5Om46VaCFeqk11sKk2"
-    },
-    {
-      "added_at": "2026-04-10 10:09:26",
-      "album": {
         "name": "Stars Above",
         "url": "https://open.spotify.com/album/2fg5mQkGQRT3ELk0KZeu6B"
       },
@@ -1391,6 +1395,22 @@
       "duration_ms": 190078,
       "name": "Stars Above",
       "url": "https://open.spotify.com/track/36vtpWkQyA2wTxkH8taIHg"
+    },
+    {
+      "added_at": "2026-04-10 10:09:26",
+      "album": {
+        "name": "Mamacita",
+        "url": "https://open.spotify.com/album/5nKSZIsIRjTCsQN3M6RE3P"
+      },
+      "artists": [
+        {
+          "name": "Yung Omz ",
+          "url": "https://open.spotify.com/artist/0XtHWrMRipVdHRV9QNyu04"
+        }
+      ],
+      "duration_ms": 128780,
+      "name": "Mamacita",
+      "url": "https://open.spotify.com/track/7BGh5Om46VaCFeqk11sKk2"
     },
     {
       "added_at": "2026-04-10 10:09:26",
@@ -1419,26 +1439,6 @@
       "duration_ms": 183016,
       "name": "Feel The Love",
       "url": "https://open.spotify.com/track/79VHKtRi11otZg0Bil7v1G"
-    },
-    {
-      "added_at": "2026-04-10 10:09:26",
-      "album": {
-        "name": "My Temptations",
-        "url": "https://open.spotify.com/album/7zkuvjLRSq5dqOlNekcQGU"
-      },
-      "artists": [
-        {
-          "name": "Oden & Fatzo",
-          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
-        },
-        {
-          "name": "Barney Bones",
-          "url": "https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV"
-        }
-      ],
-      "duration_ms": 191657,
-      "name": "My Temptations",
-      "url": "https://open.spotify.com/track/2MK2fcwBiq2fHxooYW4qfC"
     },
     {
       "added_at": "2026-04-10 10:09:26",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2026-04-10 10:09:26",
       "album": {
+        "name": "Girl On The Beat",
+        "url": "https://open.spotify.com/album/2uH2qaSwEoUH57uGYIh4DK"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "duration_ms": 160029,
+      "name": "Girl On The Beat",
+      "url": "https://open.spotify.com/track/30Cr5u6vEcZiNe8dU6WsxF"
+    },
+    {
+      "added_at": "2026-04-10 10:09:26",
+      "album": {
         "name": "Lola's Theme (Tripolism Remix)",
         "url": "https://open.spotify.com/album/75NCYiWBnt9eptrKPv13NX"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 219261,
       "name": "Lola's Theme - Tripolism Remix",
       "url": "https://open.spotify.com/track/4tDDGi78yN261vDDaOQlGD"
-    },
-    {
-      "added_at": "2026-04-10 10:09:26",
-      "album": {
-        "name": "Girl On The Beat",
-        "url": "https://open.spotify.com/album/2uH2qaSwEoUH57uGYIh4DK"
-      },
-      "artists": [
-        {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
-        }
-      ],
-      "duration_ms": 160029,
-      "name": "Girl On The Beat",
-      "url": "https://open.spotify.com/track/30Cr5u6vEcZiNe8dU6WsxF"
     },
     {
       "added_at": "2026-04-10 10:09:26",
@@ -1731,6 +1731,42 @@
     {
       "added_at": "2026-04-10 10:09:26",
       "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/0un2xX5yJkl6Yjri9yMXJU"
+      },
+      "artists": [
+        {
+          "name": "Bontan",
+          "url": "https://open.spotify.com/artist/1tZgoMqNTa7lII4w9pV3ud"
+        }
+      ],
+      "duration_ms": 215040,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/4JRLxf6sMSOcQQP75m3QZh"
+    },
+    {
+      "added_at": "2026-04-10 10:09:26",
+      "album": {
+        "name": "See It As A Sign",
+        "url": "https://open.spotify.com/album/5W5TUPcIhBMZJAU7aGAkOp"
+      },
+      "artists": [
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        },
+        {
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+        }
+      ],
+      "duration_ms": 174204,
+      "name": "See It As A Sign",
+      "url": "https://open.spotify.com/track/2rsTdV5sQmTTfX4SDsgT3o"
+    },
+    {
+      "added_at": "2026-04-10 10:09:26",
+      "album": {
         "name": "Can't Get Enough",
         "url": "https://open.spotify.com/album/3OBsgXDSLQGIa8HZVP4Zk9"
       },
@@ -1767,42 +1803,6 @@
       "duration_ms": 184130,
       "name": "Got The Funk",
       "url": "https://open.spotify.com/track/62HMqOpPcNgECRoOMUD8B2"
-    },
-    {
-      "added_at": "2026-04-10 10:09:26",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/0un2xX5yJkl6Yjri9yMXJU"
-      },
-      "artists": [
-        {
-          "name": "Bontan",
-          "url": "https://open.spotify.com/artist/1tZgoMqNTa7lII4w9pV3ud"
-        }
-      ],
-      "duration_ms": 215040,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/4JRLxf6sMSOcQQP75m3QZh"
-    },
-    {
-      "added_at": "2026-04-10 10:09:26",
-      "album": {
-        "name": "See It As A Sign",
-        "url": "https://open.spotify.com/album/5W5TUPcIhBMZJAU7aGAkOp"
-      },
-      "artists": [
-        {
-          "name": "Carlita",
-          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
-        },
-        {
-          "name": "Myd",
-          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
-        }
-      ],
-      "duration_ms": 174204,
-      "name": "See It As A Sign",
-      "url": "https://open.spotify.com/track/2rsTdV5sQmTTfX4SDsgT3o"
     },
     {
       "added_at": "2026-04-10 10:09:26",

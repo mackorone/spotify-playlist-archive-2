@@ -1,6 +1,6 @@
 {
   "description": "Every track you're listening/should be listening to ;) ",
-  "num_followers": 1270440,
+  "num_followers": 1271468,
   "original_name": "Trending Now India",
   "owner": {
     "name": "Spotify",
@@ -439,30 +439,6 @@
     {
       "added_at": "2026-04-08 05:31:39",
       "album": {
-        "name": "Bhediya (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/12sC6UjMWz6EaxnzyfCNMe"
-      },
-      "artists": [
-        {
-          "name": "Sachin-Jigar",
-          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
-        },
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        },
-        {
-          "name": "Amitabh Bhattacharya",
-          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
-        }
-      ],
-      "duration_ms": 261702,
-      "name": "Apna Bana Le",
-      "url": "https://open.spotify.com/track/5bQ6oDLqvw8tywmnSmwEyL"
-    },
-    {
-      "added_at": "2026-04-08 05:31:39",
-      "album": {
         "name": "Pavazha Malli (From \"Think Indie\")",
         "url": "https://open.spotify.com/album/0AZKtXd74RQmQtCSGcVuZB"
       },
@@ -483,6 +459,30 @@
       "duration_ms": 252569,
       "name": "Pavazha Malli - From \"Think Indie\"",
       "url": "https://open.spotify.com/track/4yur1GSBfuS1VADyUYocqd"
+    },
+    {
+      "added_at": "2026-04-08 05:31:39",
+      "album": {
+        "name": "Bhediya (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/12sC6UjMWz6EaxnzyfCNMe"
+      },
+      "artists": [
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "duration_ms": 261702,
+      "name": "Apna Bana Le",
+      "url": "https://open.spotify.com/track/5bQ6oDLqvw8tywmnSmwEyL"
     },
     {
       "added_at": "2026-04-08 05:31:39",
@@ -791,6 +791,26 @@
     {
       "added_at": "2026-04-08 05:31:39",
       "album": {
+        "name": "Mutta Kalakki (From \"Youth\")",
+        "url": "https://open.spotify.com/album/2g8yWUzEnZDEVdCzknsIeh"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Ken Karunaas",
+          "url": "https://open.spotify.com/artist/6f9pTlTRRreLGq9gIonZOA"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Mutta Kalakki (From \"Youth\")",
+      "url": "https://open.spotify.com/track/3GNlsHDf3OH7V3LgccGAFc"
+    },
+    {
+      "added_at": "2026-04-08 05:31:39",
+      "album": {
         "name": "Jab We Met",
         "url": "https://open.spotify.com/album/4OYdTHNgjhXzgVjbqsb0tO"
       },
@@ -835,26 +855,6 @@
       "duration_ms": 257826,
       "name": "Deewaniyat (From \"Ek Deewane Ki Deewaniyat\") (Original Motion Picture Soundtrack)",
       "url": "https://open.spotify.com/track/3EKHZNd0qflQK8UImpUu3k"
-    },
-    {
-      "added_at": "2026-04-08 05:31:39",
-      "album": {
-        "name": "Mutta Kalakki (From \"Youth\")",
-        "url": "https://open.spotify.com/album/2g8yWUzEnZDEVdCzknsIeh"
-      },
-      "artists": [
-        {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
-        },
-        {
-          "name": "Ken Karunaas",
-          "url": "https://open.spotify.com/artist/6f9pTlTRRreLGq9gIonZOA"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "Mutta Kalakki (From \"Youth\")",
-      "url": "https://open.spotify.com/track/3GNlsHDf3OH7V3LgccGAFc"
     },
     {
       "added_at": "2026-04-08 05:31:39",
@@ -1167,6 +1167,34 @@
     {
       "added_at": "2026-04-08 05:31:39",
       "album": {
+        "name": "Pardesiya (From \"Param Sundari\")",
+        "url": "https://open.spotify.com/album/4hHAxLq4VGuyb6HsyUIPGd"
+      },
+      "artists": [
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Sonu Nigam",
+          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+        },
+        {
+          "name": "Krishnakali Saha",
+          "url": "https://open.spotify.com/artist/2L4PimBfxoTMZRp2SfVP5g"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "duration_ms": 231739,
+      "name": "Pardesiya - From \"Param Sundari\"",
+      "url": "https://open.spotify.com/track/0q84FggW57NXGtLHoetS0Y"
+    },
+    {
+      "added_at": "2026-04-08 05:31:39",
+      "album": {
         "name": "Mismatched: Season 3 (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/75SlrAXlLbJN9LYJwlTJh6"
       },
@@ -1207,34 +1235,6 @@
     {
       "added_at": "2026-04-08 05:31:39",
       "album": {
-        "name": "Pardesiya (From \"Param Sundari\")",
-        "url": "https://open.spotify.com/album/4hHAxLq4VGuyb6HsyUIPGd"
-      },
-      "artists": [
-        {
-          "name": "Sachin-Jigar",
-          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
-        },
-        {
-          "name": "Sonu Nigam",
-          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
-        },
-        {
-          "name": "Krishnakali Saha",
-          "url": "https://open.spotify.com/artist/2L4PimBfxoTMZRp2SfVP5g"
-        },
-        {
-          "name": "Amitabh Bhattacharya",
-          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
-        }
-      ],
-      "duration_ms": 231739,
-      "name": "Pardesiya - From \"Param Sundari\"",
-      "url": "https://open.spotify.com/track/0q84FggW57NXGtLHoetS0Y"
-    },
-    {
-      "added_at": "2026-04-08 05:31:39",
-      "album": {
         "name": "Kaise Hua (From \"Kabir Singh\")",
         "url": "https://open.spotify.com/album/1ncyKqyZae6DoyjYaV9LmS"
       },
@@ -1251,30 +1251,6 @@
       "duration_ms": 234722,
       "name": "Kaise Hua (From \"Kabir Singh\")",
       "url": "https://open.spotify.com/track/1y1rQTkWmrZdJmjwuK07GC"
-    },
-    {
-      "added_at": "2026-04-08 05:31:39",
-      "album": {
-        "name": "Aakh Ye Taalibaani",
-        "url": "https://open.spotify.com/album/43hLoE8lHZXafTwgbq38gQ"
-      },
-      "artists": [
-        {
-          "name": "Manish Sonipat Aala",
-          "url": "https://open.spotify.com/artist/5qOMhLYGpLWkX4yvBDfAxw"
-        },
-        {
-          "name": "Bali Sharma",
-          "url": "https://open.spotify.com/artist/3lNCYjWO527Kii9tkqg7Wc"
-        },
-        {
-          "name": "Vampire",
-          "url": "https://open.spotify.com/artist/12QL6cy6qvkF2olxJ6GcL2"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Aakh Ye Taalibaani",
-      "url": "https://open.spotify.com/track/5yS0pxhp7gRtTke8YSg8q1"
     },
     {
       "added_at": "2026-04-08 05:31:39",
@@ -1299,6 +1275,30 @@
       "duration_ms": 152466,
       "name": "DOPAMINE",
       "url": "https://open.spotify.com/track/3dw558iZgDA2BIeVd0taMM"
+    },
+    {
+      "added_at": "2026-04-08 05:31:39",
+      "album": {
+        "name": "Aakh Ye Taalibaani",
+        "url": "https://open.spotify.com/album/43hLoE8lHZXafTwgbq38gQ"
+      },
+      "artists": [
+        {
+          "name": "Manish Sonipat Aala",
+          "url": "https://open.spotify.com/artist/5qOMhLYGpLWkX4yvBDfAxw"
+        },
+        {
+          "name": "Bali Sharma",
+          "url": "https://open.spotify.com/artist/3lNCYjWO527Kii9tkqg7Wc"
+        },
+        {
+          "name": "Vampire",
+          "url": "https://open.spotify.com/artist/12QL6cy6qvkF2olxJ6GcL2"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Aakh Ye Taalibaani",
+      "url": "https://open.spotify.com/track/5yS0pxhp7gRtTke8YSg8q1"
     },
     {
       "added_at": "2026-04-08 05:31:39",

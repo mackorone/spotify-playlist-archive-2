@@ -1,6 +1,6 @@
 {
   "description": "Tu dosis de \u00e9xitos indie para quedar a salvo. En portada: Alabama Shakes",
-  "num_followers": 1055482,
+  "num_followers": 1055342,
   "original_name": "Indiespensables",
   "owner": {
     "name": "Spotify",
@@ -175,22 +175,6 @@
     {
       "added_at": "2024-07-12 17:56:50",
       "album": {
-        "name": "Lungs (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 251840,
-      "name": "Dog Days Are Over",
-      "url": "https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB"
-    },
-    {
-      "added_at": "2024-07-12 17:56:50",
-      "album": {
         "name": "Good News For People Who Love Bad News",
         "url": "https://open.spotify.com/album/0TGTGuc2vXv6ZECoAf52N0"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 208466,
       "name": "Float On",
       "url": "https://open.spotify.com/track/2lwwrWVKdf3LR9lbbhnr6R"
+    },
+    {
+      "added_at": "2024-07-12 17:56:50",
+      "album": {
+        "name": "Lungs (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 251840,
+      "name": "Dog Days Are Over",
+      "url": "https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB"
     },
     {
       "added_at": "2024-07-12 17:56:50",
@@ -351,6 +351,22 @@
     {
       "added_at": "2024-07-12 17:56:50",
       "album": {
+        "name": "Silent Alarm",
+        "url": "https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t"
+      },
+      "artists": [
+        {
+          "name": "Bloc Party",
+          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
+        }
+      ],
+      "duration_ms": 196613,
+      "name": "Banquet",
+      "url": "https://open.spotify.com/track/2YxXuCdbUpil3P7tRjhW1t"
+    },
+    {
+      "added_at": "2024-07-12 17:56:50",
+      "album": {
         "name": "No More Lies",
         "url": "https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 327217,
       "name": "No More Lies",
       "url": "https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj"
-    },
-    {
-      "added_at": "2024-07-12 17:56:50",
-      "album": {
-        "name": "Silent Alarm",
-        "url": "https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t"
-      },
-      "artists": [
-        {
-          "name": "Bloc Party",
-          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
-        }
-      ],
-      "duration_ms": 196613,
-      "name": "Banquet",
-      "url": "https://open.spotify.com/track/2YxXuCdbUpil3P7tRjhW1t"
     },
     {
       "added_at": "2024-07-12 17:56:50",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2024-07-12 17:56:50",
       "album": {
-        "name": "Surfer Rosa (Remastered)",
-        "url": "https://open.spotify.com/album/2l7RPWC3E6eStJJLBsUeCI"
+        "name": "What Went Down",
+        "url": "https://open.spotify.com/album/4uIDigk79DeZEYV6Z5Yf4s"
       },
       "artists": [
         {
-          "name": "Pixies",
-          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
+          "name": "Foals",
+          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
         }
       ],
-      "duration_ms": 236973,
-      "name": "Where Is My Mind?",
-      "url": "https://open.spotify.com/track/6mcxQ1Y3uQRU0IHsvdNLH1"
+      "duration_ms": 244293,
+      "name": "Mountain at My Gates",
+      "url": "https://open.spotify.com/track/53L6A3I9vf7rgEZnMzx54E"
     }
   ],
   "unique_name": "Indiespensables",

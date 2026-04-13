@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0SkALb.md) - [plain]
 
 > This is Lou Rawls\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,774 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,775 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0SkALb.md) - [plain]
 | 24 | [The Letter](https://open.spotify.com/track/1CDke7GKa0x4PheMWoIkuH) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Brotherman!: Lou Rawls Sings His Hits](https://open.spotify.com/album/2dQjiU3OspVulLuFoGXBvI) | 2:34 |
 | 25 | [If I Coulda, Woulda, Shoulda](https://open.spotify.com/track/69YAZPqQ7bbu4Vcu8QLH5z) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [When You Hear Lou, You've Heard It All](https://open.spotify.com/album/6mg5MNs8xfiFxVaDX7Rycl) | 4:32 |
 | 26 | [This Song Will Last Forever](https://open.spotify.com/track/4iuXDdLvdWLg5hSHz90ii2) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [All Things In Time](https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m) | 5:05 |
-| 27 | [Sit Down and Talk to Me](https://open.spotify.com/track/4JTp5ZdVqCqJmBSNzJhn7X) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Sit Down and Talk to Me](https://open.spotify.com/album/0ptfSwqXv2Jm93lXyY2bXD) | 4:53 |
-| 28 | [Let's Burn Down The Cornfield \- 2006 Remaster](https://open.spotify.com/track/75gpgVKbgapGmVfgNcA7Vu) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [The Best Of Lou Rawls \- The Capitol Jazz & Blues Sessions](https://open.spotify.com/album/6pxkv1dxkTshid2V0MBGrp) | 3:03 |
+| 27 | [Let's Burn Down The Cornfield \- 2006 Remaster](https://open.spotify.com/track/75gpgVKbgapGmVfgNcA7Vu) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [The Best Of Lou Rawls \- The Capitol Jazz & Blues Sessions](https://open.spotify.com/album/6pxkv1dxkTshid2V0MBGrp) | 3:03 |
+| 28 | [Sit Down and Talk to Me](https://open.spotify.com/track/4JTp5ZdVqCqJmBSNzJhn7X) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Sit Down and Talk to Me](https://open.spotify.com/album/0ptfSwqXv2Jm93lXyY2bXD) | 4:53 |
 | 29 | [Unforgettable](https://open.spotify.com/track/6DasyKHS773Ar1TBMEyKUn) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [When You Hear Lou, You've Heard It All](https://open.spotify.com/album/6mg5MNs8xfiFxVaDX7Rycl) | 3:23 |
 | 30 | [She's Gone](https://open.spotify.com/track/6adeIKKnnqB7MwfFeZgYVz) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [The Essential Lou Rawls](https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG) | 3:29 |
 | 31 | [Back To You](https://open.spotify.com/track/1sZvWZAw38RsYW5CuyqCxz) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Now Is The Time](https://open.spotify.com/album/5NmUBPEgjUxEZXDbG7IC58) | 3:26 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0SkALb.md) - [plain]
 | 42 | [For What It's Worth](https://open.spotify.com/track/39ZtwewomTxsYMDRITXTlP) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Brotherman!: Lou Rawls Sings His Hits](https://open.spotify.com/album/2dQjiU3OspVulLuFoGXBvI) | 2:56 |
 | 43 | [You Are](https://open.spotify.com/track/4lWVcoQHCX8UJJfTJJsQTw) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Sit Down and Talk to Me](https://open.spotify.com/album/0ptfSwqXv2Jm93lXyY2bXD) | 4:51 |
 | 44 | [Let's Fall In Love All Over Again](https://open.spotify.com/track/7M9lUbA4ggamFsLG5DsiZ2) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [All Things In Time](https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m) | 4:00 |
-| 45 | [A Lover's Question](https://open.spotify.com/track/0VYRZNTuSBR7mQrwOcR8yX) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od), [Phoebe Snow](https://open.spotify.com/artist/3iuobQyYhofKRr5W6HZoKt) | [Portrait Of The Blues](https://open.spotify.com/album/6JdvEayKi0nsKq3XJNZolE) | 3:04 |
+| 45 | [We Understand Each Other](https://open.spotify.com/track/7em6KhKMrKS8svfEuKgXLJ) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [The Essential Lou Rawls](https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG) | 4:16 |
 | 46 | [In The Evening When The Sun Goes Down](https://open.spotify.com/track/449ERuFb4q69n28mdvpUS7) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od), [Les McCann Ltd.](https://open.spotify.com/artist/5m5cI7A7X1nKfJfJIZumoA) | [Stormy Monday](https://open.spotify.com/album/2E5VtJahYu8mM1fjycL5ds) | 3:28 |
-| 47 | [We Understand Each Other](https://open.spotify.com/track/7em6KhKMrKS8svfEuKgXLJ) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [The Essential Lou Rawls](https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG) | 4:16 |
-| 48 | [Georgia On My Mind \- Remastered 2006](https://open.spotify.com/track/1v0PObRGQRpv6foapH9F35) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Tobacco Road](https://open.spotify.com/album/5HlnBTb2vJjwCr25XVVmwh) | 3:19 |
+| 47 | [Georgia On My Mind \- Remastered 2006](https://open.spotify.com/track/1v0PObRGQRpv6foapH9F35) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Tobacco Road](https://open.spotify.com/album/5HlnBTb2vJjwCr25XVVmwh) | 3:19 |
+| 48 | [A Lover's Question](https://open.spotify.com/track/0VYRZNTuSBR7mQrwOcR8yX) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od), [Phoebe Snow](https://open.spotify.com/artist/3iuobQyYhofKRr5W6HZoKt) | [Portrait Of The Blues](https://open.spotify.com/album/6JdvEayKi0nsKq3XJNZolE) | 3:04 |
 | 49 | [Your Good Thing \(Is About To End\)](https://open.spotify.com/track/79VLN3Akfbtadc8IYuygQd) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Legendary Lou Rawls](https://open.spotify.com/album/2aA0a7jTuOaUdjG9ELNtX2) | 2:53 |
-| 50 | [Evil Woman](https://open.spotify.com/track/7j4uxZq7o8QtoYzrTlYNtZ) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [I Can't Make It Alone: The Axelrod Years](https://open.spotify.com/album/1Kx9ACe5cRS0qlwUDp15MU) | 2:36 |
+| 50 | [That Would Do It for Me](https://open.spotify.com/track/018N2ZUUruZrwLHPDtuwj0) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Lou Rawls \- The Very Best Of](https://open.spotify.com/album/0fHzoR2PfTW5FhpVBcNJVN) | 3:23 |
 
-Snapshot ID: `adg9gAAAAACLFD1tuQtgdDXXJSWLee2T`
+Snapshot ID: `admPAAAAAAA3PJ88rSpQpAf+bGfXMbYW`

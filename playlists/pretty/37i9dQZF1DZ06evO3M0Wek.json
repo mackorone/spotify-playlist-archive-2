@@ -1,12 +1,12 @@
 {
   "description": "This is Halestorm. The essential tracks, all in one playlist.",
-  "num_followers": 115563,
+  "num_followers": 115579,
   "original_name": "This Is Halestorm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adg9gAAAAACmErDpbA16VEZZ11e6mfqF",
+  "snapshot_id": "admPAAAAAAAIraVIGd4vVuqe6iJ4pWl5",
   "tracks": [
     {
       "added_at": null,
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
         }
       ],
-      "duration_ms": 273399,
-      "name": "Fallen Star",
-      "url": "https://open.spotify.com/track/5uIbZFaGgc8aYcXaIhPASi"
+      "duration_ms": 230903,
+      "name": "Shiver",
+      "url": "https://open.spotify.com/track/5PoYmKGOgfakgnYkc85TVG"
     },
     {
       "added_at": null,
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
         }
       ],
-      "duration_ms": 230903,
-      "name": "Shiver",
-      "url": "https://open.spotify.com/track/5PoYmKGOgfakgnYkc85TVG"
+      "duration_ms": 273399,
+      "name": "Fallen Star",
+      "url": "https://open.spotify.com/track/5uIbZFaGgc8aYcXaIhPASi"
     },
     {
       "added_at": null,
@@ -639,8 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back From the Dead",
-        "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
+        "name": "ReAniMate 3.0: The CoVeRs eP",
+        "url": "https://open.spotify.com/album/5WKmPd9CsLopbhYQMM4rxI"
       },
       "artists": [
         {
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
         }
       ],
-      "duration_ms": 222010,
-      "name": "Strange Girl",
-      "url": "https://open.spotify.com/track/6lsQurvT97J67VKSXuCDSx"
+      "duration_ms": 208240,
+      "name": "Heathens",
+      "url": "https://open.spotify.com/track/27WReIpBz5x9DPiCoVus4T"
     },
     {
       "added_at": null,
@@ -671,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "ReAniMate 3.0: The CoVeRs eP",
-        "url": "https://open.spotify.com/album/5WKmPd9CsLopbhYQMM4rxI"
+        "name": "Back From the Dead",
+        "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
       },
       "artists": [
         {
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
         }
       ],
-      "duration_ms": 208240,
-      "name": "Heathens",
-      "url": "https://open.spotify.com/track/27WReIpBz5x9DPiCoVus4T"
+      "duration_ms": 222010,
+      "name": "Strange Girl",
+      "url": "https://open.spotify.com/track/6lsQurvT97J67VKSXuCDSx"
     },
     {
       "added_at": null,

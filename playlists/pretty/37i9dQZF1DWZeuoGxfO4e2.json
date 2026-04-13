@@ -1,6 +1,6 @@
 {
   "description": "Celebramos a las figuras legendarias del rock en nuestro idioma. Foto: Soda Stereo.",
-  "num_followers": 748981,
+  "num_followers": 749104,
   "original_name": "Iconos del Rock Latinoamericano",
   "owner": {
     "name": "Spotify",
@@ -1347,18 +1347,22 @@
     {
       "added_at": "2024-06-12 14:32:47",
       "album": {
-        "name": "Flamingos",
-        "url": "https://open.spotify.com/album/2MUTc0OJT6lOZCwifS1LyB"
+        "name": "Hijos del pueblo",
+        "url": "https://open.spotify.com/album/69JZWukakNJGpGhJILhyTl"
       },
       "artists": [
         {
           "name": "Bunbury",
           "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+        },
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
         }
       ],
-      "duration_ms": 329666,
-      "name": "Lady Blue",
-      "url": "https://open.spotify.com/track/492aSGsuE0dOOBKB66781Z"
+      "duration_ms": 212560,
+      "name": "Aunque no sea conmigo",
+      "url": "https://open.spotify.com/track/0dRY4OrSY53yUjVgfgne1W"
     },
     {
       "added_at": "2024-06-12 14:32:47",
@@ -1427,22 +1431,18 @@
     {
       "added_at": "2024-06-12 14:32:47",
       "album": {
-        "name": "Hijos del pueblo",
-        "url": "https://open.spotify.com/album/69JZWukakNJGpGhJILhyTl"
+        "name": "Flamingos",
+        "url": "https://open.spotify.com/album/2MUTc0OJT6lOZCwifS1LyB"
       },
       "artists": [
         {
           "name": "Bunbury",
           "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
-        },
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
         }
       ],
-      "duration_ms": 212560,
-      "name": "Aunque no sea conmigo",
-      "url": "https://open.spotify.com/track/0dRY4OrSY53yUjVgfgne1W"
+      "duration_ms": 329666,
+      "name": "Lady Blue",
+      "url": "https://open.spotify.com/track/492aSGsuE0dOOBKB66781Z"
     },
     {
       "added_at": "2024-06-12 14:32:47",

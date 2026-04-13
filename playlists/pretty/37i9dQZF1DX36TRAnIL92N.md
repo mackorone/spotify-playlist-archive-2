@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 
 > High energy Techno to boost your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 480,604 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 480,857 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 24 | [Holy Place](https://open.spotify.com/track/12bBKcfrR64kVkcxpoa0sL) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Holy Place](https://open.spotify.com/album/21ri3TvMHbRdPNmVE8gF8l) | 3:13 |
 | 25 | [SCANDAL ANTHEM](https://open.spotify.com/track/08DchrgnFXBD6H142l4tvY) | [Fantasm](https://open.spotify.com/artist/0copVQkrcbfv5CzOyXuLKy), [WINSON](https://open.spotify.com/artist/2z9op9COiMU6QquVfY8HTN) | [SCANDAL ANTHEM](https://open.spotify.com/album/1KGIRYw9xdet38N9JKZp7l) | 4:04 |
 | 26 | [A Prayer for the Dancefloor \(feat\. Conduit\)](https://open.spotify.com/track/1tBbAzbOg9qZJrSZBlHlXT) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [Conduit](https://open.spotify.com/artist/3J3JzOfRbzpAf7gKnJv5iy) | [A Prayer for the Dancefloor](https://open.spotify.com/album/2sOuMy79OheEax3Foih6gr) | 6:54 |
-| 27 | [Eyes On Me](https://open.spotify.com/track/3pXKGIgJ9tLCDIplmLdGHj) | [Nicole Moudaber](https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Eyes On Me](https://open.spotify.com/album/3fZj8YWdyRjx5Zuk79BhRU) | 3:38 |
-| 28 | [Falling For You](https://open.spotify.com/track/6KmjD9CaophLMXTCzKoLLZ) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Falling For You](https://open.spotify.com/album/06IxEeX95EI0GlyfuuPqjS) | 3:55 |
+| 27 | [Falling For You](https://open.spotify.com/track/6KmjD9CaophLMXTCzKoLLZ) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Falling For You](https://open.spotify.com/album/06IxEeX95EI0GlyfuuPqjS) | 3:55 |
+| 28 | [Eyes On Me](https://open.spotify.com/track/3pXKGIgJ9tLCDIplmLdGHj) | [Nicole Moudaber](https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Eyes On Me](https://open.spotify.com/album/3fZj8YWdyRjx5Zuk79BhRU) | 3:38 |
 | 29 | [Bombacid](https://open.spotify.com/track/1DdByft8QSr5sf8ZhdxcXE) | [T78](https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z), [Roberto Molinaro](https://open.spotify.com/artist/0mAQ0glGOQwK489YCodem9) | [Bombacid](https://open.spotify.com/album/2wuhp5q5agJgqllJdBpJdN) | 3:24 |
 | 30 | [Rave Harder Techno Bass](https://open.spotify.com/track/1tkS8yt5NwTZkqFvZMxM0F) | [Mark Dekoda](https://open.spotify.com/artist/3FzG2HgsgPRfwpX1qSK1g8) | [Rave Harder Techno Bass](https://open.spotify.com/album/0GbjMnAZAeoHabYDB4IMYe) | 6:00 |
 | 31 | [See Me Coming](https://open.spotify.com/track/2h7C1TrUOKCqI5DTM3XW3m) | [Nico Moreno](https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S), [Samuel Moriero](https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI) | [See Me Coming](https://open.spotify.com/album/0AKiFtkKreaYXCJ5v1I5DY) | 4:16 |
@@ -50,10 +50,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 40 | [Hymn](https://open.spotify.com/track/2OkW1IqUtKuy8EX11KAkDZ) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Charlotte de Witte](https://open.spotify.com/album/7rdrIHvtAcAxbyMTC6fo9a) | 8:13 |
 | 41 | [Residue](https://open.spotify.com/track/3L9YdL4F2J0x8l6WigJ7uz) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Residue](https://open.spotify.com/album/4x5yNCevn6zkJx64oNfXmN) | 3:28 |
 | 42 | [The Ultimate Acid Track](https://open.spotify.com/track/14Lh8Rpav17MCMSd1yOazU) | [T78](https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z), [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [The Ultimate Acid Track](https://open.spotify.com/album/3lAw4H1pzLOCCDBfkNqOXu) | 4:00 |
-| 43 | [Let the Bass Kick](https://open.spotify.com/track/7ASQWCYtKa2JD2oz9LWkA2) | [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [Let the Bass Kick](https://open.spotify.com/album/1YE4DRmquv66glbyTpY2ul) | 2:26 |
+| 43 | [Mercury](https://open.spotify.com/track/25dFcH5EsCJLMSmFDDJLT3) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Mercury](https://open.spotify.com/album/5q2bsjSrluBoWf3F61Fofp) | 3:45 |
 | 44 | [Wavey](https://open.spotify.com/track/5wJFkZDL82O4kx0N8dhoL1) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Wavey](https://open.spotify.com/album/6VoVaB3wSd3zIaxfSK0FEB) | 2:23 |
 | 45 | [Roar](https://open.spotify.com/track/1FubT3w22RMHC3vreAL7cH) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Roar](https://open.spotify.com/album/0BPXNEhv63ppBbjcR47Xyp) | 5:55 |
-| 46 | [Mercury](https://open.spotify.com/track/25dFcH5EsCJLMSmFDDJLT3) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Mercury](https://open.spotify.com/album/5q2bsjSrluBoWf3F61Fofp) | 3:45 |
+| 46 | [Let the Bass Kick](https://open.spotify.com/track/7ASQWCYtKa2JD2oz9LWkA2) | [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [Let the Bass Kick](https://open.spotify.com/album/1YE4DRmquv66glbyTpY2ul) | 2:26 |
 | 47 | [Say It Again](https://open.spotify.com/track/0dDGl66J8riMFyp2yUn88W) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Say It Again](https://open.spotify.com/album/6qmP3e4qPHcnj0576IRaV6) | 3:27 |
 | 48 | [Problema](https://open.spotify.com/track/0vxoQhXYBcTtvk9XZRkyDz) | [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO) | [Problema](https://open.spotify.com/album/6FvF6G3r7GPDXY77RfRopF) | 3:01 |
 | 49 | [Coming In Heavy](https://open.spotify.com/track/6VTiQz9Er68Nn8DywsO2v3) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [Pan\-Pot](https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se) | [Coming In Heavy](https://open.spotify.com/album/723kV64ne2P2nR3PLXHNyY) | 3:51 |

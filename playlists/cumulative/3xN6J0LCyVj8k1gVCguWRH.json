@@ -6629,6 +6629,24 @@
     },
     {
       "album": {
+        "name": "Aqui",
+        "url": "https://open.spotify.com/album/56FnIYhWTDsicFoR9MR227"
+      },
+      "artists": [
+        {
+          "name": "Johnathon Vermaelen",
+          "url": "https://open.spotify.com/artist/3A9kV5j14TyTDtV8jaMZop"
+        }
+      ],
+      "date_added": "2026-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273320,
+      "name": "Aqui",
+      "url": "https://open.spotify.com/track/1yYWsA5ikeB0tSaqxPMQS7"
+    },
+    {
+      "album": {
         "name": "Greatness Takes Time",
         "url": "https://open.spotify.com/album/70EWLj7jSC1ydLESnETtYO"
       },
@@ -13934,7 +13952,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 230181,
       "name": "Burning Bridges - Pariah",
       "url": "https://open.spotify.com/track/5l6k7RLifBM77P0YtVo4EB"
@@ -18754,7 +18772,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 178783,
       "name": "Coffee Pot",
       "url": "https://open.spotify.com/track/30g1PYc6SfEKaYttIUBr7F"
@@ -26770,6 +26788,28 @@
       "duration_ms": 203466,
       "name": "Dr. Feelgood (Love Is a Serious Business)",
       "url": "https://open.spotify.com/track/0xGcAq56TXf3RnSHkCiL9k"
+    },
+    {
+      "album": {
+        "name": "DR/XR",
+        "url": "https://open.spotify.com/album/7bdbdjOmY2XMcfv6jxwWud"
+      },
+      "artists": [
+        {
+          "name": "Enyelg",
+          "url": "https://open.spotify.com/artist/0TrJFrQb0gheSFjKALpjf9"
+        },
+        {
+          "name": "Liel",
+          "url": "https://open.spotify.com/artist/680nYz0zKWUgjnBlOLWOOL"
+        }
+      ],
+      "date_added": "2026-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165957,
+      "name": "DR/XR",
+      "url": "https://open.spotify.com/track/3a3q5gFZLEQTBWlf5ToegP"
     },
     {
       "album": {
@@ -77565,6 +77605,24 @@
     },
     {
       "album": {
+        "name": "Que Raro",
+        "url": "https://open.spotify.com/album/6GNOLDw1uTSqnjH6uxBIdx"
+      },
+      "artists": [
+        {
+          "name": "Davix y Geomal",
+          "url": "https://open.spotify.com/artist/5eWD5PptYaVZipDpXFf0w9"
+        }
+      ],
+      "date_added": "2026-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160941,
+      "name": "Que Raro",
+      "url": "https://open.spotify.com/track/3JKocRQv54dmBcvwoNxF80"
+    },
+    {
+      "album": {
         "name": "The best for them",
         "url": "https://open.spotify.com/album/6GqCPk0qB5s314sIWhXXnp"
       },
@@ -83568,7 +83626,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 218063,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/5hRl9dIpiwODKBKmr0HZBy"
@@ -101736,6 +101794,24 @@
       "duration_ms": 214891,
       "name": "Turn the Radio Up",
       "url": "https://open.spotify.com/track/4vsh2XzY2gON5xpPuS8ktO"
+    },
+    {
+      "album": {
+        "name": "Turnaround / I'm Hooked",
+        "url": "https://open.spotify.com/album/3Nt7AounpxUPNRkMJErdtw"
+      },
+      "artists": [
+        {
+          "name": "54 Ultra",
+          "url": "https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ"
+        }
+      ],
+      "date_added": "2026-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194227,
+      "name": "Turnaround",
+      "url": "https://open.spotify.com/track/3CaslR7DULHhYM6OXhxFL5"
     },
     {
       "album": {

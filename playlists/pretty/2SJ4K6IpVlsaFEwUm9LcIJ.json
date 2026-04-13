@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: march-april 2026 (previous playlists archived on my profile)",
-  "num_followers": 24281,
+  "num_followers": 24282,
   "original_name": "home when you return",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAAOHTylRqu6ibaMYO1CZJ+8L566f0sy",
+  "snapshot_id": "AAAOIgICczjbUPiccwr29nMXr+FZMRXN",
   "tracks": [
     {
       "added_at": "2026-03-12 17:07:42",
@@ -489,22 +489,6 @@
       "url": "https://open.spotify.com/track/61FvI5bYYj6wBpUKR8GMh2"
     },
     {
-      "added_at": "2026-04-09 17:49:24",
-      "album": {
-        "name": "Nebraska",
-        "url": "https://open.spotify.com/album/6yskFQZNlLYhkchAxELHi6"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 197066,
-      "name": "State Trooper",
-      "url": "https://open.spotify.com/track/1Ulh5rWbhhV3PltDadTBZC"
-    },
-    {
       "added_at": "2026-04-10 16:05:00",
       "album": {
         "name": "Wendy Eisenberg",
@@ -551,6 +535,38 @@
       "duration_ms": 320426,
       "name": "Funkier Than a Mosquito's Tweeter",
       "url": "https://open.spotify.com/track/5wBi26umb4oxXLmpJ32BWV"
+    },
+    {
+      "added_at": "2026-04-12 14:34:44",
+      "album": {
+        "name": "First Recordings",
+        "url": "https://open.spotify.com/album/5OfjjEzy7ofCj2EZDOKZ87"
+      },
+      "artists": [
+        {
+          "name": "Junior Kimbrough",
+          "url": "https://open.spotify.com/artist/03HEHGJoLPdARs4nrtUidr"
+        }
+      ],
+      "duration_ms": 151360,
+      "name": "Meet Me in the City",
+      "url": "https://open.spotify.com/track/5LmmZgxFg1sSfxENxsdtak"
+    },
+    {
+      "added_at": "2026-04-12 22:59:43",
+      "album": {
+        "name": "Cover Girl",
+        "url": "https://open.spotify.com/album/2i6yafZMIkgqkjWAobKic5"
+      },
+      "artists": [
+        {
+          "name": "Shawn Colvin",
+          "url": "https://open.spotify.com/artist/0K7VN4aHxHcEb7PqkfoIVA"
+        }
+      ],
+      "duration_ms": 225333,
+      "name": "Killing The Blues",
+      "url": "https://open.spotify.com/track/55g3S2tU6OHuaxXptJJsBL"
     }
   ],
   "unique_name": "home when you return",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di MACE con Papa V e Pitta, Shiva, Capo Plaza, Neima Ezza e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,247 likes - 104 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,251 likes - 104 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmps5U8gHNv.md) - [plain]
 
 > A collection of classics from the height of the folk revival to the rise of the folk rock era\. Cover: Bob Dylan
 
-[Spotify](https://open.spotify.com/user/spotify) - 823,916 likes - 118 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 823,954 likes - 118 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

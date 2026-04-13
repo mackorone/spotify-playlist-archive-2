@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIjec9dt7k0O.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5DmrGSDwvNUezS5mYUQI9E">Andrew Watt</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,138 likes - 224 songs - 13 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,140 likes - 224 songs - 13 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,8 +135,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIjec9dt7k0O.md) - [plain]
 | 125 | [Get Close](https://open.spotify.com/track/0bL5tco8cV95q5FNFzxzUS) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Hackney Diamonds](https://open.spotify.com/album/1AxMcdQRLguJqSZMxvRNdO) | 4:10 |
 | 126 | [2step \(feat\. Budjerah\)](https://open.spotify.com/track/3dvDgPBAxqetLJvDmRDtwC) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [2step \(The Remixes\)](https://open.spotify.com/album/0a28QsFN8zbrWSvbSQ40PI) | 2:33 |
 | 127 | [Long Way](https://open.spotify.com/track/6inBJlHAP6Wd3ZCMTS4KTg) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Earthling](https://open.spotify.com/album/47mMVL72wEPG0li4VTtHzM) | 4:45 |
-| 128 | [The Rain](https://open.spotify.com/track/2OEjaK2gAg6jIV2r3LkM9w) | [Aer](https://open.spotify.com/artist/25hbSOMmbhgqvonjC876UJ) | [One of a Kind](https://open.spotify.com/album/2aOEQaMZuoR8bn8K9CJZbO) | 3:32 |
-| 129 | [Can’t Stop the High](https://open.spotify.com/track/1d9AAVXN2uohnH4Fe07Xxn) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/3ARwSvDQv2OHYnLeDC3Lxi) | 3:31 |
+| 128 | [Can’t Stop the High](https://open.spotify.com/track/1d9AAVXN2uohnH4Fe07Xxn) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/3ARwSvDQv2OHYnLeDC3Lxi) | 3:31 |
+| 129 | [The Rain](https://open.spotify.com/track/2OEjaK2gAg6jIV2r3LkM9w) | [Aer](https://open.spotify.com/artist/25hbSOMmbhgqvonjC876UJ) | [One of a Kind](https://open.spotify.com/album/2aOEQaMZuoR8bn8K9CJZbO) | 3:32 |
 | 130 | [Who Believes In Angels?](https://open.spotify.com/track/7lfyWyus1wg0h0FDCOKkQg) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Who Believes In Angels?](https://open.spotify.com/album/5eS9zcWHCbkOiyXPRiIgg4) | 5:13 |
 | 131 | [2step \(feat\. Antytila\)](https://open.spotify.com/track/0EgNmGWjnYm3FMyaOW5xsM) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [АНТИТІЛА](https://open.spotify.com/artist/5sc9td6C7xxPa3mOmmvXPu) | [2step \(The Remixes\)](https://open.spotify.com/album/0a28QsFN8zbrWSvbSQ40PI) | 2:33 |
 | 132 | [Parasite \(feat\. Zakk Wylde\)](https://open.spotify.com/track/6byNRKsfkxLO9pyuAMWaar) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Zakk Wylde](https://open.spotify.com/artist/1AeC9AuzqGc3IXMC2T5xny) | [Patient Number 9](https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb) | 4:05 |
@@ -233,4 +233,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIjec9dt7k0O.md) - [plain]
 | 223 | [Married Woman](https://open.spotify.com/track/2ldITY9kjPrAX41Azqjw2b) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Shelley FKA DRAM](https://open.spotify.com/album/2KBu2eclJOYX4Igkico8YX) | 2:31 |
 | 224 | [Beam On](https://open.spotify.com/track/467qndiTw6EHdEVgS5GlZ7) | [Khari Mateen](https://open.spotify.com/artist/62KfmfXCMVP2kOsZi4j39u) | [Wait for Sunrise](https://open.spotify.com/album/1bROyL2oDz8tVUcWNbeZSX) | 4:16 |
 
-Snapshot ID: `AcOmqAAAAADMas+Y0oY738Bgn1K34k0R`
+Snapshot ID: `AcOsSAAAAAA6aCWB4EgxNutCGyZWzwBE`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 
 > La banda sonora de tu orgullo\. Foto: Ouineta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,373 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,397 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 35 | [CULPA NUESTRA](https://open.spotify.com/track/4qUiG9rcbKpFry7Mxsax9Y) | [Safree](https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL), [STRANGEL0VE](https://open.spotify.com/artist/6IsXcpSH7ewL9FTTqSPFfP) | [CULPA NUESTRA](https://open.spotify.com/album/6ZaPk664xTwSQL0v70J4Po) | 2:22 |
 | 36 | [Virgen de Magallón](https://open.spotify.com/track/6isno2Q3cVT0XA9Adnkanz) | [Juanjo Bona](https://open.spotify.com/artist/471C5Rq1AJAT1Y1Epd56XF) | [Recardelino](https://open.spotify.com/album/4xNK43jp9NdfRVC2BliZ2H) | 2:31 |
 | 37 | [Honey](https://open.spotify.com/track/3yYWcIuxJ2bE30uWYwMrGz) | [Luna Ki](https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M) | [Honey](https://open.spotify.com/album/1dqDOYhWvz8npwRAV6nXIR) | 2:18 |
-| 38 | [ALLÁ ARRIBITA](https://open.spotify.com/track/1C5K3rwkMi81uq2maBIAfm) | [Rodrigo Cuevas](https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO) | [Manual de Romería](https://open.spotify.com/album/74g36yb3N2FdsGIoUf4CH0) | 3:21 |
-| 39 | [NOIS](https://open.spotify.com/track/2r56sJEcjVH6EFSemjgjQC) | [Ouineta](https://open.spotify.com/artist/3a1trTgNtHPigdFxMGg1e3), [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp) | [Ouineta Verificada](https://open.spotify.com/album/5lMyr087un4jnw6KUKqTus) | 3:01 |
+| 38 | [NOIS](https://open.spotify.com/track/2r56sJEcjVH6EFSemjgjQC) | [Ouineta](https://open.spotify.com/artist/3a1trTgNtHPigdFxMGg1e3), [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp) | [Ouineta Verificada](https://open.spotify.com/album/5lMyr087un4jnw6KUKqTus) | 3:01 |
+| 39 | [ALLÁ ARRIBITA](https://open.spotify.com/track/1C5K3rwkMi81uq2maBIAfm) | [Rodrigo Cuevas](https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO) | [Manual de Romería](https://open.spotify.com/album/74g36yb3N2FdsGIoUf4CH0) | 3:21 |
 | 40 | [Tócame](https://open.spotify.com/track/12KM4a7nY2hX3lgflqeQNs) | [MAYO](https://open.spotify.com/artist/0HgzUc7N5MqMv2ZwQFv9H0) | [MAYO SEASON](https://open.spotify.com/album/36spvJZroG0oL8Me4tA8Vp) | 2:18 |
 | 41 | [Mujerón](https://open.spotify.com/track/5vL9Gs5JfUAB0fcwhRJosC) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [GORGONA](https://open.spotify.com/album/7Ae5Sye34ZPoRJiogQv7LD) | 2:50 |
 | 42 | [Pipe dream](https://open.spotify.com/track/6UeLnS7MmYy5ReoVDtw5lQ) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Pipe dream](https://open.spotify.com/album/20X4FOyFRV6i5pHm7Miztf) | 2:37 |

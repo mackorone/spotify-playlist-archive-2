@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 439754,
+  "num_followers": 439801,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -95,22 +95,6 @@
     {
       "added_at": "2026-04-09 22:02:19",
       "album": {
-        "name": "Blow My Mind",
-        "url": "https://open.spotify.com/album/642ce0QAKRa0LYwIVwPK6w"
-      },
-      "artists": [
-        {
-          "name": "Robyn",
-          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
-        }
-      ],
-      "duration_ms": 177500,
-      "name": "Blow My Mind",
-      "url": "https://open.spotify.com/track/0VBACXaInM2kzjIpklxIG2"
-    },
-    {
-      "added_at": "2026-04-09 22:02:19",
-      "album": {
         "name": "French Touch",
         "url": "https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 194346,
       "name": "Moon River",
       "url": "https://open.spotify.com/track/3sICyTPASesVzpfGc1nM2t"
+    },
+    {
+      "added_at": "2026-04-09 22:02:19",
+      "album": {
+        "name": "Blow My Mind",
+        "url": "https://open.spotify.com/album/642ce0QAKRa0LYwIVwPK6w"
+      },
+      "artists": [
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        }
+      ],
+      "duration_ms": 177500,
+      "name": "Blow My Mind",
+      "url": "https://open.spotify.com/track/0VBACXaInM2kzjIpklxIG2"
     },
     {
       "added_at": "2026-04-09 22:02:19",
@@ -143,22 +143,6 @@
     {
       "added_at": "2026-04-09 22:02:19",
       "album": {
-        "name": "I Had a Dream She Took My Hand",
-        "url": "https://open.spotify.com/album/4ApSI95sRstVtU1UA6Fxkw"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 220291,
-      "name": "I Had a Dream She Took My Hand",
-      "url": "https://open.spotify.com/track/2hUOnJj6B7938kFBcPO6l5"
-    },
-    {
-      "added_at": "2026-04-09 22:02:19",
-      "album": {
         "name": "Already Gone",
         "url": "https://open.spotify.com/album/0qOy9NpS6fADbXb0ViXNtE"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 300499,
       "name": "Into The Sun - EP Version",
       "url": "https://open.spotify.com/track/4gFakkHz0RjUrbf9Ufilb7"
+    },
+    {
+      "added_at": "2026-04-09 22:02:19",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4e1KPKRbxwbrHnysHvve8j"
+      },
+      "artists": [
+        {
+          "name": "Alessia Cara",
+          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
+        }
+      ],
+      "duration_ms": 219960,
+      "name": "I'm Like A Bird - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2JtSnwYNKOphDrshYL8n4p"
     },
     {
       "added_at": "2026-04-09 22:02:19",
@@ -331,18 +331,18 @@
     {
       "added_at": "2026-04-09 22:02:19",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4e1KPKRbxwbrHnysHvve8j"
+        "name": "I Had a Dream She Took My Hand",
+        "url": "https://open.spotify.com/album/4ApSI95sRstVtU1UA6Fxkw"
       },
       "artists": [
         {
-          "name": "Alessia Cara",
-          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
         }
       ],
-      "duration_ms": 219960,
-      "name": "I'm Like A Bird - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2JtSnwYNKOphDrshYL8n4p"
+      "duration_ms": 220291,
+      "name": "I Had a Dream She Took My Hand",
+      "url": "https://open.spotify.com/track/2hUOnJj6B7938kFBcPO6l5"
     },
     {
       "added_at": "2026-04-09 22:02:19",
@@ -631,22 +631,6 @@
     {
       "added_at": "2026-04-09 22:02:19",
       "album": {
-        "name": "Memory Be a Blade",
-        "url": "https://open.spotify.com/album/459tZ5BMnPXsDQpLsfTI00"
-      },
-      "artists": [
-        {
-          "name": "waterbaby",
-          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
-        }
-      ],
-      "duration_ms": 221066,
-      "name": "Memory Be a Blade",
-      "url": "https://open.spotify.com/track/6kM3Uqz3MRTVGTzu93EZIA"
-    },
-    {
-      "added_at": "2026-04-09 22:02:19",
-      "album": {
         "name": "Conversations in the Dark",
         "url": "https://open.spotify.com/album/5LVi2qET36RvkLil7mJclb"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 231000,
       "name": "Jesus, Etc.",
       "url": "https://open.spotify.com/track/4wd09wCccmxUB7XVJp0RNn"
+    },
+    {
+      "added_at": "2026-04-09 22:02:19",
+      "album": {
+        "name": "Memory Be a Blade",
+        "url": "https://open.spotify.com/album/459tZ5BMnPXsDQpLsfTI00"
+      },
+      "artists": [
+        {
+          "name": "waterbaby",
+          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
+        }
+      ],
+      "duration_ms": 221066,
+      "name": "Memory Be a Blade",
+      "url": "https://open.spotify.com/track/6kM3Uqz3MRTVGTzu93EZIA"
     },
     {
       "added_at": "2026-04-09 22:02:19",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-04-09 22:02:19",
       "album": {
-        "name": "KISS ME",
-        "url": "https://open.spotify.com/album/6TXac9d8zbIyAhwaRrj10G"
-      },
-      "artists": [
-        {
-          "name": "MARO",
-          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
-        }
-      ],
-      "duration_ms": 183431,
-      "name": "KISS ME",
-      "url": "https://open.spotify.com/track/0bThHrVS5I2yFe36bWjHql"
-    },
-    {
-      "added_at": "2026-04-09 22:02:19",
-      "album": {
         "name": "Marvin The Album - 21st Anniversary Edition",
         "url": "https://open.spotify.com/album/6xiH0ZemrUXOxgR7xfLlIQ"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 119813,
       "name": "Bizarre Love Triangle - 2014 Remaster",
       "url": "https://open.spotify.com/track/7sgi66biRYpAXuRZJBDuli"
+    },
+    {
+      "added_at": "2026-04-09 22:02:19",
+      "album": {
+        "name": "KISS ME",
+        "url": "https://open.spotify.com/album/6TXac9d8zbIyAhwaRrj10G"
+      },
+      "artists": [
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        }
+      ],
+      "duration_ms": 183431,
+      "name": "KISS ME",
+      "url": "https://open.spotify.com/track/0bThHrVS5I2yFe36bWjHql"
     },
     {
       "added_at": "2026-04-09 22:02:19",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2026-04-09 22:02:19",
       "album": {
-        "name": "Tan brillant",
-        "url": "https://open.spotify.com/album/0U6Jp1cDodFRjv8VhRxyGW"
-      },
-      "artists": [
-        {
-          "name": "Renaldo & Clara",
-          "url": "https://open.spotify.com/artist/29eGrPvxOuFDGOyOUi3RLq"
-        }
-      ],
-      "duration_ms": 188411,
-      "name": "Tan brillant",
-      "url": "https://open.spotify.com/track/2OTuWGelABOCooV0bT4WL5"
-    },
-    {
-      "added_at": "2026-04-09 22:02:19",
-      "album": {
         "name": "Sanadoras Voluntades",
         "url": "https://open.spotify.com/album/4en5TaKhMK6hxjQVW0hHoa"
       },
@@ -1483,22 +1467,18 @@
     {
       "added_at": "2026-04-09 22:02:19",
       "album": {
-        "name": "mai adeu",
-        "url": "https://open.spotify.com/album/584S9p8PaecDYYRpbP6uZY"
+        "name": "Tan brillant",
+        "url": "https://open.spotify.com/album/0U6Jp1cDodFRjv8VhRxyGW"
       },
       "artists": [
         {
-          "name": "Kris Tena",
-          "url": "https://open.spotify.com/artist/3qt8O8Di6tMLmWcTSwGuad"
-        },
-        {
-          "name": "Rita Pay\u00e9s",
-          "url": "https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM"
+          "name": "Renaldo & Clara",
+          "url": "https://open.spotify.com/artist/29eGrPvxOuFDGOyOUi3RLq"
         }
       ],
-      "duration_ms": 103461,
-      "name": "nada nada",
-      "url": "https://open.spotify.com/track/3x2En8Qx8fcOT9eVEyBnqr"
+      "duration_ms": 188411,
+      "name": "Tan brillant",
+      "url": "https://open.spotify.com/track/2OTuWGelABOCooV0bT4WL5"
     },
     {
       "added_at": "2026-04-09 22:02:19",
@@ -1539,22 +1519,38 @@
     {
       "added_at": "2026-04-09 22:02:19",
       "album": {
-        "name": "Voy a pensar en ti",
-        "url": "https://open.spotify.com/album/34PqcFBUnb8OYk1tNvvfoV"
+        "name": "mai adeu",
+        "url": "https://open.spotify.com/album/584S9p8PaecDYYRpbP6uZY"
       },
       "artists": [
         {
-          "name": "mariagrep",
-          "url": "https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy"
+          "name": "Kris Tena",
+          "url": "https://open.spotify.com/artist/3qt8O8Di6tMLmWcTSwGuad"
         },
         {
-          "name": "Mundo Prestigio",
-          "url": "https://open.spotify.com/artist/440S5SUBOxAKr28buL99Xw"
+          "name": "Rita Pay\u00e9s",
+          "url": "https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM"
         }
       ],
-      "duration_ms": 198920,
-      "name": "Voy a pensar en ti",
-      "url": "https://open.spotify.com/track/7j0X2ye2TMNaa8gIrVoN89"
+      "duration_ms": 103461,
+      "name": "nada nada",
+      "url": "https://open.spotify.com/track/3x2En8Qx8fcOT9eVEyBnqr"
+    },
+    {
+      "added_at": "2026-04-09 22:02:19",
+      "album": {
+        "name": "Fading Forward",
+        "url": "https://open.spotify.com/album/6nTysmAKuGBgaaHj8hfMy7"
+      },
+      "artists": [
+        {
+          "name": "Les Imprim\u00e9s",
+          "url": "https://open.spotify.com/artist/6pCq758EGVhfbiUIeuHTcf"
+        }
+      ],
+      "duration_ms": 186178,
+      "name": "Close My Eyes",
+      "url": "https://open.spotify.com/track/6NOUlMbo6c3XXFC5kmuHIw"
     },
     {
       "added_at": "2026-04-09 22:02:19",
@@ -1575,6 +1571,26 @@
       "duration_ms": 200696,
       "name": "Vete Por Ah\u00ed (feat. Irenegarry)",
       "url": "https://open.spotify.com/track/28EsJpm5RRLjVFRAp0AmIZ"
+    },
+    {
+      "added_at": "2026-04-09 22:02:19",
+      "album": {
+        "name": "Voy a pensar en ti",
+        "url": "https://open.spotify.com/album/34PqcFBUnb8OYk1tNvvfoV"
+      },
+      "artists": [
+        {
+          "name": "mariagrep",
+          "url": "https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy"
+        },
+        {
+          "name": "Mundo Prestigio",
+          "url": "https://open.spotify.com/artist/440S5SUBOxAKr28buL99Xw"
+        }
+      ],
+      "duration_ms": 198920,
+      "name": "Voy a pensar en ti",
+      "url": "https://open.spotify.com/track/7j0X2ye2TMNaa8gIrVoN89"
     },
     {
       "added_at": "2026-04-09 22:02:19",
@@ -1715,18 +1731,18 @@
     {
       "added_at": "2026-04-09 22:02:19",
       "album": {
-        "name": "Fading Forward",
-        "url": "https://open.spotify.com/album/6nTysmAKuGBgaaHj8hfMy7"
+        "name": "C\u00edrculo de Luz / Un Hogar Acogedor",
+        "url": "https://open.spotify.com/album/2EdM84zZvTBx6UoOZTV3qD"
       },
       "artists": [
         {
-          "name": "Les Imprim\u00e9s",
-          "url": "https://open.spotify.com/artist/6pCq758EGVhfbiUIeuHTcf"
+          "name": "Roy Borland",
+          "url": "https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7"
         }
       ],
-      "duration_ms": 186178,
-      "name": "Close My Eyes",
-      "url": "https://open.spotify.com/track/6NOUlMbo6c3XXFC5kmuHIw"
+      "duration_ms": 162774,
+      "name": "C\u00edrculo de Luz / Un Hogar Acogedor",
+      "url": "https://open.spotify.com/track/0eQHNYQuheNBqIZ2i9qMuP"
     },
     {
       "added_at": "2026-04-09 22:02:19",
@@ -1747,22 +1763,6 @@
       "duration_ms": 234913,
       "name": "Hoguera",
       "url": "https://open.spotify.com/track/0jZCz8xSgDL6TAESZ5YUJ8"
-    },
-    {
-      "added_at": "2026-04-09 22:02:19",
-      "album": {
-        "name": "C\u00edrculo de Luz / Un Hogar Acogedor",
-        "url": "https://open.spotify.com/album/2EdM84zZvTBx6UoOZTV3qD"
-      },
-      "artists": [
-        {
-          "name": "Roy Borland",
-          "url": "https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7"
-        }
-      ],
-      "duration_ms": 162774,
-      "name": "C\u00edrculo de Luz / Un Hogar Acogedor",
-      "url": "https://open.spotify.com/track/0eQHNYQuheNBqIZ2i9qMuP"
     },
     {
       "added_at": "2026-04-09 22:02:19",
@@ -1983,6 +1983,26 @@
     {
       "added_at": "2026-04-09 22:02:19",
       "album": {
+        "name": "1 Dolor",
+        "url": "https://open.spotify.com/album/7gXbL0h3fgN9iThK5cypAG"
+      },
+      "artists": [
+        {
+          "name": "Suave",
+          "url": "https://open.spotify.com/artist/16QMnwd53HiSIbB57esWKu"
+        },
+        {
+          "name": "Junnio",
+          "url": "https://open.spotify.com/artist/1sLvo7ClsDMTBrFe8aTzF6"
+        }
+      ],
+      "duration_ms": 186737,
+      "name": "1 Dolor",
+      "url": "https://open.spotify.com/track/6lNBceAGdl6t9slEQQc9UC"
+    },
+    {
+      "added_at": "2026-04-09 22:02:19",
+      "album": {
         "name": "Lim\u00e3o",
         "url": "https://open.spotify.com/album/4zNnHX6IxlhzI5TMXKxgow"
       },
@@ -2127,22 +2147,6 @@
       "duration_ms": 156629,
       "name": "D\u00faas lontras",
       "url": "https://open.spotify.com/track/6KDvcwRVwACBLOLlaqDFzo"
-    },
-    {
-      "added_at": "2026-04-09 22:02:19",
-      "album": {
-        "name": "La jugada maestra",
-        "url": "https://open.spotify.com/album/46HNGax06gtSaaHdXqEgFn"
-      },
-      "artists": [
-        {
-          "name": "Amateur",
-          "url": "https://open.spotify.com/artist/0CD9lsggFxmq6NRO2EUiZ2"
-        }
-      ],
-      "duration_ms": 328960,
-      "name": "La jugada maestra",
-      "url": "https://open.spotify.com/track/4xutN2gHS4wl4kXZNAhP3A"
     }
   ],
   "unique_name": "Relax en casa",

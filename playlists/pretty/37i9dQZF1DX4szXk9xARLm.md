@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4szXk9xARLm.md) - [plain]
 
 > Your essential Ramadan Series songs! Cover: Ramy Sabry
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,797 likes - 60 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,822 likes - 60 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4szXk9xARLm.md) - [plain]
 | 51 | [Mazag \(تتر مسلسل مناعة\)](https://open.spotify.com/track/5B848rXELrdNBgMncVUJ1Q) | [Houda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [Mazag \(تتر مسلسل مناعة\)](https://open.spotify.com/album/1uhzU9QVyP6VrRwXgNsvjh) | 2:58 |
 | 52 | [ياما نفسي اقولك \- من مسلسل عايشة الدور](https://open.spotify.com/track/59cwzz2NQK3P67tajUi05K) | [Donia Samir Ghanem](https://open.spotify.com/artist/1ieloBuwzXdMn9VPOufDvB) | [ياما نفسي اقولك \(من مسلسل عايشة الدور\)](https://open.spotify.com/album/6qSeWoOhTW8AfeH1Ox9Xth) | 3:03 |
 | 53 | [Etdaret](https://open.spotify.com/track/1ZIMGfxWPLxHSuSE4n4ac5) | [Sharnouby](https://open.spotify.com/artist/7zUEJRavunKtqi2n029IHn) | [Etdaret](https://open.spotify.com/album/2P84vDRWZnTXM3T8ijm6nE) | 3:43 |
-| 54 | [الكينج](https://open.spotify.com/track/3TfALiNXqwnBxm1ZU2P31w) | [Felo](https://open.spotify.com/artist/4JhWEqWfwTQywn7lKkNWt5), [Mohamed Flestiny](https://open.spotify.com/artist/040pip7wl4JckfZ6P87GE8) | [الكينج](https://open.spotify.com/album/4rYGZR8WORC0cI0ZhmjaUu) | 2:22 |
-| 55 | [Al Atawla Theme Song \(From Al Atawla Series Season 2\)](https://open.spotify.com/track/5IwnvJkaFtYMoX7r1JvWmV) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [Al Atawla Theme Song \(From Al Atawla Series Season 2\)](https://open.spotify.com/album/4WOWre299bgCLkY3UzqTmc) | 2:11 |
+| 54 | [Al Atawla Theme Song \(From Al Atawla Series Season 2\)](https://open.spotify.com/track/5IwnvJkaFtYMoX7r1JvWmV) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [Al Atawla Theme Song \(From Al Atawla Series Season 2\)](https://open.spotify.com/album/4WOWre299bgCLkY3UzqTmc) | 2:11 |
+| 55 | [الكينج](https://open.spotify.com/track/3TfALiNXqwnBxm1ZU2P31w) | [Felo](https://open.spotify.com/artist/4JhWEqWfwTQywn7lKkNWt5), [Mohamed Flestiny](https://open.spotify.com/artist/040pip7wl4JckfZ6P87GE8) | [الكينج](https://open.spotify.com/album/4rYGZR8WORC0cI0ZhmjaUu) | 2:22 |
 | 56 | [تحية \- من مسلسل لعبة وقلبت بجد](https://open.spotify.com/track/47ZPOStAXyjOvmO8MNPyGQ) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6), [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [تحية \(من مسلسل لعبة وقلبت بجد\)](https://open.spotify.com/album/4EQMImTVpj4VJrd5rdFjRk) | 2:24 |
 | 57 | [Jarh 9Dim](https://open.spotify.com/track/2D90uQttl2UcZRgYDKDIMD) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8) | [Jarh 9dim](https://open.spotify.com/album/7K2R7t8bkj3N8T58r48tVw) | 2:57 |
 | 58 | [حضرات السادة](https://open.spotify.com/track/1Z4Rd2m5gjmyU4BIXqzUZo) | [Akram Hosny](https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi), [Mariam Aziz](https://open.spotify.com/artist/563PinGcFs6wzMU2fxgeXD) | [حضرات السادة](https://open.spotify.com/album/7M5PupuhIP6Y5GzMnHsGlp) | 2:26 |

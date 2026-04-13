@@ -4,7 +4,7 @@
 
 > This is Big Mama Thornton\. The essential tracks, all in one playlist.
 
-196 songs - 10 hr 56 min
+197 songs - 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Just Can't Help Myself](https://open.spotify.com/track/6039GvqNKiuPN1dFiI8XJa) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [I Smell a Rat](https://open.spotify.com/album/4i1Hee68WI1eDY7EJQ6w1O) | 2:57 | 2024-03-18 | 2024-09-24 |
 | [Just Can't Help Myself](https://open.spotify.com/track/5frqneKJk7urRuJop06Pun) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Precious & Rare: Big Mama Thornton](https://open.spotify.com/album/2pOwJN6EjTB2vKLIIcmXXV) | 2:57 | 2022-08-05 | 2022-10-18 |
 | [Just Can't Help Myself](https://open.spotify.com/track/5ASJo7Vj82KvvloMmBurYW) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO), [Johnny Otis](https://open.spotify.com/artist/5PGt6fQNjLKhYYeGLWKWcM) | [Big Mama's Home \(35 Classic Tracks\)](https://open.spotify.com/album/6wr9tjkQJkVqYj4TwvALi2) | 2:58 | 2023-04-15 | 2023-11-11 |
-| [Just Can't Help Myself](https://open.spotify.com/track/5gUZ3K7ooE6UbMxMPNVCsM) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO), [Johnny Otis](https://open.spotify.com/artist/5PGt6fQNjLKhYYeGLWKWcM) | [Big Mama's Home \(35 Classic Tracks\)](https://open.spotify.com/album/7FAJRphvLjolVgfOiDaUVt) | 2:58 | 2023-12-17 |  |
+| [Just Can't Help Myself](https://open.spotify.com/track/5gUZ3K7ooE6UbMxMPNVCsM) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO), [Johnny Otis](https://open.spotify.com/artist/5PGt6fQNjLKhYYeGLWKWcM) | [Big Mama's Home \(35 Classic Tracks\)](https://open.spotify.com/album/7FAJRphvLjolVgfOiDaUVt) | 2:58 | 2023-12-17 | 2026-04-13 |
 | [Just Like a Dog](https://open.spotify.com/track/1bfv08EFNzn09Ra7bLQfHB) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [I Smell a Rat](https://open.spotify.com/album/6gtCHbu0e2FQ4X2I6Y6rRj) | 2:49 | 2022-08-05 | 2023-04-02 |
 | [Just Like a Dog](https://open.spotify.com/track/3wVw6PSNqqzaO3kVp00pvA) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [I Smell a Rat](https://open.spotify.com/album/4i1Hee68WI1eDY7EJQ6w1O) | 2:49 | 2024-01-29 | 2024-04-11 |
 | [Just Like a Dog \(Barking up the Wrong Tree\)](https://open.spotify.com/track/2NdDWHHIXW4LxmCk1mAFMT) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO), [Johnny Otis](https://open.spotify.com/artist/5PGt6fQNjLKhYYeGLWKWcM) | [Big Mama's Home \(35 Classic Tracks\)](https://open.spotify.com/album/6wr9tjkQJkVqYj4TwvALi2) | 2:50 | 2023-06-05 | 2023-09-01 |
@@ -130,6 +130,7 @@
 | [Partnership Blues](https://open.spotify.com/track/2Zk8PI9w7516G8u5iAxtv4) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Partnership Blues](https://open.spotify.com/album/0voSghiO7eWsm9N2Ahb8GA) | 2:40 | 2025-07-31 | 2025-11-28 |
 | [Partnership Blues](https://open.spotify.com/track/7pqi5KNMRF2OgDZTpDpWzq) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO), [The Joe Scott Orchestra](https://open.spotify.com/artist/4Rh5i0t7SMGdzk7UkvGMR7) | [Big Mama's Home \(35 Classic Tracks\)](https://open.spotify.com/album/6wr9tjkQJkVqYj4TwvALi2) | 2:42 | 2023-04-16 | 2023-05-17 |
 | [Rock Me Baby](https://open.spotify.com/track/4HYvUhFFqlzCpObJL8YBmp) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Vanguard Visionaries](https://open.spotify.com/album/0stTggxNXyDdU256QF94Z1) | 6:45 | 2022-08-05 |  |
+| [Rock\-A\-Bye Baby](https://open.spotify.com/track/3ydFlJpAMMjZtmXAyIacD8) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Real Cool Cat](https://open.spotify.com/album/4ZTvUA6m87dAY6tXAYV25p) | 2:32 | 2026-04-13 |  |
 | [Rock\-a\-Bye Baby](https://open.spotify.com/track/1mhHHEq4LG5QzlFwC6SokL) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [The Blues Collective \- Big Mama Thornton](https://open.spotify.com/album/6rHImcH0TPKLFnFga2pQdw) | 2:35 | 2023-04-05 | 2023-04-15 |
 | [Rock\-A\-Bye Baby](https://open.spotify.com/track/2udEEYnBWucIfqTdg0SDWb) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Hound Dog / The Peacock Recordings](https://open.spotify.com/album/02B0EXcXyArity4IKXXo5S) | 2:38 | 2024-04-04 | 2024-07-24 |
 | [Rock\-a\-bye Baby](https://open.spotify.com/track/0QwsIMq2E9uqFMWClpr4fy) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [I Smell a Rat](https://open.spotify.com/album/0kBRUJmwATXj1LYdfwCinp) | 2:38 | 2025-08-22 | 2025-08-23 |

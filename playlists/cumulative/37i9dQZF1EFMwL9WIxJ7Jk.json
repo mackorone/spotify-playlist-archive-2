@@ -3674,10 +3674,28 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 218293,
       "name": "Sugar Daddy",
       "url": "https://open.spotify.com/track/44ROJAxh2jBDQpxgMMIiCC"
+    },
+    {
+      "album": {
+        "name": "Ruby",
+        "url": "https://open.spotify.com/album/5ukER8Gzjr4CPSwN8fwykc"
+      },
+      "artists": [
+        {
+          "name": "Macy Gray",
+          "url": "https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa"
+        }
+      ],
+      "date_added": "2026-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218293,
+      "name": "Sugar Daddy",
+      "url": "https://open.spotify.com/track/66w94M418mHrEEdDfKn5ob"
     },
     {
       "album": {

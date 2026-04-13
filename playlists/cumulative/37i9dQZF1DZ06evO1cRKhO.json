@@ -182,7 +182,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-30",
+      "date_removed": null,
       "duration_ms": 1062240,
       "name": "A Thousand Quiet Mountains",
       "url": "https://open.spotify.com/track/3vj4Ajy311zNy76YN7pRTP"
@@ -1228,7 +1228,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 211093,
       "name": "Display of Plasma",
       "url": "https://open.spotify.com/track/5xNggf69ytqkDlULoIPU3n"
@@ -1552,7 +1552,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 254960,
       "name": "Fragments",
       "url": "https://open.spotify.com/track/6CpzkEGtziYLYBuZS2CgrW"
@@ -3326,7 +3326,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 470506,
       "name": "Quartettto Telematico #4",
       "url": "https://open.spotify.com/track/7lkUdOD99R4wMF1BU5oVtS"
@@ -3460,7 +3460,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 284673,
       "name": "Room At the Inn",
       "url": "https://open.spotify.com/track/6ngAUMaLLjcje2iU17j4Wp"
@@ -3550,7 +3550,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-01",
+      "date_removed": null,
       "duration_ms": 324358,
       "name": "Saxifraga Cotyledon",
       "url": "https://open.spotify.com/track/476aORd2k06UfNLKGNxBLK"
@@ -3662,7 +3662,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 197920,
       "name": "Several Other Notions",
       "url": "https://open.spotify.com/track/2TaE1SwczjqKKVNxINSBQA"
@@ -3936,7 +3936,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-12",
+      "date_removed": null,
       "duration_ms": 240880,
       "name": "Sonic Mercury",
       "url": "https://open.spotify.com/track/4O6J19ZtPJBzYaOYXPvRlE"
@@ -4224,7 +4224,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-12",
+      "date_removed": null,
       "duration_ms": 1651080,
       "name": "Tara's Room",
       "url": "https://open.spotify.com/track/2BcRnZTZbFmvEBSDoBc8z4"
@@ -4520,7 +4520,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 865733,
       "name": "The Wanderer",
       "url": "https://open.spotify.com/track/77gWQtMuwLoBHzbPyy6S9X"
@@ -4842,7 +4842,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-12",
+      "date_removed": null,
       "duration_ms": 83114,
       "name": "Trio For Trumpet, Accordion, and String Bass I",
       "url": "https://open.spotify.com/track/1ckKGUdgJWgWfwL4eBcz2Z"
@@ -4972,7 +4972,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 59546,
       "name": "Trio For Trumpet, Accordion, and String Bass III",
       "url": "https://open.spotify.com/track/5v315q3yfKZScmtBRO8GrO"
@@ -5326,6 +5326,36 @@
     {
       "album": {
         "name": "Botanikk",
+        "url": "https://open.spotify.com/album/1TsXD7WhX2TTBGt9r7FqSi"
+      },
+      "artists": [
+        {
+          "name": "Else Olsen Storesund",
+          "url": "https://open.spotify.com/artist/0ulCRoV5L1IIi1qiudt42t"
+        },
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        },
+        {
+          "name": "Lisa Dillan",
+          "url": "https://open.spotify.com/artist/0Xkd7bZLR8frMJEhgg1wHX"
+        },
+        {
+          "name": "\u00d8yvind Storesund",
+          "url": "https://open.spotify.com/artist/0VZ8JqfDQhdhAAJvVEnteR"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 427695,
+      "name": "Vaccinium Myrtillus",
+      "url": "https://open.spotify.com/track/6zyt29v1aGNdUa6ME09MYk"
+    },
+    {
+      "album": {
+        "name": "Botanikk",
         "url": "https://open.spotify.com/album/1UVrkMiSPQsSkql2DCQdm1"
       },
       "artists": [
@@ -5674,7 +5704,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-12",
+      "date_removed": null,
       "duration_ms": 388229,
       "name": "Who Said What?",
       "url": "https://open.spotify.com/track/3w5M8aXMyeDTv6EtEDZUnu"

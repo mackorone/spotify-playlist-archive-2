@@ -1,6 +1,6 @@
 {
   "description": "Chill Korean tunes that's perfect with your latte or americano. (\uce74\ud398\uc640 \uc5b4\uc6b8\ub9ac\ub294 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uc744 \uac10\uc0c1\ud558\uc138\uc694.)",
-  "num_followers": 517594,
+  "num_followers": 517613,
   "original_name": "Dalkom Cafe",
   "owner": {
     "name": "Spotify",
@@ -251,6 +251,22 @@
     {
       "added_at": "2026-04-06 02:07:28",
       "album": {
+        "name": "SLATE",
+        "url": "https://open.spotify.com/album/2Jn6ZoYn9FM2TLfrfWu8Pv"
+      },
+      "artists": [
+        {
+          "name": "Martin Smith",
+          "url": "https://open.spotify.com/artist/3ISWX9gKLGkhlgS5AhvlTd"
+        }
+      ],
+      "duration_ms": 232227,
+      "name": "Paint On Spring - Remastering",
+      "url": "https://open.spotify.com/track/3GG5KPuvG7qokLoKReboHI"
+    },
+    {
+      "added_at": "2026-04-06 02:07:28",
+      "album": {
         "name": "Nerdy Love",
         "url": "https://open.spotify.com/album/2mN6cv4lJ5zATfEr84Myro"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 196373,
       "name": "Nerdy Love",
       "url": "https://open.spotify.com/track/2TfsNTyC4uuamXBZJnU0ga"
-    },
-    {
-      "added_at": "2026-04-06 02:07:28",
-      "album": {
-        "name": "SLATE",
-        "url": "https://open.spotify.com/album/2Jn6ZoYn9FM2TLfrfWu8Pv"
-      },
-      "artists": [
-        {
-          "name": "Martin Smith",
-          "url": "https://open.spotify.com/artist/3ISWX9gKLGkhlgS5AhvlTd"
-        }
-      ],
-      "duration_ms": 232227,
-      "name": "Paint On Spring - Remastering",
-      "url": "https://open.spotify.com/track/3GG5KPuvG7qokLoKReboHI"
     },
     {
       "added_at": "2026-04-06 02:07:28",
@@ -503,22 +503,6 @@
     {
       "added_at": "2026-04-06 02:07:28",
       "album": {
-        "name": "Bye Bye My Blue",
-        "url": "https://open.spotify.com/album/7a9EHrlQGVQsJe590lX4LU"
-      },
-      "artists": [
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 203409,
-      "name": "Bye Bye My Blue",
-      "url": "https://open.spotify.com/track/4GUqcCrsISpXTbiAFz6FcO"
-    },
-    {
-      "added_at": "2026-04-06 02:07:28",
-      "album": {
         "name": "Your Dog Loves You",
         "url": "https://open.spotify.com/album/1oi1SJqMKp4jKrt3Paw6Tq"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 273000,
       "name": "Your Dog Loves You (Feat. Crush)",
       "url": "https://open.spotify.com/track/72cq3rZCIEYaq1TM8y5LBQ"
+    },
+    {
+      "added_at": "2026-04-06 02:07:28",
+      "album": {
+        "name": "Bye Bye My Blue",
+        "url": "https://open.spotify.com/album/7a9EHrlQGVQsJe590lX4LU"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 203409,
+      "name": "Bye Bye My Blue",
+      "url": "https://open.spotify.com/track/4GUqcCrsISpXTbiAFz6FcO"
     },
     {
       "added_at": "2026-04-06 02:07:28",
@@ -595,6 +595,26 @@
     {
       "added_at": "2026-04-06 02:07:28",
       "album": {
+        "name": "\ubd04\uc778\uac00 \ubd10 Spring Love - SM STATION",
+        "url": "https://open.spotify.com/album/1DzMyEZcFmD72jdkp4O73D"
+      },
+      "artists": [
+        {
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+        },
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "duration_ms": 198749,
+      "name": "\ubd04\uc778\uac00 \ubd10 Spring Love",
+      "url": "https://open.spotify.com/track/6YOXdy9jShw66iOnBzQMKv"
+    },
+    {
+      "added_at": "2026-04-06 02:07:28",
+      "album": {
         "name": "Absence 'Side A'",
         "url": "https://open.spotify.com/album/294edGP7qQdiIXxZlQNPki"
       },
@@ -623,26 +643,6 @@
       "duration_ms": 256693,
       "name": "Amusement Park",
       "url": "https://open.spotify.com/track/1TUkEXQrskATO9SoB4QMUN"
-    },
-    {
-      "added_at": "2026-04-06 02:07:28",
-      "album": {
-        "name": "\ubd04\uc778\uac00 \ubd10 Spring Love - SM STATION",
-        "url": "https://open.spotify.com/album/1DzMyEZcFmD72jdkp4O73D"
-      },
-      "artists": [
-        {
-          "name": "WENDY",
-          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
-        },
-        {
-          "name": "Eric Nam",
-          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
-        }
-      ],
-      "duration_ms": 198749,
-      "name": "\ubd04\uc778\uac00 \ubd10 Spring Love",
-      "url": "https://open.spotify.com/track/6YOXdy9jShw66iOnBzQMKv"
     },
     {
       "added_at": "2026-04-06 02:07:28",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-04-06 02:07:28",
       "album": {
-        "name": "boy.",
-        "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
-      },
-      "artists": [
-        {
-          "name": "offonoff",
-          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
-        }
-      ],
-      "duration_ms": 239002,
-      "name": "Photograph",
-      "url": "https://open.spotify.com/track/0PkpRtJqrwuXhbdtJuQm7E"
-    },
-    {
-      "added_at": "2026-04-06 02:07:28",
-      "album": {
         "name": "5.2 (feat. LEE SUHYUN)",
         "url": "https://open.spotify.com/album/1aEMUc73KsSG53ysHl8x9f"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 257453,
       "name": "Sleepless in Seoul (feat. LEE SUHYUN)",
       "url": "https://open.spotify.com/track/3OrmrZSVQJ8Kt017K51aF2"
+    },
+    {
+      "added_at": "2026-04-06 02:07:28",
+      "album": {
+        "name": "boy.",
+        "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
+      },
+      "artists": [
+        {
+          "name": "offonoff",
+          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
+        }
+      ],
+      "duration_ms": 239002,
+      "name": "Photograph",
+      "url": "https://open.spotify.com/track/0PkpRtJqrwuXhbdtJuQm7E"
     },
     {
       "added_at": "2026-04-06 02:07:28",

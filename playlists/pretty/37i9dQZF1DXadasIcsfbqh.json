@@ -1,6 +1,6 @@
 {
   "description": "Pop country hits of today and tomorrow. Cover: Kelsea Ballerini",
-  "num_followers": 249775,
+  "num_followers": 249839,
   "original_name": "Pop Country",
   "owner": {
     "name": "Spotify",
@@ -571,22 +571,18 @@
     {
       "added_at": "2026-01-30 05:01:08",
       "album": {
-        "name": "Holy Water",
-        "url": "https://open.spotify.com/album/6DD756fhA5jj74FmDBncgU"
+        "name": "Slow Dancin'",
+        "url": "https://open.spotify.com/album/53sKCJTcX1AnTBqU9XUCD8"
       },
       "artists": [
         {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+          "name": "STELLA LEFTY",
+          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
         }
       ],
-      "duration_ms": 149669,
-      "name": "Holy Water",
-      "url": "https://open.spotify.com/track/5Xnkr4b6swk6BA5IinCIlU"
+      "duration_ms": 124001,
+      "name": "Slow Dancin'",
+      "url": "https://open.spotify.com/track/647YdG7a4EkucGiyDkfBRY"
     },
     {
       "added_at": "2026-01-30 05:01:08",
@@ -607,18 +603,22 @@
     {
       "added_at": "2026-01-30 05:01:08",
       "album": {
-        "name": "Slow Dancin'",
-        "url": "https://open.spotify.com/album/53sKCJTcX1AnTBqU9XUCD8"
+        "name": "Holy Water",
+        "url": "https://open.spotify.com/album/6DD756fhA5jj74FmDBncgU"
       },
       "artists": [
         {
-          "name": "STELLA LEFTY",
-          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 124001,
-      "name": "Slow Dancin'",
-      "url": "https://open.spotify.com/track/647YdG7a4EkucGiyDkfBRY"
+      "duration_ms": 149669,
+      "name": "Holy Water",
+      "url": "https://open.spotify.com/track/5Xnkr4b6swk6BA5IinCIlU"
     },
     {
       "added_at": "2026-01-30 05:01:08",
@@ -835,26 +835,6 @@
     {
       "added_at": "2026-01-30 05:01:08",
       "album": {
-        "name": "Fearless (Taylor's Version)",
-        "url": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        }
-      ],
-      "duration_ms": 189495,
-      "name": "That\u2019s When (feat. Keith Urban) (Taylor\u2019s Version) (From The Vault)",
-      "url": "https://open.spotify.com/track/7eResoqEJJAVTkQYSqvO3P"
-    },
-    {
-      "added_at": "2026-01-30 05:01:08",
-      "album": {
         "name": "Chasing After You (with Maren Morris)",
         "url": "https://open.spotify.com/album/5QUwCi1lbk0kZ5k87fRNbK"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 207973,
       "name": "Chasing After You (with Maren Morris)",
       "url": "https://open.spotify.com/track/1ZIKpMTRPqhwAoVXWY3tXI"
+    },
+    {
+      "added_at": "2026-01-30 05:01:08",
+      "album": {
+        "name": "Fearless (Taylor's Version)",
+        "url": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "duration_ms": 189495,
+      "name": "That\u2019s When (feat. Keith Urban) (Taylor\u2019s Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/7eResoqEJJAVTkQYSqvO3P"
     },
     {
       "added_at": "2026-01-30 05:01:08",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2026-01-30 05:01:08",
       "album": {
+        "name": "Almost Maybes",
+        "url": "https://open.spotify.com/album/6GZSdWjroJCuofwkDsCGMD"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 179152,
+      "name": "Almost Maybes",
+      "url": "https://open.spotify.com/track/14JFKtBSqefxfMiKhq6JT8"
+    },
+    {
+      "added_at": "2026-01-30 05:01:08",
+      "album": {
         "name": "Some Things I'll Never Know (feat. Maren Morris)",
         "url": "https://open.spotify.com/album/1iUKdH9SrtKcSaCbIVcrNj"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 242317,
       "name": "Some Things I'll Never Know (feat. Maren Morris)",
       "url": "https://open.spotify.com/track/3oSGigVd5RezNkTV9PRGmL"
-    },
-    {
-      "added_at": "2026-01-30 05:01:08",
-      "album": {
-        "name": "Almost Maybes",
-        "url": "https://open.spotify.com/album/6GZSdWjroJCuofwkDsCGMD"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 179152,
-      "name": "Almost Maybes",
-      "url": "https://open.spotify.com/track/14JFKtBSqefxfMiKhq6JT8"
     },
     {
       "added_at": "2026-01-30 05:01:08",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2026-01-30 05:01:08",
       "album": {
-        "name": "Talk Of The Town",
-        "url": "https://open.spotify.com/album/02Azszdh3FeMdvKOwWRiS9"
-      },
-      "artists": [
-        {
-          "name": "Jenna Raine",
-          "url": "https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A"
-        }
-      ],
-      "duration_ms": 185346,
-      "name": "Talk Of The Town",
-      "url": "https://open.spotify.com/track/3vDnYNZK21uZxBAGsPuWjz"
-    },
-    {
-      "added_at": "2026-01-30 05:01:08",
-      "album": {
         "name": "Diplo Presents Thomas Wesley: Chapter 1 - Snake Oil (Deluxe)",
         "url": "https://open.spotify.com/album/6QkaLeuxTaYibek4fhwpmF"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 150909,
       "name": "Bottle\u2019s Bout Dead (feat. ERNEST)",
       "url": "https://open.spotify.com/track/5QVJ97UEhK7tUe84OYs96p"
+    },
+    {
+      "added_at": "2026-01-30 05:01:08",
+      "album": {
+        "name": "Talk Of The Town",
+        "url": "https://open.spotify.com/album/02Azszdh3FeMdvKOwWRiS9"
+      },
+      "artists": [
+        {
+          "name": "Jenna Raine",
+          "url": "https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A"
+        }
+      ],
+      "duration_ms": 185346,
+      "name": "Talk Of The Town",
+      "url": "https://open.spotify.com/track/3vDnYNZK21uZxBAGsPuWjz"
     },
     {
       "added_at": "2026-01-30 05:01:08",

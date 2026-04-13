@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica que te har\u00e1 suspirar como en aquellos a\u00f1os dorados. Los Panchos en portada.",
-  "num_followers": 365549,
+  "num_followers": 365588,
   "original_name": "Tr\u00edos y Boleros Rom\u00e1nticos",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "Las Estrellas Del Fonografo RCA Victor",
-        "url": "https://open.spotify.com/album/2iBzqfmSLEAjIpH1RN1myW"
-      },
-      "artists": [
-        {
-          "name": "Los Tres Ases",
-          "url": "https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B"
-        }
-      ],
-      "duration_ms": 193706,
-      "name": "Estoy Perdido",
-      "url": "https://open.spotify.com/track/2uliF87JybtJDQfgOclSTa"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
         "name": "30 Mejores: Alci Acosta",
         "url": "https://open.spotify.com/album/1NdnBLYZy9ZtgzPbyxdM5E"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 176533,
       "name": "La Copa Rota",
       "url": "https://open.spotify.com/track/0RGST5XWJhxHAsUnbbsq3p"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
+        "name": "Las Estrellas Del Fonografo RCA Victor",
+        "url": "https://open.spotify.com/album/2iBzqfmSLEAjIpH1RN1myW"
+      },
+      "artists": [
+        {
+          "name": "Los Tres Ases",
+          "url": "https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B"
+        }
+      ],
+      "duration_ms": 193706,
+      "name": "Estoy Perdido",
+      "url": "https://open.spotify.com/track/2uliF87JybtJDQfgOclSTa"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "Trio Delfines",
-        "url": "https://open.spotify.com/album/6uJI3BirtwHzbsYO8waeeb"
-      },
-      "artists": [
-        {
-          "name": "Trio Delfines",
-          "url": "https://open.spotify.com/artist/1qvmo3M2lo0qpzRhzNTgIm"
-        }
-      ],
-      "duration_ms": 165186,
-      "name": "Candilejas",
-      "url": "https://open.spotify.com/track/4g3eltN2tS9SFZAEYN4sqv"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
         "name": "Serenatas",
         "url": "https://open.spotify.com/album/1oicodhgjKkt5YJ9KfLckQ"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 160853,
       "name": "Luna de octubre",
       "url": "https://open.spotify.com/track/4xlOFHiMUTWNYqUopID8fN"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
+        "name": "Trio Delfines",
+        "url": "https://open.spotify.com/album/6uJI3BirtwHzbsYO8waeeb"
+      },
+      "artists": [
+        {
+          "name": "Trio Delfines",
+          "url": "https://open.spotify.com/artist/1qvmo3M2lo0qpzRhzNTgIm"
+        }
+      ],
+      "duration_ms": 165186,
+      "name": "Candilejas",
+      "url": "https://open.spotify.com/track/4g3eltN2tS9SFZAEYN4sqv"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -883,18 +883,18 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "Por Debajo De La Mesa",
-        "url": "https://open.spotify.com/album/2QrB02JkL43RYWYkZRVd5B"
+        "name": "Cita Con Luis Arcaraz",
+        "url": "https://open.spotify.com/album/2yhhV6GIC9dLiSJ0olcUdE"
       },
       "artists": [
         {
-          "name": "Serena Mendes",
-          "url": "https://open.spotify.com/artist/6NPbeRsuxTEwa7lMDnZLLz"
+          "name": "Luis Arcaraz Y Su Orquesta",
+          "url": "https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg"
         }
       ],
-      "duration_ms": 179838,
-      "name": "Por Debajo De La Mesa",
-      "url": "https://open.spotify.com/track/7APywryIFuLnEQ4daWSeMM"
+      "duration_ms": 188973,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/6Tsr4h9Av9WkJDu1F4HPIz"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -915,18 +915,18 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "Cita Con Luis Arcaraz",
-        "url": "https://open.spotify.com/album/2yhhV6GIC9dLiSJ0olcUdE"
+        "name": "Por Debajo De La Mesa",
+        "url": "https://open.spotify.com/album/2QrB02JkL43RYWYkZRVd5B"
       },
       "artists": [
         {
-          "name": "Luis Arcaraz Y Su Orquesta",
-          "url": "https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg"
+          "name": "Serena Mendes",
+          "url": "https://open.spotify.com/artist/6NPbeRsuxTEwa7lMDnZLLz"
         }
       ],
-      "duration_ms": 188973,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/6Tsr4h9Av9WkJDu1F4HPIz"
+      "duration_ms": 179838,
+      "name": "Por Debajo De La Mesa",
+      "url": "https://open.spotify.com/track/7APywryIFuLnEQ4daWSeMM"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
+        "name": "Serenata con Los Tecolines",
+        "url": "https://open.spotify.com/album/5B8WnefLZ6ako5S6eUa7mb"
+      },
+      "artists": [
+        {
+          "name": "Los Tecolines",
+          "url": "https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv"
+        }
+      ],
+      "duration_ms": 153053,
+      "name": "Canci\u00f3n del alma",
+      "url": "https://open.spotify.com/track/7rVOU36Rgup3pFGNA4pLOy"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
         "name": "100th Birthday Celebration",
         "url": "https://open.spotify.com/album/5XP2Fpd4tu3ihRLH7tmocf"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 152874,
       "name": "Te Extra\u00f1o",
       "url": "https://open.spotify.com/track/7l6KxjV7Sk6y9iLOBSqTw6"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
-        "name": "Serenata con Los Tecolines",
-        "url": "https://open.spotify.com/album/5B8WnefLZ6ako5S6eUa7mb"
-      },
-      "artists": [
-        {
-          "name": "Los Tecolines",
-          "url": "https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv"
-        }
-      ],
-      "duration_ms": 153053,
-      "name": "Canci\u00f3n del alma",
-      "url": "https://open.spotify.com/track/7rVOU36Rgup3pFGNA4pLOy"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "Personalidad - Los Grandes Trios",
-        "url": "https://open.spotify.com/album/2YfKDamKfrzXOxZGpl8zbb"
-      },
-      "artists": [
-        {
-          "name": "El Negro Peregrino Y Su Trio",
-          "url": "https://open.spotify.com/artist/3qluTXV1gubNFvWSMhCSI9"
-        }
-      ],
-      "duration_ms": 158760,
-      "name": "Nochecita",
-      "url": "https://open.spotify.com/track/1Z4PHeXxR6LkgBa9slCenT"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
         "name": "Romanticamente Trios Vol. 9",
         "url": "https://open.spotify.com/album/7gbMCEoPGMe8qNem3RjMYA"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 148893,
       "name": "Noche No Te Vayas",
       "url": "https://open.spotify.com/track/4UrJogl8kEaLsUqeQKbXQG"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
+        "name": "Personalidad - Los Grandes Trios",
+        "url": "https://open.spotify.com/album/2YfKDamKfrzXOxZGpl8zbb"
+      },
+      "artists": [
+        {
+          "name": "El Negro Peregrino Y Su Trio",
+          "url": "https://open.spotify.com/artist/3qluTXV1gubNFvWSMhCSI9"
+        }
+      ],
+      "duration_ms": 158760,
+      "name": "Nochecita",
+      "url": "https://open.spotify.com/track/1Z4PHeXxR6LkgBa9slCenT"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "Antonio Badu/Claudio Estrada - Dos Bohemios Romanticos",
-        "url": "https://open.spotify.com/album/0asR4PcGxIQOxjnq5aaekQ"
+        "name": "Los Grandes Exitos De Virginia Lopez - A Peticion Del Publici",
+        "url": "https://open.spotify.com/album/5xaioAiN5WbONqb56BhWHe"
       },
       "artists": [
         {
-          "name": "Antonio Badu",
-          "url": "https://open.spotify.com/artist/3HMS8RHr7RqTB1vj8igPkl"
+          "name": "Virginia Lopez",
+          "url": "https://open.spotify.com/artist/3vEgzbeKwiwMKhpjdJ4xpS"
         }
       ],
-      "duration_ms": 153946,
-      "name": "Estoy Enamorado",
-      "url": "https://open.spotify.com/track/3Wu69KbLFXHK2g0fiA0MZR"
+      "duration_ms": 159440,
+      "name": "Tus Promesas de Amor",
+      "url": "https://open.spotify.com/track/1TRdUF2oyYENzeX30yQtwM"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -1367,18 +1367,18 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "Los Grandes Exitos De Virginia Lopez - A Peticion Del Publici",
-        "url": "https://open.spotify.com/album/5xaioAiN5WbONqb56BhWHe"
+        "name": "Antonio Badu/Claudio Estrada - Dos Bohemios Romanticos",
+        "url": "https://open.spotify.com/album/0asR4PcGxIQOxjnq5aaekQ"
       },
       "artists": [
         {
-          "name": "Virginia Lopez",
-          "url": "https://open.spotify.com/artist/3vEgzbeKwiwMKhpjdJ4xpS"
+          "name": "Antonio Badu",
+          "url": "https://open.spotify.com/artist/3HMS8RHr7RqTB1vj8igPkl"
         }
       ],
-      "duration_ms": 159440,
-      "name": "Tus Promesas de Amor",
-      "url": "https://open.spotify.com/track/1TRdUF2oyYENzeX30yQtwM"
+      "duration_ms": 153946,
+      "name": "Estoy Enamorado",
+      "url": "https://open.spotify.com/track/3Wu69KbLFXHK2g0fiA0MZR"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
+        "name": "Los Grandes Exitos De Virginia Lopez - A Peticion Del Publici",
+        "url": "https://open.spotify.com/album/5xaioAiN5WbONqb56BhWHe"
+      },
+      "artists": [
+        {
+          "name": "Virginia Lopez",
+          "url": "https://open.spotify.com/artist/3vEgzbeKwiwMKhpjdJ4xpS"
+        }
+      ],
+      "duration_ms": 151266,
+      "name": "Ya T\u00fa Ver\u00e1s",
+      "url": "https://open.spotify.com/track/2KE723Cj7xEvFe9qXgX8qu"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
         "name": "Perdoname",
         "url": "https://open.spotify.com/album/2UXJz6qh5y44uiHxlP8k6M"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 136693,
       "name": "Desesperadamente",
       "url": "https://open.spotify.com/track/2L1q1K3eLEG3sysm8iLtwl"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
-        "name": "Los Grandes Exitos De Virginia Lopez - A Peticion Del Publici",
-        "url": "https://open.spotify.com/album/5xaioAiN5WbONqb56BhWHe"
-      },
-      "artists": [
-        {
-          "name": "Virginia Lopez",
-          "url": "https://open.spotify.com/artist/3vEgzbeKwiwMKhpjdJ4xpS"
-        }
-      ],
-      "duration_ms": 151266,
-      "name": "Ya T\u00fa Ver\u00e1s",
-      "url": "https://open.spotify.com/track/2KE723Cj7xEvFe9qXgX8qu"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "15 Creaciones De Yolanda Y Su Trio Perla Negra - Versiones Originales",
-        "url": "https://open.spotify.com/album/0MVQMThE6fTEOMvpGgWjTe"
-      },
-      "artists": [
-        {
-          "name": "Yolanda Y Su Trio Perla Negra",
-          "url": "https://open.spotify.com/artist/3qTLA5L6rj3bA14H3QQJKG"
-        }
-      ],
-      "duration_ms": 153826,
-      "name": "Espumas",
-      "url": "https://open.spotify.com/track/3nSV1I5ZVv4vI8nU7Kl6zW"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
         "name": "Grandes \u00c9xitos De Carmen Delia Dipin\u00ed",
         "url": "https://open.spotify.com/album/4sOd7sSRarWnDiDLmeOlm7"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 170733,
       "name": "Conozco La Verdad",
       "url": "https://open.spotify.com/track/08Bc5JzkGuMS53ZkDSgHsg"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
+        "name": "15 Creaciones De Yolanda Y Su Trio Perla Negra - Versiones Originales",
+        "url": "https://open.spotify.com/album/0MVQMThE6fTEOMvpGgWjTe"
+      },
+      "artists": [
+        {
+          "name": "Yolanda Y Su Trio Perla Negra",
+          "url": "https://open.spotify.com/artist/3qTLA5L6rj3bA14H3QQJKG"
+        }
+      ],
+      "duration_ms": 153826,
+      "name": "Espumas",
+      "url": "https://open.spotify.com/track/3nSV1I5ZVv4vI8nU7Kl6zW"
     },
     {
       "added_at": "2024-07-11 15:48:05",

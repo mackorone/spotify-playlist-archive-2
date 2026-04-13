@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUdTJS2IdZ2.md) - [plain]
 
 > Rising stars and new releases from sunny Singapore\. Cover: Regina Song
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,203 likes - 93 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,204 likes - 93 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

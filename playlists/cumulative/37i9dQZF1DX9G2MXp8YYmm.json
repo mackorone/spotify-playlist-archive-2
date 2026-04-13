@@ -186,7 +186,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-12",
+      "date_removed": null,
       "duration_ms": 128804,
       "name": "Ac\u0131yor Kalbim",
       "url": "https://open.spotify.com/track/5at6EvpZwE8neKRrDrk7gI"
@@ -2108,7 +2108,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 163738,
       "name": "Bir Hayal",
       "url": "https://open.spotify.com/track/7M1Q7tQiYhEJzOMvT6nUQI"
@@ -4730,7 +4730,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 179324,
       "name": "Herkes Gibi",
       "url": "https://open.spotify.com/track/6zBdAOcSXzPiwxXllOlZmp"
@@ -7610,6 +7610,24 @@
       "duration_ms": 184135,
       "name": "Sebebi Sensin",
       "url": "https://open.spotify.com/track/5qFhwRh3L7hXIqMxyEk9IB"
+    },
+    {
+      "album": {
+        "name": "Sebebim Yok",
+        "url": "https://open.spotify.com/album/1gUimiP50ayLEKRfM2MYaN"
+      },
+      "artists": [
+        {
+          "name": "M Lisa",
+          "url": "https://open.spotify.com/artist/7CLojerj7StFcAX03tA8Pc"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123576,
+      "name": "Sebebim Yok",
+      "url": "https://open.spotify.com/track/1eZrSTNAfSd1sEd4Ha26l0"
     },
     {
       "album": {

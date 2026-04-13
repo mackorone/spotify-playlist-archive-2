@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBh57nLz0fEK.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1jTifM0MFAVzFVvYIpez2Z">Tommy Parker</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 241 likes - 129 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 242 likes - 129 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBh57nLz0fEK.md) - [plain]
 | 21 | [ROSE STREET](https://open.spotify.com/track/1L8NADNWd56cZRnaxcxPPI) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [RAMONA PARK BROKE MY HEART](https://open.spotify.com/album/2G549zeda2XNICgLmU0pNW) | 2:33 |
 | 22 | [BLEEDING](https://open.spotify.com/track/1Q44YCmHulLTI61D3IGe2g) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [BELOVED](https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ) | 2:57 |
 | 23 | [ASOBO](https://open.spotify.com/track/4HxYocfARMuDYQ1LHLF1lZ) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [COCONUT](https://open.spotify.com/album/7pMBT70d3wGM0VZfLcQ6f3) | 3:03 |
-| 24 | [Over You](https://open.spotify.com/track/64WxLGjquEiDypddXZgggY) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Ruby](https://open.spotify.com/album/3NaRWUhsOLdHsmqJON0aiv) | 3:46 |
+| 24 | [Over You](https://open.spotify.com/track/1xsIYgUYRY5fDjtHYrGkcv) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Ruby](https://open.spotify.com/album/5ukER8Gzjr4CPSwN8fwykc) | 3:46 |
 | 25 | [On Some New Shit](https://open.spotify.com/track/6Uddii97LejOyJrrqEqMYI) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Breezy](https://open.spotify.com/album/31U6s6obQrBLTqyvqfqzlM) | 2:50 |
 | 26 | [HARDSTONE NATIONAL ANTHEM](https://open.spotify.com/track/72mqSiSQNHHNYSM6dOJYGr) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 2:41 |
 | 27 | [ISSA PARTY \(feat\. BabyDrill\)](https://open.spotify.com/track/4hrd3G5XnJzDC5LZw0Fwgu) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [ISSA PARTY \(feat\. BabyDrill\)](https://open.spotify.com/album/2bgo85yjFegHRyRROMaiWm) | 2:56 |
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBh57nLz0fEK.md) - [plain]
 | 52 | [Tiny Apartment](https://open.spotify.com/track/5kS0dkXPwey7btVmBFYlYE) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ) | [Stubborn](https://open.spotify.com/album/0HAMypn9IWyVZ3ytw6R6qr) | 3:40 |
 | 53 | [Waterfalls](https://open.spotify.com/track/1Sx5FQ2YCfSamun0xtUr9c) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Bryson Tiller](https://open.spotify.com/album/0frVQ5nctt6zS9ZR1g5HMX) | 1:44 |
 | 54 | [Voices](https://open.spotify.com/track/04wTNwEKUnDua5eCPX4EvA) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Episodes](https://open.spotify.com/album/1ilQqLfaXbyZB7sldz26Ox) | 3:36 |
-| 55 | [Cold World](https://open.spotify.com/track/5srhxtnDZLyPGOca7pSjUw) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Ruby](https://open.spotify.com/album/3NaRWUhsOLdHsmqJON0aiv) | 3:06 |
+| 55 | [Cold World](https://open.spotify.com/track/6KMXWoweTosGskZPIBsEdt) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Ruby](https://open.spotify.com/album/5ukER8Gzjr4CPSwN8fwykc) | 3:06 |
 | 56 | [Make Me](https://open.spotify.com/track/4ecsYZoUCiwQdSlBM3CVGO) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Make Me \(France Version\)](https://open.spotify.com/album/4owB52H5fyp5KpB6pHiBYE) | 3:38 |
 | 57 | [Nothing Gets Better Than This \(feat\. Max Schneider\)](https://open.spotify.com/track/1TbhUp7TKMzAVvr3lCEuMi) | [Rags Cast](https://open.spotify.com/artist/5igcQeVmcLCLDM2cj43Tuy), [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Rags \(Music From the Original Movie\)](https://open.spotify.com/album/1jXyQ8Yu9hZ54DbX4qg11Z) | 2:33 |
 | 58 | [THE SPIRIT OF MONSTER KODY](https://open.spotify.com/track/1JHKRUy261mWgDVGJfkNgT) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [RAMONA PARK BROKE MY HEART](https://open.spotify.com/album/2G549zeda2XNICgLmU0pNW) | 0:45 |
-| 59 | [Sugar Daddy](https://open.spotify.com/track/44ROJAxh2jBDQpxgMMIiCC) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Ruby](https://open.spotify.com/album/3NaRWUhsOLdHsmqJON0aiv) | 3:38 |
+| 59 | [Sugar Daddy](https://open.spotify.com/track/66w94M418mHrEEdDfKn5ob) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Ruby](https://open.spotify.com/album/5ukER8Gzjr4CPSwN8fwykc) | 3:38 |
 | 60 | [Tryna](https://open.spotify.com/track/05PU5oE3gopbj1SQtAl6Al) | [Sonny](https://open.spotify.com/artist/7M32CCGFBfGnTWfQuLngrb) | [10's](https://open.spotify.com/album/3IIxAv8KgoGkqCXljHbJ7W) | 3:18 |
 | 61 | [Crysalis](https://open.spotify.com/track/1n3B6ZLMMU39HhX5PuTcC7) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [CRYSALIS](https://open.spotify.com/album/1SJo3Md5B8ZhvrS7vMMj3b) | 1:47 |
 | 62 | [Night](https://open.spotify.com/track/0LFO2Dep3r3g36vt0rY8yt) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Unbreakable](https://open.spotify.com/album/45nlliwsohn0gLFmQ49FAG) | 4:14 |
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBh57nLz0fEK.md) - [plain]
 | 74 | [Turn It Up](https://open.spotify.com/track/596pPwqpEzZeH57CcY75W4) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Here I Am \(Int'l Version\)](https://open.spotify.com/album/0fqSVcXza5It71LS2BJdLR) | 3:35 |
 | 75 | [Double Tragedy](https://open.spotify.com/track/2Zs7Q7lJB1aUDL06rE2xN2) | [Hailey Knox](https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH) | [Double Tragedy](https://open.spotify.com/album/5Knkg9Hx7EoJE4ZnLX7f8H) | 2:45 |
 | 76 | [The Disco Song](https://open.spotify.com/track/6oxEm1YTTY3UdHl287wbyR) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa), [The California Jet Club](https://open.spotify.com/artist/6OOn7tedu5plMS1AhGi022), [Jhonni Blaze](https://open.spotify.com/artist/1TPNC8TFcyC8s5TeSmQT23), [Maiya Sykes](https://open.spotify.com/artist/0f1RHEeWvaJDxBPY3UZ6Z4) | [The Reset](https://open.spotify.com/album/6YLCRtqGScLXhJpkRS2Tff) | 3:57 |
-| 77 | [White Man](https://open.spotify.com/track/5zyyicAObouqjww4FL7vsP) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Ruby](https://open.spotify.com/album/3NaRWUhsOLdHsmqJON0aiv) | 3:13 |
+| 77 | [White Man](https://open.spotify.com/track/1GHANu5pFYD8jqFkKEZXW5) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Ruby](https://open.spotify.com/album/5ukER8Gzjr4CPSwN8fwykc) | 3:13 |
 | 78 | [Thinking of You](https://open.spotify.com/track/70ZhUOVBwrBv2gKXABIgux) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa), [The California Jet Club](https://open.spotify.com/artist/6OOn7tedu5plMS1AhGi022) | [The Reset](https://open.spotify.com/album/6YLCRtqGScLXhJpkRS2Tff) | 4:24 |
 | 79 | [Shai Afeni](https://open.spotify.com/track/0rMmIAvwGWv2yNX1rCPPBo) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [The Crossroads](https://open.spotify.com/album/7oZOlyOhZSUn1zfojIzMHR) | 2:55 |
 | 80 | [Bat Phone](https://open.spotify.com/track/0rLhCmGwVdTnhpDtckZ1dC) | [Mez](https://open.spotify.com/artist/30C5wgn4celhRP3Tytv7R6), [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [The Loading EP](https://open.spotify.com/album/3v7EwnT9vSwdkHKhyNqZbq) | 3:24 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBh57nLz0fEK.md) - [plain]
 | 91 | [CUTTI \- BONUS](https://open.spotify.com/track/1aR76UAZvKOuaJF9Q5kXZM) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [BACKWARD](https://open.spotify.com/album/0zN2naR1Vok73SgqTLS701) | 3:32 |
 | 92 | [Code + Love Me Some More](https://open.spotify.com/track/3EErsWRNeSwUg6ffBgDXW3) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [MOB](https://open.spotify.com/album/5xbiYqy4rUt2sHWmwWnrOM) | 3:46 |
 | 93 | [richest girl alive](https://open.spotify.com/track/33wxqsZkzl0ADSdfUFXo8d) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [\#gigi](https://open.spotify.com/album/5yYtz3hPgOc2XAh5eDjDBa) | 2:20 |
-| 94 | [When It Ends](https://open.spotify.com/track/78JF5ltZGwtjJkd5gsFZO3) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Ruby](https://open.spotify.com/album/3NaRWUhsOLdHsmqJON0aiv) | 4:32 |
+| 94 | [When It Ends](https://open.spotify.com/track/2XkIeiu6MUkOLl438ztvgY) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Ruby](https://open.spotify.com/album/5ukER8Gzjr4CPSwN8fwykc) | 4:32 |
 | 95 | [Sunday](https://open.spotify.com/track/0gqcPH08FOqIqumcDQrw3C) | [B Jack$](https://open.spotify.com/artist/2bnV4zuMP2tBXzsGbPmkuo) | [No Guest List](https://open.spotify.com/album/2xTeGaKSGR9TG8JWjA4HOx) | 1:53 |
 | 96 | [Pay for the Pain](https://open.spotify.com/track/37tYiGnTLQgu5PnSI7R7m0) | [Gild Walton](https://open.spotify.com/artist/2ienhCqiGU2x3g8jbLwx2s) | [Pay for the Pain](https://open.spotify.com/album/0vskX5pm17kkNLiSYWfcjW) | 2:42 |
-| 97 | [Witness](https://open.spotify.com/track/4CwrUYKXLeUyAFhEYlbJld) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Ruby](https://open.spotify.com/album/3NaRWUhsOLdHsmqJON0aiv) | 4:16 |
-| 98 | [Just Like Jenny](https://open.spotify.com/track/39fXwsp5ZQG76nN9mGBzbb) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Ruby](https://open.spotify.com/album/3NaRWUhsOLdHsmqJON0aiv) | 2:58 |
-| 99 | [Shinanigins](https://open.spotify.com/track/6YTpBXHHEY0PGTxOkJX6wX) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Ruby](https://open.spotify.com/album/3NaRWUhsOLdHsmqJON0aiv) | 2:42 |
+| 97 | [Witness](https://open.spotify.com/track/0x5IefVx73za0koesbrZhI) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Ruby](https://open.spotify.com/album/5ukER8Gzjr4CPSwN8fwykc) | 4:16 |
+| 98 | [Just Like Jenny](https://open.spotify.com/track/5C2EPFs7ZWqARGv5qZJurY) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Ruby](https://open.spotify.com/album/5ukER8Gzjr4CPSwN8fwykc) | 2:58 |
+| 99 | [Shinanigins](https://open.spotify.com/track/2wMuSMdSq6zFPEDhaIvjgQ) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Ruby](https://open.spotify.com/album/5ukER8Gzjr4CPSwN8fwykc) | 2:42 |
 | 100 | [Dance Scream](https://open.spotify.com/track/4Q1Rd72FnS8xWPg7tHaVDf) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Las Ruinas](https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO) | 2:04 |
 | 101 | [FMB](https://open.spotify.com/track/2cVV3bwDceDchfxtvUDpbD) | [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z) | [FMB](https://open.spotify.com/album/0SYt0GKTeUFYeSuFBhg8Cy) | 2:06 |
 | 102 | [Bloodline](https://open.spotify.com/track/2qvrRtYFN7MGRokO77TZKK) | [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [The Birth of a Nation: The Inspired By Album](https://open.spotify.com/album/6miimmKAefrNxnErwCTGmj) | 4:12 |
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBh57nLz0fEK.md) - [plain]
 | 128 | [This Time](https://open.spotify.com/track/2vhYlpTjJR6WNcLbt6VohD) | [PARADISE LTD](https://open.spotify.com/artist/0ahtFYd681pvCSkj1vh8lv), [Wild Culture](https://open.spotify.com/artist/7hayBHpyq0PvgOt9l96hpp) | [Blood, Sweat & Tears](https://open.spotify.com/album/1agGkgiRsIb0lC6TUApqDS) | 4:07 |
 | 129 | [INTERLUDE](https://open.spotify.com/track/4RyDxpwqXhN5zI39QumvVe) | [T$](https://open.spotify.com/artist/00xAzuaRdsIegeqqDtlzae), [Willie Truitt](https://open.spotify.com/artist/3rrNr8VdtVf9y7PBg5xS9w) | [PURPLE BLOOD](https://open.spotify.com/album/4ECQGzAEn0Vj0RiPWLh1gH) | 0:37 |
 
-Snapshot ID: `AcOmgAAAAAADMi40sVaARxXYcbGFDaoE`
+Snapshot ID: `AcOsIAAAAAD9KpxzQu1pc6KoaieF1LEk`

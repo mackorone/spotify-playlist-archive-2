@@ -1,6 +1,6 @@
 {
   "description": "All the greatest Thrash tunes - from classics to the best new tracks. Cover: Megadeth",
-  "num_followers": 583622,
+  "num_followers": 583628,
   "original_name": "Thrashers",
   "owner": {
     "name": "Spotify",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2026-02-06 16:07:07",
       "album": {
-        "name": "Seven Serpents",
-        "url": "https://open.spotify.com/album/5Fa32KpztTDuW2wuq30LRX"
-      },
-      "artists": [
-        {
-          "name": "Kreator",
-          "url": "https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv"
-        }
-      ],
-      "duration_ms": 279533,
-      "name": "Seven Serpents",
-      "url": "https://open.spotify.com/track/0Ymzr5Fo4i10IaUQz5R0eO"
-    },
-    {
-      "added_at": "2026-02-06 16:07:07",
-      "album": {
         "name": "Game Over",
         "url": "https://open.spotify.com/album/0isrNd8l4UqHhtPDhCKsId"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 202146,
       "name": "Sin",
       "url": "https://open.spotify.com/track/4bFwNDLo9IeqHQ0iqFEaUA"
+    },
+    {
+      "added_at": "2026-02-06 16:07:07",
+      "album": {
+        "name": "Seven Serpents",
+        "url": "https://open.spotify.com/album/5Fa32KpztTDuW2wuq30LRX"
+      },
+      "artists": [
+        {
+          "name": "Kreator",
+          "url": "https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv"
+        }
+      ],
+      "duration_ms": 279533,
+      "name": "Seven Serpents",
+      "url": "https://open.spotify.com/track/0Ymzr5Fo4i10IaUQz5R0eO"
     },
     {
       "added_at": "2026-02-06 16:07:07",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2026-02-06 16:07:07",
       "album": {
-        "name": "Satanic Anarchy",
-        "url": "https://open.spotify.com/album/28JXUCxtf9uAdkponjtqC3"
-      },
-      "artists": [
-        {
-          "name": "Kreator",
-          "url": "https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv"
-        }
-      ],
-      "duration_ms": 213253,
-      "name": "Satanic Anarchy",
-      "url": "https://open.spotify.com/track/5DBq7GYcLnQLkNQMzKb5mN"
-    },
-    {
-      "added_at": "2026-02-06 16:07:07",
-      "album": {
         "name": "Cabaret De La Guillotine",
         "url": "https://open.spotify.com/album/76dTSQmBFHcITyGb89GcfC"
       },
@@ -1615,6 +1599,22 @@
     {
       "added_at": "2026-02-06 16:07:07",
       "album": {
+        "name": "Satanic Anarchy",
+        "url": "https://open.spotify.com/album/28JXUCxtf9uAdkponjtqC3"
+      },
+      "artists": [
+        {
+          "name": "Kreator",
+          "url": "https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv"
+        }
+      ],
+      "duration_ms": 213253,
+      "name": "Satanic Anarchy",
+      "url": "https://open.spotify.com/track/5DBq7GYcLnQLkNQMzKb5mN"
+    },
+    {
+      "added_at": "2026-02-06 16:07:07",
+      "album": {
         "name": "Untouchable Glory",
         "url": "https://open.spotify.com/album/4KHhqOCvMaJ7x3QYQBGRFr"
       },
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2026-02-06 16:07:07",
       "album": {
-        "name": "Punishment for Decadence",
-        "url": "https://open.spotify.com/album/2o6XqegTow2rfyKM9UglBX"
-      },
-      "artists": [
-        {
-          "name": "Coroner",
-          "url": "https://open.spotify.com/artist/7lfdXL6PuTM5iWJNvI7PPV"
-        }
-      ],
-      "duration_ms": 287600,
-      "name": "Masked Jackal",
-      "url": "https://open.spotify.com/track/2pjI7phMrTO2KOJCqCkHIU"
-    },
-    {
-      "added_at": "2026-02-06 16:07:07",
-      "album": {
         "name": "Do-Over",
         "url": "https://open.spotify.com/album/1zndMZYyzhEbEVe4I9fB4D"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 189280,
       "name": "Black Metal Sucks",
       "url": "https://open.spotify.com/track/62f5Wr85zS0rEhnh7Ege1Z"
+    },
+    {
+      "added_at": "2026-02-06 16:07:07",
+      "album": {
+        "name": "Punishment for Decadence",
+        "url": "https://open.spotify.com/album/2o6XqegTow2rfyKM9UglBX"
+      },
+      "artists": [
+        {
+          "name": "Coroner",
+          "url": "https://open.spotify.com/artist/7lfdXL6PuTM5iWJNvI7PPV"
+        }
+      ],
+      "duration_ms": 287600,
+      "name": "Masked Jackal",
+      "url": "https://open.spotify.com/track/2pjI7phMrTO2KOJCqCkHIU"
     },
     {
       "added_at": "2026-02-06 16:07:07",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2026-02-06 16:07:07",
       "album": {
-        "name": "Knee-Deep in the Dead",
-        "url": "https://open.spotify.com/album/601ESzEhbKX64VRAj8GA4F"
-      },
-      "artists": [
-        {
-          "name": "Traitor",
-          "url": "https://open.spotify.com/artist/3rHTxH2it9i3O73UQbnMvM"
-        }
-      ],
-      "duration_ms": 267253,
-      "name": "Mad Dictator",
-      "url": "https://open.spotify.com/track/3WGMxrtnHowRRdmHctXfpW"
-    },
-    {
-      "added_at": "2026-02-06 16:07:07",
-      "album": {
         "name": "Speed Between the Lines",
         "url": "https://open.spotify.com/album/3Ti0nXYU3jdrWkIV8gxpaA"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 230560,
       "name": "Give Me Leather",
       "url": "https://open.spotify.com/track/0W5YJVzJ9WABd2vmoqmlC8"
+    },
+    {
+      "added_at": "2026-02-06 16:07:07",
+      "album": {
+        "name": "Knee-Deep in the Dead",
+        "url": "https://open.spotify.com/album/601ESzEhbKX64VRAj8GA4F"
+      },
+      "artists": [
+        {
+          "name": "Traitor",
+          "url": "https://open.spotify.com/artist/3rHTxH2it9i3O73UQbnMvM"
+        }
+      ],
+      "duration_ms": 267253,
+      "name": "Mad Dictator",
+      "url": "https://open.spotify.com/track/3WGMxrtnHowRRdmHctXfpW"
     },
     {
       "added_at": "2026-02-06 16:07:07",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2026-02-06 16:07:07",
       "album": {
-        "name": "Decade of Revival",
-        "url": "https://open.spotify.com/album/7hnmaMO1cyVUtgX9DSbOOJ"
-      },
-      "artists": [
-        {
-          "name": "Traitor",
-          "url": "https://open.spotify.com/artist/3rHTxH2it9i3O73UQbnMvM"
-        }
-      ],
-      "duration_ms": 177206,
-      "name": "Space Seed",
-      "url": "https://open.spotify.com/track/04Db6DnoyLOzHg2hXMRQsm"
-    },
-    {
-      "added_at": "2026-02-06 16:07:07",
-      "album": {
         "name": "Activate",
         "url": "https://open.spotify.com/album/0rfHDsz52JsOhrqHSosKRs"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 210288,
       "name": "Activate",
       "url": "https://open.spotify.com/track/6K4sl3JE7oeuUhDJvy9ku3"
+    },
+    {
+      "added_at": "2026-02-06 16:07:07",
+      "album": {
+        "name": "Decade of Revival",
+        "url": "https://open.spotify.com/album/7hnmaMO1cyVUtgX9DSbOOJ"
+      },
+      "artists": [
+        {
+          "name": "Traitor",
+          "url": "https://open.spotify.com/artist/3rHTxH2it9i3O73UQbnMvM"
+        }
+      ],
+      "duration_ms": 177206,
+      "name": "Space Seed",
+      "url": "https://open.spotify.com/track/04Db6DnoyLOzHg2hXMRQsm"
     },
     {
       "added_at": "2026-02-06 16:07:07",
@@ -2411,22 +2411,6 @@
     {
       "added_at": "2026-02-06 16:07:07",
       "album": {
-        "name": "Renewal",
-        "url": "https://open.spotify.com/album/7erRumRzCic3S7fkI8IiMP"
-      },
-      "artists": [
-        {
-          "name": "Coroner",
-          "url": "https://open.spotify.com/artist/7lfdXL6PuTM5iWJNvI7PPV"
-        }
-      ],
-      "duration_ms": 321706,
-      "name": "Renewal",
-      "url": "https://open.spotify.com/track/1S0AbOPzmLwUXtyv2Czq3z"
-    },
-    {
-      "added_at": "2026-02-06 16:07:07",
-      "album": {
         "name": "Shredator",
         "url": "https://open.spotify.com/album/02cQ6psSDX3wnqtlWo1EMZ"
       },
@@ -2439,6 +2423,22 @@
       "duration_ms": 118014,
       "name": "Shredator",
       "url": "https://open.spotify.com/track/4wmkXGAsAplI0XzVtydSLb"
+    },
+    {
+      "added_at": "2026-02-06 16:07:07",
+      "album": {
+        "name": "Renewal",
+        "url": "https://open.spotify.com/album/7erRumRzCic3S7fkI8IiMP"
+      },
+      "artists": [
+        {
+          "name": "Coroner",
+          "url": "https://open.spotify.com/artist/7lfdXL6PuTM5iWJNvI7PPV"
+        }
+      ],
+      "duration_ms": 321706,
+      "name": "Renewal",
+      "url": "https://open.spotify.com/track/1S0AbOPzmLwUXtyv2Czq3z"
     },
     {
       "added_at": "2026-02-06 16:07:07",
@@ -2459,22 +2459,6 @@
     {
       "added_at": "2026-02-06 16:07:07",
       "album": {
-        "name": "Curtain Fire",
-        "url": "https://open.spotify.com/album/3huHjUWVjDpZykc9hTbqDP"
-      },
-      "artists": [
-        {
-          "name": "Enforced",
-          "url": "https://open.spotify.com/artist/7vZV2UPiXQMVesiAxQmvBp"
-        }
-      ],
-      "duration_ms": 274816,
-      "name": "Curtain Fire",
-      "url": "https://open.spotify.com/track/0bNcU1wxJsgSUnMbmLkzkE"
-    },
-    {
-      "added_at": "2026-02-06 16:07:07",
-      "album": {
         "name": "Index Case",
         "url": "https://open.spotify.com/album/6HqyU5Uy6UoqCgGEfriQzH"
       },
@@ -2487,6 +2471,22 @@
       "duration_ms": 115083,
       "name": "Extinction",
       "url": "https://open.spotify.com/track/239D9QunfPbo8mSeU9Jod6"
+    },
+    {
+      "added_at": "2026-02-06 16:07:07",
+      "album": {
+        "name": "Curtain Fire",
+        "url": "https://open.spotify.com/album/3huHjUWVjDpZykc9hTbqDP"
+      },
+      "artists": [
+        {
+          "name": "Enforced",
+          "url": "https://open.spotify.com/artist/7vZV2UPiXQMVesiAxQmvBp"
+        }
+      ],
+      "duration_ms": 274816,
+      "name": "Curtain Fire",
+      "url": "https://open.spotify.com/track/0bNcU1wxJsgSUnMbmLkzkE"
     },
     {
       "added_at": "2026-02-06 16:07:07",
@@ -2571,22 +2571,6 @@
     {
       "added_at": "2026-02-06 16:07:07",
       "album": {
-        "name": "Sever The Tongue",
-        "url": "https://open.spotify.com/album/3Hm85xoM0c1XorBsEqOenD"
-      },
-      "artists": [
-        {
-          "name": "Deicide",
-          "url": "https://open.spotify.com/artist/2K3GorTixXKAiwe2t9lO89"
-        }
-      ],
-      "duration_ms": 204622,
-      "name": "Sever The Tongue",
-      "url": "https://open.spotify.com/track/0kWPYyduQ5Vo5jLdf20AGG"
-    },
-    {
-      "added_at": "2026-02-06 16:07:07",
-      "album": {
         "name": "Let the World Burn",
         "url": "https://open.spotify.com/album/7f08w78qHcpUQQ7cj9jKlH"
       },
@@ -2599,6 +2583,22 @@
       "duration_ms": 310181,
       "name": "Let the World Burn",
       "url": "https://open.spotify.com/track/2C2Hi5imLSNAk9wI5itFHx"
+    },
+    {
+      "added_at": "2026-02-06 16:07:07",
+      "album": {
+        "name": "Sever The Tongue",
+        "url": "https://open.spotify.com/album/3Hm85xoM0c1XorBsEqOenD"
+      },
+      "artists": [
+        {
+          "name": "Deicide",
+          "url": "https://open.spotify.com/artist/2K3GorTixXKAiwe2t9lO89"
+        }
+      ],
+      "duration_ms": 204622,
+      "name": "Sever The Tongue",
+      "url": "https://open.spotify.com/track/0kWPYyduQ5Vo5jLdf20AGG"
     },
     {
       "added_at": "2026-02-06 16:07:07",
@@ -2827,22 +2827,6 @@
     {
       "added_at": "2026-02-06 16:07:07",
       "album": {
-        "name": "Non-Existent",
-        "url": "https://open.spotify.com/album/3w0A1NWMUE0OOVQ195aHsr"
-      },
-      "artists": [
-        {
-          "name": "Fueled By Fire",
-          "url": "https://open.spotify.com/artist/0j61zPo0HzQ86JU6ivMVAx"
-        }
-      ],
-      "duration_ms": 183208,
-      "name": "Non-Existent",
-      "url": "https://open.spotify.com/track/4sMGh1NvsGiJs2yfYLbI2d"
-    },
-    {
-      "added_at": "2026-02-06 16:07:07",
-      "album": {
         "name": "Exiled To The Surface",
         "url": "https://open.spotify.com/album/0tkgyipQ3jjwI2UVGVDDuT"
       },
@@ -2855,6 +2839,22 @@
       "duration_ms": 249531,
       "name": "66 Exeter Street",
       "url": "https://open.spotify.com/track/0oSILLUEwuFTFRsz5Twe56"
+    },
+    {
+      "added_at": "2026-02-06 16:07:07",
+      "album": {
+        "name": "Non-Existent",
+        "url": "https://open.spotify.com/album/3w0A1NWMUE0OOVQ195aHsr"
+      },
+      "artists": [
+        {
+          "name": "Fueled By Fire",
+          "url": "https://open.spotify.com/artist/0j61zPo0HzQ86JU6ivMVAx"
+        }
+      ],
+      "duration_ms": 183208,
+      "name": "Non-Existent",
+      "url": "https://open.spotify.com/track/4sMGh1NvsGiJs2yfYLbI2d"
     },
     {
       "added_at": "2026-02-06 16:07:07",
@@ -3007,22 +3007,6 @@
     {
       "added_at": "2026-02-06 16:07:07",
       "album": {
-        "name": "A Bitter Pill",
-        "url": "https://open.spotify.com/album/3DUNliOEQRkUeoqqt0Ccsr"
-      },
-      "artists": [
-        {
-          "name": "Razor",
-          "url": "https://open.spotify.com/artist/4jvgoG685KIVaPYwqVF60B"
-        }
-      ],
-      "duration_ms": 167191,
-      "name": "A Bitter Pill",
-      "url": "https://open.spotify.com/track/1g5ld3pVVYEdBVre03vdRb"
-    },
-    {
-      "added_at": "2026-02-06 16:07:07",
-      "album": {
         "name": "Let the World Burn",
         "url": "https://open.spotify.com/album/1kQuMFWJMNmcyH3OpZR3Qn"
       },
@@ -3035,6 +3019,22 @@
       "duration_ms": 327953,
       "name": "Upon Their Cross",
       "url": "https://open.spotify.com/track/4PSmqz3YU0K3aT9q2mWG1r"
+    },
+    {
+      "added_at": "2026-02-06 16:07:07",
+      "album": {
+        "name": "A Bitter Pill",
+        "url": "https://open.spotify.com/album/3DUNliOEQRkUeoqqt0Ccsr"
+      },
+      "artists": [
+        {
+          "name": "Razor",
+          "url": "https://open.spotify.com/artist/4jvgoG685KIVaPYwqVF60B"
+        }
+      ],
+      "duration_ms": 167191,
+      "name": "A Bitter Pill",
+      "url": "https://open.spotify.com/track/1g5ld3pVVYEdBVre03vdRb"
     },
     {
       "added_at": "2026-02-06 16:07:07",
@@ -3055,38 +3055,6 @@
     {
       "added_at": "2026-02-06 16:07:07",
       "album": {
-        "name": "Origins Of Aggression",
-        "url": "https://open.spotify.com/album/3hzikMQlzvcMXkHIzs2ktc"
-      },
-      "artists": [
-        {
-          "name": "Onslaught",
-          "url": "https://open.spotify.com/artist/71lhIVHJ24x9hEcwFSWuOf"
-        }
-      ],
-      "duration_ms": 114066,
-      "name": "Thermonuclear Devastation of the Planet Earth - 2025 Re-Recording",
-      "url": "https://open.spotify.com/track/2kqom2pStJSTXDvKtAGnIi"
-    },
-    {
-      "added_at": "2026-02-06 16:07:07",
-      "album": {
-        "name": "Deep Cuts & Shallow Graves",
-        "url": "https://open.spotify.com/album/3US4p7WnEXUyu6Yk2rJHmS"
-      },
-      "artists": [
-        {
-          "name": "Bewitcher",
-          "url": "https://open.spotify.com/artist/3uqoS4269hIwo4DzfT15Wi"
-        }
-      ],
-      "duration_ms": 230066,
-      "name": "Our Lady of Speed",
-      "url": "https://open.spotify.com/track/6IyY9BnIAP6Dkh52TxuQ6Z"
-    },
-    {
-      "added_at": "2026-02-06 16:07:07",
-      "album": {
         "name": "Recycled Hate",
         "url": "https://open.spotify.com/album/4i8j5yuwU0ytacVJnUujp7"
       },
@@ -3099,22 +3067,6 @@
       "duration_ms": 205541,
       "name": "Recycled Hate",
       "url": "https://open.spotify.com/track/35a7t2h5N2ewK9r18l8S0k"
-    },
-    {
-      "added_at": "2026-02-06 16:07:07",
-      "album": {
-        "name": "Casket",
-        "url": "https://open.spotify.com/album/2LxTOI2LPiX0wvhwbbVNyS"
-      },
-      "artists": [
-        {
-          "name": "Enforced",
-          "url": "https://open.spotify.com/artist/7vZV2UPiXQMVesiAxQmvBp"
-        }
-      ],
-      "duration_ms": 113870,
-      "name": "Casket",
-      "url": "https://open.spotify.com/track/70sPsaQWdRZGbSyaOkkDIo"
     },
     {
       "added_at": "2026-02-06 16:07:07",
@@ -3135,18 +3087,50 @@
     {
       "added_at": "2026-02-06 16:07:07",
       "album": {
-        "name": "Blood and Rust",
-        "url": "https://open.spotify.com/album/39R2zltrOrcCIfYZs8zBVk"
+        "name": "Origins Of Aggression",
+        "url": "https://open.spotify.com/album/3hzikMQlzvcMXkHIzs2ktc"
       },
       "artists": [
         {
-          "name": "Enquire Within",
-          "url": "https://open.spotify.com/artist/0WaZXHni547zjiFP5Ih2El"
+          "name": "Onslaught",
+          "url": "https://open.spotify.com/artist/71lhIVHJ24x9hEcwFSWuOf"
         }
       ],
-      "duration_ms": 261293,
-      "name": "Blood and Rust",
-      "url": "https://open.spotify.com/track/4XAMCbIYgACsANJbkTUuHC"
+      "duration_ms": 114066,
+      "name": "Thermonuclear Devastation of the Planet Earth - 2025 Re-Recording",
+      "url": "https://open.spotify.com/track/2kqom2pStJSTXDvKtAGnIi"
+    },
+    {
+      "added_at": "2026-02-06 16:07:07",
+      "album": {
+        "name": "Casket",
+        "url": "https://open.spotify.com/album/2LxTOI2LPiX0wvhwbbVNyS"
+      },
+      "artists": [
+        {
+          "name": "Enforced",
+          "url": "https://open.spotify.com/artist/7vZV2UPiXQMVesiAxQmvBp"
+        }
+      ],
+      "duration_ms": 113870,
+      "name": "Casket",
+      "url": "https://open.spotify.com/track/70sPsaQWdRZGbSyaOkkDIo"
+    },
+    {
+      "added_at": "2026-02-06 16:07:07",
+      "album": {
+        "name": "Deep Cuts & Shallow Graves",
+        "url": "https://open.spotify.com/album/3US4p7WnEXUyu6Yk2rJHmS"
+      },
+      "artists": [
+        {
+          "name": "Bewitcher",
+          "url": "https://open.spotify.com/artist/3uqoS4269hIwo4DzfT15Wi"
+        }
+      ],
+      "duration_ms": 230066,
+      "name": "Our Lady of Speed",
+      "url": "https://open.spotify.com/track/6IyY9BnIAP6Dkh52TxuQ6Z"
     },
     {
       "added_at": "2026-02-06 16:07:07",
@@ -3163,6 +3147,22 @@
       "duration_ms": 302266,
       "name": "Glock 'n' Roll",
       "url": "https://open.spotify.com/track/4Uc5URdSRMGfPLBRWg5lY0"
+    },
+    {
+      "added_at": "2026-02-06 16:07:07",
+      "album": {
+        "name": "Blood and Rust",
+        "url": "https://open.spotify.com/album/39R2zltrOrcCIfYZs8zBVk"
+      },
+      "artists": [
+        {
+          "name": "Enquire Within",
+          "url": "https://open.spotify.com/artist/0WaZXHni547zjiFP5Ih2El"
+        }
+      ],
+      "duration_ms": 261293,
+      "name": "Blood and Rust",
+      "url": "https://open.spotify.com/track/4XAMCbIYgACsANJbkTUuHC"
     },
     {
       "added_at": "2026-02-06 16:07:07",
@@ -3215,22 +3215,6 @@
     {
       "added_at": "2026-02-06 16:07:07",
       "album": {
-        "name": "Maze of the Mind",
-        "url": "https://open.spotify.com/album/58Mk3M4fY8aG2kFImtQTAA"
-      },
-      "artists": [
-        {
-          "name": "Battlecreek",
-          "url": "https://open.spotify.com/artist/2wUKcOuW5xBpCKxnWOoxnI"
-        }
-      ],
-      "duration_ms": 314613,
-      "name": "Implosion of the Sun",
-      "url": "https://open.spotify.com/track/60Ywfl0cCvIK4fMoSl0Wci"
-    },
-    {
-      "added_at": "2026-02-06 16:07:07",
-      "album": {
         "name": "Friendly Fire",
         "url": "https://open.spotify.com/album/3ee6hHayuMEKTFgx561n7R"
       },
@@ -3243,6 +3227,22 @@
       "duration_ms": 216786,
       "name": "Friendly Fire",
       "url": "https://open.spotify.com/track/0k2A0pdiTyiGoO60sRU1Zp"
+    },
+    {
+      "added_at": "2026-02-06 16:07:07",
+      "album": {
+        "name": "Maze of the Mind",
+        "url": "https://open.spotify.com/album/58Mk3M4fY8aG2kFImtQTAA"
+      },
+      "artists": [
+        {
+          "name": "Battlecreek",
+          "url": "https://open.spotify.com/artist/2wUKcOuW5xBpCKxnWOoxnI"
+        }
+      ],
+      "duration_ms": 314613,
+      "name": "Implosion of the Sun",
+      "url": "https://open.spotify.com/track/60Ywfl0cCvIK4fMoSl0Wci"
     }
   ],
   "unique_name": "Thrashers",

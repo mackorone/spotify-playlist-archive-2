@@ -1,12 +1,12 @@
 {
   "description": "This is Gustavo Santaolalla. The essential tracks, all in one playlist.",
-  "num_followers": 23776,
+  "num_followers": 23778,
   "original_name": "This Is Gustavo Santaolalla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adg9gAAAAADT333Q7eDgdPr6fM5OGCgQ",
+  "snapshot_id": "admPAAAAAAD30RximCnft92l4H3jetMr",
   "tracks": [
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
         }
       ],
-      "duration_ms": 167066,
-      "name": "The Path (A New Beginning)",
-      "url": "https://open.spotify.com/track/1hdDnQRPinE8hxYhW3uy6u"
+      "duration_ms": 187853,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/5PvWM8RrfJ1vNBoRHviWMB"
     },
     {
       "added_at": null,
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
         }
       ],
-      "duration_ms": 187853,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/5PvWM8RrfJ1vNBoRHviWMB"
+      "duration_ms": 167066,
+      "name": "The Path (A New Beginning)",
+      "url": "https://open.spotify.com/track/1hdDnQRPinE8hxYhW3uy6u"
     },
     {
       "added_at": null,
@@ -703,22 +703,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
-        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+        "name": "Camino",
+        "url": "https://open.spotify.com/album/6ZYBjNB7SqYvsbAs9F78CN"
       },
       "artists": [
         {
           "name": "Gustavo Santaolalla",
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
-        },
-        {
-          "name": "Juan Luqui",
-          "url": "https://open.spotify.com/artist/6lt8CZydFV47oahQc38LL5"
         }
       ],
-      "duration_ms": 86757,
-      "name": "Bravery",
-      "url": "https://open.spotify.com/track/52vx8NiPyDTV8HjTqcdPGl"
+      "duration_ms": 101100,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/5Uz25QNtRcdOKZhqkpATne"
     },
     {
       "added_at": null,
@@ -739,18 +735,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Camino",
-        "url": "https://open.spotify.com/album/6ZYBjNB7SqYvsbAs9F78CN"
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
       },
       "artists": [
         {
           "name": "Gustavo Santaolalla",
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Juan Luqui",
+          "url": "https://open.spotify.com/artist/6lt8CZydFV47oahQc38LL5"
         }
       ],
-      "duration_ms": 101100,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/5Uz25QNtRcdOKZhqkpATne"
+      "duration_ms": 86757,
+      "name": "Bravery",
+      "url": "https://open.spotify.com/track/52vx8NiPyDTV8HjTqcdPGl"
     },
     {
       "added_at": null,
@@ -771,8 +771,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
-        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+        "name": "Camino",
+        "url": "https://open.spotify.com/album/6ZYBjNB7SqYvsbAs9F78CN"
       },
       "artists": [
         {
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
         }
       ],
-      "duration_ms": 108425,
-      "name": "Resolve",
-      "url": "https://open.spotify.com/track/1WxUcACrb7ZM2UcIRRYNFZ"
+      "duration_ms": 222834,
+      "name": "Seguir",
+      "url": "https://open.spotify.com/track/3vBLmHQcr0z5D7ObTCqfVu"
     },
     {
       "added_at": null,
@@ -803,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Camino",
-        "url": "https://open.spotify.com/album/6ZYBjNB7SqYvsbAs9F78CN"
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
       },
       "artists": [
         {
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
         }
       ],
-      "duration_ms": 222834,
-      "name": "Seguir",
-      "url": "https://open.spotify.com/track/3vBLmHQcr0z5D7ObTCqfVu"
+      "duration_ms": 108425,
+      "name": "Resolve",
+      "url": "https://open.spotify.com/track/1WxUcACrb7ZM2UcIRRYNFZ"
     },
     {
       "added_at": null,
@@ -831,22 +831,6 @@
       "duration_ms": 202906,
       "name": "La Noche Ya Es D\u00eda",
       "url": "https://open.spotify.com/track/0BL1NoWM5pReYf3Gb3BiuJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
-        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Santaolalla",
-          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
-        }
-      ],
-      "duration_ms": 50077,
-      "name": "The Settlement",
-      "url": "https://open.spotify.com/track/7naQN2rKMnye6uuzV2L0wh"
     },
     {
       "added_at": null,
@@ -903,6 +887,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "duration_ms": 50077,
+      "name": "The Settlement",
+      "url": "https://open.spotify.com/track/7naQN2rKMnye6uuzV2L0wh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Brokeback Mountain Soundtrack",
         "url": "https://open.spotify.com/album/6NGMvqRZ7JZUnBrU4qoG3N"
       },
@@ -915,22 +915,6 @@
       "duration_ms": 82106,
       "name": "Riding Horses",
       "url": "https://open.spotify.com/track/6ZtSWKRRUwuivdyZAhdQlp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
-        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Santaolalla",
-          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
-        }
-      ],
-      "duration_ms": 42197,
-      "name": "Forsaken",
-      "url": "https://open.spotify.com/track/632EUtBelECssjKp9ZX1tL"
     },
     {
       "added_at": null,
@@ -963,6 +947,22 @@
       "duration_ms": 158093,
       "name": "Sendero",
       "url": "https://open.spotify.com/track/6iBd7Zeavv6b5bJgNk9m5h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "duration_ms": 42197,
+      "name": "Forsaken",
+      "url": "https://open.spotify.com/track/632EUtBelECssjKp9ZX1tL"
     },
     {
       "added_at": null,

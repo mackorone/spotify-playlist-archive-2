@@ -1,12 +1,12 @@
 {
   "description": "This is PARTYNEXTDOOR. The essential tracks, all in one playlist.",
-  "num_followers": 171324,
+  "num_followers": 171381,
   "original_name": "This Is PARTYNEXTDOOR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adg9gAAAAABmEq5kibFclsVBijj9F7ik",
+  "snapshot_id": "admPAAAAAACnFWKUskyKM/SkMkcZOHBO",
   "tracks": [
     {
       "added_at": null,
@@ -835,18 +835,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "COLOURS",
-        "url": "https://open.spotify.com/album/0318GAH0AN431KMF6jhFdz"
+        "name": "ye",
+        "url": "https://open.spotify.com/album/2Ek1q2haOnxVqhvVKqMvJe"
       },
       "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
         {
           "name": "PARTYNEXTDOOR",
           "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
         }
       ],
-      "duration_ms": 303030,
-      "name": "PEACE OF MIND",
-      "url": "https://open.spotify.com/track/3FA8JpHhWwDXkroqRFLLFe"
+      "duration_ms": 205546,
+      "name": "Wouldn't Leave",
+      "url": "https://open.spotify.com/track/1nGoy0cEj0extAwXYNYTWd"
     },
     {
       "added_at": null,
@@ -887,22 +891,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "ye",
-        "url": "https://open.spotify.com/album/2Ek1q2haOnxVqhvVKqMvJe"
+        "name": "COLOURS",
+        "url": "https://open.spotify.com/album/0318GAH0AN431KMF6jhFdz"
       },
       "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
         {
           "name": "PARTYNEXTDOOR",
           "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
         }
       ],
-      "duration_ms": 205546,
-      "name": "Wouldn't Leave",
-      "url": "https://open.spotify.com/track/1nGoy0cEj0extAwXYNYTWd"
+      "duration_ms": 303030,
+      "name": "PEACE OF MIND",
+      "url": "https://open.spotify.com/track/3FA8JpHhWwDXkroqRFLLFe"
     }
   ],
   "unique_name": "This Is PARTYNEXTDOOR",

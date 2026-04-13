@@ -4,7 +4,7 @@
 
 > This is Miles Davis\. The essential tracks, all in one playlist.
 
-61 songs - 4 hr 56 min
+62 songs - 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [I Thought About You \(feat\. Hank Mobley, Wynton Kelly, Paul Chambers & Jimmy Cobb\)](https://open.spotify.com/track/63JCF21fkQzPsC2fBr9TMD) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv), [Wynton Kelly](https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG), [Jimmy Cobb](https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ) | [Someday My Prince Will Come](https://open.spotify.com/album/68A4o4tkirJRFYbO9Ag0YZ) | 4:52 | 2025-07-20 |  |
 | [I Waited For You](https://open.spotify.com/track/5h7ww9vWMlfYJ2cPhmt9pz) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Volume 2](https://open.spotify.com/album/01EFyT5MpC3LYaOzws2Yjv) | 3:29 | 2025-07-20 |  |
 | [Intoit](https://open.spotify.com/track/1zrYb4Y8KowyXmbzoHGh7L) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Conception](https://open.spotify.com/album/6Y0n5LeEbECbMcPxS1fyJe) | 3:19 | 2025-07-20 |  |
-| [It Never Entered My Mind](https://open.spotify.com/track/4ZX7fXhm6iwP7nABz1tcFB) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [The Blue Note And Capitol Recordings](https://open.spotify.com/album/2ZN3YPrCFvHJ9dTni1jBUz) | 4:02 | 2025-07-20 |  |
+| [It Never Entered My Mind](https://open.spotify.com/track/4ZX7fXhm6iwP7nABz1tcFB) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [The Blue Note And Capitol Recordings](https://open.spotify.com/album/2ZN3YPrCFvHJ9dTni1jBUz) | 4:02 | 2025-07-20 | 2026-04-13 |
+| [It Never Entered My Mind \- From The Album Workin' With The Miles Davis Quintet](https://open.spotify.com/track/6AUn7hXlXsNW6Qf5i39JyZ) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [INTEGRAL MILES DAVIS 1951\-1956](https://open.spotify.com/album/3JUxN1xKhdG2zKHqbGkNRH) | 5:23 | 2026-04-13 |  |
 | [Jeru](https://open.spotify.com/track/7o3lr6ptQ4qAP4uUl81zG1) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Birth Of The Cool](https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf) | 3:13 | 2025-07-20 |  |
 | [Just Squeeze Me \- Remastered 2025](https://open.spotify.com/track/139umzmd3h9DgkK9E5737Z) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Miles '55 \(Remastered 2025\)](https://open.spotify.com/album/0YO1jsKIjc53uqC2AShPAI) | 7:28 | 2026-03-10 |  |
 | [L'assassinat de Carala \- Bande originale du film "Ascenseur pour l'échafaud"](https://open.spotify.com/track/6kAg8FCndlSgVWWm0mrngy) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Ascenseur pour l'échafaud](https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2) | 2:09 | 2025-07-20 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is PinkPantheress. The essential tracks, all in one playlist.",
-  "num_followers": 91648,
+  "num_followers": 91844,
   "original_name": "This Is PinkPantheress",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adg9gAAAAABiyqJvp7rhTy4qBwZ0iLd8",
+  "snapshot_id": "admPAAAAAAChUsi38+IOS7/9NTj20ojC",
   "tracks": [
     {
       "added_at": null,
@@ -451,26 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EUSEXUA Afterglow",
-        "url": "https://open.spotify.com/album/0v1sQbOCM2xDdIYA0XYapM"
-      },
-      "artists": [
-        {
-          "name": "FKA twigs",
-          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
-        },
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        }
-      ],
-      "duration_ms": 245826,
-      "name": "Wild And Alone (feat. PinkPantheress)",
-      "url": "https://open.spotify.com/track/4AvachE4yZUjWBBub9t8aT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CRAZY (feat. PinkPantheress)",
         "url": "https://open.spotify.com/album/6bZk9oecizspP2MeHIhKYL"
       },
@@ -487,6 +467,26 @@
       "duration_ms": 168000,
       "name": "CRAZY (feat. PinkPantheress)",
       "url": "https://open.spotify.com/track/3lLH0FlC2pYCeZEf05zKQn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EUSEXUA Afterglow",
+        "url": "https://open.spotify.com/album/0v1sQbOCM2xDdIYA0XYapM"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        },
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "duration_ms": 245826,
+      "name": "Wild And Alone (feat. PinkPantheress)",
+      "url": "https://open.spotify.com/track/4AvachE4yZUjWBBub9t8aT"
     },
     {
       "added_at": null,
@@ -563,26 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beatopia",
-        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        },
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        }
-      ],
-      "duration_ms": 228466,
-      "name": "tinkerbell is overrated feat. PinkPantheress",
-      "url": "https://open.spotify.com/track/2pm4A5nkkA8Cf4NcFEUzVE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Where you are (feat. WILLOW)",
         "url": "https://open.spotify.com/album/1wFiFlS50SnyKPAIcBzAQN"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 153706,
       "name": "Where You Are (feat. WILLOW)",
       "url": "https://open.spotify.com/track/4icnlpI5IbZcRO9mpixVVW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beatopia",
+        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        },
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "duration_ms": 228466,
+      "name": "tinkerbell is overrated feat. PinkPantheress",
+      "url": "https://open.spotify.com/track/2pm4A5nkkA8Cf4NcFEUzVE"
     },
     {
       "added_at": null,

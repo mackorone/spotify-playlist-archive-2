@@ -1,6 +1,6 @@
 {
   "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: Anabel Rose ",
-  "num_followers": 111311,
+  "num_followers": 111315,
   "original_name": "Alt\u00e9 Cruise",
   "owner": {
     "name": "Spotify",
@@ -907,26 +907,6 @@
     {
       "added_at": "2026-04-10 00:01:58",
       "album": {
-        "name": "Nana",
-        "url": "https://open.spotify.com/album/1tFYuZ0v7O2x34L0XlKEMC"
-      },
-      "artists": [
-        {
-          "name": "Thee Diane",
-          "url": "https://open.spotify.com/artist/7DcE4JnEVxd3ZHlA5TVBK5"
-        },
-        {
-          "name": "Sabrina Bellaouel",
-          "url": "https://open.spotify.com/artist/1TI3pJmtWgehlVMJzKJaJB"
-        }
-      ],
-      "duration_ms": 193453,
-      "name": "Nana",
-      "url": "https://open.spotify.com/track/4jZb5ARAPY47dZOr8nqIJa"
-    },
-    {
-      "added_at": "2026-04-10 00:01:58",
-      "album": {
         "name": "Rudia",
         "url": "https://open.spotify.com/album/7o3R7th50E1lL9gmmOfMJk"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 200676,
       "name": "Rudia",
       "url": "https://open.spotify.com/track/5i1nYNLXTFnYWpYeo9ueTf"
+    },
+    {
+      "added_at": "2026-04-10 00:01:58",
+      "album": {
+        "name": "Nana",
+        "url": "https://open.spotify.com/album/1tFYuZ0v7O2x34L0XlKEMC"
+      },
+      "artists": [
+        {
+          "name": "Thee Diane",
+          "url": "https://open.spotify.com/artist/7DcE4JnEVxd3ZHlA5TVBK5"
+        },
+        {
+          "name": "Sabrina Bellaouel",
+          "url": "https://open.spotify.com/artist/1TI3pJmtWgehlVMJzKJaJB"
+        }
+      ],
+      "duration_ms": 193453,
+      "name": "Nana",
+      "url": "https://open.spotify.com/track/4jZb5ARAPY47dZOr8nqIJa"
     },
     {
       "added_at": "2026-04-10 00:01:58",
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2026-04-10 00:01:58",
       "album": {
-        "name": "RUSH",
-        "url": "https://open.spotify.com/album/2LQyWkXGeGOuLoqtSegnwX"
-      },
-      "artists": [
-        {
-          "name": "Sam Opoku",
-          "url": "https://open.spotify.com/artist/5NDzGl3leOCXxfUcyQC0sv"
-        },
-        {
-          "name": "Hunter Drake",
-          "url": "https://open.spotify.com/artist/6CrFflMdudrIwHQIeQnxe8"
-        }
-      ],
-      "duration_ms": 253714,
-      "name": "RUSH",
-      "url": "https://open.spotify.com/track/1ggt5hR3JoPr8xeggK5z7s"
-    },
-    {
-      "added_at": "2026-04-10 00:01:58",
-      "album": {
         "name": "4 DA PAIN",
         "url": "https://open.spotify.com/album/0TM6jciackri09qoY3SV9s"
       },
@@ -1311,6 +1291,26 @@
       "duration_ms": 155744,
       "name": "Shigege",
       "url": "https://open.spotify.com/track/4XEISBCIAK72Qcfi0gDftu"
+    },
+    {
+      "added_at": "2026-04-10 00:01:58",
+      "album": {
+        "name": "RUSH",
+        "url": "https://open.spotify.com/album/2LQyWkXGeGOuLoqtSegnwX"
+      },
+      "artists": [
+        {
+          "name": "Sam Opoku",
+          "url": "https://open.spotify.com/artist/5NDzGl3leOCXxfUcyQC0sv"
+        },
+        {
+          "name": "Hunter Drake",
+          "url": "https://open.spotify.com/artist/6CrFflMdudrIwHQIeQnxe8"
+        }
+      ],
+      "duration_ms": 253714,
+      "name": "RUSH",
+      "url": "https://open.spotify.com/track/1ggt5hR3JoPr8xeggK5z7s"
     },
     {
       "added_at": "2026-04-10 00:01:58",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-04-10 00:01:58",
       "album": {
-        "name": "Catch Me If U Can",
-        "url": "https://open.spotify.com/album/5GyQ7PbAdXKUOpMdd8bCBo"
-      },
-      "artists": [
-        {
-          "name": "Mellissa",
-          "url": "https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW"
-        }
-      ],
-      "duration_ms": 202812,
-      "name": "Catch Me If U Can",
-      "url": "https://open.spotify.com/track/2qVE04XUbgnn76GmUnz3Ix"
-    },
-    {
-      "added_at": "2026-04-10 00:01:58",
-      "album": {
         "name": "Designer Baby",
         "url": "https://open.spotify.com/album/1Ke1d51iQOvKKqmQ4O3Z1W"
       },
@@ -1411,6 +1395,46 @@
       "duration_ms": 142138,
       "name": "Designer Baby",
       "url": "https://open.spotify.com/track/6N24qh0lNjPDph0rdWDxKK"
+    },
+    {
+      "added_at": "2026-04-10 00:01:58",
+      "album": {
+        "name": "Catch Me If U Can",
+        "url": "https://open.spotify.com/album/5GyQ7PbAdXKUOpMdd8bCBo"
+      },
+      "artists": [
+        {
+          "name": "Mellissa",
+          "url": "https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW"
+        }
+      ],
+      "duration_ms": 202812,
+      "name": "Catch Me If U Can",
+      "url": "https://open.spotify.com/track/2qVE04XUbgnn76GmUnz3Ix"
+    },
+    {
+      "added_at": "2026-04-10 00:01:58",
+      "album": {
+        "name": "If You Try",
+        "url": "https://open.spotify.com/album/0iF3xgiDeR9hqRi3c62NdQ"
+      },
+      "artists": [
+        {
+          "name": "Ogeezy",
+          "url": "https://open.spotify.com/artist/0SatsvdVxN5iPo2VTGPuVY"
+        },
+        {
+          "name": "Soundlykbb",
+          "url": "https://open.spotify.com/artist/2izHnGuv9KzbPbfX6KsoTG"
+        },
+        {
+          "name": "Joka",
+          "url": "https://open.spotify.com/artist/7umpHJB8guUwgjaP2ZryKw"
+        }
+      ],
+      "duration_ms": 176299,
+      "name": "If You Try",
+      "url": "https://open.spotify.com/track/5vDaZI2RvpevJq7xUWkKSI"
     },
     {
       "added_at": "2026-04-10 00:01:58",
@@ -1455,22 +1479,6 @@
     {
       "added_at": "2026-04-10 00:01:58",
       "album": {
-        "name": "Candies",
-        "url": "https://open.spotify.com/album/2rgFM5NLjLSEbp4CjUUFzR"
-      },
-      "artists": [
-        {
-          "name": "Sante SVM",
-          "url": "https://open.spotify.com/artist/7azRGJNhemWWnc0pN4Q0w1"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Candies",
-      "url": "https://open.spotify.com/track/4PgMQUAzazUkjLu8QwujNG"
-    },
-    {
-      "added_at": "2026-04-10 00:01:58",
-      "album": {
         "name": "Pray for the Kids",
         "url": "https://open.spotify.com/album/6YK2EvLKE64QQjYjHGtHIS"
       },
@@ -1487,22 +1495,18 @@
     {
       "added_at": "2026-04-10 00:01:58",
       "album": {
-        "name": "LAGOS",
-        "url": "https://open.spotify.com/album/0kOF0DfPNby1aHYAIi4FXn"
+        "name": "Candies",
+        "url": "https://open.spotify.com/album/2rgFM5NLjLSEbp4CjUUFzR"
       },
       "artists": [
         {
-          "name": "SuperJazzClub",
-          "url": "https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp"
-        },
-        {
-          "name": "TR1GGA",
-          "url": "https://open.spotify.com/artist/4VQFYrDf3IMmLPbQOF7Ve3"
+          "name": "Sante SVM",
+          "url": "https://open.spotify.com/artist/7azRGJNhemWWnc0pN4Q0w1"
         }
       ],
-      "duration_ms": 180000,
-      "name": "LAGOS",
-      "url": "https://open.spotify.com/track/3H5ua10iU8NTD93zawcnVo"
+      "duration_ms": 168000,
+      "name": "Candies",
+      "url": "https://open.spotify.com/track/4PgMQUAzazUkjLu8QwujNG"
     }
   ],
   "unique_name": "Alt\u00e9 Cruise",

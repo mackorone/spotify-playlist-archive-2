@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7r3u5HAAB4A.md) - [plain]
 
 > A melting pot of Caribbean culture\. Cover: 450 & Weekday
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,982 likes - 135 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,038 likes - 135 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

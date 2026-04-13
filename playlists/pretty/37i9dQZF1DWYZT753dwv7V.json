@@ -1,6 +1,6 @@
 {
   "description": "I pi\u00f9 grandi successi della storia del festival \ud83c\udfc6 ",
-  "num_followers": 103258,
+  "num_followers": 103259,
   "original_name": "Sanremo: La Storia",
   "owner": {
     "name": "Spotify",
@@ -599,22 +599,6 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "Le Robe Che Ha Detto Adriano",
-        "url": "https://open.spotify.com/album/7zgNDaFDZCNcObGA6JEyte"
-      },
-      "artists": [
-        {
-          "name": "Adriano Celentano",
-          "url": "https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV"
-        }
-      ],
-      "duration_ms": 255266,
-      "name": "Il Ragazzo Della Via Gluck",
-      "url": "https://open.spotify.com/track/11MoOaSoxLOvryOh6Ke5zK"
-    },
-    {
-      "added_at": "2026-01-25 23:01:06",
-      "album": {
         "name": "Miss Nostalgia",
         "url": "https://open.spotify.com/album/6W5jqg5IfSVX0KeT6nG0TH"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 190586,
       "name": "Straordinario",
       "url": "https://open.spotify.com/track/0UILeV4tZ5W11JngwEY0gD"
+    },
+    {
+      "added_at": "2026-01-25 23:01:06",
+      "album": {
+        "name": "Le Robe Che Ha Detto Adriano",
+        "url": "https://open.spotify.com/album/7zgNDaFDZCNcObGA6JEyte"
+      },
+      "artists": [
+        {
+          "name": "Adriano Celentano",
+          "url": "https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV"
+        }
+      ],
+      "duration_ms": 255266,
+      "name": "Il Ragazzo Della Via Gluck",
+      "url": "https://open.spotify.com/track/11MoOaSoxLOvryOh6Ke5zK"
     },
     {
       "added_at": "2026-01-25 23:01:06",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "Fai rumore",
-        "url": "https://open.spotify.com/album/3aXHRHTglQaQ1KGtVZlbwQ"
-      },
-      "artists": [
-        {
-          "name": "Diodato",
-          "url": "https://open.spotify.com/artist/2QWrpLRDeBD1NwWAsytBRi"
-        }
-      ],
-      "duration_ms": 216140,
-      "name": "Fai rumore",
-      "url": "https://open.spotify.com/track/5OaBhC8NjdqDhHF9I6r9lS"
-    },
-    {
-      "added_at": "2026-01-25 23:01:06",
-      "album": {
         "name": "Eros 30 (Deluxe Version)",
         "url": "https://open.spotify.com/album/6vCxp7Tyue7CRCd0FOaCrz"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 223520,
       "name": "Terra promessa",
       "url": "https://open.spotify.com/track/7bcHU50mENL3al5DhEJc7J"
+    },
+    {
+      "added_at": "2026-01-25 23:01:06",
+      "album": {
+        "name": "Fai rumore",
+        "url": "https://open.spotify.com/album/3aXHRHTglQaQ1KGtVZlbwQ"
+      },
+      "artists": [
+        {
+          "name": "Diodato",
+          "url": "https://open.spotify.com/artist/2QWrpLRDeBD1NwWAsytBRi"
+        }
+      ],
+      "duration_ms": 216140,
+      "name": "Fai rumore",
+      "url": "https://open.spotify.com/track/5OaBhC8NjdqDhHF9I6r9lS"
     },
     {
       "added_at": "2026-01-25 23:01:06",
@@ -991,22 +991,6 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "My Mamma",
-        "url": "https://open.spotify.com/album/6HDpIK6j126R0D5xfbuIDx"
-      },
-      "artists": [
-        {
-          "name": "La rappresentante di lista",
-          "url": "https://open.spotify.com/artist/0YmQyGKpZgGSDxsC8iEGQU"
-        }
-      ],
-      "duration_ms": 184311,
-      "name": "Ciao Ciao",
-      "url": "https://open.spotify.com/track/4nY63p14MsBDJXRRbhFpas"
-    },
-    {
-      "added_at": "2026-01-25 23:01:06",
-      "album": {
         "name": "Riccardo Del Turco",
         "url": "https://open.spotify.com/album/4yn8guJVqtimO17DbpdsEO"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 213173,
       "name": "Cosa hai messo nel caff\u00e8?",
       "url": "https://open.spotify.com/track/2BTvcx218RPaIXyH5Gz3xa"
+    },
+    {
+      "added_at": "2026-01-25 23:01:06",
+      "album": {
+        "name": "My Mamma",
+        "url": "https://open.spotify.com/album/6HDpIK6j126R0D5xfbuIDx"
+      },
+      "artists": [
+        {
+          "name": "La rappresentante di lista",
+          "url": "https://open.spotify.com/artist/0YmQyGKpZgGSDxsC8iEGQU"
+        }
+      ],
+      "duration_ms": 184311,
+      "name": "Ciao Ciao",
+      "url": "https://open.spotify.com/track/4nY63p14MsBDJXRRbhFpas"
     },
     {
       "added_at": "2026-01-25 23:01:06",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "Portami via",
-        "url": "https://open.spotify.com/album/5OhzRRXrmJVhiSfLY8rxXP"
-      },
-      "artists": [
-        {
-          "name": "Fabrizio Moro",
-          "url": "https://open.spotify.com/artist/3ebOqZZsLCDAkLS6QdI8cc"
-        }
-      ],
-      "duration_ms": 196532,
-      "name": "Portami via",
-      "url": "https://open.spotify.com/track/6nX309LzbDzBrSbimYfSKe"
-    },
-    {
-      "added_at": "2026-01-25 23:01:06",
-      "album": {
         "name": "Tutto Al Bano",
         "url": "https://open.spotify.com/album/6qafxVsxR0Cotcny5z1cdk"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 226439,
       "name": "Nostalgia canaglia",
       "url": "https://open.spotify.com/track/14K0I2XngCqxazt1EfJkZj"
+    },
+    {
+      "added_at": "2026-01-25 23:01:06",
+      "album": {
+        "name": "Portami via",
+        "url": "https://open.spotify.com/album/5OhzRRXrmJVhiSfLY8rxXP"
+      },
+      "artists": [
+        {
+          "name": "Fabrizio Moro",
+          "url": "https://open.spotify.com/artist/3ebOqZZsLCDAkLS6QdI8cc"
+        }
+      ],
+      "duration_ms": 196532,
+      "name": "Portami via",
+      "url": "https://open.spotify.com/track/6nX309LzbDzBrSbimYfSKe"
     },
     {
       "added_at": "2026-01-25 23:01:06",

@@ -1,12 +1,12 @@
 {
   "description": "This is Danna Paola. The essential tracks, all in one playlist.",
-  "num_followers": 235894,
+  "num_followers": 235899,
   "original_name": "This Is Danna Paola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adg9gAAAAAAy6fcczpQVm99h4aE1Ktzz",
+  "snapshot_id": "admPAAAAAAAojQQM3HupBTYB5yepViQb",
   "tracks": [
     {
       "added_at": null,
@@ -455,26 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sugar Mami",
-        "url": "https://open.spotify.com/album/4CokgfnlUd2OdTB00DKtOV"
-      },
-      "artists": [
-        {
-          "name": "Denise Rosenthal",
-          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
-        },
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 131671,
-      "name": "Sugar Mami",
-      "url": "https://open.spotify.com/track/2cBDzxzjkytWGRggDJbn3g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Don't Go",
         "url": "https://open.spotify.com/album/3m3QK4iaF4yBwce3cKMIpb"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 167495,
       "name": "Don't Go",
       "url": "https://open.spotify.com/track/493DYJ6bdsVtHCpWBQlADr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sugar Mami",
+        "url": "https://open.spotify.com/album/4CokgfnlUd2OdTB00DKtOV"
+      },
+      "artists": [
+        {
+          "name": "Denise Rosenthal",
+          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 131671,
+      "name": "Sugar Mami",
+      "url": "https://open.spotify.com/track/2cBDzxzjkytWGRggDJbn3g"
     },
     {
       "added_at": null,
@@ -671,26 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amy La Ni\u00f1a De La Mochila Azul Vol.1",
-        "url": "https://open.spotify.com/album/2ERfJwem9i66Ax0b1is8Iw"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        },
-        {
-          "name": "Tatiana",
-          "url": "https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0"
-        }
-      ],
-      "duration_ms": 216613,
-      "name": "Azul Como El Cielo",
-      "url": "https://open.spotify.com/track/4VcZEDgmzHll1eKhY8OzyW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rescue Me (From The Original Television Soundtrack Blade Runner Black Lotus)",
         "url": "https://open.spotify.com/album/5by805i64TKLSsy47zjlP0"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 172320,
       "name": "Rescue Me - From The Original Television Soundtrack Blade Runner Black Lotus",
       "url": "https://open.spotify.com/track/6FdTVq8ly0NVSli7Xl9z2p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amy La Ni\u00f1a De La Mochila Azul Vol.1",
+        "url": "https://open.spotify.com/album/2ERfJwem9i66Ax0b1is8Iw"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        },
+        {
+          "name": "Tatiana",
+          "url": "https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0"
+        }
+      ],
+      "duration_ms": 216613,
+      "name": "Azul Como El Cielo",
+      "url": "https://open.spotify.com/track/4VcZEDgmzHll1eKhY8OzyW"
     },
     {
       "added_at": null,

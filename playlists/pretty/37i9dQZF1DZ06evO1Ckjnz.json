@@ -1,12 +1,12 @@
 {
   "description": "This is Rico Nasty. The essential tracks, all in one playlist.",
-  "num_followers": 20124,
+  "num_followers": 20128,
   "original_name": "This Is Rico Nasty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adg9gAAAAAC3JzdOuJ7mcPZ7ETez65Ur",
+  "snapshot_id": "admPAAAAAABbmTUEOM8Xd/9XfK7KjfJX",
   "tracks": [
     {
       "added_at": null,
@@ -531,6 +531,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "None Of It",
+        "url": "https://open.spotify.com/album/7xeloBzihT4ZCf8knxy73f"
+      },
+      "artists": [
+        {
+          "name": "XanMan",
+          "url": "https://open.spotify.com/artist/1cyidXIhLIwg1WAEm7rJQP"
+        },
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "None Of It",
+      "url": "https://open.spotify.com/track/2WCGdTnNiLVbQifzsxL9Qc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LETHAL",
+        "url": "https://open.spotify.com/album/0HkRlQCLTYsr1K5cD33Gr4"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 107800,
+      "name": "WHO WANT IT",
+      "url": "https://open.spotify.com/track/3Qp6UhTS4KO6kGvFgnxpOK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Anger Management",
         "url": "https://open.spotify.com/album/5JbeU5WL1WAGxy1u5fsOmf"
       },
@@ -555,22 +591,6 @@
       "duration_ms": 172240,
       "name": "Big Titties (feat. Baauer and EarthGang)",
       "url": "https://open.spotify.com/track/77lHSh6eoMiKWRxczAPQ1k"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LETHAL",
-        "url": "https://open.spotify.com/album/0HkRlQCLTYsr1K5cD33Gr4"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 107800,
-      "name": "WHO WANT IT",
-      "url": "https://open.spotify.com/track/3Qp6UhTS4KO6kGvFgnxpOK"
     },
     {
       "added_at": null,
@@ -611,6 +631,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "LETHAL",
+        "url": "https://open.spotify.com/album/0HkRlQCLTYsr1K5cD33Gr4"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 136120,
+      "name": "ON THE LOW",
+      "url": "https://open.spotify.com/track/4o5bxjpANU9AXdvoBSietM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Money (feat. Flo Milli)",
         "url": "https://open.spotify.com/album/5u9dBzQdVd9YDblzgtxOlD"
       },
@@ -627,22 +663,6 @@
       "duration_ms": 150652,
       "name": "Money (feat. Flo Milli)",
       "url": "https://open.spotify.com/track/2xo2fUrwrdOruV2zdNtWoP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LETHAL",
-        "url": "https://open.spotify.com/album/0HkRlQCLTYsr1K5cD33Gr4"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 136120,
-      "name": "ON THE LOW",
-      "url": "https://open.spotify.com/track/4o5bxjpANU9AXdvoBSietM"
     },
     {
       "added_at": null,
@@ -687,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sugar Trap 2",
-        "url": "https://open.spotify.com/album/0If7SkCVQTTQh4TYCNxpDt"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 167090,
-      "name": "Poppin",
-      "url": "https://open.spotify.com/track/2EniaQpyAdPbOt6irqXSpN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LETHAL",
         "url": "https://open.spotify.com/album/0HkRlQCLTYsr1K5cD33Gr4"
       },
@@ -715,6 +719,22 @@
       "duration_ms": 102386,
       "name": "GRAVE",
       "url": "https://open.spotify.com/track/7AIqr8LmpHg1dkbQTcLDIA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sugar Trap 2",
+        "url": "https://open.spotify.com/album/0If7SkCVQTTQh4TYCNxpDt"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 167090,
+      "name": "Poppin",
+      "url": "https://open.spotify.com/track/2EniaQpyAdPbOt6irqXSpN"
     },
     {
       "added_at": null,
@@ -751,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nasty",
-        "url": "https://open.spotify.com/album/4RKiTVGT9pCVRnqIkwKWo1"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 91754,
-      "name": "Bitch I'm Nasty",
-      "url": "https://open.spotify.com/track/2xXNa4tR2CronQsZ6OKQtP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LETHAL",
         "url": "https://open.spotify.com/album/0HkRlQCLTYsr1K5cD33Gr4"
       },
@@ -779,6 +783,22 @@
       "duration_ms": 176026,
       "name": "EAT ME!",
       "url": "https://open.spotify.com/track/15kIVlB2dWPQiajwBXTRVk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nasty",
+        "url": "https://open.spotify.com/album/4RKiTVGT9pCVRnqIkwKWo1"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 91754,
+      "name": "Bitch I'm Nasty",
+      "url": "https://open.spotify.com/track/2xXNa4tR2CronQsZ6OKQtP"
     },
     {
       "added_at": null,
@@ -823,26 +843,6 @@
       "duration_ms": 199680,
       "name": "Jealous (feat. Rico Nasty)",
       "url": "https://open.spotify.com/track/0IIn18QlxCeUpLPRaR6a7K"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "None Of It",
-        "url": "https://open.spotify.com/album/7xeloBzihT4ZCf8knxy73f"
-      },
-      "artists": [
-        {
-          "name": "XanMan",
-          "url": "https://open.spotify.com/artist/1cyidXIhLIwg1WAEm7rJQP"
-        },
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "None Of It",
-      "url": "https://open.spotify.com/track/2WCGdTnNiLVbQifzsxL9Qc"
     },
     {
       "added_at": null,

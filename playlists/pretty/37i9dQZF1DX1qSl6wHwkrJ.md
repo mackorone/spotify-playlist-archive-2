@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 
 > Christmas classics from your favourite Blues artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,420 likes - 80 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,418 likes - 80 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 | 35 | [Blue Christmas](https://open.spotify.com/track/28MhtGG2jdxTUYHngKi2vi) | [Bri Bagwell](https://open.spotify.com/artist/62D9vyyzOd1uIny0qRDLAo) | [Red or Green](https://open.spotify.com/album/6URfYXX8miYx4BZv9KpAiZ) | 2:22 |
 | 36 | [Boogie Woogie Santa Claus](https://open.spotify.com/track/27tBqDP2bmQyFGqz0KBbFO) | [Angela Strehli](https://open.spotify.com/artist/3lrwdIWcHi2VyhaiiqNw35) | [An Austin Rhythm And Blues Christmas](https://open.spotify.com/album/5cKkDOdBUqs3PuxZRYdaPx) | 2:26 |
 | 37 | [Christmas Blues](https://open.spotify.com/track/1ZAnNXdkAW8S8Js8xFJaQD) | [Big Joe Williams](https://open.spotify.com/artist/07NzVZ0BHZ0QOOw7nGvCgo) | [Merry Blue Christmas](https://open.spotify.com/album/5GGS6h1rfAOCMaLkGegZhs) | 2:10 |
-| 38 | [Santa Claus, Do You Ever Get The Blues?](https://open.spotify.com/track/5AcudPwgZ7Y7AV2zDEUtFC) | [Roomful Of Blues](https://open.spotify.com/artist/2ngCOxUAUuIwjkl4qYX51L) | [A Blues Christmas](https://open.spotify.com/album/3ZFr62DlxDuO5GLTO8Ci8T) | 3:22 |
-| 39 | [One Day Till Christmas](https://open.spotify.com/track/4lcYwGFhEijTzLREKZ2e9e) | [Willie "Big Eyes" Smith](https://open.spotify.com/artist/17YszgQumE14Qyj0t2IGng), [The Northern Blues Legends](https://open.spotify.com/artist/7DRHyLQgMp82jetXfhYBeR) | [Blues from the Heart](https://open.spotify.com/album/6qUDZFzGzV0Y8r9YhaPKre) | 5:20 |
+| 38 | [One Day Till Christmas](https://open.spotify.com/track/4lcYwGFhEijTzLREKZ2e9e) | [Willie "Big Eyes" Smith](https://open.spotify.com/artist/17YszgQumE14Qyj0t2IGng), [The Northern Blues Legends](https://open.spotify.com/artist/7DRHyLQgMp82jetXfhYBeR) | [Blues from the Heart](https://open.spotify.com/album/6qUDZFzGzV0Y8r9YhaPKre) | 5:20 |
+| 39 | [Santa Claus, Do You Ever Get The Blues?](https://open.spotify.com/track/5AcudPwgZ7Y7AV2zDEUtFC) | [Roomful Of Blues](https://open.spotify.com/artist/2ngCOxUAUuIwjkl4qYX51L) | [A Blues Christmas](https://open.spotify.com/album/3ZFr62DlxDuO5GLTO8Ci8T) | 3:22 |
 | 40 | [The Christmas Song](https://open.spotify.com/track/0CfPJZkCUwH0VKIqA4v7RX) | [Lee Jackson](https://open.spotify.com/artist/09hjYy5xCR1GImFDt40cDD), [The Cadillac Baby Specials](https://open.spotify.com/artist/3mGedlcm5PjkA3Xd5vlUKx) | [Cadillac Baby's Bea & Baby Records Definitive Collection, Vol\. 3](https://open.spotify.com/album/3zGpMiCx2Xu4ErHOzZRvTv) | 2:34 |
 | 41 | [Silent Night](https://open.spotify.com/track/4aLeuS1Gk6pVw5cHgs4AFP) | [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [A Blues Christmas](https://open.spotify.com/album/3ZFr62DlxDuO5GLTO8Ci8T) | 2:41 |
 | 42 | [Christmas Eve Blues](https://open.spotify.com/track/7MO5DrupkGjRlNqANzPBRu) | [Bukka White](https://open.spotify.com/artist/2gSskdDhLQCx3CQd6XKDhp) | [Mississippi Delta Blues Jam In Memphis, Vol\. 2](https://open.spotify.com/album/3ETimRxrple7bSvxQYVhEr) | 5:13 |

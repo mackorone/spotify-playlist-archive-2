@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q7wCXFrkHh.md) - [plain]
 
 > The classic piano recordings in Jazz\. Cover: Oscar Peterson
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,348 likes - 100 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,420 likes - 100 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q7wCXFrkHh.md) - [plain]
 | 40 | [I Can't Give You Anything But Love](https://open.spotify.com/track/04md2B5nmsojIkTSUWff2C) | [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG), [Art Taylor](https://open.spotify.com/artist/3CsHGnB9qK3KYH7xmyGAGX) | [Red Garland's Piano](https://open.spotify.com/album/1Lrt5saApIz6z8dGmyKB7d) | 5:01 |
 | 41 | [Milestones](https://open.spotify.com/track/1FSf2JmNY7qCq5GK8ZB67w) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Waltz For Debby \(Original Jazz Classics Remaster 2010\)](https://open.spotify.com/album/0MjlKhtsyax9HSWNkYaWM2) | 6:32 |
 | 42 | [I'm in a Dancing Mood](https://open.spotify.com/track/3DkdldkTR0pbVYKMg5eXJO) | [Dave Brubeck](https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E) | [Dave Brubeck's Greatest Hits](https://open.spotify.com/album/425dVE44lkA2a0FBI7MGLE) | 2:59 |
-| 43 | [Swahililand](https://open.spotify.com/track/7qwuryqoBBEH56d3iEhIBO) | [Ahmad Jamal](https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O) | [Crystal](https://open.spotify.com/album/61tuvxkgsvrsRQmoMSu6YA) | 4:08 |
-| 44 | [In A Sentimental Mood](https://open.spotify.com/track/484SnsU9yGBsaHh9byM0AU) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Duke Plays Ellington](https://open.spotify.com/album/16DFutmQC0e4V8etsg5ZGG) | 2:32 |
-| 45 | [On Green Dolphin Street](https://open.spotify.com/track/6sq2n7GBZHX3Z7MtdwYrlI) | [Wynton Kelly](https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0) | [Kelly Blue \(Keepnews Collection\)](https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B) | 4:44 |
+| 43 | [In A Sentimental Mood](https://open.spotify.com/track/484SnsU9yGBsaHh9byM0AU) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Duke Plays Ellington](https://open.spotify.com/album/16DFutmQC0e4V8etsg5ZGG) | 2:32 |
+| 44 | [On Green Dolphin Street](https://open.spotify.com/track/6sq2n7GBZHX3Z7MtdwYrlI) | [Wynton Kelly](https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0) | [Kelly Blue \(Keepnews Collection\)](https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B) | 4:44 |
+| 45 | [Swahililand](https://open.spotify.com/track/7qwuryqoBBEH56d3iEhIBO) | [Ahmad Jamal](https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O) | [Crystal](https://open.spotify.com/album/61tuvxkgsvrsRQmoMSu6YA) | 4:08 |
 | 46 | [Looking Up](https://open.spotify.com/track/6i1WORWeJD92fYDhww2wYE) | [Michel Petrucciani](https://open.spotify.com/artist/13kHQ586h4Lm9iwVyS2b3K) | [Music](https://open.spotify.com/album/6TYjyPndfRAuYDTmiYIt2g) | 5:47 |
 | 47 | [Body and Soul](https://open.spotify.com/track/7IAFc5iQti2tzob7Uo7N1Y) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Monk's Dream](https://open.spotify.com/album/5VTlqV8lZH3YspQ1cDcjrL) | 4:28 |
 | 48 | [Armando's Rhumba](https://open.spotify.com/track/4wpZadyjV07oPn5RyHqkRl) | [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq) | [My Spanish Heart](https://open.spotify.com/album/5V1WcC2ldcMBdFwQg0LltV) | 5:19 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q7wCXFrkHh.md) - [plain]
 | 75 | [I'm Your Pal](https://open.spotify.com/track/7FDhbzHunmwye3bx0VHDY5) | [Gary Burton](https://open.spotify.com/artist/4iovNkf44dsELmo3E7XSKX), [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq) | [Crystal Silence](https://open.spotify.com/album/1bvhjpp45aO2i1d7kjbsjh) | 3:58 |
 | 76 | [Moanin'](https://open.spotify.com/track/5U66z6J7VpEA9XV9BpePwh) | [Bobby Timmons](https://open.spotify.com/artist/0xRqtLGIVSzXM9yg2wFMLC), [Sam Jones](https://open.spotify.com/artist/6ArVhrX5WE3fMuiR1D5kLV), [Jimmy Cobb](https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ) | [This Here Is Bobby Timmons / Easy Does It](https://open.spotify.com/album/76cd2lOIpE29vAyewtKd4b) | 5:08 |
 | 77 | [Now He Sings, Now He Sobs](https://open.spotify.com/track/0k1RNOBLz27hIvNaRHqI4D) | [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq) | [Now He Sings, Now He Sobs \(Expanded Edition\)](https://open.spotify.com/album/7wKVcBB5SgqVX3Cj3LPllE) | 7:03 |
-| 78 | [No More Shadows](https://open.spotify.com/track/1cSvJkzOWAyZZKQSWWdNo9) | [Erroll Garner](https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED) | [Nightconcert](https://open.spotify.com/album/784DdGI83hMQqhFsfjwf96) | 5:33 |
-| 79 | [Sophisticated Lady](https://open.spotify.com/track/0eCJ74qKvTcqA3oWzBlzPx) | [Art Tatum](https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq) | [Piano Starts Here](https://open.spotify.com/album/1FCIddh80qKhpueDBsLNfr) | 3:15 |
+| 78 | [Sophisticated Lady](https://open.spotify.com/track/0eCJ74qKvTcqA3oWzBlzPx) | [Art Tatum](https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq) | [Piano Starts Here](https://open.spotify.com/album/1FCIddh80qKhpueDBsLNfr) | 3:15 |
+| 79 | [No More Shadows](https://open.spotify.com/track/1cSvJkzOWAyZZKQSWWdNo9) | [Erroll Garner](https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED) | [Nightconcert](https://open.spotify.com/album/784DdGI83hMQqhFsfjwf96) | 5:33 |
 | 80 | [Theme From "Mr\. Broadway"](https://open.spotify.com/track/0XV5KWGsFVYsZTjK9Jsj5N) | [Dave Brubeck](https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E) | [Jazz Impressions Of New York](https://open.spotify.com/album/595TGZHxJLd3Zwu1Rlz5RH) | 2:27 |
 | 81 | [Two Bass Hit \- Remastered 2001/Rudy Van Gelder Edition](https://open.spotify.com/track/5d0hDDVxMASjFroKwSsOZe) | [Sonny Clark Trio](https://open.spotify.com/artist/7CZmsRaJUmKd1tGyfveLGw) | [Sonny Clark Trio \(Remastered 2001/Rudy Van Gelder Edition\)](https://open.spotify.com/album/0dSFSlppCQph48h0RE52iH) | 3:45 |
 | 82 | [Útviklingssang](https://open.spotify.com/track/4B7XL3W2m7KUCV1KEK0CLD) | [Carla Bley](https://open.spotify.com/artist/4Byg6TGm4z9TEkUDvEJBGO), [Steve Swallow](https://open.spotify.com/artist/6mrjnfLYDl91oh10EIeKPV) | [Duets](https://open.spotify.com/album/5bPiN1Ol27kPEMeL3cwFrG) | 4:38 |

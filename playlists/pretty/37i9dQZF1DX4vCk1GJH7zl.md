@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vCk1GJH7zl.md) - [plain]
 
 > Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Paul McCartney
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,317 likes - 65 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,344 likes - 65 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vCk1GJH7zl.md) - [plain]
 | 28 | [A Noite Toda](https://open.spotify.com/track/41FfVrQ3Nt8BKHMFybQUkl) | [Jambu](https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX) | [MANAUERO \(Deluxe\)](https://open.spotify.com/album/1mTkjgLURoKKK4Wvm1vzbi) | 3:18 |
 | 29 | [Começa Tudo Outra Vez](https://open.spotify.com/track/6h0ASQ97OHyTyY8AfcCfAN) | [Humberto Gessinger](https://open.spotify.com/artist/4A4HpNHrbu2nzPyIGFTaJ5) | [Quatro Cantos de Um Mundo Redondo](https://open.spotify.com/album/5xBXM2fP2SkEEttijLCtGB) | 3:28 |
 | 30 | [Não Diga Nada](https://open.spotify.com/track/1T1xneWDmxbb9rcgB0Svz8) | [Pedro Mariano](https://open.spotify.com/artist/3flF2SJ6De8yPikxEI5bpY), [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v) | [Não Diga Nada](https://open.spotify.com/album/3kf71hYy9zqknjwKGyi2mj) | 4:10 |
-| 31 | [Não Somos Mais](https://open.spotify.com/track/5JroLyVYe3GIijBdxgwPBt) | [Matheus Torres](https://open.spotify.com/artist/6Pl1aDQurlKn3p8SenTiAy) | [Não Somos Mais](https://open.spotify.com/album/04zr2V5S16hd7v2uFJQMmZ) | 4:10 |
-| 32 | [Alquimia](https://open.spotify.com/track/4NmZEzKC42IGwAZAyFoid1) | [Dnaipes](https://open.spotify.com/artist/5M2uhgdUkJclA49HogSCae) | [Alquimia](https://open.spotify.com/album/1Lta0vnybMxH2473GXUPIt) | 3:46 |
+| 31 | [Alquimia](https://open.spotify.com/track/4NmZEzKC42IGwAZAyFoid1) | [Dnaipes](https://open.spotify.com/artist/5M2uhgdUkJclA49HogSCae) | [Alquimia](https://open.spotify.com/album/1Lta0vnybMxH2473GXUPIt) | 3:46 |
+| 32 | [Não Somos Mais](https://open.spotify.com/track/5JroLyVYe3GIijBdxgwPBt) | [Matheus Torres](https://open.spotify.com/artist/6Pl1aDQurlKn3p8SenTiAy) | [Não Somos Mais](https://open.spotify.com/album/04zr2V5S16hd7v2uFJQMmZ) | 4:10 |
 | 33 | [Tela Quente \- Acústico](https://open.spotify.com/track/1PvGWfUNdGceuhwKR5ruha) | [Maglore](https://open.spotify.com/artist/24me6m3bV7l2rnUwaXV0Tj) | [Acústico](https://open.spotify.com/album/62ZewpKcRoXUCdOcSJuWkR) | 3:13 |
 | 34 | [One \- Songs Of Surrender](https://open.spotify.com/track/75afCBeMaRgeOZDe2Eyxrd) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [One \(Songs Of Surrender\)](https://open.spotify.com/album/0PeDmZjgRyVSgqZPTpgwEq) | 3:36 |
 | 35 | [Bleeding Heart \(Acoustic \- Live At Opera de Arame\)](https://open.spotify.com/track/2GmAGzbc0WTre9Ab9bBOnb) | [ANGRA](https://open.spotify.com/artist/7IAXZaLTb6nkJr8RmVPn5y) | [Bleeding Heart \(Acoustic \- Live At Opera de Arame\)](https://open.spotify.com/album/1Ei09raJ2GMEuC01MpnNbO) | 5:39 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vCk1GJH7zl.md) - [plain]
 | 64 | [Na Sua Estante \- Ao Vivo](https://open.spotify.com/track/4GifjoggvmG2sYEGE2PsIu) | [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT), [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [PITTYNANDO – As Suas, As Minhas e As Nossas \(Ao Vivo\)](https://open.spotify.com/album/5GXMquIjfejiBifabM0Tny) | 5:22 |
 | 65 | [Stonehenge \- Live](https://open.spotify.com/track/6BcpYt1509EnqN4TR9CVzw) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Quarto dos Livros \(20 Anos\) \[Live\]](https://open.spotify.com/album/4XQComL0rKCH9NwRf75xH6) | 4:12 |
 
-Snapshot ID: `AAAAAMwWeVm7KCJeIeR/7ztuYGShcGk7`
+Snapshot ID: `AAAAACxvAJt0ij2Ri6ETINYTeLTz7U+P`

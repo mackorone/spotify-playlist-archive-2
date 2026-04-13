@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 
 > <a href="spotify:artist:2xeHjPrS4EnEUIXHV9pkeg">Monika Kruse</a>'s favorite tracks\. Updated regularly\. Curated by Monika Kruse\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,018 likes - 63 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,040 likes - 63 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 | 62 | [Latin Lovers \- 2004 Version Edit](https://open.spotify.com/track/6PKP4qXzVPztw65EHeLS4F) | [Monika Kruse](https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg) | [Latin Lovers \(Joyhauser Remix & Original\)](https://open.spotify.com/album/5owm5X6ySLbMkBrFvExxO9) | 3:46 |
 | 63 | [La Lune](https://open.spotify.com/track/0nPk9rvp09b479plsVgF82) | [Julian Jeweil](https://open.spotify.com/artist/3C046bLxNmvBQyaucinAhf) | [Rituel](https://open.spotify.com/album/2ZZ30t66ftZMpF0HxsJbnX) | 5:19 |
 
-Snapshot ID: `AAAAALK1B05cnlFJ/T5Ph9d35e/l9JFZ`
+Snapshot ID: `AAAAAAPudtNrwJvoyygoAjnrnmtetWnO`

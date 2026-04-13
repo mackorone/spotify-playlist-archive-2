@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 619 likes - 96 songs - 5 hr 35 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 619 likes - 97 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,5 +104,6 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 94 | [Похуй](https://open.spotify.com/track/2dSR6mFSl5JtKsWkh3e6pO) | [LU DI](https://open.spotify.com/artist/5RRBvAv0PQ9trVMrH8X6ZA) | [Похуй](https://open.spotify.com/album/6HAK3Nt64YIMqkyh9ZLvqK) | 3:23 |
 | 95 | [Down and Out](https://open.spotify.com/track/4FijKBMTSLv63uXNh3qM1e) | [White Star Line](https://open.spotify.com/artist/3qDMmbHoQIpMvNuOzyazsh) | [Down and Out](https://open.spotify.com/album/6Hg0NRmmjjjjaBKYqG3nGh) | 3:42 |
 | 96 | [Fetishize Me](https://open.spotify.com/track/7LyMFbtf8aiUgUtZYoXgXb) | [Sarah Hedger](https://open.spotify.com/artist/2CQDj93K4SEEYoQf96TjIy) | [Fetishize Me](https://open.spotify.com/album/79kv9dZL1zwHvcebBXMTnw) | 2:33 |
+| 97 | [Just Let It Go](https://open.spotify.com/track/5lPn1Gsaqo8NO3NpFGgwqJ) | [FLÒRALYN](https://open.spotify.com/artist/2LcgkfAzVOD0qeVCgDAqmy) | [Just Let It Go](https://open.spotify.com/album/50TsgNRCRfPWhO8dy9YERH) | 3:13 |
 
-Snapshot ID: `AAADPiQMWdjR0+z7Ap1Uim3J1cb2RC5t`
+Snapshot ID: `AAADPyvRX6S5SG7/kHZDdvUcQ9w+0d9Z`

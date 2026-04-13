@@ -1,12 +1,12 @@
 {
   "description": "This is Silvana Estrada. The essential tracks, all in one playlist.",
-  "num_followers": 62964,
+  "num_followers": 62990,
   "original_name": "This Is Silvana Estrada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adg9gAAAAAAMCR19/4Zk8nxuN4+0+iD8",
+  "snapshot_id": "admPAAAAAACpznKVyfaCmSU32jdCC/f1",
   "tracks": [
     {
       "added_at": null,
@@ -431,6 +431,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tom's Diner",
+        "url": "https://open.spotify.com/album/2j5kahqVzUv6g4gsWC84oM"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 220365,
+      "name": "Tom's Diner",
+      "url": "https://open.spotify.com/track/39kbxtqZyRkgBCTQy0hlX0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lo Sagrado",
         "url": "https://open.spotify.com/album/2S6If8uEdoGMoIPgChe9T2"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 198256,
       "name": "Detesto En M\u00ed",
       "url": "https://open.spotify.com/track/2V0qhsDoHYh5ugZ4FBXE8T"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tom's Diner",
-        "url": "https://open.spotify.com/album/2j5kahqVzUv6g4gsWC84oM"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 220365,
-      "name": "Tom's Diner",
-      "url": "https://open.spotify.com/track/39kbxtqZyRkgBCTQy0hlX0"
     },
     {
       "added_at": null,

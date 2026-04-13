@@ -4,7 +4,7 @@
 
 > 
 
-8,592 songs - 21 day 21 hr 27 min
+8,594 songs - 21 day 21 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3915,6 +3915,7 @@
 | [Love Me More](https://open.spotify.com/track/6uYgCE2OEulOw5zhHvZsHf) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [A Love Letter To You 4](https://open.spotify.com/album/0tKX7BLXiiRgXUKYdJzjEz) | 2:23 | 2025-01-15 |  |
 | [Love Me Not](https://open.spotify.com/track/4G6oWhBdhS0LeztHUjCIRC) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Friday Night Lights](https://open.spotify.com/album/4ghGEhWzY5ffry2IqgrnRg) | 3:30 | 2025-01-03 |  |
 | [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 | 2026-03-22 |  |
+| [Love Me Not](https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:33 | 2026-04-12 |  |
 | [Love me, Love you](https://open.spotify.com/track/4MqqZRjZVkheBor570C2yt) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [Love me, Love you](https://open.spotify.com/album/21awaIwNyYDin6Zzbtos4g) | 4:43 | 2025-01-04 |  |
 | [Love Natural](https://open.spotify.com/track/6wpx4u1PeQlXEvZMPQ49sU) | [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC) | [Cave Rave](https://open.spotify.com/album/68K5LJ1pOR3KcuVP8hw3RP) | 3:19 | 2025-06-02 |  |
 | [Love Of My Life](https://open.spotify.com/track/5C6D9gICTE0rS0xfF2udY8) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera](https://open.spotify.com/album/3KCJzwKOdBxDu6TKaFPqM9) | 3:36 | 2025-01-15 |  |
@@ -5903,6 +5904,7 @@
 | [Soup](https://open.spotify.com/track/6TMRe5uN622SzHfrLx78S3) | [Sakura Fujiwara](https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et) | [PLAY](https://open.spotify.com/album/4olkw87r0L1TGTET9o3min) | 4:09 | 2025-01-15 |  |
 | [south to west](https://open.spotify.com/track/7rEUuRanwV9piOwwPKxPIM) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [DS4EVER](https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx) | 2:02 | 2025-01-03 |  |
 | [Southernplayalisticadillacmuzik](https://open.spotify.com/track/2pMAmZdHfQHyqJCXJbfhK3) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Southernplayalisticadillacmuzik](https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G) | 5:17 | 2025-01-15 |  |
+| [SOUVENIR](https://open.spotify.com/track/3GLSPr5dyhrNBvDPpdoPDK) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [Iris](https://open.spotify.com/album/5FSNEQcyQtmVeizw5j5Y8b) | 4:25 | 2026-04-12 |  |
 | [Space Cadet \(feat\. Gunna\)](https://open.spotify.com/track/1fewSx2d5KIZ04wsooEBOz) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [NOT ALL HEROES WEAR CAPES \(Deluxe\)](https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj) | 3:23 | 2025-01-04 |  |
 | [Space Groove \- 2021](https://open.spotify.com/track/5HEOSBUUfENp5YAU4JcsxD) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Space Groove \- 2021](https://open.spotify.com/album/3usZ7im5mkX0BSZW4iQO2j) | 4:07 | 2025-07-12 |  |
 | [Space Jam](https://open.spotify.com/track/1jeCSl9xbUp5okqCjtIP8T) | [Jarren Blair](https://open.spotify.com/artist/1masDpm7zul13ra4CY3sjy) | [Space Jam](https://open.spotify.com/album/5JzRKAh4MoAt42DExGAvAC) | 4:17 | 2025-01-03 |  |

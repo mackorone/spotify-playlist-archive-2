@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > Songs that are 100% written, produced, and performed by Women! Co\-Curated this month by:  <a href="spotify:playlist:37i9dQZF1EFxFD4d1Adk5m">Maegan Cottone</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,050 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,068 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 49 | [Holding On](https://open.spotify.com/track/4RjwMyr4D2W4py79Heop9l) | [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [Devotion](https://open.spotify.com/album/15GocbF7ybkkPP03YXtLqv) | 3:19 |
 | 50 | [SERiAL KiLLER](https://open.spotify.com/track/5hAKpqv7L2bhzzQr4XDN6z) | [Ella Boh](https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11) | [SERiAL KiLLER](https://open.spotify.com/album/0izQeMP2SyIqsD8vH3s3bi) | 2:52 |
 
-Snapshot ID: `AAAAAB6ZG26yXCRg9Rj9RpIzXRq8B/h9`
+Snapshot ID: `AAAAANsqMykcoQrSPBCT6p6OJIQy1XqK`

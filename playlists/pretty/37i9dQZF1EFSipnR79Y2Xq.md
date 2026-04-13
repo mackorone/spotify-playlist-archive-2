@@ -92,9 +92,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSipnR79Y2Xq.md) - [plain]
 | 82 | [PENDIENTE DE TU VIDA](https://open.spotify.com/track/13Qo7fL3VF0hlUy6Fetwu6) | [Sucesión M](https://open.spotify.com/artist/2Cxqiw8iTT18OMjlq033V6), [El Compa JD](https://open.spotify.com/artist/0ulACiQS73IYsCG3SqkTO0) | [Catarsis](https://open.spotify.com/album/6VOicOVSb15t7plM3aGn0v) | 3:18 |
 | 83 | [Me Gusta Pensar](https://open.spotify.com/track/3XCb0L1jsLbPgNg9WaCcxB) | [César Navarro](https://open.spotify.com/artist/072Txba915k6CIHd6hoC5G) | [El Malo Del Cuento](https://open.spotify.com/album/3pexMzHFquZjuNaXVzPD0g) | 2:35 |
 | 84 | [EL PROFESOR](https://open.spotify.com/track/0hWudpmS1MdReXWrNKZXGb) | [Esencia Noble](https://open.spotify.com/artist/7JvS3PC6AQ9agVN0dm7iEr) | [EL PROFESOR](https://open.spotify.com/album/7D4tzXeK5a2ITIXmSUdPL8) | 3:14 |
-| 85 | [Por Pensar](https://open.spotify.com/track/2qSgF60p3PSqv7JO8o9h54) | [César Navarro](https://open.spotify.com/artist/072Txba915k6CIHd6hoC5G) | [El Malo Del Cuento](https://open.spotify.com/album/3pexMzHFquZjuNaXVzPD0g) | 2:32 |
-| 86 | [No Eras Tú, Era Yo](https://open.spotify.com/track/3UyMfum9jrotsNdhRSGcEF) | [César Navarro](https://open.spotify.com/artist/072Txba915k6CIHd6hoC5G) | [El Malo Del Cuento](https://open.spotify.com/album/3pexMzHFquZjuNaXVzPD0g) | 3:04 |
+| 85 | [No Eras Tú, Era Yo](https://open.spotify.com/track/3UyMfum9jrotsNdhRSGcEF) | [César Navarro](https://open.spotify.com/artist/072Txba915k6CIHd6hoC5G) | [El Malo Del Cuento](https://open.spotify.com/album/3pexMzHFquZjuNaXVzPD0g) | 3:04 |
+| 86 | [Por Pensar](https://open.spotify.com/track/2qSgF60p3PSqv7JO8o9h54) | [César Navarro](https://open.spotify.com/artist/072Txba915k6CIHd6hoC5G) | [El Malo Del Cuento](https://open.spotify.com/album/3pexMzHFquZjuNaXVzPD0g) | 2:32 |
 | 87 | [De Mal En Peor](https://open.spotify.com/track/1uqNLWNfdnpbHup3Tv0psf) | [Ricky Valenzuela](https://open.spotify.com/artist/0gMREHxpil2Psc4VRY0urJ) | [De Mal En Peor](https://open.spotify.com/album/6mlWPPOrRhB6dWEW78qPFs) | 3:16 |
 | 88 | [Vestidito Rojo](https://open.spotify.com/track/3lciIL09CUXIJIIYICafn7) | [Esencia Noble](https://open.spotify.com/artist/7JvS3PC6AQ9agVN0dm7iEr) | [Vestidito Rojo](https://open.spotify.com/album/1z2IHPGKZUPQ0mubjgGNnJ) | 3:12 |
 
-Snapshot ID: `AcOmgAAAAAC7asUQMoTUsOBCEaIyaP3j`
+Snapshot ID: `AcOsIAAAAADIK7B6DX2kAf2jx4s20uPm`

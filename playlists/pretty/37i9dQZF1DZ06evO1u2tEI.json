@@ -1,12 +1,12 @@
 {
   "description": "This is Elliott Smith. The essential tracks, all in one playlist.",
-  "num_followers": 87383,
+  "num_followers": 87392,
   "original_name": "This Is Elliott Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adg9gAAAAAAgSy9AjKrX6dZnav6iggnX",
+  "snapshot_id": "admPAAAAAABhrTN7AcC91s2CPoLCt23Z",
   "tracks": [
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Moon",
-        "url": "https://open.spotify.com/album/1BbuJWxtdCS2r6wBt1JsSN"
+        "name": "Elliott Smith",
+        "url": "https://open.spotify.com/album/1nGWgkinMkmX7BlAuC4umM"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 157360,
-      "name": "Angel in the Snow",
-      "url": "https://open.spotify.com/track/7Cy8GDa9fgMatoRGFIKjg9"
+      "duration_ms": 159746,
+      "name": "The Biggest Lie",
+      "url": "https://open.spotify.com/track/3hPVY0KEabsLxgeupjs7bV"
     },
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Elliott Smith",
-        "url": "https://open.spotify.com/album/1nGWgkinMkmX7BlAuC4umM"
+        "name": "New Moon",
+        "url": "https://open.spotify.com/album/1BbuJWxtdCS2r6wBt1JsSN"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 159746,
-      "name": "The Biggest Lie",
-      "url": "https://open.spotify.com/track/3hPVY0KEabsLxgeupjs7bV"
+      "duration_ms": 157360,
+      "name": "Angel in the Snow",
+      "url": "https://open.spotify.com/track/7Cy8GDa9fgMatoRGFIKjg9"
     },
     {
       "added_at": null,
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 204573,
-      "name": "Pretty Mary K - Other Version",
-      "url": "https://open.spotify.com/track/5m80zPT09wNZd3MO7flmEv"
+      "duration_ms": 230573,
+      "name": "Half Right",
+      "url": "https://open.spotify.com/track/1mOR1rwZ9YDGfzVjczYXXV"
     },
     {
       "added_at": null,
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 230573,
-      "name": "Half Right",
-      "url": "https://open.spotify.com/track/1mOR1rwZ9YDGfzVjczYXXV"
+      "duration_ms": 204573,
+      "name": "Pretty Mary K - Other Version",
+      "url": "https://open.spotify.com/track/5m80zPT09wNZd3MO7flmEv"
     },
     {
       "added_at": null,

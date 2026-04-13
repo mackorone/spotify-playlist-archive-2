@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3QX3YzE51B2iuT5ol1U6BC">Murda Beatz</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,796 likes - 306 songs - 15 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,793 likes - 306 songs - 15 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 33 | [Do Not Disturb \(feat\. Lil Yachty & Offset\)](https://open.spotify.com/track/5Ojb9dF8VoBHUwbDfPxMlg) | [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Bless Yo Trap](https://open.spotify.com/album/3UTI3QQcowXYG3DA0Piy5f) | 2:37 |
 | 34 | [Gang Gang](https://open.spotify.com/track/6RKkHI2fkmgZq7uQPPav8f) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture II](https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y) | 3:01 |
 | 35 | [COOLEST MONKEY IN THE JUNGLE](https://open.spotify.com/track/6k1qIMHisshjNGDruEtCRt) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry), [SahBabii](https://open.spotify.com/artist/7GuUYiGZOzQwq4L6gAfy1T) | [BEWARE THE BOOK OF ELI](https://open.spotify.com/album/3db4t7T0VckyUVi7iFzX2x) | 2:32 |
-| 36 | [GRoCERIES](https://open.spotify.com/track/2ZueZJriwJi7vFXD1UVEVj) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [TisaKorean](https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [GRoCERIES](https://open.spotify.com/album/4ukKkRaCiWcgJ3YZ3jmUfu) | 3:46 |
-| 37 | [Eye 2 Eye](https://open.spotify.com/track/4vwfOiyWxXeEdx4ejAJgdx) | [Huncho Jack](https://open.spotify.com/artist/6extd4B6hl8VTmnlhpl2bY), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [Huncho Jack, Jack Huncho](https://open.spotify.com/album/6FED8aeieEnUWwQqAO9zT1) | 3:10 |
+| 36 | [Eye 2 Eye](https://open.spotify.com/track/4vwfOiyWxXeEdx4ejAJgdx) | [Huncho Jack](https://open.spotify.com/artist/6extd4B6hl8VTmnlhpl2bY), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [Huncho Jack, Jack Huncho](https://open.spotify.com/album/6FED8aeieEnUWwQqAO9zT1) | 3:10 |
+| 37 | [GRoCERIES](https://open.spotify.com/track/2ZueZJriwJi7vFXD1UVEVj) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [TisaKorean](https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [GRoCERIES](https://open.spotify.com/album/4ukKkRaCiWcgJ3YZ3jmUfu) | 3:46 |
 | 38 | [You Wouldn't Understand](https://open.spotify.com/track/0veO6y9anwdVTaRuW7y8NJ) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Fighting Demons \(Deluxe\)](https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew) | 2:50 |
 | 39 | [Back on Road](https://open.spotify.com/track/39liuGHPxn2sAyvO6DINor) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Everybody Looking](https://open.spotify.com/album/3WjDB3j2yZL4g0hBGHF04i) | 2:29 |
 | 40 | [Nothing Changed](https://open.spotify.com/track/37If4sC0Si28T6z63qhR5z) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [Only Built For Infinity Links](https://open.spotify.com/album/59hIIDzaPSH5O3QSz4zX0t) | 3:19 |
@@ -315,4 +315,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 305 | [Body Parts](https://open.spotify.com/track/0PRldWb2v0PVYHHmK3ammB) | [Bomshot](https://open.spotify.com/artist/3SSMWOv4oxoSrm1lJP5kfc) | [Abomination](https://open.spotify.com/album/32eTpy2grvmPhZ7WjPXtBD) | 3:22 |
 | 306 | [City Girls](https://open.spotify.com/track/3eGXiQ0xwjzu5B4bdxE14e) | [Todd Beasley](https://open.spotify.com/artist/4udSYVL9DLYtvOHnNYNN5R) | [City Girls](https://open.spotify.com/album/0zb9WXHVd14zSKmDjZwcmi) | 3:29 |
 
-Snapshot ID: `AcOmbAAAAAAb9POi8tFYIK1+djdnp/D1`
+Snapshot ID: `AcOsSAAAAADk2UXQ8wXB+jR9W5LmpVls`

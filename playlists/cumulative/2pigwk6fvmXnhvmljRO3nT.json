@@ -77955,6 +77955,24 @@
     },
     {
       "album": {
+        "name": "Bird's Eye",
+        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "date_added": "2026-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213466,
+      "name": "Love Me Not",
+      "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
+    },
+    {
+      "album": {
         "name": "Love me, Love you",
         "url": "https://open.spotify.com/album/21awaIwNyYDin6Zzbtos4g"
       },
@@ -117540,6 +117558,24 @@
       "duration_ms": 317506,
       "name": "Southernplayalisticadillacmuzik",
       "url": "https://open.spotify.com/track/2pMAmZdHfQHyqJCXJbfhK3"
+    },
+    {
+      "album": {
+        "name": "Iris",
+        "url": "https://open.spotify.com/album/5FSNEQcyQtmVeizw5j5Y8b"
+      },
+      "artists": [
+        {
+          "name": "BUMP OF CHICKEN",
+          "url": "https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy"
+        }
+      ],
+      "date_added": "2026-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265332,
+      "name": "SOUVENIR",
+      "url": "https://open.spotify.com/track/3GLSPr5dyhrNBvDPpdoPDK"
     },
     {
       "album": {

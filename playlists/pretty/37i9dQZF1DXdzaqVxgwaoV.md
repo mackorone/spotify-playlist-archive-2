@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 
 > ¡Música tropical, cumbia, guasca y de carrilera para recordar y disfrutar!
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,328 likes - 80 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,322 likes - 80 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 | 18 | [No Hay Cama Pa' Tanta Gente](https://open.spotify.com/track/6InAsgddPjAcuF7mSHDT8K) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Nuestra Musica](https://open.spotify.com/album/2qsUMz7N4aGYk0ObNbKqCE) | 4:28 |
 | 19 | [Tú Pasaje al Olvido](https://open.spotify.com/track/5VENH9rLewIMEHhSArsJkg) | [Luisito Muñoz](https://open.spotify.com/artist/0ajy8rupiCOgvmsOtaG83P), [Fernando Burbano](https://open.spotify.com/artist/23nWkdjjAlopi1pF5KwrD6) | [Mas Romántico Que Nunca](https://open.spotify.com/album/6nhrASXzyEsC34PfdO7OEa) | 4:01 |
 | 20 | [Que Sufra, Que Chupe y Que Llore](https://open.spotify.com/track/28GsDpLgTP6lP897aAmSa9) | [Francy](https://open.spotify.com/artist/5pAEGsouhZbgSqJMTmEXoT), [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [La Voz Popular de América](https://open.spotify.com/album/6ymFtmeQp25jwk5KOOZ5qZ) | 3:35 |
-| 21 | [Muñeco de Vitrina](https://open.spotify.com/track/0PZ81A2LmrXzbjH6wscL3Z) | [Dario Dario](https://open.spotify.com/artist/4MAWVx8RvhYBpEDf3XKCOG) | [Darío Darío Esclavo de las Mujeres](https://open.spotify.com/album/7y3218iXz2iwxVBMe8Qqcm) | 3:41 |
+| 21 | [Amor Oculto](https://open.spotify.com/track/2XDFJJJDb35ng71PNB5GPW) | [El Andariego](https://open.spotify.com/artist/7umWQMinvyqkJIWOdo02OW) | [Amor Oculto](https://open.spotify.com/album/1CA0zMs4fMYWxwNWWA6tLx) | 3:49 |
 | 22 | [Por Tu Maldito Amor](https://open.spotify.com/track/3KZI2xeiIRJd8fm84ClxH5) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Por Tu Maldito Amor](https://open.spotify.com/album/4AcCWh1DSsRWGU8fWK70E1) | 3:56 |
-| 23 | [Amor Oculto](https://open.spotify.com/track/2XDFJJJDb35ng71PNB5GPW) | [El Andariego](https://open.spotify.com/artist/7umWQMinvyqkJIWOdo02OW) | [Amor Oculto](https://open.spotify.com/album/1CA0zMs4fMYWxwNWWA6tLx) | 3:49 |
+| 23 | [Muñeco de Vitrina](https://open.spotify.com/track/0PZ81A2LmrXzbjH6wscL3Z) | [Dario Dario](https://open.spotify.com/artist/4MAWVx8RvhYBpEDf3XKCOG) | [Darío Darío Esclavo de las Mujeres](https://open.spotify.com/album/7y3218iXz2iwxVBMe8Qqcm) | 3:41 |
 | 24 | [Mujeres y Despecho](https://open.spotify.com/track/6qF6Nq12QRlFMjS2mP4ziN) | [Arelys Henao](https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC) | [Mujeres y Despecho](https://open.spotify.com/album/0jxQqR3kCi0WXbUElGHM4Z) | 3:00 |
 | 25 | [Me Tragaba Tus Mentiras](https://open.spotify.com/track/0Z2KrRMIL80GrzQUmXsLeu) | [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx) | [No Hay Porqué Esperar](https://open.spotify.com/album/37ipB2Anm6xNkDUu8nubbX) | 2:56 |
 | 26 | [Dos Pasajes](https://open.spotify.com/track/471SfF1VL5AjkWXMzYXout) | [Lupe Y Polo](https://open.spotify.com/artist/7B3FM4BQ27FOhvWDZSslsS) | [15 Éxitos](https://open.spotify.com/album/6uowaVidZAFQIyT1jTkYBy) | 2:20 |
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 | 40 | [La Ley del Amor](https://open.spotify.com/track/0nqAV0N6RFf23OUAK2XLPR) | [Fernando Burbano](https://open.spotify.com/artist/23nWkdjjAlopi1pF5KwrD6) | [Grandes Exitos](https://open.spotify.com/album/0QPKuA73byh081OeZVmHxI) | 3:10 |
 | 41 | [Viejo Juguete](https://open.spotify.com/track/3T5b76vKa8URdXJ0PF5oPG) | [El Caballero Gaucho](https://open.spotify.com/artist/1Y8tkL7bBifF9JiCcEzo70) | [Coleccion Grandes Figuras](https://open.spotify.com/album/4nSqh2gtrHCfGsxisJXsUe) | 1:53 |
 | 42 | [Si Pudiera](https://open.spotify.com/track/0ElVpWQhNKrkoGUvDBpr1y) | [Jose Miguel Class](https://open.spotify.com/artist/1bLcdHalDusGM70EM8oxmk) | [Los Grandes Éxitos de Jose Miguel Class](https://open.spotify.com/album/3WJlGjYRBaNKHGOsiNK7lt) | 2:53 |
-| 43 | [Las Cuatro Fiestas](https://open.spotify.com/track/6saaz6xf1KVaSWT4Geb5L6) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [Juancho Rois](https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1) | [Las Que Faltaban](https://open.spotify.com/album/6pbYCrwIfYWmp0Tz4V7CRw) | 4:34 |
+| 43 | [Dos Corazones](https://open.spotify.com/track/5rWn5d15wwORV1EVq3BlQT) | [Franktony](https://open.spotify.com/artist/67IOCc98AI69iJ67L6eMO0) | [Frank Tony y sus Reales: el Pueblo te Aclama](https://open.spotify.com/album/29ooa0WuZbI0vGJiJvpAal) | 3:03 |
 | 44 | [De Lejos Tierras](https://open.spotify.com/track/6J97uiyHlGoZFxYwWwU4fN) | [Lupe Y Polo](https://open.spotify.com/artist/7B3FM4BQ27FOhvWDZSslsS) | [15 Éxitos](https://open.spotify.com/album/6uowaVidZAFQIyT1jTkYBy) | 2:36 |
-| 45 | [Dos Corazones](https://open.spotify.com/track/5rWn5d15wwORV1EVq3BlQT) | [Franktony](https://open.spotify.com/artist/67IOCc98AI69iJ67L6eMO0) | [Frank Tony y sus Reales: el Pueblo te Aclama](https://open.spotify.com/album/29ooa0WuZbI0vGJiJvpAal) | 3:03 |
+| 45 | [Las Cuatro Fiestas](https://open.spotify.com/track/6saaz6xf1KVaSWT4Geb5L6) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [Juancho Rois](https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1) | [Las Que Faltaban](https://open.spotify.com/album/6pbYCrwIfYWmp0Tz4V7CRw) | 4:34 |
 | 46 | [Era un Domingo](https://open.spotify.com/track/6kO9XmOlD4VI3WSrqgbq6W) | [Los Alegres Cordillera](https://open.spotify.com/artist/4ZlDiExFa7Zjiu9Y65V608) | [Mano a Mano](https://open.spotify.com/album/3CaNT6kMdKV5QA7RktoDqh) | 3:05 |
 | 47 | [Mi Gran Secreto](https://open.spotify.com/track/1w7HjjEcAgbB4BF5haaPvn) | [Fernando Burbano](https://open.spotify.com/artist/23nWkdjjAlopi1pF5KwrD6) | [Grandes Exitos](https://open.spotify.com/album/0QPKuA73byh081OeZVmHxI) | 2:48 |
 | 48 | [Loco por Amor](https://open.spotify.com/track/1nO699U6HsTjHvYYX0Crh5) | [El Charrito Negro](https://open.spotify.com/artist/4e8vIrZBkqRocfY0TrT0s6) | [Con el Triunfo en las Manos](https://open.spotify.com/album/2p1zJS35lacTNCUNKtYbNG) | 2:51 |

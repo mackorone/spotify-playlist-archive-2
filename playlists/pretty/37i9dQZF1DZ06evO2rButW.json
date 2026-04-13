@@ -1,12 +1,12 @@
 {
   "description": "This is Mon Laferte. The essential tracks, all in one playlist.",
-  "num_followers": 780040,
+  "num_followers": 780189,
   "original_name": "This Is Mon Laferte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adg9gAAAAACoBnhi73hz70HS+7AnJOSp",
+  "snapshot_id": "admPAAAAAAAHwYtcMCPel1bbQkzVDNk2",
   "tracks": [
     {
       "added_at": null,
@@ -627,22 +627,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cosa Nuestra: Cap\u00edtulo 0",
-        "url": "https://open.spotify.com/album/752aUI4EPYOGrNuo74pmCR"
+        "name": "El Caminante",
+        "url": "https://open.spotify.com/album/3GoP2zfwzLlr23wpjZYwOw"
       },
       "artists": [
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "Manuel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
         },
         {
           "name": "Mon Laferte",
           "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 224650,
-      "name": "Callej\u00f3n de los Secretos",
-      "url": "https://open.spotify.com/track/1hFyhyZygYYD35G2cEuwR0"
+      "duration_ms": 220867,
+      "name": "La Danza de las Lib\u00e9lulas",
+      "url": "https://open.spotify.com/track/67ed4jjP4A0IfcQfgCnGWl"
     },
     {
       "added_at": null,
@@ -679,22 +679,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Caminante",
-        "url": "https://open.spotify.com/album/3GoP2zfwzLlr23wpjZYwOw"
+        "name": "Cosa Nuestra: Cap\u00edtulo 0",
+        "url": "https://open.spotify.com/album/752aUI4EPYOGrNuo74pmCR"
       },
       "artists": [
         {
-          "name": "Manuel Garc\u00eda",
-          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         },
         {
           "name": "Mon Laferte",
           "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 220867,
-      "name": "La Danza de las Lib\u00e9lulas",
-      "url": "https://open.spotify.com/track/67ed4jjP4A0IfcQfgCnGWl"
+      "duration_ms": 224650,
+      "name": "Callej\u00f3n de los Secretos",
+      "url": "https://open.spotify.com/track/1hFyhyZygYYD35G2cEuwR0"
     },
     {
       "added_at": null,

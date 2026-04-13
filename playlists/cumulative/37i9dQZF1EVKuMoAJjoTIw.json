@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-29",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIUY5V9mnUM6w>Junior H</a>, <a href=spotify:playlist:37i9dQZF1EIW59fyjC7s7V>Alex Warren</a>, <a href=spotify:playlist:37i9dQZF1EIVo4rgqc9CZa>ABBA</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIV1hAnuH1ilI>Justin Bieber</a>, <a href=spotify:playlist:37i9dQZF1EIXXLCzFVfkP2>J Balvin</a>, <a href=spotify:playlist:37i9dQZF1EIVo4rgqc9CZa>ABBA</a> and more",
   "name": "Moody Mix",
   "tracks": [
     {
@@ -1343,6 +1343,24 @@
     },
     {
       "album": {
+        "name": "MIRADA",
+        "url": "https://open.spotify.com/album/4QwYcMNFzIhUctirR6XKDM"
+      },
+      "artists": [
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253909,
+      "name": "Atenci\u00f3n",
+      "url": "https://open.spotify.com/track/51sN3VDJBVmKJVgp0trc7M"
+    },
+    {
+      "album": {
         "name": "Tell Me It's Real (Expanded Edition)",
         "url": "https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt"
       },
@@ -1762,7 +1780,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 215106,
       "name": "Before You Go",
       "url": "https://open.spotify.com/track/2gMXnyrvIjhVBUZwvLZDMP"
@@ -4452,7 +4470,7 @@
       ],
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 306500,
       "name": "Ehsaas",
       "url": "https://open.spotify.com/track/5ULIvl0zduD2l9g6hdXnDo"
@@ -5722,7 +5740,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-18",
+      "date_removed": null,
       "duration_ms": 153190,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G"
@@ -6286,6 +6304,24 @@
       "duration_ms": 201880,
       "name": "Heavenly Kind Of State Of Mind",
       "url": "https://open.spotify.com/track/7lvfJHcumTCV5Yjt4Tl1I1"
+    },
+    {
+      "album": {
+        "name": "MIRADA",
+        "url": "https://open.spotify.com/album/4QwYcMNFzIhUctirR6XKDM"
+      },
+      "artists": [
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216568,
+      "name": "Herida Abierta",
+      "url": "https://open.spotify.com/track/1xvuA42QBl5ssBHvCwHXwK"
     },
     {
       "album": {
@@ -7316,7 +7352,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 199386,
       "name": "If You Want Love",
       "url": "https://open.spotify.com/track/3i5qVV8azKqGFK4Gzdt5YS"
@@ -7692,7 +7728,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 285933,
       "name": "Jaga Slalu Hatimu",
       "url": "https://open.spotify.com/track/3YZQseFqB5LVy9VcfVv7dp"
@@ -8354,7 +8390,7 @@
       ],
       "date_added": "2025-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-14",
+      "date_removed": null,
       "duration_ms": 242573,
       "name": "LA CANCI\u00d3N",
       "url": "https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18"
@@ -10136,7 +10172,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 248066,
       "name": "Mengejar Mimpi",
       "url": "https://open.spotify.com/track/7DYQu1YIeFbQtBXBEOLfC5"
@@ -10226,7 +10262,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-09",
+      "date_removed": null,
       "duration_ms": 175911,
       "name": "Mesh Nadman",
       "url": "https://open.spotify.com/track/3g4p8OgtpxHpEHzEjnRo6J"
@@ -10266,7 +10302,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 398466,
       "name": "Mi Historia Entre Tus Dedos",
       "url": "https://open.spotify.com/track/4cNOvC1mAjWEABZTxx2psa"
@@ -10454,7 +10490,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-12",
+      "date_removed": null,
       "duration_ms": 176749,
       "name": "MI\u00c9NTELE",
       "url": "https://open.spotify.com/track/77ewVGidVJETHhGtlNelrg"
@@ -11191,6 +11227,24 @@
     },
     {
       "album": {
+        "name": "LA ODISEA",
+        "url": "https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232263,
+      "name": "NOCHES FR\u00cdAS",
+      "url": "https://open.spotify.com/track/4YVLgx6LURPo1VNeaqBT5x"
+    },
+    {
+      "album": {
         "name": "suburban daredevil",
         "url": "https://open.spotify.com/album/16g3MJk9OmtNXwRrrPMPUK"
       },
@@ -11542,7 +11596,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 186964,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
@@ -12090,7 +12144,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 198058,
       "name": "Pvta Luna",
       "url": "https://open.spotify.com/track/33MeEaRCeIQMSRyFTr5ZJU"
@@ -12354,7 +12408,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 232205,
       "name": "RELOJ",
       "url": "https://open.spotify.com/track/2DXK0YNGSqnaIEX5iaSIoK"
@@ -12806,7 +12860,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 259956,
       "name": "SAD LOQUERON",
       "url": "https://open.spotify.com/track/6glXSeNfi2H3caS76upMpY"
@@ -13662,7 +13716,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 243724,
       "name": "Sial",
       "url": "https://open.spotify.com/track/6O0WEM0QNEhqpU50BKui7o"
@@ -14052,7 +14106,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 182160,
       "name": "Someone You Loved",
       "url": "https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf"
@@ -16142,7 +16196,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-09",
+      "date_removed": null,
       "duration_ms": 183890,
       "name": "UNA BALA",
       "url": "https://open.spotify.com/track/6Rz80wUWSUbGGVHvkH7NpU"
@@ -16478,6 +16532,24 @@
       "duration_ms": 259413,
       "name": "W.D.Y.W.F.M?",
       "url": "https://open.spotify.com/track/3vooOYHU0Fi3ViCG7Ozh0Y"
+    },
+    {
+      "album": {
+        "name": "Wahshak",
+        "url": "https://open.spotify.com/album/6COX98TbK2BoUMw6e3Oc6x"
+      },
+      "artists": [
+        {
+          "name": "Muslim - \u0645\u064f\u0633\u0644\u0650\u0645",
+          "url": "https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228648,
+      "name": "Wahshak",
+      "url": "https://open.spotify.com/track/5QVN7a9quXpdKgYKPgmVsf"
     },
     {
       "album": {
@@ -17196,7 +17268,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 210880,
       "name": "Wish You The Best",
       "url": "https://open.spotify.com/track/3gdPwk2wyOXNRnTA1KXnEr"
@@ -17340,7 +17412,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 179013,
       "name": "Y LLORO",
       "url": "https://open.spotify.com/track/6RcAHyC5sAUIbPTkhOQwd8"
@@ -17864,7 +17936,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-09",
+      "date_removed": null,
       "duration_ms": 217787,
       "name": "\u0628\u062a\u0641\u062a\u0643\u0631\u0646\u064a \u0633\u0627\u0639\u0627\u062a",
       "url": "https://open.spotify.com/track/225k2VOiES9R9AC0IwVBkb"

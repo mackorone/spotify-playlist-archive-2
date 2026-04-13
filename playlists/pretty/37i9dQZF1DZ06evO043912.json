@@ -1,12 +1,12 @@
 {
   "description": "This is King Sunny Ade. The essential tracks, all in one playlist.",
-  "num_followers": 7171,
+  "num_followers": 7173,
   "original_name": "This Is King Sunny Ade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adg9gAAAAABpMOXLrI5JxDSxLvmlE4Xy",
+  "snapshot_id": "admPAAAAAADKQVTqVlfe8jhabyD6zGm9",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Surprise",
-        "url": "https://open.spotify.com/album/1cG1ymzQ46sB8hpMxihedF"
-      },
-      "artists": [
-        {
-          "name": "King Sunny Ade",
-          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
-        }
-      ],
-      "duration_ms": 273412,
-      "name": "Aye Nreti Eleya",
-      "url": "https://open.spotify.com/track/6VFE6YpWM90aNqKwzuBBLg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Classics, Vol. 2: Ekilo Fomo Ode & the Way Forward",
         "url": "https://open.spotify.com/album/6L1EFQ32iy12gBXUM58KVc"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 157238,
       "name": "Eni Binu Wa",
       "url": "https://open.spotify.com/track/5APpE7tBp1dScv1vPd3DnK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Surprise",
+        "url": "https://open.spotify.com/album/1cG1ymzQ46sB8hpMxihedF"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "duration_ms": 273412,
+      "name": "Aye Nreti Eleya",
+      "url": "https://open.spotify.com/track/6VFE6YpWM90aNqKwzuBBLg"
     },
     {
       "added_at": null,
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "E Dide [Get Up]",
-        "url": "https://open.spotify.com/album/1yux0Sk1jn4lzHCoqoUKjT"
-      },
-      "artists": [
-        {
-          "name": "King Sunny Ade",
-          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
-        }
-      ],
-      "duration_ms": 178266,
-      "name": "Orisun Iye",
-      "url": "https://open.spotify.com/track/1wDwfhJPl6NidDXTXLRF6P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Classics, Vol. 2: Ekilo Fomo Ode & the Way Forward",
         "url": "https://open.spotify.com/album/6L1EFQ32iy12gBXUM58KVc"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 419996,
       "name": "Esubiribiri Ebomi",
       "url": "https://open.spotify.com/track/6FsOq2SPOG5TxBzX8cXe8n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "E Dide [Get Up]",
+        "url": "https://open.spotify.com/album/1yux0Sk1jn4lzHCoqoUKjT"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "duration_ms": 178266,
+      "name": "Orisun Iye",
+      "url": "https://open.spotify.com/track/1wDwfhJPl6NidDXTXLRF6P"
     },
     {
       "added_at": null,
@@ -164,25 +164,9 @@
           "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
         }
       ],
-      "duration_ms": 231902,
-      "name": "E Ba Mi Dupe",
-      "url": "https://open.spotify.com/track/0fHkUJMgVbYuuVhtAykwpM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Surprise",
-        "url": "https://open.spotify.com/album/1cG1ymzQ46sB8hpMxihedF"
-      },
-      "artists": [
-        {
-          "name": "King Sunny Ade",
-          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
-        }
-      ],
-      "duration_ms": 119532,
-      "name": "Ola 'O Tan",
-      "url": "https://open.spotify.com/track/38kWytzzVWhO59KXhNPnDx"
+      "duration_ms": 51200,
+      "name": "Gbass Kelele",
+      "url": "https://open.spotify.com/track/44g9vIk0L30PigZAL7pJ6k"
     },
     {
       "added_at": null,
@@ -199,6 +183,22 @@
       "duration_ms": 245002,
       "name": "Ekilo Fomo Ode",
       "url": "https://open.spotify.com/track/5J0ZR2ulen5VfOLIy95jbZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Surprise",
+        "url": "https://open.spotify.com/album/1cG1ymzQ46sB8hpMxihedF"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "duration_ms": 119532,
+      "name": "Ola 'O Tan",
+      "url": "https://open.spotify.com/track/38kWytzzVWhO59KXhNPnDx"
     },
     {
       "added_at": null,
@@ -228,25 +228,9 @@
           "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
         }
       ],
-      "duration_ms": 51200,
-      "name": "Gbass Kelele",
-      "url": "https://open.spotify.com/track/44g9vIk0L30PigZAL7pJ6k"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Seven Degrees North",
-        "url": "https://open.spotify.com/album/7chxSu7nUUTymoEou7OhuF"
-      },
-      "artists": [
-        {
-          "name": "King Sunny Ade",
-          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
-        }
-      ],
-      "duration_ms": 228266,
-      "name": "Odema Ti P'Ogidan S'oko",
-      "url": "https://open.spotify.com/track/71y1uCM1llGeWRSdPVYSPI"
+      "duration_ms": 231902,
+      "name": "E Ba Mi Dupe",
+      "url": "https://open.spotify.com/track/0fHkUJMgVbYuuVhtAykwpM"
     },
     {
       "added_at": null,
@@ -263,6 +247,22 @@
       "duration_ms": 188995,
       "name": "Nitori Awa",
       "url": "https://open.spotify.com/track/2yhTRdHynfCGIX4v7Vasg3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seven Degrees North",
+        "url": "https://open.spotify.com/album/7chxSu7nUUTymoEou7OhuF"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "duration_ms": 228266,
+      "name": "Odema Ti P'Ogidan S'oko",
+      "url": "https://open.spotify.com/track/71y1uCM1llGeWRSdPVYSPI"
     },
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "E Dide [Get Up]",
-        "url": "https://open.spotify.com/album/1yux0Sk1jn4lzHCoqoUKjT"
-      },
-      "artists": [
-        {
-          "name": "King Sunny Ade",
-          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Ara Ma Nfe Sinmi",
-      "url": "https://open.spotify.com/track/2vna6VU41Yr5STFCbzgbVz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Classics, Vol. 2: Ekilo Fomo Ode & the Way Forward",
         "url": "https://open.spotify.com/album/6L1EFQ32iy12gBXUM58KVc"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 245080,
       "name": "Kosun Tadie",
       "url": "https://open.spotify.com/track/5bPX2y8YJbCUG6U2ee639t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "E Dide [Get Up]",
+        "url": "https://open.spotify.com/album/1yux0Sk1jn4lzHCoqoUKjT"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Ara Ma Nfe Sinmi",
+      "url": "https://open.spotify.com/track/2vna6VU41Yr5STFCbzgbVz"
     },
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "E Dide [Get Up]",
-        "url": "https://open.spotify.com/album/1yux0Sk1jn4lzHCoqoUKjT"
-      },
-      "artists": [
-        {
-          "name": "King Sunny Ade",
-          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
-        }
-      ],
-      "duration_ms": 294533,
-      "name": "Omode O'Mela",
-      "url": "https://open.spotify.com/track/5xUD0LrfblKKbXmmHyxYn3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Classics, Vol. 2: Ekilo Fomo Ode & the Way Forward",
         "url": "https://open.spotify.com/album/6L1EFQ32iy12gBXUM58KVc"
       },
@@ -395,6 +379,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "E Dide [Get Up]",
+        "url": "https://open.spotify.com/album/1yux0Sk1jn4lzHCoqoUKjT"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "duration_ms": 294533,
+      "name": "Omode O'Mela",
+      "url": "https://open.spotify.com/track/5xUD0LrfblKKbXmmHyxYn3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Classics, Vol. 1: Let Them Say & Edide",
         "url": "https://open.spotify.com/album/4sktsG6tLsbIT4jxdRUW3o"
       },
@@ -407,6 +407,22 @@
       "duration_ms": 212775,
       "name": "Komi Komi",
       "url": "https://open.spotify.com/track/4Rpna21W80qkJwyg1WtuAw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seven Degrees North",
+        "url": "https://open.spotify.com/album/7chxSu7nUUTymoEou7OhuF"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "duration_ms": 540106,
+      "name": "Ariya",
+      "url": "https://open.spotify.com/track/0chro0oQ5d6hRZLtXg9yD5"
     },
     {
       "added_at": null,
@@ -443,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Check \"E\"",
-        "url": "https://open.spotify.com/album/1Lnu3WlDhPOpz6IWdXmBUh"
-      },
-      "artists": [
-        {
-          "name": "King Sunny Ade",
-          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
-        }
-      ],
-      "duration_ms": 464549,
-      "name": "Chief George Oyedele",
-      "url": "https://open.spotify.com/track/11ScdgNDCBPXziBKtF8GIH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Classics, Vol. 1: Let Them Say & Edide",
         "url": "https://open.spotify.com/album/4sktsG6tLsbIT4jxdRUW3o"
       },
@@ -475,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seven Degrees North",
-        "url": "https://open.spotify.com/album/7chxSu7nUUTymoEou7OhuF"
+        "name": "Check \"E\"",
+        "url": "https://open.spotify.com/album/1Lnu3WlDhPOpz6IWdXmBUh"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
         }
       ],
-      "duration_ms": 540106,
-      "name": "Ariya",
-      "url": "https://open.spotify.com/track/0chro0oQ5d6hRZLtXg9yD5"
+      "duration_ms": 464549,
+      "name": "Chief George Oyedele",
+      "url": "https://open.spotify.com/track/11ScdgNDCBPXziBKtF8GIH"
     },
     {
       "added_at": null,
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/5CNQ36IhfJFd52Wcc6hnSl"
         }
       ],
-      "duration_ms": 251925,
-      "name": "Jinginrin",
-      "url": "https://open.spotify.com/track/4BkTPEZlsJQc8TOT1eSIV7"
+      "duration_ms": 116515,
+      "name": "Bo Se Nse Oju Yen",
+      "url": "https://open.spotify.com/track/3MCBOEPgvJFfJ694FIeKAm"
     },
     {
       "added_at": null,
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/5CNQ36IhfJFd52Wcc6hnSl"
         }
       ],
-      "duration_ms": 116515,
-      "name": "Bo Se Nse Oju Yen",
-      "url": "https://open.spotify.com/track/3MCBOEPgvJFfJ694FIeKAm"
+      "duration_ms": 251925,
+      "name": "Jinginrin",
+      "url": "https://open.spotify.com/track/4BkTPEZlsJQc8TOT1eSIV7"
     },
     {
       "added_at": null,

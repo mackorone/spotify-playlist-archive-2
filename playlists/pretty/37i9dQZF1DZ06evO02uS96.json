@@ -1,12 +1,12 @@
 {
   "description": "This is Aimer. The essential tracks, all in one playlist.",
-  "num_followers": 169396,
+  "num_followers": 169401,
   "original_name": "This Is Aimer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adg9gAAAAAA/EzercGW3UA5FMViJsNuM",
+  "snapshot_id": "admPAAAAAABd5ufkFl7Eyw0CXB+3Sl2y",
   "tracks": [
     {
       "added_at": null,
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
         }
       ],
-      "duration_ms": 227200,
-      "name": "Black Bird",
-      "url": "https://open.spotify.com/track/1ZcNroTXRfcL1soYCUolAV"
+      "duration_ms": 371426,
+      "name": "\u82b1\u306e\u5504",
+      "url": "https://open.spotify.com/track/3oSavJ5fMvJWZyR9zNHMte"
     },
     {
       "added_at": null,
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
         }
       ],
-      "duration_ms": 371426,
-      "name": "\u82b1\u306e\u5504",
-      "url": "https://open.spotify.com/track/3oSavJ5fMvJWZyR9zNHMte"
+      "duration_ms": 227200,
+      "name": "Black Bird",
+      "url": "https://open.spotify.com/track/1ZcNroTXRfcL1soYCUolAV"
     },
     {
       "added_at": null,

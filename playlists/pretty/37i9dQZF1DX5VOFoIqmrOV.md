@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 
 > The finest set of Telugu music from the past 10 years\. <br/>Cover : Pushpa 2
 
-[Spotify](https://open.spotify.com/user/spotify) - 455,572 likes - 100 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 455,659 likes - 100 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 | 22 | [Naa Madhi \(From "Thiru"\)](https://open.spotify.com/track/42JI4hVOPLwQ0J7WOfIieR) | [Dhanunjay Seepana](https://open.spotify.com/artist/5DxwUWyGp1uejyE80iJcn0), [Srinivasa Mouli](https://open.spotify.com/artist/2y2DSOmE3xKWW4Wia2ucCi), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Naa Madhi \(From "Thiru"\)](https://open.spotify.com/album/0ceS6UwDJIFvogBfDdv7V3) | 2:54 |
 | 23 | [Gundellonaa](https://open.spotify.com/track/6D2LwdOQ5gjoFrpkoO5fvu) | [Leon James](https://open.spotify.com/artist/0wv5i0ds2z040yx7oL6UZy), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Gundellonaa \(From "Ori Devuda"\)](https://open.spotify.com/album/4eRBY1Mz7XTF95Vs2baAbZ) | 3:20 |
 | 24 | [Mastaaru Mastaaru \(From "Sir"\)\(Telugu\)](https://open.spotify.com/track/59eeV0SIeyd431uyjAWCRe) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9), [Saraswati Putra Ramajogayya Sastry](https://open.spotify.com/artist/4qVlHvud9UIJTJZsRL27kk) | [Mastaaru Mastaaru \(From "Sir"\)\(Telugu\)](https://open.spotify.com/album/7qJBv6QEwl0DQDlNg3mBvc) | 3:45 |
-| 25 | [Gudilo Badilo Madilo](https://open.spotify.com/track/7ILXon2PBU1bGYemfNg91q) | [M.L.R\. Karthikeyan](https://open.spotify.com/artist/1urtr0Wr3oFJVeTMF2aqPm), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [DJ](https://open.spotify.com/album/1kGnuSqFejTLaDJefAU7yw) | 4:24 |
-| 26 | [Manasu Maree](https://open.spotify.com/track/57xczqwxDF0HZsuPyVEJXa) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW), [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX) | [V](https://open.spotify.com/album/47S3yMixAINohfHXD5vHfc) | 4:27 |
+| 25 | [Manasu Maree](https://open.spotify.com/track/57xczqwxDF0HZsuPyVEJXa) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW), [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX) | [V](https://open.spotify.com/album/47S3yMixAINohfHXD5vHfc) | 4:27 |
+| 26 | [Gudilo Badilo Madilo](https://open.spotify.com/track/7ILXon2PBU1bGYemfNg91q) | [M.L.R\. Karthikeyan](https://open.spotify.com/artist/1urtr0Wr3oFJVeTMF2aqPm), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [DJ](https://open.spotify.com/album/1kGnuSqFejTLaDJefAU7yw) | 4:24 |
 | 27 | [Priyathama Priyathama](https://open.spotify.com/track/4wHZiaLsuI9aQdWv4f3Esd) | [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Majili](https://open.spotify.com/album/6a6ykv4C9RDMutKI4lR36T) | 4:05 |
 | 28 | [Almost Padipoyindhe Pilla](https://open.spotify.com/track/1ZZzUmkUhcNlb0u7C1jcKd) | [Leon James](https://open.spotify.com/artist/0wv5i0ds2z040yx7oL6UZy), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm) | [Almost Padipoyindhe Pilla \(From "Das Ka Dhamki"\)](https://open.spotify.com/album/1LsLgJM2wTC96S2mWwsmuF) | 3:33 |
 | 29 | [Saranga Dariya](https://open.spotify.com/track/74IQCxI4nws964fic1Q4pv) | [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo) | [Love Story](https://open.spotify.com/album/7BuoXUb63gAPM9CMOlXJw1) | 3:50 |

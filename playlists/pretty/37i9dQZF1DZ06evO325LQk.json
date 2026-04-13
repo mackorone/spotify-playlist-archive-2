@@ -1,12 +1,12 @@
 {
   "description": "This is SOPHIE. The essential tracks, all in one playlist.",
-  "num_followers": 38150,
+  "num_followers": 38153,
   "original_name": "This Is SOPHIE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adg9gAAAAAC/Z02/rfqGtSFfjghYjrSX",
+  "snapshot_id": "admPAAAAAABSmBZGrBupArALYvY7ZcDJ",
   "tracks": [
     {
       "added_at": null,
@@ -163,8 +163,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "MSMSMSM",
-        "url": "https://open.spotify.com/album/1WbuDNYNFhXk3vMr24VWR4"
+        "name": "Nothing More to Say",
+        "url": "https://open.spotify.com/album/3fwjJp5CzCfUQtXsMflbHi"
       },
       "artists": [
         {
@@ -172,9 +172,9 @@
           "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
         }
       ],
-      "duration_ms": 215628,
-      "name": "MSMSMSM",
-      "url": "https://open.spotify.com/track/5g5y3bgYrajITEEYsLnkDq"
+      "duration_ms": 325307,
+      "name": "Nothing More to Say - Dub",
+      "url": "https://open.spotify.com/track/7rGmOXB4xH2A5jEK0gKD3N"
     },
     {
       "added_at": null,
@@ -195,8 +195,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nothing More to Say",
-        "url": "https://open.spotify.com/album/3fwjJp5CzCfUQtXsMflbHi"
+        "name": "MSMSMSM",
+        "url": "https://open.spotify.com/album/1WbuDNYNFhXk3vMr24VWR4"
       },
       "artists": [
         {
@@ -204,9 +204,9 @@
           "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
         }
       ],
-      "duration_ms": 325307,
-      "name": "Nothing More to Say - Dub",
-      "url": "https://open.spotify.com/track/7rGmOXB4xH2A5jEK0gKD3N"
+      "duration_ms": 215628,
+      "name": "MSMSMSM",
+      "url": "https://open.spotify.com/track/5g5y3bgYrajITEEYsLnkDq"
     },
     {
       "added_at": null,
@@ -375,6 +375,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nothing More to Say",
+        "url": "https://open.spotify.com/album/3fwjJp5CzCfUQtXsMflbHi"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "duration_ms": 281636,
+      "name": "Eeehhh",
+      "url": "https://open.spotify.com/track/6tDPoIyvMNXeA597qtxDPN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "1,2,3 dayz up",
         "url": "https://open.spotify.com/album/1xaI3XJLvqBsUkB3V8ekZt"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 213678,
       "name": "1,2,3 dayz up",
       "url": "https://open.spotify.com/track/7yYthdauFfDxLhkWCsFtas"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nothing More to Say",
-        "url": "https://open.spotify.com/album/3fwjJp5CzCfUQtXsMflbHi"
-      },
-      "artists": [
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        }
-      ],
-      "duration_ms": 281636,
-      "name": "Eeehhh",
-      "url": "https://open.spotify.com/track/6tDPoIyvMNXeA597qtxDPN"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/48Q13iE86Fuum0tHaLrfoq">Joel Little</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-215 songs - 12 hr 12 min
+218 songs - 12 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [400 Lux](https://open.spotify.com/track/6hbEvR45Lj5EjgqF9XqXdi) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/2nPokmAvYy5qYO4rFU7ZDm) | 3:54 | 2024-01-29 |  |
 | [8TEEN](https://open.spotify.com/track/5bgwqaRSS3M8WHWruHgSL5) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [American Teen](https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg) | 3:48 | 2024-01-29 |  |
 | [A World Alone](https://open.spotify.com/track/6MEd3Xv1tQILtkqi0V30bw) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/2nPokmAvYy5qYO4rFU7ZDm) | 4:54 | 2024-01-29 |  |
-| [Aerial Love](https://open.spotify.com/track/5tA07aNEFIjJ5LLn29REZc) | [Daniel Johns](https://open.spotify.com/artist/52sbFniPptK6lNYHmuoPpz) | [Talk](https://open.spotify.com/album/4WEXLPtiftj1O4Sx03wPHb) | 3:34 | 2024-01-29 |  |
+| [Aerial Love](https://open.spotify.com/track/355787LU9T5PxFX4BJQ4Xr) | [Daniel Johns](https://open.spotify.com/artist/52sbFniPptK6lNYHmuoPpz) | [Talk](https://open.spotify.com/album/7lrC5VrR0O2PXl8EWbRztk) | 3:34 | 2026-04-12 |  |
+| [Aerial Love](https://open.spotify.com/track/5tA07aNEFIjJ5LLn29REZc) | [Daniel Johns](https://open.spotify.com/artist/52sbFniPptK6lNYHmuoPpz) | [Talk](https://open.spotify.com/album/4WEXLPtiftj1O4Sx03wPHb) | 3:34 | 2024-01-29 | 2026-04-13 |
 | [All for You](https://open.spotify.com/track/53VfHyJ5ka24B09kC10ye7) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Always and Never](https://open.spotify.com/album/4p71f2M9TBAKbJC6F2eVu0) | 4:51 | 2024-11-10 |  |
 | [All for You](https://open.spotify.com/track/6FxDpqMesj7mdDplzkHHcw) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Always And Never](https://open.spotify.com/album/0WMrKEAvHgKZAVz1LEZgwF) | 4:51 | 2024-01-29 | 2024-11-11 |
 | [All Hail The Serpent Queen Pt\. 3 of 3 \(Trilogy\) \(Holy Hell!\)](https://open.spotify.com/track/3LNTphUmLhEtnvd5d4uzs5) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [All Hail The Serpent Queen Pt\. 3 of 3 \(Trilogy\) \(Holy Hell!\)](https://open.spotify.com/album/7EnC5HAbfYA3ArvhS3OkvF) | 5:13 | 2024-01-29 | 2024-11-11 |
@@ -39,7 +40,8 @@
 | [Coattails](https://open.spotify.com/track/66uZIZ8Nz5OIuHUoLZK6X3) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Broods](https://open.spotify.com/album/17vQyc1dhEyxV6q5AxOWh8) | 3:15 | 2024-01-29 |  |
 | [Come Down](https://open.spotify.com/track/4QjtXlzepoVp3YXMvwxyyr) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Come Down](https://open.spotify.com/album/4eRfLOEHV8z0HZN7gg8UYh) | 2:59 | 2024-01-29 |  |
 | [Conscious](https://open.spotify.com/track/5aEVumHjIBObFBfNLWTrUV) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Conscious](https://open.spotify.com/album/61RfrwKu6wJmaZYh3xt0mF) | 4:00 | 2024-01-29 |  |
-| [Cool On Fire](https://open.spotify.com/track/3WifWW4VeNDQewWTRqGYCr) | [Daniel Johns](https://open.spotify.com/artist/52sbFniPptK6lNYHmuoPpz) | [Talk](https://open.spotify.com/album/4WEXLPtiftj1O4Sx03wPHb) | 3:33 | 2024-01-29 |  |
+| [Cool on Fire](https://open.spotify.com/track/1Qjf2wFVNI0oz9bTtUOac2) | [Daniel Johns](https://open.spotify.com/artist/52sbFniPptK6lNYHmuoPpz) | [Talk](https://open.spotify.com/album/7lrC5VrR0O2PXl8EWbRztk) | 3:33 | 2026-04-12 |  |
+| [Cool On Fire](https://open.spotify.com/track/3WifWW4VeNDQewWTRqGYCr) | [Daniel Johns](https://open.spotify.com/artist/52sbFniPptK6lNYHmuoPpz) | [Talk](https://open.spotify.com/album/4WEXLPtiftj1O4Sx03wPHb) | 3:33 | 2024-01-29 | 2026-04-13 |
 | [Couldn't Believe](https://open.spotify.com/track/2SCblOXQDX2ToK7JvqCksw) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Conscious](https://open.spotify.com/album/61RfrwKu6wJmaZYh3xt0mF) | 4:04 | 2024-01-29 |  |
 | [Cry](https://open.spotify.com/track/0CqGCpNdOktUrsTUEkWozV) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Awake](https://open.spotify.com/album/6Jwpxghteb64iHg6ftMnNo) | 3:19 | 2024-01-29 |  |
 | [Cynic](https://open.spotify.com/track/6IW6mD0OrfYXXkTgdLBQ83) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Busyhead](https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd) | 3:28 | 2024-01-29 |  |
@@ -205,7 +207,8 @@
 | [Tucan](https://open.spotify.com/track/4iWxyU3bl4KBozjH4fuVkR) | [Kids Of 88](https://open.spotify.com/artist/4XLDU2AQL3oFnd27IMcNqY) | [Modern Love](https://open.spotify.com/album/3hPVK7WbtRJgvuKSPNApfD) | 3:57 | 2024-01-29 |  |
 | [Unfortunate Soul](https://open.spotify.com/track/1fE5elkDubOWunpWJNVFKK) | [Kailee Morgue](https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0) | [Medusa](https://open.spotify.com/album/2cNdx2Guop1r7MT8dBucEd) | 3:07 | 2024-01-29 |  |
 | [Universe](https://open.spotify.com/track/4fQdAobfVctSk2ktC3zCS4) | [Kids Of 88](https://open.spotify.com/artist/4XLDU2AQL3oFnd27IMcNqY) | [Sugarpills EP](https://open.spotify.com/album/1G9NhKyIZ3aFL3eoLr1C5s) | 3:25 | 2024-01-29 |  |
-| [Warm Hands](https://open.spotify.com/track/26zeBswxGL0oYmaQoY66Bb) | [Daniel Johns](https://open.spotify.com/artist/52sbFniPptK6lNYHmuoPpz) | [Talk](https://open.spotify.com/album/4WEXLPtiftj1O4Sx03wPHb) | 3:48 | 2024-01-29 |  |
+| [Warm Hands](https://open.spotify.com/track/26zeBswxGL0oYmaQoY66Bb) | [Daniel Johns](https://open.spotify.com/artist/52sbFniPptK6lNYHmuoPpz) | [Talk](https://open.spotify.com/album/4WEXLPtiftj1O4Sx03wPHb) | 3:48 | 2024-01-29 | 2026-04-13 |
+| [Warm Hands](https://open.spotify.com/track/2oo231nFXaBANCMEIqTW1p) | [Daniel Johns](https://open.spotify.com/artist/52sbFniPptK6lNYHmuoPpz) | [Talk](https://open.spotify.com/album/7lrC5VrR0O2PXl8EWbRztk) | 3:48 | 2026-04-12 |  |
 | [We Had Everything](https://open.spotify.com/track/2YtGWoI8YM9yT41bPoyqWy) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Conscious](https://open.spotify.com/album/61RfrwKu6wJmaZYh3xt0mF) | 3:23 | 2024-01-29 |  |
 | [Welcome to Hell \(Intro\)](https://open.spotify.com/track/2SeaJ3G6v4VeF9n4P7PgEq) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Always and Never](https://open.spotify.com/album/4p71f2M9TBAKbJC6F2eVu0) | 0:48 | 2024-11-10 |  |
 | [Welcome to Hell \(Intro\)](https://open.spotify.com/track/6dX1aXRztvGlL5OziqQEEG) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Always And Never](https://open.spotify.com/album/0WMrKEAvHgKZAVz1LEZgwF) | 0:48 | 2024-01-29 | 2024-11-11 |

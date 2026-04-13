@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLvcwjNfHBR.md) - [plain]
 
 > Your new favourite songs! Cover: Cody Simpson
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,664 likes - 76 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,697 likes - 76 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

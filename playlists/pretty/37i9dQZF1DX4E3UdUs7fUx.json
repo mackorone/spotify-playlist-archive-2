@@ -1,6 +1,6 @@
 {
   "description": "Unwind and let the afternoon unfold.",
-  "num_followers": 2017490,
+  "num_followers": 2017250,
   "original_name": "Afternoon Acoustic",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
-        "name": "Crack-Up",
-        "url": "https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v"
-      },
-      "artists": [
-        {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
-        }
-      ],
-      "duration_ms": 210506,
-      "name": "If You Need To, Keep Time on Me",
-      "url": "https://open.spotify.com/track/7d0XkI4iJ32nxeFAHFXbLQ"
-    },
-    {
-      "added_at": "2024-08-23 15:05:15",
-      "album": {
         "name": "Dream Your Life Away",
         "url": "https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 223640,
       "name": "Mess Is Mine",
       "url": "https://open.spotify.com/track/7BVwi9cIzSc6tpyxsp47vJ"
+    },
+    {
+      "added_at": "2024-08-23 15:05:15",
+      "album": {
+        "name": "Crack-Up",
+        "url": "https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "duration_ms": 210506,
+      "name": "If You Need To, Keep Time on Me",
+      "url": "https://open.spotify.com/track/7d0XkI4iJ32nxeFAHFXbLQ"
     },
     {
       "added_at": "2024-08-23 15:05:15",
@@ -143,22 +143,6 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
-        "name": "Front Porch",
-        "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
-      },
-      "artists": [
-        {
-          "name": "Joy Williams",
-          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
-        }
-      ],
-      "duration_ms": 231813,
-      "name": "Front Porch",
-      "url": "https://open.spotify.com/track/5sVyefkGgQeYCgnqr4KslQ"
-    },
-    {
-      "added_at": "2024-08-23 15:05:15",
-      "album": {
         "name": "Nation of Two",
         "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 224400,
       "name": "Like Gold",
       "url": "https://open.spotify.com/track/6Od2OWvoT4embWAgIGeFRd"
+    },
+    {
+      "added_at": "2024-08-23 15:05:15",
+      "album": {
+        "name": "Front Porch",
+        "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
+      },
+      "artists": [
+        {
+          "name": "Joy Williams",
+          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
+        }
+      ],
+      "duration_ms": 231813,
+      "name": "Front Porch",
+      "url": "https://open.spotify.com/track/5sVyefkGgQeYCgnqr4KslQ"
     },
     {
       "added_at": "2024-08-23 15:05:15",
@@ -223,22 +223,6 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
-        "name": "Front Porch",
-        "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
-      },
-      "artists": [
-        {
-          "name": "Joy Williams",
-          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
-        }
-      ],
-      "duration_ms": 235586,
-      "name": "The Trouble with Wanting",
-      "url": "https://open.spotify.com/track/5ZUObJNpVt2l9GogUSfALc"
-    },
-    {
-      "added_at": "2024-08-23 15:05:15",
-      "album": {
         "name": "Flag Day (Original Soundtrack)",
         "url": "https://open.spotify.com/album/6y8qx4wS06EbInD9x8q5Xx"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 212546,
       "name": "I Think Of Angels",
       "url": "https://open.spotify.com/track/2OiTeK0Cjs1zGu6ZiA4yC2"
+    },
+    {
+      "added_at": "2024-08-23 15:05:15",
+      "album": {
+        "name": "Front Porch",
+        "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
+      },
+      "artists": [
+        {
+          "name": "Joy Williams",
+          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
+        }
+      ],
+      "duration_ms": 235586,
+      "name": "The Trouble with Wanting",
+      "url": "https://open.spotify.com/track/5ZUObJNpVt2l9GogUSfALc"
     },
     {
       "added_at": "2024-08-23 15:05:15",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
-        "name": "Quiet Talkers",
-        "url": "https://open.spotify.com/album/4qz1y6JRpFcSXMwAttnpzs"
-      },
-      "artists": [
-        {
-          "name": "Ken Yates",
-          "url": "https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi"
-        }
-      ],
-      "duration_ms": 230508,
-      "name": "Grey County Blues",
-      "url": "https://open.spotify.com/track/6CAZcxmUbPGe6ghbFTQutj"
-    },
-    {
-      "added_at": "2024-08-23 15:05:15",
-      "album": {
         "name": "Folk n\u2019 Roll Vol. 1: Tales Of Isolation",
         "url": "https://open.spotify.com/album/5rxYtc0dKFxROEin9UkD9d"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 303626,
       "name": "Lockdown On Date Night Tuesday",
       "url": "https://open.spotify.com/track/5l4KZmLaiImt906CJxl5nv"
+    },
+    {
+      "added_at": "2024-08-23 15:05:15",
+      "album": {
+        "name": "Quiet Talkers",
+        "url": "https://open.spotify.com/album/4qz1y6JRpFcSXMwAttnpzs"
+      },
+      "artists": [
+        {
+          "name": "Ken Yates",
+          "url": "https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi"
+        }
+      ],
+      "duration_ms": 230508,
+      "name": "Grey County Blues",
+      "url": "https://open.spotify.com/track/6CAZcxmUbPGe6ghbFTQutj"
     },
     {
       "added_at": "2024-08-23 15:05:15",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
-        "name": "Man Overboard",
-        "url": "https://open.spotify.com/album/6oW5g8LHKVdMowC6Gh565z"
-      },
-      "artists": [
-        {
-          "name": "Ed Prosek",
-          "url": "https://open.spotify.com/artist/6DchmKCVOKK707FCrLFFDW"
-        }
-      ],
-      "duration_ms": 176628,
-      "name": "Man Overboard",
-      "url": "https://open.spotify.com/track/2a2XU15f0Qnci4cOggrT2W"
-    },
-    {
-      "added_at": "2024-08-23 15:05:15",
-      "album": {
         "name": "St. Augustine",
         "url": "https://open.spotify.com/album/1wW1IczQXfuL58LT1pQfdA"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 210689,
       "name": "St. Augustine",
       "url": "https://open.spotify.com/track/6dG4m4wqyU4jeeb1JYWQj6"
+    },
+    {
+      "added_at": "2024-08-23 15:05:15",
+      "album": {
+        "name": "Man Overboard",
+        "url": "https://open.spotify.com/album/6oW5g8LHKVdMowC6Gh565z"
+      },
+      "artists": [
+        {
+          "name": "Ed Prosek",
+          "url": "https://open.spotify.com/artist/6DchmKCVOKK707FCrLFFDW"
+        }
+      ],
+      "duration_ms": 176628,
+      "name": "Man Overboard",
+      "url": "https://open.spotify.com/track/2a2XU15f0Qnci4cOggrT2W"
     },
     {
       "added_at": "2024-08-23 15:05:15",
@@ -1283,38 +1283,6 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
-        "name": "For Emma, Forever Ago",
-        "url": "https://open.spotify.com/album/4SxFsOO0h4Nz3lFJuysKq5"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 401413,
-      "name": "Re: Stacks",
-      "url": "https://open.spotify.com/track/2LthqyP0MLhGUBICwR1535"
-    },
-    {
-      "added_at": "2024-08-23 15:05:15",
-      "album": {
-        "name": "Little Giant",
-        "url": "https://open.spotify.com/album/7fqZrcQ53NpZugjmXHtLK3"
-      },
-      "artists": [
-        {
-          "name": "Roo Panes",
-          "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC"
-        }
-      ],
-      "duration_ms": 241720,
-      "name": "Tiger Striped Sky",
-      "url": "https://open.spotify.com/track/6FOyzhp375u8DapDyQqGTh"
-    },
-    {
-      "added_at": "2024-08-23 15:05:15",
-      "album": {
         "name": "Imperial Recordings Best Of",
         "url": "https://open.spotify.com/album/6v5e6P19VdYAy73GGjRDBV"
       },
@@ -1331,6 +1299,22 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
+        "name": "For Emma, Forever Ago",
+        "url": "https://open.spotify.com/album/4SxFsOO0h4Nz3lFJuysKq5"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 401413,
+      "name": "Re: Stacks",
+      "url": "https://open.spotify.com/track/2LthqyP0MLhGUBICwR1535"
+    },
+    {
+      "added_at": "2024-08-23 15:05:15",
+      "album": {
         "name": "Our Endless Numbered Days",
         "url": "https://open.spotify.com/album/20OPxsW0aYB6InxDImJRdt"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 152626,
       "name": "Naked As We Came",
       "url": "https://open.spotify.com/track/2gUSIsapdX6jEJ0DvjqTt2"
+    },
+    {
+      "added_at": "2024-08-23 15:05:15",
+      "album": {
+        "name": "Little Giant",
+        "url": "https://open.spotify.com/album/7fqZrcQ53NpZugjmXHtLK3"
+      },
+      "artists": [
+        {
+          "name": "Roo Panes",
+          "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC"
+        }
+      ],
+      "duration_ms": 241720,
+      "name": "Tiger Striped Sky",
+      "url": "https://open.spotify.com/track/6FOyzhp375u8DapDyQqGTh"
     },
     {
       "added_at": "2024-08-23 15:05:15",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
+        "name": "Safe (Acoustic)",
+        "url": "https://open.spotify.com/album/2IpY7zqljoR9lsytK4aYl7"
+      },
+      "artists": [
+        {
+          "name": "Shook Twins",
+          "url": "https://open.spotify.com/artist/1W7C5vzhPuZbHekm6xWu9i"
+        }
+      ],
+      "duration_ms": 225390,
+      "name": "Safe - Acoustic",
+      "url": "https://open.spotify.com/track/5tfFboWJhotbIPlY1aVsOD"
+    },
+    {
+      "added_at": "2024-08-23 15:05:15",
+      "album": {
         "name": "Resilient",
         "url": "https://open.spotify.com/album/3EaJWoy52v2Rxu79L2GAin"
       },
@@ -1443,22 +1459,6 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
-        "name": "Colder Heavens",
-        "url": "https://open.spotify.com/album/1NZp71mLzKkFFDj5RpK9Oi"
-      },
-      "artists": [
-        {
-          "name": "Blanco White",
-          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
-        }
-      ],
-      "duration_ms": 273893,
-      "name": "Colder Heavens",
-      "url": "https://open.spotify.com/track/15qtOgzv7mW3CQWQVgWIM6"
-    },
-    {
-      "added_at": "2024-08-23 15:05:15",
-      "album": {
         "name": "New Person, Old Place",
         "url": "https://open.spotify.com/album/6zEqrImo4scaX31UcjsTjC"
       },
@@ -1475,18 +1475,18 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
-        "name": "Safe (Acoustic)",
-        "url": "https://open.spotify.com/album/2IpY7zqljoR9lsytK4aYl7"
+        "name": "Colder Heavens",
+        "url": "https://open.spotify.com/album/1NZp71mLzKkFFDj5RpK9Oi"
       },
       "artists": [
         {
-          "name": "Shook Twins",
-          "url": "https://open.spotify.com/artist/1W7C5vzhPuZbHekm6xWu9i"
+          "name": "Blanco White",
+          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
         }
       ],
-      "duration_ms": 225390,
-      "name": "Safe - Acoustic",
-      "url": "https://open.spotify.com/track/5tfFboWJhotbIPlY1aVsOD"
+      "duration_ms": 273893,
+      "name": "Colder Heavens",
+      "url": "https://open.spotify.com/track/15qtOgzv7mW3CQWQVgWIM6"
     },
     {
       "added_at": "2024-08-23 15:05:15",

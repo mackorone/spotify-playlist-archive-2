@@ -4,7 +4,7 @@
 
 > Wyzwania, cele, zadania, spotkania, dedlajny… ale najpierw kawa.
 
-345 songs - 17 hr 21 min
+346 songs - 17 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@
 | [High](https://open.spotify.com/track/30cTrVY28P6ufiRk84k3Ut) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [High](https://open.spotify.com/album/17dK6MH8raVzec5UJnA5PI) | 3:16 | 2024-07-26 | 2025-03-08 |
 | [Higher](https://open.spotify.com/track/3ST1g55sl9NDYOw5BwtaqT) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Higher](https://open.spotify.com/album/3b8s7uA0RjzJlP3WfIpdsa) | 3:21 | 2024-09-20 | 2025-01-18 |
 | [Highland Girl](https://open.spotify.com/track/0gNE5SN9JNarhCpZBiHL9q) | [Nathan Evans](https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo) | [Highland Girl](https://open.spotify.com/album/2cwA7Q8oyybnd2r6JbkKm7) | 2:56 | 2024-06-28 | 2024-11-16 |
-| [Hiroszima, mon amour](https://open.spotify.com/track/3gMwIRYyZV3hpE5WhBCkNQ) | [Lordofon](https://open.spotify.com/artist/7G3hAQixY7DIAGTgA2GU99) | [Niesamowita Trupa Pana Hiroszimy](https://open.spotify.com/album/0keblXeuVMoglZxtBUGYfE) | 3:31 | 2025-10-10 |  |
+| [Hiroszima, mon amour](https://open.spotify.com/track/3gMwIRYyZV3hpE5WhBCkNQ) | [Lordofon](https://open.spotify.com/artist/7G3hAQixY7DIAGTgA2GU99) | [Niesamowita Trupa Pana Hiroszimy](https://open.spotify.com/album/0keblXeuVMoglZxtBUGYfE) | 3:31 | 2025-10-10 | 2026-04-13 |
 | [Holy Water](https://open.spotify.com/track/5Xnkr4b6swk6BA5IinCIlU) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Holy Water](https://open.spotify.com/album/6DD756fhA5jj74FmDBncgU) | 2:29 | 2025-08-08 | 2026-01-24 |
 | [Honey \- Single Version](https://open.spotify.com/track/60QsPPI3raXwut6iyO2gsk) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Honey](https://open.spotify.com/album/6gBBt9gof7vgnhgacXRv2T) | 2:54 | 2024-06-28 | 2024-07-19 |
 | [Hot!](https://open.spotify.com/track/3FEWfnYH4NG3iBsWySY3gh) | [Chloe Parché](https://open.spotify.com/artist/6jCOKlQ9OBPbQgPoZ3haov), [Holly Hebe](https://open.spotify.com/artist/3K511ClkYJM2a9tcaf2R3t) | [Hot!](https://open.spotify.com/album/45LEesLYqM29tkihh8Yyr0) | 2:45 | 2025-12-19 |  |
@@ -187,6 +187,7 @@
 | [Na krawędzi](https://open.spotify.com/track/4AXFFTYPxxog1dYi4NNOQ2) | [Verde](https://open.spotify.com/artist/09i0deXO9AB00wHavM30p7) | [Na krawędzi](https://open.spotify.com/album/5Hy6JDrLUYDFntfg5vsfYQ) | 2:27 | 2025-03-21 | 2025-05-20 |
 | [Na stół](https://open.spotify.com/track/30wdu4fIGIR34hjmu2NqvU) | [Natalia Szroeder](https://open.spotify.com/artist/2DhJauCHKgwVilZO9A8og3) | [REM](https://open.spotify.com/album/60pr4OenpcPMFiEkKObw6g) | 3:35 | 2024-11-29 | 2024-12-10 |
 | [Na szeroką wodę](https://open.spotify.com/track/377YrfXWzy5s3JVUveRITI) | [Roxie](https://open.spotify.com/artist/6Lf4vAUaFUR2jAsybC7cGV), [Favst](https://open.spotify.com/artist/16TsNPlesuA1R9kPLS6nta) | [Na szeroką wodę](https://open.spotify.com/album/6CXUDCiPhg6n3pUpueBZgJ) | 2:38 | 2026-02-23 |  |
+| [na zabój](https://open.spotify.com/track/4s6TSLuS5vJv1tmSSSuCXk) | [majtis](https://open.spotify.com/artist/0x85f5ZhAe1Oj4CTnWEPtv), [Alien BSC](https://open.spotify.com/artist/33wR1nI0o5pJgyl4ft8BWT), [samunowak](https://open.spotify.com/artist/0MYLB6VEVrATlmgPaBoQmt) | [na zabój](https://open.spotify.com/album/7MINDF0PK3Jj9Rp2yJAPaj) | 3:45 | 2026-04-10 |  |
 | [NA ZAWSZE](https://open.spotify.com/track/6CrpiFbI4s1kINkvYpYgCh) | [Kleks](https://open.spotify.com/artist/2Qk1uZpDnwDozHdxmB0dDx), [Marta Bijan](https://open.spotify.com/artist/6H38O4b9x7V56MfLOpfNZt) | [NA ZAWSZE](https://open.spotify.com/album/7KWCqttOI3ViyT004P1Nr5) | 2:55 | 2025-01-24 | 2025-02-08 |
 | [Nad Morze](https://open.spotify.com/track/27CrwOUz78ejDV5CkEzuRG) | [Julia Wieniawa](https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD) | [Nad Morze](https://open.spotify.com/album/6vLQyZsVUjc7CGaj14TO4h) | 2:20 | 2024-08-23 | 2024-09-23 |
 | [Naiwna ja](https://open.spotify.com/track/4x9GZTzFsErAMCDBNw6C6v) | [Wiktoria Kida](https://open.spotify.com/artist/6EuekoOKebcHJWIqHuBK0H), [Księga Żywiołów](https://open.spotify.com/artist/1TqYSOMq3DVt2cUERdU4v5) | [Naiwna ja](https://open.spotify.com/album/4XxHDMDdBKMF2paNzIrAdz) | 2:20 | 2025-11-07 |  |

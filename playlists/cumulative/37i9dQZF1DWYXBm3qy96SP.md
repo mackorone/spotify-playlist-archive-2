@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: The Strokes
 
-1,968 songs - 4 day 18 hr 6 min
+1,969 songs - 4 day 18 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [alright \(feat\. The Kid LAROI\)](https://open.spotify.com/track/1uQ5oCjZvQsMZaBFAdkSuF) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [EKKSTACY](https://open.spotify.com/album/5kBHoINYa2WwRaOK3vA7LC) | 2:09 | 2024-01-18 | 2024-05-03 |
 | [Always On My Mind](https://open.spotify.com/track/5YSoTfjiCDMynt1cocGIsS) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [Bradley Walker](https://open.spotify.com/artist/3WDUptC9KS6ZFNwkZipSlQ) | [Always On My Mind](https://open.spotify.com/album/5tDR5P1fGfzgPhaY7lvBPd) | 3:38 | 2023-09-15 | 2023-09-22 |
 | [AmEN! \(feat\. Lil Uzi Vert and Daryl Palumbo of Glassjaw\)](https://open.spotify.com/track/5viZ8CLipufc1Q1NXpMRNN) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Daryl Palumbo](https://open.spotify.com/artist/6GcRo52zMhZXYOsEkMyMrX), [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [AmEN! \(feat\. Lil Uzi Vert and Daryl Palumbo of Glassjaw\)](https://open.spotify.com/album/1n9nqA87ulG7FxxVrpULRA) | 3:09 | 2023-06-05 | 2024-01-19 |
+| [American Dream](https://open.spotify.com/track/2hEtEN8dt6Hj2djG33DT6e) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [American Dream](https://open.spotify.com/album/45NVjCLXsyk3X8gxD5d18s) | 4:27 | 2026-04-09 |  |
 | [An Arrow In The Wall](https://open.spotify.com/track/4UZIlXnN3AXAqwd9PpFtiU) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [An Arrow In The Wall](https://open.spotify.com/album/3lpSUYsMgtrhNEjsPfCfsz) | 4:49 | 2023-08-17 | 2023-08-25 |
 | [An Ending In Itself](https://open.spotify.com/track/10NpRPR6vhJLF2LutMM2Qk) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [An Ending In Itself](https://open.spotify.com/album/2KY8x9VYNQK8163vDBxdcr) | 3:36 | 2026-03-19 |  |
 | [ANGEL SONG \(feat\. David Draiman\)](https://open.spotify.com/track/2P8gpYwOOL37vKoDqCFXS9) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc), [David Draiman](https://open.spotify.com/artist/74uyCKYpif9tOA7iWvXlj1) | [ANGEL SONG \(feat\. David Draiman\)](https://open.spotify.com/album/3xG14XU3wjw2wYCwDPvx11) | 3:06 | 2024-05-16 | 2024-08-03 |
@@ -934,7 +935,7 @@
 | [KiSS OF DEATH](https://open.spotify.com/track/1rnNzNbx6Upu7PNXTVgCDE) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/7BoulOzl9ZKbDG1wc1ZyP3) | 3:52 | 2023-09-07 | 2023-09-09 |
 | [KiSS OF DEATH](https://open.spotify.com/track/3vv2Mr8J2jGPjFOPiaTwic) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [KiSS OF DEATH](https://open.spotify.com/album/0B5D8P1aZ82QMKjDr361Vg) | 3:52 | 2023-09-08 | 2023-09-29 |
 | [Kiss Ur Face Forever](https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Kiss Ur Face Forever](https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s) | 2:46 | 2023-08-03 | 2023-08-18 |
-| [KISSBURN](https://open.spotify.com/track/06PLaIZyj917CnrwaJ3USU) | [Bye Parula](https://open.spotify.com/artist/3CokWxStGaVakZGwOmIZjm) | [KISSBURN](https://open.spotify.com/album/5Q7FMsEUK0Cc35gxZqZDaT) | 3:12 | 2026-03-12 |  |
+| [KISSBURN](https://open.spotify.com/track/06PLaIZyj917CnrwaJ3USU) | [Bye Parula](https://open.spotify.com/artist/3CokWxStGaVakZGwOmIZjm) | [KISSBURN](https://open.spotify.com/album/5Q7FMsEUK0Cc35gxZqZDaT) | 3:12 | 2026-03-12 | 2026-04-13 |
 | [kisses](https://open.spotify.com/track/7LuPjGUfJqxuW14W4gMrU2) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [everything is alive](https://open.spotify.com/album/2jSmcj39eQiU76EbMGuxS0) | 3:57 | 2024-02-08 | 2024-03-01 |
 | [Knights of Jahannam](https://open.spotify.com/track/5hFOWZO8xzX0sQayxyUHR0) | [The Panturas](https://open.spotify.com/artist/1eblwVFP5H4whVZrYmXQLl) | [Knights of Jahannam / Soma Gospel](https://open.spotify.com/album/718mLwYhZMgjweBEFycTqz) | 3:29 | 2025-07-31 | 2025-08-10 |
 | [Knik](https://open.spotify.com/track/1JQN3gqqNUV83MeN8OLZax) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [SHISH](https://open.spotify.com/album/7pbhvtNUvp160w3qgtwCCg) | 5:38 | 2025-11-20 | 2025-11-27 |

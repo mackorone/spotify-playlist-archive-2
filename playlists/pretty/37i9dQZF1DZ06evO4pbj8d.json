@@ -1,12 +1,12 @@
 {
   "description": "This is Joy Oladokun. The essential tracks, all in one playlist.",
-  "num_followers": 11737,
+  "num_followers": 11743,
   "original_name": "This Is Joy Oladokun",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adg9gAAAAAC2OPNDlXcaIo5MgxejSXsp",
+  "snapshot_id": "admPAAAAAACG2ejW5NMVmynyt4f6Dx+y",
   "tracks": [
     {
       "added_at": null,
@@ -250,15 +250,11 @@
         {
           "name": "Joy Oladokun",
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        },
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
         }
       ],
-      "duration_ms": 179202,
-      "name": "We're All Gonna Die (with Noah Kahan)",
-      "url": "https://open.spotify.com/track/5hqTZiZ6Kj3QOvhhr27W3L"
+      "duration_ms": 216167,
+      "name": "Taking Things For Granted",
+      "url": "https://open.spotify.com/track/3I6n5FDKw6TCjPw7JjLHSG"
     },
     {
       "added_at": null,
@@ -318,11 +314,15 @@
         {
           "name": "Joy Oladokun",
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        },
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
         }
       ],
-      "duration_ms": 216167,
-      "name": "Taking Things For Granted",
-      "url": "https://open.spotify.com/track/3I6n5FDKw6TCjPw7JjLHSG"
+      "duration_ms": 179202,
+      "name": "We're All Gonna Die (with Noah Kahan)",
+      "url": "https://open.spotify.com/track/5hqTZiZ6Kj3QOvhhr27W3L"
     },
     {
       "added_at": null,

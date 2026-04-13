@@ -1,6 +1,6 @@
 {
   "description": "Die Musik f\u00fcr die H\u00fctten Gaudi!",
-  "num_followers": 492722,
+  "num_followers": 492730,
   "original_name": "Apr\u00e8s Ski Party 2026",
   "owner": {
     "name": "Spotify",
@@ -531,6 +531,26 @@
     {
       "added_at": "2026-04-02 22:01:15",
       "album": {
+        "name": "INSELBANDE",
+        "url": "https://open.spotify.com/album/3KxXN9jJE9Qi6qWujMb1Dx"
+      },
+      "artists": [
+        {
+          "name": "Rumbombe",
+          "url": "https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG"
+        },
+        {
+          "name": "bozi",
+          "url": "https://open.spotify.com/artist/3qmdhCda5tK3CPIJDdblKU"
+        }
+      ],
+      "duration_ms": 141593,
+      "name": "INSELBANDE",
+      "url": "https://open.spotify.com/track/16OpcUzFLKdf6wmDQsHcNg"
+    },
+    {
+      "added_at": "2026-04-02 22:01:15",
+      "album": {
         "name": "Herzfrequenz",
         "url": "https://open.spotify.com/album/6QZsxUU2TAV6J3LTgTk9Fz"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 209240,
       "name": "Das geht ab - Wir feiern die ganze Nacht",
       "url": "https://open.spotify.com/track/0TvcLuXOCVXQZwspgXPOZb"
-    },
-    {
-      "added_at": "2026-04-02 22:01:15",
-      "album": {
-        "name": "INSELBANDE",
-        "url": "https://open.spotify.com/album/3KxXN9jJE9Qi6qWujMb1Dx"
-      },
-      "artists": [
-        {
-          "name": "Rumbombe",
-          "url": "https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG"
-        },
-        {
-          "name": "bozi",
-          "url": "https://open.spotify.com/artist/3qmdhCda5tK3CPIJDdblKU"
-        }
-      ],
-      "duration_ms": 141593,
-      "name": "INSELBANDE",
-      "url": "https://open.spotify.com/track/16OpcUzFLKdf6wmDQsHcNg"
     },
     {
       "added_at": "2026-04-02 22:01:15",
@@ -643,22 +643,6 @@
     {
       "added_at": "2026-04-02 22:01:15",
       "album": {
-        "name": "Atzen Musik Vol.1, 2 & 3",
-        "url": "https://open.spotify.com/album/2pP7zvSMGAWtfoPBp2tYeh"
-      },
-      "artists": [
-        {
-          "name": "Die Atzen",
-          "url": "https://open.spotify.com/artist/1huEHiP7LUQ8QJHXbzrtDu"
-        }
-      ],
-      "duration_ms": 204946,
-      "name": "Disco Pogo",
-      "url": "https://open.spotify.com/track/1v5ux3K8vE1CWxDa0PVyGu"
-    },
-    {
-      "added_at": "2026-04-02 22:01:15",
-      "album": {
         "name": "Fliesentisch Romantik 2",
         "url": "https://open.spotify.com/album/4I26OoVzDFKeNX0zO2IcDM"
       },
@@ -683,6 +667,22 @@
     {
       "added_at": "2026-04-02 22:01:15",
       "album": {
+        "name": "Atzen Musik Vol.1, 2 & 3",
+        "url": "https://open.spotify.com/album/2pP7zvSMGAWtfoPBp2tYeh"
+      },
+      "artists": [
+        {
+          "name": "Die Atzen",
+          "url": "https://open.spotify.com/artist/1huEHiP7LUQ8QJHXbzrtDu"
+        }
+      ],
+      "duration_ms": 204946,
+      "name": "Disco Pogo",
+      "url": "https://open.spotify.com/track/1v5ux3K8vE1CWxDa0PVyGu"
+    },
+    {
+      "added_at": "2026-04-02 22:01:15",
+      "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/21howx0bfKfbOYTNAx0yi6"
       },
@@ -695,38 +695,6 @@
       "duration_ms": 205880,
       "name": "SOS",
       "url": "https://open.spotify.com/track/0eZ79jSIKo6SfpJ90iU3Nu"
-    },
-    {
-      "added_at": "2026-04-02 22:01:15",
-      "album": {
-        "name": "Octopus (100.000 H\u00e4nde)",
-        "url": "https://open.spotify.com/album/3xMHz5MiKDT3wLFe6OQ8ii"
-      },
-      "artists": [
-        {
-          "name": "Mountain Crew",
-          "url": "https://open.spotify.com/artist/6ZSaFzbVwdVeQIaiz4rv8Z"
-        }
-      ],
-      "duration_ms": 225787,
-      "name": "Octopus (100.000 H\u00e4nde)",
-      "url": "https://open.spotify.com/track/1FTHHYLGiFPujMx43PBcpm"
-    },
-    {
-      "added_at": "2026-04-02 22:01:15",
-      "album": {
-        "name": "Hurra die Gams",
-        "url": "https://open.spotify.com/album/7eAKCD9IX6rCUO8Gmr3I4Y"
-      },
-      "artists": [
-        {
-          "name": "Matty Valentino",
-          "url": "https://open.spotify.com/artist/01eNVgZ9dzR28mpouhde9h"
-        }
-      ],
-      "duration_ms": 204444,
-      "name": "Hurra die Gams",
-      "url": "https://open.spotify.com/track/7gJc9SPshSHnLSqz2d0ETV"
     },
     {
       "added_at": "2026-04-02 22:01:15",
@@ -747,6 +715,22 @@
     {
       "added_at": "2026-04-02 22:01:15",
       "album": {
+        "name": "Hurra die Gams",
+        "url": "https://open.spotify.com/album/7eAKCD9IX6rCUO8Gmr3I4Y"
+      },
+      "artists": [
+        {
+          "name": "Matty Valentino",
+          "url": "https://open.spotify.com/artist/01eNVgZ9dzR28mpouhde9h"
+        }
+      ],
+      "duration_ms": 204444,
+      "name": "Hurra die Gams",
+      "url": "https://open.spotify.com/track/7gJc9SPshSHnLSqz2d0ETV"
+    },
+    {
+      "added_at": "2026-04-02 22:01:15",
+      "album": {
         "name": "So Bist Du",
         "url": "https://open.spotify.com/album/7gvNdIuBUJIsjqBLpyqtdg"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 209135,
       "name": "So Bist Du",
       "url": "https://open.spotify.com/track/0O1aY7nPePS7BBPGEqQ31J"
+    },
+    {
+      "added_at": "2026-04-02 22:01:15",
+      "album": {
+        "name": "Octopus (100.000 H\u00e4nde)",
+        "url": "https://open.spotify.com/album/3xMHz5MiKDT3wLFe6OQ8ii"
+      },
+      "artists": [
+        {
+          "name": "Mountain Crew",
+          "url": "https://open.spotify.com/artist/6ZSaFzbVwdVeQIaiz4rv8Z"
+        }
+      ],
+      "duration_ms": 225787,
+      "name": "Octopus (100.000 H\u00e4nde)",
+      "url": "https://open.spotify.com/track/1FTHHYLGiFPujMx43PBcpm"
     },
     {
       "added_at": "2026-04-02 22:01:15",
@@ -963,26 +963,6 @@
     {
       "added_at": "2026-04-02 22:01:15",
       "album": {
-        "name": "Schau mal herein",
-        "url": "https://open.spotify.com/album/69m1H2ksabmBn4oCQzYut7"
-      },
-      "artists": [
-        {
-          "name": "Helene Fischer",
-          "url": "https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W"
-        },
-        {
-          "name": "Florian Silbereisen",
-          "url": "https://open.spotify.com/artist/4zgxsfsKRmAn6Wj2HXRYcq"
-        }
-      ],
-      "duration_ms": 183133,
-      "name": "Schau mal herein",
-      "url": "https://open.spotify.com/track/0f6pPvxwkvBFaIpfhAQHgt"
-    },
-    {
-      "added_at": "2026-04-02 22:01:15",
-      "album": {
         "name": "Mon Amour",
         "url": "https://open.spotify.com/album/3BjIVd4hhgr3Y0q95O1b1Z"
       },
@@ -1003,6 +983,26 @@
       "duration_ms": 182968,
       "name": "Mon Amour",
       "url": "https://open.spotify.com/track/6H1j5PiyxgyWTnDmabW0Ng"
+    },
+    {
+      "added_at": "2026-04-02 22:01:15",
+      "album": {
+        "name": "Schau mal herein",
+        "url": "https://open.spotify.com/album/69m1H2ksabmBn4oCQzYut7"
+      },
+      "artists": [
+        {
+          "name": "Helene Fischer",
+          "url": "https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W"
+        },
+        {
+          "name": "Florian Silbereisen",
+          "url": "https://open.spotify.com/artist/4zgxsfsKRmAn6Wj2HXRYcq"
+        }
+      ],
+      "duration_ms": 183133,
+      "name": "Schau mal herein",
+      "url": "https://open.spotify.com/track/0f6pPvxwkvBFaIpfhAQHgt"
     },
     {
       "added_at": "2026-04-02 22:01:15",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2026-04-02 22:01:15",
       "album": {
-        "name": "Drauf Gehn",
-        "url": "https://open.spotify.com/album/4YYW9NHriUkre72CiM493C"
-      },
-      "artists": [
-        {
-          "name": "HBz",
-          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
-        }
-      ],
-      "duration_ms": 151400,
-      "name": "Drauf Gehn",
-      "url": "https://open.spotify.com/track/1oInZfHh2xFY4TF9bD1jUR"
-    },
-    {
-      "added_at": "2026-04-02 22:01:15",
-      "album": {
         "name": "Hast Du Saufen mal probiert? (1000 und 1 Nacht)",
         "url": "https://open.spotify.com/album/7k4m57CRV2p6lueGYH7iSH"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 179061,
       "name": "Hast Du Saufen mal probiert? (1000 und 1 Nacht)",
       "url": "https://open.spotify.com/track/5fCBl1cfgQZaOdRCzKjcqT"
+    },
+    {
+      "added_at": "2026-04-02 22:01:15",
+      "album": {
+        "name": "Drauf Gehn",
+        "url": "https://open.spotify.com/album/4YYW9NHriUkre72CiM493C"
+      },
+      "artists": [
+        {
+          "name": "HBz",
+          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
+        }
+      ],
+      "duration_ms": 151400,
+      "name": "Drauf Gehn",
+      "url": "https://open.spotify.com/track/1oInZfHh2xFY4TF9bD1jUR"
     },
     {
       "added_at": "2026-04-02 22:01:15",
@@ -1159,22 +1159,22 @@
     {
       "added_at": "2026-04-02 22:01:15",
       "album": {
-        "name": "Oben unten (Party Edit)",
-        "url": "https://open.spotify.com/album/2BTgz7ff5y04sV3F5kzseH"
+        "name": "Party Chaos",
+        "url": "https://open.spotify.com/album/68DUsll6ui4bYNyvEZmIzS"
       },
       "artists": [
         {
-          "name": "R\u00e4uber",
-          "url": "https://open.spotify.com/artist/1rDAup2hSYtEvYQdYPGawi"
+          "name": "Die Atzen",
+          "url": "https://open.spotify.com/artist/1huEHiP7LUQ8QJHXbzrtDu"
         },
         {
-          "name": "Dj Aaron",
-          "url": "https://open.spotify.com/artist/0pVuJqYW9lsToZRBmkFXPJ"
+          "name": "Nena",
+          "url": "https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV"
         }
       ],
-      "duration_ms": 212250,
-      "name": "Oben unten - Party Edit",
-      "url": "https://open.spotify.com/track/4UfAtfhnKnBKZbyiVDobU2"
+      "duration_ms": 194173,
+      "name": "Strobo Pop",
+      "url": "https://open.spotify.com/track/0xTsllHxzqwYrsPUcruf72"
     },
     {
       "added_at": "2026-04-02 22:01:15",
@@ -1195,22 +1195,22 @@
     {
       "added_at": "2026-04-02 22:01:15",
       "album": {
-        "name": "Party Chaos",
-        "url": "https://open.spotify.com/album/68DUsll6ui4bYNyvEZmIzS"
+        "name": "Oben unten (Party Edit)",
+        "url": "https://open.spotify.com/album/2BTgz7ff5y04sV3F5kzseH"
       },
       "artists": [
         {
-          "name": "Die Atzen",
-          "url": "https://open.spotify.com/artist/1huEHiP7LUQ8QJHXbzrtDu"
+          "name": "R\u00e4uber",
+          "url": "https://open.spotify.com/artist/1rDAup2hSYtEvYQdYPGawi"
         },
         {
-          "name": "Nena",
-          "url": "https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV"
+          "name": "Dj Aaron",
+          "url": "https://open.spotify.com/artist/0pVuJqYW9lsToZRBmkFXPJ"
         }
       ],
-      "duration_ms": 194173,
-      "name": "Strobo Pop",
-      "url": "https://open.spotify.com/track/0xTsllHxzqwYrsPUcruf72"
+      "duration_ms": 212250,
+      "name": "Oben unten - Party Edit",
+      "url": "https://open.spotify.com/track/4UfAtfhnKnBKZbyiVDobU2"
     },
     {
       "added_at": "2026-04-02 22:01:15",
@@ -1375,26 +1375,6 @@
     {
       "added_at": "2026-04-02 22:01:15",
       "album": {
-        "name": "Wir eskalieren",
-        "url": "https://open.spotify.com/album/2XgIdJXUCfdSJIbXAglyHA"
-      },
-      "artists": [
-        {
-          "name": "FiNCH",
-          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
-        },
-        {
-          "name": "Mia Julia",
-          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
-        }
-      ],
-      "duration_ms": 216286,
-      "name": "Wir eskalieren",
-      "url": "https://open.spotify.com/track/2gxG1d0SZNpJHJFSQlE7Vm"
-    },
-    {
-      "added_at": "2026-04-02 22:01:15",
-      "album": {
         "name": "Malle Modus",
         "url": "https://open.spotify.com/album/4SqOC4BxArrCun8KoxQCBp"
       },
@@ -1411,6 +1391,26 @@
       "duration_ms": 184558,
       "name": "Malle Modus",
       "url": "https://open.spotify.com/track/1UlxNsiK2DJJLZ2qsY6hR4"
+    },
+    {
+      "added_at": "2026-04-02 22:01:15",
+      "album": {
+        "name": "Wir eskalieren",
+        "url": "https://open.spotify.com/album/2XgIdJXUCfdSJIbXAglyHA"
+      },
+      "artists": [
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        },
+        {
+          "name": "Mia Julia",
+          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+        }
+      ],
+      "duration_ms": 216286,
+      "name": "Wir eskalieren",
+      "url": "https://open.spotify.com/track/2gxG1d0SZNpJHJFSQlE7Vm"
     },
     {
       "added_at": "2026-04-02 22:01:15",
@@ -1467,26 +1467,6 @@
     {
       "added_at": "2026-04-02 22:01:15",
       "album": {
-        "name": "Zum Greifen nah",
-        "url": "https://open.spotify.com/album/5s9Tgn9nGXXo3RgUpWwkTf"
-      },
-      "artists": [
-        {
-          "name": "Rumbombe",
-          "url": "https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG"
-        },
-        {
-          "name": "Anstandslos & Durchgeknallt",
-          "url": "https://open.spotify.com/artist/5R8zS6ofKclznKk3ffudoO"
-        }
-      ],
-      "duration_ms": 167142,
-      "name": "Zum Greifen nah",
-      "url": "https://open.spotify.com/track/5LEBEcAsQTL2ZoRQEvsE1D"
-    },
-    {
-      "added_at": "2026-04-02 22:01:15",
-      "album": {
         "name": "Chaos im Kopf",
         "url": "https://open.spotify.com/album/0FIzghsHDMcpasJlE9VRdJ"
       },
@@ -1503,6 +1483,26 @@
       "duration_ms": 168750,
       "name": "Chaos im Kopf",
       "url": "https://open.spotify.com/track/1rrYKXHFlGuA9jBNoxok6C"
+    },
+    {
+      "added_at": "2026-04-02 22:01:15",
+      "album": {
+        "name": "Zum Greifen nah",
+        "url": "https://open.spotify.com/album/5s9Tgn9nGXXo3RgUpWwkTf"
+      },
+      "artists": [
+        {
+          "name": "Rumbombe",
+          "url": "https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG"
+        },
+        {
+          "name": "Anstandslos & Durchgeknallt",
+          "url": "https://open.spotify.com/artist/5R8zS6ofKclznKk3ffudoO"
+        }
+      ],
+      "duration_ms": 167142,
+      "name": "Zum Greifen nah",
+      "url": "https://open.spotify.com/track/5LEBEcAsQTL2ZoRQEvsE1D"
     }
   ],
   "unique_name": "Apr\u00e8s Ski Party 2026",

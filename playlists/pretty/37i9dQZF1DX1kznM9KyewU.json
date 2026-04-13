@@ -1,6 +1,6 @@
 {
   "description": "Rock on repeat during the summers of the 1990s.",
-  "num_followers": 120428,
+  "num_followers": 120496,
   "original_name": "90s Summer Rock",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2024-07-12 14:58:14",
       "album": {
-        "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
-      },
-      "artists": [
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "duration_ms": 266200,
-      "name": "1979 - Remastered 2012",
-      "url": "https://open.spotify.com/track/5QLHGv0DfpeXLNFo7SFEy1"
-    },
-    {
-      "added_at": "2024-07-12 14:58:14",
-      "album": {
         "name": "Enema Of The State",
         "url": "https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 148360,
       "name": "What's My Age Again?",
       "url": "https://open.spotify.com/track/4LJhJ6DQS7NwE7UKtvcM52"
+    },
+    {
+      "added_at": "2024-07-12 14:58:14",
+      "album": {
+        "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 266200,
+      "name": "1979 - Remastered 2012",
+      "url": "https://open.spotify.com/track/5QLHGv0DfpeXLNFo7SFEy1"
     },
     {
       "added_at": "2024-07-12 14:58:14",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2024-07-12 14:58:14",
       "album": {
-        "name": "Gorgeous George",
-        "url": "https://open.spotify.com/album/4gIHBmLBXUnDJgWhcPzNDG"
+        "name": "Tragic Kingdom",
+        "url": "https://open.spotify.com/album/22MtHr01EzeL6jmc5uwpHC"
       },
       "artists": [
         {
-          "name": "Edwyn Collins",
-          "url": "https://open.spotify.com/artist/5Qlt3zQ63Z99mNhuun0JAT"
+          "name": "No Doubt",
+          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
         }
       ],
-      "duration_ms": 236583,
-      "name": "A Girl Like You",
-      "url": "https://open.spotify.com/track/6XOINCZBv8Q7RXgNNiTwIN"
+      "duration_ms": 208400,
+      "name": "Just A Girl",
+      "url": "https://open.spotify.com/track/1VA38sp5Jr6vWxgoIcnxKN"
     },
     {
       "added_at": "2024-07-12 14:58:14",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2024-07-12 14:58:14",
       "album": {
-        "name": "Tragic Kingdom",
-        "url": "https://open.spotify.com/album/22MtHr01EzeL6jmc5uwpHC"
+        "name": "Gorgeous George",
+        "url": "https://open.spotify.com/album/4gIHBmLBXUnDJgWhcPzNDG"
       },
       "artists": [
         {
-          "name": "No Doubt",
-          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+          "name": "Edwyn Collins",
+          "url": "https://open.spotify.com/artist/5Qlt3zQ63Z99mNhuun0JAT"
         }
       ],
-      "duration_ms": 208400,
-      "name": "Just A Girl",
-      "url": "https://open.spotify.com/track/1VA38sp5Jr6vWxgoIcnxKN"
+      "duration_ms": 236583,
+      "name": "A Girl Like You",
+      "url": "https://open.spotify.com/track/6XOINCZBv8Q7RXgNNiTwIN"
     },
     {
       "added_at": "2024-07-12 14:58:14",

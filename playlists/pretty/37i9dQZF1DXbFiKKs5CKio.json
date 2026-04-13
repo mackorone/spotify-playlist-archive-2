@@ -1,6 +1,6 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 72163,
+  "num_followers": 72171,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
@@ -319,6 +319,22 @@
     {
       "added_at": "2026-03-27 19:13:43",
       "album": {
+        "name": "Cola Comigo",
+        "url": "https://open.spotify.com/album/5eucL3nRasXK7SCOnOZjhw"
+      },
+      "artists": [
+        {
+          "name": "LUTHULY",
+          "url": "https://open.spotify.com/artist/60FCr24uBUSiwk75v0vfVS"
+        }
+      ],
+      "duration_ms": 208617,
+      "name": "Cola Comigo",
+      "url": "https://open.spotify.com/track/1tByapKE4iJ52uQBc1V183"
+    },
+    {
+      "added_at": "2026-03-27 19:13:43",
+      "album": {
         "name": "Fiquei assim",
         "url": "https://open.spotify.com/album/6lwP5k0KjFzM2Rk1sIdCfN"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 218662,
       "name": "Fiquei assim",
       "url": "https://open.spotify.com/track/4F9xeQ3OJF2DOtdZdcCxnz"
-    },
-    {
-      "added_at": "2026-03-27 19:13:43",
-      "album": {
-        "name": "Cola Comigo",
-        "url": "https://open.spotify.com/album/5eucL3nRasXK7SCOnOZjhw"
-      },
-      "artists": [
-        {
-          "name": "LUTHULY",
-          "url": "https://open.spotify.com/artist/60FCr24uBUSiwk75v0vfVS"
-        }
-      ],
-      "duration_ms": 208617,
-      "name": "Cola Comigo",
-      "url": "https://open.spotify.com/track/1tByapKE4iJ52uQBc1V183"
     },
     {
       "added_at": "2026-03-27 19:13:43",

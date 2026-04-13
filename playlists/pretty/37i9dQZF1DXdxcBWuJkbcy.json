@@ -1,6 +1,6 @@
 {
   "description": "Pumping tracks for pumping iron!",
-  "num_followers": 7872700,
+  "num_followers": 7872414,
   "original_name": "Gym Hits",
   "owner": {
     "name": "Spotify",
@@ -483,26 +483,22 @@
     {
       "added_at": "2026-04-11 16:34:31",
       "album": {
-        "name": "ALL THE TIME",
-        "url": "https://open.spotify.com/album/6wDs2CP86hhNiDlySlMgZy"
+        "name": "Bad Angel (with LISA)",
+        "url": "https://open.spotify.com/album/4RyojhEO0VsnNacY6C3te7"
       },
       "artists": [
         {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
         },
         {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Ilsey",
-          "url": "https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j"
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
         }
       ],
-      "duration_ms": 180340,
-      "name": "ALL THE TIME",
-      "url": "https://open.spotify.com/track/1V8eQfZ1zpcdA9ctIb6fY7"
+      "duration_ms": 153281,
+      "name": "Bad Angel (with LISA)",
+      "url": "https://open.spotify.com/track/4QR40LqFAbMdabh4AoZJGZ"
     },
     {
       "added_at": "2026-04-11 16:34:31",
@@ -587,6 +583,30 @@
     {
       "added_at": "2026-04-11 16:34:31",
       "album": {
+        "name": "ALL THE TIME",
+        "url": "https://open.spotify.com/album/6wDs2CP86hhNiDlySlMgZy"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Ilsey",
+          "url": "https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j"
+        }
+      ],
+      "duration_ms": 180340,
+      "name": "ALL THE TIME",
+      "url": "https://open.spotify.com/track/1V8eQfZ1zpcdA9ctIb6fY7"
+    },
+    {
+      "added_at": "2026-04-11 16:34:31",
+      "album": {
         "name": "Mockingbird",
         "url": "https://open.spotify.com/album/22dOSFgcI8e3gJbHpG5gYg"
       },
@@ -627,26 +647,6 @@
       "duration_ms": 147307,
       "name": "Runaway (U & I)",
       "url": "https://open.spotify.com/track/4Nh7Umpl8YPFPcggcby6JW"
-    },
-    {
-      "added_at": "2026-04-11 16:34:31",
-      "album": {
-        "name": "Bad Angel (with LISA)",
-        "url": "https://open.spotify.com/album/4RyojhEO0VsnNacY6C3te7"
-      },
-      "artists": [
-        {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        },
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        }
-      ],
-      "duration_ms": 153281,
-      "name": "Bad Angel (with LISA)",
-      "url": "https://open.spotify.com/track/4QR40LqFAbMdabh4AoZJGZ"
     },
     {
       "added_at": "2026-04-11 16:34:31",
@@ -695,26 +695,6 @@
     {
       "added_at": "2026-04-11 16:34:31",
       "album": {
-        "name": "Derni\u00e8re danse (Techno Mix)",
-        "url": "https://open.spotify.com/album/3MhGOga5TlR7JfKxDSxv9Q"
-      },
-      "artists": [
-        {
-          "name": "Indila",
-          "url": "https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB"
-        },
-        {
-          "name": "BENNETT",
-          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
-        }
-      ],
-      "duration_ms": 197142,
-      "name": "Derni\u00e8re danse - Techno Mix",
-      "url": "https://open.spotify.com/track/5fIZ683j2xPeLAXfHeWKEG"
-    },
-    {
-      "added_at": "2026-04-11 16:34:31",
-      "album": {
         "name": "Alibi (feat. Rudimental)",
         "url": "https://open.spotify.com/album/3Ku8LDPYg53Kh59amfFWjL"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 184852,
       "name": "Alibi (feat. Rudimental)",
       "url": "https://open.spotify.com/track/5Jpz4nv8nA6FIYO5gEyQa2"
+    },
+    {
+      "added_at": "2026-04-11 16:34:31",
+      "album": {
+        "name": "Derni\u00e8re danse (Techno Mix)",
+        "url": "https://open.spotify.com/album/3MhGOga5TlR7JfKxDSxv9Q"
+      },
+      "artists": [
+        {
+          "name": "Indila",
+          "url": "https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB"
+        },
+        {
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+        }
+      ],
+      "duration_ms": 197142,
+      "name": "Derni\u00e8re danse - Techno Mix",
+      "url": "https://open.spotify.com/track/5fIZ683j2xPeLAXfHeWKEG"
     },
     {
       "added_at": "2026-04-11 16:34:31",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2026-04-11 16:34:31",
       "album": {
-        "name": "Give It To Me (Full Vocal Mix)",
-        "url": "https://open.spotify.com/album/1jbRY71konakrKvDUiW7Rp"
-      },
-      "artists": [
-        {
-          "name": "Matt Sassari",
-          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
-        }
-      ],
-      "duration_ms": 102860,
-      "name": "Give It To Me - Full Vocal Mix",
-      "url": "https://open.spotify.com/track/5ZduaRci3iNUiDfJbBfAaf"
-    },
-    {
-      "added_at": "2026-04-11 16:34:31",
-      "album": {
         "name": "Makeba (Ian Asher Remix)",
         "url": "https://open.spotify.com/album/69aS8KFiYm1TvWVjem6aLj"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 172515,
       "name": "Lioness",
       "url": "https://open.spotify.com/track/73rh3AJNXQl8iMWgWRrQTR"
+    },
+    {
+      "added_at": "2026-04-11 16:34:31",
+      "album": {
+        "name": "Give It To Me (Full Vocal Mix)",
+        "url": "https://open.spotify.com/album/1jbRY71konakrKvDUiW7Rp"
+      },
+      "artists": [
+        {
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+        }
+      ],
+      "duration_ms": 102860,
+      "name": "Give It To Me - Full Vocal Mix",
+      "url": "https://open.spotify.com/track/5ZduaRci3iNUiDfJbBfAaf"
     },
     {
       "added_at": "2026-04-11 16:34:31",
@@ -1247,18 +1247,22 @@
     {
       "added_at": "2026-04-11 16:34:31",
       "album": {
-        "name": "Be The One",
-        "url": "https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK"
+        "name": "Would You (go to bed with me?)",
+        "url": "https://open.spotify.com/album/41f0FqPlL8qM5Dx5LS57j1"
       },
       "artists": [
         {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+          "name": "Campbell",
+          "url": "https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK"
+        },
+        {
+          "name": "Alcemist",
+          "url": "https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0"
         }
       ],
-      "duration_ms": 169852,
-      "name": "Be The One",
-      "url": "https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW"
+      "duration_ms": 120522,
+      "name": "Would You (go to bed with me?)",
+      "url": "https://open.spotify.com/track/2N8gR2yftrHbZR53U5kYnX"
     },
     {
       "added_at": "2026-04-11 16:34:31",
@@ -1283,22 +1287,18 @@
     {
       "added_at": "2026-04-11 16:34:31",
       "album": {
-        "name": "Would You (go to bed with me?)",
-        "url": "https://open.spotify.com/album/41f0FqPlL8qM5Dx5LS57j1"
+        "name": "Be The One",
+        "url": "https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK"
       },
       "artists": [
         {
-          "name": "Campbell",
-          "url": "https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK"
-        },
-        {
-          "name": "Alcemist",
-          "url": "https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0"
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
         }
       ],
-      "duration_ms": 120522,
-      "name": "Would You (go to bed with me?)",
-      "url": "https://open.spotify.com/track/2N8gR2yftrHbZR53U5kYnX"
+      "duration_ms": 169852,
+      "name": "Be The One",
+      "url": "https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW"
     },
     {
       "added_at": "2026-04-11 16:34:31",
@@ -1359,18 +1359,30 @@
     {
       "added_at": "2026-04-11 16:34:31",
       "album": {
-        "name": "Orla",
-        "url": "https://open.spotify.com/album/7wdlY46kyc6xqANNpog05O"
+        "name": "Turn On The Lights again.. (feat. Future & Fred again..) [Remixes]",
+        "url": "https://open.spotify.com/album/71yJ0XH2iQA1uOk5CE95fx"
       },
       "artists": [
         {
-          "name": "nimino",
-          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
         }
       ],
-      "duration_ms": 205190,
-      "name": "Orla",
-      "url": "https://open.spotify.com/track/0VFmkwR6SCmT7TIJThlCn9"
+      "duration_ms": 253433,
+      "name": "Turn On The Lights again.. (feat. Future & Fred again..) - Anyma Remix",
+      "url": "https://open.spotify.com/track/4ptnQ0kQnN1U1Ig8TSslj6"
     },
     {
       "added_at": "2026-04-11 16:34:31",
@@ -1419,30 +1431,18 @@
     {
       "added_at": "2026-04-11 16:34:31",
       "album": {
-        "name": "Turn On The Lights again.. (feat. Future & Fred again..) [Remixes]",
-        "url": "https://open.spotify.com/album/71yJ0XH2iQA1uOk5CE95fx"
+        "name": "Orla",
+        "url": "https://open.spotify.com/album/7wdlY46kyc6xqANNpog05O"
       },
       "artists": [
         {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
         }
       ],
-      "duration_ms": 253433,
-      "name": "Turn On The Lights again.. (feat. Future & Fred again..) - Anyma Remix",
-      "url": "https://open.spotify.com/track/4ptnQ0kQnN1U1Ig8TSslj6"
+      "duration_ms": 205190,
+      "name": "Orla",
+      "url": "https://open.spotify.com/track/0VFmkwR6SCmT7TIJThlCn9"
     },
     {
       "added_at": "2026-04-11 16:34:31",
@@ -1591,22 +1591,22 @@
     {
       "added_at": "2026-04-11 16:34:31",
       "album": {
-        "name": "GET OUT MY HEAD",
-        "url": "https://open.spotify.com/album/7nWiweIvGw9ZxThZmBmJWA"
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/37CYoaYJA39qUt4zl00Dnp"
       },
       "artists": [
         {
-          "name": "NOTION",
-          "url": "https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM"
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
         },
         {
-          "name": "Redlight",
-          "url": "https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk"
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
         }
       ],
-      "duration_ms": 198478,
-      "name": "GET OUT MY HEAD",
-      "url": "https://open.spotify.com/track/4Yv3uFcvb6QEQaEzb5GqtK"
+      "duration_ms": 219785,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/1HJqcvrJAgiID47SEGe27X"
     },
     {
       "added_at": "2026-04-11 16:34:31",
@@ -1635,18 +1635,22 @@
     {
       "added_at": "2026-04-11 16:34:31",
       "album": {
-        "name": "stranger",
-        "url": "https://open.spotify.com/album/6GjQcXNt5XqbnpaWOF9I5S"
+        "name": "GET OUT MY HEAD",
+        "url": "https://open.spotify.com/album/7nWiweIvGw9ZxThZmBmJWA"
       },
       "artists": [
         {
-          "name": "WHIPPED CREAM",
-          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+          "name": "NOTION",
+          "url": "https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM"
+        },
+        {
+          "name": "Redlight",
+          "url": "https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk"
         }
       ],
-      "duration_ms": 148943,
-      "name": "stranger",
-      "url": "https://open.spotify.com/track/4tBlbT0gn97P6wJ9ZhZruK"
+      "duration_ms": 198478,
+      "name": "GET OUT MY HEAD",
+      "url": "https://open.spotify.com/track/4Yv3uFcvb6QEQaEzb5GqtK"
     }
   ],
   "unique_name": "Gym Hits",

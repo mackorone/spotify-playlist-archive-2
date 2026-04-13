@@ -1,6 +1,6 @@
 {
   "description": "Sit back and relax to our favorite local OPM and R&B sounds.",
-  "num_followers": 577169,
+  "num_followers": 577137,
   "original_name": "Relax Tayo",
   "owner": {
     "name": "Spotify",
@@ -275,18 +275,18 @@
     {
       "added_at": "2026-04-08 03:55:58",
       "album": {
-        "name": "Love And Soul",
-        "url": "https://open.spotify.com/album/1e0Tqcfn0eqgFicrFFYNMl"
+        "name": "Andalucia",
+        "url": "https://open.spotify.com/album/3rK5A6he7WDayWPDm3ttSh"
       },
       "artists": [
         {
-          "name": "Jireh Lim",
-          "url": "https://open.spotify.com/artist/6urxZktbtGcTIIqxQZ1d8q"
+          "name": "IV OF SPADES",
+          "url": "https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG"
         }
       ],
-      "duration_ms": 312133,
-      "name": "Buko",
-      "url": "https://open.spotify.com/track/5uH5Gl7brNoFCpR9Ds9k94"
+      "duration_ms": 207920,
+      "name": "Kabisado",
+      "url": "https://open.spotify.com/track/4z928BtE4j1bjhcX9RU44M"
     },
     {
       "added_at": "2026-04-08 03:55:58",
@@ -311,18 +311,18 @@
     {
       "added_at": "2026-04-08 03:55:58",
       "album": {
-        "name": "Andalucia",
-        "url": "https://open.spotify.com/album/3rK5A6he7WDayWPDm3ttSh"
+        "name": "Love And Soul",
+        "url": "https://open.spotify.com/album/1e0Tqcfn0eqgFicrFFYNMl"
       },
       "artists": [
         {
-          "name": "IV OF SPADES",
-          "url": "https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG"
+          "name": "Jireh Lim",
+          "url": "https://open.spotify.com/artist/6urxZktbtGcTIIqxQZ1d8q"
         }
       ],
-      "duration_ms": 207920,
-      "name": "Kabisado",
-      "url": "https://open.spotify.com/track/4z928BtE4j1bjhcX9RU44M"
+      "duration_ms": 312133,
+      "name": "Buko",
+      "url": "https://open.spotify.com/track/5uH5Gl7brNoFCpR9Ds9k94"
     },
     {
       "added_at": "2026-04-08 03:55:58",
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-04-08 03:55:58",
       "album": {
-        "name": "Cafe Bossa",
-        "url": "https://open.spotify.com/album/0JPSXvzFg02DSytNE16MSw"
-      },
-      "artists": [
-        {
-          "name": "Sitti",
-          "url": "https://open.spotify.com/artist/0t7vWPRBcVv4xBEHPZHSWA"
-        }
-      ],
-      "duration_ms": 186240,
-      "name": "Para Sa Akin",
-      "url": "https://open.spotify.com/track/0MqkYdGBzHx7lnaFvo7doR"
-    },
-    {
-      "added_at": "2026-04-08 03:55:58",
-      "album": {
         "name": "Gabi",
         "url": "https://open.spotify.com/album/7wblINp3AEPE9nNOurnaCa"
       },
@@ -859,22 +843,34 @@
     {
       "added_at": "2026-04-08 03:55:58",
       "album": {
-        "name": "Di Ko Alam",
-        "url": "https://open.spotify.com/album/65yOErUwFhSK9t1so39QBT"
+        "name": "Cafe Bossa",
+        "url": "https://open.spotify.com/album/0JPSXvzFg02DSytNE16MSw"
       },
       "artists": [
         {
-          "name": "RussJr",
-          "url": "https://open.spotify.com/artist/1tfSYCR5FHZlqLzla1lJeG"
-        },
-        {
-          "name": "Melodias",
-          "url": "https://open.spotify.com/artist/51mJcbrO6wCPWJDXffpAKi"
+          "name": "Sitti",
+          "url": "https://open.spotify.com/artist/0t7vWPRBcVv4xBEHPZHSWA"
         }
       ],
-      "duration_ms": 192361,
-      "name": "Di Ko Alam",
-      "url": "https://open.spotify.com/track/1ESvI4PhWa7pZCh7JRrmLs"
+      "duration_ms": 186240,
+      "name": "Para Sa Akin",
+      "url": "https://open.spotify.com/track/0MqkYdGBzHx7lnaFvo7doR"
+    },
+    {
+      "added_at": "2026-04-08 03:55:58",
+      "album": {
+        "name": "Pasulong",
+        "url": "https://open.spotify.com/album/6AdDhvJCm1PxzwqYzS1uE2"
+      },
+      "artists": [
+        {
+          "name": "Alamat",
+          "url": "https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW"
+        }
+      ],
+      "duration_ms": 210782,
+      "name": "Maharani",
+      "url": "https://open.spotify.com/track/6KAnNItOZJ85PT3s0KqMgT"
     }
   ],
   "unique_name": "Relax Tayo",

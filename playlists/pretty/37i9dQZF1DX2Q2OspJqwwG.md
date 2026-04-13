@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 
 > Un playlist \(foarte\) divers, cu tot ce e viral și trending în România
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,674 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,682 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 | 90 | [Cupidoane](https://open.spotify.com/track/7EU7LfkpzVy60icTM3y5lb) | [Tzanca Uraganu](https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66) | [Cupidoane](https://open.spotify.com/album/26kVsTzpGVeCOYar1wY0ih) | 2:26 |
 | 91 | [Gagica\-ta \- Golden Cypher](https://open.spotify.com/track/4Hk1JHeOxf7ScnVEvzMOtY) | [Ursaru](https://open.spotify.com/artist/3bxxzWVZpk4rfuuQUESsAy), [LiToo The Purp](https://open.spotify.com/artist/06fgskAr7fPSrBKJhp9p19), [Vali Miron](https://open.spotify.com/artist/1ojOFDojdgukpkEF7L1opU), [MADATORRICELLI](https://open.spotify.com/artist/4y2uMVYqHq7SlTTfBQpdsJ) | [Gagica\-ta \(Golden Cypher\)](https://open.spotify.com/album/2MXQCiha96eJp32V624dhb) | 2:58 |
 | 92 | [E Mult, E Greu!](https://open.spotify.com/track/6OfGAcaOGhkgXWWrSsRpzj) | [Johny Romano](https://open.spotify.com/artist/049DlsIPXRROSgnc8mJeWd) | [E Mult, E Greu!](https://open.spotify.com/album/2MO3K0AD3WGrjgL3Knfql2) | 2:21 |
-| 93 | [Picătura De Cerneală](https://open.spotify.com/track/7GjPNNYceZpREp4ivK8YEG) | [Iuliana Beregoi](https://open.spotify.com/artist/6nNfOfgm69ASAI4UM8Xaym), [Cristian Porcari](https://open.spotify.com/artist/2CYdLJs282GH7B65QAZEA7) | [Picătura De Cerneală](https://open.spotify.com/album/1dJdy2U2isiT2Wew6xfTRI) | 2:49 |
-| 94 | [Anxiety](https://open.spotify.com/track/2RMeldjCXW6xnd1ZeLycv7) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Anxiety](https://open.spotify.com/album/6vn4PpHr01H37q9khkzRby) | 4:09 |
+| 93 | [Anxiety](https://open.spotify.com/track/2RMeldjCXW6xnd1ZeLycv7) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Anxiety](https://open.spotify.com/album/6vn4PpHr01H37q9khkzRby) | 4:09 |
+| 94 | [Picătura De Cerneală](https://open.spotify.com/track/7GjPNNYceZpREp4ivK8YEG) | [Iuliana Beregoi](https://open.spotify.com/artist/6nNfOfgm69ASAI4UM8Xaym), [Cristian Porcari](https://open.spotify.com/artist/2CYdLJs282GH7B65QAZEA7) | [Picătura De Cerneală](https://open.spotify.com/album/1dJdy2U2isiT2Wew6xfTRI) | 2:49 |
 | 95 | [Damelo](https://open.spotify.com/track/37h8o6hEV5jdmiNpZkFxRF) | [Tzanca Uraganu](https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66), [Mr\. Juve](https://open.spotify.com/artist/3Mpgf08uPOZUYMnFDRSRV8) | [Damelo](https://open.spotify.com/album/4wauIktNjjNpMduE5M4wuW) | 2:37 |
 | 96 | [Ponte Pa Mi](https://open.spotify.com/track/78uC56WFICXVzko7aBUXHJ) | [Ursaru](https://open.spotify.com/artist/3bxxzWVZpk4rfuuQUESsAy) | [Ponte Pa Mi](https://open.spotify.com/album/4wWK09bmpWvpfA2Fe2vcFV) | 2:05 |
 | 97 | [Doar La Ea, Ba La Ea](https://open.spotify.com/track/4loUiQ8a84Lu4Ar8KQlPb9) | [Denis Nuca](https://open.spotify.com/artist/4TLna5dZJK26djhdP36lmj), [Letty](https://open.spotify.com/artist/38W9DiKfCJQxQp5zUYyFDw) | [Doar La Ea, Ba La Ea](https://open.spotify.com/album/6CTs4VrA2TCwvjM4x7hmIG) | 2:28 |

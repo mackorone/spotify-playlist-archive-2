@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ENQ5d8ERww.md) - [plain]
 
 > Die Klassiker des Schweizer Hip\-Hop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,184 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,186 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Musigg i dä Schwiiz](https://open.spotify.com/track/3rrXQC7hEBynPo3qmHWNDA) | [Bligg](https://open.spotify.com/artist/1q4LHoD7IzquqGQR4YZRQr) | [0816 \(Deluxe Edition\)](https://open.spotify.com/album/5xY03mntZ8UYzw9JyhVovX) | 3:22 |
-| 2 | [Stärne](https://open.spotify.com/track/38yEl7W2oSadApIpDIwSKX) | [Manillio](https://open.spotify.com/artist/7uxtLjuqkJ3cnjQQuW6Cul) | [Jede Tag Superstar](https://open.spotify.com/album/2CMJp148PeeikwZvkCu1q5) | 4:02 |
-| 3 | [I han](https://open.spotify.com/track/4WNltXQt68fQVJnCuzfsz1) | [Sektion Kuchikäschtli](https://open.spotify.com/artist/4KURgfv2oCG5QwwyWENs2C) | [Nur So Am Rand \(Remastered\)](https://open.spotify.com/album/4rCvshzK56R0wQTK39Nrd8) | 3:28 |
+| 2 | [I han](https://open.spotify.com/track/4WNltXQt68fQVJnCuzfsz1) | [Sektion Kuchikäschtli](https://open.spotify.com/artist/4KURgfv2oCG5QwwyWENs2C) | [Nur So Am Rand \(Remastered\)](https://open.spotify.com/album/4rCvshzK56R0wQTK39Nrd8) | 3:28 |
+| 3 | [Stärne](https://open.spotify.com/track/38yEl7W2oSadApIpDIwSKX) | [Manillio](https://open.spotify.com/artist/7uxtLjuqkJ3cnjQQuW6Cul) | [Jede Tag Superstar](https://open.spotify.com/album/2CMJp148PeeikwZvkCu1q5) | 4:02 |
 | 4 | [Siemis](https://open.spotify.com/track/2kqXy5VfY8683DXZo7WZ77) | [Liricas Analas](https://open.spotify.com/artist/5jkz9EwYPqPfknFOnhRnTH), [Jo\-Hannes](https://open.spotify.com/artist/3C7ID2KBOmWTE3vMKmvCUc), [Renzo Hendry](https://open.spotify.com/artist/2wGweckqVrFthNYfUHWlIs), [Johannes Just](https://open.spotify.com/artist/5CDZXmwFVn3T371G1Nny3I), [Roman](https://open.spotify.com/artist/0x6C8pK08G6plMlOkdTapy), [Roman Flepp](https://open.spotify.com/artist/4kmbfbb2WqDTCFOhsWL4Tk) | [Analfabad](https://open.spotify.com/album/1lOFtEufGCFM9Mwy3DgqLb) | 3:41 |
 | 5 | [Noochbrand](https://open.spotify.com/track/2WKldSa835nWGsXe0QMAKd) | [Brandhärd](https://open.spotify.com/artist/3H4Lewhv1ThuWvqzOcnJQ4) | [Noochbrand](https://open.spotify.com/album/3594OhXuEQ7jFNCvRjKr25) | 4:09 |
 | 6 | [So andersch](https://open.spotify.com/track/27anAv26kc5Wea1JUO8USD) | [Möchtegang](https://open.spotify.com/artist/6r6G2kcHgJ3kvjQgMElhfI), [Bandit](https://open.spotify.com/artist/0JjVRX0d2SnWZc3I1sEfvS), [C.mEE](https://open.spotify.com/artist/5SDHtF6OPiBSXYZLRF6MFr), [Fratelli\-B](https://open.spotify.com/artist/1N4ibK49V5vDhlErN0Akj0), [Phumaso & Smack](https://open.spotify.com/artist/2uOvks2pSGWPKKw30tq9kS) | [Mittwuch Nami](https://open.spotify.com/album/4No2YOxPtetkFsu1kLsAKO) | 4:25 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ENQ5d8ERww.md) - [plain]
 | 29 | [Nackt](https://open.spotify.com/track/0M4egOl3bq3YnaYm2H7651) | [CBN](https://open.spotify.com/artist/6J4GECNmYunLtUBdV3kknJ) | [Papillon](https://open.spotify.com/album/6xSCPgzot5N8EEHZ8Px85J) | 3:45 |
 | 30 | [Wenn I Läb, Wenn I Stirb](https://open.spotify.com/track/539kZ2pC0Z6SgfXz6vOZaP) | [Boys On Pills](https://open.spotify.com/artist/4q432HNxWLljhWJlYBaUDb) | [Nacht](https://open.spotify.com/album/7K0Zi0wRJt4CDVot8tvpXh) | 3:03 |
 | 31 | [Summer für immer](https://open.spotify.com/track/4qg7hAn4Qyt4gx1BAoCMkO) | [Chlyklass](https://open.spotify.com/artist/1qBjtwUEeQ3Ub1ABCbRgUT) | [Ke Summer](https://open.spotify.com/album/30Mi9NDU5H1nMN39FeupxK) | 4:05 |
-| 32 | [Min Ort 2010](https://open.spotify.com/track/3HkMfKwvdCLtTblUfJFnDq) | [Dabu Fantastic](https://open.spotify.com/artist/7aaXYTOjKbeCwVxZRXAC24) | [Discochugle](https://open.spotify.com/album/2kOnkk5f7NHrXDZT0CQHjK) | 3:40 |
-| 33 | [Weisch Du no?](https://open.spotify.com/track/23Sd2rLCLz1Bd9BHbZb9iQ) | [Knackeboul](https://open.spotify.com/artist/5bp4bA5lgte1Iag0omrGYw), [Polo Hofer](https://open.spotify.com/artist/5J0q4JXRlR7EjwTU8gThxF) | [Picasso](https://open.spotify.com/album/15CdVyhICOqQrPprJEh7v2) | 2:50 |
+| 32 | [Weisch Du no?](https://open.spotify.com/track/23Sd2rLCLz1Bd9BHbZb9iQ) | [Knackeboul](https://open.spotify.com/artist/5bp4bA5lgte1Iag0omrGYw), [Polo Hofer](https://open.spotify.com/artist/5J0q4JXRlR7EjwTU8gThxF) | [Picasso](https://open.spotify.com/album/15CdVyhICOqQrPprJEh7v2) | 2:50 |
+| 33 | [Min Ort 2010](https://open.spotify.com/track/3HkMfKwvdCLtTblUfJFnDq) | [Dabu Fantastic](https://open.spotify.com/artist/7aaXYTOjKbeCwVxZRXAC24) | [Discochugle](https://open.spotify.com/album/2kOnkk5f7NHrXDZT0CQHjK) | 3:40 |
 | 34 | [Figg mitt](https://open.spotify.com/track/5Jnjb7xP2BrLzxPIsJcOl2) | [PVP](https://open.spotify.com/artist/5HRA33OVSrSR37rbbFKtNG), [Wurzel 5](https://open.spotify.com/artist/735iLNwRvdc39OXIbF9W4K) | [Eifach nüt](https://open.spotify.com/album/5vRyfEOWuNEUX3DLOUeGSj) | 4:13 |
 | 35 | [Du Hesch Ke](https://open.spotify.com/track/6uUqFin8qIVVTP8ch9MMmW) | [Webba](https://open.spotify.com/artist/017QhuKZfqKAxJHG2ZmolS), [Baze](https://open.spotify.com/artist/0EWsAmk51sjDlGl7PsvqcH) | [Deheim?](https://open.spotify.com/album/5FcPc8QMIXG8DdH66yLqY1) | 4:33 |
 | 36 | [Teil Vom Problem](https://open.spotify.com/track/4dK2t6AV9WtyxuKw3qZGDd) | [Greis](https://open.spotify.com/artist/4529nltiXhYqju0EI0SJUp) | [3](https://open.spotify.com/album/0D41OBWqhA1ChJvYnQHySI) | 3:47 |

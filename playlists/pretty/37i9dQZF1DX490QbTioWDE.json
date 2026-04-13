@@ -1,6 +1,6 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Ulises Bueno y Valentina Marquez",
-  "num_followers": 817958,
+  "num_followers": 818055,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
@@ -1259,22 +1259,18 @@
     {
       "added_at": "2026-04-02 20:17:50",
       "album": {
-        "name": "Muero (feat. Eugenia Quevedo)",
-        "url": "https://open.spotify.com/album/1sw7RzeT2J98lbW73sjxcS"
+        "name": "Luis",
+        "url": "https://open.spotify.com/album/4oGC8tnOTEz7p0eTCpTTCN"
       },
       "artists": [
         {
-          "name": "Sabroso",
-          "url": "https://open.spotify.com/artist/4mKTJIb405EHH5GGfIhaeO"
-        },
-        {
-          "name": "Eugenia Quevedo",
-          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
+          "name": "El Loco Amato",
+          "url": "https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p"
         }
       ],
-      "duration_ms": 264563,
-      "name": "Muero (feat. Eugenia Quevedo)",
-      "url": "https://open.spotify.com/track/29MFesnqGPh4zA66sViKt9"
+      "duration_ms": 263986,
+      "name": "Luis",
+      "url": "https://open.spotify.com/track/04CiUEpdHDIZvEjuN5gRfh"
     },
     {
       "added_at": "2026-04-02 20:17:50",
@@ -1303,18 +1299,22 @@
     {
       "added_at": "2026-04-02 20:17:50",
       "album": {
-        "name": "Luis",
-        "url": "https://open.spotify.com/album/4oGC8tnOTEz7p0eTCpTTCN"
+        "name": "Muero (feat. Eugenia Quevedo)",
+        "url": "https://open.spotify.com/album/1sw7RzeT2J98lbW73sjxcS"
       },
       "artists": [
         {
-          "name": "El Loco Amato",
-          "url": "https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p"
+          "name": "Sabroso",
+          "url": "https://open.spotify.com/artist/4mKTJIb405EHH5GGfIhaeO"
+        },
+        {
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
         }
       ],
-      "duration_ms": 263986,
-      "name": "Luis",
-      "url": "https://open.spotify.com/track/04CiUEpdHDIZvEjuN5gRfh"
+      "duration_ms": 264563,
+      "name": "Muero (feat. Eugenia Quevedo)",
+      "url": "https://open.spotify.com/track/29MFesnqGPh4zA66sViKt9"
     },
     {
       "added_at": "2026-04-02 20:17:50",
@@ -1363,6 +1363,26 @@
     {
       "added_at": "2026-04-02 20:17:50",
       "album": {
+        "name": "Son De Amores",
+        "url": "https://open.spotify.com/album/6B40uzVRSU2ms7KUuLJGdd"
+      },
+      "artists": [
+        {
+          "name": "Simon Aguirre",
+          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
+        },
+        {
+          "name": "Jean Carlos",
+          "url": "https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9"
+        }
+      ],
+      "duration_ms": 181600,
+      "name": "Son De Amores",
+      "url": "https://open.spotify.com/track/5C7TEWAPPjqb99qGSsMiN4"
+    },
+    {
+      "added_at": "2026-04-02 20:17:50",
+      "album": {
         "name": "Por Ese Hombre (En Vivo)",
         "url": "https://open.spotify.com/album/0BtiuO6dlmwCn5ZNLC1XI0"
       },
@@ -1383,26 +1403,6 @@
       "duration_ms": 242000,
       "name": "Por Ese Hombre - En Vivo",
       "url": "https://open.spotify.com/track/0S33HwsUNnsCay68WOcHbS"
-    },
-    {
-      "added_at": "2026-04-02 20:17:50",
-      "album": {
-        "name": "Son De Amores",
-        "url": "https://open.spotify.com/album/6B40uzVRSU2ms7KUuLJGdd"
-      },
-      "artists": [
-        {
-          "name": "Simon Aguirre",
-          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
-        },
-        {
-          "name": "Jean Carlos",
-          "url": "https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9"
-        }
-      ],
-      "duration_ms": 181600,
-      "name": "Son De Amores",
-      "url": "https://open.spotify.com/track/5C7TEWAPPjqb99qGSsMiN4"
     },
     {
       "added_at": "2026-04-02 20:17:50",

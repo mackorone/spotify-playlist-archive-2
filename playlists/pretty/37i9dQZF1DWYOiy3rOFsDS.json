@@ -1,6 +1,6 @@
 {
   "description": "Romance a la antig\u00fcita con La Santa Cecilia en portada.",
-  "num_followers": 547053,
+  "num_followers": 547031,
   "original_name": "nuevo bolero",
   "owner": {
     "name": "Spotify",
@@ -403,6 +403,22 @@
     {
       "added_at": "2026-04-10 06:00:50",
       "album": {
+        "name": "Mis Romances",
+        "url": "https://open.spotify.com/album/0hAqX9l2oj2RQAHLWrilLv"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 206173,
+      "name": "Perfidia",
+      "url": "https://open.spotify.com/track/6deDgyezRHEFVrQqBewImr"
+    },
+    {
+      "added_at": "2026-04-10 06:00:50",
+      "album": {
         "name": "Nombre y Apellido",
         "url": "https://open.spotify.com/album/1w2Yqtcb9tTGRx93hKSawe"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 271208,
       "name": "Nombre y Apellido",
       "url": "https://open.spotify.com/track/5T3GPd0C19r3y4ahADtiXH"
-    },
-    {
-      "added_at": "2026-04-10 06:00:50",
-      "album": {
-        "name": "Mis Romances",
-        "url": "https://open.spotify.com/album/0hAqX9l2oj2RQAHLWrilLv"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 206173,
-      "name": "Perfidia",
-      "url": "https://open.spotify.com/track/6deDgyezRHEFVrQqBewImr"
     },
     {
       "added_at": "2026-04-10 06:00:50",
@@ -871,18 +871,18 @@
     {
       "added_at": "2026-04-10 06:00:50",
       "album": {
-        "name": "Te Volv\u00ed a So\u00f1ar",
-        "url": "https://open.spotify.com/album/5WoM0K8PODAHa8eYCsbrlv"
+        "name": "Casi algo",
+        "url": "https://open.spotify.com/album/3FIiOO2a4yHnbCe5zDImkY"
       },
       "artists": [
         {
-          "name": "Daphne Michelle",
-          "url": "https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8"
+          "name": "Me Dicen Jos",
+          "url": "https://open.spotify.com/artist/36HdCwthOIRbl977xy0ymV"
         }
       ],
-      "duration_ms": 211837,
-      "name": "Te Volv\u00ed a So\u00f1ar",
-      "url": "https://open.spotify.com/track/0Gb5nrMH23fSpK2aKlCAt4"
+      "duration_ms": 165229,
+      "name": "Casi algo",
+      "url": "https://open.spotify.com/track/2lRIrlut8slUKShhAxJuK7"
     },
     {
       "added_at": "2026-04-10 06:00:50",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-04-10 06:00:50",
       "album": {
-        "name": "Casi algo",
-        "url": "https://open.spotify.com/album/3FIiOO2a4yHnbCe5zDImkY"
-      },
-      "artists": [
-        {
-          "name": "Me Dicen Jos",
-          "url": "https://open.spotify.com/artist/36HdCwthOIRbl977xy0ymV"
-        }
-      ],
-      "duration_ms": 165229,
-      "name": "Casi algo",
-      "url": "https://open.spotify.com/track/2lRIrlut8slUKShhAxJuK7"
-    },
-    {
-      "added_at": "2026-04-10 06:00:50",
-      "album": {
         "name": "Tanto Amor",
         "url": "https://open.spotify.com/album/6PpdfncqVG0Hmx5pSIdAQz"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 185783,
       "name": "Tanto Amor",
       "url": "https://open.spotify.com/track/2DSBxnRi8Y1Tk4f0Am8pzA"
+    },
+    {
+      "added_at": "2026-04-10 06:00:50",
+      "album": {
+        "name": "Te Volv\u00ed a So\u00f1ar",
+        "url": "https://open.spotify.com/album/5WoM0K8PODAHa8eYCsbrlv"
+      },
+      "artists": [
+        {
+          "name": "Daphne Michelle",
+          "url": "https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8"
+        }
+      ],
+      "duration_ms": 211837,
+      "name": "Te Volv\u00ed a So\u00f1ar",
+      "url": "https://open.spotify.com/track/0Gb5nrMH23fSpK2aKlCAt4"
     },
     {
       "added_at": "2026-04-10 06:00:50",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2026-04-10 06:00:50",
       "album": {
-        "name": "Ac\u00fastico En Vivo Edici\u00f3n Especial",
-        "url": "https://open.spotify.com/album/3UT78KFaMa9cr1hdSSWUUl"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel",
-          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
-        }
-      ],
-      "duration_ms": 272213,
-      "name": "Este Terco Coraz\u00f3n - En Vivo Los Estudios Churubusco M\u00e9xico DF/2011",
-      "url": "https://open.spotify.com/track/6kVMMYHWdZFuAOYLRTtcdT"
-    },
-    {
-      "added_at": "2026-04-10 06:00:50",
-      "album": {
         "name": "Te Ofrezco",
         "url": "https://open.spotify.com/album/7zi3SKDbuhjapBGcCyv1tY"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 206520,
       "name": "Te Ofrezco",
       "url": "https://open.spotify.com/track/4HTteIyy5JZ9YhHmdGcTJA"
+    },
+    {
+      "added_at": "2026-04-10 06:00:50",
+      "album": {
+        "name": "Ac\u00fastico En Vivo Edici\u00f3n Especial",
+        "url": "https://open.spotify.com/album/3UT78KFaMa9cr1hdSSWUUl"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel",
+          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
+        }
+      ],
+      "duration_ms": 272213,
+      "name": "Este Terco Coraz\u00f3n - En Vivo Los Estudios Churubusco M\u00e9xico DF/2011",
+      "url": "https://open.spotify.com/track/6kVMMYHWdZFuAOYLRTtcdT"
     },
     {
       "added_at": "2026-04-10 06:00:50",
@@ -1063,22 +1063,6 @@
       "duration_ms": 186200,
       "name": "Quisiera Enamorarme",
       "url": "https://open.spotify.com/track/3ZhfWEFlqebiUEcc3YbR7D"
-    },
-    {
-      "added_at": "2026-04-10 06:00:50",
-      "album": {
-        "name": "Se Me Esta Yendo La Vida",
-        "url": "https://open.spotify.com/album/1rcvdzVO3zQqMe2oGKq0yQ"
-      },
-      "artists": [
-        {
-          "name": "Soyiby",
-          "url": "https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn"
-        }
-      ],
-      "duration_ms": 182717,
-      "name": "Se Me Esta Yendo La Vida",
-      "url": "https://open.spotify.com/track/0ndENUoSD83yGr9lXbJQFH"
     },
     {
       "added_at": "2026-04-10 06:00:50",
@@ -1115,6 +1099,22 @@
       "duration_ms": 226973,
       "name": "Piensa en M\u00ed",
       "url": "https://open.spotify.com/track/63j4La0tnnyHXWwTZcluNC"
+    },
+    {
+      "added_at": "2026-04-10 06:00:50",
+      "album": {
+        "name": "Se Me Esta Yendo La Vida",
+        "url": "https://open.spotify.com/album/1rcvdzVO3zQqMe2oGKq0yQ"
+      },
+      "artists": [
+        {
+          "name": "Soyiby",
+          "url": "https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn"
+        }
+      ],
+      "duration_ms": 182717,
+      "name": "Se Me Esta Yendo La Vida",
+      "url": "https://open.spotify.com/track/0ndENUoSD83yGr9lXbJQFH"
     },
     {
       "added_at": "2026-04-10 06:00:50",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2026-04-10 06:00:50",
       "album": {
-        "name": "Matina",
-        "url": "https://open.spotify.com/album/22Tb1zKcJiUELDEnSRA34A"
-      },
-      "artists": [
-        {
-          "name": "Zuaraz",
-          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
-        }
-      ],
-      "duration_ms": 128500,
-      "name": "Matina",
-      "url": "https://open.spotify.com/track/50DhWeIArP5tldIMUPtaVe"
-    },
-    {
-      "added_at": "2026-04-10 06:00:50",
-      "album": {
         "name": "A escondidas",
         "url": "https://open.spotify.com/album/42PNF3MKzjOVfVJnep4Ce4"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 207296,
       "name": "La Apuesta",
       "url": "https://open.spotify.com/track/6jfErD7qRP00pXqzZhFyr0"
+    },
+    {
+      "added_at": "2026-04-10 06:00:50",
+      "album": {
+        "name": "Matina",
+        "url": "https://open.spotify.com/album/22Tb1zKcJiUELDEnSRA34A"
+      },
+      "artists": [
+        {
+          "name": "Zuaraz",
+          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+        }
+      ],
+      "duration_ms": 128500,
+      "name": "Matina",
+      "url": "https://open.spotify.com/track/50DhWeIArP5tldIMUPtaVe"
     },
     {
       "added_at": "2026-04-10 06:00:50",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2026-04-10 06:00:50",
       "album": {
-        "name": "El Vac\u00edo (Noches de Sal\u00f3n)",
-        "url": "https://open.spotify.com/album/0f0Lm7ZkDq0x5nvcPk2d6F"
-      },
-      "artists": [
-        {
-          "name": "Enjambre",
-          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
-        }
-      ],
-      "duration_ms": 238500,
-      "name": "El Vac\u00edo - Noches de Sal\u00f3n",
-      "url": "https://open.spotify.com/track/5gSH1TCwTlUFwJHLLhFXqS"
-    },
-    {
-      "added_at": "2026-04-10 06:00:50",
-      "album": {
         "name": "Jaque Mate",
         "url": "https://open.spotify.com/album/6ISwwA1Y7kKGEjH2EoxsjZ"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 186491,
       "name": "Jaque Mate",
       "url": "https://open.spotify.com/track/1e1qYSKEhN4UkIAoKRQgZ1"
+    },
+    {
+      "added_at": "2026-04-10 06:00:50",
+      "album": {
+        "name": "El Vac\u00edo (Noches de Sal\u00f3n)",
+        "url": "https://open.spotify.com/album/0f0Lm7ZkDq0x5nvcPk2d6F"
+      },
+      "artists": [
+        {
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+        }
+      ],
+      "duration_ms": 238500,
+      "name": "El Vac\u00edo - Noches de Sal\u00f3n",
+      "url": "https://open.spotify.com/track/5gSH1TCwTlUFwJHLLhFXqS"
     },
     {
       "added_at": "2026-04-10 06:00:50",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2026-04-10 06:00:50",
       "album": {
+        "name": "Los Boleros de Oro de la M\u00fasica Tropical",
+        "url": "https://open.spotify.com/album/2MCSHOk67yIocitxqMZAaJ"
+      },
+      "artists": [
+        {
+          "name": "Carlos Cuevas",
+          "url": "https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL"
+        }
+      ],
+      "duration_ms": 165173,
+      "name": "En la Orilla del Mar",
+      "url": "https://open.spotify.com/track/1RYZwlDS2wt1rj0c249X7x"
+    },
+    {
+      "added_at": "2026-04-10 06:00:50",
+      "album": {
         "name": "Como Quisiera Quererte",
         "url": "https://open.spotify.com/album/1zyxtpEhfxsb5QfpDzLReB"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 258036,
       "name": "Como Quisiera Quererte",
       "url": "https://open.spotify.com/track/4r6OwScTgTeq1ugHGeqsT4"
-    },
-    {
-      "added_at": "2026-04-10 06:00:50",
-      "album": {
-        "name": "Los Boleros de Oro de la M\u00fasica Tropical",
-        "url": "https://open.spotify.com/album/2MCSHOk67yIocitxqMZAaJ"
-      },
-      "artists": [
-        {
-          "name": "Carlos Cuevas",
-          "url": "https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL"
-        }
-      ],
-      "duration_ms": 165173,
-      "name": "En la Orilla del Mar",
-      "url": "https://open.spotify.com/track/1RYZwlDS2wt1rj0c249X7x"
     },
     {
       "added_at": "2026-04-10 06:00:50",
@@ -1599,6 +1599,26 @@
     {
       "added_at": "2026-04-10 06:00:50",
       "album": {
+        "name": "tu amor me da paz",
+        "url": "https://open.spotify.com/album/60pmaWLTyguqSTl7HBUXXN"
+      },
+      "artists": [
+        {
+          "name": "Nella",
+          "url": "https://open.spotify.com/artist/6hgiVWraSMs9mbUrhPq8Oh"
+        },
+        {
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+        }
+      ],
+      "duration_ms": 195413,
+      "name": "tu amor me da paz",
+      "url": "https://open.spotify.com/track/1gE1rA1cAMv0mHcOFhcsQZ"
+    },
+    {
+      "added_at": "2026-04-10 06:00:50",
+      "album": {
         "name": "ya llovi\u00f3",
         "url": "https://open.spotify.com/album/1psW6fIoAAYTuZrRJnGIHT"
       },
@@ -1619,26 +1639,6 @@
       "duration_ms": 234570,
       "name": "ya llovi\u00f3",
       "url": "https://open.spotify.com/track/1wLVZ66SdIFV03cwXauOvE"
-    },
-    {
-      "added_at": "2026-04-10 06:00:50",
-      "album": {
-        "name": "tu amor me da paz",
-        "url": "https://open.spotify.com/album/60pmaWLTyguqSTl7HBUXXN"
-      },
-      "artists": [
-        {
-          "name": "Nella",
-          "url": "https://open.spotify.com/artist/6hgiVWraSMs9mbUrhPq8Oh"
-        },
-        {
-          "name": "Marco Mares",
-          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
-        }
-      ],
-      "duration_ms": 195413,
-      "name": "tu amor me da paz",
-      "url": "https://open.spotify.com/track/1gE1rA1cAMv0mHcOFhcsQZ"
     },
     {
       "added_at": "2026-04-10 06:00:50",
@@ -1719,6 +1719,22 @@
     {
       "added_at": "2026-04-10 06:00:50",
       "album": {
+        "name": "Aquellos Ojos Verdes",
+        "url": "https://open.spotify.com/album/3HkuShxx82J7vFkOwJh5b3"
+      },
+      "artists": [
+        {
+          "name": "Daphne Michelle",
+          "url": "https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8"
+        }
+      ],
+      "duration_ms": 201829,
+      "name": "Aquellos Ojos Verdes",
+      "url": "https://open.spotify.com/track/31h7Rf7PpcmudY3z1ytc5H"
+    },
+    {
+      "added_at": "2026-04-10 06:00:50",
+      "album": {
         "name": "Sindicato Del Ritmo",
         "url": "https://open.spotify.com/album/0HL2RlxUVZK2nNEkliZfrX"
       },
@@ -1751,22 +1767,6 @@
       "duration_ms": 242293,
       "name": "Almohada",
       "url": "https://open.spotify.com/track/3lL5AiJtpdGe7AYCIwJ5cI"
-    },
-    {
-      "added_at": "2026-04-10 06:00:50",
-      "album": {
-        "name": "Aquellos Ojos Verdes",
-        "url": "https://open.spotify.com/album/3HkuShxx82J7vFkOwJh5b3"
-      },
-      "artists": [
-        {
-          "name": "Daphne Michelle",
-          "url": "https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8"
-        }
-      ],
-      "duration_ms": 201829,
-      "name": "Aquellos Ojos Verdes",
-      "url": "https://open.spotify.com/track/31h7Rf7PpcmudY3z1ytc5H"
     },
     {
       "added_at": "2026-04-10 06:00:50",

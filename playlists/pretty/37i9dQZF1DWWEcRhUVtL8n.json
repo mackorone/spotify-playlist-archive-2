@@ -1,6 +1,6 @@
 {
   "description": "New and approved indie pop. Cover: Ravyn Lenae & Dominic Fike",
-  "num_followers": 1672425,
+  "num_followers": 1672347,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
@@ -385,22 +385,6 @@
       "url": "https://open.spotify.com/track/0n63xAny4NjxRNgKnboEp8"
     },
     {
-      "added_at": "2026-03-20 04:00:48",
-      "album": {
-        "name": "double edged sword",
-        "url": "https://open.spotify.com/album/11XkCwTHV7CTnRn5zzyesW"
-      },
-      "artists": [
-        {
-          "name": "Hailey Picardi",
-          "url": "https://open.spotify.com/artist/1DmaV9kf0Na68JAi0NylBI"
-        }
-      ],
-      "duration_ms": 208023,
-      "name": "double edged sword",
-      "url": "https://open.spotify.com/track/1AIDXxGVErYEjI3dJ6KNJY"
-    },
-    {
       "added_at": "2026-03-27 05:14:04",
       "album": {
         "name": "Back in Love",
@@ -415,6 +399,22 @@
       "duration_ms": 194346,
       "name": "Back in Love",
       "url": "https://open.spotify.com/track/3eFBPuf0y3Vguk6GUCNpwP"
+    },
+    {
+      "added_at": "2026-03-20 04:00:48",
+      "album": {
+        "name": "double edged sword",
+        "url": "https://open.spotify.com/album/11XkCwTHV7CTnRn5zzyesW"
+      },
+      "artists": [
+        {
+          "name": "Hailey Picardi",
+          "url": "https://open.spotify.com/artist/1DmaV9kf0Na68JAi0NylBI"
+        }
+      ],
+      "duration_ms": 208023,
+      "name": "double edged sword",
+      "url": "https://open.spotify.com/track/1AIDXxGVErYEjI3dJ6KNJY"
     },
     {
       "added_at": "2026-03-20 04:00:48",
@@ -669,6 +669,22 @@
       "url": "https://open.spotify.com/track/7nicn8ELgX9KaaHSS3MWxw"
     },
     {
+      "added_at": "2026-04-10 04:50:19",
+      "album": {
+        "name": "Sweet Hallelujah",
+        "url": "https://open.spotify.com/album/68nIcmHCJpK8DfX4YPWmb0"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 182156,
+      "name": "Sweet Hallelujah",
+      "url": "https://open.spotify.com/track/6EoD3qpTgNtwXNqamzLCn5"
+    },
+    {
       "added_at": "2026-03-20 04:00:48",
       "album": {
         "name": "Days Of Us",
@@ -717,20 +733,20 @@
       "url": "https://open.spotify.com/track/1kdHE79HtKUGmJ1vDyp69j"
     },
     {
-      "added_at": "2026-03-20 04:00:48",
+      "added_at": "2026-03-27 05:14:04",
       "album": {
-        "name": "I'll Change for You",
-        "url": "https://open.spotify.com/album/3f7akGGEFL9LjSJCG7ueaL"
+        "name": "Want It Back",
+        "url": "https://open.spotify.com/album/3jh1KUiU35jTHmQqtUuy55"
       },
       "artists": [
         {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+          "name": "Giant Rooks",
+          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
         }
       ],
-      "duration_ms": 196426,
-      "name": "I'll Change for You",
-      "url": "https://open.spotify.com/track/1VVlFu2NkLFMRBznBITlho"
+      "duration_ms": 207509,
+      "name": "Want It Back",
+      "url": "https://open.spotify.com/track/47bpYf6lJ5dauJRJ6lZ8bA"
     },
     {
       "added_at": "2026-03-20 04:00:48",
@@ -749,20 +765,20 @@
       "url": "https://open.spotify.com/track/5916POJDlPQRBbe1SJc7uK"
     },
     {
-      "added_at": "2026-03-27 05:14:04",
+      "added_at": "2026-03-20 04:00:48",
       "album": {
-        "name": "Want It Back",
-        "url": "https://open.spotify.com/album/3jh1KUiU35jTHmQqtUuy55"
+        "name": "I'll Change for You",
+        "url": "https://open.spotify.com/album/3f7akGGEFL9LjSJCG7ueaL"
       },
       "artists": [
         {
-          "name": "Giant Rooks",
-          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
         }
       ],
-      "duration_ms": 207509,
-      "name": "Want It Back",
-      "url": "https://open.spotify.com/track/47bpYf6lJ5dauJRJ6lZ8bA"
+      "duration_ms": 196426,
+      "name": "I'll Change for You",
+      "url": "https://open.spotify.com/track/1VVlFu2NkLFMRBznBITlho"
     },
     {
       "added_at": "2026-03-20 04:00:48",
@@ -797,20 +813,36 @@
       "url": "https://open.spotify.com/track/7Gd2oawSmPedbykPjqQJe5"
     },
     {
-      "added_at": "2026-04-10 04:50:19",
+      "added_at": "2026-04-03 04:02:32",
       "album": {
-        "name": "Sweet Hallelujah",
-        "url": "https://open.spotify.com/album/68nIcmHCJpK8DfX4YPWmb0"
+        "name": "2515",
+        "url": "https://open.spotify.com/album/4n98iy8MVJkh2cELKgazOR"
       },
       "artists": [
         {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+          "name": "Wasia Project",
+          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
         }
       ],
-      "duration_ms": 182156,
-      "name": "Sweet Hallelujah",
-      "url": "https://open.spotify.com/track/6EoD3qpTgNtwXNqamzLCn5"
+      "duration_ms": 241100,
+      "name": "2515",
+      "url": "https://open.spotify.com/track/6oJRAA2pF2VK8fmxTncqiG"
+    },
+    {
+      "added_at": "2026-03-20 04:00:48",
+      "album": {
+        "name": "Equus Caballus",
+        "url": "https://open.spotify.com/album/7dJPDPUi94jA91VxG4vZb3"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "duration_ms": 207500,
+      "name": "Carried Away",
+      "url": "https://open.spotify.com/track/50ASFow3YrVJJpqdzaM1YD"
     },
     {
       "added_at": "2026-03-20 04:00:48",
@@ -847,22 +879,6 @@
     {
       "added_at": "2026-03-20 04:00:48",
       "album": {
-        "name": "Equus Caballus",
-        "url": "https://open.spotify.com/album/7dJPDPUi94jA91VxG4vZb3"
-      },
-      "artists": [
-        {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
-        }
-      ],
-      "duration_ms": 207500,
-      "name": "Carried Away",
-      "url": "https://open.spotify.com/track/50ASFow3YrVJJpqdzaM1YD"
-    },
-    {
-      "added_at": "2026-03-20 04:00:48",
-      "album": {
         "name": "Vampire Bat",
         "url": "https://open.spotify.com/album/0Dfpaar3pZDMBM4xwZhCfC"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 206652,
       "name": "Vampire Bat",
       "url": "https://open.spotify.com/track/4rLyT7uQtWQRtGShwTaUju"
-    },
-    {
-      "added_at": "2026-04-03 04:02:32",
-      "album": {
-        "name": "2515",
-        "url": "https://open.spotify.com/album/4n98iy8MVJkh2cELKgazOR"
-      },
-      "artists": [
-        {
-          "name": "Wasia Project",
-          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
-        }
-      ],
-      "duration_ms": 241100,
-      "name": "2515",
-      "url": "https://open.spotify.com/track/6oJRAA2pF2VK8fmxTncqiG"
     },
     {
       "added_at": "2026-03-20 04:00:48",
@@ -915,6 +915,22 @@
     {
       "added_at": "2026-03-20 04:00:48",
       "album": {
+        "name": "EURO-COUNTRY",
+        "url": "https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "duration_ms": 272266,
+      "name": "When A Good Man Cries",
+      "url": "https://open.spotify.com/track/6VXIZWHmdOTHIFhsSkYFgQ"
+    },
+    {
+      "added_at": "2026-03-20 04:00:48",
+      "album": {
         "name": "LEZ GO!",
         "url": "https://open.spotify.com/album/6Yp3oQKOeNNGTkp3fKj8yv"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 164566,
       "name": "LEZ GO!",
       "url": "https://open.spotify.com/track/74UbZ0pZNzws8aaOc455kC"
-    },
-    {
-      "added_at": "2026-03-20 04:00:48",
-      "album": {
-        "name": "EURO-COUNTRY",
-        "url": "https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag"
-      },
-      "artists": [
-        {
-          "name": "CMAT",
-          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
-        }
-      ],
-      "duration_ms": 272266,
-      "name": "When A Good Man Cries",
-      "url": "https://open.spotify.com/track/6VXIZWHmdOTHIFhsSkYFgQ"
     },
     {
       "added_at": "2026-03-20 04:00:48",
@@ -999,18 +999,18 @@
     {
       "added_at": "2026-03-20 04:00:48",
       "album": {
-        "name": "winters gonna come",
-        "url": "https://open.spotify.com/album/6qr5fMgyonax6366SQHTfy"
+        "name": "The Biggest Dick",
+        "url": "https://open.spotify.com/album/1AvlJXt6F6pSNhP4tY3pqy"
       },
       "artists": [
         {
-          "name": "Asal",
-          "url": "https://open.spotify.com/artist/2CPDwyokR2lgqu0yNGe2cU"
+          "name": "Amy Shark",
+          "url": "https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT"
         }
       ],
-      "duration_ms": 252001,
-      "name": "winters gonna come",
-      "url": "https://open.spotify.com/track/3OoJRP74QttUB17tTe5gwm"
+      "duration_ms": 163296,
+      "name": "The Biggest Dick",
+      "url": "https://open.spotify.com/track/5nYlyj9C5ucDMLn8ZoytLY"
     },
     {
       "added_at": "2026-03-20 04:00:48",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2026-03-20 04:00:48",
       "album": {
-        "name": "The Biggest Dick",
-        "url": "https://open.spotify.com/album/1AvlJXt6F6pSNhP4tY3pqy"
+        "name": "winters gonna come",
+        "url": "https://open.spotify.com/album/6qr5fMgyonax6366SQHTfy"
       },
       "artists": [
         {
-          "name": "Amy Shark",
-          "url": "https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT"
+          "name": "Asal",
+          "url": "https://open.spotify.com/artist/2CPDwyokR2lgqu0yNGe2cU"
         }
       ],
-      "duration_ms": 163296,
-      "name": "The Biggest Dick",
-      "url": "https://open.spotify.com/track/5nYlyj9C5ucDMLn8ZoytLY"
+      "duration_ms": 252001,
+      "name": "winters gonna come",
+      "url": "https://open.spotify.com/track/3OoJRP74QttUB17tTe5gwm"
     },
     {
       "added_at": "2026-03-20 04:00:48",
@@ -1141,6 +1141,22 @@
       "url": "https://open.spotify.com/track/5b2nQ3pCgh8hfM6DH2rt8S"
     },
     {
+      "added_at": "2026-04-03 04:34:33",
+      "album": {
+        "name": "Reputation / Bobby",
+        "url": "https://open.spotify.com/album/1ydjDKjXy4jVuPwybonR7L"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 211166,
+      "name": "Bobby",
+      "url": "https://open.spotify.com/track/0XZ2XxO2rfGIhcDWqj2riz"
+    },
+    {
       "added_at": "2026-03-20 04:00:48",
       "album": {
         "name": "Fauxllennium (Japanese Deluxe Edition)",
@@ -1213,22 +1229,6 @@
       "url": "https://open.spotify.com/track/4KELpaK3sQ5vEZX9nuK9lg"
     },
     {
-      "added_at": "2026-04-03 04:34:33",
-      "album": {
-        "name": "Reputation / Bobby",
-        "url": "https://open.spotify.com/album/1ydjDKjXy4jVuPwybonR7L"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 211166,
-      "name": "Bobby",
-      "url": "https://open.spotify.com/track/0XZ2XxO2rfGIhcDWqj2riz"
-    },
-    {
       "added_at": "2026-03-20 04:00:48",
       "album": {
         "name": "That's My Girl",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-03-20 04:00:48",
       "album": {
-        "name": "Under The Streetlights",
-        "url": "https://open.spotify.com/album/1CKtOvMSLqatFnR0OuYNxZ"
-      },
-      "artists": [
-        {
-          "name": "Michael Marcagi",
-          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
-        }
-      ],
-      "duration_ms": 213483,
-      "name": "I Should Know Better",
-      "url": "https://open.spotify.com/track/2Y782Ab77v8vq7QT8ZZzap"
-    },
-    {
-      "added_at": "2026-03-20 04:00:48",
-      "album": {
         "name": "down under",
         "url": "https://open.spotify.com/album/6u1MWDlyJlzW28ithVAYp3"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 204557,
       "name": "down under",
       "url": "https://open.spotify.com/track/3qgNwPwVvm6j8JUhpZ2yd3"
+    },
+    {
+      "added_at": "2026-03-20 04:00:48",
+      "album": {
+        "name": "Under The Streetlights",
+        "url": "https://open.spotify.com/album/1CKtOvMSLqatFnR0OuYNxZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Marcagi",
+          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
+        }
+      ],
+      "duration_ms": 213483,
+      "name": "I Should Know Better",
+      "url": "https://open.spotify.com/track/2Y782Ab77v8vq7QT8ZZzap"
     },
     {
       "added_at": "2026-03-20 04:00:48",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2026-03-20 04:00:48",
       "album": {
-        "name": "Flowers - Spotify Singles",
-        "url": "https://open.spotify.com/album/2xNxoIoAdqikspBdAGNshj"
-      },
-      "artists": [
-        {
-          "name": "Thomas Day",
-          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
-        }
-      ],
-      "duration_ms": 236167,
-      "name": "Flowers - Spotify Singles",
-      "url": "https://open.spotify.com/track/5QlTdFRhzFV72ieDj04sdD"
-    },
-    {
-      "added_at": "2026-03-20 04:00:48",
-      "album": {
         "name": "Being There",
         "url": "https://open.spotify.com/album/7FQsBR9c4vvmUwZleFAy4h"
       },
@@ -1379,18 +1363,18 @@
     {
       "added_at": "2026-03-20 04:00:48",
       "album": {
-        "name": "auburn",
-        "url": "https://open.spotify.com/album/5LNGGpT0RdYuTK7GU41oqn"
+        "name": "Flowers - Spotify Singles",
+        "url": "https://open.spotify.com/album/2xNxoIoAdqikspBdAGNshj"
       },
       "artists": [
         {
-          "name": "livingthing",
-          "url": "https://open.spotify.com/artist/4DSxrJMbWwzezTooMm0ZTt"
+          "name": "Thomas Day",
+          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
         }
       ],
-      "duration_ms": 209591,
-      "name": "auburn",
-      "url": "https://open.spotify.com/track/5qrQjoSDDIfxmjARLMPPyE"
+      "duration_ms": 236167,
+      "name": "Flowers - Spotify Singles",
+      "url": "https://open.spotify.com/track/5QlTdFRhzFV72ieDj04sdD"
     },
     {
       "added_at": "2026-03-20 04:00:48",
@@ -1411,6 +1395,22 @@
     {
       "added_at": "2026-03-20 04:00:48",
       "album": {
+        "name": "auburn",
+        "url": "https://open.spotify.com/album/5LNGGpT0RdYuTK7GU41oqn"
+      },
+      "artists": [
+        {
+          "name": "livingthing",
+          "url": "https://open.spotify.com/artist/4DSxrJMbWwzezTooMm0ZTt"
+        }
+      ],
+      "duration_ms": 209591,
+      "name": "auburn",
+      "url": "https://open.spotify.com/track/5qrQjoSDDIfxmjARLMPPyE"
+    },
+    {
+      "added_at": "2026-03-20 04:00:48",
+      "album": {
         "name": "AngieAngieAngie",
         "url": "https://open.spotify.com/album/19lNMxzhXLPvNZkMQnb4gl"
       },
@@ -1423,22 +1423,6 @@
       "duration_ms": 139363,
       "name": "Roamer",
       "url": "https://open.spotify.com/track/0Xfj8XkEduoN43F2UMrDGZ"
-    },
-    {
-      "added_at": "2026-03-20 04:00:48",
-      "album": {
-        "name": "Drama King",
-        "url": "https://open.spotify.com/album/02iICHeNdgziyDRE70DCse"
-      },
-      "artists": [
-        {
-          "name": "Sports",
-          "url": "https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K"
-        }
-      ],
-      "duration_ms": 190901,
-      "name": "Drama King",
-      "url": "https://open.spotify.com/track/2BeddMVJY8DhWZAC4uKPqx"
     },
     {
       "added_at": "2026-04-03 04:02:32",
@@ -1459,18 +1443,18 @@
     {
       "added_at": "2026-03-20 04:00:48",
       "album": {
-        "name": "Ants In My Room",
-        "url": "https://open.spotify.com/album/6I5iKc3l7io2v55H7Ho0NZ"
+        "name": "Drama King",
+        "url": "https://open.spotify.com/album/02iICHeNdgziyDRE70DCse"
       },
       "artists": [
         {
-          "name": "Carter Vail",
-          "url": "https://open.spotify.com/artist/4Bu9DnBZ12oX7MiiaJy9hK"
+          "name": "Sports",
+          "url": "https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K"
         }
       ],
-      "duration_ms": 168919,
-      "name": "Ants In My Room",
-      "url": "https://open.spotify.com/track/0FtczGAn1UOZsTCHJaqgYA"
+      "duration_ms": 190901,
+      "name": "Drama King",
+      "url": "https://open.spotify.com/track/2BeddMVJY8DhWZAC4uKPqx"
     },
     {
       "added_at": "2026-03-27 05:14:04",
@@ -1507,18 +1491,38 @@
     {
       "added_at": "2026-03-20 04:00:48",
       "album": {
-        "name": "Chasing The Chimera",
-        "url": "https://open.spotify.com/album/0H4QxLnUPk1GlEkUtLuTww"
+        "name": "Ants In My Room",
+        "url": "https://open.spotify.com/album/6I5iKc3l7io2v55H7Ho0NZ"
       },
       "artists": [
         {
-          "name": "Del Water Gap",
-          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+          "name": "Carter Vail",
+          "url": "https://open.spotify.com/artist/4Bu9DnBZ12oX7MiiaJy9hK"
         }
       ],
-      "duration_ms": 231499,
-      "name": "Small Town Joan of Arc",
-      "url": "https://open.spotify.com/track/3xffKXnwzuAsio7sJgYECf"
+      "duration_ms": 168919,
+      "name": "Ants In My Room",
+      "url": "https://open.spotify.com/track/0FtczGAn1UOZsTCHJaqgYA"
+    },
+    {
+      "added_at": "2026-04-03 04:02:32",
+      "album": {
+        "name": "wasted time",
+        "url": "https://open.spotify.com/album/47SJHB4GCosjpXegm8clQJ"
+      },
+      "artists": [
+        {
+          "name": "proderics",
+          "url": "https://open.spotify.com/artist/3VsmiWWtAHSrkgF2forgVI"
+        },
+        {
+          "name": "melodybloom",
+          "url": "https://open.spotify.com/artist/09SHUPzM4RIiUSkQ8stabk"
+        }
+      ],
+      "duration_ms": 133270,
+      "name": "wasted time",
+      "url": "https://open.spotify.com/track/6G2LHkJYG4P7HpdMTydvRS"
     },
     {
       "added_at": "2026-03-20 04:00:48",
@@ -1535,6 +1539,22 @@
       "duration_ms": 154244,
       "name": "I Lit The Fire",
       "url": "https://open.spotify.com/track/3AbrErcms1clz7cbakuQt1"
+    },
+    {
+      "added_at": "2026-03-20 04:00:48",
+      "album": {
+        "name": "Chasing The Chimera",
+        "url": "https://open.spotify.com/album/0H4QxLnUPk1GlEkUtLuTww"
+      },
+      "artists": [
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        }
+      ],
+      "duration_ms": 231499,
+      "name": "Small Town Joan of Arc",
+      "url": "https://open.spotify.com/track/3xffKXnwzuAsio7sJgYECf"
     },
     {
       "added_at": "2026-03-20 04:00:48",
@@ -1569,26 +1589,6 @@
       "url": "https://open.spotify.com/track/6pNWRbfpSwxnQAhTYPcajr"
     },
     {
-      "added_at": "2026-04-03 04:02:32",
-      "album": {
-        "name": "wasted time",
-        "url": "https://open.spotify.com/album/47SJHB4GCosjpXegm8clQJ"
-      },
-      "artists": [
-        {
-          "name": "proderics",
-          "url": "https://open.spotify.com/artist/3VsmiWWtAHSrkgF2forgVI"
-        },
-        {
-          "name": "melodybloom",
-          "url": "https://open.spotify.com/artist/09SHUPzM4RIiUSkQ8stabk"
-        }
-      ],
-      "duration_ms": 133270,
-      "name": "wasted time",
-      "url": "https://open.spotify.com/track/6G2LHkJYG4P7HpdMTydvRS"
-    },
-    {
       "added_at": "2026-03-20 04:00:48",
       "album": {
         "name": "Fine",
@@ -1603,26 +1603,6 @@
       "duration_ms": 201999,
       "name": "Fine",
       "url": "https://open.spotify.com/track/4dwoGWHlmtSHT42PCnLcMa"
-    },
-    {
-      "added_at": "2026-03-20 04:00:48",
-      "album": {
-        "name": "Do What You Gotta (feat. Sunset Rollercoaster)",
-        "url": "https://open.spotify.com/album/4eXihWYidaaT9dIA25HxqN"
-      },
-      "artists": [
-        {
-          "name": "PREP",
-          "url": "https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42"
-        },
-        {
-          "name": "\u843d\u65e5\u98db\u8eca Sunset Rollercoaster",
-          "url": "https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532"
-        }
-      ],
-      "duration_ms": 188253,
-      "name": "Do What You Gotta (feat. Sunset Rollercoaster)",
-      "url": "https://open.spotify.com/track/5I25i7QQ0JyUHwovMJprfS"
     },
     {
       "added_at": "2026-03-20 04:00:48",
@@ -1671,6 +1651,26 @@
       "duration_ms": 225477,
       "name": "Kiss&Tell",
       "url": "https://open.spotify.com/track/0yXTpkFo1pZbyC5kavCgq9"
+    },
+    {
+      "added_at": "2026-03-20 04:00:48",
+      "album": {
+        "name": "Do What You Gotta (feat. Sunset Rollercoaster)",
+        "url": "https://open.spotify.com/album/4eXihWYidaaT9dIA25HxqN"
+      },
+      "artists": [
+        {
+          "name": "PREP",
+          "url": "https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42"
+        },
+        {
+          "name": "\u843d\u65e5\u98db\u8eca Sunset Rollercoaster",
+          "url": "https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532"
+        }
+      ],
+      "duration_ms": 188253,
+      "name": "Do What You Gotta (feat. Sunset Rollercoaster)",
+      "url": "https://open.spotify.com/track/5I25i7QQ0JyUHwovMJprfS"
     },
     {
       "added_at": "2026-03-20 04:00:48",

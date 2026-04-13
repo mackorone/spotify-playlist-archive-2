@@ -1,6 +1,6 @@
 {
   "description": "afrobeats daqui, de fora, de todos os cantos",
-  "num_followers": 23091,
+  "num_followers": 23099,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -635,26 +635,6 @@
     {
       "added_at": "2026-03-27 19:24:36",
       "album": {
-        "name": "Mar de Rosas",
-        "url": "https://open.spotify.com/album/3ZWi0l4tbZgHmIt4vhrPxN"
-      },
-      "artists": [
-        {
-          "name": "Vit\u00e3o",
-          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
-        },
-        {
-          "name": "Paiva Prod",
-          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Mar de Rosas",
-      "url": "https://open.spotify.com/track/0jqfLFMPSPXpWWDyJaErVP"
-    },
-    {
-      "added_at": "2026-03-27 19:24:36",
-      "album": {
         "name": "Bandidas Tamb\u00e9m Falam de Amor",
         "url": "https://open.spotify.com/album/1WUl20Dstb0rJ0Z7fcNGwz"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 143551,
       "name": "Bonita & Gostosa",
       "url": "https://open.spotify.com/track/6NIAdQhoFLPNcd89DXf1wb"
+    },
+    {
+      "added_at": "2026-03-27 19:24:36",
+      "album": {
+        "name": "Mar de Rosas",
+        "url": "https://open.spotify.com/album/3ZWi0l4tbZgHmIt4vhrPxN"
+      },
+      "artists": [
+        {
+          "name": "Vit\u00e3o",
+          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
+        },
+        {
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Mar de Rosas",
+      "url": "https://open.spotify.com/track/0jqfLFMPSPXpWWDyJaErVP"
     },
     {
       "added_at": "2026-03-27 19:24:36",
@@ -1227,22 +1227,22 @@
     {
       "added_at": "2026-03-27 19:24:36",
       "album": {
-        "name": "12 de Junho",
-        "url": "https://open.spotify.com/album/5bHkLSLhWDFZq9OsMwjgs4"
+        "name": "Quem Me Guia",
+        "url": "https://open.spotify.com/album/1MNQjQiYxY1Nyq5znoHvlq"
       },
       "artists": [
         {
-          "name": "Muse Maya",
-          "url": "https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm"
+          "name": "Amorim",
+          "url": "https://open.spotify.com/artist/3FVZlbowUWV4h0nKFKVb0a"
         },
         {
-          "name": "808 Luke",
-          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
+          "name": "meLLo",
+          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
         }
       ],
-      "duration_ms": 190588,
-      "name": "12 de Junho",
-      "url": "https://open.spotify.com/track/7EzBbffkrBToB3Gh7kvP8c"
+      "duration_ms": 149575,
+      "name": "Quem Me Guia",
+      "url": "https://open.spotify.com/track/06QfdMI94z1klI0tyPa1qq"
     },
     {
       "added_at": "2026-03-27 19:24:36",
@@ -1275,22 +1275,38 @@
     {
       "added_at": "2026-03-27 19:24:36",
       "album": {
-        "name": "Quem Me Guia",
-        "url": "https://open.spotify.com/album/1MNQjQiYxY1Nyq5znoHvlq"
+        "name": "12 de Junho",
+        "url": "https://open.spotify.com/album/5bHkLSLhWDFZq9OsMwjgs4"
       },
       "artists": [
         {
-          "name": "Amorim",
-          "url": "https://open.spotify.com/artist/3FVZlbowUWV4h0nKFKVb0a"
+          "name": "Muse Maya",
+          "url": "https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm"
         },
         {
-          "name": "meLLo",
-          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
+          "name": "808 Luke",
+          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
         }
       ],
-      "duration_ms": 149575,
-      "name": "Quem Me Guia",
-      "url": "https://open.spotify.com/track/06QfdMI94z1klI0tyPa1qq"
+      "duration_ms": 190588,
+      "name": "12 de Junho",
+      "url": "https://open.spotify.com/track/7EzBbffkrBToB3Gh7kvP8c"
+    },
+    {
+      "added_at": "2026-03-27 19:24:36",
+      "album": {
+        "name": "M\u00fasicas Para Mulheres, Vol. 1",
+        "url": "https://open.spotify.com/album/61GjFlMdbK3NEssTLJV0wF"
+      },
+      "artists": [
+        {
+          "name": "Dash Foreal",
+          "url": "https://open.spotify.com/artist/2vrrGwK98P8zHi7mskmfXA"
+        }
+      ],
+      "duration_ms": 167876,
+      "name": "S\u00f3 pra voc\u00ea",
+      "url": "https://open.spotify.com/track/0OYfygtqmhjlLbz6AL4Thc"
     },
     {
       "added_at": "2026-03-27 19:24:36",
@@ -1315,22 +1331,6 @@
       "duration_ms": 235800,
       "name": "B\u00f3ra",
       "url": "https://open.spotify.com/track/72Sh71maWsoTAJpWDZnpBt"
-    },
-    {
-      "added_at": "2026-03-27 19:24:36",
-      "album": {
-        "name": "M\u00fasicas Para Mulheres, Vol. 1",
-        "url": "https://open.spotify.com/album/61GjFlMdbK3NEssTLJV0wF"
-      },
-      "artists": [
-        {
-          "name": "Dash Foreal",
-          "url": "https://open.spotify.com/artist/2vrrGwK98P8zHi7mskmfXA"
-        }
-      ],
-      "duration_ms": 167876,
-      "name": "S\u00f3 pra voc\u00ea",
-      "url": "https://open.spotify.com/track/0OYfygtqmhjlLbz6AL4Thc"
     },
     {
       "added_at": "2026-03-27 19:24:36",

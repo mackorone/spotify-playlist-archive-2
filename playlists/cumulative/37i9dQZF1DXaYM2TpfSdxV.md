@@ -4,7 +4,7 @@
 
 > Ruido blanco para ayudarte a dormir.
 
-385 songs - 17 hr 23 min
+386 songs - 17 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Endless White Noise](https://open.spotify.com/track/0vXwLcYUyiwOEPVihyhAwy) | [GLXO](https://open.spotify.com/artist/727d2Rcbyo1h1tmAfg9BuK) | [Endless White Noise](https://open.spotify.com/album/3RKwxDuYhBt8MTBFAwAsX3) | 4:19 | 2023-03-09 | 2023-04-13 |
 | [Endless White Noise Calm](https://open.spotify.com/track/3g5xlyXE6PDxqqt4SV63Dj) | [Nelson Noise](https://open.spotify.com/artist/6CJzQHlafHm7lio0bGcoO8) | [Endless White Noise Calm](https://open.spotify.com/album/37dx9QSpxXKyh5uensJ10a) | 4:45 | 2026-03-31 |  |
 | [Every Night White Noise](https://open.spotify.com/track/5nMbf1TCIXxtgWjcCT7pzs) | [The Noisy Outdoors](https://open.spotify.com/artist/6ipASreqbHk6a7aR2xo9BW) | [Every Night White Noise](https://open.spotify.com/album/6ZKRu38HcgmoIaJwj61XgD) | 2:41 | 2023-03-09 | 2026-04-01 |
+| [Fade Into White Noise](https://open.spotify.com/track/3zVg3dXijjjalH2iVchs45) | [Ozonezzz](https://open.spotify.com/artist/3D4ZyZNY4vP7YHF9CtWQzZ) | [Fade Into White Noise](https://open.spotify.com/album/6S74CUcB4auM9ffN81Oy1O) | 2:56 | 2026-03-31 |  |
 | [Fading Lights White Noise](https://open.spotify.com/track/39Rv7yVz09paUBeX8VvEQy) | [Nylana](https://open.spotify.com/artist/4wbomsLdQTq8c8JCO1uUNL) | [Velara \(Ambient Noise\)](https://open.spotify.com/album/2lRl9BdFLHc3jtZzAEteCX) | 3:40 | 2023-03-09 | 2023-04-13 |
 | [Faithfully Sleeps](https://open.spotify.com/track/5v56B7XYlnGzEPwY4c8I8R) | [Dreaq Lost](https://open.spotify.com/artist/0LBBqvLzvcIeKvUY6CaBPv) | [Faithfully Sleeps](https://open.spotify.com/album/3CtbDpc3uEK8fwsPgtE2v2) | 1:27 | 2023-03-09 | 2023-06-29 |
 | [Falling Asleep](https://open.spotify.com/track/5N8KsYJ8IEMQVw33JvytW8) | [Naturelle](https://open.spotify.com/artist/2ZqIdeQMZpsr1jAruu22fI) | [Restful White Noise](https://open.spotify.com/album/78gezcFabVfTrlIigNbB6p) | 1:47 | 2023-03-09 | 2023-06-29 |
@@ -339,7 +340,7 @@
 | [White Noise Horizon](https://open.spotify.com/track/7eHSX1N2sj6DCdHI4Fd2OK) | [Arven](https://open.spotify.com/artist/5hqFUHrihp00SRWVqz07tI) | [White Noise Horizon](https://open.spotify.com/album/28oJNXLRTsHRt8tQzugXJs) | 2:44 | 2026-03-31 |  |
 | [White Noise im Windtunnel](https://open.spotify.com/track/4TcHUU51XZLcBCxYn1WyMj) | [Dream Storms](https://open.spotify.com/artist/40AelaWxy8f4FdEVHEzK1T) | [Dreams in White Noise](https://open.spotify.com/album/6i6ulH7tJpoYyyKQMR59Lv) | 2:03 | 2023-03-09 | 2026-02-18 |
 | [White Noise in Arena](https://open.spotify.com/track/795R8VmFJ4rjLRmtiiOSBj) | [Three Peels](https://open.spotify.com/artist/550PiaxNneb0AaqPp7sWWS) | [Sleep Noise](https://open.spotify.com/album/4vAdUTer5fygtGo2VeDt7q) | 2:42 | 2023-04-12 | 2026-03-25 |
-| [White Noise in der Grotte](https://open.spotify.com/track/2Qh0vgdqdOr0g5C1ysGMzg) | [Xiskko](https://open.spotify.com/artist/4UMyTN1UI04MCa5s5HO2sg) | [White Noise](https://open.spotify.com/album/6egMS7eEwQPiYz2LjZVeUt) | 2:05 | 2023-04-12 |  |
+| [White Noise in der Grotte](https://open.spotify.com/track/2Qh0vgdqdOr0g5C1ysGMzg) | [Xiskko](https://open.spotify.com/artist/4UMyTN1UI04MCa5s5HO2sg) | [White Noise](https://open.spotify.com/album/6egMS7eEwQPiYz2LjZVeUt) | 2:05 | 2023-04-12 | 2026-04-13 |
 | [White Noise in the Cabin](https://open.spotify.com/track/2JVO6M02HMNuW4lbWE8ocT) | [Dream Fuzz](https://open.spotify.com/artist/5g15r7gI0JATorLiQduRkF) | [White Noise for Resting](https://open.spotify.com/album/536RaT7Jmh5B49XMpLZSAe) | 4:25 | 2023-03-09 |  |
 | [White Noise In The Evening](https://open.spotify.com/track/6O8xBU7yOBK6DCiFCxvG6B) | [Scientific Sleep](https://open.spotify.com/artist/02Mjmf0YHGLykH3ET3nJ37) | [Sleep In Outer Space](https://open.spotify.com/album/0QoBo09odd3fT0jhojratL) | 2:11 | 2023-03-09 |  |
 | [White Noise In the Skies](https://open.spotify.com/track/4QTEH3hEGR2gdoNob2rbsN) | [Dust Vale](https://open.spotify.com/artist/2bGZ3cEg2RPZWCxpkNW3xn) | [White Noise In the Skies](https://open.spotify.com/album/5qAvV5cDGh2Jc4EzHxpyEz) | 2:40 | 2026-03-31 |  |

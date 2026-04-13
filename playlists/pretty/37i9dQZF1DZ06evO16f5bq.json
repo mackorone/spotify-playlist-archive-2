@@ -1,12 +1,12 @@
 {
   "description": "This is MC Cabelinho. The essential tracks, all in one playlist.",
-  "num_followers": 156168,
+  "num_followers": 156157,
   "original_name": "This Is MC Cabelinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adg9gAAAAACIS55E+J+6C5hZFSQi5OCE",
+  "snapshot_id": "admPAAAAAAC0ZsmcOzB5dtIqrVOnCH/P",
   "tracks": [
     {
       "added_at": null,
@@ -416,9 +416,9 @@
           "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
         }
       ],
-      "duration_ms": 171045,
-      "name": "FATOR SURPRESA",
-      "url": "https://open.spotify.com/track/4rRi150SlF17ElbLApB4qm"
+      "duration_ms": 163112,
+      "name": "NORMAL",
+      "url": "https://open.spotify.com/track/4qEMg9sUbLfsjFlF3oKaSA"
     },
     {
       "added_at": null,
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
         }
       ],
-      "duration_ms": 163112,
-      "name": "NORMAL",
-      "url": "https://open.spotify.com/track/4qEMg9sUbLfsjFlF3oKaSA"
+      "duration_ms": 171045,
+      "name": "FATOR SURPRESA",
+      "url": "https://open.spotify.com/track/4rRi150SlF17ElbLApB4qm"
     },
     {
       "added_at": null,
@@ -847,6 +847,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Que Se Foda o Cupido (feat. MC Cabelinho & MC Meno K)",
+        "url": "https://open.spotify.com/album/70rgAi8ko10QS6heKNP0mR"
+      },
+      "artists": [
+        {
+          "name": "DJ WILL TN",
+          "url": "https://open.spotify.com/artist/7uVgmtaje8DlNep6BGuVgX"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "DJ Japa NK",
+          "url": "https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "MC Meno K",
+          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
+        }
+      ],
+      "duration_ms": 324843,
+      "name": "Que Se Foda o Cupido (feat. MC Cabelinho & MC Meno K)",
+      "url": "https://open.spotify.com/track/2L278dmb5oAZC5eogDCfzU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "AC\u00daSTICO DO LITTLE - PT. 1",
         "url": "https://open.spotify.com/album/0IPmkgB1Syy4dZ9KcIPf9L"
       },
@@ -991,30 +1027,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00caXTASE",
-        "url": "https://open.spotify.com/album/0bWyQxzGtZ4QV3H6GF8xhF"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        },
-        {
-          "name": "LOthief",
-          "url": "https://open.spotify.com/artist/3thMwq9J3a0UeLnPGhA4Qn"
-        }
-      ],
-      "duration_ms": 196213,
-      "name": "5\u00aa DIMENS\u00c3O",
-      "url": "https://open.spotify.com/track/2ZBAoshSsVrgOzabiQKhBS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LITTLE HAIR",
         "url": "https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V"
       },
@@ -1035,38 +1047,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Se Foda o Cupido (feat. MC Cabelinho & MC Meno K)",
-        "url": "https://open.spotify.com/album/70rgAi8ko10QS6heKNP0mR"
+        "name": "\u00caXTASE",
+        "url": "https://open.spotify.com/album/0bWyQxzGtZ4QV3H6GF8xhF"
       },
       "artists": [
-        {
-          "name": "DJ WILL TN",
-          "url": "https://open.spotify.com/artist/7uVgmtaje8DlNep6BGuVgX"
-        },
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "DJ Japa NK",
-          "url": "https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
         {
           "name": "MC Cabelinho",
           "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
         },
         {
-          "name": "MC Meno K",
-          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        },
+        {
+          "name": "LOthief",
+          "url": "https://open.spotify.com/artist/3thMwq9J3a0UeLnPGhA4Qn"
         }
       ],
-      "duration_ms": 324843,
-      "name": "Que Se Foda o Cupido (feat. MC Cabelinho & MC Meno K)",
-      "url": "https://open.spotify.com/track/2L278dmb5oAZC5eogDCfzU"
+      "duration_ms": 196213,
+      "name": "5\u00aa DIMENS\u00c3O",
+      "url": "https://open.spotify.com/track/2ZBAoshSsVrgOzabiQKhBS"
     },
     {
       "added_at": null,

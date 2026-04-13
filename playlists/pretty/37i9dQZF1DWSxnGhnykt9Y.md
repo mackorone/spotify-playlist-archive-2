@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxnGhnykt9Y.md) - [plain]
 
 > Some of the most influential and innovative voices in afrobeats, afropop, amapiano, hiplife and everything in between, from earliest acts to newest stars\. <br/><br/>Cover: Juno
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,528 likes - 70 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,571 likes - 70 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxnGhnykt9Y.md) - [plain]
 | 69 | [Lukaku](https://open.spotify.com/track/1d1XEBuQ4NrlJIKJgYKWYt) | [Nella](https://open.spotify.com/artist/1srgbcQlCI56byuqb1FphT) | [Lukaku](https://open.spotify.com/album/17ppUP83ffoLReW5NMdhaX) | 2:41 |
 | 70 | [Still I Shine](https://open.spotify.com/track/5q4fvEhTbYw4a2lolAD3Hm) | [Amara](https://open.spotify.com/artist/7KQyGCLgWoO7IDu4I8Votk) | [Still I Shine](https://open.spotify.com/album/3UoMhwvsM0iN095JOdKLhM) | 1:29 |
 
-Snapshot ID: `AAAAACOzUwaGgy2rj9RxYqkvZXWJM1XX`
+Snapshot ID: `AAAAAM7W8BR3ICsH/WHACfz1jS2whvUo`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 
 > 
 
-[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,595 likes - 935 songs - 2 day 10 hr 59 min
+[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,595 likes - 953 songs - 2 day 12 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -943,5 +943,23 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 | 933 | [Yo soy un privilegio](https://open.spotify.com/track/3BRcsbhVShH0Hv9OoaMJZV) | [NaDesh](https://open.spotify.com/artist/4Wg1j1wuePfTj1kN2GMXiJ) | [Yo soy un privilegio](https://open.spotify.com/album/6mA13Q0gqKBeCUi5k6G9Yu) | 2:45 |
 | 934 | [Teresa](https://open.spotify.com/track/5sPIvKwhJXjk3lWhEGNmHK) | [Ribera del Júcar Revival](https://open.spotify.com/artist/04gcWUfNrbcWSklXOdnmjY) | [El regreso de Misha](https://open.spotify.com/album/1WzQvW37ruDPOL1jPk9FKb) | 4:11 |
 | 935 | [2\-Step Verification](https://open.spotify.com/track/7wFTimRho9jDUlvFDS50ES) | [Endurus](https://open.spotify.com/artist/0Q1hSukyOd14VmmdpP4mNe) | [2\-Step Verification](https://open.spotify.com/album/49j0SYWThz8IwhGJJ1Jo2C) | 3:09 |
+| 936 | [Bitter End](https://open.spotify.com/track/0VNOt7cBRvYeJUR3KYH2ju) | [Ham Radio](https://open.spotify.com/artist/0KAzAbafgVSUP3w8P4n5SM) | [Tirades & Tragedies](https://open.spotify.com/album/4WcgaR5ediislNe9EuOloC) | 4:27 |
+| 937 | [Judgement](https://open.spotify.com/track/6CC3De86Zo5X3OPng9AyDU) | [B.J Starink](https://open.spotify.com/artist/6tBJu6bwF9iKth36fU4QqB) | [Judgement](https://open.spotify.com/album/4Zegdt9W0dwxgIVpKZESby) | 3:10 |
+| 938 | [Muerto Del Calor](https://open.spotify.com/track/7LmjpCD8e6QT7SVyV6529L) | [Beyond Blue](https://open.spotify.com/artist/6i03Y9JVGgePpBfrBIMPyw) | [Muerto Del Calor](https://open.spotify.com/album/2eCtmSxldeGYn78XlyuqbQ) | 2:04 |
+| 939 | [Lo Que Vemos y Nunca Tendrás](https://open.spotify.com/track/2sLKZe1CFU7ZDcysFkCHGp) | [Optional Ganesh](https://open.spotify.com/artist/3hSejCXiZtx3chBHEwFsB5) | [Lo Que Vemos y Nunca Tendrás](https://open.spotify.com/album/3kQotfa9VvItiUxYTpWkMA) | 2:56 |
+| 940 | [Uncanny Valley](https://open.spotify.com/track/0gv9zs5Ig367LagpIMbgi9) | [Sunderance](https://open.spotify.com/artist/6FhMyhVWQo9mURqlE5HgR4) | [Uncanny Valley](https://open.spotify.com/album/3ZHjHYXY38gMJfdzAGBCkl) | 3:59 |
+| 941 | [Reactor Run](https://open.spotify.com/track/6WX8Y4XtZ7YjSjtyX407kZ) | [Watermill](https://open.spotify.com/artist/4COWknloNOBOTnwmdAnbtl) | [Reactor Run](https://open.spotify.com/album/1eOpdf7ezAZqTSkUueOv0w) | 5:38 |
+| 942 | [Foggy Window](https://open.spotify.com/track/6U68EHD34b3aRJ6hrWJe9a) | [TMF Rock](https://open.spotify.com/artist/7MzY70dHn1srNGDfNmCLb9) | [Lost Song Wars](https://open.spotify.com/album/3T4Tq9XjsEdxI8clFJFCie) | 2:56 |
+| 943 | [Reason We All Share](https://open.spotify.com/track/5jvrlhTDejDARcAQfAmWT8) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Reason We All Share](https://open.spotify.com/album/7IN9coSLqiMdGcPZocsTft) | 3:12 |
+| 944 | [Public Memory \#1](https://open.spotify.com/track/3mkjcKOsD7hzLMmTiyKbyK) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Public Memory \#1](https://open.spotify.com/album/7I88oAjzXkX8DqRl23Dq4l) | 3:31 |
+| 945 | [I Am Glow](https://open.spotify.com/track/3i8ecpPBllwZgk6SAj5RN2) | [Dute](https://open.spotify.com/artist/4JVDpPwTXaLhNcXMXz6NJV), [Lukky Sparxx](https://open.spotify.com/artist/7FFdx96MiyEDRkKZz62MCN) | [I Am Glow](https://open.spotify.com/album/4lEjcnMWiJgH7Op5Chh8Kk) | 4:23 |
+| 946 | [Open Arms](https://open.spotify.com/track/2NcDhf8xd4Qe7eK67yDt2s) | [Blossom Cult](https://open.spotify.com/artist/4wIHc06KiSU2gOL8y8feKm) | [Open Arms](https://open.spotify.com/album/7ihFUkqRBUwGybdCiCuBut) | 3:58 |
+| 947 | [Insignificant Kingdom](https://open.spotify.com/track/0SFdFRCMy9rqQhYIRCpLf7) | [Extirpation](https://open.spotify.com/artist/1eiXylfTupPX9TFPdLD5yu) | [Insignificant Kingdom](https://open.spotify.com/album/5bEXJeYHss6xvSshq1npYX) | 5:48 |
+| 948 | [Blood Pact Brothers](https://open.spotify.com/track/1a1AU02Uc3NUXyoAnv3Wgu) | [CTRL NOISE](https://open.spotify.com/artist/1zRFjbrsphxLI5HNu2SJk0) | [Till Death](https://open.spotify.com/album/7DHIkj9HtAUHkbP8mQ5Uc0) | 3:42 |
+| 949 | [The Grey](https://open.spotify.com/track/1SPfxYhhsSuImnRus0ayBA) | [The Afterlife](https://open.spotify.com/artist/7z8sLYhuLQpqk0bGxyCgVP) | [The Grey](https://open.spotify.com/album/3s5n7sh4P8Yf9Z2DlT5wlv) | 2:40 |
+| 950 | [Shakeout](https://open.spotify.com/track/5UxnEbI9VDRiyxcEMhVOaU) | [Summer Colds](https://open.spotify.com/artist/1KO4w7F0yxQpGqN6w5unBn) | [Shakeout](https://open.spotify.com/album/1tuHXOe3br042DLr0UEoqS) | 3:19 |
+| 951 | [Desert Mist](https://open.spotify.com/track/6TiMQGxnlMq95WPNnPKegu) | [Akiña](https://open.spotify.com/artist/7GaNoYnWPOchcYQKtIfEWv) | [Desert Mist](https://open.spotify.com/album/2QtDqdYaY9QZq3S7jQgCsm) | 5:24 |
+| 952 | [All My Friends](https://open.spotify.com/track/3mxttUWXn5UdiFuonE6S4y) | [SYFF](https://open.spotify.com/artist/3l6fFx7DdPQuaLYGM5CWoG) | [Boys in Touch With Their Emotions](https://open.spotify.com/album/1FJ0nROKe1X3JFoWcEyYYd) | 3:17 |
+| 953 | [Falling Down](https://open.spotify.com/track/1y3Du7IQc6t5y4t8FyOOXc) | [LOW/LATE](https://open.spotify.com/artist/7gWmJ9eJ1xHygxVUv8JpfD) | [cheaper than therapy](https://open.spotify.com/album/4StrvmhKAI4l8fB6ldCuI4) | 2:46 |
 
-Snapshot ID: `AAADyXtbz3E0MilFci7PVlS1Xy1Gp5nl`
+Snapshot ID: `AAAD3OfGWD22EkKrai1jVRmVLxOC0lrd`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Kehlani, Missy Elliott, Lady Gaga, Doechii, KATSEYE, Laufey, Silet Open Up, SonaOne, empty page\. and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,905 likes - 113 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,900 likes - 113 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

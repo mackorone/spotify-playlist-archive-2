@@ -4,7 +4,7 @@
 
 > most popular tiktok phonk \- best phonk 2026 \-  viral phonk \- viral sigma \- best sigma male \- sigma workout \- sad sigma songs
 
-813 songs - 1 day 12 hr 4 min
+815 songs - 1 day 12 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -588,6 +588,7 @@
 | [PYRAMID OF GYZA](https://open.spotify.com/track/1auUb2SHzOA45CyafsuGHh) | [SKYVER](https://open.spotify.com/artist/28vzuYcNCFrd0CaN9ZZVod), [4WIZZ](https://open.spotify.com/artist/5uh6mIBatCfTtP9zMnYfxp) | [PYRAMID OF GYZA](https://open.spotify.com/album/3skYPnBFzmLpHQ3TEEBOEF) | 1:24 | 2024-09-12 | 2024-11-12 |
 | [Quadrant](https://open.spotify.com/track/5aCUd0qFRMuILkp6SujeQS) | [Another Time](https://open.spotify.com/artist/6UPkJPAeJXdVccWYXSVFpc) | [Synapse](https://open.spotify.com/album/5cP4G8ARggPY692Jgfghap) | 6:46 | 2024-09-19 | 2025-02-15 |
 | [QUATTRO](https://open.spotify.com/track/0XyQa2TUE5fjpITSPTSC8C) | [Ghostface Playa](https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7), [NIGHTMORSS](https://open.spotify.com/artist/6xaUh9kl4cB9sMxp1exAjh) | [QUATTRO](https://open.spotify.com/album/30Cx6E5zusgxSoPmk6sEEA) | 1:56 | 2023-12-08 | 2023-12-17 |
+| [Question](https://open.spotify.com/track/2bdBAvrgXWVKl6ktp3lxOA) | [JML](https://open.spotify.com/artist/5ABVaChn9HAgdGo24TruQx) | [Question](https://open.spotify.com/album/7J4lOixqz2rLYEUOFtIXL9) | 5:00 | 2026-04-12 |  |
 | [R3bl](https://open.spotify.com/track/5BhWIRuIblTjH2VA5XpCkm) | [RHV3R](https://open.spotify.com/artist/75CoJ6yTXIBFwESdObIvTv) | [R3bl](https://open.spotify.com/album/5JmG4OrGxqXhusY7QpKoOi) | 1:56 | 2023-08-25 | 2023-09-26 |
 | [Racks](https://open.spotify.com/track/3jplxbZlmchbU4SBe44YaS) | [Famous Kid Brick](https://open.spotify.com/artist/2reMcGkhB81Dwm8ywl8qB3) | [Racks](https://open.spotify.com/album/0TDfPLBghrjTnznzjxibKc) | 1:49 | 2023-06-12 | 2024-01-22 |
 | [Racks Blue](https://open.spotify.com/track/7evoJVkktXH36rhbBw95pC) | [Lil Kizzle](https://open.spotify.com/artist/53UPF2IP4pQRQduL2oXbzN) | [Racks Blue](https://open.spotify.com/album/4kJm18IJ2j5ii0QZpWKtWz) | 1:47 | 2023-06-12 | 2023-06-26 |
@@ -621,6 +622,7 @@
 | [Rug Burn \(Knocked Out\)](https://open.spotify.com/track/0h9rh4mo5lYxvRLq9Q90Eg) | [Wiley](https://open.spotify.com/artist/0AozPFs98kDNb4wBlQItiN) | [RUG BURN](https://open.spotify.com/album/1p9O3PzyESSrYHLu0Llkqc) | 3:12 | 2025-04-17 | 2025-08-22 |
 | [Run Away](https://open.spotify.com/track/3g4C8QTIRvc0GXio1qAWR4) | [Rakdos](https://open.spotify.com/artist/7ad3Vq1XPqQSOT2esyhyCn), [WHYTYLXR](https://open.spotify.com/artist/2618WoveBPd91A0xWide3w), [Arixch](https://open.spotify.com/artist/2ic06ZgQ8S1gKClXW9y1af) | [Run Away](https://open.spotify.com/album/6o5VGixLbFTeIaK6Xw0oqP) | 3:18 | 2023-12-08 | 2024-07-12 |
 | [RUN TO YOU](https://open.spotify.com/track/1xdEvBldj4JrAxkXPIYkOX) | [GRIM](https://open.spotify.com/artist/2BBgvu5pe10UewRO1hVhZ4) | [RUN TO YOU](https://open.spotify.com/album/2pJEkhEm3ESWcyJsKkImGr) | 1:48 | 2024-01-23 | 2024-02-21 |
+| [Runaway](https://open.spotify.com/track/7d2yh51eRVoWyJ69IPBxvi) | [Ryan McDavid](https://open.spotify.com/artist/76Txp4eDTx24joHD6B24CQ) | [Runaway](https://open.spotify.com/album/0ANqu6ypvn5zRxadsMP61i) | 2:36 | 2026-04-12 |  |
 | [RUSH](https://open.spotify.com/track/1q57foohVrX9Txyfut5U98) | [BERNZ](https://open.spotify.com/artist/1mEkCpjXPIymCGkKCJzcl5) | [RUSH](https://open.spotify.com/album/0YWOLJUyAPEnUx0pwA9UU7) | 1:37 | 2023-12-08 | 2024-01-19 |
 | [S.W.Y.S.](https://open.spotify.com/track/02BqgzK1PCypW1AbUzqscT) | [Frost Fir3](https://open.spotify.com/artist/0mU0Nzf3KoQ5D7718toQjh) | [S.W.Y.S.](https://open.spotify.com/album/5yiVtkW6CU8nBLQOquO1pI) | 4:20 | 2023-08-05 | 2023-08-20 |
 | [Sahara](https://open.spotify.com/track/6nqdgUTiWt4JbABDurkxMI) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Sahara](https://open.spotify.com/album/3Q8XfnyXY1KUqnfjkyGwWa) | 2:51 | 2023-06-12 |  |

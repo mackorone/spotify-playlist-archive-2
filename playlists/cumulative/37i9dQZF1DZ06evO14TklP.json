@@ -1735,6 +1735,24 @@
     },
     {
       "album": {
+        "name": "KM2 (De Luxo)",
+        "url": "https://open.spotify.com/album/6TWX7QLULtq9672vLeUZTO"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130493,
+      "name": "Parte do Mundo",
+      "url": "https://open.spotify.com/track/4mWJYUQ2RPbFizCnpOD8r2"
+    },
+    {
+      "album": {
         "name": "KM2",
         "url": "https://open.spotify.com/album/5o7rJ8g9O5ltC3QJeTfvjD"
       },
@@ -1812,7 +1830,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 147119,
       "name": "Pensamentos Intrusivos (Uma s\u00e9rie Netflix \"Nova Cena\")",
       "url": "https://open.spotify.com/track/3KkmOuhoMzJJxLWDwQFSH8"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Ibraah
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,515 likes - 54 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,582 likes - 54 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

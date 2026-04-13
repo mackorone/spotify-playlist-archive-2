@@ -2946,13 +2946,13 @@
           "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
         },
         {
-          "name": "Carin Leon",
+          "name": "Car\u00edn Le\u00f3n",
           "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 185253,
       "name": "No Te Olvido",
       "url": "https://open.spotify.com/track/7HqIAVm70XTRuy61urYpLT"
@@ -3754,7 +3754,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 247196,
       "name": "San Lucas",
       "url": "https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO"

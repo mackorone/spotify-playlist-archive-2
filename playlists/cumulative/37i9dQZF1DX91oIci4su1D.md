@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a> with the one & only Tiësto
 
-1,263 songs - 3 day 3 hr 33 min
+1,264 songs - 3 day 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -674,6 +674,7 @@
 | [Loyalty](https://open.spotify.com/track/2xY7icfJSoWq3QGu9ZgLMH) | [Daniel Portman](https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM) | [Loyalty](https://open.spotify.com/album/3YKNaB4SFqIMIDCxi6x1t8) | 3:48 | 2025-11-07 |  |
 | [Luna](https://open.spotify.com/track/6vlZbpSGMaWTIoaWyL5qcL) | [Rub!k](https://open.spotify.com/artist/5U2wxAflSm2aCkV61rqhX2) | [Luna](https://open.spotify.com/album/4u40bU2UJr0JCIKLD4l9LQ) | 3:23 | 2022-03-04 | 2023-03-04 |
 | [Luvstruck](https://open.spotify.com/track/0ZxYJrCv0Kq2ONqgFWw5SM) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Southside Spinners](https://open.spotify.com/artist/7KrZpsNMLhQtA1s4UGNVbb) | [Luvstruck](https://open.spotify.com/album/1TS5PmnWKa6vr5qBV4dq46) | 2:41 | 2024-12-13 |  |
+| [Luz del Infinito \- Radio Edit](https://open.spotify.com/track/6FhsVFKL2Pyw9TXI20zILu) | [Schak](https://open.spotify.com/artist/7gA8yMxRoBujfmpDLuLPvx) | [Luz Del Infinito](https://open.spotify.com/album/3mzePtHDE7WTfnpG7MwgSj) | 3:50 | 2026-04-03 |  |
 | [Lytherion](https://open.spotify.com/track/3uAlKLXTAqdnVHRYija2kY) | [Rank 1](https://open.spotify.com/artist/1eQe86RbDKRIiGZk08r9YJ) | [Lytherion](https://open.spotify.com/album/09BtIowmQdyFVis1nyjzVY) | 3:19 | 2025-09-12 |  |
 | [Made of Stone](https://open.spotify.com/track/0HkYWF3O2mW56RU67gEqyG) | [Richard Durand](https://open.spotify.com/artist/7wne8sUhTAJdIsnuO4GjnR), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Made of Stone](https://open.spotify.com/album/6QqHyLXIWltfMVhO8XQWLW) | 3:39 | 2021-12-17 | 2023-02-25 |
 | [Madness](https://open.spotify.com/track/1N0SMPZllogg6bH4ueBSw4) | [Nifra](https://open.spotify.com/artist/4Ipm3lGKLqzhir25JU846A) | [Madness](https://open.spotify.com/album/2RxoQZVEWaNX5VLZIaBU73) | 2:38 | 2025-05-16 |  |
@@ -902,7 +903,7 @@
 | [Ride At Dawn](https://open.spotify.com/track/55Q7oDS8Y4e6dYyqZKax7d) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Zoë Johnston](https://open.spotify.com/artist/3dWyWwLvZWsWtXZHhmAiFL) | [Ride At Dawn](https://open.spotify.com/album/7DiasgKMXc817JWAUi1org) | 2:53 | 2025-09-05 |  |
 | [Ride Of Your Life \(Scarborough Fair\)](https://open.spotify.com/track/1sPIWtbLJNa4vCkK8wv4tI) | [AVA CROWN](https://open.spotify.com/artist/0jd43OPsT2l0NAXUSBY7xC) | [Ride Of Your Life \(Scarborough Fair\)](https://open.spotify.com/album/5PV3Y5996bW2eZrrj8E4V7) | 2:12 | 2026-03-10 |  |
 | [Right Back](https://open.spotify.com/track/13lUhE5ppZ8srSnaLoK2ky) | [Alexander Popov](https://open.spotify.com/artist/4zNhfG6i4QlfUuzt1hBGu2), [Whiteout](https://open.spotify.com/artist/35wRsBUrfQziBPzvJTr9bt) | [Right Back](https://open.spotify.com/album/0xIILg9WfVx8mv3rJ68ScU) | 3:29 | 2021-12-17 | 2023-03-04 |
-| [Right Now](https://open.spotify.com/track/2r0V83W8Vue5NKhqjbY1BB) | [OTTAGON](https://open.spotify.com/artist/49b9crFClEofQmf5078d31), [SGNLS](https://open.spotify.com/artist/4Gr5otnLxK9f0fLpm9jK74), [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv) | [Right Now](https://open.spotify.com/album/3SIxaSKnsmx40bTUmFetA4) | 4:05 | 2025-04-18 |  |
+| [Right Now](https://open.spotify.com/track/2r0V83W8Vue5NKhqjbY1BB) | [OTTAGON](https://open.spotify.com/artist/49b9crFClEofQmf5078d31), [SGNLS](https://open.spotify.com/artist/4Gr5otnLxK9f0fLpm9jK74), [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv) | [Right Now](https://open.spotify.com/album/3SIxaSKnsmx40bTUmFetA4) | 4:05 | 2025-04-18 | 2026-04-13 |
 | [Ripples](https://open.spotify.com/track/3SqNXXlcf1d8kWugo3uBFY) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Adam White](https://open.spotify.com/artist/3OYcRF1SOf0sR3NRsgMI3R) | [Ripples](https://open.spotify.com/album/6tqBTvLK7tWaHYP7wQpbLK) | 2:31 | 2023-02-24 | 2024-02-17 |
 | [Rise Again](https://open.spotify.com/track/27a7ojdqMexeIDYIOOJapD) | [Alexander Popov](https://open.spotify.com/artist/4zNhfG6i4QlfUuzt1hBGu2), [Simon & Phil](https://open.spotify.com/artist/7lv2ETc0piWDxN0uwfJJ05) | [Rise Again](https://open.spotify.com/album/0Qe9RKMZQi00h2UIdgBnoh) | 3:23 | 2024-04-19 | 2025-05-17 |
 | [Rise Up](https://open.spotify.com/track/2n08N1ofRMc9dfbjGnxS6l) | [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP), [Ruben de Ronde](https://open.spotify.com/artist/3q7BRw9D1DupXTONJdr94m), [NRG2000](https://open.spotify.com/artist/6jVTGNBl4oociC25d6U4iy) | [Rise Up](https://open.spotify.com/album/7JkeFNWMO44IneNli188wr) | 2:39 | 2025-08-01 |  |

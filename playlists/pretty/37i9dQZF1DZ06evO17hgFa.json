@@ -1,12 +1,12 @@
 {
   "description": "This is Billie Holiday. The essential tracks, all in one playlist.",
-  "num_followers": 148890,
+  "num_followers": 148902,
   "original_name": "This Is Billie Holiday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adg9gAAAAADExzxhUxeAwqd9bjdaCqat",
+  "snapshot_id": "admPAAAAAADd6KQOx1NL9GbJaHrYoZoa",
   "tracks": [
     {
       "added_at": null,
@@ -735,18 +735,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lover Man",
-        "url": "https://open.spotify.com/album/7tsBTgXE5wZggdmh5qBhZH"
+        "name": "A Musical Romance",
+        "url": "https://open.spotify.com/album/4WmDWM4jSLl3EcJ716V1cu"
       },
       "artists": [
         {
           "name": "Billie Holiday",
           "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        },
+        {
+          "name": "Teddy Wilson",
+          "url": "https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii"
         }
       ],
-      "duration_ms": 179453,
-      "name": "There Is No Greater Love",
-      "url": "https://open.spotify.com/track/2fSlY7Sv6ZKcTOkp1ki9xL"
+      "duration_ms": 179640,
+      "name": "Foolin' Myself (with Teddy Wilson & His Orchestra)",
+      "url": "https://open.spotify.com/track/3nIpFMbuhstntUZT4FpuPG"
     },
     {
       "added_at": null,
@@ -767,22 +771,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Musical Romance",
-        "url": "https://open.spotify.com/album/4WmDWM4jSLl3EcJ716V1cu"
+        "name": "Lover Man",
+        "url": "https://open.spotify.com/album/7tsBTgXE5wZggdmh5qBhZH"
       },
       "artists": [
         {
           "name": "Billie Holiday",
           "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        },
-        {
-          "name": "Teddy Wilson",
-          "url": "https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii"
         }
       ],
-      "duration_ms": 179640,
-      "name": "Foolin' Myself (with Teddy Wilson & His Orchestra)",
-      "url": "https://open.spotify.com/track/3nIpFMbuhstntUZT4FpuPG"
+      "duration_ms": 179453,
+      "name": "There Is No Greater Love",
+      "url": "https://open.spotify.com/track/2fSlY7Sv6ZKcTOkp1ki9xL"
     },
     {
       "added_at": null,
@@ -827,8 +827,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lover Man",
-        "url": "https://open.spotify.com/album/7tsBTgXE5wZggdmh5qBhZH"
+        "name": "Music For Torching",
+        "url": "https://open.spotify.com/album/127Jwx8NAD3DPnLDDucazY"
       },
       "artists": [
         {
@@ -836,9 +836,9 @@
           "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 176640,
-      "name": "Porgy",
-      "url": "https://open.spotify.com/track/4zmNvhsd4kDCtQSmpQqLlf"
+      "duration_ms": 264373,
+      "name": "Come Rain Or Come Shine",
+      "url": "https://open.spotify.com/track/20lPX0g0lacr7c72M8A0OR"
     }
   ],
   "unique_name": "This Is Billie Holiday",

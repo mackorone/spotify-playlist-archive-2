@@ -7666,7 +7666,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 183090,
       "name": "Given-Taken",
       "url": "https://open.spotify.com/track/69WpV0U7OMNFGyq8I63dcC"
@@ -9146,7 +9146,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 206038,
       "name": "I",
       "url": "https://open.spotify.com/track/5ZkITfPpcNPnyYGTibkO6m"
@@ -14524,7 +14524,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-13",
+      "date_removed": null,
       "duration_ms": 184601,
       "name": "Polaroid Love",
       "url": "https://open.spotify.com/track/5elW2CKSoqjYoJ32AGDxf1"
@@ -20056,6 +20056,24 @@
       "duration_ms": 194093,
       "name": "What You Want",
       "url": "https://open.spotify.com/track/3rAcN3CLeSrkhIZN8PHbwb"
+    },
+    {
+      "album": {
+        "name": "What's a girl to do",
+        "url": "https://open.spotify.com/album/1hywbmcXqc373aldNqWUIS"
+      },
+      "artists": [
+        {
+          "name": "DAYOUNG",
+          "url": "https://open.spotify.com/artist/5SQHuBLqaasC50vOL9s8Mz"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "What's a girl to do",
+      "url": "https://open.spotify.com/track/1JymZBT39MAPXffPcKkaPW"
     },
     {
       "album": {

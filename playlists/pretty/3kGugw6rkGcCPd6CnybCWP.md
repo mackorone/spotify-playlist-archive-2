@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,170 likes - 111 songs - 6 hr 30 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,170 likes - 114 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,5 +119,8 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 109 | [Enough](https://open.spotify.com/track/5vm4R22GJJVbZU1rsq2UXE) | [Kaela Gillman](https://open.spotify.com/artist/7EoOrLX9Fb6o2cN25fpHdu), [Pop•&Friends](https://open.spotify.com/artist/39Vpw5RSeipPPq871XeMSV) | [Enough](https://open.spotify.com/album/0CkdJpaFtHDJN9mAmvGSuq) | 3:16 |
 | 110 | [Next In Line](https://open.spotify.com/track/7G4XN3ChekRS6KOxOIF68G) | [Carmen Olivia](https://open.spotify.com/artist/1w04bxkCPIX84eeMhf73aN) | [Next In Line](https://open.spotify.com/album/1tPGzJkKTLeb9X7mmCrdUu) | 3:31 |
 | 111 | [Don't Let Me Go](https://open.spotify.com/track/02h0GTr7iO4JUUu5Vy2cfZ) | [Paranoize](https://open.spotify.com/artist/2IsNoOamJMVdmEKK4dQKcS) | [Don't Let Me Go](https://open.spotify.com/album/3Kg1v6AGrwbxB1D8MqPZTF) | 2:13 |
+| 112 | [Alternative Ulster](https://open.spotify.com/track/5SVn3rhLXevK8FsM73yN0b) | [The Manky Melters](https://open.spotify.com/artist/7eeVrnLC5YwCslvhxGTVuF) | [Alternative Ulster](https://open.spotify.com/album/4wZLd7iVyTOsJtoe491Spj) | 3:38 |
+| 113 | [That's Cool](https://open.spotify.com/track/2k7SrfAazc3aXOSGcBT66L) | [Slaney Bay](https://open.spotify.com/artist/6jfR9Na2d55xoFOK5mQT1I) | [That's Cool](https://open.spotify.com/album/7aPGxG33vGIZrTO3YQ5xQb) | 3:46 |
+| 114 | [Dusty](https://open.spotify.com/track/5hWvpIKz06G3iKvQaU2zXT) | [Pondlife](https://open.spotify.com/artist/7nAw4BKkoWhKV2R0i7Xprz) | [Dusty](https://open.spotify.com/album/2JedsFcyYV4MxfQPjRHFBA) | 3:10 |
 
-Snapshot ID: `AAAODgc4zeXBr6Zup8iIkQr6J98rPrv3`
+Snapshot ID: `AAAOESMa6WZCm4ynucPehfpANJKnb8NZ`

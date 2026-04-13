@@ -1,13 +1,33 @@
 {
   "description": "This is Kehlani. The essential tracks, all in one playlist.",
-  "num_followers": 333364,
+  "num_followers": 333448,
   "original_name": "This Is Kehlani",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adg9gAAAAAB+/TXc7VJouf+MHTB+pwhB",
+  "snapshot_id": "admPAAAAAADazSZy6q0ZsGii2z/ezflc",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Back and Forth (feat. Missy Elliott)",
+        "url": "https://open.spotify.com/album/3yb1H4Mf6annZTGWpmAoCW"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        },
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        }
+      ],
+      "duration_ms": 214757,
+      "name": "Back and Forth (feat. Missy Elliott)",
+      "url": "https://open.spotify.com/track/6t263UZVjI9nnHfr7eeLW4"
+    },
     {
       "added_at": null,
       "album": {
@@ -259,22 +279,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "blue water road",
-        "url": "https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 207551,
-      "name": "everything",
-      "url": "https://open.spotify.com/track/6pyM30WDpG70VTfwoQg4m2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MUTT Deluxe: HEEL",
         "url": "https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL"
       },
@@ -291,6 +295,22 @@
       "duration_ms": 219607,
       "name": "DIRT ON MY SHOES (feat. Kehlani)",
       "url": "https://open.spotify.com/track/2AA05NFvw5tPQ9pvj68fsY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "blue water road",
+        "url": "https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 207551,
+      "name": "everything",
+      "url": "https://open.spotify.com/track/6pyM30WDpG70VTfwoQg4m2"
     },
     {
       "added_at": null,
@@ -423,6 +443,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "While We Wait",
+        "url": "https://open.spotify.com/album/73ZvpuYhKDr2FW4vlPsTpW"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 181140,
+      "name": "Feels",
+      "url": "https://open.spotify.com/track/4BOikd4oZjOYMde9AXfrTo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "While We Wait 2",
         "url": "https://open.spotify.com/album/6BtMJG0J0QnXIiGRCMgkxA"
       },
@@ -443,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "While We Wait",
-        "url": "https://open.spotify.com/album/73ZvpuYhKDr2FW4vlPsTpW"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 181140,
-      "name": "Feels",
-      "url": "https://open.spotify.com/track/4BOikd4oZjOYMde9AXfrTo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You Know Wassup",
         "url": "https://open.spotify.com/album/5PdJ9s1UhLttMDmAMyMdtt"
       },
@@ -471,6 +491,22 @@
       "duration_ms": 201142,
       "name": "You Know Wassup",
       "url": "https://open.spotify.com/track/6HUO25AttZZCoKAY0vUVtc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It Was Good Until It Wasn't",
+        "url": "https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 245674,
+      "name": "Open (Passionate)",
+      "url": "https://open.spotify.com/track/4J4yA7A68PmgSbjAn425eY"
     },
     {
       "added_at": null,
@@ -515,26 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "It Was Good Until It Wasn't",
-        "url": "https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        },
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        }
-      ],
-      "duration_ms": 278715,
-      "name": "Hate the Club (feat. Masego)",
-      "url": "https://open.spotify.com/track/0QUbiLQySWPq5Lh3f7A9bN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mind Of Mine (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5amj9zNeZ3B2EdpBgXrOZ0"
       },
@@ -551,6 +567,26 @@
       "duration_ms": 212747,
       "name": "wRoNg (feat. Kehlani)",
       "url": "https://open.spotify.com/track/7iCeaYJSEdGWeFNTAEqUzJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It Was Good Until It Wasn't",
+        "url": "https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        },
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        }
+      ],
+      "duration_ms": 278715,
+      "name": "Hate the Club (feat. Masego)",
+      "url": "https://open.spotify.com/track/0QUbiLQySWPq5Lh3f7A9bN"
     },
     {
       "added_at": null,
@@ -595,18 +631,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "It Was Good Until It Wasn't",
-        "url": "https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3"
+        "name": "All Me (feat. Keyshia Cole)",
+        "url": "https://open.spotify.com/album/2bxcNajPY3MT1I4LuGJCOX"
       },
       "artists": [
         {
           "name": "Kehlani",
           "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        },
+        {
+          "name": "Keyshia Cole",
+          "url": "https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3"
         }
       ],
-      "duration_ms": 245674,
-      "name": "Open (Passionate)",
-      "url": "https://open.spotify.com/track/4J4yA7A68PmgSbjAn425eY"
+      "duration_ms": 178347,
+      "name": "All Me (feat. Keyshia Cole)",
+      "url": "https://open.spotify.com/track/3ucRKbRlikYHyoI17gfR0c"
     },
     {
       "added_at": null,
@@ -631,22 +671,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Me (feat. Keyshia Cole)",
-        "url": "https://open.spotify.com/album/2bxcNajPY3MT1I4LuGJCOX"
+        "name": "It Was Good Until It Wasn't",
+        "url": "https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3"
       },
       "artists": [
         {
           "name": "Kehlani",
           "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        },
-        {
-          "name": "Keyshia Cole",
-          "url": "https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3"
         }
       ],
-      "duration_ms": 178347,
-      "name": "All Me (feat. Keyshia Cole)",
-      "url": "https://open.spotify.com/track/3ucRKbRlikYHyoI17gfR0c"
+      "duration_ms": 122813,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/4ot7u8Ij91aHKohSV2QYZi"
     },
     {
       "added_at": null,
@@ -663,22 +699,6 @@
       "duration_ms": 211375,
       "name": "melt",
       "url": "https://open.spotify.com/track/1pCbBNRglGwlMLeUTOnqrO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "It Was Good Until It Wasn't",
-        "url": "https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 122813,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/4ot7u8Ij91aHKohSV2QYZi"
     },
     {
       "added_at": null,
@@ -727,26 +747,6 @@
       "duration_ms": 240093,
       "name": "Faking It (feat. Kehlani & Lil Yachty)",
       "url": "https://open.spotify.com/track/0pJPdSVti6cTM1Q6xYGmcf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Back and Forth (feat. Missy Elliott)",
-        "url": "https://open.spotify.com/album/3yb1H4Mf6annZTGWpmAoCW"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        },
-        {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
-        }
-      ],
-      "duration_ms": 214757,
-      "name": "Back and Forth (feat. Missy Elliott)",
-      "url": "https://open.spotify.com/track/6t263UZVjI9nnHfr7eeLW4"
     },
     {
       "added_at": null,
@@ -823,42 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "While We Wait",
-        "url": "https://open.spotify.com/album/73ZvpuYhKDr2FW4vlPsTpW"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        },
-        {
-          "name": "Dom Kennedy",
-          "url": "https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt"
-        }
-      ],
-      "duration_ms": 244688,
-      "name": "Nunya (feat. Dom Kennedy)",
-      "url": "https://open.spotify.com/track/0tkmYNfaEaH9HpR59ApRtE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "blue water road",
-        "url": "https://open.spotify.com/album/1fZRXWVJVe07UcD4GowJ8j"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 244635,
-      "name": "altar",
-      "url": "https://open.spotify.com/track/1DVgSm1FpFBT8usWhnC5vF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Here For It All",
         "url": "https://open.spotify.com/album/6MljmKZLh52AUR1v5WpWst"
       },
@@ -879,6 +843,42 @@
       "duration_ms": 219968,
       "name": "Sugar Sweet (feat. Shenseea & Kehlani)",
       "url": "https://open.spotify.com/track/75ganPv831RMYXCwQlWzsN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "blue water road",
+        "url": "https://open.spotify.com/album/1fZRXWVJVe07UcD4GowJ8j"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 244635,
+      "name": "altar",
+      "url": "https://open.spotify.com/track/1DVgSm1FpFBT8usWhnC5vF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "While We Wait",
+        "url": "https://open.spotify.com/album/73ZvpuYhKDr2FW4vlPsTpW"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        },
+        {
+          "name": "Dom Kennedy",
+          "url": "https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt"
+        }
+      ],
+      "duration_ms": 244688,
+      "name": "Nunya (feat. Dom Kennedy)",
+      "url": "https://open.spotify.com/track/0tkmYNfaEaH9HpR59ApRtE"
     },
     {
       "added_at": null,

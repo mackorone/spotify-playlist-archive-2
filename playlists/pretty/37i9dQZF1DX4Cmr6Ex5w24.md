@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Cmr6Ex5w24.md) - [plain]
 
 > Revisit the retro Rahman
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,770 likes - 75 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,814 likes - 75 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Cmr6Ex5w24.md) - [plain]
 | 33 | [En Meal Vizhundha Mazhai](https://open.spotify.com/track/4Qu1iqZ91prSvXiUmwSNLj) | [P\. Jayachandran](https://open.spotify.com/artist/2HujlDCi1ggnUSdfgipUxE), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [May Madham](https://open.spotify.com/album/7lOAMWFbgRFydIu8U4Qr0v) | 5:00 |
 | 34 | [Pettai Rap](https://open.spotify.com/track/4pR2j98bcXjWFRAKHJQ9hC) | [Suresh Peters](https://open.spotify.com/artist/1EvTAKGpcJx8wtvppR7p45), [Shahul Hameed](https://open.spotify.com/artist/4AMv8pVDwovphHQONz6eKP), [Theanee Kunjaramma](https://open.spotify.com/artist/2o8E3P3mNpCNUPNR3dyFCj), [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Shankar](https://open.spotify.com/artist/6DmKvvaXUkECvkUozzpuQb) | [Kaadhalan](https://open.spotify.com/album/69KnM0TANwkgU1LCJGOjYT) | 4:24 |
 | 35 | [Chinna Chinna Asai](https://open.spotify.com/track/301uYgwDevsSCzCBW6t7JC) | [Minmini](https://open.spotify.com/artist/22hTOnub1VZYjuQultOi4Q), [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Vairamuthu](https://open.spotify.com/artist/1hFqbxc2MxieBIU4MqIEWm) | [Roja](https://open.spotify.com/album/4aLMaanVxHRKd9Mf4KJo2H) | 4:53 |
-| 36 | [Uyire Uyire](https://open.spotify.com/track/0hUGQUSf8YcHdOnQG9AFth) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Bombay](https://open.spotify.com/album/1L8QB4XDTFddfoWkZffL2D) | 7:14 |
-| 37 | [Malargaley \(From "Love Birds"\)](https://open.spotify.com/track/08h7noiVJ51fou2fVNIVC4) | [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH), [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Love Songs of Ilaiyaraja & A\. R\. Rahman](https://open.spotify.com/album/2pTLn5ypUdGINKImS1iHyr) | 7:15 |
+| 36 | [Malargaley \(From "Love Birds"\)](https://open.spotify.com/track/08h7noiVJ51fou2fVNIVC4) | [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH), [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Love Songs of Ilaiyaraja & A\. R\. Rahman](https://open.spotify.com/album/2pTLn5ypUdGINKImS1iHyr) | 7:15 |
+| 37 | [Uyire Uyire](https://open.spotify.com/track/0hUGQUSf8YcHdOnQG9AFth) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Bombay](https://open.spotify.com/album/1L8QB4XDTFddfoWkZffL2D) | 7:14 |
 | 38 | [Jumballakka](https://open.spotify.com/track/2P1wERinlW4BdTFzFVXXVR) | [Rafee](https://open.spotify.com/artist/5K3q2zudwdnRiPzbNEm0dc) | [En Swasa Kaatre](https://open.spotify.com/album/1AShgi69eqjHbr34SFaves) | 6:19 |
 | 39 | [Chikkubukku Chikkubukku Railea](https://open.spotify.com/track/6ic3BzpUA3dsMOsTXvPfTe) | [Suresh Peters](https://open.spotify.com/artist/1EvTAKGpcJx8wtvppR7p45), [Nil](https://open.spotify.com/artist/1BrnrJA9euFivUWs59wDbF) | [Gentleman](https://open.spotify.com/album/6e97t01pmASFo2XJFkJtOC) | 5:21 |
 | 40 | [Maargazhi Poovea](https://open.spotify.com/track/1BsUz93KmwBdR7GI2tWJCe) | [Shobha Shanker](https://open.spotify.com/artist/5Ep3klpu2IgTQJLqsmEHQ0) | [May Madham](https://open.spotify.com/album/7lOAMWFbgRFydIu8U4Qr0v) | 6:19 |

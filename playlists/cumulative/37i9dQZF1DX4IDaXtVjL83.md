@@ -2,9 +2,9 @@
 
 ### [K\-Pop X\-Overs](https://open.spotify.com/playlist/37i9dQZF1DX4IDaXtVjL83)
 
-> Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: FIFTY FIFTY\)
+> Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: LISA, Anyma\)
 
-271 songs - 14 hr 12 min
+272 songs - 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [AUTODEADMA \(feat\. WOOSEOK of PENTAGON\)](https://open.spotify.com/track/1huXH6cjXHN2ZpqnnG7dLo) | [Maymay Entrata](https://open.spotify.com/artist/4JliYPIw09GespZAmZv6rI), [WOOSEOK](https://open.spotify.com/artist/1JVVY2kKddJ0JkDkbEZk4V), [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [AUTODEADMA \(feat\. WOOSEOK of PENTAGON\)](https://open.spotify.com/album/1XSaxEw0RTVC2WRuFwONVP) | 3:32 | 2023-04-30 | 2024-05-18 |
 | [Back for More \(with Anitta\)](https://open.spotify.com/track/6uTPA1xlcsk6dbchB2dhzl) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Back for More \(with Anitta\)](https://open.spotify.com/album/5zhfCotijpaEJfQNVAC8mV) | 2:11 | 2023-09-15 | 2026-03-27 |
 | [Back In Love](https://open.spotify.com/track/4up9NcBZM7WhYik9jYtQU1) | [Kim Min Seok](https://open.spotify.com/artist/3v5sOovLByGJiy2PWSk3aQ), [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [Back In Love](https://open.spotify.com/album/5ZHvtBvK20KcEayo2MDQTQ) | 3:15 | 2024-01-12 | 2026-02-06 |
+| [Bad Angel \(with LISA\)](https://open.spotify.com/track/4QR40LqFAbMdabh4AoZJGZ) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Bad Angel \(with LISA\)](https://open.spotify.com/album/4RyojhEO0VsnNacY6C3te7) | 2:33 | 2026-04-13 |  |
 | [Bad Girls](https://open.spotify.com/track/0adySBJEfMd5xAWkzEOVTb) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc), [Rahul Rajkhowa](https://open.spotify.com/artist/443XJUhCBjuQhbDp3USEFi) | [Bad Girls](https://open.spotify.com/album/4YYvXKLuNhxK35r7JwjMbG) | 3:18 | 2025-04-25 |  |
 | [Bad Habits \- SHAUN Remix](https://open.spotify.com/track/1ojXznve83pqLCTdy3945M) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [Bad Habits \(The Remixes\)](https://open.spotify.com/album/1cvxALyvpgUpRqxix4vhLK) | 3:44 | 2021-12-20 | 2022-04-20 |
 | [Bad Influence \(Prod\. by Pharrell Williams\)](https://open.spotify.com/track/6uJlw4VHZulMvz6s3J2bO2) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [SEVENTEEN 5th Album 'HAPPY BURSTDAY'](https://open.spotify.com/album/0xlyof8BowaJtYPsxWYmkN) | 2:47 | 2025-06-02 |  |

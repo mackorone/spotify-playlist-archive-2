@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4oLsxc.md) - [plain]
 | 37 | [Uh Huh Okay \(Remix\)](https://open.spotify.com/track/5haqYf5lnZ8urUL7riUe2U) | [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f), [Budgie](https://open.spotify.com/artist/3XkLOVhQv8DBoiclVW8F89), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [What's A Diamond To A Baby \- The Remixes Vol\. 1](https://open.spotify.com/album/6dP1NZlwdwdzrfnlkNlrTv) | 4:14 |
 | 38 | [Deeper One](https://open.spotify.com/track/3uNCnf0Ha0Cf6JNzs7W59j) | [kadiata](https://open.spotify.com/artist/3fRPt5kKn2lETY48z6kigv), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Lost, This Winter](https://open.spotify.com/album/79fVV5zDmHcJhOuuxdmAZ2) | 3:26 |
 
-Snapshot ID: `adg9gAAAAACls70/BZK9QCUUcfKn0+i+`
+Snapshot ID: `admPAAAAAAB7+/OluuOEJ/LInBZgrGIt`

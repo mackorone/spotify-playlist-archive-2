@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRPjCBAuFj3.md) - [plain]
 
 > Giovani re, piccole star, si ricorderanno di noi 📈  Sfera in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,832 likes - 105 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,865 likes - 105 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

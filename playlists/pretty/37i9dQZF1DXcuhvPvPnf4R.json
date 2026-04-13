@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/meaghansmom/\">Monique Blake</a>",
-  "num_followers": 11629,
+  "num_followers": 11633,
   "original_name": "Monique Blake's Taste",
   "owner": {
     "name": "Spotify",
@@ -199,22 +199,6 @@
     {
       "added_at": "2022-10-01 16:43:03",
       "album": {
-        "name": "Tambourine",
-        "url": "https://open.spotify.com/album/35qJZJ0yUoWdyrqs6pDbTK"
-      },
-      "artists": [
-        {
-          "name": "Eve",
-          "url": "https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC"
-        }
-      ],
-      "duration_ms": 192440,
-      "name": "Tambourine",
-      "url": "https://open.spotify.com/track/1U16aNzvnlfARgjWXjKmQj"
-    },
-    {
-      "added_at": "2022-10-01 16:43:03",
-      "album": {
         "name": "Outside",
         "url": "https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 231618,
       "name": "Ye",
       "url": "https://open.spotify.com/track/3FskQrDXcY24ur2fCvz35O"
+    },
+    {
+      "added_at": "2022-10-01 16:43:03",
+      "album": {
+        "name": "Tambourine",
+        "url": "https://open.spotify.com/album/35qJZJ0yUoWdyrqs6pDbTK"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC"
+        }
+      ],
+      "duration_ms": 192440,
+      "name": "Tambourine",
+      "url": "https://open.spotify.com/track/1U16aNzvnlfARgjWXjKmQj"
     },
     {
       "added_at": "2022-10-01 16:43:03",
@@ -599,6 +599,22 @@
     {
       "added_at": "2022-10-01 16:43:03",
       "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/5CjGqbWegCxmjVZv168HRS"
+      },
+      "artists": [
+        {
+          "name": "Alicai Harley",
+          "url": "https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh"
+        }
+      ],
+      "duration_ms": 190967,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/5wcWWTTQCEizpl98ggMRYL"
+    },
+    {
+      "added_at": "2022-10-01 16:43:03",
+      "album": {
         "name": "Mama Stay",
         "url": "https://open.spotify.com/album/7tru8RQVWKJ3MwC253e4CP"
       },
@@ -615,18 +631,18 @@
     {
       "added_at": "2022-10-01 16:43:03",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/5CjGqbWegCxmjVZv168HRS"
+        "name": "Jimmy Cozier",
+        "url": "https://open.spotify.com/album/2mnL3NqNFwDjAbQrzlWi3W"
       },
       "artists": [
         {
-          "name": "Alicai Harley",
-          "url": "https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh"
+          "name": "J. Cozier",
+          "url": "https://open.spotify.com/artist/4PsXktnr6Ff4jxNJeVuWcG"
         }
       ],
-      "duration_ms": 190967,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/5wcWWTTQCEizpl98ggMRYL"
+      "duration_ms": 211133,
+      "name": "She's All I Got - Radio Edit",
+      "url": "https://open.spotify.com/track/49XSbzWYyB20DTlBtQiZFw"
     },
     {
       "added_at": "2022-10-01 16:43:03",
@@ -655,22 +671,6 @@
       "duration_ms": 276208,
       "name": "Hood Blues (feat. Westside Gunn, Benny The Butcher & Conway The Machine)",
       "url": "https://open.spotify.com/track/1OaIvyH1IbX31m4JY6yBej"
-    },
-    {
-      "added_at": "2022-10-01 16:43:03",
-      "album": {
-        "name": "Jimmy Cozier",
-        "url": "https://open.spotify.com/album/2mnL3NqNFwDjAbQrzlWi3W"
-      },
-      "artists": [
-        {
-          "name": "J. Cozier",
-          "url": "https://open.spotify.com/artist/4PsXktnr6Ff4jxNJeVuWcG"
-        }
-      ],
-      "duration_ms": 211133,
-      "name": "She's All I Got - Radio Edit",
-      "url": "https://open.spotify.com/track/49XSbzWYyB20DTlBtQiZFw"
     },
     {
       "added_at": "2022-10-01 16:43:03",

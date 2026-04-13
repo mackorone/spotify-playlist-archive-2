@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- United Kingdom.
 
-650 songs - 1 day 11 hr 9 min
+651 songs - 1 day 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [All The Things She Said](https://open.spotify.com/track/6WG5psY5PscQMrHP7Z26ad) | [Harrison](https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94) | [All The Things She Said](https://open.spotify.com/album/15aHBKSJyVpTepgUOLCoVZ) | 2:50 | 2026-01-16 | 2026-03-04 |
 | [Always Everywhere](https://open.spotify.com/track/6fGapufucZHPva1kvCqceA) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wuthering Heights](https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e) | 3:03 | 2026-03-03 | 2026-03-06 |
 | [ALWAYS LET YOU DOWN \(feat\. A Day To Remember\)](https://open.spotify.com/track/2QkboO9FsC9Z2ogQPjDb30) | [Bilmuri](https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89), [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [ALWAYS LET YOU DOWN \(feat\. A Day To Remember\)](https://open.spotify.com/album/11qgjRUBFe0yAR47559uaU) | 3:04 | 2026-03-31 | 2026-04-06 |
+| [ALWAYS LET YOU DOWN \(feat\. A Day To Remember\)](https://open.spotify.com/track/4JbOFz9ZiLevkIyuHJFp0D) | [Bilmuri](https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89), [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [KINDA HARD](https://open.spotify.com/album/6bJif35DxJzpXob5HfMzqU) | 3:04 | 2026-04-12 |  |
 | [american baddie](https://open.spotify.com/track/4Z2sXKeE9DmBgrvF4pdSa4) | [sayso](https://open.spotify.com/artist/12Av8CCJTyPhv7Uk6yG5Lh) | [american baddie](https://open.spotify.com/album/4ZXkIcruW59fGdvVOEBaGt) | 2:11 | 2025-12-04 | 2025-12-14 |
 | [American Girls](https://open.spotify.com/track/7gtG45ieyQzKtNKobfLd49) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 3:33 | 2026-03-24 | 2026-04-01 |
 | [An Eater](https://open.spotify.com/track/0ofbSMwGB6a63ydEIeaq4K) | [Matt Martians](https://open.spotify.com/artist/7ycsWk9ae4pTAlWH8j6Hf9) | [Going Normal](https://open.spotify.com/album/1dX8F7HD9V9p6YT3DIxiLP) | 2:27 | 2026-03-13 | 2026-03-21 |
@@ -356,7 +357,7 @@
 | [Mad About Beckton](https://open.spotify.com/track/38CGhaXyKlyP9qWAdKGeCG) | [Twin H](https://open.spotify.com/artist/1Vt8dbxRzTbqxEKRwfCJjj), [Twin S](https://open.spotify.com/artist/1VJ9x40b4MIE9vkTBqNhwD), [Kenny Allstar](https://open.spotify.com/artist/2abTBfFq5PSoASI2PSysLV) | [Mad About Beckton](https://open.spotify.com/album/5TxE07rqlwPxSWWfV2bEpy) | 3:16 | 2026-01-20 | 2026-01-27 |
 | [Made In Japan](https://open.spotify.com/track/5vHs45P0mSuzl9rDRcliLK) | [Buck Owens & The Buckaroos](https://open.spotify.com/artist/41GBMTInlbb2bey1N6VAzV) | [In The Palm Of Your Hand](https://open.spotify.com/album/7pfb8J6I3C3jfJvagjLaYk) | 2:44 | 2025-10-27 | 2025-10-29 |
 | [Madeline](https://open.spotify.com/track/1GpM5w7maS7MGVkZdg6jPE) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [West End Girl](https://open.spotify.com/album/4Dn3Z14YfT2gQVDgLmWUVn) | 2:55 | 2025-11-11 | 2025-11-19 |
-| [Magnetic](https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt) | [The Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg) | [Magnetic / Addicted To Your Love](https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8) | 3:01 | 2026-03-17 |  |
+| [Magnetic](https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt) | [The Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg) | [Magnetic / Addicted To Your Love](https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8) | 3:01 | 2026-03-17 | 2026-04-13 |
 | [Make Something Up](https://open.spotify.com/track/64OIDldq25VvelMStZiDvy) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Trying Times](https://open.spotify.com/album/16tV8wTfqPyA6Cu5dwJJPc) | 4:06 | 2026-03-31 | 2026-04-02 |
 | [Man I Need](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Man I Need](https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a) | 3:04 | 2025-10-27 | 2026-02-11 |
 | [Man I Need x Promiscuous](https://open.spotify.com/track/2L62z1KSWTevGuBcMVL7W9) | [VellyCarl](https://open.spotify.com/artist/1dpnhSfZVaQG6SAp9ld3hd) | [Man I Need x Promiscuous](https://open.spotify.com/album/1P6dnH2rtEQikRvrqsCC9T) | 2:16 | 2025-10-30 | 2025-11-02 |
@@ -483,8 +484,8 @@
 | [Rottweiler](https://open.spotify.com/track/7mcxFbFdnFFbWwPflgqqKE) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy) | [Rebel](https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug) | 1:36 | 2025-10-27 | 2025-12-09 |
 | [Rubber Band Man \(with Hozier\)](https://open.spotify.com/track/5DJ0y9uatNMVRCqLtFxGPR) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Rubber Band Man \(with Hozier\)](https://open.spotify.com/album/2L7tp1R1F3f2KOLCGkmzDp) | 3:40 | 2025-11-17 | 2025-11-19 |
 | [Rubber Band Man \(with Hozier\)](https://open.spotify.com/track/6rrqv0WwGTTlavCNqVGd6A) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Rubber Band Man \(with Hozier\)](https://open.spotify.com/album/6yWyUmKuNAPw5M4Ee3PtUq) | 3:40 | 2025-11-11 | 2025-11-18 |
-| [RUDE!](https://open.spotify.com/track/0WA27lZzPKFJKAbiDRmQDc) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [RUDE!](https://open.spotify.com/album/4teVVZHVxs4FgjPhT3lUKz) | 3:20 | 2026-03-10 |  |
-| [RUDE!](https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [RUDE!](https://open.spotify.com/album/3053E9tumiU5rqbAPWF06s) | 3:20 | 2026-03-11 | 2026-04-12 |
+| [RUDE!](https://open.spotify.com/track/0WA27lZzPKFJKAbiDRmQDc) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [RUDE!](https://open.spotify.com/album/4teVVZHVxs4FgjPhT3lUKz) | 3:20 | 2026-03-10 | 2026-04-13 |
+| [RUDE!](https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [RUDE!](https://open.spotify.com/album/3053E9tumiU5rqbAPWF06s) | 3:20 | 2026-03-11 |  |
 | [Ruminating](https://open.spotify.com/track/0kJAopMxyyqtF1GiIIsgzn) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [West End Girl](https://open.spotify.com/album/4Dn3Z14YfT2gQVDgLmWUVn) | 3:26 | 2025-11-11 | 2025-11-14 |
 | [Run My Way](https://open.spotify.com/track/5vEdGoNQHH2FZT9y2wc2zr) | [December 10](https://open.spotify.com/artist/3QvfzWcCo67s7bhOYEz5Tr) | [Run My Way](https://open.spotify.com/album/2iCHhOIojuvNTY1hINgWOi) | 2:44 | 2026-02-17 | 2026-03-03 |
 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/7MfeFE3RzhbBq9Z86JWL35) | [Sunny Ray](https://open.spotify.com/artist/6MAu0Z9K1Si5WxLMPkx1Rw) | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/album/71XAqeqj5q01vAB1vUobDR) | 4:01 | 2026-02-19 | 2026-03-01 |

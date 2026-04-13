@@ -6,7 +6,7 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAI+PdRBGdxf5056ZgoAyGLKSqCLBZa",
+  "snapshot_id": "AAAJMoc+RmAYoxneR7lNTVzi8Jivc8rb",
   "tracks": [
     {
       "added_at": "2026-03-30 10:29:12",
@@ -119,6 +119,22 @@
       "duration_ms": 167967,
       "name": "Way",
       "url": "https://open.spotify.com/track/6KLOrYcWx5D4fm3oGvTBEP"
+    },
+    {
+      "added_at": "2026-03-15 11:17:55",
+      "album": {
+        "name": "Puzzles",
+        "url": "https://open.spotify.com/album/7e2bA6vx7HTLvrOtyFLChY"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "duration_ms": 182120,
+      "name": "Olas en tus cielos",
+      "url": "https://open.spotify.com/track/05uRcmkTIeJFcFIzJtd9yI"
     },
     {
       "added_at": "2026-02-22 00:42:14",
@@ -34809,22 +34825,6 @@
       "url": "https://open.spotify.com/track/3fPYkl1AZEKb3YiynvTm0I"
     },
     {
-      "added_at": "2026-03-15 11:17:55",
-      "album": {
-        "name": "Puzzles",
-        "url": "https://open.spotify.com/album/7e2bA6vx7HTLvrOtyFLChY"
-      },
-      "artists": [
-        {
-          "name": "Alisone",
-          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
-        }
-      ],
-      "duration_ms": 182120,
-      "name": "Olas en tus cielos",
-      "url": "https://open.spotify.com/track/05uRcmkTIeJFcFIzJtd9yI"
-    },
-    {
       "added_at": "2026-03-15 11:18:00",
       "album": {
         "name": "BE",
@@ -36100,7 +36100,7 @@
           "url": "https://open.spotify.com/artist/4lmG1YXfns7Fi9VR0DBNeG"
         }
       ],
-      "duration_ms": 240045,
+      "duration_ms": 240934,
       "name": "Picturesque",
       "url": "https://open.spotify.com/track/4idYpAc52sDGN48auh8GIz"
     },
@@ -36295,6 +36295,934 @@
       "duration_ms": 203103,
       "name": "Ese 50 por Ciento de T\u00ed",
       "url": "https://open.spotify.com/track/3zd6Dwc501K5MpMsGHfXkh"
+    },
+    {
+      "added_at": "2026-04-12 09:04:45",
+      "album": {
+        "name": "El desahogo",
+        "url": "https://open.spotify.com/album/46QpeSbQHV8t08BWKPIuv6"
+      },
+      "artists": [
+        {
+          "name": "Sonia Hole",
+          "url": "https://open.spotify.com/artist/52oNOZ7eCIZZv6jYWz1wWc"
+        },
+        {
+          "name": "Mat\u00edas Muri\u00f3",
+          "url": "https://open.spotify.com/artist/2ZertXpvpc5tOtsOhdEi2e"
+        }
+      ],
+      "duration_ms": 151687,
+      "name": "Traje de sastre",
+      "url": "https://open.spotify.com/track/03uH0apF6wQy3hWCwzbLjn"
+    },
+    {
+      "added_at": "2026-04-12 09:36:50",
+      "album": {
+        "name": "Asincopado",
+        "url": "https://open.spotify.com/album/0eMSyUX3YPXapifVO6ANoU"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "duration_ms": 267652,
+      "name": "Asincopado",
+      "url": "https://open.spotify.com/track/5yAO854PtOR0ITzBhVaXD3"
+    },
+    {
+      "added_at": "2026-04-12 09:36:52",
+      "album": {
+        "name": "Esfera estelar",
+        "url": "https://open.spotify.com/album/5U1dydCsI3g37wy6KQmJOd"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "duration_ms": 172478,
+      "name": "Esfera estelar",
+      "url": "https://open.spotify.com/track/1sM0yol9qxkgL9bspKcGE1"
+    },
+    {
+      "added_at": "2026-04-12 09:36:54",
+      "album": {
+        "name": "Retales",
+        "url": "https://open.spotify.com/album/6ImECFZdFBouz7P4unroNC"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "duration_ms": 165540,
+      "name": "Retales",
+      "url": "https://open.spotify.com/track/5elNkQu8G17sA9kxxJKkvG"
+    },
+    {
+      "added_at": "2026-04-12 09:36:54",
+      "album": {
+        "name": "Free As A Bird (2025 Mix)",
+        "url": "https://open.spotify.com/album/4xapkZNwiVtC9SGOQJfHCW"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 267240,
+      "name": "Free As A Bird (2025 Mix)",
+      "url": "https://open.spotify.com/track/6XNF8RS4XH1o4ljx1A1r8m"
+    },
+    {
+      "added_at": "2026-04-12 09:36:54",
+      "album": {
+        "name": "Digan lo que digan",
+        "url": "https://open.spotify.com/album/07QcPjhWnCMPRScuBiMMgz"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "duration_ms": 205989,
+      "name": "Digan lo que digan",
+      "url": "https://open.spotify.com/track/7oML2qtfJRhXRuuW2wv4rM"
+    },
+    {
+      "added_at": "2026-04-12 09:36:55",
+      "album": {
+        "name": "En ti",
+        "url": "https://open.spotify.com/album/0oFooP7WHD6zKw0J8HqvHA"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "duration_ms": 251192,
+      "name": "En ti",
+      "url": "https://open.spotify.com/track/6epke6LUhFb20S5zCYzMAp"
+    },
+    {
+      "added_at": "2026-04-12 09:36:56",
+      "album": {
+        "name": "Olas en tus cielos",
+        "url": "https://open.spotify.com/album/757Y7T0L4mDd8EM2CIMGFW"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "duration_ms": 182120,
+      "name": "Olas en tus cielos",
+      "url": "https://open.spotify.com/track/0UKIoHximVYbnEm12h8Gdz"
+    },
+    {
+      "added_at": "2026-04-12 09:36:59",
+      "album": {
+        "name": "Aquel lugar",
+        "url": "https://open.spotify.com/album/2KWPpahPbJDZOi1D5lEjbK"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "duration_ms": 138241,
+      "name": "Aquel lugar",
+      "url": "https://open.spotify.com/track/5YBmdCvGi2mnSZywBvQObf"
+    },
+    {
+      "added_at": "2026-04-12 09:37:00",
+      "album": {
+        "name": "Redescubri\u00e9ndote",
+        "url": "https://open.spotify.com/album/1pNFACnbBTkBNhcuIaQey5"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "duration_ms": 207408,
+      "name": "Redescubri\u00e9ndote",
+      "url": "https://open.spotify.com/track/7wIvQ63tHsiOoVU2VTi8nB"
+    },
+    {
+      "added_at": "2026-04-12 09:37:01",
+      "album": {
+        "name": "Together Alone",
+        "url": "https://open.spotify.com/album/7bzJtH0rm6rcgmWiKyIVxK"
+      },
+      "artists": [
+        {
+          "name": "Crowded House",
+          "url": "https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB"
+        }
+      ],
+      "duration_ms": 207200,
+      "name": "Pineapple Head",
+      "url": "https://open.spotify.com/track/4Mnvy3IIhtdtLCInj1know"
+    },
+    {
+      "added_at": "2026-04-12 09:37:01",
+      "album": {
+        "name": "Autorretratos: Lo mejor de Antonio Vega",
+        "url": "https://open.spotify.com/album/6wzmaZsFYyRmnCLZTdLVaA"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vega",
+          "url": "https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF"
+        }
+      ],
+      "duration_ms": 249560,
+      "name": "Se Dejaba Llevar Por Ti",
+      "url": "https://open.spotify.com/track/0nLeNYebvsmLRDbFlgioSb"
+    },
+    {
+      "added_at": "2026-04-12 09:37:41",
+      "album": {
+        "name": "Tocar la lluvia",
+        "url": "https://open.spotify.com/album/1YPCa52lWFtLNr16GgANuh"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "duration_ms": 144965,
+      "name": "Amanecer",
+      "url": "https://open.spotify.com/track/2mbpjOVwM7dDfukfXmLjEI"
+    },
+    {
+      "added_at": "2026-04-12 09:37:42",
+      "album": {
+        "name": "A Black Mile To The Surface",
+        "url": "https://open.spotify.com/album/4hruYceqit29o6m4arpAql"
+      },
+      "artists": [
+        {
+          "name": "Manchester Orchestra",
+          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
+        }
+      ],
+      "duration_ms": 328933,
+      "name": "The Alien",
+      "url": "https://open.spotify.com/track/5eKfpH2dQ7FltCqb7LWEGJ"
+    },
+    {
+      "added_at": "2026-04-12 09:37:43",
+      "album": {
+        "name": "A New World Record",
+        "url": "https://open.spotify.com/album/7a35UzxXYuKQGMGImyB0Un"
+      },
+      "artists": [
+        {
+          "name": "Electric Light Orchestra",
+          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
+        }
+      ],
+      "duration_ms": 279237,
+      "name": "Telephone Line",
+      "url": "https://open.spotify.com/track/3SPcBPzvbmWLl8NU5efx4W"
+    },
+    {
+      "added_at": "2026-04-12 09:37:43",
+      "album": {
+        "name": "Breakfast In America (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna"
+      },
+      "artists": [
+        {
+          "name": "Supertramp",
+          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+        }
+      ],
+      "duration_ms": 159346,
+      "name": "Breakfast In America - Remastered 2010",
+      "url": "https://open.spotify.com/track/4a5pNRjwmzYQuEY1E7O6pj"
+    },
+    {
+      "added_at": "2026-04-12 09:37:44",
+      "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/7oGKY090fvrI6pgFW64kXS"
+      },
+      "artists": [
+        {
+          "name": "The Bangles",
+          "url": "https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC"
+        },
+        {
+          "name": "Susanna Hoffs",
+          "url": "https://open.spotify.com/artist/2Sc4ukCRllIu02LZfHF0RL"
+        }
+      ],
+      "duration_ms": 235666,
+      "name": "Eternal Flame",
+      "url": "https://open.spotify.com/track/793zMrBCSBOYgD7JhYB97f"
+    },
+    {
+      "added_at": "2026-04-12 09:37:45",
+      "album": {
+        "name": "Estaciones",
+        "url": "https://open.spotify.com/album/6cPmSd73dLyqLlaEMXQrOD"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "duration_ms": 154712,
+      "name": "Primavera, inicios",
+      "url": "https://open.spotify.com/track/4Bk5EyqZxsGan2xPM7YTCU"
+    },
+    {
+      "added_at": "2026-04-12 09:37:46",
+      "album": {
+        "name": "Estaciones",
+        "url": "https://open.spotify.com/album/6cPmSd73dLyqLlaEMXQrOD"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "duration_ms": 157173,
+      "name": "Primavera, caminos",
+      "url": "https://open.spotify.com/track/67OVoUs6ewxgdIGXtCccZa"
+    },
+    {
+      "added_at": "2026-04-12 09:37:46",
+      "album": {
+        "name": "Estaciones",
+        "url": "https://open.spotify.com/album/6cPmSd73dLyqLlaEMXQrOD"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "duration_ms": 217537,
+      "name": "Verano, de amor",
+      "url": "https://open.spotify.com/track/0TNEXtbNpnefhXoC8vfb6u"
+    },
+    {
+      "added_at": "2026-04-12 09:37:47",
+      "album": {
+        "name": "Estaciones",
+        "url": "https://open.spotify.com/album/6cPmSd73dLyqLlaEMXQrOD"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "duration_ms": 147391,
+      "name": "Verano, en sus brazos",
+      "url": "https://open.spotify.com/track/5jif0s1bKKO0ywH5EFuYJs"
+    },
+    {
+      "added_at": "2026-04-12 09:37:48",
+      "album": {
+        "name": "Estaciones",
+        "url": "https://open.spotify.com/album/6cPmSd73dLyqLlaEMXQrOD"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "duration_ms": 171377,
+      "name": "Oto\u00f1o, es amar",
+      "url": "https://open.spotify.com/track/0bwgr1fL5eBnU8vdsTupeJ"
+    },
+    {
+      "added_at": "2026-04-12 09:37:48",
+      "album": {
+        "name": "Estaciones",
+        "url": "https://open.spotify.com/album/6cPmSd73dLyqLlaEMXQrOD"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "duration_ms": 164518,
+      "name": "Oto\u00f1o, conocer",
+      "url": "https://open.spotify.com/track/1nAsX7zYddGMyOdgLzASRN"
+    },
+    {
+      "added_at": "2026-04-12 09:37:49",
+      "album": {
+        "name": "Estaciones",
+        "url": "https://open.spotify.com/album/6cPmSd73dLyqLlaEMXQrOD"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "duration_ms": 163413,
+      "name": "Invierno, recordar",
+      "url": "https://open.spotify.com/track/7vr3JUqR1ePVTunGlEShPs"
+    },
+    {
+      "added_at": "2026-04-12 09:37:50",
+      "album": {
+        "name": "Estaciones",
+        "url": "https://open.spotify.com/album/6cPmSd73dLyqLlaEMXQrOD"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "duration_ms": 150617,
+      "name": "Invierno, tenue luz",
+      "url": "https://open.spotify.com/track/74E2et14iIdFgTRCY9kDPx"
+    },
+    {
+      "added_at": "2026-04-12 09:37:58",
+      "album": {
+        "name": "Futuro de ayer",
+        "url": "https://open.spotify.com/album/7lUdUvmdDdK2mdysOuo5xn"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "duration_ms": 171874,
+      "name": "En Tus Cielos",
+      "url": "https://open.spotify.com/track/1Ies21hb3kKKryivvG9Twy"
+    },
+    {
+      "added_at": "2026-04-12 09:38:01",
+      "album": {
+        "name": "Futuro de ayer",
+        "url": "https://open.spotify.com/album/7lUdUvmdDdK2mdysOuo5xn"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "duration_ms": 184706,
+      "name": "Mil Flores",
+      "url": "https://open.spotify.com/track/2rBIXntuy2GF2Q1CeQlPlf"
+    },
+    {
+      "added_at": "2026-04-12 09:38:03",
+      "album": {
+        "name": "Futuro de ayer",
+        "url": "https://open.spotify.com/album/7lUdUvmdDdK2mdysOuo5xn"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "duration_ms": 200362,
+      "name": "Nuestro Amor",
+      "url": "https://open.spotify.com/track/4Abd2UraYIqNWFNzNcYHuK"
+    },
+    {
+      "added_at": "2026-04-12 09:38:03",
+      "album": {
+        "name": "Futuro de ayer",
+        "url": "https://open.spotify.com/album/7lUdUvmdDdK2mdysOuo5xn"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "duration_ms": 217044,
+      "name": "Te Sue\u00f1o",
+      "url": "https://open.spotify.com/track/6DD4JYO7BurM1tZr1ddpuD"
+    },
+    {
+      "added_at": "2026-04-12 09:38:19",
+      "album": {
+        "name": "ARIRANG",
+        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 159007,
+      "name": "SWIM",
+      "url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712"
+    },
+    {
+      "added_at": "2026-04-12 09:38:22",
+      "album": {
+        "name": "ARIRANG",
+        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 181649,
+      "name": "NORMAL",
+      "url": "https://open.spotify.com/track/4B4Q7zfd0aHcuhQBfCRnH5"
+    },
+    {
+      "added_at": "2026-04-12 09:38:23",
+      "album": {
+        "name": "ARIRANG",
+        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 229855,
+      "name": "Merry Go Round",
+      "url": "https://open.spotify.com/track/3VegC0PZiHjGxb80DER8XU"
+    },
+    {
+      "added_at": "2026-04-12 09:38:24",
+      "album": {
+        "name": "ARIRANG",
+        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 98453,
+      "name": "No. 29",
+      "url": "https://open.spotify.com/track/3plyGpDgzfrnZbpElpfioV"
+    },
+    {
+      "added_at": "2026-04-12 09:38:24",
+      "album": {
+        "name": "ARIRANG",
+        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 169929,
+      "name": "2.0",
+      "url": "https://open.spotify.com/track/3bmpXHVie1GTy37OkXJ7Vc"
+    },
+    {
+      "added_at": "2026-04-12 09:38:24",
+      "album": {
+        "name": "ARIRANG",
+        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 167751,
+      "name": "Aliens",
+      "url": "https://open.spotify.com/track/5tg21NdePCn5m8F9BXOEeJ"
+    },
+    {
+      "added_at": "2026-04-12 09:38:25",
+      "album": {
+        "name": "ARIRANG",
+        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 182046,
+      "name": "Hooligan",
+      "url": "https://open.spotify.com/track/20dAJsyno9ZoBLJtqgQnUI"
+    },
+    {
+      "added_at": "2026-04-12 09:38:25",
+      "album": {
+        "name": "ARIRANG",
+        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 189725,
+      "name": "Body to Body",
+      "url": "https://open.spotify.com/track/2rKkfc4VZ74FQDc1FF1Zo6"
+    },
+    {
+      "added_at": "2026-04-12 09:38:26",
+      "album": {
+        "name": "ARIRANG",
+        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 180543,
+      "name": "FYA",
+      "url": "https://open.spotify.com/track/0KmrKOdScRDVYwWS8hkkdv"
+    },
+    {
+      "added_at": "2026-04-12 09:38:28",
+      "album": {
+        "name": "ARIRANG",
+        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 167589,
+      "name": "One More Night",
+      "url": "https://open.spotify.com/track/6s3w7SUVtmm68Bw5KrKMh0"
+    },
+    {
+      "added_at": "2026-04-12 09:38:29",
+      "album": {
+        "name": "ARIRANG",
+        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 164241,
+      "name": "they don\u2019t know \u2019bout us",
+      "url": "https://open.spotify.com/track/0b61A7v9agI08BG21jJPQ9"
+    },
+    {
+      "added_at": "2026-04-12 09:38:29",
+      "album": {
+        "name": "ARIRANG",
+        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 189746,
+      "name": "Like Animals",
+      "url": "https://open.spotify.com/track/2IFND3phjzIG1RcPnHh2hP"
+    },
+    {
+      "added_at": "2026-04-12 09:38:38",
+      "album": {
+        "name": "Distancias",
+        "url": "https://open.spotify.com/album/0f6YPVRdJql2lBmpkqxxRz"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "duration_ms": 135038,
+      "name": "Con una canci\u00f3n",
+      "url": "https://open.spotify.com/track/4Mae7fvEGHqnXpDL3LVOAr"
+    },
+    {
+      "added_at": "2026-04-12 09:38:41",
+      "album": {
+        "name": "Distancias",
+        "url": "https://open.spotify.com/album/0f6YPVRdJql2lBmpkqxxRz"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "duration_ms": 242474,
+      "name": "Madera y cart\u00f3n",
+      "url": "https://open.spotify.com/track/1QQRPLYdGLqvpbgnmDQpQj"
+    },
+    {
+      "added_at": "2026-04-12 09:38:43",
+      "album": {
+        "name": "Distancias",
+        "url": "https://open.spotify.com/album/0f6YPVRdJql2lBmpkqxxRz"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "duration_ms": 132201,
+      "name": "Algo de ti",
+      "url": "https://open.spotify.com/track/7D4xdHkAQXcI3DhVE2fwjR"
+    },
+    {
+      "added_at": "2026-04-12 09:38:43",
+      "album": {
+        "name": "Distancias",
+        "url": "https://open.spotify.com/album/0f6YPVRdJql2lBmpkqxxRz"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "duration_ms": 186269,
+      "name": "Flor de invierno",
+      "url": "https://open.spotify.com/track/1SiM61PihSYyAkj6aGp7cD"
+    },
+    {
+      "added_at": "2026-04-12 09:38:43",
+      "album": {
+        "name": "Distancias",
+        "url": "https://open.spotify.com/album/0f6YPVRdJql2lBmpkqxxRz"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "duration_ms": 157150,
+      "name": "Saludo al alba",
+      "url": "https://open.spotify.com/track/0jXuy9gEWRfT15k8mPckHz"
+    },
+    {
+      "added_at": "2026-04-12 09:38:43",
+      "album": {
+        "name": "Distancias",
+        "url": "https://open.spotify.com/album/0f6YPVRdJql2lBmpkqxxRz"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "duration_ms": 188541,
+      "name": "Brisa de ma\u00f1ana",
+      "url": "https://open.spotify.com/track/5bG2E3rHNSzSS4IXBbCkvt"
+    },
+    {
+      "added_at": "2026-04-12 09:38:43",
+      "album": {
+        "name": "Distancias",
+        "url": "https://open.spotify.com/album/0f6YPVRdJql2lBmpkqxxRz"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "duration_ms": 164375,
+      "name": "Dices",
+      "url": "https://open.spotify.com/track/0nXutinLEwCNvqkS2vPHbT"
+    },
+    {
+      "added_at": "2026-04-12 09:38:44",
+      "album": {
+        "name": "Distancias",
+        "url": "https://open.spotify.com/album/0f6YPVRdJql2lBmpkqxxRz"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "duration_ms": 161501,
+      "name": "Son latidos",
+      "url": "https://open.spotify.com/track/5VOSgEmunAUim5YrSTvOqE"
+    },
+    {
+      "added_at": "2026-04-12 09:38:45",
+      "album": {
+        "name": "ARIRANG",
+        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 227660,
+      "name": "Into the Sun",
+      "url": "https://open.spotify.com/track/1ZNolq7VI7efGlh2hb2VVr"
+    },
+    {
+      "added_at": "2026-04-12 09:38:46",
+      "album": {
+        "name": "ARIRANG",
+        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 172796,
+      "name": "Please",
+      "url": "https://open.spotify.com/track/1XpVhaI4HzWrhRWIpdfyJB"
+    },
+    {
+      "added_at": "2026-04-12 09:38:51",
+      "album": {
+        "name": "Nordic Roots - Chapter III: Main Character",
+        "url": "https://open.spotify.com/album/0LqRGf6Pyb898gHQ8TIQcx"
+      },
+      "artists": [
+        {
+          "name": "Oscat!",
+          "url": "https://open.spotify.com/artist/7gLeWgrrsswx6MYFL4c3SA"
+        }
+      ],
+      "duration_ms": 278069,
+      "name": "Silhouettes",
+      "url": "https://open.spotify.com/track/7MphGJC5h8kl34V4Nj4aKs"
+    },
+    {
+      "added_at": "2026-04-12 09:38:52",
+      "album": {
+        "name": "Sorrow's Chaos",
+        "url": "https://open.spotify.com/album/0KcbqEHE98ytgmmKDHe1Cv"
+      },
+      "artists": [
+        {
+          "name": "Chorda Chemist",
+          "url": "https://open.spotify.com/artist/1K4sZpe4ScJgWssx5Oms6W"
+        }
+      ],
+      "duration_ms": 360591,
+      "name": "Sorrow's Chaos",
+      "url": "https://open.spotify.com/track/2Eeye1yQXlgzihjZ9MP1sp"
+    },
+    {
+      "added_at": "2026-04-12 09:38:52",
+      "album": {
+        "name": "Main Character",
+        "url": "https://open.spotify.com/album/3VzIA4A5teHDVVjxdu5My8"
+      },
+      "artists": [
+        {
+          "name": "Oscat!",
+          "url": "https://open.spotify.com/artist/7gLeWgrrsswx6MYFL4c3SA"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "Main Character",
+      "url": "https://open.spotify.com/track/0mYJh4pla4cc6U78XeJXvl"
+    },
+    {
+      "added_at": "2026-04-12 09:38:53",
+      "album": {
+        "name": "Moishes",
+        "url": "https://open.spotify.com/album/1LDwMLs9WUbONPOGFKUTOw"
+      },
+      "artists": [
+        {
+          "name": "Monty Gobay",
+          "url": "https://open.spotify.com/artist/2wPIqzvO5YhvmaBnfngx3u"
+        },
+        {
+          "name": "Bigjohnny",
+          "url": "https://open.spotify.com/artist/6HlHrrhPRn6XWmGHioDVj8"
+        }
+      ],
+      "duration_ms": 291000,
+      "name": "Moishes",
+      "url": "https://open.spotify.com/track/2OdSd6ycbqqPz8aszFwX2l"
+    },
+    {
+      "added_at": "2026-04-12 09:38:53",
+      "album": {
+        "name": "The Undiscovered in the Sky",
+        "url": "https://open.spotify.com/album/3mhbrkngcDcWvnO9KhQ5Kt"
+      },
+      "artists": [
+        {
+          "name": "Domenico Rizzuto",
+          "url": "https://open.spotify.com/artist/6W70Z41aY21isNN41N2UfI"
+        }
+      ],
+      "duration_ms": 242855,
+      "name": "Super Puff",
+      "url": "https://open.spotify.com/track/7oi6Qf3nVApypnrfq6Hupx"
+    },
+    {
+      "added_at": "2026-04-12 09:38:53",
+      "album": {
+        "name": "Rituals",
+        "url": "https://open.spotify.com/album/790fxRQeupN9YpHLNiWYiK"
+      },
+      "artists": [
+        {
+          "name": "Ashanti Selah",
+          "url": "https://open.spotify.com/artist/1IdpvTfGDPshOD7PaYPAkS"
+        },
+        {
+          "name": "Oscat!",
+          "url": "https://open.spotify.com/artist/7gLeWgrrsswx6MYFL4c3SA"
+        }
+      ],
+      "duration_ms": 312000,
+      "name": "Rituals",
+      "url": "https://open.spotify.com/track/22jnSqBJ5fxftDizxD4sid"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

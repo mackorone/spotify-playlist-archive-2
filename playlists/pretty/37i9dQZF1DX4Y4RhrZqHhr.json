@@ -1,6 +1,6 @@
 {
   "description": "The ocean, the sun, your friends, the music.",
-  "num_followers": 1280164,
+  "num_followers": 1280838,
   "original_name": "Beach Party",
   "owner": {
     "name": "Spotify",
@@ -247,6 +247,26 @@
     {
       "added_at": "2026-04-06 14:59:52",
       "album": {
+        "name": "Talk To You",
+        "url": "https://open.spotify.com/album/374Z5kI6lNCztQV7HItzUJ"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "54 Ultra",
+          "url": "https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ"
+        }
+      ],
+      "duration_ms": 191076,
+      "name": "Talk To You",
+      "url": "https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v"
+    },
+    {
+      "added_at": "2026-04-06 14:59:52",
+      "album": {
         "name": "$ome $exy $ongs 4 U",
         "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
       },
@@ -271,22 +291,22 @@
     {
       "added_at": "2026-04-06 14:59:52",
       "album": {
-        "name": "Talk To You",
-        "url": "https://open.spotify.com/album/374Z5kI6lNCztQV7HItzUJ"
+        "name": "Future Nostalgia",
+        "url": "https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9"
       },
       "artists": [
         {
-          "name": "ANOTR",
-          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         },
         {
-          "name": "54 Ultra",
-          "url": "https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ"
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
         }
       ],
-      "duration_ms": 191076,
-      "name": "Talk To You",
-      "url": "https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v"
+      "duration_ms": 203064,
+      "name": "Levitating (feat. DaBaby)",
+      "url": "https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF"
     },
     {
       "added_at": "2026-04-06 14:59:52",
@@ -311,26 +331,6 @@
       "duration_ms": 253390,
       "name": "I Like It",
       "url": "https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z"
-    },
-    {
-      "added_at": "2026-04-06 14:59:52",
-      "album": {
-        "name": "Future Nostalgia",
-        "url": "https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 203064,
-      "name": "Levitating (feat. DaBaby)",
-      "url": "https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF"
     },
     {
       "added_at": "2026-04-06 14:59:52",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-04-06 14:59:52",
       "album": {
-        "name": "Loud",
-        "url": "https://open.spotify.com/album/7vN82vd1Vq44fjlhjfvHJp"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 235493,
-      "name": "Only Girl (In The World)",
-      "url": "https://open.spotify.com/track/0AH6WMe3OlAlUb5miXt2FQ"
-    },
-    {
-      "added_at": "2026-04-06 14:59:52",
-      "album": {
         "name": "Head & Heart (feat. MNEK)",
         "url": "https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 166028,
       "name": "Head & Heart (feat. MNEK)",
       "url": "https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9"
+    },
+    {
+      "added_at": "2026-04-06 14:59:52",
+      "album": {
+        "name": "Loud",
+        "url": "https://open.spotify.com/album/7vN82vd1Vq44fjlhjfvHJp"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 235493,
+      "name": "Only Girl (In The World)",
+      "url": "https://open.spotify.com/track/0AH6WMe3OlAlUb5miXt2FQ"
     },
     {
       "added_at": "2026-04-06 14:59:52",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2026-04-06 14:59:52",
       "album": {
-        "name": "No Money",
-        "url": "https://open.spotify.com/album/2f7kOrpFos0njurSOi2zqL"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 189126,
-      "name": "No Money",
-      "url": "https://open.spotify.com/track/0gb1J5UrTpzaU1s3nupgCd"
-    },
-    {
-      "added_at": "2026-04-06 14:59:52",
-      "album": {
         "name": "TAKE IT OFF",
         "url": "https://open.spotify.com/album/29p3XedLUbGNxK7aje4WPW"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 194604,
       "name": "TAKE IT OFF",
       "url": "https://open.spotify.com/track/7zp9FOU4cjFdGN1zdWTvcB"
+    },
+    {
+      "added_at": "2026-04-06 14:59:52",
+      "album": {
+        "name": "No Money",
+        "url": "https://open.spotify.com/album/2f7kOrpFos0njurSOi2zqL"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 189126,
+      "name": "No Money",
+      "url": "https://open.spotify.com/track/0gb1J5UrTpzaU1s3nupgCd"
     },
     {
       "added_at": "2026-04-06 14:59:52",
@@ -2511,26 +2511,6 @@
     {
       "added_at": "2026-04-06 14:59:52",
       "album": {
-        "name": "Spirit Higher",
-        "url": "https://open.spotify.com/album/5FidC368bZdJWTqRomYvy9"
-      },
-      "artists": [
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        },
-        {
-          "name": "EMJIE",
-          "url": "https://open.spotify.com/artist/3RqdVnPEMwpv4EVX5J2lzh"
-        }
-      ],
-      "duration_ms": 216744,
-      "name": "Spirit Higher",
-      "url": "https://open.spotify.com/track/5V1DrLET6vnoeerGE6ON25"
-    },
-    {
-      "added_at": "2026-04-06 14:59:52",
-      "album": {
         "name": "Hypnotized",
         "url": "https://open.spotify.com/album/0MVj6wzcoWjzmgecQZAK5d"
       },
@@ -2567,6 +2547,26 @@
       "duration_ms": 139422,
       "name": "Body Talk",
       "url": "https://open.spotify.com/track/7nZUNopZZQX1PhfuvrXTWN"
+    },
+    {
+      "added_at": "2026-04-06 14:59:52",
+      "album": {
+        "name": "Spirit Higher",
+        "url": "https://open.spotify.com/album/5FidC368bZdJWTqRomYvy9"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "EMJIE",
+          "url": "https://open.spotify.com/artist/3RqdVnPEMwpv4EVX5J2lzh"
+        }
+      ],
+      "duration_ms": 216744,
+      "name": "Spirit Higher",
+      "url": "https://open.spotify.com/track/5V1DrLET6vnoeerGE6ON25"
     },
     {
       "added_at": "2026-04-06 14:59:52",
@@ -2967,26 +2967,6 @@
     {
       "added_at": "2026-04-06 14:59:52",
       "album": {
-        "name": "My Love",
-        "url": "https://open.spotify.com/album/4qugvZbeFLghKN67aQ6PAb"
-      },
-      "artists": [
-        {
-          "name": "Route 94",
-          "url": "https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6"
-        },
-        {
-          "name": "Jess Glynne",
-          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "My Love",
-      "url": "https://open.spotify.com/track/0idc0XRnLRovVqpWnGQ6hC"
-    },
-    {
-      "added_at": "2026-04-06 14:59:52",
-      "album": {
         "name": "Ain't Nobody (Loves Me Better)",
         "url": "https://open.spotify.com/album/3beitV4REkUMQn4BXZlD8F"
       },
@@ -3003,6 +2983,26 @@
       "duration_ms": 186146,
       "name": "Ain't Nobody (Loves Me Better)",
       "url": "https://open.spotify.com/track/5afHIkEcVhCF1Z1CTqMUXB"
+    },
+    {
+      "added_at": "2026-04-06 14:59:52",
+      "album": {
+        "name": "My Love",
+        "url": "https://open.spotify.com/album/4qugvZbeFLghKN67aQ6PAb"
+      },
+      "artists": [
+        {
+          "name": "Route 94",
+          "url": "https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6"
+        },
+        {
+          "name": "Jess Glynne",
+          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/0idc0XRnLRovVqpWnGQ6hC"
     },
     {
       "added_at": "2026-04-06 14:59:52",
@@ -3027,22 +3027,6 @@
     {
       "added_at": "2026-04-06 14:59:52",
       "album": {
-        "name": "Are You With Me",
-        "url": "https://open.spotify.com/album/2Kbo8nu3JuyamYBZoO5ltG"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        }
-      ],
-      "duration_ms": 138842,
-      "name": "Are You With Me - Radio Edit",
-      "url": "https://open.spotify.com/track/477daPpd3DnneaHhvjM35l"
-    },
-    {
-      "added_at": "2026-04-06 14:59:52",
-      "album": {
         "name": "SNAP PACK",
         "url": "https://open.spotify.com/album/3CVEB0FPk25Ds64ALgxjH7"
       },
@@ -3059,6 +3043,22 @@
       "duration_ms": 148023,
       "name": "SNAP - Luca Schreiner Remix",
       "url": "https://open.spotify.com/track/4JGFQyEJXDLtB3kOL3M1F3"
+    },
+    {
+      "added_at": "2026-04-06 14:59:52",
+      "album": {
+        "name": "Are You With Me",
+        "url": "https://open.spotify.com/album/2Kbo8nu3JuyamYBZoO5ltG"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        }
+      ],
+      "duration_ms": 138842,
+      "name": "Are You With Me - Radio Edit",
+      "url": "https://open.spotify.com/track/477daPpd3DnneaHhvjM35l"
     },
     {
       "added_at": "2026-04-06 14:59:52",

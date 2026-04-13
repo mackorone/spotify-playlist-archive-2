@@ -1,12 +1,12 @@
 {
   "description": "This is Lola Indigo. The essential tracks, all in one playlist.",
-  "num_followers": 47501,
+  "num_followers": 47503,
   "original_name": "This Is Lola Indigo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adg9gAAAAABXqFFDVHDwQWx7VcnIgeHv",
+  "snapshot_id": "admPAAAAAAAFZfBI75bAJlOtPi7CtpwE",
   "tracks": [
     {
       "added_at": null,
@@ -667,26 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Akelarre",
-        "url": "https://open.spotify.com/album/5OcwnNamdhVLQTcpXS2bK9"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        },
-        {
-          "name": "Mala Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ"
-        }
-      ],
-      "duration_ms": 202933,
-      "name": "Mujer Bruja",
-      "url": "https://open.spotify.com/track/2o2PFz6MLkKXVDYlzDAVH7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KOMBOLEWA (Remix)",
         "url": "https://open.spotify.com/album/5CYQvAzeyM6VYqBINgo5ST"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 171469,
       "name": "KOMBOLEWA - Remix",
       "url": "https://open.spotify.com/track/1mLTFke4DR2dwAkDORrrvq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Akelarre",
+        "url": "https://open.spotify.com/album/5OcwnNamdhVLQTcpXS2bK9"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "Mala Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ"
+        }
+      ],
+      "duration_ms": 202933,
+      "name": "Mujer Bruja",
+      "url": "https://open.spotify.com/track/2o2PFz6MLkKXVDYlzDAVH7"
     },
     {
       "added_at": null,
@@ -915,26 +915,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/7nK63wcJerItmaCuQjcVNm"
-      },
-      "artists": [
-        {
-          "name": "\u00c1lvaro De Luna",
-          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
-        },
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "duration_ms": 199747,
-      "name": "Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/0WiTdooUusNY56jyeToaVA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GRX",
         "url": "https://open.spotify.com/album/2ORVtNDtwoBtJ1uTzRJogx"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 144424,
       "name": "YO TENGO UN NOVIO",
       "url": "https://open.spotify.com/track/6sS6ZaxqVAWIBJpMGU3OdX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/7nK63wcJerItmaCuQjcVNm"
+      },
+      "artists": [
+        {
+          "name": "\u00c1lvaro De Luna",
+          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
+        },
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "duration_ms": 199747,
+      "name": "Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/0WiTdooUusNY56jyeToaVA"
     },
     {
       "added_at": null,

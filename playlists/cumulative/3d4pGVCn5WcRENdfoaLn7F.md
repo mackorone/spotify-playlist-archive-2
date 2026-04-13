@@ -4,7 +4,7 @@
 
 > These are some independent alternative rock bands you need to hear.
 
-304 songs - 18 hr 29 min
+305 songs - 18 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [Just A Good Time 80s Jam](https://open.spotify.com/track/3Ytv0HiQSQKrPg0JL1ql22) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [Just A Good Time 80s Jam](https://open.spotify.com/album/7dcLwSUHVmHRhwBZUz3XSq) | 2:34 | 2026-01-11 |  |
 | [Just Another Dying Hero](https://open.spotify.com/track/6MJZL9jgx23emQ5lzhwBEz) | [The Galacticas](https://open.spotify.com/artist/3OqM9wx94VLVevksMclrGI) | [Planned Obsolescence](https://open.spotify.com/album/4DOu5lRGwahVpAoUewAFN2) | 4:10 | 2025-10-29 |  |
 | [Just Another Sad Song](https://open.spotify.com/track/7eMcspFMi1l8kXq2N62LeB) | [Reggie Gray](https://open.spotify.com/artist/1n74ONSmpTNu4WYwMGxKHh) | [Just Another Sad Song](https://open.spotify.com/album/5t97pW7wlKjSwhVlKjWL7I) | 2:59 | 2025-11-04 | 2025-12-06 |
+| [Just Let It Go](https://open.spotify.com/track/5lPn1Gsaqo8NO3NpFGgwqJ) | [FLÒRALYN](https://open.spotify.com/artist/2LcgkfAzVOD0qeVCgDAqmy) | [Just Let It Go](https://open.spotify.com/album/50TsgNRCRfPWhO8dy9YERH) | 3:13 | 2026-04-12 |  |
 | [Keepin' Up With the Jones'](https://open.spotify.com/track/3JgWObXAw1zHF2pnHBUXQL) | [Chuck Spadina](https://open.spotify.com/artist/3JGftPKgc3DsRWALOswF6N) | [Keepin' Up With the Jones'](https://open.spotify.com/album/1p4WSE2jN9qZSRKgdsOMZi) | 2:34 | 2026-03-23 |  |
 | [knocked \-down/\-out](https://open.spotify.com/track/11PesUdCoyNUXCJWiijURC) | [KXENIA](https://open.spotify.com/artist/4xGnce5EXkdJNeOxaZeYTL) | [knocked \-down/\-out](https://open.spotify.com/album/1e1LTHlMdwv0v8figkkxR5) | 4:16 | 2026-02-07 | 2026-03-05 |
 | [L.E.S\. ARTISTES](https://open.spotify.com/track/4YuCXMNgPp74jBGRzMV8Ft) | [Punkest](https://open.spotify.com/artist/4qMFkTNAstjymMOMegqOKP) | [L.E.S\. ARTISTES](https://open.spotify.com/album/4tbYNLtvOm8S23x3iakVl6) | 3:47 | 2026-03-31 |  |

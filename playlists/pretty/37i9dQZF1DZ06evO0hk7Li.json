@@ -1,12 +1,12 @@
 {
   "description": "This is Jacob Banks. The essential tracks, all in one playlist.",
-  "num_followers": 40245,
+  "num_followers": 40243,
   "original_name": "This Is Jacob Banks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adg9gAAAAAB4n2AULGmUz77y7nHtC/el",
+  "snapshot_id": "admPAAAAAADhcp3gD7ESgDx01sfpVSJm",
   "tracks": [
     {
       "added_at": null,
@@ -575,6 +575,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Limerence",
+        "url": "https://open.spotify.com/album/2M9nuz1rCUiuVYdA25of8F"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 76840,
+      "name": "Moon",
+      "url": "https://open.spotify.com/track/7iSmDEMNccANybhTUR1YzK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Boy Who Cried Freedom",
         "url": "https://open.spotify.com/album/6agNoT5WXMENsbQvhxGEws"
       },
@@ -587,26 +603,6 @@
       "duration_ms": 191432,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/1ohlbpNCsuqstbqsezNdUI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love Me",
-        "url": "https://open.spotify.com/album/2LQHSnhq9Da9qOVG4tAFQA"
-      },
-      "artists": [
-        {
-          "name": "WiDE AWAKE",
-          "url": "https://open.spotify.com/artist/7bKJsFgjE6XoO5fDhTCCqX"
-        },
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Love Me",
-      "url": "https://open.spotify.com/track/6OkP1t5se0cYZTfnNE5gC4"
     },
     {
       "added_at": null,
@@ -639,6 +635,42 @@
       "duration_ms": 197701,
       "name": "Worthy",
       "url": "https://open.spotify.com/track/1CZbcH7PL9aa5x6FCAtUKT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Limerence",
+        "url": "https://open.spotify.com/album/2M9nuz1rCUiuVYdA25of8F"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 235714,
+      "name": "In The End",
+      "url": "https://open.spotify.com/track/2nRYqxhoFrPRJve5h0UMa0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/2LQHSnhq9Da9qOVG4tAFQA"
+      },
+      "artists": [
+        {
+          "name": "WiDE AWAKE",
+          "url": "https://open.spotify.com/artist/7bKJsFgjE6XoO5fDhTCCqX"
+        },
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/6OkP1t5se0cYZTfnNE5gC4"
     },
     {
       "added_at": null,
@@ -683,6 +715,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Limerence",
+        "url": "https://open.spotify.com/album/2M9nuz1rCUiuVYdA25of8F"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 56206,
+      "name": "Paris (Interlude)",
+      "url": "https://open.spotify.com/track/5IGgGCX3RegkeEAgNvNQAr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Village",
         "url": "https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9"
       },
@@ -690,15 +738,11 @@
         {
           "name": "Jacob Banks",
           "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        },
-        {
-          "name": "Seinabo Sey",
-          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
         }
       ],
-      "duration_ms": 250826,
-      "name": "Be Good To Me (feat. Seinabo Sey)",
-      "url": "https://open.spotify.com/track/7juealXfkel1kLInjvY4W8"
+      "duration_ms": 220906,
+      "name": "Mexico",
+      "url": "https://open.spotify.com/track/6sL9r9439ijWhZhtLHFBbm"
     },
     {
       "added_at": null,
@@ -735,22 +779,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Creed II (Score & Music from the Original Motion Picture)",
-        "url": "https://open.spotify.com/album/4VODNHZZp8qxuMLJQK2G4u"
+        "name": "Limerence",
+        "url": "https://open.spotify.com/album/2M9nuz1rCUiuVYdA25of8F"
       },
       "artists": [
-        {
-          "name": "Ludwig G\u00f6ransson",
-          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
-        },
         {
           "name": "Jacob Banks",
           "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
         }
       ],
-      "duration_ms": 147360,
-      "name": "You Might Find Me (From \"Creed II\" Soundtrack)",
-      "url": "https://open.spotify.com/track/0QTOw32h1G2LD8EFExxedV"
+      "duration_ms": 196025,
+      "name": "My Day Will Come",
+      "url": "https://open.spotify.com/track/4gbi2i68cvI8zPDGczoBro"
     },
     {
       "added_at": null,
@@ -762,11 +802,15 @@
         {
           "name": "Jacob Banks",
           "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        },
+        {
+          "name": "Seinabo Sey",
+          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
         }
       ],
-      "duration_ms": 220906,
-      "name": "Mexico",
-      "url": "https://open.spotify.com/track/6sL9r9439ijWhZhtLHFBbm"
+      "duration_ms": 250826,
+      "name": "Be Good To Me (feat. Seinabo Sey)",
+      "url": "https://open.spotify.com/track/7juealXfkel1kLInjvY4W8"
     },
     {
       "added_at": null,
@@ -791,6 +835,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Creed II (Score & Music from the Original Motion Picture)",
+        "url": "https://open.spotify.com/album/4VODNHZZp8qxuMLJQK2G4u"
+      },
+      "artists": [
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        },
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 147360,
+      "name": "You Might Find Me (From \"Creed II\" Soundtrack)",
+      "url": "https://open.spotify.com/track/0QTOw32h1G2LD8EFExxedV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Limerence",
+        "url": "https://open.spotify.com/album/2M9nuz1rCUiuVYdA25of8F"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 172377,
+      "name": "Losing Game",
+      "url": "https://open.spotify.com/track/2jCdu3IUpkc7k7G0e7EdJI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Paradox",
         "url": "https://open.spotify.com/album/32cDtKd8eH2F74ChwdiWaT"
       },
@@ -807,22 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Limerence",
-        "url": "https://open.spotify.com/album/2M9nuz1rCUiuVYdA25of8F"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 76840,
-      "name": "Moon",
-      "url": "https://open.spotify.com/track/7iSmDEMNccANybhTUR1YzK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Monologue",
         "url": "https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj"
       },
@@ -835,78 +899,6 @@
       "duration_ms": 294227,
       "name": "Dear Simone",
       "url": "https://open.spotify.com/track/1SaHqUS2eNW507xDzTooPq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Miles",
-        "url": "https://open.spotify.com/album/5NTwzn0gyfspqs0CgRXAnK"
-      },
-      "artists": [
-        {
-          "name": "Gatton",
-          "url": "https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE"
-        },
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 155624,
-      "name": "Miles",
-      "url": "https://open.spotify.com/track/4eI0cTeYray8jcBxlFjl2z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All The Flowers Have Bloomed",
-        "url": "https://open.spotify.com/album/1GzZOyOEu5fepoX5rySrdO"
-      },
-      "artists": [
-        {
-          "name": "Kofi Stone",
-          "url": "https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ"
-        },
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 383880,
-      "name": "Thorns",
-      "url": "https://open.spotify.com/track/2y3mVK20NpiMwMeADn38we"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Limerence",
-        "url": "https://open.spotify.com/album/2M9nuz1rCUiuVYdA25of8F"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 235714,
-      "name": "In The End",
-      "url": "https://open.spotify.com/track/2nRYqxhoFrPRJve5h0UMa0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lies About The War",
-        "url": "https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 191613,
-      "name": "Parachute",
-      "url": "https://open.spotify.com/track/1zDC7bs9jmXzBReD5JvpHn"
     }
   ],
   "unique_name": "This Is Jacob Banks",

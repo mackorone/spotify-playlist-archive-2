@@ -1,12 +1,12 @@
 {
   "description": "This is Akon. The essential tracks, all in one playlist.",
-  "num_followers": 338761,
+  "num_followers": 338809,
   "original_name": "This Is Akon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adg9gAAAAADWoMTvJXd8YP1DVO1aYAyH",
+  "snapshot_id": "admPAAAAAABVZ1sazpxF082xriMHdU8Q",
   "tracks": [
     {
       "added_at": null,
@@ -159,26 +159,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Not 4 Sale",
-        "url": "https://open.spotify.com/album/4mvT7q9PuuBWZcVyUnZP8e"
-      },
-      "artists": [
-        {
-          "name": "Kardinal Offishall",
-          "url": "https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 246053,
-      "name": "Dangerous",
-      "url": "https://open.spotify.com/track/4NOZ35Dhucr6UlVyLOtktd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Sweet Escape",
         "url": "https://open.spotify.com/album/7xnZ539lh8x6de9jzlpCJp"
       },
@@ -195,6 +175,26 @@
       "duration_ms": 246466,
       "name": "The Sweet Escape",
       "url": "https://open.spotify.com/track/66ZcOcouenzZEnzTJvoFmH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Not 4 Sale",
+        "url": "https://open.spotify.com/album/4mvT7q9PuuBWZcVyUnZP8e"
+      },
+      "artists": [
+        {
+          "name": "Kardinal Offishall",
+          "url": "https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 246053,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/4NOZ35Dhucr6UlVyLOtktd"
     },
     {
       "added_at": null,
@@ -891,26 +891,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ghetto Story",
-        "url": "https://open.spotify.com/album/66QH23u1I6L6g5BFRRDqNa"
-      },
-      "artists": [
-        {
-          "name": "Cham",
-          "url": "https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 262933,
-      "name": "Ghetto Story Chapter 3 (feat. Akon)",
-      "url": "https://open.spotify.com/track/10MKqZA8S3kvSrYsqbM4r6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sugar",
         "url": "https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt"
       },
@@ -927,6 +907,26 @@
       "duration_ms": 187126,
       "name": "Heatwave (feat. Akon)",
       "url": "https://open.spotify.com/track/2KMJ5CoxY4ECG9TZyNWmpv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ghetto Story",
+        "url": "https://open.spotify.com/album/66QH23u1I6L6g5BFRRDqNa"
+      },
+      "artists": [
+        {
+          "name": "Cham",
+          "url": "https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 262933,
+      "name": "Ghetto Story Chapter 3 (feat. Akon)",
+      "url": "https://open.spotify.com/track/10MKqZA8S3kvSrYsqbM4r6"
     },
     {
       "added_at": null,

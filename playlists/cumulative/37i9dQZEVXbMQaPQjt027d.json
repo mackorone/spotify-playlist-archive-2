@@ -1488,7 +1488,7 @@
       ],
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 97960,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
@@ -1814,7 +1814,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 146086,
       "name": "Bare Minimum (Starboy)",
       "url": "https://open.spotify.com/track/6GhAQffyGx6IgDejJQC4yR"
@@ -5050,7 +5050,7 @@
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 275102,
       "name": "Doomed",
       "url": "https://open.spotify.com/track/5OF346xZ66VhwC9YGyT5bC"
@@ -5126,7 +5126,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 209720,
       "name": "Dracula - JENNIE Remix",
       "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
@@ -11684,7 +11684,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 369863,
       "name": "Mata Zyklek",
       "url": "https://open.spotify.com/track/0gOaJ646z6OJv4lLDpjfDt"
@@ -11836,6 +11836,24 @@
       "duration_ms": 204842,
       "name": "Max Ammo",
       "url": "https://open.spotify.com/track/5uLGX83JDA0HpHOAbb07lq"
+    },
+    {
+      "album": {
+        "name": "MAYBE (UKG / SPEED GARAGE)",
+        "url": "https://open.spotify.com/album/6hKZcIC1Li3KO6BnTGQaqa"
+      },
+      "artists": [
+        {
+          "name": "SAiiLOR",
+          "url": "https://open.spotify.com/artist/5q7VoDTI2lyelmWLangje7"
+        }
+      ],
+      "date_added": "2026-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248307,
+      "name": "MAYBE - UKG / SPEED GARAGE",
+      "url": "https://open.spotify.com/track/3OTZPHuI58oQixbk6FojWE"
     },
     {
       "album": {
@@ -13942,7 +13960,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 281395,
       "name": "Opgestaan",
       "url": "https://open.spotify.com/track/0Hslqk75PufXsLxsn4MdDL"
@@ -15396,7 +15414,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/0WA27lZzPKFJKAbiDRmQDc"
@@ -15414,7 +15432,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-12",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"
@@ -20468,7 +20486,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 232367,
       "name": "Wicked With You",
       "url": "https://open.spotify.com/track/1NUrZluiGCRucIvcjiRMCM"

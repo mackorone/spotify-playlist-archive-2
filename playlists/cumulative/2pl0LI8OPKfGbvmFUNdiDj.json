@@ -3597,6 +3597,24 @@
     },
     {
       "album": {
+        "name": "Just Let It Go",
+        "url": "https://open.spotify.com/album/50TsgNRCRfPWhO8dy9YERH"
+      },
+      "artists": [
+        {
+          "name": "FL\u00d2RALYN",
+          "url": "https://open.spotify.com/artist/2LcgkfAzVOD0qeVCgDAqmy"
+        }
+      ],
+      "date_added": "2026-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193493,
+      "name": "Just Let It Go",
+      "url": "https://open.spotify.com/track/5lPn1Gsaqo8NO3NpFGgwqJ"
+    },
+    {
+      "album": {
         "name": "Kick It Up!",
         "url": "https://open.spotify.com/album/0WRK6ZmshiLHNN24ulWCqR"
       },

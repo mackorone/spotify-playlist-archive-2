@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7GbHglX84yopo1gvURMV0X">Lindy Cofer</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-64 songs - 7 hr 35 min
+65 songs - 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Christ and Christ Crucified \(Spontaneous\) \- Live](https://open.spotify.com/track/4saVVi6OV9f2MtwzxD055P) | [MBL Worship](https://open.spotify.com/artist/4cSbFSuaWRrMexs7ywOZgO), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I) | [MBL Moments 2](https://open.spotify.com/album/3698vZdjncbzQgIw0NTLJV) | 10:07 | 2025-10-28 |  |
 | [Christ And Christ Crucified \- Live](https://open.spotify.com/track/32adupKO13M1j6hWpysy0U) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [I Saw The Lord \(Live\)](https://open.spotify.com/album/7Hm28jY9rPa1xCX8vpvAYw) | 6:34 | 2024-06-13 |  |
 | [Christ Has Overcome \- Live](https://open.spotify.com/track/4LwFQtVz2ZTuHBuCD67ky0) | [Jesus Image](https://open.spotify.com/artist/47UT3dPXB5ttLBnyM76GQc) | [Christ Has Overcome \(Live\)](https://open.spotify.com/album/6yNrGP3SoOq7HSfAqIEXSb) | 9:49 | 2024-09-07 |  |
-| [Christ Our King](https://open.spotify.com/track/10GgQAdENR2sh5UHrqQodB) | [Jesus Image](https://open.spotify.com/artist/47UT3dPXB5ttLBnyM76GQc), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I) | [Christ Our King](https://open.spotify.com/album/3dpHJZgtP9FsDUvTPV0kUj) | 10:58 | 2026-02-22 |  |
+| [Christ Our King](https://open.spotify.com/track/10GgQAdENR2sh5UHrqQodB) | [Jesus Image](https://open.spotify.com/artist/47UT3dPXB5ttLBnyM76GQc), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I) | [Christ Our King](https://open.spotify.com/album/3dpHJZgtP9FsDUvTPV0kUj) | 10:58 | 2026-02-22 | 2026-04-13 |
+| [Christ Our King](https://open.spotify.com/track/5AsKZrWs61KLIiXRQNjXMm) | [Jesus Image](https://open.spotify.com/artist/47UT3dPXB5ttLBnyM76GQc), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I) | [Live From Jesus 25](https://open.spotify.com/album/6QeODIciFPteLBuXvddlbW) | 10:58 | 2026-04-12 |  |
 | [Driven by Love \(Live\)](https://open.spotify.com/track/0AxEYz0ycLJfFi5JsayApi) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D) | [Driven by Love \(Deluxe\) \[Live\]](https://open.spotify.com/album/1Zqg6J0ckWkzHXzRsx5Lip) | 5:05 | 2025-01-09 | 2025-04-12 |
 | [Empty Words](https://open.spotify.com/track/4UC5KqAFxGKLZWLI6YiCWm) | [Worship Center Music](https://open.spotify.com/artist/46df2ZIGYEvAR9fMn8lXWT) | [First Love \(Returning\. Communion\. Joy.\)](https://open.spotify.com/album/2vysXZJjiZZa4RXt12OhvU) | 6:08 | 2025-09-21 |  |
 | [Everything That Has Breath \(Praise\) \- Live](https://open.spotify.com/track/4VaFwW2mZqKymb7svsYFI4) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Why Not Right Now? \(Live\)](https://open.spotify.com/album/5IMEDpmKoYS6tcYLiUogm0) | 4:28 | 2024-06-13 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Koe Wetzel. The essential tracks, all in one playlist.",
-  "num_followers": 50816,
+  "num_followers": 50825,
   "original_name": "This Is Koe Wetzel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adg9gAAAAADbVekA6vMdQd01P8dVk7R4",
+  "snapshot_id": "admPAAAAAAAfx5WrGQ9cEYVBaec7yU8W",
   "tracks": [
     {
       "added_at": null,
@@ -167,8 +167,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\"These Are Going Nowhere\": A Mixtape by Koe Wetzel",
-        "url": "https://open.spotify.com/album/44r6jSvTWjPMg0NNQT6QZJ"
+        "name": "Surrounded",
+        "url": "https://open.spotify.com/album/4w6qmr3nn6fJQPUpbnfouc"
       },
       "artists": [
         {
@@ -176,9 +176,9 @@
           "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 226434,
-      "name": "Feel Better",
-      "url": "https://open.spotify.com/track/6hYiwLZyGQ0hYlLLTzQMzg"
+      "duration_ms": 188885,
+      "name": "Surrounded",
+      "url": "https://open.spotify.com/track/2Al9P5vRKol3YoqDIjWLwH"
     },
     {
       "added_at": null,
@@ -215,8 +215,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Surrounded",
-        "url": "https://open.spotify.com/album/4w6qmr3nn6fJQPUpbnfouc"
+        "name": "\"These Are Going Nowhere\": A Mixtape by Koe Wetzel",
+        "url": "https://open.spotify.com/album/44r6jSvTWjPMg0NNQT6QZJ"
       },
       "artists": [
         {
@@ -224,9 +224,9 @@
           "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 188885,
-      "name": "Surrounded",
-      "url": "https://open.spotify.com/track/2Al9P5vRKol3YoqDIjWLwH"
+      "duration_ms": 226434,
+      "name": "Feel Better",
+      "url": "https://open.spotify.com/track/6hYiwLZyGQ0hYlLLTzQMzg"
     },
     {
       "added_at": null,

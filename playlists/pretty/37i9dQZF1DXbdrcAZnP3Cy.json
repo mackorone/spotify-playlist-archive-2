@@ -1,6 +1,6 @@
 {
   "description": "Your favorite Mexican anthems to get the party started! ",
-  "num_followers": 214041,
+  "num_followers": 214088,
   "original_name": "Mexican Party Anthems",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
-        "name": "Destilando Amor",
-        "url": "https://open.spotify.com/album/0Hkn7bDEG0kyUxI6gQdHzB"
-      },
-      "artists": [
-        {
-          "name": "Aaron Y Su Grupo Ilusion",
-          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
-        }
-      ],
-      "duration_ms": 247893,
-      "name": "Todo Me Gusta De Ti",
-      "url": "https://open.spotify.com/track/5gUoppDphfYsIiguGr5drh"
-    },
-    {
-      "added_at": "2024-08-30 08:25:49",
-      "album": {
         "name": "Que Vuelvas",
         "url": "https://open.spotify.com/album/3dLJKctfTGFr731SvtnS3j"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 169418,
       "name": "Que Vuelvas",
       "url": "https://open.spotify.com/track/6Um358vY92UBv5DloTRX9L"
+    },
+    {
+      "added_at": "2024-08-30 08:25:49",
+      "album": {
+        "name": "Destilando Amor",
+        "url": "https://open.spotify.com/album/0Hkn7bDEG0kyUxI6gQdHzB"
+      },
+      "artists": [
+        {
+          "name": "Aaron Y Su Grupo Ilusion",
+          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
+        }
+      ],
+      "duration_ms": 247893,
+      "name": "Todo Me Gusta De Ti",
+      "url": "https://open.spotify.com/track/5gUoppDphfYsIiguGr5drh"
     },
     {
       "added_at": "2024-08-30 08:25:49",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
-        "name": "La Del Mo\u00f1o Colorado",
-        "url": "https://open.spotify.com/album/6I8NtD0YFtJn6osq3YPadR"
-      },
-      "artists": [
-        {
-          "name": "Los Pedernales",
-          "url": "https://open.spotify.com/artist/2t9iBcBG9KoBeOZHevRzsc"
-        }
-      ],
-      "duration_ms": 300733,
-      "name": "La Del Mo\u00f1o Colorado",
-      "url": "https://open.spotify.com/track/4fkCG6ZvZ4oFHnNJQmD0lE"
-    },
-    {
-      "added_at": "2024-08-30 08:25:49",
-      "album": {
         "name": "Me Gustan Las Viejas Buenas",
         "url": "https://open.spotify.com/album/70xlTaBOwwuHqnJ2aqiiLD"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 159213,
       "name": "Tamarindo",
       "url": "https://open.spotify.com/track/57gZ0m6MfrQhJu1DwNyIE9"
+    },
+    {
+      "added_at": "2024-08-30 08:25:49",
+      "album": {
+        "name": "La Del Mo\u00f1o Colorado",
+        "url": "https://open.spotify.com/album/6I8NtD0YFtJn6osq3YPadR"
+      },
+      "artists": [
+        {
+          "name": "Los Pedernales",
+          "url": "https://open.spotify.com/artist/2t9iBcBG9KoBeOZHevRzsc"
+        }
+      ],
+      "duration_ms": 300733,
+      "name": "La Del Mo\u00f1o Colorado",
+      "url": "https://open.spotify.com/track/4fkCG6ZvZ4oFHnNJQmD0lE"
     },
     {
       "added_at": "2024-08-30 08:25:49",
@@ -1204,9 +1204,9 @@
           "url": "https://open.spotify.com/artist/2kRcNmtZoQUI7F0hoYCnCg"
         }
       ],
-      "duration_ms": 197982,
-      "name": "Arrempujala Arremangala",
-      "url": "https://open.spotify.com/track/00xWJo63OSXjWyihycznbe"
+      "duration_ms": 193306,
+      "name": "La Jaiba",
+      "url": "https://open.spotify.com/track/0BQ7uJTvZDZxH4k7cwrSQ1"
     },
     {
       "added_at": "2024-08-30 08:25:49",
@@ -1279,8 +1279,8 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
-        "name": "Se Menea Se Menea",
-        "url": "https://open.spotify.com/album/2E8WzqhyEL9SqioQ5Fgg8D"
+        "name": "Arrempujala Arremangala",
+        "url": "https://open.spotify.com/album/7o3jw1zUej7NicDM4pNbzM"
       },
       "artists": [
         {
@@ -1288,9 +1288,9 @@
           "url": "https://open.spotify.com/artist/2kRcNmtZoQUI7F0hoYCnCg"
         }
       ],
-      "duration_ms": 151875,
-      "name": "Se Menea",
-      "url": "https://open.spotify.com/track/6uhEqYTqhEkSH6Rlf3ILpj"
+      "duration_ms": 197982,
+      "name": "Arrempujala Arremangala",
+      "url": "https://open.spotify.com/track/00xWJo63OSXjWyihycznbe"
     },
     {
       "added_at": "2024-08-30 08:25:49",
@@ -1363,8 +1363,8 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
-        "name": "Arrempujala Arremangala",
-        "url": "https://open.spotify.com/album/7o3jw1zUej7NicDM4pNbzM"
+        "name": "Se Menea Se Menea",
+        "url": "https://open.spotify.com/album/2E8WzqhyEL9SqioQ5Fgg8D"
       },
       "artists": [
         {
@@ -1372,25 +1372,9 @@
           "url": "https://open.spotify.com/artist/2kRcNmtZoQUI7F0hoYCnCg"
         }
       ],
-      "duration_ms": 193306,
-      "name": "La Jaiba",
-      "url": "https://open.spotify.com/track/0BQ7uJTvZDZxH4k7cwrSQ1"
-    },
-    {
-      "added_at": "2024-08-30 08:25:49",
-      "album": {
-        "name": "Borrachera Con Los Honorables (Live)",
-        "url": "https://open.spotify.com/album/6dvpGPwp36h1DYPUbp2dmv"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 188416,
-      "name": "La Boda Del Huitlacoche - Live",
-      "url": "https://open.spotify.com/track/1Tcm4Qi0lbzXofH11MIzJs"
+      "duration_ms": 151875,
+      "name": "Se Menea",
+      "url": "https://open.spotify.com/track/6uhEqYTqhEkSH6Rlf3ILpj"
     },
     {
       "added_at": "2024-08-30 08:25:49",
@@ -1407,6 +1391,22 @@
       "duration_ms": 194019,
       "name": "No Se Va - En Vivo",
       "url": "https://open.spotify.com/track/5JhUm1v5AbI5Yu6jLKCPRO"
+    },
+    {
+      "added_at": "2024-08-30 08:25:49",
+      "album": {
+        "name": "Borrachera Con Los Honorables (Live)",
+        "url": "https://open.spotify.com/album/6dvpGPwp36h1DYPUbp2dmv"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 188416,
+      "name": "La Boda Del Huitlacoche - Live",
+      "url": "https://open.spotify.com/track/1Tcm4Qi0lbzXofH11MIzJs"
     },
     {
       "added_at": "2024-08-30 08:25:49",

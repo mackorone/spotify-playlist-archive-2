@@ -1,12 +1,12 @@
 {
   "description": "This is La Receta. The essential tracks, all in one playlist.",
-  "num_followers": 66256,
+  "num_followers": 66273,
   "original_name": "This Is La Receta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adg9gAAAAACdVJglEZVWlc/vDDB5uUi0",
+  "snapshot_id": "admPAAAAAABlXofjzbjyBsYGobe9x+QB",
   "tracks": [
     {
       "added_at": null,
@@ -823,8 +823,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Asombrerados",
-        "url": "https://open.spotify.com/album/0IiFbYVzN1ekVu1j3S1uh9"
+        "name": "Somos Mayiza",
+        "url": "https://open.spotify.com/album/76oTb9XZQqKwiXa8U8UxoW"
       },
       "artists": [
         {
@@ -832,9 +832,9 @@
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 228465,
-      "name": "El Chavo",
-      "url": "https://open.spotify.com/track/5RQfIg3MnYpq6xf4l98ATT"
+      "duration_ms": 192600,
+      "name": "Somos Mayiza",
+      "url": "https://open.spotify.com/track/4M6GLOcjYod234PrPPat4r"
     },
     {
       "added_at": null,
@@ -855,8 +855,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somos Mayiza",
-        "url": "https://open.spotify.com/album/76oTb9XZQqKwiXa8U8UxoW"
+        "name": "Corridos Asombrerados",
+        "url": "https://open.spotify.com/album/0IiFbYVzN1ekVu1j3S1uh9"
       },
       "artists": [
         {
@@ -864,9 +864,9 @@
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 192600,
-      "name": "Somos Mayiza",
-      "url": "https://open.spotify.com/track/4M6GLOcjYod234PrPPat4r"
+      "duration_ms": 228465,
+      "name": "El Chavo",
+      "url": "https://open.spotify.com/track/5RQfIg3MnYpq6xf4l98ATT"
     },
     {
       "added_at": null,
@@ -887,18 +887,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Asombrerados",
-        "url": "https://open.spotify.com/album/0IiFbYVzN1ekVu1j3S1uh9"
+        "name": "Apenas es Martes",
+        "url": "https://open.spotify.com/album/0aDQnxWeCKcTTmj2NcNBRx"
       },
       "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
         {
           "name": "La Receta",
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 237948,
-      "name": "El Gerente",
-      "url": "https://open.spotify.com/track/0NZwFdoCx6tpXgZTZP2LWe"
+      "duration_ms": 216633,
+      "name": "Apenas es Martes",
+      "url": "https://open.spotify.com/track/56goS93EXFXZk4X6qPxJAt"
     },
     {
       "added_at": null,

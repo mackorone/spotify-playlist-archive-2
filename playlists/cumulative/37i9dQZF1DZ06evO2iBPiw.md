@@ -4,7 +4,7 @@
 
 > This is The Beatles\. The essential tracks, all in one playlist.
 
-77 songs - 3 hr 40 min
+78 songs - 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Real Love \- 1996 Mix](https://open.spotify.com/track/5frMgt4jqRGJk3yMKfqOyl) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Anthology 2](https://open.spotify.com/album/3Lf8VA23cMAl5imbABTZoo) | 3:54 | 2025-10-22 | 2025-11-05 |
 | [Revolution \- Remastered 2009](https://open.spotify.com/track/3UDmHZcBTQp8Iu8droNtUl) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles 1967 \- 1970 \(Remastered\)](https://open.spotify.com/album/1cTeNkeINtXiaMLlashAKs) | 3:25 | 2022-10-24 | 2022-10-26 |
 | [She Loves You \- Mono / Remastered](https://open.spotify.com/track/6nEkxYIEnrbYH7h1hJ8Xn6) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [1 \(Remastered\)](https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh) | 2:20 | 2022-10-24 | 2023-08-26 |
-| [She Loves You \- Mono Version / Remastered 2009](https://open.spotify.com/track/0qsS2A3hwicJCLtcaR6JRQ) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles 1962 \- 1966 \(Remastered\)](https://open.spotify.com/album/6126O4XLYAfzU3961ziahP) | 2:22 | 2023-10-10 |  |
+| [She Loves You \- Mono Version / Remastered 2009](https://open.spotify.com/track/0qsS2A3hwicJCLtcaR6JRQ) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles 1962 \- 1966 \(Remastered\)](https://open.spotify.com/album/6126O4XLYAfzU3961ziahP) | 2:22 | 2023-10-10 | 2026-04-13 |
 | [Something \- Remastered 2009](https://open.spotify.com/track/0pNeVovbiZHkulpGeOx1Gj) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 3:02 | 2022-10-24 |  |
 | [Strawberry Fields Forever \- Remastered 2009](https://open.spotify.com/track/3Am0IbOxmvlSXro7N5iSfZ) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Magical Mystery Tour \(Remastered\)](https://open.spotify.com/album/2BtE7qm1qzM80p9vLSiXkj) | 4:07 | 2022-10-24 |  |
 | [Taxman \- 2022 Mix](https://open.spotify.com/track/1NcQkuennLBhTIqms4b6ob) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Taxman \(2022 Mix\)](https://open.spotify.com/album/6CVqKOQkHlK1lRWlOnLkXs) | 2:38 | 2022-10-24 | 2023-01-27 |
@@ -77,6 +77,7 @@
 | [Till There Was You \- Remastered 2009](https://open.spotify.com/track/0ESIjVxnDnCDaTPo6sStHm) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [With The Beatles \(Remastered\)](https://open.spotify.com/album/1aYdiJk6XKeHWGO3FzHHTr) | 2:13 | 2022-10-25 |  |
 | [Tomorrow Never Knows \- Take 1](https://open.spotify.com/track/0u2WxM0Jw062o0XyNv1RDT) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Tomorrow Never Knows \(Take 1\)](https://open.spotify.com/album/18APowO2TyprdjVvH9NDtM) | 3:32 | 2022-10-24 | 2023-01-27 |
 | [Twist And Shout \- Remastered 2009](https://open.spotify.com/track/5ZBeML7Lf3FMEVviTyvi8l) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Please Please Me \(Remastered\)](https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf) | 2:35 | 2022-10-24 |  |
+| [Two Of Us \- Remastered 2009](https://open.spotify.com/track/0CaBBQsaAiRHhiLmzi7ZRp) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Let It Be \(Remastered\)](https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5) | 3:36 | 2026-04-13 |  |
 | [We Can Work It Out \- Remastered 2009](https://open.spotify.com/track/7LNiAjyg9P2GKINTtN6Yt8) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles 1962 \- 1966 \(Remastered\)](https://open.spotify.com/album/6126O4XLYAfzU3961ziahP) | 2:16 | 2023-12-21 | 2024-10-21 |
 | [We Can Work It Out \- Remastered 2015](https://open.spotify.com/track/1hTUFqJuQAMjXVGwUPWDqi) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [1 \(Remastered\)](https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh) | 2:15 | 2022-10-25 | 2023-12-14 |
 | [When I'm Sixty Four \- Remastered 2009](https://open.spotify.com/track/1NrbnHlR2BFREcyWXHIHip) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Sgt\. Pepper's Lonely Hearts Club Band \(Remastered\)](https://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW) | 2:37 | 2022-10-24 | 2025-04-24 |

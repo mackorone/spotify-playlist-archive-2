@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CqYAE.md) - [plain]
 
 > This is Mercy Chinwo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,557 likes - 49 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,564 likes - 49 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CqYAE.md) - [plain]
 | 48 | [None Like You Lord](https://open.spotify.com/track/4C1j4hhESWONgyhe52Bwpc) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [MOGmusic](https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW) | [In His Will](https://open.spotify.com/album/1pL4cc5JPJ9nk44TvNPhom) | 6:01 |
 | 49 | [Imela](https://open.spotify.com/track/6CHnff0Bu5k1uUvLmrtQF0) | [Believe Joseph](https://open.spotify.com/artist/4qMuIl03HzGaIehHQxEYeu), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Imela](https://open.spotify.com/album/0ppqpCnXDLy2phDJWD97kV) | 4:09 |
 
-Snapshot ID: `adg9gAAAAAA7H8PKm6yF+8/KXKy/BVTG`
+Snapshot ID: `admPAAAAAAAcQZ7iwgx/C+mlG377qCmH`

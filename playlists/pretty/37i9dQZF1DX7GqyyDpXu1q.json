@@ -1,6 +1,6 @@
 {
   "description": "Modern southern rock swagger served neat. Cover: The Black Crowes",
-  "num_followers": 94356,
+  "num_followers": 94373,
   "original_name": "Southern Comfort",
   "owner": {
     "name": "Spotify",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-04-10 16:28:54",
       "album": {
-        "name": "Tell Me Why",
-        "url": "https://open.spotify.com/album/2sBcoEEW3X9UJLPKoyWx7l"
-      },
-      "artists": [
-        {
-          "name": "Danny Worsnop",
-          "url": "https://open.spotify.com/artist/3FffC7t4yWwOUr0S5fFbkW"
-        }
-      ],
-      "duration_ms": 186764,
-      "name": "Tell Me Why",
-      "url": "https://open.spotify.com/track/6I6RTCNLWEtstBAc9A3Fin"
-    },
-    {
-      "added_at": "2026-04-10 16:28:54",
-      "album": {
         "name": "Black on Black",
         "url": "https://open.spotify.com/album/0gW6rlrjPt0vVCh5knGVCC"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 140153,
       "name": "Hot Damn",
       "url": "https://open.spotify.com/track/1IayPAwjwwaZAF1GL0Qz4o"
+    },
+    {
+      "added_at": "2026-04-10 16:28:54",
+      "album": {
+        "name": "Tell Me Why",
+        "url": "https://open.spotify.com/album/2sBcoEEW3X9UJLPKoyWx7l"
+      },
+      "artists": [
+        {
+          "name": "Danny Worsnop",
+          "url": "https://open.spotify.com/artist/3FffC7t4yWwOUr0S5fFbkW"
+        }
+      ],
+      "duration_ms": 186764,
+      "name": "Tell Me Why",
+      "url": "https://open.spotify.com/track/6I6RTCNLWEtstBAc9A3Fin"
     },
     {
       "added_at": "2026-04-10 16:28:54",
@@ -955,6 +955,22 @@
     {
       "added_at": "2026-04-10 16:28:54",
       "album": {
+        "name": "Bluephoria",
+        "url": "https://open.spotify.com/album/3RCxW8FbgIGchtUHFirzLB"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 272399,
+      "name": "Bluephoria",
+      "url": "https://open.spotify.com/track/7fnus8BlkLMMreW0BA2Vu9"
+    },
+    {
+      "added_at": "2026-04-10 16:28:54",
+      "album": {
         "name": "Without The Pain",
         "url": "https://open.spotify.com/album/0muiv2vfeWAvQkf7VtBq1U"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 207857,
       "name": "Down No More (feat. Nikki Lane)",
       "url": "https://open.spotify.com/track/31DDhtBgILgcROksRkxU6M"
-    },
-    {
-      "added_at": "2026-04-10 16:28:54",
-      "album": {
-        "name": "Bluephoria",
-        "url": "https://open.spotify.com/album/3RCxW8FbgIGchtUHFirzLB"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 272399,
-      "name": "Bluephoria",
-      "url": "https://open.spotify.com/track/7fnus8BlkLMMreW0BA2Vu9"
     },
     {
       "added_at": "2026-04-10 16:28:54",

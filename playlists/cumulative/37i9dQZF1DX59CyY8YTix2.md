@@ -4,7 +4,7 @@
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: ano
 
-2,020 songs - 5 day 5 hr 8 min
+2,021 songs - 5 day 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1771,7 +1771,7 @@
 | [最高速度](https://open.spotify.com/track/22PDXKDnBNEejFZkWzETQE) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [最高速度](https://open.spotify.com/album/70HIn4TXNsSPybodDDMxqI) | 3:50 | 2024-01-09 | 2024-10-02 |
 | [月が涙を流す夜](https://open.spotify.com/track/68CMuQlO03vyQrGVNHTle2) | [Maica\_n](https://open.spotify.com/artist/5MDud7grDjx8ISAmWjLFeM) | [月が涙を流す夜](https://open.spotify.com/album/7AyOi29A8SRAcDOojIJBCi) | 3:39 | 2022-10-04 | 2022-10-06 |
 | [月が満ちる](https://open.spotify.com/track/3erxP0Da6Dlzpd5eRLtob4) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg) | [月が満ちる](https://open.spotify.com/album/0ED9qF7KdOO7iKzGeYFViE) | 3:26 | 2024-04-23 | 2024-07-24 |
-| [月と私のかくれんぼ](https://open.spotify.com/track/4YA60SxvRK6Pmjw0CelABs) | [yutori](https://open.spotify.com/artist/4XFmgxfJrxEHZ1nLXf2Zv0) | [月と私のかくれんぼ](https://open.spotify.com/album/2m5P7dfPDOQWQ6g9XY2zg7) | 3:53 | 2025-07-01 |  |
+| [月と私のかくれんぼ](https://open.spotify.com/track/4YA60SxvRK6Pmjw0CelABs) | [yutori](https://open.spotify.com/artist/4XFmgxfJrxEHZ1nLXf2Zv0) | [月と私のかくれんぼ](https://open.spotify.com/album/2m5P7dfPDOQWQ6g9XY2zg7) | 3:53 | 2025-07-01 | 2026-04-13 |
 | [月よりもっと](https://open.spotify.com/track/2JhxO6E5zwgsAmlyJ1e0Pi) | [ザ・タペタムズ](https://open.spotify.com/artist/3lwvsQmWXLiF7vqQeHVT0j) | [スナップ](https://open.spotify.com/album/1Up5LT32ktCY9XDCIIFsj3) | 4:40 | 2023-12-19 | 2024-01-03 |
 | [月並みに輝け](https://open.spotify.com/track/22IFbzcuLrK7ZAoj6Ms9I0) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [月並みに輝け / 今、僕、アンダーグラウンドから](https://open.spotify.com/album/7zLObKK7vTZaVbrM12bLVT) | 4:07 | 2024-06-11 |  |
 | [有心論](https://open.spotify.com/track/0p07bRejRNjkMkjwEKqYJy) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [有心論](https://open.spotify.com/album/1ipf6VYiymoeUxWPULNwtV) | 4:08 | 2025-11-18 |  |
@@ -1965,6 +1965,7 @@
 | [逃現郷](https://open.spotify.com/track/0Eu3DSqEeL2ByXgAqSr0aN) | [Blumepopo](https://open.spotify.com/artist/04RNBUTa49gFIa0Kqc7UYQ) | [逃現郷](https://open.spotify.com/album/4Q3Kzz3cC2zcf051kmzr35) | 3:16 | 2024-01-09 | 2024-01-11 |
 | [逆光](https://open.spotify.com/track/25mnoIexUeJvsnVhddok1n) | [街鳴り](https://open.spotify.com/artist/0qIqzp7j9lHWO8EIUN0Nvp) | [逆光](https://open.spotify.com/album/0v1mLICPpVhArHCzVV4zL7) | 3:35 | 2022-07-05 | 2022-07-07 |
 | [逆光 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/5GXYKnnzBlHvrzBQ5WoxME) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [逆光 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/3ZARNbKk2zkYDeVQpHE564) | 3:57 | 2022-07-05 | 2022-12-14 |
+| [逆様](https://open.spotify.com/track/3hETmWK6G4wLMRCADo6hXn) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [逆様](https://open.spotify.com/album/1qq7jAulzATlVCltzautOz) | 2:51 | 2026-04-07 |  |
 | [途切れないで](https://open.spotify.com/track/3y9FdEmi3G3jxKGQKW5k8T) | [好芻](https://open.spotify.com/artist/2qeDcLCQcUBQWkit80w0aK) | [TVアニメ「なぜ僕の世界を誰も覚えていないのか？」エンディングテーマ「途切れないで」](https://open.spotify.com/album/4KpM2yvCkvBxCOatJ4btB5) | 3:51 | 2024-07-30 | 2024-10-10 |
 | [週末のユートピア](https://open.spotify.com/track/73vl2RL9IjiwuZP5yLHNy6) | [Mao Uchu](https://open.spotify.com/artist/1XZBuRxX5xORatBQJLsakP) | [週末のユートピア](https://open.spotify.com/album/0CzmcbKAeVkEaLRmwwm4v1) | 4:11 | 2022-06-02 | 2022-07-20 |
 | [遅刻](https://open.spotify.com/track/2EhMtQkvL0MFmylVUXRklU) | [Niiiya](https://open.spotify.com/artist/2ouzqdQoRdpwti2dT4Kbqh) | [遅刻](https://open.spotify.com/album/3QajBUxnmnGNRC5iQMUck7) | 4:12 | 2022-10-12 | 2022-10-26 |

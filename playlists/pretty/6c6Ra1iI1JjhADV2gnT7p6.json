@@ -1,12 +1,12 @@
 {
   "description": "A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music \ud83d\udc9c",
-  "num_followers": 59930,
+  "num_followers": 59934,
   "original_name": "Compact Cassette",
   "owner": {
     "name": "David Dean Burkhart",
     "url": "https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j"
   },
-  "snapshot_id": "AAA2pOETlz77NhhMsETAOS/AbXcaxyss",
+  "snapshot_id": "AAA2rE7b+BcFCGN3Hkd2l6IvwsT/WP9i",
   "tracks": [
     {
       "added_at": "2026-04-11 12:03:51",
@@ -8275,22 +8275,6 @@
     {
       "added_at": "2026-04-11 12:03:51",
       "album": {
-        "name": "I Love My TV",
-        "url": "https://open.spotify.com/album/3ubuw6jkKYshHahTd9vRA7"
-      },
-      "artists": [
-        {
-          "name": "Wulfer",
-          "url": "https://open.spotify.com/artist/0YBx9RunjSU2iPXSgj4GiN"
-        }
-      ],
-      "duration_ms": 166445,
-      "name": "Bells",
-      "url": "https://open.spotify.com/track/6U9759WtCxrYpyNWYCxjco"
-    },
-    {
-      "added_at": "2026-04-11 12:03:51",
-      "album": {
         "name": "Sugar Phantom Blackout",
         "url": "https://open.spotify.com/album/1TnfF9GLR9eaJoQLPpm2Da"
       },
@@ -8303,6 +8287,22 @@
       "duration_ms": 205422,
       "name": "Sugar Phantom Blackout",
       "url": "https://open.spotify.com/track/5XYfa98ccptbAeYG1ECA3v"
+    },
+    {
+      "added_at": "2026-04-11 12:03:51",
+      "album": {
+        "name": "Idol Melodies",
+        "url": "https://open.spotify.com/album/7zOW6frt5bFazKf6NEPpVT"
+      },
+      "artists": [
+        {
+          "name": "Melodi Ghazal",
+          "url": "https://open.spotify.com/artist/6f05TSa46XPA6UoITTjqwm"
+        }
+      ],
+      "duration_ms": 160714,
+      "name": "Heart on the Loose",
+      "url": "https://open.spotify.com/track/2K9ikIIxbBzzlsZAqhC4Tx"
     },
     {
       "added_at": "2026-04-11 12:03:51",
@@ -8335,18 +8335,18 @@
     {
       "added_at": "2026-04-11 12:03:51",
       "album": {
-        "name": "Idol Melodies",
-        "url": "https://open.spotify.com/album/7zOW6frt5bFazKf6NEPpVT"
+        "name": "I Love My TV",
+        "url": "https://open.spotify.com/album/3ubuw6jkKYshHahTd9vRA7"
       },
       "artists": [
         {
-          "name": "Melodi Ghazal",
-          "url": "https://open.spotify.com/artist/6f05TSa46XPA6UoITTjqwm"
+          "name": "Wulfer",
+          "url": "https://open.spotify.com/artist/0YBx9RunjSU2iPXSgj4GiN"
         }
       ],
-      "duration_ms": 160714,
-      "name": "Heart on the Loose",
-      "url": "https://open.spotify.com/track/2K9ikIIxbBzzlsZAqhC4Tx"
+      "duration_ms": 166445,
+      "name": "Bells",
+      "url": "https://open.spotify.com/track/6U9759WtCxrYpyNWYCxjco"
     },
     {
       "added_at": "2026-04-11 12:03:51",
@@ -8595,6 +8595,22 @@
     {
       "added_at": "2026-04-11 12:03:51",
       "album": {
+        "name": "sweet dreams",
+        "url": "https://open.spotify.com/album/26r5BG4jGtupwbOykl6wQk"
+      },
+      "artists": [
+        {
+          "name": "Lucas Player",
+          "url": "https://open.spotify.com/artist/6vHyFesGSAxoCiupP5812L"
+        }
+      ],
+      "duration_ms": 162241,
+      "name": "sweet dreams",
+      "url": "https://open.spotify.com/track/2sngvtPflZ2BnW9AWSEMrv"
+    },
+    {
+      "added_at": "2026-04-11 12:03:51",
+      "album": {
         "name": "You Say Things (You Know That I Like)",
         "url": "https://open.spotify.com/album/3ux8aMLlqw2mx0CuVJFIHi"
       },
@@ -8627,18 +8643,38 @@
     {
       "added_at": "2026-04-11 12:03:51",
       "album": {
-        "name": "sweet dreams",
-        "url": "https://open.spotify.com/album/26r5BG4jGtupwbOykl6wQk"
+        "name": "OVERTIME",
+        "url": "https://open.spotify.com/album/69TfOic7XKu2PVfleFDVcb"
       },
       "artists": [
         {
-          "name": "Lucas Player",
-          "url": "https://open.spotify.com/artist/6vHyFesGSAxoCiupP5812L"
+          "name": "username",
+          "url": "https://open.spotify.com/artist/3I54P5H2ogRQu7KWWmifr1"
+        },
+        {
+          "name": "Marsh crane",
+          "url": "https://open.spotify.com/artist/3xNfnkcVvRKu8mgElB3uFK"
         }
       ],
-      "duration_ms": 162241,
-      "name": "sweet dreams",
-      "url": "https://open.spotify.com/track/2sngvtPflZ2BnW9AWSEMrv"
+      "duration_ms": 192000,
+      "name": "PLAY MY TRACK",
+      "url": "https://open.spotify.com/track/2hHWcXgg4iStn9NJQcIu1e"
+    },
+    {
+      "added_at": "2026-04-11 12:03:51",
+      "album": {
+        "name": "FULL NEPTUNE.",
+        "url": "https://open.spotify.com/album/4mVNwo3DQX4L5SEuclJbPg"
+      },
+      "artists": [
+        {
+          "name": "RNIE",
+          "url": "https://open.spotify.com/artist/6lSHLs9xKAtzB9Eu2aUW2K"
+        }
+      ],
+      "duration_ms": 155733,
+      "name": "LOW HIGH",
+      "url": "https://open.spotify.com/track/0PhVYf8aWVmaxen9sudjPl"
     },
     {
       "added_at": "2026-04-11 12:03:51",
@@ -8655,6 +8691,22 @@
       "duration_ms": 198620,
       "name": "Fantasie",
       "url": "https://open.spotify.com/track/1arViwL3zTdHluW2wN168X"
+    },
+    {
+      "added_at": "2026-04-11 12:03:51",
+      "album": {
+        "name": "W.D.Y.W.F.M?",
+        "url": "https://open.spotify.com/album/5aflHptSCJZLrz9fAzGFfZ"
+      },
+      "artists": [
+        {
+          "name": "SLEEP CLUB",
+          "url": "https://open.spotify.com/artist/0NBe4HGx3FYEnU5fGt1I9L"
+        }
+      ],
+      "duration_ms": 240526,
+      "name": "W.D.Y.W.F.M?",
+      "url": "https://open.spotify.com/track/5se9hOsiQzGOGIV1owYRX0"
     },
     {
       "added_at": "2026-04-11 12:03:51",
@@ -8691,58 +8743,6 @@
     {
       "added_at": "2026-04-11 12:03:51",
       "album": {
-        "name": "Paralyzed",
-        "url": "https://open.spotify.com/album/55ckFXzUpq3yfIOgJI00TW"
-      },
-      "artists": [
-        {
-          "name": "the booyah! kids",
-          "url": "https://open.spotify.com/artist/0ypSujQpBRgRAeOS7YzhnP"
-        }
-      ],
-      "duration_ms": 150827,
-      "name": "Paralyzed",
-      "url": "https://open.spotify.com/track/5FZoBzLmhUi3XtPhTvGV3X"
-    },
-    {
-      "added_at": "2026-04-11 12:03:51",
-      "album": {
-        "name": "W.D.Y.W.F.M?",
-        "url": "https://open.spotify.com/album/5aflHptSCJZLrz9fAzGFfZ"
-      },
-      "artists": [
-        {
-          "name": "SLEEP CLUB",
-          "url": "https://open.spotify.com/artist/0NBe4HGx3FYEnU5fGt1I9L"
-        }
-      ],
-      "duration_ms": 240526,
-      "name": "W.D.Y.W.F.M?",
-      "url": "https://open.spotify.com/track/5se9hOsiQzGOGIV1owYRX0"
-    },
-    {
-      "added_at": "2026-04-11 12:03:51",
-      "album": {
-        "name": "OVERTIME",
-        "url": "https://open.spotify.com/album/69TfOic7XKu2PVfleFDVcb"
-      },
-      "artists": [
-        {
-          "name": "username",
-          "url": "https://open.spotify.com/artist/3I54P5H2ogRQu7KWWmifr1"
-        },
-        {
-          "name": "Marsh crane",
-          "url": "https://open.spotify.com/artist/3xNfnkcVvRKu8mgElB3uFK"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "PLAY MY TRACK",
-      "url": "https://open.spotify.com/track/2hHWcXgg4iStn9NJQcIu1e"
-    },
-    {
-      "added_at": "2026-04-11 12:03:51",
-      "album": {
         "name": "Margot Tenenbaum",
         "url": "https://open.spotify.com/album/659OMSfaxLVG5c0GzpWyfz"
       },
@@ -8759,18 +8759,18 @@
     {
       "added_at": "2026-04-11 12:03:51",
       "album": {
-        "name": "FULL NEPTUNE.",
-        "url": "https://open.spotify.com/album/4mVNwo3DQX4L5SEuclJbPg"
+        "name": "Paralyzed",
+        "url": "https://open.spotify.com/album/55ckFXzUpq3yfIOgJI00TW"
       },
       "artists": [
         {
-          "name": "RNIE",
-          "url": "https://open.spotify.com/artist/6lSHLs9xKAtzB9Eu2aUW2K"
+          "name": "the booyah! kids",
+          "url": "https://open.spotify.com/artist/0ypSujQpBRgRAeOS7YzhnP"
         }
       ],
-      "duration_ms": 155733,
-      "name": "LOW HIGH",
-      "url": "https://open.spotify.com/track/0PhVYf8aWVmaxen9sudjPl"
+      "duration_ms": 150827,
+      "name": "Paralyzed",
+      "url": "https://open.spotify.com/track/5FZoBzLmhUi3XtPhTvGV3X"
     },
     {
       "added_at": "2026-04-11 12:03:51",

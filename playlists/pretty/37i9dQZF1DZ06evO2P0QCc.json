@@ -1,12 +1,12 @@
 {
   "description": "This is Inspector. The essential tracks, all in one playlist.",
-  "num_followers": 123884,
+  "num_followers": 123892,
   "original_name": "This Is Inspector",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adg9gAAAAAAXoXMiamjEI4Wbm7AopwLL",
+  "snapshot_id": "admPAAAAAACkd3QodG/JG5ctn0n8g9LI",
   "tracks": [
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canciones De Amor, Y Un Remedio Pa'l Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Lo Que T\u00fa Me Das - Gracias",
-      "url": "https://open.spotify.com/track/7eOuceG9xpLU9dJaGsiOB4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Serpientes Y Escaleras",
         "url": "https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 224000,
       "name": "El Amargado",
       "url": "https://open.spotify.com/track/6MxqbiUTPF5FmNPJfIkwAH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Canciones De Amor, Y Un Remedio Pa'l Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Lo Que T\u00fa Me Das - Gracias",
+      "url": "https://open.spotify.com/track/7eOuceG9xpLU9dJaGsiOB4"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ska Wars Monterrey",
-        "url": "https://open.spotify.com/album/4GVKRzrnEk8sVoiow3G51x"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 205720,
-      "name": "Breve Historia de Amor y una Mujer",
-      "url": "https://open.spotify.com/track/2syJSllQmem8RDSSTxLo4W"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Serpientes Y Escaleras",
         "url": "https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 242800,
       "name": "La Tregua",
       "url": "https://open.spotify.com/track/13lwyE1cMl3KDmAMgRMHvl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ska Wars Monterrey",
+        "url": "https://open.spotify.com/album/4GVKRzrnEk8sVoiow3G51x"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 205720,
+      "name": "Breve Historia de Amor y una Mujer",
+      "url": "https://open.spotify.com/track/2syJSllQmem8RDSSTxLo4W"
     },
     {
       "added_at": null,
@@ -835,22 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inspecci\u00f3n Retroac\u00fastica",
-        "url": "https://open.spotify.com/album/6BPO85IdQxuZ1TtoiM7ysk"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 236720,
-      "name": "Amar O Morir",
-      "url": "https://open.spotify.com/track/0WGw8hRQjJFwz0fNyrj91A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Serpientes Y Escaleras",
         "url": "https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 212000,
       "name": "No Puedo Ser Tu Amigo",
       "url": "https://open.spotify.com/track/2O19dNVIKtMF6K0SKRWjiV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inspecci\u00f3n Retroac\u00fastica",
+        "url": "https://open.spotify.com/album/6BPO85IdQxuZ1TtoiM7ysk"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 236720,
+      "name": "Amar O Morir",
+      "url": "https://open.spotify.com/track/0WGw8hRQjJFwz0fNyrj91A"
     }
   ],
   "unique_name": "This Is Inspector",

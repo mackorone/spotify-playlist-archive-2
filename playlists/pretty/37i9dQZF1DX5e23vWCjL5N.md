@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5e23vWCjL5N.md) - [plain]
 
 > Punchline, storytelling, rap italiano\. "Dio Esiste" di Shiva in prima posizione, un brano unico per capire il suo nuovo album.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,402 likes - 95 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,399 likes - 95 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

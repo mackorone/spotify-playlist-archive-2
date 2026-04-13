@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adg9gAAAAADdXXfnRGhkJmNjj5GtJXOE",
+  "snapshot_id": "admPAAAAAAA8WiGEElQMv7+qYFOO69DE",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Warragul",
-        "url": "https://open.spotify.com/album/2NCVm7h6nqijtPmxteTsrl"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 182893,
-      "name": "Rip Rip Woodchip",
-      "url": "https://open.spotify.com/track/2b56dVNyNzRDP01lM3b8n0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mallee Boy",
         "url": "https://open.spotify.com/album/5M2PUXuOVJ4YhsSkQNIKD3"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 182933,
       "name": "Diamantina Drover",
       "url": "https://open.spotify.com/track/2MVhIpEf23BMw7NxlU3AGZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Warragul",
+        "url": "https://open.spotify.com/album/2NCVm7h6nqijtPmxteTsrl"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 182893,
+      "name": "Rip Rip Woodchip",
+      "url": "https://open.spotify.com/track/2b56dVNyNzRDP01lM3b8n0"
     },
     {
       "added_at": null,
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chandelier of Stars",
-        "url": "https://open.spotify.com/album/7vfX3S5EyXnUd5AOUeKQXi"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 195426,
-      "name": "Chandelier of Stars",
-      "url": "https://open.spotify.com/track/41dkNDpZO62SV9s8JFJ14Y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mallee Boy",
         "url": "https://open.spotify.com/album/5M2PUXuOVJ4YhsSkQNIKD3"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 271160,
       "name": "Raining on the Rock",
       "url": "https://open.spotify.com/track/4RZXrZvFHCZY8BOQG2JzAK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chandelier of Stars",
+        "url": "https://open.spotify.com/album/7vfX3S5EyXnUd5AOUeKQXi"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 195426,
+      "name": "Chandelier of Stars",
+      "url": "https://open.spotify.com/track/41dkNDpZO62SV9s8JFJ14Y"
     },
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Big Red",
-        "url": "https://open.spotify.com/album/3iBPheKv7XaNVu9B197jRK"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 176426,
-      "name": "Prairie Hotel Parachilna",
-      "url": "https://open.spotify.com/track/1ermlRf4ZAH6d4efJNi1yO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mallee Boy",
         "url": "https://open.spotify.com/album/5M2PUXuOVJ4YhsSkQNIKD3"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 197666,
       "name": "Mallee Boy",
       "url": "https://open.spotify.com/track/72NkwThw0PDHasUu7WomDm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Big Red",
+        "url": "https://open.spotify.com/album/3iBPheKv7XaNVu9B197jRK"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 176426,
+      "name": "Prairie Hotel Parachilna",
+      "url": "https://open.spotify.com/track/1ermlRf4ZAH6d4efJNi1yO"
     },
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "His Favourite Collection",
-        "url": "https://open.spotify.com/album/5xpwDOS9c7IYaSqqpJxFnZ"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 169520,
-      "name": "You and My Guitar",
-      "url": "https://open.spotify.com/track/3cRRh344Xx0FD1y7ZplP6Y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mallee Boy",
         "url": "https://open.spotify.com/album/5M2PUXuOVJ4YhsSkQNIKD3"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 232133,
       "name": "Cootamundra Wattle",
       "url": "https://open.spotify.com/track/0gyWlfuZqPzfBdbE5sF3kM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "His Favourite Collection",
+        "url": "https://open.spotify.com/album/5xpwDOS9c7IYaSqqpJxFnZ"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 169520,
+      "name": "You and My Guitar",
+      "url": "https://open.spotify.com/track/3cRRh344Xx0FD1y7ZplP6Y"
     },
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Hell of a Career",
-        "url": "https://open.spotify.com/album/1rSRKlpirQ4R9DwwYc9Swn"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 212680,
-      "name": "I Can't Feel Those Chains Any Longer - Live",
-      "url": "https://open.spotify.com/track/6BasQoqS5PIPzbJ5QfCDc9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mallee Boy",
         "url": "https://open.spotify.com/album/5M2PUXuOVJ4YhsSkQNIKD3"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 250693,
       "name": "Galleries of Pink Galahs",
       "url": "https://open.spotify.com/track/6nn65PSai61Mh8eWEC6Yit"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Hell of a Career",
+        "url": "https://open.spotify.com/album/1rSRKlpirQ4R9DwwYc9Swn"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 212680,
+      "name": "I Can't Feel Those Chains Any Longer - Live",
+      "url": "https://open.spotify.com/track/6BasQoqS5PIPzbJ5QfCDc9"
     },
     {
       "added_at": null,
@@ -347,22 +347,6 @@
       "duration_ms": 170173,
       "name": "A Thousand Feet (with Warren H. Williams)",
       "url": "https://open.spotify.com/track/6BrNnnYSe3a0xSRe9nxiqo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Anthems - A Celebration of Australia",
-        "url": "https://open.spotify.com/album/2P5hfHC2zNLTYhpPTIfMGy"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "This Is Australia Calling",
-      "url": "https://open.spotify.com/track/42ZwdT2pu6qZUkEZReNsDW"
     },
     {
       "added_at": null,
@@ -395,6 +379,22 @@
       "duration_ms": 189733,
       "name": "Three Rivers Hotel",
       "url": "https://open.spotify.com/track/2AW8dwJEdOfumSVNwxfeIg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anthems - A Celebration of Australia",
+        "url": "https://open.spotify.com/album/2P5hfHC2zNLTYhpPTIfMGy"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "This Is Australia Calling",
+      "url": "https://open.spotify.com/track/42ZwdT2pu6qZUkEZReNsDW"
     },
     {
       "added_at": null,
@@ -447,6 +447,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hillbilly Road",
+        "url": "https://open.spotify.com/album/5aHA8o7BxsjRQFflSG8RII"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 180866,
+      "name": "Cydi",
+      "url": "https://open.spotify.com/track/0a6fEDzinYAy6xHwYAnANl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Road Thru The Heart",
         "url": "https://open.spotify.com/album/51f2xjO7nDkp1jDevmXH0i"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 210133,
       "name": "A Flag of Our Own",
       "url": "https://open.spotify.com/track/6dcUIKxlQKjRphBrBQo85f"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hillbilly Road",
-        "url": "https://open.spotify.com/album/5aHA8o7BxsjRQFflSG8RII"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 180866,
-      "name": "Cydi",
-      "url": "https://open.spotify.com/track/0a6fEDzinYAy6xHwYAnANl"
     },
     {
       "added_at": null,
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Way It Is",
-        "url": "https://open.spotify.com/album/5aMccnKBVkDleMGLRglrGx"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 215293,
-      "name": "Campfire on the Road",
-      "url": "https://open.spotify.com/track/2fEPIWh5HFnatSwBpHzKBl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "His Favourite Collection",
         "url": "https://open.spotify.com/album/5xpwDOS9c7IYaSqqpJxFnZ"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 199360,
       "name": "Papa Whisky November",
       "url": "https://open.spotify.com/track/5GHyi4qF0TEZKPhTi4CmhQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Way It Is",
+        "url": "https://open.spotify.com/album/5aMccnKBVkDleMGLRglrGx"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 215293,
+      "name": "Campfire on the Road",
+      "url": "https://open.spotify.com/track/2fEPIWh5HFnatSwBpHzKBl"
     },
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Hell of a Career",
-        "url": "https://open.spotify.com/album/1rSRKlpirQ4R9DwwYc9Swn"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 208560,
-      "name": "Hawkesbury River Lovin'",
-      "url": "https://open.spotify.com/track/6Lemvl39DNczbvLt7BIymQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "His Favourite Collection",
         "url": "https://open.spotify.com/album/5xpwDOS9c7IYaSqqpJxFnZ"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 218533,
       "name": "Queensland Bungalow",
       "url": "https://open.spotify.com/track/2SRV54FM0bJbByaAWezRLL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Hell of a Career",
+        "url": "https://open.spotify.com/album/1rSRKlpirQ4R9DwwYc9Swn"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 208560,
+      "name": "Hawkesbury River Lovin'",
+      "url": "https://open.spotify.com/track/6Lemvl39DNczbvLt7BIymQ"
     },
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mates on the Road",
-        "url": "https://open.spotify.com/album/3sm8lCfuVRcVbrYd2Zorqr"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 71520,
-      "name": "Chain Around My Ankle",
-      "url": "https://open.spotify.com/track/5hT7oCaw5v0IU69MesPfnA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "His Favourite Collection",
         "url": "https://open.spotify.com/album/5xpwDOS9c7IYaSqqpJxFnZ"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 227653,
       "name": "Prettiest Girl in the Kimberley",
       "url": "https://open.spotify.com/track/05tYnIXdjhCUTuBmoMTEFe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mates on the Road",
+        "url": "https://open.spotify.com/album/3sm8lCfuVRcVbrYd2Zorqr"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 71520,
+      "name": "Chain Around My Ankle",
+      "url": "https://open.spotify.com/track/5hT7oCaw5v0IU69MesPfnA"
     },
     {
       "added_at": null,
@@ -719,6 +719,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "His Favourite Collection",
+        "url": "https://open.spotify.com/album/5xpwDOS9c7IYaSqqpJxFnZ"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 284466,
+      "name": "Hang My Hat in Queensland - Orchestra Version",
+      "url": "https://open.spotify.com/track/3fXi3nvCCBN6DV6aI3blTa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Both Sides Now",
         "url": "https://open.spotify.com/album/35OfYsF8wYNq3OR2YJpMvm"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 126586,
       "name": "King Of The Road",
       "url": "https://open.spotify.com/track/1Ndrjyj3hZv7KuZmNLQr9U"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "His Favourite Collection",
-        "url": "https://open.spotify.com/album/5xpwDOS9c7IYaSqqpJxFnZ"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 284466,
-      "name": "Hang My Hat in Queensland - Orchestra Version",
-      "url": "https://open.spotify.com/track/3fXi3nvCCBN6DV6aI3blTa"
     },
     {
       "added_at": null,

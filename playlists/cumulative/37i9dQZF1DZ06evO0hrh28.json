@@ -467,6 +467,28 @@
     },
     {
       "album": {
+        "name": "Apambichao",
+        "url": "https://open.spotify.com/album/0DOZOtgMZm8GvvFJFZ6vvT"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162360,
+      "name": "Cumbia Playera",
+      "url": "https://open.spotify.com/track/7JWUbHhM6oeCJ31L949K5x"
+    },
+    {
+      "album": {
         "name": "KUSTOM",
         "url": "https://open.spotify.com/album/4kXaM6fo4q2hK6b6Sra4qp"
       },
@@ -1710,7 +1732,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 205565,
       "name": "Somos M\u00e1s",
       "url": "https://open.spotify.com/track/5McPJVECJppo96ilj5Ydsw"

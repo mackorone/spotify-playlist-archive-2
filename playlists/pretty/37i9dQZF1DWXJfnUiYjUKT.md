@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world, with Ravyn Lenae & Dominic Fike on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 488,591 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 488,595 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 99 | [Find Me](https://open.spotify.com/track/5cf4pOmiw2aMcGwirPbGF4) | [Marlon Craft](https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb) | [The Internet Killed The Neighborhood](https://open.spotify.com/album/4Yaz8lXm3PIdnXrD652wxD) | 3:41 |
 | 100 | [Ginger Lemonade](https://open.spotify.com/track/0NUCKfVc0uOI8aiJg5FVoN) | [Good Kid](https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP) | [Can We Hang Out Sometime?](https://open.spotify.com/album/7pGzGYHDOMvdyqY1RBzBjB) | 2:59 |
 
-Snapshot ID: `AAAAAB/+wANfEJU2VFLzqIpihkQSneCu`
+Snapshot ID: `AAAAAN09fuf0XPNZVlW+VLliz0juNjhJ`

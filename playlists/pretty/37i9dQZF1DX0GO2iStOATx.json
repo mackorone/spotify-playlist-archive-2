@@ -1,6 +1,6 @@
 {
   "description": "Punjabi superstar\u2019s biggest hits.",
-  "num_followers": 228494,
+  "num_followers": 228525,
   "original_name": "This Is Diljit Dosanjh",
   "owner": {
     "name": "Spotify",
@@ -403,26 +403,6 @@
     {
       "added_at": "2026-01-30 11:13:46",
       "album": {
-        "name": "Best of Punjabi Superstar Diljit Dosanjh",
-        "url": "https://open.spotify.com/album/2K9ziITxFGxwD7p8qvN1WX"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "Tarannum Malik Jain",
-          "url": "https://open.spotify.com/artist/3dihrcurT9YFHMT8KpaIKa"
-        }
-      ],
-      "duration_ms": 142203,
-      "name": "Veer Vaar - From \"Sardaarji\"",
-      "url": "https://open.spotify.com/track/6jjZAa7vzI1MEPQdNLXKXy"
-    },
-    {
-      "added_at": "2026-01-30 11:13:46",
-      "album": {
         "name": "Sardaarji 2 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4OtiPey44eFtHR0k3EVJVz"
       },
@@ -439,8 +419,8 @@
     {
       "added_at": "2026-01-30 11:13:46",
       "album": {
-        "name": "Laembadgini",
-        "url": "https://open.spotify.com/album/1GNGRwlZYpVr2Itn1D9jK1"
+        "name": "Best of Punjabi Superstar Diljit Dosanjh",
+        "url": "https://open.spotify.com/album/2K9ziITxFGxwD7p8qvN1WX"
       },
       "artists": [
         {
@@ -448,13 +428,13 @@
           "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
         },
         {
-          "name": "Jatinder Shah",
-          "url": "https://open.spotify.com/artist/4vGVzTMuXsO1vb5YA8vKEr"
+          "name": "Tarannum Malik Jain",
+          "url": "https://open.spotify.com/artist/3dihrcurT9YFHMT8KpaIKa"
         }
       ],
-      "duration_ms": 186312,
-      "name": "Laembadgini",
-      "url": "https://open.spotify.com/track/5zKWrXbY0EU8ZComTwfnk6"
+      "duration_ms": 142203,
+      "name": "Veer Vaar - From \"Sardaarji\"",
+      "url": "https://open.spotify.com/track/6jjZAa7vzI1MEPQdNLXKXy"
     },
     {
       "added_at": "2026-01-30 11:13:46",
@@ -495,6 +475,26 @@
       "duration_ms": 198783,
       "name": "Raat Di Gedi",
       "url": "https://open.spotify.com/track/1v7nvuF8Or7nTX0hqNg2FA"
+    },
+    {
+      "added_at": "2026-01-30 11:13:46",
+      "album": {
+        "name": "Laembadgini",
+        "url": "https://open.spotify.com/album/1GNGRwlZYpVr2Itn1D9jK1"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Jatinder Shah",
+          "url": "https://open.spotify.com/artist/4vGVzTMuXsO1vb5YA8vKEr"
+        }
+      ],
+      "duration_ms": 186312,
+      "name": "Laembadgini",
+      "url": "https://open.spotify.com/track/5zKWrXbY0EU8ZComTwfnk6"
     },
     {
       "added_at": "2026-01-30 11:13:46",
@@ -655,22 +655,6 @@
     {
       "added_at": "2026-01-30 11:13:46",
       "album": {
-        "name": "Roar",
-        "url": "https://open.spotify.com/album/1pcsPt7079EJi5u9OzHYqa"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 191113,
-      "name": "Mel Gel",
-      "url": "https://open.spotify.com/track/0uZ0ZZDpBOcFasRWyfpVhV"
-    },
-    {
-      "added_at": "2026-01-30 11:13:46",
-      "album": {
         "name": "Back to Basics",
         "url": "https://open.spotify.com/album/2DJqmHoYQ5uS5Vhg8GVC1d"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 217640,
       "name": "Kharku",
       "url": "https://open.spotify.com/track/1xzxjqnT7mZb2Sh4HaG5tc"
+    },
+    {
+      "added_at": "2026-01-30 11:13:46",
+      "album": {
+        "name": "Roar",
+        "url": "https://open.spotify.com/album/1pcsPt7079EJi5u9OzHYqa"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 191113,
+      "name": "Mel Gel",
+      "url": "https://open.spotify.com/track/0uZ0ZZDpBOcFasRWyfpVhV"
     },
     {
       "added_at": "2026-01-30 11:13:46",

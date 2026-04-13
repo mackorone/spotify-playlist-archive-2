@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-914 songs - 2 day 5 hr 31 min
+917 songs - 2 day 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,6 +275,7 @@
 | [Fumble](https://open.spotify.com/track/1SQufToTrFMKonHw9xmfFy) | [Ben Carringer](https://open.spotify.com/artist/5Xs7la5VzfvqDJD2KfVhL6) | [Fumble](https://open.spotify.com/album/6ucAkjjQKfWa3n83odFH7P) | 4:02 | 2025-12-15 | 2026-01-15 |
 | [Fuori Fase](https://open.spotify.com/track/4BvTTUR5I6Lu32H4SEp5XF) | [SanaNasciari](https://open.spotify.com/artist/3DtXo63P1fcyUzRRYsnI3T) | [Fuori Fase](https://open.spotify.com/album/7EUDXRvf6IO08kdUOvmexW) | 3:19 | 2026-03-18 |  |
 | [Gangster Shit](https://open.spotify.com/track/3D6rVmlwFJnTYHzeC1pF3o) | [Lance Mitchell](https://open.spotify.com/artist/42tYt31wuq2tI0umoOwsC4) | [Gangster Shit](https://open.spotify.com/album/0x2247BmfODK2ubsG0QLTs) | 1:54 | 2026-02-03 | 2026-03-07 |
+| [Gelir Gider](https://open.spotify.com/track/5rceAFRqiXKbfZ1c5H0HJJ) | [Berdush38](https://open.spotify.com/artist/1xLymL7zjs2w2PbCewdP3J) | [Gelir Gider](https://open.spotify.com/album/2DxOFl5paLb9KLQOq24ys2) | 2:38 | 2026-04-12 |  |
 | [Gem](https://open.spotify.com/track/1k7zJz2uqSHZzHPjpiW9ps) | [Tone Travelers](https://open.spotify.com/artist/3UiAdgkPdYiGRgSUcK4FM8) | [Gem](https://open.spotify.com/album/1fAIo7nOtyYjxSTTRSMJui) | 3:44 | 2026-03-03 | 2026-03-25 |
 | [Ger\-ru](https://open.spotify.com/track/6NhjyDPvfIbR72a0aPwgpI) | [Manosanta Hard Soul](https://open.spotify.com/artist/6B2s5HVELOBD4IIzqjbuGb) | [Sicilian Connection](https://open.spotify.com/album/4LRnpkrPSzdcd9RY5DzeVD) | 3:31 | 2025-06-21 | 2025-12-21 |
 | [Get Ready](https://open.spotify.com/track/1UFDljtWoiwASVfCxwkFAM) | [Tirada](https://open.spotify.com/artist/5nYNaWd0EzkjojIr0NAp2v) | [Get Ready](https://open.spotify.com/album/0BFJoPZ2FAtP1wk9NXsi2e) | 4:23 | 2026-03-02 | 2026-04-12 |
@@ -611,6 +612,8 @@
 | [PORTOFINO](https://open.spotify.com/track/3grfVUE40sDo56NFfrzP2N) | [SULABU](https://open.spotify.com/artist/5OFSadrsMqs6HOOMJg63iJ) | [PORTOFINO](https://open.spotify.com/album/0QhGmfZRTXFCIurpMqus8E) | 3:07 | 2025-09-13 | 2025-11-29 |
 | [POSSESSED GIRL](https://open.spotify.com/track/1hOFHg2ssRGWTZL0IHQ06z) | [Exorcisor](https://open.spotify.com/artist/0WFguk3ZC20eLKXcM70rOT) | [POSSESSED GIRL](https://open.spotify.com/album/1j8WlP6PQR4lWw70YQGEMq) | 3:45 | 2026-01-26 | 2026-02-28 |
 | [Post Office Queen](https://open.spotify.com/track/3RW4WJT9bXPp7dJ8Xrldlu) | [J\. Lee Bone](https://open.spotify.com/artist/6gGiDRa5txAU73w00S1zXs) | [Post Office Queen](https://open.spotify.com/album/6DOEhu00M4lATr06LZAswN) | 3:11 | 2026-02-11 | 2026-03-15 |
+| [Postcard](https://open.spotify.com/track/0XtyVSIs5tI9bhthZ7GGwh) | [Barrie Johnson](https://open.spotify.com/artist/1Y5kb8pZVSA6CH12qTROX4) | [Postcard](https://open.spotify.com/album/5UyKe732CV1ODmjUn1JiGU) | 3:03 | 2026-04-12 |  |
+| [Poupée Vaudou](https://open.spotify.com/track/1joDNTcwDoJrbzJXRqMS6K) | [Dominique Daumann](https://open.spotify.com/artist/1Nm0cvOQp7njIOVzZ3Wqe6) | [La parade des loups\-garous](https://open.spotify.com/album/4EYMdV25eZul4vWVEQ9I98) | 3:18 | 2026-04-12 |  |
 | [Prada Jacket](https://open.spotify.com/track/49zj1xPxYmoMWTe7yBffas) | [Nick Coleman](https://open.spotify.com/artist/6snVGC7vB9QsHcGoUxaSou) | [Prada Jacket](https://open.spotify.com/album/53ygVkYNSNF1EYs2mIt5h6) | 2:16 | 2026-03-02 | 2026-04-12 |
 | [Prayer & Meditation](https://open.spotify.com/track/2etZKFCk3JOZ5Hdaslobxo) | [Young Bleed](https://open.spotify.com/artist/5GQgxUq4MOuXXV99WrRuev), [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x), [Motom Beats](https://open.spotify.com/artist/40x1m6mMmfEvUO4k1RwkaS) | [Prayer & Meditation](https://open.spotify.com/album/2bEQoxxjkX35PnOoZzsfus) | 3:17 | 2025-09-11 | 2025-11-29 |
 | [Prelúdio \(Iroko\)](https://open.spotify.com/track/1RlYlTlANYi4CILbHwcyuY) | [Gabi Vian](https://open.spotify.com/artist/2zT4sqgMzP1AyOYeOx4VgT), [Wander Sá](https://open.spotify.com/artist/20tPjzIgoul83RNFakHJIJ) | [Prelúdio](https://open.spotify.com/album/4GeTrvB9TzO7cPHEi1O1Nl) | 3:09 | 2026-03-16 | 2026-04-12 |

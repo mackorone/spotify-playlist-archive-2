@@ -1390,7 +1390,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-10",
+      "date_removed": null,
       "duration_ms": 207333,
       "name": "Am\u00e1rrame",
       "url": "https://open.spotify.com/track/3EK4tGkSiO5xvvB5sM4tln"
@@ -8812,7 +8812,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 227660,
       "name": "Into the Sun",
       "url": "https://open.spotify.com/track/1ZNolq7VI7efGlh2hb2VVr"
@@ -9478,7 +9478,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-12",
+      "date_removed": null,
       "duration_ms": 242573,
       "name": "LA CANCI\u00d3N",
       "url": "https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18"
@@ -9500,7 +9500,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 242573,
       "name": "LA CANCI\u00d3N",
       "url": "https://open.spotify.com/track/5jnAEIq2TjcuC50BYcpY4s"
@@ -12793,6 +12793,24 @@
     },
     {
       "album": {
+        "name": "Mix Amor Sincero",
+        "url": "https://open.spotify.com/album/4rnqnkfQfvUnNOl4p7a6tY"
+      },
+      "artists": [
+        {
+          "name": "Grupo Amor Rebelde",
+          "url": "https://open.spotify.com/artist/7o87YDHbNRlbpGoZXiKwF2"
+        }
+      ],
+      "date_added": "2026-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315151,
+      "name": "Mix Amor Sincero",
+      "url": "https://open.spotify.com/track/0CVPO9XzMCCyfdXZqF4rqB"
+    },
+    {
+      "album": {
         "name": "Mix Chelero (El Chelero/En Donde Est\u00e1s Amor/En una Esquina Cuando Yo Cantaba)",
         "url": "https://open.spotify.com/album/2stYuAebCnWttW4lANFBUv"
       },
@@ -14696,7 +14714,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 167589,
       "name": "One More Night",
       "url": "https://open.spotify.com/track/6s3w7SUVtmm68Bw5KrKMh0"

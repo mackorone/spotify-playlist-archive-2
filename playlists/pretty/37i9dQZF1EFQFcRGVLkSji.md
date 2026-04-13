@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6M7L8SMVEFvblfFmcNtgaV">BNYX®</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 392 likes - 167 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 391 likes - 167 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,8 +125,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 | 115 | [chaNGE](https://open.spotify.com/track/4M0M2KF95LkvfM5CFexPZb) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [LIVE.EVIL](https://open.spotify.com/album/2BAS4qtHxRitgAaHF4mLLR) | 1:40 |
 | 116 | [WIPED](https://open.spotify.com/track/3mOUnFnggll5Svu4hZFUlH) | [Lil Dann](https://open.spotify.com/artist/2mMBXm6qrEJuqdg3HnILr2), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [WIPED](https://open.spotify.com/album/0X7sDKR0b0XA93UpkT9gXx) | 3:04 |
 | 117 | [Damaged Feelings](https://open.spotify.com/track/1uVfXaNoJicLDMEEntCKDw) | [Neemz](https://open.spotify.com/artist/1klyF43vSKkOiQ7So5hVti) | [It's Above Me](https://open.spotify.com/album/0V1OyHUSASwtdjZmiEnDQH) | 3:17 |
-| 118 | [RESSURECT](https://open.spotify.com/track/5uVI3sDRqfbBL2SUzewtik) | [Leather Park](https://open.spotify.com/artist/7zwAV8QMBcclMJbWf7DmQ1), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Jeriq](https://open.spotify.com/artist/4Oph4YGsWzU9KAvZuuuG8z) | [LEATHER PARK \(VOL\. 1\)](https://open.spotify.com/album/6BNLRL7UHe27t2D0nw9lqV) | 2:54 |
-| 119 | [INTERSTELLAR \(feat\. Jahvor\)](https://open.spotify.com/track/33uQ6PJKdnYsvY6GBfBOKl) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [George Clanton](https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr), [Jahvor](https://open.spotify.com/artist/6Iqo4GihxRL5ULiITVuMv0) | [LOADING...](https://open.spotify.com/album/3TiHfUIEWKH4yXb9VL84IR) | 3:53 |
+| 118 | [INTERSTELLAR \(feat\. Jahvor\)](https://open.spotify.com/track/33uQ6PJKdnYsvY6GBfBOKl) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [George Clanton](https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr), [Jahvor](https://open.spotify.com/artist/6Iqo4GihxRL5ULiITVuMv0) | [LOADING...](https://open.spotify.com/album/3TiHfUIEWKH4yXb9VL84IR) | 3:53 |
+| 119 | [RESSURECT](https://open.spotify.com/track/5uVI3sDRqfbBL2SUzewtik) | [Leather Park](https://open.spotify.com/artist/7zwAV8QMBcclMJbWf7DmQ1), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Jeriq](https://open.spotify.com/artist/4Oph4YGsWzU9KAvZuuuG8z) | [LEATHER PARK \(VOL\. 1\)](https://open.spotify.com/album/6BNLRL7UHe27t2D0nw9lqV) | 2:54 |
 | 120 | [Olive \(feat\. Zelooperz\)](https://open.spotify.com/track/4CGM56g4eHDSjW97Psi9aW) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW), [Zelooperz](https://open.spotify.com/artist/5j93hwFBNo29RJMsWvtzj8) | [Almost There](https://open.spotify.com/album/2Zi2oIVwrNddAmeqeO96ig) | 2:04 |
 | 121 | [No More](https://open.spotify.com/track/6T3Yt7O6rxpeiRF1dxODQL) | [Andrea Valle](https://open.spotify.com/artist/0aRyQtFQR8Rcp7eceJyoSe) | [No More](https://open.spotify.com/album/4UCY9M6aQm4RikN8BsptLI) | 3:06 |
 | 122 | [Feels CoreCore](https://open.spotify.com/track/3grRcy3rbsNz4ao4X8apku) | [Benji Blue Bills](https://open.spotify.com/artist/7t6PzXRwTR6eb4lNHxyhIC), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG) | [Out The Blue](https://open.spotify.com/album/0VHFW4XiYdVxfUzfjkUkIc) | 2:44 |
@@ -176,4 +176,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 | 166 | [Teach Me.](https://open.spotify.com/track/6lk7eNQnklTjsEx30gUJ80) | [Ant Beale](https://open.spotify.com/artist/14piOhWdd0MbAPVmUqGLhH) | [Life's a Hazard](https://open.spotify.com/album/0UqowJBThZPMFlqPorNSR1) | 5:00 |
 | 167 | [Divided](https://open.spotify.com/track/6NJOdQyw2EPnRAstnXNTDG) | [Warner Meadows](https://open.spotify.com/artist/0FzMywSPPmb2hqv2gvcIFk) | [Divided](https://open.spotify.com/album/2zCmstd1DA381t9zoW8QDr) | 1:44 |
 
-Snapshot ID: `AcOmgAAAAACwcRpDcRV8gfDb4U23Q0zt`
+Snapshot ID: `AcOsIAAAAACYvEsVEQ51nSIlOv+X232n`

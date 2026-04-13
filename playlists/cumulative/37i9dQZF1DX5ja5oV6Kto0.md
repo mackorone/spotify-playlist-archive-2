@@ -4,7 +4,7 @@
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Anabel Rose
 
-1,054 songs - 2 day 2 hr 54 min
+1,055 songs - 2 day 2 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -439,6 +439,7 @@
 | [If I Tried](https://open.spotify.com/track/2B3PNPir3BzpEigu0YMbFt) | [Valerie Omari](https://open.spotify.com/artist/3N98mfZLBy9b9LjkhByak6), [The Rabbi Himself](https://open.spotify.com/artist/7o1o0zPFCBM0otuAEdjW1W) | [If I Tried](https://open.spotify.com/album/2K7sXFXwxw2SpgDUCFPdC0) | 3:20 | 2022-12-02 | 2023-02-10 |
 | [If You Don’t Mind](https://open.spotify.com/track/45iYlfv7l1O3eMnmQpFnFY) | [Fiokee](https://open.spotify.com/artist/0dIKXNriGyVYvw6Cw2jko5) | [If You Don’t Mind](https://open.spotify.com/album/69Jy0i1vAz4pBor0ESq9e4) | 2:43 | 2024-01-12 | 2024-04-05 |
 | [If You Say](https://open.spotify.com/track/0Gti54i0mUfipe9LQDsbGC) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ) | [Sweetness](https://open.spotify.com/album/12Z2vvO5UYrBygJEumBCXf) | 3:38 | 2021-11-11 | 2023-09-10 |
+| [If You Try](https://open.spotify.com/track/5vDaZI2RvpevJq7xUWkKSI) | [Ogeezy](https://open.spotify.com/artist/0SatsvdVxN5iPo2VTGPuVY), [Soundlykbb](https://open.spotify.com/artist/2izHnGuv9KzbPbfX6KsoTG), [Joka](https://open.spotify.com/artist/7umpHJB8guUwgjaP2ZryKw) | [If You Try](https://open.spotify.com/album/0iF3xgiDeR9hqRi3c62NdQ) | 2:56 | 2026-04-10 |  |
 | [Imimangaliso](https://open.spotify.com/track/1M7j3BdQiqzK30LehjOFDN) | [Lia Butler](https://open.spotify.com/artist/5OKv9ZYvL5vY2slfYqRYYG) | [Imimangaliso](https://open.spotify.com/album/2i1gn2wnib8HBe6J701ZgN) | 2:51 | 2024-10-04 | 2025-06-20 |
 | [Imperfect Daughters](https://open.spotify.com/track/481OshZ1RPTStU15tZLic7) | [Anabel Rose](https://open.spotify.com/artist/3eVgQnpc2p4D7ora60WBKb) | [Imperfect Daughters](https://open.spotify.com/album/50CBKVxs8tjeiQANBnb3nK) | 3:41 | 2026-03-20 |  |
 | [impossible](https://open.spotify.com/track/2vE3z6XBUsLuUgIA0MVbUe) | [Tochi Bedford](https://open.spotify.com/artist/1zeUMAJrOoMdWjU0BErMzn) | [impossible](https://open.spotify.com/album/0djaWlKgbcCWTQkkUxgY7M) | 2:26 | 2026-02-27 |  |
@@ -507,7 +508,7 @@
 | [Lackin](https://open.spotify.com/track/4xChpii9VTLnxj7AM9DO0t) | [Fresh L.](https://open.spotify.com/artist/5Req3092u4LKlAcv6kZALj), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [Lifestyle](https://open.spotify.com/album/70USnNa3bAg0XAoaukW1x1) | 1:37 | 2023-12-01 | 2024-01-05 |
 | [Lady](https://open.spotify.com/track/4KoqSg05fJYLpupUTcmNH7) | [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT) | [Nollypop](https://open.spotify.com/album/03P1bGF9cq12v8ZXxj0EJT) | 2:09 | 2024-12-13 | 2025-08-09 |
 | [LAGOS](https://open.spotify.com/track/0Yg8MfD8PBMTd0FhWWXrqK) | [DEELA](https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4), [Somadina](https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U) | [LAGOS](https://open.spotify.com/album/3PdhofyZlNFvqv3I9UMnef) | 2:41 | 2024-01-12 | 2024-03-22 |
-| [LAGOS](https://open.spotify.com/track/3H5ua10iU8NTD93zawcnVo) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp), [TR1GGA](https://open.spotify.com/artist/4VQFYrDf3IMmLPbQOF7Ve3) | [LAGOS](https://open.spotify.com/album/0kOF0DfPNby1aHYAIi4FXn) | 3:00 | 2025-11-07 |  |
+| [LAGOS](https://open.spotify.com/track/3H5ua10iU8NTD93zawcnVo) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp), [TR1GGA](https://open.spotify.com/artist/4VQFYrDf3IMmLPbQOF7Ve3) | [LAGOS](https://open.spotify.com/album/0kOF0DfPNby1aHYAIi4FXn) | 3:00 | 2025-11-07 | 2026-04-13 |
 | [Lagos 2 Crazy](https://open.spotify.com/track/35VmdxHqYHGMs5zr9815HQ) | [UAX](https://open.spotify.com/artist/5KIcYbv98M0MozhLs5lHnT), [TMXO](https://open.spotify.com/artist/6FKZZfl6Jbfyjd8DPChyCk) | [LOVE & HUSTLE](https://open.spotify.com/album/28UnTAsmLHRV708ogPuL4D) | 2:35 | 2024-04-26 | 2024-11-22 |
 | [Last Call](https://open.spotify.com/track/4vASmHoLBcndZfYv3vvBLH) | [RBJ](https://open.spotify.com/artist/3TgEQwGpMbs5mGx4coPViP), [BRYAN THE MENSAH](https://open.spotify.com/artist/2zsThoavhdt8NBt6OQLfw2) | [Last Call](https://open.spotify.com/album/3nqUm4ybg7MEcr8DEBBQ4B) | 3:21 | 2024-03-29 | 2024-07-05 |
 | [Last Thing](https://open.spotify.com/track/3wzSq2AgKp3KXVrAO6yj8h) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Last Thing](https://open.spotify.com/album/0OZATi1efmtpFw6d7ivEzf) | 2:42 | 2023-04-27 | 2023-06-24 |

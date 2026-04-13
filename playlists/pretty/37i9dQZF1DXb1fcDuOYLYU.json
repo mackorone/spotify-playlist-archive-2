@@ -1,6 +1,6 @@
 {
   "description": "These are the talented women of Latin music. Cover: Shakira",
-  "num_followers": 115907,
+  "num_followers": 115938,
   "original_name": "Women of Latin",
   "owner": {
     "name": "Spotify",
@@ -459,22 +459,6 @@
     {
       "added_at": "2026-03-06 15:26:08",
       "album": {
-        "name": "Entre A Mi Mundo",
-        "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 186373,
-      "name": "Como La Flor",
-      "url": "https://open.spotify.com/track/0gatssZ0J7pMAlvFCGZZGH"
-    },
-    {
-      "added_at": "2026-03-06 15:26:08",
-      "album": {
         "name": "K23",
         "url": "https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 139146,
       "name": "Malas Decisiones",
       "url": "https://open.spotify.com/track/6Xj014IHwbLVjiVT6H89on"
+    },
+    {
+      "added_at": "2026-03-06 15:26:08",
+      "album": {
+        "name": "Entre A Mi Mundo",
+        "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 186373,
+      "name": "Como La Flor",
+      "url": "https://open.spotify.com/track/0gatssZ0J7pMAlvFCGZZGH"
     },
     {
       "added_at": "2026-03-06 15:26:08",
@@ -711,6 +711,22 @@
     {
       "added_at": "2026-03-06 15:26:08",
       "album": {
+        "name": "Quiero +",
+        "url": "https://open.spotify.com/album/3eF6EiinfXf9fXbyLTxFDv"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 128487,
+      "name": "Quiero +",
+      "url": "https://open.spotify.com/track/3qwEwtnOb6TyJkSGYEm02h"
+    },
+    {
+      "added_at": "2026-03-06 15:26:08",
+      "album": {
         "name": "La Mala Era Yo",
         "url": "https://open.spotify.com/album/6ozCFSLuAcviqzd7fFn9AV"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 150000,
       "name": "La Mala Era Yo",
       "url": "https://open.spotify.com/track/2nCP0l4ZNJxVm7ZaKBC3mB"
-    },
-    {
-      "added_at": "2026-03-06 15:26:08",
-      "album": {
-        "name": "Quiero +",
-        "url": "https://open.spotify.com/album/3eF6EiinfXf9fXbyLTxFDv"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 128487,
-      "name": "Quiero +",
-      "url": "https://open.spotify.com/track/3qwEwtnOb6TyJkSGYEm02h"
     },
     {
       "added_at": "2026-03-06 15:26:08",
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-03-06 15:26:08",
       "album": {
-        "name": "GARC\u00cdA",
-        "url": "https://open.spotify.com/album/1nwWnsVZSWIpMebokmGwdo"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        }
-      ],
-      "duration_ms": 162721,
-      "name": "Garc\u00eda",
-      "url": "https://open.spotify.com/track/03Rj7wKcBWBT444nqDRVHa"
-    },
-    {
-      "added_at": "2026-03-06 15:26:08",
-      "album": {
         "name": "A Veces A Besos",
         "url": "https://open.spotify.com/album/63JayllHAHJ5N3auAorY2w"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 218613,
       "name": "A Veces A Besos",
       "url": "https://open.spotify.com/track/6AQgrZrFu1xfuAmbyXmKAE"
+    },
+    {
+      "added_at": "2026-03-06 15:26:08",
+      "album": {
+        "name": "GARC\u00cdA",
+        "url": "https://open.spotify.com/album/1nwWnsVZSWIpMebokmGwdo"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        }
+      ],
+      "duration_ms": 162721,
+      "name": "Garc\u00eda",
+      "url": "https://open.spotify.com/track/03Rj7wKcBWBT444nqDRVHa"
     },
     {
       "added_at": "2026-03-06 15:26:08",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-03-06 15:26:08",
       "album": {
-        "name": "L\u00e1rgate",
-        "url": "https://open.spotify.com/album/4ae7YIU9iWRBCCV7I23Nit"
-      },
-      "artists": [
-        {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
-        }
-      ],
-      "duration_ms": 180074,
-      "name": "L\u00e1rgate",
-      "url": "https://open.spotify.com/track/6xMEkgHI4X3biKg9fQ45RI"
-    },
-    {
-      "added_at": "2026-03-06 15:26:08",
-      "album": {
         "name": "CUARTO AZUL",
         "url": "https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 191368,
       "name": "SEGUNDO INTENTO",
       "url": "https://open.spotify.com/track/473FchgGiaKD5CsL7SOhJJ"
+    },
+    {
+      "added_at": "2026-03-06 15:26:08",
+      "album": {
+        "name": "L\u00e1rgate",
+        "url": "https://open.spotify.com/album/4ae7YIU9iWRBCCV7I23Nit"
+      },
+      "artists": [
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        }
+      ],
+      "duration_ms": 180074,
+      "name": "L\u00e1rgate",
+      "url": "https://open.spotify.com/track/6xMEkgHI4X3biKg9fQ45RI"
     },
     {
       "added_at": "2026-03-06 15:26:08",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2026-03-06 15:26:08",
       "album": {
-        "name": "De Pel\u00edcula",
-        "url": "https://open.spotify.com/album/1m9gX7fweiWCg91tQ9tCz9"
-      },
-      "artists": [
-        {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
-        }
-      ],
-      "duration_ms": 224333,
-      "name": "No Quer\u00edas Lastimarme",
-      "url": "https://open.spotify.com/track/3Mebiofe2IvOakAD792K3j"
-    },
-    {
-      "added_at": "2026-03-06 15:26:08",
-      "album": {
         "name": "Sin Llorar",
         "url": "https://open.spotify.com/album/7xmW8wBwAeNvLnZ5IUcFUE"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 222583,
       "name": "Sin Llorar",
       "url": "https://open.spotify.com/track/2mZkOJx1Cvfg6cEJJ0biaS"
+    },
+    {
+      "added_at": "2026-03-06 15:26:08",
+      "album": {
+        "name": "De Pel\u00edcula",
+        "url": "https://open.spotify.com/album/1m9gX7fweiWCg91tQ9tCz9"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "duration_ms": 224333,
+      "name": "No Quer\u00edas Lastimarme",
+      "url": "https://open.spotify.com/track/3Mebiofe2IvOakAD792K3j"
     },
     {
       "added_at": "2026-03-06 15:26:08",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2026-03-06 15:26:08",
       "album": {
+        "name": "Cactus",
+        "url": "https://open.spotify.com/album/4tENygDaMnwk2xajkMm5l1"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 183381,
+      "name": "Cactus",
+      "url": "https://open.spotify.com/track/213Q7w8RMi5qbj18kvWasy"
+    },
+    {
+      "added_at": "2026-03-06 15:26:08",
+      "album": {
         "name": "att.",
         "url": "https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 198409,
       "name": "no quiero pelear",
       "url": "https://open.spotify.com/track/73g6RENTgyeOn8vD04F2MT"
-    },
-    {
-      "added_at": "2026-03-06 15:26:08",
-      "album": {
-        "name": "Cactus",
-        "url": "https://open.spotify.com/album/4tENygDaMnwk2xajkMm5l1"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 183381,
-      "name": "Cactus",
-      "url": "https://open.spotify.com/track/213Q7w8RMi5qbj18kvWasy"
     },
     {
       "added_at": "2026-03-06 15:26:08",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2026-03-06 15:26:08",
       "album": {
-        "name": "Favorite Place",
-        "url": "https://open.spotify.com/album/09SzjW7xbr4UST7uKQq4m6"
-      },
-      "artists": [
-        {
-          "name": "maye",
-          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
-        }
-      ],
-      "duration_ms": 196415,
-      "name": "Favorite Place",
-      "url": "https://open.spotify.com/track/523GiEoDg0ulav50HZItuF"
-    },
-    {
-      "added_at": "2026-03-06 15:26:08",
-      "album": {
         "name": "Qui\u00e9reme Menos",
         "url": "https://open.spotify.com/album/7wU6rEuPAtlHXFqRnrdWic"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 213283,
       "name": "Qui\u00e9reme Menos",
       "url": "https://open.spotify.com/track/08lj7xleA0SBiLhrDZUqIU"
+    },
+    {
+      "added_at": "2026-03-06 15:26:08",
+      "album": {
+        "name": "Favorite Place",
+        "url": "https://open.spotify.com/album/09SzjW7xbr4UST7uKQq4m6"
+      },
+      "artists": [
+        {
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+        }
+      ],
+      "duration_ms": 196415,
+      "name": "Favorite Place",
+      "url": "https://open.spotify.com/track/523GiEoDg0ulav50HZItuF"
     },
     {
       "added_at": "2026-03-06 15:26:08",

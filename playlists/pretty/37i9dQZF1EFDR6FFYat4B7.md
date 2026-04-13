@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDR6FFYat4B7.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/40trXdaMwjkLgWVbptTsf1">Ilsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 553 likes - 165 songs - 9 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 554 likes - 165 songs - 9 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDR6FFYat4B7.md) - [plain]
 | 83 | [Day One](https://open.spotify.com/track/6QJVQSuMC77psM4vgPo31D) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ), [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4), [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [SABLE, fABLE](https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T) | 3:33 |
 | 84 | [Alfie's Song \(Not So Typical Love Song\)](https://open.spotify.com/track/4xYzcWOLM685vCa5AkJXe9) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Alfie's Song \(Not So Typical Love Song\)](https://open.spotify.com/album/7mxEr6CfzmRQN3c7PoAQIP) | 3:01 |
 | 85 | [Glitter & Honey](https://open.spotify.com/track/0iIo4xkWQFl5e1RHNOSOsh) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [I Miss You Already + I Haven’t Left Yet](https://open.spotify.com/album/5hPUHlf9lwHK4PZ1Fp0QoV) | 3:07 |
-| 86 | [Brighter Days \(feat\. Paul Janeway of St\. Paul & The Broken Bones\)](https://open.spotify.com/track/0OYXEBF7zantAzZdHuSkXI) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Paul Janeway of St\. Paul & The Broken Bones](https://open.spotify.com/artist/3LXppAFXdbOtym6ZRajha7) | [Brighter Days](https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11) | 3:56 |
-| 87 | [Dying Star \(feat\. Ethel Cain\)](https://open.spotify.com/track/55owCz7823hXvvTm3apoZ9) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [WEEDKILLER](https://open.spotify.com/album/4xZP0Vuf4DNK7wsp3ZKbQ0) | 4:15 |
+| 86 | [Dying Star \(feat\. Ethel Cain\)](https://open.spotify.com/track/55owCz7823hXvvTm3apoZ9) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [WEEDKILLER](https://open.spotify.com/album/4xZP0Vuf4DNK7wsp3ZKbQ0) | 4:15 |
+| 87 | [Brighter Days \(feat\. Paul Janeway of St\. Paul & The Broken Bones\)](https://open.spotify.com/track/0OYXEBF7zantAzZdHuSkXI) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Paul Janeway of St\. Paul & The Broken Bones](https://open.spotify.com/artist/3LXppAFXdbOtym6ZRajha7) | [Brighter Days](https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11) | 3:56 |
 | 88 | [Doll House](https://open.spotify.com/track/0lY79Da40npqJ8nYpTXKyq) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [I Miss You Already + I Haven’t Left Yet](https://open.spotify.com/album/5hPUHlf9lwHK4PZ1Fp0QoV) | 3:11 |
 | 89 | [utopia](https://open.spotify.com/track/6FJFq3GTvpPgw2xIfwmguR) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [so sad so sexy](https://open.spotify.com/album/28AjCPTvrM4gQIiwo0CEOE) | 3:43 |
 | 90 | [Sad Eyes](https://open.spotify.com/track/0qkkoL0bQBBWe4JU1NWcYt) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 4:10 |
@@ -157,8 +157,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDR6FFYat4B7.md) - [plain]
 | 147 | [Before The Sun Goes Down](https://open.spotify.com/track/3koztLmMH6DSP8NmI0Mc9f) | [The New Respects](https://open.spotify.com/artist/5lwtznzBlmVM2IhgrCWbT9) | [Before The Sun Goes Down](https://open.spotify.com/album/0LW7Gi4WOcZ1KaEWY0fY7M) | 2:51 |
 | 148 | [Make It Out Alive](https://open.spotify.com/track/1kbfcooO47ftBttfOg5EZG) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Night Call \(Deluxe\)](https://open.spotify.com/album/5JnUGpLYBxqEDuot5vlfSC) | 3:03 |
 | 149 | [Superhuman](https://open.spotify.com/track/087AijlT1LgtZSXZbisZrg) | [Jake Miller](https://open.spotify.com/artist/3gggmBN0erstm3YJvEGe3t) | [Overnight](https://open.spotify.com/album/00lWTbQ4MQezqzl0S8M37D) | 3:21 |
-| 150 | [Healing](https://open.spotify.com/track/2qDmcePA2WjCRYDXuZWboY) | [St\. Paul ](https://open.spotify.com/artist/3Qf1sWENF8FhnxoFgx7ppJ) | [Healing](https://open.spotify.com/album/2aED44NJjcTq8eUg7se6EH) | 3:07 |
-| 151 | [Guilty Conscience](https://open.spotify.com/track/6CadmhpVDOo7lgIPViMFv5) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [ANALYSIS PARALYSIS](https://open.spotify.com/album/11BzW2dtCfyLxr1rTckoCj) | 1:58 |
+| 150 | [Guilty Conscience](https://open.spotify.com/track/6CadmhpVDOo7lgIPViMFv5) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [ANALYSIS PARALYSIS](https://open.spotify.com/album/11BzW2dtCfyLxr1rTckoCj) | 1:58 |
+| 151 | [Healing](https://open.spotify.com/track/2qDmcePA2WjCRYDXuZWboY) | [St\. Paul ](https://open.spotify.com/artist/3Qf1sWENF8FhnxoFgx7ppJ) | [Healing](https://open.spotify.com/album/2aED44NJjcTq8eUg7se6EH) | 3:07 |
 | 152 | [Reminders](https://open.spotify.com/track/1Q8JztW596FWMzoBf2V3Sj) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Bouquet](https://open.spotify.com/album/50F6vOQBQF2qo1jwVTfv9J) | 3:18 |
 | 153 | [Someone Else](https://open.spotify.com/track/0vbqjI3TKufY0I33RtdXFD) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [From The Valley](https://open.spotify.com/album/7FghAqLEF3Qvjv91tcwKTc) | 3:32 |
 | 154 | [Show Me](https://open.spotify.com/track/7eBhckEcFgofknv0lR3lK7) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) | [Watch the Sound With Mark Ronson \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/625HHeWPzF6TRJlij0wqzv) | 3:21 |
@@ -174,4 +174,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDR6FFYat4B7.md) - [plain]
 | 164 | [Never Be the Same \(Janice Version\)](https://open.spotify.com/track/3TcbamuYWYAthnrfgB8Zcd) | [Janice Freeman](https://open.spotify.com/artist/1fPx8a7LcIn4fF21Euvhov) | [Never Be the Same \(Janice Version\)](https://open.spotify.com/album/22vTU5aT0UFkDfpp8u5LPs) | 3:35 |
 | 165 | [Slow Dance](https://open.spotify.com/track/48iQ59o2m0IFrTvPk1XRyY) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [My Stupid Life \(The Party That I Almost Missed\)](https://open.spotify.com/album/72eTTNHbA8QydOaUSZWFug) | 3:55 |
 
-Snapshot ID: `AcOmngAAAAAAkLjQec7/1woNg5631rL9`
+Snapshot ID: `AcOsPgAAAAA8nzW935KDvS7xP1scihi0`

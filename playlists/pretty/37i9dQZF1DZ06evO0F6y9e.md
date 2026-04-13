@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F6y9e.md) - [plain]
 
 > This is Grupo Firme\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,112,002 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,112,230 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F6y9e.md) - [plain]
 | 45 | [El Güero \(En Vivo\)](https://open.spotify.com/track/5ZRMUce9HCMJpiIN5rSEYs) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [El Güero \(En Vivo\)](https://open.spotify.com/album/7JWISvo58VF6E1zefmcMym) | 3:33 |
 | 46 | [Cómo Pudiste \(En Vivo\)](https://open.spotify.com/track/6qioUHZ4zBU3v9k3lQAJx2) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g), [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Julio Preciado](https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3) | [Desde La Playa, Vol\. 3 \(En Vivo\)](https://open.spotify.com/album/34cKEFiNsJI3o0Nl1TB88I) | 3:29 |
 | 47 | [Valió La Pena Equivocarme \(En Vivo\)](https://open.spotify.com/track/43dC0MzrNgB0yY6nnuNfgT) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Desde Mazatlán, Sinaloa \(En Vivo\)](https://open.spotify.com/album/6VE5VAjHrptT2rWYr8xeIW) | 4:01 |
-| 48 | [En Realidad \(En Vivo\)](https://open.spotify.com/track/3TTDDA0X7UWMUG5qxJf4uq) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Banda Coloso](https://open.spotify.com/artist/4SmIb5onxiijhyC8BilFED) | [En Realidad \(En Vivo\)](https://open.spotify.com/album/7G1Uu7W0FCmIVqSoDECDnA) | 3:28 |
-| 49 | [El Roto \(En Vivo\)](https://open.spotify.com/track/7yPTuRbi0UUUmiT04Jshhc) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Los Contacto](https://open.spotify.com/artist/1T746ELZF5gDelGXV5W5KE) | [El Roto \(En Vivo\)](https://open.spotify.com/album/3wVwuq9AQvjM2duYyhQrCJ) | 3:13 |
+| 48 | [El Roto \(En Vivo\)](https://open.spotify.com/track/7yPTuRbi0UUUmiT04Jshhc) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Los Contacto](https://open.spotify.com/artist/1T746ELZF5gDelGXV5W5KE) | [El Roto \(En Vivo\)](https://open.spotify.com/album/3wVwuq9AQvjM2duYyhQrCJ) | 3:13 |
+| 49 | [En Realidad \(En Vivo\)](https://open.spotify.com/track/3TTDDA0X7UWMUG5qxJf4uq) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Banda Coloso](https://open.spotify.com/artist/4SmIb5onxiijhyC8BilFED) | [En Realidad \(En Vivo\)](https://open.spotify.com/album/7G1Uu7W0FCmIVqSoDECDnA) | 3:28 |
 | 50 | [Cuánto Cuesta](https://open.spotify.com/track/7bcIXJ7FXmAxPxjP2dbt1M) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Cuánto Cuesta](https://open.spotify.com/album/1gvqyzXOiMGuJKNhSLGdRf) | 2:54 |
 
-Snapshot ID: `adg9gAAAAAAC5EVqW9kwqvtCO+g81Fhd`
+Snapshot ID: `admPAAAAAABfepJjlVIKXIzabYv7oLhf`

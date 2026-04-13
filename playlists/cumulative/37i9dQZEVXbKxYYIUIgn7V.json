@@ -6417,6 +6417,24 @@
     },
     {
       "album": {
+        "name": "Estilo R'S",
+        "url": "https://open.spotify.com/album/0AAD3DOO4EcVHNphsLE31J"
+      },
+      "artists": [
+        {
+          "name": "El De Las R's",
+          "url": "https://open.spotify.com/artist/6LRccuxVVYoqRQif85sG9j"
+        }
+      ],
+      "date_added": "2026-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133564,
+      "name": "Beretta (De Los Cerros La Escuela)",
+      "url": "https://open.spotify.com/track/2T6bX3rxdMc9V7ErfOB5yG"
+    },
+    {
+      "album": {
         "name": "Berg Rave",
         "url": "https://open.spotify.com/album/0ldTriobb4bhr3zsYbUaTi"
       },
@@ -16820,7 +16838,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 153351,
       "name": "Fabulous",
       "url": "https://open.spotify.com/track/1LkpaAtSjAx5n4rrTkIQyu"
@@ -26640,6 +26658,24 @@
     {
       "album": {
         "name": "No Dogs Allowed",
+        "url": "https://open.spotify.com/album/7mXf592qrnsQ7qAvV7Aluz"
+      },
+      "artists": [
+        {
+          "name": "Sidney Gish",
+          "url": "https://open.spotify.com/artist/2orBKFyc84jo9AZH5jarhI"
+        }
+      ],
+      "date_added": "2026-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294260,
+      "name": "Impostor Syndrome",
+      "url": "https://open.spotify.com/track/33KU9huHP1Lv1UWWVkuTYd"
+    },
+    {
+      "album": {
+        "name": "No Dogs Allowed",
         "url": "https://open.spotify.com/album/3jgktTCGathax8HKW4aGfg"
       },
       "artists": [
@@ -28180,7 +28216,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-25",
+      "date_removed": null,
       "duration_ms": 181581,
       "name": "Kakalika",
       "url": "https://open.spotify.com/track/1p5F0slR5AF49EDX5o125x"
@@ -43783,6 +43819,24 @@
     },
     {
       "album": {
+        "name": "WANT (Deluxe)",
+        "url": "https://open.spotify.com/album/10xgy5KkSpP3prnygQmFoN"
+      },
+      "artists": [
+        {
+          "name": "3OH!3",
+          "url": "https://open.spotify.com/artist/0FWzNDaEu9jdgcYTbcOa4F"
+        }
+      ],
+      "date_added": "2026-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199600,
+      "name": "RICHMAN",
+      "url": "https://open.spotify.com/track/1Q1lQKlgXBXWF1Bb8eRvhq"
+    },
+    {
+      "album": {
         "name": "WANT",
         "url": "https://open.spotify.com/album/6MSOHtUiG49Grd7BdZrRUm"
       },
@@ -43794,7 +43848,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 199600,
       "name": "RICHMAN",
       "url": "https://open.spotify.com/track/3JfbMm4LfBmm96mkKhyG6I"
@@ -49848,7 +49902,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 136000,
       "name": "Superhelden - Niklas Dee Remix",
       "url": "https://open.spotify.com/track/2CYCoDZhj3LNLKP0cUL23g"
@@ -55866,7 +55920,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 122666,
       "name": "VV",
       "url": "https://open.spotify.com/track/1JO2pW8GgsoAMsQYZXk5Gb"

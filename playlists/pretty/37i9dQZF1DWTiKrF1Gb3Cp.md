@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiKrF1Gb3Cp.md) - [plain]
 
 > Musicaliza tu sesión de videojuegos con estos versos de barrio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,633 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,680 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiKrF1Gb3Cp.md) - [plain]
 | 79 | [BELIKON](https://open.spotify.com/track/3cZ7HCLpXjKGy0mLNNPvxr) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [THE GB](https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc) | 2:33 |
 | 80 | [TOTO](https://open.spotify.com/track/4x9Uk4DzCGMUyfiKOw42bC) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [ONDEADO$](https://open.spotify.com/album/44U3Xm9U4Krj0Iv5w7kuTK) | 2:29 |
 | 81 | [Fe](https://open.spotify.com/track/5E3DUwke6Or4h5rosrn5Z1) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Fe](https://open.spotify.com/album/0Roxdafecg5p3VQXUBfNkP) | 4:14 |
-| 82 | [Un Antes y Un Después](https://open.spotify.com/track/6B6qzSyFwkF1xV8t2zHpOP) | [Beto Vega](https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak) | [Un Antes y un Después](https://open.spotify.com/album/4f86mPhD4aW8wsymxEGzAn) | 2:28 |
-| 83 | [La Caravana](https://open.spotify.com/track/3v5V1Ro9eUq141arz1ODow) | [Bandi2](https://open.spotify.com/artist/31hQsDuP9VSY5kc5jQnQfW), [Yahir Saldivar](https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ) | [La Caravana](https://open.spotify.com/album/0i9rS0UsC865Lk7kF2u9Bk) | 2:23 |
+| 82 | [La Caravana](https://open.spotify.com/track/3v5V1Ro9eUq141arz1ODow) | [Bandi2](https://open.spotify.com/artist/31hQsDuP9VSY5kc5jQnQfW), [Yahir Saldivar](https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ) | [La Caravana](https://open.spotify.com/album/0i9rS0UsC865Lk7kF2u9Bk) | 2:23 |
+| 83 | [Un Antes y Un Después](https://open.spotify.com/track/6B6qzSyFwkF1xV8t2zHpOP) | [Beto Vega](https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak) | [Un Antes y un Después](https://open.spotify.com/album/4f86mPhD4aW8wsymxEGzAn) | 2:28 |
 | 84 | [CH](https://open.spotify.com/track/4bOK2uHs1LJG0lT072AOTg) | [Chicho Castro y Sus Alia2](https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC) | [CH](https://open.spotify.com/album/4aYdZgEbK585VOvbc0p5y5) | 2:53 |
 | 85 | [A la puta orden](https://open.spotify.com/track/7EcW65aV9P6IVNCH9OM4ad) | [Capotes](https://open.spotify.com/artist/5UO8LWE2yyh4f6Xp1hUmev), [Joel De La P](https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5) | [A la puta orden](https://open.spotify.com/album/2LjM09NO3Y96chQjYDgGP6) | 2:36 |
 | 86 | [Se Rumora](https://open.spotify.com/track/5kK5N62V7fPenNQZESjuH8) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Se Rumora](https://open.spotify.com/album/7pYSDOHmFBIwXSD8fjgElh) | 4:12 |

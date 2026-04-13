@@ -1,6 +1,6 @@
 {
   "description": "A salute to all of the women who open up the pit. Cover: Amy Lee of Evanescence, Poppy & Courtney LaPlante of Spiritbox",
-  "num_followers": 776937,
+  "num_followers": 777058,
   "original_name": "Women of Metal",
   "owner": {
     "name": "Spotify",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-03-31 10:40:40",
       "album": {
-        "name": "ICONIC",
-        "url": "https://open.spotify.com/album/2OeQSCyzpoWeldbn3X57Wf"
-      },
-      "artists": [
-        {
-          "name": "\u82b1\u51b7\u3048\u3002",
-          "url": "https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h"
-        }
-      ],
-      "duration_ms": 206944,
-      "name": "ICONIC",
-      "url": "https://open.spotify.com/track/5Ppth5M7hMNzW64Snwmzyt"
-    },
-    {
-      "added_at": "2026-03-31 10:40:40",
-      "album": {
         "name": "Sonic Jihad",
         "url": "https://open.spotify.com/album/393lg8s4V5bOSXosvsNANq"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 160588,
       "name": "Labyrinth",
       "url": "https://open.spotify.com/track/27fpZXWUZbS4v1fIcPpJEF"
+    },
+    {
+      "added_at": "2026-03-31 10:40:40",
+      "album": {
+        "name": "ICONIC",
+        "url": "https://open.spotify.com/album/2OeQSCyzpoWeldbn3X57Wf"
+      },
+      "artists": [
+        {
+          "name": "\u82b1\u51b7\u3048\u3002",
+          "url": "https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h"
+        }
+      ],
+      "duration_ms": 206944,
+      "name": "ICONIC",
+      "url": "https://open.spotify.com/track/5Ppth5M7hMNzW64Snwmzyt"
     },
     {
       "added_at": "2026-03-31 10:40:40",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2026-03-31 10:40:40",
       "album": {
-        "name": "Edge of the Abyss",
-        "url": "https://open.spotify.com/album/721FHMhryOj2trRzrV4twJ"
-      },
-      "artists": [
-        {
-          "name": "Calva Louise",
-          "url": "https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "Under The Skin",
-      "url": "https://open.spotify.com/track/58DzQUCO4CTDaiF152lClc"
-    },
-    {
-      "added_at": "2026-03-31 10:40:40",
-      "album": {
         "name": "Soma",
         "url": "https://open.spotify.com/album/0NJnkmiOTt8jf3Ve4u6s69"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 215146,
       "name": "Crucif\u00e8re",
       "url": "https://open.spotify.com/track/6qjdS4EwDwnwliqqgvukv8"
+    },
+    {
+      "added_at": "2026-03-31 10:40:40",
+      "album": {
+        "name": "Edge of the Abyss",
+        "url": "https://open.spotify.com/album/721FHMhryOj2trRzrV4twJ"
+      },
+      "artists": [
+        {
+          "name": "Calva Louise",
+          "url": "https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Under The Skin",
+      "url": "https://open.spotify.com/track/58DzQUCO4CTDaiF152lClc"
     },
     {
       "added_at": "2026-03-31 10:40:40",

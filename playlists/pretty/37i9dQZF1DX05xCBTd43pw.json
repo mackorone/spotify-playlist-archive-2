@@ -1,6 +1,6 @@
 {
   "description": "Aus der Schweiz f\u00fcr dich \u2013 musique suisse \u2013 musica svizzera \ud83c\udde8\ud83c\udded\nCover: Eileen Alister",
-  "num_followers": 37761,
+  "num_followers": 37760,
   "original_name": "Swiss Made",
   "owner": {
     "name": "Spotify",
@@ -411,6 +411,22 @@
     {
       "added_at": "2026-04-02 22:01:09",
       "album": {
+        "name": "Mindreader",
+        "url": "https://open.spotify.com/album/16SV6RzmnV9PM2gUtiu0MZ"
+      },
+      "artists": [
+        {
+          "name": "Hazel Rose",
+          "url": "https://open.spotify.com/artist/24tXzUYMQwtDjajAAIJVt8"
+        }
+      ],
+      "duration_ms": 184578,
+      "name": "Mindreader",
+      "url": "https://open.spotify.com/track/5wcA85plXK7wQuQRafrCob"
+    },
+    {
+      "added_at": "2026-04-02 22:01:09",
+      "album": {
         "name": "Enough",
         "url": "https://open.spotify.com/album/1gXNFFoqxKAFpjEQNoaD1A"
       },
@@ -459,22 +475,6 @@
     {
       "added_at": "2026-04-02 22:01:09",
       "album": {
-        "name": "No Good For Me",
-        "url": "https://open.spotify.com/album/5wnz1WogLgn1bU9VGaSD2W"
-      },
-      "artists": [
-        {
-          "name": "Roxane",
-          "url": "https://open.spotify.com/artist/5Gr80iuuvY4PmSLDoIx4WD"
-        }
-      ],
-      "duration_ms": 193271,
-      "name": "No Good For Me",
-      "url": "https://open.spotify.com/track/6SDTjpUUegMrlkM7wzeM71"
-    },
-    {
-      "added_at": "2026-04-02 22:01:09",
-      "album": {
         "name": "fire",
         "url": "https://open.spotify.com/album/1hgAohjAQrlGl43jp3gipc"
       },
@@ -491,18 +491,18 @@
     {
       "added_at": "2026-04-02 22:01:09",
       "album": {
-        "name": "Mindreader",
-        "url": "https://open.spotify.com/album/16SV6RzmnV9PM2gUtiu0MZ"
+        "name": "No Good For Me",
+        "url": "https://open.spotify.com/album/5wnz1WogLgn1bU9VGaSD2W"
       },
       "artists": [
         {
-          "name": "Hazel Rose",
-          "url": "https://open.spotify.com/artist/24tXzUYMQwtDjajAAIJVt8"
+          "name": "Roxane",
+          "url": "https://open.spotify.com/artist/5Gr80iuuvY4PmSLDoIx4WD"
         }
       ],
-      "duration_ms": 184578,
-      "name": "Mindreader",
-      "url": "https://open.spotify.com/track/5wcA85plXK7wQuQRafrCob"
+      "duration_ms": 193271,
+      "name": "No Good For Me",
+      "url": "https://open.spotify.com/track/6SDTjpUUegMrlkM7wzeM71"
     },
     {
       "added_at": "2026-04-02 22:01:09",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-04-02 22:01:09",
       "album": {
-        "name": "The World (AR)",
-        "url": "https://open.spotify.com/album/0Z3Y8pPAKhiJpVZTd1p8t6"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Amaru",
-          "url": "https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp"
-        }
-      ],
-      "duration_ms": 227651,
-      "name": "The World (AR)",
-      "url": "https://open.spotify.com/track/7yNz3NhMVoWP4g7zqdEvns"
-    },
-    {
-      "added_at": "2026-04-02 22:01:09",
-      "album": {
         "name": "Playgrounds In Ruins (Deluxe)",
         "url": "https://open.spotify.com/album/6TuHCVJ7fwDYlZzZKwffiB"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 203370,
       "name": "Divine",
       "url": "https://open.spotify.com/track/6a3nYH5MyNpjWgu5xggbdo"
+    },
+    {
+      "added_at": "2026-04-02 22:01:09",
+      "album": {
+        "name": "The World (AR)",
+        "url": "https://open.spotify.com/album/0Z3Y8pPAKhiJpVZTd1p8t6"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Amaru",
+          "url": "https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp"
+        }
+      ],
+      "duration_ms": 227651,
+      "name": "The World (AR)",
+      "url": "https://open.spotify.com/track/7yNz3NhMVoWP4g7zqdEvns"
     },
     {
       "added_at": "2026-04-02 22:01:09",
@@ -851,18 +851,18 @@
     {
       "added_at": "2026-04-02 22:01:09",
       "album": {
-        "name": "[fuck it]",
-        "url": "https://open.spotify.com/album/1VZCMkCZf5N6yLr5jlMasM"
+        "name": "Stories of the XXI",
+        "url": "https://open.spotify.com/album/5nGM72Vr3X2zq1bqxtC6GG"
       },
       "artists": [
         {
-          "name": "The Gardener & The Tree",
-          "url": "https://open.spotify.com/artist/1GarejqGHyKM1adTFnB4NN"
+          "name": "Bastian Baker",
+          "url": "https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC"
         }
       ],
-      "duration_ms": 174527,
-      "name": "[fuck it]",
-      "url": "https://open.spotify.com/track/6pYDn2ulHzNFsqW2jXMCwj"
+      "duration_ms": 175093,
+      "name": "Call Me in L.A.",
+      "url": "https://open.spotify.com/track/0AQa2zcUia32ZfDTUqL617"
     },
     {
       "added_at": "2026-04-02 22:01:09",
@@ -887,18 +887,18 @@
     {
       "added_at": "2026-04-02 22:01:09",
       "album": {
-        "name": "Stories of the XXI",
-        "url": "https://open.spotify.com/album/5nGM72Vr3X2zq1bqxtC6GG"
+        "name": "[fuck it]",
+        "url": "https://open.spotify.com/album/1VZCMkCZf5N6yLr5jlMasM"
       },
       "artists": [
         {
-          "name": "Bastian Baker",
-          "url": "https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC"
+          "name": "The Gardener & The Tree",
+          "url": "https://open.spotify.com/artist/1GarejqGHyKM1adTFnB4NN"
         }
       ],
-      "duration_ms": 175093,
-      "name": "Call Me in L.A.",
-      "url": "https://open.spotify.com/track/0AQa2zcUia32ZfDTUqL617"
+      "duration_ms": 174527,
+      "name": "[fuck it]",
+      "url": "https://open.spotify.com/track/6pYDn2ulHzNFsqW2jXMCwj"
     },
     {
       "added_at": "2026-04-02 22:01:09",
@@ -919,22 +919,6 @@
     {
       "added_at": "2026-04-02 22:01:09",
       "album": {
-        "name": "Lovers",
-        "url": "https://open.spotify.com/album/570kqavY51UzlC6nYTOKo4"
-      },
-      "artists": [
-        {
-          "name": "Chiara Castelli",
-          "url": "https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33"
-        }
-      ],
-      "duration_ms": 176769,
-      "name": "Lovers",
-      "url": "https://open.spotify.com/track/3RyPjY4LSckFzV0VstzTQD"
-    },
-    {
-      "added_at": "2026-04-02 22:01:09",
-      "album": {
         "name": "Young Bones",
         "url": "https://open.spotify.com/album/6T6rIiwTaM8OixBIhHfnMW"
       },
@@ -951,18 +935,18 @@
     {
       "added_at": "2026-04-02 22:01:09",
       "album": {
-        "name": "Heal Me",
-        "url": "https://open.spotify.com/album/4o59BEGqiVMNsCOXaLFhfC"
+        "name": "Lovers",
+        "url": "https://open.spotify.com/album/570kqavY51UzlC6nYTOKo4"
       },
       "artists": [
         {
-          "name": "Argyle",
-          "url": "https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg"
+          "name": "Chiara Castelli",
+          "url": "https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33"
         }
       ],
-      "duration_ms": 215300,
-      "name": "Heal Me",
-      "url": "https://open.spotify.com/track/2eZ6q2HQGaE3jB4VTDHCBV"
+      "duration_ms": 176769,
+      "name": "Lovers",
+      "url": "https://open.spotify.com/track/3RyPjY4LSckFzV0VstzTQD"
     },
     {
       "added_at": "2026-04-02 22:01:09",
@@ -979,6 +963,22 @@
       "duration_ms": 163338,
       "name": "Time to Shine",
       "url": "https://open.spotify.com/track/6D3HZbLX4Z6UFb7ljFG2U0"
+    },
+    {
+      "added_at": "2026-04-02 22:01:09",
+      "album": {
+        "name": "Heal Me",
+        "url": "https://open.spotify.com/album/4o59BEGqiVMNsCOXaLFhfC"
+      },
+      "artists": [
+        {
+          "name": "Argyle",
+          "url": "https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg"
+        }
+      ],
+      "duration_ms": 215300,
+      "name": "Heal Me",
+      "url": "https://open.spotify.com/track/2eZ6q2HQGaE3jB4VTDHCBV"
     },
     {
       "added_at": "2026-04-02 22:01:09",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2026-04-02 22:01:09",
       "album": {
-        "name": "Durch die Nacht",
-        "url": "https://open.spotify.com/album/1hBh0ZBiCCrvqa74zg9I97"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00eb M\u00eb",
-          "url": "https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN"
-        }
-      ],
-      "duration_ms": 173830,
-      "name": "Durch die Nacht",
-      "url": "https://open.spotify.com/track/54WetU6QXj1HMTMVytTpr8"
-    },
-    {
-      "added_at": "2026-04-02 22:01:09",
-      "album": {
         "name": "Love Is A Lie",
         "url": "https://open.spotify.com/album/4UFBXEuqazPcVNvzcm11M4"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 139683,
       "name": "Love Is A Lie",
       "url": "https://open.spotify.com/track/3Ji9fllpDPn8DQGkFnLaBY"
+    },
+    {
+      "added_at": "2026-04-02 22:01:09",
+      "album": {
+        "name": "Durch die Nacht",
+        "url": "https://open.spotify.com/album/1hBh0ZBiCCrvqa74zg9I97"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb M\u00eb",
+          "url": "https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN"
+        }
+      ],
+      "duration_ms": 173830,
+      "name": "Durch die Nacht",
+      "url": "https://open.spotify.com/track/54WetU6QXj1HMTMVytTpr8"
     },
     {
       "added_at": "2026-04-02 22:01:09",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2026-04-02 22:01:09",
       "album": {
+        "name": "These Walls",
+        "url": "https://open.spotify.com/album/6aLdjyeTqqpkUk86IaE69g"
+      },
+      "artists": [
+        {
+          "name": "Luca H\u00e4nni",
+          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
+        }
+      ],
+      "duration_ms": 184893,
+      "name": "These Walls",
+      "url": "https://open.spotify.com/track/5fr2nes4H8khGAlOT9Vj6t"
+    },
+    {
+      "added_at": "2026-04-02 22:01:09",
+      "album": {
         "name": "Blue Rider, Blue Faced",
         "url": "https://open.spotify.com/album/5aMb0lWLkrRnwmc1eH3Llr"
       },
@@ -1199,18 +1215,18 @@
     {
       "added_at": "2026-04-02 22:01:09",
       "album": {
-        "name": "These Walls",
-        "url": "https://open.spotify.com/album/6aLdjyeTqqpkUk86IaE69g"
+        "name": "Type Of Way",
+        "url": "https://open.spotify.com/album/3ZaRCKIxP10Nf10xjirFfj"
       },
       "artists": [
         {
-          "name": "Luca H\u00e4nni",
-          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
+          "name": "Marlin",
+          "url": "https://open.spotify.com/artist/4CYjGEYERBkCTF2fK2QjVG"
         }
       ],
-      "duration_ms": 184893,
-      "name": "These Walls",
-      "url": "https://open.spotify.com/track/5fr2nes4H8khGAlOT9Vj6t"
+      "duration_ms": 194750,
+      "name": "Type Of Way",
+      "url": "https://open.spotify.com/track/21ZNEpSVD3aawNNRmed3uV"
     },
     {
       "added_at": "2026-04-02 22:01:09",
@@ -1247,22 +1263,6 @@
     {
       "added_at": "2026-04-02 22:01:09",
       "album": {
-        "name": "Type Of Way",
-        "url": "https://open.spotify.com/album/3ZaRCKIxP10Nf10xjirFfj"
-      },
-      "artists": [
-        {
-          "name": "Marlin",
-          "url": "https://open.spotify.com/artist/4CYjGEYERBkCTF2fK2QjVG"
-        }
-      ],
-      "duration_ms": 194750,
-      "name": "Type Of Way",
-      "url": "https://open.spotify.com/track/21ZNEpSVD3aawNNRmed3uV"
-    },
-    {
-      "added_at": "2026-04-02 22:01:09",
-      "album": {
         "name": "Stranger",
         "url": "https://open.spotify.com/album/6YFNqJt03Zb2ZXVIm6YyQL"
       },
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2026-04-02 22:01:09",
       "album": {
-        "name": "Low Tide",
-        "url": "https://open.spotify.com/album/1jmxE0EMixooHHrPMwLGeM"
+        "name": "Down To My Bones",
+        "url": "https://open.spotify.com/album/6qrZVY8wS9AiYjNaHTXreD"
       },
       "artists": [
         {
-          "name": "DANA",
-          "url": "https://open.spotify.com/artist/3rQLVRDmnGhPhFBp4Q35Rr"
+          "name": "Remo Forrer",
+          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
         }
       ],
-      "duration_ms": 161340,
-      "name": "Low Tide",
-      "url": "https://open.spotify.com/track/44LdsGW3nKLfkp0WeInuEC"
+      "duration_ms": 201541,
+      "name": "Down To My Bones",
+      "url": "https://open.spotify.com/track/634vnGPykpqsgpMJlW9XOj"
     },
     {
       "added_at": "2026-04-02 22:01:09",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2026-04-02 22:01:09",
       "album": {
-        "name": "Down To My Bones",
-        "url": "https://open.spotify.com/album/6qrZVY8wS9AiYjNaHTXreD"
+        "name": "Low Tide",
+        "url": "https://open.spotify.com/album/1jmxE0EMixooHHrPMwLGeM"
       },
       "artists": [
         {
-          "name": "Remo Forrer",
-          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
+          "name": "DANA",
+          "url": "https://open.spotify.com/artist/3rQLVRDmnGhPhFBp4Q35Rr"
         }
       ],
-      "duration_ms": 201541,
-      "name": "Down To My Bones",
-      "url": "https://open.spotify.com/track/634vnGPykpqsgpMJlW9XOj"
+      "duration_ms": 161340,
+      "name": "Low Tide",
+      "url": "https://open.spotify.com/track/44LdsGW3nKLfkp0WeInuEC"
     },
     {
       "added_at": "2026-04-02 22:01:09",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2026-04-02 22:01:09",
       "album": {
-        "name": "Superpower",
-        "url": "https://open.spotify.com/album/2fclAXbuvFGnRmJZFXaK3n"
-      },
-      "artists": [
-        {
-          "name": "Black Sea Dahu",
-          "url": "https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70"
-        }
-      ],
-      "duration_ms": 284786,
-      "name": "Superpower",
-      "url": "https://open.spotify.com/track/3km0TRpKgO2YKtL6emfxqp"
-    },
-    {
-      "added_at": "2026-04-02 22:01:09",
-      "album": {
         "name": "January",
         "url": "https://open.spotify.com/album/5CuTx7FzFZa3HvNHi6wlC2"
       },
@@ -1475,6 +1459,22 @@
     {
       "added_at": "2026-04-02 22:01:09",
       "album": {
+        "name": "Superpower",
+        "url": "https://open.spotify.com/album/2fclAXbuvFGnRmJZFXaK3n"
+      },
+      "artists": [
+        {
+          "name": "Black Sea Dahu",
+          "url": "https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70"
+        }
+      ],
+      "duration_ms": 284786,
+      "name": "Superpower",
+      "url": "https://open.spotify.com/track/3km0TRpKgO2YKtL6emfxqp"
+    },
+    {
+      "added_at": "2026-04-02 22:01:09",
+      "album": {
         "name": "Born To Be Blue",
         "url": "https://open.spotify.com/album/3ZqxWb4ror9WT1QT7GuV8c"
       },
@@ -1487,22 +1487,6 @@
       "duration_ms": 171753,
       "name": "Born To Be Blue",
       "url": "https://open.spotify.com/track/04zo7BvWV2yNzgpRNhgKFw"
-    },
-    {
-      "added_at": "2026-04-02 22:01:09",
-      "album": {
-        "name": "Side Effects",
-        "url": "https://open.spotify.com/album/6aDqBN54TRlVhN4hdoPyF7"
-      },
-      "artists": [
-        {
-          "name": "Marlin",
-          "url": "https://open.spotify.com/artist/4CYjGEYERBkCTF2fK2QjVG"
-        }
-      ],
-      "duration_ms": 167142,
-      "name": "Side Effects",
-      "url": "https://open.spotify.com/track/71sJonMpsxAnCGNJdCEjXU"
     },
     {
       "added_at": "2026-04-02 22:01:09",
@@ -1539,6 +1523,22 @@
       "duration_ms": 151250,
       "name": "Roommates",
       "url": "https://open.spotify.com/track/48tRJaSTyD9JJ1qcybPZiq"
+    },
+    {
+      "added_at": "2026-04-02 22:01:09",
+      "album": {
+        "name": "Side Effects",
+        "url": "https://open.spotify.com/album/6aDqBN54TRlVhN4hdoPyF7"
+      },
+      "artists": [
+        {
+          "name": "Marlin",
+          "url": "https://open.spotify.com/artist/4CYjGEYERBkCTF2fK2QjVG"
+        }
+      ],
+      "duration_ms": 167142,
+      "name": "Side Effects",
+      "url": "https://open.spotify.com/track/71sJonMpsxAnCGNJdCEjXU"
     },
     {
       "added_at": "2026-04-02 22:01:09",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2026-04-02 22:01:09",
       "album": {
+        "name": "oxygen",
+        "url": "https://open.spotify.com/album/4EDGkCx4podx97NEbColdz"
+      },
+      "artists": [
+        {
+          "name": "Joya Marleen",
+          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
+        }
+      ],
+      "duration_ms": 184761,
+      "name": "oxygen",
+      "url": "https://open.spotify.com/track/2mi0tvl5H88Z7hVvQVA27T"
+    },
+    {
+      "added_at": "2026-04-02 22:01:09",
+      "album": {
         "name": "Exit Wound",
         "url": "https://open.spotify.com/album/68SbLgPXANkmt0yqEuvntV"
       },
@@ -1627,34 +1643,18 @@
     {
       "added_at": "2026-04-02 22:01:09",
       "album": {
-        "name": "oxygen",
-        "url": "https://open.spotify.com/album/4EDGkCx4podx97NEbColdz"
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/7pn0jxc1CHp2VOuCcHaOfd"
       },
       "artists": [
         {
-          "name": "Joya Marleen",
-          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
+          "name": "Stefanie Heinzmann",
+          "url": "https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5"
         }
       ],
-      "duration_ms": 184761,
-      "name": "oxygen",
-      "url": "https://open.spotify.com/track/2mi0tvl5H88Z7hVvQVA27T"
-    },
-    {
-      "added_at": "2026-04-02 22:01:09",
-      "album": {
-        "name": "Winter Soldier",
-        "url": "https://open.spotify.com/album/0tQFT6ivrMs7bgsecR1hmz"
-      },
-      "artists": [
-        {
-          "name": "Elena Flury",
-          "url": "https://open.spotify.com/artist/3Qje1fgX9cfwugPCAG6Uuy"
-        }
-      ],
-      "duration_ms": 197720,
-      "name": "Winter Soldier",
-      "url": "https://open.spotify.com/track/3vvUl1Nqr4l3zyRaB596zl"
+      "duration_ms": 176733,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/64DAkoW3n3vD48E7i19K8Z"
     }
   ],
   "unique_name": "Swiss Made",

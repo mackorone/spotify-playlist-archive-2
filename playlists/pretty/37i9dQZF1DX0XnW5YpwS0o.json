@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2016. Cover: AURORA",
-  "num_followers": 123436,
+  "num_followers": 123493,
   "original_name": "Best of Indie 2016",
   "owner": {
     "name": "Spotify",
@@ -75,18 +75,18 @@
     {
       "added_at": "2026-01-20 18:32:57",
       "album": {
-        "name": "SALES LP",
-        "url": "https://open.spotify.com/album/7ywSMs3G2OWOGVKMqc7KsE"
+        "name": "Two Vines (Deluxe)",
+        "url": "https://open.spotify.com/album/4ARTgZcw7MLmjQkZ4zPptP"
       },
       "artists": [
         {
-          "name": "SALES",
-          "url": "https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN"
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
         }
       ],
-      "duration_ms": 187333,
-      "name": "Pope Is a Rockstar",
-      "url": "https://open.spotify.com/track/0So2sgVa8aJiARPl2P29u2"
+      "duration_ms": 224840,
+      "name": "High And Low",
+      "url": "https://open.spotify.com/track/34WI9hCaE3AzbOYT9wFXLP"
     },
     {
       "added_at": "2026-01-20 18:32:57",
@@ -139,18 +139,18 @@
     {
       "added_at": "2026-01-20 18:32:57",
       "album": {
-        "name": "Two Vines (Deluxe)",
-        "url": "https://open.spotify.com/album/4ARTgZcw7MLmjQkZ4zPptP"
+        "name": "SALES LP",
+        "url": "https://open.spotify.com/album/7ywSMs3G2OWOGVKMqc7KsE"
       },
       "artists": [
         {
-          "name": "Empire Of The Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+          "name": "SALES",
+          "url": "https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN"
         }
       ],
-      "duration_ms": 224840,
-      "name": "High And Low",
-      "url": "https://open.spotify.com/track/34WI9hCaE3AzbOYT9wFXLP"
+      "duration_ms": 187333,
+      "name": "Pope Is a Rockstar",
+      "url": "https://open.spotify.com/track/0So2sgVa8aJiARPl2P29u2"
     },
     {
       "added_at": "2026-01-20 18:32:57",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-01-20 18:32:57",
       "album": {
-        "name": "The Ride",
-        "url": "https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ"
-      },
-      "artists": [
-        {
-          "name": "Catfish and the Bottlemen",
-          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
-        }
-      ],
-      "duration_ms": 261560,
-      "name": "Soundcheck",
-      "url": "https://open.spotify.com/track/60W7Co2AoP5VVG5Gwu6p5P"
-    },
-    {
-      "added_at": "2026-01-20 18:32:57",
-      "album": {
         "name": "saintmotelevision",
         "url": "https://open.spotify.com/album/43URJ507cdoIRy3GJdfxjs"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 187893,
       "name": "Move",
       "url": "https://open.spotify.com/track/4vuJuTLFomqItDrn482nzV"
+    },
+    {
+      "added_at": "2026-01-20 18:32:57",
+      "album": {
+        "name": "The Ride",
+        "url": "https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ"
+      },
+      "artists": [
+        {
+          "name": "Catfish and the Bottlemen",
+          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
+        }
+      ],
+      "duration_ms": 261560,
+      "name": "Soundcheck",
+      "url": "https://open.spotify.com/track/60W7Co2AoP5VVG5Gwu6p5P"
     },
     {
       "added_at": "2026-01-20 18:32:57",
@@ -707,22 +707,6 @@
     {
       "added_at": "2026-01-20 18:32:57",
       "album": {
-        "name": "The Ride",
-        "url": "https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ"
-      },
-      "artists": [
-        {
-          "name": "Catfish and the Bottlemen",
-          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
-        }
-      ],
-      "duration_ms": 196946,
-      "name": "Twice",
-      "url": "https://open.spotify.com/track/2sewj0rFvlr3aEM3bGy12n"
-    },
-    {
-      "added_at": "2026-01-20 18:32:57",
-      "album": {
         "name": "saintmotelevision",
         "url": "https://open.spotify.com/album/43URJ507cdoIRy3GJdfxjs"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 203333,
       "name": "For Elise",
       "url": "https://open.spotify.com/track/6i40XRqEwHAnSxwZWasMRp"
+    },
+    {
+      "added_at": "2026-01-20 18:32:57",
+      "album": {
+        "name": "The Ride",
+        "url": "https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ"
+      },
+      "artists": [
+        {
+          "name": "Catfish and the Bottlemen",
+          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
+        }
+      ],
+      "duration_ms": 196946,
+      "name": "Twice",
+      "url": "https://open.spotify.com/track/2sewj0rFvlr3aEM3bGy12n"
     },
     {
       "added_at": "2026-01-20 18:32:57",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2026-01-20 18:32:57",
       "album": {
+        "name": "Light Upon the Lake",
+        "url": "https://open.spotify.com/album/5yMCA6HdFAeL1aqUjxO3MO"
+      },
+      "artists": [
+        {
+          "name": "Whitney",
+          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+        }
+      ],
+      "duration_ms": 237973,
+      "name": "No Woman",
+      "url": "https://open.spotify.com/track/1CLmFKW99S8eJrebO3GB04"
+    },
+    {
+      "added_at": "2026-01-20 18:32:57",
+      "album": {
         "name": "A Mineral Love",
         "url": "https://open.spotify.com/album/47riSLCeFOffFRi9BZ2eig"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 152333,
       "name": "Petals",
       "url": "https://open.spotify.com/track/1TVd8FHpeg1Afa92kaO0kR"
-    },
-    {
-      "added_at": "2026-01-20 18:32:57",
-      "album": {
-        "name": "Shadowboxer",
-        "url": "https://open.spotify.com/album/4pZrPnENK2NSEaBBo6rr8q"
-      },
-      "artists": [
-        {
-          "name": "Mansionair",
-          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
-        }
-      ],
-      "duration_ms": 272680,
-      "name": "Easier",
-      "url": "https://open.spotify.com/track/6VfLQ8dYSnnY13DpDSMfuq"
     }
   ],
   "unique_name": "Best of Indie 2016",

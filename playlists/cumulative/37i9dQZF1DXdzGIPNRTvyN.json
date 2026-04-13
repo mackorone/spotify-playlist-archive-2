@@ -1147,6 +1147,24 @@
     },
     {
       "album": {
+        "name": "Calm Skies",
+        "url": "https://open.spotify.com/album/0La6GTzKvt8cJVRu3W1BNQ"
+      },
+      "artists": [
+        {
+          "name": "Eldrelder",
+          "url": "https://open.spotify.com/artist/3TrVbyS2m9PyOxsjoPos7Z"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194796,
+      "name": "Calm Skies",
+      "url": "https://open.spotify.com/track/5SSQz4zhV3mj6VVOrZDKnH"
+    },
+    {
+      "album": {
         "name": "Calmest lake",
         "url": "https://open.spotify.com/album/3zhhOZnLZBFNOGIbFC7zSH"
       },
@@ -1936,6 +1954,24 @@
       "duration_ms": 214218,
       "name": "Dreamer's Lagoon",
       "url": "https://open.spotify.com/track/2ThXAQ9aRCJEBi3uwL6szQ"
+    },
+    {
+      "album": {
+        "name": "Drift",
+        "url": "https://open.spotify.com/album/4ZqueC3T3NXWi1k0Ci2ax0"
+      },
+      "artists": [
+        {
+          "name": "Soulstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2H7U5wNVjayzK341jIHaM6"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200347,
+      "name": "Drift",
+      "url": "https://open.spotify.com/track/6g6auewdiUaGKvGa8pKoQu"
     },
     {
       "album": {
@@ -3772,7 +3808,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 141500,
       "name": "Hushed Currents",
       "url": "https://open.spotify.com/track/4RHFVdqyv4Ge2YCqvl3PeV"
@@ -4334,7 +4370,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 172800,
       "name": "Ljungan",
       "url": "https://open.spotify.com/track/7magt73bNENgndrpaYE7qv"
@@ -4406,7 +4442,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-07",
+      "date_removed": null,
       "duration_ms": 159000,
       "name": "Lumenfall",
       "url": "https://open.spotify.com/track/1RKYSkXDcG2xrvTVTl0jP5"
@@ -6782,7 +6818,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 183614,
       "name": "Sanare",
       "url": "https://open.spotify.com/track/7qjuGqempfRgK5czZIheLn"
@@ -8507,6 +8543,24 @@
     },
     {
       "album": {
+        "name": "Tystnad",
+        "url": "https://open.spotify.com/album/6SlAbGflb8Yg0Nfm6sZhet"
+      },
+      "artists": [
+        {
+          "name": "Calmative",
+          "url": "https://open.spotify.com/artist/4jdsVahXLyNHILghPDbeQt"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152400,
+      "name": "Tystnad",
+      "url": "https://open.spotify.com/track/2kF2BC0Cqqq8hVsQzJ4zCr"
+    },
+    {
+      "album": {
         "name": "Uccellissimo",
         "url": "https://open.spotify.com/album/47TkhnmkLO1M1QBjNM5FX2"
       },
@@ -8824,7 +8878,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 169615,
       "name": "Whispering Stream",
       "url": "https://open.spotify.com/track/1pmvW9hcN5WngmDjEZIOb8"

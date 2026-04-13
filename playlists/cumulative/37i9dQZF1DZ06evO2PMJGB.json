@@ -232,7 +232,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 134936,
       "name": "CACHORRINHAS",
       "url": "https://open.spotify.com/track/7KWKWJnbGJ3Soag6Oopion"
@@ -729,6 +729,28 @@
     },
     {
       "album": {
+        "name": "BRUTAL PARA\u00cdSO",
+        "url": "https://open.spotify.com/album/3MhU6GRGIRgdjoDgltogAQ"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "Mc Paiva ZS",
+          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225391,
+      "name": "French Kiss",
+      "url": "https://open.spotify.com/track/2FWhFYo3nD4q1GKUrUlzGq"
+    },
+    {
+      "album": {
         "name": "K.O.",
         "url": "https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK"
       },
@@ -912,7 +934,7 @@
       ],
       "date_added": "2025-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 243793,
       "name": "Itamambuca",
       "url": "https://open.spotify.com/track/2TWc1VLLfbDx9kaxPDx0vl"
@@ -2260,7 +2282,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 112276,
       "name": "Tropical Paradise",
       "url": "https://open.spotify.com/track/1aOo5rg36qqtvFllrGbOT5"

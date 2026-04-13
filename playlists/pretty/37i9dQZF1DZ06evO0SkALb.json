@@ -1,12 +1,12 @@
 {
   "description": "This is Lou Rawls. The essential tracks, all in one playlist.",
-  "num_followers": 12774,
+  "num_followers": 12775,
   "original_name": "This Is Lou Rawls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adg9gAAAAACLFD1tuQtgdDXXJSWLee2T",
+  "snapshot_id": "admPAAAAAAA3PJ88rSpQpAf+bGfXMbYW",
   "tracks": [
     {
       "added_at": null,
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sit Down and Talk to Me",
-        "url": "https://open.spotify.com/album/0ptfSwqXv2Jm93lXyY2bXD"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 293213,
-      "name": "Sit Down and Talk to Me",
-      "url": "https://open.spotify.com/track/4JTp5ZdVqCqJmBSNzJhn7X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Best Of Lou Rawls - The Capitol Jazz & Blues Sessions",
         "url": "https://open.spotify.com/album/6pxkv1dxkTshid2V0MBGrp"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 183440,
       "name": "Let's Burn Down The Cornfield - 2006 Remaster",
       "url": "https://open.spotify.com/track/75gpgVKbgapGmVfgNcA7Vu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sit Down and Talk to Me",
+        "url": "https://open.spotify.com/album/0ptfSwqXv2Jm93lXyY2bXD"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 293213,
+      "name": "Sit Down and Talk to Me",
+      "url": "https://open.spotify.com/track/4JTp5ZdVqCqJmBSNzJhn7X"
     },
     {
       "added_at": null,
@@ -727,22 +727,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Portrait Of The Blues",
-        "url": "https://open.spotify.com/album/6JdvEayKi0nsKq3XJNZolE"
+        "name": "The Essential Lou Rawls",
+        "url": "https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG"
       },
       "artists": [
         {
           "name": "Lou Rawls",
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        },
-        {
-          "name": "Phoebe Snow",
-          "url": "https://open.spotify.com/artist/3iuobQyYhofKRr5W6HZoKt"
         }
       ],
-      "duration_ms": 184026,
-      "name": "A Lover's Question",
-      "url": "https://open.spotify.com/track/0VYRZNTuSBR7mQrwOcR8yX"
+      "duration_ms": 256160,
+      "name": "We Understand Each Other",
+      "url": "https://open.spotify.com/track/7em6KhKMrKS8svfEuKgXLJ"
     },
     {
       "added_at": null,
@@ -767,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Essential Lou Rawls",
-        "url": "https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 256160,
-      "name": "We Understand Each Other",
-      "url": "https://open.spotify.com/track/7em6KhKMrKS8svfEuKgXLJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tobacco Road",
         "url": "https://open.spotify.com/album/5HlnBTb2vJjwCr25XVVmwh"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 199573,
       "name": "Georgia On My Mind - Remastered 2006",
       "url": "https://open.spotify.com/track/1v0PObRGQRpv6foapH9F35"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Portrait Of The Blues",
+        "url": "https://open.spotify.com/album/6JdvEayKi0nsKq3XJNZolE"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        },
+        {
+          "name": "Phoebe Snow",
+          "url": "https://open.spotify.com/artist/3iuobQyYhofKRr5W6HZoKt"
+        }
+      ],
+      "duration_ms": 184026,
+      "name": "A Lover's Question",
+      "url": "https://open.spotify.com/track/0VYRZNTuSBR7mQrwOcR8yX"
     },
     {
       "added_at": null,
@@ -815,8 +815,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Can't Make It Alone: The Axelrod Years",
-        "url": "https://open.spotify.com/album/1Kx9ACe5cRS0qlwUDp15MU"
+        "name": "Lou Rawls - The Very Best Of",
+        "url": "https://open.spotify.com/album/0fHzoR2PfTW5FhpVBcNJVN"
       },
       "artists": [
         {
@@ -824,9 +824,9 @@
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
         }
       ],
-      "duration_ms": 156133,
-      "name": "Evil Woman",
-      "url": "https://open.spotify.com/track/7j4uxZq7o8QtoYzrTlYNtZ"
+      "duration_ms": 203706,
+      "name": "That Would Do It for Me",
+      "url": "https://open.spotify.com/track/018N2ZUUruZrwLHPDtuwj0"
     }
   ],
   "unique_name": "This Is Lou Rawls",

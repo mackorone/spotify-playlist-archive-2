@@ -258,7 +258,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 194474,
       "name": "29",
       "url": "https://open.spotify.com/track/7dNqvoB3wIUp4w60Lo8r2Y"
@@ -12172,6 +12172,24 @@
       "duration_ms": 155223,
       "name": "never knew a heart could break itself",
       "url": "https://open.spotify.com/track/4d2ZJ9W7dkQuITwUCTuD5n"
+    },
+    {
+      "album": {
+        "name": "Never Know Love",
+        "url": "https://open.spotify.com/album/2AZdDD0w09CGHCDKP2Tqnf"
+      },
+      "artists": [
+        {
+          "name": "Bea",
+          "url": "https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189392,
+      "name": "Never Know Love",
+      "url": "https://open.spotify.com/track/2tlONys5V3ZuO5OxrDJfE8"
     },
     {
       "album": {

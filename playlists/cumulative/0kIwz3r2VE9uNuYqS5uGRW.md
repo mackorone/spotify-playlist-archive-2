@@ -4,7 +4,7 @@
 
 > 
 
-196 songs - 10 hr 11 min
+197 songs - 10 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [ROTO](https://open.spotify.com/track/5EATqvvq7FvnNxtTYymbfe) | [Ecuaxel](https://open.spotify.com/artist/752FyhTCidwubenzuTtLtk) | [ROTO](https://open.spotify.com/album/4lleNR7Guf06eqPT1sEtKd) | 2:57 | 2026-01-18 |  |
 | [russian roulette](https://open.spotify.com/track/6FKpFWybDMmj3dH9Uap2E8) | [Rafael Dies](https://open.spotify.com/artist/4td046m3qUPVqi53lzbw3N) | [russian roulette](https://open.spotify.com/album/5FJsgeXI6L9CMot8JMQZQL) | 2:20 | 2026-03-25 |  |
 | [Save the Grin](https://open.spotify.com/track/2hOlF6gN2O5N1iPcuXbu7d) | [The Thick Uns'](https://open.spotify.com/artist/6ccHRbcIouqzsSExLYiRCq) | [Deadly Bargain](https://open.spotify.com/album/5vphnozEZ5bBylR35UxvG2) | 4:05 | 2026-04-07 |  |
+| [Shadow On That Wall](https://open.spotify.com/track/26Hnnzyv8G31g3pLs8YZ2X) | [Skyyy](https://open.spotify.com/artist/4EmOC9W13wmWQyJTYyqyXo) | [Shadow On That Wall](https://open.spotify.com/album/4nssfVrog8nSlQYmJbw3pI) | 4:49 | 2026-04-12 |  |
 | [She's My Witch](https://open.spotify.com/track/0dvGMQOonbH4ZvEiOYYWKQ) | [Katrina](https://open.spotify.com/artist/2hpCkArHzQ852NRLx6TG2o) | [She's My Witch](https://open.spotify.com/album/514yIpEXXdJmn2lPXrhOcu) | 2:26 | 2026-01-05 |  |
 | [Shoot Me Like A Doll](https://open.spotify.com/track/2QDBsajFcgMppn7zlYxQDt) | [Zorastead](https://open.spotify.com/artist/1SKZNWwhnoPtjO6pVopG59) | [Shoot Me Like A Doll](https://open.spotify.com/album/3Yt2Y5JabvIsWl90cOZV9o) | 3:09 | 2026-03-05 |  |
 | [Signals](https://open.spotify.com/track/7ueNlLSD7Y2mCj5smSMMFj) | [Ian Carpenter](https://open.spotify.com/artist/6rWRC2PEWJyQ5IVN5ioIO9) | [Emotions](https://open.spotify.com/album/6wM6OSdZalGYy6PoK0QqBD) | 5:16 | 2025-04-14 |  |

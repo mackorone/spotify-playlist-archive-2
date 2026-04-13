@@ -1,12 +1,12 @@
 {
   "description": "This is Celia Cruz. The essential tracks, all in one playlist.",
-  "num_followers": 107225,
+  "num_followers": 107229,
   "original_name": "This Is Celia Cruz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adg9gAAAAAAHbVu25yJH4U1mS9+A1BKO",
+  "snapshot_id": "admPAAAAAAAJyH1jITbzsgkXh91+OZVD",
   "tracks": [
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Irrepetible",
-        "url": "https://open.spotify.com/album/6qtA79Q8hCq9XJTZiR4iQS"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 232573,
-      "name": "Que Le Den Candela",
-      "url": "https://open.spotify.com/track/52IqB6OzcLMRDuW2mAUNq6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Regalo Del Alma",
         "url": "https://open.spotify.com/album/7ipsYdh5KxIjrM3gH66T0Q"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 271440,
       "name": "Yo Vivir\u00e9 - I Will Survive",
       "url": "https://open.spotify.com/track/2btnzgT8ARxKjcdOTdqj37"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Irrepetible",
+        "url": "https://open.spotify.com/album/6qtA79Q8hCq9XJTZiR4iQS"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 232573,
+      "name": "Que Le Den Candela",
+      "url": "https://open.spotify.com/track/52IqB6OzcLMRDuW2mAUNq6"
     },
     {
       "added_at": null,
@@ -399,6 +399,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bambol\u00e9o",
+        "url": "https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2"
+      },
+      "artists": [
+        {
+          "name": "Fania All Stars",
+          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 327466,
+      "name": "Bambol\u00e9o",
+      "url": "https://open.spotify.com/track/4Gu8MRCmbJbX2sGueXipVg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Az\u00facar (feat. Arturo Sandoval)",
         "url": "https://open.spotify.com/album/75WV3Y5nWfQxSa40fixkPl"
       },
@@ -427,26 +447,6 @@
       "duration_ms": 287906,
       "name": "Az\u00facar (feat. Arturo Sandoval)",
       "url": "https://open.spotify.com/track/4PMkN6hqPNlvEXSKxqEUSB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bambol\u00e9o",
-        "url": "https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2"
-      },
-      "artists": [
-        {
-          "name": "Fania All Stars",
-          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
-        },
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 327466,
-      "name": "Bambol\u00e9o",
-      "url": "https://open.spotify.com/track/4Gu8MRCmbJbX2sGueXipVg"
     },
     {
       "added_at": null,
@@ -787,8 +787,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Tierna, Conmovedora, Bamboleadora",
-        "url": "https://open.spotify.com/album/3505DvX9TkUjchDLCeSv5I"
+        "name": "Az\u00facar! Caliente",
+        "url": "https://open.spotify.com/album/5VRSzmNx2jHSagmnwScyi3"
       },
       "artists": [
         {
@@ -800,9 +800,9 @@
           "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
         }
       ],
-      "duration_ms": 174626,
-      "name": "Desvelo De Amor",
-      "url": "https://open.spotify.com/track/5z46fEEorQBtY64lIyyBfo"
+      "duration_ms": 180973,
+      "name": "En El Baj\u00edo",
+      "url": "https://open.spotify.com/track/6aUudw1WsrAuHc9H4zyHXd"
     },
     {
       "added_at": null,
@@ -827,8 +827,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Az\u00facar! Caliente",
-        "url": "https://open.spotify.com/album/5VRSzmNx2jHSagmnwScyi3"
+        "name": "La Tierna, Conmovedora, Bamboleadora",
+        "url": "https://open.spotify.com/album/3505DvX9TkUjchDLCeSv5I"
       },
       "artists": [
         {
@@ -840,9 +840,9 @@
           "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
         }
       ],
-      "duration_ms": 180973,
-      "name": "En El Baj\u00edo",
-      "url": "https://open.spotify.com/track/6aUudw1WsrAuHc9H4zyHXd"
+      "duration_ms": 174626,
+      "name": "Desvelo De Amor",
+      "url": "https://open.spotify.com/track/5z46fEEorQBtY64lIyyBfo"
     },
     {
       "added_at": null,
@@ -1059,26 +1059,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Celia Cruz Centennial",
-        "url": "https://open.spotify.com/album/4UWhyS8tzlwpbkEm7DyNR1"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        },
-        {
-          "name": "Tito Puente",
-          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
-        }
-      ],
-      "duration_ms": 272251,
-      "name": "Oye C\u00f3mo Va",
-      "url": "https://open.spotify.com/track/3a5UozLKx9KIg5XeinOiYr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Homenaje A Beny Mor\u00e9",
         "url": "https://open.spotify.com/album/3kcPe4YnATOHYNLgwdXSAY"
       },
@@ -1115,6 +1095,26 @@
       "duration_ms": 296720,
       "name": "Ay Mi Cuba",
       "url": "https://open.spotify.com/track/1wn4tJRraiHIx518NyMmHA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Celia Cruz Centennial",
+        "url": "https://open.spotify.com/album/4UWhyS8tzlwpbkEm7DyNR1"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        }
+      ],
+      "duration_ms": 272251,
+      "name": "Oye C\u00f3mo Va",
+      "url": "https://open.spotify.com/track/3a5UozLKx9KIg5XeinOiYr"
     }
   ],
   "unique_name": "This Is Celia Cruz",

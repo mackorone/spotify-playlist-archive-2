@@ -1385,6 +1385,40 @@
     },
     {
       "album": {
+        "name": "Ada Bommale (From \"Vaazha 2\")",
+        "url": "https://open.spotify.com/album/2NgATqmHeZ5haUnoD7qlhX"
+      },
+      "artists": [
+        {
+          "name": "Rzee",
+          "url": "https://open.spotify.com/artist/0JDjRH8br9CkytJV93g1Et"
+        },
+        {
+          "name": "Chinmayi Kiranlal",
+          "url": "https://open.spotify.com/artist/2i3mTDaZz7JPB07kenetXf"
+        },
+        {
+          "name": "Minya Panicker",
+          "url": "https://open.spotify.com/artist/3nQURhsYmFmJap50kBPVBH"
+        },
+        {
+          "name": "Nila Raj",
+          "url": "https://open.spotify.com/artist/4VexGwZW6B1MJZhS6g9KeT"
+        },
+        {
+          "name": "Heykarthii",
+          "url": "https://open.spotify.com/artist/63kT97v7dkMndQKpF3KUmX"
+        }
+      ],
+      "date_added": "2026-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180148,
+      "name": "Ada Bommale - From \"Vaazha 2\"",
+      "url": "https://open.spotify.com/track/6QQmefVNuQNJ0U7vD6Rto9"
+    },
+    {
+      "album": {
         "name": "Addicted",
         "url": "https://open.spotify.com/album/2SKECYjA8cvIOxpEDD31pK"
       },
@@ -4582,7 +4616,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-09",
+      "date_removed": null,
       "duration_ms": 177917,
       "name": "Belyol",
       "url": "https://open.spotify.com/track/1gSxCX6p00kxVqQjCN2PQY"
@@ -11616,7 +11650,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-12",
+      "date_removed": null,
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz"
@@ -17510,7 +17544,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 212973,
       "name": "I Just Might",
       "url": "https://open.spotify.com/track/6f68Ac5tt5BQOpwr0BV9oN"
@@ -22342,7 +22376,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 189746,
       "name": "Like Animals",
       "url": "https://open.spotify.com/track/2IFND3phjzIG1RcPnHh2hP"
@@ -23850,7 +23884,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-12",
+      "date_removed": null,
       "duration_ms": 81000,
       "name": "Makane x Koodappirannor - From \"Vaazha 2\"",
       "url": "https://open.spotify.com/track/5eXODFPwwBFr6XE20EETUk"
@@ -24780,7 +24814,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 229855,
       "name": "Merry Go Round",
       "url": "https://open.spotify.com/track/3VegC0PZiHjGxb80DER8XU"
@@ -32972,7 +33006,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/21IYMdzTrzSe191Cy5eMap"
@@ -37264,7 +37298,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-12",
+      "date_removed": null,
       "duration_ms": 240426,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"
@@ -39318,7 +39352,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 164241,
       "name": "they don\u2019t know \u2019bout us",
       "url": "https://open.spotify.com/track/0b61A7v9agI08BG21jJPQ9"

@@ -1,6 +1,6 @@
 {
   "description": "Praise and Worship the Almighty God with the best songs. A mix of both African and International songs. ",
-  "num_followers": 302541,
+  "num_followers": 302790,
   "original_name": "Praise and Worship",
   "owner": {
     "name": "Spotify",
@@ -701,6 +701,22 @@
       "url": "https://open.spotify.com/track/4irEfIEfEXuaPVOYDCw5Rm"
     },
     {
+      "added_at": "2025-02-01 21:00:07",
+      "album": {
+        "name": "Favour",
+        "url": "https://open.spotify.com/album/6MRFqruKFqEQlSl6P4Ge1k"
+      },
+      "artists": [
+        {
+          "name": "Lawrence Oyor",
+          "url": "https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI"
+        }
+      ],
+      "duration_ms": 357208,
+      "name": "Favour",
+      "url": "https://open.spotify.com/track/0mxvkw5NNGXugvh5qVORjx"
+    },
+    {
       "added_at": "2026-03-06 00:01:06",
       "album": {
         "name": "Baruch Hashem Adonai (Live)",
@@ -719,22 +735,6 @@
       "duration_ms": 1143786,
       "name": "Baruch Hashem Adonai - Live",
       "url": "https://open.spotify.com/track/1VEagF1oSqLgm5Y6lH32mS"
-    },
-    {
-      "added_at": "2025-02-01 21:00:07",
-      "album": {
-        "name": "Favour",
-        "url": "https://open.spotify.com/album/6MRFqruKFqEQlSl6P4Ge1k"
-      },
-      "artists": [
-        {
-          "name": "Lawrence Oyor",
-          "url": "https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI"
-        }
-      ],
-      "duration_ms": 357208,
-      "name": "Favour",
-      "url": "https://open.spotify.com/track/0mxvkw5NNGXugvh5qVORjx"
     },
     {
       "added_at": "2024-07-19 00:01:00",
@@ -1473,20 +1473,20 @@
       "url": "https://open.spotify.com/track/3d0LYyvQwDKG3h4R7dCZW3"
     },
     {
-      "added_at": "2025-10-24 00:01:23",
+      "added_at": "2026-04-03 00:01:44",
       "album": {
-        "name": "Do A Work In Me (Live)",
-        "url": "https://open.spotify.com/album/6f0MbPfuYyhs9ZS0u2ekpL"
+        "name": "New Wine (Live)",
+        "url": "https://open.spotify.com/album/79MOPYNVUE6yG90CnyyhHT"
       },
       "artists": [
         {
-          "name": "kaestrings",
-          "url": "https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC"
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
         }
       ],
-      "duration_ms": 561714,
-      "name": "Do A Work In Me - Live",
-      "url": "https://open.spotify.com/track/5ts4pT5MBeNDv4FxzkcOxc"
+      "duration_ms": 888860,
+      "name": "Praise The Lord - Live",
+      "url": "https://open.spotify.com/track/5k9ILrXNbOOaaJUQkVtYSd"
     }
   ],
   "unique_name": "Praise and Worship",

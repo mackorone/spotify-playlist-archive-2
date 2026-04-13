@@ -4,7 +4,7 @@
 
 > This is Funeral For A Friend\. The essential tracks, all in one playlist.
 
-130 songs - 7 hr 7 min
+131 songs - 7 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Death Comes To Us All](https://open.spotify.com/track/0MJn8Vh5vsk7Cujs7upeoE) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Conduit](https://open.spotify.com/album/3fk1CkRCk9fCkbt5YHRGnl) | 3:15 | 2026-03-26 |  |
 | [Death Comes to Us All](https://open.spotify.com/track/4n4JSCL8UnjRtte7p7obld) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Conduit](https://open.spotify.com/album/1kZNKmHgyUJxBrC7tqQIkT) | 3:15 | 2022-10-25 | 2024-10-17 |
 | [Donny](https://open.spotify.com/track/35URo0TfgbAABfUrDnGyBg) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Chapter and Verse](https://open.spotify.com/album/146lsgsoDkI9Dz06nnO2Sw) | 2:42 | 2024-08-27 | 2024-10-07 |
-| [Donny](https://open.spotify.com/track/3tD3Z7q9OuK9yz82QX1H0s) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Chapter and Verse \(Bonus Track Version\)](https://open.spotify.com/album/08yfDfdvG31NTTmsDROzBA) | 2:42 | 2026-04-11 |  |
+| [Donny](https://open.spotify.com/track/3tD3Z7q9OuK9yz82QX1H0s) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Chapter and Verse \(Bonus Track Version\)](https://open.spotify.com/album/08yfDfdvG31NTTmsDROzBA) | 2:42 | 2026-04-11 | 2026-04-13 |
 | [Elements](https://open.spotify.com/track/1ufS0ihAJryVHCOUwOA8IW) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Conduit](https://open.spotify.com/album/1kZNKmHgyUJxBrC7tqQIkT) | 2:45 | 2024-10-01 | 2024-10-05 |
 | [Escape Artists Never Die](https://open.spotify.com/track/34RIandjffS6fEMitjZnvF) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Casually Dressed And Deep In Conversation](https://open.spotify.com/album/5RoKtuFghXVMHrtOf0CBKN) | 5:17 | 2022-10-25 |  |
 | [Escape Artists Never Die](https://open.spotify.com/track/63piavgR25OkIFCfgs3rlp) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Casually Dressed And Deep In Conversation](https://open.spotify.com/album/2bYoFP0paBuoznlUnAHYv0) | 5:17 | 2023-11-10 | 2023-12-14 |
@@ -108,6 +108,7 @@
 | [Spine](https://open.spotify.com/track/581EaGsYGBSEEajYqSa9Au) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Conduit](https://open.spotify.com/album/3fk1CkRCk9fCkbt5YHRGnl) | 2:22 | 2026-04-04 |  |
 | [Spinning Over the Island](https://open.spotify.com/track/01X6UyKp6CwFWbEUey7Tli) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Welcome Home Armageddon](https://open.spotify.com/album/1M3wItLuBL9ZFvTiR5UewU) | 5:03 | 2024-03-10 | 2024-09-10 |
 | [Spinning Over the Island](https://open.spotify.com/track/1Mi8BxBA1FCh2ewTslZeoP) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Welcome Home Armageddon](https://open.spotify.com/album/6R8x24cl5q8aUP19bkPZdR) | 5:03 | 2025-09-26 | 2025-10-09 |
+| [Spinning Over the Island](https://open.spotify.com/track/1TLE1n6YuMa8bYIlPaYaOv) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Welcome Home Armageddon \(Deluxe Version\)](https://open.spotify.com/album/2ObWkJiimQOByPUb7AzYY4) | 5:03 | 2026-04-13 |  |
 | [Stand by Me for the Millionth Time](https://open.spotify.com/track/6VqeHGqHH5mWHCngFC2IQb) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Chapter and Verse](https://open.spotify.com/album/146lsgsoDkI9Dz06nnO2Sw) | 3:53 | 2022-10-25 | 2024-10-12 |
 | [Storytelling](https://open.spotify.com/track/5eptCQgkvncBHbWn6Slzje) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Casually Dressed And Deep In Conversation](https://open.spotify.com/album/2bYoFP0paBuoznlUnAHYv0) | 3:34 | 2023-07-04 | 2024-07-16 |
 | [Storytelling Pt2](https://open.spotify.com/track/3jHM1V1pJJBLo2J47D3FZa) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Between Order and Model](https://open.spotify.com/album/09pyNkO8GT3vvGgiIJEiDU) | 3:26 | 2022-10-25 | 2025-06-28 |
@@ -131,11 +132,11 @@
 | [Travelled](https://open.spotify.com/track/26WCqC51NKnE3qZIlpt1CB) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Conduit](https://open.spotify.com/album/1kZNKmHgyUJxBrC7tqQIkT) | 2:09 | 2024-10-01 | 2024-10-07 |
 | [Walk Away](https://open.spotify.com/track/2Lfr1sBeUbe5fxKPbpZ2P4) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Tales Don't Tell Themselves](https://open.spotify.com/album/4CF5iDzxarsfbhBqc8ZcdH) | 3:45 | 2022-10-25 |  |
 | [Waterfront Dance Club](https://open.spotify.com/track/4iWVLNcfik1T1OxfLG7KEx) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Memory and Humanity](https://open.spotify.com/album/40lhp9rQ2PHckeczn15xuP) | 4:24 | 2022-10-30 |  |
-| [Welcome Home Armageddon](https://open.spotify.com/track/1ULainrTDGyBnO5PpkzfPa) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Welcome Home Armageddon \(Deluxe Version\)](https://open.spotify.com/album/2ObWkJiimQOByPUb7AzYY4) | 5:25 | 2026-04-10 | 2026-04-11 |
+| [Welcome Home Armageddon](https://open.spotify.com/track/1ULainrTDGyBnO5PpkzfPa) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Welcome Home Armageddon \(Deluxe Version\)](https://open.spotify.com/album/2ObWkJiimQOByPUb7AzYY4) | 5:25 | 2026-04-10 |  |
 | [Will to Die](https://open.spotify.com/track/4r89jCskt1SKa3yVTXukzK) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [See You All in Hell](https://open.spotify.com/album/5MooIxGhbCMMUAhOYBET4N) | 2:57 | 2022-10-25 | 2024-10-11 |
 | [Wrench](https://open.spotify.com/track/3pMrnjdNTIcT5thhMVazS5) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Your History Is Mine: 2002\-2009](https://open.spotify.com/album/7eLjvOgusZTUPHeg35TUwe) | 2:31 | 2022-10-25 |  |
 | [You Should Be Ashamed of Yourself](https://open.spotify.com/track/0D84aXi3d8Y3Qd3gOaSTOP) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Chapter and Verse](https://open.spotify.com/album/146lsgsoDkI9Dz06nnO2Sw) | 3:47 | 2022-10-25 | 2024-10-14 |
-| [You've Got A Bad Case Of The Religions](https://open.spotify.com/track/5ioXaKBEbaoXK5uAH5ipA3) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Chapter and Verse \(Bonus Track Version\)](https://open.spotify.com/album/08yfDfdvG31NTTmsDROzBA) | 2:38 | 2026-04-11 |  |
+| [You've Got A Bad Case Of The Religions](https://open.spotify.com/track/5ioXaKBEbaoXK5uAH5ipA3) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Chapter and Verse \(Bonus Track Version\)](https://open.spotify.com/album/08yfDfdvG31NTTmsDROzBA) | 2:38 | 2026-04-11 | 2026-04-13 |
 | [You've Got a Bad Case of the Religions](https://open.spotify.com/track/7oW1NontbB6FPayssJi0V3) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Chapter and Verse](https://open.spotify.com/album/146lsgsoDkI9Dz06nnO2Sw) | 2:38 | 2022-10-25 | 2024-10-13 |
 | [Your Revolution Is a Joke](https://open.spotify.com/track/73EV46BBjJo06nFtEb0JRS) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Casually Dressed And Deep In Conversation](https://open.spotify.com/album/5RoKtuFghXVMHrtOf0CBKN) | 2:44 | 2022-10-25 | 2022-10-27 |
 

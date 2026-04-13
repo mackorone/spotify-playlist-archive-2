@@ -1,6 +1,6 @@
 {
   "description": "The notes that will make you long for those days of yore.",
-  "num_followers": 328029,
+  "num_followers": 328136,
   "original_name": "Golden Instrumentals",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "Las No. 1 Instrumentales",
-        "url": "https://open.spotify.com/album/6jAwjKibWTDSJq1Qfbieeb"
-      },
-      "artists": [
-        {
-          "name": "Bebu Silvetti",
-          "url": "https://open.spotify.com/artist/4KZwQdGgLn54iXbmFEN8WJ"
-        }
-      ],
-      "duration_ms": 283573,
-      "name": "Piano",
-      "url": "https://open.spotify.com/track/6sLnc93kXhAMGZ9wyxYZMT"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
         "name": "The Good, The Bad and The Ugly (Original Motion Picture Soundtrack) [Remastered Edition]",
         "url": "https://open.spotify.com/album/1pDYxCrFTy971V4zaN5Anq"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 162386,
       "name": "The Good, The Bad and The Ugly - Il Buono, Il Brutto, Il Cattivo (Titles)",
       "url": "https://open.spotify.com/track/2IJJszwGK4NWmh3bNK6CPD"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
+        "name": "Las No. 1 Instrumentales",
+        "url": "https://open.spotify.com/album/6jAwjKibWTDSJq1Qfbieeb"
+      },
+      "artists": [
+        {
+          "name": "Bebu Silvetti",
+          "url": "https://open.spotify.com/artist/4KZwQdGgLn54iXbmFEN8WJ"
+        }
+      ],
+      "duration_ms": 283573,
+      "name": "Piano",
+      "url": "https://open.spotify.com/track/6sLnc93kXhAMGZ9wyxYZMT"
     },
     {
       "added_at": "2025-02-14 17:45:29",
@@ -227,22 +227,6 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "Love Is Blue",
-        "url": "https://open.spotify.com/album/4q9ot78mrbt8U5WEhzrzZa"
-      },
-      "artists": [
-        {
-          "name": "Paul Mauriat",
-          "url": "https://open.spotify.com/artist/5Oj26LEf8jdgR2woWEjlhi"
-        }
-      ],
-      "duration_ms": 157493,
-      "name": "Love Is Blue",
-      "url": "https://open.spotify.com/track/1PlZt5i69FgDl45KbHlLzr"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
         "name": "Instrumentales",
         "url": "https://open.spotify.com/album/0FIcezHxPSZeHeHrYQFSEm"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 183133,
       "name": "Emmanuelle",
       "url": "https://open.spotify.com/track/4z1OqFDJgOtIvwtWd4y9y5"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
+        "name": "Love Is Blue",
+        "url": "https://open.spotify.com/album/4q9ot78mrbt8U5WEhzrzZa"
+      },
+      "artists": [
+        {
+          "name": "Paul Mauriat",
+          "url": "https://open.spotify.com/artist/5Oj26LEf8jdgR2woWEjlhi"
+        }
+      ],
+      "duration_ms": 157493,
+      "name": "Love Is Blue",
+      "url": "https://open.spotify.com/track/1PlZt5i69FgDl45KbHlLzr"
     },
     {
       "added_at": "2025-02-14 17:45:29",
@@ -323,22 +323,6 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "100 All Time Greatest Hits",
-        "url": "https://open.spotify.com/album/1nW2vo8BgRcaqyuM57ZwNI"
-      },
-      "artists": [
-        {
-          "name": "Franck Pourcel",
-          "url": "https://open.spotify.com/artist/0HJyVBZnjRKDT4STU3rGzU"
-        }
-      ],
-      "duration_ms": 215986,
-      "name": "Concorde",
-      "url": "https://open.spotify.com/track/1rshuebpBibATjY7UtHolH"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
         "name": "Paul Mauriat. Grandes Exitos",
         "url": "https://open.spotify.com/album/6iQAXag0ioZ8VDguSYvyvP"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 156519,
       "name": "Love is Blue",
       "url": "https://open.spotify.com/track/0tS7Mli5NtOcpeCqC25GWd"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
+        "name": "100 All Time Greatest Hits",
+        "url": "https://open.spotify.com/album/1nW2vo8BgRcaqyuM57ZwNI"
+      },
+      "artists": [
+        {
+          "name": "Franck Pourcel",
+          "url": "https://open.spotify.com/artist/0HJyVBZnjRKDT4STU3rGzU"
+        }
+      ],
+      "duration_ms": 215986,
+      "name": "Concorde",
+      "url": "https://open.spotify.com/track/1rshuebpBibATjY7UtHolH"
     },
     {
       "added_at": "2025-02-14 17:45:29",
@@ -371,22 +371,6 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "Kpm 1000 Series: Gentle Sounds - Volume 2",
-        "url": "https://open.spotify.com/album/1XL9bkiNGA0pj3EUvLTkh2"
-      },
-      "artists": [
-        {
-          "name": "Johnny Pearson",
-          "url": "https://open.spotify.com/artist/3ItwpBXTw2W7w62jKwHqGD"
-        }
-      ],
-      "duration_ms": 220240,
-      "name": "Sleepy Shores",
-      "url": "https://open.spotify.com/track/4do1i6WwxBCnponPtzbLUh"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
         "name": "Maria Elena",
         "url": "https://open.spotify.com/album/4hO6VEnWpPImOF4RDmtTHM"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 187866,
       "name": "Maria Elena",
       "url": "https://open.spotify.com/track/3ygHAK1w3qP4wp83KXUiiu"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
+        "name": "Kpm 1000 Series: Gentle Sounds - Volume 2",
+        "url": "https://open.spotify.com/album/1XL9bkiNGA0pj3EUvLTkh2"
+      },
+      "artists": [
+        {
+          "name": "Johnny Pearson",
+          "url": "https://open.spotify.com/artist/3ItwpBXTw2W7w62jKwHqGD"
+        }
+      ],
+      "duration_ms": 220240,
+      "name": "Sleepy Shores",
+      "url": "https://open.spotify.com/track/4do1i6WwxBCnponPtzbLUh"
     },
     {
       "added_at": "2025-02-14 17:45:29",
@@ -515,22 +515,6 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "16 Most Requested Songs",
-        "url": "https://open.spotify.com/album/0XLV6vIukKpejiSTAaSPPi"
-      },
-      "artists": [
-        {
-          "name": "Percy Faith & His Orchestra",
-          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
-        }
-      ],
-      "duration_ms": 153133,
-      "name": "The Girl from Ipanema",
-      "url": "https://open.spotify.com/track/5Xk2ZsXAP4sQZsdxBWZ7NA"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
         "name": "Svezia, Inferno E Paradiso",
         "url": "https://open.spotify.com/album/5c2CBLkvafstLlKDfO2Q5a"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 116559,
       "name": "Mah N\u00e0 Mah N\u00e0",
       "url": "https://open.spotify.com/track/3Mz27X48Ey7MbfLOmSzkBK"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
+        "name": "16 Most Requested Songs",
+        "url": "https://open.spotify.com/album/0XLV6vIukKpejiSTAaSPPi"
+      },
+      "artists": [
+        {
+          "name": "Percy Faith & His Orchestra",
+          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
+        }
+      ],
+      "duration_ms": 153133,
+      "name": "The Girl from Ipanema",
+      "url": "https://open.spotify.com/track/5Xk2ZsXAP4sQZsdxBWZ7NA"
     },
     {
       "added_at": "2025-02-14 17:45:29",
@@ -563,22 +563,6 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "Somewhere In Time (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/51Jc2jeLXHZR1EempMR59j"
-      },
-      "artists": [
-        {
-          "name": "Roger Williams",
-          "url": "https://open.spotify.com/artist/55CCS64lPz88twUDVquU1u"
-        }
-      ],
-      "duration_ms": 204173,
-      "name": "Somewhere In Time - Main Theme",
-      "url": "https://open.spotify.com/track/68L5TNgWMtHcH8Ut5QZk60"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
         "name": "90s 100 Hits",
         "url": "https://open.spotify.com/album/6odcotWv2xd7NP7RrGBS5b"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 260200,
       "name": "Lily Was Here (feat. Candy Dulfer)",
       "url": "https://open.spotify.com/track/2F9MyVj3AtJTDp7X8tZYmV"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
+        "name": "Somewhere In Time (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/51Jc2jeLXHZR1EempMR59j"
+      },
+      "artists": [
+        {
+          "name": "Roger Williams",
+          "url": "https://open.spotify.com/artist/55CCS64lPz88twUDVquU1u"
+        }
+      ],
+      "duration_ms": 204173,
+      "name": "Somewhere In Time - Main Theme",
+      "url": "https://open.spotify.com/track/68L5TNgWMtHcH8Ut5QZk60"
     },
     {
       "added_at": "2025-02-14 17:45:29",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "Pure Instrumental Memories",
-        "url": "https://open.spotify.com/album/0e8GoDLOOtT97WUR6xRZjq"
-      },
-      "artists": [
-        {
-          "name": "Billy Vaughn",
-          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
-        }
-      ],
-      "duration_ms": 130586,
-      "name": "Look For A Star",
-      "url": "https://open.spotify.com/track/0e1rlLP4kTqs4f2JQqUAZ7"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
         "name": "Michel Legrand y Su Gran Orquesta",
         "url": "https://open.spotify.com/album/6YrMXJE3AKt9IIOypizlq8"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 135360,
       "name": "Boum",
       "url": "https://open.spotify.com/track/1ByDvF2eKOGlybrLYqUzFE"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
+        "name": "Pure Instrumental Memories",
+        "url": "https://open.spotify.com/album/0e8GoDLOOtT97WUR6xRZjq"
+      },
+      "artists": [
+        {
+          "name": "Billy Vaughn",
+          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
+        }
+      ],
+      "duration_ms": 130586,
+      "name": "Look For A Star",
+      "url": "https://open.spotify.com/track/0e1rlLP4kTqs4f2JQqUAZ7"
     },
     {
       "added_at": "2025-02-14 17:45:29",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "Pure Instrumental Memories",
-        "url": "https://open.spotify.com/album/0e8GoDLOOtT97WUR6xRZjq"
-      },
-      "artists": [
-        {
-          "name": "Billy Vaughn",
-          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
-        }
-      ],
-      "duration_ms": 126226,
-      "name": "Sail Along Silv'ry Moon",
-      "url": "https://open.spotify.com/track/2EEcKIpEnPvBz7dndYugVu"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
         "name": "The Big Bands Collection, Vol. 18/23: Andr\u00e9 Popp - Delirium in Hi-Fi",
         "url": "https://open.spotify.com/album/1AlBfGcQSHZMAGvVo42l0X"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 160826,
       "name": "Beer Barrel Polka",
       "url": "https://open.spotify.com/track/0TfEddOVb6s6qhzb6GVdTn"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
+        "name": "Pure Instrumental Memories",
+        "url": "https://open.spotify.com/album/0e8GoDLOOtT97WUR6xRZjq"
+      },
+      "artists": [
+        {
+          "name": "Billy Vaughn",
+          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
+        }
+      ],
+      "duration_ms": 126226,
+      "name": "Sail Along Silv'ry Moon",
+      "url": "https://open.spotify.com/track/2EEcKIpEnPvBz7dndYugVu"
     },
     {
       "added_at": "2025-02-14 17:45:29",

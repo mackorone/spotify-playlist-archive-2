@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Aqui est\u00e1n todas las esenciales Tropicales de adoraci\u00f3n!",
-  "num_followers": 107042,
+  "num_followers": 107054,
   "original_name": "Inspiraci\u00f3n Tropical",
   "owner": {
     "name": "Spotify",
@@ -291,6 +291,22 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
+        "name": "LONELY",
+        "url": "https://open.spotify.com/album/0lyUiWAoAOC08gAc6Tkeiz"
+      },
+      "artists": [
+        {
+          "name": "Vaes",
+          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
+        }
+      ],
+      "duration_ms": 159941,
+      "name": "LONELY",
+      "url": "https://open.spotify.com/track/1YDnbv3zhSQ1z5TZT2BNH3"
+    },
+    {
+      "added_at": "2026-03-29 00:09:04",
+      "album": {
         "name": "Sublime Gracia",
         "url": "https://open.spotify.com/album/4JMgMpgaGlSDXTEa8kV1CX"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 166875,
       "name": "Sublime Gracia",
       "url": "https://open.spotify.com/track/7ql7c661G5jstNSU3UVt0S"
-    },
-    {
-      "added_at": "2026-03-29 00:09:04",
-      "album": {
-        "name": "LONELY",
-        "url": "https://open.spotify.com/album/0lyUiWAoAOC08gAc6Tkeiz"
-      },
-      "artists": [
-        {
-          "name": "Vaes",
-          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
-        }
-      ],
-      "duration_ms": 159941,
-      "name": "LONELY",
-      "url": "https://open.spotify.com/track/1YDnbv3zhSQ1z5TZT2BNH3"
     },
     {
       "added_at": "2026-03-29 00:09:04",
@@ -511,22 +511,6 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
-        "name": "Salvame",
-        "url": "https://open.spotify.com/album/1JZJpD5JPmhStx5cG4BwPL"
-      },
-      "artists": [
-        {
-          "name": "Niko Eme",
-          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
-        }
-      ],
-      "duration_ms": 201633,
-      "name": "Salvame",
-      "url": "https://open.spotify.com/track/2cJVBYNDaqS24s8tWk7PFh"
-    },
-    {
-      "added_at": "2026-03-29 00:09:04",
-      "album": {
         "name": "Chino \" De Viaje \" ..... Camino Al Cielo",
         "url": "https://open.spotify.com/album/5fWfAVXPS3buPNuv0tCViu"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 204013,
       "name": "Camino Al Cielo (Versi\u00f3n Merengue)",
       "url": "https://open.spotify.com/track/4JAg4oa9Q99uIGzkj6S829"
+    },
+    {
+      "added_at": "2026-03-29 00:09:04",
+      "album": {
+        "name": "Salvame",
+        "url": "https://open.spotify.com/album/1JZJpD5JPmhStx5cG4BwPL"
+      },
+      "artists": [
+        {
+          "name": "Niko Eme",
+          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
+        }
+      ],
+      "duration_ms": 201633,
+      "name": "Salvame",
+      "url": "https://open.spotify.com/track/2cJVBYNDaqS24s8tWk7PFh"
     },
     {
       "added_at": "2026-03-29 00:09:04",
@@ -563,22 +563,6 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
-        "name": "Alabar\u00e9, Hall\u00e9 un buen amigo, Hubo un cambio",
-        "url": "https://open.spotify.com/album/3ki0M3SV7T5YxxyC8wkPe1"
-      },
-      "artists": [
-        {
-          "name": "Omar Salas",
-          "url": "https://open.spotify.com/artist/3E2IitJNIbpATIAvtJPUzd"
-        }
-      ],
-      "duration_ms": 229180,
-      "name": "Alabar\u00e9, Hall\u00e9 un buen amigo, Hubo un cambio",
-      "url": "https://open.spotify.com/track/1I4NvCYmKakgaYtFU2KHU1"
-    },
-    {
-      "added_at": "2026-03-29 00:09:04",
-      "album": {
         "name": "Lejos",
         "url": "https://open.spotify.com/album/1M5i0l6WJgLJtvJvkLj07A"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 179000,
       "name": "Lejos",
       "url": "https://open.spotify.com/track/55N34N8Xnl6V6ZcMricxe4"
+    },
+    {
+      "added_at": "2026-03-29 00:09:04",
+      "album": {
+        "name": "Alabar\u00e9, Hall\u00e9 un buen amigo, Hubo un cambio",
+        "url": "https://open.spotify.com/album/3ki0M3SV7T5YxxyC8wkPe1"
+      },
+      "artists": [
+        {
+          "name": "Omar Salas",
+          "url": "https://open.spotify.com/artist/3E2IitJNIbpATIAvtJPUzd"
+        }
+      ],
+      "duration_ms": 229180,
+      "name": "Alabar\u00e9, Hall\u00e9 un buen amigo, Hubo un cambio",
+      "url": "https://open.spotify.com/track/1I4NvCYmKakgaYtFU2KHU1"
     },
     {
       "added_at": "2026-03-29 00:09:04",
@@ -667,22 +667,6 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
-        "name": "Lo Mejor De La Vida",
-        "url": "https://open.spotify.com/album/10o6MR8g8EXpeRGulLaPSl"
-      },
-      "artists": [
-        {
-          "name": "R Nova",
-          "url": "https://open.spotify.com/artist/7rXuCCgw2Intfg2EJdQypx"
-        }
-      ],
-      "duration_ms": 217660,
-      "name": "Lo Mejor De La Vida",
-      "url": "https://open.spotify.com/track/4T8vv4Hwzg0vEwsRg253oS"
-    },
-    {
-      "added_at": "2026-03-29 00:09:04",
-      "album": {
         "name": "Favor y Gracia",
         "url": "https://open.spotify.com/album/70RxgRw7Fije42VXWsUH1C"
       },
@@ -723,6 +707,22 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
+        "name": "Lo Mejor De La Vida",
+        "url": "https://open.spotify.com/album/10o6MR8g8EXpeRGulLaPSl"
+      },
+      "artists": [
+        {
+          "name": "R Nova",
+          "url": "https://open.spotify.com/artist/7rXuCCgw2Intfg2EJdQypx"
+        }
+      ],
+      "duration_ms": 217660,
+      "name": "Lo Mejor De La Vida",
+      "url": "https://open.spotify.com/track/4T8vv4Hwzg0vEwsRg253oS"
+    },
+    {
+      "added_at": "2026-03-29 00:09:04",
+      "album": {
         "name": "Envero",
         "url": "https://open.spotify.com/album/5zeb46Zz4HGEiZWvAhVQ13"
       },
@@ -739,22 +739,6 @@
       "duration_ms": 219955,
       "name": "Subiendo",
       "url": "https://open.spotify.com/track/3RrOsiqtBqZkA23q1rkroe"
-    },
-    {
-      "added_at": "2026-03-29 00:09:04",
-      "album": {
-        "name": "NAZARENO",
-        "url": "https://open.spotify.com/album/6WhbOWidyCQ0sEmjCbbHof"
-      },
-      "artists": [
-        {
-          "name": "Chris Paradise",
-          "url": "https://open.spotify.com/artist/0EapwSGXUTMLdmUNCuMB2T"
-        }
-      ],
-      "duration_ms": 270807,
-      "name": "NAZARENO",
-      "url": "https://open.spotify.com/track/1zw8W2e8YV0fRj5cUbjc6c"
     },
     {
       "added_at": "2026-03-29 00:09:04",
@@ -811,6 +795,22 @@
       "duration_ms": 196156,
       "name": "Ped\u00ed Un Deseo",
       "url": "https://open.spotify.com/track/1efS7fzuIPrfiQFVoPxjg9"
+    },
+    {
+      "added_at": "2026-03-29 00:09:04",
+      "album": {
+        "name": "NAZARENO",
+        "url": "https://open.spotify.com/album/6WhbOWidyCQ0sEmjCbbHof"
+      },
+      "artists": [
+        {
+          "name": "Chris Paradise",
+          "url": "https://open.spotify.com/artist/0EapwSGXUTMLdmUNCuMB2T"
+        }
+      ],
+      "duration_ms": 270807,
+      "name": "NAZARENO",
+      "url": "https://open.spotify.com/track/1zw8W2e8YV0fRj5cUbjc6c"
     },
     {
       "added_at": "2026-03-29 00:09:04",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
-        "name": "Mec\u00e1nico",
-        "url": "https://open.spotify.com/album/2VDjp95mLNDABNI9G2NNkU"
-      },
-      "artists": [
-        {
-          "name": "David Muguercia",
-          "url": "https://open.spotify.com/artist/5nMM1vcEVt8ZMtMozqQ4fu"
-        }
-      ],
-      "duration_ms": 179170,
-      "name": "Mec\u00e1nico",
-      "url": "https://open.spotify.com/track/76KXw6LImaUZKAn6YPceNq"
-    },
-    {
-      "added_at": "2026-03-29 00:09:04",
-      "album": {
         "name": "Todo Y Nada / Seguir Vale La Pena (Live)",
         "url": "https://open.spotify.com/album/2wDOm4jVyuBFXFkROlGKKs"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 211000,
       "name": "Todo Y Nada - En Vivo",
       "url": "https://open.spotify.com/track/48MSoPdBnDQPSQP2pwwiTj"
+    },
+    {
+      "added_at": "2026-03-29 00:09:04",
+      "album": {
+        "name": "Mec\u00e1nico",
+        "url": "https://open.spotify.com/album/2VDjp95mLNDABNI9G2NNkU"
+      },
+      "artists": [
+        {
+          "name": "David Muguercia",
+          "url": "https://open.spotify.com/artist/5nMM1vcEVt8ZMtMozqQ4fu"
+        }
+      ],
+      "duration_ms": 179170,
+      "name": "Mec\u00e1nico",
+      "url": "https://open.spotify.com/track/76KXw6LImaUZKAn6YPceNq"
     },
     {
       "added_at": "2026-03-29 00:09:04",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
-        "name": "La alegr\u00eda del Se\u00f1or",
-        "url": "https://open.spotify.com/album/6aLCUr0EpQnYToBLxWyedO"
-      },
-      "artists": [
-        {
-          "name": "Promesa de Dios",
-          "url": "https://open.spotify.com/artist/0qwUWQ2ly5S4jViFyRgNlp"
-        }
-      ],
-      "duration_ms": 193846,
-      "name": "La alegr\u00eda del Se\u00f1or",
-      "url": "https://open.spotify.com/track/1NB1vkw0KCxcFIgAyBVdsZ"
-    },
-    {
-      "added_at": "2026-03-29 00:09:04",
-      "album": {
         "name": "30 Bachatas Cristianas Pegaditas",
         "url": "https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 268613,
       "name": "Sinceridad",
       "url": "https://open.spotify.com/track/6N49H4sNWlPvytIiNmjVzB"
+    },
+    {
+      "added_at": "2026-03-29 00:09:04",
+      "album": {
+        "name": "La alegr\u00eda del Se\u00f1or",
+        "url": "https://open.spotify.com/album/6aLCUr0EpQnYToBLxWyedO"
+      },
+      "artists": [
+        {
+          "name": "Promesa de Dios",
+          "url": "https://open.spotify.com/artist/0qwUWQ2ly5S4jViFyRgNlp"
+        }
+      ],
+      "duration_ms": 193846,
+      "name": "La alegr\u00eda del Se\u00f1or",
+      "url": "https://open.spotify.com/track/1NB1vkw0KCxcFIgAyBVdsZ"
     },
     {
       "added_at": "2026-03-29 00:09:04",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
-        "name": "Ech\u00f3 A La Mar Los Carros Del Fara\u00f3n",
-        "url": "https://open.spotify.com/album/5OJF5gjJmi6RhI0YnqQBuU"
-      },
-      "artists": [
-        {
-          "name": "Altar Vivo",
-          "url": "https://open.spotify.com/artist/0KWLKDSGdlJhOfd0Wkb2mr"
-        }
-      ],
-      "duration_ms": 139839,
-      "name": "Ech\u00f3 A La Mar Los Carros Del Fara\u00f3n",
-      "url": "https://open.spotify.com/track/1jm1I2fv53f1xH3DFTYR2D"
-    },
-    {
-      "added_at": "2026-03-29 00:09:04",
-      "album": {
         "name": "Adorar A Dios",
         "url": "https://open.spotify.com/album/4aOpEMW8mBFw3hS4zPPNQn"
       },
@@ -1283,22 +1267,18 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
-        "name": "Agarra La Bendici\u00f3n",
-        "url": "https://open.spotify.com/album/1tFLoCCwpnvd4IzbeO9syJ"
+        "name": "Ech\u00f3 A La Mar Los Carros Del Fara\u00f3n",
+        "url": "https://open.spotify.com/album/5OJF5gjJmi6RhI0YnqQBuU"
       },
       "artists": [
         {
-          "name": "Banda Punto de Encuentro",
-          "url": "https://open.spotify.com/artist/0cdOFGGqQxVOOvZoQaG6Vn"
-        },
-        {
-          "name": "Thalles Roberto",
-          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
+          "name": "Altar Vivo",
+          "url": "https://open.spotify.com/artist/0KWLKDSGdlJhOfd0Wkb2mr"
         }
       ],
-      "duration_ms": 191447,
-      "name": "Agarra La Bendici\u00f3n",
-      "url": "https://open.spotify.com/track/5YaiFwIsbm1m1bB9dFwMMh"
+      "duration_ms": 139839,
+      "name": "Ech\u00f3 A La Mar Los Carros Del Fara\u00f3n",
+      "url": "https://open.spotify.com/track/1jm1I2fv53f1xH3DFTYR2D"
     },
     {
       "added_at": "2026-03-29 00:09:04",
@@ -1319,6 +1299,26 @@
       "duration_ms": 160285,
       "name": "La Criolla",
       "url": "https://open.spotify.com/track/3pEBiQSYCtSC1wyNIeNvgH"
+    },
+    {
+      "added_at": "2026-03-29 00:09:04",
+      "album": {
+        "name": "Agarra La Bendici\u00f3n",
+        "url": "https://open.spotify.com/album/1tFLoCCwpnvd4IzbeO9syJ"
+      },
+      "artists": [
+        {
+          "name": "Banda Punto de Encuentro",
+          "url": "https://open.spotify.com/artist/0cdOFGGqQxVOOvZoQaG6Vn"
+        },
+        {
+          "name": "Thalles Roberto",
+          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
+        }
+      ],
+      "duration_ms": 191447,
+      "name": "Agarra La Bendici\u00f3n",
+      "url": "https://open.spotify.com/track/5YaiFwIsbm1m1bB9dFwMMh"
     },
     {
       "added_at": "2026-03-29 00:09:04",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
-        "name": "Esposa M\u00eda",
-        "url": "https://open.spotify.com/album/060GsIY1ZDNFwiK2om5J2S"
-      },
-      "artists": [
-        {
-          "name": "Sergio Luis Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Esposa M\u00eda",
-      "url": "https://open.spotify.com/track/5oJU90vfKSvzZrT6g49xK8"
-    },
-    {
-      "added_at": "2026-03-29 00:09:04",
-      "album": {
         "name": "Te Entrego Mi Coraz\u00f3n",
         "url": "https://open.spotify.com/album/1zthoHj47DANo7hIwf0ZcT"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 207965,
       "name": "Te Entrego Mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/3vjUs4D0CfYuABhwMyG50o"
+    },
+    {
+      "added_at": "2026-03-29 00:09:04",
+      "album": {
+        "name": "Esposa M\u00eda",
+        "url": "https://open.spotify.com/album/060GsIY1ZDNFwiK2om5J2S"
+      },
+      "artists": [
+        {
+          "name": "Sergio Luis Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Esposa M\u00eda",
+      "url": "https://open.spotify.com/track/5oJU90vfKSvzZrT6g49xK8"
     },
     {
       "added_at": "2026-03-29 00:09:04",

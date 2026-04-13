@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6oB0YuugRL9154dHN0yJqO">Ariel Imani</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-34 songs - 1 hr 30 min
+35 songs - 1 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Free My N\*\*\*a](https://open.spotify.com/track/4wiKgTjxd1Rh3KLRJ09T3S) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess \(Deluxe\)](https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr) | 2:09 | 2026-02-06 |  |
 | [HANDLE MY TRUTH](https://open.spotify.com/track/3zgBnJtjDRgGmkHjgUslEu) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [THE SINGLE LIFE](https://open.spotify.com/album/0kyPJmOde43w1nWzd79OU8) | 3:08 | 2026-02-06 |  |
 | [High Class](https://open.spotify.com/track/7zrYM0an4hLtIn90xqEFLU) | [GAWD](https://open.spotify.com/artist/23BIYcWDJsaIqWoNSmljS6) | [Cathedral City Supreme](https://open.spotify.com/album/2jJ1SQwKKY9wNN5FdYGQGO) | 3:39 | 2026-02-06 |  |
-| [IDC](https://open.spotify.com/track/69OTkx0Khijw3ihHr9au1g) | [Dess Dior](https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O), [BJRNCK](https://open.spotify.com/artist/75CB9gAqPzqMGNHxymmxfg) | [IDC](https://open.spotify.com/album/4a06Se0uHpNrPgB8DoEQ3R) | 2:08 | 2026-02-06 |  |
+| [IDC](https://open.spotify.com/track/2uawWVWUoUr621DlO1cgdi) | [Dess Dior](https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O), [BJRNCK](https://open.spotify.com/artist/75CB9gAqPzqMGNHxymmxfg) | [Note To Self](https://open.spotify.com/album/47KtxHjRKa2h8gHdmS10Zs) | 2:08 | 2026-04-12 |  |
+| [IDC](https://open.spotify.com/track/69OTkx0Khijw3ihHr9au1g) | [Dess Dior](https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O), [BJRNCK](https://open.spotify.com/artist/75CB9gAqPzqMGNHxymmxfg) | [IDC](https://open.spotify.com/album/4a06Se0uHpNrPgB8DoEQ3R) | 2:08 | 2026-02-06 | 2026-04-13 |
 | [Insane](https://open.spotify.com/track/0bgObY1cL1nwahRRU38p8R) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Winter's Diary 5](https://open.spotify.com/album/3qpgECxsMr2Iond5cWsH2h) | 2:48 | 2026-02-06 |  |
 | [Into me](https://open.spotify.com/track/0O3N02GOlmA64FjatIvzIp) | [Maeesha b](https://open.spotify.com/artist/32kGDmP5SLA0BdfVQNhkq7) | [Into me](https://open.spotify.com/album/5qlLxd49w1hdiJrZIsbMu7) | 1:50 | 2026-02-06 |  |
 | [Juice](https://open.spotify.com/track/06Pyoo02iAzvB6pbwFXlpu) | [Maeesha b](https://open.spotify.com/artist/32kGDmP5SLA0BdfVQNhkq7) | [Juice](https://open.spotify.com/album/0XytAajWSKZD09CECMhjly) | 2:34 | 2026-02-06 |  |

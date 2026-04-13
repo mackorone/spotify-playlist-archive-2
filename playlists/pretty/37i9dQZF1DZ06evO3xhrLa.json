@@ -1,12 +1,12 @@
 {
   "description": "This is Jhen\u00e9 Aiko. The essential tracks, all in one playlist.",
-  "num_followers": 245488,
+  "num_followers": 245508,
   "original_name": "This Is Jhen\u00e9 Aiko",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adg9gAAAAABv1hm+QSzt5NTwAYl56BLw",
+  "snapshot_id": "admPAAAAAABBt14UzOZHrak6sxfnKsoB",
   "tracks": [
     {
       "added_at": null,
@@ -267,6 +267,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "SAME DIFFERENCE",
+        "url": "https://open.spotify.com/album/3EUDvHdTIYlB3Hl1WFOIrS"
+      },
+      "artists": [
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 206467,
+      "name": "MURAL (feat. Jhen\u00e9 Aiko)",
+      "url": "https://open.spotify.com/track/6mIiV28R5NjFBuSo31u2ER"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hall Of Fame (Deluxe)",
         "url": "https://open.spotify.com/album/5RlT8X7XGGLKUhoimrDl54"
       },
@@ -287,26 +307,6 @@
       "duration_ms": 235186,
       "name": "Beware",
       "url": "https://open.spotify.com/track/6bxUnsSGZCmoHHU5auwtps"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SAME DIFFERENCE",
-        "url": "https://open.spotify.com/album/3EUDvHdTIYlB3Hl1WFOIrS"
-      },
-      "artists": [
-        {
-          "name": "Swae Lee",
-          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
-        },
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 206467,
-      "name": "MURAL (feat. Jhen\u00e9 Aiko)",
-      "url": "https://open.spotify.com/track/6mIiV28R5NjFBuSo31u2ER"
     },
     {
       "added_at": null,
@@ -747,6 +747,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chilombo",
+        "url": "https://open.spotify.com/album/5jlE1zlhT3mEWw0mRpN920"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 100386,
+      "name": "Pray For You",
+      "url": "https://open.spotify.com/track/3JHQY6VnwmUMuYb0XI2O7Y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Gangsta\u2019s Pain",
         "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 143533,
       "name": "One Of Dem Nights (with Jhen\u00e9 Aiko)",
       "url": "https://open.spotify.com/track/5CSID3PvGYFa3zNgid3ClE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chilombo",
-        "url": "https://open.spotify.com/album/5jlE1zlhT3mEWw0mRpN920"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 100386,
-      "name": "Pray For You",
-      "url": "https://open.spotify.com/track/3JHQY6VnwmUMuYb0XI2O7Y"
     },
     {
       "added_at": null,

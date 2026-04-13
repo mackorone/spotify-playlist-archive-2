@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-02",
-  "description": "Ambient with the soothing sounds of water, rain and birds.",
+  "description": "Ambient with the soothing sounds of water, rain and birds. ",
   "name": "Nature Relaxation",
   "tracks": [
     {
@@ -614,7 +614,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 180475,
       "name": "Bird Bath Opus",
       "url": "https://open.spotify.com/track/0JdkqE8WG3f638p5SRHhZ2"
@@ -3124,7 +3124,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-11",
+      "date_removed": null,
       "duration_ms": 194634,
       "name": "Groundedness",
       "url": "https://open.spotify.com/track/5bgc9zFfs6s83HiPxgNWGe"

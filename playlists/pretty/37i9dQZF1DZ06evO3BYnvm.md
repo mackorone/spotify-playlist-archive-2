@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3BYnvm.md) - [plain]
 
 > This is Lola Young\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,632 likes - 46 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,646 likes - 46 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,19 +28,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3BYnvm.md) - [plain]
 | 18 | [Good Books](https://open.spotify.com/track/7qqDAVEq3y8yKmEMVMJ6Wf) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [This Wasn't Meant For You Anyway](https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U) | 4:14 |
 | 19 | [Pick Me Up](https://open.spotify.com/track/30jct5HzIetNY4IGbrnQKz) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Renaissance](https://open.spotify.com/album/1E1voIf1Str4mMaAZXegXY) | 3:37 |
 | 20 | [Don't Hate Me](https://open.spotify.com/track/3xHiCTehVvsc7w26DuEdYw) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [My Mind Wanders and Sometimes Leaves Completely](https://open.spotify.com/album/2cGz67xkbq20pKQpqQmzQl) | 2:42 |
-| 21 | [CAN WE IGNORE IT? :\(](https://open.spotify.com/track/7ngxyVEN2by33HGfrGdjDn) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [I’m Only F\*\*king Myself](https://open.spotify.com/album/5jUCvcrzCNng7N3iNVY4ts) | 4:34 |
+| 21 | [Walk All Over You](https://open.spotify.com/track/1RsBQ3yupjXE6dTbP8gPbl) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [I’m Only F\*\*king Myself](https://open.spotify.com/album/5jUCvcrzCNng7N3iNVY4ts) | 3:04 |
 | 22 | [Big Brown Eyes](https://open.spotify.com/track/2kKnGTvaxmi6OiOObpf6r3) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [This Wasn't Meant For You Anyway](https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U) | 3:38 |
 | 23 | [Bad Tattoo](https://open.spotify.com/track/2zw7f5vqU22SkaaQoir5z3) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Bad Tattoo](https://open.spotify.com/album/1t6lsN537l6aHAmyS1pT4y) | 3:53 |
 | 24 | [Revolve Around You](https://open.spotify.com/track/2cuqluSFXdM2weiP6lN8kY) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [My Mind Wanders and Sometimes Leaves Completely](https://open.spotify.com/album/2cGz67xkbq20pKQpqQmzQl) | 3:12 |
-| 25 | [Walk All Over You](https://open.spotify.com/track/1RsBQ3yupjXE6dTbP8gPbl) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [I’m Only F\*\*king Myself](https://open.spotify.com/album/5jUCvcrzCNng7N3iNVY4ts) | 3:04 |
+| 25 | [CAN WE IGNORE IT? :\(](https://open.spotify.com/track/7ngxyVEN2by33HGfrGdjDn) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [I’m Only F\*\*king Myself](https://open.spotify.com/album/5jUCvcrzCNng7N3iNVY4ts) | 4:34 |
 | 26 | [Crush](https://open.spotify.com/track/19ddrF8BsiVVYszpeWjb6y) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [This Wasn't Meant For You Anyway](https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U) | 3:46 |
 | 27 | [3rd of Jan](https://open.spotify.com/track/3g50kqe9qShzWTCf6b6GbW) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Intro](https://open.spotify.com/album/7nlnkF135vozYOVdbtEi0z) | 3:25 |
 | 28 | [Semantic Satiation](https://open.spotify.com/track/3lvPfDVsd8kBj8j1QrnKV5) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [My Mind Wanders and Sometimes Leaves Completely](https://open.spotify.com/album/2cGz67xkbq20pKQpqQmzQl) | 2:59 |
 | 29 | [Ruin My Make Up](https://open.spotify.com/track/0hDDcANYNTgvQ2gpsBBjaZ) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Ruin My Make Up](https://open.spotify.com/album/6G0IIKFpdLDBfffVUx2HOM) | 2:50 |
-| 30 | [Pill or a Lullaby \(4AM till sunrise\)](https://open.spotify.com/track/3tobV7N1AsH5HKqXl2zrTs) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Blue \(2AM\)](https://open.spotify.com/album/6fObx5V4teMIbn52o3qTse) | 3:51 |
+| 30 | [I Don't Mind](https://open.spotify.com/track/1dVzh4UqR5m6wKk8x5OXcv) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Bose x NME: C24](https://open.spotify.com/album/5KKWsXzOZnaBpGLQjJCRrD) | 1:18 |
 | 31 | [Blind Love](https://open.spotify.com/track/1Tr2J2bbK9lS6tCs9LFoDo) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Intro](https://open.spotify.com/album/7nlnkF135vozYOVdbtEi0z) | 3:48 |
 | 32 | [Stream Of Consciousness](https://open.spotify.com/track/4S6PEl7GETF22GjtgsZ19O) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [My Mind Wanders and Sometimes Leaves Completely](https://open.spotify.com/album/2cGz67xkbq20pKQpqQmzQl) | 3:21 |
-| 33 | [I Don't Mind](https://open.spotify.com/track/1dVzh4UqR5m6wKk8x5OXcv) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Bose x NME: C24](https://open.spotify.com/album/5KKWsXzOZnaBpGLQjJCRrD) | 1:18 |
+| 33 | [Pill or a Lullaby \(4AM till sunrise\)](https://open.spotify.com/track/3tobV7N1AsH5HKqXl2zrTs) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Blue \(2AM\)](https://open.spotify.com/album/6fObx5V4teMIbn52o3qTse) | 3:51 |
 | 34 | [Outta My Mind pt\. 2](https://open.spotify.com/track/1oyU5HNnNiANItI7DOudPb) | [chlothegod](https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx), [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Outta My Mind pt\. 2](https://open.spotify.com/album/5LSKV2loSaO06efMk8hzED) | 2:44 |
 | 35 | [Grey And Lilac \- Intro](https://open.spotify.com/track/1TMF8DNwkbQLkBodN8Lgnu) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Intro](https://open.spotify.com/album/7nlnkF135vozYOVdbtEi0z) | 2:37 |
 | 36 | [Same Bed](https://open.spotify.com/track/0Khhft9qOXfvpEbg7Vn2jF) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Renaissance](https://open.spotify.com/album/1E1voIf1Str4mMaAZXegXY) | 3:45 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3BYnvm.md) - [plain]
 | 45 | [Charlie \(feat\. Lil Yachty\)](https://open.spotify.com/track/7d25e7sGPoQ0orHhKroTu3) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Charlie \(feat\. Lil Yachty\)](https://open.spotify.com/album/5P4MdgUXgsy3NWb3oi6XJT) | 4:51 |
 | 46 | [Who Woulda Thought](https://open.spotify.com/track/7qWJlnmU20sX2zQU6UkZxx) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk), [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Pier Pressure](https://open.spotify.com/album/2acy6L0ZXAGSHoW6TIVtyW) | 2:49 |
 
-Snapshot ID: `adg9gAAAAACNwFhAJDdUxyVEbMC5Tijl`
+Snapshot ID: `admPAAAAAAA8uLoqyJTPB+V2KfsghAJs`

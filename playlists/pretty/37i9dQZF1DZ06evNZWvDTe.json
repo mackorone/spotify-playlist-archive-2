@@ -1,12 +1,12 @@
 {
   "description": "This is Sarkodie. The essential tracks, all in one playlist.",
-  "num_followers": 14337,
+  "num_followers": 14338,
   "original_name": "This Is Sarkodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adg9gAAAAADnv5NAG/vPFvHynEtrRzKY",
+  "snapshot_id": "admPAAAAAABYNb+NMRNIV98u3LnxPRXN",
   "tracks": [
     {
       "added_at": null,
@@ -443,26 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NEXT DOOR (with Sarkodie)",
-        "url": "https://open.spotify.com/album/0stN3a7ORRVvn3Xeyq47HI"
-      },
-      "artists": [
-        {
-          "name": "KOJO BLAK",
-          "url": "https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 156791,
-      "name": "NEXT DOOR (with Sarkodie)",
-      "url": "https://open.spotify.com/track/7ngTKqkPVMV5sVrIWcBnTC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Black Love",
         "url": "https://open.spotify.com/album/4hPzCGUS1pXGK533LHm0gN"
       },
@@ -479,6 +459,26 @@
       "duration_ms": 193333,
       "name": "Strength of a Woman",
       "url": "https://open.spotify.com/track/1roi2yd19qyecN3oTA3D5Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NEXT DOOR (with Sarkodie)",
+        "url": "https://open.spotify.com/album/0stN3a7ORRVvn3Xeyq47HI"
+      },
+      "artists": [
+        {
+          "name": "KOJO BLAK",
+          "url": "https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 156791,
+      "name": "NEXT DOOR (with Sarkodie)",
+      "url": "https://open.spotify.com/track/7ngTKqkPVMV5sVrIWcBnTC"
     },
     {
       "added_at": null,
@@ -523,26 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adonai (Remix)",
-        "url": "https://open.spotify.com/album/0K8AdVnV4Pf2gbUOSYeady"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Castro",
-          "url": "https://open.spotify.com/artist/1NhHtG7W5ia2fqXRw5Sp5M"
-        }
-      ],
-      "duration_ms": 288130,
-      "name": "Adonai (Remix)",
-      "url": "https://open.spotify.com/track/4cEWZvR2wkb8aEB1vkTQDS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Black Love",
         "url": "https://open.spotify.com/album/4hPzCGUS1pXGK533LHm0gN"
       },
@@ -559,6 +539,26 @@
       "duration_ms": 267660,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/2ChuNrtRECfBmGlW34Bq0Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Adonai (Remix)",
+        "url": "https://open.spotify.com/album/0K8AdVnV4Pf2gbUOSYeady"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Castro",
+          "url": "https://open.spotify.com/artist/1NhHtG7W5ia2fqXRw5Sp5M"
+        }
+      ],
+      "duration_ms": 288130,
+      "name": "Adonai (Remix)",
+      "url": "https://open.spotify.com/track/4cEWZvR2wkb8aEB1vkTQDS"
     },
     {
       "added_at": null,
@@ -687,6 +687,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "HUSTLERS DREAM (feat. Jay Bahd & Kwaku DMC)",
+        "url": "https://open.spotify.com/album/4YGITRot41cA37kXtZu4VZ"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Jay Bahd",
+          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
+        },
+        {
+          "name": "Kwaku DMC",
+          "url": "https://open.spotify.com/artist/4gP93834jVbocef9R42gQz"
+        }
+      ],
+      "duration_ms": 195555,
+      "name": "HUSTLERS DREAM (feat. Jay Bahd & Kwaku DMC)",
+      "url": "https://open.spotify.com/track/71aJvjD3gGV1TY7A0Ymg4m"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tonga",
         "url": "https://open.spotify.com/album/21RhbIIQ8i06WMDavhdgs8"
       },
@@ -727,30 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HUSTLERS DREAM (feat. Jay Bahd & Kwaku DMC)",
-        "url": "https://open.spotify.com/album/4YGITRot41cA37kXtZu4VZ"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Jay Bahd",
-          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
-        },
-        {
-          "name": "Kwaku DMC",
-          "url": "https://open.spotify.com/artist/4gP93834jVbocef9R42gQz"
-        }
-      ],
-      "duration_ms": 195555,
-      "name": "HUSTLERS DREAM (feat. Jay Bahd & Kwaku DMC)",
-      "url": "https://open.spotify.com/track/71aJvjD3gGV1TY7A0Ymg4m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "King",
         "url": "https://open.spotify.com/album/255tfKXfBXIX6OmaBBs3xj"
       },
@@ -787,26 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anointing",
-        "url": "https://open.spotify.com/album/7xNyqynau8Dgmpw3xmFVrg"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 216546,
-      "name": "Anointing",
-      "url": "https://open.spotify.com/track/7BHFEdHwNBdmCeFGvOClNy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hope (Brighter Day)",
         "url": "https://open.spotify.com/album/5Ks031asGtXwrPF5nV9wq5"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 316422,
       "name": "Hope (Brighter Day)",
       "url": "https://open.spotify.com/track/1WUYq0lXmd7K2DVVxi8XPv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anointing",
+        "url": "https://open.spotify.com/album/7xNyqynau8Dgmpw3xmFVrg"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 216546,
+      "name": "Anointing",
+      "url": "https://open.spotify.com/track/7BHFEdHwNBdmCeFGvOClNy"
     },
     {
       "added_at": null,

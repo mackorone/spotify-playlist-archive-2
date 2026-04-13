@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc9orRugI29r.md) - [plain]
 
 > LAS CANCIONES MÁS 🔥🔥🔥  WELCOME TO KATSEYE WORLD
 
-[Spotify](https://open.spotify.com/user/spotify) - 494,894 likes - 49 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 494,880 likes - 49 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

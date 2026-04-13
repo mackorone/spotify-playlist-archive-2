@@ -2,7 +2,7 @@
 
 ### [Génération Rock Français](https://open.spotify.com/playlist/37i9dQZF1DX2xKCIjknUoQ)
 
-> Le meilleur du rock français moderne\. Photo : Saez
+> Le meilleur du rock français moderne\. Photo : Last Train
 
 86 songs - 5 hr 6 min
 

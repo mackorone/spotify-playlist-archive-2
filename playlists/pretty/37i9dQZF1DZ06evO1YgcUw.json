@@ -1,12 +1,12 @@
 {
   "description": "This is The Beach Boys. The essential tracks, all in one playlist.",
-  "num_followers": 341204,
+  "num_followers": 341202,
   "original_name": "This Is The Beach Boys",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adg9gAAAAAD0UMXZzMKzAFRj6fqFkXmj",
+  "snapshot_id": "admPAAAAAACML1raWXrG2orZmvQ3eCOK",
   "tracks": [
     {
       "added_at": null,
@@ -411,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Beach Boys Today! (Remastered)",
-        "url": "https://open.spotify.com/album/1xPtXzS5yCbDAqC7pxRCaF"
+        "name": "Holland (Remastered 2000)",
+        "url": "https://open.spotify.com/album/56TmtkBepKW3eZKiRjEl0M"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
         }
       ],
-      "duration_ms": 167266,
-      "name": "Please Let Me Wonder - Remastered",
-      "url": "https://open.spotify.com/track/0rttThNJX5cZLtQUASghA7"
+      "duration_ms": 202426,
+      "name": "Sail On, Sailor - Remastered 2000",
+      "url": "https://open.spotify.com/track/3U4hSjTlK6WU0wORlAne9H"
     },
     {
       "added_at": null,
@@ -443,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Holland (Remastered 2000)",
-        "url": "https://open.spotify.com/album/56TmtkBepKW3eZKiRjEl0M"
+        "name": "The Beach Boys Today! (Remastered)",
+        "url": "https://open.spotify.com/album/1xPtXzS5yCbDAqC7pxRCaF"
       },
       "artists": [
         {
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
         }
       ],
-      "duration_ms": 202426,
-      "name": "Sail On, Sailor - Remastered 2000",
-      "url": "https://open.spotify.com/track/3U4hSjTlK6WU0wORlAne9H"
+      "duration_ms": 167266,
+      "name": "Please Let Me Wonder - Remastered",
+      "url": "https://open.spotify.com/track/0rttThNJX5cZLtQUASghA7"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/2ninxvLuYGCb6H92qTaSFZ"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 124146,
-      "name": "Dance, Dance, Dance",
-      "url": "https://open.spotify.com/track/107Rm04DaGWg6GqFILZ5W5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All Summer Long (Mono & Stereo)",
         "url": "https://open.spotify.com/album/6GnzWMUyNEETCq6eftD98v"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 128973,
       "name": "All Summer Long (Stereo)",
       "url": "https://open.spotify.com/track/7Dq4DIHxstJPuoZAkP4885"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/2ninxvLuYGCb6H92qTaSFZ"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 124146,
+      "name": "Dance, Dance, Dance",
+      "url": "https://open.spotify.com/track/107Rm04DaGWg6GqFILZ5W5"
     },
     {
       "added_at": null,

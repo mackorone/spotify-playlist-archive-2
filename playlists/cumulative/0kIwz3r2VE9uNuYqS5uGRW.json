@@ -2869,6 +2869,24 @@
     },
     {
       "album": {
+        "name": "Shadow On That Wall",
+        "url": "https://open.spotify.com/album/4nssfVrog8nSlQYmJbw3pI"
+      },
+      "artists": [
+        {
+          "name": "Skyyy",
+          "url": "https://open.spotify.com/artist/4EmOC9W13wmWQyJTYyqyXo"
+        }
+      ],
+      "date_added": "2026-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289610,
+      "name": "Shadow On That Wall",
+      "url": "https://open.spotify.com/track/26Hnnzyv8G31g3pLs8YZ2X"
+    },
+    {
+      "album": {
         "name": "She's My Witch",
         "url": "https://open.spotify.com/album/514yIpEXXdJmn2lPXrhOcu"
       },

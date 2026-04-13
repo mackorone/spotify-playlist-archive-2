@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 
 > Your favorite Punjabi Ghazals and Qawwalis\. Cover: Satinder Sartaaj
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,363 likes - 50 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,412 likes - 50 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,9 +12,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 | 2 | [Kavita](https://open.spotify.com/track/0YXrj0gYt6QKj9Kwni5QMt) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Shikhar](https://open.spotify.com/album/6ylmH5wcCn80rTOLsfYwkd) | 3:49 |
 | 3 | [Biba Sada Dil](https://open.spotify.com/track/4MpxPfrHo6znvmJUwG1odK) | [Bismil](https://open.spotify.com/artist/1dU8OXH7zI79wpLxei4EDu), [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Biba Sada Dil](https://open.spotify.com/album/3cIdb5C0FLa49DmoQzTAcj) | 4:09 |
 | 4 | [Zikr Tera](https://open.spotify.com/track/5kl9GaHyI35Hr62DuSxbk5) | [Prem & Hardeep](https://open.spotify.com/artist/4ZPpGYjIb5caOhHhQANO8P), [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Rangrez](https://open.spotify.com/album/74PHaQYpw3BdgQXbq3SYDo) | 4:55 |
-| 5 | [Allah Toh Mangda](https://open.spotify.com/track/4S1GXp6bFvymtQc2f9Sgxg) | [Rahul Rana](https://open.spotify.com/artist/3gvnLVc6Wsn13fC9lLS4JC), [Arjit Srivastava](https://open.spotify.com/artist/1F3D5Gc6MToIAQoFOtYKkz), [Arjun Sarkar](https://open.spotify.com/artist/2Vb02uLgydFy8Gn2gwPR5s) | [Allah Toh Mangda](https://open.spotify.com/album/5rrLavvhnCmWTczcelNJra) | 3:34 |
+| 5 | [Rehan De Rehan De](https://open.spotify.com/track/1VhCPwvew5s51i7CXMcE39) | [Hans Raj Hans](https://open.spotify.com/artist/7967TUOaS203OMlBrsHS8X) | [Haaye Sohniye](https://open.spotify.com/album/2uhpD5sZ6ZGkgAjhnrC9lN) | 5:09 |
 | 6 | [Udaarian](https://open.spotify.com/track/3K3mo4LoxPKk18oqIC3hQC) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Seasons of Sartaaj](https://open.spotify.com/album/4xF2qIUtsAvN5laJlXuav6) | 5:42 |
-| 7 | [Rehan De Rehan De](https://open.spotify.com/track/1VhCPwvew5s51i7CXMcE39) | [Hans Raj Hans](https://open.spotify.com/artist/7967TUOaS203OMlBrsHS8X) | [Haaye Sohniye](https://open.spotify.com/album/2uhpD5sZ6ZGkgAjhnrC9lN) | 5:09 |
+| 7 | [Allah Toh Mangda](https://open.spotify.com/track/4S1GXp6bFvymtQc2f9Sgxg) | [Rahul Rana](https://open.spotify.com/artist/3gvnLVc6Wsn13fC9lLS4JC), [Arjit Srivastava](https://open.spotify.com/artist/1F3D5Gc6MToIAQoFOtYKkz), [Arjun Sarkar](https://open.spotify.com/artist/2Vb02uLgydFy8Gn2gwPR5s) | [Allah Toh Mangda](https://open.spotify.com/album/5rrLavvhnCmWTczcelNJra) | 3:34 |
 | 8 | [Ranjha](https://open.spotify.com/track/65ixdACjOb3qOSLnGONOSB) | [Shye Ben Tzur](https://open.spotify.com/artist/2UCzkuXiE37VD7K123J4Tf), [Jonny Greenwood](https://open.spotify.com/artist/0z9s3P5vCzKcUBSxgBDyLU), [The Rajasthan Express](https://open.spotify.com/artist/01LHIx3tQpDdRtuGLOI9Jk) | [Ranjha](https://open.spotify.com/album/3IKEzGl5fUUO29QdbPlc9X) | 4:51 |
 | 9 | [Churi](https://open.spotify.com/track/5cxVEgRGbZkISmLWsAkOhz) | [Lakhwinder Wadali](https://open.spotify.com/artist/1SAfLgPPu8S6NWUJES6LNO) | [Naina De Buhe](https://open.spotify.com/album/2c3w6QpLxtDPls6IXyYRDp) | 6:00 |
 | 10 | [KHED ISHQE DI](https://open.spotify.com/track/6mfsnDVuZ7XP66s2FJqrz9) | [Khan Saab](https://open.spotify.com/artist/5Uo28tAylVBPPW2Cs8LFwN), [Sandeep Kaur Sidhu](https://open.spotify.com/artist/32fW3RBYZcC0FxXQC1NiY5) | [KHED ISHQE DI](https://open.spotify.com/album/2DB1lIB9Eorc4Mw1T60GzT) | 4:27 |

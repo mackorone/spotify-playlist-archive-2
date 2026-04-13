@@ -1,6 +1,6 @@
 {
   "description": "A mix of folk and bluegrass covers of pop, rock, hip-hop, folk, and indie songs. Cover: I'm With Her",
-  "num_followers": 285207,
+  "num_followers": 285201,
   "original_name": "Bluegrass Covers",
   "owner": {
     "name": "Spotify",
@@ -839,6 +839,22 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
+        "name": "Defying Gravity",
+        "url": "https://open.spotify.com/album/2RoHp3yp5WgYAiFN5uCE5k"
+      },
+      "artists": [
+        {
+          "name": "Austin Brown: The Covers",
+          "url": "https://open.spotify.com/artist/7BTVjewQkmSmvHAzEqIl36"
+        }
+      ],
+      "duration_ms": 184687,
+      "name": "Defying Gravity",
+      "url": "https://open.spotify.com/track/3sCMvJ9DOm6vwt8DzkC2tm"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
         "name": "Forever Young",
         "url": "https://open.spotify.com/album/5n8T0Yk5POyP50j2Eku13M"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 228480,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/4q2p4js4UgAxWfaWYjdtIT"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
-        "name": "Defying Gravity",
-        "url": "https://open.spotify.com/album/2RoHp3yp5WgYAiFN5uCE5k"
-      },
-      "artists": [
-        {
-          "name": "Austin Brown: The Covers",
-          "url": "https://open.spotify.com/artist/7BTVjewQkmSmvHAzEqIl36"
-        }
-      ],
-      "duration_ms": 184687,
-      "name": "Defying Gravity",
-      "url": "https://open.spotify.com/track/3sCMvJ9DOm6vwt8DzkC2tm"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -995,22 +995,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "He Called Me Baby",
-        "url": "https://open.spotify.com/album/7aiK72YOfer4Rx9KzSOnak"
-      },
-      "artists": [
-        {
-          "name": "AJ Lee & Blue Summit",
-          "url": "https://open.spotify.com/artist/1VwMKPdHxC7tI21tynmXEr"
-        }
-      ],
-      "duration_ms": 279198,
-      "name": "He Called Me Baby",
-      "url": "https://open.spotify.com/track/07XgjLPy8zK8ppSZ7r38gb"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "The Very Best Yet (The Very Best Yet Version)",
         "url": "https://open.spotify.com/album/2BgbVFW7nmYTDWuhqNMuAq"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 218091,
       "name": "Can't Feel My Face - The Very Best Yet Version",
       "url": "https://open.spotify.com/track/5NM7wEj9onAnCEQ65X8AMH"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "He Called Me Baby",
+        "url": "https://open.spotify.com/album/7aiK72YOfer4Rx9KzSOnak"
+      },
+      "artists": [
+        {
+          "name": "AJ Lee & Blue Summit",
+          "url": "https://open.spotify.com/artist/1VwMKPdHxC7tI21tynmXEr"
+        }
+      ],
+      "duration_ms": 279198,
+      "name": "He Called Me Baby",
+      "url": "https://open.spotify.com/track/07XgjLPy8zK8ppSZ7r38gb"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
+        "name": "YMCA b/w Rasputin",
+        "url": "https://open.spotify.com/album/2mL8VJ3gAD7qD5hKfR2ud6"
+      },
+      "artists": [
+        {
+          "name": "Hayseed Dixie",
+          "url": "https://open.spotify.com/artist/7x1riqKyOjly8udO9DhPVi"
+        }
+      ],
+      "duration_ms": 281287,
+      "name": "YMCA",
+      "url": "https://open.spotify.com/track/6qhhp15Dmknb3QSiEqLOOm"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
         "name": "Pursuit of Happiness",
         "url": "https://open.spotify.com/album/1Ie8GLQFnaxchf0ZPihKvq"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 267690,
       "name": "It's a Great Day to Be Alive",
       "url": "https://open.spotify.com/track/64lQoUgmhvS8KqstWlg4J9"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
-        "name": "YMCA b/w Rasputin",
-        "url": "https://open.spotify.com/album/2mL8VJ3gAD7qD5hKfR2ud6"
-      },
-      "artists": [
-        {
-          "name": "Hayseed Dixie",
-          "url": "https://open.spotify.com/artist/7x1riqKyOjly8udO9DhPVi"
-        }
-      ],
-      "duration_ms": 281287,
-      "name": "YMCA",
-      "url": "https://open.spotify.com/track/6qhhp15Dmknb3QSiEqLOOm"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Norwegian Wood (This Bird Has Flown)",
-        "url": "https://open.spotify.com/album/6QjVfP6KCKaTBAv68CLa1Q"
-      },
-      "artists": [
-        {
-          "name": "Malingo",
-          "url": "https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk"
-        }
-      ],
-      "duration_ms": 167827,
-      "name": "Norwegian Wood (This Bird Has Flown)",
-      "url": "https://open.spotify.com/track/2FFZNaGdYTRWlYftmpCexq"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Johnny B. Goode",
         "url": "https://open.spotify.com/album/3GwPLOfHKwTHpOdO349mRv"
       },
@@ -1467,6 +1451,22 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
+        "name": "Norwegian Wood (This Bird Has Flown)",
+        "url": "https://open.spotify.com/album/6QjVfP6KCKaTBAv68CLa1Q"
+      },
+      "artists": [
+        {
+          "name": "Malingo",
+          "url": "https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk"
+        }
+      ],
+      "duration_ms": 167827,
+      "name": "Norwegian Wood (This Bird Has Flown)",
+      "url": "https://open.spotify.com/track/2FFZNaGdYTRWlYftmpCexq"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
         "name": "Fire and Rain",
         "url": "https://open.spotify.com/album/7gQEW5gWpzPgrObCHeZRob"
       },
@@ -1479,6 +1479,30 @@
       "duration_ms": 213366,
       "name": "Fire and Rain",
       "url": "https://open.spotify.com/track/4vqiHn2vIgs7HjJbc0pvYF"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "Those Were the Days",
+        "url": "https://open.spotify.com/album/4afclf1PXcwWZYU1B1wie1"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Rhonda Vincent",
+          "url": "https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT"
+        },
+        {
+          "name": "Judy Collins",
+          "url": "https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn"
+        }
+      ],
+      "duration_ms": 214453,
+      "name": "Both Sides Now",
+      "url": "https://open.spotify.com/track/1cjDZNaMWIv7Q1eRqF9Rca"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1507,30 +1531,6 @@
       "duration_ms": 221913,
       "name": "Elderly Woman Behind the Counter in a Small Town - Radio Edit",
       "url": "https://open.spotify.com/track/4O0HBabeKYER9BRKW0URli"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
-        "name": "Those Were the Days",
-        "url": "https://open.spotify.com/album/4afclf1PXcwWZYU1B1wie1"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Rhonda Vincent",
-          "url": "https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT"
-        },
-        {
-          "name": "Judy Collins",
-          "url": "https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn"
-        }
-      ],
-      "duration_ms": 214453,
-      "name": "Both Sides Now",
-      "url": "https://open.spotify.com/track/1cjDZNaMWIv7Q1eRqF9Rca"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Songs From Neverland",
-        "url": "https://open.spotify.com/album/5bnpTjo2c8LCWIxGL15E61"
-      },
-      "artists": [
-        {
-          "name": "Honeywagon",
-          "url": "https://open.spotify.com/artist/1wky7WkIkB0dvbzUShNpqx"
-        }
-      ],
-      "duration_ms": 222213,
-      "name": "P.Y.T.",
-      "url": "https://open.spotify.com/track/2MfO6yN6OBzQCPxuVILvMg"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Guess I'm Doing Fine",
         "url": "https://open.spotify.com/album/7CvyXC5glE5wSTiaTW7Q21"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 280441,
       "name": "Guess I'm Doing Fine",
       "url": "https://open.spotify.com/track/1nYepgS69x8u58SHOpfkSq"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "Songs From Neverland",
+        "url": "https://open.spotify.com/album/5bnpTjo2c8LCWIxGL15E61"
+      },
+      "artists": [
+        {
+          "name": "Honeywagon",
+          "url": "https://open.spotify.com/artist/1wky7WkIkB0dvbzUShNpqx"
+        }
+      ],
+      "duration_ms": 222213,
+      "name": "P.Y.T.",
+      "url": "https://open.spotify.com/track/2MfO6yN6OBzQCPxuVILvMg"
     }
   ],
   "unique_name": "Bluegrass Covers",

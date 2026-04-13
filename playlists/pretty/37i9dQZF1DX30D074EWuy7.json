@@ -1,6 +1,6 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Carolina Bubbico",
-  "num_followers": 34205,
+  "num_followers": 34211,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
@@ -519,18 +519,18 @@
     {
       "added_at": "2026-04-09 22:04:01",
       "album": {
-        "name": "Editto Dal Sottoscoglio",
-        "url": "https://open.spotify.com/album/1NhEbC11WBZrAHU8V2Bqt7"
+        "name": "Petali",
+        "url": "https://open.spotify.com/album/518L57Dsoghg11ivCZHLRp"
       },
       "artists": [
         {
-          "name": "Marco Castello",
-          "url": "https://open.spotify.com/artist/0ErDKYNv448COBCNdnqYIm"
+          "name": "Simona Molinari",
+          "url": "https://open.spotify.com/artist/5d5jafxHTP33OEUupZCxJq"
         }
       ],
-      "duration_ms": 206204,
-      "name": "Editto Dal Sottoscoglio",
-      "url": "https://open.spotify.com/track/2gxOjXkQSlOo8qPfFF97PH"
+      "duration_ms": 217872,
+      "name": "Lei balla sola",
+      "url": "https://open.spotify.com/track/36KtplF9itOd0tFVN1HYuf"
     },
     {
       "added_at": "2026-04-09 22:04:01",
@@ -551,18 +551,18 @@
     {
       "added_at": "2026-04-09 22:04:01",
       "album": {
-        "name": "Petali",
-        "url": "https://open.spotify.com/album/518L57Dsoghg11ivCZHLRp"
+        "name": "Editto Dal Sottoscoglio",
+        "url": "https://open.spotify.com/album/1NhEbC11WBZrAHU8V2Bqt7"
       },
       "artists": [
         {
-          "name": "Simona Molinari",
-          "url": "https://open.spotify.com/artist/5d5jafxHTP33OEUupZCxJq"
+          "name": "Marco Castello",
+          "url": "https://open.spotify.com/artist/0ErDKYNv448COBCNdnqYIm"
         }
       ],
-      "duration_ms": 217872,
-      "name": "Lei balla sola",
-      "url": "https://open.spotify.com/track/36KtplF9itOd0tFVN1HYuf"
+      "duration_ms": 206204,
+      "name": "Editto Dal Sottoscoglio",
+      "url": "https://open.spotify.com/track/2gxOjXkQSlOo8qPfFF97PH"
     },
     {
       "added_at": "2026-04-09 22:04:01",
@@ -979,22 +979,6 @@
     {
       "added_at": "2026-04-09 22:04:01",
       "album": {
-        "name": "La ragazza dalla pelle di luna",
-        "url": "https://open.spotify.com/album/2Yy70WbCDfjI4yzfska0Yg"
-      },
-      "artists": [
-        {
-          "name": "Piero Umiliani",
-          "url": "https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk"
-        }
-      ],
-      "duration_ms": 175047,
-      "name": "Stella del sud",
-      "url": "https://open.spotify.com/track/4DkvQdCtKBSPJ8D9O6oP9p"
-    },
-    {
-      "added_at": "2026-04-09 22:04:01",
-      "album": {
         "name": "Le ore nude (Original Motion Picture Soundtrack / Remastered 2022)",
         "url": "https://open.spotify.com/album/0bds6CIDJWikmmwJYC7ONe"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 150000,
       "name": "Appuntamento al mare - Remastered 2022",
       "url": "https://open.spotify.com/track/1cXpSckmX6kpwwxOaQ61UC"
+    },
+    {
+      "added_at": "2026-04-09 22:04:01",
+      "album": {
+        "name": "La ragazza dalla pelle di luna",
+        "url": "https://open.spotify.com/album/2Yy70WbCDfjI4yzfska0Yg"
+      },
+      "artists": [
+        {
+          "name": "Piero Umiliani",
+          "url": "https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk"
+        }
+      ],
+      "duration_ms": 175047,
+      "name": "Stella del sud",
+      "url": "https://open.spotify.com/track/4DkvQdCtKBSPJ8D9O6oP9p"
     },
     {
       "added_at": "2026-04-09 22:04:01",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2026-04-09 22:04:01",
       "album": {
-        "name": "Pandora",
-        "url": "https://open.spotify.com/album/3gAKkrKCi1tmDozOpVckVL"
-      },
-      "artists": [
-        {
-          "name": "Il Mago Del Gelato",
-          "url": "https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA"
-        }
-      ],
-      "duration_ms": 211818,
-      "name": "Pandora",
-      "url": "https://open.spotify.com/track/0tR48664h2XserXZXARvf7"
-    },
-    {
-      "added_at": "2026-04-09 22:04:01",
-      "album": {
         "name": "Popoli del Mare",
         "url": "https://open.spotify.com/album/1g7UTKhytfHHaqU17J22e6"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 279709,
       "name": "Popoli del Mare",
       "url": "https://open.spotify.com/track/4oTX4W2AcuxSU1iPAeAasE"
+    },
+    {
+      "added_at": "2026-04-09 22:04:01",
+      "album": {
+        "name": "Pandora",
+        "url": "https://open.spotify.com/album/3gAKkrKCi1tmDozOpVckVL"
+      },
+      "artists": [
+        {
+          "name": "Il Mago Del Gelato",
+          "url": "https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA"
+        }
+      ],
+      "duration_ms": 211818,
+      "name": "Pandora",
+      "url": "https://open.spotify.com/track/0tR48664h2XserXZXARvf7"
     },
     {
       "added_at": "2026-04-09 22:04:01",
@@ -1319,26 +1319,6 @@
     {
       "added_at": "2026-04-09 22:04:01",
       "album": {
-        "name": "Taish\u014dgoto",
-        "url": "https://open.spotify.com/album/2vEboxecinXL8aqLjQxN4h"
-      },
-      "artists": [
-        {
-          "name": "Daniele Baldelli",
-          "url": "https://open.spotify.com/artist/3NZuWa2TqpeGPWGISzX8E7"
-        },
-        {
-          "name": "Gaudi",
-          "url": "https://open.spotify.com/artist/4VPauFDuyMnoakRnCPmcgP"
-        }
-      ],
-      "duration_ms": 304173,
-      "name": "Taish\u014dgoto",
-      "url": "https://open.spotify.com/track/260KNXOYlJjmb51DvC6KF7"
-    },
-    {
-      "added_at": "2026-04-09 22:04:01",
-      "album": {
         "name": "MADRE",
         "url": "https://open.spotify.com/album/4yfpNgINggMNX8KJqooGZ3"
       },
@@ -1359,6 +1339,26 @@
       "duration_ms": 245500,
       "name": "CAOS ARM\u00d2NICO (feat. Clap! Clap!)",
       "url": "https://open.spotify.com/track/0fIaouH60PJ35OBZIF3tTh"
+    },
+    {
+      "added_at": "2026-04-09 22:04:01",
+      "album": {
+        "name": "Taish\u014dgoto",
+        "url": "https://open.spotify.com/album/2vEboxecinXL8aqLjQxN4h"
+      },
+      "artists": [
+        {
+          "name": "Daniele Baldelli",
+          "url": "https://open.spotify.com/artist/3NZuWa2TqpeGPWGISzX8E7"
+        },
+        {
+          "name": "Gaudi",
+          "url": "https://open.spotify.com/artist/4VPauFDuyMnoakRnCPmcgP"
+        }
+      ],
+      "duration_ms": 304173,
+      "name": "Taish\u014dgoto",
+      "url": "https://open.spotify.com/track/260KNXOYlJjmb51DvC6KF7"
     },
     {
       "added_at": "2026-04-09 22:04:01",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2026-04-09 22:04:01",
       "album": {
+        "name": "Feliz",
+        "url": "https://open.spotify.com/album/7wHCGiTLzd4HDubO0QR5TO"
+      },
+      "artists": [
+        {
+          "name": "Alsogood",
+          "url": "https://open.spotify.com/artist/5OysFKzPrUU0KnLdCLCkSG"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Feliz",
+      "url": "https://open.spotify.com/track/2d2iHAsxyu6c9Ht5ecaIKh"
+    },
+    {
+      "added_at": "2026-04-09 22:04:01",
+      "album": {
         "name": "Under Italian Skies",
         "url": "https://open.spotify.com/album/5SxQviRKSPWbCJwgTGf737"
       },
@@ -1671,22 +1687,6 @@
     {
       "added_at": "2026-04-09 22:04:01",
       "album": {
-        "name": "Freaky People",
-        "url": "https://open.spotify.com/album/5GidaDXTEqFHHfhH5aTo44"
-      },
-      "artists": [
-        {
-          "name": "Al Doum & The Faryds",
-          "url": "https://open.spotify.com/artist/3eL7WEdwv8YTlSsg5mqyF5"
-        }
-      ],
-      "duration_ms": 348375,
-      "name": "Here We Gong",
-      "url": "https://open.spotify.com/track/5u0jFEGcdSiJgBFvZf0Waj"
-    },
-    {
-      "added_at": "2026-04-09 22:04:01",
-      "album": {
         "name": "La Strada Invisibile",
         "url": "https://open.spotify.com/album/5JEW0isqD0vYpZ0CqGxmhD"
       },
@@ -1703,6 +1703,38 @@
       "duration_ms": 288616,
       "name": "Tuareg",
       "url": "https://open.spotify.com/track/78x2PdL40tU1NMLpv933CU"
+    },
+    {
+      "added_at": "2026-04-09 22:04:01",
+      "album": {
+        "name": "Freaky People",
+        "url": "https://open.spotify.com/album/5GidaDXTEqFHHfhH5aTo44"
+      },
+      "artists": [
+        {
+          "name": "Al Doum & The Faryds",
+          "url": "https://open.spotify.com/artist/3eL7WEdwv8YTlSsg5mqyF5"
+        }
+      ],
+      "duration_ms": 348375,
+      "name": "Here We Gong",
+      "url": "https://open.spotify.com/track/5u0jFEGcdSiJgBFvZf0Waj"
+    },
+    {
+      "added_at": "2026-04-09 22:04:01",
+      "album": {
+        "name": "For Those I Never Knew",
+        "url": "https://open.spotify.com/album/7z9FTyVUHqXqcpfClUrnM2"
+      },
+      "artists": [
+        {
+          "name": "Luca Flores",
+          "url": "https://open.spotify.com/artist/6GtLKGM3P2wpimBDArVY0O"
+        }
+      ],
+      "duration_ms": 269139,
+      "name": "How Far Can You Fly? (Ladder) - Original Version",
+      "url": "https://open.spotify.com/track/6uOV6VHeXTwW51Uc1xyd2t"
     },
     {
       "added_at": "2026-04-09 22:04:01",
@@ -1735,22 +1767,6 @@
       "duration_ms": 180738,
       "name": "Acqua alta",
       "url": "https://open.spotify.com/track/5gpUzlhLYjc1x3yWfbv5nE"
-    },
-    {
-      "added_at": "2026-04-09 22:04:01",
-      "album": {
-        "name": "For Those I Never Knew",
-        "url": "https://open.spotify.com/album/7z9FTyVUHqXqcpfClUrnM2"
-      },
-      "artists": [
-        {
-          "name": "Luca Flores",
-          "url": "https://open.spotify.com/artist/6GtLKGM3P2wpimBDArVY0O"
-        }
-      ],
-      "duration_ms": 269139,
-      "name": "How Far Can You Fly? (Ladder) - Original Version",
-      "url": "https://open.spotify.com/track/6uOV6VHeXTwW51Uc1xyd2t"
     },
     {
       "added_at": "2026-04-09 22:04:01",
@@ -1843,22 +1859,6 @@
     {
       "added_at": "2026-04-09 22:04:01",
       "album": {
-        "name": "Feliz",
-        "url": "https://open.spotify.com/album/7wHCGiTLzd4HDubO0QR5TO"
-      },
-      "artists": [
-        {
-          "name": "Alsogood",
-          "url": "https://open.spotify.com/artist/5OysFKzPrUU0KnLdCLCkSG"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Feliz",
-      "url": "https://open.spotify.com/track/2d2iHAsxyu6c9Ht5ecaIKh"
-    },
-    {
-      "added_at": "2026-04-09 22:04:01",
-      "album": {
         "name": "Kair\u00f2s",
         "url": "https://open.spotify.com/album/20FcZHGXk5gO2HRTXC0wbQ"
       },
@@ -1907,18 +1907,18 @@
     {
       "added_at": "2026-04-09 22:04:01",
       "album": {
-        "name": "Harlem Nocturne",
-        "url": "https://open.spotify.com/album/12jiJYT5OvWXzXzYP20OHG"
+        "name": "La Valle Dei Templi",
+        "url": "https://open.spotify.com/album/4DStIxg2IyyYIL2K1y504z"
       },
       "artists": [
         {
-          "name": "Calibro 35",
-          "url": "https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi"
+          "name": "Perigeo",
+          "url": "https://open.spotify.com/artist/0UB7tnXqRLUWF9dyktuA6e"
         }
       ],
-      "duration_ms": 124613,
-      "name": "Harlem Nocturne",
-      "url": "https://open.spotify.com/track/6Mho4z2FAGpMKcpZTeNbdw"
+      "duration_ms": 184213,
+      "name": "Looping",
+      "url": "https://open.spotify.com/track/5unHInwrVqHtRceQOJ1yIe"
     }
   ],
   "unique_name": "Jazz Italia",

@@ -1,6 +1,6 @@
 {
   "description": "\ud55c\uad6d \ud799\ud569\uc758 \ubfcc\ub9ac, \uc62c\ub4dc\uc2a4\ucfe8 \ud55c\uad6d \ud799\ud569\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (\ucee4\ubc84: Tiger JK)",
-  "num_followers": 5874,
+  "num_followers": 5878,
   "original_name": "\uc62c\ub4dc\uc2a4\ucfe8 \ud55c\uad6d\ud799\ud569 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
@@ -323,22 +323,6 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "Massmediah",
-        "url": "https://open.spotify.com/album/0Su0Fa7STgIBkhoBS036nb"
-      },
-      "artists": [
-        {
-          "name": "CB MASS",
-          "url": "https://open.spotify.com/artist/1P7AuUYePJ4GJPbEvqgPgL"
-        }
-      ],
-      "duration_ms": 219939,
-      "name": "the real thing (For The Club)(feat. Shin Ji Sun)",
-      "url": "https://open.spotify.com/track/261dj6cohdYbXv6tluzwRm"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
         "name": "HONEY FAMILY",
         "url": "https://open.spotify.com/album/10rITeUipFURVOLf0PwJ7T"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 298109,
       "name": "\uc6b0\ub9ac \uac19\uc774\ud574\uc694",
       "url": "https://open.spotify.com/track/5sj2hMW51QPNjJ8HiER4bU"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
+        "name": "Massmediah",
+        "url": "https://open.spotify.com/album/0Su0Fa7STgIBkhoBS036nb"
+      },
+      "artists": [
+        {
+          "name": "CB MASS",
+          "url": "https://open.spotify.com/artist/1P7AuUYePJ4GJPbEvqgPgL"
+        }
+      ],
+      "duration_ms": 219939,
+      "name": "the real thing (For The Club)(feat. Shin Ji Sun)",
+      "url": "https://open.spotify.com/track/261dj6cohdYbXv6tluzwRm"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -407,22 +407,6 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "Matics",
-        "url": "https://open.spotify.com/album/6TgefXLn8pEGjBK2UwkiFx"
-      },
-      "artists": [
-        {
-          "name": "CB MASS",
-          "url": "https://open.spotify.com/artist/1P7AuUYePJ4GJPbEvqgPgL"
-        }
-      ],
-      "duration_ms": 237772,
-      "name": "Whistle",
-      "url": "https://open.spotify.com/track/0yqX4crC7Bf9vWCHGZem2T"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
         "name": "Fanatic",
         "url": "https://open.spotify.com/album/63R1PRmdQrDt6EHftX4laO"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 249400,
       "name": "\uac00\uba74 \ubb34\ub3c4\ud68c The Masquerade",
       "url": "https://open.spotify.com/track/2Hi8362chY7CZhyjX15ELG"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
+        "name": "Matics",
+        "url": "https://open.spotify.com/album/6TgefXLn8pEGjBK2UwkiFx"
+      },
+      "artists": [
+        {
+          "name": "CB MASS",
+          "url": "https://open.spotify.com/artist/1P7AuUYePJ4GJPbEvqgPgL"
+        }
+      ],
+      "duration_ms": 237772,
+      "name": "Whistle",
+      "url": "https://open.spotify.com/track/0yqX4crC7Bf9vWCHGZem2T"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
+        "name": "Modern Rhymes XX",
+        "url": "https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa"
+      },
+      "artists": [
+        {
+          "name": "Verbal Jint",
+          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
+        }
+      ],
+      "duration_ms": 223578,
+      "name": "Overclass - 2021 Remaster",
+      "url": "https://open.spotify.com/track/4s39gBYJ7Zz8x97VPMaSWL"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
         "name": "Handalas",
         "url": "https://open.spotify.com/album/0RmuofqnwuvBbioiOv1jm8"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 216821,
       "name": "Handalas",
       "url": "https://open.spotify.com/track/0VGwwzutmfWbxQfRqQnbme"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
-        "name": "Modern Rhymes XX",
-        "url": "https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa"
-      },
-      "artists": [
-        {
-          "name": "Verbal Jint",
-          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
-        }
-      ],
-      "duration_ms": 223578,
-      "name": "Overclass - 2021 Remaster",
-      "url": "https://open.spotify.com/track/4s39gBYJ7Zz8x97VPMaSWL"
     },
     {
       "added_at": "2024-11-20 08:34:55",

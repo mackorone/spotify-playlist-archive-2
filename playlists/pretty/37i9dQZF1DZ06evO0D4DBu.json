@@ -1,12 +1,12 @@
 {
   "description": "This is Chance the Rapper. The essential tracks, all in one playlist.",
-  "num_followers": 211227,
+  "num_followers": 211220,
   "original_name": "This Is Chance the Rapper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adg9gAAAAAAhSyRieS+4m/zHwCN3o0aW",
+  "snapshot_id": "admPAAAAAABbGRwsfzGz5/+4kZWrfZlI",
   "tracks": [
     {
       "added_at": null,
@@ -355,22 +355,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Holy (Acoustic)",
-        "url": "https://open.spotify.com/album/7CMuwbRcESagTQFvKHGuYU"
+        "name": "Acid Rap (10th Anniversary - Complete Edition)",
+        "url": "https://open.spotify.com/album/3rYMmOfNQlWXYrbd8yXqJ1"
       },
       "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
         {
           "name": "Chance the Rapper",
           "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
         }
       ],
-      "duration_ms": 205815,
-      "name": "Holy - Acoustic",
-      "url": "https://open.spotify.com/track/6gcQJ6W4H89xkQFm63gcsB"
+      "duration_ms": 215062,
+      "name": "Juice",
+      "url": "https://open.spotify.com/track/4J2s7nWDdA7i92sojYX8RJ"
     },
     {
       "added_at": null,
@@ -399,18 +395,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Acid Rap (10th Anniversary - Complete Edition)",
-        "url": "https://open.spotify.com/album/3rYMmOfNQlWXYrbd8yXqJ1"
+        "name": "Holy (Acoustic)",
+        "url": "https://open.spotify.com/album/7CMuwbRcESagTQFvKHGuYU"
       },
       "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
         {
           "name": "Chance the Rapper",
           "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
         }
       ],
-      "duration_ms": 215062,
-      "name": "Juice",
-      "url": "https://open.spotify.com/track/4J2s7nWDdA7i92sojYX8RJ"
+      "duration_ms": 205815,
+      "name": "Holy - Acoustic",
+      "url": "https://open.spotify.com/track/6gcQJ6W4H89xkQFm63gcsB"
     },
     {
       "added_at": null,

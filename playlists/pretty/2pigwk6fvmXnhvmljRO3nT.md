@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,432 songs - 21 day 11 hr 54 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,434 songs - 21 day 12 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -8440,5 +8440,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8430 | [春嵐 \(feat\. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&MEIKO\)](https://open.spotify.com/track/2vIs0ft5VatGSOsKzLJRho) | [Vivid BAD SQUAD](https://open.spotify.com/artist/6mEgpqXA4yzhhncW4cBHlh) | [Vivid BAD SQUAD SEKAI ALBUM vol.3](https://open.spotify.com/album/3TZPSylPSelxKLmxRlLYmb) | 2:36 |
 | 8431 | [Bridge Over Troubled Water](https://open.spotify.com/track/6l8EbYRtQMgKOyc1gcDHF9) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bridge Over Troubled Water](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) | 4:56 |
 | 8432 | [Scarborough Fair / Canticle](https://open.spotify.com/track/3g2fYZW5v2od8KIF7VktT0) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Parsley, Sage, Rosemary And Thyme](https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7) | 3:14 |
+| 8433 | [Love Me Not](https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:33 |
+| 8434 | [SOUVENIR](https://open.spotify.com/track/3GLSPr5dyhrNBvDPpdoPDK) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [Iris](https://open.spotify.com/album/5FSNEQcyQtmVeizw5j5Y8b) | 4:25 |
 
-Snapshot ID: `AAALlH4v1GoFh566a0DqNfIhvK7cst0i`
+Snapshot ID: `AAALljlCe2zzFFuluvkr9Q7puXO8+HDi`

@@ -1,12 +1,12 @@
 {
   "description": "This is Carolina Ross. The essential tracks, all in one playlist.",
-  "num_followers": 104010,
+  "num_followers": 104009,
   "original_name": "This Is Carolina Ross",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adg9gAAAAADOq4gFjf2ZajZkIa9KZbuO",
+  "snapshot_id": "admPAAAAAABYtSjJAtLSzBEBdu1rT6aH",
   "tracks": [
     {
       "added_at": null,
@@ -108,9 +108,9 @@
           "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 197141,
-      "name": "El Color de Tus Ojos",
-      "url": "https://open.spotify.com/track/2teAaxXdeNe4cQa6cjnnKg"
+      "duration_ms": 204778,
+      "name": "Me Sobrabas T\u00fa",
+      "url": "https://open.spotify.com/track/1oFYyDYpOFJ0HNtjyfY6e1"
     },
     {
       "added_at": null,
@@ -172,9 +172,9 @@
           "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 204778,
-      "name": "Me Sobrabas T\u00fa",
-      "url": "https://open.spotify.com/track/1oFYyDYpOFJ0HNtjyfY6e1"
+      "duration_ms": 197141,
+      "name": "El Color de Tus Ojos",
+      "url": "https://open.spotify.com/track/2teAaxXdeNe4cQa6cjnnKg"
     },
     {
       "added_at": null,
@@ -515,22 +515,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Qu\u00e9 Me Vas A Dar (Cumbia)",
-        "url": "https://open.spotify.com/album/65PsHT4xP40nlvdVNE1ldU"
+        "name": "Mis Covers, Vol. 4",
+        "url": "https://open.spotify.com/album/1oRruxE4tO17YAgbjrzwl7"
       },
       "artists": [
-        {
-          "name": "Angela Leiva",
-          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
-        },
         {
           "name": "Carolina Ross",
           "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 207248,
-      "name": "Qu\u00e9 Me Vas A Dar - Cumbia",
-      "url": "https://open.spotify.com/track/0OXXOSfjkIwHBA32jiguQ2"
+      "duration_ms": 153994,
+      "name": "No Le Hago Falta",
+      "url": "https://open.spotify.com/track/61F4sjhQSAw2veDWVRjEQi"
     },
     {
       "added_at": null,
@@ -555,18 +551,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Covers, Vol. 4",
-        "url": "https://open.spotify.com/album/1oRruxE4tO17YAgbjrzwl7"
+        "name": "Qu\u00e9 Me Vas A Dar (Cumbia)",
+        "url": "https://open.spotify.com/album/65PsHT4xP40nlvdVNE1ldU"
       },
       "artists": [
+        {
+          "name": "Angela Leiva",
+          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
+        },
         {
           "name": "Carolina Ross",
           "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 153994,
-      "name": "No Le Hago Falta",
-      "url": "https://open.spotify.com/track/61F4sjhQSAw2veDWVRjEQi"
+      "duration_ms": 207248,
+      "name": "Qu\u00e9 Me Vas A Dar - Cumbia",
+      "url": "https://open.spotify.com/track/0OXXOSfjkIwHBA32jiguQ2"
     },
     {
       "added_at": null,
@@ -583,6 +583,38 @@
       "duration_ms": 243751,
       "name": "Tu Postura",
       "url": "https://open.spotify.com/track/7HQukhNUX9auhsatuRIaVs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis Covers, Vol. 4",
+        "url": "https://open.spotify.com/album/1oRruxE4tO17YAgbjrzwl7"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 197137,
+      "name": "No Me Hubiera Enamorado",
+      "url": "https://open.spotify.com/track/4iQ12cbctsVMoP3t7vHTm4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis Covers",
+        "url": "https://open.spotify.com/album/5vGaNv6zQIAixUzSo0o9qY"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 224656,
+      "name": "Adios Amor",
+      "url": "https://open.spotify.com/track/5sF3HxdhvRIIDOd9XwE3rc"
     },
     {
       "added_at": null,
@@ -607,8 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Covers",
-        "url": "https://open.spotify.com/album/5vGaNv6zQIAixUzSo0o9qY"
+        "name": "Mis Covers, Vol. 3",
+        "url": "https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy"
       },
       "artists": [
         {
@@ -616,9 +648,9 @@
           "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 224656,
-      "name": "Adios Amor",
-      "url": "https://open.spotify.com/track/5sF3HxdhvRIIDOd9XwE3rc"
+      "duration_ms": 231910,
+      "name": "Despacito",
+      "url": "https://open.spotify.com/track/0anEuO11FGUN4Y9hDHGuym"
     },
     {
       "added_at": null,
@@ -639,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Covers, Vol. 3",
-        "url": "https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy"
+        "name": "Mis Covers",
+        "url": "https://open.spotify.com/album/5vGaNv6zQIAixUzSo0o9qY"
       },
       "artists": [
         {
@@ -648,9 +680,9 @@
           "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 231910,
-      "name": "Despacito",
-      "url": "https://open.spotify.com/track/0anEuO11FGUN4Y9hDHGuym"
+      "duration_ms": 226708,
+      "name": "Siempre Te Voy a Querer",
+      "url": "https://open.spotify.com/track/2bNYigumZc9MMdc621Hn7N"
     },
     {
       "added_at": null,
@@ -671,38 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Covers",
-        "url": "https://open.spotify.com/album/5vGaNv6zQIAixUzSo0o9qY"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 226708,
-      "name": "Siempre Te Voy a Querer",
-      "url": "https://open.spotify.com/track/2bNYigumZc9MMdc621Hn7N"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mis Covers, Vol. 4",
-        "url": "https://open.spotify.com/album/1oRruxE4tO17YAgbjrzwl7"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 197137,
-      "name": "No Me Hubiera Enamorado",
-      "url": "https://open.spotify.com/track/4iQ12cbctsVMoP3t7vHTm4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Si Quieres (Versi\u00f3n Mariachi)",
         "url": "https://open.spotify.com/album/3C836EDbA7xMYdCKS42MLc"
       },
@@ -719,26 +719,6 @@
       "duration_ms": 258480,
       "name": "Si Quieres - Versi\u00f3n Mariachi",
       "url": "https://open.spotify.com/track/1KOoIXcpacszpKQMhHhY1A"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Puedo Odiarte",
-        "url": "https://open.spotify.com/album/12f2qMADSsSx9WRvxkMYyr"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        },
-        {
-          "name": "Kalimba",
-          "url": "https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv"
-        }
-      ],
-      "duration_ms": 126386,
-      "name": "No Puedo Odiarte",
-      "url": "https://open.spotify.com/track/6hD8rcGx9ImZtZsa0r9mPY"
     },
     {
       "added_at": null,
@@ -783,6 +763,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Puedo Odiarte",
+        "url": "https://open.spotify.com/album/12f2qMADSsSx9WRvxkMYyr"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        },
+        {
+          "name": "Kalimba",
+          "url": "https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv"
+        }
+      ],
+      "duration_ms": 126386,
+      "name": "No Puedo Odiarte",
+      "url": "https://open.spotify.com/track/6hD8rcGx9ImZtZsa0r9mPY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Merecemos Perdonarnos (En Vivo)",
         "url": "https://open.spotify.com/album/4vUxy6TypvUYyRcVUfPjhS"
       },
@@ -819,22 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Menos Mal Que Me Quer\u00edas",
-        "url": "https://open.spotify.com/album/3YCAsPCW0YoyeXIghCfqVW"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 157638,
-      "name": "Menos Mal Que Me Quer\u00edas",
-      "url": "https://open.spotify.com/track/0Y6mbQ5tc2w0wLVDwPH0t4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cuesti\u00f3n De Tiempo",
         "url": "https://open.spotify.com/album/1mLr3RcaBKzPJJqrlDEdv7"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 209702,
       "name": "Para No Pensar En Ti",
       "url": "https://open.spotify.com/track/1cOetj4g4wbYZu6wSe2bJK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Menos Mal Que Me Quer\u00edas",
+        "url": "https://open.spotify.com/album/3YCAsPCW0YoyeXIghCfqVW"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 157638,
+      "name": "Menos Mal Que Me Quer\u00edas",
+      "url": "https://open.spotify.com/track/0Y6mbQ5tc2w0wLVDwPH0t4"
     },
     {
       "added_at": null,

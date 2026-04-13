@@ -1,6 +1,6 @@
 {
   "description": "Feel good with this positively timeless playlist!",
-  "num_followers": 3610547,
+  "num_followers": 3610505,
   "original_name": "Feelin' Good",
   "owner": {
     "name": "Spotify",
@@ -801,22 +801,6 @@
       "url": "https://open.spotify.com/track/2zyTP97uGsIc1C4KNNEkyn"
     },
     {
-      "added_at": "2022-03-28 18:28:56",
-      "album": {
-        "name": "Just A Cloud Away",
-        "url": "https://open.spotify.com/album/2ojXtf3VwPgpxsFHYujwCY"
-      },
-      "artists": [
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        }
-      ],
-      "duration_ms": 176078,
-      "name": "Just A Cloud Away",
-      "url": "https://open.spotify.com/track/0DGTcMqvVR7fmBXgiG6jz4"
-    },
-    {
       "added_at": "2021-10-19 21:36:21",
       "album": {
         "name": "Al Green Explores Your Mind",
@@ -831,6 +815,22 @@
       "duration_ms": 225373,
       "name": "Take Me to the River",
       "url": "https://open.spotify.com/track/62r1CS9zL1FL5Ilb7hLX7n"
+    },
+    {
+      "added_at": "2022-03-28 18:28:56",
+      "album": {
+        "name": "Just A Cloud Away",
+        "url": "https://open.spotify.com/album/2ojXtf3VwPgpxsFHYujwCY"
+      },
+      "artists": [
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "duration_ms": 176078,
+      "name": "Just A Cloud Away",
+      "url": "https://open.spotify.com/track/0DGTcMqvVR7fmBXgiG6jz4"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -851,22 +851,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "What'd I Say",
-        "url": "https://open.spotify.com/album/4tfWxufmH725XmTcQFAuXn"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 307053,
-      "name": "What'd I Say, Pt. 1 & 2",
-      "url": "https://open.spotify.com/track/5yQ9iMZXGcr5rlO4hoLsP4"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "Express Yourself",
         "url": "https://open.spotify.com/album/2aUItMxwVnUJg4btjcUxC5"
       },
@@ -883,18 +867,18 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "The Story Of Cornelius Brothers & Sister Rose",
-        "url": "https://open.spotify.com/album/2DO7omBXXS8eGg1TyJ23iW"
+        "name": "What'd I Say",
+        "url": "https://open.spotify.com/album/4tfWxufmH725XmTcQFAuXn"
       },
       "artists": [
         {
-          "name": "Cornelius Brothers & Sister Rose",
-          "url": "https://open.spotify.com/artist/2GFB1Lc67mbqFXTPCM9XzT"
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
         }
       ],
-      "duration_ms": 198693,
-      "name": "Too Late To Turn Back Now",
-      "url": "https://open.spotify.com/track/2OyaNAq8BcGstyzueloqpE"
+      "duration_ms": 307053,
+      "name": "What'd I Say, Pt. 1 & 2",
+      "url": "https://open.spotify.com/track/5yQ9iMZXGcr5rlO4hoLsP4"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -911,6 +895,22 @@
       "duration_ms": 233600,
       "name": "Superfly",
       "url": "https://open.spotify.com/track/4XsH9zBWPOCdXoH9ZDdS8r"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "The Story Of Cornelius Brothers & Sister Rose",
+        "url": "https://open.spotify.com/album/2DO7omBXXS8eGg1TyJ23iW"
+      },
+      "artists": [
+        {
+          "name": "Cornelius Brothers & Sister Rose",
+          "url": "https://open.spotify.com/artist/2GFB1Lc67mbqFXTPCM9XzT"
+        }
+      ],
+      "duration_ms": 198693,
+      "name": "Too Late To Turn Back Now",
+      "url": "https://open.spotify.com/track/2OyaNAq8BcGstyzueloqpE"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "This Girl's in Love with You",
-        "url": "https://open.spotify.com/album/5TGmpcEuZsVIoxDWnJIan5"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 197538,
-      "name": "Son of a Preacher Man",
-      "url": "https://open.spotify.com/track/4uCbetXW9LStYPUjCpBVp9"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "Anthology: Jackson 5",
         "url": "https://open.spotify.com/album/0EwhxzV0N61hu3S3PkB2Ku"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 179226,
       "name": "I Want You Back",
       "url": "https://open.spotify.com/track/3tSi6iFO9yLGIYIqMEgjC9"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "This Girl's in Love with You",
+        "url": "https://open.spotify.com/album/5TGmpcEuZsVIoxDWnJIan5"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 197538,
+      "name": "Son of a Preacher Man",
+      "url": "https://open.spotify.com/track/4uCbetXW9LStYPUjCpBVp9"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Atlantic 60th: Soul, Sweat And Strut",
-        "url": "https://open.spotify.com/album/1LBWNRMsbEWb17KmDD4jfD"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 142186,
-      "name": "Respect - 2003 Remaster",
-      "url": "https://open.spotify.com/track/5AoTuHE5P5bvC7BBppYnja"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "Shaft (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5HAXYSqdNjjbvoFrXwtrBw"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 279200,
       "name": "Theme From Shaft - Remastered 2009",
       "url": "https://open.spotify.com/track/7KMILVTQdVS4zQ8ilTcpRO"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Atlantic 60th: Soul, Sweat And Strut",
+        "url": "https://open.spotify.com/album/1LBWNRMsbEWb17KmDD4jfD"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 142186,
+      "name": "Respect - 2003 Remaster",
+      "url": "https://open.spotify.com/track/5AoTuHE5P5bvC7BBppYnja"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -2287,6 +2287,22 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
+        "name": "Songs In The Key Of Life",
+        "url": "https://open.spotify.com/album/2HVx2tiZnLX8xeaUthed1e"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 234093,
+      "name": "Sir Duke",
+      "url": "https://open.spotify.com/track/4RQgqR09VmHn345vRhKQ6T"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
         "name": "The Temptations Sing Smokey",
         "url": "https://open.spotify.com/album/7C4vMPQR8KcbZv4e2ZI0lc"
       },
@@ -2319,22 +2335,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "I Heard It Through The Grapevine / In The Groove (Stereo)",
-        "url": "https://open.spotify.com/album/1jcnZvZWvAGzNyQ7GNVy8X"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 195266,
-      "name": "I Heard It Through The Grapevine",
-      "url": "https://open.spotify.com/track/27m1soUndRthrAA1ediOXn"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "20 All-Time Greatest Hits!",
         "url": "https://open.spotify.com/album/6MjOv3BeIjmht2ymtRih3s"
       },
@@ -2351,18 +2351,18 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Songs In The Key Of Life",
-        "url": "https://open.spotify.com/album/2HVx2tiZnLX8xeaUthed1e"
+        "name": "I Heard It Through The Grapevine / In The Groove (Stereo)",
+        "url": "https://open.spotify.com/album/1jcnZvZWvAGzNyQ7GNVy8X"
       },
       "artists": [
         {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
         }
       ],
-      "duration_ms": 234093,
-      "name": "Sir Duke",
-      "url": "https://open.spotify.com/track/4RQgqR09VmHn345vRhKQ6T"
+      "duration_ms": 195266,
+      "name": "I Heard It Through The Grapevine",
+      "url": "https://open.spotify.com/track/27m1soUndRthrAA1ediOXn"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -2415,22 +2415,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Favorites",
-        "url": "https://open.spotify.com/album/5u4oZQY6eYzH7ZpydPoUN3"
-      },
-      "artists": [
-        {
-          "name": "The Supremes",
-          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
-        }
-      ],
-      "duration_ms": 165080,
-      "name": "You Can't Hurry Love",
-      "url": "https://open.spotify.com/track/69Qa7czzqraPWZgxpQN405"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "Number 1's",
         "url": "https://open.spotify.com/album/5x7vXXWapy8cUmdSuwpUy1"
       },
@@ -2459,6 +2443,22 @@
       "duration_ms": 178533,
       "name": "Build Me Up Buttercup",
       "url": "https://open.spotify.com/track/3XcuLPQb1LG13ZJEEa6wUI"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Favorites",
+        "url": "https://open.spotify.com/album/5u4oZQY6eYzH7ZpydPoUN3"
+      },
+      "artists": [
+        {
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+        }
+      ],
+      "duration_ms": 165080,
+      "name": "You Can't Hurry Love",
+      "url": "https://open.spotify.com/track/69Qa7czzqraPWZgxpQN405"
     }
   ],
   "unique_name": "Feelin' Good",

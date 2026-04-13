@@ -1,6 +1,6 @@
 {
   "description": "Porque el coraz\u00f3n habla vallenato. \u00a1Ay ombe!",
-  "num_followers": 163163,
+  "num_followers": 163203,
   "original_name": "Vallenato Rom\u00e1ntico",
   "owner": {
     "name": "Spotify",
@@ -279,30 +279,6 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "S\u00f3lo Cl\u00e1sicos",
-        "url": "https://open.spotify.com/album/5bsES1XTrXLgo9HGpFWVK0"
-      },
-      "artists": [
-        {
-          "name": "Peter Manjarr\u00e9s",
-          "url": "https://open.spotify.com/artist/5p1D7KgsRRcS9gpQyRARrL"
-        },
-        {
-          "name": "Emiliano Zuleta",
-          "url": "https://open.spotify.com/artist/4j2ttDkyLZNpyM2RS9hCf5"
-        },
-        {
-          "name": "Sergio Luis Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw"
-        }
-      ],
-      "duration_ms": 222200,
-      "name": "Obsesi\u00f3n",
-      "url": "https://open.spotify.com/track/4OhFOoVfaqw3Xuz2vjceDq"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
         "name": "Ave Libre",
         "url": "https://open.spotify.com/album/0Wx044oRIRg2kvaJ6H9rsn"
       },
@@ -331,6 +307,30 @@
       "duration_ms": 284473,
       "name": "Vives En Mi",
       "url": "https://open.spotify.com/track/4jOsVBZsUDaAvguaywRL9J"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
+        "name": "S\u00f3lo Cl\u00e1sicos",
+        "url": "https://open.spotify.com/album/5bsES1XTrXLgo9HGpFWVK0"
+      },
+      "artists": [
+        {
+          "name": "Peter Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/5p1D7KgsRRcS9gpQyRARrL"
+        },
+        {
+          "name": "Emiliano Zuleta",
+          "url": "https://open.spotify.com/artist/4j2ttDkyLZNpyM2RS9hCf5"
+        },
+        {
+          "name": "Sergio Luis Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw"
+        }
+      ],
+      "duration_ms": 222200,
+      "name": "Obsesi\u00f3n",
+      "url": "https://open.spotify.com/track/4OhFOoVfaqw3Xuz2vjceDq"
     },
     {
       "added_at": "2024-03-28 01:45:52",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "\bTrendy & Chill Korean R&B music. (Cover: Min Jiwoon(\ubbfc\uc9c0\uc6b4))",
+  "description": "\bTrendy & Chill Korean R&B music. (Cover: DIMO REX)",
   "name": "TrenChill K-R&B",
   "tracks": [
     {
@@ -3478,7 +3478,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-07",
+      "date_removed": null,
       "duration_ms": 163000,
       "name": "Come Closer",
       "url": "https://open.spotify.com/track/0Sep7VIdLwWPVhtxKsCxRm"
@@ -6154,7 +6154,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 126792,
       "name": "G.i.w.o.n",
       "url": "https://open.spotify.com/track/2pvjfkbEIMfn7JMT6210ys"
@@ -13586,7 +13586,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 228226,
       "name": "Rock With You - Spotify Singles",
       "url": "https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6"
@@ -13812,6 +13812,24 @@
       "duration_ms": 183936,
       "name": "Sandwiches (Feat. Zion.T)",
       "url": "https://open.spotify.com/track/1KLXFanzOEeIYhfKr2jpwe"
+    },
+    {
+      "album": {
+        "name": "ANTIDOTE",
+        "url": "https://open.spotify.com/album/1lNfCl6zXEhb84RSOGTzGu"
+      },
+      "artists": [
+        {
+          "name": "DIMO REX",
+          "url": "https://open.spotify.com/artist/0GAYGBzZBTtYKkHIZs9ADH"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147299,
+      "name": "SAY MY NAME",
+      "url": "https://open.spotify.com/track/5Rh1Uh43TL5maI0LQaR818"
     },
     {
       "album": {

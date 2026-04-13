@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDurFyY5QeAQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1FxDVhXcHEAtLrLA0KD9CC">Bebe Rexha</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,200 likes - 93 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,199 likes - 93 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,10 +91,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDurFyY5QeAQ.md) - [plain]
 | 81 | [Empty](https://open.spotify.com/track/1LxLkxWL22Z9aJhkqrkUlz) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Better Mistakes](https://open.spotify.com/album/1v0new1LT7TVddV7dBIAmo) | 2:28 |
 | 82 | [Miracle Man](https://open.spotify.com/track/57rqeUy6NV7Qlf5VNrqS7D) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Bebe](https://open.spotify.com/album/59zVzm5imosI0J0j1UpFEs) | 3:28 |
 | 83 | [The Lucky Ones \- THE LAUNCH](https://open.spotify.com/track/7lHLe9ZyA55dTRWcd6a6Y4) | [Logan Staats](https://open.spotify.com/artist/2vXJfRfKqdwDvqKL5tvJ7P) | [The Lucky Ones \(THE LAUNCH\)](https://open.spotify.com/album/75PVMDtjzTkVKJgOXys5z4) | 2:59 |
-| 84 | [Visions \(Don't Go\)](https://open.spotify.com/track/3StXroLgGesFDHUljDzNlJ) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Bebe](https://open.spotify.com/album/59zVzm5imosI0J0j1UpFEs) | 3:18 |
-| 85 | [I Am](https://open.spotify.com/track/4fK2nGMQLFs66Lb9XXArYh) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Bebe](https://open.spotify.com/album/59zVzm5imosI0J0j1UpFEs) | 2:55 |
-| 86 | [Mama](https://open.spotify.com/track/016mggZAtUrDvsrEV6rMYj) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Better Mistakes](https://open.spotify.com/album/1v0new1LT7TVddV7dBIAmo) | 3:08 |
-| 87 | [Hysteria](https://open.spotify.com/track/7cBm3l9gb7D18dqioJ0kEy) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Hysteria](https://open.spotify.com/album/5AKFAqGH2MSyWZX0Vj7ZN2) | 2:23 |
+| 84 | [Hysteria](https://open.spotify.com/track/7cBm3l9gb7D18dqioJ0kEy) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Hysteria](https://open.spotify.com/album/5AKFAqGH2MSyWZX0Vj7ZN2) | 2:23 |
+| 85 | [Visions \(Don't Go\)](https://open.spotify.com/track/3StXroLgGesFDHUljDzNlJ) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Bebe](https://open.spotify.com/album/59zVzm5imosI0J0j1UpFEs) | 3:18 |
+| 86 | [I Am](https://open.spotify.com/track/4fK2nGMQLFs66Lb9XXArYh) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Bebe](https://open.spotify.com/album/59zVzm5imosI0J0j1UpFEs) | 2:55 |
+| 87 | [Mama](https://open.spotify.com/track/016mggZAtUrDvsrEV6rMYj) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Better Mistakes](https://open.spotify.com/album/1v0new1LT7TVddV7dBIAmo) | 3:08 |
 | 88 | [Blue Moon](https://open.spotify.com/track/7o7XJW9mWokwMIBEMDzTSt) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Bebe](https://open.spotify.com/album/59zVzm5imosI0J0j1UpFEs) | 3:13 |
 | 89 | [Born Again](https://open.spotify.com/track/0i3beYS6XqrlgwytD3sOf6) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Bebe](https://open.spotify.com/album/59zVzm5imosI0J0j1UpFEs) | 3:00 |
 | 90 | [Sink Or Swim](https://open.spotify.com/track/4ZVLVZGtZJcVu6hQS1ScDG) | [Pierce Fulton](https://open.spotify.com/artist/5p0zkKpBuRguKebwRe0RI2), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Introducing Pierce Fulton](https://open.spotify.com/album/0Zn2S6aEyHJoFhwSFBxyV6) | 5:56 |
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDurFyY5QeAQ.md) - [plain]
 | 92 | [Party, Fun, Love & Radio \(feat\. J\. Trill\)](https://open.spotify.com/track/02bcP3PjAT5y0o2eCxAJbv) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl), [J Trill](https://open.spotify.com/artist/6KA6yMLQymzZyrPReCy1A5) | [Party, Fun, Love & Radio](https://open.spotify.com/album/0F6q9ypqrKlsiaRviyoZwG) | 3:25 |
 | 93 | [Miracle](https://open.spotify.com/track/2H5r66uEoNiIS5W9CQ9DB2) | [Greg Scott](https://open.spotify.com/artist/5bBHo5g4F9R3WQoMcw3r80) | [Miracle](https://open.spotify.com/album/0nK7nk8wSXVEkwkbGMsf94) | 2:32 |
 
-Snapshot ID: `AcOmgAAAAABblNKlpfgQRh/uRNNuT8KG`
+Snapshot ID: `AcOsIAAAAACv8Y9IFP1MTeUGLbLBSF6j`

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/72OyC97gX3XH2NtUk9BgiV">Oscar Hammerstein II \(of Rodgers & Hammerstein\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-164 songs - 8 hr 59 min
+165 songs - 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,8 @@
 | [I Bring A Love Song](https://open.spotify.com/track/1rAx9FJ7ML3Kcr4aq78hoM) | [Paul Weston And His Orchestra](https://open.spotify.com/artist/3EVyH5tLgdq62aXTdKfzey) | [Sigmund Romberg](https://open.spotify.com/album/5UQlTOzFZPRoeYxFQ1rSVI) | 3:31 | 2025-09-10 | 2026-02-20 |
 | [I Cain’t Say No](https://open.spotify.com/track/3TKMuxhbBvGBeO8wyKAPzs) | [Ali Stroker](https://open.spotify.com/artist/6LLkLNo5r8jnaLB3IVTU2M) | [Oklahoma! \(2019 Broadway Cast Recording\)](https://open.spotify.com/album/3JctweW8WZzHbU8gw0J8NP) | 3:58 | 2024-07-26 |  |
 | [I Enjoy Being A Girl](https://open.spotify.com/track/75tcdNn1SLvufUs3SY6Emw) | [Sutton Foster](https://open.spotify.com/artist/2RWaZohsuqSJX9xWX3p95G), [Vince Giordano And The Nighthawks](https://open.spotify.com/artist/1F4A7SV8Xp0KrWdPzkh8UO) | [The Marvelous Mrs\. Maisel: Season 1 \(Music From The Prime Original Series\)](https://open.spotify.com/album/2aZqQ4xF5qTlEhrXmyJtcu) | 3:15 | 2024-07-26 |  |
-| [I Have Dreamed](https://open.spotify.com/track/4bBIADw4urJPkcx0YOfEIo) | [Christian McBride Trio](https://open.spotify.com/artist/3nh2jsKXbzQzTBm5qzVXEP) | [Out Here](https://open.spotify.com/album/14BJkt0RNMcXU14xMmNRxH) | 8:27 | 2024-07-26 |  |
+| [I Have Dreamed](https://open.spotify.com/track/2tzwzfBlHxQsFtf3Yvhlf3) | [Christian McBride Trio](https://open.spotify.com/artist/3nh2jsKXbzQzTBm5qzVXEP) | [Out Here](https://open.spotify.com/album/55Q4ZwCcrGigFZuYFqa155) | 8:27 | 2026-04-12 |  |
+| [I Have Dreamed](https://open.spotify.com/track/4bBIADw4urJPkcx0YOfEIo) | [Christian McBride Trio](https://open.spotify.com/artist/3nh2jsKXbzQzTBm5qzVXEP) | [Out Here](https://open.spotify.com/album/14BJkt0RNMcXU14xMmNRxH) | 8:27 | 2024-07-26 | 2026-04-13 |
 | [I Want a Kiss \(From "The Desert Song"\) \- 1989 Remastered](https://open.spotify.com/track/1T87PDvxKoivw2ti0pZaSY) | [Sigmund Romberg](https://open.spotify.com/artist/04aXJJTCmpNfMOTSUf3Whr), [Mario Lanza](https://open.spotify.com/artist/6yMT0qrnRJGfGMhaTvqEs0), [Constantine Callinicos](https://open.spotify.com/artist/5q4QWdLMfB8Rxb3UwW8Pd2) | [Mario Lanza Sings Songs From The Student Prince and The Desert Song](https://open.spotify.com/album/2vkzY6KUTr9im79XOPdycM) | 2:49 | 2024-07-26 |  |
 | [I Whistle A Happy Tune](https://open.spotify.com/track/5Z2gU4zFvyZ1qlnazZ9U6s) | [Kelli O'Hara](https://open.spotify.com/artist/7p8IggUKyVuZy23HxdiNY9), [Jake Lucas](https://open.spotify.com/artist/2hSOFaZO0polYIuLpbAtAx), [Ted Sperling](https://open.spotify.com/artist/52V4Y04hrgiMi9uTaaTnl2), [Orchestra](https://open.spotify.com/artist/21ND47q78JLAfDR1qpKQmj) | [The King And I \(The 2015 Broadway Cast Recording\)](https://open.spotify.com/album/3fAq8Hfg4VH1Ce2jVilkBB) | 2:44 | 2024-07-26 |  |
 | [I'll Take Romance \(feat\. Judith Hill\)](https://open.spotify.com/track/0VDHqkNuK6QZ8KOxuGaXVe) | [Steve Tyrell](https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B), [Judith Hill](https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t) | [I’ll Take Romance](https://open.spotify.com/album/3uGAHnXuWQcBMBJ6IVej4d) | 2:54 | 2024-07-26 |  |

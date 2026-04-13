@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQuy1uEYTm1p.md) - [plain]
 | 21 | [Pluto Walk](https://open.spotify.com/track/2c0DupQxqoaAHMZERb8Avu) | [PLUTO](https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G) | [PLUTO WORLD](https://open.spotify.com/album/3d9v3PBkyKg3jNBMY3z6AL) | 1:53 |
 | 22 | [JUMP](https://open.spotify.com/track/1CEVdjVIYLBShPyCIojtp5) | [Mystic Marley](https://open.spotify.com/artist/5WhXMSMSiOyEhXBNI6Lf2h), [Nailah Blackman](https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c), [Walshy Fire](https://open.spotify.com/artist/3yJLZoq3Ra2VmSW5teVgih) | [JUMP](https://open.spotify.com/album/6TabIjGq34czYmTHf7XEYi) | 3:27 |
 | 23 | [Best 2 Out Of 3](https://open.spotify.com/track/2pdVrTpiKK0sogDr72pNpl) | [Rosemarie](https://open.spotify.com/artist/3Lz0JugHcf9nqKF1Khkhmu) | [ROCK PAPER SCISSORS: RECUT](https://open.spotify.com/album/6FR9vFhRGgeC3dMIJqtG3T) | 2:56 |
-| 24 | [IDC](https://open.spotify.com/track/69OTkx0Khijw3ihHr9au1g) | [Dess Dior](https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O), [BJRNCK](https://open.spotify.com/artist/75CB9gAqPzqMGNHxymmxfg) | [IDC](https://open.spotify.com/album/4a06Se0uHpNrPgB8DoEQ3R) | 2:08 |
+| 24 | [IDC](https://open.spotify.com/track/2uawWVWUoUr621DlO1cgdi) | [Dess Dior](https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O), [BJRNCK](https://open.spotify.com/artist/75CB9gAqPzqMGNHxymmxfg) | [Note To Self](https://open.spotify.com/album/47KtxHjRKa2h8gHdmS10Zs) | 2:08 |
 | 25 | [Pressure](https://open.spotify.com/track/7o84y2UKRFwzdRzBFigtgf) | [E Chapo](https://open.spotify.com/artist/1B1yx0TYWWvufQuFoRqnL6) | [Pressure](https://open.spotify.com/album/79xuMQfvykmnxgjZui9MYB) | 2:35 |
 | 26 | [Up 4 Me](https://open.spotify.com/track/0RZR9BBg5ql33lwPuot46e) | [Raedio](https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD), [GAWD](https://open.spotify.com/artist/23BIYcWDJsaIqWoNSmljS6) | [Black & Unlimited](https://open.spotify.com/album/6rDL2TKoD4MzyJd7Dn2RFQ) | 2:34 |
 | 27 | [PROVE IT](https://open.spotify.com/track/7b2eUHjwHx9E7h9CMOtZz6) | [Maeesha b](https://open.spotify.com/artist/32kGDmP5SLA0BdfVQNhkq7) | [if only u knew](https://open.spotify.com/album/2efASljhtPCOtJKlK0l18Q) | 1:52 |
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQuy1uEYTm1p.md) - [plain]
 | 33 | [Into me](https://open.spotify.com/track/0O3N02GOlmA64FjatIvzIp) | [Maeesha b](https://open.spotify.com/artist/32kGDmP5SLA0BdfVQNhkq7) | [Into me](https://open.spotify.com/album/5qlLxd49w1hdiJrZIsbMu7) | 1:50 |
 | 34 | [all i need](https://open.spotify.com/track/00joKEPIitqe05LXwZcWT2) | [Maeesha b](https://open.spotify.com/artist/32kGDmP5SLA0BdfVQNhkq7) | [all i need](https://open.spotify.com/album/72NXupoFp47op0ZlhzEMuu) | 2:23 |
 
-Snapshot ID: `AcOmngAAAACfz3PYnFruKcNuha3tVHjv`
+Snapshot ID: `AcOsPgAAAAAYAduisqiPbK1m4fM0tsg8`

@@ -4,7 +4,7 @@
 
 > All of it
 
-1,154 songs - 2 day 22 hr 53 min
+1,155 songs - 2 day 22 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -600,6 +600,7 @@
 | [Lovin’ Me \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/3JdwGk8j7lHN5qdzJZklam) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Man On The Moon III: The Chosen](https://open.spotify.com/album/64nbgEEIcY4g1ElVLONJ0w) | 2:45 | 2025-06-02 |  |
 | [Lucretia](https://open.spotify.com/track/1n538MfKDtkS4GTAaWN25H) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Rust In Peace](https://open.spotify.com/album/4e6ML9RBhDyyKTaTwbiRZv) | 3:58 | 2025-06-11 |  |
 | [Ludwig, the Holy Blade](https://open.spotify.com/track/42yHzwCrmrPYnOiX2tp4yQ) | [SIE Sound Team](https://open.spotify.com/artist/1RjRHE0popjV7rhcHdp376) | [Bloodborne the Old Hunters Original Soundtrack](https://open.spotify.com/album/6XSHziwWFxrUiO7oEmBya1) | 4:07 | 2025-06-02 |  |
+| [Lulala! Lululala! \- English Version](https://open.spotify.com/track/0VXhJ6hcVJ40I63ilUloIV) | [Wuthering Waves](https://open.spotify.com/artist/4NJxtQzTTeO3ObGlBcxVAh), [Bao The Whale](https://open.spotify.com/artist/2TERX3Wyzpip8d9uw07qYZ) | [Lulala! Lululala!（Original Game Soundtrack）](https://open.spotify.com/album/5D5R2dEZB2vBZR0r2JfFLa) | 3:33 | 2026-04-13 |  |
 | [luther \(with sza\)](https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:57 | 2025-06-02 |  |
 | [Lyin' Eyes \- 2013 Remaster](https://open.spotify.com/track/5lQKRR3MdJLtAwNBiT8Cq0) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [One of These Nights \(2013 Remaster\)](https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja) | 6:21 | 2025-06-02 |  |
 | [m y \. l i f e \(with 21 Savage & Morray\)](https://open.spotify.com/track/1D3z6HTiQsNmZxjl7F7eoG) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Morray](https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 3:38 | 2025-06-02 |  |

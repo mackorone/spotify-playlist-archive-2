@@ -1,6 +1,6 @@
 {
   "description": "Lavando e louvando a Deus com grandes hinos.",
-  "num_followers": 447929,
+  "num_followers": 447960,
   "original_name": "Louvando e Lou\u00e7a",
   "owner": {
     "name": "Spotify",
@@ -943,6 +943,22 @@
     {
       "added_at": "2026-01-30 13:05:09",
       "album": {
+        "name": "Pra Te Ferir",
+        "url": "https://open.spotify.com/album/4BTrNml4nN0jxrEftiO7Uo"
+      },
+      "artists": [
+        {
+          "name": "Samuel Eleoterio",
+          "url": "https://open.spotify.com/artist/1S4E2bNyTqNi1Pi303fcLv"
+        }
+      ],
+      "duration_ms": 266664,
+      "name": "Pra te Ferir",
+      "url": "https://open.spotify.com/track/4VFFsq9ZmPxmVE1pQhbUpS"
+    },
+    {
+      "added_at": "2026-01-30 13:05:09",
+      "album": {
         "name": "Aba (Ao Vivo)",
         "url": "https://open.spotify.com/album/7HVM6QUSNxfbnnxYoS0Xey"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 348364,
       "name": "Aba - Ao Vivo",
       "url": "https://open.spotify.com/track/5zfFRWu8IjmH6g84pBOHbO"
-    },
-    {
-      "added_at": "2026-01-30 13:05:09",
-      "album": {
-        "name": "Pra Te Ferir",
-        "url": "https://open.spotify.com/album/4BTrNml4nN0jxrEftiO7Uo"
-      },
-      "artists": [
-        {
-          "name": "Samuel Eleoterio",
-          "url": "https://open.spotify.com/artist/1S4E2bNyTqNi1Pi303fcLv"
-        }
-      ],
-      "duration_ms": 266664,
-      "name": "Pra te Ferir",
-      "url": "https://open.spotify.com/track/4VFFsq9ZmPxmVE1pQhbUpS"
     },
     {
       "added_at": "2026-01-30 13:05:09",

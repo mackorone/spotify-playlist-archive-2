@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: bodie
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,350 likes - 96 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,364 likes - 96 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

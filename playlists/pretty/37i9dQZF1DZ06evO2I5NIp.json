@@ -1,12 +1,12 @@
 {
   "description": "This is Shemekia Copeland. The essential tracks, all in one playlist.",
-  "num_followers": 5909,
+  "num_followers": 5910,
   "original_name": "This Is Shemekia Copeland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adg9gAAAAACNq5hZla+QSs2V+MzkTHGF",
+  "snapshot_id": "admPAAAAAAAgTV9jtDkwZNFVn9EWegtF",
   "tracks": [
     {
       "added_at": null,
@@ -23,82 +23,6 @@
       "duration_ms": 432200,
       "name": "Married To The Blues",
       "url": "https://open.spotify.com/track/1wZpmkvPVQXdBLc6MnIpJi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "America's Child",
-        "url": "https://open.spotify.com/album/2y7iP4KqdPV7sHGtWzbKj8"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 292124,
-      "name": "In The Blood Of The Blues",
-      "url": "https://open.spotify.com/track/6ZmqDRKnUzyS1L3Df2BrRk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "B.B. King's Blues Summit 100",
-        "url": "https://open.spotify.com/album/63RsC1rDGaMXkfK1zk5wb6"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        },
-        {
-          "name": "Slash",
-          "url": "https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE"
-        },
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        },
-        {
-          "name": "Myles Kennedy",
-          "url": "https://open.spotify.com/artist/2YZOQlBE1v44RxPEAVSdVR"
-        }
-      ],
-      "duration_ms": 251346,
-      "name": "When Love Comes To Town",
-      "url": "https://open.spotify.com/track/6cU1IiJ1OU9A0Wg8FSvoo5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Talking To Strangers",
-        "url": "https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 286333,
-      "name": "Don't Whisper",
-      "url": "https://open.spotify.com/track/54cBgXR1KPwEIuynp1qnKs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Turn The Heat Up!",
-        "url": "https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 253066,
-      "name": "Salt In My Wounds",
-      "url": "https://open.spotify.com/track/5XtVpa3LiJHfnTxRzbfU74"
     },
     {
       "added_at": null,
@@ -147,6 +71,82 @@
       "duration_ms": 273981,
       "name": "Hit 'Em Back",
       "url": "https://open.spotify.com/track/7vneiArcRtUop1FpF88CFd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "B.B. King's Blues Summit 100",
+        "url": "https://open.spotify.com/album/63RsC1rDGaMXkfK1zk5wb6"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        },
+        {
+          "name": "Slash",
+          "url": "https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE"
+        },
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        },
+        {
+          "name": "Myles Kennedy",
+          "url": "https://open.spotify.com/artist/2YZOQlBE1v44RxPEAVSdVR"
+        }
+      ],
+      "duration_ms": 251346,
+      "name": "When Love Comes To Town",
+      "url": "https://open.spotify.com/track/6cU1IiJ1OU9A0Wg8FSvoo5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Turn The Heat Up!",
+        "url": "https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 253066,
+      "name": "Salt In My Wounds",
+      "url": "https://open.spotify.com/track/5XtVpa3LiJHfnTxRzbfU74"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "America's Child",
+        "url": "https://open.spotify.com/album/2y7iP4KqdPV7sHGtWzbKj8"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 292124,
+      "name": "In The Blood Of The Blues",
+      "url": "https://open.spotify.com/track/6ZmqDRKnUzyS1L3Df2BrRk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Talking To Strangers",
+        "url": "https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 286333,
+      "name": "Don't Whisper",
+      "url": "https://open.spotify.com/track/54cBgXR1KPwEIuynp1qnKs"
     },
     {
       "added_at": null,
@@ -263,22 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Uncivil War",
-        "url": "https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 216171,
-      "name": "Money Makes You Ugly",
-      "url": "https://open.spotify.com/track/5niqr1DK4xpCGGcGH6Zk4P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Unbreakable",
         "url": "https://open.spotify.com/album/7hYyT1qYD7EaZl7UqbqxZ0"
       },
@@ -315,6 +299,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Uncivil War",
+        "url": "https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 216171,
+      "name": "Money Makes You Ugly",
+      "url": "https://open.spotify.com/track/5niqr1DK4xpCGGcGH6Zk4P"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "America's Child",
         "url": "https://open.spotify.com/album/2y7iP4KqdPV7sHGtWzbKj8"
       },
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blame It On Eve",
-        "url": "https://open.spotify.com/album/6PkHdkD4zLROQ5hc12wbOh"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 272385,
-      "name": "Blame It On Eve",
-      "url": "https://open.spotify.com/track/3duxr7ydMA3xOAYnYVPBhX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Done Come Too Far",
         "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 215969,
       "name": "Gullah Geechee",
       "url": "https://open.spotify.com/track/47BdliCI9XP3HWl0CsR23A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blame It On Eve",
+        "url": "https://open.spotify.com/album/6PkHdkD4zLROQ5hc12wbOh"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 272385,
+      "name": "Blame It On Eve",
+      "url": "https://open.spotify.com/track/3duxr7ydMA3xOAYnYVPBhX"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blame It On Eve",
-        "url": "https://open.spotify.com/album/6PkHdkD4zLROQ5hc12wbOh"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 254776,
-      "name": "Tough Mother",
-      "url": "https://open.spotify.com/track/4Ts8K8BHekSURe51XJHB6J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Done Come Too Far",
         "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 208415,
       "name": "Pink Turns To Red",
       "url": "https://open.spotify.com/track/3wgjaBZogGtRyVI6Picwd3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blame It On Eve",
+        "url": "https://open.spotify.com/album/6PkHdkD4zLROQ5hc12wbOh"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 254776,
+      "name": "Tough Mother",
+      "url": "https://open.spotify.com/track/4Ts8K8BHekSURe51XJHB6J"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blame It On Eve",
-        "url": "https://open.spotify.com/album/6PkHdkD4zLROQ5hc12wbOh"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 243053,
-      "name": "Wine O'Clock",
-      "url": "https://open.spotify.com/track/3BgUyQR9i8n8UE73LGVgrF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Done Come Too Far",
         "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
       },
@@ -507,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blame It On Eve",
+        "url": "https://open.spotify.com/album/6PkHdkD4zLROQ5hc12wbOh"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 243053,
+      "name": "Wine O'Clock",
+      "url": "https://open.spotify.com/track/3BgUyQR9i8n8UE73LGVgrF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Turn The Heat Up!",
         "url": "https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX"
       },
@@ -519,6 +519,38 @@
       "duration_ms": 203573,
       "name": "Have Mercy",
       "url": "https://open.spotify.com/track/5MIfKtG48KDC7GZgP7GiYa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "America's Child",
+        "url": "https://open.spotify.com/album/2y7iP4KqdPV7sHGtWzbKj8"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 271313,
+      "name": "Such A Pretty Flame",
+      "url": "https://open.spotify.com/track/3LeiPSKvRLcIyzKkdtafrZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Done Come Too Far",
+        "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 240605,
+      "name": "Dumb It Down",
+      "url": "https://open.spotify.com/track/1rTEy4i5etvlOB1zUysKro"
     },
     {
       "added_at": null,
@@ -555,38 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Done Come Too Far",
-        "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 240605,
-      "name": "Dumb It Down",
-      "url": "https://open.spotify.com/track/1rTEy4i5etvlOB1zUysKro"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "America's Child",
-        "url": "https://open.spotify.com/album/2y7iP4KqdPV7sHGtWzbKj8"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 271313,
-      "name": "Such A Pretty Flame",
-      "url": "https://open.spotify.com/track/3LeiPSKvRLcIyzKkdtafrZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Outskirts of Love",
         "url": "https://open.spotify.com/album/2Bl6FKUOQbzuFfvR1qfT9e"
       },
@@ -599,22 +599,6 @@
       "duration_ms": 233866,
       "name": "The Battle Is Over (But The War Goes On)",
       "url": "https://open.spotify.com/track/2fyeyzGsHA5Xw64MfBA3N9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Talking To Strangers",
-        "url": "https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 243333,
-      "name": "Livin' On Love",
-      "url": "https://open.spotify.com/track/012eGP4EqQ7hkgoL19Jp0u"
     },
     {
       "added_at": null,
@@ -651,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Talking To Strangers",
+        "url": "https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 243333,
+      "name": "Livin' On Love",
+      "url": "https://open.spotify.com/track/012eGP4EqQ7hkgoL19Jp0u"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Outskirts of Love",
         "url": "https://open.spotify.com/album/2Bl6FKUOQbzuFfvR1qfT9e"
       },
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wicked",
-        "url": "https://open.spotify.com/album/2kv1nahejxNevwCYdgZ8AQ"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 268893,
-      "name": "It's 2 A.M.",
-      "url": "https://open.spotify.com/track/06uopaez79AHRRDNtGJCbB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Uncivil War",
         "url": "https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 227343,
       "name": "Give God The Blues",
       "url": "https://open.spotify.com/track/5xUCFRjM0Z9TJt0s1ttakb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wicked",
+        "url": "https://open.spotify.com/album/2kv1nahejxNevwCYdgZ8AQ"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 268893,
+      "name": "It's 2 A.M.",
+      "url": "https://open.spotify.com/track/06uopaez79AHRRDNtGJCbB"
     },
     {
       "added_at": null,
@@ -735,34 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Basie Swings The Blues",
-        "url": "https://open.spotify.com/album/7cNYq2vwnvRkoi9g1eAl0d"
-      },
-      "artists": [
-        {
-          "name": "Count Basie Orchestra",
-          "url": "https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe"
-        },
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        },
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        },
-        {
-          "name": "Charlie Musselwhite",
-          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
-        }
-      ],
-      "duration_ms": 298984,
-      "name": "I'm A Woman",
-      "url": "https://open.spotify.com/track/12hDJoPtsQCVIKmK7jWBpG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Funky Blues",
         "url": "https://open.spotify.com/album/6z5ROrtqUdrWD8wdr1KrJI"
       },
@@ -786,15 +758,11 @@
         {
           "name": "Shemekia Copeland",
           "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        },
-        {
-          "name": "Cedric Burnside",
-          "url": "https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc"
         }
       ],
-      "duration_ms": 308121,
-      "name": "Done Come Too Far",
-      "url": "https://open.spotify.com/track/5iPJnokv52n7m0s7ghUIlf"
+      "duration_ms": 259733,
+      "name": "Nobody But You",
+      "url": "https://open.spotify.com/track/7A2hVb3M0tJo2YSXwieyRK"
     },
     {
       "added_at": null,
@@ -831,6 +799,34 @@
       "duration_ms": 197468,
       "name": "Mama Said",
       "url": "https://open.spotify.com/track/3tl3S4BUNrONIO4OTEsBC7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Basie Swings The Blues",
+        "url": "https://open.spotify.com/album/7cNYq2vwnvRkoi9g1eAl0d"
+      },
+      "artists": [
+        {
+          "name": "Count Basie Orchestra",
+          "url": "https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe"
+        },
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        },
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "Charlie Musselwhite",
+          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
+        }
+      ],
+      "duration_ms": 298984,
+      "name": "I'm A Woman",
+      "url": "https://open.spotify.com/track/12hDJoPtsQCVIKmK7jWBpG"
     },
     {
       "added_at": null,

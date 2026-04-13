@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: march\-april 2026 \(previous playlists archived on my profile\)
 
-960 songs - 2 day 10 hr 18 min
+962 songs - 2 day 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -449,6 +449,7 @@
 | [Kagefumi](https://open.spotify.com/track/4VgGQi9FZMrNG4MuiONldI) | [百景](https://open.spotify.com/artist/6Xktu0x9IXB4ghFSPw6Jqv) | [Standing Still In A Moving Scene](https://open.spotify.com/album/5FFviHXLHrtM8bPkklaXrD) | 4:54 | 2025-12-09 | 2025-12-16 |
 | [Kanon](https://open.spotify.com/track/6ffrExn8KtduORXBCt2QfA) | [Enon](https://open.spotify.com/artist/3jJxGc6wl7xvZHSg8tg61V) | [Lost Marbles and Exploded Evidence](https://open.spotify.com/album/0urcGWOT3sDiyjhTup7ELw) | 3:20 | 2024-07-12 | 2024-09-08 |
 | [Ken Hom](https://open.spotify.com/track/1wTd8R2JnpRrggVpYhAk0r) | [Autocamper](https://open.spotify.com/artist/4A81Q5VArMNNHeERStPXYx) | [Summertime](https://open.spotify.com/album/60qmXzNGcxEwTkrY2v5aNC) | 2:46 | 2024-11-17 | 2025-01-12 |
+| [Killing The Blues](https://open.spotify.com/track/55g3S2tU6OHuaxXptJJsBL) | [Shawn Colvin](https://open.spotify.com/artist/0K7VN4aHxHcEb7PqkfoIVA) | [Cover Girl](https://open.spotify.com/album/2i6yafZMIkgqkjWAobKic5) | 3:45 | 2026-04-12 |  |
 | [kira](https://open.spotify.com/track/3XYF84eNPPvRObZZPHsgla) | [cktrl](https://open.spotify.com/artist/2eO4klJg324zroGqnBkqk3) | [spirit](https://open.spotify.com/album/5wEy1LKkVbEEKnyk9Ql5Ke) | 4:10 | 2025-10-29 | 2025-11-15 |
 | [Kiss Me on the Bus](https://open.spotify.com/track/7b8BgGpMDmNjkOzfMfxCzi) | [The Replacements](https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3) | [Tim](https://open.spotify.com/album/1yO2d1lmmu0tkDf3trvOm7) | 2:53 | 2025-06-15 | 2025-07-04 |
 | [Kitty's Midnight Blessing](https://open.spotify.com/track/3s3JfEWheRv35NIqQ5DpnJ) | [Otto Benson](https://open.spotify.com/artist/7idebBFVTiHclz7stsvsSw), [Max Beirne Shafer](https://open.spotify.com/artist/5SXBLk2wYMZznypiR94wYE) | [Songs Before Bed \(2022\)](https://open.spotify.com/album/7pnz4Fyzrk0dD1HMg3NILk) | 3:14 | 2025-01-11 | 2025-03-02 |
@@ -523,6 +524,7 @@
 | [Mean girls](https://open.spotify.com/track/1qKCO2Tocwg8CbepJ9uDtd) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 3:09 | 2024-06-14 | 2024-07-12 |
 | [Mean Old World](https://open.spotify.com/track/1v4BpOiU0WuSwiNbdYvdWd) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Night Beat](https://open.spotify.com/album/4FsWNGbkeZtMD1BWXhIvRk) | 3:48 | 2025-12-24 | 2026-01-15 |
 | [Meaning Business](https://open.spotify.com/track/2NlsCmQjDF6MtFdcXOQZE2) | [Wendy Eisenberg](https://open.spotify.com/artist/7HrVZurdKyYpQamwyD1gBi) | [Meaning Business](https://open.spotify.com/album/73gasAEPo2MCGHHIZNj9oN) | 4:18 | 2026-03-13 |  |
+| [Meet Me in the City](https://open.spotify.com/track/5LmmZgxFg1sSfxENxsdtak) | [Junior Kimbrough](https://open.spotify.com/artist/03HEHGJoLPdARs4nrtUidr) | [First Recordings](https://open.spotify.com/album/5OfjjEzy7ofCj2EZDOKZ87) | 2:31 | 2026-04-12 |  |
 | [Memory Foam](https://open.spotify.com/track/30RssVq7KiJHl7E6cFDdre) | [Molly Nilsson](https://open.spotify.com/artist/2PDepyCtfybWn5UJv0DmKw) | [Imaginations](https://open.spotify.com/album/3wyZNkNP8tUegRaPWV1lap) | 3:44 | 2025-04-20 | 2025-05-09 |
 | [Merlin](https://open.spotify.com/track/79JUzXwTrn0bW6OgWoZq2W) | [Lars Gullin](https://open.spotify.com/artist/4gquwMHteaMQ0ZQOMj9CsI) | [Fäbodjazz](https://open.spotify.com/album/698BkVjPZ6aBbp4OP1jLyW) | 3:27 | 2025-09-10 | 2025-11-15 |
 | [Micronomic](https://open.spotify.com/track/6ol3Y5VhaPW2rd1PSEgC0V) | [Lali Puna](https://open.spotify.com/artist/2GkJdEJneopHc10XQV76rN) | [Faking The Books](https://open.spotify.com/album/6NUMXxMBXsCuth2PXt4d79) | 3:23 | 2025-09-10 | 2025-11-15 |
@@ -770,7 +772,7 @@
 | [Stars](https://open.spotify.com/track/7AD1EjsHB0ynpJ1LCkcz2X) | [Lisa Germano](https://open.spotify.com/artist/5TZqjmYL8p9HtJsBKXCxgE) | [Geek the Girl](https://open.spotify.com/album/1yZ4bCBoDk01rxjefcoUzq) | 2:31 | 2025-10-20 | 2025-11-15 |
 | [Stars](https://open.spotify.com/track/5V2hxMV4zoeDhk39XsY01s) | [The Brian Jonestown Massacre](https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy) | [Thank God For Mental Illness](https://open.spotify.com/album/6A7Eja5un4Bho0swBTvh2r) | 3:15 | 2024-10-02 | 2024-11-14 |
 | [Starshy](https://open.spotify.com/track/4lHPPwYzahtsG46xE2idb5) | [Heavenly](https://open.spotify.com/artist/1sDWIdL18InXgES9TwvsL2) | [Le Jardin De Heavenly](https://open.spotify.com/album/0InB1oG08YUmJuztRRoHvK) | 4:09 | 2025-04-23 | 2025-05-09 |
-| [State Trooper](https://open.spotify.com/track/1Ulh5rWbhhV3PltDadTBZC) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Nebraska](https://open.spotify.com/album/6yskFQZNlLYhkchAxELHi6) | 3:17 | 2026-04-09 |  |
+| [State Trooper](https://open.spotify.com/track/1Ulh5rWbhhV3PltDadTBZC) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Nebraska](https://open.spotify.com/album/6yskFQZNlLYhkchAxELHi6) | 3:17 | 2026-04-09 | 2026-04-13 |
 | [Stay Close To Me](https://open.spotify.com/track/7pWym8pTfolrPCsb7eFPqc) | [Ted Hawkins](https://open.spotify.com/artist/1clAnI6PODaoVlbzlUPOfU) | [Watch Your Step](https://open.spotify.com/album/3XnHTwogsnLUFhC7nZ983d) | 3:15 | 2026-02-02 | 2026-03-13 |
 | [Stella](https://open.spotify.com/track/0zzk2I2yDc1320lyrH5Dvh) | [Ultramarine](https://open.spotify.com/artist/7dWvlbbAJ7penJUnxOtUJF) | [Every Man and Woman Is a Star](https://open.spotify.com/album/2yu1jtGNrYsVvTqycc4oh6) | 4:25 | 2025-04-23 | 2025-05-09 |
 | [Still Above](https://open.spotify.com/track/2aOKR3QxNyOagxfB7V8ZVa) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Still Above](https://open.spotify.com/album/38F6b7S3fHHVNfd7YT2Yvw) | 2:28 | 2025-06-21 | 2025-07-04 |

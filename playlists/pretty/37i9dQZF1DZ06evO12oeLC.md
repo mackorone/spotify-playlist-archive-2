@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12oeLC.md) - [plain]
 
 > This is Yseult\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,878 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,881 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12oeLC.md) - [plain]
 | 24 | [Rien à prouver](https://open.spotify.com/track/1cdlIbmkHBpQpOEQRHLlKT) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Rien à prouver](https://open.spotify.com/album/0obywN6ixOQ0z4yaNWCPPR) | 4:02 |
 | 25 | [BB](https://open.spotify.com/track/3S1MMsTBuW5BeT5NYadtYJ) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [BRUT](https://open.spotify.com/album/71OaHl1RWXB6P82B6xFK44) | 3:33 |
 | 26 | [MTV](https://open.spotify.com/track/3qnGbqeCaJbK49xVhSqRdI) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [MENTAL](https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg) | 3:34 |
-| 27 | [Vivre \- Acoustic](https://open.spotify.com/track/7wOC5R4KJkpVCSY1SoaKdX) | [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [La même](https://open.spotify.com/album/1kLts4mLi2U0H238Lbox0I) | 3:52 |
-| 28 | [5H](https://open.spotify.com/track/141nlMCqr45W3DJ7B6QyyH) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX), [Jok'air](https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua) | [Noir](https://open.spotify.com/album/71KbEOWntZKWUHRfYAumiB) | 3:46 |
+| 27 | [5H](https://open.spotify.com/track/141nlMCqr45W3DJ7B6QyyH) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX), [Jok'air](https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua) | [Noir](https://open.spotify.com/album/71KbEOWntZKWUHRfYAumiB) | 3:46 |
+| 28 | [Vivre \- Acoustic](https://open.spotify.com/track/7wOC5R4KJkpVCSY1SoaKdX) | [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [La même](https://open.spotify.com/album/1kLts4mLi2U0H238Lbox0I) | 3:52 |
 | 29 | [Trop peu de temps \- Souvenirs d'été](https://open.spotify.com/track/52zR5zo8AYk8j6NuXEQpTg) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Trop peu de temps \- Souvenirs d'été](https://open.spotify.com/album/47DegVvp3qZCPIs6952aa6) | 3:32 |
 | 30 | [TUNING](https://open.spotify.com/track/6oHIPkHSDBysBWdUkaLDAE) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [MENTAL](https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg) | 2:42 |
 | 31 | [NÉON ROUGE](https://open.spotify.com/track/7EHd1uyYFyuhMR7l6aH074) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [BRUT](https://open.spotify.com/album/71OaHl1RWXB6P82B6xFK44) | 3:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12oeLC.md) - [plain]
 | 49 | [Meilleur homme](https://open.spotify.com/track/3iiNraQg0tAFJoK1WrD5jW) | [Lino](https://open.spotify.com/artist/6RM5eA0SSP7B8UV3qHbLa8), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Le gang des antillais](https://open.spotify.com/album/0dJ756gBNpM20RpDrmyPwF) | 3:38 |
 | 50 | [Laisse aller \(feat\. Yseult\)](https://open.spotify.com/track/1Knp7R9jX9ZyVmcHWitTD8) | [Lord Esperanza](https://open.spotify.com/artist/7CPznx8a1emLVLeCHGuJeN), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Drapeau blanc](https://open.spotify.com/album/52QCCbwG9jpWUlFw13s3wW) | 3:04 |
 
-Snapshot ID: `adg9gAAAAAANCD8gNtggofZ0m27764n8`
+Snapshot ID: `admPAAAAAACAVDNfkSio2xTuoW82Gajc`

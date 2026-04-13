@@ -5179,6 +5179,24 @@
     },
     {
       "album": {
+        "name": "Gelir Gider",
+        "url": "https://open.spotify.com/album/2DxOFl5paLb9KLQOq24ys2"
+      },
+      "artists": [
+        {
+          "name": "Berdush38",
+          "url": "https://open.spotify.com/artist/1xLymL7zjs2w2PbCewdP3J"
+        }
+      ],
+      "date_added": "2026-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158437,
+      "name": "Gelir Gider",
+      "url": "https://open.spotify.com/track/5rceAFRqiXKbfZ1c5H0HJJ"
+    },
+    {
+      "album": {
         "name": "Gem",
         "url": "https://open.spotify.com/album/1fAIo7nOtyYjxSTTRSMJui"
       },
@@ -11588,6 +11606,42 @@
       "duration_ms": 191399,
       "name": "Post Office Queen",
       "url": "https://open.spotify.com/track/3RW4WJT9bXPp7dJ8Xrldlu"
+    },
+    {
+      "album": {
+        "name": "Postcard",
+        "url": "https://open.spotify.com/album/5UyKe732CV1ODmjUn1JiGU"
+      },
+      "artists": [
+        {
+          "name": "Barrie Johnson",
+          "url": "https://open.spotify.com/artist/1Y5kb8pZVSA6CH12qTROX4"
+        }
+      ],
+      "date_added": "2026-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183018,
+      "name": "Postcard",
+      "url": "https://open.spotify.com/track/0XtyVSIs5tI9bhthZ7GGwh"
+    },
+    {
+      "album": {
+        "name": "La parade des loups-garous",
+        "url": "https://open.spotify.com/album/4EYMdV25eZul4vWVEQ9I98"
+      },
+      "artists": [
+        {
+          "name": "Dominique Daumann",
+          "url": "https://open.spotify.com/artist/1Nm0cvOQp7njIOVzZ3Wqe6"
+        }
+      ],
+      "date_added": "2026-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198779,
+      "name": "Poup\u00e9e Vaudou",
+      "url": "https://open.spotify.com/track/1joDNTcwDoJrbzJXRqMS6K"
     },
     {
       "album": {

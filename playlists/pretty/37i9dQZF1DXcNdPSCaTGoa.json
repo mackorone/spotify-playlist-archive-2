@@ -1,6 +1,6 @@
 {
   "description": "Celebrating South Africa's most beloved hits.",
-  "num_followers": 1176,
+  "num_followers": 1211,
   "original_name": "SA Gold",
   "owner": {
     "name": "Spotify",
@@ -143,6 +143,22 @@
     {
       "added_at": "2026-04-09 09:50:14",
       "album": {
+        "name": "Sondelani",
+        "url": "https://open.spotify.com/album/4R42gWyYsd9ybilmlcia1j"
+      },
+      "artists": [
+        {
+          "name": "Ringo Madlingozi",
+          "url": "https://open.spotify.com/artist/3CR7n4hexD7pE3BRnLEDUJ"
+        }
+      ],
+      "duration_ms": 330573,
+      "name": "Sondela",
+      "url": "https://open.spotify.com/track/43VwFP9q5lOrfLPfBvPtsg"
+    },
+    {
+      "added_at": "2026-04-09 09:50:14",
+      "album": {
         "name": "Family Values",
         "url": "https://open.spotify.com/album/4Vka3hwfaOqISTHYyOdkKC"
       },
@@ -175,22 +191,6 @@
     {
       "added_at": "2026-04-09 09:50:14",
       "album": {
-        "name": "Sondelani",
-        "url": "https://open.spotify.com/album/4R42gWyYsd9ybilmlcia1j"
-      },
-      "artists": [
-        {
-          "name": "Ringo Madlingozi",
-          "url": "https://open.spotify.com/artist/3CR7n4hexD7pE3BRnLEDUJ"
-        }
-      ],
-      "duration_ms": 330573,
-      "name": "Sondela",
-      "url": "https://open.spotify.com/track/43VwFP9q5lOrfLPfBvPtsg"
-    },
-    {
-      "added_at": "2026-04-09 09:50:14",
-      "album": {
         "name": "Memeza",
         "url": "https://open.spotify.com/album/0IvfrpuZ1uq9JGuWrImJqQ"
       },
@@ -207,22 +207,6 @@
     {
       "added_at": "2026-04-09 09:50:14",
       "album": {
-        "name": "Touch My Blood",
-        "url": "https://open.spotify.com/album/1cCpD6ImDJDP1nrsZVhV7O"
-      },
-      "artists": [
-        {
-          "name": "AKA",
-          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
-        }
-      ],
-      "duration_ms": 304140,
-      "name": "Jika",
-      "url": "https://open.spotify.com/track/5CaUga1xSORieHUwZ5urnG"
-    },
-    {
-      "added_at": "2026-04-09 09:50:14",
-      "album": {
         "name": "M'du Or Die",
         "url": "https://open.spotify.com/album/7N0NOdgLGipl1NkihPBUPQ"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 336666,
       "name": "Siya Jola (Ok'Salayo)",
       "url": "https://open.spotify.com/track/3Oy1hjxJLfUyaUsgxojzA7"
+    },
+    {
+      "added_at": "2026-04-09 09:50:14",
+      "album": {
+        "name": "Touch My Blood",
+        "url": "https://open.spotify.com/album/1cCpD6ImDJDP1nrsZVhV7O"
+      },
+      "artists": [
+        {
+          "name": "AKA",
+          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
+        }
+      ],
+      "duration_ms": 304140,
+      "name": "Jika",
+      "url": "https://open.spotify.com/track/5CaUga1xSORieHUwZ5urnG"
     },
     {
       "added_at": "2026-04-09 09:50:14",
@@ -359,22 +359,6 @@
     {
       "added_at": "2026-04-09 09:50:14",
       "album": {
-        "name": "In The Meantime",
-        "url": "https://open.spotify.com/album/31trLskVnGbl1GFS9BzOkZ"
-      },
-      "artists": [
-        {
-          "name": "Watershed",
-          "url": "https://open.spotify.com/artist/6ccmA5oOV7nHvBQj2ft9NW"
-        }
-      ],
-      "duration_ms": 180546,
-      "name": "Indigo Girl",
-      "url": "https://open.spotify.com/track/13lumrL4b1cw4htq7R2uKV"
-    },
-    {
-      "added_at": "2026-04-09 09:50:14",
-      "album": {
         "name": "Legends",
         "url": "https://open.spotify.com/album/0RDdkzqoqSDVle30Cn4csO"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 279306,
       "name": "Weekend Special",
       "url": "https://open.spotify.com/track/0t8R66DymqgWq2BjureW9r"
+    },
+    {
+      "added_at": "2026-04-09 09:50:14",
+      "album": {
+        "name": "In The Meantime",
+        "url": "https://open.spotify.com/album/31trLskVnGbl1GFS9BzOkZ"
+      },
+      "artists": [
+        {
+          "name": "Watershed",
+          "url": "https://open.spotify.com/artist/6ccmA5oOV7nHvBQj2ft9NW"
+        }
+      ],
+      "duration_ms": 180546,
+      "name": "Indigo Girl",
+      "url": "https://open.spotify.com/track/13lumrL4b1cw4htq7R2uKV"
     },
     {
       "added_at": "2026-04-09 09:50:14",
@@ -563,22 +563,6 @@
     {
       "added_at": "2026-04-09 09:50:14",
       "album": {
-        "name": "Work of Heart",
-        "url": "https://open.spotify.com/album/0EH4i0I9Mjw7skmHXqfCUk"
-      },
-      "artists": [
-        {
-          "name": "Zonke",
-          "url": "https://open.spotify.com/artist/1eBaQkCXWlq1vhCLMVFdqn"
-        }
-      ],
-      "duration_ms": 243640,
-      "name": "S.O.S - Release Me",
-      "url": "https://open.spotify.com/track/5Vv6Qh1oE7WQNkdIDSTeiX"
-    },
-    {
-      "added_at": "2026-04-09 09:50:14",
-      "album": {
         "name": "House Player",
         "url": "https://open.spotify.com/album/2CbZUpkxIDvJMyPy2JDSr6"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 370906,
       "name": "Mbuso's Revenge",
       "url": "https://open.spotify.com/track/4ZZ3OWpdPxsX5aBlLPz6B2"
+    },
+    {
+      "added_at": "2026-04-09 09:50:14",
+      "album": {
+        "name": "Work of Heart",
+        "url": "https://open.spotify.com/album/0EH4i0I9Mjw7skmHXqfCUk"
+      },
+      "artists": [
+        {
+          "name": "Zonke",
+          "url": "https://open.spotify.com/artist/1eBaQkCXWlq1vhCLMVFdqn"
+        }
+      ],
+      "duration_ms": 243640,
+      "name": "S.O.S - Release Me",
+      "url": "https://open.spotify.com/track/5Vv6Qh1oE7WQNkdIDSTeiX"
     },
     {
       "added_at": "2026-04-09 09:50:14",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-04-09 09:50:14",
       "album": {
-        "name": "Black President",
-        "url": "https://open.spotify.com/album/3HhEwfPwfAqK2D0fe7TBWW"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 270253,
-      "name": "Black President",
-      "url": "https://open.spotify.com/track/1u6y55ANLeAiIP26F3I3r4"
-    },
-    {
-      "added_at": "2026-04-09 09:50:14",
-      "album": {
         "name": "Khokhovula",
         "url": "https://open.spotify.com/album/4r17XN1HWE0xuRfptWVeiK"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 317760,
       "name": "Sana Luma (Thats The Way Love Is)",
       "url": "https://open.spotify.com/track/1jgwlt5ERSd0uAERPxLYKp"
+    },
+    {
+      "added_at": "2026-04-09 09:50:14",
+      "album": {
+        "name": "Black President",
+        "url": "https://open.spotify.com/album/3HhEwfPwfAqK2D0fe7TBWW"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 270253,
+      "name": "Black President",
+      "url": "https://open.spotify.com/track/1u6y55ANLeAiIP26F3I3r4"
     },
     {
       "added_at": "2026-04-09 09:50:14",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-04-09 09:50:14",
       "album": {
-        "name": "Mababaza",
-        "url": "https://open.spotify.com/album/4CGpMIEdICSqLHyrVAxFxt"
-      },
-      "artists": [
-        {
-          "name": "Joe Nina",
-          "url": "https://open.spotify.com/artist/0uKndkSvFjmZxg61p1YLEs"
-        }
-      ],
-      "duration_ms": 247630,
-      "name": "Sbali",
-      "url": "https://open.spotify.com/track/5F8GhL8UTDDydH7HNq5geV"
-    },
-    {
-      "added_at": "2026-04-09 09:50:14",
-      "album": {
         "name": "Vintage Sounds of Johannesburg",
         "url": "https://open.spotify.com/album/45j6bfm5dD2m2V9mjaVYL3"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 292034,
       "name": "Fester",
       "url": "https://open.spotify.com/track/4QNTWh444lOn7C4kPGUoYR"
+    },
+    {
+      "added_at": "2026-04-09 09:50:14",
+      "album": {
+        "name": "Mababaza",
+        "url": "https://open.spotify.com/album/4CGpMIEdICSqLHyrVAxFxt"
+      },
+      "artists": [
+        {
+          "name": "Joe Nina",
+          "url": "https://open.spotify.com/artist/0uKndkSvFjmZxg61p1YLEs"
+        }
+      ],
+      "duration_ms": 247630,
+      "name": "Sbali",
+      "url": "https://open.spotify.com/track/5F8GhL8UTDDydH7HNq5geV"
     },
     {
       "added_at": "2026-04-09 09:50:14",
@@ -995,22 +995,6 @@
     {
       "added_at": "2026-04-09 09:50:14",
       "album": {
-        "name": "Wie's Bang",
-        "url": "https://open.spotify.com/album/5pmX2N8DT69U8hCEfBERp2"
-      },
-      "artists": [
-        {
-          "name": "Van Coke Kartel",
-          "url": "https://open.spotify.com/artist/256RIQ6zTG7LTrRlAxB5xw"
-        }
-      ],
-      "duration_ms": 296680,
-      "name": "Tot Die Son Uitkom",
-      "url": "https://open.spotify.com/track/4shIYnY3P1FAJZxldDI9JD"
-    },
-    {
-      "added_at": "2026-04-09 09:50:14",
-      "album": {
         "name": "Grand Masters",
         "url": "https://open.spotify.com/album/4pZt9qJUgqAevuCKmzw5Fj"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 296911,
       "name": "Ndiredi",
       "url": "https://open.spotify.com/track/4AxFUQVcla7vyMSl4tGBZj"
+    },
+    {
+      "added_at": "2026-04-09 09:50:14",
+      "album": {
+        "name": "Wie's Bang",
+        "url": "https://open.spotify.com/album/5pmX2N8DT69U8hCEfBERp2"
+      },
+      "artists": [
+        {
+          "name": "Van Coke Kartel",
+          "url": "https://open.spotify.com/artist/256RIQ6zTG7LTrRlAxB5xw"
+        }
+      ],
+      "duration_ms": 296680,
+      "name": "Tot Die Son Uitkom",
+      "url": "https://open.spotify.com/track/4shIYnY3P1FAJZxldDI9JD"
     }
   ],
   "unique_name": "SA Gold",

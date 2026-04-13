@@ -4,7 +4,7 @@
 
 > Celebrating individuality within independent music
 
-279 songs - 16 hr 11 min
+282 songs - 16 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [A Little More](https://open.spotify.com/track/39mJ62IPCsaG7X7GvH707H) | [Ella Kenz](https://open.spotify.com/artist/5k0qIptpKEMpMlGx2wbE8e) | [A Little More](https://open.spotify.com/album/3aVIlpVQ7ZCyRqcI5JrCq5) | 3:16 | 2026-02-19 |  |
 | [a place](https://open.spotify.com/track/0B10EkMCSLvpyLffiuRPMt) | [Tex M](https://open.spotify.com/artist/2UdABJUkfJ2hQEERZhhkUq) | [Not All Eyes Are Green](https://open.spotify.com/album/5uIS1c0hRQZY3H8eIHNCrJ) | 1:47 | 2026-02-25 |  |
 | [A Westerner Walks Into a Bar](https://open.spotify.com/track/4IlGkkdxTr3K5lLTaCp24c) | [Seb Lowe](https://open.spotify.com/artist/3ebD7fhAtxAuVaIxi1T2BJ) | [A Westerner Walks Into a Bar](https://open.spotify.com/album/7tXNOVaRneDR2voDiiO8B7) | 3:31 | 2025-11-19 | 2026-01-17 |
+| [Alternative Ulster](https://open.spotify.com/track/5SVn3rhLXevK8FsM73yN0b) | [The Manky Melters](https://open.spotify.com/artist/7eeVrnLC5YwCslvhxGTVuF) | [Alternative Ulster](https://open.spotify.com/album/4wZLd7iVyTOsJtoe491Spj) | 3:38 | 2026-04-12 |  |
 | [Altrove](https://open.spotify.com/track/1Eu21yhj8lLYfAUkfIG60A) | [The Recoveries](https://open.spotify.com/artist/3uJiEcmU0LNBt37DUZJhdn) | [Altrove](https://open.spotify.com/album/0CJWJRcXmh5ZaKmccgdgHc) | 3:24 | 2026-03-04 |  |
 | [Altrove](https://open.spotify.com/track/2FNRYJGLsE6xPa8TumCQj4) | [The Recoveries](https://open.spotify.com/artist/3uJiEcmU0LNBt37DUZJhdn) | [Altrove](https://open.spotify.com/album/1nOS4aWxRbGAYI06aSH2Rk) | 3:24 | 2026-04-06 |  |
 | [AMIGOS](https://open.spotify.com/track/6OBUF3YnAuiVJFcmMYVQYV) | [Muk Zen](https://open.spotify.com/artist/6fpSO2jPZo4TGmsFRLMBYv) | [AMIGOS](https://open.spotify.com/album/7kdkuaPkb7hxAn62YURevg) | 3:11 | 2026-02-28 |  |
@@ -80,6 +81,7 @@
 | [Dreaming of Injured Popstars '25](https://open.spotify.com/track/2JquSuR6JlfaCulVG9HGkV) | [Intoxicated Pigeon](https://open.spotify.com/artist/6fbh8Dv01mwKXuD9AkPTgx), [Lewis Mckale](https://open.spotify.com/artist/6yTP6bdkiI5MubxbfPiF7e), [Oxygen Thief](https://open.spotify.com/artist/0lSgqe7J1XKN7hZhaPHBs5) | [Dreaming of Injured Popstars '25](https://open.spotify.com/album/6LbYdmnpJrZ0JoktjZgcD7) | 4:53 | 2025-11-09 | 2026-01-17 |
 | [Dreaming of you](https://open.spotify.com/track/470owFy9zXfoCVqXlWgOX4) | [Huggis Hill](https://open.spotify.com/artist/4w4L2XzPmIkhX5eP35IP7c) | [Dreaming of you](https://open.spotify.com/album/3TBYX9eWTrcy6ehh9U4E6N) | 3:13 | 2026-02-10 | 2026-03-29 |
 | [Drink Deep](https://open.spotify.com/track/7gikiS1tbe16Xh3FPkRojT) | [The Rabbit Council](https://open.spotify.com/artist/1nSm3sva0zgXWbnUjsu5nf) | [Camera 321/Tivoli Park/Drink Deep](https://open.spotify.com/album/2U7atN68CngRU0oJk6BkOx) | 4:02 | 2026-02-07 | 2026-03-29 |
+| [Dusty](https://open.spotify.com/track/5hWvpIKz06G3iKvQaU2zXT) | [Pondlife](https://open.spotify.com/artist/7nAw4BKkoWhKV2R0i7Xprz) | [Dusty](https://open.spotify.com/album/2JedsFcyYV4MxfQPjRHFBA) | 3:10 | 2026-04-12 |  |
 | [Easy](https://open.spotify.com/track/4hifOPhb7I7Lqk1QxzTViF) | [Barranquismo](https://open.spotify.com/artist/3rcj4PO8vQ8pBdiqXuLvQF) | [Easy](https://open.spotify.com/album/2FlV7b52TOFYQvZQidpA5e) | 2:52 | 2025-10-30 | 2025-12-02 |
 | [Emily's Song](https://open.spotify.com/track/5x8AB0H9SrB2BDY05o8iqv) | [Ventrelles](https://open.spotify.com/artist/7JTOVfG953bnJ6u3l815qh) | [Emily's Song](https://open.spotify.com/album/0pbmJH13H4RYEca7gUZ9E8) | 3:27 | 2025-11-02 | 2026-01-17 |
 | [ENERGY 2](https://open.spotify.com/track/26Q4qA2QVYisQ6IopZW8y5) | [TONE](https://open.spotify.com/artist/7BTanMvfNlUM7nc1GSeiAu) | [ENERGY 2](https://open.spotify.com/album/6GtP13hzBJ5ZXygoiWbq2A) | 2:20 | 2026-02-08 | 2026-03-29 |
@@ -229,6 +231,7 @@
 | [Sweet Lover](https://open.spotify.com/track/7bV3prZwAoq9mekXMRXm0U) | [Miller Matthews](https://open.spotify.com/artist/18qZ4JJVQNtaFfreNnZkFr), [KAY BRETTE](https://open.spotify.com/artist/5upymWMVUM7pZ2XvrUDyZo) | [Sweet Lover](https://open.spotify.com/album/1KulyKHZhq2GB61l239sbp) | 2:59 | 2025-10-30 | 2026-01-17 |
 | [Take It](https://open.spotify.com/track/0L1IruULPPjjwAhsgIfVx6) | [Drawing on Scars](https://open.spotify.com/artist/6cQZAXvhiIhuzJlN7XmeKu), [Jodie Reid](https://open.spotify.com/artist/08oMRYJ7LRlDPN7QXE5l9u) | [A Bridge Across the Sea](https://open.spotify.com/album/5y4kycwvx8BLd7tXfyAg6d) | 3:08 | 2026-04-08 |  |
 | [Take Me](https://open.spotify.com/track/7rtj9ELtA6y0zFxv12pOEN) | [Bad Script](https://open.spotify.com/artist/6z0JS9G1jFH6DgwYsEZK3j) | [Blue, Deepest Blue](https://open.spotify.com/album/33pzXi7wLOKUn1Xzn21UOm) | 3:29 | 2026-03-31 |  |
+| [That's Cool](https://open.spotify.com/track/2k7SrfAazc3aXOSGcBT66L) | [Slaney Bay](https://open.spotify.com/artist/6jfR9Na2d55xoFOK5mQT1I) | [That's Cool](https://open.spotify.com/album/7aPGxG33vGIZrTO3YQ5xQb) | 3:46 | 2026-04-12 |  |
 | [The Axe And The Tree](https://open.spotify.com/track/60keYGcrWfPvBNn53Ho0wY) | [TULLE](https://open.spotify.com/artist/6OiVFeVhtP4mo9QSVheiuI) | [The Axe And The Tree](https://open.spotify.com/album/0RtdVvj5nOgkx9tDdoJeq0) | 3:50 | 2025-10-29 | 2026-01-17 |
 | [The Battlefield](https://open.spotify.com/track/6ZsI0iTfApqX1fFczChBrk) | [Vann's Nebula](https://open.spotify.com/artist/3weSFV7MGGpEDX60DTEzlM) | [Archive](https://open.spotify.com/album/1fG3rsdIsT9i2ysubVZQAH) | 4:42 | 2026-01-23 | 2026-03-10 |
 | [The Endless Road](https://open.spotify.com/track/2VanWVfCTkKfP3pFGAPdzj) | [La Marti](https://open.spotify.com/artist/54APiQm3k38o1R11DK1GkV) | [LOOP](https://open.spotify.com/album/6CwPqLs2ZG7oAqGj7DDpzS) | 3:15 | 2025-10-24 | 2025-12-12 |

@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,110 songs - 3 day 0 hr 6 min
+1,111 songs - 3 day 0 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -911,6 +911,7 @@
 | [Talking Quietly of Anything With You](https://open.spotify.com/track/6HU2oa7iUt5C98eSAOIXxj) | [Free Cake For Every Creature](https://open.spotify.com/artist/3oqgxdumaZZ5hOt2ykwYTQ) | [Talking Quietly of Anything With You](https://open.spotify.com/album/65uA55viVzKnJ3veAi180n) | 2:25 | 2026-03-23 |  |
 | [Tambourine Dream](https://open.spotify.com/track/5eAKaGCR0QEuPOxOo0zXqs) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Balloonerism](https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY) | 0:33 | 2025-01-18 | 2025-02-03 |
 | [Tapdance In Limbo](https://open.spotify.com/track/04LZdlv8Ccy3FezHBiBQGW) | [Twen](https://open.spotify.com/artist/7iyWvxyp2SxGg3L66TmHbO) | [Fate Euphoric](https://open.spotify.com/album/7q6joHybfVw0FSgoMqY882) | 4:30 | 2026-02-25 |  |
+| [Target Practice](https://open.spotify.com/track/6ViXXJ6TMKmHIbgm3Hgqm8) | [My New Band Believe](https://open.spotify.com/artist/5bPSCPf8wOY03ENKd6Aw9O) | [My New Band Believe](https://open.spotify.com/album/0FypCc1StF9mNiLemcuJ3J) | 2:05 | 2026-04-13 |  |
 | [Tarkus \- i\. Eruption / ii\. Stones of Years / iii\. Iconoclast / iv\. Mass / v\. Manticore / vi\. Battlefield / vii\. Aquatarkus \- 2012 Remaster](https://open.spotify.com/track/7fLEJNwcW60W74XehVmR5p) | [Emerson, Lake & Palmer](https://open.spotify.com/artist/0nCiidE5GgDrc5kWN3NZgZ) | [Tarkus](https://open.spotify.com/album/5yByhxbOs8FOU2UutO7AGO) | 20:43 | 2024-03-13 |  |
 | [Taste](https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:37 | 2024-09-06 | 2024-12-02 |
 | [Tears Of Rage \- Remastered 2000](https://open.spotify.com/track/1FEdEeL3LVSw0upgUChKAB) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [Music From Big Pink \(Remastered\)](https://open.spotify.com/album/0ky5kdvfPxSmSpj03hpSAE) | 5:19 | 2023-06-28 | 2023-07-05 |

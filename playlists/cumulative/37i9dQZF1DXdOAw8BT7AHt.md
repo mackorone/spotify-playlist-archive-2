@@ -2,7 +2,7 @@
 
 ### [Today's Punk](https://open.spotify.com/playlist/37i9dQZF1DXdOAw8BT7AHt)
 
-> The best in every corner of modern punk rock\. Cover: Tiger's Jaw
+> The best of every corner of modern punk rock\. Cover: Turnstile
 
 687 songs - 1 day 10 hr 28 min
 

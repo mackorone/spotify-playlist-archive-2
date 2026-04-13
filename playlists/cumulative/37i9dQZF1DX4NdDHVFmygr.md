@@ -4,7 +4,7 @@
 
 > Les hits marocains qui nous rassemblent, où qu’on soit 🇲🇦
 
-511 songs - 1 day 3 hr 10 min
+513 songs - 1 day 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Casa \- Arabic Version](https://open.spotify.com/track/076HUj0TPUnBidZdy9PEyx) | [Ouidad](https://open.spotify.com/artist/7lPt4PyRpBvznm3LDZW1El) | [Casa \(Arabic version\)](https://open.spotify.com/album/3EBcgCMoKf3HzudclcHx8I) | 2:25 | 2024-04-25 | 2024-08-29 |
 | [Casaway](https://open.spotify.com/track/1M5E9egSgeNZGI45zdTM0l) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Raymonde](https://open.spotify.com/artist/63nHhkPCFLt50hfm4L9J0l) | [Casaway](https://open.spotify.com/album/6BuJoTvXekiP5Ixr6drom6) | 3:04 | 2022-12-15 | 2022-12-28 |
 | [Champion](https://open.spotify.com/track/2ZsK7PdynTF7ilvUEgKTvT) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Leil](https://open.spotify.com/artist/1qSYFEqGFLFOACQJqebin3), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [Champion](https://open.spotify.com/album/3TC4AzLjp92AoJj56TXvkZ) | 3:44 | 2022-12-22 | 2023-01-18 |
+| [CHANEL](https://open.spotify.com/track/3XW9zg39KnwA5v1c1EFbM6) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [CHANEL](https://open.spotify.com/album/7aRrvJE7TTlHPNCqPYAeq3) | 3:28 | 2026-04-12 |  |
 | [CHICHI](https://open.spotify.com/track/7MahBaXzhvYCL7w9wXF4Wx) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [CHICHI](https://open.spotify.com/album/6FvhLrpAIZswxC9YLs0qFu) | 3:08 | 2022-07-18 | 2023-05-09 |
 | [Chill](https://open.spotify.com/track/5NwA0hLKYsFcU3FVD5hD03) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Chill](https://open.spotify.com/album/6Nsop9onhJBLRsoQShepX8) | 2:57 | 2021-12-25 | 2022-03-03 |
 | [CHINWI](https://open.spotify.com/track/0KJjxv5b5sm0rJ3T1bdiVR) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [BANDANA](https://open.spotify.com/album/24JV61zK3eDqPTNdcAnmK5) | 3:41 | 2022-06-24 | 2022-11-08 |
@@ -121,6 +122,7 @@
 | [DELLALI \(feat\. Hamza\)](https://open.spotify.com/track/2oMCQhVDHhzKEHk5rN6T1E) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [27](https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8) | 3:02 | 2024-07-02 | 2024-08-29 |
 | [Den Den,](https://open.spotify.com/track/7qTWQLYFi7dp0arSyQ3V1X) | [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h) | [Den Den,](https://open.spotify.com/album/19aaWkC2gOyf2dNkJA4yPl) | 2:33 | 2025-09-09 | 2025-09-25 |
 | [Denbi](https://open.spotify.com/track/7t6gPk6jiSye8IVrfAPqOV) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8) | [Denbi](https://open.spotify.com/album/1QRWjgco5Vo4HeJVr2ffEr) | 2:56 | 2022-10-24 | 2023-06-28 |
+| [DENYA](https://open.spotify.com/track/2cc3HFMPsVGZ7y1Cm5cP0g) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [MC\-101](https://open.spotify.com/album/42okkFu4lgilYfjHOUOtXV) | 3:19 | 2026-04-12 |  |
 | [DEPART](https://open.spotify.com/track/2Jzn2clALwnSCrHdXPBXfB) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [DEPART](https://open.spotify.com/album/2wVXCvBj607fhsujknCH3y) | 2:41 | 2026-03-24 |  |
 | [DFN](https://open.spotify.com/track/17iZsqaEjJzADt8utMl80n) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [SPLIT](https://open.spotify.com/album/0v2yXgpOX31IRK27a8dcq3) | 3:03 | 2026-03-31 |  |
 | [Di Mochkila](https://open.spotify.com/track/3iEya2BDyWT88tM8fOJJx3) | [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y), [Norel](https://open.spotify.com/artist/5GDRJ2wLCUGI1ryefQ3f3t), [YAM](https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E) | [Di Mochkila](https://open.spotify.com/album/0O3gGUuUaEOMLyhFH91KHK) | 2:25 | 2024-01-09 | 2024-08-29 |
@@ -178,7 +180,7 @@
 | [Ha Wlidi](https://open.spotify.com/track/0LEk8LeOeBQ5pODPernnPP) | [Jaylann](https://open.spotify.com/artist/27vSXvM0Ht2xGwRUUwpBAg) | [Ha Wlidi](https://open.spotify.com/album/4tJC2QnYjmkTQPJ6tyhDXQ) | 2:47 | 2025-06-15 |  |
 | [Habibi](https://open.spotify.com/track/24l2OcwxLfv2qmlD5oUfuf) | [Cravata](https://open.spotify.com/artist/2zWCw43oRZ74LlMb14JWVR) | [Habibi](https://open.spotify.com/album/3PM8U6jiewiRInoRFVmqrx) | 2:36 | 2023-07-21 | 2023-12-07 |
 | [Habibi](https://open.spotify.com/track/6zcVRQpHsxfGm90HgnDsjh) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r), [Salma Rachid](https://open.spotify.com/artist/4pHZS56EczdBUlgPuUypUa) | [Habibi](https://open.spotify.com/album/7rfZdgHv51JFwxaQwavGd6) | 3:03 | 2025-11-14 |  |
-| [HADAK ZINE](https://open.spotify.com/track/5J4Vzfzs8r0og2EQW3dh96) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz), [Benny Adam](https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA), [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a), [khadija taayalt](https://open.spotify.com/artist/2kgeWT0XN1PMbOYiZFl72Q) | [HADAK ZINE](https://open.spotify.com/album/7xyqMtzNRaaAjuxNbMqGf1) | 3:26 | 2025-12-25 |  |
+| [HADAK ZINE](https://open.spotify.com/track/5J4Vzfzs8r0og2EQW3dh96) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz), [Benny Adam](https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA), [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a), [khadija taayalt](https://open.spotify.com/artist/2kgeWT0XN1PMbOYiZFl72Q) | [HADAK ZINE](https://open.spotify.com/album/7xyqMtzNRaaAjuxNbMqGf1) | 3:26 | 2025-12-25 | 2026-04-13 |
 | [Hak Ela Babah](https://open.spotify.com/track/3yatozm6pb25lgFGXXOKh7) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [Hak Ela Babah](https://open.spotify.com/album/1gGfWC7gnNrB2I70YbACZK) | 3:15 | 2024-08-28 | 2024-11-22 |
 | [Hakayet](https://open.spotify.com/track/5bww9Wf6TszHmZVooMR5um) | [VEN1](https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL) | [Hakayet](https://open.spotify.com/album/7Hd8VNqE8T9eK13RUSsWQC) | 2:35 | 2024-06-13 | 2024-07-09 |
 | [Hali](https://open.spotify.com/track/5URAcSsDPT49IKdX4yYoi0) | [Ghita](https://open.spotify.com/artist/0oZLmVQhyT6zFb7EjpJRrR) | [Hali](https://open.spotify.com/album/2ZyqDb5y7rvIRHA8KYcMt4) | 3:27 | 2022-03-24 | 2022-07-20 |
@@ -379,7 +381,7 @@
 | [Parano](https://open.spotify.com/track/2AFF39DkukQH8csCAzdGXR) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Parano](https://open.spotify.com/album/0w4CLHsQwLk6SEuZWoeG61) | 2:43 | 2026-04-09 |  |
 | [Pardon Ma belle](https://open.spotify.com/track/3OcSOFjCWs1zJl2zwopAZL) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Lmektoub](https://open.spotify.com/album/3CUlhsVaLVsAnUyuUDl3IB) | 2:50 | 2023-06-22 | 2023-08-03 |
 | [PENALTY](https://open.spotify.com/track/6K98YuYoefShCK5qIsPybL) | [Zaynab](https://open.spotify.com/artist/392PzXdHwMWrN2PArb8aJu), [Lazaro](https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx) | [PENALTY](https://open.spotify.com/album/67nkeu6axxVkXnqDnig9iQ) | 3:21 | 2025-05-20 | 2025-10-29 |
-| [PIRATE](https://open.spotify.com/track/7L6iM8mnj0t2WW0Fjre5pG) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [OMEGA](https://open.spotify.com/album/2WOuni1EwCyGVYIeN0LXXt) | 2:59 | 2025-01-13 |  |
+| [PIRATE](https://open.spotify.com/track/7L6iM8mnj0t2WW0Fjre5pG) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [OMEGA](https://open.spotify.com/album/2WOuni1EwCyGVYIeN0LXXt) | 2:59 | 2025-01-13 | 2026-04-13 |
 | [POPO](https://open.spotify.com/track/0sMCcICKRGJ8Td75nZloeU) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [POPO](https://open.spotify.com/album/18Cf3fPeZ5mRYI8ihYBhqo) | 3:11 | 2024-02-01 | 2025-02-13 |
 | [Porfavor](https://open.spotify.com/track/0QQsxD6ZVzBINIgNgqWCF5) | [Chaos333](https://open.spotify.com/artist/1fP5b7OUxcCkbhUX3yKVzE) | [Porfavor](https://open.spotify.com/album/0q83zWh0GQLgiGUl7U5wAs) | 2:45 | 2021-12-25 | 2022-03-04 |
 | [POWER \- A COLORS SHOW](https://open.spotify.com/track/0K7JXyHrinnADZ7wSPsZGu) | [Shobee](https://open.spotify.com/artist/5Et8bRmkENeaA7SPwj1OxL) | [POWER \- A COLORS SHOW](https://open.spotify.com/album/3WsYrkH5xsidXVE9wTQLAS) | 2:53 | 2023-03-18 | 2023-03-31 |

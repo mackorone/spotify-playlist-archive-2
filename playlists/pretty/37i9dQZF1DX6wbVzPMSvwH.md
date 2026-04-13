@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wbVzPMSvwH.md) - [plain]
 
 > Lagu\-lagu positif untuk mengawali harimu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,376 likes - 92 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,380 likes - 92 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Rock on repeat during the summers of the 2000s.",
-  "num_followers": 68217,
+  "num_followers": 68284,
   "original_name": "00s Summer Rock",
   "owner": {
     "name": "Spotify",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-07-12 15:02:20",
       "album": {
-        "name": "How To Save A Life",
-        "url": "https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK"
-      },
-      "artists": [
-        {
-          "name": "The Fray",
-          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
-        }
-      ],
-      "duration_ms": 236266,
-      "name": "Over My Head (Cable Car)",
-      "url": "https://open.spotify.com/track/1N62wozuHCvczCkY4QidpP"
-    },
-    {
-      "added_at": "2024-07-12 15:02:20",
-      "album": {
         "name": "You Gotta Go There To Come Back",
         "url": "https://open.spotify.com/album/65ekRZTdz7ufM6yULqgjo8"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 272946,
       "name": "Maybe Tomorrow",
       "url": "https://open.spotify.com/track/6SXy02aTZU3ysoGUixYCz0"
+    },
+    {
+      "added_at": "2024-07-12 15:02:20",
+      "album": {
+        "name": "How To Save A Life",
+        "url": "https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK"
+      },
+      "artists": [
+        {
+          "name": "The Fray",
+          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
+        }
+      ],
+      "duration_ms": 236266,
+      "name": "Over My Head (Cable Car)",
+      "url": "https://open.spotify.com/track/1N62wozuHCvczCkY4QidpP"
     },
     {
       "added_at": "2024-07-12 15:02:20",
@@ -963,8 +963,8 @@
     {
       "added_at": "2024-07-12 15:02:20",
       "album": {
-        "name": "All the Right Reasons",
-        "url": "https://open.spotify.com/album/3eZd2XbhLyPcgbgcsLTZh3"
+        "name": "All the Right Reasons (Walmart Exclusive Edition)",
+        "url": "https://open.spotify.com/album/74qGFpCx9XpFaZUnqqdDtb"
       },
       "artists": [
         {
@@ -972,9 +972,9 @@
           "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
         }
       ],
-      "duration_ms": 219320,
-      "name": "Savin' Me",
-      "url": "https://open.spotify.com/track/4Gd9PUEuOTOJtbgd4YxLXM"
+      "duration_ms": 252040,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/3RlsVPIIs5KFhLFhxZ4iDF"
     },
     {
       "added_at": "2024-07-12 15:02:20",
@@ -1043,8 +1043,8 @@
     {
       "added_at": "2024-07-12 15:02:20",
       "album": {
-        "name": "All the Right Reasons (Walmart Exclusive Edition)",
-        "url": "https://open.spotify.com/album/74qGFpCx9XpFaZUnqqdDtb"
+        "name": "All the Right Reasons",
+        "url": "https://open.spotify.com/album/3eZd2XbhLyPcgbgcsLTZh3"
       },
       "artists": [
         {
@@ -1052,9 +1052,9 @@
           "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
         }
       ],
-      "duration_ms": 252040,
-      "name": "Rockstar",
-      "url": "https://open.spotify.com/track/3RlsVPIIs5KFhLFhxZ4iDF"
+      "duration_ms": 219320,
+      "name": "Savin' Me",
+      "url": "https://open.spotify.com/track/4Gd9PUEuOTOJtbgd4YxLXM"
     },
     {
       "added_at": "2024-07-12 15:02:20",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-07-12 15:02:20",
       "album": {
-        "name": "Move Along",
-        "url": "https://open.spotify.com/album/3PWEGZ6CYvXRnr0JCECsDe"
-      },
-      "artists": [
-        {
-          "name": "The All-American Rejects",
-          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
-        }
-      ],
-      "duration_ms": 238880,
-      "name": "Move Along",
-      "url": "https://open.spotify.com/track/2l57cfmCnOkwNX1tky02n1"
-    },
-    {
-      "added_at": "2024-07-12 15:02:20",
-      "album": {
         "name": "Broken Boy Soldiers",
         "url": "https://open.spotify.com/album/4fDaiqpXlswOza10LvoZHb"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 215266,
       "name": "Steady, As She Goes",
       "url": "https://open.spotify.com/track/19iqWNzp5LwEdvntpEK8MP"
+    },
+    {
+      "added_at": "2024-07-12 15:02:20",
+      "album": {
+        "name": "Move Along",
+        "url": "https://open.spotify.com/album/3PWEGZ6CYvXRnr0JCECsDe"
+      },
+      "artists": [
+        {
+          "name": "The All-American Rejects",
+          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
+        }
+      ],
+      "duration_ms": 238880,
+      "name": "Move Along",
+      "url": "https://open.spotify.com/track/2l57cfmCnOkwNX1tky02n1"
     },
     {
       "added_at": "2024-07-12 15:02:20",

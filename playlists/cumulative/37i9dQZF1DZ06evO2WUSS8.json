@@ -1744,7 +1744,7 @@
       ],
       "date_added": "2025-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 315466,
       "name": "Lady",
       "url": "https://open.spotify.com/track/0dVLQmK8gQrz1zjkhhar3B"
@@ -2106,6 +2106,28 @@
       "duration_ms": 259200,
       "name": "Malaika",
       "url": "https://open.spotify.com/track/0tODdphY94KVzwtO3pm1fY"
+    },
+    {
+      "album": {
+        "name": "Mala\u00efka (feat. Florent Pagny)",
+        "url": "https://open.spotify.com/album/0XezvacDPGBeLF7mjHUBJz"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Florent Pagny",
+          "url": "https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225013,
+      "name": "Mala\u00efka (feat. Florent Pagny)",
+      "url": "https://open.spotify.com/track/68ZfPws5MFI4UAVD22sPtu"
     },
     {
       "album": {

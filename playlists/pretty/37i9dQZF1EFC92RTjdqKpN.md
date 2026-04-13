@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1D1lDfaOy483s8BIQRjBSS">JHart</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,126 likes - 197 songs - 10 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,127 likes - 197 songs - 10 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 40 | [Take You](https://open.spotify.com/track/4PXOSe2WbmFhmJDiqrDw6W) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Believe](https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN) | 3:40 |
 | 41 | [Taking Me Back](https://open.spotify.com/track/6A9mMKHYdeUJGvQDKChC0C) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Malibu Nights](https://open.spotify.com/album/6SWmGozzQDUaczHXMuE8Za) | 3:14 |
 | 42 | [Follow Me \(feat\. Jason Derulo\)](https://open.spotify.com/track/5nUJym1qItTzwWx2zfSxUb) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [United We Are](https://open.spotify.com/album/3QTVsIyjtbHhXGxwh7H6j3) | 3:19 |
-| 43 | [On My Life](https://open.spotify.com/track/6izJLwK6uGMJNQaRLFPO3H) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU) | [HELLRAISERS, Part 1](https://open.spotify.com/album/5NXJVouKAFjwszJA8FxUY7) | 2:59 |
-| 44 | [Kissing Strangers](https://open.spotify.com/track/5brMixqQiQN4D60xmvrSts) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [COMING HOME](https://open.spotify.com/album/7Ic1aiLXMmyyi0cVkk04aS) | 3:08 |
+| 43 | [Kissing Strangers](https://open.spotify.com/track/5brMixqQiQN4D60xmvrSts) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [COMING HOME](https://open.spotify.com/album/7Ic1aiLXMmyyi0cVkk04aS) | 3:08 |
+| 44 | [On My Life](https://open.spotify.com/track/6izJLwK6uGMJNQaRLFPO3H) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU) | [HELLRAISERS, Part 1](https://open.spotify.com/album/5NXJVouKAFjwszJA8FxUY7) | 2:59 |
 | 45 | [Deep End \(feat\. JHart\) \- Eden Prince Remix](https://open.spotify.com/track/4rgtPGf9Vp2aWiM0NooJvE) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5), [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ), [Eden Prince](https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z) | [Deep End \(feat\. JHart\) \[Remixes\]](https://open.spotify.com/album/7DTzhs8jGE5KN04HVEag6B) | 3:28 |
 | 46 | [Good Things Fall Apart vs\. Sad Songs \(With Said The Sky feat\. Annika Wells\)](https://open.spotify.com/track/2DqhE7xzpGNsKYbptqblJg) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Annika Wells](https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ) | [ASCEND \(Tour Edits\)](https://open.spotify.com/album/6KICcLGlQnS7908qVzbhP6) | 6:06 |
 | 47 | [Good Time \(feat\. Pitbull\)](https://open.spotify.com/track/1bLVsavnUruupOI0Pxdm6I) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Good Time \(feat\. Pitbull\)](https://open.spotify.com/album/1MiqNzBTyRXLH4QMbJRkj9) | 3:23 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 77 | [last night i dreamt i fell in love](https://open.spotify.com/track/6t1pBY6VYjNM9SJEBieyJw) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [last night i dreamt i fell in love](https://open.spotify.com/album/2guIXbgAa9lVRKQSlb1uvA) | 2:06 |
 | 78 | [Take Me Higher](https://open.spotify.com/track/1x2nB4SHNWlp0aqtvBBvzu) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Take Me Higher](https://open.spotify.com/album/0LmEG3bIDEk1cpW0ckMOIn) | 3:00 |
 | 79 | [This Way](https://open.spotify.com/track/4g1yf8b1PQdBsKz5OphVgU) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Heartbreak on a Full Moon](https://open.spotify.com/album/3zak0kNLcOY5vFcB3Ipskp) | 4:02 |
-| 80 | [Changed](https://open.spotify.com/track/6tyyxy6jFiNTUawKe9Q7UC) | [Stanaj](https://open.spotify.com/artist/3zrUX1hQrUB9aXcOiyQLmN) | [From A Distance](https://open.spotify.com/album/2ekHnPrPK0Fqxt0mSGDbZs) | 3:27 |
-| 81 | [Way Back](https://open.spotify.com/track/38wnxXZdT2v7I31mHJ3Puv) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [TLC](https://open.spotify.com/album/0Etb5PXUH3sXTnC59r2MKZ) | 3:46 |
+| 80 | [Way Back](https://open.spotify.com/track/38wnxXZdT2v7I31mHJ3Puv) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [TLC](https://open.spotify.com/album/0Etb5PXUH3sXTnC59r2MKZ) | 3:46 |
+| 81 | [Changed](https://open.spotify.com/track/6tyyxy6jFiNTUawKe9Q7UC) | [Stanaj](https://open.spotify.com/artist/3zrUX1hQrUB9aXcOiyQLmN) | [From A Distance](https://open.spotify.com/album/2ekHnPrPK0Fqxt0mSGDbZs) | 3:27 |
 | 82 | [Turn Back Time \(feat\. Teemu\)](https://open.spotify.com/track/02FZ7CS69ZwsLQMngR3rhW) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Teemu](https://open.spotify.com/artist/00FaHSRJeGv1dbHhnqhHqz) | [Good Evening](https://open.spotify.com/album/1J6b7W1nSHH7BObK8zIoEY) | 3:49 |
 | 83 | [SEESAW](https://open.spotify.com/track/21Ou57aSTKECHs3zedyFLd) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THIS IS FOR](https://open.spotify.com/album/3SCPPs1g96FQ8mKGPylpUJ) | 3:30 |
 | 84 | [Angel Eyes](https://open.spotify.com/track/1JdYhrkBQViINQU3loztRr) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Fact Check \- The 5th Album](https://open.spotify.com/album/4KTxUa5hNsGpT41XcdLicL) | 3:04 |
@@ -206,4 +206,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 196 | [Tonight](https://open.spotify.com/track/4aTAQCJIGLU5RRcnZNPftn) | [Timati](https://open.spotify.com/artist/3oLccEy7y6zTe1gCFHxuWr), [Shontelle](https://open.spotify.com/artist/4M6Z1wubeKtwPqbjJygTOc) | [SWAGG](https://open.spotify.com/album/6ohDfN4WqQolD87G6s3j3U) | 3:53 |
 | 197 | [Let It Rain](https://open.spotify.com/track/1TG6k7kK3uHX1WyCh2xNpD) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Pressing Onward](https://open.spotify.com/album/6Q4UcPfHz8RnPNn2NlJ71C) | 3:04 |
 
-Snapshot ID: `AcOmgAAAAABfKK6b9jCg51jUQXf0+rem`
+Snapshot ID: `AcOsIAAAAABXZ0iP86rIbxU3WlbQL2uM`

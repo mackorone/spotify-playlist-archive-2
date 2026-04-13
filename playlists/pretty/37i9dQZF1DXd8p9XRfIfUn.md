@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 
 > Lo mejor de la nueva\. Foto: fedesttar
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,010 likes - 60 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,012 likes - 60 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 | 48 | [Q\-Lito](https://open.spotify.com/track/1W9c0BUe6ETdtBfQyqeOgw) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Q\-Lito](https://open.spotify.com/album/7vy05msyjhqtzv6wgemce7) | 3:08 |
 | 49 | [Que Loco Mami](https://open.spotify.com/track/5dIVRu9PgpCqntnva0F0Fl) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2) | [Que Loco Mami](https://open.spotify.com/album/1jrxhZMUDRG5ssTUxFR10s) | 2:56 |
 | 50 | [Imposible](https://open.spotify.com/track/5fMo4acbRCkXZRsSuwxYZX) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Imposible](https://open.spotify.com/album/4QerNrI0xPSnpiny4bROq6) | 3:07 |
-| 51 | [Nada Formal](https://open.spotify.com/track/5kvlGR3K69Hk3a3DwfJQED) | [MVSIS](https://open.spotify.com/artist/5RQ2olZAe54DeVrpdOdkBm), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc), [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [Nada Formal](https://open.spotify.com/album/27e20XRLAglZv8waxqEeWz) | 4:29 |
-| 52 | [Codigo Secreto](https://open.spotify.com/track/6ZUGi3v66aBs8kLxJ8DsO1) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Núcleo](https://open.spotify.com/album/1ePBXGcKDFJZR3XWc2g2OW) | 3:17 |
+| 51 | [Codigo Secreto](https://open.spotify.com/track/6ZUGi3v66aBs8kLxJ8DsO1) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Núcleo](https://open.spotify.com/album/1ePBXGcKDFJZR3XWc2g2OW) | 3:17 |
+| 52 | [Nada Formal](https://open.spotify.com/track/5kvlGR3K69Hk3a3DwfJQED) | [MVSIS](https://open.spotify.com/artist/5RQ2olZAe54DeVrpdOdkBm), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc), [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [Nada Formal](https://open.spotify.com/album/27e20XRLAglZv8waxqEeWz) | 4:29 |
 | 53 | [Cada Vez](https://open.spotify.com/track/3x7Xpx7MG91amARyT0wmZ3) | [Young Martino](https://open.spotify.com/artist/7Kh6SBEGtFtqjYo5bN0ACG), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [Cada Vez](https://open.spotify.com/album/31SngBc9PCn2qDix3g745R) | 3:37 |
 | 54 | [Pal' Otro Año](https://open.spotify.com/track/68IONBceV20r5OOr6961PQ) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [Pal' Otro Año](https://open.spotify.com/album/3mMjUoysR3SkxtKieFVmf9) | 2:30 |
 | 55 | [BILLETES EN EL AIRE](https://open.spotify.com/track/5k0e2dhXqfqCg50JwRY31Y) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X), [Totoy El Frio](https://open.spotify.com/artist/4GVsXuFOY9WJmgnmq5RVoh) | [BILLETES EN EL AIRE](https://open.spotify.com/album/5pK6B9GBLyf0CHpK5StNPe) | 3:02 |

@@ -2826,7 +2826,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 217008,
       "name": "Die On This Hill",
       "url": "https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ"
@@ -9656,6 +9656,28 @@
       "duration_ms": 204068,
       "name": "Risk It All",
       "url": "https://open.spotify.com/track/6skX6In6VpLzev9epAUnpp"
+    },
+    {
+      "album": {
+        "name": "Rock My Body",
+        "url": "https://open.spotify.com/album/57yjy0SQCdRUCfPYPdWAjs"
+      },
+      "artists": [
+        {
+          "name": "AZKA SLIDE",
+          "url": "https://open.spotify.com/artist/0IaSf2VeRVlexFtNBrDhLF"
+        },
+        {
+          "name": "ADAM AF",
+          "url": "https://open.spotify.com/artist/2dqTmr4ZfggU5h7kROZWBA"
+        }
+      ],
+      "date_added": "2026-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133920,
+      "name": "Rock My Body",
+      "url": "https://open.spotify.com/track/3sp3dw9tCzp3Dod1Kd1FNx"
     },
     {
       "album": {

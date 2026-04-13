@@ -1,12 +1,12 @@
 {
   "description": "This is Los Rieleros Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 67823,
+  "num_followers": 67825,
   "original_name": "This Is Los Rieleros Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adg9gAAAAACSKhe4QGaiOdw2Xjps9IgW",
+  "snapshot_id": "admPAAAAAADhUF3A+QtUYfI71ILBL7Ah",
   "tracks": [
     {
       "added_at": null,
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Y Que El Mundo Ruede",
-        "url": "https://open.spotify.com/album/0a6QxPGQLz7vpc0NSWtwK0"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 173480,
-      "name": "Que El Mundo Ruede",
-      "url": "https://open.spotify.com/track/2kVaYGqPCbZXSZXXwbQFTy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cuesta Arriba",
         "url": "https://open.spotify.com/album/2aALr2tgoycC3tyhWciLHi"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 197933,
       "name": "La Equivocaci\u00f3n",
       "url": "https://open.spotify.com/track/67foWfrFF0pHYh7H0XQuBl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Y Que El Mundo Ruede",
+        "url": "https://open.spotify.com/album/0a6QxPGQLz7vpc0NSWtwK0"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 173480,
+      "name": "Que El Mundo Ruede",
+      "url": "https://open.spotify.com/track/2kVaYGqPCbZXSZXXwbQFTy"
     },
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aventura Pasada",
-        "url": "https://open.spotify.com/album/6LIy3aEzPYRSbnqWMUeUtx"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 155440,
-      "name": "Aventura Pasada",
-      "url": "https://open.spotify.com/track/5JchHTsognfG0pbnOVOGwU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cuesta Arriba",
         "url": "https://open.spotify.com/album/2aALr2tgoycC3tyhWciLHi"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 236173,
       "name": "Capricho Maldito",
       "url": "https://open.spotify.com/track/1ErAOXMy6zdRam3O2WLsXj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aventura Pasada",
+        "url": "https://open.spotify.com/album/6LIy3aEzPYRSbnqWMUeUtx"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 155440,
+      "name": "Aventura Pasada",
+      "url": "https://open.spotify.com/track/5JchHTsognfG0pbnOVOGwU"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entrega De Amor",
-        "url": "https://open.spotify.com/album/77qPYC9N8BwFgb9T6gi0F1"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 189426,
-      "name": "Una Mujer Como T\u00fa",
-      "url": "https://open.spotify.com/track/62zSWES4N5m1tr7ovTMWf3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Tus Manos",
         "url": "https://open.spotify.com/album/4kN3maXuYFvA8aQKIS4GyD"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 218400,
       "name": "La Loba del Mal",
       "url": "https://open.spotify.com/track/6y8xUOHC3g0C8ZWYeJKPOV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Entrega De Amor",
+        "url": "https://open.spotify.com/album/77qPYC9N8BwFgb9T6gi0F1"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 189426,
+      "name": "Una Mujer Como T\u00fa",
+      "url": "https://open.spotify.com/track/62zSWES4N5m1tr7ovTMWf3"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Castillo de Ilusi\u00f3n",
-        "url": "https://open.spotify.com/album/0UbMbsyZgnztk6z08mugvU"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 206200,
-      "name": "Una Aventura",
-      "url": "https://open.spotify.com/track/0LCgPftb1BoxaAmKe8RwY8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00c9xitos Recientes y Cl\u00e1sicos",
         "url": "https://open.spotify.com/album/2ePeZ2R1SVuS0HzmJguVm1"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 181346,
       "name": "Gabino Barrera",
       "url": "https://open.spotify.com/track/1PL4HE40pSXt8SWkBND1la"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Castillo de Ilusi\u00f3n",
+        "url": "https://open.spotify.com/album/0UbMbsyZgnztk6z08mugvU"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 206200,
+      "name": "Una Aventura",
+      "url": "https://open.spotify.com/track/0LCgPftb1BoxaAmKe8RwY8"
     },
     {
       "added_at": null,
@@ -715,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "20 Exitos Historicos, Vol. 2",
-        "url": "https://open.spotify.com/album/0A6Tcem0fgtdekMek63yrV"
+        "name": "Siempre Imitado, Jamas Igualado",
+        "url": "https://open.spotify.com/album/35f4w9AcjnUdfJ174fgOz5"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
         }
       ],
-      "duration_ms": 184133,
-      "name": "Amor Ingrato",
-      "url": "https://open.spotify.com/track/3WzL5T9QinwHJlwC8PjD04"
+      "duration_ms": 208973,
+      "name": "Mi Primer Amor (Meu Primeiro Amor)",
+      "url": "https://open.spotify.com/track/4MBykXKFPYkAmsZhe2kYDo"
     },
     {
       "added_at": null,
@@ -747,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Siempre Imitado, Jamas Igualado",
-        "url": "https://open.spotify.com/album/35f4w9AcjnUdfJ174fgOz5"
+        "name": "20 Exitos Historicos, Vol. 2",
+        "url": "https://open.spotify.com/album/0A6Tcem0fgtdekMek63yrV"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
         }
       ],
-      "duration_ms": 208973,
-      "name": "Mi Primer Amor (Meu Primeiro Amor)",
-      "url": "https://open.spotify.com/track/4MBykXKFPYkAmsZhe2kYDo"
+      "duration_ms": 184133,
+      "name": "Amor Ingrato",
+      "url": "https://open.spotify.com/track/3WzL5T9QinwHJlwC8PjD04"
     },
     {
       "added_at": null,

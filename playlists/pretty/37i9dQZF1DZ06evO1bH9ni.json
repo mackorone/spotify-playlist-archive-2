@@ -1,12 +1,12 @@
 {
   "description": "This is Los Dos Carnales. The essential tracks, all in one playlist.",
-  "num_followers": 350911,
+  "num_followers": 350922,
   "original_name": "This Is Los Dos Carnales",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adg9gAAAAADtc/tMsDPEKWoMtJDmI1Fq",
+  "snapshot_id": "admPAAAAAAAKTjFXULQuOBxlSPtAkm5b",
   "tracks": [
     {
       "added_at": null,
@@ -359,6 +359,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Somos Arrieros",
+        "url": "https://open.spotify.com/album/0LST5ZEgbeq7DAKBUlB5rT"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 178509,
+      "name": "Somos Arrieros",
+      "url": "https://open.spotify.com/track/5fbpA0qTcTDd4I5h39ox4a"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mis Manos",
         "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 200945,
       "name": "Tuyo y M\u00edo",
       "url": "https://open.spotify.com/track/4msyEItsAavVb5pZYCuz4n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Somos Arrieros",
-        "url": "https://open.spotify.com/album/0LST5ZEgbeq7DAKBUlB5rT"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 178509,
-      "name": "Somos Arrieros",
-      "url": "https://open.spotify.com/track/5fbpA0qTcTDd4I5h39ox4a"
     },
     {
       "added_at": null,
@@ -551,6 +551,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mis Compas El Final",
+        "url": "https://open.spotify.com/album/1vTFwkahBUhneC1fmz3bRy"
+      },
+      "artists": [
+        {
+          "name": "Joss Favela",
+          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 203710,
+      "name": "La Opini\u00f3n",
+      "url": "https://open.spotify.com/track/33o2E1rmr8Jl2JO1fdLgHG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Al Estilo Rancheron",
         "url": "https://open.spotify.com/album/7jomGVik8nyxBGpIMSCnRd"
       },
@@ -579,26 +599,6 @@
       "duration_ms": 171833,
       "name": "Sin Foto de Perfil",
       "url": "https://open.spotify.com/track/3uNy8WkjMdL6TeLe7dLByX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mis Compas El Final",
-        "url": "https://open.spotify.com/album/1vTFwkahBUhneC1fmz3bRy"
-      },
-      "artists": [
-        {
-          "name": "Joss Favela",
-          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
-        },
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 203710,
-      "name": "La Opini\u00f3n",
-      "url": "https://open.spotify.com/track/33o2E1rmr8Jl2JO1fdLgHG"
     },
     {
       "added_at": null,
@@ -707,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mi Jefe",
+        "url": "https://open.spotify.com/album/64Ea7fAv31mvQ47PTQFeUN"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 214785,
+      "name": "Mi Jefe",
+      "url": "https://open.spotify.com/track/0UUz5GRn15I8839GPyxlfU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Entre Hierba, Polvo y Plomo",
         "url": "https://open.spotify.com/album/25O9BK0aHeYxq9ch47BP9Q"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 215594,
       "name": "Entre Hierba, Polvo y Plomo",
       "url": "https://open.spotify.com/track/0bgQuxSZZRVfivdXROLy1n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mi Jefe",
-        "url": "https://open.spotify.com/album/64Ea7fAv31mvQ47PTQFeUN"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 214785,
-      "name": "Mi Jefe",
-      "url": "https://open.spotify.com/track/0UUz5GRn15I8839GPyxlfU"
     },
     {
       "added_at": null,
@@ -787,6 +787,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Termino Con Lo Nuestro",
+        "url": "https://open.spotify.com/album/7eGdxYcXh1DlmUV2hsDCk6"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 217409,
+      "name": "Termino Con Lo Nuestro",
+      "url": "https://open.spotify.com/track/5bT0SVMNlrqJmG9QlBjxOw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Circo",
         "url": "https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 216770,
       "name": "Lupe Campos",
       "url": "https://open.spotify.com/track/4td9uuqgQFAzJ3qoJS6Ozx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Termino Con Lo Nuestro",
-        "url": "https://open.spotify.com/album/7eGdxYcXh1DlmUV2hsDCk6"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 217409,
-      "name": "Termino Con Lo Nuestro",
-      "url": "https://open.spotify.com/track/5bT0SVMNlrqJmG9QlBjxOw"
     },
     {
       "added_at": null,

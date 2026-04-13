@@ -5569,6 +5569,24 @@
     },
     {
       "album": {
+        "name": "MAKTUB",
+        "url": "https://open.spotify.com/album/1VJhOQJIMs0eARPnI2UTyr"
+      },
+      "artists": [
+        {
+          "name": "JJJ",
+          "url": "https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR"
+        }
+      ],
+      "date_added": "2026-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222826,
+      "name": "Beautiful Mind",
+      "url": "https://open.spotify.com/track/1nhRXubpjau17SiuFVGEPq"
+    },
+    {
+      "album": {
         "name": "BEEF",
         "url": "https://open.spotify.com/album/6rgLMr4N0seHRVcpjyfdXv"
       },
@@ -8462,7 +8480,7 @@
       ],
       "date_added": "2025-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-23",
+      "date_removed": null,
       "duration_ms": 231987,
       "name": "Changes (feat. JJJ)",
       "url": "https://open.spotify.com/track/6EWrD1fNA2v0aqjFLBTGq1"
@@ -14298,6 +14316,32 @@
       "duration_ms": 129433,
       "name": "Fighting with myself",
       "url": "https://open.spotify.com/track/2vty6F5zJaKZCm8cLWfmPN"
+    },
+    {
+      "album": {
+        "name": "EVERYTHING INSIDE",
+        "url": "https://open.spotify.com/album/01vHNbfLgPmT4vIckImSzy"
+      },
+      "artists": [
+        {
+          "name": "KM",
+          "url": "https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa"
+        },
+        {
+          "name": "JJJ",
+          "url": "https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR"
+        },
+        {
+          "name": "Campanella",
+          "url": "https://open.spotify.com/artist/1HCVppGB3oVA6Kt7pRVifZ"
+        }
+      ],
+      "date_added": "2026-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252933,
+      "name": "Filter (feat. JJJ & Campanella)",
+      "url": "https://open.spotify.com/track/2zxCoDmHhil2orScdDJ2C3"
     },
     {
       "album": {
@@ -21858,7 +21902,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-16",
+      "date_removed": null,
       "duration_ms": 193279,
       "name": "Kids Return",
       "url": "https://open.spotify.com/track/3JNBBQwg73CyGP1kbtkhZI"
@@ -51566,7 +51610,7 @@
       ],
       "date_added": "2025-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-16",
+      "date_removed": null,
       "duration_ms": 226720,
       "name": "\u5fc3",
       "url": "https://open.spotify.com/track/4gPnGHTxsWl4Y3ki5syQR7"

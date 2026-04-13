@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Darkswoon, Siren Section, JUST LIZZY and more",
+  "description": "With JUST LIZZY, Siren Section, Ari Mason and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -1210,7 +1210,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 196520,
       "name": "Broken Heart",
       "url": "https://open.spotify.com/track/36RLlZ6boHnv3Ox3ANWIF5"
@@ -1824,7 +1824,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-12",
+      "date_removed": null,
       "duration_ms": 221679,
       "name": "contact",
       "url": "https://open.spotify.com/track/4huCxiN2GsEG6mY6yb73ih"
@@ -1986,7 +1986,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 178620,
       "name": "Crawling",
       "url": "https://open.spotify.com/track/0ATbpAMWPEoIroFXMA2tDA"
@@ -2142,7 +2142,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 168000,
       "name": "Cycle Breaker",
       "url": "https://open.spotify.com/track/5dQwM41uDGiyyWHKAbiwqV"
@@ -2196,7 +2196,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-12",
+      "date_removed": null,
       "duration_ms": 171284,
       "name": "Dance in the Dungeon",
       "url": "https://open.spotify.com/track/1djlouVTNO65GRUQ6kV44G"
@@ -4736,7 +4736,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-12",
+      "date_removed": null,
       "duration_ms": 205000,
       "name": "Innocent Smile",
       "url": "https://open.spotify.com/track/3Zyxr5jVP7wYUMumD5S4uy"
@@ -5570,7 +5570,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 199857,
       "name": "Lobotomize",
       "url": "https://open.spotify.com/track/4vsSkXM6cT2qEFfSVHPY1d"
@@ -6042,7 +6042,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 310769,
       "name": "Miracles (Redeux Mix)",
       "url": "https://open.spotify.com/track/1yZewwLcQP7q0tcQKCvgkl"
@@ -6754,6 +6754,24 @@
       "duration_ms": 187984,
       "name": "Our Time",
       "url": "https://open.spotify.com/track/0HUuA0SKzCoHvvc8YabRyi"
+    },
+    {
+      "album": {
+        "name": "cl\u00e2m",
+        "url": "https://open.spotify.com/album/1FJ1RT3BovxzqGs9BzEb1s"
+      },
+      "artists": [
+        {
+          "name": "cl\u00e2m",
+          "url": "https://open.spotify.com/artist/2DIXOxg8snKcZJFZ7DxRSe"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305393,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/2rEjcfaK9qYB2JLgbTB31Y"
     },
     {
       "album": {
@@ -7484,7 +7502,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-11",
+      "date_removed": null,
       "duration_ms": 186549,
       "name": "Robey Ven",
       "url": "https://open.spotify.com/track/242Lof3nt3f8rFgauer135"
@@ -8300,7 +8318,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-12",
+      "date_removed": null,
       "duration_ms": 248000,
       "name": "Slipping away",
       "url": "https://open.spotify.com/track/67iGteenwJZQbZJ4yTBb2m"
@@ -8994,7 +9012,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-12",
+      "date_removed": null,
       "duration_ms": 240744,
       "name": "Sweet Nightmare",
       "url": "https://open.spotify.com/track/3FCyLMarwPGkjLi9TWbgcO"
@@ -9346,7 +9364,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 222493,
       "name": "The Fear",
       "url": "https://open.spotify.com/track/523fbv1E5scQBXcGOK4vMl"
@@ -11155,6 +11173,28 @@
     },
     {
       "album": {
+        "name": "Tales of Immortality",
+        "url": "https://open.spotify.com/album/7JLlBvg4TlqnFlvBdeLEo0"
+      },
+      "artists": [
+        {
+          "name": "Hex Formes",
+          "url": "https://open.spotify.com/artist/0MsPBlD0bjHnVTfo3XozCM"
+        },
+        {
+          "name": "D1NTR",
+          "url": "https://open.spotify.com/artist/2yEbq5vZ6gKDqXoE3TZUaM"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Windchill",
+      "url": "https://open.spotify.com/track/6AIbO826s3IY5biapY1RvY"
+    },
+    {
+      "album": {
         "name": "Wire Drums",
         "url": "https://open.spotify.com/album/0xbFOd1TtAr50OpQJSnV2X"
       },
@@ -11274,7 +11314,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 199915,
       "name": "Yielding And Melting",
       "url": "https://open.spotify.com/track/1cOjn8QDRIDGxCb8H1q4vC"
@@ -11310,7 +11350,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 148558,
       "name": "You Look So Alive",
       "url": "https://open.spotify.com/track/3gMDGYhdq1W4SBUfM7QEj1"

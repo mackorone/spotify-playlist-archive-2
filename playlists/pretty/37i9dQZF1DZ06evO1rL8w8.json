@@ -1,12 +1,12 @@
 {
   "description": "This is El Komander. The essential tracks, all in one playlist.",
-  "num_followers": 236552,
+  "num_followers": 236578,
   "original_name": "This Is El Komander",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adg9gAAAAAC0Fc/+8p7hCn1/auOjvavT",
+  "snapshot_id": "admPAAAAAADEnTpNKWxkG0vWw7A1mkSn",
   "tracks": [
     {
       "added_at": null,
@@ -743,8 +743,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Archivo Privado",
-        "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
+        "name": "Me Amanezco Con Mi Ex",
+        "url": "https://open.spotify.com/album/5glzmrZQNMJO3Yv3S4AClz"
       },
       "artists": [
         {
@@ -752,13 +752,13 @@
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         },
         {
-          "name": "El Movimiento Alterado",
-          "url": "https://open.spotify.com/artist/30fa9LT7XVys8DcigD1k9x"
+          "name": "Los Hnos Rodriguez",
+          "url": "https://open.spotify.com/artist/4pLBsWSdyApz2k5JtPnmGU"
         }
       ],
-      "duration_ms": 229013,
-      "name": "Carteles Unidos",
-      "url": "https://open.spotify.com/track/5s1jaW59HgyU9RSv1z3UNY"
+      "duration_ms": 144989,
+      "name": "Me Amanezco Con Mi Ex",
+      "url": "https://open.spotify.com/track/4fWFkrtNHcRH0F4GAwVzsI"
     },
     {
       "added_at": null,
@@ -783,8 +783,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Amanezco Con Mi Ex",
-        "url": "https://open.spotify.com/album/5glzmrZQNMJO3Yv3S4AClz"
+        "name": "Archivo Privado",
+        "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
       },
       "artists": [
         {
@@ -792,29 +792,13 @@
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         },
         {
-          "name": "Los Hnos Rodriguez",
-          "url": "https://open.spotify.com/artist/4pLBsWSdyApz2k5JtPnmGU"
+          "name": "El Movimiento Alterado",
+          "url": "https://open.spotify.com/artist/30fa9LT7XVys8DcigD1k9x"
         }
       ],
-      "duration_ms": 144989,
-      "name": "Me Amanezco Con Mi Ex",
-      "url": "https://open.spotify.com/track/4fWFkrtNHcRH0F4GAwVzsI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Detras Del Miedo",
-        "url": "https://open.spotify.com/album/6AIaxMBkR2dK1NzgZEgIc9"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 182212,
-      "name": "Fuga Pa Maza",
-      "url": "https://open.spotify.com/track/5ySCwdva5U06Lqf3Z7sz8e"
+      "duration_ms": 229013,
+      "name": "Carteles Unidos",
+      "url": "https://open.spotify.com/track/5s1jaW59HgyU9RSv1z3UNY"
     },
     {
       "added_at": null,
@@ -839,22 +823,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Desde Mi Ranchito",
-        "url": "https://open.spotify.com/album/22Ovk2DIKkjtoEDWZ6AaTs"
+        "name": "Detras Del Miedo",
+        "url": "https://open.spotify.com/album/6AIaxMBkR2dK1NzgZEgIc9"
       },
       "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
         {
           "name": "El Komander",
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 270318,
-      "name": "Un Frisian Llamado El Centenario - En Vivo",
-      "url": "https://open.spotify.com/track/0kTsX5yfHhdg4nK7t4pbzz"
+      "duration_ms": 182212,
+      "name": "Fuga Pa Maza",
+      "url": "https://open.spotify.com/track/5ySCwdva5U06Lqf3Z7sz8e"
     },
     {
       "added_at": null,
@@ -871,6 +851,26 @@
       "duration_ms": 195813,
       "name": "El Regreso Del Chapo - En Vivo",
       "url": "https://open.spotify.com/track/6xZAySvBgmVOzyh5Owf79F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo Desde Mi Ranchito",
+        "url": "https://open.spotify.com/album/22Ovk2DIKkjtoEDWZ6AaTs"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 270318,
+      "name": "Un Frisian Llamado El Centenario - En Vivo",
+      "url": "https://open.spotify.com/track/0kTsX5yfHhdg4nK7t4pbzz"
     },
     {
       "added_at": null,

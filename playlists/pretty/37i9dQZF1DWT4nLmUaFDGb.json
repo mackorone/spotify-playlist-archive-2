@@ -1,6 +1,6 @@
 {
   "description": "The easy listening sound of Jazz. Cover: Norah Jones",
-  "num_followers": 711294,
+  "num_followers": 711526,
   "original_name": "Easy Jazz",
   "owner": {
     "name": "Spotify",
@@ -395,22 +395,6 @@
     {
       "added_at": "2026-04-10 09:23:33",
       "album": {
-        "name": "On The Moon",
-        "url": "https://open.spotify.com/album/7HFqV8NOZJ4fWXbz79tvws"
-      },
-      "artists": [
-        {
-          "name": "Peter Cincotti",
-          "url": "https://open.spotify.com/artist/1PjKnsWzJra4dV8OXiNC5F"
-        }
-      ],
-      "duration_ms": 212426,
-      "name": "Some Kind Of Wonderful",
-      "url": "https://open.spotify.com/track/1bDQlSam1rz9QQYzXzmFr9"
-    },
-    {
-      "added_at": "2026-04-10 09:23:33",
-      "album": {
         "name": "Mother and Brother",
         "url": "https://open.spotify.com/album/5fjoxztU1qKAYHLgHiFh6o"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 219773,
       "name": "The Sun Is Shining for Our Love",
       "url": "https://open.spotify.com/track/1TT7MMEeEz2W4jxaQxU7lZ"
+    },
+    {
+      "added_at": "2026-04-10 09:23:33",
+      "album": {
+        "name": "On The Moon",
+        "url": "https://open.spotify.com/album/7HFqV8NOZJ4fWXbz79tvws"
+      },
+      "artists": [
+        {
+          "name": "Peter Cincotti",
+          "url": "https://open.spotify.com/artist/1PjKnsWzJra4dV8OXiNC5F"
+        }
+      ],
+      "duration_ms": 212426,
+      "name": "Some Kind Of Wonderful",
+      "url": "https://open.spotify.com/track/1bDQlSam1rz9QQYzXzmFr9"
     },
     {
       "added_at": "2026-04-10 09:23:33",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-04-10 09:23:33",
       "album": {
-        "name": "Soul Eyes",
-        "url": "https://open.spotify.com/album/15Ru9P22VfNHq4XUkJpWt9"
-      },
-      "artists": [
-        {
-          "name": "Kandace Springs",
-          "url": "https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O"
-        }
-      ],
-      "duration_ms": 224460,
-      "name": "Place To Hide",
-      "url": "https://open.spotify.com/track/58yns8JtLREtKCzqQIEGBz"
-    },
-    {
-      "added_at": "2026-04-10 09:23:33",
-      "album": {
         "name": "Fictions",
         "url": "https://open.spotify.com/album/13GE9LY5RpnTYTZ12LywX3"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 185240,
       "name": "Harvest Moon",
       "url": "https://open.spotify.com/track/7sx41M0GEQPLMYt3FjCnSw"
+    },
+    {
+      "added_at": "2026-04-10 09:23:33",
+      "album": {
+        "name": "Soul Eyes",
+        "url": "https://open.spotify.com/album/15Ru9P22VfNHq4XUkJpWt9"
+      },
+      "artists": [
+        {
+          "name": "Kandace Springs",
+          "url": "https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O"
+        }
+      ],
+      "duration_ms": 224460,
+      "name": "Place To Hide",
+      "url": "https://open.spotify.com/track/58yns8JtLREtKCzqQIEGBz"
     },
     {
       "added_at": "2026-04-10 09:23:33",
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-04-10 09:23:33",
       "album": {
-        "name": "The Complete Great American Songbook",
-        "url": "https://open.spotify.com/album/3xUOObdRU9f2wblHafYx0j"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 186880,
-      "name": "I'm In The Mood For Love",
-      "url": "https://open.spotify.com/track/7s5Xd6BLaZfkr6C3tgR4Ow"
-    },
-    {
-      "added_at": "2026-04-10 09:23:33",
-      "album": {
         "name": "The Very Best Of Diana Krall",
         "url": "https://open.spotify.com/album/6V0wO3QCv5hk6Y2ZAIICV4"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 264560,
       "name": "'S Wonderful",
       "url": "https://open.spotify.com/track/7FJNoj4PwKGfkQJJu7I5GG"
+    },
+    {
+      "added_at": "2026-04-10 09:23:33",
+      "album": {
+        "name": "The Complete Great American Songbook",
+        "url": "https://open.spotify.com/album/3xUOObdRU9f2wblHafYx0j"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "duration_ms": 186880,
+      "name": "I'm In The Mood For Love",
+      "url": "https://open.spotify.com/track/7s5Xd6BLaZfkr6C3tgR4Ow"
     },
     {
       "added_at": "2026-04-10 09:23:33",
@@ -855,6 +855,22 @@
     {
       "added_at": "2026-04-10 09:23:33",
       "album": {
+        "name": "The Sound of Music",
+        "url": "https://open.spotify.com/album/6Av8L1QSD9GyWHB5ojRxNL"
+      },
+      "artists": [
+        {
+          "name": "Martina DaSilva",
+          "url": "https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F"
+        }
+      ],
+      "duration_ms": 245148,
+      "name": "The Sound of Music",
+      "url": "https://open.spotify.com/track/58HbwdrmyWwFIamvSI8bDx"
+    },
+    {
+      "added_at": "2026-04-10 09:23:33",
+      "album": {
         "name": "Creole Love Call",
         "url": "https://open.spotify.com/album/1aV2jCH2ntuiZTpcrPcQvn"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 240666,
       "name": "One Day I Fly Away",
       "url": "https://open.spotify.com/track/5G4mD6dNtV9V30npBbAj0i"
-    },
-    {
-      "added_at": "2026-04-10 09:23:33",
-      "album": {
-        "name": "The Sound of Music",
-        "url": "https://open.spotify.com/album/6Av8L1QSD9GyWHB5ojRxNL"
-      },
-      "artists": [
-        {
-          "name": "Martina DaSilva",
-          "url": "https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F"
-        }
-      ],
-      "duration_ms": 245148,
-      "name": "The Sound of Music",
-      "url": "https://open.spotify.com/track/58HbwdrmyWwFIamvSI8bDx"
     },
     {
       "added_at": "2026-04-10 09:23:33",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2026-04-10 09:23:33",
       "album": {
-        "name": "You Are There",
-        "url": "https://open.spotify.com/album/2SW21s45ctUtS6GIxsVuaM"
-      },
-      "artists": [
-        {
-          "name": "Kate Kortum",
-          "url": "https://open.spotify.com/artist/7C9n1omUWXpWDedTBsiI0D"
-        }
-      ],
-      "duration_ms": 345176,
-      "name": "You Are There",
-      "url": "https://open.spotify.com/track/3HweeuM8Tuan2rNoAW2uYY"
-    },
-    {
-      "added_at": "2026-04-10 09:23:33",
-      "album": {
         "name": "It's Oh So Quiet",
         "url": "https://open.spotify.com/album/6C6nBYHDXsWFUAp7D45Pwv"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 228174,
       "name": "It's Oh So Quiet",
       "url": "https://open.spotify.com/track/0HRkVSOxjs9qdvAUKc603s"
+    },
+    {
+      "added_at": "2026-04-10 09:23:33",
+      "album": {
+        "name": "You Are There",
+        "url": "https://open.spotify.com/album/2SW21s45ctUtS6GIxsVuaM"
+      },
+      "artists": [
+        {
+          "name": "Kate Kortum",
+          "url": "https://open.spotify.com/artist/7C9n1omUWXpWDedTBsiI0D"
+        }
+      ],
+      "duration_ms": 345176,
+      "name": "You Are There",
+      "url": "https://open.spotify.com/track/3HweeuM8Tuan2rNoAW2uYY"
     },
     {
       "added_at": "2026-04-10 09:23:33",
@@ -1907,6 +1907,22 @@
     {
       "added_at": "2026-04-10 09:23:33",
       "album": {
+        "name": "The World in You",
+        "url": "https://open.spotify.com/album/5rURPDHLOl1PdDlEEUJh4p"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Wright",
+          "url": "https://open.spotify.com/artist/5Hwrd6zkxZGSGH9dD5FdzQ"
+        }
+      ],
+      "duration_ms": 199040,
+      "name": "The World in You",
+      "url": "https://open.spotify.com/track/1243N2Yax6rkqE0QRnktCK"
+    },
+    {
+      "added_at": "2026-04-10 09:23:33",
+      "album": {
         "name": "My Ideal",
         "url": "https://open.spotify.com/album/0n9t4yvnjeYmTEbLamdn36"
       },
@@ -1927,38 +1943,6 @@
     {
       "added_at": "2026-04-10 09:23:33",
       "album": {
-        "name": "Boy Boredom",
-        "url": "https://open.spotify.com/album/0xLUeJSKo5J9QjiuVMKUpN"
-      },
-      "artists": [
-        {
-          "name": "Cosma Joy",
-          "url": "https://open.spotify.com/artist/2AqDA65BH1X8DI4LsFqiEJ"
-        }
-      ],
-      "duration_ms": 221241,
-      "name": "Anyone",
-      "url": "https://open.spotify.com/track/2lggWmLZzrGJoejX97Usb8"
-    },
-    {
-      "added_at": "2026-04-10 09:23:33",
-      "album": {
-        "name": "The World in You",
-        "url": "https://open.spotify.com/album/5rURPDHLOl1PdDlEEUJh4p"
-      },
-      "artists": [
-        {
-          "name": "Stephanie Wright",
-          "url": "https://open.spotify.com/artist/5Hwrd6zkxZGSGH9dD5FdzQ"
-        }
-      ],
-      "duration_ms": 199040,
-      "name": "The World in You",
-      "url": "https://open.spotify.com/track/1243N2Yax6rkqE0QRnktCK"
-    },
-    {
-      "added_at": "2026-04-10 09:23:33",
-      "album": {
         "name": "It's the Talk of the Town",
         "url": "https://open.spotify.com/album/7Gq2fHvO6W7MF4H5H1wdub"
       },
@@ -1971,6 +1955,22 @@
       "duration_ms": 424173,
       "name": "It's the Talk of the Town",
       "url": "https://open.spotify.com/track/5vXDA2Sqm05uQaoayLGKQJ"
+    },
+    {
+      "added_at": "2026-04-10 09:23:33",
+      "album": {
+        "name": "Boy Boredom",
+        "url": "https://open.spotify.com/album/0xLUeJSKo5J9QjiuVMKUpN"
+      },
+      "artists": [
+        {
+          "name": "Cosma Joy",
+          "url": "https://open.spotify.com/artist/2AqDA65BH1X8DI4LsFqiEJ"
+        }
+      ],
+      "duration_ms": 221241,
+      "name": "Anyone",
+      "url": "https://open.spotify.com/track/2lggWmLZzrGJoejX97Usb8"
     },
     {
       "added_at": "2026-04-10 09:23:33",
@@ -2123,22 +2123,6 @@
     {
       "added_at": "2026-04-10 09:23:33",
       "album": {
-        "name": "On My Way to You",
-        "url": "https://open.spotify.com/album/1HQrW5oQigjeWcKwR3HkNX"
-      },
-      "artists": [
-        {
-          "name": "Rigmor Gustafsson",
-          "url": "https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU"
-        }
-      ],
-      "duration_ms": 176280,
-      "name": "One At A Time",
-      "url": "https://open.spotify.com/track/6M00o3MqNCShYRPND1UBEN"
-    },
-    {
-      "added_at": "2026-04-10 09:23:33",
-      "album": {
         "name": "Edelweiss",
         "url": "https://open.spotify.com/album/0iMw5aKpZC7Ifv7oQZ8FzF"
       },
@@ -2151,6 +2135,22 @@
       "duration_ms": 177773,
       "name": "Edelweiss",
       "url": "https://open.spotify.com/track/4aRUHmTxZtltzbnv1XApBD"
+    },
+    {
+      "added_at": "2026-04-10 09:23:33",
+      "album": {
+        "name": "On My Way to You",
+        "url": "https://open.spotify.com/album/1HQrW5oQigjeWcKwR3HkNX"
+      },
+      "artists": [
+        {
+          "name": "Rigmor Gustafsson",
+          "url": "https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU"
+        }
+      ],
+      "duration_ms": 176280,
+      "name": "One At A Time",
+      "url": "https://open.spotify.com/track/6M00o3MqNCShYRPND1UBEN"
     },
     {
       "added_at": "2026-04-10 09:23:33",
@@ -2383,22 +2383,6 @@
     {
       "added_at": "2026-04-10 09:23:33",
       "album": {
-        "name": "Come Away With Me",
-        "url": "https://open.spotify.com/album/1JvoMzqg04nC29gam4Qaiq"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 187666,
-      "name": "The Nearness Of You",
-      "url": "https://open.spotify.com/track/03gk2zRwm8uUZDbyZJtPgh"
-    },
-    {
-      "added_at": "2026-04-10 09:23:33",
-      "album": {
         "name": "American Classic",
         "url": "https://open.spotify.com/album/3a6KzdXSmRbx5EAhYkSA6p"
       },
@@ -2415,6 +2399,22 @@
       "duration_ms": 261706,
       "name": "If I Had You",
       "url": "https://open.spotify.com/track/7hqudcHQ5fULbiEXOuHo2P"
+    },
+    {
+      "added_at": "2026-04-10 09:23:33",
+      "album": {
+        "name": "Come Away With Me",
+        "url": "https://open.spotify.com/album/1JvoMzqg04nC29gam4Qaiq"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 187666,
+      "name": "The Nearness Of You",
+      "url": "https://open.spotify.com/track/03gk2zRwm8uUZDbyZJtPgh"
     },
     {
       "added_at": "2026-04-10 09:23:33",

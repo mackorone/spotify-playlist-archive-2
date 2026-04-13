@@ -4,7 +4,7 @@
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-1,208 songs - 2 day 23 hr 18 min
+1,209 songs - 2 day 23 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [Dancing In The Flames](https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dancing In The Flames](https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g) | 3:40 | 2024-09-18 |  |
 | [Dancing on the Mirror](https://open.spotify.com/track/7ytRkrwlXnqFDNTeyMvFtD) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [Dancing on the Mirror](https://open.spotify.com/album/6p94bt5BJ7gGhv2JM07teB) | 3:29 | 2024-09-11 | 2024-12-11 |
 | [Dancing Reluctantly \(Live Session\)](https://open.spotify.com/track/0obw6jSxnUV5zvrQDgE8or) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [LIGHTHOUSE](https://open.spotify.com/album/4F9zqfgck0CJyuym96hLpD) | 2:23 | 2023-09-08 | 2023-09-27 |
+| [Dangerous](https://open.spotify.com/track/6wzi8plTTF8LHkruWOmCQS) | [GEMINI](https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei) | [Dangerous](https://open.spotify.com/album/0vjakRygJi7Z4JQzy1biqV) | 3:30 | 2026-04-08 |  |
 | [Dangerous Lover](https://open.spotify.com/track/6k5MFxx07WH3p0cC6DK9PD) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [Dangerous Lover](https://open.spotify.com/album/2EIRNYg9YwfZt0iRuuUFCh) | 3:24 | 2026-04-08 |  |
 | [Daria](https://open.spotify.com/track/2tkgYtgyl5CVafEr8ev25S) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [Daria](https://open.spotify.com/album/1gSCnUNs0h6khbEOTUgufV) | 2:32 | 2025-02-20 | 2025-03-19 |
 | [Day By Day](https://open.spotify.com/track/79oft65PDY4LL7MoLQ6Nxp) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Trail Mix Tape](https://open.spotify.com/album/7o1kPZMhYTeD78xeKZ6hm6) | 3:07 | 2022-10-20 | 2023-05-26 |
@@ -364,7 +365,7 @@
 | [golden hour \- Fujii Kaze Remix](https://open.spotify.com/track/6KxgptZSrQC4Vv21ZBOG7S) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [golden hour \(Fujii Kaze Remix\)](https://open.spotify.com/album/0Csmj0RDEYXg1ZW12fekwM) | 2:39 | 2023-04-20 |  |
 | [Gold　～また逢う日まで～](https://open.spotify.com/track/6hasQfFdygcQow58WNA614) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [Gold　～また逢う日まで～](https://open.spotify.com/album/2imXyePzAn9t5cfc9QWPwk) | 4:14 | 2023-07-27 | 2024-05-09 |
 | [Gone Baby, Don't Be Long](https://open.spotify.com/track/3mw4zCiy6cRqFieD7L4IDp) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz), [Ebban Dorsey](https://open.spotify.com/artist/5TOrtWMKxGEvLTJUtooZUu) | [Gone Baby, Don't Be Long](https://open.spotify.com/album/0amr9WM6hmjOA09JwSV2si) | 7:53 | 2023-01-06 | 2023-03-01 |
-| [Good Care](https://open.spotify.com/track/1argqjqP7b6GjGfAGiBlF8) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI), [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O), [asiatic.wav](https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx) | [Good Care](https://open.spotify.com/album/6GE5HCTdt1M0ByOFLoXV4d) | 3:14 | 2023-01-31 |  |
+| [Good Care](https://open.spotify.com/track/1argqjqP7b6GjGfAGiBlF8) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI), [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O), [asiatic.wav](https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx) | [Good Care](https://open.spotify.com/album/6GE5HCTdt1M0ByOFLoXV4d) | 3:14 | 2023-01-31 | 2026-04-13 |
 | [Good Company](https://open.spotify.com/track/0bs4c6mFxhNMqQvOjv4vR3) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Good Company](https://open.spotify.com/album/2PgLWCDmJKChhZab33Pth9) | 2:37 | 2022-12-06 | 2023-05-19 |
 | [Good Day feat\. Max Jenmana](https://open.spotify.com/track/0RA6TYjEqbBfOuxs8UeW7G) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9), [Max Jenmana](https://open.spotify.com/artist/5nkD00FEf53rM9s4v33uFx) | [Good Day feat\. Max Jenmana](https://open.spotify.com/album/68SQJeCkwI0tGKfiDXRKB3) | 3:06 | 2024-12-17 | 2024-12-26 |
 | [Good Lovin](https://open.spotify.com/track/67GSli4TH2MYpm2YbXv8Pr) | [Flamingo Cartel](https://open.spotify.com/artist/6p4SjQc5fE2Tu9xgh33S8D), [DJ TARO](https://open.spotify.com/artist/0ZUlkaqycHiFNXBjCiJLSo), [Lukas Setto](https://open.spotify.com/artist/1qQsGVTeXPtTvAgvDd5SHZ), [Julisa](https://open.spotify.com/artist/37jvpuURr5W4XN4JDVx744) | [Good Lovin](https://open.spotify.com/album/3UhvdOKBVUwsTtihw50T4K) | 3:21 | 2022-11-05 | 2022-11-30 |

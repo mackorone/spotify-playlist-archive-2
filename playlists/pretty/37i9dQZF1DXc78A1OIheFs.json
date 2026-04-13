@@ -1,6 +1,6 @@
 {
   "description": "Discover the best in new music from Aotearoa. Cover: Lorde",
-  "num_followers": 19336,
+  "num_followers": 19339,
   "original_name": "The Local List Aotearoa",
   "owner": {
     "name": "Spotify",
@@ -99,22 +99,6 @@
     {
       "added_at": "2026-03-26 13:00:23",
       "album": {
-        "name": "Better Off",
-        "url": "https://open.spotify.com/album/57SwrbCTxISbDLchYw0nvx"
-      },
-      "artists": [
-        {
-          "name": "Will Swinton",
-          "url": "https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh"
-        }
-      ],
-      "duration_ms": 231724,
-      "name": "Better Off",
-      "url": "https://open.spotify.com/track/1MJIGHlxwwTop0ZCuePe3Y"
-    },
-    {
-      "added_at": "2026-03-26 13:00:23",
-      "album": {
         "name": "Love Again",
         "url": "https://open.spotify.com/album/4t9vOwy3LFYcre771GzHy4"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 229714,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/2zGn6hwGCnANDoSsAxlnRx"
+    },
+    {
+      "added_at": "2026-03-26 13:00:23",
+      "album": {
+        "name": "Better Off",
+        "url": "https://open.spotify.com/album/57SwrbCTxISbDLchYw0nvx"
+      },
+      "artists": [
+        {
+          "name": "Will Swinton",
+          "url": "https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh"
+        }
+      ],
+      "duration_ms": 231724,
+      "name": "Better Off",
+      "url": "https://open.spotify.com/track/1MJIGHlxwwTop0ZCuePe3Y"
     },
     {
       "added_at": "2026-03-26 13:00:23",
@@ -391,22 +391,6 @@
     {
       "added_at": "2026-03-26 13:00:23",
       "album": {
-        "name": "Nights Like This",
-        "url": "https://open.spotify.com/album/7cGYemTtKlqYqR61wETgU4"
-      },
-      "artists": [
-        {
-          "name": "Kaylee Bell",
-          "url": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
-        }
-      ],
-      "duration_ms": 165090,
-      "name": "Boots 'N All",
-      "url": "https://open.spotify.com/track/60utjxPySCYZTh1gW7m8CW"
-    },
-    {
-      "added_at": "2026-03-26 13:00:23",
-      "album": {
         "name": "Eldest Daughter Of An Eldest Daughter",
         "url": "https://open.spotify.com/album/4a5uJvHjC5NrORjUrtCV55"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 266706,
       "name": "Faery King",
       "url": "https://open.spotify.com/track/3jMJ7s8FQupDa1oRpaQsCc"
+    },
+    {
+      "added_at": "2026-03-26 13:00:23",
+      "album": {
+        "name": "Nights Like This",
+        "url": "https://open.spotify.com/album/7cGYemTtKlqYqR61wETgU4"
+      },
+      "artists": [
+        {
+          "name": "Kaylee Bell",
+          "url": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+        }
+      ],
+      "duration_ms": 165090,
+      "name": "Boots 'N All",
+      "url": "https://open.spotify.com/track/60utjxPySCYZTh1gW7m8CW"
     },
     {
       "added_at": "2026-03-26 13:00:23",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-03-26 13:00:23",
       "album": {
-        "name": "You Already Know",
-        "url": "https://open.spotify.com/album/3K1gJcHNypQmW7qCkiplSh"
-      },
-      "artists": [
-        {
-          "name": "Sons of Zion",
-          "url": "https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW"
-        }
-      ],
-      "duration_ms": 186747,
-      "name": "You Already Know",
-      "url": "https://open.spotify.com/track/7c8NGyFaX9Too4WKDLGnft"
-    },
-    {
-      "added_at": "2026-03-26 13:00:23",
-      "album": {
         "name": "Everything Is Going To Be Alright",
         "url": "https://open.spotify.com/album/68VjqhhlPZRLMAGxs1FSuU"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 191812,
       "name": "Forever Is A Charm",
       "url": "https://open.spotify.com/track/2eepdxWeNXa3dU7qRhtNHP"
+    },
+    {
+      "added_at": "2026-03-26 13:00:23",
+      "album": {
+        "name": "You Already Know",
+        "url": "https://open.spotify.com/album/3K1gJcHNypQmW7qCkiplSh"
+      },
+      "artists": [
+        {
+          "name": "Sons of Zion",
+          "url": "https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW"
+        }
+      ],
+      "duration_ms": 186747,
+      "name": "You Already Know",
+      "url": "https://open.spotify.com/track/7c8NGyFaX9Too4WKDLGnft"
     },
     {
       "added_at": "2026-03-26 13:00:23",
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-03-26 13:00:23",
       "album": {
-        "name": "Knocking At Your Door",
-        "url": "https://open.spotify.com/album/7dfLlEgi0O9NzbvyUJiWN3"
-      },
-      "artists": [
-        {
-          "name": "SIX60",
-          "url": "https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn"
-        }
-      ],
-      "duration_ms": 154243,
-      "name": "Knocking At Your Door",
-      "url": "https://open.spotify.com/track/2OBGlsbiixDJUK9hZJMfvH"
-    },
-    {
-      "added_at": "2026-03-26 13:00:23",
-      "album": {
         "name": "Vol. 3",
         "url": "https://open.spotify.com/album/2ybYUrbmkPXadAjJWmtcje"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 246442,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/6KAA7BldTJgqfPv5pvqhqj"
+    },
+    {
+      "added_at": "2026-03-26 13:00:23",
+      "album": {
+        "name": "Knocking At Your Door",
+        "url": "https://open.spotify.com/album/7dfLlEgi0O9NzbvyUJiWN3"
+      },
+      "artists": [
+        {
+          "name": "SIX60",
+          "url": "https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn"
+        }
+      ],
+      "duration_ms": 154243,
+      "name": "Knocking At Your Door",
+      "url": "https://open.spotify.com/track/2OBGlsbiixDJUK9hZJMfvH"
     },
     {
       "added_at": "2026-03-26 13:00:23",
@@ -1087,6 +1087,26 @@
     {
       "added_at": "2026-03-26 13:00:23",
       "album": {
+        "name": "I Want More",
+        "url": "https://open.spotify.com/album/30WNWO1pzDaqSyJ7Ich5uD"
+      },
+      "artists": [
+        {
+          "name": "Sons of Zion",
+          "url": "https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW"
+        },
+        {
+          "name": "TAWAZ",
+          "url": "https://open.spotify.com/artist/6SBZ3XblxACQRrZK4olxhH"
+        }
+      ],
+      "duration_ms": 177989,
+      "name": "I Want More",
+      "url": "https://open.spotify.com/track/0bvVx47ygehREuixC0o5r0"
+    },
+    {
+      "added_at": "2026-03-26 13:00:23",
+      "album": {
         "name": "When He Was Mine (Pele Fo'i Mai)",
         "url": "https://open.spotify.com/album/0M1CqAlfmSaJ6HnneFqyEf"
       },
@@ -1135,26 +1155,6 @@
     {
       "added_at": "2026-03-26 13:00:23",
       "album": {
-        "name": "I Want More",
-        "url": "https://open.spotify.com/album/30WNWO1pzDaqSyJ7Ich5uD"
-      },
-      "artists": [
-        {
-          "name": "Sons of Zion",
-          "url": "https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW"
-        },
-        {
-          "name": "TAWAZ",
-          "url": "https://open.spotify.com/artist/6SBZ3XblxACQRrZK4olxhH"
-        }
-      ],
-      "duration_ms": 177989,
-      "name": "I Want More",
-      "url": "https://open.spotify.com/track/0bvVx47ygehREuixC0o5r0"
-    },
-    {
-      "added_at": "2026-03-26 13:00:23",
-      "album": {
         "name": "Didn't Change A Thing",
         "url": "https://open.spotify.com/album/7q6gFymoUw39CUBeDQJTkr"
       },
@@ -1167,22 +1167,6 @@
       "duration_ms": 164999,
       "name": "Didn't Change A Thing",
       "url": "https://open.spotify.com/track/2OgPwHAA08O8gPkX2S6ujL"
-    },
-    {
-      "added_at": "2026-03-26 13:00:23",
-      "album": {
-        "name": "SENESCENCE",
-        "url": "https://open.spotify.com/album/3ibzGjl8ndao9xMTtMEPf9"
-      },
-      "artists": [
-        {
-          "name": "BAYNK",
-          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
-        }
-      ],
-      "duration_ms": 176706,
-      "name": "Older",
-      "url": "https://open.spotify.com/track/5iYllqp8cdbFSjU3sHzoKn"
     },
     {
       "added_at": "2026-03-26 13:00:23",
@@ -1223,6 +1207,22 @@
     {
       "added_at": "2026-03-26 13:00:23",
       "album": {
+        "name": "SENESCENCE",
+        "url": "https://open.spotify.com/album/3ibzGjl8ndao9xMTtMEPf9"
+      },
+      "artists": [
+        {
+          "name": "BAYNK",
+          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
+        }
+      ],
+      "duration_ms": 176706,
+      "name": "Older",
+      "url": "https://open.spotify.com/track/5iYllqp8cdbFSjU3sHzoKn"
+    },
+    {
+      "added_at": "2026-03-26 13:00:23",
+      "album": {
         "name": "Upside",
         "url": "https://open.spotify.com/album/3DJIsKB1vlhdn0hDAwqiTH"
       },
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2026-03-26 13:00:23",
       "album": {
-        "name": "Ghost in Your Bed",
-        "url": "https://open.spotify.com/album/4hCnWA3vA8bpwHzNcC4u7J"
-      },
-      "artists": [
-        {
-          "name": "Bic Runga",
-          "url": "https://open.spotify.com/artist/3R8AurcQVHkialifehVKXV"
-        }
-      ],
-      "duration_ms": 168560,
-      "name": "Ghost in Your Bed",
-      "url": "https://open.spotify.com/track/1xLmLJ8aqhqpfy9Y8yrvwy"
-    },
-    {
-      "added_at": "2026-03-26 13:00:23",
-      "album": {
         "name": "Problem",
         "url": "https://open.spotify.com/album/4PJPq7BIK2LvUE59pJfVcD"
       },
@@ -1267,6 +1251,26 @@
       "duration_ms": 238481,
       "name": "Problem",
       "url": "https://open.spotify.com/track/7Ir0Knh7XigLnRpTH1GyQc"
+    },
+    {
+      "added_at": "2026-03-26 13:00:23",
+      "album": {
+        "name": "GO!",
+        "url": "https://open.spotify.com/album/1G57wFuySUQ5H33inqfD7V"
+      },
+      "artists": [
+        {
+          "name": "Montell2099",
+          "url": "https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0"
+        },
+        {
+          "name": "Sam Bruno",
+          "url": "https://open.spotify.com/artist/2PgOtERwe37cW1U9z7zAHb"
+        }
+      ],
+      "duration_ms": 186964,
+      "name": "GO!",
+      "url": "https://open.spotify.com/track/56VjJf0nMKrZ0aLBKmP2Rl"
     }
   ],
   "unique_name": "The Local List Aotearoa",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 902 likes - 140 songs - 8 hr 36 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 903 likes - 141 songs - 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -148,5 +148,6 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 138 | [Hunt Me Down](https://open.spotify.com/track/0b2RimjmoPFCqXvppAZeAq) | [Forestt Light](https://open.spotify.com/artist/1dQO7ovsxueUnTvuQril35) | [Hunt Me Down](https://open.spotify.com/album/6FdekhGJLX3juBXFgSqyvh) | 3:57 |
 | 139 | [Don't Call](https://open.spotify.com/track/6mezWgu1bwXF0AUsbJOIhe) | [Royal Fools](https://open.spotify.com/artist/4OQMfxWWXrkJJlIuUfkrC8) | [PROM](https://open.spotify.com/album/1fWnNXEHS7MeHzh5aoG2pg) | 2:18 |
 | 140 | [Down and Out](https://open.spotify.com/track/4FijKBMTSLv63uXNh3qM1e) | [White Star Line](https://open.spotify.com/artist/3qDMmbHoQIpMvNuOzyazsh) | [Down and Out](https://open.spotify.com/album/6Hg0NRmmjjjjaBKYqG3nGh) | 3:42 |
+| 141 | [Just Let It Go](https://open.spotify.com/track/5lPn1Gsaqo8NO3NpFGgwqJ) | [FLÒRALYN](https://open.spotify.com/artist/2LcgkfAzVOD0qeVCgDAqmy) | [Just Let It Go](https://open.spotify.com/album/50TsgNRCRfPWhO8dy9YERH) | 3:13 |
 
-Snapshot ID: `AAAFt99Z4yBLULqlMVC3nFRX4F4fc3zV`
+Snapshot ID: `AAAFuJViTFa8V29fsNqgHk5uXIsaq47l`

@@ -1281,6 +1281,24 @@
     },
     {
       "album": {
+        "name": "ps / dm",
+        "url": "https://open.spotify.com/album/1MLE2PAPlgYvN9yKfbzcCN"
+      },
+      "artists": [
+        {
+          "name": "spirit blue",
+          "url": "https://open.spotify.com/artist/49JcjxYnQNsELWLqtzIycx"
+        }
+      ],
+      "date_added": "2026-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230468,
+      "name": "desire machine",
+      "url": "https://open.spotify.com/track/6XlyQPkdsBJsFxIC7yICXh"
+    },
+    {
+      "album": {
         "name": "X",
         "url": "https://open.spotify.com/album/688l8IJXR4cmgGj0Ekl0DR"
       },

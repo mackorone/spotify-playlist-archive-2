@@ -1,6 +1,6 @@
 {
   "description": "Musicaliza tu sesi\u00f3n de videojuegos con estos versos de barrio.",
-  "num_followers": 248633,
+  "num_followers": 248680,
   "original_name": "Gaming Belic\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2026-03-27 06:00:17",
       "album": {
-        "name": "Un Antes y un Despu\u00e9s",
-        "url": "https://open.spotify.com/album/4f86mPhD4aW8wsymxEGzAn"
-      },
-      "artists": [
-        {
-          "name": "Beto Vega",
-          "url": "https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak"
-        }
-      ],
-      "duration_ms": 148522,
-      "name": "Un Antes y Un Despu\u00e9s",
-      "url": "https://open.spotify.com/track/6B6qzSyFwkF1xV8t2zHpOP"
-    },
-    {
-      "added_at": "2026-03-27 06:00:17",
-      "album": {
         "name": "La Caravana",
         "url": "https://open.spotify.com/album/0i9rS0UsC865Lk7kF2u9Bk"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 143250,
       "name": "La Caravana",
       "url": "https://open.spotify.com/track/3v5V1Ro9eUq141arz1ODow"
+    },
+    {
+      "added_at": "2026-03-27 06:00:17",
+      "album": {
+        "name": "Un Antes y un Despu\u00e9s",
+        "url": "https://open.spotify.com/album/4f86mPhD4aW8wsymxEGzAn"
+      },
+      "artists": [
+        {
+          "name": "Beto Vega",
+          "url": "https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak"
+        }
+      ],
+      "duration_ms": 148522,
+      "name": "Un Antes y Un Despu\u00e9s",
+      "url": "https://open.spotify.com/track/6B6qzSyFwkF1xV8t2zHpOP"
     },
     {
       "added_at": "2026-03-27 06:00:17",

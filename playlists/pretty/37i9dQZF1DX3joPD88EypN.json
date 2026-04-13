@@ -1,6 +1,6 @@
 {
   "description": "The sound of Jazz from the nordics. Cover: Jan Garbarek",
-  "num_followers": 96312,
+  "num_followers": 96345,
   "original_name": "Nordic Jazz",
   "owner": {
     "name": "Spotify",
@@ -555,18 +555,22 @@
     {
       "added_at": "2026-01-30 09:24:24",
       "album": {
-        "name": "Throw It Away",
-        "url": "https://open.spotify.com/album/6y2crkppjLvyghaqoBvC8h"
+        "name": "Vision",
+        "url": "https://open.spotify.com/album/6lfmb6NR3EIsur6Ows8Fv5"
       },
       "artists": [
         {
-          "name": "S\u00f8ren Bebe Trio",
-          "url": "https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI"
+          "name": "G\u00f6teborg Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/3xhVB4zwVDsadQMgZuXIK0"
+        },
+        {
+          "name": "Nils Landgren",
+          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
         }
       ],
-      "duration_ms": 283099,
-      "name": "Throw It Away",
-      "url": "https://open.spotify.com/track/2EsLDWZlJVrEJbKZ3P6DWN"
+      "duration_ms": 333853,
+      "name": "Vision",
+      "url": "https://open.spotify.com/track/49gE79dovWDiYfKxgMEFjT"
     },
     {
       "added_at": "2026-01-30 09:24:24",
@@ -599,22 +603,18 @@
     {
       "added_at": "2026-01-30 09:24:24",
       "album": {
-        "name": "Vision",
-        "url": "https://open.spotify.com/album/6lfmb6NR3EIsur6Ows8Fv5"
+        "name": "Throw It Away",
+        "url": "https://open.spotify.com/album/6y2crkppjLvyghaqoBvC8h"
       },
       "artists": [
         {
-          "name": "G\u00f6teborg Jazz Orchestra",
-          "url": "https://open.spotify.com/artist/3xhVB4zwVDsadQMgZuXIK0"
-        },
-        {
-          "name": "Nils Landgren",
-          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
+          "name": "S\u00f8ren Bebe Trio",
+          "url": "https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI"
         }
       ],
-      "duration_ms": 333853,
-      "name": "Vision",
-      "url": "https://open.spotify.com/track/49gE79dovWDiYfKxgMEFjT"
+      "duration_ms": 283099,
+      "name": "Throw It Away",
+      "url": "https://open.spotify.com/track/2EsLDWZlJVrEJbKZ3P6DWN"
     },
     {
       "added_at": "2026-01-30 09:24:24",
@@ -879,6 +879,22 @@
     {
       "added_at": "2026-01-30 09:24:24",
       "album": {
+        "name": "Drifting",
+        "url": "https://open.spotify.com/album/2vsrbUajfq68KSTxKeSFqn"
+      },
+      "artists": [
+        {
+          "name": "Mette Henriette",
+          "url": "https://open.spotify.com/artist/2xMRxDfCsanRWGMvU9mNwP"
+        }
+      ],
+      "duration_ms": 71160,
+      "name": "Divining",
+      "url": "https://open.spotify.com/track/4SBb0JU3bGQBVWra4nirwA"
+    },
+    {
+      "added_at": "2026-01-30 09:24:24",
+      "album": {
         "name": "Gefion",
         "url": "https://open.spotify.com/album/7oBGBUeoPT402ls5ANCQdT"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 270586,
       "name": "And They All Came Marching Out Of The Woods",
       "url": "https://open.spotify.com/track/6jBw9vdYnh6iO1ufKaBkYw"
-    },
-    {
-      "added_at": "2026-01-30 09:24:24",
-      "album": {
-        "name": "Drifting",
-        "url": "https://open.spotify.com/album/2vsrbUajfq68KSTxKeSFqn"
-      },
-      "artists": [
-        {
-          "name": "Mette Henriette",
-          "url": "https://open.spotify.com/artist/2xMRxDfCsanRWGMvU9mNwP"
-        }
-      ],
-      "duration_ms": 71160,
-      "name": "Divining",
-      "url": "https://open.spotify.com/track/4SBb0JU3bGQBVWra4nirwA"
     },
     {
       "added_at": "2026-01-30 09:24:24",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2026-01-30 09:24:24",
       "album": {
-        "name": "When Lights Are Low",
-        "url": "https://open.spotify.com/album/5gjMAq8dbUNkt4k7Fq7CLo"
-      },
-      "artists": [
-        {
-          "name": "Hans Ulrik",
-          "url": "https://open.spotify.com/artist/1SdvVqfeIalD1XCYMO9HsF"
-        }
-      ],
-      "duration_ms": 269614,
-      "name": "When Lights Are Low",
-      "url": "https://open.spotify.com/track/6S6Rv75zSFtcWgLr1XLQLe"
-    },
-    {
-      "added_at": "2026-01-30 09:24:24",
-      "album": {
         "name": "Silence",
         "url": "https://open.spotify.com/album/4uEd21Od3uAgOb6by5TPPQ"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 281855,
       "name": "Silence",
       "url": "https://open.spotify.com/track/2rDTR9jFXOnAWJMZkJHq6J"
+    },
+    {
+      "added_at": "2026-01-30 09:24:24",
+      "album": {
+        "name": "When Lights Are Low",
+        "url": "https://open.spotify.com/album/5gjMAq8dbUNkt4k7Fq7CLo"
+      },
+      "artists": [
+        {
+          "name": "Hans Ulrik",
+          "url": "https://open.spotify.com/artist/1SdvVqfeIalD1XCYMO9HsF"
+        }
+      ],
+      "duration_ms": 269614,
+      "name": "When Lights Are Low",
+      "url": "https://open.spotify.com/track/6S6Rv75zSFtcWgLr1XLQLe"
     },
     {
       "added_at": "2026-01-30 09:24:24",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2026-01-30 09:24:24",
       "album": {
-        "name": "Waves",
-        "url": "https://open.spotify.com/album/0CaagUk6GRyy5qsboCBKhN"
-      },
-      "artists": [
-        {
-          "name": "Terje Rypdal",
-          "url": "https://open.spotify.com/artist/3EFzYPEP2mCQoqcLjoWwK1"
-        }
-      ],
-      "duration_ms": 346333,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/6a5XgyiyTG5Ok7cZ1LMLGh"
-    },
-    {
-      "added_at": "2026-01-30 09:24:24",
-      "album": {
         "name": "Few Words",
         "url": "https://open.spotify.com/album/768ILtCs2fcV8udYKtYvo8"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 101175,
       "name": "Few Words",
       "url": "https://open.spotify.com/track/3MXtKi9TTIk2Ae4BLpiehg"
+    },
+    {
+      "added_at": "2026-01-30 09:24:24",
+      "album": {
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/0CaagUk6GRyy5qsboCBKhN"
+      },
+      "artists": [
+        {
+          "name": "Terje Rypdal",
+          "url": "https://open.spotify.com/artist/3EFzYPEP2mCQoqcLjoWwK1"
+        }
+      ],
+      "duration_ms": 346333,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/6a5XgyiyTG5Ok7cZ1LMLGh"
     },
     {
       "added_at": "2026-01-30 09:24:24",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2026-01-30 09:24:24",
       "album": {
-        "name": "Kingdom of Coldness",
-        "url": "https://open.spotify.com/album/6U8xbucEMNpSIIACYNdXWY"
-      },
-      "artists": [
-        {
-          "name": "Bobo Stenson Trio",
-          "url": "https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV"
-        }
-      ],
-      "duration_ms": 457853,
-      "name": "Kingdom of Coldness",
-      "url": "https://open.spotify.com/track/2bS340pgBoL6phEsVMMMDT"
-    },
-    {
-      "added_at": "2026-01-30 09:24:24",
-      "album": {
         "name": "Asthma Breath",
         "url": "https://open.spotify.com/album/2Mxy2VXEQFY30cMmYjJeNE"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 196868,
       "name": "Asthma Breath",
       "url": "https://open.spotify.com/track/7ly2MdOGM8n2MseNNuRiTJ"
+    },
+    {
+      "added_at": "2026-01-30 09:24:24",
+      "album": {
+        "name": "Kingdom of Coldness",
+        "url": "https://open.spotify.com/album/6U8xbucEMNpSIIACYNdXWY"
+      },
+      "artists": [
+        {
+          "name": "Bobo Stenson Trio",
+          "url": "https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV"
+        }
+      ],
+      "duration_ms": 457853,
+      "name": "Kingdom of Coldness",
+      "url": "https://open.spotify.com/track/2bS340pgBoL6phEsVMMMDT"
     },
     {
       "added_at": "2026-01-30 09:24:24",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2026-01-30 09:24:24",
       "album": {
+        "name": "Point of View",
+        "url": "https://open.spotify.com/album/6buYfEBqnN3lIYZSBwHpxl"
+      },
+      "artists": [
+        {
+          "name": "Kjetil Mulelid",
+          "url": "https://open.spotify.com/artist/1RBwhYR07uefS25DqynAMy"
+        }
+      ],
+      "duration_ms": 249386,
+      "name": "Point of View",
+      "url": "https://open.spotify.com/track/0Y1hgpu3wBX3gfc1YKAMS9"
+    },
+    {
+      "added_at": "2026-01-30 09:24:24",
+      "album": {
         "name": "P\u00e5 havets bunn",
         "url": "https://open.spotify.com/album/1IEAMA5b2cH0TmEc4vFbnK"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 212600,
       "name": "P\u00e5 havets bunn",
       "url": "https://open.spotify.com/track/2vSfGunb5DZxIWeiKxvXOc"
-    },
-    {
-      "added_at": "2026-01-30 09:24:24",
-      "album": {
-        "name": "Point of View",
-        "url": "https://open.spotify.com/album/6buYfEBqnN3lIYZSBwHpxl"
-      },
-      "artists": [
-        {
-          "name": "Kjetil Mulelid",
-          "url": "https://open.spotify.com/artist/1RBwhYR07uefS25DqynAMy"
-        }
-      ],
-      "duration_ms": 249386,
-      "name": "Point of View",
-      "url": "https://open.spotify.com/track/0Y1hgpu3wBX3gfc1YKAMS9"
     },
     {
       "added_at": "2026-01-30 09:24:24",

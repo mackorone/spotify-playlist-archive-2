@@ -1,6 +1,6 @@
 {
   "description": "Songs you love with an indie spin on it. Cover: Blondshell",
-  "num_followers": 303586,
+  "num_followers": 303610,
   "original_name": "Indie Covers",
   "owner": {
     "name": "Spotify",
@@ -519,22 +519,6 @@
     {
       "added_at": "2026-03-06 05:00:19",
       "album": {
-        "name": "Our Generation - Spotify Singles",
-        "url": "https://open.spotify.com/album/3aVpww6hYzU8sHdkSeO0Bw"
-      },
-      "artists": [
-        {
-          "name": "Lovejoy",
-          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
-        }
-      ],
-      "duration_ms": 162641,
-      "name": "The Perfect Pair - Spotify Singles",
-      "url": "https://open.spotify.com/track/3VlDt2YVRn91CJXc89AQEx"
-    },
-    {
-      "added_at": "2026-03-06 05:00:19",
-      "album": {
         "name": "Fix You",
         "url": "https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 141160,
       "name": "Fix You",
       "url": "https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw"
+    },
+    {
+      "added_at": "2026-03-06 05:00:19",
+      "album": {
+        "name": "Our Generation - Spotify Singles",
+        "url": "https://open.spotify.com/album/3aVpww6hYzU8sHdkSeO0Bw"
+      },
+      "artists": [
+        {
+          "name": "Lovejoy",
+          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
+        }
+      ],
+      "duration_ms": 162641,
+      "name": "The Perfect Pair - Spotify Singles",
+      "url": "https://open.spotify.com/track/3VlDt2YVRn91CJXc89AQEx"
     },
     {
       "added_at": "2026-03-06 05:00:19",
@@ -631,22 +631,6 @@
     {
       "added_at": "2026-03-06 05:00:19",
       "album": {
-        "name": "Girlfriend Is Better",
-        "url": "https://open.spotify.com/album/0NE7g8mQKHZ43DqGvmEFg6"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 185333,
-      "name": "Girlfriend Is Better",
-      "url": "https://open.spotify.com/track/42APulJOnvAk8aj7WhzImT"
-    },
-    {
-      "added_at": "2026-03-06 05:00:19",
-      "album": {
         "name": "Espresso (triple j Like A Version)",
         "url": "https://open.spotify.com/album/3k95lpBszHfEn5dZqdqMEF"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 184617,
       "name": "Espresso - triple j Like A Version",
       "url": "https://open.spotify.com/track/0A4C1zlDJIA4ZBlAZFqA3s"
+    },
+    {
+      "added_at": "2026-03-06 05:00:19",
+      "album": {
+        "name": "Girlfriend Is Better",
+        "url": "https://open.spotify.com/album/0NE7g8mQKHZ43DqGvmEFg6"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 185333,
+      "name": "Girlfriend Is Better",
+      "url": "https://open.spotify.com/track/42APulJOnvAk8aj7WhzImT"
     },
     {
       "added_at": "2026-03-06 05:00:19",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-03-06 05:00:19",
       "album": {
-        "name": "Put Your Head On My Shoulder",
-        "url": "https://open.spotify.com/album/2FmUCUROgEVXZB1FBFjVCc"
-      },
-      "artists": [
-        {
-          "name": "Solya",
-          "url": "https://open.spotify.com/artist/4q2k0Txoo06ZQ41MWnQMza"
-        }
-      ],
-      "duration_ms": 151649,
-      "name": "Put Your Head On My Shoulder",
-      "url": "https://open.spotify.com/track/2FlU4KkUdASLidKT7bo47p"
-    },
-    {
-      "added_at": "2026-03-06 05:00:19",
-      "album": {
         "name": "Steal My Sunshine / Novocaine For The Soul",
         "url": "https://open.spotify.com/album/7tfjWfYOhPMyb5uu0mC5w1"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 240002,
       "name": "Steal My Sunshine (feat. Cherry Glazerr)",
       "url": "https://open.spotify.com/track/3dVumZf1SZX1OzsNht9reC"
+    },
+    {
+      "added_at": "2026-03-06 05:00:19",
+      "album": {
+        "name": "Put Your Head On My Shoulder",
+        "url": "https://open.spotify.com/album/2FmUCUROgEVXZB1FBFjVCc"
+      },
+      "artists": [
+        {
+          "name": "Solya",
+          "url": "https://open.spotify.com/artist/4q2k0Txoo06ZQ41MWnQMza"
+        }
+      ],
+      "duration_ms": 151649,
+      "name": "Put Your Head On My Shoulder",
+      "url": "https://open.spotify.com/track/2FlU4KkUdASLidKT7bo47p"
     },
     {
       "added_at": "2026-03-06 05:00:19",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2026-03-06 05:00:19",
       "album": {
+        "name": "Candid",
+        "url": "https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2"
+      },
+      "artists": [
+        {
+          "name": "Whitney",
+          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+        }
+      ],
+      "duration_ms": 206995,
+      "name": "Strange Overtones",
+      "url": "https://open.spotify.com/track/5aHpXbgh3lZlUPJ1iqaczp"
+    },
+    {
+      "added_at": "2026-03-06 05:00:19",
+      "album": {
         "name": "Broken Glass, Vol. 6",
         "url": "https://open.spotify.com/album/7nAbZDCDFoNMa0H1cUICk2"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 225013,
       "name": "He Thinks He'll Keep Her",
       "url": "https://open.spotify.com/track/36YB7zihZBaAq3DJZ1YXZv"
-    },
-    {
-      "added_at": "2026-03-06 05:00:19",
-      "album": {
-        "name": "Candid",
-        "url": "https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2"
-      },
-      "artists": [
-        {
-          "name": "Whitney",
-          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
-        }
-      ],
-      "duration_ms": 206995,
-      "name": "Strange Overtones",
-      "url": "https://open.spotify.com/track/5aHpXbgh3lZlUPJ1iqaczp"
     },
     {
       "added_at": "2026-03-06 05:00:19",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2026-03-06 05:00:19",
       "album": {
+        "name": "Hanging By A Moment",
+        "url": "https://open.spotify.com/album/2zXWTmzp8t0y8Fhz00WWvj"
+      },
+      "artists": [
+        {
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+        }
+      ],
+      "duration_ms": 218680,
+      "name": "Hanging By A Moment",
+      "url": "https://open.spotify.com/track/7gwMABXj9PBmNyVIAFQZsY"
+    },
+    {
+      "added_at": "2026-03-06 05:00:19",
+      "album": {
         "name": "Yellow",
         "url": "https://open.spotify.com/album/3pC14s49yUVj2VJskAshde"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 262714,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/34Jfxprxev4z3iF3R0wG0b"
-    },
-    {
-      "added_at": "2026-03-06 05:00:19",
-      "album": {
-        "name": "Hanging By A Moment",
-        "url": "https://open.spotify.com/album/2zXWTmzp8t0y8Fhz00WWvj"
-      },
-      "artists": [
-        {
-          "name": "Slow Pulp",
-          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
-        }
-      ],
-      "duration_ms": 218680,
-      "name": "Hanging By A Moment",
-      "url": "https://open.spotify.com/track/7gwMABXj9PBmNyVIAFQZsY"
     },
     {
       "added_at": "2026-03-06 05:00:19",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2026-03-06 05:00:19",
       "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/58z5GjZRjt6XIz5GOS0PJh"
-      },
-      "artists": [
-        {
-          "name": "Cat Power",
-          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
-        }
-      ],
-      "duration_ms": 224706,
-      "name": "These Days",
-      "url": "https://open.spotify.com/track/3LWZZ5vzhOSMN6u9pgO6Eu"
-    },
-    {
-      "added_at": "2026-03-06 05:00:19",
-      "album": {
         "name": "The Ballad of the Witches' Road (Pop Version) [From \"Agatha All Along\"]",
         "url": "https://open.spotify.com/album/5JrcjA3eetOUQ5bUbKfjVm"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 151395,
       "name": "The Ballad of the Witches' Road (Pop Version) - From \"Agatha All Along\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/7v3chKWVHNbrGACa8ilNeP"
+    },
+    {
+      "added_at": "2026-03-06 05:00:19",
+      "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/58z5GjZRjt6XIz5GOS0PJh"
+      },
+      "artists": [
+        {
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+        }
+      ],
+      "duration_ms": 224706,
+      "name": "These Days",
+      "url": "https://open.spotify.com/track/3LWZZ5vzhOSMN6u9pgO6Eu"
     },
     {
       "added_at": "2026-03-06 05:00:19",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2026-03-06 05:00:19",
       "album": {
+        "name": "Making Breakfast",
+        "url": "https://open.spotify.com/album/6gZ2JwFSMQsllwM2XJjZIh"
+      },
+      "artists": [
+        {
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+        }
+      ],
+      "duration_ms": 140973,
+      "name": "Making Breakfast",
+      "url": "https://open.spotify.com/track/2slU3LSs6yFAsit4blFSjA"
+    },
+    {
+      "added_at": "2026-03-06 05:00:19",
+      "album": {
         "name": "Adam's Song (triple j Like A Version)",
         "url": "https://open.spotify.com/album/0iOMlmeL9Gwe7KmBfLuxLX"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 256126,
       "name": "Adam's Song - triple j Like A Version",
       "url": "https://open.spotify.com/track/6wAucih2u2ENLTZjIyJN2v"
-    },
-    {
-      "added_at": "2026-03-06 05:00:19",
-      "album": {
-        "name": "Making Breakfast",
-        "url": "https://open.spotify.com/album/6gZ2JwFSMQsllwM2XJjZIh"
-      },
-      "artists": [
-        {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
-        }
-      ],
-      "duration_ms": 140973,
-      "name": "Making Breakfast",
-      "url": "https://open.spotify.com/track/2slU3LSs6yFAsit4blFSjA"
     },
     {
       "added_at": "2026-03-06 05:00:19",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatjfEjdkA6Y.md) - [plain]
 
 > The highlights of Eurovision from the 50s, 60s & 70s\. Cover: ABBA
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,826 likes - 70 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,827 likes - 70 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,18 +47,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatjfEjdkA6Y.md) - [plain]
 | 37 | [Oh Oh Ik Heb Zorgen](https://open.spotify.com/track/6pXIN9tdQzQINm6IRgm6v0) | [Louis Neefs](https://open.spotify.com/artist/4jmHq8tAQ2UziZo2BsPDDt) | [Het Beste Van Louis Neefs](https://open.spotify.com/album/4r46h8MXFOtBI7Ea7b6J8O) | 2:25 |
 | 38 | [Su Canción](https://open.spotify.com/track/2YDMHFV05yjkhAbh2gDm6B) | [Betty Missiego](https://open.spotify.com/artist/160HajXHxdQFEbwdvDaunP) | [Lo Mejor de Betty Missiego](https://open.spotify.com/album/1JvPV0pEYkITh1BRze9Ufi) | 3:03 |
 | 39 | [Vita vidder](https://open.spotify.com/track/0xC2WfHIDroVb1FXHsyrLI) | [Family Four](https://open.spotify.com/artist/59G5sH1IBBPWNAIgOzfpGs) | [1971](https://open.spotify.com/album/7mLIJEPJI0tObeFsLuf0tI) | 3:11 |
-| 40 | [Non ho l'età \- Remastered](https://open.spotify.com/track/65715T2yQVD0uPDRcrODGk) | [Gigliola Cinquetti](https://open.spotify.com/artist/6QxfNzuPwvVnH5n1U24Cmh) | [Non ho l´eta \(Remastered\)](https://open.spotify.com/album/48phIpjpaG5tev1dUQgUYl) | 3:16 |
-| 41 | [Parlez\-vous francais?](https://open.spotify.com/track/673foE9F1zexKf0VPCIB4k) | [Baccara](https://open.spotify.com/artist/4dn4KQgTE4P3jrwa3iIVzQ) | [Best Of](https://open.spotify.com/album/40coqImDQgGDlN8TxMhJwJ) | 4:24 |
-| 42 | [Let Me Be the One](https://open.spotify.com/track/6gZvvkOUTl33NDsbi3lzKr) | [The Shadows](https://open.spotify.com/artist/03hfAxVdAWj7kxDnSG0fLD) | [Shadows \- The Collection](https://open.spotify.com/album/64pi43eHLCnVZHpcIdhoLa) | 2:50 |
-| 43 | [Merci Chérie \- Studio\-Version 1972](https://open.spotify.com/track/29wXI6B7d5vy3iPfXhYMuP) | [Udo Jürgens](https://open.spotify.com/artist/2G0htB8PxlO2onxnIismur) | [Alle Macht den Gefühlen](https://open.spotify.com/album/20OmM7msF0aALXBhaWgUFI) | 2:46 |
+| 40 | [Parlez\-vous francais?](https://open.spotify.com/track/673foE9F1zexKf0VPCIB4k) | [Baccara](https://open.spotify.com/artist/4dn4KQgTE4P3jrwa3iIVzQ) | [Best Of](https://open.spotify.com/album/40coqImDQgGDlN8TxMhJwJ) | 4:24 |
+| 41 | [Non ho l'età \- Remastered](https://open.spotify.com/track/65715T2yQVD0uPDRcrODGk) | [Gigliola Cinquetti](https://open.spotify.com/artist/6QxfNzuPwvVnH5n1U24Cmh) | [Non ho l´eta \(Remastered\)](https://open.spotify.com/album/48phIpjpaG5tev1dUQgUYl) | 3:16 |
+| 42 | [Merci Chérie \- Studio\-Version 1972](https://open.spotify.com/track/29wXI6B7d5vy3iPfXhYMuP) | [Udo Jürgens](https://open.spotify.com/artist/2G0htB8PxlO2onxnIismur) | [Alle Macht den Gefühlen](https://open.spotify.com/album/20OmM7msF0aALXBhaWgUFI) | 2:46 |
+| 43 | [Let Me Be the One](https://open.spotify.com/track/6gZvvkOUTl33NDsbi3lzKr) | [The Shadows](https://open.spotify.com/artist/03hfAxVdAWj7kxDnSG0fLD) | [Shadows \- The Collection](https://open.spotify.com/album/64pi43eHLCnVZHpcIdhoLa) | 2:50 |
 | 44 | [Tipi\-tii](https://open.spotify.com/track/7r0GgmwNre1NtsrRA00bMa) | [Marion Rung](https://open.spotify.com/artist/3IUX9s0yHuyUq3KSo4SXym) | [Marion Rung](https://open.spotify.com/album/2KvulZCeNvldgfmORtL4IL) | 2:12 |
 | 45 | [Uno Per Tutte](https://open.spotify.com/track/4OF9t8dHcIBMip0Vc5hSlk) | [Emilio Pericoli](https://open.spotify.com/artist/78SZetGidiOyErFwdWTmgQ) | [Solino](https://open.spotify.com/album/0I3MXd5FYGAj6X9GOJepMb) | 2:58 |
-| 46 | [Une petite française](https://open.spotify.com/track/4OMWFiBrBlA11tnJmNhi7y) | [Michèle Torr](https://open.spotify.com/artist/0eaTYkUQnI2gRaYwT0nWNF) | [Universal Master](https://open.spotify.com/album/7kg1lYWJkHb0GbJbRcvN3K) | 2:53 |
-| 47 | [Nur die Liebe lässt uns leben \- Neuaufnahme](https://open.spotify.com/track/7nlbJorq1OC3Gph4hCLyhY) | [Mary Roos](https://open.spotify.com/artist/2MmejQB7k07GW7ooY66Umn) | [Herzen zu verschenken](https://open.spotify.com/album/0RGfq0U1p0D1PumB2YHlUB) | 3:13 |
-| 48 | [Warum nur, warum](https://open.spotify.com/track/231iiM3Zt82cVUjEUHFSZA) | [Udo Jürgens](https://open.spotify.com/artist/2G0htB8PxlO2onxnIismur) | [Udo Jürgens \- Die Erfolgsgeschichte](https://open.spotify.com/album/7ux7Y97oJmhfjtYKO95Ku6) | 2:58 |
+| 46 | [Nur die Liebe lässt uns leben \- Neuaufnahme](https://open.spotify.com/track/7nlbJorq1OC3Gph4hCLyhY) | [Mary Roos](https://open.spotify.com/artist/2MmejQB7k07GW7ooY66Umn) | [Herzen zu verschenken](https://open.spotify.com/album/0RGfq0U1p0D1PumB2YHlUB) | 3:13 |
+| 47 | [Warum nur, warum](https://open.spotify.com/track/231iiM3Zt82cVUjEUHFSZA) | [Udo Jürgens](https://open.spotify.com/artist/2G0htB8PxlO2onxnIismur) | [Udo Jürgens \- Die Erfolgsgeschichte](https://open.spotify.com/album/7ux7Y97oJmhfjtYKO95Ku6) | 2:58 |
+| 48 | [Une petite française](https://open.spotify.com/track/4OMWFiBrBlA11tnJmNhi7y) | [Michèle Torr](https://open.spotify.com/artist/0eaTYkUQnI2gRaYwT0nWNF) | [Universal Master](https://open.spotify.com/album/7kg1lYWJkHb0GbJbRcvN3K) | 2:53 |
 | 49 | [Tom Pillibi](https://open.spotify.com/track/3fZIQ0sdsy7u7YDmOpqbxS) | [Jacqueline Boyer](https://open.spotify.com/artist/39CXnW4H5Zc2567MY5UaeH) | [Succès et raretés \(Collection "78 tours et puis s'en vont..."\)](https://open.spotify.com/album/7sklBkyosCBaqrUisOaPRG) | 3:03 |
-| 50 | [Un banc, un arbre, une rue](https://open.spotify.com/track/0OInqhDtfYPcSpEQNtJx3n) | [Severine](https://open.spotify.com/artist/3EUjn8x9dDqyi5yrZNj0iH) | [Un banc, un arbre, une rue](https://open.spotify.com/album/76wwuBCyDmEEKecAEkFkCg) | 3:01 |
-| 51 | [Tourada](https://open.spotify.com/track/5x4vPEqiO7mzrI2QG3S4YV) | [Fernando Tordo](https://open.spotify.com/artist/4riCL3Xog9vm4kIeQICGJL), [Capicua](https://open.spotify.com/artist/58jMhidjL2mOrbEI3D0RTZ) | [Duetos \- Diz\-me Com Quem Cantas](https://open.spotify.com/album/6PNhOIaCoi6f3gX18qXOzH) | 3:57 |
+| 50 | [Tourada](https://open.spotify.com/track/5x4vPEqiO7mzrI2QG3S4YV) | [Fernando Tordo](https://open.spotify.com/artist/4riCL3Xog9vm4kIeQICGJL), [Capicua](https://open.spotify.com/artist/58jMhidjL2mOrbEI3D0RTZ) | [Duetos \- Diz\-me Com Quem Cantas](https://open.spotify.com/album/6PNhOIaCoi6f3gX18qXOzH) | 3:57 |
+| 51 | [Un banc, un arbre, une rue](https://open.spotify.com/track/0OInqhDtfYPcSpEQNtJx3n) | [Severine](https://open.spotify.com/artist/3EUjn8x9dDqyi5yrZNj0iH) | [Un banc, un arbre, une rue](https://open.spotify.com/album/76wwuBCyDmEEKecAEkFkCg) | 3:01 |
 | 52 | [Era](https://open.spotify.com/track/6rOWvMzDHtOUabr8TsDVrh) | [Dori Ghezzi](https://open.spotify.com/artist/28iEG9gvRrh6taxyKFmDnB), [Wess](https://open.spotify.com/artist/1pXnYmLbedhz708gdE8zhe) | [Wess & Dori Ghezzi](https://open.spotify.com/album/13I0wj6y9uifqp1jYk8htl) | 2:53 |
 | 53 | [La source](https://open.spotify.com/track/67fSydtPAw4ILzqie4tD54) | [Isabelle Aubret](https://open.spotify.com/artist/1YUyLxEVcC1mjIpFYu8vG5) | [C'est Beau La Vie](https://open.spotify.com/album/53bNaq6fM32w2tDlDY8iIA) | 3:08 |
 | 54 | [Junger Tag](https://open.spotify.com/track/1MFZ9Qn3D2Mq7CGBM20T0q) | [Gitte Hænning](https://open.spotify.com/artist/61colh5ssNlVYwuzlQyB1u) | [Mega 50 \- Die 70er Jahre](https://open.spotify.com/album/4Jy5Oy9tA5kSnjsz0YyAls) | 3:20 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatjfEjdkA6Y.md) - [plain]
 | 65 | [Tom Tom Tom](https://open.spotify.com/track/5r4mWGBL8NKQL02ARMP2dg) | [Marion Rung](https://open.spotify.com/artist/3IUX9s0yHuyUq3KSo4SXym) | [Big\-5: Marion](https://open.spotify.com/album/1wLH0O9ZGMxKl9R9JbFM6U) | 2:55 |
 | 66 | [Primaballerina \- tysk Version](https://open.spotify.com/track/5I0IiNSEy5ww523Wvmgrmc) | [Siw Malmkvist](https://open.spotify.com/artist/2VWX6ZalDVTp1KMGN6JDSl) | [Primaballerina](https://open.spotify.com/album/4XJS3oPFX2Dh5GvDHI7lHy) | 2:42 |
 | 67 | [Le chant de Mallory](https://open.spotify.com/track/5ATFYzJdCMISJUUVRDUHMA) | [Rachel](https://open.spotify.com/artist/6k2XA52whNeJDYbIes1nOC) | [Popp Songs](https://open.spotify.com/album/4wvER0DV3Av6iGOwfbeMsj) | 2:22 |
-| 68 | [Brez besed \- Evrovizija 1966](https://open.spotify.com/track/3OZqPWY86jhuv6DV5TV0kK) | [Berta Ambroz](https://open.spotify.com/artist/04mSp2LAR4PNf4nWSJTXWq) | [Brez besed](https://open.spotify.com/album/17XZ6Nn2VQ1xbnUU27d8U9) | 2:45 |
-| 69 | [Un jardin sur la Terre](https://open.spotify.com/track/5qrnU9rQR0Vpoc4vI1zmYc) | [Serge Lama](https://open.spotify.com/artist/3fR5PRhFohNbxEXDE69pUz) | [Les 50 Plus Belles Chansons](https://open.spotify.com/album/0jhZnOsf191o5d4pzt2qTu) | 3:07 |
+| 68 | [Un jardin sur la Terre](https://open.spotify.com/track/5qrnU9rQR0Vpoc4vI1zmYc) | [Serge Lama](https://open.spotify.com/artist/3fR5PRhFohNbxEXDE69pUz) | [Les 50 Plus Belles Chansons](https://open.spotify.com/album/0jhZnOsf191o5d4pzt2qTu) | 3:07 |
+| 69 | [Brez besed \- Evrovizija 1966](https://open.spotify.com/track/3OZqPWY86jhuv6DV5TV0kK) | [Berta Ambroz](https://open.spotify.com/artist/04mSp2LAR4PNf4nWSJTXWq) | [Brez besed](https://open.spotify.com/album/17XZ6Nn2VQ1xbnUU27d8U9) | 2:45 |
 | 70 | [Tsarly Tsaplin](https://open.spotify.com/track/2BcjzwGE9Nwoqe6rqplYxD) | [Tania Tsanaklidou](https://open.spotify.com/artist/2M0MfjN3wqrrvKHXohxTfw) | [Tsarli Tsaplin](https://open.spotify.com/album/6PQTUHJ7dqG3mz1Qzi0DXM) | 2:51 |
 
 Snapshot ID: `AAAAACmXSMrftyGjkNeyqmBmDlgb57zl`

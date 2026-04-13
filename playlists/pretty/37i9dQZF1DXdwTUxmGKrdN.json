@@ -1,6 +1,6 @@
 {
   "description": "Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...",
-  "num_followers": 456968,
+  "num_followers": 457005,
   "original_name": "Smooth Jazz",
   "owner": {
     "name": "Spotify",
@@ -159,22 +159,6 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
-        "name": "Stay With Me",
-        "url": "https://open.spotify.com/album/0ivqeO68UTwDwuaVIo0sU3"
-      },
-      "artists": [
-        {
-          "name": "Michael Lington",
-          "url": "https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre"
-        }
-      ],
-      "duration_ms": 256973,
-      "name": "Pacifica",
-      "url": "https://open.spotify.com/track/4zfF62Jy2mtNCG2wlGy2VK"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
         "name": "Just Doing What I do",
         "url": "https://open.spotify.com/album/7meHD0fPbZ8AZKOSlpKnCn"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 210773,
       "name": "18th & M",
       "url": "https://open.spotify.com/track/4jZCaGd8dbeuPy707up4g2"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/0ivqeO68UTwDwuaVIo0sU3"
+      },
+      "artists": [
+        {
+          "name": "Michael Lington",
+          "url": "https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre"
+        }
+      ],
+      "duration_ms": 256973,
+      "name": "Pacifica",
+      "url": "https://open.spotify.com/track/4zfF62Jy2mtNCG2wlGy2VK"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -207,22 +207,6 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
-        "name": "Presence",
-        "url": "https://open.spotify.com/album/3y3NkJMbTM1JLwrDKxEFZb"
-      },
-      "artists": [
-        {
-          "name": "Chuck Loeb",
-          "url": "https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ"
-        }
-      ],
-      "duration_ms": 247333,
-      "name": "Window of the Soul",
-      "url": "https://open.spotify.com/track/32eDGGkGf1lcJ8aWrjGhFO"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
         "name": "Soulful",
         "url": "https://open.spotify.com/album/1s5c8RtnMva4xGs8IoMpGb"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 247133,
       "name": "Timeline",
       "url": "https://open.spotify.com/track/7GuSUOEGSk4tLPQoSdSvhb"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
+        "name": "Presence",
+        "url": "https://open.spotify.com/album/3y3NkJMbTM1JLwrDKxEFZb"
+      },
+      "artists": [
+        {
+          "name": "Chuck Loeb",
+          "url": "https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ"
+        }
+      ],
+      "duration_ms": 247333,
+      "name": "Window of the Soul",
+      "url": "https://open.spotify.com/track/32eDGGkGf1lcJ8aWrjGhFO"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -307,22 +307,6 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/0eiTPubpV0bt3BVvwBxdVk"
-      },
-      "artists": [
-        {
-          "name": "Steve Cole",
-          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
-        }
-      ],
-      "duration_ms": 293533,
-      "name": "Undun",
-      "url": "https://open.spotify.com/track/1jMPe92ML6hOCBJLssrUSh"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
         "name": "Undercover",
         "url": "https://open.spotify.com/album/0RXMMiDCOhnt2IFldaHuAi"
       },
@@ -339,18 +323,18 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
-        "name": "Sentiment",
-        "url": "https://open.spotify.com/album/7hML0wQpcGtknLxvlvFuR7"
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/0eiTPubpV0bt3BVvwBxdVk"
       },
       "artists": [
         {
-          "name": "Brendan Rothwell",
-          "url": "https://open.spotify.com/artist/5RABpAgeEQTwa2yoatfUQQ"
+          "name": "Steve Cole",
+          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
         }
       ],
-      "duration_ms": 240172,
-      "name": "Think of You",
-      "url": "https://open.spotify.com/track/73p8Mzp41RUDQtbe52JWHu"
+      "duration_ms": 293533,
+      "name": "Undun",
+      "url": "https://open.spotify.com/track/1jMPe92ML6hOCBJLssrUSh"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -375,6 +359,22 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
+        "name": "Sentiment",
+        "url": "https://open.spotify.com/album/7hML0wQpcGtknLxvlvFuR7"
+      },
+      "artists": [
+        {
+          "name": "Brendan Rothwell",
+          "url": "https://open.spotify.com/artist/5RABpAgeEQTwa2yoatfUQQ"
+        }
+      ],
+      "duration_ms": 240172,
+      "name": "Think of You",
+      "url": "https://open.spotify.com/track/73p8Mzp41RUDQtbe52JWHu"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
         "name": "Fall For You",
         "url": "https://open.spotify.com/album/1069ubCvaVGmtkw2VNxZAV"
       },
@@ -387,22 +387,6 @@
       "duration_ms": 272400,
       "name": "Fall For You",
       "url": "https://open.spotify.com/track/7qqamkny8IkXOCJrhjy73L"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
-        "name": "Real Life",
-        "url": "https://open.spotify.com/album/7DvHuhuhqmJSQZenm73mSv"
-      },
-      "artists": [
-        {
-          "name": "Chris Standring",
-          "url": "https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut"
-        }
-      ],
-      "duration_ms": 358213,
-      "name": "Out of the Blue",
-      "url": "https://open.spotify.com/track/5pQQjMOsR4HjuO94AEXTqX"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -427,6 +411,22 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
+        "name": "Real Life",
+        "url": "https://open.spotify.com/album/7DvHuhuhqmJSQZenm73mSv"
+      },
+      "artists": [
+        {
+          "name": "Chris Standring",
+          "url": "https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut"
+        }
+      ],
+      "duration_ms": 358213,
+      "name": "Out of the Blue",
+      "url": "https://open.spotify.com/track/5pQQjMOsR4HjuO94AEXTqX"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
         "name": "Uptown Blues",
         "url": "https://open.spotify.com/album/1i5pM3abvuA6Kgw6eCjr0U"
       },
@@ -443,22 +443,6 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
-        "name": "Burnin' up",
-        "url": "https://open.spotify.com/album/3lAestLNNFq14fqEXiKrow"
-      },
-      "artists": [
-        {
-          "name": "Alex Parchment",
-          "url": "https://open.spotify.com/artist/5AFoD42TbkRVaiogAMZ2Ab"
-        }
-      ],
-      "duration_ms": 285500,
-      "name": "I Can't Stop Loving You",
-      "url": "https://open.spotify.com/track/1prlZc4XUJoeQJIUvFaxPn"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
         "name": "I'm Coming Home",
         "url": "https://open.spotify.com/album/1gCdJObq3CftJWEuFbwAaU"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 266145,
       "name": "Groovin' J",
       "url": "https://open.spotify.com/track/6zFYcAvBoEjqKWiFneXWf4"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
+        "name": "Burnin' up",
+        "url": "https://open.spotify.com/album/3lAestLNNFq14fqEXiKrow"
+      },
+      "artists": [
+        {
+          "name": "Alex Parchment",
+          "url": "https://open.spotify.com/artist/5AFoD42TbkRVaiogAMZ2Ab"
+        }
+      ],
+      "duration_ms": 285500,
+      "name": "I Can't Stop Loving You",
+      "url": "https://open.spotify.com/track/1prlZc4XUJoeQJIUvFaxPn"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -527,22 +527,6 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
-        "name": "A Song For You",
-        "url": "https://open.spotify.com/album/51ilWc2VBkdoBQOUIohhil"
-      },
-      "artists": [
-        {
-          "name": "Michael Lington",
-          "url": "https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre"
-        }
-      ],
-      "duration_ms": 281920,
-      "name": "It's Too Late",
-      "url": "https://open.spotify.com/track/3Zwphwi81qVI7ucNusDSRq"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
         "name": "Off The Record",
         "url": "https://open.spotify.com/album/46QgyPFudNpjtNnApZFFBz"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 261866,
       "name": "Long Road",
       "url": "https://open.spotify.com/track/7EIASGWhdchNEwPYB3E1Nm"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
+        "name": "A Song For You",
+        "url": "https://open.spotify.com/album/51ilWc2VBkdoBQOUIohhil"
+      },
+      "artists": [
+        {
+          "name": "Michael Lington",
+          "url": "https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre"
+        }
+      ],
+      "duration_ms": 281920,
+      "name": "It's Too Late",
+      "url": "https://open.spotify.com/track/3Zwphwi81qVI7ucNusDSRq"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -623,22 +623,6 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
-        "name": "Rite of Passage",
-        "url": "https://open.spotify.com/album/1tySvkpLhtmLa7HzQvTB4A"
-      },
-      "artists": [
-        {
-          "name": "Kim Scott",
-          "url": "https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP"
-        }
-      ],
-      "duration_ms": 226666,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/6dAiJguW0vDdbLf8QlY2DR"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
         "name": "Still on The Road",
         "url": "https://open.spotify.com/album/1904mEXM1yyzifmllwUCuc"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 170684,
       "name": "Still on The Road",
       "url": "https://open.spotify.com/track/225rVls2PqjWNcBd2XV8p6"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
+        "name": "Rite of Passage",
+        "url": "https://open.spotify.com/album/1tySvkpLhtmLa7HzQvTB4A"
+      },
+      "artists": [
+        {
+          "name": "Kim Scott",
+          "url": "https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP"
+        }
+      ],
+      "duration_ms": 226666,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/6dAiJguW0vDdbLf8QlY2DR"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -727,22 +727,6 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
-        "name": "Bliss",
-        "url": "https://open.spotify.com/album/60RmyYKqgLG4caGGd1IBZ7"
-      },
-      "artists": [
-        {
-          "name": "Cindy Bradley",
-          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
-        }
-      ],
-      "duration_ms": 314312,
-      "name": "Bliss",
-      "url": "https://open.spotify.com/track/14nineYjZGD2m3cfuKFzJ6"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
         "name": "Forecast",
         "url": "https://open.spotify.com/album/4vD6CKS4dfw567CYVQtjW0"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 343213,
       "name": "Keep Holding On",
       "url": "https://open.spotify.com/track/4Ld2yBGk0kBJ84sqSmDbq2"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
+        "name": "Bliss",
+        "url": "https://open.spotify.com/album/60RmyYKqgLG4caGGd1IBZ7"
+      },
+      "artists": [
+        {
+          "name": "Cindy Bradley",
+          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
+        }
+      ],
+      "duration_ms": 314312,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/14nineYjZGD2m3cfuKFzJ6"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
-        "name": "Let's Get Away",
-        "url": "https://open.spotify.com/album/5Ja2SjrDC7ul4nijfHoujD"
-      },
-      "artists": [
-        {
-          "name": "Norman Brown",
-          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
-        }
-      ],
-      "duration_ms": 205880,
-      "name": "Down Here On The Ground",
-      "url": "https://open.spotify.com/track/4pZBySL7Vz9RiCnedhCpHX"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
         "name": "The Limit's the Sky",
         "url": "https://open.spotify.com/album/3YFixNZQruKFSuXhd3W69S"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 223669,
       "name": "Chill or Be Chilled",
       "url": "https://open.spotify.com/track/5gAbksSWP6H2gzdWpN21w9"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
+        "name": "Let's Get Away",
+        "url": "https://open.spotify.com/album/5Ja2SjrDC7ul4nijfHoujD"
+      },
+      "artists": [
+        {
+          "name": "Norman Brown",
+          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+        }
+      ],
+      "duration_ms": 205880,
+      "name": "Down Here On The Ground",
+      "url": "https://open.spotify.com/track/4pZBySL7Vz9RiCnedhCpHX"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -931,22 +931,6 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
-        "name": "Let's Have a Good Time",
-        "url": "https://open.spotify.com/album/4RvJ6FiVXoeWyepFOLWlVv"
-      },
-      "artists": [
-        {
-          "name": "Braxton Brothers",
-          "url": "https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw"
-        }
-      ],
-      "duration_ms": 233819,
-      "name": "Let's Have a Good Time",
-      "url": "https://open.spotify.com/track/0KDLnqdffzLOy06V4uZ3Hv"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
         "name": "So Many Ways",
         "url": "https://open.spotify.com/album/7EHcHWVRicIXU9blexwPSw"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 247440,
       "name": "So Many Ways",
       "url": "https://open.spotify.com/track/5M4hx3dAvctkZhArX9SWrh"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
+        "name": "Let's Have a Good Time",
+        "url": "https://open.spotify.com/album/4RvJ6FiVXoeWyepFOLWlVv"
+      },
+      "artists": [
+        {
+          "name": "Braxton Brothers",
+          "url": "https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw"
+        }
+      ],
+      "duration_ms": 233819,
+      "name": "Let's Have a Good Time",
+      "url": "https://open.spotify.com/track/0KDLnqdffzLOy06V4uZ3Hv"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
-        "name": "Just Once (Radio Edit)",
-        "url": "https://open.spotify.com/album/5Or7bdT4M623kfAR3Lvp6t"
-      },
-      "artists": [
-        {
-          "name": "Vandell Andrew",
-          "url": "https://open.spotify.com/artist/2CqMN6Wc7xALKwcrV2vqEW"
-        }
-      ],
-      "duration_ms": 244450,
-      "name": "Just Once (Radio Edit)",
-      "url": "https://open.spotify.com/track/0gg4oTlnC2lKRPtxcZ43Cn"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
         "name": "Limitless",
         "url": "https://open.spotify.com/album/3iE43BPltF4nvTGrSynFLL"
       },
@@ -1115,18 +1099,18 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
-        "name": "On the Up and Up",
-        "url": "https://open.spotify.com/album/0fendbHIfxrBOViSQahezC"
+        "name": "Just Once (Radio Edit)",
+        "url": "https://open.spotify.com/album/5Or7bdT4M623kfAR3Lvp6t"
       },
       "artists": [
         {
-          "name": "Michael Manson",
-          "url": "https://open.spotify.com/artist/6Eun8Hnz1EAIrVoWvGVF5v"
+          "name": "Vandell Andrew",
+          "url": "https://open.spotify.com/artist/2CqMN6Wc7xALKwcrV2vqEW"
         }
       ],
-      "duration_ms": 248412,
-      "name": "On the Up and Up",
-      "url": "https://open.spotify.com/track/2VGeV6n8YqmOoOY0zhOBeB"
+      "duration_ms": 244450,
+      "name": "Just Once (Radio Edit)",
+      "url": "https://open.spotify.com/track/0gg4oTlnC2lKRPtxcZ43Cn"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -1159,6 +1143,22 @@
       "duration_ms": 259186,
       "name": "Happy",
       "url": "https://open.spotify.com/track/6VutCMZ11XOzQMJENC6hUm"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
+        "name": "On the Up and Up",
+        "url": "https://open.spotify.com/album/0fendbHIfxrBOViSQahezC"
+      },
+      "artists": [
+        {
+          "name": "Michael Manson",
+          "url": "https://open.spotify.com/artist/6Eun8Hnz1EAIrVoWvGVF5v"
+        }
+      ],
+      "duration_ms": 248412,
+      "name": "On the Up and Up",
+      "url": "https://open.spotify.com/track/2VGeV6n8YqmOoOY0zhOBeB"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
-        "name": "Turn It Up",
-        "url": "https://open.spotify.com/album/2emYvyogfNZbvdVJwUFRrb"
-      },
-      "artists": [
-        {
-          "name": "Steve Cole",
-          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
-        }
-      ],
-      "duration_ms": 303693,
-      "name": "Reverence",
-      "url": "https://open.spotify.com/track/5aCHWYlwuHAnZkV0Po17Yn"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
         "name": "Velvet Groove",
         "url": "https://open.spotify.com/album/5B8283WjNKxA2TAT7wE176"
       },
@@ -1399,6 +1383,22 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
+        "name": "Turn It Up",
+        "url": "https://open.spotify.com/album/2emYvyogfNZbvdVJwUFRrb"
+      },
+      "artists": [
+        {
+          "name": "Steve Cole",
+          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
+        }
+      ],
+      "duration_ms": 303693,
+      "name": "Reverence",
+      "url": "https://open.spotify.com/track/5aCHWYlwuHAnZkV0Po17Yn"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
         "name": "Jazzmasters 6",
         "url": "https://open.spotify.com/album/5eoo4LO3RcbqnMXEaLvjv6"
       },
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
-        "name": "A Day In The Life",
-        "url": "https://open.spotify.com/album/2grvoFsNL4w9k0kXP6fkyn"
-      },
-      "artists": [
-        {
-          "name": "Thom Rotella",
-          "url": "https://open.spotify.com/artist/72FbTlHE6bOKc7HLQoa7pm"
-        }
-      ],
-      "duration_ms": 264600,
-      "name": "Only 4 One Moment",
-      "url": "https://open.spotify.com/track/1G7QHZpMheDi2hrriqALma"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
         "name": "Deep Dive",
         "url": "https://open.spotify.com/album/3afqxp4kQVjyBkS05sCKf2"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 245925,
       "name": "Deep Dive",
       "url": "https://open.spotify.com/track/1mnNpkP5NgED8O3Zx6GuCA"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
+        "name": "A Day In The Life",
+        "url": "https://open.spotify.com/album/2grvoFsNL4w9k0kXP6fkyn"
+      },
+      "artists": [
+        {
+          "name": "Thom Rotella",
+          "url": "https://open.spotify.com/artist/72FbTlHE6bOKc7HLQoa7pm"
+        }
+      ],
+      "duration_ms": 264600,
+      "name": "Only 4 One Moment",
+      "url": "https://open.spotify.com/track/1G7QHZpMheDi2hrriqALma"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/0yTUvZL1yR88cGrfyW3WI5"
+      },
+      "artists": [
+        {
+          "name": "Cindy Bradley",
+          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
+        }
+      ],
+      "duration_ms": 311359,
+      "name": "Everyone but You",
+      "url": "https://open.spotify.com/track/1w7bLa7WRh4Bi0mojbfJ0K"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
         "name": "Ready to Go",
         "url": "https://open.spotify.com/album/3lMmhPqyO3M5ECUj0enyJr"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 240300,
       "name": "Ready to Go",
       "url": "https://open.spotify.com/track/6aFbcAvsjTgQyfEw4M1hyz"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
-        "name": "Natural",
-        "url": "https://open.spotify.com/album/0yTUvZL1yR88cGrfyW3WI5"
-      },
-      "artists": [
-        {
-          "name": "Cindy Bradley",
-          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
-        }
-      ],
-      "duration_ms": 311359,
-      "name": "Everyone but You",
-      "url": "https://open.spotify.com/track/1w7bLa7WRh4Bi0mojbfJ0K"
     },
     {
       "added_at": "2026-01-14 10:46:11",

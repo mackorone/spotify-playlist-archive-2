@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! La Adictiva & Julio Preciado \ud83d\udcf8",
-  "num_followers": 1301016,
+  "num_followers": 1301066,
   "original_name": "Banda 2026",
   "owner": {
     "name": "Spotify",
@@ -611,6 +611,22 @@
     {
       "added_at": "2026-03-27 16:10:47",
       "album": {
+        "name": "La Serenata",
+        "url": "https://open.spotify.com/album/7xwr2mg47GmgAORNpuKf3F"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 170468,
+      "name": "La Serenata",
+      "url": "https://open.spotify.com/track/1gHN981Zxj8coFh9d7oZV4"
+    },
+    {
+      "added_at": "2026-03-27 16:10:47",
+      "album": {
         "name": "Quererte Mucho",
         "url": "https://open.spotify.com/album/1800xp5HQliVuxyEodwdF8"
       },
@@ -643,18 +659,18 @@
     {
       "added_at": "2026-03-27 16:10:47",
       "album": {
-        "name": "La Serenata",
-        "url": "https://open.spotify.com/album/7xwr2mg47GmgAORNpuKf3F"
+        "name": "Con La Misma Piedra",
+        "url": "https://open.spotify.com/album/1eF0ZEdzXqUmAJoewGZcmA"
       },
       "artists": [
         {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
         }
       ],
-      "duration_ms": 170468,
-      "name": "La Serenata",
-      "url": "https://open.spotify.com/track/1gHN981Zxj8coFh9d7oZV4"
+      "duration_ms": 175496,
+      "name": "Con La Misma Piedra",
+      "url": "https://open.spotify.com/track/2PULXQ2unp8iRpt0cQXdZU"
     },
     {
       "added_at": "2026-03-27 16:10:47",
@@ -671,22 +687,6 @@
       "duration_ms": 193103,
       "name": "Habla Tu Ex",
       "url": "https://open.spotify.com/track/4m2g3MSQmM3vRDMVeDjddV"
-    },
-    {
-      "added_at": "2026-03-27 16:10:47",
-      "album": {
-        "name": "Te Regalo",
-        "url": "https://open.spotify.com/album/3bV7v8bZVap0ziLBiAQe44"
-      },
-      "artists": [
-        {
-          "name": "Eme MalaFe",
-          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
-        }
-      ],
-      "duration_ms": 235408,
-      "name": "Te Regalo",
-      "url": "https://open.spotify.com/track/4UKK4rrKtAZuMi0u0cUreX"
     },
     {
       "added_at": "2026-03-27 16:10:47",
@@ -711,18 +711,18 @@
     {
       "added_at": "2026-03-27 16:10:47",
       "album": {
-        "name": "Con La Misma Piedra",
-        "url": "https://open.spotify.com/album/1eF0ZEdzXqUmAJoewGZcmA"
+        "name": "Te Regalo",
+        "url": "https://open.spotify.com/album/3bV7v8bZVap0ziLBiAQe44"
       },
       "artists": [
         {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+          "name": "Eme MalaFe",
+          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
         }
       ],
-      "duration_ms": 175496,
-      "name": "Con La Misma Piedra",
-      "url": "https://open.spotify.com/track/2PULXQ2unp8iRpt0cQXdZU"
+      "duration_ms": 235408,
+      "name": "Te Regalo",
+      "url": "https://open.spotify.com/track/4UKK4rrKtAZuMi0u0cUreX"
     },
     {
       "added_at": "2026-03-27 16:10:47",
@@ -815,6 +815,22 @@
     {
       "added_at": "2026-03-27 16:10:47",
       "album": {
+        "name": "Me Esta Doliendo",
+        "url": "https://open.spotify.com/album/4LhEN8VedFG9EMBdZKoDXB"
+      },
+      "artists": [
+        {
+          "name": "Banda Clave de Oro de Christian Rojas",
+          "url": "https://open.spotify.com/artist/6bm1UoKkIt1nyd4oBr0I0J"
+        }
+      ],
+      "duration_ms": 182582,
+      "name": "Me Esta Doliendo",
+      "url": "https://open.spotify.com/track/24IEOjuJikT5ccLFuw1jjQ"
+    },
+    {
+      "added_at": "2026-03-27 16:10:47",
+      "album": {
         "name": "Vamos a Platicar",
         "url": "https://open.spotify.com/album/7IqEd62YMzxVpcAaHradYa"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 197610,
       "name": "Vamos a Platicar",
       "url": "https://open.spotify.com/track/2W6LOI1qPL1o14Y8BJqtfH"
-    },
-    {
-      "added_at": "2026-03-27 16:10:47",
-      "album": {
-        "name": "Me Esta Doliendo",
-        "url": "https://open.spotify.com/album/4LhEN8VedFG9EMBdZKoDXB"
-      },
-      "artists": [
-        {
-          "name": "Banda Clave de Oro de Christian Rojas",
-          "url": "https://open.spotify.com/artist/6bm1UoKkIt1nyd4oBr0I0J"
-        }
-      ],
-      "duration_ms": 182582,
-      "name": "Me Esta Doliendo",
-      "url": "https://open.spotify.com/track/24IEOjuJikT5ccLFuw1jjQ"
     },
     {
       "added_at": "2026-03-27 16:10:47",
@@ -919,6 +919,26 @@
     {
       "added_at": "2026-03-27 16:10:47",
       "album": {
+        "name": "Como Este Loco",
+        "url": "https://open.spotify.com/album/67FAnc1ZeFv7B7gv5MFvxa"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1o Lizarraga",
+          "url": "https://open.spotify.com/artist/58kEJAbZ1Knbo4UI2phUQv"
+        },
+        {
+          "name": "Julio Preciado",
+          "url": "https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3"
+        }
+      ],
+      "duration_ms": 215068,
+      "name": "Como Este Loco",
+      "url": "https://open.spotify.com/track/6x7953w9X48ERFGN2QpEqN"
+    },
+    {
+      "added_at": "2026-03-27 16:10:47",
+      "album": {
         "name": "De Rodillas Te Pido",
         "url": "https://open.spotify.com/album/3zbZyB06JwosvXu2FgVgV5"
       },
@@ -951,26 +971,6 @@
       "duration_ms": 179160,
       "name": "Lo Veras de Lejos",
       "url": "https://open.spotify.com/track/0V4mvvjtI2q72Z9gPKDzj3"
-    },
-    {
-      "added_at": "2026-03-27 16:10:47",
-      "album": {
-        "name": "Como Este Loco",
-        "url": "https://open.spotify.com/album/67FAnc1ZeFv7B7gv5MFvxa"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1o Lizarraga",
-          "url": "https://open.spotify.com/artist/58kEJAbZ1Knbo4UI2phUQv"
-        },
-        {
-          "name": "Julio Preciado",
-          "url": "https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3"
-        }
-      ],
-      "duration_ms": 215068,
-      "name": "Como Este Loco",
-      "url": "https://open.spotify.com/track/6x7953w9X48ERFGN2QpEqN"
     },
     {
       "added_at": "2026-03-27 16:10:47",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2026-03-27 16:10:47",
       "album": {
+        "name": "Se Sabe",
+        "url": "https://open.spotify.com/album/3Zp4rYGAh6L8GY2AHpbGKK"
+      },
+      "artists": [
+        {
+          "name": "Alann Mora",
+          "url": "https://open.spotify.com/artist/2tYG2qpxONKldJ39D27Zbb"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Se Sabe",
+      "url": "https://open.spotify.com/track/2tunYzmPxLOih6OeUrFgKh"
+    },
+    {
+      "added_at": "2026-03-27 16:10:47",
+      "album": {
         "name": "Me la Pelan",
         "url": "https://open.spotify.com/album/3gWvHNH1bjOjeENNQRhg93"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 186335,
       "name": "Me la Pelan",
       "url": "https://open.spotify.com/track/3uKB59qvKbrZDF7mcusl0i"
-    },
-    {
-      "added_at": "2026-03-27 16:10:47",
-      "album": {
-        "name": "Se Sabe",
-        "url": "https://open.spotify.com/album/3Zp4rYGAh6L8GY2AHpbGKK"
-      },
-      "artists": [
-        {
-          "name": "Alann Mora",
-          "url": "https://open.spotify.com/artist/2tYG2qpxONKldJ39D27Zbb"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "Se Sabe",
-      "url": "https://open.spotify.com/track/2tunYzmPxLOih6OeUrFgKh"
     },
     {
       "added_at": "2026-03-27 16:10:47",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2026-03-27 16:10:47",
       "album": {
-        "name": "Si Tan Malo Soy",
-        "url": "https://open.spotify.com/album/2VoD8cShtEGZy8qRpoYU0Z"
-      },
-      "artists": [
-        {
-          "name": "D\u00c1MASO",
-          "url": "https://open.spotify.com/artist/6yAjQlCyi7OvkbtDV44Pug"
-        }
-      ],
-      "duration_ms": 204679,
-      "name": "Si Tan Malo Soy",
-      "url": "https://open.spotify.com/track/3oeFWwFuzfQvK8iXIaHB90"
-    },
-    {
-      "added_at": "2026-03-27 16:10:47",
-      "album": {
         "name": "No Le Tengas Compasi\u00f3n",
         "url": "https://open.spotify.com/album/6Z7pMgTbFhIrQ7BXK6hwOm"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 191141,
       "name": "No Le Tengas Compasi\u00f3n",
       "url": "https://open.spotify.com/track/11SK5HbiMSO0WEYvsaXwAO"
+    },
+    {
+      "added_at": "2026-03-27 16:10:47",
+      "album": {
+        "name": "Si Tan Malo Soy",
+        "url": "https://open.spotify.com/album/2VoD8cShtEGZy8qRpoYU0Z"
+      },
+      "artists": [
+        {
+          "name": "D\u00c1MASO",
+          "url": "https://open.spotify.com/artist/6yAjQlCyi7OvkbtDV44Pug"
+        }
+      ],
+      "duration_ms": 204679,
+      "name": "Si Tan Malo Soy",
+      "url": "https://open.spotify.com/track/3oeFWwFuzfQvK8iXIaHB90"
     },
     {
       "added_at": "2026-03-27 16:10:47",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2026-03-27 16:10:47",
       "album": {
-        "name": "El Tabaco Mascado",
-        "url": "https://open.spotify.com/album/1LpTtZQLPxLzM7tdoqVsck"
-      },
-      "artists": [
-        {
-          "name": "Banda Playa Grande",
-          "url": "https://open.spotify.com/artist/22Mt7QupEbM69UrYe7wRl0"
-        }
-      ],
-      "duration_ms": 163607,
-      "name": "El Tabaco Mascado",
-      "url": "https://open.spotify.com/track/4y0vFpMhPsoqMegFw25hos"
-    },
-    {
-      "added_at": "2026-03-27 16:10:47",
-      "album": {
         "name": "No Tiene Precio",
         "url": "https://open.spotify.com/album/5YvHY9xcYR1kjEm2Fpxu0B"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 146524,
       "name": "Por Aqu\u00ed Pas\u00f3 Mar\u00eda",
       "url": "https://open.spotify.com/track/5pYeQU77YuKzscy8YJvFx7"
+    },
+    {
+      "added_at": "2026-03-27 16:10:47",
+      "album": {
+        "name": "El Tabaco Mascado",
+        "url": "https://open.spotify.com/album/1LpTtZQLPxLzM7tdoqVsck"
+      },
+      "artists": [
+        {
+          "name": "Banda Playa Grande",
+          "url": "https://open.spotify.com/artist/22Mt7QupEbM69UrYe7wRl0"
+        }
+      ],
+      "duration_ms": 163607,
+      "name": "El Tabaco Mascado",
+      "url": "https://open.spotify.com/track/4y0vFpMhPsoqMegFw25hos"
     },
     {
       "added_at": "2026-03-27 16:10:47",

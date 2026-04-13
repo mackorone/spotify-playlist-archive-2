@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyQSkfNQhy8K.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/13ysCUxRu2H1rcftAcPUSm">ELENA ROSE</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,609 likes - 178 songs - 9 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,610 likes - 178 songs - 9 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyQSkfNQhy8K.md) - [plain]
 | 70 | [La Despedida](https://open.spotify.com/track/294ae9GSeG6nYVFlCOljJz) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Forajido EP2](https://open.spotify.com/album/26V8oCj2Lxs2tLemL0Xf3g) | 3:30 |
 | 71 | [La Ley](https://open.spotify.com/track/0HdLr91DUb2Z4Md3Hoosiv) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Que Quiénes Somos \(Japan Edition\)](https://open.spotify.com/album/2jDT9YZn8juzCugiUjpopd) | 2:44 |
 | 72 | [Party En Mi Casa](https://open.spotify.com/track/7CdCBGe3mOkOdbH2qT7EGK) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Más Negro Que Rojo](https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU) | 2:37 |
-| 73 | [La Curiosidad \(feat\. Dj Nelson, Arcangel, Zion & Lennox, De La Ghetto & Brray\) \- Red Grand Prix Remix](https://open.spotify.com/track/5E97zd7EDczPvQ6GRNr6y2) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [La Curiosidad \(Red Grand Prix Remix\) \[feat\. DJ Nelson, Arcangel, Zion & Lennox, De La Ghetto & Brray\]](https://open.spotify.com/album/6Ffhoar8XZuB5v2zVQcC5y) | 7:49 |
-| 74 | [CUÍDALA](https://open.spotify.com/track/0C0Soj0VipcLOnWPC2ghv0) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [El Comienzo](https://open.spotify.com/album/6Zk9W9Ab3CnhttW5nBOUnY) | 2:43 |
+| 73 | [CUÍDALA](https://open.spotify.com/track/0C0Soj0VipcLOnWPC2ghv0) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [El Comienzo](https://open.spotify.com/album/6Zk9W9Ab3CnhttW5nBOUnY) | 2:43 |
+| 74 | [La Curiosidad \(feat\. Dj Nelson, Arcangel, Zion & Lennox, De La Ghetto & Brray\) \- Red Grand Prix Remix](https://open.spotify.com/track/5E97zd7EDczPvQ6GRNr6y2) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [La Curiosidad \(Red Grand Prix Remix\) \[feat\. DJ Nelson, Arcangel, Zion & Lennox, De La Ghetto & Brray\]](https://open.spotify.com/album/6Ffhoar8XZuB5v2zVQcC5y) | 7:49 |
 | 75 | [La Muerte](https://open.spotify.com/track/69YqoxUzLcdsXBRpZcqlsn) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Escândalo Íntimo](https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt) | 2:35 |
 | 76 | [Buscando Amor](https://open.spotify.com/track/5plZgpPu4LQpfj206Z5Uuy) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Revelación \- EP](https://open.spotify.com/album/2jGa3OwXatFYQAIS7OV7k9) | 3:08 |
 | 77 | [Vicio](https://open.spotify.com/track/3fi1xpGiyg5bRs64gJSak5) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Revelación \- EP](https://open.spotify.com/album/2jGa3OwXatFYQAIS7OV7k9) | 2:40 |
@@ -187,4 +187,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyQSkfNQhy8K.md) - [plain]
 | 177 | [Primavera](https://open.spotify.com/track/5PVPha1dOqgSY97foDvDOx) | [Nati Boulier](https://open.spotify.com/artist/2uBuga2RTo3KxodK6mO5W0) | [PA' LA CULTURA](https://open.spotify.com/album/0TWS1tWYlIBYzOdLu2Y1Pz) | 1:40 |
 | 178 | [Tango](https://open.spotify.com/track/1KSWO08GFqAzmfUSfKfwNl) | [Alaya](https://open.spotify.com/artist/5MY5rCpGaLfcgRpocaw8EG) | [Alaya](https://open.spotify.com/album/4nXbn9OTGwVGOBumFSF7Ul) | 3:25 |
 
-Snapshot ID: `AcOmngAAAAC/x2UcSkEavPgxO5c6Sy+N`
+Snapshot ID: `AcOsPgAAAAAZdyw97pDgHQiK7xa7IU9/`

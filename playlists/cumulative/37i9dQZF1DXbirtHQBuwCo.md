@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-R&B](https://open.spotify.com/playlist/37i9dQZF1DXbirtHQBuwCo)
 
-> Trendy & Chill Korean R&B music\. \(Cover: Min Jiwoon\(민지운\)\)
+> Trendy & Chill Korean R&B music\. \(Cover: DIMO REX\)
 
-908 songs - 1 day 23 hr 58 min
+909 songs - 2 day 0 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,7 +177,7 @@
 | [Collagen \(Feat\. Sylo\)](https://open.spotify.com/track/1f4Ra2jxRY5pIbh9oFulhK) | [ditch david](https://open.spotify.com/artist/3AMjDzr2vPow8zzuNWIy8Z), [Sylo](https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl) | [Collagen](https://open.spotify.com/album/4E7Uq0mhghm2RhUJatT7mh) | 2:38 | 2022-06-03 | 2022-06-17 |
 | [Color Me \(Feat\. CHUNG HA\)](https://open.spotify.com/track/0TtH1ocl5B20kKHiqPNELw) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Color Me \(Feat\. CHUNG HA\)](https://open.spotify.com/album/1SOyPMNJgR1RtmSJwJtT0b) | 3:36 | 2022-06-23 | 2022-09-28 |
 | [Come Back Home \(feat\. Yeeun\)](https://open.spotify.com/track/6Vl5W40Ve7mvbmPxKRhR94) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a), [Yeeun](https://open.spotify.com/artist/0AgNlLxv23f2iBgdphi4to) | [Come Back Home](https://open.spotify.com/album/0itIaXewMbaWbViMKNstF9) | 3:26 | 2022-11-22 | 2022-12-10 |
-| [Come Closer](https://open.spotify.com/track/0Sep7VIdLwWPVhtxKsCxRm) | [LEO](https://open.spotify.com/artist/6xr9i4ozDKCobWg5lUKHPj) | [COME CLOSER](https://open.spotify.com/album/2rdXzqWmDgzIfjUPUovQiD) | 2:43 | 2024-05-10 | 2026-04-07 |
+| [Come Closer](https://open.spotify.com/track/0Sep7VIdLwWPVhtxKsCxRm) | [LEO](https://open.spotify.com/artist/6xr9i4ozDKCobWg5lUKHPj) | [COME CLOSER](https://open.spotify.com/album/2rdXzqWmDgzIfjUPUovQiD) | 2:43 | 2024-05-10 |  |
 | [comedy](https://open.spotify.com/track/1kNVRCfLtotmIKQOb87tUL) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [love](https://open.spotify.com/album/3TzHGHpI61xn4CqKrMhRRS) | 3:33 | 2022-07-25 | 2022-08-02 |
 | [COMFY](https://open.spotify.com/track/0PQzmvpqxnDlH82yj7wTh3) | [SEOA](https://open.spotify.com/artist/3jsk2LMEav6KI7pFwiU7tF), [SZN](https://open.spotify.com/artist/1MCqb5Gwah45385YUspsn5) | [COMFY](https://open.spotify.com/album/0F0KPsp7ru8WRgLIgaJO3S) | 3:45 | 2023-01-23 | 2023-02-15 |
 | [Coming Back](https://open.spotify.com/track/5n0PncWY6GO1YNzxradkfR) | [APOKI](https://open.spotify.com/artist/0JVB3oaSxGrbnhzIiKwiR9) | [Coming Back](https://open.spotify.com/album/3jeYPsm9JCCHxxqp2uC3DH) | 3:08 | 2022-04-19 | 2022-06-09 |
@@ -305,7 +305,7 @@
 | [frozen](https://open.spotify.com/track/15cVnQOz5SoIoNHbbvfSxD) | [wooseojun](https://open.spotify.com/artist/2InIBQmGiH1ueUh4gdJQ3b) | [4her](https://open.spotify.com/album/0s9ehc7NAUOTBDFuv1ISzG) | 3:43 | 2025-02-20 | 2025-03-13 |
 | [Future Boy](https://open.spotify.com/track/2kbMfNEAfPuKwinUIj5opm) | [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY) | [Future Boy](https://open.spotify.com/album/6xDENSYvVpXXIbYlHjBzI0) | 2:04 | 2022-05-11 | 2022-07-28 |
 | [Fxxxboy](https://open.spotify.com/track/2YUoX58zywC6rqFPOUNOiq) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [DEADLINE](https://open.spotify.com/album/0al74j1n8XIEkZMMFRfsbx) | 3:07 | 2026-02-27 |  |
-| [G.i.w.o.n](https://open.spotify.com/track/2pvjfkbEIMfn7JMT6210ys) | [Giwon](https://open.spotify.com/artist/0p3SJn2qPmo3A4Yby7XIxV), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [G.i.w.o.n](https://open.spotify.com/album/7gDvwgrtKXDpKfAdZcbv1r) | 2:06 | 2026-04-06 |  |
+| [G.i.w.o.n](https://open.spotify.com/track/2pvjfkbEIMfn7JMT6210ys) | [Giwon](https://open.spotify.com/artist/0p3SJn2qPmo3A4Yby7XIxV), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [G.i.w.o.n](https://open.spotify.com/album/7gDvwgrtKXDpKfAdZcbv1r) | 2:06 | 2026-04-06 | 2026-04-13 |
 | [GANADARA \(Feat\. IU\)](https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [GANADARA](https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH) | 3:23 | 2022-04-19 |  |
 | [Get Ya! \(feat\. pH\-1\)](https://open.spotify.com/track/4FPWDZRRREW99mWChTCyYr) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [Get Ya! \(feat\. pH\-1\)](https://open.spotify.com/album/3eexqM5OLi0HlN3JDyqZhx) | 2:39 | 2022-05-04 | 2022-07-28 |
 | [Ghosting \(Prod\. CODE KUNST\)](https://open.spotify.com/track/6r1Jwbd0UwCpuLzPG4y9Ub) | [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Ghosting](https://open.spotify.com/album/24vtmVfDjVTxb9cCNRgheo) | 3:40 | 2022-08-18 | 2022-10-11 |
@@ -673,7 +673,7 @@
 | [Ringwanderung](https://open.spotify.com/track/2cLJhvm09iuwVHSAfaCaus) | [YELO](https://open.spotify.com/artist/2SIjieAwLcihB5fZ7HfHmD) | [Ringwanderung](https://open.spotify.com/album/2gQiMJyIb8lqZu3dAeBbwh) | 2:54 | 2022-05-31 | 2022-07-03 |
 | [Risk \(Prod\. By Devine Channel\)](https://open.spotify.com/track/2Kwy9dFXHc5t1u7bdRlLgd) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw), [Devine Channel](https://open.spotify.com/artist/7ESF8rsuKXKPvD1HEFWJfU) | [Risk](https://open.spotify.com/album/0zxAIBeIBvmk0qjsujNwXY) | 2:58 | 2024-09-25 | 2024-10-09 |
 | [RIZZ](https://open.spotify.com/track/6JbyOUBLnkMadKcPQoQeTR) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [Caligo Pt.1](https://open.spotify.com/album/6EgR5UlxMx9JksQUqR9Yep) | 2:44 | 2025-02-05 |  |
-| [Rock With You \- Spotify Singles](https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO), [WOOGIE](https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN) | [Spotify Singles](https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5) | 3:48 | 2023-03-31 |  |
+| [Rock With You \- Spotify Singles](https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO), [WOOGIE](https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN) | [Spotify Singles](https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5) | 3:48 | 2023-03-31 | 2026-04-13 |
 | [Rollercoaster](https://open.spotify.com/track/5vQtp2D5HRfqZ1FKmFx9r0) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Still Blue](https://open.spotify.com/album/5NVdE7fnUNSfJ7Taka31IF) | 2:29 | 2022-12-19 | 2023-01-11 |
 | [Roommates](https://open.spotify.com/track/2FAamYOzmodzpf7x4Yl8UI) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) | [Roommates](https://open.spotify.com/album/5Azd14om1goQJ4koUxhmvS) | 2:30 | 2024-04-30 | 2024-05-22 |
 | [Roses](https://open.spotify.com/track/3urRYZm3Xws15GeNNoqs7y) | [JAEHYUN](https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu) | [Roses/Dandelion](https://open.spotify.com/album/6cKYPQdKPYElQMIQfZD8z3) | 2:48 | 2024-08-12 | 2024-12-06 |
@@ -685,6 +685,7 @@
 | [Salang Salang](https://open.spotify.com/track/1DEJaWgi8ZKdStRO0iUX6e) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [In My Room](https://open.spotify.com/album/6kEpx1z9uVAWuTkHY1bdKG) | 3:02 | 2022-04-22 | 2022-07-21 |
 | [Sandfunk \(feat\. ELO\)](https://open.spotify.com/track/0vM0bCUmKNGAGTmie7yv13) | [aiai](https://open.spotify.com/artist/5lrByYTqlHSUHEg6hsMakl), [ELO](https://open.spotify.com/artist/15KDb2KpZRvX1updtyinK1) | [COLOUR](https://open.spotify.com/album/5NuA284oIw8Badg4oHaIOe) | 3:13 | 2022-11-23 | 2022-12-10 |
 | [Sandwiches \(Feat\. Zion.T\)](https://open.spotify.com/track/1KLXFanzOEeIYhfKr2jpwe) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [TENT](https://open.spotify.com/album/75zKG2sCdsnY9PhAZKIGnJ) | 3:03 | 2025-09-29 | 2025-10-18 |
+| [SAY MY NAME](https://open.spotify.com/track/5Rh1Uh43TL5maI0LQaR818) | [DIMO REX](https://open.spotify.com/artist/0GAYGBzZBTtYKkHIZs9ADH) | [ANTIDOTE](https://open.spotify.com/album/1lNfCl6zXEhb84RSOGTzGu) | 2:27 | 2026-04-13 |  |
 | [Say My Name](https://open.spotify.com/track/2t4d73fPrmvbPvqPe4OYxR) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [MY, Lover](https://open.spotify.com/album/7pMMFYohEty3MLZfq6HlZN) | 2:39 | 2025-11-03 | 2025-12-31 |
 | [Scared of Love](https://open.spotify.com/track/1fCdHI0EBnGabru914ap2f) | [Min Jiwoon](https://open.spotify.com/artist/5kgihglqsCaqCbtsJ0ef6v) | [Pink, then grey](https://open.spotify.com/album/7m7Z7Qi4enLFgn1s8vgYgh) | 2:37 | 2025-08-22 | 2025-09-09 |
 | [Scaredy Cat](https://open.spotify.com/track/4LkXtklCusSbi6UxYWgH8B) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Moodswings In This Order](https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA) | 2:50 | 2022-04-19 | 2025-09-16 |

@@ -1,6 +1,6 @@
 {
   "description": "The hits you know like you\u2019ve never heard before. Cover: Alessia Cara",
-  "num_followers": 733664,
+  "num_followers": 733652,
   "original_name": "Spotify Singles: Hits",
   "owner": {
     "name": "Spotify",
@@ -584,22 +584,6 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6ixkdVE4xrPNcVKhRpnPEh"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 214586,
-      "name": "Lost In Japan - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/7b1WVMX0FShcPWct8ca7ma"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6KjX30XbUmMpQoek2DEHie"
       },
       "artists": [
@@ -611,6 +595,22 @@
       "duration_ms": 254834,
       "name": "Always Be My Baby - Recorded at Sound Stage Nashville",
       "url": "https://open.spotify.com/track/3QSnkhUvoPS5QogonimPfk"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6ixkdVE4xrPNcVKhRpnPEh"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 214586,
+      "name": "Lost In Japan - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/7b1WVMX0FShcPWct8ca7ma"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -1048,22 +1048,6 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0AsNH8uuIf5hLbreW4zQSc"
-      },
-      "artists": [
-        {
-          "name": "Nina Nesbitt",
-          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
-        }
-      ],
-      "duration_ms": 301144,
-      "name": "Cry Me a River - Recorded at Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/3pRtmEYL0hN9Lgn0IkNOra"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7iDdb2gzMIVZEV0ZSlXu83"
       },
       "artists": [
@@ -1075,6 +1059,22 @@
       "duration_ms": 169440,
       "name": "Feel It Still - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5Xh97PTcc1LxMF8sc8Xhis"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0AsNH8uuIf5hLbreW4zQSc"
+      },
+      "artists": [
+        {
+          "name": "Nina Nesbitt",
+          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
+        }
+      ],
+      "duration_ms": 301144,
+      "name": "Cry Me a River - Recorded at Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/3pRtmEYL0hN9Lgn0IkNOra"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -1397,22 +1397,6 @@
       "url": "https://open.spotify.com/track/57DVaIfWIKSx3zW9mcVFhc"
     },
     {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3pTs60Mj7DSSseycisLJxf"
-      },
-      "artists": [
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        }
-      ],
-      "duration_ms": 157692,
-      "name": "July - Spotify Singles",
-      "url": "https://open.spotify.com/track/36uC47GQL8VXghXY6d6afM"
-    },
-    {
       "added_at": "2023-11-07 18:53:41",
       "album": {
         "name": "Spotify Singles",
@@ -1427,6 +1411,22 @@
       "duration_ms": 248045,
       "name": "Billie Jean - Spotify Singles",
       "url": "https://open.spotify.com/track/32vQdI6FztUhEAkHW4Alul"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3pTs60Mj7DSSseycisLJxf"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "duration_ms": 157692,
+      "name": "July - Spotify Singles",
+      "url": "https://open.spotify.com/track/36uC47GQL8VXghXY6d6afM"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -1705,22 +1705,6 @@
       "url": "https://open.spotify.com/track/6Cpcf5MKT7O04wlSJ7EixQ"
     },
     {
-      "added_at": "2023-11-07 18:53:41",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7rTB3uvhAwdwSTxDp1l3nf"
-      },
-      "artists": [
-        {
-          "name": "William Prince",
-          "url": "https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6"
-        }
-      ],
-      "duration_ms": 206499,
-      "name": "I Want It That Way - Spotify Singles",
-      "url": "https://open.spotify.com/track/5k1c0BXxEEdi12SLVdysY1"
-    },
-    {
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
@@ -1735,6 +1719,22 @@
       "duration_ms": 167050,
       "name": "High Hopes - Live Session from Spotify Studios NYC",
       "url": "https://open.spotify.com/track/73Hs5c2DJAavtKFZ28v1FM"
+    },
+    {
+      "added_at": "2023-11-07 18:53:41",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7rTB3uvhAwdwSTxDp1l3nf"
+      },
+      "artists": [
+        {
+          "name": "William Prince",
+          "url": "https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6"
+        }
+      ],
+      "duration_ms": 206499,
+      "name": "I Want It That Way - Spotify Singles",
+      "url": "https://open.spotify.com/track/5k1c0BXxEEdi12SLVdysY1"
     },
     {
       "added_at": "2023-01-11 19:54:48",

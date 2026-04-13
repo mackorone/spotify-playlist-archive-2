@@ -4,7 +4,7 @@
 
 > 
 
-375 songs - 21 hr 59 min
+376 songs - 22 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Daylight](https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight](https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv) | 3:32 | 2023-07-13 |  |
 | [Defeated No More](https://open.spotify.com/track/5BITgueR6DF7rAxxvTzmS3) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Edward MacFarlane](https://open.spotify.com/artist/4lDk68AYMR0F8wSNKGmYLt) | [Settle \(Deluxe\)](https://open.spotify.com/album/1lM5IfaqcIsXd6UCV3aDSs) | 6:07 | 2025-12-14 |  |
 | [Dernière danse](https://open.spotify.com/track/65uoaqX5qcjXZRheAj1qQT) | [Indila](https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB) | [Mini World](https://open.spotify.com/album/1r7XjAgjwlakmXC2GbPXjH) | 3:33 | 2025-10-20 |  |
+| [desire machine](https://open.spotify.com/track/6XlyQPkdsBJsFxIC7yICXh) | [spirit blue](https://open.spotify.com/artist/49JcjxYnQNsELWLqtzIycx) | [ps / dm](https://open.spotify.com/album/1MLE2PAPlgYvN9yKfbzcCN) | 3:50 | 2026-04-12 |  |
 | [Disappear](https://open.spotify.com/track/02mQcDoU5cn15U6tqZmL4e) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [X](https://open.spotify.com/album/688l8IJXR4cmgGj0Ekl0DR) | 4:10 | 2023-07-13 |  |
 | [Do I Wanna Know?](https://open.spotify.com/track/5FVd6KXrgO9B3JPmC8OPst) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 4:32 | 2023-07-13 |  |
 | [Do You Wanna Hold Me?](https://open.spotify.com/track/2hvf4cvCj7stVtS7la1V2Y) | [Bow Wow Wow](https://open.spotify.com/artist/52K4ArhA4OgMO7AsyEgqCT) | [We Are The '80s](https://open.spotify.com/album/3gTAnUMTCOtCHp0zb4gdSF) | 3:13 | 2023-07-13 |  |

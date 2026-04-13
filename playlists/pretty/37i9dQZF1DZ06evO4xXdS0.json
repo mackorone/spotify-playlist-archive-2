@@ -1,12 +1,12 @@
 {
   "description": "This is Nina Simone. The essential tracks, all in one playlist.",
-  "num_followers": 507819,
+  "num_followers": 507818,
   "original_name": "This Is Nina Simone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adg9gAAAAABG1sK4n0du8hKdnCMQjzAu",
+  "snapshot_id": "admPAAAAAAB4cyrn3TSUK4bwdkJ73qlI",
   "tracks": [
     {
       "added_at": null,
@@ -443,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Broadway-Blues-Ballads",
-        "url": "https://open.spotify.com/album/0do3UV5axUHkROOTkcxr1J"
+        "name": "Silk & Soul (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2miVfa78vOd0o8Vbsgd7g3"
       },
       "artists": [
         {
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         }
       ],
-      "duration_ms": 155426,
-      "name": "See-Line Woman",
-      "url": "https://open.spotify.com/track/2vyIoVK6ggvXVNEvmIt1vs"
+      "duration_ms": 142613,
+      "name": "The Look of Love",
+      "url": "https://open.spotify.com/track/0EiGzshQIaM98eOXdKTGaD"
     },
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Silk & Soul (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2miVfa78vOd0o8Vbsgd7g3"
+        "name": "Broadway-Blues-Ballads",
+        "url": "https://open.spotify.com/album/0do3UV5axUHkROOTkcxr1J"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         }
       ],
-      "duration_ms": 142613,
-      "name": "The Look of Love",
-      "url": "https://open.spotify.com/track/0EiGzshQIaM98eOXdKTGaD"
+      "duration_ms": 155426,
+      "name": "See-Line Woman",
+      "url": "https://open.spotify.com/track/2vyIoVK6ggvXVNEvmIt1vs"
     },
     {
       "added_at": null,
@@ -715,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wild Is The Wind",
-        "url": "https://open.spotify.com/album/2EYVXfypcucR62WMKJl6Mr"
+        "name": "Silk & Soul (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2miVfa78vOd0o8Vbsgd7g3"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         }
       ],
-      "duration_ms": 147906,
-      "name": "That's All I Ask",
-      "url": "https://open.spotify.com/track/5uI8omnLtzW4xTqJ5AoQtT"
+      "duration_ms": 144800,
+      "name": "Turn Me On",
+      "url": "https://open.spotify.com/track/5TX08awwAs7EHiUAZot3UM"
     },
     {
       "added_at": null,
@@ -763,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Silk & Soul (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2miVfa78vOd0o8Vbsgd7g3"
+        "name": "Wild Is The Wind",
+        "url": "https://open.spotify.com/album/2EYVXfypcucR62WMKJl6Mr"
       },
       "artists": [
         {
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         }
       ],
-      "duration_ms": 144800,
-      "name": "Turn Me On",
-      "url": "https://open.spotify.com/track/5TX08awwAs7EHiUAZot3UM"
+      "duration_ms": 147906,
+      "name": "That's All I Ask",
+      "url": "https://open.spotify.com/track/5uI8omnLtzW4xTqJ5AoQtT"
     },
     {
       "added_at": null,
@@ -795,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "It Is Finished (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5rzptvCrGaKKR0vT49BHYk"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 320426,
-      "name": "Funkier Than a Mosquito's Tweeter",
-      "url": "https://open.spotify.com/track/5wBi26umb4oxXLmpJ32BWV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "To Love Somebody (Expanded Edition)",
         "url": "https://open.spotify.com/album/6T4nAC6CRLciyg4tQbgovi"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 259866,
       "name": "Suzanne",
       "url": "https://open.spotify.com/track/1rsTANyQavJLIiPIFUgoiM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It Is Finished (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5rzptvCrGaKKR0vT49BHYk"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 320426,
+      "name": "Funkier Than a Mosquito's Tweeter",
+      "url": "https://open.spotify.com/track/5wBi26umb4oxXLmpJ32BWV"
     }
   ],
   "unique_name": "This Is Nina Simone",

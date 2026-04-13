@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8091X7wyurB.md) - [plain]
 
 > Praise and Worship the Almighty God with the best songs\. A mix of both African and International songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,541 likes - 80 songs - 9 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,790 likes - 80 songs - 9 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8091X7wyurB.md) - [plain]
 | 36 | [GOOD DAY](https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [GOOD DAY](https://open.spotify.com/album/3EdKL10Hos74yj7rGqoS2e) | 2:50 |
 | 37 | [Rahama \(Live\)](https://open.spotify.com/track/4QYJFByYxJpmmpKknW1651) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Rahama \(Live\)](https://open.spotify.com/album/3KZjGboiC4GMKw7mo2opPI) | 9:56 |
 | 38 | [I Surrender \- Live](https://open.spotify.com/track/4irEfIEfEXuaPVOYDCw5Rm) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Matt Crocker](https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec) | [Cornerstone \(Live\)](https://open.spotify.com/album/5wBEavD9XYCXY6ALqFHeLW) | 5:46 |
-| 39 | [Baruch Hashem Adonai \- Live](https://open.spotify.com/track/1VEagF1oSqLgm5Y6lH32mS) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [THEOPHILUS SUNDAY](https://open.spotify.com/artist/4cPMN7Bzz4cSb3KilevhaB) | [Baruch Hashem Adonai \(Live\)](https://open.spotify.com/album/2VS8HyIhoys9tLoUG7Ati5) | 19:03 |
-| 40 | [Favour](https://open.spotify.com/track/0mxvkw5NNGXugvh5qVORjx) | [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [Favour](https://open.spotify.com/album/6MRFqruKFqEQlSl6P4Ge1k) | 5:57 |
+| 39 | [Favour](https://open.spotify.com/track/0mxvkw5NNGXugvh5qVORjx) | [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [Favour](https://open.spotify.com/album/6MRFqruKFqEQlSl6P4Ge1k) | 5:57 |
+| 40 | [Baruch Hashem Adonai \- Live](https://open.spotify.com/track/1VEagF1oSqLgm5Y6lH32mS) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [THEOPHILUS SUNDAY](https://open.spotify.com/artist/4cPMN7Bzz4cSb3KilevhaB) | [Baruch Hashem Adonai \(Live\)](https://open.spotify.com/album/2VS8HyIhoys9tLoUG7Ati5) | 19:03 |
 | 41 | [Tremble \- Live](https://open.spotify.com/track/35GACeX8Zl55jp29xFbvvo) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [Glory & Wonder](https://open.spotify.com/album/3jUPCgNSi7C875PNjsbUTU) | 5:09 |
 | 42 | [Worthy Of It All \- Live](https://open.spotify.com/track/5mkn0uyPYSIftszMBExMM4) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Believe For It](https://open.spotify.com/album/5UXG9YjxHZu7l4tTNjwIYX) | 5:29 |
 | 43 | [Basket of Praise](https://open.spotify.com/track/7HV1lnTjxpdEvaPhfnieXe) | [Deborah Ajayi](https://open.spotify.com/artist/5BSaqURPjcHhZCV7wgOYSA) | [Basket of Praise](https://open.spotify.com/album/6GMqyTS1Xa2j7IgEbEXge6) | 25:31 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8091X7wyurB.md) - [plain]
 | 77 | [Miracle No Dey Tire Jesus](https://open.spotify.com/track/4BdSQteqYNDGU8oD487KEU) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE) | [Miracle No Dey Tire Jesus](https://open.spotify.com/album/6aA6U5p9m8dREYkv0K8tTT) | 2:46 |
 | 78 | [Boku](https://open.spotify.com/track/3EX183tnITp6RMePnXFAfl) | [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [God, In all Seasons](https://open.spotify.com/album/755o89dLMkJLE3OR4T8GOc) | 3:57 |
 | 79 | [ENOUGH FOR ME](https://open.spotify.com/track/3d0LYyvQwDKG3h4R7dCZW3) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [ENOUGH FOR ME](https://open.spotify.com/album/5P2RR6rOO8lTNvVxMObKmj) | 9:40 |
-| 80 | [Do A Work In Me \- Live](https://open.spotify.com/track/5ts4pT5MBeNDv4FxzkcOxc) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Do A Work In Me \(Live\)](https://open.spotify.com/album/6f0MbPfuYyhs9ZS0u2ekpL) | 9:21 |
+| 80 | [Praise The Lord \- Live](https://open.spotify.com/track/5k9ILrXNbOOaaJUQkVtYSd) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [New Wine \(Live\)](https://open.spotify.com/album/79MOPYNVUE6yG90CnyyhHT) | 14:48 |
 
 Snapshot ID: `AAAAAFyosOFnvStRj2w32ARPCZJWrvtD`

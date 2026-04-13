@@ -1,6 +1,6 @@
 {
   "description": "A ponerse a tono con los mejores cumbiones. Foto: Grupo Frontera y Silvestre Dangond",
-  "num_followers": 131094,
+  "num_followers": 131107,
   "original_name": "Cumbias de Oro",
   "owner": {
     "name": "Spotify",
@@ -311,22 +311,6 @@
     {
       "added_at": "2026-03-13 04:59:24",
       "album": {
-        "name": "Puro Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/6J6p32z5lFri9g2K1iwGjo"
-      },
-      "artists": [
-        {
-          "name": "Grupo 5",
-          "url": "https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6"
-        }
-      ],
-      "duration_ms": 187819,
-      "name": "Puro Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/2mEVUW5UL7iDK5DnomVvOy"
-    },
-    {
-      "added_at": "2026-03-13 04:59:24",
-      "album": {
         "name": "Vol. 1",
         "url": "https://open.spotify.com/album/4ZlcH7Y4ueshsoLyXQ663d"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 224313,
       "name": "Ay Amor",
       "url": "https://open.spotify.com/track/4OeH2AOHW84cdsrK4PFbfG"
+    },
+    {
+      "added_at": "2026-03-13 04:59:24",
+      "album": {
+        "name": "Puro Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/6J6p32z5lFri9g2K1iwGjo"
+      },
+      "artists": [
+        {
+          "name": "Grupo 5",
+          "url": "https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6"
+        }
+      ],
+      "duration_ms": 187819,
+      "name": "Puro Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/2mEVUW5UL7iDK5DnomVvOy"
     },
     {
       "added_at": "2026-03-13 04:59:24",
@@ -527,22 +527,6 @@
     {
       "added_at": "2026-03-13 04:59:24",
       "album": {
-        "name": "El Baile de la Serpiente",
-        "url": "https://open.spotify.com/album/0jIIIsrmBE2u1hSKLezjmt"
-      },
-      "artists": [
-        {
-          "name": "Sonido 2000",
-          "url": "https://open.spotify.com/artist/1H3xkA1mRbxwDjbiiyC1lR"
-        }
-      ],
-      "duration_ms": 209293,
-      "name": "Juraste Querrerme",
-      "url": "https://open.spotify.com/track/4vzKzns8wDmtJVpL6kay4C"
-    },
-    {
-      "added_at": "2026-03-13 04:59:24",
-      "album": {
         "name": "T\u00fa Me Haces M\u00e1s Fuerte",
         "url": "https://open.spotify.com/album/6Pst0oXGzZmBGlIXYKr5jn"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 202004,
       "name": "T\u00fa Me Haces M\u00e1s Fuerte",
       "url": "https://open.spotify.com/track/4xb2uD9GnCXuTyzrN1PANS"
+    },
+    {
+      "added_at": "2026-03-13 04:59:24",
+      "album": {
+        "name": "El Baile de la Serpiente",
+        "url": "https://open.spotify.com/album/0jIIIsrmBE2u1hSKLezjmt"
+      },
+      "artists": [
+        {
+          "name": "Sonido 2000",
+          "url": "https://open.spotify.com/artist/1H3xkA1mRbxwDjbiiyC1lR"
+        }
+      ],
+      "duration_ms": 209293,
+      "name": "Juraste Querrerme",
+      "url": "https://open.spotify.com/track/4vzKzns8wDmtJVpL6kay4C"
     },
     {
       "added_at": "2026-03-13 04:59:24",

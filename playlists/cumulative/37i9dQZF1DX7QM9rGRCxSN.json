@@ -1871,6 +1871,24 @@
     },
     {
       "album": {
+        "name": "Plantita",
+        "url": "https://open.spotify.com/album/713S9n7ltS1FyCu9kcYdof"
+      },
+      "artists": [
+        {
+          "name": "Se\u00f1or Kino",
+          "url": "https://open.spotify.com/artist/2W0kFBz6nHARNF7A5KlWYG"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307149,
+      "name": "Plantita",
+      "url": "https://open.spotify.com/track/1liIYxf07vaSh520cuYd19"
+    },
+    {
+      "album": {
         "name": "Entre Desiertos EP",
         "url": "https://open.spotify.com/album/3Qx9fOPVUCHp3CT42Jbvlw"
       },
@@ -2070,7 +2088,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 177771,
       "name": "S.O.S.",
       "url": "https://open.spotify.com/track/4ga2J6JnKKeas11GofO65K"

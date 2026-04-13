@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요\. \(There is something between us\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,320 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,319 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 26 | [HONEY](https://open.spotify.com/track/2Lt1ZRU6nFY88vw24GdYLy) | [Chawoo](https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR), [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [HONEY](https://open.spotify.com/album/13G1o00M2cXesfbhj8p8H2) | 3:47 |
 | 27 | [juicy](https://open.spotify.com/track/7CZlQzwfuBgKvhkejwEEoy) | [OWIS](https://open.spotify.com/artist/6XX2VhfOTqYDIvNjkEHqe8) | [MUSEUM](https://open.spotify.com/album/7fBDwY8yeff98Qzycso6pC) | 3:20 |
 | 28 | [45.7cm \(feat.OOHYO\)](https://open.spotify.com/track/4h2fsF8dnXtqx4SNsF15KW) | [Yu Seung Woo](https://open.spotify.com/artist/5ZSPRYslMYdwfwkKNcmBJf), [WOOHYO](https://open.spotify.com/artist/6jFvKvItiwnMx2nG3y1Hx9) | [Pit a Pat](https://open.spotify.com/album/2exNFaprmfRUKVofd0PNR4) | 3:32 |
-| 29 | [Something Feels Wrong](https://open.spotify.com/track/3smVG3fNKHoO4Di5CWB3Wm) | [KickFlip](https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k) | [To My Beloved Thief, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/73xC19YQk363A7KxR142sW) | 2:51 |
-| 30 | [One\-way Love \(Feat\. h3hyeon\)](https://open.spotify.com/track/6MmTxJOXZW3OKgQZ7a7nkn) | [Ryeojin](https://open.spotify.com/artist/54HLAGvxNZ89emaGdlf6Tr), [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz) | [One\-way Love \(Feat\. h3hyeon\)](https://open.spotify.com/album/3xWjFuxEduU4dC5pFDKPvX) | 2:36 |
+| 29 | [One\-way Love \(Feat\. h3hyeon\)](https://open.spotify.com/track/6MmTxJOXZW3OKgQZ7a7nkn) | [Ryeojin](https://open.spotify.com/artist/54HLAGvxNZ89emaGdlf6Tr), [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz) | [One\-way Love \(Feat\. h3hyeon\)](https://open.spotify.com/album/3xWjFuxEduU4dC5pFDKPvX) | 2:36 |
+| 30 | [Something Feels Wrong](https://open.spotify.com/track/3smVG3fNKHoO4Di5CWB3Wm) | [KickFlip](https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k) | [To My Beloved Thief, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/73xC19YQk363A7KxR142sW) | 2:51 |
 | 31 | [HICCUP](https://open.spotify.com/track/6BMNPNij62XvOMQF5BPGym) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [Episode 25](https://open.spotify.com/album/53voGtFVLwlW8CbkbDeIQx) | 3:15 |
 | 32 | [Hide & Seek](https://open.spotify.com/track/408LwMfVi5uBH5nPOyEuWk) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [XO, My Cyberlove](https://open.spotify.com/album/2sVppxhqMC6qFOp1Xxvy8Q) | 2:33 |
 | 33 | [Still In Time](https://open.spotify.com/track/2AId5fDE2y1UUbagfZVzIQ) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Spring Fever, Pt\. 7 \(Original Soundtrack\)](https://open.spotify.com/album/3EhkvrtYTudwpxtOnxvWuW) | 2:53 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 41 | [Up & Down](https://open.spotify.com/track/4YGhgJsNrg0E7wTUKsU2Zn) | [배이 \(NMIXX\)](https://open.spotify.com/artist/27E22J7VSc9aYvjqOGqyyo) | [제4차 사랑혁명 \(Original Sound Track\) Pt.1](https://open.spotify.com/album/1DQ3TZXKpJ6JXMcqI8bckC) | 4:04 |
 | 42 | [In your circle \(Feat\. Bumkey, Janet Suhh\)](https://open.spotify.com/track/1LnNrcQmeIWJqFAloK3NpB) | [Padi](https://open.spotify.com/artist/2SZEuuHNzveriZr2YtUFj5), [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq), [Janet Suhh](https://open.spotify.com/artist/5xhVZ42ABidt3DS9HJ5Uzm) | [Press Winter](https://open.spotify.com/album/7jRBFt5rCSjXK7GswcLnAN) | 3:32 |
 | 43 | [My Dearest](https://open.spotify.com/track/7h5dECSs3XYQjaZWB4jHHM) | [xooos](https://open.spotify.com/artist/0OqnFLmTWiVGm3Ifk6mahQ) | [My Dearest \(ToGetHer X xooos\) \(Original Soundtrack\)](https://open.spotify.com/album/0BBkLUZwjcrvrkUnHaTd8w) | 3:03 |
-| 44 | [Go for Love](https://open.spotify.com/track/5pC9c5HlVuifY319wqBMzb) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta) | [Go for Love](https://open.spotify.com/album/7ag0W3hrGjOF486km90W0K) | 2:43 |
-| 45 | [BOY](https://open.spotify.com/track/2UjpQS69PkI3YqzYH0Zksi) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [STAYC Special Single \[I WANT IT\]](https://open.spotify.com/album/252AHBq3W65lTnnELHIi4y) | 3:01 |
+| 44 | [BOY](https://open.spotify.com/track/2UjpQS69PkI3YqzYH0Zksi) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [STAYC Special Single \[I WANT IT\]](https://open.spotify.com/album/252AHBq3W65lTnnELHIi4y) | 3:01 |
+| 45 | [Go for Love](https://open.spotify.com/track/5pC9c5HlVuifY319wqBMzb) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta) | [Go for Love](https://open.spotify.com/album/7ag0W3hrGjOF486km90W0K) | 2:43 |
 | 46 | [Message \(with Gist\)](https://open.spotify.com/track/5qYfMMCvenoDhXp6upn3iL) | [Suen](https://open.spotify.com/artist/6eaZmfhIThboEez0pzz7Vi), [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk) | [Message \(with Gist\)](https://open.spotify.com/album/3yUzjFo7J9UHdxUeYrkpeW) | 2:50 |
 | 47 | [9 to 2](https://open.spotify.com/track/3gaPXXidirpc2DbqMCf3CS) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [\[ MAL \]](https://open.spotify.com/album/6vJ9SjwikssdLvZsrdUVb1) | 2:27 |
 | 48 | [Before the Petals Fall](https://open.spotify.com/track/3IgT7VsDxWZsg90OrqK90t) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [Before the Petals Fall](https://open.spotify.com/album/168wOyzeKZdYSmSQu0Fkq3) | 3:49 |

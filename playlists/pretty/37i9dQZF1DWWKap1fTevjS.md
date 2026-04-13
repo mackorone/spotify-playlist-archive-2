@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKap1fTevjS.md) - [plain]
 
 > Buscando um sono profundo? Essa playlist te ajuda a dormir melhor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,303 likes - 250 songs - 11 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,371 likes - 250 songs - 11 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKap1fTevjS.md) - [plain]
 | 249 | [Distant Halo](https://open.spotify.com/track/7DQovD1SdgmwhuVaPyFf56) | [Alsephina](https://open.spotify.com/artist/2EFJqbmRZS645xeescnjp6) | [Distant Halo](https://open.spotify.com/album/2lQCUiR09dvEDC5MKqZq9x) | 2:36 |
 | 250 | [Allevating](https://open.spotify.com/track/4A0xVrc3chxxgPh8j6whrX) | [Faux Moon](https://open.spotify.com/artist/6nDHxcxzE1HEYG9PYmuVQW) | [Allevating](https://open.spotify.com/album/3CPzhdw9luAv9JPNOBx6qs) | 2:31 |
 
-Snapshot ID: `AAAAALLoRM/8P6dwlvPKNwbAvorpXs2C`
+Snapshot ID: `AAAAAEUnEKYE6xviGJRDXlT9lod7qn8o`

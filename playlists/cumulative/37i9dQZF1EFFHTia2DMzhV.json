@@ -1256,6 +1256,24 @@
     {
       "album": {
         "name": "Out Here",
+        "url": "https://open.spotify.com/album/55Q4ZwCcrGigFZuYFqa155"
+      },
+      "artists": [
+        {
+          "name": "Christian McBride Trio",
+          "url": "https://open.spotify.com/artist/3nh2jsKXbzQzTBm5qzVXEP"
+        }
+      ],
+      "date_added": "2026-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 507534,
+      "name": "I Have Dreamed",
+      "url": "https://open.spotify.com/track/2tzwzfBlHxQsFtf3Yvhlf3"
+    },
+    {
+      "album": {
+        "name": "Out Here",
         "url": "https://open.spotify.com/album/14BJkt0RNMcXU14xMmNRxH"
       },
       "artists": [
@@ -1266,7 +1284,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 507534,
       "name": "I Have Dreamed",
       "url": "https://open.spotify.com/track/4bBIADw4urJPkcx0YOfEIo"

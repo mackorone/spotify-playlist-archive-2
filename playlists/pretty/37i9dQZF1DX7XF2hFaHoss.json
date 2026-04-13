@@ -1,6 +1,6 @@
 {
   "description": "The very best acoustic songs from singer-songwriters making waves. Cover: I'm With Her",
-  "num_followers": 154800,
+  "num_followers": 154797,
   "original_name": "Women of Acoustic",
   "owner": {
     "name": "Spotify",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2026-03-08 15:34:05",
       "album": {
+        "name": "Soundings",
+        "url": "https://open.spotify.com/album/6knZI5Gkp0SvKHpTkwhiTC"
+      },
+      "artists": [
+        {
+          "name": "Elanor Moss",
+          "url": "https://open.spotify.com/artist/0zyFWHrZsZXBupeqrDkLtz"
+        }
+      ],
+      "duration_ms": 175866,
+      "name": "Soundings",
+      "url": "https://open.spotify.com/track/0esMQejJS5rGbjbZlEjgkp"
+    },
+    {
+      "added_at": "2026-03-08 15:34:05",
+      "album": {
         "name": "California Calling",
         "url": "https://open.spotify.com/album/1RR6o1mYDjmZDZZvE75KFi"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 241373,
       "name": "The Low Hum",
       "url": "https://open.spotify.com/track/2VnR0EzbyFApMflT0xrcuD"
-    },
-    {
-      "added_at": "2026-03-08 15:34:05",
-      "album": {
-        "name": "Soundings",
-        "url": "https://open.spotify.com/album/6knZI5Gkp0SvKHpTkwhiTC"
-      },
-      "artists": [
-        {
-          "name": "Elanor Moss",
-          "url": "https://open.spotify.com/artist/0zyFWHrZsZXBupeqrDkLtz"
-        }
-      ],
-      "duration_ms": 175866,
-      "name": "Soundings",
-      "url": "https://open.spotify.com/track/0esMQejJS5rGbjbZlEjgkp"
     },
     {
       "added_at": "2026-03-08 15:34:05",

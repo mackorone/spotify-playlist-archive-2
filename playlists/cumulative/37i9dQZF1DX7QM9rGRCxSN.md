@@ -4,7 +4,7 @@
 
 > Belleza y distorsión imaginada por bandas iberoamericanas\. Sueño A Marte en portada.
 
-139 songs - 9 hr 9 min
+140 songs - 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [para dormir](https://open.spotify.com/track/4NhiH1dK8eZBTGXRT3wRDQ) | [Santa Madero](https://open.spotify.com/artist/0CRFTlHrIHedPTQFqUYAXN) | [para dormir](https://open.spotify.com/album/5eUxrhwTazbxHrDCP3lsGJ) | 3:31 | 2024-06-07 | 2024-06-25 |
 | [Para los Pájaros](https://open.spotify.com/track/21i2D8lKOnfT7vOJx5D8z5) | [Sanje](https://open.spotify.com/artist/5GpUWwhWjWHqGVbHMF6OPx) | [Para los Pájaros / Carlos](https://open.spotify.com/album/6fwq1M7IulFPZ0lbn4BB5v) | 4:28 | 2024-07-05 | 2024-11-05 |
 | [Placer Displacer](https://open.spotify.com/track/12vC5vhU42ZRY3LhAwOYVf) | [SEXES](https://open.spotify.com/artist/1Fq29HLbHUsplyoE5mMAFp) | [Placer Displacer](https://open.spotify.com/album/6Fs5XNxyodItJMJrqaI49a) | 3:26 | 2023-01-26 | 2023-03-25 |
+| [Plantita](https://open.spotify.com/track/1liIYxf07vaSh520cuYd19) | [Señor Kino](https://open.spotify.com/artist/2W0kFBz6nHARNF7A5KlWYG) | [Plantita](https://open.spotify.com/album/713S9n7ltS1FyCu9kcYdof) | 5:07 | 2025-10-24 |  |
 | [Poco a Poco](https://open.spotify.com/track/6PkkpizxjK7tcPU2uiZmiX) | [Entre Desiertos](https://open.spotify.com/artist/6EfZlD0Lw7RsNhDMlHH4YL) | [Entre Desiertos EP](https://open.spotify.com/album/3Qx9fOPVUCHp3CT42Jbvlw) | 5:02 | 2021-10-19 | 2024-08-23 |
 | [Portal](https://open.spotify.com/track/1ufpOeDERnDjc27jLRFDp7) | [Juan Son](https://open.spotify.com/artist/0KMvNa9hacj7I16cmapuGG), [Simone Pace](https://open.spotify.com/artist/6uO0MwL8aRtn5r4rEyOCeo) | [Portal](https://open.spotify.com/album/36rdTGwMgq7jOhVYegLaKO) | 3:32 | 2023-05-05 |  |
 | [Purpura](https://open.spotify.com/track/6EGVCwrmaBn3IbQn22oms2) | [Margaritas Podridas](https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7) | [Margaritas Podridas](https://open.spotify.com/album/4dbNoziUmHyqx6CIPAic9t) | 2:54 | 2023-05-05 | 2024-04-19 |
@@ -119,7 +120,7 @@
 | [Recibe lo que hay en mí \(que eres tú\)](https://open.spotify.com/track/7nscz2qQM4pUj9x3MrHruV) | [Ramona Flores](https://open.spotify.com/artist/4nwf3ZjNlcteyEGCh3KSrk) | [Recibe lo que hay en mí \(que eres tú\)](https://open.spotify.com/album/0T8FT4IjeI7gyne5qiGYUf) | 3:55 | 2024-08-23 | 2024-10-05 |
 | [Reflejo](https://open.spotify.com/track/0sC6ho1eyJnxsWZCsTMTqn) | [MJ Baez](https://open.spotify.com/artist/0Pror4vlY4kxMAStXy9faN), [Amo Amo](https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm) | [Reflejo](https://open.spotify.com/album/5tWdkHKPFKj8P2txmQm1pM) | 2:57 | 2024-09-27 | 2025-02-22 |
 | [reina de primavera](https://open.spotify.com/track/5HI6WZzt6WEz8I4ybF5lt6) | [te vi en un planetario](https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm) | [reina de primavera](https://open.spotify.com/album/5qnpPym42PCcSxP70H8U1Y) | 4:05 | 2023-03-24 | 2025-12-18 |
-| [S.O.S.](https://open.spotify.com/track/4ga2J6JnKKeas11GofO65K) | [No sé a quién matar](https://open.spotify.com/artist/4FVmReIogKhsocFmvBPLAV) | [S.O.S.](https://open.spotify.com/album/4RvKYGUHWX2X38wce7NufG) | 2:57 | 2023-05-05 |  |
+| [S.O.S.](https://open.spotify.com/track/4ga2J6JnKKeas11GofO65K) | [No sé a quién matar](https://open.spotify.com/artist/4FVmReIogKhsocFmvBPLAV) | [S.O.S.](https://open.spotify.com/album/4RvKYGUHWX2X38wce7NufG) | 2:57 | 2023-05-05 | 2026-04-13 |
 | [Sailor](https://open.spotify.com/track/4TdfjUGOTNgBFUtCWXGKu4) | [Sueño A Marte](https://open.spotify.com/artist/6pz3M7ma5C5yKRjN5gaatN) | [Sailor](https://open.spotify.com/album/0008B9l9FQcE2EMP3Avbch) | 4:14 | 2024-10-04 |  |
 | [Santos Que Yo Te Pinte](https://open.spotify.com/track/1L4irrN3TGmOHS65WM1g4W) | [Los Planetas](https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL) | [Unidad De Desplazamiento](https://open.spotify.com/album/3CALAHUrBmAtGjVj82x5tz) | 4:39 | 2021-10-19 |  |
 | [seguiremos siendo](https://open.spotify.com/track/6zX7KSFicewSnSeT3W2tvN) | [Depresión Sonora](https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [seguiremos siendo](https://open.spotify.com/album/4KkPCRsBQnbv25qKv8dkpI) | 3:14 | 2022-02-01 | 2023-03-25 |

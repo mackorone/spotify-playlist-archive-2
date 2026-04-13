@@ -8143,6 +8143,24 @@
     },
     {
       "album": {
+        "name": "Cover Girl",
+        "url": "https://open.spotify.com/album/2i6yafZMIkgqkjWAobKic5"
+      },
+      "artists": [
+        {
+          "name": "Shawn Colvin",
+          "url": "https://open.spotify.com/artist/0K7VN4aHxHcEb7PqkfoIVA"
+        }
+      ],
+      "date_added": "2026-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225333,
+      "name": "Killing The Blues",
+      "url": "https://open.spotify.com/track/55g3S2tU6OHuaxXptJJsBL"
+    },
+    {
+      "album": {
         "name": "spirit",
         "url": "https://open.spotify.com/album/5wEy1LKkVbEEKnyk9Ql5Ke"
       },
@@ -9508,6 +9526,24 @@
       "duration_ms": 258537,
       "name": "Meaning Business",
       "url": "https://open.spotify.com/track/2NlsCmQjDF6MtFdcXOQZE2"
+    },
+    {
+      "album": {
+        "name": "First Recordings",
+        "url": "https://open.spotify.com/album/5OfjjEzy7ofCj2EZDOKZ87"
+      },
+      "artists": [
+        {
+          "name": "Junior Kimbrough",
+          "url": "https://open.spotify.com/artist/03HEHGJoLPdARs4nrtUidr"
+        }
+      ],
+      "date_added": "2026-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151360,
+      "name": "Meet Me in the City",
+      "url": "https://open.spotify.com/track/5LmmZgxFg1sSfxENxsdtak"
     },
     {
       "album": {
@@ -14080,7 +14116,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 197066,
       "name": "State Trooper",
       "url": "https://open.spotify.com/track/1Ulh5rWbhhV3PltDadTBZC"

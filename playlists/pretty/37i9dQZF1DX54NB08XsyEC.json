@@ -1,6 +1,6 @@
 {
   "description": "pov: minhas favs / Foto: KATSEYE",
-  "num_followers": 1074431,
+  "num_followers": 1074403,
   "original_name": "pov",
   "owner": {
     "name": "Spotify",
@@ -419,22 +419,18 @@
     {
       "added_at": "2026-04-10 03:00:40",
       "album": {
-        "name": "The Life of a Showgirl",
-        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 241766,
-      "name": "The Life of a Showgirl (feat. Sabrina Carpenter)",
-      "url": "https://open.spotify.com/track/5eXgqtg3T8Av0m1FUaGHex"
+      "duration_ms": 210688,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
     },
     {
       "added_at": "2026-04-10 03:00:40",
@@ -455,34 +451,22 @@
     {
       "added_at": "2026-04-10 03:00:40",
       "album": {
-        "name": "Lose Control",
-        "url": "https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX"
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
       },
       "artists": [
         {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 210688,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
-    },
-    {
-      "added_at": "2026-04-10 03:00:40",
-      "album": {
-        "name": "DEADLINE",
-        "url": "https://open.spotify.com/album/0al74j1n8XIEkZMMFRfsbx"
-      },
-      "artists": [
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
         {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 195402,
-      "name": "GO",
-      "url": "https://open.spotify.com/track/3FZPp9lBUvhsxFxKJi3VkB"
+      "duration_ms": 241766,
+      "name": "The Life of a Showgirl (feat. Sabrina Carpenter)",
+      "url": "https://open.spotify.com/track/5eXgqtg3T8Av0m1FUaGHex"
     },
     {
       "added_at": "2026-04-10 03:00:40",
@@ -503,22 +487,18 @@
     {
       "added_at": "2026-04-10 03:00:40",
       "album": {
-        "name": "i think i'm addicted",
-        "url": "https://open.spotify.com/album/6zUJXKpWJGuzb2LrB7t7hG"
+        "name": "DEADLINE",
+        "url": "https://open.spotify.com/album/0al74j1n8XIEkZMMFRfsbx"
       },
       "artists": [
         {
-          "name": "oskar med k",
-          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
-        },
-        {
-          "name": "Haley Joelle",
-          "url": "https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8"
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
         }
       ],
-      "duration_ms": 158520,
-      "name": "i think i'm addicted",
-      "url": "https://open.spotify.com/track/7MStpKz6w6a7Kq0QR7QTu0"
+      "duration_ms": 195402,
+      "name": "GO",
+      "url": "https://open.spotify.com/track/3FZPp9lBUvhsxFxKJi3VkB"
     },
     {
       "added_at": "2026-04-10 03:00:40",
@@ -539,6 +519,26 @@
       "duration_ms": 181375,
       "name": "EYES CLOSED (with ZAYN)",
       "url": "https://open.spotify.com/track/4WFfPxJv1KRekG6mxn837K"
+    },
+    {
+      "added_at": "2026-04-10 03:00:40",
+      "album": {
+        "name": "i think i'm addicted",
+        "url": "https://open.spotify.com/album/6zUJXKpWJGuzb2LrB7t7hG"
+      },
+      "artists": [
+        {
+          "name": "oskar med k",
+          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
+        },
+        {
+          "name": "Haley Joelle",
+          "url": "https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8"
+        }
+      ],
+      "duration_ms": 158520,
+      "name": "i think i'm addicted",
+      "url": "https://open.spotify.com/track/7MStpKz6w6a7Kq0QR7QTu0"
     },
     {
       "added_at": "2026-04-10 03:00:40",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-04-10 03:00:40",
       "album": {
-        "name": "locket",
-        "url": "https://open.spotify.com/album/766kQKYQvONQk339t5payy"
-      },
-      "artists": [
-        {
-          "name": "Madison Beer",
-          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
-        }
-      ],
-      "duration_ms": 222512,
-      "name": "bad enough",
-      "url": "https://open.spotify.com/track/01aNqddaggrPJYUIdRApRD"
-    },
-    {
-      "added_at": "2026-04-10 03:00:40",
-      "album": {
         "name": "Whatever's Clever!",
         "url": "https://open.spotify.com/album/2ivbRaW10BVYVDTGRGDW6p"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 235560,
       "name": "Sideways (feat. Coco Jones)",
       "url": "https://open.spotify.com/track/3cq2IfK8NOuXDlc0cogY2K"
+    },
+    {
+      "added_at": "2026-04-10 03:00:40",
+      "album": {
+        "name": "locket",
+        "url": "https://open.spotify.com/album/766kQKYQvONQk339t5payy"
+      },
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        }
+      ],
+      "duration_ms": 222512,
+      "name": "bad enough",
+      "url": "https://open.spotify.com/track/01aNqddaggrPJYUIdRApRD"
     },
     {
       "added_at": "2026-04-10 03:00:40",
@@ -839,26 +839,6 @@
     {
       "added_at": "2026-04-10 03:00:40",
       "album": {
-        "name": "Eternity",
-        "url": "https://open.spotify.com/album/1arG3K4COe0kCEU9NqPF5S"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        },
-        {
-          "name": "Gigi Perez",
-          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
-        }
-      ],
-      "duration_ms": 203474,
-      "name": "Eternity",
-      "url": "https://open.spotify.com/track/438QRARw2l8mc0TyFk8BLy"
-    },
-    {
-      "added_at": "2026-04-10 03:00:40",
-      "album": {
         "name": "TIC TIC (feat. Pabllo Vittar)",
         "url": "https://open.spotify.com/album/3UKx4WJH82TdgG9xevZGzO"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 133000,
       "name": "TIC TIC (feat. Pabllo Vittar)",
       "url": "https://open.spotify.com/track/2ZBMbueQLQZAUHio2jplVK"
+    },
+    {
+      "added_at": "2026-04-10 03:00:40",
+      "album": {
+        "name": "Eternity",
+        "url": "https://open.spotify.com/album/1arG3K4COe0kCEU9NqPF5S"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        },
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        }
+      ],
+      "duration_ms": 203474,
+      "name": "Eternity",
+      "url": "https://open.spotify.com/track/438QRARw2l8mc0TyFk8BLy"
     },
     {
       "added_at": "2026-04-10 03:00:40",

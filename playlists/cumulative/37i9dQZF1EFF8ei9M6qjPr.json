@@ -1083,6 +1083,24 @@
     },
     {
       "album": {
+        "name": "Drinking Game",
+        "url": "https://open.spotify.com/album/6yBtHDlryRS2EQAfGYNMQN"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "date_added": "2026-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170971,
+      "name": "Drinking Game",
+      "url": "https://open.spotify.com/track/3NpotblRm0XLn747iCZ75w"
+    },
+    {
+      "album": {
         "name": "Drive Safe",
         "url": "https://open.spotify.com/album/7zEiuGlnzrMy1FrhXWpDSw"
       },
@@ -2040,7 +2058,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-10",
+      "date_removed": null,
       "duration_ms": 177181,
       "name": "i drive me mad",
       "url": "https://open.spotify.com/track/74tswKcYGnbqDd9zbPHAgW"

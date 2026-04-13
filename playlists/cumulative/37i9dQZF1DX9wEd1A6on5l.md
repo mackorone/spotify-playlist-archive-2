@@ -4,7 +4,7 @@
 
 > Get the party started with these Naija bangers!
 
-843 songs - 1 day 15 hr 53 min
+844 songs - 1 day 15 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [Dagger](https://open.spotify.com/track/7BO9zcAuosnSwmSsXrgiw5) | [Senth](https://open.spotify.com/artist/0ZMEdbOY3ADh3qbia7kH2b) | [Dagger](https://open.spotify.com/album/5V3eRSdrs84Usrd1XAy39p) | 2:17 | 2023-02-11 | 2023-02-17 |
 | [Dalilah II](https://open.spotify.com/track/3pU5thrIWedorXzDa3gOjb) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Axon](https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol) | [Dalilah II](https://open.spotify.com/album/1axrqyHSrmprv2iwLbClVb) | 2:58 | 2024-03-22 | 2024-08-26 |
 | [Dance](https://open.spotify.com/track/6wQcbOYecudVUjJTVx1jYI) | [Bite Starr](https://open.spotify.com/artist/3jvqUuLnWMZqJqGiHVmzhq) | [Dance](https://open.spotify.com/album/7eZ1oevX4M9a8zdPFdOfpu) | 2:29 | 2025-06-27 | 2025-07-05 |
+| [Dance for Jesus](https://open.spotify.com/track/7ARtgoelqoU6QGi7fuoQnR) | [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Dance for Jesus](https://open.spotify.com/album/12pkgxsoiyh5Kq7DreKBxp) | 3:20 | 2026-04-10 |  |
 | [Danger](https://open.spotify.com/track/7aeIvptSeWBdtuPyyjM3wM) | [Terri](https://open.spotify.com/artist/6h3iqdnfBKV2jRhUJz0oto) | [Danger](https://open.spotify.com/album/2mDEg7Kh7jjaypZ5WxBxNo) | 2:37 | 2022-06-09 | 2022-10-04 |
 | [Dealer](https://open.spotify.com/track/5Wxkvvb6pLky16pwq4gBI3) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Dealer](https://open.spotify.com/album/3RShBBcnQmqfmBJgmfz3or) | 3:00 | 2024-05-31 | 2025-02-25 |
 | [DECLAN RICE](https://open.spotify.com/track/0QdQh3umB7stVOExuHlWvl) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [EZIOKWU](https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx) | 2:04 | 2023-10-13 | 2023-10-20 |
@@ -691,7 +692,7 @@
 | [Second Sermon \- Remix](https://open.spotify.com/track/574QNMkQGedluLOgr275s9) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Second Sermon \(Remix\)](https://open.spotify.com/album/2YaqeghqhsIi2u9fQjGBsq) | 3:14 | 2022-06-09 | 2023-02-11 |
 | [See Me See God \(SMSG\)](https://open.spotify.com/track/1xFkc8KXwVk1FoG5xhcU3H) | [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt) | [Barrystar Vol\. 1](https://open.spotify.com/album/4HutXkeh0hWTIw2rEFhJIA) | 3:12 | 2025-05-16 | 2025-06-10 |
 | [See Me yah](https://open.spotify.com/track/5ta3DW7XdUPYtlZNCUVGHc) | [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [MUSE](https://open.spotify.com/album/7fZfHGgmDkyMDOTYFS5lfz) | 2:38 | 2025-03-31 | 2025-05-03 |
-| [See What We've Done](https://open.spotify.com/track/3lwmzgzAU2IS0GLPGNdZ4b) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [See What We've Done](https://open.spotify.com/album/5joD3BWyBtdMgOWX0HfT42) | 3:05 | 2025-09-19 |  |
+| [See What We've Done](https://open.spotify.com/track/3lwmzgzAU2IS0GLPGNdZ4b) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [See What We've Done](https://open.spotify.com/album/5joD3BWyBtdMgOWX0HfT42) | 3:05 | 2025-09-19 | 2026-04-13 |
 | [Senorita](https://open.spotify.com/track/04C3f1zE0YHypfmg8hF2cY) | [NAEOMI](https://open.spotify.com/artist/6cAU0bJ4IPWG2sT9XzyPkf), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Grown](https://open.spotify.com/album/0NqVsIlCwJbxJHuHuANjSb) | 2:15 | 2024-08-30 | 2024-10-15 |
 | [Sensational \(feat\. Davido & Lojay\)](https://open.spotify.com/track/5HM5trJxTouv3eUVcbW8sh) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Sensational \(feat\. Davido & Lojay\)](https://open.spotify.com/album/68nJVTjmRbl5se1eYTglBA) | 3:51 | 2023-10-23 | 2024-11-22 |
 | [shadow](https://open.spotify.com/track/6Jllvxl97ni5T2bW3zEDGi) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT), [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK) | [shadow](https://open.spotify.com/album/2IFdqPlm98pTA57pt9iTdU) | 2:40 | 2024-04-12 | 2024-04-26 |

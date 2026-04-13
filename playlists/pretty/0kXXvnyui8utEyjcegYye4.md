@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0kXXvnyui8utEyjcegYye4.md) - [plain]
 
 > 
 
-[briannabalen](https://open.spotify.com/user/lewcz7zj2xr0jhm7vpwcfkec6) - 0 likes - 356 songs - 20 hr 59 min
+[briannabalen](https://open.spotify.com/user/lewcz7zj2xr0jhm7vpwcfkec6) - 0 likes - 357 songs - 21 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -364,5 +364,6 @@ pretty - [cumulative](/playlists/cumulative/0kXXvnyui8utEyjcegYye4.md) - [plain]
 | 354 | [Esse Não e Meu Fim](https://open.spotify.com/track/17Nfqwnp3cXzsP3nA7nrsv) | [DJ Filipe Max](https://open.spotify.com/artist/2iH60Q9Ys2HfgmkgRyRtZA) | [Esse Não e Meu Fim](https://open.spotify.com/album/1c22zYaNBK57UwxkhSh042) | 1:20 |
 | 355 | [MONTAGEM ALQUIMIA \- SLOWED](https://open.spotify.com/track/0vmFuEhyHR8SbOhDFq021Y) | [h6itam](https://open.spotify.com/artist/0exQbKNFd9pLmdIGycwmlf), [n7san7os](https://open.spotify.com/artist/3cvsBiWPwn1oVpKCeGBev9), [Mc Menor Do Alvorada](https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH) | [MONTAGEM ALQUIMIA](https://open.spotify.com/album/0N6Xm4YHBgSx1NGUCs4L7X) | 1:53 |
 | 356 | [The Sun Comes Up Tremendous](https://open.spotify.com/track/4xOUoPT3YjHnwzOFycXXjU) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [The Sun Comes Up Tremendous](https://open.spotify.com/album/7ky5M7uzAkPGBbHLgvCKZB) | 3:33 |
+| 357 | [desire machine](https://open.spotify.com/track/6XlyQPkdsBJsFxIC7yICXh) | [spirit blue](https://open.spotify.com/artist/49JcjxYnQNsELWLqtzIycx) | [ps / dm](https://open.spotify.com/album/1MLE2PAPlgYvN9yKfbzcCN) | 3:50 |
 
-Snapshot ID: `AAADnrbDekIYrOej1Rziz5Jjj+YKY7N2`
+Snapshot ID: `AAADn3MbyUeAt4jP13Bsc0RiNrZhgEVB`

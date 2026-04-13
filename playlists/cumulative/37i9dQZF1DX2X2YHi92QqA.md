@@ -4,7 +4,7 @@
 
 > 🌺🌺🌺
 
-253 songs - 13 hr 39 min
+254 songs - 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,6 +222,7 @@
 | [Сніг](https://open.spotify.com/track/0XKdC9BEMZyzPodYOyrhfH) | [Valeriia Vovk](https://open.spotify.com/artist/2JujXZh274ctLCsqh0E6l8) | [Сніг](https://open.spotify.com/album/22aNgAsBDS5I1TTL1gXwCH) | 3:18 | 2025-01-20 | 2025-02-25 |
 | [Солов'ї](https://open.spotify.com/track/2LFs6apdfs1cIkrVscZpca) | [Oxana Trach](https://open.spotify.com/artist/1VqqAM2W8jfZSq8hKU7Kww) | [Солов'ї](https://open.spotify.com/album/1RltwzS3oGphyquYRIReC4) | 2:23 | 2024-06-14 | 2024-08-07 |
 | [сон](https://open.spotify.com/track/3ok1m9sRQbIFzNRmjsTSmj) | [світанок блакитний](https://open.spotify.com/artist/75pYLuwO3SMvlFkLQwOvJN) | [сон](https://open.spotify.com/album/2n99kt5LUbfB3ZoY8cIMqz) | 3:54 | 2025-05-02 | 2025-06-04 |
+| [Сон](https://open.spotify.com/track/7yfAArTAxMY5Vl7u3CCRAE) | [сервант](https://open.spotify.com/artist/21THXOs8Q1gAAS95grxylx) | [Сон](https://open.spotify.com/album/6Uyf3S4PbtSO30lSPnu9Hh) | 2:51 | 2026-04-11 |  |
 | [Сонце](https://open.spotify.com/track/1OJ7eFvEXgLhrH6ggW1Ot3) | [Valeriia Vovk](https://open.spotify.com/artist/2JujXZh274ctLCsqh0E6l8) | [Сонце](https://open.spotify.com/album/5GFMST9V0e6VZzUXa2FbCw) | 4:23 | 2025-03-17 | 2025-05-03 |
 | [сонце](https://open.spotify.com/track/4qO2JGY16Psvn6eYSkP67C) | [макс пташник](https://open.spotify.com/artist/1jT1y7O8NtdUwGfCTZM4JE), [Maryna Krut](https://open.spotify.com/artist/1Bmaz25pIQGUjunO4d1a9Z) | [такі як ми](https://open.spotify.com/album/7wdy8JNB5YETxf3UE8fR0r) | 3:11 | 2025-12-02 | 2026-03-03 |
 | [Сонячна](https://open.spotify.com/track/5DyqWpCHHVfB6BO3Uucdxg) | [Сальто Назад](https://open.spotify.com/artist/51y4QBUQpFncG7cY6HMsIW) | [Діти](https://open.spotify.com/album/7i9VX5UVn6oRKLCowh3rlZ) | 3:58 | 2024-06-14 |  |
@@ -259,7 +260,7 @@
 | [Я тебе не чую](https://open.spotify.com/track/6OUfXrZk7Ti5mTh73Mw3Lj) | [To Eternity](https://open.spotify.com/artist/239RzDmVa4D8Or8e9ZZX5Q), [Tember Blanche](https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd) | [Я тебе не чую](https://open.spotify.com/album/02biUbwR7SZa0kO9FI68Op) | 2:35 | 2024-06-14 | 2025-12-20 |
 | [Я ще тут](https://open.spotify.com/track/5CguwUsbNl7N88jDUzc5Ws) | [Aspen Grove](https://open.spotify.com/artist/3PvkzQ5mrZ0EGltVg6SDPY) | [Я ще тут](https://open.spotify.com/album/5EigHrUJeiveGaVVe3vzLn) | 4:14 | 2024-11-30 | 2024-12-21 |
 | [я є рана / я є ніж](https://open.spotify.com/track/0RlHrI103DK2g6oI7YzE5O) | [The Soul Delusion](https://open.spotify.com/artist/4Zayd3BUGqyOQIhEZXbuUi) | [я є рана / я є ніж](https://open.spotify.com/album/1Xu46wHIEnQ86soI44DtmG) | 3:05 | 2025-12-02 |  |
-| [Як же тобі там?](https://open.spotify.com/track/5sDurqXbFYuIW4rKwkPI07) | [Лівінстон](https://open.spotify.com/artist/6hdOzSe3EIQzPGqKtRX6q9) | [Як же тобі там?](https://open.spotify.com/album/43iMjqNTbopBrvGpvMZrBZ) | 4:04 | 2024-06-14 |  |
+| [Як же тобі там?](https://open.spotify.com/track/5sDurqXbFYuIW4rKwkPI07) | [Лівінстон](https://open.spotify.com/artist/6hdOzSe3EIQzPGqKtRX6q9) | [Як же тобі там?](https://open.spotify.com/album/43iMjqNTbopBrvGpvMZrBZ) | 4:04 | 2024-06-14 | 2026-04-13 |
 | [Як ніколи](https://open.spotify.com/track/7Bz3CO5CyU4GAPke4UNPhc) | [Okean Elzy](https://open.spotify.com/artist/6NTzEgUmN1PIBIYEHhf1kS) | [Той день](https://open.spotify.com/album/2oGVobQJgAXMDJ5pl79iuo) | 4:30 | 2024-10-07 |  |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

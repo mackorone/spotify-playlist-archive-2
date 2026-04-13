@@ -1,6 +1,6 @@
 {
   "description": "De st\u00e6rkeste nye sange fra de seneste par m\u00e5neder. S\u00e5 er du opdateret!",
-  "num_followers": 105771,
+  "num_followers": 105765,
   "original_name": "De nye",
   "owner": {
     "name": "Spotify",
@@ -567,6 +567,26 @@
     {
       "added_at": "2026-04-09 22:01:21",
       "album": {
+        "name": "RUNWAY",
+        "url": "https://open.spotify.com/album/0WY1wVmchFYlH4f1yZMc90"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 171010,
+      "name": "RUNWAY",
+      "url": "https://open.spotify.com/track/7BjcYqD0CqXnG45ezWSTYR"
+    },
+    {
+      "added_at": "2026-04-09 22:01:21",
+      "album": {
         "name": "The Mountain",
         "url": "https://open.spotify.com/album/1RvJmGd47lKS4XMXs9j8hD"
       },
@@ -703,26 +723,6 @@
       "duration_ms": 219866,
       "name": "How I Get",
       "url": "https://open.spotify.com/track/1gjrb6iiP6KIrQnDBIqqDi"
-    },
-    {
-      "added_at": "2026-04-09 22:01:21",
-      "album": {
-        "name": "RUNWAY",
-        "url": "https://open.spotify.com/album/0WY1wVmchFYlH4f1yZMc90"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 171010,
-      "name": "RUNWAY",
-      "url": "https://open.spotify.com/track/7BjcYqD0CqXnG45ezWSTYR"
     },
     {
       "added_at": "2026-04-09 22:01:21",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2026-04-09 22:01:21",
       "album": {
+        "name": "A Matter of Time: The Final Hour",
+        "url": "https://open.spotify.com/album/4DWK6TLXHl1fly2zi5RlO7"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 239333,
+      "name": "Madwoman",
+      "url": "https://open.spotify.com/track/0UqHzMvRQnaOXEPKgFVhxN"
+    },
+    {
+      "added_at": "2026-04-09 22:01:21",
+      "album": {
         "name": "Miyazaki",
         "url": "https://open.spotify.com/album/1UOlu9Gxe7HFYg3Ifsolp9"
       },
@@ -1043,6 +1059,26 @@
       "duration_ms": 204778,
       "name": "Miyazaki",
       "url": "https://open.spotify.com/track/4VdqXAgfC79LeweD9qVgVZ"
+    },
+    {
+      "added_at": "2026-04-09 22:01:21",
+      "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/37CYoaYJA39qUt4zl00Dnp"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+        }
+      ],
+      "duration_ms": 219785,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/1HJqcvrJAgiID47SEGe27X"
     },
     {
       "added_at": "2026-04-09 22:01:21",
@@ -1115,22 +1151,6 @@
     {
       "added_at": "2026-04-09 22:01:21",
       "album": {
-        "name": "A Matter of Time: The Final Hour",
-        "url": "https://open.spotify.com/album/4DWK6TLXHl1fly2zi5RlO7"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 239333,
-      "name": "Madwoman",
-      "url": "https://open.spotify.com/track/0UqHzMvRQnaOXEPKgFVhxN"
-    },
-    {
-      "added_at": "2026-04-09 22:01:21",
-      "album": {
         "name": "Bliv hvor du er (feat. Artigeardit)",
         "url": "https://open.spotify.com/album/4H8e7bzAPEr6vnRwriodid"
       },
@@ -1147,6 +1167,62 @@
       "duration_ms": 172844,
       "name": "Bliv hvor du er (feat. Artigeardit)",
       "url": "https://open.spotify.com/track/4A4pwyrf1YrIfTGsmt5D7k"
+    },
+    {
+      "added_at": "2026-04-09 22:01:21",
+      "album": {
+        "name": "My Mess",
+        "url": "https://open.spotify.com/album/6SJIgDyt7PDWKtlFP77VLu"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "My Mess",
+      "url": "https://open.spotify.com/track/5p3Jpxg9clWBDLy9kdD6CY"
+    },
+    {
+      "added_at": "2026-04-09 22:01:21",
+      "album": {
+        "name": "(over)lever",
+        "url": "https://open.spotify.com/album/7wyTjH07QtN3flUKLrcYHN"
+      },
+      "artists": [
+        {
+          "name": "Mille",
+          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
+        },
+        {
+          "name": "Annika",
+          "url": "https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg"
+        }
+      ],
+      "duration_ms": 168021,
+      "name": "ingen andre (feat. Annika)",
+      "url": "https://open.spotify.com/track/5rq9wIneeqXYPnohfYVzv7"
+    },
+    {
+      "added_at": "2026-04-09 22:01:21",
+      "album": {
+        "name": "Out Loud",
+        "url": "https://open.spotify.com/album/67nw9S7CjMBgeqMxEcK4DY"
+      },
+      "artists": [
+        {
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+        },
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        }
+      ],
+      "duration_ms": 268640,
+      "name": "Get Away",
+      "url": "https://open.spotify.com/track/4OBZntR9IGwMzz5VnDpjpa"
     },
     {
       "added_at": "2026-04-09 22:01:21",
@@ -1191,22 +1267,22 @@
     {
       "added_at": "2026-04-09 22:01:21",
       "album": {
-        "name": "Out Loud",
-        "url": "https://open.spotify.com/album/67nw9S7CjMBgeqMxEcK4DY"
+        "name": "Superlim & silvertejp",
+        "url": "https://open.spotify.com/album/6jZHjCPFSxmbsCWUo4FxVm"
       },
       "artists": [
         {
-          "name": "Kungs",
-          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+          "name": "Molly Sand\u00e9n",
+          "url": "https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY"
         },
         {
-          "name": "Boys Noize",
-          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+          "name": "Miriam Bryant",
+          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
         }
       ],
-      "duration_ms": 268640,
-      "name": "Get Away",
-      "url": "https://open.spotify.com/track/4OBZntR9IGwMzz5VnDpjpa"
+      "duration_ms": 193634,
+      "name": "Superlim & silvertejp",
+      "url": "https://open.spotify.com/track/5lOGSH8HAnmJlvwnVFBa1s"
     },
     {
       "added_at": "2026-04-09 22:01:21",
@@ -1227,26 +1303,6 @@
     {
       "added_at": "2026-04-09 22:01:21",
       "album": {
-        "name": "(over)lever",
-        "url": "https://open.spotify.com/album/7wyTjH07QtN3flUKLrcYHN"
-      },
-      "artists": [
-        {
-          "name": "Mille",
-          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
-        },
-        {
-          "name": "Annika",
-          "url": "https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg"
-        }
-      ],
-      "duration_ms": 168021,
-      "name": "ingen andre (feat. Annika)",
-      "url": "https://open.spotify.com/track/5rq9wIneeqXYPnohfYVzv7"
-    },
-    {
-      "added_at": "2026-04-09 22:01:21",
-      "album": {
         "name": "Don\u2019t Make Me Love U",
         "url": "https://open.spotify.com/album/5QQH6wCepwybR1tvROlfKy"
       },
@@ -1259,26 +1315,6 @@
       "duration_ms": 205322,
       "name": "Don\u2019t Make Me Love U",
       "url": "https://open.spotify.com/track/5RCxs4hI3l01zASQkClUnm"
-    },
-    {
-      "added_at": "2026-04-09 22:01:21",
-      "album": {
-        "name": "Superlim & silvertejp",
-        "url": "https://open.spotify.com/album/6jZHjCPFSxmbsCWUo4FxVm"
-      },
-      "artists": [
-        {
-          "name": "Molly Sand\u00e9n",
-          "url": "https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY"
-        },
-        {
-          "name": "Miriam Bryant",
-          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
-        }
-      ],
-      "duration_ms": 193634,
-      "name": "Superlim & silvertejp",
-      "url": "https://open.spotify.com/track/5lOGSH8HAnmJlvwnVFBa1s"
     },
     {
       "added_at": "2026-04-09 22:01:21",
@@ -1303,22 +1339,18 @@
     {
       "added_at": "2026-04-09 22:01:21",
       "album": {
-        "name": "Echo",
-        "url": "https://open.spotify.com/album/37CYoaYJA39qUt4zl00Dnp"
+        "name": "Cruel World",
+        "url": "https://open.spotify.com/album/43TBVIMYFCJNsKSJK6H6TU"
       },
       "artists": [
         {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Oaks",
-          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
         }
       ],
-      "duration_ms": 219785,
-      "name": "Echo",
-      "url": "https://open.spotify.com/track/1HJqcvrJAgiID47SEGe27X"
+      "duration_ms": 195627,
+      "name": "Beauty Pageant",
+      "url": "https://open.spotify.com/track/5bvK9yntY8XIcNkTKSSNYr"
     },
     {
       "added_at": "2026-04-09 22:01:21",
@@ -1355,22 +1387,6 @@
     {
       "added_at": "2026-04-09 22:01:21",
       "album": {
-        "name": "My Mess",
-        "url": "https://open.spotify.com/album/6SJIgDyt7PDWKtlFP77VLu"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "My Mess",
-      "url": "https://open.spotify.com/track/5p3Jpxg9clWBDLy9kdD6CY"
-    },
-    {
-      "added_at": "2026-04-09 22:01:21",
-      "album": {
         "name": "L.U.C.K.Y",
         "url": "https://open.spotify.com/album/1nTVtPPqCANg8FG0RvQta0"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 138706,
       "name": "L.U.C.K.Y",
       "url": "https://open.spotify.com/track/3cd7iKlNj6OqRkEuMqVnYs"
-    },
-    {
-      "added_at": "2026-04-09 22:01:21",
-      "album": {
-        "name": "I Had a Dream She Took My Hand",
-        "url": "https://open.spotify.com/album/4ApSI95sRstVtU1UA6Fxkw"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 220291,
-      "name": "I Had a Dream She Took My Hand",
-      "url": "https://open.spotify.com/track/2hUOnJj6B7938kFBcPO6l5"
     }
   ],
   "unique_name": "De nye",

@@ -2162,7 +2162,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 156121,
       "name": "AMOR SIN AMOR",
       "url": "https://open.spotify.com/track/6bacB516ot6yZ78a59GQ1I"
@@ -3186,7 +3186,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 208869,
       "name": "BARRIO ANTIOQUIA 2",
       "url": "https://open.spotify.com/track/1kdrgYdj7msXhRLqvq6PXv"
@@ -4418,7 +4418,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 136452,
       "name": "CACHOS",
       "url": "https://open.spotify.com/track/6LxfAkCZqXKc5PJjIp7q0l"
@@ -4900,7 +4900,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 162065,
       "name": "CARDIO",
       "url": "https://open.spotify.com/track/6LZCtWzXTPphPsdICOi0ax"
@@ -6220,7 +6220,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 148865,
       "name": "CONTIGO S\u00cd",
       "url": "https://open.spotify.com/track/7Dgoow487GGiK6FRO9IKLm"
@@ -9506,7 +9506,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 210386,
       "name": "El Mejor - Remix",
       "url": "https://open.spotify.com/track/1xRRW5ZrL7I9EG8CGZrXHE"
@@ -10390,7 +10390,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 255905,
       "name": "En Las Noches Frias",
       "url": "https://open.spotify.com/track/0a0JiZejbYYem1W31fldde"
@@ -13132,7 +13132,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 206451,
       "name": "GRACIAS A MI DIOS",
       "url": "https://open.spotify.com/track/25dYNzELJtA1ZIqOaCsORe"
@@ -18091,6 +18091,24 @@
     },
     {
       "album": {
+        "name": "LUXURY",
+        "url": "https://open.spotify.com/album/71eu7HW0xiX1CsPOjfTkfk"
+      },
+      "artists": [
+        {
+          "name": "Pirlo",
+          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
+        }
+      ],
+      "date_added": "2026-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166896,
+      "name": "LUXURY",
+      "url": "https://open.spotify.com/track/0Ss0QjKvNnuPDR5popsXcP"
+    },
+    {
+      "album": {
         "name": "111",
         "url": "https://open.spotify.com/album/338cbfABt3duRORfvNeqLT"
       },
@@ -18230,7 +18248,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 161935,
       "name": "Mal Amor",
       "url": "https://open.spotify.com/track/1j4XwpoLvqdkWllikDu7Rm"
@@ -19970,7 +19988,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-01",
+      "date_removed": null,
       "duration_ms": 148975,
       "name": "MLP",
       "url": "https://open.spotify.com/track/4DAMvNqHt0s8zJr6JwOoye"
@@ -24924,7 +24942,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-09",
+      "date_removed": null,
       "duration_ms": 177528,
       "name": "Por Qu\u00e9 la Envidia",
       "url": "https://open.spotify.com/track/433eYQkvCgJKXh1o7LtplV"
@@ -26214,7 +26232,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 123519,
       "name": "QU\u00c9 RICO FUERA",
       "url": "https://open.spotify.com/track/0oIxSqD4QkvcP35lrbXHRT"
@@ -29162,7 +29180,7 @@
       ],
       "date_added": "2025-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-10",
+      "date_removed": null,
       "duration_ms": 188826,
       "name": "Solos",
       "url": "https://open.spotify.com/track/3CbiuLMBPM6uV4a7HvkOib"
@@ -30768,7 +30786,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 127080,
       "name": "TODO CONTIGO",
       "url": "https://open.spotify.com/track/51NmauCMugYOsHARAfpkiR"
@@ -31850,7 +31868,7 @@
       ],
       "date_added": "2025-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 257333,
       "name": "Ultra Complicado (feat. Sebas) - Remix",
       "url": "https://open.spotify.com/track/569xAmXCkpM3IsEOiG4hWe"
@@ -32710,7 +32728,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-12",
+      "date_removed": null,
       "duration_ms": 207723,
       "name": "URUS BLUE",
       "url": "https://open.spotify.com/track/4sTnItbNUAcS5KDG6vTA5B"
@@ -33048,7 +33066,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 189025,
       "name": "Vete",
       "url": "https://open.spotify.com/track/6cZcn282SIMmuO8FHN8634"

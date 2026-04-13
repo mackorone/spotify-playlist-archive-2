@@ -1569,6 +1569,28 @@
     },
     {
       "album": {
+        "name": "BULLY",
+        "url": "https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ye",
+          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127012,
+      "name": "I CAN\u2019T WAIT",
+      "url": "https://open.spotify.com/track/163l4Itf8oDEK7ZYdVm22N"
+    },
+    {
+      "album": {
         "name": "I Love It",
         "url": "https://open.spotify.com/album/185Tm1g5U7eMOrm3m9SQUh"
       },
@@ -1690,7 +1712,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 126868,
       "name": "KING",
       "url": "https://open.spotify.com/track/4LP6bmyAxdMNrqUrMpaVQ8"

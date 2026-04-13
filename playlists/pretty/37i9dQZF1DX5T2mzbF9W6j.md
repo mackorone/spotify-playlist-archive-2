@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 
 > Wyzwania, cele, zadania, spotkania, dedlajny… ale najpierw kawa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,482 likes - 60 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,479 likes - 60 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 47 | [To nie mój dzień](https://open.spotify.com/track/3Z5WyUk3XKmKGcy7ZC6tIg) | [maks.tachasiuk](https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz) | [To nie mój dzień](https://open.spotify.com/album/2REeCbG3cLIqnGRTQ7TgUa) | 3:43 |
 | 48 | [Po blady świt](https://open.spotify.com/track/66JVsDHnnrvcbDci9qLYMO) | [Wiktoria Kida](https://open.spotify.com/artist/6EuekoOKebcHJWIqHuBK0H), [Księga Żywiołów](https://open.spotify.com/artist/1TqYSOMq3DVt2cUERdU4v5) | [Po blady świt](https://open.spotify.com/album/33CEjHlVgmCZ6CHbIGSwUc) | 2:36 |
 | 49 | [Codzienność \(Pamiętaj Nas\)](https://open.spotify.com/track/0XY68QmJAUqzRCIHS5xEEp) | [Roxie](https://open.spotify.com/artist/6Lf4vAUaFUR2jAsybC7cGV) | [Codzienność \(Pamiętaj Nas\)](https://open.spotify.com/album/6lLQXfC2VHLdrEbAdn1m4m) | 2:37 |
-| 50 | [jet lag](https://open.spotify.com/track/3sed9wzJ2oYb7dr9lWtgVH) | [Lor](https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx) | [jet lag](https://open.spotify.com/album/0T5gxTSQ6mwKCAY19q4Z8p) | 3:21 |
-| 51 | [Jak to jest](https://open.spotify.com/track/3b3XIBnhmU4zAt9vddjVvh) | [Zuza Jabłońska](https://open.spotify.com/artist/2obyllmx54A5zB0yZe5ikt), [Michał Szczygieł](https://open.spotify.com/artist/3LnV4Ef0wfc2ATFF4IAW5z) | [Jak to jest](https://open.spotify.com/album/0azwKn7dzVNHDTtc8P60uO) | 3:32 |
+| 50 | [Jak to jest](https://open.spotify.com/track/3b3XIBnhmU4zAt9vddjVvh) | [Zuza Jabłońska](https://open.spotify.com/artist/2obyllmx54A5zB0yZe5ikt), [Michał Szczygieł](https://open.spotify.com/artist/3LnV4Ef0wfc2ATFF4IAW5z) | [Jak to jest](https://open.spotify.com/album/0azwKn7dzVNHDTtc8P60uO) | 3:32 |
+| 51 | [jet lag](https://open.spotify.com/track/3sed9wzJ2oYb7dr9lWtgVH) | [Lor](https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx) | [jet lag](https://open.spotify.com/album/0T5gxTSQ6mwKCAY19q4Z8p) | 3:21 |
 | 52 | [TOKSYNA](https://open.spotify.com/track/2eJnIhTFimR9GSXQIeXqRZ) | [Aron x Krux](https://open.spotify.com/artist/3bEHrOv4S7ITrX3PAt4HwP), [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id), [Bajorson](https://open.spotify.com/artist/3kLH6xiJVhBa6JOqS3x7RS) | [TOKSYNA](https://open.spotify.com/album/18b8YnPhpv0CDkFPLIR3sF) | 3:36 |
 | 53 | [Wild Guess](https://open.spotify.com/track/3yEBtdO34T5kdnabqZJawn) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Wild Guess](https://open.spotify.com/album/1gfZZDAAhIEZInvGnmkdlU) | 2:46 |
 | 54 | [Ciebie brak](https://open.spotify.com/track/1jQSDt9npU5n6HEfCKsokt) | [DrySkull](https://open.spotify.com/artist/3wdl0d5sycxPazuAEBTxEp), [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [SALON](https://open.spotify.com/album/19oOJv14gKILUG9Re8O7SW) | 3:18 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 56 | [Hot!](https://open.spotify.com/track/3FEWfnYH4NG3iBsWySY3gh) | [Chloe Parché](https://open.spotify.com/artist/6jCOKlQ9OBPbQgPoZ3haov), [Holly Hebe](https://open.spotify.com/artist/3K511ClkYJM2a9tcaf2R3t) | [Hot!](https://open.spotify.com/album/45LEesLYqM29tkihh8Yyr0) | 2:45 |
 | 57 | [Brightest Light](https://open.spotify.com/track/1X4Kx55UM4DAJeT959ygCp) | [Marianna Kłos](https://open.spotify.com/artist/1LzuKwjwmNPQWitkdaqtUc) | [Brightest Light](https://open.spotify.com/album/4RiEtMATsrsD2IqEkzGq3h) | 3:00 |
 | 58 | [Więcej nas](https://open.spotify.com/track/0pN5F4nvvnB2ZYb9AhKMJ4) | [Kuba i Kuba](https://open.spotify.com/artist/43i9C47bAIVm8jKgEKYPfh), [EMO](https://open.spotify.com/artist/0ORYVI6HcOBBPflrE4EcQM) | [Więcej nas](https://open.spotify.com/album/6f0unjJ3i3i2jCOoCvsIvx) | 3:01 |
-| 59 | [Miłość](https://open.spotify.com/track/2YnL8a427pWbqpD0MaDqN8) | [Carla Fernandes](https://open.spotify.com/artist/2PowY1osU1K9Qa8d1fn0PF) | [Miłość](https://open.spotify.com/album/0MJEPm7El9dzvZ6pbgGojG) | 2:56 |
-| 60 | [Hiroszima, mon amour](https://open.spotify.com/track/3gMwIRYyZV3hpE5WhBCkNQ) | [Lordofon](https://open.spotify.com/artist/7G3hAQixY7DIAGTgA2GU99) | [Niesamowita Trupa Pana Hiroszimy](https://open.spotify.com/album/0keblXeuVMoglZxtBUGYfE) | 3:31 |
+| 59 | [na zabój](https://open.spotify.com/track/4s6TSLuS5vJv1tmSSSuCXk) | [majtis](https://open.spotify.com/artist/0x85f5ZhAe1Oj4CTnWEPtv), [Alien BSC](https://open.spotify.com/artist/33wR1nI0o5pJgyl4ft8BWT), [samunowak](https://open.spotify.com/artist/0MYLB6VEVrATlmgPaBoQmt) | [na zabój](https://open.spotify.com/album/7MINDF0PK3Jj9Rp2yJAPaj) | 3:45 |
+| 60 | [Miłość](https://open.spotify.com/track/2YnL8a427pWbqpD0MaDqN8) | [Carla Fernandes](https://open.spotify.com/artist/2PowY1osU1K9Qa8d1fn0PF) | [Miłość](https://open.spotify.com/album/0MJEPm7El9dzvZ6pbgGojG) | 2:56 |
 
 Snapshot ID: `AAAAAAYXEZsGr0UY1FXa74jOeVSy76u+`

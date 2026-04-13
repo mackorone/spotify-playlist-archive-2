@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3JMTGb.md) - [plain]
 
 > This is Sofie Birch\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 189 likes - 45 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 189 likes - 45 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3JMTGb.md) - [plain]
 | 16 | [Sudany](https://open.spotify.com/track/326g4y565ibUjF0L7iOdcN) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Antonina Nowacka](https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR) | [Languoria](https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf) | 4:20 |
 | 17 | [Surface Pan](https://open.spotify.com/track/0fsRZR40GASck3rxMJerWT) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [A\. Fabrin](https://open.spotify.com/artist/07PhwJWSOqFgvFD1R0zEJK) | [Holotropica](https://open.spotify.com/album/2W4n1zPDKzqGpbMKU21mBu) | 5:11 |
 | 18 | [Comes with sunrise](https://open.spotify.com/track/5b5vEwdcHP6UFP6yoWIHgB) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Antonina Nowacka](https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR) | [Hiraeth](https://open.spotify.com/album/20U2RJ45XybSkpZJLwPjUf) | 3:19 |
-| 19 | [Myg](https://open.spotify.com/track/5Duc5JGiBxkKMueTcdgPzp) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Island Alchemy](https://open.spotify.com/album/1ERBT1FkGAKPslESZgxWKS) | 10:18 |
-| 20 | [Sugi](https://open.spotify.com/track/1abxSo1leLk7qdlZaKg2mN) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Johan Carøe](https://open.spotify.com/artist/3l6IHjr0ouXmcLF1eY1Kxw) | [Calibrating Senses](https://open.spotify.com/album/4bkwSPS4JuOPwU9eoCpb7Z) | 3:52 |
+| 19 | [Sugi](https://open.spotify.com/track/1abxSo1leLk7qdlZaKg2mN) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Johan Carøe](https://open.spotify.com/artist/3l6IHjr0ouXmcLF1eY1Kxw) | [Calibrating Senses](https://open.spotify.com/album/4bkwSPS4JuOPwU9eoCpb7Z) | 3:52 |
+| 20 | [Myg](https://open.spotify.com/track/5Duc5JGiBxkKMueTcdgPzp) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Island Alchemy](https://open.spotify.com/album/1ERBT1FkGAKPslESZgxWKS) | 10:18 |
 | 21 | [Observatory](https://open.spotify.com/track/6DE8VAI99LyIJ16anacufA) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Nana Pi](https://open.spotify.com/artist/3gbm3E5mVftZywfgEysN6I) | [Holotropica](https://open.spotify.com/album/2W4n1zPDKzqGpbMKU21mBu) | 5:52 |
 | 22 | [Suosan](https://open.spotify.com/track/1llnPZqIqkfdC5ThZs62fR) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Antonina Nowacka](https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR) | [Hiraeth](https://open.spotify.com/album/20U2RJ45XybSkpZJLwPjUf) | 3:38 |
 | 23 | [Me of Ocean](https://open.spotify.com/track/6BTjfobE7U53Wd6IMEw4bT) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Antonina Nowacka](https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR) | [Languoria](https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf) | 1:41 |
@@ -47,11 +47,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3JMTGb.md) - [plain]
 | 37 | [Runge](https://open.spotify.com/track/1ox3vHoIccsiV7t86Zw3RF) | [OTOOTO](https://open.spotify.com/artist/4bTgYIf70ESA9P1HYj7chQ), [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [2nd Quake](https://open.spotify.com/album/0e7lXXUdpt9aBP6neNLolB) | 3:54 |
 | 38 | [Hills Bells Mother](https://open.spotify.com/track/7fATVAuieODEabRB4txujc) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Planetes](https://open.spotify.com/album/7mgSukUn1BYjvnzNWCruCf) | 11:52 |
 | 39 | [Mu Evans](https://open.spotify.com/track/2LVsWugKQqpmM8oo2mIF3Q) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Island Alchemy](https://open.spotify.com/album/1ERBT1FkGAKPslESZgxWKS) | 5:44 |
-| 40 | [Arch](https://open.spotify.com/track/7J3rIJQfGotyvvtYD7ncYC) | [OTOOTO](https://open.spotify.com/artist/4bTgYIf70ESA9P1HYj7chQ), [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [2nd Quake](https://open.spotify.com/album/0e7lXXUdpt9aBP6neNLolB) | 4:08 |
+| 40 | [Lace](https://open.spotify.com/track/5PEiAHjdDWcyzVfY7b63o6) | [OTOOTO](https://open.spotify.com/artist/4bTgYIf70ESA9P1HYj7chQ), [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [2nd Quake](https://open.spotify.com/album/0e7lXXUdpt9aBP6neNLolB) | 3:05 |
 | 41 | [Myrian Myriad](https://open.spotify.com/track/2yrejC1lOTJ7eCcQXRar6v) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Planetes](https://open.spotify.com/album/7mgSukUn1BYjvnzNWCruCf) | 11:28 |
-| 42 | [Lace](https://open.spotify.com/track/5PEiAHjdDWcyzVfY7b63o6) | [OTOOTO](https://open.spotify.com/artist/4bTgYIf70ESA9P1HYj7chQ), [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [2nd Quake](https://open.spotify.com/album/0e7lXXUdpt9aBP6neNLolB) | 3:05 |
-| 43 | [Reverie](https://open.spotify.com/track/6npTUba77dx5CHI2nN3lfZ) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Planetes](https://open.spotify.com/album/7mgSukUn1BYjvnzNWCruCf) | 7:12 |
-| 44 | [2nd Quake](https://open.spotify.com/track/6BA5BBreQeelzjmpZSSlUv) | [OTOOTO](https://open.spotify.com/artist/4bTgYIf70ESA9P1HYj7chQ), [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [2nd Quake](https://open.spotify.com/album/0e7lXXUdpt9aBP6neNLolB) | 5:18 |
-| 45 | [Return from Silence](https://open.spotify.com/track/2ZRQeRdVWghcc42LGUEWUN) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Planetes](https://open.spotify.com/album/7mgSukUn1BYjvnzNWCruCf) | 5:11 |
+| 42 | [Net \(Neverendingthing\)](https://open.spotify.com/track/1cw9KWKpaqFS2c8HFV27zV) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Island Alchemy](https://open.spotify.com/album/1ERBT1FkGAKPslESZgxWKS) | 6:04 |
+| 43 | [Arch](https://open.spotify.com/track/7J3rIJQfGotyvvtYD7ncYC) | [OTOOTO](https://open.spotify.com/artist/4bTgYIf70ESA9P1HYj7chQ), [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [2nd Quake](https://open.spotify.com/album/0e7lXXUdpt9aBP6neNLolB) | 4:08 |
+| 44 | [Return from Silence](https://open.spotify.com/track/2ZRQeRdVWghcc42LGUEWUN) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Planetes](https://open.spotify.com/album/7mgSukUn1BYjvnzNWCruCf) | 5:11 |
+| 45 | [2nd Quake](https://open.spotify.com/track/6BA5BBreQeelzjmpZSSlUv) | [OTOOTO](https://open.spotify.com/artist/4bTgYIf70ESA9P1HYj7chQ), [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [2nd Quake](https://open.spotify.com/album/0e7lXXUdpt9aBP6neNLolB) | 5:18 |
 
-Snapshot ID: `adg9gAAAAADGcYgboWmuYzoW8tv4Ly3i`
+Snapshot ID: `admPAAAAAAAh94q6u/6FX0/8X1PggI4T`

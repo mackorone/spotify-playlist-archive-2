@@ -4,7 +4,7 @@
 
 > This is claire rousay\. The essential tracks, all in one playlist.
 
-66 songs - 4 hr 33 min
+67 songs - 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [nothing to dread](https://open.spotify.com/track/75LCHnJsoQmdO2FjDzLzZG) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq), [Gretchen Korsmo](https://open.spotify.com/artist/2uTkkIkIpbQu3JT0UF1K5C) | [quilted lament](https://open.spotify.com/album/2ogzCBbtEUE7oR23z7RAwa) | 3:45 | 2026-03-04 |  |
 | [peak chroma](https://open.spotify.com/track/3gilVyIpVQJ8FnF0kPBN7B) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [a softer focus](https://open.spotify.com/album/7C5oqO91QIUG6ZUJqQIRNv) | 8:48 | 2026-03-22 | 2026-03-28 |
 | [please 5 more minutes \(feat\. Lala Lala\)](https://open.spotify.com/track/268XYupMBlKQBHb3m4BIRS) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq), [Lala Lala](https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE) | [sentiment](https://open.spotify.com/album/0QhdOeubTOElMLAVK52uQu) | 4:50 | 2026-03-04 |  |
+| [preston ave](https://open.spotify.com/track/1LNslfIGvQhnJsgkEhkWx7) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [a softer focus](https://open.spotify.com/album/7C5oqO91QIUG6ZUJqQIRNv) | 1:36 | 2026-04-13 |  |
 | [Sad Gondola](https://open.spotify.com/track/7iqfr6tzyzTl1KKrrAk5MQ) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq), [More Eaze](https://open.spotify.com/artist/0noDJa3OSog9g1jqw5VygY), [Bloodz Boi](https://open.spotify.com/artist/1U21I6Gqa4EyPwf7hJ1Phg) | [a crying poem](https://open.spotify.com/album/2MbJeHsvvUkpKfXYpuErfZ) | 1:58 | 2026-03-05 |  |
 | [Sigh In My Ear](https://open.spotify.com/track/1QpCbUoRX9cbc5JEzN1u62) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [Sigh In My Ear](https://open.spotify.com/album/3SrHRw7oJL9lD7w7FHOcwV) | 5:22 | 2026-03-04 | 2026-03-13 |
 | [Sleepwalking](https://open.spotify.com/track/6IiykhtRMTSvCl2fWAZVV1) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq), [More Eaze](https://open.spotify.com/artist/0noDJa3OSog9g1jqw5VygY), [Bloodz Boi](https://open.spotify.com/artist/1U21I6Gqa4EyPwf7hJ1Phg) | [a crying poem](https://open.spotify.com/album/2MbJeHsvvUkpKfXYpuErfZ) | 2:53 | 2026-03-04 | 2026-04-11 |
@@ -61,7 +62,7 @@
 | [spiral branches](https://open.spotify.com/track/6WWDUkgLxrd3bIaJB1fqZo) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq), [Gretchen Korsmo](https://open.spotify.com/artist/2uTkkIkIpbQu3JT0UF1K5C) | [quilted lament](https://open.spotify.com/album/2ogzCBbtEUE7oR23z7RAwa) | 3:21 | 2026-03-04 |  |
 | [stoned gesture](https://open.spotify.com/track/596Te3MjCbYJ3keibf780e) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [a softer focus](https://open.spotify.com/album/7C5oqO91QIUG6ZUJqQIRNv) | 4:49 | 2026-03-16 | 2026-03-19 |
 | [sunday morning](https://open.spotify.com/track/1y3ncUHQxY9lldcVALuald) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq), [Gretchen Korsmo](https://open.spotify.com/artist/2uTkkIkIpbQu3JT0UF1K5C) | [quilted lament](https://open.spotify.com/album/2ogzCBbtEUE7oR23z7RAwa) | 5:38 | 2026-03-12 | 2026-04-11 |
-| [swipe](https://open.spotify.com/track/6XJD626FozKijPwvjYd5PU) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [a heavenly touch](https://open.spotify.com/album/7aCRkYxkwloBzHpnL9yIME) | 0:37 | 2026-04-03 |  |
+| [swipe](https://open.spotify.com/track/6XJD626FozKijPwvjYd5PU) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [a heavenly touch](https://open.spotify.com/album/7aCRkYxkwloBzHpnL9yIME) | 0:37 | 2026-04-03 | 2026-04-13 |
 | [sycamore skylight](https://open.spotify.com/track/6HoYOmVHh3MbPhynnidIby) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [sentiment](https://open.spotify.com/album/0QhdOeubTOElMLAVK52uQu) | 5:07 | 2026-03-04 |  |
 | [taxi ride](https://open.spotify.com/track/227JdI6YbCsiGH6EcjYW68) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [a heavenly touch](https://open.spotify.com/album/7aCRkYxkwloBzHpnL9yIME) | 1:39 | 2026-04-01 |  |
 | [the applebees outside kalamazoo, michigan](https://open.spotify.com/track/1sglt5KUOn9N3kZm6GuV8U) | [More Eaze](https://open.spotify.com/artist/0noDJa3OSog9g1jqw5VygY), [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [no floor](https://open.spotify.com/album/4LRwW5laUnoamagLHKENzG) | 5:57 | 2026-03-04 |  |

@@ -1391,6 +1391,24 @@
     },
     {
       "album": {
+        "name": "Fade Into White Noise",
+        "url": "https://open.spotify.com/album/6S74CUcB4auM9ffN81Oy1O"
+      },
+      "artists": [
+        {
+          "name": "Ozonezzz",
+          "url": "https://open.spotify.com/artist/3D4ZyZNY4vP7YHF9CtWQzZ"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Fade Into White Noise",
+      "url": "https://open.spotify.com/track/3zVg3dXijjjalH2iVchs45"
+    },
+    {
+      "album": {
         "name": "Velara (Ambient Noise)",
         "url": "https://open.spotify.com/album/2lRl9BdFLHc3jtZzAEteCX"
       },
@@ -5974,7 +5992,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 125220,
       "name": "White Noise in der Grotte",
       "url": "https://open.spotify.com/track/2Qh0vgdqdOr0g5C1ysGMzg"

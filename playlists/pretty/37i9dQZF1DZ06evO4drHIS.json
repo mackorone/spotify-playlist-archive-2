@@ -1,12 +1,12 @@
 {
   "description": "This is Majo Aguilar. The essential tracks, all in one playlist.",
-  "num_followers": 19420,
+  "num_followers": 19427,
   "original_name": "This Is Majo Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adg9gAAAAAD74IaNHocq2OQOnFp+eWnc",
+  "snapshot_id": "admPAAAAAABH+bfb9YvCX5iUHkTCz7y2",
   "tracks": [
     {
       "added_at": null,
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00e9xico Mi Amor",
-        "url": "https://open.spotify.com/album/461W4AUSlc1f345rMxDzMg"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 281560,
-      "name": "Cucurrucuc\u00fa Paloma",
-      "url": "https://open.spotify.com/track/3srZIe4lQlKPMBY6NMOJgc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Ning\u00fan Lugar",
         "url": "https://open.spotify.com/album/4nprLl0cQBLb3YS2FmcTYR"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 167156,
       "name": "A Ning\u00fan Lugar",
       "url": "https://open.spotify.com/track/5EQYAVVQZe9EI5AMjkkqA8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "M\u00e9xico Mi Amor",
+        "url": "https://open.spotify.com/album/461W4AUSlc1f345rMxDzMg"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 281560,
+      "name": "Cucurrucuc\u00fa Paloma",
+      "url": "https://open.spotify.com/track/3srZIe4lQlKPMBY6NMOJgc"
     },
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mariachi Y Tequila",
-        "url": "https://open.spotify.com/album/6qgjHcLSRHblBP7T2UyVGu"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 185346,
-      "name": "Se Solicita",
-      "url": "https://open.spotify.com/track/572C9YliZ90R176sy2702N"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Se Canta Con El Coraz\u00f3n",
         "url": "https://open.spotify.com/album/3eLptwXDjQjRRXdDTxpKKd"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 224120,
       "name": "Mor\u00ed",
       "url": "https://open.spotify.com/track/6MTT7GTR2LCR5jvy0CFJiV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mariachi Y Tequila",
+        "url": "https://open.spotify.com/album/6qgjHcLSRHblBP7T2UyVGu"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 185346,
+      "name": "Se Solicita",
+      "url": "https://open.spotify.com/track/572C9YliZ90R176sy2702N"
     },
     {
       "added_at": null,
@@ -511,26 +511,6 @@
       "duration_ms": 223960,
       "name": "Ac\u00e1 Entre Nos - En Vivo Desde Pa\u2019l Norte",
       "url": "https://open.spotify.com/track/6Bb9shiyxV9Oy7ppVpNZAw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mi Meta Contigo (Versi\u00f3n Mariachi)",
-        "url": "https://open.spotify.com/album/3cJhX1Yrdox0e3HSawIePg"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
-          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
-        },
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 188066,
-      "name": "Mi Meta Contigo - Versi\u00f3n Mariachi",
-      "url": "https://open.spotify.com/track/5DUGx0K4LR3aRPDFphYNzf"
     },
     {
       "added_at": null,
@@ -571,6 +551,26 @@
       "duration_ms": 233091,
       "name": "Un Beso a Medias",
       "url": "https://open.spotify.com/track/4uxoOEL8pPgCIQrkjq3INi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Meta Contigo (Versi\u00f3n Mariachi)",
+        "url": "https://open.spotify.com/album/3cJhX1Yrdox0e3HSawIePg"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        },
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 188066,
+      "name": "Mi Meta Contigo - Versi\u00f3n Mariachi",
+      "url": "https://open.spotify.com/track/5DUGx0K4LR3aRPDFphYNzf"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Canta Con El Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/3eLptwXDjQjRRXdDTxpKKd"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 239453,
-      "name": "No Te Apartes De M\u00ed",
-      "url": "https://open.spotify.com/track/1YVXnczV8oqpMqn8RVsW35"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pa'l Norte (En Vivo Desde Pa\u2019l Norte)",
         "url": "https://open.spotify.com/album/0iZIWj3Tkg2Ja7d45qPm0g"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 199973,
       "name": "\u00c9chame A M\u00ed La Culpa - En Vivo Desde Pa\u2019l Norte",
       "url": "https://open.spotify.com/track/2FR0aP9ppAiu2LYH122ZFa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Se Canta Con El Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/3eLptwXDjQjRRXdDTxpKKd"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 239453,
+      "name": "No Te Apartes De M\u00ed",
+      "url": "https://open.spotify.com/track/1YVXnczV8oqpMqn8RVsW35"
     },
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mariachi Y Tequila",
-        "url": "https://open.spotify.com/album/6qgjHcLSRHblBP7T2UyVGu"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 180320,
-      "name": "Cuando Hablo De Ti",
-      "url": "https://open.spotify.com/track/62FakRf9Vkz5KlOCYNFORi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Se Canta Con El Coraz\u00f3n (Deluxe)",
         "url": "https://open.spotify.com/album/1zTVZRbaClXtUAt9s6tdSg"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 162146,
       "name": "Como T\u00fa",
       "url": "https://open.spotify.com/track/5qOQu5mjGoOd1vu7UHfbvD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mariachi Y Tequila",
+        "url": "https://open.spotify.com/album/6qgjHcLSRHblBP7T2UyVGu"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 180320,
+      "name": "Cuando Hablo De Ti",
+      "url": "https://open.spotify.com/track/62FakRf9Vkz5KlOCYNFORi"
     },
     {
       "added_at": null,

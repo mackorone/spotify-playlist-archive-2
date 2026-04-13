@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 
 > All new Worship songs on the rise! Cover: Jon Reddick & Janice Gaines
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,364 likes - 100 songs - 8 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,376 likes - 100 songs - 8 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

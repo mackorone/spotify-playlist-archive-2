@@ -1369,6 +1369,28 @@
     },
     {
       "album": {
+        "name": "DAWN PATROL",
+        "url": "https://open.spotify.com/album/0DM6P83bgDbFuwNaZz09fh"
+      },
+      "artists": [
+        {
+          "name": "PARTY WAVE",
+          "url": "https://open.spotify.com/artist/6iQ0SOfahRnTthPNGhgzkB"
+        },
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125952,
+      "name": "SOULSHINE",
+      "url": "https://open.spotify.com/track/0fvskLBakfqcslW0RkB5JT"
+    },
+    {
+      "album": {
         "name": "California Cowboy",
         "url": "https://open.spotify.com/album/6WbSGtYjhsDT4sMbeONLBn"
       },

@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2019. Cover: James Blake",
-  "num_followers": 50970,
+  "num_followers": 50980,
   "original_name": "Best of Indie 2019",
   "owner": {
     "name": "Spotify",
@@ -423,22 +423,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "\"Let's Rock\"",
-        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 177768,
-      "name": "Lo/Hi",
-      "url": "https://open.spotify.com/track/25YlltWXRb9k7KbrEBRuhJ"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "The Slow Rush",
         "url": "https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL"
       },
@@ -455,18 +439,18 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Habit",
-        "url": "https://open.spotify.com/album/2vIIWsslRiFHiHPWFTsdaE"
+        "name": "\"Let's Rock\"",
+        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
       },
       "artists": [
         {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 153871,
-      "name": "Habit",
-      "url": "https://open.spotify.com/track/4BsLwvaJOTOHDNg7xMpvrL"
+      "duration_ms": 177768,
+      "name": "Lo/Hi",
+      "url": "https://open.spotify.com/track/25YlltWXRb9k7KbrEBRuhJ"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -487,6 +471,22 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
+        "name": "Habit",
+        "url": "https://open.spotify.com/album/2vIIWsslRiFHiHPWFTsdaE"
+      },
+      "artists": [
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+        }
+      ],
+      "duration_ms": 153871,
+      "name": "Habit",
+      "url": "https://open.spotify.com/track/4BsLwvaJOTOHDNg7xMpvrL"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
         "name": "Father of the Bride",
         "url": "https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ"
       },
@@ -503,22 +503,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "\"Let's Rock\"",
-        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 196776,
-      "name": "Shine A Little Light",
-      "url": "https://open.spotify.com/track/365TSrFPqM66giaxJuafR3"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "Violet Street",
         "url": "https://open.spotify.com/album/0ORZb7kyr8aaP2LpL3mhuY"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 264213,
       "name": "When Am I Gonna Lose You",
       "url": "https://open.spotify.com/track/5wCVLW9qMtIY9IkBeyYnh6"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "\"Let's Rock\"",
+        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 196776,
+      "name": "Shine A Little Light",
+      "url": "https://open.spotify.com/track/365TSrFPqM66giaxJuafR3"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/00sZIJm0igl6aBYNktEuSy"
+      },
+      "artists": [
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "duration_ms": 156293,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/711gGx1GpUv9YW9KTSfJfH"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
         "name": "Someone To Spend Time With",
         "url": "https://open.spotify.com/album/7MNOeNJ9RJgDJ2EPEbsIRv"
       },
@@ -1439,22 +1455,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Titanic Rising",
-        "url": "https://open.spotify.com/album/53VKICyqCf91sVkTdFrzKX"
-      },
-      "artists": [
-        {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
-        }
-      ],
-      "duration_ms": 280186,
-      "name": "Andromeda",
-      "url": "https://open.spotify.com/track/3NQMi6VzmxmKeqhcbE02WI"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "i,i",
         "url": "https://open.spotify.com/album/54DU59anGQsdrFP7utpshG"
       },
@@ -1467,6 +1467,22 @@
       "duration_ms": 262266,
       "name": "Naeem",
       "url": "https://open.spotify.com/track/1ff60tDWdcdVN6PtKQXWny"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "Titanic Rising",
+        "url": "https://open.spotify.com/album/53VKICyqCf91sVkTdFrzKX"
+      },
+      "artists": [
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "duration_ms": 280186,
+      "name": "Andromeda",
+      "url": "https://open.spotify.com/track/3NQMi6VzmxmKeqhcbE02WI"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1519,22 +1535,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Lovestained",
-        "url": "https://open.spotify.com/album/7navB8hDkagN6t01k7dBBx"
-      },
-      "artists": [
-        {
-          "name": "Hope Tala",
-          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
-        }
-      ],
-      "duration_ms": 175280,
-      "name": "Lovestained",
-      "url": "https://open.spotify.com/track/4cTPtlhSo6NDdOe1fXzx1N"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "i,i",
         "url": "https://open.spotify.com/album/54DU59anGQsdrFP7utpshG"
       },
@@ -1547,6 +1547,22 @@
       "duration_ms": 145720,
       "name": "U (Man Like)",
       "url": "https://open.spotify.com/track/2a8HLMRc6E0AM4xXiQ4wh6"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "Lovestained",
+        "url": "https://open.spotify.com/album/7navB8hDkagN6t01k7dBBx"
+      },
+      "artists": [
+        {
+          "name": "Hope Tala",
+          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
+        }
+      ],
+      "duration_ms": 175280,
+      "name": "Lovestained",
+      "url": "https://open.spotify.com/track/4cTPtlhSo6NDdOe1fXzx1N"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1627,22 +1643,6 @@
       "duration_ms": 274995,
       "name": "Do You Love Her Now",
       "url": "https://open.spotify.com/track/13JjdKeIUy6P916p3MemXn"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
-        "name": "Reward",
-        "url": "https://open.spotify.com/album/1et95HstXof7uDcKgCkwXw"
-      },
-      "artists": [
-        {
-          "name": "Cate Le Bon",
-          "url": "https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G"
-        }
-      ],
-      "duration_ms": 258143,
-      "name": "Daylight Matters",
-      "url": "https://open.spotify.com/track/7F3YjEMKZC8ovV7sCpZcRW"
     }
   ],
   "unique_name": "Best of Indie 2019",

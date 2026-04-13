@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 
 > أقوى تراكات الهيب هوب في مصر\. الغلاف: موند
 
-[Spotify](https://open.spotify.com/user/spotify) - 421,172 likes - 40 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 421,229 likes - 40 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 | 12 | [البوصلة ضاعت](https://open.spotify.com/track/3OFejsaM3NDkclJg3rjWI2) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [البوصلة ضاعت](https://open.spotify.com/album/17E04dwaT5vHAHsuviwYPB) | 3:29 |
 | 13 | [Nasser](https://open.spotify.com/track/6JcdmDmB9EV7wFYxbwa8xa) | [Nasser](https://open.spotify.com/artist/2oVmRIBicoQpEtrwww7dJO), [Kay](https://open.spotify.com/artist/2ZizUpffI2ErDfcsqrRGoG) | [Nasser](https://open.spotify.com/album/6f8XAV4PBmAmbP3OPwR7ST) | 2:52 |
 | 14 | [AGBHA](https://open.spotify.com/track/32dRw90vVNSP6gnBlqBhIE) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM), [5mstashr](https://open.spotify.com/artist/6Tg1CwS2wxOOkCoqtiIR3b) | [AGBHA](https://open.spotify.com/album/4hMLvzASFdpJO6kNXwQ1zq) | 3:08 |
-| 15 | [Kadaba](https://open.spotify.com/track/0WqqQ8uHKDbkPbo2ASI9U6) | [Karim Osama](https://open.spotify.com/artist/4bQtsYtDirwKccFyRXzwUW) | [Kadaba](https://open.spotify.com/album/3L1t71V8i7ZGFJOTy6cYYg) | 2:55 |
+| 15 | [Kadaba](https://open.spotify.com/track/0WqqQ8uHKDbkPbo2ASI9U6) | [Karim Osama](https://open.spotify.com/artist/4bQtsYtDirwKccFyRXzwUW) | [Kadaba](https://open.spotify.com/album/3L1t71V8i7ZGFJOTy6cYYg) | 2:56 |
 | 16 | [CTRL](https://open.spotify.com/track/6gDd7m57FDznq1nSj57gr0) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [CTRL](https://open.spotify.com/album/6l7XOSo5G7ojctbfquMChn) | 3:05 |
 | 17 | [Hal Di Kat Hayatak](https://open.spotify.com/track/1yMQB6P1oDgyslXYRaEH2K) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Hal Di Kat Hayatak](https://open.spotify.com/album/4i13QTb6JSiChncGZz4OiH) | 2:58 |
 | 18 | [Noor Ainy \(feat\. Humood Al Semah\)](https://open.spotify.com/track/7uIZXZsGhD45EPW2ddLlqV) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [Humood Al Semah](https://open.spotify.com/artist/7wqfvkzzqiZy9ooItf0n9h) | [Aqareb \(Side B\)](https://open.spotify.com/album/0N7f8HwliUbikVCIfogDgv) | 3:39 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Bruna Karla. The essential tracks, all in one playlist.",
-  "num_followers": 132815,
+  "num_followers": 132807,
   "original_name": "This Is Bruna Karla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adg9gAAAAABK1Sy67N6wR0DC823/+Oiw",
+  "snapshot_id": "admPAAAAAAB9Faq8EliTfUk+VPto8Zvz",
   "tracks": [
     {
       "added_at": null,
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Com os Olhos da F\u00e9",
-        "url": "https://open.spotify.com/album/2BhLfjpZAEHo39gGsDcenk"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 278593,
-      "name": "Eu Sei que N\u00e3o Estou S\u00f3",
-      "url": "https://open.spotify.com/track/3vX8jNhUlTJSeI6iuVd5Fd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
         "url": "https://open.spotify.com/album/0iyu4WKKT4CU62Z0E5sHBm"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 328753,
       "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
       "url": "https://open.spotify.com/track/0lINGdR92RntRrkpkUQ6Gh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Com os Olhos da F\u00e9",
+        "url": "https://open.spotify.com/album/2BhLfjpZAEHo39gGsDcenk"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 278593,
+      "name": "Eu Sei que N\u00e3o Estou S\u00f3",
+      "url": "https://open.spotify.com/track/3vX8jNhUlTJSeI6iuVd5Fd"
     },
     {
       "added_at": null,
@@ -831,6 +831,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Como \u00c1guia.",
+        "url": "https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 278500,
+      "name": "Toca-me, Pai",
+      "url": "https://open.spotify.com/track/0W9Sjpu4N5dTq4LsvDNo18"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "10 Anos (Ao Vivo)",
         "url": "https://open.spotify.com/album/4sAqEgbJ67S6lA2LeVu0nv"
       },
@@ -851,8 +867,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como \u00c1guia.",
-        "url": "https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH"
+        "name": "Alegria Real",
+        "url": "https://open.spotify.com/album/6Rn8MMSrj193ofYERw8Osp"
       },
       "artists": [
         {
@@ -860,9 +876,9 @@
           "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         }
       ],
-      "duration_ms": 278500,
-      "name": "Toca-me, Pai",
-      "url": "https://open.spotify.com/track/0W9Sjpu4N5dTq4LsvDNo18"
+      "duration_ms": 308964,
+      "name": "Deus Tremendo",
+      "url": "https://open.spotify.com/track/7JNDE2MxMjsBq1Bsy4M4EK"
     },
     {
       "added_at": null,
@@ -883,38 +899,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Leva-me Ao Lugar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5oIiQFj1BsB0U8iA5F0yNd"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 332267,
-      "name": "Leva-me Ao Lugar - Ao Vivo",
-      "url": "https://open.spotify.com/track/6GDzuWdVeOV8BaJ0iuWv4n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alegria Real",
-        "url": "https://open.spotify.com/album/6Rn8MMSrj193ofYERw8Osp"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 308964,
-      "name": "Deus Tremendo",
-      "url": "https://open.spotify.com/track/7JNDE2MxMjsBq1Bsy4M4EK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eu Creio (Ao Vivo)",
         "url": "https://open.spotify.com/album/3sl8u53yQIpRQ5mj26brdI"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 321574,
       "name": "Eu Creio (Ao Vivo)",
       "url": "https://open.spotify.com/track/7EgXcH7sYVoWdaqkVF9FFr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Leva-me Ao Lugar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5oIiQFj1BsB0U8iA5F0yNd"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 332267,
+      "name": "Leva-me Ao Lugar - Ao Vivo",
+      "url": "https://open.spotify.com/track/6GDzuWdVeOV8BaJ0iuWv4n"
     }
   ],
   "unique_name": "This Is Bruna Karla",

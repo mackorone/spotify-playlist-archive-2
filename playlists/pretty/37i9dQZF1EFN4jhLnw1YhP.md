@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFN4jhLnw1YhP.md) - [plain]
 | 106 | [Stars](https://open.spotify.com/track/3mnToYOHkOq2xtTLSDLXYq) | [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Take What You Want, Do As You Please](https://open.spotify.com/album/5LHbBEPs1lSN7x3iW9DuMX) | 4:14 |
 | 107 | [Ripple](https://open.spotify.com/track/5K9wVa20dEVdqU0SEXFRVU) | [Lost Voice](https://open.spotify.com/artist/7aAaXn1p5LdxLIGqDuguGw) | [Ripple](https://open.spotify.com/album/4mCXYL78yDh115b3Otmurr) | 3:56 |
 
-Snapshot ID: `AcOmqAAAAABf83m+LAuhBfg1StMPXsmt`
+Snapshot ID: `AcOsSAAAAACdBjOLB34SMW6shytUjzun`

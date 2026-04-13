@@ -1,12 +1,12 @@
 {
   "description": "This is Amy Winehouse. The essential tracks, all in one playlist.",
-  "num_followers": 1201777,
+  "num_followers": 1201852,
   "original_name": "This Is Amy Winehouse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adg9gAAAAAC7/PERNpxlizh0tSRYKY4q",
+  "snapshot_id": "admPAAAAAABVGIVoenjKdwx3Qzro4r7O",
   "tracks": [
     {
       "added_at": null,
@@ -159,8 +159,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Frank (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2rWBGF3pKx8Jla9VYMQ8Xc"
+        "name": "Back To Black (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
       },
       "artists": [
         {
@@ -168,9 +168,9 @@
           "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
         }
       ],
-      "duration_ms": 209560,
-      "name": "What Is It About Men",
-      "url": "https://open.spotify.com/track/6QIdkhQ33eTSPBHu4NWl7l"
+      "duration_ms": 228853,
+      "name": "Cupid - Deluxe Edition Version",
+      "url": "https://open.spotify.com/track/5kG1ARHk8dli0bKiMN2oE6"
     },
     {
       "added_at": null,
@@ -191,22 +191,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duets II",
-        "url": "https://open.spotify.com/album/5ktAYFq8wJ1hcWHaxl6AQf"
+        "name": "Frank (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2rWBGF3pKx8Jla9VYMQ8Xc"
       },
       "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        },
         {
           "name": "Amy Winehouse",
           "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
         }
       ],
-      "duration_ms": 200586,
-      "name": "Body and Soul",
-      "url": "https://open.spotify.com/track/01hJnhpAmjzg85Etnz2ECH"
+      "duration_ms": 209560,
+      "name": "What Is It About Men",
+      "url": "https://open.spotify.com/track/6QIdkhQ33eTSPBHu4NWl7l"
     },
     {
       "added_at": null,
@@ -227,18 +223,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back To Black (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
+        "name": "Duets II",
+        "url": "https://open.spotify.com/album/5ktAYFq8wJ1hcWHaxl6AQf"
       },
       "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
         {
           "name": "Amy Winehouse",
           "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
         }
       ],
-      "duration_ms": 228853,
-      "name": "Cupid - Deluxe Edition Version",
-      "url": "https://open.spotify.com/track/5kG1ARHk8dli0bKiMN2oE6"
+      "duration_ms": 200586,
+      "name": "Body and Soul",
+      "url": "https://open.spotify.com/track/01hJnhpAmjzg85Etnz2ECH"
     },
     {
       "added_at": null,

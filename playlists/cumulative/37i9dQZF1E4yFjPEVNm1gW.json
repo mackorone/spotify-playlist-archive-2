@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-29",
-  "description": "With Yeat, Autumn!, Cuo Zay and more",
+  "description": "With Yeat, Cuo Zay, Autumn! and more",
   "name": "Taewitdak Radio",
   "tracks": [
     {
@@ -112,7 +112,7 @@
       ],
       "date_added": "2025-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 240000,
       "name": "Ain't No Love (feat. BabyChiefDoit & BAK Jay)",
       "url": "https://open.spotify.com/track/6bI8DN3LF8EzHkYbh065Ei"
@@ -398,7 +398,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 122483,
       "name": "BIG 3",
       "url": "https://open.spotify.com/track/62ymTJhwmpXPb2joOs1grs"
@@ -906,7 +906,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 88107,
       "name": "dior",
       "url": "https://open.spotify.com/track/3TRGoUJveuLgjNyfu7g68n"
@@ -1732,7 +1732,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 189231,
       "name": "king of the pumpkin patch",
       "url": "https://open.spotify.com/track/7yXA3nKDn6fZSj8IWpukUv"
@@ -2500,7 +2500,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 122298,
       "name": "Outta Time",
       "url": "https://open.spotify.com/track/14X6eTpHy7KBldsJwP1P4U"
@@ -2616,7 +2616,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-09",
+      "date_removed": null,
       "duration_ms": 161075,
       "name": "Price I Pay",
       "url": "https://open.spotify.com/track/6PKAfJPbZMOk2Zz9D8g0w4"
@@ -2728,6 +2728,24 @@
       "duration_ms": 212088,
       "name": "Purple Moncler",
       "url": "https://open.spotify.com/track/3PlxIlMXqw04F45yHM13mw"
+    },
+    {
+      "album": {
+        "name": "Real Talk",
+        "url": "https://open.spotify.com/album/1WzQqIOpYtVQ0XzgkWMzoJ"
+      },
+      "artists": [
+        {
+          "name": "Cuo Zay",
+          "url": "https://open.spotify.com/artist/6yFzNwvuceOObkopessurR"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146586,
+      "name": "Real Talk",
+      "url": "https://open.spotify.com/track/50ClQ5PTkY2Sc3f0ynVxis"
     },
     {
       "album": {
@@ -3178,6 +3196,24 @@
       "duration_ms": 168623,
       "name": "S\u00d8B",
       "url": "https://open.spotify.com/track/4nGVDgCX2QWDaM7tbkRTOM"
+    },
+    {
+      "album": {
+        "name": "Tag v2",
+        "url": "https://open.spotify.com/album/3E4YlOe4SLxhvym7yHqo1H"
+      },
+      "artists": [
+        {
+          "name": "Saltyngget",
+          "url": "https://open.spotify.com/artist/46GgJ6qHCR08sCvbJ1UJzy"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102452,
+      "name": "Tag v2",
+      "url": "https://open.spotify.com/track/3lLDeOxmhUOkZnr4J9Qqwb"
     },
     {
       "album": {

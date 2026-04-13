@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 
 > Muito romance, groove suave e R&B feitos no Brasil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,163 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,171 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 | 14 | [sinais](https://open.spotify.com/track/75YxsDYdCVXE8bYQtGFtJd) | [Nina](https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5), [Machadez](https://open.spotify.com/artist/1CbWrXtZpVnkN8cstE2VL2) | [rara e Brasileira](https://open.spotify.com/album/5ABMtrkmhOF0GiZjKaJIcr) | 3:43 |
 | 15 | [Bye Bye](https://open.spotify.com/track/0M8S97mIFkU6azMy1TGkmJ) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW) | [Amaríssima](https://open.spotify.com/album/73nud0IihzSauCk6AfYbLN) | 2:58 |
 | 16 | [Como Canta Gal](https://open.spotify.com/track/7IC9sOrydlTxfyAF8CM4mr) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Tudo Que Eu Sinto Faz Barulho](https://open.spotify.com/album/2aoEcifZSeLqfyFP9hrjl5) | 2:44 |
-| 17 | [Fiquei assim](https://open.spotify.com/track/4F9xeQ3OJF2DOtdZdcCxnz) | [THAMI](https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Fiquei assim](https://open.spotify.com/album/6lwP5k0KjFzM2Rk1sIdCfN) | 3:38 |
-| 18 | [Cola Comigo](https://open.spotify.com/track/1tByapKE4iJ52uQBc1V183) | [LUTHULY](https://open.spotify.com/artist/60FCr24uBUSiwk75v0vfVS) | [Cola Comigo](https://open.spotify.com/album/5eucL3nRasXK7SCOnOZjhw) | 3:28 |
+| 17 | [Cola Comigo](https://open.spotify.com/track/1tByapKE4iJ52uQBc1V183) | [LUTHULY](https://open.spotify.com/artist/60FCr24uBUSiwk75v0vfVS) | [Cola Comigo](https://open.spotify.com/album/5eucL3nRasXK7SCOnOZjhw) | 3:28 |
+| 18 | [Fiquei assim](https://open.spotify.com/track/4F9xeQ3OJF2DOtdZdcCxnz) | [THAMI](https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Fiquei assim](https://open.spotify.com/album/6lwP5k0KjFzM2Rk1sIdCfN) | 3:38 |
 | 19 | [Abre Alas](https://open.spotify.com/track/5fIxKygXuceGxfawPWrnni) | [Patricia Marx](https://open.spotify.com/artist/43bh4WLBq3yxN3kIucxnHE), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Abre Alas](https://open.spotify.com/album/5QbIpuG7a3X9d3ItR53zT5) | 5:11 |
 | 20 | [Gaveta/Onironauta](https://open.spotify.com/track/0hP16H5OZMQhBsNn4WBA5P) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW), [Allefez](https://open.spotify.com/artist/7duD30ScTFqtnbx6qfphSY) | [Amaríssima V2 \(Remix\)](https://open.spotify.com/album/7neKB5LSdNnYiuEUlCqWgm) | 3:45 |
 | 21 | [Castigo](https://open.spotify.com/track/7zYNzITyQ41bb17sN1lafK) | [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH) | [Castigo](https://open.spotify.com/album/02Ry1jkrrFAHXwtK70g0DO) | 2:25 |

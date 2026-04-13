@@ -1,6 +1,6 @@
 {
   "description": "Fantastiske viser fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 80841,
+  "num_followers": 80840,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-03-12 23:00:43",
       "album": {
-        "name": "Ta Meg Med",
-        "url": "https://open.spotify.com/album/3pWcFE43bLCUJhpuziIvHP"
-      },
-      "artists": [
-        {
-          "name": "Olav Stedje",
-          "url": "https://open.spotify.com/artist/4SM0aaZA4Gky48PLIlqFPA"
-        }
-      ],
-      "duration_ms": 194506,
-      "name": "Vi Vandrar Saman (Eg F\u00f8lgjer Der Du G\u00e5r)",
-      "url": "https://open.spotify.com/track/5b1AEdCpaCSNO8Z3i3SlFV"
-    },
-    {
-      "added_at": "2026-03-12 23:00:43",
-      "album": {
         "name": "Paus synger Paus",
         "url": "https://open.spotify.com/album/1DjWqnJPoObQzAbb8dPwts"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 202000,
       "name": "Mitt lille land",
       "url": "https://open.spotify.com/track/24bYCEcem3tzo3raOOwh01"
+    },
+    {
+      "added_at": "2026-03-12 23:00:43",
+      "album": {
+        "name": "Ta Meg Med",
+        "url": "https://open.spotify.com/album/3pWcFE43bLCUJhpuziIvHP"
+      },
+      "artists": [
+        {
+          "name": "Olav Stedje",
+          "url": "https://open.spotify.com/artist/4SM0aaZA4Gky48PLIlqFPA"
+        }
+      ],
+      "duration_ms": 194506,
+      "name": "Vi Vandrar Saman (Eg F\u00f8lgjer Der Du G\u00e5r)",
+      "url": "https://open.spotify.com/track/5b1AEdCpaCSNO8Z3i3SlFV"
     },
     {
       "added_at": "2026-03-12 23:00:43",
@@ -727,22 +727,6 @@
     {
       "added_at": "2026-03-12 23:00:43",
       "album": {
-        "name": "Ramler mot hverandre",
-        "url": "https://open.spotify.com/album/2ZtsLOse1UpbB5CZZRMN5b"
-      },
-      "artists": [
-        {
-          "name": "Trygve Skaug",
-          "url": "https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n"
-        }
-      ],
-      "duration_ms": 214226,
-      "name": "Ramler mot hverandre",
-      "url": "https://open.spotify.com/track/3MuVUbTl1RrzIKnEl0tYIW"
-    },
-    {
-      "added_at": "2026-03-12 23:00:43",
-      "album": {
         "name": "Hildringstimer - 14 velvalgte viser",
         "url": "https://open.spotify.com/album/3STZjoiXVRs4EnnkrBiZ1x"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 187600,
       "name": "Varherres Klinkekuler",
       "url": "https://open.spotify.com/track/5jbz1Pwz06o9fPMYFrmTOP"
+    },
+    {
+      "added_at": "2026-03-12 23:00:43",
+      "album": {
+        "name": "Ramler mot hverandre",
+        "url": "https://open.spotify.com/album/2ZtsLOse1UpbB5CZZRMN5b"
+      },
+      "artists": [
+        {
+          "name": "Trygve Skaug",
+          "url": "https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n"
+        }
+      ],
+      "duration_ms": 214226,
+      "name": "Ramler mot hverandre",
+      "url": "https://open.spotify.com/track/3MuVUbTl1RrzIKnEl0tYIW"
     },
     {
       "added_at": "2026-03-12 23:00:43",
@@ -775,8 +775,8 @@
     {
       "added_at": "2026-03-12 23:00:43",
       "album": {
-        "name": "Club 7",
-        "url": "https://open.spotify.com/album/5HsxpRklriIeoEDbEH7KEw"
+        "name": "Vendepunkt",
+        "url": "https://open.spotify.com/album/3eU4aCZuPIq8hL2dSoibWI"
       },
       "artists": [
         {
@@ -784,9 +784,9 @@
           "url": "https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3"
         }
       ],
-      "duration_ms": 260779,
-      "name": "Club 7",
-      "url": "https://open.spotify.com/track/6BfEYWOivGxDbxf4vM5SUu"
+      "duration_ms": 197529,
+      "name": "P\u00e5 bes\u00f8k",
+      "url": "https://open.spotify.com/track/0uoq8SgOPFuT6uq5WtlXFi"
     },
     {
       "added_at": "2026-03-12 23:00:43",

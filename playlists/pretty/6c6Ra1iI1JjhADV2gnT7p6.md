@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 
 > A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music 💜
 
-[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 59,930 likes - 600 songs - 1 day 9 hr 0 min
+[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 59,934 likes - 600 songs - 1 day 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -516,10 +516,10 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 506 | [halo\_v2](https://open.spotify.com/track/5m9Evu44eFqjt5Edfy7nPI) | [Baileyrp](https://open.spotify.com/artist/7Lbj5S2sccMdn7yDzFn5oz) | [halo\_v2](https://open.spotify.com/album/1jJsDIXGJkOKDYNJPwKYEa) | 3:16 |
 | 507 | [Good Mistake](https://open.spotify.com/track/3nqfLjbPTZV098La8utAP0) | [Juliana Madrid](https://open.spotify.com/artist/6RhkgeqhRai3jy4ULSlxFx) | [Good Mistake](https://open.spotify.com/album/3CdTlkpuUb1BFtCf3oVIoy) | 3:13 |
 | 508 | [You're Here](https://open.spotify.com/track/5cYeoLbXMw5MORlZavHkyk) | [Ms Ray](https://open.spotify.com/artist/1OwAcRe2gUEpDZhLAkiLRp) | [Melt](https://open.spotify.com/album/7cEtUVohvvYSuTsxSoiMQq) | 3:23 |
-| 509 | [Bells](https://open.spotify.com/track/6U9759WtCxrYpyNWYCxjco) | [Wulfer](https://open.spotify.com/artist/0YBx9RunjSU2iPXSgj4GiN) | [I Love My TV](https://open.spotify.com/album/3ubuw6jkKYshHahTd9vRA7) | 2:46 |
-| 510 | [Sugar Phantom Blackout](https://open.spotify.com/track/5XYfa98ccptbAeYG1ECA3v) | [Bluhm](https://open.spotify.com/artist/22aAOr0FxuHU9XaDdUbdle) | [Sugar Phantom Blackout](https://open.spotify.com/album/1TnfF9GLR9eaJoQLPpm2Da) | 3:25 |
+| 509 | [Sugar Phantom Blackout](https://open.spotify.com/track/5XYfa98ccptbAeYG1ECA3v) | [Bluhm](https://open.spotify.com/artist/22aAOr0FxuHU9XaDdUbdle) | [Sugar Phantom Blackout](https://open.spotify.com/album/1TnfF9GLR9eaJoQLPpm2Da) | 3:25 |
+| 510 | [Heart on the Loose](https://open.spotify.com/track/2K9ikIIxbBzzlsZAqhC4Tx) | [Melodi Ghazal](https://open.spotify.com/artist/6f05TSa46XPA6UoITTjqwm) | [Idol Melodies](https://open.spotify.com/album/7zOW6frt5bFazKf6NEPpVT) | 2:40 |
 | 511 | [Perfect Hand \- Power Snatch Version](https://open.spotify.com/track/041it5i3hjWkeCq0Cm7tzD) | [This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun), [Power Snatch](https://open.spotify.com/artist/3NEo0bJDvJ9xpRWwBRvLZ6), [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM), [Daniel James](https://open.spotify.com/artist/7fjWpR5V7rFThV1mf5fzp9) | [Perfect Hand \(Power Snatch Version\)](https://open.spotify.com/album/2JZbYMSKIM2MCoOHkPVnOM) | 3:33 |
-| 512 | [Heart on the Loose](https://open.spotify.com/track/2K9ikIIxbBzzlsZAqhC4Tx) | [Melodi Ghazal](https://open.spotify.com/artist/6f05TSa46XPA6UoITTjqwm) | [Idol Melodies](https://open.spotify.com/album/7zOW6frt5bFazKf6NEPpVT) | 2:40 |
+| 512 | [Bells](https://open.spotify.com/track/6U9759WtCxrYpyNWYCxjco) | [Wulfer](https://open.spotify.com/artist/0YBx9RunjSU2iPXSgj4GiN) | [I Love My TV](https://open.spotify.com/album/3ubuw6jkKYshHahTd9vRA7) | 2:46 |
 | 513 | [No Other](https://open.spotify.com/track/232Nmx7QpmOhuIFZ665Sd7) | [Jack Landess](https://open.spotify.com/artist/2Xog1ZaOPN7tbsisHXX4Z3) | [No Other](https://open.spotify.com/album/2kGUXKbRrk2vZRgIkK6aCE) | 3:42 |
 | 514 | [Versions](https://open.spotify.com/track/0TkWm7kNivR7kyTXEcOsf4) | [Moody Moody](https://open.spotify.com/artist/5PYfCBxp2YxG6asOPw4akG) | [Versions](https://open.spotify.com/album/1g23Umalf0qsDb6s1fYpg2) | 3:53 |
 | 515 | [Far Beyond The Sun](https://open.spotify.com/track/4Fk3DOPTybVJCLd9SmnI3N) | [Danalogue](https://open.spotify.com/artist/6lhPEH73wnzXY8agYbpdPu) | [Far Beyond The Sun](https://open.spotify.com/album/0ODdrUzAKTOngvXhWMLPEX) | 3:04 |
@@ -535,17 +535,17 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 525 | [Playground](https://open.spotify.com/track/6YCDCzRIeVYzcSNvFQ5es5) | [Max Baby](https://open.spotify.com/artist/0ofOICmdTikzuZtaYALygA) | [BREAK](https://open.spotify.com/album/0BompZU9zoS3yZTtEdINTK) | 3:42 |
 | 526 | [house on pacific](https://open.spotify.com/track/6qaQ1FwxgmAT7G5Itk5wYk) | [jules](https://open.spotify.com/artist/5JH91xxIdtDNx2hPvTunZH) | [house on pacific](https://open.spotify.com/album/03Lk8GMNtEKZbKoDW4xaCb) | 4:43 |
 | 527 | [i am going to love you always](https://open.spotify.com/track/3npxp0UGeheBPlBuQT4YiW) | [ctrl + me](https://open.spotify.com/artist/0nPOjNFDJoXX9PHf3Iar6X) | [i am going to love you always](https://open.spotify.com/album/1nJ0SP8SJfOoJDdluO74bE) | 2:47 |
-| 528 | [You Say Things \(You Know That I Like\)](https://open.spotify.com/track/3eUKpfdTPoDpinll0qoqpn) | [Pink Mario](https://open.spotify.com/artist/2Ak4aWlUeThbOqcXTB1rLy) | [You Say Things \(You Know That I Like\)](https://open.spotify.com/album/3ux8aMLlqw2mx0CuVJFIHi) | 3:12 |
-| 529 | [As It Seems](https://open.spotify.com/track/3AZp8FyDDnH5yYq0A7pQwK) | [Raisa K](https://open.spotify.com/artist/11H2kC5a9Jk0IJ0gPUrZl9) | [Affectionately](https://open.spotify.com/album/4ZFOgsFW6cf2w0MzG4D4Cz) | 2:50 |
-| 530 | [sweet dreams](https://open.spotify.com/track/2sngvtPflZ2BnW9AWSEMrv) | [Lucas Player](https://open.spotify.com/artist/6vHyFesGSAxoCiupP5812L) | [sweet dreams](https://open.spotify.com/album/26r5BG4jGtupwbOykl6wQk) | 2:42 |
-| 531 | [Fantasie](https://open.spotify.com/track/1arViwL3zTdHluW2wN168X) | [Human Barbie](https://open.spotify.com/artist/1WbcvNHiOnvchZwd7gbzWv) | [Fantasie](https://open.spotify.com/album/2dIJ42DsYTWVFWLKhhNG0o) | 3:18 |
-| 532 | [aiming alone](https://open.spotify.com/track/2T7DoPlq73trg2fNXhXx1v) | [Mel Denisse](https://open.spotify.com/artist/7KIJF2TCO4oYEq6YRcTHLk) | [aiming alone](https://open.spotify.com/album/1GeyAN00GrIhm1982yaamG) | 2:42 |
-| 533 | [Monstres du soir](https://open.spotify.com/track/1GCl7vyPRPzhiGAgc3oeze) | [Fanny](https://open.spotify.com/artist/5Iic4O5FtAkYMEOvDC8Qvd) | [Monstres du soir](https://open.spotify.com/album/3aECZejBxKk01SSJJsQgI9) | 2:30 |
-| 534 | [Paralyzed](https://open.spotify.com/track/5FZoBzLmhUi3XtPhTvGV3X) | [the booyah! kids](https://open.spotify.com/artist/0ypSujQpBRgRAeOS7YzhnP) | [Paralyzed](https://open.spotify.com/album/55ckFXzUpq3yfIOgJI00TW) | 2:30 |
-| 535 | [W.D.Y.W.F.M?](https://open.spotify.com/track/5se9hOsiQzGOGIV1owYRX0) | [SLEEP CLUB](https://open.spotify.com/artist/0NBe4HGx3FYEnU5fGt1I9L) | [W.D.Y.W.F.M?](https://open.spotify.com/album/5aflHptSCJZLrz9fAzGFfZ) | 4:00 |
-| 536 | [PLAY MY TRACK](https://open.spotify.com/track/2hHWcXgg4iStn9NJQcIu1e) | [username](https://open.spotify.com/artist/3I54P5H2ogRQu7KWWmifr1), [Marsh crane](https://open.spotify.com/artist/3xNfnkcVvRKu8mgElB3uFK) | [OVERTIME](https://open.spotify.com/album/69TfOic7XKu2PVfleFDVcb) | 3:12 |
+| 528 | [sweet dreams](https://open.spotify.com/track/2sngvtPflZ2BnW9AWSEMrv) | [Lucas Player](https://open.spotify.com/artist/6vHyFesGSAxoCiupP5812L) | [sweet dreams](https://open.spotify.com/album/26r5BG4jGtupwbOykl6wQk) | 2:42 |
+| 529 | [You Say Things \(You Know That I Like\)](https://open.spotify.com/track/3eUKpfdTPoDpinll0qoqpn) | [Pink Mario](https://open.spotify.com/artist/2Ak4aWlUeThbOqcXTB1rLy) | [You Say Things \(You Know That I Like\)](https://open.spotify.com/album/3ux8aMLlqw2mx0CuVJFIHi) | 3:12 |
+| 530 | [As It Seems](https://open.spotify.com/track/3AZp8FyDDnH5yYq0A7pQwK) | [Raisa K](https://open.spotify.com/artist/11H2kC5a9Jk0IJ0gPUrZl9) | [Affectionately](https://open.spotify.com/album/4ZFOgsFW6cf2w0MzG4D4Cz) | 2:50 |
+| 531 | [PLAY MY TRACK](https://open.spotify.com/track/2hHWcXgg4iStn9NJQcIu1e) | [username](https://open.spotify.com/artist/3I54P5H2ogRQu7KWWmifr1), [Marsh crane](https://open.spotify.com/artist/3xNfnkcVvRKu8mgElB3uFK) | [OVERTIME](https://open.spotify.com/album/69TfOic7XKu2PVfleFDVcb) | 3:12 |
+| 532 | [LOW HIGH](https://open.spotify.com/track/0PhVYf8aWVmaxen9sudjPl) | [RNIE](https://open.spotify.com/artist/6lSHLs9xKAtzB9Eu2aUW2K) | [FULL NEPTUNE.](https://open.spotify.com/album/4mVNwo3DQX4L5SEuclJbPg) | 2:35 |
+| 533 | [Fantasie](https://open.spotify.com/track/1arViwL3zTdHluW2wN168X) | [Human Barbie](https://open.spotify.com/artist/1WbcvNHiOnvchZwd7gbzWv) | [Fantasie](https://open.spotify.com/album/2dIJ42DsYTWVFWLKhhNG0o) | 3:18 |
+| 534 | [W.D.Y.W.F.M?](https://open.spotify.com/track/5se9hOsiQzGOGIV1owYRX0) | [SLEEP CLUB](https://open.spotify.com/artist/0NBe4HGx3FYEnU5fGt1I9L) | [W.D.Y.W.F.M?](https://open.spotify.com/album/5aflHptSCJZLrz9fAzGFfZ) | 4:00 |
+| 535 | [aiming alone](https://open.spotify.com/track/2T7DoPlq73trg2fNXhXx1v) | [Mel Denisse](https://open.spotify.com/artist/7KIJF2TCO4oYEq6YRcTHLk) | [aiming alone](https://open.spotify.com/album/1GeyAN00GrIhm1982yaamG) | 2:42 |
+| 536 | [Monstres du soir](https://open.spotify.com/track/1GCl7vyPRPzhiGAgc3oeze) | [Fanny](https://open.spotify.com/artist/5Iic4O5FtAkYMEOvDC8Qvd) | [Monstres du soir](https://open.spotify.com/album/3aECZejBxKk01SSJJsQgI9) | 2:30 |
 | 537 | [Margot Tenenbaum](https://open.spotify.com/track/0mVl3BQkaK38OHUJ3AU7Tb) | [Brat Star](https://open.spotify.com/artist/75paBOTrEufCOCKV1n4Cn8) | [Margot Tenenbaum](https://open.spotify.com/album/659OMSfaxLVG5c0GzpWyfz) | 3:40 |
-| 538 | [LOW HIGH](https://open.spotify.com/track/0PhVYf8aWVmaxen9sudjPl) | [RNIE](https://open.spotify.com/artist/6lSHLs9xKAtzB9Eu2aUW2K) | [FULL NEPTUNE.](https://open.spotify.com/album/4mVNwo3DQX4L5SEuclJbPg) | 2:35 |
+| 538 | [Paralyzed](https://open.spotify.com/track/5FZoBzLmhUi3XtPhTvGV3X) | [the booyah! kids](https://open.spotify.com/artist/0ypSujQpBRgRAeOS7YzhnP) | [Paralyzed](https://open.spotify.com/album/55ckFXzUpq3yfIOgJI00TW) | 2:30 |
 | 539 | [The Warm Tide](https://open.spotify.com/track/6jVLNWObkzUXPX7aSWepxv) | [Raphaë](https://open.spotify.com/artist/2cJR3td2CEzbMn1kOK07D9), [Nui Selkie](https://open.spotify.com/artist/6PBQBl5dTgfxvfbcKdn0Re), [Pegase](https://open.spotify.com/artist/3CyGpunc019xO6V7Skfmry) | [The Warm Tide](https://open.spotify.com/album/2fI2l81CPIu1iobUkAkDVe) | 2:52 |
 | 540 | [W3T DR3AMS](https://open.spotify.com/track/4hctL4mYAOhvfyY542zCVA) | [Unknown Venus](https://open.spotify.com/artist/2wve1ZVh3FnRzLZfFmV4AS), [The Sleepovers](https://open.spotify.com/artist/02sZemXV9e4spqlm7RMnEE) | [W3T DR3AMS](https://open.spotify.com/album/2HWjro1HMIoYSprpUz9GJ9) | 2:56 |
 | 541 | [Carrion Song](https://open.spotify.com/track/2kjREv26woDe2Fkj3LVbIQ) | [Pile](https://open.spotify.com/artist/44pUNjqg4mExLyFHnB3Bqf) | [Sunshine and Balance Beams](https://open.spotify.com/album/0mlgaAp88EcwGbKfiq7xo4) | 3:10 |
@@ -609,4 +609,4 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 599 | [Commotion](https://open.spotify.com/track/29MnyydjwSuj8ZodH7tK7r) | [Prewn](https://open.spotify.com/artist/1Sm5PqM25CcIBtKSvZz9iS) | [System](https://open.spotify.com/album/4aweXXTsOD2Jx6XMGfLfru) | 2:04 |
 | 600 | [Not A Phase](https://open.spotify.com/track/36ZQiXMIYRyu9cuFJOxsCc) | [Communions](https://open.spotify.com/artist/0R8TAmoXJnoB6ro5cp1XdI) | [Not A Phase](https://open.spotify.com/album/5vjMV5LhVU5VaXjvLITt6v) | 3:48 |
 
-Snapshot ID: `AAA2pOETlz77NhhMsETAOS/AbXcaxyss`
+Snapshot ID: `AAA2rE7b+BcFCGN3Hkd2l6IvwsT/WP9i`

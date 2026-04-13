@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSQxGzwb8MDD.md) - [plain]
 
 > Monsters's favorite tracks\. Updated regularly\. Curated by Monster\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,570 likes - 95 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,573 likes - 95 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSQxGzwb8MDD.md) - [plain]
 | 11 | [Gatita Cara](https://open.spotify.com/track/7vjJjHCynlXFahn2qmAFPu) | [Racing Nokia](https://open.spotify.com/artist/17g400xNYKtYBqK98etmvo), [Isablu](https://open.spotify.com/artist/0o5LchLFAlD8pgc6Alwicv) | [Gatita Cara](https://open.spotify.com/album/4NexNoMflkDRNWAAkQ712L) | 3:35 |
 | 12 | [Chemistry](https://open.spotify.com/track/2N0YIsZzCnrFxCIVJ2mzIP) | [Axefield](https://open.spotify.com/artist/6ov2mjV4oMELm0kUjTfUnB) | [Chemistry](https://open.spotify.com/album/2JBHwWQjlIN9Z7PENu2BSo) | 5:04 |
 | 13 | [RUBADUB](https://open.spotify.com/track/6oNlmBL91y5oyJMBDLKo9G) | [TWONSKi](https://open.spotify.com/artist/0wpHC77nsV39LreyyX5TK3), [Matsu](https://open.spotify.com/artist/2bFIsZ2C80LKx8Pdk8KW5U) | [RUBADUB](https://open.spotify.com/album/7IoHsSe47sudJ3L6DvPnUL) | 3:47 |
-| 14 | [GYAN](https://open.spotify.com/track/4ILMcULoYGfX4zqEK8GZCI) | [angels records](https://open.spotify.com/artist/1tro3K3NCGPjKJ1qz3o1Pt), [Sinergy](https://open.spotify.com/artist/2xM3AU6QsIrvhlo5wqYr4M) | [PERREOTEK V](https://open.spotify.com/album/7g1wMHCSFb5kzrhHPiklVg) | 5:11 |
+| 14 | [GYAN](https://open.spotify.com/track/4ILMcULoYGfX4zqEK8GZCI) | [AnGeLZ](https://open.spotify.com/artist/08IctCdUYzP2zmepeyIoT4), [Sinergy](https://open.spotify.com/artist/2xM3AU6QsIrvhlo5wqYr4M) | [PERREOTEK V](https://open.spotify.com/album/7g1wMHCSFb5kzrhHPiklVg) | 5:11 |
 | 15 | [Zurna Dance](https://open.spotify.com/track/2ZVtCyJgAFkRAv4JC0hwrf) | [anyoneID](https://open.spotify.com/artist/30w1pa6vyGrt8x7ArqcNvm) | [Zurna Dance](https://open.spotify.com/album/6tKrpKcZMN1EAlj1qEdEnb) | 3:32 |
-| 16 | [DAME](https://open.spotify.com/track/4CA3OYFDdKLhAFW6wKnSz6) | [angels records](https://open.spotify.com/artist/1tro3K3NCGPjKJ1qz3o1Pt), [D\-Nite](https://open.spotify.com/artist/71Xqg0u36zd6m8EwZK6jsk) | [PERREOTEK V](https://open.spotify.com/album/7g1wMHCSFb5kzrhHPiklVg) | 4:58 |
+| 16 | [DAME](https://open.spotify.com/track/4CA3OYFDdKLhAFW6wKnSz6) | [AnGeLZ](https://open.spotify.com/artist/08IctCdUYzP2zmepeyIoT4), [D\-Nite](https://open.spotify.com/artist/71Xqg0u36zd6m8EwZK6jsk) | [PERREOTEK V](https://open.spotify.com/album/7g1wMHCSFb5kzrhHPiklVg) | 4:58 |
 | 17 | [Heat](https://open.spotify.com/track/3zC97JmLzn3quQFKlqEjJM) | [Ben Prophet](https://open.spotify.com/artist/0YRk8fU48dUpIGqJYh5b4U) | [Heat](https://open.spotify.com/album/1UojpYZChw4LmTM6pYtkFF) | 5:36 |
 | 18 | [Flip That](https://open.spotify.com/track/56CkHaJuIsC36sWKtT6baG) | [Juanso](https://open.spotify.com/artist/6YlprtypA24eft62ZlyPlM) | [TVA 3000%](https://open.spotify.com/album/1cj4DwR1AIHN7UMzIgzoVm) | 4:16 |
 | 19 | [Freak](https://open.spotify.com/track/3S7FhCR6Z8qGGNaNhjazWZ) | [Bae Blade](https://open.spotify.com/artist/6QWt63IsdMipMmiH0D0aIA) | [Power Play EP](https://open.spotify.com/album/7HLZYCaIEBGJSP8noVReXk) | 3:30 |

@@ -353,6 +353,24 @@
     },
     {
       "album": {
+        "name": "Mi Satisfacci\u00f3n",
+        "url": "https://open.spotify.com/album/2uJ0YxszsHKfS14kOPmAFl"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227813,
+      "name": "El Huizache",
+      "url": "https://open.spotify.com/track/0qoG5PN9VoZxGWrqbgFPaK"
+    },
+    {
+      "album": {
         "name": "Exitos De Valent\u00edn Elizalde",
         "url": "https://open.spotify.com/album/40Uw1siLm23gdzJGgzpJkB"
       },
@@ -364,7 +382,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 235466,
       "name": "El Huizache",
       "url": "https://open.spotify.com/track/6GYRz31A9T4PaUbrO5Kprz"

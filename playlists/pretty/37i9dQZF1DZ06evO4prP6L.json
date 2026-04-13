@@ -1,12 +1,12 @@
 {
   "description": "This is Lee Kernaghan. The essential tracks, all in one playlist.",
-  "num_followers": 18067,
+  "num_followers": 18071,
   "original_name": "This Is Lee Kernaghan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adg9gAAAAACbkYGGb7uQEz3k/z6NUZrO",
+  "snapshot_id": "admPAAAAAABE79M7kMAHh8gHkY9vex4h",
   "tracks": [
     {
       "added_at": null,
@@ -247,22 +247,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Planet Country",
-        "url": "https://open.spotify.com/album/1SuH7QSsIz2DDDYIEgqTbW"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 191133,
-      "name": "Australian Boy - Remastered 2017",
-      "url": "https://open.spotify.com/track/0mst1r5jDZ32vusCulvpBH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Australian Made",
         "url": "https://open.spotify.com/album/2Y3hVl3Ft1aSLFOMG4M9Rx"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 169160,
       "name": "Country Is Coming To Town",
       "url": "https://open.spotify.com/track/6wkPjmKaxCU1l3Lp3TUwVY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Planet Country",
+        "url": "https://open.spotify.com/album/1SuH7QSsIz2DDDYIEgqTbW"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 191133,
+      "name": "Australian Boy - Remastered 2017",
+      "url": "https://open.spotify.com/track/0mst1r5jDZ32vusCulvpBH"
     },
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Three Chain Road",
-        "url": "https://open.spotify.com/album/2SMUg77ruqEc4C5hmZkmc7"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 241000,
-      "name": "Southern Son - Remastered 2017",
-      "url": "https://open.spotify.com/track/2qPzCg34BXSB88kOwfzKRG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Very Best of Lee Kernaghan: Three Decades of Hits",
         "url": "https://open.spotify.com/album/71vxA0KghqPpuiXFc3qGVl"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 196706,
       "name": "Leave Him in the Longyard",
       "url": "https://open.spotify.com/track/5PihL5QfokNByf6OEbjjeI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Three Chain Road",
+        "url": "https://open.spotify.com/album/2SMUg77ruqEc4C5hmZkmc7"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 241000,
+      "name": "Southern Son - Remastered 2017",
+      "url": "https://open.spotify.com/track/2qPzCg34BXSB88kOwfzKRG"
     },
     {
       "added_at": null,
@@ -447,26 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beautiful Noise (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4zxVQlfTfrEFNmQTHYjF1X"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        },
-        {
-          "name": "The Wolfe Brothers",
-          "url": "https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma"
-        }
-      ],
-      "duration_ms": 210938,
-      "name": "Lights on the Hill",
-      "url": "https://open.spotify.com/track/0Odp6NXvX6Rhq6tiRJbkCl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Backroad Nation",
         "url": "https://open.spotify.com/album/1DpDxB7bmSywE3cI857l8F"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 181113,
       "name": "Till It Ends",
       "url": "https://open.spotify.com/track/030qfBYqMej6nV1T5JWWuU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beautiful Noise (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4zxVQlfTfrEFNmQTHYjF1X"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        },
+        {
+          "name": "The Wolfe Brothers",
+          "url": "https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma"
+        }
+      ],
+      "duration_ms": 210938,
+      "name": "Lights on the Hill",
+      "url": "https://open.spotify.com/track/0Odp6NXvX6Rhq6tiRJbkCl"
     },
     {
       "added_at": null,
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spirit of the Anzacs",
-        "url": "https://open.spotify.com/album/3MUXZ1eqsf6q0gKJG7w5bT"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 258293,
-      "name": "I Was Only 19 (A Walk in the Green Light)",
-      "url": "https://open.spotify.com/track/1HjIAAxirr5WL30SSjQOC9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Backroad Nation",
         "url": "https://open.spotify.com/album/1DpDxB7bmSywE3cI857l8F"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 171523,
       "name": "Wheels",
       "url": "https://open.spotify.com/track/1UA9G0IC6SfniPTA7bm7EB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spirit of the Anzacs",
+        "url": "https://open.spotify.com/album/3MUXZ1eqsf6q0gKJG7w5bT"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 258293,
+      "name": "I Was Only 19 (A Walk in the Green Light)",
+      "url": "https://open.spotify.com/track/1HjIAAxirr5WL30SSjQOC9"
     },
     {
       "added_at": null,
@@ -583,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The 25th Anniversary Album",
-        "url": "https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 240834,
-      "name": "Outback Club Reunion",
-      "url": "https://open.spotify.com/track/06CVzZI2qm96JPi0wIP0EP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Planet Country",
         "url": "https://open.spotify.com/album/1SuH7QSsIz2DDDYIEgqTbW"
       },
@@ -631,6 +615,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The 25th Anniversary Album",
+        "url": "https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 240834,
+      "name": "Outback Club Reunion",
+      "url": "https://open.spotify.com/track/06CVzZI2qm96JPi0wIP0EP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "1959",
         "url": "https://open.spotify.com/album/3X2UUwL1BTr5Yzf3fvxrYo"
       },
@@ -643,22 +643,6 @@
       "duration_ms": 186933,
       "name": "Skinny Dippin' - Remastered 2017",
       "url": "https://open.spotify.com/track/7qUel1eCCLuODJxWvy19Zw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Beautiful Noise",
-        "url": "https://open.spotify.com/album/7kWgkcpCpLOqAtipwQ74pw"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 190346,
-      "name": "It's Only Country",
-      "url": "https://open.spotify.com/track/7hHs0N1UdxX0NbcvCp8HqH"
     },
     {
       "added_at": null,
@@ -679,8 +663,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Backroad Nation",
-        "url": "https://open.spotify.com/album/1DpDxB7bmSywE3cI857l8F"
+        "name": "Beautiful Noise",
+        "url": "https://open.spotify.com/album/7kWgkcpCpLOqAtipwQ74pw"
       },
       "artists": [
         {
@@ -688,9 +672,9 @@
           "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
         }
       ],
-      "duration_ms": 169433,
-      "name": "Let There Be Cowgirls",
-      "url": "https://open.spotify.com/track/73x2EeabuTdaNx8jkLLamg"
+      "duration_ms": 190346,
+      "name": "It's Only Country",
+      "url": "https://open.spotify.com/track/7hHs0N1UdxX0NbcvCp8HqH"
     },
     {
       "added_at": null,
@@ -711,8 +695,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beautiful Noise",
-        "url": "https://open.spotify.com/album/7kWgkcpCpLOqAtipwQ74pw"
+        "name": "Backroad Nation",
+        "url": "https://open.spotify.com/album/1DpDxB7bmSywE3cI857l8F"
       },
       "artists": [
         {
@@ -720,9 +704,9 @@
           "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
         }
       ],
-      "duration_ms": 204746,
-      "name": "Beautiful Noise",
-      "url": "https://open.spotify.com/track/6URkqF2ykpmtK0rkrNGzVF"
+      "duration_ms": 169433,
+      "name": "Let There Be Cowgirls",
+      "url": "https://open.spotify.com/track/73x2EeabuTdaNx8jkLLamg"
     },
     {
       "added_at": null,
@@ -763,6 +747,22 @@
       "duration_ms": 171704,
       "name": "Drive On",
       "url": "https://open.spotify.com/track/3dUBVVpng4p7RUKkIOo33g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beautiful Noise",
+        "url": "https://open.spotify.com/album/7kWgkcpCpLOqAtipwQ74pw"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 204746,
+      "name": "Beautiful Noise",
+      "url": "https://open.spotify.com/track/6URkqF2ykpmtK0rkrNGzVF"
     },
     {
       "added_at": null,

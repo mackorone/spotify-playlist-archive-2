@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-1,025 songs - 2 day 1 hr 1 min
+1,026 songs - 2 day 1 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -328,6 +328,7 @@
 | [Etheral Ease](https://open.spotify.com/track/5jKGlvcYrkQjoqwvAtMZ70) | [Imperial Atlas](https://open.spotify.com/artist/76BYMatrC95a7MaFSxeU9g) | [Etheral Ease](https://open.spotify.com/album/3rcdVstalXGxGDggOZ9Dne) | 3:15 | 2023-03-23 | 2024-02-09 |
 | [Ethereal](https://open.spotify.com/track/1E8X81mDNXxPlzIWGdwFmg) | [Joanna Neriah](https://open.spotify.com/artist/2GKwdKtX1WZUQxSnYa41wm) | [Ethereal](https://open.spotify.com/album/523R7wBcTOKZrtqyLrAxm0) | 3:46 | 2023-03-23 | 2024-03-21 |
 | [Ethereal Echoes](https://open.spotify.com/track/2TwiFLI95iEFaXZOw8Rn7s) | [Ella Hush](https://open.spotify.com/artist/6dcMOViRlnkmZkjhckcMmx) | [Ethereal Echoes](https://open.spotify.com/album/1v4DPTFv9C7L0Xia3k2Jsp) | 3:04 | 2024-05-04 | 2025-03-02 |
+| [Ethereal Oasis](https://open.spotify.com/track/6qMubqI3HpYwSt2Riaaway) | [Sleep Envoy](https://open.spotify.com/artist/7hFdOASx9ClXjLhg4itqdc) | [Ethereal Oasis](https://open.spotify.com/album/3pRSJPNv9Sjr1BgsIvF9nk) | 2:45 | 2026-04-03 |  |
 | [Ethereal Slumbercode](https://open.spotify.com/track/6BBbiBdLEwXHNPotsAUyKK) | [Puddle of Head](https://open.spotify.com/artist/1PKiNVaiRPXCXRF3gqbMqi) | [Ethereal Slumbercode](https://open.spotify.com/album/78g8xhwAei2E94MRuQDll8) | 3:09 | 2025-12-17 | 2026-03-12 |
 | [Ethereal Waves](https://open.spotify.com/track/1Nct3sYCWShQT1AxaRmIOz) | [Spatia Sonica](https://open.spotify.com/artist/52CWUxOpQe9GHy9aCN0Irk) | [Ethereal Waves](https://open.spotify.com/album/2QTKxexNGpnwGtfo82Mu6Z) | 2:37 | 2025-05-20 |  |
 | [Etherealism](https://open.spotify.com/track/5xcMiHMYeXbjdcYUDYzZzL) | [Chakra Tides](https://open.spotify.com/artist/7gfe0wDVyfNBiAWSVQyZRk) | [Etherealism](https://open.spotify.com/album/2uk1QgUcIbDYyrFmrnVNEn) | 3:30 | 2024-08-02 | 2025-04-13 |
@@ -674,7 +675,7 @@
 | [Oxygen](https://open.spotify.com/track/6LJueYS7PEtp9VEnClV0da) | [Joseph Alphane](https://open.spotify.com/artist/65IJPn3wYi35Qpov4MXcFr) | [Oxygen](https://open.spotify.com/album/5QTd2js25VRvD3ZK5DYWeu) | 2:43 | 2023-03-23 | 2024-01-18 |
 | [Paintings](https://open.spotify.com/track/4z9T5rLKI42F1Pm4JMPFlY) | [Ookean](https://open.spotify.com/artist/3RRjbAYUzANb74qkNyT7vF) | [Paintings](https://open.spotify.com/album/3dN2zzbNXmMGDuAYABHGOe) | 2:41 | 2023-03-23 | 2024-02-09 |
 | [Pale Hours](https://open.spotify.com/track/3NSH95SaYGg7OLiC8bVtcx) | [Kaiser Hulenstadt](https://open.spotify.com/artist/1oFe0IcP3ZDv5MK0sbq8tS) | [Pale Hours](https://open.spotify.com/album/2Dp8o5PeMIUL8FEoqU4xvs) | 2:31 | 2025-10-08 |  |
-| [Pale Memory](https://open.spotify.com/track/7rhwr3FfXyso3CpR5d3X97) | [Astral Steps](https://open.spotify.com/artist/1F2Bnj5hR7xoWkRVrtfROZ) | [Pale Memory](https://open.spotify.com/album/3xdgL0gjv3u3wjvzqh0CJI) | 2:37 | 2025-11-12 |  |
+| [Pale Memory](https://open.spotify.com/track/7rhwr3FfXyso3CpR5d3X97) | [Astral Steps](https://open.spotify.com/artist/1F2Bnj5hR7xoWkRVrtfROZ) | [Pale Memory](https://open.spotify.com/album/3xdgL0gjv3u3wjvzqh0CJI) | 2:37 | 2025-11-12 | 2026-04-13 |
 | [Panacea](https://open.spotify.com/track/7IW97SFUISAWehSIW1eJvM) | [Benjin Blund](https://open.spotify.com/artist/4X7C94aG7ctqFboeUcc1Q1) | [Panacea](https://open.spotify.com/album/4rX9W4lpiQetnlHm7CgsgG) | 2:51 | 2025-03-05 | 2026-03-21 |
 | [Paper Planes](https://open.spotify.com/track/6K3GQ0EUISQazk67bWfWCB) | [Gerda Holmes](https://open.spotify.com/artist/7dEtbCkGOQo1nDl8YweUnL) | [Paper Planes](https://open.spotify.com/album/3kBoTpDPMvijOGBClK9uKQ) | 3:30 | 2023-03-23 | 2023-09-01 |
 | [Paradigm](https://open.spotify.com/track/5rD6luPJeHWNs3VNPqtNEu) | [iavú](https://open.spotify.com/artist/4HLXt5FajZmG37fZb3E2my) | [Paradigm](https://open.spotify.com/album/05RwFQSvi4XzEPlkoFsH0H) | 3:00 | 2025-01-22 | 2025-07-06 |

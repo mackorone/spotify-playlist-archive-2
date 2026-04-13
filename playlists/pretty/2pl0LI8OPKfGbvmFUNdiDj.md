@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 717 likes - 85 songs - 4 hr 47 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 717 likes - 86 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,5 +93,6 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 83 | [You Make Me Feel](https://open.spotify.com/track/6GowrMYjvh0Ercfkg8QQfC) | [James Sebastian](https://open.spotify.com/artist/6IX76Xz04QnJdDtcDIfoD6) | [You Make Me Feel](https://open.spotify.com/album/2b3uNUKmyiWJCaxQtXSmhq) | 3:11 |
 | 84 | [Kissing Strangers!](https://open.spotify.com/track/1PUtLs4AITjN1eHjz28G2j) | [Eryka Gray](https://open.spotify.com/artist/3oZefojpA0igBXqOGJ5QFU) | [Kissing Strangers!](https://open.spotify.com/album/4O2JMoZxhhFJ4pUu1laJbB) | 3:21 |
 | 85 | [Walk this road](https://open.spotify.com/track/6RlhMFUctXgyXJpJWnfHHu) | [Slim Dragon](https://open.spotify.com/artist/312cwwaEcsB3saZEWLyQEO) | [Walk this road](https://open.spotify.com/album/5Gal7XaBtHNT687d69zomu) | 3:31 |
+| 86 | [Just Let It Go](https://open.spotify.com/track/5lPn1Gsaqo8NO3NpFGgwqJ) | [FLÒRALYN](https://open.spotify.com/artist/2LcgkfAzVOD0qeVCgDAqmy) | [Just Let It Go](https://open.spotify.com/album/50TsgNRCRfPWhO8dy9YERH) | 3:13 |
 
-Snapshot ID: `AAADXwyaZfbm72B+CLHExA1cJIBSeg3K`
+Snapshot ID: `AAADYFO8tMI+2/WBIscnc84qDc3peBKo`

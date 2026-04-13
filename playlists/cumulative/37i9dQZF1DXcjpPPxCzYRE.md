@@ -4,13 +4,14 @@
 
 > Música tranquila para evadirse.
 
-513 songs - 1 day 5 hr 7 min
+514 songs - 1 day 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(ecco\)](https://open.spotify.com/track/6MNpKQBu98xOz5LpPQjyrU) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [DAISY](https://open.spotify.com/album/0o1RGF3A02UN1aVAX1SLuQ) | 3:26 | 2025-06-02 | 2025-10-10 |
 | [\(ecco\) \- A COLORS SHOW](https://open.spotify.com/track/6goFl44nCkfcZ6ZTyA8DmT) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [\(ecco\) \- A COLORS SHOW](https://open.spotify.com/album/5UtBCMMjyJLRxzIRpIRwLf) | 4:05 | 2025-09-18 | 2026-03-27 |
 | [\(pablo\)](https://open.spotify.com/track/1XSW7SenbLKKkRVvmmkoEo) | [nic](https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [\(pablo\)](https://open.spotify.com/album/0IYvugDtQZMtKmePc4N2UZ) | 3:18 | 2026-04-09 |  |
+| [1 Dolor](https://open.spotify.com/track/6lNBceAGdl6t9slEQQc9UC) | [Suave](https://open.spotify.com/artist/16QMnwd53HiSIbB57esWKu), [Junnio](https://open.spotify.com/artist/1sLvo7ClsDMTBrFe8aTzF6) | [1 Dolor](https://open.spotify.com/album/7gXbL0h3fgN9iThK5cypAG) | 3:06 | 2026-04-09 |  |
 | [2 seater](https://open.spotify.com/track/3hU9W3drI6DjpQnvx53osT) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [dj gummy bear](https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw) | [2 seater](https://open.spotify.com/album/67CW3pOkOhn5ugepbhxCJ4) | 1:05 | 2023-03-28 | 2023-04-21 |
 | [4 de Febrero](https://open.spotify.com/track/0flp9biaZs24ZEksHXxYiB) | [Vera GRV](https://open.spotify.com/artist/03ibrSvByQ6WCX79oFaORa), [Chus Santana](https://open.spotify.com/artist/7HIHZP9kQCofu07j5Xj590) | [Se me pasó llamarte, mamá](https://open.spotify.com/album/0ObHHR5E2kkgosKn6eIXLm) | 3:41 | 2025-09-18 | 2026-02-27 |
 | [5AM](https://open.spotify.com/track/3hbQZgr6kAH6zo8pqOivwT) | [Volver](https://open.spotify.com/artist/32nfZrzpEztfg5c2832vmy) | [5AM](https://open.spotify.com/album/2MY27JscZjr0d01jDMISv4) | 3:36 | 2024-06-21 |  |
@@ -242,7 +243,7 @@
 | [La ficción](https://open.spotify.com/track/6WTsVuIxIgTAe7byjV16jR) | [Verde Prato](https://open.spotify.com/artist/04WGKyAt0klDPxUw2roFfi) | [El final](https://open.spotify.com/album/5fXUKHOIBvJwR4SvcCyxpD) | 3:18 | 2026-04-09 |  |
 | [La herida que prefiero](https://open.spotify.com/track/4OEpTmPCpKZpYneJoyhV2k) | [Calequi y Las Panteras](https://open.spotify.com/artist/1ktDK2MSGJMNB2hBgmki5u) | [TRES](https://open.spotify.com/album/1gBxtmX08ZwNWBXH8a3qX6) | 3:32 | 2026-03-13 |  |
 | [La Jarrita del Tiempo](https://open.spotify.com/track/3NgYHChyjR1Qq1TyYW8u7m) | [Alvaro Ruiz](https://open.spotify.com/artist/2GIa4g7H34OOiHxGSZPFMg), [Vic Mirallas](https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922) | [La Jarrita del Tiempo](https://open.spotify.com/album/0IcSVkTdbn0VM4ekxHFTtd) | 4:01 | 2025-09-18 |  |
-| [La jugada maestra](https://open.spotify.com/track/4xutN2gHS4wl4kXZNAhP3A) | [Amateur](https://open.spotify.com/artist/0CD9lsggFxmq6NRO2EUiZ2) | [La jugada maestra](https://open.spotify.com/album/46HNGax06gtSaaHdXqEgFn) | 5:28 | 2025-12-04 |  |
+| [La jugada maestra](https://open.spotify.com/track/4xutN2gHS4wl4kXZNAhP3A) | [Amateur](https://open.spotify.com/artist/0CD9lsggFxmq6NRO2EUiZ2) | [La jugada maestra](https://open.spotify.com/album/46HNGax06gtSaaHdXqEgFn) | 5:28 | 2025-12-04 | 2026-04-13 |
 | [La Pena Vuela \(VMG\)](https://open.spotify.com/track/65yD11M9keuQoajWuLMb9M) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [La Pena Vuela \(VMG\)](https://open.spotify.com/album/2HBnc7C7JSw1H3PJR5iNcb) | 2:34 | 2025-01-03 | 2025-09-19 |
 | [La quiero a morir](https://open.spotify.com/track/1Qmt5U4scVzanyDtPvSg6g) | [Laura Durand](https://open.spotify.com/artist/2f640dm9Cq8hDfaylaQb3j) | [La quiero a morir](https://open.spotify.com/album/0pmLX0HptN38IBvLcT0Qgx) | 4:15 | 2025-09-18 |  |
 | [La torre](https://open.spotify.com/track/5ikeAsdJ8npRBfkfFDK0MJ) | [Tórtel](https://open.spotify.com/artist/7tLkQje1Hr44cnNKqS06w9) | [La torre](https://open.spotify.com/album/4YmtpXJo1mIIACyB38Rbxm) | 1:42 | 2025-10-30 | 2026-03-14 |

@@ -943,6 +943,24 @@
     },
     {
       "album": {
+        "name": "a softer focus",
+        "url": "https://open.spotify.com/album/7C5oqO91QIUG6ZUJqQIRNv"
+      },
+      "artists": [
+        {
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96100,
+      "name": "preston ave",
+      "url": "https://open.spotify.com/track/1LNslfIGvQhnJsgkEhkWx7"
+    },
+    {
+      "album": {
         "name": "a crying poem",
         "url": "https://open.spotify.com/album/2MbJeHsvvUkpKfXYpuErfZ"
       },
@@ -1122,7 +1140,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 37000,
       "name": "swipe",
       "url": "https://open.spotify.com/track/6XJD626FozKijPwvjYd5PU"

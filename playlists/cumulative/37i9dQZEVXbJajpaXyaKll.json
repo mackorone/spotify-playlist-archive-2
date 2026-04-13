@@ -24201,6 +24201,24 @@
     },
     {
       "album": {
+        "name": "In The Palm Of Your Hand",
+        "url": "https://open.spotify.com/album/7pfb8J6I3C3jfJvagjLaYk"
+      },
+      "artists": [
+        {
+          "name": "Buck Owens",
+          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
+        }
+      ],
+      "date_added": "2026-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164546,
+      "name": "Made In Japan",
+      "url": "https://open.spotify.com/track/5vHs45P0mSuzl9rDRcliLK"
+    },
+    {
+      "album": {
         "name": "MADISON",
         "url": "https://open.spotify.com/album/0B37qHA5Q9O94AtUqD2HWS"
       },
@@ -26504,7 +26522,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-12",
+      "date_removed": null,
       "duration_ms": 123428,
       "name": "Miss",
       "url": "https://open.spotify.com/track/0Nak4J9sQgozKj2yAsKQlQ"
@@ -29158,7 +29176,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 80480,
       "name": "NO LES DA",
       "url": "https://open.spotify.com/track/6pryujEohwqSNKGTW33SKE"
@@ -29716,7 +29734,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-13",
       "duration_ms": 236619,
       "name": "NO TE HAGAS (REMIX)",
       "url": "https://open.spotify.com/track/7ovtWiGNBx61dRmsBx2cy9"

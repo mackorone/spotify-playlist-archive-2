@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco! Foto: Day Limns",
-  "num_followers": 362777,
+  "num_followers": 362746,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -399,6 +399,22 @@
     {
       "added_at": "2026-04-10 03:00:33",
       "album": {
+        "name": "a1",
+        "url": "https://open.spotify.com/album/5EjBxXVoDbjeC99fDJ3cca"
+      },
+      "artists": [
+        {
+          "name": "Clau",
+          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
+        }
+      ],
+      "duration_ms": 183210,
+      "name": "a1",
+      "url": "https://open.spotify.com/track/6hUeReosw7wnQ2EMit2Rgk"
+    },
+    {
+      "added_at": "2026-04-10 03:00:33",
+      "album": {
         "name": "Encanto (Nossa Gente, Avisa l\u00e1)",
         "url": "https://open.spotify.com/album/7Hxypa00U94CCgFJLQKjfd"
       },
@@ -423,22 +439,6 @@
     {
       "added_at": "2026-04-10 03:00:33",
       "album": {
-        "name": "a1",
-        "url": "https://open.spotify.com/album/5EjBxXVoDbjeC99fDJ3cca"
-      },
-      "artists": [
-        {
-          "name": "Clau",
-          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
-        }
-      ],
-      "duration_ms": 183210,
-      "name": "a1",
-      "url": "https://open.spotify.com/track/6hUeReosw7wnQ2EMit2Rgk"
-    },
-    {
-      "added_at": "2026-04-10 03:00:33",
-      "album": {
         "name": "Solst\u00edcio",
         "url": "https://open.spotify.com/album/2WHyCLLfvbNYVO4sqmdzsn"
       },
@@ -455,6 +455,22 @@
       "duration_ms": 146086,
       "name": "FAL",
       "url": "https://open.spotify.com/track/4Rs3vSQPDnvnQBmbw9pVY6"
+    },
+    {
+      "added_at": "2026-04-10 03:00:33",
+      "album": {
+        "name": "Tudo o que eu preciso",
+        "url": "https://open.spotify.com/album/4qgcTa8MFq2CTcY39Wlftz"
+      },
+      "artists": [
+        {
+          "name": "Ana Laura Lopes",
+          "url": "https://open.spotify.com/artist/0uGD30yANzeWbNUAQoiJF2"
+        }
+      ],
+      "duration_ms": 182064,
+      "name": "Tudo o que eu preciso",
+      "url": "https://open.spotify.com/track/6EuZGtqXcAfejal7Ghvtrw"
     },
     {
       "added_at": "2026-04-10 03:00:33",
@@ -563,26 +579,6 @@
     {
       "added_at": "2026-04-10 03:00:33",
       "album": {
-        "name": "No Mar",
-        "url": "https://open.spotify.com/album/0UIt3RBifk0pziphGUHL2i"
-      },
-      "artists": [
-        {
-          "name": "J\u00e1der",
-          "url": "https://open.spotify.com/artist/4kZNQjkGZ4VVovVaFvE1xa"
-        },
-        {
-          "name": "Tot\u00f4 de Babalong",
-          "url": "https://open.spotify.com/artist/0zsgeSGGHL9FLxTBcfNd2x"
-        }
-      ],
-      "duration_ms": 171194,
-      "name": "No Mar",
-      "url": "https://open.spotify.com/track/3Wc384GdmbSP2XQGRGrZHh"
-    },
-    {
-      "added_at": "2026-04-10 03:00:33",
-      "album": {
         "name": "2003",
         "url": "https://open.spotify.com/album/6ITEVNawPasF2tDj8nsrZR"
       },
@@ -603,6 +599,26 @@
     {
       "added_at": "2026-04-10 03:00:33",
       "album": {
+        "name": "No Mar",
+        "url": "https://open.spotify.com/album/0UIt3RBifk0pziphGUHL2i"
+      },
+      "artists": [
+        {
+          "name": "J\u00e1der",
+          "url": "https://open.spotify.com/artist/4kZNQjkGZ4VVovVaFvE1xa"
+        },
+        {
+          "name": "Tot\u00f4 de Babalong",
+          "url": "https://open.spotify.com/artist/0zsgeSGGHL9FLxTBcfNd2x"
+        }
+      ],
+      "duration_ms": 171194,
+      "name": "No Mar",
+      "url": "https://open.spotify.com/track/3Wc384GdmbSP2XQGRGrZHh"
+    },
+    {
+      "added_at": "2026-04-10 03:00:33",
+      "album": {
         "name": "sinto saudade",
         "url": "https://open.spotify.com/album/3uFcpiMyVsArsCE7rH6pvk"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 150978,
       "name": "sinto saudade",
       "url": "https://open.spotify.com/track/3UJcDOvKEJKQ2gqW8GJ7T5"
-    },
-    {
-      "added_at": "2026-04-10 03:00:33",
-      "album": {
-        "name": "Tudo o que eu preciso",
-        "url": "https://open.spotify.com/album/4qgcTa8MFq2CTcY39Wlftz"
-      },
-      "artists": [
-        {
-          "name": "Ana Laura Lopes",
-          "url": "https://open.spotify.com/artist/0uGD30yANzeWbNUAQoiJF2"
-        }
-      ],
-      "duration_ms": 182064,
-      "name": "Tudo o que eu preciso",
-      "url": "https://open.spotify.com/track/6EuZGtqXcAfejal7Ghvtrw"
     },
     {
       "added_at": "2026-04-10 03:00:33",
@@ -911,6 +911,26 @@
     {
       "added_at": "2026-04-10 03:00:33",
       "album": {
+        "name": "SAUDADE NUNCA \u00c9 DE GRA\u00c7A",
+        "url": "https://open.spotify.com/album/0d7XWCHJkT3aPtVt1BLDKS"
+      },
+      "artists": [
+        {
+          "name": "Maip\u00ea",
+          "url": "https://open.spotify.com/artist/29TGZb5S8iVFN9HzowvnPV"
+        },
+        {
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+        }
+      ],
+      "duration_ms": 174250,
+      "name": "SAUDADE NUNCA \u00c9 DE GRA\u00c7A",
+      "url": "https://open.spotify.com/track/7r8wOSXABuVgD0z9ABWey1"
+    },
+    {
+      "added_at": "2026-04-10 03:00:33",
+      "album": {
         "name": "Aventura",
         "url": "https://open.spotify.com/album/6lL0eADSuVdFVOJU1MqnUj"
       },
@@ -943,6 +963,22 @@
       "duration_ms": 165000,
       "name": "Mar de Rosas",
       "url": "https://open.spotify.com/track/0jqfLFMPSPXpWWDyJaErVP"
+    },
+    {
+      "added_at": "2026-04-10 03:00:33",
+      "album": {
+        "name": "Manh\u00e3 de Sol",
+        "url": "https://open.spotify.com/album/3112UESU5WJFX24ulal6XM"
+      },
+      "artists": [
+        {
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+        }
+      ],
+      "duration_ms": 181666,
+      "name": "Manh\u00e3 de Sol",
+      "url": "https://open.spotify.com/track/6IK8FcpWZ1j6VJvAqnjH0g"
     },
     {
       "added_at": "2026-04-10 03:00:33",
@@ -983,26 +1019,6 @@
     {
       "added_at": "2026-04-10 03:00:33",
       "album": {
-        "name": "SAUDADE NUNCA \u00c9 DE GRA\u00c7A",
-        "url": "https://open.spotify.com/album/0d7XWCHJkT3aPtVt1BLDKS"
-      },
-      "artists": [
-        {
-          "name": "Maip\u00ea",
-          "url": "https://open.spotify.com/artist/29TGZb5S8iVFN9HzowvnPV"
-        },
-        {
-          "name": "Hotelo",
-          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
-        }
-      ],
-      "duration_ms": 174250,
-      "name": "SAUDADE NUNCA \u00c9 DE GRA\u00c7A",
-      "url": "https://open.spotify.com/track/7r8wOSXABuVgD0z9ABWey1"
-    },
-    {
-      "added_at": "2026-04-10 03:00:33",
-      "album": {
         "name": "nada s\u00e9rio",
         "url": "https://open.spotify.com/album/5IGmeu79E1pW35B6MmsReV"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 166153,
       "name": "nada s\u00e9rio",
       "url": "https://open.spotify.com/track/1Y8Gi9zCJZJ6KoLZD71OGw"
-    },
-    {
-      "added_at": "2026-04-10 03:00:33",
-      "album": {
-        "name": "Manh\u00e3 de Sol",
-        "url": "https://open.spotify.com/album/3112UESU5WJFX24ulal6XM"
-      },
-      "artists": [
-        {
-          "name": "Doral",
-          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
-        }
-      ],
-      "duration_ms": 181666,
-      "name": "Manh\u00e3 de Sol",
-      "url": "https://open.spotify.com/track/6IK8FcpWZ1j6VJvAqnjH0g"
     },
     {
       "added_at": "2026-04-10 03:00:33",

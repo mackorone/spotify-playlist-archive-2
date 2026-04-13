@@ -4,7 +4,7 @@
 
 > A perfect link up to soundtrack your day\. Cover: Adekunle Gold, Olamide
 
-635 songs - 1 day 8 hr 55 min
+636 songs - 1 day 8 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Amplify](https://open.spotify.com/track/3Yst8fBmKcLK7OEPeXB7tm) | [Guvna B](https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Amplify](https://open.spotify.com/album/0Yl6Q9gjUT7EMvuU8oK5GG) | 3:11 | 2023-04-20 | 2023-07-21 |
 | [Antics](https://open.spotify.com/track/0BRXih9fYu8Uo3cJGfWpNb) | [Marksman](https://open.spotify.com/artist/6L4nSgGW6OpNPqa83i2jDR) | [Antics](https://open.spotify.com/album/0KE2rk5ubOixQrVQhwKE8L) | 2:16 | 2022-08-18 | 2022-09-17 |
 | [Antidote \(feat\. Adekunle Gold\)](https://open.spotify.com/track/1ndeyZurGdaWqLh3srX0ia) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Antidote \(feat\. Adekunle Gold\)](https://open.spotify.com/album/3KQZiAYQg3kXCKPKKNDdbX) | 3:22 | 2021-12-20 | 2022-07-23 |
-| [Anyting](https://open.spotify.com/track/2pVZlbHWvJHjqLxSUM40Au) | [Skeete](https://open.spotify.com/artist/7vwwjn0kTEsI82Gj6HGypO) | [Anyting](https://open.spotify.com/album/0iYSMTpsRLaFztVnVhkxHo) | 2:02 | 2026-02-27 |  |
+| [Anyting](https://open.spotify.com/track/2pVZlbHWvJHjqLxSUM40Au) | [Skeete](https://open.spotify.com/artist/7vwwjn0kTEsI82Gj6HGypO) | [Anyting](https://open.spotify.com/album/0iYSMTpsRLaFztVnVhkxHo) | 2:02 | 2026-02-27 | 2026-04-13 |
 | [Apollo](https://open.spotify.com/track/1OGZU2zmK6x0UnM3yeZ4lR) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Outlaw](https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w) | 2:50 | 2023-11-24 | 2024-04-19 |
 | [Apollo](https://open.spotify.com/track/3OsZkVwyJhGLJ0KrdUx23o) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Apollo](https://open.spotify.com/album/3yblFXYTz2eKaNd36H6QQz) | 2:50 | 2022-05-06 | 2022-07-13 |
 | [Apotheke](https://open.spotify.com/track/4rijFxOY3GvhHopiWwHX71) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi) | [5th Dimension](https://open.spotify.com/album/6P09BN0UfWRJt4jCIaAGS4) | 4:34 | 2023-05-15 | 2023-07-21 |
@@ -578,6 +578,7 @@
 | [Time N Affection](https://open.spotify.com/track/0aMOalD335v1hsSXmLURzz) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Rave & Roses](https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG) | 3:50 | 2022-08-05 | 2023-04-25 |
 | [Time N Affection](https://open.spotify.com/track/1KapwhqF90mrl8aIlagtQR) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Rave & Roses](https://open.spotify.com/album/71S4BwV5E6Pwwz0ASZB7th) | 3:50 | 2022-05-06 | 2022-07-29 |
 | [Timoti](https://open.spotify.com/track/1HG9yS1bhOSsrUoHdUEnbW) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Playboy](https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ) | 2:19 | 2022-08-05 | 2022-10-13 |
+| [Ting Loud \(with Masicka\)](https://open.spotify.com/track/0SXhAXeKf5QuSsCUWoxRsH) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [Ting Loud \(with Masicka\)](https://open.spotify.com/album/46RyBz5z8NqR7x7wCJuKPX) | 3:22 | 2026-04-09 |  |
 | [Toma Toma](https://open.spotify.com/track/40t1l3IPtEIjlhAUPxn7jd) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Toma Toma](https://open.spotify.com/album/4o6yKd0pkk355Ttn7uyiDS) | 2:48 | 2024-11-22 | 2025-12-31 |
 | [Tomorrow](https://open.spotify.com/track/6NymBsuoyIsjNxZFZRmynz) | [AlorG](https://open.spotify.com/artist/3XVsxJ7cSnDnHtssbKiIPb) | [Tomorrow](https://open.spotify.com/album/0UZfeZizENHfRbHmrCXbV6) | 2:26 | 2026-03-20 |  |
 | [Too Many Gyal](https://open.spotify.com/track/3r0rGo4TblXrpK804La3xP) | [Sneakbo](https://open.spotify.com/artist/3EUM35RpJZkmptksMgQyj6) | [Too Many Gyal](https://open.spotify.com/album/3cr5sebIdeiREEiWAoaKhg) | 2:24 | 2025-07-31 | 2025-10-10 |

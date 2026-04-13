@@ -1,6 +1,6 @@
 {
   "description": "\ud83e\udd8b Musik, die sich anf\u00fchlt, wie alles kann, nichts muss \ud83e\udd8b",
-  "num_followers": 1317685,
+  "num_followers": 1317669,
   "original_name": "Fr\u00fchlingsgef\u00fchle",
   "owner": {
     "name": "Spotify",
@@ -911,22 +911,6 @@
     {
       "added_at": "2026-04-08 19:41:55",
       "album": {
-        "name": "If You Love Her",
-        "url": "https://open.spotify.com/album/5hgwPA78vCrhEDaTazNMyR"
-      },
-      "artists": [
-        {
-          "name": "Forest Blakk",
-          "url": "https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc"
-        }
-      ],
-      "duration_ms": 217351,
-      "name": "If You Love Her",
-      "url": "https://open.spotify.com/track/727Z2S2mtNH46CbP9EWPwY"
-    },
-    {
-      "added_at": "2026-04-08 19:41:55",
-      "album": {
         "name": "Lovers",
         "url": "https://open.spotify.com/album/5NEfU3Z8PfjeJXABaHf1FF"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 215773,
       "name": "Lovers",
       "url": "https://open.spotify.com/track/6bZuZKR8hoyzZXNh1IW2Bu"
+    },
+    {
+      "added_at": "2026-04-08 19:41:55",
+      "album": {
+        "name": "If You Love Her",
+        "url": "https://open.spotify.com/album/5hgwPA78vCrhEDaTazNMyR"
+      },
+      "artists": [
+        {
+          "name": "Forest Blakk",
+          "url": "https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc"
+        }
+      ],
+      "duration_ms": 217351,
+      "name": "If You Love Her",
+      "url": "https://open.spotify.com/track/727Z2S2mtNH46CbP9EWPwY"
     },
     {
       "added_at": "2026-04-08 19:41:55",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2026-04-08 19:41:55",
       "album": {
-        "name": "My Regards",
-        "url": "https://open.spotify.com/album/5j242B2iACKvvgwUFs60t2"
-      },
-      "artists": [
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        }
-      ],
-      "duration_ms": 191840,
-      "name": "My Regards",
-      "url": "https://open.spotify.com/track/52CDVCBt7tQI29r9ovQOJt"
-    },
-    {
-      "added_at": "2026-04-08 19:41:55",
-      "album": {
         "name": "Pazifik",
         "url": "https://open.spotify.com/album/0tWTZtKm5jkICfL067l5R2"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 201325,
       "name": "Walzer",
       "url": "https://open.spotify.com/track/605G7F1FEjm60IdXmLhlNN"
+    },
+    {
+      "added_at": "2026-04-08 19:41:55",
+      "album": {
+        "name": "My Regards",
+        "url": "https://open.spotify.com/album/5j242B2iACKvvgwUFs60t2"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 191840,
+      "name": "My Regards",
+      "url": "https://open.spotify.com/track/52CDVCBt7tQI29r9ovQOJt"
     },
     {
       "added_at": "2026-04-08 19:41:55",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2026-04-08 19:41:55",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/03jkbwbhopEYNhcbwGwIt8"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 199756,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/4Skkx52Dh8yo4G1ijAEGs3"
-    },
-    {
-      "added_at": "2026-04-08 19:41:55",
-      "album": {
         "name": "Hoffnungslos Hoffnungsvoll",
         "url": "https://open.spotify.com/album/6MHuwIyJMv2VsaBqzICOlc"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 206720,
       "name": "Sommerregen",
       "url": "https://open.spotify.com/track/3Eesfjqw0uwnOVr2HelCsX"
+    },
+    {
+      "added_at": "2026-04-08 19:41:55",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/03jkbwbhopEYNhcbwGwIt8"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 199756,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/4Skkx52Dh8yo4G1ijAEGs3"
     },
     {
       "added_at": "2026-04-08 19:41:55",
