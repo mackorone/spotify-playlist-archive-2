@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/71L6ZAisLtzcDO2PVDXkCl">Jenny Owen Youngs</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-349 songs - 18 hr 14 min
+350 songs - 18 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,7 +180,8 @@
 | [King Size Bed](https://open.spotify.com/track/078pXymemqeV5DH00w6cBa) | [Katie Wighton](https://open.spotify.com/artist/41CNj1cWdeOjG7M5m8bTut) | [King Size Bed](https://open.spotify.com/album/0Dwo0yFwvBovZSJvQGGkbt) | 2:58 | 2021-12-27 | 2025-11-26 |
 | [King Size Bed](https://open.spotify.com/track/5otwN9Mn79pn7POXm5vZFk) | [Katie Wighton](https://open.spotify.com/artist/41CNj1cWdeOjG7M5m8bTut) | [Katie Wighton](https://open.spotify.com/album/1Py4Muj45TeIkRsfDjFDVn) | 2:58 | 2026-02-28 |  |
 | [Knife Went In](https://open.spotify.com/track/1zjcpWgj97g2QggKaLbHkl) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Knife Went In](https://open.spotify.com/album/3NkrN8x8bqnsv82BejvpoR) | 3:39 | 2023-08-10 | 2023-09-26 |
-| [Knife Went In](https://open.spotify.com/track/5bBDvz7EAuVlPTlwKxSf7l) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Avalanche](https://open.spotify.com/album/6XP23DjYr0NNJZMjVlnPAo) | 3:39 | 2023-09-25 |  |
+| [Knife Went In](https://open.spotify.com/track/5bBDvz7EAuVlPTlwKxSf7l) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Avalanche](https://open.spotify.com/album/6XP23DjYr0NNJZMjVlnPAo) | 3:39 | 2023-09-25 | 2026-04-14 |
+| [Knife Went In \- Reimagined](https://open.spotify.com/track/48TkSvLtMKe7CeYsNhvwbD) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H), [Ruen Brothers](https://open.spotify.com/artist/0CBu2ZuF5503TaauGVk1Go) | [Avalanche \(Deluxe\)](https://open.spotify.com/album/4j6Goz5pTpSgRyYjA8anfp) | 3:29 | 2026-04-13 |  |
 | [Know U Anymore \(feat\. Sarah Hyland\)](https://open.spotify.com/track/6Ufv48wYcNp822At8Q4k7w) | [BoTalks](https://open.spotify.com/artist/3wjluyWXDHiiMKxkhaW1em), [Sarah Hyland](https://open.spotify.com/artist/7icfzHg2AhHxy65PU58rCP) | [Know U Anymore](https://open.spotify.com/album/73JMf3o63Tvh9CKx5yrr7N) | 3:11 | 2021-12-27 |  |
 | [Last Person](https://open.spotify.com/track/32HZuMuyydgpFqbuu8omR0) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Transmitter Failure](https://open.spotify.com/album/1T8PdV0KCGPIATvOyYJ66c) | 3:15 | 2021-12-27 | 2022-08-19 |
 | [Last Person](https://open.spotify.com/track/3uVH59Q8AF1nB7P6D7H6ZJ) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Transmitter Failure \(Bonus Track Version\)](https://open.spotify.com/album/66BFEncEfO6c8zgKXWKBrZ) | 3:15 | 2022-08-18 |  |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "admPAAAAAAAh94q6u/6FX0/8X1PggI4T",
+  "snapshot_id": "adrggAAAAADkypoj5Ck5icfRHhwiY9IU",
   "tracks": [
     {
       "added_at": null,
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
         }
       ],
-      "duration_ms": 311077,
-      "name": "Silver Age",
-      "url": "https://open.spotify.com/track/4ztZ4SgrT8OnBCaExPva0R"
+      "duration_ms": 298865,
+      "name": "Endowment",
+      "url": "https://open.spotify.com/track/2YMtUI0kiCkurTqSCFbEtv"
     },
     {
       "added_at": null,
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
         }
       ],
-      "duration_ms": 298865,
-      "name": "Endowment",
-      "url": "https://open.spotify.com/track/2YMtUI0kiCkurTqSCFbEtv"
+      "duration_ms": 311077,
+      "name": "Silver Age",
+      "url": "https://open.spotify.com/track/4ztZ4SgrT8OnBCaExPva0R"
     },
     {
       "added_at": null,
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
         }
       ],
-      "duration_ms": 185870,
-      "name": "Lace",
-      "url": "https://open.spotify.com/track/5PEiAHjdDWcyzVfY7b63o6"
+      "duration_ms": 248154,
+      "name": "Arch",
+      "url": "https://open.spotify.com/track/7J3rIJQfGotyvvtYD7ncYC"
     },
     {
       "added_at": null,
@@ -787,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Island Alchemy",
-        "url": "https://open.spotify.com/album/1ERBT1FkGAKPslESZgxWKS"
-      },
-      "artists": [
-        {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        }
-      ],
-      "duration_ms": 364837,
-      "name": "Net (Neverendingthing)",
-      "url": "https://open.spotify.com/track/1cw9KWKpaqFS2c8HFV27zV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "2nd Quake",
         "url": "https://open.spotify.com/album/0e7lXXUdpt9aBP6neNLolB"
       },
@@ -816,9 +800,9 @@
           "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
         }
       ],
-      "duration_ms": 248154,
-      "name": "Arch",
-      "url": "https://open.spotify.com/track/7J3rIJQfGotyvvtYD7ncYC"
+      "duration_ms": 185870,
+      "name": "Lace",
+      "url": "https://open.spotify.com/track/5PEiAHjdDWcyzVfY7b63o6"
     },
     {
       "added_at": null,

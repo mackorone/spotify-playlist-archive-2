@@ -1,6 +1,6 @@
 {
   "description": "Nagrody rozdane! Pos\u0142uchaj zwyci\u0119zc\u00f3w i  nominowanych utwor\u00f3w w kategorii singiel roku. ",
-  "num_followers": 11771,
+  "num_followers": 11809,
   "original_name": "Popkillery 2026: Singiel Roku",
   "owner": {
     "name": "Spotify",
@@ -79,6 +79,26 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
+        "name": "Zabior\u0119 Ci\u0119 Tam",
+        "url": "https://open.spotify.com/album/1G1oz4LW7AloRrSn2EQ90B"
+      },
+      "artists": [
+        {
+          "name": "Fukaj",
+          "url": "https://open.spotify.com/artist/3bS0MLzGAoO6lLUy7gguHY"
+        },
+        {
+          "name": "Vito Bambino",
+          "url": "https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o"
+        }
+      ],
+      "duration_ms": 213191,
+      "name": "Zabior\u0119 Ci\u0119 Tam",
+      "url": "https://open.spotify.com/track/6LrArcAWVYhqtl68a7Wt1U"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
         "name": "dop\u00f3ki si\u0119 nie zn\u00fcdzisz",
         "url": "https://open.spotify.com/album/1o1JLfKESFIoGR6ssuy8Pl"
       },
@@ -103,26 +123,6 @@
       "duration_ms": 204827,
       "name": "dop\u00f3ki si\u0119 nie zn\u00fcdzisz",
       "url": "https://open.spotify.com/track/4WU8ZRMoonGLw00lXLOvpY"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
-        "name": "Zabior\u0119 Ci\u0119 Tam",
-        "url": "https://open.spotify.com/album/1G1oz4LW7AloRrSn2EQ90B"
-      },
-      "artists": [
-        {
-          "name": "Fukaj",
-          "url": "https://open.spotify.com/artist/3bS0MLzGAoO6lLUy7gguHY"
-        },
-        {
-          "name": "Vito Bambino",
-          "url": "https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o"
-        }
-      ],
-      "duration_ms": 213191,
-      "name": "Zabior\u0119 Ci\u0119 Tam",
-      "url": "https://open.spotify.com/track/6LrArcAWVYhqtl68a7Wt1U"
     },
     {
       "added_at": "2026-04-09 22:12:46",
@@ -379,6 +379,30 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
+        "name": "1DAY IN LA",
+        "url": "https://open.spotify.com/album/00J4FpVxEoll7mtaxUye1N"
+      },
+      "artists": [
+        {
+          "name": "francis",
+          "url": "https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko"
+        },
+        {
+          "name": "bambi",
+          "url": "https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk"
+        },
+        {
+          "name": "OKI",
+          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
+        }
+      ],
+      "duration_ms": 144210,
+      "name": "1DAY IN LA",
+      "url": "https://open.spotify.com/track/1KbyOU3mlUN9UiXU2kPso9"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
         "name": "NIENAWIDZ\u0118 BY\u0106 W KLUBIE",
         "url": "https://open.spotify.com/album/2zeFY1lBaN1pm0FIQ5sQEk"
       },
@@ -407,30 +431,6 @@
       "duration_ms": 164000,
       "name": "NIENAWIDZ\u0118 BY\u0106 W KLUBIE",
       "url": "https://open.spotify.com/track/126sCXH3zr18kbHlKit0sX"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
-        "name": "1DAY IN LA",
-        "url": "https://open.spotify.com/album/00J4FpVxEoll7mtaxUye1N"
-      },
-      "artists": [
-        {
-          "name": "francis",
-          "url": "https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko"
-        },
-        {
-          "name": "bambi",
-          "url": "https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk"
-        },
-        {
-          "name": "OKI",
-          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
-        }
-      ],
-      "duration_ms": 144210,
-      "name": "1DAY IN LA",
-      "url": "https://open.spotify.com/track/1KbyOU3mlUN9UiXU2kPso9"
     },
     {
       "added_at": "2026-04-09 22:12:46",
@@ -643,26 +643,6 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
-        "name": "Quattro",
-        "url": "https://open.spotify.com/album/264RetMxM0ihGubycm2Y4L"
-      },
-      "artists": [
-        {
-          "name": "Kabe",
-          "url": "https://open.spotify.com/artist/4Q3xLVaD2uBZGVxmCYuSkt"
-        },
-        {
-          "name": "Opiat",
-          "url": "https://open.spotify.com/artist/001oyhl94fb7YKL6fVqHOo"
-        }
-      ],
-      "duration_ms": 177933,
-      "name": "Quattro",
-      "url": "https://open.spotify.com/track/0lMpZ1eELPt7WENvcei807"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
         "name": "NIE MA CB (PRZY MNIE TU)",
         "url": "https://open.spotify.com/album/2ZBuaxJT22uoSJdsJEOmiw"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 213818,
       "name": "NIE MA CB (PRZY MNIE TU)",
       "url": "https://open.spotify.com/track/6VUFiHo3hE3ZAyIAkQOyol"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
+        "name": "Quattro",
+        "url": "https://open.spotify.com/album/264RetMxM0ihGubycm2Y4L"
+      },
+      "artists": [
+        {
+          "name": "Kabe",
+          "url": "https://open.spotify.com/artist/4Q3xLVaD2uBZGVxmCYuSkt"
+        },
+        {
+          "name": "Opiat",
+          "url": "https://open.spotify.com/artist/001oyhl94fb7YKL6fVqHOo"
+        }
+      ],
+      "duration_ms": 177933,
+      "name": "Quattro",
+      "url": "https://open.spotify.com/track/0lMpZ1eELPt7WENvcei807"
     },
     {
       "added_at": "2026-04-09 22:12:46",
@@ -1187,6 +1187,26 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
+        "name": "LET'S DANCE MIXTAPE",
+        "url": "https://open.spotify.com/album/7bITUtLMeiSWGM6RzZjpu6"
+      },
+      "artists": [
+        {
+          "name": "AG",
+          "url": "https://open.spotify.com/artist/1UdoAayhUvqEp90sGJSb5I"
+        },
+        {
+          "name": "lohleq",
+          "url": "https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF"
+        }
+      ],
+      "duration_ms": 124833,
+      "name": "STYL POPPIN",
+      "url": "https://open.spotify.com/track/2ifECaZoMt964XTfJpfKOe"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
         "name": "Rajzefiber",
         "url": "https://open.spotify.com/album/1zySj2zrLpCvz5B9ruqpse"
       },
@@ -1207,26 +1227,6 @@
       "duration_ms": 188181,
       "name": "Nie \u015api\u0119",
       "url": "https://open.spotify.com/track/1n8PfVTsFblQrdcWHIRNfC"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
-        "name": "LET'S DANCE MIXTAPE",
-        "url": "https://open.spotify.com/album/7bITUtLMeiSWGM6RzZjpu6"
-      },
-      "artists": [
-        {
-          "name": "AG",
-          "url": "https://open.spotify.com/artist/1UdoAayhUvqEp90sGJSb5I"
-        },
-        {
-          "name": "lohleq",
-          "url": "https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF"
-        }
-      ],
-      "duration_ms": 124833,
-      "name": "STYL POPPIN",
-      "url": "https://open.spotify.com/track/2ifECaZoMt964XTfJpfKOe"
     },
     {
       "added_at": "2026-04-09 22:12:46",
@@ -1743,26 +1743,6 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
-        "name": "Przytul Jacka",
-        "url": "https://open.spotify.com/album/66nDvtAJIbAG085Ow4vedG"
-      },
-      "artists": [
-        {
-          "name": "Wini",
-          "url": "https://open.spotify.com/artist/2sIuhMKS4v6WOeS0HLS24r"
-        },
-        {
-          "name": "DJ Pete",
-          "url": "https://open.spotify.com/artist/4Kpm1vfuya0iB0ksyL3gX0"
-        }
-      ],
-      "duration_ms": 307562,
-      "name": "Przytul Jacka",
-      "url": "https://open.spotify.com/track/7uxrhskRmMqgH1WkQtNVVb"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
         "name": "OSINT",
         "url": "https://open.spotify.com/album/0jv42KQs0UezVYzBxUHsqs"
       },
@@ -1779,6 +1759,26 @@
       "duration_ms": 99259,
       "name": "OSINT",
       "url": "https://open.spotify.com/track/08Znuk592Y4r1lNNDouVeG"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
+        "name": "Przytul Jacka",
+        "url": "https://open.spotify.com/album/66nDvtAJIbAG085Ow4vedG"
+      },
+      "artists": [
+        {
+          "name": "Wini",
+          "url": "https://open.spotify.com/artist/2sIuhMKS4v6WOeS0HLS24r"
+        },
+        {
+          "name": "DJ Pete",
+          "url": "https://open.spotify.com/artist/4Kpm1vfuya0iB0ksyL3gX0"
+        }
+      ],
+      "duration_ms": 307562,
+      "name": "Przytul Jacka",
+      "url": "https://open.spotify.com/track/7uxrhskRmMqgH1WkQtNVVb"
     },
     {
       "added_at": "2026-04-09 22:12:46",

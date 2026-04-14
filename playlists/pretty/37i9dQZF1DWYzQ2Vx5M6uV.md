@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 
 > Latin Afrobeats heat that will make you sweat 🥵 Cover: Rvssian, Rauw Alejandro & Wizkid
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,334 likes - 100 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,333 likes - 100 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 56 | [Esa Nena](https://open.spotify.com/track/3L9AvSMCtn6A8iL1iCj8v6) | [Dejota2021](https://open.spotify.com/artist/5NpCde9H57MxIZqbmfkElY) | [Esa Nena](https://open.spotify.com/album/48LyKkoGDfbBrlffR58PQV) | 2:38 |
 | 57 | [Laho III](https://open.spotify.com/track/6Ax7HFmxQTWfJB5Wj8o1ET) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Laho III](https://open.spotify.com/album/5cNmhhxoAbTfeAp541gD6i) | 2:58 |
 | 58 | [White Wine](https://open.spotify.com/track/4AETvh6O4bT8qZyo1LhGjb) | [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [White Wine](https://open.spotify.com/album/6gK9COmLa1YE0TygSYH3DP) | 3:12 |
-| 59 | [Tengo Un Plan \- Remix](https://open.spotify.com/track/3AXw3pd7KHGSogprPSxrMh) | [Key\-Key](https://open.spotify.com/artist/6GKbEjuVNKuuAKetDXA2Mi), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Tengo Un Plan \(Remix\)](https://open.spotify.com/album/3wzg2uQTXIdUKDtLFgblXH) | 3:35 |
-| 60 | [Contigo](https://open.spotify.com/track/2qWQRcqmmXLiI3jzZBfKwd) | [Mar Lucas](https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI), [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [Contigo](https://open.spotify.com/album/0wpvm3fJua2roPGSKKAxNt) | 2:37 |
+| 59 | [Contigo](https://open.spotify.com/track/2qWQRcqmmXLiI3jzZBfKwd) | [Mar Lucas](https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI), [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [Contigo](https://open.spotify.com/album/0wpvm3fJua2roPGSKKAxNt) | 2:37 |
+| 60 | [Tengo Un Plan \- Remix](https://open.spotify.com/track/3AXw3pd7KHGSogprPSxrMh) | [Key\-Key](https://open.spotify.com/artist/6GKbEjuVNKuuAKetDXA2Mi), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Tengo Un Plan \(Remix\)](https://open.spotify.com/album/3wzg2uQTXIdUKDtLFgblXH) | 3:35 |
 | 61 | [Tucu](https://open.spotify.com/track/4oSDSQzBBB2BIvHeHcXoyu) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Amarion](https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ) | [Afro](https://open.spotify.com/album/4UB2nT0IAEunpdUFiuFUxA) | 3:06 |
 | 62 | [En Tu Marea](https://open.spotify.com/track/6dsDpY2pE4Xge9JHm8IXol) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Pantera](https://open.spotify.com/album/10vK60mLIm42qqDe2u4YPV) | 2:33 |
 | 63 | [Wapa \- Remix](https://open.spotify.com/track/06RpXuLcw8SQn8kBlMLMvP) | [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT), [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX), [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi) | [Wapa \(Remix\)](https://open.spotify.com/album/45V2HrcN52duWmzzXjkQqV) | 3:48 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 84 | [WAYO :\(](https://open.spotify.com/track/2tPFQ2c5qhizm20bfYoTnP) | [RICCII](https://open.spotify.com/artist/1IrSGU6ocGNOCVhOcDB6yf) | [WAYO :\(](https://open.spotify.com/album/3xaUmy3eNYZJk4lrKUa3lI) | 2:25 |
 | 85 | [Yeye](https://open.spotify.com/track/0fDfCZNxfJgxG9pdwnVT3B) | [Jonathan Moly](https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc), [Mohombi](https://open.spotify.com/artist/37GUqxafAvAKGMZbXCUnmr) | [Yeye](https://open.spotify.com/album/06s1jeHWriD0paXix3dr8U) | 2:19 |
 | 86 | [Mesera](https://open.spotify.com/track/74sHaZwjnhnkE3pIxHpmpf) | [Amarion](https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ), [Neeus](https://open.spotify.com/artist/4OMnvxQdSJeobzinrEjTpO) | [Mesera](https://open.spotify.com/album/42ggfZSRFICsjBcBeV7K0G) | 2:43 |
-| 87 | [cuLE viaJE](https://open.spotify.com/track/2YUmcV436nJ7zIbbbZlZp0) | [Till High](https://open.spotify.com/artist/1nRwDiTn0eJVP7GYxPD2ie) | [cuLE viaJE](https://open.spotify.com/album/71MHoEjzYbnLcY2DzNvOnA) | 2:38 |
-| 88 | [ohsaye](https://open.spotify.com/track/5GjKk0yetuWZC6k5MIE6Ym) | [Anacri](https://open.spotify.com/artist/5pZYxz0oVIb6cUTPhn6NoQ) | [ohsaye](https://open.spotify.com/album/2IvvGxzzYmnpWGokt7jIG5) | 3:01 |
+| 87 | [ohsaye](https://open.spotify.com/track/5GjKk0yetuWZC6k5MIE6Ym) | [Anacri](https://open.spotify.com/artist/5pZYxz0oVIb6cUTPhn6NoQ) | [ohsaye](https://open.spotify.com/album/2IvvGxzzYmnpWGokt7jIG5) | 3:01 |
+| 88 | [cuLE viaJE](https://open.spotify.com/track/2YUmcV436nJ7zIbbbZlZp0) | [Till High](https://open.spotify.com/artist/1nRwDiTn0eJVP7GYxPD2ie) | [cuLE viaJE](https://open.spotify.com/album/71MHoEjzYbnLcY2DzNvOnA) | 2:38 |
 | 89 | [Puntos Suspensivos](https://open.spotify.com/track/158YjH4OfLhG3AuUalaFUE) | [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk) | [Puntos Suspensivos](https://open.spotify.com/album/3oUsMQAhvY3PzAw6sT0y03) | 2:18 |
 | 90 | [Cafecito](https://open.spotify.com/track/0GBXXZLa3z9BQTeSK5ZmW3) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [Cafecito](https://open.spotify.com/album/3J8oDzy6ixnEzhoxbADylh) | 2:43 |
 | 91 | [Ese Habladito](https://open.spotify.com/track/4GwlidJhEFaJ5wSryBFvrf) | [Nono](https://open.spotify.com/artist/0zL8jjsngYMonC9YLeWy0p) | [Ese Habladito](https://open.spotify.com/album/6TtWEoDSzusyHrnMjiE2Ru) | 3:12 |

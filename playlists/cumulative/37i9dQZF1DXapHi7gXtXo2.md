@@ -4,7 +4,7 @@
 
 > Dale play y déjate llevar por estas finas melodías Indie.
 
-188 songs - 10 hr 23 min
+189 songs - 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Delorean](https://open.spotify.com/track/2jiVXTu5brRC5HWo47obWP) | [Mi$HNRZ](https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C) | [Delorean](https://open.spotify.com/album/5fajWt99WhQeqwdcLaLi6t) | 3:08 | 2023-12-01 |  |
 | [Departamento](https://open.spotify.com/track/0L7UzdYmOkLhHoDLEcUa8f) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp), [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Departamento](https://open.spotify.com/album/6HOznOXnB3b994Rq9HMlzj) | 3:54 | 2023-12-01 | 2024-04-19 |
 | [Desnuda](https://open.spotify.com/track/0drLaDtp4SxzUJoLwEpNe1) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Mi Primer Día Triste](https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo) | 3:45 | 2023-12-01 |  |
-| [DIAS DE PAJA](https://open.spotify.com/track/78GT2hT82AWRJq2kwXJAI5) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [DIAS DE PAJA](https://open.spotify.com/album/1j1tnRVfGpSzgjiOLE1dtX) | 3:53 | 2024-09-20 |  |
+| [DIAS DE PAJA](https://open.spotify.com/track/78GT2hT82AWRJq2kwXJAI5) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [DIAS DE PAJA](https://open.spotify.com/album/1j1tnRVfGpSzgjiOLE1dtX) | 3:53 | 2024-09-20 | 2026-04-14 |
 | [Duele](https://open.spotify.com/track/5aS8Tp9ewqjjKzdhqdgjaK) | [NAFTA](https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6) | [Duele](https://open.spotify.com/album/1cCRSSDJY4LUhn5goRDHO5) | 3:27 | 2023-12-01 |  |
 | [El Club](https://open.spotify.com/track/0vDfod7HBva0Kr0R4tEIpD) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [El Club](https://open.spotify.com/album/4WTDpgb2hxYeqaOtcsUOVh) | 2:39 | 2024-09-20 |  |
 | [El Encuentro](https://open.spotify.com/track/0PbDj1Lh8uZJ2ZcTRSBvQf) | [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3), [Amaia](https://open.spotify.com/artist/1WLEfsQjvgtFSGkrHonzFX) | [El Encuentro](https://open.spotify.com/album/3NAGaIPdSjlSJhAbcgRU3A) | 2:58 | 2023-12-01 |  |
@@ -165,6 +165,7 @@
 | [Supersticiones](https://open.spotify.com/track/5JrnwgsC1FRz6uHyGFHpqZ) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [SUPERSTICIONES](https://open.spotify.com/album/448b1zlK215QOb8UvFNzpu) | 3:08 | 2023-12-01 | 2024-04-19 |
 | [SUR](https://open.spotify.com/track/2nw7A30Hk2QuCGjcyiWbxj) | [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s), [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH) | [SUR](https://open.spotify.com/album/1oTRpQm1ed2RqFq402ZaeO) | 3:28 | 2023-12-07 | 2025-05-09 |
 | [Susurrito](https://open.spotify.com/track/7btTCfo8fyFOhqFXFdMi7b) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [Feroza](https://open.spotify.com/album/3Ear2Vze1ZV4JDk4ZfWp2A) | 2:58 | 2023-12-01 |  |
+| [Tajo en el tiempo](https://open.spotify.com/track/2MZwFxREC3JqitEtrxpkXl) | [Eugenia Mosca](https://open.spotify.com/artist/7caluRMMl2cL4NMmKtC3hu), [Alfonsina](https://open.spotify.com/artist/2PiVgpD2ynESIozDDEEh8k) | [Tajo en el tiempo](https://open.spotify.com/album/3Q2sxvcJxT5qDlAt7hz54T) | 3:45 | 2024-09-20 |  |
 | [Tal Vez](https://open.spotify.com/track/1q1U2Zf3ixxgVxU2gtheSK) | [Un Verano](https://open.spotify.com/artist/2vaSBYGcW5v46jnDdXhawN), [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN) | [Tal Vez](https://open.spotify.com/album/7weXDseJxjGGeqxzp1xhAv) | 3:53 | 2024-07-25 | 2026-03-25 |
 | [Tarde o Temprano](https://open.spotify.com/track/7CJbGTWfMlNYkhk2MgBfde) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [Tarde o Temprano](https://open.spotify.com/album/5MVlQJ6WnmXjzje3ruMLvS) | 3:33 | 2023-12-01 |  |
 | [Tardes de Melancolía](https://open.spotify.com/track/51mmo3YuNgD3SvK7G5HHcv) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Besos en la Espalda](https://open.spotify.com/album/7KDc628gSoRVXdJxDNGNG3) | 3:30 | 2023-12-01 |  |

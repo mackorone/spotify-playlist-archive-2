@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 
 > I brani italiani di cui siamo ossessionati 🎧 BLANCO in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 639,461 likes - 81 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 639,490 likes - 81 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,21 +43,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 | 33 | [Prima o poi](https://open.spotify.com/track/675zgd9XBl6yBThILj9tQn) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [Miss Italia](https://open.spotify.com/album/2UNSUlpESFHb4nVMzTZDbV) | 3:20 |
 | 34 | [ACQUARIO](https://open.spotify.com/track/0P0GZSQTYSdCPzQar8Rbqf) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [ACQUARIO](https://open.spotify.com/album/4Kb07sqP1OQ9xkfazOi7C3) | 3:13 |
 | 35 | [Atlantide \(from the Netflix film “Non abbiam bisogno di parole”\)](https://open.spotify.com/track/57KzV95Th155vud4KmLqLN) | [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [Atlantide \(from the Netflix film “Non abbiam bisogno di parole”\)](https://open.spotify.com/album/4UMfdw3HSm7SeWurM5fgok) | 2:44 |
-| 36 | [Risorgere](https://open.spotify.com/track/1437F3lIKt7rc1cSALqz6Q) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Vangelo](https://open.spotify.com/album/2gqFeF2xx9zMEwUWRc5UK4) | 3:57 |
-| 37 | [Quelli come me](https://open.spotify.com/track/0rpUylGGF9tPRgilGzvgSK) | [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Quelli come me](https://open.spotify.com/album/6Stq5rzanrAivV37ueldaS) | 3:20 |
-| 38 | [Stupido pensiero \(feat\. Elisa\)](https://open.spotify.com/track/4w6JWbj7B7YlhjxHta6hnq) | [nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD), [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23) | [io Individuo](https://open.spotify.com/album/31bkDaSjWXeCnc18BfkpaY) | 3:44 |
-| 39 | [Peggio del diavolo \(con Gianluca Grignani\)](https://open.spotify.com/track/0xAhJXHWSxwb6yMy9iOUnO) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH), [Gianluca Grignani](https://open.spotify.com/artist/0H1InhXaXQPL1aj0mvHemU) | [Ma'](https://open.spotify.com/album/2dSL2X3K3YoVwaKty2JYcE) | 3:08 |
-| 40 | [GIGANTI](https://open.spotify.com/track/0YRP6PEHlruh4UQhPYpZ2a) | [AIELLO](https://open.spotify.com/artist/5bxbPQo0VkFgZKemF0YKb4) | [GIGANTI](https://open.spotify.com/album/2RrXRSoC88ClocFyQxdT9W) | 2:56 |
-| 41 | [Bianca](https://open.spotify.com/track/5ZuCGMKhsYhzFkugdD9x5P) | [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [Bianca](https://open.spotify.com/album/04P48FCwXo0FsLy5DKBAHg) | 3:14 |
-| 42 | [FARFALLE \(nello stomaco\)](https://open.spotify.com/track/6nFCfQyV8ZzcgCNRGIyYyp) | [Cioffi](https://open.spotify.com/artist/7icODmmdn2ve06h2HvOfPa), [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [FARFALLE \(nello stomaco\)](https://open.spotify.com/album/4ammq1UZhwOSpK5nYG6Asu) | 2:40 |
-| 43 | [Resta Con Me](https://open.spotify.com/track/1GjQApTKIADKfSoZm8bHRK) | [Bambole Di Pezza](https://open.spotify.com/artist/2RucBHMHhR5LMQUoGO19OW) | [Resta Con Me](https://open.spotify.com/album/4mCgQu8BIqXpiil8pw5KDj) | 3:10 |
-| 44 | [JURNATA 'E SOLE](https://open.spotify.com/track/7IqOqo9LfqTxzj174TETUH) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz) | [JURNATA 'E SOLE](https://open.spotify.com/album/0CkovfE5wxMjWrLU4xcz7E) | 2:46 |
-| 45 | [Tutto Tempesta](https://open.spotify.com/track/0qB1D1xjTid1xyfmpvG2RA) | [Nicolò Filippucci](https://open.spotify.com/artist/5v11UeQ72AbrburRA8fkMi) | [UN POSTO DOVE ANDARE](https://open.spotify.com/album/6hWE6qtN7dH991wZMXEIHM) | 3:12 |
-| 46 | [Per sempre sì](https://open.spotify.com/track/5W1mx7Oeg2HxmASrth1nTt) | [Sal Da Vinci](https://open.spotify.com/artist/7cdIY4mDfM1dbjgl7s2fGR) | [Per sempre sì](https://open.spotify.com/album/32HEGXJyQkqHh888V70rdu) | 2:55 |
-| 47 | [Anche a vent’anni si muore](https://open.spotify.com/track/59Awynpg4oFhSwb5F8lQQ1) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Anche a vent’anni si muore](https://open.spotify.com/album/5ia2NfmJrcmFBZcX5GVloM) | 3:40 |
-| 48 | [DIMMI CHE MI VUOI](https://open.spotify.com/track/2K8c3Q6BCsW7xx1j4um4kz) | [Gard](https://open.spotify.com/artist/25p6aXpMXAHmFj2jkukiVo) | [DIMMI CHE MI VUOI](https://open.spotify.com/album/72fqsHsIMKDS586Fk56Oo3) | 3:27 |
-| 49 | [Voilà](https://open.spotify.com/track/6IhEd41nfdL7qG4MVfZVAp) | [Elettra Lamborghini](https://open.spotify.com/artist/3o7fC2O4nraaicpID6bBZW) | [Voilà](https://open.spotify.com/album/1sPD0TpvV5Q62TCnyijamW) | 3:12 |
-| 50 | [Dove Andare](https://open.spotify.com/track/2Poalx3D18sXaufZLom7AT) | [BALTIMORA](https://open.spotify.com/artist/0rRRvEq07vdUc9QgaK46Fl) | [Dove Andare](https://open.spotify.com/album/0yReDDNaEERMPT85xSTdke) | 2:51 |
+| 36 | [Quelli come me](https://open.spotify.com/track/0rpUylGGF9tPRgilGzvgSK) | [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Quelli come me](https://open.spotify.com/album/6Stq5rzanrAivV37ueldaS) | 3:20 |
+| 37 | [Stupido pensiero \(feat\. Elisa\)](https://open.spotify.com/track/4w6JWbj7B7YlhjxHta6hnq) | [nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD), [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23) | [io Individuo](https://open.spotify.com/album/31bkDaSjWXeCnc18BfkpaY) | 3:44 |
+| 38 | [Peggio del diavolo \(con Gianluca Grignani\)](https://open.spotify.com/track/0xAhJXHWSxwb6yMy9iOUnO) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH), [Gianluca Grignani](https://open.spotify.com/artist/0H1InhXaXQPL1aj0mvHemU) | [Ma'](https://open.spotify.com/album/2dSL2X3K3YoVwaKty2JYcE) | 3:08 |
+| 39 | [GIGANTI](https://open.spotify.com/track/0YRP6PEHlruh4UQhPYpZ2a) | [AIELLO](https://open.spotify.com/artist/5bxbPQo0VkFgZKemF0YKb4) | [GIGANTI](https://open.spotify.com/album/2RrXRSoC88ClocFyQxdT9W) | 2:56 |
+| 40 | [Bianca](https://open.spotify.com/track/5ZuCGMKhsYhzFkugdD9x5P) | [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [Bianca](https://open.spotify.com/album/04P48FCwXo0FsLy5DKBAHg) | 3:14 |
+| 41 | [FARFALLE \(nello stomaco\)](https://open.spotify.com/track/6nFCfQyV8ZzcgCNRGIyYyp) | [Cioffi](https://open.spotify.com/artist/7icODmmdn2ve06h2HvOfPa), [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [FARFALLE \(nello stomaco\)](https://open.spotify.com/album/4ammq1UZhwOSpK5nYG6Asu) | 2:40 |
+| 42 | [Resta Con Me](https://open.spotify.com/track/1GjQApTKIADKfSoZm8bHRK) | [Bambole Di Pezza](https://open.spotify.com/artist/2RucBHMHhR5LMQUoGO19OW) | [Resta Con Me](https://open.spotify.com/album/4mCgQu8BIqXpiil8pw5KDj) | 3:10 |
+| 43 | [JURNATA 'E SOLE](https://open.spotify.com/track/7IqOqo9LfqTxzj174TETUH) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz) | [JURNATA 'E SOLE](https://open.spotify.com/album/0CkovfE5wxMjWrLU4xcz7E) | 2:46 |
+| 44 | [Tutto Tempesta](https://open.spotify.com/track/0qB1D1xjTid1xyfmpvG2RA) | [Nicolò Filippucci](https://open.spotify.com/artist/5v11UeQ72AbrburRA8fkMi) | [UN POSTO DOVE ANDARE](https://open.spotify.com/album/6hWE6qtN7dH991wZMXEIHM) | 3:12 |
+| 45 | [Per sempre sì](https://open.spotify.com/track/5W1mx7Oeg2HxmASrth1nTt) | [Sal Da Vinci](https://open.spotify.com/artist/7cdIY4mDfM1dbjgl7s2fGR) | [Per sempre sì](https://open.spotify.com/album/32HEGXJyQkqHh888V70rdu) | 2:55 |
+| 46 | [Anche a vent’anni si muore](https://open.spotify.com/track/59Awynpg4oFhSwb5F8lQQ1) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Anche a vent’anni si muore](https://open.spotify.com/album/5ia2NfmJrcmFBZcX5GVloM) | 3:40 |
+| 47 | [DIMMI CHE MI VUOI](https://open.spotify.com/track/2K8c3Q6BCsW7xx1j4um4kz) | [Gard](https://open.spotify.com/artist/25p6aXpMXAHmFj2jkukiVo) | [DIMMI CHE MI VUOI](https://open.spotify.com/album/72fqsHsIMKDS586Fk56Oo3) | 3:27 |
+| 48 | [Voilà](https://open.spotify.com/track/6IhEd41nfdL7qG4MVfZVAp) | [Elettra Lamborghini](https://open.spotify.com/artist/3o7fC2O4nraaicpID6bBZW) | [Voilà](https://open.spotify.com/album/1sPD0TpvV5Q62TCnyijamW) | 3:12 |
+| 49 | [Dove Andare](https://open.spotify.com/track/2Poalx3D18sXaufZLom7AT) | [BALTIMORA](https://open.spotify.com/artist/0rRRvEq07vdUc9QgaK46Fl) | [Dove Andare](https://open.spotify.com/album/0yReDDNaEERMPT85xSTdke) | 2:51 |
+| 50 | [Risorgere](https://open.spotify.com/track/1437F3lIKt7rc1cSALqz6Q) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Vangelo](https://open.spotify.com/album/2gqFeF2xx9zMEwUWRc5UK4) | 3:57 |
 | 51 | [Esibizionista](https://open.spotify.com/track/16mdISuTFms1vnxc8gXyQu) | [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [MA IO SONO FUOCO](https://open.spotify.com/album/5whsiw7yvWXul5t8sWYYLQ) | 3:27 |
 | 52 | [In Viaggio Verso Il Paradiso](https://open.spotify.com/track/5X5xYtyyUPNqT8SC95O795) | [Achille Lauro](https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv) | [In Viaggio Verso Il Paradiso](https://open.spotify.com/album/6L28cWj7Dps4X3ZIDDu2ag) | 3:27 |
 | 53 | [Il tuo profumo](https://open.spotify.com/track/48F1Mu2S2Fk1L44QrQcS2f) | [Arisa](https://open.spotify.com/artist/25x6MD0spNNS7z93Sat30K) | [Il tuo profumo](https://open.spotify.com/album/1tXFS7jpYe9viDdM0BUlQR) | 3:18 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 | 80 | [AMOR](https://open.spotify.com/track/7vc09IDmFH0MfyPYHPEWRM) | [Achille Lauro](https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv) | [Comuni Mortali](https://open.spotify.com/album/3tiuh424B3Leg8bxHc1Jv5) | 2:57 |
 | 81 | [Quello che deve essere sarà](https://open.spotify.com/track/44DeJ53Lv0420Up1u96Jpt) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [Quello che deve essere sarà](https://open.spotify.com/album/1euAp2jMAv333KhYkw5X2A) | 3:40 |
 
-Snapshot ID: `AAAAADaKopeCEJ66MQ3Tmpwra+sdkNm+`
+Snapshot ID: `AAAAAIuj4SEnfFcErCyPSL/FFDkmzj4y`

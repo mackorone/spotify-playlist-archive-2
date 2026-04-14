@@ -4302,7 +4302,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 200740,
       "name": "Let's Leave Together",
       "url": "https://open.spotify.com/track/28p6cPTSRglxJjKYZQeJVH"
@@ -7494,6 +7494,24 @@
       "duration_ms": 186996,
       "name": "Waste",
       "url": "https://open.spotify.com/track/1jDVf3LzkHI2rz5BGveizV"
+    },
+    {
+      "album": {
+        "name": "waste your pain",
+        "url": "https://open.spotify.com/album/7xZM9auwP97hBo51OSYZ29"
+      },
+      "artists": [
+        {
+          "name": "Cruz Beckham",
+          "url": "https://open.spotify.com/artist/3ZPOiGqgEbfNlKFFKxXVsD"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143872,
+      "name": "waste your pain",
+      "url": "https://open.spotify.com/track/3dwJ7YOq1ypxSZrh5GkZas"
     },
     {
       "album": {

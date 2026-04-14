@@ -1,6 +1,6 @@
 {
   "description": "Listen the 00's best collection of K-Pop dance. (Cover: 2NE1) (2000\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \ucf00\uc774\ud31d \ub304\uc2a4\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
-  "num_followers": 347800,
+  "num_followers": 347992,
   "original_name": "Millennium K-Pop",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,6 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "Ma Boy",
-        "url": "https://open.spotify.com/album/76EJZHFfzKIOrf97HE4at7"
-      },
-      "artists": [
-        {
-          "name": "SISTAR19",
-          "url": "https://open.spotify.com/artist/5Q0U6ogBrMX2oxmxy5OTzU"
-        }
-      ],
-      "duration_ms": 196702,
-      "name": "Ma Boy",
-      "url": "https://open.spotify.com/track/1CkTEh21SLHbiAj2qy8wc1"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
         "name": "MONOCHROME",
         "url": "https://open.spotify.com/album/7Bhg7EOxBASEzLV3U6DnjK"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 235624,
       "name": "Miss Korea",
       "url": "https://open.spotify.com/track/7v4T4qeHh2Y8Rg7HQWaFSS"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "Ma Boy",
+        "url": "https://open.spotify.com/album/76EJZHFfzKIOrf97HE4at7"
+      },
+      "artists": [
+        {
+          "name": "SISTAR19",
+          "url": "https://open.spotify.com/artist/5Q0U6ogBrMX2oxmxy5OTzU"
+        }
+      ],
+      "duration_ms": 196702,
+      "name": "Ma Boy",
+      "url": "https://open.spotify.com/track/1CkTEh21SLHbiAj2qy8wc1"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "Welcome to the BLOCK",
-        "url": "https://open.spotify.com/album/6keoJJWt7AOZ3jvznOc5om"
-      },
-      "artists": [
-        {
-          "name": "Block B",
-          "url": "https://open.spotify.com/artist/4RnezwRV7VBJUCI1S0AE5u"
-        }
-      ],
-      "duration_ms": 204546,
-      "name": "\ub09c\ub9ac\ub098",
-      "url": "https://open.spotify.com/track/7dgO6H1BxXeXfxDkiDN8E9"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
         "name": "THE THIRD SINGLE CATALLENA",
         "url": "https://open.spotify.com/album/3FeATTUjZWvmXW2kP9CHWY"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 193153,
       "name": "Catallena",
       "url": "https://open.spotify.com/track/5fWKr5p15BTazjflJ6HX5j"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "Welcome to the BLOCK",
+        "url": "https://open.spotify.com/album/6keoJJWt7AOZ3jvznOc5om"
+      },
+      "artists": [
+        {
+          "name": "Block B",
+          "url": "https://open.spotify.com/artist/4RnezwRV7VBJUCI1S0AE5u"
+        }
+      ],
+      "duration_ms": 204546,
+      "name": "\ub09c\ub9ac\ub098",
+      "url": "https://open.spotify.com/track/7dgO6H1BxXeXfxDkiDN8E9"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "No.1",
-        "url": "https://open.spotify.com/album/7ocKLfx1QN0EBj93uzLzOb"
-      },
-      "artists": [
-        {
-          "name": "TEEN TOP",
-          "url": "https://open.spotify.com/artist/3offPqpKAKmpQkIdWnjzkc"
-        }
-      ],
-      "duration_ms": 197825,
-      "name": "Miss Right",
-      "url": "https://open.spotify.com/track/5hwwVIhxzHvEdQOIvmrmau"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
         "name": "LIPSTICK",
         "url": "https://open.spotify.com/album/1r2yoS5HLPjmz5j1ii5a3r"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 201221,
       "name": "LIPSTICK",
       "url": "https://open.spotify.com/track/1fSQVc8qsBj6mYTkEdfK8s"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "No.1",
+        "url": "https://open.spotify.com/album/7ocKLfx1QN0EBj93uzLzOb"
+      },
+      "artists": [
+        {
+          "name": "TEEN TOP",
+          "url": "https://open.spotify.com/artist/3offPqpKAKmpQkIdWnjzkc"
+        }
+      ],
+      "duration_ms": 197825,
+      "name": "Miss Right",
+      "url": "https://open.spotify.com/track/5hwwVIhxzHvEdQOIvmrmau"
     },
     {
       "added_at": "2024-03-27 14:24:46",

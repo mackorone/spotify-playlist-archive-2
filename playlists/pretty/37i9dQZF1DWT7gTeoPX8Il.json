@@ -1,6 +1,6 @@
 {
   "description": "layan je",
-  "num_followers": 166278,
+  "num_followers": 166358,
   "original_name": "galau rabak",
   "owner": {
     "name": "Spotify",
@@ -419,6 +419,22 @@
     {
       "added_at": "2026-02-20 05:28:17",
       "album": {
+        "name": "Sayang Orang Sama",
+        "url": "https://open.spotify.com/album/7ABh3r8ifZJGZLg0NYbTJL"
+      },
+      "artists": [
+        {
+          "name": "Adira Suhaimi",
+          "url": "https://open.spotify.com/artist/3BwdkvUUHLP8pZj9hN4FiF"
+        }
+      ],
+      "duration_ms": 202191,
+      "name": "Sayang Orang Sama",
+      "url": "https://open.spotify.com/track/1pkemoTIuhFJrX3GLKGf9y"
+    },
+    {
+      "added_at": "2026-02-20 05:28:17",
+      "album": {
         "name": "Lagu Pernikahan Kita",
         "url": "https://open.spotify.com/album/5eY3dzN1EvreoSLr1vWVMu"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 261476,
       "name": "Lagu Pernikahan Kita",
       "url": "https://open.spotify.com/track/3diRmt2Z6xSEaT0mqBr681"
-    },
-    {
-      "added_at": "2026-02-20 05:28:17",
-      "album": {
-        "name": "Sayang Orang Sama",
-        "url": "https://open.spotify.com/album/7ABh3r8ifZJGZLg0NYbTJL"
-      },
-      "artists": [
-        {
-          "name": "Adira Suhaimi",
-          "url": "https://open.spotify.com/artist/3BwdkvUUHLP8pZj9hN4FiF"
-        }
-      ],
-      "duration_ms": 202191,
-      "name": "Sayang Orang Sama",
-      "url": "https://open.spotify.com/track/1pkemoTIuhFJrX3GLKGf9y"
     },
     {
       "added_at": "2026-02-20 05:28:17",

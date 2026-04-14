@@ -1,6 +1,6 @@
 {
   "description": "Dejate llevar por los mejores lentos del rock. Foto: RAMMA & Cindy Cats",
-  "num_followers": 170254,
+  "num_followers": 170268,
   "original_name": "Baladas Rock",
   "owner": {
     "name": "Spotify",
@@ -831,22 +831,6 @@
     {
       "added_at": "2026-02-04 16:00:36",
       "album": {
-        "name": "La Paciencia De La Ara\u00f1a",
-        "url": "https://open.spotify.com/album/7urCdolaxQ3YUQlI8Bhj41"
-      },
-      "artists": [
-        {
-          "name": "Los Caballeros De La Quema",
-          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
-        }
-      ],
-      "duration_ms": 317066,
-      "name": "Oxidado",
-      "url": "https://open.spotify.com/track/32YkpyPZ6taMEEb8TBLcrr"
-    },
-    {
-      "added_at": "2026-02-04 16:00:36",
-      "album": {
         "name": "Inconsciente Colectivo",
         "url": "https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 192226,
       "name": "Fue Amor",
       "url": "https://open.spotify.com/track/7c7e0Gr9AOzmJ8rDvOknI1"
+    },
+    {
+      "added_at": "2026-02-04 16:00:36",
+      "album": {
+        "name": "La Paciencia De La Ara\u00f1a",
+        "url": "https://open.spotify.com/album/7urCdolaxQ3YUQlI8Bhj41"
+      },
+      "artists": [
+        {
+          "name": "Los Caballeros De La Quema",
+          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
+        }
+      ],
+      "duration_ms": 317066,
+      "name": "Oxidado",
+      "url": "https://open.spotify.com/track/32YkpyPZ6taMEEb8TBLcrr"
     },
     {
       "added_at": "2026-02-04 16:00:36",
@@ -963,22 +963,6 @@
     {
       "added_at": "2026-02-04 16:00:36",
       "album": {
-        "name": "Narig\u00f3n del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre",
-        "url": "https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU"
-      },
-      "artists": [
-        {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
-        }
-      ],
-      "duration_ms": 286240,
-      "name": "Como un Cuento",
-      "url": "https://open.spotify.com/track/3EissuXjQZQrjpHh8gRCG1"
-    },
-    {
-      "added_at": "2026-02-04 16:00:36",
-      "album": {
         "name": "Inconsciente Colectivo",
         "url": "https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 194026,
       "name": "Amanece en la Ruta",
       "url": "https://open.spotify.com/track/5pKVGrmItsCubKWTrYpxSZ"
+    },
+    {
+      "added_at": "2026-02-04 16:00:36",
+      "album": {
+        "name": "Narig\u00f3n del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre",
+        "url": "https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU"
+      },
+      "artists": [
+        {
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+        }
+      ],
+      "duration_ms": 286240,
+      "name": "Como un Cuento",
+      "url": "https://open.spotify.com/track/3EissuXjQZQrjpHh8gRCG1"
     },
     {
       "added_at": "2026-02-04 16:00:36",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-02-04 16:00:36",
       "album": {
-        "name": "Esclavo",
-        "url": "https://open.spotify.com/album/6vWWH1Bvv5O0bxKq4ndPuf"
-      },
-      "artists": [
-        {
-          "name": "Guasones",
-          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
-        }
-      ],
-      "duration_ms": 158066,
-      "name": "Hay Momentos",
-      "url": "https://open.spotify.com/track/0rL9XFxw3b9bRUqApteFiD"
-    },
-    {
-      "added_at": "2026-02-04 16:00:36",
-      "album": {
         "name": "Sol en Cinco",
         "url": "https://open.spotify.com/album/3PRvVLAu5xKxYa9o4lK04S"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 328813,
       "name": "Nada es para siempre",
       "url": "https://open.spotify.com/track/73J1IrrirnxKM6wk5JfIcV"
+    },
+    {
+      "added_at": "2026-02-04 16:00:36",
+      "album": {
+        "name": "Esclavo",
+        "url": "https://open.spotify.com/album/6vWWH1Bvv5O0bxKq4ndPuf"
+      },
+      "artists": [
+        {
+          "name": "Guasones",
+          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
+        }
+      ],
+      "duration_ms": 158066,
+      "name": "Hay Momentos",
+      "url": "https://open.spotify.com/track/0rL9XFxw3b9bRUqApteFiD"
     },
     {
       "added_at": "2026-02-04 16:00:36",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2026-02-04 16:00:36",
       "album": {
-        "name": "Roto",
-        "url": "https://open.spotify.com/album/06cMimO1BixYYuhsyNwXPV"
-      },
-      "artists": [
-        {
-          "name": "Cruzando El Charco",
-          "url": "https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Roto",
-      "url": "https://open.spotify.com/track/0G0qz1tF8IgGc2pANlH7X3"
-    },
-    {
-      "added_at": "2026-02-04 16:00:36",
-      "album": {
         "name": "Luz",
         "url": "https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 235094,
       "name": "Mejor Callar",
       "url": "https://open.spotify.com/track/5eWPf8IUMtKXCtolSh678f"
+    },
+    {
+      "added_at": "2026-02-04 16:00:36",
+      "album": {
+        "name": "Roto",
+        "url": "https://open.spotify.com/album/06cMimO1BixYYuhsyNwXPV"
+      },
+      "artists": [
+        {
+          "name": "Cruzando El Charco",
+          "url": "https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Roto",
+      "url": "https://open.spotify.com/track/0G0qz1tF8IgGc2pANlH7X3"
     },
     {
       "added_at": "2026-02-04 16:00:36",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2026-02-04 16:00:36",
       "album": {
-        "name": "Melod\u00eda del Adi\u00f3s",
-        "url": "https://open.spotify.com/album/5xuoOnrivnxR4MOiOoafWY"
-      },
-      "artists": [
-        {
-          "name": "LOBEL",
-          "url": "https://open.spotify.com/artist/6ZYC3LeRCpUZheX0WKVPGl"
-        }
-      ],
-      "duration_ms": 218557,
-      "name": "Melod\u00eda del Adi\u00f3s",
-      "url": "https://open.spotify.com/track/6tbNnSpsaRBjqszmWU6JEd"
-    },
-    {
-      "added_at": "2026-02-04 16:00:36",
-      "album": {
         "name": "La Trampa",
         "url": "https://open.spotify.com/album/1LOIcSJvLUkmJlqvxdzVC3"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 216184,
       "name": "La Trampa",
       "url": "https://open.spotify.com/track/5uD1CL09esqtKnRx6oZeqm"
+    },
+    {
+      "added_at": "2026-02-04 16:00:36",
+      "album": {
+        "name": "Melod\u00eda del Adi\u00f3s",
+        "url": "https://open.spotify.com/album/5xuoOnrivnxR4MOiOoafWY"
+      },
+      "artists": [
+        {
+          "name": "LOBEL",
+          "url": "https://open.spotify.com/artist/6ZYC3LeRCpUZheX0WKVPGl"
+        }
+      ],
+      "duration_ms": 218557,
+      "name": "Melod\u00eda del Adi\u00f3s",
+      "url": "https://open.spotify.com/track/6tbNnSpsaRBjqszmWU6JEd"
     },
     {
       "added_at": "2026-02-04 16:00:36",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2026-02-04 16:00:36",
       "album": {
-        "name": "Vaqueros",
-        "url": "https://open.spotify.com/album/3TdceuWSFHJExeVZmKPFbW"
-      },
-      "artists": [
-        {
-          "name": "RYAN",
-          "url": "https://open.spotify.com/artist/3g7K56xAln97Nmy0G1hx8E"
-        }
-      ],
-      "duration_ms": 243418,
-      "name": "El Beso M\u00e1s Famoso del Mundo",
-      "url": "https://open.spotify.com/track/0cVf3lOwE13SQdF0AK7Gkt"
-    },
-    {
-      "added_at": "2026-02-04 16:00:36",
-      "album": {
         "name": "As\u00ed",
         "url": "https://open.spotify.com/album/2J0X6FPGlp14rymZQQN1ZD"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 254142,
       "name": "As\u00ed",
       "url": "https://open.spotify.com/track/1UZCVYRJ2qZaUEMrsqIJkI"
+    },
+    {
+      "added_at": "2026-02-04 16:00:36",
+      "album": {
+        "name": "Vaqueros",
+        "url": "https://open.spotify.com/album/3TdceuWSFHJExeVZmKPFbW"
+      },
+      "artists": [
+        {
+          "name": "RYAN",
+          "url": "https://open.spotify.com/artist/3g7K56xAln97Nmy0G1hx8E"
+        }
+      ],
+      "duration_ms": 243418,
+      "name": "El Beso M\u00e1s Famoso del Mundo",
+      "url": "https://open.spotify.com/track/0cVf3lOwE13SQdF0AK7Gkt"
     },
     {
       "added_at": "2026-02-04 16:00:36",

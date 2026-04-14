@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GJXiuZRisr.md) - [plain]
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,612,323 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,612,346 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GJXiuZRisr.md) - [plain]
 | 49 | [Ameonna](https://open.spotify.com/track/2QWVzSa39qQ66oJdIXclo1) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Ameonna](https://open.spotify.com/album/1u2rWWwmEjD7rjUxQ2oYqf) | 7:22 |
 | 50 | [Lately](https://open.spotify.com/track/6nqBOGRwYdwOOHTie3fx1K) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Lately](https://open.spotify.com/album/0GKovrT0pFuXb4FhM1Wf3O) | 4:09 |
 | 51 | [Never Forget You](https://open.spotify.com/track/2WDTGOTHmpzkLKBae5NBUx) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Never Forget You](https://open.spotify.com/album/7jogH009r3SWIcCj1Wt4Oh) | 3:04 |
-| 52 | [Love Again](https://open.spotify.com/track/1v7SdHbR0pkwFb9RfG6L6O) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [Love Again](https://open.spotify.com/album/5wrYrywBsHkGIekBoScfG8) | 3:11 |
-| 53 | [Heaven Knows](https://open.spotify.com/track/3TnVOV85DaxEMP02xWbQfH) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Heaven Knows](https://open.spotify.com/album/5k8cHlDuk2szbc6VlPaL5L) | 3:53 |
+| 52 | [Heaven Knows](https://open.spotify.com/track/3TnVOV85DaxEMP02xWbQfH) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Heaven Knows](https://open.spotify.com/album/5k8cHlDuk2szbc6VlPaL5L) | 3:53 |
+| 53 | [Love Again](https://open.spotify.com/track/1v7SdHbR0pkwFb9RfG6L6O) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [Love Again](https://open.spotify.com/album/5wrYrywBsHkGIekBoScfG8) | 3:11 |
 | 54 | [Endless](https://open.spotify.com/track/1I7qxmsvOhsQpJLL5s7WET) | [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS), [Jex](https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF) | [Endless](https://open.spotify.com/album/3ZzkgSv5FF4L7BKt0ZqzlV) | 3:16 |
 | 55 | [Tidal Wave](https://open.spotify.com/track/0Ec7CMUXnfpSCZsJL26lhS) | [MashBit](https://open.spotify.com/artist/2ZUktxXMg0flZ5HGHSd5HZ), [Lexi Scatena](https://open.spotify.com/artist/6OrvGE61MCrOZJM5naN4Vd) | [Tidal Wave](https://open.spotify.com/album/7qPWRxHCpAciE2ZmHaFamE) | 3:04 |
 | 56 | [Rain](https://open.spotify.com/track/5UzmK3aMmpW9X1pKjRdrMi) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Rain](https://open.spotify.com/album/3BiRyCQFu9ftb7sASphBHQ) | 3:18 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GJXiuZRisr.md) - [plain]
 | 95 | [Cheating Heart](https://open.spotify.com/track/3PxsFDOgkVFphkop92aeXs) | [Henri Bergmann](https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo), [Monophase \(IT\)](https://open.spotify.com/artist/2zOPWsVJRlO1narDOJ8z9Z), [Be No Rain](https://open.spotify.com/artist/0ToTNYPspLv4FWbcpXgOUt) | [Cheating Heart](https://open.spotify.com/album/271Fs3TKtlAL9d7H5OMrtn) | 3:40 |
 | 96 | [Drop That Beat](https://open.spotify.com/track/1zdpuot7uYIIPUAqKUcMap) | [Mosimann](https://open.spotify.com/artist/7sAqpkrQBaOkddsv1Tz1XK), [Ixxel](https://open.spotify.com/artist/4FuPIvoA4iAe0sVoEfXhal) | [Drop That Beat](https://open.spotify.com/album/5HSSnZBsoHxq1Ch7LH9niU) | 3:28 |
 | 97 | [Hold On](https://open.spotify.com/track/7zVIFnJMkXrYfxnBJxQtNF) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [Hold On](https://open.spotify.com/album/312IUwFHyqdRyZ9Kx8ErXv) | 3:24 |
-| 98 | [Home](https://open.spotify.com/track/0MgD3dF1BSVHMlVxSUIqJ4) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Kiko](https://open.spotify.com/artist/4vQwRCAEjGlq5szn3MyG2N), [Olivier Giacomotto](https://open.spotify.com/artist/5tIMc0MdfB2OV6sULOmeao) | [Home](https://open.spotify.com/album/1MRtiNKI4azFae56DMUzRp) | 2:47 |
-| 99 | [before you go](https://open.spotify.com/track/4y2wDeRQzaq6Yq2TiGTVCd) | [LSR/CITY](https://open.spotify.com/artist/0YQ22xAzgefaKw8vKCAEp2) | [before you go](https://open.spotify.com/album/0bRvZ6flyoQTRHOfSB83WS) | 4:18 |
-| 100 | [My Love For You](https://open.spotify.com/track/2mKSqsC50JQPjqqCjs4HLn) | [DANNY AVILA](https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci) | [My Love For You](https://open.spotify.com/album/3GquvhavJWRrc3VgAnzzDO) | 2:53 |
+| 98 | [My Love For You](https://open.spotify.com/track/2mKSqsC50JQPjqqCjs4HLn) | [DANNY AVILA](https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci) | [My Love For You](https://open.spotify.com/album/3GquvhavJWRrc3VgAnzzDO) | 2:53 |
+| 99 | [Home](https://open.spotify.com/track/0MgD3dF1BSVHMlVxSUIqJ4) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Kiko](https://open.spotify.com/artist/4vQwRCAEjGlq5szn3MyG2N), [Olivier Giacomotto](https://open.spotify.com/artist/5tIMc0MdfB2OV6sULOmeao) | [Home](https://open.spotify.com/album/1MRtiNKI4azFae56DMUzRp) | 2:47 |
+| 100 | [before you go](https://open.spotify.com/track/4y2wDeRQzaq6Yq2TiGTVCd) | [LSR/CITY](https://open.spotify.com/artist/0YQ22xAzgefaKw8vKCAEp2) | [before you go](https://open.spotify.com/album/0bRvZ6flyoQTRHOfSB83WS) | 4:18 |
 
 Snapshot ID: `AAAAAGSMU89caDyn8M5y58CocxIIdSSB`

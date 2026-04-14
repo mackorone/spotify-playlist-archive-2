@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 
 > Soft and cozy acoustic covers of famous songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,452,949 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,453,018 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 23 | [Espresso](https://open.spotify.com/track/68apIR6lcIdGZ50KWTfeO6) | [LAJKA](https://open.spotify.com/artist/1TXoz9sNHLfykNUS07PZOh) | [Espresso](https://open.spotify.com/album/7eeKnwM9d6vsRL8F8dcqkS) | 2:40 |
 | 24 | [Call Me Maybe \- Acoustic](https://open.spotify.com/track/1CSi4vh5zKb3bN2FtXHa8O) | [Scottie](https://open.spotify.com/artist/5LPJmnBnq8R8c5qG3B7K2K) | [Call Me Maybe \- Acoustic](https://open.spotify.com/album/1iOPpvvfeNAslLpKHjw9Vr) | 3:30 |
 | 25 | [Torn](https://open.spotify.com/track/4INNiMO9R9UnwpLOtzizn6) | [Eloise Freud](https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh) | [Torn](https://open.spotify.com/album/0og0ExNcAjYK1nCWKyklL6) | 3:43 |
-| 26 | [I Feel It Coming](https://open.spotify.com/track/5C2KczvPxtlAbohydAQcYb) | [Alice Nordstrom](https://open.spotify.com/artist/6tZEMBPWeYyxYIKEubuJD3) | [I Feel It Coming](https://open.spotify.com/album/7GBboSmTQfhQI14a9bER4f) | 2:46 |
-| 27 | [End of Beginning](https://open.spotify.com/track/4V1yfubkZxKCJCMi04I9X2) | [Mellow Boo](https://open.spotify.com/artist/5CHDQxGo8jQFR57do29LMp) | [End of Beginning](https://open.spotify.com/album/2ns3pZFMMaMKf3LbKAFqup) | 2:36 |
+| 26 | [End of Beginning](https://open.spotify.com/track/4V1yfubkZxKCJCMi04I9X2) | [Mellow Boo](https://open.spotify.com/artist/5CHDQxGo8jQFR57do29LMp) | [End of Beginning](https://open.spotify.com/album/2ns3pZFMMaMKf3LbKAFqup) | 2:36 |
+| 27 | [I Feel It Coming](https://open.spotify.com/track/5C2KczvPxtlAbohydAQcYb) | [Alice Nordstrom](https://open.spotify.com/artist/6tZEMBPWeYyxYIKEubuJD3) | [I Feel It Coming](https://open.spotify.com/album/7GBboSmTQfhQI14a9bER4f) | 2:46 |
 | 28 | [Too Good At Goodbyes](https://open.spotify.com/track/43Ty2f8GqR6CpUYWNxgRqu) | [Beatrice](https://open.spotify.com/artist/4KR1qF9mYVfCeOjn364Rm8) | [Too Good At Goodbyes](https://open.spotify.com/album/5xHL2UVO1l249ezFEL2QdZ) | 2:50 |
 | 29 | [Azizam](https://open.spotify.com/track/4Ut1VfHTAInGyjdzX3gDqZ) | [TWIN BEE](https://open.spotify.com/artist/7ojrDGf1QCVnNN3E0N5hKh) | [Azizam](https://open.spotify.com/album/2EewwLUoTMjlBxexUZzUCm) | 2:27 |
 | 30 | [Manchild](https://open.spotify.com/track/336eGxP8vyMyfU8gDPhf6c) | [Scottie](https://open.spotify.com/artist/5LPJmnBnq8R8c5qG3B7K2K) | [Manchild](https://open.spotify.com/album/608G8jyLGprAIfZK8YEbQF) | 3:25 |

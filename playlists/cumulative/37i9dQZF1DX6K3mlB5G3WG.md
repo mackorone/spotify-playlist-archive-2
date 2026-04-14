@@ -4,7 +4,7 @@
 
 > Ditonellapiaga in cover + le migliori nuove uscite 🇮🇹 e 🌎!
 
-2,953 songs - 6 day 8 hr 29 min
+2,955 songs - 6 day 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1592,6 +1592,7 @@
 | [Maschio](https://open.spotify.com/track/1gIahX2xZu1ir2qLmALtUc) | [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [Maschio](https://open.spotify.com/album/226WGnFxk9frinhGY4Uhwy) | 3:24 | 2025-05-07 | 2025-06-06 |
 | [Mature](https://open.spotify.com/track/1BeyjPUWYbHcthHjusrejv) | [Hilary Duff](https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h) | [Mature](https://open.spotify.com/album/5zv7DvRotH8BII1MpJjr8O) | 3:37 | 2025-11-06 | 2025-11-28 |
 | [mayday](https://open.spotify.com/track/1rxBdwJnt5pZHXqzB4ssEH) | [anice](https://open.spotify.com/artist/0Sf5IqezdIhXjKogXm0Nad) | [mayday](https://open.spotify.com/album/3WtlhNKnPhYPpMdeEILB6H) | 2:18 | 2025-01-23 | 2025-02-14 |
+| [Mayday](https://open.spotify.com/track/1i41RQ2km1sO8JD6fFVCxX) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Vangelo](https://open.spotify.com/album/2gqFeF2xx9zMEwUWRc5UK4) | 3:38 | 2026-04-13 |  |
 | [MAZZALEEN](https://open.spotify.com/track/6AhJ1N1Ua0nhJQa9G4fqyO) | [MIKOLAS](https://open.spotify.com/artist/6Kz7MXIUFMtp5Ts91lagtR) | [II](https://open.spotify.com/album/3bYmRWtPWM94WfgoW6QGzL) | 1:48 | 2025-10-23 | 2025-11-21 |
 | [Ma’](https://open.spotify.com/track/6SkyJe6R42VbKw16mH0a2v) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Ma'](https://open.spotify.com/album/2dSL2X3K3YoVwaKty2JYcE) | 3:35 | 2026-04-02 |  |
 | [Me & You](https://open.spotify.com/track/4mSfyqUcjl0Zwb2YWYohyO) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Me & You](https://open.spotify.com/album/4wTcGH918lQogI7Tyz7hEx) | 2:47 | 2025-05-15 | 2025-06-06 |
@@ -2140,6 +2141,7 @@
 | [RIMANI RIMANI RIMANI](https://open.spotify.com/track/6DppnYSn5RrZZjxNfUlRDS) | [Alessandra Amoroso](https://open.spotify.com/artist/2pjb5ffSoVTr5lRYQXlnPu) | [RIMANI RIMANI RIMANI](https://open.spotify.com/album/1XykBGy8nRX5iAG8PeEYH4) | 2:37 | 2024-12-19 | 2025-01-24 |
 | [Rio](https://open.spotify.com/track/4c6yjn6FdNfuRltmPFciJh) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Rio](https://open.spotify.com/album/0EEQ93KABmtc6GFkyBV0sl) | 3:08 | 2025-01-23 | 2025-02-14 |
 | [Risk It All](https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 3:24 | 2026-02-26 | 2026-03-27 |
+| [Risorgere](https://open.spotify.com/track/1437F3lIKt7rc1cSALqz6Q) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Vangelo](https://open.spotify.com/album/2gqFeF2xx9zMEwUWRc5UK4) | 3:57 | 2026-04-13 |  |
 | [RITMO S'ALZA](https://open.spotify.com/track/2qtscJY2bWTpufAo1zoW7l) | [Roy Paci](https://open.spotify.com/artist/6ZABE2V1BqiqDoTT8kgeJb), [Aretuska](https://open.spotify.com/artist/6mUucBT4CgAsspjBkVYrLs) | [RITMO S'ALZA](https://open.spotify.com/album/03u4mStVxc7r8UikXk7CTB) | 2:56 | 2026-01-23 | 2026-02-13 |
 | [RITORNO AD AMARE](https://open.spotify.com/track/45arQgkr2W8dX0XlWvDFtK) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [RITORNO AD AMARE](https://open.spotify.com/album/4s1yzLlMB8fJ9uKrr269Hp) | 4:09 | 2025-12-04 | 2026-01-16 |
 | [Ritual](https://open.spotify.com/track/31D55MpvBHFSaeef0EeUDM) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Ritual](https://open.spotify.com/album/5QAw5J01amAwZwtAVCLR72) | 3:01 | 2026-03-26 |  |

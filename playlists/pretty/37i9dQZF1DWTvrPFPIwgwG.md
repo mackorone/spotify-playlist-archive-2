@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Sara Evelyn
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,322 likes - 80 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,433 likes - 80 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 | 47 | [Eu Não Mereço \(Ao Vivo\)](https://open.spotify.com/track/3bFvAUuMlEVVztV4yZ4zK0) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Kemilly Santos ao Vivo em São Paulo](https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9) | 3:54 |
 | 48 | [Azeite de Reserva](https://open.spotify.com/track/6APGkiewBw2JUNKvnIoYDJ) | [Thalita Roberta](https://open.spotify.com/artist/1yZUa312JkTmgQCEzp8QTc) | [Azeite de Reserva](https://open.spotify.com/album/7t1pm0qHvyeaJQEP2VFiXA) | 3:33 |
 | 49 | [No Deserto \(Ao Vivo em São Paulo\)](https://open.spotify.com/track/7xKFol0XmSR5WyT06GSHyF) | [Eliane Fernandes](https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH) | [No Deserto \(Ao Vivo em São Paulo\)](https://open.spotify.com/album/3JxLykAFGGCmx1vOls2RTN) | 6:23 |
-| 50 | [Basta uma Palavra](https://open.spotify.com/track/0GaxofDWGJ4Gg8gbEMgn3R) | [Sandra Pires](https://open.spotify.com/artist/2NHt4egawSl0pKxbF04Lhf), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Basta uma Palavra](https://open.spotify.com/album/1GDrhQp5Q0xL0GrmNPPeCN) | 5:04 |
-| 51 | [Jesus Voltará](https://open.spotify.com/track/7DnX7ZMlvAuWOUDwGrmt98) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Jesus Voltará](https://open.spotify.com/album/33IYZiBre2fcfD2AMmIKKy) | 4:24 |
+| 50 | [Jesus Voltará](https://open.spotify.com/track/7DnX7ZMlvAuWOUDwGrmt98) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Jesus Voltará](https://open.spotify.com/album/33IYZiBre2fcfD2AMmIKKy) | 4:24 |
+| 51 | [Basta uma Palavra](https://open.spotify.com/track/0GaxofDWGJ4Gg8gbEMgn3R) | [Sandra Pires](https://open.spotify.com/artist/2NHt4egawSl0pKxbF04Lhf), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Basta uma Palavra](https://open.spotify.com/album/1GDrhQp5Q0xL0GrmNPPeCN) | 5:04 |
 | 52 | [Você Não Vai Parar](https://open.spotify.com/track/6xkJbkLpcamCTkFcXnwO6d) | [Nathália Braga](https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Você Não Vai Parar](https://open.spotify.com/album/6cPHowCXcBxq1Fl50vkg6f) | 5:40 |
 | 53 | [O Segredo \(Ao Vivo\)](https://open.spotify.com/track/6p5TC1tF7kFAdWqw8s3rZO) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [O Segredo \(Ao Vivo\)](https://open.spotify.com/album/5ThXMFiKFU63eaOK8nLDpd) | 5:06 |
 | 54 | [Existe Um Deus](https://open.spotify.com/track/3PzPF5JZsGSYfhegiexh2i) | [Larissa Santos](https://open.spotify.com/artist/4RIEv1J3Fy104hJIQ5FQsk) | [Existe Um Deus](https://open.spotify.com/album/6bnQQHr5AXnX0JjIuEmYtS) | 4:42 |

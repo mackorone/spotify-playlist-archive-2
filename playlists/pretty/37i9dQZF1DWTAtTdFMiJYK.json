@@ -1,6 +1,6 @@
 {
   "description": "Most exciting artists from the Indian Indie scene. Cover: Sameer Rahat",
-  "num_followers": 191277,
+  "num_followers": 191296,
   "original_name": "RADAR India",
   "owner": {
     "name": "Spotify",
@@ -863,6 +863,26 @@
     {
       "added_at": "2026-04-10 06:30:39",
       "album": {
+        "name": "Heeriye",
+        "url": "https://open.spotify.com/album/4aMIA4pmWtLP4VoLveg8dj"
+      },
+      "artists": [
+        {
+          "name": "Sagnik Kolay",
+          "url": "https://open.spotify.com/artist/0bMaAXWJgqoOyETAQp4MIc"
+        },
+        {
+          "name": "Aasa Singh",
+          "url": "https://open.spotify.com/artist/1oJYWBIasyrnLv3jZYkIRF"
+        }
+      ],
+      "duration_ms": 215333,
+      "name": "Heeriye",
+      "url": "https://open.spotify.com/track/5AknaLNrNTCBYr5L62XhJK"
+    },
+    {
+      "added_at": "2026-04-10 06:30:39",
+      "album": {
         "name": "Zarii",
         "url": "https://open.spotify.com/album/70ZVp8tkKTz2VUl6TIvjDS"
       },
@@ -887,22 +907,18 @@
     {
       "added_at": "2026-04-10 06:30:39",
       "album": {
-        "name": "Heeriye",
-        "url": "https://open.spotify.com/album/4aMIA4pmWtLP4VoLveg8dj"
+        "name": "Kahani",
+        "url": "https://open.spotify.com/album/7I29dbTNdImBhxnqhOEEWD"
       },
       "artists": [
         {
-          "name": "Sagnik Kolay",
-          "url": "https://open.spotify.com/artist/0bMaAXWJgqoOyETAQp4MIc"
-        },
-        {
-          "name": "Aasa Singh",
-          "url": "https://open.spotify.com/artist/1oJYWBIasyrnLv3jZYkIRF"
+          "name": "Taba Chake",
+          "url": "https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy"
         }
       ],
-      "duration_ms": 215333,
-      "name": "Heeriye",
-      "url": "https://open.spotify.com/track/5AknaLNrNTCBYr5L62XhJK"
+      "duration_ms": 245711,
+      "name": "Kahani",
+      "url": "https://open.spotify.com/track/6sMxjlCiYvcfmK8DxfIXeH"
     },
     {
       "added_at": "2026-04-10 06:30:39",
@@ -923,22 +939,6 @@
       "duration_ms": 190000,
       "name": "Jaa Tujhe Ishq Ho",
       "url": "https://open.spotify.com/track/3nsJy2UpjJyo14sqcbgJGH"
-    },
-    {
-      "added_at": "2026-04-10 06:30:39",
-      "album": {
-        "name": "Kahani",
-        "url": "https://open.spotify.com/album/7I29dbTNdImBhxnqhOEEWD"
-      },
-      "artists": [
-        {
-          "name": "Taba Chake",
-          "url": "https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy"
-        }
-      ],
-      "duration_ms": 245711,
-      "name": "Kahani",
-      "url": "https://open.spotify.com/track/6sMxjlCiYvcfmK8DxfIXeH"
     },
     {
       "added_at": "2026-04-10 06:30:39",
@@ -987,26 +987,6 @@
     {
       "added_at": "2026-04-10 06:30:39",
       "album": {
-        "name": "Le Jaa",
-        "url": "https://open.spotify.com/album/0imiHfsNmizV0OaVJOYCdA"
-      },
-      "artists": [
-        {
-          "name": "Adeetiiya",
-          "url": "https://open.spotify.com/artist/4H7bDnsqf7lF07XmWegR0s"
-        },
-        {
-          "name": "Iqlipse Nova",
-          "url": "https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk"
-        }
-      ],
-      "duration_ms": 154015,
-      "name": "Le Jaa",
-      "url": "https://open.spotify.com/track/1JdphOaJPSdVoGTtilQ4Pr"
-    },
-    {
-      "added_at": "2026-04-10 06:30:39",
-      "album": {
         "name": "Mere Ranjhana",
         "url": "https://open.spotify.com/album/2F8arPSNA94kkSPTyShIoj"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 222121,
       "name": "Mere Ranjhana",
       "url": "https://open.spotify.com/track/04Oswb5okIbIzMyKVBSbMH"
+    },
+    {
+      "added_at": "2026-04-10 06:30:39",
+      "album": {
+        "name": "Le Jaa",
+        "url": "https://open.spotify.com/album/0imiHfsNmizV0OaVJOYCdA"
+      },
+      "artists": [
+        {
+          "name": "Adeetiiya",
+          "url": "https://open.spotify.com/artist/4H7bDnsqf7lF07XmWegR0s"
+        },
+        {
+          "name": "Iqlipse Nova",
+          "url": "https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk"
+        }
+      ],
+      "duration_ms": 154015,
+      "name": "Le Jaa",
+      "url": "https://open.spotify.com/track/1JdphOaJPSdVoGTtilQ4Pr"
     },
     {
       "added_at": "2026-04-10 06:30:39",
@@ -1439,18 +1439,18 @@
     {
       "added_at": "2026-04-10 06:30:39",
       "album": {
-        "name": "Saans Bharlu",
-        "url": "https://open.spotify.com/album/6WSjY7WP5xxG8gojnmjnEQ"
+        "name": "Main Heer Teri",
+        "url": "https://open.spotify.com/album/4vtES0Tr90HiRlgdXmeMY7"
       },
       "artists": [
         {
-          "name": "Raghvansh",
-          "url": "https://open.spotify.com/artist/5GmdJXkk970lvGZ94UNBSl"
+          "name": "Zanai Bhosle",
+          "url": "https://open.spotify.com/artist/1KXshKZ6e6JsZ6boHGgkXX"
         }
       ],
-      "duration_ms": 197454,
-      "name": "Saans Bharlu",
-      "url": "https://open.spotify.com/track/0mKEM8JHj0GfFcstcASLqb"
+      "duration_ms": 206285,
+      "name": "Main Heer Teri",
+      "url": "https://open.spotify.com/track/3BAmJqcRP0Mf11YAungMFq"
     }
   ],
   "unique_name": "RADAR India",

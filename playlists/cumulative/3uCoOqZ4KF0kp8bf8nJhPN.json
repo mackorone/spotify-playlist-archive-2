@@ -511,6 +511,24 @@
     },
     {
       "album": {
+        "name": "Bedrott (Instrumental Slowed)",
+        "url": "https://open.spotify.com/album/3O2WCH1HaNyxLNW8KlIJnz"
+      },
+      "artists": [
+        {
+          "name": "ForceTx",
+          "url": "https://open.spotify.com/artist/2dDxg1hQi6igncj9SM8wkN"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142406,
+      "name": "Bedrott - Instrumental Slowed",
+      "url": "https://open.spotify.com/track/7q7StxVzHQ5LimdZLQV8xH"
+    },
+    {
+      "album": {
         "name": "Benz",
         "url": "https://open.spotify.com/album/732fMBz16cHOcFShf3u8Yk"
       },

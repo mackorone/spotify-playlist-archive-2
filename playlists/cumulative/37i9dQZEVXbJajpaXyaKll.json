@@ -3663,6 +3663,28 @@
     },
     {
       "album": {
+        "name": "BAD ENDING FUNK",
+        "url": "https://open.spotify.com/album/6DXAME0qmi8HAWK3HERzIB"
+      },
+      "artists": [
+        {
+          "name": "Shimuda",
+          "url": "https://open.spotify.com/artist/1MsdlVAjUybrhVKrn0bo55"
+        },
+        {
+          "name": "SlowlyDying",
+          "url": "https://open.spotify.com/artist/56bcrcgSJpGW0sg7mRZFHM"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70212,
+      "name": "BAD ENDING FUNK",
+      "url": "https://open.spotify.com/track/6eC8U3G5GCK7R5LFF1MOr6"
+    },
+    {
+      "album": {
         "name": "Bad Feeling (Oompa Loompa)",
         "url": "https://open.spotify.com/album/6WABWHx7oAsBhp5swwp296"
       },
@@ -19518,7 +19540,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 294260,
       "name": "Impostor Syndrome",
       "url": "https://open.spotify.com/track/33KU9huHP1Lv1UWWVkuTYd"

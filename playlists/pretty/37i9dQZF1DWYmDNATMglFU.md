@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 
 > new gen alt ⛓ ft\. nieve ella
 
-[Spotify](https://open.spotify.com/user/spotify) - 509,808 likes - 59 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 509,803 likes - 59 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 19 | [The Stink](https://open.spotify.com/track/3Lt8O13nVCZEKtIkApJEnp) | [Hotgirl](https://open.spotify.com/artist/5PJ3v1rMpMsDS4UogImlis) | [Blast Off](https://open.spotify.com/album/25KBaVGMBf8tpFAgIqWqFB) | 2:35 |
 | 20 | [Nothing New](https://open.spotify.com/track/7z8pMZbZbkLHZJHvrOnMjF) | [Lip Filler](https://open.spotify.com/artist/0hPY5LO0VQyjgop1JBsKfQ) | [EP3](https://open.spotify.com/album/5EWAGdIuk1Xb21RhHD80RK) | 3:58 |
 | 21 | [Nonsense](https://open.spotify.com/track/70gN8nRxHqwmfzNgAl422U) | [Bucket](https://open.spotify.com/artist/5HUAFNOOk3m5FvqQW2rMfI) | [Nonsense](https://open.spotify.com/album/4oBVjiAUmejCPQdc97WyQX) | 3:12 |
-| 22 | [father's daughter](https://open.spotify.com/track/7mFcA8fmhx64jB3rngJZvD) | [Bottle Rockets](https://open.spotify.com/artist/1bFphh6DSkuYX0mjTxAxgK) | [father's daughter](https://open.spotify.com/album/29zviuhAB3rdqlDeTrk3SU) | 3:33 |
+| 22 | [father's daughter](https://open.spotify.com/track/7mFcA8fmhx64jB3rngJZvD) | [Bottle Rockets](https://open.spotify.com/artist/1bFphh6DSkuYX0mjTxAxgK) | [father's daughter \(single version\)](https://open.spotify.com/album/29zviuhAB3rdqlDeTrk3SU) | 3:33 |
 | 23 | [B.A.B.E.](https://open.spotify.com/track/5kLhCjNw5VWPDFrELrvZk0) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Are We All Angels](https://open.spotify.com/album/0zDdwRsOg2sVvOFpjEOtHs) | 2:33 |
 | 24 | [POSH](https://open.spotify.com/track/5QsLKHcGyasVaZEfwtFYAw) | [The Pill](https://open.spotify.com/artist/4XtMirRxOoonxsbLRJvlwO) | [THE EP](https://open.spotify.com/album/3RkYt0PL7WhTqv4HtCl5VA) | 2:09 |
 | 25 | [Face Off](https://open.spotify.com/track/43jkw2oItyUiYcspEIZ5YZ) | [SLAG](https://open.spotify.com/artist/5eGQYBSvZQ7242siSaU8v1) | [Face Off](https://open.spotify.com/album/40AfFZiTv9KuQQa9AgW5NQ) | 2:03 |

@@ -1,71 +1,15 @@
 {
   "description": "New music from Yeat, DJ Khaled and Don Toliver.",
-  "num_followers": 15761493,
+  "num_followers": 15761612,
   "original_name": "RapCaviar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM+o6nAsdGfD30V0jURd2W5qd12X",
+  "snapshot_id": "AAAAABEvMrOy7dyk9ucJJ8/ErGb8M8b6",
   "tracks": [
     {
-      "added_at": "2026-04-10 14:29:12",
-      "album": {
-        "name": "OCTANE",
-        "url": "https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        },
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 226666,
-      "name": "Secondhand (feat. Rema)",
-      "url": "https://open.spotify.com/track/4Z5KKoBGxpJo8YbDcGQXd5"
-    },
-    {
-      "added_at": "2026-04-10 14:29:12",
-      "album": {
-        "name": "Ca$ino",
-        "url": "https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b"
-      },
-      "artists": [
-        {
-          "name": "Baby Keem",
-          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
-        }
-      ],
-      "duration_ms": 260825,
-      "name": "Ca$ino",
-      "url": "https://open.spotify.com/track/3VW6HJYa5l0uzGcCRA222P"
-    },
-    {
-      "added_at": "2026-04-10 14:29:12",
-      "album": {
-        "name": "ADL",
-        "url": "https://open.spotify.com/album/6sKe2lWmQxRYhhUnN7dln3"
-      },
-      "artists": [
-        {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 157333,
-      "name": "Griddl\u00eb",
-      "url": "https://open.spotify.com/track/1VvXLOfkv1zxa3LZ0zBXt2"
-    },
-    {
-      "added_at": "2026-04-10 14:29:12",
+      "added_at": "2026-04-13 21:55:16",
       "album": {
         "name": "One of Them",
         "url": "https://open.spotify.com/album/7yHjH5MTdtXNeIcQWVq0LQ"
@@ -89,7 +33,43 @@
       "url": "https://open.spotify.com/track/64QhStjcTHwvY7QCkFfT0M"
     },
     {
-      "added_at": "2026-04-10 14:29:12",
+      "added_at": "2026-04-13 21:55:16",
+      "album": {
+        "name": "Ca$ino",
+        "url": "https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b"
+      },
+      "artists": [
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        }
+      ],
+      "duration_ms": 260825,
+      "name": "Ca$ino",
+      "url": "https://open.spotify.com/track/3VW6HJYa5l0uzGcCRA222P"
+    },
+    {
+      "added_at": "2026-04-13 21:55:16",
+      "album": {
+        "name": "ADL",
+        "url": "https://open.spotify.com/album/6sKe2lWmQxRYhhUnN7dln3"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 157333,
+      "name": "Griddl\u00eb",
+      "url": "https://open.spotify.com/track/1VvXLOfkv1zxa3LZ0zBXt2"
+    },
+    {
+      "added_at": "2026-04-13 21:55:16",
       "album": {
         "name": "OCTANE",
         "url": "https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN"
@@ -105,43 +85,27 @@
       "url": "https://open.spotify.com/track/0FlcmZ13DGRmscCroro9GO"
     },
     {
-      "added_at": "2026-04-10 14:29:12",
+      "added_at": "2026-04-13 21:55:16",
       "album": {
-        "name": "Chicken Talkin Bastard",
-        "url": "https://open.spotify.com/album/7cChUPYfmnblkqIyV8oP4R"
+        "name": "Down South",
+        "url": "https://open.spotify.com/album/23amY0Ns9L31zVNhG9BRZO"
       },
       "artists": [
         {
-          "name": "BossMan Dlow",
-          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+          "name": "Trap Dickey",
+          "url": "https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c"
         },
         {
-          "name": "YKNIECE",
-          "url": "https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog"
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
         }
       ],
-      "duration_ms": 169466,
-      "name": "Chicken Talkin Bastard",
-      "url": "https://open.spotify.com/track/5SK7SRwN7AGI6qf1bc9qP4"
+      "duration_ms": 139805,
+      "name": "Down South (feat. Key Glock)",
+      "url": "https://open.spotify.com/track/70sjcC1GLyYfcHntiZ16cN"
     },
     {
-      "added_at": "2026-04-10 14:29:12",
-      "album": {
-        "name": "ALL ROADS LEAD HOME",
-        "url": "https://open.spotify.com/album/1JcLZljq8ADWNCdwVJKNID"
-      },
-      "artists": [
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 127000,
-      "name": "WAGWAN",
-      "url": "https://open.spotify.com/track/33XUHrCbrAW6me9ewdCZip"
-    },
-    {
-      "added_at": "2026-04-10 14:29:12",
+      "added_at": "2026-04-13 21:55:16",
       "album": {
         "name": "BULLY",
         "url": "https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS"
@@ -165,47 +129,7 @@
       "url": "https://open.spotify.com/track/5pfn68duSmBKo4FhYknOms"
     },
     {
-      "added_at": "2026-04-10 14:29:12",
-      "album": {
-        "name": "The Fall-Off",
-        "url": "https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 310626,
-      "name": "Bunce Road Blues (with Future & Tems)",
-      "url": "https://open.spotify.com/track/6jtqO14L18plBtpDTtUkFR"
-    },
-    {
-      "added_at": "2026-04-10 14:29:12",
-      "album": {
-        "name": "OCTANE",
-        "url": "https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 153181,
-      "name": "E85",
-      "url": "https://open.spotify.com/track/3B4cjvGlPvyBLNG3AzEgkZ"
-    },
-    {
-      "added_at": "2026-04-10 14:29:12",
+      "added_at": "2026-04-13 21:55:16",
       "album": {
         "name": "Motion Party",
         "url": "https://open.spotify.com/album/3SqG2aIX6OI0o4SFSDqHjr"
@@ -221,27 +145,23 @@
       "url": "https://open.spotify.com/track/6i33LrYcqEjfhDudr0PRy9"
     },
     {
-      "added_at": "2026-04-10 14:29:12",
+      "added_at": "2026-04-13 21:55:16",
       "album": {
-        "name": "Down South",
-        "url": "https://open.spotify.com/album/23amY0Ns9L31zVNhG9BRZO"
+        "name": "BE MORE GRATEFUL",
+        "url": "https://open.spotify.com/album/3JoiYj7Wu5cM6X6rHJAVdg"
       },
       "artists": [
         {
-          "name": "Trap Dickey",
-          "url": "https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c"
-        },
-        {
-          "name": "Key Glock",
-          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
         }
       ],
-      "duration_ms": 139805,
-      "name": "Down South (feat. Key Glock)",
-      "url": "https://open.spotify.com/track/70sjcC1GLyYfcHntiZ16cN"
+      "duration_ms": 138346,
+      "name": "POP DAT THANG",
+      "url": "https://open.spotify.com/track/0QgwjxR1VchizzckKXwyBu"
     },
     {
-      "added_at": "2026-04-10 14:29:12",
+      "added_at": "2026-04-13 21:55:16",
       "album": {
         "name": "6WA",
         "url": "https://open.spotify.com/album/23YB6arrlcMYHpeMT72TaO"
@@ -269,146 +189,26 @@
       "url": "https://open.spotify.com/track/6fODAgyTJdN7ATeJOP81dj"
     },
     {
-      "added_at": "2026-04-10 14:29:12",
+      "added_at": "2026-04-13 21:55:16",
       "album": {
-        "name": "BE MORE GRATEFUL",
-        "url": "https://open.spotify.com/album/3JoiYj7Wu5cM6X6rHJAVdg"
+        "name": "FLAMMABLE",
+        "url": "https://open.spotify.com/album/5FS2IqrUicInbFJOS4bAHH"
       },
       "artists": [
         {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
         }
       ],
-      "duration_ms": 138346,
-      "name": "POP DAT THANG",
-      "url": "https://open.spotify.com/track/0QgwjxR1VchizzckKXwyBu"
+      "duration_ms": 197551,
+      "name": "FLAMMABLE",
+      "url": "https://open.spotify.com/track/1d5sIc2QcHgSMYvGcnsLhe"
     },
     {
-      "added_at": "2026-04-10 14:29:12",
+      "added_at": "2026-04-13 21:55:16",
       "album": {
-        "name": "CRASH DUMMY",
-        "url": "https://open.spotify.com/album/1IAUzRksvdcrjEHRL0Ha5j"
-      },
-      "artists": [
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        }
-      ],
-      "duration_ms": 190522,
-      "name": "CRASH DUMMY",
-      "url": "https://open.spotify.com/track/34NayTUin8gt9j3RxYMdDx"
-    },
-    {
-      "added_at": "2026-04-10 14:29:12",
-      "album": {
-        "name": "Don't Be Dumb",
-        "url": "https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9"
-      },
-      "artists": [
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        }
-      ],
-      "duration_ms": 199015,
-      "name": "STOLE YA FLOW",
-      "url": "https://open.spotify.com/track/2FycFFuNMVVYIiIqeldXF5"
-    },
-    {
-      "added_at": "2026-04-10 14:29:12",
-      "album": {
-        "name": "Ca$ino",
-        "url": "https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b"
-      },
-      "artists": [
-        {
-          "name": "Baby Keem",
-          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
-        }
-      ],
-      "duration_ms": 195612,
-      "name": "House Money",
-      "url": "https://open.spotify.com/track/5Th1SPySWgYlkXXC6wLMwL"
-    },
-    {
-      "added_at": "2026-04-10 14:29:12",
-      "album": {
-        "name": "Made It On Our Own",
-        "url": "https://open.spotify.com/album/5pXYL4x2dOkvxM0aeigqwF"
-      },
-      "artists": [
-        {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-        },
-        {
-          "name": "EsDeeKid",
-          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
-        }
-      ],
-      "duration_ms": 169090,
-      "name": "Made It On Our Own",
-      "url": "https://open.spotify.com/track/13Z2JpNwN54a5WXacGYtLs"
-    },
-    {
-      "added_at": "2026-04-10 14:29:12",
-      "album": {
-        "name": "SAME SH!T",
-        "url": "https://open.spotify.com/album/34v3zMWlkxsKbaYnERZV6d"
-      },
-      "artists": [
-        {
-          "name": "Isaiah Rashad",
-          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
-        }
-      ],
-      "duration_ms": 193294,
-      "name": "SAME SH!T",
-      "url": "https://open.spotify.com/track/0EOc1cP1zMmF9kR0w3AM5f"
-    },
-    {
-      "added_at": "2026-04-10 14:29:12",
-      "album": {
-        "name": "The Fall-Off",
-        "url": "https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 196080,
-      "name": "Two Six",
-      "url": "https://open.spotify.com/track/57ENogEkvFsU7Wmt3lvQMG"
-    },
-    {
-      "added_at": "2026-04-10 14:29:12",
-      "album": {
-        "name": "Chicken Talkin Bastard",
-        "url": "https://open.spotify.com/album/7cChUPYfmnblkqIyV8oP4R"
-      },
-      "artists": [
-        {
-          "name": "BossMan Dlow",
-          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Ain't Easy",
-      "url": "https://open.spotify.com/track/3dTs6hT4HPJvcZcE6pU2Um"
-    },
-    {
-      "added_at": "2026-04-10 14:29:12",
-      "album": {
-        "name": "ICEMAN FREESTYLE",
-        "url": "https://open.spotify.com/album/2WffTc00muxCNZhwopltsi"
+        "name": "ALL ROADS LEAD HOME",
+        "url": "https://open.spotify.com/album/1JcLZljq8ADWNCdwVJKNID"
       },
       "artists": [
         {
@@ -416,68 +216,32 @@
           "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
         }
       ],
-      "duration_ms": 186000,
-      "name": "ICEMAN FREESTYLE",
-      "url": "https://open.spotify.com/track/0YskQDMYYgtxyFp1yTabRu"
+      "duration_ms": 127000,
+      "name": "WAGWAN",
+      "url": "https://open.spotify.com/track/33XUHrCbrAW6me9ewdCZip"
     },
     {
-      "added_at": "2026-04-10 14:29:12",
+      "added_at": "2026-04-13 21:55:16",
       "album": {
-        "name": "Hang Wit a Bad Bitch (feat. Key Glock)",
-        "url": "https://open.spotify.com/album/2baqPDpNzQ8eu8tGM98lZA"
+        "name": "OCTANE",
+        "url": "https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN"
       },
       "artists": [
         {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
         },
         {
-          "name": "Key Glock",
-          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         }
       ],
-      "duration_ms": 154931,
-      "name": "Hang Wit a Bad Bitch (feat. Key Glock)",
-      "url": "https://open.spotify.com/track/58kIVm8Mb2CS4j6UQa1PE4"
+      "duration_ms": 226666,
+      "name": "Secondhand (feat. Rema)",
+      "url": "https://open.spotify.com/track/4Z5KKoBGxpJo8YbDcGQXd5"
     },
     {
-      "added_at": "2026-04-10 14:29:12",
-      "album": {
-        "name": "BULLY",
-        "url": "https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Ye",
-          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
-        }
-      ],
-      "duration_ms": 126868,
-      "name": "KING",
-      "url": "https://open.spotify.com/track/4LP6bmyAxdMNrqUrMpaVQ8"
-    },
-    {
-      "added_at": "2026-04-10 14:29:12",
-      "album": {
-        "name": "BOAT",
-        "url": "https://open.spotify.com/album/3pGNWXpCt2g48Wfs791E2E"
-      },
-      "artists": [
-        {
-          "name": "Trim",
-          "url": "https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9"
-        }
-      ],
-      "duration_ms": 207724,
-      "name": "BOAT",
-      "url": "https://open.spotify.com/track/3saKLLmgDVjgojwm3HB45i"
-    },
-    {
-      "added_at": "2026-04-10 14:29:12",
+      "added_at": "2026-04-13 21:55:16",
       "album": {
         "name": "Don't Be Dumb",
         "url": "https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9"
@@ -497,23 +261,171 @@
       "url": "https://open.spotify.com/track/2xsTsnA5QOFCnFXdEHGkli"
     },
     {
-      "added_at": "2026-04-10 14:29:12",
+      "added_at": "2026-04-13 21:55:16",
       "album": {
-        "name": "Flo Jackson",
-        "url": "https://open.spotify.com/album/7a50cJvGdEO7AfkEvOoCFS"
+        "name": "The Fall-Off",
+        "url": "https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7"
       },
       "artists": [
         {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         }
       ],
-      "duration_ms": 143444,
-      "name": "Flo Jackson",
-      "url": "https://open.spotify.com/track/4fwJzG3arwvfC1ZbRdracJ"
+      "duration_ms": 310626,
+      "name": "Bunce Road Blues (with Future & Tems)",
+      "url": "https://open.spotify.com/track/6jtqO14L18plBtpDTtUkFR"
     },
     {
-      "added_at": "2026-04-10 14:29:12",
+      "added_at": "2026-04-13 21:55:16",
+      "album": {
+        "name": "Ca$ino",
+        "url": "https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b"
+      },
+      "artists": [
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        }
+      ],
+      "duration_ms": 195612,
+      "name": "House Money",
+      "url": "https://open.spotify.com/track/5Th1SPySWgYlkXXC6wLMwL"
+    },
+    {
+      "added_at": "2026-04-13 21:55:16",
+      "album": {
+        "name": "Don't Be Dumb",
+        "url": "https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "duration_ms": 199015,
+      "name": "STOLE YA FLOW",
+      "url": "https://open.spotify.com/track/2FycFFuNMVVYIiIqeldXF5"
+    },
+    {
+      "added_at": "2026-04-13 21:55:16",
+      "album": {
+        "name": "Made It On Our Own",
+        "url": "https://open.spotify.com/album/5pXYL4x2dOkvxM0aeigqwF"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        },
+        {
+          "name": "EsDeeKid",
+          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
+        }
+      ],
+      "duration_ms": 169090,
+      "name": "Made It On Our Own",
+      "url": "https://open.spotify.com/track/13Z2JpNwN54a5WXacGYtLs"
+    },
+    {
+      "added_at": "2026-04-13 21:55:16",
+      "album": {
+        "name": "OCTANE",
+        "url": "https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 153181,
+      "name": "E85",
+      "url": "https://open.spotify.com/track/3B4cjvGlPvyBLNG3AzEgkZ"
+    },
+    {
+      "added_at": "2026-04-13 21:55:16",
+      "album": {
+        "name": "The Fall-Off",
+        "url": "https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 196080,
+      "name": "Two Six",
+      "url": "https://open.spotify.com/track/57ENogEkvFsU7Wmt3lvQMG"
+    },
+    {
+      "added_at": "2026-04-13 21:55:16",
+      "album": {
+        "name": "ICEMAN FREESTYLE",
+        "url": "https://open.spotify.com/album/2WffTc00muxCNZhwopltsi"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "ICEMAN FREESTYLE",
+      "url": "https://open.spotify.com/track/0YskQDMYYgtxyFp1yTabRu"
+    },
+    {
+      "added_at": "2026-04-13 21:55:16",
+      "album": {
+        "name": "BULLY",
+        "url": "https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ye",
+          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
+        }
+      ],
+      "duration_ms": 86709,
+      "name": "THIS A MUST",
+      "url": "https://open.spotify.com/track/41e8XO5tcG6Uesk2FhdsWm"
+    },
+    {
+      "added_at": "2026-04-13 21:55:16",
+      "album": {
+        "name": "Hang Wit a Bad Bitch (feat. Key Glock)",
+        "url": "https://open.spotify.com/album/2baqPDpNzQ8eu8tGM98lZA"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "duration_ms": 154931,
+      "name": "Hang Wit a Bad Bitch (feat. Key Glock)",
+      "url": "https://open.spotify.com/track/58kIVm8Mb2CS4j6UQa1PE4"
+    },
+    {
+      "added_at": "2026-04-13 21:55:16",
       "album": {
         "name": "Slime Cry",
         "url": "https://open.spotify.com/album/36zFjOhkJXdudJMUiEqroA"
@@ -529,7 +441,7 @@
       "url": "https://open.spotify.com/track/0Sy9PzIKNGbnoY3WWPBZAR"
     },
     {
-      "added_at": "2026-04-10 14:29:12",
+      "added_at": "2026-04-13 21:55:16",
       "album": {
         "name": "OCTANE",
         "url": "https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN"
@@ -545,23 +457,7 @@
       "url": "https://open.spotify.com/track/03auLpFLdCv4HozP4pQseu"
     },
     {
-      "added_at": "2026-04-10 14:29:12",
-      "album": {
-        "name": "LET 'EM KNOW",
-        "url": "https://open.spotify.com/album/7MmMz1SDFpAustlXwduMFa"
-      },
-      "artists": [
-        {
-          "name": "T.I.",
-          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
-        }
-      ],
-      "duration_ms": 179924,
-      "name": "LET 'EM KNOW",
-      "url": "https://open.spotify.com/track/6AXf9n3qazR1bE1dngnqxi"
-    },
-    {
-      "added_at": "2026-04-10 14:29:12",
+      "added_at": "2026-04-13 21:55:16",
       "album": {
         "name": "The Fall-Off",
         "url": "https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7"
@@ -577,7 +473,7 @@
       "url": "https://open.spotify.com/track/1nhNz1tWU8p5WvFAAgFW2h"
     },
     {
-      "added_at": "2026-04-10 14:29:12",
+      "added_at": "2026-04-13 21:55:16",
       "album": {
         "name": "Coke Wave 3.5: Narcos",
         "url": "https://open.spotify.com/album/2YUs8GbMrKBcpGF7ElDHJE"
@@ -597,7 +493,43 @@
       "url": "https://open.spotify.com/track/5ehgf6op0j2sE4lqjiTkMY"
     },
     {
-      "added_at": "2026-04-10 14:29:12",
+      "added_at": "2026-04-13 21:55:16",
+      "album": {
+        "name": "LET 'EM KNOW",
+        "url": "https://open.spotify.com/album/7MmMz1SDFpAustlXwduMFa"
+      },
+      "artists": [
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        }
+      ],
+      "duration_ms": 179924,
+      "name": "LET 'EM KNOW",
+      "url": "https://open.spotify.com/track/6AXf9n3qazR1bE1dngnqxi"
+    },
+    {
+      "added_at": "2026-04-13 21:55:16",
+      "album": {
+        "name": "BULLY",
+        "url": "https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ye",
+          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
+        }
+      ],
+      "duration_ms": 126868,
+      "name": "KING",
+      "url": "https://open.spotify.com/track/4LP6bmyAxdMNrqUrMpaVQ8"
+    },
+    {
+      "added_at": "2026-04-13 21:55:16",
       "album": {
         "name": "ROOMS",
         "url": "https://open.spotify.com/album/50sklTdoxS2yLHgF3jnV3t"
@@ -621,7 +553,7 @@
       "url": "https://open.spotify.com/track/0LnDKUQRhGvVMraLKhWnuD"
     },
     {
-      "added_at": "2026-04-10 14:29:12",
+      "added_at": "2026-04-13 21:55:16",
       "album": {
         "name": "HELICOPTER",
         "url": "https://open.spotify.com/album/3RqGpx3OPRVlRdVEMCh0Wf"
@@ -637,7 +569,7 @@
       "url": "https://open.spotify.com/track/3v1d12O8WEj5H9eFID7HBn"
     },
     {
-      "added_at": "2026-04-10 14:29:12",
+      "added_at": "2026-04-13 21:55:16",
       "album": {
         "name": "Trimski",
         "url": "https://open.spotify.com/album/0hJEWg3nzNeattUiP5skly"
@@ -657,7 +589,7 @@
       "url": "https://open.spotify.com/track/6ApfK0ChvyLJcG4lyA3LbW"
     },
     {
-      "added_at": "2026-04-10 14:29:12",
+      "added_at": "2026-04-13 21:55:16",
       "album": {
         "name": "Disco Mafia Pack",
         "url": "https://open.spotify.com/album/4Fx0xGlG4kmNBjzPVx7xGY"
@@ -685,43 +617,7 @@
       "url": "https://open.spotify.com/track/0HNYsGGjrvPQsaXR6sFnVB"
     },
     {
-      "added_at": "2026-04-10 14:29:12",
-      "album": {
-        "name": "FLAMMABLE",
-        "url": "https://open.spotify.com/album/5FS2IqrUicInbFJOS4bAHH"
-      },
-      "artists": [
-        {
-          "name": "Swae Lee",
-          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
-        }
-      ],
-      "duration_ms": 197551,
-      "name": "FLAMMABLE",
-      "url": "https://open.spotify.com/track/1d5sIc2QcHgSMYvGcnsLhe"
-    },
-    {
-      "added_at": "2026-04-10 14:29:12",
-      "album": {
-        "name": "BULLY",
-        "url": "https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Ye",
-          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
-        }
-      ],
-      "duration_ms": 86709,
-      "name": "THIS A MUST",
-      "url": "https://open.spotify.com/track/41e8XO5tcG6Uesk2FhdsWm"
-    },
-    {
-      "added_at": "2026-04-10 14:29:12",
+      "added_at": "2026-04-13 21:55:16",
       "album": {
         "name": "Ca$ino",
         "url": "https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b"
@@ -737,7 +633,7 @@
       "url": "https://open.spotify.com/track/5waTXjl4V7YBw1Bo4CsjlM"
     },
     {
-      "added_at": "2026-04-10 14:29:12",
+      "added_at": "2026-04-13 21:55:16",
       "album": {
         "name": "600 Racks",
         "url": "https://open.spotify.com/album/6rU9y9BYVGa7uA977pl0f5"
@@ -753,7 +649,127 @@
       "url": "https://open.spotify.com/track/4ss5dbCWS90LRINPRxDjE6"
     },
     {
-      "added_at": "2026-04-10 14:29:12",
+      "added_at": "2026-04-13 21:55:16",
+      "album": {
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/2MrAeXVF8AF8jb3LSK4TIM"
+      },
+      "artists": [
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "duration_ms": 154333,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/2LIHIN3N3WK5psQzKtqfMW"
+    },
+    {
+      "added_at": "2026-04-13 21:55:16",
+      "album": {
+        "name": "Chicken Talkin Bastard",
+        "url": "https://open.spotify.com/album/7cChUPYfmnblkqIyV8oP4R"
+      },
+      "artists": [
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        },
+        {
+          "name": "YKNIECE",
+          "url": "https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog"
+        }
+      ],
+      "duration_ms": 169466,
+      "name": "Chicken Talkin Bastard",
+      "url": "https://open.spotify.com/track/5SK7SRwN7AGI6qf1bc9qP4"
+    },
+    {
+      "added_at": "2026-04-13 21:55:16",
+      "album": {
+        "name": "CRASH DUMMY",
+        "url": "https://open.spotify.com/album/1IAUzRksvdcrjEHRL0Ha5j"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "duration_ms": 190522,
+      "name": "CRASH DUMMY",
+      "url": "https://open.spotify.com/track/34NayTUin8gt9j3RxYMdDx"
+    },
+    {
+      "added_at": "2026-04-13 21:55:16",
+      "album": {
+        "name": "SAME SH!T",
+        "url": "https://open.spotify.com/album/34v3zMWlkxsKbaYnERZV6d"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Rashad",
+          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
+        }
+      ],
+      "duration_ms": 193294,
+      "name": "SAME SH!T",
+      "url": "https://open.spotify.com/track/0EOc1cP1zMmF9kR0w3AM5f"
+    },
+    {
+      "added_at": "2026-04-13 21:55:16",
+      "album": {
+        "name": "Chicken Talkin Bastard",
+        "url": "https://open.spotify.com/album/7cChUPYfmnblkqIyV8oP4R"
+      },
+      "artists": [
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Ain't Easy",
+      "url": "https://open.spotify.com/track/3dTs6hT4HPJvcZcE6pU2Um"
+    },
+    {
+      "added_at": "2026-04-13 21:55:16",
+      "album": {
+        "name": "BOAT",
+        "url": "https://open.spotify.com/album/3pGNWXpCt2g48Wfs791E2E"
+      },
+      "artists": [
+        {
+          "name": "Trim",
+          "url": "https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9"
+        }
+      ],
+      "duration_ms": 207724,
+      "name": "BOAT",
+      "url": "https://open.spotify.com/track/3saKLLmgDVjgojwm3HB45i"
+    },
+    {
+      "added_at": "2026-04-13 21:55:16",
+      "album": {
+        "name": "Flo Jackson",
+        "url": "https://open.spotify.com/album/7a50cJvGdEO7AfkEvOoCFS"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 143444,
+      "name": "Flo Jackson",
+      "url": "https://open.spotify.com/track/4fwJzG3arwvfC1ZbRdracJ"
+    },
+    {
+      "added_at": "2026-04-13 21:55:16",
       "album": {
         "name": "SAME DIFFERENCE",
         "url": "https://open.spotify.com/album/3EUDvHdTIYlB3Hl1WFOIrS"
@@ -769,7 +785,7 @@
       "url": "https://open.spotify.com/track/60IesPH0F4XWsCj811Y6AX"
     },
     {
-      "added_at": "2026-04-10 14:29:12",
+      "added_at": "2026-04-13 21:55:16",
       "album": {
         "name": "The Boy Who Played the Harp",
         "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
@@ -789,23 +805,7 @@
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
     },
     {
-      "added_at": "2026-04-10 14:29:12",
-      "album": {
-        "name": "Loco",
-        "url": "https://open.spotify.com/album/2MrAeXVF8AF8jb3LSK4TIM"
-      },
-      "artists": [
-        {
-          "name": "Key Glock",
-          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
-        }
-      ],
-      "duration_ms": 154333,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/2LIHIN3N3WK5psQzKtqfMW"
-    },
-    {
-      "added_at": "2026-04-10 14:29:12",
+      "added_at": "2026-04-13 21:55:16",
       "album": {
         "name": "TEACH YOU HOW TO LUH ME",
         "url": "https://open.spotify.com/album/7DQF3OuLxkjvqDvzS1tBM5"
@@ -825,7 +825,7 @@
       "url": "https://open.spotify.com/track/6AwyXLzD18HptZPpbhrssp"
     },
     {
-      "added_at": "2026-04-10 14:29:12",
+      "added_at": "2026-04-13 21:55:16",
       "album": {
         "name": "No One Told Us",
         "url": "https://open.spotify.com/album/1IXuXUuyVAt80cGFhMWeKG"
@@ -845,7 +845,7 @@
       "url": "https://open.spotify.com/track/34VOEgQNftYHw57IgFJn0g"
     },
     {
-      "added_at": "2026-04-10 14:29:12",
+      "added_at": "2026-04-13 21:55:16",
       "album": {
         "name": "Business & Personal (Intro)",
         "url": "https://open.spotify.com/album/5N4cdVzzsQFrw6qleGwPBr"
@@ -861,7 +861,7 @@
       "url": "https://open.spotify.com/track/7MuSU4AjQ9yW9Jl6eFIPTW"
     },
     {
-      "added_at": "2026-04-10 14:29:12",
+      "added_at": "2026-04-13 21:55:16",
       "album": {
         "name": "LUCY",
         "url": "https://open.spotify.com/album/0EnjeA3ZeMivEGuACIgrQi"
@@ -877,7 +877,7 @@
       "url": "https://open.spotify.com/track/0sH7M5s2bEWFRe7v7VRemW"
     },
     {
-      "added_at": "2026-04-10 14:29:12",
+      "added_at": "2026-04-13 21:55:16",
       "album": {
         "name": "What You Saying",
         "url": "https://open.spotify.com/album/1prQBN9FUobW9g4xDDKSly"
@@ -893,7 +893,7 @@
       "url": "https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v"
     },
     {
-      "added_at": "2026-04-10 14:29:12",
+      "added_at": "2026-04-13 21:55:16",
       "album": {
         "name": "Feeling On My Body",
         "url": "https://open.spotify.com/album/50owKb2Oo4FXVBpsxBwxSq"
@@ -913,7 +913,7 @@
       "url": "https://open.spotify.com/track/5AIKM6zNiPi00rbWPnEq80"
     },
     {
-      "added_at": "2026-04-10 14:29:12",
+      "added_at": "2026-04-13 21:55:16",
       "album": {
         "name": "PGD (feat. Kyle Richh & ZEDDY WILL)",
         "url": "https://open.spotify.com/album/55PVyRV3IhOpKAzLcPxFs3"

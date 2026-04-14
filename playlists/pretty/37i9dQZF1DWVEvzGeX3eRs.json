@@ -1,6 +1,6 @@
 {
   "description": "in the mood for love.",
-  "num_followers": 2554649,
+  "num_followers": 2554554,
   "original_name": "Love Deluxe",
   "owner": {
     "name": "Spotify",
@@ -793,20 +793,24 @@
       "url": "https://open.spotify.com/track/1mC7u32zemMLC1mVOU02Pm"
     },
     {
-      "added_at": "2023-02-02 23:04:07",
+      "added_at": "2023-02-02 23:22:15",
       "album": {
-        "name": "Life Is A Song Worth Singing (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
+        "name": "A Day in the Life",
+        "url": "https://open.spotify.com/album/4jUwgH0Zd9DtgKiXFcBuHB"
       },
       "artists": [
         {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+          "name": "Eric Ben\u00e9t",
+          "url": "https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov"
+        },
+        {
+          "name": "Kevin \"K.D.\" Davis",
+          "url": "https://open.spotify.com/artist/20ZzK04IeD9EcQE12i2uRa"
         }
       ],
-      "duration_ms": 325493,
-      "name": "Close the Door",
-      "url": "https://open.spotify.com/track/53m3UkzcaQVbB2DENsrJiK"
+      "duration_ms": 276013,
+      "name": "Spend My Life With You",
+      "url": "https://open.spotify.com/track/58s4iqgXFzXhBndBkg2AaD"
     },
     {
       "added_at": "2021-03-05 00:03:16",

@@ -1,13 +1,41 @@
 {
   "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: Xduppy",
-  "num_followers": 1199599,
+  "num_followers": 1200176,
   "original_name": "AMAPIANO GROOVES",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAhrTrrMOYfApAj5X+mqGnYKYzi6",
+  "snapshot_id": "AAAAAAgAZbckwYZW1/i3GSinRwbS6NAA",
   "tracks": [
+    {
+      "added_at": "2026-04-09 22:03:13",
+      "album": {
+        "name": "Lwetse (feat. DJ Maphorisa & Mluusician)",
+        "url": "https://open.spotify.com/album/7rSH7ZzgEAxgF7ZplAPPFY"
+      },
+      "artists": [
+        {
+          "name": "Xduppy",
+          "url": "https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i"
+        },
+        {
+          "name": "Angekebabuye Mc",
+          "url": "https://open.spotify.com/artist/43bzhXRLYpIEutFybHmm6H"
+        },
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        },
+        {
+          "name": "Mluusician",
+          "url": "https://open.spotify.com/artist/7uNPGhyPtFpwvmSP3tTiaE"
+        }
+      ],
+      "duration_ms": 373805,
+      "name": "Lwetse (feat. DJ Maphorisa & Mluusician)",
+      "url": "https://open.spotify.com/track/5WyMVQuP2iraAdx2mmaruG"
+    },
     {
       "added_at": "2026-04-09 22:03:13",
       "album": {
@@ -59,34 +87,6 @@
       "duration_ms": 308241,
       "name": "ZEP (feat. Uncool MC)",
       "url": "https://open.spotify.com/track/1K0sOGQSOUflAyPPRBhTax"
-    },
-    {
-      "added_at": "2026-04-09 22:03:13",
-      "album": {
-        "name": "Lwetse (feat. DJ Maphorisa & Mluusician)",
-        "url": "https://open.spotify.com/album/7rSH7ZzgEAxgF7ZplAPPFY"
-      },
-      "artists": [
-        {
-          "name": "Xduppy",
-          "url": "https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i"
-        },
-        {
-          "name": "Angekebabuye Mc",
-          "url": "https://open.spotify.com/artist/43bzhXRLYpIEutFybHmm6H"
-        },
-        {
-          "name": "DJ Maphorisa",
-          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
-        },
-        {
-          "name": "Mluusician",
-          "url": "https://open.spotify.com/artist/7uNPGhyPtFpwvmSP3tTiaE"
-        }
-      ],
-      "duration_ms": 373805,
-      "name": "Lwetse (feat. DJ Maphorisa & Mluusician)",
-      "url": "https://open.spotify.com/track/5WyMVQuP2iraAdx2mmaruG"
     },
     {
       "added_at": "2026-04-09 22:03:13",

@@ -12651,6 +12651,24 @@
     },
     {
       "album": {
+        "name": "Destroy",
+        "url": "https://open.spotify.com/album/3d3MpKwUBRsKCwj9T0VBO3"
+      },
+      "artists": [
+        {
+          "name": "Zatox",
+          "url": "https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Destroy",
+      "url": "https://open.spotify.com/track/5dvxqCla2iSfWVtEJscrS2"
+    },
+    {
+      "album": {
         "name": "Destroy All Humans",
         "url": "https://open.spotify.com/album/4jqAZDR90a7b1VvQPEWHqK"
       },

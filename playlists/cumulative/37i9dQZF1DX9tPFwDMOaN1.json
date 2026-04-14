@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The new & hottest K-Pop is here! (Cover: BTS)",
+  "description": "The new & hottest K-Pop is here! (Cover: TOMORROWXTOGETHER)",
   "name": "K-Pop ON! (\uc628)",
   "tracks": [
     {
@@ -1718,7 +1718,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 171600,
       "name": "BOTH SIDES",
       "url": "https://open.spotify.com/track/3b8RmBMHKwhVzsn3EMGqpK"
@@ -1948,6 +1948,24 @@
       "duration_ms": 157000,
       "name": "BUBBLE GUM",
       "url": "https://open.spotify.com/track/3IUtLSW5FWB0K4RdkvOamG"
+    },
+    {
+      "album": {
+        "name": "Bubee (Korean Ver.)",
+        "url": "https://open.spotify.com/album/0fAglFrU95801fwwFiZBri"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182448,
+      "name": "Bubee (Korean Ver.)",
+      "url": "https://open.spotify.com/track/3FgR1MXFjpkL5HTDRrrFUE"
     },
     {
       "album": {
@@ -10608,7 +10626,7 @@
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 326000,
       "name": "R.I.L + King\u2032s gambit (Feat. ZICO, Gaeko, Sik-K, VINXEN) (Prod. by ZICO, Crush)",
       "url": "https://open.spotify.com/track/2CO0qu8M2UrT2IxRdYbGOg"
@@ -12450,6 +12468,24 @@
       "duration_ms": 191695,
       "name": "STEREOTYPE",
       "url": "https://open.spotify.com/track/2bZIDMpzVooosmPHn0tHnd"
+    },
+    {
+      "album": {
+        "name": "7TH YEAR: A Moment of Stillness in the Thorns",
+        "url": "https://open.spotify.com/album/55LBvRI4i4FUUf5dYKVMHk"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153954,
+      "name": "Stick With You",
+      "url": "https://open.spotify.com/track/1ttNlwhsAwCvSKWGxA6fDk"
     },
     {
       "album": {

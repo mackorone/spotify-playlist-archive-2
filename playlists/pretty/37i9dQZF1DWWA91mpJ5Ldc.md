@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA91mpJ5Ldc.md) - [plain]
 
 > 'tá na rua? traz salsinha?' \(eternamente\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,557 likes - 60 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,558 likes - 60 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,10 +59,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA91mpJ5Ldc.md) - [plain]
 | 49 | [Entretanto](https://open.spotify.com/track/2AavGz7eGM802LKuaoJpmR) | [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [Minha Cara](https://open.spotify.com/album/7j3svtZ7QYarjiH5LSFroe) | 3:57 |
 | 50 | [Apesar de Você](https://open.spotify.com/track/0gTWSdIl8bUq7us45K3PZh) | [Francisco, el Hombre](https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg) | [Apesar de Você](https://open.spotify.com/album/4ol2nFnfys22NkU5wAys79) | 4:35 |
 | 51 | [Cariocas](https://open.spotify.com/track/2ZOzy9aFCI8Yic2DP8n7xB) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Cariocas / Por Que Você Faz Cinema?](https://open.spotify.com/album/61KGsa3fDakjCMTDlOK1rA) | 3:43 |
-| 52 | [Acalanto](https://open.spotify.com/track/1TkWCfVoxYqGY5umsKFT0n) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Dj Nyack](https://open.spotify.com/artist/6qWqYtNvKPE8HwgmoPfkHx) | [Acalanto](https://open.spotify.com/album/0vfEOSIgEL5tGirjQmpzQz) | 4:28 |
-| 53 | [afro futurista](https://open.spotify.com/track/707zgXxO0fchdraumiV1R9) | [Fran](https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [raiz](https://open.spotify.com/album/0YetCaCRXkQxlnVAhWBJA5) | 4:06 |
-| 54 | [Abrigo](https://open.spotify.com/track/6zKELA7gCngukYmDKQ6Lqb) | [Fi Barreto](https://open.spotify.com/artist/5hJ0ykBQGDxLmp3Lw7DpBe) | [Abrigo](https://open.spotify.com/album/23PdmCyFeFSdD6sEtCdaPs) | 2:46 |
-| 55 | [Tibethânica](https://open.spotify.com/track/57xQH9sXTDnbVOrcFksMIC) | [Leo Middea](https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG) | [A Dança do Mundo](https://open.spotify.com/album/0uMHpVW9LO4OL6b6ZHbhgE) | 3:22 |
+| 52 | [afro futurista](https://open.spotify.com/track/707zgXxO0fchdraumiV1R9) | [Fran](https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [raiz](https://open.spotify.com/album/0YetCaCRXkQxlnVAhWBJA5) | 4:06 |
+| 53 | [Acalanto](https://open.spotify.com/track/1TkWCfVoxYqGY5umsKFT0n) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Dj Nyack](https://open.spotify.com/artist/6qWqYtNvKPE8HwgmoPfkHx) | [Acalanto](https://open.spotify.com/album/0vfEOSIgEL5tGirjQmpzQz) | 4:28 |
+| 54 | [Tibethânica](https://open.spotify.com/track/57xQH9sXTDnbVOrcFksMIC) | [Leo Middea](https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG) | [A Dança do Mundo](https://open.spotify.com/album/0uMHpVW9LO4OL6b6ZHbhgE) | 3:22 |
+| 55 | [Abrigo](https://open.spotify.com/track/6zKELA7gCngukYmDKQ6Lqb) | [Fi Barreto](https://open.spotify.com/artist/5hJ0ykBQGDxLmp3Lw7DpBe) | [Abrigo](https://open.spotify.com/album/23PdmCyFeFSdD6sEtCdaPs) | 2:46 |
 | 56 | [Azul](https://open.spotify.com/track/3eB6Imewes3kokhBvnbKjf) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Mahmundi](https://open.spotify.com/album/2kGS8bXhlbxaDSkPbYuSsN) | 4:30 |
 | 57 | [Alma Bonita](https://open.spotify.com/track/6UI1XaokPZv7j07vqPacPE) | [Marvyn](https://open.spotify.com/artist/3XU1kxGF6EFSS0mcqMhkDU) | [Alma Bonita](https://open.spotify.com/album/5fLZ3JHapAITqNBIBed2L9) | 3:07 |
 | 58 | [do avesso](https://open.spotify.com/track/1mPXDwkAClgl2XeI12ubB5) | [saudade](https://open.spotify.com/artist/5vjVK0Y2CBuicKqg4BgryA) | [bem vindo, amanhecer](https://open.spotify.com/album/680EwE0QR2RqxQxjyVqXWQ) | 2:49 |

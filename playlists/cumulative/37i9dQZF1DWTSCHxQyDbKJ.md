@@ -2,9 +2,9 @@
 
 ### [GLOW UK & Ireland ](https://open.spotify.com/playlist/37i9dQZF1DWTSCHxQyDbKJ)
 
-> Necessities from LGBTQIA+ artists\. Cover: Arlo Parks
+> Necessities from LGBTQIA+ artists\. Cover: Honey Dijon
 
-278 songs - 15 hr 18 min
+280 songs - 15 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [Going To My Head](https://open.spotify.com/track/5VT6K1GoBmMLkySKljNcZx) | [Tom Aspaul](https://open.spotify.com/artist/413Q41cUdyDSRGezXozb54) | [Cabin Fever](https://open.spotify.com/album/724Umpj2VEH5ZAACzQMEAc) | 4:04 | 2026-02-10 |  |
 | [Good Bi](https://open.spotify.com/track/7eCK4VleezcD6KZNE0Adgk) | [Beth McCarthy](https://open.spotify.com/artist/2ba5BHaaNzyzG5ZEfKXIF2) | [Good Bi](https://open.spotify.com/album/1yKKiQfzbNXeZi2cowSkPo) | 3:14 | 2024-06-10 | 2026-02-11 |
 | [Got Weird](https://open.spotify.com/track/3sTZqO3R6OT1SSScoaL1U6) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Hot Mess](https://open.spotify.com/album/6yvRliUS1i3Dxro7UckrHO) | 3:22 | 2024-06-10 | 2025-07-08 |
-| [grit](https://open.spotify.com/track/3iXoBLx65Bpwyf4iyGvZk1) | [su i think](https://open.spotify.com/artist/0naoKcKsqj169ZzvaW4OR1), [s.g.cackle](https://open.spotify.com/artist/33sxw11HypPoCgM7wUaB3z) | [grit](https://open.spotify.com/album/5ubmNyomB7Z2H3BopcWbNr) | 2:13 | 2025-03-11 |  |
+| [grit](https://open.spotify.com/track/3iXoBLx65Bpwyf4iyGvZk1) | [su i think](https://open.spotify.com/artist/0naoKcKsqj169ZzvaW4OR1), [s.g.cackle](https://open.spotify.com/artist/33sxw11HypPoCgM7wUaB3z) | [grit](https://open.spotify.com/album/5ubmNyomB7Z2H3BopcWbNr) | 2:13 | 2025-03-11 | 2026-04-14 |
 | [GROWING UP ON THE INTERNET](https://open.spotify.com/track/2JEdblWbXROMy0otLQL5UL) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [GROWING UP ON THE INTERNET](https://open.spotify.com/album/6aFJQtL04OsqLPKVzGjqC8) | 3:19 | 2024-06-10 | 2026-02-11 |
 | [Guts](https://open.spotify.com/track/5cEgck20T0z74Ta9CZnGP3) | [Ellie Dixon](https://open.spotify.com/artist/4mvJltDSlBawXCZhq6NAso) | [Guts](https://open.spotify.com/album/5EbGb97EmI0PrYWH7rNFhi) | 2:06 | 2025-04-07 |  |
 | [Happier \(feat\. Clementine Douglas\)](https://open.spotify.com/track/1TcF5F10EN17vraisG1gQv) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Happier \(feat\. Clementine Douglas\)](https://open.spotify.com/album/5Tuzxg7Wwhx4ydYsxFsd7o) | 2:50 | 2024-11-19 |  |
@@ -158,6 +158,7 @@
 | [Jumping the Gun](https://open.spotify.com/track/5TosBXH7iNMMn1Z5dc2FzZ) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Jumping the Gun](https://open.spotify.com/album/3JCPqLTVCsSgNiTfHJSRP8) | 3:11 | 2024-12-04 | 2025-01-14 |
 | [Jupiter](https://open.spotify.com/track/3fDyWXe1JbCU6AgL7Z6soQ) | [Patrick Wolf](https://open.spotify.com/artist/6s92YZUPkTK1HL1WIGrPKE) | [Crying The Neck](https://open.spotify.com/album/3VOr1lxA6TQoijVvgIC1LL) | 5:17 | 2025-07-07 |  |
 | [Just Come Home With Me Tonight \- Live at 45](https://open.spotify.com/track/4m9dFksHdnXQ0UR77VCyeb) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Just Come Home With Me Tonight \(Live at 45\)](https://open.spotify.com/album/6xLZX3BctRo9ETHG0uQh5f) | 4:40 | 2024-06-10 | 2025-03-14 |
+| [Just Friends](https://open.spotify.com/track/16vvU2dfM73xN57mFlQ9FF) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Suni MF](https://open.spotify.com/artist/4qAsPlSJTwa5QkKqTU6BWE), [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Just Friends](https://open.spotify.com/album/0i0Lcddj3CLhd6LChNGWkH) | 3:35 | 2026-04-13 |  |
 | [Kerosene Dreams](https://open.spotify.com/track/2tHUKqdFCcrJ0xiC9SNOwb) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [A Guilty Heart Can Never Rest](https://open.spotify.com/album/7kUEQbqX1Kaf6oL2x046d6) | 3:05 | 2024-06-10 | 2025-01-14 |
 | [L.E.E.C.H.E.S](https://open.spotify.com/track/30sAUjr9XR0cp9MuILHNsL) | [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [SEWERSTAR](https://open.spotify.com/album/7w2WNWYJs00f05Dt1QwEJp) | 4:04 | 2024-06-10 | 2026-02-11 |
 | [Late To The Party](https://open.spotify.com/track/2zDfRGw37HXKFlJHZ7Oqy0) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co), [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Late To The Party](https://open.spotify.com/album/08YMpMJXbaxpIEqM946JoY) | 3:35 | 2024-09-09 |  |
@@ -240,7 +241,7 @@
 | [Shut It Down](https://open.spotify.com/track/1KsTta93YQGtGid1W1x6ki) | [Mollie Collins](https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu), [Elipsa](https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske) | [Shut It Down](https://open.spotify.com/album/540Df5chb7iGHb1GSCYD8B) | 2:58 | 2024-06-10 | 2026-02-11 |
 | [Smalltown Boy \(feat\. Perfume Genius\)](https://open.spotify.com/track/32Wbkbc7qZQA1viqNboe0D) | [Bronski Beat](https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Smalltown Boy \(feat\. Perfume Genius\)](https://open.spotify.com/album/6UMQHq7ZFWQmbTYsKqancW) | 4:34 | 2024-09-09 |  |
 | [Socks](https://open.spotify.com/track/69FRVk4lu4N60KiVvtTBb1) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [Socks](https://open.spotify.com/album/08QYFEvpcrYZLSTn5yZqEr) | 3:45 | 2024-06-10 | 2024-07-04 |
-| [Somewhere](https://open.spotify.com/track/52Z7EBRzdQuU6kxhVT9LZp) | [Harry Strange](https://open.spotify.com/artist/33hzAXIWsHwT9LxvlQ1ZAr) | [Somewhere](https://open.spotify.com/album/3j2Arsso32JifElbA1Vdk4) | 2:13 | 2026-02-10 |  |
+| [Somewhere](https://open.spotify.com/track/52Z7EBRzdQuU6kxhVT9LZp) | [Harry Strange](https://open.spotify.com/artist/33hzAXIWsHwT9LxvlQ1ZAr) | [Somewhere](https://open.spotify.com/album/3j2Arsso32JifElbA1Vdk4) | 2:13 | 2026-02-10 | 2026-04-14 |
 | [Statue In The Square](https://open.spotify.com/track/6QF34NPhm7aNhhgf5HtNLE) | [Kae Tempest](https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw) | [Statue In The Square](https://open.spotify.com/album/6h6UEEPRimAPINCMxsJ5Pw) | 2:54 | 2025-04-07 |  |
 | [STRAP!](https://open.spotify.com/track/2qkf8hc9iDQPtJrin3CPiN) | [The Oozes](https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF) | [STRAP!](https://open.spotify.com/album/2tWnNwQCgwpDgVwuN9coKs) | 1:58 | 2024-06-10 | 2024-10-04 |
 | [STRAP!](https://open.spotify.com/track/1ADao6bcWmASlYzOBOb05x) | [The Oozes](https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF) | [Gelatinous Man](https://open.spotify.com/album/5tgtsCwTYoffBARqhQtjzy) | 1:59 | 2024-12-04 | 2025-01-14 |
@@ -257,6 +258,7 @@
 | [The Beat](https://open.spotify.com/track/3sSvL4QtYlXAae7TyUgCzh) | [Mandidextrous](https://open.spotify.com/artist/0oVDzp5DK2caqb6FuL2mhp), [GEA](https://open.spotify.com/artist/3OHl7zl5cliNK2ADa18ZxL) | [The Beat](https://open.spotify.com/album/3sgObgnVBBMppg1qMoVP7i) | 3:26 | 2025-06-09 |  |
 | [The Hit](https://open.spotify.com/track/502BnzJNB8zqqkoamEOJ4R) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [The Hit](https://open.spotify.com/album/3I6WD02sgexnaNvRPK5Afu) | 3:30 | 2024-08-12 |  |
 | [The Jamie Oliver Petrol Station](https://open.spotify.com/track/3zTqj90l1JdCzBBhxk5Z7U) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [The Jamie Oliver Petrol Station](https://open.spotify.com/album/1HbenZ8GM8vwvmkwGRLbmM) | 5:23 | 2025-07-07 |  |
+| [The Nightlife](https://open.spotify.com/track/3yS2HZtVQyt81BvC8KnBEa) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [The Nightlife](https://open.spotify.com/album/7xsxQvOjSUDv7G3RvnA1rl) | 2:49 | 2026-04-13 |  |
 | [The Sea](https://open.spotify.com/track/0DsQ0M6qf1aJvZmktDwxy8) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [The Sea](https://open.spotify.com/album/1JrPLf0whTgjEwJxIMwPLo) | 3:10 | 2024-06-10 | 2026-02-11 |
 | [The Two Houses \- House Mix](https://open.spotify.com/track/4bFl7sBTPMaHZY4TGwbWN1) | [GIDEÖN](https://open.spotify.com/artist/1iVCq3rhTkFD4gveUnY9a5), [Rush Davis](https://open.spotify.com/artist/5ewyLdYTllvsWnsJN5IUSn) | [The Two Houses EP](https://open.spotify.com/album/69RSr2jx0v039aZys6NlyY) | 6:36 | 2025-05-29 |  |
 | [The Worst](https://open.spotify.com/track/7uRuhSjbA0McvqXUAOQWYn) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Light It Up](https://open.spotify.com/album/3vJdmKWko9TEePbLIJLQjn) | 2:58 | 2024-08-12 |  |

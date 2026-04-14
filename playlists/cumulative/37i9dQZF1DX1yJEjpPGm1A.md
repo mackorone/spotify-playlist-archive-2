@@ -4,7 +4,7 @@
 
 > 하나 뿐인 내 사랑을 정하는 날\. 따뜻하고 낭만적인 국내 가요와 마음 가득 행복함을 느껴보세요\. \(The day I decide on my one and only love\. Feel the happiness in your heart with warm and romantic domestic songs.\)
 
-118 songs - 7 hr 45 min
+120 songs - 7 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,10 +18,11 @@
 | [ALWAYS](https://open.spotify.com/track/4LsMjCB4qt4RnWcJBiHrA6) | [YOON MIRAE](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Descendants Of The Sun Pt.1 \(Original Television Soundtrack\)](https://open.spotify.com/album/1jLD6zV1si5YCQ7y1oI2hu) | 3:25 | 2024-12-19 |  |
 | [Always and Forever](https://open.spotify.com/track/4XoNHcpISsSFeil5pDoXCO) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [Always and Forever](https://open.spotify.com/album/2rakJkUUTAjBQmsgI0BJQd) | 3:43 | 2025-04-22 |  |
 | [Always be with you \(From "Love Scout" : Original Soundtrack\)](https://open.spotify.com/track/2mM8FBNml8EU36pkultmhu) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Always be with you \(From "Love Scout" : Original Soundtrack\)](https://open.spotify.com/album/5o92RLFD3ppuTFHOwqmG3r) | 4:11 | 2025-12-04 |  |
-| [Amazing You](https://open.spotify.com/track/37dkyQQNJLaqk09kkNr7In) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [The 3rd Digital Single \`Amazing You'](https://open.spotify.com/album/4thvEEDY1tQFGeIcTbgwMy) | 4:56 | 2024-12-19 |  |
+| [Amazing You](https://open.spotify.com/track/37dkyQQNJLaqk09kkNr7In) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [The 3rd Digital Single \`Amazing You'](https://open.spotify.com/album/4thvEEDY1tQFGeIcTbgwMy) | 4:56 | 2024-12-19 | 2026-04-14 |
 | [Amazing You](https://open.spotify.com/track/6Obj7Vj37gWWqWCbS5PuYH) | [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [Amazing You](https://open.spotify.com/album/2dTSzrGO5IhAXCfxDKP6s8) | 5:00 | 2025-10-21 |  |
 | [Be My Shelter, Hold Me Close](https://open.spotify.com/track/13TYjE0MVF38mPzkveRDxm) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Motel California OST Part.1](https://open.spotify.com/album/5SLDQJy85mmRg9AekUpap6) | 3:47 | 2025-10-15 |  |
 | [Beautiful](https://open.spotify.com/track/6mzF8HvHdVrzJNd8M1uFCS) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Guardian \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/7iUiSK1dCxUTOFq6BWrreS) | 3:47 | 2024-12-19 |  |
+| [Beautiful Moment](https://open.spotify.com/track/3SXg7A9M3pY2aWYdzQ0BMW) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t) | [The Beauty Inside Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/0BhoxE4nRkVv4GjS8draWN) | 3:58 | 2026-04-14 |  |
 | [Beauty of my life](https://open.spotify.com/track/2nuYQ6OTqjwzHw34SJiaF8) | [Kim Young Geun](https://open.spotify.com/artist/2gYn9xPkHXRkKnVnzRc4RZ) | [Beauty of my life](https://open.spotify.com/album/5XQTrStexFPEdhcCSLGvKe) | 4:28 | 2025-07-29 |  |
 | [Because of You \(Would You Marry Me? : Original Television Soundtrack\)](https://open.spotify.com/track/7gJiI5P6Djq6mwy2c4rjte) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Would You Marry Me?, Pt\. 7 \(Original Soundtrack\)](https://open.spotify.com/album/3PUiaIOXsMRHw4n8Cn7NgT) | 4:00 | 2025-11-04 |  |
 | [Before Love](https://open.spotify.com/track/2lKrSfIqw1HKPZt8SMSk14) | [BUMJIN](https://open.spotify.com/artist/3vljSA6N2aSE8U3OhNFkPy) | [Before Love](https://open.spotify.com/album/12NS4M30oqznlTJPmBWMC0) | 4:05 | 2025-10-21 |  |
@@ -72,6 +73,7 @@
 | [Me After You](https://open.spotify.com/track/5AkyvofVWUqds8x1HHgDU9) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Me After You](https://open.spotify.com/album/0caJtWmA3k3kY6kourOUHh) | 4:40 | 2024-12-19 |  |
 | [Me to You, You to Me](https://open.spotify.com/track/4X1DHUCMtcAkzOXnSm9kqo) | [Mido and Falasol](https://open.spotify.com/artist/3lBxyv4EPpiE80Ji1Eyfiq) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\), Pt\. 12](https://open.spotify.com/album/6JZUxdIweDsAQKBxaNwJgD) | 3:52 | 2024-12-19 |  |
 | [Meaning of you](https://open.spotify.com/track/3ucfniv4fLB3RPA6N9iLM2) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [Kim Chang\-Wan](https://open.spotify.com/artist/2yMDYqTvjFeBZcGC4ZMMVH) | [A flower bookmark](https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP) | 3:15 | 2024-12-19 | 2026-04-01 |
+| [Meet him among them](https://open.spotify.com/track/6H8LsxDktkwTuUVGXf3anP) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [Meet him among them](https://open.spotify.com/album/3AB3AhRKi0xR5vAj0iuRaP) | 4:18 | 2026-04-14 |  |
 | [My Everything](https://open.spotify.com/track/2zuNdzBq4CPTlKySi2UHth) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5) | [Soul Free](https://open.spotify.com/album/7zM9ILBsO6580uSLZzV8hC) | 4:53 | 2024-12-19 |  |
 | [My first and last love](https://open.spotify.com/track/46BTa0mRxUNMkIper1akV7) | [SoonSoonHee](https://open.spotify.com/artist/3VOan0TuiwkfjnPLDXBPbG) | [My first and last love](https://open.spotify.com/album/7zWjdUH63JIM2VisA8myPq) | 4:10 | 2026-01-29 |  |
 | [My Romance](https://open.spotify.com/track/5Rys2WgRdbvQNdeezDvUql) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Hometown Cha\-Cha\-Cha, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/7lLdUzOlYRwdmsaYw0kpiv) | 2:53 | 2024-12-19 |  |
@@ -96,7 +98,7 @@
 | [The Night I Miss You](https://open.spotify.com/track/09RSdKL22sHGrcidpL3g3d) | [Yun DDanDDan](https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt) | [The Night I Miss You](https://open.spotify.com/album/4EJBHjmepe24xKtaDKPNCi) | 4:58 | 2024-12-19 | 2025-06-24 |
 | [The story we shared](https://open.spotify.com/track/3j4vVlUH4UTVSaMVNhlFFt) | [Park Chan Young](https://open.spotify.com/artist/4lqCOKaW6ZcRwDL6yEJJo9) | [The story we shared](https://open.spotify.com/album/0P1ac4wYjhEtR14wZUKn1G) | 4:48 | 2026-03-03 |  |
 | [To You My Light \(feat\. LEE RAON\)](https://open.spotify.com/track/5kPpA4aMFeAQnahSnTIOi4) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j), [LEE RAON](https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane) | [Red Moon: To You My Light](https://open.spotify.com/album/1pqAIHe422sy6zGwJhvcqO) | 4:25 | 2024-12-19 |  |
-| [Together](https://open.spotify.com/track/3TDGIHf1Mdxat9VftcIVZ0) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Together](https://open.spotify.com/album/4OHIhLk0uyYAdmoBD8IjMI) | 3:26 | 2024-12-19 |  |
+| [Together](https://open.spotify.com/track/3TDGIHf1Mdxat9VftcIVZ0) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Together](https://open.spotify.com/album/4OHIhLk0uyYAdmoBD8IjMI) | 3:26 | 2024-12-19 | 2026-04-14 |
 | [Together](https://open.spotify.com/track/3dQxjLOKLUUpZOwHYYdvyo) | [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [Reply 1988 \(Original Television Soundtrack\), Pt\. 7](https://open.spotify.com/album/54P1MSGvQt3Hq1UpsijMgA) | 4:32 | 2024-12-19 |  |
 | [True Song](https://open.spotify.com/track/7hm4BYnceCuxlioLaKGiyW) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [True Song](https://open.spotify.com/album/6u0ZVFTvWEWfgvV3LySMgJ) | 4:30 | 2025-04-15 |  |
 | [Trust in me](https://open.spotify.com/track/4zCcKPm03kHARVAiyzlDX8) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Mr\. Trot WINNER SONG](https://open.spotify.com/album/2FulfDIqpydc4Q4vNlkk5g) | 4:02 | 2025-09-03 |  |

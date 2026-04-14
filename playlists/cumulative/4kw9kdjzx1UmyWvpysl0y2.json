@@ -7011,6 +7011,24 @@
     },
     {
       "album": {
+        "name": "Everyday",
+        "url": "https://open.spotify.com/album/36poUrVEJVkcHABIVxlqv3"
+      },
+      "artists": [
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185625,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/2GMHlcrfeNgqRxmuM85LTb"
+    },
+    {
+      "album": {
         "name": "EXHALE",
         "url": "https://open.spotify.com/album/3K1MCbfVa0NZFKXauWyZFA"
       },

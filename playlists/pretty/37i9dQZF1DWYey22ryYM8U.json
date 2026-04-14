@@ -1,6 +1,6 @@
 {
   "description": "Las m\u00e1s pegadas. Cover: Ricky Martin, Los \u00c1ngeles Azules & TINI",
-  "num_followers": 694147,
+  "num_followers": 694140,
   "original_name": "Tropical Hits",
   "owner": {
     "name": "Spotify",
@@ -623,26 +623,6 @@
     {
       "added_at": "2026-04-03 04:02:51",
       "album": {
-        "name": "@dannocean",
-        "url": "https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 212914,
-      "name": "SI ES AMOR",
-      "url": "https://open.spotify.com/track/7JahThtCGJ9cdn6HWTWf9S"
-    },
-    {
-      "added_at": "2026-04-03 04:02:51",
-      "album": {
         "name": "DROGA",
         "url": "https://open.spotify.com/album/1ZhB52tistanq5hqLu1dsC"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 222626,
       "name": "DROGA",
       "url": "https://open.spotify.com/track/18D0Za12EKUYklBQaJlaDP"
+    },
+    {
+      "added_at": "2026-04-03 04:02:51",
+      "album": {
+        "name": "@dannocean",
+        "url": "https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 212914,
+      "name": "SI ES AMOR",
+      "url": "https://open.spotify.com/track/7JahThtCGJ9cdn6HWTWf9S"
     },
     {
       "added_at": "2026-04-03 04:02:51",

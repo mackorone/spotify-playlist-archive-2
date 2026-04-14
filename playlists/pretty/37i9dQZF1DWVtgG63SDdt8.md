@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: bodie
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,364 likes - 96 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,371 likes - 96 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 40 | [Abide](https://open.spotify.com/track/2zM6jZtTGq1gjEtGZLjS3V) | [Christopher Tung](https://open.spotify.com/artist/406aHYogHqGV0CKeLMLlUb), [Cade Kellam](https://open.spotify.com/artist/1GWnsRvGpSmKxHOjMQah4k) | [Abide](https://open.spotify.com/album/3nrLBnxj1hvWBRkmKgUcor) | 2:25 |
 | 41 | [Trinity Sending Song](https://open.spotify.com/track/5bEzo4YafZNAsO8Cnyf5er) | [The Porter's Gate](https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW), [Paul Zach](https://open.spotify.com/artist/6OXhFcIGqhYoum3CZBPF38) | [Trinity Sending Song](https://open.spotify.com/album/58f5guc7HaMEL67bHbT3Aq) | 2:45 |
 | 42 | [RunRunRun \- Acoustic](https://open.spotify.com/track/5PUQ53hMtUhR5iIhG8zyUw) | [Fresh Life Worship](https://open.spotify.com/artist/3lspjc5pri1bNeok8vsG5E), [Elizabeth Hashley](https://open.spotify.com/artist/1yH10DFfrpwu3Nmlk69co5) | [RunRunRun \(Acoustic\)](https://open.spotify.com/album/5EndbXBS8n9Avx9TjXCvg4) | 3:41 |
-| 43 | [We are Thankful](https://open.spotify.com/track/2q6bIMUzRF7XmCAFixpNpp) | [Sovereign Grace Music](https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y) | [We are Thankful](https://open.spotify.com/album/1KKYYSgmg5879WhTpgEqBq) | 4:27 |
+| 43 | [We Are Thankful](https://open.spotify.com/track/2q6bIMUzRF7XmCAFixpNpp) | [Sovereign Grace Music](https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y) | [We Are Thankful](https://open.spotify.com/album/1KKYYSgmg5879WhTpgEqBq) | 4:27 |
 | 44 | [And It Rages](https://open.spotify.com/track/0uqPkFK1ghrPMISKuW84BH) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek), [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [And It Rages](https://open.spotify.com/album/4q9AzSVrnsGI0riSStClwo) | 5:25 |
 | 45 | [By The Love](https://open.spotify.com/track/6T2V1Xsqe7I5DUJfgeXMPS) | [Michael Gabriel Monroe](https://open.spotify.com/artist/63ox6qPSxB4PsktUu1Qu75) | [By The Love](https://open.spotify.com/album/6f6yU5mH0WeSORYUzkEPfe) | 5:01 |
 | 46 | [Tasted & Seen](https://open.spotify.com/track/22FACNj9JLZ127zlYPMRWW) | [North Palm Worship](https://open.spotify.com/artist/1oSrA2oH5V1Qo4jNPD0BMF), [Ivana Kamalani](https://open.spotify.com/artist/3FXgpP5d0fe8LKQjoBMEbx) | [Tasted & Seen](https://open.spotify.com/album/3Qhj15zhsBlPwrpl5PAdKi) | 3:38 |

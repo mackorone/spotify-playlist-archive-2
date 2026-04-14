@@ -1,6 +1,6 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 332288,
+  "num_followers": 332538,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
-        "name": "A Place To Sleep",
-        "url": "https://open.spotify.com/album/7wfuhwQqnIm5ojXsAxfV48"
-      },
-      "artists": [
-        {
-          "name": "air hunger",
-          "url": "https://open.spotify.com/artist/40UUOCP3GVEKusB4RZ50W0"
-        }
-      ],
-      "duration_ms": 398265,
-      "name": "A Place To Sleep",
-      "url": "https://open.spotify.com/track/3IRjaJfl3lNubGbRGXL7et"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
         "name": "do you love me?",
         "url": "https://open.spotify.com/album/2oGrvZG4NUNBCBifQnzBCV"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 99428,
       "name": "do you love me?",
       "url": "https://open.spotify.com/track/43RHgLTP1lU3THdsqxNCv9"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
+        "name": "A Place To Sleep",
+        "url": "https://open.spotify.com/album/7wfuhwQqnIm5ojXsAxfV48"
+      },
+      "artists": [
+        {
+          "name": "air hunger",
+          "url": "https://open.spotify.com/artist/40UUOCP3GVEKusB4RZ50W0"
+        }
+      ],
+      "duration_ms": 398265,
+      "name": "A Place To Sleep",
+      "url": "https://open.spotify.com/track/3IRjaJfl3lNubGbRGXL7et"
     },
     {
       "added_at": "2026-03-20 04:00:38",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
-        "name": "The Importance of Birds",
-        "url": "https://open.spotify.com/album/5qvmvLyQNzfsnlUVmwq0j9"
-      },
-      "artists": [
-        {
-          "name": "Snorri Hallgr\u00edmsson",
-          "url": "https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "From a Convenient Grass",
-      "url": "https://open.spotify.com/track/1qBeGOBEXjKni2QNFB0XSQ"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
         "name": "4AM ambient version",
         "url": "https://open.spotify.com/album/7zqFBx5CG4RNcY09Y2PWCn"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 112826,
       "name": "4AM ambient version",
       "url": "https://open.spotify.com/track/3oatMSu9wjDbbPEFGRIdk0"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
+        "name": "The Importance of Birds",
+        "url": "https://open.spotify.com/album/5qvmvLyQNzfsnlUVmwq0j9"
+      },
+      "artists": [
+        {
+          "name": "Snorri Hallgr\u00edmsson",
+          "url": "https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "From a Convenient Grass",
+      "url": "https://open.spotify.com/track/1qBeGOBEXjKni2QNFB0XSQ"
     },
     {
       "added_at": "2026-03-20 04:00:38",
@@ -959,22 +959,6 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
-        "name": "#bfbfbf (12:20:00pm - 05:07:53pm)",
-        "url": "https://open.spotify.com/album/1dqlAOTcIraLdy4oYUTGDm"
-      },
-      "artists": [
-        {
-          "name": "Jun Futamata",
-          "url": "https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW"
-        }
-      ],
-      "duration_ms": 287913,
-      "name": "#bfbfbf (12:20:00pm - 05:07:53pm)",
-      "url": "https://open.spotify.com/track/0Xx2Wd7PnL9SrbW0cFiQsF"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
         "name": "CROW! (after the snowfall)",
         "url": "https://open.spotify.com/album/6tPZc7dc5pXsD1x9BAArU8"
       },
@@ -991,18 +975,18 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
-        "name": "Eidetic",
-        "url": "https://open.spotify.com/album/3QvrGTCnM05jkjuqp8g1AI"
+        "name": "#bfbfbf (12:20:00pm - 05:07:53pm)",
+        "url": "https://open.spotify.com/album/1dqlAOTcIraLdy4oYUTGDm"
       },
       "artists": [
         {
-          "name": "Beno\u00eet Pioulard",
-          "url": "https://open.spotify.com/artist/77SQlBEZyyJ7neYnlp0cDl"
+          "name": "Jun Futamata",
+          "url": "https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW"
         }
       ],
-      "duration_ms": 141483,
-      "name": "Maple Seed",
-      "url": "https://open.spotify.com/track/0rZa2GnKCs1p622yxAnYs5"
+      "duration_ms": 287913,
+      "name": "#bfbfbf (12:20:00pm - 05:07:53pm)",
+      "url": "https://open.spotify.com/track/0Xx2Wd7PnL9SrbW0cFiQsF"
     },
     {
       "added_at": "2026-03-20 04:00:38",
@@ -1019,6 +1003,22 @@
       "duration_ms": 272501,
       "name": "The Monolith",
       "url": "https://open.spotify.com/track/0pdEIKmIkM4hZYUbjDSnMQ"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
+        "name": "Eidetic",
+        "url": "https://open.spotify.com/album/3QvrGTCnM05jkjuqp8g1AI"
+      },
+      "artists": [
+        {
+          "name": "Beno\u00eet Pioulard",
+          "url": "https://open.spotify.com/artist/77SQlBEZyyJ7neYnlp0cDl"
+        }
+      ],
+      "duration_ms": 141483,
+      "name": "Maple Seed",
+      "url": "https://open.spotify.com/track/0rZa2GnKCs1p622yxAnYs5"
     },
     {
       "added_at": "2026-03-20 04:00:38",
@@ -1043,26 +1043,6 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
-        "name": "searching",
-        "url": "https://open.spotify.com/album/2cmVsjln1umP4LzUmn9DbK"
-      },
-      "artists": [
-        {
-          "name": "Cephas Azariah",
-          "url": "https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG"
-        },
-        {
-          "name": "Elle Limebear",
-          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
-        }
-      ],
-      "duration_ms": 279935,
-      "name": "searching",
-      "url": "https://open.spotify.com/track/7JI8f3m5ur75iRRWZpj8sm"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
         "name": "haunted, but it's ambient",
         "url": "https://open.spotify.com/album/3cC0MalFj3LK0x2V5UZHgl"
       },
@@ -1083,6 +1063,26 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
+        "name": "searching",
+        "url": "https://open.spotify.com/album/2cmVsjln1umP4LzUmn9DbK"
+      },
+      "artists": [
+        {
+          "name": "Cephas Azariah",
+          "url": "https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG"
+        },
+        {
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
+        }
+      ],
+      "duration_ms": 279935,
+      "name": "searching",
+      "url": "https://open.spotify.com/track/7JI8f3m5ur75iRRWZpj8sm"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
         "name": "Solar Nights",
         "url": "https://open.spotify.com/album/2NtvvyLV9jKjsxVeVd0RFl"
       },
@@ -1095,22 +1095,6 @@
       "duration_ms": 163106,
       "name": "Solar Nights",
       "url": "https://open.spotify.com/track/4m0A9IhXFzCG04iJKoxA0o"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
-        "name": "No Way Out",
-        "url": "https://open.spotify.com/album/3PZfyjREHL04N4ua1GS8Ev"
-      },
-      "artists": [
-        {
-          "name": "NxxxxxS",
-          "url": "https://open.spotify.com/artist/36r4ltZmLqtiDBdAs9XSqn"
-        }
-      ],
-      "duration_ms": 146064,
-      "name": "No Way Out",
-      "url": "https://open.spotify.com/track/0ZAOZMZcHZcfw5oNUcjyFh"
     },
     {
       "added_at": "2026-03-20 04:00:38",
@@ -1131,6 +1115,22 @@
       "duration_ms": 201423,
       "name": "Fur and Exhaust",
       "url": "https://open.spotify.com/track/6CjJAzQfMQnMsG36HDkxtS"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
+        "name": "No Way Out",
+        "url": "https://open.spotify.com/album/3PZfyjREHL04N4ua1GS8Ev"
+      },
+      "artists": [
+        {
+          "name": "NxxxxxS",
+          "url": "https://open.spotify.com/artist/36r4ltZmLqtiDBdAs9XSqn"
+        }
+      ],
+      "duration_ms": 146064,
+      "name": "No Way Out",
+      "url": "https://open.spotify.com/track/0ZAOZMZcHZcfw5oNUcjyFh"
     },
     {
       "added_at": "2026-03-20 04:00:38",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
-        "name": "Love Is Colder Than Death",
-        "url": "https://open.spotify.com/album/04G4BWBdbZSPZJPE3anfLb"
-      },
-      "artists": [
-        {
-          "name": "Romance",
-          "url": "https://open.spotify.com/artist/0A18cE9pDz57f0cj7q8wxt"
-        }
-      ],
-      "duration_ms": 213832,
-      "name": "Out Of The Past",
-      "url": "https://open.spotify.com/track/6iTpwzfupCsZWM7V67Okog"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
         "name": "skies",
         "url": "https://open.spotify.com/album/2QzZwOgirEOqTT3m1Lv6Gw"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 129998,
       "name": "skies",
       "url": "https://open.spotify.com/track/6gBLPHyuFvXlNZA0QrvAdI"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
+        "name": "Love Is Colder Than Death",
+        "url": "https://open.spotify.com/album/04G4BWBdbZSPZJPE3anfLb"
+      },
+      "artists": [
+        {
+          "name": "Romance",
+          "url": "https://open.spotify.com/artist/0A18cE9pDz57f0cj7q8wxt"
+        }
+      ],
+      "duration_ms": 213832,
+      "name": "Out Of The Past",
+      "url": "https://open.spotify.com/track/6iTpwzfupCsZWM7V67Okog"
     },
     {
       "added_at": "2026-03-20 04:00:38",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
-        "name": "Near Silence",
-        "url": "https://open.spotify.com/album/3Xv1uvYnSeU8phHkccNZLe"
-      },
-      "artists": [
-        {
-          "name": "knownbyC",
-          "url": "https://open.spotify.com/artist/3r6IlT9KI2aOfSuBClGBxb"
-        }
-      ],
-      "duration_ms": 184109,
-      "name": "Near Silence",
-      "url": "https://open.spotify.com/track/48TdI8BCUcvBlsfm3oZN1K"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
         "name": "Murken Hollow",
         "url": "https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 363284,
       "name": "All That's Left Behind",
       "url": "https://open.spotify.com/track/2A03Wj3IOAvZgxHnXoixZI"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
+        "name": "Near Silence",
+        "url": "https://open.spotify.com/album/3Xv1uvYnSeU8phHkccNZLe"
+      },
+      "artists": [
+        {
+          "name": "knownbyC",
+          "url": "https://open.spotify.com/artist/3r6IlT9KI2aOfSuBClGBxb"
+        }
+      ],
+      "duration_ms": 184109,
+      "name": "Near Silence",
+      "url": "https://open.spotify.com/track/48TdI8BCUcvBlsfm3oZN1K"
     },
     {
       "added_at": "2026-03-20 04:00:38",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
-        "name": "Take My Hand",
-        "url": "https://open.spotify.com/album/2KVKBlcWmJ49mhV4wfQ50I"
-      },
-      "artists": [
-        {
-          "name": "Luke Taylor",
-          "url": "https://open.spotify.com/artist/2DxAWfvhrcylvjEZILMyhR"
-        }
-      ],
-      "duration_ms": 159972,
-      "name": "Take My Hand",
-      "url": "https://open.spotify.com/track/2li1k57BZcIGJrISHXlOmh"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
         "name": "no service",
         "url": "https://open.spotify.com/album/17wnWBr68OQoLFULf9uVXD"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 170181,
       "name": "no service",
       "url": "https://open.spotify.com/track/2JfoV8oR2kQH5Zy2YWzIZx"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
+        "name": "Take My Hand",
+        "url": "https://open.spotify.com/album/2KVKBlcWmJ49mhV4wfQ50I"
+      },
+      "artists": [
+        {
+          "name": "Luke Taylor",
+          "url": "https://open.spotify.com/artist/2DxAWfvhrcylvjEZILMyhR"
+        }
+      ],
+      "duration_ms": 159972,
+      "name": "Take My Hand",
+      "url": "https://open.spotify.com/track/2li1k57BZcIGJrISHXlOmh"
     },
     {
       "added_at": "2026-03-20 04:00:38",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
-        "name": "iel te guide (lumineuse arp v)",
-        "url": "https://open.spotify.com/album/3iGWgsVsg598vpnPMGOGst"
-      },
-      "artists": [
-        {
-          "name": "Passa Tempo",
-          "url": "https://open.spotify.com/artist/6Qpnrt9GMCBN54ec9eTsAu"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "iel te guide (lumineuse arp v)",
-      "url": "https://open.spotify.com/track/2Qn4xuj7oMw2DwWQGUdjsT"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
         "name": "Canneto",
         "url": "https://open.spotify.com/album/5yPvFSDxdzszBMr3lF3t5N"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 114500,
       "name": "Canneto",
       "url": "https://open.spotify.com/track/6hx5tz1VTta0cnTLcvCSaI"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
+        "name": "iel te guide (lumineuse arp v)",
+        "url": "https://open.spotify.com/album/3iGWgsVsg598vpnPMGOGst"
+      },
+      "artists": [
+        {
+          "name": "Passa Tempo",
+          "url": "https://open.spotify.com/artist/6Qpnrt9GMCBN54ec9eTsAu"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "iel te guide (lumineuse arp v)",
+      "url": "https://open.spotify.com/track/2Qn4xuj7oMw2DwWQGUdjsT"
     },
     {
       "added_at": "2026-03-20 04:00:38",

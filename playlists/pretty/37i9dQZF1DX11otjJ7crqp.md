@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > All this week's best new pop releases\. Cover: Holly Humberstone
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,227 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,596 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 61 | [heal](https://open.spotify.com/track/34kczquuUdb7gLHhZGR8jp) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Unfold](https://open.spotify.com/album/1kQVnTWbUXu9xQ1zqczj06) | 3:59 |
 | 62 | [Dizzy Spells](https://open.spotify.com/track/2pl8HqgHsE1tGkte1dv0nq) | [She Is Jules](https://open.spotify.com/artist/4XZ25UyxKA59Pi3d8WV379) | [Dizzy Spells](https://open.spotify.com/album/4JWRElEM9R2sv1M5MiVFyq) | 2:53 |
 | 63 | [COMING OF AGE](https://open.spotify.com/track/7nAguwk4MKZQL6dvQOEUdH) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [COMING OF AGE](https://open.spotify.com/album/44XxuIv80nwbm3TfqBXmek) | 4:08 |
-| 64 | [My Mouth Is Lonely For You \(from Mother Mary\)](https://open.spotify.com/track/2X5WidXHsjamq3ICtOmW9o) | [Anne Hathaway](https://open.spotify.com/artist/0nIyPY7J7G68WgQEOLHn0x) | [My Mouth Is Lonely For You \(from Mother Mary\)](https://open.spotify.com/album/2RLA4dsSG3M7rIcXWeaTvy) | 4:04 |
+| 64 | [My Mouth Is Lonely For You](https://open.spotify.com/track/2X5WidXHsjamq3ICtOmW9o) | [Anne Hathaway](https://open.spotify.com/artist/0nIyPY7J7G68WgQEOLHn0x) | [My Mouth Is Lonely For You](https://open.spotify.com/album/2RLA4dsSG3M7rIcXWeaTvy) | 4:04 |
 | 65 | [Finish Line](https://open.spotify.com/track/7860siLSwvRnGt63VOr7QT) | [Ally Salort](https://open.spotify.com/artist/5cCLvnxYLQiKTRLRD2DHxw) | [Finish Line](https://open.spotify.com/album/5vjZRodlfAwNbwtDcYR7ky) | 3:18 |
 | 66 | [Almost Over](https://open.spotify.com/track/1nGFesHICoTP5VVsnaKYJ5) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [Therapy & Yoga](https://open.spotify.com/album/5zn2yH96a43N0CgB5Fd8jf) | 2:46 |
 | 67 | [Hysteria](https://open.spotify.com/track/7cBm3l9gb7D18dqioJ0kEy) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Hysteria](https://open.spotify.com/album/5AKFAqGH2MSyWZX0Vj7ZN2) | 2:23 |

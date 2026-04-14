@@ -4,7 +4,7 @@
 
 > Today's top country music!
 
-282 songs - 15 hr 9 min
+283 songs - 15 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Don’t Mind If I Do \(ft\. Ella Langley\)](https://open.spotify.com/track/6yIaRllz0lCXuISYsqyCNH) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Don’t Mind If I Do \(ft\. Ella Langley\)](https://open.spotify.com/album/5tecOHW8icfevqfej3QEhg) | 3:38 | 2025-09-13 |  |
 | [Drink Around](https://open.spotify.com/track/6ZoXthYEqorEbtFMbUMWEv) | [Dean Brody](https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak) | [Drink Around](https://open.spotify.com/album/283gVczi9bFI73NZxn4z3k) | 2:28 | 2025-06-28 |  |
 | [Drink Me A Lullaby](https://open.spotify.com/track/2woQa8s7JbF5wV89JwMQLD) | [Josh Stumpf](https://open.spotify.com/artist/3KtMd5CrHVTQd4g3Yq8Btj) | [Drink Me A Lullaby](https://open.spotify.com/album/3txGgYIYQGtUjgq506KUC3) | 3:20 | 2025-03-25 |  |
+| [Drinking Game](https://open.spotify.com/track/3NpotblRm0XLn747iCZ75w) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Drinking Game](https://open.spotify.com/album/6yBtHDlryRS2EQAfGYNMQN) | 2:50 | 2026-04-13 |  |
 | [DRIVES MY TRUCK](https://open.spotify.com/track/296DcuFREy44rdM35rdIyn) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [DRIVES MY TRUCK](https://open.spotify.com/album/6gJPKRr9WMjUIhRAcw1NSQ) | 3:05 | 2025-01-18 |  |
 | [Everybody's Friend](https://open.spotify.com/track/4CjH87e1np3OkwlYQdGOmv) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [Everybody's Friend](https://open.spotify.com/album/3sHPQGWO16wBCtaS2zZYOk) | 2:53 | 2024-02-23 | 2025-05-06 |
 | [Falls Into Place](https://open.spotify.com/track/3qGmFd9KeyjUv1D3BuSST5) | [Mason Ramsey](https://open.spotify.com/artist/6xvpfMjWTougrRRtK7iikz) | [Falls Into Place](https://open.spotify.com/album/7xmCM7jG3BDjQlPWiqgETl) | 3:33 | 2023-12-08 | 2024-02-03 |

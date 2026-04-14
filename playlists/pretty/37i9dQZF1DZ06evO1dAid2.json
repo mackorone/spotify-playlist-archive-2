@@ -1,12 +1,12 @@
 {
   "description": "This is Chuck Berry. The essential tracks, all in one playlist.",
-  "num_followers": 133982,
+  "num_followers": 133984,
   "original_name": "This Is Chuck Berry",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "admPAAAAAAAHMOBaJ9sw0z9WqEJsdx52",
+  "snapshot_id": "adrggAAAAABTHPnzd7hiutzgA09fRit8",
   "tracks": [
     {
       "added_at": null,
@@ -459,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chuck Berry Twist",
-        "url": "https://open.spotify.com/album/2ZuKCxGEZsBByk0js4zfbx"
+        "name": "San Francisco Dues",
+        "url": "https://open.spotify.com/album/1gx9zPpDsECgKU5TUc7PbR"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
         }
       ],
-      "duration_ms": 107026,
-      "name": "Come On - Stereo Version",
-      "url": "https://open.spotify.com/track/5Ua8GaCh6GAOXu3zXJXyzQ"
+      "duration_ms": 142440,
+      "name": "Let's Do Our Thing Together",
+      "url": "https://open.spotify.com/track/7cTrN7Jpg3RduYiH1HwQb8"
     },
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "San Francisco Dues",
-        "url": "https://open.spotify.com/album/1gx9zPpDsECgKU5TUc7PbR"
+        "name": "Chuck Berry Twist",
+        "url": "https://open.spotify.com/album/2ZuKCxGEZsBByk0js4zfbx"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
         }
       ],
-      "duration_ms": 142440,
-      "name": "Let's Do Our Thing Together",
-      "url": "https://open.spotify.com/track/7cTrN7Jpg3RduYiH1HwQb8"
+      "duration_ms": 107026,
+      "name": "Come On - Stereo Version",
+      "url": "https://open.spotify.com/track/5Ua8GaCh6GAOXu3zXJXyzQ"
     },
     {
       "added_at": null,

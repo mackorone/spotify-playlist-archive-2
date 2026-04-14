@@ -4,7 +4,7 @@
 
 > Music from TV Anime "ONE PIECE" /TVアニメ「ONE PIECE」の楽曲を1つのプレイリストで。©️尾田栄一郎／集英社・フジテレビ・東映アニメーション
 
-72 songs - 4 hr 51 min
+73 songs - 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [おれの最高地点](https://open.spotify.com/track/6cufjZzevc6spKggsuDEJv) | [Kohei Tanaka](https://open.spotify.com/artist/74ov6NjGYL0LHHyDD2Dy2b) | [おれの最高地点](https://open.spotify.com/album/3LIV7v8sthlx3K5P13Y8R3) | 3:05 | 2023-08-23 | 2024-08-18 |
 | [おれの最高地点](https://open.spotify.com/track/0chKjPMdnbJ1KXiSjbb267) | [浜口史郎](https://open.spotify.com/artist/5FEPyIbmJMiYvBPmbYTdpG), [Kohei Tanaka](https://open.spotify.com/artist/74ov6NjGYL0LHHyDD2Dy2b) | [ONE PIECE Original Soundtrack"GEAR5"](https://open.spotify.com/album/1jmR8jrRGykXMhptwhyUY0) | 3:03 | 2024-01-25 |  |
 | [しょうちのすけ](https://open.spotify.com/track/6G8uYcvbeQUcZFRotTUJEx) | [Suiteisho\-jo](https://open.spotify.com/artist/3hwWcZNHs2MXyC1e8JjAnY) | [16 \-sixteen\-](https://open.spotify.com/album/2IIdJPW3oosPTi6FoA1GXp) | 3:54 | 2023-08-23 |  |
+| [その未来](https://open.spotify.com/track/3ixysyKj23yfuMEP5kQTmL) | [36km/h](https://open.spotify.com/artist/11PZZfQ3tYjjwB3oCjQQwV) | [その未来 / ハロー](https://open.spotify.com/album/1qF9FErvknwXVMkfO0crkz) | 4:34 | 2026-04-14 |  |
 | [ウィーアー!](https://open.spotify.com/track/1PdWDLJNk040dkuXoLLE2F) | [Hiroshi Kitadani](https://open.spotify.com/artist/4AJU1RjcIcPXJ29eoV5Jop) | [ウィーアー! \(TVアニメ『ONE PIECE』オープニングテーマ\)](https://open.spotify.com/album/2vcNw2eDoavdqNTPVZ8T6u) | 4:01 | 2024-10-19 |  |
 | [ウィーアー! \- for the new world](https://open.spotify.com/track/3F4d2nGPOSt89ZC1uwgApQ) | [Hiroshi Kitadani](https://open.spotify.com/artist/4AJU1RjcIcPXJ29eoV5Jop) | [ONE PIECE ウィーアー!Song Complete](https://open.spotify.com/album/0Pgm2sbSVm2Q4OlDgXv1ez) | 3:58 | 2024-01-25 | 2024-04-19 |
 | [ウィーアー! for the new world](https://open.spotify.com/track/1QpkD0qIOHfvFH5vUzkek7) | [Hiroshi Kitadani](https://open.spotify.com/artist/4AJU1RjcIcPXJ29eoV5Jop) | [ウィーゴー!](https://open.spotify.com/album/22vN8p8TlwrKbSrU4Z1pM5) | 3:59 | 2023-08-23 |  |

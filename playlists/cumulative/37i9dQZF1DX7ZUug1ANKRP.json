@@ -178,7 +178,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 204324,
       "name": "5AM",
       "url": "https://open.spotify.com/track/59oSJUWLxsD6gQRup9aGCY"
@@ -6046,7 +6046,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 125207,
       "name": "Falling",
       "url": "https://open.spotify.com/track/2VpUEPN5OQmYvcvhM68wyS"
@@ -11398,6 +11398,24 @@
       "duration_ms": 136666,
       "name": "Loco Loco",
       "url": "https://open.spotify.com/track/1mZnxNzp17JrPyzDzkoiiC"
+    },
+    {
+      "album": {
+        "name": "LOL",
+        "url": "https://open.spotify.com/album/0epvmB1B0FCNiyZft9GpXD"
+      },
+      "artists": [
+        {
+          "name": "BOVSKI",
+          "url": "https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151202,
+      "name": "LOL",
+      "url": "https://open.spotify.com/track/1SIvPp7W5mMXLmkf4RSItq"
     },
     {
       "album": {
@@ -20352,6 +20370,32 @@
       "duration_ms": 148551,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/67xGM8XQ3U4GCpSTr5XN9s"
+    },
+    {
+      "album": {
+        "name": "Vem Comigo",
+        "url": "https://open.spotify.com/album/324AIUKj8Q96Ir66ng7SmX"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Olive Anguz",
+          "url": "https://open.spotify.com/artist/3d0AuH83bH58zFUU7Z1hMk"
+        },
+        {
+          "name": "Project Zeitgeist",
+          "url": "https://open.spotify.com/artist/6Fryg7OCCsApuKUvkcGVg3"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207483,
+      "name": "Vem Comigo",
+      "url": "https://open.spotify.com/track/3zr7VbJvavpspJF2JipvQ1"
     },
     {
       "album": {

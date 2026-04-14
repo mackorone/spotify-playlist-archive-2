@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29E6gJ.md) - [plain]
 
 > This is Los Alegres De Teran\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,888 likes - 49 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,891 likes - 49 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29E6gJ.md) - [plain]
 | 24 | [El Golpe Traidor](https://open.spotify.com/track/2YuGycXNqP9WR0C9O7wgWt) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Los Alegres De Teran \(El Golpe Traidor\)](https://open.spotify.com/album/0jd6whSrvYGn6XBu2tcI8n) | 2:26 |
 | 25 | [Vino Maldito](https://open.spotify.com/track/0SG5Pj8V7JhcK99z9m9vYe) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [15 Exitos de Los Alegres de Terán, vol\. 1](https://open.spotify.com/album/4jz9JeBYSYRORoyN3kuv8s) | 2:10 |
 | 26 | [Margarita](https://open.spotify.com/track/3AHRnIxggLXyUdw5Wi5DtH) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [LA TRAICIONERA \(Remastered\)](https://open.spotify.com/album/116YnDmd7Vevo95B70AUdq) | 2:00 |
-| 27 | [Porque Te Quiero](https://open.spotify.com/track/3CFVyZA39o7RnGcQoOadZ5) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [15 Éxitos de los Alegres de Terán, Vol\. 2](https://open.spotify.com/album/3UCqW7jOFnJl6DDwOz7eth) | 2:23 |
-| 28 | [Veinte Años](https://open.spotify.com/track/4jLHdOEXzOqQUUrrrE6FuD) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Homenaje Norteño A Felipe Valdes Leal Con](https://open.spotify.com/album/0ZJcupskEdoVbyQqCaU4rp) | 3:10 |
+| 27 | [Veinte Años](https://open.spotify.com/track/4jLHdOEXzOqQUUrrrE6FuD) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Homenaje Norteño A Felipe Valdes Leal Con](https://open.spotify.com/album/0ZJcupskEdoVbyQqCaU4rp) | 3:10 |
+| 28 | [Porque Te Quiero](https://open.spotify.com/track/3CFVyZA39o7RnGcQoOadZ5) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [15 Éxitos de los Alegres de Terán, Vol\. 2](https://open.spotify.com/album/3UCqW7jOFnJl6DDwOz7eth) | 2:23 |
 | 29 | [Alma Rendida](https://open.spotify.com/track/4Sc7z9IWXG1XbwCYKEByFX) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [15 Exitos de Los Alegres de Terán, vol\. 1](https://open.spotify.com/album/4jz9JeBYSYRORoyN3kuv8s) | 2:21 |
 | 30 | [Cartas Marcadas](https://open.spotify.com/track/5p9sP0cRe8tC5cwdzEe7YR) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ), [Los Alegres de Michoacan](https://open.spotify.com/artist/2bIWWZmLp4vqhMj4m8x71J) | [24 Kilates Norteños](https://open.spotify.com/album/0vHDc1Dn4QCowqtjpipaGK) | 3:00 |
 | 31 | [Carta Jugada](https://open.spotify.com/track/2n19eUctP7AZFIsktfBk2V) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [20 Exitos Clasicos: Canciones y Corridos](https://open.spotify.com/album/5B6a96a0gdnf0AaIstQyYb) | 2:47 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29E6gJ.md) - [plain]
 | 48 | [Los Alegres de Terán](https://open.spotify.com/track/7vtzM64OIUPLYTFwN0lzwA) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ), [Hermanas Huerta](https://open.spotify.com/artist/1hU5wdiWeIWv4fBklDgta1) | [Los Alegres De Terán, Sus Mejores Corridos Y Rancheras Contestadas](https://open.spotify.com/album/43Eu9c8JiKyvuWMAnJCuxc) | 2:49 |
 | 49 | [La Cárcel De Cananea](https://open.spotify.com/track/5ZuBhTD8ZyV4ucBg9TKW8U) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Corridos Famosos](https://open.spotify.com/album/5pwxkJ7SsCvzHZ4SLPPRxu) | 2:52 |
 
-Snapshot ID: `admPAAAAAACOXf1NG+onr/HUR01QwwM0`
+Snapshot ID: `adrggAAAAACIvmFZWTUOcnsdOI+rd5DN`

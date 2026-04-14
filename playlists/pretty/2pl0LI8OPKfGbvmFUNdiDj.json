@@ -1,13 +1,29 @@
 {
   "description": "Hand-picked songs by unsigned bands and independent artists. Updated Daily.",
-  "num_followers": 717,
+  "num_followers": 724,
   "original_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",
   "owner": {
     "name": "pma4real",
     "url": "https://open.spotify.com/user/jasonwaroff"
   },
-  "snapshot_id": "AAADYFO8tMI+2/WBIscnc84qDc3peBKo",
+  "snapshot_id": "AAADcAm476M5BxKqj+Vo6+oCZSCposyG",
   "tracks": [
+    {
+      "added_at": "2026-04-03 14:58:07",
+      "album": {
+        "name": "For The Seasons",
+        "url": "https://open.spotify.com/album/7dDWirfVw0eWCOovuiREaa"
+      },
+      "artists": [
+        {
+          "name": "The Katawicks",
+          "url": "https://open.spotify.com/artist/3hqty8aRn2EImLsrckK6mk"
+        }
+      ],
+      "duration_ms": 190920,
+      "name": "40",
+      "url": "https://open.spotify.com/track/0efLMYEhoCsvPEjMTug7cY"
+    },
     {
       "added_at": "2026-02-15 20:35:35",
       "album": {
@@ -29,6 +45,22 @@
       "url": "https://open.spotify.com/track/7DBegQYOfNSU6yldagfco6"
     },
     {
+      "added_at": "2026-02-14 20:31:12",
+      "album": {
+        "name": "Interest Free",
+        "url": "https://open.spotify.com/album/1aPNhzmMkxcFpppkxtKWqZ"
+      },
+      "artists": [
+        {
+          "name": "Lost Trends",
+          "url": "https://open.spotify.com/artist/6kZpNXyeuRmP1DkYDiNSbV"
+        }
+      ],
+      "duration_ms": 157567,
+      "name": "Interest Free",
+      "url": "https://open.spotify.com/track/04oLfpOdFBPSM7GJmwmGX4"
+    },
+    {
       "added_at": "2026-02-08 02:04:52",
       "album": {
         "name": "DaDeDaDe",
@@ -45,26 +77,6 @@
       "url": "https://open.spotify.com/track/2WMciepfmL3gvvKLiIxrQ4"
     },
     {
-      "added_at": "2026-02-08 02:12:57",
-      "album": {
-        "name": "Beggin' (Cover)",
-        "url": "https://open.spotify.com/album/52qB0QzvjWURwEGs72iEuq"
-      },
-      "artists": [
-        {
-          "name": "R.A.L.P.H.",
-          "url": "https://open.spotify.com/artist/0LdP1ZUQhcxTZj5DeRT4cY"
-        },
-        {
-          "name": "Samuele Mariani",
-          "url": "https://open.spotify.com/artist/3TRmdsBjoc62qFy7jEuqeG"
-        }
-      ],
-      "duration_ms": 218834,
-      "name": "Beggin' - Cover",
-      "url": "https://open.spotify.com/track/4E5qkEZy9dxONym38rdU9b"
-    },
-    {
       "added_at": "2026-02-08 02:24:17",
       "album": {
         "name": "Losing All My Senses",
@@ -79,22 +91,6 @@
       "duration_ms": 202680,
       "name": "Losing All My Senses",
       "url": "https://open.spotify.com/track/3XZT1Xe9iAHwkU2hvchzv4"
-    },
-    {
-      "added_at": "2026-02-08 02:29:55",
-      "album": {
-        "name": "Fool Me Once",
-        "url": "https://open.spotify.com/album/0j9QcJzHJAB6e2CC689lKO"
-      },
-      "artists": [
-        {
-          "name": "Sean Blu",
-          "url": "https://open.spotify.com/artist/5G0irBhjyBtG6hfg6fuBgx"
-        }
-      ],
-      "duration_ms": 165651,
-      "name": "Fool Me Once",
-      "url": "https://open.spotify.com/track/0FQfOZAX6qhCQuXWKN34ts"
     },
     {
       "added_at": "2026-02-08 02:36:35",
@@ -191,22 +187,6 @@
       "duration_ms": 187653,
       "name": "No More Heroes",
       "url": "https://open.spotify.com/track/5O9TUKCbroCDPvgIWqLLsr"
-    },
-    {
-      "added_at": "2026-02-14 20:31:12",
-      "album": {
-        "name": "Interest Free",
-        "url": "https://open.spotify.com/album/1aPNhzmMkxcFpppkxtKWqZ"
-      },
-      "artists": [
-        {
-          "name": "Lost Trends",
-          "url": "https://open.spotify.com/artist/6kZpNXyeuRmP1DkYDiNSbV"
-        }
-      ],
-      "duration_ms": 157567,
-      "name": "Interest Free",
-      "url": "https://open.spotify.com/track/04oLfpOdFBPSM7GJmwmGX4"
     },
     {
       "added_at": "2026-02-14 20:34:48",
@@ -569,22 +549,6 @@
       "url": "https://open.spotify.com/track/43FMQXLgPcXdA8GVXxrIJc"
     },
     {
-      "added_at": "2026-03-07 23:41:15",
-      "album": {
-        "name": "The Time Will Come",
-        "url": "https://open.spotify.com/album/6bqVdhTjNJHkQJWOui8IQC"
-      },
-      "artists": [
-        {
-          "name": "Kevin ISM",
-          "url": "https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9"
-        }
-      ],
-      "duration_ms": 189570,
-      "name": "The Time Will Come",
-      "url": "https://open.spotify.com/track/1wbFCBdi3TuXBXWwfrvRWw"
-    },
-    {
       "added_at": "2026-03-07 23:43:00",
       "album": {
         "name": "Remedy Show",
@@ -599,58 +563,6 @@
       "duration_ms": 149393,
       "name": "Remedy Show",
       "url": "https://open.spotify.com/track/2qkvsI8NAf5cq4qmNM2NZ5"
-    },
-    {
-      "added_at": "2026-03-08 16:21:00",
-      "album": {
-        "name": "A DEUX",
-        "url": "https://open.spotify.com/album/7J56vsYcm4StAiKupVqoqh"
-      },
-      "artists": [
-        {
-          "name": "Dracy Drace",
-          "url": "https://open.spotify.com/artist/1o6LtXhpbTN1DsxuXEJ0mr"
-        },
-        {
-          "name": "wiz beatz",
-          "url": "https://open.spotify.com/artist/1M1KSRzo4svI2Pvp6s58Qo"
-        }
-      ],
-      "duration_ms": 158461,
-      "name": "RIEN AU FINAL",
-      "url": "https://open.spotify.com/track/6rmnhkP5lHQQXlA7SHfNUe"
-    },
-    {
-      "added_at": "2026-03-08 16:22:49",
-      "album": {
-        "name": "Reverie",
-        "url": "https://open.spotify.com/album/4h7XcpvcKu0yTU5ZaJfwSY"
-      },
-      "artists": [
-        {
-          "name": "Synthetic Broadcast",
-          "url": "https://open.spotify.com/artist/16H0ape8xiGKFnqUoU6AWQ"
-        }
-      ],
-      "duration_ms": 179075,
-      "name": "Pure Class",
-      "url": "https://open.spotify.com/track/2szx8uXP3tKkmmLYWzKNgP"
-    },
-    {
-      "added_at": "2026-03-08 16:46:01",
-      "album": {
-        "name": "The Time Will Come",
-        "url": "https://open.spotify.com/album/6bqVdhTjNJHkQJWOui8IQC"
-      },
-      "artists": [
-        {
-          "name": "Kevin ISM",
-          "url": "https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9"
-        }
-      ],
-      "duration_ms": 189570,
-      "name": "The Time Will Come",
-      "url": "https://open.spotify.com/track/1wbFCBdi3TuXBXWwfrvRWw"
     },
     {
       "added_at": "2026-03-08 16:49:21",
@@ -857,38 +769,6 @@
       "url": "https://open.spotify.com/track/01zUhHXnsvqEKaUbwubELW"
     },
     {
-      "added_at": "2026-03-10 13:33:22",
-      "album": {
-        "name": "Invisible",
-        "url": "https://open.spotify.com/album/26CgmwfJA3HjUE9A8SBZ47"
-      },
-      "artists": [
-        {
-          "name": "Melany Cubero",
-          "url": "https://open.spotify.com/artist/4OrIEJHh24oAbE1evJRR7c"
-        }
-      ],
-      "duration_ms": 192826,
-      "name": "Veloz",
-      "url": "https://open.spotify.com/track/684O5uzlLPREElx1sVhy1P"
-    },
-    {
-      "added_at": "2026-03-10 14:05:14",
-      "album": {
-        "name": "Technicolor Wine",
-        "url": "https://open.spotify.com/album/2LuUFZMvR9PSNdv4QDlhNk"
-      },
-      "artists": [
-        {
-          "name": "Dizzy Daffodils",
-          "url": "https://open.spotify.com/artist/1d6SQiQelLAdAjeiKX9CTm"
-        }
-      ],
-      "duration_ms": 226818,
-      "name": "Technicolor Wine",
-      "url": "https://open.spotify.com/track/37zitPVqGB50b27TrvHjbg"
-    },
-    {
       "added_at": "2026-03-14 12:44:00",
       "album": {
         "name": "Drank too much Freestyle",
@@ -903,22 +783,6 @@
       "duration_ms": 241348,
       "name": "Drank too much Freestyle",
       "url": "https://open.spotify.com/track/6hUqMp8aO2W9PdOZoKd6UD"
-    },
-    {
-      "added_at": "2026-03-14 17:53:23",
-      "album": {
-        "name": "Melodic Desire II",
-        "url": "https://open.spotify.com/album/3zyNtvKFT6Fcgmr3B0APjn"
-      },
-      "artists": [
-        {
-          "name": "Sw\u00edzzy",
-          "url": "https://open.spotify.com/artist/0UECTvB4F2xASEH91yftgO"
-        }
-      ],
-      "duration_ms": 213684,
-      "name": "dance with you",
-      "url": "https://open.spotify.com/track/58nJsvQGn9GEVS5GCoAB30"
     },
     {
       "added_at": "2026-03-14 17:57:24",
@@ -1047,22 +911,6 @@
       "duration_ms": 282773,
       "name": "You cannot be serious",
       "url": "https://open.spotify.com/track/4k5pHEY7ar3lX8iS4vStqv"
-    },
-    {
-      "added_at": "2026-03-17 14:22:31",
-      "album": {
-        "name": "Love/Lust",
-        "url": "https://open.spotify.com/album/5cewYfinOaHGTGeWCUJPrt"
-      },
-      "artists": [
-        {
-          "name": "N\u00a3GRA",
-          "url": "https://open.spotify.com/artist/3mL5x6RnF0pJ8dBSU1beSW"
-        }
-      ],
-      "duration_ms": 113824,
-      "name": "Lust",
-      "url": "https://open.spotify.com/track/5YWOtvkGabMPecBFiZ9F3X"
     },
     {
       "added_at": "2026-03-21 16:28:21",
@@ -1225,22 +1073,6 @@
       "url": "https://open.spotify.com/track/3DF5kTTZ9zsy45hhTqzbXH"
     },
     {
-      "added_at": "2026-03-28 22:13:24",
-      "album": {
-        "name": "Where Did The Time Go ?",
-        "url": "https://open.spotify.com/album/5HsFc733bwG90PUlCPjPR4"
-      },
-      "artists": [
-        {
-          "name": "Kevin ISM",
-          "url": "https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9"
-        }
-      ],
-      "duration_ms": 206053,
-      "name": "Where Did The Time Go ?",
-      "url": "https://open.spotify.com/track/54fj963AplMqKDMKX5KxTR"
-    },
-    {
       "added_at": "2026-03-29 12:33:09",
       "album": {
         "name": "Horizon",
@@ -1287,22 +1119,6 @@
       "duration_ms": 262857,
       "name": "Apparently Dead",
       "url": "https://open.spotify.com/track/7KU3oqTPIO1vH8Dm3qT9NO"
-    },
-    {
-      "added_at": "2026-04-03 14:58:07",
-      "album": {
-        "name": "For The Seasons",
-        "url": "https://open.spotify.com/album/7dDWirfVw0eWCOovuiREaa"
-      },
-      "artists": [
-        {
-          "name": "The Katawicks",
-          "url": "https://open.spotify.com/artist/3hqty8aRn2EImLsrckK6mk"
-        }
-      ],
-      "duration_ms": 190920,
-      "name": "40",
-      "url": "https://open.spotify.com/track/0efLMYEhoCsvPEjMTug7cY"
     },
     {
       "added_at": "2026-04-04 16:33:07",
@@ -1415,6 +1231,54 @@
       "duration_ms": 193493,
       "name": "Just Let It Go",
       "url": "https://open.spotify.com/track/5lPn1Gsaqo8NO3NpFGgwqJ"
+    },
+    {
+      "added_at": "2026-04-13 10:39:05",
+      "album": {
+        "name": "Rabbit!",
+        "url": "https://open.spotify.com/album/3DQgH9DE5lLAXPmnwHnRTy"
+      },
+      "artists": [
+        {
+          "name": "Kim Million$",
+          "url": "https://open.spotify.com/artist/393NYPTSuRjbbf2HtcnRMN"
+        }
+      ],
+      "duration_ms": 130255,
+      "name": "Rabbit!",
+      "url": "https://open.spotify.com/track/3knD7dkD3rgu3AAF893E8R"
+    },
+    {
+      "added_at": "2026-04-13 10:55:28",
+      "album": {
+        "name": "Invisible",
+        "url": "https://open.spotify.com/album/26CgmwfJA3HjUE9A8SBZ47"
+      },
+      "artists": [
+        {
+          "name": "Melany Cubero",
+          "url": "https://open.spotify.com/artist/4OrIEJHh24oAbE1evJRR7c"
+        }
+      ],
+      "duration_ms": 192883,
+      "name": "Fuiste de Viaje",
+      "url": "https://open.spotify.com/track/2CbJGe8IetHy4H4Qv1TIEq"
+    },
+    {
+      "added_at": "2026-04-13 11:06:39",
+      "album": {
+        "name": "Things Won't Be The Same",
+        "url": "https://open.spotify.com/album/3d0nPUL8AjoeHdqFaOAgj1"
+      },
+      "artists": [
+        {
+          "name": "Solo el Malo",
+          "url": "https://open.spotify.com/artist/6zInnYXXcyniz3JBivUoX8"
+        }
+      ],
+      "duration_ms": 201875,
+      "name": "Things Won't Be The Same",
+      "url": "https://open.spotify.com/track/6hZM4lUIc7x72NIaDn59l3"
     }
   ],
   "unique_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",

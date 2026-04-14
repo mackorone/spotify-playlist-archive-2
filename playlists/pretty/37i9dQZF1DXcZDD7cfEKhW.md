@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 
 > Remixed pop and <a href="spotify:genre:edm\_dance">dance</a> collabs\. Cover: Bruno Mars
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,392,637 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,392,429 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 | 62 | [she got a thing about her \- lucø remix](https://open.spotify.com/track/3LFUE8ko7EEOaMiWWAZ6sb) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq), [LUCØ](https://open.spotify.com/artist/7AZz7NIZYmsop1ipI6009w) | [she got a thing about her \(lucø remix\)](https://open.spotify.com/album/3pzFxS9OX1g1AK9YJgsrth) | 2:46 |
 | 63 | [Sunroof \- Loud Luxury Remix](https://open.spotify.com/track/1E8i4Xq9tH2LVWC0b1Sptj) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [hey daisy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x), [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ) | [Sunroof \(Loud Luxury Remix\)](https://open.spotify.com/album/7LC439zjDcvAgdooLmL67Q) | 2:53 |
 | 64 | [Drive \(feat\. Wes Nelson\) \- Topic VIP Remix](https://open.spotify.com/track/7BkNs7DRxzsa09I3tzk2XO) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Wes Nelson](https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq) | [Drive \(feat\. Wes Nelson\) \[Topic VIP Remix\]](https://open.spotify.com/album/0J2xC9k1rdXhGZL0H4NmIt) | 2:56 |
-| 65 | [Don't Go Yet \- Major Lazer Remix](https://open.spotify.com/track/5Ay8r4qxJ1OYLS91tWysRf) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp) | [Don't Go Yet \(Major Lazer Remix\)](https://open.spotify.com/album/3jTLjbylYAkf4nbCPuz2Qo) | 2:51 |
-| 66 | [PROVENZA \- REMIX](https://open.spotify.com/track/7DmP5W2DbhXC7uKYbYXtIm) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u) | 3:07 |
+| 65 | [PROVENZA \- REMIX](https://open.spotify.com/track/7DmP5W2DbhXC7uKYbYXtIm) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u) | 3:07 |
+| 66 | [Don't Go Yet \- Major Lazer Remix](https://open.spotify.com/track/5Ay8r4qxJ1OYLS91tWysRf) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp) | [Don't Go Yet \(Major Lazer Remix\)](https://open.spotify.com/album/3jTLjbylYAkf4nbCPuz2Qo) | 2:51 |
 | 67 | [Revolving door \- Lavern remix](https://open.spotify.com/track/6AiZxO930ZHxwyYjigyCgc) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [Revolving door \(remixes\)](https://open.spotify.com/album/3Lu2uejItyM8JBMCIOBKeg) | 2:51 |
 | 68 | [Before You Leave Me \- TELYKAST Remix](https://open.spotify.com/track/1GM0BBPG6CWenFpXx6FPc2) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz) | [Before You Leave Me \(TELYKAST Remix\)](https://open.spotify.com/album/220lHt2TZTUYnR0HWLzK6J) | 2:47 |
 | 69 | [Goodies](https://open.spotify.com/track/1rGd2CoMxEg2dnaytLY5ZG) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [Goodies](https://open.spotify.com/album/67bFXY7O9MCywon0nEyS1Z) | 2:01 |

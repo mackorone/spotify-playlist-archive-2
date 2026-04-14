@@ -1,12 +1,12 @@
 {
   "description": "This is Miranda Lambert. The essential tracks, all in one playlist.",
-  "num_followers": 173861,
+  "num_followers": 173868,
   "original_name": "This Is Miranda Lambert",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "admPAAAAAACyvdIcbW6GQiE1Y4m/bxz4",
+  "snapshot_id": "adrggAAAAAD3qsqWwNZy2FMd67gPNPMn",
   "tracks": [
     {
       "added_at": null,
@@ -687,6 +687,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/3uczBfJFFSNjSiF8ScC1pA"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 178533,
+      "name": "Heart Like Mine",
+      "url": "https://open.spotify.com/track/4EDeBzhZMcHEx7A8IcDiaL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hell On Heels",
         "url": "https://open.spotify.com/album/2zJVeRorn9q3XBeH7twIjc"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 181440,
       "name": "Trailer for Rent",
       "url": "https://open.spotify.com/track/7Bppatt7pAcCg5sr2A2BTx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Revolution",
-        "url": "https://open.spotify.com/album/3uczBfJFFSNjSiF8ScC1pA"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 178533,
-      "name": "Heart Like Mine",
-      "url": "https://open.spotify.com/track/4EDeBzhZMcHEx7A8IcDiaL"
     },
     {
       "added_at": null,
@@ -831,6 +831,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "Postcards From Texas",
+        "url": "https://open.spotify.com/album/2c12Spm8XcLAT2xYtQdgGK"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 163875,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/6zUbSReLqmTpjbX6GqdOkP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Crazy Ex-Girlfriend",
+        "url": "https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 187573,
+      "name": "Crazy Ex-Girlfriend",
+      "url": "https://open.spotify.com/track/2E9n1Zpby16xLUPoujMUSd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wildcard",
+        "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 214786,
+      "name": "It All Comes Out in the Wash",
+      "url": "https://open.spotify.com/track/41FLEFSeRCv19OBn0vLiaH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Boys 'Round Here (feat. Jason Aldean, Luke Bryan, Ronnie Dunn, Miranda Lambert, Brad Paisley, Reba, Josh Turner, Keith Urban & Hank Williams, Jr.) [Celebrity Mix]",
         "url": "https://open.spotify.com/album/0uy7TaqSAa52Qex8T2abxu"
       },
@@ -879,38 +927,6 @@
       "duration_ms": 289066,
       "name": "Boys 'Round Here (feat. Jason Aldean, Luke Bryan, Ronnie Dunn, Miranda Lambert, Brad Paisley, Reba, Josh Turner, Keith Urban & Hank Williams, Jr.) - Celebrity Mix",
       "url": "https://open.spotify.com/track/02wmEyZ3biRECnBbRwWliU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Crazy Ex-Girlfriend",
-        "url": "https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 187573,
-      "name": "Crazy Ex-Girlfriend",
-      "url": "https://open.spotify.com/track/2E9n1Zpby16xLUPoujMUSd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wildcard",
-        "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 214786,
-      "name": "It All Comes Out in the Wash",
-      "url": "https://open.spotify.com/track/41FLEFSeRCv19OBn0vLiaH"
     },
     {
       "added_at": null,
@@ -995,22 +1011,6 @@
       "duration_ms": 196733,
       "name": "Takin' Pills",
       "url": "https://open.spotify.com/track/2I8sTYMwuTsTL3K5vR6MB5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Postcards From Texas",
-        "url": "https://open.spotify.com/album/2c12Spm8XcLAT2xYtQdgGK"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 163875,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/6zUbSReLqmTpjbX6GqdOkP"
     },
     {
       "added_at": null,

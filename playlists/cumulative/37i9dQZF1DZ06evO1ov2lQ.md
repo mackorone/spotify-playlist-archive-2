@@ -4,7 +4,7 @@
 
 > This is Biosphere\. The essential tracks, all in one playlist.
 
-192 songs - 16 hr 10 min
+193 songs - 16 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Down On Ropes](https://open.spotify.com/track/39MxHQGDytjIla3hT87hob) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Departed Glories](https://open.spotify.com/album/78KLYq0YJ5vgbPy9BYlpz9) | 3:10 | 2024-06-09 |  |
 | [Drifter](https://open.spotify.com/track/5xgAiOzfGQIDB4H12rnFbL) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [The Petrified Forest](https://open.spotify.com/album/2eTsX0BF5V0seyKkBgG8vc) | 4:19 | 2022-05-29 | 2022-10-13 |
 | [Déviation](https://open.spotify.com/track/16zg1TWLqoQArBumCzTawe) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Autour De La Lune \[Reissue\]](https://open.spotify.com/album/5fxcvWzqTtN1e4dgYrWyXf) | 10:26 | 2023-12-22 | 2024-05-24 |
-| [En\-Trance](https://open.spotify.com/track/3MuqxmK0A3nCyzyhrfp8Da) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Patashnik](https://open.spotify.com/album/6UUS4WcqqD75JY1v3w83cx) | 4:40 | 2024-04-06 |  |
+| [En\-Trance](https://open.spotify.com/track/3MuqxmK0A3nCyzyhrfp8Da) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Patashnik](https://open.spotify.com/album/6UUS4WcqqD75JY1v3w83cx) | 4:40 | 2024-04-06 | 2026-04-14 |
 | [Faith and Reverence](https://open.spotify.com/track/5iPqoLslN6d14t7ZEeYHqu) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Angel's Flight](https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR) | 3:18 | 2022-08-06 | 2022-10-07 |
 | [Fall In Fall Out](https://open.spotify.com/track/6R785CWKXgNE9e2hO5KaSg) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Dropsonde](https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580) | 7:10 | 2022-08-13 | 2022-09-22 |
 | [Fast Atoms Escape](https://open.spotify.com/track/2OK97NvMcKPhSqs1JvDNgO) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shenzhou \[Reissue\]](https://open.spotify.com/album/2HTr1MqQNLWz5LDPNY1YFH) | 3:26 | 2022-06-05 | 2022-10-06 |
@@ -80,6 +80,7 @@
 | [Green Reflections](https://open.spotify.com/track/4zErU7F1wLCWmtOdoyem0k) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shenzhou](https://open.spotify.com/album/2AHktHVC0TOMkb42I40BpS) | 3:32 | 2023-02-23 | 2026-03-24 |
 | [Griz Nez Windy](https://open.spotify.com/track/0K4dp3QBJkHwKILD5hU3Ob) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shenzhou \[Reissue\]](https://open.spotify.com/album/2HTr1MqQNLWz5LDPNY1YFH) | 3:21 | 2024-08-31 | 2025-03-30 |
 | [Heat Leak](https://open.spotify.com/track/0WgbqjvVFSYLHWtDYJ1hgj) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shenzhou \[Reissue\]](https://open.spotify.com/album/2HTr1MqQNLWz5LDPNY1YFH) | 4:56 | 2022-05-29 | 2026-02-25 |
+| [Heat Leak](https://open.spotify.com/track/1wKboGIaFO0bjBQgcy794b) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shenzhou](https://open.spotify.com/album/2AHktHVC0TOMkb42I40BpS) | 4:57 | 2026-04-14 |  |
 | [Heights of the Depths](https://open.spotify.com/track/3B9oLKhef3KJnzoGU9QYte) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr), [Jony Easterby](https://open.spotify.com/artist/5n941pBjjRc0Binlhj3pYB) | [Compilation 1991\-2004](https://open.spotify.com/album/3O1xREyGJreUViSlNijDsZ) | 10:48 | 2024-08-06 | 2024-08-19 |
 | [Hilsondis](https://open.spotify.com/track/0UvJBrmxR8w99nLN6RCxvo) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [The Hilvarenbeek Recordings](https://open.spotify.com/album/28VBLIMroxoxDWx84oegfx) | 5:12 | 2022-09-14 | 2024-05-28 |
 | [Houses on the Hill](https://open.spotify.com/track/4tvFYcymXNBbi3qpYGtjOu) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shenzhou \[Reissue\]](https://open.spotify.com/album/2HTr1MqQNLWz5LDPNY1YFH) | 5:39 | 2022-09-21 | 2022-09-23 |

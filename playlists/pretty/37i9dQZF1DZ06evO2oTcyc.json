@@ -1,12 +1,12 @@
 {
   "description": "This is Kodak Black. The essential tracks, all in one playlist.",
-  "num_followers": 229648,
+  "num_followers": 229656,
   "original_name": "This Is Kodak Black",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "admPAAAAAABVOpqZTZzGC0VPMMbuoMeZ",
+  "snapshot_id": "adrggAAAAADjYQDUGhY5sYFBqack860+",
   "tracks": [
     {
       "added_at": null,
@@ -679,6 +679,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dying to Live",
+        "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 130929,
+      "name": "If I'm Lyin', I'm Flyin'",
+      "url": "https://open.spotify.com/track/7HdNB8nvJOBwHa8hIkzvxp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bill Israel",
+        "url": "https://open.spotify.com/album/051k93izd0reEjp85OgEo6"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Pimpin Ain't Eazy",
+      "url": "https://open.spotify.com/track/67Sr4xrGip66CqSOD7fGfO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Painting Pictures",
+        "url": "https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 198109,
+      "name": "Patty Cake",
+      "url": "https://open.spotify.com/track/0bXFIF7iL17TYLyx8JHziM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) [Trailer Version]",
         "url": "https://open.spotify.com/album/6aHHJHhyAt6fBWwc7baiCw"
       },
@@ -722,43 +770,15 @@
         {
           "name": "Kodak Black",
           "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 130929,
-      "name": "If I'm Lyin', I'm Flyin'",
-      "url": "https://open.spotify.com/track/7HdNB8nvJOBwHa8hIkzvxp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Painting Pictures",
-        "url": "https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96"
-      },
-      "artists": [
+        },
         {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         }
       ],
-      "duration_ms": 198109,
-      "name": "Patty Cake",
-      "url": "https://open.spotify.com/track/0bXFIF7iL17TYLyx8JHziM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bill Israel",
-        "url": "https://open.spotify.com/album/051k93izd0reEjp85OgEo6"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Pimpin Ain't Eazy",
-      "url": "https://open.spotify.com/track/67Sr4xrGip66CqSOD7fGfO"
+      "duration_ms": 164038,
+      "name": "MoshPit (feat. Juice WRLD)",
+      "url": "https://open.spotify.com/track/4KX8vXbouybtUptEyYxtIk"
     },
     {
       "added_at": null,
@@ -779,26 +799,6 @@
       "duration_ms": 226068,
       "name": "Till im Gone (feat. Kodak Black)",
       "url": "https://open.spotify.com/track/6I0Jucv2KfH32lNp1Acana"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dying to Live",
-        "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        },
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 164038,
-      "name": "MoshPit (feat. Juice WRLD)",
-      "url": "https://open.spotify.com/track/4KX8vXbouybtUptEyYxtIk"
     },
     {
       "added_at": null,

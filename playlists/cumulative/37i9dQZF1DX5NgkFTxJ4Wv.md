@@ -4,7 +4,7 @@
 
 > Lush continuous pink noise that will make you sleep all night.
 
-330 songs - 17 hr 7 min
+331 songs - 17 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,7 +192,7 @@
 | [Pink Noise for my Nap](https://open.spotify.com/track/1IrAMBPSqBDgx1AThZAxOZ) | [Brightlo](https://open.spotify.com/artist/7LrJzvIirmst73Ic48s97g) | [Pink Noise for my Nap](https://open.spotify.com/album/5IFvsQC23wbGDu4r2tY5Xp) | 3:32 | 2023-10-27 |  |
 | [Pink Noise for my Soul](https://open.spotify.com/track/3v4kFsrw1MvMINt5EX052q) | [The Sleep Phasers](https://open.spotify.com/artist/0Hsi1ogeO5MpghqgXtuh9L) | [Pink Noise for my Soul](https://open.spotify.com/album/5RLvHX31HwU7rAoUVwulYW) | 3:09 | 2025-12-19 |  |
 | [Pink Noise For Relaxation](https://open.spotify.com/track/5EMGZzJMcAhq4D7NT6K0Az) | [Casper White](https://open.spotify.com/artist/4weaxjLzThghACmvjNt9JT) | [Pink Atmosphere](https://open.spotify.com/album/5qgEcp6C7PPTayUCDjL6wb) | 2:33 | 2023-05-25 |  |
-| [Pink Noise For Sweet Dreams](https://open.spotify.com/track/4PSkW1HuaEKXXvb9ltniaJ) | [Institute of Noise](https://open.spotify.com/artist/7dUgAAemIDlQjATtoc1sPT) | [Pink Noise Above The Clouds](https://open.spotify.com/album/0AHoFhEHrhVMtAgSusiDA2) | 3:44 | 2023-10-27 |  |
+| [Pink Noise For Sweet Dreams](https://open.spotify.com/track/4PSkW1HuaEKXXvb9ltniaJ) | [Institute of Noise](https://open.spotify.com/artist/7dUgAAemIDlQjATtoc1sPT) | [Pink Noise Above The Clouds](https://open.spotify.com/album/0AHoFhEHrhVMtAgSusiDA2) | 3:44 | 2023-10-27 | 2026-04-14 |
 | [Pink Noise for the Dreamers](https://open.spotify.com/track/3V5mSraWwUfruXr2rpE6N4) | [Dream Fuzz](https://open.spotify.com/artist/5g15r7gI0JATorLiQduRkF) | [Pink Noise for the Dreamers](https://open.spotify.com/album/70qsOzBd8f86FmuqZn34CD) | 3:36 | 2025-12-19 |  |
 | [Pink Noise for the Library](https://open.spotify.com/track/26fkLJCAeC1RAZe5aM1pZN) | [Dream Storms](https://open.spotify.com/artist/40AelaWxy8f4FdEVHEzK1T) | [Pink Noise for the Library](https://open.spotify.com/album/0aBPaD8lU8GpXhRRd1vWOD) | 3:15 | 2023-10-27 |  |
 | [Pink Noise for the Soul](https://open.spotify.com/track/55ixTrk7bNGa879tA2ftbz) | [Hum Humming](https://open.spotify.com/artist/4Pv75nATrtWwA5uYCDvxYF) | [Pink Noise for the Soul](https://open.spotify.com/album/5kyRuD1PAKVecHr9HYVzvZ) | 4:17 | 2025-05-22 | 2026-04-01 |
@@ -313,6 +313,7 @@
 | [Soft Pink Echoes](https://open.spotify.com/track/0YGPcFjfOZ36hccZzWBiDK) | [BCCF](https://open.spotify.com/artist/3nom2q4wk6XDl2RN6xTs5f) | [Soft Pink Echoes](https://open.spotify.com/album/0uPmlFoTctRW0Hxm589ksI) | 2:53 | 2025-12-19 |  |
 | [Soft Pink Noise](https://open.spotify.com/track/5KHwBQEvflrnRBCLe1hrhO) | [Indika](https://open.spotify.com/artist/6vl0jfkfF6pKuUQPJhWshU) | [Soft Pink Noise](https://open.spotify.com/album/6VekMONmw1s4OJoIqbMTBu) | 1:59 | 2026-03-31 |  |
 | [Soft Pink Noise](https://open.spotify.com/track/5WH4ASzgpmA0qznc55aCdP) | [Mixed Noise Bank](https://open.spotify.com/artist/7zpw4vmlZNCUlwbdnFwxwO) | [Sleepy Noise](https://open.spotify.com/album/2VUTmEVHwd4MKKh72hFoum) | 2:56 | 2023-05-25 |  |
+| [Soft Rose Signal](https://open.spotify.com/track/1MHtuUU0fXxw7IwMq0NmT3) | [Arven](https://open.spotify.com/artist/5hqFUHrihp00SRWVqz07tI) | [Soft Rose Signal](https://open.spotify.com/album/0EIeJMp0lukIvtPf34oDDy) | 2:37 | 2026-03-31 |  |
 | [Softer Pink Noise](https://open.spotify.com/track/0LIct0I3RXKUxbMr9gF0AX) | [True White](https://open.spotify.com/artist/5vhaG8WchlssMkNH1VefUl) | [Pink Noise Horizons](https://open.spotify.com/album/7GhyKWTqtqx8iOlcpH4V9m) | 2:48 | 2023-05-25 |  |
 | [Soothing Pink Hum](https://open.spotify.com/track/2W1L3FaUAWGQSOFbQo08Cz) | [PXL PXL](https://open.spotify.com/artist/3VsfVLFVzGpyCwlMDpusSp) | [Sleepy Pink Noizzz](https://open.spotify.com/album/7olSXRkTlJ3s18lhdu2Nyy) | 3:52 | 2023-10-27 | 2026-04-10 |
 | [Soothing Pink Noise](https://open.spotify.com/track/05hcCX6rQmpnj91r0Pvnhr) | [BBVB](https://open.spotify.com/artist/1uMU5JVDiS1brp2XOicvPP) | [Pink Noise Sleep](https://open.spotify.com/album/5xLvyREx2BinFPw6fTJvH2) | 2:50 | 2023-05-25 |  |

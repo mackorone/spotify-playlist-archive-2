@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLKM90w7qiQs.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/52cKwQBHdpKHYYbrnqKJtX">GRACEY</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71 likes - 69 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 71 likes - 70 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLKM90w7qiQs.md) - [plain]
 | 64 | [Stupid Dog](https://open.spotify.com/track/3R9xeYBlGNDYFmaNHgGamd) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [CHAPTER 3: The Burning](https://open.spotify.com/album/4mqEv4XT01WQm45HTqgOEK) | 2:10 |
 | 65 | [Care Less](https://open.spotify.com/track/2Rs0Sd7bdJaTd9QYfA11Jf) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [The Art Of Closure](https://open.spotify.com/album/1uVSiPRSZMowsV2ZbbX4NW) | 3:46 |
 | 66 | [Steep](https://open.spotify.com/track/5hgLQwotAYS52Pq9cR6rqq) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Ladybug](https://open.spotify.com/album/43ysMhPPbGWW5eXS0risKq) | 2:57 |
-| 67 | [BED HEAD](https://open.spotify.com/track/09xdIdn86V2ajBH8qrqkxw) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [LOZEAK](https://open.spotify.com/album/7EW8GOijpfI5nohP8w7dzC) | 2:12 |
-| 68 | [Figure It Out](https://open.spotify.com/track/4u1OGnxFaeeDncPLsW6Zbf) | [Paige Cavell](https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24) | [Figure It Out](https://open.spotify.com/album/3nx85pcfiQEOTzpyIeJcw8) | 3:11 |
-| 69 | [Body Of Work](https://open.spotify.com/track/4PfoFN7JhDhrmJyVmuk4C6) | [July Jones](https://open.spotify.com/artist/0sFyRdif7dRPjq9uHmsJlp) | [Body Of Work](https://open.spotify.com/album/2Tl6XkbmbgfEtlM7TcO7Il) | 2:52 |
+| 67 | [Can’t Pull Me Down](https://open.spotify.com/track/4ALvOe1nO9IADhZmclYz4t) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [WILDFIRE](https://open.spotify.com/album/7rg0Uyz5QcUSBDRpzHAbQN) | 2:21 |
+| 68 | [BED HEAD](https://open.spotify.com/track/09xdIdn86V2ajBH8qrqkxw) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [LOZEAK](https://open.spotify.com/album/7EW8GOijpfI5nohP8w7dzC) | 2:12 |
+| 69 | [Figure It Out](https://open.spotify.com/track/4u1OGnxFaeeDncPLsW6Zbf) | [Paige Cavell](https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24) | [Figure It Out](https://open.spotify.com/album/3nx85pcfiQEOTzpyIeJcw8) | 3:11 |
+| 70 | [Body Of Work](https://open.spotify.com/track/4PfoFN7JhDhrmJyVmuk4C6) | [July Jones](https://open.spotify.com/artist/0sFyRdif7dRPjq9uHmsJlp) | [Body Of Work](https://open.spotify.com/album/2Tl6XkbmbgfEtlM7TcO7Il) | 2:52 |
 
-Snapshot ID: `AcOsSAAAAADa8w9hBoYb2UzzGr4X0fCg`
+Snapshot ID: `AcOx6AAAAABLh62tos3ITUUWuzKg7rlR`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: La Cruz
 
-[Spotify](https://open.spotify.com/user/spotify) - 554,636 likes - 80 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 554,648 likes - 80 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 11 | [Nota Eleva](https://open.spotify.com/track/5VHXAHehIJmXhK6yR0qWlp) | [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar), [Charlee Way](https://open.spotify.com/artist/6EDCaSmqeDArGXLlVEq15u) | [Nota Eleva](https://open.spotify.com/album/6QTX5PZKfpCMiQE6e048Uw) | 2:49 |
 | 12 | [BABYRECORDS.](https://open.spotify.com/track/7adWxffOcMRKBcRgOyX5vw) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [BABYRECORDS.](https://open.spotify.com/album/5oYfMTdeFQLcBk4mh5cONj) | 2:29 |
 | 13 | [Caducaste](https://open.spotify.com/track/3k0au8hNwghIrLsfpP2W4z) | [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Caducaste](https://open.spotify.com/album/5um6GIoA0TejDR97zILaDG) | 3:34 |
-| 14 | [FFF](https://open.spotify.com/track/3EPGWBvRxGWkPSChTBkABG) | [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [FFF](https://open.spotify.com/album/4zBseCXdGVBhWeJuq89ZVZ) | 2:44 |
+| 14 | [FFF](https://open.spotify.com/track/3EPGWBvRxGWkPSChTBkABG) | [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Soul](https://open.spotify.com/artist/4SmQWZtxkR4pOAbDQasTvl) | [FFF](https://open.spotify.com/album/4zBseCXdGVBhWeJuq89ZVZ) | 2:44 |
 | 15 | [Callate y Besame](https://open.spotify.com/track/4I7u8l7P2A409S1emPOUhX) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP) | [Eso Si Es De Gangster](https://open.spotify.com/album/5DyoeBkxYOgCrA2TpCvJKL) | 3:26 |
 | 16 | [Belleza](https://open.spotify.com/track/1RCLBRAJc2iEDE8DTXHCxj) | [Montano](https://open.spotify.com/artist/3LlWsXsjIJmaKmPaB9GIyH), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Gangsta](https://open.spotify.com/artist/5ayJu41CsIbLfnMldF6bj3) | [Belleza](https://open.spotify.com/album/7dFEzeWR3MbGdQEykDTVbF) | 4:00 |
 | 17 | [Me Arrepiento](https://open.spotify.com/track/6KlMFpD7Ke4vj5pyKP1uMs) | [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH) | [LAS QUE DEBÍ SUBIR EN SOUNDCLOUD](https://open.spotify.com/album/1idfZR7zVSTPH2JcK6vhNG) | 2:48 |

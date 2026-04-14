@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Adekunle Gold & Olamide, Johnny Drille,   FIDO, Jae5, Teddy Swims and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,096 likes - 53 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,181 likes - 53 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

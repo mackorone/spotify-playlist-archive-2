@@ -10416,7 +10416,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 275102,
       "name": "Doomed",
       "url": "https://open.spotify.com/track/5OF346xZ66VhwC9YGyT5bC"
@@ -13526,6 +13526,24 @@
       "duration_ms": 170677,
       "name": "Fourth Strike",
       "url": "https://open.spotify.com/track/4ZYc3kAdPWlhYMnEsjvVr6"
+    },
+    {
+      "album": {
+        "name": "Freakin\u2019 Out",
+        "url": "https://open.spotify.com/album/3hToTQIS84qGNxEhrZHiWf"
+      },
+      "artists": [
+        {
+          "name": "Dexter and The Moonrocks",
+          "url": "https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217897,
+      "name": "Freakin\u2019 Out",
+      "url": "https://open.spotify.com/track/2SaWT781xr3hHLdbVt5DB7"
     },
     {
       "album": {

@@ -305,6 +305,24 @@
     },
     {
       "album": {
+        "name": "WILDFIRE",
+        "url": "https://open.spotify.com/album/7rg0Uyz5QcUSBDRpzHAbQN"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141840,
+      "name": "Can\u2019t Pull Me Down",
+      "url": "https://open.spotify.com/track/4ALvOe1nO9IADhZmclYz4t"
+    },
+    {
+      "album": {
         "name": "Cherry Gum",
         "url": "https://open.spotify.com/album/4NC5vzI0hgh3c9t0bcr4KV"
       },
@@ -1550,6 +1568,24 @@
       "duration_ms": 236233,
       "name": "Pieces",
       "url": "https://open.spotify.com/track/58pdFtaryYVwyHsjYDGw4W"
+    },
+    {
+      "album": {
+        "name": "Please Don't Hate Me",
+        "url": "https://open.spotify.com/album/14EBLrQbRhhzyCMQBSlhmn"
+      },
+      "artists": [
+        {
+          "name": "Aaron Rowe",
+          "url": "https://open.spotify.com/artist/1wskVZXoUsbxB5mBhR9Oke"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201063,
+      "name": "Please Don't Hate Me",
+      "url": "https://open.spotify.com/track/1yvgEFgtTMU5jz9m6GXj9t"
     },
     {
       "album": {

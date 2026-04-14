@@ -4,7 +4,7 @@
 
 > Sal Da Vinci sulla cover della playlist più grande in Italia 🔥
 
-317 songs - 16 hr 31 min
+318 songs - 16 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,7 +254,7 @@
 | [REAL GANGSTA LOVE](https://open.spotify.com/track/1pymWRCuZfCd0zdiBJo0Hj) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [EL ÚLTIMO BAILE](https://open.spotify.com/album/3EWJoKrG9XnCjvAPzkQZ88) | 2:25 | 2024-08-07 | 2024-11-16 |
 | [Respiro](https://open.spotify.com/track/31ePh9rOTkIERrloY8BUUc) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Respiro](https://open.spotify.com/album/45ZXo91lK7a6x2lylI6siL) | 2:35 | 2024-06-28 | 2024-07-05 |
 | [Resta Ancora Un Po'](https://open.spotify.com/track/48zY2jicewpCnYEnWtrPPn) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Resta Ancora Un Po'](https://open.spotify.com/album/5Yy72IJnQKirTKQ54lZBpO) | 2:27 | 2026-01-28 | 2026-02-20 |
-| [Resta Con Me](https://open.spotify.com/track/1GjQApTKIADKfSoZm8bHRK) | [Bambole Di Pezza](https://open.spotify.com/artist/2RucBHMHhR5LMQUoGO19OW) | [Resta Con Me](https://open.spotify.com/album/4mCgQu8BIqXpiil8pw5KDj) | 3:10 | 2026-03-05 |  |
+| [Resta Con Me](https://open.spotify.com/track/1GjQApTKIADKfSoZm8bHRK) | [Bambole Di Pezza](https://open.spotify.com/artist/2RucBHMHhR5LMQUoGO19OW) | [Resta Con Me](https://open.spotify.com/album/4mCgQu8BIqXpiil8pw5KDj) | 3:10 | 2026-03-05 | 2026-04-14 |
 | [Ricordi \(con Elisa\)](https://open.spotify.com/track/3ocAmS2NnUlIrtwYdg89lU) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH), [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23) | [Ricordi \(con Elisa\)](https://open.spotify.com/album/5UN3WOoPVsl8nesjf0xowl) | 4:37 | 2026-04-07 |  |
 | [Romantico Ma Muori](https://open.spotify.com/track/5lTTuESHokJHpSsEvvSR64) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Romantico Ma Muori](https://open.spotify.com/album/0js12ciEGYY4tTcCLKgwwY) | 2:46 | 2024-09-12 | 2025-05-09 |
 | [Rossetto e caffè](https://open.spotify.com/track/1nLGeFQuY7PFxrou3ezEvP) | [Sal Da Vinci](https://open.spotify.com/artist/7cdIY4mDfM1dbjgl7s2fGR) | [Rossetto e caffè](https://open.spotify.com/album/0emUWUzKXXzwcJdStSQdIM) | 3:12 | 2024-08-01 | 2025-03-15 |
@@ -274,6 +274,7 @@
 | [Silverlines \- prod\. Labrinth](https://open.spotify.com/track/1BK1d7b9bhlbKpQPbYGsol) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Silverlines \- prod\. Labrinth](https://open.spotify.com/album/6xLihtKzCsFZm7nQrAcbF4) | 3:17 | 2024-09-27 | 2024-10-12 |
 | [SOGNO AMERICANO](https://open.spotify.com/track/7i0zYckMTyvLyKAFxfOKIS) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [LA BELLAVITA](https://open.spotify.com/album/2NBjD7HfilmlALNet5aPFH) | 2:56 | 2025-03-31 | 2025-07-04 |
 | [Soldi Arrotolati \(feat\. ANNA\)](https://open.spotify.com/track/1zp4TEQ9zaNGXTjY6fsz1p) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [FERITE](https://open.spotify.com/album/4mLp42UXbXFTMhAM4V1Kgz) | 2:31 | 2024-06-28 | 2024-07-19 |
+| [Spie](https://open.spotify.com/track/6RRxP0B9bVZnbTnSpxfo9W) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Vangelo](https://open.spotify.com/album/2gqFeF2xx9zMEwUWRc5UK4) | 3:05 | 2026-04-13 |  |
 | [squabble up](https://open.spotify.com/track/0nj9Bq5sHDiTxSHunhgkFb) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:37 | 2024-11-25 | 2024-12-13 |
 | [Stargazing](https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stargazing](https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj) | 2:52 | 2024-07-18 | 2025-02-04 |
 | [Stateside + Zara Larsson](https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 3:04 | 2026-03-17 | 2026-04-08 |

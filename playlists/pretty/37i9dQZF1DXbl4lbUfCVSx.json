@@ -1,6 +1,6 @@
 {
   "description": "Sa k'ap f\u00e8t! Enjoy Ha\u00efti\u2019s national music, a smooth modern m\u00e9ringue sound.",
-  "num_followers": 36620,
+  "num_followers": 36627,
   "original_name": "Kompas Dir\u00e8k",
   "owner": {
     "name": "Spotify",
@@ -483,6 +483,22 @@
     {
       "added_at": "2026-04-03 04:00:42",
       "album": {
+        "name": "Our Own World",
+        "url": "https://open.spotify.com/album/23Gcw0J4M7u0Lp3llF3EGD"
+      },
+      "artists": [
+        {
+          "name": "J-BEATZ",
+          "url": "https://open.spotify.com/artist/5lAmUypm7Pmextgjxe1qwU"
+        }
+      ],
+      "duration_ms": 293918,
+      "name": "It's Getting Late",
+      "url": "https://open.spotify.com/track/3xyHkaONRVaVFt6iOtzB1B"
+    },
+    {
+      "added_at": "2026-04-03 04:00:42",
+      "album": {
         "name": "Game Over",
         "url": "https://open.spotify.com/album/7BJ2XJcYzTUoiw7EQtZw7Z"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 309907,
       "name": "Ralanti",
       "url": "https://open.spotify.com/track/6HIJ13H03bmXvezAonGZbu"
-    },
-    {
-      "added_at": "2026-04-03 04:00:42",
-      "album": {
-        "name": "Our Own World",
-        "url": "https://open.spotify.com/album/23Gcw0J4M7u0Lp3llF3EGD"
-      },
-      "artists": [
-        {
-          "name": "J-BEATZ",
-          "url": "https://open.spotify.com/artist/5lAmUypm7Pmextgjxe1qwU"
-        }
-      ],
-      "duration_ms": 293918,
-      "name": "It's Getting Late",
-      "url": "https://open.spotify.com/track/3xyHkaONRVaVFt6iOtzB1B"
     },
     {
       "added_at": "2026-04-03 04:00:42",
@@ -635,26 +635,6 @@
     {
       "added_at": "2026-04-03 04:00:42",
       "album": {
-        "name": "She's Hot",
-        "url": "https://open.spotify.com/album/4aLbHzlAdncy8dQeP7O03u"
-      },
-      "artists": [
-        {
-          "name": "Pierre Jean",
-          "url": "https://open.spotify.com/artist/01OsZozNGoEXWFtUjkv3l3"
-        },
-        {
-          "name": "TJO ZENNY",
-          "url": "https://open.spotify.com/artist/3ZO3tXYKGVHvK2Yzx5cz2H"
-        }
-      ],
-      "duration_ms": 238524,
-      "name": "She's Hot",
-      "url": "https://open.spotify.com/track/0fd77CbudLrkDEnE2lXAcW"
-    },
-    {
-      "added_at": "2026-04-03 04:00:42",
-      "album": {
         "name": "Time To Shine",
         "url": "https://open.spotify.com/album/3AZDvlOXievmSkvpsODdDK"
       },
@@ -671,6 +651,26 @@
       "duration_ms": 285346,
       "name": "Bif",
       "url": "https://open.spotify.com/track/3DzyChVBA7YeWkozAAZh2d"
+    },
+    {
+      "added_at": "2026-04-03 04:00:42",
+      "album": {
+        "name": "She's Hot",
+        "url": "https://open.spotify.com/album/4aLbHzlAdncy8dQeP7O03u"
+      },
+      "artists": [
+        {
+          "name": "Pierre Jean",
+          "url": "https://open.spotify.com/artist/01OsZozNGoEXWFtUjkv3l3"
+        },
+        {
+          "name": "TJO ZENNY",
+          "url": "https://open.spotify.com/artist/3ZO3tXYKGVHvK2Yzx5cz2H"
+        }
+      ],
+      "duration_ms": 238524,
+      "name": "She's Hot",
+      "url": "https://open.spotify.com/track/0fd77CbudLrkDEnE2lXAcW"
     },
     {
       "added_at": "2026-04-03 04:00:42",

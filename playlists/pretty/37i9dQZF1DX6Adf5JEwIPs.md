@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Lenin Ramírez 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 725,476 likes - 55 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 725,519 likes - 55 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 35 | [Caminos De Michoacan \(En Vivo\)](https://open.spotify.com/track/1yaCfymfoO4c3bxCAWl3WD) | [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [Caminos De Michoacan \(En Vivo\)](https://open.spotify.com/album/2onjf4QRJiGJWCwkXSDTxp) | 6:03 |
 | 36 | [Juan Machado](https://open.spotify.com/track/7Jqk7MdLtE6JrBo43WLMBB) | [Leonel el Ranchero](https://open.spotify.com/artist/1DN5Y1Kdhvz5LCWe5n61p6) | [Juan Machado](https://open.spotify.com/album/655Cg8fy75dTV5LXbYJx0Y) | 3:51 |
 | 37 | [Cuando Fue](https://open.spotify.com/track/2Kuoy9GgkvV00PVtPgLS2I) | [Yadir Torres](https://open.spotify.com/artist/5BI7hVOCOQ2uuQf73NYGKZ) | [Cuando Fue](https://open.spotify.com/album/6lihJvAHv01XpgetMhuoAq) | 3:04 |
-| 38 | [El Paquete](https://open.spotify.com/track/4xTXk9S20F0p2dc4ZPcstx) | [Luis Escalera](https://open.spotify.com/artist/1EECv9ZeOOBtjcVa3GTEBd), [Max Wizard](https://open.spotify.com/artist/0dlUkcvpngiB6q05OnvKme) | [El Paquete](https://open.spotify.com/album/6n8oJVvvQf506DwHbbMda6) | 2:49 |
+| 38 | [Mi Paquete](https://open.spotify.com/track/4xTXk9S20F0p2dc4ZPcstx) | [Luis Escalera](https://open.spotify.com/artist/1EECv9ZeOOBtjcVa3GTEBd), [Max Wizard](https://open.spotify.com/artist/0dlUkcvpngiB6q05OnvKme) | [Mi Paquete](https://open.spotify.com/album/6n8oJVvvQf506DwHbbMda6) | 2:49 |
 | 39 | [Cuando Apenas Era Un Jovencito](https://open.spotify.com/track/5bvYY0shY9fEnRDz2gE2WI) | [Joel Elizalde](https://open.spotify.com/artist/55EA5tfk6pyYA7L6Hgb5Nr) | [Cuando Apenas Era Un Jovencito](https://open.spotify.com/album/0106r19hYwomcFDDrZ9S0X) | 2:13 |
 | 40 | [Cómo Le Hago](https://open.spotify.com/track/7FUwW7MpIZqU3QlLxwsMA6) | [PeeWee](https://open.spotify.com/artist/34w2CxXOMbQeaIkoKDiJhp) | [Cómo Le Hago](https://open.spotify.com/album/2N3Y1VqXDy59TBiBdEzqsT) | 2:20 |
 | 41 | [LO QUE QUIERAS DARME](https://open.spotify.com/track/68m6QEijGUpcDEcUnIKn53) | [Billy Manhattan](https://open.spotify.com/artist/1I9GlumEmT1pb0nGd36INy) | [LO QUE QUIERAS DARME](https://open.spotify.com/album/1F3Oencni5u8m2cv2N8Cx4) | 2:35 |

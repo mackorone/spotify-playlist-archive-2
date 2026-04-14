@@ -1,6 +1,6 @@
 {
   "description": "Todos los grandes \u00e9xitos del a\u00f1o, reunidos en un solo lugar. Chuyin en portada.",
-  "num_followers": 1484886,
+  "num_followers": 1484935,
   "original_name": "Mega \u00c9xitos 2026",
   "owner": {
     "name": "Spotify",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2026-03-13 06:00:17",
       "album": {
+        "name": "gervonta",
+        "url": "https://open.spotify.com/album/07P3e4goBCLdmyLavq25cS"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 167367,
+      "name": "gervonta",
+      "url": "https://open.spotify.com/track/0hfXHqWhOpbR9YQmQojDMN"
+    },
+    {
+      "added_at": "2026-03-13 06:00:17",
+      "album": {
         "name": "MI GATA",
         "url": "https://open.spotify.com/album/0tK2oT6337tuhZt5mqnsXZ"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 222366,
       "name": "MI GATA",
       "url": "https://open.spotify.com/track/36T0zLipTSOXQrY8oFBAvT"
-    },
-    {
-      "added_at": "2026-03-13 06:00:17",
-      "album": {
-        "name": "gervonta",
-        "url": "https://open.spotify.com/album/07P3e4goBCLdmyLavq25cS"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 167367,
-      "name": "gervonta",
-      "url": "https://open.spotify.com/track/0hfXHqWhOpbR9YQmQojDMN"
     },
     {
       "added_at": "2026-03-13 06:00:17",
@@ -1563,26 +1563,6 @@
     {
       "added_at": "2026-03-13 06:00:17",
       "album": {
-        "name": "Entre las de 20",
-        "url": "https://open.spotify.com/album/0teu3BYgtk8WuPBZWeDVN6"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 168511,
-      "name": "Entre las de 20",
-      "url": "https://open.spotify.com/track/61OsemtnuPJ5R0LMEkw60S"
-    },
-    {
-      "added_at": "2026-03-13 06:00:17",
-      "album": {
         "name": "La Intenci\u00f3n",
         "url": "https://open.spotify.com/album/3tKHDHYrbcCFDC1yDeLOx2"
       },
@@ -1599,6 +1579,26 @@
       "duration_ms": 249464,
       "name": "La Intenci\u00f3n",
       "url": "https://open.spotify.com/track/05tGmdz9dVZ4yGqz4YJdPK"
+    },
+    {
+      "added_at": "2026-03-13 06:00:17",
+      "album": {
+        "name": "Entre las de 20",
+        "url": "https://open.spotify.com/album/0teu3BYgtk8WuPBZWeDVN6"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 168511,
+      "name": "Entre las de 20",
+      "url": "https://open.spotify.com/track/61OsemtnuPJ5R0LMEkw60S"
     },
     {
       "added_at": "2026-03-13 06:00:17",

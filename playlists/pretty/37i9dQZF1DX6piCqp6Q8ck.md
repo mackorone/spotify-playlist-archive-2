@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 
 > Uplifting and happy jazz christmas classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,862 likes - 70 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,843 likes - 70 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 | 34 | [All That Glitters](https://open.spotify.com/track/7K9H3ZyzAxl7cffJjyt4da) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Mark Limacher](https://open.spotify.com/artist/2FyolspKay4voViiywFNFs) | [All That Glitters](https://open.spotify.com/album/5WEhtvqTyHk5GGTToRQYzm) | 3:19 |
 | 35 | [Little Drummer Boy](https://open.spotify.com/track/5lyN0bsNMnEp7NuAuHs9xY) | [Count Basie Orchestra](https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe) | [A Very Swingin’ Basie Christmas!](https://open.spotify.com/album/2YeKSxPeuQYiml0g6pzn7S) | 4:50 |
 | 36 | [Boogie Woogie Santa Claus](https://open.spotify.com/track/03MYXczT3SF2QYCdZYVUpJ) | [Lionel Hampton](https://open.spotify.com/artist/2PjgZkwAEk7UTin4jP6HLP), [Sonny Parker](https://open.spotify.com/artist/70RwoGWutTm2ztdpEBmwdv) | [Merry Christmas](https://open.spotify.com/album/4v2byuh7XMZGBrYjH3XnBx) | 2:42 |
-| 37 | [Sleigh Ride](https://open.spotify.com/track/7ijbpqdujMMMbyV3sl6yIQ) | [Seth MacFarlane](https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW), [Liz Gillies](https://open.spotify.com/artist/7pLntWGInZPQxc4kXxzzjB) | [Sleigh Ride](https://open.spotify.com/album/4AAqIoIry72zXyaCm9vm9u) | 3:18 |
-| 38 | [Dig That Crazy Santa Claus](https://open.spotify.com/track/4O5E6N6uBTIydv9A3eQD4k) | [Ralph Marterie](https://open.spotify.com/artist/6RMVDGTwRURNgXI8gjgi38), [Ralph Marterie and His Orchestra](https://open.spotify.com/artist/44LkEyiTIZeDfX8ZPbtZfg) | [Merry Christmas](https://open.spotify.com/album/4v2byuh7XMZGBrYjH3XnBx) | 2:32 |
+| 37 | [Dig That Crazy Santa Claus](https://open.spotify.com/track/4O5E6N6uBTIydv9A3eQD4k) | [Ralph Marterie](https://open.spotify.com/artist/6RMVDGTwRURNgXI8gjgi38), [Ralph Marterie and His Orchestra](https://open.spotify.com/artist/44LkEyiTIZeDfX8ZPbtZfg) | [Merry Christmas](https://open.spotify.com/album/4v2byuh7XMZGBrYjH3XnBx) | 2:32 |
+| 38 | [Sleigh Ride](https://open.spotify.com/track/7ijbpqdujMMMbyV3sl6yIQ) | [Seth MacFarlane](https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW), [Liz Gillies](https://open.spotify.com/artist/7pLntWGInZPQxc4kXxzzjB) | [Sleigh Ride](https://open.spotify.com/album/4AAqIoIry72zXyaCm9vm9u) | 3:18 |
 | 39 | [We Three Kings](https://open.spotify.com/track/6Z2g3GpvZOGBzWIJw4gVNz) | [Dave Brubeck](https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E), [Dan Brubeck](https://open.spotify.com/artist/5oNGGsBfgmOvE1chDG7d7l), [Bill Smith](https://open.spotify.com/artist/4Omy5P9r7PiXYje9h4jMkz), [Jack Six](https://open.spotify.com/artist/1U4WRe8pBbGcOghtCrcstX), [Randy Jones](https://open.spotify.com/artist/4kOaMV5TNik6XpIE0med9d) | [Hot Jazz for a Cool Night: a Jazz Christmas](https://open.spotify.com/album/02iLLB1FrzSb0V0pRqpjHS) | 3:00 |
 | 40 | [Little Saint Nick](https://open.spotify.com/track/3P6tmwGm7rkztBLjgQ6A7F) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [Little Saint Nick](https://open.spotify.com/album/2O4ORdButEzDMcODSjzCJw) | 3:35 |
 | 41 | [Rudolph, the Red\-Nosed Reindeer](https://open.spotify.com/track/0QnznO6imspkpxHFY1c34b) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx), [Matthew Barber](https://open.spotify.com/artist/2mhqgf0GxdfXpO6gwLohyX) | [Rudolph, the Red\-Nosed Reindeer](https://open.spotify.com/album/6lal9JhZK4ctetNcVb4OJK) | 2:36 |

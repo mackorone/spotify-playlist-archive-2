@@ -4,7 +4,7 @@
 
 > This is Mon Laferte\. The essential tracks, all in one playlist.
 
-99 songs - 6 hr 11 min
+100 songs - 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [No Te Me Quites De Acá](https://open.spotify.com/track/0kMMVzmtMFoP2us11Em5Tv) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Norma](https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq) | 3:04 | 2026-02-11 | 2026-03-10 |
 | [NO+SAD](https://open.spotify.com/track/1hdpMoNDNKvsgosL6c7ywF) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [NO+SAD](https://open.spotify.com/album/5PayAvswrSHHs3J0nrnIam) | 2:54 | 2023-11-10 | 2023-12-14 |
 | [NO+SAD](https://open.spotify.com/track/4CbeNOtHNUfy6yaQzlOQ2B) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Autopoiética](https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI) | 2:54 | 2023-12-25 | 2024-12-22 |
+| [Nuestra Casa](https://open.spotify.com/track/32PLngqOwuA7jZzfZVk6Wb) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Nuestra Casa](https://open.spotify.com/album/32fF4N6NziEurvlun5ut92) | 3:48 | 2026-04-14 |  |
 | [Obra de Dios](https://open.spotify.com/track/764bq55JYDxvXkF8I37VQp) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Obra de Dios](https://open.spotify.com/album/6TqGWylbqFXWCfC4Ytke1a) | 3:37 | 2024-02-17 | 2024-07-08 |
 | [Ocupa Mi Piel](https://open.spotify.com/track/0cWcCyz2Z0xouTi7G4iUoT) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [FEMME FATALE](https://open.spotify.com/album/7q2GxttTFDWOihvnSWdwWw) | 3:45 | 2025-11-05 |  |
 | [Otra Noche de Llorar](https://open.spotify.com/track/4oP6sZWbkC3fJghTsyOgkZ) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [FEMME FATALE](https://open.spotify.com/album/7q2GxttTFDWOihvnSWdwWw) | 3:39 | 2025-11-15 |  |
@@ -85,7 +86,7 @@
 | [Química Mayor](https://open.spotify.com/track/1G9wM0DIuyxn0m0QeENIkl) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [1940 Carmen](https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL) | 3:51 | 2023-03-24 |  |
 | [Rue Vieille Du Temple \- Live](https://open.spotify.com/track/3a9KZagWgkTU2YSsCtlMRl) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Metrópolis \(Live\)](https://open.spotify.com/album/6tfg5rWLaauuz4b9009iQT) | 3:59 | 2023-03-24 |  |
 | [Sasha, Sissi y el Círculo de Baba \- EADDA9223 \(feat\. Mon Laferte\)](https://open.spotify.com/track/0HdRf23VtIRpUdHH3mZc3L) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [EADDA9223](https://open.spotify.com/album/4VdWh8m5cYm3XI6dhayGIg) | 3:58 | 2023-06-02 | 2024-04-29 |
-| [Se Me Va A Quemar El Corazón](https://open.spotify.com/track/3bazgu5pF9cKUSLv1QukL7) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [SEIS](https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF) | 3:58 | 2023-03-24 |  |
+| [Se Me Va A Quemar El Corazón](https://open.spotify.com/track/3bazgu5pF9cKUSLv1QukL7) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [SEIS](https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF) | 3:58 | 2023-03-24 | 2026-04-14 |
 | [Se Portaba Mal](https://open.spotify.com/track/3TZEryQOpvy8ix7XGmiw6b) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Mesa Para Dos](https://open.spotify.com/album/1ZGHMTg7kh6TRqDRkJyEHO) | 3:15 | 2023-03-24 |  |
 | [Si Tú Me Quisieras](https://open.spotify.com/track/7EySX8ldJHoeWjJhJyZ8Tq) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Mon Laferte \(Vol\. 1\)](https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0) | 3:22 | 2023-03-24 |  |
 | [Supermercado](https://open.spotify.com/track/7L72ZKa8nvYc0SvrYkhoux) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [1940 Carmen](https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL) | 3:34 | 2023-03-24 |  |

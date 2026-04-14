@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 
 > Um pouco de reggae pra acompanhar a brisa do mar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 419,472 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 419,516 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 | 20 | [RASTAFARI](https://open.spotify.com/track/1vK57Ufl3GsX5zrT9ZiRf7) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Palma](https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp), [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ) | [RASTAFARI](https://open.spotify.com/album/63qxJ2WUYGI97N0litTHEG) | 2:07 |
 | 21 | [Vitória](https://open.spotify.com/track/7Cm5N53OPd5szi1KsD4a1d) | [Marcelo Falcão](https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr) | [Vitória](https://open.spotify.com/album/0ZVIlN470lRMTipVeCUkJw) | 3:29 |
 | 22 | [O CÉU TÁ ROSA \(Mr\. Pampers\)](https://open.spotify.com/track/4lRx7aoTCEcDB9WNc5NtjO) | [Maipê](https://open.spotify.com/artist/29TGZb5S8iVFN9HzowvnPV), [Fabio Brazza](https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN), [Fabinho K](https://open.spotify.com/artist/7q2HAGnWhT2b2C8BYZG2XT), [Pedro Schin](https://open.spotify.com/artist/02nGZOh81jqa9Oh4VfMn9P), [Dias Bruno](https://open.spotify.com/artist/6o3M6GcnvbFlrZaEEmUOGk) | [O CÉU TÁ ROSA \(Mr\. Pampers\)](https://open.spotify.com/album/3yFvbMB8FgPDyHAFYngN2u) | 2:38 |
-| 23 | [Flor de Aruanda](https://open.spotify.com/track/53UWKafwpKToHDBB286Q0e) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [Flor de Aruanda](https://open.spotify.com/album/0zIowT1jTcN8v8bFa8t0Er) | 3:03 |
-| 24 | [Incenso \- Ao Vivo](https://open.spotify.com/track/7eD9Z1zuAAb45QMAewX1SY) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Maneva 20 Anos, Origem \- Ao Vivo](https://open.spotify.com/album/3SIvQGMHVSFFR7br8uCsRr) | 2:32 |
+| 23 | [Incenso \- Ao Vivo](https://open.spotify.com/track/7eD9Z1zuAAb45QMAewX1SY) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Maneva 20 Anos, Origem \- Ao Vivo](https://open.spotify.com/album/3SIvQGMHVSFFR7br8uCsRr) | 2:32 |
+| 24 | [Flor de Aruanda](https://open.spotify.com/track/53UWKafwpKToHDBB286Q0e) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [Flor de Aruanda](https://open.spotify.com/album/0zIowT1jTcN8v8bFa8t0Er) | 3:03 |
 | 25 | [Quando Você Chegou](https://open.spotify.com/track/3aq2j6kWDpS46LGABJUrOk) | [Chimarruts](https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW) | [Quando Você Chegou](https://open.spotify.com/album/5Okvk2S1pgegfoN0I2rJaP) | 2:55 |
 | 26 | [Tô Em Casa](https://open.spotify.com/track/71GwNOolQgbTqG4YQM8TNO) | [MAR ABERTO](https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO), [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Tô Em Casa](https://open.spotify.com/album/1tHXr2JpbZAyn4cS6eObs7) | 2:46 |
 | 27 | [Aeroporto \- Acústico](https://open.spotify.com/track/12KUH4m0NwR0l09s0l3jMG) | [Alma Djem](https://open.spotify.com/artist/4B8KF3OtiyDkloMmJ4qCm0), [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Aeroporto \(Acústico\)](https://open.spotify.com/album/1Qql9CAJrUhsGnZNyk1NY0) | 3:40 |

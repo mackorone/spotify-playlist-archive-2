@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 
 > ¡Lo más fresco del hip\-hop en español! Rivs, Akapellah y Santa Fe Klan en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,790 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,795 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 | 2 | [Baddie](https://open.spotify.com/track/0ETHntyQqLE16k0ch034EQ) | [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Baddie](https://open.spotify.com/album/5iHhdiPFVE8q0dMCRw4Eox) | 3:21 |
 | 3 | [Fuego](https://open.spotify.com/track/5HJBRIpUSGgrgHXX9D4AhP) | [Afromak](https://open.spotify.com/artist/00QZMNWkHo1k4dFLQVpqHK), [Selene](https://open.spotify.com/artist/3hk133tFNlWGS6SKHSeE7j) | [Fuego](https://open.spotify.com/album/4lrRrgdVuSfnU40zrg69zj) | 2:39 |
 | 4 | [Impala](https://open.spotify.com/track/62LiG8OYhQtY4WrmqU3LZo) | [Justin Morales](https://open.spotify.com/artist/5D7x9esAF6twPxuOqSMkeO), [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD) | [Impala](https://open.spotify.com/album/4ab9VakNZ2Q2nF428g6m3U) | 2:32 |
-| 5 | [FFF](https://open.spotify.com/track/3EPGWBvRxGWkPSChTBkABG) | [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [FFF](https://open.spotify.com/album/4zBseCXdGVBhWeJuq89ZVZ) | 2:44 |
+| 5 | [FFF](https://open.spotify.com/track/3EPGWBvRxGWkPSChTBkABG) | [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Soul](https://open.spotify.com/artist/4SmQWZtxkR4pOAbDQasTvl) | [FFF](https://open.spotify.com/album/4zBseCXdGVBhWeJuq89ZVZ) | 2:44 |
 | 6 | [COMO CAPO](https://open.spotify.com/track/0I7ylkGzXJqaO07xxVAY6U) | [La Cuatiza](https://open.spotify.com/artist/7hNfq19HIL0PRumBReFlsp) | [COMO CAPO](https://open.spotify.com/album/4ARCZB2v5GWLr13XncSeLt) | 2:50 |
 | 7 | [Fachada](https://open.spotify.com/track/0c7rO85nBLGvFzmPTDWZ0N) | [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS), [N\-Wise Allah](https://open.spotify.com/artist/4NGPHzbZNLMQkjtrJ2a2Sx) | [Pangea](https://open.spotify.com/album/1Jo2XDCbuC5DPeihutxNEH) | 3:26 |
 | 8 | [Perfume arábico](https://open.spotify.com/track/1RJm6R0YdjTDBbI5fWdn3f) | [R Flakkkk](https://open.spotify.com/artist/1cTlHtGv0loztFIBKGtvll), [Mir Nicolas](https://open.spotify.com/artist/0wTR1DXxJ3Ok60O4K4U9WT), [La Fuente](https://open.spotify.com/artist/0AksE9M9yPtCSfT5MRqxPp) | [Perfume arábico](https://open.spotify.com/album/5Zjt8o1zgCWCtyfQ8wws4r) | 2:56 |

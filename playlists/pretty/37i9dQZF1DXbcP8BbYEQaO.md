@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcP8BbYEQaO.md) - [plain]
 
 > Pop for neon streets, rainy windows, and everything you still feel after dark.
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,426 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,434 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcP8BbYEQaO.md) - [plain]
 | 3 | [Sick Of Love](https://open.spotify.com/track/6aPG5Atb3L3l8pZYzLrpEi) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Sick Of Love](https://open.spotify.com/album/2ETP833yyVmqvtnbnRHtxb) | 3:36 |
 | 4 | [Metamorphosis](https://open.spotify.com/track/0ceif8GsGZ3C2gjqx3feud) | [Markella](https://open.spotify.com/artist/2RMXPfuWbGwHulRBAHGqbt) | [Metamorphosis](https://open.spotify.com/album/40zbHbbtU3HyfigfSkYpJN) | 3:33 |
 | 5 | [Dying for You](https://open.spotify.com/track/0T3sHoiR3t9HtwbIOgTI7J) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wuthering Heights](https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e) | 3:02 |
-| 6 | [Burial \(from Mother Mary\)](https://open.spotify.com/track/1SO1Y6rjbEl7VfXssVG0t6) | [Anne Hathaway](https://open.spotify.com/artist/0nIyPY7J7G68WgQEOLHn0x) | [Burial \(from Mother Mary\)](https://open.spotify.com/album/5yscdemhEgEbczPVNX0oxq) | 3:09 |
+| 6 | [Burial](https://open.spotify.com/track/1SO1Y6rjbEl7VfXssVG0t6) | [Anne Hathaway](https://open.spotify.com/artist/0nIyPY7J7G68WgQEOLHn0x) | [Burial](https://open.spotify.com/album/5yscdemhEgEbczPVNX0oxq) | 3:09 |
 | 7 | [UNKNOWN LOVERZ](https://open.spotify.com/track/5GgxJ8afPLKHg4MHIxP0av) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [WOR$T GIRL IN AMERICA](https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA) | 3:19 |
 | 8 | [Pop](https://open.spotify.com/track/028i7HBfp8uE5epmx5ieMA) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 3:36 |
 | 9 | [Lucky Again](https://open.spotify.com/track/0n63xAny4NjxRNgKnboEp8) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Lucky Again](https://open.spotify.com/album/51she33GpvE2U3e6HZ41fD) | 3:01 |

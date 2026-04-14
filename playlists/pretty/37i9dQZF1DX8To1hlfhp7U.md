@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8To1hlfhp7U.md) - [plain]
 
 > Get ready for a full\-body workout
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,748 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,753 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8To1hlfhp7U.md) - [plain]
 | 23 | [Way Bigger](https://open.spotify.com/track/1HJhiNWURFxcHbCdQ2y7jt) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Chobar](https://open.spotify.com/album/0PYDvpixI39fPsmBAs3FC6) | 2:40 |
 | 24 | [Nikle Currant](https://open.spotify.com/track/5T3rp70MEW4XnWv82BDVey) | [Jassie Gill](https://open.spotify.com/artist/3xZnxcyeC0vVaJvEA9VqrA), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [Nikle Currant](https://open.spotify.com/album/7dXErOdlQlzs0pYIYmPP2c) | 3:32 |
 | 25 | [Vibe](https://open.spotify.com/track/44gJjTJwY4eba0jpNnrlld) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [MoonChild Era](https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b) | 2:35 |
-| 26 | [Fame Us \- From "Tu Yaa Main"](https://open.spotify.com/track/0YmIn035iwUAeNVrWsz9hl) | [7Bantai'Z](https://open.spotify.com/artist/0Mz9BTzWvM56Ap38mJ5zpK), [Rai Harrie](https://open.spotify.com/artist/3kJtYGxFzTH8a7q4dttHSX) | [Fame Us \(From "Tu Yaa Main"\)](https://open.spotify.com/album/6VIwccXQYAnsONDBeK9ZB9) | 3:10 |
-| 27 | [Yaari Chandigarh Waliye](https://open.spotify.com/track/2xzuUPOffYMIdOkOG7D0BI) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn) | [Mitti Da Bawa](https://open.spotify.com/album/0yrvrlpDvPM05MJQyVPKvW) | 3:04 |
+| 26 | [Yaari Chandigarh Waliye](https://open.spotify.com/track/2xzuUPOffYMIdOkOG7D0BI) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn) | [Mitti Da Bawa](https://open.spotify.com/album/0yrvrlpDvPM05MJQyVPKvW) | 3:04 |
+| 27 | [Fame Us \- From "Tu Yaa Main"](https://open.spotify.com/track/0YmIn035iwUAeNVrWsz9hl) | [7Bantai'Z](https://open.spotify.com/artist/0Mz9BTzWvM56Ap38mJ5zpK), [Rai Harrie](https://open.spotify.com/artist/3kJtYGxFzTH8a7q4dttHSX) | [Fame Us \(From "Tu Yaa Main"\)](https://open.spotify.com/album/6VIwccXQYAnsONDBeK9ZB9) | 3:10 |
 | 28 | [Sip Sip](https://open.spotify.com/track/3PKEWXIkFwSJnlGdhjivCP) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75), [Intense](https://open.spotify.com/artist/1fiV2IiPFeUHHg6LGKHF9R) | [Sip Sip](https://open.spotify.com/album/5VZK2hiVQ86cVglMLXsIga) | 3:36 |
 | 29 | [Hauli Hauli \(From "De De Pyaar De"\)](https://open.spotify.com/track/60XrRbNjDMAGUZ2xLkU9W3) | [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Mellow D](https://open.spotify.com/artist/7tH8oZj2nLERlp2hE5QNjp), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Hauli Hauli \(From "De De Pyaar De"\)](https://open.spotify.com/album/7BaHZuSZetmYHSt6anOMQg) | 3:29 |
 | 30 | [MEDAL](https://open.spotify.com/track/4K5aBuakMjnDhFa56CmlHC) | [Chandra Brar](https://open.spotify.com/artist/5sieaTASHA1VDIsOg04ubm), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [MEDAL](https://open.spotify.com/album/1UWSQ9JqRDlPfFMR89J9kf) | 2:13 |

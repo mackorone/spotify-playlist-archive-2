@@ -4,7 +4,7 @@
 
 > Die Playlist zur Wasserpfeife\. Cover: YUNG SAINT PAUL
 
-476 songs - 20 hr 3 min
+477 songs - 20 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,7 +244,7 @@
 | [Lets Go](https://open.spotify.com/track/4MSTLAs5wtW6tNeKRZEJEY) | [Zymba](https://open.spotify.com/artist/1ozEI1HiloddRy01cuXQNo) | [Lets Go](https://open.spotify.com/album/6xguilXdfJoElnaXI69ems) | 2:03 | 2026-03-30 |  |
 | [Liebestext](https://open.spotify.com/track/6ZBLTqqXM0l8YEw9Rj1JX9) | [Haaland936](https://open.spotify.com/artist/6OBEI1JlLksVqrVOJXWdRe), [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N) | [Liebestext](https://open.spotify.com/album/2S0IxG8lyHUPPBB3xeaD1N) | 3:07 | 2025-04-28 | 2025-06-20 |
 | [Like That](https://open.spotify.com/track/2rEJhTfHaRsUWwoIvRWA2m) | [Afshin Momadi](https://open.spotify.com/artist/3MhC8h0ocHe2fbl66I1pho), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Like That](https://open.spotify.com/album/22RP1h38s3HzXr9T8c7nJ8) | 3:00 | 2025-10-02 | 2026-03-22 |
-| [LIKE THAT](https://open.spotify.com/track/4DisCfHDMsNQcNvIhz1eGT) | [BILLA JOE](https://open.spotify.com/artist/72y6W9pGy97xTM44dwy3F6), [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg) | [KILL BILLS](https://open.spotify.com/album/7mZBSZP0SsGUwMtyRRZUQy) | 2:10 | 2026-02-09 |  |
+| [LIKE THAT](https://open.spotify.com/track/4DisCfHDMsNQcNvIhz1eGT) | [BILLA JOE](https://open.spotify.com/artist/72y6W9pGy97xTM44dwy3F6), [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg) | [KILL BILLS](https://open.spotify.com/album/7mZBSZP0SsGUwMtyRRZUQy) | 2:10 | 2026-02-09 | 2026-04-14 |
 | [Limousine](https://open.spotify.com/track/7rgueODA0VdgShneWKwPGp) | [Makar](https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN), [ilo 7araga](https://open.spotify.com/artist/6yljBnmcExcQrkUMJOhgga), [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO) | [Limousine](https://open.spotify.com/album/4eHMYdfTl6Mkr3m0Yd2S12) | 2:50 | 2024-10-10 | 2025-11-04 |
 | [Loft](https://open.spotify.com/track/14HEqZhk0BMLIU2QDSIghO) | [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ) | [Loft](https://open.spotify.com/album/0i87yB6MPpSHgVQCBg1r3i) | 2:12 | 2026-01-29 | 2026-03-20 |
 | [Loro Piana](https://open.spotify.com/track/6XR0CCEIctAL3v6sj7XnRr) | [Rap La Rue](https://open.spotify.com/artist/3oaGNYMn968LbpA1sthjos), [Finessim](https://open.spotify.com/artist/48MK5SlYzMfHwMaBbEoSLs) | [Loro Piana](https://open.spotify.com/album/6oA9EjtMwjat0Y2bCW75ZU) | 2:31 | 2025-02-24 | 2025-02-28 |
@@ -413,6 +413,7 @@
 | [TOUCH YOUR TOES](https://open.spotify.com/track/2KCQVy30Zx71MGeQWn9CAw) | [KALIM](https://open.spotify.com/artist/2NJWI8byqTSqDaJRnqJY2z), [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN) | [FREE GAME](https://open.spotify.com/album/6Eu3XzDC5W4fizaH095QIR) | 2:17 | 2026-02-09 | 2026-02-15 |
 | [Toxicgirl II](https://open.spotify.com/track/0cIC015EZJbgmcOZJ7Fc4P) | [YAKARY](https://open.spotify.com/artist/6cpOyiEibAAlRlUF4Kk3vI) | [Toxicgirl II](https://open.spotify.com/album/5Qap87bFrs5nxm1u3XBln9) | 2:21 | 2025-07-17 | 2025-07-25 |
 | [TRAPPER'S LULLABY](https://open.spotify.com/track/11zZDUazgO4zMrW03q2fWo) | [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [TRAPPER'S LULLABY](https://open.spotify.com/album/3BELR2rzU6HU14t2cShe3Z) | 4:12 | 2025-06-19 | 2026-04-10 |
+| [Tränen](https://open.spotify.com/track/3SuV6AsyVr9FMWvJh4npGc) | [SHABAB](https://open.spotify.com/artist/1pOuPivcxEwA8lnpMYYVsO) | [Tränen](https://open.spotify.com/album/7BLdOKUG9vEiZ7a5nQ6vIe) | 2:52 | 2026-04-09 |  |
 | [TURN ME UP](https://open.spotify.com/track/3r8VSI9LDM04rYpx45dYvz) | [Jamal](https://open.spotify.com/artist/3DwUvt0kzO3j1fMQa6UfTU), [Mali](https://open.spotify.com/artist/1EpUTpT8KmlB2uDzLNK9d5), [HoodBlaq](https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm) | [TURN ME UP](https://open.spotify.com/album/5MqYUz0wVNfzrfHdinE3bo) | 2:23 | 2025-11-26 |  |
 | [Tutto Bene](https://open.spotify.com/track/7iOadzb2kNGSR0vuZk1DD9) | [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Tutto Bene](https://open.spotify.com/album/6hp9ryEwD5QwQ7uztaEcMD) | 3:39 | 2025-06-09 | 2026-03-20 |
 | [TWINS](https://open.spotify.com/track/3ouqRo2zDJjewIao5CFFGN) | [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [TWINS](https://open.spotify.com/album/7KYwwV8y6KiffiOeIHaIiJ) | 2:58 | 2025-07-28 | 2025-08-08 |

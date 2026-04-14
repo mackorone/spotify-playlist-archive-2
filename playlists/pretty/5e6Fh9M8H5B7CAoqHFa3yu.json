@@ -1,13 +1,61 @@
 {
   "description": "forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify",
-  "num_followers": 306,
+  "num_followers": 305,
   "original_name": "forever young Playlist Spotify",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAJMoc+RmAYoxneR7lNTVzi8Jivc8rb",
+  "snapshot_id": "AAAJNrNmJYDF71zQ3vMxIBDasyfUi34R",
   "tracks": [
+    {
+      "added_at": "2026-04-13 10:40:02",
+      "album": {
+        "name": "Nature's White Noise: LoFi for Deep Focus",
+        "url": "https://open.spotify.com/album/6epj6a6Ml495zUCUst2TzY"
+      },
+      "artists": [
+        {
+          "name": "LoFi Bits",
+          "url": "https://open.spotify.com/artist/7w6hMq10imqDIY64cY4sFT"
+        }
+      ],
+      "duration_ms": 318619,
+      "name": "Nimbus",
+      "url": "https://open.spotify.com/track/3HcO0heDVrD7Ox9y6hNV3T"
+    },
+    {
+      "added_at": "2026-04-13 10:39:14",
+      "album": {
+        "name": "Almost 30",
+        "url": "https://open.spotify.com/album/0AzRiZVD2H5jmQNawa46lT"
+      },
+      "artists": [
+        {
+          "name": "Dina D",
+          "url": "https://open.spotify.com/artist/1zTLkYtuX94wYdAVbDhQIE"
+        }
+      ],
+      "duration_ms": 213889,
+      "name": "Almost 30",
+      "url": "https://open.spotify.com/track/6mzyL7GpeG2kl6kvW7uYh4"
+    },
+    {
+      "added_at": "2026-04-13 10:39:01",
+      "album": {
+        "name": "Neon Breeze",
+        "url": "https://open.spotify.com/album/2x0AfSoEFCz2uVWpDyptQW"
+      },
+      "artists": [
+        {
+          "name": "Timeless Tunes",
+          "url": "https://open.spotify.com/artist/0HrsERv5X1kKsTzjGZhPrN"
+        }
+      ],
+      "duration_ms": 162560,
+      "name": "Neon Breeze",
+      "url": "https://open.spotify.com/track/6E0So76OiY5EdlnDdlA1L9"
+    },
     {
       "added_at": "2026-03-30 10:29:12",
       "album": {
@@ -37223,6 +37271,22 @@
       "duration_ms": 312000,
       "name": "Rituals",
       "url": "https://open.spotify.com/track/22jnSqBJ5fxftDizxD4sid"
+    },
+    {
+      "added_at": "2026-04-13 08:56:08",
+      "album": {
+        "name": "\u041a\u043e\u0441\u043c\u043e\u0441 \u0436\u0434\u0451\u0442!",
+        "url": "https://open.spotify.com/album/3aEUPND51PH4Kw466Tw49M"
+      },
+      "artists": [
+        {
+          "name": "Kutas",
+          "url": "https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq"
+        }
+      ],
+      "duration_ms": 284200,
+      "name": "\u041a\u043e\u0441\u043c\u043e\u0441 \u0436\u0434\u0451\u0442!",
+      "url": "https://open.spotify.com/track/3eI5TOZVCiR9F1UGgBunrq"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

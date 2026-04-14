@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Netherlands.",
-  "num_followers": 917827,
+  "num_followers": 917835,
   "original_name": "Top 50 - Netherlands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MW8KoAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MXBXcAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-04-12 14:06:39",
+      "added_at": "2026-04-13 14:40:30",
       "album": {
         "name": "FEVER DREAM",
         "url": "https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ"
     },
     {
-      "added_at": "2026-04-12 14:06:39",
+      "added_at": "2026-04-13 14:40:30",
       "album": {
         "name": "The Romantic",
         "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
@@ -41,27 +41,7 @@
       "url": "https://open.spotify.com/track/6f68Ac5tt5BQOpwr0BV9oN"
     },
     {
-      "added_at": "2026-04-12 14:06:39",
-      "album": {
-        "name": "F*CK KLEINE",
-        "url": "https://open.spotify.com/album/3mcN8R48O873EDOnBNbyuk"
-      },
-      "artists": [
-        {
-          "name": "Lil Kleine",
-          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
-        },
-        {
-          "name": "Milolaathetlukken",
-          "url": "https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i"
-        }
-      ],
-      "duration_ms": 169868,
-      "name": "Lijntje",
-      "url": "https://open.spotify.com/track/6oKMItNFA2iAtqdQbV9bXm"
-    },
-    {
-      "added_at": "2026-04-12 14:06:39",
+      "added_at": "2026-04-13 14:40:30",
       "album": {
         "name": "iloveitiloveitiloveit",
         "url": "https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF"
@@ -77,7 +57,23 @@
       "url": "https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV"
     },
     {
-      "added_at": "2026-04-12 14:06:39",
+      "added_at": "2026-04-13 14:40:30",
+      "album": {
+        "name": "Don't Forget About Me, Demos",
+        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 97960,
+      "name": "Babydoll",
+      "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
+    },
+    {
+      "added_at": "2026-04-13 14:40:30",
       "album": {
         "name": "Bare Minimum (Starboy)",
         "url": "https://open.spotify.com/album/3vnMnkcCgl4jF9E1IlKV4j"
@@ -101,43 +97,27 @@
       "url": "https://open.spotify.com/track/6GhAQffyGx6IgDejJQC4yR"
     },
     {
-      "added_at": "2026-04-12 14:06:39",
+      "added_at": "2026-04-13 14:40:30",
       "album": {
-        "name": "Don't Forget About Me, Demos",
-        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
+        "name": "F*CK KLEINE",
+        "url": "https://open.spotify.com/album/3mcN8R48O873EDOnBNbyuk"
       },
       "artists": [
         {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 97960,
-      "name": "Babydoll",
-      "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
-    },
-    {
-      "added_at": "2026-04-12 14:06:39",
-      "album": {
-        "name": "Mo\u00ebt Dat Nou",
-        "url": "https://open.spotify.com/album/7F5D4dM8ANyl1zY5V7knze"
-      },
-      "artists": [
-        {
-          "name": "Robert van Hemert",
-          "url": "https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k"
+          "name": "Lil Kleine",
+          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
         },
         {
-          "name": "Donnie",
-          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
+          "name": "Milolaathetlukken",
+          "url": "https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i"
         }
       ],
-      "duration_ms": 154691,
-      "name": "Mo\u00ebt Dat Nou",
-      "url": "https://open.spotify.com/track/0HWjXL4layDbYbCj21uzd8"
+      "duration_ms": 169868,
+      "name": "Lijntje",
+      "url": "https://open.spotify.com/track/6oKMItNFA2iAtqdQbV9bXm"
     },
     {
-      "added_at": "2026-04-12 14:06:39",
+      "added_at": "2026-04-13 14:40:30",
       "album": {
         "name": "People Watching (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4gwfCCNRxAB1P62hlDCelM"
@@ -157,7 +137,7 @@
       "url": "https://open.spotify.com/track/0MUXBhPUDF8or0kfQ0EHwV"
     },
     {
-      "added_at": "2026-04-12 14:06:39",
+      "added_at": "2026-04-13 14:40:30",
       "album": {
         "name": "Man I Need",
         "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
@@ -173,55 +153,7 @@
       "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
     },
     {
-      "added_at": "2026-04-12 14:06:39",
-      "album": {
-        "name": "F*CK KLEINE",
-        "url": "https://open.spotify.com/album/3mcN8R48O873EDOnBNbyuk"
-      },
-      "artists": [
-        {
-          "name": "Lil Kleine",
-          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
-        }
-      ],
-      "duration_ms": 164336,
-      "name": "Drugsprobleem",
-      "url": "https://open.spotify.com/track/7ti3nQsrUICVd2B9z6EsV1"
-    },
-    {
-      "added_at": "2026-04-12 14:06:39",
-      "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 200646,
-      "name": "Lush Life",
-      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
-    },
-    {
-      "added_at": "2026-04-12 14:06:39",
-      "album": {
-        "name": "The Art of Loving",
-        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "So Easy (To Fall In Love)",
-      "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
-    },
-    {
-      "added_at": "2026-04-12 14:06:39",
+      "added_at": "2026-04-13 14:40:30",
       "album": {
         "name": "White Keys",
         "url": "https://open.spotify.com/album/0PRccyeXfXZBxi8dkIv17c"
@@ -237,27 +169,39 @@
       "url": "https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI"
     },
     {
-      "added_at": "2026-04-12 14:06:39",
+      "added_at": "2026-04-13 14:40:30",
       "album": {
-        "name": "Talk To You",
-        "url": "https://open.spotify.com/album/374Z5kI6lNCztQV7HItzUJ"
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
       },
       "artists": [
         {
-          "name": "ANOTR",
-          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
-        },
-        {
-          "name": "54 Ultra",
-          "url": "https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ"
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
         }
       ],
-      "duration_ms": 191076,
-      "name": "Talk To You",
-      "url": "https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v"
+      "duration_ms": 200646,
+      "name": "Lush Life",
+      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
     },
     {
-      "added_at": "2026-04-12 14:06:39",
+      "added_at": "2026-04-13 14:40:30",
+      "album": {
+        "name": "The Art of Loving",
+        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "So Easy (To Fall In Love)",
+      "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
+    },
+    {
+      "added_at": "2026-04-13 14:40:30",
       "album": {
         "name": "The Boy Who Played the Harp",
         "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
@@ -277,7 +221,27 @@
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
     },
     {
-      "added_at": "2026-04-12 14:06:39",
+      "added_at": "2026-04-13 14:40:30",
+      "album": {
+        "name": "Mo\u00ebt Dat Nou",
+        "url": "https://open.spotify.com/album/7F5D4dM8ANyl1zY5V7knze"
+      },
+      "artists": [
+        {
+          "name": "Robert van Hemert",
+          "url": "https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k"
+        },
+        {
+          "name": "Donnie",
+          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
+        }
+      ],
+      "duration_ms": 154691,
+      "name": "Mo\u00ebt Dat Nou",
+      "url": "https://open.spotify.com/track/0HWjXL4layDbYbCj21uzd8"
+    },
+    {
+      "added_at": "2026-04-13 14:40:30",
       "album": {
         "name": "THIS MUSIC MAY CONTAIN HOPE.",
         "url": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
@@ -293,7 +257,27 @@
       "url": "https://open.spotify.com/track/7eYzn1CuiJK6VvUhf8zA6k"
     },
     {
-      "added_at": "2026-04-12 14:06:39",
+      "added_at": "2026-04-13 14:40:30",
+      "album": {
+        "name": "Talk To You",
+        "url": "https://open.spotify.com/album/374Z5kI6lNCztQV7HItzUJ"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "54 Ultra",
+          "url": "https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ"
+        }
+      ],
+      "duration_ms": 191076,
+      "name": "Talk To You",
+      "url": "https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v"
+    },
+    {
+      "added_at": "2026-04-13 14:40:30",
       "album": {
         "name": "I Barely Know Her",
         "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
@@ -309,23 +293,23 @@
       "url": "https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W"
     },
     {
-      "added_at": "2026-04-12 14:06:39",
+      "added_at": "2026-04-13 14:40:30",
       "album": {
-        "name": "Magnetic / Addicted To Your Love",
-        "url": "https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8"
+        "name": "F*CK KLEINE",
+        "url": "https://open.spotify.com/album/3mcN8R48O873EDOnBNbyuk"
       },
       "artists": [
         {
-          "name": "The Bausa",
-          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
+          "name": "Lil Kleine",
+          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
         }
       ],
-      "duration_ms": 181384,
-      "name": "Magnetic",
-      "url": "https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt"
+      "duration_ms": 164336,
+      "name": "Drugsprobleem",
+      "url": "https://open.spotify.com/track/7ti3nQsrUICVd2B9z6EsV1"
     },
     {
-      "added_at": "2026-04-12 14:06:39",
+      "added_at": "2026-04-13 14:40:30",
       "album": {
         "name": "Homewrecker",
         "url": "https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4"
@@ -341,63 +325,7 @@
       "url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z"
     },
     {
-      "added_at": "2026-04-12 14:06:39",
-      "album": {
-        "name": "Uitslover",
-        "url": "https://open.spotify.com/album/6YDru2ioziRTAmmZ4iDZS6"
-      },
-      "artists": [
-        {
-          "name": "Samuel Welten",
-          "url": "https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9"
-        },
-        {
-          "name": "Bankzitters",
-          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
-        }
-      ],
-      "duration_ms": 155998,
-      "name": "Uitslover",
-      "url": "https://open.spotify.com/track/3HUpSJBn9COpunhZJczbQw"
-    },
-    {
-      "added_at": "2026-04-12 14:06:39",
-      "album": {
-        "name": "The Romantic",
-        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 204068,
-      "name": "Risk It All",
-      "url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD"
-    },
-    {
-      "added_at": "2026-04-12 14:06:39",
-      "album": {
-        "name": "Zootopia 2 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2i1QqSI3UmOsQf12CQUdRN"
-      },
-      "artists": [
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        },
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 190822,
-      "name": "Zoo",
-      "url": "https://open.spotify.com/track/3vJIaiTIHxHhYafTSPNiH4"
-    },
-    {
-      "added_at": "2026-04-12 14:06:39",
+      "added_at": "2026-04-13 14:40:30",
       "album": {
         "name": "Fancy Some More?",
         "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
@@ -417,7 +345,59 @@
       "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
     },
     {
-      "added_at": "2026-04-12 14:06:39",
+      "added_at": "2026-04-13 14:40:30",
+      "album": {
+        "name": "The Romantic",
+        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 204068,
+      "name": "Risk It All",
+      "url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD"
+    },
+    {
+      "added_at": "2026-04-13 14:40:30",
+      "album": {
+        "name": "Magnetic / Addicted To Your Love",
+        "url": "https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8"
+      },
+      "artists": [
+        {
+          "name": "The Bausa",
+          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
+        }
+      ],
+      "duration_ms": 181384,
+      "name": "Magnetic",
+      "url": "https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt"
+    },
+    {
+      "added_at": "2026-04-13 14:40:30",
+      "album": {
+        "name": "Zootopia 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2i1QqSI3UmOsQf12CQUdRN"
+      },
+      "artists": [
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 190822,
+      "name": "Zoo",
+      "url": "https://open.spotify.com/track/3vJIaiTIHxHhYafTSPNiH4"
+    },
+    {
+      "added_at": "2026-04-13 14:40:30",
       "album": {
         "name": "The Life of a Showgirl",
         "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
@@ -433,79 +413,27 @@
       "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
     },
     {
-      "added_at": "2026-04-12 14:06:39",
+      "added_at": "2026-04-13 14:40:30",
       "album": {
-        "name": "Echte Liefde Is Te Koop",
-        "url": "https://open.spotify.com/album/5FdoE9L40YPXKy7co8DDbR"
+        "name": "Uitslover",
+        "url": "https://open.spotify.com/album/6YDru2ioziRTAmmZ4iDZS6"
       },
       "artists": [
         {
           "name": "Samuel Welten",
           "url": "https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9"
-        }
-      ],
-      "duration_ms": 152659,
-      "name": "Echte Liefde Is Te Koop",
-      "url": "https://open.spotify.com/track/7tW2Md8xOwnKPIYhCqPiU4"
-    },
-    {
-      "added_at": "2026-04-12 14:06:39",
-      "album": {
-        "name": "Halverwege",
-        "url": "https://open.spotify.com/album/6yDTfOWKUkEpLNGXI3Dsbt"
-      },
-      "artists": [
-        {
-          "name": "Suzan & Freek",
-          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
-        }
-      ],
-      "duration_ms": 170125,
-      "name": "Halverwege",
-      "url": "https://open.spotify.com/track/6wBrm0ObemKtg0nGjnQiNN"
-    },
-    {
-      "added_at": "2026-04-12 14:06:39",
-      "album": {
-        "name": "Waar Blijf Je Nou",
-        "url": "https://open.spotify.com/album/5bVeC1xSb9cerOTLbVCKDJ"
-      },
-      "artists": [
-        {
-          "name": "Donnie",
-          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
         },
         {
-          "name": "Senna",
-          "url": "https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ"
+          "name": "Bankzitters",
+          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
         }
       ],
-      "duration_ms": 178432,
-      "name": "Waar Blijf Je Nou",
-      "url": "https://open.spotify.com/track/3zPB1hMsorvAEiIl88JOpr"
+      "duration_ms": 155998,
+      "name": "Uitslover",
+      "url": "https://open.spotify.com/track/3HUpSJBn9COpunhZJczbQw"
     },
     {
-      "added_at": "2026-04-12 14:06:39",
-      "album": {
-        "name": "F*CK KLEINE",
-        "url": "https://open.spotify.com/album/3mcN8R48O873EDOnBNbyuk"
-      },
-      "artists": [
-        {
-          "name": "Lil Kleine",
-          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
-        },
-        {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
-        }
-      ],
-      "duration_ms": 149615,
-      "name": "Fashionweek",
-      "url": "https://open.spotify.com/track/0FHdzLxk4D3vQ1Tg2s54MM"
-    },
-    {
-      "added_at": "2026-04-12 14:06:39",
+      "added_at": "2026-04-13 14:40:30",
       "album": {
         "name": "You'll Be Alright, Kid (Chapter 1)",
         "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
@@ -521,39 +449,7 @@
       "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
     },
     {
-      "added_at": "2026-04-12 14:06:39",
-      "album": {
-        "name": "Ola ole olee",
-        "url": "https://open.spotify.com/album/7ngcrCDOECtSKA9ONeMwOq"
-      },
-      "artists": [
-        {
-          "name": "Kinderen voor Kinderen",
-          "url": "https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN"
-        }
-      ],
-      "duration_ms": 173312,
-      "name": "Ola ole olee",
-      "url": "https://open.spotify.com/track/0Ul3G0uGWfI2qPYjVVv4ix"
-    },
-    {
-      "added_at": "2026-04-12 14:06:39",
-      "album": {
-        "name": "Rumours (Super Deluxe)",
-        "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 257800,
-      "name": "Dreams - 2004 Remaster",
-      "url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz"
-    },
-    {
-      "added_at": "2026-04-12 14:06:39",
+      "added_at": "2026-04-13 14:40:30",
       "album": {
         "name": "Midnight Sun",
         "url": "https://open.spotify.com/album/2IdHrETl3jsOYQRsF0nV16"
@@ -569,39 +465,39 @@
       "url": "https://open.spotify.com/track/1qRV1dKLOfH1s00b9J2LUQ"
     },
     {
-      "added_at": "2026-04-12 14:06:39",
+      "added_at": "2026-04-13 14:40:30",
       "album": {
-        "name": "Kiss All The Time. Disco, Occasionally.",
-        "url": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
+        "name": "Halverwege",
+        "url": "https://open.spotify.com/album/6yDTfOWKUkEpLNGXI3Dsbt"
       },
       "artists": [
         {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+          "name": "Suzan & Freek",
+          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
         }
       ],
-      "duration_ms": 213440,
-      "name": "American Girls",
-      "url": "https://open.spotify.com/track/7gtG45ieyQzKtNKobfLd49"
+      "duration_ms": 170125,
+      "name": "Halverwege",
+      "url": "https://open.spotify.com/track/6wBrm0ObemKtg0nGjnQiNN"
     },
     {
-      "added_at": "2026-04-12 14:06:39",
+      "added_at": "2026-04-13 14:40:30",
       "album": {
-        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
-        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+        "name": "Rumours (Super Deluxe)",
+        "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 237117,
-      "name": "DtMF",
-      "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
+      "duration_ms": 257800,
+      "name": "Dreams - 2004 Remaster",
+      "url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz"
     },
     {
-      "added_at": "2026-04-12 14:06:39",
+      "added_at": "2026-04-13 14:40:30",
       "album": {
         "name": "Dracula (Remix)",
         "url": "https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK"
@@ -621,23 +517,39 @@
       "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
     },
     {
-      "added_at": "2026-04-12 14:06:39",
+      "added_at": "2026-04-13 14:40:30",
       "album": {
-        "name": "Baila de Gasolina",
-        "url": "https://open.spotify.com/album/2ojXXfh1QKhimrvz4wt97G"
+        "name": "Kiss All The Time. Disco, Occasionally.",
+        "url": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
       },
       "artists": [
         {
-          "name": "Effe Serieus",
-          "url": "https://open.spotify.com/artist/3NRhf1UyPB4XwxBq1eQE93"
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         }
       ],
-      "duration_ms": 140782,
-      "name": "Baila de Gasolina",
-      "url": "https://open.spotify.com/track/43TPlT0l0HXLtKUOUoY3gY"
+      "duration_ms": 213440,
+      "name": "American Girls",
+      "url": "https://open.spotify.com/track/7gtG45ieyQzKtNKobfLd49"
     },
     {
-      "added_at": "2026-04-12 14:06:39",
+      "added_at": "2026-04-13 14:40:30",
+      "album": {
+        "name": "Ola ole olee",
+        "url": "https://open.spotify.com/album/7ngcrCDOECtSKA9ONeMwOq"
+      },
+      "artists": [
+        {
+          "name": "Kinderen voor Kinderen",
+          "url": "https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN"
+        }
+      ],
+      "duration_ms": 173312,
+      "name": "Ola ole olee",
+      "url": "https://open.spotify.com/track/0Ul3G0uGWfI2qPYjVVv4ix"
+    },
+    {
+      "added_at": "2026-04-13 14:40:30",
       "album": {
         "name": "F*CK KLEINE",
         "url": "https://open.spotify.com/album/3mcN8R48O873EDOnBNbyuk"
@@ -646,14 +558,86 @@
         {
           "name": "Lil Kleine",
           "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
+        },
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
         }
       ],
-      "duration_ms": 91659,
-      "name": "Lekker voor je",
-      "url": "https://open.spotify.com/track/569VDLpdTDuLFU1VFd2jBZ"
+      "duration_ms": 149615,
+      "name": "Fashionweek",
+      "url": "https://open.spotify.com/track/0FHdzLxk4D3vQ1Tg2s54MM"
     },
     {
-      "added_at": "2026-04-12 14:06:39",
+      "added_at": "2026-04-13 14:40:30",
+      "album": {
+        "name": "PINKY UP",
+        "url": "https://open.spotify.com/album/5tLy0MEMDVqiHKso6B4jnz"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "duration_ms": 131437,
+      "name": "PINKY UP",
+      "url": "https://open.spotify.com/track/4KmkJjHTNlr1jFY56Lyz4E"
+    },
+    {
+      "added_at": "2026-04-13 14:40:30",
+      "album": {
+        "name": "Waar Blijf Je Nou",
+        "url": "https://open.spotify.com/album/5bVeC1xSb9cerOTLbVCKDJ"
+      },
+      "artists": [
+        {
+          "name": "Donnie",
+          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
+        },
+        {
+          "name": "Senna",
+          "url": "https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ"
+        }
+      ],
+      "duration_ms": 178432,
+      "name": "Waar Blijf Je Nou",
+      "url": "https://open.spotify.com/track/3zPB1hMsorvAEiIl88JOpr"
+    },
+    {
+      "added_at": "2026-04-13 14:40:30",
+      "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 237117,
+      "name": "DtMF",
+      "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
+    },
+    {
+      "added_at": "2026-04-13 14:40:30",
+      "album": {
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 159245,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
+    },
+    {
+      "added_at": "2026-04-13 14:40:30",
       "album": {
         "name": "(When You Gonna) Give It Up to Me",
         "url": "https://open.spotify.com/album/25eRITKk6jXXJLAxA3M5b3"
@@ -673,47 +657,75 @@
       "url": "https://open.spotify.com/track/5nEdwtSv0qqeE0l4o1lR4q"
     },
     {
-      "added_at": "2026-04-12 14:06:39",
+      "added_at": "2026-04-13 14:40:30",
       "album": {
-        "name": "Turn The Lights Off",
-        "url": "https://open.spotify.com/album/2dFpvDuPJp8QOKDfVEcrzw"
+        "name": "Echte Liefde Is Te Koop",
+        "url": "https://open.spotify.com/album/5FdoE9L40YPXKy7co8DDbR"
       },
       "artists": [
         {
-          "name": "Just\u0117",
-          "url": "https://open.spotify.com/artist/0LWUxoJXKsDsPenrHZ0key"
-        },
-        {
-          "name": "Jaxstyle",
-          "url": "https://open.spotify.com/artist/3G1KNyIiGISpRGVPWbst6P"
-        },
-        {
-          "name": "Jon",
-          "url": "https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI"
+          "name": "Samuel Welten",
+          "url": "https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9"
         }
       ],
-      "duration_ms": 162717,
-      "name": "Turn The Lights Off",
-      "url": "https://open.spotify.com/track/5TV7JnCTbwPD6yIVVFJrLb"
+      "duration_ms": 152659,
+      "name": "Echte Liefde Is Te Koop",
+      "url": "https://open.spotify.com/track/7tW2Md8xOwnKPIYhCqPiU4"
     },
     {
-      "added_at": "2026-04-12 14:06:39",
+      "added_at": "2026-04-13 14:40:30",
       "album": {
-        "name": "Tot Het Eind Van Mij",
-        "url": "https://open.spotify.com/album/5j5NTP6nC9pSNzmxkyaARU"
+        "name": "Waar De Ladies Zijn",
+        "url": "https://open.spotify.com/album/7sItPhIOsuhFEqT9PyPRXq"
       },
       "artists": [
         {
-          "name": "Antoon",
-          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
+          "name": "Russo",
+          "url": "https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee"
+        },
+        {
+          "name": "Matthy",
+          "url": "https://open.spotify.com/artist/0QHed4AjWDRonljqAa92EF"
         }
       ],
-      "duration_ms": 164275,
-      "name": "\u2060Tot Het Eind Van Mij",
-      "url": "https://open.spotify.com/track/6g457M17Mjisk9kbqmQMMO"
+      "duration_ms": 140625,
+      "name": "Waar De Ladies Zijn",
+      "url": "https://open.spotify.com/track/1RBAmptvCgOBmUQorOiT31"
     },
     {
-      "added_at": "2026-04-12 14:06:39",
+      "added_at": "2026-04-13 14:40:30",
+      "album": {
+        "name": "F*CK KLEINE",
+        "url": "https://open.spotify.com/album/3mcN8R48O873EDOnBNbyuk"
+      },
+      "artists": [
+        {
+          "name": "Lil Kleine",
+          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
+        }
+      ],
+      "duration_ms": 91659,
+      "name": "Lekker voor je",
+      "url": "https://open.spotify.com/track/569VDLpdTDuLFU1VFd2jBZ"
+    },
+    {
+      "added_at": "2026-04-13 14:40:30",
+      "album": {
+        "name": "Die On This Hill",
+        "url": "https://open.spotify.com/album/7GS4aKISJ2KgAm4aBhkzng"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "duration_ms": 217008,
+      "name": "Die On This Hill",
+      "url": "https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ"
+    },
+    {
+      "added_at": "2026-04-13 14:40:30",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -745,79 +757,31 @@
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
     },
     {
-      "added_at": "2026-04-12 14:06:39",
+      "added_at": "2026-04-13 14:40:30",
       "album": {
-        "name": "Die On This Hill",
-        "url": "https://open.spotify.com/album/7GS4aKISJ2KgAm4aBhkzng"
+        "name": "Turn The Lights Off",
+        "url": "https://open.spotify.com/album/2dFpvDuPJp8QOKDfVEcrzw"
       },
       "artists": [
         {
-          "name": "SIENNA SPIRO",
-          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
-        }
-      ],
-      "duration_ms": 217008,
-      "name": "Die On This Hill",
-      "url": "https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ"
-    },
-    {
-      "added_at": "2026-04-12 14:06:39",
-      "album": {
-        "name": "CD van mij",
-        "url": "https://open.spotify.com/album/5Dx0iogpXPTNFWSyTlCn3a"
-      },
-      "artists": [
-        {
-          "name": "Ronnie Flex",
-          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+          "name": "Just\u0117",
+          "url": "https://open.spotify.com/artist/0LWUxoJXKsDsPenrHZ0key"
         },
         {
-          "name": "Acda en de Munnik",
-          "url": "https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh"
-        }
-      ],
-      "duration_ms": 170453,
-      "name": "CD van mij",
-      "url": "https://open.spotify.com/track/764EyTlmlcqOlf1FyBPYif"
-    },
-    {
-      "added_at": "2026-04-12 14:06:39",
-      "album": {
-        "name": "DECIDE",
-        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 159245,
-      "name": "End of Beginning",
-      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
-    },
-    {
-      "added_at": "2026-04-12 14:06:39",
-      "album": {
-        "name": "Waar De Ladies Zijn",
-        "url": "https://open.spotify.com/album/7sItPhIOsuhFEqT9PyPRXq"
-      },
-      "artists": [
-        {
-          "name": "Russo",
-          "url": "https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee"
+          "name": "Jaxstyle",
+          "url": "https://open.spotify.com/artist/3G1KNyIiGISpRGVPWbst6P"
         },
         {
-          "name": "Matthy",
-          "url": "https://open.spotify.com/artist/0QHed4AjWDRonljqAa92EF"
+          "name": "Jon",
+          "url": "https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI"
         }
       ],
-      "duration_ms": 140625,
-      "name": "Waar De Ladies Zijn",
-      "url": "https://open.spotify.com/track/1RBAmptvCgOBmUQorOiT31"
+      "duration_ms": 162717,
+      "name": "Turn The Lights Off",
+      "url": "https://open.spotify.com/track/5TV7JnCTbwPD6yIVVFJrLb"
     },
     {
-      "added_at": "2026-04-12 14:06:39",
+      "added_at": "2026-04-13 14:40:30",
       "album": {
         "name": "Jamaican (Bam Bam)",
         "url": "https://open.spotify.com/album/5ZX3Zdp20YCGI4ruAfZlMj"
@@ -837,23 +801,27 @@
       "url": "https://open.spotify.com/track/7e4zDInS6tA2jwzphvs2Ay"
     },
     {
-      "added_at": "2026-04-12 14:06:39",
+      "added_at": "2026-04-13 14:40:30",
       "album": {
-        "name": "Niet Voor Lief",
-        "url": "https://open.spotify.com/album/2f1fUNjpmJqPLSF4PcDbFi"
+        "name": "CD van mij",
+        "url": "https://open.spotify.com/album/5Dx0iogpXPTNFWSyTlCn3a"
       },
       "artists": [
         {
-          "name": "Robert van Hemert",
-          "url": "https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k"
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        },
+        {
+          "name": "Acda en de Munnik",
+          "url": "https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh"
         }
       ],
-      "duration_ms": 147367,
-      "name": "Mona Lisa",
-      "url": "https://open.spotify.com/track/05mRvdy1w3YtLhz2sHYzrB"
+      "duration_ms": 170453,
+      "name": "CD van mij",
+      "url": "https://open.spotify.com/track/764EyTlmlcqOlf1FyBPYif"
     },
     {
-      "added_at": "2026-04-12 14:06:39",
+      "added_at": "2026-04-13 14:40:30",
       "album": {
         "name": "F*CK KLEINE",
         "url": "https://open.spotify.com/album/3mcN8R48O873EDOnBNbyuk"
@@ -869,40 +837,76 @@
       "url": "https://open.spotify.com/track/3F1wHA4m9fqnSFVsFrKzyf"
     },
     {
-      "added_at": "2026-04-12 14:06:39",
+      "added_at": "2026-04-13 14:40:30",
       "album": {
-        "name": "PINKY UP",
-        "url": "https://open.spotify.com/album/5tLy0MEMDVqiHKso6B4jnz"
+        "name": "Baila de Gasolina",
+        "url": "https://open.spotify.com/album/2ojXXfh1QKhimrvz4wt97G"
       },
       "artists": [
         {
-          "name": "KATSEYE",
-          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+          "name": "Effe Serieus",
+          "url": "https://open.spotify.com/artist/3NRhf1UyPB4XwxBq1eQE93"
         }
       ],
-      "duration_ms": 131437,
-      "name": "PINKY UP",
-      "url": "https://open.spotify.com/track/4KmkJjHTNlr1jFY56Lyz4E"
+      "duration_ms": 140782,
+      "name": "Baila de Gasolina",
+      "url": "https://open.spotify.com/track/43TPlT0l0HXLtKUOUoY3gY"
     },
     {
-      "added_at": "2026-04-12 14:06:39",
+      "added_at": "2026-04-13 14:40:30",
       "album": {
-        "name": "F*CK KLEINE",
-        "url": "https://open.spotify.com/album/3mcN8R48O873EDOnBNbyuk"
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN"
       },
       "artists": [
         {
-          "name": "Lil Kleine",
-          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         },
         {
-          "name": "Qlas",
-          "url": "https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS"
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
         }
       ],
-      "duration_ms": 197500,
-      "name": "Ghetto",
-      "url": "https://open.spotify.com/track/6PsT117KkNh469t374gnx5"
+      "duration_ms": 227986,
+      "name": "Beauty And A Beat",
+      "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
+    },
+    {
+      "added_at": "2026-04-13 14:40:30",
+      "album": {
+        "name": "Tot Het Eind Van Mij",
+        "url": "https://open.spotify.com/album/5j5NTP6nC9pSNzmxkyaARU"
+      },
+      "artists": [
+        {
+          "name": "Antoon",
+          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
+        }
+      ],
+      "duration_ms": 164275,
+      "name": "\u2060Tot Het Eind Van Mij",
+      "url": "https://open.spotify.com/track/6g457M17Mjisk9kbqmQMMO"
+    },
+    {
+      "added_at": "2026-04-13 14:40:30",
+      "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/4LrHUpnY1xu6qqvS06lzAm"
+      },
+      "artists": [
+        {
+          "name": "Yssi SB",
+          "url": "https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8"
+        },
+        {
+          "name": "KM",
+          "url": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
+        }
+      ],
+      "duration_ms": 120410,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/1wf6avCJvxMmxoSS9TdMQ0"
     }
   ],
   "unique_name": "Top 50 - Netherlands",

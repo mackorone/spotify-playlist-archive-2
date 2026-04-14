@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 
 > 
 
-[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 31,827 likes - 37 songs - 2 hr 2 min
+[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 31,827 likes - 38 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,5 +45,6 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 | 35 | [Patchwork](https://open.spotify.com/track/3BxWLwl3xcFAN0Hk5X13JD) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Paige Cavell](https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24) | [Patchwork](https://open.spotify.com/album/1jdPpk0cKJ4iQvsZfEXstU) | 3:07 |
 | 36 | [Wrong Things](https://open.spotify.com/track/1wB6r8nXiBz0EETAAT2Ysn) | [Danitsa](https://open.spotify.com/artist/0M1Kb2aco43kS4nb66HOn2), [Jarreau Vandal](https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW) | [Wrong Things](https://open.spotify.com/album/3FVMLm8MQt729AkPGPIikI) | 2:49 |
 | 37 | [Around The World](https://open.spotify.com/track/4ZVTVsWf2RkQ3EF0ieob8w) | [Ben Sterling](https://open.spotify.com/artist/79uJoLQkQ621xZy7MyH4uL), [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Around The World](https://open.spotify.com/album/1qGAXU1eeb2GbROrjzl0lA) | 3:48 |
+| 38 | [Everything U](https://open.spotify.com/track/6i2H5Guogjwx2ALTACHmTY) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Everything U](https://open.spotify.com/album/6u6pP0iEfqlP1fJPTyrkWi) | 3:30 |
 
-Snapshot ID: `AAARYualRuij9/eM2osJD1jTt+Q/QZxu`
+Snapshot ID: `AAARZlXaJwo96BbbvCrk3n0M5yS7ao2U`

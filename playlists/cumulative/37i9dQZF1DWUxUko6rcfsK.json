@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "Another Year Will Pass",
+        "url": "https://open.spotify.com/album/5upyUvc97PJ25cRb1vLLDI"
+      },
+      "artists": [
+        {
+          "name": "n\u00e9om\u00ed",
+          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195604,
+      "name": "Another Year Will Pass",
+      "url": "https://open.spotify.com/track/2kK1NHAOsnl4WmRf4Zlv9B"
+    },
+    {
+      "album": {
         "name": "Atomic City",
         "url": "https://open.spotify.com/album/5ghPJVqhDvidfznC4O7tW3"
       },
@@ -510,7 +528,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 196597,
       "name": "Could Have Been Us",
       "url": "https://open.spotify.com/track/4YnwFg1qB2E6euEB6a9v9q"
@@ -1574,7 +1592,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 167083,
       "name": "I Hope It All Works Out",
       "url": "https://open.spotify.com/track/0tdO9pgHBCo2LCmWzfwZTy"
@@ -1610,7 +1628,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 189000,
       "name": "I Want More",
       "url": "https://open.spotify.com/track/1fjB51r9GbTQDr35eCPrK9"
@@ -1726,7 +1744,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 275013,
       "name": "Il Mare Calmo della Sera (feat. Chris Stapleton)",
       "url": "https://open.spotify.com/track/6hIPQdA0r7ulZQFnMakEdh"
@@ -1748,6 +1766,24 @@
       "duration_ms": 155218,
       "name": "It Ain't Easy",
       "url": "https://open.spotify.com/track/342GqbRoRy44h9uo5yYSTq"
+    },
+    {
+      "album": {
+        "name": "It Ain't Over",
+        "url": "https://open.spotify.com/album/00CCHhMe0IXYkvWcm6vW6e"
+      },
+      "artists": [
+        {
+          "name": "Jack Jarryd",
+          "url": "https://open.spotify.com/artist/5Dam89i2XdJgnz3Gk9Achk"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176565,
+      "name": "It Ain't Over",
+      "url": "https://open.spotify.com/track/50JsgSvr7vYjmjsMdC51CG"
     },
     {
       "album": {
@@ -2653,6 +2689,24 @@
     },
     {
       "album": {
+        "name": "The Way Home",
+        "url": "https://open.spotify.com/album/2bjURBzkemslFuEbyntUFy"
+      },
+      "artists": [
+        {
+          "name": "Danny Vera",
+          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182120,
+      "name": "Plastic Jesus",
+      "url": "https://open.spotify.com/track/0KVwciQag47CcNY3VfzqId"
+    },
+    {
+      "album": {
         "name": "Polaroid",
         "url": "https://open.spotify.com/album/5euf6AsCmjTB1upXRmaII0"
       },
@@ -2802,7 +2856,7 @@
       ],
       "date_added": "2025-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 167849,
       "name": "Rescue Me",
       "url": "https://open.spotify.com/track/6layeClm9iQ1xOPYZ9zbJU"
@@ -3113,6 +3167,24 @@
     },
     {
       "album": {
+        "name": "Days Of Ash EP",
+        "url": "https://open.spotify.com/album/3vgnEcyvM5xJ479leSdeVT"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235413,
+      "name": "Song Of The Future",
+      "url": "https://open.spotify.com/track/3xbZa70HOBQpGQcaR3HqW1"
+    },
+    {
+      "album": {
         "name": "Speed Of Light",
         "url": "https://open.spotify.com/album/3KJ36A4THBFS2RDTxSjSar"
       },
@@ -3290,6 +3362,24 @@
       "duration_ms": 181370,
       "name": "Tainted",
       "url": "https://open.spotify.com/track/1KY71U9JNydW5ZxvUgemc2"
+    },
+    {
+      "album": {
+        "name": "Take Me Home",
+        "url": "https://open.spotify.com/album/0c3d9m7N9afCX5dwPyooyT"
+      },
+      "artists": [
+        {
+          "name": "Koa Rae",
+          "url": "https://open.spotify.com/artist/5OJ1k0urJj2DSWSVVzMgZw"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208125,
+      "name": "Take Me Home",
+      "url": "https://open.spotify.com/track/6tAQOq9ezWVntk5gympCFB"
     },
     {
       "album": {
@@ -3522,6 +3612,24 @@
       "duration_ms": 228402,
       "name": "The Road Ahead (Life The Way It Is) - Radio version",
       "url": "https://open.spotify.com/track/3POcaDOC7ojGvpFOdbMHgG"
+    },
+    {
+      "album": {
+        "name": "The Weatherman",
+        "url": "https://open.spotify.com/album/3a0PORSoyMPnUYKhC2SsFm"
+      },
+      "artists": [
+        {
+          "name": "Ruben Hein",
+          "url": "https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210234,
+      "name": "The Weatherman",
+      "url": "https://open.spotify.com/track/1mt0m2cxR2LoJcrdElqVQq"
     },
     {
       "album": {
@@ -3936,7 +4044,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 181785,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/6oRFmBb9C6i3GgDpI9a9Uv"

@@ -12489,6 +12489,32 @@
     },
     {
       "album": {
+        "name": "EL MEJOR HOMBRE DEL MUNDO",
+        "url": "https://open.spotify.com/album/6fdaLD9AcFrRO32HjRHyq8"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198606,
+      "name": "HOLA QU\u00c9 TAL",
+      "url": "https://open.spotify.com/track/0CnS66Yw2oYO2ldpQ4ND4M"
+    },
+    {
+      "album": {
         "name": "HOMBRE NO ES GENTE",
         "url": "https://open.spotify.com/album/3TNpcgRiVpw1XwskH8PnI8"
       },
@@ -17134,7 +17160,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 224073,
       "name": "Meiomi",
       "url": "https://open.spotify.com/track/0yOo4u7eehSNkz6U5trqQA"
@@ -26727,6 +26753,24 @@
     },
     {
       "album": {
+        "name": "Te Entiendo",
+        "url": "https://open.spotify.com/album/5TFJMVpEISXqooUpJhCuxu"
+      },
+      "artists": [
+        {
+          "name": "Maisak",
+          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185608,
+      "name": "Te Entiendo",
+      "url": "https://open.spotify.com/track/03E9tKV8v3R1YQIz3MWlMU"
+    },
+    {
+      "album": {
         "name": "Dopamina",
         "url": "https://open.spotify.com/album/2yYl7Q3GOoBjznGy0Rsc2f"
       },
@@ -27082,7 +27126,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 195789,
       "name": "teodiotequiero",
       "url": "https://open.spotify.com/track/5B1HE5AGQ2xHIyGPYgiZMO"

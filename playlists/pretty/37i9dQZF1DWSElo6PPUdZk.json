@@ -1,12 +1,12 @@
 {
   "description": "Catch the queens of Punjabi Pop. Cover: Nimrat Khaira",
-  "num_followers": 41034,
+  "num_followers": 41055,
   "original_name": "Women of Punjabi Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA+K5X0BQX5rUNNFtC4P7ekLBlB4",
+  "snapshot_id": "AAAAAA4HYPymnXbtkUhCCyzuRZOOZBJu",
   "tracks": [
     {
       "added_at": "2026-04-01 09:57:37",
@@ -127,26 +127,6 @@
     {
       "added_at": "2026-04-01 09:57:37",
       "album": {
-        "name": "Sajna Tu Na Ja",
-        "url": "https://open.spotify.com/album/3c4FUUyTDDLSnIY87z7i74"
-      },
-      "artists": [
-        {
-          "name": "Mitika Kanwar",
-          "url": "https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg"
-        },
-        {
-          "name": "Kanwar Iqbal",
-          "url": "https://open.spotify.com/artist/6U20dBUUdQB1zKhjXWhM4P"
-        }
-      ],
-      "duration_ms": 230483,
-      "name": "Sajna Tu Na Ja",
-      "url": "https://open.spotify.com/track/2A2dttM6hhDqxhCUnqvLVB"
-    },
-    {
-      "added_at": "2026-04-01 09:57:37",
-      "album": {
         "name": "Trigger Talk",
         "url": "https://open.spotify.com/album/7EqftYxGFT8wATPPUNxvVJ"
       },
@@ -191,6 +171,30 @@
       "duration_ms": 163136,
       "name": "Jee Nai Lagda",
       "url": "https://open.spotify.com/track/2QPay4gj3nUMs5L3tFe97E"
+    },
+    {
+      "added_at": "2026-04-13 14:24:12",
+      "album": {
+        "name": "OH NO",
+        "url": "https://open.spotify.com/album/5phcg8VzAXIuIONayNmygT"
+      },
+      "artists": [
+        {
+          "name": "Pari Pandher",
+          "url": "https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA"
+        },
+        {
+          "name": "Nabjot",
+          "url": "https://open.spotify.com/artist/3yhsicJ7kTjvsV6fuA72l1"
+        },
+        {
+          "name": "DONNA",
+          "url": "https://open.spotify.com/artist/5uABnMH8F1kFh5Z1iKIm0u"
+        }
+      ],
+      "duration_ms": 163636,
+      "name": "OH NO",
+      "url": "https://open.spotify.com/track/4lRyDyR3YkezjCxOoC8lVc"
     },
     {
       "added_at": "2026-04-01 09:57:37",

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1El mejor condimento para tus comidas!",
-  "num_followers": 178177,
+  "num_followers": 178186,
   "original_name": "Cocina con Cumbia",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2025-07-14 16:04:01",
       "album": {
-        "name": "Caifanes",
-        "url": "https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr"
-      },
-      "artists": [
-        {
-          "name": "Caifanes",
-          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
-        }
-      ],
-      "duration_ms": 472400,
-      "name": "La Negra Tomasa - Bilongo - Versi\u00f3n Tropical",
-      "url": "https://open.spotify.com/track/6cVHu0HmKo4oEOSOqooTa3"
-    },
-    {
-      "added_at": "2025-07-14 16:04:01",
-      "album": {
         "name": "25 A\u00f1os (En Vivo)",
         "url": "https://open.spotify.com/album/6ORA5WpFFDIkLQs1UwDCD6"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 189152,
       "name": "Jurabas Tu",
       "url": "https://open.spotify.com/track/5ISajXj2M1yvkrC0KsgbR5"
+    },
+    {
+      "added_at": "2025-07-14 16:04:01",
+      "album": {
+        "name": "Caifanes",
+        "url": "https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr"
+      },
+      "artists": [
+        {
+          "name": "Caifanes",
+          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
+        }
+      ],
+      "duration_ms": 472400,
+      "name": "La Negra Tomasa - Bilongo - Versi\u00f3n Tropical",
+      "url": "https://open.spotify.com/track/6cVHu0HmKo4oEOSOqooTa3"
     },
     {
       "added_at": "2025-07-14 16:04:01",
@@ -491,26 +491,6 @@
     {
       "added_at": "2025-07-14 16:04:01",
       "album": {
-        "name": "Mentirosa Remix",
-        "url": "https://open.spotify.com/album/73D3SBYlUHneMYQmSCWCnl"
-      },
-      "artists": [
-        {
-          "name": "Rafaga",
-          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 179405,
-      "name": "Mentirosa Remix",
-      "url": "https://open.spotify.com/track/5bgkgmz1bx7GxD6Kh6xeS8"
-    },
-    {
-      "added_at": "2025-07-14 16:04:01",
-      "album": {
         "name": "No Te Creas Tan Importante (En Vivo)",
         "url": "https://open.spotify.com/album/4SPZTJb1KDhmLJRzhgcq5s"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 239760,
       "name": "No Te Creas Tan Importante - En Vivo",
       "url": "https://open.spotify.com/track/3trowLiYwwOoiwapLISNyk"
+    },
+    {
+      "added_at": "2025-07-14 16:04:01",
+      "album": {
+        "name": "Mentirosa Remix",
+        "url": "https://open.spotify.com/album/73D3SBYlUHneMYQmSCWCnl"
+      },
+      "artists": [
+        {
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 179405,
+      "name": "Mentirosa Remix",
+      "url": "https://open.spotify.com/track/5bgkgmz1bx7GxD6Kh6xeS8"
     },
     {
       "added_at": "2025-07-14 16:04:01",
@@ -575,22 +575,6 @@
     {
       "added_at": "2025-07-14 16:04:01",
       "album": {
-        "name": "Vida de Rico",
-        "url": "https://open.spotify.com/album/0MmIH2uM4bUsF5VbEkCKzT"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 187406,
-      "name": "Vida de Rico",
-      "url": "https://open.spotify.com/track/73nAK3HgQK8dak83Y2WQ8F"
-    },
-    {
-      "added_at": "2025-07-14 16:04:01",
-      "album": {
         "name": "Historias",
         "url": "https://open.spotify.com/album/1SEf8KBy0khQM5Hxrk9CYm"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 212754,
       "name": "Me Enamore",
       "url": "https://open.spotify.com/track/69Z2hUoeaxVx3Hxf8unmks"
+    },
+    {
+      "added_at": "2025-07-14 16:04:01",
+      "album": {
+        "name": "Vida de Rico",
+        "url": "https://open.spotify.com/album/0MmIH2uM4bUsF5VbEkCKzT"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 187406,
+      "name": "Vida de Rico",
+      "url": "https://open.spotify.com/track/73nAK3HgQK8dak83Y2WQ8F"
     },
     {
       "added_at": "2025-07-14 16:04:01",
@@ -891,22 +891,6 @@
     {
       "added_at": "2025-07-14 16:04:01",
       "album": {
-        "name": "Lo M\u00e1s Escuchado De",
-        "url": "https://open.spotify.com/album/6O1uu6IBrLPZqax4yCisSt"
-      },
-      "artists": [
-        {
-          "name": "Aaron Y Su Grupo Ilusion",
-          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
-        }
-      ],
-      "duration_ms": 245933,
-      "name": "Todo Me Gusta De Ti",
-      "url": "https://open.spotify.com/track/4rh6NUKzdzOenErCBd9AJO"
-    },
-    {
-      "added_at": "2025-07-14 16:04:01",
-      "album": {
         "name": "Grandes \u00c9xitos Regrabados",
         "url": "https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 242242,
       "name": "Iluminar\u00e1",
       "url": "https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC"
+    },
+    {
+      "added_at": "2025-07-14 16:04:01",
+      "album": {
+        "name": "Lo M\u00e1s Escuchado De",
+        "url": "https://open.spotify.com/album/6O1uu6IBrLPZqax4yCisSt"
+      },
+      "artists": [
+        {
+          "name": "Aaron Y Su Grupo Ilusion",
+          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
+        }
+      ],
+      "duration_ms": 245933,
+      "name": "Todo Me Gusta De Ti",
+      "url": "https://open.spotify.com/track/4rh6NUKzdzOenErCBd9AJO"
     },
     {
       "added_at": "2025-07-14 16:04:01",
@@ -1091,8 +1091,8 @@
     {
       "added_at": "2025-07-14 16:04:01",
       "album": {
-        "name": "El Soltero",
-        "url": "https://open.spotify.com/album/0bjpHFI6ooAjv8ePZj8NsL"
+        "name": "La Del Vestido Rojo",
+        "url": "https://open.spotify.com/album/6BLCRfawi0B0rwezVC8hiS"
       },
       "artists": [
         {
@@ -1100,9 +1100,9 @@
           "url": "https://open.spotify.com/artist/0wNzx85rLgKy0OXYhpCItV"
         }
       ],
-      "duration_ms": 146146,
-      "name": "Cangrejito Playero",
-      "url": "https://open.spotify.com/track/6mitEFB3w4GBe8YDlLfITL"
+      "duration_ms": 221733,
+      "name": "La del Vestido Rojo",
+      "url": "https://open.spotify.com/track/5oJNIP34E9aE7rAKpGqyZp"
     },
     {
       "added_at": "2025-07-14 16:04:01",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2025-07-14 16:04:01",
       "album": {
-        "name": "Sus Mejores Exitos",
-        "url": "https://open.spotify.com/album/7wZn8Eko5bz1vSx1zYMPJD"
-      },
-      "artists": [
-        {
-          "name": "Grupo Saya",
-          "url": "https://open.spotify.com/artist/2T6hbG0qQTyZglPgH7UEMP"
-        }
-      ],
-      "duration_ms": 195946,
-      "name": "Ca\u00f1ita Ca\u00f1averal",
-      "url": "https://open.spotify.com/track/0yn0pxR5KRY2vIY2cZ7nbd"
-    },
-    {
-      "added_at": "2025-07-14 16:04:01",
-      "album": {
         "name": "Sue\u00f1o Cumplido",
         "url": "https://open.spotify.com/album/1gF6aBVQUo0kf76juna4fz"
       },
@@ -1155,34 +1139,18 @@
     {
       "added_at": "2025-07-14 16:04:01",
       "album": {
-        "name": "30 Aniversario (Edici\u00f3n Limitada)",
-        "url": "https://open.spotify.com/album/4xxnGwPDaWB4OUmhoGIBCG"
+        "name": "Sus Mejores Exitos",
+        "url": "https://open.spotify.com/album/7wZn8Eko5bz1vSx1zYMPJD"
       },
       "artists": [
         {
-          "name": "Campeche Show",
-          "url": "https://open.spotify.com/artist/3ecm0ZCTUOZSNuHX3NcShh"
+          "name": "Grupo Saya",
+          "url": "https://open.spotify.com/artist/2T6hbG0qQTyZglPgH7UEMP"
         }
       ],
-      "duration_ms": 184680,
-      "name": "El Noveno Mandamiento",
-      "url": "https://open.spotify.com/track/1lPfWjLceD6DH2HbRqHFy4"
-    },
-    {
-      "added_at": "2025-07-14 16:04:01",
-      "album": {
-        "name": "La Del Vestido Rojo",
-        "url": "https://open.spotify.com/album/6BLCRfawi0B0rwezVC8hiS"
-      },
-      "artists": [
-        {
-          "name": "Acapulco Tropical",
-          "url": "https://open.spotify.com/artist/0wNzx85rLgKy0OXYhpCItV"
-        }
-      ],
-      "duration_ms": 221733,
-      "name": "La del Vestido Rojo",
-      "url": "https://open.spotify.com/track/5oJNIP34E9aE7rAKpGqyZp"
+      "duration_ms": 195946,
+      "name": "Ca\u00f1ita Ca\u00f1averal",
+      "url": "https://open.spotify.com/track/0yn0pxR5KRY2vIY2cZ7nbd"
     },
     {
       "added_at": "2025-07-14 16:04:01",
@@ -1203,6 +1171,38 @@
       "duration_ms": 203470,
       "name": "No Me Digas Que No",
       "url": "https://open.spotify.com/track/3DINASfl27t6yqfTwQEJtD"
+    },
+    {
+      "added_at": "2025-07-14 16:04:01",
+      "album": {
+        "name": "El Soltero",
+        "url": "https://open.spotify.com/album/0bjpHFI6ooAjv8ePZj8NsL"
+      },
+      "artists": [
+        {
+          "name": "Acapulco Tropical",
+          "url": "https://open.spotify.com/artist/0wNzx85rLgKy0OXYhpCItV"
+        }
+      ],
+      "duration_ms": 146146,
+      "name": "Cangrejito Playero",
+      "url": "https://open.spotify.com/track/6mitEFB3w4GBe8YDlLfITL"
+    },
+    {
+      "added_at": "2025-07-14 16:04:01",
+      "album": {
+        "name": "30 Aniversario (Edici\u00f3n Limitada)",
+        "url": "https://open.spotify.com/album/4xxnGwPDaWB4OUmhoGIBCG"
+      },
+      "artists": [
+        {
+          "name": "Campeche Show",
+          "url": "https://open.spotify.com/artist/3ecm0ZCTUOZSNuHX3NcShh"
+        }
+      ],
+      "duration_ms": 184680,
+      "name": "El Noveno Mandamiento",
+      "url": "https://open.spotify.com/track/1lPfWjLceD6DH2HbRqHFy4"
     },
     {
       "added_at": "2025-07-14 16:04:01",
@@ -1307,26 +1307,18 @@
     {
       "added_at": "2025-07-14 16:04:01",
       "album": {
-        "name": "#Tocoparavos",
-        "url": "https://open.spotify.com/album/3cz9fxBXppuImbufikGk2D"
+        "name": "Amor Entre S\u00e1banas",
+        "url": "https://open.spotify.com/album/0TKpSJvxQTxePOFcN9Tj50"
       },
       "artists": [
         {
-          "name": "#TocoParaVos",
-          "url": "https://open.spotify.com/artist/4PdggFNYwGfjRfkdG5OfES"
-        },
-        {
-          "name": "Meri Deal",
-          "url": "https://open.spotify.com/artist/7zREGj8GMl9UrDa6NPLi0H"
-        },
-        {
-          "name": "Bauti Mascia",
-          "url": "https://open.spotify.com/artist/4cV73y9UlkKTCIWbuP2hbG"
+          "name": "La Noche",
+          "url": "https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9"
         }
       ],
-      "duration_ms": 149160,
-      "name": "Hasta la luna",
-      "url": "https://open.spotify.com/track/1A3yLIqelu1D7MCtw06Cu7"
+      "duration_ms": 214900,
+      "name": "Es el Amor",
+      "url": "https://open.spotify.com/track/4OaUwXCBL5V452WC81Kw8b"
     },
     {
       "added_at": "2025-07-14 16:04:01",
@@ -1355,18 +1347,26 @@
     {
       "added_at": "2025-07-14 16:04:01",
       "album": {
-        "name": "Amor Entre S\u00e1banas",
-        "url": "https://open.spotify.com/album/0TKpSJvxQTxePOFcN9Tj50"
+        "name": "#Tocoparavos",
+        "url": "https://open.spotify.com/album/3cz9fxBXppuImbufikGk2D"
       },
       "artists": [
         {
-          "name": "La Noche",
-          "url": "https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9"
+          "name": "#TocoParaVos",
+          "url": "https://open.spotify.com/artist/4PdggFNYwGfjRfkdG5OfES"
+        },
+        {
+          "name": "Meri Deal",
+          "url": "https://open.spotify.com/artist/7zREGj8GMl9UrDa6NPLi0H"
+        },
+        {
+          "name": "Bauti Mascia",
+          "url": "https://open.spotify.com/artist/4cV73y9UlkKTCIWbuP2hbG"
         }
       ],
-      "duration_ms": 214900,
-      "name": "Es el Amor",
-      "url": "https://open.spotify.com/track/4OaUwXCBL5V452WC81Kw8b"
+      "duration_ms": 149160,
+      "name": "Hasta la luna",
+      "url": "https://open.spotify.com/track/1A3yLIqelu1D7MCtw06Cu7"
     },
     {
       "added_at": "2025-07-14 16:04:01",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2025-07-14 16:04:01",
       "album": {
+        "name": "Maravillosa Esta Noche",
+        "url": "https://open.spotify.com/album/5fgZ0novezag3oHcyGWVQb"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 242400,
+      "name": "Maravillosa Esta Noche",
+      "url": "https://open.spotify.com/track/1gonyTKH24V4eDFEbnvewJ"
+    },
+    {
+      "added_at": "2025-07-14 16:04:01",
+      "album": {
         "name": "Greatest Cumbia Classics Of Colombia, Vol. 1",
         "url": "https://open.spotify.com/album/53W9qG1q6xaKlUVuzkBNPV"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 246653,
       "name": "Amor de Mis Amores",
       "url": "https://open.spotify.com/track/3gR5KQnC8FYLoPG2LEfbGP"
-    },
-    {
-      "added_at": "2025-07-14 16:04:01",
-      "album": {
-        "name": "Maravillosa Esta Noche",
-        "url": "https://open.spotify.com/album/5fgZ0novezag3oHcyGWVQb"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 242400,
-      "name": "Maravillosa Esta Noche",
-      "url": "https://open.spotify.com/track/1gonyTKH24V4eDFEbnvewJ"
     },
     {
       "added_at": "2025-07-14 16:04:01",

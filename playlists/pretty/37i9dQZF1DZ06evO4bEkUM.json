@@ -1,12 +1,12 @@
 {
   "description": "This is Paramore. The essential tracks, all in one playlist.",
-  "num_followers": 972280,
+  "num_followers": 972439,
   "original_name": "This Is Paramore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "admPAAAAAAAtuqk+gmpANYLGbW18yojz",
+  "snapshot_id": "adrggAAAAAD32a1kKoicoUA1lBG3Dth/",
   "tracks": [
     {
       "added_at": null,
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "duration_ms": 309973,
-      "name": "Last Hope",
-      "url": "https://open.spotify.com/track/2VBluJiNj9bKohWX0dY1Lh"
+      "duration_ms": 52600,
+      "name": "Interlude: I'm Not Angry Anymore",
+      "url": "https://open.spotify.com/track/2GBjsCkCpR5w8Zri9aE49H"
     },
     {
       "added_at": null,
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "duration_ms": 52600,
-      "name": "Interlude: I'm Not Angry Anymore",
-      "url": "https://open.spotify.com/track/2GBjsCkCpR5w8Zri9aE49H"
+      "duration_ms": 309973,
+      "name": "Last Hope",
+      "url": "https://open.spotify.com/track/2VBluJiNj9bKohWX0dY1Lh"
     },
     {
       "added_at": null,

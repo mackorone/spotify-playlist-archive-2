@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdoMAjKwiHY5.md) - [plain]
 
 > Got Fray\-fever? Or craving some DeGraw\-delights? Board the Train\-train and enjoy these pop\-rock favorites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,105 likes - 80 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,114 likes - 80 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

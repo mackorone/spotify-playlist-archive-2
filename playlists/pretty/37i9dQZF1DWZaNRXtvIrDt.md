@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > A new world of alternative electronic music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,979 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,976 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 13 | [Fake ID \(Coke & Rum Remix\)](https://open.spotify.com/track/2VuzBUB5V9AlpniCUhaszP) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3), [GEE LEE](https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5) | [Fake ID \(Coke & Rum Remix\)](https://open.spotify.com/album/33UfArB1wqUntTPUbsFmUD) | 2:06 |
 | 14 | [The One \(feat\. Jocelyn Brown\)](https://open.spotify.com/track/4fErrQvOX1LPDIPFDFI4eM) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a), [Luke Alessi](https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp), [Jocelyn Brown](https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq) | [The One \(feat\. Jocelyn Brown\)](https://open.spotify.com/album/5rlbbiPN65rv6IjLjVmtHg) | 3:02 |
 | 15 | [Ethereal Connection](https://open.spotify.com/track/7J4EeyDpz2z8LuDFTuxskK) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 7:42 |
-| 16 | [Around \- Solomun Vox](https://open.spotify.com/track/1FqCIlKJRNqpuQOAO7HCGd) | [Noir](https://open.spotify.com/artist/2rHW9XpYMGsHj7BmAOSmr9), [Haze](https://open.spotify.com/artist/0iUmwPbn9g14HaxZiYzfHJ), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Around](https://open.spotify.com/album/2HBNLX7RcLK8Bvte2kFGbJ) | 6:58 |
-| 17 | [Both Of Us \- Edit](https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Both Of Us](https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA) | 3:49 |
+| 16 | [Both Of Us \- Edit](https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Both Of Us](https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA) | 3:49 |
+| 17 | [Around \- Solomun Vox](https://open.spotify.com/track/1FqCIlKJRNqpuQOAO7HCGd) | [Noir](https://open.spotify.com/artist/2rHW9XpYMGsHj7BmAOSmr9), [Haze](https://open.spotify.com/artist/0iUmwPbn9g14HaxZiYzfHJ), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Around](https://open.spotify.com/album/2HBNLX7RcLK8Bvte2kFGbJ) | 6:58 |
 | 18 | [Shoreditch](https://open.spotify.com/track/6DtWaLBRRPnHbDBVjnls9W) | [Vard.](https://open.spotify.com/artist/6Gq2D2UOJNriDLfSPR6Y2Y) | [Shoreditch](https://open.spotify.com/album/2UI5HpK8lRfHoVFNYqnv3N) | 2:29 |
 | 19 | [SPRINTER](https://open.spotify.com/track/4KLPZfyMkOkJTCZ4i3luha) | [KARMA](https://open.spotify.com/artist/2CbSXiRcLCT8xjNeoebez9) | [SPRINTER](https://open.spotify.com/album/1LrwZakIRGBHovLTDBCQSj) | 3:07 |
 | 20 | [RALLY FUNK](https://open.spotify.com/track/4NX1TmWyGuTCTPguqd4KAK) | [prod\. DTM](https://open.spotify.com/artist/661DKnfZy9RMb8FcbUZboE) | [RALLY FUNK](https://open.spotify.com/album/46zifhmnByKMPQaZSjw9oh) | 1:34 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 44 | [YourLove](https://open.spotify.com/track/2yQweA8nCYuzFj15LiOb41) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Safe In My Arms / YourLove](https://open.spotify.com/album/2B7X9jUKwOhDLouk997Ut3) | 2:52 |
 | 45 | [Back to Basics \(feat\. Skepta\) \(Floating Points Remix\)](https://open.spotify.com/track/7JvuiP16UTKCnieS9E2Bg3) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Back to Basics \(feat\. Skepta\) \(Floating Points Remix\)](https://open.spotify.com/album/5AqA9sP5nWY0Q4ysvpJOdo) | 3:49 |
 | 46 | [Maia Maia](https://open.spotify.com/track/2DCAWhnusZQoxC7BffLjGY) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ), [CLIPZ](https://open.spotify.com/artist/6b0TSaLAeLXilOPoId8udE) | [Maia Maia](https://open.spotify.com/album/4NmtnN6kK5IMgxzUILmZiu) | 3:01 |
-| 47 | [Birth4000](https://open.spotify.com/track/658gtQhSGDuPtIlpCSqNek) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Cascade](https://open.spotify.com/album/4IYnAmZ8GvmNFF2ZxxKT8L) | 4:46 |
-| 48 | [Badder](https://open.spotify.com/track/6HnnU52OLpINwucbbiXy5v) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR) | [Badder](https://open.spotify.com/album/4xq8NcQXxBMezVM937XYHo) | 2:50 |
-| 49 | [Fuck My Computer](https://open.spotify.com/track/2Gt39sy5hTo4huF2Og9XEj) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Fuck My Computer](https://open.spotify.com/album/1oX8Dje3jHWVmKNfTbzrcy) | 3:10 |
+| 47 | [Fuck My Computer](https://open.spotify.com/track/2Gt39sy5hTo4huF2Og9XEj) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Fuck My Computer](https://open.spotify.com/album/1oX8Dje3jHWVmKNfTbzrcy) | 3:10 |
+| 48 | [Birth4000](https://open.spotify.com/track/658gtQhSGDuPtIlpCSqNek) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Cascade](https://open.spotify.com/album/4IYnAmZ8GvmNFF2ZxxKT8L) | 4:46 |
+| 49 | [Badder](https://open.spotify.com/track/6HnnU52OLpINwucbbiXy5v) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR) | [Badder](https://open.spotify.com/album/4xq8NcQXxBMezVM937XYHo) | 2:50 |
 | 50 | [Who Are They?](https://open.spotify.com/track/49981XZ6QqcqRJ1LDQWDB2) | [Hedonics](https://open.spotify.com/artist/24rnH82g3EdeLwIl9BBGvS) | [Who Are They?](https://open.spotify.com/album/12PEHRDDMkmP12U79JDaCM) | 4:54 |
 
 Snapshot ID: `AAAAADPcABDW4MmY0biFC2LzZ4w2N0VV`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4suJDjPFhDb.md) - [plain]
 
 > Se ha vinto il festival ed è su Spotify, è in questa playlist 🌴
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,694 likes - 73 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,693 likes - 73 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4suJDjPFhDb.md) - [plain]
 | 21 | [Vorrei avere il becco](https://open.spotify.com/track/0itV31Y66H0USCycJGq7mh) | [Povia](https://open.spotify.com/artist/33rsI5I36DEfpMkdABqhda) | [I bambini fanno "ooh..." la storia continua](https://open.spotify.com/album/5L7JH4oulv8Hveuzui9VPN) | 2:58 |
 | 22 | [Angelo](https://open.spotify.com/track/1PknFWeSYaeCiHHUShL5ZJ) | [Francesco Renga](https://open.spotify.com/artist/3TAYxk5QBcHunmb0qkeTn2) | [Orchestra E Voce](https://open.spotify.com/album/2Yc6MHP7z6Mb60wLjXd4Rt) | 3:30 |
 | 23 | [L'uomo volante](https://open.spotify.com/track/5mkzJfhbrYpCuASrGOqojv) | [Marco Masini](https://open.spotify.com/artist/0kcOfjhVfDMTS09s9aLmuD) | [Cronologia](https://open.spotify.com/album/47a5EGt0cOem7WDtv0HDfG) | 3:54 |
-| 24 | [Per dire di no](https://open.spotify.com/track/3d0nmPXxRvGRzVOFiQxHE2) | [Alexia](https://open.spotify.com/artist/09ao6AC5gW8AxRBUVkqWIB) | [Per Dire Di No](https://open.spotify.com/album/1BEJEhHRwsInGJGjUVUXxG) | 3:27 |
+| 24 | [Per dire di no](https://open.spotify.com/track/3d0nmPXxRvGRzVOFiQxHE2) | [Alexia](https://open.spotify.com/artist/6aNCb0kRQ9femxs9j3xUY1) | [Per Dire Di No](https://open.spotify.com/album/1BEJEhHRwsInGJGjUVUXxG) | 3:27 |
 | 25 | [Messaggio D'Amore](https://open.spotify.com/track/77F1edEcqxLikPVd67PlQl) | [Matia Bazar](https://open.spotify.com/artist/449mAbddAC2PAgNM3TLyc5) | [Messaggi Dal Vivo](https://open.spotify.com/album/0D10B5bOQimXxgo3yf4R9S) | 4:07 |
 | 26 | [Luce \(Tramonti a Nord Est\)](https://open.spotify.com/track/09g4hFrDdBK3J52I3InPgl) | [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23) | [Asile's World](https://open.spotify.com/album/4NAldsRyud3P1gM53MpSEs) | 4:24 |
 | 27 | [Sentimento](https://open.spotify.com/track/64D5ZvgXIaW2bs2NvpO9Mx) | [Avion Travel](https://open.spotify.com/artist/3HjYvkEwDu1mFTFIitTchv) | [Selezione 1990\-2000](https://open.spotify.com/album/6QMKOvGS7QWX57GlpCzCHT) | 3:59 |

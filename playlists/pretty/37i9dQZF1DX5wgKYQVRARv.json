@@ -1,6 +1,6 @@
 {
   "description": "New and recent favorites of Prog Metal. Cover: Karnivool",
-  "num_followers": 568196,
+  "num_followers": 568248,
   "original_name": "Progressive Metal",
   "owner": {
     "name": "Spotify",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2026-02-06 17:00:44",
       "album": {
+        "name": "Green Serpent",
+        "url": "https://open.spotify.com/album/5Xxp22rj2Q0AMLyzk4VHh9"
+      },
+      "artists": [
+        {
+          "name": "Jinjer",
+          "url": "https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf"
+        }
+      ],
+      "duration_ms": 241413,
+      "name": "Green Serpent",
+      "url": "https://open.spotify.com/track/5qZNn0eOGIMATKu6iDpXHg"
+    },
+    {
+      "added_at": "2026-02-06 17:00:44",
+      "album": {
         "name": "Stonewalker",
         "url": "https://open.spotify.com/album/0AfCFzK9Q86MY6sJgw70Gj"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 254032,
       "name": "Stonewalker",
       "url": "https://open.spotify.com/track/2P3OwLmz095p0PIMwkrQOh"
-    },
-    {
-      "added_at": "2026-02-06 17:00:44",
-      "album": {
-        "name": "Green Serpent",
-        "url": "https://open.spotify.com/album/5Xxp22rj2Q0AMLyzk4VHh9"
-      },
-      "artists": [
-        {
-          "name": "Jinjer",
-          "url": "https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf"
-        }
-      ],
-      "duration_ms": 241413,
-      "name": "Green Serpent",
-      "url": "https://open.spotify.com/track/5qZNn0eOGIMATKu6iDpXHg"
     },
     {
       "added_at": "2026-02-06 17:00:44",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2026-02-06 17:00:44",
       "album": {
+        "name": "OXYGEN!",
+        "url": "https://open.spotify.com/album/7sEkwo3nFDzAILuvSvCzf8"
+      },
+      "artists": [
+        {
+          "name": "Evergrey",
+          "url": "https://open.spotify.com/artist/4S0foX2r0RlC12KBW8u73D"
+        }
+      ],
+      "duration_ms": 380480,
+      "name": "OXYGEN!",
+      "url": "https://open.spotify.com/track/01OuTCfQH5RKwMDaVvNEZ1"
+    },
+    {
+      "added_at": "2026-02-06 17:00:44",
+      "album": {
         "name": "Cannibal (feat. Anders Frid\u00e9n)",
         "url": "https://open.spotify.com/album/4KcqdaoWTikvUlU7vEVrhP"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 302866,
       "name": "Cannibal (feat. Anders Frid\u00e9n)",
       "url": "https://open.spotify.com/track/0k1MG0ldL8k580UVAcM7l1"
-    },
-    {
-      "added_at": "2026-02-06 17:00:44",
-      "album": {
-        "name": "OXYGEN!",
-        "url": "https://open.spotify.com/album/7sEkwo3nFDzAILuvSvCzf8"
-      },
-      "artists": [
-        {
-          "name": "Evergrey",
-          "url": "https://open.spotify.com/artist/4S0foX2r0RlC12KBW8u73D"
-        }
-      ],
-      "duration_ms": 380480,
-      "name": "OXYGEN!",
-      "url": "https://open.spotify.com/track/01OuTCfQH5RKwMDaVvNEZ1"
     },
     {
       "added_at": "2026-02-06 17:00:44",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2026-02-06 17:00:44",
       "album": {
-        "name": "Mercenary",
-        "url": "https://open.spotify.com/album/3CSeOvIsqFOmMtiloSMI5c"
-      },
-      "artists": [
-        {
-          "name": "Soen",
-          "url": "https://open.spotify.com/artist/38uWD5h115pdz278q4rwZW"
-        }
-      ],
-      "duration_ms": 250466,
-      "name": "Mercenary",
-      "url": "https://open.spotify.com/track/6gfrg6juktpmPpXHLEJ3Hc"
-    },
-    {
-      "added_at": "2026-02-06 17:00:44",
-      "album": {
         "name": "A Heartless Portrait (The Orph\u00e9an Testament)",
         "url": "https://open.spotify.com/album/7ks1taIwddDv4bjFrujxn2"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 263853,
       "name": "Call out the Dark",
       "url": "https://open.spotify.com/track/5IqvKkwIqeqc2s8DF0avei"
+    },
+    {
+      "added_at": "2026-02-06 17:00:44",
+      "album": {
+        "name": "Mercenary",
+        "url": "https://open.spotify.com/album/3CSeOvIsqFOmMtiloSMI5c"
+      },
+      "artists": [
+        {
+          "name": "Soen",
+          "url": "https://open.spotify.com/artist/38uWD5h115pdz278q4rwZW"
+        }
+      ],
+      "duration_ms": 250466,
+      "name": "Mercenary",
+      "url": "https://open.spotify.com/track/6gfrg6juktpmPpXHLEJ3Hc"
     },
     {
       "added_at": "2026-02-06 17:00:44",
@@ -1435,70 +1435,6 @@
     {
       "added_at": "2026-02-06 17:00:44",
       "album": {
-        "name": "Charcoal Grace",
-        "url": "https://open.spotify.com/album/2XZiBGEBzo5PqSMjgGV6IS"
-      },
-      "artists": [
-        {
-          "name": "Caligula's Horse",
-          "url": "https://open.spotify.com/artist/6Zd7AjXsoLaweP9FHyudVC"
-        }
-      ],
-      "duration_ms": 467533,
-      "name": "Charcoal Grace I: Prey",
-      "url": "https://open.spotify.com/track/5fQ53YX1adoTkNWuFeoGVu"
-    },
-    {
-      "added_at": "2026-02-06 17:00:44",
-      "album": {
-        "name": "Terrene Hunter",
-        "url": "https://open.spotify.com/album/60cruwKvuPfkevirdVpXC2"
-      },
-      "artists": [
-        {
-          "name": "Andromida",
-          "url": "https://open.spotify.com/artist/4MRGrA70WS54oeDLbIWrTr"
-        }
-      ],
-      "duration_ms": 231970,
-      "name": "Terrene Hunter",
-      "url": "https://open.spotify.com/track/6Km6XsyXdOsRhu0tj1Jj6x"
-    },
-    {
-      "added_at": "2026-02-06 17:00:44",
-      "album": {
-        "name": "Holocene",
-        "url": "https://open.spotify.com/album/1JS5Xf3DiLfVAb904ZGlyT"
-      },
-      "artists": [
-        {
-          "name": "The Ocean",
-          "url": "https://open.spotify.com/artist/6fuALtryzj4cq7vkglKLxq"
-        }
-      ],
-      "duration_ms": 304440,
-      "name": "Preboreal",
-      "url": "https://open.spotify.com/track/6h4opbGz6a2CKw00Syr91I"
-    },
-    {
-      "added_at": "2026-02-06 17:00:44",
-      "album": {
-        "name": "Animals as Leaders - Encore Edition",
-        "url": "https://open.spotify.com/album/5hVRBZCUCcU3UIhxNikyhf"
-      },
-      "artists": [
-        {
-          "name": "Animals As Leaders",
-          "url": "https://open.spotify.com/artist/65C6Unk7nhg2aCnVuAPMo8"
-        }
-      ],
-      "duration_ms": 401129,
-      "name": "Cafo",
-      "url": "https://open.spotify.com/track/6i8TDqnHN7GF9uU3LJCklq"
-    },
-    {
-      "added_at": "2026-02-06 17:00:44",
-      "album": {
         "name": "Flow",
         "url": "https://open.spotify.com/album/0tJxWTiYYvX7drrvzc2l5G"
       },
@@ -1519,6 +1455,70 @@
     {
       "added_at": "2026-02-06 17:00:44",
       "album": {
+        "name": "Terrene Hunter",
+        "url": "https://open.spotify.com/album/60cruwKvuPfkevirdVpXC2"
+      },
+      "artists": [
+        {
+          "name": "Andromida",
+          "url": "https://open.spotify.com/artist/4MRGrA70WS54oeDLbIWrTr"
+        }
+      ],
+      "duration_ms": 231970,
+      "name": "Terrene Hunter",
+      "url": "https://open.spotify.com/track/6Km6XsyXdOsRhu0tj1Jj6x"
+    },
+    {
+      "added_at": "2026-02-06 17:00:44",
+      "album": {
+        "name": "Charcoal Grace",
+        "url": "https://open.spotify.com/album/2XZiBGEBzo5PqSMjgGV6IS"
+      },
+      "artists": [
+        {
+          "name": "Caligula's Horse",
+          "url": "https://open.spotify.com/artist/6Zd7AjXsoLaweP9FHyudVC"
+        }
+      ],
+      "duration_ms": 467533,
+      "name": "Charcoal Grace I: Prey",
+      "url": "https://open.spotify.com/track/5fQ53YX1adoTkNWuFeoGVu"
+    },
+    {
+      "added_at": "2026-02-06 17:00:44",
+      "album": {
+        "name": "Animals as Leaders - Encore Edition",
+        "url": "https://open.spotify.com/album/5hVRBZCUCcU3UIhxNikyhf"
+      },
+      "artists": [
+        {
+          "name": "Animals As Leaders",
+          "url": "https://open.spotify.com/artist/65C6Unk7nhg2aCnVuAPMo8"
+        }
+      ],
+      "duration_ms": 401129,
+      "name": "Cafo",
+      "url": "https://open.spotify.com/track/6i8TDqnHN7GF9uU3LJCklq"
+    },
+    {
+      "added_at": "2026-02-06 17:00:44",
+      "album": {
+        "name": "Holocene",
+        "url": "https://open.spotify.com/album/1JS5Xf3DiLfVAb904ZGlyT"
+      },
+      "artists": [
+        {
+          "name": "The Ocean",
+          "url": "https://open.spotify.com/artist/6fuALtryzj4cq7vkglKLxq"
+        }
+      ],
+      "duration_ms": 304440,
+      "name": "Preboreal",
+      "url": "https://open.spotify.com/track/6h4opbGz6a2CKw00Syr91I"
+    },
+    {
+      "added_at": "2026-02-06 17:00:44",
+      "album": {
         "name": "Carbonized",
         "url": "https://open.spotify.com/album/4ed59wqSiswxbsBfh2jP7r"
       },
@@ -1531,22 +1531,6 @@
       "duration_ms": 225986,
       "name": "Carbonized",
       "url": "https://open.spotify.com/track/4kqYSyIRLk3rxgke3cWflX"
-    },
-    {
-      "added_at": "2026-02-06 17:00:44",
-      "album": {
-        "name": "Charismatic Leaders",
-        "url": "https://open.spotify.com/album/6cEt44K9fifMdnTxMEyds7"
-      },
-      "artists": [
-        {
-          "name": "Wheel",
-          "url": "https://open.spotify.com/artist/4msm1QtpV7zMReePhbEQ6H"
-        }
-      ],
-      "duration_ms": 646400,
-      "name": "Submission",
-      "url": "https://open.spotify.com/track/75vZMlMCz2GUmfPtaDNAA2"
     },
     {
       "added_at": "2026-02-06 17:00:44",
@@ -1567,6 +1551,22 @@
     {
       "added_at": "2026-02-06 17:00:44",
       "album": {
+        "name": "Charismatic Leaders",
+        "url": "https://open.spotify.com/album/6cEt44K9fifMdnTxMEyds7"
+      },
+      "artists": [
+        {
+          "name": "Wheel",
+          "url": "https://open.spotify.com/artist/4msm1QtpV7zMReePhbEQ6H"
+        }
+      ],
+      "duration_ms": 646400,
+      "name": "Submission",
+      "url": "https://open.spotify.com/track/75vZMlMCz2GUmfPtaDNAA2"
+    },
+    {
+      "added_at": "2026-02-06 17:00:44",
+      "album": {
         "name": "Synaesthesia",
         "url": "https://open.spotify.com/album/0sYGgAFl5rWpA2oUbhoeSU"
       },
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2026-02-06 17:00:44",
       "album": {
-        "name": "Voidkind",
-        "url": "https://open.spotify.com/album/7vJHAW9nY0d3yBCOmExeKT"
-      },
-      "artists": [
-        {
-          "name": "Dvne",
-          "url": "https://open.spotify.com/artist/1isrot4GGRmnqFT2vMAa5q"
-        }
-      ],
-      "duration_ms": 448853,
-      "name": "Abode of the Perfect Soul",
-      "url": "https://open.spotify.com/track/6RrUexWtOLbuU8K3YxF7oh"
-    },
-    {
-      "added_at": "2026-02-06 17:00:44",
-      "album": {
         "name": "War Of Being",
         "url": "https://open.spotify.com/album/32xlRHSOQrN0gaLNRmesGd"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 662659,
       "name": "War Of Being",
       "url": "https://open.spotify.com/track/7Giyxds8jh7TVluP93eC5C"
+    },
+    {
+      "added_at": "2026-02-06 17:00:44",
+      "album": {
+        "name": "Voidkind",
+        "url": "https://open.spotify.com/album/7vJHAW9nY0d3yBCOmExeKT"
+      },
+      "artists": [
+        {
+          "name": "Dvne",
+          "url": "https://open.spotify.com/artist/1isrot4GGRmnqFT2vMAa5q"
+        }
+      ],
+      "duration_ms": 448853,
+      "name": "Abode of the Perfect Soul",
+      "url": "https://open.spotify.com/track/6RrUexWtOLbuU8K3YxF7oh"
     },
     {
       "added_at": "2026-02-06 17:00:44",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2026-02-06 17:00:44",
       "album": {
-        "name": "XII: A gy\u00f6ny\u00f6r\u0171 \u00e1lmok ezut\u00e1n j\u00f6nnek",
-        "url": "https://open.spotify.com/album/5egKYbgsHtB0WSi6tLDAVu"
-      },
-      "artists": [
-        {
-          "name": "Thy Catafalque",
-          "url": "https://open.spotify.com/artist/4sgTqbA7htxYkRRJBPZIom"
-        }
-      ],
-      "duration_ms": 377773,
-      "name": "Vasgy\u00e1r",
-      "url": "https://open.spotify.com/track/2htYmHMRJQsR2qsMnkfOzO"
-    },
-    {
-      "added_at": "2026-02-06 17:00:44",
-      "album": {
         "name": "Atonement",
         "url": "https://open.spotify.com/album/3E4LUxzT8WeKm3JYpLYQXu"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 289197,
       "name": "Atonement",
       "url": "https://open.spotify.com/track/6qpV9y4hLYXoM0MEWwf0rR"
+    },
+    {
+      "added_at": "2026-02-06 17:00:44",
+      "album": {
+        "name": "XII: A gy\u00f6ny\u00f6r\u0171 \u00e1lmok ezut\u00e1n j\u00f6nnek",
+        "url": "https://open.spotify.com/album/5egKYbgsHtB0WSi6tLDAVu"
+      },
+      "artists": [
+        {
+          "name": "Thy Catafalque",
+          "url": "https://open.spotify.com/artist/4sgTqbA7htxYkRRJBPZIom"
+        }
+      ],
+      "duration_ms": 377773,
+      "name": "Vasgy\u00e1r",
+      "url": "https://open.spotify.com/track/2htYmHMRJQsR2qsMnkfOzO"
     },
     {
       "added_at": "2026-02-06 17:00:44",
@@ -1947,6 +1947,22 @@
     {
       "added_at": "2026-02-06 17:00:44",
       "album": {
+        "name": "Whispers",
+        "url": "https://open.spotify.com/album/5YsqVxZlF0vD0lWB4pEaeO"
+      },
+      "artists": [
+        {
+          "name": "Bernth",
+          "url": "https://open.spotify.com/artist/0Ca8QNi2jA2pemnFC6Rydj"
+        }
+      ],
+      "duration_ms": 171422,
+      "name": "Whispers",
+      "url": "https://open.spotify.com/track/6eDZyTZPiIXYM9QIaZGKwk"
+    },
+    {
+      "added_at": "2026-02-06 17:00:44",
+      "album": {
         "name": "Do Your Worst",
         "url": "https://open.spotify.com/album/0UsVF1iYngI5R1ubRhvgXV"
       },
@@ -1963,22 +1979,6 @@
       "duration_ms": 252000,
       "name": "Do Your Worst",
       "url": "https://open.spotify.com/track/2PmUzUUq57pfjCloz7U4IS"
-    },
-    {
-      "added_at": "2026-02-06 17:00:44",
-      "album": {
-        "name": "Whispers",
-        "url": "https://open.spotify.com/album/5YsqVxZlF0vD0lWB4pEaeO"
-      },
-      "artists": [
-        {
-          "name": "Bernth",
-          "url": "https://open.spotify.com/artist/0Ca8QNi2jA2pemnFC6Rydj"
-        }
-      ],
-      "duration_ms": 171422,
-      "name": "Whispers",
-      "url": "https://open.spotify.com/track/6eDZyTZPiIXYM9QIaZGKwk"
     },
     {
       "added_at": "2026-02-06 17:00:44",
@@ -2071,6 +2071,22 @@
     {
       "added_at": "2026-02-06 17:00:44",
       "album": {
+        "name": "Abandoned",
+        "url": "https://open.spotify.com/album/2qUkwghXIeS7qcjXNZHFYI"
+      },
+      "artists": [
+        {
+          "name": "Unprocessed",
+          "url": "https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4"
+        }
+      ],
+      "duration_ms": 327373,
+      "name": "Abandoned",
+      "url": "https://open.spotify.com/track/72VhOwh87q8c5RBoI10q73"
+    },
+    {
+      "added_at": "2026-02-06 17:00:44",
+      "album": {
         "name": "Stories to Forget",
         "url": "https://open.spotify.com/album/7dx2PWJ9lSRMPflWwiTjYY"
       },
@@ -2099,22 +2115,6 @@
       "duration_ms": 244470,
       "name": "Like a Sunken Ship",
       "url": "https://open.spotify.com/track/3x2ZT5BPPLCKX0ZuRD6Oaq"
-    },
-    {
-      "added_at": "2026-02-06 17:00:44",
-      "album": {
-        "name": "Abandoned",
-        "url": "https://open.spotify.com/album/2qUkwghXIeS7qcjXNZHFYI"
-      },
-      "artists": [
-        {
-          "name": "Unprocessed",
-          "url": "https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4"
-        }
-      ],
-      "duration_ms": 327373,
-      "name": "Abandoned",
-      "url": "https://open.spotify.com/track/72VhOwh87q8c5RBoI10q73"
     },
     {
       "added_at": "2026-02-06 17:00:44",
@@ -2151,22 +2151,6 @@
     {
       "added_at": "2026-02-06 17:00:44",
       "album": {
-        "name": "The Stargate",
-        "url": "https://open.spotify.com/album/74QYxU9qmoLzkuHp4RdCGP"
-      },
-      "artists": [
-        {
-          "name": "Blood Incantation",
-          "url": "https://open.spotify.com/artist/6FGv87WQ3mJWn3cmLUww6x"
-        }
-      ],
-      "duration_ms": 500088,
-      "name": "The Stargate [Tablet I]",
-      "url": "https://open.spotify.com/track/6FCnWu5zcWDoeScwYayLv6"
-    },
-    {
-      "added_at": "2026-02-06 17:00:44",
-      "album": {
         "name": "Stoned Statues",
         "url": "https://open.spotify.com/album/0NpgStIxQiQV5TmEmu7UJK"
       },
@@ -2179,6 +2163,22 @@
       "duration_ms": 227972,
       "name": "The End",
       "url": "https://open.spotify.com/track/09STcjQLFcCE7TzjBmIXML"
+    },
+    {
+      "added_at": "2026-02-06 17:00:44",
+      "album": {
+        "name": "The Stargate",
+        "url": "https://open.spotify.com/album/74QYxU9qmoLzkuHp4RdCGP"
+      },
+      "artists": [
+        {
+          "name": "Blood Incantation",
+          "url": "https://open.spotify.com/artist/6FGv87WQ3mJWn3cmLUww6x"
+        }
+      ],
+      "duration_ms": 500088,
+      "name": "The Stargate [Tablet I]",
+      "url": "https://open.spotify.com/track/6FCnWu5zcWDoeScwYayLv6"
     },
     {
       "added_at": "2026-02-06 17:00:44",
@@ -2363,6 +2363,22 @@
     {
       "added_at": "2026-02-06 17:00:44",
       "album": {
+        "name": "Nightingale",
+        "url": "https://open.spotify.com/album/0zfKKza4jm4n4L2Z78bOd2"
+      },
+      "artists": [
+        {
+          "name": "Haken",
+          "url": "https://open.spotify.com/artist/2SRIVGDkdqQnrQdaXxDkJt"
+        }
+      ],
+      "duration_ms": 443698,
+      "name": "Nightingale",
+      "url": "https://open.spotify.com/track/1J8fTSO6ywgqkygxRGAVof"
+    },
+    {
+      "added_at": "2026-02-06 17:00:44",
+      "album": {
         "name": "DAMNUM",
         "url": "https://open.spotify.com/album/1LbK8xqE3DF6DE9drbwacI"
       },
@@ -2391,22 +2407,6 @@
       "duration_ms": 245077,
       "name": "Silently Walking Alone",
       "url": "https://open.spotify.com/track/1y2H49mWggsh4DLiGDqwZq"
-    },
-    {
-      "added_at": "2026-02-06 17:00:44",
-      "album": {
-        "name": "Nightingale",
-        "url": "https://open.spotify.com/album/0zfKKza4jm4n4L2Z78bOd2"
-      },
-      "artists": [
-        {
-          "name": "Haken",
-          "url": "https://open.spotify.com/artist/2SRIVGDkdqQnrQdaXxDkJt"
-        }
-      ],
-      "duration_ms": 443698,
-      "name": "Nightingale",
-      "url": "https://open.spotify.com/track/1J8fTSO6ywgqkygxRGAVof"
     },
     {
       "added_at": "2026-02-06 17:00:44",

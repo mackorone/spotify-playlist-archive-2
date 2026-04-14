@@ -2974,7 +2974,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 128932,
       "name": "CHAPA QUENTE",
       "url": "https://open.spotify.com/track/7q04im6F1NSXFcUlecUMFP"
@@ -6387,6 +6387,36 @@
     },
     {
       "album": {
+        "name": "In\u00fatil",
+        "url": "https://open.spotify.com/album/0wa8RlIicoS5JdpyA60GmG"
+      },
+      "artists": [
+        {
+          "name": "Barona",
+          "url": "https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn"
+        },
+        {
+          "name": "Ryam Beatz",
+          "url": "https://open.spotify.com/artist/1e4gxT06EhPqmgWEUoxxzY"
+        },
+        {
+          "name": "Ruas Mc",
+          "url": "https://open.spotify.com/artist/2GPQXYOzl0FJqKbkBL7Se5"
+        },
+        {
+          "name": "DESTRAVALT",
+          "url": "https://open.spotify.com/artist/29IVf7WBMdBDnuI2wuwaiB"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174867,
+      "name": "In\u00fatil",
+      "url": "https://open.spotify.com/track/3McdMPShOzbysLvMIreGaq"
+    },
+    {
+      "album": {
         "name": "IPHONE 17 PRO MAX",
         "url": "https://open.spotify.com/album/2oZeOQaXiqke92WNNyhTox"
       },
@@ -9534,7 +9564,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 131764,
       "name": "NU",
       "url": "https://open.spotify.com/track/6IiZ9VESqTIkOIND0WMk0h"
@@ -11824,6 +11854,36 @@
       "duration_ms": 187636,
       "name": "Quer Voar",
       "url": "https://open.spotify.com/track/7aZusA4cWXz3Wv9e9uhavz"
+    },
+    {
+      "album": {
+        "name": "Querendo Mais",
+        "url": "https://open.spotify.com/album/2gJASJpKwhuR1fC1y1eSzl"
+      },
+      "artists": [
+        {
+          "name": "LyNDoN",
+          "url": "https://open.spotify.com/artist/45A52B51OE7bqXGiNvUsRQ"
+        },
+        {
+          "name": "ONNiKA",
+          "url": "https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988"
+        },
+        {
+          "name": "Tapsounds",
+          "url": "https://open.spotify.com/artist/2IOI9UdynLXCcb4whAiJsO"
+        },
+        {
+          "name": "Dos Mlk",
+          "url": "https://open.spotify.com/artist/6dWDdfqdDSVt4BltsyDBqH"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150961,
+      "name": "Querendo Mais",
+      "url": "https://open.spotify.com/track/04AZrSh1KmpUjwKvIr2KBM"
     },
     {
       "album": {

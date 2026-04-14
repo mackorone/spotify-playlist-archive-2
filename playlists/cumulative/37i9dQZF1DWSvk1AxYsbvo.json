@@ -117,6 +117,24 @@
     },
     {
       "album": {
+        "name": "My Little New Diary, Pt. 4",
+        "url": "https://open.spotify.com/album/1QvSAkm9UyY4gcriXIQmN3"
+      },
+      "artists": [
+        {
+          "name": "Sohyang",
+          "url": "https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223163,
+      "name": "A Rain of Petals",
+      "url": "https://open.spotify.com/track/0bjY1AC7Dg0dY08XwIqaTD"
+    },
+    {
+      "album": {
         "name": "Beautiful GunbarI OST",
         "url": "https://open.spotify.com/album/6J9aBraciskBz10VIcOwo5"
       },
@@ -1408,7 +1426,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 218333,
       "name": "For a Long Time",
       "url": "https://open.spotify.com/track/5hFnrECr3m8GzPI21BepWZ"
@@ -2117,6 +2135,24 @@
     },
     {
       "album": {
+        "name": "Is this love",
+        "url": "https://open.spotify.com/album/18G5i2H51eARo7jRYS1a97"
+      },
+      "artists": [
+        {
+          "name": "heeju",
+          "url": "https://open.spotify.com/artist/7K57siwKn5EnZAGr6dD9Ct"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167076,
+      "name": "Is this love",
+      "url": "https://open.spotify.com/track/6DsrjsrglxSJh7I1dqHk8m"
+    },
+    {
+      "album": {
         "name": "Is you",
         "url": "https://open.spotify.com/album/6KAKOjRxl9jV0mwLaNEYpk"
       },
@@ -2164,7 +2200,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 153000,
       "name": "It will be all fine",
       "url": "https://open.spotify.com/track/7xzN0ZWjfkLCagoEeQWLri"
@@ -2716,6 +2752,24 @@
       "duration_ms": 254505,
       "name": "melody of LOVE",
       "url": "https://open.spotify.com/track/0IeMvdtKd6FgEWgVFdtQQm"
+    },
+    {
+      "album": {
+        "name": "meow",
+        "url": "https://open.spotify.com/album/1RWSbmgblnx2zO9Qm8zCtJ"
+      },
+      "artists": [
+        {
+          "name": "\ubcf8\ud558",
+          "url": "https://open.spotify.com/artist/26oPZPY5H08ViuL52JDqKS"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182608,
+      "name": "meow",
+      "url": "https://open.spotify.com/track/3mgNcwbzUEcef2YkErCf4r"
     },
     {
       "album": {
@@ -4922,7 +4976,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 180000,
       "name": "Wonderful Day",
       "url": "https://open.spotify.com/track/3sA2bqYmGTCaHkU4P2CJ5A"

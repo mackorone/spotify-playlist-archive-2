@@ -4,7 +4,7 @@
 
 > Made pa' perrear, pa' cantar y pa' brindar\. Made pa' acá y pa' allá\. Made in Colombia\. Foto: Manuel Turizo
 
-538 songs - 1 day 5 hr 58 min
+539 songs - 1 day 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -311,7 +311,7 @@
 | [Monotonía](https://open.spotify.com/track/6G12ZafqofSq7YtrMqUm76) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Monotonía](https://open.spotify.com/album/5pJtcJojr98hbb6KF0ImMe) | 2:38 | 2022-10-28 | 2024-02-27 |
 | [Morado](https://open.spotify.com/track/3mQ6SLdxxaL52Yte7KF2Ks) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Morado](https://open.spotify.com/album/7ynTaSXD9esXkgY0GG8UFd) | 3:20 | 2022-01-12 | 2024-02-27 |
 | [Movimiento de Caderas](https://open.spotify.com/track/75tTfMyPIRk21WfDusfMyM) | [Rayo & Toby](https://open.spotify.com/artist/2xmhyxkjpGNBeWXVMeVWHb) | [The SexyTrip](https://open.spotify.com/album/77pcbYCu86d0wk3IuL3Yug) | 3:10 | 2025-11-28 | 2025-12-16 |
-| [Muchas \(MUCHAS\) gracias](https://open.spotify.com/track/21WqnTphjylRyrdnVyRk1S) | [Laura Maré](https://open.spotify.com/artist/0jewyEquYvSCLkwgHZM4XO) | [Muchas \(MUCHAS\) gracias](https://open.spotify.com/album/5cQiuS0mh4pvXGhCNqrGrS) | 2:13 | 2026-03-06 |  |
+| [Muchas \(MUCHAS\) gracias](https://open.spotify.com/track/21WqnTphjylRyrdnVyRk1S) | [Laura Maré](https://open.spotify.com/artist/0jewyEquYvSCLkwgHZM4XO) | [Muchas \(MUCHAS\) gracias](https://open.spotify.com/album/5cQiuS0mh4pvXGhCNqrGrS) | 2:13 | 2026-03-06 | 2026-04-14 |
 | [Mujeriego](https://open.spotify.com/track/4jiYaQVHzMfKhEeLypWpNO) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Reggaetonea](https://open.spotify.com/album/6Wu7QHl7uK1EBunS3YsPni) | 2:22 | 2025-11-28 | 2025-12-16 |
 | [Mujeriego](https://open.spotify.com/track/78kygHp1dvW1kncYjBgbe1) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Mujeriego](https://open.spotify.com/album/43sxUsU622oLloqafw61vN) | 2:22 | 2025-12-15 | 2026-01-15 |
 | [Mujeriego](https://open.spotify.com/track/1bygAjLggvdiFzDdBX155d) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Mujeriego](https://open.spotify.com/album/7zkCZgGHkGyzBfLCoTastp) | 3:12 | 2025-05-16 | 2025-07-26 |
@@ -474,6 +474,7 @@
 | [Tal cual](https://open.spotify.com/track/3M3NaO2R8RkqPr754FrWW1) | [Laura Pérez](https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58) | [La Chinita](https://open.spotify.com/album/3nwQRr8iXfZlXdszesno3v) | 3:34 | 2026-03-18 | 2026-03-27 |
 | [Tal Para Cual \- de la serie Medusa, de Netflix](https://open.spotify.com/track/5jAvZlrknZT8rZlMVUsKvL) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg) | [32 Grandes Exitos](https://open.spotify.com/album/0Moiv2jGzK7Apt4YjJUYqA) | 4:36 | 2025-12-15 | 2026-01-15 |
 | [Tarde Lo Conoci](https://open.spotify.com/track/3J8blQzr6m5cPAlrmoHe93) | [Patricia Teherán](https://open.spotify.com/artist/2pctdrQetn7EI0QpCm9RIF) | [Con Aroma de Mujer](https://open.spotify.com/album/09xubrMSDM95JYSUJQk0Ii) | 4:53 | 2026-03-18 | 2026-03-27 |
+| [Te Entiendo](https://open.spotify.com/track/03E9tKV8v3R1YQIz3MWlMU) | [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi) | [Te Entiendo](https://open.spotify.com/album/5TFJMVpEISXqooUpJhCuxu) | 3:05 | 2026-04-13 |  |
 | [Te Felicito](https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Te Felicito](https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH) | 2:52 | 2022-05-28 | 2024-04-06 |
 | [Te hacen falta dos](https://open.spotify.com/track/3Oohz3N32glZTOz0nuxGMD) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Apambichao](https://open.spotify.com/album/0DOZOtgMZm8GvvFJFZ6vvT) | 2:41 | 2026-04-10 |  |
 | [Te Lo Digo En Cumbia](https://open.spotify.com/track/1HcFU8Ws0l5tu3lipWkW5t) | [Adriana Lucia](https://open.spotify.com/artist/5u4ozdMUTJLCJPYkFVoy0o) | [Te Lo Digo En Cumbia](https://open.spotify.com/album/3OUxd0dKXJVlSJcRjPYRE0) | 3:09 | 2024-06-19 | 2024-07-18 |

@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "A Day in My Life",
+        "url": "https://open.spotify.com/album/659y0M5X1QO6E6ipGSumlc"
+      },
+      "artists": [
+        {
+          "name": "Soft boy",
+          "url": "https://open.spotify.com/artist/5g6xNAzBOZOTSVMF98BJij"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205799,
+      "name": "A Day in My Life",
+      "url": "https://open.spotify.com/track/7pcaFouoeVKGL3Qj9BWkzj"
+    },
+    {
+      "album": {
         "name": "Somewhere in the Distance, Somewhere Toward the Mountains",
         "url": "https://open.spotify.com/album/1l3zXzMw6Dvcme4fqWHj5l"
       },
@@ -1251,6 +1269,24 @@
     },
     {
       "album": {
+        "name": "Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/1krNkv0uKQurE8XTC8sYTs"
+      },
+      "artists": [
+        {
+          "name": "Yehezkel Raz",
+          "url": "https://open.spotify.com/artist/31klRMTQJ94NrxwIZJwJBY"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223896,
+      "name": "Forest Overture",
+      "url": "https://open.spotify.com/track/6sD702PxmqKRKixCbnB4VB"
+    },
+    {
+      "album": {
         "name": "Unspoken Words",
         "url": "https://open.spotify.com/album/5UQhMbAAYaZdkuEqqpRSna"
       },
@@ -1280,7 +1316,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 1287155,
       "name": "Freeze III",
       "url": "https://open.spotify.com/track/1pSUv8DIGUxeKL0IALx844"
@@ -2350,7 +2386,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 291144,
       "name": "meaningful love - instrumental",
       "url": "https://open.spotify.com/track/1PirBnF2xXUyf9yduhzrIt"
@@ -2560,7 +2596,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 582877,
       "name": "New Sun",
       "url": "https://open.spotify.com/track/2bxxIrpVax2cfMgnMLEjMp"
@@ -2900,7 +2936,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 547560,
       "name": "Quiet Music",
       "url": "https://open.spotify.com/track/6nBrbazTg9We1bnYAWrKtW"
@@ -3028,6 +3064,24 @@
       "duration_ms": 212938,
       "name": "Resonance",
       "url": "https://open.spotify.com/track/66wO3p3MofGc4yHSogrqqi"
+    },
+    {
+      "album": {
+        "name": "restart",
+        "url": "https://open.spotify.com/album/1sbXw2JnbUXlZ2PU7NN6Dl"
+      },
+      "artists": [
+        {
+          "name": "Licce Guerra",
+          "url": "https://open.spotify.com/artist/59oRjQRy67yLYfnU4Wm83o"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169215,
+      "name": "restart",
+      "url": "https://open.spotify.com/track/3eUoAgK6sJ7CieNQS7ylTD"
     },
     {
       "album": {
@@ -3250,7 +3304,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 965641,
       "name": "Silence...",
       "url": "https://open.spotify.com/track/0gsdr4VMcFGxk07UGZbB1o"
@@ -3884,6 +3938,46 @@
       "duration_ms": 219788,
       "name": "The Wanderer",
       "url": "https://open.spotify.com/track/26cjmliC855cIjFo5flMcp"
+    },
+    {
+      "album": {
+        "name": "Nature and my memories",
+        "url": "https://open.spotify.com/album/5l3DFOeJGgTmaGUE7PcoNR"
+      },
+      "artists": [
+        {
+          "name": "masumi&mugi",
+          "url": "https://open.spotify.com/artist/4SBbNn561qcaNwe25ZSw2o"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145120,
+      "name": "The warmth of nature",
+      "url": "https://open.spotify.com/track/7v4fdoC6hXb8Iodivxtwel"
+    },
+    {
+      "album": {
+        "name": "Little Miss Sunshine (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0HYwlr4Y6ZSIV4gvHw4xX8"
+      },
+      "artists": [
+        {
+          "name": "DeVotchKa",
+          "url": "https://open.spotify.com/artist/0hk8VgR64voU5ueK96W2DI"
+        },
+        {
+          "name": "Mychael Danna",
+          "url": "https://open.spotify.com/artist/0x8J72N9ilqcIZbWEKB8T2"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184813,
+      "name": "The Winner Is",
+      "url": "https://open.spotify.com/track/7wFEzF8FbofVlQS1OcbghM"
     },
     {
       "album": {

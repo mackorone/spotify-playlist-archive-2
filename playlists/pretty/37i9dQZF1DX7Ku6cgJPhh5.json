@@ -1,12 +1,12 @@
 {
   "description": "Amp up your commute with rock hits, new and old. ",
-  "num_followers": 596149,
+  "num_followers": 596328,
   "original_name": "Rock Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB+U5cFpEJbv+Jwrxcb6chXUh7VF",
+  "snapshot_id": "AAAAAL918eCd885kc0JVAGgjiN20HVz1",
   "tracks": [
     {
       "added_at": "2026-04-05 21:06:28",
@@ -443,6 +443,22 @@
     {
       "added_at": "2026-04-05 21:06:28",
       "album": {
+        "name": "Freakin\u2019 Out",
+        "url": "https://open.spotify.com/album/3hToTQIS84qGNxEhrZHiWf"
+      },
+      "artists": [
+        {
+          "name": "Dexter and The Moonrocks",
+          "url": "https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT"
+        }
+      ],
+      "duration_ms": 217897,
+      "name": "Freakin\u2019 Out",
+      "url": "https://open.spotify.com/track/2SaWT781xr3hHLdbVt5DB7"
+    },
+    {
+      "added_at": "2026-04-05 21:06:28",
+      "album": {
         "name": "Audioslave",
         "url": "https://open.spotify.com/album/78guAsers0klWl6RwzgDLd"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 293960,
       "name": "Like a Stone",
       "url": "https://open.spotify.com/track/3YuaBvuZqcwN3CEAyyoaei"
-    },
-    {
-      "added_at": "2026-04-05 21:06:28",
-      "album": {
-        "name": "Nevermind (Remastered)",
-        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
-      },
-      "artists": [
-        {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        }
-      ],
-      "duration_ms": 301920,
-      "name": "Smells Like Teen Spirit",
-      "url": "https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T"
     },
     {
       "added_at": "2026-04-05 21:06:28",
@@ -491,18 +491,18 @@
     {
       "added_at": "2026-04-05 21:06:28",
       "album": {
-        "name": "Freakin\u2019 Out",
-        "url": "https://open.spotify.com/album/3hToTQIS84qGNxEhrZHiWf"
+        "name": "Nevermind (Remastered)",
+        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
       },
       "artists": [
         {
-          "name": "Dexter and The Moonrocks",
-          "url": "https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT"
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
         }
       ],
-      "duration_ms": 217897,
-      "name": "Freakin\u2019 Out",
-      "url": "https://open.spotify.com/track/2SaWT781xr3hHLdbVt5DB7"
+      "duration_ms": 301920,
+      "name": "Smells Like Teen Spirit",
+      "url": "https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T"
     },
     {
       "added_at": "2026-04-05 21:06:28",
@@ -571,22 +571,6 @@
     {
       "added_at": "2026-04-05 21:06:28",
       "album": {
-        "name": "Hellbilly Deluxe",
-        "url": "https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 222826,
-      "name": "Dragula",
-      "url": "https://open.spotify.com/track/6Nm8h73ycDG2saCnZV8poF"
-    },
-    {
-      "added_at": "2026-04-05 21:06:28",
-      "album": {
         "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
         "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 266200,
       "name": "1979 - Remastered 2012",
       "url": "https://open.spotify.com/track/5QLHGv0DfpeXLNFo7SFEy1"
+    },
+    {
+      "added_at": "2026-04-05 21:06:28",
+      "album": {
+        "name": "Hellbilly Deluxe",
+        "url": "https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 222826,
+      "name": "Dragula",
+      "url": "https://open.spotify.com/track/6Nm8h73ycDG2saCnZV8poF"
     },
     {
       "added_at": "2026-04-05 21:06:28",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-04-05 21:06:28",
       "album": {
-        "name": "I Love Rock 'N' Roll (Expanded Edition)",
-        "url": "https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 175173,
-      "name": "I Love Rock 'N Roll",
-      "url": "https://open.spotify.com/track/2Cdvbe2G4hZsnhNMKyGrie"
-    },
-    {
-      "added_at": "2026-04-05 21:06:28",
-      "album": {
         "name": "Last Kiss",
         "url": "https://open.spotify.com/album/11BDZR6NRHwPiPy1WQr4Jf"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 195466,
       "name": "Last Kiss",
       "url": "https://open.spotify.com/track/0QnONzv3TvHAWk294h6DaQ"
+    },
+    {
+      "added_at": "2026-04-05 21:06:28",
+      "album": {
+        "name": "Finding Beauty In Negative Spaces (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/59Tni3gA1OczshFWTMxmbo"
+      },
+      "artists": [
+        {
+          "name": "Seether",
+          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
+        }
+      ],
+      "duration_ms": 193893,
+      "name": "Fake It",
+      "url": "https://open.spotify.com/track/4eAwB5pnKFTmsgc3zWoYO0"
     },
     {
       "added_at": "2026-04-05 21:06:28",
@@ -923,18 +923,18 @@
     {
       "added_at": "2026-04-05 21:06:28",
       "album": {
-        "name": "Finding Beauty In Negative Spaces (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/59Tni3gA1OczshFWTMxmbo"
+        "name": "I Love Rock 'N' Roll (Expanded Edition)",
+        "url": "https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt"
       },
       "artists": [
         {
-          "name": "Seether",
-          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 193893,
-      "name": "Fake It",
-      "url": "https://open.spotify.com/track/4eAwB5pnKFTmsgc3zWoYO0"
+      "duration_ms": 175173,
+      "name": "I Love Rock 'N Roll",
+      "url": "https://open.spotify.com/track/2Cdvbe2G4hZsnhNMKyGrie"
     },
     {
       "added_at": "2026-04-05 21:06:28",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2026-04-05 21:06:28",
       "album": {
-        "name": "Audioslave",
-        "url": "https://open.spotify.com/album/78guAsers0klWl6RwzgDLd"
-      },
-      "artists": [
-        {
-          "name": "Audioslave",
-          "url": "https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn"
-        }
-      ],
-      "duration_ms": 277840,
-      "name": "Show Me How to Live",
-      "url": "https://open.spotify.com/track/1Qdnvn4XlmZANCVy3XjrQo"
-    },
-    {
-      "added_at": "2026-04-05 21:06:28",
-      "album": {
         "name": "Is This It",
         "url": "https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 193506,
       "name": "Last Nite",
       "url": "https://open.spotify.com/track/7kzKAuUzOITUauHAhoMoxA"
+    },
+    {
+      "added_at": "2026-04-05 21:06:28",
+      "album": {
+        "name": "Audioslave",
+        "url": "https://open.spotify.com/album/78guAsers0klWl6RwzgDLd"
+      },
+      "artists": [
+        {
+          "name": "Audioslave",
+          "url": "https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn"
+        }
+      ],
+      "duration_ms": 277840,
+      "name": "Show Me How to Live",
+      "url": "https://open.spotify.com/track/1Qdnvn4XlmZANCVy3XjrQo"
     },
     {
       "added_at": "2026-04-05 21:06:28",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2026-04-05 21:06:28",
       "album": {
-        "name": "Karma and Effect",
-        "url": "https://open.spotify.com/album/1C5xrwfzgDM0hz7Kb035V3"
-      },
-      "artists": [
-        {
-          "name": "Seether",
-          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
-        }
-      ],
-      "duration_ms": 207213,
-      "name": "Remedy",
-      "url": "https://open.spotify.com/track/5ynxx6zC4dgzsMHLYQ04Dc"
-    },
-    {
-      "added_at": "2026-04-05 21:06:28",
-      "album": {
         "name": "(What's The Story) Morning Glory?",
         "url": "https://open.spotify.com/album/2u30gztZTylY4RG7IvfXs8"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 450506,
       "name": "Champagne Supernova",
       "url": "https://open.spotify.com/track/6EMynpZ10GVcwVqiLZj6Ye"
+    },
+    {
+      "added_at": "2026-04-05 21:06:28",
+      "album": {
+        "name": "Karma and Effect",
+        "url": "https://open.spotify.com/album/1C5xrwfzgDM0hz7Kb035V3"
+      },
+      "artists": [
+        {
+          "name": "Seether",
+          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
+        }
+      ],
+      "duration_ms": 207213,
+      "name": "Remedy",
+      "url": "https://open.spotify.com/track/5ynxx6zC4dgzsMHLYQ04Dc"
     },
     {
       "added_at": "2026-04-05 21:06:28",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2026-04-05 21:06:28",
       "album": {
-        "name": "The Strange Case of...",
-        "url": "https://open.spotify.com/album/1d9fNpMEICkIPnJ3r6EG3A"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 183506,
-      "name": "I Miss the Misery",
-      "url": "https://open.spotify.com/track/60rHc4AkLlP4XVSATvBb6K"
-    },
-    {
-      "added_at": "2026-04-05 21:06:28",
-      "album": {
         "name": "Until The Sun Explodes",
         "url": "https://open.spotify.com/album/1PNDImWE25WgKW8CwdWREX"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 178800,
       "name": "Until The Sun Explodes",
       "url": "https://open.spotify.com/track/0xeoETh1ChVy1k7TGAS9O8"
+    },
+    {
+      "added_at": "2026-04-05 21:06:28",
+      "album": {
+        "name": "The Strange Case of...",
+        "url": "https://open.spotify.com/album/1d9fNpMEICkIPnJ3r6EG3A"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 183506,
+      "name": "I Miss the Misery",
+      "url": "https://open.spotify.com/track/60rHc4AkLlP4XVSATvBb6K"
     },
     {
       "added_at": "2026-04-05 21:06:28",

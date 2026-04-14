@@ -1,6 +1,6 @@
 {
   "description": "\u00c9chate un zapateo al ritmo del tribal.",
-  "num_followers": 100682,
+  "num_followers": 100700,
   "original_name": "Fiesta Tribal",
   "owner": {
     "name": "Spotify",
@@ -927,22 +927,18 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "El \u00daltimo",
-        "url": "https://open.spotify.com/album/4m9Jf47ukqLNRzP637iD7p"
+        "name": "Jeffree's Volume 2",
+        "url": "https://open.spotify.com/album/04Gb3cC1KZ25W0u2NJMadx"
       },
       "artists": [
         {
-          "name": "El Catorce",
-          "url": "https://open.spotify.com/artist/6H6TCcvnAB8osBeV7r3hbc"
-        },
-        {
-          "name": "Syztema",
-          "url": "https://open.spotify.com/artist/7vD4lx9RkcbWuyRnkFLTY1"
+          "name": "Joelito",
+          "url": "https://open.spotify.com/artist/0XWWsuP4oeVCSaQyiter7E"
         }
       ],
-      "duration_ms": 300522,
-      "name": "Kombat",
-      "url": "https://open.spotify.com/track/5q666odbjHkdLrDUIq88ax"
+      "duration_ms": 240000,
+      "name": "Sickhead",
+      "url": "https://open.spotify.com/track/7HhnDS97yjtsGgvTYWM5Bc"
     }
   ],
   "unique_name": "Fiesta Tribal",

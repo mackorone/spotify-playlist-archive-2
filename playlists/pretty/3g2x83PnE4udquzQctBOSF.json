@@ -1,13 +1,61 @@
 {
   "description": "Our weekly selection is here \u26a1\ufe0f",
-  "num_followers": 2731,
+  "num_followers": 2733,
   "original_name": "AGLF Playlist",
   "owner": {
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "AAASJC1VwJTztxWnKbEQl6h4o938WKzv",
+  "snapshot_id": "AAASJ7XQlgl/vo77G4vS9DACGcgn6zzY",
   "tracks": [
+    {
+      "added_at": "2026-04-13 23:30:04",
+      "album": {
+        "name": "Echoes Stay",
+        "url": "https://open.spotify.com/album/1f5XymSAfNyP5m6kwoMZB8"
+      },
+      "artists": [
+        {
+          "name": "Ziozland",
+          "url": "https://open.spotify.com/artist/46nIUadh3lmdRPgfO4ciC6"
+        }
+      ],
+      "duration_ms": 248079,
+      "name": "Echoes Stay",
+      "url": "https://open.spotify.com/track/4Cm9vJebe6HsA8Xqg3X7pE"
+    },
+    {
+      "added_at": "2026-04-13 20:18:07",
+      "album": {
+        "name": "Someone You Loved",
+        "url": "https://open.spotify.com/album/4IH8I4Q0gz6v5ZANYJaqvf"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Mello",
+          "url": "https://open.spotify.com/artist/49qyJyMqBIYFCRnKUDHcvi"
+        }
+      ],
+      "duration_ms": 195561,
+      "name": "Someone You Loved",
+      "url": "https://open.spotify.com/track/4zbRnZqsAmgYkIrrcQPqHO"
+    },
+    {
+      "added_at": "2026-04-13 08:44:54",
+      "album": {
+        "name": "Arc Collapse",
+        "url": "https://open.spotify.com/album/166bFbYTP5TwMU93pQe0Va"
+      },
+      "artists": [
+        {
+          "name": "Elyan Voss",
+          "url": "https://open.spotify.com/artist/5sWdz3Dq7RrWTMWOlfrekX"
+        }
+      ],
+      "duration_ms": 240039,
+      "name": "Arc Collapse",
+      "url": "https://open.spotify.com/track/0PTY4KyAIiHqkU2QV5xydQ"
+    },
     {
       "added_at": "2026-04-12 21:00:20",
       "album": {

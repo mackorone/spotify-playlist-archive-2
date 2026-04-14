@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/52cKwQBHdpKHYYbrnqKJtX">GRACEY</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-75 songs - 3 hr 44 min
+76 songs - 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Body Of Work](https://open.spotify.com/track/4PfoFN7JhDhrmJyVmuk4C6) | [July Jones](https://open.spotify.com/artist/0sFyRdif7dRPjq9uHmsJlp) | [Body Of Work](https://open.spotify.com/album/2Tl6XkbmbgfEtlM7TcO7Il) | 2:52 | 2025-12-17 |  |
 | [By Your Side](https://open.spotify.com/track/4QTuyRQshEZYurtIDfE6g0) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Blue](https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L) | 3:21 | 2024-05-01 |  |
 | [Can't Be Friends](https://open.spotify.com/track/3HjBenHdbppyR8Y3vVUe85) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Fragile](https://open.spotify.com/album/4RwVWm4kAzRgEiVzVpxHGG) | 2:47 | 2024-05-01 |  |
+| [Can’t Pull Me Down](https://open.spotify.com/track/4ALvOe1nO9IADhZmclYz4t) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [WILDFIRE](https://open.spotify.com/album/7rg0Uyz5QcUSBDRpzHAbQN) | 2:21 | 2026-04-13 |  |
 | [Care Less](https://open.spotify.com/track/2Rs0Sd7bdJaTd9QYfA11Jf) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [The Art Of Closure](https://open.spotify.com/album/1uVSiPRSZMowsV2ZbbX4NW) | 3:46 | 2024-05-01 |  |
 | [Catch Me In The Air](https://open.spotify.com/track/6GAVS2iuybWCP2oxMKufp1) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hold The Girl](https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS) | 3:35 | 2024-05-01 |  |
 | [Clouds](https://open.spotify.com/track/2S30osPVXM82F0Trgd4zbc) | [Steps](https://open.spotify.com/artist/17UkABEasVRlCcIFZ3wHb7) | [What the Future Holds](https://open.spotify.com/album/7MfKuIWBxHdGuyt8HJbdPz) | 3:55 | 2024-05-01 |  |

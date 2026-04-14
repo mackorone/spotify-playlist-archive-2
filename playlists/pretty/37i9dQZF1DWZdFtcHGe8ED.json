@@ -1,6 +1,6 @@
 {
   "description": "All the greatest Thrash tunes - from classics to the best new tracks. Cover: Megadeth",
-  "num_followers": 583628,
+  "num_followers": 583658,
   "original_name": "Thrashers",
   "owner": {
     "name": "Spotify",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2026-02-06 16:07:07",
       "album": {
-        "name": "Five Serpent's Teeth",
-        "url": "https://open.spotify.com/album/3VL9IPd5pYeOXJJcRSUXpK"
-      },
-      "artists": [
-        {
-          "name": "Evile",
-          "url": "https://open.spotify.com/artist/1dwrMJAKBiLlj0O4R791Xo"
-        }
-      ],
-      "duration_ms": 291960,
-      "name": "Cult",
-      "url": "https://open.spotify.com/track/7jkdjLkhSQRcVA3lsnTClQ"
-    },
-    {
-      "added_at": "2026-02-06 16:07:07",
-      "album": {
         "name": "Darkness Descends",
         "url": "https://open.spotify.com/album/1IRzwwevpNSdxERoRIKQrw"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 347093,
       "name": "Darkness Descends",
       "url": "https://open.spotify.com/track/1zI8yKFcmjtgdFbEoTHn94"
+    },
+    {
+      "added_at": "2026-02-06 16:07:07",
+      "album": {
+        "name": "Five Serpent's Teeth",
+        "url": "https://open.spotify.com/album/3VL9IPd5pYeOXJJcRSUXpK"
+      },
+      "artists": [
+        {
+          "name": "Evile",
+          "url": "https://open.spotify.com/artist/1dwrMJAKBiLlj0O4R791Xo"
+        }
+      ],
+      "duration_ms": 291960,
+      "name": "Cult",
+      "url": "https://open.spotify.com/track/7jkdjLkhSQRcVA3lsnTClQ"
     },
     {
       "added_at": "2026-02-06 16:07:07",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2026-02-06 16:07:07",
       "album": {
-        "name": "Empire of the Blind",
-        "url": "https://open.spotify.com/album/217f4bYa9XozSYchLop1qW"
-      },
-      "artists": [
-        {
-          "name": "Heathen",
-          "url": "https://open.spotify.com/artist/3VD3oXiELCSHXzR4XXnlaF"
-        }
-      ],
-      "duration_ms": 351613,
-      "name": "Empire of the Blind",
-      "url": "https://open.spotify.com/track/7f9GwtBThFbtYnxc7X47XE"
-    },
-    {
-      "added_at": "2026-02-06 16:07:07",
-      "album": {
         "name": "Heavy Metal Maniac",
         "url": "https://open.spotify.com/album/4jV5DFEggX8yPy0CPQ42il"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 227453,
       "name": "Heavy Metal Maniac",
       "url": "https://open.spotify.com/track/2HcMXZJ8TR0CFiePEqhHLW"
+    },
+    {
+      "added_at": "2026-02-06 16:07:07",
+      "album": {
+        "name": "Empire of the Blind",
+        "url": "https://open.spotify.com/album/217f4bYa9XozSYchLop1qW"
+      },
+      "artists": [
+        {
+          "name": "Heathen",
+          "url": "https://open.spotify.com/artist/3VD3oXiELCSHXzR4XXnlaF"
+        }
+      ],
+      "duration_ms": 351613,
+      "name": "Empire of the Blind",
+      "url": "https://open.spotify.com/track/7f9GwtBThFbtYnxc7X47XE"
     },
     {
       "added_at": "2026-02-06 16:07:07",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2026-02-06 16:07:07",
       "album": {
-        "name": "Cabaret De La Guillotine",
-        "url": "https://open.spotify.com/album/76dTSQmBFHcITyGb89GcfC"
-      },
-      "artists": [
-        {
-          "name": "Angelus Apatrida",
-          "url": "https://open.spotify.com/artist/3bnPBquC93vbHmamojAf59"
-        }
-      ],
-      "duration_ms": 361013,
-      "name": "Sharpen the Guillotine",
-      "url": "https://open.spotify.com/track/3qy8XCdTUJI7UGynBI7Hkn"
-    },
-    {
-      "added_at": "2026-02-06 16:07:07",
-      "album": {
         "name": "World Circus",
         "url": "https://open.spotify.com/album/0vpkJpw2GlqWu2oENfdXYx"
       },
@@ -1599,18 +1583,34 @@
     {
       "added_at": "2026-02-06 16:07:07",
       "album": {
-        "name": "Satanic Anarchy",
-        "url": "https://open.spotify.com/album/28JXUCxtf9uAdkponjtqC3"
+        "name": "Cabaret De La Guillotine",
+        "url": "https://open.spotify.com/album/76dTSQmBFHcITyGb89GcfC"
       },
       "artists": [
         {
-          "name": "Kreator",
-          "url": "https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv"
+          "name": "Angelus Apatrida",
+          "url": "https://open.spotify.com/artist/3bnPBquC93vbHmamojAf59"
         }
       ],
-      "duration_ms": 213253,
-      "name": "Satanic Anarchy",
-      "url": "https://open.spotify.com/track/5DBq7GYcLnQLkNQMzKb5mN"
+      "duration_ms": 361013,
+      "name": "Sharpen the Guillotine",
+      "url": "https://open.spotify.com/track/3qy8XCdTUJI7UGynBI7Hkn"
+    },
+    {
+      "added_at": "2026-02-06 16:07:07",
+      "album": {
+        "name": "Punishment for Decadence",
+        "url": "https://open.spotify.com/album/2o6XqegTow2rfyKM9UglBX"
+      },
+      "artists": [
+        {
+          "name": "Coroner",
+          "url": "https://open.spotify.com/artist/7lfdXL6PuTM5iWJNvI7PPV"
+        }
+      ],
+      "duration_ms": 287600,
+      "name": "Masked Jackal",
+      "url": "https://open.spotify.com/track/2pjI7phMrTO2KOJCqCkHIU"
     },
     {
       "added_at": "2026-02-06 16:07:07",
@@ -1647,34 +1647,18 @@
     {
       "added_at": "2026-02-06 16:07:07",
       "album": {
-        "name": "Punishment for Decadence",
-        "url": "https://open.spotify.com/album/2o6XqegTow2rfyKM9UglBX"
+        "name": "Satanic Anarchy",
+        "url": "https://open.spotify.com/album/28JXUCxtf9uAdkponjtqC3"
       },
       "artists": [
         {
-          "name": "Coroner",
-          "url": "https://open.spotify.com/artist/7lfdXL6PuTM5iWJNvI7PPV"
+          "name": "Kreator",
+          "url": "https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv"
         }
       ],
-      "duration_ms": 287600,
-      "name": "Masked Jackal",
-      "url": "https://open.spotify.com/track/2pjI7phMrTO2KOJCqCkHIU"
-    },
-    {
-      "added_at": "2026-02-06 16:07:07",
-      "album": {
-        "name": "Idle Hands",
-        "url": "https://open.spotify.com/album/4cGGbyTuQsDv2CnGyqGKHU"
-      },
-      "artists": [
-        {
-          "name": "Kerry King",
-          "url": "https://open.spotify.com/artist/6r1McS7CU46TsVEh1ckGuH"
-        }
-      ],
-      "duration_ms": 224411,
-      "name": "Idle Hands",
-      "url": "https://open.spotify.com/track/3R0OvTDCFbarllFOnzKRWg"
+      "duration_ms": 213253,
+      "name": "Satanic Anarchy",
+      "url": "https://open.spotify.com/track/5DBq7GYcLnQLkNQMzKb5mN"
     },
     {
       "added_at": "2026-02-06 16:07:07",
@@ -1695,6 +1679,22 @@
     {
       "added_at": "2026-02-06 16:07:07",
       "album": {
+        "name": "Idle Hands",
+        "url": "https://open.spotify.com/album/4cGGbyTuQsDv2CnGyqGKHU"
+      },
+      "artists": [
+        {
+          "name": "Kerry King",
+          "url": "https://open.spotify.com/artist/6r1McS7CU46TsVEh1ckGuH"
+        }
+      ],
+      "duration_ms": 224411,
+      "name": "Idle Hands",
+      "url": "https://open.spotify.com/track/3R0OvTDCFbarllFOnzKRWg"
+    },
+    {
+      "added_at": "2026-02-06 16:07:07",
+      "album": {
         "name": "Twisted Into Form",
         "url": "https://open.spotify.com/album/06cQQ47KHUZf6bAuflpbb0"
       },
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2026-02-06 16:07:07",
       "album": {
-        "name": "Speed Between the Lines",
-        "url": "https://open.spotify.com/album/3Ti0nXYU3jdrWkIV8gxpaA"
-      },
-      "artists": [
-        {
-          "name": "Gama Bomb",
-          "url": "https://open.spotify.com/artist/7h0muodpQ1q5o3RajwownN"
-        }
-      ],
-      "duration_ms": 230560,
-      "name": "Give Me Leather",
-      "url": "https://open.spotify.com/track/0W5YJVzJ9WABd2vmoqmlC8"
-    },
-    {
-      "added_at": "2026-02-06 16:07:07",
-      "album": {
         "name": "Knee-Deep in the Dead",
         "url": "https://open.spotify.com/album/601ESzEhbKX64VRAj8GA4F"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 267253,
       "name": "Mad Dictator",
       "url": "https://open.spotify.com/track/3WGMxrtnHowRRdmHctXfpW"
+    },
+    {
+      "added_at": "2026-02-06 16:07:07",
+      "album": {
+        "name": "Speed Between the Lines",
+        "url": "https://open.spotify.com/album/3Ti0nXYU3jdrWkIV8gxpaA"
+      },
+      "artists": [
+        {
+          "name": "Gama Bomb",
+          "url": "https://open.spotify.com/artist/7h0muodpQ1q5o3RajwownN"
+        }
+      ],
+      "duration_ms": 230560,
+      "name": "Give Me Leather",
+      "url": "https://open.spotify.com/track/0W5YJVzJ9WABd2vmoqmlC8"
     },
     {
       "added_at": "2026-02-06 16:07:07",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2026-02-06 16:07:07",
       "album": {
-        "name": "Activate",
-        "url": "https://open.spotify.com/album/0rfHDsz52JsOhrqHSosKRs"
-      },
-      "artists": [
-        {
-          "name": "Vektor",
-          "url": "https://open.spotify.com/artist/09mNj9XgCqgg6usfeXOoBg"
-        }
-      ],
-      "duration_ms": 210288,
-      "name": "Activate",
-      "url": "https://open.spotify.com/track/6K4sl3JE7oeuUhDJvy9ku3"
-    },
-    {
-      "added_at": "2026-02-06 16:07:07",
-      "album": {
         "name": "Decade of Revival",
         "url": "https://open.spotify.com/album/7hnmaMO1cyVUtgX9DSbOOJ"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 177206,
       "name": "Space Seed",
       "url": "https://open.spotify.com/track/04Db6DnoyLOzHg2hXMRQsm"
+    },
+    {
+      "added_at": "2026-02-06 16:07:07",
+      "album": {
+        "name": "Activate",
+        "url": "https://open.spotify.com/album/0rfHDsz52JsOhrqHSosKRs"
+      },
+      "artists": [
+        {
+          "name": "Vektor",
+          "url": "https://open.spotify.com/artist/09mNj9XgCqgg6usfeXOoBg"
+        }
+      ],
+      "duration_ms": 210288,
+      "name": "Activate",
+      "url": "https://open.spotify.com/track/6K4sl3JE7oeuUhDJvy9ku3"
     },
     {
       "added_at": "2026-02-06 16:07:07",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2026-02-06 16:07:07",
       "album": {
-        "name": "The Return of Gor Gor",
-        "url": "https://open.spotify.com/album/3BXP8puT6OR8NfBKAejNsJ"
-      },
-      "artists": [
-        {
-          "name": "Gwar",
-          "url": "https://open.spotify.com/artist/3dnH7fdVm2X07MK6Fkbhbt"
-        }
-      ],
-      "duration_ms": 206185,
-      "name": "Tyrant King",
-      "url": "https://open.spotify.com/track/43S1Zw11WVZxVxoMczFXTu"
-    },
-    {
-      "added_at": "2026-02-06 16:07:07",
-      "album": {
         "name": "V",
         "url": "https://open.spotify.com/album/0Fkj9N2dzhtukOFYnauPO0"
       },
@@ -1883,6 +1867,22 @@
       "duration_ms": 242660,
       "name": "Interface with the Infinite",
       "url": "https://open.spotify.com/track/3DVcZjs38AN1yyV6919IWb"
+    },
+    {
+      "added_at": "2026-02-06 16:07:07",
+      "album": {
+        "name": "The Return of Gor Gor",
+        "url": "https://open.spotify.com/album/3BXP8puT6OR8NfBKAejNsJ"
+      },
+      "artists": [
+        {
+          "name": "Gwar",
+          "url": "https://open.spotify.com/artist/3dnH7fdVm2X07MK6Fkbhbt"
+        }
+      ],
+      "duration_ms": 206185,
+      "name": "Tyrant King",
+      "url": "https://open.spotify.com/track/43S1Zw11WVZxVxoMczFXTu"
     },
     {
       "added_at": "2026-02-06 16:07:07",
@@ -2307,6 +2307,22 @@
     {
       "added_at": "2026-02-06 16:07:07",
       "album": {
+        "name": "Ascension",
+        "url": "https://open.spotify.com/album/3HkxiSSIxRaT5HaIFR9NDN"
+      },
+      "artists": [
+        {
+          "name": "Paladin",
+          "url": "https://open.spotify.com/artist/3qQtwCBsbL4gkvUfaI4KyQ"
+        }
+      ],
+      "duration_ms": 341804,
+      "name": "Awakening",
+      "url": "https://open.spotify.com/track/1VJDR7IYmHkHpgiw6txEFI"
+    },
+    {
+      "added_at": "2026-02-06 16:07:07",
+      "album": {
         "name": "Executioner's Tax (Swing of the Axe) [feat. David Sanchez, Guillermo Izquierdo, Juli Bazooka, Lenny Bruce, Andrew Hudson & Spyros Lafias]",
         "url": "https://open.spotify.com/album/3VmidyqcmPSnZbh2gsEVuI"
       },
@@ -2343,22 +2359,6 @@
       "duration_ms": 229580,
       "name": "Executioner's Tax (Swing of the Axe) [feat. David Sanchez, Guillermo Izquierdo, Juli Bazooka, Lenny Bruce, Andrew Hudson & Spyros Lafias]",
       "url": "https://open.spotify.com/track/16eCW4AHKMNsxLYD4thQGr"
-    },
-    {
-      "added_at": "2026-02-06 16:07:07",
-      "album": {
-        "name": "Ascension",
-        "url": "https://open.spotify.com/album/3HkxiSSIxRaT5HaIFR9NDN"
-      },
-      "artists": [
-        {
-          "name": "Paladin",
-          "url": "https://open.spotify.com/artist/3qQtwCBsbL4gkvUfaI4KyQ"
-        }
-      ],
-      "duration_ms": 341804,
-      "name": "Awakening",
-      "url": "https://open.spotify.com/track/1VJDR7IYmHkHpgiw6txEFI"
     },
     {
       "added_at": "2026-02-06 16:07:07",
@@ -2459,22 +2459,6 @@
     {
       "added_at": "2026-02-06 16:07:07",
       "album": {
-        "name": "Index Case",
-        "url": "https://open.spotify.com/album/6HqyU5Uy6UoqCgGEfriQzH"
-      },
-      "artists": [
-        {
-          "name": "Wraith",
-          "url": "https://open.spotify.com/artist/2PoKRqTdpPPNoeuLudp0yS"
-        }
-      ],
-      "duration_ms": 115083,
-      "name": "Extinction",
-      "url": "https://open.spotify.com/track/239D9QunfPbo8mSeU9Jod6"
-    },
-    {
-      "added_at": "2026-02-06 16:07:07",
-      "album": {
         "name": "Curtain Fire",
         "url": "https://open.spotify.com/album/3huHjUWVjDpZykc9hTbqDP"
       },
@@ -2487,6 +2471,22 @@
       "duration_ms": 274816,
       "name": "Curtain Fire",
       "url": "https://open.spotify.com/track/0bNcU1wxJsgSUnMbmLkzkE"
+    },
+    {
+      "added_at": "2026-02-06 16:07:07",
+      "album": {
+        "name": "Index Case",
+        "url": "https://open.spotify.com/album/6HqyU5Uy6UoqCgGEfriQzH"
+      },
+      "artists": [
+        {
+          "name": "Wraith",
+          "url": "https://open.spotify.com/artist/2PoKRqTdpPPNoeuLudp0yS"
+        }
+      ],
+      "duration_ms": 115083,
+      "name": "Extinction",
+      "url": "https://open.spotify.com/track/239D9QunfPbo8mSeU9Jod6"
     },
     {
       "added_at": "2026-02-06 16:07:07",
@@ -2523,22 +2523,6 @@
     {
       "added_at": "2026-02-06 16:07:07",
       "album": {
-        "name": "Witchhunter",
-        "url": "https://open.spotify.com/album/3q5rsWlCgNVijvttFxyVS2"
-      },
-      "artists": [
-        {
-          "name": "Sodom",
-          "url": "https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM"
-        }
-      ],
-      "duration_ms": 193345,
-      "name": "Witchhunter",
-      "url": "https://open.spotify.com/track/3TwPSVjOCFJaYKAjY433NX"
-    },
-    {
-      "added_at": "2026-02-06 16:07:07",
-      "album": {
         "name": "Miami Supercops",
         "url": "https://open.spotify.com/album/4Eu7a3XOyHwruAjlW5reZL"
       },
@@ -2555,18 +2539,18 @@
     {
       "added_at": "2026-02-06 16:07:07",
       "album": {
-        "name": "Indoctrinate",
-        "url": "https://open.spotify.com/album/5znqQUUxyrHcr4nLEmNLjo"
+        "name": "Witchhunter",
+        "url": "https://open.spotify.com/album/3q5rsWlCgNVijvttFxyVS2"
       },
       "artists": [
         {
-          "name": "Angelus Apatrida",
-          "url": "https://open.spotify.com/artist/3bnPBquC93vbHmamojAf59"
+          "name": "Sodom",
+          "url": "https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM"
         }
       ],
-      "duration_ms": 339253,
-      "name": "Indoctrinate",
-      "url": "https://open.spotify.com/track/0YG3IZcxzcr2ore9vV6zey"
+      "duration_ms": 193345,
+      "name": "Witchhunter",
+      "url": "https://open.spotify.com/track/3TwPSVjOCFJaYKAjY433NX"
     },
     {
       "added_at": "2026-02-06 16:07:07",
@@ -2587,6 +2571,22 @@
     {
       "added_at": "2026-02-06 16:07:07",
       "album": {
+        "name": "Indoctrinate",
+        "url": "https://open.spotify.com/album/5znqQUUxyrHcr4nLEmNLjo"
+      },
+      "artists": [
+        {
+          "name": "Angelus Apatrida",
+          "url": "https://open.spotify.com/artist/3bnPBquC93vbHmamojAf59"
+        }
+      ],
+      "duration_ms": 339253,
+      "name": "Indoctrinate",
+      "url": "https://open.spotify.com/track/0YG3IZcxzcr2ore9vV6zey"
+    },
+    {
+      "added_at": "2026-02-06 16:07:07",
+      "album": {
         "name": "Sever The Tongue",
         "url": "https://open.spotify.com/album/3Hm85xoM0c1XorBsEqOenD"
       },
@@ -2603,22 +2603,6 @@
     {
       "added_at": "2026-02-06 16:07:07",
       "album": {
-        "name": "I DON'T CARE",
-        "url": "https://open.spotify.com/album/6hqGICaMW5DYamLbFJKV6B"
-      },
-      "artists": [
-        {
-          "name": "Rebellix",
-          "url": "https://open.spotify.com/artist/14vv7UPCgmn92Dw72ZJi5O"
-        }
-      ],
-      "duration_ms": 193981,
-      "name": "I DON'T CARE",
-      "url": "https://open.spotify.com/track/7HrJJfe4Aey9LaTUCE9mU8"
-    },
-    {
-      "added_at": "2026-02-06 16:07:07",
-      "album": {
         "name": "Disco Nnection",
         "url": "https://open.spotify.com/album/0SI5GPdVgtuOIZ40QGGnxK"
       },
@@ -2631,6 +2615,22 @@
       "duration_ms": 255053,
       "name": "Disco Nnection",
       "url": "https://open.spotify.com/track/5fkylI4UHIFITBnfpZQml9"
+    },
+    {
+      "added_at": "2026-02-06 16:07:07",
+      "album": {
+        "name": "I DON'T CARE",
+        "url": "https://open.spotify.com/album/6hqGICaMW5DYamLbFJKV6B"
+      },
+      "artists": [
+        {
+          "name": "Rebellix",
+          "url": "https://open.spotify.com/artist/14vv7UPCgmn92Dw72ZJi5O"
+        }
+      ],
+      "duration_ms": 193981,
+      "name": "I DON'T CARE",
+      "url": "https://open.spotify.com/track/7HrJJfe4Aey9LaTUCE9mU8"
     },
     {
       "added_at": "2026-02-06 16:07:07",
@@ -2795,22 +2795,6 @@
     {
       "added_at": "2026-02-06 16:07:07",
       "album": {
-        "name": "She's Had Enough",
-        "url": "https://open.spotify.com/album/26bxp91QjlP4zrZnGyZ47G"
-      },
-      "artists": [
-        {
-          "name": "Waxed",
-          "url": "https://open.spotify.com/artist/4jW7rGR5aeJpsEhmv3PAtY"
-        }
-      ],
-      "duration_ms": 289706,
-      "name": "She's Had Enough",
-      "url": "https://open.spotify.com/track/7ADbNNzzIBZupfq5KYYjiF"
-    },
-    {
-      "added_at": "2026-02-06 16:07:07",
-      "album": {
         "name": "The Affair of the Poisons",
         "url": "https://open.spotify.com/album/72u2NjAYxQZMP9Infns04n"
       },
@@ -2839,6 +2823,22 @@
       "duration_ms": 249531,
       "name": "66 Exeter Street",
       "url": "https://open.spotify.com/track/0oSILLUEwuFTFRsz5Twe56"
+    },
+    {
+      "added_at": "2026-02-06 16:07:07",
+      "album": {
+        "name": "She's Had Enough",
+        "url": "https://open.spotify.com/album/26bxp91QjlP4zrZnGyZ47G"
+      },
+      "artists": [
+        {
+          "name": "Waxed",
+          "url": "https://open.spotify.com/artist/4jW7rGR5aeJpsEhmv3PAtY"
+        }
+      ],
+      "duration_ms": 289706,
+      "name": "She's Had Enough",
+      "url": "https://open.spotify.com/track/7ADbNNzzIBZupfq5KYYjiF"
     },
     {
       "added_at": "2026-02-06 16:07:07",
@@ -2975,18 +2975,18 @@
     {
       "added_at": "2026-02-06 16:07:07",
       "album": {
-        "name": "Reap What You Sow",
-        "url": "https://open.spotify.com/album/1PuGGc7XpxBaAlizciA24e"
+        "name": "Let the World Burn",
+        "url": "https://open.spotify.com/album/1kQuMFWJMNmcyH3OpZR3Qn"
       },
       "artists": [
         {
-          "name": "Evile",
-          "url": "https://open.spotify.com/artist/1dwrMJAKBiLlj0O4R791Xo"
+          "name": "Vio-Lence",
+          "url": "https://open.spotify.com/artist/0cBWwOJCsZ9RQW9kBBw5df"
         }
       ],
-      "duration_ms": 238106,
-      "name": "Reap What You Sow",
-      "url": "https://open.spotify.com/track/0PbOpIcpyKYKfL3Iuz4g9S"
+      "duration_ms": 327953,
+      "name": "Upon Their Cross",
+      "url": "https://open.spotify.com/track/4PSmqz3YU0K3aT9q2mWG1r"
     },
     {
       "added_at": "2026-02-06 16:07:07",
@@ -3007,18 +3007,18 @@
     {
       "added_at": "2026-02-06 16:07:07",
       "album": {
-        "name": "Let the World Burn",
-        "url": "https://open.spotify.com/album/1kQuMFWJMNmcyH3OpZR3Qn"
+        "name": "Reap What You Sow",
+        "url": "https://open.spotify.com/album/1PuGGc7XpxBaAlizciA24e"
       },
       "artists": [
         {
-          "name": "Vio-Lence",
-          "url": "https://open.spotify.com/artist/0cBWwOJCsZ9RQW9kBBw5df"
+          "name": "Evile",
+          "url": "https://open.spotify.com/artist/1dwrMJAKBiLlj0O4R791Xo"
         }
       ],
-      "duration_ms": 327953,
-      "name": "Upon Their Cross",
-      "url": "https://open.spotify.com/track/4PSmqz3YU0K3aT9q2mWG1r"
+      "duration_ms": 238106,
+      "name": "Reap What You Sow",
+      "url": "https://open.spotify.com/track/0PbOpIcpyKYKfL3Iuz4g9S"
     },
     {
       "added_at": "2026-02-06 16:07:07",
@@ -3055,22 +3055,6 @@
     {
       "added_at": "2026-02-06 16:07:07",
       "album": {
-        "name": "Recycled Hate",
-        "url": "https://open.spotify.com/album/4i8j5yuwU0ytacVJnUujp7"
-      },
-      "artists": [
-        {
-          "name": "Inhuman Condition",
-          "url": "https://open.spotify.com/artist/3unugXDIgyLGDkorSoRTfm"
-        }
-      ],
-      "duration_ms": 205541,
-      "name": "Recycled Hate",
-      "url": "https://open.spotify.com/track/35a7t2h5N2ewK9r18l8S0k"
-    },
-    {
-      "added_at": "2026-02-06 16:07:07",
-      "album": {
         "name": "In Thrash We Trust",
         "url": "https://open.spotify.com/album/2lnSedpTsd2fw33TmgDUQU"
       },
@@ -3083,6 +3067,22 @@
       "duration_ms": 249346,
       "name": "In Thrash We Trust",
       "url": "https://open.spotify.com/track/7pqsRGZ99q4Cl6uI9TmlJ2"
+    },
+    {
+      "added_at": "2026-02-06 16:07:07",
+      "album": {
+        "name": "Recycled Hate",
+        "url": "https://open.spotify.com/album/4i8j5yuwU0ytacVJnUujp7"
+      },
+      "artists": [
+        {
+          "name": "Inhuman Condition",
+          "url": "https://open.spotify.com/artist/3unugXDIgyLGDkorSoRTfm"
+        }
+      ],
+      "duration_ms": 205541,
+      "name": "Recycled Hate",
+      "url": "https://open.spotify.com/track/35a7t2h5N2ewK9r18l8S0k"
     },
     {
       "added_at": "2026-02-06 16:07:07",
@@ -3231,18 +3231,18 @@
     {
       "added_at": "2026-02-06 16:07:07",
       "album": {
-        "name": "Maze of the Mind",
-        "url": "https://open.spotify.com/album/58Mk3M4fY8aG2kFImtQTAA"
+        "name": "Illusion of Existence",
+        "url": "https://open.spotify.com/album/5QJVXAmX39ddZtJNwq3vnq"
       },
       "artists": [
         {
-          "name": "Battlecreek",
-          "url": "https://open.spotify.com/artist/2wUKcOuW5xBpCKxnWOoxnI"
+          "name": "Refore",
+          "url": "https://open.spotify.com/artist/4MmDues4Gop2TTlDJLQNBF"
         }
       ],
-      "duration_ms": 314613,
-      "name": "Implosion of the Sun",
-      "url": "https://open.spotify.com/track/60Ywfl0cCvIK4fMoSl0Wci"
+      "duration_ms": 233368,
+      "name": "Illusion of Existence",
+      "url": "https://open.spotify.com/track/1T7pML1JBYs1IQ50uE2wwy"
     }
   ],
   "unique_name": "Thrashers",

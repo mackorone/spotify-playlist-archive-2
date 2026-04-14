@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music from independent artists in the UK and Ireland\. Cover: Bypass Music
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,265 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,267 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 3 | [Time Lost](https://open.spotify.com/track/0aHSrR8RefR8MbMt5X9DYo) | [Kanako Yamamoto](https://open.spotify.com/artist/7cXNcMV0AIIfCqFHjLnl6E) | [Time Lost](https://open.spotify.com/album/4CJCGMU40qZmYtJrAgJJrO) | 2:45 |
 | 4 | [made it](https://open.spotify.com/track/7dgudBKMEhbVjo1cDGePp8) | [drifting.](https://open.spotify.com/artist/4VEAvjBB04pvTuBP06UeAV) | [made it](https://open.spotify.com/album/2VYJYWA0P1Iz1F1c82LkLR) | 2:34 |
 | 5 | [KookieCannibal](https://open.spotify.com/track/4cBvn41NnVmR7EZmbI18xW) | [My Precious Bunny](https://open.spotify.com/artist/0F9Ze647kaLptWQU2Pg0u2) | [KookieCannibal](https://open.spotify.com/album/7ygysUSDfyvk1ajHe139vp) | 3:47 |
-| 6 | [All I Ever Wanted](https://open.spotify.com/track/5eMCOfpcYgPnzcEZ2CLGgP) | [Naima Adams](https://open.spotify.com/artist/0uj0S7PeKD9mVamrqi6cRc) | [All I Ever Wanted](https://open.spotify.com/album/5KBcmZqqERngJeAaUvmS4c) | 3:23 |
+| 6 | [All I Ever Wanted](https://open.spotify.com/track/5eMCOfpcYgPnzcEZ2CLGgP) | [Naima Adams](https://open.spotify.com/artist/0uj0S7PeKD9mVamrqi6cRc) | [All I Ever Wanted](https://open.spotify.com/album/5KBcmZqqERngJeAaUvmS4c) | 3:24 |
 | 7 | [All Day](https://open.spotify.com/track/6gxmJyDO8NlP96bFU4nYPe) | [Ghoulish](https://open.spotify.com/artist/4m1NhStbUaIZkgfbnnIQeK) | [All Day](https://open.spotify.com/album/3C3PiPEzHq22uivC7iEpFd) | 4:12 |
 | 8 | [Sunrise](https://open.spotify.com/track/43dTLOTFP9HRBxy9dDV7JG) | [Naiyah](https://open.spotify.com/artist/75EPu5pK1tSyy0d0FATDvB) | [Sunrise](https://open.spotify.com/album/2kXcnxi134zzN4nmGjJ4Tj) | 4:13 |
 | 9 | [Big Machine](https://open.spotify.com/track/64OQZBi3pOfJaoZH99yDis) | [Bonnie Kemplay](https://open.spotify.com/artist/4hPxGC5HIlcK36XGqoYCpZ) | [Big Machine](https://open.spotify.com/album/56svbyQy7C9Wr1Ul1hpCpS) | 2:56 |

@@ -1,6 +1,6 @@
 {
   "description": "mate- Bus stop!",
-  "num_followers": 20165,
+  "num_followers": 20192,
   "original_name": "Troski Rhythms",
   "owner": {
     "name": "Spotify",
@@ -375,6 +375,22 @@
     {
       "added_at": "2026-04-10 08:53:49",
       "album": {
+        "name": "SOMETHING",
+        "url": "https://open.spotify.com/album/3Qmuuv3vABDE0tTJ1vUO8D"
+      },
+      "artists": [
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "duration_ms": 188411,
+      "name": "SOMETHING",
+      "url": "https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w"
+    },
+    {
+      "added_at": "2026-04-10 08:53:49",
+      "album": {
         "name": "Mariana",
         "url": "https://open.spotify.com/album/6IDE7vBvoNuLeQaEGHYIWX"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 148153,
       "name": "Mariana",
       "url": "https://open.spotify.com/track/0eN2iadqY8XAVqlx20EM6R"
-    },
-    {
-      "added_at": "2026-04-10 08:53:49",
-      "album": {
-        "name": "SOMETHING",
-        "url": "https://open.spotify.com/album/3Qmuuv3vABDE0tTJ1vUO8D"
-      },
-      "artists": [
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        }
-      ],
-      "duration_ms": 188411,
-      "name": "SOMETHING",
-      "url": "https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w"
     },
     {
       "added_at": "2026-04-10 08:53:49",
@@ -467,6 +467,22 @@
     {
       "added_at": "2026-04-10 08:53:49",
       "album": {
+        "name": "Rent Free",
+        "url": "https://open.spotify.com/album/6cryLTyBj54kNA59giEvbA"
+      },
+      "artists": [
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "duration_ms": 136842,
+      "name": "Rent Free",
+      "url": "https://open.spotify.com/track/320cXn7htYGuAzNyxLDs3M"
+    },
+    {
+      "added_at": "2026-04-10 08:53:49",
+      "album": {
         "name": "See What We've Done",
         "url": "https://open.spotify.com/album/5joD3BWyBtdMgOWX0HfT42"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 185719,
       "name": "See What We've Done",
       "url": "https://open.spotify.com/track/3lwmzgzAU2IS0GLPGNdZ4b"
-    },
-    {
-      "added_at": "2026-04-10 08:53:49",
-      "album": {
-        "name": "Rent Free",
-        "url": "https://open.spotify.com/album/6cryLTyBj54kNA59giEvbA"
-      },
-      "artists": [
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        }
-      ],
-      "duration_ms": 136842,
-      "name": "Rent Free",
-      "url": "https://open.spotify.com/track/320cXn7htYGuAzNyxLDs3M"
     },
     {
       "added_at": "2026-04-10 08:53:49",
@@ -815,22 +815,6 @@
     {
       "added_at": "2026-04-10 08:53:49",
       "album": {
-        "name": "sankofa",
-        "url": "https://open.spotify.com/album/3LWU6KJE2nMfhQNI2pSVCY"
-      },
-      "artists": [
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        }
-      ],
-      "duration_ms": 156200,
-      "name": "sankofa",
-      "url": "https://open.spotify.com/track/0JwTlwOTMnxar1Sk0tBVaj"
-    },
-    {
-      "added_at": "2026-04-10 08:53:49",
-      "album": {
         "name": "Tomorrow",
         "url": "https://open.spotify.com/album/0UZfeZizENHfRbHmrCXbV6"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 146000,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/6NymBsuoyIsjNxZFZRmynz"
+    },
+    {
+      "added_at": "2026-04-10 08:53:49",
+      "album": {
+        "name": "sankofa",
+        "url": "https://open.spotify.com/album/3LWU6KJE2nMfhQNI2pSVCY"
+      },
+      "artists": [
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "duration_ms": 156200,
+      "name": "sankofa",
+      "url": "https://open.spotify.com/track/0JwTlwOTMnxar1Sk0tBVaj"
     },
     {
       "added_at": "2026-04-10 08:53:49",
@@ -899,26 +899,6 @@
     {
       "added_at": "2026-04-10 08:53:49",
       "album": {
-        "name": "Put It On God",
-        "url": "https://open.spotify.com/album/5Lj5IvWqfZkWjbbYIu0wCH"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "AlorG",
-          "url": "https://open.spotify.com/artist/3XVsxJ7cSnDnHtssbKiIPb"
-        }
-      ],
-      "duration_ms": 214426,
-      "name": "Put It On God",
-      "url": "https://open.spotify.com/track/0NdcAYoqISuYatf5IDQ7FK"
-    },
-    {
-      "added_at": "2026-04-10 08:53:49",
-      "album": {
         "name": "After The Storm",
         "url": "https://open.spotify.com/album/0KAOzTgE6sRm9LKOoFsPW4"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 168000,
       "name": "After The Storm",
       "url": "https://open.spotify.com/track/4hXheeJyYrG8j6YpKzZd38"
+    },
+    {
+      "added_at": "2026-04-10 08:53:49",
+      "album": {
+        "name": "Put It On God",
+        "url": "https://open.spotify.com/album/5Lj5IvWqfZkWjbbYIu0wCH"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "AlorG",
+          "url": "https://open.spotify.com/artist/3XVsxJ7cSnDnHtssbKiIPb"
+        }
+      ],
+      "duration_ms": 214426,
+      "name": "Put It On God",
+      "url": "https://open.spotify.com/track/0NdcAYoqISuYatf5IDQ7FK"
     },
     {
       "added_at": "2026-04-10 08:53:49",
@@ -991,6 +991,22 @@
     {
       "added_at": "2026-04-10 08:53:49",
       "album": {
+        "name": "Terminator",
+        "url": "https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 155897,
+      "name": "Terminator",
+      "url": "https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78"
+    },
+    {
+      "added_at": "2026-04-10 08:53:49",
+      "album": {
         "name": "Wins & Losses",
         "url": "https://open.spotify.com/album/57SzMLliAmulps9UDpDOLk"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 179825,
       "name": "Wins & Losses",
       "url": "https://open.spotify.com/track/7ax7PkGEpJueZLT0nD6sBS"
-    },
-    {
-      "added_at": "2026-04-10 08:53:49",
-      "album": {
-        "name": "Terminator",
-        "url": "https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 155897,
-      "name": "Terminator",
-      "url": "https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78"
     },
     {
       "added_at": "2026-04-10 08:53:49",
@@ -1139,30 +1139,18 @@
     {
       "added_at": "2026-04-10 08:53:49",
       "album": {
-        "name": "From The Soil (Deluxe)",
-        "url": "https://open.spotify.com/album/59SDRCS6J3z8NouM1PRHDO"
+        "name": "Aketesia",
+        "url": "https://open.spotify.com/album/41RLbSayOHr6zH617y2SNB"
       },
       "artists": [
         {
-          "name": "Jubed",
-          "url": "https://open.spotify.com/artist/1cRKqHdKhNPTdouuF6HcbC"
-        },
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        },
-        {
-          "name": "Yemi Alade",
-          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
-        },
-        {
-          "name": "Prince Mk Baagi",
-          "url": "https://open.spotify.com/artist/5XjKFOEIxrR3zRZcVHFYfT"
+          "name": "Cojo Rae",
+          "url": "https://open.spotify.com/artist/2cyI5iIzdXOeUWRWBzfNlC"
         }
       ],
-      "duration_ms": 183050,
-      "name": "Ruwa II",
-      "url": "https://open.spotify.com/track/28R9kqOIrgZ088NsPziz9S"
+      "duration_ms": 193562,
+      "name": "Aketesia",
+      "url": "https://open.spotify.com/track/1OBLsg0ms0mNlZsvXOd4hm"
     },
     {
       "added_at": "2026-04-10 08:53:49",
@@ -1187,18 +1175,30 @@
     {
       "added_at": "2026-04-10 08:53:49",
       "album": {
-        "name": "Aketesia",
-        "url": "https://open.spotify.com/album/41RLbSayOHr6zH617y2SNB"
+        "name": "From The Soil (Deluxe)",
+        "url": "https://open.spotify.com/album/59SDRCS6J3z8NouM1PRHDO"
       },
       "artists": [
         {
-          "name": "Cojo Rae",
-          "url": "https://open.spotify.com/artist/2cyI5iIzdXOeUWRWBzfNlC"
+          "name": "Jubed",
+          "url": "https://open.spotify.com/artist/1cRKqHdKhNPTdouuF6HcbC"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        },
+        {
+          "name": "Yemi Alade",
+          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
+        },
+        {
+          "name": "Prince Mk Baagi",
+          "url": "https://open.spotify.com/artist/5XjKFOEIxrR3zRZcVHFYfT"
         }
       ],
-      "duration_ms": 193562,
-      "name": "Aketesia",
-      "url": "https://open.spotify.com/track/1OBLsg0ms0mNlZsvXOd4hm"
+      "duration_ms": 183050,
+      "name": "Ruwa II",
+      "url": "https://open.spotify.com/track/28R9kqOIrgZ088NsPziz9S"
     },
     {
       "added_at": "2026-04-10 08:53:49",
@@ -1351,6 +1351,26 @@
     {
       "added_at": "2026-04-10 08:53:49",
       "album": {
+        "name": "Go n Look",
+        "url": "https://open.spotify.com/album/0H4zop3iXGovw6xqjTLnjh"
+      },
+      "artists": [
+        {
+          "name": "Bisa Kdei",
+          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
+        },
+        {
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+        }
+      ],
+      "duration_ms": 135825,
+      "name": "Go n Look",
+      "url": "https://open.spotify.com/track/6uUh6ap9kH5Zuag6mFFW4w"
+    },
+    {
+      "added_at": "2026-04-10 08:53:49",
+      "album": {
         "name": "African King",
         "url": "https://open.spotify.com/album/0Bno7z2yVU82F0Yd5VgmdD"
       },
@@ -1407,26 +1427,6 @@
       "duration_ms": 167996,
       "name": "A Fuul",
       "url": "https://open.spotify.com/track/2kMYpI02BoSrdQhNgmXeWl"
-    },
-    {
-      "added_at": "2026-04-10 08:53:49",
-      "album": {
-        "name": "Go n Look",
-        "url": "https://open.spotify.com/album/0H4zop3iXGovw6xqjTLnjh"
-      },
-      "artists": [
-        {
-          "name": "Bisa Kdei",
-          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
-        },
-        {
-          "name": "Medikal",
-          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
-        }
-      ],
-      "duration_ms": 135825,
-      "name": "Go n Look",
-      "url": "https://open.spotify.com/track/6uUh6ap9kH5Zuag6mFFW4w"
     },
     {
       "added_at": "2026-04-10 08:53:49",

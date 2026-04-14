@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1m1kAx.md) - [plain]
 
 > This is 2Baba\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,247 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,249 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1m1kAx.md) - [plain]
 | 29 | [Iworiwo](https://open.spotify.com/track/0RiVIkA5HT68LJ4keelVqa) | [Larry Gaaga](https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Iworiwo](https://open.spotify.com/album/0ILFTgu6ivf2nIzqckeoel) | 4:02 |
 | 30 | [Dance Go \(Eau De Vie\)](https://open.spotify.com/track/4SV4FQoKZ6wH8osLAo3exO) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Face 2 Face 10.0](https://open.spotify.com/album/1PdMP3dtb5w0z4f2jVgXzF) | 3:48 |
 | 31 | [Balling](https://open.spotify.com/track/07NNN8R6nPalmCcJM8u4Ix) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Balling](https://open.spotify.com/album/1PkExWiua4WPctupFbAIBx) | 2:50 |
-| 32 | [Oya Come Make We Go](https://open.spotify.com/track/0jYQc5rfIJNgbwyDwQHS4m) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Oya Come Make We Go](https://open.spotify.com/album/56knvwpmyWDP0TKmsWubT1) | 4:19 |
-| 33 | [Rainbow](https://open.spotify.com/track/1Jumeazvmns8NKaqs2aCfS) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [AWAY & BEYOND](https://open.spotify.com/album/584KPtSKilxTAGAhzttVP6) | 4:18 |
-| 34 | [Right Here](https://open.spotify.com/track/2L7I6WIUbzBMlepi4iVfXd) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [BEENIE MAN,KUNLE,O.J.B.,BLACK FACE,DE NATIVES,FREESTYL,E.T.C.](https://open.spotify.com/artist/19cKseNCx5VEeRRLEYPybV) | [Face 2 Face](https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw) | 4:48 |
+| 32 | [Rainbow](https://open.spotify.com/track/1Jumeazvmns8NKaqs2aCfS) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [AWAY & BEYOND](https://open.spotify.com/album/584KPtSKilxTAGAhzttVP6) | 4:18 |
+| 33 | [Right Here](https://open.spotify.com/track/2L7I6WIUbzBMlepi4iVfXd) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [BEENIE MAN,KUNLE,O.J.B.,BLACK FACE,DE NATIVES,FREESTYL,E.T.C.](https://open.spotify.com/artist/19cKseNCx5VEeRRLEYPybV) | [Face 2 Face](https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw) | 4:48 |
+| 34 | [Oya Come Make We Go](https://open.spotify.com/track/0jYQc5rfIJNgbwyDwQHS4m) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Oya Come Make We Go](https://open.spotify.com/album/56knvwpmyWDP0TKmsWubT1) | 4:19 |
 | 35 | [We Must Groove \(feat\. Burna Boy\)](https://open.spotify.com/track/7gcSJyitQE3OUWhEI7YTkB) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Warriors](https://open.spotify.com/album/5NqcaCfak06QPIY7gXFnsK) | 3:45 |
 | 36 | [KUKU GOOGLE AM](https://open.spotify.com/track/2KRAQNY4WrlkrhZUg205co) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [KUKU GOOGLE AM](https://open.spotify.com/album/6XLYPGlLqeNDHp79xoqOvX) | 3:30 |
 | 37 | [Ashewo](https://open.spotify.com/track/6phfOLRF89L8DlEofGXVHN) | [Nasboi](https://open.spotify.com/artist/2uFxJXYNWECbpiNTpdBDXb), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [\[I.N.I.T\] In Nasboi I Trust](https://open.spotify.com/album/5lYbZkWrhzaG2HDMpP42pt) | 3:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1m1kAx.md) - [plain]
 | 49 | [Nwa Baby](https://open.spotify.com/track/1Jj6LFf6awzpOkt2z1V06Z) | [Solidstar](https://open.spotify.com/artist/1Nuq9WJb01OoR56vu02bhX), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [W.E.E.D.](https://open.spotify.com/album/5HXfLb3qCRLpkDiRAHWTrY) | 3:30 |
 | 50 | [Abeg Abeg \(feat\. 2Baba & Timaya\)](https://open.spotify.com/track/0T4qEpN66j63wGvh3jIryW) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [L.I.F.E \- Leaving an Impact for Eternity \(Deluxe Edition\)](https://open.spotify.com/album/7pqUKMWH6P7AJPIjUiphTS) | 3:32 |
 
-Snapshot ID: `admPAAAAAABzlOLnoc71IEUhpVo7syUe`
+Snapshot ID: `adrggAAAAADl5tMAqBQXNtMjeO6X0iA7`

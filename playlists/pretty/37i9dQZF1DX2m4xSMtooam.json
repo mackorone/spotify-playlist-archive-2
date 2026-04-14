@@ -1,6 +1,6 @@
 {
   "description": "Relax to the sweet and soothing sound of bossa nova.",
-  "num_followers": 332371,
+  "num_followers": 332698,
   "original_name": "Bossa Chill",
   "owner": {
     "name": "Spotify",
@@ -323,22 +323,6 @@
     {
       "added_at": "2026-03-20 09:27:19",
       "album": {
-        "name": "Call on me softly",
-        "url": "https://open.spotify.com/album/6yswi7kz4lWCyIevxBgF9J"
-      },
-      "artists": [
-        {
-          "name": "Joseph Gonzalez",
-          "url": "https://open.spotify.com/artist/0Xx5c1qUSqajCgoUqS2dMa"
-        }
-      ],
-      "duration_ms": 207879,
-      "name": "Call on me softly",
-      "url": "https://open.spotify.com/track/34yyBDFvc815CHpHINtpMg"
-    },
-    {
-      "added_at": "2026-03-20 09:27:19",
-      "album": {
         "name": "Luiz Bonf\u00e1 Plays And Sings Bossa Nova",
         "url": "https://open.spotify.com/album/1z1zoBT74ap8RtuyBD8oTb"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 200426,
       "name": "Bossa Nova Cha Cha",
       "url": "https://open.spotify.com/track/4kCy1U3iRy8nnrkO8mr9Ix"
+    },
+    {
+      "added_at": "2026-03-20 09:27:19",
+      "album": {
+        "name": "Call on me softly",
+        "url": "https://open.spotify.com/album/6yswi7kz4lWCyIevxBgF9J"
+      },
+      "artists": [
+        {
+          "name": "Joseph Gonzalez",
+          "url": "https://open.spotify.com/artist/0Xx5c1qUSqajCgoUqS2dMa"
+        }
+      ],
+      "duration_ms": 207879,
+      "name": "Call on me softly",
+      "url": "https://open.spotify.com/track/34yyBDFvc815CHpHINtpMg"
     },
     {
       "added_at": "2026-03-20 09:27:19",
@@ -411,6 +411,22 @@
     {
       "added_at": "2026-03-20 09:27:19",
       "album": {
+        "name": "From Paris To Rio",
+        "url": "https://open.spotify.com/album/0q1gz3xUPgFZlnL18h6KUk"
+      },
+      "artists": [
+        {
+          "name": "Karrin Allyson",
+          "url": "https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs"
+        }
+      ],
+      "duration_ms": 269000,
+      "name": "O Barquinho",
+      "url": "https://open.spotify.com/track/5mYrk9TmtP6t7a6JOYabJC"
+    },
+    {
+      "added_at": "2026-03-20 09:27:19",
+      "album": {
         "name": "Rio",
         "url": "https://open.spotify.com/album/3xeSQlUbj1czlmHmRduCFI"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 324520,
       "name": "O Que Sera?",
       "url": "https://open.spotify.com/track/1bAnTqAtb5SZc9N58do9nU"
-    },
-    {
-      "added_at": "2026-03-20 09:27:19",
-      "album": {
-        "name": "From Paris To Rio",
-        "url": "https://open.spotify.com/album/0q1gz3xUPgFZlnL18h6KUk"
-      },
-      "artists": [
-        {
-          "name": "Karrin Allyson",
-          "url": "https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs"
-        }
-      ],
-      "duration_ms": 269000,
-      "name": "O Barquinho",
-      "url": "https://open.spotify.com/track/5mYrk9TmtP6t7a6JOYabJC"
     },
     {
       "added_at": "2026-03-20 09:27:19",
@@ -551,22 +551,6 @@
     {
       "added_at": "2026-03-20 09:27:19",
       "album": {
-        "name": "Sombra La Lua",
-        "url": "https://open.spotify.com/album/6z87GcQHwxK137iiIU9PH5"
-      },
-      "artists": [
-        {
-          "name": "Billie Shaw",
-          "url": "https://open.spotify.com/artist/5fLL8sHcUsZw07ll4RV2Ku"
-        }
-      ],
-      "duration_ms": 226468,
-      "name": "Sombra La Lua",
-      "url": "https://open.spotify.com/track/7cB0pvTADSIai5xRoH8owQ"
-    },
-    {
-      "added_at": "2026-03-20 09:27:19",
-      "album": {
         "name": "Green Grapes",
         "url": "https://open.spotify.com/album/76gYdoPvK3LjTarXj4WTWZ"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 224187,
       "name": "Woodblock Print",
       "url": "https://open.spotify.com/track/3ZNlFTP0ShxCtIUbCfFlNN"
+    },
+    {
+      "added_at": "2026-03-20 09:27:19",
+      "album": {
+        "name": "Sombra La Lua",
+        "url": "https://open.spotify.com/album/6z87GcQHwxK137iiIU9PH5"
+      },
+      "artists": [
+        {
+          "name": "Billie Shaw",
+          "url": "https://open.spotify.com/artist/5fLL8sHcUsZw07ll4RV2Ku"
+        }
+      ],
+      "duration_ms": 226468,
+      "name": "Sombra La Lua",
+      "url": "https://open.spotify.com/track/7cB0pvTADSIai5xRoH8owQ"
     },
     {
       "added_at": "2026-03-20 09:27:19",
@@ -599,22 +599,6 @@
     {
       "added_at": "2026-03-20 09:27:19",
       "album": {
-        "name": "Jazz + Bossa",
-        "url": "https://open.spotify.com/album/5jkc9bfTpFlbK5rIzKeWdj"
-      },
-      "artists": [
-        {
-          "name": "Delicatessen",
-          "url": "https://open.spotify.com/artist/402BCt05RMtfellwy880r9"
-        }
-      ],
-      "duration_ms": 187613,
-      "name": "In a mellow tone",
-      "url": "https://open.spotify.com/track/5ifsDssC2Yv86cHLg2g8rg"
-    },
-    {
-      "added_at": "2026-03-20 09:27:19",
-      "album": {
         "name": "The Shadow Of Your Smile",
         "url": "https://open.spotify.com/album/5zH20F8OMipTtIaGPZwExZ"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 232261,
       "name": "The Shadow of Your Smile",
       "url": "https://open.spotify.com/track/7CkCIrM9MwcHjlp7DgeS73"
+    },
+    {
+      "added_at": "2026-03-20 09:27:19",
+      "album": {
+        "name": "Jazz + Bossa",
+        "url": "https://open.spotify.com/album/5jkc9bfTpFlbK5rIzKeWdj"
+      },
+      "artists": [
+        {
+          "name": "Delicatessen",
+          "url": "https://open.spotify.com/artist/402BCt05RMtfellwy880r9"
+        }
+      ],
+      "duration_ms": 187613,
+      "name": "In a mellow tone",
+      "url": "https://open.spotify.com/track/5ifsDssC2Yv86cHLg2g8rg"
     },
     {
       "added_at": "2026-03-20 09:27:19",
@@ -979,18 +979,18 @@
     {
       "added_at": "2026-03-20 09:27:19",
       "album": {
-        "name": "Florian\u00f3polis",
-        "url": "https://open.spotify.com/album/2C33KFJjdDgqabZRiEoiJB"
+        "name": "Verano",
+        "url": "https://open.spotify.com/album/3dLSXvdHsZjBxYfeeZDeHX"
       },
       "artists": [
         {
-          "name": "Bedford and 7th",
-          "url": "https://open.spotify.com/artist/3bAXvct52qoTbMdHW4CYkE"
+          "name": "Vendla",
+          "url": "https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu"
         }
       ],
-      "duration_ms": 190500,
-      "name": "Florian\u00f3polis",
-      "url": "https://open.spotify.com/track/4yjDimLGS5JTXh34bFAiFi"
+      "duration_ms": 172162,
+      "name": "Verano",
+      "url": "https://open.spotify.com/track/7qf9r2CuRXyskGOqx2Smen"
     },
     {
       "added_at": "2026-03-20 09:27:19",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2026-03-20 09:27:19",
       "album": {
-        "name": "Verano",
-        "url": "https://open.spotify.com/album/3dLSXvdHsZjBxYfeeZDeHX"
+        "name": "Florian\u00f3polis",
+        "url": "https://open.spotify.com/album/2C33KFJjdDgqabZRiEoiJB"
       },
       "artists": [
         {
-          "name": "Vendla",
-          "url": "https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu"
+          "name": "Bedford and 7th",
+          "url": "https://open.spotify.com/artist/3bAXvct52qoTbMdHW4CYkE"
         }
       ],
-      "duration_ms": 172162,
-      "name": "Verano",
-      "url": "https://open.spotify.com/track/7qf9r2CuRXyskGOqx2Smen"
+      "duration_ms": 190500,
+      "name": "Florian\u00f3polis",
+      "url": "https://open.spotify.com/track/4yjDimLGS5JTXh34bFAiFi"
     },
     {
       "added_at": "2026-03-20 09:27:19",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2026-03-20 09:27:19",
       "album": {
-        "name": "The Cole Porter Mix",
-        "url": "https://open.spotify.com/album/1NGLLk5vTXlmHbIGGPWG1I"
-      },
-      "artists": [
-        {
-          "name": "Patricia Barber",
-          "url": "https://open.spotify.com/artist/16R5esBHEkxTw1QO9dnWM5"
-        }
-      ],
-      "duration_ms": 216320,
-      "name": "Easy To Love",
-      "url": "https://open.spotify.com/track/5tu4L93jf26r7Nak71lcVs"
-    },
-    {
-      "added_at": "2026-03-20 09:27:19",
-      "album": {
         "name": "Praia de Ipanema",
         "url": "https://open.spotify.com/album/17uYmXW9flfdXp0ZXbOuj1"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 241124,
       "name": "Praia de Ipanema",
       "url": "https://open.spotify.com/track/18aHllH8R39rK7WrfOUROn"
+    },
+    {
+      "added_at": "2026-03-20 09:27:19",
+      "album": {
+        "name": "The Cole Porter Mix",
+        "url": "https://open.spotify.com/album/1NGLLk5vTXlmHbIGGPWG1I"
+      },
+      "artists": [
+        {
+          "name": "Patricia Barber",
+          "url": "https://open.spotify.com/artist/16R5esBHEkxTw1QO9dnWM5"
+        }
+      ],
+      "duration_ms": 216320,
+      "name": "Easy To Love",
+      "url": "https://open.spotify.com/track/5tu4L93jf26r7Nak71lcVs"
     },
     {
       "added_at": "2026-03-20 09:27:19",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-03-20 09:27:19",
       "album": {
-        "name": "Quarteto Jobim Morelenbaum",
-        "url": "https://open.spotify.com/album/7yjltYU5q9KQKZLfI2JZEY"
-      },
-      "artists": [
-        {
-          "name": "Quarteto Jobim-Morelenbaum",
-          "url": "https://open.spotify.com/artist/1WxunfiOh9Ws0uu2JoDmjL"
-        }
-      ],
-      "duration_ms": 181951,
-      "name": "\u00c1guas de Mar\u00e7o",
-      "url": "https://open.spotify.com/track/4xBk5YBUkEFz5gVP74y6pc"
-    },
-    {
-      "added_at": "2026-03-20 09:27:19",
-      "album": {
         "name": "Bossa Carioca",
         "url": "https://open.spotify.com/album/5WfEnzMAxpWRjUOLPqS9Ig"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 218874,
       "name": "Bossa Carioca",
       "url": "https://open.spotify.com/track/5xbU8R70DaX0eSXgMYiGwc"
+    },
+    {
+      "added_at": "2026-03-20 09:27:19",
+      "album": {
+        "name": "Quarteto Jobim Morelenbaum",
+        "url": "https://open.spotify.com/album/7yjltYU5q9KQKZLfI2JZEY"
+      },
+      "artists": [
+        {
+          "name": "Quarteto Jobim-Morelenbaum",
+          "url": "https://open.spotify.com/artist/1WxunfiOh9Ws0uu2JoDmjL"
+        }
+      ],
+      "duration_ms": 181951,
+      "name": "\u00c1guas de Mar\u00e7o",
+      "url": "https://open.spotify.com/track/4xBk5YBUkEFz5gVP74y6pc"
     },
     {
       "added_at": "2026-03-20 09:27:19",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2026-03-20 09:27:19",
       "album": {
-        "name": "Saudade",
-        "url": "https://open.spotify.com/album/6fdG50OGUX9nr0ZW9xMywu"
-      },
-      "artists": [
-        {
-          "name": "Xavier Mendoza",
-          "url": "https://open.spotify.com/artist/7nhIjZfce2dcORg7gWGp73"
-        }
-      ],
-      "duration_ms": 160847,
-      "name": "Saudade",
-      "url": "https://open.spotify.com/track/5BRVuZtqoGuHuqMZjahOe7"
-    },
-    {
-      "added_at": "2026-03-20 09:27:19",
-      "album": {
         "name": "Dindi",
         "url": "https://open.spotify.com/album/4knjVWNKQlrrsXpfPImum0"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 250000,
       "name": "I didn't know what time it was",
       "url": "https://open.spotify.com/track/2zAErc7IF0XI38zPfaXipU"
+    },
+    {
+      "added_at": "2026-03-20 09:27:19",
+      "album": {
+        "name": "Saudade",
+        "url": "https://open.spotify.com/album/6fdG50OGUX9nr0ZW9xMywu"
+      },
+      "artists": [
+        {
+          "name": "Xavier Mendoza",
+          "url": "https://open.spotify.com/artist/7nhIjZfce2dcORg7gWGp73"
+        }
+      ],
+      "duration_ms": 160847,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/5BRVuZtqoGuHuqMZjahOe7"
     },
     {
       "added_at": "2026-03-20 09:27:19",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2026-03-20 09:27:19",
       "album": {
-        "name": "Light My Fire",
-        "url": "https://open.spotify.com/album/2x0rWBfqrEcmNhVKfAKMXG"
-      },
-      "artists": [
-        {
-          "name": "Eliane Elias",
-          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
-        }
-      ],
-      "duration_ms": 240146,
-      "name": "Isto Aqui O Que \u00c9 (Silver Sandal)",
-      "url": "https://open.spotify.com/track/1bNi8WeHJM2qk4PolPHTVV"
-    },
-    {
-      "added_at": "2026-03-20 09:27:19",
-      "album": {
         "name": "The Milky Way",
         "url": "https://open.spotify.com/album/4eASKrdPU29nUHbgzLsphQ"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 211037,
       "name": "The Milky Way",
       "url": "https://open.spotify.com/track/5VCbcyUzLIBvQqJPR1dTNs"
+    },
+    {
+      "added_at": "2026-03-20 09:27:19",
+      "album": {
+        "name": "Light My Fire",
+        "url": "https://open.spotify.com/album/2x0rWBfqrEcmNhVKfAKMXG"
+      },
+      "artists": [
+        {
+          "name": "Eliane Elias",
+          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
+        }
+      ],
+      "duration_ms": 240146,
+      "name": "Isto Aqui O Que \u00c9 (Silver Sandal)",
+      "url": "https://open.spotify.com/track/1bNi8WeHJM2qk4PolPHTVV"
     },
     {
       "added_at": "2026-03-20 09:27:19",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2026-03-20 09:27:19",
       "album": {
-        "name": "Astra",
-        "url": "https://open.spotify.com/album/4SgCRjI9SLeqLopiibQiVM"
-      },
-      "artists": [
-        {
-          "name": "Paulo Lucas",
-          "url": "https://open.spotify.com/artist/6ojxO4yKau2YGdnIZOBwzV"
-        }
-      ],
-      "duration_ms": 263208,
-      "name": "Astra",
-      "url": "https://open.spotify.com/track/2Qo0025pMUTB00Hqm9KVRZ"
-    },
-    {
-      "added_at": "2026-03-20 09:27:19",
-      "album": {
         "name": "Too Marvelous for Words",
         "url": "https://open.spotify.com/album/7bQe68Qt1vZxSNkD16zsus"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 224000,
       "name": "Too Marvelous for Words",
       "url": "https://open.spotify.com/track/1jMdlcwUqQK8uMd5d899sW"
+    },
+    {
+      "added_at": "2026-03-20 09:27:19",
+      "album": {
+        "name": "Astra",
+        "url": "https://open.spotify.com/album/4SgCRjI9SLeqLopiibQiVM"
+      },
+      "artists": [
+        {
+          "name": "Paulo Lucas",
+          "url": "https://open.spotify.com/artist/6ojxO4yKau2YGdnIZOBwzV"
+        }
+      ],
+      "duration_ms": 263208,
+      "name": "Astra",
+      "url": "https://open.spotify.com/track/2Qo0025pMUTB00Hqm9KVRZ"
     }
   ],
   "unique_name": "Bossa Chill",

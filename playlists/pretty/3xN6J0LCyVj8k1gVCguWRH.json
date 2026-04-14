@@ -1,12 +1,12 @@
 {
   "description": "Summer has a way of slowing us down and bringing us together. This playlist is a mix of new favorites and familiar sounds \u2014 songs for long drives, late afternoons, and evenings that stretch a little longer than planned.Hope you find something here that makes the season feel just right.",
-  "num_followers": 131974,
+  "num_followers": 131970,
   "original_name": "Obama\u2019s Summer Playlist 2026",
   "owner": {
     "name": "SoundsDeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "AAA5kvHvivAcAVG80X7ohMwbWLvunxvz",
+  "snapshot_id": "AAA5lRslfm6j8MR/x3TiCLD6WWhCrKgj",
   "tracks": [
     {
       "added_at": "2025-12-18 22:42:53",
@@ -115,26 +115,6 @@
       "duration_ms": 298306,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/7FrJV8tydWEv1Mxu2mIQrm"
-    },
-    {
-      "added_at": "2026-04-12 23:01:43",
-      "album": {
-        "name": "DR/XR",
-        "url": "https://open.spotify.com/album/7bdbdjOmY2XMcfv6jxwWud"
-      },
-      "artists": [
-        {
-          "name": "Enyelg",
-          "url": "https://open.spotify.com/artist/0TrJFrQb0gheSFjKALpjf9"
-        },
-        {
-          "name": "Liel",
-          "url": "https://open.spotify.com/artist/680nYz0zKWUgjnBlOLWOOL"
-        }
-      ],
-      "duration_ms": 165957,
-      "name": "DR/XR",
-      "url": "https://open.spotify.com/track/3a3q5gFZLEQTBWlf5ToegP"
     },
     {
       "added_at": "2026-01-31 17:05:04",
@@ -283,22 +263,6 @@
       "duration_ms": 147268,
       "name": "Boom",
       "url": "https://open.spotify.com/track/6PB84tMPaUymeOEpw97MwJ"
-    },
-    {
-      "added_at": "2026-04-12 23:02:40",
-      "album": {
-        "name": "Aqui",
-        "url": "https://open.spotify.com/album/56FnIYhWTDsicFoR9MR227"
-      },
-      "artists": [
-        {
-          "name": "Johnathon Vermaelen",
-          "url": "https://open.spotify.com/artist/3A9kV5j14TyTDtV8jaMZop"
-        }
-      ],
-      "duration_ms": 273320,
-      "name": "Aqui",
-      "url": "https://open.spotify.com/track/1yYWsA5ikeB0tSaqxPMQS7"
     },
     {
       "added_at": "2026-04-10 13:17:29",
@@ -655,22 +619,6 @@
       "duration_ms": 138129,
       "name": "greed",
       "url": "https://open.spotify.com/track/1JrQOlES4d9HJLawZbB2n1"
-    },
-    {
-      "added_at": "2026-04-12 23:01:50",
-      "album": {
-        "name": "Que Raro",
-        "url": "https://open.spotify.com/album/6GNOLDw1uTSqnjH6uxBIdx"
-      },
-      "artists": [
-        {
-          "name": "Davix y Geomal",
-          "url": "https://open.spotify.com/artist/5eWD5PptYaVZipDpXFf0w9"
-        }
-      ],
-      "duration_ms": 160941,
-      "name": "Que Raro",
-      "url": "https://open.spotify.com/track/3JKocRQv54dmBcvwoNxF80"
     },
     {
       "added_at": "2026-04-07 16:06:52",
@@ -2997,6 +2945,58 @@
       "url": "https://open.spotify.com/track/7oOEFDLSQscl0uGulnIEmG"
     },
     {
+      "added_at": "2026-04-12 23:01:43",
+      "album": {
+        "name": "DR/XR",
+        "url": "https://open.spotify.com/album/7bdbdjOmY2XMcfv6jxwWud"
+      },
+      "artists": [
+        {
+          "name": "Enyelg",
+          "url": "https://open.spotify.com/artist/0TrJFrQb0gheSFjKALpjf9"
+        },
+        {
+          "name": "Liel",
+          "url": "https://open.spotify.com/artist/680nYz0zKWUgjnBlOLWOOL"
+        }
+      ],
+      "duration_ms": 165957,
+      "name": "DR/XR",
+      "url": "https://open.spotify.com/track/3a3q5gFZLEQTBWlf5ToegP"
+    },
+    {
+      "added_at": "2026-04-12 23:02:40",
+      "album": {
+        "name": "Aqui",
+        "url": "https://open.spotify.com/album/56FnIYhWTDsicFoR9MR227"
+      },
+      "artists": [
+        {
+          "name": "Johnathon Vermaelen",
+          "url": "https://open.spotify.com/artist/3A9kV5j14TyTDtV8jaMZop"
+        }
+      ],
+      "duration_ms": 273320,
+      "name": "Aqui",
+      "url": "https://open.spotify.com/track/1yYWsA5ikeB0tSaqxPMQS7"
+    },
+    {
+      "added_at": "2026-04-12 23:01:50",
+      "album": {
+        "name": "Que Raro",
+        "url": "https://open.spotify.com/album/6GNOLDw1uTSqnjH6uxBIdx"
+      },
+      "artists": [
+        {
+          "name": "Davix y Geomal",
+          "url": "https://open.spotify.com/artist/5eWD5PptYaVZipDpXFf0w9"
+        }
+      ],
+      "duration_ms": 160941,
+      "name": "Que Raro",
+      "url": "https://open.spotify.com/track/3JKocRQv54dmBcvwoNxF80"
+    },
+    {
       "added_at": "2026-04-09 23:01:48",
       "album": {
         "name": "OUTSIDE",
@@ -3419,70 +3419,6 @@
       "duration_ms": 186075,
       "name": "Lonely Soldier",
       "url": "https://open.spotify.com/track/71pBN796AjYSOtlUKBr1I5"
-    },
-    {
-      "added_at": "2026-04-01 23:01:10",
-      "album": {
-        "name": "Round Two",
-        "url": "https://open.spotify.com/album/5nlNcytQwIgXqoriqUFkFc"
-      },
-      "artists": [
-        {
-          "name": "Ley.na",
-          "url": "https://open.spotify.com/artist/08CRMVMr48KpO1CdmOBwvV"
-        }
-      ],
-      "duration_ms": 192280,
-      "name": "Round Two",
-      "url": "https://open.spotify.com/track/71LAnJjfejz0QsYt6gw5z4"
-    },
-    {
-      "added_at": "2026-04-01 23:00:51",
-      "album": {
-        "name": "158.3 / Tell Me",
-        "url": "https://open.spotify.com/album/2KObh1HucOQtYGnaVw91UU"
-      },
-      "artists": [
-        {
-          "name": "kimaRA",
-          "url": "https://open.spotify.com/artist/0wrETSNZWzyKrdPXrRfkbD"
-        }
-      ],
-      "duration_ms": 224232,
-      "name": "158.3 / Tell Me",
-      "url": "https://open.spotify.com/track/5dDekZJfUJE9Vy42wKHOYv"
-    },
-    {
-      "added_at": "2026-04-01 23:33:03",
-      "album": {
-        "name": "I've Got You Under My Skin",
-        "url": "https://open.spotify.com/album/0jfdzkH0PbEGTMzjrBnyRQ"
-      },
-      "artists": [
-        {
-          "name": "Nora Mae",
-          "url": "https://open.spotify.com/artist/1lEj2mCu6IQrLEnJgDjKsS"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "I've Got You Under My Skin",
-      "url": "https://open.spotify.com/track/5fc8oPMT517tpQr7lnrx9R"
-    },
-    {
-      "added_at": "2026-04-01 13:23:15",
-      "album": {
-        "name": "My Dog Thinks I'm Cool",
-        "url": "https://open.spotify.com/album/05tg8Lrrxaf6bvGLe3Em48"
-      },
-      "artists": [
-        {
-          "name": "Dusty Sparks",
-          "url": "https://open.spotify.com/artist/7pHEza1V2q5hokk6WeBEgM"
-        }
-      ],
-      "duration_ms": 198928,
-      "name": "My Dog Thinks I'm Cool",
-      "url": "https://open.spotify.com/track/1PK6FAztQ7sKDdyoLYISBQ"
     }
   ],
   "unique_name": "Obama\u2019s Summer Playlist 2026",

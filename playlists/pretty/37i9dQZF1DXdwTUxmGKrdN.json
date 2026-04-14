@@ -1,6 +1,6 @@
 {
   "description": "Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...",
-  "num_followers": 457005,
+  "num_followers": 457040,
   "original_name": "Smooth Jazz",
   "owner": {
     "name": "Spotify",
@@ -323,18 +323,18 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/0eiTPubpV0bt3BVvwBxdVk"
+        "name": "Sentiment",
+        "url": "https://open.spotify.com/album/7hML0wQpcGtknLxvlvFuR7"
       },
       "artists": [
         {
-          "name": "Steve Cole",
-          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
+          "name": "Brendan Rothwell",
+          "url": "https://open.spotify.com/artist/5RABpAgeEQTwa2yoatfUQQ"
         }
       ],
-      "duration_ms": 293533,
-      "name": "Undun",
-      "url": "https://open.spotify.com/track/1jMPe92ML6hOCBJLssrUSh"
+      "duration_ms": 240172,
+      "name": "Think of You",
+      "url": "https://open.spotify.com/track/73p8Mzp41RUDQtbe52JWHu"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -359,18 +359,18 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
-        "name": "Sentiment",
-        "url": "https://open.spotify.com/album/7hML0wQpcGtknLxvlvFuR7"
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/0eiTPubpV0bt3BVvwBxdVk"
       },
       "artists": [
         {
-          "name": "Brendan Rothwell",
-          "url": "https://open.spotify.com/artist/5RABpAgeEQTwa2yoatfUQQ"
+          "name": "Steve Cole",
+          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
         }
       ],
-      "duration_ms": 240172,
-      "name": "Think of You",
-      "url": "https://open.spotify.com/track/73p8Mzp41RUDQtbe52JWHu"
+      "duration_ms": 293533,
+      "name": "Undun",
+      "url": "https://open.spotify.com/track/1jMPe92ML6hOCBJLssrUSh"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -387,6 +387,22 @@
       "duration_ms": 272400,
       "name": "Fall For You",
       "url": "https://open.spotify.com/track/7qqamkny8IkXOCJrhjy73L"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
+        "name": "Real Life",
+        "url": "https://open.spotify.com/album/7DvHuhuhqmJSQZenm73mSv"
+      },
+      "artists": [
+        {
+          "name": "Chris Standring",
+          "url": "https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut"
+        }
+      ],
+      "duration_ms": 358213,
+      "name": "Out of the Blue",
+      "url": "https://open.spotify.com/track/5pQQjMOsR4HjuO94AEXTqX"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -411,18 +427,18 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
-        "name": "Real Life",
-        "url": "https://open.spotify.com/album/7DvHuhuhqmJSQZenm73mSv"
+        "name": "I'm Coming Home",
+        "url": "https://open.spotify.com/album/1gCdJObq3CftJWEuFbwAaU"
       },
       "artists": [
         {
-          "name": "Chris Standring",
-          "url": "https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut"
+          "name": "Jacob Webb",
+          "url": "https://open.spotify.com/artist/6LB9EnOUIzqsiEYQVipZko"
         }
       ],
-      "duration_ms": 358213,
-      "name": "Out of the Blue",
-      "url": "https://open.spotify.com/track/5pQQjMOsR4HjuO94AEXTqX"
+      "duration_ms": 266145,
+      "name": "Groovin' J",
+      "url": "https://open.spotify.com/track/6zFYcAvBoEjqKWiFneXWf4"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -439,22 +455,6 @@
       "duration_ms": 223473,
       "name": "Blues for Jeff",
       "url": "https://open.spotify.com/track/4Euzf13sMD4iGIMmYxdrlW"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
-        "name": "I'm Coming Home",
-        "url": "https://open.spotify.com/album/1gCdJObq3CftJWEuFbwAaU"
-      },
-      "artists": [
-        {
-          "name": "Jacob Webb",
-          "url": "https://open.spotify.com/artist/6LB9EnOUIzqsiEYQVipZko"
-        }
-      ],
-      "duration_ms": 266145,
-      "name": "Groovin' J",
-      "url": "https://open.spotify.com/track/6zFYcAvBoEjqKWiFneXWf4"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -607,22 +607,6 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
-        "name": "Listen to This",
-        "url": "https://open.spotify.com/album/59kliXiMCzY52ZTVYrvE8p"
-      },
-      "artists": [
-        {
-          "name": "Lisa Addeo",
-          "url": "https://open.spotify.com/artist/1Rkm8EM4Z0fYhkJ1k6D52U"
-        }
-      ],
-      "duration_ms": 253577,
-      "name": "Listen to This",
-      "url": "https://open.spotify.com/track/6kXk5A2Ea0NtN4H9xVvSc0"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
         "name": "Still on The Road",
         "url": "https://open.spotify.com/album/1904mEXM1yyzifmllwUCuc"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 170684,
       "name": "Still on The Road",
       "url": "https://open.spotify.com/track/225rVls2PqjWNcBd2XV8p6"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
+        "name": "Listen to This",
+        "url": "https://open.spotify.com/album/59kliXiMCzY52ZTVYrvE8p"
+      },
+      "artists": [
+        {
+          "name": "Lisa Addeo",
+          "url": "https://open.spotify.com/artist/1Rkm8EM4Z0fYhkJ1k6D52U"
+        }
+      ],
+      "duration_ms": 253577,
+      "name": "Listen to This",
+      "url": "https://open.spotify.com/track/6kXk5A2Ea0NtN4H9xVvSc0"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
-        "name": "Shake It",
-        "url": "https://open.spotify.com/album/0fxC7twA5PZ0J5LngaiZbP"
-      },
-      "artists": [
-        {
-          "name": "Paula Atherton",
-          "url": "https://open.spotify.com/artist/22aM32I9ao0SJOxWXrsNO6"
-        }
-      ],
-      "duration_ms": 278200,
-      "name": "My Song for You",
-      "url": "https://open.spotify.com/track/2WkpgjnqTOPCi60IvlDtvB"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
         "name": "The Limit's the Sky",
         "url": "https://open.spotify.com/album/3YFixNZQruKFSuXhd3W69S"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 223669,
       "name": "Chill or Be Chilled",
       "url": "https://open.spotify.com/track/5gAbksSWP6H2gzdWpN21w9"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
+        "name": "Shake It",
+        "url": "https://open.spotify.com/album/0fxC7twA5PZ0J5LngaiZbP"
+      },
+      "artists": [
+        {
+          "name": "Paula Atherton",
+          "url": "https://open.spotify.com/artist/22aM32I9ao0SJOxWXrsNO6"
+        }
+      ],
+      "duration_ms": 278200,
+      "name": "My Song for You",
+      "url": "https://open.spotify.com/track/2WkpgjnqTOPCi60IvlDtvB"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -979,22 +979,6 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
-        "name": "Exhale",
-        "url": "https://open.spotify.com/album/5n354scG66QIxDi8Y2u269"
-      },
-      "artists": [
-        {
-          "name": "Patrick Bradley",
-          "url": "https://open.spotify.com/artist/6z9nWRXEPunshulSa2lwck"
-        }
-      ],
-      "duration_ms": 272342,
-      "name": "Exhale",
-      "url": "https://open.spotify.com/track/7yX9GawpX138GN6ZrfE6q3"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
         "name": "Escape",
         "url": "https://open.spotify.com/album/7qOXrZte4eeBH3S7LYoO1T"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 280280,
       "name": "Can't Stop",
       "url": "https://open.spotify.com/track/2vBjecyzspx6GsoL3FU6mF"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
+        "name": "Exhale",
+        "url": "https://open.spotify.com/album/5n354scG66QIxDi8Y2u269"
+      },
+      "artists": [
+        {
+          "name": "Patrick Bradley",
+          "url": "https://open.spotify.com/artist/6z9nWRXEPunshulSa2lwck"
+        }
+      ],
+      "duration_ms": 272342,
+      "name": "Exhale",
+      "url": "https://open.spotify.com/track/7yX9GawpX138GN6ZrfE6q3"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -1063,26 +1063,6 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
-        "name": "Bob Baldwin Presents: Abbey Road and The Beatles",
-        "url": "https://open.spotify.com/album/3i47d2tkJNfJc8F7mBGr6c"
-      },
-      "artists": [
-        {
-          "name": "Bob Baldwin",
-          "url": "https://open.spotify.com/artist/6URFeH3cWWv6tj2RazL9IP"
-        },
-        {
-          "name": "Euge Groove",
-          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
-        }
-      ],
-      "duration_ms": 309981,
-      "name": "Imagine (Living as One)",
-      "url": "https://open.spotify.com/track/5GpFYx5Q5h38LZnDamGBOB"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
         "name": "Limitless",
         "url": "https://open.spotify.com/album/3iE43BPltF4nvTGrSynFLL"
       },
@@ -1111,6 +1091,26 @@
       "duration_ms": 244450,
       "name": "Just Once (Radio Edit)",
       "url": "https://open.spotify.com/track/0gg4oTlnC2lKRPtxcZ43Cn"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
+        "name": "Bob Baldwin Presents: Abbey Road and The Beatles",
+        "url": "https://open.spotify.com/album/3i47d2tkJNfJc8F7mBGr6c"
+      },
+      "artists": [
+        {
+          "name": "Bob Baldwin",
+          "url": "https://open.spotify.com/artist/6URFeH3cWWv6tj2RazL9IP"
+        },
+        {
+          "name": "Euge Groove",
+          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
+        }
+      ],
+      "duration_ms": 309981,
+      "name": "Imagine (Living as One)",
+      "url": "https://open.spotify.com/track/5GpFYx5Q5h38LZnDamGBOB"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
-        "name": "Tranquility",
-        "url": "https://open.spotify.com/album/6agAMOCMWbMsV40jNNZLwd"
-      },
-      "artists": [
-        {
-          "name": "Les Sabler",
-          "url": "https://open.spotify.com/artist/7eD0lXMLoNqMmk7nd65pM8"
-        }
-      ],
-      "duration_ms": 241480,
-      "name": "Three Dee",
-      "url": "https://open.spotify.com/track/3fLkoNxbBfu7Xu7TUVyV77"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
         "name": "Mr. Kool",
         "url": "https://open.spotify.com/album/1gkxk0diBxNzEwqOwjiISl"
       },
@@ -1263,18 +1247,18 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
-        "name": "Release",
-        "url": "https://open.spotify.com/album/7xjP0qV8h62UHwown45INg"
+        "name": "Tranquility",
+        "url": "https://open.spotify.com/album/6agAMOCMWbMsV40jNNZLwd"
       },
       "artists": [
         {
-          "name": "Lin Rountree",
-          "url": "https://open.spotify.com/artist/4SVXSNL59kiSLgjwZeEfDg"
+          "name": "Les Sabler",
+          "url": "https://open.spotify.com/artist/7eD0lXMLoNqMmk7nd65pM8"
         }
       ],
-      "duration_ms": 292253,
-      "name": "Release",
-      "url": "https://open.spotify.com/track/68JOcOeibkcTidFF6VGxwW"
+      "duration_ms": 241480,
+      "name": "Three Dee",
+      "url": "https://open.spotify.com/track/3fLkoNxbBfu7Xu7TUVyV77"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -1291,6 +1275,22 @@
       "duration_ms": 261266,
       "name": "Cecil's Groove",
       "url": "https://open.spotify.com/track/5KjmJJokL09RvKLfVQvDRc"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
+        "name": "Release",
+        "url": "https://open.spotify.com/album/7xjP0qV8h62UHwown45INg"
+      },
+      "artists": [
+        {
+          "name": "Lin Rountree",
+          "url": "https://open.spotify.com/artist/4SVXSNL59kiSLgjwZeEfDg"
+        }
+      ],
+      "duration_ms": 292253,
+      "name": "Release",
+      "url": "https://open.spotify.com/track/68JOcOeibkcTidFF6VGxwW"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
-        "name": "Turn It Up",
-        "url": "https://open.spotify.com/album/2emYvyogfNZbvdVJwUFRrb"
-      },
-      "artists": [
-        {
-          "name": "Steve Cole",
-          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
-        }
-      ],
-      "duration_ms": 303693,
-      "name": "Reverence",
-      "url": "https://open.spotify.com/track/5aCHWYlwuHAnZkV0Po17Yn"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
         "name": "Jazzmasters 6",
         "url": "https://open.spotify.com/album/5eoo4LO3RcbqnMXEaLvjv6"
       },
@@ -1423,6 +1407,22 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
+        "name": "Turn It Up",
+        "url": "https://open.spotify.com/album/2emYvyogfNZbvdVJwUFRrb"
+      },
+      "artists": [
+        {
+          "name": "Steve Cole",
+          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
+        }
+      ],
+      "duration_ms": 303693,
+      "name": "Reverence",
+      "url": "https://open.spotify.com/track/5aCHWYlwuHAnZkV0Po17Yn"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
         "name": "Deep Dive",
         "url": "https://open.spotify.com/album/3afqxp4kQVjyBkS05sCKf2"
       },
@@ -1435,22 +1435,6 @@
       "duration_ms": 245925,
       "name": "Deep Dive",
       "url": "https://open.spotify.com/track/1mnNpkP5NgED8O3Zx6GuCA"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
-        "name": "A Day In The Life",
-        "url": "https://open.spotify.com/album/2grvoFsNL4w9k0kXP6fkyn"
-      },
-      "artists": [
-        {
-          "name": "Thom Rotella",
-          "url": "https://open.spotify.com/artist/72FbTlHE6bOKc7HLQoa7pm"
-        }
-      ],
-      "duration_ms": 264600,
-      "name": "Only 4 One Moment",
-      "url": "https://open.spotify.com/track/1G7QHZpMheDi2hrriqALma"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -1471,6 +1455,22 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
+        "name": "A Day In The Life",
+        "url": "https://open.spotify.com/album/2grvoFsNL4w9k0kXP6fkyn"
+      },
+      "artists": [
+        {
+          "name": "Thom Rotella",
+          "url": "https://open.spotify.com/artist/72FbTlHE6bOKc7HLQoa7pm"
+        }
+      ],
+      "duration_ms": 264600,
+      "name": "Only 4 One Moment",
+      "url": "https://open.spotify.com/track/1G7QHZpMheDi2hrriqALma"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
         "name": "As Promised",
         "url": "https://open.spotify.com/album/0bs64b2YWZp3oMOw297F6U"
       },
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/7ccpGuH9fqMtC5nH65NdHS"
-      },
-      "artists": [
-        {
-          "name": "Dwight Sills",
-          "url": "https://open.spotify.com/artist/6MtRZ8y10C26lLb1LZ9xiH"
-        }
-      ],
-      "duration_ms": 313422,
-      "name": "Sliver Moon",
-      "url": "https://open.spotify.com/track/4IXhfpRsjaIocu1YOXSVpF"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
         "name": "Ready to Play",
         "url": "https://open.spotify.com/album/2ezdxx2baHQ7qTEUgXR4F5"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 281706,
       "name": "Only You",
       "url": "https://open.spotify.com/track/7t6q9hCtvEY9it0G5pj7Mm"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/7ccpGuH9fqMtC5nH65NdHS"
+      },
+      "artists": [
+        {
+          "name": "Dwight Sills",
+          "url": "https://open.spotify.com/artist/6MtRZ8y10C26lLb1LZ9xiH"
+        }
+      ],
+      "duration_ms": 313422,
+      "name": "Sliver Moon",
+      "url": "https://open.spotify.com/track/4IXhfpRsjaIocu1YOXSVpF"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
-        "name": "Coevolve",
-        "url": "https://open.spotify.com/album/1Ppa4z7b3BL1qB8nkqvQoT"
-      },
-      "artists": [
-        {
-          "name": "Kayla Waters",
-          "url": "https://open.spotify.com/artist/20DXNOp0Em8SisS8UjxPiA"
-        }
-      ],
-      "duration_ms": 293595,
-      "name": "Zephyr",
-      "url": "https://open.spotify.com/track/7H8SthzNfUQphbs96I2Gfs"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
         "name": "All About Love",
         "url": "https://open.spotify.com/album/4rxMMiNhCn8FeJiVnoiYxd"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 289200,
       "name": "Just Between Us",
       "url": "https://open.spotify.com/track/53Z6wHAS1oohnCSgLGmaLc"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
+        "name": "Coevolve",
+        "url": "https://open.spotify.com/album/1Ppa4z7b3BL1qB8nkqvQoT"
+      },
+      "artists": [
+        {
+          "name": "Kayla Waters",
+          "url": "https://open.spotify.com/artist/20DXNOp0Em8SisS8UjxPiA"
+        }
+      ],
+      "duration_ms": 293595,
+      "name": "Zephyr",
+      "url": "https://open.spotify.com/track/7H8SthzNfUQphbs96I2Gfs"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -1743,8 +1743,8 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
-        "name": "Finger Painting",
-        "url": "https://open.spotify.com/album/4VCMgZaEQq8p8oNAtQPVoI"
+        "name": "What You Do to Me",
+        "url": "https://open.spotify.com/album/62tnuuUQBGrMYp4AkUCrI1"
       },
       "artists": [
         {
@@ -1752,9 +1752,9 @@
           "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
         }
       ],
-      "duration_ms": 228973,
-      "name": "Romantic Nites",
-      "url": "https://open.spotify.com/track/6IfLElgQIOE5xG8DDCC9Rp"
+      "duration_ms": 297750,
+      "name": "What You Do To Me",
+      "url": "https://open.spotify.com/track/6KvdalfItAMjqd8KeQMcdl"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -1827,8 +1827,8 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
-        "name": "What You Do to Me",
-        "url": "https://open.spotify.com/album/62tnuuUQBGrMYp4AkUCrI1"
+        "name": "Finger Painting",
+        "url": "https://open.spotify.com/album/4VCMgZaEQq8p8oNAtQPVoI"
       },
       "artists": [
         {
@@ -1836,9 +1836,9 @@
           "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
         }
       ],
-      "duration_ms": 297750,
-      "name": "What You Do To Me",
-      "url": "https://open.spotify.com/track/6KvdalfItAMjqd8KeQMcdl"
+      "duration_ms": 228973,
+      "name": "Romantic Nites",
+      "url": "https://open.spotify.com/track/6IfLElgQIOE5xG8DDCC9Rp"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -2379,6 +2379,22 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
+        "name": "Smooth Operators: Great Smooth Jazz Moments",
+        "url": "https://open.spotify.com/album/0fRFvT84F2MtzqccEsplpv"
+      },
+      "artists": [
+        {
+          "name": "Brian Tarquin",
+          "url": "https://open.spotify.com/artist/2giMW0q2qh3k6ZIrFEsux2"
+        }
+      ],
+      "duration_ms": 228573,
+      "name": "Charlemagne",
+      "url": "https://open.spotify.com/track/7IoguPlcKyVkf9t0nUE5YV"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
         "name": "Double Vision",
         "url": "https://open.spotify.com/album/6KmbBezsEykMwmMmxgqRuY"
       },
@@ -2395,22 +2411,6 @@
       "duration_ms": 263493,
       "name": "Just Dance (feat. Dave Koz)",
       "url": "https://open.spotify.com/track/5S6EHC45If9NSN5jIHVzP1"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
-        "name": "Smooth Operators: Great Smooth Jazz Moments",
-        "url": "https://open.spotify.com/album/0fRFvT84F2MtzqccEsplpv"
-      },
-      "artists": [
-        {
-          "name": "Brian Tarquin",
-          "url": "https://open.spotify.com/artist/2giMW0q2qh3k6ZIrFEsux2"
-        }
-      ],
-      "duration_ms": 228573,
-      "name": "Charlemagne",
-      "url": "https://open.spotify.com/track/7IoguPlcKyVkf9t0nUE5YV"
     },
     {
       "added_at": "2026-01-14 10:46:11",

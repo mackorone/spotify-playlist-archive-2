@@ -1,12 +1,12 @@
 {
   "description": "This is Touch\u00e9 Amor\u00e9. The essential tracks, all in one playlist.",
-  "num_followers": 4678,
+  "num_followers": 4681,
   "original_name": "This Is Touch\u00e9 Amor\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "admPAAAAAAD1Ju2IusrV6Ch+4R4l2jG5",
+  "snapshot_id": "adrggAAAAAAho2KId32kkyycWZUEBoCC",
   "tracks": [
     {
       "added_at": null,
@@ -47,6 +47,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lament",
+        "url": "https://open.spotify.com/album/6fA79mAHNeBhaUnuWBADwc"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "duration_ms": 183338,
+      "name": "Reminders",
+      "url": "https://open.spotify.com/track/6zR9nTk4eJ4TdbbNzE4wW0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rapture (Gloom Version)",
         "url": "https://open.spotify.com/album/6hpaXH0l9NHA2eFwamE2pN"
       },
@@ -63,22 +79,6 @@
       "duration_ms": 215428,
       "name": "Rapture - Gloom Version",
       "url": "https://open.spotify.com/track/5XbRfCQFWSNEbLGqHsWmcL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lament",
-        "url": "https://open.spotify.com/album/6fA79mAHNeBhaUnuWBADwc"
-      },
-      "artists": [
-        {
-          "name": "Touch\u00e9 Amor\u00e9",
-          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
-        }
-      ],
-      "duration_ms": 183338,
-      "name": "Reminders",
-      "url": "https://open.spotify.com/track/6zR9nTk4eJ4TdbbNzE4wW0"
     },
     {
       "added_at": null,
@@ -115,22 +115,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Parting the Sea Between Brightness and Me",
-        "url": "https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh"
-      },
-      "artists": [
-        {
-          "name": "Touch\u00e9 Amor\u00e9",
-          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
-        }
-      ],
-      "duration_ms": 89106,
-      "name": "~",
-      "url": "https://open.spotify.com/track/5jVJxCRKn3ofBQpwL0tdo0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lament",
         "url": "https://open.spotify.com/album/6fA79mAHNeBhaUnuWBADwc"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 170001,
       "name": "Come Heroine",
       "url": "https://open.spotify.com/track/3z5IRvQG3paO0p5Ewyqa97"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Parting the Sea Between Brightness and Me",
+        "url": "https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "duration_ms": 89106,
+      "name": "~",
+      "url": "https://open.spotify.com/track/5jVJxCRKn3ofBQpwL0tdo0"
     },
     {
       "added_at": null,
@@ -179,22 +179,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Parting the Sea Between Brightness and Me",
-        "url": "https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh"
-      },
-      "artists": [
-        {
-          "name": "Touch\u00e9 Amor\u00e9",
-          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
-        }
-      ],
-      "duration_ms": 66053,
-      "name": "Pathfinder",
-      "url": "https://open.spotify.com/track/2KSpm6frQIkfgKiiS33d2z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lament",
         "url": "https://open.spotify.com/album/6fA79mAHNeBhaUnuWBADwc"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 302514,
       "name": "Limelight",
       "url": "https://open.spotify.com/track/1VWs302APzvQSw94xr7SSN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Parting the Sea Between Brightness and Me",
+        "url": "https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "duration_ms": 66053,
+      "name": "Pathfinder",
+      "url": "https://open.spotify.com/track/2KSpm6frQIkfgKiiS33d2z"
     },
     {
       "added_at": null,
@@ -247,6 +247,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lament",
+        "url": "https://open.spotify.com/album/6fA79mAHNeBhaUnuWBADwc"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "duration_ms": 168225,
+      "name": "Feign",
+      "url": "https://open.spotify.com/track/22XeCtcmvFRKEotV0kQshn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "...To the Beat of a Dead Horse",
         "url": "https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 152985,
       "name": "Honest Sleep",
       "url": "https://open.spotify.com/track/6q3tRF4KypWtXUVdM5N5FN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lament",
-        "url": "https://open.spotify.com/album/6fA79mAHNeBhaUnuWBADwc"
-      },
-      "artists": [
-        {
-          "name": "Touch\u00e9 Amor\u00e9",
-          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
-        }
-      ],
-      "duration_ms": 200871,
-      "name": "Lament",
-      "url": "https://open.spotify.com/track/2W6o5dI0sfWRafsusPWZHJ"
     },
     {
       "added_at": null,
@@ -315,6 +315,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lament",
+        "url": "https://open.spotify.com/album/6fA79mAHNeBhaUnuWBADwc"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "duration_ms": 200871,
+      "name": "Lament",
+      "url": "https://open.spotify.com/track/2W6o5dI0sfWRafsusPWZHJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Parting the Sea Between Brightness and Me",
         "url": "https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 66226,
       "name": "Uppers / Downers",
       "url": "https://open.spotify.com/track/047jxhoDnbSg8mviStkR0Z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lament",
-        "url": "https://open.spotify.com/album/6fA79mAHNeBhaUnuWBADwc"
-      },
-      "artists": [
-        {
-          "name": "Touch\u00e9 Amor\u00e9",
-          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
-        }
-      ],
-      "duration_ms": 168225,
-      "name": "Feign",
-      "url": "https://open.spotify.com/track/22XeCtcmvFRKEotV0kQshn"
     },
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Parting the Sea Between Brightness and Me",
-        "url": "https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh"
-      },
-      "artists": [
-        {
-          "name": "Touch\u00e9 Amor\u00e9",
-          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
-        }
-      ],
-      "duration_ms": 98866,
-      "name": "Art Official",
-      "url": "https://open.spotify.com/track/1d51f4Xw1FjpwVTC8gsAHk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lament",
         "url": "https://open.spotify.com/album/6fA79mAHNeBhaUnuWBADwc"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 176242,
       "name": "Savoring",
       "url": "https://open.spotify.com/track/78PPN8ZdlhotO6wvNaA9IV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Parting the Sea Between Brightness and Me",
+        "url": "https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "duration_ms": 98866,
+      "name": "Art Official",
+      "url": "https://open.spotify.com/track/1d51f4Xw1FjpwVTC8gsAHk"
     },
     {
       "added_at": null,
@@ -436,25 +436,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 184920,
-      "name": "Harbor",
-      "url": "https://open.spotify.com/track/1eZVWlibiTTrKiZJyZGvTn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Parting the Sea Between Brightness and Me",
-        "url": "https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh"
-      },
-      "artists": [
-        {
-          "name": "Touch\u00e9 Amor\u00e9",
-          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
-        }
-      ],
-      "duration_ms": 110333,
-      "name": "Home Away from Here",
-      "url": "https://open.spotify.com/track/698tUiegVocxceqJSBKK4S"
+      "duration_ms": 137520,
+      "name": "Just Exist",
+      "url": "https://open.spotify.com/track/0zjQzW0OR8yYZu7QMr6FxB"
     },
     {
       "added_at": null,
@@ -471,6 +455,22 @@
       "duration_ms": 182946,
       "name": "Green",
       "url": "https://open.spotify.com/track/7Elxs3hCKEiHfOv7rb6F70"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Parting the Sea Between Brightness and Me",
+        "url": "https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "duration_ms": 110333,
+      "name": "Home Away from Here",
+      "url": "https://open.spotify.com/track/698tUiegVocxceqJSBKK4S"
     },
     {
       "added_at": null,
@@ -500,25 +500,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 137520,
-      "name": "Just Exist",
-      "url": "https://open.spotify.com/track/0zjQzW0OR8yYZu7QMr6FxB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Parting the Sea Between Brightness and Me",
-        "url": "https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh"
-      },
-      "artists": [
-        {
-          "name": "Touch\u00e9 Amor\u00e9",
-          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
-        }
-      ],
-      "duration_ms": 108280,
-      "name": "The Great Repetition",
-      "url": "https://open.spotify.com/track/2xcb8LjowO44LjXMpmUtgP"
+      "duration_ms": 184920,
+      "name": "Harbor",
+      "url": "https://open.spotify.com/track/1eZVWlibiTTrKiZJyZGvTn"
     },
     {
       "added_at": null,
@@ -539,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Parting the Sea Between Brightness and Me",
+        "url": "https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "duration_ms": 108280,
+      "name": "The Great Repetition",
+      "url": "https://open.spotify.com/track/2xcb8LjowO44LjXMpmUtgP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "...To the Beat of a Dead Horse",
         "url": "https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1"
       },
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 92976,
-      "name": "History Reshits Itself",
-      "url": "https://open.spotify.com/track/68bm9z3WOGCnnqmOrm6PeT"
+      "duration_ms": 44418,
+      "name": "Nine",
+      "url": "https://open.spotify.com/track/5GRro6xGJrZEwQykaaKXEk"
     },
     {
       "added_at": null,
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 44418,
-      "name": "Nine",
-      "url": "https://open.spotify.com/track/5GRro6xGJrZEwQykaaKXEk"
+      "duration_ms": 92976,
+      "name": "History Reshits Itself",
+      "url": "https://open.spotify.com/track/68bm9z3WOGCnnqmOrm6PeT"
     },
     {
       "added_at": null,

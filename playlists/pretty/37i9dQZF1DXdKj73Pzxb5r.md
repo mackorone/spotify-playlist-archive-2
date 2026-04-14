@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKj73Pzxb5r.md) - [plain]
 
 > Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Inoya House
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,624 likes - 105 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,629 likes - 105 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

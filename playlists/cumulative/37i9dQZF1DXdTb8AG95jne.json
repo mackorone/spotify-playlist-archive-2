@@ -2864,7 +2864,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 276043,
       "name": "Carry the weight, side by side",
       "url": "https://open.spotify.com/track/6YDwrYdXdYsySmZsAd9jCN"
@@ -5304,6 +5304,24 @@
       "duration_ms": 263186,
       "name": "Elena Coda (feat. Elaine)",
       "url": "https://open.spotify.com/track/2f7C47RCGc10UHfK1dsgun"
+    },
+    {
+      "album": {
+        "name": "LOVED",
+        "url": "https://open.spotify.com/album/146jDbYZEKoYEIz1ggnpCy"
+      },
+      "artists": [
+        {
+          "name": "Jung Woo",
+          "url": "https://open.spotify.com/artist/0kiyFsj1MwYO464H5luc2m"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254000,
+      "name": "Ember",
+      "url": "https://open.spotify.com/track/0J2Wi2fua93HE7KIX56oy5"
     },
     {
       "album": {
@@ -8544,7 +8562,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 224267,
       "name": "Hide and Seek (feat. kimminseong)",
       "url": "https://open.spotify.com/track/7ylQ2APCeCGzmD3H0bgTwP"
@@ -13382,7 +13400,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 230861,
       "name": "More than Noise",
       "url": "https://open.spotify.com/track/5zS9sl1aT9q8lxO5jhRkeu"
@@ -17899,6 +17917,24 @@
     },
     {
       "album": {
+        "name": "slow day",
+        "url": "https://open.spotify.com/album/3a698AQdmmt7abCGfIkxFr"
+      },
+      "artists": [
+        {
+          "name": "Ingyeong Choi",
+          "url": "https://open.spotify.com/artist/4RvL6JVLNpyy4WxafDEixI"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233906,
+      "name": "slow day",
+      "url": "https://open.spotify.com/track/6wBV7hsXeg7GAMXGbDen4T"
+    },
+    {
+      "album": {
         "name": "Slow wave",
         "url": "https://open.spotify.com/album/0qBkpCy4NrMI6Yk50eD75x"
       },
@@ -20498,6 +20534,24 @@
       "duration_ms": 279142,
       "name": "This is Beta Testing",
       "url": "https://open.spotify.com/track/5QeEwW9YF2VMaWJ5hjkKOo"
+    },
+    {
+      "album": {
+        "name": "This Life Feels Ruined",
+        "url": "https://open.spotify.com/album/3xTIKhAew5hPWXFxlc87o2"
+      },
+      "artists": [
+        {
+          "name": "1415",
+          "url": "https://open.spotify.com/artist/71JjZRW0sCWpF1EuaS9TQA"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168877,
+      "name": "This Life Feels Ruined",
+      "url": "https://open.spotify.com/track/7e4kQ0rFWMazzPRHaib9qq"
     },
     {
       "album": {

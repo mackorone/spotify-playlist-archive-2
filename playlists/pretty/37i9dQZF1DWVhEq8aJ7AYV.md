@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhEq8aJ7AYV.md) - [plain]
 
 > Enmascarados, Pin\-Up Girls, Engrasados y Surfers en un mismo lugar
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,525 likes - 75 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,522 likes - 75 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhEq8aJ7AYV.md) - [plain]
 | 49 | [Peyoteando Con Ayahuasca](https://open.spotify.com/track/1dfR1vi6sYqngeVc75nFZW) | [Los Peyotes](https://open.spotify.com/artist/1VbfSBBZCtzmy9I3a4oHJp) | [Garaje o Muerte](https://open.spotify.com/album/21cnBP9BOz7CgVTsAyWon6) | 3:06 |
 | 50 | [Space Oddity](https://open.spotify.com/track/1aqKNWVSHrdJNxYTtl8kZU) | [The Neanderthals](https://open.spotify.com/artist/3IEkhYN4pmmS1XFtB2cAT8), [Eddie Angel \(Los Straitjackets\)](https://open.spotify.com/artist/1vo1sJls2CJ26A7VcvWEqC) | [The Neanderthals In Space](https://open.spotify.com/album/18Q5PGVJ162yrxJvZD6Uei) | 2:59 |
 | 51 | [Spy Cam](https://open.spotify.com/track/0zeMgUcxLn0KvXcC8hGZCA) | [Lost Acapulco](https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U) | [Las Mejores Olas](https://open.spotify.com/album/3ZWimjUwLvF5ONvMj2gWYt) | 3:05 |
-| 52 | [1,2,3,4 \- Los Cogelones Remix](https://open.spotify.com/track/0Fn7a7chIZRWOt80MOchqJ) | [Titán](https://open.spotify.com/artist/4pznqIbj3YFnwvG44k1GIu), [Los Cogelones](https://open.spotify.com/artist/0E6wzL7Jdd5XiLjadvcpKS) | [1, 2, 3, 4 \(Los Cogelones Remix\)](https://open.spotify.com/album/1naZNZNvA9YfCMP7LZPnEJ) | 3:47 |
-| 53 | [Tierra del Fuego](https://open.spotify.com/track/1RXRAgFZxwgfodanVexAfO) | [Langhorns](https://open.spotify.com/artist/1iReuG3AVPCkrxBtXEeUhV) | [Langhorns](https://open.spotify.com/album/5kQLgTlaXTkcq27zaGTSk4) | 2:40 |
+| 52 | [Tierra del Fuego](https://open.spotify.com/track/1RXRAgFZxwgfodanVexAfO) | [Langhorns](https://open.spotify.com/artist/1iReuG3AVPCkrxBtXEeUhV) | [Langhorns](https://open.spotify.com/album/5kQLgTlaXTkcq27zaGTSk4) | 2:40 |
+| 53 | [1,2,3,4 \- Los Cogelones Remix](https://open.spotify.com/track/0Fn7a7chIZRWOt80MOchqJ) | [Titán](https://open.spotify.com/artist/4pznqIbj3YFnwvG44k1GIu), [Los Cogelones](https://open.spotify.com/artist/0E6wzL7Jdd5XiLjadvcpKS) | [1, 2, 3, 4 \(Los Cogelones Remix\)](https://open.spotify.com/album/1naZNZNvA9YfCMP7LZPnEJ) | 3:47 |
 | 54 | [For Your Love](https://open.spotify.com/track/49768PixpSxavruNoPHzdf) | [Johnny Nasty Boots](https://open.spotify.com/artist/4ZdTJ5fUA3yjAbkK8rvVod) | [For Your Love](https://open.spotify.com/album/05mW6JhQ0QgpDtnBonTpul) | 4:05 |
 | 55 | [Qué Divertido](https://open.spotify.com/track/6WKzHKnJhlD5aNAxfRLsER) | [The Americojones Experience](https://open.spotify.com/artist/5nxmzG12WW5he5vDgnyQLf) | [El Jugador](https://open.spotify.com/album/6smHJpUz67QCkxAgtUAkP2) | 3:03 |
 | 56 | [Goths In A Graveyard](https://open.spotify.com/track/5Mx9iMvKCeGy97fz07mB6C) | [Aurelio Voltaire](https://open.spotify.com/artist/2ZCG1aukcb5fjBDgizvDbD), [Jess\-O\-Lantern](https://open.spotify.com/artist/75aavfZl69BZ7OU30f5APl) | [Summerween Surf](https://open.spotify.com/album/1g9thBnLoWTelLc6Yls2BC) | 4:22 |
@@ -68,13 +68,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhEq8aJ7AYV.md) - [plain]
 | 58 | [Swan's Lake](https://open.spotify.com/track/2dMCzVJOAAo0gUDWzBAIPR) | [Los Twang! Marvels](https://open.spotify.com/artist/4ZQDQBB4n9WSJ6OK7GB8pL) | [Guitars In Orbit](https://open.spotify.com/album/1ztjKDuWAsYJ92QCBAHwzc) | 2:03 |
 | 59 | [Nación Apache](https://open.spotify.com/track/2VDdNo02QCA2nChBQKMqp3) | [Twin Tones](https://open.spotify.com/artist/3iWXaK2ztxcwFVtCX3QsKV) | [Nación Apache](https://open.spotify.com/album/2LgkoOYWhYWwxwVzTXm5Sp) | 2:08 |
 | 60 | [Wet Girls](https://open.spotify.com/track/1odCtYicHYC8EYwGAEyYwy) | [The Kilaueas](https://open.spotify.com/artist/1rGWPfYfcQb9k3CyZ6JhNZ) | [Wiki Waki Woooo](https://open.spotify.com/album/3ZZII0H7lLQ7chvgvOSQDu) | 2:39 |
-| 61 | [Hay Una Cobra En Mi Sopa](https://open.spotify.com/track/4M8TgQwfRVsLEJfrd0kxkm) | [Lost Acapulco](https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U) | [Hay Una Cobra En Mi Sopa](https://open.spotify.com/album/1p3Z6K9Iei8L6RyaaFJUdr) | 2:20 |
-| 62 | [Twist Del Elefante](https://open.spotify.com/track/58kYjQzf6V58d4j2gQH2yN) | [The Cavernarios](https://open.spotify.com/artist/6fsKu7O1tqv4la4xy0fIOZ) | [Sangre en el Atlántico](https://open.spotify.com/album/0dGcnozdWfdgdPez34CCbp) | 2:47 |
+| 61 | [Twist Del Elefante](https://open.spotify.com/track/58kYjQzf6V58d4j2gQH2yN) | [The Cavernarios](https://open.spotify.com/artist/6fsKu7O1tqv4la4xy0fIOZ) | [Sangre en el Atlántico](https://open.spotify.com/album/0dGcnozdWfdgdPez34CCbp) | 2:47 |
+| 62 | [Hay Una Cobra En Mi Sopa](https://open.spotify.com/track/4M8TgQwfRVsLEJfrd0kxkm) | [Lost Acapulco](https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U) | [Hay Una Cobra En Mi Sopa](https://open.spotify.com/album/1p3Z6K9Iei8L6RyaaFJUdr) | 2:20 |
 | 63 | [Fiesta Inolvidable \(Estamos bien\)](https://open.spotify.com/track/42uenM4LIuu6DiSLGH11cV) | [Los Esquizitos](https://open.spotify.com/artist/2zYgJ6dbHzarjjnMCGeV2A) | [Fiesta inolvidable \(Estamos bien\)](https://open.spotify.com/album/4RHwnRFgdxKWmAW2beG9pW) | 3:14 |
 | 64 | [Blue Demon Jr.](https://open.spotify.com/track/5xMxiKym9ruYX1VkP55IO0) | [Los Elasticos](https://open.spotify.com/artist/6c4NKR57VVR6AjaoZB6q9Z) | [Dr\. Malicia / 10 Años Elásticos](https://open.spotify.com/album/0JiiIU9cYqCKB821qpySss) | 2:14 |
 | 65 | [Cordyceps](https://open.spotify.com/track/0vPMGS5FEPjk7pVf6oNdMc) | [Viernes de Hongos](https://open.spotify.com/artist/3wx5qwQq4y9aFxuNp5LCSo) | [Cordyceps](https://open.spotify.com/album/06BS8FuiWWr0qqJqxsZloj) | 2:34 |
-| 66 | [Tsunami Mami](https://open.spotify.com/track/0LRlR9AxUqKb0xvBrIqFC1) | [Lost Acapulco](https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U) | [Tsunami Mami](https://open.spotify.com/album/4prGltBITFIAFW7qqIgIMc) | 2:20 |
-| 67 | [Santa Ursula](https://open.spotify.com/track/2fZnIhx4KNOsmImwM6Ad4L) | [Carrion Kids](https://open.spotify.com/artist/3BaXYCo5ZPoXCQ4MW93ulu) | [Santa Ursula](https://open.spotify.com/album/6iKFX0Mi8dftGut3AkZfVc) | 2:50 |
+| 66 | [Santa Ursula](https://open.spotify.com/track/2fZnIhx4KNOsmImwM6Ad4L) | [Carrion Kids](https://open.spotify.com/artist/3BaXYCo5ZPoXCQ4MW93ulu) | [Santa Ursula](https://open.spotify.com/album/6iKFX0Mi8dftGut3AkZfVc) | 2:50 |
+| 67 | [Tsunami Mami](https://open.spotify.com/track/0LRlR9AxUqKb0xvBrIqFC1) | [Lost Acapulco](https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U) | [Tsunami Mami](https://open.spotify.com/album/4prGltBITFIAFW7qqIgIMc) | 2:20 |
 | 68 | [96 Lagrimas](https://open.spotify.com/track/00KMOWuq9s94Nbv3PXKRUB) | [Los Peyotes](https://open.spotify.com/artist/1VbfSBBZCtzmy9I3a4oHJp) | [Garaje o Muerte](https://open.spotify.com/album/21cnBP9BOz7CgVTsAyWon6) | 2:27 |
 | 69 | [Mutantes](https://open.spotify.com/track/0jqpnsBXWrGhf31HIJ6v8E) | [TELEKRIMEN](https://open.spotify.com/artist/2KEmsfx3vYhlcs0nATaFkC) | [Resurrection of the Blood Zombies from Beyond!](https://open.spotify.com/album/3zosPfY4bKBfuBjPvHyiIH) | 2:54 |
 | 70 | [Lord Hunt Surf Party](https://open.spotify.com/track/7hApbsEUHchioCqgmbVafD) | [The Bomboras](https://open.spotify.com/artist/3yoSVQdO70gyHa8hfpoJwD) | [Savage Island!](https://open.spotify.com/album/6rYOpRv7EjECzIvQIoV6rN) | 2:10 |

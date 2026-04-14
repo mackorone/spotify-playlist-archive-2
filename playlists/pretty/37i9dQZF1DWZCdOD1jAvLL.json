@@ -1,6 +1,6 @@
 {
   "description": "Stank face activated. Cover: Nostalgix",
-  "num_followers": 270695,
+  "num_followers": 270717,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
@@ -899,6 +899,26 @@
     {
       "added_at": "2026-04-03 04:01:51",
       "album": {
+        "name": "4 Ya Mind",
+        "url": "https://open.spotify.com/album/0xmHvWsIECBDM5ltH51C2f"
+      },
+      "artists": [
+        {
+          "name": "AYYBO",
+          "url": "https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV"
+        },
+        {
+          "name": "Discip",
+          "url": "https://open.spotify.com/artist/6K16NRv0isbkftsv5lmlMT"
+        }
+      ],
+      "duration_ms": 205546,
+      "name": "4 Ya Mind",
+      "url": "https://open.spotify.com/track/6cJwVvwYpMg8PlQpJY5RwS"
+    },
+    {
+      "added_at": "2026-04-03 04:01:51",
+      "album": {
         "name": "Hell Yeah (Feat. Waxmaster)",
         "url": "https://open.spotify.com/album/6dl23YahpDggLsz3CUStQR"
       },
@@ -943,26 +963,6 @@
     {
       "added_at": "2026-04-03 04:01:51",
       "album": {
-        "name": "4 Ya Mind",
-        "url": "https://open.spotify.com/album/0xmHvWsIECBDM5ltH51C2f"
-      },
-      "artists": [
-        {
-          "name": "AYYBO",
-          "url": "https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV"
-        },
-        {
-          "name": "Discip",
-          "url": "https://open.spotify.com/artist/6K16NRv0isbkftsv5lmlMT"
-        }
-      ],
-      "duration_ms": 205546,
-      "name": "4 Ya Mind",
-      "url": "https://open.spotify.com/track/6cJwVvwYpMg8PlQpJY5RwS"
-    },
-    {
-      "added_at": "2026-04-03 04:01:51",
-      "album": {
         "name": "Till I Die (feat. Claudia Valentina)",
         "url": "https://open.spotify.com/album/5PbhaD1xmVRzslSBrI43cK"
       },
@@ -983,34 +983,6 @@
       "duration_ms": 203076,
       "name": "Till I Die (feat. Claudia Valentina)",
       "url": "https://open.spotify.com/track/4pawR52ONFQTCYUzI6C2xZ"
-    },
-    {
-      "added_at": "2026-04-03 04:01:51",
-      "album": {
-        "name": "Crazy",
-        "url": "https://open.spotify.com/album/4xQKZ1vTOvkaPJWaA0AFEg"
-      },
-      "artists": [
-        {
-          "name": "Matt Sassari",
-          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
-        },
-        {
-          "name": "Jack Back",
-          "url": "https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Amira Eldine",
-          "url": "https://open.spotify.com/artist/5x0OHHY63e9ikyPpyUUrst"
-        }
-      ],
-      "duration_ms": 125625,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/4a1UArX9uL4trMks4wu8LZ"
     },
     {
       "added_at": "2026-04-03 04:01:51",
@@ -1055,22 +1027,30 @@
     {
       "added_at": "2026-04-03 04:01:51",
       "album": {
-        "name": "You Gonna Want Me (I Know)",
-        "url": "https://open.spotify.com/album/0NWejE4qcU16cqia7YSWaN"
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/4xQKZ1vTOvkaPJWaA0AFEg"
       },
       "artists": [
         {
-          "name": "Tiga",
-          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
         },
         {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+          "name": "Jack Back",
+          "url": "https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Amira Eldine",
+          "url": "https://open.spotify.com/artist/5x0OHHY63e9ikyPpyUUrst"
         }
       ],
-      "duration_ms": 192187,
-      "name": "You Gonna Want Me (I Know)",
-      "url": "https://open.spotify.com/track/0jXDwNszuI3K2xs5ShoE18"
+      "duration_ms": 125625,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/4a1UArX9uL4trMks4wu8LZ"
     },
     {
       "added_at": "2026-04-03 04:01:51",
@@ -1091,6 +1071,26 @@
       "duration_ms": 183750,
       "name": "Greedy",
       "url": "https://open.spotify.com/track/5Lud9rYTBNnTkt4FMoNYPG"
+    },
+    {
+      "added_at": "2026-04-03 04:01:51",
+      "album": {
+        "name": "You Gonna Want Me (I Know)",
+        "url": "https://open.spotify.com/album/0NWejE4qcU16cqia7YSWaN"
+      },
+      "artists": [
+        {
+          "name": "Tiga",
+          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
+        },
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        }
+      ],
+      "duration_ms": 192187,
+      "name": "You Gonna Want Me (I Know)",
+      "url": "https://open.spotify.com/track/0jXDwNszuI3K2xs5ShoE18"
     },
     {
       "added_at": "2026-04-03 04:01:51",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2026-04-03 04:01:51",
       "album": {
+        "name": "Loaded Gun",
+        "url": "https://open.spotify.com/album/1sT9xYGwgYCcac9vuIPoQD"
+      },
+      "artists": [
+        {
+          "name": "CID",
+          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
+        }
+      ],
+      "duration_ms": 194883,
+      "name": "Loaded Gun",
+      "url": "https://open.spotify.com/track/19PBU0nWYBOMzHOAxDBEcg"
+    },
+    {
+      "added_at": "2026-04-03 04:01:51",
+      "album": {
         "name": "Original Don",
         "url": "https://open.spotify.com/album/7Jn24h49ditLNn0I2ePgsL"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 168275,
       "name": "Original Don",
       "url": "https://open.spotify.com/track/3jzXUnJxAG8Yqj9IVR8RZx"
-    },
-    {
-      "added_at": "2026-04-03 04:01:51",
-      "album": {
-        "name": "Loaded Gun",
-        "url": "https://open.spotify.com/album/1sT9xYGwgYCcac9vuIPoQD"
-      },
-      "artists": [
-        {
-          "name": "CID",
-          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
-        }
-      ],
-      "duration_ms": 194883,
-      "name": "Loaded Gun",
-      "url": "https://open.spotify.com/track/19PBU0nWYBOMzHOAxDBEcg"
     },
     {
       "added_at": "2026-04-03 04:01:51",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2026-04-03 04:01:51",
       "album": {
+        "name": "Fast Money",
+        "url": "https://open.spotify.com/album/20mnxDAUfgNVr3KkxrwEaN"
+      },
+      "artists": [
+        {
+          "name": "PITCHBLACK",
+          "url": "https://open.spotify.com/artist/0BHh71bPCPBbZDDCb3jaHW"
+        }
+      ],
+      "duration_ms": 142529,
+      "name": "Fast Money",
+      "url": "https://open.spotify.com/track/4HfiqUIw23qtbd9Wv58o0q"
+    },
+    {
+      "added_at": "2026-04-03 04:01:51",
+      "album": {
         "name": "What It Feels Like",
         "url": "https://open.spotify.com/album/6GEqAR3MHnXmUfSz0sTt79"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 138857,
       "name": "What It Feels Like",
       "url": "https://open.spotify.com/track/3QVcmMnWPTcuCSRPzO7Iuf"
-    },
-    {
-      "added_at": "2026-04-03 04:01:51",
-      "album": {
-        "name": "Fast Money",
-        "url": "https://open.spotify.com/album/20mnxDAUfgNVr3KkxrwEaN"
-      },
-      "artists": [
-        {
-          "name": "PITCHBLACK",
-          "url": "https://open.spotify.com/artist/0BHh71bPCPBbZDDCb3jaHW"
-        }
-      ],
-      "duration_ms": 142529,
-      "name": "Fast Money",
-      "url": "https://open.spotify.com/track/4HfiqUIw23qtbd9Wv58o0q"
     },
     {
       "added_at": "2026-04-03 04:01:51",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2026-04-03 04:01:51",
       "album": {
-        "name": "TECHY MF",
-        "url": "https://open.spotify.com/album/3wdsImiyiJLpawSLSaXscX"
-      },
-      "artists": [
-        {
-          "name": "Lilly Palmer",
-          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
-        }
-      ],
-      "duration_ms": 174240,
-      "name": "TECHY MF",
-      "url": "https://open.spotify.com/track/3j17V2ltFQ6XBs9tPljYCb"
-    },
-    {
-      "added_at": "2026-04-03 04:01:51",
-      "album": {
         "name": "Screen Time",
         "url": "https://open.spotify.com/album/691JxW4iN7wupY8GAWJsOy"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 159821,
       "name": "Screen Time",
       "url": "https://open.spotify.com/track/3ov53bBru8D5qoSi6bYylL"
+    },
+    {
+      "added_at": "2026-04-03 04:01:51",
+      "album": {
+        "name": "TECHY MF",
+        "url": "https://open.spotify.com/album/3wdsImiyiJLpawSLSaXscX"
+      },
+      "artists": [
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        }
+      ],
+      "duration_ms": 174240,
+      "name": "TECHY MF",
+      "url": "https://open.spotify.com/track/3j17V2ltFQ6XBs9tPljYCb"
     },
     {
       "added_at": "2026-04-03 04:01:51",
@@ -2139,26 +2139,6 @@
     {
       "added_at": "2026-04-03 04:01:51",
       "album": {
-        "name": "Break This Tension",
-        "url": "https://open.spotify.com/album/7mVBnGuKuvy9iNRl0xM4Hp"
-      },
-      "artists": [
-        {
-          "name": "Coka Cobra",
-          "url": "https://open.spotify.com/artist/6hkPxsEatcEhLl6sRPTHuC"
-        },
-        {
-          "name": "NXSTY",
-          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
-        }
-      ],
-      "duration_ms": 151406,
-      "name": "Break This Tension",
-      "url": "https://open.spotify.com/track/7iGNzOfyHhJ8HUgp5FHT1l"
-    },
-    {
-      "added_at": "2026-04-03 04:01:51",
-      "album": {
         "name": "All I Need",
         "url": "https://open.spotify.com/album/7uaQkWRwia9E6c6XBXO802"
       },
@@ -2179,6 +2159,26 @@
       "duration_ms": 204559,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/715xY8vtiUbtFCZgKikYvP"
+    },
+    {
+      "added_at": "2026-04-03 04:01:51",
+      "album": {
+        "name": "Break This Tension",
+        "url": "https://open.spotify.com/album/7mVBnGuKuvy9iNRl0xM4Hp"
+      },
+      "artists": [
+        {
+          "name": "Coka Cobra",
+          "url": "https://open.spotify.com/artist/6hkPxsEatcEhLl6sRPTHuC"
+        },
+        {
+          "name": "NXSTY",
+          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+        }
+      ],
+      "duration_ms": 151406,
+      "name": "Break This Tension",
+      "url": "https://open.spotify.com/track/7iGNzOfyHhJ8HUgp5FHT1l"
     },
     {
       "added_at": "2026-04-03 04:01:51",

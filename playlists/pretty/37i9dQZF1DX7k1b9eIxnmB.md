@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k1b9eIxnmB.md) - [plain]
 
 > Here comes the Maestro with his best of 90s!
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,277 likes - 100 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,320 likes - 100 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k1b9eIxnmB.md) - [plain]
 | 28 | [Kattu Kuyilu](https://open.spotify.com/track/6BIaOAciYyGgz1PzQ83Dmq) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [K\. J\. Yesudas](https://open.spotify.com/artist/2wPsNCwhEGb0KvChZ5DD52), [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [Vaali](https://open.spotify.com/artist/7m3MZA0qYo7ZHvsDONlc5r) | [Thalapathi](https://open.spotify.com/album/49aJppWozUgAxp8D8D6e6U) | 5:26 |
 | 29 | [Kuyil Paattu \(Happy\)](https://open.spotify.com/track/5JLkSyqJTKKuuyeT3kBKIb) | [Swarnalatha](https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d) | [En Rasavin Manasile \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2BTcuMvI2nrbRHh81PliTM) | 4:54 |
 | 30 | [Annan Enna Thambi Enna](https://open.spotify.com/track/62AFtKJzjOxGx27oXM0z2i) | [K\. J\. Yesudas](https://open.spotify.com/artist/2wPsNCwhEGb0KvChZ5DD52) | [Dharma Durai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5OAKyz8gLqbQcz9KHETsoB) | 5:00 |
-| 31 | [Inji Idupazhagi](https://open.spotify.com/track/4LSvEyv1uzh8i80fTeJ4GB) | [Kamal Haasan](https://open.spotify.com/artist/5asJ8jtjk36r5PW5upyJm6), [S\. Janaki](https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu) | [Devar Magan](https://open.spotify.com/album/5o3RgTQpbSjQeMvVlpXeU6) | 3:29 |
-| 32 | [Thooliyile Ada Vantha \- Male Version](https://open.spotify.com/track/3gx3UjoX7iBUl3G49AwI6u) | [Mano](https://open.spotify.com/artist/3NzhVoa20crNtp1p4zE8um) | [Chinna Thambi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/537JJWEccfDCupXUjr6m1t) | 4:41 |
+| 31 | [Thooliyile Ada Vantha \- Male Version](https://open.spotify.com/track/3gx3UjoX7iBUl3G49AwI6u) | [Mano](https://open.spotify.com/artist/3NzhVoa20crNtp1p4zE8um) | [Chinna Thambi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/537JJWEccfDCupXUjr6m1t) | 4:41 |
+| 32 | [Inji Idupazhagi](https://open.spotify.com/track/4LSvEyv1uzh8i80fTeJ4GB) | [Kamal Haasan](https://open.spotify.com/artist/5asJ8jtjk36r5PW5upyJm6), [S\. Janaki](https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu) | [Devar Magan](https://open.spotify.com/album/5o3RgTQpbSjQeMvVlpXeU6) | 3:29 |
 | 33 | [Sundari](https://open.spotify.com/track/6mssbRQ5gvSac5YWjPiVgl) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [S\. Janaki](https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu), [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [Vaali](https://open.spotify.com/artist/7m3MZA0qYo7ZHvsDONlc5r) | [Thalapathi](https://open.spotify.com/album/49aJppWozUgAxp8D8D6e6U) | 7:09 |
 | 34 | [Poovoma Oorgolam](https://open.spotify.com/track/3PDV7A1ufKpw9mV2PxMLKB) | [Swarnalatha](https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d), [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8) | [Chinna Thambi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/537JJWEccfDCupXUjr6m1t) | 4:51 |
 | 35 | [Malligai Mottu](https://open.spotify.com/track/1NsfymKYTr0g5VFgyzGjqZ) | [Arunmozhi](https://open.spotify.com/artist/3mCRya0mLtW9bljPonCX5f), [Swarnalatha](https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d) | [Sakthivel \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3NJ0S5vBfJxkGvYRBhGvaZ) | 5:04 |

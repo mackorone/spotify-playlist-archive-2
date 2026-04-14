@@ -4,7 +4,7 @@
 
 > This is Central Cee\. The essential tracks, all in one playlist.
 
-100 songs - 5 hr 0 min
+101 songs - 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,8 @@
 | [Retail Therapy](https://open.spotify.com/track/12auvGedCkbd6jiuspZXWS) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [23](https://open.spotify.com/album/0SakL2ra5Cik5yQgKQBHGp) | 2:55 | 2024-02-19 | 2025-01-14 |
 | [Ruby](https://open.spotify.com/track/107TX4vj1U8We3uqDmb9oO) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Wild West](https://open.spotify.com/album/0aAVMtHuK9wX1mQozWvdSZ) | 3:25 | 2023-01-18 | 2026-03-29 |
 | [RUNNING MAN](https://open.spotify.com/track/5WIC9HkQ6e09MrcOokgsuh) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [RUNNING MAN](https://open.spotify.com/album/5ZhnfkIbI4NkP8tZtvR7XP) | 3:05 | 2023-01-18 | 2023-12-14 |
-| [SLAUGHTER FT J HUS](https://open.spotify.com/track/1CMxMiyupGPegADyyKFvVZ) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [SLAUGHTER](https://open.spotify.com/album/0rHvxA1hRowFJ2TkqwKRj9) | 2:18 | 2026-02-16 |  |
+| [SLAUGHTER FT J HUS](https://open.spotify.com/track/1CMxMiyupGPegADyyKFvVZ) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [SLAUGHTER](https://open.spotify.com/album/0rHvxA1hRowFJ2TkqwKRj9) | 2:18 | 2026-02-16 | 2026-04-14 |
+| [SLAUGHTER FT J HUS](https://open.spotify.com/track/6jojewiRBHKsE2RVOdPhGb) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [ALL ROADS LEAD HOME](https://open.spotify.com/album/1JcLZljq8ADWNCdwVJKNID) | 2:18 | 2026-04-14 |  |
 | [Sprinter](https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Sprinter](https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg) | 3:49 | 2023-06-03 | 2026-01-02 |
 | [Sprinter](https://open.spotify.com/track/6NYbDTmstd7JSUWl2hVBqR) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Sprinter](https://open.spotify.com/album/7sGpm3nDvQXOflht2c6wlK) | 3:49 | 2026-01-02 |  |
 | [St\. Patrick's](https://open.spotify.com/track/2qzzG3HPPphZekVBxlEFLy) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [CAN'T RUSH GREATNESS](https://open.spotify.com/album/1pnm9zBlblhTRlE46ItLzU) | 2:40 | 2025-01-27 | 2025-01-29 |

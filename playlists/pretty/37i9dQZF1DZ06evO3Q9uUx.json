@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "admPAAAAAAAAUE/ofDCqEa9ACte+zmyE",
+  "snapshot_id": "adrggAAAAACJZtFDk4CYliu+OdfoIwjt",
   "tracks": [
     {
       "added_at": null,
@@ -403,22 +403,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seductive",
-        "url": "https://open.spotify.com/album/75bi4SlFkQJ2zogYEjlHK5"
+        "name": "BIRTHDAY BEHAVIOR",
+        "url": "https://open.spotify.com/album/1dz5ClokzJAs3O52DN56GW"
       },
       "artists": [
         {
-          "name": "Luciano",
-          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
-        },
-        {
           "name": "BIA",
           "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
         }
       ],
-      "duration_ms": 178546,
-      "name": "Mami (feat. BIA)",
-      "url": "https://open.spotify.com/track/0fu8IDTHrJgnUMgJmhrWRa"
+      "duration_ms": 144000,
+      "name": "BIRTHDAY BEHAVIOR",
+      "url": "https://open.spotify.com/track/0yJrDAac79G2AJcqobXqyu"
     },
     {
       "added_at": null,
@@ -451,22 +451,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "BIRTHDAY BEHAVIOR",
-        "url": "https://open.spotify.com/album/1dz5ClokzJAs3O52DN56GW"
+        "name": "Seductive",
+        "url": "https://open.spotify.com/album/75bi4SlFkQJ2zogYEjlHK5"
       },
       "artists": [
         {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
         },
         {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
         }
       ],
-      "duration_ms": 144000,
-      "name": "BIRTHDAY BEHAVIOR",
-      "url": "https://open.spotify.com/track/0yJrDAac79G2AJcqobXqyu"
+      "duration_ms": 178546,
+      "name": "Mami (feat. BIA)",
+      "url": "https://open.spotify.com/track/0fu8IDTHrJgnUMgJmhrWRa"
     },
     {
       "added_at": null,
@@ -703,6 +703,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "moo",
+        "url": "https://open.spotify.com/album/5RHHriIsaO6PnS4DodUsat"
+      },
+      "artists": [
+        {
+          "name": "DDG",
+          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 187826,
+      "name": "jaded (feat. BIA)",
+      "url": "https://open.spotify.com/track/02Qel05Z1siC6oZUWjeP3p"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "KIKI",
         "url": "https://open.spotify.com/album/6UmILTxwjM8sME3wbsZgQh"
       },
@@ -723,26 +743,6 @@
       "duration_ms": 155666,
       "name": "Labels. (ft. Moneybagg Yo, BIA)",
       "url": "https://open.spotify.com/track/3H6jIGAjC93RTm9MihQe3w"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "moo",
-        "url": "https://open.spotify.com/album/5RHHriIsaO6PnS4DodUsat"
-      },
-      "artists": [
-        {
-          "name": "DDG",
-          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 187826,
-      "name": "jaded (feat. BIA)",
-      "url": "https://open.spotify.com/track/02Qel05Z1siC6oZUWjeP3p"
     },
     {
       "added_at": null,
@@ -915,26 +915,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Distrito Federal",
-        "url": "https://open.spotify.com/album/6ojf6Hfhj5NtQLRMiCRaFt"
+        "name": "I'M THAT BITCH",
+        "url": "https://open.spotify.com/album/3XZmrh1D5RI5kvz5N6i6Lp"
       },
       "artists": [
-        {
-          "name": "Mexican Institute Of Sound",
-          "url": "https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy"
-        },
         {
           "name": "BIA",
           "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
         },
         {
-          "name": "Duckwrth",
-          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
         }
       ],
-      "duration_ms": 172078,
-      "name": "Vamos",
-      "url": "https://open.spotify.com/track/4gbRykMoB7dM0okw4DHj5J"
+      "duration_ms": 152043,
+      "name": "I'M THAT BITCH",
+      "url": "https://open.spotify.com/track/39uEuUEWsAZtozSQRPlf62"
     },
     {
       "added_at": null,
@@ -955,22 +951,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'M THAT BITCH",
-        "url": "https://open.spotify.com/album/3XZmrh1D5RI5kvz5N6i6Lp"
+        "name": "Distrito Federal",
+        "url": "https://open.spotify.com/album/6ojf6Hfhj5NtQLRMiCRaFt"
       },
       "artists": [
+        {
+          "name": "Mexican Institute Of Sound",
+          "url": "https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy"
+        },
         {
           "name": "BIA",
           "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
         },
         {
-          "name": "Timbaland",
-          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
         }
       ],
-      "duration_ms": 152043,
-      "name": "I'M THAT BITCH",
-      "url": "https://open.spotify.com/track/39uEuUEWsAZtozSQRPlf62"
+      "duration_ms": 172078,
+      "name": "Vamos",
+      "url": "https://open.spotify.com/track/4gbRykMoB7dM0okw4DHj5J"
     },
     {
       "added_at": null,

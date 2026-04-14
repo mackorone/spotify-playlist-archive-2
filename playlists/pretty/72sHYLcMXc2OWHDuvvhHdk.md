@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 564 likes - 2,497 songs - 6 day 1 hr 54 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 565 likes - 2,513 songs - 6 day 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2505,5 +2505,21 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2495 | [Out There Alone](https://open.spotify.com/track/3fsvOPJlvhPoUo0IqFmk4S) | [Draig](https://open.spotify.com/artist/3bPNs4WxtWGGaWGY9HSFLR) | [Barefoot](https://open.spotify.com/album/2z2LWb5kJqtUASMgmnAbAv) | 2:36 |
 | 2496 | [23 de Maio](https://open.spotify.com/track/18Lw7AUnhUT646LdPFMvni) | [Allan Fontes](https://open.spotify.com/artist/1SoCnTztxzCxvqVuPwEamz), [Jess.](https://open.spotify.com/artist/00PMCgBFFMXLtUO1prdXTI) | [23 de Maio](https://open.spotify.com/album/4bTJKqCamfHhSnsomTxKEd) | 1:43 |
 | 2497 | [Side2Side](https://open.spotify.com/track/7f7yTx0zDz7WsuwfhvMjqx) | [DOPESICKFLY](https://open.spotify.com/artist/6WfSpX8qP9BxeuUnVa1XrP) | [Side2Side](https://open.spotify.com/album/31myptWNeeiBzRAdy40S09) | 3:38 |
+| 2498 | [mi yo](https://open.spotify.com/track/3DdO2YcL7yfAJJMpnhMa8W) | [belu03](https://open.spotify.com/artist/2XBnDNY0ZlPh2bSmH9uJ91) | [mi yo](https://open.spotify.com/album/2mbcJjbGeGFErW3vHRf5Zz) | 3:32 |
+| 2499 | [Tangos de San Pedro](https://open.spotify.com/track/5Pp6sYS0sN4WIyyGg9GG17) | [Leandro Bianchi](https://open.spotify.com/artist/6JEtVeiPFNn3LImCrezayF), [Javier Colina](https://open.spotify.com/artist/4p0llEkYMGmmC4iKQecJmW), [Miryam Latrece](https://open.spotify.com/artist/3QcEeHjRSvL4aQBDaTDKi7), [Juan Medina](https://open.spotify.com/artist/4SxeQk7Wi9CFotIgg0cxYO), [Juan Carlos Aracil](https://open.spotify.com/artist/5CF2xM01AGc7QzO5vZoRMQ) | [Tangos de San Pedro](https://open.spotify.com/album/0mblx6O4wnYqgHFOrS8JiI) | 4:23 |
+| 2500 | [Surrender Sets Me Free \- Instrumental](https://open.spotify.com/track/2SMjLOrRsI0V1fJDMCarR4) | [Olivia Farabaugh](https://open.spotify.com/artist/1tmqcd1USna0bubmfMsNoP) | [Surrender Sets Me Free](https://open.spotify.com/album/3XJHZI8GxWJGEU08wQ5V4Y) | 3:30 |
+| 2501 | [Talking To A Dove](https://open.spotify.com/track/2VBWGfh1WorNT0yHkbG2Va) | [Lani Rose](https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb) | [Talking To A Dove](https://open.spotify.com/album/22XaF4IHvqBCIlWic1GNEb) | 3:19 |
+| 2502 | [Scoot Over Darling](https://open.spotify.com/track/3Zx4IGvd0c2zH8gWk6cHCd) | [Liz Kennedy](https://open.spotify.com/artist/0vkGqBr3YSlwElXPx6XKtz) | [Scoot Over Darling](https://open.spotify.com/album/3AKWjPWlonbDKTDhwnAwts) | 4:46 |
+| 2503 | [Machete](https://open.spotify.com/track/4Y2zYMEypHPpJrcaIdGNNS) | [Gena Perala](https://open.spotify.com/artist/49SGUG6CqLLqOSOYeMzunF) | [Somewhere New](https://open.spotify.com/album/0Ylnw6Lw9SfSVmS1mW4J2u) | 3:13 |
+| 2504 | [Blowing in the waves](https://open.spotify.com/track/2da8OZtalIiCX15QOoKkXZ) | [David Aznar Mathonneau](https://open.spotify.com/artist/55aJFxW0hS5JeoJwnXkeNg) | [Blowing in the waves](https://open.spotify.com/album/2eAzFBLjEaKaDv7u7elZon) | 2:17 |
+| 2505 | [Decade](https://open.spotify.com/track/5JZdrxMCmXnbEOW7bk29b6) | [Angeliferous](https://open.spotify.com/artist/0q79XPF0tihxxHMKKRr6qg) | [Decade](https://open.spotify.com/album/4l7Ifnqf99rwBlT8SIV0ak) | 1:57 |
+| 2506 | [God Rays](https://open.spotify.com/track/3znicyJI661ai8heH7yvkp) | [Valeska Rautenberg](https://open.spotify.com/artist/2lz2rj9yfHH2eKyaGavPmG) | [God Rays](https://open.spotify.com/album/57RmgcOmCRjtMkRkPOxPWh) | 4:19 |
+| 2507 | [Le clochard céleste \- Solo](https://open.spotify.com/track/70xWvw6gJIXafqFECb7rtf) | [Mathieu torres](https://open.spotify.com/artist/5HzIbJjpJCAHGiKmZYXNf2) | [Le clochard céleste \(Solo\)](https://open.spotify.com/album/5bcoSF06kwjvsm55gWDLcX) | 4:58 |
+| 2508 | [Love Actually](https://open.spotify.com/track/4HGUgYPtXInlqTn3WMZbXL) | [Mare E Sheehan](https://open.spotify.com/artist/7AoXGlS8YP1Kf2HtjAJmAW) | [Love Actually](https://open.spotify.com/album/6aCUSrkAkViqQ3TWL23b7e) | 2:02 |
+| 2509 | [Sarah, mein kleiner Stern](https://open.spotify.com/track/2kcZmDfilDNw75YdoLNHk6) | [musik.poet](https://open.spotify.com/artist/3qmi6JypjUwLqzzkoIfhjV) | [Sarah, mein kleiner Stern](https://open.spotify.com/album/2wWQMHLZKlzNa9UD12BWgz) | 3:58 |
+| 2510 | [My Hands](https://open.spotify.com/track/0kA6nzQ3AXnWYCpJimeTzJ) | [G henry](https://open.spotify.com/artist/5FSjZP6yEswWjw6HNqOxPy) | [My Hands](https://open.spotify.com/album/2N3URnnUIFyeB315nmatbY) | 3:17 |
+| 2511 | [FOTHW \(Found Out The Hard Way\)](https://open.spotify.com/track/0zEbTl5F54V8WzB99syuL6) | [Midwest Sean](https://open.spotify.com/artist/5Q80oYFUIIgdMjtQX6DnGz) | [FOTHW \(Found Out The Hard Way\)](https://open.spotify.com/album/2QjmcAqhOsxsmcbqYdfLVD) | 2:00 |
+| 2512 | [falling down](https://open.spotify.com/track/1bTcxU52JVMIOaxKTTiuqD) | [StarAV](https://open.spotify.com/artist/3WGUrAeuOzuLleeIuyg9Na) | [falling down](https://open.spotify.com/album/3zHvjsJ5xkcjwxO0JPlSV7) | 2:29 |
+| 2513 | [Roosters](https://open.spotify.com/track/6SPv408aAfbsGqb2Fvic8B) | [Travis Feutz and The Stardust Cowboys](https://open.spotify.com/artist/5prevHb6g0UVn5uIoLqbjs) | [Country Gold](https://open.spotify.com/album/3NgPR3THQboh5Uc9pAowOK) | 4:27 |
 
-Snapshot ID: `AAAKWu7M7JKz3AxuXu90abenxd6Nzwnv`
+Snapshot ID: `AAAKar2iI51AZadvResTrt0czw/e2oxq`

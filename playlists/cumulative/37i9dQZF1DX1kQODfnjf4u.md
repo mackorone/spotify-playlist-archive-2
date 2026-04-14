@@ -2,7 +2,7 @@
 
 ### [Hot Hits Česká republika](https://open.spotify.com/playlist/37i9dQZF1DX1kQODfnjf4u)
 
-> 50 nejžhavějších hitů v České republice\. Cover: Lboy Bsc
+> 50 nejžhavějších hitů v České republice\. Cover: Victor Kal\. & Lajfr
 
 213 songs - 10 hr 21 min
 

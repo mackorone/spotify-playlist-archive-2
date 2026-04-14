@@ -1,12 +1,12 @@
 {
   "description": "This is El Komander. The essential tracks, all in one playlist.",
-  "num_followers": 236578,
+  "num_followers": 236599,
   "original_name": "This Is El Komander",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "admPAAAAAADEnTpNKWxkG0vWw7A1mkSn",
+  "snapshot_id": "adrggAAAAAAy2zq3t9XfVkVmlLp9u8+K",
   "tracks": [
     {
       "added_at": null,
@@ -743,8 +743,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Amanezco Con Mi Ex",
-        "url": "https://open.spotify.com/album/5glzmrZQNMJO3Yv3S4AClz"
+        "name": "Archivo Privado",
+        "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
       },
       "artists": [
         {
@@ -752,13 +752,13 @@
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         },
         {
-          "name": "Los Hnos Rodriguez",
-          "url": "https://open.spotify.com/artist/4pLBsWSdyApz2k5JtPnmGU"
+          "name": "El Movimiento Alterado",
+          "url": "https://open.spotify.com/artist/30fa9LT7XVys8DcigD1k9x"
         }
       ],
-      "duration_ms": 144989,
-      "name": "Me Amanezco Con Mi Ex",
-      "url": "https://open.spotify.com/track/4fWFkrtNHcRH0F4GAwVzsI"
+      "duration_ms": 229013,
+      "name": "Carteles Unidos",
+      "url": "https://open.spotify.com/track/5s1jaW59HgyU9RSv1z3UNY"
     },
     {
       "added_at": null,
@@ -783,8 +783,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Archivo Privado",
-        "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
+        "name": "Me Amanezco Con Mi Ex",
+        "url": "https://open.spotify.com/album/5glzmrZQNMJO3Yv3S4AClz"
       },
       "artists": [
         {
@@ -792,13 +792,13 @@
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         },
         {
-          "name": "El Movimiento Alterado",
-          "url": "https://open.spotify.com/artist/30fa9LT7XVys8DcigD1k9x"
+          "name": "Los Hnos Rodriguez",
+          "url": "https://open.spotify.com/artist/4pLBsWSdyApz2k5JtPnmGU"
         }
       ],
-      "duration_ms": 229013,
-      "name": "Carteles Unidos",
-      "url": "https://open.spotify.com/track/5s1jaW59HgyU9RSv1z3UNY"
+      "duration_ms": 144989,
+      "name": "Me Amanezco Con Mi Ex",
+      "url": "https://open.spotify.com/track/4fWFkrtNHcRH0F4GAwVzsI"
     },
     {
       "added_at": null,

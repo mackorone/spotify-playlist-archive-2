@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7lgY3yZUd6GwjQJ01MFeVr.md) - [plain]
 
 > Today's top country music!
 
-[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 34,990 likes - 107 songs - 5 hr 37 min
+[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 34,992 likes - 108 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,5 +115,6 @@ pretty - [cumulative](/playlists/cumulative/7lgY3yZUd6GwjQJ01MFeVr.md) - [plain]
 | 105 | [South of the Suburbs](https://open.spotify.com/track/3E1W5xJY2EaPWel2kV6pYH) | [Matt Bazinet](https://open.spotify.com/artist/7pcLNmIGVmsj9nKMOdByct) | [South of the Suburbs](https://open.spotify.com/album/4dGbCXED2kmME8i4NQywvf) | 2:48 |
 | 106 | [Oh, Anna!](https://open.spotify.com/track/6VyrfS9m8W5TrLBzv0SlrY) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Oh, Anna!](https://open.spotify.com/album/1HWFTOpcSa27GzAzVwGUOB) | 4:06 |
 | 107 | [DON'T WANNA GO HOME](https://open.spotify.com/track/3ZuIruaanYV4SRdVM9cLUM) | [Adrien Nunez](https://open.spotify.com/artist/6R2UojZrKYDr0RiP9jROAJ) | [DON'T WANNA GO HOME](https://open.spotify.com/album/1u0pRqkVrTwSnOVXBZV0dg) | 2:13 |
+| 108 | [Drinking Game](https://open.spotify.com/track/3NpotblRm0XLn747iCZ75w) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Drinking Game](https://open.spotify.com/album/6yBtHDlryRS2EQAfGYNMQN) | 2:50 |
 
-Snapshot ID: `AAAfXAbEZwj1GVUcSa4DJmW99UtBoXCy`
+Snapshot ID: `AAAfXliRABi34Kpc9tvjrcypiyli+9ny`

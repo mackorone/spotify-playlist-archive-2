@@ -4,7 +4,7 @@
 
 > Yeni favori sanatçını keşfet ⚡ Kapak: Dila Uzun
 
-385 songs - 19 hr 33 min
+386 songs - 19 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Barlarda Öpersin Birini](https://open.spotify.com/track/1JxE4WHY2mo7TakJ320wMb) | [Venüs](https://open.spotify.com/artist/0Eww2KCVprS4Lj6qoLQlpf) | [Barlarda Öpersin Birini](https://open.spotify.com/album/2IPENiDRPR5Gm6vZxSt0LF) | 2:34 | 2026-02-19 |  |
 | [bay area sunsets](https://open.spotify.com/track/25hZr8s7kj40fQTMGZA6MZ) | [7EDI](https://open.spotify.com/artist/4167SqZnbUagsRL7qNugRr) | [bay area sunsets](https://open.spotify.com/album/6StPyp3N8ksv81eg3jrlIp) | 1:16 | 2024-09-27 | 2025-01-10 |
 | [Belki Bi' Gün Anlarsın](https://open.spotify.com/track/0ddXQ4eNqVOr1YacLki5Xa) | [Böyleyken Böyle](https://open.spotify.com/artist/3yLCFdWSpXsvl8rK2INQRH) | [Belki Bi' Gün Anlarsın](https://open.spotify.com/album/4TjIITyVEoaYup0JFmNMjg) | 2:25 | 2024-06-20 |  |
+| [Belki De Bu Aşk Demek](https://open.spotify.com/track/47nrB5AXUwR1QkVQBwlnMb) | [Erai G.](https://open.spotify.com/artist/53X7H2LHPJLYV2iHp3yRpr) | [Belki De Bu Aşk Demek](https://open.spotify.com/album/6pFG7h3EZbxwmOxqqXapt5) | 4:12 | 2026-04-10 |  |
 | [belki kafam dünden güzel](https://open.spotify.com/track/3mZQAM3IZdrzs61VoRe5wa) | [Ali Meydanioğlu](https://open.spotify.com/artist/4fBIAPckfneje8qmOasnVf) | [belki kafam dünden güzel](https://open.spotify.com/album/2YcBA13qp0ltZElju5Qi9O) | 4:07 | 2024-09-19 | 2026-01-30 |
 | [BELKİ](https://open.spotify.com/track/1oQ1gRCZQw5RGUmCrUcd6D) | [DOU](https://open.spotify.com/artist/2J8Nce1x2zTbkW3RCXCYtn) | [BELKİ](https://open.spotify.com/album/5KDcJ564cJUCIrZiU8BTKk) | 2:16 | 2024-06-20 | 2025-04-18 |
 | [Ben Bu Kalbi Ne Yapsam](https://open.spotify.com/track/3ZZsKbnh6852emkvhi9u7v) | [Elif Kozan](https://open.spotify.com/artist/78Yd6q4H8kIaTRGItJaFee) | [Ben Bu Kalbi Ne Yapsam](https://open.spotify.com/album/5m1wVcdcORtkXdDMHjZGqO) | 3:09 | 2025-01-30 | 2025-02-14 |
@@ -155,7 +156,7 @@
 | [Gönlünce](https://open.spotify.com/track/71AlB48iBStw15rt285oWZ) | [Kalabalıklar](https://open.spotify.com/artist/2h1njP9dxIRtOeSNQGJJcw) | [Gönlünce](https://open.spotify.com/album/2BFAFKLMQPercZcPjInelo) | 2:53 | 2025-02-07 | 2025-04-18 |
 | [Gör Şu Halimi](https://open.spotify.com/track/4mlMmbnxr5AsRDR9ysI3LX) | [Dilhan Şeşen](https://open.spotify.com/artist/3Xq8A0LnlgWAIFOaRM6LE1) | [Gör Şu Halimi](https://open.spotify.com/album/5YoHw6HPiT7Y7TlttB4WhG) | 3:36 | 2025-02-20 | 2025-04-06 |
 | [Göz Bebeklerim](https://open.spotify.com/track/7tajCR4ppglEkZ0n2QHSAq) | [TurkodiRoma](https://open.spotify.com/artist/5ms13kENAqc7SAFQvPQz7L) | [Göz Bebeklerim](https://open.spotify.com/album/2VmXk4Lm0INsUzfQFBVgqU) | 2:58 | 2025-03-06 |  |
-| [Göz Bebeğim](https://open.spotify.com/track/70GZmG1OXwNGhVy2vxinAT) | [İdil Ateş](https://open.spotify.com/artist/69pbpuvOtuRw0isQSCBFyR) | [Göz Bebeğim](https://open.spotify.com/album/0ym9RZLlFkIuZFMrmY8tp7) | 3:17 | 2026-02-12 |  |
+| [Göz Bebeğim](https://open.spotify.com/track/70GZmG1OXwNGhVy2vxinAT) | [İdil Ateş](https://open.spotify.com/artist/69pbpuvOtuRw0isQSCBFyR) | [Göz Bebeğim](https://open.spotify.com/album/0ym9RZLlFkIuZFMrmY8tp7) | 3:17 | 2026-02-12 | 2026-04-14 |
 | [Gücüm Yok](https://open.spotify.com/track/0yXU2mHp4li95DiqWX2K9X) | [Melis Karaduman](https://open.spotify.com/artist/0aM5REcXSL40rNGsyCSxNG) | [Gücüm Yok](https://open.spotify.com/album/1ywWSw85x5lEAPb8mi49HM) | 2:48 | 2024-10-10 | 2024-12-20 |
 | [Gün Batarken](https://open.spotify.com/track/0vEbYeEU4jLKM0OFkLXKi1) | [Ayberk Serin](https://open.spotify.com/artist/1Q8rbtdvSoGQj33lP2HcJF) | [Gün Batarken](https://open.spotify.com/album/7ztxgxUW6llbRujo4udfEF) | 2:53 | 2024-10-10 | 2026-03-30 |
 | [Günebakan](https://open.spotify.com/track/0kve63qUZXfXLRTOm6H3YI) | [Selin Çıngır](https://open.spotify.com/artist/05DklNAEcs3u54uuYOcR2S) | [Günebakan](https://open.spotify.com/album/6FspaOaszVqDuYgkRtjiAw) | 3:14 | 2024-06-20 | 2026-01-30 |

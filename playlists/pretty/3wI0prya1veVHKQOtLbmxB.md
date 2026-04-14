@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3wI0prya1veVHKQOtLbmxB.md) - [plain]
 
 > Uh oh! Feeling all the butterflies in your stomach? Constantly checking your phone to see if they texted back? Feel all the feels with this playlist\. You might be in love\. \#coversforlovers Cover: Jessica Baio
 
-[Topsify US](https://open.spotify.com/user/warnermusicus) - 141,844 likes - 89 songs - 5 hr 2 min
+[Topsify US](https://open.spotify.com/user/warnermusicus) - 141,811 likes - 89 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

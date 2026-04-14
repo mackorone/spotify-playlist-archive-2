@@ -4,7 +4,7 @@
 
 > 
 
-510 songs - 1 day 9 hr 13 min
+511 songs - 1 day 9 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [Estación Esperanza](https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf), [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Estación Esperanza](https://open.spotify.com/album/64q41JtvnThaB2VaVrqfpQ) | 5:16 | 2022-01-18 | 2022-08-04 |
 | [Euro](https://open.spotify.com/track/3Z9Yr1ziFNgkK3oHcvxC5v) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [Nathan Haines](https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy) | [Euro](https://open.spotify.com/album/1QYw5ZwARebwLY0WWNo2Px) | 2:48 | 2025-09-11 | 2026-04-04 |
 | [Evangelic Girl is a Gun](https://open.spotify.com/track/426pPi8cBCE38QO4h6YC6V) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Evangelic Girl is a Gun](https://open.spotify.com/album/3grkRzNvSjVrwCLg6fSlLR) | 3:03 | 2025-04-09 | 2025-11-07 |
+| [Everything U](https://open.spotify.com/track/6i2H5Guogjwx2ALTACHmTY) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Everything U](https://open.spotify.com/album/6u6pP0iEfqlP1fJPTyrkWi) | 3:30 | 2026-04-13 |  |
 | [Everything Went Well](https://open.spotify.com/track/4gm8AfWEmRuWDfk65P1Nde) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [Everything Went Well](https://open.spotify.com/album/2EKCO1b3W6WlRjlAQS2iAX) | 4:59 | 2023-02-14 | 2023-03-04 |
 | [Everything’s Beautiful](https://open.spotify.com/track/3HkLJLoUHQbKwjn3krWvpg) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Everything’s Beautiful](https://open.spotify.com/album/0rjW3BdMJdjfKhDVKLkJjt) | 2:50 | 2024-01-23 | 2024-06-05 |
 | [exodus the north star](https://open.spotify.com/track/6P1X3qgDqlkjf8XmJS9Xiw) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [exodus the north star](https://open.spotify.com/album/31prAWzIqlD3D7R4qPZlfr) | 3:25 | 2023-02-08 | 2023-03-10 |

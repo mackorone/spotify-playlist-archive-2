@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > The Strokes, Lady Gaga x Doechii et Gradur x Ninho au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,972 likes - 97 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,926 likes - 97 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

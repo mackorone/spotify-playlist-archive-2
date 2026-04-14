@@ -701,32 +701,6 @@
     },
     {
       "album": {
-        "name": "Ambi\u00e7\u00e3o no Olhar",
-        "url": "https://open.spotify.com/album/6Kybrq2kHFZ7WihHe8WGVB"
-      },
-      "artists": [
-        {
-          "name": "Cryzin",
-          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
-        },
-        {
-          "name": "Thiago Kelbert",
-          "url": "https://open.spotify.com/artist/22kCWlXVaiBMYozPgHQhZM"
-        },
-        {
-          "name": "Volp",
-          "url": "https://open.spotify.com/artist/6fFgNVTo4bxMf2eswaar7Z"
-        }
-      ],
-      "date_added": "2026-04-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 149343,
-      "name": "Ambi\u00e7\u00e3o no Olhar",
-      "url": "https://open.spotify.com/track/0NhVXuekK4VRo777zMPpor"
-    },
-    {
-      "album": {
         "name": "Amizade Colorida",
         "url": "https://open.spotify.com/album/7hznLbksGP4RpBEPGNAkd2"
       },
@@ -11472,6 +11446,32 @@
       "duration_ms": 150857,
       "name": "N\u00e3o Tem Outra",
       "url": "https://open.spotify.com/track/1auS0HfKQ8dooy12OyrlgW"
+    },
+    {
+      "album": {
+        "name": "N\u00e3o tenho tempo",
+        "url": "https://open.spotify.com/album/6Kybrq2kHFZ7WihHe8WGVB"
+      },
+      "artists": [
+        {
+          "name": "Cryzin",
+          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
+        },
+        {
+          "name": "Thiago Kelbert",
+          "url": "https://open.spotify.com/artist/22kCWlXVaiBMYozPgHQhZM"
+        },
+        {
+          "name": "Volp",
+          "url": "https://open.spotify.com/artist/6fFgNVTo4bxMf2eswaar7Z"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149090,
+      "name": "N\u00e3o tenho tempo",
+      "url": "https://open.spotify.com/track/0NhVXuekK4VRo777zMPpor"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Isaias Saad, Julliany Souza, L\u00e9o Brand\u00e3o",
-  "num_followers": 1214479,
+  "num_followers": 1214536,
   "original_name": "Louvor & Adora\u00e7\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -259,22 +259,6 @@
     {
       "added_at": "2026-04-03 03:01:52",
       "album": {
-        "name": "Eu Te Entrego o Meu Dia",
-        "url": "https://open.spotify.com/album/4BHgauOFV4ubkrynteDF3p"
-      },
-      "artists": [
-        {
-          "name": "Israel Salazar",
-          "url": "https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC"
-        }
-      ],
-      "duration_ms": 199259,
-      "name": "Eu Te Entrego o Meu Dia",
-      "url": "https://open.spotify.com/track/4bridq05nWYVVn9tGkBHeU"
-    },
-    {
-      "added_at": "2026-04-03 03:01:52",
-      "album": {
         "name": "IMPERFEITO",
         "url": "https://open.spotify.com/album/4mgrkS4GT9dWU1RzA2vAOo"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 314736,
       "name": "IMPERFEITO",
       "url": "https://open.spotify.com/track/2SswEmtlmAf5VPD69ETNrk"
+    },
+    {
+      "added_at": "2026-04-03 03:01:52",
+      "album": {
+        "name": "Eu Te Entrego o Meu Dia",
+        "url": "https://open.spotify.com/album/4BHgauOFV4ubkrynteDF3p"
+      },
+      "artists": [
+        {
+          "name": "Israel Salazar",
+          "url": "https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC"
+        }
+      ],
+      "duration_ms": 199259,
+      "name": "Eu Te Entrego o Meu Dia",
+      "url": "https://open.spotify.com/track/4bridq05nWYVVn9tGkBHeU"
     },
     {
       "added_at": "2026-04-03 03:01:52",
@@ -475,6 +475,22 @@
     {
       "added_at": "2026-04-03 03:01:52",
       "album": {
+        "name": "Cura (Ao Vivo em Salvador)",
+        "url": "https://open.spotify.com/album/4tsR5tDmZNPL3q5hvwz4Sc"
+      },
+      "artists": [
+        {
+          "name": "Maria Mar\u00e7al",
+          "url": "https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk"
+        }
+      ],
+      "duration_ms": 245476,
+      "name": "Cura - Ao Vivo em Salvador",
+      "url": "https://open.spotify.com/track/7HUWoDzKA6KSBGxQmjNNR8"
+    },
+    {
+      "added_at": "2026-04-03 03:01:52",
+      "album": {
         "name": "Tudo \u00c9 Perda (Ao Vivo)",
         "url": "https://open.spotify.com/album/2l9zvPbm9i9RHzlX6plTcd"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 518094,
       "name": "Tudo \u00c9 Perda - Ao Vivo",
       "url": "https://open.spotify.com/track/46w8kyLAUvD5fUGPLfXXH2"
-    },
-    {
-      "added_at": "2026-04-03 03:01:52",
-      "album": {
-        "name": "Cura | EP 01",
-        "url": "https://open.spotify.com/album/0WnOaSP5bwVhfeSioA6YmH"
-      },
-      "artists": [
-        {
-          "name": "Maria Mar\u00e7al",
-          "url": "https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk"
-        }
-      ],
-      "duration_ms": 270450,
-      "name": "Ele N\u00e3o Desiste de Voc\u00ea - Ao Vivo em Salvador",
-      "url": "https://open.spotify.com/track/3RVZlAf3G6Dy6S1jw4r8xc"
     },
     {
       "added_at": "2026-04-03 03:01:52",
@@ -555,28 +555,8 @@
     {
       "added_at": "2026-04-03 03:01:52",
       "album": {
-        "name": "Deus Coloca O Ch\u00e3o (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1ntpRjk2x5nSwb7eEaX2mN"
-      },
-      "artists": [
-        {
-          "name": "Felipe Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB"
-        },
-        {
-          "name": "Deive Leonardo",
-          "url": "https://open.spotify.com/artist/2yXSYL4govoGkKNqq6BJQW"
-        }
-      ],
-      "duration_ms": 341540,
-      "name": "Deus Coloca O Ch\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/5S0FRi4n38dDHrDl3C5MSR"
-    },
-    {
-      "added_at": "2026-04-03 03:01:52",
-      "album": {
-        "name": "Cura (Ao Vivo em Salvador)",
-        "url": "https://open.spotify.com/album/4tsR5tDmZNPL3q5hvwz4Sc"
+        "name": "Cura | EP 01",
+        "url": "https://open.spotify.com/album/0WnOaSP5bwVhfeSioA6YmH"
       },
       "artists": [
         {
@@ -584,9 +564,9 @@
           "url": "https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk"
         }
       ],
-      "duration_ms": 245476,
-      "name": "Cura - Ao Vivo em Salvador",
-      "url": "https://open.spotify.com/track/7HUWoDzKA6KSBGxQmjNNR8"
+      "duration_ms": 270450,
+      "name": "Ele N\u00e3o Desiste de Voc\u00ea - Ao Vivo em Salvador",
+      "url": "https://open.spotify.com/track/3RVZlAf3G6Dy6S1jw4r8xc"
     },
     {
       "added_at": "2026-04-03 03:01:52",
@@ -607,6 +587,26 @@
       "duration_ms": 506122,
       "name": "\u00danico - Ac\u00fastico",
       "url": "https://open.spotify.com/track/4RInpfmS5zuJ8xKjrfwOaI"
+    },
+    {
+      "added_at": "2026-04-03 03:01:52",
+      "album": {
+        "name": "Deus Coloca O Ch\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1ntpRjk2x5nSwb7eEaX2mN"
+      },
+      "artists": [
+        {
+          "name": "Felipe Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB"
+        },
+        {
+          "name": "Deive Leonardo",
+          "url": "https://open.spotify.com/artist/2yXSYL4govoGkKNqq6BJQW"
+        }
+      ],
+      "duration_ms": 341540,
+      "name": "Deus Coloca O Ch\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/5S0FRi4n38dDHrDl3C5MSR"
     },
     {
       "added_at": "2026-04-03 03:01:52",
@@ -847,30 +847,6 @@
     {
       "added_at": "2026-04-03 03:01:52",
       "album": {
-        "name": "Tantos Mares (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5qpIR86WhNYZzkwNo56x1P"
-      },
-      "artists": [
-        {
-          "name": "Pedro Valen\u00e7a",
-          "url": "https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7"
-        },
-        {
-          "name": "Gabriella Stehling",
-          "url": "https://open.spotify.com/artist/4SEBf4y5A67ua6LjLHvJwZ"
-        },
-        {
-          "name": "Ventania",
-          "url": "https://open.spotify.com/artist/4ZgHby6oTRKwiGbf38dPs1"
-        }
-      ],
-      "duration_ms": 283406,
-      "name": "Tantos Mares - Ao Vivo",
-      "url": "https://open.spotify.com/track/7FOPTUmEJ3ByYW9ag9cZJ3"
-    },
-    {
-      "added_at": "2026-04-03 03:01:52",
-      "album": {
         "name": "Bondade De Deus",
         "url": "https://open.spotify.com/album/3dzF8IDJZ6F0y3STsKV2l4"
       },
@@ -931,6 +907,30 @@
     {
       "added_at": "2026-04-03 03:01:52",
       "album": {
+        "name": "Tantos Mares (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5qpIR86WhNYZzkwNo56x1P"
+      },
+      "artists": [
+        {
+          "name": "Pedro Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7"
+        },
+        {
+          "name": "Gabriella Stehling",
+          "url": "https://open.spotify.com/artist/4SEBf4y5A67ua6LjLHvJwZ"
+        },
+        {
+          "name": "Ventania",
+          "url": "https://open.spotify.com/artist/4ZgHby6oTRKwiGbf38dPs1"
+        }
+      ],
+      "duration_ms": 283406,
+      "name": "Tantos Mares - Ao Vivo",
+      "url": "https://open.spotify.com/track/7FOPTUmEJ3ByYW9ag9cZJ3"
+    },
+    {
+      "added_at": "2026-04-03 03:01:52",
+      "album": {
         "name": "Fogo Que Consome (Ao Vivo)",
         "url": "https://open.spotify.com/album/4r2EH8PtKXYgPv6OWme1wj"
       },
@@ -971,26 +971,6 @@
     {
       "added_at": "2026-04-03 03:01:52",
       "album": {
-        "name": "MEU UNIVERSO",
-        "url": "https://open.spotify.com/album/3ZRURB6L7WwE4t0nnzKNqF"
-      },
-      "artists": [
-        {
-          "name": "Isaias Saad",
-          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
-        },
-        {
-          "name": "LUDI",
-          "url": "https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde"
-        }
-      ],
-      "duration_ms": 252479,
-      "name": "MEU UNIVERSO",
-      "url": "https://open.spotify.com/track/641brJX9841CQj3xYyPHHK"
-    },
-    {
-      "added_at": "2026-04-03 03:01:52",
-      "album": {
         "name": "Outro Igual N\u00e3o H\u00e1 (Ao Rei N\u00f3s Coroamos) [Ao Vivo]",
         "url": "https://open.spotify.com/album/2jGnhCH7BGBkI69mUX6m66"
       },
@@ -1023,6 +1003,26 @@
       "duration_ms": 383378,
       "name": "Tinta de Sangue - Ao Vivo",
       "url": "https://open.spotify.com/track/4uScqisKtC90tHXg6lNq5I"
+    },
+    {
+      "added_at": "2026-04-03 03:01:52",
+      "album": {
+        "name": "MEU UNIVERSO",
+        "url": "https://open.spotify.com/album/3ZRURB6L7WwE4t0nnzKNqF"
+      },
+      "artists": [
+        {
+          "name": "Isaias Saad",
+          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
+        },
+        {
+          "name": "LUDI",
+          "url": "https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde"
+        }
+      ],
+      "duration_ms": 252479,
+      "name": "MEU UNIVERSO",
+      "url": "https://open.spotify.com/track/641brJX9841CQj3xYyPHHK"
     },
     {
       "added_at": "2026-04-03 03:01:52",
@@ -1063,26 +1063,6 @@
     {
       "added_at": "2026-04-03 03:01:52",
       "album": {
-        "name": "Na Fenda da Rocha (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3L3usCvBRr2PkzPeA9Q9x8"
-      },
-      "artists": [
-        {
-          "name": "Sued Silva",
-          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
-        }
-      ],
-      "duration_ms": 349217,
-      "name": "Na Fenda da Rocha - Ao Vivo",
-      "url": "https://open.spotify.com/track/4dYO2p6RmyHEkiFvhW7NwW"
-    },
-    {
-      "added_at": "2026-04-03 03:01:52",
-      "album": {
         "name": "Estou Te Esperando (Ao Vivo)",
         "url": "https://open.spotify.com/album/2jqC5FdUeldwV44b8RmS0V"
       },
@@ -1099,6 +1079,26 @@
       "duration_ms": 411745,
       "name": "Estou Te Esperando (Ao Vivo)",
       "url": "https://open.spotify.com/track/3tncKGFUEBYpgO5P8Iwckz"
+    },
+    {
+      "added_at": "2026-04-03 03:01:52",
+      "album": {
+        "name": "Na Fenda da Rocha (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3L3usCvBRr2PkzPeA9Q9x8"
+      },
+      "artists": [
+        {
+          "name": "Sued Silva",
+          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "duration_ms": 349217,
+      "name": "Na Fenda da Rocha - Ao Vivo",
+      "url": "https://open.spotify.com/track/4dYO2p6RmyHEkiFvhW7NwW"
     },
     {
       "added_at": "2026-04-03 03:01:52",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2026-04-03 03:01:52",
       "album": {
+        "name": "Amor Infinito / A Mensagem da Cruz (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2v1jvE1DqhO2JfGbeNJ2qI"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 355322,
+      "name": "Amor Infinito / A Mensagem da Cruz - Ao Vivo",
+      "url": "https://open.spotify.com/track/3u1g3zx0ckdvqBwRCj7Yhb"
+    },
+    {
+      "added_at": "2026-04-03 03:01:52",
+      "album": {
         "name": "O Grande Banquete",
         "url": "https://open.spotify.com/album/1q6vwW5Cz3X9UdQW6BZwBw"
       },
@@ -1227,22 +1243,6 @@
     {
       "added_at": "2026-04-03 03:01:52",
       "album": {
-        "name": "Amor Infinito / A Mensagem da Cruz (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2v1jvE1DqhO2JfGbeNJ2qI"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 355322,
-      "name": "Amor Infinito / A Mensagem da Cruz - Ao Vivo",
-      "url": "https://open.spotify.com/track/3u1g3zx0ckdvqBwRCj7Yhb"
-    },
-    {
-      "added_at": "2026-04-03 03:01:52",
-      "album": {
         "name": "Si\u00e3o / Derrama (Ao Vivo)",
         "url": "https://open.spotify.com/album/5L110gAsaoP4ONmUYngUm9"
       },
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2026-04-03 03:01:52",
       "album": {
-        "name": "Melhor Lugar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/36T2efqaTFZrkuDZvU5Mgo"
-      },
-      "artists": [
-        {
-          "name": "Felipe Rodrigues",
-          "url": "https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS"
-        }
-      ],
-      "duration_ms": 340540,
-      "name": "Melhor Lugar - Ao Vivo",
-      "url": "https://open.spotify.com/track/4q8L1dolSG4FGfdVZLT0kD"
-    },
-    {
-      "added_at": "2026-04-03 03:01:52",
-      "album": {
         "name": "Avenida do Arrependimento",
         "url": "https://open.spotify.com/album/20gaQaN1H4v5Y4PSvES6fM"
       },
@@ -1291,22 +1275,6 @@
       "duration_ms": 323000,
       "name": "Esp\u00edrito Santo (Inhabit)",
       "url": "https://open.spotify.com/track/0X3vkwKZwCBP2XCLSvPf1b"
-    },
-    {
-      "added_at": "2026-04-03 03:01:52",
-      "album": {
-        "name": "Palavras",
-        "url": "https://open.spotify.com/album/6ItUOVRPgGEJYGNinSw625"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 317043,
-      "name": "Palavras",
-      "url": "https://open.spotify.com/track/690ypxquSmzDvvVB9eqhPc"
     },
     {
       "added_at": "2026-04-03 03:01:52",
@@ -1327,6 +1295,22 @@
     {
       "added_at": "2026-04-03 03:01:52",
       "album": {
+        "name": "Palavras",
+        "url": "https://open.spotify.com/album/6ItUOVRPgGEJYGNinSw625"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 317043,
+      "name": "Palavras",
+      "url": "https://open.spotify.com/track/690ypxquSmzDvvVB9eqhPc"
+    },
+    {
+      "added_at": "2026-04-03 03:01:52",
+      "album": {
         "name": "\u00danico (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/5iNU3aaRozD6WDEd9uQ195"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 412747,
       "name": "Brasa Viva - Ac\u00fastico",
       "url": "https://open.spotify.com/track/2UYUMRoznutrBafIZTPIkF"
+    },
+    {
+      "added_at": "2026-04-03 03:01:52",
+      "album": {
+        "name": "Melhor Lugar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/36T2efqaTFZrkuDZvU5Mgo"
+      },
+      "artists": [
+        {
+          "name": "Felipe Rodrigues",
+          "url": "https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS"
+        }
+      ],
+      "duration_ms": 340540,
+      "name": "Melhor Lugar - Ao Vivo",
+      "url": "https://open.spotify.com/track/4q8L1dolSG4FGfdVZLT0kD"
     },
     {
       "added_at": "2026-04-03 03:01:52",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2026-04-03 03:01:52",
       "album": {
+        "name": "Jesus, Eu, Voc\u00eas E O Pandeiro (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4EIy665Pi9Rhn82zvVsWXL"
+      },
+      "artists": [
+        {
+          "name": "Michele do Pandeiro",
+          "url": "https://open.spotify.com/artist/01CFvZuAQEjTxH4Ab3yzzn"
+        }
+      ],
+      "duration_ms": 352032,
+      "name": "S\u00ea Valente / Deus Vai Te Guiar / O Cego De Jeric\u00f3 (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3haojhxI65M4wDLPzNPPn3"
+    },
+    {
+      "added_at": "2026-04-03 03:01:52",
+      "album": {
         "name": "Eu Te Ouvi (Ao Vivo)",
         "url": "https://open.spotify.com/album/2U9dIctF3FOBSdHS4n1nnt"
       },
@@ -1663,22 +1679,6 @@
       "duration_ms": 243368,
       "name": "Eu Te Ouvi - Ao Vivo",
       "url": "https://open.spotify.com/track/6Nd8xm5PxHE3E7cRtDRfP8"
-    },
-    {
-      "added_at": "2026-04-03 03:01:52",
-      "album": {
-        "name": "Jesus, Eu, Voc\u00eas E O Pandeiro (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4EIy665Pi9Rhn82zvVsWXL"
-      },
-      "artists": [
-        {
-          "name": "Michele do Pandeiro",
-          "url": "https://open.spotify.com/artist/01CFvZuAQEjTxH4Ab3yzzn"
-        }
-      ],
-      "duration_ms": 352032,
-      "name": "S\u00ea Valente / Deus Vai Te Guiar / O Cego De Jeric\u00f3 (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3haojhxI65M4wDLPzNPPn3"
     },
     {
       "added_at": "2026-04-03 03:01:52",

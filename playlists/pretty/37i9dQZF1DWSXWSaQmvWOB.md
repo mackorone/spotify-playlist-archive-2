@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 
 > New soul\-infused music! Cover: Bnnyhunna
 
-[Spotify](https://open.spotify.com/user/spotify) - 811,784 likes - 110 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 811,894 likes - 110 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 | 109 | [The Scene](https://open.spotify.com/track/5WbIiaNommbTNicqBzfHZZ) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL) | [The Scene](https://open.spotify.com/album/1rrJHFbKKiQS0hsCImT9Og) | 3:27 |
 | 110 | [The Way](https://open.spotify.com/track/7oHXs1fPp1oRHsmMZ2uGk7) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [The Way](https://open.spotify.com/album/0vUSt4xH41aj4mzNLUqZFr) | 3:38 |
 
-Snapshot ID: `AAAAACfgfkxv/SuaD3iGKothknXOP1H+`
+Snapshot ID: `AAAAAIuy0aQPFwZdy+BNZquufmPHzIPr`

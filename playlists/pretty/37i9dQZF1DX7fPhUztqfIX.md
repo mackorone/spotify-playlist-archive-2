@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 
 > All new Worship songs on the rise! Cover: Jon Reddick & Janice Gaines
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,376 likes - 100 songs - 8 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,397 likes - 100 songs - 8 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 | 99 | [Breath Of Heaven \- Live](https://open.spotify.com/track/1REFPzASbvtG8pXfHWEH0d) | [Dreamers](https://open.spotify.com/artist/4LW8svP1k62JqCoU4Esw51) | [let love be your highest goal.](https://open.spotify.com/album/6cEvxWI86WiELfDal2fdyl) | 7:13 |
 | 100 | [Magnify](https://open.spotify.com/track/6vjCLA1wRmf8P4QJ3lrIAD) | [ZOE Worship](https://open.spotify.com/artist/1ng5GiN8u9Sml2NmNFWCJo) | [Magnify](https://open.spotify.com/album/5ZuiWVKn6lWqNJNOInH1e8) | 3:34 |
 
-Snapshot ID: `AAAAAFK+gYc1K6DqMIgai9GqiBSJoAAn`
+Snapshot ID: `AAAAAG+mKQ7sAuBnes9SnWwWBXyb3qZ+`

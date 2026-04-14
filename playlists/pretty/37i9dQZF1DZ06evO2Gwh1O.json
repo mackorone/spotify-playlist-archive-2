@@ -1,12 +1,12 @@
 {
   "description": "This is Funeral For A Friend. The essential tracks, all in one playlist.",
-  "num_followers": 8087,
+  "num_followers": 8086,
   "original_name": "This Is Funeral For A Friend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "admPAAAAAAB06kdqZUDTc/IcgLZt+Agx",
+  "snapshot_id": "adrggAAAAADgerr26IUoXvOYyPHQPQBo",
   "tracks": [
     {
       "added_at": null,
@@ -459,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Escape Artists Never Die (EW283CD)",
-        "url": "https://open.spotify.com/album/0hIICy37k8CO37mIuPbDkH"
+        "name": "Conduit",
+        "url": "https://open.spotify.com/album/3fk1CkRCk9fCkbt5YHRGnl"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
         }
       ],
-      "duration_ms": 158373,
-      "name": "10 Scene Points to the Winner",
-      "url": "https://open.spotify.com/track/0xZ6LaCRWAs3IZiLEmR1c5"
+      "duration_ms": 165573,
+      "name": "Best Friends and Hospital Beds",
+      "url": "https://open.spotify.com/track/4xDN8GRBtJ4CKuzfvskvQ8"
     },
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Conduit",
-        "url": "https://open.spotify.com/album/3fk1CkRCk9fCkbt5YHRGnl"
+        "name": "Escape Artists Never Die (EW283CD)",
+        "url": "https://open.spotify.com/album/0hIICy37k8CO37mIuPbDkH"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
         }
       ],
-      "duration_ms": 165573,
-      "name": "Best Friends and Hospital Beds",
-      "url": "https://open.spotify.com/track/4xDN8GRBtJ4CKuzfvskvQ8"
+      "duration_ms": 158373,
+      "name": "10 Scene Points to the Winner",
+      "url": "https://open.spotify.com/track/0xZ6LaCRWAs3IZiLEmR1c5"
     },
     {
       "added_at": null,
@@ -523,38 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Young And Defenceless EP",
-        "url": "https://open.spotify.com/album/4xtPw47mQoYkayIXpT3d89"
-      },
-      "artists": [
-        {
-          "name": "Funeral For A Friend",
-          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
-        }
-      ],
-      "duration_ms": 205733,
-      "name": "Serpents in Solitude",
-      "url": "https://open.spotify.com/track/2v79Ji3CqxYQ5NpgdGC7qh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Welcome Home Armageddon",
-        "url": "https://open.spotify.com/album/5moy9F2AxTQhmavYBe0qlw"
-      },
-      "artists": [
-        {
-          "name": "Funeral For A Friend",
-          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
-        }
-      ],
-      "duration_ms": 170720,
-      "name": "Sixteen",
-      "url": "https://open.spotify.com/track/3Wzo0fhut2bV4QMSABptss"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Conduit",
         "url": "https://open.spotify.com/album/3fk1CkRCk9fCkbt5YHRGnl"
       },
@@ -571,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Memory and Humanity",
-        "url": "https://open.spotify.com/album/40lhp9rQ2PHckeczn15xuP"
+        "name": "The Young And Defenceless EP",
+        "url": "https://open.spotify.com/album/4xtPw47mQoYkayIXpT3d89"
       },
       "artists": [
         {
@@ -580,25 +548,9 @@
           "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
         }
       ],
-      "duration_ms": 214240,
-      "name": "Beneath the Burning Tree",
-      "url": "https://open.spotify.com/track/5wsw7wzq89oQLc6nzSXbEJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Seven Ways To Scream Your Name",
-        "url": "https://open.spotify.com/album/3rZ1lsw6PjMvggxPtQyviS"
-      },
-      "artists": [
-        {
-          "name": "Funeral For A Friend",
-          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
-        }
-      ],
-      "duration_ms": 153333,
-      "name": "Art Of American Football",
-      "url": "https://open.spotify.com/track/7HbHEmWb14Jj7bfzcEanwL"
+      "duration_ms": 205733,
+      "name": "Serpents in Solitude",
+      "url": "https://open.spotify.com/track/2v79Ji3CqxYQ5NpgdGC7qh"
     },
     {
       "added_at": null,
@@ -619,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Memory and Humanity",
+        "url": "https://open.spotify.com/album/40lhp9rQ2PHckeczn15xuP"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "duration_ms": 214240,
+      "name": "Beneath the Burning Tree",
+      "url": "https://open.spotify.com/track/5wsw7wzq89oQLc6nzSXbEJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Conduit",
         "url": "https://open.spotify.com/album/3fk1CkRCk9fCkbt5YHRGnl"
       },
@@ -628,9 +596,41 @@
           "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
         }
       ],
-      "duration_ms": 137906,
-      "name": "Conduit",
-      "url": "https://open.spotify.com/track/7zbgfKuAZDah3JcjJLTIqd"
+      "duration_ms": 195746,
+      "name": "Death Comes To Us All",
+      "url": "https://open.spotify.com/track/0MJn8Vh5vsk7Cujs7upeoE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seven Ways To Scream Your Name",
+        "url": "https://open.spotify.com/album/3rZ1lsw6PjMvggxPtQyviS"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "duration_ms": 153333,
+      "name": "Art Of American Football",
+      "url": "https://open.spotify.com/track/7HbHEmWb14Jj7bfzcEanwL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Welcome Home Armageddon",
+        "url": "https://open.spotify.com/album/5moy9F2AxTQhmavYBe0qlw"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "duration_ms": 170720,
+      "name": "Sixteen",
+      "url": "https://open.spotify.com/track/3Wzo0fhut2bV4QMSABptss"
     },
     {
       "added_at": null,
@@ -647,6 +647,22 @@
       "duration_ms": 202813,
       "name": "To Die Like Mouchette",
       "url": "https://open.spotify.com/track/6W6kmdPB97xdr2ODedZKpa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Conduit",
+        "url": "https://open.spotify.com/album/3fk1CkRCk9fCkbt5YHRGnl"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "duration_ms": 137906,
+      "name": "Conduit",
+      "url": "https://open.spotify.com/track/7zbgfKuAZDah3JcjJLTIqd"
     },
     {
       "added_at": null,
@@ -683,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Conduit",
-        "url": "https://open.spotify.com/album/3fk1CkRCk9fCkbt5YHRGnl"
-      },
-      "artists": [
-        {
-          "name": "Funeral For A Friend",
-          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
-        }
-      ],
-      "duration_ms": 195746,
-      "name": "Death Comes To Us All",
-      "url": "https://open.spotify.com/track/0MJn8Vh5vsk7Cujs7upeoE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Memory and Humanity",
         "url": "https://open.spotify.com/album/40lhp9rQ2PHckeczn15xuP"
       },
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Welcome Home Armageddon (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2ObWkJiimQOByPUb7AzYY4"
-      },
-      "artists": [
-        {
-          "name": "Funeral For A Friend",
-          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
-        }
-      ],
-      "duration_ms": 217373,
-      "name": "Aftertaste",
-      "url": "https://open.spotify.com/track/64WTjCulN3svPjeVgujYsb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Conduit",
         "url": "https://open.spotify.com/album/3fk1CkRCk9fCkbt5YHRGnl"
       },
@@ -743,6 +727,38 @@
       "duration_ms": 142106,
       "name": "Spine",
       "url": "https://open.spotify.com/track/581EaGsYGBSEEajYqSa9Au"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chapter and Verse (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/08yfDfdvG31NTTmsDROzBA"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "duration_ms": 158360,
+      "name": "You've Got A Bad Case Of The Religions",
+      "url": "https://open.spotify.com/track/5ioXaKBEbaoXK5uAH5ipA3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Welcome Home Armageddon (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2ObWkJiimQOByPUb7AzYY4"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "duration_ms": 217373,
+      "name": "Aftertaste",
+      "url": "https://open.spotify.com/track/64WTjCulN3svPjeVgujYsb"
     },
     {
       "added_at": null,
@@ -772,9 +788,9 @@
           "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
         }
       ],
-      "duration_ms": 325506,
-      "name": "Welcome Home Armageddon",
-      "url": "https://open.spotify.com/track/1ULainrTDGyBnO5PpkzfPa"
+      "duration_ms": 303560,
+      "name": "Spinning Over the Island",
+      "url": "https://open.spotify.com/track/1TLE1n6YuMa8bYIlPaYaOv"
     },
     {
       "added_at": null,
@@ -791,22 +807,6 @@
       "duration_ms": 218293,
       "name": "Maybe I Am?",
       "url": "https://open.spotify.com/track/3IGqTzLhH0rhFjeBw0xyLb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Welcome Home Armageddon (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2ObWkJiimQOByPUb7AzYY4"
-      },
-      "artists": [
-        {
-          "name": "Funeral For A Friend",
-          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
-        }
-      ],
-      "duration_ms": 303560,
-      "name": "Spinning Over the Island",
-      "url": "https://open.spotify.com/track/1TLE1n6YuMa8bYIlPaYaOv"
     }
   ],
   "unique_name": "This Is Funeral For A Friend",

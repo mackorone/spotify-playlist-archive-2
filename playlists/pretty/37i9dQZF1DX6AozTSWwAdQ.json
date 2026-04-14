@@ -1,6 +1,6 @@
 {
   "description": "\u6c92\u6709\u4ec0\u9ebc\u6bd4\u611f\u89ba\u597d\u66f4\u91cd\u8981\u4e86\uff01\u9019\u88e1\u7684\u6b4c\u66f2\u80fd\u5927\u5927\u632f\u596e\u5fc3\u60c5\u3001\u4ee4\u4f60\u5143\u6c23\u5341\u8db3\uff01",
-  "num_followers": 60706,
+  "num_followers": 60703,
   "original_name": "\u5fc3\u60c5\u5927\u632f",
   "owner": {
     "name": "Spotify",
@@ -359,18 +359,18 @@
     {
       "added_at": "2026-02-15 16:00:23",
       "album": {
-        "name": "Heartbreak Weather",
-        "url": "https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp"
+        "name": "fleabag",
+        "url": "https://open.spotify.com/album/12jpOfe3jj1UdY1oMi3b79"
       },
       "artists": [
         {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
         }
       ],
-      "duration_ms": 193089,
-      "name": "Black And White",
-      "url": "https://open.spotify.com/track/7rpNuuoMbid56XkDsx2FjE"
+      "duration_ms": 176988,
+      "name": "fleabag",
+      "url": "https://open.spotify.com/track/3TFtD8GZNw9v6vVWr3hnWy"
     },
     {
       "added_at": "2026-02-15 16:00:23",
@@ -391,18 +391,18 @@
     {
       "added_at": "2026-02-15 16:00:23",
       "album": {
-        "name": "fleabag",
-        "url": "https://open.spotify.com/album/12jpOfe3jj1UdY1oMi3b79"
+        "name": "Heartbreak Weather",
+        "url": "https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp"
       },
       "artists": [
         {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
         }
       ],
-      "duration_ms": 176988,
-      "name": "fleabag",
-      "url": "https://open.spotify.com/track/3TFtD8GZNw9v6vVWr3hnWy"
+      "duration_ms": 193089,
+      "name": "Black And White",
+      "url": "https://open.spotify.com/track/7rpNuuoMbid56XkDsx2FjE"
     },
     {
       "added_at": "2026-02-15 16:00:23",
@@ -915,22 +915,6 @@
     {
       "added_at": "2026-02-15 16:00:23",
       "album": {
-        "name": "Servant Of The Mind (Deluxe)",
-        "url": "https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP"
-      },
-      "artists": [
-        {
-          "name": "Volbeat",
-          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
-        }
-      ],
-      "duration_ms": 259173,
-      "name": "Temple Of Ekur",
-      "url": "https://open.spotify.com/track/1SsCpBXMHUYlrHR7Hozgvu"
-    },
-    {
-      "added_at": "2026-02-15 16:00:23",
-      "album": {
         "name": "Troubled Waters",
         "url": "https://open.spotify.com/album/54V4i5OLHNmaiXIgK7urCp"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 197775,
       "name": "Troubled Waters",
       "url": "https://open.spotify.com/track/3xohRHSBI2i0HolJPlN85v"
+    },
+    {
+      "added_at": "2026-02-15 16:00:23",
+      "album": {
+        "name": "Servant Of The Mind (Deluxe)",
+        "url": "https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP"
+      },
+      "artists": [
+        {
+          "name": "Volbeat",
+          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+        }
+      ],
+      "duration_ms": 259173,
+      "name": "Temple Of Ekur",
+      "url": "https://open.spotify.com/track/1SsCpBXMHUYlrHR7Hozgvu"
     },
     {
       "added_at": "2026-02-15 16:00:23",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2026-02-15 16:00:23",
       "album": {
-        "name": "Remind Me",
-        "url": "https://open.spotify.com/album/0fL8J5En5o6sd8vSHAbKGt"
-      },
-      "artists": [
-        {
-          "name": "Tom Grennan",
-          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
-        }
-      ],
-      "duration_ms": 211167,
-      "name": "Remind Me",
-      "url": "https://open.spotify.com/track/6VIYEyjNW71NnIGEduf8D8"
-    },
-    {
-      "added_at": "2026-02-15 16:00:23",
-      "album": {
         "name": "This Is Me (From The Greatest Showman)",
         "url": "https://open.spotify.com/album/0Ubwwj4JBI6MVmOmEan8K8"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 234886,
       "name": "This Is Me (From the Greatest Showman)",
       "url": "https://open.spotify.com/track/3lCHADWP8ohxnfBiUqAN3o"
+    },
+    {
+      "added_at": "2026-02-15 16:00:23",
+      "album": {
+        "name": "Remind Me",
+        "url": "https://open.spotify.com/album/0fL8J5En5o6sd8vSHAbKGt"
+      },
+      "artists": [
+        {
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+        }
+      ],
+      "duration_ms": 211167,
+      "name": "Remind Me",
+      "url": "https://open.spotify.com/track/6VIYEyjNW71NnIGEduf8D8"
     },
     {
       "added_at": "2026-02-15 16:00:23",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2026-02-15 16:00:23",
       "album": {
+        "name": "Cinderella Snapped",
+        "url": "https://open.spotify.com/album/7iUDdeaEqO2asWLp8zPE3n"
+      },
+      "artists": [
+        {
+          "name": "Jax",
+          "url": "https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew"
+        }
+      ],
+      "duration_ms": 173103,
+      "name": "Cinderella Snapped",
+      "url": "https://open.spotify.com/track/3udCid1W2whR6CQrVpsKUh"
+    },
+    {
+      "added_at": "2026-02-15 16:00:23",
+      "album": {
         "name": "don't sleep, repeat (feat. Machine Gun Kelly)",
         "url": "https://open.spotify.com/album/4QI0QDu2k1PpD4432zbNHK"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 149160,
       "name": "don't sleep, repeat (feat. Machine Gun Kelly)",
       "url": "https://open.spotify.com/track/2qtqIinDwJQzsUofMtkH0D"
-    },
-    {
-      "added_at": "2026-02-15 16:00:23",
-      "album": {
-        "name": "Cinderella Snapped",
-        "url": "https://open.spotify.com/album/7iUDdeaEqO2asWLp8zPE3n"
-      },
-      "artists": [
-        {
-          "name": "Jax",
-          "url": "https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew"
-        }
-      ],
-      "duration_ms": 173103,
-      "name": "Cinderella Snapped",
-      "url": "https://open.spotify.com/track/3udCid1W2whR6CQrVpsKUh"
     },
     {
       "added_at": "2026-02-15 16:00:23",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2026-02-15 16:00:23",
       "album": {
+        "name": "supercuts",
+        "url": "https://open.spotify.com/album/2F1xmiVxAOHMIPOWcK97gg"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Zucker",
+          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
+        }
+      ],
+      "duration_ms": 206599,
+      "name": "supercuts",
+      "url": "https://open.spotify.com/track/4PyMK7JTcu6l30D8KogokR"
+    },
+    {
+      "added_at": "2026-02-15 16:00:23",
+      "album": {
         "name": "Carry On",
         "url": "https://open.spotify.com/album/4JnL4N9xWOWrQIF7rCdEXH"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 169171,
       "name": "Carry On",
       "url": "https://open.spotify.com/track/58hzFlHm1gKIJzRMSt0vWV"
-    },
-    {
-      "added_at": "2026-02-15 16:00:23",
-      "album": {
-        "name": "supercuts",
-        "url": "https://open.spotify.com/album/2F1xmiVxAOHMIPOWcK97gg"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Zucker",
-          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
-        }
-      ],
-      "duration_ms": 206599,
-      "name": "supercuts",
-      "url": "https://open.spotify.com/track/4PyMK7JTcu6l30D8KogokR"
     }
   ],
   "unique_name": "\u5fc3\u60c5\u5927\u632f",

@@ -1,6 +1,6 @@
 {
   "description": "Timeless and smooth. Here are your favorite crooners. Cover: Nat King Cole. ",
-  "num_followers": 495546,
+  "num_followers": 495635,
   "original_name": "Crooner Classics",
   "owner": {
     "name": "Spotify",
@@ -403,22 +403,6 @@
     {
       "added_at": "2024-07-15 15:23:26",
       "album": {
-        "name": "Rarities, Outtakes & Other Delights, Vol. 2",
-        "url": "https://open.spotify.com/album/29DNH3Fggk7fkLZebFkcH8"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        }
-      ],
-      "duration_ms": 203306,
-      "name": "The Way You Look Tonight",
-      "url": "https://open.spotify.com/track/7yED4n2U8RR5LKZVmisiev"
-    },
-    {
-      "added_at": "2024-07-15 15:23:26",
-      "album": {
         "name": "Georgia on My Mind (Original Master Recording)",
         "url": "https://open.spotify.com/album/77Qcn4aTbV27aarq2CHrGb"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 217414,
       "name": "Georgia on My Mind - Original Master Recording",
       "url": "https://open.spotify.com/track/47mA6f44zxLtdATOoY7GjN"
+    },
+    {
+      "added_at": "2024-07-15 15:23:26",
+      "album": {
+        "name": "Rarities, Outtakes & Other Delights, Vol. 2",
+        "url": "https://open.spotify.com/album/29DNH3Fggk7fkLZebFkcH8"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "duration_ms": 203306,
+      "name": "The Way You Look Tonight",
+      "url": "https://open.spotify.com/track/7yED4n2U8RR5LKZVmisiev"
     },
     {
       "added_at": "2024-07-15 15:23:26",
@@ -483,22 +483,6 @@
     {
       "added_at": "2024-07-15 15:23:26",
       "album": {
-        "name": "Ella Sings Gershwin",
-        "url": "https://open.spotify.com/album/3DJYxksYYP018jgpOTVXqO"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 196666,
-      "name": "Someone To Watch Over Me",
-      "url": "https://open.spotify.com/track/5RcvlmVx2xtFcp2Ta5pw7X"
-    },
-    {
-      "added_at": "2024-07-15 15:23:26",
-      "album": {
         "name": "The Genius Of Ray Charles",
         "url": "https://open.spotify.com/album/4GFWnwli2cVOBp2G1zqhV1"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 164666,
       "name": "It Had to Be You",
       "url": "https://open.spotify.com/track/76MSB9fAR5jXVcBXdK5xMy"
+    },
+    {
+      "added_at": "2024-07-15 15:23:26",
+      "album": {
+        "name": "Ella Sings Gershwin",
+        "url": "https://open.spotify.com/album/3DJYxksYYP018jgpOTVXqO"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 196666,
+      "name": "Someone To Watch Over Me",
+      "url": "https://open.spotify.com/track/5RcvlmVx2xtFcp2Ta5pw7X"
     },
     {
       "added_at": "2024-07-15 15:23:26",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-07-15 15:23:26",
       "album": {
-        "name": "Don't Go To Strangers",
-        "url": "https://open.spotify.com/album/7qK1Ds1huhA9XyVZBx9kkx"
-      },
-      "artists": [
-        {
-          "name": "Etta Jones",
-          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
-        }
-      ],
-      "duration_ms": 230066,
-      "name": "If I Had You",
-      "url": "https://open.spotify.com/track/79nMHWTfds6KJu5zWQbQ4n"
-    },
-    {
-      "added_at": "2024-07-15 15:23:26",
-      "album": {
         "name": "The Godfather (Music From The Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5CeLOKEJeP3EpEdT9v2lep"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 177733,
       "name": "I Have But One Heart",
       "url": "https://open.spotify.com/track/4rTozJf2UY14LNG6Q3E321"
+    },
+    {
+      "added_at": "2024-07-15 15:23:26",
+      "album": {
+        "name": "Don't Go To Strangers",
+        "url": "https://open.spotify.com/album/7qK1Ds1huhA9XyVZBx9kkx"
+      },
+      "artists": [
+        {
+          "name": "Etta Jones",
+          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
+        }
+      ],
+      "duration_ms": 230066,
+      "name": "If I Had You",
+      "url": "https://open.spotify.com/track/79nMHWTfds6KJu5zWQbQ4n"
     },
     {
       "added_at": "2024-07-15 15:23:26",

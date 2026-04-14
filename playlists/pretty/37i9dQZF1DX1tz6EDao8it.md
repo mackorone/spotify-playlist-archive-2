@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tz6EDao8it.md) - [plain]
 
 > Timeless, unforgettable melodies from the movies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,339,674 likes - 132 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,339,803 likes - 132 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tz6EDao8it.md) - [plain]
 | 20 | [Test Drive \- From How To Train Your Dragon Music From The Motion Picture](https://open.spotify.com/track/2QTDuJIGKUjR7E2Q6KupIh) | [John Powell](https://open.spotify.com/artist/3EAHF3jdnHHdko5DBrhRUP) | [How To Train Your Dragon \(Music From The Motion Picture\)](https://open.spotify.com/album/1kTnC045mQqurTQvGMGpmU) | 2:36 |
 | 21 | [The Breaking of the Fellowship \(feat\. "In Dreams"\)](https://open.spotify.com/track/1ykbtFnlIjmIFnZ8j6wg6i) | [Howard Shore](https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7), [Edward Ross](https://open.spotify.com/artist/4bGeBg1rtCaIQEyxuRgctG) | [The Lord of the Rings: The Fellowship of the Ring \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/04rz93AqGy9JduzV3K81Dh) | 7:20 |
 | 22 | [Jaws \- Main Title \(2025 Mix\)](https://open.spotify.com/track/1iCmwaGmFJHML55zRaqVaC) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Jaws \(Original Motion Picture Score \- Remastered\)](https://open.spotify.com/album/7Cs8JK0nT3hElUKFYWCatF) | 0:57 |
-| 23 | [Rose \(From "Titanic" Soundtrack\)](https://open.spotify.com/track/2yEt5pA29CwKNXSplwnhgn) | [James Horner](https://open.spotify.com/artist/3PhL2Vdao2v8SS8AptuhAr) | [Titanic: Original Motion Picture Soundtrack \- Collector's Anniversary Edition](https://open.spotify.com/album/3XwgFTxiWxep4s1VjPEaHs) | 2:52 |
+| 23 | [Rose \- From "Titanic" Soundtrack](https://open.spotify.com/track/2yEt5pA29CwKNXSplwnhgn) | [James Horner](https://open.spotify.com/artist/3PhL2Vdao2v8SS8AptuhAr) | [Titanic: Original Motion Picture Soundtrack \- Collector's Anniversary Edition](https://open.spotify.com/album/3XwgFTxiWxep4s1VjPEaHs) | 2:52 |
 | 24 | [Main Title \(The Godfather Waltz\)](https://open.spotify.com/track/1swKKFR5trqbz9yxxL3WVO) | [Nino Rota](https://open.spotify.com/artist/0RYyGExpy57GLGa1GtFoVo) | [The Godfather \(Soundtrack\)](https://open.spotify.com/album/1omMQEIiKOo8NwtYD6dJai) | 3:05 |
 | 25 | [Chevaliers De Sangreal \- From The Da Vinci Code Original Motion Picture Soundtrack](https://open.spotify.com/track/64q5EfFKR9hYJ1FHqSClxe) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Richard Harvey](https://open.spotify.com/artist/3J8wY38gX35pp2soOa4vje) | [The Da Vinci Code](https://open.spotify.com/album/4GuLx38y1727p45spIvslr) | 4:07 |
 | 26 | [One Day](https://open.spotify.com/track/2wbN4OiwGcUXXpR6xKkugA) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Pirates Of The Caribbean: At World's End Original Soundtrack](https://open.spotify.com/album/6JoI0NEAqeJ20X6lU3Drx0) | 4:01 |

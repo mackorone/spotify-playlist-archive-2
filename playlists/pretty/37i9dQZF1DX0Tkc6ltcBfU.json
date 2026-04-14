@@ -1,12 +1,12 @@
 {
-  "description": "The hottest out the South. Cover: Bossman Dlow\n",
-  "num_followers": 1270886,
+  "description": "The hottest out the South. Cover: Swae Lee and his son\n",
+  "num_followers": 1270898,
   "original_name": "No Cap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKbb/iKWQp7DbZ7RLw424Uqkk6Wi",
+  "snapshot_id": "AAAAAKUdtMT+xpoPZHo0q1rgdn4x6Yai",
   "tracks": [
     {
       "added_at": "2026-04-10 04:00:55",
@@ -59,6 +59,26 @@
       "duration_ms": 169466,
       "name": "Chicken Talkin Bastard",
       "url": "https://open.spotify.com/track/5SK7SRwN7AGI6qf1bc9qP4"
+    },
+    {
+      "added_at": "2026-04-10 04:00:55",
+      "album": {
+        "name": "DON'T EVEN CALL (feat. Rich The Kid)",
+        "url": "https://open.spotify.com/album/3acTIVKKjNRDH3gnwD7afc"
+      },
+      "artists": [
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        },
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        }
+      ],
+      "duration_ms": 210309,
+      "name": "DON'T EVEN CALL (feat. Rich The Kid)",
+      "url": "https://open.spotify.com/track/5uSYVN8YUibG5uk4xehEJM"
     },
     {
       "added_at": "2026-04-10 04:00:55",
@@ -523,26 +543,6 @@
       "duration_ms": 143444,
       "name": "Flo Jackson",
       "url": "https://open.spotify.com/track/4fwJzG3arwvfC1ZbRdracJ"
-    },
-    {
-      "added_at": "2026-04-10 04:00:55",
-      "album": {
-        "name": "DON'T EVEN CALL (feat. Rich The Kid)",
-        "url": "https://open.spotify.com/album/3acTIVKKjNRDH3gnwD7afc"
-      },
-      "artists": [
-        {
-          "name": "Swae Lee",
-          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
-        },
-        {
-          "name": "Rich The Kid",
-          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
-        }
-      ],
-      "duration_ms": 210309,
-      "name": "DON'T EVEN CALL (feat. Rich The Kid)",
-      "url": "https://open.spotify.com/track/5uSYVN8YUibG5uk4xehEJM"
     },
     {
       "added_at": "2026-04-10 04:00:55",

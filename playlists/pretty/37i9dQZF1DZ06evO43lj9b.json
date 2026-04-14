@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "admPAAAAAAB/y0wVByCQHsTY/ai2/ttg",
+  "snapshot_id": "adrggAAAAACkm/D5Dy59y6d5Y8VsZYXp",
   "tracks": [
     {
       "added_at": null,
@@ -367,26 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "2000 Blacks Got to Be Free",
-        "url": "https://open.spotify.com/album/28XsGD0agBuKQn3RFKjczf"
-      },
-      "artists": [
-        {
-          "name": "Fela Kuti",
-          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
-        },
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 293295,
-      "name": "2000 Blacks Got to Be Free (Edit)",
-      "url": "https://open.spotify.com/track/2n7yrYNPbpBAlFIJvlKfHk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Avery*Sunshine",
         "url": "https://open.spotify.com/album/3MqlTEkRsAntG8xBSeNcuB"
       },
@@ -403,6 +383,26 @@
       "duration_ms": 295786,
       "name": "The Most",
       "url": "https://open.spotify.com/track/3wzTaIqc8NtvVWXZmeQcV9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "2000 Blacks Got to Be Free",
+        "url": "https://open.spotify.com/album/28XsGD0agBuKQn3RFKjczf"
+      },
+      "artists": [
+        {
+          "name": "Fela Kuti",
+          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
+        },
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 293295,
+      "name": "2000 Blacks Got to Be Free (Edit)",
+      "url": "https://open.spotify.com/track/2n7yrYNPbpBAlFIJvlKfHk"
     },
     {
       "added_at": null,
@@ -763,30 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Time",
-        "url": "https://open.spotify.com/album/5nnpSTWi4Uo92Tz1S1YJ9E"
-      },
-      "artists": [
-        {
-          "name": "Richard Earnshaw",
-          "url": "https://open.spotify.com/artist/7g1UCyeUY5EDPlLLIu16ra"
-        },
-        {
-          "name": "Erik Dillard",
-          "url": "https://open.spotify.com/artist/1Zepv2yyM4iZMjIKoMmvnH"
-        },
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 523840,
-      "name": "In Time",
-      "url": "https://open.spotify.com/track/6MXfEaPHJQEig5Saz4ew8I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stay Good",
         "url": "https://open.spotify.com/album/7KFdFOJJF84VbZ5rJjbyK7"
       },
@@ -807,6 +783,30 @@
       "duration_ms": 266349,
       "name": "Breeze On Me",
       "url": "https://open.spotify.com/track/5bw7vNxL2wm66ZnK1NqLrt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In Time",
+        "url": "https://open.spotify.com/album/5nnpSTWi4Uo92Tz1S1YJ9E"
+      },
+      "artists": [
+        {
+          "name": "Richard Earnshaw",
+          "url": "https://open.spotify.com/artist/7g1UCyeUY5EDPlLLIu16ra"
+        },
+        {
+          "name": "Erik Dillard",
+          "url": "https://open.spotify.com/artist/1Zepv2yyM4iZMjIKoMmvnH"
+        },
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 523840,
+      "name": "In Time",
+      "url": "https://open.spotify.com/track/6MXfEaPHJQEig5Saz4ew8I"
     },
     {
       "added_at": null,
@@ -835,22 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Change Up The Groove",
-        "url": "https://open.spotify.com/album/2odkikUoXGKyYYi5rcY79M"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 280840,
-      "name": "The Boogie Back",
-      "url": "https://open.spotify.com/track/6IST9f4O5DtXuxal7RM7A3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Avery*Sunshine",
         "url": "https://open.spotify.com/album/3MqlTEkRsAntG8xBSeNcuB"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 82613,
       "name": "Everybody Loves",
       "url": "https://open.spotify.com/track/2FfMF9bBcw0UuWpV2pbu4A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Change Up The Groove",
+        "url": "https://open.spotify.com/album/2odkikUoXGKyYYi5rcY79M"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 280840,
+      "name": "The Boogie Back",
+      "url": "https://open.spotify.com/track/6IST9f4O5DtXuxal7RM7A3"
     },
     {
       "added_at": null,
@@ -947,18 +947,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Stranger To Love",
-        "url": "https://open.spotify.com/album/2W87L99rdz5YxJL7OZhAT5"
+        "name": "Roy Ayers Delfonic Reworked #1",
+        "url": "https://open.spotify.com/album/1wbV73tH1qCoWODy2hHiFy"
       },
       "artists": [
         {
           "name": "Roy Ayers",
           "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        },
+        {
+          "name": "Delfonic",
+          "url": "https://open.spotify.com/artist/58TCXxlvoKiZrNowJsfGKP"
+        },
+        {
+          "name": "Merry Clayton",
+          "url": "https://open.spotify.com/artist/71cyZ6pH0KrM2MdtO8RGmy"
         }
       ],
-      "duration_ms": 492960,
-      "name": "Don't Stop The Feeling",
-      "url": "https://open.spotify.com/track/2YRaNRacKlIAOZd3iAfxGh"
+      "duration_ms": 350293,
+      "name": "Oh What A Lonely Feeling - Delfonic Rework",
+      "url": "https://open.spotify.com/track/2YsACErCqxeNdWiU1MdKN6"
     },
     {
       "added_at": null,

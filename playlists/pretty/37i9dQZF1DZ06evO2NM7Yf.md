@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NM7Yf.md) - [plain]
 
 > This is Meg Smith\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 465 likes - 28 songs - 1 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 468 likes - 28 songs - 1 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,14 +16,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NM7Yf.md) - [plain]
 | 6 | [blasphemy!](https://open.spotify.com/track/3l0M0HdBZ3SsinWP2alYlG) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [The Gospel According to Meg Smith](https://open.spotify.com/album/37aRRGPo5LBlXD4JepCvDa) | 2:58 |
 | 7 | [Dive Bar Opera](https://open.spotify.com/track/63jnwFJTt2iHKu5ibHNsrb) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [DISCO DYSTOPIA](https://open.spotify.com/album/44NvYnPc5kLZO1xIFIyX0k) | 2:26 |
 | 8 | [You Make Bad Things Not Suck <3](https://open.spotify.com/track/3EIMsnF6kf3qW8llk5fWtO) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [You Make Bad Things Not Suck <3](https://open.spotify.com/album/4wJEo03dFezG2dEkwDKB13) | 2:33 |
-| 9 | [One Hit Wonder](https://open.spotify.com/track/1U9WaZj7uLTyWovcyJsZ5d) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [One Hit Wonder](https://open.spotify.com/album/0EWCmyfWq1aE0XyUfKrq7l) | 3:20 |
+| 9 | [Sideways \(feat\. Meg Smith\)](https://open.spotify.com/track/0VYCKIsGFTdKsT4iQTbNXF) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z), [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Nosebleeds: Encore](https://open.spotify.com/album/0BfJWxBZsAU0LVGeK1HM36) | 2:44 |
 | 10 | [emotional affair](https://open.spotify.com/track/3U1ImAPjIGErbBVKbgXQ9E) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [The Gospel According to Meg Smith](https://open.spotify.com/album/37aRRGPo5LBlXD4JepCvDa) | 3:01 |
-| 11 | [I've got a bad feeling...](https://open.spotify.com/track/7sWQ6AQ5FR4hkNUoP2EJZS) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [DISCO DYSTOPIA](https://open.spotify.com/album/44NvYnPc5kLZO1xIFIyX0k) | 2:22 |
-| 12 | [Sideways \(feat\. Meg Smith\)](https://open.spotify.com/track/0VYCKIsGFTdKsT4iQTbNXF) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z), [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Nosebleeds: Encore](https://open.spotify.com/album/0BfJWxBZsAU0LVGeK1HM36) | 2:44 |
-| 13 | [...but i'd miss you too much!](https://open.spotify.com/track/3Jfv7V17nSJaP6aeBokQZm) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [...but i'd miss you too much!](https://open.spotify.com/album/2qcZh4d8Sz0JnIgQPrW9Zz) | 2:58 |
+| 11 | [Disco Dystopia](https://open.spotify.com/track/1G6fd7WK2vYogmHdaqugT9) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [DISCO DYSTOPIA](https://open.spotify.com/album/44NvYnPc5kLZO1xIFIyX0k) | 3:16 |
+| 12 | [One Hit Wonder](https://open.spotify.com/track/1U9WaZj7uLTyWovcyJsZ5d) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [One Hit Wonder](https://open.spotify.com/album/0EWCmyfWq1aE0XyUfKrq7l) | 3:20 |
+| 13 | [All the Things You'd Ruin](https://open.spotify.com/track/3XqLS6RCMU25puMAUbioAJ) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [All the Things You'd Ruin](https://open.spotify.com/album/4fnPZ5TvPAUQpZo5oQEWNn) | 2:46 |
 | 14 | [you fake your british accent](https://open.spotify.com/track/71Re6FOwC7aVe8Qclktmqp) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [The Gospel According to Meg Smith](https://open.spotify.com/album/37aRRGPo5LBlXD4JepCvDa) | 3:08 |
-| 15 | [Disco Dystopia](https://open.spotify.com/track/1G6fd7WK2vYogmHdaqugT9) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [DISCO DYSTOPIA](https://open.spotify.com/album/44NvYnPc5kLZO1xIFIyX0k) | 3:16 |
-| 16 | [All the Things You'd Ruin](https://open.spotify.com/track/3XqLS6RCMU25puMAUbioAJ) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [All the Things You'd Ruin](https://open.spotify.com/album/4fnPZ5TvPAUQpZo5oQEWNn) | 2:46 |
+| 15 | [I've got a bad feeling...](https://open.spotify.com/track/7sWQ6AQ5FR4hkNUoP2EJZS) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [DISCO DYSTOPIA](https://open.spotify.com/album/44NvYnPc5kLZO1xIFIyX0k) | 2:22 |
+| 16 | [...but i'd miss you too much!](https://open.spotify.com/track/3Jfv7V17nSJaP6aeBokQZm) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [...but i'd miss you too much!](https://open.spotify.com/album/2qcZh4d8Sz0JnIgQPrW9Zz) | 2:58 |
 | 17 | [Why Do I Keep Playing It](https://open.spotify.com/track/7AxloZ14VKQ1ac6QNZQjem) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Cross My Heart I Hope U Die](https://open.spotify.com/album/1FediPQ7sTybNA5NfXjOKx) | 2:45 |
 | 18 | [DO YOU LIKE ME?](https://open.spotify.com/track/3apkBldyjHqAn57yzVtYGH) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [The Gospel According to Meg Smith](https://open.spotify.com/album/37aRRGPo5LBlXD4JepCvDa) | 2:57 |
 | 19 | [Hedonistic](https://open.spotify.com/track/5zSnNdR8ZGVBPyKohY3DWY) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [DISCO DYSTOPIA](https://open.spotify.com/album/44NvYnPc5kLZO1xIFIyX0k) | 2:39 |
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NM7Yf.md) - [plain]
 | 27 | [Cool 4 U](https://open.spotify.com/track/2zMHIXmpPEz9XqGZVg4Ks4) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Cool 4 U](https://open.spotify.com/album/7Je3FV6srb7kY3BvTmUdhG) | 2:19 |
 | 28 | [Who Not to Love](https://open.spotify.com/track/0p69ggdl6UOeBnSf4dn8o8) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Who Not to Love](https://open.spotify.com/album/5y0KsMeMor5EGBOtsVIfzw) | 3:05 |
 
-Snapshot ID: `admPAAAAAADcjKMUGkyDD/7GsWv2iD4L`
+Snapshot ID: `adrggAAAAAAMsXIBGujKGNJqXCN6hEK4`

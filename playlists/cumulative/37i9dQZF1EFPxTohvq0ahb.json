@@ -2957,6 +2957,28 @@
     },
     {
       "album": {
+        "name": "That Girl (feat. Saweetie)",
+        "url": "https://open.spotify.com/album/109kFKSHQurf4h5JZWgCLk"
+      },
+      "artists": [
+        {
+          "name": "Paul Russell",
+          "url": "https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147386,
+      "name": "That Girl (feat. Saweetie)",
+      "url": "https://open.spotify.com/track/0gYIDOQkA4DZQw3wboBiuP"
+    },
+    {
+      "album": {
         "name": "Global Warming: Meltdown (Deluxe Version)",
         "url": "https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy"
       },

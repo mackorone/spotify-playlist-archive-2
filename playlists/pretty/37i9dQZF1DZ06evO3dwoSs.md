@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3dwoSs.md) - [plain]
 
 > This is Five Finger Death Punch\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 569,511 likes - 48 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 569,541 likes - 48 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3dwoSs.md) - [plain]
 | 36 | [Never Enough](https://open.spotify.com/track/0TQF4OMoW5fWulylUfoMQU) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Way of the Fist](https://open.spotify.com/album/4UiURCeJj7RgC3MVel2zOt) | 3:29 |
 | 37 | [Hard to See](https://open.spotify.com/track/0rrv8cn4zvF4tS9a6ulxur) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [War Is the Answer](https://open.spotify.com/album/5x2DACMr5TlOFvDEi14DiC) | 3:29 |
 | 38 | [M.I.N.E \(End This Way\)](https://open.spotify.com/track/2pkhDDoWnF31Vn0zrTliWB) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side of Heaven and the Righteous Side of Hell, Vol\. 1 \(Deluxe Edition\)](https://open.spotify.com/album/1nW4xR4B2Ok6JOv9KyMYhy) | 4:05 |
-| 39 | [My Nemesis](https://open.spotify.com/track/3BiVm4R19pMCkRslcmHE9U) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Got Your Six](https://open.spotify.com/album/0naP00nq9MrCSrLDdhqmI0) | 3:35 |
-| 40 | [Cradle to the Grave](https://open.spotify.com/track/1w0xrvkbggPkTdZPDPNPFn) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side of Heaven and the Righteous Side of Hell, Vol\. 2](https://open.spotify.com/album/3lUaarZcFRxIxn84ECPJgy) | 3:18 |
+| 39 | [Cradle to the Grave](https://open.spotify.com/track/1w0xrvkbggPkTdZPDPNPFn) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side of Heaven and the Righteous Side of Hell, Vol\. 2](https://open.spotify.com/album/3lUaarZcFRxIxn84ECPJgy) | 3:18 |
+| 40 | [My Nemesis](https://open.spotify.com/track/3BiVm4R19pMCkRslcmHE9U) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Got Your Six](https://open.spotify.com/album/0naP00nq9MrCSrLDdhqmI0) | 3:35 |
 | 41 | [Walk Away](https://open.spotify.com/track/1nAFMl2Vqla6t8MtvyVc8q) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [War Is the Answer](https://open.spotify.com/album/5x2DACMr5TlOFvDEi14DiC) | 3:42 |
 | 42 | [Mama Said Knock You Out](https://open.spotify.com/track/2TdpWCDMpjeNqrrLeZY4V5) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side of Heaven and the Righteous Side of Hell, Vol\. 1 \(Deluxe Edition\)](https://open.spotify.com/album/1nW4xR4B2Ok6JOv9KyMYhy) | 2:47 |
 | 43 | [When the Seasons Change](https://open.spotify.com/track/7w0VXWwbgA2a7si5E3k7Yp) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [And Justice for None \(Deluxe\)](https://open.spotify.com/album/2CcgOtkMZJpm8CnKIbMz8X) | 3:47 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3dwoSs.md) - [plain]
 | 47 | [Top Of The World](https://open.spotify.com/track/53yqxU2EKKzbuQZEUEVtxc) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [And Justice for None \(Deluxe\)](https://open.spotify.com/album/2IA9d7atwNgtiS6Tpv9WKt) | 2:42 |
 | 48 | [Dot Your Eyes](https://open.spotify.com/track/6qI0YQuno6szt5p6CycUH1) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side of Heaven and the Righteous Side of Hell, Vol\. 1 \(Deluxe Edition\)](https://open.spotify.com/album/1nW4xR4B2Ok6JOv9KyMYhy) | 3:15 |
 
-Snapshot ID: `admPAAAAAAC7DQmcf7ewGkjKyx59IQJi`
+Snapshot ID: `adrggAAAAADXcX6R0tCdlTfiRW6xpZVQ`

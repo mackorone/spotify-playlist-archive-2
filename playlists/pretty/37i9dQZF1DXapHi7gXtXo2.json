@@ -1,6 +1,6 @@
 {
   "description": "Dale play y d\u00e9jate llevar por estas finas melod\u00edas Indie.",
-  "num_followers": 93555,
+  "num_followers": 93557,
   "original_name": "Radio Indie",
   "owner": {
     "name": "Spotify",
@@ -951,6 +951,22 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
+        "name": "T\u00c1",
+        "url": "https://open.spotify.com/album/2jqMX5VF39iN4Jgm1SSh03"
+      },
+      "artists": [
+        {
+          "name": "Perot\u00e1 Ching\u00f3",
+          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+        }
+      ],
+      "duration_ms": 140500,
+      "name": "Ana Mar\u00eda",
+      "url": "https://open.spotify.com/track/56frUZQsbNRY22EyjcuCrH"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
         "name": "El Milagro",
         "url": "https://open.spotify.com/album/4lY54ab6G5Ex4TPFxadXlh"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 218639,
       "name": "El Milagro",
       "url": "https://open.spotify.com/track/60E01nbyLNShvaeVPr7Tic"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
-        "name": "T\u00c1",
-        "url": "https://open.spotify.com/album/2jqMX5VF39iN4Jgm1SSh03"
-      },
-      "artists": [
-        {
-          "name": "Perot\u00e1 Ching\u00f3",
-          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
-        }
-      ],
-      "duration_ms": 140500,
-      "name": "Ana Mar\u00eda",
-      "url": "https://open.spotify.com/track/56frUZQsbNRY22EyjcuCrH"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Pinamar",
-        "url": "https://open.spotify.com/album/5W7fMvZVn8kdy3imSF4C2k"
-      },
-      "artists": [
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        }
-      ],
-      "duration_ms": 179800,
-      "name": "Pinamar",
-      "url": "https://open.spotify.com/track/6K98GWDNC9Q9Q28uhNjOCM"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
         "name": "Ni tan Bien",
         "url": "https://open.spotify.com/album/2YiHAEkoXeLrw9jWhltxIB"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 187690,
       "name": "Buen viaje",
       "url": "https://open.spotify.com/track/2Gb1ym9oVBPzkZA2BAJz3L"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
+        "name": "Pinamar",
+        "url": "https://open.spotify.com/album/5W7fMvZVn8kdy3imSF4C2k"
+      },
+      "artists": [
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "duration_ms": 179800,
+      "name": "Pinamar",
+      "url": "https://open.spotify.com/track/6K98GWDNC9Q9Q28uhNjOCM"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1427,18 +1427,18 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "el gil",
-        "url": "https://open.spotify.com/album/5floVE8LEUynVJ14Pr9EHD"
+        "name": "Martes 13",
+        "url": "https://open.spotify.com/album/1cc2UPfqcPeai7bqU8v0hq"
       },
       "artists": [
         {
-          "name": "Camar\u00fa",
-          "url": "https://open.spotify.com/artist/36yItyZJx0Tw3OpFQADb8z"
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
         }
       ],
-      "duration_ms": 272500,
-      "name": "el gil",
-      "url": "https://open.spotify.com/track/0j5MACLCW2AQVh82thXuJ7"
+      "duration_ms": 163096,
+      "name": "Guitarra",
+      "url": "https://open.spotify.com/track/3LcPnIFriINZZ0ot0hBncl"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1459,18 +1459,18 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Martes 13",
-        "url": "https://open.spotify.com/album/1cc2UPfqcPeai7bqU8v0hq"
+        "name": "el gil",
+        "url": "https://open.spotify.com/album/5floVE8LEUynVJ14Pr9EHD"
       },
       "artists": [
         {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+          "name": "Camar\u00fa",
+          "url": "https://open.spotify.com/artist/36yItyZJx0Tw3OpFQADb8z"
         }
       ],
-      "duration_ms": 163096,
-      "name": "Guitarra",
-      "url": "https://open.spotify.com/track/3LcPnIFriINZZ0ot0hBncl"
+      "duration_ms": 272500,
+      "name": "el gil",
+      "url": "https://open.spotify.com/track/0j5MACLCW2AQVh82thXuJ7"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
+        "name": "Que No",
+        "url": "https://open.spotify.com/album/1seXkKYuDxoAgUgZznRKJJ"
+      },
+      "artists": [
+        {
+          "name": "Barbi Recanati",
+          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
+        }
+      ],
+      "duration_ms": 230437,
+      "name": "Que No",
+      "url": "https://open.spotify.com/track/4DAQll50JkLQMasCbExBkp"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
         "name": "Te Odio",
         "url": "https://open.spotify.com/album/1DRNhAJ66xVONSta9qI4Zw"
       },
@@ -1543,22 +1559,6 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Que No",
-        "url": "https://open.spotify.com/album/1seXkKYuDxoAgUgZznRKJJ"
-      },
-      "artists": [
-        {
-          "name": "Barbi Recanati",
-          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
-        }
-      ],
-      "duration_ms": 230437,
-      "name": "Que No",
-      "url": "https://open.spotify.com/track/4DAQll50JkLQMasCbExBkp"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
         "name": "Mentiroso",
         "url": "https://open.spotify.com/album/67eYO57qEmwcX323pi63kZ"
       },
@@ -1571,26 +1571,6 @@
       "duration_ms": 228306,
       "name": "Mentiroso",
       "url": "https://open.spotify.com/track/25pP7EPQwNjoIA2EFZoPOK"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
-        "name": "Luz de perla",
-        "url": "https://open.spotify.com/album/6ENurOBs5BwrZNvGvJ2VIY"
-      },
-      "artists": [
-        {
-          "name": "Anyi",
-          "url": "https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD"
-        },
-        {
-          "name": "SIMONA",
-          "url": "https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT"
-        }
-      ],
-      "duration_ms": 169363,
-      "name": "Soy un volc\u00e1n",
-      "url": "https://open.spotify.com/track/0dGwAktrgm2gwLCcU3NLfG"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1615,22 +1595,22 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Pensamientos",
-        "url": "https://open.spotify.com/album/6MnIQVOhKjOkbid83IEFz6"
+        "name": "Luz de perla",
+        "url": "https://open.spotify.com/album/6ENurOBs5BwrZNvGvJ2VIY"
       },
       "artists": [
         {
-          "name": "Malena Villa",
-          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
+          "name": "Anyi",
+          "url": "https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD"
         },
         {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+          "name": "SIMONA",
+          "url": "https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT"
         }
       ],
-      "duration_ms": 156771,
-      "name": "Cero",
-      "url": "https://open.spotify.com/track/0SNwjDrUgkRTeKSJGw6e4C"
+      "duration_ms": 169363,
+      "name": "Soy un volc\u00e1n",
+      "url": "https://open.spotify.com/track/0dGwAktrgm2gwLCcU3NLfG"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1651,18 +1631,22 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Change Your Mind",
-        "url": "https://open.spotify.com/album/4DmQXKj0chk1Prwe0rbkhe"
+        "name": "Pensamientos",
+        "url": "https://open.spotify.com/album/6MnIQVOhKjOkbid83IEFz6"
       },
       "artists": [
         {
-          "name": "Pacifica",
-          "url": "https://open.spotify.com/artist/4YcQuAswXPWdO2WAxTRXse"
+          "name": "Malena Villa",
+          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
+        },
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
         }
       ],
-      "duration_ms": 147772,
-      "name": "Change Your Mind",
-      "url": "https://open.spotify.com/track/5yqgKyX1TOG41LBSosE1X8"
+      "duration_ms": 156771,
+      "name": "Cero",
+      "url": "https://open.spotify.com/track/0SNwjDrUgkRTeKSJGw6e4C"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1679,6 +1663,22 @@
       "duration_ms": 195119,
       "name": "Ya ni mis amigos me contestan",
       "url": "https://open.spotify.com/track/0P9nPSZTrFXB5vvVBqEC6n"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
+        "name": "Change Your Mind",
+        "url": "https://open.spotify.com/album/4DmQXKj0chk1Prwe0rbkhe"
+      },
+      "artists": [
+        {
+          "name": "Pacifica",
+          "url": "https://open.spotify.com/artist/4YcQuAswXPWdO2WAxTRXse"
+        }
+      ],
+      "duration_ms": 147772,
+      "name": "Change Your Mind",
+      "url": "https://open.spotify.com/track/5yqgKyX1TOG41LBSosE1X8"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1731,18 +1731,22 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "DIAS DE PAJA",
-        "url": "https://open.spotify.com/album/1j1tnRVfGpSzgjiOLE1dtX"
+        "name": "Tajo en el tiempo",
+        "url": "https://open.spotify.com/album/3Q2sxvcJxT5qDlAt7hz54T"
       },
       "artists": [
         {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+          "name": "Eugenia Mosca",
+          "url": "https://open.spotify.com/artist/7caluRMMl2cL4NMmKtC3hu"
+        },
+        {
+          "name": "Alfonsina",
+          "url": "https://open.spotify.com/artist/2PiVgpD2ynESIozDDEEh8k"
         }
       ],
-      "duration_ms": 233691,
-      "name": "DIAS DE PAJA",
-      "url": "https://open.spotify.com/track/78GT2hT82AWRJq2kwXJAI5"
+      "duration_ms": 225500,
+      "name": "Tajo en el tiempo",
+      "url": "https://open.spotify.com/track/2MZwFxREC3JqitEtrxpkXl"
     }
   ],
   "unique_name": "Radio Indie",

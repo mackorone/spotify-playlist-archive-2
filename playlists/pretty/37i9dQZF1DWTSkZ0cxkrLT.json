@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica ideal para tomar el t\u00e9 y relajar.",
-  "num_followers": 429367,
+  "num_followers": 429373,
   "original_name": "T\u00e9 Para Tres",
   "owner": {
     "name": "Spotify",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-03-20 03:00:27",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1iISTtFC766MmhpKtlz3sy"
-      },
-      "artists": [
-        {
-          "name": "Vicente Garcia",
-          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
-        }
-      ],
-      "duration_ms": 182373,
-      "name": "Dulcito e Coco - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/3hQR682FLOBZg22eYjPA6L"
-    },
-    {
-      "added_at": "2026-03-20 03:00:27",
-      "album": {
         "name": "Timidez (feat. Natalia Lafourcade)",
         "url": "https://open.spotify.com/album/2XaspQ17g3BU4Xkl2fDjV3"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 214186,
       "name": "Timidez (feat. Natalia Lafourcade)",
       "url": "https://open.spotify.com/track/3Riytw4egMe357gWrANdAr"
+    },
+    {
+      "added_at": "2026-03-20 03:00:27",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1iISTtFC766MmhpKtlz3sy"
+      },
+      "artists": [
+        {
+          "name": "Vicente Garcia",
+          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
+        }
+      ],
+      "duration_ms": 182373,
+      "name": "Dulcito e Coco - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/3hQR682FLOBZg22eYjPA6L"
     },
     {
       "added_at": "2026-03-20 03:00:27",
@@ -811,22 +811,6 @@
     {
       "added_at": "2026-03-20 03:00:27",
       "album": {
-        "name": "San Lucas",
-        "url": "https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 247196,
-      "name": "San Lucas",
-      "url": "https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO"
-    },
-    {
-      "added_at": "2026-03-20 03:00:27",
-      "album": {
         "name": "Otras Canciones",
         "url": "https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D"
       },
@@ -847,18 +831,18 @@
     {
       "added_at": "2026-03-20 03:00:27",
       "album": {
-        "name": "Algo Es Mejor",
-        "url": "https://open.spotify.com/album/2xTZ7tJWFmREAiumKaKM6r"
+        "name": "San Lucas",
+        "url": "https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1"
       },
       "artists": [
         {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
         }
       ],
-      "duration_ms": 241000,
-      "name": "Algo Es Mejor",
-      "url": "https://open.spotify.com/track/2KuqOQdLea52Us5XWcmMdp"
+      "duration_ms": 247196,
+      "name": "San Lucas",
+      "url": "https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO"
     },
     {
       "added_at": "2026-03-20 03:00:27",
@@ -879,6 +863,22 @@
       "duration_ms": 183165,
       "name": "Quiero Mejor",
       "url": "https://open.spotify.com/track/3LW4vz2fFmhUinOH2t4AR4"
+    },
+    {
+      "added_at": "2026-03-20 03:00:27",
+      "album": {
+        "name": "Algo Es Mejor",
+        "url": "https://open.spotify.com/album/2xTZ7tJWFmREAiumKaKM6r"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 241000,
+      "name": "Algo Es Mejor",
+      "url": "https://open.spotify.com/track/2KuqOQdLea52Us5XWcmMdp"
     },
     {
       "added_at": "2026-03-20 03:00:27",
@@ -1019,6 +1019,26 @@
     {
       "added_at": "2026-03-20 03:00:27",
       "album": {
+        "name": "Vos",
+        "url": "https://open.spotify.com/album/0H5BnWQZyob5gORyrods7t"
+      },
+      "artists": [
+        {
+          "name": "Lisandro Aristimu\u00f1o",
+          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
+        },
+        {
+          "name": "Muerdo",
+          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
+        }
+      ],
+      "duration_ms": 198157,
+      "name": "Vos",
+      "url": "https://open.spotify.com/track/2d7QcFbqo7AfLLnHRmbqrn"
+    },
+    {
+      "added_at": "2026-03-20 03:00:27",
+      "album": {
         "name": "Con Las Ganas",
         "url": "https://open.spotify.com/album/0mtZkrJ2WBLYjggwI3dyD9"
       },
@@ -1067,26 +1087,6 @@
       "duration_ms": 291008,
       "name": "Un Osito de Peluche de Taiw\u00e1n - MTV Unplugged",
       "url": "https://open.spotify.com/track/6rkRm52aWJhtRgOF9WTtnZ"
-    },
-    {
-      "added_at": "2026-03-20 03:00:27",
-      "album": {
-        "name": "Vos",
-        "url": "https://open.spotify.com/album/0H5BnWQZyob5gORyrods7t"
-      },
-      "artists": [
-        {
-          "name": "Lisandro Aristimu\u00f1o",
-          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
-        },
-        {
-          "name": "Muerdo",
-          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
-        }
-      ],
-      "duration_ms": 198157,
-      "name": "Vos",
-      "url": "https://open.spotify.com/track/2d7QcFbqo7AfLLnHRmbqrn"
     },
     {
       "added_at": "2026-03-20 03:00:27",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2026-03-20 03:00:27",
       "album": {
-        "name": "ANASTASIA",
-        "url": "https://open.spotify.com/album/3wbzzUJD8dnfUODIpoCoHO"
-      },
-      "artists": [
-        {
-          "name": "Cami",
-          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
-        }
-      ],
-      "duration_ms": 182764,
-      "name": "D\u00cdA DEL AMOR",
-      "url": "https://open.spotify.com/track/7B4fViGgWYNzc27j9fyTdU"
-    },
-    {
-      "added_at": "2026-03-20 03:00:27",
-      "album": {
         "name": "Por Amor al Arte",
         "url": "https://open.spotify.com/album/5hpbQTlqiYxmrwLn4IYQls"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 125611,
       "name": "Por Amor al Arte",
       "url": "https://open.spotify.com/track/2M6gFpCKX6IxkdQZrzi7r6"
+    },
+    {
+      "added_at": "2026-03-20 03:00:27",
+      "album": {
+        "name": "ANASTASIA",
+        "url": "https://open.spotify.com/album/3wbzzUJD8dnfUODIpoCoHO"
+      },
+      "artists": [
+        {
+          "name": "Cami",
+          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+        }
+      ],
+      "duration_ms": 182764,
+      "name": "D\u00cdA DEL AMOR",
+      "url": "https://open.spotify.com/track/7B4fViGgWYNzc27j9fyTdU"
     },
     {
       "added_at": "2026-03-20 03:00:27",

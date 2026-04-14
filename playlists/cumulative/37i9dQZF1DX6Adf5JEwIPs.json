@@ -61587,28 +61587,6 @@
     },
     {
       "album": {
-        "name": "El Paquete",
-        "url": "https://open.spotify.com/album/6n8oJVvvQf506DwHbbMda6"
-      },
-      "artists": [
-        {
-          "name": "Luis Escalera",
-          "url": "https://open.spotify.com/artist/1EECv9ZeOOBtjcVa3GTEBd"
-        },
-        {
-          "name": "Max Wizard",
-          "url": "https://open.spotify.com/artist/0dlUkcvpngiB6q05OnvKme"
-        }
-      ],
-      "date_added": "2026-04-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 169142,
-      "name": "El Paquete",
-      "url": "https://open.spotify.com/track/4xTXk9S20F0p2dc4ZPcstx"
-    },
-    {
-      "album": {
         "name": "El Parotas",
         "url": "https://open.spotify.com/album/70vPj9CSgidu3LF0UdxzyZ"
       },
@@ -120190,6 +120168,28 @@
       "duration_ms": 152125,
       "name": "Mi Pantera Super",
       "url": "https://open.spotify.com/track/02ZBhfpw5GxxAALNeDvwun"
+    },
+    {
+      "album": {
+        "name": "Mi Paquete",
+        "url": "https://open.spotify.com/album/6n8oJVvvQf506DwHbbMda6"
+      },
+      "artists": [
+        {
+          "name": "Luis Escalera",
+          "url": "https://open.spotify.com/artist/1EECv9ZeOOBtjcVa3GTEBd"
+        },
+        {
+          "name": "Max Wizard",
+          "url": "https://open.spotify.com/artist/0dlUkcvpngiB6q05OnvKme"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169142,
+      "name": "Mi Paquete",
+      "url": "https://open.spotify.com/track/4xTXk9S20F0p2dc4ZPcstx"
     },
     {
       "album": {

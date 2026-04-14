@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5OF1YU2YzcMyFem3Fi4M3E">Boi\-1da</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,063 likes - 312 songs - 18 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,063 likes - 311 songs - 18 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -312,13 +312,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 302 | [Miami](https://open.spotify.com/track/3PfFdqqpryFgQOJj0zVzaK) | [Bri Steves](https://open.spotify.com/artist/26PGLwvDbs1jVA6tAv1lLj) | [Miami](https://open.spotify.com/album/2YLSdSasySLMGFC9EAv5wy) | 3:34 |
 | 303 | [Lighter!](https://open.spotify.com/track/4XKfPbBevn5jUiea9mXovb) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA) | [Not 4 Sale](https://open.spotify.com/album/4mvT7q9PuuBWZcVyUnZP8e) | 4:12 |
 | 304 | [Moves](https://open.spotify.com/track/27N58DOG7k1qksZ2EeyEMi) | [Poo Bear](https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX), [Nechie](https://open.spotify.com/artist/6tZAIz71L37A8EBBVxn1fi) | [Poo Bear Presents: Bearthday Music](https://open.spotify.com/album/4IibNIC3LGip4ppu6Mnin9) | 2:12 |
-| 305 | [Peace](https://open.spotify.com/track/38HRhEuvgCRpXQZCTZ8R5h) | [Cassidy](https://open.spotify.com/artist/3WilJWdCNLSU7fpYjiKb7v) | [C.A.S.H.](https://open.spotify.com/album/65JFJo8RWf0BbSjNC0Rosv) | 5:14 |
-| 306 | [Brink of Amazing](https://open.spotify.com/track/0TdTj35uJmZZJWz2caJeP2) | [Daniel De Bourg](https://open.spotify.com/artist/24ykUrPaMcWMlCFCSEtrpK) | [London Bread](https://open.spotify.com/album/1BPO3c60v0cr7suYDURpA4) | 2:37 |
-| 307 | [Interlude](https://open.spotify.com/track/46rwzQddRNFojL5gLXPaYB) | [Starrah](https://open.spotify.com/artist/6DpWtzfwV8fcwP6fXckDVu) | [The Longest Interlude](https://open.spotify.com/album/7pec82DONDwfIeTXJAnFys) | 2:01 |
-| 308 | [Cold Coffee](https://open.spotify.com/track/5HmNUiwt0rP64jwgKYsQgQ) | [Olivia Lunny](https://open.spotify.com/artist/7542b5kIvrKX0Zvp5iNpl9) | [Olivia Lunny](https://open.spotify.com/album/3PSuGZHxBp1KpzXl5gHobg) | 2:41 |
-| 309 | [Upper Hand](https://open.spotify.com/track/44nZO0kZQFhRrBMgByto1d) | [Asheley Turner](https://open.spotify.com/artist/0WfELrPdPBKaNG8UhR1tvw) | [Phases](https://open.spotify.com/album/4WIR0dtfYg01Nsg2kyD6Sy) | 2:04 |
-| 310 | [My Life](https://open.spotify.com/track/659VW7lp1PC9EogVmyy2NW) | [KO](https://open.spotify.com/artist/0QsGiZaEitDoqU4AQJhPqF) | [My Life](https://open.spotify.com/album/62ZHBhUPSiyGbG9TFE5BPk) | 3:20 |
-| 311 | [Love Me Til I Die](https://open.spotify.com/track/4GLENDZP3pxlrzpkQDITWt) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Talk A Good Game \(Deluxe Edition\)](https://open.spotify.com/album/2oPT6EoZENUaEzT03RoG6C) | 4:18 |
-| 312 | [Whatever Became Of You](https://open.spotify.com/track/1Ycr1YY3M9ITVVNhXIAp2J) | [Colin Munroe](https://open.spotify.com/artist/7IF7emaerV9vIoAjey6IHe) | [Unsung Hero](https://open.spotify.com/album/1UPa8cbZK9mpKAkG0tjJTi) | 4:46 |
+| 305 | [Brink of Amazing](https://open.spotify.com/track/0TdTj35uJmZZJWz2caJeP2) | [Daniel De Bourg](https://open.spotify.com/artist/24ykUrPaMcWMlCFCSEtrpK) | [London Bread](https://open.spotify.com/album/1BPO3c60v0cr7suYDURpA4) | 2:37 |
+| 306 | [Interlude](https://open.spotify.com/track/46rwzQddRNFojL5gLXPaYB) | [Starrah](https://open.spotify.com/artist/6DpWtzfwV8fcwP6fXckDVu) | [The Longest Interlude](https://open.spotify.com/album/7pec82DONDwfIeTXJAnFys) | 2:01 |
+| 307 | [Cold Coffee](https://open.spotify.com/track/5HmNUiwt0rP64jwgKYsQgQ) | [Olivia Lunny](https://open.spotify.com/artist/7542b5kIvrKX0Zvp5iNpl9) | [Olivia Lunny](https://open.spotify.com/album/3PSuGZHxBp1KpzXl5gHobg) | 2:41 |
+| 308 | [Upper Hand](https://open.spotify.com/track/44nZO0kZQFhRrBMgByto1d) | [Asheley Turner](https://open.spotify.com/artist/0WfELrPdPBKaNG8UhR1tvw) | [Phases](https://open.spotify.com/album/4WIR0dtfYg01Nsg2kyD6Sy) | 2:04 |
+| 309 | [My Life](https://open.spotify.com/track/659VW7lp1PC9EogVmyy2NW) | [KO](https://open.spotify.com/artist/0QsGiZaEitDoqU4AQJhPqF) | [My Life](https://open.spotify.com/album/62ZHBhUPSiyGbG9TFE5BPk) | 3:20 |
+| 310 | [Love Me Til I Die](https://open.spotify.com/track/4GLENDZP3pxlrzpkQDITWt) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Talk A Good Game \(Deluxe Edition\)](https://open.spotify.com/album/2oPT6EoZENUaEzT03RoG6C) | 4:18 |
+| 311 | [Whatever Became Of You](https://open.spotify.com/track/1Ycr1YY3M9ITVVNhXIAp2J) | [Colin Munroe](https://open.spotify.com/artist/7IF7emaerV9vIoAjey6IHe) | [Unsung Hero](https://open.spotify.com/album/1UPa8cbZK9mpKAkG0tjJTi) | 4:46 |
 
-Snapshot ID: `AcOsSAAAAADUycbLqcjdwy5/nyyWricS`
+Snapshot ID: `AcOx6AAAAACHow338jGxsMuhjT0H9kkk`

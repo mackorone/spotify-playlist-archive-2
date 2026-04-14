@@ -6204,7 +6204,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-13",
+      "date_removed": null,
       "duration_ms": 163200,
       "name": "BYE BYE",
       "url": "https://open.spotify.com/track/63tBXIkHpGP99Powr8UxBv"
@@ -10836,7 +10836,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 158774,
       "name": "git",
       "url": "https://open.spotify.com/track/1RwVkonL4anIGeNZo0OPp1"
@@ -15484,7 +15484,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 152888,
       "name": "Kalbini Verdin",
       "url": "https://open.spotify.com/track/5xcscm6LaaOxFZ4J5NZ7BQ"
@@ -16250,7 +16250,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 207253,
       "name": "Ke\u015fke",
       "url": "https://open.spotify.com/track/1horGWxHKfwctCKdHwrO0n"
@@ -23468,7 +23468,7 @@
       ],
       "date_added": "2025-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-13",
+      "date_removed": null,
       "duration_ms": 196857,
       "name": "Seni D\u00fc\u015f\u00fcnd\u00fcm",
       "url": "https://open.spotify.com/track/6oZ8BPQSQog7Q3LPUVgxCr"
@@ -24513,6 +24513,28 @@
     },
     {
       "album": {
+        "name": "Sorma",
+        "url": "https://open.spotify.com/album/6LHurLeqLGdzRoxSiD3ZNT"
+      },
+      "artists": [
+        {
+          "name": "KAVAK",
+          "url": "https://open.spotify.com/artist/24OGdBr3r58ksMLJkMXZZY"
+        },
+        {
+          "name": "BAKAN",
+          "url": "https://open.spotify.com/artist/3pELTNcBXbfHktNPFTUsNW"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116250,
+      "name": "Sorma",
+      "url": "https://open.spotify.com/track/3931TjhYLiINn49kKUvT1F"
+    },
+    {
+      "album": {
         "name": "F*CK LOVE 3: OVER YOU",
         "url": "https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2"
       },
@@ -24950,7 +24972,7 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 90576,
       "name": "TAK TAK TAK",
       "url": "https://open.spotify.com/track/28TeosAOQZvsftj5ZxucaX"
@@ -26826,7 +26848,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-12",
+      "date_removed": null,
       "duration_ms": 226768,
       "name": "Yaln\u0131zl\u0131\u011f\u0131n \u00c7aresini Bulmu\u015flar",
       "url": "https://open.spotify.com/track/3jW5r9FkxQuouF9sMSw2hb"

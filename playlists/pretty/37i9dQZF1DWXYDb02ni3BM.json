@@ -1,6 +1,6 @@
 {
   "description": "Las divas del pop latino de ayer y hoy. Foto: Maria Becerra",
-  "num_followers": 194690,
+  "num_followers": 194719,
   "original_name": "Mujeres del Pop Latino",
   "owner": {
     "name": "Spotify",
@@ -207,38 +207,6 @@
     {
       "added_at": "2024-10-10 22:25:32",
       "album": {
-        "name": "Dos",
-        "url": "https://open.spotify.com/album/1PKBHS23j0Hujx8C2sCbqo"
-      },
-      "artists": [
-        {
-          "name": "Fanny Lu",
-          "url": "https://open.spotify.com/artist/6GRC8segVAr34gm6pjfSoQ"
-        }
-      ],
-      "duration_ms": 205666,
-      "name": "T\u00fa No Eres Para Mi",
-      "url": "https://open.spotify.com/track/3df4fSoW5zsdNi5Wf3K5RP"
-    },
-    {
-      "added_at": "2024-10-10 22:25:32",
-      "album": {
-        "name": "El amor es un Demonio",
-        "url": "https://open.spotify.com/album/5e1nTKGsbjTj7aIafKpedZ"
-      },
-      "artists": [
-        {
-          "name": "Valeria Lynch",
-          "url": "https://open.spotify.com/artist/60zawKIAJS16ul7OSY91wM"
-        }
-      ],
-      "duration_ms": 306750,
-      "name": "El amor es un Demonio",
-      "url": "https://open.spotify.com/track/2VqtTSf7G8xQQCi99aZ1Px"
-    },
-    {
-      "added_at": "2024-10-10 22:25:32",
-      "album": {
         "name": "Taki Taki (with Selena Gomez, Ozuna & Cardi B)",
         "url": "https://open.spotify.com/album/0ZHyvPke0EcVt6rYA8Ins3"
       },
@@ -263,6 +231,38 @@
       "duration_ms": 212500,
       "name": "Taki Taki (with Selena Gomez, Ozuna & Cardi B)",
       "url": "https://open.spotify.com/track/4w8niZpiMy6qz1mntFA5uM"
+    },
+    {
+      "added_at": "2024-10-10 22:25:32",
+      "album": {
+        "name": "El amor es un Demonio",
+        "url": "https://open.spotify.com/album/5e1nTKGsbjTj7aIafKpedZ"
+      },
+      "artists": [
+        {
+          "name": "Valeria Lynch",
+          "url": "https://open.spotify.com/artist/60zawKIAJS16ul7OSY91wM"
+        }
+      ],
+      "duration_ms": 306750,
+      "name": "El amor es un Demonio",
+      "url": "https://open.spotify.com/track/2VqtTSf7G8xQQCi99aZ1Px"
+    },
+    {
+      "added_at": "2024-10-10 22:25:32",
+      "album": {
+        "name": "Dos",
+        "url": "https://open.spotify.com/album/1PKBHS23j0Hujx8C2sCbqo"
+      },
+      "artists": [
+        {
+          "name": "Fanny Lu",
+          "url": "https://open.spotify.com/artist/6GRC8segVAr34gm6pjfSoQ"
+        }
+      ],
+      "duration_ms": 205666,
+      "name": "T\u00fa No Eres Para Mi",
+      "url": "https://open.spotify.com/track/3df4fSoW5zsdNi5Wf3K5RP"
     },
     {
       "added_at": "2024-10-10 22:25:32",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-10-10 22:25:32",
       "album": {
-        "name": "Utopia 2",
-        "url": "https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 241906,
-      "name": "Luz Sin Gravedad",
-      "url": "https://open.spotify.com/track/60CEVNgCHcVyWCPy6Kh2K6"
-    },
-    {
-      "added_at": "2024-10-10 22:25:32",
-      "album": {
         "name": "Lunas rotas",
         "url": "https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 220546,
       "name": "A fuego lento",
       "url": "https://open.spotify.com/track/7nK3q1GgJDxlWfCwtiLV5a"
+    },
+    {
+      "added_at": "2024-10-10 22:25:32",
+      "album": {
+        "name": "Utopia 2",
+        "url": "https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 241906,
+      "name": "Luz Sin Gravedad",
+      "url": "https://open.spotify.com/track/60CEVNgCHcVyWCPy6Kh2K6"
     }
   ],
   "unique_name": "Mujeres del Pop Latino",

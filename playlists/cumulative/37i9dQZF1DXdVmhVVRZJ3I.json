@@ -42,7 +42,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 180845,
       "name": "Adrenalina (Minha Gasolina)",
       "url": "https://open.spotify.com/track/04KNQ19sU4QfARgavVEiNR"
@@ -1572,6 +1572,28 @@
       "duration_ms": 236029,
       "name": "Pulverturm - ANNA Rework",
       "url": "https://open.spotify.com/track/4NN7PBVKclppjgszynZ9K1"
+    },
+    {
+      "album": {
+        "name": "Put That Banger On Next",
+        "url": "https://open.spotify.com/album/1MNMB9fCDWKHW5bA4iSgCy"
+      },
+      "artists": [
+        {
+          "name": "Ahadadream",
+          "url": "https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW"
+        },
+        {
+          "name": "Capo Lee",
+          "url": "https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199384,
+      "name": "Put That Banger On Next",
+      "url": "https://open.spotify.com/track/3Telt6qNs0A3XaUTfG3p1e"
     },
     {
       "album": {

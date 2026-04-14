@@ -10581,6 +10581,32 @@
     },
     {
       "album": {
+        "name": "Vangelo",
+        "url": "https://open.spotify.com/album/2gqFeF2xx9zMEwUWRc5UK4"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218536,
+      "name": "Mayday",
+      "url": "https://open.spotify.com/track/1i41RQ2km1sO8JD6fFVCxX"
+    },
+    {
+      "album": {
         "name": "Me l'hai detto tu (feat. chiamamifaro)",
         "url": "https://open.spotify.com/album/20zDgmPugLaGTgXCMgU9oM"
       },
@@ -15586,6 +15612,24 @@
       "duration_ms": 152000,
       "name": "RIO",
       "url": "https://open.spotify.com/track/51DNSP2kKAiUFURmcwmmJd"
+    },
+    {
+      "album": {
+        "name": "Vangelo",
+        "url": "https://open.spotify.com/album/2gqFeF2xx9zMEwUWRc5UK4"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237762,
+      "name": "Risorgere",
+      "url": "https://open.spotify.com/track/1437F3lIKt7rc1cSALqz6Q"
     },
     {
       "album": {

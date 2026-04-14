@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-438 songs - 1 day 3 hr 13 min
+439 songs - 1 day 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,6 +271,7 @@
 | [Oxygen](https://open.spotify.com/track/14QISLgJs7nlmR8rRybQCo) | [Courtney Nord](https://open.spotify.com/artist/6oVgQ31kF4K4MmvTW37OtX) | [Oxygen](https://open.spotify.com/album/6s4OCKSVdEgYMB4bPzslGZ) | 3:15 | 2026-03-11 |  |
 | [Pale Face](https://open.spotify.com/track/0JhnzPFQMiU9rX6KF6b6B9) | [Katrina](https://open.spotify.com/artist/2hpCkArHzQ852NRLx6TG2o) | [Pale Face](https://open.spotify.com/album/46VywIGGdZzTVNta5HTcy5) | 4:22 | 2026-01-22 | 2026-02-23 |
 | [Paper Mache](https://open.spotify.com/track/49aASBTHzF8GhtqgOXSlfg) | [Katrina](https://open.spotify.com/artist/2hpCkArHzQ852NRLx6TG2o) | [Paper Mache](https://open.spotify.com/album/0sZw1vxa8YcDceWAnTqNS0) | 2:09 | 2025-11-04 | 2025-11-22 |
+| [Parte de Mi Sangre](https://open.spotify.com/track/77Ksuuc2iN2SlK4vGmoeFj) | [JaNNus](https://open.spotify.com/artist/6UzFYM28tp9IjqbjVdnmTb), [Cristian Argonz](https://open.spotify.com/artist/1tvPKCfCxBoYEpbd0VjCVR) | [Nueva Era](https://open.spotify.com/album/6aBPq0mvfWPYuSv1OzPhL5) | 3:25 | 2026-04-13 |  |
 | [Pear Tree](https://open.spotify.com/track/7DzSWxZSWw1s9DtD9PIxNn) | [Latvija](https://open.spotify.com/artist/4Zy2ssMFKgmYzpaGVJ4j2R) | [Pear Tree](https://open.spotify.com/album/5tvAeyesEagq1JOtZoDlRr) | 3:10 | 2026-02-04 | 2026-02-23 |
 | [Perilous Crests](https://open.spotify.com/track/0SjeRsyPzUfOWQgEfbtnNO) | [KXENIA](https://open.spotify.com/artist/4xGnce5EXkdJNeOxaZeYTL) | [Perilous Crests](https://open.spotify.com/album/664kp9PX6QSxOuCuP0lvS1) | 3:47 | 2026-01-24 | 2026-02-23 |
 | [Play The Fool](https://open.spotify.com/track/17utc5QAA7nYqFHJBecviD) | [Future Mondays](https://open.spotify.com/artist/3VMpqGkVVuW4nTUJw9v2rt) | [Future Mondays](https://open.spotify.com/album/448haKOKsOWNr4OIG7ao3W) | 3:13 | 2025-11-21 | 2025-12-12 |

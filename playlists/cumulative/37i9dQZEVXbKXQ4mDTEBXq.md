@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Japan.
 
-762 songs - 1 day 22 hr 44 min
+763 songs - 1 day 22 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -343,7 +343,7 @@
 | [Same Blue](https://open.spotify.com/track/2cupzYHOSLmMqDHRVQfI9j) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Same Blue](https://open.spotify.com/album/36xdrf8iLOjM0LFvG9auGT) | 3:57 | 2024-10-05 | 2025-03-06 |
 | [Same Blue](https://open.spotify.com/track/383jUaGNWGCuCk7FcR9ZUZ) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Same Blue](https://open.spotify.com/album/2sV6WqDxZFYvyMBrjAj7CC) | 3:57 | 2025-01-08 | 2025-02-12 |
 | [Same Blue](https://open.spotify.com/track/3tRgmNTaFYgtbt7XCy6Les) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Same Blue](https://open.spotify.com/album/7Mq690kTHBMnLHdi8WWlUF) | 3:57 | 2024-10-11 | 2025-03-02 |
-| [Sangatsu Kokonoka](https://open.spotify.com/track/4JrVkHvFIe8Yevv9nu3Or9) | [Remioromen](https://open.spotify.com/artist/4Yz1LjHwgQ5DFWJrZL8bC8) | [ether](https://open.spotify.com/album/41GwUy4tV2lbH0qol90Ger) | 4:23 | 2026-03-08 |  |
+| [Sangatsu Kokonoka](https://open.spotify.com/track/4JrVkHvFIe8Yevv9nu3Or9) | [Remioromen](https://open.spotify.com/artist/4Yz1LjHwgQ5DFWJrZL8bC8) | [ether](https://open.spotify.com/album/41GwUy4tV2lbH0qol90Ger) | 4:23 | 2026-03-08 | 2026-04-14 |
 | [Sanitizer](https://open.spotify.com/track/4PW1UIxUZUPkeyXb5vHcBe) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Sanitizer](https://open.spotify.com/album/1fWluh1iIw7roMuGLPBlEY) | 5:04 | 2025-12-06 | 2025-12-14 |
 | [Sanitizer](https://open.spotify.com/track/4eCYeVfzGsS6jq8aX43yDr) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Sanitizer](https://open.spotify.com/album/0GjrgVnOjXqHxy7KtHQYnY) | 5:04 | 2025-12-08 | 2025-12-24 |
 | [Santa Tell Me](https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Santa Tell Me](https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97) | 3:24 | 2021-12-25 | 2025-12-29 |
@@ -762,6 +762,7 @@
 | [青のすみか](https://open.spotify.com/track/3zbKiko8V3u2yn1RcT8xBZ) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [ROUNDABOUT](https://open.spotify.com/album/1N3qm3w4YsYgXh6XxBjkay) | 3:16 | 2024-01-11 | 2024-05-29 |
 | [革命道中 \- On The Way](https://open.spotify.com/track/1oFqKeepmT5S8BCGqJl7Ar) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [革命道中 \- On The Way](https://open.spotify.com/album/6uBwz7fKYpTHQqEvbpRMQu) | 3:17 | 2025-08-26 |  |
 | [革命道中 \- On The Way](https://open.spotify.com/track/5l1GC6kB10b5myLMLdVqEX) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [革命道中 \- On The Way](https://open.spotify.com/album/1Lynrklw4pfQ9aZ4XWh1Tk) | 3:17 | 2025-08-08 | 2025-08-27 |
+| [風と町](https://open.spotify.com/track/1ZcCFpGA7ufRBPsNIsTKa8) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [風と町](https://open.spotify.com/album/4jlx47gbscPwSz3TbExN9W) | 3:38 | 2026-04-13 |  |
 | [風のゆくえ](https://open.spotify.com/track/2JPT05xVbGuIkAc0LNRo3s) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタの歌 ONE PIECE FILM RED](https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA) | 4:32 | 2022-08-11 | 2022-11-23 |
 | [風神](https://open.spotify.com/track/00GDUNeJd97qjKp2yrx0OC) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [風神](https://open.spotify.com/album/2dkncPeCSULjpH34voco0k) | 3:55 | 2024-11-06 | 2025-04-06 |
 | [香水](https://open.spotify.com/track/786dSB84yrSaICJwCT7VxP) | [Eito](https://open.spotify.com/artist/32QmJ5obSke8YKDbQvVPUx) | [すっからかん](https://open.spotify.com/album/4Ixr6M2KwqrH5GGQMRFgkI) | 4:15 | 2021-03-27\* | 2021-05-09 |

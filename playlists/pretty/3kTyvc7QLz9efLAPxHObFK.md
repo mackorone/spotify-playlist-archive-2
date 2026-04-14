@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 17 likes - 2,968 songs - 6 day 9 hr 27 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 17 likes - 2,969 songs - 6 day 9 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2976,5 +2976,6 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 2966 | [JUMP](https://open.spotify.com/track/2P0E3ywp75hj2XwYuuAYnH) | [KX CHR](https://open.spotify.com/artist/6q4BufN5u0ChOMqqxzPgGU) | [CHECK THIS EP](https://open.spotify.com/album/1j6IYV4ykWJdzBrp1DT0Ut) | 3:41 |
 | 2967 | [The Bad Touch](https://open.spotify.com/track/4al7Dv5NNwq5wytX3jNwTf) | [Lollibus](https://open.spotify.com/artist/4rn1xfu1y5T63WGFap5gr6) | [The Bad Touch](https://open.spotify.com/album/1PvzNaBIeDacBozhPmGlIz) | 1:59 |
 | 2968 | [Roses Are Red \- Original Version](https://open.spotify.com/track/4qZwVr553XcQNdeqjueeE3) | [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Aquarium](https://open.spotify.com/album/7uYn7ZSrXOVlmITyocZs9F) | 3:45 |
+| 2969 | [Destroy](https://open.spotify.com/track/5dvxqCla2iSfWVtEJscrS2) | [Zatox](https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO) | [Destroy](https://open.spotify.com/album/3d3MpKwUBRsKCwj9T0VBO3) | 3:36 |
 
-Snapshot ID: `AAAL76ldvZpc37Ds7y9YGFglicTUdS0Q`
+Snapshot ID: `AAAL8MdyIesie93vaDkciH0vCeQShWty`

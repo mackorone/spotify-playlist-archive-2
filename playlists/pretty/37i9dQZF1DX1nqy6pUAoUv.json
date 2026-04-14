@@ -1,6 +1,6 @@
 {
   "description": "New music and recent favorites from rising and iconic songsmiths and storytellers. Cover: Rhiannon Giddens",
-  "num_followers": 170815,
+  "num_followers": 170819,
   "original_name": "Contemporary Folk",
   "owner": {
     "name": "Spotify",
@@ -515,22 +515,6 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "Folk n\u2019 Roll Vol. 1: Tales Of Isolation",
-        "url": "https://open.spotify.com/album/5rxYtc0dKFxROEin9UkD9d"
-      },
-      "artists": [
-        {
-          "name": "Ondara",
-          "url": "https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W"
-        }
-      ],
-      "duration_ms": 303626,
-      "name": "Lockdown On Date Night Tuesday",
-      "url": "https://open.spotify.com/track/5l4KZmLaiImt906CJxl5nv"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
         "name": "Save My Life (Radio Edit)",
         "url": "https://open.spotify.com/album/20BcK0UDu480rOworsrKLF"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 217973,
       "name": "Save My Life - Radio Edit",
       "url": "https://open.spotify.com/track/2s5QYW4Ls3GsxWKhEKGraJ"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
+        "name": "Folk n\u2019 Roll Vol. 1: Tales Of Isolation",
+        "url": "https://open.spotify.com/album/5rxYtc0dKFxROEin9UkD9d"
+      },
+      "artists": [
+        {
+          "name": "Ondara",
+          "url": "https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W"
+        }
+      ],
+      "duration_ms": 303626,
+      "name": "Lockdown On Date Night Tuesday",
+      "url": "https://open.spotify.com/track/5l4KZmLaiImt906CJxl5nv"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -803,22 +803,6 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "The Capitalist Blues",
-        "url": "https://open.spotify.com/album/24ZcXwoLdmjsrXTYWPsaXJ"
-      },
-      "artists": [
-        {
-          "name": "Leyla McCalla",
-          "url": "https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y"
-        }
-      ],
-      "duration_ms": 235146,
-      "name": "The Capitalist Blues",
-      "url": "https://open.spotify.com/track/7LPxn9YKOA8K1U6wMzhfc6"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
         "name": "Wildflowers in the Graveyard",
         "url": "https://open.spotify.com/album/4e7AgMaSwpEFUgBOw2aBPS"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 180977,
       "name": "Wildflowers in the Graveyard",
       "url": "https://open.spotify.com/track/0ucT092kKnv71aS4tO8LEK"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
+        "name": "The Capitalist Blues",
+        "url": "https://open.spotify.com/album/24ZcXwoLdmjsrXTYWPsaXJ"
+      },
+      "artists": [
+        {
+          "name": "Leyla McCalla",
+          "url": "https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y"
+        }
+      ],
+      "duration_ms": 235146,
+      "name": "The Capitalist Blues",
+      "url": "https://open.spotify.com/track/7LPxn9YKOA8K1U6wMzhfc6"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "Between the Dirt and the Stars",
-        "url": "https://open.spotify.com/album/2zycZmLSNzFFttOYmBqDYK"
-      },
-      "artists": [
-        {
-          "name": "Mary Chapin Carpenter",
-          "url": "https://open.spotify.com/artist/0qAmeOULjwn04k6jMMeDyr"
-        }
-      ],
-      "duration_ms": 463133,
-      "name": "Between the Dirt and the Stars",
-      "url": "https://open.spotify.com/track/6KVNq8E6WNEzzVG6FKbB67"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
         "name": "Black Cowboys",
         "url": "https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 162473,
       "name": "Lonesome Old River Blues",
       "url": "https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
+        "name": "Between the Dirt and the Stars",
+        "url": "https://open.spotify.com/album/2zycZmLSNzFFttOYmBqDYK"
+      },
+      "artists": [
+        {
+          "name": "Mary Chapin Carpenter",
+          "url": "https://open.spotify.com/artist/0qAmeOULjwn04k6jMMeDyr"
+        }
+      ],
+      "duration_ms": 463133,
+      "name": "Between the Dirt and the Stars",
+      "url": "https://open.spotify.com/track/6KVNq8E6WNEzzVG6FKbB67"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "In Another Life",
-        "url": "https://open.spotify.com/album/2PsEEtCJbG1AfrWeLP6POz"
-      },
-      "artists": [
-        {
-          "name": "Beth Whitney",
-          "url": "https://open.spotify.com/artist/5LASBhBbwWl7iTNL2HQVbu"
-        }
-      ],
-      "duration_ms": 238560,
-      "name": "In Another Life",
-      "url": "https://open.spotify.com/track/1DKzWnbwEwtoAZEFMQ97Ds"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
         "name": "Dig",
         "url": "https://open.spotify.com/album/1hUTpdHFjDm365Py5avBU7"
       },
@@ -1491,18 +1475,18 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "Songs Of",
-        "url": "https://open.spotify.com/album/6g5ItIBzaEAOrpPmbC8qGY"
+        "name": "In Another Life",
+        "url": "https://open.spotify.com/album/2PsEEtCJbG1AfrWeLP6POz"
       },
       "artists": [
         {
-          "name": "Spencer Burton",
-          "url": "https://open.spotify.com/artist/4g86a03cASyc60kG0Rbgjq"
+          "name": "Beth Whitney",
+          "url": "https://open.spotify.com/artist/5LASBhBbwWl7iTNL2HQVbu"
         }
       ],
-      "duration_ms": 235506,
-      "name": "Unmistakable Love",
-      "url": "https://open.spotify.com/track/55nO2n9SV9qxkN8JtN9Tdt"
+      "duration_ms": 238560,
+      "name": "In Another Life",
+      "url": "https://open.spotify.com/track/1DKzWnbwEwtoAZEFMQ97Ds"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -1523,6 +1507,22 @@
       "duration_ms": 234826,
       "name": "Avalon (with Francesco Turrisi)",
       "url": "https://open.spotify.com/track/3cJI6VFdyRdriDVwB0sU3Y"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
+        "name": "Songs Of",
+        "url": "https://open.spotify.com/album/6g5ItIBzaEAOrpPmbC8qGY"
+      },
+      "artists": [
+        {
+          "name": "Spencer Burton",
+          "url": "https://open.spotify.com/artist/4g86a03cASyc60kG0Rbgjq"
+        }
+      ],
+      "duration_ms": 235506,
+      "name": "Unmistakable Love",
+      "url": "https://open.spotify.com/track/55nO2n9SV9qxkN8JtN9Tdt"
     },
     {
       "added_at": "2025-09-02 20:08:27",

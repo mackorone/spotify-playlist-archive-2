@@ -1,12 +1,12 @@
 {
   "description": "This is Bob Dylan. The essential tracks, all in one playlist.",
-  "num_followers": 589641,
+  "num_followers": 589654,
   "original_name": "This Is Bob Dylan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "admPAAAAAADn0XwhcZ22EY9mNY+4+5yE",
+  "snapshot_id": "adrggAAAAADW0agmajkVmRCo+RfL5H8n",
   "tracks": [
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Infidels",
-        "url": "https://open.spotify.com/album/66zadu7BtUnpbkT4iAkaHy"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 378398,
-      "name": "Jokerman",
-      "url": "https://open.spotify.com/track/6cuHkcRUqtQhtJ4sWCkd1q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Times They Are A-Changin'",
         "url": "https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS"
       },
@@ -531,8 +515,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Highway 61 Revisited",
-        "url": "https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD"
+        "name": "Infidels",
+        "url": "https://open.spotify.com/album/66zadu7BtUnpbkT4iAkaHy"
       },
       "artists": [
         {
@@ -540,9 +524,25 @@
           "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
         }
       ],
-      "duration_ms": 210188,
-      "name": "Highway 61 Revisited",
-      "url": "https://open.spotify.com/track/6os5B6xjuke9YfBKH3tu1e"
+      "duration_ms": 378398,
+      "name": "Jokerman",
+      "url": "https://open.spotify.com/track/6cuHkcRUqtQhtJ4sWCkd1q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New Morning",
+        "url": "https://open.spotify.com/album/48efaobqOTbvnlxbETstey"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 163190,
+      "name": "If Not for You",
+      "url": "https://open.spotify.com/track/0bTY3EvTFLdPALso8E7Eyq"
     },
     {
       "added_at": null,
@@ -563,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Morning",
-        "url": "https://open.spotify.com/album/48efaobqOTbvnlxbETstey"
+        "name": "Highway 61 Revisited",
+        "url": "https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD"
       },
       "artists": [
         {
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
         }
       ],
-      "duration_ms": 163190,
-      "name": "If Not for You",
-      "url": "https://open.spotify.com/track/0bTY3EvTFLdPALso8E7Eyq"
+      "duration_ms": 210188,
+      "name": "Highway 61 Revisited",
+      "url": "https://open.spotify.com/track/6os5B6xjuke9YfBKH3tu1e"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oh Mercy",
-        "url": "https://open.spotify.com/album/18ue4s9PsV3WBw7kkzD689"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 272685,
-      "name": "Man in the Long Black Coat",
-      "url": "https://open.spotify.com/track/5NtOAfnwkKo7eAGq7Uap3J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nashville Skyline",
         "url": "https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 203259,
       "name": "Tonight I'll Be Staying Here with You",
       "url": "https://open.spotify.com/track/3uHpPWsNDTpbbqedCRoaQU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oh Mercy",
+        "url": "https://open.spotify.com/album/18ue4s9PsV3WBw7kkzD689"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 272685,
+      "name": "Man in the Long Black Coat",
+      "url": "https://open.spotify.com/track/5NtOAfnwkKo7eAGq7Uap3J"
     },
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oh Mercy",
-        "url": "https://open.spotify.com/album/18ue4s9PsV3WBw7kkzD689"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 305089,
-      "name": "Most of the Time",
-      "url": "https://open.spotify.com/track/7wLzlhL0tb3GhPhnIz7IpQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desire",
         "url": "https://open.spotify.com/album/1T8usYsiGEMPMQOLFgJEbE"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 419189,
       "name": "Isis",
       "url": "https://open.spotify.com/track/5j216bw8PG0EcIdfu92k4l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oh Mercy",
+        "url": "https://open.spotify.com/album/18ue4s9PsV3WBw7kkzD689"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 305089,
+      "name": "Most of the Time",
+      "url": "https://open.spotify.com/track/7wLzlhL0tb3GhPhnIz7IpQ"
     },
     {
       "added_at": null,

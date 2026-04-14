@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3NkkHT.md) - [plain]
 
 > This is BigXthaPlug\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,616 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,695 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3NkkHT.md) - [plain]
 | 49 | [AIN'T NEVER SLOWIN' DOWN \(BONUS\)](https://open.spotify.com/track/6VnsvlXiX0XTqlzmk7P2zZ) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Kevangotbandz](https://open.spotify.com/artist/1h97oEomjTAdihcHgKB8MX), [600 Ent.](https://open.spotify.com/artist/0TrRaMO8jDnJDcva8BWgkU) | [6WA](https://open.spotify.com/album/1ycJGUC68zkGwUHdlCqre0) | 2:21 |
 | 50 | [Feeling Like Dennis](https://open.spotify.com/track/4uf7osy1qeGgYkft0Bbtoa) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Feeling Like Dennis](https://open.spotify.com/album/2bgIZirxXFHBmji9MeX8Lt) | 2:41 |
 
-Snapshot ID: `admPAAAAAACr8aNU5na9Fd6KUqUoBaSE`
+Snapshot ID: `adrggAAAAABcoD6Q1vNHueXMthWxe4bN`

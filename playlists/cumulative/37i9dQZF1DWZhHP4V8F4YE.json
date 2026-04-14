@@ -2233,6 +2233,44 @@
     },
     {
       "album": {
+        "name": "Bha Bha (feat. Colkaze & Ashley Shane)",
+        "url": "https://open.spotify.com/album/10FaphaP0mENadwExVvARL"
+      },
+      "artists": [
+        {
+          "name": "Seeyah",
+          "url": "https://open.spotify.com/artist/1ScheniypyvqpRJLWWYX15"
+        },
+        {
+          "name": "Ch'cco",
+          "url": "https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1"
+        },
+        {
+          "name": "Senzo02",
+          "url": "https://open.spotify.com/artist/7vcWS5ksAb4LpQMGP68ouZ"
+        },
+        {
+          "name": "Dj Cozyy",
+          "url": "https://open.spotify.com/artist/0AWAA2SrVcH1inudHCUA8K"
+        },
+        {
+          "name": "Colkaze",
+          "url": "https://open.spotify.com/artist/3f6UNjHAy4DiEtL0sWLZqq"
+        },
+        {
+          "name": "Ashley Shane",
+          "url": "https://open.spotify.com/artist/36Kcj1slpJrPQzrAbBoJR2"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361178,
+      "name": "Bha Bha (feat. Colkaze & Ashley Shane)",
+      "url": "https://open.spotify.com/track/7KtTerLyAmNlIcnXteqF9N"
+    },
+    {
+      "album": {
         "name": "Bhampa",
         "url": "https://open.spotify.com/album/66O7J1XvlMjXYgVQQJZJ23"
       },
@@ -2776,7 +2814,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 182142,
       "name": "Bobo",
       "url": "https://open.spotify.com/track/48fNM8TUHTZbndUYoWnEUy"
@@ -4812,6 +4850,24 @@
       "duration_ms": 161041,
       "name": "DOGTOOTH",
       "url": "https://open.spotify.com/track/0judK8TqYfvwUohBngUxrE"
+    },
+    {
+      "album": {
+        "name": "CLARITY OF MIND",
+        "url": "https://open.spotify.com/album/2dsbyfeOhmmpzisluBfPKc"
+      },
+      "artists": [
+        {
+          "name": "OMAH LAY",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181942,
+      "name": "DON'T LOVE ME",
+      "url": "https://open.spotify.com/track/6eil8IvG16TIZxHDWDGAOo"
     },
     {
       "album": {
@@ -17150,7 +17206,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 184711,
       "name": "Unhinged",
       "url": "https://open.spotify.com/track/5hvyS23Ya468Sp4VeL48U5"
@@ -17212,7 +17268,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 76269,
       "name": "US",
       "url": "https://open.spotify.com/track/1xonJzRr8OL83dQdxMOqRU"
@@ -17781,6 +17837,36 @@
     },
     {
       "album": {
+        "name": "Watch Me Now! (with NLE Choppa)",
+        "url": "https://open.spotify.com/album/2WeVQRmOQpmfSRt4MlpeK4"
+      },
+      "artists": [
+        {
+          "name": "Ndotz",
+          "url": "https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik"
+        },
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "DJ MAC",
+          "url": "https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc"
+        },
+        {
+          "name": "CrashDummy",
+          "url": "https://open.spotify.com/artist/0pyehJ4fIGvJMD8EXGLUAI"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "Watch Me Now! (with NLE Choppa)",
+      "url": "https://open.spotify.com/track/1hoEI997iy6tutEfF5a9M6"
+    },
+    {
+      "album": {
         "name": "Watch The World Burn",
         "url": "https://open.spotify.com/album/5SjHojBg6zfZHMqWYjFzFE"
       },
@@ -18076,7 +18162,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 156140,
       "name": "What I Like (with Moliy, Ayetian, & Tyga)",
       "url": "https://open.spotify.com/track/6QOOnaoczEeWw4zEICAJyB"
@@ -18608,6 +18694,28 @@
       "duration_ms": 232917,
       "name": "Wondering Why",
       "url": "https://open.spotify.com/track/1OG7o5af3ILKrFkp7pvvb0"
+    },
+    {
+      "album": {
+        "name": "WORSHIP",
+        "url": "https://open.spotify.com/album/5VYH03sAzxNYEb3MZWOeWi"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163055,
+      "name": "WORSHIP",
+      "url": "https://open.spotify.com/track/7L1uMx4wG2A9pnRgb7hjQO"
     },
     {
       "album": {

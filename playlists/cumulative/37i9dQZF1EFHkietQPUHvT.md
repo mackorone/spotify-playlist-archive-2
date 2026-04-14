@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3sTYeZ3X2HX2cjaNDyKRcP">Bill Maybury</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-108 songs - 5 hr 28 min
+110 songs - 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [bugfood](https://open.spotify.com/track/3s5ztgTkbaWTYuiLCgf3SY) | [Alissic](https://open.spotify.com/artist/0xl41ilVNOin4ycHsggk7u) | [bugfood](https://open.spotify.com/album/52xufJVqlIC2itNpk3Hc8r) | 3:26 | 2024-02-26 |  |
 | [Butterflies](https://open.spotify.com/track/0tSEQO8Drqe2DI7SRsnKqi) | [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [Thee Unknown](https://open.spotify.com/album/2Jkcr5p1FkmY1vYM5WPJtk) | 2:51 | 2024-09-22 |  |
 | [Butterflies](https://open.spotify.com/track/2gCZpfBPmMQ26t6yVPYMA1) | [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [Butterflies](https://open.spotify.com/album/2tKcHyeDAbtdoOJ6EpoCXR) | 2:51 | 2024-09-03 | 2024-09-23 |
+| [Can’t Pull Me Down](https://open.spotify.com/track/4ALvOe1nO9IADhZmclYz4t) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [WILDFIRE](https://open.spotify.com/album/7rg0Uyz5QcUSBDRpzHAbQN) | 2:21 | 2026-04-13 |  |
 | [Cherry Gum](https://open.spotify.com/track/1cUG4UvqGEWSMtSt2TvK1m) | [Lenii](https://open.spotify.com/artist/63X5yxHWDkAl13ZIOWHV94) | [Cherry Gum](https://open.spotify.com/album/4NC5vzI0hgh3c9t0bcr4KV) | 2:48 | 2024-02-26 |  |
 | [Circus](https://open.spotify.com/track/0HKV81jHT0tFxoLLYskYOr) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Amber Van Day](https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf) | [Circus](https://open.spotify.com/album/5gJ8mM7bAsCGEwm47Ak99J) | 2:32 | 2024-02-26 |  |
 | [CLASSICO](https://open.spotify.com/track/2kxFdDHh6BM0892RzpvA7u) | [Íñigo Quintero](https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm) | [CLASSICO](https://open.spotify.com/album/1uJhaFnc580OWUORK9HJpG) | 3:01 | 2024-11-21 |  |
@@ -92,6 +93,7 @@
 | [pause](https://open.spotify.com/track/1abgG2jgztGM55dZBAZRHh) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [1](https://open.spotify.com/album/6iDWPMotr0jVMUr5ZfPhjE) | 2:37 | 2025-06-29 |  |
 | [Perfect on Me](https://open.spotify.com/track/3aABZMfYArSNlD1muV1wsK) | [Ryan Mack](https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt) | [Perfect on Me](https://open.spotify.com/album/6y79bH31Bg9wxSeNRTl5WL) | 2:44 | 2024-02-26 |  |
 | [Pieces](https://open.spotify.com/track/58pdFtaryYVwyHsjYDGw4W) | [Milo Meskens](https://open.spotify.com/artist/2os0uvECng2MYlxDj5iEbc) | [Plimsoll Road](https://open.spotify.com/album/6S5eFUOBD9mToIr9iIW32u) | 3:56 | 2024-02-26 |  |
+| [Please Don't Hate Me](https://open.spotify.com/track/1yvgEFgtTMU5jz9m6GXj9t) | [Aaron Rowe](https://open.spotify.com/artist/1wskVZXoUsbxB5mBhR9Oke) | [Please Don't Hate Me](https://open.spotify.com/album/14EBLrQbRhhzyCMQBSlhmn) | 3:21 | 2026-04-13 |  |
 | [proud of me](https://open.spotify.com/track/35TYlXNyDkHjM6uiPBXkHj) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [bleeding heart](https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au) | 3:32 | 2024-05-12 |  |
 | [proud of me](https://open.spotify.com/track/3Uzk7dsPm1kZdWqzLP0vGw) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Bleeding Heart \(with Track\-by\-Track Commentary\)](https://open.spotify.com/album/26cd7AEyGAPbguPDvoKtub) | 3:32 | 2024-05-15 | 2024-06-08 |
 | [Rain](https://open.spotify.com/track/22p47jS1KK3VFwxTk6b7Gu) | [Adam Klobi](https://open.spotify.com/artist/1qxyhXlGfhiCzhNitLgSbI) | [Rain](https://open.spotify.com/album/7hv3rn6CsQxaGdX61qkFIr) | 4:08 | 2025-06-26 |  |

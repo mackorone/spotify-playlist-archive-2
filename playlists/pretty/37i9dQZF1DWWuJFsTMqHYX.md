@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 
 > The hottest music from the hottest desert\. Cover: Tinariwen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 464,777 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 464,878 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 | 38 | [Raoud](https://open.spotify.com/track/6xSRAG0RwyuQGrg0VSiuR4) | [Daraa Tribes](https://open.spotify.com/artist/1hEXYUp6EfNSPICIwe4xZg) | [Alwan](https://open.spotify.com/album/32ZjBN4YiB8MBUa5AltVjh) | 4:17 |
 | 39 | [Lagi](https://open.spotify.com/track/6T0wxfTmgWw67QM6IJQvU4) | [Aziza Brahim](https://open.spotify.com/artist/0ydDa6afIYote2AtmgSycS) | [Soutak](https://open.spotify.com/album/4X7wSphcqgl8gvqdnOQkbB) | 5:53 |
 | 40 | [A Lamèn](https://open.spotify.com/track/4bT1rl9bnULJw7ivrXozfQ) | [Lobi Traoré](https://open.spotify.com/artist/5uycig9ettxM7vWsZt4Rzp) | [Rainy Season Blues](https://open.spotify.com/album/01PrHxFNvBdEZr99c03s3M) | 2:21 |
-| 41 | [Soixante Trois](https://open.spotify.com/track/2PY1sEINloyS5qE2c8pZ9M) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Idrache \(Traces Of The Past\)](https://open.spotify.com/album/7jb5uGv2a578i7xRM063ZZ) | 5:13 |
-| 42 | [Amtten](https://open.spotify.com/track/5MXzZkpE5nsFE3opObETpZ) | [Kel Dades](https://open.spotify.com/artist/78F4JH9dNT2bBVEzRgvFW7) | [Egharmenw](https://open.spotify.com/album/0kWLXcsPvATAWq9XCEORTn) | 4:48 |
+| 41 | [Amtten](https://open.spotify.com/track/5MXzZkpE5nsFE3opObETpZ) | [Kel Dades](https://open.spotify.com/artist/78F4JH9dNT2bBVEzRgvFW7) | [Egharmenw](https://open.spotify.com/album/0kWLXcsPvATAWq9XCEORTn) | 4:48 |
+| 42 | [Soixante Trois](https://open.spotify.com/track/2PY1sEINloyS5qE2c8pZ9M) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Idrache \(Traces Of The Past\)](https://open.spotify.com/album/7jb5uGv2a578i7xRM063ZZ) | 5:13 |
 | 43 | [Alghalem](https://open.spotify.com/track/2CGi0kPFzrErHlYjzQpLAh) | [Terakaft](https://open.spotify.com/artist/0UtqyB9qf6oA6B7SeTjLue) | [Aratan n Azawad](https://open.spotify.com/album/0MnMc9NEsJcHjsUv2GXqb9) | 3:41 |
 | 44 | [Taryet](https://open.spotify.com/track/3mVFTZGjfus9XbxQhNai4y) | [Tarwa N\-Tiniri](https://open.spotify.com/artist/2P3kENKNn238gnbgv8gKez) | [Taryet](https://open.spotify.com/album/0hkzlHUqNYoMrdRcTFllJf) | 5:41 |
 | 45 | [Baraka](https://open.spotify.com/track/1aCV7ocnKXsLSb0oX2dmup) | [Aziza Brahim](https://open.spotify.com/artist/0ydDa6afIYote2AtmgSycS) | [Abbar el Hamada](https://open.spotify.com/album/1TVWhiqo2BlNO1rxB1exn3) | 3:51 |

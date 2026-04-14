@@ -1,6 +1,6 @@
 {
   "description": "Hardstyle in het Nederlands. Feest!",
-  "num_followers": 87029,
+  "num_followers": 87040,
   "original_name": "Nederlandse Hardstyle",
   "owner": {
     "name": "Spotify",
@@ -935,6 +935,26 @@
     {
       "added_at": "2026-04-02 22:00:25",
       "album": {
+        "name": "Het Is Een Nacht (Total Loss Remix)",
+        "url": "https://open.spotify.com/album/3xUfmOr4zK9Q5KdoIxC1V3"
+      },
+      "artists": [
+        {
+          "name": "Arjon Oostrom",
+          "url": "https://open.spotify.com/artist/2sdP2pb74y3kf44RxZwaCb"
+        },
+        {
+          "name": "Dr Rude",
+          "url": "https://open.spotify.com/artist/5akubyqg9eYtnCtDEeJz2s"
+        }
+      ],
+      "duration_ms": 257202,
+      "name": "Het Is Een Nacht - Total Loss Remix",
+      "url": "https://open.spotify.com/track/7F17y60qAsDiOmWj5XZOhQ"
+    },
+    {
+      "added_at": "2026-04-02 22:00:25",
+      "album": {
         "name": "Nog Un Likkie! (Matt Ardeo & PartyTigers Remix)",
         "url": "https://open.spotify.com/album/1L9rITrHvWleou3YsiDAQx"
       },
@@ -955,26 +975,6 @@
       "duration_ms": 171200,
       "name": "Nog Un Likkie! - Matt Ardeo & PartyTigers Remix",
       "url": "https://open.spotify.com/track/6MkAsFZT1l2MmUZnDtNix7"
-    },
-    {
-      "added_at": "2026-04-02 22:00:25",
-      "album": {
-        "name": "Het Is Een Nacht (Total Loss Remix)",
-        "url": "https://open.spotify.com/album/3xUfmOr4zK9Q5KdoIxC1V3"
-      },
-      "artists": [
-        {
-          "name": "Arjon Oostrom",
-          "url": "https://open.spotify.com/artist/2sdP2pb74y3kf44RxZwaCb"
-        },
-        {
-          "name": "Dr Rude",
-          "url": "https://open.spotify.com/artist/5akubyqg9eYtnCtDEeJz2s"
-        }
-      ],
-      "duration_ms": 257202,
-      "name": "Het Is Een Nacht - Total Loss Remix",
-      "url": "https://open.spotify.com/track/7F17y60qAsDiOmWj5XZOhQ"
     },
     {
       "added_at": "2026-04-02 22:00:25",

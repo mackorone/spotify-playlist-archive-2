@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Rock para cantar en todos lados! Siddhartha en portada.",
-  "num_followers": 38217,
+  "num_followers": 38233,
   "original_name": "Pop Rock Latino",
   "owner": {
     "name": "Spotify",
@@ -491,6 +491,22 @@
     {
       "added_at": "2026-03-27 06:00:11",
       "album": {
+        "name": "PIRRI",
+        "url": "https://open.spotify.com/album/4DWUUTlu2iKVG56uK3WIhB"
+      },
+      "artists": [
+        {
+          "name": "Ralphie Choo",
+          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
+        }
+      ],
+      "duration_ms": 192214,
+      "name": "PIRRI",
+      "url": "https://open.spotify.com/track/4PKnU6PICOeVRSJYVYDBDz"
+    },
+    {
+      "added_at": "2026-03-27 06:00:11",
+      "album": {
         "name": "Ca\u00edda Libre (feat. Robe)",
         "url": "https://open.spotify.com/album/2ChN0TP75AcjsIBP5x5tQs"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 211590,
       "name": "Ca\u00edda Libre (feat. Robe)",
       "url": "https://open.spotify.com/track/72srxlWIL6dDou3Po23Fw2"
-    },
-    {
-      "added_at": "2026-03-27 06:00:11",
-      "album": {
-        "name": "PIRRI",
-        "url": "https://open.spotify.com/album/4DWUUTlu2iKVG56uK3WIhB"
-      },
-      "artists": [
-        {
-          "name": "Ralphie Choo",
-          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
-        }
-      ],
-      "duration_ms": 192214,
-      "name": "PIRRI",
-      "url": "https://open.spotify.com/track/4PKnU6PICOeVRSJYVYDBDz"
     },
     {
       "added_at": "2026-03-27 06:00:11",
@@ -615,18 +615,18 @@
     {
       "added_at": "2026-03-27 06:00:11",
       "album": {
-        "name": "CUERPOS, Vol. 1",
-        "url": "https://open.spotify.com/album/08oCrWpJJhLBSRqd6WczEV"
+        "name": "La Puerta",
+        "url": "https://open.spotify.com/album/3uW3dr9cYAvk6fouQY0EzH"
       },
       "artists": [
         {
-          "name": "Babasonicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
         }
       ],
-      "duration_ms": 226181,
-      "name": "TIEMPO OFF",
-      "url": "https://open.spotify.com/track/6VZrGs2utNJM028PV2gPJB"
+      "duration_ms": 183109,
+      "name": "La Puerta",
+      "url": "https://open.spotify.com/track/5JM0MaVqz9I38pRzbo9U6l"
     },
     {
       "added_at": "2026-03-27 06:00:11",
@@ -663,18 +663,18 @@
     {
       "added_at": "2026-03-27 06:00:11",
       "album": {
-        "name": "La Puerta",
-        "url": "https://open.spotify.com/album/3uW3dr9cYAvk6fouQY0EzH"
+        "name": "CUERPOS, Vol. 1",
+        "url": "https://open.spotify.com/album/08oCrWpJJhLBSRqd6WczEV"
       },
       "artists": [
         {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+          "name": "Babasonicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
         }
       ],
-      "duration_ms": 183109,
-      "name": "La Puerta",
-      "url": "https://open.spotify.com/track/5JM0MaVqz9I38pRzbo9U6l"
+      "duration_ms": 226181,
+      "name": "TIEMPO OFF",
+      "url": "https://open.spotify.com/track/6VZrGs2utNJM028PV2gPJB"
     },
     {
       "added_at": "2026-03-27 06:00:11",
@@ -727,22 +727,6 @@
     {
       "added_at": "2026-03-27 06:00:11",
       "album": {
-        "name": "ESO Que Nos Trajo a Abbey Road",
-        "url": "https://open.spotify.com/album/0avtZa7A9cmR4bNgYJkG2s"
-      },
-      "artists": [
-        {
-          "name": "Los Mesoneros",
-          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
-        }
-      ],
-      "duration_ms": 198051,
-      "name": "Memoria Muscular - Desde Abbey Road",
-      "url": "https://open.spotify.com/track/729ABU6pAHqCuAk8YXeSl0"
-    },
-    {
-      "added_at": "2026-03-27 06:00:11",
-      "album": {
         "name": "Miel de Azar",
         "url": "https://open.spotify.com/album/1qpILF6cHlPJzUOvZfdIma"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 192197,
       "name": "Como Queremos",
       "url": "https://open.spotify.com/track/0Zcd8XxgKeRNQAUIpsHr7c"
+    },
+    {
+      "added_at": "2026-03-27 06:00:11",
+      "album": {
+        "name": "ESO Que Nos Trajo a Abbey Road",
+        "url": "https://open.spotify.com/album/0avtZa7A9cmR4bNgYJkG2s"
+      },
+      "artists": [
+        {
+          "name": "Los Mesoneros",
+          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
+        }
+      ],
+      "duration_ms": 198051,
+      "name": "Memoria Muscular - Desde Abbey Road",
+      "url": "https://open.spotify.com/track/729ABU6pAHqCuAk8YXeSl0"
     },
     {
       "added_at": "2026-03-27 06:00:11",
@@ -1007,18 +1007,22 @@
     {
       "added_at": "2026-03-27 06:00:11",
       "album": {
-        "name": "Soy Tuyo",
-        "url": "https://open.spotify.com/album/4b9QYeAeZ6apmWZpCdaC80"
+        "name": "Miel",
+        "url": "https://open.spotify.com/album/62w772P9uxu5l8OmVWpj6Q"
       },
       "artists": [
         {
-          "name": "Blnko",
-          "url": "https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d"
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+        },
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
         }
       ],
-      "duration_ms": 159227,
-      "name": "Soy Tuyo",
-      "url": "https://open.spotify.com/track/1RBd8r7gC8ZYrEHAKITkw3"
+      "duration_ms": 217135,
+      "name": "Miel",
+      "url": "https://open.spotify.com/track/6QUXKT69EsdxOKVzz3z8E9"
     },
     {
       "added_at": "2026-03-27 06:00:11",
@@ -1039,22 +1043,18 @@
     {
       "added_at": "2026-03-27 06:00:11",
       "album": {
-        "name": "Miel",
-        "url": "https://open.spotify.com/album/62w772P9uxu5l8OmVWpj6Q"
+        "name": "Soy Tuyo",
+        "url": "https://open.spotify.com/album/4b9QYeAeZ6apmWZpCdaC80"
       },
       "artists": [
         {
-          "name": "Los Aptos",
-          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
-        },
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+          "name": "Blnko",
+          "url": "https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d"
         }
       ],
-      "duration_ms": 217135,
-      "name": "Miel",
-      "url": "https://open.spotify.com/track/6QUXKT69EsdxOKVzz3z8E9"
+      "duration_ms": 159227,
+      "name": "Soy Tuyo",
+      "url": "https://open.spotify.com/track/1RBd8r7gC8ZYrEHAKITkw3"
     },
     {
       "added_at": "2026-03-27 06:00:11",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2026-03-27 06:00:11",
       "album": {
-        "name": "Pronta Entrega",
-        "url": "https://open.spotify.com/album/2adpz3njMHM4rxS3VQkmZp"
+        "name": "Todo est\u00e1 pasando ahora",
+        "url": "https://open.spotify.com/album/2d3AHkakmD2pD6UTNe5Sj2"
       },
       "artists": [
         {
-          "name": "Indios",
-          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
         }
       ],
-      "duration_ms": 209500,
-      "name": "Pronta Entrega",
-      "url": "https://open.spotify.com/track/29oJaTMqGqyvhesh8kWttZ"
+      "duration_ms": 228911,
+      "name": "Todo est\u00e1 pasando ahora",
+      "url": "https://open.spotify.com/track/4QrrOXttnTFPpLRf5PyZwb"
     },
     {
       "added_at": "2026-03-27 06:00:11",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-03-27 06:00:11",
       "album": {
-        "name": "Todo est\u00e1 pasando ahora",
-        "url": "https://open.spotify.com/album/2d3AHkakmD2pD6UTNe5Sj2"
-      },
-      "artists": [
-        {
-          "name": "Koino Yokan",
-          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
-        }
-      ],
-      "duration_ms": 228911,
-      "name": "Todo est\u00e1 pasando ahora",
-      "url": "https://open.spotify.com/track/4QrrOXttnTFPpLRf5PyZwb"
-    },
-    {
-      "added_at": "2026-03-27 06:00:11",
-      "album": {
         "name": "No Volver\u00e9 </3",
         "url": "https://open.spotify.com/album/5AVhXiB1Bzn2317WedCMvL"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 171636,
       "name": "No Volver\u00e9 </3",
       "url": "https://open.spotify.com/track/6wVU5qPXg1YoaEa5p1QHCU"
+    },
+    {
+      "added_at": "2026-03-27 06:00:11",
+      "album": {
+        "name": "Pronta Entrega",
+        "url": "https://open.spotify.com/album/2adpz3njMHM4rxS3VQkmZp"
+      },
+      "artists": [
+        {
+          "name": "Indios",
+          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
+        }
+      ],
+      "duration_ms": 209500,
+      "name": "Pronta Entrega",
+      "url": "https://open.spotify.com/track/29oJaTMqGqyvhesh8kWttZ"
     },
     {
       "added_at": "2026-03-27 06:00:11",
@@ -1291,18 +1291,22 @@
     {
       "added_at": "2026-03-27 06:00:11",
       "album": {
-        "name": "San Lucas",
-        "url": "https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1"
+        "name": "Aeropuerto",
+        "url": "https://open.spotify.com/album/1oJ0XdIDG1WQOYvP13VMhn"
       },
       "artists": [
         {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
         }
       ],
-      "duration_ms": 247196,
-      "name": "San Lucas",
-      "url": "https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO"
+      "duration_ms": 212313,
+      "name": "Aeropuerto",
+      "url": "https://open.spotify.com/track/49tB7r0lAVLPTk6pZoqpNP"
     }
   ],
   "unique_name": "Pop Rock Latino",

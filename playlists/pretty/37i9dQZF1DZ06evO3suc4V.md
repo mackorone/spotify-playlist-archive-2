@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3suc4V.md) - [plain]
 
 > This is Ravyn Lenae\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,510 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,513 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,11 +17,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3suc4V.md) - [plain]
 | 7 | [Cry about it! \(feat\. Ravyn Lenae\)](https://open.spotify.com/track/6Vj5GNXyZPXZ6Hh5NASfHH) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Cry about it! \(feat\. Ravyn Lenae\)](https://open.spotify.com/album/4gbcThRmONElpN3nvdqBWd) | 2:51 |
 | 8 | [Free Room \(feat\. Appleby\)](https://open.spotify.com/track/3HEn14GqygLCNfroOnYiZb) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Appleby](https://open.spotify.com/artist/4Y2i9jhU3jW0PVsvTLIbWX) | [Moon Shoes EP](https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE) | 3:37 |
 | 9 | [Bobby](https://open.spotify.com/track/0XZ2XxO2rfGIhcDWqj2riz) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Reputation / Bobby](https://open.spotify.com/album/1ydjDKjXy4jVuPwybonR7L) | 3:31 |
-| 10 | [Days](https://open.spotify.com/track/1ObS8I1dTlxdYM59TsZAmi) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 4:03 |
+| 10 | [One Wish \(feat\. Childish Gambino\)](https://open.spotify.com/track/4jaNeCjRjTCekyaErvjnRX) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:15 |
 | 11 | [Computer Luv \(feat\. Steve Lacy\)](https://open.spotify.com/track/2wsa9Re66HqlOkgb3DpnBX) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Crush EP](https://open.spotify.com/album/7jxrYnrAa06rekcs1cxp7i) | 2:42 |
 | 12 | [Sticky](https://open.spotify.com/track/1rfGO3N4DPGodJLSSY9Re5) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Sticky](https://open.spotify.com/album/3bbWimQMs8QB4634y9BRDd) | 3:16 |
 | 13 | [Romeo + Ravyn Lenae](https://open.spotify.com/track/5kXkNj56XlSPdHVj5RW5O9) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 2:12 |
-| 14 | [One Wish \(feat\. Childish Gambino\)](https://open.spotify.com/track/4jaNeCjRjTCekyaErvjnRX) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:15 |
+| 14 | [Days](https://open.spotify.com/track/1ObS8I1dTlxdYM59TsZAmi) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 4:03 |
 | 15 | [Satellites](https://open.spotify.com/track/4IVtwWBNj9NEBNR7tkXDqb) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [HYPNOS](https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ) | 4:25 |
 | 16 | [Video \(feat\. Ravyn Lenae\)](https://open.spotify.com/track/7CPz32jHbtNIZev8vpa9yb) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 3:12 |
 | 17 | [4 Leaf Clover \(feat\. Steve Lacy\)](https://open.spotify.com/track/1To829onYmL63wLNtU7Zm8) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Crush EP](https://open.spotify.com/album/7jxrYnrAa06rekcs1cxp7i) | 3:40 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3suc4V.md) - [plain]
 | 44 | [Remember \(feat\. Ravyn Lenae & Scrufizzer\)](https://open.spotify.com/track/0Pr6mooJDSPrUJDwP8ZXUW) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Remember \(feat\. Ravyn Lenae & Scrufizzer\)](https://open.spotify.com/album/0kZqWs6NFg0w3xY2yMD0YQ) | 2:45 |
 | 45 | [Right of Spring](https://open.spotify.com/track/3V9VhLOCj3ieDA0ZC9lWNh) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Moon Shoes EP](https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE) | 2:43 |
 | 46 | [Baby](https://open.spotify.com/track/1AQtWYUKvPw5wYThfi5Uyo) | [monte booker](https://open.spotify.com/artist/4p75GTNEXwsAAkpweMVtKo), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Soulection White Label \- Monte Booker](https://open.spotify.com/album/6bzDf8hYZbCuwjLoEPRvtE) | 3:06 |
-| 47 | [Hiatus \(Waiting\) \- EP Version](https://open.spotify.com/track/7H8Cdh16KSfyOjya2hv2Q3) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Midnight Moonlight EP](https://open.spotify.com/album/5NylLkiLTn2sF3U8mZ9bd7) | 1:36 |
+| 47 | [Genesis \- EP Version](https://open.spotify.com/track/1z8VQNzZ8mETuKjW1szX1A) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Midnight Moonlight EP](https://open.spotify.com/album/5NylLkiLTn2sF3U8mZ9bd7) | 3:04 |
 | 48 | [Rewind \(from Insecure: Music From The HBO Original Series, Season 4\)](https://open.spotify.com/track/0OZieZaaIuwudxctCijFnY) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Raedio](https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD) | [Rewind \(from Insecure: Music From The HBO Original Series, Season 4\)](https://open.spotify.com/album/1zmUyVNNiF8vTkV4L98n7G) | 2:33 |
 | 49 | [Moon Shoes](https://open.spotify.com/track/7hMUEYcx1aApliI6CAqvBS) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Moon Shoes EP](https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE) | 2:47 |
 | 50 | [Bicycle Race](https://open.spotify.com/track/5t0pSNrxjTnBuy5t2YAXFT) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bicycle Race](https://open.spotify.com/album/3YmkB6eb4G3fslN8Q1Z6ls) | 2:35 |
 
-Snapshot ID: `admPAAAAAADiGIEGQPcwNtaaKcMeB6JI`
+Snapshot ID: `adrggAAAAACJT4KMLHFGf6dqGVNtx0D/`

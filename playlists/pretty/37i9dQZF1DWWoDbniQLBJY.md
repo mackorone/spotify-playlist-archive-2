@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWoDbniQLBJY.md) - [plain]
 
 > Aquí viven las acústicas\. Cover: Valentina Rico
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,799,977 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,799,770 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWoDbniQLBJY.md) - [plain]
 | 43 | [DE SASTRE](https://open.spotify.com/track/4UQ70VRSltB7PLBTXcvxtv) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc), [FABIAN](https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG) | [DE SASTRE](https://open.spotify.com/album/4QWe6IxRC0jkG03pNdYmAp) | 4:10 |
 | 44 | [Tusa](https://open.spotify.com/track/2KhQWu0rUU6zGu53c6nkVs) | [Las Alas](https://open.spotify.com/artist/7EDkJGsKXojvsTgh8Yt1ar) | [Tusa](https://open.spotify.com/album/6MwzNJsdOyTx6b6dbAv1wc) | 2:33 |
 | 45 | [pa' que sueñes](https://open.spotify.com/track/4KuSic9vPLVLgB5lCfeFQy) | [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1), [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC), [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [pa' que sueñes](https://open.spotify.com/album/1bGXKrzpyFq1TVzNOr6Fbq) | 2:50 |
-| 46 | [Me Haces Falta](https://open.spotify.com/track/59ebZTJzcCoO8vc5El0YJx) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Me Haces Falta](https://open.spotify.com/album/1Wzk17m6qpnIduGOGhXxhS) | 3:35 |
-| 47 | [Volví a Nacer \- Live from Spotify](https://open.spotify.com/track/3BEuTuiAgJLROYMELwLujm) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Spotify Sessions](https://open.spotify.com/album/1t3e3Py0eA1SPRC1vETI3i) | 4:18 |
+| 46 | [Volví a Nacer \- Live from Spotify](https://open.spotify.com/track/3BEuTuiAgJLROYMELwLujm) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Spotify Sessions](https://open.spotify.com/album/1t3e3Py0eA1SPRC1vETI3i) | 4:18 |
+| 47 | [Me Haces Falta](https://open.spotify.com/track/59ebZTJzcCoO8vc5El0YJx) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Me Haces Falta](https://open.spotify.com/album/1Wzk17m6qpnIduGOGhXxhS) | 3:35 |
 | 48 | [De Camino](https://open.spotify.com/track/0OnfT8ZB33ST5fRBzJjaIo) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1) | [Agua Del Pozo](https://open.spotify.com/album/08C8LxgyBqG84Xv8Wbrokd) | 3:26 |
 | 49 | [SUBEME LA RADIO](https://open.spotify.com/track/0NwNDC0W5mn6naEhJYwq6d) | [Aberola](https://open.spotify.com/artist/0i3cbCgMSQS3tXMVFXoaTC) | [SUBEME LA RADIO](https://open.spotify.com/album/4OtgtFKL8VgTfRH1TuNAGo) | 3:29 |
 | 50 | [Nunca Es Suficiente \- Spotify Session](https://open.spotify.com/track/6rYXXaxMjvHpIFfEWze5lm) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Natalia Lafourcade \(Spotify Session\)](https://open.spotify.com/album/0s9tY7YgGKtTxBuWPiJFFj) | 4:40 |

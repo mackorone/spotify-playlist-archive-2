@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,298 likes - 49 songs - 3 hr 8 min
+[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,299 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,5 +57,6 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 | 47 | [Copies](https://open.spotify.com/track/3ZfXF6vUNS9229TSoNXUCA) | [Mat Partridge](https://open.spotify.com/artist/4PFTJXMdTx6k7qPUVfv6jy) | [Destroying Is Easy](https://open.spotify.com/album/5SBt9G3F3IIoEr3whAzM5w) | 4:55 |
 | 48 | [Pancakes](https://open.spotify.com/track/5BRqccEaTPHXI0zAzp8Hqr) | [Sunday Lemonade](https://open.spotify.com/artist/7fTdpGoJdp9BPY5Mdo82vj) | [Pancakes](https://open.spotify.com/album/2rwC62yt7guLH8WAMGqNeg) | 4:02 |
 | 49 | [So I Go](https://open.spotify.com/track/3TeB8lRNddWlypSvwXf1R6) | [Coya](https://open.spotify.com/artist/4Sk7nS0b73o1fMxiTYxd7x), [T Henry](https://open.spotify.com/artist/6V42pwtgf8J5RNdgHuh4sU) | [So I Go](https://open.spotify.com/album/6HJ9CPcUoUxB73jp4pBsFy) | 3:08 |
+| 50 | [Love \- Acoustic](https://open.spotify.com/track/2FTY7R6ej2pDK6Zn3IIoLx) | [Xellay](https://open.spotify.com/artist/2BchMZ58NcNDLLerRnF0NR) | [Xellay Acoustic](https://open.spotify.com/album/1EvK4l0At1nk7POZjevTyX) | 3:31 |
 
-Snapshot ID: `AAAkKB9A28dITJRiju52C3S1lSNUfmoJ`
+Snapshot ID: `AAAkKdMIenMcraTP71qFQPWOi+uhSGhV`

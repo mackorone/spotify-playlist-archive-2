@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB4Jn6piqKS.md) - [plain]
 
 > Stompers, floaters and floorshakers \- these are the tracks that defined the Northern Soul movement.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,386 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,400 likes - 100 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,10 +66,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB4Jn6piqKS.md) - [plain]
 | 56 | [The Who Who Song \(Nobody But My Sweet Baby\)](https://open.spotify.com/track/1C4sO5BITSyC3q8zsgsxBd) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [The Ultimate Jackie Wilson](https://open.spotify.com/album/1NXxURGbIYbunQfXmChHAl) | 2:51 |
 | 57 | [It'll Never Be Over For Me](https://open.spotify.com/track/27FZzhVCtPLwtYrnVp0npA) | [Timi Yuro](https://open.spotify.com/artist/2JyxVsEiD9HVRM7CtFaLCK) | [Something Bad On My Mind](https://open.spotify.com/album/0xpALbNypvcqlsNVaprqtc) | 2:55 |
 | 58 | [In Orbit](https://open.spotify.com/track/1EiF7TFtceLo52Ds13eBhX) | [Joy Lovejoy](https://open.spotify.com/artist/4XJFw8T6JwLYIjCGWR6VUk) | [Wigan Casino 40th Anniversary Album](https://open.spotify.com/album/2sPZKGxvg2RZF4d2ioEYjz) | 2:23 |
-| 59 | [Lonely for You Baby](https://open.spotify.com/track/5ygQ9rWpRvPohptLMshLki) | [Sam Dees](https://open.spotify.com/artist/25kvpgmZP82Hn719lpTrlX) | [I Need You Girl / Lonely for You Baby](https://open.spotify.com/album/3O5SUnJj3sjjpzujPHkd9a) | 2:52 |
-| 60 | [I Walked Away](https://open.spotify.com/track/6pbrgU3wtMWM4FkyOtZnnb) | [Bobby Paris](https://open.spotify.com/artist/5AEzIXzU4LV8Q3MKTKUXv9) | [For Northern Soul Collectors: Volume 1](https://open.spotify.com/album/5LfuUAzs0DljxBH9unjGW9) | 3:10 |
-| 61 | [I Can't Hold On](https://open.spotify.com/track/6iHL1iozNGVexinzZwacyj) | [Lorraine Chandler](https://open.spotify.com/artist/0tNm55o29GmXLI4J5QptKh) | [The Northern Soul Story Vol.3: Blackpool Mecca](https://open.spotify.com/album/5GuuWoBcMTtfbIZ8Fudik6) | 2:24 |
-| 62 | [The Girl Across the Street](https://open.spotify.com/track/5fWk1AxtnjbWEwUH6midXi) | [Moses Smith](https://open.spotify.com/artist/1q5eOP35Tzhrxj84h7eNzj) | [The Northern Side of Philly Soul](https://open.spotify.com/album/5dXHhdu8IbqOVcsZJ8eeJw) | 4:12 |
+| 59 | [I Walked Away](https://open.spotify.com/track/6pbrgU3wtMWM4FkyOtZnnb) | [Bobby Paris](https://open.spotify.com/artist/5AEzIXzU4LV8Q3MKTKUXv9) | [For Northern Soul Collectors: Volume 1](https://open.spotify.com/album/5LfuUAzs0DljxBH9unjGW9) | 3:10 |
+| 60 | [I Can't Hold On](https://open.spotify.com/track/6iHL1iozNGVexinzZwacyj) | [Lorraine Chandler](https://open.spotify.com/artist/0tNm55o29GmXLI4J5QptKh) | [The Northern Soul Story Vol.3: Blackpool Mecca](https://open.spotify.com/album/5GuuWoBcMTtfbIZ8Fudik6) | 2:24 |
+| 61 | [The Girl Across the Street](https://open.spotify.com/track/5fWk1AxtnjbWEwUH6midXi) | [Moses Smith](https://open.spotify.com/artist/1q5eOP35Tzhrxj84h7eNzj) | [The Northern Side of Philly Soul](https://open.spotify.com/album/5dXHhdu8IbqOVcsZJ8eeJw) | 4:12 |
+| 62 | [Lonely for You Baby](https://open.spotify.com/track/5ygQ9rWpRvPohptLMshLki) | [Sam Dees](https://open.spotify.com/artist/25kvpgmZP82Hn719lpTrlX) | [I Need You Girl / Lonely for You Baby](https://open.spotify.com/album/3O5SUnJj3sjjpzujPHkd9a) | 2:52 |
 | 63 | [Looking For You](https://open.spotify.com/track/0EFrOXwsP6U6HKDKisN6Y7) | [Garnet Mimms](https://open.spotify.com/artist/4ZCIgBrYKaZyj4j1H0Lr4E) | [Warm And Soulful](https://open.spotify.com/album/5tU3m1c7UMAN6mCWQJTbyZ) | 2:25 |
 | 64 | [I Go to Pieces \(Everytime\)](https://open.spotify.com/track/36WkgL8NTUyz3z1GTfNhpV) | [Gerri Grainger](https://open.spotify.com/artist/6IH0S0jKDXEw66DTlWUnEl) | [The Northern Soul Story Vol.4: Wigan Casino](https://open.spotify.com/album/6PgTpu4A3QmoR79tNmk4Ml) | 2:29 |
 | 65 | [Live It Up](https://open.spotify.com/track/19Wks5GfADcWu3DbumZVdO) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Northern Soul: 20 Original Classics](https://open.spotify.com/album/0WaJQ19J0GfyGfuVIE1SrK) | 2:24 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB4Jn6piqKS.md) - [plain]
 | 68 | [Suspicion](https://open.spotify.com/track/7neHlDOzLf0qFgEzeK8L8t) | [The Originals](https://open.spotify.com/artist/11EZGTWr2pY0VZPlWokAbl) | [Northern Soul: 20 Original Classics](https://open.spotify.com/album/0WaJQ19J0GfyGfuVIE1SrK) | 3:04 |
 | 69 | [Something New to Do](https://open.spotify.com/track/48JQJY3aeaqxcB9cV6QzzV) | [Bobby Sheen](https://open.spotify.com/artist/4nXmXA3DSTnMbVlZcjUCcv) | [After Hours The Collection: Northern Soul Masters](https://open.spotify.com/album/5iJaTFZeejbvdeDSpA65E5) | 2:33 |
 | 70 | [My Love Is Getting Stronger](https://open.spotify.com/track/7kN2uACD2OngvXvTmHDzJ0) | [Cliff Nobles](https://open.spotify.com/artist/0i0ELbteoVYQDbSNCU3Spz) | [After Hours The Collection: Northern Soul Masters](https://open.spotify.com/album/5iJaTFZeejbvdeDSpA65E5) | 2:51 |
-| 71 | [Gotta Have Your Love](https://open.spotify.com/track/4BkHHw26fIlHEdcUqeCkgv) | [The Sapphires](https://open.spotify.com/artist/7hsuVq0DQonl3PnP7qkfvP) | [Best Of The Sapphires](https://open.spotify.com/album/5oaRhxwbicB0jaeEHYhq8q) | 2:16 |
-| 72 | [I'm Com'un Home in the Morn'un](https://open.spotify.com/track/7nf9RHDlrnDJe9vYW8cIJK) | [Lou Pride](https://open.spotify.com/artist/3AEOeIFNFooiCVzG5BD5kZ) | [Keep On Believing](https://open.spotify.com/album/0OPpQiUK9bw0DdkBgFB9NL) | 5:19 |
+| 71 | [I'm Com'un Home in the Morn'un](https://open.spotify.com/track/7nf9RHDlrnDJe9vYW8cIJK) | [Lou Pride](https://open.spotify.com/artist/3AEOeIFNFooiCVzG5BD5kZ) | [Keep On Believing](https://open.spotify.com/album/0OPpQiUK9bw0DdkBgFB9NL) | 5:19 |
+| 72 | [Gotta Have Your Love](https://open.spotify.com/track/4BkHHw26fIlHEdcUqeCkgv) | [The Sapphires](https://open.spotify.com/artist/7hsuVq0DQonl3PnP7qkfvP) | [Best Of The Sapphires](https://open.spotify.com/album/5oaRhxwbicB0jaeEHYhq8q) | 2:16 |
 | 73 | [Soul Meeting](https://open.spotify.com/track/4n46NRBjkQizu6j5gGDw7x) | [Soul Clan](https://open.spotify.com/artist/3fv6GA2FEaH0u23PS66uFK) | [Soul Clan](https://open.spotify.com/album/3a6YJcsLKVftntzf3eWALy) | 3:27 |
 | 74 | [Too Late](https://open.spotify.com/track/7F7iU4t2IGL5VrmVOASbpW) | [Larry Williams & Johnny Watson](https://open.spotify.com/artist/20HVf2j1u1qObPT1ZZERcl) | [The Best Of The Northern Soul Story](https://open.spotify.com/album/1e5GWj2QMByTH63cp8WOU4) | 2:20 |
 | 75 | [I Surrender](https://open.spotify.com/track/4vwwhYgJU23tJPrBZiKL6U) | [Eddie Holman](https://open.spotify.com/artist/4hLuzWVCPicO3nNHfFvB32) | [Soul Satisfaction](https://open.spotify.com/album/3WPeP1PIrkGLGnnUg2tuCe) | 2:05 |

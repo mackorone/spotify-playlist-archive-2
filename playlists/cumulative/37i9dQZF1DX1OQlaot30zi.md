@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di MACE con Papa V e Pitta, Shiva, Capo Plaza, Neima Ezza e molti altri.
 
-7,072 songs - 13 day 0 hr 40 min
+7,073 songs - 13 day 0 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5493,6 +5493,7 @@
 | [Rose Senza Spine](https://open.spotify.com/track/2XJc9OFlT2gWcieSgxlfHP) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt) | [Rose Senza Spine](https://open.spotify.com/album/4LCVI9qr0bxmKQUfX7OaIH) | 2:06 | 2022-08-31 | 2022-09-16 |
 | [ROSSA PAZZIA](https://open.spotify.com/track/0HujC63EUTRRqa5r2ZgG06) | [Libra](https://open.spotify.com/artist/4SFXMkFYlcf3Y6oUImo0ms) | [ROSSA PAZZIA](https://open.spotify.com/album/6aAEVpIHUpEf4YLpsz0N3x) | 3:45 | 2025-07-24 | 2025-09-05 |
 | [Rosso](https://open.spotify.com/track/2XqyK1IrxLGqkSFvpoWNPr) | [Abe Kayn](https://open.spotify.com/artist/1U7o0SH2ec5y6KnMJgyjGn) | [Rosso](https://open.spotify.com/album/66DCvDJXPtpxuthndzTjZq) | 3:08 | 2022-09-22 | 2022-10-07 |
+| [ROSSO COME IL FANGO](https://open.spotify.com/track/7d8hSEH3UBc0phpisP1fh9) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [ROSSO COME IL FANGO](https://open.spotify.com/album/1lxCspGT29F9wNy6dI9bKe) | 2:50 | 2026-04-13 |  |
 | [Rosso Fuoco](https://open.spotify.com/track/5dpmfVEMO4Lb2lHSEzpK68) | [Ensi](https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP), [Nerone](https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn), [Brava Gente](https://open.spotify.com/artist/4mGFiauNMsVwgTFpcDfr7T) | [Rosso Fuoco](https://open.spotify.com/album/488oHGsY9aP0vynkOBwZCE) | 3:47 | 2024-04-18 | 2024-05-10 |
 | [ROTATION \(feat\. Young Kofla\)](https://open.spotify.com/track/1QqlaHGqCmHVHHBPkiNRqg) | [Zayre](https://open.spotify.com/artist/6I3qqyBWKsB1lTc9el9TLr), [Young Kofla](https://open.spotify.com/artist/6NcPuIV1hhaupm3wGsSx1R) | [ROTATION \(feat\. Young Kofla\)](https://open.spotify.com/album/7wKKzRqUzBRh6rFQtaeswy) | 3:32 | 2023-06-01 | 2023-06-23 |
 | [ROTOBALLE](https://open.spotify.com/track/1HfTEDAPG2WyKYszcjLmJO) | [Tres](https://open.spotify.com/artist/01Stk7kK74J8jQuk9Th1bF), [Zizzu](https://open.spotify.com/artist/0zpSxvKs0CT4aktl3RAs0v), [Desi](https://open.spotify.com/artist/3lLCfTnwwcvB6Tw9eKs1bZ) | [ROTOBALLE](https://open.spotify.com/album/0Nc9LDcM3Ud0pqKFeVjYbr) | 3:31 | 2025-04-17 | 2025-05-09 |

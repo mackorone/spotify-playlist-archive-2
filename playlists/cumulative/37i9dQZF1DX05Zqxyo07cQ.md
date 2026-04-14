@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-1,026 songs - 2 day 1 hr 4 min
+1,027 songs - 2 day 1 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -852,6 +852,7 @@
 | [Somna](https://open.spotify.com/track/2pxZlxVk1PWbI2tw7j0QnD) | [Drift State](https://open.spotify.com/artist/5AtLRQGCNysxJF5JQIzBRV) | [Somna](https://open.spotify.com/album/0F5ugqecVnynFMBMd7gBgs) | 3:02 | 2025-06-03 | 2025-12-23 |
 | [Somniantes](https://open.spotify.com/track/2oRPG3rScsUtAwJ5W0Ij6m) | [Enma](https://open.spotify.com/artist/65t1qirLuVn4JyCfkiPUIc) | [Somniantes](https://open.spotify.com/album/6oXKW8Jaida4M5Y0A9rQRI) | 2:41 | 2024-07-09 | 2025-04-26 |
 | [Somnium](https://open.spotify.com/track/1AAarJ2ZVp2JNvoRY43V41) | [Rosa Løvstrøm](https://open.spotify.com/artist/13f3uLVCX4o7wjqwtVlDwC) | [Somnium](https://open.spotify.com/album/3A13wz1QjS5umrWC7sEA7L) | 2:14 | 2023-03-23 | 2023-05-06 |
+| [Somnolence](https://open.spotify.com/track/3oV8YW1inAjaRJeT6z4wVe) | [Dream Agent](https://open.spotify.com/artist/3c38G2ko0FlIdDYqW0Xqx4) | [Somnolence](https://open.spotify.com/album/5QM7r1Z4sHLn55HW8FkQJD) | 2:25 | 2026-04-03 |  |
 | [Somnolence](https://open.spotify.com/track/0tC5fBzBASYQGoMtIZJ38I) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Somnolence](https://open.spotify.com/album/2Jsc7fJFeqZMFMoNw5OBfN) | 2:47 | 2025-07-09 |  |
 | [Somnolent Mori](https://open.spotify.com/track/7dl6vG0X75fB9J5l7b494p) | [Umi no Yume](https://open.spotify.com/artist/2CbTni1UIAt2eoi6jMWaaQ) | [Somnolent Mori](https://open.spotify.com/album/1czqzODAZjH1TClXpW61qz) | 3:39 | 2025-04-09 | 2025-11-06 |
 | [Somnora](https://open.spotify.com/track/4IMdK8Hf9uJDwDe2v0LuU2) | [Evensia](https://open.spotify.com/artist/2Idc0PVXaZL5nPv8IjcJru) | [Somnora](https://open.spotify.com/album/1KqjR3EvzTUSaCFy8HYi79) | 2:46 | 2026-01-27 | 2026-03-12 |
@@ -1010,7 +1011,7 @@
 | [Waves of Eternity](https://open.spotify.com/track/4rin1uFnoE4y6NhM2YQylb) | [Tranquil Nova](https://open.spotify.com/artist/1arRPBqUsxPJ0YxL7eZ1QY) | [Waves of Eternity](https://open.spotify.com/album/2msrHKpBqJ4BGr1Vs4yEH9) | 2:40 | 2025-01-08 | 2025-06-25 |
 | [Way of Shadows](https://open.spotify.com/track/71mN9aVMlm4vBZ6YzKPKeR) | [Astral Shade](https://open.spotify.com/artist/42c3aLrVih68JMreBuRe8m) | [Cloudless Night](https://open.spotify.com/album/2PNoGpXnFx0qIxy5VXJboe) | 2:55 | 2023-03-23 | 2023-10-05 |
 | [Weightless Dreams](https://open.spotify.com/track/3ruyqcT2OOhu1RjNRxdvt5) | [Moon Lit](https://open.spotify.com/artist/75jx9HI2w6eOB1ZcWLky5D) | [Weightless Dreams](https://open.spotify.com/album/3d2qBapHwvc0BVRDzyicWL) | 3:13 | 2025-07-09 |  |
-| [Weightless Hours](https://open.spotify.com/track/0co6X6NlJx2knESquaPjnS) | [Dreamhaven](https://open.spotify.com/artist/2LzHq1MhzyPCKQnzfk1R5Z) | [Weightless Hours](https://open.spotify.com/album/0CW9ihaepJWNxQci3niiHr) | 2:35 | 2025-07-24 |  |
+| [Weightless Hours](https://open.spotify.com/track/0co6X6NlJx2knESquaPjnS) | [Dreamhaven](https://open.spotify.com/artist/2LzHq1MhzyPCKQnzfk1R5Z) | [Weightless Hours](https://open.spotify.com/album/0CW9ihaepJWNxQci3niiHr) | 2:35 | 2025-07-24 | 2026-04-14 |
 | [Well of Light](https://open.spotify.com/track/1S0KCoelHmhj1GMFJDwflR) | [Tom Schiller](https://open.spotify.com/artist/6BxwLDTDUg7sDUQFATt4wZ) | [Well of Light](https://open.spotify.com/album/0foZ95FxbFjITQu2XRRE5D) | 2:42 | 2025-12-17 |  |
 | [What's Best For You](https://open.spotify.com/track/3YPMSEyEJkYpvQB1kcs5Rl) | [Esmay Gouin](https://open.spotify.com/artist/7FmXiPBaufqqZHoBmGEiCx) | [What's Best For You](https://open.spotify.com/album/2k0IJZavMYJ2Pi3ZRymD86) | 3:38 | 2023-03-23 | 2024-02-09 |
 | [When I am with thee](https://open.spotify.com/track/3bBGo3Le7RDVWYqA7xkwgy) | [IGRAINE](https://open.spotify.com/artist/12J6IQCCPzkgAa28w9sZeb) | [When I am with thee](https://open.spotify.com/album/2kyX5xQGvjkrJACDbeGH0U) | 2:55 | 2023-03-23 | 2023-05-06 |

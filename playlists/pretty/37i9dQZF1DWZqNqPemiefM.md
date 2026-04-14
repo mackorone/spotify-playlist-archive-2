@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 
 > The artisanal ambient and alternative sounds make you float in the air\. / 上質なアンビエントとオルタナティブミュージック cover: D.A.N.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,698 likes - 168 songs - 11 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,738 likes - 168 songs - 11 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

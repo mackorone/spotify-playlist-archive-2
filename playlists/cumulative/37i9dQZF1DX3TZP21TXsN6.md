@@ -4,7 +4,7 @@
 
 > Nieuw: Fle, YG24, Rseis en meer…
 
-510 songs - 22 hr 5 min
+511 songs - 22 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -518,5 +518,6 @@
 | [Zoveel gegeven](https://open.spotify.com/track/2GweTDbz78W7ZaX73O5ae6) | [Rz](https://open.spotify.com/artist/0Uicf2CoBVxIQZxFXuXlO8) | [Zoveel gegeven](https://open.spotify.com/album/5XlzvxKkSxThyVZQBK2Uqp) | 2:20 | 2025-09-04 | 2025-09-12 |
 | [Zuidas](https://open.spotify.com/track/5BI3C47nhlC9POwIYdoJtb) | [Stanga](https://open.spotify.com/artist/6cnlzMlMZJtZMKROe8wNwZ), [JP](https://open.spotify.com/artist/11TOhzdSJgaGjhf92hBGpG) | [Zuidas](https://open.spotify.com/album/7dKFIqEAkn1ZCrziPnsdcU) | 3:08 | 2025-09-04 | 2025-10-17 |
 | [Zwieber](https://open.spotify.com/track/715N6tEkREfOg8AIexS3PX) | [Jc](https://open.spotify.com/artist/2BI5TSwRkOvgTrXKTLVEwh) | [Zwieber](https://open.spotify.com/album/1XwDCKus4KpeM4OC0ZPQbz) | 2:30 | 2026-01-15 | 2026-02-20 |
+| [ÇA DIT QUOI?](https://open.spotify.com/track/0g58B4xPC7OMlfuPaRtxui) | [JAZZ BRAK](https://open.spotify.com/artist/2tRYjTylYjQaBWdn0MA54U), [DIKKE](https://open.spotify.com/artist/6lZ9MW0eEVePXdpa87Wag4) | [ÇA DIT QUOI?](https://open.spotify.com/album/3br7OYuGxCLYsiKxn8IWKo) | 3:56 | 2026-04-13 |  |
 
 \*This playlist was first scraped on 2025-07-20. Prior content cannot be recovered.

@@ -1,6 +1,6 @@
 {
   "description": "de sfeer van 6 uur in de ochtend in de buitenlucht",
-  "num_followers": 191031,
+  "num_followers": 191027,
   "original_name": "rustig aan",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2026-04-02 22:00:57",
       "album": {
-        "name": "Wither",
-        "url": "https://open.spotify.com/album/67cUnpKyp9JRjQXOuXfvCM"
-      },
-      "artists": [
-        {
-          "name": "Sevens",
-          "url": "https://open.spotify.com/artist/16TJwfQFZXTDDkPwG1FOzd"
-        }
-      ],
-      "duration_ms": 180173,
-      "name": "Wither",
-      "url": "https://open.spotify.com/track/75tuLoo93ovd5lSDWrTdpi"
-    },
-    {
-      "added_at": "2026-04-02 22:00:57",
-      "album": {
         "name": "For Mary",
         "url": "https://open.spotify.com/album/0VjLyzT1oN7aQqdkazdPCh"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 263422,
       "name": "Only You",
       "url": "https://open.spotify.com/track/49VfcjjkNQA822cDE1r5iy"
+    },
+    {
+      "added_at": "2026-04-02 22:00:57",
+      "album": {
+        "name": "Wither",
+        "url": "https://open.spotify.com/album/67cUnpKyp9JRjQXOuXfvCM"
+      },
+      "artists": [
+        {
+          "name": "Sevens",
+          "url": "https://open.spotify.com/artist/16TJwfQFZXTDDkPwG1FOzd"
+        }
+      ],
+      "duration_ms": 180173,
+      "name": "Wither",
+      "url": "https://open.spotify.com/track/75tuLoo93ovd5lSDWrTdpi"
     },
     {
       "added_at": "2026-04-02 22:00:57",
@@ -307,22 +307,6 @@
     {
       "added_at": "2026-04-02 22:00:57",
       "album": {
-        "name": "Leap Year",
-        "url": "https://open.spotify.com/album/2qiB8YSEJw27QY68Pyx1uO"
-      },
-      "artists": [
-        {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
-        }
-      ],
-      "duration_ms": 345040,
-      "name": "Leap Year",
-      "url": "https://open.spotify.com/track/5G6sgBzBCmZKeCg0R2x67t"
-    },
-    {
-      "added_at": "2026-04-02 22:00:57",
-      "album": {
         "name": "The Joy of Coincidences",
         "url": "https://open.spotify.com/album/4c2E4n34cBqGr2kVzSmDD6"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 200260,
       "name": "Strange Rooms",
       "url": "https://open.spotify.com/track/2I5r34P8jfleAwAGOLaHbY"
+    },
+    {
+      "added_at": "2026-04-02 22:00:57",
+      "album": {
+        "name": "Leap Year",
+        "url": "https://open.spotify.com/album/2qiB8YSEJw27QY68Pyx1uO"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "duration_ms": 345040,
+      "name": "Leap Year",
+      "url": "https://open.spotify.com/track/5G6sgBzBCmZKeCg0R2x67t"
     },
     {
       "added_at": "2026-04-02 22:00:57",
@@ -355,22 +355,6 @@
     {
       "added_at": "2026-04-02 22:00:57",
       "album": {
-        "name": "The Sun Will Rise",
-        "url": "https://open.spotify.com/album/3QC6ggv8vSOBWdIwkLU7BQ"
-      },
-      "artists": [
-        {
-          "name": "Rhys Lewis",
-          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
-        }
-      ],
-      "duration_ms": 183226,
-      "name": "The Sun Will Rise",
-      "url": "https://open.spotify.com/track/2zEh9FgszAX9ms1rdOeDX0"
-    },
-    {
-      "added_at": "2026-04-02 22:00:57",
-      "album": {
         "name": "Shadowplay",
         "url": "https://open.spotify.com/album/3NmPE01wzAEeAjPdJIFEsq"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 269549,
       "name": "Shadowplay",
       "url": "https://open.spotify.com/track/2JIhlHcaY2TuzN8o9nomgV"
+    },
+    {
+      "added_at": "2026-04-02 22:00:57",
+      "album": {
+        "name": "The Sun Will Rise",
+        "url": "https://open.spotify.com/album/3QC6ggv8vSOBWdIwkLU7BQ"
+      },
+      "artists": [
+        {
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+        }
+      ],
+      "duration_ms": 183226,
+      "name": "The Sun Will Rise",
+      "url": "https://open.spotify.com/track/2zEh9FgszAX9ms1rdOeDX0"
     },
     {
       "added_at": "2026-04-02 22:00:57",
@@ -591,22 +591,18 @@
     {
       "added_at": "2026-04-02 22:00:57",
       "album": {
-        "name": "Richardson (feat. Cassandra Jenkins)",
-        "url": "https://open.spotify.com/album/72T10FajAmf5Wu0M9scOpp"
+        "name": "Shape Of The Dunes",
+        "url": "https://open.spotify.com/album/0iJBWKAPrHKMncHoYuGwPe"
       },
       "artists": [
         {
-          "name": "Shura",
-          "url": "https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT"
-        },
-        {
-          "name": "Cassandra Jenkins",
-          "url": "https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik"
+          "name": "Liza Weald",
+          "url": "https://open.spotify.com/artist/4pE0J1Lxb3hXti8fOrmt9C"
         }
       ],
-      "duration_ms": 224093,
-      "name": "Richardson - feat. Cassandra Jenkins",
-      "url": "https://open.spotify.com/track/4Jrstw4tzEoFCE5hZMug96"
+      "duration_ms": 193445,
+      "name": "Shape Of The Dunes",
+      "url": "https://open.spotify.com/track/3O5ryOKDo5ua9qQgFZxRe9"
     },
     {
       "added_at": "2026-04-02 22:00:57",
@@ -627,18 +623,22 @@
     {
       "added_at": "2026-04-02 22:00:57",
       "album": {
-        "name": "Shape Of The Dunes",
-        "url": "https://open.spotify.com/album/0iJBWKAPrHKMncHoYuGwPe"
+        "name": "Richardson (feat. Cassandra Jenkins)",
+        "url": "https://open.spotify.com/album/72T10FajAmf5Wu0M9scOpp"
       },
       "artists": [
         {
-          "name": "Liza Weald",
-          "url": "https://open.spotify.com/artist/4pE0J1Lxb3hXti8fOrmt9C"
+          "name": "Shura",
+          "url": "https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT"
+        },
+        {
+          "name": "Cassandra Jenkins",
+          "url": "https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik"
         }
       ],
-      "duration_ms": 193445,
-      "name": "Shape Of The Dunes",
-      "url": "https://open.spotify.com/track/3O5ryOKDo5ua9qQgFZxRe9"
+      "duration_ms": 224093,
+      "name": "Richardson - feat. Cassandra Jenkins",
+      "url": "https://open.spotify.com/track/4Jrstw4tzEoFCE5hZMug96"
     },
     {
       "added_at": "2026-04-02 22:00:57",
@@ -739,6 +739,22 @@
     {
       "added_at": "2026-04-02 22:00:57",
       "album": {
+        "name": "All That We Are",
+        "url": "https://open.spotify.com/album/60B3oN31JFl2u2r6ryGg9i"
+      },
+      "artists": [
+        {
+          "name": "tjels",
+          "url": "https://open.spotify.com/artist/47rSKopkbamYzXzYY7PoIX"
+        }
+      ],
+      "duration_ms": 204250,
+      "name": "All That We Are",
+      "url": "https://open.spotify.com/track/2oXRZaEegYDvZxozbDtgcW"
+    },
+    {
+      "added_at": "2026-04-02 22:00:57",
+      "album": {
         "name": "Rush Hour Traffic",
         "url": "https://open.spotify.com/album/5ADcIb3FaxCChD4dhjbg1y"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 172920,
       "name": "Never Again",
       "url": "https://open.spotify.com/track/0KwMTCtE9g1K3e6VoOjf0A"
-    },
-    {
-      "added_at": "2026-04-02 22:00:57",
-      "album": {
-        "name": "All That We Are",
-        "url": "https://open.spotify.com/album/60B3oN31JFl2u2r6ryGg9i"
-      },
-      "artists": [
-        {
-          "name": "tjels",
-          "url": "https://open.spotify.com/artist/47rSKopkbamYzXzYY7PoIX"
-        }
-      ],
-      "duration_ms": 204250,
-      "name": "All That We Are",
-      "url": "https://open.spotify.com/track/2oXRZaEegYDvZxozbDtgcW"
     },
     {
       "added_at": "2026-04-02 22:00:57",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-04-02 22:00:57",
       "album": {
-        "name": "Lonely Heart (Acoustic Version)",
-        "url": "https://open.spotify.com/album/44PryjNkl5NNhD0FLYVLnq"
-      },
-      "artists": [
-        {
-          "name": "No\u00e9mie Wolfs",
-          "url": "https://open.spotify.com/artist/5sJWIuRMqeiMooXNf6pavo"
-        }
-      ],
-      "duration_ms": 249493,
-      "name": "Lonely Heart - Acoustic Version",
-      "url": "https://open.spotify.com/track/7sfNzHnuDdH2xd6TAWoRCe"
-    },
-    {
-      "added_at": "2026-04-02 22:00:57",
-      "album": {
         "name": "A Soundtrack to a Never-Ending Story",
         "url": "https://open.spotify.com/album/2Ej1zX3c1wVBDIJnNk62Dp"
       },
@@ -855,6 +839,22 @@
     {
       "added_at": "2026-04-02 22:00:57",
       "album": {
+        "name": "Lonely Heart (Acoustic Version)",
+        "url": "https://open.spotify.com/album/44PryjNkl5NNhD0FLYVLnq"
+      },
+      "artists": [
+        {
+          "name": "No\u00e9mie Wolfs",
+          "url": "https://open.spotify.com/artist/5sJWIuRMqeiMooXNf6pavo"
+        }
+      ],
+      "duration_ms": 249493,
+      "name": "Lonely Heart - Acoustic Version",
+      "url": "https://open.spotify.com/track/7sfNzHnuDdH2xd6TAWoRCe"
+    },
+    {
+      "added_at": "2026-04-02 22:00:57",
+      "album": {
         "name": "Dark Sky Reserve",
         "url": "https://open.spotify.com/album/6g6bUo6UVWTOU7AamVvS1m"
       },
@@ -867,6 +867,22 @@
       "duration_ms": 173343,
       "name": "Tree-lined Lanes",
       "url": "https://open.spotify.com/track/3eKf0AO16jh53M2IKF3KLR"
+    },
+    {
+      "added_at": "2026-04-02 22:00:57",
+      "album": {
+        "name": "U&I",
+        "url": "https://open.spotify.com/album/38ke3Rhd86DdDcdnXYNqHB"
+      },
+      "artists": [
+        {
+          "name": "Isaac Roux",
+          "url": "https://open.spotify.com/artist/7tPhoEe9VD1m37VqUiC6hA"
+        }
+      ],
+      "duration_ms": 153164,
+      "name": "U&I",
+      "url": "https://open.spotify.com/track/05NozMI1lUuXSdZrnXW1wi"
     },
     {
       "added_at": "2026-04-02 22:00:57",
@@ -891,38 +907,6 @@
     {
       "added_at": "2026-04-02 22:00:57",
       "album": {
-        "name": "U&I",
-        "url": "https://open.spotify.com/album/38ke3Rhd86DdDcdnXYNqHB"
-      },
-      "artists": [
-        {
-          "name": "Isaac Roux",
-          "url": "https://open.spotify.com/artist/7tPhoEe9VD1m37VqUiC6hA"
-        }
-      ],
-      "duration_ms": 153164,
-      "name": "U&I",
-      "url": "https://open.spotify.com/track/05NozMI1lUuXSdZrnXW1wi"
-    },
-    {
-      "added_at": "2026-04-02 22:00:57",
-      "album": {
-        "name": "Try Try Try (Acoustic Version)",
-        "url": "https://open.spotify.com/album/0hcMwG9nEiYXMlm5o15Rff"
-      },
-      "artists": [
-        {
-          "name": "No\u00e9mie Wolfs",
-          "url": "https://open.spotify.com/artist/5sJWIuRMqeiMooXNf6pavo"
-        }
-      ],
-      "duration_ms": 179981,
-      "name": "Try Try Try - Acoustic Version",
-      "url": "https://open.spotify.com/track/3tW8fWg7hHY62dPs8qxyjc"
-    },
-    {
-      "added_at": "2026-04-02 22:00:57",
-      "album": {
         "name": "The Farm",
         "url": "https://open.spotify.com/album/40J82quNYkW4TBE5ebbHPs"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 302533,
       "name": "The End",
       "url": "https://open.spotify.com/track/408Y9eM7N3ZRodHyvxxHyM"
+    },
+    {
+      "added_at": "2026-04-02 22:00:57",
+      "album": {
+        "name": "Try Try Try (Acoustic Version)",
+        "url": "https://open.spotify.com/album/0hcMwG9nEiYXMlm5o15Rff"
+      },
+      "artists": [
+        {
+          "name": "No\u00e9mie Wolfs",
+          "url": "https://open.spotify.com/artist/5sJWIuRMqeiMooXNf6pavo"
+        }
+      ],
+      "duration_ms": 179981,
+      "name": "Try Try Try - Acoustic Version",
+      "url": "https://open.spotify.com/track/3tW8fWg7hHY62dPs8qxyjc"
     },
     {
       "added_at": "2026-04-02 22:00:57",
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-04-02 22:00:57",
       "album": {
-        "name": "Queen-Size Life",
-        "url": "https://open.spotify.com/album/7e5CvNi9fnhAIJ9ntZnlDB"
-      },
-      "artists": [
-        {
-          "name": "Mountaineer",
-          "url": "https://open.spotify.com/artist/5ayGJVSrPdzT28dxwsxgOj"
-        }
-      ],
-      "duration_ms": 216690,
-      "name": "Queen-Size Life",
-      "url": "https://open.spotify.com/track/3Ci3PhwCqFUTNlfQ59Nj3z"
-    },
-    {
-      "added_at": "2026-04-02 22:00:57",
-      "album": {
         "name": "Mother",
         "url": "https://open.spotify.com/album/3XMCVhIHXHKrKaI2YL88Qy"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 194000,
       "name": "Mother",
       "url": "https://open.spotify.com/track/5DRhpU3EnIGQFqyUCNBHZP"
+    },
+    {
+      "added_at": "2026-04-02 22:00:57",
+      "album": {
+        "name": "Queen-Size Life",
+        "url": "https://open.spotify.com/album/7e5CvNi9fnhAIJ9ntZnlDB"
+      },
+      "artists": [
+        {
+          "name": "Mountaineer",
+          "url": "https://open.spotify.com/artist/5ayGJVSrPdzT28dxwsxgOj"
+        }
+      ],
+      "duration_ms": 216690,
+      "name": "Queen-Size Life",
+      "url": "https://open.spotify.com/track/3Ci3PhwCqFUTNlfQ59Nj3z"
     },
     {
       "added_at": "2026-04-02 22:00:57",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2026-04-02 22:00:57",
       "album": {
-        "name": "Getting Up",
-        "url": "https://open.spotify.com/album/3AzIKoISg41u5XXtchOyFI"
-      },
-      "artists": [
-        {
-          "name": "Noa Lee",
-          "url": "https://open.spotify.com/artist/4YGchyGbwAekTbhOxczQqM"
-        }
-      ],
-      "duration_ms": 274719,
-      "name": "Getting Up",
-      "url": "https://open.spotify.com/track/1JVFosBNwHoMJayaSG3wra"
-    },
-    {
-      "added_at": "2026-04-02 22:00:57",
-      "album": {
         "name": "Bleeding Colours",
         "url": "https://open.spotify.com/album/7sfZa50WlIFYIYaCICcrF6"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 220543,
       "name": "You",
       "url": "https://open.spotify.com/track/4iyMFaZq5EYehqeZo0VPhJ"
+    },
+    {
+      "added_at": "2026-04-02 22:00:57",
+      "album": {
+        "name": "Getting Up",
+        "url": "https://open.spotify.com/album/3AzIKoISg41u5XXtchOyFI"
+      },
+      "artists": [
+        {
+          "name": "Noa Lee",
+          "url": "https://open.spotify.com/artist/4YGchyGbwAekTbhOxczQqM"
+        }
+      ],
+      "duration_ms": 274719,
+      "name": "Getting Up",
+      "url": "https://open.spotify.com/track/1JVFosBNwHoMJayaSG3wra"
     },
     {
       "added_at": "2026-04-02 22:00:57",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-04-02 22:00:57",
       "album": {
-        "name": "Tardigrades",
-        "url": "https://open.spotify.com/album/6VI768BQ6QW6sSo6yswiYd"
-      },
-      "artists": [
-        {
-          "name": "Slow Res",
-          "url": "https://open.spotify.com/artist/0w5Ntkxa6z2RF00gXNRBrF"
-        }
-      ],
-      "duration_ms": 190631,
-      "name": "Tardigrades",
-      "url": "https://open.spotify.com/track/1Kihs06ERAUQiliX9AdK5Z"
-    },
-    {
-      "added_at": "2026-04-02 22:00:57",
-      "album": {
         "name": "Boat",
         "url": "https://open.spotify.com/album/27Df3AJdoQ94z0CD6XmKqA"
       },
@@ -1203,6 +1187,22 @@
     {
       "added_at": "2026-04-02 22:00:57",
       "album": {
+        "name": "Tardigrades",
+        "url": "https://open.spotify.com/album/6VI768BQ6QW6sSo6yswiYd"
+      },
+      "artists": [
+        {
+          "name": "Slow Res",
+          "url": "https://open.spotify.com/artist/0w5Ntkxa6z2RF00gXNRBrF"
+        }
+      ],
+      "duration_ms": 190631,
+      "name": "Tardigrades",
+      "url": "https://open.spotify.com/track/1Kihs06ERAUQiliX9AdK5Z"
+    },
+    {
+      "added_at": "2026-04-02 22:00:57",
+      "album": {
         "name": "Sunflower Sunset",
         "url": "https://open.spotify.com/album/2ViF7zmhrLihawIK3rJ9u2"
       },
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2026-04-02 22:00:57",
       "album": {
-        "name": "Sincerely, Sevens",
-        "url": "https://open.spotify.com/album/5v8vQHWZctWcuM6VpuLAFn"
-      },
-      "artists": [
-        {
-          "name": "Sevens",
-          "url": "https://open.spotify.com/artist/16TJwfQFZXTDDkPwG1FOzd"
-        }
-      ],
-      "duration_ms": 250306,
-      "name": "Exit Wounds",
-      "url": "https://open.spotify.com/track/4ExjFndsVBO5i2mAB5Eutf"
-    },
-    {
-      "added_at": "2026-04-02 22:00:57",
-      "album": {
         "name": "Time Drifts",
         "url": "https://open.spotify.com/album/4rySmePDloJBmc1nEYDk61"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 237635,
       "name": "Embers",
       "url": "https://open.spotify.com/track/3QDvbfhuz5KyCbpEava0vw"
+    },
+    {
+      "added_at": "2026-04-02 22:00:57",
+      "album": {
+        "name": "Sincerely, Sevens",
+        "url": "https://open.spotify.com/album/5v8vQHWZctWcuM6VpuLAFn"
+      },
+      "artists": [
+        {
+          "name": "Sevens",
+          "url": "https://open.spotify.com/artist/16TJwfQFZXTDDkPwG1FOzd"
+        }
+      ],
+      "duration_ms": 250306,
+      "name": "Exit Wounds",
+      "url": "https://open.spotify.com/track/4ExjFndsVBO5i2mAB5Eutf"
     },
     {
       "added_at": "2026-04-02 22:00:57",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2026-04-02 22:00:57",
       "album": {
+        "name": "the bed-ties",
+        "url": "https://open.spotify.com/album/2R8Fri8R7n1q3za8By1MnL"
+      },
+      "artists": [
+        {
+          "name": "MAYA MARIA",
+          "url": "https://open.spotify.com/artist/7HPzShbwmLfVSs5Yd3bvvy"
+        }
+      ],
+      "duration_ms": 220080,
+      "name": "Way Back",
+      "url": "https://open.spotify.com/track/6PS7UXENl8M47HDDg3uW1x"
+    },
+    {
+      "added_at": "2026-04-02 22:00:57",
+      "album": {
         "name": "Where's The Fun In That?",
         "url": "https://open.spotify.com/album/4b4p6k9ibGvXrIaVk7BDgg"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 184715,
       "name": "The Distance",
       "url": "https://open.spotify.com/track/0DQgWaerMRpgyB0VEZsFO2"
-    },
-    {
-      "added_at": "2026-04-02 22:00:57",
-      "album": {
-        "name": "the bed-ties",
-        "url": "https://open.spotify.com/album/2R8Fri8R7n1q3za8By1MnL"
-      },
-      "artists": [
-        {
-          "name": "MAYA MARIA",
-          "url": "https://open.spotify.com/artist/7HPzShbwmLfVSs5Yd3bvvy"
-        }
-      ],
-      "duration_ms": 220080,
-      "name": "Way Back",
-      "url": "https://open.spotify.com/track/6PS7UXENl8M47HDDg3uW1x"
     },
     {
       "added_at": "2026-04-02 22:00:57",

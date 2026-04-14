@@ -558,7 +558,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 203386,
       "name": "Cloud",
       "url": "https://open.spotify.com/track/10WR5K1KXPTw0fkHoc7Iah"
@@ -1924,7 +1924,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 194786,
       "name": "My Destiny",
       "url": "https://open.spotify.com/track/2AttvRNr7CW8KEYOaK2ElA"
@@ -2188,7 +2188,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-13",
+      "date_removed": null,
       "duration_ms": 232653,
       "name": "Paint on Spring",
       "url": "https://open.spotify.com/track/6HpDaHOApCbCgu5AyyRv6v"
@@ -2598,6 +2598,24 @@
       "duration_ms": 163733,
       "name": "Spring Bloom",
       "url": "https://open.spotify.com/track/3ZGKRl24T92ouc13ttGer4"
+    },
+    {
+      "album": {
+        "name": "FLOWERING",
+        "url": "https://open.spotify.com/album/0e4X6KNw1He0mlZ2BK9Loz"
+      },
+      "artists": [
+        {
+          "name": "AKMU",
+          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190293,
+      "name": "Spring Colors",
+      "url": "https://open.spotify.com/track/1p8jrcf4HP5RtXS9h0yVuU"
     },
     {
       "album": {
@@ -3137,6 +3155,24 @@
     },
     {
       "album": {
+        "name": "O_ne",
+        "url": "https://open.spotify.com/album/7J2D83uEMfzBtzjDOAEcTt"
+      },
+      "artists": [
+        {
+          "name": "J_ust",
+          "url": "https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241146,
+      "name": "Sweet - Acc Version",
+      "url": "https://open.spotify.com/track/72L2efzKJNLq7yYC3b0ooe"
+    },
+    {
+      "album": {
         "name": "GOMAK BOYS",
         "url": "https://open.spotify.com/album/2AvUSHJRehVLcanWAJFzM9"
       },
@@ -3450,7 +3486,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 190522,
       "name": "Walking In The Memory",
       "url": "https://open.spotify.com/track/7EbrlzJyVfSZVldEY0MnCJ"

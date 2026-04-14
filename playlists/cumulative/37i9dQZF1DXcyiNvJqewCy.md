@@ -4,7 +4,7 @@
 
 > \~ have a lovely time \~
 
-388 songs - 22 hr 33 min
+389 songs - 22 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,6 +213,7 @@
 | [Like a Rolling Stone](https://open.spotify.com/track/3AhXZa8sUQht0UEdBJgpGc) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Highway 61 Revisited](https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD) | 6:09 | 2022-07-29 | 2024-12-13 |
 | [Like the Movies](https://open.spotify.com/track/1hUXDEqjNIIbfjTcaz3jzb) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Typical of Me EP](https://open.spotify.com/album/7pooeoqY4uJkTaW70qxm3z) | 2:42 | 2022-09-29 | 2023-08-18 |
 | [Like the Movies](https://open.spotify.com/track/4crdHmkZQmNd2hucSIk7dA) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Typical of Me EP](https://open.spotify.com/album/6gGP0HuDvAzkZQk9wQOwdo) | 2:42 | 2022-07-29 | 2022-10-13 |
+| [Little Bitty Pretty One](https://open.spotify.com/track/2yOXKIU9YtBSWjI3OA8tqj) | [Thurston Harris](https://open.spotify.com/artist/61VpPyyJn2bitby8tbafzT) | [Little Bitty Pretty One](https://open.spotify.com/album/0E72reqQQ7799PLL07DFnG) | 2:23 | 2025-11-27 |  |
 | [Lonely Nights](https://open.spotify.com/track/1SJ7eKG6Ha5opLNxlXXvwa) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Sunsetter](https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU) | 3:20 | 2022-09-29 | 2023-02-17 |
 | [Lonely Nights](https://open.spotify.com/track/3r2gkWP543cstcUihobGBn) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Side A](https://open.spotify.com/album/0G3BWFNa1mpmu0PmYwljm8) | 3:20 | 2022-06-24 | 2022-07-11 |
 | [Lost](https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:54 | 2025-01-09 |  |
@@ -377,7 +378,7 @@
 | [Wasting Time](https://open.spotify.com/track/3gxRgVnfMp6AgHtaHzYeAh) | [MADDY MAY](https://open.spotify.com/artist/53ugKVVbmwpUEI42eNG9Mu), [Billy Otto](https://open.spotify.com/artist/68K7z2GTeiBnNteSfDGOzH) | [Wasting Time](https://open.spotify.com/album/0tAi1OxUfCzEuS3oh9g2Gp) | 3:12 | 2022-04-05 | 2022-07-23 |
 | [We Could Be Together](https://open.spotify.com/track/54qAc90egMQQ23ZBVL245S) | [Salarymen](https://open.spotify.com/artist/6CoqrYYldBGO37bHBr9rCM) | [We Could Be Together](https://open.spotify.com/album/5fZrSi4Mtt7mLXDG0ElQfi) | 3:34 | 2025-09-18 | 2025-11-14 |
 | [We Don't Have to Be Alone](https://open.spotify.com/track/6hRESIERR8gWu6CERwi2Zm) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [We Don't Have to Be Alone](https://open.spotify.com/album/0wcfCbz30o9L3neEu5L7Cz) | 2:46 | 2025-05-22 |  |
-| [What the World Needs Now \(Is Love\)](https://open.spotify.com/track/6QhJngmKqelOcCc3bUiKYY) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [Here Where There Is Love](https://open.spotify.com/album/1I5H0kXxePgiHJMFNhJws3) | 3:09 | 2025-11-27 |  |
+| [What the World Needs Now \(Is Love\)](https://open.spotify.com/track/6QhJngmKqelOcCc3bUiKYY) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [Here Where There Is Love](https://open.spotify.com/album/1I5H0kXxePgiHJMFNhJws3) | 3:09 | 2025-11-27 | 2026-04-14 |
 | [When It Was Wrong](https://open.spotify.com/track/2fRXHXLFvYnaYbQwkyadeC) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Spreadin' Honey](https://open.spotify.com/album/1bvotRLLCRLmoIv4eirps2) | 4:32 | 2022-04-05 | 2022-07-24 |
 | [When We Are Together](https://open.spotify.com/track/5M5TD1Tlpcgq0Fj1l6Mz6Z) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 3:36 | 2022-11-10 | 2025-11-14 |
 | [White Gloves ii](https://open.spotify.com/track/4EGilW7VYfTULk4RENDfJp) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [The Universe Smiles Upon You ii](https://open.spotify.com/album/45ZWDMMVK0N0Hd2p7fLTCB) | 4:51 | 2025-11-13 |  |

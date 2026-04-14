@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Luísa Sonza, Zé Neto & Cristiano, Anitta com Shakira, Lady Gaga com Doechii,  Mariara & Maraísa, NATTAN e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,279,760 likes - 90 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,279,599 likes - 90 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 79 | [DIXAVANDO](https://open.spotify.com/track/6slTSnYginVYk9Ubi90K3H) | [Fahel](https://open.spotify.com/artist/6eBQDBWq5rlP76s4TpOHCC), [Massaru](https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU), [Pluck D](https://open.spotify.com/artist/514cPHde1lpv5Umk7f6rWq), [Analogic](https://open.spotify.com/artist/5w7rdQm98KK3C5U6zrnenv) | [DIXAVANDO](https://open.spotify.com/album/30x1jnVXq7O1hZm13CssCA) | 1:58 |
 | 80 | [AMIGA DE VERDADE](https://open.spotify.com/track/1A4pyJBjfHd5DPYEkgPpbu) | [Aka Rasta](https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB), [C7](https://open.spotify.com/artist/5NOWNYEWllb4OR576ZarpD), [Art](https://open.spotify.com/artist/20WhSjQqxbo1pXHYY3bTPQ) | [AMIGA DE VERDADE](https://open.spotify.com/album/4uq5r0bPep8OkpQC5Pidfm) | 3:00 |
 | 81 | [Toda Boa, pt\. 2](https://open.spotify.com/track/1IbH9tlAYQMcVpSw3aHvs8) | [CyberKills](https://open.spotify.com/artist/0YYrMvekr8APmc9sIbIpx3), [Mc Erikah](https://open.spotify.com/artist/0TxoLMLA79mHKkRRe2dxEs), [Christopher Luz](https://open.spotify.com/artist/36MLP28p1UX0xIRdhZTeUc) | [Toda Boa, pt\. 2](https://open.spotify.com/album/22DjEmZezAIdJoZ7nRAQCO) | 2:48 |
-| 82 | [Ambição no Olhar](https://open.spotify.com/track/0NhVXuekK4VRo777zMPpor) | [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH), [Thiago Kelbert](https://open.spotify.com/artist/22kCWlXVaiBMYozPgHQhZM), [Volp](https://open.spotify.com/artist/6fFgNVTo4bxMf2eswaar7Z) | [Ambição no Olhar](https://open.spotify.com/album/6Kybrq2kHFZ7WihHe8WGVB) | 2:29 |
+| 82 | [Não tenho tempo](https://open.spotify.com/track/0NhVXuekK4VRo777zMPpor) | [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH), [Thiago Kelbert](https://open.spotify.com/artist/22kCWlXVaiBMYozPgHQhZM), [Volp](https://open.spotify.com/artist/6fFgNVTo4bxMf2eswaar7Z) | [Não tenho tempo](https://open.spotify.com/album/6Kybrq2kHFZ7WihHe8WGVB) | 2:29 |
 | 83 | [Até Descobrir](https://open.spotify.com/track/2Gx4AIkew4uYsECuQag8ag) | [Vinicius Malheiros](https://open.spotify.com/artist/7husm5YMKlnrSVmdFTsYoL), [Paula Guilherme](https://open.spotify.com/artist/1FDT0PZnOcCFOEClMFLLsS), [jonatas nascimento](https://open.spotify.com/artist/7GrNVXnQ800k7EqwBIEPoI) | [Até Descobrir](https://open.spotify.com/album/0sZB7ODGdaFYF7xdj6sDQ2) | 2:29 |
 | 84 | [Desmotivacional](https://open.spotify.com/track/608cH4zt80nmRYsQoqR5Qs) | [BUHR](https://open.spotify.com/artist/02aXPl7xsSoWlV77cUXtbm), [Russo Passapusso](https://open.spotify.com/artist/4Rgs2uEA4ZPVrfSGTcFvVm) | [Feixe de Fogo](https://open.spotify.com/album/5Ok5M6lRCi0g7rSOZG6vUb) | 4:45 |
 | 85 | [Block Party](https://open.spotify.com/track/4XMST0F0UdamHIaFELWkVo) | [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho), [Zander Zel](https://open.spotify.com/artist/0BoltRO9bTiqSLCSogpkS5), [Dj Nyack](https://open.spotify.com/artist/6qWqYtNvKPE8HwgmoPfkHx) | [4F](https://open.spotify.com/album/3AREmsVJLjOkE6WquTIw7g) | 2:09 |

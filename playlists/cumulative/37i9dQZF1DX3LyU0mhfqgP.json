@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Songs from LGBTQIA+ artists. Cover: Snail Mail",
+  "description": "Songs from LGBTQIA+ artists. Cover: Nakhane",
   "name": "GLOW",
   "tracks": [
     {
@@ -418,6 +418,24 @@
       "duration_ms": 231583,
       "name": "4 Degrees",
       "url": "https://open.spotify.com/track/6DkohHShwLU1NCtGRqY42v"
+    },
+    {
+      "album": {
+        "name": "5678",
+        "url": "https://open.spotify.com/album/4kmTzxgXt1cSBlem21sEnj"
+      },
+      "artists": [
+        {
+          "name": "Filipe Sambado",
+          "url": "https://open.spotify.com/artist/4DBnj3zFrGcRiFME23yT0q"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144787,
+      "name": "6 (O Meu Sangue)",
+      "url": "https://open.spotify.com/track/4unP9bGmcZYsRRCGJTPmyu"
     },
     {
       "album": {
@@ -3543,6 +3561,24 @@
     },
     {
       "album": {
+        "name": "I Said What I Said",
+        "url": "https://open.spotify.com/album/6BRyewEnSwMnpFiOJrNVuH"
+      },
+      "artists": [
+        {
+          "name": "Dope Saint Jude",
+          "url": "https://open.spotify.com/artist/47e6jtFUUl53YpTpvzOOMN"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197333,
+      "name": "Bitter Tea",
+      "url": "https://open.spotify.com/track/1SDajggyX8SjcW2kg3iS5P"
+    },
+    {
+      "album": {
         "name": "bittersweet heartbreak",
         "url": "https://open.spotify.com/album/5eRQ8VlWhrsAKr8JD1M6a7"
       },
@@ -3558,6 +3594,24 @@
       "duration_ms": 215190,
       "name": "bittersweet heartbreak",
       "url": "https://open.spotify.com/track/3fJFhSjiMFsTe73m7KINJo"
+    },
+    {
+      "album": {
+        "name": "A Different Corner",
+        "url": "https://open.spotify.com/album/04KqIOGtMv9uJkagkupONe"
+      },
+      "artists": [
+        {
+          "name": "Nakhane",
+          "url": "https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316988,
+      "name": "Black Boys In the Night",
+      "url": "https://open.spotify.com/track/6Kxs15k8vcNWuFkVcdjdFf"
     },
     {
       "album": {
@@ -6309,6 +6363,24 @@
     },
     {
       "album": {
+        "name": "CROCO",
+        "url": "https://open.spotify.com/album/5ZtZOLqn1enQcfHNJMJ9QH"
+      },
+      "artists": [
+        {
+          "name": "Olivia Addams",
+          "url": "https://open.spotify.com/artist/56o9EclNeDcE7p8txENfLn"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "CROCO",
+      "url": "https://open.spotify.com/track/0XOPtbmm2xAAocenNTPzZR"
+    },
+    {
+      "album": {
         "name": "Crush",
         "url": "https://open.spotify.com/album/5kayIDGILIGFsncMAbLPer"
       },
@@ -6893,6 +6965,32 @@
     },
     {
       "album": {
+        "name": "MEIEN",
+        "url": "https://open.spotify.com/album/4bczaWboiY4MjOWuou1zFS"
+      },
+      "artists": [
+        {
+          "name": "Melanie Williams",
+          "url": "https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31"
+        },
+        {
+          "name": "MEIEN",
+          "url": "https://open.spotify.com/artist/7ciZlFBa0GrlGHL2jfeKGU"
+        },
+        {
+          "name": "Marilina Bertoldi",
+          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193264,
+      "name": "Decilo",
+      "url": "https://open.spotify.com/track/1VwdEHTP3qy6bNlEtmqaJq"
+    },
+    {
+      "album": {
         "name": "deep in the woods",
         "url": "https://open.spotify.com/album/6p1H52i4HyDOrdrBUF0uI4"
       },
@@ -6988,7 +7086,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 173844,
       "name": "Der du brente v\u00e5r bro - Spotify Singles",
       "url": "https://open.spotify.com/track/3JJrV0alnSfJ6n9EtiqRk9"
@@ -8831,6 +8929,24 @@
     },
     {
       "album": {
+        "name": "Ouineta Verificada",
+        "url": "https://open.spotify.com/album/5lMyr087un4jnw6KUKqTus"
+      },
+      "artists": [
+        {
+          "name": "Ouineta",
+          "url": "https://open.spotify.com/artist/3a1trTgNtHPigdFxMGg1e3"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170229,
+      "name": "Evil Ouineta",
+      "url": "https://open.spotify.com/track/0iAWAAmntI83pzhNEeaTEC"
+    },
+    {
+      "album": {
         "name": "Evitar",
         "url": "https://open.spotify.com/album/5IEnBR36E4CYTsWaL6uELG"
       },
@@ -9663,6 +9779,24 @@
     },
     {
       "album": {
+        "name": "Folklore",
+        "url": "https://open.spotify.com/album/0zy0pgyPmIsHV4gPJVjfiS"
+      },
+      "artists": [
+        {
+          "name": "Paula Maffia",
+          "url": "https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238210,
+      "name": "Folklore",
+      "url": "https://open.spotify.com/track/1Ve9sqEU0LCpDh6L2RbtWl"
+    },
+    {
+      "album": {
         "name": "Bright Future",
         "url": "https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku"
       },
@@ -10126,7 +10260,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 294786,
       "name": "Full On",
       "url": "https://open.spotify.com/track/3375JLou6rTzJrrdWh4v3z"
@@ -10896,7 +11030,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 179166,
       "name": "Give Me A Sign (feat. Caroline Kingsbury)",
       "url": "https://open.spotify.com/track/3DrbSP3GR8cEqWcR6jf9yJ"
@@ -11756,6 +11890,24 @@
       "duration_ms": 243024,
       "name": "Hacia el Fondo - En Vivo",
       "url": "https://open.spotify.com/track/5TBEXPwE9N1ewl0S9BioRi"
+    },
+    {
+      "album": {
+        "name": "world's worst cowboy",
+        "url": "https://open.spotify.com/album/4OYxKkGiz1GxJRh9dUJr3l"
+      },
+      "artists": [
+        {
+          "name": "joel",
+          "url": "https://open.spotify.com/artist/01iqB1OLOnd5sNm6wo1jSR"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218093,
+      "name": "halfway to Hanna's",
+      "url": "https://open.spotify.com/track/7uHGSKUBi948VP3Y9FmGMe"
     },
     {
       "album": {
@@ -17378,7 +17530,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 174705,
       "name": "Loophole",
       "url": "https://open.spotify.com/track/2WPm0mB8ZoKmD1uw76b6yf"
@@ -17580,6 +17732,24 @@
       "duration_ms": 179512,
       "name": "love bug",
       "url": "https://open.spotify.com/track/04fe8arELvF9WbPVSq1tPj"
+    },
+    {
+      "album": {
+        "name": "Love Freely",
+        "url": "https://open.spotify.com/album/6D8D2LMhVQ1XSk8atnhWgs"
+      },
+      "artists": [
+        {
+          "name": "Kristian Kristensen",
+          "url": "https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232044,
+      "name": "Love Freely",
+      "url": "https://open.spotify.com/track/3tzRMtdyVxmfPCmOS6vD9q"
     },
     {
       "album": {
@@ -20263,6 +20433,32 @@
     },
     {
       "album": {
+        "name": "nocami, do \u015bwitu",
+        "url": "https://open.spotify.com/album/1xdIsORRS3nfikdVFb42i8"
+      },
+      "artists": [
+        {
+          "name": "villaz",
+          "url": "https://open.spotify.com/artist/7Dgc5VSOtvobxlOOmNsvJp"
+        },
+        {
+          "name": "stas kropka",
+          "url": "https://open.spotify.com/artist/7mwWs7UzQdHaTvI66p99x1"
+        },
+        {
+          "name": "connorr",
+          "url": "https://open.spotify.com/artist/09kC6DXxyZ9TMr2THWZLyI"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185025,
+      "name": "nie zrozumiesz!",
+      "url": "https://open.spotify.com/track/62w0zy7AVdRHvgOZJM0C1K"
+    },
+    {
+      "album": {
         "name": "Night Call (New Year's Edition)",
         "url": "https://open.spotify.com/album/4ANoIvV1JMAne7lFSExMI0"
       },
@@ -21848,7 +22044,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 169063,
       "name": "Panienka",
       "url": "https://open.spotify.com/track/1Lgg81BvOvFYjup8x9Gqeg"
@@ -21888,7 +22084,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 218693,
       "name": "Parades",
       "url": "https://open.spotify.com/track/4gKjIYTluOW30gH99nnfM8"
@@ -23528,7 +23724,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 189933,
       "name": "Queen of Texas",
       "url": "https://open.spotify.com/track/5SnAkhrhPXKRSCuvGjCM1s"
@@ -24381,6 +24577,24 @@
     },
     {
       "album": {
+        "name": "Responso",
+        "url": "https://open.spotify.com/album/4kJa2LZOab7gZOsfeFJQ2p"
+      },
+      "artists": [
+        {
+          "name": "IOLANDA",
+          "url": "https://open.spotify.com/artist/37VYsW0OfWchi5qpCDOv1b"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172745,
+      "name": "Responso",
+      "url": "https://open.spotify.com/track/32OBrzQDUYNhaWY4GzRXwm"
+    },
+    {
+      "album": {
         "name": "RESTO IN CHILL",
         "url": "https://open.spotify.com/album/3Pfnlj2SPQmBGggnxo6fc9"
       },
@@ -24756,7 +24970,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 142219,
       "name": "Rosary",
       "url": "https://open.spotify.com/track/1UT5wJDwXkSeMT0zsW9J3y"
@@ -24904,7 +25118,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 224000,
       "name": "Running Home",
       "url": "https://open.spotify.com/track/27NFYSQxYnRVqEwuIaunqF"
@@ -28144,7 +28358,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 148287,
       "name": "Talk to Mi Nalga",
       "url": "https://open.spotify.com/track/3CDxFv5JJ5oG51R5EklSIK"

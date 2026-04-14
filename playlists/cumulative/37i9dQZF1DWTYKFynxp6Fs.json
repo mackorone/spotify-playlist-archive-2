@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-12-30",
-  "description": "Every song that's Trending NOW from Malayalam! \nCover: Pallichattambi",
+  "description": "Every song that's Trending NOW from Malayalam! \nCover: Vaazha 2",
   "name": "Trending Now Malayalam",
   "tracks": [
     {
@@ -1349,6 +1349,28 @@
     },
     {
       "album": {
+        "name": "Kinginichar",
+        "url": "https://open.spotify.com/album/2tkEnbj7yA9WIRxEbPhrQA"
+      },
+      "artists": [
+        {
+          "name": "M.H.R",
+          "url": "https://open.spotify.com/artist/5A5bbXuMkVh28lxVO4y25g"
+        },
+        {
+          "name": "JOKER390P",
+          "url": "https://open.spotify.com/artist/1IVjFQKbSitl1XikHLdxlW"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132571,
+      "name": "Kinginichar",
+      "url": "https://open.spotify.com/track/0ZdCs8N8qF5bBozuOGH56r"
+    },
+    {
+      "album": {
         "name": "Kodava Wedding Song (From \"Bromance\")",
         "url": "https://open.spotify.com/album/6fuczhcfFpZ51NzH4QcVLk"
       },
@@ -1424,6 +1446,36 @@
       "duration_ms": 247164,
       "name": "Kondal Vedan Song (From \"Kondal\")",
       "url": "https://open.spotify.com/track/0FhmVYnbnWocY6mOgjeMlz"
+    },
+    {
+      "album": {
+        "name": "Vaazha 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4FrW5hkwZcdlxIIfHNKxf0"
+      },
+      "artists": [
+        {
+          "name": "Parvatish Pradeep",
+          "url": "https://open.spotify.com/artist/5vjgwPGSteudan2MIvGjlu"
+        },
+        {
+          "name": "Sooraj Santhosh",
+          "url": "https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB"
+        },
+        {
+          "name": "Nila Raj",
+          "url": "https://open.spotify.com/artist/4VexGwZW6B1MJZhS6g9KeT"
+        },
+        {
+          "name": "B.K. Harinarayanan",
+          "url": "https://open.spotify.com/artist/2NwWBme8V5okH9vQWrNxAV"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244571,
+      "name": "Koodappirannor",
+      "url": "https://open.spotify.com/track/4zeA83WTPlKCkag4utanxx"
     },
     {
       "album": {
@@ -2072,7 +2124,7 @@
       ],
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 213818,
       "name": "NERA",
       "url": "https://open.spotify.com/track/2sypL2XZpCV20M7mtVzesC"
@@ -2324,7 +2376,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 232909,
       "name": "Pavizha Mazha (From \"Athiran\")",
       "url": "https://open.spotify.com/track/3yJ3zrf4cnO11AKcvjV01q"
@@ -2935,6 +2987,32 @@
     },
     {
       "album": {
+        "name": "Vaazha 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4FrW5hkwZcdlxIIfHNKxf0"
+      },
+      "artists": [
+        {
+          "name": "Arcado",
+          "url": "https://open.spotify.com/artist/5zmWaSsrRerKIj3Fk8nGlq"
+        },
+        {
+          "name": "Maalavika Sundar",
+          "url": "https://open.spotify.com/artist/6FziTGxRwHQviQ4uZdSdIP"
+        },
+        {
+          "name": "Shabareesh Varma",
+          "url": "https://open.spotify.com/artist/7hSF5IJpSsH6PVSrqJfqki"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278750,
+      "name": "Thooki",
+      "url": "https://open.spotify.com/track/53Zl4vhN9gqxdF7NQ2zOzf"
+    },
+    {
+      "album": {
         "name": "Marco (Original Background Score)",
         "url": "https://open.spotify.com/album/6ooCiOMZNnbH80BpqsOdEq"
       },
@@ -3046,7 +3124,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 142666,
       "name": "Vazhikatti - Kizhakku Suryan",
       "url": "https://open.spotify.com/track/1UpbpQDIKTc1XxRyF3Xgi0"

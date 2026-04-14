@@ -2874,7 +2874,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 169608,
       "name": "Forgive, Forget",
       "url": "https://open.spotify.com/track/72gpoH9hjA3uJJBG64nEVv"
@@ -3066,6 +3066,24 @@
       "duration_ms": 185333,
       "name": "F\u00f6rloraren",
       "url": "https://open.spotify.com/track/0sHZppXG7okFe6cr44UOkS"
+    },
+    {
+      "album": {
+        "name": "F\u00f6rnedrade",
+        "url": "https://open.spotify.com/album/5w0UciRA5WWcg5InQNFhtg"
+      },
+      "artists": [
+        {
+          "name": "Avantgardet",
+          "url": "https://open.spotify.com/artist/7eX1F6FIRszrebMLdM1BpQ"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178973,
+      "name": "F\u00f6rnedrade",
+      "url": "https://open.spotify.com/track/64kDhj57KC1UoduD3qOroE"
     },
     {
       "album": {

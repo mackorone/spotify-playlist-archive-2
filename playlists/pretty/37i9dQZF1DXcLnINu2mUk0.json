@@ -1,6 +1,6 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Nenny",
-  "num_followers": 54022,
+  "num_followers": 54037,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
@@ -335,22 +335,6 @@
     {
       "added_at": "2026-04-09 23:00:38",
       "album": {
-        "name": "Deepak Looper",
-        "url": "https://open.spotify.com/album/6fmSivCeFMAVtMGA2GRMZf"
-      },
-      "artists": [
-        {
-          "name": "Papillon",
-          "url": "https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d"
-        }
-      ],
-      "duration_ms": 193492,
-      "name": "Impec",
-      "url": "https://open.spotify.com/track/37M00uZSz6smSxZ7pHchuh"
-    },
-    {
-      "added_at": "2026-04-09 23:00:38",
-      "album": {
         "name": "Finda",
         "url": "https://open.spotify.com/album/5BBWda4ImqHa9rZ6Qy4f19"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 202624,
       "name": "Carro (feat. Dillaz)",
       "url": "https://open.spotify.com/track/5yS8wgwBnmjpXwGislck0n"
+    },
+    {
+      "added_at": "2026-04-09 23:00:38",
+      "album": {
+        "name": "Deepak Looper",
+        "url": "https://open.spotify.com/album/6fmSivCeFMAVtMGA2GRMZf"
+      },
+      "artists": [
+        {
+          "name": "Papillon",
+          "url": "https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d"
+        }
+      ],
+      "duration_ms": 193492,
+      "name": "Impec",
+      "url": "https://open.spotify.com/track/37M00uZSz6smSxZ7pHchuh"
     },
     {
       "added_at": "2026-04-09 23:00:38",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2026-04-09 23:00:38",
       "album": {
+        "name": "Sometimes",
+        "url": "https://open.spotify.com/album/5KtyAVXpW4uqD2TG02NTA4"
+      },
+      "artists": [
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/5ZU1TW5KbwOb7r0ZDILy7c"
+    },
+    {
+      "added_at": "2026-04-09 23:00:38",
+      "album": {
         "name": "Flexin On U",
         "url": "https://open.spotify.com/album/483ljN85NtrrdrvsNSXF8u"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 271500,
       "name": "Flexin On U",
       "url": "https://open.spotify.com/track/21WFD8glO3k4hYmOiprEFF"
-    },
-    {
-      "added_at": "2026-04-09 23:00:38",
-      "album": {
-        "name": "Sometimes",
-        "url": "https://open.spotify.com/album/5KtyAVXpW4uqD2TG02NTA4"
-      },
-      "artists": [
-        {
-          "name": "Julinho Ksd",
-          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/5ZU1TW5KbwOb7r0ZDILy7c"
     },
     {
       "added_at": "2026-04-09 23:00:38",

@@ -4,7 +4,7 @@
 
 > Introducing RADAR Philippines Cast of 2026\. Cover: Chezka
 
-332 songs - 19 hr 35 min
+334 songs - 19 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [Na Na Na](https://open.spotify.com/track/5zoJ1eChvongUvr14bzckH) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Born To Win](https://open.spotify.com/album/61S9dOljMoxlArx68sMYdo) | 4:11 | 2023-04-13 | 2023-06-03 |
 | [Nahihiya](https://open.spotify.com/track/5jnguhkFqipMdzBfu5jJbD) | [Kenaniah](https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS) | [Nahihiya](https://open.spotify.com/album/5KUGAemrEcNvLizkRXmgVz) | 3:27 | 2026-04-06 |  |
 | [Namumula](https://open.spotify.com/track/5OAGg2B2BjxzpiEcuzaCkZ) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Namumula](https://open.spotify.com/album/5nS1IYsFBBHe1hZlcbrypc) | 2:54 | 2024-09-02 | 2025-03-28 |
+| [nananabik](https://open.spotify.com/track/0Qo45W6C2QeMz6o4bJ1m9b) | [rhodessa](https://open.spotify.com/artist/0XRPxTyrrVeDXLt6Wxw4UD) | [nananabik](https://open.spotify.com/album/78HaiGq1MIsdl8MZGiYdVr) | 4:02 | 2026-04-13 |  |
 | [Nangangamba](https://open.spotify.com/track/1dcNEEtODRVZEevQ20Cgmy) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Nangangamba](https://open.spotify.com/album/4kHntHygZZcKMRXGE2k1Fw) | 3:30 | 2021-11-25 | 2022-03-25 |
 | [nantene](https://open.spotify.com/track/2ehgdInLgfOvizPjs65Tuu) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON), [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE) | [nantene](https://open.spotify.com/album/6hAktj37tcHQhXhlbkNgS8) | 2:32 | 2025-03-27 | 2026-04-07 |
 | [Ngayon Lang 'To](https://open.spotify.com/track/0V4mByDGbFjeKQ2ufzq2OI) | [raven](https://open.spotify.com/artist/3Dr5ezvDdYsycy1gfaZWSL) | [Ngayon Lang 'To](https://open.spotify.com/album/4yWaadPMM1qAWyrafzP4lM) | 3:10 | 2022-03-24 | 2023-04-14 |
@@ -277,6 +278,7 @@
 | [Someone New](https://open.spotify.com/track/3pLBPNR3ikdcDW5CP67gHY) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R), [Martti Franca](https://open.spotify.com/artist/639kduoUmDR7ISY0QF6WlX) | [Someone New](https://open.spotify.com/album/1hOm07TU9l0hAuqvjKXvUt) | 4:15 | 2023-08-28 | 2024-04-03 |
 | [Soul Ties](https://open.spotify.com/track/6HFrOJItMlIgzlYsXcs6Fu) | [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [Soul Ties](https://open.spotify.com/album/3AM8Ck88yPerwlY7Fvp0oU) | 3:58 | 2023-04-13 | 2024-04-03 |
 | [SSP \(Saksak Sa Puso\)](https://open.spotify.com/track/4hNKQWQvHOOfxUR0IrGpYG) | [VXON](https://open.spotify.com/artist/03jMNKZ7bfBuHdZUqeJyv7) | [20:20](https://open.spotify.com/album/0TJkShI3cK81IT2dQ70Xbh) | 3:34 | 2024-02-21 | 2024-04-03 |
+| [Stranger's Funeral](https://open.spotify.com/track/0xsKzUbzpcqQ9kGLV1tZ16) | [Chezka](https://open.spotify.com/artist/09aWOipSJalkgLg7vOOUlY) | [Stranger's Funeral](https://open.spotify.com/album/5n9BwlAdpF815L01sIed5l) | 3:43 | 2026-04-13 |  |
 | [Strings](https://open.spotify.com/track/1yja0zSvvgJtbV34B02kLG) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Feel Good](https://open.spotify.com/album/2JFAmLbybI6ExZ5l1DTuQI) | 3:20 | 2022-09-29 | 2022-12-01 |
 | [SUBOMOTO \- Hev Abi Remix](https://open.spotify.com/track/21Dq4ZfwEg1nfkwyxrx0ve) | [Zae](https://open.spotify.com/artist/7LzHjduJmIQZGQsh8luHkD), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [SUBOMOTO \(Hev Abi Remix\)](https://open.spotify.com/album/7wjI6FCsMJwMCumTlNu0xl) | 2:58 | 2024-12-09 | 2026-04-07 |
 | [substack girl](https://open.spotify.com/track/1KtQOlLH1dKEYVys18V3Fz) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E) | [substack girl](https://open.spotify.com/album/21DkCT5JXgHgaVWPoaDGTl) | 2:40 | 2026-04-06 |  |

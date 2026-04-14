@@ -1,6 +1,6 @@
 {
   "description": "Classic tunes served over easy for the perfect brunch soundtrack.",
-  "num_followers": 203740,
+  "num_followers": 203778,
   "original_name": "Sunday Brunch",
   "owner": {
     "name": "Spotify",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2025-02-14 05:00:49",
       "album": {
-        "name": "Heat Wave",
-        "url": "https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK"
-      },
-      "artists": [
-        {
-          "name": "Martha Reeves & The Vandellas",
-          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
-        }
-      ],
-      "duration_ms": 163053,
-      "name": "(Love Is Like A) Heat Wave",
-      "url": "https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF"
-    },
-    {
-      "added_at": "2025-02-14 05:00:49",
-      "album": {
         "name": "Juice Newton's Greatest Hits",
         "url": "https://open.spotify.com/album/0fSvQOkU8rRgcsW6MerdVw"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 254000,
       "name": "Angel Of The Morning",
       "url": "https://open.spotify.com/track/6NVB6W7G3svCKe5zB7kY8q"
+    },
+    {
+      "added_at": "2025-02-14 05:00:49",
+      "album": {
+        "name": "Heat Wave",
+        "url": "https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK"
+      },
+      "artists": [
+        {
+          "name": "Martha Reeves & The Vandellas",
+          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
+        }
+      ],
+      "duration_ms": 163053,
+      "name": "(Love Is Like A) Heat Wave",
+      "url": "https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF"
     },
     {
       "added_at": "2025-02-14 05:00:49",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLzW15wHm9R.md) - [plain]
 
 > Original and synced songs that stay with you long after the credits roll..\. Cover: GOAT
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,926 likes - 55 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,950 likes - 55 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLzW15wHm9R.md) - [plain]
 | 6 | [Big Guy \- from "The SpongeBob Movie: Search for SquarePants”](https://open.spotify.com/track/3HiCAjMaPfM4vnbhLhADBp) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Big Guy \(from "The SpongeBob Movie: Search for SquarePants”\)](https://open.spotify.com/album/7aQIxnvryoIKLMZ8wsydpz) | 2:30 |
 | 7 | [I’m Good \- From The Movie “GOAT”](https://open.spotify.com/track/4Rse4e9moG5PKR61F7ah28) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [I’m Good \(From The Movie “GOAT”\)](https://open.spotify.com/album/45mBhso0bpjGCjrHoQ9Tpa) | 2:59 |
 | 8 | [Sign of the Times](https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 5:40 |
-| 9 | [Burial \(from Mother Mary\)](https://open.spotify.com/track/1SO1Y6rjbEl7VfXssVG0t6) | [Anne Hathaway](https://open.spotify.com/artist/0nIyPY7J7G68WgQEOLHn0x) | [Burial \(from Mother Mary\)](https://open.spotify.com/album/5yscdemhEgEbczPVNX0oxq) | 3:09 |
+| 9 | [Burial](https://open.spotify.com/track/1SO1Y6rjbEl7VfXssVG0t6) | [Anne Hathaway](https://open.spotify.com/artist/0nIyPY7J7G68WgQEOLHn0x) | [Burial](https://open.spotify.com/album/5yscdemhEgEbczPVNX0oxq) | 3:09 |
 | 10 | [Criminal \- From the Original Motion Picture Scream 7](https://open.spotify.com/track/7FzmTWZg0cmBXOr5428N8R) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Criminal \(From the Original Motion Picture Scream 7\)](https://open.spotify.com/album/2nmVXKVnYRht1PxXZ6aguS) | 3:19 |
 | 11 | [Euniq \(Original Song from XO, Kitty, Season 3\)](https://open.spotify.com/track/0rHklweNkglC0epfjauKdt) | [dv/sn](https://open.spotify.com/artist/2IGjOiTyvZdlRP8PCJ1EvS), [HanBi Ryu](https://open.spotify.com/artist/7iu8vDLagzU5h6kQGp2DMV) | [Euniq \(Original Song from XO, Kitty, Season 3\)](https://open.spotify.com/album/3Rk58pG0KkGdI1A0Y6arca) | 1:51 |
 | 12 | [Twisting The Knife \(feat\. Mckenna Grace\)](https://open.spotify.com/track/2DaR6GuQKi78Lq32oRv38C) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt), [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [Twisting The Knife \(feat\. Mckenna Grace\)](https://open.spotify.com/album/5dvN1KoTSr93iYDPvr5ZL4) | 3:21 |

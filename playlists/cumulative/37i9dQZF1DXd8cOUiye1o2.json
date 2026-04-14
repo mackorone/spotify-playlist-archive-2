@@ -1171,6 +1171,32 @@
     },
     {
       "album": {
+        "name": "Awara",
+        "url": "https://open.spotify.com/album/09LXLVDvPtIprv4rymHNx1"
+      },
+      "artists": [
+        {
+          "name": "Vilen",
+          "url": "https://open.spotify.com/artist/5gVozagAcRKYCeAVnlC3Nk"
+        },
+        {
+          "name": "Himani Kapoor",
+          "url": "https://open.spotify.com/artist/6G2dxtT1uVQuzErBZsw7Ur"
+        },
+        {
+          "name": "GARVV",
+          "url": "https://open.spotify.com/artist/1M27DESbtsGNZrvvTyJ0eo"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127821,
+      "name": "Awara",
+      "url": "https://open.spotify.com/track/5mX2aKNEOmBVMwLb6WknfL"
+    },
+    {
+      "album": {
         "name": "Aye Gori",
         "url": "https://open.spotify.com/album/28Gs5xXfahFYJZBVbw07IW"
       },
@@ -3397,7 +3423,7 @@
         },
         {
           "name": "Khan Saab",
-          "url": "https://open.spotify.com/artist/1Y2YoNjhDco7zu09ZtiEjM"
+          "url": "https://open.spotify.com/artist/5Uo28tAylVBPPW2Cs8LFwN"
         }
       ],
       "date_added": "2026-03-23",
@@ -5282,6 +5308,14 @@
           "url": "https://open.spotify.com/artist/4RuzOqiZ3TbTKX30MleR1z"
         },
         {
+          "name": "Aditya Jain",
+          "url": "https://open.spotify.com/artist/1dpSiOzlRAcjA6f9pYmLnv"
+        },
+        {
+          "name": "Himangshu Jaan Sarma",
+          "url": "https://open.spotify.com/artist/7CN58POU3BZbT4KsQQkitR"
+        },
+        {
           "name": "Abeer",
           "url": "https://open.spotify.com/artist/5AdvC69twrXkysaR34BDmM"
         }
@@ -6414,7 +6448,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 154052,
       "name": "Jab Khuli Kitaab",
       "url": "https://open.spotify.com/track/4txbJOvTBG2H1L2j0DLl5a"

@@ -4,7 +4,7 @@
 
 > Música brasileira fora da curva\. Foto: Jovem Dionísio
 
-872 songs - 2 day 1 hr 40 min
+873 songs - 2 day 1 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -575,6 +575,7 @@
 | [Olha Pra Mim](https://open.spotify.com/track/3dzzufm1EyNeSRxqfF4vEB) | [dadá Joãozinho](https://open.spotify.com/artist/2iGbCpu2oDuyZHrYdNwD1X), [Raça](https://open.spotify.com/artist/7LC3Unc4kVkoX7yLCZbyg5) | [Olha Pra Mim](https://open.spotify.com/album/7Ml3eKws4xsBDfDyyDqGzI) | 2:08 | 2024-12-06 | 2025-03-15 |
 | [olhos cansados](https://open.spotify.com/track/3pt0xyf4ZVO2SRnMOf47r8) | [O Temporal](https://open.spotify.com/artist/2g9eJDWyPM1LzUwTWFZjpG) | [o temporal](https://open.spotify.com/album/1zefWkoUkHufnXq7sQLUeC) | 4:41 | 2022-02-11 | 2023-04-15 |
 | [Ontem](https://open.spotify.com/track/4r1EfYKnKmYvrx4VRiCKNk) | [Ale Sater](https://open.spotify.com/artist/0zeEmlxF30MGOT16dM5vqx) | [Ontem](https://open.spotify.com/album/2V6HAHc2D0ltLAgFXBtP6A) | 3:06 | 2024-08-09 | 2025-12-06 |
+| [Ontem](https://open.spotify.com/track/0aq7xZ7JUOuOeHJaIPTpI3) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Migalhas](https://open.spotify.com/album/6fQCzPUP45tyjMbwzcOlKJ) | 3:26 | 2026-04-13 |  |
 | [Oração 18 \(pra viver junto\)](https://open.spotify.com/track/7pocXmDZywvGx6vNz2VpIc) | [Luiza Brina](https://open.spotify.com/artist/09h0yBO50UAcaFa4papv3X) | [Oração 18 \(pra viver junto\)](https://open.spotify.com/album/1G5SOAr5BN4J50Sa54mE3f) | 3:02 | 2024-03-29 | 2024-06-29 |
 | [Orgulho](https://open.spotify.com/track/28sgPek7Lfm4eQUuBHbHUU) | [Lourandes](https://open.spotify.com/artist/3Un59PenImYu2RdwRb6cDv) | [Orgulho](https://open.spotify.com/album/3Ekzzjpm17YFpH3hqSObVm) | 3:00 | 2023-03-17 | 2023-04-01 |
 | [Orlando](https://open.spotify.com/track/5kydwe4EX8d7kys5WrfU7A) | [Sofia Freire](https://open.spotify.com/artist/1Iei4PJ2fWpnhc5qamVloV) | [Ponta da Língua](https://open.spotify.com/album/08YInO2jLBRO87MJlJwlAS) | 2:32 | 2024-03-01 | 2024-07-06 |

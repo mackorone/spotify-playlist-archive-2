@@ -1,12 +1,12 @@
 {
   "description": "This is Pabllo Vittar. The essential tracks, all in one playlist.",
-  "num_followers": 280208,
+  "num_followers": 280203,
   "original_name": "This Is Pabllo Vittar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "admPAAAAAACj+1QazV4T6oTuuqOCka8a",
+  "snapshot_id": "adrggAAAAAAZ7Vdf00UnAZGHy4uCNEXq",
   "tracks": [
     {
       "added_at": null,
@@ -187,30 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AmarElo",
-        "url": "https://open.spotify.com/album/5cUY5chmS86cdonhoFdn8h"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Majur",
-          "url": "https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 320800,
-      "name": "AmarElo (Sample: Sujeito de Sorte - Belchior)",
-      "url": "https://open.spotify.com/track/5p3LIyy38s0QQNoSTwbZXX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CAJU",
         "url": "https://open.spotify.com/album/5dn4OFXeSlzgrXTGmxnCqd"
       },
@@ -231,6 +207,30 @@
       "duration_ms": 306281,
       "name": "DEIXA ESTAR",
       "url": "https://open.spotify.com/track/4niIqdF6vxGx3Ae1UY3VN1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AmarElo",
+        "url": "https://open.spotify.com/album/5cUY5chmS86cdonhoFdn8h"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Majur",
+          "url": "https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 320800,
+      "name": "AmarElo (Sample: Sujeito de Sorte - Belchior)",
+      "url": "https://open.spotify.com/track/5p3LIyy38s0QQNoSTwbZXX"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Prazer, Mam\u00e3e Noel",
-        "url": "https://open.spotify.com/album/3N9ANUKLXnxmyff9xG9UqB"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 197105,
-      "name": "Exatamente Igual",
-      "url": "https://open.spotify.com/track/4sP8S3OWKfMu9IEtX1sYkS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ba\u00fa da Taty 2, Pt. 2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/1aSIovEpV6p1gt3LTqECJr"
       },
@@ -751,6 +735,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "111",
+        "url": "https://open.spotify.com/album/67rOBOMZsXiQwoPpZbnC8b"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 157508,
+      "name": "Rajad\u00e3o",
+      "url": "https://open.spotify.com/track/1DmSaQjZkuwFi57KPv20oB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Batid\u00e3o Tropical Vol. 2",
         "url": "https://open.spotify.com/album/7taQQZWIVcnHK6spr9N21l"
       },
@@ -767,8 +767,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "111",
-        "url": "https://open.spotify.com/album/67rOBOMZsXiQwoPpZbnC8b"
+        "name": "Prazer, Mam\u00e3e Noel",
+        "url": "https://open.spotify.com/album/3N9ANUKLXnxmyff9xG9UqB"
       },
       "artists": [
         {
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
         }
       ],
-      "duration_ms": 157508,
-      "name": "Rajad\u00e3o",
-      "url": "https://open.spotify.com/track/1DmSaQjZkuwFi57KPv20oB"
+      "duration_ms": 197105,
+      "name": "Exatamente Igual",
+      "url": "https://open.spotify.com/track/4sP8S3OWKfMu9IEtX1sYkS"
     },
     {
       "added_at": null,

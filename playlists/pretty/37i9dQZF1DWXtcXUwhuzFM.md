@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musaa tarjoilevat Jenni Vartiainen, Turisti, Teddy Swims, Karim B..\. ja moni muu  🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,304 likes - 99 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,309 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,9 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 93 | [Cross My Heart](https://open.spotify.com/track/2uEWM5lSQsl0ubzbxFd6U7) | [Lime Garden](https://open.spotify.com/artist/5GA6j57yIPCBrWk1lTvF9o) | [Maybe Not Tonight](https://open.spotify.com/album/7EO4tVModdOi5Xh3m7uEzC) | 2:40 |
 | 94 | [Patchwork](https://open.spotify.com/track/3BxWLwl3xcFAN0Hk5X13JD) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Paige Cavell](https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24) | [Patchwork](https://open.spotify.com/album/1jdPpk0cKJ4iQvsZfEXstU) | 3:07 |
 | 95 | [Château Brute](https://open.spotify.com/track/5v3GSpHEm5fHqZhndz0y4B) | [Luna Morgenstern](https://open.spotify.com/artist/3Ei4Zm5sKiLabWKEd8hfRh), [girl\_irl](https://open.spotify.com/artist/0JVxdYzBWXOjkjt2e5r76D) | [Château Brute](https://open.spotify.com/album/2IHLwyoNxJhZ9BgeMsAZH8) | 2:44 |
-| 96 | [Plastic Camelia](https://open.spotify.com/track/0ep3CnoP0dSWyFPUhQJU0D) | [Olof Dreijer](https://open.spotify.com/artist/1Wxx3yxd6gZsNiAF1OwLk0) | [Plastic Camelia / Laurel](https://open.spotify.com/album/12PCtvnkWhvr5RRPXrFxyP) | 4:25 |
-| 97 | [Two Hands](https://open.spotify.com/track/70wvbulgaxQEwS5UPEcY3B) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [Two Hands](https://open.spotify.com/album/6IgJhivfmaDSc4nCKDAAYs) | 4:24 |
-| 98 | [We Got The Love](https://open.spotify.com/track/5DlXVIeKgralYcYojBzhjP) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck), [Maria Mathea](https://open.spotify.com/artist/7nw3TslhIKWzoHZxpFYdPp) | [We Got The Love](https://open.spotify.com/album/6KkLcF2EOo0kKXrfBzpHHb) | 2:44 |
-| 99 | [waste your pain](https://open.spotify.com/track/3dwJ7YOq1ypxSZrh5GkZas) | [Cruz Beckham](https://open.spotify.com/artist/3ZPOiGqgEbfNlKFFKxXVsD) | [waste your pain](https://open.spotify.com/album/7xZM9auwP97hBo51OSYZ29) | 2:23 |
+| 96 | [Track and Field](https://open.spotify.com/track/49pUZuG2dMJATu4Hc82QyE) | [JJerome87](https://open.spotify.com/artist/2UzQILybhlgKlKSiBikOio), [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [Track and Field](https://open.spotify.com/album/7lJIJZp0dR8I5dfLACSYKA) | 3:15 |
+| 97 | [Plastic Camelia](https://open.spotify.com/track/0ep3CnoP0dSWyFPUhQJU0D) | [Olof Dreijer](https://open.spotify.com/artist/1Wxx3yxd6gZsNiAF1OwLk0) | [Plastic Camelia / Laurel](https://open.spotify.com/album/12PCtvnkWhvr5RRPXrFxyP) | 4:25 |
+| 98 | [Two Hands](https://open.spotify.com/track/70wvbulgaxQEwS5UPEcY3B) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [Two Hands](https://open.spotify.com/album/6IgJhivfmaDSc4nCKDAAYs) | 4:24 |
+| 99 | [We Got The Love](https://open.spotify.com/track/5DlXVIeKgralYcYojBzhjP) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck), [Maria Mathea](https://open.spotify.com/artist/7nw3TslhIKWzoHZxpFYdPp) | [We Got The Love](https://open.spotify.com/album/6KkLcF2EOo0kKXrfBzpHHb) | 2:44 |
+| 100 | [waste your pain](https://open.spotify.com/track/3dwJ7YOq1ypxSZrh5GkZas) | [Cruz Beckham](https://open.spotify.com/artist/3ZPOiGqgEbfNlKFFKxXVsD) | [waste your pain](https://open.spotify.com/album/7xZM9auwP97hBo51OSYZ29) | 2:23 |
 
 Snapshot ID: `AAAAAJ2u5x1CQmzIFXP+gVuZx22qgBZc`

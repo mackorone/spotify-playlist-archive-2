@@ -1,12 +1,12 @@
 {
   "description": "This is Bethel Music. The essential tracks, all in one playlist.",
-  "num_followers": 207917,
+  "num_followers": 207923,
   "original_name": "This Is Bethel Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "admPAAAAAAA0eU0ZYw0jt0TwvoC17xUm",
+  "snapshot_id": "adrggAAAAADCNM4ZNDFhC+JfLVcEQhEk",
   "tracks": [
     {
       "added_at": null,
@@ -791,18 +791,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Without Words: Synesthesia",
-        "url": "https://open.spotify.com/album/0O7oDrkgr0TWlyChIOosiG"
+        "name": "Be Lifted High",
+        "url": "https://open.spotify.com/album/7K79tHGWXANnjr9X5mwGb9"
       },
       "artists": [
         {
           "name": "Bethel Music",
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Brian Johnson",
+          "url": "https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9"
         }
       ],
-      "duration_ms": 248910,
-      "name": "Luminosity",
-      "url": "https://open.spotify.com/track/34yggSxAScYbY0cAKjh4G6"
+      "duration_ms": 300973,
+      "name": "One Thing Remains",
+      "url": "https://open.spotify.com/track/1vH145HxXVObf4vzXaWuEG"
     },
     {
       "added_at": null,
@@ -827,22 +831,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Be Lifted High",
-        "url": "https://open.spotify.com/album/7K79tHGWXANnjr9X5mwGb9"
+        "name": "Without Words: Synesthesia",
+        "url": "https://open.spotify.com/album/0O7oDrkgr0TWlyChIOosiG"
       },
       "artists": [
         {
           "name": "Bethel Music",
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Brian Johnson",
-          "url": "https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9"
         }
       ],
-      "duration_ms": 300973,
-      "name": "One Thing Remains",
-      "url": "https://open.spotify.com/track/1vH145HxXVObf4vzXaWuEG"
+      "duration_ms": 248910,
+      "name": "Luminosity",
+      "url": "https://open.spotify.com/track/34yggSxAScYbY0cAKjh4G6"
     },
     {
       "added_at": null,

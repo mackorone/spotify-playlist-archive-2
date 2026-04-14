@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-435 songs - 20 hr 32 min
+436 songs - 20 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,6 +284,7 @@
 | [Outward Flow](https://open.spotify.com/track/6CHszkJRDjseZZjlB2dGF5) | [Aimspherer](https://open.spotify.com/artist/0hSVd3Ut0dF3BO5fRiIMtq) | [Outward Flow](https://open.spotify.com/album/6l4VfxWo7vlBRIVR7xIXNh) | 2:34 | 2025-03-19 | 2026-04-04 |
 | [Overflow](https://open.spotify.com/track/6uAzGHQ0CTL0ZmUcACijLc) | [Gleework](https://open.spotify.com/artist/7mpVI32uln65a45ny7L1Pc) | [Overflow](https://open.spotify.com/album/5G6pitaST2lwtrcmYxXrst) | 2:36 | 2024-05-01 | 2026-02-28 |
 | [Painted River](https://open.spotify.com/track/2lNgLRFY27jNay8yK2IMCa) | [Armonía Astral](https://open.spotify.com/artist/4SFy2zTDkBKrQ8vzuINBVf) | [Painted River](https://open.spotify.com/album/2crvRMhXARBm1jEc7zKLAB) | 2:25 | 2025-12-17 |  |
+| [Paladin Diversum](https://open.spotify.com/track/60r8LX6fGaLQYjYCdBB2Kp) | [Los Sobriles](https://open.spotify.com/artist/3JST5hIfjYPRqhKMJXqku2) | [Paladin Diversum](https://open.spotify.com/album/2S05YvCq7NM8x57DIb73ur) | 3:16 | 2026-04-03 |  |
 | [Peace of Rain](https://open.spotify.com/track/6HXjoSKqIGjTGPMXj2oj6I) | [Pouring Voices](https://open.spotify.com/artist/30L9uyNQWZupRq65bHZfSF) | [Peace of Rain](https://open.spotify.com/album/2UzKVDUabqDDcOVRptDfpe) | 2:31 | 2025-05-06 |  |
 | [Peaceful Calmness](https://open.spotify.com/track/6RutZE4FLbhhYQEMcgDhwI) | [Matusi](https://open.spotify.com/artist/12flZad77ham3NKTUXIIXL) | [Peaceful Calmness](https://open.spotify.com/album/6rfgkrOyjd4LoSfSgchwrm) | 3:09 | 2023-04-28 | 2025-05-22 |
 | [Peaceful Morning](https://open.spotify.com/track/7DyF6UY3xiVmoLncNaCAtg) | [Warmth of Muba](https://open.spotify.com/artist/6o0O9OTZ1InAj3eLSchXwf) | [Peaceful Morning](https://open.spotify.com/album/1VifjtiGpfZHpgVyeJM4y1) | 2:41 | 2025-10-02 |  |
@@ -342,7 +343,7 @@
 | [Silverhollow](https://open.spotify.com/track/0mJzBt2BjTqbzTHqQhqyHf) | [Elysian Woods](https://open.spotify.com/artist/2a9nGgopYoBxxQMwXO7bvi) | [Silverhollow](https://open.spotify.com/album/1S69O9i42zGrY1orv8I8c9) | 3:02 | 2026-02-23 |  |
 | [Simplicity](https://open.spotify.com/track/5ABh3sfeg6DsCcm4uWRGNf) | [Wazuna](https://open.spotify.com/artist/0qu4t2NVwyPfQaxoVrmU3n) | [Simplicity](https://open.spotify.com/album/4IS0Gx9Z1Yi2grpkSeyW5p) | 3:12 | 2023-04-28 | 2024-10-02 |
 | [Skylit Plains](https://open.spotify.com/track/0OjJS4XbfIoinFh4s9VkQr) | [Gleework](https://open.spotify.com/artist/7mpVI32uln65a45ny7L1Pc) | [Skylit Plains](https://open.spotify.com/album/1eJKDiaX0plhT0hwhOEtTy) | 2:52 | 2026-04-03 |  |
-| [Sleep Shine](https://open.spotify.com/track/1NSpVywHEnNOG53Nkz3jV5) | [Hwardo Ineso](https://open.spotify.com/artist/462RWWtGvZzX3dhgZmoXgg) | [Sleep Shine](https://open.spotify.com/album/3gwXQ7jSpRBFM5qO1fqCWT) | 2:34 | 2025-07-09 |  |
+| [Sleep Shine](https://open.spotify.com/track/1NSpVywHEnNOG53Nkz3jV5) | [Hwardo Ineso](https://open.spotify.com/artist/462RWWtGvZzX3dhgZmoXgg) | [Sleep Shine](https://open.spotify.com/album/3gwXQ7jSpRBFM5qO1fqCWT) | 2:34 | 2025-07-09 | 2026-04-14 |
 | [Slow River](https://open.spotify.com/track/6Pepcvh8x9js9gD4Xq4Rh7) | [Elaifas](https://open.spotify.com/artist/4y8E0sPmztHzvNUnVIQVot) | [Slow River](https://open.spotify.com/album/774opILeSkptANsD6z00tS) | 2:51 | 2026-04-03 |  |
 | [Slowly Stream](https://open.spotify.com/track/3K5TE2OlvFLnXbRLarLlBd) | [Mystisse](https://open.spotify.com/artist/6IpbJpzWfnVDsdJG9fJHWp) | [Slowly](https://open.spotify.com/album/2zKxxUDZeLSpm6whXgcnGo) | 3:11 | 2023-11-24 |  |
 | [Slumber](https://open.spotify.com/track/4zE3EZNDuoLabKLlvWcuBw) | [Nebuu](https://open.spotify.com/artist/4OHXOR1h0JhQBarufXpOtP) | [Slumber](https://open.spotify.com/album/6HwXGFUGqfDeaisYykNZGw) | 2:17 | 2024-08-23 |  |

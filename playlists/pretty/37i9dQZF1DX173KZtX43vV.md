@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 
 > The newest arrivals\. Cover: Kelela
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,729 likes - 45 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,733 likes - 45 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,6 +52,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 | 42 | [Fan](https://open.spotify.com/track/7zyKtQOW3HtPCqaAWpYDtn) | [Wohdee](https://open.spotify.com/artist/3lEOvjSLQnYiE2fUqUKvzE), [Scorcher](https://open.spotify.com/artist/2BYHpYwXO4zi36Tf3pEH5n), [Nile Ezra](https://open.spotify.com/artist/5YayPcD4jixf2lDXPmcLQ0) | [Fan](https://open.spotify.com/album/2TDAkOsoLMZDkEt923OSpA) | 2:46 |
 | 43 | [E.V.O.L](https://open.spotify.com/track/3QFe7h2cN5WkkNeKxs1T10) | [bib sama.](https://open.spotify.com/artist/5CSb8UNFfwDv80vbAIPEtu), [TayoLoxs](https://open.spotify.com/artist/4D1gckOVE54GdYpS7J4noB) | [GAIAAAAAAAAAA˚](https://open.spotify.com/album/2ADlAbG9esTnNb7ygXGsTe) | 3:02 |
 | 44 | [Braindead](https://open.spotify.com/track/2m2OKZaPIujps0Ehk7TeSz) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk) | [Braindead](https://open.spotify.com/album/1876TznZD8zvEDcDac5Cqi) | 2:07 |
-| 45 | [All I Ever Wanted](https://open.spotify.com/track/5eMCOfpcYgPnzcEZ2CLGgP) | [Naima Adams](https://open.spotify.com/artist/0uj0S7PeKD9mVamrqi6cRc) | [All I Ever Wanted](https://open.spotify.com/album/5KBcmZqqERngJeAaUvmS4c) | 3:23 |
+| 45 | [All I Ever Wanted](https://open.spotify.com/track/5eMCOfpcYgPnzcEZ2CLGgP) | [Naima Adams](https://open.spotify.com/artist/0uj0S7PeKD9mVamrqi6cRc) | [All I Ever Wanted](https://open.spotify.com/album/5KBcmZqqERngJeAaUvmS4c) | 3:24 |
 
 Snapshot ID: `AAAAAMgFrnE32LRDfFkW1Kyz6C27G0Kg`

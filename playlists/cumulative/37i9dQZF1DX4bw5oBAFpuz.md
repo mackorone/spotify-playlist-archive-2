@@ -4,7 +4,7 @@
 
 > Ideale muziek voor de werkdag
 
-630 songs - 1 day 11 hr 48 min
+632 songs - 1 day 11 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [barcelona](https://open.spotify.com/track/5GZCGrWa6fXwcssIaYfVjk) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [barcelona](https://open.spotify.com/album/2JmYpDJ7VKacfW1bwAJbqU) | 2:55 | 2024-03-26 |  |
 | [Be Mine](https://open.spotify.com/track/2bE8jinb3xXxHirFy1yCF9) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Be Mine](https://open.spotify.com/album/3OkEGNuUPN2wUDAQBUhFs4) | 3:12 | 2024-04-04 | 2024-08-16 |
 | [Be More](https://open.spotify.com/track/4bp4kwe29qY9PBdrEgSa53) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Be More](https://open.spotify.com/album/3td8YUGhx5odYjMPV7HPNF) | 3:51 | 2023-08-17 |  |
-| [Be Yours](https://open.spotify.com/track/46lJyMkWR3BXZ6XLdZzhZ5) | [The Indien](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb) | [Be Yours](https://open.spotify.com/album/5niw3k5NSVyeBxDcdA3umi) | 3:15 | 2024-03-21 |  |
+| [Be Yours](https://open.spotify.com/track/46lJyMkWR3BXZ6XLdZzhZ5) | [The Indien](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb) | [Be Yours](https://open.spotify.com/album/5niw3k5NSVyeBxDcdA3umi) | 3:15 | 2024-03-21 | 2026-04-14 |
 | [Beach House \- Acoustic](https://open.spotify.com/track/3glDKUTH8sQ1Cwlh0OY1OC) | [TESSEL](https://open.spotify.com/artist/4Q4DrlJOGIGwIq0OvPd69A) | [Beach House \(Acoustic\)](https://open.spotify.com/album/7sSzWkRHmUv2lqt9keqCFi) | 3:43 | 2023-04-25 |  |
 | [Before I Go](https://open.spotify.com/track/5vlTxb7BP5DWzpw8RgnzxR) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [Before I Go](https://open.spotify.com/album/0NTMWAuT544WcHhDgyyzyb) | 3:29 | 2023-02-23 | 2023-09-11 |
 | [Before It Might Be Gone](https://open.spotify.com/track/4QqixSXWSTWq1rC5DzCz92) | [The Vices](https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj) | [Before It Might Be Gone](https://open.spotify.com/album/3EVICWZusdGvnKGYkY9AGM) | 4:56 | 2026-02-06 |  |
@@ -120,6 +120,7 @@
 | [Dance All Over Me \- Acoustic](https://open.spotify.com/track/0O2oOTckr08VasDGv8m7kc) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Dance All Over Me](https://open.spotify.com/album/2UdthZopBNkIeFXEEUg9sQ) | 3:34 | 2023-02-23 | 2024-04-19 |
 | [Dancing On My Own](https://open.spotify.com/track/2BOqDYLOJBiMOXShCV1neZ) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Only Human \(Deluxe\)](https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf) | 4:20 | 2023-02-23 | 2023-04-26 |
 | [Dancing Slow](https://open.spotify.com/track/0CIxOoxye5HUWA23ofjbpJ) | [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP), [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Dancing Slow](https://open.spotify.com/album/39J4TkvH0VvrpfCDfkUwx5) | 3:20 | 2024-04-11 |  |
+| [Dangerous Lover](https://open.spotify.com/track/6k5MFxx07WH3p0cC6DK9PD) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [Dangerous Lover](https://open.spotify.com/album/2EIRNYg9YwfZt0iRuuUFCh) | 3:24 | 2026-04-13 |  |
 | [Dead End Of A Dream](https://open.spotify.com/track/1vwu8X84wTVuVXgG7bbdtw) | [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [Dead End Of A Dream](https://open.spotify.com/album/2D5G56419QjsWtt2pf8b7w) | 3:24 | 2024-06-20 | 2024-09-01 |
 | [December](https://open.spotify.com/track/6fNXxN4iNz3C316rt9PFYu) | [KY.](https://open.spotify.com/artist/0hG1HYfwIxLXrvJlsaXXDk) | [December](https://open.spotify.com/album/4v3e28aK40aUcFkHjWVyiQ) | 3:13 | 2023-04-25 |  |
 | [Demise](https://open.spotify.com/track/74JtWskHPIn7QqxC0Xr8hR) | [Hamel](https://open.spotify.com/artist/6klaFPOSpOaGXuQ71bUXC3) | [Lohengrin](https://open.spotify.com/album/4N7owxB7HhBbfCUtdloB3y) | 3:53 | 2023-04-25 | 2024-03-20 |
@@ -375,7 +376,7 @@
 | [No Worries](https://open.spotify.com/track/1T6928Jai5vaFUIP7XhXhS) | [Simon Webbe](https://open.spotify.com/artist/3P6nMEGXn0hzBlMndKfLQH) | [Sanctuary](https://open.spotify.com/album/3721OxBl0D7wkRrKhfJl03) | 3:29 | 2024-04-11 | 2026-03-06 |
 | [No Worries](https://open.spotify.com/track/0Q95QAw0HKaykvMZA3tMOb) | [Simon Webbe](https://open.spotify.com/artist/3P6nMEGXn0hzBlMndKfLQH) | [Sanctuary](https://open.spotify.com/album/4zlJk4dH9eE5wQGOrKvKhs) | 3:29 | 2023-02-23 | 2024-04-19 |
 | [Nobody Just Like You](https://open.spotify.com/track/6c1LPZcvGFR61iNceP77q9) | [Human Nature](https://open.spotify.com/artist/72BTmmAO3QfETWlFjwjfJ1) | [Nobody Just Like You](https://open.spotify.com/album/1T17JPPFnkMa9hd9fkqblx) | 2:44 | 2023-02-23 | 2024-08-03 |
-| [Nobody Knows](https://open.spotify.com/track/2d4Zg9Iupw6kJXVrQPERvh) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Nobody Knows](https://open.spotify.com/album/3P1k02barEAeTD5QeyV6oj) | 2:32 | 2024-10-24 |  |
+| [Nobody Knows](https://open.spotify.com/track/2d4Zg9Iupw6kJXVrQPERvh) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Nobody Knows](https://open.spotify.com/album/3P1k02barEAeTD5QeyV6oj) | 2:32 | 2024-10-24 | 2026-04-14 |
 | [Not Our Fault](https://open.spotify.com/track/0q7EANvg9S0AUFaE7iINZB) | [Thomas Geelens](https://open.spotify.com/artist/0fOACSuV2yErGIXJvBsIZz) | [Not Our Fault](https://open.spotify.com/album/5Nc2dtfzKdxu7ri2YbMSGZ) | 4:31 | 2023-05-01 | 2024-01-24 |
 | [Not Our Fault](https://open.spotify.com/track/1LTtiJn18l2cYDjYxK3OQU) | [Thomas Geelens](https://open.spotify.com/artist/0fOACSuV2yErGIXJvBsIZz) | [Not Our Fault](https://open.spotify.com/album/1IOX8G95QttETwSCr0EI4k) | 4:31 | 2023-04-25 | 2023-05-10 |
 | [Not Our Fault](https://open.spotify.com/track/6QuwHuwgucbVeqJBlIWD0h) | [Thomas Geelens](https://open.spotify.com/artist/0fOACSuV2yErGIXJvBsIZz) | [Not Our Fault](https://open.spotify.com/album/5H7nCfkt7ovBwVG7LqU2xA) | 4:31 | 2024-01-16 | 2024-03-21 |
@@ -423,6 +424,7 @@
 | [Ready For The Sky](https://open.spotify.com/track/3XOX3I1JNdxQNGbMvXjEPY) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Ready For The Sky](https://open.spotify.com/album/6p57HASzXc9WVwpJTb0Pc4) | 3:17 | 2024-03-19 | 2025-07-09 |
 | [Recognise \- Acoustic Version](https://open.spotify.com/track/1xgAlkJVfaLJmN3Fv5yM6H) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Flynn](https://open.spotify.com/artist/4yxeyorUKkW9fOOBeguEC9) | [Recognise \(Remixes\)](https://open.spotify.com/album/5Qc4mm0abrHEdpyL21vIp8) | 2:49 | 2023-02-23 | 2023-12-30 |
 | [Relationships](https://open.spotify.com/track/22Ui43i51sAALwtapObKmQ) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Relationships](https://open.spotify.com/album/4IveZaLBOjYALIg00gMVEK) | 3:22 | 2025-05-27 |  |
+| [Reply To This](https://open.spotify.com/track/3ytuqgUI0BNCDijjxC6jZg) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Whatever's Clever! \(Expanded\)](https://open.spotify.com/album/71f3n5jsStploGblACtTRs) | 2:57 | 2026-04-13 |  |
 | [Resolution](https://open.spotify.com/track/6C2PcJaxG7OXRU86zZiQOz) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Resolution](https://open.spotify.com/album/0V49RmdI91QvHAayrLPyS0) | 4:16 | 2023-02-23 | 2024-04-19 |
 | [Resolution](https://open.spotify.com/track/76QK6gTaW2bBV47FDe3RPK) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Resolution \- EP](https://open.spotify.com/album/22aja1RtjRSzdKRuwx0Aog) | 4:16 | 2024-04-11 |  |
 | [Rewind](https://open.spotify.com/track/5Po20XWC11YJ3TMLfHqMdB) | [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [EP6](https://open.spotify.com/album/6ZSh7q2E1I6tpESZA6j4nE) | 2:59 | 2023-02-23 | 2024-03-20 |

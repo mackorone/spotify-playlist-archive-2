@@ -142,7 +142,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 263880,
       "name": "Animal",
       "url": "https://open.spotify.com/track/4XTTwW06rMgud7yS1nySZf"
@@ -358,7 +358,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 246173,
       "name": "Dashboard",
       "url": "https://open.spotify.com/track/0Fe3WxeO6lZZxj7ytvbDUh"
@@ -704,6 +704,24 @@
       "duration_ms": 259385,
       "name": "Girls & Boys",
       "url": "https://open.spotify.com/track/5CeL9C3bsoe4yzYS1Qz8cw"
+    },
+    {
+      "album": {
+        "name": "Going Shopping",
+        "url": "https://open.spotify.com/album/4XCAqkLSm0CozIX5dQRXPI"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261747,
+      "name": "Going Shopping",
+      "url": "https://open.spotify.com/track/4dUOhTTMy4ITIbNQKPKYFP"
     },
     {
       "album": {
@@ -2216,6 +2234,24 @@
       "duration_ms": 204466,
       "name": "Sex on Fire",
       "url": "https://open.spotify.com/track/0RdKwYHeLfhFT7OCZNACV6"
+    },
+    {
+      "album": {
+        "name": "Shine Again",
+        "url": "https://open.spotify.com/album/6HqfvcCZYZMzTCbfWwu153"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245564,
+      "name": "Shine Again",
+      "url": "https://open.spotify.com/track/1C8ywgYYblKrskpRggjNRV"
     },
     {
       "album": {

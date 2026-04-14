@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Hot & new K-Drama OSTs are here! (Cover: \uc138\uc774\ub80c (Siren's Kiss)) (\uc778\uae30 \uc788\ub294 \ud654\uc81c\uc758 OST\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) ",
+  "description": "Hot & new K-Drama OSTs are here! (Cover: 21\uc138\uae30 \ub300\uad70\ubd80\uc778 (Perfect Crown)) (\uc778\uae30 \uc788\ub294 \ud654\uc81c\uc758 OST\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) ",
   "name": "K-OST Center",
   "tracks": [
     {
@@ -5282,7 +5282,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 270000,
       "name": "Farewell Once Again",
       "url": "https://open.spotify.com/track/352KleOeLaDzFo8ieVd08b"
@@ -6072,6 +6072,24 @@
       "duration_ms": 237880,
       "name": "GO",
       "url": "https://open.spotify.com/track/22TOE5xxShGlXeiWN1g1MB"
+    },
+    {
+      "album": {
+        "name": "Perfect Crown OST Part.2",
+        "url": "https://open.spotify.com/album/3zt0m3BmyFaKcjgBVlh9qH"
+      },
+      "artists": [
+        {
+          "name": "KiiiKiii",
+          "url": "https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Go On",
+      "url": "https://open.spotify.com/track/5gnrFTxEwfZqEm5nQH9tGG"
     },
     {
       "album": {
@@ -7032,6 +7050,24 @@
       "duration_ms": 212225,
       "name": "How do you live",
       "url": "https://open.spotify.com/track/1nBmZE0EPaYUc8EwSuMXw3"
+    },
+    {
+      "album": {
+        "name": "Mad Concrete Dreams, Pt. 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0sW5AD1XBio8tDSaRo5FHb"
+      },
+      "artists": [
+        {
+          "name": "Min Jiwoon",
+          "url": "https://open.spotify.com/artist/5kgihglqsCaqCbtsJ0ef6v"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "How Far Would You Go",
+      "url": "https://open.spotify.com/track/0EY9F0MajwhRrTavo01MbX"
     },
     {
       "album": {
@@ -14057,6 +14093,24 @@
     },
     {
       "album": {
+        "name": "The Practical Guide to Love (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/4XfsazZHKWIDrwlTHukrQ8"
+      },
+      "artists": [
+        {
+          "name": "HYNN",
+          "url": "https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "Please Don\u2019t Stop",
+      "url": "https://open.spotify.com/track/60MlMG7WbBFb2pwXd1gFg0"
+    },
+    {
+      "album": {
         "name": "Lovely Runner, Pt. 10 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/6RqRkYG6pMAM3EPcSdzmFy"
       },
@@ -18432,7 +18486,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 198000,
       "name": "TO THE SEA",
       "url": "https://open.spotify.com/track/7y3BNMvjcrfXyq6hhpRBQv"
@@ -21158,7 +21212,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 204375,
       "name": "Your Smile, My Happiness",
       "url": "https://open.spotify.com/track/3tLpB2e0ElZNj2AT6J11ES"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZY0QOQ.md) - [plain]
 
 > This is CKay\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,107 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,108 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZY0QOQ.md) - [plain]
 | 40 | [say no more](https://open.spotify.com/track/6b6KwJ5Ig1SmOKM9cD3Bem) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The Second](https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf) | 2:40 |
 | 41 | [Mezebu \(feat\. Oxlade & KiDi\)](https://open.spotify.com/track/69n4ie3SRkt4uPYG3RYFOl) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Boyfriend](https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D) | 3:28 |
 | 42 | [Good Boy \(feat\. BOJ and Ckay\)](https://open.spotify.com/track/5zTd3IXhLC0XLEgPpMSxrI) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [BOJ](https://open.spotify.com/artist/4FIbqFLuP3OJZ2ngKFKbJq), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Bad Boy Blaq Re\-Up](https://open.spotify.com/album/5V1wP5lWuEmHqNn6Sj5m2V) | 4:11 |
-| 43 | [MYSTERIOUS LOVE](https://open.spotify.com/track/6E60TB6THcK8aglk78MHbS) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [IS IT YOU? / MYSTERIOUS LOVE](https://open.spotify.com/album/3nYZCI9RDtpcy5TtMKjwyS) | 2:32 |
+| 43 | [IS IT YOU?](https://open.spotify.com/track/3xmnR9kblvHlUWY2YDWkrE) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [IS IT YOU? / MYSTERIOUS LOVE](https://open.spotify.com/album/3nYZCI9RDtpcy5TtMKjwyS) | 3:03 |
 | 44 | [permit me](https://open.spotify.com/track/0UdlBInYiNqclTU4bGm7dN) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The Second](https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf) | 2:55 |
 | 45 | [kalakuta](https://open.spotify.com/track/0X5yARwJLSCTFhuJTSXvFU) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The First](https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih) | 2:39 |
 | 46 | [Wayeh \(feat\. CKay\) \- Remix](https://open.spotify.com/track/4Q0JF3miNPe7vYj3MPQo9t) | [THEODORT](https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Wayeh \(feat\. CKay\) \[Remix\]](https://open.spotify.com/album/3heqtgQOgtvpVvTQomcBAo) | 2:30 |
-| 47 | [IS IT YOU?](https://open.spotify.com/track/3xmnR9kblvHlUWY2YDWkrE) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [IS IT YOU? / MYSTERIOUS LOVE](https://open.spotify.com/album/3nYZCI9RDtpcy5TtMKjwyS) | 3:03 |
+| 47 | [MYSTERIOUS LOVE](https://open.spotify.com/track/6E60TB6THcK8aglk78MHbS) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [IS IT YOU? / MYSTERIOUS LOVE](https://open.spotify.com/album/3nYZCI9RDtpcy5TtMKjwyS) | 2:32 |
 | 48 | [FANTASY](https://open.spotify.com/track/6ylNT9nQLTOglCEHqvFnGo) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Maesu](https://open.spotify.com/artist/2kk1THOr0gsQaAqOj02tbl), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [THE ANGEL YOU DON'T KNOW](https://open.spotify.com/album/1cceIhCQ8R79pwy8jbZFqE) | 3:42 |
 | 49 | [way \(feat\. DJ Lambo\)](https://open.spotify.com/track/1aFnU8fcGS9EHUh36DJ8Ml) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Dj Lambo](https://open.spotify.com/artist/6UJMc7CLW0JpsbdIke13nU) | [CKay The First](https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih) | 2:32 |
 | 50 | [40 Days \(feat\. CKay\)](https://open.spotify.com/track/3RaFHuGXEgAH8k0J9kSF5x) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [40 Days \(feat\. CKay\)](https://open.spotify.com/album/5mUEBoLPKIVyNlvulD40kL) | 3:06 |
 
-Snapshot ID: `admPAAAAAAAM+WcZ2DwbpTFfLO6tHeJo`
+Snapshot ID: `adrggAAAAAC538AsB5iWLZsoFMNXR5+/`

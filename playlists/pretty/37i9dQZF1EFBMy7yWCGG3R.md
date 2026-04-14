@@ -262,8 +262,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 252 | [WITHOUT YOU](https://open.spotify.com/track/7aLUbVBpLgsj4QW4fchL47) | [Cashmere Cat](https://open.spotify.com/artist/2LZDXcxJWgsJfKXZv9a5eG) | [PRINCESS CATGIRL](https://open.spotify.com/album/5DFEo8Nh5N6BYScoCDKvkh) | 3:24 |
 | 253 | [Hate You](https://open.spotify.com/track/6Xj1PG0pINzvrlxQSLNX9d) | [Kate Nash](https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg) | [Yesterday Was Forever](https://open.spotify.com/album/4ryc4MvHAAJvTuc8wfTC7H) | 3:23 |
 | 254 | [F.O.O.L.](https://open.spotify.com/track/1cJTm0qd2NQL2HHRO2lwsj) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Second Self](https://open.spotify.com/album/7wamK6t2NizBz3HScDpRY0) | 3:14 |
-| 255 | [Hold On To Me](https://open.spotify.com/track/64cNNOHp4pXPgpS7ZRRUS1) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Dangerous Levels of Introspection \(Deluxe Edition\)](https://open.spotify.com/album/0jgLrnhzlL9o4z9TyEt2ih) | 3:04 |
-| 256 | [Prettier](https://open.spotify.com/track/1xxFjjn9zePi0WUrhOn6Kb) | [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ) | [Prettier](https://open.spotify.com/album/65bWAdko9EMXM0yzVyJXHi) | 2:34 |
+| 255 | [Prettier](https://open.spotify.com/track/1xxFjjn9zePi0WUrhOn6Kb) | [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ) | [Prettier](https://open.spotify.com/album/65bWAdko9EMXM0yzVyJXHi) | 2:34 |
+| 256 | [Hold On To Me](https://open.spotify.com/track/64cNNOHp4pXPgpS7ZRRUS1) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Dangerous Levels of Introspection \(Deluxe Edition\)](https://open.spotify.com/album/0jgLrnhzlL9o4z9TyEt2ih) | 3:04 |
 | 257 | [cigarette](https://open.spotify.com/track/6zGtBBymxJ4IEV2xEF73Ty) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [mood swings](https://open.spotify.com/album/2jvTYHZayLQaa6ZPz5qqJe) | 2:47 |
 | 258 | [Love A Good](https://open.spotify.com/track/7Kug4Y5pkvOXIsJRONpwTg) | [maryjo](https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H) | [Love A Good](https://open.spotify.com/album/6dr5B4L0fdzKdvTDGjg9ip) | 3:34 |
 | 259 | [24/7](https://open.spotify.com/track/2SazF0oi8emUImGEWiP5G9) | [AWA](https://open.spotify.com/artist/0dR988NNn8lrFhXTOxyJfZ) | [24/7](https://open.spotify.com/album/6snWMXAOzS6cKTsPxhq079) | 3:17 |
@@ -285,4 +285,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 275 | [Deep](https://open.spotify.com/track/01D0aVd8vRbRPIltg6Tbhw) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Versions of Julia Michaels](https://open.spotify.com/album/7nlsv3q4UQtP5Nj05k905a) | 4:57 |
 | 276 | [Peace Of Mind](https://open.spotify.com/track/4Idr1z7T2bII6J2AqiyLlQ) | [BeaRSawse](https://open.spotify.com/artist/6E8Fnr97BcuynjkSJwlK69) | [DON'T TAKE THIS SERIOUS Vol.2](https://open.spotify.com/album/3dN10aaPR4bO7MJtcGa5yD) | 3:09 |
 
-Snapshot ID: `AcOsSAAAAAB3zZ8k6Pz1jQtOf4dWaPpo`
+Snapshot ID: `AcOx6AAAAADAfSit5hDFIkMW73zu72tQ`

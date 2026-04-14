@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2ckx1BRKkKzM7KyRZ3iKZo">Ester Dean</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-182 songs - 10 hr 36 min
+183 songs - 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Super Bass](https://open.spotify.com/track/3hlksXnvbKogFdPbpO9vel) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday \(Complete Edition\)](https://open.spotify.com/album/7aADdYLiK1z7GlMFr0UIZw) | 3:20 | 2025-01-09 | 2025-04-12 |
 | [Sway \- From Songland](https://open.spotify.com/track/0GGlWxiq7PLzAFlqDvbuvh) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Sway \(From Songland\)](https://open.spotify.com/album/6TySLr5b3fQz3EepElqFYT) | 2:27 | 2023-12-30 |  |
 | [Talk That Talk](https://open.spotify.com/track/4MPEYbqv4tAuLagNNmukjy) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Talk That Talk \(Explicit\)](https://open.spotify.com/album/16ySsalaP2FiKVDlYCWnYh) | 3:29 | 2023-12-30 |  |
+| [That Girl \(feat\. Saweetie\)](https://open.spotify.com/track/0gYIDOQkA4DZQw3wboBiuP) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [That Girl \(feat\. Saweetie\)](https://open.spotify.com/album/109kFKSHQurf4h5JZWgCLk) | 2:27 | 2026-04-13 |  |
 | [That High \(feat\. Kelly Rowland\)](https://open.spotify.com/track/0zbAkytd9gbRmWpmri6BbF) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Global Warming: Meltdown \(Deluxe Version\)](https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy) | 3:14 | 2023-12-30 |  |
 | [That Old Man](https://open.spotify.com/track/1R49uUrptd2LP3VGern97l) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [City On Lock](https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN) | 2:24 | 2023-12-30 |  |
 | [That's How I'm Feelin' \(feat\. Pitbull & Missy Elliott\)](https://open.spotify.com/track/6VKCyfMweQ2qQqNWOgUjU0) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Jackie \(Deluxe\)](https://open.spotify.com/album/1vxEYHEzZI2l1AyZOtVHKJ) | 3:58 | 2023-12-30 |  |

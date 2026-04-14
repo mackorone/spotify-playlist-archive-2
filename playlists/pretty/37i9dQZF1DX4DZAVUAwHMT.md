@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 
 > The UK's biggest rock playlist\. Cover: Enter Shikari
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,042,306 likes - 85 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,042,263 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,10 +36,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 | 26 | [A.L.O.N.E.](https://open.spotify.com/track/27hYsmEv0oxDiCRtaePHHq) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [A.L.O.N.E.](https://open.spotify.com/album/1sDgdisZxO2s4AKt2TKUQf) | 3:24 |
 | 27 | [One Thing At A Time](https://open.spotify.com/track/1KuW8u6AAPmCzpSCfWbq4I) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [One Thing At A Time](https://open.spotify.com/album/0iGHI45DWOOb5QG7aDlzvm) | 4:42 |
 | 28 | [Song For Hal](https://open.spotify.com/track/2VVWTCKDdJYxrF7TZtyUAH) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Easter Lily EP](https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF) | 4:38 |
-| 29 | [Dying To Love](https://open.spotify.com/track/1TPdMmb92BoWvDFQlCuVl0) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Dying To Love](https://open.spotify.com/album/46UaOs7CHiOPGGdxUtWvcj) | 4:16 |
-| 30 | [Look How Far...](https://open.spotify.com/track/4ZwsQGsqUGewXIjNBXfrXr) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [Look How Far...](https://open.spotify.com/album/34LkLoSNqA6mfajqBcsthm) | 1:55 |
-| 31 | [Cult of Celebrity](https://open.spotify.com/track/2ptN3AC6mPNdtLrJaeOEQV) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [Cult of Celebrity](https://open.spotify.com/album/0WI41FEVRdFwjcVdrTSBrm) | 2:13 |
-| 32 | [The Ghost](https://open.spotify.com/track/2j3BsACN13jvgNviBN0lGA) | [Saint Agnes](https://open.spotify.com/artist/7c7LKkvEU9xLPyFmvV4njL) | [The Ghost](https://open.spotify.com/album/3xXT57rurFzOZLz6AXCjyv) | 3:32 |
+| 29 | [Look How Far...](https://open.spotify.com/track/4ZwsQGsqUGewXIjNBXfrXr) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [Look How Far...](https://open.spotify.com/album/34LkLoSNqA6mfajqBcsthm) | 1:55 |
+| 30 | [Cult of Celebrity](https://open.spotify.com/track/2ptN3AC6mPNdtLrJaeOEQV) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [Cult of Celebrity](https://open.spotify.com/album/0WI41FEVRdFwjcVdrTSBrm) | 2:13 |
+| 31 | [The Ghost](https://open.spotify.com/track/2j3BsACN13jvgNviBN0lGA) | [Saint Agnes](https://open.spotify.com/artist/7c7LKkvEU9xLPyFmvV4njL) | [The Ghost](https://open.spotify.com/album/3xXT57rurFzOZLz6AXCjyv) | 3:32 |
+| 32 | [SUPERMAN](https://open.spotify.com/track/4UM8YF7PvhdAs94bsxxJM7) | [South Arcade](https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF) | [SUPERMAN](https://open.spotify.com/album/0Xp8U8KDNMYUREYFtS3sCy) | 3:24 |
 | 33 | [Cut Back](https://open.spotify.com/track/7x7leJBVK5ptTfsYiDL14s) | [Marmozets](https://open.spotify.com/artist/3KEhhixoMshqSEJ71rS7w1) | [Cut Back](https://open.spotify.com/album/1GAFb0WrMbug4jq65tTp0X) | 3:03 |
 | 34 | [The Kids Are](https://open.spotify.com/track/6B9xB5xqjl4JegwjppRQ3f) | [My First Time](https://open.spotify.com/artist/2YCAJa2kGotOZAe5lWC4D0) | [My First Time](https://open.spotify.com/album/77p8sqJUYp6bGv373QRZyi) | 3:28 |
 | 35 | [Suburban Requiem](https://open.spotify.com/track/7qtFxBjONSOPOsHopgAwH3) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Idols \(Complete\)](https://open.spotify.com/album/0cUFNGzV90YdrBfTBjxjjM) | 4:39 |
@@ -72,26 +72,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 | 62 | [Haze](https://open.spotify.com/track/7pmOVNGWu1lRBWVpYTcKH1) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Ellie](https://open.spotify.com/artist/6HUjt5rB3ZotTFN4BA2a9S) | [Tremor](https://open.spotify.com/album/2Mf3c9BbAcMOybdL2FTkkJ) | 3:56 |
 | 63 | [Dirty Habit](https://open.spotify.com/track/6VkVVNFxYOySv4s4n6lTy3) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [Dirty Habit](https://open.spotify.com/album/4Rf2Md17s9jsDvQUJZmYxD) | 3:35 |
 | 64 | [Dark Days Are Coming](https://open.spotify.com/track/5Hpgp8un1ef1VMdmI6perX) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [Fearless Nature](https://open.spotify.com/album/3xbOikndswoKv40q6HnNz5) | 4:39 |
-| 65 | [Cherry](https://open.spotify.com/track/6arjfkXcKsLhvEtb9gKLc1) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Cherry](https://open.spotify.com/album/0Lav96JqaZmqMCbryXUPgE) | 2:08 |
-| 66 | [I'm The Outside](https://open.spotify.com/track/1XxA7zS7wcoVzp8yFUjicO) | [Angel Du$t](https://open.spotify.com/artist/2ynylCO9SRPTKjgNEH0Y2a) | [I'm The Outside](https://open.spotify.com/album/65eZKE0ZK7RKBkPwwAQ5nS) | 1:51 |
-| 67 | [Ghost](https://open.spotify.com/track/3rNePDz5uV8FGnpuuq63RO) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Ghost](https://open.spotify.com/album/3j2H05IR3iTMMQ3FeYQXt7) | 2:29 |
-| 68 | [PLAINTIVE NATIVE](https://open.spotify.com/track/752jJf80yhDnt7K7dTfTnO) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [PLAINTIVE NATIVE](https://open.spotify.com/album/3o7SM2cImToqXzVwWrfloL) | 3:18 |
-| 69 | [Back Of My Hand](https://open.spotify.com/track/45WQmEMvZMy3a90XbRWbbB) | [The Belair Lip Bombs](https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT) | [Back Of My Hand](https://open.spotify.com/album/1B5ulSel2ojBJKhm2YMelp) | 3:26 |
-| 70 | [All Yours](https://open.spotify.com/track/2ep1Ni8QYPcZZ3ggr1vGoc) | [Balancing Act](https://open.spotify.com/artist/6ZHfuZhV3q15jxpOY8S1m6) | [Who've You Come As?, Pt\. 2](https://open.spotify.com/album/3AVhzOJ1jUZB5uSB4reg6i) | 3:20 |
-| 71 | [Limbo No\. 5](https://open.spotify.com/track/61gP8jIDYD4ZS6ZxgHUPWs) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD) | [This is normal now](https://open.spotify.com/album/1eJyq7c3KDDcPrsExBPK3I) | 3:09 |
-| 72 | [I Used To Go To This Bar](https://open.spotify.com/track/1Uwq1uMR3GEY3KTLzZrRN2) | [Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN) | [I Used To Go To This Bar](https://open.spotify.com/album/5lPJlOBMTQExZmAan61C6A) | 2:12 |
-| 73 | [Pause](https://open.spotify.com/track/4oWyvnjr9c22wlC1Ej9Yp6) | [DAYTIME TV](https://open.spotify.com/artist/35ls7qnn5iKLPMT8PnOBy8) | [Pause](https://open.spotify.com/album/6FCLSPx6YfsPEbsZOexwm7) | 3:21 |
-| 74 | [omni shambles](https://open.spotify.com/track/741HkhBFMxxkmq1uU0VJSz) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [omni shambles](https://open.spotify.com/album/45dbSWXwlSOxhPLcWs1n9X) | 2:16 |
-| 75 | [Pacifico](https://open.spotify.com/track/7xoKUJyENctTQh64oBTpMY) | [CQ Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [Pacifico](https://open.spotify.com/album/4Uri4Wdt8nLr6ICEpyfsBI) | 3:13 |
-| 76 | [St\. Agnes](https://open.spotify.com/track/1iXcHOr7lFCEsGgQvrr2G5) | [Cardinals](https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4) | [Masquerade](https://open.spotify.com/album/29AoeHJhdqdvkZAh7EPoS4) | 2:09 |
-| 77 | [won't speak again](https://open.spotify.com/track/1ynfvyFOlaRb3HLC7WMS8c) | [Bottle Rockets](https://open.spotify.com/artist/1bFphh6DSkuYX0mjTxAxgK) | [won't speak again](https://open.spotify.com/album/5otwUcLBDVYuk4TQU14TAs) | 2:42 |
-| 78 | [Rain](https://open.spotify.com/track/0TkAD1a7uXJkt7HqDbp6YT) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Even If I Never Get There](https://open.spotify.com/album/0G5V83mMQWMXtEdnudKaI7) | 2:43 |
-| 79 | [pieces](https://open.spotify.com/track/0TYYCO93FESiUlTanVH9pX) | [thistle.](https://open.spotify.com/artist/4dPHAp5JXnj8HkY71hWVj5) | [pieces](https://open.spotify.com/album/0HtKs3fzUYPQIjA0kXsCDk) | 3:22 |
-| 80 | [Tongue](https://open.spotify.com/track/7tRI5028bm53M2KJyItRHh) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi) | [Tongue](https://open.spotify.com/album/577XDhAIhJ0K2KCZDJTNUf) | 2:28 |
-| 81 | [Kick](https://open.spotify.com/track/14wokvToKGCEFqAhxMUjFp) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [God Save The Gun](https://open.spotify.com/album/13YF2Z1aV8lMzx4zSw4h75) | 3:49 |
-| 82 | [Broken Record](https://open.spotify.com/track/187PhQNVowHs4jJj4Ebzzu) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [Broken Record](https://open.spotify.com/album/4GF7FP9ViwD2yTyDGcgY7S) | 2:25 |
-| 83 | [On and On](https://open.spotify.com/track/34PAOBsQ9IZKGSPIkHanpY) | [Mouth Culture](https://open.spotify.com/artist/4Fc4GqcYwYnTePiW3nggrd) | [On and On](https://open.spotify.com/album/0neNPjNpMwz6EW1RULoeg1) | 3:13 |
-| 84 | [AUTONOMY](https://open.spotify.com/track/2kNd41ey27IQcEME9J0ZBz) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [AUTONOMY](https://open.spotify.com/album/31NLkXt7yqS8Ugi7DvkxQm) | 4:40 |
-| 85 | [Magnificent Seven](https://open.spotify.com/track/0RUvT91RC8FCmueE2xTYxj) | [The Clockworks](https://open.spotify.com/artist/6Jg3DFzPWX2VIy01oqLGkz) | [Magnificent Seven](https://open.spotify.com/album/5sHMsGf22ASJYjV7XC9mO8) | 2:46 |
+| 65 | [I'm The Outside](https://open.spotify.com/track/1XxA7zS7wcoVzp8yFUjicO) | [Angel Du$t](https://open.spotify.com/artist/2ynylCO9SRPTKjgNEH0Y2a) | [I'm The Outside](https://open.spotify.com/album/65eZKE0ZK7RKBkPwwAQ5nS) | 1:51 |
+| 66 | [Ghost](https://open.spotify.com/track/3rNePDz5uV8FGnpuuq63RO) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Ghost](https://open.spotify.com/album/3j2H05IR3iTMMQ3FeYQXt7) | 2:29 |
+| 67 | [All Yours](https://open.spotify.com/track/2ep1Ni8QYPcZZ3ggr1vGoc) | [Balancing Act](https://open.spotify.com/artist/6ZHfuZhV3q15jxpOY8S1m6) | [Who've You Come As?, Pt\. 2](https://open.spotify.com/album/3AVhzOJ1jUZB5uSB4reg6i) | 3:20 |
+| 68 | [Limbo No\. 5](https://open.spotify.com/track/61gP8jIDYD4ZS6ZxgHUPWs) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD) | [This is normal now](https://open.spotify.com/album/1eJyq7c3KDDcPrsExBPK3I) | 3:09 |
+| 69 | [I Used To Go To This Bar](https://open.spotify.com/track/1Uwq1uMR3GEY3KTLzZrRN2) | [Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN) | [I Used To Go To This Bar](https://open.spotify.com/album/5lPJlOBMTQExZmAan61C6A) | 2:12 |
+| 70 | [Pause](https://open.spotify.com/track/4oWyvnjr9c22wlC1Ej9Yp6) | [DAYTIME TV](https://open.spotify.com/artist/35ls7qnn5iKLPMT8PnOBy8) | [Pause](https://open.spotify.com/album/6FCLSPx6YfsPEbsZOexwm7) | 3:21 |
+| 71 | [Pacifico](https://open.spotify.com/track/7xoKUJyENctTQh64oBTpMY) | [CQ Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [Pacifico](https://open.spotify.com/album/4Uri4Wdt8nLr6ICEpyfsBI) | 3:13 |
+| 72 | [St\. Agnes](https://open.spotify.com/track/1iXcHOr7lFCEsGgQvrr2G5) | [Cardinals](https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4) | [Masquerade](https://open.spotify.com/album/29AoeHJhdqdvkZAh7EPoS4) | 2:09 |
+| 73 | [won't speak again](https://open.spotify.com/track/1ynfvyFOlaRb3HLC7WMS8c) | [Bottle Rockets](https://open.spotify.com/artist/1bFphh6DSkuYX0mjTxAxgK) | [won't speak again](https://open.spotify.com/album/5otwUcLBDVYuk4TQU14TAs) | 2:42 |
+| 74 | [Rain](https://open.spotify.com/track/0TkAD1a7uXJkt7HqDbp6YT) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Even If I Never Get There](https://open.spotify.com/album/0G5V83mMQWMXtEdnudKaI7) | 2:43 |
+| 75 | [pieces](https://open.spotify.com/track/0TYYCO93FESiUlTanVH9pX) | [thistle.](https://open.spotify.com/artist/4dPHAp5JXnj8HkY71hWVj5) | [pieces](https://open.spotify.com/album/0HtKs3fzUYPQIjA0kXsCDk) | 3:22 |
+| 76 | [Tongue](https://open.spotify.com/track/7tRI5028bm53M2KJyItRHh) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi) | [Tongue](https://open.spotify.com/album/577XDhAIhJ0K2KCZDJTNUf) | 2:28 |
+| 77 | [Kick](https://open.spotify.com/track/14wokvToKGCEFqAhxMUjFp) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [God Save The Gun](https://open.spotify.com/album/13YF2Z1aV8lMzx4zSw4h75) | 3:49 |
+| 78 | [Broken Record](https://open.spotify.com/track/187PhQNVowHs4jJj4Ebzzu) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [Broken Record](https://open.spotify.com/album/4GF7FP9ViwD2yTyDGcgY7S) | 2:25 |
+| 79 | [AUTONOMY](https://open.spotify.com/track/2kNd41ey27IQcEME9J0ZBz) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [AUTONOMY](https://open.spotify.com/album/31NLkXt7yqS8Ugi7DvkxQm) | 4:40 |
+| 80 | [Magnificent Seven](https://open.spotify.com/track/0RUvT91RC8FCmueE2xTYxj) | [The Clockworks](https://open.spotify.com/artist/6Jg3DFzPWX2VIy01oqLGkz) | [Magnificent Seven](https://open.spotify.com/album/5sHMsGf22ASJYjV7XC9mO8) | 2:46 |
 
-Snapshot ID: `AAAAAMFXCzErbw2Bov7fB/qpNTGyzJiL`
+Snapshot ID: `AAAAAHD6ZHkNHx9QbreZv+2qyRzQIYjt`

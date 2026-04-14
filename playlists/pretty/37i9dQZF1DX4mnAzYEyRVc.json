@@ -1,6 +1,6 @@
 {
   "description": "The world series of Ska. Cover: La Pegatina\n",
-  "num_followers": 70101,
+  "num_followers": 70115,
   "original_name": "Ska Around The Globe",
   "owner": {
     "name": "Spotify",
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-03-20 06:00:11",
       "album": {
-        "name": "Morbo's Club",
-        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
-      },
-      "artists": [
-        {
-          "name": "Sekta Core",
-          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
-        }
-      ],
-      "duration_ms": 237346,
-      "name": "Fantasma de la Rana",
-      "url": "https://open.spotify.com/track/4k8A9pwl4R562JnNnRSjnL"
-    },
-    {
-      "added_at": "2026-03-20 06:00:11",
-      "album": {
         "name": "Aconcagua (El Gobierno de las Tribus)",
         "url": "https://open.spotify.com/album/0viAtWxhnokSz09e9h2FLx"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 212106,
       "name": "Te Sigo",
       "url": "https://open.spotify.com/track/3Oo43EMAeUSAwBy2nYa0A6"
+    },
+    {
+      "added_at": "2026-03-20 06:00:11",
+      "album": {
+        "name": "Morbo's Club",
+        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
+      },
+      "artists": [
+        {
+          "name": "Sekta Core",
+          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
+        }
+      ],
+      "duration_ms": 237346,
+      "name": "Fantasma de la Rana",
+      "url": "https://open.spotify.com/track/4k8A9pwl4R562JnNnRSjnL"
     },
     {
       "added_at": "2026-03-20 06:00:11",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-03-20 06:00:11",
       "album": {
-        "name": "Morbo's Club",
-        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
-      },
-      "artists": [
-        {
-          "name": "Sekta Core",
-          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
-        }
-      ],
-      "duration_ms": 302813,
-      "name": "Delfino",
-      "url": "https://open.spotify.com/track/6igIXgrQB9qnWcQpn9XPfF"
-    },
-    {
-      "added_at": "2026-03-20 06:00:11",
-      "album": {
         "name": "All The Moon Stompers",
         "url": "https://open.spotify.com/album/5G6FHjebFlPzZ3i5iOeeot"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 191666,
       "name": "I Wanna Riot",
       "url": "https://open.spotify.com/track/3prgCqodybVT758HNY2SXW"
+    },
+    {
+      "added_at": "2026-03-20 06:00:11",
+      "album": {
+        "name": "Morbo's Club",
+        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
+      },
+      "artists": [
+        {
+          "name": "Sekta Core",
+          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
+        }
+      ],
+      "duration_ms": 302813,
+      "name": "Delfino",
+      "url": "https://open.spotify.com/track/6igIXgrQB9qnWcQpn9XPfF"
     },
     {
       "added_at": "2026-03-20 06:00:11",
@@ -879,22 +879,6 @@
     {
       "added_at": "2026-03-20 06:00:11",
       "album": {
-        "name": "En La Tormenta",
-        "url": "https://open.spotify.com/album/6p5kmc3vUATfKoUXplaRr6"
-      },
-      "artists": [
-        {
-          "name": "Iseo & Dodosound",
-          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
-        }
-      ],
-      "duration_ms": 181870,
-      "name": "Cuando Salga El Sol",
-      "url": "https://open.spotify.com/track/0qb9jQqKZbN3glPVys6Ea8"
-    },
-    {
-      "added_at": "2026-03-20 06:00:11",
-      "album": {
         "name": "Nice One",
         "url": "https://open.spotify.com/album/1T21oXPF0l4y517iKc8uL3"
       },
@@ -911,18 +895,18 @@
     {
       "added_at": "2026-03-20 06:00:11",
       "album": {
-        "name": "Contra-Revolucion Avenue",
-        "url": "https://open.spotify.com/album/72O6QDXsk2ZkNgZYY2PPF2"
+        "name": "En La Tormenta",
+        "url": "https://open.spotify.com/album/6p5kmc3vUATfKoUXplaRr6"
       },
       "artists": [
         {
-          "name": "Tijuana No!",
-          "url": "https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1"
+          "name": "Iseo & Dodosound",
+          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
         }
       ],
-      "duration_ms": 182400,
-      "name": "Spanish Bombs",
-      "url": "https://open.spotify.com/track/5hRXh6FJLgjzERxIWbvm2M"
+      "duration_ms": 181870,
+      "name": "Cuando Salga El Sol",
+      "url": "https://open.spotify.com/track/0qb9jQqKZbN3glPVys6Ea8"
     },
     {
       "added_at": "2026-03-20 06:00:11",
@@ -943,18 +927,18 @@
     {
       "added_at": "2026-03-20 06:00:11",
       "album": {
-        "name": "Alles gl\u00e4nzt",
-        "url": "https://open.spotify.com/album/4cza578bKGMMNKX8tTYv0l"
+        "name": "Contra-Revolucion Avenue",
+        "url": "https://open.spotify.com/album/72O6QDXsk2ZkNgZYY2PPF2"
       },
       "artists": [
         {
-          "name": "Feine Sahne Fischfilet",
-          "url": "https://open.spotify.com/artist/1BdtWszUR1z5SeU5qXNU31"
+          "name": "Tijuana No!",
+          "url": "https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1"
         }
       ],
-      "duration_ms": 196699,
-      "name": "Komm mit aufs Boot",
-      "url": "https://open.spotify.com/track/1zM8AIh7bHEQBYWuxEf9yh"
+      "duration_ms": 182400,
+      "name": "Spanish Bombs",
+      "url": "https://open.spotify.com/track/5hRXh6FJLgjzERxIWbvm2M"
     },
     {
       "added_at": "2026-03-20 06:00:11",
@@ -971,6 +955,22 @@
       "duration_ms": 240429,
       "name": "Rudy Come Home",
       "url": "https://open.spotify.com/track/6tRydI62ouOLxHAIPMv9tZ"
+    },
+    {
+      "added_at": "2026-03-20 06:00:11",
+      "album": {
+        "name": "Alles gl\u00e4nzt",
+        "url": "https://open.spotify.com/album/4cza578bKGMMNKX8tTYv0l"
+      },
+      "artists": [
+        {
+          "name": "Feine Sahne Fischfilet",
+          "url": "https://open.spotify.com/artist/1BdtWszUR1z5SeU5qXNU31"
+        }
+      ],
+      "duration_ms": 196699,
+      "name": "Komm mit aufs Boot",
+      "url": "https://open.spotify.com/track/1zM8AIh7bHEQBYWuxEf9yh"
     },
     {
       "added_at": "2026-03-20 06:00:11",
@@ -1275,38 +1275,6 @@
     {
       "added_at": "2026-03-20 06:00:11",
       "album": {
-        "name": "Mind Your Business",
-        "url": "https://open.spotify.com/album/04KN9nSLB7bQoHHjGfWTwH"
-      },
-      "artists": [
-        {
-          "name": "James the Seventh",
-          "url": "https://open.spotify.com/artist/5faD9JxapMgSQjrFSZ2kSS"
-        }
-      ],
-      "duration_ms": 141344,
-      "name": "Mind Your Business",
-      "url": "https://open.spotify.com/track/4RqtE3UJO7i605pg97IM3t"
-    },
-    {
-      "added_at": "2026-03-20 06:00:11",
-      "album": {
-        "name": "Jolly Good Fellas - Best of Broilers 1994-2024",
-        "url": "https://open.spotify.com/album/6QGv5jv9VH7oRFF5is69mv"
-      },
-      "artists": [
-        {
-          "name": "Broilers",
-          "url": "https://open.spotify.com/artist/2C7RDMSpyGZFyoSnvOeU4J"
-        }
-      ],
-      "duration_ms": 202506,
-      "name": "In 80 Tagen um die Welt - Birthday Rerecordings '24",
-      "url": "https://open.spotify.com/track/4JABU1W26SfKdMloYWs1TW"
-    },
-    {
-      "added_at": "2026-03-20 06:00:11",
-      "album": {
         "name": "Tania",
         "url": "https://open.spotify.com/album/5FadqUvau1HuWFisyucP3F"
       },
@@ -1327,6 +1295,22 @@
     {
       "added_at": "2026-03-20 06:00:11",
       "album": {
+        "name": "Jolly Good Fellas - Best of Broilers 1994-2024",
+        "url": "https://open.spotify.com/album/6QGv5jv9VH7oRFF5is69mv"
+      },
+      "artists": [
+        {
+          "name": "Broilers",
+          "url": "https://open.spotify.com/artist/2C7RDMSpyGZFyoSnvOeU4J"
+        }
+      ],
+      "duration_ms": 202506,
+      "name": "In 80 Tagen um die Welt - Birthday Rerecordings '24",
+      "url": "https://open.spotify.com/track/4JABU1W26SfKdMloYWs1TW"
+    },
+    {
+      "added_at": "2026-03-20 06:00:11",
+      "album": {
         "name": "Wir kommen in Frieden",
         "url": "https://open.spotify.com/album/0lzS8AmVEYtiQ2kQDjwVjq"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 234061,
       "name": "Wir kommen in Frieden",
       "url": "https://open.spotify.com/track/0V17DNUknI1TDWwQ4W0UN6"
+    },
+    {
+      "added_at": "2026-03-20 06:00:11",
+      "album": {
+        "name": "Mind Your Business",
+        "url": "https://open.spotify.com/album/04KN9nSLB7bQoHHjGfWTwH"
+      },
+      "artists": [
+        {
+          "name": "James the Seventh",
+          "url": "https://open.spotify.com/artist/5faD9JxapMgSQjrFSZ2kSS"
+        }
+      ],
+      "duration_ms": 141344,
+      "name": "Mind Your Business",
+      "url": "https://open.spotify.com/track/4RqtE3UJO7i605pg97IM3t"
     },
     {
       "added_at": "2026-03-20 06:00:11",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2026-03-20 06:00:11",
       "album": {
+        "name": "Fade Out",
+        "url": "https://open.spotify.com/album/246aiCAYETMSFcm9oxUVt1"
+      },
+      "artists": [
+        {
+          "name": "Millington",
+          "url": "https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp"
+        }
+      ],
+      "duration_ms": 220625,
+      "name": "Fade Out",
+      "url": "https://open.spotify.com/track/7t6UiuCntAJaZPToCKbZf9"
+    },
+    {
+      "added_at": "2026-03-20 06:00:11",
+      "album": {
         "name": "La Ranchera",
         "url": "https://open.spotify.com/album/5kGQqjz7CaLrMwjXAbCQ9V"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 187744,
       "name": "La Ranchera",
       "url": "https://open.spotify.com/track/1A8MVDv6OMaKvTo1FvXNzt"
-    },
-    {
-      "added_at": "2026-03-20 06:00:11",
-      "album": {
-        "name": "Fade Out",
-        "url": "https://open.spotify.com/album/246aiCAYETMSFcm9oxUVt1"
-      },
-      "artists": [
-        {
-          "name": "Millington",
-          "url": "https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp"
-        }
-      ],
-      "duration_ms": 220625,
-      "name": "Fade Out",
-      "url": "https://open.spotify.com/track/7t6UiuCntAJaZPToCKbZf9"
     },
     {
       "added_at": "2026-03-20 06:00:11",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2026-03-20 06:00:11",
       "album": {
-        "name": "Endlich auf Reise",
-        "url": "https://open.spotify.com/album/56iStpgUMwWK6rO1WxjlRs"
-      },
-      "artists": [
-        {
-          "name": "Feine Sahne Fischfilet",
-          "url": "https://open.spotify.com/artist/1BdtWszUR1z5SeU5qXNU31"
-        }
-      ],
-      "duration_ms": 179446,
-      "name": "Endlich auf Reise",
-      "url": "https://open.spotify.com/track/6MiKb3SOL9Ieht1bDJAEK9"
-    },
-    {
-      "added_at": "2026-03-20 06:00:11",
-      "album": {
         "name": "Brass Emo, Vol. 2",
         "url": "https://open.spotify.com/album/79iZ4ozQkY3FyBj5fWDg0a"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 193500,
       "name": "Ocean Avenue",
       "url": "https://open.spotify.com/track/6OeFGjI6HJK5OC3k8KFoWz"
+    },
+    {
+      "added_at": "2026-03-20 06:00:11",
+      "album": {
+        "name": "Endlich auf Reise",
+        "url": "https://open.spotify.com/album/56iStpgUMwWK6rO1WxjlRs"
+      },
+      "artists": [
+        {
+          "name": "Feine Sahne Fischfilet",
+          "url": "https://open.spotify.com/artist/1BdtWszUR1z5SeU5qXNU31"
+        }
+      ],
+      "duration_ms": 179446,
+      "name": "Endlich auf Reise",
+      "url": "https://open.spotify.com/track/6MiKb3SOL9Ieht1bDJAEK9"
     },
     {
       "added_at": "2026-03-20 06:00:11",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2026-03-20 06:00:11",
       "album": {
+        "name": "Return Of The Ugly",
+        "url": "https://open.spotify.com/album/6HOvTf2kejA6S1lh0rCTCD"
+      },
+      "artists": [
+        {
+          "name": "Bad Manners",
+          "url": "https://open.spotify.com/artist/0GShYlUdyLahdsvgKdselx"
+        }
+      ],
+      "duration_ms": 182600,
+      "name": "Sally Brown",
+      "url": "https://open.spotify.com/track/08hvKlzfjR1uXbDsUdFtXE"
+    },
+    {
+      "added_at": "2026-03-20 06:00:11",
+      "album": {
         "name": "Juice",
         "url": "https://open.spotify.com/album/751vQFOW3Ta6H207f2KXAp"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 179109,
       "name": "Juice",
       "url": "https://open.spotify.com/track/7EfoHAFmh3NXkFv6psha4K"
-    },
-    {
-      "added_at": "2026-03-20 06:00:11",
-      "album": {
-        "name": "Return Of The Ugly",
-        "url": "https://open.spotify.com/album/6HOvTf2kejA6S1lh0rCTCD"
-      },
-      "artists": [
-        {
-          "name": "Bad Manners",
-          "url": "https://open.spotify.com/artist/0GShYlUdyLahdsvgKdselx"
-        }
-      ],
-      "duration_ms": 182600,
-      "name": "Sally Brown",
-      "url": "https://open.spotify.com/track/08hvKlzfjR1uXbDsUdFtXE"
     },
     {
       "added_at": "2026-03-20 06:00:11",
@@ -1691,6 +1691,22 @@
     {
       "added_at": "2026-03-20 06:00:11",
       "album": {
+        "name": "El Febrero",
+        "url": "https://open.spotify.com/album/1TEaTV2ZG9dCUJznxq2QdD"
+      },
+      "artists": [
+        {
+          "name": "Lollypop Lorry",
+          "url": "https://open.spotify.com/artist/78fGkSqH726lfIWGxSg6uX"
+        }
+      ],
+      "duration_ms": 178010,
+      "name": "El Febrero",
+      "url": "https://open.spotify.com/track/27QfV2StXia4q47sioekXv"
+    },
+    {
+      "added_at": "2026-03-20 06:00:11",
+      "album": {
         "name": "El Insecto",
         "url": "https://open.spotify.com/album/7lpWO0u641KTkfedlWP2Nr"
       },
@@ -1707,22 +1723,6 @@
       "duration_ms": 211297,
       "name": "El Insecto",
       "url": "https://open.spotify.com/track/7AjLVPzp4u4CdT2JF5xM7K"
-    },
-    {
-      "added_at": "2026-03-20 06:00:11",
-      "album": {
-        "name": "El Febrero",
-        "url": "https://open.spotify.com/album/1TEaTV2ZG9dCUJznxq2QdD"
-      },
-      "artists": [
-        {
-          "name": "Lollypop Lorry",
-          "url": "https://open.spotify.com/artist/78fGkSqH726lfIWGxSg6uX"
-        }
-      ],
-      "duration_ms": 178010,
-      "name": "El Febrero",
-      "url": "https://open.spotify.com/track/27QfV2StXia4q47sioekXv"
     }
   ],
   "unique_name": "Ska Around The Globe",

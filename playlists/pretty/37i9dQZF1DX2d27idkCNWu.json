@@ -1,6 +1,6 @@
 {
   "description": "Vers\u00f5es desplugadas do mundo pop. ",
-  "num_followers": 260067,
+  "num_followers": 260069,
   "original_name": "Pop Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -395,6 +395,22 @@
     {
       "added_at": "2025-03-28 04:59:26",
       "album": {
+        "name": "Believe Acoustic",
+        "url": "https://open.spotify.com/album/4yz9rO7Q1UC2rK5eLOxmS7"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 187680,
+      "name": "Boyfriend - Acoustic Version",
+      "url": "https://open.spotify.com/track/3ZsOYk34IQMrH4B1PBdofL"
+    },
+    {
+      "added_at": "2025-03-28 04:59:26",
+      "album": {
         "name": "Oh My Messy Mind",
         "url": "https://open.spotify.com/album/2aIsEIVLrAP75xdEhdVm1d"
       },
@@ -407,26 +423,6 @@
       "duration_ms": 225920,
       "name": "Bad",
       "url": "https://open.spotify.com/track/3xRcQ04b0l5RiU2w7lJhCD"
-    },
-    {
-      "added_at": "2025-03-28 04:59:26",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0dlIoNzi1FAca3VcyPFj5S"
-      },
-      "artists": [
-        {
-          "name": "Lennon Stella",
-          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
-        },
-        {
-          "name": "Kevin Garrett",
-          "url": "https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E"
-        }
-      ],
-      "duration_ms": 265652,
-      "name": "Every Time You Go Away",
-      "url": "https://open.spotify.com/track/5OtvDpNhxUde1hkAjvzSzE"
     },
     {
       "added_at": "2025-03-28 04:59:26",
@@ -447,18 +443,22 @@
     {
       "added_at": "2025-03-28 04:59:26",
       "album": {
-        "name": "Believe Acoustic",
-        "url": "https://open.spotify.com/album/4yz9rO7Q1UC2rK5eLOxmS7"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0dlIoNzi1FAca3VcyPFj5S"
       },
       "artists": [
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Lennon Stella",
+          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
+        },
+        {
+          "name": "Kevin Garrett",
+          "url": "https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E"
         }
       ],
-      "duration_ms": 187680,
-      "name": "Boyfriend - Acoustic Version",
-      "url": "https://open.spotify.com/track/3ZsOYk34IQMrH4B1PBdofL"
+      "duration_ms": 265652,
+      "name": "Every Time You Go Away",
+      "url": "https://open.spotify.com/track/5OtvDpNhxUde1hkAjvzSzE"
     },
     {
       "added_at": "2025-03-28 04:59:26",
@@ -647,22 +647,6 @@
     {
       "added_at": "2025-03-28 04:59:26",
       "album": {
-        "name": "Girassol (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6rsBJMvfJdNHyBESCiBEpb"
-      },
-      "artists": [
-        {
-          "name": "IVYSON",
-          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
-        }
-      ],
-      "duration_ms": 65059,
-      "name": "Girassol - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/60ssGysPXPdg4K1PLxGaN7"
-    },
-    {
-      "added_at": "2025-03-28 04:59:26",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/14mR6XKPmsxzvOYCkqubJF"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 225790,
       "name": "Castle on the Hill - Recorded at Spotify Studios New York City",
       "url": "https://open.spotify.com/track/6rjO7ZdSUdd8W2fkWL7fK9"
+    },
+    {
+      "added_at": "2025-03-28 04:59:26",
+      "album": {
+        "name": "Girassol (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6rsBJMvfJdNHyBESCiBEpb"
+      },
+      "artists": [
+        {
+          "name": "IVYSON",
+          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
+        }
+      ],
+      "duration_ms": 65059,
+      "name": "Girassol - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/60ssGysPXPdg4K1PLxGaN7"
     },
     {
       "added_at": "2025-03-28 04:59:26",
@@ -719,22 +719,6 @@
     {
       "added_at": "2025-03-28 04:59:26",
       "album": {
-        "name": "Let Yourself In",
-        "url": "https://open.spotify.com/album/4rYwGKBGTapGLz4oUyr2fy"
-      },
-      "artists": [
-        {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
-        }
-      ],
-      "duration_ms": 182906,
-      "name": "Nothing But a Song - Bonus Acoustic Version",
-      "url": "https://open.spotify.com/track/4WY3fLbBiHw6MdHBB7K31V"
-    },
-    {
-      "added_at": "2025-03-28 04:59:26",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6ixkdVE4xrPNcVKhRpnPEh"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 214586,
       "name": "Lost In Japan - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/7b1WVMX0FShcPWct8ca7ma"
+    },
+    {
+      "added_at": "2025-03-28 04:59:26",
+      "album": {
+        "name": "Let Yourself In",
+        "url": "https://open.spotify.com/album/4rYwGKBGTapGLz4oUyr2fy"
+      },
+      "artists": [
+        {
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+        }
+      ],
+      "duration_ms": 182906,
+      "name": "Nothing But a Song - Bonus Acoustic Version",
+      "url": "https://open.spotify.com/track/4WY3fLbBiHw6MdHBB7K31V"
     },
     {
       "added_at": "2025-03-28 04:59:26",
@@ -783,22 +783,6 @@
     {
       "added_at": "2025-03-28 04:59:26",
       "album": {
-        "name": "A Gente S\u00f3 Conhece Quando Termina",
-        "url": "https://open.spotify.com/album/57G8gYnOCrQnBPWTdsCKYT"
-      },
-      "artists": [
-        {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
-        }
-      ],
-      "duration_ms": 156774,
-      "name": "A Gente S\u00f3 Conhece Quando Termina",
-      "url": "https://open.spotify.com/track/7aO80i4s9TvBg59Z7QwedH"
-    },
-    {
-      "added_at": "2025-03-28 04:59:26",
-      "album": {
         "name": "Live At AllSaints Studios",
         "url": "https://open.spotify.com/album/22y98JB7rKhh335uj6nDZ4"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 214000,
       "name": "Thunder - Live/Acoustic",
       "url": "https://open.spotify.com/track/2mZrKpdrNUA4oZJWzTunqZ"
+    },
+    {
+      "added_at": "2025-03-28 04:59:26",
+      "album": {
+        "name": "A Gente S\u00f3 Conhece Quando Termina",
+        "url": "https://open.spotify.com/album/57G8gYnOCrQnBPWTdsCKYT"
+      },
+      "artists": [
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        }
+      ],
+      "duration_ms": 156774,
+      "name": "A Gente S\u00f3 Conhece Quando Termina",
+      "url": "https://open.spotify.com/track/7aO80i4s9TvBg59Z7QwedH"
     },
     {
       "added_at": "2025-03-28 04:59:26",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2025-03-28 04:59:26",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 185975,
+      "name": "Veneno - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/31CiU58drf9xYA9VEOFDfW"
+    },
+    {
+      "added_at": "2025-03-28 04:59:26",
+      "album": {
         "name": "Nada Sei (Apneia)",
         "url": "https://open.spotify.com/album/0X1QuDiAcgHOZ4zNDQ1AaO"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 229785,
       "name": "Nada Sei - Apneia, Ao Vivo",
       "url": "https://open.spotify.com/track/3x8QrTuZCTbEJI0NrWEye2"
-    },
-    {
-      "added_at": "2025-03-28 04:59:26",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 185975,
-      "name": "Veneno - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/31CiU58drf9xYA9VEOFDfW"
     },
     {
       "added_at": "2025-03-28 04:59:26",
@@ -1551,18 +1551,30 @@
     {
       "added_at": "2025-03-28 04:59:26",
       "album": {
-        "name": "Blame It On Me (Acoustic)",
-        "url": "https://open.spotify.com/album/4pEVbYbcShKz1w7L1uSmLd"
+        "name": "Caf\u00e9 Ac\u00fastico",
+        "url": "https://open.spotify.com/album/6RtA8ArfE1jCUAY5cTNrkN"
       },
       "artists": [
         {
-          "name": "Melanie C",
-          "url": "https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df"
+          "name": "IGOR",
+          "url": "https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny"
+        },
+        {
+          "name": "Medellin",
+          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
+        },
+        {
+          "name": "TerrorDosBeats",
+          "url": "https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo"
+        },
+        {
+          "name": "Tio Thulio",
+          "url": "https://open.spotify.com/artist/0wfEDi6nZuTA8TfickSlym"
         }
       ],
-      "duration_ms": 191986,
-      "name": "Blame It On Me (Acoustic)",
-      "url": "https://open.spotify.com/track/4SsJbYhmGPNQ5G1tnA1rK7"
+      "duration_ms": 101739,
+      "name": "Bem Que Eu Te Avisei",
+      "url": "https://open.spotify.com/track/01IPPUDKgtlTn8fbeji3Hn"
     }
   ],
   "unique_name": "Pop Ac\u00fastico",

@@ -1,6 +1,6 @@
 {
   "description": "Ya llegu\u00e9 de donde andaba... se me concedi\u00f3 volver \ud83d\ude4f\ud83c\udffe",
-  "num_followers": 330242,
+  "num_followers": 330265,
   "original_name": "Llegando al Rancho",
   "owner": {
     "name": "Spotify",
@@ -615,8 +615,8 @@
     {
       "added_at": "2025-08-13 19:30:31",
       "album": {
-        "name": "Mitad Y Mitad",
-        "url": "https://open.spotify.com/album/76KrINxApHUqS0GywH3g0R"
+        "name": "Corridos De Alto Calibre",
+        "url": "https://open.spotify.com/album/1YKiiRFhUVaLMVEu0l59Ri"
       },
       "artists": [
         {
@@ -624,9 +624,9 @@
           "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
         }
       ],
-      "duration_ms": 241906,
-      "name": "\u00bfPor Qu\u00e9 Cambiaste De Opini\u00f3n?",
-      "url": "https://open.spotify.com/track/1j8gLQNfFOI0vs8qcVTWwa"
+      "duration_ms": 201600,
+      "name": "Javier El De Los Llanos",
+      "url": "https://open.spotify.com/track/7kyK2NSDfRE1612vdYuqIx"
     },
     {
       "added_at": "2025-08-13 19:30:31",
@@ -699,8 +699,8 @@
     {
       "added_at": "2025-08-13 19:30:31",
       "album": {
-        "name": "Corridos De Alto Calibre",
-        "url": "https://open.spotify.com/album/1YKiiRFhUVaLMVEu0l59Ri"
+        "name": "Mitad Y Mitad",
+        "url": "https://open.spotify.com/album/76KrINxApHUqS0GywH3g0R"
       },
       "artists": [
         {
@@ -708,25 +708,9 @@
           "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
         }
       ],
-      "duration_ms": 201600,
-      "name": "Javier El De Los Llanos",
-      "url": "https://open.spotify.com/track/7kyK2NSDfRE1612vdYuqIx"
-    },
-    {
-      "added_at": "2025-08-13 19:30:31",
-      "album": {
-        "name": "Recuerden Mi Estilo",
-        "url": "https://open.spotify.com/album/0lMw8xxFLYRSGYRlGzo8uc"
-      },
-      "artists": [
-        {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        }
-      ],
-      "duration_ms": 155882,
-      "name": "Qu\u00e9 Caro Estoy Pagando",
-      "url": "https://open.spotify.com/track/1JU9KfQidaLyx80ixZr66t"
+      "duration_ms": 241906,
+      "name": "\u00bfPor Qu\u00e9 Cambiaste De Opini\u00f3n?",
+      "url": "https://open.spotify.com/track/1j8gLQNfFOI0vs8qcVTWwa"
     },
     {
       "added_at": "2025-08-13 19:30:31",
@@ -743,6 +727,22 @@
       "duration_ms": 218470,
       "name": "Esos Tus Ojos",
       "url": "https://open.spotify.com/track/1BgnOcUE1rdcFtDphQtDOf"
+    },
+    {
+      "added_at": "2025-08-13 19:30:31",
+      "album": {
+        "name": "Recuerden Mi Estilo",
+        "url": "https://open.spotify.com/album/0lMw8xxFLYRSGYRlGzo8uc"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "duration_ms": 155882,
+      "name": "Qu\u00e9 Caro Estoy Pagando",
+      "url": "https://open.spotify.com/track/1JU9KfQidaLyx80ixZr66t"
     },
     {
       "added_at": "2025-08-13 19:30:31",
@@ -875,22 +875,6 @@
     {
       "added_at": "2025-08-13 19:30:31",
       "album": {
-        "name": "Yo Ya Sabia Pa Donde Iba",
-        "url": "https://open.spotify.com/album/7CIIaQHhYQDhuVaUybIw7R"
-      },
-      "artists": [
-        {
-          "name": "Los Chavalitos",
-          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
-        }
-      ],
-      "duration_ms": 181611,
-      "name": "Yo Ya Sabia Pa Donde Iba",
-      "url": "https://open.spotify.com/track/68tFrY3RLTslRY3l5wFfKd"
-    },
-    {
-      "added_at": "2025-08-13 19:30:31",
-      "album": {
         "name": "El Maquinista",
         "url": "https://open.spotify.com/album/69lJRuexU5t09latWCcR2L"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 188800,
       "name": "Ayer La Vi Por La Calle",
       "url": "https://open.spotify.com/track/3QEtFSlIylEVy7pePLHNiE"
+    },
+    {
+      "added_at": "2025-08-13 19:30:31",
+      "album": {
+        "name": "Puras Rancheras",
+        "url": "https://open.spotify.com/album/2oai80RcPheeeg0bNCPDRW"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 179400,
+      "name": "Arboles De La Barranca",
+      "url": "https://open.spotify.com/track/3Oa31DdD8vxktKoyUf7RyZ"
     },
     {
       "added_at": "2025-08-13 19:30:31",
@@ -939,22 +939,6 @@
     {
       "added_at": "2025-08-13 19:30:31",
       "album": {
-        "name": "Puras Rancheras",
-        "url": "https://open.spotify.com/album/2oai80RcPheeeg0bNCPDRW"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 179400,
-      "name": "Arboles De La Barranca",
-      "url": "https://open.spotify.com/track/3Oa31DdD8vxktKoyUf7RyZ"
-    },
-    {
-      "added_at": "2025-08-13 19:30:31",
-      "album": {
         "name": "Vencedor",
         "url": "https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe"
       },
@@ -971,18 +955,18 @@
     {
       "added_at": "2025-08-13 19:30:31",
       "album": {
-        "name": "Joan Sebastian con Tambora",
-        "url": "https://open.spotify.com/album/4c5Q81KOben9aOKTxA4uwi"
+        "name": "Yo Ya Sabia Pa Donde Iba",
+        "url": "https://open.spotify.com/album/7CIIaQHhYQDhuVaUybIw7R"
       },
       "artists": [
         {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+          "name": "Los Chavalitos",
+          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
         }
       ],
-      "duration_ms": 278058,
-      "name": "Manuel Ju\u00e1rez",
-      "url": "https://open.spotify.com/track/1pVPh9e9gsgmxCmGljoWta"
+      "duration_ms": 181611,
+      "name": "Yo Ya Sabia Pa Donde Iba",
+      "url": "https://open.spotify.com/track/68tFrY3RLTslRY3l5wFfKd"
     },
     {
       "added_at": "2025-08-13 19:30:31",
@@ -999,6 +983,22 @@
       "duration_ms": 128177,
       "name": "Coraz\u00f3n Malo",
       "url": "https://open.spotify.com/track/4ta6IEXPLgo20X6HzicCee"
+    },
+    {
+      "added_at": "2025-08-13 19:30:31",
+      "album": {
+        "name": "Joan Sebastian con Tambora",
+        "url": "https://open.spotify.com/album/4c5Q81KOben9aOKTxA4uwi"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 278058,
+      "name": "Manuel Ju\u00e1rez",
+      "url": "https://open.spotify.com/track/1pVPh9e9gsgmxCmGljoWta"
     },
     {
       "added_at": "2025-08-13 19:30:31",
@@ -1411,26 +1411,6 @@
     {
       "added_at": "2025-08-13 19:30:31",
       "album": {
-        "name": "Pistiando y Cantando",
-        "url": "https://open.spotify.com/album/0wMUKIvlpMpn6pHUBo7371"
-      },
-      "artists": [
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        },
-        {
-          "name": "Los Nuevos Escoltas",
-          "url": "https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm"
-        }
-      ],
-      "duration_ms": 184750,
-      "name": "Por Que Te Vas De Mi",
-      "url": "https://open.spotify.com/track/2sTtOh2i7bBe7ypfj3GUZ4"
-    },
-    {
-      "added_at": "2025-08-13 19:30:31",
-      "album": {
         "name": "Me Rindo",
         "url": "https://open.spotify.com/album/5Jeg7MzgKFXenbJAcD64Hj"
       },
@@ -1475,6 +1455,26 @@
       "duration_ms": 181506,
       "name": "Necesito Due\u00f1a - Ranchera Version",
       "url": "https://open.spotify.com/track/5nQusPyVdSNdpBJdX5uSq4"
+    },
+    {
+      "added_at": "2025-08-13 19:30:31",
+      "album": {
+        "name": "Pistiando y Cantando",
+        "url": "https://open.spotify.com/album/0wMUKIvlpMpn6pHUBo7371"
+      },
+      "artists": [
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        },
+        {
+          "name": "Los Nuevos Escoltas",
+          "url": "https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm"
+        }
+      ],
+      "duration_ms": 184750,
+      "name": "Por Que Te Vas De Mi",
+      "url": "https://open.spotify.com/track/2sTtOh2i7bBe7ypfj3GUZ4"
     },
     {
       "added_at": "2025-08-13 19:30:31",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2025-08-13 19:30:31",
       "album": {
-        "name": "La Amanecida En Vivo Desde \"El Carrizal\"",
-        "url": "https://open.spotify.com/album/2kNkRSLKWyQFoc2BXrfCgR"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 168552,
-      "name": "Hay Unos Ojos (En Vivo)",
-      "url": "https://open.spotify.com/track/2xnNGK1hk6CPmiRczR2eWS"
-    },
-    {
-      "added_at": "2025-08-13 19:30:31",
-      "album": {
         "name": "20 Exitos de Ley",
         "url": "https://open.spotify.com/album/6JtWMgUrSR6W2hsWZetzph"
       },
@@ -1939,6 +1923,22 @@
       "duration_ms": 160392,
       "name": "Que Chulos Ojos",
       "url": "https://open.spotify.com/track/2dl2KGfCQ2cleNVXlwFSdh"
+    },
+    {
+      "added_at": "2025-08-13 19:30:31",
+      "album": {
+        "name": "La Amanecida En Vivo Desde \"El Carrizal\"",
+        "url": "https://open.spotify.com/album/2kNkRSLKWyQFoc2BXrfCgR"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 168552,
+      "name": "Hay Unos Ojos (En Vivo)",
+      "url": "https://open.spotify.com/track/2xnNGK1hk6CPmiRczR2eWS"
     },
     {
       "added_at": "2025-08-13 19:30:31",
@@ -1975,22 +1975,6 @@
     {
       "added_at": "2025-08-13 19:30:31",
       "album": {
-        "name": "Las M\u00e1s Tocadas",
-        "url": "https://open.spotify.com/album/20Bcfqp9GJ3UNL1mDlZepp"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 172788,
-      "name": "Mi Unico Camino",
-      "url": "https://open.spotify.com/track/0zD1NLTk9QkTj7CZFCGVpX"
-    },
-    {
-      "added_at": "2025-08-13 19:30:31",
-      "album": {
         "name": "20 \u00c9xitos de Ley (Serie de Colecci\u00f3n)",
         "url": "https://open.spotify.com/album/7wrf7tzBFiEyJwgX4R6cf3"
       },
@@ -2003,6 +1987,22 @@
       "duration_ms": 143871,
       "name": "A Qui\u00e9n Esperas",
       "url": "https://open.spotify.com/track/3eCY6AUZVvKuFQYVpvMEMV"
+    },
+    {
+      "added_at": "2025-08-13 19:30:31",
+      "album": {
+        "name": "Las M\u00e1s Tocadas",
+        "url": "https://open.spotify.com/album/20Bcfqp9GJ3UNL1mDlZepp"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 172788,
+      "name": "Mi Unico Camino",
+      "url": "https://open.spotify.com/track/0zD1NLTk9QkTj7CZFCGVpX"
     },
     {
       "added_at": "2025-08-13 19:30:31",
@@ -2071,22 +2071,6 @@
     {
       "added_at": "2025-08-13 19:30:31",
       "album": {
-        "name": "Cosas De La Vida",
-        "url": "https://open.spotify.com/album/1w5pqUdSrGOMgUbVVfb8Ri"
-      },
-      "artists": [
-        {
-          "name": "Banda Tierra Blanca",
-          "url": "https://open.spotify.com/artist/1Y8dOnSKslODbDNr5DmTuB"
-        }
-      ],
-      "duration_ms": 200053,
-      "name": "Juro Por Dios",
-      "url": "https://open.spotify.com/track/6osud8uV5xJV9eODR6del5"
-    },
-    {
-      "added_at": "2025-08-13 19:30:31",
-      "album": {
         "name": "Falsas Amistades",
         "url": "https://open.spotify.com/album/1EsiciTPporCUNq9lMVPHG"
       },
@@ -2103,18 +2087,18 @@
     {
       "added_at": "2025-08-13 19:30:31",
       "album": {
-        "name": "Vali\u00f3 La Pena Equivocarme",
-        "url": "https://open.spotify.com/album/4t7S30Ny12DvWnGAY6JpUm"
+        "name": "Cosas De La Vida",
+        "url": "https://open.spotify.com/album/1w5pqUdSrGOMgUbVVfb8Ri"
       },
       "artists": [
         {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+          "name": "Banda Tierra Blanca",
+          "url": "https://open.spotify.com/artist/1Y8dOnSKslODbDNr5DmTuB"
         }
       ],
-      "duration_ms": 145426,
-      "name": "La L\u00e1mpara",
-      "url": "https://open.spotify.com/track/4N9cZZk8n3mUp2o5HnDagr"
+      "duration_ms": 200053,
+      "name": "Juro Por Dios",
+      "url": "https://open.spotify.com/track/6osud8uV5xJV9eODR6del5"
     },
     {
       "added_at": "2025-08-13 19:30:31",
@@ -2135,18 +2119,18 @@
     {
       "added_at": "2025-08-13 19:30:31",
       "album": {
-        "name": "La Plebada Belica",
-        "url": "https://open.spotify.com/album/3SKUMbnFexTaiw7inC9YhV"
+        "name": "Vali\u00f3 La Pena Equivocarme",
+        "url": "https://open.spotify.com/album/4t7S30Ny12DvWnGAY6JpUm"
       },
       "artists": [
         {
-          "name": "Los Caimanes De Sinaloa",
-          "url": "https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN"
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
         }
       ],
-      "duration_ms": 142936,
-      "name": "El Sube y Baja",
-      "url": "https://open.spotify.com/track/6OFflgveGSi5yZAsSszD93"
+      "duration_ms": 145426,
+      "name": "La L\u00e1mpara",
+      "url": "https://open.spotify.com/track/4N9cZZk8n3mUp2o5HnDagr"
     },
     {
       "added_at": "2025-08-13 19:30:31",
@@ -2167,6 +2151,22 @@
       "duration_ms": 196429,
       "name": "Prenda Del Alma",
       "url": "https://open.spotify.com/track/2wCgY4izSH5k8Dy6bUaO7H"
+    },
+    {
+      "added_at": "2025-08-13 19:30:31",
+      "album": {
+        "name": "La Plebada Belica",
+        "url": "https://open.spotify.com/album/3SKUMbnFexTaiw7inC9YhV"
+      },
+      "artists": [
+        {
+          "name": "Los Caimanes De Sinaloa",
+          "url": "https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN"
+        }
+      ],
+      "duration_ms": 142936,
+      "name": "El Sube y Baja",
+      "url": "https://open.spotify.com/track/6OFflgveGSi5yZAsSszD93"
     },
     {
       "added_at": "2025-08-13 19:30:31",
@@ -2283,22 +2283,6 @@
     {
       "added_at": "2025-08-13 19:30:31",
       "album": {
-        "name": "Puras de Laberinto (En Vivo)",
-        "url": "https://open.spotify.com/album/6gXFZR2fH5bMr589xkrv1i"
-      },
-      "artists": [
-        {
-          "name": "Novillos de la Sierra",
-          "url": "https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro"
-        }
-      ],
-      "duration_ms": 212774,
-      "name": "Roman Iriarte (En Vivo)",
-      "url": "https://open.spotify.com/track/2UnoZ8kLfgoKtrIgLEhZJy"
-    },
-    {
-      "added_at": "2025-08-13 19:30:31",
-      "album": {
         "name": "Imprescindibles",
         "url": "https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE"
       },
@@ -2311,6 +2295,22 @@
       "duration_ms": 142640,
       "name": "No Porque Seas T\u00fa",
       "url": "https://open.spotify.com/track/79kcLoI5YEYCuAANwIYuE5"
+    },
+    {
+      "added_at": "2025-08-13 19:30:31",
+      "album": {
+        "name": "Puras de Laberinto (En Vivo)",
+        "url": "https://open.spotify.com/album/6gXFZR2fH5bMr589xkrv1i"
+      },
+      "artists": [
+        {
+          "name": "Novillos de la Sierra",
+          "url": "https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro"
+        }
+      ],
+      "duration_ms": 212774,
+      "name": "Roman Iriarte (En Vivo)",
+      "url": "https://open.spotify.com/track/2UnoZ8kLfgoKtrIgLEhZJy"
     },
     {
       "added_at": "2025-08-13 19:30:31",

@@ -6,8 +6,24 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAIVlx1XHGySszbqkUe4l6FpF+oWZjA",
+  "snapshot_id": "AAAIWlfbb9LVm4MqlISiKyhVgA824TBm",
   "tracks": [
+    {
+      "added_at": "2026-04-13 10:33:49",
+      "album": {
+        "name": "Danger",
+        "url": "https://open.spotify.com/album/2EOsDt9m4osRXxcW4M8ha3"
+      },
+      "artists": [
+        {
+          "name": "Arctic Lights",
+          "url": "https://open.spotify.com/artist/3cd4BlvueSaLJrLKVo4Qq6"
+        }
+      ],
+      "duration_ms": 183012,
+      "name": "Danger",
+      "url": "https://open.spotify.com/track/1rzxCFhjazp7yIPB9lO4MM"
+    },
     {
       "added_at": "2026-04-06 16:27:11",
       "album": {
@@ -70219,6 +70235,822 @@
       "duration_ms": 214593,
       "name": "Remain with Grey",
       "url": "https://open.spotify.com/track/4pnj4tte4lPQ5R6OWa0SUZ"
+    },
+    {
+      "added_at": "2026-04-13 08:57:28",
+      "album": {
+        "name": "Dimensiones Paralelas",
+        "url": "https://open.spotify.com/album/2OZKVMsaCv9vqfLAyO36hm"
+      },
+      "artists": [
+        {
+          "name": "Nauj Project",
+          "url": "https://open.spotify.com/artist/4g6e6FnWWi0oQGhHxkn9Jd"
+        }
+      ],
+      "duration_ms": 137885,
+      "name": "Prismas",
+      "url": "https://open.spotify.com/track/3OQis5k4SYXnQLHhjwfx9X"
+    },
+    {
+      "added_at": "2026-04-13 22:04:53",
+      "album": {
+        "name": "SEMIQUINCENTENNIAL VOICES",
+        "url": "https://open.spotify.com/album/4q3D0mA0dP458GXE7Z6NIE"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 142319,
+      "name": "To Form a More Perfect Union",
+      "url": "https://open.spotify.com/track/3BPsUZgOTgQqa8IexhxIsA"
+    },
+    {
+      "added_at": "2026-04-13 22:04:53",
+      "album": {
+        "name": "SEMIQUINCENTENNIAL VOICES",
+        "url": "https://open.spotify.com/album/4q3D0mA0dP458GXE7Z6NIE"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 156959,
+      "name": "Mirror Souls",
+      "url": "https://open.spotify.com/track/1SZdPi4H7lo09CfU7E6YzY"
+    },
+    {
+      "added_at": "2026-04-13 22:04:53",
+      "album": {
+        "name": "SEMIQUINCENTENNIAL VOICES",
+        "url": "https://open.spotify.com/album/4q3D0mA0dP458GXE7Z6NIE"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 141039,
+      "name": "Concrete Cradle",
+      "url": "https://open.spotify.com/track/6NiVVMO2kradHNjz3FrHzz"
+    },
+    {
+      "added_at": "2026-04-13 22:04:53",
+      "album": {
+        "name": "SEMIQUINCENTENNIAL VOICES",
+        "url": "https://open.spotify.com/album/4q3D0mA0dP458GXE7Z6NIE"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 179919,
+      "name": "Sheep Among Wolves",
+      "url": "https://open.spotify.com/track/08TJL0AVxpqr0FJdUSdCgg"
+    },
+    {
+      "added_at": "2026-04-13 22:04:53",
+      "album": {
+        "name": "SEMIQUINCENTENNIAL VOICES",
+        "url": "https://open.spotify.com/album/4q3D0mA0dP458GXE7Z6NIE"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 152559,
+      "name": "Dembow Identity",
+      "url": "https://open.spotify.com/track/2jMHMd99ACS8pEaxdeRPTb"
+    },
+    {
+      "added_at": "2026-04-13 22:04:53",
+      "album": {
+        "name": "SEMIQUINCENTENNIAL VOICES",
+        "url": "https://open.spotify.com/album/4q3D0mA0dP458GXE7Z6NIE"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 126719,
+      "name": "Zip Code Blues",
+      "url": "https://open.spotify.com/track/0LDkJG5xMCeB9O7EnjIZ7U"
+    },
+    {
+      "added_at": "2026-04-13 22:04:53",
+      "album": {
+        "name": "SEMIQUINCENTENNIAL VOICES",
+        "url": "https://open.spotify.com/album/4q3D0mA0dP458GXE7Z6NIE"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 154919,
+      "name": "Father\u2019s Frame",
+      "url": "https://open.spotify.com/track/3fZlTE403FrLbbpLSGvES8"
+    },
+    {
+      "added_at": "2026-04-13 22:04:53",
+      "album": {
+        "name": "SEMIQUINCENTENNIAL VOICES",
+        "url": "https://open.spotify.com/album/4q3D0mA0dP458GXE7Z6NIE"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 159519,
+      "name": "Geneva Games",
+      "url": "https://open.spotify.com/track/3ZgowoZl7Z1oMeEJAFbTcz"
+    },
+    {
+      "added_at": "2026-04-13 22:04:53",
+      "album": {
+        "name": "SEMIQUINCENTENNIAL VOICES",
+        "url": "https://open.spotify.com/album/4q3D0mA0dP458GXE7Z6NIE"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 175799,
+      "name": "Her Reflection",
+      "url": "https://open.spotify.com/track/3MOEV9moUDZ1DFibCptfSw"
+    },
+    {
+      "added_at": "2026-04-13 22:04:53",
+      "album": {
+        "name": "SEMIQUINCENTENNIAL VOICES",
+        "url": "https://open.spotify.com/album/4q3D0mA0dP458GXE7Z6NIE"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 164559,
+      "name": "350 Stories",
+      "url": "https://open.spotify.com/track/6xumoSdXNQhXkQsT32Spyd"
+    },
+    {
+      "added_at": "2026-04-13 22:04:53",
+      "album": {
+        "name": "SEMIQUINCENTENNIAL VOICES",
+        "url": "https://open.spotify.com/album/4q3D0mA0dP458GXE7Z6NIE"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 152519,
+      "name": "Solo Matriarch",
+      "url": "https://open.spotify.com/track/4mTPAInXv433Lqt2vch85x"
+    },
+    {
+      "added_at": "2026-04-13 22:04:53",
+      "album": {
+        "name": "SEMIQUINCENTENNIAL VOICES",
+        "url": "https://open.spotify.com/album/4q3D0mA0dP458GXE7Z6NIE"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 184919,
+      "name": "Blackout Trauma",
+      "url": "https://open.spotify.com/track/0UNpnDhGLD7jOziJqRhiEs"
+    },
+    {
+      "added_at": "2026-04-13 22:04:53",
+      "album": {
+        "name": "SEMIQUINCENTENNIAL VOICES",
+        "url": "https://open.spotify.com/album/4q3D0mA0dP458GXE7Z6NIE"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 159839,
+      "name": "The Divide",
+      "url": "https://open.spotify.com/track/5WIkiKpEVdi277Pmz08Dd2"
+    },
+    {
+      "added_at": "2026-04-13 22:04:53",
+      "album": {
+        "name": "SEMIQUINCENTENNIAL VOICES",
+        "url": "https://open.spotify.com/album/4q3D0mA0dP458GXE7Z6NIE"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 182079,
+      "name": "Route 66 Centennial",
+      "url": "https://open.spotify.com/track/68lo19a7FTZhSmvWAZgzNe"
+    },
+    {
+      "added_at": "2026-04-13 22:04:53",
+      "album": {
+        "name": "SEMIQUINCENTENNIAL VOICES",
+        "url": "https://open.spotify.com/album/4q3D0mA0dP458GXE7Z6NIE"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 166159,
+      "name": "The 250th Finale",
+      "url": "https://open.spotify.com/track/4uU3CxzXHiFEjbOWcO6b6k"
+    },
+    {
+      "added_at": "2026-04-13 22:04:53",
+      "album": {
+        "name": "SEMIQUINCENTENNIAL VOICES",
+        "url": "https://open.spotify.com/album/4q3D0mA0dP458GXE7Z6NIE"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 164719,
+      "name": "To Form a More Perfect Union (fomo mode)",
+      "url": "https://open.spotify.com/track/2yIZtAVs0kuVTN1H6GdAfT"
+    },
+    {
+      "added_at": "2026-04-13 22:04:53",
+      "album": {
+        "name": "SEMIQUINCENTENNIAL VOICES",
+        "url": "https://open.spotify.com/album/4q3D0mA0dP458GXE7Z6NIE"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 169679,
+      "name": "Mirror Souls (fomo mode)",
+      "url": "https://open.spotify.com/track/5Hr2bIswIe1jshBzLEU6wv"
+    },
+    {
+      "added_at": "2026-04-13 22:04:53",
+      "album": {
+        "name": "SEMIQUINCENTENNIAL VOICES",
+        "url": "https://open.spotify.com/album/4q3D0mA0dP458GXE7Z6NIE"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 149919,
+      "name": "Concrete Cradle (fomo mode)",
+      "url": "https://open.spotify.com/track/7kW20ZfhBFcSui6wgeSst4"
+    },
+    {
+      "added_at": "2026-04-13 22:04:53",
+      "album": {
+        "name": "SEMIQUINCENTENNIAL VOICES",
+        "url": "https://open.spotify.com/album/4q3D0mA0dP458GXE7Z6NIE"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 163999,
+      "name": "Sheep Among Wolves (fomo mode)",
+      "url": "https://open.spotify.com/track/7dDGiP35arZuUg4hAQFUpb"
+    },
+    {
+      "added_at": "2026-04-13 22:04:53",
+      "album": {
+        "name": "SEMIQUINCENTENNIAL VOICES",
+        "url": "https://open.spotify.com/album/4q3D0mA0dP458GXE7Z6NIE"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 136239,
+      "name": "Dembow Identity (fomo mode)",
+      "url": "https://open.spotify.com/track/6WAdPlqleGI0Q16GJikh5N"
+    },
+    {
+      "added_at": "2026-04-13 22:04:53",
+      "album": {
+        "name": "SEMIQUINCENTENNIAL VOICES",
+        "url": "https://open.spotify.com/album/4q3D0mA0dP458GXE7Z6NIE"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 166239,
+      "name": "Zip Code Blues (fomo mode)",
+      "url": "https://open.spotify.com/track/5qetKqkIzlmG7joDz5eM8H"
+    },
+    {
+      "added_at": "2026-04-13 22:04:53",
+      "album": {
+        "name": "SEMIQUINCENTENNIAL VOICES",
+        "url": "https://open.spotify.com/album/4q3D0mA0dP458GXE7Z6NIE"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 143559,
+      "name": "Father\u2019s Frame (fomo mode)",
+      "url": "https://open.spotify.com/track/7qMBCWNgqdrtURlproxrut"
+    },
+    {
+      "added_at": "2026-04-13 22:04:53",
+      "album": {
+        "name": "SEMIQUINCENTENNIAL VOICES",
+        "url": "https://open.spotify.com/album/4q3D0mA0dP458GXE7Z6NIE"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 142359,
+      "name": "Geneva Games (fomo mode)",
+      "url": "https://open.spotify.com/track/51dHfGDVlbxz75YjuYx6K0"
+    },
+    {
+      "added_at": "2026-04-13 22:04:53",
+      "album": {
+        "name": "SEMIQUINCENTENNIAL VOICES",
+        "url": "https://open.spotify.com/album/4q3D0mA0dP458GXE7Z6NIE"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 177239,
+      "name": "Her Reflection (fomo mode)",
+      "url": "https://open.spotify.com/track/64EAh2LsdkCkMu46FS2GxD"
+    },
+    {
+      "added_at": "2026-04-13 22:04:53",
+      "album": {
+        "name": "SEMIQUINCENTENNIAL VOICES",
+        "url": "https://open.spotify.com/album/4q3D0mA0dP458GXE7Z6NIE"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 162279,
+      "name": "Stories",
+      "url": "https://open.spotify.com/track/4dbT44ru3cBCaZF3xmRHwy"
+    },
+    {
+      "added_at": "2026-04-13 22:04:53",
+      "album": {
+        "name": "SEMIQUINCENTENNIAL VOICES",
+        "url": "https://open.spotify.com/album/4q3D0mA0dP458GXE7Z6NIE"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 191799,
+      "name": "Solo Matriarch (fomo mode)",
+      "url": "https://open.spotify.com/track/3wCAprvkSAlbwDv7Vruchg"
+    },
+    {
+      "added_at": "2026-04-13 22:04:53",
+      "album": {
+        "name": "SEMIQUINCENTENNIAL VOICES",
+        "url": "https://open.spotify.com/album/4q3D0mA0dP458GXE7Z6NIE"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 176159,
+      "name": "Blackout Trauma (fomo mode)",
+      "url": "https://open.spotify.com/track/1eyuBpGBSeM3dQpzzf87ux"
+    },
+    {
+      "added_at": "2026-04-13 22:04:53",
+      "album": {
+        "name": "SEMIQUINCENTENNIAL VOICES",
+        "url": "https://open.spotify.com/album/4q3D0mA0dP458GXE7Z6NIE"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 152839,
+      "name": "The Divide (Him & Her)",
+      "url": "https://open.spotify.com/track/1BKsSyIw4bcDgsE10wkumz"
+    },
+    {
+      "added_at": "2026-04-13 22:04:53",
+      "album": {
+        "name": "SEMIQUINCENTENNIAL VOICES",
+        "url": "https://open.spotify.com/album/4q3D0mA0dP458GXE7Z6NIE"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 183719,
+      "name": "Route 66 Centennial (fomo mode)",
+      "url": "https://open.spotify.com/track/5fwp1A0DzylARV3tr32CZK"
+    },
+    {
+      "added_at": "2026-04-13 22:04:53",
+      "album": {
+        "name": "SEMIQUINCENTENNIAL VOICES",
+        "url": "https://open.spotify.com/album/4q3D0mA0dP458GXE7Z6NIE"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 167439,
+      "name": "The 250th Finale (fomo mode)",
+      "url": "https://open.spotify.com/track/4J5dsXPkVZG4LD13PKwtl6"
+    },
+    {
+      "added_at": "2026-04-13 22:31:35",
+      "album": {
+        "name": "FOR CHARLIE",
+        "url": "https://open.spotify.com/album/0Xn5dxCEWmsvZkMHsXNy23"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 180719,
+      "name": "The First Pop",
+      "url": "https://open.spotify.com/track/7HoEkOKJmqofQ7kMnhnlNQ"
+    },
+    {
+      "added_at": "2026-04-13 22:31:35",
+      "album": {
+        "name": "FOR CHARLIE",
+        "url": "https://open.spotify.com/album/0Xn5dxCEWmsvZkMHsXNy23"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 169879,
+      "name": "The Media Swarm",
+      "url": "https://open.spotify.com/track/5TY1ayrMrtMJH9BaxBgEfJ"
+    },
+    {
+      "added_at": "2026-04-13 22:31:35",
+      "album": {
+        "name": "FOR CHARLIE",
+        "url": "https://open.spotify.com/album/0Xn5dxCEWmsvZkMHsXNy23"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 159999,
+      "name": "The American Comeback",
+      "url": "https://open.spotify.com/track/6ItJav6i3bbPLbOr6Mjblh"
+    },
+    {
+      "added_at": "2026-04-13 22:31:35",
+      "album": {
+        "name": "FOR CHARLIE",
+        "url": "https://open.spotify.com/album/0Xn5dxCEWmsvZkMHsXNy23"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 298879,
+      "name": "Prove Me Wrong",
+      "url": "https://open.spotify.com/track/3GTKf1bCmgrU8MfRuIidFd"
+    },
+    {
+      "added_at": "2026-04-13 22:31:35",
+      "album": {
+        "name": "FOR CHARLIE",
+        "url": "https://open.spotify.com/album/0Xn5dxCEWmsvZkMHsXNy23"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 260359,
+      "name": "Orem Lullaby",
+      "url": "https://open.spotify.com/track/6JJ7ejv3QO4fU7E1557lfJ"
+    },
+    {
+      "added_at": "2026-04-13 22:31:35",
+      "album": {
+        "name": "FOR CHARLIE",
+        "url": "https://open.spotify.com/album/0Xn5dxCEWmsvZkMHsXNy23"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 187959,
+      "name": "Too Many",
+      "url": "https://open.spotify.com/track/1sWNuKKwefS0dk4Iln4n7I"
+    },
+    {
+      "added_at": "2026-04-13 22:31:35",
+      "album": {
+        "name": "FOR CHARLIE",
+        "url": "https://open.spotify.com/album/0Xn5dxCEWmsvZkMHsXNy23"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 209119,
+      "name": "God > Gov",
+      "url": "https://open.spotify.com/track/1Kezn86hxcNdJKfYNcBwYT"
+    },
+    {
+      "added_at": "2026-04-13 22:31:35",
+      "album": {
+        "name": "FOR CHARLIE",
+        "url": "https://open.spotify.com/album/0Xn5dxCEWmsvZkMHsXNy23"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 191999,
+      "name": "Red Cap, Blue Star",
+      "url": "https://open.spotify.com/track/6orpNkaB5N8mFEEwQ6eypw"
+    },
+    {
+      "added_at": "2026-04-13 22:31:35",
+      "album": {
+        "name": "FOR CHARLIE",
+        "url": "https://open.spotify.com/album/0Xn5dxCEWmsvZkMHsXNy23"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 309839,
+      "name": "Martyr for Truth",
+      "url": "https://open.spotify.com/track/6XpYCXZ7wBb3PTcY5e3aJd"
+    },
+    {
+      "added_at": "2026-04-13 22:31:35",
+      "album": {
+        "name": "FOR CHARLIE",
+        "url": "https://open.spotify.com/album/0Xn5dxCEWmsvZkMHsXNy23"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 233999,
+      "name": "FOR CHARLIE",
+      "url": "https://open.spotify.com/track/429tfW7etZ9UAKmOCgqelH"
+    },
+    {
+      "added_at": "2026-04-13 22:31:35",
+      "album": {
+        "name": "FOR CHARLIE",
+        "url": "https://open.spotify.com/album/0Xn5dxCEWmsvZkMHsXNy23"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 184319,
+      "name": "The First Pop oh",
+      "url": "https://open.spotify.com/track/7te76cHLM5GO6oTY4pgOdz"
+    },
+    {
+      "added_at": "2026-04-13 22:31:35",
+      "album": {
+        "name": "FOR CHARLIE",
+        "url": "https://open.spotify.com/album/0Xn5dxCEWmsvZkMHsXNy23"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 145519,
+      "name": "The Media Swarm oh",
+      "url": "https://open.spotify.com/track/4JaGuO7NA6CEDHFDerd828"
+    },
+    {
+      "added_at": "2026-04-13 22:31:35",
+      "album": {
+        "name": "FOR CHARLIE",
+        "url": "https://open.spotify.com/album/0Xn5dxCEWmsvZkMHsXNy23"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 179039,
+      "name": "The American Comebacks oh",
+      "url": "https://open.spotify.com/track/6oOh1P4170irAGOE8RomP2"
+    },
+    {
+      "added_at": "2026-04-13 22:31:35",
+      "album": {
+        "name": "FOR CHARLIE",
+        "url": "https://open.spotify.com/album/0Xn5dxCEWmsvZkMHsXNy23"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 229999,
+      "name": "Prove Me Wrong oh",
+      "url": "https://open.spotify.com/track/4oHVDuBb8IiioAg7odIgnJ"
+    },
+    {
+      "added_at": "2026-04-13 22:31:35",
+      "album": {
+        "name": "FOR CHARLIE",
+        "url": "https://open.spotify.com/album/0Xn5dxCEWmsvZkMHsXNy23"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 254959,
+      "name": "Orem Lullaby oh",
+      "url": "https://open.spotify.com/track/5yofwUnNavcZ40bw3fVeTT"
+    },
+    {
+      "added_at": "2026-04-13 22:31:35",
+      "album": {
+        "name": "FOR CHARLIE",
+        "url": "https://open.spotify.com/album/0Xn5dxCEWmsvZkMHsXNy23"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 196679,
+      "name": "Too Many oh",
+      "url": "https://open.spotify.com/track/1uEePqCR94YdWnisEV4b0C"
+    },
+    {
+      "added_at": "2026-04-13 22:31:35",
+      "album": {
+        "name": "FOR CHARLIE",
+        "url": "https://open.spotify.com/album/0Xn5dxCEWmsvZkMHsXNy23"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 184959,
+      "name": "God > Gov, baby",
+      "url": "https://open.spotify.com/track/3IVrWeprK3pMYTdVIWAQSG"
+    },
+    {
+      "added_at": "2026-04-13 22:31:35",
+      "album": {
+        "name": "FOR CHARLIE",
+        "url": "https://open.spotify.com/album/0Xn5dxCEWmsvZkMHsXNy23"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 174679,
+      "name": "Red Cap, Blue Star oh",
+      "url": "https://open.spotify.com/track/4BRdMoNdI4jW9v3rb2k4vP"
+    },
+    {
+      "added_at": "2026-04-13 22:31:35",
+      "album": {
+        "name": "FOR CHARLIE",
+        "url": "https://open.spotify.com/album/0Xn5dxCEWmsvZkMHsXNy23"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 304919,
+      "name": "Martyr for Truth oh ye",
+      "url": "https://open.spotify.com/track/0cBWUAvpKAst3QNOetg1Xp"
+    },
+    {
+      "added_at": "2026-04-13 22:31:35",
+      "album": {
+        "name": "FOR CHARLIE",
+        "url": "https://open.spotify.com/album/0Xn5dxCEWmsvZkMHsXNy23"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 249399,
+      "name": "FOR CHARLIE dear charlie",
+      "url": "https://open.spotify.com/track/4b6LVLCXs1Tyt54WiRZEWy"
     }
   ],
   "unique_name": "playlist spotify free",

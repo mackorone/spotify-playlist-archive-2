@@ -1,6 +1,6 @@
 {
   "description": "pop punk, alt, emo, post-hardcore & more. Cover: Tigers Jaw",
-  "num_followers": 443186,
+  "num_followers": 443157,
   "original_name": "The Scene",
   "owner": {
     "name": "Spotify",
@@ -515,22 +515,6 @@
     {
       "added_at": "2026-01-09 05:00:25",
       "album": {
-        "name": "Wolf In Sheep's Clothing [REBORN]",
-        "url": "https://open.spotify.com/album/3EAQjK9KBprKYBerEPGxwS"
-      },
-      "artists": [
-        {
-          "name": "Set It Off",
-          "url": "https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k"
-        }
-      ],
-      "duration_ms": 201939,
-      "name": "Wolf In Sheep's Clothing [REBORN]",
-      "url": "https://open.spotify.com/track/1tpidJ4FBn9TwshePh1bc3"
-    },
-    {
-      "added_at": "2026-01-09 05:00:25",
-      "album": {
         "name": "SIDEQUEST",
         "url": "https://open.spotify.com/album/1IEj1Bvyvn7fIdDLJZNmfD"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 178600,
       "name": "enough",
       "url": "https://open.spotify.com/track/2TtRe0m0PhThwIhxNDQfbP"
+    },
+    {
+      "added_at": "2026-01-09 05:00:25",
+      "album": {
+        "name": "Wolf In Sheep's Clothing [REBORN]",
+        "url": "https://open.spotify.com/album/3EAQjK9KBprKYBerEPGxwS"
+      },
+      "artists": [
+        {
+          "name": "Set It Off",
+          "url": "https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k"
+        }
+      ],
+      "duration_ms": 201939,
+      "name": "Wolf In Sheep's Clothing [REBORN]",
+      "url": "https://open.spotify.com/track/1tpidJ4FBn9TwshePh1bc3"
     },
     {
       "added_at": "2026-01-09 05:00:25",
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-01-09 05:00:25",
       "album": {
-        "name": "Therapy",
-        "url": "https://open.spotify.com/album/24kJcNFxQsyQP5DoUxZS2G"
-      },
-      "artists": [
-        {
-          "name": "As December Falls",
-          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Therapy",
-      "url": "https://open.spotify.com/track/5pH35HHDgaJY4XgdWJI7GI"
-    },
-    {
-      "added_at": "2026-01-09 05:00:25",
-      "album": {
         "name": "MOTH KIDS",
         "url": "https://open.spotify.com/album/4TwV7IEjl0qKYMr9Hh3fhs"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 219035,
       "name": "MOTH KIDS",
       "url": "https://open.spotify.com/track/7dAxPlnzPAqmEVpElxItYU"
+    },
+    {
+      "added_at": "2026-01-09 05:00:25",
+      "album": {
+        "name": "Therapy",
+        "url": "https://open.spotify.com/album/24kJcNFxQsyQP5DoUxZS2G"
+      },
+      "artists": [
+        {
+          "name": "As December Falls",
+          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Therapy",
+      "url": "https://open.spotify.com/track/5pH35HHDgaJY4XgdWJI7GI"
     },
     {
       "added_at": "2026-01-09 05:00:25",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2026-01-09 05:00:25",
       "album": {
-        "name": "dyed (2008 - 2023)",
-        "url": "https://open.spotify.com/album/3mwkjwYp6MuffrJOVgJNxI"
-      },
-      "artists": [
-        {
-          "name": "The Maine",
-          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
-        }
-      ],
-      "duration_ms": 180959,
-      "name": "don't light the match (dyed black 2010)",
-      "url": "https://open.spotify.com/track/0OnWQpgyVsnvD94o4xYwIT"
-    },
-    {
-      "added_at": "2026-01-09 05:00:25",
-      "album": {
         "name": "saturate",
         "url": "https://open.spotify.com/album/3LiCWQLym789U7V1Rdz5eE"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 194896,
       "name": "saturate",
       "url": "https://open.spotify.com/track/4MghRJacieQHH2nUO5eZb9"
+    },
+    {
+      "added_at": "2026-01-09 05:00:25",
+      "album": {
+        "name": "dyed (2008 - 2023)",
+        "url": "https://open.spotify.com/album/3mwkjwYp6MuffrJOVgJNxI"
+      },
+      "artists": [
+        {
+          "name": "The Maine",
+          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
+        }
+      ],
+      "duration_ms": 180959,
+      "name": "don't light the match (dyed black 2010)",
+      "url": "https://open.spotify.com/track/0OnWQpgyVsnvD94o4xYwIT"
     },
     {
       "added_at": "2026-01-09 05:00:25",
@@ -1483,22 +1483,18 @@
     {
       "added_at": "2026-01-09 05:00:25",
       "album": {
-        "name": "Mike Nolan\u2019s Long Weekend ft. Dom Fox",
-        "url": "https://open.spotify.com/album/1jvuSRYOav8yv5GndOekAJ"
+        "name": "Fragile",
+        "url": "https://open.spotify.com/album/6cYU1n2LShBOR22pfxDqbF"
       },
       "artists": [
         {
-          "name": "Free Throw",
-          "url": "https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc"
-        },
-        {
-          "name": "Bad Luck.",
-          "url": "https://open.spotify.com/artist/4Hjb6XIYNt5Qkokl30luY9"
+          "name": "Huddy",
+          "url": "https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f"
         }
       ],
-      "duration_ms": 214800,
-      "name": "Mike Nolan\u2019s Long Weekend ft. Dom Fox",
-      "url": "https://open.spotify.com/track/2lTwwQcnBQlh0d4Ipshbkl"
+      "duration_ms": 201085,
+      "name": "Fragile",
+      "url": "https://open.spotify.com/track/5CScrQFOzzcBDC9TZtFdqw"
     },
     {
       "added_at": "2026-01-09 05:00:25",
@@ -1535,18 +1531,22 @@
     {
       "added_at": "2026-01-09 05:00:25",
       "album": {
-        "name": "Fragile",
-        "url": "https://open.spotify.com/album/6cYU1n2LShBOR22pfxDqbF"
+        "name": "Mike Nolan\u2019s Long Weekend ft. Dom Fox",
+        "url": "https://open.spotify.com/album/1jvuSRYOav8yv5GndOekAJ"
       },
       "artists": [
         {
-          "name": "Huddy",
-          "url": "https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f"
+          "name": "Free Throw",
+          "url": "https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc"
+        },
+        {
+          "name": "Bad Luck.",
+          "url": "https://open.spotify.com/artist/4Hjb6XIYNt5Qkokl30luY9"
         }
       ],
-      "duration_ms": 201085,
-      "name": "Fragile",
-      "url": "https://open.spotify.com/track/5CScrQFOzzcBDC9TZtFdqw"
+      "duration_ms": 214800,
+      "name": "Mike Nolan\u2019s Long Weekend ft. Dom Fox",
+      "url": "https://open.spotify.com/track/2lTwwQcnBQlh0d4Ipshbkl"
     },
     {
       "added_at": "2026-01-09 05:00:25",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2026-01-09 05:00:25",
       "album": {
+        "name": "PIN-EYE",
+        "url": "https://open.spotify.com/album/0L83uKz3F4cZO6D8Y85qzp"
+      },
+      "artists": [
+        {
+          "name": "Jhariah",
+          "url": "https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP"
+        }
+      ],
+      "duration_ms": 272668,
+      "name": "PIN-EYE",
+      "url": "https://open.spotify.com/track/1E3GhjaQttI7MXMT9oSgZU"
+    },
+    {
+      "added_at": "2026-01-09 05:00:25",
+      "album": {
         "name": "Spiral In A Straight Line",
         "url": "https://open.spotify.com/album/0P5CZ4l155R1udzsELjXSC"
       },
@@ -1711,22 +1727,6 @@
       "duration_ms": 260885,
       "name": "Goodbye For Now (feat. Julien Baker)",
       "url": "https://open.spotify.com/track/0lPwT1JHuNFeXtIV6i6Eg2"
-    },
-    {
-      "added_at": "2026-01-09 05:00:25",
-      "album": {
-        "name": "PIN-EYE",
-        "url": "https://open.spotify.com/album/0L83uKz3F4cZO6D8Y85qzp"
-      },
-      "artists": [
-        {
-          "name": "Jhariah",
-          "url": "https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP"
-        }
-      ],
-      "duration_ms": 272668,
-      "name": "PIN-EYE",
-      "url": "https://open.spotify.com/track/1E3GhjaQttI7MXMT9oSgZU"
     }
   ],
   "unique_name": "The Scene",

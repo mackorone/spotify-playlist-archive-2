@@ -1,12 +1,12 @@
 {
   "description": "This is Kelsea Ballerini. The essential tracks, all in one playlist.",
-  "num_followers": 101346,
+  "num_followers": 101349,
   "original_name": "This Is Kelsea Ballerini",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "admPAAAAAAD6P30uHLyWVmCE0YllhiWQ",
+  "snapshot_id": "adrggAAAAAAAjEoT7QKBlYug80tiIbUH",
   "tracks": [
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rolling Up the Welcome Mat",
-        "url": "https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 178746,
-      "name": "Leave Me Again",
-      "url": "https://open.spotify.com/track/5r4sq0H3vzRIqnI7yystIo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "They Don't Know",
         "url": "https://open.spotify.com/album/2EhCp9jUMBdrJIrnDrhw4L"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 204106,
       "name": "First Time Again",
       "url": "https://open.spotify.com/track/7dRnLA0SZFVn62weznwJnk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rolling Up the Welcome Mat",
+        "url": "https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 178746,
+      "name": "Leave Me Again",
+      "url": "https://open.spotify.com/track/5r4sq0H3vzRIqnI7yystIo"
     },
     {
       "added_at": null,
@@ -803,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PATTERNS",
-        "url": "https://open.spotify.com/album/4utJOX1ShFfRa6oQA1ADh0"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 172146,
-      "name": "I Would, Would You",
-      "url": "https://open.spotify.com/track/06Db3gqF8HfzbiYxyFaGBx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "kelsea",
         "url": "https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 191811,
       "name": "needy",
       "url": "https://open.spotify.com/track/1pF52VPPTgPeBzOjg3PyjH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PATTERNS",
+        "url": "https://open.spotify.com/album/4utJOX1ShFfRa6oQA1ADh0"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 172146,
+      "name": "I Would, Would You",
+      "url": "https://open.spotify.com/track/06Db3gqF8HfzbiYxyFaGBx"
     },
     {
       "added_at": null,

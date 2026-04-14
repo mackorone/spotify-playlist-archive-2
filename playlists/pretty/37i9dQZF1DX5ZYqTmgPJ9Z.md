@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ZYqTmgPJ9Z.md) - [plain]
 
 > Grab a drink and let us help you see off the evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,213 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,220 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ZYqTmgPJ9Z.md) - [plain]
 | 9 | [i saw you](https://open.spotify.com/track/3DzWFxyzsAVblVNndiU9CW) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [ten days](https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh) | 3:40 |
 | 10 | [homies](https://open.spotify.com/track/3ocupZmiN2ZqQjTVntVtLv) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH), [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [homies](https://open.spotify.com/album/7by5M1CXms39FAGvXTlB9X) | 3:45 |
 | 11 | [Rain](https://open.spotify.com/track/3VHF4e5x49Mcpom7zPE2A9) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/2VXeD0hKkY9i8TyGb0chVi) | 4:14 |
-| 12 | [Mrs.](https://open.spotify.com/track/2R4O7MgIrN35QXnyLKMFVl) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 4:02 |
-| 13 | [neve give up](https://open.spotify.com/track/2a5qaGUrVHWAIrh0xmTADM) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [aloha](https://open.spotify.com/album/3rioHzbE7RDGbgxzg9uFNd) | 3:41 |
+| 12 | [neve give up](https://open.spotify.com/track/2a5qaGUrVHWAIrh0xmTADM) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [aloha](https://open.spotify.com/album/3rioHzbE7RDGbgxzg9uFNd) | 3:41 |
+| 13 | [Mrs.](https://open.spotify.com/track/2R4O7MgIrN35QXnyLKMFVl) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 4:02 |
 | 14 | [Add the Bassline](https://open.spotify.com/track/1oQbDSv5togt85za7IsTsc) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Groove Curse](https://open.spotify.com/album/2uWJhbEKI42yC1GZR8GaXx) | 2:38 |
 | 15 | [The Rest Of Me](https://open.spotify.com/track/4xyZ8TMuWWlSCN3NRUsOCq) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [The Rest Of Me](https://open.spotify.com/album/3JZctelEqYNf7zNBiMQuXh) | 3:50 |
 | 16 | [Everything](https://open.spotify.com/track/3ELZG2YLGrwCVesooFyF4e) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Rosie Lowe](https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI) | [Everything](https://open.spotify.com/album/7H2TlAwM0GMWeZbT3XGI0F) | 3:35 |
@@ -66,9 +66,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ZYqTmgPJ9Z.md) - [plain]
 | 56 | [Cheap Cigars](https://open.spotify.com/track/1sD3PbQ5ApyKr5wRf6XKwe) | [The Silhouettes Project](https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw), [Tertia May](https://open.spotify.com/artist/2l5D9yWJD8XtjzTMCKUown), [illiterate](https://open.spotify.com/artist/6E7vMajFG2d1j5RrUwdTDR), [Hutch](https://open.spotify.com/artist/26g14QVzVafjroNKzHuCBB) | [Cheap Cigars](https://open.spotify.com/album/0iP1nil4QmnjMRPLPG2bkx) | 3:19 |
 | 57 | [No Good For Me](https://open.spotify.com/track/21GyQmCgz28fic7F5PoYTB) | [Joseph Lawrence](https://open.spotify.com/artist/69XFaEPeBh41fbWxQMD8X4) | [No Good For Me](https://open.spotify.com/album/7oEjRlVoheANCN72tlbYgS) | 4:42 |
 | 58 | [Eye to Eye](https://open.spotify.com/track/30kI3i0mbyg8dXu7aEpqK4) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Voice Notes](https://open.spotify.com/album/4CsDEoqySY9EaYJX5MlIXs) | 4:37 |
-| 59 | [Bloom Innocent](https://open.spotify.com/track/1iVn6DAdn8kQ8Qri7Eu2Un) | [Fink](https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf) | [Bloom Innocent](https://open.spotify.com/album/7mZdMFXdNUqaBNB7pkIJu1) | 6:56 |
-| 60 | [DONT WAIT](https://open.spotify.com/track/11s4CRVT8mpwnWpJMvCEoe) | [Ruti](https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE) | [MixTea\_MilkTape!](https://open.spotify.com/album/2hI1YJeiPiVqm4wBwrnH5f) | 3:57 |
-| 61 | [\(I Get So\) Emotional](https://open.spotify.com/track/4AHFGnD2G51kpRhZEgho8a) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch) | [\(I Get So\) Emotional](https://open.spotify.com/album/3tLWtPzB27RGLJeq0mx91W) | 3:08 |
+| 59 | [\(I Get So\) Emotional](https://open.spotify.com/track/4AHFGnD2G51kpRhZEgho8a) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch) | [\(I Get So\) Emotional](https://open.spotify.com/album/3tLWtPzB27RGLJeq0mx91W) | 3:08 |
+| 60 | [Bloom Innocent](https://open.spotify.com/track/1iVn6DAdn8kQ8Qri7Eu2Un) | [Fink](https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf) | [Bloom Innocent](https://open.spotify.com/album/7mZdMFXdNUqaBNB7pkIJu1) | 6:56 |
+| 61 | [DONT WAIT](https://open.spotify.com/track/11s4CRVT8mpwnWpJMvCEoe) | [Ruti](https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE) | [MixTea\_MilkTape!](https://open.spotify.com/album/2hI1YJeiPiVqm4wBwrnH5f) | 3:57 |
 | 62 | [Just Come Home With Me Tonight \- Live at 45](https://open.spotify.com/track/4m9dFksHdnXQ0UR77VCyeb) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Just Come Home With Me Tonight \(Live at 45\)](https://open.spotify.com/album/6xLZX3BctRo9ETHG0uQh5f) | 4:40 |
 | 63 | [Woe Is Me](https://open.spotify.com/track/6vtf3U3toO8stSeLInVJtL) | [Kay Young](https://open.spotify.com/artist/1U7TfUcph2eoBUzG3XnaXK), [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Woe Is Me](https://open.spotify.com/album/5CQPeYHDgr8d2ikkZwIERX) | 3:40 |
 | 64 | [Trouble Sleeping](https://open.spotify.com/track/4Ev6olpuoQQeNxyhOaI503) | [Ross Carlo](https://open.spotify.com/artist/1V8iNXoBHwRc9774nQxSR4) | [Trouble Sleeping](https://open.spotify.com/album/1RAYi3l2RC6gpbp0gMVVb7) | 3:35 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ZYqTmgPJ9Z.md) - [plain]
 | 87 | [Pigeon Park](https://open.spotify.com/track/0knziThQwlD4Q4qL4zmZTx) | [parthenope](https://open.spotify.com/artist/6GjXQmzl9dSNUpYpyFJKY0) | [Go Somewhere Alone](https://open.spotify.com/album/4yZseWXhqhU4n2G9kgnnwQ) | 2:40 |
 | 88 | [Sud Pour Toi](https://open.spotify.com/track/6qw2IQMLKCUEahcYwNo0rR) | [Thin Blue Collective](https://open.spotify.com/artist/1fTkQhPBZEiSI2sli8T8hG) | [Room Thirteen](https://open.spotify.com/album/5s07NUjDpbDpl2BdupEfAC) | 4:46 |
 | 89 | [Inward](https://open.spotify.com/track/6Xt50HBqLpImH1NkwlxsHr) | [Russell Stewart](https://open.spotify.com/artist/6lOIi6aXlHGa49oROgxVY1) | [Inward](https://open.spotify.com/album/7KImaY2ikHc9JvhvBrO1Yx) | 3:02 |
-| 90 | [Deception](https://open.spotify.com/track/5sw2ThXRRmV7GzP2Lq87Ho) | [NADIAH](https://open.spotify.com/artist/1xMTtv502Ls5oN1xMEJele) | [Deception](https://open.spotify.com/album/58LxxzRjLOZ86pSFZw2tz0) | 3:17 |
-| 91 | [Found You](https://open.spotify.com/track/7ym383h5MQfBNVLG92d5fh) | [Robyn Florence](https://open.spotify.com/artist/3qIkj3W8oehm6SAHxD5qPa) | [Found You](https://open.spotify.com/album/6GCdFbDYs475UfiHP4rnKX) | 3:20 |
+| 90 | [Found You](https://open.spotify.com/track/7ym383h5MQfBNVLG92d5fh) | [Robyn Florence](https://open.spotify.com/artist/3qIkj3W8oehm6SAHxD5qPa) | [Found You](https://open.spotify.com/album/6GCdFbDYs475UfiHP4rnKX) | 3:20 |
+| 91 | [Deception](https://open.spotify.com/track/5sw2ThXRRmV7GzP2Lq87Ho) | [NADIAH](https://open.spotify.com/artist/1xMTtv502Ls5oN1xMEJele) | [Deception](https://open.spotify.com/album/58LxxzRjLOZ86pSFZw2tz0) | 3:17 |
 | 92 | [YOUR TIME](https://open.spotify.com/track/5CL1TTzZgQOmoQYsqATA69) | [Willow Newman](https://open.spotify.com/artist/4fehG12QmJ1wBVh9fW9Y3O), [Hana](https://open.spotify.com/artist/4xSqqiE4WmenAA3PHgfdlS) | [YOUR TIME](https://open.spotify.com/album/7IjOcqKt8gwd8A2QzJIgIB) | 2:54 |
 | 93 | [Too Much to Ask](https://open.spotify.com/track/3HZdXuLPyLlSYLImD4z7V8) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [Little Ghost](https://open.spotify.com/album/0qsZRpvWYP6fkuosOaGo0D) | 3:47 |
 | 94 | [December](https://open.spotify.com/track/7b6myg3Pc5DGgEXxXCyl3w) | [RUVIMBO](https://open.spotify.com/artist/28SGmh3qpGyRak7x8WhDG2), [TINYMAN](https://open.spotify.com/artist/7HK3S4sk4NgXTFqvmbHlM9) | [Ivy's Kid](https://open.spotify.com/album/6q4o0YQHMCXQj6gQ0YZOd4) | 3:14 |

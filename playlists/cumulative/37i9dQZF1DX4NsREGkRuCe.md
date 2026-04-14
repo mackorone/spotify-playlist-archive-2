@@ -4,7 +4,7 @@
 
 > Turn traffic stops into jam sessions.
 
-1,146 songs - 2 day 8 hr 12 min
+1,147 songs - 2 day 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [Bongolo Cigar](https://open.spotify.com/track/7imLxDsO8VPbnbkt4EPOOK) | [Salle](https://open.spotify.com/artist/3grHvNkL8268yY1aAIxiLf) | [Only Sad People Smile: Only Hurt People Heal](https://open.spotify.com/album/7xjzOqRfqawB6xVeUn6mFj) | 2:10 | 2026-03-20 | 2026-04-10 |
 | [Born Fi Dis](https://open.spotify.com/track/4jL2U9V8qa4aQH4IHQ6hTv) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP) | [Ghetto Vibrations](https://open.spotify.com/album/0HA5iaDr9GyFPnzDEVs1ch) | 2:30 | 2024-04-03 | 2024-04-21 |
 | [Borrow Me Your Baby \(feat\. Falz\)](https://open.spotify.com/track/01AkBgeMy8BSiJuzDl0WXc) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Borrow Me Your Baby \(feat\. Falz\)](https://open.spotify.com/album/56Kv6uvuBbZ2ZqjaZ9vKqs) | 3:08 | 2024-06-28 | 2024-06-30 |
+| [Bother Me \(feat\. Victony\)](https://open.spotify.com/track/2JpcOAR1EGQSxFOVnYCMl0) | [Osé](https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Bother Me \(feat\. Victony\)](https://open.spotify.com/album/7svkXljH25hpPavMawyyb2) | 3:00 | 2026-04-10 |  |
 | [Bout U](https://open.spotify.com/track/3qS4spuVywoeh9uGIpRuQh) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Bout U](https://open.spotify.com/album/27pA2FuPxbf7ukWvLhEvgV) | 2:43 | 2025-04-11 | 2026-03-13 |
 | [Breaking The Yoke Of Love](https://open.spotify.com/track/4Qpilnxi20LRgYr3a9iOJA) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Raybekah](https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW) | [Breaking The Yoke Of Love](https://open.spotify.com/album/2gFTRUI821BCGGx2VNy3w6) | 3:18 | 2023-02-03 | 2023-02-17 |
 | [Buga \(Lo Lo Lo\)](https://open.spotify.com/track/4eZZofkV1OQ9GDqAgHqNpA) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Buga \(Lo Lo Lo\)](https://open.spotify.com/album/0nNEQYgoVlVYZEOrAC2D3h) | 3:03 | 2022-06-08 | 2023-02-04 |
@@ -943,7 +944,7 @@
 | [Shayo](https://open.spotify.com/track/56N21lxpXGBDoDhJ8YcIna) | [Brown Joel](https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [High Spirit](https://open.spotify.com/album/1HNIge0hzBU9TJIsGS83Rj) | 2:49 | 2025-10-17 | 2025-10-25 |
 | [Shayo](https://open.spotify.com/track/48yyEzWXIbAhU3H2iC9iDa) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Shayo](https://open.spotify.com/album/606tG62I0ClaZAuuHdM5rz) | 3:17 | 2023-09-29 | 2023-10-13 |
 | [She's Not Anyone](https://open.spotify.com/track/58VQMrt5md1pozhyeM3MeG) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Lap 5](https://open.spotify.com/album/60qboewMs8i1L2a0fEGcVl) | 3:17 | 2022-09-23 | 2022-10-31 |
-| [Shoday Kilode](https://open.spotify.com/track/2yXFYJfxL0TwzvN34OO9Hp) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [Shoday Kilode](https://open.spotify.com/album/3aeIvHjzG9IxWaqRZVGWXF) | 2:11 | 2025-08-15 |  |
+| [Shoday Kilode](https://open.spotify.com/track/2yXFYJfxL0TwzvN34OO9Hp) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [Shoday Kilode](https://open.spotify.com/album/3aeIvHjzG9IxWaqRZVGWXF) | 2:11 | 2025-08-15 | 2026-04-14 |
 | [Shona Phantsi / On Da Floor](https://open.spotify.com/track/0F4NG5PvVdTMB5YV4j0fQa) | [CIZA](https://open.spotify.com/artist/71hPkbyih5bdlHVPBgav33), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [ZVRI](https://open.spotify.com/artist/1or4sxcSSFThb2p8VuK8Sn), [Ney The Bae](https://open.spotify.com/artist/2ejPIS2ocEAjCNhqkEtblo), [Smilo](https://open.spotify.com/artist/23l0XAl8H66TddrdGFVYQL) | [Shona Phantsi / On Da Floor](https://open.spotify.com/album/2cM4DYlvErJdKVeQcEPKlG) | 5:57 | 2025-12-05 | 2026-01-15 |
 | [Show Me Something](https://open.spotify.com/track/0bexhCKTPDlufk97tVvo3v) | [WeTalkSound](https://open.spotify.com/artist/5kPbvgX78vvZPQLrHHhf1w), [PDSTRN](https://open.spotify.com/artist/7oAl5VKsXmNAcXuyKA5sSv), [Kaey](https://open.spotify.com/artist/5QxTvd1ydIesFmXZ7bv9ou), [Vader the Wildcard](https://open.spotify.com/artist/2hqg3nrEdtdSTiMMllWO2w) | [Show Me Something](https://open.spotify.com/album/2lhMtPZJOQRmwdCgONmZqb) | 2:58 | 2023-01-27 | 2023-02-11 |
 | [SHOWING OFF HER BODY \(with Davido\)](https://open.spotify.com/track/5xHodqknQtgokj6oO1giHb) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [SHOWING OFF HER BODY \(with Davido\)](https://open.spotify.com/album/5CgztNME0IW2ebmYmjWqUN) | 3:32 | 2022-06-23 | 2022-10-21 |

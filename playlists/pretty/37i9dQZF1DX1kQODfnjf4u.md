@@ -2,17 +2,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kQODfnjf4u.md) - [plain]
 
 ### [Hot Hits Česká republika](https://open.spotify.com/playlist/37i9dQZF1DX1kQODfnjf4u)
 
-> 50 nejžhavějších hitů v České republice\. Cover: Lboy Bsc
+> 50 nejžhavějších hitů v České republice\. Cover: Victor Kal\. & Lajfr
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,429 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,421 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Vzpomeneš si?](https://open.spotify.com/track/50JepWcN6dVYG4fkziswhO) | [Ewa Farna](https://open.spotify.com/artist/6xajh3A5qhxsNffhhBNntC), [Mirai](https://open.spotify.com/artist/5m2pDQbSRuWbxRR1FUcHle) | [Vzpomeneš si?](https://open.spotify.com/album/1rJPKCnQsKqGIwd3c0Q3QH) | 3:23 |
+| 1 | [víno](https://open.spotify.com/track/2oQtEyxSIgJjEV943tK9VJ) | [Victor Kal.](https://open.spotify.com/artist/7tLaenA4I2OWx0FUaMo5in), [Lajfr](https://open.spotify.com/artist/5zeSPtcFxpJeejJjDPnkl1) | [víno](https://open.spotify.com/album/5WeIbxAhk5h54QMsrZy1ny) | 2:35 |
 | 2 | [PORCELÁN](https://open.spotify.com/track/1WSurN3LITJ7udCeV5jlu4) | [Ben Cristovao](https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8) | [PORCELÁN](https://open.spotify.com/album/6LegOnM8XnpsCy2C8vNzoo) | 3:09 |
-| 3 | [Vodka není voda](https://open.spotify.com/track/33l3BKJazySRMviJXQVTBJ) | [Lboy Bsc](https://open.spotify.com/artist/7HjHXYRxGom5mjP1lHKHW2), [Dorian](https://open.spotify.com/artist/2vMxLcwqHKxvVdBtKRpyUY), [Freez247](https://open.spotify.com/artist/0zML9ujTOJ6CtwzpX0uGCA) | [Napoleon](https://open.spotify.com/album/1LCp4WcOKHWo1fZzL8LKSo) | 3:26 |
-| 4 | [HIP THRUST](https://open.spotify.com/track/3kjReKinqmvImzc9CAXDGk) | [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk) | [TYPE BEAT / HIP THRUST](https://open.spotify.com/album/4Lq7fDwKvULCKCiLtXY5tZ) | 1:40 |
-| 5 | [víno](https://open.spotify.com/track/2oQtEyxSIgJjEV943tK9VJ) | [Victor Kal.](https://open.spotify.com/artist/7tLaenA4I2OWx0FUaMo5in), [Lajfr](https://open.spotify.com/artist/5zeSPtcFxpJeejJjDPnkl1) | [víno](https://open.spotify.com/album/5WeIbxAhk5h54QMsrZy1ny) | 2:35 |
+| 3 | [Vzpomeneš si?](https://open.spotify.com/track/50JepWcN6dVYG4fkziswhO) | [Ewa Farna](https://open.spotify.com/artist/6xajh3A5qhxsNffhhBNntC), [Mirai](https://open.spotify.com/artist/5m2pDQbSRuWbxRR1FUcHle) | [Vzpomeneš si?](https://open.spotify.com/album/1rJPKCnQsKqGIwd3c0Q3QH) | 3:23 |
+| 4 | [Vodka není voda](https://open.spotify.com/track/33l3BKJazySRMviJXQVTBJ) | [Lboy Bsc](https://open.spotify.com/artist/7HjHXYRxGom5mjP1lHKHW2), [Dorian](https://open.spotify.com/artist/2vMxLcwqHKxvVdBtKRpyUY), [Freez247](https://open.spotify.com/artist/0zML9ujTOJ6CtwzpX0uGCA) | [Napoleon](https://open.spotify.com/album/1LCp4WcOKHWo1fZzL8LKSo) | 3:26 |
+| 5 | [HIP THRUST](https://open.spotify.com/track/3kjReKinqmvImzc9CAXDGk) | [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk) | [TYPE BEAT / HIP THRUST](https://open.spotify.com/album/4Lq7fDwKvULCKCiLtXY5tZ) | 1:40 |
 | 6 | [Dracula \- JENNIE Remix](https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Dracula \(Remix\)](https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK) | 3:29 |
 | 7 | [Nejsem Sám](https://open.spotify.com/track/3cwu3bUIIVdGjmi5LoTrNz) | [Saul](https://open.spotify.com/artist/6xg3PSVEwviVyfnx3mtsPL), [Hasan](https://open.spotify.com/artist/2AHugDX8XYbm2SNxbvptQW), [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk) | [Nejsem Sám](https://open.spotify.com/album/4VvfcMJrtIzxqZDHA01odI) | 3:36 |
 | 8 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kQODfnjf4u.md) - [plain]
 | 49 | [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 |
 | 50 | [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:17 |
 
-Snapshot ID: `AAAAAK+u4uTQo6/UScQ7F5guiC9mOLDK`
+Snapshot ID: `AAAAAJflVbtMOVfkWQdLNyXe5pVKDl4z`

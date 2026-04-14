@@ -1,12 +1,12 @@
 {
   "description": "These are some independent rock bands you need to hear.",
-  "num_followers": 903,
+  "num_followers": 905,
   "original_name": "Unsigned Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAFuJViTFa8V29fsNqgHk5uXIsaq47l",
+  "snapshot_id": "AAAFuZm5bumU7GQBDKOhCx63LbxLy00M",
   "tracks": [
     {
       "added_at": "2026-02-16 17:20:50",
@@ -2271,6 +2271,26 @@
       "duration_ms": 193493,
       "name": "Just Let It Go",
       "url": "https://open.spotify.com/track/5lPn1Gsaqo8NO3NpFGgwqJ"
+    },
+    {
+      "added_at": "2026-04-13 12:34:34",
+      "album": {
+        "name": "Nueva Era",
+        "url": "https://open.spotify.com/album/6aBPq0mvfWPYuSv1OzPhL5"
+      },
+      "artists": [
+        {
+          "name": "JaNNus",
+          "url": "https://open.spotify.com/artist/6UzFYM28tp9IjqbjVdnmTb"
+        },
+        {
+          "name": "Cristian Argonz",
+          "url": "https://open.spotify.com/artist/1tvPKCfCxBoYEpbd0VjCVR"
+        }
+      ],
+      "duration_ms": 205932,
+      "name": "Parte de Mi Sangre",
+      "url": "https://open.spotify.com/track/77Ksuuc2iN2SlK4vGmoeFj"
     }
   ],
   "unique_name": "Unsigned Rock",

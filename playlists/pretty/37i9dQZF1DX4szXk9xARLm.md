@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4szXk9xARLm.md) - [plain]
 
 > Your essential Ramadan Series songs! Cover: Ramy Sabry
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,822 likes - 60 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,844 likes - 60 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4szXk9xARLm.md) - [plain]
 | 8 | [وأخيراً](https://open.spotify.com/track/7AO6kqczRPDNo413Vru343) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [وأخيراً](https://open.spotify.com/album/5Fz2kCmYaHsPSmWfbfBye5) | 3:05 |
 | 9 | [وننسى اللي كان](https://open.spotify.com/track/5ew2q5hC3OwnEWVB15uB9w) | [Pousi](https://open.spotify.com/artist/3xg4VREmOEjLJurhXIelW7) | [وننسى اللي كان](https://open.spotify.com/album/3tgmfcErtbKUtCtKH99pnJ) | 3:15 |
 | 10 | [حفلة تنكرية](https://open.spotify.com/track/41IZAYettcwnRMaS3ZewW7) | [Rahma Mohsen](https://open.spotify.com/artist/6TCllXW2SWfhcUzBOOGTLD) | [حفلة تنكرية](https://open.spotify.com/album/1jlPHHOIkfLUYWzbsCOBxF) | 3:10 |
-| 11 | [عين سحرية](https://open.spotify.com/track/0SuWrDNsHCpu2Nh1Ygoeet) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [عين سحرية](https://open.spotify.com/album/2j2GeCSkeSYIr3Rv86e4Km) | 2:21 |
-| 12 | [همس المشاعر](https://open.spotify.com/track/7tcCZMLo0OoIrh6QyzuaOv) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [مسلسل حكاية حياة](https://open.spotify.com/album/0beBD3oFWxap1ONghGammh) | 4:51 |
+| 11 | [همس المشاعر](https://open.spotify.com/track/7tcCZMLo0OoIrh6QyzuaOv) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [مسلسل حكاية حياة](https://open.spotify.com/album/0beBD3oFWxap1ONghGammh) | 4:51 |
+| 12 | [عين سحرية](https://open.spotify.com/track/0SuWrDNsHCpu2Nh1Ygoeet) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [عين سحرية](https://open.spotify.com/album/2j2GeCSkeSYIr3Rv86e4Km) | 2:21 |
 | 13 | [حبيبي وابن حبيبي \- من مسلسل كامل العدد ++](https://open.spotify.com/track/5OcVGQFVNvHt25O5ko22tF) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [حبيبي وابن حبيبي \(من مسلسل كامل العدد ++\)](https://open.spotify.com/album/67zii02wzTY1Zq4ExpGAUy) | 3:16 |
 | 14 | [غار القمر \(من مسلسل وننسى اللي كان\)](https://open.spotify.com/track/1yCIPv9azb6iatALhQnRR9) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [غار القمر \(من مسلسل وننسى اللي كان\)](https://open.spotify.com/album/5lagJdup7OYfTD72gzwZI2) | 3:39 |
 | 15 | [واحشني نفسي \- تتر بدايه مسلسل جعفر العمده](https://open.spotify.com/track/1WxfSAzZvFpAskwfTQcd58) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [واحشني نفسي \(تتر بدايه مسلسل جعفر العمده\)](https://open.spotify.com/album/3NkID0eCtnmq4UIky0SfYe) | 3:51 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4szXk9xARLm.md) - [plain]
 | 45 | [Sahbek Rajel \(صاحبك راجل\)](https://open.spotify.com/track/31NbnvqbqAzvQ2nv301VZA) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Sahbek Rajel \(صاحبك راجل\)](https://open.spotify.com/album/2krftAwqsvgtMWh2e6RbTN) | 3:17 |
 | 46 | [حلوين \- من مسلسل حد أقصى](https://open.spotify.com/track/7hKeE3R65MTyoY7YTQcI0F) | [Houda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [حلوين \(من مسلسل حد أقصى\)](https://open.spotify.com/album/309j0JUufa9eqAgaIagUab) | 2:36 |
 | 47 | [اهل كايرو](https://open.spotify.com/track/2W2V8EqcsDvwVoQJSEnrPg) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [اهل كايرو](https://open.spotify.com/album/4w2BwFLNYzqJd28n4HDhfS) | 3:30 |
-| 48 | [Mabrouk](https://open.spotify.com/track/7f5j6xiIAFtuPrzxdGaoGz) | [Hatim Ammor](https://open.spotify.com/artist/32CwjdHMHSpEkC3UAyIwPp) | [Mabrouk](https://open.spotify.com/album/4mkwlYIgQ4zHk5Xkz6Ih96) | 2:37 |
-| 49 | [Haseb Ya Tayeb \- Music from Khyanet Ahd TV Series](https://open.spotify.com/track/6a4fiwOKwLgTeZQX25P0vU) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Haseb Ya Tayeb \(Music from Khyanet Ahd TV Series\)](https://open.spotify.com/album/5UKvTirwj6tAdCYWfvOyvo) | 3:57 |
+| 48 | [Haseb Ya Tayeb \- Music from Khyanet Ahd TV Series](https://open.spotify.com/track/6a4fiwOKwLgTeZQX25P0vU) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Haseb Ya Tayeb \(Music from Khyanet Ahd TV Series\)](https://open.spotify.com/album/5UKvTirwj6tAdCYWfvOyvo) | 3:57 |
+| 49 | [Mabrouk](https://open.spotify.com/track/7f5j6xiIAFtuPrzxdGaoGz) | [Hatim Ammor](https://open.spotify.com/artist/32CwjdHMHSpEkC3UAyIwPp) | [Mabrouk](https://open.spotify.com/album/4mkwlYIgQ4zHk5Xkz6Ih96) | 2:37 |
 | 50 | [حارق ناس كتير مسلسل إش إش](https://open.spotify.com/track/7BHh2MVbdnLphbXE3BqnMp) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [حارق ناس كتير مسلسل إش إش](https://open.spotify.com/album/0wLRjwezgTD7FAY2m6dkKo) | 1:55 |
 | 51 | [Mazag \(تتر مسلسل مناعة\)](https://open.spotify.com/track/5B848rXELrdNBgMncVUJ1Q) | [Houda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [Mazag \(تتر مسلسل مناعة\)](https://open.spotify.com/album/1uhzU9QVyP6VrRwXgNsvjh) | 2:58 |
 | 52 | [ياما نفسي اقولك \- من مسلسل عايشة الدور](https://open.spotify.com/track/59cwzz2NQK3P67tajUi05K) | [Donia Samir Ghanem](https://open.spotify.com/artist/1ieloBuwzXdMn9VPOufDvB) | [ياما نفسي اقولك \(من مسلسل عايشة الدور\)](https://open.spotify.com/album/6qSeWoOhTW8AfeH1Ox9Xth) | 3:03 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4szXk9xARLm.md) - [plain]
 | 55 | [الكينج](https://open.spotify.com/track/3TfALiNXqwnBxm1ZU2P31w) | [Felo](https://open.spotify.com/artist/4JhWEqWfwTQywn7lKkNWt5), [Mohamed Flestiny](https://open.spotify.com/artist/040pip7wl4JckfZ6P87GE8) | [الكينج](https://open.spotify.com/album/4rYGZR8WORC0cI0ZhmjaUu) | 2:22 |
 | 56 | [تحية \- من مسلسل لعبة وقلبت بجد](https://open.spotify.com/track/47ZPOStAXyjOvmO8MNPyGQ) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6), [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [تحية \(من مسلسل لعبة وقلبت بجد\)](https://open.spotify.com/album/4EQMImTVpj4VJrd5rdFjRk) | 2:24 |
 | 57 | [Jarh 9Dim](https://open.spotify.com/track/2D90uQttl2UcZRgYDKDIMD) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8) | [Jarh 9dim](https://open.spotify.com/album/7K2R7t8bkj3N8T58r48tVw) | 2:57 |
-| 58 | [حضرات السادة](https://open.spotify.com/track/1Z4Rd2m5gjmyU4BIXqzUZo) | [Akram Hosny](https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi), [Mariam Aziz](https://open.spotify.com/artist/563PinGcFs6wzMU2fxgeXD) | [حضرات السادة](https://open.spotify.com/album/7M5PupuhIP6Y5GzMnHsGlp) | 2:26 |
-| 59 | [محدش مرتاح](https://open.spotify.com/track/0XdQriStcL1WXypbanUGbJ) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [محدش مرتاح](https://open.spotify.com/album/4osmODYCVbGqmWomQzQUAc) | 3:58 |
+| 58 | [محدش مرتاح](https://open.spotify.com/track/0XdQriStcL1WXypbanUGbJ) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [محدش مرتاح](https://open.spotify.com/album/4osmODYCVbGqmWomQzQUAc) | 3:58 |
+| 59 | [حضرات السادة](https://open.spotify.com/track/1Z4Rd2m5gjmyU4BIXqzUZo) | [Akram Hosny](https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi), [Mariam Aziz](https://open.spotify.com/artist/563PinGcFs6wzMU2fxgeXD) | [حضرات السادة](https://open.spotify.com/album/7M5PupuhIP6Y5GzMnHsGlp) | 2:26 |
 | 60 | [اجمد يا واد](https://open.spotify.com/track/38SE3SXYHohxhWCc9vMYaV) | [Reham Abd Elhakim](https://open.spotify.com/artist/25hOfgdazK38N95tVZUZdn) | [اجمد يا واد](https://open.spotify.com/album/7kqXbWizNOMC9cfp5hDz49) | 3:29 |
 
 Snapshot ID: `AAAAAMD9fgzJonQXgRzczga9BMMcOSWY`

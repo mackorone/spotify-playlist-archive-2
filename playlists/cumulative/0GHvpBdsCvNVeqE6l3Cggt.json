@@ -1115,6 +1115,24 @@
     },
     {
       "album": {
+        "name": "Xellay Acoustic",
+        "url": "https://open.spotify.com/album/1EvK4l0At1nk7POZjevTyX"
+      },
+      "artists": [
+        {
+          "name": "Xellay",
+          "url": "https://open.spotify.com/artist/2BchMZ58NcNDLLerRnF0NR"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211687,
+      "name": "Love - Acoustic",
+      "url": "https://open.spotify.com/track/2FTY7R6ej2pDK6Zn3IIoLx"
+    },
+    {
+      "album": {
         "name": "Mechanical Ghost",
         "url": "https://open.spotify.com/album/1Sd2bvyyjmIgjA8z9WLgpH"
       },

@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,117 songs - 5 day 5 hr 22 min
+2,121 songs - 5 day 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Almighty Dub](https://open.spotify.com/track/7HLsetwqaowJBbkESkV0pU) | [High & I](https://open.spotify.com/artist/1RepiCceWk7ifIps3wwxOc) | [Almighty Thunder](https://open.spotify.com/album/2ajdSwm0kLmcQ0n4f1haA7) | 4:38 | 2024-03-25 |  |
 | [Almighty Thunder](https://open.spotify.com/track/7FFhwQnE5tyRpO0xF7MpNg) | [High & I](https://open.spotify.com/artist/1RepiCceWk7ifIps3wwxOc) | [Almighty Thunder](https://open.spotify.com/album/2ajdSwm0kLmcQ0n4f1haA7) | 4:40 | 2024-03-25 |  |
 | [Almonds](https://open.spotify.com/track/2D7JDaHR4Puir8CIyV5hN8) | [isobel](https://open.spotify.com/artist/6m5hsSoDJX5LFsRFUk9DVx) | [Almonds](https://open.spotify.com/album/6sRNguxPEZaJ2QxP3BN8GY) | 2:43 | 2025-10-15 |  |
+| [Almost 30](https://open.spotify.com/track/6mzyL7GpeG2kl6kvW7uYh4) | [Dina D](https://open.spotify.com/artist/1zTLkYtuX94wYdAVbDhQIE) | [Almost 30](https://open.spotify.com/album/0AzRiZVD2H5jmQNawa46lT) | 3:33 | 2026-04-13 |  |
 | [Almost Gone From My Mind](https://open.spotify.com/track/3ogbucnw9JjZdSTwyoBcnl) | [Bortitz](https://open.spotify.com/artist/0Ypm8wsqi6TW6beD1lO0rC) | [Karma](https://open.spotify.com/album/10JyibAycZJEvMjMdHOpvE) | 2:18 | 2025-05-10 |  |
 | [ALOHA](https://open.spotify.com/track/7qImrsugYnOBTRf22LbQHP) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [ALOHA](https://open.spotify.com/album/4hqqpZw3l01zh8jwdf34Qw) | 2:02 | 2025-09-19 |  |
 | [Alone](https://open.spotify.com/track/53t7HgLImRHYhmhnei7g1c) | [Rheghen Bell](https://open.spotify.com/artist/1PsTuifMhhQ4qqVJQkFdOB) | [we can't be friends](https://open.spotify.com/album/1Gt06y6LtRAzg9qAqO2Ghh) | 2:43 | 2025-05-19 |  |
@@ -1259,6 +1260,7 @@
 | [NEL SILENZIO DELLA NOTTE](https://open.spotify.com/track/2QO3yvlqjk7OBbZ4knCcEd) | [Alex Loffredi](https://open.spotify.com/artist/7nKYP4LvatBevQFhAwysHa) | [NEL SILENZIO DELLA NOTTE](https://open.spotify.com/album/4a9BjV5KNYRyMtL73YvzSh) | 3:47 | 2024-12-20 |  |
 | [NELLA STRADA](https://open.spotify.com/track/1LD58KQ0dWXyIRMgZblVOD) | [Alex Loffredi](https://open.spotify.com/artist/7nKYP4LvatBevQFhAwysHa) | [NELLA STRADA](https://open.spotify.com/album/6j9miS8vjPHys6lb8MGkaa) | 3:36 | 2025-02-27 |  |
 | [NEO TOKYO](https://open.spotify.com/track/3toZsVZJeh6sCBbE7u4YuO) | [kdhaner](https://open.spotify.com/artist/6aCwzXL8knkJ0eiL8Caya0), [Thomas Smith](https://open.spotify.com/artist/6yQ1Wnkd5CR7WM1hkl2r0K) | [NEO TOKYO](https://open.spotify.com/album/5AfCRtN3DdodBYg8NIWMvI) | 2:36 | 2025-06-28 |  |
+| [Neon Breeze](https://open.spotify.com/track/6E0So76OiY5EdlnDdlA1L9) | [Timeless Tunes](https://open.spotify.com/artist/0HrsERv5X1kKsTzjGZhPrN) | [Neon Breeze](https://open.spotify.com/album/2x0AfSoEFCz2uVWpDyptQW) | 2:42 | 2026-04-13 |  |
 | [Neon Sakura Bounce](https://open.spotify.com/track/5XFzqZO30XysZOAU9RrVJE) | [Peter Mor](https://open.spotify.com/artist/38KJeJHYikt98oEX7gcxSe) | [Neon Sakura Bounce](https://open.spotify.com/album/2zTZlPay4pTaDyucAD2OgO) | 3:21 | 2026-02-22 |  |
 | [Netflix & Chill](https://open.spotify.com/track/0IGFlFtg3gjr9ri7zZDylO) | [Edren](https://open.spotify.com/artist/60dVRzJKHt26v1lJLTszSG) | [Netflix & Chill](https://open.spotify.com/album/5x6SyZ8c5q9O1eObh5L4Z1) | 2:22 | 2025-08-01 |  |
 | [Neural Pulse](https://open.spotify.com/track/2HHYztt0D6nsWQajRb96wM) | [ProXdam](https://open.spotify.com/artist/4dEANbMr0F2Pj9QtH5fUg0) | [Neural Noise](https://open.spotify.com/album/1la6gF9yj81OuDBV7FOhVp) | 3:23 | 2025-05-06 |  |
@@ -1277,6 +1279,7 @@
 | [Night in Blue](https://open.spotify.com/track/3Oz0sNwPoqSdWnnpehCT7T) | [CrisVola](https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo) | [Night in Blue](https://open.spotify.com/album/4MzNvJ1ZT60rEzgk7d6TLY) | 2:47 | 2022-10-24 |  |
 | [Night Shift](https://open.spotify.com/track/0UUfMuJyyosW5EQNtYPVWz) | [Rafael Vidal Lykova](https://open.spotify.com/artist/7jFo2dnzVJ2XpI3e9AcDWA) | [Night Shift](https://open.spotify.com/album/6QJICO8aIvLQWjfa58PlpN) | 2:12 | 2025-09-15 |  |
 | [NIGHT SPIRAL](https://open.spotify.com/track/2oXsJlp3ty1HXl3hX3oecT) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [NIGHT SPIRAL](https://open.spotify.com/album/1nDDkjeD8ir66Ye4J0lSP9) | 2:49 | 2026-02-20 |  |
+| [Nimbus](https://open.spotify.com/track/3HcO0heDVrD7Ox9y6hNV3T) | [LoFi Bits](https://open.spotify.com/artist/7w6hMq10imqDIY64cY4sFT) | [Nature's White Noise: LoFi for Deep Focus](https://open.spotify.com/album/6epj6a6Ml495zUCUst2TzY) | 5:18 | 2026-04-13 |  |
 | [Nina plays Swiftly \(a goodbye in my garage early\)](https://open.spotify.com/track/2ptEjreHIpK9uhUuq6YCUs) | [Mildred's Big Day](https://open.spotify.com/artist/2ayq6NXWGwkbCzqEyTTpQv) | [For 91.1](https://open.spotify.com/album/5YKcMoJ79pjcsaNdLtZUNb) | 1:02 | 2025-09-24 |  |
 | [Nina Sings Again \(a goodbye in my garage\)](https://open.spotify.com/track/1GeAgHaA2a0538y6ZFHD7M) | [Mildred's Big Day](https://open.spotify.com/artist/2ayq6NXWGwkbCzqEyTTpQv) | [For 91.1](https://open.spotify.com/album/5YKcMoJ79pjcsaNdLtZUNb) | 1:55 | 2025-09-24 |  |
 | [No Bad Decisions Just Directions](https://open.spotify.com/track/3SesERLCdGBXWrXiVbxJC6) | [Alex Boillat](https://open.spotify.com/artist/7ss7dQcXWlSTOsFQO0p1EL) | [No Bad Decisions Just Directions](https://open.spotify.com/album/6uYr2dmxDTcVkBjlgltzvC) | 3:49 | 2025-06-02 |  |
@@ -2107,6 +2110,7 @@
 | [Доля захисників](https://open.spotify.com/track/2zKfUnKigpUkyxONpTExev) | [Влад Зайцев](https://open.spotify.com/artist/0ePuvKWeXbAlYFxvakdJ6h) | [Доля захисників](https://open.spotify.com/album/5EEfpr8epng3N8NHHkrVyt) | 3:40 | 2025-10-05 |  |
 | [Дороги снегом замело](https://open.spotify.com/track/74xgU9bqvu9nbvzhkLmZkU) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Космос](https://open.spotify.com/album/2jcE7I4Mqs4iGeY9PL3yRZ) | 2:59 | 2026-03-31 |  |
 | [Ещё вчера](https://open.spotify.com/track/3oEnRkfBvcDogSQhOpVYWB) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Ещё вчера](https://open.spotify.com/album/154tkH9dGGq42QMywGfwBN) | 4:09 | 2026-02-22 |  |
+| [Космос ждёт!](https://open.spotify.com/track/3eI5TOZVCiR9F1UGgBunrq) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Космос ждёт!](https://open.spotify.com/album/3aEUPND51PH4Kw466Tw49M) | 4:44 | 2026-04-13 |  |
 | [Лето](https://open.spotify.com/track/56wDXnGmt1k1MG8EpEF7wU) | [moon room 7](https://open.spotify.com/artist/5lut5OhjID1T8whViZB34G) | [Лето](https://open.spotify.com/album/0jeEjcRsn33ya6zeIganvz) | 4:24 | 2025-06-18 |  |
 | [Люблю](https://open.spotify.com/track/5OFLs1NK4P9CTwwH2P0rKY) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Люблю](https://open.spotify.com/album/3YJO7rlQMviBQRxqMCUtx9) | 3:41 | 2025-05-16 |  |
 | [Мы зарастаем серебром](https://open.spotify.com/track/06xsD60yZKOhSoQzFBRnzT) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Космос](https://open.spotify.com/album/2jcE7I4Mqs4iGeY9PL3yRZ) | 4:05 | 2025-10-03 |  |

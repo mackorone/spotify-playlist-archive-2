@@ -1,12 +1,12 @@
 {
   "description": "This is Osunlade. The essential tracks, all in one playlist.",
-  "num_followers": 3871,
+  "num_followers": 3875,
   "original_name": "This Is Osunlade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "admPAAAAAAAVtd6NGzo9Xn9FqXjSJ8Xa",
+  "snapshot_id": "adrggAAAAAB8zgd5NHhcJ/+HlmSw/y6r",
   "tracks": [
     {
       "added_at": null,
@@ -83,6 +83,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "MOSS",
+        "url": "https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 250430,
+      "name": "Tom's Bar",
+      "url": "https://open.spotify.com/track/6etoe7269ZeOzKzVrVeJkL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Osunlade presents Racially Charged",
         "url": "https://open.spotify.com/album/5kB8MxUqLacpzOeQo9PqpX"
       },
@@ -99,22 +115,6 @@
       "duration_ms": 243511,
       "name": "The Sickness",
       "url": "https://open.spotify.com/track/53jWOPMHXJqQ0BBeHZgW0j"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MOSS",
-        "url": "https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 250430,
-      "name": "Tom's Bar",
-      "url": "https://open.spotify.com/track/6etoe7269ZeOzKzVrVeJkL"
     },
     {
       "added_at": null,
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
         }
       ],
-      "duration_ms": 301713,
-      "name": "I Found",
-      "url": "https://open.spotify.com/track/2VK2xw8zkrAAsL3awzxDgf"
+      "duration_ms": 258617,
+      "name": "Plantation Earth",
+      "url": "https://open.spotify.com/track/5ApNxXVJLVsCw6YFQmLJPm"
     },
     {
       "added_at": null,
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
         }
       ],
-      "duration_ms": 258617,
-      "name": "Plantation Earth",
-      "url": "https://open.spotify.com/track/5ApNxXVJLVsCw6YFQmLJPm"
+      "duration_ms": 301713,
+      "name": "I Found",
+      "url": "https://open.spotify.com/track/2VK2xw8zkrAAsL3awzxDgf"
     },
     {
       "added_at": null,
@@ -511,26 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Starbase 17",
-        "url": "https://open.spotify.com/album/4aT3UTD8y8mFbDzONNlkHg"
-      },
-      "artists": [
-        {
-          "name": "Atjazz",
-          "url": "https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH"
-        },
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 375128,
-      "name": "YOUniversal Love",
-      "url": "https://open.spotify.com/track/7fLfJbK21ZnYy5dzzSK9Jr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Human Beings (Remixes)",
         "url": "https://open.spotify.com/album/0aXYi8WyRApE9RztbNlc1F"
       },
@@ -547,6 +527,26 @@
       "duration_ms": 414247,
       "name": "Human Beings - Atjazz Remix",
       "url": "https://open.spotify.com/track/3QvAiFAzy4TwUGyMtqblIH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Starbase 17",
+        "url": "https://open.spotify.com/album/4aT3UTD8y8mFbDzONNlkHg"
+      },
+      "artists": [
+        {
+          "name": "Atjazz",
+          "url": "https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH"
+        },
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 375128,
+      "name": "YOUniversal Love",
+      "url": "https://open.spotify.com/track/7fLfJbK21ZnYy5dzzSK9Jr"
     },
     {
       "added_at": null,
@@ -583,6 +583,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dedication EP",
+        "url": "https://open.spotify.com/album/0co2Fp51ywLHgX8sEl62qX"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 193560,
+      "name": "Cosmic Signs",
+      "url": "https://open.spotify.com/track/5fmqznIjOJS050oRCHAUCw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Brand New Feeling - Yoruba Soul Remixes",
         "url": "https://open.spotify.com/album/470ou8bSscstQ53wB8gVYE"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 447400,
       "name": "Brand New Feeling - Yoruba Soul Mix Part 1",
       "url": "https://open.spotify.com/track/5udRnyoTYZRr44pXCOCo7p"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dedication EP",
-        "url": "https://open.spotify.com/album/0co2Fp51ywLHgX8sEl62qX"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 193560,
-      "name": "Cosmic Signs",
-      "url": "https://open.spotify.com/track/5fmqznIjOJS050oRCHAUCw"
     },
     {
       "added_at": null,
@@ -687,6 +687,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "MOSS",
+        "url": "https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 182071,
+      "name": "MOSS",
+      "url": "https://open.spotify.com/track/0aVhniuf8aJR8KEgrbL9zb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pyrography",
         "url": "https://open.spotify.com/album/0PHAAYBLx48pTXnYe5EsKH"
       },
@@ -719,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MOSS",
-        "url": "https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 182071,
-      "name": "MOSS",
-      "url": "https://open.spotify.com/track/0aVhniuf8aJR8KEgrbL9zb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Exit Music - Songs with Radio Heads EP 4",
         "url": "https://open.spotify.com/album/4TQcH4sJAp0hv7Tu9lgtOh"
       },
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Prism EP",
-        "url": "https://open.spotify.com/album/4g4EPRLPyJClFMfvWf8Kby"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 340792,
-      "name": "Sistagurl",
-      "url": "https://open.spotify.com/track/6Uj6lckV30styenVEpFRmM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Basic Sketches For Beginners",
         "url": "https://open.spotify.com/album/52jbKRpd9w9aw47fKQckOF"
       },
@@ -783,6 +767,38 @@
       "duration_ms": 590030,
       "name": "Auto Machine",
       "url": "https://open.spotify.com/track/5BOTahRcfhhdSllCVVWYnc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Iamone",
+        "url": "https://open.spotify.com/album/0aT3Nsxp2VzA8vCGaSOhU1"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 109979,
+      "name": "Build a Fire",
+      "url": "https://open.spotify.com/track/1mq79cmhhp0bvnOmF8Blb8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Prism EP",
+        "url": "https://open.spotify.com/album/4g4EPRLPyJClFMfvWf8Kby"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 340792,
+      "name": "Sistagurl",
+      "url": "https://open.spotify.com/track/6Uj6lckV30styenVEpFRmM"
     },
     {
       "added_at": null,
@@ -819,22 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Iamone",
-        "url": "https://open.spotify.com/album/0aT3Nsxp2VzA8vCGaSOhU1"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 109979,
-      "name": "Build a Fire",
-      "url": "https://open.spotify.com/track/1mq79cmhhp0bvnOmF8Blb8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Inner Garden",
         "url": "https://open.spotify.com/album/1VTMe5fxuGQYhC91cKAvRa"
       },
@@ -847,6 +847,30 @@
       "duration_ms": 429496,
       "name": "Luv",
       "url": "https://open.spotify.com/track/28khN5I8USrsWCrl1l01ra"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "We Call Love",
+        "url": "https://open.spotify.com/album/1FCRVkwVO9nrIzEWrIoYhv"
+      },
+      "artists": [
+        {
+          "name": "Art Department",
+          "url": "https://open.spotify.com/artist/7Gsu15RkjjdKhMecdRpk9x"
+        },
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        },
+        {
+          "name": "Soul Clap",
+          "url": "https://open.spotify.com/artist/0PEfTatx7R08s3nFrn9teD"
+        }
+      ],
+      "duration_ms": 378026,
+      "name": "We Call Love",
+      "url": "https://open.spotify.com/track/0orJzfilEns6w4Qo7TMibG"
     },
     {
       "added_at": null,
@@ -883,32 +907,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Call Love",
-        "url": "https://open.spotify.com/album/1FCRVkwVO9nrIzEWrIoYhv"
-      },
-      "artists": [
-        {
-          "name": "Art Department",
-          "url": "https://open.spotify.com/artist/7Gsu15RkjjdKhMecdRpk9x"
-        },
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        },
-        {
-          "name": "Soul Clap",
-          "url": "https://open.spotify.com/artist/0PEfTatx7R08s3nFrn9teD"
-        }
-      ],
-      "duration_ms": 378026,
-      "name": "We Call Love",
-      "url": "https://open.spotify.com/track/0orJzfilEns6w4Qo7TMibG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aquarian Moon",
-        "url": "https://open.spotify.com/album/7L9DbyxlXNlTwrtsVBTYuy"
+        "name": "Strictly Chill, Vol. 1 (Mixed Version)",
+        "url": "https://open.spotify.com/album/6mFQMHLs7ElJBDg0eLsON9"
       },
       "artists": [
         {
@@ -916,9 +916,9 @@
           "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
         }
       ],
-      "duration_ms": 400480,
-      "name": "Music For The Gods",
-      "url": "https://open.spotify.com/track/60mWMUdenqnSjEqPVOpomd"
+      "duration_ms": 312080,
+      "name": "A Monk's Tear",
+      "url": "https://open.spotify.com/track/6L4UOa4lSPJWkopXPEzpTK"
     }
   ],
   "unique_name": "This Is Osunlade",

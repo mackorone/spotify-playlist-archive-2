@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "admPAAAAAAAGKtZub9m8T1dSVBKhdaaN",
+  "snapshot_id": "adrggAAAAAAUSVVDnRPLTSffjh2MVA2Z",
   "tracks": [
     {
       "added_at": null,
@@ -819,22 +819,6 @@
       "duration_ms": 245787,
       "name": "Not Your Usual Night",
       "url": "https://open.spotify.com/track/4GmOX4FuzC2lRAezV21V7G"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Siren Islands",
-        "url": "https://open.spotify.com/album/3JXHEKcmSRlvDesUhccbDZ"
-      },
-      "artists": [
-        {
-          "name": "Arooj Aftab",
-          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        }
-      ],
-      "duration_ms": 911913,
-      "name": "Ovid's Metamorphoses",
-      "url": "https://open.spotify.com/track/16EpeiRPTdWLvuKZdpi6mi"
     }
   ],
   "unique_name": "This Is Arooj Aftab",

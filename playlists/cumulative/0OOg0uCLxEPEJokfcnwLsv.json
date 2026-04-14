@@ -4767,6 +4767,28 @@
     },
     {
       "album": {
+        "name": "Nueva Era",
+        "url": "https://open.spotify.com/album/6aBPq0mvfWPYuSv1OzPhL5"
+      },
+      "artists": [
+        {
+          "name": "JaNNus",
+          "url": "https://open.spotify.com/artist/6UzFYM28tp9IjqbjVdnmTb"
+        },
+        {
+          "name": "Cristian Argonz",
+          "url": "https://open.spotify.com/artist/1tvPKCfCxBoYEpbd0VjCVR"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205932,
+      "name": "Parte de Mi Sangre",
+      "url": "https://open.spotify.com/track/77Ksuuc2iN2SlK4vGmoeFj"
+    },
+    {
+      "album": {
         "name": "Pear Tree",
         "url": "https://open.spotify.com/album/5tvAeyesEagq1JOtZoDlRr"
       },

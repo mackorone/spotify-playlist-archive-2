@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22rN53.md) - [plain]
 
 > This is Victor Ray\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,845 likes - 18 songs - 56 min 56 sec
+[Spotify](https://open.spotify.com/user/spotify) - 5,852 likes - 18 songs - 56 min 56 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,4 +27,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22rN53.md) - [plain]
 | 17 | [Sink or Swim](https://open.spotify.com/track/3e2vffxfcTZxQe4b6O9u42) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [I AM\. MIXTAPE](https://open.spotify.com/album/1fj6GxAiOwzGlT16GTQ5X6) | 2:47 |
 | 18 | [Like The Moon](https://open.spotify.com/track/38UHOSV8sYkMCGM8wPo7Eq) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [I AM\. MIXTAPE](https://open.spotify.com/album/1fj6GxAiOwzGlT16GTQ5X6) | 2:57 |
 
-Snapshot ID: `admPAAAAAACdL0PwTnskcmDpFlds3wVY`
+Snapshot ID: `adrggAAAAABJXak3Y6g8xce/Tkf7Amll`

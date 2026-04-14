@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring Gurnam Bhullar & Hitika Bali
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,259 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,397 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 16 | [Admirer](https://open.spotify.com/track/6OFpUesdplq0jslk42Hyp4) | [Aden](https://open.spotify.com/artist/7rDPs6JhBnjpEJ775TtekQ), [Amber](https://open.spotify.com/artist/6UIT9w4vJCXgsg77Ny9shS) | [\(Un\)broken](https://open.spotify.com/album/5pRVhkJ1PotLcBti9pvV5R) | 3:09 |
 | 17 | [Sohni Lagdi](https://open.spotify.com/track/39ekKV0MPqtla7gnJHq7io) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Zafar Sandhu](https://open.spotify.com/artist/3Q1isolUOcUmnxscdi4TUM), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [Sardaar Ji 3 \(Orignal Motion Picture Soundtrack\)](https://open.spotify.com/album/6o2rlVElYPIrPIjMsC75dv) | 2:35 |
 | 18 | [Waalian](https://open.spotify.com/track/68AyTcvyK46hpzwohHUkJI) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS), [Gifty](https://open.spotify.com/artist/5EI0jTvbMGykhnuTBXGQUQ) | [Waalian](https://open.spotify.com/album/3UlQdsscMNX2rCZ50WYuR7) | 3:38 |
-| 19 | [Duji Vaar Pyar](https://open.spotify.com/track/1B5D51wDedzm68VnAEcH0a) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY) | [Duji Vaar Pyar](https://open.spotify.com/album/4iWkvBwlFEaWE98W6JuNgL) | 3:15 |
+| 19 | [Duji Vaar Pyar](https://open.spotify.com/track/1B5D51wDedzm68VnAEcH0a) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN) | [Duji Vaar Pyar](https://open.spotify.com/album/4iWkvBwlFEaWE98W6JuNgL) | 3:15 |
 | 20 | [Together](https://open.spotify.com/track/1QoS0wPKlrFxF9AW3xxjkP) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY), [Deol Harman](https://open.spotify.com/artist/2N8tEhXkaUz7bBi5Ym9Xqa) | [ROMEO](https://open.spotify.com/album/3BdbcwuZ24zF60YcQrL3NV) | 2:38 |
 | 21 | [Gorgeous](https://open.spotify.com/track/5bITGuBx8UEpes7q9n6uV5) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb), [Black Virus](https://open.spotify.com/artist/3baDngVJ6Eof0PzTWf42lU) | [Gorgeous](https://open.spotify.com/album/2DnW4ffeM7ExbJ33MvXrTM) | 2:47 |
 | 22 | [Guitar Sikhda](https://open.spotify.com/track/4k4trqKN7srdcL1r5gkw3V) | [Jassie Gill](https://open.spotify.com/artist/3xZnxcyeC0vVaJvEA9VqrA) | [Guitar Sikhda](https://open.spotify.com/album/48meVFZjKsSZpeOa9PevCT) | 3:09 |

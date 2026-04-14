@@ -1,12 +1,12 @@
 {
   "description": "This is N\u00edvea Soares. The essential tracks, all in one playlist.",
-  "num_followers": 63453,
+  "num_followers": 63456,
   "original_name": "This Is N\u00edvea Soares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "admPAAAAAABYX+RM3dQqRpF0OrV1fl1E",
+  "snapshot_id": "adrggAAAAAAeLKAK92vTGruRAk5gIaVP",
   "tracks": [
     {
       "added_at": null,
@@ -319,6 +319,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Maravilhado (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6GUZILTmS0r3OpUavt7qam"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 454587,
+      "name": "Maravilhado - Ao Vivo",
+      "url": "https://open.spotify.com/track/7nE1e60VdkncBBxQkqGxRY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vem, Esta \u00c9 a Hora (Ao Vivo)",
         "url": "https://open.spotify.com/album/2OCGd9zHZTScNoi7lDQWfT"
       },
@@ -339,22 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eu Vou Construir",
-        "url": "https://open.spotify.com/album/4KeInSoEi4lcW498jnvbdH"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 409459,
-      "name": "Eu Vou Construir",
-      "url": "https://open.spotify.com/track/4DVIA9RLre5v407SeMerY3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Reino de Justi\u00e7a (Ao Vivo)",
         "url": "https://open.spotify.com/album/1w3UofqYh0InFfUymfhLCi"
       },
@@ -371,8 +371,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maravilhado (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6GUZILTmS0r3OpUavt7qam"
+        "name": "Eu Vou Construir",
+        "url": "https://open.spotify.com/album/4KeInSoEi4lcW498jnvbdH"
       },
       "artists": [
         {
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
         }
       ],
-      "duration_ms": 454587,
-      "name": "Maravilhado - Ao Vivo",
-      "url": "https://open.spotify.com/track/7nE1e60VdkncBBxQkqGxRY"
+      "duration_ms": 409459,
+      "name": "Eu Vou Construir",
+      "url": "https://open.spotify.com/track/4DVIA9RLre5v407SeMerY3"
     },
     {
       "added_at": null,
@@ -447,26 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Can\u00e7\u00e3o dos Redimidos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3erNcW7hi9cRVSBhZwR7vZ"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        },
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 413965,
-      "name": "Can\u00e7\u00e3o dos Redimidos - Ao Vivo",
-      "url": "https://open.spotify.com/track/6WxZVLp7T1Li3EAafagTdw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Som da Liberdade 2.0",
         "url": "https://open.spotify.com/album/2bRpKofUSDkDG6Dlwem8Nr"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 305076,
       "name": "Filho do Deus Vivo (feat. N\u00edvea Soares)",
       "url": "https://open.spotify.com/track/4Ksk2JCgHnWxTcrhTC6c99"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Can\u00e7\u00e3o dos Redimidos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3erNcW7hi9cRVSBhZwR7vZ"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        },
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 413965,
+      "name": "Can\u00e7\u00e3o dos Redimidos - Ao Vivo",
+      "url": "https://open.spotify.com/track/6WxZVLp7T1Li3EAafagTdw"
     },
     {
       "added_at": null,
@@ -539,30 +539,6 @@
       "duration_ms": 388200,
       "name": "Reina Sobre Mim",
       "url": "https://open.spotify.com/track/4pMuGWAkpd9v2aCqdwS3qv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gloria A Deus",
-        "url": "https://open.spotify.com/album/2krT7tZVv5nde0MiKYOdvx"
-      },
-      "artists": [
-        {
-          "name": "Gateway Worship Portugu\u00eas",
-          "url": "https://open.spotify.com/artist/22De2olWYrU8vpToSBq0Xy"
-        },
-        {
-          "name": "Diante do Trono",
-          "url": "https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75"
-        },
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 379803,
-      "name": "Maravilhado",
-      "url": "https://open.spotify.com/track/6ztdqO8mEJr8no28Hr0gD3"
     },
     {
       "added_at": null,
@@ -647,18 +623,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rei do Meu Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/3QhGWtEFA3VAwtgflnLLyT"
+        "name": "Gloria A Deus",
+        "url": "https://open.spotify.com/album/2krT7tZVv5nde0MiKYOdvx"
       },
       "artists": [
+        {
+          "name": "Gateway Worship Portugu\u00eas",
+          "url": "https://open.spotify.com/artist/22De2olWYrU8vpToSBq0Xy"
+        },
+        {
+          "name": "Diante do Trono",
+          "url": "https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75"
+        },
         {
           "name": "N\u00edvea Soares",
           "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
         }
       ],
-      "duration_ms": 360085,
-      "name": "Rei do Meu Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/2LsPqdB1cWSVXxRQ5cKweN"
+      "duration_ms": 379803,
+      "name": "Maravilhado",
+      "url": "https://open.spotify.com/track/6ztdqO8mEJr8no28Hr0gD3"
     },
     {
       "added_at": null,
@@ -675,6 +659,22 @@
       "duration_ms": 546346,
       "name": "Digno de Tudo + Te Exaltamos - Ao Vivo",
       "url": "https://open.spotify.com/track/67DGEqcpxUXtZEtFFmsnQC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rei do Meu Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/3QhGWtEFA3VAwtgflnLLyT"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 360085,
+      "name": "Rei do Meu Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/2LsPqdB1cWSVXxRQ5cKweN"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gl\u00f3ria E Honra (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4TLWr1MWdEj98RHapVcnLm"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 291266,
-      "name": "Meu Maior Amor - Ao Vivo",
-      "url": "https://open.spotify.com/track/6veb6mzP3bVBM2qe6O3MSS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Medley Cora\u00e7\u00e3o Igual ao Teu (Ao Vivo)",
         "url": "https://open.spotify.com/album/5s1zqwFYmzOAVgMtG1n2PK"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 437090,
       "name": "Medley Cora\u00e7\u00e3o Igual ao Teu - Ao Vivo",
       "url": "https://open.spotify.com/track/1o0XzYCjhPLMsQ9PXLwlNH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gl\u00f3ria E Honra (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4TLWr1MWdEj98RHapVcnLm"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 291266,
+      "name": "Meu Maior Amor - Ao Vivo",
+      "url": "https://open.spotify.com/track/6veb6mzP3bVBM2qe6O3MSS"
     },
     {
       "added_at": null,
@@ -811,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gl\u00f3ria E Honra (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4TLWr1MWdEj98RHapVcnLm"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 790360,
-      "name": "Em Tua Presen\u00e7a - Ao Vivo",
-      "url": "https://open.spotify.com/track/2xpotltTAOvJbWJgJKCUoI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eu e a Minha Casa (Ao Vivo)",
         "url": "https://open.spotify.com/album/7IhafZgxgH4tmM2lDqmOjy"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 326840,
       "name": "Filho Meu - Ao Vivo",
       "url": "https://open.spotify.com/track/5kh9VHaBkb1IXmA3OqNvbP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gl\u00f3ria E Honra (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4TLWr1MWdEj98RHapVcnLm"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 790360,
+      "name": "Em Tua Presen\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/2xpotltTAOvJbWJgJKCUoI"
     },
     {
       "added_at": null,
@@ -895,22 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gl\u00f3ria E Honra (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4TLWr1MWdEj98RHapVcnLm"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 385280,
-      "name": "Gl\u00f3ria & Honra",
-      "url": "https://open.spotify.com/track/5AMt6ZnnKYMggHbYKUcs5a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grande \u00e9 o Senhor (Ao Vivo)",
         "url": "https://open.spotify.com/album/5oqDl5IyyhOejgBcl2pDv9"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 413311,
       "name": "Grande \u00e9 o Senhor - Ao Vivo",
       "url": "https://open.spotify.com/track/2mYzwAhfjxNkUu6pJvZyCJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gl\u00f3ria E Honra (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4TLWr1MWdEj98RHapVcnLm"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 385280,
+      "name": "Gl\u00f3ria & Honra",
+      "url": "https://open.spotify.com/track/5AMt6ZnnKYMggHbYKUcs5a"
     },
     {
       "added_at": null,

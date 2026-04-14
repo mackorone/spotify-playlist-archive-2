@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4QrK4j7ie9B.md) - [plain]
 
 > The ultimate classical playlist for soothing stretching, practicing pliés and point at the barre.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,073 likes - 44 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,129 likes - 44 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4QrK4j7ie9B.md) - [plain]
 | 35 | [Pink Pony Club](https://open.spotify.com/track/5HJBcxBHrBR41fCU7sGVhK) | [Raúl Pierre](https://open.spotify.com/artist/5SyP8mvaxGuhQY5T4kaoOA) | [Pink Pony Club](https://open.spotify.com/album/4shzEb8hY7U8i9O8AOfo7q) | 3:54 |
 | 36 | [Espresso](https://open.spotify.com/track/6mbrwy2qyswMGrhXcfkjNE) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Espresso](https://open.spotify.com/album/0WSzv4640pPFZ6gqo78TCx) | 2:55 |
 | 37 | [Anti\-Hero \- Piano Version](https://open.spotify.com/track/3fFK6RHuDJazKW6Ud2ziKL) | [The Chillest](https://open.spotify.com/artist/2qlvTZS8OkFRZi30S0D9E7) | [The Chillest Taylor Swift, Vol\. 2](https://open.spotify.com/album/22FOu8M28GHeTPQLIRUs7T) | 2:57 |
-| 38 | [Go the Distance \(From "Hercules"\)](https://open.spotify.com/track/145NS8v0pKl7DyvEsGRo7V) | [JoJo Piano](https://open.spotify.com/artist/3jJAHAlFWv5hAnnXa2zQGJ) | [Go the Distance \(From "Hercules"\)](https://open.spotify.com/album/3N9a1Wf90FwMUx7BHf8RiK) | 1:55 |
+| 38 | [Go the Distance \(From "Hercules"\)](https://open.spotify.com/track/145NS8v0pKl7DyvEsGRo7V) | [John Johan](https://open.spotify.com/artist/3jJAHAlFWv5hAnnXa2zQGJ) | [Go the Distance \(From "Hercules"\)](https://open.spotify.com/album/3N9a1Wf90FwMUx7BHf8RiK) | 1:55 |
 | 39 | [12 Pieces, Op\. 40, TH 138: No\. 8, Valse \(Arr\. for Piano by Peter Breiner\)](https://open.spotify.com/track/0fmGAdVP5WSfj1wTfRU6bj) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Peter Breiner](https://open.spotify.com/artist/50MREZ0LJcSvrtKuyTV8Su) | [Tchaikovsky: Greatest Melodies](https://open.spotify.com/album/0Zd9QG4qqJEVcxG6Tbo6nw) | 2:30 |
 | 40 | [Préludes, Book 1: VIII\. La Fille Aux Cheveux de Lin](https://open.spotify.com/track/0g6Lm1d1FcfzV7ZkCzy8aP) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Anna Tsybuleva](https://open.spotify.com/artist/5KR6Fiu20JZXyqLH7PHn8N) | [The Complete Debussy: Préludes pour solo piano](https://open.spotify.com/album/7lRTB8X2ZkzxD8hxfDcMtX) | 2:45 |
 | 41 | [Après un rêve, Op\. 7, No\. 1](https://open.spotify.com/track/05yzhEWkmVXiigqWfcNTQS) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk), [Kathryn Stott](https://open.spotify.com/artist/7JmDqds7Y1LRSWZVM8e0Og) | [Songs from the Arc of Life](https://open.spotify.com/album/2y85NsbsBnGTXcXgHpj3PD) | 2:40 |

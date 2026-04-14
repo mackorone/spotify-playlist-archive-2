@@ -1,6 +1,6 @@
 {
   "description": "Klassik &amp; Instrumental Soundtrack Konzentration, Entspannen",
-  "num_followers": 32747,
+  "num_followers": 32759,
   "original_name": "Klassische Musik zum Lesen, Lernen & Studieren",
   "owner": {
     "name": "Filtr Germany",
@@ -560,16 +560,16 @@
       },
       "artists": [
         {
+          "name": "Louis Philippson",
+          "url": "https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH"
+        },
+        {
           "name": "Leon Wolf",
           "url": "https://open.spotify.com/artist/7IliShIfPIrKZgNLrsu40S"
         },
         {
           "name": "Robin Kallenberger",
           "url": "https://open.spotify.com/artist/2NXmj32ljyGyI7FmQS7u8r"
-        },
-        {
-          "name": "Louis Philippson",
-          "url": "https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH"
         }
       ],
       "duration_ms": 222954,

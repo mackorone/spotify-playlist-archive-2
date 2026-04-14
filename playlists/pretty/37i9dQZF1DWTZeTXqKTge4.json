@@ -1,12 +1,12 @@
 {
   "description": "Le rap qu\u00e9b\u00e9cois, servi tout frais tout chaud. Photo: ENIMA",
-  "num_followers": 89853,
+  "num_followers": 89846,
   "original_name": "Rap qu\u00e9b",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK+YZ0Uvy2uUb4/C8tPWW6pWgjmx",
+  "snapshot_id": "AAAAAJA9LwgJYUx9RXj3j1UMBAp3p2Pj",
   "tracks": [
     {
       "added_at": "2026-04-10 04:04:11",
@@ -379,6 +379,26 @@
     {
       "added_at": "2026-04-10 04:04:11",
       "album": {
+        "name": "Berger",
+        "url": "https://open.spotify.com/album/3UDzR0OtJrtctfvP77XTAg"
+      },
+      "artists": [
+        {
+          "name": "Aswell",
+          "url": "https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc"
+        },
+        {
+          "name": "Loud",
+          "url": "https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo"
+        }
+      ],
+      "duration_ms": 195813,
+      "name": "Backstage",
+      "url": "https://open.spotify.com/track/20Wh8z88uZ2WdySpKxQrl5"
+    },
+    {
+      "added_at": "2026-04-10 04:04:11",
+      "album": {
         "name": "mabad",
         "url": "https://open.spotify.com/album/5zzjX0TmH5KMhH9S2PhTib"
       },
@@ -439,26 +459,6 @@
       "duration_ms": 235694,
       "name": "Ni Dieu ni ma\u00eetre",
       "url": "https://open.spotify.com/track/2Te3XX0nnlY8JdEQlfrWz0"
-    },
-    {
-      "added_at": "2026-04-10 04:04:11",
-      "album": {
-        "name": "Berger",
-        "url": "https://open.spotify.com/album/3UDzR0OtJrtctfvP77XTAg"
-      },
-      "artists": [
-        {
-          "name": "Aswell",
-          "url": "https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc"
-        },
-        {
-          "name": "Loud",
-          "url": "https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo"
-        }
-      ],
-      "duration_ms": 195813,
-      "name": "Backstage",
-      "url": "https://open.spotify.com/track/20Wh8z88uZ2WdySpKxQrl5"
     },
     {
       "added_at": "2026-04-10 04:04:11",
@@ -547,6 +547,22 @@
       "duration_ms": 174933,
       "name": "FAIT TROP FROID",
       "url": "https://open.spotify.com/track/1bszsOPWN2uJJ7GgEmiQ3u"
+    },
+    {
+      "added_at": "2026-04-10 04:04:11",
+      "album": {
+        "name": "Ma r\u00e9alit\u00e9",
+        "url": "https://open.spotify.com/album/4CPw1Mo7hJItpMplRcFdyx"
+      },
+      "artists": [
+        {
+          "name": "ray.z",
+          "url": "https://open.spotify.com/artist/1EfhaaHz0yZn4W0SLHFKQS"
+        }
+      ],
+      "duration_ms": 134118,
+      "name": "Ma r\u00e9alit\u00e9",
+      "url": "https://open.spotify.com/track/2fIukPQSldwrBlzwACakSX"
     },
     {
       "added_at": "2026-04-10 04:04:11",
@@ -1135,22 +1151,6 @@
       "duration_ms": 168175,
       "name": "Avec*Babe",
       "url": "https://open.spotify.com/track/3Vivke5XRY6gQuPuNCpp03"
-    },
-    {
-      "added_at": "2026-04-10 04:04:11",
-      "album": {
-        "name": "Ma r\u00e9alit\u00e9",
-        "url": "https://open.spotify.com/album/4CPw1Mo7hJItpMplRcFdyx"
-      },
-      "artists": [
-        {
-          "name": "ray.z",
-          "url": "https://open.spotify.com/artist/1EfhaaHz0yZn4W0SLHFKQS"
-        }
-      ],
-      "duration_ms": 134118,
-      "name": "Ma r\u00e9alit\u00e9",
-      "url": "https://open.spotify.com/track/2fIukPQSldwrBlzwACakSX"
     },
     {
       "added_at": "2026-04-10 04:04:11",

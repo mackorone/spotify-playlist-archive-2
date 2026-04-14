@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 
 > Indiepop in het Nederlands\. Cover: IDA
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,358 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,359 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 | 13 | [Buut Vrij](https://open.spotify.com/track/3QPg1dEGWflIOjyFQyho8i) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Buut Vrij](https://open.spotify.com/album/630fn7jhz1GbN3pWWuR1qu) | 2:38 |
 | 14 | [oeps](https://open.spotify.com/track/4w7Zhg034GDeMYnpOoZIuu) | [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0), [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [lieve monsters](https://open.spotify.com/album/58hG8DHeDtvVE2IrKq7IOM) | 3:20 |
 | 15 | [Misschien](https://open.spotify.com/track/6jUQSSH5nisDUcVFFBFZIn) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Frok en Stien](https://open.spotify.com/album/7gNXQXUyuylGHvns5yJSeZ) | 3:02 |
-| 16 | [Fuck Je Gucci Shirt](https://open.spotify.com/track/1hD3B1IiFU84te2aOOvNrr) | [jet van der steen](https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo) | [Niemand Gaat Het Voor Je Doen](https://open.spotify.com/album/3a7bA26ltWMlYpJuD2R8oF) | 2:28 |
-| 17 | [Vrijheid, Gelijkheid, Zusterschap](https://open.spotify.com/track/4EIM7QMhQLg8Q28cXqqrUs) | [Sophie Straat](https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw) | [Smartlap Is Niet Dood](https://open.spotify.com/album/7F7cYFNO6ly7iBjYBaVQtA) | 3:10 |
+| 16 | [Vrijheid, Gelijkheid, Zusterschap](https://open.spotify.com/track/4EIM7QMhQLg8Q28cXqqrUs) | [Sophie Straat](https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw) | [Smartlap Is Niet Dood](https://open.spotify.com/album/7F7cYFNO6ly7iBjYBaVQtA) | 3:10 |
+| 17 | [Fuck Je Gucci Shirt](https://open.spotify.com/track/1hD3B1IiFU84te2aOOvNrr) | [jet van der steen](https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo) | [Niemand Gaat Het Voor Je Doen](https://open.spotify.com/album/3a7bA26ltWMlYpJuD2R8oF) | 2:28 |
 | 18 | [HEMEL & AARDE](https://open.spotify.com/track/7G6la7Z1YkOCgR3oIRtEaN) | [Abel](https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ), [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0), [IJSLAND](https://open.spotify.com/artist/6qldO9Y7hb0qI9J50uR1zW) | [IJSLAND 2](https://open.spotify.com/album/1L95CMnIW9LHwQ8MKhkauD) | 2:56 |
 | 19 | [Niks Is Zeker](https://open.spotify.com/track/6ojaqvQB3ai8gTORhpoGTQ) | [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds) | [Niks Is Zeker](https://open.spotify.com/album/2mdXMY6Jgqtmf8Vlmv7gNb) | 3:01 |
 | 20 | [Offline](https://open.spotify.com/track/7BG9Fh8c3swsY2auGk0Q9E) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Frok en Stien](https://open.spotify.com/album/7gNXQXUyuylGHvns5yJSeZ) | 2:29 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 | 47 | [Bob Dylan](https://open.spotify.com/track/5FfhOLX2T07YpFNctSrO9P) | [De Plaag](https://open.spotify.com/artist/5ezJSYbBLR78v7cKsoC46d) | [Bob Dylan](https://open.spotify.com/album/15cwNEjCv4EjW8xUiUnQ5M) | 3:45 |
 | 48 | [Moe Van Jezelf](https://open.spotify.com/track/3gsHFY5eFCkanac1hMUjOo) | [nonchelange](https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n), [Mathieu Terryn](https://open.spotify.com/artist/49lHyCtrgMgmijZw2FqPHK) | [Moe Van Jezelf](https://open.spotify.com/album/7DZIfMTGxzRN9nkcIxCDfo) | 2:40 |
 | 49 | [Skinroutine Bikinilijn](https://open.spotify.com/track/6Q0MNS8ZNeEKDnLgDgoZe2) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [Skinroutine Bikinilijn](https://open.spotify.com/album/6Gxagh1mE6Z9Mipof5thLQ) | 3:03 |
-| 50 | [Water](https://open.spotify.com/track/0Q7FWCLgqatwSWma0K3afr) | [Vic Willems](https://open.spotify.com/artist/0StW0SKh1kJo8Myzc8ZjCX), [Denise Breevaart](https://open.spotify.com/artist/7a7QUAAZArOW20p34t9nhS) | [Ook De Miezer](https://open.spotify.com/album/40xY7z7fbX1drEWKz5y5CQ) | 4:00 |
+| 50 | [In NL Mag Je Een Vrouw Slaan](https://open.spotify.com/track/7FxAlqztuui1tcixeLCq0n) | [Alice Olsthoorn](https://open.spotify.com/artist/1KyUq6iWtqdflrTHwOrnOA) | [In NL Mag Je Een Vrouw Slaan](https://open.spotify.com/album/3q5dNlndDVXzfvulgjpbRe) | 2:30 |
 
 Snapshot ID: `AAAAAEkgyAPKLQJq8aneRI5vHBlu7vKK`

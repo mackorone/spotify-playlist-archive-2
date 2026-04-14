@@ -1,6 +1,6 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Tyler Ballgame",
-  "num_followers": 88313,
+  "num_followers": 88330,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
@@ -567,22 +567,6 @@
     {
       "added_at": "2026-03-13 14:26:58",
       "album": {
-        "name": "You You You / Audrey Hepburn",
-        "url": "https://open.spotify.com/album/2IHW6rf6xGNhT1HuMEG5Pu"
-      },
-      "artists": [
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        }
-      ],
-      "duration_ms": 186549,
-      "name": "Audrey Hepburn",
-      "url": "https://open.spotify.com/track/7hoPbfGuOZe6FKBlwB2d21"
-    },
-    {
-      "added_at": "2026-03-13 14:26:58",
-      "album": {
         "name": "The Bend",
         "url": "https://open.spotify.com/album/5hoF6Qgg5SKKuKW4uknLk7"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 242446,
       "name": "The Bend",
       "url": "https://open.spotify.com/track/4CwtjbfPWEA5YNVFBEAsV1"
+    },
+    {
+      "added_at": "2026-03-13 14:26:58",
+      "album": {
+        "name": "You You You / Audrey Hepburn",
+        "url": "https://open.spotify.com/album/2IHW6rf6xGNhT1HuMEG5Pu"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 186549,
+      "name": "Audrey Hepburn",
+      "url": "https://open.spotify.com/track/7hoPbfGuOZe6FKBlwB2d21"
     },
     {
       "added_at": "2026-03-13 14:26:58",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-03-13 14:26:58",
       "album": {
-        "name": "Sunflowers and Leather",
-        "url": "https://open.spotify.com/album/6QpICdjsPyFcuCkb1M2i59"
-      },
-      "artists": [
-        {
-          "name": "Jonah Kagen",
-          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
-        }
-      ],
-      "duration_ms": 210973,
-      "name": "Black Lung",
-      "url": "https://open.spotify.com/track/3JxPW85spOn1SncxuLbpIY"
-    },
-    {
-      "added_at": "2026-03-13 14:26:58",
-      "album": {
         "name": "Feeling Fine",
         "url": "https://open.spotify.com/album/5QVuQVJgf2ibf26Vc24lTx"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 168461,
       "name": "Feeling Fine",
       "url": "https://open.spotify.com/track/7rL903PspMN1lJBeFI7OKF"
+    },
+    {
+      "added_at": "2026-03-13 14:26:58",
+      "album": {
+        "name": "Sunflowers and Leather",
+        "url": "https://open.spotify.com/album/6QpICdjsPyFcuCkb1M2i59"
+      },
+      "artists": [
+        {
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+        }
+      ],
+      "duration_ms": 210973,
+      "name": "Black Lung",
+      "url": "https://open.spotify.com/track/3JxPW85spOn1SncxuLbpIY"
     },
     {
       "added_at": "2026-03-13 14:26:58",
@@ -723,6 +723,22 @@
     {
       "added_at": "2026-03-13 14:26:58",
       "album": {
+        "name": "I Saw The Mountains",
+        "url": "https://open.spotify.com/album/5zurVXReV3tD2wxCLQ7XXK"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "duration_ms": 264664,
+      "name": "I Saw The Mountains",
+      "url": "https://open.spotify.com/track/0CEpezcWFou8sCdbcGof44"
+    },
+    {
+      "added_at": "2026-03-13 14:26:58",
+      "album": {
         "name": "Burn Me",
         "url": "https://open.spotify.com/album/0100hgq4IwkxrCmldWPgYj"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 214617,
       "name": "Burn Me",
       "url": "https://open.spotify.com/track/3diMgXk3RxGChNwsAVqyIL"
-    },
-    {
-      "added_at": "2026-03-13 14:26:58",
-      "album": {
-        "name": "I Saw The Mountains",
-        "url": "https://open.spotify.com/album/5zurVXReV3tD2wxCLQ7XXK"
-      },
-      "artists": [
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        }
-      ],
-      "duration_ms": 264664,
-      "name": "I Saw The Mountains",
-      "url": "https://open.spotify.com/track/0CEpezcWFou8sCdbcGof44"
     },
     {
       "added_at": "2026-03-13 14:26:58",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2026-03-13 14:26:58",
       "album": {
-        "name": "Postcards to Heaven",
-        "url": "https://open.spotify.com/album/4T1awA0BJdq5BPKuXyoMPz"
-      },
-      "artists": [
-        {
-          "name": "Lily Meola",
-          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
-        }
-      ],
-      "duration_ms": 161931,
-      "name": "Northern Star",
-      "url": "https://open.spotify.com/track/1wrpdr361iTE0RpG4gqhsu"
-    },
-    {
-      "added_at": "2026-03-13 14:26:58",
-      "album": {
         "name": "Love Again",
         "url": "https://open.spotify.com/album/55GVOmy6g6oRXIuUklMxnS"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 187403,
       "name": "Like The Rain",
       "url": "https://open.spotify.com/track/0qBoobvEvFNnbCzvgtHjM8"
+    },
+    {
+      "added_at": "2026-03-13 14:26:58",
+      "album": {
+        "name": "Postcards to Heaven",
+        "url": "https://open.spotify.com/album/4T1awA0BJdq5BPKuXyoMPz"
+      },
+      "artists": [
+        {
+          "name": "Lily Meola",
+          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
+        }
+      ],
+      "duration_ms": 161931,
+      "name": "Northern Star",
+      "url": "https://open.spotify.com/track/1wrpdr361iTE0RpG4gqhsu"
     },
     {
       "added_at": "2026-03-13 14:26:58",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2026-03-13 14:26:58",
       "album": {
-        "name": "Bus Back To Richmond / More Than Friends",
-        "url": "https://open.spotify.com/album/7MJlctOJwPCNL39oaag0ce"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 174744,
-      "name": "Bus Back To Richmond",
-      "url": "https://open.spotify.com/track/0uP3nr5ygvojAQftifZ0ga"
-    },
-    {
-      "added_at": "2026-03-13 14:26:58",
-      "album": {
         "name": "Poison In My Well",
         "url": "https://open.spotify.com/album/1lQPaWzjstwG1X3hWZb11A"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 188936,
       "name": "Poison In My Well",
       "url": "https://open.spotify.com/track/5sTW2d86vNwfiJ2VNjUsrq"
+    },
+    {
+      "added_at": "2026-03-13 14:26:58",
+      "album": {
+        "name": "Bus Back To Richmond / More Than Friends",
+        "url": "https://open.spotify.com/album/7MJlctOJwPCNL39oaag0ce"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 174744,
+      "name": "Bus Back To Richmond",
+      "url": "https://open.spotify.com/track/0uP3nr5ygvojAQftifZ0ga"
     },
     {
       "added_at": "2026-03-13 14:26:58",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2026-03-13 14:26:58",
       "album": {
-        "name": "hands to myself",
-        "url": "https://open.spotify.com/album/6hFrFTTnn4LiZr8izHX1zf"
-      },
-      "artists": [
-        {
-          "name": "Keni Titus",
-          "url": "https://open.spotify.com/artist/3TCkIp7RQLM4MzP5q9iyzj"
-        }
-      ],
-      "duration_ms": 160491,
-      "name": "hands to myself",
-      "url": "https://open.spotify.com/track/312F4NjnSnTbFI70e435is"
-    },
-    {
-      "added_at": "2026-03-13 14:26:58",
-      "album": {
         "name": "Wild One",
         "url": "https://open.spotify.com/album/6uQPitAnucKcatIRufA7om"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 142489,
       "name": "Wild One",
       "url": "https://open.spotify.com/track/1ez4a2Zt26EJWcIoKaXO67"
+    },
+    {
+      "added_at": "2026-03-13 14:26:58",
+      "album": {
+        "name": "hands to myself",
+        "url": "https://open.spotify.com/album/6hFrFTTnn4LiZr8izHX1zf"
+      },
+      "artists": [
+        {
+          "name": "Keni Titus",
+          "url": "https://open.spotify.com/artist/3TCkIp7RQLM4MzP5q9iyzj"
+        }
+      ],
+      "duration_ms": 160491,
+      "name": "hands to myself",
+      "url": "https://open.spotify.com/track/312F4NjnSnTbFI70e435is"
     },
     {
       "added_at": "2026-03-13 14:26:58",

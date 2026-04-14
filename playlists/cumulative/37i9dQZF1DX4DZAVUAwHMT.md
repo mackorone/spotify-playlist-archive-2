@@ -4,7 +4,7 @@
 
 > The UK's biggest rock playlist\. Cover: Enter Shikari
 
-1,337 songs - 3 day 2 hr 52 min
+1,338 songs - 3 day 2 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@
 | [B A D I D E A](https://open.spotify.com/track/5qDvHAFgbVJrGkBb7sJM07) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [B A D I D E A](https://open.spotify.com/album/66w1jC2ICwyggAeHCPCBmr) | 1:49 | 2025-08-14 | 2025-10-17 |
 | [B.A.B.E.](https://open.spotify.com/track/7ES8BGLLkl2VsklzKX7d7Z) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [B.A.B.E.](https://open.spotify.com/album/2WprxFWcKDodLgXosRikiw) | 2:33 | 2025-02-14 | 2025-04-04 |
 | [Baby Blue](https://open.spotify.com/track/1KkgkKGPZfPZgGF1XI6ABP) | [Sundara Karma](https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP) | [Baby Blue](https://open.spotify.com/album/4hf91mS2sYQmmfEMnP5zUj) | 2:54 | 2023-07-27 | 2023-09-22 |
-| [Back Of My Hand](https://open.spotify.com/track/45WQmEMvZMy3a90XbRWbbB) | [The Belair Lip Bombs](https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT) | [Back Of My Hand](https://open.spotify.com/album/1B5ulSel2ojBJKhm2YMelp) | 3:26 | 2025-10-09 |  |
+| [Back Of My Hand](https://open.spotify.com/track/45WQmEMvZMy3a90XbRWbbB) | [The Belair Lip Bombs](https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT) | [Back Of My Hand](https://open.spotify.com/album/1B5ulSel2ojBJKhm2YMelp) | 3:26 | 2025-10-09 | 2026-04-14 |
 | [Bad Decisions](https://open.spotify.com/track/2uJvuMZVAfnWa3lTTxJW9q) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI) | [Bad Decisions](https://open.spotify.com/album/5V3bFQnpSALvyDEyHsCHat) | 2:32 | 2023-03-08 | 2024-03-09 |
 | [Bad Influence](https://open.spotify.com/track/1Mv0nJfyxuZM05O3GseVIw) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [The King and Queen of Gasoline](https://open.spotify.com/album/1a3S2I3J4LcmAoj5ttDaoP) | 3:02 | 2023-03-08 | 2023-03-09 |
 | [Bad Moons](https://open.spotify.com/track/1vFLg6nWigxe7H8pw2GT6z) | [American Football](https://open.spotify.com/artist/5FwydyGVcsQllnM4xM6jw4) | [Bad Moons](https://open.spotify.com/album/31Az8zsLomPk3LrfEs0q6p) | 8:13 | 2026-02-26 |  |
@@ -233,7 +233,7 @@
 | [Champagne Taste](https://open.spotify.com/track/7gR5CpDbUBfOs75WDcGZof) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Champagne Taste](https://open.spotify.com/album/1vhvjKCn21JSqJnh03lFf2) | 3:12 | 2025-01-31 | 2025-03-14 |
 | [Cheers](https://open.spotify.com/track/2bPm2KgdHwttB2ZRdL0jdZ) | [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [Cheers](https://open.spotify.com/album/34r9RSSfxVG5pDXbfcuE8u) | 3:26 | 2025-02-28 | 2025-05-16 |
 | [Cherophobe](https://open.spotify.com/track/5N2s4ZcU9sAuEHlnOMGzny) | [The Royston Club](https://open.spotify.com/artist/5N5jf98OOEf3uAIJpi1deD) | [Cherophobe](https://open.spotify.com/album/628bjj2XYcW0GISs7ei2fC) | 4:16 | 2023-04-13 | 2023-06-02 |
-| [Cherry](https://open.spotify.com/track/6arjfkXcKsLhvEtb9gKLc1) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Cherry](https://open.spotify.com/album/0Lav96JqaZmqMCbryXUPgE) | 2:08 | 2025-10-16 |  |
+| [Cherry](https://open.spotify.com/track/6arjfkXcKsLhvEtb9gKLc1) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Cherry](https://open.spotify.com/album/0Lav96JqaZmqMCbryXUPgE) | 2:08 | 2025-10-16 | 2026-04-14 |
 | [Cherry Bomb](https://open.spotify.com/track/0hiQoqVVLjG6PTUTQEpTb5) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Cherry Bomb](https://open.spotify.com/album/2XxmkIbbCw20xkmB61Va4C) | 2:58 | 2025-07-10 | 2025-08-30 |
 | [chicago](https://open.spotify.com/track/6SkptVZ2SEfSJRxV84TMsR) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [chicago](https://open.spotify.com/album/18wcMl1vO8YBg4Xrq0Dwm7) | 3:04 | 2024-01-12 | 2024-01-19 |
 | [Choose Your Fighter](https://open.spotify.com/track/6tL8gSH1BWB5noSIac3uGZ) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Supernova](https://open.spotify.com/album/41ycYGcnhkDb3pFkL8vSPJ) | 2:15 | 2023-03-08 | 2024-03-09 |
@@ -337,7 +337,7 @@
 | [Drop Me Out](https://open.spotify.com/track/64C9Mimhyd333spyj1P8c0) | [High Vis](https://open.spotify.com/artist/4Gmrt82h2vjGjnp67SG5Nw) | [Drop Me Out](https://open.spotify.com/album/1WqBdPB6qkcWD8HbNWdMTo) | 3:57 | 2024-09-20 | 2024-11-15 |
 | [Drum Show](https://open.spotify.com/track/4rPl7ezxtoqshKnI1kk3dX) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Drum Show](https://open.spotify.com/album/2ua0DTF9uqI0AugOvNrumo) | 3:23 | 2025-08-21 | 2025-09-12 |
 | [Drummer](https://open.spotify.com/track/2vYAKa9MpnFSpEPyPSfaNh) | [Storm Orchestra](https://open.spotify.com/artist/5Zl04O5XJOu7kGrAosCPfR) | [Drummer](https://open.spotify.com/album/1zPtKycZi8zpHwurCQoDxp) | 3:32 | 2024-09-05 | 2024-12-13 |
-| [Dying To Love](https://open.spotify.com/track/1TPdMmb92BoWvDFQlCuVl0) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Dying To Love](https://open.spotify.com/album/46UaOs7CHiOPGGdxUtWvcj) | 4:16 | 2025-10-23 |  |
+| [Dying To Love](https://open.spotify.com/track/1TPdMmb92BoWvDFQlCuVl0) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Dying To Love](https://open.spotify.com/album/46UaOs7CHiOPGGdxUtWvcj) | 4:16 | 2025-10-23 | 2026-04-14 |
 | [Easier](https://open.spotify.com/track/6p2CaYsLkNeXpqFhA1RJRA) | [Superlove](https://open.spotify.com/artist/33esp5UFKcRpxcR4Xo0Sne) | [Easier](https://open.spotify.com/album/4PnhLX8zjgFP9PTGEe6eyS) | 3:00 | 2023-04-27 | 2023-05-12 |
 | [Easing Out Of Control](https://open.spotify.com/track/00K12rtcNjGzNBqrl3Dnmd) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Easing Out Of Control](https://open.spotify.com/album/5hEpZiyINDmaqRD8PPikmB) | 3:34 | 2026-01-16 | 2026-03-13 |
 | [Easy Distraction](https://open.spotify.com/track/2zLek2ZAy5bZiLmiyUWcMw) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Easy Distraction](https://open.spotify.com/album/0zHgc3eS8X20SdPkJhPRgF) | 3:50 | 2024-08-29 | 2024-10-11 |
@@ -839,8 +839,8 @@
 | [OK](https://open.spotify.com/track/6qNMS8hywSVyaFcH3LqwEn) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [OK](https://open.spotify.com/album/6xF3774il7mBjTAqfgIpeg) | 3:44 | 2023-02-17 | 2023-07-07 |
 | [OK](https://open.spotify.com/track/6biJO3d73OlVb6wf77D3Bp) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [A Fistful of Peaches](https://open.spotify.com/album/66f2AJfIYSpWtiDMac7Wea) | 3:44 | 2024-03-08 | 2024-03-09 |
 | [Okay That's Me](https://open.spotify.com/track/4GwpXgHffb9W4tW7Ee8uAn) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Okay That's Me](https://open.spotify.com/album/1AlRwqxW1pi4JxP3jthq58) | 3:11 | 2023-01-13 | 2023-02-03 |
-| [omni shambles](https://open.spotify.com/track/741HkhBFMxxkmq1uU0VJSz) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [omni shambles](https://open.spotify.com/album/45dbSWXwlSOxhPLcWs1n9X) | 2:16 | 2025-10-16 |  |
-| [On and On](https://open.spotify.com/track/34PAOBsQ9IZKGSPIkHanpY) | [Mouth Culture](https://open.spotify.com/artist/4Fc4GqcYwYnTePiW3nggrd) | [On and On](https://open.spotify.com/album/0neNPjNpMwz6EW1RULoeg1) | 3:13 | 2025-10-23 |  |
+| [omni shambles](https://open.spotify.com/track/741HkhBFMxxkmq1uU0VJSz) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [omni shambles](https://open.spotify.com/album/45dbSWXwlSOxhPLcWs1n9X) | 2:16 | 2025-10-16 | 2026-04-14 |
+| [On and On](https://open.spotify.com/track/34PAOBsQ9IZKGSPIkHanpY) | [Mouth Culture](https://open.spotify.com/artist/4Fc4GqcYwYnTePiW3nggrd) | [On and On](https://open.spotify.com/album/0neNPjNpMwz6EW1RULoeg1) | 3:13 | 2025-10-23 | 2026-04-14 |
 | [On Drugs](https://open.spotify.com/track/5m1ncM2CKxfxsJwlVpgZPf) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [That's Life](https://open.spotify.com/album/0dXzD6JFPdhBEX7q2Zq4NR) | 2:33 | 2023-03-17 | 2023-04-14 |
 | [On Repeat](https://open.spotify.com/track/2B5ZNovTMGMW50ml95BP7L) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [On Repeat](https://open.spotify.com/album/3OofANTV95MpiLS4OXMj3y) | 3:18 | 2025-07-17 | 2025-07-25 |
 | [On The Game](https://open.spotify.com/track/4c7iXNRiy72rMXfRTR9V0V) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Ohio Players](https://open.spotify.com/album/4Tdem6pnui14BlWLCB4VrI) | 4:02 | 2024-04-05 | 2024-08-23 |
@@ -906,7 +906,7 @@
 | [Pitch Black](https://open.spotify.com/track/667WclCD8TE4oLsoWkRoNy) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [Pitch Black](https://open.spotify.com/album/4VxwwXBy1q2a7JJwDz4EqS) | 4:25 | 2024-11-08 | 2025-02-14 |
 | [Place Your Debts](https://open.spotify.com/track/29f4cPjqBi9n5lS8XQlKa3) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Place Your Debts](https://open.spotify.com/album/3I3kMVNvm0kT9RZGjeyNDl) | 5:10 | 2023-01-13 | 2023-01-20 |
 | [Placebo](https://open.spotify.com/track/6T4hTXGDgINTwLJCE0iv14) | [VILLANELLE](https://open.spotify.com/artist/3J9QwmRJDdn9Oq1fB6mfcF) | [Placebo](https://open.spotify.com/album/6f6TCcTF2vjS2GxKlT7SBq) | 4:50 | 2026-02-13 | 2026-04-03 |
-| [PLAINTIVE NATIVE](https://open.spotify.com/track/752jJf80yhDnt7K7dTfTnO) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [PLAINTIVE NATIVE](https://open.spotify.com/album/3o7SM2cImToqXzVwWrfloL) | 3:18 | 2025-10-16 |  |
+| [PLAINTIVE NATIVE](https://open.spotify.com/track/752jJf80yhDnt7K7dTfTnO) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [PLAINTIVE NATIVE](https://open.spotify.com/album/3o7SM2cImToqXzVwWrfloL) | 3:18 | 2025-10-16 | 2026-04-14 |
 | [Planet Popstar](https://open.spotify.com/track/0l9GXpgaE7lBxl29G68Lfu) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Planet Popstar](https://open.spotify.com/album/7KuPIQd0Ix8aVQuGLgsHqS) | 4:04 | 2024-12-06 | 2025-03-14 |
 | [Play Dead](https://open.spotify.com/track/5p0arvR1JgUDotPjCfNQtF) | [LEAP](https://open.spotify.com/artist/538iX6YCTybcgzsrjDTrFi) | [Play Dead](https://open.spotify.com/album/00Kp1EvriKf68kzGLSCATh) | 4:28 | 2025-03-13 | 2025-07-11 |
 | [Play My Favourite Song](https://open.spotify.com/track/4uBs8miGwBykRYjrbAO5kV) | [Tigercub](https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw) | [Play My Favourite Song](https://open.spotify.com/album/48kUWLzmZrvwHqYrpOkBat) | 2:35 | 2023-02-24 | 2023-04-28 |
@@ -1107,6 +1107,7 @@
 | [Sugar Like That](https://open.spotify.com/track/2GZga87kUDmNkFtOq49sEr) | [Gin Wigmore](https://open.spotify.com/artist/4Gzfk9Lxm67nBs7E9BZjzG) | [Sugar Like That](https://open.spotify.com/album/6NOHZlMBXG95ldNB72ORJx) | 3:13 | 2023-11-10 | 2024-01-05 |
 | [Sugar Sandwich](https://open.spotify.com/track/0YjWw115kqMWebWvXKC7is) | [Buzzard Buzzard Buzzard](https://open.spotify.com/artist/69ilUSFj31FA2iLHtegRwi) | [Skinwalker](https://open.spotify.com/album/0NrTb5PevrUBFnL3DXOyFG) | 2:25 | 2024-04-11 | 2024-05-03 |
 | [Sunshine](https://open.spotify.com/track/0WJXLRHqj15saDtjRiJ9tu) | [Love Is Noise](https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki) | [Sunshine](https://open.spotify.com/album/4TnbaltnutcYlayEsaapT4) | 3:47 | 2025-01-10 | 2025-02-14 |
+| [SUPERMAN](https://open.spotify.com/track/4UM8YF7PvhdAs94bsxxJM7) | [South Arcade](https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF) | [SUPERMAN](https://open.spotify.com/album/0Xp8U8KDNMYUREYFtS3sCy) | 3:24 | 2026-04-13 |  |
 | [Supermodel Avalanches](https://open.spotify.com/track/3daLDEbCt1fvkS7POmwu2U) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Back To The Water Below \(Bonus Edition\)](https://open.spotify.com/album/1bPTd5Ic6yHUGq5QZj2j2N) | 3:10 | 2023-12-22 | 2024-04-19 |
 | [Supernatural](https://open.spotify.com/track/3HFvMIvCBNGkypFCQUHjyV) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Supernatural](https://open.spotify.com/album/5T0qNPygFFXWjhnzSzlTWD) | 2:47 | 2023-01-13 | 2023-03-18 |
 | [Surreal](https://open.spotify.com/track/5FJqmD13HjltqMbxtOo5Ul) | [Flawed Mangoes](https://open.spotify.com/artist/4MrQDA45Gd0llLrwFUzimG) | [Anomaly IV](https://open.spotify.com/album/34QW18TUfBtQcte51fQKZS) | 4:47 | 2025-07-17 | 2025-09-26 |

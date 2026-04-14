@@ -1,6 +1,6 @@
 {
   "description": "The ultimate instrumental soundtrack for a long-haul journey, to the bustling metropolis in Japan that never sleeps. \u65e5\u672c\u306e\u30d7\u30ed\u30c7\u30e5\u30fc\u30b5\u30fc\u306b\u3088\u308b\u30a4\u30f3\u30b9\u30c8\u697d\u66f2\u3092\u7279\u96c6\u3002",
-  "num_followers": 529148,
+  "num_followers": 529146,
   "original_name": "Road Trip To Tokyo",
   "owner": {
     "name": "Spotify",
@@ -539,6 +539,26 @@
     {
       "added_at": "2026-04-08 04:03:27",
       "album": {
+        "name": "Sasanqua",
+        "url": "https://open.spotify.com/album/0BMJ7h0QsY0wNSjsteLRSd"
+      },
+      "artists": [
+        {
+          "name": "physis",
+          "url": "https://open.spotify.com/artist/3NPEPBUgyPFCn4qNjKdhMx"
+        },
+        {
+          "name": "re:plus",
+          "url": "https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG"
+        }
+      ],
+      "duration_ms": 134959,
+      "name": "Sasanqua",
+      "url": "https://open.spotify.com/track/08POPoMeYXmzyOnrxLQRlU"
+    },
+    {
+      "added_at": "2026-04-08 04:03:27",
+      "album": {
         "name": "Flow Motion",
         "url": "https://open.spotify.com/album/4cJ8GhgQkfaoQLpHcESCJB"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 132152,
       "name": "Flow Motion",
       "url": "https://open.spotify.com/track/6letr2UF42D0KowDsi8IRN"
-    },
-    {
-      "added_at": "2026-04-08 04:03:27",
-      "album": {
-        "name": "Sasanqua",
-        "url": "https://open.spotify.com/album/0BMJ7h0QsY0wNSjsteLRSd"
-      },
-      "artists": [
-        {
-          "name": "physis",
-          "url": "https://open.spotify.com/artist/3NPEPBUgyPFCn4qNjKdhMx"
-        },
-        {
-          "name": "re:plus",
-          "url": "https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG"
-        }
-      ],
-      "duration_ms": 134959,
-      "name": "Sasanqua",
-      "url": "https://open.spotify.com/track/08POPoMeYXmzyOnrxLQRlU"
     },
     {
       "added_at": "2026-04-08 04:03:27",
@@ -871,18 +871,18 @@
     {
       "added_at": "2026-04-08 04:03:27",
       "album": {
-        "name": "Kingyo",
-        "url": "https://open.spotify.com/album/0Wqz6WcMuMSBSEH60FnemV"
+        "name": "GeGe E.P.",
+        "url": "https://open.spotify.com/album/2ecLoovLVWLU0t7mJ2wglX"
       },
       "artists": [
         {
-          "name": "Shin-Ski",
-          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
+          "name": "MANTIS",
+          "url": "https://open.spotify.com/artist/1TVABMb2uIBrMfW1cagawa"
         }
       ],
-      "duration_ms": 168559,
-      "name": "Kingyo",
-      "url": "https://open.spotify.com/track/4X6fgP1OqSe7YGtkNPPmGQ"
+      "duration_ms": 212307,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/2FE0DuEVku3lEJVgRkcpbm"
     },
     {
       "added_at": "2026-04-08 04:03:27",
@@ -899,22 +899,6 @@
       "duration_ms": 146014,
       "name": "Panorama",
       "url": "https://open.spotify.com/track/6qYZdU3w9SikFhajI8IRsS"
-    },
-    {
-      "added_at": "2026-04-08 04:03:27",
-      "album": {
-        "name": "GeGe E.P.",
-        "url": "https://open.spotify.com/album/2ecLoovLVWLU0t7mJ2wglX"
-      },
-      "artists": [
-        {
-          "name": "MANTIS",
-          "url": "https://open.spotify.com/artist/1TVABMb2uIBrMfW1cagawa"
-        }
-      ],
-      "duration_ms": 212307,
-      "name": "You and I",
-      "url": "https://open.spotify.com/track/2FE0DuEVku3lEJVgRkcpbm"
     },
     {
       "added_at": "2026-04-08 04:03:27",
@@ -939,22 +923,18 @@
     {
       "added_at": "2026-04-08 04:03:27",
       "album": {
-        "name": "Kyoto",
-        "url": "https://open.spotify.com/album/1F0k3wIIdS72rQW8IJ9BzZ"
+        "name": "Kingyo",
+        "url": "https://open.spotify.com/album/0Wqz6WcMuMSBSEH60FnemV"
       },
       "artists": [
         {
-          "name": "Nahokimama",
-          "url": "https://open.spotify.com/artist/17sOYtMShLw4BdQf5YUns3"
-        },
-        {
-          "name": "Toshiki Soejima",
-          "url": "https://open.spotify.com/artist/6IqHDslsV3usaxCdciL3XO"
+          "name": "Shin-Ski",
+          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
         }
       ],
-      "duration_ms": 187378,
-      "name": "Kyoto",
-      "url": "https://open.spotify.com/track/7hw4CJMlaYl6h7Lv7h5OXS"
+      "duration_ms": 168559,
+      "name": "Kingyo",
+      "url": "https://open.spotify.com/track/4X6fgP1OqSe7YGtkNPPmGQ"
     },
     {
       "added_at": "2026-04-08 04:03:27",
@@ -975,18 +955,22 @@
     {
       "added_at": "2026-04-08 04:03:27",
       "album": {
-        "name": "sophisticated silence",
-        "url": "https://open.spotify.com/album/0cd465hlsnC86kvwrGYq8z"
+        "name": "Kyoto",
+        "url": "https://open.spotify.com/album/1F0k3wIIdS72rQW8IJ9BzZ"
       },
       "artists": [
         {
-          "name": "sophisticated silence",
-          "url": "https://open.spotify.com/artist/3DiUEs5iNZXUZSD28bMaKH"
+          "name": "Nahokimama",
+          "url": "https://open.spotify.com/artist/17sOYtMShLw4BdQf5YUns3"
+        },
+        {
+          "name": "Toshiki Soejima",
+          "url": "https://open.spotify.com/artist/6IqHDslsV3usaxCdciL3XO"
         }
       ],
-      "duration_ms": 155760,
-      "name": "NIGHT RIDER",
-      "url": "https://open.spotify.com/track/3wALcNc2paWyAkJQqO7eLZ"
+      "duration_ms": 187378,
+      "name": "Kyoto",
+      "url": "https://open.spotify.com/track/7hw4CJMlaYl6h7Lv7h5OXS"
     },
     {
       "added_at": "2026-04-08 04:03:27",
@@ -1007,6 +991,22 @@
     {
       "added_at": "2026-04-08 04:03:27",
       "album": {
+        "name": "sophisticated silence",
+        "url": "https://open.spotify.com/album/0cd465hlsnC86kvwrGYq8z"
+      },
+      "artists": [
+        {
+          "name": "sophisticated silence",
+          "url": "https://open.spotify.com/artist/3DiUEs5iNZXUZSD28bMaKH"
+        }
+      ],
+      "duration_ms": 155760,
+      "name": "NIGHT RIDER",
+      "url": "https://open.spotify.com/track/3wALcNc2paWyAkJQqO7eLZ"
+    },
+    {
+      "added_at": "2026-04-08 04:03:27",
+      "album": {
         "name": "Ch\u014dchin",
         "url": "https://open.spotify.com/album/4VUkZyMyR0ZZM2cGPFMHFn"
       },
@@ -1023,26 +1023,6 @@
       "duration_ms": 185676,
       "name": "Ch\u014dchin",
       "url": "https://open.spotify.com/track/5EUpp47BC9dw2iQM15hEps"
-    },
-    {
-      "added_at": "2026-04-08 04:03:27",
-      "album": {
-        "name": "Morning Breakfast Vol.1",
-        "url": "https://open.spotify.com/album/6dAa7hq3VYEqM66qGsky5R"
-      },
-      "artists": [
-        {
-          "name": "Morning Breakfast",
-          "url": "https://open.spotify.com/artist/62qZZnEqoCfJiN6khI7TuY"
-        },
-        {
-          "name": "Gold Digga",
-          "url": "https://open.spotify.com/artist/2XsUp7bFg2HhVw53ubcrvI"
-        }
-      ],
-      "duration_ms": 228030,
-      "name": "Nostalgic",
-      "url": "https://open.spotify.com/track/0sSvrd9F1YToRYwurMrs5L"
     },
     {
       "added_at": "2026-04-08 04:03:27",
@@ -1075,6 +1055,26 @@
       "duration_ms": 248000,
       "name": "Another Moment",
       "url": "https://open.spotify.com/track/7iKRSD3veF495sEM174M97"
+    },
+    {
+      "added_at": "2026-04-08 04:03:27",
+      "album": {
+        "name": "Morning Breakfast Vol.1",
+        "url": "https://open.spotify.com/album/6dAa7hq3VYEqM66qGsky5R"
+      },
+      "artists": [
+        {
+          "name": "Morning Breakfast",
+          "url": "https://open.spotify.com/artist/62qZZnEqoCfJiN6khI7TuY"
+        },
+        {
+          "name": "Gold Digga",
+          "url": "https://open.spotify.com/artist/2XsUp7bFg2HhVw53ubcrvI"
+        }
+      ],
+      "duration_ms": 228030,
+      "name": "Nostalgic",
+      "url": "https://open.spotify.com/track/0sSvrd9F1YToRYwurMrs5L"
     },
     {
       "added_at": "2026-04-08 04:03:27",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-04-08 04:03:27",
       "album": {
-        "name": "PAREIDOLIA",
-        "url": "https://open.spotify.com/album/39uasv0jcC61mqNRL4OKkC"
-      },
-      "artists": [
-        {
-          "name": "\u547c\u7159\u9b54",
-          "url": "https://open.spotify.com/artist/6DCqyAIjEYMWaUbJExBBA5"
-        }
-      ],
-      "duration_ms": 181490,
-      "name": "Whispers in the Night",
-      "url": "https://open.spotify.com/track/58ZKw23U9pY7k5ZgS30CAH"
-    },
-    {
-      "added_at": "2026-04-08 04:03:27",
-      "album": {
         "name": "reminisce",
         "url": "https://open.spotify.com/album/3hgNp3JLIj9YqRo3RuvWeC"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 169074,
       "name": "reminisce",
       "url": "https://open.spotify.com/track/33eWL7EXXttUumnaOJ95vT"
+    },
+    {
+      "added_at": "2026-04-08 04:03:27",
+      "album": {
+        "name": "PAREIDOLIA",
+        "url": "https://open.spotify.com/album/39uasv0jcC61mqNRL4OKkC"
+      },
+      "artists": [
+        {
+          "name": "\u547c\u7159\u9b54",
+          "url": "https://open.spotify.com/artist/6DCqyAIjEYMWaUbJExBBA5"
+        }
+      ],
+      "duration_ms": 181490,
+      "name": "Whispers in the Night",
+      "url": "https://open.spotify.com/track/58ZKw23U9pY7k5ZgS30CAH"
     },
     {
       "added_at": "2026-04-08 04:03:27",
@@ -1283,6 +1283,26 @@
     {
       "added_at": "2026-04-08 04:03:27",
       "album": {
+        "name": "Beyond the Lantern Lights",
+        "url": "https://open.spotify.com/album/2NqPCr21nysw9OYlBRDy4L"
+      },
+      "artists": [
+        {
+          "name": "Sling Dilly",
+          "url": "https://open.spotify.com/artist/6dY8i34qqvAmPgYeOzHTO9"
+        },
+        {
+          "name": "LEO",
+          "url": "https://open.spotify.com/artist/1WxBBV8qyCtx1H0f5oP2dS"
+        }
+      ],
+      "duration_ms": 148256,
+      "name": "Beyond the Lantern Lights",
+      "url": "https://open.spotify.com/track/3jSIGrh0wFMNUz4lMzyAOS"
+    },
+    {
+      "added_at": "2026-04-08 04:03:27",
+      "album": {
         "name": "Peach Fizz",
         "url": "https://open.spotify.com/album/4jQWHVwLAdYE9kUib4sThc"
       },
@@ -1295,6 +1315,38 @@
       "duration_ms": 155250,
       "name": "Peach Fizz",
       "url": "https://open.spotify.com/track/4KCqWbH9Oa8Rj5z0CBTaYM"
+    },
+    {
+      "added_at": "2026-04-08 04:03:27",
+      "album": {
+        "name": "ribbon",
+        "url": "https://open.spotify.com/album/1OCsOGkd7Gxju8adsnqVC9"
+      },
+      "artists": [
+        {
+          "name": "hario island",
+          "url": "https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN"
+        }
+      ],
+      "duration_ms": 125142,
+      "name": "ribbon",
+      "url": "https://open.spotify.com/track/5EfoIMA6T3S5Hbj1k1yRIf"
+    },
+    {
+      "added_at": "2026-04-08 04:03:27",
+      "album": {
+        "name": "Points of light",
+        "url": "https://open.spotify.com/album/2cvoaxFVvRl6FsuHFQYVDG"
+      },
+      "artists": [
+        {
+          "name": "re:plus",
+          "url": "https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG"
+        }
+      ],
+      "duration_ms": 168224,
+      "name": "Points of light",
+      "url": "https://open.spotify.com/track/6kppyz5XQdXFFdjDRqFmbm"
     },
     {
       "added_at": "2026-04-08 04:03:27",
@@ -1319,22 +1371,6 @@
     {
       "added_at": "2026-04-08 04:03:27",
       "album": {
-        "name": "MAR",
-        "url": "https://open.spotify.com/album/4tikL23aWFPLQIkS7DH0vO"
-      },
-      "artists": [
-        {
-          "name": "Bajune Tobeta",
-          "url": "https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7"
-        }
-      ],
-      "duration_ms": 169894,
-      "name": "MAR",
-      "url": "https://open.spotify.com/track/38mHYq8J7mGPl7M9S6aGlS"
-    },
-    {
-      "added_at": "2026-04-08 04:03:27",
-      "album": {
         "name": "Dawn Breaks",
         "url": "https://open.spotify.com/album/4GzbiM1VRAZwARO8DCCbUw"
       },
@@ -1351,54 +1387,34 @@
     {
       "added_at": "2026-04-08 04:03:27",
       "album": {
-        "name": "ribbon",
-        "url": "https://open.spotify.com/album/1OCsOGkd7Gxju8adsnqVC9"
+        "name": "Sublimation",
+        "url": "https://open.spotify.com/album/4uwsRa5RZaw5Mib2Sgf9Al"
       },
       "artists": [
         {
-          "name": "hario island",
-          "url": "https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN"
+          "name": "TSUTCHIE",
+          "url": "https://open.spotify.com/artist/4nOZG02O2CExI2rH6zQELY"
         }
       ],
-      "duration_ms": 125142,
-      "name": "ribbon",
-      "url": "https://open.spotify.com/track/5EfoIMA6T3S5Hbj1k1yRIf"
+      "duration_ms": 235216,
+      "name": "Sublimation",
+      "url": "https://open.spotify.com/track/0tJb8U00a0fEBDhvqTUSYQ"
     },
     {
       "added_at": "2026-04-08 04:03:27",
       "album": {
-        "name": "Beyond the Lantern Lights",
-        "url": "https://open.spotify.com/album/2NqPCr21nysw9OYlBRDy4L"
+        "name": "MAR",
+        "url": "https://open.spotify.com/album/4tikL23aWFPLQIkS7DH0vO"
       },
       "artists": [
         {
-          "name": "Sling Dilly",
-          "url": "https://open.spotify.com/artist/6dY8i34qqvAmPgYeOzHTO9"
-        },
-        {
-          "name": "LEO",
-          "url": "https://open.spotify.com/artist/1WxBBV8qyCtx1H0f5oP2dS"
+          "name": "Bajune Tobeta",
+          "url": "https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7"
         }
       ],
-      "duration_ms": 148256,
-      "name": "Beyond the Lantern Lights",
-      "url": "https://open.spotify.com/track/3jSIGrh0wFMNUz4lMzyAOS"
-    },
-    {
-      "added_at": "2026-04-08 04:03:27",
-      "album": {
-        "name": "Points of light",
-        "url": "https://open.spotify.com/album/2cvoaxFVvRl6FsuHFQYVDG"
-      },
-      "artists": [
-        {
-          "name": "re:plus",
-          "url": "https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG"
-        }
-      ],
-      "duration_ms": 168224,
-      "name": "Points of light",
-      "url": "https://open.spotify.com/track/6kppyz5XQdXFFdjDRqFmbm"
+      "duration_ms": 169894,
+      "name": "MAR",
+      "url": "https://open.spotify.com/track/38mHYq8J7mGPl7M9S6aGlS"
     },
     {
       "added_at": "2026-04-08 04:03:27",
@@ -1415,22 +1431,6 @@
       "duration_ms": 158117,
       "name": "Swing",
       "url": "https://open.spotify.com/track/03EMUB8q3QAkssNRXzTC6f"
-    },
-    {
-      "added_at": "2026-04-08 04:03:27",
-      "album": {
-        "name": "Sublimation",
-        "url": "https://open.spotify.com/album/4uwsRa5RZaw5Mib2Sgf9Al"
-      },
-      "artists": [
-        {
-          "name": "TSUTCHIE",
-          "url": "https://open.spotify.com/artist/4nOZG02O2CExI2rH6zQELY"
-        }
-      ],
-      "duration_ms": 235216,
-      "name": "Sublimation",
-      "url": "https://open.spotify.com/track/0tJb8U00a0fEBDhvqTUSYQ"
     },
     {
       "added_at": "2026-04-08 04:03:27",
@@ -1575,26 +1575,6 @@
     {
       "added_at": "2026-04-08 04:03:27",
       "album": {
-        "name": "Light Breeze EP",
-        "url": "https://open.spotify.com/album/1n2VCQLZpPAQql7MyapC22"
-      },
-      "artists": [
-        {
-          "name": "WAZGOGG",
-          "url": "https://open.spotify.com/artist/7FsxjSM1Naj6x4BYp7cXm5"
-        },
-        {
-          "name": "Koshun Nakao",
-          "url": "https://open.spotify.com/artist/6VpDrxopEFg1YOqmXOdPyz"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Light Breeze",
-      "url": "https://open.spotify.com/track/3GQ8N7Rcem6Iu1HOl5jqHg"
-    },
-    {
-      "added_at": "2026-04-08 04:03:27",
-      "album": {
         "name": "Awesome City",
         "url": "https://open.spotify.com/album/05PDJXae0t0adaepucRPVP"
       },
@@ -1611,18 +1591,22 @@
     {
       "added_at": "2026-04-08 04:03:27",
       "album": {
-        "name": "Gentle Pulse",
-        "url": "https://open.spotify.com/album/3ID1KnL5W5u4Q3y59oymBy"
+        "name": "Light Breeze EP",
+        "url": "https://open.spotify.com/album/1n2VCQLZpPAQql7MyapC22"
       },
       "artists": [
         {
-          "name": "KH",
-          "url": "https://open.spotify.com/artist/07Qyqoi71rSFyc6iwyONrr"
+          "name": "WAZGOGG",
+          "url": "https://open.spotify.com/artist/7FsxjSM1Naj6x4BYp7cXm5"
+        },
+        {
+          "name": "Koshun Nakao",
+          "url": "https://open.spotify.com/artist/6VpDrxopEFg1YOqmXOdPyz"
         }
       ],
-      "duration_ms": 150484,
-      "name": "Gentle Pulse",
-      "url": "https://open.spotify.com/track/5dA2ncuY1kKpuqWBV6YuXG"
+      "duration_ms": 120000,
+      "name": "Light Breeze",
+      "url": "https://open.spotify.com/track/3GQ8N7Rcem6Iu1HOl5jqHg"
     },
     {
       "added_at": "2026-04-08 04:03:27",
@@ -1659,6 +1643,22 @@
     {
       "added_at": "2026-04-08 04:03:27",
       "album": {
+        "name": "Expanse",
+        "url": "https://open.spotify.com/album/7h0QT4XlpxL7pvmKjArHHa"
+      },
+      "artists": [
+        {
+          "name": "Refeeld",
+          "url": "https://open.spotify.com/artist/04VwrPirvx6CXRzbEjofQP"
+        }
+      ],
+      "duration_ms": 182093,
+      "name": "Expanse",
+      "url": "https://open.spotify.com/track/4edUbFHJYBYqV5RYEAuEfG"
+    },
+    {
+      "added_at": "2026-04-08 04:03:27",
+      "album": {
         "name": "Oak",
         "url": "https://open.spotify.com/album/0vdKiuQsAHix0sDjoiwngg"
       },
@@ -1679,18 +1679,34 @@
     {
       "added_at": "2026-04-08 04:03:27",
       "album": {
-        "name": "Afternoon Sadness",
-        "url": "https://open.spotify.com/album/7Ggz41Az7k6v112r6HRHkU"
+        "name": "Cross the Bridge",
+        "url": "https://open.spotify.com/album/6aPWyP45dpcKhQGA2CdhBt"
       },
       "artists": [
         {
-          "name": "sophisticated silence",
-          "url": "https://open.spotify.com/artist/3DiUEs5iNZXUZSD28bMaKH"
+          "name": "MIDICRONICA 181",
+          "url": "https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY"
         }
       ],
-      "duration_ms": 130533,
-      "name": "Afternoon Sadness",
-      "url": "https://open.spotify.com/track/5wSrtDbksTDsWaFyFvDIKL"
+      "duration_ms": 138913,
+      "name": "Cross the Bridge",
+      "url": "https://open.spotify.com/track/6zgmVrSPNRqDcmzRHWE4gw"
+    },
+    {
+      "added_at": "2026-04-08 04:03:27",
+      "album": {
+        "name": "Gentle Pulse",
+        "url": "https://open.spotify.com/album/3ID1KnL5W5u4Q3y59oymBy"
+      },
+      "artists": [
+        {
+          "name": "KH",
+          "url": "https://open.spotify.com/artist/07Qyqoi71rSFyc6iwyONrr"
+        }
+      ],
+      "duration_ms": 150484,
+      "name": "Gentle Pulse",
+      "url": "https://open.spotify.com/track/5dA2ncuY1kKpuqWBV6YuXG"
     },
     {
       "added_at": "2026-04-08 04:03:27",
@@ -1707,38 +1723,6 @@
       "duration_ms": 201000,
       "name": "SICK",
       "url": "https://open.spotify.com/track/6W9YXVte9iLHgZxxGojjDY"
-    },
-    {
-      "added_at": "2026-04-08 04:03:27",
-      "album": {
-        "name": "Expanse",
-        "url": "https://open.spotify.com/album/7h0QT4XlpxL7pvmKjArHHa"
-      },
-      "artists": [
-        {
-          "name": "Refeeld",
-          "url": "https://open.spotify.com/artist/04VwrPirvx6CXRzbEjofQP"
-        }
-      ],
-      "duration_ms": 182093,
-      "name": "Expanse",
-      "url": "https://open.spotify.com/track/4edUbFHJYBYqV5RYEAuEfG"
-    },
-    {
-      "added_at": "2026-04-08 04:03:27",
-      "album": {
-        "name": "Cross the Bridge",
-        "url": "https://open.spotify.com/album/6aPWyP45dpcKhQGA2CdhBt"
-      },
-      "artists": [
-        {
-          "name": "MIDICRONICA 181",
-          "url": "https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY"
-        }
-      ],
-      "duration_ms": 138913,
-      "name": "Cross the Bridge",
-      "url": "https://open.spotify.com/track/6zgmVrSPNRqDcmzRHWE4gw"
     },
     {
       "added_at": "2026-04-08 04:03:27",
@@ -1771,6 +1755,22 @@
       "duration_ms": 197446,
       "name": "Rush Hour",
       "url": "https://open.spotify.com/track/3lwKN2RR2tqvqEVl4WoY5s"
+    },
+    {
+      "added_at": "2026-04-08 04:03:27",
+      "album": {
+        "name": "Afternoon Sadness",
+        "url": "https://open.spotify.com/album/7Ggz41Az7k6v112r6HRHkU"
+      },
+      "artists": [
+        {
+          "name": "sophisticated silence",
+          "url": "https://open.spotify.com/artist/3DiUEs5iNZXUZSD28bMaKH"
+        }
+      ],
+      "duration_ms": 130533,
+      "name": "Afternoon Sadness",
+      "url": "https://open.spotify.com/track/5wSrtDbksTDsWaFyFvDIKL"
     },
     {
       "added_at": "2026-04-08 04:03:27",

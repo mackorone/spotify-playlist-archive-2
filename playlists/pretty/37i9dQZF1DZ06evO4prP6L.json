@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "admPAAAAAABE79M7kMAHh8gHkY9vex4h",
+  "snapshot_id": "adrggAAAAADwqbThZakIPYGrqfP4rIKQ",
   "tracks": [
     {
       "added_at": null,
@@ -143,38 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beautiful Noise",
-        "url": "https://open.spotify.com/album/7kWgkcpCpLOqAtipwQ74pw"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Flying with the King",
-      "url": "https://open.spotify.com/track/0Yxgs1oL6uUAIthO962wzm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Three Chain Road",
-        "url": "https://open.spotify.com/album/2SMUg77ruqEc4C5hmZkmc7"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 254173,
-      "name": "Three Chain Road - Remastered 2017",
-      "url": "https://open.spotify.com/track/1G84cb9RM32J4EdOcS7w6F"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Spirit of the Anzacs",
         "url": "https://open.spotify.com/album/3MUXZ1eqsf6q0gKJG7w5bT"
       },
@@ -207,6 +175,38 @@
       "duration_ms": 233293,
       "name": "Spirit of the Anzacs",
       "url": "https://open.spotify.com/track/2gxV3aK7K1RYZ50rQkfqpl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Three Chain Road",
+        "url": "https://open.spotify.com/album/2SMUg77ruqEc4C5hmZkmc7"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 254173,
+      "name": "Three Chain Road - Remastered 2017",
+      "url": "https://open.spotify.com/track/1G84cb9RM32J4EdOcS7w6F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beautiful Noise",
+        "url": "https://open.spotify.com/album/7kWgkcpCpLOqAtipwQ74pw"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Flying with the King",
+      "url": "https://open.spotify.com/track/0Yxgs1oL6uUAIthO962wzm"
     },
     {
       "added_at": null,
@@ -247,26 +247,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Australian Made",
-        "url": "https://open.spotify.com/album/2Y3hVl3Ft1aSLFOMG4M9Rx"
-      },
-      "artists": [
-        {
-          "name": "The Wolfe Brothers",
-          "url": "https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma"
-        },
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 169160,
-      "name": "Country Is Coming To Town",
-      "url": "https://open.spotify.com/track/6wkPjmKaxCU1l3Lp3TUwVY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Planet Country",
         "url": "https://open.spotify.com/album/1SuH7QSsIz2DDDYIEgqTbW"
       },
@@ -283,22 +263,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Backroad Nation",
-        "url": "https://open.spotify.com/album/1DpDxB7bmSywE3cI857l8F"
+        "name": "Australian Made",
+        "url": "https://open.spotify.com/album/2Y3hVl3Ft1aSLFOMG4M9Rx"
       },
       "artists": [
         {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+          "name": "The Wolfe Brothers",
+          "url": "https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma"
         },
         {
-          "name": "Robby X",
-          "url": "https://open.spotify.com/artist/3sITW1EBX02neQWVyDV1EA"
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
         }
       ],
-      "duration_ms": 185345,
-      "name": "Where I Wanna Be",
-      "url": "https://open.spotify.com/track/4aBX6LjEPOo7DVyxNJvREr"
+      "duration_ms": 169160,
+      "name": "Country Is Coming To Town",
+      "url": "https://open.spotify.com/track/6wkPjmKaxCU1l3Lp3TUwVY"
     },
     {
       "added_at": null,
@@ -327,6 +307,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Backroad Nation",
+        "url": "https://open.spotify.com/album/1DpDxB7bmSywE3cI857l8F"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        },
+        {
+          "name": "Robby X",
+          "url": "https://open.spotify.com/artist/3sITW1EBX02neQWVyDV1EA"
+        }
+      ],
+      "duration_ms": 185345,
+      "name": "Where I Wanna Be",
+      "url": "https://open.spotify.com/track/4aBX6LjEPOo7DVyxNJvREr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rhythm Of The Highway (Tamworth Edition)",
         "url": "https://open.spotify.com/album/5M6fBvIwz7vz1gZMt6NWUm"
       },
@@ -343,22 +343,6 @@
       "duration_ms": 214720,
       "name": "I'm From The Country",
       "url": "https://open.spotify.com/track/041tmZwy1FfSfeJfy1IHRG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Electric Rodeo",
-        "url": "https://open.spotify.com/album/1G6LYp0xwhTyFMYFvit9CS"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 248493,
-      "name": "Texas Qld 4385 - Remastered 2017",
-      "url": "https://open.spotify.com/track/3ZneF8UFPALQbQJlFyXADD"
     },
     {
       "added_at": null,
@@ -383,8 +367,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Three Chain Road",
-        "url": "https://open.spotify.com/album/2SMUg77ruqEc4C5hmZkmc7"
+        "name": "Electric Rodeo",
+        "url": "https://open.spotify.com/album/1G6LYp0xwhTyFMYFvit9CS"
       },
       "artists": [
         {
@@ -392,9 +376,9 @@
           "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
         }
       ],
-      "duration_ms": 241000,
-      "name": "Southern Son - Remastered 2017",
-      "url": "https://open.spotify.com/track/2qPzCg34BXSB88kOwfzKRG"
+      "duration_ms": 248493,
+      "name": "Texas Qld 4385 - Remastered 2017",
+      "url": "https://open.spotify.com/track/3ZneF8UFPALQbQJlFyXADD"
     },
     {
       "added_at": null,
@@ -415,6 +399,22 @@
       "duration_ms": 161875,
       "name": "Dumb Things",
       "url": "https://open.spotify.com/track/3LaakWngDrr1fx1ZC1yt1L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Three Chain Road",
+        "url": "https://open.spotify.com/album/2SMUg77ruqEc4C5hmZkmc7"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 241000,
+      "name": "Southern Son - Remastered 2017",
+      "url": "https://open.spotify.com/track/2qPzCg34BXSB88kOwfzKRG"
     },
     {
       "added_at": null,
@@ -583,8 +583,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Planet Country",
-        "url": "https://open.spotify.com/album/1SuH7QSsIz2DDDYIEgqTbW"
+        "name": "The 25th Anniversary Album",
+        "url": "https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy"
       },
       "artists": [
         {
@@ -592,9 +592,9 @@
           "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
         }
       ],
-      "duration_ms": 218786,
-      "name": "Planet Country - Remastered 2017",
-      "url": "https://open.spotify.com/track/1HcuJ3ME3chqvwAigHDJPi"
+      "duration_ms": 240834,
+      "name": "Outback Club Reunion",
+      "url": "https://open.spotify.com/track/06CVzZI2qm96JPi0wIP0EP"
     },
     {
       "added_at": null,
@@ -615,8 +615,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The 25th Anniversary Album",
-        "url": "https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy"
+        "name": "Planet Country",
+        "url": "https://open.spotify.com/album/1SuH7QSsIz2DDDYIEgqTbW"
       },
       "artists": [
         {
@@ -624,9 +624,9 @@
           "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
         }
       ],
-      "duration_ms": 240834,
-      "name": "Outback Club Reunion",
-      "url": "https://open.spotify.com/track/06CVzZI2qm96JPi0wIP0EP"
+      "duration_ms": 218786,
+      "name": "Planet Country - Remastered 2017",
+      "url": "https://open.spotify.com/track/1HcuJ3ME3chqvwAigHDJPi"
     },
     {
       "added_at": null,
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Planet Country",
-        "url": "https://open.spotify.com/album/1SuH7QSsIz2DDDYIEgqTbW"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 178053,
-      "name": "I Milk Cows - Remastered 2017",
-      "url": "https://open.spotify.com/track/0IKpM9zNbEeGgeweMuGciK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beautiful Noise",
         "url": "https://open.spotify.com/album/7kWgkcpCpLOqAtipwQ74pw"
       },
@@ -679,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Electric Rodeo",
-        "url": "https://open.spotify.com/album/1G6LYp0xwhTyFMYFvit9CS"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 260426,
-      "name": "Electric Rodeo - Remastered 2017",
-      "url": "https://open.spotify.com/track/26bYKYw5htRK3kH7oF7MQS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Backroad Nation",
         "url": "https://open.spotify.com/album/1DpDxB7bmSywE3cI857l8F"
       },
@@ -707,6 +675,38 @@
       "duration_ms": 169433,
       "name": "Let There Be Cowgirls",
       "url": "https://open.spotify.com/track/73x2EeabuTdaNx8jkLLamg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Planet Country",
+        "url": "https://open.spotify.com/album/1SuH7QSsIz2DDDYIEgqTbW"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 178053,
+      "name": "I Milk Cows - Remastered 2017",
+      "url": "https://open.spotify.com/track/0IKpM9zNbEeGgeweMuGciK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Electric Rodeo",
+        "url": "https://open.spotify.com/album/1G6LYp0xwhTyFMYFvit9CS"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 260426,
+      "name": "Electric Rodeo - Remastered 2017",
+      "url": "https://open.spotify.com/track/26bYKYw5htRK3kH7oF7MQS"
     },
     {
       "added_at": null,

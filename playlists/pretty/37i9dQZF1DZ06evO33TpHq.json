@@ -1,12 +1,12 @@
 {
   "description": "This is Phil Wickham. The essential tracks, all in one playlist.",
-  "num_followers": 63697,
+  "num_followers": 63726,
   "original_name": "This Is Phil Wickham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "admPAAAAAAAfY3rYj1jLwLlo49pszVWi",
+  "snapshot_id": "adrggAAAAAC65yH00+c34nk0LV2GlTq8",
   "tracks": [
     {
       "added_at": null,
@@ -575,22 +575,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "God Is Good (with CAIN)",
-        "url": "https://open.spotify.com/album/4ZGTmDyGQKNLm6hEcvi09m"
+        "name": "I Believe",
+        "url": "https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc"
       },
       "artists": [
         {
           "name": "Phil Wickham",
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        },
-        {
-          "name": "CAIN",
-          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
         }
       ],
-      "duration_ms": 206933,
-      "name": "God Is Good (with CAIN)",
-      "url": "https://open.spotify.com/track/3jhUsn6iGf5yLljQqrcgYO"
+      "duration_ms": 258946,
+      "name": "Isn't He Good",
+      "url": "https://open.spotify.com/track/1nhxzfAFAw2ksi0Rajd693"
     },
     {
       "added_at": null,
@@ -611,18 +607,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Believe",
-        "url": "https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc"
+        "name": "God Is Good (with CAIN)",
+        "url": "https://open.spotify.com/album/4ZGTmDyGQKNLm6hEcvi09m"
       },
       "artists": [
         {
           "name": "Phil Wickham",
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        },
+        {
+          "name": "CAIN",
+          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
         }
       ],
-      "duration_ms": 258946,
-      "name": "Isn't He Good",
-      "url": "https://open.spotify.com/track/1nhxzfAFAw2ksi0Rajd693"
+      "duration_ms": 206933,
+      "name": "God Is Good (with CAIN)",
+      "url": "https://open.spotify.com/track/3jhUsn6iGf5yLljQqrcgYO"
     },
     {
       "added_at": null,

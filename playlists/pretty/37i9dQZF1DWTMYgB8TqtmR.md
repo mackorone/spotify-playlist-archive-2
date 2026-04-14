@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMYgB8TqtmR.md) - [plain]
 
 > Hot Hits – största och bästa hitsen just nu!
 
-[Spotify](https://open.spotify.com/user/spotify) - 852,286 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 852,250 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Fel på dig](https://open.spotify.com/track/4UGJVXMoSyTUl61OdVJ3N0) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF), [Dante](https://open.spotify.com/artist/7HxyLgEfLQQnzrgMvUGVI5) | [Fel på dig](https://open.spotify.com/album/4dVOq4Bs0pF1VqnQZcEUiA) | 2:34 |
 | 2 | [Superlim & silvertejp](https://open.spotify.com/track/5lOGSH8HAnmJlvwnVFBa1s) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY), [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Superlim & silvertejp](https://open.spotify.com/album/6jZHjCPFSxmbsCWUo4FxVm) | 3:13 |
 | 3 | [FEVER DREAM](https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [FEVER DREAM](https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ) | 2:33 |
-| 4 | [Fiji](https://open.spotify.com/track/4goZlS7441L0Atf2BzC2lH) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Fiji](https://open.spotify.com/album/7B8bJuucCOAPu2wvYSGxfv) | 2:38 |
-| 5 | [My System](https://open.spotify.com/track/1XmLPHkuv95o5NUodggzfv) | [FELICIA](https://open.spotify.com/artist/5KR7k79pkoPeGdMcv4DLOa) | [My System](https://open.spotify.com/album/3vEbSE1WfltM5peuucqYU0) | 3:02 |
-| 6 | [Jack & Coke](https://open.spotify.com/track/3zXXeMCgfZKj7OHEzoCuqh) | [Miss Li](https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7) | [Jack & Coke](https://open.spotify.com/album/6DCsB2yLcHvzdolCVqAJpQ) | 2:49 |
-| 7 | [Fröjdo Frido](https://open.spotify.com/track/05v3imcEyaTpAeWXnuurKt) | [Lovet](https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK) | [Fröjdo Frido](https://open.spotify.com/album/1hwTLZPs4MKVGad7frWF2e) | 2:36 |
+| 4 | [Fröjdo Frido](https://open.spotify.com/track/05v3imcEyaTpAeWXnuurKt) | [Lovet](https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK) | [Fröjdo Frido](https://open.spotify.com/album/1hwTLZPs4MKVGad7frWF2e) | 2:36 |
+| 5 | [Fiji](https://open.spotify.com/track/4goZlS7441L0Atf2BzC2lH) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Fiji](https://open.spotify.com/album/7B8bJuucCOAPu2wvYSGxfv) | 2:38 |
+| 6 | [My System](https://open.spotify.com/track/1XmLPHkuv95o5NUodggzfv) | [FELICIA](https://open.spotify.com/artist/5KR7k79pkoPeGdMcv4DLOa) | [My System](https://open.spotify.com/album/3vEbSE1WfltM5peuucqYU0) | 3:02 |
+| 7 | [Jack & Coke](https://open.spotify.com/track/3zXXeMCgfZKj7OHEzoCuqh) | [Miss Li](https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7) | [Jack & Coke](https://open.spotify.com/album/6DCsB2yLcHvzdolCVqAJpQ) | 2:49 |
 | 8 | [Stateside + Zara Larsson](https://open.spotify.com/track/7tM3yPeSBxnIIQlkz22vId) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Stateside + Zara Larsson](https://open.spotify.com/album/553gwPPa6VUWikljMiQyGM) | 3:04 |
 | 9 | [iloveitiloveitiloveit](https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [iloveitiloveitiloveit](https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF) | 3:03 |
 | 10 | [Min vita kanin](https://open.spotify.com/track/6ZGxJeIhyKOchbEuK8JBXa) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Sciura](https://open.spotify.com/album/5ZXEMjNP17Sq4etVaWJWfP) | 3:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMYgB8TqtmR.md) - [plain]
 | 49 | [Dooset Daram](https://open.spotify.com/track/1IEgoHovZYbhwpk9LiTK9Z) | [Meira Omar](https://open.spotify.com/artist/1URHcpHxwtcoQFi8UtC51c) | [Dooset Daram](https://open.spotify.com/album/6pPgMuKTMlP3RjUoWOpK2n) | 2:57 |
 | 50 | [Allt jag har](https://open.spotify.com/track/0grHyIry2NnHHfH7oPQi7G) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Sommarland](https://open.spotify.com/album/3Fs1NyFLebhVWHyYTW4cSz) | 2:52 |
 
-Snapshot ID: `AAAAACvCs1jkwUpczTf4EaZrw5nK5HV8`
+Snapshot ID: `AAAAACMUk745UH18rxdc/WGj0cRIAMcf`

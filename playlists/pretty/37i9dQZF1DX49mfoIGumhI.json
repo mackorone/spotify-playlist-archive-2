@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Vive la salsa de los '80! El Gran Combo de Puerto Rico en portada.",
-  "num_followers": 273214,
+  "num_followers": 273278,
   "original_name": "Salsa: Los '80",
   "owner": {
     "name": "Spotify",
@@ -463,22 +463,18 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
-        "name": "Doble Energ\u00eda",
-        "url": "https://open.spotify.com/album/1t9CWp3ykgHF83aO4uYYmU"
+        "name": "Colecci\u00f3n De Oro",
+        "url": "https://open.spotify.com/album/10ylTveyo286PAtFn5gXVo"
       },
       "artists": [
         {
-          "name": "Ismael Miranda",
-          "url": "https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq"
-        },
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
         }
       ],
-      "duration_ms": 412106,
-      "name": "No Me Digan Que Es Muy Tarde",
-      "url": "https://open.spotify.com/track/5kiRyGmKOdmc2SyD3JqcSI"
+      "duration_ms": 278986,
+      "name": "Lo Que Pas\u00f3 Entre T\u00fa y Yo Pas\u00f3",
+      "url": "https://open.spotify.com/track/1zTQ3j6jP0pMHQzCLLzBeF"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -499,18 +495,22 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
-        "name": "Colecci\u00f3n De Oro",
-        "url": "https://open.spotify.com/album/10ylTveyo286PAtFn5gXVo"
+        "name": "Doble Energ\u00eda",
+        "url": "https://open.spotify.com/album/1t9CWp3ykgHF83aO4uYYmU"
       },
       "artists": [
         {
-          "name": "Luis Enrique",
-          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+          "name": "Ismael Miranda",
+          "url": "https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
         }
       ],
-      "duration_ms": 278986,
-      "name": "Lo Que Pas\u00f3 Entre T\u00fa y Yo Pas\u00f3",
-      "url": "https://open.spotify.com/track/1zTQ3j6jP0pMHQzCLLzBeF"
+      "duration_ms": 412106,
+      "name": "No Me Digan Que Es Muy Tarde",
+      "url": "https://open.spotify.com/track/5kiRyGmKOdmc2SyD3JqcSI"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
-        "name": "SALSEANDO CON... UNO",
-        "url": "https://open.spotify.com/album/3bPX120qXpWjTiBhLE5VP6"
-      },
-      "artists": [
-        {
-          "name": "Salseando",
-          "url": "https://open.spotify.com/artist/2GV8emlDQZ9U3xbDPsGsv0"
-        }
-      ],
-      "duration_ms": 309386,
-      "name": "Fantasia Herida",
-      "url": "https://open.spotify.com/track/64IXm03vNARlDsFdT1H6R2"
-    },
-    {
-      "added_at": "2024-07-11 00:51:42",
-      "album": {
         "name": "De Costa a Costa",
         "url": "https://open.spotify.com/album/2nOvkgvFGscNv3cqa2GNaN"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 309760,
       "name": "Te Voy a Hacer Feliz",
       "url": "https://open.spotify.com/track/4jBkRRscUmbKtUbngf2WQf"
+    },
+    {
+      "added_at": "2024-07-11 00:51:42",
+      "album": {
+        "name": "SALSEANDO CON... UNO",
+        "url": "https://open.spotify.com/album/3bPX120qXpWjTiBhLE5VP6"
+      },
+      "artists": [
+        {
+          "name": "Salseando",
+          "url": "https://open.spotify.com/artist/2GV8emlDQZ9U3xbDPsGsv0"
+        }
+      ],
+      "duration_ms": 309386,
+      "name": "Fantasia Herida",
+      "url": "https://open.spotify.com/track/64IXm03vNARlDsFdT1H6R2"
     },
     {
       "added_at": "2024-07-11 00:51:42",

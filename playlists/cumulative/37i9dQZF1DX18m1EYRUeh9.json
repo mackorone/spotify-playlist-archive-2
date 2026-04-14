@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-11",
-  "description": "Smooth indie jazz joints from around the globe. Cover: Flea",
+  "description": "Smooth indie jazz joints from around the globe. Cover: Tom Misch",
   "name": "Rarities",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 202063,
       "name": "(re)Turn",
       "url": "https://open.spotify.com/track/1KRQUeWejtAvB4oZIeBMtI"
@@ -284,7 +284,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 198463,
       "name": "Already Yours",
       "url": "https://open.spotify.com/track/4WVwZsK17vv5sOgeR8IjIu"
@@ -814,7 +814,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 215825,
       "name": "born with power",
       "url": "https://open.spotify.com/track/5r4SYNrmYccS12HT9psaxc"
@@ -1348,7 +1348,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 148702,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/664Oi9xtwkFS6RZfwUGFR6"
@@ -1374,6 +1374,28 @@
       "duration_ms": 292786,
       "name": "Dawn [ft. esperanza spalding]",
       "url": "https://open.spotify.com/track/26LFjnGEFsVB7J6iMecb1A"
+    },
+    {
+      "album": {
+        "name": "Days Of Us",
+        "url": "https://open.spotify.com/album/2nSItiBROm1O9jl8FtNvIj"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        },
+        {
+          "name": "Kaidi Akinnibi",
+          "url": "https://open.spotify.com/artist/37dGQu2K8lXncPDUxfuhEJ"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279682,
+      "name": "Days Of Us",
+      "url": "https://open.spotify.com/track/5KVU59d9whwEPNrRY4WZmO"
     },
     {
       "album": {
@@ -2911,6 +2933,24 @@
     },
     {
       "album": {
+        "name": "I'll Change for You",
+        "url": "https://open.spotify.com/album/3f7akGGEFL9LjSJCG7ueaL"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196426,
+      "name": "I'll Change for You",
+      "url": "https://open.spotify.com/track/1VVlFu2NkLFMRBznBITlho"
+    },
+    {
+      "album": {
         "name": "I'm Scanning Things I Can't See / Dark Dancing",
         "url": "https://open.spotify.com/album/0KwTL3GstzmHzXYVfVYpx9"
       },
@@ -3086,6 +3126,24 @@
       "duration_ms": 206285,
       "name": "Jag vill ha allt",
       "url": "https://open.spotify.com/track/5LQqxkVZnA5kvbzHOMFjde"
+    },
+    {
+      "album": {
+        "name": "Glory (Extended)",
+        "url": "https://open.spotify.com/album/5ybA8BfD2SVzJQ0rwWIcCz"
+      },
+      "artists": [
+        {
+          "name": "Perfume Genius",
+          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302400,
+      "name": "Jamie",
+      "url": "https://open.spotify.com/track/1CixWJUzpYMzFWkViPYcri"
     },
     {
       "album": {
@@ -3276,6 +3334,28 @@
       "duration_ms": 270317,
       "name": "Kon Queso",
       "url": "https://open.spotify.com/track/0AavsxqguLIzEb3iFWaO1M"
+    },
+    {
+      "album": {
+        "name": "Koneko",
+        "url": "https://open.spotify.com/album/18BjCYMvmvJSfFT8EWtyWe"
+      },
+      "artists": [
+        {
+          "name": "Mei Semones",
+          "url": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR"
+        },
+        {
+          "name": "Liana Flores",
+          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248750,
+      "name": "Koneko",
+      "url": "https://open.spotify.com/track/5OKtvYYQH7Ej7C7BD3uWBH"
     },
     {
       "album": {
@@ -3681,6 +3761,24 @@
     },
     {
       "album": {
+        "name": "Il Basso",
+        "url": "https://open.spotify.com/album/20hBBhewVZ1DsH5TOTDJGi"
+      },
+      "artists": [
+        {
+          "name": "Donny Ben\u00e9t",
+          "url": "https://open.spotify.com/artist/1EiNEyiSrpB6BVxt58BnNN"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360213,
+      "name": "Midnight Appointment",
+      "url": "https://open.spotify.com/track/7IP9WMN7uRzkP9118Er9QX"
+    },
+    {
+      "album": {
         "name": "Pure Grooves Vol. 1",
         "url": "https://open.spotify.com/album/796eeTpFCvH90a7DweaaNq"
       },
@@ -4078,7 +4176,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 186300,
       "name": "Not Today",
       "url": "https://open.spotify.com/track/0CY15iJa0m8MJxOXlOqUtR"
@@ -4172,7 +4270,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 224577,
       "name": "Omen",
       "url": "https://open.spotify.com/track/0BKhef93QmTKCW4ub1lNNa"
@@ -4520,6 +4618,24 @@
       "duration_ms": 198617,
       "name": "Pink",
       "url": "https://open.spotify.com/track/3q1uWf6BulnqldbYrDJ45U"
+    },
+    {
+      "album": {
+        "name": "Planeta Piel Sensual",
+        "url": "https://open.spotify.com/album/1Pq0zt2TRNdOndB744r3FN"
+      },
+      "artists": [
+        {
+          "name": "PANTERA BLUE",
+          "url": "https://open.spotify.com/artist/6zAncQFGD8BV8q5PUOTjp8"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138322,
+      "name": "Planeta Piel Sensual",
+      "url": "https://open.spotify.com/track/5L9BN8RkwB9Ch4JYgM4noP"
     },
     {
       "album": {
@@ -4885,6 +5001,28 @@
     },
     {
       "album": {
+        "name": "LOOPS",
+        "url": "https://open.spotify.com/album/04ADP4KpzsWSBLNDN7uKzj"
+      },
+      "artists": [
+        {
+          "name": "loopgarden",
+          "url": "https://open.spotify.com/artist/4M9C2IXUroEUTQRiMKWM46"
+        },
+        {
+          "name": "Ellen Andersson",
+          "url": "https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174857,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/3YFZBxVvgU7hMpxgEHXfdU"
+    },
+    {
+      "album": {
         "name": "Rust (feat. Tom Misch)",
         "url": "https://open.spotify.com/album/6ju0SbuEoFlij1vnF8YSq0"
       },
@@ -5064,7 +5202,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 132320,
       "name": "Save You",
       "url": "https://open.spotify.com/track/0UlfVs1oZavP61LzvIVhGs"
@@ -5733,6 +5871,32 @@
     },
     {
       "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/2MnZjVl6VPmbmJ8KhGiDvf"
+      },
+      "artists": [
+        {
+          "name": "dublon",
+          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
+        },
+        {
+          "name": "Dana Williams",
+          "url": "https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL"
+        },
+        {
+          "name": "jev.",
+          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143791,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/37Qgd1Iyo8bSlK4kIZFLxL"
+    },
+    {
+      "album": {
         "name": "Get The Message",
         "url": "https://open.spotify.com/album/2lBblu7sNDW7voZtOL9GAd"
       },
@@ -6216,7 +6380,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 276733,
       "name": "Three Piece Suit (feat. Azekel)",
       "url": "https://open.spotify.com/track/0VIegveYbIaxxTgBNHSl3v"

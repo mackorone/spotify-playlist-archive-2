@@ -4,7 +4,7 @@
 
 > Éxitos urbanos de Latinoamérica con De La Rose.
 
-1,198 songs - 2 day 17 hr 30 min
+1,199 songs - 2 day 17 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -482,7 +482,7 @@
 | [INTERESTELAR](https://open.spotify.com/track/13XxxfnZmFEkU90QN8bOjz) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [INTERESTELAR](https://open.spotify.com/album/5p1Ibt3enlZjqqQxvpRZsM) | 2:53 | 2022-02-11 | 2022-03-05 |
 | [intoxicao](https://open.spotify.com/track/2Znff2J1fAgQhXXEMW7y5V) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [intoxicao](https://open.spotify.com/album/0Oe35eRgVyLthOLW1vurye) | 2:48 | 2022-06-06 | 2022-10-22 |
 | [intoxicao](https://open.spotify.com/track/67Wqby5IjOMMpIYwqmCYOG) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Tú crees en mí?](https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo) | 2:48 | 2022-06-02 | 2022-06-10 |
-| [J Balvin: Bzrp Music Sessions, Vol\. 62/66](https://open.spotify.com/track/04YMLAsyIAe1sLb6RO5YcC) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [J Balvin: Bzrp Music Sessions, Vol\. 62/66](https://open.spotify.com/album/2Ejibc9F2I0mMo32HXDD9Y) | 3:10 | 2025-12-27 |  |
+| [J Balvin: Bzrp Music Sessions, Vol\. 62/66](https://open.spotify.com/track/04YMLAsyIAe1sLb6RO5YcC) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [J Balvin: Bzrp Music Sessions, Vol\. 62/66](https://open.spotify.com/album/2Ejibc9F2I0mMo32HXDD9Y) | 3:10 | 2025-12-27 | 2026-04-14 |
 | [Jagger.mp3](https://open.spotify.com/track/2iNmegOcdmt4peYrh9S8qI) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Jagger.mp3](https://open.spotify.com/album/6Ti9115Odt4vwKJTCdG5WN) | 2:35 | 2023-08-29 | 2023-10-07 |
 | [Joder](https://open.spotify.com/track/2b5Worm8h9yAJOw2jc4zZp) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Joder](https://open.spotify.com/album/4AuyjPAbIqovnGdkiashml) | 2:29 | 2022-02-18 | 2022-03-05 |
 | [Joga Pra Lua](https://open.spotify.com/track/1CtcgU1q0BgJN4Aottdscu) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [Joga Pra Lua](https://open.spotify.com/album/4NUJYV2fygdmIVZCBelgb1) | 2:05 | 2023-12-14 | 2024-01-13 |
@@ -1032,6 +1032,7 @@
 | [TATAMI](https://open.spotify.com/track/1WBnZKAMjsgpnx7WVIaNBe) | [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG) | [TATAMI](https://open.spotify.com/album/5eliOWD57s4aIJz2RmLf3k) | 2:05 | 2025-10-20 | 2026-01-15 |
 | [Te Cura](https://open.spotify.com/track/0RpL1pOALdN5E4Ci1tYG1y) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs) | [Te Cura \(FAST X Soundtrack\)](https://open.spotify.com/album/3Fmhv63yHMiR66fldCjrcP) | 2:30 | 2023-06-09 | 2023-09-22 |
 | [Te Daré](https://open.spotify.com/track/1LuWSWqoc2jtCbnOWlQipQ) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Más Cara](https://open.spotify.com/album/1xrj7cbZtRtEt1KjXNFQ26) | 2:07 | 2026-03-12 |  |
+| [Te Entiendo](https://open.spotify.com/track/03E9tKV8v3R1YQIz3MWlMU) | [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi) | [Te Entiendo](https://open.spotify.com/album/5TFJMVpEISXqooUpJhCuxu) | 3:05 | 2026-04-13 |  |
 | [Te Escondes](https://open.spotify.com/track/5bzIKQnnY1aM9evAj1sZiZ) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Socios II](https://open.spotify.com/album/1tJRUkjWI6rY1pDmVoCaCZ) | 3:57 | 2022-03-25 | 2022-05-10 |
 | [TE EXO DE MENOS :\(](https://open.spotify.com/track/72d8QGh77awoqnxiAOFRMI) | [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Best](https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7) | [TE EXO DE MENOS :\(](https://open.spotify.com/album/2nl4PR8ItbHzzjmhmW1m3p) | 2:31 | 2023-03-03 | 2023-04-28 |
 | [Te Extraño](https://open.spotify.com/track/4k0nstlu1ScPY6XoosWPZE) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [LA 8VA MARAVILLA](https://open.spotify.com/album/4ZMzNSoTgWgSfkBpJTCx9w) | 3:12 | 2026-01-23 |  |

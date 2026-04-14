@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: K.S.Harisankar, Salim Sulaiman
 
-472 songs - 1 day 5 hr 11 min
+473 songs - 1 day 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [Kaalam Poya](https://open.spotify.com/track/1F8POVfqXiS5vKFYf6RmlT) | [Govind Vasantha](https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB) | [Bisons](https://open.spotify.com/album/5oKqPt3aiDSoyf66MaOVxf) | 5:34 | 2023-07-27 | 2024-02-19 |
 | [Kaalan Illatha Kaalam](https://open.spotify.com/track/0OCA4jgdWAZny8FDnzPDkK) | [Earthgrime](https://open.spotify.com/artist/2eDYdmzgVH5cTJh20dCeSO) | [Kaalan Illatha Kaalam](https://open.spotify.com/album/00RxDCS2b2QZIllEoX03Hb) | 3:08 | 2025-03-07 | 2025-04-29 |
 | [Kaalatheneet](https://open.spotify.com/track/4XG8H0mprQswdfTgHJuXnM) | [Gandharvaas](https://open.spotify.com/artist/1M2l82GcrRrEvAVs2Ct5b4) | [Kaalatheneet](https://open.spotify.com/album/304vvgVA1WDx9y0goP7SD9) | 3:10 | 2023-08-26 | 2024-06-06 |
+| [Kaali](https://open.spotify.com/track/1jSJsFPED7Ku9Op70Mh9Wr) | [Gowry Lekshmi](https://open.spotify.com/artist/4Te1MOr4Y7E4lMvaeuyEjR) | [Kaali](https://open.spotify.com/album/6lxq8d9jjYo8aXSgtvxELY) | 3:31 | 2026-04-13 |  |
 | [Kaalu Thodunnu Bhoomiye](https://open.spotify.com/track/6Pu2OUDdCRqk3stsl5OFXv) | [Rijo Joseph](https://open.spotify.com/artist/2IKBpkVsFxQgRP1PB58RmQ) | [Kaalu Thodunnu Bhoomiye](https://open.spotify.com/album/18CKaV2aiOAYQFX7VyVdek) | 3:40 | 2025-07-14 | 2025-09-04 |
 | [Kaana Kinavin](https://open.spotify.com/track/3qeieC6qStWSVGS4Yk6eTx) | [Jubair Muhammed](https://open.spotify.com/artist/0oPKTL05sIUJh7pyV723J0), [Harib Hussain](https://open.spotify.com/artist/4iyev3kRd7VmmV0X8Z3yS2) | [Paathi](https://open.spotify.com/album/4M7MAn4AB0ujrgprouPGQC) | 4:00 | 2023-01-27 | 2023-07-28 |
 | [Kaana Neram](https://open.spotify.com/track/0pIm8FZ6SxPLyjTgDa9G24) | [Vineeth Sreenivasan](https://open.spotify.com/artist/2uocTdMBXjTsS7QmAj7src) | [Kaana Neram](https://open.spotify.com/album/0STmyqTzP2SnulgOsuIX2V) | 4:59 | 2023-05-18 | 2023-06-17 |
@@ -342,7 +343,7 @@
 | [Padayatra \- Live](https://open.spotify.com/track/2PDaNC5MT6HZYE52HYHyjo) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [Padayatra \(Live\)](https://open.spotify.com/album/2i97iGps3MYG1kG87i3be1) | 4:50 | 2022-06-23 | 2024-12-07 |
 | [PALAAYANAM](https://open.spotify.com/track/6c7ceJAZjXqVYTgT4VUh5U) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [PALAAYANAM](https://open.spotify.com/album/0QQBIFPpgVnHl60JZlaq5t) | 3:45 | 2025-01-17 |  |
 | [Palavidham](https://open.spotify.com/track/0I9fnx3ubOqy1T4IvLf4He) | [Arya Dhayal](https://open.spotify.com/artist/3wgZfKbyO4MfUMvfDlxdQp) | [Palavidham](https://open.spotify.com/album/7uVQSl9yYgyy7ax92Zp8lf) | 3:04 | 2023-09-05 | 2024-07-16 |
-| [Pande](https://open.spotify.com/track/4YRVb6Ppv2zTN9obOzmDSZ) | [Matadoria](https://open.spotify.com/artist/16HrBYlg7ETaVKRZ8qVc9B) | [Pande](https://open.spotify.com/album/7ymtCchQnro2Bc4c1v2TDc) | 3:13 | 2024-05-20 |  |
+| [Pande](https://open.spotify.com/track/4YRVb6Ppv2zTN9obOzmDSZ) | [Matadoria](https://open.spotify.com/artist/16HrBYlg7ETaVKRZ8qVc9B) | [Pande](https://open.spotify.com/album/7ymtCchQnro2Bc4c1v2TDc) | 3:13 | 2024-05-20 | 2026-04-14 |
 | [Panimathi](https://open.spotify.com/track/5ZyK3ukvDuLooLNY0ZHd0k) | [Kavya Ajit](https://open.spotify.com/artist/50ydDju7QfqeZrLfjlJMQ3), [Precious Peter](https://open.spotify.com/artist/6qb784Bx7lh1vIfrR55r81) | [Panimathi](https://open.spotify.com/album/6W9y8ofX3WacudRQ1fkZyz) | 3:12 | 2024-07-22 | 2025-04-03 |
 | [Panimathimukhi \- Anilatharala](https://open.spotify.com/track/1voUJLt8701cO62ecgIG6h) | [Ashwathi Hari](https://open.spotify.com/artist/18Huo8X4RsqJ2WHHA7ha2Y) | [Panimathimukhi \- Anilatharala](https://open.spotify.com/album/3vgsy4uegWGgMfCduSThw9) | 4:30 | 2024-09-17 | 2025-02-14 |
 | [Paravakal \- From "Saina Music Indie"](https://open.spotify.com/track/6okT59QPd36GQ8kxheyW0r) | [MUSLI](https://open.spotify.com/artist/05XtLThhzw83Gcv3kFV9BO), [ThudWiser](https://open.spotify.com/artist/4J0a9qdlbNLgB6WLDV9vcp) | [Paravakal \(From "Saina Music Indie"\)](https://open.spotify.com/album/0H7U7Wa67YC8VhXncyfYNp) | 3:00 | 2025-11-24 |  |

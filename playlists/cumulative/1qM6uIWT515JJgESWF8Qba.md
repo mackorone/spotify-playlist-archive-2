@@ -4,7 +4,7 @@
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-207 songs - 12 hr 52 min
+208 songs - 12 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [Savage Reservation](https://open.spotify.com/track/0Pydl87io7bMSRj3pA27eH) | [Mumbler \(UK\)](https://open.spotify.com/artist/66dhVKv1q3GsP1sqx2eW5j) | [Neanderthal](https://open.spotify.com/album/39y2S1RQh7MTKi753MYlUN) | 1:48 | 2025-12-16 | 2026-01-21 |
 | [Saville](https://open.spotify.com/track/5g40gn5av9sdygG0LL2Jww) | [Vagabond](https://open.spotify.com/artist/7MSoa7Tp2JrGo6Ej5144YK) | [No Future](https://open.spotify.com/album/5Jh9tuFoyJ2WECWDFcpm4g) | 3:12 | 2025-09-08 | 2026-03-21 |
 | [Scars](https://open.spotify.com/track/0lF2y089fv67qGw026DRhq) | [Superstar Nomads](https://open.spotify.com/artist/1EoRqKFEnXxQIb815UlRtJ) | [Scars](https://open.spotify.com/album/1k3nUKcqaObSHfhhsG15Wz) | 3:38 | 2026-03-11 |  |
+| [Seven](https://open.spotify.com/track/7tdZEErExaYhQI2Oa3cqWg) | [On\-Off](https://open.spotify.com/artist/3Qb1E9hm1R0In79aIumUsR) | [Ribcrasher](https://open.spotify.com/album/1p1VeLJoQlDKiK1X90QCHK) | 3:50 | 2026-04-13 |  |
 | [Shadow Artist](https://open.spotify.com/track/6wHFJkSrpW7MRoLx4Wgmvn) | [Silver Shores](https://open.spotify.com/artist/7laeihpH4jaoYZhJtZ25Kd) | [Dayglo / Shadow Artist](https://open.spotify.com/album/6n9uicDXaGs7NpVLA5VCSA) | 4:03 | 2025-12-29 |  |
 | [Sign Of The Horns](https://open.spotify.com/track/65GKZJPncKvGka5X4dTsO9) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [Sign Of The Horns](https://open.spotify.com/album/7hGuCzOqXqKtKPt2FvKjz4) | 3:07 | 2025-10-21 |  |
 | [Skin Deep](https://open.spotify.com/track/5wsNvYOF9wR5BRWSKUSbft) | [People You Know](https://open.spotify.com/artist/3eMy8KyUvhwO3T2Nkl5FHz) | [Skin Deep](https://open.spotify.com/album/3g0JxbfNLFh4VTmdACc9f8) | 4:28 | 2025-12-20 | 2026-01-21 |

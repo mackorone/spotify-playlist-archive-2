@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-425 songs - 1 day 2 hr 35 min
+426 songs - 1 day 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,6 +269,7 @@
 | [NYC](https://open.spotify.com/track/1XV6HbFuk6d2e5WnOEnSPo) | [House of Light](https://open.spotify.com/artist/0FaJUAl3mBp7WR82pF7WHp) | [21st Century Prayer](https://open.spotify.com/album/0YaMrVDCvO6AZDmHFGSRSk) | 3:32 | 2025-10-07 | 2025-11-28 |
 | [Ocean Life](https://open.spotify.com/track/7bvXe56Ce0h4gtiU0xWzuM) | [Still Crash](https://open.spotify.com/artist/4nxuNWss1Y7gLSIn4I2mNu) | [The Alchemindmistyc](https://open.spotify.com/album/21DJLojbuDUBIGslS0yIIc) | 7:00 | 2025-10-18 | 2025-11-28 |
 | [Often](https://open.spotify.com/track/1KuCYrJ2QqdjOhaKsRGUvW) | [I](https://open.spotify.com/artist/1vKrAakgKMEH5ZinLdmmYR) | [Often](https://open.spotify.com/album/2x2nmJBlTRBbpa3ic52cR0) | 3:46 | 2026-02-22 |  |
+| [Oh, What a Sunny Day!](https://open.spotify.com/track/0lsZ7P31n0B5dDtAeA1BkL) | [The Hollow Frays](https://open.spotify.com/artist/4p9MmGhxHuh8SEcsOTiU9L) | [Oh, What a Sunny Day!](https://open.spotify.com/album/3E2NALBN9OHJH1fJlVRilk) | 2:51 | 2026-04-13 |  |
 | [Old Ancient Tree](https://open.spotify.com/track/6ZI4Ucss1ZhgVrQRcnfjO3) | [Shepherd Bridge](https://open.spotify.com/artist/7IWPSLFSNkPvI3upDX39f1) | [Lucy and the Voyager](https://open.spotify.com/album/7jHjn4K2XURXATynQZkrEv) | 4:20 | 2026-01-02 | 2026-03-18 |
 | [On The Run](https://open.spotify.com/track/4cJBm3gR4bWpiZ53MAlujN) | [Dorian Whisper](https://open.spotify.com/artist/5RcwM81PTfdO1ZFHR1kiWD) | [On The Run](https://open.spotify.com/album/0VpAI7tHFk5mbDcfxHtfaB) | 3:11 | 2025-12-04 | 2025-12-17 |
 | [On The Southern Side Of The Road](https://open.spotify.com/track/20BJZCg4s6SmJs8ThVthqI) | [Little South](https://open.spotify.com/artist/0smwu04kMlybxO205h4D8G) | [On The Southern Side Of The Road](https://open.spotify.com/album/3RQ3spw3yLGclZHbzNiA31) | 3:31 | 2025-10-27 | 2025-11-28 |

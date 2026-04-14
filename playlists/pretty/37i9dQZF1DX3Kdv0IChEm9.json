@@ -1,6 +1,6 @@
 {
   "description": "100% cl\u00e1ssicos.",
-  "num_followers": 513586,
+  "num_followers": 513878,
   "original_name": "EDM Hits",
   "owner": {
     "name": "Spotify",
@@ -1175,22 +1175,26 @@
     {
       "added_at": "2025-01-16 12:30:53",
       "album": {
-        "name": "I'm an Albatraoz",
-        "url": "https://open.spotify.com/album/1qHVYbxQ6IS8YRviorKDJI"
+        "name": "Settle (Special Edition)",
+        "url": "https://open.spotify.com/album/7bdjtx1RTkWoSoOaIl7a8E"
       },
       "artists": [
         {
-          "name": "AronChupa",
-          "url": "https://open.spotify.com/artist/5vCOdeiQt9LyzdI87kt5Sh"
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
         },
         {
-          "name": "Little Sis Nora",
-          "url": "https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9"
+          "name": "Eliza Doolittle",
+          "url": "https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1"
+        },
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
         }
       ],
-      "duration_ms": 166848,
-      "name": "I'm an Albatraoz",
-      "url": "https://open.spotify.com/track/5MhsZlmKJG6X5kTHkdwC4B"
+      "duration_ms": 282812,
+      "name": "You & Me - Flume Remix",
+      "url": "https://open.spotify.com/track/3W2ZcrRsInZbjWylOi6KhZ"
     }
   ],
   "unique_name": "EDM Hits",

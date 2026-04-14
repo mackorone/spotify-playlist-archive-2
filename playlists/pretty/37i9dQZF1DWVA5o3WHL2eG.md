@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: Josi
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,777 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,770 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 13 | [Dunkel](https://open.spotify.com/track/2UCO6MiyQaUz0ZNAmFppnO) | [Mine](https://open.spotify.com/artist/2jmpnuwn52LqrQASBlyQGJ) | [Dunkel](https://open.spotify.com/album/4VV2sUq22alaFYBTLL68Us) | 2:18 |
 | 14 | [Dog Bite](https://open.spotify.com/track/4oMfYG01Heyeqkdxfq9Z3D) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Virgin Lake](https://open.spotify.com/album/5hjXrxckG7e4f8IDw8Czcs) | 4:25 |
 | 15 | [YOU&ME](https://open.spotify.com/track/5Lsf972OLKx5LbJyvyoXJ2) | [Josi](https://open.spotify.com/artist/5vQXzZjy86ijQhMjMb1ke4) | [DON'T STOP](https://open.spotify.com/album/75d1zgNLvFKDRx6uwNBwZ2) | 2:04 |
-| 16 | [Beiss mich fest](https://open.spotify.com/track/4qBd4iG9kqOIiRNS56r125) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Beiss mich fest](https://open.spotify.com/album/6OQaolEPGCprA6DZeckT2f) | 2:00 |
-| 17 | [GEN Z LUV](https://open.spotify.com/track/0HLqEQQmoWswlR2sxYQlCI) | [Rubi](https://open.spotify.com/artist/0VlrorDSkEbLK1D6VvMgd2) | [GEN Z LUV](https://open.spotify.com/album/2Lg8iJMdSJOa3jlo0nMMvQ) | 1:48 |
+| 16 | [GEN Z LUV](https://open.spotify.com/track/0HLqEQQmoWswlR2sxYQlCI) | [Rubi](https://open.spotify.com/artist/0VlrorDSkEbLK1D6VvMgd2) | [GEN Z LUV](https://open.spotify.com/album/2Lg8iJMdSJOa3jlo0nMMvQ) | 1:48 |
+| 17 | [Beiss mich fest](https://open.spotify.com/track/4qBd4iG9kqOIiRNS56r125) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Beiss mich fest](https://open.spotify.com/album/6OQaolEPGCprA6DZeckT2f) | 2:00 |
 | 18 | [Girls support Girls](https://open.spotify.com/track/1PmUzmxrYajlmPpn2QmPkQ) | [Anna Grey](https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q) | [DNA](https://open.spotify.com/album/2MJnPfsVwCbyBmcvaG2e2l) | 1:57 |
 | 19 | [P\*rno](https://open.spotify.com/track/2QU13A6S7IAwFNiAfa9Atd) | [VICKY](https://open.spotify.com/artist/7JJqR4GbZwWeUMkRGAk0Va) | [P\*rno](https://open.spotify.com/album/7i9YKFc2yibSRx8JoBtOAB) | 2:05 |
 | 20 | [wasserfarben](https://open.spotify.com/track/1VlhIy2S6cqPXMIlTxkkXb) | [Caro Schaeffler](https://open.spotify.com/artist/0HOgHNCucycZ7DUyWjFhNB) | [wasserfarben](https://open.spotify.com/album/5anq9Pq1u3YXlbpi94VF3N) | 3:05 |
@@ -47,11 +47,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 37 | [wieviele Tage](https://open.spotify.com/track/3AfgaomsUEosFavo59d5Ki) | [fiora](https://open.spotify.com/artist/757EH7oogI3l10jrOicVzE) | [wieviele Tage](https://open.spotify.com/album/6SaXHsxV1SFbQgULjEfUmw) | 2:24 |
 | 38 | [Mitte März](https://open.spotify.com/track/55wceeG8waWoG6db0o7xul) | [maïa](https://open.spotify.com/artist/3bcCrzlcDxhgXEsk5sqgmR) | [Hinter Meiner Zunge](https://open.spotify.com/album/6kaF0hoHAMefyi7izKy6TH) | 2:38 |
 | 39 | [Primapulsa](https://open.spotify.com/track/5TJjKFnwFmnejKyzDLdUoq) | [Suena](https://open.spotify.com/artist/3ZCy1ehzbzEAcpcHnHJYXd) | [Primapulsa](https://open.spotify.com/album/6yK3S6RhA6tSIef0epie7D) | 2:27 |
-| 40 | [Little Me](https://open.spotify.com/track/2tczW8Sc81tavxVcpxSC87) | [Mira Taylor](https://open.spotify.com/artist/4gjxiBSKlUuAJwltoX1v2r) | [Little Me](https://open.spotify.com/album/4n6YwmEsm6ZSee8sGR8ygb) | 3:12 |
-| 41 | [Ein bisschen schlimmer](https://open.spotify.com/track/79vd8o1WAgxSbUA0qsdwtj) | [Mia Morgan](https://open.spotify.com/artist/5Uw20NgiZnH2WMcpQ7FdRB) | [Ein bisschen schlimmer](https://open.spotify.com/album/36iSVmVCaBLwnJSYKtGBv3) | 3:15 |
+| 40 | [Ein bisschen schlimmer](https://open.spotify.com/track/79vd8o1WAgxSbUA0qsdwtj) | [Mia Morgan](https://open.spotify.com/artist/5Uw20NgiZnH2WMcpQ7FdRB) | [Ein bisschen schlimmer](https://open.spotify.com/album/36iSVmVCaBLwnJSYKtGBv3) | 3:15 |
+| 41 | [Little Me](https://open.spotify.com/track/2tczW8Sc81tavxVcpxSC87) | [Mira Taylor](https://open.spotify.com/artist/4gjxiBSKlUuAJwltoX1v2r) | [Little Me](https://open.spotify.com/album/4n6YwmEsm6ZSee8sGR8ygb) | 3:12 |
 | 42 | [Lovers](https://open.spotify.com/track/3RyPjY4LSckFzV0VstzTQD) | [Chiara Castelli](https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33) | [Lovers](https://open.spotify.com/album/570kqavY51UzlC6nYTOKo4) | 2:56 |
-| 43 | [Muss weh tun](https://open.spotify.com/track/4dRovCpD2NjXpevsQUGjNV) | [Magdalena Wawra](https://open.spotify.com/artist/2vwWLDuUOvqphcrjhpVzaG) | [Muss weh tun](https://open.spotify.com/album/64TtmFtkkYp3Ye4k7NtxIP) | 2:40 |
-| 44 | [Lesbisch](https://open.spotify.com/track/51OO2j8mgN8XvrNnft5EDL) | [Marisabelle](https://open.spotify.com/artist/7juQyo2bnOdDsd0V4UDYdH) | [Lesbisch](https://open.spotify.com/album/5lRfrBB7to4PYgdAImQsw9) | 2:07 |
+| 43 | [Lesbisch](https://open.spotify.com/track/51OO2j8mgN8XvrNnft5EDL) | [Marisabelle](https://open.spotify.com/artist/7juQyo2bnOdDsd0V4UDYdH) | [Lesbisch](https://open.spotify.com/album/5lRfrBB7to4PYgdAImQsw9) | 2:07 |
+| 44 | [Muss weh tun](https://open.spotify.com/track/4dRovCpD2NjXpevsQUGjNV) | [Magdalena Wawra](https://open.spotify.com/artist/2vwWLDuUOvqphcrjhpVzaG) | [Muss weh tun](https://open.spotify.com/album/64TtmFtkkYp3Ye4k7NtxIP) | 2:40 |
 | 45 | [Breathe](https://open.spotify.com/track/1sGMGIrHNv8q1Op2mdVuvs) | [Sylvie Miles](https://open.spotify.com/artist/4uPM7QLSNGVm5MncolABqE) | [Breathe](https://open.spotify.com/album/4JAJpikjbeuOPTesxDuWQo) | 4:19 |
 | 46 | [g h o s t](https://open.spotify.com/track/3AQai6OjpDCfVkfAG8hUvy) | [IKAN HYU](https://open.spotify.com/artist/1kcgm5pRULbDb5gs7kDRNK) | [g h o s t](https://open.spotify.com/album/06rufYFGkKG9nBbb0zjWvI) | 3:17 |
 | 47 | [The Crushed](https://open.spotify.com/track/6ilnHlVVofCSXILQHpLEdo) | [JEWLS](https://open.spotify.com/artist/1Yi3eQibPPyKmO0xXWPcfw) | [The Crushed](https://open.spotify.com/album/312mngp1sH77v9ZzWc3gc4) | 3:28 |

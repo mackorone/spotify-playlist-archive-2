@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe7OsxgbX67u.md) - [plain]
 
 > Listen to the music from Invincible, streaming only on Prime Video.
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,618 likes - 84 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,776 likes - 84 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-426 songs - 22 hr 49 min
+427 songs - 22 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,6 +253,7 @@
 | [Mind Control](https://open.spotify.com/track/1LPHe6Gm9NfUBhhSUTRQrb) | [Mind Compressor](https://open.spotify.com/artist/04K4XkeDWVLIilcHHAAJ9n) | [Mind Control](https://open.spotify.com/album/08Mz2EPv19ITTa6ScLo3nP) | 2:48 | 2025-03-07 | 2025-04-22 |
 | [Monkey Man](https://open.spotify.com/track/6bSKqsylJ6DzDP6Onvp746) | [The Herbalist](https://open.spotify.com/artist/15FJi8mBaxYory85rxoCtu), [Revealer](https://open.spotify.com/artist/2QNMNOR2Sbsedf6pxxACgN) | [Monkey Man](https://open.spotify.com/album/4R9thnGKDqtC5jzajpi5u4) | 2:20 | 2025-05-12 | 2025-10-03 |
 | [MORE THAN HUMAN](https://open.spotify.com/track/3dKT1n8DfajEoMTyU3hMTU) | [DEEZL](https://open.spotify.com/artist/5Gmt205UikGABaRkBaTX5L) | [MORE THAN HUMAN](https://open.spotify.com/album/3GJfH79LQ6vBNLtA7rvNpF) | 2:53 | 2022-12-08 | 2022-12-25 |
+| [Mortal Kombat \(Bloodlust & Gezellige Uptempo Remix\)](https://open.spotify.com/track/1ogGbWhLNmhtj4CU2tS4Ot) | [Toneshifterz](https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV), [Dimatik](https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz), [Bloodlust](https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp), [Gezellige Uptempo](https://open.spotify.com/artist/7H94tjDpGeDAoLEaQR0tOv) | [Mortal Kombat \(Bloodlust & Gezellige Uptempo Remix\)](https://open.spotify.com/album/6BMhlzYJRtqARVMeFFbnwa) | 2:13 | 2026-04-13 |  |
 | [Murder On The Dancefloor](https://open.spotify.com/track/6hc23rlusaZU0oZy3Zmf38) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [Furyan](https://open.spotify.com/artist/7KAMvC5fpPMWUgZYu3mEYJ) | [Murder On The Dancefloor](https://open.spotify.com/album/1aBix6Eh50Bz7VzRK8wvKH) | 2:28 | 2026-02-23 |  |
 | [MUSICA DEL DIABLO](https://open.spotify.com/track/1jzH4XLGopI4nm0hgq6g9B) | [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7), [Parkineos](https://open.spotify.com/artist/1cMiNxpdh0mP5WFnPvr4xf) | [MUSICA DEL DIABLO](https://open.spotify.com/album/4PkQtuOcU1u6elX3rbFfxu) | 2:40 | 2024-02-01 | 2024-06-28 |
 | [Mutilate](https://open.spotify.com/track/5Th8O9vWzImhIqb1kO8TLE) | [Chapter V](https://open.spotify.com/artist/1YYs95M2z6CIPc0zWfMrab), [Amduscias](https://open.spotify.com/artist/2s2uHpjXIyzhPIXkm8iP2y) | [Mutilate](https://open.spotify.com/album/1N5ZJaQFOrT6GJnqUW2c6b) | 3:50 | 2022-12-08 | 2024-11-09 |
@@ -277,7 +278,7 @@
 | [Oldschool The School](https://open.spotify.com/track/3og4g4ASh85aYNRTHzX0gO) | [Anime](https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO) | [THE 4TH DIMENSION](https://open.spotify.com/album/3S0H9fBa0BlcZnjCQQEte8) | 3:23 | 2023-07-27 | 2024-11-09 |
 | [Omega \- Live Edit](https://open.spotify.com/track/0zC6ICRWrAEDFbyyi0crJ4) | [Ncrypta](https://open.spotify.com/artist/598i9uHpVAukdj6QRUEaq6), [Fraw](https://open.spotify.com/artist/4AGDRCSqrobTOwmsvPuSrC) | [Omega \(Live Edit\)](https://open.spotify.com/album/6TYuQciQswy9WLmtBwmBYo) | 3:31 | 2022-12-08 | 2023-06-02 |
 | [OMG](https://open.spotify.com/track/3tVjdIKhtgAVy3BNWH1WpZ) | [Remzcore](https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp) | [OMG](https://open.spotify.com/album/61R8EoLyMQQ31KbgPukUKc) | 2:58 | 2022-12-08 | 2024-11-09 |
-| [On The Grind](https://open.spotify.com/track/61kRVhzUkUMHgTyHhvUpu9) | [Remzcore](https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp) | [On The Grind](https://open.spotify.com/album/2YWdDmDB0oue7BJM6NjiVY) | 1:57 | 2026-03-30 |  |
+| [On The Grind](https://open.spotify.com/track/61kRVhzUkUMHgTyHhvUpu9) | [Remzcore](https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp) | [On The Grind](https://open.spotify.com/album/2YWdDmDB0oue7BJM6NjiVY) | 1:57 | 2026-03-30 | 2026-04-14 |
 | [One Night Stand](https://open.spotify.com/track/7HOWys2dsGujopmih84kYW) | [Irradiate](https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I) | [One Night Stand](https://open.spotify.com/album/4aaz0aTTfX63P1sXSyjIdt) | 3:21 | 2022-12-08 | 2022-12-16 |
 | [One Way](https://open.spotify.com/track/0OT4p81EBNnYoxWcPQM7wk) | [Bloodfire](https://open.spotify.com/artist/18AdMCxQQcKmL5NbIZYjV7) | [One Way](https://open.spotify.com/album/2bD0r8cGZ69E6uBqU9oDFM) | 3:20 | 2022-12-08 | 2024-06-28 |
 | [Open Your Eyes](https://open.spotify.com/track/6yTmSclJ0xW8YBhmybhD7a) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP), [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv) | [Open Your Eyes](https://open.spotify.com/album/5uL5wxLcfTFgmgooFQ02Lt) | 2:47 | 2025-06-19 | 2025-11-08 |

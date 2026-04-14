@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Argentina.
 
-2,283 songs - 5 day 1 hr 12 min
+2,284 songs - 5 day 1 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [Back To Me](https://open.spotify.com/track/4E0P1xs3JNmsNr5c5nFTZJ) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Back To Me](https://open.spotify.com/album/3y8LtE30zPfQ4sXYRKvt2e) | 3:34 | 2025-04-22 | 2025-04-24 |
 | [Backslide](https://open.spotify.com/track/6fNaHkjAxP6rI2sZhT7QJn) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Clancy](https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI) | 3:00 | 2024-05-27 | 2024-06-03 |
 | [Bad Desire \(With or Without You\)](https://open.spotify.com/track/38pEX03GFZ0PfFDaOrpKOM) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DESIRE : UNLEASH](https://open.spotify.com/album/5nskZ8CFMrSNiOrceMHr4B) | 2:21 | 2025-06-26 | 2025-07-01 |
+| [BAD ENDING FUNK](https://open.spotify.com/track/6eC8U3G5GCK7R5LFF1MOr6) | [Shimuda](https://open.spotify.com/artist/1MsdlVAjUybrhVKrn0bo55), [SlowlyDying](https://open.spotify.com/artist/56bcrcgSJpGW0sg7mRZFHM) | [BAD ENDING FUNK](https://open.spotify.com/album/6DXAME0qmi8HAWK3HERzIB) | 1:10 | 2026-04-13 |  |
 | [Bad Feeling \(Oompa Loompa\)](https://open.spotify.com/track/535x8FTM99UR6ZhZN8BM4A) | [Jagwar Twin](https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria) | [Bad Feeling \(Oompa Loompa\)](https://open.spotify.com/album/6WABWHx7oAsBhp5swwp296) | 2:13 | 2024-02-02 | 2024-02-09 |
 | [BAD PARENTING FUNK](https://open.spotify.com/track/6kJjlOWBwnDwIBsvlwTNIF) | [DJ CEREJASS](https://open.spotify.com/artist/1iKfUld50BOVBIgHy3GlGt), [Sayfalse](https://open.spotify.com/artist/6s4LSwgbzTAfnN6OUfegJB) | [BAD PARENTING FUNK](https://open.spotify.com/album/2DNOGCn0szoh9f3rAnhF7b) | 1:27 | 2024-11-16 | 2024-12-04 |
 | [BADGYAL](https://open.spotify.com/track/3ng8tfwvzR4BBwa9yaMms6) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [SAKURA](https://open.spotify.com/album/5z4aZJ5U7LqwRc2tXk98cc) | 4:13 | 2024-05-16 | 2024-06-05 |
@@ -937,7 +938,7 @@
 | [IMAN \(Two Of Us\)](https://open.spotify.com/track/3sra6aEWWDXUiy46fWQobH) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [IMAN \(Two Of Us\)](https://open.spotify.com/album/6wDJCPLe4cheYx7dWJQavb) | 2:02 | 2024-06-04 | 2024-06-26 |
 | [Imperio](https://open.spotify.com/track/63rRgkllF0FDeZ9fpOkFKl) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [AMERI](https://open.spotify.com/album/3rVk419T7ct4qoW52h2q2d) | 2:48 | 2024-11-19 | 2024-11-29 |
 | [IMPOSTOR](https://open.spotify.com/track/4Jx56iDETiOYzYSgW1CcmM) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf), [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [PAPOTA](https://open.spotify.com/album/1NDJk94691Vydq1IrIeGC0) | 2:37 | 2025-03-25 | 2025-04-08 |
-| [Impostor Syndrome](https://open.spotify.com/track/33KU9huHP1Lv1UWWVkuTYd) | [Sidney Gish](https://open.spotify.com/artist/2orBKFyc84jo9AZH5jarhI) | [No Dogs Allowed](https://open.spotify.com/album/7mXf592qrnsQ7qAvV7Aluz) | 4:54 | 2026-04-09 |  |
+| [Impostor Syndrome](https://open.spotify.com/track/33KU9huHP1Lv1UWWVkuTYd) | [Sidney Gish](https://open.spotify.com/artist/2orBKFyc84jo9AZH5jarhI) | [No Dogs Allowed](https://open.spotify.com/album/7mXf592qrnsQ7qAvV7Aluz) | 4:54 | 2026-04-09 | 2026-04-14 |
 | [In the City](https://open.spotify.com/track/4DQZKpUgBpF9ziGboNAGFg) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo), [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [In the City](https://open.spotify.com/album/22bZNVYw96xAOKsgwAfbyv) | 3:49 | 2025-10-28 | 2025-11-01 |
 | [In the Moment \- Adriatique Remix](https://open.spotify.com/track/3JGvqlIZr8pvabWHmZwPsU) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB) | [Inhale / Exhale Remixed](https://open.spotify.com/album/1Dh0p4T4xkmUuTFI1QViss) | 4:10 | 2025-05-03 | 2025-05-11 |
 | [In the Moment \- Adriatique Remix](https://open.spotify.com/track/6YmTRcr74slEya3cvMsR6y) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB) | [In the Moment \(Adriatique Remix\)](https://open.spotify.com/album/4f7J80jlBhnA3TSWdjc5KF) | 4:10 | 2025-04-22 | 2025-05-04 |

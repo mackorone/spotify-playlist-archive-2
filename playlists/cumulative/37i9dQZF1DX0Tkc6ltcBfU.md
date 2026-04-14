@@ -2,7 +2,7 @@
 
 ### [No Cap](https://open.spotify.com/playlist/37i9dQZF1DX0Tkc6ltcBfU)
 
-> The hottest out the South\. Cover: Bossman Dlow
+> The hottest out the South\. Cover: Swae Lee and his son
 
 2,665 songs - 5 day 4 hr 15 min
 

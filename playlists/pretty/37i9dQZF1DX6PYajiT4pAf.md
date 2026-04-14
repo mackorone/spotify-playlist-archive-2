@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Anitta con Shakira, Manuel Turizo, JC Reyes y el resto de novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 398,406 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 398,399 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 13 | [Te Doy La Libertad](https://open.spotify.com/track/5ODIUPpNdmVZRjTMHa0Vjp) | [MESTIZA](https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n) | [Spanish Chica](https://open.spotify.com/album/04LUS5N9H4DIxFty3pUnTN) | 4:04 |
 | 14 | [Tu Gata](https://open.spotify.com/track/7j4kf9YhvElmjz3if93V49) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [BRUTAL PARAÍSO](https://open.spotify.com/album/3MhU6GRGIRgdjoDgltogAQ) | 2:36 |
 | 15 | [ME LA PASO REBOTANDO](https://open.spotify.com/track/69tjfJOEQPhoPloTYvu6rq) | [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ), [El Bugg](https://open.spotify.com/artist/6o4L5N0aiAhdtN3pqEwG0P) | [CULONA EL MUNDO ES TUYO](https://open.spotify.com/album/0HtZPdT1LUYTENFs8GSVIN) | 2:40 |
-| 16 | [FFF](https://open.spotify.com/track/3EPGWBvRxGWkPSChTBkABG) | [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [FFF](https://open.spotify.com/album/4zBseCXdGVBhWeJuq89ZVZ) | 2:44 |
+| 16 | [FFF](https://open.spotify.com/track/3EPGWBvRxGWkPSChTBkABG) | [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Soul](https://open.spotify.com/artist/4SmQWZtxkR4pOAbDQasTvl) | [FFF](https://open.spotify.com/album/4zBseCXdGVBhWeJuq89ZVZ) | 2:44 |
 | 17 | [NEXO 05\. Ya no estoy triste \(feat\. Dollar Selmouni\)](https://open.spotify.com/track/7yOYKBtrGXLcOOxNUbwuMG) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD), [Dollar Selmouni](https://open.spotify.com/artist/2544NCTfffschCn1NZVMSb) | [NEXO 05\. Ya no estoy triste \(feat\. Dollar Selmouni\)](https://open.spotify.com/album/4Wo2gwnyx9QqYmhpeJT8fY) | 3:17 |
 | 18 | [No digas na](https://open.spotify.com/track/4xCt6CW2b9nxLOMZzYEnBX) | [Liderj](https://open.spotify.com/artist/4oFwW8GNt4Seyt1dK3ij2S), [J Abecia](https://open.spotify.com/artist/2EaASUee9MEeEnMXGwnSOC) | [No digas na](https://open.spotify.com/album/2WeFhA4X7imt2pBKVe3oFN) | 2:41 |
 | 19 | [Volveré](https://open.spotify.com/track/3HluEPNLxLgW7rdPgZZ36J) | [Galvan Real](https://open.spotify.com/artist/2iA56rE7fZUnD4GdsSUj3G) | [Volveré](https://open.spotify.com/album/29JJeOGXXPXZDD997fOnjR) | 3:00 |

@@ -1,6 +1,6 @@
 {
   "description": "killer rock & alternative covers. Cover: YUNGBLUD, Steven Tyler and Joe Perry at The VMAs",
-  "num_followers": 758777,
+  "num_followers": 758876,
   "original_name": "Rock Covers",
   "owner": {
     "name": "Spotify",
@@ -467,18 +467,18 @@
     {
       "added_at": "2026-03-20 04:01:01",
       "album": {
-        "name": "sun to me",
-        "url": "https://open.spotify.com/album/5rWYslg1tfIO46bDK7xXPW"
+        "name": "Wicked Game",
+        "url": "https://open.spotify.com/album/2O2H1tIxeEf4wFCBj7NWtO"
       },
       "artists": [
         {
-          "name": "mgk",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+          "name": "Tenacious D",
+          "url": "https://open.spotify.com/artist/1XpDYCrUJnvCo9Ez6yeMWh"
         }
       ],
-      "duration_ms": 158446,
-      "name": "sun to me",
-      "url": "https://open.spotify.com/track/1YFUI8vmek5XtbON2ZW892"
+      "duration_ms": 109900,
+      "name": "Wicked Game",
+      "url": "https://open.spotify.com/track/7lWkrcZmi7HiKsKjth2T0L"
     },
     {
       "added_at": "2026-03-20 04:01:01",
@@ -519,18 +519,18 @@
     {
       "added_at": "2026-03-20 04:01:01",
       "album": {
-        "name": "Wicked Game",
-        "url": "https://open.spotify.com/album/2O2H1tIxeEf4wFCBj7NWtO"
+        "name": "sun to me",
+        "url": "https://open.spotify.com/album/5rWYslg1tfIO46bDK7xXPW"
       },
       "artists": [
         {
-          "name": "Tenacious D",
-          "url": "https://open.spotify.com/artist/1XpDYCrUJnvCo9Ez6yeMWh"
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
         }
       ],
-      "duration_ms": 109900,
-      "name": "Wicked Game",
-      "url": "https://open.spotify.com/track/7lWkrcZmi7HiKsKjth2T0L"
+      "duration_ms": 158446,
+      "name": "sun to me",
+      "url": "https://open.spotify.com/track/1YFUI8vmek5XtbON2ZW892"
     },
     {
       "added_at": "2026-03-20 04:01:01",
@@ -907,22 +907,6 @@
     {
       "added_at": "2026-03-20 04:01:01",
       "album": {
-        "name": "I Ran (So Far Away)",
-        "url": "https://open.spotify.com/album/21s176tybfcUTuxBp0UdCV"
-      },
-      "artists": [
-        {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
-        }
-      ],
-      "duration_ms": 211031,
-      "name": "I Ran (So Far Away)",
-      "url": "https://open.spotify.com/track/2tFcYLM3T3PWy0SsGHwOkv"
-    },
-    {
-      "added_at": "2026-03-20 04:01:01",
-      "album": {
         "name": "Survivor",
         "url": "https://open.spotify.com/album/0wd0kpwyXuWwYoblV4oCDs"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 193840,
       "name": "Survivor",
       "url": "https://open.spotify.com/track/0lrrOTSB1vEOEphSG8CSsD"
+    },
+    {
+      "added_at": "2026-03-20 04:01:01",
+      "album": {
+        "name": "I Ran (So Far Away)",
+        "url": "https://open.spotify.com/album/21s176tybfcUTuxBp0UdCV"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "duration_ms": 211031,
+      "name": "I Ran (So Far Away)",
+      "url": "https://open.spotify.com/track/2tFcYLM3T3PWy0SsGHwOkv"
     },
     {
       "added_at": "2026-03-20 04:01:01",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2026-03-20 04:01:01",
       "album": {
-        "name": "SEX ON FIRE",
-        "url": "https://open.spotify.com/album/0uS87AZDrfmiZNL7byuApR"
-      },
-      "artists": [
-        {
-          "name": "Kami Kehoe",
-          "url": "https://open.spotify.com/artist/2inxPY2UyH8riOrUuLklVR"
-        }
-      ],
-      "duration_ms": 197647,
-      "name": "SEX ON FIRE",
-      "url": "https://open.spotify.com/track/26woPsr89JQa1zAfLjaipn"
-    },
-    {
-      "added_at": "2026-03-20 04:01:01",
-      "album": {
         "name": "Running Up That Hill",
         "url": "https://open.spotify.com/album/7a0mQ4UEg2hTop49LkmNuq"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 263716,
       "name": "Running Up That Hill",
       "url": "https://open.spotify.com/track/7zLeOgBrdrCfMf47MCyLMC"
+    },
+    {
+      "added_at": "2026-03-20 04:01:01",
+      "album": {
+        "name": "SEX ON FIRE",
+        "url": "https://open.spotify.com/album/0uS87AZDrfmiZNL7byuApR"
+      },
+      "artists": [
+        {
+          "name": "Kami Kehoe",
+          "url": "https://open.spotify.com/artist/2inxPY2UyH8riOrUuLklVR"
+        }
+      ],
+      "duration_ms": 197647,
+      "name": "SEX ON FIRE",
+      "url": "https://open.spotify.com/track/26woPsr89JQa1zAfLjaipn"
     },
     {
       "added_at": "2026-03-20 04:01:01",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-03-20 04:01:01",
       "album": {
-        "name": "How To Save A Life",
-        "url": "https://open.spotify.com/album/38ff67UQftBcR3DnBMSsyW"
-      },
-      "artists": [
-        {
-          "name": "TALK",
-          "url": "https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87"
-        }
-      ],
-      "duration_ms": 218354,
-      "name": "How To Save A Life",
-      "url": "https://open.spotify.com/track/73TAUoeGvM7YPA8huwA9Yp"
-    },
-    {
-      "added_at": "2026-03-20 04:01:01",
-      "album": {
         "name": "Suicide Squad: The Album",
         "url": "https://open.spotify.com/album/5rOHrnrRomvSJhQLGVtfJ8"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 363114,
       "name": "Bohemian Rhapsody",
       "url": "https://open.spotify.com/track/2YSbHu9XF4bNYWt3MnIhgE"
+    },
+    {
+      "added_at": "2026-03-20 04:01:01",
+      "album": {
+        "name": "How To Save A Life",
+        "url": "https://open.spotify.com/album/38ff67UQftBcR3DnBMSsyW"
+      },
+      "artists": [
+        {
+          "name": "TALK",
+          "url": "https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87"
+        }
+      ],
+      "duration_ms": 218354,
+      "name": "How To Save A Life",
+      "url": "https://open.spotify.com/track/73TAUoeGvM7YPA8huwA9Yp"
     },
     {
       "added_at": "2026-03-20 04:01:01",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "admPAAAAAABlqxNs6IKtf7aaTDLe8woE",
+  "snapshot_id": "adrggAAAAAAB0gXnpU0M7GtqowD6etnI",
   "tracks": [
     {
       "added_at": null,
@@ -119,6 +119,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Melhor Coisa da Vida",
+        "url": "https://open.spotify.com/album/3MHTlaMpMFnOTI8z8YdLRX"
+      },
+      "artists": [
+        {
+          "name": "dj andreoli",
+          "url": "https://open.spotify.com/artist/6Y7e2jet1yvaymbzwOn4Fa"
+        },
+        {
+          "name": "Mc Jacare\u0301",
+          "url": "https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        }
+      ],
+      "duration_ms": 143658,
+      "name": "A Melhor Coisa da Vida",
+      "url": "https://open.spotify.com/track/2agO4DmR51UKagyP9fZ7xO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Poetisas no Topo 3",
         "url": "https://open.spotify.com/album/59B1Leein60p2cEODo6OHl"
       },
@@ -163,30 +187,6 @@
       "duration_ms": 374400,
       "name": "Poetisas no Topo 3",
       "url": "https://open.spotify.com/track/3tW24NTLSEjFSeIFW1EZQE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Melhor Coisa da Vida",
-        "url": "https://open.spotify.com/album/3MHTlaMpMFnOTI8z8YdLRX"
-      },
-      "artists": [
-        {
-          "name": "dj andreoli",
-          "url": "https://open.spotify.com/artist/6Y7e2jet1yvaymbzwOn4Fa"
-        },
-        {
-          "name": "Mc Jacare\u0301",
-          "url": "https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW"
-        },
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        }
-      ],
-      "duration_ms": 143658,
-      "name": "A Melhor Coisa da Vida",
-      "url": "https://open.spotify.com/track/2agO4DmR51UKagyP9fZ7xO"
     },
     {
       "added_at": null,
@@ -507,6 +507,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Segue O Baile",
+        "url": "https://open.spotify.com/album/5fcwF4ky03kxTIuNIAwU7g"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "Pepito",
+          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
+        },
+        {
+          "name": "Maghaiver",
+          "url": "https://open.spotify.com/artist/3ByMfSEgvaExKRX0QlDsGC"
+        }
+      ],
+      "duration_ms": 172661,
+      "name": "Amor De A\u00e7\u00facar",
+      "url": "https://open.spotify.com/track/7lHXSUvvfmeHBPzxvIH8ZY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Xananan",
         "url": "https://open.spotify.com/album/39XOZZGnYYysgVClF0FoRH"
       },
@@ -555,30 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Segue O Baile",
-        "url": "https://open.spotify.com/album/5fcwF4ky03kxTIuNIAwU7g"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "Pepito",
-          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
-        },
-        {
-          "name": "Maghaiver",
-          "url": "https://open.spotify.com/artist/3ByMfSEgvaExKRX0QlDsGC"
-        }
-      ],
-      "duration_ms": 172661,
-      "name": "Amor De A\u00e7\u00facar",
-      "url": "https://open.spotify.com/track/7lHXSUvvfmeHBPzxvIH8ZY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ouvir Voc\u00ea (Remix)",
         "url": "https://open.spotify.com/album/7mDJP2Ec63EpJIF9UWH2g0"
       },
@@ -611,6 +611,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Segue O Baile",
+        "url": "https://open.spotify.com/album/5fcwF4ky03kxTIuNIAwU7g"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "Pepito",
+          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
+        },
+        {
+          "name": "Amabbi",
+          "url": "https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV"
+        }
+      ],
+      "duration_ms": 159428,
+      "name": "Tropa Das On\u00e7a",
+      "url": "https://open.spotify.com/track/0HgptFHLQfgE4auvN31Gr5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Pe\u00e7a Final",
         "url": "https://open.spotify.com/album/7wOg102RsIsFYkYSRI1STQ"
       },
@@ -635,6 +659,34 @@
       "duration_ms": 136615,
       "name": "Proibido",
       "url": "https://open.spotify.com/track/3F9y4nfxXCkt8KFr3DuC1H"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Se T\u00e1 Solteira (Breaking Beattz Remix)",
+        "url": "https://open.spotify.com/album/7FBFI5vvR2FB1M6df6khkM"
+      },
+      "artists": [
+        {
+          "name": "Breaking Beattz",
+          "url": "https://open.spotify.com/artist/0eRxVzLBxZGMZcsSoMESfX"
+        },
+        {
+          "name": "FBC",
+          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
+        },
+        {
+          "name": "VHOOR",
+          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        }
+      ],
+      "duration_ms": 176250,
+      "name": "Se T\u00e1 Solteira - Breaking Beattz Remix",
+      "url": "https://open.spotify.com/track/4kbSJZw0uFzBAECxQLE4x9"
     },
     {
       "added_at": null,
@@ -682,43 +734,11 @@
         {
           "name": "Pepito",
           "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
-        },
-        {
-          "name": "Amabbi",
-          "url": "https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV"
         }
       ],
-      "duration_ms": 159428,
-      "name": "Tropa Das On\u00e7a",
-      "url": "https://open.spotify.com/track/0HgptFHLQfgE4auvN31Gr5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Se T\u00e1 Solteira (Breaking Beattz Remix)",
-        "url": "https://open.spotify.com/album/7FBFI5vvR2FB1M6df6khkM"
-      },
-      "artists": [
-        {
-          "name": "Breaking Beattz",
-          "url": "https://open.spotify.com/artist/0eRxVzLBxZGMZcsSoMESfX"
-        },
-        {
-          "name": "FBC",
-          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
-        },
-        {
-          "name": "VHOOR",
-          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
-        },
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        }
-      ],
-      "duration_ms": 176250,
-      "name": "Se T\u00e1 Solteira - Breaking Beattz Remix",
-      "url": "https://open.spotify.com/track/4kbSJZw0uFzBAECxQLE4x9"
+      "duration_ms": 147826,
+      "name": "Logo Eu",
+      "url": "https://open.spotify.com/track/44jPcwOhJ0TNV4W8uM6Op3"
     },
     {
       "added_at": null,
@@ -759,26 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Segue O Baile",
-        "url": "https://open.spotify.com/album/5fcwF4ky03kxTIuNIAwU7g"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "Pepito",
-          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
-        }
-      ],
-      "duration_ms": 147826,
-      "name": "Logo Eu",
-      "url": "https://open.spotify.com/track/44jPcwOhJ0TNV4W8uM6Op3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Minha Vida",
         "url": "https://open.spotify.com/album/6ILfnzEyoEa8QYwq1W5Yav"
       },
@@ -795,6 +795,26 @@
       "duration_ms": 165216,
       "name": "Minha Vida",
       "url": "https://open.spotify.com/track/1Z6GxhNhlDVZvaK9D4d7dc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Segue O Baile",
+        "url": "https://open.spotify.com/album/5fcwF4ky03kxTIuNIAwU7g"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "Pepito",
+          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
+        }
+      ],
+      "duration_ms": 103111,
+      "name": "Eles Podem Dizer Que N\u00e3o",
+      "url": "https://open.spotify.com/track/4qJtDrIKM3Mk74irjqDih0"
     },
     {
       "added_at": null,
@@ -851,26 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Segue O Baile",
-        "url": "https://open.spotify.com/album/5fcwF4ky03kxTIuNIAwU7g"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "Pepito",
-          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
-        }
-      ],
-      "duration_ms": 103111,
-      "name": "Eles Podem Dizer Que N\u00e3o",
-      "url": "https://open.spotify.com/track/4qJtDrIKM3Mk74irjqDih0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Baile da Dona On\u00e7a",
         "url": "https://open.spotify.com/album/6tWDy3FS2naau5PI4FnRey"
       },
@@ -891,6 +891,30 @@
       "duration_ms": 142153,
       "name": "Ela Joga Muito na Minha Cara",
       "url": "https://open.spotify.com/track/746taTiwMbJLRhxXR1zbXk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Segue O Baile",
+        "url": "https://open.spotify.com/album/5fcwF4ky03kxTIuNIAwU7g"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "Pepito",
+          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
+        },
+        {
+          "name": "Mc Morena",
+          "url": "https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Amor Absurdo",
+      "url": "https://open.spotify.com/track/1UmTiIqBUJy9UWs73DCamn"
     },
     {
       "added_at": null,
@@ -935,30 +959,6 @@
       "duration_ms": 107142,
       "name": "BOLA LOGO",
       "url": "https://open.spotify.com/track/3dFDxzAJkvjvOXG91ODzql"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Segue O Baile",
-        "url": "https://open.spotify.com/album/5fcwF4ky03kxTIuNIAwU7g"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "Pepito",
-          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
-        },
-        {
-          "name": "Mc Morena",
-          "url": "https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Amor Absurdo",
-      "url": "https://open.spotify.com/track/1UmTiIqBUJy9UWs73DCamn"
     },
     {
       "added_at": null,
@@ -1223,30 +1223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eu & Elas",
-        "url": "https://open.spotify.com/album/4FZ4coUA02edFdEP8qUFE6"
-      },
-      "artists": [
-        {
-          "name": "Mc Rodrigo do CN",
-          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
-        },
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "Dj Dudu Coupper",
-          "url": "https://open.spotify.com/artist/1KrZfBw5jysX8sRY1n48Az"
-        }
-      ],
-      "duration_ms": 130212,
-      "name": "Macetada Forte",
-      "url": "https://open.spotify.com/track/4mLgpSkTXqrFRkdOcMNArR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ajoelhou",
         "url": "https://open.spotify.com/album/5275f9LV6XsLAHoc4tqQeR"
       },
@@ -1267,6 +1243,22 @@
       "duration_ms": 121846,
       "name": "Ajoelhou",
       "url": "https://open.spotify.com/track/3gmimtzSVq82cgTwwb0w6I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Phone",
+        "url": "https://open.spotify.com/album/2bPSxJj209g3KOyyA44RPL"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        }
+      ],
+      "duration_ms": 166103,
+      "name": "Phone",
+      "url": "https://open.spotify.com/track/4MLf65UBiNnLtqBhlliNyM"
     }
   ],
   "unique_name": "This Is Mac J\u00falia",

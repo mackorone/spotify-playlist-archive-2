@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc78A1OIheFs.md) - [plain]
 
 ### [The Local List Aotearoa](https://open.spotify.com/playlist/37i9dQZF1DXc78A1OIheFs)
 
-> Discover the best in new music from Aotearoa\. Cover: Lorde
+> Discover the best in new music from Aotearoa\. Cover: Fazerdaze
 
 [Spotify](https://open.spotify.com/user/spotify) - 19,339 likes - 75 songs - 4 hr 14 min
 
@@ -23,13 +23,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc78A1OIheFs.md) - [plain]
 | 13 | [We Made It](https://open.spotify.com/track/1ljnuLllU6fI3aGFUPG6TJ) | [SIX60](https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn) | [We Made It](https://open.spotify.com/album/3Ij9b0skXn9qYoKweWJPqG) | 2:44 |
 | 14 | [PRETTY GYAL](https://open.spotify.com/track/4C2uLpeiOtQjDDC3XSsLvt) | [COTERIE](https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY) | [PRETTY GYAL](https://open.spotify.com/album/5tKNi4aE8aI5kAsIKs1MpO) | 3:38 |
 | 15 | [Grin](https://open.spotify.com/track/5wXmPTEY49DWP8b0dfk7F7) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj) | [SENESCENCE 05 + 06](https://open.spotify.com/album/423g9lUsvvCEqK5KRvYFXg) | 2:50 |
-| 16 | [Māori Ki Te Ao](https://open.spotify.com/track/1PEMFdaHfWv4EXUc26Y3dz) | [Stan Walker](https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY) | [Māori Ki Te Ao](https://open.spotify.com/album/0Uvwm5VfGMa6Hg51lQeXPg) | 3:20 |
-| 17 | [BITE BACK](https://open.spotify.com/track/3oRLktPykF4J9KqAHRlFrx) | [Vana](https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T) | [BITE BACK](https://open.spotify.com/album/44u8w5fzJ8lVizD4t1T0pr) | 3:45 |
+| 16 | [BITE BACK](https://open.spotify.com/track/3oRLktPykF4J9KqAHRlFrx) | [Vana](https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T) | [BITE BACK](https://open.spotify.com/album/44u8w5fzJ8lVizD4t1T0pr) | 3:45 |
+| 17 | [Māori Ki Te Ao](https://open.spotify.com/track/1PEMFdaHfWv4EXUc26Y3dz) | [Stan Walker](https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY) | [Māori Ki Te Ao](https://open.spotify.com/album/0Uvwm5VfGMa6Hg51lQeXPg) | 3:20 |
 | 18 | [Endlessly](https://open.spotify.com/track/2CyfQZebCmtHWEacUX3Bxp) | [SIX60](https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn) | [Right Here Right Now](https://open.spotify.com/album/6csIU1XcyHCNHorQkDE83W) | 3:23 |
 | 19 | [Cinnamon](https://open.spotify.com/track/3snrmj8vx2A3u70Lr5V4R3) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Cinnamon](https://open.spotify.com/album/7epoeWPFWTeHfuG8eR7HD3) | 2:42 |
 | 20 | [Ain't No Party](https://open.spotify.com/track/4OjT5tTYsmQl29oQT6OHab) | [Lance Savali](https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd) | [Ain't No Party](https://open.spotify.com/album/3WEW6RrQrhxOB0wdlU6mGb) | 3:05 |
-| 21 | [Have You Ever Seen the Rain](https://open.spotify.com/track/1AJCwu6LhfFTh6Lb7SYlCh) | [House of Shem](https://open.spotify.com/artist/2ERWeFslDVHB4E9pSSw845), [Te Omeka Perkins](https://open.spotify.com/artist/0v4dd7o5DG0zJdqsYrn1Bf) | [Have You Ever Seen the Rain](https://open.spotify.com/album/6Xi9D8l2wWFU1zGhzPnMX9) | 3:13 |
-| 22 | [PLEASER](https://open.spotify.com/track/57aoIncSQMCTT58Nczu5se) | [Vana](https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T) | [PLEASER](https://open.spotify.com/album/3DLbNeGEg77U7wyAgIv4pc) | 2:45 |
+| 21 | [PLEASER](https://open.spotify.com/track/57aoIncSQMCTT58Nczu5se) | [Vana](https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T) | [PLEASER](https://open.spotify.com/album/3DLbNeGEg77U7wyAgIv4pc) | 2:45 |
+| 22 | [Have You Ever Seen the Rain](https://open.spotify.com/track/1AJCwu6LhfFTh6Lb7SYlCh) | [House of Shem](https://open.spotify.com/artist/2ERWeFslDVHB4E9pSSw845), [Te Omeka Perkins](https://open.spotify.com/artist/0v4dd7o5DG0zJdqsYrn1Bf) | [Have You Ever Seen the Rain](https://open.spotify.com/album/6Xi9D8l2wWFU1zGhzPnMX9) | 3:13 |
 | 23 | [Missing You](https://open.spotify.com/track/6tX47tfge8kgWJSFVoS7cg) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Missing You](https://open.spotify.com/album/0UtpBQuMhN4yywit3yNb8B) | 3:33 |
 | 24 | [Faery King](https://open.spotify.com/track/3jMJ7s8FQupDa1oRpaQsCc) | [Kiki Rockwell](https://open.spotify.com/artist/5HuKMWteBRI09tWyKeQE1F) | [Eldest Daughter Of An Eldest Daughter](https://open.spotify.com/album/4a5uJvHjC5NrORjUrtCV55) | 4:26 |
 | 25 | [Boots 'N All](https://open.spotify.com/track/60utjxPySCYZTh1gW7m8CW) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [Nights Like This](https://open.spotify.com/album/7cGYemTtKlqYqR61wETgU4) | 2:45 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc78A1OIheFs.md) - [plain]
 | 43 | [Hell Of A Night](https://open.spotify.com/track/6MKq4tkdKCwixFocjVvaC8) | [LA WOMEN](https://open.spotify.com/artist/4FUs4dXBvexAfJDQEcBfGj) | [Hell Of A Night](https://open.spotify.com/album/4yy9Kng4fAMUQ4UUe1h7H2) | 3:52 |
 | 44 | [Give Me That Feeling](https://open.spotify.com/track/77uJm6AgWF6Esf60O9LAU1) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B VI](https://open.spotify.com/album/2GgCCAXEdgHQOTlVvyQpfE) | 4:14 |
 | 45 | [East Coast](https://open.spotify.com/track/64ISc1GmFnEbkHVY91YQtk) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [East Coast](https://open.spotify.com/album/7IdwGiHgVmpBrmcBA157TK) | 3:14 |
-| 46 | [Letting Love Die](https://open.spotify.com/track/20sCb0w64BoQzrRzmaSl4g) | [Heidi Simpson](https://open.spotify.com/artist/26bMUxnRSRnD7iv7iJ8hi9) | [Letting Love Die](https://open.spotify.com/album/61a4JwnOCbXaA2hUwuEynG) | 2:59 |
-| 47 | [Searching For](https://open.spotify.com/track/4F9eoe2uxpphjdgJAgBl8J) | [Mild Orange](https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf) | [The//Glow](https://open.spotify.com/album/0zKngSkNENfHZqjZsaDTXz) | 3:54 |
+| 46 | [Searching For](https://open.spotify.com/track/4F9eoe2uxpphjdgJAgBl8J) | [Mild Orange](https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf) | [The//Glow](https://open.spotify.com/album/0zKngSkNENfHZqjZsaDTXz) | 3:54 |
+| 47 | [Letting Love Die](https://open.spotify.com/track/20sCb0w64BoQzrRzmaSl4g) | [Heidi Simpson](https://open.spotify.com/artist/26bMUxnRSRnD7iv7iJ8hi9) | [Letting Love Die](https://open.spotify.com/album/61a4JwnOCbXaA2hUwuEynG) | 2:59 |
 | 48 | [Forever Is A Charm](https://open.spotify.com/track/2eepdxWeNXa3dU7qRhtNHP) | [Princess Chelsea](https://open.spotify.com/artist/6SrA4711bML5NvPO13Tr6t) | [Everything Is Going To Be Alright](https://open.spotify.com/album/68VjqhhlPZRLMAGxs1FSuU) | 3:11 |
 | 49 | [You Already Know](https://open.spotify.com/track/7c8NGyFaX9Too4WKDLGnft) | [Sons of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW) | [You Already Know](https://open.spotify.com/album/3K1gJcHNypQmW7qCkiplSh) | 3:06 |
 | 50 | [Under One Roof](https://open.spotify.com/track/4WyvctqcmQT4ksjZjnfW64) | [Flowidus](https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC), [Sam Welch](https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K) | [Under One Roof](https://open.spotify.com/album/0NQ9xTtHFwhkSfUN68PAd3) | 4:14 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc78A1OIheFs.md) - [plain]
 | 57 | [Knocking At Your Door](https://open.spotify.com/track/2OBGlsbiixDJUK9hZJMfvH) | [SIX60](https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn) | [Knocking At Your Door](https://open.spotify.com/album/7dfLlEgi0O9NzbvyUJiWN3) | 2:34 |
 | 58 | [Broken Glass](https://open.spotify.com/track/7lYyAj4YWhsP1naYx8DSZc) | [Harper Finn](https://open.spotify.com/artist/3CUxThJ21i78mhH1FfH55u) | [Broken Glass](https://open.spotify.com/album/5t31M8n1vxdpWaNlCeSeEG) | 3:16 |
 | 59 | [pinky girl](https://open.spotify.com/track/4ZvoE03wSTX4gSneaH1L2J) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [pinky girl](https://open.spotify.com/album/4Q0lBUApWnjRmkjN3yiKwR) | 3:54 |
-| 60 | [Don't You Die](https://open.spotify.com/track/3y3f5uaZ4xvHZ2QCGZ5BR0) | [Bean Magazine](https://open.spotify.com/artist/39f9ht0YjVFG1L7lMHc152) | [In The Shade](https://open.spotify.com/album/4xj1vyEuXxhAaiZIm8ePne) | 3:13 |
-| 61 | [Handyman.](https://open.spotify.com/track/1xd2siUNv5buHMILOQZeRB) | [Canaan Ene](https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA), [Sione Toki](https://open.spotify.com/artist/7CyCft1T5A9pLksmToGkFV) | [Handyman.](https://open.spotify.com/album/27GwbvIdxCHWZ7oe1gr3yb) | 2:41 |
+| 60 | [Handyman.](https://open.spotify.com/track/1xd2siUNv5buHMILOQZeRB) | [Canaan Ene](https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA), [Sione Toki](https://open.spotify.com/artist/7CyCft1T5A9pLksmToGkFV) | [Handyman.](https://open.spotify.com/album/27GwbvIdxCHWZ7oe1gr3yb) | 2:41 |
+| 61 | [Don't You Die](https://open.spotify.com/track/3y3f5uaZ4xvHZ2QCGZ5BR0) | [Bean Magazine](https://open.spotify.com/artist/39f9ht0YjVFG1L7lMHc152) | [In The Shade](https://open.spotify.com/album/4xj1vyEuXxhAaiZIm8ePne) | 3:13 |
 | 62 | [What Would It Profit](https://open.spotify.com/track/7dkq1w6yOO6yWmHpsSDwIO) | [Body Ocean](https://open.spotify.com/artist/33f4HE9MrvJAlX9cOuhAay) | [The Drip](https://open.spotify.com/album/4AnurorczccotGyQOVXEdp) | 3:05 |
 | 63 | [Chantilly](https://open.spotify.com/track/6nHfOWaRuClaybogUR6Vt1) | [NO CIGAR](https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT) | [Chantilly](https://open.spotify.com/album/6qEqLDUoSIceyLYDS07lv1) | 3:33 |
 | 64 | [Wildfire](https://open.spotify.com/track/3P7EBoqZz6ZcPRluURhann) | [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR) | [Wildfire](https://open.spotify.com/album/0SflKaUmjrhPMAaIwLTaMp) | 2:36 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc78A1OIheFs.md) - [plain]
 | 68 | [distance](https://open.spotify.com/track/2OhPmJmI7GGQhtQ6u96oz2) | [Teo Glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY) | [distance](https://open.spotify.com/album/1VmLlJTGhcSMXHfdI8o4OI) | 2:22 |
 | 69 | [Didn't Change A Thing](https://open.spotify.com/track/2OgPwHAA08O8gPkX2S6ujL) | [Te Wehi](https://open.spotify.com/artist/2DkCh3TikVqqOAKrbMNIVc) | [Didn't Change A Thing](https://open.spotify.com/album/7q6gFymoUw39CUBeDQJTkr) | 2:44 |
 | 70 | [Dominoes](https://open.spotify.com/track/4lw8fSL7zLzINdE3ng8hvW) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Dominoes](https://open.spotify.com/album/5HDdfdL3z8GOMcVjQDDAMd) | 2:59 |
-| 71 | [Holding Your Hand](https://open.spotify.com/track/1Ve2EdxdPBAA9wOiDdkS4y) | [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Holding Your Hand](https://open.spotify.com/album/1Ggks2L6vGzHraAO2a98gZ) | 2:32 |
-| 72 | [Older](https://open.spotify.com/track/5iYllqp8cdbFSjU3sHzoKn) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj) | [SENESCENCE](https://open.spotify.com/album/3ibzGjl8ndao9xMTtMEPf9) | 2:56 |
+| 71 | [Older](https://open.spotify.com/track/5iYllqp8cdbFSjU3sHzoKn) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj) | [SENESCENCE](https://open.spotify.com/album/3ibzGjl8ndao9xMTtMEPf9) | 2:56 |
+| 72 | [Holding Your Hand](https://open.spotify.com/track/1Ve2EdxdPBAA9wOiDdkS4y) | [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Holding Your Hand](https://open.spotify.com/album/1Ggks2L6vGzHraAO2a98gZ) | 2:32 |
 | 73 | [Luxury](https://open.spotify.com/track/7AJn6nHmWouUAdd7bJAheL) | [Drax Project](https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8) | [Upside](https://open.spotify.com/album/3DJIsKB1vlhdn0hDAwqiTH) | 3:17 |
-| 74 | [Problem](https://open.spotify.com/track/7Ir0Knh7XigLnRpTH1GyQc) | [NO CIGAR](https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT) | [Problem](https://open.spotify.com/album/4PJPq7BIK2LvUE59pJfVcD) | 3:58 |
-| 75 | [GO!](https://open.spotify.com/track/56VjJf0nMKrZ0aLBKmP2Rl) | [Montell2099](https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0), [Sam Bruno](https://open.spotify.com/artist/2PgOtERwe37cW1U9z7zAHb) | [GO!](https://open.spotify.com/album/1G57wFuySUQ5H33inqfD7V) | 3:06 |
+| 74 | [GO!](https://open.spotify.com/track/56VjJf0nMKrZ0aLBKmP2Rl) | [Montell2099](https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0), [Sam Bruno](https://open.spotify.com/artist/2PgOtERwe37cW1U9z7zAHb) | [GO!](https://open.spotify.com/album/1G57wFuySUQ5H33inqfD7V) | 3:06 |
+| 75 | [Problem](https://open.spotify.com/track/7Ir0Knh7XigLnRpTH1GyQc) | [NO CIGAR](https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT) | [Problem](https://open.spotify.com/album/4PJPq7BIK2LvUE59pJfVcD) | 3:58 |
 
 Snapshot ID: `AAAAAIXQtGSbtKWrkmq5z7rpcoyYYx3P`

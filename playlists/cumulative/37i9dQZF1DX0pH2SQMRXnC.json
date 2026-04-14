@@ -6261,6 +6261,28 @@
     },
     {
       "album": {
+        "name": "Filthy Rave",
+        "url": "https://open.spotify.com/album/7hxKX4sSm6q1QMxgKzqr7s"
+      },
+      "artists": [
+        {
+          "name": "Rebelion",
+          "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
+        },
+        {
+          "name": "Warface",
+          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181503,
+      "name": "Filthy Rave",
+      "url": "https://open.spotify.com/track/4JaRupx6zn14ogukDrpDBT"
+    },
+    {
+      "album": {
         "name": "Legends Of The Elite",
         "url": "https://open.spotify.com/album/50RHfqIEtQS0dZxBrrFUF3"
       },
@@ -11343,6 +11365,32 @@
     },
     {
       "album": {
+        "name": "Love Generation",
+        "url": "https://open.spotify.com/album/0ctgLGBpK2eLGlg1Fsm2hP"
+      },
+      "artists": [
+        {
+          "name": "Adrenalize",
+          "url": "https://open.spotify.com/artist/6GebWeCCtey5pbQepRYD6c"
+        },
+        {
+          "name": "Primeshock",
+          "url": "https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS"
+        },
+        {
+          "name": "LePrince",
+          "url": "https://open.spotify.com/artist/6CVjs7KznQ47r8xZwPtZsO"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163776,
+      "name": "Love Generation",
+      "url": "https://open.spotify.com/track/3kxH84wDmwYJQQIs9e6bCN"
+    },
+    {
+      "album": {
         "name": "Love On Fire",
         "url": "https://open.spotify.com/album/3dgHasjYEYDwxpq6MaBvQA"
       },
@@ -14402,7 +14450,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 168000,
       "name": "POLIZEI",
       "url": "https://open.spotify.com/track/20XN7Sr1wil6dvhPwR2FOe"
@@ -21518,7 +21566,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 179901,
       "name": "Won\u2019t Let Me Down",
       "url": "https://open.spotify.com/track/32159t5a24N9hqjyKk09E2"

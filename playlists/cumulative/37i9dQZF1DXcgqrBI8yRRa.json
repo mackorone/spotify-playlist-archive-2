@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Trending rn. Cover: Kayode",
+  "description": "Trending rn. ",
   "name": "Internet Famous",
   "tracks": [
     {
@@ -1574,6 +1574,28 @@
       "duration_ms": 145657,
       "name": "Attends",
       "url": "https://open.spotify.com/track/1rMnlh7YO6lb9dGZiasVwt"
+    },
+    {
+      "album": {
+        "name": "Boy Alone (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2UqqJiGQEh4xW2aK914nFL"
+      },
+      "artists": [
+        {
+          "name": "OMAH LAY",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180563,
+      "name": "attention",
+      "url": "https://open.spotify.com/track/1LoOaW53rP8QhsnW9kvs0M"
     },
     {
       "album": {
@@ -3906,6 +3928,24 @@
       "duration_ms": 140000,
       "name": "Cana",
       "url": "https://open.spotify.com/track/652eb66Jp9rLJ3erEwaCio"
+    },
+    {
+      "album": {
+        "name": "CLARITY OF MIND",
+        "url": "https://open.spotify.com/album/2dsbyfeOhmmpzisluBfPKc"
+      },
+      "artists": [
+        {
+          "name": "OMAH LAY",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162461,
+      "name": "CANADA BREEZE",
+      "url": "https://open.spotify.com/track/5bZoHEhzsgj49TZR6R7Uc3"
     },
     {
       "album": {
@@ -6501,6 +6541,32 @@
     },
     {
       "album": {
+        "name": "Made In Lagos: Deluxe Edition",
+        "url": "https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263288,
+      "name": "Essence (feat. Justin Bieber & Tems)",
+      "url": "https://open.spotify.com/track/1MZtr7IH5qtjIkqrXj8WOJ"
+    },
+    {
+      "album": {
         "name": "Made In Lagos",
         "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
       },
@@ -8540,7 +8606,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 166601,
       "name": "Heavy",
       "url": "https://open.spotify.com/track/2MCMoWWhsuslO8NBRAfHR0"
@@ -8598,6 +8664,28 @@
       "duration_ms": 136732,
       "name": "Hello Habibi",
       "url": "https://open.spotify.com/track/4nj32rIPm4mqx15x8B1meM"
+    },
+    {
+      "album": {
+        "name": "Hello Hello",
+        "url": "https://open.spotify.com/album/2MemAGSs6AwHzhHRr4FezH"
+      },
+      "artists": [
+        {
+          "name": "Kashcoming",
+          "url": "https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI"
+        },
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155789,
+      "name": "Hello Hello",
+      "url": "https://open.spotify.com/track/2Ee6WFlAauCqC241KOe4xq"
     },
     {
       "album": {
@@ -9117,6 +9205,28 @@
     },
     {
       "album": {
+        "name": "SWAG II",
+        "url": "https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165586,
+      "name": "I THINK YOU'RE SPECIAL",
+      "url": "https://open.spotify.com/track/0mQLFm42be28X8yKBTiHP3"
+    },
+    {
+      "album": {
         "name": "My Dear Melancholy,",
         "url": "https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO"
       },
@@ -9370,7 +9480,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 116585,
       "name": "Ikeja (No Go Thief)",
       "url": "https://open.spotify.com/track/3jGo2PclXcXXnjNvqi7n3W"
@@ -15296,7 +15406,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 109759,
       "name": "Phantom",
       "url": "https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf"
@@ -17202,7 +17312,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 119233,
       "name": "Shima",
       "url": "https://open.spotify.com/track/0QCusnq4eFoWHPuS05LSko"
@@ -18316,7 +18426,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 115587,
       "name": "Suffering & smiling",
       "url": "https://open.spotify.com/track/7iQM0bDeeuZIFP7D4E2hkU"

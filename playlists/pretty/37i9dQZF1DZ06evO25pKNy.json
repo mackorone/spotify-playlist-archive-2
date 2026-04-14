@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "admPAAAAAADoBuwLYqnTSQS6VgqA477h",
+  "snapshot_id": "adrggAAAAACF8O7QZ5LaTP3n9zoWGk0E",
   "tracks": [
     {
       "added_at": null,
@@ -143,26 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bien Pilas",
-        "url": "https://open.spotify.com/album/3B5VpXorHXwY9my6lY8VAp"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        },
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 165458,
-      "name": "Bien Pilas",
-      "url": "https://open.spotify.com/track/2D3GD6rdUMvYrezCeeoPWT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Como Debe Ser",
         "url": "https://open.spotify.com/album/0tQPxSvQvoCWF2p2ziWmqM"
       },
@@ -183,6 +163,26 @@
       "duration_ms": 130087,
       "name": "Como Debe Ser",
       "url": "https://open.spotify.com/track/7BYQKLz2yWFePlxApyvbeP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bien Pilas",
+        "url": "https://open.spotify.com/album/3B5VpXorHXwY9my6lY8VAp"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        },
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 165458,
+      "name": "Bien Pilas",
+      "url": "https://open.spotify.com/track/2D3GD6rdUMvYrezCeeoPWT"
     },
     {
       "added_at": null,
@@ -319,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lujos De La Vida",
-        "url": "https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 213024,
-      "name": "El Tuna",
-      "url": "https://open.spotify.com/track/2FhDsHZwgCILLXbpIHOget"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Duetos Con La Clika",
         "url": "https://open.spotify.com/album/5EV8DzL0vYdtHCOuZ2JDUq"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 219750,
       "name": "La Querian Facil",
       "url": "https://open.spotify.com/track/0CGpWyDPr89T453kMb638E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lujos De La Vida",
+        "url": "https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 213024,
+      "name": "El Tuna",
+      "url": "https://open.spotify.com/track/2FhDsHZwgCILLXbpIHOget"
     },
     {
       "added_at": null,
@@ -391,6 +391,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Desde La 48",
+        "url": "https://open.spotify.com/album/5i8wSDSUoEBSEd9r18e4LD"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 149000,
+      "name": "CHALINOFEST",
+      "url": "https://open.spotify.com/track/3Kds2AGOb00EjxKUDczMYT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lujos De La Vida",
         "url": "https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f"
       },
@@ -427,38 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desde La 48",
-        "url": "https://open.spotify.com/album/5i8wSDSUoEBSEd9r18e4LD"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 149000,
-      "name": "CHALINOFEST",
-      "url": "https://open.spotify.com/track/3Kds2AGOb00EjxKUDczMYT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "48th Piso",
-        "url": "https://open.spotify.com/album/2BCVLLW454geMDr78qVkHj"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 122047,
-      "name": "48th Piso",
-      "url": "https://open.spotify.com/track/083KIBwzpA3SRjO3HyxFbH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "J\u00e1lese Carnal",
         "url": "https://open.spotify.com/album/0JCLMPYNI2uUuEcniID1iD"
       },
@@ -475,22 +459,6 @@
       "duration_ms": 167408,
       "name": "6 Colores",
       "url": "https://open.spotify.com/track/74B8W79gWO3nswzkVE7vLi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Querian Facil",
-        "url": "https://open.spotify.com/album/4tp7hs9DwBnKmFtrTUjflY"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 225593,
-      "name": "La Querian Facil",
-      "url": "https://open.spotify.com/track/4JlwxYmewZay9BAbLsBHK6"
     },
     {
       "added_at": null,
@@ -515,6 +483,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "48th Piso",
+        "url": "https://open.spotify.com/album/2BCVLLW454geMDr78qVkHj"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 122047,
+      "name": "48th Piso",
+      "url": "https://open.spotify.com/track/083KIBwzpA3SRjO3HyxFbH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Querian Facil",
+        "url": "https://open.spotify.com/album/4tp7hs9DwBnKmFtrTUjflY"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 225593,
+      "name": "La Querian Facil",
+      "url": "https://open.spotify.com/track/4JlwxYmewZay9BAbLsBHK6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Loco Malandro",
         "url": "https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ"
       },
@@ -527,6 +527,22 @@
       "duration_ms": 206133,
       "name": "Vivo En Los Angeles",
       "url": "https://open.spotify.com/track/3llJtYFMgm41fqcuaQi32S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desde La 48",
+        "url": "https://open.spotify.com/album/5i8wSDSUoEBSEd9r18e4LD"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 190197,
+      "name": "Quintana Roo",
+      "url": "https://open.spotify.com/track/527qFT8pKSgaULC82IAuCs"
     },
     {
       "added_at": null,
@@ -567,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desde La 48",
-        "url": "https://open.spotify.com/album/5i8wSDSUoEBSEd9r18e4LD"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 190197,
-      "name": "Quintana Roo",
-      "url": "https://open.spotify.com/track/527qFT8pKSgaULC82IAuCs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nuestro Estilo",
         "url": "https://open.spotify.com/album/6rGQO5ibbf2JhX4N6BmL5r"
       },
@@ -595,6 +595,22 @@
       "duration_ms": 216448,
       "name": "Mundo Desgraciado",
       "url": "https://open.spotify.com/track/3hiximGfpxNy8fgsbWm4hm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lujos y Libras",
+        "url": "https://open.spotify.com/album/76hHnxL9jGOpddvX4Gor2R"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 187565,
+      "name": "Willy Checks",
+      "url": "https://open.spotify.com/track/6I6HAGDrih43MD4CyTPNhr"
     },
     {
       "added_at": null,
@@ -615,8 +631,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lujos y Libras",
-        "url": "https://open.spotify.com/album/76hHnxL9jGOpddvX4Gor2R"
+        "name": "La Casa De La Esquina",
+        "url": "https://open.spotify.com/album/5ahdqBULRpO7ISU4jBazcP"
       },
       "artists": [
         {
@@ -624,9 +640,9 @@
           "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
         }
       ],
-      "duration_ms": 187565,
-      "name": "Willy Checks",
-      "url": "https://open.spotify.com/track/6I6HAGDrih43MD4CyTPNhr"
+      "duration_ms": 117760,
+      "name": "La Casa De La Esquina",
+      "url": "https://open.spotify.com/track/6qw1U481E7u4DAw5UZv3vD"
     },
     {
       "added_at": null,
@@ -659,22 +675,6 @@
       "duration_ms": 156928,
       "name": "El Cimarron",
       "url": "https://open.spotify.com/track/3mBI9q2AWvbEEGLnxjmdBg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Casa De La Esquina",
-        "url": "https://open.spotify.com/album/5ahdqBULRpO7ISU4jBazcP"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 117760,
-      "name": "La Casa De La Esquina",
-      "url": "https://open.spotify.com/track/6qw1U481E7u4DAw5UZv3vD"
     },
     {
       "added_at": null,

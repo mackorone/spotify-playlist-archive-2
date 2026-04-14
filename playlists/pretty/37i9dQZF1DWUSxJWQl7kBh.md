@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSxJWQl7kBh.md) - [plain]
 
 > Yo voy pa arriba, el golpe avisa, es lo qué es y yo cumplí con avisar🙏🏽 ✨ Los 2 de la S y Los Chavalitos en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 411,305 likes - 80 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 411,485 likes - 80 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

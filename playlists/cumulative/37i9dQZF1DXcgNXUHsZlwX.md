@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. 🌷
 
-577 songs - 1 day 10 hr 21 min
+578 songs - 1 day 10 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -367,7 +367,7 @@
 | [Morceaux](https://open.spotify.com/track/5cEjAzmvWIQYF54kUTdRKY) | [Saratoga](https://open.spotify.com/artist/7cclLKr5Adggnygyq0ybOn) | [Ceci est une espèce aimée](https://open.spotify.com/album/1EFz0WbdlqvV50NkSxJoWq) | 4:59 | 2022-07-08 | 2024-04-19 |
 | [Mourir au large \- sunrise version](https://open.spotify.com/track/1Sl7Lu4hrGSl3agn3OUEZW) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Mourir au large](https://open.spotify.com/album/5ZC4UbRnVaHmzg5oIhlDyY) | 2:32 | 2021-10-09 | 2021-11-09 |
 | [My Love](https://open.spotify.com/track/2ozuVNKw0Sy6nqEOXWZaDO) | [Classe Moyenne](https://open.spotify.com/artist/4MStgkjCDOLFVmyMMmUo9v), [Gabriel Fredette](https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4), [Justin Roy](https://open.spotify.com/artist/0fQlhpsdr8Qg3w1PDQ7xIc), [Phil Rxcket](https://open.spotify.com/artist/6WvhHcxi6ddlrEoaeYrRVt), [Zach Chico](https://open.spotify.com/artist/3vBQx85S7A8c09r9FATr37) | [Tout ce qui compte](https://open.spotify.com/album/42mi3DpqsjtKTrm4IvX2MU) | 2:26 | 2025-11-07 | 2026-02-09 |
-| [Mères](https://open.spotify.com/track/3oT9wRGegiAcMp8T798k4e) | [Ingrid St\-Pierre](https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w) | [Mères](https://open.spotify.com/album/6QMvif9c8hUCi2Vp8dz7BY) | 4:33 | 2022-09-23 |  |
+| [Mères](https://open.spotify.com/track/3oT9wRGegiAcMp8T798k4e) | [Ingrid St\-Pierre](https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w) | [Mères](https://open.spotify.com/album/6QMvif9c8hUCi2Vp8dz7BY) | 4:33 | 2022-09-23 | 2026-04-14 |
 | [Mélancolie](https://open.spotify.com/track/7sybHzhjxg2vqSVBCY4u7t) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Mélancolie](https://open.spotify.com/album/6GBos4tSuQ5btdAosIyvxA) | 2:42 | 2021-01-15 | 2022-04-16 |
 | [Métamorphose](https://open.spotify.com/track/7mBKtspKXvQSUZZZqjsSYR) | [Émile Bilodeau](https://open.spotify.com/artist/0q9gV5iFHokttrI4WBuRQu) | [Métamorphose](https://open.spotify.com/album/0QmmTp77ovJzMPXW78pNvb) | 3:08 | 2021-08-17 | 2021-10-02 |
 | [Même les loups versent des larmes de joie](https://open.spotify.com/track/0CwmdepOxdzJuRwtRVbmVi) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Louis\-Jean Cormier](https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G) | [1969](https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q) | 4:11 | 2022-04-15 | 2026-01-15 |
@@ -441,6 +441,7 @@
 | [Quand je pleure, je suis content](https://open.spotify.com/track/4Snl6VOCsYVWp0UMKHJwtC) | [Velours Velours](https://open.spotify.com/artist/1DXXGN22iihmr6gKcYwuWg) | [Quand je pleure, je suis content](https://open.spotify.com/album/3opSlIcz0GrsvjdOPWcFsc) | 3:37 | 2025-01-31 |  |
 | [Quand je vivrai](https://open.spotify.com/track/0FrojbNAzWO7OAVPCpnh1V) | [Edgar Bori](https://open.spotify.com/artist/0CK3dcbuqup5VhYfsp2WOA) | [Quand je vivrai](https://open.spotify.com/album/4ed6WpS99PHH6ZLIaH9NyH) | 4:12 | 2021-03-08 | 2021-10-16 |
 | [Quatre nuages](https://open.spotify.com/track/06kiLCDL8nl4cbrBbz6ktz) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Sessions de mai](https://open.spotify.com/album/5gxIvKHzRZAYXR2UDVpUHQ) | 2:23 | 2021-01-03\* | 2021-12-18 |
+| [Que ta lumière](https://open.spotify.com/track/7HnHrPmhNbpj7Dim9MhoiD) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Que ta lumière](https://open.spotify.com/album/6s980Fk6p3ZTq8obc8QWVO) | 3:52 | 2026-04-10 |  |
 | [Quelque chose de beau](https://open.spotify.com/track/2SAAhzhAr2zntNxLIvD0wf) | [Catherine Durand](https://open.spotify.com/artist/5AmMLTm7GBQ5AHCGioFshD) | [Quelque chose de beau](https://open.spotify.com/album/2vlQb0SMJmwhSTDsRUKD18) | 3:28 | 2022-04-08 | 2022-07-25 |
 | [Questions](https://open.spotify.com/track/7GHms8hXY5JGws8Fq43pEl) | [Bells Larsen](https://open.spotify.com/artist/57rcu4emHlYTTeVmmmLeIf) | [Questions](https://open.spotify.com/album/6yYAQwewuKRqopK7aLlSjU) | 4:25 | 2025-04-25 | 2025-11-13 |
 | [Qui a mis le feu](https://open.spotify.com/track/4WIpgkUySL7bkVfaX0xl04) | [Mat Vezio](https://open.spotify.com/artist/20zIZk4XpHgNPwW0Dx1O8X) | [Qui a mis le feu](https://open.spotify.com/album/7devaNGpSc9fBF5GzZuw6W) | 2:51 | 2021-10-31 | 2025-08-30 |

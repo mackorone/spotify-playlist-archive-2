@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "admPAAAAAACSQMRc0vcy4em/C5aAM4bY",
+  "snapshot_id": "adrggAAAAADYZuPpfit6yfOBFUYgtLPL",
   "tracks": [
     {
       "added_at": null,
@@ -263,6 +263,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Daniela Ara\u00fajo",
+        "url": "https://open.spotify.com/album/3Zf565n9xral9OaJJ0VVVQ"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 249104,
+      "name": "De Deus",
+      "url": "https://open.spotify.com/track/7lRK2khEH6AmGActHV3he9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Principio (Ao Vivo)",
         "url": "https://open.spotify.com/album/0oMeqnwjAgZJhl2mTyi31c"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 254880,
       "name": "Verdade (feat. Daniela Ara\u00fajo) - Ao Vivo",
       "url": "https://open.spotify.com/track/0RDOvpozDFHUxtwsQInnTZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Daniela Ara\u00fajo",
-        "url": "https://open.spotify.com/album/3Zf565n9xral9OaJJ0VVVQ"
-      },
-      "artists": [
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 249104,
-      "name": "De Deus",
-      "url": "https://open.spotify.com/track/7lRK2khEH6AmGActHV3he9"
     },
     {
       "added_at": null,
@@ -343,6 +343,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Daniela Ara\u00fajo",
+        "url": "https://open.spotify.com/album/3Zf565n9xral9OaJJ0VVVQ"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 261972,
+      "name": "Jugo Suave",
+      "url": "https://open.spotify.com/track/0RMiTd0mlAeSK94yk3BHKj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Principio (Ao Vivo)",
         "url": "https://open.spotify.com/album/0oMeqnwjAgZJhl2mTyi31c"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 466146,
       "name": "Princ\u00edpio e Fim (feat. Daniela Ara\u00fajo) - Ao Vivo",
       "url": "https://open.spotify.com/track/3iY9VoEriJIkF7IwHZDIaM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Daniela Ara\u00fajo",
-        "url": "https://open.spotify.com/album/3Zf565n9xral9OaJJ0VVVQ"
-      },
-      "artists": [
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 261972,
-      "name": "Jugo Suave",
-      "url": "https://open.spotify.com/track/0RMiTd0mlAeSK94yk3BHKj"
     },
     {
       "added_at": null,
@@ -723,6 +723,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Catarse: Lado A",
+        "url": "https://open.spotify.com/album/0S4YR4nYhn8jPcQ6c2m1qB"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 280521,
+      "name": "Esperan\u00e7a",
+      "url": "https://open.spotify.com/track/3tYbGa6Ns57fZyRgvMXPAB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Redentor",
         "url": "https://open.spotify.com/album/3S1PFd7sRDeUp26MpftkTn"
       },
@@ -743,42 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Farol",
-        "url": "https://open.spotify.com/album/0ktvXrUoZnV7OB8AH288ww"
-      },
-      "artists": [
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        },
-        {
-          "name": "Pedro Henrique",
-          "url": "https://open.spotify.com/artist/5z5z7mb9JYMVdmi4Lfnu0t"
-        }
-      ],
-      "duration_ms": 238363,
-      "name": "Farol",
-      "url": "https://open.spotify.com/track/2IKyipS7Mij4KcH1QnTEEY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Catarse: Lado A",
-        "url": "https://open.spotify.com/album/0S4YR4nYhn8jPcQ6c2m1qB"
-      },
-      "artists": [
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 280521,
-      "name": "Esperan\u00e7a",
-      "url": "https://open.spotify.com/track/3tYbGa6Ns57fZyRgvMXPAB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gra\u00e7a",
         "url": "https://open.spotify.com/album/4EZWRLZ7fYQPeLLGfUTaCU"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 216533,
       "name": "Assim Eu Sou (feat. Daniela Ara\u00fajo)",
       "url": "https://open.spotify.com/track/4vmzoCSKD2LQGzaA7TojH6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Farol",
+        "url": "https://open.spotify.com/album/0ktvXrUoZnV7OB8AH288ww"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        },
+        {
+          "name": "Pedro Henrique",
+          "url": "https://open.spotify.com/artist/5z5z7mb9JYMVdmi4Lfnu0t"
+        }
+      ],
+      "duration_ms": 238363,
+      "name": "Farol",
+      "url": "https://open.spotify.com/track/2IKyipS7Mij4KcH1QnTEEY"
     },
     {
       "added_at": null,

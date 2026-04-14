@@ -4,7 +4,7 @@
 
 > 차분하고 감성적인 음악들과 함께 편안한 밤 되세요 :\) \(Listen to K\-Pop sleeping songs\)
 
-174 songs - 10 hr 47 min
+176 songs - 10 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [glow](https://open.spotify.com/track/0mAUb2FmExBeOgERHkKRBx) | [Hong Chan\-Mee](https://open.spotify.com/artist/5bpuTuhEth21tR7TEllKES) | [glow](https://open.spotify.com/album/4sYaP5XFDYivxluzI65dgj) | 4:54 | 2025-12-03 | 2026-01-15 |
 | [Going home](https://open.spotify.com/track/6rnHkf4EUMA9HWWsHEuLYh) | [Lucia](https://open.spotify.com/artist/3VHFAtB6fPQwpAWQ5rn4uc) | [Beautiful Now \(Original Television Soundtrack\) Pt\. 8](https://open.spotify.com/album/47BJR3AeDuXKNUewXf1OAq) | 3:33 | 2023-11-03 | 2025-10-27 |
 | [Going Home](https://open.spotify.com/track/4tHETrzVBsR50PKRmw9yZA) | [sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Call It Love, Part 3 \(Original Soundtrack from the Disney+ Original Series\)](https://open.spotify.com/album/6nymfoD8cwhnm1jMkuHvI2) | 4:57 | 2023-11-03 |  |
+| [Good Night](https://open.spotify.com/track/56g0pywLGKZQy0oIVqWhtt) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [The 1st](https://open.spotify.com/album/0EFZBkjjV3lDlqPAM8XDhs) | 4:35 | 2026-04-13 |  |
 | [Good Night](https://open.spotify.com/track/1KPgxV8aJDJh26Z3Ff7N5p) | [HEN](https://open.spotify.com/artist/3Cit2bKhLzwUJPmP6jnXDC) | [Your Letter \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4jds8P9MpsOKTJzmBXCMM1) | 3:12 | 2026-01-13 |  |
 | [Good Night](https://open.spotify.com/track/1uf2hC3k0lHokAuwdUAIEZ) | [Slowcity](https://open.spotify.com/artist/47ihvylvlBiMq6F5GBGeif) | [Good Night](https://open.spotify.com/album/66jcalDfukwwC85IUvWwvZ) | 3:51 | 2024-03-08 | 2024-08-20 |
 | [Goodbye](https://open.spotify.com/track/5hG9erX5epfASjh5ZNJZV1) | [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Reminiscence](https://open.spotify.com/album/1pFBI4pUiXq7Li4Y5uK6gn) | 4:13 | 2024-01-08 | 2024-04-19 |
@@ -117,7 +118,8 @@
 | [One Confess](https://open.spotify.com/track/5vzGjOGXJQcefc3JqopL2X) | [soon](https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW) | [One Confess \(Original Soundtrack from Hear Me: Our Summer\)](https://open.spotify.com/album/4lspmWfRe38Gyt12UoBQ0Q) | 2:48 | 2025-06-23 |  |
 | [One of Those Nights \(with seolim\)](https://open.spotify.com/track/3bDhXnVVPE20CYkZdgk5QV) | [JeongSaebyeok](https://open.spotify.com/artist/4IGJKsSWf3d8o5Qd1NyOs7), [seolim](https://open.spotify.com/artist/3WRKmOTYMBYLPqqzjWBtcQ) | [One of Those Nights \(with seolim\)](https://open.spotify.com/album/2YHLp2W48Z8wDCuI2YhlZi) | 2:29 | 2025-06-23 | 2025-08-13 |
 | [ONGI \(Warmth\)](https://open.spotify.com/track/3MEaqIYpWxPO30o87Pq8AG) | [Kim Boogyeong](https://open.spotify.com/artist/0C7Ij4sLjSJFlbOUq8POVs) | [ONGI \(Warmth\)](https://open.spotify.com/album/4CqQGQCrm0S9iHFhTwHYeD) | 4:52 | 2026-01-26 | 2026-03-13 |
-| [Our Season](https://open.spotify.com/track/0rnr4jI4qTZ6pUoi9Lmlbf) | [Son Hyeeun](https://open.spotify.com/artist/1ymkZBkFqc6sOP2d84mWAJ) | [Our Season](https://open.spotify.com/album/1gltA7mMAzVSqI65XNroCz) | 4:13 | 2026-03-23 |  |
+| [Our Season](https://open.spotify.com/track/0rnr4jI4qTZ6pUoi9Lmlbf) | [Son Hyeeun](https://open.spotify.com/artist/1ymkZBkFqc6sOP2d84mWAJ) | [Our Season](https://open.spotify.com/album/1gltA7mMAzVSqI65XNroCz) | 4:13 | 2026-03-23 | 2026-04-14 |
+| [Palette](https://open.spotify.com/track/52kQKfPaXI4MBmTdoKnFMI) | [JIYE](https://open.spotify.com/artist/4JlouH5mKVum9f0eaQuUzC) | [Palette](https://open.spotify.com/album/1R7AfZqH3JooDi9gPBm9ic) | 3:14 | 2026-04-13 |  |
 | [Perhaps here](https://open.spotify.com/track/7DyJ2hn51jaHlmEm3ik5rQ) | [Kim Do Yeon](https://open.spotify.com/artist/1pUCZRd6GiVJTcQncoZmSF) | [Perhaps here](https://open.spotify.com/album/48H2QWLMT5SmjwoL0k5LIs) | 2:49 | 2025-12-03 | 2026-01-27 |
 | [Prayers of a Hedgehog](https://open.spotify.com/track/2mUleIbjQ4nuVn9Cro8J0C) | [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Adventure](https://open.spotify.com/album/4i6gtCu9JPnMSRGPmOLpF2) | 3:24 | 2025-04-14 | 2026-04-05 |
 | [Reaching Out](https://open.spotify.com/track/64y6OvECapX4cnYDcGHN38) | [Kwon Soonkwan](https://open.spotify.com/artist/4QLDKHOPL4cISjOBek1ZP7) | [Wanderer](https://open.spotify.com/album/6sY3pgG7bthsE3YCyJ7a28) | 3:48 | 2025-07-28 | 2025-10-14 |
@@ -150,7 +152,7 @@
 | [The Night Time \(stripped\)](https://open.spotify.com/track/1TPwouflbk2VA3RDCMx7IR) | [Krr](https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7) | [Closet](https://open.spotify.com/album/65GDFnpQfc5tPaRVrelMM6) | 3:22 | 2024-11-29 | 2025-07-01 |
 | [The Two Words](https://open.spotify.com/track/7lSoXYQ3kWspAaiOC2kJUJ) | [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [The Two Words](https://open.spotify.com/album/6kynmkcBqVJzfbnT2CdW6z) | 3:00 | 2026-01-26 | 2026-02-24 |
 | [They say, that is the love](https://open.spotify.com/track/5Nr9gmv0Y6PlY2GnooFDzN) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Knock](https://open.spotify.com/album/0BtqrZfG23yUBgYVzL8yhm) | 3:44 | 2024-07-15 |  |
-| [Think of you](https://open.spotify.com/track/0Kqo9anVqMcBzteQuckTSG) | [Jo SoJeong](https://open.spotify.com/artist/132BPeZOhapfWxSIOR974P) | [A diary for me](https://open.spotify.com/album/4mCg1CLKYrvDN5pHBZcMi1) | 3:14 | 2026-03-23 |  |
+| [Think of you](https://open.spotify.com/track/0Kqo9anVqMcBzteQuckTSG) | [Jo SoJeong](https://open.spotify.com/artist/132BPeZOhapfWxSIOR974P) | [A diary for me](https://open.spotify.com/album/4mCg1CLKYrvDN5pHBZcMi1) | 3:14 | 2026-03-23 | 2026-04-14 |
 | [To eunbi](https://open.spotify.com/track/0MEpiC2Qa5IN1IpNkifI2x) | [n@di](https://open.spotify.com/artist/2vA4UiJVgTWHeYzk3j4ugI) | [A Form Of Love](https://open.spotify.com/album/4AQrjSk8NraBpI0lWkmzV8) | 2:47 | 2025-05-26 |  |
 | [To My Beloved](https://open.spotify.com/track/1UL1Xm1RRo2SZqVJ2lzS33) | [Kuonechan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [To My Beloved](https://open.spotify.com/album/39Bql5WDBY9VfIMhMf7CQn) | 3:16 | 2025-05-12 | 2025-11-11 |
 | [universe](https://open.spotify.com/track/60uVTCslbHChF3XLXn8st9) | [615](https://open.spotify.com/artist/1R2KUW45CEHkpv8fAgPADp) | [I dreamed we were going on a trip](https://open.spotify.com/album/2aQHNxvWJZOQUrqz8UR3cb) | 3:23 | 2025-04-28 | 2025-06-18 |

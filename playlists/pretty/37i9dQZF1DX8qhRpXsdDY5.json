@@ -1,6 +1,6 @@
 {
   "description": "Beloved Latin classics to get you in the Christmas spirit. Cover: Luis Miguel",
-  "num_followers": 235059,
+  "num_followers": 235046,
   "original_name": "Latin Christmas Classics",
   "owner": {
     "name": "Spotify",
@@ -535,22 +535,6 @@
     {
       "added_at": "2025-12-04 18:43:31",
       "album": {
-        "name": "Christmas Through Your Eyes",
-        "url": "https://open.spotify.com/album/6E6TrU7oUDqYXgpkyOJYnf"
-      },
-      "artists": [
-        {
-          "name": "Gloria Estefan",
-          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
-        }
-      ],
-      "duration_ms": 234133,
-      "name": "Arbolito de Navidad",
-      "url": "https://open.spotify.com/track/4GUkYV8IMQiEsliScEZ0jf"
-    },
-    {
-      "added_at": "2025-12-04 18:43:31",
-      "album": {
         "name": "Asi Soy...",
         "url": "https://open.spotify.com/album/0kzj1twqOvvdZHc9VElEpR"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 304520,
       "name": "Cantares de Navidad",
       "url": "https://open.spotify.com/track/6aqXCQOtMuKbpdE5OdIsK9"
+    },
+    {
+      "added_at": "2025-12-04 18:43:31",
+      "album": {
+        "name": "Christmas Through Your Eyes",
+        "url": "https://open.spotify.com/album/6E6TrU7oUDqYXgpkyOJYnf"
+      },
+      "artists": [
+        {
+          "name": "Gloria Estefan",
+          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+        }
+      ],
+      "duration_ms": 234133,
+      "name": "Arbolito de Navidad",
+      "url": "https://open.spotify.com/track/4GUkYV8IMQiEsliScEZ0jf"
     },
     {
       "added_at": "2025-12-04 18:43:31",

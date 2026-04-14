@@ -320,7 +320,7 @@
       ],
       "date_added": "2025-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 232670,
       "name": "Breath",
       "url": "https://open.spotify.com/track/5r3nfTCyrc3KzNexD5pXyU"
@@ -698,6 +698,24 @@
       "duration_ms": 218825,
       "name": "Don't Forget",
       "url": "https://open.spotify.com/track/7cMJVlv5jtXND1Qtk17eQK"
+    },
+    {
+      "album": {
+        "name": "Don't Overthink It",
+        "url": "https://open.spotify.com/album/3M85KK54B4H4y58MnQtb0O"
+      },
+      "artists": [
+        {
+          "name": "Choi Jungyoon",
+          "url": "https://open.spotify.com/artist/1jpRO6feBr1rjOCSHzu3Xi"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178353,
+      "name": "Don't Overthink It",
+      "url": "https://open.spotify.com/track/6Z6CMUIngqTpjckxZUTlwI"
     },
     {
       "album": {
@@ -1708,7 +1726,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 229867,
       "name": "Linger On",
       "url": "https://open.spotify.com/track/6foDgrZtjOAJektiejSJI3"
@@ -2274,7 +2292,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 174000,
       "name": "Shine On Me",
       "url": "https://open.spotify.com/track/33E0yeNVzEthiYFe0HBMEu"
@@ -2574,6 +2592,24 @@
       "duration_ms": 193000,
       "name": "The Moments",
       "url": "https://open.spotify.com/track/464diat2OMMnSutMSOuQXU"
+    },
+    {
+      "album": {
+        "name": "The First Album, Pt.1 'The Road'",
+        "url": "https://open.spotify.com/album/0ttQCf2MsPptQLbEFQV1sx"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246203,
+      "name": "the Road",
+      "url": "https://open.spotify.com/track/6sZHwnDbiGcCuGsRJgx86s"
     },
     {
       "album": {
@@ -3398,6 +3434,24 @@
       "duration_ms": 179026,
       "name": "\uc218\uace0\ud588\uc5b4, \uc624\ub298\ub3c4 Cheer Up",
       "url": "https://open.spotify.com/track/74S870utHcrils7QiOw0Jh"
+    },
+    {
+      "album": {
+        "name": "\uc5b4\uca4c\uba74 \uc704\ub85c\uac00 \ud544\uc694\ud588\ub358 \uc6b0\ub9ac",
+        "url": "https://open.spotify.com/album/3Hz5y3rlO5IzTpjreiPXel"
+      },
+      "artists": [
+        {
+          "name": "20 Years of Age",
+          "url": "https://open.spotify.com/artist/0KaZcu3pEVHfYOnB62eLFp"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207770,
+      "name": "\uc5b4\uca4c\uba74 \uc704\ub85c\uac00 \ud544\uc694\ud588\ub358 \uc6b0\ub9ac",
+      "url": "https://open.spotify.com/track/7HAkBMBowuYWs0uKn0uuLq"
     },
     {
       "album": {

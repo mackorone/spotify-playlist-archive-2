@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco! Foto: Day Limns",
-  "num_followers": 362746,
+  "num_followers": 362706,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -39,6 +39,22 @@
     {
       "added_at": "2026-04-10 03:00:33",
       "album": {
+        "name": "CHARME",
+        "url": "https://open.spotify.com/album/52UMGPQVJjiXH8Md6byhwh"
+      },
+      "artists": [
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "CHARME",
+      "url": "https://open.spotify.com/track/2saiiXH63lUebPVEFf0Ysa"
+    },
+    {
+      "added_at": "2026-04-10 03:00:33",
+      "album": {
         "name": "Sa\u00ed para ver o mar",
         "url": "https://open.spotify.com/album/2eHFDRyLAzE0XvfFniWO5O"
       },
@@ -55,22 +71,6 @@
       "duration_ms": 191810,
       "name": "Sa\u00ed para ver o mar",
       "url": "https://open.spotify.com/track/3IFWQxX0TlPCKlyju1kAHB"
-    },
-    {
-      "added_at": "2026-04-10 03:00:33",
-      "album": {
-        "name": "CHARME",
-        "url": "https://open.spotify.com/album/52UMGPQVJjiXH8Md6byhwh"
-      },
-      "artists": [
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "CHARME",
-      "url": "https://open.spotify.com/track/2saiiXH63lUebPVEFf0Ysa"
     },
     {
       "added_at": "2026-04-10 03:00:33",
@@ -367,18 +367,18 @@
     {
       "added_at": "2026-04-10 03:00:33",
       "album": {
-        "name": "Clube dos Cora\u00e7\u00f5es Partidos",
-        "url": "https://open.spotify.com/album/5d7BXUEK9UPxdWYEP2KCXI"
+        "name": "Tudo o que eu preciso",
+        "url": "https://open.spotify.com/album/4qgcTa8MFq2CTcY39Wlftz"
       },
       "artists": [
         {
-          "name": "Isa Buzzi",
-          "url": "https://open.spotify.com/artist/1upZO7ZfMNrTqqrjx4blBP"
+          "name": "Ana Laura Lopes",
+          "url": "https://open.spotify.com/artist/0uGD30yANzeWbNUAQoiJF2"
         }
       ],
-      "duration_ms": 170286,
-      "name": "Eu Nunca Mais Vou Amar Algu\u00e9m",
-      "url": "https://open.spotify.com/track/6VE2oWkB36snXifzNHG6o2"
+      "duration_ms": 182064,
+      "name": "Tudo o que eu preciso",
+      "url": "https://open.spotify.com/track/6EuZGtqXcAfejal7Ghvtrw"
     },
     {
       "added_at": "2026-04-10 03:00:33",
@@ -399,18 +399,18 @@
     {
       "added_at": "2026-04-10 03:00:33",
       "album": {
-        "name": "a1",
-        "url": "https://open.spotify.com/album/5EjBxXVoDbjeC99fDJ3cca"
+        "name": "Clube dos Cora\u00e7\u00f5es Partidos",
+        "url": "https://open.spotify.com/album/5d7BXUEK9UPxdWYEP2KCXI"
       },
       "artists": [
         {
-          "name": "Clau",
-          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
+          "name": "Isa Buzzi",
+          "url": "https://open.spotify.com/artist/1upZO7ZfMNrTqqrjx4blBP"
         }
       ],
-      "duration_ms": 183210,
-      "name": "a1",
-      "url": "https://open.spotify.com/track/6hUeReosw7wnQ2EMit2Rgk"
+      "duration_ms": 170286,
+      "name": "Eu Nunca Mais Vou Amar Algu\u00e9m",
+      "url": "https://open.spotify.com/track/6VE2oWkB36snXifzNHG6o2"
     },
     {
       "added_at": "2026-04-10 03:00:33",
@@ -439,6 +439,22 @@
     {
       "added_at": "2026-04-10 03:00:33",
       "album": {
+        "name": "a1",
+        "url": "https://open.spotify.com/album/5EjBxXVoDbjeC99fDJ3cca"
+      },
+      "artists": [
+        {
+          "name": "Clau",
+          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
+        }
+      ],
+      "duration_ms": 183210,
+      "name": "a1",
+      "url": "https://open.spotify.com/track/6hUeReosw7wnQ2EMit2Rgk"
+    },
+    {
+      "added_at": "2026-04-10 03:00:33",
+      "album": {
         "name": "Solst\u00edcio",
         "url": "https://open.spotify.com/album/2WHyCLLfvbNYVO4sqmdzsn"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 146086,
       "name": "FAL",
       "url": "https://open.spotify.com/track/4Rs3vSQPDnvnQBmbw9pVY6"
-    },
-    {
-      "added_at": "2026-04-10 03:00:33",
-      "album": {
-        "name": "Tudo o que eu preciso",
-        "url": "https://open.spotify.com/album/4qgcTa8MFq2CTcY39Wlftz"
-      },
-      "artists": [
-        {
-          "name": "Ana Laura Lopes",
-          "url": "https://open.spotify.com/artist/0uGD30yANzeWbNUAQoiJF2"
-        }
-      ],
-      "duration_ms": 182064,
-      "name": "Tudo o que eu preciso",
-      "url": "https://open.spotify.com/track/6EuZGtqXcAfejal7Ghvtrw"
     },
     {
       "added_at": "2026-04-10 03:00:33",
@@ -599,26 +599,6 @@
     {
       "added_at": "2026-04-10 03:00:33",
       "album": {
-        "name": "No Mar",
-        "url": "https://open.spotify.com/album/0UIt3RBifk0pziphGUHL2i"
-      },
-      "artists": [
-        {
-          "name": "J\u00e1der",
-          "url": "https://open.spotify.com/artist/4kZNQjkGZ4VVovVaFvE1xa"
-        },
-        {
-          "name": "Tot\u00f4 de Babalong",
-          "url": "https://open.spotify.com/artist/0zsgeSGGHL9FLxTBcfNd2x"
-        }
-      ],
-      "duration_ms": 171194,
-      "name": "No Mar",
-      "url": "https://open.spotify.com/track/3Wc384GdmbSP2XQGRGrZHh"
-    },
-    {
-      "added_at": "2026-04-10 03:00:33",
-      "album": {
         "name": "sinto saudade",
         "url": "https://open.spotify.com/album/3uFcpiMyVsArsCE7rH6pvk"
       },
@@ -639,6 +619,26 @@
     {
       "added_at": "2026-04-10 03:00:33",
       "album": {
+        "name": "No Mar",
+        "url": "https://open.spotify.com/album/0UIt3RBifk0pziphGUHL2i"
+      },
+      "artists": [
+        {
+          "name": "J\u00e1der",
+          "url": "https://open.spotify.com/artist/4kZNQjkGZ4VVovVaFvE1xa"
+        },
+        {
+          "name": "Tot\u00f4 de Babalong",
+          "url": "https://open.spotify.com/artist/0zsgeSGGHL9FLxTBcfNd2x"
+        }
+      ],
+      "duration_ms": 171194,
+      "name": "No Mar",
+      "url": "https://open.spotify.com/track/3Wc384GdmbSP2XQGRGrZHh"
+    },
+    {
+      "added_at": "2026-04-10 03:00:33",
+      "album": {
         "name": "quanto tempo tem o tempo?",
         "url": "https://open.spotify.com/album/7b1YzXAPmBZQA7ygrtQueI"
       },
@@ -655,22 +655,6 @@
     {
       "added_at": "2026-04-10 03:00:33",
       "album": {
-        "name": "vou dar",
-        "url": "https://open.spotify.com/album/6nzC1iVoGmATyDJu9BRH4n"
-      },
-      "artists": [
-        {
-          "name": "Clau",
-          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
-        }
-      ],
-      "duration_ms": 143018,
-      "name": "vou dar",
-      "url": "https://open.spotify.com/track/6YNmbPdo0ofu27ODq8BRUJ"
-    },
-    {
-      "added_at": "2026-04-10 03:00:33",
-      "album": {
         "name": "Desassossego",
         "url": "https://open.spotify.com/album/7n2v4Z2PxSF3CRKhkM4PPy"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 176409,
       "name": "Desassossego",
       "url": "https://open.spotify.com/track/069xpAmTWaJphQGAn2N7hE"
+    },
+    {
+      "added_at": "2026-04-10 03:00:33",
+      "album": {
+        "name": "vou dar",
+        "url": "https://open.spotify.com/album/6nzC1iVoGmATyDJu9BRH4n"
+      },
+      "artists": [
+        {
+          "name": "Clau",
+          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
+        }
+      ],
+      "duration_ms": 143018,
+      "name": "vou dar",
+      "url": "https://open.spotify.com/track/6YNmbPdo0ofu27ODq8BRUJ"
     },
     {
       "added_at": "2026-04-10 03:00:33",
@@ -739,6 +739,26 @@
     {
       "added_at": "2026-04-10 03:00:33",
       "album": {
+        "name": "Quero Sim, Quero N\u00e3o",
+        "url": "https://open.spotify.com/album/2um01h8pO8SjvJA6EbaTWs"
+      },
+      "artists": [
+        {
+          "name": "Laura Schadeck",
+          "url": "https://open.spotify.com/artist/6392rGyL1AYvMtt70GIqWS"
+        },
+        {
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+        }
+      ],
+      "duration_ms": 138282,
+      "name": "Quero Sim, Quero N\u00e3o",
+      "url": "https://open.spotify.com/track/0P5454OX0xDqbkOw4t4NnB"
+    },
+    {
+      "added_at": "2026-04-10 03:00:33",
+      "album": {
         "name": "MEU FI",
         "url": "https://open.spotify.com/album/0Hlp4I7AHtMabfVEtA8pi7"
       },
@@ -759,26 +779,6 @@
       "duration_ms": 161343,
       "name": "MEU FI",
       "url": "https://open.spotify.com/track/2g2jgVqx4Bn7SLCAM2EPsP"
-    },
-    {
-      "added_at": "2026-04-10 03:00:33",
-      "album": {
-        "name": "Quero Sim, Quero N\u00e3o",
-        "url": "https://open.spotify.com/album/2um01h8pO8SjvJA6EbaTWs"
-      },
-      "artists": [
-        {
-          "name": "Laura Schadeck",
-          "url": "https://open.spotify.com/artist/6392rGyL1AYvMtt70GIqWS"
-        },
-        {
-          "name": "CANETARIA",
-          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
-        }
-      ],
-      "duration_ms": 138282,
-      "name": "Quero Sim, Quero N\u00e3o",
-      "url": "https://open.spotify.com/track/0P5454OX0xDqbkOw4t4NnB"
     },
     {
       "added_at": "2026-04-10 03:00:33",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-04-10 03:00:33",
       "album": {
-        "name": "MUCHO SEXY - ASTRO SESSIONS",
-        "url": "https://open.spotify.com/album/5U4BednDs0GNo5B0eYTcNC"
-      },
-      "artists": [
-        {
-          "name": "Mia Badgyal",
-          "url": "https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc"
-        }
-      ],
-      "duration_ms": 144427,
-      "name": "ATITUDE",
-      "url": "https://open.spotify.com/track/2ISptglwFfnB0x3x5c47fd"
-    },
-    {
-      "added_at": "2026-04-10 03:00:33",
-      "album": {
         "name": "G\u00caMEOS EM G\u00caMEOS",
         "url": "https://open.spotify.com/album/7mV6fLMgnTZkBQQ8e7PfcB"
       },
@@ -911,6 +895,22 @@
     {
       "added_at": "2026-04-10 03:00:33",
       "album": {
+        "name": "MUCHO SEXY - ASTRO SESSIONS",
+        "url": "https://open.spotify.com/album/5U4BednDs0GNo5B0eYTcNC"
+      },
+      "artists": [
+        {
+          "name": "Mia Badgyal",
+          "url": "https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc"
+        }
+      ],
+      "duration_ms": 144427,
+      "name": "ATITUDE",
+      "url": "https://open.spotify.com/track/2ISptglwFfnB0x3x5c47fd"
+    },
+    {
+      "added_at": "2026-04-10 03:00:33",
+      "album": {
         "name": "SAUDADE NUNCA \u00c9 DE GRA\u00c7A",
         "url": "https://open.spotify.com/album/0d7XWCHJkT3aPtVt1BLDKS"
       },
@@ -927,6 +927,22 @@
       "duration_ms": 174250,
       "name": "SAUDADE NUNCA \u00c9 DE GRA\u00c7A",
       "url": "https://open.spotify.com/track/7r8wOSXABuVgD0z9ABWey1"
+    },
+    {
+      "added_at": "2026-04-10 03:00:33",
+      "album": {
+        "name": "Manh\u00e3 de Sol",
+        "url": "https://open.spotify.com/album/3112UESU5WJFX24ulal6XM"
+      },
+      "artists": [
+        {
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+        }
+      ],
+      "duration_ms": 181666,
+      "name": "Manh\u00e3 de Sol",
+      "url": "https://open.spotify.com/track/6IK8FcpWZ1j6VJvAqnjH0g"
     },
     {
       "added_at": "2026-04-10 03:00:33",
@@ -963,22 +979,6 @@
       "duration_ms": 165000,
       "name": "Mar de Rosas",
       "url": "https://open.spotify.com/track/0jqfLFMPSPXpWWDyJaErVP"
-    },
-    {
-      "added_at": "2026-04-10 03:00:33",
-      "album": {
-        "name": "Manh\u00e3 de Sol",
-        "url": "https://open.spotify.com/album/3112UESU5WJFX24ulal6XM"
-      },
-      "artists": [
-        {
-          "name": "Doral",
-          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
-        }
-      ],
-      "duration_ms": 181666,
-      "name": "Manh\u00e3 de Sol",
-      "url": "https://open.spotify.com/track/6IK8FcpWZ1j6VJvAqnjH0g"
     },
     {
       "added_at": "2026-04-10 03:00:33",
@@ -1071,26 +1071,6 @@
     {
       "added_at": "2026-04-10 03:00:33",
       "album": {
-        "name": "Vida N\u00e3o Termina",
-        "url": "https://open.spotify.com/album/6BL1tDNtD5KKwVazuYgbss"
-      },
-      "artists": [
-        {
-          "name": "Pinotti",
-          "url": "https://open.spotify.com/artist/1IHCpTo50InaIDRqX54B1x"
-        },
-        {
-          "name": "Helena Serena",
-          "url": "https://open.spotify.com/artist/1pxvtinDP1BbdZGKSc7sE4"
-        }
-      ],
-      "duration_ms": 185333,
-      "name": "Vida N\u00e3o Termina",
-      "url": "https://open.spotify.com/track/7rxzphWZZtbafKVESNRpbi"
-    },
-    {
-      "added_at": "2026-04-10 03:00:33",
-      "album": {
         "name": "Eu \u00c5doro",
         "url": "https://open.spotify.com/album/5VS4W67U1VxG3qMGMFSMdW"
       },
@@ -1115,6 +1095,26 @@
       "duration_ms": 157347,
       "name": "Eu \u00c5doro",
       "url": "https://open.spotify.com/track/1VlgDdol500DOKk0H4xu7d"
+    },
+    {
+      "added_at": "2026-04-10 03:00:33",
+      "album": {
+        "name": "Vida N\u00e3o Termina",
+        "url": "https://open.spotify.com/album/6BL1tDNtD5KKwVazuYgbss"
+      },
+      "artists": [
+        {
+          "name": "Pinotti",
+          "url": "https://open.spotify.com/artist/1IHCpTo50InaIDRqX54B1x"
+        },
+        {
+          "name": "Helena Serena",
+          "url": "https://open.spotify.com/artist/1pxvtinDP1BbdZGKSc7sE4"
+        }
+      ],
+      "duration_ms": 185333,
+      "name": "Vida N\u00e3o Termina",
+      "url": "https://open.spotify.com/track/7rxzphWZZtbafKVESNRpbi"
     },
     {
       "added_at": "2026-04-10 03:00:33",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2026-04-10 03:00:33",
       "album": {
-        "name": "Ecos do Desejo",
-        "url": "https://open.spotify.com/album/1D3f4CkQe0gklHKKxffj9C"
-      },
-      "artists": [
-        {
-          "name": "Mariana Coelho",
-          "url": "https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv"
-        }
-      ],
-      "duration_ms": 146538,
-      "name": "Noites de Neon",
-      "url": "https://open.spotify.com/track/427JHB9CmpmxSten7B2isW"
-    },
-    {
-      "added_at": "2026-04-10 03:00:33",
-      "album": {
         "name": "MOVEDI\u00c7A II",
         "url": "https://open.spotify.com/album/20bkV5MFa22V3Zq1QqkJ96"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 146776,
       "name": "AKO\u00c7A",
       "url": "https://open.spotify.com/track/3z8aghokqoqjtLXsUS0H4H"
+    },
+    {
+      "added_at": "2026-04-10 03:00:33",
+      "album": {
+        "name": "Ecos do Desejo",
+        "url": "https://open.spotify.com/album/1D3f4CkQe0gklHKKxffj9C"
+      },
+      "artists": [
+        {
+          "name": "Mariana Coelho",
+          "url": "https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv"
+        }
+      ],
+      "duration_ms": 146538,
+      "name": "Noites de Neon",
+      "url": "https://open.spotify.com/track/427JHB9CmpmxSten7B2isW"
     },
     {
       "added_at": "2026-04-10 03:00:33",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2026-04-10 03:00:33",
       "album": {
-        "name": "Bem Bem",
-        "url": "https://open.spotify.com/album/7Ey2ShRyp0ycPL1sAS8l3l"
-      },
-      "artists": [
-        {
-          "name": "Mariana Coelho",
-          "url": "https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv"
-        }
-      ],
-      "duration_ms": 136089,
-      "name": "Bem Bem",
-      "url": "https://open.spotify.com/track/4NrrOkdXOKs1Wpwhr7iwQm"
-    },
-    {
-      "added_at": "2026-04-10 03:00:33",
-      "album": {
         "name": "DESERTO",
         "url": "https://open.spotify.com/album/4pCHTiebQ0vBR6J9rxuP3h"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 164020,
       "name": "DESERTO",
       "url": "https://open.spotify.com/track/6hEkDtfkyMDRty3HBwQAal"
+    },
+    {
+      "added_at": "2026-04-10 03:00:33",
+      "album": {
+        "name": "Bem Bem",
+        "url": "https://open.spotify.com/album/7Ey2ShRyp0ycPL1sAS8l3l"
+      },
+      "artists": [
+        {
+          "name": "Mariana Coelho",
+          "url": "https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv"
+        }
+      ],
+      "duration_ms": 136089,
+      "name": "Bem Bem",
+      "url": "https://open.spotify.com/track/4NrrOkdXOKs1Wpwhr7iwQm"
     }
   ],
   "unique_name": "Palco POP",

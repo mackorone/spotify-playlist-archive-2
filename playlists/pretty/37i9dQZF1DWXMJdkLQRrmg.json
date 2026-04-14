@@ -1,6 +1,6 @@
 {
   "description": "Rock unplugged. ",
-  "num_followers": 364887,
+  "num_followers": 364919,
   "original_name": "Stripped Down",
   "owner": {
     "name": "Spotify",
@@ -675,6 +675,26 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6XI7j88Hmfye0TXQgp0DcU"
+      },
+      "artists": [
+        {
+          "name": "Dennis Lloyd",
+          "url": "https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt"
+        },
+        {
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+        }
+      ],
+      "duration_ms": 259188,
+      "name": "Like A Stone (feat. Tom Morello) - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/6bbEWtu7bQtl5a5cZStE0z"
+    },
+    {
+      "added_at": "2024-07-05 19:40:49",
+      "album": {
         "name": "You Oughta Know (feat. Duomo & Kroma Strings)",
         "url": "https://open.spotify.com/album/4TUEOyHzjvIWimTmQWiG6V"
       },
@@ -695,26 +715,6 @@
       "duration_ms": 247899,
       "name": "You Oughta Know (feat. Duomo & Kroma Strings)",
       "url": "https://open.spotify.com/track/6NdaAfnKGJ5Z7KFrhHrYr2"
-    },
-    {
-      "added_at": "2024-07-05 19:40:49",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6XI7j88Hmfye0TXQgp0DcU"
-      },
-      "artists": [
-        {
-          "name": "Dennis Lloyd",
-          "url": "https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt"
-        },
-        {
-          "name": "Tom Morello",
-          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
-        }
-      ],
-      "duration_ms": 259188,
-      "name": "Like A Stone (feat. Tom Morello) - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/6bbEWtu7bQtl5a5cZStE0z"
     },
     {
       "added_at": "2024-07-05 19:40:49",

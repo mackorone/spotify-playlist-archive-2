@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-537 songs - 1 day 7 hr 41 min
+538 songs - 1 day 7 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,7 @@
 | [Fool](https://open.spotify.com/track/0X0vu5vvTz3hmiXY6aiVLl) | [RVE](https://open.spotify.com/artist/4xXhVe5E4Vtd9qV47tQomY) | [Fool](https://open.spotify.com/album/5HX1EOQKbgbYytFDJ5qN6e) | 3:11 | 2024-06-27 | 2024-08-09 |
 | [For Cryin' Out Loud!](https://open.spotify.com/track/5fz1rfGFT3npQUmNnu998w) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [For Cryin' Out Loud!](https://open.spotify.com/album/2nI6nzE1jBURI1jKNh22OL) | 3:37 | 2024-08-08 | 2025-01-27 |
 | [Forgetting To Forget You](https://open.spotify.com/track/4EIbkUEDikvoD1Qv7sdjdF) | [Ulf Nilsson](https://open.spotify.com/artist/2rkHn1CZIm8WSEXjVm86EV) | [Forgetting To Forget You](https://open.spotify.com/album/11EYPT9zI046s68U5vgDzn) | 2:39 | 2025-05-22 | 2025-07-25 |
-| [Forgive, Forget](https://open.spotify.com/track/72gpoH9hjA3uJJBG64nEVv) | [Kevin Walker](https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT) | [Forgive, Forget](https://open.spotify.com/album/3Rf6s8Ssci4wfPifJEoBPE) | 2:49 | 2025-07-10 |  |
+| [Forgive, Forget](https://open.spotify.com/track/72gpoH9hjA3uJJBG64nEVv) | [Kevin Walker](https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT) | [Forgive, Forget](https://open.spotify.com/album/3Rf6s8Ssci4wfPifJEoBPE) | 2:49 | 2025-07-10 | 2026-04-14 |
 | [Forserum](https://open.spotify.com/track/4Wpt5gCGT1SgDl4pW850DI) | [KUPLETTEN](https://open.spotify.com/artist/02EKOQPSOvw98jhKYtMcQa) | [Forserum](https://open.spotify.com/album/10HNlmUS1hpbCMFeDC4vmq) | 5:14 | 2024-10-10 | 2024-10-18 |
 | [Fredagskvällsblues](https://open.spotify.com/track/0VGSiDMjJOHLbEaOMba2IW) | [Anastasía](https://open.spotify.com/artist/6mbTUwFJv0MEIhxbkG47JM), [Arvid Nero](https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew) | [Fredagskvällsblues](https://open.spotify.com/album/4nwPui9AD6M1OAJoIf2Ifn) | 4:03 | 2026-03-26 |  |
 | [Fri till slut \- Spotify Singles](https://open.spotify.com/track/0LqMjug9C2LLSxsLfco0tg) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI), [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Fri till slut \- Spotify Singles](https://open.spotify.com/album/0NQ3fcDiX8RIPKElIk0thO) | 4:48 | 2024-06-27 | 2025-04-04 |
@@ -170,6 +170,7 @@
 | [För vägens vind](https://open.spotify.com/track/2CjVjcTethPX4VLYNsZPlP) | [Larz\-Kristerz](https://open.spotify.com/artist/17KXKtZXlDTWr7lHCsnNQ3) | [För vägens vind](https://open.spotify.com/album/1JYKArJzrDTQc7hUNvCY9Y) | 3:20 | 2025-10-02 | 2025-10-27 |
 | [Förbjudna tankar](https://open.spotify.com/track/23fBN1sw5DBKnADUPxUicl) | [Herman Silow](https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO) | [Förbjudna tankar](https://open.spotify.com/album/0jEvZDn9Q701djBnQeZEAj) | 2:19 | 2024-06-27 | 2024-08-09 |
 | [Förloraren](https://open.spotify.com/track/0sHZppXG7okFe6cr44UOkS) | [Genom Natten](https://open.spotify.com/artist/5UkGksYXrb5tn3IEjgVFb9) | [Förloraren](https://open.spotify.com/album/0F1nRV5CzvtwTFRQi5BgWo) | 3:05 | 2025-03-20 | 2026-02-13 |
+| [Förnedrade](https://open.spotify.com/track/64kDhj57KC1UoduD3qOroE) | [Avantgardet](https://open.spotify.com/artist/7eX1F6FIRszrebMLdM1BpQ) | [Förnedrade](https://open.spotify.com/album/5w0UciRA5WWcg5InQNFhtg) | 2:58 | 2026-04-09 |  |
 | [Försökte tycka om dig \- Alternativ version](https://open.spotify.com/track/7dNmLi1KdsJFoAcUNQBdGs) | [Lisa Nilsson](https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG) | [Livet är en cykeltur](https://open.spotify.com/album/69oFUzsxhyfMfv9tf6tNpw) | 3:01 | 2025-06-12 | 2025-07-18 |
 | [Før han for](https://open.spotify.com/track/4bqcf1Ds8zVHKTdYiWKzXM) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz) | [Tjue år](https://open.spotify.com/album/0tC0GLO1DD1k7ZxH6mUWQ6) | 2:56 | 2024-10-24 | 2025-05-02 |
 | [Ge En Sol](https://open.spotify.com/track/03JUBMp0vCVHHzu1l8bqoa) | [Sara Zacharias](https://open.spotify.com/artist/5oLdTp4J7RJtC43nBnP9Hg) | [Ge En Sol](https://open.spotify.com/album/1BfjmqtMSgFnvpKKHX56dl) | 2:52 | 2024-08-22 | 2025-04-11 |

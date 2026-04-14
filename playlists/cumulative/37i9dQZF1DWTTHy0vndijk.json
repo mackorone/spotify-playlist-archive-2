@@ -1035,6 +1035,24 @@
     },
     {
       "album": {
+        "name": "Bubee (Korean Ver.)",
+        "url": "https://open.spotify.com/album/0fAglFrU95801fwwFiZBri"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182448,
+      "name": "Bubee (Korean Ver.)",
+      "url": "https://open.spotify.com/track/3FgR1MXFjpkL5HTDRrrFUE"
+    },
+    {
+      "album": {
         "name": "BUBIBU",
         "url": "https://open.spotify.com/album/7xUQp6x6q1EcezukD3rsEH"
       },
@@ -3974,7 +3992,7 @@
       ],
       "date_added": "2025-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 163243,
       "name": "jellyous",
       "url": "https://open.spotify.com/track/0wFU2pYHZi45Ws1VD6aSJX"
@@ -6518,7 +6536,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-25",
+      "date_removed": null,
       "duration_ms": 178133,
       "name": "Really Like You",
       "url": "https://open.spotify.com/track/0achc2JEdzkJQXRl0LbUox"
@@ -8028,7 +8046,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 176000,
       "name": "Swipe It Out",
       "url": "https://open.spotify.com/track/3QgQhBHtQvRpAulIfNwcRG"

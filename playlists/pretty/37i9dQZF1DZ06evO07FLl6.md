@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07FLl6.md) - [plain]
 
 > This is Miles Davis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,178 likes - 50 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,187 likes - 50 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07FLl6.md) - [plain]
 | 49 | [It Never Entered My Mind \- From The Album Workin' With The Miles Davis Quintet](https://open.spotify.com/track/6AUn7hXlXsNW6Qf5i39JyZ) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [INTEGRAL MILES DAVIS 1951\-1956](https://open.spotify.com/album/3JUxN1xKhdG2zKHqbGkNRH) | 5:23 |
 | 50 | [Oleo \- RVG Remastered 2008](https://open.spotify.com/track/6xPwn3TDhmKr2LWwg15a3i) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR), [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5), [Kenny Clarke](https://open.spotify.com/artist/7xwlN7fhoOwNgDmRTwYZOa), [Percy Heath](https://open.spotify.com/artist/0vKbTTNdtagd8xiERj6Szb) | [Bags' Groove \(Rudy Van Gelder 2008 Remaster\)](https://open.spotify.com/album/3rs2Wq1755vGmXxIioU7Xo) | 5:12 |
 
-Snapshot ID: `admPAAAAAACyVgb4oVjpD72fpsWrIWxi`
+Snapshot ID: `adrggAAAAADy6j0wSq9D7oe9jZdFGruf`

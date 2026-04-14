@@ -1,6 +1,6 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Big Up",
-  "num_followers": 291269,
+  "num_followers": 291258,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
@@ -787,26 +787,6 @@
     {
       "added_at": "2026-02-23 14:14:13",
       "album": {
-        "name": "Eles N\u00e3o Querem",
-        "url": "https://open.spotify.com/album/1ER0jvXi2w22WXbbmlx215"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "TerrorDosBeats",
-          "url": "https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Eles N\u00e3o Querem",
-      "url": "https://open.spotify.com/track/3SmLoXukiJkTD3fZGBb37V"
-    },
-    {
-      "added_at": "2026-02-23 14:14:13",
-      "album": {
         "name": "O Agora",
         "url": "https://open.spotify.com/album/2WWfpmd4ixsB2plCwPRsmC"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 194730,
       "name": "O Agora",
       "url": "https://open.spotify.com/track/2h3rxJbIftSJCyIvae7rCU"
+    },
+    {
+      "added_at": "2026-02-23 14:14:13",
+      "album": {
+        "name": "Eles N\u00e3o Querem",
+        "url": "https://open.spotify.com/album/1ER0jvXi2w22WXbbmlx215"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "TerrorDosBeats",
+          "url": "https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Eles N\u00e3o Querem",
+      "url": "https://open.spotify.com/track/3SmLoXukiJkTD3fZGBb37V"
     },
     {
       "added_at": "2026-02-23 14:14:13",
@@ -1167,30 +1167,6 @@
     {
       "added_at": "2026-02-23 14:14:13",
       "album": {
-        "name": "Inseguran\u00e7a",
-        "url": "https://open.spotify.com/album/56Cys7wpKwA7K4BTj7R3x7"
-      },
-      "artists": [
-        {
-          "name": "GVBE",
-          "url": "https://open.spotify.com/artist/2MHy3p4PeBgsb7WMIftgpM"
-        },
-        {
-          "name": "Lukinhas",
-          "url": "https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp"
-        },
-        {
-          "name": "Fresh Records",
-          "url": "https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc"
-        }
-      ],
-      "duration_ms": 190243,
-      "name": "Inseguran\u00e7a",
-      "url": "https://open.spotify.com/track/48a7MGZKXcq4MQCkXJBB0k"
-    },
-    {
-      "added_at": "2026-02-23 14:14:13",
-      "album": {
         "name": "Jeito Doce",
         "url": "https://open.spotify.com/album/3566q2civxcN8c7gx8TiJe"
       },
@@ -1215,6 +1191,30 @@
     {
       "added_at": "2026-02-23 14:14:13",
       "album": {
+        "name": "Inseguran\u00e7a",
+        "url": "https://open.spotify.com/album/56Cys7wpKwA7K4BTj7R3x7"
+      },
+      "artists": [
+        {
+          "name": "GVBE",
+          "url": "https://open.spotify.com/artist/2MHy3p4PeBgsb7WMIftgpM"
+        },
+        {
+          "name": "Lukinhas",
+          "url": "https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp"
+        },
+        {
+          "name": "Fresh Records",
+          "url": "https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc"
+        }
+      ],
+      "duration_ms": 190243,
+      "name": "Inseguran\u00e7a",
+      "url": "https://open.spotify.com/track/48a7MGZKXcq4MQCkXJBB0k"
+    },
+    {
+      "added_at": "2026-02-23 14:14:13",
+      "album": {
         "name": "Risco de se Apaixonar",
         "url": "https://open.spotify.com/album/6Z0MhQqyXLFBAJG2PBRuIH"
       },
@@ -1231,26 +1231,6 @@
       "duration_ms": 141130,
       "name": "Risco de se Apaixonar",
       "url": "https://open.spotify.com/track/1M6puHONy969ZeGYemki1M"
-    },
-    {
-      "added_at": "2026-02-23 14:14:13",
-      "album": {
-        "name": "Desliga",
-        "url": "https://open.spotify.com/album/1zAYzdYPXrPS7JqQW7nIIx"
-      },
-      "artists": [
-        {
-          "name": "LK",
-          "url": "https://open.spotify.com/artist/1NwOxFPX8X4zAp6gF4K8DD"
-        },
-        {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
-        }
-      ],
-      "duration_ms": 167478,
-      "name": "Desliga",
-      "url": "https://open.spotify.com/track/4DsVj6LY4dUwEAOz29i4QR"
     },
     {
       "added_at": "2026-02-23 14:14:13",
@@ -1295,26 +1275,22 @@
     {
       "added_at": "2026-02-23 14:14:13",
       "album": {
-        "name": "Me Espera",
-        "url": "https://open.spotify.com/album/4JL14tRjU1msXjdvLmfLof"
+        "name": "Desliga",
+        "url": "https://open.spotify.com/album/1zAYzdYPXrPS7JqQW7nIIx"
       },
       "artists": [
         {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+          "name": "LK",
+          "url": "https://open.spotify.com/artist/1NwOxFPX8X4zAp6gF4K8DD"
         },
         {
-          "name": "Papatinho",
-          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
-        },
-        {
-          "name": "Camila Zasoul",
-          "url": "https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH"
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
         }
       ],
-      "duration_ms": 194821,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/0571RzyEWagSsz0pA45VxJ"
+      "duration_ms": 167478,
+      "name": "Desliga",
+      "url": "https://open.spotify.com/track/4DsVj6LY4dUwEAOz29i4QR"
     },
     {
       "added_at": "2026-02-23 14:14:13",
@@ -1335,6 +1311,30 @@
       "duration_ms": 211647,
       "name": "AINDA T\u00d4 NO PROCESSO",
       "url": "https://open.spotify.com/track/2ProqeIk4CM7ZmUmYCqUsQ"
+    },
+    {
+      "added_at": "2026-02-23 14:14:13",
+      "album": {
+        "name": "Me Espera",
+        "url": "https://open.spotify.com/album/4JL14tRjU1msXjdvLmfLof"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        },
+        {
+          "name": "Camila Zasoul",
+          "url": "https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH"
+        }
+      ],
+      "duration_ms": 194821,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/0571RzyEWagSsz0pA45VxJ"
     },
     {
       "added_at": "2026-02-23 14:14:13",

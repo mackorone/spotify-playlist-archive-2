@@ -4,7 +4,7 @@
 
 > 
 
-2,975 songs - 6 day 9 hr 51 min
+2,976 songs - 6 day 9 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -625,6 +625,7 @@
 | [Desert Of Doom \- 2025 Yearmix](https://open.spotify.com/track/1BcKllILgoi2vHfgsVENv5) | [Rejecta](https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof), [Deluzion](https://open.spotify.com/artist/3r40SMXcvhhDUE1xhU8MSB), [MC Flo](https://open.spotify.com/artist/6kn1zMFsqWQgdLSUN69j9R) | [Best of Rejecta: 2025 Yearmix](https://open.spotify.com/album/1t34DR2g3I34l6qP0GuCVZ) | 2:18 | 2025-12-19 |  |
 | [Deserve my Love](https://open.spotify.com/track/4jDHzMWn49Ci3guMoMxabR) | [Noiseflow](https://open.spotify.com/artist/7fJ280aOmeo3dA2KHeVxP3), [GPF](https://open.spotify.com/artist/4OoHneMX97SjUXKWgsyrP4) | [Deserve my Love](https://open.spotify.com/album/4epEyxiwYMbAc4eKFnYHHy) | 2:06 | 2025-06-29 |  |
 | [Destiny Awakes](https://open.spotify.com/track/2L3xAX7ibbYLpgTF339zfE) | [Sunhiausa](https://open.spotify.com/artist/1qDgh7C7FRYAln38RsYZ0x) | [Destiny Awakes](https://open.spotify.com/album/6XSmtN4JajxXJ8rAOVrPXZ) | 3:14 | 2024-08-06 |  |
+| [Destroy](https://open.spotify.com/track/5dvxqCla2iSfWVtEJscrS2) | [Zatox](https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO) | [Destroy](https://open.spotify.com/album/3d3MpKwUBRsKCwj9T0VBO3) | 3:36 | 2026-04-13 |  |
 | [Destroy All Humans](https://open.spotify.com/track/6X6aZt3teEhWmCwR6s6rYE) | [Storah](https://open.spotify.com/artist/6ewrmG7aoWCOiUyabJb6CC), [The Smiler](https://open.spotify.com/artist/4YzDJturpsYRQrGx7k2Zmm) | [Destroy All Humans](https://open.spotify.com/album/4jqAZDR90a7b1VvQPEWHqK) | 2:54 | 2024-11-25 |  |
 | [Destroyer](https://open.spotify.com/track/5bI2cNS1i0OtGcb8xZsN6T) | [Barber](https://open.spotify.com/artist/55yd56lRrN815OEFUOrC1W), [Juliëx](https://open.spotify.com/artist/3RTCQDInBbA9wEuRrhRLTq) | [Destroyer](https://open.spotify.com/album/0aBJ8z0BUR8KC76iNyfJOm) | 2:32 | 2024-01-12 |  |
 | [DESTROYER OF THE WORLDS](https://open.spotify.com/track/7kKk2fTSecdMSBoBloLVom) | [Advanced Dealer](https://open.spotify.com/artist/6GR6nVejsTwxyjtPqBHqyo) | [DESTROYER OF THE WORLDS](https://open.spotify.com/album/0kwj15kh6TVF6GozQuiLQd) | 2:49 | 2026-02-09 |  |

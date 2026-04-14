@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1950s.",
-  "num_followers": 306175,
+  "num_followers": 306221,
   "original_name": "50s Party",
   "owner": {
     "name": "Spotify",
@@ -611,18 +611,18 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Here's Little Richard (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8"
+        "name": "Sinatra And Swingin' Brass",
+        "url": "https://open.spotify.com/album/7B45fvRtEecfSqKqUYXh6X"
       },
       "artists": [
         {
-          "name": "Little Richard",
-          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 141400,
-      "name": "Rip It Up",
-      "url": "https://open.spotify.com/track/5tHFPtV7dT01fxDe2AhKjD"
+      "duration_ms": 194093,
+      "name": "I Get A Kick Out Of You",
+      "url": "https://open.spotify.com/track/3mKdw0slI6wmnb1FBrvwn2"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -643,18 +643,18 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Sinatra And Swingin' Brass",
-        "url": "https://open.spotify.com/album/7B45fvRtEecfSqKqUYXh6X"
+        "name": "Here's Little Richard (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8"
       },
       "artists": [
         {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+          "name": "Little Richard",
+          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
         }
       ],
-      "duration_ms": 194093,
-      "name": "I Get A Kick Out Of You",
-      "url": "https://open.spotify.com/track/3mKdw0slI6wmnb1FBrvwn2"
+      "duration_ms": 141400,
+      "name": "Rip It Up",
+      "url": "https://open.spotify.com/track/5tHFPtV7dT01fxDe2AhKjD"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
+        "name": "The \"Chirping\" Crickets",
+        "url": "https://open.spotify.com/album/1KfXNUbZrdwHMtkAGNBLBq"
+      },
+      "artists": [
+        {
+          "name": "Buddy Holly & The Crickets",
+          "url": "https://open.spotify.com/artist/15jBNfRUPUgdZOTSaNoF5l"
+        }
+      ],
+      "duration_ms": 142773,
+      "name": "Not Fade Away",
+      "url": "https://open.spotify.com/track/6sBPjgvLZzHHrpxbBDjmdE"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
         "name": "At the Rock House",
         "url": "https://open.spotify.com/album/6QYaVdJsm6MNqKO9tEBUMm"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 130500,
       "name": "Ooby Dooby",
       "url": "https://open.spotify.com/track/7Bt1RAu4FSYL3WltEmLmb5"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
-        "name": "The \"Chirping\" Crickets",
-        "url": "https://open.spotify.com/album/1KfXNUbZrdwHMtkAGNBLBq"
-      },
-      "artists": [
-        {
-          "name": "Buddy Holly & The Crickets",
-          "url": "https://open.spotify.com/artist/15jBNfRUPUgdZOTSaNoF5l"
-        }
-      ],
-      "duration_ms": 142773,
-      "name": "Not Fade Away",
-      "url": "https://open.spotify.com/track/6sBPjgvLZzHHrpxbBDjmdE"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Rock 'n' Roll Ruby / I'd Rather Be Safe Than Sorry",
-        "url": "https://open.spotify.com/album/1gpiATxAWaQu0Kdzk72Izn"
-      },
-      "artists": [
-        {
-          "name": "Warren Smith",
-          "url": "https://open.spotify.com/artist/3EPmCVUm7QNc1fSrLsXGq5"
-        }
-      ],
-      "duration_ms": 170084,
-      "name": "Rock 'n' Roll Ruby",
-      "url": "https://open.spotify.com/track/5mDMTTHohxXChAaN7w0ROs"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Rockabilly",
         "url": "https://open.spotify.com/album/2YRYzrMHeVRpR0KOKzDF9B"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 121414,
       "name": "Give Me some Love - Re-Recorded Version",
       "url": "https://open.spotify.com/track/17trqhqpoIxXQc3Rkri0W7"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Rock 'n' Roll Ruby / I'd Rather Be Safe Than Sorry",
+        "url": "https://open.spotify.com/album/1gpiATxAWaQu0Kdzk72Izn"
+      },
+      "artists": [
+        {
+          "name": "Warren Smith",
+          "url": "https://open.spotify.com/artist/3EPmCVUm7QNc1fSrLsXGq5"
+        }
+      ],
+      "duration_ms": 170084,
+      "name": "Rock 'n' Roll Ruby",
+      "url": "https://open.spotify.com/track/5mDMTTHohxXChAaN7w0ROs"
     },
     {
       "added_at": "2022-06-07 05:25:13",

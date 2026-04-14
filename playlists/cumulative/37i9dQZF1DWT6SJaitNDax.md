@@ -2,7 +2,7 @@
 
 ### [Big Mood](https://open.spotify.com/playlist/37i9dQZF1DWT6SJaitNDax)
 
-> Afro sounds crossing borders\. Cover: Adekunle Gold and Olamide
+> Afro sounds crossing borders\. Cover: Davido
 
 1,002 songs - 2 day 3 hr 16 min
 

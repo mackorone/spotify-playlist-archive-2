@@ -4,7 +4,7 @@
 
 > Sounds of birds, rain, and forest ambience.
 
-232 songs - 11 hr 7 min
+233 songs - 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Highway Birds](https://open.spotify.com/track/7D6JbaLlz82gKoLYiMobzk) | [Betweetle](https://open.spotify.com/artist/0rSGh0uadKekVXR1ZMRMkl) | [Highway Birds](https://open.spotify.com/album/36Q6UzSDyagoA6upnkHqBC) | 1:47 | 2023-03-03 | 2023-06-20 |
 | [Igilazu \- Nature](https://open.spotify.com/track/4sPQwcBc84Bn03P5JNl26l) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Kora](https://open.spotify.com/album/1CG4dmr4DY2dhpkZYjkHK7) | 2:56 | 2024-08-15 |  |
 | [in the flow \(river\)](https://open.spotify.com/track/2OQIDMa3dyuHuXrwITnTEA) | [Glacial Patience](https://open.spotify.com/artist/3Ep6YPlzSx1J4CkQG4Fqav) | [in the flow \(river\)](https://open.spotify.com/album/7JFFon7hBXLhcC5vRRSKqR) | 3:12 | 2026-04-02 |  |
+| [Jungle Midnight Calm, Borneo](https://open.spotify.com/track/2rIFfdTbET7IDjZjIcGFy4) | [Naoxos](https://open.spotify.com/artist/3rOQCk7GXQhyVt0GPDzOGn) | [Jungle Midnight Calm, Borneo](https://open.spotify.com/album/6bHAVMbGHxv0dx4BZnSk8b) | 2:35 | 2026-04-02 |  |
 | [Jungle Pitter Patter](https://open.spotify.com/track/19a7gf1CPt9Oyx2yFwfqgC) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Calming Cloud Rain](https://open.spotify.com/album/3xKdMlCL3NiWtdeEP6ITqa) | 3:08 | 2026-04-02 |  |
 | [Lakeside Repose](https://open.spotify.com/track/58rgF4KUtRIMH3LTczh1wY) | [Sounds of the Forest](https://open.spotify.com/artist/1Ip11InkOnNCOLpDIw5mu6) | [Thicket Winging](https://open.spotify.com/album/2x4Qi7jqGL5dW8BiOwU28l) | 6:16 | 2022-03-25 | 2023-09-21 |
 | [Lepus \- Nature](https://open.spotify.com/track/2JEbGCquHAZBvohbG1YMZW) | [Holistic Transition](https://open.spotify.com/artist/56M35sw0bgqShzIaSm3glb) | [Lepus](https://open.spotify.com/album/2qmZ1JztwZVm5taewYw6TA) | 2:58 | 2024-08-15 |  |
@@ -233,7 +234,7 @@
 | [When It Rain It Pours](https://open.spotify.com/track/4sD8La7BvjzOwFJuUnJNiY) | [Mestizo](https://open.spotify.com/artist/3sqN7XD5dNCmgGNjfhFBEh) | [No More Sunshine](https://open.spotify.com/album/4FpGtdrR8PAT5ARouJEGFy) | 2:08 | 2022-03-25 | 2024-03-27 |
 | [Whispering Trees and Babbling Brook](https://open.spotify.com/track/0SYnQvruMZppHDRaT9cK6k) | [Forest Sounds FX](https://open.spotify.com/artist/2S9zyoMbNGC3091mDUa7jF) | [Serene Forest Ambience](https://open.spotify.com/album/3c2hy7hLvWrYylWdIjkewS) | 1:40 | 2023-09-20 | 2023-10-12 |
 | [Wildlife Paradise](https://open.spotify.com/track/4qcjA5Vy7HwEmgkFPbt51A) | [Shorenights](https://open.spotify.com/artist/5LG3LsvrCVe6h2BVrcaqc1) | [Circle of Earth](https://open.spotify.com/album/3Gu9YgsqlLILMcW5k30exE) | 2:47 | 2022-04-29 |  |
-| [Wildwood Meditation](https://open.spotify.com/track/3h2KfUN6qMnM85VxTVyx1t) | [Outside HD Samples](https://open.spotify.com/artist/0puqEYQUnviYjUyomzF5rJ) | [Relaxing Forest Harmony](https://open.spotify.com/album/1ipaOQEUmzSMJGC7xvOQ81) | 3:56 | 2023-09-20 |  |
+| [Wildwood Meditation](https://open.spotify.com/track/3h2KfUN6qMnM85VxTVyx1t) | [Outside HD Samples](https://open.spotify.com/artist/0puqEYQUnviYjUyomzF5rJ) | [Relaxing Forest Harmony](https://open.spotify.com/album/1ipaOQEUmzSMJGC7xvOQ81) | 3:56 | 2023-09-20 | 2026-04-14 |
 | [Wind My Waterfall](https://open.spotify.com/track/5v7R6BktiMgdeBfTfy8Sqy) | [El Tiempo Central](https://open.spotify.com/artist/2jrgRXoeKU9D8qrOcnS9fZ) | [Noise of Green](https://open.spotify.com/album/3Wb2WiFkdvJMoAu4BS46YL) | 1:56 | 2026-04-02 |  |
 | [Windy Green Noise](https://open.spotify.com/track/7vTHgLyabM4wWJDy6S81d1) | [Contented](https://open.spotify.com/artist/5MxzFMVa5rVuZ08lD4gDNP) | [Windy Green Noise](https://open.spotify.com/album/0UaYMl1fr54ct0cZe8Z8g7) | 2:30 | 2025-07-21 |  |
 | [With Gentle Forest Sounds I](https://open.spotify.com/track/76pDWgR9MSvLAUvRz51R7n) | [Relaxing The Mind](https://open.spotify.com/artist/44wFi6rFvY5u6U69UNnwSr) | [With Gentle Forest Sounds I](https://open.spotify.com/album/57c9YKnCRzzG2iLTiVKq5k) | 2:38 | 2025-11-11 | 2026-04-13 |

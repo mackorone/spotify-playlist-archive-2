@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 
 > Tiffany Day is having her main pop girl moment 🆘
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,962 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,006 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 | 8 | [SPEAKERS](https://open.spotify.com/track/4tx15QkA8AHM8dah902HAm) | [XKYLAR](https://open.spotify.com/artist/0wel071ci7nqjnNT0ywKWq) | [SPEAKERS](https://open.spotify.com/album/4C4Ch6Q9D4yaQLKdTzuQxn) | 2:08 |
 | 9 | [COMING OF AGE](https://open.spotify.com/track/7nAguwk4MKZQL6dvQOEUdH) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [COMING OF AGE](https://open.spotify.com/album/44XxuIv80nwbm3TfqBXmek) | 4:08 |
 | 10 | [Angelina](https://open.spotify.com/track/5UKlKiy1ijaCNFNPJxExa7) | [Tsatsamis](https://open.spotify.com/artist/3z2RaxEObO8hXkvmG5xou0) | [Angelina](https://open.spotify.com/album/200LAacp5mXwgFAr490iKq) | 3:43 |
-| 11 | [My Mouth Is Lonely For You \(from Mother Mary\)](https://open.spotify.com/track/2X5WidXHsjamq3ICtOmW9o) | [Anne Hathaway](https://open.spotify.com/artist/0nIyPY7J7G68WgQEOLHn0x) | [My Mouth Is Lonely For You \(from Mother Mary\)](https://open.spotify.com/album/2RLA4dsSG3M7rIcXWeaTvy) | 4:04 |
+| 11 | [My Mouth Is Lonely For You](https://open.spotify.com/track/2X5WidXHsjamq3ICtOmW9o) | [Anne Hathaway](https://open.spotify.com/artist/0nIyPY7J7G68WgQEOLHn0x) | [My Mouth Is Lonely For You](https://open.spotify.com/album/2RLA4dsSG3M7rIcXWeaTvy) | 4:04 |
 | 12 | [Sex, Etc.](https://open.spotify.com/track/0dP58NNCmEiNRd8Irh6aBM) | [Avery Cochrane](https://open.spotify.com/artist/2I0aPV0zqzG1LKhsMaKFDR) | [Male Validation and Other Drugs](https://open.spotify.com/album/2n0EAYrWThiwLndOZZ95dM) | 3:40 |
 | 13 | [Into The Sun](https://open.spotify.com/track/0rv6JbGN1bJoD2Il4UXZxk) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Sexistential](https://open.spotify.com/album/6RYCig4T2bEZu2gnM0OxRL) | 3:38 |
 | 14 | [Ritual](https://open.spotify.com/track/31D55MpvBHFSaeef0EeUDM) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Ritual](https://open.spotify.com/album/5QAw5J01amAwZwtAVCLR72) | 3:01 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 | 37 | [boyfriend](https://open.spotify.com/track/6QLhGHbxjHBGV5eG2ewyhO) | [2charm](https://open.spotify.com/artist/7HKUxdZeGZQHLE7vFG4Syr) | [star scum city](https://open.spotify.com/album/0T5M2ccVJg6rJZaLAp5xmZ) | 3:21 |
 | 38 | [Sweet Surrender](https://open.spotify.com/track/0GYC0TTILK7gGBNUdt5Erj) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Big Disgrace](https://open.spotify.com/album/3iyn2K7YlhKie8qrmUV6lS) | 1:54 |
 | 39 | [Dancefloor Erotica](https://open.spotify.com/track/2MlsfGExMAkNVKDquULW3L) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Dancefloor Erotica](https://open.spotify.com/album/46j1tnLKpJTtpa8eDl9aes) | 2:51 |
-| 40 | [Burial \(from Mother Mary\)](https://open.spotify.com/track/1SO1Y6rjbEl7VfXssVG0t6) | [Anne Hathaway](https://open.spotify.com/artist/0nIyPY7J7G68WgQEOLHn0x) | [Burial \(from Mother Mary\)](https://open.spotify.com/album/5yscdemhEgEbczPVNX0oxq) | 3:09 |
+| 40 | [Burial](https://open.spotify.com/track/1SO1Y6rjbEl7VfXssVG0t6) | [Anne Hathaway](https://open.spotify.com/artist/0nIyPY7J7G68WgQEOLHn0x) | [Burial](https://open.spotify.com/album/5yscdemhEgEbczPVNX0oxq) | 3:09 |
 | 41 | [Hot Pink Baby](https://open.spotify.com/track/7cBadBYT0YMaWv8yA6uMZm) | [Flight School](https://open.spotify.com/artist/1fw6qimskalGQg0oSABmnX) | [Hot Pink Baby](https://open.spotify.com/album/5dvokJiAQ8BOyW67GyHlVP) | 2:43 |
 | 42 | [Champion](https://open.spotify.com/track/43BJVWcBzHRIDaQCg7abnX) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [DEADLINE](https://open.spotify.com/album/0al74j1n8XIEkZMMFRfsbx) | 2:52 |
 | 43 | [Knife In The Heart](https://open.spotify.com/track/6fRC7I0hHY6cEhHVGIu3L3) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Knife In The Heart](https://open.spotify.com/album/3hUVYAg62w5WHRDCZOaG6A) | 2:57 |

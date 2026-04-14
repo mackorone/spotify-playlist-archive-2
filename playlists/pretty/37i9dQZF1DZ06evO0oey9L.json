@@ -1,12 +1,12 @@
 {
   "description": "This is El de La Guitarra. The essential tracks, all in one playlist.",
-  "num_followers": 99703,
+  "num_followers": 99714,
   "original_name": "This Is El de La Guitarra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "admPAAAAAADRAzJED2GgCR3L0h3GKGUI",
+  "snapshot_id": "adrggAAAAABWHL+v6DP6Ysna7WlxcAKM",
   "tracks": [
     {
       "added_at": null,
@@ -291,22 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Buena Suerte",
-        "url": "https://open.spotify.com/album/0pjmst5C79OuNfHXy5rhtH"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 145716,
-      "name": "Mi Buena Suerte",
-      "url": "https://open.spotify.com/track/0rMRfyKsyCaAFalnORmxQu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Va Por Todos",
         "url": "https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 174556,
       "name": "Para Ser Respetado",
       "url": "https://open.spotify.com/track/3OtWHaaJVAQpEpaiUhWO4K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Buena Suerte",
+        "url": "https://open.spotify.com/album/0pjmst5C79OuNfHXy5rhtH"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 145716,
+      "name": "Mi Buena Suerte",
+      "url": "https://open.spotify.com/track/0rMRfyKsyCaAFalnORmxQu"
     },
     {
       "added_at": null,
@@ -355,22 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los 3 De Siempre",
-        "url": "https://open.spotify.com/album/2WsYk6pBguIwdPjU0At9DE"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 175777,
-      "name": "Los 3 De Siempre",
-      "url": "https://open.spotify.com/track/3KCMlam3tmXwIcCfvZDstg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo Prometido Es Deuda (Vol.3)",
         "url": "https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 185000,
       "name": "Que Me Va Mal",
       "url": "https://open.spotify.com/track/0fvu7lFdHrY4JTENYgSeoK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los 3 De Siempre",
+        "url": "https://open.spotify.com/album/2WsYk6pBguIwdPjU0At9DE"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 175777,
+      "name": "Los 3 De Siempre",
+      "url": "https://open.spotify.com/track/3KCMlam3tmXwIcCfvZDstg"
     },
     {
       "added_at": null,
@@ -419,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Prometido Es Deuda Vol.2",
-        "url": "https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 153289,
-      "name": "JJ Es La Clave",
-      "url": "https://open.spotify.com/track/1g6LesEZ6Ai99arHJv6hBr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LENTES LV",
         "url": "https://open.spotify.com/album/2jVrGYAzQEi2N5gI1ekfoh"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 155303,
       "name": "LENTES LV",
       "url": "https://open.spotify.com/track/5ArRI9Pc9u42Zwiz4oKMBK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Prometido Es Deuda Vol.2",
+        "url": "https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 153289,
+      "name": "JJ Es La Clave",
+      "url": "https://open.spotify.com/track/1g6LesEZ6Ai99arHJv6hBr"
     },
     {
       "added_at": null,
@@ -563,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Musas",
-        "url": "https://open.spotify.com/album/03H8sPu8hNwdAW7SiGZXGi"
+        "name": "Con Los Pies En La Tierra Y La Mirada En El Cielo",
+        "url": "https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T"
       },
       "artists": [
         {
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 144903,
-      "name": "Musas",
-      "url": "https://open.spotify.com/track/6cqXMULD4XYoQQyEUmL49M"
+      "duration_ms": 184751,
+      "name": "Cuartitos De Libra",
+      "url": "https://open.spotify.com/track/0rewTyKwnWKLcHKbt1XM42"
     },
     {
       "added_at": null,
@@ -595,8 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Los Pies En La Tierra Y La Mirada En El Cielo",
-        "url": "https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T"
+        "name": "Musas",
+        "url": "https://open.spotify.com/album/03H8sPu8hNwdAW7SiGZXGi"
       },
       "artists": [
         {
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 184751,
-      "name": "Cuartitos De Libra",
-      "url": "https://open.spotify.com/track/0rewTyKwnWKLcHKbt1XM42"
+      "duration_ms": 144903,
+      "name": "Musas",
+      "url": "https://open.spotify.com/track/6cqXMULD4XYoQQyEUmL49M"
     },
     {
       "added_at": null,
@@ -707,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Exceso Me Encanto",
-        "url": "https://open.spotify.com/album/49gfxmTkZfPEg2oN9ORhN0"
+        "name": "Sangre De Rancho",
+        "url": "https://open.spotify.com/album/1juj3QmN79iMMZDKX8RgEH"
       },
       "artists": [
         {
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 160153,
-      "name": "El Exceso Me Encanto",
-      "url": "https://open.spotify.com/track/3W0Lld0K5FHecRyfOxhZ4x"
+      "duration_ms": 168881,
+      "name": "Sangre De Rancho",
+      "url": "https://open.spotify.com/track/3HhnflHZDAC5GsTBZLJIYa"
     },
     {
       "added_at": null,
@@ -739,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sangre De Rancho",
-        "url": "https://open.spotify.com/album/1juj3QmN79iMMZDKX8RgEH"
+        "name": "El Exceso Me Encanto",
+        "url": "https://open.spotify.com/album/49gfxmTkZfPEg2oN9ORhN0"
       },
       "artists": [
         {
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 168881,
-      "name": "Sangre De Rancho",
-      "url": "https://open.spotify.com/track/3HhnflHZDAC5GsTBZLJIYa"
+      "duration_ms": 160153,
+      "name": "El Exceso Me Encanto",
+      "url": "https://open.spotify.com/track/3W0Lld0K5FHecRyfOxhZ4x"
     },
     {
       "added_at": null,

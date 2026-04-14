@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXNkY9grbsT.md) - [plain]
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Curated by human Spotify editors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,509 likes - 150 songs - 11 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,564 likes - 150 songs - 11 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ebb And Flow](https://open.spotify.com/track/40zauhSW2YyiCBoZvYhtg7) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Ebb And Flow](https://open.spotify.com/album/5hMxgKbuFVSUfvu3JL1aPq) | 4:00 |
+| 1 | [Ebb + Flow](https://open.spotify.com/track/40zauhSW2YyiCBoZvYhtg7) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Ebb + Flow](https://open.spotify.com/album/5hMxgKbuFVSUfvu3JL1aPq) | 4:00 |
 | 2 | [A Thousand Steps](https://open.spotify.com/track/4SaoHXzh3ldq9mukyXIqW9) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0), [Henry Solomon](https://open.spotify.com/artist/65dR9mWSEKojt3aFbevjrR) | [Seeing Is Forgetting](https://open.spotify.com/album/3HKaS5uR80yGC1SW34d4ll) | 4:06 |
 | 3 | [Disque](https://open.spotify.com/track/0bF68n7iG7JYOgAeCIUBei) | [Visible Cloaks](https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG), [Motion Graphics](https://open.spotify.com/artist/0vmZnQdyuSYbU9F61oApmi) | [Disque](https://open.spotify.com/album/2nGu7fJJjdqso0JFZeqSES) | 3:20 |
 | 4 | [Sometimes I Call My Friends and We Sing Harmonies over the Phone](https://open.spotify.com/track/4fuYUwT68d2F8oYobpdRNW) | [Dylan Henner](https://open.spotify.com/artist/1L9mUjZqdG9QZnys4EDI7C) | [Sometimes I Call My Friends and We Sing Harmonies over the Phone](https://open.spotify.com/album/3Ph84PEbZDAdEK0icn9Kdl) | 4:38 |

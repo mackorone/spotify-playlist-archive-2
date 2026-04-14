@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSElo6PPUdZk.md) - [plain]
 
 > Catch the queens of Punjabi Pop\. Cover: Nimrat Khaira
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,034 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,055 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSElo6PPUdZk.md) - [plain]
 | 3 | [Kaali Activa \- Pind De Gerhe](https://open.spotify.com/track/3dWqtHvm7AuPTnvnrtl1b0) | [Rupinder Handa](https://open.spotify.com/artist/6Yn7JpYwiZUEUlKbrPLfh3), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Narinder Batth](https://open.spotify.com/artist/74M1wGWIo8rcoavCwsmY3P) | [Kaali Activa \- Pind De Gerhe](https://open.spotify.com/album/1ZrFTErvBb0enB2kRqaWI4) | 3:53 |
 | 4 | [Izhaar](https://open.spotify.com/track/0x95xGt3EZ5ImFezGDaT98) | [Jenny Johal](https://open.spotify.com/artist/7wM3DMc1NCh9sjDrUf3QOd), [Little Boi](https://open.spotify.com/artist/4rgTolxMdRlzcWwUNz7seh) | [Izhaar](https://open.spotify.com/album/4f791PWNLy1DQhyKjNhbLZ) | 2:46 |
 | 5 | [Heer](https://open.spotify.com/track/1q6GSeRQ6HD9c3QDpMBt43) | [Sifat Dhillon](https://open.spotify.com/artist/3K7jwOEv0p7Uci0NhZXugC), [Deep Boparai](https://open.spotify.com/artist/2YOwXX24g1UB05iwJ7HE6d), [Sacch](https://open.spotify.com/artist/3mMQZBDM4kDp3PGpVxbXz8), [Freak singh](https://open.spotify.com/artist/4TP5x2vBuTodGUHXr8sPUv) | [Heer](https://open.spotify.com/album/1MUKBfwl0XNLKDAkYmPTWm) | 2:47 |
-| 6 | [Sajna Tu Na Ja](https://open.spotify.com/track/2A2dttM6hhDqxhCUnqvLVB) | [Mitika Kanwar](https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg), [Kanwar Iqbal](https://open.spotify.com/artist/6U20dBUUdQB1zKhjXWhM4P) | [Sajna Tu Na Ja](https://open.spotify.com/album/3c4FUUyTDDLSnIY87z7i74) | 3:50 |
-| 7 | [Trigger Talk](https://open.spotify.com/track/5kbkuNUP1282MNseJFPPDB) | [Raman Romana](https://open.spotify.com/artist/7mJ4nj92W37kxFUmTZXpbv), [Avi](https://open.spotify.com/artist/4CwrwTrDILSiVdik8oy2F5), [Rian Music](https://open.spotify.com/artist/6VFus9iJ0TVxR1Sjj4uD0Y) | [Trigger Talk](https://open.spotify.com/album/7EqftYxGFT8wATPPUNxvVJ) | 2:35 |
-| 8 | [Jee Nai Lagda](https://open.spotify.com/track/2QPay4gj3nUMs5L3tFe97E) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [Bunny](https://open.spotify.com/artist/0Or6EukLg1g2fTl08fPz2o) | [Jee Nai Lagda](https://open.spotify.com/album/3vR4DUl5hgrqpa4WtnFSfF) | 2:43 |
+| 6 | [Trigger Talk](https://open.spotify.com/track/5kbkuNUP1282MNseJFPPDB) | [Raman Romana](https://open.spotify.com/artist/7mJ4nj92W37kxFUmTZXpbv), [Avi](https://open.spotify.com/artist/4CwrwTrDILSiVdik8oy2F5), [Rian Music](https://open.spotify.com/artist/6VFus9iJ0TVxR1Sjj4uD0Y) | [Trigger Talk](https://open.spotify.com/album/7EqftYxGFT8wATPPUNxvVJ) | 2:35 |
+| 7 | [Jee Nai Lagda](https://open.spotify.com/track/2QPay4gj3nUMs5L3tFe97E) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [Bunny](https://open.spotify.com/artist/0Or6EukLg1g2fTl08fPz2o) | [Jee Nai Lagda](https://open.spotify.com/album/3vR4DUl5hgrqpa4WtnFSfF) | 2:43 |
+| 8 | [OH NO](https://open.spotify.com/track/4lRyDyR3YkezjCxOoC8lVc) | [Pari Pandher](https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA), [Nabjot](https://open.spotify.com/artist/3yhsicJ7kTjvsV6fuA72l1), [DONNA](https://open.spotify.com/artist/5uABnMH8F1kFh5Z1iKIm0u) | [OH NO](https://open.spotify.com/album/5phcg8VzAXIuIONayNmygT) | 2:43 |
 | 9 | [Whip](https://open.spotify.com/track/124ZoG6gkV8TdLw9SS0Imt) | [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm) | [Whip](https://open.spotify.com/album/0jBp5NNMZRmhJaJp7X9vfy) | 2:19 |
 | 10 | [Saah](https://open.spotify.com/track/5mLCTsVpRLB6zxClm3HIRp) | [Vanitaa Pande](https://open.spotify.com/artist/3eQvg7bacPWnBBn8rMjlZH), [Sarthak SRTK](https://open.spotify.com/artist/3v1PA29WF70C23dB5o8GrP) | [Saah](https://open.spotify.com/album/5Cd4niGcPpuxaBdzwiiSve) | 3:36 |
 | 11 | [Mehandi \- From "Rabb Da Radio 3"](https://open.spotify.com/track/0vX3WyCXkKLehW6dniuh6q) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk), [Jyotica Tangri](https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp), [Mannat Noor](https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp), [Harmanjeet Singh](https://open.spotify.com/artist/5GKQZoriMz17iLIGdRp2Yt) | [Mehandi \(From "Rabb Da Radio"\)](https://open.spotify.com/album/2gN2iwmeDhlPBw6KFBAzlJ) | 3:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSElo6PPUdZk.md) - [plain]
 | 49 | [Ammiye](https://open.spotify.com/track/48bRxd4YmkZSMaCEiNpWbP) | [PRIYA](https://open.spotify.com/artist/1DYZAMFzLj64clrOzfHHmX) | [Flowers](https://open.spotify.com/album/2u13scMhPhD0LvK1ZZFXhH) | 2:40 |
 | 50 | [All Of You](https://open.spotify.com/track/1QCU59QRGh7vkgSIAM9NNx) | [Kiran Bajwa](https://open.spotify.com/artist/3qmx2CGviBi21h58nDMJcs), [Rony Ajnali](https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw), [Dilmaan](https://open.spotify.com/artist/5iRP5VM9JGkM6aMQbbfkBK) | [All Of You](https://open.spotify.com/album/3uvubadrqzODiqtkV5fsQR) | 2:19 |
 
-Snapshot ID: `AAAAAA+K5X0BQX5rUNNFtC4P7ekLBlB4`
+Snapshot ID: `AAAAAA4HYPymnXbtkUhCCyzuRZOOZBJu`

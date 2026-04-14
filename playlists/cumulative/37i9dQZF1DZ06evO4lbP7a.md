@@ -4,7 +4,7 @@
 
 > This is yama\. The essential tracks, all in one playlist.
 
-105 songs - 6 hr 16 min
+107 songs - 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [MUSE](https://open.spotify.com/track/3MnTSni3zVhxOedGGDiJkk) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [; semicolon](https://open.spotify.com/album/6N8APVZNMPGElFdIbkTFMe) | 2:42 | 2025-03-09 | 2025-07-11 |
 | [Nemophila](https://open.spotify.com/track/2vjMfyA9EECR7tWgR9rHiT) | [Kiro Akiyama](https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty), [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Nemophila](https://open.spotify.com/album/5y94VJ7S4bjK8Pl6I1bZle) | 3:56 | 2026-01-30 |  |
 | [Oz.](https://open.spotify.com/track/1Aq9S5teUzfZucr7rVRpSj) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Versus the night](https://open.spotify.com/album/4R8cMdxOUDbHaHvwjEluEq) | 3:15 | 2023-12-26 |  |
-| [rain check](https://open.spotify.com/track/3dyleGMI23oZV0wgojOkpR) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [; semicolon](https://open.spotify.com/album/6N8APVZNMPGElFdIbkTFMe) | 4:30 | 2025-03-08 |  |
+| [rain check](https://open.spotify.com/track/3dyleGMI23oZV0wgojOkpR) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [; semicolon](https://open.spotify.com/album/6N8APVZNMPGElFdIbkTFMe) | 4:30 | 2025-03-08 | 2026-04-14 |
 | [Remember](https://open.spotify.com/track/29NKnVIVnrlzhTeZ2A9DVf) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [C.U.T](https://open.spotify.com/album/29dHJXu3uX5FQKtQpgim4t) | 3:41 | 2026-03-21 |  |
 | [semicolon](https://open.spotify.com/track/3FFeh3VjHhnJjjqmBydCF1) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [; semicolon](https://open.spotify.com/album/6N8APVZNMPGElFdIbkTFMe) | 4:01 | 2025-03-09 | 2025-08-03 |
 | [shadow dance](https://open.spotify.com/track/1tyfDn2VPRvh336veB1ajh) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [アダルトチックチルドレン](https://open.spotify.com/album/1fgsyeUzImXkMVBy1vVUNm) | 2:58 | 2025-12-14 |  |
@@ -58,7 +58,7 @@
 | [アダルトチックチルドレン](https://open.spotify.com/track/4szCibdelqTfe8XzGlBT8u) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [アダルトチックチルドレン](https://open.spotify.com/album/7yTWJUaWIAU0ERYbbTZXwr) | 3:02 | 2025-10-05 |  |
 | [アブノーマリティー。](https://open.spotify.com/track/5o6Nt28EkGBO6HPb3CzG4q) | [Nakimushi](https://open.spotify.com/artist/2zv25U5N7QyNcn8I9kzZVn), [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [アブノーマリティー。](https://open.spotify.com/album/4Jd3gd0HkzO8rGl6rOJHpq) | 3:38 | 2023-12-26 | 2024-02-16 |
 | [イノセント](https://open.spotify.com/track/76gLNwSDLHSq0KdpOC86SS) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [awake＆build](https://open.spotify.com/album/5NUmKoBd8311WrvDx3UFLT) | 4:02 | 2024-02-05 | 2024-07-10 |
-| [オリジン](https://open.spotify.com/track/7sqlWfsAcENRdsrN6BuyTr) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [オリジン](https://open.spotify.com/album/5pRmvEqEFcbS83hcQPNWrb) | 3:26 | 2024-11-03 |  |
+| [オリジン](https://open.spotify.com/track/7sqlWfsAcENRdsrN6BuyTr) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [オリジン](https://open.spotify.com/album/5pRmvEqEFcbS83hcQPNWrb) | 3:26 | 2024-11-03 | 2026-04-14 |
 | [カーテンコール](https://open.spotify.com/track/5EBkv7Vl47e674Yi6Gk7zi) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [カーテンコール](https://open.spotify.com/album/4FNbJK6K73qKy9TuxggkVY) | 3:39 | 2023-12-26 |  |
 | [クリーム](https://open.spotify.com/track/6q2anED2iLMVW1XvdZx5pQ) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [クリーム](https://open.spotify.com/album/4JX57Yo9ACKXP8v1ZW2KRo) | 3:38 | 2023-12-26 |  |
 | [クリーム（Carpainter Remix）](https://open.spotify.com/track/0OXyGJI74UjtCd86Dgr0GX) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [Carpainter](https://open.spotify.com/artist/5ac1qjsr4dSDWsfYY6YvBa) | [doku](https://open.spotify.com/album/4F1u2KnQwfVR9Rb8sd7v8P) | 4:17 | 2025-08-24 | 2025-11-05 |
@@ -112,6 +112,8 @@
 | [返光（Movie Edition）](https://open.spotify.com/track/1lLsIUCAXc8U7QuS3J87Fu) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [返光（Movie Edition）](https://open.spotify.com/album/0QNXYlm9zDHKXZA8UFa3DQ) | 4:05 | 2023-12-26 | 2025-10-05 |
 | [陽だまり](https://open.spotify.com/track/6AE3QlMBz7KcoQKG8LXfIh) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [awake＆build](https://open.spotify.com/album/5NUmKoBd8311WrvDx3UFLT) | 5:13 | 2024-01-28 | 2024-04-13 |
 | [雫](https://open.spotify.com/track/2GlZ3RBOFSVKPQrUpCxDCZ) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [雫](https://open.spotify.com/album/5SGGfrQE7GWyszuzISp8Wa) | 4:36 | 2025-03-01 | 2025-12-14 |
+| [飛ぶ時](https://open.spotify.com/track/3oD8xasVquybDGrftRT70E) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [飛ぶ時 / 飛ぼうよ](https://open.spotify.com/album/5DhI0TZsFo5H7xoi1QLdaW) | 4:13 | 2026-04-14 |  |
+| [飛ぼうよ](https://open.spotify.com/track/4Ael7H7pDC9VIHeA0CxU4U) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [飛ぶ時 / 飛ぼうよ](https://open.spotify.com/album/5YuOGMU5bHqfBPLbnDHhrH) | 4:19 | 2026-04-14 |  |
 | [麻痺](https://open.spotify.com/track/5v1dhqe9vgvp87eyd27hkb) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [the meaning of life](https://open.spotify.com/album/0d6nIBB385TVBIcsa5x4ZD) | 3:18 | 2023-12-26 |  |
 
 \*This playlist was first scraped on 2023-12-27. Prior content cannot be recovered.

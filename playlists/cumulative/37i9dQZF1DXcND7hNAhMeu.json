@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Gelece\u011fin seslerini dinle! Kapak: Baran Meng\u00fc\u00e7 x Selin",
+  "description": "Gelece\u011fin seslerini dinle! Kapak: \u00d6yk\u00fc D\u00f6rter",
   "name": "RADAR T\u00fcrkiye",
   "tracks": [
     {
@@ -258,7 +258,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 136470,
       "name": "BELK\u0130",
       "url": "https://open.spotify.com/track/1oQ1gRCZQw5RGUmCrUcd6D"
@@ -1052,10 +1052,28 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 184077,
       "name": "MERABA",
       "url": "https://open.spotify.com/track/1Z3e9ckGYuIoH6jdvyqMv8"
+    },
+    {
+      "album": {
+        "name": "SENDEN \u00d6NCE BEN K\u0130MD\u0130M",
+        "url": "https://open.spotify.com/album/4B9gmTwPxd5qMbTzQc0HDW"
+      },
+      "artists": [
+        {
+          "name": "\u00d6yk\u00fc D\u00f6rter",
+          "url": "https://open.spotify.com/artist/610R56u4V2V2kVtyLenbFA"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147535,
+      "name": "MUTLU SON",
+      "url": "https://open.spotify.com/track/6RMli1QPSWUgw0b1q9goK8"
     },
     {
       "album": {
@@ -1544,6 +1562,24 @@
       "duration_ms": 194160,
       "name": "Vah Benim Halime",
       "url": "https://open.spotify.com/track/3dnN5XUK6g8Pbry58cGhFt"
+    },
+    {
+      "album": {
+        "name": "VEDA BUSES\u0130",
+        "url": "https://open.spotify.com/album/7JI3SLFixTxEybtyqQdtui"
+      },
+      "artists": [
+        {
+          "name": "Zeki Arkun",
+          "url": "https://open.spotify.com/artist/0o370GMjPTWUz6gv8lasfs"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201819,
+      "name": "VEDA BUSES\u0130",
+      "url": "https://open.spotify.com/track/0I3tf6OIWLHGPrphkE7v8W"
     },
     {
       "album": {

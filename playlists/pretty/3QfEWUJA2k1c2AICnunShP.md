@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3QfEWUJA2k1c2AICnunShP.md) - [plain]
 
 > Klassik &amp; Instrumental Soundtrack Konzentration, Entspannen
 
-[Filtr Germany](https://open.spotify.com/user/playlists.germany) - 32,747 likes - 152 songs - 8 hr 8 min
+[Filtr Germany](https://open.spotify.com/user/playlists.germany) - 32,759 likes - 152 songs - 8 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/3QfEWUJA2k1c2AICnunShP.md) - [plain]
 | 22 | [Lullaby](https://open.spotify.com/track/4s29AsWgcC9WBeicomKq1u) | [Florian Christl](https://open.spotify.com/artist/4yanWaefFUJnIUV0aITdvV) | [Lullaby](https://open.spotify.com/album/6BajwpPSYOh5vVU29F88DA) | 2:44 |
 | 23 | [Moonlight Sonata Variation \(From Piano Sonata No\. 14, Op\. 27, Arr\. by Svetoslav Karparov\)](https://open.spotify.com/track/3sYE1qd4qOl91iUfQqCbjl) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Gabriele Bagnati](https://open.spotify.com/artist/0OG7Jsxh29ESIeAHlElBOj) | [Moonlight Sonata Variation \(From Piano Sonata No\. 14, Op\. 27, Arr\. by Svetoslav Karparov\)](https://open.spotify.com/album/5Hs8Z7NFIJitshEzzEgZCq) | 3:24 |
 | 24 | [Jasmine](https://open.spotify.com/track/5rbbq5uwbmTFeyVWUjIZaX) | [Julian Lloyd Webber](https://open.spotify.com/artist/1U4pv151m4SgVMg8fXROYp), [Esther Abrami](https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng), [Louis Philippson](https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH) | [Jasmine](https://open.spotify.com/album/4tVjwFeG1tOas8WmMqZjxP) | 2:39 |
-| 25 | [Dragon's Lullaby](https://open.spotify.com/track/2ycFs3p8tqAMN9jRphGIBB) | [Leon Wolf](https://open.spotify.com/artist/7IliShIfPIrKZgNLrsu40S), [Robin Kallenberger](https://open.spotify.com/artist/2NXmj32ljyGyI7FmQS7u8r), [Louis Philippson](https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH) | [Exposition](https://open.spotify.com/album/52jGOYTzIFk9cfrYHxzbhG) | 3:42 |
+| 25 | [Dragon's Lullaby](https://open.spotify.com/track/2ycFs3p8tqAMN9jRphGIBB) | [Louis Philippson](https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH), [Leon Wolf](https://open.spotify.com/artist/7IliShIfPIrKZgNLrsu40S), [Robin Kallenberger](https://open.spotify.com/artist/2NXmj32ljyGyI7FmQS7u8r) | [Exposition](https://open.spotify.com/album/52jGOYTzIFk9cfrYHxzbhG) | 3:42 |
 | 26 | [Dawn](https://open.spotify.com/track/77ms6I8UQQFNs6W9BkOFuZ) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G), [Eldbjørg Hemsing](https://open.spotify.com/artist/4M2W6hcJWi6Nrd3XelpO3F), [Arctic Philharmonic](https://open.spotify.com/artist/2h8O4ix84B1H0Qj3TQfl6f) | [Dawn](https://open.spotify.com/album/25epWltvymMMPvjbVvBwcL) | 3:14 |
 | 27 | [Schwanenlied, Op\. 1, No\. 1 \(Arr\. for Violin and String Ensemble by Ellie Consta\)](https://open.spotify.com/track/4CgtjECgiar206BXu4ad2k) | [Fanny Mendelssohn](https://open.spotify.com/artist/2Wj0NreQeOfrGxnPIaLcCi), [Esther Abrami](https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng), [Her Ensemble](https://open.spotify.com/artist/60LMcgWPaQLRwx8dZicM3z) | [Spotlight](https://open.spotify.com/album/14EcBJ1kPRJvmXoRrt18LQ) | 2:18 |
 | 28 | [The Last Samurai Suite: Part 1 \- Live](https://open.spotify.com/track/4SrsN2NYSHcf7cYsW6IKvy) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [The Disruptive Collective](https://open.spotify.com/artist/0oMhzz3sH8FqeezbdI3yAm) | [The Last Samurai Suite](https://open.spotify.com/album/2cLdbyLtYoDd6cIgXJVHI3) | 2:56 |

@@ -1,12 +1,12 @@
 {
   "description": "It&#x27;s 5 o&#x27;clock somewhere and best believe there&#x27;s a local band there ready to rock when the sun goes down.",
-  "num_followers": 402,
+  "num_followers": 403,
   "original_name": "Local Rock Bands",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAABe4uQDBV4ryWN9b9b1hhZil1lkS5B",
+  "snapshot_id": "AAABfEtn2SJ9fg6hEkVehyuFhL7AI96M",
   "tracks": [
     {
       "added_at": "2025-09-16 13:19:37",
@@ -1199,6 +1199,22 @@
       "duration_ms": 108920,
       "name": "Thelusion",
       "url": "https://open.spotify.com/track/00Qc32eVkJxr4HNLZkGN3x"
+    },
+    {
+      "added_at": "2026-04-13 12:45:45",
+      "album": {
+        "name": "Ribcrasher",
+        "url": "https://open.spotify.com/album/1p1VeLJoQlDKiK1X90QCHK"
+      },
+      "artists": [
+        {
+          "name": "On-Off",
+          "url": "https://open.spotify.com/artist/3Qb1E9hm1R0In79aIumUsR"
+        }
+      ],
+      "duration_ms": 230506,
+      "name": "Seven",
+      "url": "https://open.spotify.com/track/7tdZEErExaYhQI2Oa3cqWg"
     }
   ],
   "unique_name": "Local Rock Bands",

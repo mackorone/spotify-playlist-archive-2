@@ -4,7 +4,7 @@
 
 > ⚡️ qui un sacco di musica giovane ⚡️ Cover: CLARA
 
-1,072 songs - 2 day 1 hr 59 min
+1,074 songs - 2 day 2 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -556,6 +556,7 @@
 | [MARE DI GUAI](https://open.spotify.com/track/5coGRpcrHdoLBuTLAeKGxu) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [MARE DI GUAI](https://open.spotify.com/album/1nypi8w7X4rrXVJPSVghj0) | 3:24 | 2023-03-23 | 2023-09-15 |
 | [MARINAIO](https://open.spotify.com/track/2ICFv8YudCL14GR8FTWuWo) | [Matsby](https://open.spotify.com/artist/2mjOOYqJzFaYPrjrhci9kZ) | [MARINAIO](https://open.spotify.com/album/0QcyKGbr0PezletsaOSJBd) | 2:34 | 2024-12-19 | 2025-01-24 |
 | [mayday](https://open.spotify.com/track/1rxBdwJnt5pZHXqzB4ssEH) | [anice](https://open.spotify.com/artist/0Sf5IqezdIhXjKogXm0Nad) | [mayday](https://open.spotify.com/album/3WtlhNKnPhYPpMdeEILB6H) | 2:18 | 2025-01-23 | 2025-05-30 |
+| [Mayday](https://open.spotify.com/track/1i41RQ2km1sO8JD6fFVCxX) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Vangelo](https://open.spotify.com/album/2gqFeF2xx9zMEwUWRc5UK4) | 3:38 | 2026-04-13 |  |
 | [Me l'hai detto tu \(feat\. chiamamifaro\)](https://open.spotify.com/track/0I3XSj50a53Jm4bgCLKsan) | [OCCHI](https://open.spotify.com/artist/1gxSzslBaKRwyT69Q8PJKU), [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [Me l'hai detto tu \(feat\. chiamamifaro\)](https://open.spotify.com/album/20zDgmPugLaGTgXCMgU9oM) | 3:15 | 2026-01-29 | 2026-03-06 |
 | [MEA CULPA](https://open.spotify.com/track/1kosPefIICGK418z9QvNCU) | [CLOUD](https://open.spotify.com/artist/48LmQaKF6ayCv2uuiOOZtn) | [MEA CULPA](https://open.spotify.com/album/5gCJLdIcmanjb8VhVbq5ad) | 2:37 | 2025-11-27 | 2026-01-15 |
 | [Megapixel \- URANO](https://open.spotify.com/track/1lA9F7QGuekEPyZlPZbAo7) | [Emanuele Aloia](https://open.spotify.com/artist/3vkFU3DBYyYBSUt323pj76) | [Megapixel \- URANO](https://open.spotify.com/album/4nvmZ5EqjvSBiurFRFOSOl) | 2:50 | 2024-10-24 | 2024-11-29 |
@@ -818,6 +819,7 @@
 | [RICORDO DI ME](https://open.spotify.com/track/644i6Ea82ZCcYJTUSt18AP) | [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [RICORDO DI ME](https://open.spotify.com/album/4NrEONiMZijJwN7KCMCxMG) | 2:51 | 2025-12-18 | 2026-01-23 |
 | [Ricostruirti](https://open.spotify.com/track/2E8GJGA49ewcFWMkJ4RH1L) | [Pink Wine](https://open.spotify.com/artist/03XI8tHchP5z1IIxhTDZrU) | [Ricostruirti](https://open.spotify.com/album/4SaIi2kezNpcPHjf47jSMP) | 3:31 | 2026-01-29 | 2026-02-25 |
 | [RIO](https://open.spotify.com/track/51DNSP2kKAiUFURmcwmmJd) | [Edo Fendy](https://open.spotify.com/artist/41arBMetHJgurmTgrlOF7J) | [RIO](https://open.spotify.com/album/0towXLtpwtBAio7Fkju92u) | 2:32 | 2025-07-17 | 2025-08-29 |
+| [Risorgere](https://open.spotify.com/track/1437F3lIKt7rc1cSALqz6Q) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Vangelo](https://open.spotify.com/album/2gqFeF2xx9zMEwUWRc5UK4) | 3:57 | 2026-04-13 |  |
 | [Rivoluzione!](https://open.spotify.com/track/4OYZLVdGFBHJ8UQcRbU3Ny) | [Sethu](https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [Rivoluzione!](https://open.spotify.com/album/5jFiLe8UahShhjZyUhmnkM) | 2:41 | 2023-07-20 | 2023-08-11 |
 | [Rock N Roll](https://open.spotify.com/track/3iIFvER6NUxnJc9Zv5BhsN) | [Aka 7even](https://open.spotify.com/artist/0lQtBhjEJpoOroQS6fbWMc) | [Rock N Roll](https://open.spotify.com/album/0QwnfupfwKZFlsPY7dYqqM) | 2:33 | 2023-06-08 | 2023-09-22 |
 | [Rockstar](https://open.spotify.com/track/1Nxi3qWX2wJ08VeWiSV9By) | [Alex Wyse](https://open.spotify.com/artist/4ZRTfGCmMJ305FMDCiD1cZ) | [Rockstar](https://open.spotify.com/album/4E2mpIFXDslDMo14Kp6iWr) | 3:36 | 2024-11-07 | 2025-04-18 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Zwycięzcy Popkillerów przejmują RAP GENERACJĘ.
 
-[Spotify](https://open.spotify.com/user/spotify) - 573,996 likes - 59 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 573,975 likes - 59 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- South Korea.
 
-2,055 songs - 4 day 16 hr 41 min
+2,056 songs - 4 day 16 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1347,7 +1347,7 @@
 | [Paint On Spring \- Remastering](https://open.spotify.com/track/3GG5KPuvG7qokLoKReboHI) | [Martin Smith](https://open.spotify.com/artist/3ISWX9gKLGkhlgS5AhvlTd) | [SLATE](https://open.spotify.com/album/2Jn6ZoYn9FM2TLfrfWu8Pv) | 3:52 | 2025-06-01 | 2026-04-08 |
 | [Paint The Town Red](https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta) | 3:50 | 2023-09-23 | 2023-11-05 |
 | [Paint The Town Red](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) | 3:51 | 2023-08-31 | 2023-09-24 |
-| [PAJAMA \(Feat\. WOODZ\) \(Prod\. by ZICO, Crush\)](https://open.spotify.com/track/3DNvKQeuZNaLxcStAhMasl) | [Raf Sandou](https://open.spotify.com/artist/4FBKTurCVdtC6Fq8mSQgj8), [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [Show Me The Money 12 Semi Final](https://open.spotify.com/album/4mj2mIydZYvONlklytC17S) | 4:18 | 2026-03-29 |  |
+| [PAJAMA \(Feat\. WOODZ\) \(Prod\. by ZICO, Crush\)](https://open.spotify.com/track/3DNvKQeuZNaLxcStAhMasl) | [Raf Sandou](https://open.spotify.com/artist/4FBKTurCVdtC6Fq8mSQgj8), [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [Show Me The Money 12 Semi Final](https://open.spotify.com/album/4mj2mIydZYvONlklytC17S) | 4:18 | 2026-03-29 | 2026-04-14 |
 | [PALISADE](https://open.spotify.com/track/4D4ZahE2dwJwvrmJVARlgk) | [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM) | [SLOWMO](https://open.spotify.com/album/7hFjISvuzhZauC3EK66GuG) | 1:28 | 2024-05-25 | 2024-05-28 |
 | [Pandora's Box](https://open.spotify.com/track/2On611HXKQAbaYkuc4NQAm) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 2:36 | 2022-07-16 | 2022-07-20 |
 | [PANG!](https://open.spotify.com/track/1ZpiUfzl9P0pMkA03xqmUy) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 9th Mini Album 'Attacca'](https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd) | 2:58 | 2021-10-23 | 2021-10-28 |
@@ -1953,6 +1953,7 @@
 | [Who \(Rock Remix\)](https://open.spotify.com/track/1MC8JLPV4fbvVBqvGSLoDf) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE \(WONDER ver.\)](https://open.spotify.com/album/5AQc0yFXRcdUdko4sZ1fW9) | 2:51 | 2024-07-24 | 2025-03-23 |
 | [Who \(Shibuyakei Remix\)](https://open.spotify.com/track/1ySWoGgrduSzvtJ3PUzO41) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE \(WANDER ver.\)](https://open.spotify.com/album/4wfwJUghbK2z2iaz65U7VS) | 2:46 | 2024-07-24 | 2025-03-07 |
 | [Who Am I To Say \(feat\. Bumkey\)](https://open.spotify.com/track/1zPmwgqQ6lTQ6kcGYrPzvr) | [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3), [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq) | [LIT](https://open.spotify.com/album/6g7UQY5P57dq99rQPHb2zi) | 3:54 | 2025-11-21 | 2025-11-23 |
+| [Who is she](https://open.spotify.com/track/16iOs2f9G9qRknDgM9cfAw) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Who is she](https://open.spotify.com/album/3oKZB7YNsYSvmI4YQjhtdS) | 2:39 | 2026-04-13 |  |
 | [Why Can't You Love Me?](https://open.spotify.com/track/0CyydmXI4QhgUWrZsPOTXA) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Like Water \- The 1st Mini Album](https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7) | 2:48 | 2021-04-07 | 2021-04-09 |
 | [Why Me?](https://open.spotify.com/track/4SkwI7BxrIk5t5bpbvcrs6) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Love, Yerin](https://open.spotify.com/album/2K41KAlW6n9bVlRCQPVcSZ) | 4:05 | 2021-09-12 | 2021-09-19 |
 | [Why?](https://open.spotify.com/track/75bgkdHdg7ppBcHdLJkSBM) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [Why?](https://open.spotify.com/album/2dWSYfa0TQ1cDlzMCdzJlJ) | 2:27 | 2024-08-26 | 2024-09-04 |

@@ -4,7 +4,7 @@
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-269 songs - 14 hr 16 min
+270 songs - 14 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [O Agora é Nosso](https://open.spotify.com/track/6lFNaYEKcS3KtwKOSWpFuS) | [Kako](https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm) | [OCANV \(Cap\. II\)](https://open.spotify.com/album/4MXCC1YWrntuViiFWApNAc) | 3:49 | 2025-11-30 |  |
 | [O Cravo e a Flor](https://open.spotify.com/track/7xWbDSH4hl6lQYAq3MKBec) | [Tribo da Periferia](https://open.spotify.com/artist/1xxS2WrLlgl9QNGEUCsbPG), [Duckjay](https://open.spotify.com/artist/7b5XefluHSHw1lKQkqIZO0) | [O Cravo e a Flor](https://open.spotify.com/album/0ikJdVueCeBJrvoAVZm5Ve) | 3:06 | 2024-05-24 | 2024-10-05 |
 | [O Último Xote do Ano](https://open.spotify.com/track/23r1Kyn3hD7gRAgxWkW5Bb) | [Fi Barreto](https://open.spotify.com/artist/5hJ0ykBQGDxLmp3Lw7DpBe), [Cruvinel](https://open.spotify.com/artist/2TUCCtskhrTEMAAGyQaBaW) | [O Último Xote do Ano](https://open.spotify.com/album/6B04k65vhdRfHltr7Gy18s) | 3:12 | 2021-11-12 | 2022-09-10 |
+| [OBRA PRIMA](https://open.spotify.com/track/0IEHquF8iEgFBtTntygFcv) | [MC Gustavinho](https://open.spotify.com/artist/77yd8ef29EG05232JEQzXu) | [OBRA PRIMA](https://open.spotify.com/album/059jQeL3t3lHZqzcTcs39N) | 2:49 | 2026-04-13 |  |
 | [Olha esse mar](https://open.spotify.com/track/4YHDclUZsRrP9G5Hq27j5v) | [Mc Luki](https://open.spotify.com/artist/3I44LJGCaI0gSPPz3n16xn), [MC Bruno MS](https://open.spotify.com/artist/7IOSPo9oGCLWtDEZtmxgTi), [Dodida](https://open.spotify.com/artist/3WX3OGPYDIf4m5hFcDSFwU), [Mc Leleh](https://open.spotify.com/artist/1dph6czp8F63wsX5BfYg4S) | [Olha esse mar](https://open.spotify.com/album/6NTdLGZVkZMakGaRXbLMEj) | 4:05 | 2024-02-16 | 2024-07-12 |
 | [Original MTK \#2 \- Se Você Vier](https://open.spotify.com/track/6GOV45NixAW87unGHpS3mE) | [MTK](https://open.spotify.com/artist/6Wovvjcj6QZTEyKRkXdLL9), [Cammie](https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5), [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp) | [Original MTK \#2 \- Se Você Vier](https://open.spotify.com/album/420rc6s3uRgnBnogGrjAfP) | 4:24 | 2021-11-12 |  |
 | [Papaya](https://open.spotify.com/track/06QF4GmSL2y1BIUy9g4H06) | [Tubaína](https://open.spotify.com/artist/5aJbzurT6OT2V55swJzGpf) | [Papaya](https://open.spotify.com/album/2jw9GmBUFi9NupG0vf69Pr) | 3:13 | 2023-02-03 | 2023-02-18 |
@@ -233,7 +234,7 @@
 | [sintetizar](https://open.spotify.com/track/3w6ET1iXZsZYSAjZSBzI1X) | [sazack](https://open.spotify.com/artist/6Xvmre2lrs6Rl0IdJlmVz1), [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU), [Nolly](https://open.spotify.com/artist/0AyG67rFODHB8963eyG0tT), [Matt](https://open.spotify.com/artist/4l1lw74M2WiTks3caXBtl9) | [cinco noites em sp](https://open.spotify.com/album/0sZO7iuUguHSdaPrGYmKAm) | 2:26 | 2025-10-03 |  |
 | [Sofá](https://open.spotify.com/track/2iaGlQgmvtmMeyRrOJGrX3) | [Ramaciote](https://open.spotify.com/artist/6tTXtOpxDid06B4ssYLmqk), [NBEATZ](https://open.spotify.com/artist/7HNjBjJI32FtmXCd2pRE43) | [Sofá](https://open.spotify.com/album/4T9xavReRre65J7H5Qnzky) | 1:45 | 2022-06-24 | 2022-07-30 |
 | [Sol, Eu e Você](https://open.spotify.com/track/6EwECcMJpnRj11CXBXAjIQ) | [MC Neguinho do Kaxeta](https://open.spotify.com/artist/27mVhYvJa7apj1zCoZ9TF2) | [Sol, Eu e Você](https://open.spotify.com/album/1sCTQpM5hZYae8aAwjm3xE) | 2:47 | 2022-04-22 | 2022-06-11 |
-| [Solidificando a Caminhada](https://open.spotify.com/track/0WHHtSyBfAcWB4OnM1tIiE) | [MC Rodolfinho](https://open.spotify.com/artist/4885EF8HYSK3OyCRe7yZIp) | [Solidificando a Caminhada](https://open.spotify.com/album/46PONjnLVfZkw3Oyg9qTgb) | 2:09 | 2026-03-06 |  |
+| [Solidificando a Caminhada](https://open.spotify.com/track/0WHHtSyBfAcWB4OnM1tIiE) | [MC Rodolfinho](https://open.spotify.com/artist/4885EF8HYSK3OyCRe7yZIp) | [Solidificando a Caminhada](https://open.spotify.com/album/46PONjnLVfZkw3Oyg9qTgb) | 2:09 | 2026-03-06 | 2026-04-14 |
 | [Solstício](https://open.spotify.com/track/2eL6c0AYrGtyUJfcuApZt6) | [Tiago Mac](https://open.spotify.com/artist/3GM0VyM1n1qvk0v2PfXX4n) | [Solstício](https://open.spotify.com/album/1SR7g37coJXdwzSflFFtgI) | 2:30 | 2022-06-10 | 2022-06-25 |
 | [Sou Fã](https://open.spotify.com/track/4cCXyCUPg9FFidRr4lWJFl) | [Italo Melo](https://open.spotify.com/artist/7DCF8Y7xwC2LkdHth5E7c8), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [TX](https://open.spotify.com/artist/1DENl6mSR2p9reWTKIn2o2) | [Sou Fã](https://open.spotify.com/album/7xFfnMWxvM5VwUxF0Nk1p7) | 3:44 | 2023-04-28 | 2023-07-08 |
 | [Spoiler](https://open.spotify.com/track/2zZ8HX3Q66MkYNmfgTiWgK) | [Roig](https://open.spotify.com/artist/20vqMkiF1RvZrVGNiDpdzk) | [Spoiler](https://open.spotify.com/album/45PCXFfR2DT6yXuhLfwcbs) | 3:16 | 2021-11-12 | 2025-03-25 |

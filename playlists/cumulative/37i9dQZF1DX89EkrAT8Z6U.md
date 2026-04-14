@@ -4,7 +4,7 @@
 
 > The perfect mixtape for an anime fight scene\. Also, check out <a href='spotify:playlist:37i9dQZF1EId8uVIwoG4N5'>Anime Rap Mix</a>.
 
-348 songs - 14 hr 35 min
+349 songs - 14 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [9mm](https://open.spotify.com/track/3K5KXm1uZjiyQk0J7op1xf) | [Memphis Cult](https://open.spotify.com/artist/6n9sdNb7mWvVmARDT6ujnJ), [Groove Dealers](https://open.spotify.com/artist/4WOeTZ6inhL1zz0u5v0Q8z), [SPLYXER](https://open.spotify.com/artist/5erVsKXNZIBRE5ePB50c7j) | [Memphis Cult Vol\. 6](https://open.spotify.com/album/5CZnhiTI3K85wLKwPLNOJB) | 1:26 | 2024-02-23 |  |
 | [>one \- greater than one](https://open.spotify.com/track/3zIcvn5r3QGea6a4M36MQr) | [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t), [ericdoa](https://open.spotify.com/artist/6tdnMySxH5l3J7QfqGWZ7G) | [>one \- greater than one](https://open.spotify.com/album/6GLcfMMmFXrfk9ydAjeLop) | 2:10 | 2024-02-27 | 2024-10-15 |
 | [A Cruel Angel's Thesis \(Director's Edit Version\)](https://open.spotify.com/track/3x4378ztiLvFmm2nuzEI0C) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [Neon Genesis Evangelion \(Original Series Soundtrack\)](https://open.spotify.com/album/4vwgTxjKwiSWfEoGOqhiWa) | 4:05 | 2022-07-08 | 2023-01-06 |
-| [Abrakadabra](https://open.spotify.com/track/5WEv8GQubyTUSkPowNJa87) | [Sinoda](https://open.spotify.com/artist/0ndm6JWcrLhnmrbVzSGi0b), [XANAKIN SKYWOK](https://open.spotify.com/artist/2YHPVKeJcX02OyeNneU5v3) | [Abrakadabra](https://open.spotify.com/album/4mY1EBvNaHaOhoFtwpIre0) | 2:27 | 2025-02-21 |  |
+| [Abrakadabra](https://open.spotify.com/track/5WEv8GQubyTUSkPowNJa87) | [Sinoda](https://open.spotify.com/artist/0ndm6JWcrLhnmrbVzSGi0b), [XANAKIN SKYWOK](https://open.spotify.com/artist/2YHPVKeJcX02OyeNneU5v3) | [Abrakadabra](https://open.spotify.com/album/4mY1EBvNaHaOhoFtwpIre0) | 2:27 | 2025-02-21 | 2026-04-14 |
 | [Aces](https://open.spotify.com/track/2elzUKJebZM50u2i6dgVnP) | [dkj](https://open.spotify.com/artist/5FU1KYJheed7LZIM2r6KrE) | [Aces](https://open.spotify.com/album/3RZ5noE2X4Fn4OhdfslVex) | 2:02 | 2022-11-09 | 2022-12-01 |
 | [Aces](https://open.spotify.com/track/4pV6Kx1T9L49PBFwH1g8ca) | [dkj](https://open.spotify.com/artist/5FU1KYJheed7LZIM2r6KrE) | [Aces](https://open.spotify.com/album/7e0f5k0iqJVH5OdUEP9vOf) | 2:02 | 2022-11-10 | 2023-08-19 |
 | [af1](https://open.spotify.com/track/14piiV64kkkkPPKKcb8I9d) | [lilbubblegum](https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT) | [af1](https://open.spotify.com/album/50p7eSBfscW5XKSWbEQbD4) | 2:21 | 2022-11-21 | 2023-04-02 |
@@ -39,6 +39,7 @@
 | [All My Opps Live WITH Their Mom](https://open.spotify.com/track/1btv1dLscdeLe6OuqFr2pt) | [ICYTWAT](https://open.spotify.com/artist/6bVRNVg2f91pCAyKnrIOW0) | [All My Opps Live WITH Their Mom](https://open.spotify.com/album/0Nk12MzL5V2NklcGa9kf9v) | 1:08 | 2023-09-15 | 2023-09-27 |
 | [Alucard](https://open.spotify.com/track/20foGhmqyjTyHMVIgELLCo) | [Manny Force](https://open.spotify.com/artist/2Jv94ffHaw54qIhVAQp7KU), [Gravity in Space](https://open.spotify.com/artist/3R4wOxBYTNKIw48JzCFLIZ), [ONIEIGHT](https://open.spotify.com/artist/5rVuLxCcmw7Wu7rZljefdq) | [Alucard](https://open.spotify.com/album/7mgmq6iPdy9wU5Fq400Ho2) | 2:08 | 2022-05-25 | 2022-07-27 |
 | [Astral Plane \(High As Me\)](https://open.spotify.com/track/6OtJ8Jjjqv6rI2sEbJWD02) | [UnoTheActivist](https://open.spotify.com/artist/0bZ9jANLkwEFVcSnHnwrpb) | [Unoverse 3](https://open.spotify.com/album/189KwM8kcvIxFaV2xRjgkE) | 2:53 | 2023-09-15 | 2023-09-27 |
+| [Awake](https://open.spotify.com/track/3WPdIdjJP77kguVy3tFeiy) | [Derek Pope](https://open.spotify.com/artist/5wWvcn0hJXPhCw9eYUody0) | [Awake](https://open.spotify.com/album/6TNXXQpElH89ZOuJM9dLU5) | 3:14 | 2024-09-18 |  |
 | [BABY I'M HOME \(w/ Kanii & 9lives\)](https://open.spotify.com/track/34lGv6KdMFWZtsvvVcnp8S) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [BABY I'M HOME \(w/ Kanii & 9lives\)](https://open.spotify.com/album/4O7irFDDsdS9tYUaiVnO2H) | 3:28 | 2023-08-18 | 2023-11-29 |
 | [Baby My Phone](https://open.spotify.com/track/2SjvBmZYIbQTJ7rrPgdmV8) | [Yameii Online](https://open.spotify.com/artist/141ww9EOPLPetF8mMt1gKF) | [Baby My Phone](https://open.spotify.com/album/3fLglAkAwRiXwFKjGRQxQq) | 3:35 | 2022-05-25 | 2023-06-12 |
 | [Baby Steps](https://open.spotify.com/track/4sdG4lCBIhZIZnaVDORgNe) | [TisaKorean](https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq) | [Wasteland.](https://open.spotify.com/album/7jccxpvCNHBlEUiUQ45sRi) | 2:04 | 2023-09-15 | 2023-09-27 |

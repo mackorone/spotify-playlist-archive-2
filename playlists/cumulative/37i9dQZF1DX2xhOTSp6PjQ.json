@@ -2893,6 +2893,28 @@
     },
     {
       "album": {
+        "name": "Izethembiso",
+        "url": "https://open.spotify.com/album/2I7wr8XqNpmfMFPRzLL5eT"
+      },
+      "artists": [
+        {
+          "name": "Umlabalaba",
+          "url": "https://open.spotify.com/artist/4QpzTPW2meB4yr1ObtlQVY"
+        },
+        {
+          "name": "Mzukulu",
+          "url": "https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295706,
+      "name": "Kwelemcabango",
+      "url": "https://open.spotify.com/track/6AzZJCKaFwF0HziGm8iDr9"
+    },
+    {
+      "album": {
         "name": "LALELA",
         "url": "https://open.spotify.com/album/02l8jAhaSmr61BiAIciN9q"
       },
@@ -4244,7 +4266,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 249449,
       "name": "Shamuranca lami",
       "url": "https://open.spotify.com/track/3XocIp7lveKXIQcli6SyJl"

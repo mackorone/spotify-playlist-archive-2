@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume\. Cover: BINI
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,042,964 likes - 65 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,042,831 likes - 65 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 20 | [Tadhana](https://open.spotify.com/track/6FIEuf1JIzmCtach0gXpeG) | [Up Dharma Down](https://open.spotify.com/artist/3wbCeEPAW6po7J46netxMT) | [Capacities](https://open.spotify.com/album/1QpFitywD6FWjFWvTmLOw9) | 3:42 |
 | 21 | [Tala](https://open.spotify.com/track/6C6F2oA7cmZKqq26FPGl0J) | [Sarah Geronimo](https://open.spotify.com/artist/6aiCKnIN68hohzU3ZzNq48) | [The Great Unknown](https://open.spotify.com/album/7oZVQrwrQyq7Y3I2m06oeN) | 4:05 |
 | 22 | [Senses ft\. Sampha](https://open.spotify.com/track/53j4dcm9Jn47sFJx8nVz5X) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Ambiguous Desire](https://open.spotify.com/album/2l7Qtf3Mffx6ZIDTpyaMtS) | 4:02 |
-| 23 | [Ako Na Lang](https://open.spotify.com/track/0HEgpKfIPNUNzDsrBt3o3l) | [Zia Quizon](https://open.spotify.com/artist/45n4dyhe8nXULBDb6wHSXe) | [Zia](https://open.spotify.com/album/5oTW0Kf2BAIaXWQAttdsbs) | 3:24 |
-| 24 | [こんな日は](https://open.spotify.com/track/7HKhGLOcEBQoRLOCZqhcg5) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [こんな日は](https://open.spotify.com/album/2G0dlVPEasPaP53aWvS9Z9) | 3:07 |
+| 23 | [こんな日は](https://open.spotify.com/track/7HKhGLOcEBQoRLOCZqhcg5) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [こんな日は](https://open.spotify.com/album/2G0dlVPEasPaP53aWvS9Z9) | 3:07 |
+| 24 | [Ako Na Lang](https://open.spotify.com/track/0HEgpKfIPNUNzDsrBt3o3l) | [Zia Quizon](https://open.spotify.com/artist/45n4dyhe8nXULBDb6wHSXe) | [Zia](https://open.spotify.com/album/5oTW0Kf2BAIaXWQAttdsbs) | 3:24 |
 | 25 | [Use Me](https://open.spotify.com/track/3I6q7b1keDmi75xjPT2RIs) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [THAT'S SHOWBIZ BABY! THE ENCORE](https://open.spotify.com/album/7IjN10VEnyA5wnPOcLx12H) | 3:18 |
 | 26 | [Paligoy\-Ligoy \- From "Diary Ng Panget"](https://open.spotify.com/track/2mHZkcKMA1MkXAziIXQtVv) | [Nadine Lustre](https://open.spotify.com/artist/17Do37U0HEbxu1tOrKH8dL) | [Paligoy\-Ligoy \(From "Diary Ng Panget"\)](https://open.spotify.com/album/3KCYGc5oOMidMFih08J4or) | 3:18 |
 | 27 | [Titibo\-Tibo](https://open.spotify.com/track/2zArX6uAJaGQzMXoqob8V6) | [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [Malaya](https://open.spotify.com/album/4MPMYc8S6csdHlF8Ud1yLp) | 3:22 |

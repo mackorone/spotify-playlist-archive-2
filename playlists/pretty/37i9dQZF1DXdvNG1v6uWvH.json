@@ -1,6 +1,6 @@
 {
   "description": "Loksins New Music Friday! N\u00fd t\u00f3nlist Of ELVAR & Aron Can,  Laufey og m\u00f6rgum fleiri!",
-  "num_followers": 9616,
+  "num_followers": 9617,
   "original_name": "New Music Friday Iceland",
   "owner": {
     "name": "Spotify",
@@ -547,22 +547,6 @@
     {
       "added_at": "2026-04-10 00:00:05",
       "album": {
-        "name": "Ember",
-        "url": "https://open.spotify.com/album/7v39mio0wBEBfW44yf39bE"
-      },
-      "artists": [
-        {
-          "name": "Iceage",
-          "url": "https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU"
-        }
-      ],
-      "duration_ms": 205812,
-      "name": "Ember",
-      "url": "https://open.spotify.com/track/7jdLVBEhoDxGKdhfBEulzY"
-    },
-    {
-      "added_at": "2026-04-10 00:00:05",
-      "album": {
         "name": "Turn Up The Dose",
         "url": "https://open.spotify.com/album/4QVwTM7fq8X71sXAPhMi7P"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 172615,
       "name": "Turn Up The Dose",
       "url": "https://open.spotify.com/track/4IIb4DQxNBAowpUJmKYNMD"
+    },
+    {
+      "added_at": "2026-04-10 00:00:05",
+      "album": {
+        "name": "Ember",
+        "url": "https://open.spotify.com/album/7v39mio0wBEBfW44yf39bE"
+      },
+      "artists": [
+        {
+          "name": "Iceage",
+          "url": "https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU"
+        }
+      ],
+      "duration_ms": 205812,
+      "name": "Ember",
+      "url": "https://open.spotify.com/track/7jdLVBEhoDxGKdhfBEulzY"
     },
     {
       "added_at": "2026-04-10 00:00:05",
@@ -687,6 +687,30 @@
     {
       "added_at": "2026-04-10 00:00:05",
       "album": {
+        "name": "Angel Falls",
+        "url": "https://open.spotify.com/album/4N5YEigQvTX9NrOKtptyG6"
+      },
+      "artists": [
+        {
+          "name": "Acid Boyz",
+          "url": "https://open.spotify.com/artist/1K078F4kwAcsOerdCs4m8a"
+        },
+        {
+          "name": "TOOMANYLEFTHANDS",
+          "url": "https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT"
+        },
+        {
+          "name": "Badjack",
+          "url": "https://open.spotify.com/artist/40oI86vaTUHgkSGlYkEiLM"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Angel Falls",
+      "url": "https://open.spotify.com/track/16beZTasuUy9VylngQzhm2"
+    },
+    {
+      "added_at": "2026-04-10 00:00:05",
+      "album": {
         "name": "Man Go",
         "url": "https://open.spotify.com/album/29BPVYkOxEGNE8RqyGhMjV"
       },
@@ -719,30 +743,6 @@
       "duration_ms": 265878,
       "name": "Plastic Camelia",
       "url": "https://open.spotify.com/track/0ep3CnoP0dSWyFPUhQJU0D"
-    },
-    {
-      "added_at": "2026-04-10 00:00:05",
-      "album": {
-        "name": "Angel Falls",
-        "url": "https://open.spotify.com/album/4N5YEigQvTX9NrOKtptyG6"
-      },
-      "artists": [
-        {
-          "name": "Acid Boyz",
-          "url": "https://open.spotify.com/artist/1K078F4kwAcsOerdCs4m8a"
-        },
-        {
-          "name": "TOOMANYLEFTHANDS",
-          "url": "https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT"
-        },
-        {
-          "name": "Badjack",
-          "url": "https://open.spotify.com/artist/40oI86vaTUHgkSGlYkEiLM"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Angel Falls",
-      "url": "https://open.spotify.com/track/16beZTasuUy9VylngQzhm2"
     },
     {
       "added_at": "2026-04-10 00:00:05",
@@ -787,6 +787,22 @@
     {
       "added_at": "2026-04-10 00:00:05",
       "album": {
+        "name": "Bad",
+        "url": "https://open.spotify.com/album/2pt92EysnA3W9rTFOt5jct"
+      },
+      "artists": [
+        {
+          "name": "Xabski",
+          "url": "https://open.spotify.com/artist/4gf1mGm7j8ELBFpR5CF1YF"
+        }
+      ],
+      "duration_ms": 135141,
+      "name": "Bad",
+      "url": "https://open.spotify.com/track/1NVupq5lOcX0PAlbcoauxy"
+    },
+    {
+      "added_at": "2026-04-10 00:00:05",
+      "album": {
         "name": "Front2Back",
         "url": "https://open.spotify.com/album/65UOok1o5HrOnyzBvaYCty"
       },
@@ -807,34 +823,18 @@
     {
       "added_at": "2026-04-10 00:00:05",
       "album": {
-        "name": "Bad",
-        "url": "https://open.spotify.com/album/2pt92EysnA3W9rTFOt5jct"
+        "name": "Safe and Sound",
+        "url": "https://open.spotify.com/album/490fzBpBbQcuEBaOS116Fj"
       },
       "artists": [
         {
-          "name": "Xabski",
-          "url": "https://open.spotify.com/artist/4gf1mGm7j8ELBFpR5CF1YF"
+          "name": "Eros for you",
+          "url": "https://open.spotify.com/artist/6hFvN0YDYv2sbSn7aY9AOa"
         }
       ],
-      "duration_ms": 135141,
-      "name": "Bad",
-      "url": "https://open.spotify.com/track/1NVupq5lOcX0PAlbcoauxy"
-    },
-    {
-      "added_at": "2026-04-10 00:00:05",
-      "album": {
-        "name": "Be Mine",
-        "url": "https://open.spotify.com/album/2ule2dKTjh6v7cLM3THHGm"
-      },
-      "artists": [
-        {
-          "name": "The Square",
-          "url": "https://open.spotify.com/artist/6ANvTGpJ3LJKZAziinXv9C"
-        }
-      ],
-      "duration_ms": 155892,
-      "name": "Be Mine",
-      "url": "https://open.spotify.com/track/6Blc6DLQzDNCIVbBBNkKTE"
+      "duration_ms": 197272,
+      "name": "Safe and Sound",
+      "url": "https://open.spotify.com/track/1rXEgR88Cm8jC28kWI99D8"
     },
     {
       "added_at": "2026-04-10 00:00:05",
@@ -855,34 +855,18 @@
     {
       "added_at": "2026-04-10 00:00:05",
       "album": {
-        "name": "Safe and Sound",
-        "url": "https://open.spotify.com/album/490fzBpBbQcuEBaOS116Fj"
+        "name": "Be Mine",
+        "url": "https://open.spotify.com/album/2ule2dKTjh6v7cLM3THHGm"
       },
       "artists": [
         {
-          "name": "Eros for you",
-          "url": "https://open.spotify.com/artist/6hFvN0YDYv2sbSn7aY9AOa"
+          "name": "The Square",
+          "url": "https://open.spotify.com/artist/6ANvTGpJ3LJKZAziinXv9C"
         }
       ],
-      "duration_ms": 197272,
-      "name": "Safe and Sound",
-      "url": "https://open.spotify.com/track/1rXEgR88Cm8jC28kWI99D8"
-    },
-    {
-      "added_at": "2026-04-10 00:00:05",
-      "album": {
-        "name": "A Stitch For Grand Affairs",
-        "url": "https://open.spotify.com/album/6qrW5ybZ8vKvJdHaA1UpEx"
-      },
-      "artists": [
-        {
-          "name": "The Court",
-          "url": "https://open.spotify.com/artist/4YeLPeJgbLboih3WGXZeWJ"
-        }
-      ],
-      "duration_ms": 181894,
-      "name": "A Stitch For Grand Affairs",
-      "url": "https://open.spotify.com/track/4XHZDe9D4wgtCxzNtJYFCG"
+      "duration_ms": 155892,
+      "name": "Be Mine",
+      "url": "https://open.spotify.com/track/6Blc6DLQzDNCIVbBBNkKTE"
     },
     {
       "added_at": "2026-04-10 00:00:05",
@@ -899,6 +883,22 @@
       "duration_ms": 171985,
       "name": "Slow My Heart Down",
       "url": "https://open.spotify.com/track/4zIF65DH7Li8XX5Acm0Jtp"
+    },
+    {
+      "added_at": "2026-04-10 00:00:05",
+      "album": {
+        "name": "A Stitch For Grand Affairs",
+        "url": "https://open.spotify.com/album/6qrW5ybZ8vKvJdHaA1UpEx"
+      },
+      "artists": [
+        {
+          "name": "The Court",
+          "url": "https://open.spotify.com/artist/4YeLPeJgbLboih3WGXZeWJ"
+        }
+      ],
+      "duration_ms": 181894,
+      "name": "A Stitch For Grand Affairs",
+      "url": "https://open.spotify.com/track/4XHZDe9D4wgtCxzNtJYFCG"
     },
     {
       "added_at": "2026-04-10 00:00:05",

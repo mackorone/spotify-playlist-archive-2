@@ -3392,10 +3392,32 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 219968,
       "name": "Knife Went In",
       "url": "https://open.spotify.com/track/5bBDvz7EAuVlPTlwKxSf7l"
+    },
+    {
+      "album": {
+        "name": "Avalanche (Deluxe)",
+        "url": "https://open.spotify.com/album/4j6Goz5pTpSgRyYjA8anfp"
+      },
+      "artists": [
+        {
+          "name": "Jenny Owen Youngs",
+          "url": "https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H"
+        },
+        {
+          "name": "Ruen Brothers",
+          "url": "https://open.spotify.com/artist/0CBu2ZuF5503TaauGVk1Go"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209353,
+      "name": "Knife Went In - Reimagined",
+      "url": "https://open.spotify.com/track/48TkSvLtMKe7CeYsNhvwbD"
     },
     {
       "album": {

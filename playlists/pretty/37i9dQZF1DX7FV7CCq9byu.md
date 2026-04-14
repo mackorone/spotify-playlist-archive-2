@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 
 > Det bästa från svensk & internationell pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,870 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,872 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,25 +14,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 | 4 | [RUNWAY](https://open.spotify.com/track/7BjcYqD0CqXnG45ezWSTYR) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [RUNWAY](https://open.spotify.com/album/0WY1wVmchFYlH4f1yZMc90) | 2:51 |
 | 5 | [Superlim & silvertejp](https://open.spotify.com/track/5lOGSH8HAnmJlvwnVFBa1s) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY), [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Superlim & silvertejp](https://open.spotify.com/album/6jZHjCPFSxmbsCWUo4FxVm) | 3:13 |
 | 6 | [Fel på dig](https://open.spotify.com/track/4UGJVXMoSyTUl61OdVJ3N0) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF), [Dante](https://open.spotify.com/artist/7HxyLgEfLQQnzrgMvUGVI5) | [Fel på dig](https://open.spotify.com/album/4dVOq4Bs0pF1VqnQZcEUiA) | 2:34 |
-| 7 | [Baewatch](https://open.spotify.com/track/0WQanxyDKJltTrsp29co9T) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Piratebae](https://open.spotify.com/album/3zvIXXx4TxO7px4sUq3IrA) | 3:27 |
+| 7 | [My Mess](https://open.spotify.com/track/5p3Jpxg9clWBDLy9kdD6CY) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [My Mess](https://open.spotify.com/album/6SJIgDyt7PDWKtlFP77VLu) | 3:11 |
 | 8 | [Bara mellan oss](https://open.spotify.com/track/4VIWX9gEawpAkvzvwz2a1h) | [Oskar Linnros](https://open.spotify.com/artist/3E8Mx37sikkaFoX5DRecLi) | [Bara mellan oss](https://open.spotify.com/album/0uu0VZmG5Bk4q5VAXTLmnn) | 3:41 |
-| 9 | [Beauty Pageant](https://open.spotify.com/track/5bvK9yntY8XIcNkTKSSNYr) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Cruel World](https://open.spotify.com/album/43TBVIMYFCJNsKSJK6H6TU) | 3:15 |
+| 9 | [Sick Of Love](https://open.spotify.com/track/6aPG5Atb3L3l8pZYzLrpEi) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Sick Of Love](https://open.spotify.com/album/2ETP833yyVmqvtnbnRHtxb) | 3:36 |
 | 10 | [Love Letter](https://open.spotify.com/track/4QcFLrc1uns09taWo7yFsa) | [Mulaa Joans](https://open.spotify.com/artist/2bas662BATSVlnZULsRIXs) | [Love Letter](https://open.spotify.com/album/11koFUb2flCfP4dELQ388y) | 2:56 |
-| 11 | [Sick Of Love](https://open.spotify.com/track/6aPG5Atb3L3l8pZYzLrpEi) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Sick Of Love](https://open.spotify.com/album/2ETP833yyVmqvtnbnRHtxb) | 3:36 |
-| 12 | [Younger You \- From the "Hannah Montana 20th Anniversary Special"](https://open.spotify.com/track/4kK5moArviedZ9LcKIDu1Z) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Younger You \(From the "Hannah Montana 20th Anniversary Special"\)](https://open.spotify.com/album/3tlEOoxO3h3mkLyLgftdz6) | 2:47 |
-| 13 | [My Mess](https://open.spotify.com/track/5p3Jpxg9clWBDLy9kdD6CY) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [My Mess](https://open.spotify.com/album/6SJIgDyt7PDWKtlFP77VLu) | 3:11 |
-| 14 | [Satan var en ängel](https://open.spotify.com/track/1ps4CnpPnbZ45WUY3ZT59X) | [noll2](https://open.spotify.com/artist/6goq2OWu3ncHBnpFtCZGHR) | [Satan var en ängel](https://open.spotify.com/album/0ADxyy1l1b43inf1fDCd4t) | 2:58 |
+| 11 | [Satan var en ängel](https://open.spotify.com/track/1ps4CnpPnbZ45WUY3ZT59X) | [noll2](https://open.spotify.com/artist/6goq2OWu3ncHBnpFtCZGHR) | [Satan var en ängel](https://open.spotify.com/album/0ADxyy1l1b43inf1fDCd4t) | 2:58 |
+| 12 | [Beauty Pageant](https://open.spotify.com/track/5bvK9yntY8XIcNkTKSSNYr) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Cruel World](https://open.spotify.com/album/43TBVIMYFCJNsKSJK6H6TU) | 3:15 |
+| 13 | [Younger You \- From the "Hannah Montana 20th Anniversary Special"](https://open.spotify.com/track/4kK5moArviedZ9LcKIDu1Z) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Younger You \(From the "Hannah Montana 20th Anniversary Special"\)](https://open.spotify.com/album/3tlEOoxO3h3mkLyLgftdz6) | 2:47 |
+| 14 | [Baewatch](https://open.spotify.com/track/0WQanxyDKJltTrsp29co9T) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Piratebae](https://open.spotify.com/album/3zvIXXx4TxO7px4sUq3IrA) | 3:27 |
 | 15 | [Tillbaka till dig](https://open.spotify.com/track/0Vnw5tTxEIa3PkMrLeUXhc) | [Newkid](https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6) | [Tillbaka till dig](https://open.spotify.com/album/5RqDdFG5yahgrDOy7RRCQO) | 2:36 |
 | 16 | [BLOND](https://open.spotify.com/track/33rnQxZL6yxSgvWFtBe3ci) | [jalda](https://open.spotify.com/artist/5qSesMOFsys9kvpVVOJnHa) | [BLOND](https://open.spotify.com/album/5Mp7yaHyPyTaNSEKIdJwaN) | 2:59 |
-| 17 | [Echo](https://open.spotify.com/track/1HJqcvrJAgiID47SEGe27X) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Echo](https://open.spotify.com/album/37CYoaYJA39qUt4zl00Dnp) | 3:39 |
-| 18 | [PINKY UP](https://open.spotify.com/track/4KmkJjHTNlr1jFY56Lyz4E) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [PINKY UP](https://open.spotify.com/album/5tLy0MEMDVqiHKso6B4jnz) | 2:11 |
-| 19 | [Tiden i min hand \(Om 100 år\)](https://open.spotify.com/track/3wYzLu8teMxrY6GG2DE5Nj) | [FILIPPA](https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG) | [Tiden i min hand \(Om 100 år\)](https://open.spotify.com/album/0JoXr5oqVqlQuSbwErn0Kj) | 3:01 |
-| 20 | [Det gör så ont](https://open.spotify.com/track/6FyKG2Pw4JPYi7jJ7Hh5gC) | [Vince Wavy](https://open.spotify.com/artist/1SqKGJizWclJMBj6HETaTW), [Melwin Wid](https://open.spotify.com/artist/4NaHJb2Q1WaWdU4IIHKcdb) | [Det gör så ont](https://open.spotify.com/album/4OSwNvqp1QyONZIHWb1zV4) | 2:33 |
-| 21 | [Fiji](https://open.spotify.com/track/4goZlS7441L0Atf2BzC2lH) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Fiji](https://open.spotify.com/album/7B8bJuucCOAPu2wvYSGxfv) | 2:38 |
-| 22 | [HELIGT VATTEN](https://open.spotify.com/track/6rZnvAe5JLqPOKd8unWTKc) | [ABEL](https://open.spotify.com/artist/24s1thJhRUKrnGcnFDBi5E) | [ABELS UPPENBARELSE](https://open.spotify.com/album/7eSXUGy2VrG7CLt14d5BlO) | 2:47 |
-| 23 | [I Know You're Hurting.](https://open.spotify.com/track/0ka0xUb0kho8KMOCuuPOZJ) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [THIS MUSIC MAY CONTAIN HOPE.](https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9) | 6:17 |
-| 24 | [Need Your Love](https://open.spotify.com/track/3FK9wVJHNdJhqVPbIcoZsn) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Need Your Love](https://open.spotify.com/album/3UZVtXHg8FsA3Y9H1S1NbI) | 3:58 |
-| 25 | [Bottom Of Your Boots](https://open.spotify.com/track/0hv6276QhpMDnVJIMxEWPH) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Dandelion](https://open.spotify.com/album/6nrtxtgaD9zSYBl9APvOCH) | 3:19 |
+| 17 | [Bottom Of Your Boots](https://open.spotify.com/track/0hv6276QhpMDnVJIMxEWPH) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Dandelion](https://open.spotify.com/album/6nrtxtgaD9zSYBl9APvOCH) | 3:19 |
+| 18 | [Echo](https://open.spotify.com/track/1HJqcvrJAgiID47SEGe27X) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Echo](https://open.spotify.com/album/37CYoaYJA39qUt4zl00Dnp) | 3:39 |
+| 19 | [PINKY UP](https://open.spotify.com/track/4KmkJjHTNlr1jFY56Lyz4E) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [PINKY UP](https://open.spotify.com/album/5tLy0MEMDVqiHKso6B4jnz) | 2:11 |
+| 20 | [Tiden i min hand \(Om 100 år\)](https://open.spotify.com/track/3wYzLu8teMxrY6GG2DE5Nj) | [FILIPPA](https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG) | [Tiden i min hand \(Om 100 år\)](https://open.spotify.com/album/0JoXr5oqVqlQuSbwErn0Kj) | 3:01 |
+| 21 | [Det gör så ont](https://open.spotify.com/track/6FyKG2Pw4JPYi7jJ7Hh5gC) | [Vince Wavy](https://open.spotify.com/artist/1SqKGJizWclJMBj6HETaTW), [Melwin Wid](https://open.spotify.com/artist/4NaHJb2Q1WaWdU4IIHKcdb) | [Det gör så ont](https://open.spotify.com/album/4OSwNvqp1QyONZIHWb1zV4) | 2:33 |
+| 22 | [Fiji](https://open.spotify.com/track/4goZlS7441L0Atf2BzC2lH) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Fiji](https://open.spotify.com/album/7B8bJuucCOAPu2wvYSGxfv) | 2:38 |
+| 23 | [HELIGT VATTEN](https://open.spotify.com/track/6rZnvAe5JLqPOKd8unWTKc) | [ABEL](https://open.spotify.com/artist/24s1thJhRUKrnGcnFDBi5E) | [ABELS UPPENBARELSE](https://open.spotify.com/album/7eSXUGy2VrG7CLt14d5BlO) | 2:47 |
+| 24 | [I Know You're Hurting.](https://open.spotify.com/track/0ka0xUb0kho8KMOCuuPOZJ) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [THIS MUSIC MAY CONTAIN HOPE.](https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9) | 6:17 |
+| 25 | [Need Your Love](https://open.spotify.com/track/3FK9wVJHNdJhqVPbIcoZsn) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Need Your Love](https://open.spotify.com/album/3UZVtXHg8FsA3Y9H1S1NbI) | 3:58 |
 | 26 | [A Stitch For Grand Affairs](https://open.spotify.com/track/4XHZDe9D4wgtCxzNtJYFCG) | [The Court](https://open.spotify.com/artist/4YeLPeJgbLboih3WGXZeWJ) | [A Stitch For Grand Affairs](https://open.spotify.com/album/6qrW5ybZ8vKvJdHaA1UpEx) | 3:01 |
 | 27 | [Sucker For Love](https://open.spotify.com/track/5O8GYy3zDYonQno0UWYc9n) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Sexistential](https://open.spotify.com/album/6RYCig4T2bEZu2gnM0OxRL) | 3:34 |
 | 28 | [MAYDAY](https://open.spotify.com/track/1PrlIJypnhaiB0CTfg9CZF) | [Dolly Style](https://open.spotify.com/artist/0D00AEI0IWmoBtdIH75zXs) | [MAYDAY](https://open.spotify.com/album/14qJzwoPjDNZ0ufhfo00FW) | 2:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 | 99 | [Homewrecker](https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [Homewrecker](https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4) | 3:29 |
 | 100 | [LOVESONGS](https://open.spotify.com/track/2VxbZ0V7UK4tR17FVDwIPR) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [BEAUTIFUL MADNESS](https://open.spotify.com/album/6T3WdeRv9rqMIlmnloB2Dv) | 3:33 |
 
-Snapshot ID: `AAAAAJ10Z7NaziRGgP9T8bG1oWSp2i1b`
+Snapshot ID: `AAAAAMXEWUL7tKtyHilXjN0d3kj7USkU`

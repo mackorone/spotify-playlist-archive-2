@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVOrABrZKBq.md) - [plain]
 
 > Les nouveautés rap franco sans frontières\. Photo: Nono La Grinta
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,986 likes - 85 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,997 likes - 85 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

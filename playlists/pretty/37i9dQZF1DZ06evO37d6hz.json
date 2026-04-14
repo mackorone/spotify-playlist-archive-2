@@ -1,12 +1,12 @@
 {
   "description": "This is Laurie Spiegel. The essential tracks, all in one playlist.",
-  "num_followers": 491,
+  "num_followers": 490,
   "original_name": "This Is Laurie Spiegel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "admPAAAAAACeH+Aw87Q9CLCaSn4bi3bj",
+  "snapshot_id": "adrggAAAAADYrNg3fOXP5WDB15ZB4H1C",
   "tracks": [
     {
       "added_at": null,
@@ -108,9 +108,9 @@
           "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
         }
       ],
-      "duration_ms": 413720,
-      "name": "Old Wave",
-      "url": "https://open.spotify.com/track/0KBRR5awpziELPG5H7dOTK"
+      "duration_ms": 586760,
+      "name": "Patchwork",
+      "url": "https://open.spotify.com/track/4RLVoOmGiYhxUe9WVPr8t2"
     },
     {
       "added_at": null,
@@ -172,9 +172,9 @@
           "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
         }
       ],
-      "duration_ms": 586760,
-      "name": "Patchwork",
-      "url": "https://open.spotify.com/track/4RLVoOmGiYhxUe9WVPr8t2"
+      "duration_ms": 413720,
+      "name": "Old Wave",
+      "url": "https://open.spotify.com/track/0KBRR5awpziELPG5H7dOTK"
     },
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
         }
       ],
-      "duration_ms": 322960,
-      "name": "Appalachian Grove I",
-      "url": "https://open.spotify.com/track/58ODorNYopmxNhZnWdjQjO"
+      "duration_ms": 123773,
+      "name": "A Folk Study",
+      "url": "https://open.spotify.com/track/5SuTsR3Mjaq3Ss0VKFyQof"
     },
     {
       "added_at": null,
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
         }
       ],
-      "duration_ms": 123773,
-      "name": "A Folk Study",
-      "url": "https://open.spotify.com/track/5SuTsR3Mjaq3Ss0VKFyQof"
+      "duration_ms": 322960,
+      "name": "Appalachian Grove I",
+      "url": "https://open.spotify.com/track/58ODorNYopmxNhZnWdjQjO"
     }
   ],
   "unique_name": "This Is Laurie Spiegel",

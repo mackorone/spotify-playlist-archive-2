@@ -1,6 +1,6 @@
 {
   "description": "Hacele honor al domingo y terminalo bien arriba.",
-  "num_followers": 75423,
+  "num_followers": 75428,
   "original_name": "Antidomingo",
   "owner": {
     "name": "Spotify",
@@ -459,22 +459,6 @@
     {
       "added_at": "2026-02-04 16:00:35",
       "album": {
-        "name": "MTV Unplugged M\u00fasica De Fondo (Reissue/Live)",
-        "url": "https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-        }
-      ],
-      "duration_ms": 226626,
-      "name": "So\u00f1\u00e9 - En Vivo",
-      "url": "https://open.spotify.com/track/2VhJ4nrPorAbySEgO4V0BS"
-    },
-    {
-      "added_at": "2026-02-04 16:00:35",
-      "album": {
         "name": "Scorpion",
         "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 217925,
       "name": "In My Feelings",
       "url": "https://open.spotify.com/track/2G7V7zsVDxg1yRsu7Ew9RJ"
+    },
+    {
+      "added_at": "2026-02-04 16:00:35",
+      "album": {
+        "name": "MTV Unplugged M\u00fasica De Fondo (Reissue/Live)",
+        "url": "https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "duration_ms": 226626,
+      "name": "So\u00f1\u00e9 - En Vivo",
+      "url": "https://open.spotify.com/track/2VhJ4nrPorAbySEgO4V0BS"
     },
     {
       "added_at": "2026-02-04 16:00:35",
@@ -543,22 +543,6 @@
     {
       "added_at": "2026-02-04 16:00:35",
       "album": {
-        "name": "Don't Start Now",
-        "url": "https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 183290,
-      "name": "Don't Start Now",
-      "url": "https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg"
-    },
-    {
-      "added_at": "2026-02-04 16:00:35",
-      "album": {
         "name": "Clandestino",
         "url": "https://open.spotify.com/album/3xoAUqjKs7Ps7wR26VAMbq"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 158426,
       "name": "Bongo Bong",
       "url": "https://open.spotify.com/track/00SmB7n85SKROGjybsyq5i"
+    },
+    {
+      "added_at": "2026-02-04 16:00:35",
+      "album": {
+        "name": "Don't Start Now",
+        "url": "https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 183290,
+      "name": "Don't Start Now",
+      "url": "https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg"
     },
     {
       "added_at": "2026-02-04 16:00:35",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2026-02-04 16:00:35",
       "album": {
+        "name": "Herstory in the Making",
+        "url": "https://open.spotify.com/album/1F1JJHhqMo5DETJkesqGpG"
+      },
+      "artists": [
+        {
+          "name": "Young M.A",
+          "url": "https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9"
+        }
+      ],
+      "duration_ms": 225919,
+      "name": "BIG",
+      "url": "https://open.spotify.com/track/7cyeGclH71MayOuQ7qtLFl"
+    },
+    {
+      "added_at": "2026-02-04 16:00:35",
+      "album": {
         "name": "Confetti",
         "url": "https://open.spotify.com/album/7xfcihbsBamUi6sezd0oOG"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 128409,
       "name": "THRU THE NIGHT (feat. Bryson Tiller)",
       "url": "https://open.spotify.com/track/1AgSUWSzmza5jF6ER5R68v"
-    },
-    {
-      "added_at": "2026-02-04 16:00:35",
-      "album": {
-        "name": "Herstory in the Making",
-        "url": "https://open.spotify.com/album/1F1JJHhqMo5DETJkesqGpG"
-      },
-      "artists": [
-        {
-          "name": "Young M.A",
-          "url": "https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9"
-        }
-      ],
-      "duration_ms": 225919,
-      "name": "BIG",
-      "url": "https://open.spotify.com/track/7cyeGclH71MayOuQ7qtLFl"
     },
     {
       "added_at": "2026-02-04 16:00:35",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2026-02-04 16:00:35",
       "album": {
-        "name": "Amor Libre",
-        "url": "https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 249426,
-      "name": "Fuimos Amor",
-      "url": "https://open.spotify.com/track/6wkPUUWrRhBUFAqC5UCcG4"
-    },
-    {
-      "added_at": "2026-02-04 16:00:35",
-      "album": {
         "name": "Sea",
         "url": "https://open.spotify.com/album/5MAlr4sv266fgE8qVQUeuO"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 184546,
       "name": "Me haces bien",
       "url": "https://open.spotify.com/track/4UKe38tm5NkRpuFCxwewEe"
+    },
+    {
+      "added_at": "2026-02-04 16:00:35",
+      "album": {
+        "name": "Amor Libre",
+        "url": "https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 249426,
+      "name": "Fuimos Amor",
+      "url": "https://open.spotify.com/track/6wkPUUWrRhBUFAqC5UCcG4"
     },
     {
       "added_at": "2026-02-04 16:00:35",

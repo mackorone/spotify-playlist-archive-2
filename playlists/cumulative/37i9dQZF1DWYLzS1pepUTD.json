@@ -38,7 +38,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 88982,
       "name": "Bury Me",
       "url": "https://open.spotify.com/track/3UOxbR6zSCmEjzZsgjmRJz"
@@ -60,6 +60,24 @@
       "duration_ms": 297391,
       "name": "Cult of Personality (Remastered 2023)",
       "url": "https://open.spotify.com/track/5gRUFpRflutZDXSmp2rv32"
+    },
+    {
+      "album": {
+        "name": "I Believe In Joe Hendry",
+        "url": "https://open.spotify.com/album/4FjsP5IGHvKDYZoz7bFNhL"
+      },
+      "artists": [
+        {
+          "name": "Joe Hendry",
+          "url": "https://open.spotify.com/artist/0FJ0Zm6JprViuazYPk4keW"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73750,
+      "name": "I Believe In Joe Hendry",
+      "url": "https://open.spotify.com/track/2tfEDfDTTWmFf2fNpmVdDq"
     },
     {
       "album": {
@@ -118,7 +136,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 179598,
       "name": "Let's Light It up (AJ Lee)",
       "url": "https://open.spotify.com/track/5D3a3lsgr64Z58OmK2Gggs"
@@ -180,7 +198,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 161540,
       "name": "WWE: 10 Beats Of The Bodhr\u00e1n (Sheamus)",
       "url": "https://open.spotify.com/track/3BvDZCm22PyTG7cfrIEA9k"
@@ -338,6 +356,28 @@
       "duration_ms": 166261,
       "name": "WWE: All Mighty (Bobby Lashley)",
       "url": "https://open.spotify.com/track/5SXjm5vxLnElzAeDim7iAx"
+    },
+    {
+      "album": {
+        "name": "WWE: Alwayz Ready (Matt Cardona)",
+        "url": "https://open.spotify.com/album/6saJKoNvRmutjGvDg2AIxL"
+      },
+      "artists": [
+        {
+          "name": "WWE",
+          "url": "https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX"
+        },
+        {
+          "name": "def rebel",
+          "url": "https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174874,
+      "name": "WWE: Alwayz Ready (Matt Cardona)",
+      "url": "https://open.spotify.com/track/1f32vVtcOvklWxcO6GUaVb"
     },
     {
       "album": {
@@ -565,6 +605,28 @@
     },
     {
       "album": {
+        "name": "WWE: Bring It (Nattie)",
+        "url": "https://open.spotify.com/album/1mMMA3DZU7jyOGUqiBCZAn"
+      },
+      "artists": [
+        {
+          "name": "WWE",
+          "url": "https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX"
+        },
+        {
+          "name": "def rebel",
+          "url": "https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156711,
+      "name": "WWE: Bring It (Nattie)",
+      "url": "https://open.spotify.com/track/56XBCsD4XJk9UByn0lrX0j"
+    },
+    {
+      "album": {
         "name": "WWE: Bring the Swag (Street Profits)",
         "url": "https://open.spotify.com/album/7h7H5jq5VLuf5fz9IHjv3N"
       },
@@ -632,6 +694,28 @@
       "duration_ms": 135765,
       "name": "WWE: Burn The Ships (Baron Corbin)",
       "url": "https://open.spotify.com/track/4YxBpxBkcRZFzthi3SdsHC"
+    },
+    {
+      "album": {
+        "name": "WWE: Catch Your Breath (Finn B\u00e1lor)",
+        "url": "https://open.spotify.com/album/1O8xNBUsof7oHre2GRFuL6"
+      },
+      "artists": [
+        {
+          "name": "WWE",
+          "url": "https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX"
+        },
+        {
+          "name": "CFO$",
+          "url": "https://open.spotify.com/artist/4aemlCxfmvFjJa8YKvaiJI"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292794,
+      "name": "WWE: Catch Your Breath (Finn B\u00e1lor)",
+      "url": "https://open.spotify.com/track/02mR2D5tNN6Eb7qCspf0Hj"
     },
     {
       "album": {
@@ -767,6 +851,28 @@
     },
     {
       "album": {
+        "name": "WWE: Death Waltz (2025 Mix) [Ilja Dragunov]",
+        "url": "https://open.spotify.com/album/05tEUftqSHOEKU4PDM1vww"
+      },
+      "artists": [
+        {
+          "name": "WWE",
+          "url": "https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX"
+        },
+        {
+          "name": "def rebel",
+          "url": "https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168074,
+      "name": "WWE: Death Waltz (2025 Mix) [Ilja Dragunov]",
+      "url": "https://open.spotify.com/track/0jixUHQ37Jlq5qHDErqmXO"
+    },
+    {
+      "album": {
         "name": "WWE: Death Waltz (Ilja Dragunov)",
         "url": "https://open.spotify.com/album/3LfHO4wY01Ch3HknMqqcKD"
       },
@@ -852,7 +958,7 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-25",
+      "date_removed": null,
       "duration_ms": 161863,
       "name": "WWE: El Grande (El Grande Americano)",
       "url": "https://open.spotify.com/track/7kVTZlnX4GrinnHMzTIaxj"
@@ -1194,7 +1300,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 149842,
       "name": "WWE: I AM DANGER (Finn B\u00e1lor)",
       "url": "https://open.spotify.com/track/45G4QkIjK4Oob3K3arZxFG"
@@ -1443,6 +1549,28 @@
     },
     {
       "album": {
+        "name": "WWE: LA PRIMERA (Stephanie Vaquer)",
+        "url": "https://open.spotify.com/album/52vh14uGyFqq34X3OKKU2u"
+      },
+      "artists": [
+        {
+          "name": "WWE",
+          "url": "https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX"
+        },
+        {
+          "name": "def rebel",
+          "url": "https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162375,
+      "name": "WWE: LA PRIMERA (Stephanie Vaquer)",
+      "url": "https://open.spotify.com/track/5BC9uMOHccov2N6yZZTryE"
+    },
+    {
+      "album": {
         "name": "WWE: Last Warning (Naomi)",
         "url": "https://open.spotify.com/album/7oqNbgyHbnmoWk8z5xOX2y"
       },
@@ -1458,7 +1586,7 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 181540,
       "name": "WWE: Last Warning (Naomi)",
       "url": "https://open.spotify.com/track/6lqi8HVgUQvm81850vHiIx"
@@ -1484,6 +1612,28 @@
       "duration_ms": 152207,
       "name": "WWE: Legacy Of The Ghost (Santos Escobar)",
       "url": "https://open.spotify.com/track/57do2RsTvIU9zr1JD5zH7r"
+    },
+    {
+      "album": {
+        "name": "WWE: Let's Light It Up (AJ Lee)",
+        "url": "https://open.spotify.com/album/3i8YQs2uTiyGEHCnhh96T5"
+      },
+      "artists": [
+        {
+          "name": "WWE",
+          "url": "https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX"
+        },
+        {
+          "name": "Kari Kimmel",
+          "url": "https://open.spotify.com/artist/6w5nIAeqFbZa9qssSwPsyn"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179598,
+      "name": "WWE: Let's Light It Up (AJ Lee)",
+      "url": "https://open.spotify.com/track/0l0hWndMeub9ZWx9cosR53"
     },
     {
       "album": {
@@ -1572,6 +1722,28 @@
       "duration_ms": 178702,
       "name": "WWE: Main Event Ish (Jey Uso)",
       "url": "https://open.spotify.com/track/2jURegUm3ed6RJSq5mufy9"
+    },
+    {
+      "album": {
+        "name": "WWE: Man Up (Kit Wilson)",
+        "url": "https://open.spotify.com/album/0ONd3lscUcx8ejwmVB5uJj"
+      },
+      "artists": [
+        {
+          "name": "WWE",
+          "url": "https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX"
+        },
+        {
+          "name": "def rebel",
+          "url": "https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169800,
+      "name": "WWE: Man Up (Kit Wilson)",
+      "url": "https://open.spotify.com/track/2J8i5HWBrmS8SFx5eWRyOG"
     },
     {
       "album": {
@@ -1708,7 +1880,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 146514,
       "name": "WWE: New Foundation (Natalya)",
       "url": "https://open.spotify.com/track/0qwbetfPe2RZ91pnFl1zG9"
@@ -1884,7 +2056,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 148999,
       "name": "WWE: Prepare To Fight (Gunther)",
       "url": "https://open.spotify.com/track/6DzHAHtyNMlyc6P3rIhVVy"
@@ -2336,10 +2508,32 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 152831,
       "name": "WWE: Substance Over Style (No Quarter Catch Crew)",
       "url": "https://open.spotify.com/track/16w0jnMHeSzP66LHct57bu"
+    },
+    {
+      "album": {
+        "name": "WWE: Symphony No. 9 In E Minor (2025) [Gunther]",
+        "url": "https://open.spotify.com/album/3kFhTWXHFkw86BlLNezejJ"
+      },
+      "artists": [
+        {
+          "name": "WWE",
+          "url": "https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX"
+        },
+        {
+          "name": "def rebel",
+          "url": "https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176276,
+      "name": "WWE: Symphony No. 9 In E Minor (2025) [Gunther]",
+      "url": "https://open.spotify.com/track/0fZ2InlkBNISgmffmBPlI8"
     },
     {
       "album": {
@@ -2630,10 +2824,32 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 186896,
       "name": "WWE: The Visual (Zelina Vega)",
       "url": "https://open.spotify.com/track/4AFjOOtygQ1iqrAnNbl5BN"
+    },
+    {
+      "album": {
+        "name": "WWE: This Is Me (Austin Theory)",
+        "url": "https://open.spotify.com/album/3MqpCQcbq12AuHuLzcmQFb"
+      },
+      "artists": [
+        {
+          "name": "WWE",
+          "url": "https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX"
+        },
+        {
+          "name": "def rebel",
+          "url": "https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166530,
+      "name": "WWE: This Is Me (Austin Theory)",
+      "url": "https://open.spotify.com/track/0HA7p5Q5oyg1gGCruHmQ5H"
     },
     {
       "album": {
@@ -2792,6 +3008,28 @@
       "duration_ms": 174030,
       "name": "WWE: Truth And Pain (Shawn Spears)",
       "url": "https://open.spotify.com/track/5bl4AM5aUfUWmkYt1yaWhg"
+    },
+    {
+      "album": {
+        "name": "WWE: Two Bosses (The Irresistible Forces)",
+        "url": "https://open.spotify.com/album/6EDpuDxKGLtvzECzgFERPP"
+      },
+      "artists": [
+        {
+          "name": "WWE",
+          "url": "https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX"
+        },
+        {
+          "name": "def rebel",
+          "url": "https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158620,
+      "name": "WWE: Two Bosses (The Irresistible Forces)",
+      "url": "https://open.spotify.com/track/6kp75zuCdcfGZkVA6guHL1"
     },
     {
       "album": {
@@ -3156,6 +3394,28 @@
       "duration_ms": 213545,
       "name": "WWE: Written in My Face (Sheamus)",
       "url": "https://open.spotify.com/track/71FkjfHQrninkwXX7Mz3v6"
+    },
+    {
+      "album": {
+        "name": "WWE: You Are Cursed (Danhausen)",
+        "url": "https://open.spotify.com/album/6gzZ7qshIEIKLEIqV3waUg"
+      },
+      "artists": [
+        {
+          "name": "WWE",
+          "url": "https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX"
+        },
+        {
+          "name": "def rebel",
+          "url": "https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188647,
+      "name": "WWE: You Are Cursed (Danhausen)",
+      "url": "https://open.spotify.com/track/2Q9dpB4Tz66293Ufnr08pF"
     },
     {
       "album": {

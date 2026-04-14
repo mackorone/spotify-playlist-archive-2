@@ -1,12 +1,12 @@
 {
   "description": "This is Jenni Rivera. The essential tracks, all in one playlist.",
-  "num_followers": 546491,
+  "num_followers": 546539,
   "original_name": "This Is Jenni Rivera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "admPAAAAAAC4WxA7PE51Q2fEJxLjyizg",
+  "snapshot_id": "adrggAAAAAA2Lm7SufewjStlxjxD/coI",
   "tracks": [
     {
       "added_at": null,
@@ -355,6 +355,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mi Vida Loca",
+        "url": "https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 160880,
+      "name": "Cuanto Te Debo",
+      "url": "https://open.spotify.com/track/5YnM1ANB0hhm9Jk2O53Zrl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Besos y Copas Desde Hollywood (En Vivo)",
         "url": "https://open.spotify.com/album/0RhEu6IcEPSdrW6GFzQipE"
       },
@@ -371,8 +387,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Vida Loca",
-        "url": "https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM"
+        "name": "Parrandera, Rebelde y Atrevida",
+        "url": "https://open.spotify.com/album/2I50wzYim7XrZhBSrolmzs"
       },
       "artists": [
         {
@@ -380,9 +396,9 @@
           "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 160880,
-      "name": "Cuanto Te Debo",
-      "url": "https://open.spotify.com/track/5YnM1ANB0hhm9Jk2O53Zrl"
+      "duration_ms": 244200,
+      "name": "Cuando Muere una Dama",
+      "url": "https://open.spotify.com/track/2WDYkaIeWZOxdnp14Oa71G"
     },
     {
       "added_at": null,
@@ -403,22 +419,6 @@
       "duration_ms": 267080,
       "name": "Taquito De Ojo",
       "url": "https://open.spotify.com/track/0sVjpJLaiJfDeqnMNwIu0v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Parrandera, Rebelde y Atrevida",
-        "url": "https://open.spotify.com/album/2I50wzYim7XrZhBSrolmzs"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 244200,
-      "name": "Cuando Muere una Dama",
-      "url": "https://open.spotify.com/track/2WDYkaIeWZOxdnp14Oa71G"
     },
     {
       "added_at": null,

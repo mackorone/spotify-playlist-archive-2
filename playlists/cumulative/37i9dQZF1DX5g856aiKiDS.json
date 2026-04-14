@@ -427,6 +427,24 @@
     },
     {
       "album": {
+        "name": "allang mallang",
+        "url": "https://open.spotify.com/album/31fB7mjP83b3Mf96sfmaZh"
+      },
+      "artists": [
+        {
+          "name": "ZIN CHOI",
+          "url": "https://open.spotify.com/artist/3YoRa6VhgjdFdg8vv5OA4b"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120527,
+      "name": "allang mallang",
+      "url": "https://open.spotify.com/track/5i2NJDXiUvCdH8yDX9FQ6b"
+    },
+    {
+      "album": {
         "name": "Alright!",
         "url": "https://open.spotify.com/album/0O6RkM76lLkKaY2HhbdGwO"
       },
@@ -1236,7 +1254,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 183786,
       "name": "Cloud",
       "url": "https://open.spotify.com/track/2WdgZcToOXFt3ZKlT5PW6P"
@@ -1362,7 +1380,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 168000,
       "name": "COLORING",
       "url": "https://open.spotify.com/track/5HxhCvXhUkMWobnWvkJRSd"
@@ -3702,7 +3720,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 200822,
       "name": "juicy",
       "url": "https://open.spotify.com/track/7CZlQzwfuBgKvhkejwEEoy"
@@ -4176,7 +4194,7 @@
       ],
       "date_added": "2025-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-06",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "lost in you",
       "url": "https://open.spotify.com/track/4eidgKChMdRhxH1XnjHU7G"
@@ -5022,6 +5040,24 @@
       "duration_ms": 183226,
       "name": "New Reels (Feat. pH-1)",
       "url": "https://open.spotify.com/track/3EA9QZbFscCuOByqSKOhCG"
+    },
+    {
+      "album": {
+        "name": "STELLA II",
+        "url": "https://open.spotify.com/album/2K4Pd51tojKUFwBOArfLRx"
+      },
+      "artists": [
+        {
+          "name": "Stella Jang",
+          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231505,
+      "name": "News & Sames",
+      "url": "https://open.spotify.com/track/2ivkHxcmwVvbgVRMIXRzvs"
     },
     {
       "album": {
@@ -6087,6 +6123,24 @@
     },
     {
       "album": {
+        "name": "Pink, then grey",
+        "url": "https://open.spotify.com/album/7m7Z7Qi4enLFgn1s8vgYgh"
+      },
+      "artists": [
+        {
+          "name": "Min Jiwoon",
+          "url": "https://open.spotify.com/artist/5kgihglqsCaqCbtsJ0ef6v"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157209,
+      "name": "Scared of Love",
+      "url": "https://open.spotify.com/track/1fCdHI0EBnGabru914ap2f"
+    },
+    {
+      "album": {
         "name": "Seaside",
         "url": "https://open.spotify.com/album/3Zs0W0goVXAQ5R3uEaZhzM"
       },
@@ -6418,7 +6472,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 190781,
       "name": "Something 'Bout You",
       "url": "https://open.spotify.com/track/5bshUu5GDgs78XnfmySwDE"

@@ -1,6 +1,6 @@
 {
   "description": "Flow so good, it deserved a reload.  Cover: Yizzy, Jme",
-  "num_followers": 725961,
+  "num_followers": 725910,
   "original_name": "Grime Shutdown",
   "owner": {
     "name": "Spotify",
@@ -807,22 +807,6 @@
     {
       "added_at": "2025-11-28 00:00:02",
       "album": {
-        "name": "3 3 3 3",
-        "url": "https://open.spotify.com/album/7JFR8bAEka2OjUGh5iPMZe"
-      },
-      "artists": [
-        {
-          "name": "Manga Saint Hilare",
-          "url": "https://open.spotify.com/artist/0jU1Tdr7ONlgk0Ey9JgXra"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "Hyperfocus",
-      "url": "https://open.spotify.com/track/2MjwF2xVs5hMYv8tFTyqIe"
-    },
-    {
-      "added_at": "2025-11-28 00:00:02",
-      "album": {
         "name": "Somebody Help?",
         "url": "https://open.spotify.com/album/5sUHs8jEOc4nwJkeWgfssW"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 164832,
       "name": "Somebody Help?",
       "url": "https://open.spotify.com/track/4nVlovvJ5GnA7JgSBhNs7e"
+    },
+    {
+      "added_at": "2025-11-28 00:00:02",
+      "album": {
+        "name": "3 3 3 3",
+        "url": "https://open.spotify.com/album/7JFR8bAEka2OjUGh5iPMZe"
+      },
+      "artists": [
+        {
+          "name": "Manga Saint Hilare",
+          "url": "https://open.spotify.com/artist/0jU1Tdr7ONlgk0Ey9JgXra"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "Hyperfocus",
+      "url": "https://open.spotify.com/track/2MjwF2xVs5hMYv8tFTyqIe"
     },
     {
       "added_at": "2025-11-28 00:00:02",
@@ -1043,6 +1043,26 @@
     {
       "added_at": "2025-11-28 00:00:02",
       "album": {
+        "name": "Bine",
+        "url": "https://open.spotify.com/album/35l2jyirhnJzTIunWDRg5t"
+      },
+      "artists": [
+        {
+          "name": "Silencer",
+          "url": "https://open.spotify.com/artist/11wflxoa3fmGng1xTbZ8LE"
+        },
+        {
+          "name": "Scorcher",
+          "url": "https://open.spotify.com/artist/2BYHpYwXO4zi36Tf3pEH5n"
+        }
+      ],
+      "duration_ms": 171433,
+      "name": "Bine",
+      "url": "https://open.spotify.com/track/5FgyfxTkE1KysK206WG76p"
+    },
+    {
+      "added_at": "2025-11-28 00:00:02",
+      "album": {
         "name": "Clean",
         "url": "https://open.spotify.com/album/7tx4cFdi9Cg2Xxzb77dWKA"
       },
@@ -1067,26 +1087,6 @@
       "duration_ms": 168107,
       "name": "Clean",
       "url": "https://open.spotify.com/track/2sne1i9emLeNbT6kSe1KMG"
-    },
-    {
-      "added_at": "2025-11-28 00:00:02",
-      "album": {
-        "name": "Bine",
-        "url": "https://open.spotify.com/album/35l2jyirhnJzTIunWDRg5t"
-      },
-      "artists": [
-        {
-          "name": "Silencer",
-          "url": "https://open.spotify.com/artist/11wflxoa3fmGng1xTbZ8LE"
-        },
-        {
-          "name": "Scorcher",
-          "url": "https://open.spotify.com/artist/2BYHpYwXO4zi36Tf3pEH5n"
-        }
-      ],
-      "duration_ms": 171433,
-      "name": "Bine",
-      "url": "https://open.spotify.com/track/5FgyfxTkE1KysK206WG76p"
     },
     {
       "added_at": "2025-11-28 00:00:02",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2025-11-28 00:00:02",
       "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/0gEJqJ8kG0Bws3JgR38Ibu"
+      },
+      "artists": [
+        {
+          "name": "GHENGHIS OTT",
+          "url": "https://open.spotify.com/artist/5QK20C8SnSQhtYwEL5wrbO"
+        }
+      ],
+      "duration_ms": 130746,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/65rruQRW7ZsSnc9S0LT6vB"
+    },
+    {
+      "added_at": "2025-11-28 00:00:02",
+      "album": {
         "name": "Tears",
         "url": "https://open.spotify.com/album/2EYiyFWdzIGQEdXrYNtydb"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 164954,
       "name": "Me?",
       "url": "https://open.spotify.com/track/3Mr7ifswvYLPpqbwOO43Tl"
-    },
-    {
-      "added_at": "2025-11-28 00:00:02",
-      "album": {
-        "name": "Golden Hour",
-        "url": "https://open.spotify.com/album/0gEJqJ8kG0Bws3JgR38Ibu"
-      },
-      "artists": [
-        {
-          "name": "GHENGHIS OTT",
-          "url": "https://open.spotify.com/artist/5QK20C8SnSQhtYwEL5wrbO"
-        }
-      ],
-      "duration_ms": 130746,
-      "name": "Golden Hour",
-      "url": "https://open.spotify.com/track/65rruQRW7ZsSnc9S0LT6vB"
     },
     {
       "added_at": "2025-11-28 00:00:02",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2025-11-28 00:00:02",
       "album": {
-        "name": "Just-B",
-        "url": "https://open.spotify.com/album/6wosb2TsbT4POqP17ll5R3"
-      },
-      "artists": [
-        {
-          "name": "Just-B",
-          "url": "https://open.spotify.com/artist/6tQKpWqFbZTGXKCrdHJkTh"
-        }
-      ],
-      "duration_ms": 182142,
-      "name": "Jenova",
-      "url": "https://open.spotify.com/track/7sj716ZVpLv3YDCM3ULFsc"
-    },
-    {
-      "added_at": "2025-11-28 00:00:02",
-      "album": {
         "name": "Something Brand New",
         "url": "https://open.spotify.com/album/5KqsKEisnzTiHKhI5AijVY"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 123428,
       "name": "Something Brand New",
       "url": "https://open.spotify.com/track/5M7VKkdDthDs1j9FTum292"
+    },
+    {
+      "added_at": "2025-11-28 00:00:02",
+      "album": {
+        "name": "Just-B",
+        "url": "https://open.spotify.com/album/6wosb2TsbT4POqP17ll5R3"
+      },
+      "artists": [
+        {
+          "name": "Just-B",
+          "url": "https://open.spotify.com/artist/6tQKpWqFbZTGXKCrdHJkTh"
+        }
+      ],
+      "duration_ms": 182142,
+      "name": "Jenova",
+      "url": "https://open.spotify.com/track/7sj716ZVpLv3YDCM3ULFsc"
     },
     {
       "added_at": "2025-11-28 00:00:02",

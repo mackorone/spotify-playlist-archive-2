@@ -1,12 +1,12 @@
 {
   "description": "This is MC Davo. The essential tracks, all in one playlist.",
-  "num_followers": 228979,
+  "num_followers": 228993,
   "original_name": "This Is MC Davo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "admPAAAAAACGo7ip0vAs3Lsnrq8IzCPI",
+  "snapshot_id": "adrggAAAAACZg8ywmpSOu1DQf/tN87hP",
   "tracks": [
     {
       "added_at": null,
@@ -463,22 +463,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Round 2 (feat. MC Davo) - Single",
-        "url": "https://open.spotify.com/album/6gEG4NR9X1VbaSv0lz5ETB"
+        "name": "El Dominio",
+        "url": "https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG"
       },
       "artists": [
-        {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-        },
         {
           "name": "MC Davo",
           "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
         }
       ],
-      "duration_ms": 201000,
-      "name": "Round 2",
-      "url": "https://open.spotify.com/track/3CVEOynsYT7V9lrNFPaZ8Y"
+      "duration_ms": 180053,
+      "name": "Debes de saber",
+      "url": "https://open.spotify.com/track/06T04xn5eDNWfzblgZ88P8"
     },
     {
       "added_at": null,
@@ -499,18 +495,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Dominio",
-        "url": "https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG"
+        "name": "Round 2 (feat. MC Davo) - Single",
+        "url": "https://open.spotify.com/album/6gEG4NR9X1VbaSv0lz5ETB"
       },
       "artists": [
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        },
         {
           "name": "MC Davo",
           "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
         }
       ],
-      "duration_ms": 180053,
-      "name": "Debes de saber",
-      "url": "https://open.spotify.com/track/06T04xn5eDNWfzblgZ88P8"
+      "duration_ms": 201000,
+      "name": "Round 2",
+      "url": "https://open.spotify.com/track/3CVEOynsYT7V9lrNFPaZ8Y"
     },
     {
       "added_at": null,
@@ -555,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Dominio",
+        "url": "https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 198120,
+      "name": "Me ir\u00e9",
+      "url": "https://open.spotify.com/track/6CSexH4aNAaHWVyetH747g"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mijo\u2026 \u00bfy la novia?",
         "url": "https://open.spotify.com/album/4EXuUB10jPvlUnmQ28Iv2u"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 188855,
       "name": "Mijo\u2026 \u00bfy la novia?",
       "url": "https://open.spotify.com/track/27Qf1TpvAk59kURJkoOuJB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Dominio",
-        "url": "https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 198120,
-      "name": "Me ir\u00e9",
-      "url": "https://open.spotify.com/track/6CSexH4aNAaHWVyetH747g"
     },
     {
       "added_at": null,
@@ -811,6 +811,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Miercolitros",
+        "url": "https://open.spotify.com/album/1ACn7xjvgbj1pFtGUEfFT2"
+      },
+      "artists": [
+        {
+          "name": "Luis Carrillo",
+          "url": "https://open.spotify.com/artist/1zQGq31aajlt5qvmHyrwQn"
+        },
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "R\u00e9gulo Molina",
+          "url": "https://open.spotify.com/artist/6sbrrDwFdWvTLiq8NUykqm"
+        }
+      ],
+      "duration_ms": 194935,
+      "name": "Miercolitros",
+      "url": "https://open.spotify.com/track/1wWKyurZ9zQum4xmLD93yM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Salto de Fe",
         "url": "https://open.spotify.com/album/46onTMzi9FlGypnp4NgzqI"
       },
@@ -835,30 +859,6 @@
       "duration_ms": 241656,
       "name": "Le Pido a la Noche",
       "url": "https://open.spotify.com/track/0QU3Pzrlf2MpWA25c4EwSb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Miercolitros",
-        "url": "https://open.spotify.com/album/1ACn7xjvgbj1pFtGUEfFT2"
-      },
-      "artists": [
-        {
-          "name": "Luis Carrillo",
-          "url": "https://open.spotify.com/artist/1zQGq31aajlt5qvmHyrwQn"
-        },
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        },
-        {
-          "name": "R\u00e9gulo Molina",
-          "url": "https://open.spotify.com/artist/6sbrrDwFdWvTLiq8NUykqm"
-        }
-      ],
-      "duration_ms": 194935,
-      "name": "Miercolitros",
-      "url": "https://open.spotify.com/track/1wWKyurZ9zQum4xmLD93yM"
     },
     {
       "added_at": null,

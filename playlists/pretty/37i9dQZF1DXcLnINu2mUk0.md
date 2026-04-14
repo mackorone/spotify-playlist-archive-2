@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Nenny
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,022 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,037 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 16 | [Faz Bem](https://open.spotify.com/track/38adAyMqsOEwCdXETWCPPa) | [Bluay](https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Faz Bem](https://open.spotify.com/album/1TW06h2SedE0SrfFXK7QHo) | 3:03 |
 | 17 | [Bebe 1 Copo e Desfruta](https://open.spotify.com/track/5UbAJ6ZiPndX12JYRqxxPX) | [Myles 6ix](https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l), [Blutab](https://open.spotify.com/artist/22kBEgCG7XpuS0OJS1vP07), [Dimon](https://open.spotify.com/artist/7qWWkEWQ78SzepBgVOhDXN) | [Bebe 1 Copo e Desfruta](https://open.spotify.com/album/4bQWCONT2jD4NlKWG6SzWa) | 3:31 |
 | 18 | [Partir Coração](https://open.spotify.com/track/0mHTeaDy95c90zuiYQVWUG) | [Agir](https://open.spotify.com/artist/6CDebPALpa0iwJyx0IgnaC), [EMMVR](https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI) | [Partir Coração](https://open.spotify.com/album/5geqAXS9s16v1F8rDsoW2Z) | 2:42 |
-| 19 | [Impec](https://open.spotify.com/track/37M00uZSz6smSxZ7pHchuh) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [Deepak Looper](https://open.spotify.com/album/6fmSivCeFMAVtMGA2GRMZf) | 3:13 |
-| 20 | [Carro \(feat\. Dillaz\)](https://open.spotify.com/track/5yS8wgwBnmjpXwGislck0n) | [Bárbara Bandeira](https://open.spotify.com/artist/4zhMand4AowXuUz4VpGiTJ), [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Finda](https://open.spotify.com/album/5BBWda4ImqHa9rZ6Qy4f19) | 3:22 |
+| 19 | [Carro \(feat\. Dillaz\)](https://open.spotify.com/track/5yS8wgwBnmjpXwGislck0n) | [Bárbara Bandeira](https://open.spotify.com/artist/4zhMand4AowXuUz4VpGiTJ), [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Finda](https://open.spotify.com/album/5BBWda4ImqHa9rZ6Qy4f19) | 3:22 |
+| 20 | [Impec](https://open.spotify.com/track/37M00uZSz6smSxZ7pHchuh) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [Deepak Looper](https://open.spotify.com/album/6fmSivCeFMAVtMGA2GRMZf) | 3:13 |
 | 21 | [Por Enquanto](https://open.spotify.com/track/5fjD0vHh9XRL6b657FWe9C) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Por Enquanto](https://open.spotify.com/album/1uFTodamqWqlk5KwYkqy0n) | 2:22 |
 | 22 | [Amor de Agosto](https://open.spotify.com/track/6wVVIGFQdgQkYYEaYcGC2M) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4), [Mariana Pereira](https://open.spotify.com/artist/6OFJLqSjsWsigPp8MTcNHm) | [Amor de Agosto](https://open.spotify.com/album/43OLhOCAzmBiNuoNS856NS) | 2:49 |
 | 23 | [TA TUDO BEM](https://open.spotify.com/track/15ERxM3x0D2HzqdhPxsbd2) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [COR D'ÁGUA](https://open.spotify.com/album/7G4pMhZajkeOLWgvQyGhta) | 4:32 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 58 | [ONE IN A MILLION](https://open.spotify.com/track/5AvjS3c4A5XuNQmCk3nV40) | [LZ](https://open.spotify.com/artist/7ylnIZOT3I0EdTMcWVTLud), [Rafaell Dior](https://open.spotify.com/artist/4G8d2H1R7P1rlGptL7Uzla), [XROOTZ](https://open.spotify.com/artist/0ZDuMqcz7YEc0sJDijQmEb) | [ONE IN A MILLION](https://open.spotify.com/album/3c1vk2G8qt8Dom4NHTmRgC) | 2:35 |
 | 59 | [Chamadas](https://open.spotify.com/track/5qp0l5NUFRlwLuDs9Xxogv) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [Chamadas](https://open.spotify.com/album/6AWc7VG51dRddGEWXjLpcH) | 2:36 |
 | 60 | [Tóxico \(feat\. Ivandro & WIU\)](https://open.spotify.com/track/1AlA6M3Kr97ZsWzlQBCxZh) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [FIM DO NADA](https://open.spotify.com/album/4ieTgQMc5iTm5EHAui9wsc) | 3:16 |
-| 61 | [Flexin On U](https://open.spotify.com/track/21WFD8glO3k4hYmOiprEFF) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF), [Tatiana Duarte](https://open.spotify.com/artist/78o0thKbUQAtuBKIy9FwdT) | [Flexin On U](https://open.spotify.com/album/483ljN85NtrrdrvsNSXF8u) | 4:31 |
-| 62 | [Sometimes](https://open.spotify.com/track/5ZU1TW5KbwOb7r0ZDILy7c) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Sometimes](https://open.spotify.com/album/5KtyAVXpW4uqD2TG02NTA4) | 4:00 |
+| 61 | [Sometimes](https://open.spotify.com/track/5ZU1TW5KbwOb7r0ZDILy7c) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Sometimes](https://open.spotify.com/album/5KtyAVXpW4uqD2TG02NTA4) | 4:00 |
+| 62 | [Flexin On U](https://open.spotify.com/track/21WFD8glO3k4hYmOiprEFF) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF), [Tatiana Duarte](https://open.spotify.com/artist/78o0thKbUQAtuBKIy9FwdT) | [Flexin On U](https://open.spotify.com/album/483ljN85NtrrdrvsNSXF8u) | 4:31 |
 | 63 | [Pé Descalço](https://open.spotify.com/track/0KCfDsOY1k1gA1JxzJZotI) | [Domingues](https://open.spotify.com/artist/7BcPoZhXI08icbiq1mpxFx) | [Pé Descalço](https://open.spotify.com/album/6NvtgRhxTLAiikcTrTKt1d) | 3:34 |
 | 64 | [À Procura](https://open.spotify.com/track/2gRjbu1mxypKW0zPyf5uGa) | [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw) | [Violetta](https://open.spotify.com/album/2bxwGAO6LDVzSjPoEggQ58) | 2:32 |
 | 65 | [Sei\-te de Cor](https://open.spotify.com/track/2ZIWYtx82CrNATOhUeAJpv) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Sei\-te de Cor](https://open.spotify.com/album/0EfndHIa8rIjSWDoJtoGcg) | 3:39 |

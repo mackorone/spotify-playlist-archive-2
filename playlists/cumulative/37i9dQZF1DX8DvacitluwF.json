@@ -4949,6 +4949,24 @@
     },
     {
       "album": {
+        "name": "idea 1",
+        "url": "https://open.spotify.com/album/0d0V3ranIJdJ0RjSo4Q7Qm"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205066,
+      "name": "idea 1",
+      "url": "https://open.spotify.com/track/3ZTKg748vW7Zrll3wzwjJy"
+    },
+    {
+      "album": {
         "name": "LIFE AS YOU KNOW IT, THE BEST OF LUCK AND THE WORST OF TIMES",
         "url": "https://open.spotify.com/album/738x96kICIYTdlC3k1UbiP"
       },
@@ -6868,7 +6886,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 199401,
       "name": "me u & pride",
       "url": "https://open.spotify.com/track/0H0Zs9VdBSKqRIJGBpLbY4"

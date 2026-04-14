@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra Ramón, Holly Humberstone, Roc Boyz & VC Barre og mange flere!🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,106 likes - 102 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,098 likes - 102 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 80 | [in my arms](https://open.spotify.com/track/7yWy7PV3Sv6kzjhgx4gI4S) | [abelon](https://open.spotify.com/artist/6RknJW6TTU6TQfTZDptOui) | [in my arms](https://open.spotify.com/album/0UvFs5H7Rtv6u26xJsU5uP) | 2:05 |
 | 81 | [Nature Boy](https://open.spotify.com/track/4cRJgrwnOXskOBqi8GAmCB) | [Les Poissons](https://open.spotify.com/artist/7KwOEm0raHThiwz9sW0XwQ) | [Nature Boy](https://open.spotify.com/album/65Zq8Uc43UDos0HJB5Uhih) | 3:17 |
 | 82 | [popstar](https://open.spotify.com/track/5AwGP1KCArVx19XaT0qwxO) | [Pasha](https://open.spotify.com/artist/0elSJZFrHnayc7AUCkbWAl) | [popstar](https://open.spotify.com/album/0E9kF0WT4u54l7L0SUItJM) | 2:18 |
-| 83 | [Dead Dreams](https://open.spotify.com/track/72wU4Sv3396wmM7V1e8J63) | [Lucy La Dusk](https://open.spotify.com/artist/76DAyaPavieO3UaU0MDPHb), [Sa\_G](https://open.spotify.com/artist/4qcl8QgUavlYcyQqvf07QT), [Simone Alysia](https://open.spotify.com/artist/5EwLk5HvIuMvn9I3ZInpQH) | [Dead Dreams](https://open.spotify.com/album/2qVj77yHQ8VSWZRx89Xgem) | 5:53 |
+| 83 | [Dead Dreams](https://open.spotify.com/track/72wU4Sv3396wmM7V1e8J63) | [Lucy La Dusk](https://open.spotify.com/artist/76DAyaPavieO3UaU0MDPHb), [Sa\_G](https://open.spotify.com/artist/5ys6SWXPFzxaULLoEmaO7L), [Simone Alysia](https://open.spotify.com/artist/5EwLk5HvIuMvn9I3ZInpQH) | [Dead Dreams](https://open.spotify.com/album/2qVj77yHQ8VSWZRx89Xgem) | 5:53 |
 | 84 | [Château Brute](https://open.spotify.com/track/5v3GSpHEm5fHqZhndz0y4B) | [Luna Morgenstern](https://open.spotify.com/artist/3Ei4Zm5sKiLabWKEd8hfRh), [girl\_irl](https://open.spotify.com/artist/0JVxdYzBWXOjkjt2e5r76D) | [Château Brute](https://open.spotify.com/album/2IHLwyoNxJhZ9BgeMsAZH8) | 2:44 |
 | 85 | [Slow My Heart Down](https://open.spotify.com/track/4zIF65DH7Li8XX5Acm0Jtp) | [School of X](https://open.spotify.com/artist/4VL17UwE7ktJcG04WdbR9B) | [Slow My Heart Down / Not Enough Time](https://open.spotify.com/album/2pSVANTGiOtriSKlqFpFSq) | 2:51 |
 | 86 | [gråblå](https://open.spotify.com/track/325pgfDMepqnxJR3kW090V) | [sara leander](https://open.spotify.com/artist/2E9ZTDKZJg66tJOKJphWQ1) | [gråblå](https://open.spotify.com/album/78lHhnazD1ZQ7vh0preoRx) | 3:06 |

@@ -4,7 +4,7 @@
 
 > updated with new <a href="https://youtube.com/c/dreamscapeyt">youtube uploads</a>...
 
-847 songs - 1 day 5 hr 30 min
+849 songs - 1 day 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -499,6 +499,7 @@
 | [maybe this isn't the end](https://open.spotify.com/track/5VBbsknRcjQz6OoFm4oUgW) | [ID10](https://open.spotify.com/artist/6AZ1XtXdaFlXxadYdUijtX) | [maybe this isn't the end](https://open.spotify.com/album/4QMYBG93iXCNMJp0Vs7ds6) | 1:30 | 2025-10-10 | 2026-01-03 |
 | [me](https://open.spotify.com/track/2hIFROpvkUghAkTBq7fmF3) | [d2s1](https://open.spotify.com/artist/0l6f9cXGE0K2QbcK1ZBgCY) | [me](https://open.spotify.com/album/4GxIBaOPAdYOUJaaJqdeIE) | 1:10 | 2026-02-27 |  |
 | [me and you](https://open.spotify.com/track/1XJm9PpyzTW933OfeZt2sn) | [oversyncing](https://open.spotify.com/artist/7spI8g04DQFgq7CFYS5sUf), [arancina](https://open.spotify.com/artist/5YdVyeU1XSouFk8VBSfLAO) | [me and you](https://open.spotify.com/album/1cnmusjpMM96nb6NUzcu3R) | 1:52 | 2025-10-31 | 2026-01-03 |
+| [Melancholic Rain](https://open.spotify.com/track/3gZDbtA8m1hGBUHwVO5wwg) | [SÆTA](https://open.spotify.com/artist/2YGX24ACQ6l88HmiuTG39p), [empty street](https://open.spotify.com/artist/7ELpHgqHZTRYMlIt1vm89X) | [Melancholic Rain](https://open.spotify.com/album/7jNQLGLjxvpGT4TlYn9Zru) | 2:26 | 2026-04-13 |  |
 | [Melancholy Bloom](https://open.spotify.com/track/4GMTikqkvB24yhIPbWAe9Z) | [HØUXTON](https://open.spotify.com/artist/2scyn1qiOgz5pOR3NFUokW) | [Melancholy Bloom](https://open.spotify.com/album/3iStsqN9h72CNtIl5ExlcM) | 2:04 | 2025-06-20 | 2026-01-03 |
 | [melted heart](https://open.spotify.com/track/7lUeNSTmaeF1z6PlDCm0OF) | [c152](https://open.spotify.com/artist/61ldkgdUuSCTWorEjwAIeB) | [melted heart](https://open.spotify.com/album/2dqNKT9yLSD6HWt9lHmkii) | 1:54 | 2025-03-14 |  |
 | [memories](https://open.spotify.com/track/2Vj1OMtjDCPlYIMmvak2Iq) | [.diedlonely](https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur), [Jay Karin](https://open.spotify.com/artist/1MaQRDI7QUo8lm9vwWrBfL) | [memories](https://open.spotify.com/album/1FlMizTLU44bh37i6tAKh1) | 1:49 | 2025-02-07 |  |
@@ -624,6 +625,7 @@
 | [runaway \(ambient rework\)](https://open.spotify.com/track/7AVF1PwcyzFmGofqsN1UzZ) | [Eleftherios](https://open.spotify.com/artist/6z7DDiVB1Cca0P1VcsvxM9) | [runaway \(ambient rework\)](https://open.spotify.com/album/6aWOGaaEPXfOYnVipXT0ZA) | 2:09 | 2025-03-14 |  |
 | [Runner](https://open.spotify.com/track/6GhpXSfuilbu8oqeSWtDFW) | [Hotel Pools](https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz), [hiræth](https://open.spotify.com/artist/3eeveX1dMtylueBGenVFDf) | [Runner](https://open.spotify.com/album/1TelseKwOIOXlJrytAFM7j) | 2:24 | 2025-05-23 |  |
 | [running xut xf dxubt \(Instrumental\)](https://open.spotify.com/track/2OreyCOw6SXX2LsboCKTqr) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X) | [running xut xf dxubt](https://open.spotify.com/album/4IjsE5b94zTM8pf5b5hY4I) | 2:12 | 2025-03-08 |  |
+| [rust and regret](https://open.spotify.com/track/6nUCHnqvAYb4pAQ8NX6HmW) | [idotis.](https://open.spotify.com/artist/04McO25lubmkATkF0PUwnh) | [rust and regret](https://open.spotify.com/album/0yWEjKMjDr3l6uZW8Ktjky) | 2:00 | 2026-04-13 |  |
 | [sadcore2009](https://open.spotify.com/track/0MUL2UjG1IxwFu6fzzGBAS) | [Willix](https://open.spotify.com/artist/6xWCdgEVD3rUXv3AYA4VPj), [hiræth](https://open.spotify.com/artist/3eeveX1dMtylueBGenVFDf) | [sadcore2009](https://open.spotify.com/album/7yPW43NVz9AFvy90nonUID) | 1:58 | 2025-02-28 |  |
 | [sailing the night sky](https://open.spotify.com/track/5pKcldIIMmYRPbwqhTZXLF) | [Dean Korso](https://open.spotify.com/artist/0X7zZBoY6ObInbi8IUVfpx), [remind me](https://open.spotify.com/artist/60xAlF5GiiiIY7uvQL9NxI) | [sailing the night sky](https://open.spotify.com/album/6ivOEmwcvao5FUuKhVV5uV) | 2:40 | 2025-09-20 |  |
 | [sapphire](https://open.spotify.com/track/21GyLZmHNZ7NAcwwpnM93p) | [vinter](https://open.spotify.com/artist/6t2jsqfuSymmmvx1cQfKGs), [hiræth](https://open.spotify.com/artist/3eeveX1dMtylueBGenVFDf) | [sapphire](https://open.spotify.com/album/7aKZv3qNDxdvXaphw1ByW7) | 1:23 | 2025-05-16 |  |

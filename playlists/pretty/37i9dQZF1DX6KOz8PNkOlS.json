@@ -1,6 +1,6 @@
 {
   "description": "Transform your workspace into a cozy retreat with gentle tunes and warm vibes",
-  "num_followers": 588102,
+  "num_followers": 588148,
   "original_name": "Soft Office",
   "owner": {
     "name": "Spotify",
@@ -323,18 +323,18 @@
     {
       "added_at": "2026-02-20 16:14:28",
       "album": {
-        "name": "Glimmer of God",
-        "url": "https://open.spotify.com/album/2sdEcm60h3HBZkd5k7SkRh"
+        "name": "Mood Valiant",
+        "url": "https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG"
       },
       "artists": [
         {
-          "name": "Jean Dawson",
-          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+          "name": "Hiatus Kaiyote",
+          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
         }
       ],
-      "duration_ms": 208626,
-      "name": "Darlin'",
-      "url": "https://open.spotify.com/track/3lFVdFLQeBXLxqKxqwqIfS"
+      "duration_ms": 203266,
+      "name": "And We Go Gentle",
+      "url": "https://open.spotify.com/track/3PHgxKy3nKy0v9KvUtHl8g"
     },
     {
       "added_at": "2026-02-20 16:14:28",
@@ -355,18 +355,18 @@
     {
       "added_at": "2026-02-20 16:14:28",
       "album": {
-        "name": "Mood Valiant",
-        "url": "https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG"
+        "name": "Glimmer of God",
+        "url": "https://open.spotify.com/album/2sdEcm60h3HBZkd5k7SkRh"
       },
       "artists": [
         {
-          "name": "Hiatus Kaiyote",
-          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
         }
       ],
-      "duration_ms": 203266,
-      "name": "And We Go Gentle",
-      "url": "https://open.spotify.com/track/3PHgxKy3nKy0v9KvUtHl8g"
+      "duration_ms": 208626,
+      "name": "Darlin'",
+      "url": "https://open.spotify.com/track/3lFVdFLQeBXLxqKxqwqIfS"
     },
     {
       "added_at": "2026-02-20 16:14:28",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2026-02-20 16:14:28",
       "album": {
-        "name": "1995",
-        "url": "https://open.spotify.com/album/4Quvgrx92Y7qwsnLj2ht7l"
-      },
-      "artists": [
-        {
-          "name": "Kruder & Dorfmeister",
-          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
-        }
-      ],
-      "duration_ms": 281730,
-      "name": "Love Hope Change",
-      "url": "https://open.spotify.com/track/4xHul0lZ8qC7nNDgBjsJSM"
-    },
-    {
-      "added_at": "2026-02-20 16:14:28",
-      "album": {
         "name": "Loveher",
         "url": "https://open.spotify.com/album/6n07xRHzroJVVSFnQ6TyiX"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 229346,
       "name": "Loveher",
       "url": "https://open.spotify.com/track/75PNzduM0yViwNeye50xdP"
+    },
+    {
+      "added_at": "2026-02-20 16:14:28",
+      "album": {
+        "name": "1995",
+        "url": "https://open.spotify.com/album/4Quvgrx92Y7qwsnLj2ht7l"
+      },
+      "artists": [
+        {
+          "name": "Kruder & Dorfmeister",
+          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
+        }
+      ],
+      "duration_ms": 281730,
+      "name": "Love Hope Change",
+      "url": "https://open.spotify.com/track/4xHul0lZ8qC7nNDgBjsJSM"
     },
     {
       "added_at": "2026-02-20 16:14:28",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2026-02-20 16:14:28",
       "album": {
-        "name": "Musas en Mi",
-        "url": "https://open.spotify.com/album/4DpsoTA4hQJ3C92jvokX1s"
-      },
-      "artists": [
-        {
-          "name": "Arath Herce",
-          "url": "https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs"
-        }
-      ],
-      "duration_ms": 334893,
-      "name": "Musas en Mi",
-      "url": "https://open.spotify.com/track/2z5Lw3cfLUpfXJymwKH6An"
-    },
-    {
-      "added_at": "2026-02-20 16:14:28",
-      "album": {
         "name": "Fuse",
         "url": "https://open.spotify.com/album/5FQMRfSunEA660c3dYU2Mx"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 219240,
       "name": "Run A Red Light",
       "url": "https://open.spotify.com/track/74ixyNYERpYysIIIjcYGBK"
+    },
+    {
+      "added_at": "2026-02-20 16:14:28",
+      "album": {
+        "name": "Musas en Mi",
+        "url": "https://open.spotify.com/album/4DpsoTA4hQJ3C92jvokX1s"
+      },
+      "artists": [
+        {
+          "name": "Arath Herce",
+          "url": "https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs"
+        }
+      ],
+      "duration_ms": 334893,
+      "name": "Musas en Mi",
+      "url": "https://open.spotify.com/track/2z5Lw3cfLUpfXJymwKH6An"
     },
     {
       "added_at": "2026-02-20 16:14:28",
@@ -1611,38 +1611,6 @@
     {
       "added_at": "2026-02-20 16:14:28",
       "album": {
-        "name": "We Had A Good Time",
-        "url": "https://open.spotify.com/album/4TKffHJdGJQmDMsMzYVzmO"
-      },
-      "artists": [
-        {
-          "name": "Bullion",
-          "url": "https://open.spotify.com/artist/6vcPgFOkMWBoY6Ks6eMEWj"
-        }
-      ],
-      "duration_ms": 190084,
-      "name": "We Had A Good Time",
-      "url": "https://open.spotify.com/track/0QQVRQ99PRD0c3dL1bMQ1J"
-    },
-    {
-      "added_at": "2026-02-20 16:14:28",
-      "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/26TRY87O1WOXeGyq4oKacJ"
-      },
-      "artists": [
-        {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
-        }
-      ],
-      "duration_ms": 210922,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/33mBfdwbMkOflInZGaLGJ2"
-    },
-    {
-      "added_at": "2026-02-20 16:14:28",
-      "album": {
         "name": "20 Years Dope Noir - Oranje Album",
         "url": "https://open.spotify.com/album/0sZdCLGEGLayVCJaNgMnW6"
       },
@@ -1663,6 +1631,38 @@
       "duration_ms": 185250,
       "name": "The Moon Above",
       "url": "https://open.spotify.com/track/0LSWKdrsuw8V2IQ3MsoOrF"
+    },
+    {
+      "added_at": "2026-02-20 16:14:28",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/26TRY87O1WOXeGyq4oKacJ"
+      },
+      "artists": [
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "duration_ms": 210922,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/33mBfdwbMkOflInZGaLGJ2"
+    },
+    {
+      "added_at": "2026-02-20 16:14:28",
+      "album": {
+        "name": "We Had A Good Time",
+        "url": "https://open.spotify.com/album/4TKffHJdGJQmDMsMzYVzmO"
+      },
+      "artists": [
+        {
+          "name": "Bullion",
+          "url": "https://open.spotify.com/artist/6vcPgFOkMWBoY6Ks6eMEWj"
+        }
+      ],
+      "duration_ms": 190084,
+      "name": "We Had A Good Time",
+      "url": "https://open.spotify.com/track/0QQVRQ99PRD0c3dL1bMQ1J"
     },
     {
       "added_at": "2026-02-20 16:14:28",

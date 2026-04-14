@@ -1,6 +1,6 @@
 {
   "description": "Unas buenas cumbias con el calor de la gente! \nFoto: Ke Personajes & Ulises Bueno.",
-  "num_followers": 262862,
+  "num_followers": 262939,
   "original_name": "Vivo de Cumbia",
   "owner": {
     "name": "Spotify",
@@ -619,6 +619,22 @@
     {
       "added_at": "2026-03-13 03:00:05",
       "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/0wdwM7dPqceHeIdCXL5UGL"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 64017,
+      "name": "Jurabas Tu - En Vivo",
+      "url": "https://open.spotify.com/track/1BFY2GhALH2uua588f0zkK"
+    },
+    {
+      "added_at": "2026-03-13 03:00:05",
+      "album": {
         "name": "El Delirio de Perderte / Te Vas a Arrepentir / Vete",
         "url": "https://open.spotify.com/album/7kaJpPaXQWftu2JtlcPnKS"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 362235,
       "name": "El Delirio de Perderte / Te Vas a Arrepentir / Vete",
       "url": "https://open.spotify.com/track/3XgBkO4HqaUmF9QmtYSQHC"
-    },
-    {
-      "added_at": "2026-03-13 03:00:05",
-      "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/0wdwM7dPqceHeIdCXL5UGL"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 64017,
-      "name": "Jurabas Tu - En Vivo",
-      "url": "https://open.spotify.com/track/1BFY2GhALH2uua588f0zkK"
     },
     {
       "added_at": "2026-03-13 03:00:05",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-03-13 03:00:05",
       "album": {
-        "name": "Ella Dijo / Mil Horas",
-        "url": "https://open.spotify.com/album/2IrMRFzb3Om0a07Dn8pk5f"
-      },
-      "artists": [
-        {
-          "name": "18 Kilates",
-          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
-        }
-      ],
-      "duration_ms": 199435,
-      "name": "Ella Dijo / Mil Horas - En Vivo",
-      "url": "https://open.spotify.com/track/3bb6w80Nhj6SeFyWoDCmtl"
-    },
-    {
-      "added_at": "2026-03-13 03:00:05",
-      "album": {
         "name": "En Vivo 2019",
         "url": "https://open.spotify.com/album/2TNP2hyka7p1k13ZUTApE8"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 147113,
       "name": "Jurabas Tu - En Vivo",
       "url": "https://open.spotify.com/track/0JpPQbqEYy5fctotzdaSyJ"
+    },
+    {
+      "added_at": "2026-03-13 03:00:05",
+      "album": {
+        "name": "Ella Dijo / Mil Horas",
+        "url": "https://open.spotify.com/album/2IrMRFzb3Om0a07Dn8pk5f"
+      },
+      "artists": [
+        {
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
+        }
+      ],
+      "duration_ms": 199435,
+      "name": "Ella Dijo / Mil Horas - En Vivo",
+      "url": "https://open.spotify.com/track/3bb6w80Nhj6SeFyWoDCmtl"
     },
     {
       "added_at": "2026-03-13 03:00:05",
@@ -979,22 +979,6 @@
     {
       "added_at": "2026-03-13 03:00:05",
       "album": {
-        "name": "Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/5P7VEteqUqUhaDje7L2UVf"
-      },
-      "artists": [
-        {
-          "name": "Carlos Montalvo",
-          "url": "https://open.spotify.com/artist/0ZzSqYTxFlbTOmJsLX645M"
-        }
-      ],
-      "duration_ms": 148906,
-      "name": "Sin ti no se vivir",
-      "url": "https://open.spotify.com/track/7L9YJpt99uvrMBHpSfAUEC"
-    },
-    {
-      "added_at": "2026-03-13 03:00:05",
-      "album": {
         "name": "En Vivo en el Gran Rex",
         "url": "https://open.spotify.com/album/46mGVrvM2DljU2MH6xXzSx"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 177739,
       "name": "No Llores - En Vivo",
       "url": "https://open.spotify.com/track/24U7yMeIbDoIn8aZXtOj13"
+    },
+    {
+      "added_at": "2026-03-13 03:00:05",
+      "album": {
+        "name": "Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/5P7VEteqUqUhaDje7L2UVf"
+      },
+      "artists": [
+        {
+          "name": "Carlos Montalvo",
+          "url": "https://open.spotify.com/artist/0ZzSqYTxFlbTOmJsLX645M"
+        }
+      ],
+      "duration_ms": 148906,
+      "name": "Sin ti no se vivir",
+      "url": "https://open.spotify.com/track/7L9YJpt99uvrMBHpSfAUEC"
     },
     {
       "added_at": "2026-03-13 03:00:05",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2026-03-13 03:00:05",
       "album": {
+        "name": "En Vivo en Fantastico Bailable",
+        "url": "https://open.spotify.com/album/0HEBwnZSYuJ0MoMnFqGeoS"
+      },
+      "artists": [
+        {
+          "name": "Gilda",
+          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
+        }
+      ],
+      "duration_ms": 216449,
+      "name": "No Me Arrepiento de Este Amor - En Vivo",
+      "url": "https://open.spotify.com/track/5QAAcj7DhjZr7LmHTPWJYW"
+    },
+    {
+      "added_at": "2026-03-13 03:00:05",
+      "album": {
         "name": "Recordando / Dudas (En Vivo)",
         "url": "https://open.spotify.com/album/3cSt8iKh3bROdkyrcksFi8"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 307375,
       "name": "Recordando / Dudas - En Vivo",
       "url": "https://open.spotify.com/track/0Eo5FcB5bHGjmisR8WtUQk"
-    },
-    {
-      "added_at": "2026-03-13 03:00:05",
-      "album": {
-        "name": "En Vivo en Fantastico Bailable",
-        "url": "https://open.spotify.com/album/0HEBwnZSYuJ0MoMnFqGeoS"
-      },
-      "artists": [
-        {
-          "name": "Gilda",
-          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
-        }
-      ],
-      "duration_ms": 216449,
-      "name": "No Me Arrepiento de Este Amor - En Vivo",
-      "url": "https://open.spotify.com/track/5QAAcj7DhjZr7LmHTPWJYW"
     },
     {
       "added_at": "2026-03-13 03:00:05",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2026-03-13 03:00:05",
       "album": {
-        "name": "En Vivo en el Teatro",
-        "url": "https://open.spotify.com/album/1vvB4ZiqQrtrt0xBrh96qW"
-      },
-      "artists": [
-        {
-          "name": "El Polaco",
-          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
-        }
-      ],
-      "duration_ms": 1189088,
-      "name": "Poco a Poco / La Chica Indicada / Un Sue\u00f1o / Separemonos / Fui Feliz / Amor, Amor / Ahora Regresas / En Este Mundo / La Pollera de Jimmy - En Vivo",
-      "url": "https://open.spotify.com/track/5biJmTVSy8a0rxgj0LbmF4"
-    },
-    {
-      "added_at": "2026-03-13 03:00:05",
-      "album": {
         "name": "Que Vuelvas (En Vivo)",
         "url": "https://open.spotify.com/album/55f3uyiaumuYOnewFODFYD"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 108129,
       "name": "Que Vuelvas - En Vivo",
       "url": "https://open.spotify.com/track/0Z5bUqfLXTPT0DfX5gIa6f"
+    },
+    {
+      "added_at": "2026-03-13 03:00:05",
+      "album": {
+        "name": "En Vivo en el Teatro",
+        "url": "https://open.spotify.com/album/1vvB4ZiqQrtrt0xBrh96qW"
+      },
+      "artists": [
+        {
+          "name": "El Polaco",
+          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
+        }
+      ],
+      "duration_ms": 1189088,
+      "name": "Poco a Poco / La Chica Indicada / Un Sue\u00f1o / Separemonos / Fui Feliz / Amor, Amor / Ahora Regresas / En Este Mundo / La Pollera de Jimmy - En Vivo",
+      "url": "https://open.spotify.com/track/5biJmTVSy8a0rxgj0LbmF4"
     },
     {
       "added_at": "2026-03-13 03:00:05",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2026-03-13 03:00:05",
       "album": {
-        "name": "Un Millon de Rosas / Me Enamore de una Bandida / El Camison (En Vivo)",
-        "url": "https://open.spotify.com/album/6Xp8jfGfA8gCZa5PK3Rlwo"
-      },
-      "artists": [
-        {
-          "name": "Ale Ceberio",
-          "url": "https://open.spotify.com/artist/7fxj9VjDxGpHfOPEkgxm6e"
-        }
-      ],
-      "duration_ms": 429920,
-      "name": "Un Millon de Rosas / Me Enamore / El Camison (En Vivo)",
-      "url": "https://open.spotify.com/track/1XtgMbP5enmvmfOoPtt2Io"
-    },
-    {
-      "added_at": "2026-03-13 03:00:05",
-      "album": {
         "name": "Nunca M\u00e1s (En Vivo)",
         "url": "https://open.spotify.com/album/1cVkFAllEL8LHbwU0OHsUA"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 184618,
       "name": "Nunca M\u00e1s - En Vivo",
       "url": "https://open.spotify.com/track/0KNEOI14ngvaVebUikICG7"
+    },
+    {
+      "added_at": "2026-03-13 03:00:05",
+      "album": {
+        "name": "Un Millon de Rosas / Me Enamore de una Bandida / El Camison (En Vivo)",
+        "url": "https://open.spotify.com/album/6Xp8jfGfA8gCZa5PK3Rlwo"
+      },
+      "artists": [
+        {
+          "name": "Ale Ceberio",
+          "url": "https://open.spotify.com/artist/7fxj9VjDxGpHfOPEkgxm6e"
+        }
+      ],
+      "duration_ms": 429920,
+      "name": "Un Millon de Rosas / Me Enamore / El Camison (En Vivo)",
+      "url": "https://open.spotify.com/track/1XtgMbP5enmvmfOoPtt2Io"
     },
     {
       "added_at": "2026-03-13 03:00:05",
@@ -1279,38 +1279,6 @@
     {
       "added_at": "2026-03-13 03:00:05",
       "album": {
-        "name": "Flor del Ba\u00f1ado (En Vivo)",
-        "url": "https://open.spotify.com/album/48au1oyXaWr5hmbyKMIKzF"
-      },
-      "artists": [
-        {
-          "name": "Lucas Sugo",
-          "url": "https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX"
-        }
-      ],
-      "duration_ms": 221376,
-      "name": "Flor del Ba\u00f1ado (En Vivo)",
-      "url": "https://open.spotify.com/track/377AzTYtB0NSahp11mfa3K"
-    },
-    {
-      "added_at": "2026-03-13 03:00:05",
-      "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/2FCEskgKDeWbbi5RjX2nHv"
-      },
-      "artists": [
-        {
-          "name": "La Liga",
-          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
-        }
-      ],
-      "duration_ms": 312032,
-      "name": "Hoy Te Vi / El Paredon - En Vivo",
-      "url": "https://open.spotify.com/track/37G1wAESGKGK5BaoFlqnGy"
-    },
-    {
-      "added_at": "2026-03-13 03:00:05",
-      "album": {
         "name": "Cosas del Amor (En Vivo)",
         "url": "https://open.spotify.com/album/41WPVRFYR95CRt0vHagmpV"
       },
@@ -1335,6 +1303,22 @@
     {
       "added_at": "2026-03-13 03:00:05",
       "album": {
+        "name": "Flor del Ba\u00f1ado (En Vivo)",
+        "url": "https://open.spotify.com/album/48au1oyXaWr5hmbyKMIKzF"
+      },
+      "artists": [
+        {
+          "name": "Lucas Sugo",
+          "url": "https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX"
+        }
+      ],
+      "duration_ms": 221376,
+      "name": "Flor del Ba\u00f1ado (En Vivo)",
+      "url": "https://open.spotify.com/track/377AzTYtB0NSahp11mfa3K"
+    },
+    {
+      "added_at": "2026-03-13 03:00:05",
+      "album": {
         "name": "Ya Te Olvide (En Vivo)",
         "url": "https://open.spotify.com/album/69vSl7Ue6NQe92t0k7LVwC"
       },
@@ -1351,6 +1335,22 @@
     {
       "added_at": "2026-03-13 03:00:05",
       "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/2FCEskgKDeWbbi5RjX2nHv"
+      },
+      "artists": [
+        {
+          "name": "La Liga",
+          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
+        }
+      ],
+      "duration_ms": 312032,
+      "name": "Hoy Te Vi / El Paredon - En Vivo",
+      "url": "https://open.spotify.com/track/37G1wAESGKGK5BaoFlqnGy"
+    },
+    {
+      "added_at": "2026-03-13 03:00:05",
+      "album": {
         "name": "En Vivo...Hasta la Muerte",
         "url": "https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4"
       },
@@ -1363,22 +1363,6 @@
       "duration_ms": 496146,
       "name": "La Danza del Humo / Llegamos los Pibes Chorros / Mabel",
       "url": "https://open.spotify.com/track/7rAeisif8xqpyYZa8amZXp"
-    },
-    {
-      "added_at": "2026-03-13 03:00:05",
-      "album": {
-        "name": "En Vivo en Metropolis",
-        "url": "https://open.spotify.com/album/4oHlEryOif4ltmbrpzj7EO"
-      },
-      "artists": [
-        {
-          "name": "Siete Lunas",
-          "url": "https://open.spotify.com/artist/3OrjkcpKAlJClVOopBZicQ"
-        }
-      ],
-      "duration_ms": 283977,
-      "name": "Tu C\u00e1rcel - En Vivo",
-      "url": "https://open.spotify.com/track/5na2uVcCuoxDn3fEwtOKje"
     },
     {
       "added_at": "2026-03-13 03:00:05",
@@ -1403,18 +1387,18 @@
     {
       "added_at": "2026-03-13 03:00:05",
       "album": {
-        "name": "La Guerra de los Colores",
-        "url": "https://open.spotify.com/album/5G7tVYBJxPKUYCrUPAAtNh"
+        "name": "En Vivo en Metropolis",
+        "url": "https://open.spotify.com/album/4oHlEryOif4ltmbrpzj7EO"
       },
       "artists": [
         {
-          "name": "Grupo Red",
-          "url": "https://open.spotify.com/artist/7zGKMkRT4IMLgAJmFhf5cz"
+          "name": "Siete Lunas",
+          "url": "https://open.spotify.com/artist/3OrjkcpKAlJClVOopBZicQ"
         }
       ],
-      "duration_ms": 114058,
-      "name": "Dejame Amarte",
-      "url": "https://open.spotify.com/track/6F5CS7rrc8D2vu6z9HEhEF"
+      "duration_ms": 283977,
+      "name": "Tu C\u00e1rcel - En Vivo",
+      "url": "https://open.spotify.com/track/5na2uVcCuoxDn3fEwtOKje"
     },
     {
       "added_at": "2026-03-13 03:00:05",
@@ -1431,6 +1415,22 @@
       "duration_ms": 193000,
       "name": "Quiero Yo Saber (Donde Esta El Amor)",
       "url": "https://open.spotify.com/track/7iwRxlSdAWVvpQGlx1yYmc"
+    },
+    {
+      "added_at": "2026-03-13 03:00:05",
+      "album": {
+        "name": "La Guerra de los Colores",
+        "url": "https://open.spotify.com/album/5G7tVYBJxPKUYCrUPAAtNh"
+      },
+      "artists": [
+        {
+          "name": "Grupo Red",
+          "url": "https://open.spotify.com/artist/7zGKMkRT4IMLgAJmFhf5cz"
+        }
+      ],
+      "duration_ms": 114058,
+      "name": "Dejame Amarte",
+      "url": "https://open.spotify.com/track/6F5CS7rrc8D2vu6z9HEhEF"
     },
     {
       "added_at": "2026-03-13 03:00:05",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2026-03-13 03:00:05",
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/48a6h9MWyM2bxiAlc3B7Rr"
-      },
-      "artists": [
-        {
-          "name": "Daniel Cardozo",
-          "url": "https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T"
-        }
-      ],
-      "duration_ms": 121087,
-      "name": "Tu Carcel - En Vivo",
-      "url": "https://open.spotify.com/track/5MviAyrK0T1iGhgEOdmq2I"
-    },
-    {
-      "added_at": "2026-03-13 03:00:05",
-      "album": {
         "name": "Ay, Amor (En Vivo)",
         "url": "https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ"
       },
@@ -1519,8 +1503,24 @@
     {
       "added_at": "2026-03-13 03:00:05",
       "album": {
-        "name": "Mi Gran Maestro (Montevideo Music Sessions)",
-        "url": "https://open.spotify.com/album/4bEHL08FgsySG8mVwBIQxc"
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/48a6h9MWyM2bxiAlc3B7Rr"
+      },
+      "artists": [
+        {
+          "name": "Daniel Cardozo",
+          "url": "https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T"
+        }
+      ],
+      "duration_ms": 121087,
+      "name": "Tu Carcel - En Vivo",
+      "url": "https://open.spotify.com/track/5MviAyrK0T1iGhgEOdmq2I"
+    },
+    {
+      "added_at": "2026-03-13 03:00:05",
+      "album": {
+        "name": "En Vivo Estadio Luna Park",
+        "url": "https://open.spotify.com/album/6xYnpeN2izdbOVKbEIJs1z"
       },
       "artists": [
         {
@@ -1528,25 +1528,9 @@
           "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
         }
       ],
-      "duration_ms": 210744,
-      "name": "Mi Gran Maestro - Montevideo Music Sessions",
-      "url": "https://open.spotify.com/track/0rekCZBOnQQ7xtjukqeA8j"
-    },
-    {
-      "added_at": "2026-03-13 03:00:05",
-      "album": {
-        "name": "Ahora Que Te Vas / El Mismo Aire / a Puro Dolor (En Vivo)",
-        "url": "https://open.spotify.com/album/5icndhv8kYRghjcp9avKq2"
-      },
-      "artists": [
-        {
-          "name": "La Piedra Urbana",
-          "url": "https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt"
-        }
-      ],
-      "duration_ms": 328000,
-      "name": "Ahora Que Te Vas / El Mismo Aire / a Puro Dolor - En Vivo",
-      "url": "https://open.spotify.com/track/5q17HklaySch2Jg73dYgto"
+      "duration_ms": 278811,
+      "name": "Amiga Traidora - En Vivo Estadio Luna Park",
+      "url": "https://open.spotify.com/track/6LFz8eGFPl3Wl7RGSS8HBc"
     },
     {
       "added_at": "2026-03-13 03:00:05",
@@ -1571,18 +1555,18 @@
     {
       "added_at": "2026-03-13 03:00:05",
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/1nExgnlglID7OBWxsA5xo0"
+        "name": "Ahora Que Te Vas / El Mismo Aire / a Puro Dolor (En Vivo)",
+        "url": "https://open.spotify.com/album/5icndhv8kYRghjcp9avKq2"
       },
       "artists": [
         {
-          "name": "Daniel Cardozo",
-          "url": "https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T"
+          "name": "La Piedra Urbana",
+          "url": "https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt"
         }
       ],
-      "duration_ms": 124253,
-      "name": "La Ultima Cancion - En Vivo",
-      "url": "https://open.spotify.com/track/3RAsM07uXexSVwlZn834u4"
+      "duration_ms": 328000,
+      "name": "Ahora Que Te Vas / El Mismo Aire / a Puro Dolor - En Vivo",
+      "url": "https://open.spotify.com/track/5q17HklaySch2Jg73dYgto"
     },
     {
       "added_at": "2026-03-13 03:00:05",
@@ -1603,8 +1587,24 @@
     {
       "added_at": "2026-03-13 03:00:05",
       "album": {
-        "name": "En Vivo Estadio Luna Park",
-        "url": "https://open.spotify.com/album/6xYnpeN2izdbOVKbEIJs1z"
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/1nExgnlglID7OBWxsA5xo0"
+      },
+      "artists": [
+        {
+          "name": "Daniel Cardozo",
+          "url": "https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T"
+        }
+      ],
+      "duration_ms": 124253,
+      "name": "La Ultima Cancion - En Vivo",
+      "url": "https://open.spotify.com/track/3RAsM07uXexSVwlZn834u4"
+    },
+    {
+      "added_at": "2026-03-13 03:00:05",
+      "album": {
+        "name": "Mi Gran Maestro (Montevideo Music Sessions)",
+        "url": "https://open.spotify.com/album/4bEHL08FgsySG8mVwBIQxc"
       },
       "artists": [
         {
@@ -1612,9 +1612,29 @@
           "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
         }
       ],
-      "duration_ms": 278811,
-      "name": "Amiga Traidora - En Vivo Estadio Luna Park",
-      "url": "https://open.spotify.com/track/6LFz8eGFPl3Wl7RGSS8HBc"
+      "duration_ms": 210744,
+      "name": "Mi Gran Maestro - Montevideo Music Sessions",
+      "url": "https://open.spotify.com/track/0rekCZBOnQQ7xtjukqeA8j"
+    },
+    {
+      "added_at": "2026-03-13 03:00:05",
+      "album": {
+        "name": "Antonio Rios Y Sus Amigos - Teatro Gran Rex (En Vivo)",
+        "url": "https://open.spotify.com/album/2czLBfZ0QMfMrlovKJDUcv"
+      },
+      "artists": [
+        {
+          "name": "Antonio Rios",
+          "url": "https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi"
+        },
+        {
+          "name": "Sombras Nada M\u00e1s",
+          "url": "https://open.spotify.com/artist/4BcjHOqvgEZZaarxtCG2Ma"
+        }
+      ],
+      "duration_ms": 211017,
+      "name": "Lloraras - En Vivo Teatro Gran Rex",
+      "url": "https://open.spotify.com/track/2s3fthd5osyzRdmZJt9U1J"
     },
     {
       "added_at": "2026-03-13 03:00:05",
@@ -1651,26 +1671,6 @@
       "duration_ms": 259721,
       "name": "Amaneciendo En Ti - En Vivo en la Casa Sabanera",
       "url": "https://open.spotify.com/track/5azg6NgweuZ6dciNXGP32I"
-    },
-    {
-      "added_at": "2026-03-13 03:00:05",
-      "album": {
-        "name": "Antonio Rios Y Sus Amigos - Teatro Gran Rex (En Vivo)",
-        "url": "https://open.spotify.com/album/2czLBfZ0QMfMrlovKJDUcv"
-      },
-      "artists": [
-        {
-          "name": "Antonio Rios",
-          "url": "https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi"
-        },
-        {
-          "name": "Sombras Nada M\u00e1s",
-          "url": "https://open.spotify.com/artist/4BcjHOqvgEZZaarxtCG2Ma"
-        }
-      ],
-      "duration_ms": 211017,
-      "name": "Lloraras - En Vivo Teatro Gran Rex",
-      "url": "https://open.spotify.com/track/2s3fthd5osyzRdmZJt9U1J"
     },
     {
       "added_at": "2026-03-13 03:00:05",

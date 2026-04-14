@@ -1,12 +1,12 @@
 {
   "description": "This is Alexis Ffrench. The essential tracks, all in one playlist.",
-  "num_followers": 25091,
+  "num_followers": 25134,
   "original_name": "This Is Alexis Ffrench",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "admPAAAAAABu2dA3WolHrAZ8XK4zys3/",
+  "snapshot_id": "adrggAAAAABANODOYxrNRHQYbeQjRxA+",
   "tracks": [
     {
       "added_at": null,
@@ -371,8 +371,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Classical Soul Vol. 1 - The Solo Piano Collection",
-        "url": "https://open.spotify.com/album/44CqQSIcCEc9wG8eeZnD4F"
+        "name": "The Piano Whisperer",
+        "url": "https://open.spotify.com/album/6YY3fbUoQYSacQglLohdQU"
       },
       "artists": [
         {
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 275662,
-      "name": "Did I Ever Tell You",
-      "url": "https://open.spotify.com/track/3q3bjcd4SHSRNoafyK4MMl"
+      "duration_ms": 237705,
+      "name": "September Song",
+      "url": "https://open.spotify.com/track/0KesN9hSEucAYpvwaGMfsb"
     },
     {
       "added_at": null,
@@ -416,9 +416,9 @@
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 201008,
-      "name": "Returning To You",
-      "url": "https://open.spotify.com/track/1Y3iykHwIsjHX1NVC72Pyb"
+      "duration_ms": 207626,
+      "name": "Together Without You",
+      "url": "https://open.spotify.com/track/0OoXjNW8NfQwvajvjX84VF"
     },
     {
       "added_at": null,
@@ -439,8 +439,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Piano Whisperer",
-        "url": "https://open.spotify.com/album/6YY3fbUoQYSacQglLohdQU"
+        "name": "Classical Soul Vol. 1 - The Solo Piano Collection",
+        "url": "https://open.spotify.com/album/44CqQSIcCEc9wG8eeZnD4F"
       },
       "artists": [
         {
@@ -448,9 +448,9 @@
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 237705,
-      "name": "September Song",
-      "url": "https://open.spotify.com/track/0KesN9hSEucAYpvwaGMfsb"
+      "duration_ms": 275662,
+      "name": "Did I Ever Tell You",
+      "url": "https://open.spotify.com/track/3q3bjcd4SHSRNoafyK4MMl"
     },
     {
       "added_at": null,
@@ -480,9 +480,9 @@
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 207626,
-      "name": "Together Without You",
-      "url": "https://open.spotify.com/track/0OoXjNW8NfQwvajvjX84VF"
+      "duration_ms": 201008,
+      "name": "Returning To You",
+      "url": "https://open.spotify.com/track/1Y3iykHwIsjHX1NVC72Pyb"
     },
     {
       "added_at": null,
@@ -799,6 +799,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Truth",
+        "url": "https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 170032,
+      "name": "Evermore",
+      "url": "https://open.spotify.com/track/15AZSOh1vE8gmwdhLrfaQM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dreamland",
         "url": "https://open.spotify.com/album/4jb1RWCUm2HlhSNumh5bcm"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 195144,
       "name": "Crest of a Wave",
       "url": "https://open.spotify.com/track/2pJFbZazTwTdPsU8tTuBoF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Truth",
-        "url": "https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 170032,
-      "name": "Evermore",
-      "url": "https://open.spotify.com/track/15AZSOh1vE8gmwdhLrfaQM"
     },
     {
       "added_at": null,

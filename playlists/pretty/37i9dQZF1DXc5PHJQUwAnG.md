@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5PHJQUwAnG.md) - [plain]
 
 > Bienvenidx a la trampa mexa\. Omar Camacho y Oscar Maydon en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,220 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,249 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Por Hollywood](https://open.spotify.com/track/7Myx7gRSYsue2sbMaGdXDr) | [Omar Camacho](https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Por Hollywood](https://open.spotify.com/album/2aCy0ncs4obXxHu3pZ1DK8) | 2:48 |
 | 2 | [5:12Am \(Sin Control\)](https://open.spotify.com/track/0qlIqdxXQd3tk58Vb1wKnA) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Blackinny](https://open.spotify.com/artist/2T0HIl9gOfBS7Z2GgNu7c3) | [5:12Am \(Sin Control\)](https://open.spotify.com/album/5wXjr5xvd5sWbPwKqSihU8) | 4:17 |
-| 3 | [FFF](https://open.spotify.com/track/3EPGWBvRxGWkPSChTBkABG) | [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [FFF](https://open.spotify.com/album/4zBseCXdGVBhWeJuq89ZVZ) | 2:44 |
+| 3 | [FFF](https://open.spotify.com/track/3EPGWBvRxGWkPSChTBkABG) | [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Soul](https://open.spotify.com/artist/4SmQWZtxkR4pOAbDQasTvl) | [FFF](https://open.spotify.com/album/4zBseCXdGVBhWeJuq89ZVZ) | 2:44 |
 | 4 | [$MOKE IN MY BRAIN](https://open.spotify.com/track/4Y93idPdVX6vRYXTpikoiS) | [SIXDIEFLOWERS](https://open.spotify.com/artist/4yfYOyz5M67SaT2J2x4Kpr), [SHDW.CULT](https://open.spotify.com/artist/5Ek2RtqEsUcAKOpy8zG90a), [Lapow$ki](https://open.spotify.com/artist/6vUJtBbH8JL3uE1PdnB5bg), [SLVG](https://open.spotify.com/artist/779QJkvhTmrxtUGaMo8QbK) | [$MOKE IN MY BRAIN](https://open.spotify.com/album/1whbHrUO4J637pkcveJeAP) | 2:56 |
 | 5 | [Amor Eterno](https://open.spotify.com/track/2VdDYSWijGCmLFzvjYYMZJ) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH) | [Eso Si Es De Gangster](https://open.spotify.com/album/5DyoeBkxYOgCrA2TpCvJKL) | 4:07 |
 | 6 | [Mi Niña](https://open.spotify.com/track/6oLeiLXwyuExCdb5yKwupB) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce) | [Mi Niña](https://open.spotify.com/album/7D23YDRGp0lkOgX6dWBwj5) | 2:55 |

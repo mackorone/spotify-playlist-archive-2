@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Current indie tunes from Asia and around the world. Cover: girlsweetvoiced",
+  "description": "Current indie tunes from Asia and around the world. Cover: Lykke Li",
   "name": "Indie Shuffle",
   "tracks": [
     {
@@ -198,6 +198,24 @@
       "duration_ms": 149368,
       "name": "2 late",
       "url": "https://open.spotify.com/track/0UbJlumqvzFPZJjEvDlXc3"
+    },
+    {
+      "album": {
+        "name": "2 or 3",
+        "url": "https://open.spotify.com/album/2BzDM6nR5TKEraw1IQBQ98"
+      },
+      "artists": [
+        {
+          "name": "The Lemon Twigs",
+          "url": "https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207306,
+      "name": "2 or 3",
+      "url": "https://open.spotify.com/track/2B5shqKyg2QwIsdLe9UUm7"
     },
     {
       "album": {
@@ -3770,7 +3788,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 333956,
       "name": "be the girl!",
       "url": "https://open.spotify.com/track/0pKbtb8TtgqcZCXq1RTN2Q"
@@ -9374,7 +9392,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 243760,
       "name": "Dancing On The Wall",
       "url": "https://open.spotify.com/track/3bGsC1pOytPEIeYL51p9Pp"
@@ -10032,7 +10050,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 206028,
       "name": "Death of Love",
       "url": "https://open.spotify.com/track/18NDaA50I2xeHYeMkfVPp6"
@@ -16407,6 +16425,24 @@
     },
     {
       "album": {
+        "name": "Going Shopping",
+        "url": "https://open.spotify.com/album/4XCAqkLSm0CozIX5dQRXPI"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261747,
+      "name": "Going Shopping",
+      "url": "https://open.spotify.com/track/4dUOhTTMy4ITIbNQKPKYFP"
+    },
+    {
+      "album": {
         "name": "\u00c1TTA",
         "url": "https://open.spotify.com/album/0PhjFcIDPt9cBRfYSJou3v"
       },
@@ -19596,7 +19632,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 244973,
       "name": "Hula Girl",
       "url": "https://open.spotify.com/track/2Q12wBicdnoLI6F343qcHk"
@@ -20116,7 +20152,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 235429,
       "name": "I got god",
       "url": "https://open.spotify.com/track/19LhmxhZyk5LrMWCMMMF0I"
@@ -23304,7 +23340,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 149449,
       "name": "Krapow",
       "url": "https://open.spotify.com/track/0PWfpS6Nj8YhW5FXU4TZVC"
@@ -23326,6 +23362,28 @@
       "duration_ms": 337241,
       "name": "Kundela Mawedi",
       "url": "https://open.spotify.com/track/3lGcSLtbK1vBbm7CbXWULD"
+    },
+    {
+      "album": {
+        "name": "Kurage",
+        "url": "https://open.spotify.com/album/3yVmqvEgVdwZjzzQNP9u1B"
+      },
+      "artists": [
+        {
+          "name": "Don Semones",
+          "url": "https://open.spotify.com/artist/4lLBXt5fWPW0pE6FxbahmB"
+        },
+        {
+          "name": "Mei Semones",
+          "url": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204514,
+      "name": "Kurage",
+      "url": "https://open.spotify.com/track/7GYfqzl4xuQkzCWPx9WtnW"
     },
     {
       "album": {
@@ -23767,6 +23825,24 @@
     },
     {
       "album": {
+        "name": "lemonlime",
+        "url": "https://open.spotify.com/album/4Wx1qHpwOLTt96L8I0Kt3u"
+      },
+      "artists": [
+        {
+          "name": "Purity Ring",
+          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "lemonlime",
+      "url": "https://open.spotify.com/track/68utYAhxFqE4xK7cmObExo"
+    },
+    {
+      "album": {
         "name": "Let Go",
         "url": "https://open.spotify.com/album/71ebEmTo9ym9kEtWIOdrjb"
       },
@@ -23854,7 +23930,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 271095,
       "name": "Let's Do It Again!",
       "url": "https://open.spotify.com/track/4CcfLmYhrih0jVPOEd1plJ"
@@ -26490,7 +26566,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 202857,
       "name": "memries that stay",
       "url": "https://open.spotify.com/track/4dFGV715u1urrscsebYk3Q"
@@ -29756,7 +29832,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 232106,
       "name": "Not Around Anymore",
       "url": "https://open.spotify.com/track/1kPZab1lC7DztnzVSgQ9VX"
@@ -30304,7 +30380,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 178006,
       "name": "O, My Love",
       "url": "https://open.spotify.com/track/24V9Sex1uEv1pB76hk7rgb"
@@ -34856,7 +34932,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 250044,
       "name": "Rock Bottom",
       "url": "https://open.spotify.com/track/4IMUNFZqhkRJp7X8PAOrZ9"
@@ -36853,6 +36929,24 @@
     },
     {
       "album": {
+        "name": "Sick Of Love",
+        "url": "https://open.spotify.com/album/2ETP833yyVmqvtnbnRHtxb"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216933,
+      "name": "Sick Of Love",
+      "url": "https://open.spotify.com/track/6aPG5Atb3L3l8pZYzLrpEi"
+    },
+    {
+      "album": {
         "name": "AMAMA",
         "url": "https://open.spotify.com/album/6V4aP2jvCLc1McVX6HPmdo"
       },
@@ -37736,6 +37830,24 @@
       "duration_ms": 177500,
       "name": "Smoke",
       "url": "https://open.spotify.com/track/2x8zUjRP6z5N2GmZ13zU76"
+    },
+    {
+      "album": {
+        "name": "Smoke",
+        "url": "https://open.spotify.com/album/4V5DedfrusjJshj6j4PCED"
+      },
+      "artists": [
+        {
+          "name": "Shye",
+          "url": "https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277060,
+      "name": "Smoke",
+      "url": "https://open.spotify.com/track/3bkeFShCXWdW7jntIi3z9v"
     },
     {
       "album": {
@@ -38744,7 +38856,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 248406,
       "name": "Spider Song",
       "url": "https://open.spotify.com/track/3cJDWr9VZFAcF9YAfVTyev"
@@ -39152,7 +39264,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 211426,
       "name": "Star",
       "url": "https://open.spotify.com/track/6ZzycZmHaFzfbIBl24BV3N"
@@ -39566,6 +39678,24 @@
       "duration_ms": 225391,
       "name": "Stranger With A Wall",
       "url": "https://open.spotify.com/track/01kfjty2wVYRg53xiwrGtr"
+    },
+    {
+      "album": {
+        "name": "Stranger's Funeral",
+        "url": "https://open.spotify.com/album/5n9BwlAdpF815L01sIed5l"
+      },
+      "artists": [
+        {
+          "name": "Chezka",
+          "url": "https://open.spotify.com/artist/09aWOipSJalkgLg7vOOUlY"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223416,
+      "name": "Stranger's Funeral",
+      "url": "https://open.spotify.com/track/0xsKzUbzpcqQ9kGLV1tZ16"
     },
     {
       "album": {
@@ -40666,6 +40796,24 @@
       "duration_ms": 285793,
       "name": "Sweet & Sublime (feat. Erick the Architect)",
       "url": "https://open.spotify.com/track/2ubLYWZuBGfgMO5Py1RP4p"
+    },
+    {
+      "album": {
+        "name": "Sweet Hallelujah",
+        "url": "https://open.spotify.com/album/68nIcmHCJpK8DfX4YPWmb0"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182156,
+      "name": "Sweet Hallelujah",
+      "url": "https://open.spotify.com/track/6EoD3qpTgNtwXNqamzLCn5"
     },
     {
       "album": {
@@ -42036,7 +42184,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 180000,
       "name": "The Crystal Ship",
       "url": "https://open.spotify.com/track/0vYdtKJFWHGmyTtai6JDDn"
@@ -45074,6 +45222,24 @@
       "duration_ms": 446733,
       "name": "Two Generations of Excess",
       "url": "https://open.spotify.com/track/3yNBnPv3JbGxGvTiIhndvx"
+    },
+    {
+      "album": {
+        "name": "Two Hands",
+        "url": "https://open.spotify.com/album/6IgJhivfmaDSc4nCKDAAYs"
+      },
+      "artists": [
+        {
+          "name": "Pond",
+          "url": "https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264503,
+      "name": "Two Hands",
+      "url": "https://open.spotify.com/track/70wvbulgaxQEwS5UPEcY3B"
     },
     {
       "album": {

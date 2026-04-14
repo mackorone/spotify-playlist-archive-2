@@ -1,6 +1,6 @@
 {
   "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Stan",
-  "num_followers": 38521,
+  "num_followers": 38515,
   "original_name": "Laika tou Simera",
   "owner": {
     "name": "Spotify",
@@ -323,22 +323,6 @@
     {
       "added_at": "2026-04-09 21:00:49",
       "album": {
-        "name": "Se Thelo Parafora",
-        "url": "https://open.spotify.com/album/513gKE8Un3MSuku5MtFpUb"
-      },
-      "artists": [
-        {
-          "name": "Nikos Makropoulos",
-          "url": "https://open.spotify.com/artist/5ETZ4zl1tAJe8zCTDEaoGO"
-        }
-      ],
-      "duration_ms": 201925,
-      "name": "Se Thelo Parafora",
-      "url": "https://open.spotify.com/track/4Ny6sPSlZ6KGy9DBmLAnge"
-    },
-    {
-      "added_at": "2026-04-09 21:00:49",
-      "album": {
         "name": "Kati Xereis",
         "url": "https://open.spotify.com/album/1JmNd52N6hawcFYuqKKQ0w"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 164181,
       "name": "Kati Xereis",
       "url": "https://open.spotify.com/track/6sdfSqn9Jz0hr2CYtOicQX"
+    },
+    {
+      "added_at": "2026-04-09 21:00:49",
+      "album": {
+        "name": "Se Thelo Parafora",
+        "url": "https://open.spotify.com/album/513gKE8Un3MSuku5MtFpUb"
+      },
+      "artists": [
+        {
+          "name": "Nikos Makropoulos",
+          "url": "https://open.spotify.com/artist/5ETZ4zl1tAJe8zCTDEaoGO"
+        }
+      ],
+      "duration_ms": 201925,
+      "name": "Se Thelo Parafora",
+      "url": "https://open.spotify.com/track/4Ny6sPSlZ6KGy9DBmLAnge"
     },
     {
       "added_at": "2026-04-09 21:00:49",
@@ -407,6 +407,22 @@
     {
       "added_at": "2026-04-09 21:00:49",
       "album": {
+        "name": "Allou Gia Allou",
+        "url": "https://open.spotify.com/album/4G16SfhjBZxeSDOoPPYFK9"
+      },
+      "artists": [
+        {
+          "name": "Ria Ellinidou",
+          "url": "https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc"
+        }
+      ],
+      "duration_ms": 167003,
+      "name": "Allou Gia Allou",
+      "url": "https://open.spotify.com/track/0qgjyXXnLcZ0ozDhhTIdEA"
+    },
+    {
+      "added_at": "2026-04-09 21:00:49",
+      "album": {
         "name": "Ta Xano",
         "url": "https://open.spotify.com/album/6pVOST8S9KjooQavCagiHf"
       },
@@ -427,38 +443,6 @@
     {
       "added_at": "2026-04-09 21:00:49",
       "album": {
-        "name": "Allou Gia Allou",
-        "url": "https://open.spotify.com/album/4G16SfhjBZxeSDOoPPYFK9"
-      },
-      "artists": [
-        {
-          "name": "Ria Ellinidou",
-          "url": "https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc"
-        }
-      ],
-      "duration_ms": 167003,
-      "name": "Allou Gia Allou",
-      "url": "https://open.spotify.com/track/0qgjyXXnLcZ0ozDhhTIdEA"
-    },
-    {
-      "added_at": "2026-04-09 21:00:49",
-      "album": {
-        "name": "Ola Gia Ola",
-        "url": "https://open.spotify.com/album/7x2obj5avH7SoylWDKlfLo"
-      },
-      "artists": [
-        {
-          "name": "Anna Vissi",
-          "url": "https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl"
-        }
-      ],
-      "duration_ms": 281503,
-      "name": "Ola Gia Ola",
-      "url": "https://open.spotify.com/track/51Sxai2iT4hMLcGMpb0oY6"
-    },
-    {
-      "added_at": "2026-04-09 21:00:49",
-      "album": {
         "name": "Xorepse",
         "url": "https://open.spotify.com/album/2FJpQ42IEy1G66GmbSuYUs"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 228977,
       "name": "Xorepse",
       "url": "https://open.spotify.com/track/3FNGcipuHWekU1KvhdrAwH"
+    },
+    {
+      "added_at": "2026-04-09 21:00:49",
+      "album": {
+        "name": "Ola Gia Ola",
+        "url": "https://open.spotify.com/album/7x2obj5avH7SoylWDKlfLo"
+      },
+      "artists": [
+        {
+          "name": "Anna Vissi",
+          "url": "https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl"
+        }
+      ],
+      "duration_ms": 281503,
+      "name": "Ola Gia Ola",
+      "url": "https://open.spotify.com/track/51Sxai2iT4hMLcGMpb0oY6"
     },
     {
       "added_at": "2026-04-09 21:00:49",
@@ -735,6 +735,22 @@
     {
       "added_at": "2026-04-09 21:00:49",
       "album": {
+        "name": "Xereis Pollous?",
+        "url": "https://open.spotify.com/album/3C4tJiogHhaozSIjne9Tsh"
+      },
+      "artists": [
+        {
+          "name": "Panos Kiamos",
+          "url": "https://open.spotify.com/artist/2EsTolBYIEICM1kx7MGluy"
+        }
+      ],
+      "duration_ms": 226987,
+      "name": "Xereis Pollous?",
+      "url": "https://open.spotify.com/track/4oiQ25jJItB6XnfXAj3MgY"
+    },
+    {
+      "added_at": "2026-04-09 21:00:49",
+      "album": {
         "name": "Me Sighorite",
         "url": "https://open.spotify.com/album/6gMuD6HJT8Ixnu73PIiXLk"
       },
@@ -747,38 +763,6 @@
       "duration_ms": 210007,
       "name": "Me Sighorite",
       "url": "https://open.spotify.com/track/7w7vv8KOKEC9VoyEaj49ww"
-    },
-    {
-      "added_at": "2026-04-09 21:00:49",
-      "album": {
-        "name": "Unplugged 2025",
-        "url": "https://open.spotify.com/album/0blWTzwTQgXM8LxSBWqClE"
-      },
-      "artists": [
-        {
-          "name": "Thodoris Ferris",
-          "url": "https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT"
-        }
-      ],
-      "duration_ms": 217733,
-      "name": "Simera - Unplugged",
-      "url": "https://open.spotify.com/track/44ySraRfYeDLrBsd8oorQb"
-    },
-    {
-      "added_at": "2026-04-09 21:00:49",
-      "album": {
-        "name": "Leei",
-        "url": "https://open.spotify.com/album/6yvZOUr4MAXdIoxxxBQ43Y"
-      },
-      "artists": [
-        {
-          "name": "Giorgos Kakosaios",
-          "url": "https://open.spotify.com/artist/4uyuai6Pqgz3kSx1Jme2PJ"
-        }
-      ],
-      "duration_ms": 212863,
-      "name": "Leei",
-      "url": "https://open.spotify.com/track/64w6qsa2L9oF0W0XMdoNvH"
     },
     {
       "added_at": "2026-04-09 21:00:49",
@@ -799,18 +783,34 @@
     {
       "added_at": "2026-04-09 21:00:49",
       "album": {
-        "name": "Xereis Pollous?",
-        "url": "https://open.spotify.com/album/3C4tJiogHhaozSIjne9Tsh"
+        "name": "Leei",
+        "url": "https://open.spotify.com/album/6yvZOUr4MAXdIoxxxBQ43Y"
       },
       "artists": [
         {
-          "name": "Panos Kiamos",
-          "url": "https://open.spotify.com/artist/2EsTolBYIEICM1kx7MGluy"
+          "name": "Giorgos Kakosaios",
+          "url": "https://open.spotify.com/artist/4uyuai6Pqgz3kSx1Jme2PJ"
         }
       ],
-      "duration_ms": 226987,
-      "name": "Xereis Pollous?",
-      "url": "https://open.spotify.com/track/4oiQ25jJItB6XnfXAj3MgY"
+      "duration_ms": 212863,
+      "name": "Leei",
+      "url": "https://open.spotify.com/track/64w6qsa2L9oF0W0XMdoNvH"
+    },
+    {
+      "added_at": "2026-04-09 21:00:49",
+      "album": {
+        "name": "Unplugged 2025",
+        "url": "https://open.spotify.com/album/0blWTzwTQgXM8LxSBWqClE"
+      },
+      "artists": [
+        {
+          "name": "Thodoris Ferris",
+          "url": "https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT"
+        }
+      ],
+      "duration_ms": 217733,
+      "name": "Simera - Unplugged",
+      "url": "https://open.spotify.com/track/44ySraRfYeDLrBsd8oorQb"
     },
     {
       "added_at": "2026-04-09 21:00:49",

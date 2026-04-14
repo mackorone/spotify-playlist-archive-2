@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Is it your bias K-Pop boy group? (Cover: KEYVITUP) \ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?",
+  "description": "Is it your bias K-Pop boy group? (Cover: TOMORROW X TOGETHER) \ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?",
   "name": "BIASBOYS",
   "tracks": [
     {
@@ -1880,6 +1880,24 @@
       "duration_ms": 135000,
       "name": "Bora",
       "url": "https://open.spotify.com/track/6iForfwVkmj9Wekx04lG4v"
+    },
+    {
+      "album": {
+        "name": "Caligo Pt.2",
+        "url": "https://open.spotify.com/album/1vkQIKe7n01Jxic7csfA4P"
+      },
+      "artists": [
+        {
+          "name": "PLAVE",
+          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Born Savage",
+      "url": "https://open.spotify.com/track/21AdIbIIP9cFgwnwEnEl07"
     },
     {
       "album": {
@@ -4479,6 +4497,24 @@
     },
     {
       "album": {
+        "name": "Feel Me",
+        "url": "https://open.spotify.com/album/4ObKjAefu7Dg1VcWrW3nKO"
+      },
+      "artists": [
+        {
+          "name": "DxS",
+          "url": "https://open.spotify.com/artist/4wBjmEkWhY4T22q00CiF5V"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "Feel Me",
+      "url": "https://open.spotify.com/track/2psEOi0dDz19G9BljUiL2v"
+    },
+    {
+      "album": {
         "name": "Feel me",
         "url": "https://open.spotify.com/album/0IXRPBAOj5deei4Sux5sor"
       },
@@ -6628,7 +6664,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-18",
+      "date_removed": null,
       "duration_ms": 183494,
       "name": "Ice On My Teeth",
       "url": "https://open.spotify.com/track/62eDE0RR8Sgh7yw8ZLeyAM"
@@ -7792,7 +7828,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 185040,
       "name": "Long Way Home",
       "url": "https://open.spotify.com/track/0RFM6sRjt27ne9ldHWNwlj"
@@ -7936,7 +7972,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 180000,
       "name": "Love Comes Slowly",
       "url": "https://open.spotify.com/track/2DHwbEzphzJGOiZ9dMAzEk"
@@ -8434,7 +8470,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-14",
+      "date_removed": null,
       "duration_ms": 198906,
       "name": "MAESTRO",
       "url": "https://open.spotify.com/track/2UE9XGbAzicJIyo4bB6sqM"
@@ -12407,6 +12443,24 @@
     },
     {
       "album": {
+        "name": "7TH YEAR: A Moment of Stillness in the Thorns",
+        "url": "https://open.spotify.com/album/55LBvRI4i4FUUf5dYKVMHk"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153954,
+      "name": "Stick With You",
+      "url": "https://open.spotify.com/track/1ttNlwhsAwCvSKWGxA6fDk"
+    },
+    {
+      "album": {
         "name": "Sticker - The 3rd Album",
         "url": "https://open.spotify.com/album/6nYbIKGcTmKM5BAlJPPcad"
       },
@@ -12634,7 +12688,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 186570,
       "name": "Sugar Rush Ride",
       "url": "https://open.spotify.com/track/0rhI6gvOeCKA502RdJAbfs"
@@ -15324,7 +15378,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 162000,
       "name": "\ub208\uc5d0 \uac70\uc2ac\ub9ac\uace0 \uc2f6\uc5b4 (Eye-Poppin')",
       "url": "https://open.spotify.com/track/5H5PDoPXLphAySmzKtpnbC"
@@ -15342,7 +15396,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 186000,
       "name": "\ubcc4, \ube5b (STAY)",
       "url": "https://open.spotify.com/track/1Z1NJ4Z1tl4xAaQ8FRGO0M"

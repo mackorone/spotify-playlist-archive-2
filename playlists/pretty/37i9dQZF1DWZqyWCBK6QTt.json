@@ -1,6 +1,6 @@
 {
   "description": "The songs you love, in ways you\u2019ve never heard before. Cover: AD\u00c9LA",
-  "num_followers": 487996,
+  "num_followers": 487991,
   "original_name": "Spotify Singles: Covers",
   "owner": {
     "name": "Spotify",
@@ -404,22 +404,6 @@
       "added_at": "2023-10-02 15:28:47",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/77f0EwaAvS5nremTuOHqZL"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Waiting For Love - Recorded At RAK Studios, London",
-      "url": "https://open.spotify.com/track/09QyGlxA0Ja6D1dGIjl55c"
-    },
-    {
-      "added_at": "2023-10-02 15:28:47",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3oTpxylhyTiGLaZ8IRjJQB"
       },
       "artists": [
@@ -431,6 +415,22 @@
       "duration_ms": 346373,
       "name": "Harvest Moon - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/6gdCb962lq0Xdg7ypVLuLt"
+    },
+    {
+      "added_at": "2023-10-02 15:28:47",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/77f0EwaAvS5nremTuOHqZL"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Waiting For Love - Recorded At RAK Studios, London",
+      "url": "https://open.spotify.com/track/09QyGlxA0Ja6D1dGIjl55c"
     },
     {
       "added_at": "2023-10-02 15:28:47",
@@ -484,6 +484,22 @@
       "added_at": "2023-10-02 15:28:47",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2XW8Jn1nXmHCPbawvmJ2JC"
+      },
+      "artists": [
+        {
+          "name": "Liam Gallagher",
+          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
+        }
+      ],
+      "duration_ms": 198293,
+      "name": "Wonderwall - Live from Spotify Sessions, Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/3EfTQn30P4fqXxRf9IN7x6"
+    },
+    {
+      "added_at": "2023-10-02 15:28:47",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0dlIoNzi1FAca3VcyPFj5S"
       },
       "artists": [
@@ -499,22 +515,6 @@
       "duration_ms": 265652,
       "name": "Every Time You Go Away",
       "url": "https://open.spotify.com/track/5OtvDpNhxUde1hkAjvzSzE"
-    },
-    {
-      "added_at": "2023-10-02 15:28:47",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2XW8Jn1nXmHCPbawvmJ2JC"
-      },
-      "artists": [
-        {
-          "name": "Liam Gallagher",
-          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
-        }
-      ],
-      "duration_ms": 198293,
-      "name": "Wonderwall - Live from Spotify Sessions, Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/3EfTQn30P4fqXxRf9IN7x6"
     },
     {
       "added_at": "2023-10-02 15:28:47",
@@ -661,22 +661,6 @@
       "url": "https://open.spotify.com/track/7fvs1psRkf1WWX4qJOq53N"
     },
     {
-      "added_at": "2026-03-05 20:07:38",
-      "album": {
-        "name": "Desire - Spotify Singles",
-        "url": "https://open.spotify.com/album/19ubPXvzp96eqKKH905E3i"
-      },
-      "artists": [
-        {
-          "name": "Isaia Huron",
-          "url": "https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6"
-        }
-      ],
-      "duration_ms": 225800,
-      "name": "Desire - Spotify Singles",
-      "url": "https://open.spotify.com/track/1CfHEKb7RO3qSlcFxXCsnv"
-    },
-    {
       "added_at": "2023-10-02 15:28:47",
       "album": {
         "name": "Spotify Singles",
@@ -691,6 +675,22 @@
       "duration_ms": 224147,
       "name": "Heartless - Recorded At RAK Studios, London",
       "url": "https://open.spotify.com/track/6S4vdF9ENvX8WN8PvJ6soA"
+    },
+    {
+      "added_at": "2026-03-05 20:07:38",
+      "album": {
+        "name": "Desire - Spotify Singles",
+        "url": "https://open.spotify.com/album/19ubPXvzp96eqKKH905E3i"
+      },
+      "artists": [
+        {
+          "name": "Isaia Huron",
+          "url": "https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6"
+        }
+      ],
+      "duration_ms": 225800,
+      "name": "Desire - Spotify Singles",
+      "url": "https://open.spotify.com/track/1CfHEKb7RO3qSlcFxXCsnv"
     },
     {
       "added_at": "2023-10-02 15:28:47",
@@ -976,22 +976,6 @@
       "added_at": "2023-10-02 15:28:47",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5NAZBw4kl4CLl8N14lGxQy"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 117857,
-      "name": "Shot For Me - Spotify Singles",
-      "url": "https://open.spotify.com/track/4rVpFdm9XDYC27qxJvjLRS"
-    },
-    {
-      "added_at": "2023-10-02 15:28:47",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4DyuXP04lvFmYh01L94WH2"
       },
       "artists": [
@@ -1003,6 +987,22 @@
       "duration_ms": 236493,
       "name": "Running Up That Hill - Recorded at Spotify Studios Stockholm",
       "url": "https://open.spotify.com/track/7KIXAzdiG2Pae7spgsklZo"
+    },
+    {
+      "added_at": "2023-10-02 15:28:47",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5NAZBw4kl4CLl8N14lGxQy"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 117857,
+      "name": "Shot For Me - Spotify Singles",
+      "url": "https://open.spotify.com/track/4rVpFdm9XDYC27qxJvjLRS"
     },
     {
       "added_at": "2023-10-02 15:28:47",
@@ -1064,22 +1064,6 @@
       "added_at": "2023-10-02 15:28:47",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6vB3HwLeq8ZjQYXUka7QIs"
-      },
-      "artists": [
-        {
-          "name": "Ha*Ash",
-          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
-        }
-      ],
-      "duration_ms": 202867,
-      "name": "Adi\u00f3s Amor - Recorded at Panoram Studios, Mexico",
-      "url": "https://open.spotify.com/track/00yK9fIjWQfF5g70TK9vdj"
-    },
-    {
-      "added_at": "2023-10-02 15:28:47",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4HpaTUThM0f9DhH7XJRXzZ"
       },
       "artists": [
@@ -1096,17 +1080,17 @@
       "added_at": "2023-10-02 15:28:47",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3Kvg9h8w3OMPNkDISwcal8"
+        "url": "https://open.spotify.com/album/6vB3HwLeq8ZjQYXUka7QIs"
       },
       "artists": [
         {
-          "name": "L\u00c9ON",
-          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
         }
       ],
-      "duration_ms": 239346,
-      "name": "Dreams - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2q9jsX0poviVu9OSWgmRYg"
+      "duration_ms": 202867,
+      "name": "Adi\u00f3s Amor - Recorded at Panoram Studios, Mexico",
+      "url": "https://open.spotify.com/track/00yK9fIjWQfF5g70TK9vdj"
     },
     {
       "added_at": "2024-02-12 20:44:42",
@@ -1123,6 +1107,22 @@
       "duration_ms": 156000,
       "name": "Lonely Day - Spotify Singles",
       "url": "https://open.spotify.com/track/2bmGjqYsvXVTt1CRfUicIH"
+    },
+    {
+      "added_at": "2023-10-02 15:28:47",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3Kvg9h8w3OMPNkDISwcal8"
+      },
+      "artists": [
+        {
+          "name": "L\u00c9ON",
+          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
+        }
+      ],
+      "duration_ms": 239346,
+      "name": "Dreams - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2q9jsX0poviVu9OSWgmRYg"
     },
     {
       "added_at": "2023-10-02 15:28:47",
@@ -1184,22 +1184,6 @@
       "added_at": "2023-10-02 15:28:47",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/567rqOb89dfo0lvj72Esnp"
-      },
-      "artists": [
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 167381,
-      "name": "Golden Slumbers - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/7uFFGrqfD3KOdG6AgJ7Z7y"
-    },
-    {
-      "added_at": "2023-10-02 15:28:47",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/66BHCqvohArD6Hk2uga5dX"
       },
       "artists": [
@@ -1211,6 +1195,22 @@
       "duration_ms": 256893,
       "name": "Pony - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0exKMPo2iind68yWTaHCrr"
+    },
+    {
+      "added_at": "2023-10-02 15:28:47",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/567rqOb89dfo0lvj72Esnp"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 167381,
+      "name": "Golden Slumbers - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/7uFFGrqfD3KOdG6AgJ7Z7y"
     },
     {
       "added_at": "2023-10-02 15:28:47",
@@ -1348,22 +1348,6 @@
       "added_at": "2023-10-02 15:28:47",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/29FXbpvWD8WQ6jiKLdhAz6"
-      },
-      "artists": [
-        {
-          "name": "FLETCHER",
-          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
-        }
-      ],
-      "duration_ms": 231629,
-      "name": "I Fall Apart - Recorded At Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/0MVvZYjUh20I13vor30dYe"
-    },
-    {
-      "added_at": "2023-10-02 15:28:47",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2EMazBF6QXkOSpRSVg8Pdj"
       },
       "artists": [
@@ -1375,6 +1359,22 @@
       "duration_ms": 261893,
       "name": "The Best - Recorded at Metropolis Studios, London",
       "url": "https://open.spotify.com/track/7cBAltYsu55X4BgiOUjaSY"
+    },
+    {
+      "added_at": "2023-10-02 15:28:47",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/29FXbpvWD8WQ6jiKLdhAz6"
+      },
+      "artists": [
+        {
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+        }
+      ],
+      "duration_ms": 231629,
+      "name": "I Fall Apart - Recorded At Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/0MVvZYjUh20I13vor30dYe"
     },
     {
       "added_at": "2024-02-12 20:44:42",
@@ -1608,22 +1608,6 @@
       "added_at": "2023-10-02 15:28:47",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4U1VNYvSn36Xgak49ScRZD"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 173641,
-      "name": "California Dreamin' - Spotify Singles",
-      "url": "https://open.spotify.com/track/7D0q9XQg10KdlrjdDrrHph"
-    },
-    {
-      "added_at": "2023-10-02 15:28:47",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6kTnZzeB1WcyjYZDRS4Wci"
       },
       "artists": [
@@ -1635,6 +1619,22 @@
       "duration_ms": 191992,
       "name": "Like A Virgin - Spotify Singles",
       "url": "https://open.spotify.com/track/0CbtHNmNuPXSYbH4Uz3roM"
+    },
+    {
+      "added_at": "2023-10-02 15:28:47",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4U1VNYvSn36Xgak49ScRZD"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 173641,
+      "name": "California Dreamin' - Spotify Singles",
+      "url": "https://open.spotify.com/track/7D0q9XQg10KdlrjdDrrHph"
     },
     {
       "added_at": "2023-10-02 15:28:47",
@@ -1708,6 +1708,22 @@
       "added_at": "2023-10-02 15:28:47",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0ycBRDotCpCVKO6ZHrsIR7"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 230306,
+      "name": "Better Now - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4rf444Z5dWQd6Jg5okkpZl"
+    },
+    {
+      "added_at": "2023-10-02 15:28:47",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS"
       },
       "artists": [
@@ -1724,17 +1740,17 @@
       "added_at": "2023-10-02 15:28:47",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0ycBRDotCpCVKO6ZHrsIR7"
+        "url": "https://open.spotify.com/album/0AwgzJZxt4sf2teqdEjxwV"
       },
       "artists": [
         {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
         }
       ],
-      "duration_ms": 230306,
-      "name": "Better Now - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4rf444Z5dWQd6Jg5okkpZl"
+      "duration_ms": 181000,
+      "name": "Bad At Love - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/1kTugNMVMbaQep1srMua2q"
     },
     {
       "added_at": "2023-10-02 15:28:47",
@@ -1756,17 +1772,17 @@
       "added_at": "2023-10-02 15:28:47",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0AwgzJZxt4sf2teqdEjxwV"
+        "url": "https://open.spotify.com/album/5txz8rm3pM2peZ3K8oPNd3"
       },
       "artists": [
         {
-          "name": "Old Dominion",
-          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
         }
       ],
-      "duration_ms": 181000,
-      "name": "Bad At Love - Recorded at Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/1kTugNMVMbaQep1srMua2q"
+      "duration_ms": 255126,
+      "name": "Castle On The Hill - Recorded at Sound Stage Nashville",
+      "url": "https://open.spotify.com/track/71R7NckyIlOd8fJzoZIJfR"
     },
     {
       "added_at": "2023-10-02 15:28:47",
@@ -1804,22 +1820,6 @@
       "added_at": "2023-10-02 15:28:47",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5txz8rm3pM2peZ3K8oPNd3"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 255126,
-      "name": "Castle On The Hill - Recorded at Sound Stage Nashville",
-      "url": "https://open.spotify.com/track/71R7NckyIlOd8fJzoZIJfR"
-    },
-    {
-      "added_at": "2023-10-02 15:28:47",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3t6qlpHjZ5sqv49NbUB5Rn"
       },
       "artists": [
@@ -1831,38 +1831,6 @@
       "duration_ms": 202482,
       "name": "Stan - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/6H98N10OCmld8m5XyyulO3"
-    },
-    {
-      "added_at": "2023-10-02 15:28:47",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3BtaYjFyAb4GmZ6qJxtiTr"
-      },
-      "artists": [
-        {
-          "name": "Caitlyn Smith",
-          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
-        }
-      ],
-      "duration_ms": 182068,
-      "name": "(You Make Me Feel Like) a Natural Woman - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/252Js3mNvVOHzeiStTUTNM"
-    },
-    {
-      "added_at": "2023-10-02 15:28:47",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3ai4BSQG7yNVzcChdPCFK0"
-      },
-      "artists": [
-        {
-          "name": "Grace Carter",
-          "url": "https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC"
-        }
-      ],
-      "duration_ms": 204150,
-      "name": "Wish I Didn't Miss You - Recorded At RAK Studios, London",
-      "url": "https://open.spotify.com/track/3MBQiGSAdV3tHlAAHsajvE"
     },
     {
       "added_at": "2023-10-02 15:28:47",
@@ -1884,6 +1852,22 @@
       "added_at": "2023-10-02 15:28:47",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3ai4BSQG7yNVzcChdPCFK0"
+      },
+      "artists": [
+        {
+          "name": "Grace Carter",
+          "url": "https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC"
+        }
+      ],
+      "duration_ms": 204150,
+      "name": "Wish I Didn't Miss You - Recorded At RAK Studios, London",
+      "url": "https://open.spotify.com/track/3MBQiGSAdV3tHlAAHsajvE"
+    },
+    {
+      "added_at": "2023-10-02 15:28:47",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0AsNH8uuIf5hLbreW4zQSc"
       },
       "artists": [
@@ -1895,6 +1879,22 @@
       "duration_ms": 301144,
       "name": "Cry Me a River - Recorded at Metropolis Studios, London",
       "url": "https://open.spotify.com/track/3pRtmEYL0hN9Lgn0IkNOra"
+    },
+    {
+      "added_at": "2023-10-02 15:28:47",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3BtaYjFyAb4GmZ6qJxtiTr"
+      },
+      "artists": [
+        {
+          "name": "Caitlyn Smith",
+          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
+        }
+      ],
+      "duration_ms": 182068,
+      "name": "(You Make Me Feel Like) a Natural Woman - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/252Js3mNvVOHzeiStTUTNM"
     },
     {
       "added_at": "2023-10-02 15:28:47",
@@ -2177,22 +2177,6 @@
       "url": "https://open.spotify.com/track/7sXPuvRWsaOoUzno4NHXtt"
     },
     {
-      "added_at": "2024-11-14 14:27:06",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5HFImFXyTV2GbbqN82v1tJ"
-      },
-      "artists": [
-        {
-          "name": "Vacations",
-          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
-        }
-      ],
-      "duration_ms": 239769,
-      "name": "Love at First Sight - Spotify Singles",
-      "url": "https://open.spotify.com/track/6Sgqy8UjLO2ucKaw3hElBT"
-    },
-    {
       "added_at": "2023-10-02 15:28:47",
       "album": {
         "name": "Spotify Singles",
@@ -2207,6 +2191,22 @@
       "duration_ms": 145747,
       "name": "- - Recorded at Electric Lady Studios, New York",
       "url": "https://open.spotify.com/track/68H747D2LgwsPsPlVjFZUR"
+    },
+    {
+      "added_at": "2024-11-14 14:27:06",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5HFImFXyTV2GbbqN82v1tJ"
+      },
+      "artists": [
+        {
+          "name": "Vacations",
+          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
+        }
+      ],
+      "duration_ms": 239769,
+      "name": "Love at First Sight - Spotify Singles",
+      "url": "https://open.spotify.com/track/6Sgqy8UjLO2ucKaw3hElBT"
     },
     {
       "added_at": "2023-10-02 15:28:47",

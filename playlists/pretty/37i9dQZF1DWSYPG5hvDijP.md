@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 
 > Naya Hip\-Hop Hindi! Cover: GhAatak & Lil Bhavi
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,983 likes - 75 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,999 likes - 75 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 | 29 | [Mein Hoon Tera](https://open.spotify.com/track/7xJrvyRQUkK7cXsQ1uhQWU) | [Y2G](https://open.spotify.com/artist/256yoxp9hzlq7KpFAWH43X), [Vagish](https://open.spotify.com/artist/50WxrZvt7bdXQLYnnUGhOv) | [Mein Hoon Tera](https://open.spotify.com/album/4T4dvfECUrmFYhNfp636Zz) | 2:54 |
 | 30 | [Bharosa](https://open.spotify.com/track/0kbszwE80pvQhsSoP5ZKDO) | [SARTHAK BIJALWAN](https://open.spotify.com/artist/4BtjODiWrEDj3VJxK1jA01) | [Bharosa](https://open.spotify.com/album/4K5DQ96ef5Nr9lQxqwR3uT) | 2:16 |
 | 31 | [Haiwaan](https://open.spotify.com/track/5sOyaQqH5dwB8r0ziKQQYB) | [Sarthak.](https://open.spotify.com/artist/62nwsicamNIu6nmiPLC4Pk) | [Haiwaan](https://open.spotify.com/album/5C1yGrWRPLWCV8O3yqqraG) | 2:27 |
-| 32 | [Headline](https://open.spotify.com/track/3nhUJVkM235p6UIkInGI21) | [Nilotpal Bora](https://open.spotify.com/artist/2JexWjjyHRNgAiDXNn7rsV), [Ravi Kishan](https://open.spotify.com/artist/4RuzOqiZ3TbTKX30MleR1z), [Abeer](https://open.spotify.com/artist/5AdvC69twrXkysaR34BDmM) | [Maamla Legal Hai 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/7og6KglroZPdfTlcUVlPbf) | 2:37 |
+| 32 | [Headline](https://open.spotify.com/track/3nhUJVkM235p6UIkInGI21) | [Nilotpal Bora](https://open.spotify.com/artist/2JexWjjyHRNgAiDXNn7rsV), [Ravi Kishan](https://open.spotify.com/artist/4RuzOqiZ3TbTKX30MleR1z), [Aditya Jain](https://open.spotify.com/artist/1dpSiOzlRAcjA6f9pYmLnv), [Himangshu Jaan Sarma](https://open.spotify.com/artist/7CN58POU3BZbT4KsQQkitR), [Abeer](https://open.spotify.com/artist/5AdvC69twrXkysaR34BDmM) | [Maamla Legal Hai 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/7og6KglroZPdfTlcUVlPbf) | 2:37 |
 | 33 | [FLY](https://open.spotify.com/track/4YDvM7qeKwivPI0lBiH9WE) | [vichaar](https://open.spotify.com/artist/596Jw47L2zLSVaRWVUIye5) | [VVVV VOL\. 2](https://open.spotify.com/album/1m2FkAT18SmqCJEzKnYzIW) | 2:36 |
 | 34 | [7 FIGURES](https://open.spotify.com/track/186GfJYtepvNgHpnTEGqVB) | [Young Aytee](https://open.spotify.com/artist/7eEc91UP4LiMMNOGg2fAzY), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [20AYTEE](https://open.spotify.com/album/1QDFyeFVz7Nj9OdLBFj0x2) | 2:38 |
 | 35 | [Hope](https://open.spotify.com/track/30eRDY8dZvxo2XK24i2hBu) | [KALAM INK](https://open.spotify.com/artist/6VbH1XK4t6KE5s3k85MTBd), [CJ CHIRAG](https://open.spotify.com/artist/5FcuZLglRfOZQMF0tDPxDV) | [I.S.H.A THE LAST MIXTAPE](https://open.spotify.com/album/1adIaolxHLmB4ZseJAs0Jo) | 2:56 |

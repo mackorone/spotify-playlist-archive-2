@@ -1,12 +1,12 @@
 {
   "description": "This is Ravyn Lenae. The essential tracks, all in one playlist.",
-  "num_followers": 10510,
+  "num_followers": 10513,
   "original_name": "This Is Ravyn Lenae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "admPAAAAAADiGIEGQPcwNtaaKcMeB6JI",
+  "snapshot_id": "adrggAAAAACJT4KMLHFGf6dqGVNtx0D/",
   "tracks": [
     {
       "added_at": null,
@@ -186,11 +186,15 @@
         {
           "name": "Ravyn Lenae",
           "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        },
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
         }
       ],
-      "duration_ms": 243240,
-      "name": "Days",
-      "url": "https://open.spotify.com/track/1ObS8I1dTlxdYM59TsZAmi"
+      "duration_ms": 195502,
+      "name": "One Wish (feat. Childish Gambino)",
+      "url": "https://open.spotify.com/track/4jaNeCjRjTCekyaErvjnRX"
     },
     {
       "added_at": null,
@@ -258,15 +262,11 @@
         {
           "name": "Ravyn Lenae",
           "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        },
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
         }
       ],
-      "duration_ms": 195502,
-      "name": "One Wish (feat. Childish Gambino)",
-      "url": "https://open.spotify.com/track/4jaNeCjRjTCekyaErvjnRX"
+      "duration_ms": 243240,
+      "name": "Days",
+      "url": "https://open.spotify.com/track/1ObS8I1dTlxdYM59TsZAmi"
     },
     {
       "added_at": null,
@@ -892,9 +892,9 @@
           "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
         }
       ],
-      "duration_ms": 96000,
-      "name": "Hiatus (Waiting) - EP Version",
-      "url": "https://open.spotify.com/track/7H8Cdh16KSfyOjya2hv2Q3"
+      "duration_ms": 184839,
+      "name": "Genesis - EP Version",
+      "url": "https://open.spotify.com/track/1z8VQNzZ8mETuKjW1szX1A"
     },
     {
       "added_at": null,

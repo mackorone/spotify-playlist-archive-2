@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfOcg1fm0VG.md) - [plain]
 
 > Double\-jump into these legendary video game soundtracks, featuring old favorites and new classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 741,381 likes - 145 songs - 8 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 741,442 likes - 145 songs - 8 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfOcg1fm0VG.md) - [plain]
 | 26 | [Main Theme \- Stars At Our Backs](https://open.spotify.com/track/3VomNp1WeieuPtn5GgvozR) | [TADAYOSHI MAKINO](https://open.spotify.com/artist/58RrZSfiTZiUgjNvWO7vCt) | [MONSTER HUNTER: WORLD ORIGINAL SOUNDTRACK](https://open.spotify.com/album/1bk8xnCCB0qZ4LRzUaHJPi) | 4:31 |
 | 27 | [God of War II \- Main Titles](https://open.spotify.com/track/4Ga0jNG9Pm5g6x1whprPQd) | [Gerard Marino](https://open.spotify.com/artist/7xZsnJ0ry5xKWJg0AjP9rC) | [God of War II \(Original Video Game Soundtrack\)](https://open.spotify.com/album/17K3q2htUlMsSflM3XZxlw) | 2:55 |
 | 28 | [Live Gloriously \(Main Theme\)](https://open.spotify.com/track/1UKBBP1dKjZHYMKVREIrC5) | [Christopher Tin](https://open.spotify.com/artist/60B2BBjn6yEQEl8XLYMZU2) | [Sid Meier's Civilization VII \(Original Game Soundtrack\)](https://open.spotify.com/album/17m1NgqYE9s4b2MYAdu0hA) | 4:50 |
-| 29 | [The Way of the Ghost](https://open.spotify.com/track/0AnsIh2o4sa9p8pHJOi9oI) | [Ilan Eshkeri](https://open.spotify.com/artist/147dKKwnUn9qesNx8uAs3Z) | [Ghost of Tsushima \(Music from the Video Game\)](https://open.spotify.com/album/6N9upMTvxPR79tutqclKtq) | 4:14 |
+| 29 | [The Way of the Ghost \- from "Ghost of Tsushima" Music from the Video Game](https://open.spotify.com/track/0AnsIh2o4sa9p8pHJOi9oI) | [Ilan Eshkeri](https://open.spotify.com/artist/147dKKwnUn9qesNx8uAs3Z) | [Ghost of Tsushima \(Music from the Video Game\)](https://open.spotify.com/album/6N9upMTvxPR79tutqclKtq) | 4:14 |
 | 30 | [The Great Circle](https://open.spotify.com/track/4HhoYdEsI9r7eqTjOTkL08) | [Gordy Haab](https://open.spotify.com/artist/3F3rZzKrKFGI2A7PpGAAQa) | [Indiana Jones and the Great Circle \(Original Video Game Soundtrack\)](https://open.spotify.com/album/4JtrVfBk94Sc7fhuafVNQT) | 5:07 |
 | 31 | [Mirage Theme \- From Assassin's Creed Mirage](https://open.spotify.com/track/17D3bYY9JJJjH1TUAruBJr) | [Brendan Angelides](https://open.spotify.com/artist/6IatVwpJEecAd1RMAGAx0O), [Assassin's Creed](https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC), [Layth Sidiq](https://open.spotify.com/artist/75qIhTMvg7SbytVJMHNZ9o) | [Mirage Theme \(From Assassin's Creed Mirage\)](https://open.spotify.com/album/5zqIzGbR9wAkZFSLRkndlK) | 3:32 |
 | 32 | [The Last of Us Part II](https://open.spotify.com/track/0NsG1b9koK74vTJ2VJUJQU) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us Part II \(Original Soundtrack\)](https://open.spotify.com/album/0tNUmClLcWptIcnoCXpPUC) | 2:52 |

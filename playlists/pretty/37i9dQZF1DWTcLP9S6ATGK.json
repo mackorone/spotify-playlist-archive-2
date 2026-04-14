@@ -1,6 +1,6 @@
 {
   "description": "Menemani akhir pekanmu dengan lagu-lagu terbaru. Cover: Timun Jelita",
-  "num_followers": 169326,
+  "num_followers": 169338,
   "original_name": "Musik Akhir Pekan",
   "owner": {
     "name": "Spotify",
@@ -360,12 +360,24 @@
       },
       "artists": [
         {
-          "name": "Andi Rianto",
-          "url": "https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0"
-        },
-        {
           "name": "Nadhif Basalamah",
           "url": "https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO"
+        },
+        {
+          "name": "Petra Sihombing",
+          "url": "https://open.spotify.com/artist/5TV9JhBjG6c2hHsoibBaIW"
+        },
+        {
+          "name": "Aziz Harun",
+          "url": "https://open.spotify.com/artist/1dmuM6bG5J8sDFyp26x9Nf"
+        },
+        {
+          "name": "Aisha Retno",
+          "url": "https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy"
+        },
+        {
+          "name": "Andi Rianto",
+          "url": "https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0"
         }
       ],
       "duration_ms": 277700,

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 
 ### [RADAR Thailand](https://open.spotify.com/playlist/37i9dQZF1DX4Q8j1DJOWem)
 
-> ค้นพบศิลปินรุ่นใหม่ที่น่าจับตามองปี 2026 ที่นี่เลย! ปก: JayQ
+> ค้นพบศิลปินรุ่นใหม่ที่น่าจับตามองปี 2026 ที่นี่เลย! ปก: JustmineNika
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,339 likes - 30 songs - 1 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,350 likes - 30 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 | 29 | [ThaiKids](https://open.spotify.com/track/4GlV2xjoki70itp4GMFPgo) | [JayQ](https://open.spotify.com/artist/5SLXYrzObBv7IrLzo4I4S6) | [ThaiKids](https://open.spotify.com/album/7bRV2jXhlJVxHGdA4h7pIy) | 3:18 |
 | 30 | [WANNA LOVE](https://open.spotify.com/track/0VGPOiDOejgKnYtqHnqxsu) | [the ge](https://open.spotify.com/artist/1h0iQlfKHiBlQsUsdzJ9l7) | [WANNA LOVE](https://open.spotify.com/album/1GMiGFyLTq9kM6PlBEK7v3) | 2:50 |
 
-Snapshot ID: `AAAAAC/9igrGWP21WxeSn+eZbw/rjWq7`
+Snapshot ID: `AAAAALnE7k1ZjtOKVC1TcwiTGpwQUfst`

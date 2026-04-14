@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 
 > Apne mulk ki homegrown hits 🎶 Cover: Abdul Hannan
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,295 likes - 80 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,353 likes - 80 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Khasara](https://open.spotify.com/track/1TWkdQ2k7ysSYwla66Ys6I) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Samar Jafri](https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq) | [Khasara](https://open.spotify.com/album/6YqbrXnmuh8lxNEFeHNOcA) | 2:40 |
 | 2 | [Hum](https://open.spotify.com/track/7oNZfE9wnu7SP55LwNSiKG) | [Murtaza Qizilbash](https://open.spotify.com/artist/6hIXwlI4wny3zYuB6cDBBk) | [Hum](https://open.spotify.com/album/7idG3a5Nmotd02hA6ifD0f) | 4:35 |
-| 3 | [Bewajah](https://open.spotify.com/track/2iUS1RWS0p7sZBwisMcaLs) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Alan Sampson](https://open.spotify.com/artist/6jQkBMk5URec0RTNDh8P96) | [Bewajah](https://open.spotify.com/album/2RWu005s6sUzoLvg9G4pV6) | 2:22 |
-| 4 | [Bewajah](https://open.spotify.com/track/3N3KsOsPrLxxWNQHTl0Kkz) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Bewajah](https://open.spotify.com/album/1nMYA7uloQvFhTDY565dtn) | 3:25 |
-| 5 | [Chann Taara](https://open.spotify.com/track/2vFxIYeArqtWEFkvXCgfSt) | [Ali Raza](https://open.spotify.com/artist/2URzIJH7QfPgMAEPErd0cC), [Kinza Hashmi](https://open.spotify.com/artist/6hU2CnAt7QXBk9qEUkIztR), [Ali & Shjr](https://open.spotify.com/artist/7GquqOIWZX7FNjsUYNjOKy) | [Chann Taara](https://open.spotify.com/album/2J7l3VtgICYrL7UFl8Ncxp) | 3:47 |
-| 6 | [Meri Zindagi Hai Tu](https://open.spotify.com/track/5RYXTC4G3RYYP6pUmaF6s2) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS), [Sabri Sisters](https://open.spotify.com/artist/5LBIpDf0NQMSYa6O42d9Mn) | [Meri Zindagi Hai Tu](https://open.spotify.com/album/4FWgeZQOq8g7kLQAniEdzR) | 3:46 |
+| 3 | [Bewajah](https://open.spotify.com/track/3N3KsOsPrLxxWNQHTl0Kkz) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Bewajah](https://open.spotify.com/album/1nMYA7uloQvFhTDY565dtn) | 3:25 |
+| 4 | [Chann Taara](https://open.spotify.com/track/2vFxIYeArqtWEFkvXCgfSt) | [Ali Raza](https://open.spotify.com/artist/2URzIJH7QfPgMAEPErd0cC), [Kinza Hashmi](https://open.spotify.com/artist/6hU2CnAt7QXBk9qEUkIztR), [Ali & Shjr](https://open.spotify.com/artist/7GquqOIWZX7FNjsUYNjOKy) | [Chann Taara](https://open.spotify.com/album/2J7l3VtgICYrL7UFl8Ncxp) | 3:47 |
+| 5 | [Meri Zindagi Hai Tu](https://open.spotify.com/track/5RYXTC4G3RYYP6pUmaF6s2) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS), [Sabri Sisters](https://open.spotify.com/artist/5LBIpDf0NQMSYa6O42d9Mn) | [Meri Zindagi Hai Tu](https://open.spotify.com/album/4FWgeZQOq8g7kLQAniEdzR) | 3:46 |
+| 6 | [Bewajah](https://open.spotify.com/track/2iUS1RWS0p7sZBwisMcaLs) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Alan Sampson](https://open.spotify.com/artist/6jQkBMk5URec0RTNDh8P96) | [Bewajah](https://open.spotify.com/album/2RWu005s6sUzoLvg9G4pV6) | 2:22 |
 | 7 | [SARGOSHI](https://open.spotify.com/track/1JX4YjJ6EtxOheUjer7Vsu) | [Ahsan Javed](https://open.spotify.com/artist/4FeXPYeo2Ts8EPAwHFJPRE), [Usamasutra](https://open.spotify.com/artist/5zbPdTHqmNPLfJmS3iOJ2L) | [SARGOSHI](https://open.spotify.com/album/3LxvwpsXj6aX0I9St3ZAB3) | 2:12 |
 | 8 | [Ishqa Ve](https://open.spotify.com/track/0febwTwLDSZzrt46i1RBF5) | [Zeeshan Ali](https://open.spotify.com/artist/1Bz46nDCMO1UOKp9GJjL92), [Yuvraj Tung](https://open.spotify.com/artist/7yqoq4MWdw2ZNyAKDqH0fE), [Sandeep Aulakh](https://open.spotify.com/artist/3allL5EVHCpBzNZHN2JCc5), [Honey Dhillon](https://open.spotify.com/artist/0d4qS5KvrIwi0l5OMiftsH) | [Ishqa Ve](https://open.spotify.com/album/76crGpcBjaBuRTLpxBePXS) | 3:27 |
 | 9 | [REGRETS](https://open.spotify.com/track/6OUPWxtBj1KaAV7Ku3xgmr) | [Jevin Gill](https://open.spotify.com/artist/4wOKfu3A61gCA7lWEynNoe), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci) | [REGRETS/PROMISES](https://open.spotify.com/album/5u6i5eWsGiTk325putsGZp) | 4:02 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 | 79 | [Main Rahun \(From "Parwarish"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/track/0REdqbK0A99eKrYF66zSDO) | [Samar Jafri](https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq) | [Main Rahun \(From "Parwarish"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/25gVPoJgNIlNPGxOOij21C) | 3:25 |
 | 80 | [Rung](https://open.spotify.com/track/6ProxDWSLnmYbmvSIRElWy) | [HAVI](https://open.spotify.com/artist/3P8ZD2X9kQJfeVcjr3GLP4), [DJ Abdur](https://open.spotify.com/artist/0JM3R8J6hjJmu8PavauSXZ), [Farasat Anees](https://open.spotify.com/artist/05miC2ndfE3ZyZ7xCMnZzm) | [Rung](https://open.spotify.com/album/7oxZeYRSW8clprQQFjkHWR) | 2:52 |
 
-Snapshot ID: `AAAAAOu7Pbs7k6iysMOGviACjzLDoeto`
+Snapshot ID: `AAAAAAwP5caewdmyFCJ9ZaUny9kv0eBW`

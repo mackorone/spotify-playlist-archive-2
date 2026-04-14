@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: Hadise x Motive
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,406,493 likes - 50 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,406,463 likes - 50 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Hermès 2.0](https://open.spotify.com/track/1ONwgLvPUbapdtMsMxpxx9) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [Hermès 2.0](https://open.spotify.com/album/26LqIfnZFtbLTKq0aYzwb5) | 1:21 |
-| 2 | [Labirent](https://open.spotify.com/track/2mssGi7e5Aac72PxoOGhLp) | [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [Labirent](https://open.spotify.com/album/3UbHNfhM2RXE6GN27HPuEn) | 3:10 |
+| 1 | [Labirent](https://open.spotify.com/track/2mssGi7e5Aac72PxoOGhLp) | [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [Labirent](https://open.spotify.com/album/3UbHNfhM2RXE6GN27HPuEn) | 3:10 |
+| 2 | [Hermès 2.0](https://open.spotify.com/track/1ONwgLvPUbapdtMsMxpxx9) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [Hermès 2.0](https://open.spotify.com/album/26LqIfnZFtbLTKq0aYzwb5) | 1:21 |
 | 3 | [Al Ya Da Bırak](https://open.spotify.com/track/0Wjp1U9wiHwJFZLFzUmMLc) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [Al Ya Da Bırak](https://open.spotify.com/album/1FnKISwfJnwyoStARmU4gw) | 2:58 |
 | 4 | [Sanırım Yaşlanıyorum](https://open.spotify.com/track/4gzqjGdJuNKjIiG2DVgB1T) | [Aksan](https://open.spotify.com/artist/35vCEk68DtAxh7gDAzhoKK) | [GÜNAH](https://open.spotify.com/album/5yoU7u5l4hLrICXjDRomck) | 2:40 |
 | 5 | [OZLEMEM, SORRY](https://open.spotify.com/track/307mzDqUDbzw4ZY1xbPnWH) | [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz), [Mobench](https://open.spotify.com/artist/2mIMJ28uekjZP98huB079t) | [OZLEMEM, SORRY](https://open.spotify.com/album/2UlxlMrsV0cjba4DIQue9k) | 1:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 49 | [Keşke](https://open.spotify.com/track/1horGWxHKfwctCKdHwrO0n) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6), [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Keşke](https://open.spotify.com/album/6fqTOG4E0dmemK3mwYCogc) | 3:27 |
 | 50 | [kum saati](https://open.spotify.com/track/18BJaXD2ss3mP9o0qMOp8P) | [EGE!](https://open.spotify.com/artist/5chlGLYjNChbXjDbojObt5), [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [kum saati](https://open.spotify.com/album/3R3uDxPQ4tHfhW6mGEQawV) | 2:19 |
 
-Snapshot ID: `AAAAAFlmwzj24R/h6MiBv9r6mFquqc8J`
+Snapshot ID: `AAAAABoaXj84J4B9rvmZUV728fdDgiGB`

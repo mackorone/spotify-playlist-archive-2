@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40DPwJ.md) - [plain]
 
 > This is Taio Cruz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,925 likes - 44 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,922 likes - 44 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40DPwJ.md) - [plain]
 | 25 | [Row The Body \(feat\. French Montana\)](https://open.spotify.com/track/5qmR4IEKBUpgPa14pGuWuS) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Row The Body \(feat\. French Montana\)](https://open.spotify.com/album/0SK5cDgoWVerVQbHne2epR) | 3:57 |
 | 26 | [Can't Say Go](https://open.spotify.com/track/1ys0QvZtGmKK1A9gNYIoBU) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Departure](https://open.spotify.com/album/2j6ELt08ZpDnHJWJsr4Cpp) | 3:23 |
 | 27 | [Come On Girl](https://open.spotify.com/track/4jlySewVFl772WGuXXqzsp) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC), [Luciana](https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV) | [Rokstarr](https://open.spotify.com/album/0ubDm7S0h9Yzt0CvwmOhGf) | 3:33 |
-| 28 | [Me On You](https://open.spotify.com/track/3nD6hpOexPDS1LHtoL7bPM) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Me On You](https://open.spotify.com/album/59rLZXhHthZStCJJbn1Rme) | 3:16 |
-| 29 | [Take Me Back \- 2010 Remix](https://open.spotify.com/track/0ZnimFEb14Ciz5dvQJAQ3k) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC), [Tinchy Stryder](https://open.spotify.com/artist/7h2Y48bG543JDzEed383cx) | [The Rokstarr Hits Collection](https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k) | 3:26 |
+| 28 | [Take Me Back \- 2010 Remix](https://open.spotify.com/track/0ZnimFEb14Ciz5dvQJAQ3k) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC), [Tinchy Stryder](https://open.spotify.com/artist/7h2Y48bG543JDzEed383cx) | [The Rokstarr Hits Collection](https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k) | 3:26 |
+| 29 | [Me On You](https://open.spotify.com/track/3nD6hpOexPDS1LHtoL7bPM) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Me On You](https://open.spotify.com/album/59rLZXhHthZStCJJbn1Rme) | 3:16 |
 | 30 | [I'll Never Love Again](https://open.spotify.com/track/5PmRkzt9g5o3GXqWgl12ES) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Departure](https://open.spotify.com/album/2j6ELt08ZpDnHJWJsr4Cpp) | 3:48 |
 | 31 | [Make It Last Forever](https://open.spotify.com/track/3v6FtXE6M4JuKo9zeuprb8) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [TY.O \(International Version\)](https://open.spotify.com/album/0TjgUvNEDN2PegfZVkoggi) | 3:48 |
 | 32 | [Time For You](https://open.spotify.com/track/7L7rl2MmkCU5I7XrTB48pB) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC), [Wonder Stereo](https://open.spotify.com/artist/4P2qfdEHx0ObXclFvHh1fn) | [Time For You](https://open.spotify.com/album/2qSrzMIwPfV7SvbajqhGV8) | 3:19 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40DPwJ.md) - [plain]
 | 43 | [Knock Me Off My Feet](https://open.spotify.com/track/4tQ6lDCuP8wSL4Kmp60e3q) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [NapsterLive Sessions](https://open.spotify.com/album/2Ba60UFtuZrNWu4KLgQQpW) | 3:18 |
 | 44 | [She's Always Gone! \- NapsterLive](https://open.spotify.com/track/2kfko5FM1exgSB3JoaNZNs) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [NapsterLive Sessions](https://open.spotify.com/album/2Ba60UFtuZrNWu4KLgQQpW) | 3:33 |
 
-Snapshot ID: `admPAAAAAADHDkFPuDgtH79i97gbnGCC`
+Snapshot ID: `adrggAAAAACpZW1DPVOOhraEzSQyPbcc`

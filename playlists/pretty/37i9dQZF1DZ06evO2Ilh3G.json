@@ -1,12 +1,12 @@
 {
   "description": "This is Offset. The essential tracks, all in one playlist.",
-  "num_followers": 119557,
+  "num_followers": 119564,
   "original_name": "This Is Offset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "admPAAAAAADSDS4OSKvN/YfZrdBIxRAj",
+  "snapshot_id": "adrggAAAAACPwCQ0Z0rvRFGg5lzh5xB1",
   "tracks": [
     {
       "added_at": null,
@@ -810,11 +810,19 @@
         {
           "name": "Offset",
           "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "duration_ms": 200485,
-      "name": "Don't Lose Me",
-      "url": "https://open.spotify.com/track/71Hr2rAhEI92BSpFYbzNN7"
+      "duration_ms": 244941,
+      "name": "Legacy (feat. Travis Scott & 21 Savage)",
+      "url": "https://open.spotify.com/track/7pMRoGLEJuFM2wl5pt0R99"
     },
     {
       "added_at": null,
@@ -894,19 +902,11 @@
         {
           "name": "Offset",
           "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "duration_ms": 244941,
-      "name": "Legacy (feat. Travis Scott & 21 Savage)",
-      "url": "https://open.spotify.com/track/7pMRoGLEJuFM2wl5pt0R99"
+      "duration_ms": 200485,
+      "name": "Don't Lose Me",
+      "url": "https://open.spotify.com/track/71Hr2rAhEI92BSpFYbzNN7"
     },
     {
       "added_at": null,

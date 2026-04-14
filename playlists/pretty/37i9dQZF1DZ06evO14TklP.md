@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO14TklP.md) - [plain]
 
 > This is Ebony\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,439 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,491 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO14TklP.md) - [plain]
 | 49 | [After](https://open.spotify.com/track/6WODGYSGiq0aUNqYlOYNhA) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX) | [Visão Periférica](https://open.spotify.com/album/3P2UK2xxbzATRIgogpF3YF) | 2:12 |
 | 50 | [Xoxo](https://open.spotify.com/track/0TBRCcnppM6aPQaBagyA9j) | [Fresh Records](https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [Xoxo](https://open.spotify.com/album/0Vw3WqhMUCEspme58uRYHv) | 2:10 |
 
-Snapshot ID: `admPAAAAAAAVez1q/ExB8dVVOkJQQaaQ`
+Snapshot ID: `adrggAAAAAAWH36JKdRgEBgtTwAIgo2p`

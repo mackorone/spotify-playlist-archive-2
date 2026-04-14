@@ -4,12 +4,12 @@
 
 > Eletrônico energético para acompanhar a sua malhação diária.
 
-107 songs - 5 hr 12 min
+108 songs - 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [079](https://open.spotify.com/track/1ULaCASWLNrzg76Jt3VDWd) | [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY), [Block Notice](https://open.spotify.com/artist/60rugLFQWUwxQEAT8ViGzq) | [079](https://open.spotify.com/album/717BskCJ1pYenCuIzoEPW6) | 2:48 | 2023-07-21 |  |
-| [Adrenalina \(Minha Gasolina\)](https://open.spotify.com/track/04KNQ19sU4QfARgavVEiNR) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [Adrenalina \(Minha Gasolina\)](https://open.spotify.com/album/4KrUxvKkI2xRKnaBZhf0SZ) | 3:00 | 2024-04-12 |  |
+| [Adrenalina \(Minha Gasolina\)](https://open.spotify.com/track/04KNQ19sU4QfARgavVEiNR) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [Adrenalina \(Minha Gasolina\)](https://open.spotify.com/album/4KrUxvKkI2xRKnaBZhf0SZ) | 3:00 | 2024-04-12 | 2026-04-14 |
 | [Alive \(It Feels Like\)](https://open.spotify.com/track/4fB85IhVASxXMWgoke5WVJ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Alive \(It Feels Like\)](https://open.spotify.com/album/4pXpgHjsecO9r9f22UB1Rk) | 2:22 | 2023-07-21 | 2024-03-25 |
 | [Alive \- Alok Remix](https://open.spotify.com/track/2Pe2GeYteFLUHrCPTihWmE) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Alive \(Alok Remix\)](https://open.spotify.com/album/6n8PLpI64QEpSJLJFVqmvh) | 2:41 | 2025-12-12 |  |
 | [Alive Again](https://open.spotify.com/track/2P7Vn6uJ9hRKTJVYMmjppN) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5) | [Alive Again](https://open.spotify.com/album/3jsZSRV7pLrjFCD8FObfok) | 3:32 | 2023-07-21 | 2024-08-28 |
@@ -75,6 +75,7 @@
 | [Preacher](https://open.spotify.com/track/3I1bYmKfG8ncIdNGsQmZok) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Outflux](https://open.spotify.com/artist/1aZrHGcyFNnEEE79aRU4jT), [No/Me](https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL) | [Preacher](https://open.spotify.com/album/0OiCQxj9JxilgP7HVIuBjk) | 2:55 | 2023-11-17 | 2024-02-25 |
 | [Psycho Killer](https://open.spotify.com/track/6HhiSk9HZR0C3IktOI9mzy) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [TEN TONNE SKELETON](https://open.spotify.com/artist/1xTbla5aaPQxFEMr11yxTA) | [Psycho Killer](https://open.spotify.com/album/724uBeFYTVq2EwgSWqZ7qD) | 2:20 | 2023-07-21 |  |
 | [Pulverturm \- ANNA Rework](https://open.spotify.com/track/4NN7PBVKclppjgszynZ9K1) | [Niels Van Gogh](https://open.spotify.com/artist/6L8Co7Voup4dISwbSl3owl), [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [Pulverturm \(ANNA Rework\)](https://open.spotify.com/album/4jh1gyFiHu0u7noPxQyzcE) | 3:56 | 2024-07-26 | 2025-02-22 |
+| [Put That Banger On Next](https://open.spotify.com/track/3Telt6qNs0A3XaUTfG3p1e) | [Ahadadream](https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW), [Capo Lee](https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh) | [Put That Banger On Next](https://open.spotify.com/album/1MNMB9fCDWKHW5bA4iSgCy) | 3:19 | 2026-04-13 |  |
 | [Rasputin](https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Rasputin](https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd) | 3:06 | 2023-07-21 |  |
 | [Redlight](https://open.spotify.com/track/48Jf12YHPBCAfAzi255Rvr) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Paradise Again](https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH) | 4:02 | 2023-07-21 | 2024-04-19 |
 | [Rhythm of the Night](https://open.spotify.com/track/7ilFvm0mQy8WFsi67e3flq) | [Felguk](https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf), [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [Yass](https://open.spotify.com/artist/1IfDLRzm8snCcXePrYzEI8) | [Rhythm of the Night](https://open.spotify.com/album/6BgupXtbUerk3l7hLOjxf1) | 3:17 | 2023-07-21 |  |

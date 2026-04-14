@@ -4,7 +4,7 @@
 
 > This is Yaeji\. The essential tracks, all in one playlist.
 
-55 songs - 3 hr 8 min
+56 songs - 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Mine or Yours \(Yaeji Remix\)](https://open.spotify.com/track/3FV0YFGD7tTqhMbwm3oTgM) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2), [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Mine or Yours \(Yaeji Remix\)](https://open.spotify.com/album/0lMxf0CKJDFeN1U6cTnawv) | 4:15 | 2025-10-08 |  |
 | [Mine or Yours \(Yaeji Remix\)](https://open.spotify.com/track/4i5WyIdRmyMvCDBhSkLIWb) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2), [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Mine or Yours](https://open.spotify.com/album/3KrPn5Hsy8tyL1z73iQm23) | 4:15 | 2025-12-04 | 2026-01-15 |
 | [Mirror \(feat\. Jessy Lanza & Yaeji\)](https://open.spotify.com/track/2m8ktFsorHvPZIHrlKxnGj) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN), [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Mirror \(feat\. Jessy Lanza & Yaeji\)](https://open.spotify.com/album/0GlXiPOFT25ZQHzh00pHMk) | 2:48 | 2025-05-07 |  |
-| [MONEY CAN'T BUY](https://open.spotify.com/track/0laCQVl49u92SxgJYwbcNX) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [Nappy Nina](https://open.spotify.com/artist/021A20H2EVS9igRiNhozcx) | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP) | 2:50 | 2023-06-21 |  |
+| [MONEY CAN'T BUY](https://open.spotify.com/track/0laCQVl49u92SxgJYwbcNX) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [Nappy Nina](https://open.spotify.com/artist/021A20H2EVS9igRiNhozcx) | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP) | 2:50 | 2023-06-21 | 2026-04-14 |
 | [MY IMAGINATION 상상](https://open.spotify.com/track/2WWtQEsjxl7cVKx352Z40D) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/album/2WCnWcLzQj6nXIdJNeVUjM) | 2:20 | 2023-05-02 | 2024-04-07 |
 | [New York 93 \(Baba Stiltz Remix\)](https://open.spotify.com/track/3aMdNsf7cEtehKpJpBuqOD) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [Baba Stiltz](https://open.spotify.com/artist/1xaQSClXcsc1JvxZ2qnwBF) | [New York 93 \(Baba Stiltz Remix\)](https://open.spotify.com/album/1N6E1WgIKkDBQynAvDRdTa) | 5:55 | 2023-05-02 |  |
 | [Noonside](https://open.spotify.com/track/6fMipfFtGlw86Bzf5EMGPB) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Yaeji](https://open.spotify.com/album/50gVMffcuo28DBd6GCSlZk) | 3:25 | 2023-05-02 |  |
@@ -54,6 +54,7 @@
 | [SPELL 주문](https://open.spotify.com/track/2a03sGTTkUFXpNKwDpdB3B) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl), [G.L.A.M.](https://open.spotify.com/artist/0AQ2vnf2f5UNnbTmU0ggYZ) | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP) | 3:06 | 2023-05-02 |  |
 | [Submerge FM](https://open.spotify.com/track/7n5e6Snjp8tbqwzAPoYjXn) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [With A Hammer](https://open.spotify.com/album/2VYo0PSqdxVTMI0ydKUtoL) | 3:25 | 2023-05-02 |  |
 | [Swim Me](https://open.spotify.com/track/3hqQkn1Mbb2nNZyeJfNrb5) | [Ellie Herring](https://open.spotify.com/artist/3CsuIezRpqLyi8gCer8ENB), [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [What a Joy](https://open.spotify.com/album/66awLlAFni3514drN79wdh) | 3:28 | 2024-08-03 |  |
+| [THE TH1NG](https://open.spotify.com/track/3Jlyj8Gtfg4jcuhE4QbiEX) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [Victoria Sin](https://open.spotify.com/artist/6pQ8LHy1TNnFc1HcW2aqTv), [Shy One](https://open.spotify.com/artist/6FafP4LIlZnnYNacDoW7yZ) | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/album/2WCnWcLzQj6nXIdJNeVUjM) | 4:12 | 2026-04-14 |  |
 | [Therapy](https://open.spotify.com/track/5agra2lmQHwABCYO8LULz7) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Therapy](https://open.spotify.com/album/1ko2yfNSFmSLnxfYwtWtKU) | 3:16 | 2023-05-02 |  |
 | [WAKING UP DOWN](https://open.spotify.com/track/0YnbUCbW8viWWikWXoVzB1) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP) | 3:21 | 2023-05-02 |  |
 | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/track/3UQFh2pOHS3h2ivIm7Zcyf) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP) | 3:49 | 2023-05-02 |  |

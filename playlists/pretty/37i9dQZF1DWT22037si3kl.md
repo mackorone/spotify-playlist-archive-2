@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > pralém de outfit\. AURA\. Foto: Nebrugg
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,665 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,661 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 26 | [CAM](https://open.spotify.com/track/0I4dN83QkYPG7aveyl74MV) | [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX) | [CAM](https://open.spotify.com/album/40ZK5ujZ8QnzhRqISu1F38) | 2:47 |
 | 27 | [Sentido à Zona Leste](https://open.spotify.com/track/2w02XJ34a0xhLwegEHw7u2) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm) | [Sentido à Zona Leste](https://open.spotify.com/album/3EoyU7wpCUPE7qrx54NUKB) | 2:03 |
 | 28 | [Próximo Passo](https://open.spotify.com/track/58r4xh2mRnLOGpCd8SJFvO) | [Emitê Único](https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75), [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q), [Ryu, The Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K) | [Unique](https://open.spotify.com/album/2GDpipX0hCd3BWwIaXG7YL) | 2:20 |
-| 29 | [Sentido Aranha](https://open.spotify.com/track/4X0ytXIiFUqwaCX24o1Cje) | [KayG](https://open.spotify.com/artist/23FGpj6N9wtORIuMoXu9Uk), [ALAMO](https://open.spotify.com/artist/6YSHIHqbU8AVJ0SrLiqIHk), [Jon](https://open.spotify.com/artist/6wbfgVgq74I6BveSPkyC2t) | [Sentido Aranha](https://open.spotify.com/album/2XpP9Bu7VyH45i8pcjBfX5) | 2:26 |
-| 30 | [Foco](https://open.spotify.com/track/4HZC8iPPDSyqmoOmnHlXYN) | [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [JECI](https://open.spotify.com/artist/5vqxf5Zo460bhgO0uOjKmc), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q) | [Aruanda](https://open.spotify.com/album/3yAkAVR4BaXNxtSuzzXtHU) | 3:20 |
+| 29 | [Foco](https://open.spotify.com/track/4HZC8iPPDSyqmoOmnHlXYN) | [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [JECI](https://open.spotify.com/artist/5vqxf5Zo460bhgO0uOjKmc), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q) | [Aruanda](https://open.spotify.com/album/3yAkAVR4BaXNxtSuzzXtHU) | 3:20 |
+| 30 | [Sentido Aranha](https://open.spotify.com/track/4X0ytXIiFUqwaCX24o1Cje) | [KayG](https://open.spotify.com/artist/23FGpj6N9wtORIuMoXu9Uk), [ALAMO](https://open.spotify.com/artist/6YSHIHqbU8AVJ0SrLiqIHk), [Jon](https://open.spotify.com/artist/6wbfgVgq74I6BveSPkyC2t) | [Sentido Aranha](https://open.spotify.com/album/2XpP9Bu7VyH45i8pcjBfX5) | 2:26 |
 | 31 | [MULIERES](https://open.spotify.com/track/4hXsF7dAII2A4YW1Jtg2zc) | [FAB GODAMN](https://open.spotify.com/artist/7g4bHpDdeUyNES1eX8BQ3g), [Young Nego K](https://open.spotify.com/artist/5T3F7IclObjDyHZ7ZG76bw), [$upremos](https://open.spotify.com/artist/7y3iq6ylOLzQOCBU3pa1Ff) | [MULIERES](https://open.spotify.com/album/1cPO63ScY3hQLh22Wtl1L3) | 2:07 |
 | 32 | [NOITE DE TRAP](https://open.spotify.com/track/6kfmdw0rCqnnnosIxKbBDZ) | [TheJovemJota](https://open.spotify.com/artist/4IdpYE1f4LlAOuVVJqCcvV), [Arthurzinho](https://open.spotify.com/artist/3k5mp3imY0h00XDaal3ELP), [D.A.A.N](https://open.spotify.com/artist/6FoJ1vMKehxpm93fteKX8v) | [NOITE DE TRAP](https://open.spotify.com/album/2N8aePZV3J6i2yV4tNAL4f) | 2:07 |
 | 33 | [Eu Meto Bronca](https://open.spotify.com/track/5T25TfCnJgTB5JVvrS9xJG) | [Emitê Único](https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75) | [Eu Meto Bronca](https://open.spotify.com/album/0xGDMZwlSRXFPgcgCvQkkl) | 2:37 |

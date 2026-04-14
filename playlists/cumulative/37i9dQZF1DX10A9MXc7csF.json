@@ -10173,28 +10173,6 @@
     },
     {
       "album": {
-        "name": "El Paquete",
-        "url": "https://open.spotify.com/album/6n8oJVvvQf506DwHbbMda6"
-      },
-      "artists": [
-        {
-          "name": "Luis Escalera",
-          "url": "https://open.spotify.com/artist/1EECv9ZeOOBtjcVa3GTEBd"
-        },
-        {
-          "name": "Max Wizard",
-          "url": "https://open.spotify.com/artist/0dlUkcvpngiB6q05OnvKme"
-        }
-      ],
-      "date_added": "2026-04-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 169142,
-      "name": "El Paquete",
-      "url": "https://open.spotify.com/track/4xTXk9S20F0p2dc4ZPcstx"
-    },
-    {
-      "album": {
         "name": "El Party",
         "url": "https://open.spotify.com/album/4ca5L2W0DmQzOK0jPdoVmd"
       },
@@ -19562,6 +19540,28 @@
       "duration_ms": 198675,
       "name": "Mi Padre (Versi\u00f3n Ac\u00fastica)",
       "url": "https://open.spotify.com/track/5PyKNGmzN7zyEEC61muPA8"
+    },
+    {
+      "album": {
+        "name": "Mi Paquete",
+        "url": "https://open.spotify.com/album/6n8oJVvvQf506DwHbbMda6"
+      },
+      "artists": [
+        {
+          "name": "Luis Escalera",
+          "url": "https://open.spotify.com/artist/1EECv9ZeOOBtjcVa3GTEBd"
+        },
+        {
+          "name": "Max Wizard",
+          "url": "https://open.spotify.com/artist/0dlUkcvpngiB6q05OnvKme"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169142,
+      "name": "Mi Paquete",
+      "url": "https://open.spotify.com/track/4xTXk9S20F0p2dc4ZPcstx"
     },
     {
       "album": {

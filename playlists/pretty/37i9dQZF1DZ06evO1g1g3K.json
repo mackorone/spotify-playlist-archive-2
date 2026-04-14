@@ -1,12 +1,12 @@
 {
   "description": "This is Durand Bernarr. The essential tracks, all in one playlist.",
-  "num_followers": 6978,
+  "num_followers": 6983,
   "original_name": "This Is Durand Bernarr",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "admPAAAAAACRyEpZFup81B0VchAtXSMH",
+  "snapshot_id": "adrggAAAAABfyEacesNeTJnBYVW72FPx",
   "tracks": [
     {
       "added_at": null,
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DUR&",
-        "url": "https://open.spotify.com/album/3HGGNFWHFe1c8cgJx0t8ki"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 305218,
-      "name": "Company",
-      "url": "https://open.spotify.com/track/1SxojyK5aAEHRS2mnNgVhU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Terrell One Million Show",
         "url": "https://open.spotify.com/album/3cAgKKxhswmZu3t8OC8Hr1"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 291620,
       "name": "I Like It",
       "url": "https://open.spotify.com/track/2whrzPDuhdUfLYaE8xENIN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DUR&",
+        "url": "https://open.spotify.com/album/3HGGNFWHFe1c8cgJx0t8ki"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 305218,
+      "name": "Company",
+      "url": "https://open.spotify.com/track/1SxojyK5aAEHRS2mnNgVhU"
     },
     {
       "added_at": null,
@@ -503,6 +503,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sound Check",
+        "url": "https://open.spotify.com/album/2WYlqZt9qlYZToSgBq95Dn"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Collide",
+      "url": "https://open.spotify.com/track/2PxRnDqqrsRVYgbh5rWPpE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wanderlust",
         "url": "https://open.spotify.com/album/1rTKMaQeug98fbSH29NoaG"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 239815,
       "name": "H.I. (feat. Devin Tracy)",
       "url": "https://open.spotify.com/track/0L8fkRTODFPnShmcGlbuzP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sound Check",
-        "url": "https://open.spotify.com/album/2WYlqZt9qlYZToSgBq95Dn"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Collide",
-      "url": "https://open.spotify.com/track/2PxRnDqqrsRVYgbh5rWPpE"
     },
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DUR&",
-        "url": "https://open.spotify.com/album/3HGGNFWHFe1c8cgJx0t8ki"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Relocate",
-      "url": "https://open.spotify.com/track/0KEFmJW0gsRLmCgQVOMNzC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hip 2 Hip Hypnosis",
         "url": "https://open.spotify.com/album/7wweXc51MLp0BLoGMNCjJR"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 193880,
       "name": "Hip 2 Hip Hypnosis",
       "url": "https://open.spotify.com/track/4qqfI2my7ydYntn6T82fUZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DUR&",
+        "url": "https://open.spotify.com/album/3HGGNFWHFe1c8cgJx0t8ki"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Relocate",
+      "url": "https://open.spotify.com/track/0KEFmJW0gsRLmCgQVOMNzC"
     },
     {
       "added_at": null,
@@ -647,6 +647,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sound Check",
+        "url": "https://open.spotify.com/album/2WYlqZt9qlYZToSgBq95Dn"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Search Party",
+      "url": "https://open.spotify.com/track/4y3cjPpuyUiyE7z02TrxfJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DUR&",
         "url": "https://open.spotify.com/album/3HGGNFWHFe1c8cgJx0t8ki"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 218000,
       "name": "Volume",
       "url": "https://open.spotify.com/track/1C7a5e3KDgbBuVnmZJKTX0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sound Check",
-        "url": "https://open.spotify.com/album/2WYlqZt9qlYZToSgBq95Dn"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Search Party",
-      "url": "https://open.spotify.com/track/4y3cjPpuyUiyE7z02TrxfJ"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "B-Boys Blues (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/26uTBBw7ZHAggZpOFP0ANQ"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 196582,
-      "name": "Hangin'",
-      "url": "https://open.spotify.com/track/0RFkym8XWbLBd6VJUY4aae"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sound Check",
         "url": "https://open.spotify.com/album/2WYlqZt9qlYZToSgBq95Dn"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 213275,
       "name": "Around",
       "url": "https://open.spotify.com/track/3F5owzlK86hpL1dkI3HTI4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "B-Boys Blues (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/26uTBBw7ZHAggZpOFP0ANQ"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 196582,
+      "name": "Hangin'",
+      "url": "https://open.spotify.com/track/0RFkym8XWbLBd6VJUY4aae"
     },
     {
       "added_at": null,
@@ -803,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "B-Boys Blues (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/26uTBBw7ZHAggZpOFP0ANQ"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 173605,
-      "name": "Homage",
-      "url": "https://open.spotify.com/track/4jCwxj1GpM7MTSNy6i2ihs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wanderlust",
         "url": "https://open.spotify.com/album/1rTKMaQeug98fbSH29NoaG"
       },
@@ -839,22 +823,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alone Again",
-        "url": "https://open.spotify.com/album/7fpCTI1h9vyPGzrCGAjKrf"
+        "name": "B-Boys Blues (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/26uTBBw7ZHAggZpOFP0ANQ"
       },
       "artists": [
-        {
-          "name": "Ballad",
-          "url": "https://open.spotify.com/artist/5rzpNZtFsVj1CxuF9qzeRx"
-        },
         {
           "name": "Durand Bernarr",
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
         }
       ],
-      "duration_ms": 205007,
-      "name": "Alone Again",
-      "url": "https://open.spotify.com/track/0Wk0GJno9JUtFpRRG1RpId"
+      "duration_ms": 173605,
+      "name": "Homage",
+      "url": "https://open.spotify.com/track/4jCwxj1GpM7MTSNy6i2ihs"
     },
     {
       "added_at": null,
@@ -895,30 +875,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saturday Church (Official Concept Album)",
-        "url": "https://open.spotify.com/album/5MUbWieT5aVx5oVtrSgHxG"
+        "name": "Alone Again",
+        "url": "https://open.spotify.com/album/7fpCTI1h9vyPGzrCGAjKrf"
       },
       "artists": [
         {
-          "name": "The Voices of Saturday Church",
-          "url": "https://open.spotify.com/artist/3p1fkrf1vEETjpSULCYpe4"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        },
-        {
-          "name": "Honey Dijon",
-          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+          "name": "Ballad",
+          "url": "https://open.spotify.com/artist/5rzpNZtFsVj1CxuF9qzeRx"
         },
         {
           "name": "Durand Bernarr",
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
         }
       ],
-      "duration_ms": 224915,
-      "name": "Brick by Brick - Durand Bernarr Version",
-      "url": "https://open.spotify.com/track/7p9tm4Z4JZm7FsvoyyR9sT"
+      "duration_ms": 205007,
+      "name": "Alone Again",
+      "url": "https://open.spotify.com/track/0Wk0GJno9JUtFpRRG1RpId"
     }
   ],
   "unique_name": "This Is Durand Bernarr",

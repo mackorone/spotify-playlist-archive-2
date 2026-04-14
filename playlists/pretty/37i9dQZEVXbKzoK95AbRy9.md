@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,856 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,869 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Merry Go Round](https://open.spotify.com/track/3VegC0PZiHjGxb80DER8XU) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 3:49 |
 | 50 | [Admita \- Ao Vivo](https://open.spotify.com/track/2YKc5o2kQ6e1Pch1DwpjkO) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Admita \(Ao Vivo\)](https://open.spotify.com/album/5LSlkNPGCk88r7UzXC33e2) | 2:55 |
 
-Snapshot ID: `MW8KoAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MXBXcAAAAAAAAAAAAAAAAAAAAAAAAGVu`

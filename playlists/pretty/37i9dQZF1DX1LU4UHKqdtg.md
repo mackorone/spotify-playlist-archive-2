@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 
 > Girls groups/solo artists shining beyond borders\. グローバルに活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Cover: KISS OF LIFE
 
-[Spotify](https://open.spotify.com/user/spotify) - 457,566 likes - 80 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 457,626 likes - 80 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,30 +15,30 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 | 5 | [Catch Catch](https://open.spotify.com/track/2O9bMJticxbQ8FH3NiQ7Xh) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [LOVE CATCHER](https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F) | 3:00 |
 | 6 | [PINKY UP](https://open.spotify.com/track/4KmkJjHTNlr1jFY56Lyz4E) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [PINKY UP](https://open.spotify.com/album/5tLy0MEMDVqiHKso6B4jnz) | 2:11 |
 | 7 | [KILLA \(Face the other me\)](https://open.spotify.com/track/66fjOHg3C0mKJwEckZ875l) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [CRACK CODE](https://open.spotify.com/album/4lCQ7EHjnx9fR9a79RKJ2i) | 2:56 |
-| 8 | [Bubee](https://open.spotify.com/track/3Y2pwdrZKIOUqK0HvsWf0c) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Bubee](https://open.spotify.com/album/1Tisomh3VWj3TeI8bFG5Tr) | 3:02 |
-| 9 | [GO](https://open.spotify.com/track/3ZqbplDGd2MJOUgs6yY42I) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [DEADLINE](https://open.spotify.com/album/7DO7f71Dkm98AKDIgBaaSx) | 3:15 |
+| 8 | [GO](https://open.spotify.com/track/3ZqbplDGd2MJOUgs6yY42I) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [DEADLINE](https://open.spotify.com/album/7DO7f71Dkm98AKDIgBaaSx) | 3:15 |
+| 9 | [Bubee](https://open.spotify.com/track/3Y2pwdrZKIOUqK0HvsWf0c) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Bubee](https://open.spotify.com/album/1Tisomh3VWj3TeI8bFG5Tr) | 3:02 |
 | 10 | [Biggest Fan](https://open.spotify.com/track/63razyPQswXocUXL3cGJgo) | [IRENE](https://open.spotify.com/artist/1FCug8HMxqearaZB5qwWQj) | [Biggest Fan \- The 1st Album](https://open.spotify.com/album/70xgPAZMSZ7THUEw3xv0I9) | 2:48 |
 | 11 | [Bad Girl](https://open.spotify.com/track/2bLQ0HMyuUWI7uPRzCy5Lo) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [Bad Girl](https://open.spotify.com/album/3v96qe3pw2Jz8xw0BrNXAH) | 3:34 |
-| 12 | [So Cute](https://open.spotify.com/track/0M5sCYya9sa2LOz551IBeI) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [So Cute](https://open.spotify.com/album/2pdrozDMXT6gnXBbKGeMfI) | 3:35 |
-| 13 | [Blush](https://open.spotify.com/track/1yhQJwdcU0HAwAKZdRURfM) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Signals](https://open.spotify.com/album/7EKQ3Mw77tsyP4Ymaa5hlM) | 3:15 |
-| 14 | [SPAGHETTI](https://open.spotify.com/track/2N9miXnewVmUrgl6JSK1FI) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [SPAGHETTI](https://open.spotify.com/album/2yUrwTLHDWBrW74Ewuw6RX) | 2:52 |
+| 12 | [Blush](https://open.spotify.com/track/1yhQJwdcU0HAwAKZdRURfM) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Signals](https://open.spotify.com/album/7EKQ3Mw77tsyP4Ymaa5hlM) | 3:15 |
+| 13 | [SPAGHETTI](https://open.spotify.com/track/2N9miXnewVmUrgl6JSK1FI) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [SPAGHETTI](https://open.spotify.com/album/2yUrwTLHDWBrW74Ewuw6RX) | 2:52 |
+| 14 | [What's a girl to do](https://open.spotify.com/track/1JymZBT39MAPXffPcKkaPW) | [DAYOUNG](https://open.spotify.com/artist/5SQHuBLqaasC50vOL9s8Mz) | [What's a girl to do](https://open.spotify.com/album/1hywbmcXqc373aldNqWUIS) | 2:10 |
 | 15 | [NOT CUTE ANYMORE](https://open.spotify.com/track/3RsJLPvB5pGC9BaAVb4caC) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [NOT CUTE ANYMORE \(Holiday Remixes\)](https://open.spotify.com/album/2T9oFW02VSegOMJvB5782U) | 2:11 |
 | 16 | [THAT’S A NO NO](https://open.spotify.com/track/2Zr9Wogx6N95V7meyHYGEj) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z ME](https://open.spotify.com/album/3pYQvLHC7Lt12OhpXuTKhc) | 3:00 |
-| 17 | [Too Bad](https://open.spotify.com/track/1trZK2rzKfvvI81APSf6Dq) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [GOOD GIRL BUT NOT FOR YOU](https://open.spotify.com/album/4ER3z7bMjofTmhn2dMrWYu) | 2:49 |
-| 18 | [What's a girl to do](https://open.spotify.com/track/1JymZBT39MAPXffPcKkaPW) | [DAYOUNG](https://open.spotify.com/artist/5SQHuBLqaasC50vOL9s8Mz) | [What's a girl to do](https://open.spotify.com/album/1hywbmcXqc373aldNqWUIS) | 2:10 |
+| 17 | [So Cute](https://open.spotify.com/track/0M5sCYya9sa2LOz551IBeI) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [So Cute](https://open.spotify.com/album/2pdrozDMXT6gnXBbKGeMfI) | 3:35 |
+| 18 | [Too Bad](https://open.spotify.com/track/1trZK2rzKfvvI81APSf6Dq) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [GOOD GIRL BUT NOT FOR YOU](https://open.spotify.com/album/4ER3z7bMjofTmhn2dMrWYu) | 2:49 |
 | 19 | [Fashion](https://open.spotify.com/track/4VSNKUbDAxpuc5M3RDcr67) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Fashion](https://open.spotify.com/album/1J2prcjhlTgMHpgThVrBEw) | 2:08 |
 | 20 | [Mono \(feat\. skaiwater\)](https://open.spotify.com/track/3VxmXJ4FdtbWI27p3Gx4Wh) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx), [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [Mono \(feat\. skaiwater\)](https://open.spotify.com/album/7apkvREB31WMcanFwUdrls) | 2:50 |
 | 21 | [Bad Angel \(with LISA\)](https://open.spotify.com/track/4QR40LqFAbMdabh4AoZJGZ) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Bad Angel \(with LISA\)](https://open.spotify.com/album/4RyojhEO0VsnNacY6C3te7) | 2:33 |
 | 22 | [WE GO UP](https://open.spotify.com/track/1tonXoW6dcb7GGNpec3PTl) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [WE GO UP](https://open.spotify.com/album/4QymxXCfQoxscpmFiMXcv9) | 3:06 |
-| 23 | [Blue Valentine](https://open.spotify.com/track/0FKR7mQJnYqdEmHAMhgQjw) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Blue Valentine](https://open.spotify.com/album/0fDy1DwMawX4l1nvV2diwW) | 3:06 |
-| 24 | [Bittersweet](https://open.spotify.com/track/1fDbHRMmrjT0Jhkj5gOb2l) | [Baby DONT Cry](https://open.spotify.com/artist/0dXoF2Q2WnVrhRT26SJNvs) | [AFTER CRY](https://open.spotify.com/album/24QS9JAsso6CwnGe8TK9Rk) | 3:20 |
-| 25 | [Delulu](https://open.spotify.com/track/3BWXNAPGGWhCJwsOFolnBB) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [Delulu Pack](https://open.spotify.com/album/0a8NPzV3WclFa2IliStNK8) | 2:24 |
-| 26 | [Love All](https://open.spotify.com/track/5TJMwfgYTPAaatu11ncUuM) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [Love All](https://open.spotify.com/album/72ZzIGJDD3OkniVAd19YJT) | 2:43 |
-| 27 | [Ice Cream](https://open.spotify.com/track/5zd8462HQf1mxn0lTTuBny) | [YUNA](https://open.spotify.com/artist/6FsEIvsTuqjpejg2jDbYdv) | [Ice Cream](https://open.spotify.com/album/67mVZdAnBrq7HSVbPPbgif) | 2:51 |
-| 28 | [Tweak](https://open.spotify.com/track/3BuaksAZoXoIr8NoxAsIOO) | [GIRLSET](https://open.spotify.com/artist/3D2TVeexyIXOtc8F4qEZ6P) | [Tweak](https://open.spotify.com/album/0VeiKxNxcCRrzgNHuhyMXu) | 2:28 |
-| 29 | [Shake!](https://open.spotify.com/track/6wdKMBPEUhdIE7Xhxb8ynP) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [Shake!](https://open.spotify.com/album/28ZtOK3BBS5hujeAamNmfX) | 3:12 |
-| 30 | [Sky Runner](https://open.spotify.com/track/398peLdmJWtQ0XPdKn90ax) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [LIKE YOU BETTER \(Japanese ver.\)](https://open.spotify.com/album/14H2Ftdjr8CAwwd2XdeiUA) | 3:32 |
-| 31 | [Best Match](https://open.spotify.com/track/1LbEG2MZGtZrfZj7MVzrbx) | [ME:I](https://open.spotify.com/artist/0wsE3L0l083t6bxC8jJefC) | [Best Match](https://open.spotify.com/album/545WCfR93t46jPrAsI49Ab) | 2:55 |
+| 23 | [Update ME](https://open.spotify.com/track/687s0MqxcPySRNQZCUCJPH) | [ME:I](https://open.spotify.com/artist/0wsE3L0l083t6bxC8jJefC) | [Update ME](https://open.spotify.com/album/1vQuzapDKD0Al92uMdfTZH) | 3:06 |
+| 24 | [Blue Valentine](https://open.spotify.com/track/0FKR7mQJnYqdEmHAMhgQjw) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Blue Valentine](https://open.spotify.com/album/0fDy1DwMawX4l1nvV2diwW) | 3:06 |
+| 25 | [Bittersweet](https://open.spotify.com/track/1fDbHRMmrjT0Jhkj5gOb2l) | [Baby DONT Cry](https://open.spotify.com/artist/0dXoF2Q2WnVrhRT26SJNvs) | [AFTER CRY](https://open.spotify.com/album/24QS9JAsso6CwnGe8TK9Rk) | 3:20 |
+| 26 | [Delulu](https://open.spotify.com/track/3BWXNAPGGWhCJwsOFolnBB) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [Delulu Pack](https://open.spotify.com/album/0a8NPzV3WclFa2IliStNK8) | 2:24 |
+| 27 | [Love All](https://open.spotify.com/track/5TJMwfgYTPAaatu11ncUuM) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [Love All](https://open.spotify.com/album/72ZzIGJDD3OkniVAd19YJT) | 2:43 |
+| 28 | [Ice Cream](https://open.spotify.com/track/5zd8462HQf1mxn0lTTuBny) | [YUNA](https://open.spotify.com/artist/6FsEIvsTuqjpejg2jDbYdv) | [Ice Cream](https://open.spotify.com/album/67mVZdAnBrq7HSVbPPbgif) | 2:51 |
+| 29 | [Tweak](https://open.spotify.com/track/3BuaksAZoXoIr8NoxAsIOO) | [GIRLSET](https://open.spotify.com/artist/3D2TVeexyIXOtc8F4qEZ6P) | [Tweak](https://open.spotify.com/album/0VeiKxNxcCRrzgNHuhyMXu) | 2:28 |
+| 30 | [Shake!](https://open.spotify.com/track/6wdKMBPEUhdIE7Xhxb8ynP) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [Shake!](https://open.spotify.com/album/28ZtOK3BBS5hujeAamNmfX) | 3:12 |
+| 31 | [Sky Runner](https://open.spotify.com/track/398peLdmJWtQ0XPdKn90ax) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [LIKE YOU BETTER \(Japanese ver.\)](https://open.spotify.com/album/14H2Ftdjr8CAwwd2XdeiUA) | 3:32 |
 | 32 | [ATTITUDE](https://open.spotify.com/track/6QIY4JAyzPH6UuFsyndaPs) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [ATTITUDE](https://open.spotify.com/album/39wwc39ALeKhi3LP1xerOw) | 3:05 |
 | 33 | [I DON'T BARGAIN](https://open.spotify.com/track/0auFYte8i9KPYvcsOUFk9Y) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [I DON'T BARGAIN](https://open.spotify.com/album/4WUHzPCu7BEuTxnjICJqpy) | 2:50 |
 | 34 | [Butterfly Doors](https://open.spotify.com/track/0oCeMmzRhlreWtTvxs11XS) | [AtHeart](https://open.spotify.com/artist/0ON7aUm308hzonzZGpZUvB) | [Butterfly Doors](https://open.spotify.com/album/6sF0p3FrNTeCy2S7TeM8Cw) | 2:51 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 | 79 | [iLy](https://open.spotify.com/track/4L43LBtfaYIFH1ECv3Xxyz) | [SAY MY NAME](https://open.spotify.com/artist/1YPfjEiECyLURKu09GfilS) | [iLy](https://open.spotify.com/album/3fbsZjl86xqxaDmuXCDmV0) | 3:03 |
 | 80 | [Supernatural](https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Supernatural](https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN) | 3:11 |
 
-Snapshot ID: `AAAAAPk4gpZVz8v57ONeCuDNjOklzR55`
+Snapshot ID: `AAAAACrjnpnX9c9Q+uuWKkzHazxPJcCp`

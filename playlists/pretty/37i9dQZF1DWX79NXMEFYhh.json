@@ -1,6 +1,6 @@
 {
   "description": "gusto ko lang naman ng kayakap ",
-  "num_followers": 881319,
+  "num_followers": 881205,
   "original_name": "cuddleweather",
   "owner": {
     "name": "Spotify",
@@ -575,22 +575,6 @@
     {
       "added_at": "2026-03-18 09:21:16",
       "album": {
-        "name": "The Secret of Us",
-        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 225973,
-      "name": "Close To You",
-      "url": "https://open.spotify.com/track/2bl81llf715VEEbAx03yvB"
-    },
-    {
-      "added_at": "2026-03-18 09:21:16",
-      "album": {
         "name": "homebdy (feat. Madman Stan)",
         "url": "https://open.spotify.com/album/1eNpFnIEHvsFYcIaSnf3bJ"
       },
@@ -615,22 +599,18 @@
     {
       "added_at": "2026-03-18 09:21:16",
       "album": {
-        "name": "I Need You More Today",
-        "url": "https://open.spotify.com/album/1Le1ykkfNX7dMyUYVOf6jj"
+        "name": "The Secret of Us",
+        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
       },
       "artists": [
         {
-          "name": "Caleb Santos",
-          "url": "https://open.spotify.com/artist/3XEHRbR9NMWfNzQ6TQMS9M"
-        },
-        {
-          "name": "Viva Music Publishing Inc.",
-          "url": "https://open.spotify.com/artist/1d1BeULLUX4HWNVypEUMfy"
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 233728,
-      "name": "I Need You More Today",
-      "url": "https://open.spotify.com/track/04qDUASuSfVp6fktfsxVej"
+      "duration_ms": 225973,
+      "name": "Close To You",
+      "url": "https://open.spotify.com/track/2bl81llf715VEEbAx03yvB"
     },
     {
       "added_at": "2026-03-18 09:21:16",
@@ -647,6 +627,26 @@
       "duration_ms": 256453,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/6xRiL9BVkWfZryQJmdHTmv"
+    },
+    {
+      "added_at": "2026-03-18 09:21:16",
+      "album": {
+        "name": "I Need You More Today",
+        "url": "https://open.spotify.com/album/1Le1ykkfNX7dMyUYVOf6jj"
+      },
+      "artists": [
+        {
+          "name": "Caleb Santos",
+          "url": "https://open.spotify.com/artist/3XEHRbR9NMWfNzQ6TQMS9M"
+        },
+        {
+          "name": "Viva Music Publishing Inc.",
+          "url": "https://open.spotify.com/artist/1d1BeULLUX4HWNVypEUMfy"
+        }
+      ],
+      "duration_ms": 233728,
+      "name": "I Need You More Today",
+      "url": "https://open.spotify.com/track/04qDUASuSfVp6fktfsxVej"
     },
     {
       "added_at": "2026-03-18 09:21:16",

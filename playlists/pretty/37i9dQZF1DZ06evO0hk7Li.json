@@ -1,12 +1,12 @@
 {
   "description": "This is Jacob Banks. The essential tracks, all in one playlist.",
-  "num_followers": 40243,
+  "num_followers": 40249,
   "original_name": "This Is Jacob Banks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "admPAAAAAADhcp3gD7ESgDx01sfpVSJm",
+  "snapshot_id": "adrggAAAAAAPXE+nW0xZQzDqI7+gAtJc",
   "tracks": [
     {
       "added_at": null,
@@ -499,6 +499,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Limerence",
+        "url": "https://open.spotify.com/album/2M9nuz1rCUiuVYdA25of8F"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 76840,
+      "name": "Moon",
+      "url": "https://open.spotify.com/track/7iSmDEMNccANybhTUR1YzK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fifty Shades Freed (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4w0N1CaZwQ5RPIuawqlYyy"
       },
@@ -559,6 +575,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Limerence",
+        "url": "https://open.spotify.com/album/2M9nuz1rCUiuVYdA25of8F"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 235714,
+      "name": "In The End",
+      "url": "https://open.spotify.com/track/2nRYqxhoFrPRJve5h0UMa0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "For My Friends",
         "url": "https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0"
       },
@@ -571,22 +603,6 @@
       "duration_ms": 158124,
       "name": "Black N White",
       "url": "https://open.spotify.com/track/4OCGJrXkPgYBtud4iSV395"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Limerence",
-        "url": "https://open.spotify.com/album/2M9nuz1rCUiuVYdA25of8F"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 76840,
-      "name": "Moon",
-      "url": "https://open.spotify.com/track/7iSmDEMNccANybhTUR1YzK"
     },
     {
       "added_at": null,
@@ -623,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Limerence",
+        "url": "https://open.spotify.com/album/2M9nuz1rCUiuVYdA25of8F"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 56206,
+      "name": "Paris (Interlude)",
+      "url": "https://open.spotify.com/track/5IGgGCX3RegkeEAgNvNQAr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Monologue",
         "url": "https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj"
       },
@@ -635,22 +667,6 @@
       "duration_ms": 197701,
       "name": "Worthy",
       "url": "https://open.spotify.com/track/1CZbcH7PL9aa5x6FCAtUKT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Limerence",
-        "url": "https://open.spotify.com/album/2M9nuz1rCUiuVYdA25of8F"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 235714,
-      "name": "In The End",
-      "url": "https://open.spotify.com/track/2nRYqxhoFrPRJve5h0UMa0"
     },
     {
       "added_at": null,
@@ -695,6 +711,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Limerence",
+        "url": "https://open.spotify.com/album/2M9nuz1rCUiuVYdA25of8F"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 196025,
+      "name": "My Day Will Come",
+      "url": "https://open.spotify.com/track/4gbi2i68cvI8zPDGczoBro"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Monster 2.0",
         "url": "https://open.spotify.com/album/7y5HRc18PtRswUkWMusITX"
       },
@@ -711,22 +743,6 @@
       "duration_ms": 217440,
       "name": "Monster 2.0",
       "url": "https://open.spotify.com/track/7H76Ppe3o34VeU2yRi5xao"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Limerence",
-        "url": "https://open.spotify.com/album/2M9nuz1rCUiuVYdA25of8F"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 56206,
-      "name": "Paris (Interlude)",
-      "url": "https://open.spotify.com/track/5IGgGCX3RegkeEAgNvNQAr"
     },
     {
       "added_at": null,
@@ -763,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Limerence",
+        "url": "https://open.spotify.com/album/2M9nuz1rCUiuVYdA25of8F"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 172377,
+      "name": "Losing Game",
+      "url": "https://open.spotify.com/track/2jCdu3IUpkc7k7G0e7EdJI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Monologue",
         "url": "https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj"
       },
@@ -775,22 +807,6 @@
       "duration_ms": 208172,
       "name": "Something Beautiful",
       "url": "https://open.spotify.com/track/3NAgVeM0Lr6GPh8tsQUhiK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Limerence",
-        "url": "https://open.spotify.com/album/2M9nuz1rCUiuVYdA25of8F"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 196025,
-      "name": "My Day Will Come",
-      "url": "https://open.spotify.com/track/4gbi2i68cvI8zPDGczoBro"
     },
     {
       "added_at": null,
@@ -835,6 +851,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Limerence",
+        "url": "https://open.spotify.com/album/2M9nuz1rCUiuVYdA25of8F"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 238165,
+      "name": "Who Made You King?",
+      "url": "https://open.spotify.com/track/5mEOVfaAOXSgHWoBZXvoWU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Creed II (Score & Music from the Original Motion Picture)",
         "url": "https://open.spotify.com/album/4VODNHZZp8qxuMLJQK2G4u"
       },
@@ -855,22 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Limerence",
-        "url": "https://open.spotify.com/album/2M9nuz1rCUiuVYdA25of8F"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 172377,
-      "name": "Losing Game",
-      "url": "https://open.spotify.com/track/2jCdu3IUpkc7k7G0e7EdJI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Paradox",
         "url": "https://open.spotify.com/album/32cDtKd8eH2F74ChwdiWaT"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 276605,
       "name": "Silver Lining",
       "url": "https://open.spotify.com/track/3oFTt5ivFcWXLypCNosbur"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Monologue",
-        "url": "https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 294227,
-      "name": "Dear Simone",
-      "url": "https://open.spotify.com/track/1SaHqUS2eNW507xDzTooPq"
     }
   ],
   "unique_name": "This Is Jacob Banks",

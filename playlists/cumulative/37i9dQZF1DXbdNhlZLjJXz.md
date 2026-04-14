@@ -2,7 +2,7 @@
 
 ### [hot girl agenda 🔥 🚒](https://open.spotify.com/playlist/37i9dQZF1DXbdNhlZLjJXz)
 
-> She's actually kinda famous\. Welcome to Slayyyyter summer
+> She's actually kinda famous\. Welcome to Slayyyter summer
 
 341 songs - 18 hr 27 min
 

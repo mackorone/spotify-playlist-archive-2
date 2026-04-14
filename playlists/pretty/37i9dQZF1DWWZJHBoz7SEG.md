@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Rolitas para descubrir y salir a dar el roll bien placozo en compañía de Calle 24
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,163,381 likes - 85 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,163,385 likes - 85 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 28 | [Of All People](https://open.spotify.com/track/1jhI5gfOIA2iGOWk6gp1xc) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Of All People](https://open.spotify.com/album/1Df1pG5H92VbkhbTehf6Sn) | 2:34 |
 | 29 | [Going Shopping](https://open.spotify.com/track/4dUOhTTMy4ITIbNQKPKYFP) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Going Shopping](https://open.spotify.com/album/4XCAqkLSm0CozIX5dQRXPI) | 4:21 |
 | 30 | [Mr\. Know It All](https://open.spotify.com/track/0GuyH5MDxEx54wg1Rhe5on) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Mr\. Know It All](https://open.spotify.com/album/2WFulOVpYFDYBQ4GtoClfz) | 3:18 |
-| 31 | [FFF](https://open.spotify.com/track/3EPGWBvRxGWkPSChTBkABG) | [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [FFF](https://open.spotify.com/album/4zBseCXdGVBhWeJuq89ZVZ) | 2:44 |
+| 31 | [FFF](https://open.spotify.com/track/3EPGWBvRxGWkPSChTBkABG) | [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Soul](https://open.spotify.com/artist/4SmQWZtxkR4pOAbDQasTvl) | [FFF](https://open.spotify.com/album/4zBseCXdGVBhWeJuq89ZVZ) | 2:44 |
 | 32 | [Palacio de Hierro](https://open.spotify.com/track/07ytfeKvoJRezgwFr3AqOF) | [Ganggy](https://open.spotify.com/artist/5DyLJzaY28nfyYFYu5a7Py), [Armenta](https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX) | [Palacio de Hierro](https://open.spotify.com/album/1NgoeTB54fwbbSgo5B1XnD) | 3:15 |
 | 33 | [Impala](https://open.spotify.com/track/62LiG8OYhQtY4WrmqU3LZo) | [Justin Morales](https://open.spotify.com/artist/5D7x9esAF6twPxuOqSMkeO), [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD) | [Impala](https://open.spotify.com/album/4ab9VakNZ2Q2nF428g6m3U) | 2:32 |
 | 34 | [Letras Chiquitas](https://open.spotify.com/track/2xX22Q4snEaWfqUVooJp9b) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy), [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C), [Caztro](https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW) | [Letras Chiquitas](https://open.spotify.com/album/7cdkN6vQDrlnZMGJjvg3gT) | 4:22 |

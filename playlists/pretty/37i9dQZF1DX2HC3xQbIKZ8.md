@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HC3xQbIKZ8.md) - [plain]
 
 > Pacific reggae, roots rockers\. Relax, you're on island time\. Cover: L.A.B.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,776 likes - 75 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,787 likes - 75 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HC3xQbIKZ8.md) - [plain]
 | 48 | [Wandering Eye](https://open.spotify.com/track/7M1WfoimlU6uZ0LhenVUhx) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS) | [Based on a True Story](https://open.spotify.com/album/7eX7m3vqI4ovUBMEh3f4GU) | 9:49 |
 | 49 | [Come Over \- Radio Version](https://open.spotify.com/track/2aDH6OBWFOHDt1OSz2IwBt) | [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Come Over](https://open.spotify.com/album/1bc5Ork15j61m1sdKnC5t5) | 4:04 |
 | 50 | [You To Me Are Everything](https://open.spotify.com/track/005t9swXJ8E2DUm6T2iXeG) | [House of Shem](https://open.spotify.com/artist/2ERWeFslDVHB4E9pSSw845), [Te Omeka Perkins](https://open.spotify.com/artist/0v4dd7o5DG0zJdqsYrn1Bf) | [You To Me Are Everything](https://open.spotify.com/album/3aBc1NsKCAWV3HSLdzMoEy) | 3:53 |
-| 51 | [Take It Away](https://open.spotify.com/track/2xHZ0R5LYEbD18FOTjO7dO) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [Take It Away](https://open.spotify.com/album/6IUZa6lFsU0rSCu1FYV7gL) | 3:32 |
-| 52 | [Sweet Love](https://open.spotify.com/track/2Hj6NXHSAf2Iuhgme1jQto) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Sweet Love](https://open.spotify.com/album/2MRt8KcILMU2PUuAzBpKwU) | 3:32 |
+| 51 | [Sweet Love](https://open.spotify.com/track/2Hj6NXHSAf2Iuhgme1jQto) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Sweet Love](https://open.spotify.com/album/2MRt8KcILMU2PUuAzBpKwU) | 3:32 |
+| 52 | [Take It Away](https://open.spotify.com/track/2xHZ0R5LYEbD18FOTjO7dO) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [Take It Away](https://open.spotify.com/album/6IUZa6lFsU0rSCu1FYV7gL) | 3:32 |
 | 53 | [If Tomorrow Never Comes](https://open.spotify.com/track/1ixqQJZ8vsFWuSvAJwjNDK) | [Swiss](https://open.spotify.com/artist/3iRQU5nfA9uLRPgmXXhbCy), [Etana](https://open.spotify.com/artist/6oF8gXhgD5ZTQ0biyaw4Cm) | [Lucky Man](https://open.spotify.com/album/5IO8kfqsccFaycfAMe16ZG) | 3:50 |
 | 54 | [Miss Royal](https://open.spotify.com/track/25ADTLaBfhag349FYvkkXd) | [High Watah](https://open.spotify.com/artist/2DbSnI45Eg3JrxL9L307hi), [Fia](https://open.spotify.com/artist/3uwg3MMPpcXtJ7OknqdO9W) | [Miss Royal](https://open.spotify.com/album/3ZBgyNM9cNy6ahyqovVCzf) | 3:29 |
 | 55 | [Roady](https://open.spotify.com/track/2qSQ3ecDCuhp3NiY6Jc8Mh) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS) | [Based on a True Story](https://open.spotify.com/album/7eX7m3vqI4ovUBMEh3f4GU) | 7:09 |

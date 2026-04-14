@@ -2762,7 +2762,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 229573,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1"
@@ -4991,6 +4991,28 @@
     },
     {
       "album": {
+        "name": "Much Too Young (To Feel This Damn Old)",
+        "url": "https://open.spotify.com/album/0QD8L2AaVBlUtuWB7SYPga"
+      },
+      "artists": [
+        {
+          "name": "Hayes Carll",
+          "url": "https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV"
+        },
+        {
+          "name": "Corb Lund",
+          "url": "https://open.spotify.com/artist/2dIP3oiEt0xB8CrfSqN9Og"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173807,
+      "name": "Much Too Young (To Feel This Damn Old)",
+      "url": "https://open.spotify.com/track/31XLwwMjxFRQ6CpvCkGYc5"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7DzULGMf4tFgZ65CFlZugm"
       },
@@ -5669,6 +5691,24 @@
     },
     {
       "album": {
+        "name": "Pretty When It's New",
+        "url": "https://open.spotify.com/album/2yLLtIlTfUOWjYWgElFE1N"
+      },
+      "artists": [
+        {
+          "name": "Jamey Johnson",
+          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328053,
+      "name": "Pretty When It's New",
+      "url": "https://open.spotify.com/track/1UmPE10DDHeEGxptZ7MzaY"
+    },
+    {
+      "album": {
         "name": "Live From Telluride",
         "url": "https://open.spotify.com/album/5kd8qvJn1qxuw6cUAuWa9Z"
       },
@@ -6202,7 +6242,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 191133,
       "name": "Slide Off Of Your Satin Sheets",
       "url": "https://open.spotify.com/track/2U6nLLHg4AfYx03VAEXz2B"

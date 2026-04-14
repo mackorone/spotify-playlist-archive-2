@@ -1,6 +1,6 @@
 {
   "description": "The best new electronic indie music. Cover: Fred again.., Jamie T",
-  "num_followers": 42828,
+  "num_followers": 42847,
   "original_name": "Indie Electronic ",
   "owner": {
     "name": "Spotify",
@@ -275,22 +275,6 @@
     {
       "added_at": "2026-03-16 14:30:48",
       "album": {
-        "name": "L.U.C.K.Y",
-        "url": "https://open.spotify.com/album/1nTVtPPqCANg8FG0RvQta0"
-      },
-      "artists": [
-        {
-          "name": "Fcukers",
-          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
-        }
-      ],
-      "duration_ms": 138706,
-      "name": "L.U.C.K.Y",
-      "url": "https://open.spotify.com/track/3cd7iKlNj6OqRkEuMqVnYs"
-    },
-    {
-      "added_at": "2026-03-16 14:30:48",
-      "album": {
         "name": "Dream",
         "url": "https://open.spotify.com/album/5RRxkgSIBJ02AUEUf9pi9d"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 164885,
       "name": "Dream",
       "url": "https://open.spotify.com/track/1zQ3aaipEmoZ4tHtwIR28a"
+    },
+    {
+      "added_at": "2026-03-16 14:30:48",
+      "album": {
+        "name": "L.U.C.K.Y",
+        "url": "https://open.spotify.com/album/1nTVtPPqCANg8FG0RvQta0"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "duration_ms": 138706,
+      "name": "L.U.C.K.Y",
+      "url": "https://open.spotify.com/track/3cd7iKlNj6OqRkEuMqVnYs"
     },
     {
       "added_at": "2026-03-16 14:30:48",
@@ -903,26 +903,18 @@
     {
       "added_at": "2026-03-16 14:30:48",
       "album": {
-        "name": "Keep Me On The Dancefloor",
-        "url": "https://open.spotify.com/album/4J4bgMYKDkVRDW5zNGWghU"
+        "name": "Oh Baby",
+        "url": "https://open.spotify.com/album/1O0ETP1RoxA65mE6ehlZ57"
       },
       "artists": [
         {
-          "name": "Riva Starr",
-          "url": "https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D"
-        },
-        {
-          "name": "Soul Speech",
-          "url": "https://open.spotify.com/artist/1EAcO01N3yXpUGqhCJjPiT"
-        },
-        {
-          "name": "Harry Stone",
-          "url": "https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96"
+          "name": "Archie Holmes",
+          "url": "https://open.spotify.com/artist/1FAe23gB6feByMu2oQUI4J"
         }
       ],
-      "duration_ms": 181921,
-      "name": "It Feels Much Better",
-      "url": "https://open.spotify.com/track/2YJZrP7foi3hTnuVGbEsnp"
+      "duration_ms": 180999,
+      "name": "Oh Baby",
+      "url": "https://open.spotify.com/track/3OICfhRje9Hy4Pq0UQ4Dhr"
     },
     {
       "added_at": "2026-03-16 14:30:48",
@@ -943,18 +935,26 @@
     {
       "added_at": "2026-03-16 14:30:48",
       "album": {
-        "name": "Oh Baby",
-        "url": "https://open.spotify.com/album/1O0ETP1RoxA65mE6ehlZ57"
+        "name": "Keep Me On The Dancefloor",
+        "url": "https://open.spotify.com/album/4J4bgMYKDkVRDW5zNGWghU"
       },
       "artists": [
         {
-          "name": "Archie Holmes",
-          "url": "https://open.spotify.com/artist/1FAe23gB6feByMu2oQUI4J"
+          "name": "Riva Starr",
+          "url": "https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D"
+        },
+        {
+          "name": "Soul Speech",
+          "url": "https://open.spotify.com/artist/1EAcO01N3yXpUGqhCJjPiT"
+        },
+        {
+          "name": "Harry Stone",
+          "url": "https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96"
         }
       ],
-      "duration_ms": 180999,
-      "name": "Oh Baby",
-      "url": "https://open.spotify.com/track/3OICfhRje9Hy4Pq0UQ4Dhr"
+      "duration_ms": 181921,
+      "name": "It Feels Much Better",
+      "url": "https://open.spotify.com/track/2YJZrP7foi3hTnuVGbEsnp"
     },
     {
       "added_at": "2026-03-16 14:30:48",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2026-03-16 14:30:48",
       "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/3LKzgCd8XZzsRRi3CRRsv7"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 279346,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/1ubTFuP9rXCYzYQM7jUoWM"
-    },
-    {
-      "added_at": "2026-03-16 14:30:48",
-      "album": {
         "name": "All I Need",
         "url": "https://open.spotify.com/album/7cynQpUNbqg7ZqYQu11Yng"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 227934,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/3ZL9gPzeCnKG9l5SB1SlcZ"
+    },
+    {
+      "added_at": "2026-03-16 14:30:48",
+      "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/3LKzgCd8XZzsRRi3CRRsv7"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 279346,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/1ubTFuP9rXCYzYQM7jUoWM"
     },
     {
       "added_at": "2026-03-16 14:30:48",
@@ -1187,26 +1187,6 @@
     {
       "added_at": "2026-03-16 14:30:48",
       "album": {
-        "name": "See It As A Sign",
-        "url": "https://open.spotify.com/album/5W5TUPcIhBMZJAU7aGAkOp"
-      },
-      "artists": [
-        {
-          "name": "Carlita",
-          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
-        },
-        {
-          "name": "Myd",
-          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
-        }
-      ],
-      "duration_ms": 174204,
-      "name": "See It As A Sign",
-      "url": "https://open.spotify.com/track/2rsTdV5sQmTTfX4SDsgT3o"
-    },
-    {
-      "added_at": "2026-03-16 14:30:48",
-      "album": {
         "name": "Hallucinating Love",
         "url": "https://open.spotify.com/album/6NyoU5F25y1I7V9fqbKqy9"
       },
@@ -1223,6 +1203,26 @@
       "duration_ms": 210994,
       "name": "Peace Talk",
       "url": "https://open.spotify.com/track/4c1GHCAXEFa08WHckJ6txh"
+    },
+    {
+      "added_at": "2026-03-16 14:30:48",
+      "album": {
+        "name": "See It As A Sign",
+        "url": "https://open.spotify.com/album/5W5TUPcIhBMZJAU7aGAkOp"
+      },
+      "artists": [
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        },
+        {
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+        }
+      ],
+      "duration_ms": 174204,
+      "name": "See It As A Sign",
+      "url": "https://open.spotify.com/track/2rsTdV5sQmTTfX4SDsgT3o"
     },
     {
       "added_at": "2026-03-16 14:30:48",

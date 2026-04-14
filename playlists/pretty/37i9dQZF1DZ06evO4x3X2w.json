@@ -1,12 +1,12 @@
 {
   "description": "This is Aerosmith. The essential tracks, all in one playlist.",
-  "num_followers": 722124,
+  "num_followers": 722129,
   "original_name": "This Is Aerosmith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "admPAAAAAACr27YOl3MBocWLy08+NviB",
+  "snapshot_id": "adrggAAAAAAr1kcPv3Ve1pz0bDzIlRqV",
   "tracks": [
     {
       "added_at": null,
@@ -779,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Walkin\u2019 The Dog / Mama Kin",
+        "url": "https://open.spotify.com/album/3kvNPxK27zpVKjr7hg38Kk"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 195963,
+      "name": "Walkin' The Dog - Live At Paul's Mall, 1973",
+      "url": "https://open.spotify.com/track/6OUDRrnvT5wtDYtgeYqNje"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nine Lives",
         "url": "https://open.spotify.com/album/1WEfOTItaPIa0dVxxLJqlI"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 241294,
       "name": "Nine Lives",
       "url": "https://open.spotify.com/track/1baMSM7DZXYKVTHyxnYgzd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Little South Of Sanity",
-        "url": "https://open.spotify.com/album/3vXuOrqNDMKynoFfJROB9P"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 310866,
-      "name": "Cryin' - Live Version",
-      "url": "https://open.spotify.com/track/6LIudS7VLqRA0GgzGQTiyt"
     },
     {
       "added_at": null,

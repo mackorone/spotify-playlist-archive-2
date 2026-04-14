@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Timun Jelita
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,326 likes - 121 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,338 likes - 121 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 | 19 | [Di Tepi Lamunan \- Original Soundtrack from ‘Para Perasuk’](https://open.spotify.com/track/0DX9GrFmZw6tiUnFR29J4K) | [Maudy Ayunda](https://open.spotify.com/artist/17Wt0hzZb6fAEVfIHffQFB) | [Di Tepi Lamunan \(Original Soundtrack from ‘Para Perasuk’\)](https://open.spotify.com/album/3Fn9WrozjuRkGNhe2CTCDA) | 3:54 |
 | 20 | [DM](https://open.spotify.com/track/0SwdKgpwRUviyJ4RQU75An) | [Shakirra Vier](https://open.spotify.com/artist/25EadvOKROXy52Cn1BF6QI) | [DM](https://open.spotify.com/album/5dthffa1xLLD1HFvEWgkNJ) | 2:36 |
 | 21 | [Tenanglah](https://open.spotify.com/track/04HVwWnR9XAaQRPfXftqJt) | [Joanna Andrea](https://open.spotify.com/artist/0vQEEh1G8Foug2HiqWodyR) | [Tenanglah](https://open.spotify.com/album/7LWWtaY8MGuFV2PFvc2Gv8) | 3:13 |
-| 22 | [kota ini tak sama tanpamu \- Orchestra Version](https://open.spotify.com/track/1KuosMMOJ6Ow6snWbMdgl5) | [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0), [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [BSS & KITST \(Orchestra Version\)](https://open.spotify.com/album/7E9H5BTdl6B6OEmWeblwpc) | 4:37 |
+| 22 | [kota ini tak sama tanpamu \- Orchestra Version](https://open.spotify.com/track/1KuosMMOJ6Ow6snWbMdgl5) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO), [Petra Sihombing](https://open.spotify.com/artist/5TV9JhBjG6c2hHsoibBaIW), [Aziz Harun](https://open.spotify.com/artist/1dmuM6bG5J8sDFyp26x9Nf), [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [BSS & KITST \(Orchestra Version\)](https://open.spotify.com/album/7E9H5BTdl6B6OEmWeblwpc) | 4:37 |
 | 23 | [Jangan Kau Lihat Lagi \- Acoustic Version](https://open.spotify.com/track/3PwnsSqSnT4dVvLeASBEHe) | [Valent Duga](https://open.spotify.com/artist/6Hkx3ewDN37sXxkHDyebUC) | [Perlahan Bahagia](https://open.spotify.com/album/7iGvowYbbMHfbwmAFJqdB3) | 2:42 |
 | 24 | [Jangan Jadikanku Seluruh Duniamu](https://open.spotify.com/track/4I7YUk0eYK7CaoSTCObiQ3) | [Ruang Senja](https://open.spotify.com/artist/2WSd3E18fZ6riwyEEJPQGp) | [Jangan Jadikanku Seluruh Duniamu](https://open.spotify.com/album/4h9efIZv0EpL2EpHsCvbrR) | 2:53 |
 | 25 | [Lagu Rindu Temani Aku](https://open.spotify.com/track/1GdumDhDTI1JIk4zqpvPU7) | [Lobow](https://open.spotify.com/artist/4sPz5IAXZQ428gHmhH78Ib) | [Lagu Rindu Temani Aku](https://open.spotify.com/album/0L42PYtpDCKpjakCv0ffY7) | 3:08 |

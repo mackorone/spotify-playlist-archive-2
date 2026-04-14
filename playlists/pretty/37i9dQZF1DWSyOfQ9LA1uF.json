@@ -1,6 +1,6 @@
 {
   "description": "Bedroom bootlegs and electroclash gems. Cover: MGMT",
-  "num_followers": 80184,
+  "num_followers": 80194,
   "original_name": "Bloghouse",
   "owner": {
     "name": "Spotify",
@@ -979,26 +979,6 @@
     {
       "added_at": "2024-08-08 18:53:25",
       "album": {
-        "name": "Dudun-Dun Remixes",
-        "url": "https://open.spotify.com/album/3sZT4abziQKpGIxRPPzmFt"
-      },
-      "artists": [
-        {
-          "name": "Para One",
-          "url": "https://open.spotify.com/artist/5MRONaryo2z75lLiuJ0NWJ"
-        },
-        {
-          "name": "MSTRKRFT",
-          "url": "https://open.spotify.com/artist/2squZ8HjM4AzR0j6jsPn4a"
-        }
-      ],
-      "duration_ms": 312386,
-      "name": "Dudun-Dun - MSTRKRFT Remix",
-      "url": "https://open.spotify.com/track/722dkNkvj99Pm9f3ch4IJQ"
-    },
-    {
-      "added_at": "2024-08-08 18:53:25",
-      "album": {
         "name": "Waves / Death Suite",
         "url": "https://open.spotify.com/album/48lTirKJr3KPyjFKS0AjM4"
       },
@@ -1015,6 +995,26 @@
       "duration_ms": 522718,
       "name": "Waves",
       "url": "https://open.spotify.com/track/1Gc1jlpUAG98SYmec611A2"
+    },
+    {
+      "added_at": "2024-08-08 18:53:25",
+      "album": {
+        "name": "Dudun-Dun Remixes",
+        "url": "https://open.spotify.com/album/3sZT4abziQKpGIxRPPzmFt"
+      },
+      "artists": [
+        {
+          "name": "Para One",
+          "url": "https://open.spotify.com/artist/5MRONaryo2z75lLiuJ0NWJ"
+        },
+        {
+          "name": "MSTRKRFT",
+          "url": "https://open.spotify.com/artist/2squZ8HjM4AzR0j6jsPn4a"
+        }
+      ],
+      "duration_ms": 312386,
+      "name": "Dudun-Dun - MSTRKRFT Remix",
+      "url": "https://open.spotify.com/track/722dkNkvj99Pm9f3ch4IJQ"
     },
     {
       "added_at": "2024-08-08 18:53:25",

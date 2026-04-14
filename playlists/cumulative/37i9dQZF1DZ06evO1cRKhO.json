@@ -242,7 +242,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-30",
+      "date_removed": null,
       "duration_ms": 480498,
       "name": "Alchemilla",
       "url": "https://open.spotify.com/track/4Xak1WNN3cv9QnvZ38IeqN"
@@ -268,7 +268,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 157400,
       "name": "Alien Makeover",
       "url": "https://open.spotify.com/track/2YBqSfVClH6M5I5Ouyt7w9"
@@ -1552,7 +1552,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-13",
+      "date_removed": null,
       "duration_ms": 254960,
       "name": "Fragments",
       "url": "https://open.spotify.com/track/6CpzkEGtziYLYBuZS2CgrW"
@@ -2996,7 +2996,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-27",
+      "date_removed": null,
       "duration_ms": 216853,
       "name": "Penguin",
       "url": "https://open.spotify.com/track/22Et0FhvnfZabfCJ2CWWy9"
@@ -3073,7 +3073,7 @@
     },
     {
       "album": {
-        "name": "Shatki (Original Motion Picture Soundtrack)",
+        "name": "Shakti (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3z5YOL9OdtDke184axgt2j"
       },
       "artists": [
@@ -3636,7 +3636,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 245384,
       "name": "Several More Happened",
       "url": "https://open.spotify.com/track/14KI3MCgh7scFAQkA5aNBW"
@@ -4520,7 +4520,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-13",
+      "date_removed": null,
       "duration_ms": 865733,
       "name": "The Wanderer",
       "url": "https://open.spotify.com/track/77gWQtMuwLoBHzbPyy6S9X"
@@ -4842,7 +4842,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 83114,
       "name": "Trio For Trumpet, Accordion, and String Bass I",
       "url": "https://open.spotify.com/track/1ckKGUdgJWgWfwL4eBcz2Z"
@@ -5348,7 +5348,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 427695,
       "name": "Vaccinium Myrtillus",
       "url": "https://open.spotify.com/track/6zyt29v1aGNdUa6ME09MYk"

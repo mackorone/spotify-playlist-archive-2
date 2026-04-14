@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: 하현상\) \(핫한 국내 록 음악을 만나보세요!\)
 
-1,172 songs - 2 day 23 hr 9 min
+1,174 songs - 2 day 23 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Bomb Bomb](https://open.spotify.com/track/2So5dexAv9rAS7IZLOgeJD) | [KIM TAE RAE](https://open.spotify.com/artist/4Ac3PLCD4z5zPENWsmFKNJ) | [Terror Man Opening \(Original Soundtrack\)](https://open.spotify.com/album/3Utvw2Z8Tk9e2vxa4Z4yMy) | 3:19 | 2026-02-02 | 2026-02-06 |
 | [BONVOYAGE](https://open.spotify.com/track/3Jnwl9zlbFNEqKQjydxLxe) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : From us\]](https://open.spotify.com/album/7D2DrBRs922elDgsyNrqjA) | 3:33 | 2024-06-05 | 2024-11-07 |
 | [Bonvoyage](https://open.spotify.com/track/7qreGECwKa5YDEFbeFh1UV) | [Kim Daniel](https://open.spotify.com/artist/3lr26NDbIkMbrcgwWOTSAY), [1of1](https://open.spotify.com/artist/1sGk6wUBzohfkATUg1wDIt) | [Lost in Starlight \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/6q4sOzWDO7LuVIm3UkraRn) | 4:55 | 2025-06-02 | 2025-06-21 |
+| [Born Savage](https://open.spotify.com/track/21AdIbIIP9cFgwnwEnEl07) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [Caligo Pt.2](https://open.spotify.com/album/1vkQIKe7n01Jxic7csfA4P) | 2:52 | 2026-04-13 |  |
 | [bow\-wow](https://open.spotify.com/track/6Dk2MbaVTSQZPj2ZIN5ZyS) | [Lacuna](https://open.spotify.com/artist/2FDl06nCrSYpA1n9PLZfen) | [bow\-wow](https://open.spotify.com/album/1tq9UiuOW8kT9h2fOSPMPA) | 3:17 | 2024-03-21 | 2024-05-10 |
 | [Boy Comics](https://open.spotify.com/track/50yqgMpBLVqqKJsSxcFfbE) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Open ♭eta v6.1](https://open.spotify.com/album/4ek8IhAOKX6AVDPVsV6jEh) | 3:14 | 2024-06-04 | 2024-08-11 |
 | [boyhood](https://open.spotify.com/track/2qwuV26irr0fQwgvsSsdQM) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [Shin Ji Hoon 2nd Album 'Peace'](https://open.spotify.com/album/0IoObZDsYIy1aOvB2skygp) | 3:08 | 2025-09-01 | 2025-09-06 |
@@ -581,7 +582,7 @@
 | [Love All](https://open.spotify.com/track/2FdiNuYFBptEI7vvZ9Nm84) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [SONGOLMAE REMAKE RE:FLY](https://open.spotify.com/album/4RF7blBPLyoj9gMhin10cx) | 3:38 | 2022-07-08 | 2022-07-23 |
 | [Love Crash!](https://open.spotify.com/track/7H61vBAGi62KrbCmGj04Yj) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R) | [Love Crash!](https://open.spotify.com/album/4N1W8yYStgmtd7T99DGlyg) | 2:55 | 2025-04-18 | 2025-05-08 |
 | [Love Cut](https://open.spotify.com/track/2q8YdrYy0Qyx1jpkSzXtfC) | [CNBLUE](https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi) | [WANTED](https://open.spotify.com/album/4rJBZiHzCUcVsj9yu5UCCD) | 2:53 | 2022-04-12 | 2022-07-12 |
-| [Love in the Margins](https://open.spotify.com/track/2OmVwpG8LhocNIshacN5IZ) | [JEONG SEWOON](https://open.spotify.com/artist/2l9aF9jOgB7GI1uyNkx836) | [Love in the Margins](https://open.spotify.com/album/7EpWc3KUzkMjB9SiDssnIT) | 2:58 | 2026-03-31 |  |
+| [Love in the Margins](https://open.spotify.com/track/2OmVwpG8LhocNIshacN5IZ) | [JEONG SEWOON](https://open.spotify.com/artist/2l9aF9jOgB7GI1uyNkx836) | [Love in the Margins](https://open.spotify.com/album/7EpWc3KUzkMjB9SiDssnIT) | 2:58 | 2026-03-31 | 2026-04-14 |
 | [Love Is All Around](https://open.spotify.com/track/17KIiHXJ4PRo1s0x5SpHTf) | [Wetter](https://open.spotify.com/artist/02qCfZpNgd0FQ1BFOPaqvq) | [Love Is All Around](https://open.spotify.com/album/5rGj57soCUAuXAdiptCTYl) | 4:25 | 2022-04-22 | 2022-07-29 |
 | [Love is Dangerous](https://open.spotify.com/track/24OvvcCFiI2ah2z5jQsm64) | [Touched](https://open.spotify.com/artist/5jgIm8tZ4hqLeoHTo9wJIV) | [Love is Dangerous](https://open.spotify.com/album/1yk0KslOua9rexBiY9pdJV) | 3:32 | 2022-04-22 | 2022-06-06 |
 | [Love is No Sin](https://open.spotify.com/track/1kpRu51hGlJmBbJoQMchoJ) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R) | [DREAM](https://open.spotify.com/album/1MlNC3YWsy0afgtXfmRXaU) | 3:03 | 2025-10-20 | 2025-10-22 |
@@ -855,7 +856,7 @@
 | [She](https://open.spotify.com/track/57rt6Jj7woE21ae3Ml2vw8) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [She](https://open.spotify.com/album/3LwTiul097ARDdI02bgKO9) | 3:14 | 2022-04-22 | 2023-12-05 |
 | [She's In The Rain](https://open.spotify.com/track/0TxSk5fpK01cBLV9ePqcE6) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Dawn](https://open.spotify.com/album/2rKkvzVCh5GD3yh5BYBJ4a) | 3:57 | 2022-04-12 | 2022-07-29 |
 | [She's In The Rain](https://open.spotify.com/track/2I0LNCqlQpAPJlwOEWaefE) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Dawn](https://open.spotify.com/album/0YZ0m6Z8xUurgzV9lXvflS) | 3:57 | 2022-07-22 | 2023-01-04 |
-| [She's In The Rain](https://open.spotify.com/track/43NeZM2TbrQr6djoAnDyVo) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Dawn](https://open.spotify.com/album/4Zd5O0llwgfmpJoZOeKWiQ) | 3:57 | 2025-04-11 |  |
+| [She's In The Rain](https://open.spotify.com/track/43NeZM2TbrQr6djoAnDyVo) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Dawn](https://open.spotify.com/album/4Zd5O0llwgfmpJoZOeKWiQ) | 3:57 | 2025-04-11 | 2026-04-14 |
 | [She's In The Rain](https://open.spotify.com/track/5Xp6Bx4Fy8LGoTX8xzBi00) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Dawn](https://open.spotify.com/album/1OWmGjBN7jiZK6OCgyxGTV) | 3:57 | 2023-01-06 | 2024-10-02 |
 | [She's mine](https://open.spotify.com/track/03CDPxCuiJQPkXlrpEbWVa) | [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [The Last Boy In The Class](https://open.spotify.com/album/7EfhRDaQv3Xr8WOkqKYzDR) | 2:36 | 2022-05-24 | 2022-05-26 |
 | [She's not straight](https://open.spotify.com/track/6K14UCl6PmwnmXxYOkfmeL) | [jisokuryClub](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [She's not straight](https://open.spotify.com/album/4HjbWvsjIgiSQ9yxFRUql0) | 3:50 | 2024-11-06 | 2024-11-13 |
@@ -1165,6 +1166,7 @@
 | [불꽃놀이](https://open.spotify.com/track/6s4CfimDTNqCWAkTCgYmRD) | [Lim Jae Bum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Seven,\(세븐 콤마\) <빛을 따라서...>](https://open.spotify.com/album/7lqABGolJepJu86N1WRo9T) | 4:05 | 2022-08-12 | 2022-08-19 |
 | [사랑병동 Highs and Lows](https://open.spotify.com/track/2fzdKqLRPuCHd6SUI6ypJY) | [WONPIL](https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP) | [Unpiltered](https://open.spotify.com/album/1MQjq9SydT8E0dCf3qLSvk) | 2:48 | 2026-03-31 |  |
 | [사랑은 먼지 같아도](https://open.spotify.com/track/2wkREQBFKKJwTBQSDLX6cE) | [JUROKEY](https://open.spotify.com/artist/59TnLHZJYHwrk51oo4bbVC) | [그냥](https://open.spotify.com/album/1flU2TXdMjvTwsGnJxKcHN) | 3:20 | 2023-04-26 | 2023-05-13 |
+| [사랑이라 했던 말 속에서](https://open.spotify.com/track/0XyClpdRwhN06hxTNgIVHI) | [can’t be blue ](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5) | [사랑이라 했던 말 속에서](https://open.spotify.com/album/4aP0PyJ9kWQFDJiHb7f7hK) | 3:19 | 2026-04-13 |  |
 | [생각없는생각에털썩머무르자 Mindless mind](https://open.spotify.com/track/5oKr4zxLZxe4rNj2SrzWYR) | [Jisokury](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [생각없는생각에털썩머무르자 Mindless mind](https://open.spotify.com/album/7lGC2tpIRttYuRWGazMQP2) | 4:15 | 2022-10-02 | 2022-10-19 |
 | [세션맨](https://open.spotify.com/track/17Zyp5evNDU8i3A21bX7ii) | [AMHO](https://open.spotify.com/artist/5HletaYAQGurTXlY0WfFHs) | [SESSION MAN](https://open.spotify.com/album/4uVMcFU1GiebB352eAsI6p) | 3:42 | 2023-01-26 | 2023-02-15 |
 | [숨바꼭질 \(Hide and Seek\)](https://open.spotify.com/track/50KEW5h9sVUOVOvOB9ZABe) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [숨바꼭질 \(Hide and Seek\)](https://open.spotify.com/album/0zWJsGW7LN6rg1PwsEHPWc) | 3:24 | 2025-09-16 | 2026-01-15 |

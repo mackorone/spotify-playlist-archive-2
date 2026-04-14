@@ -4,7 +4,7 @@
 
 > Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. \(Cover: RESCENE \(리센느\)\) \(상큼하고 발랄, 청순한 아이돌의 세계에 빠져보세요!\)
 
-539 songs - 1 day 5 hr 17 min
+540 songs - 1 day 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Bubble](https://open.spotify.com/track/4P5ozkI1bxiGxA5rZ27jlO) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [TEENFRESH](https://open.spotify.com/album/4P5wnRQTBnnjNbjt7A6S6x) | 2:59 | 2023-08-18 | 2025-04-16 |
 | [Bubble Gum](https://open.spotify.com/track/19D8LNpWwIPpi6hs9BG7dq) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [How Sweet](https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq) | 3:20 | 2024-06-12 | 2025-09-15 |
 | [Bubble Gum Girl](https://open.spotify.com/track/38bky5ZuZZFlBmbphLBgaZ) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [msnz <Beyond Beauty>](https://open.spotify.com/album/281B8RLDzA7mufE1ccVxrM) | 2:48 | 2025-11-25 | 2026-01-29 |
+| [Bubee \(Korean Ver.\)](https://open.spotify.com/track/3FgR1MXFjpkL5HTDRrrFUE) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Bubee \(Korean Ver.\)](https://open.spotify.com/album/0fAglFrU95801fwwFiZBri) | 3:02 | 2026-04-13 |  |
 | [BUBIBU](https://open.spotify.com/track/5hqPBajIgiuL9bcxnKd2kQ) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [BUBIBU](https://open.spotify.com/album/7xUQp6x6q1EcezukD3rsEH) | 3:39 | 2021-11-29 | 2022-04-20 |
 | [Busy Boy](https://open.spotify.com/track/6ufVsXMC1fAePZa5ZRMKdO) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [\[RESCENE X ???\]](https://open.spotify.com/album/0dbuXh0XcMsrgQsVep3jAk) | 2:30 | 2026-02-27 | 2026-04-09 |
 | [Butterfly](https://open.spotify.com/track/3P5M7SoBB0PiAPWhm3FY4F) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [SECRET GARDEN](https://open.spotify.com/album/5QXcVUvEyh8kCCjF1aTNwN) | 3:53 | 2022-03-29 | 2022-05-17 |
@@ -227,7 +228,7 @@
 | [January 0th \(a hope song\)](https://open.spotify.com/track/351Zol0N2J9Hrbm3rhzcrV) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [‘the Billlie’s odditorium’ the second edition](https://open.spotify.com/album/3T3bfhaZn0RFiWdGOnmTzu) | 3:55 | 2024-01-03 | 2024-02-15 |
 | [Je T'aime](https://open.spotify.com/track/3wS47sXPddjE6rbhU7u20w) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [Je T'aime](https://open.spotify.com/album/1RzqZoXe1bf1f48PK20EeH) | 4:21 | 2021-11-29 | 2022-07-28 |
 | [JELLY JELLY](https://open.spotify.com/track/7yHmdxQBHXPSVrHaw8urk1) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [TWICEcoaster: LANE1](https://open.spotify.com/album/1O0JME3VbK4siDIfh6K3Oe) | 3:30 | 2021-11-29 | 2022-04-18 |
-| [jellyous](https://open.spotify.com/track/0wFU2pYHZi45Ws1VD6aSJX) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [bomb](https://open.spotify.com/album/6tcKWEXikmRDB9KufEHvLp) | 2:43 | 2025-07-21 |  |
+| [jellyous](https://open.spotify.com/track/0wFU2pYHZi45Ws1VD6aSJX) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [bomb](https://open.spotify.com/album/6tcKWEXikmRDB9KufEHvLp) | 2:43 | 2025-07-21 | 2026-04-14 |
 | [JJan! Koong! Kwang!](https://open.spotify.com/track/0mACEYbz42CQdqAPjIJHi6) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) | [Welcome to MOMOLAND](https://open.spotify.com/album/3i5ryBAE1wpNq50qqDxxUG) | 3:19 | 2022-01-04 | 2022-07-05 |
 | [Just Do It](https://open.spotify.com/track/5z1qoC9KRyVVDjs2ZHiFXJ) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [NXT <Just Do It>](https://open.spotify.com/album/6wv9HJNrlzn53b3OLvsijR) | 2:33 | 2024-01-04 | 2024-03-02 |
 | [KICK\-START](https://open.spotify.com/track/0KWHVBiWSYqbJ0dBs3UOi5) | [ICHILLIN'](https://open.spotify.com/artist/5357DGet3KsoJNwVkV7qvy) | [I'M ON IT!](https://open.spotify.com/album/23lpY8fhHxNLi5mc8OrxRU) | 3:21 | 2023-07-19 | 2023-07-25 |
@@ -367,7 +368,7 @@
 | [Ready Or Not](https://open.spotify.com/track/0Sp0RwhaE0CdJE8ctmXk4U) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) | [Ready Or Not](https://open.spotify.com/album/6uFRDoLaMdhTSDOOp5xW1z) | 3:20 | 2022-03-29 | 2022-04-18 |
 | [REAL YOU](https://open.spotify.com/track/3ax3sc1Rn99YbjyKT0HALS) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 3:07 | 2022-04-04 | 2022-04-21 |
 | [Really Like You](https://open.spotify.com/track/3entdIWiOuQfcXIkJEABsV) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [DRIP](https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k) | 3:17 | 2026-02-10 |  |
-| [Really Like You](https://open.spotify.com/track/0achc2JEdzkJQXRl0LbUox) | [Gyubin](https://open.spotify.com/artist/7nScMbyBG94XsSpe7yrImS) | [Really Like You](https://open.spotify.com/album/0igq7n1dpRcshD0CX0Gtxu) | 2:58 | 2024-04-08 | 2026-03-25 |
+| [Really Like You](https://open.spotify.com/track/0achc2JEdzkJQXRl0LbUox) | [Gyubin](https://open.spotify.com/artist/7nScMbyBG94XsSpe7yrImS) | [Really Like You](https://open.spotify.com/album/0igq7n1dpRcshD0CX0Gtxu) | 2:58 | 2024-04-08 |  |
 | [Red Flavor](https://open.spotify.com/track/7nKQ5WAcjnG48knyLuo8gO) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Red Summer \- Summer Mini Album](https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2) | 3:11 | 2021-11-29 |  |
 | [REDSUN](https://open.spotify.com/track/1jJlwj28RdKzfF2r8Zoz3f) | [Conch](https://open.spotify.com/artist/1Wi58TGvGgV38POMcpUOUv) | [REDSUN](https://open.spotify.com/album/1JofVGiNaETwZsFwrmfrBw) | 2:43 | 2022-06-20 | 2022-07-05 |
 | [remembrance candy](https://open.spotify.com/track/1WV46UVrf9vLj9rpl6Ebf1) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [Of All We Have Lost](https://open.spotify.com/album/2zMVcW7OkakoPRTiuiOvy9) | 3:04 | 2024-10-16 | 2024-10-22 |
@@ -450,7 +451,7 @@
 | [Sweety](https://open.spotify.com/track/1acb10rHw0NpgPhcNs3Enn) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND Summer Mini Album 'Sunny Summer'](https://open.spotify.com/album/65HAyK45TFC2MJSufJwzji) | 3:13 | 2022-04-04 | 2022-07-29 |
 | [SWICY](https://open.spotify.com/track/3owGQ1rmtKXpvwHmF0S2CZ) | [UNIS](https://open.spotify.com/artist/48xyu8QHo1IhsQZGlgNGYZ) | [The 2nd Mini Album 'SWICY'](https://open.spotify.com/album/3S4N457QDAQonUfQU2ACj9) | 3:03 | 2025-04-15 | 2025-08-02 |
 | [Swim Away](https://open.spotify.com/track/0ejKDNqpEx3Dx2umKGk2lD) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [Plant](https://open.spotify.com/album/5aUgxOcv6bo9gvuMZweqNb) | 2:38 | 2021-11-29 | 2022-07-26 |
-| [Swipe It Out](https://open.spotify.com/track/3QgQhBHtQvRpAulIfNwcRG) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Boyfriend on Demand Part 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/6mCYF2uLo54ItZStvpX01y) | 2:56 | 2026-03-19 |  |
+| [Swipe It Out](https://open.spotify.com/track/3QgQhBHtQvRpAulIfNwcRG) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Boyfriend on Demand Part 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/6mCYF2uLo54ItZStvpX01y) | 2:56 | 2026-03-19 | 2026-04-14 |
 | [Talk & Talk](https://open.spotify.com/track/6Q5e2XpyGzMLgA3ul491pu) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Talk & Talk](https://open.spotify.com/album/3GxaqNCf6F7KAs1aDBSLVe) | 3:40 | 2021-11-29 | 2022-09-19 |
 | [Talk that Talk](https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) | 2:57 | 2022-08-26 |  |
 | [Talk to me](https://open.spotify.com/track/2wcFM3ZJwOjE09L6K2rBLc) | [ALICE](https://open.spotify.com/artist/1mgzY8CsK8lyJy96tT8bV5) | [SUMMER DREAM](https://open.spotify.com/album/2HLeKfrHYquFIoM6VArIzJ) | 3:13 | 2021-11-29 | 2022-07-22 |

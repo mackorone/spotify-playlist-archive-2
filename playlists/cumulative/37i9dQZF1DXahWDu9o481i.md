@@ -4,7 +4,7 @@
 
 > The best new songs of the month, handpicked by Spotify editors\. Cover: Iceage
 
-599 songs - 1 day 10 hr 10 min
+600 songs - 1 day 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -376,6 +376,7 @@
 | [Moonbeam](https://open.spotify.com/track/6JWYMfs0pJdNrf3b6aP5Xu) | [Cassandra Coleman](https://open.spotify.com/artist/1O6GvgnaHzgcFlCX6RlhYV) | [Moonbeam](https://open.spotify.com/album/2yFJrexb16yo2SPSu4Qa8r) | 3:58 | 2025-12-01 | 2026-02-05 |
 | [move it along \(feat\. Leon Thomas\)](https://open.spotify.com/track/39NAN04MOSgsU8q3RMNjYs) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [move it along \(feat\. Leon Thomas\)](https://open.spotify.com/album/6WVqFk4XkRDtEjcxIrixZx) | 3:15 | 2025-08-04 | 2025-08-30 |
 | [Music by Men](https://open.spotify.com/track/1oHxIq2EEXHzPcNo3MJQjQ) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Everybody Scream](https://open.spotify.com/album/0z7l9VEJyFMv8p8wffRDaF) | 4:31 | 2025-11-04 | 2025-12-02 |
+| [Must Be](https://open.spotify.com/track/5TJtMHbfSSHrWPcnMHdjUy) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Must Be](https://open.spotify.com/album/1FUgbYn6lHaVS4RrpAEMSE) | 2:55 | 2026-04-02 |  |
 | [Muévelo](https://open.spotify.com/track/7N3mR4WnEuq1MUQlxb6JWH) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Muévelo](https://open.spotify.com/album/6tKu7fGPGQyKD1nbSMWTje) | 2:07 | 2026-01-09 | 2026-02-05 |
 | [My Love](https://open.spotify.com/track/4XM4c3zMS0orMhblnrZwnS) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [My Love](https://open.spotify.com/album/4Flne5uLAm16EoUCf2DgDt) | 2:44 | 2025-07-03 | 2025-08-05 |
 | [my mind is a mountain](https://open.spotify.com/track/6vBRAhaSk91csuuWtttPf8) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [my mind is a mountain](https://open.spotify.com/album/0cysnMmyD2V1SK3JRhCfnG) | 2:50 | 2025-08-04 | 2025-08-30 |
@@ -486,7 +487,7 @@
 | [Star](https://open.spotify.com/track/3PdE19PCcon8iVW9KXtRWl) | [Iceage](https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU) | [Star](https://open.spotify.com/album/75az8Y4wNKLh8PpMz6h4zF) | 3:25 | 2026-04-01 |  |
 | [Star 6 9](https://open.spotify.com/track/0e2aRqnNEkLc1NDgVpfSuP) | [Snõõper](https://open.spotify.com/artist/197lTCdMFPariBJ2Xd1xNb) | [Worldwide](https://open.spotify.com/album/1Lej9DPOh2ljmeiyKTFHrz) | 3:11 | 2025-11-04 | 2025-12-02 |
 | [Star Signs](https://open.spotify.com/track/1P9I8lE5sm4k8ZkkVVjeGP) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Solace & The Vices](https://open.spotify.com/album/3Xk1Mz1aaon4cx1f91Z00n) | 3:24 | 2025-11-04 | 2025-12-02 |
-| [Starlet](https://open.spotify.com/track/3F2biaPqxg6glYqh4z6LDZ) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [LK99](https://open.spotify.com/album/7oXn08skc0Lc0juXrb5kDP) | 2:56 | 2026-04-01 |  |
+| [Starlet](https://open.spotify.com/track/3F2biaPqxg6glYqh4z6LDZ) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [LK99](https://open.spotify.com/album/7oXn08skc0Lc0juXrb5kDP) | 2:56 | 2026-04-01 | 2026-04-14 |
 | [Starlight](https://open.spotify.com/track/0MyLQnZpkAVz73R8nCZyMn) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Starlight](https://open.spotify.com/album/1dQoYygKLSNNGvJuLwYMfI) | 3:39 | 2025-08-04 | 2026-04-02 |
 | [START UP A RUMOUR](https://open.spotify.com/track/1Zb6tdJlJA0DwDkpoBYqge) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [START UP A RUMOUR](https://open.spotify.com/album/08I2aQ28yE0sGG79klKqTt) | 3:20 | 2025-08-29 | 2026-01-15 |
 | [STAY HERE 4 LIFE \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/4jkYkvbjEuckbJs6Ts60Hk) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [STAY HERE 4 LIFE \(feat\. Brent Faiyaz\)](https://open.spotify.com/album/1i5xNjqIuXAx1LDQiM3HZH) | 5:46 | 2026-02-04 | 2026-03-03 |

@@ -4,7 +4,7 @@
 
 > Girls groups/solo artists shining beyond borders\. グローバルに活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Cover: KISS OF LIFE
 
-1,704 songs - 3 day 18 hr 0 min
+1,705 songs - 3 day 18 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,7 @@
 | [Behind The Curtain](https://open.spotify.com/track/14nturKxV48wR3lbknehiu) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [Masterpiece](https://open.spotify.com/album/3qmO83vO1SsdmP1Y0ljhSQ) | 2:58 | 2023-07-25 | 2023-09-22 |
 | [Being a Good Girl Hurts](https://open.spotify.com/track/1NfnlTT4fpkaxmhzxWJqCj) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [Blooming Wings](https://open.spotify.com/album/6gXzhQ5MYvl2Fvept2LjhP) | 2:47 | 2025-07-30 | 2025-11-26 |
 | [Best Friend Ever](https://open.spotify.com/track/1Z5Dmg7Dvu0X4oSdqLZ3Lu) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Best Friend Ever](https://open.spotify.com/album/4cT6f8tGzBtybpBNYPEQoX) | 3:21 | 2023-02-08 | 2023-04-18 |
-| [Best Match](https://open.spotify.com/track/1LbEG2MZGtZrfZj7MVzrbx) | [ME:I](https://open.spotify.com/artist/0wsE3L0l083t6bxC8jJefC) | [Best Match](https://open.spotify.com/album/545WCfR93t46jPrAsI49Ab) | 2:55 | 2026-02-26 |  |
+| [Best Match](https://open.spotify.com/track/1LbEG2MZGtZrfZj7MVzrbx) | [ME:I](https://open.spotify.com/artist/0wsE3L0l083t6bxC8jJefC) | [Best Match](https://open.spotify.com/album/545WCfR93t46jPrAsI49Ab) | 2:55 | 2026-02-26 | 2026-04-14 |
 | [Better Half \(feat\. Omoinotake\)](https://open.spotify.com/track/1beUALLSloBEvYre65QiW6) | [JEONGHAN](https://open.spotify.com/artist/6KDLlQYeeqUe5OQ2JrdNzF), [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [Better Half \(feat\. Omoinotake\)](https://open.spotify.com/album/6nIPGzCGclgKS7r5vt5oy9) | 3:54 | 2025-01-27 | 2025-03-07 |
 | [Better Spring](https://open.spotify.com/track/7095L2bmNhv139ccLIikAH) | [NIK](https://open.spotify.com/artist/69SEqE4oh5qoU6hHbebPvg) | [Better Spring](https://open.spotify.com/album/0Hh9Zowcy88neSc4sv0S5b) | 3:25 | 2022-05-17 | 2022-07-12 |
 | [Better Things](https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Better Things](https://open.spotify.com/album/1SHLOv0DDdRecK60z86Lth) | 3:23 | 2023-08-18 | 2023-11-29 |
@@ -1513,6 +1513,7 @@
 | [Up!](https://open.spotify.com/track/6P2IZsIyNVeOl712sFg4lc) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [DOUBLAST](https://open.spotify.com/album/24ypgYukHzGlLQx2nE1Yje) | 3:12 | 2022-06-20 | 2022-07-29 |
 | [Up! \(Japanese version\)](https://open.spotify.com/track/7m78ItawUTPntyWYjdF8LS) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [<FLY\-UP> \- Special Edition \-](https://open.spotify.com/album/2vVvnTCd3Nazq9eC7RKMHL) | 3:12 | 2022-09-06 | 2022-11-16 |
 | [Upboomboom](https://open.spotify.com/track/5VlcvZcEhDIiQlDbJJvEDu) | [MYERA](https://open.spotify.com/artist/79hOP6wbBdYMeF0e8S8a2i) | [Upboomboom](https://open.spotify.com/album/4xrjI5OehxaFfZv3ldTmS8) | 2:53 | 2025-03-31 | 2025-05-06 |
+| [Update ME](https://open.spotify.com/track/687s0MqxcPySRNQZCUCJPH) | [ME:I](https://open.spotify.com/artist/0wsE3L0l083t6bxC8jJefC) | [Update ME](https://open.spotify.com/album/1vQuzapDKD0Al92uMdfTZH) | 3:06 | 2026-04-13 |  |
 | [Upside Down](https://open.spotify.com/track/41KiFWhvIgjdVura4h93Zh) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [The Story](https://open.spotify.com/album/4tk1TxAS90si1va7jPWqGg) | 3:15 | 2022-05-24 | 2022-07-29 |
 | [UPSIDE DOWN](https://open.spotify.com/track/6QM7IHQ080iJtiHhpuOxOP) | [YOUNG POSSE](https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff) | [Head over Heels, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/596ZPdCUk1fJGAN1MkjoZm) | 2:53 | 2025-07-03 | 2025-08-11 |
 | [UTSUROI](https://open.spotify.com/track/0I0qAmshkm5ae8UhMjc8bx) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [UTSUROI](https://open.spotify.com/album/2UP7NsOKpBRlFUfJSCLsv6) | 4:00 | 2022-08-01 | 2022-08-18 |

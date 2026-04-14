@@ -5195,6 +5195,36 @@
     },
     {
       "album": {
+        "name": "Mortal Kombat (Bloodlust & Gezellige Uptempo Remix)",
+        "url": "https://open.spotify.com/album/6BMhlzYJRtqARVMeFFbnwa"
+      },
+      "artists": [
+        {
+          "name": "Toneshifterz",
+          "url": "https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV"
+        },
+        {
+          "name": "Dimatik",
+          "url": "https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz"
+        },
+        {
+          "name": "Bloodlust",
+          "url": "https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp"
+        },
+        {
+          "name": "Gezellige Uptempo",
+          "url": "https://open.spotify.com/artist/7H94tjDpGeDAoLEaQR0tOv"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133333,
+      "name": "Mortal Kombat (Bloodlust & Gezellige Uptempo Remix)",
+      "url": "https://open.spotify.com/track/1ogGbWhLNmhtj4CU2tS4Ot"
+    },
+    {
+      "album": {
         "name": "Murder On The Dancefloor",
         "url": "https://open.spotify.com/album/1aBix6Eh50Bz7VzRK8wvKH"
       },
@@ -5726,7 +5756,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 117090,
       "name": "On The Grind",
       "url": "https://open.spotify.com/track/61kRVhzUkUMHgTyHhvUpu9"

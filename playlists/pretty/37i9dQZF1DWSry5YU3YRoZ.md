@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSry5YU3YRoZ.md) - [plain]
 
 > 차분하고 감성적인 음악들과 함께 편안한 밤 되세요 :\) \(Listen to K\-Pop sleeping songs\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,612 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,611 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [First Snow](https://open.spotify.com/track/00wkRxiuNBLBFPHvxkg2PI) | [19990619](https://open.spotify.com/artist/2Fqmn8Sl7YZf1TlrwJpI6Z) | [First Snow](https://open.spotify.com/album/5u51hTYLdODB8t2Rt4QlCF) | 4:06 |
-| 2 | [You Know](https://open.spotify.com/track/69qxDcpsgg7MPZtF5IH9oW) | [Lee Seol Ah](https://open.spotify.com/artist/2mBJXhOnDZnZFxvoaGsZlJ) | [Empty World](https://open.spotify.com/album/19HnRzEdPvERU5kiFqOYrz) | 4:38 |
-| 3 | [Think of you](https://open.spotify.com/track/0Kqo9anVqMcBzteQuckTSG) | [Jo SoJeong](https://open.spotify.com/artist/132BPeZOhapfWxSIOR974P) | [A diary for me](https://open.spotify.com/album/4mCg1CLKYrvDN5pHBZcMi1) | 3:14 |
-| 4 | [Christmas Memory Is](https://open.spotify.com/track/0EspSZ6lFo75KmPfxvtxlh) | [Jeon Jin Hee](https://open.spotify.com/artist/7MnWezV00qoqnc9aeG0gxg), [Lee Seol Ah](https://open.spotify.com/artist/2mBJXhOnDZnZFxvoaGsZlJ) | [Christmas Memory Is](https://open.spotify.com/album/0y5TyCEeHvVJvntdYdHEpB) | 3:54 |
-| 5 | [Sweetbitter](https://open.spotify.com/track/11NREXvElBBK1AinDmyyAC) | [RIO](https://open.spotify.com/artist/3sSwsGMEcViUoDXzzcht3g) | [The Young Lover](https://open.spotify.com/album/7t6I8wuSmjZvCUkE8feG8Q) | 2:54 |
-| 6 | [Our Season](https://open.spotify.com/track/0rnr4jI4qTZ6pUoi9Lmlbf) | [Son Hyeeun](https://open.spotify.com/artist/1ymkZBkFqc6sOP2d84mWAJ) | [Our Season](https://open.spotify.com/album/1gltA7mMAzVSqI65XNroCz) | 4:13 |
+| 1 | [Good Night](https://open.spotify.com/track/56g0pywLGKZQy0oIVqWhtt) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [The 1st](https://open.spotify.com/album/0EFZBkjjV3lDlqPAM8XDhs) | 4:35 |
+| 2 | [Palette](https://open.spotify.com/track/52kQKfPaXI4MBmTdoKnFMI) | [JIYE](https://open.spotify.com/artist/4JlouH5mKVum9f0eaQuUzC) | [Palette](https://open.spotify.com/album/1R7AfZqH3JooDi9gPBm9ic) | 3:14 |
+| 3 | [First Snow](https://open.spotify.com/track/00wkRxiuNBLBFPHvxkg2PI) | [19990619](https://open.spotify.com/artist/2Fqmn8Sl7YZf1TlrwJpI6Z) | [First Snow](https://open.spotify.com/album/5u51hTYLdODB8t2Rt4QlCF) | 4:06 |
+| 4 | [You Know](https://open.spotify.com/track/69qxDcpsgg7MPZtF5IH9oW) | [Lee Seol Ah](https://open.spotify.com/artist/2mBJXhOnDZnZFxvoaGsZlJ) | [Empty World](https://open.spotify.com/album/19HnRzEdPvERU5kiFqOYrz) | 4:38 |
+| 5 | [Christmas Memory Is](https://open.spotify.com/track/0EspSZ6lFo75KmPfxvtxlh) | [Jeon Jin Hee](https://open.spotify.com/artist/7MnWezV00qoqnc9aeG0gxg), [Lee Seol Ah](https://open.spotify.com/artist/2mBJXhOnDZnZFxvoaGsZlJ) | [Christmas Memory Is](https://open.spotify.com/album/0y5TyCEeHvVJvntdYdHEpB) | 3:54 |
+| 6 | [Sweetbitter](https://open.spotify.com/track/11NREXvElBBK1AinDmyyAC) | [RIO](https://open.spotify.com/artist/3sSwsGMEcViUoDXzzcht3g) | [The Young Lover](https://open.spotify.com/album/7t6I8wuSmjZvCUkE8feG8Q) | 2:54 |
 | 7 | [Letter](https://open.spotify.com/track/6Z6IBsPsIF9nHEUNVHRtQF) | [n@di](https://open.spotify.com/artist/2vA4UiJVgTWHeYzk3j4ugI) | [Letter](https://open.spotify.com/album/6U4o7ATJnV0qbF0a9eSQaD) | 2:57 |
 | 8 | [Forest](https://open.spotify.com/track/2T0dcL9HI7t0W9H0vJANAN) | [sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [In Your Radiant Season \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/11aaLvJEQx6IrJ1EySCOmn) | 3:23 |
 | 9 | [Nothing but Morning](https://open.spotify.com/track/1orzWbS2okDKB1vWEBP7KL) | [Kim Hyunchang](https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB) | [My Blue has always been Shattered by the Night](https://open.spotify.com/album/2N2teRvKYYxgY0vh5c4aef) | 4:17 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSry5YU3YRoZ.md) - [plain]
 | 37 | [Letter](https://open.spotify.com/track/6IFltGdAUMosyFl0ZieEF7) | [615](https://open.spotify.com/artist/1R2KUW45CEHkpv8fAgPADp) | [1](https://open.spotify.com/album/6HhqELdvnGGbBQVYoTj239) | 3:28 |
 | 38 | [To eunbi](https://open.spotify.com/track/0MEpiC2Qa5IN1IpNkifI2x) | [n@di](https://open.spotify.com/artist/2vA4UiJVgTWHeYzk3j4ugI) | [A Form Of Love](https://open.spotify.com/album/4AQrjSk8NraBpI0lWkmzV8) | 2:47 |
 | 39 | [Could you?](https://open.spotify.com/track/78hBN6qlftwJiLmkYoYahf) | [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [Mind Laundry](https://open.spotify.com/album/3Ft01nxEpjAYvOG2KNrMN4) | 3:50 |
-| 40 | [My Old Story](https://open.spotify.com/track/1H6gFy8Yfnm3JMAn4T398Y) | [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5) | [My Old Story](https://open.spotify.com/album/3H47XNGJiq4cp119nhrqqL) | 3:56 |
-| 41 | [Hug Me \(I'm In Your Arms\)](https://open.spotify.com/track/5X0bP6vFuvdHl57DWipVQB) | [Norwegian Wood](https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3) | [Broken Heart](https://open.spotify.com/album/5q19924bYcyPB5dvkivG84) | 3:58 |
+| 40 | [Hug Me \(I'm In Your Arms\)](https://open.spotify.com/track/5X0bP6vFuvdHl57DWipVQB) | [Norwegian Wood](https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3) | [Broken Heart](https://open.spotify.com/album/5q19924bYcyPB5dvkivG84) | 3:58 |
+| 41 | [My Old Story](https://open.spotify.com/track/1H6gFy8Yfnm3JMAn4T398Y) | [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5) | [My Old Story](https://open.spotify.com/album/3H47XNGJiq4cp119nhrqqL) | 3:56 |
 | 42 | [It Won't Be Anything Anyway \(with deulrejang\)](https://open.spotify.com/track/1A5xMM3UvEL1pldYBhfN2J) | [Jeon Jin Hee](https://open.spotify.com/artist/7MnWezV00qoqnc9aeG0gxg), [deulrejang](https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM) | [Without Anyone Knowing](https://open.spotify.com/album/5oRAyWl80nzViSRTuCoO6A) | 5:14 |
 | 43 | [Just the two of us](https://open.spotify.com/track/7sZUzmcbOwDq3ABOts0K37) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [&10](https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF) | 4:14 |
 | 44 | [If](https://open.spotify.com/track/3go56fUuNPhwvZifMuTnpJ) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [If](https://open.spotify.com/album/5M7zOeOjBLJDQaSkDotiH5) | 4:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSry5YU3YRoZ.md) - [plain]
 | 49 | [Youth](https://open.spotify.com/track/7pdrLAo29KaqUTO3iD1O4z) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [youth](https://open.spotify.com/album/2qyRTNUHodWjs2FrP7tAYv) | 3:36 |
 | 50 | [They say, that is the love](https://open.spotify.com/track/5Nr9gmv0Y6PlY2GnooFDzN) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Knock](https://open.spotify.com/album/0BtqrZfG23yUBgYVzL8yhm) | 3:44 |
 
-Snapshot ID: `AAAAAD4oZ8IT4+Ifi2QNXR9HBdFd/cpz`
+Snapshot ID: `AAAAAIY0R3qRLAmCcmvaZvsgco52ACoo`

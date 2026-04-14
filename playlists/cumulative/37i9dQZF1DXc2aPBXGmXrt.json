@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "This is the essential Justin Bieber. ",
+  "description": "",
   "name": "This Is Justin Bieber",
   "tracks": [
     {
@@ -188,6 +188,24 @@
       "duration_ms": 244546,
       "name": "All Around The World",
       "url": "https://open.spotify.com/track/1Mg8vLBYwizu7AuhYQO64V"
+    },
+    {
+      "album": {
+        "name": "SWAG II",
+        "url": "https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247546,
+      "name": "ALL I CAN TAKE",
+      "url": "https://open.spotify.com/track/6WqKdBOuiFSWtjUoy7q8Bi"
     },
     {
       "album": {
@@ -424,7 +442,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 169000,
       "name": "BETTER MAN",
       "url": "https://open.spotify.com/track/26MqDvGIe4A4UZpF5J2Ame"
@@ -482,6 +500,24 @@
       "duration_ms": 173360,
       "name": "Boyfriend",
       "url": "https://open.spotify.com/track/1tWgOr4bHpdYEX9sILhJ0J"
+    },
+    {
+      "album": {
+        "name": "SWAG II",
+        "url": "https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193525,
+      "name": "BUTTERFLIES",
+      "url": "https://open.spotify.com/track/3Cl9wNUPBlWTw2MlswtOKb"
     },
     {
       "album": {
@@ -847,6 +883,42 @@
     },
     {
       "album": {
+        "name": "My World",
+        "url": "https://open.spotify.com/album/1rG5TDs3jYh6OU753I54CI"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256799,
+      "name": "Favorite Girl",
+      "url": "https://open.spotify.com/track/4nTjkWK590oBDcnIxTr1mI"
+    },
+    {
+      "album": {
+        "name": "SWAG II",
+        "url": "https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200400,
+      "name": "FIRST PLACE",
+      "url": "https://open.spotify.com/track/7rUnZkS1JeOUYt62TOELeh"
+    },
+    {
+      "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii"
       },
@@ -1146,7 +1218,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 223906,
       "name": "I DO",
       "url": "https://open.spotify.com/track/2arETTjDUyUqXR0x5g6E8U"
@@ -1168,7 +1240,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 219946,
       "name": "I Don't Care (with Justin Bieber)",
       "url": "https://open.spotify.com/track/3HVWdVOQ0ZA45FuZGSfvns"
@@ -2116,7 +2188,7 @@
       ],
       "date_added": "2025-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 185213,
       "name": "SWEET SPOT",
       "url": "https://open.spotify.com/track/6AX3i1TluzbvpJpKrY7NoD"

@@ -1,6 +1,6 @@
 {
   "description": "El Malo del Bronx y su legado siempre estar\u00e1n presentes. DEP, Willie Col\u00f3n. ",
-  "num_followers": 429036,
+  "num_followers": 429044,
   "original_name": "Willie Col\u00f3n Por Siempre",
   "owner": {
     "name": "Spotify",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2026-02-23 19:56:34",
       "album": {
+        "name": "Colecci\u00f3n De Oro",
+        "url": "https://open.spotify.com/album/10ylTveyo286PAtFn5gXVo"
+      },
+      "artists": [
+        {
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+        }
+      ],
+      "duration_ms": 278986,
+      "name": "Lo Que Pas\u00f3 Entre T\u00fa y Yo Pas\u00f3",
+      "url": "https://open.spotify.com/track/1zTQ3j6jP0pMHQzCLLzBeF"
+    },
+    {
+      "added_at": "2026-02-23 19:56:34",
+      "album": {
         "name": "Doble Energ\u00eda",
         "url": "https://open.spotify.com/album/1t9CWp3ykgHF83aO4uYYmU"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 412106,
       "name": "No Me Digan Que Es Muy Tarde",
       "url": "https://open.spotify.com/track/5kiRyGmKOdmc2SyD3JqcSI"
-    },
-    {
-      "added_at": "2026-02-23 19:56:34",
-      "album": {
-        "name": "Colecci\u00f3n De Oro",
-        "url": "https://open.spotify.com/album/10ylTveyo286PAtFn5gXVo"
-      },
-      "artists": [
-        {
-          "name": "Luis Enrique",
-          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
-        }
-      ],
-      "duration_ms": 278986,
-      "name": "Lo Que Pas\u00f3 Entre T\u00fa y Yo Pas\u00f3",
-      "url": "https://open.spotify.com/track/1zTQ3j6jP0pMHQzCLLzBeF"
     },
     {
       "added_at": "2026-02-23 19:56:34",

@@ -1255,6 +1255,26 @@
     {
       "added_at": "2026-04-09 22:04:10",
       "album": {
+        "name": "URLAMI",
+        "url": "https://open.spotify.com/album/5aXym1ZTc7Uz901r7DBaOT"
+      },
+      "artists": [
+        {
+          "name": "genn butch",
+          "url": "https://open.spotify.com/artist/0dqR6YWgjpc6gHnwfXEEOs"
+        },
+        {
+          "name": "Ensi",
+          "url": "https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP"
+        }
+      ],
+      "duration_ms": 181599,
+      "name": "URLAMI",
+      "url": "https://open.spotify.com/track/1ZyOP4INoz4Gs8cyMp7Ipr"
+    },
+    {
+      "added_at": "2026-04-09 22:04:10",
+      "album": {
         "name": "Pixel",
         "url": "https://open.spotify.com/album/2GilGjaRAmsF7MptmRnFQT"
       },
@@ -1323,26 +1343,6 @@
       "duration_ms": 293160,
       "name": "Guerra E Pace",
       "url": "https://open.spotify.com/track/0IrlyrfV0N1by6AHL2bZpO"
-    },
-    {
-      "added_at": "2026-04-09 22:04:10",
-      "album": {
-        "name": "URLAMI",
-        "url": "https://open.spotify.com/album/5aXym1ZTc7Uz901r7DBaOT"
-      },
-      "artists": [
-        {
-          "name": "genn butch",
-          "url": "https://open.spotify.com/artist/0dqR6YWgjpc6gHnwfXEEOs"
-        },
-        {
-          "name": "Ensi",
-          "url": "https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP"
-        }
-      ],
-      "duration_ms": 181599,
-      "name": "URLAMI",
-      "url": "https://open.spotify.com/track/1ZyOP4INoz4Gs8cyMp7Ipr"
     },
     {
       "added_at": "2026-04-09 22:04:10",
@@ -2099,6 +2099,42 @@
     {
       "added_at": "2026-04-09 22:04:10",
       "album": {
+        "name": "Questo non \u00e8 un cane",
+        "url": "https://open.spotify.com/album/5EsYTsMhIoAIMHj850DUeY"
+      },
+      "artists": [
+        {
+          "name": "Claver Gold",
+          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
+        }
+      ],
+      "duration_ms": 181346,
+      "name": "Quelli come noi",
+      "url": "https://open.spotify.com/track/64SKVsNLsbDR5e7lmYzWK8"
+    },
+    {
+      "added_at": "2026-04-09 22:04:10",
+      "album": {
+        "name": "Modus Operandi",
+        "url": "https://open.spotify.com/album/2WTTRseuCoYyC0GaKgfnqN"
+      },
+      "artists": [
+        {
+          "name": "DJ Fede",
+          "url": "https://open.spotify.com/artist/7Jvp6QTJqEQqdRXP389Pm8"
+        },
+        {
+          "name": "Jack The Smoker",
+          "url": "https://open.spotify.com/artist/0vZAzVAFQL1gKLBPfnXMaS"
+        }
+      ],
+      "duration_ms": 186750,
+      "name": "Modus Operandi",
+      "url": "https://open.spotify.com/track/7cDrxc8g7AnIhrwFhSiV1U"
+    },
+    {
+      "added_at": "2026-04-09 22:04:10",
+      "album": {
         "name": "FLY",
         "url": "https://open.spotify.com/album/4tpC8UMAe1Usi93NaKaez8"
       },
@@ -2127,58 +2163,22 @@
     {
       "added_at": "2026-04-09 22:04:10",
       "album": {
-        "name": "Modus Operandi",
-        "url": "https://open.spotify.com/album/2WTTRseuCoYyC0GaKgfnqN"
+        "name": "CHIODI",
+        "url": "https://open.spotify.com/album/5D0ENA1yOxEQHl5995qVr9"
       },
       "artists": [
         {
-          "name": "DJ Fede",
-          "url": "https://open.spotify.com/artist/7Jvp6QTJqEQqdRXP389Pm8"
+          "name": "Kaos",
+          "url": "https://open.spotify.com/artist/0eQhM2KCPj2YtYQVJ3Vw1r"
         },
         {
-          "name": "Jack The Smoker",
-          "url": "https://open.spotify.com/artist/0vZAzVAFQL1gKLBPfnXMaS"
+          "name": "Colle Der Fomento",
+          "url": "https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u"
         }
       ],
-      "duration_ms": 186750,
-      "name": "Modus Operandi",
-      "url": "https://open.spotify.com/track/7cDrxc8g7AnIhrwFhSiV1U"
-    },
-    {
-      "added_at": "2026-04-09 22:04:10",
-      "album": {
-        "name": "Questo non \u00e8 un cane",
-        "url": "https://open.spotify.com/album/5EsYTsMhIoAIMHj850DUeY"
-      },
-      "artists": [
-        {
-          "name": "Claver Gold",
-          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
-        }
-      ],
-      "duration_ms": 181346,
-      "name": "Quelli come noi",
-      "url": "https://open.spotify.com/track/64SKVsNLsbDR5e7lmYzWK8"
-    },
-    {
-      "added_at": "2026-04-09 22:04:10",
-      "album": {
-        "name": "L'Unico Compromesso",
-        "url": "https://open.spotify.com/album/6VEIGngAlvGI3OVPMEvZD0"
-      },
-      "artists": [
-        {
-          "name": "Gemitaiz",
-          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
-        },
-        {
-          "name": "MadMan",
-          "url": "https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX"
-        }
-      ],
-      "duration_ms": 239974,
-      "name": "Pistorius",
-      "url": "https://open.spotify.com/track/0rd3PRhAwDKVx4K1uVoeiZ"
+      "duration_ms": 248791,
+      "name": "L'uomo dei sogni",
+      "url": "https://open.spotify.com/track/6nkJT8b4WTTCoV2GwvIU2k"
     },
     {
       "added_at": "2026-04-09 22:04:10",
@@ -2203,22 +2203,38 @@
     {
       "added_at": "2026-04-09 22:04:10",
       "album": {
-        "name": "CHIODI",
-        "url": "https://open.spotify.com/album/5D0ENA1yOxEQHl5995qVr9"
+        "name": "L'Unico Compromesso",
+        "url": "https://open.spotify.com/album/6VEIGngAlvGI3OVPMEvZD0"
       },
       "artists": [
         {
-          "name": "Kaos",
-          "url": "https://open.spotify.com/artist/0eQhM2KCPj2YtYQVJ3Vw1r"
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
         },
         {
-          "name": "Colle Der Fomento",
-          "url": "https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u"
+          "name": "MadMan",
+          "url": "https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX"
         }
       ],
-      "duration_ms": 248791,
-      "name": "L'uomo dei sogni",
-      "url": "https://open.spotify.com/track/6nkJT8b4WTTCoV2GwvIU2k"
+      "duration_ms": 239974,
+      "name": "Pistorius",
+      "url": "https://open.spotify.com/track/0rd3PRhAwDKVx4K1uVoeiZ"
+    },
+    {
+      "added_at": "2026-04-09 22:04:10",
+      "album": {
+        "name": "The Waiter",
+        "url": "https://open.spotify.com/album/7pqpBhNzwu0joeYwPGGwZq"
+      },
+      "artists": [
+        {
+          "name": "Dani Faiv",
+          "url": "https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ"
+        }
+      ],
+      "duration_ms": 132640,
+      "name": "Looper",
+      "url": "https://open.spotify.com/track/2xv5MjgDcYFat5mdo8nh7S"
     },
     {
       "added_at": "2026-04-09 22:04:10",
@@ -2267,22 +2283,6 @@
       "duration_ms": 158117,
       "name": "Cassaforte (feat. Noyz Narcos)",
       "url": "https://open.spotify.com/track/3oS5RnHrBilRqYm2z2gj0u"
-    },
-    {
-      "added_at": "2026-04-09 22:04:10",
-      "album": {
-        "name": "The Waiter",
-        "url": "https://open.spotify.com/album/7pqpBhNzwu0joeYwPGGwZq"
-      },
-      "artists": [
-        {
-          "name": "Dani Faiv",
-          "url": "https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ"
-        }
-      ],
-      "duration_ms": 132640,
-      "name": "Looper",
-      "url": "https://open.spotify.com/track/2xv5MjgDcYFat5mdo8nh7S"
     },
     {
       "added_at": "2026-04-09 22:04:10",
@@ -2659,6 +2659,26 @@
     {
       "added_at": "2026-04-09 22:04:10",
       "album": {
+        "name": "SEI TU",
+        "url": "https://open.spotify.com/album/5kBACwZpm4UpVEbzAb1ucl"
+      },
+      "artists": [
+        {
+          "name": "Chomsk'",
+          "url": "https://open.spotify.com/artist/0CJDBEjJQYGcyC12FI1L0b"
+        },
+        {
+          "name": "Davide Shorty",
+          "url": "https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso"
+        }
+      ],
+      "duration_ms": 146229,
+      "name": "SEI TU",
+      "url": "https://open.spotify.com/track/4FvNMfY6V0iEzwQYsxS0lN"
+    },
+    {
+      "added_at": "2026-04-09 22:04:10",
+      "album": {
         "name": "Who the fuck is this!!!",
         "url": "https://open.spotify.com/album/2gTI3FRq0y6O2Crxvn3CZi"
       },
@@ -2771,26 +2791,6 @@
       "duration_ms": 150749,
       "name": "IL BUIO NELLE MANI",
       "url": "https://open.spotify.com/track/7JAnEkBz3SrjZRU77RQvC1"
-    },
-    {
-      "added_at": "2026-04-09 22:04:10",
-      "album": {
-        "name": "SEI TU",
-        "url": "https://open.spotify.com/album/5kBACwZpm4UpVEbzAb1ucl"
-      },
-      "artists": [
-        {
-          "name": "Chomsk'",
-          "url": "https://open.spotify.com/artist/0CJDBEjJQYGcyC12FI1L0b"
-        },
-        {
-          "name": "Davide Shorty",
-          "url": "https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso"
-        }
-      ],
-      "duration_ms": 146229,
-      "name": "SEI TU",
-      "url": "https://open.spotify.com/track/4FvNMfY6V0iEzwQYsxS0lN"
     },
     {
       "added_at": "2026-04-09 22:04:10",
@@ -3023,26 +3023,6 @@
     {
       "added_at": "2026-04-09 22:04:10",
       "album": {
-        "name": "Mambo del Diablo",
-        "url": "https://open.spotify.com/album/0rc6kCEVH7X6DICSMG8Xgk"
-      },
-      "artists": [
-        {
-          "name": "Jangy Leeon",
-          "url": "https://open.spotify.com/artist/1WTZw0SzZvDGPqO9uYkFx7"
-        },
-        {
-          "name": "Weirdo",
-          "url": "https://open.spotify.com/artist/3P9LwUyXVBkyLlNKfbtYJ6"
-        }
-      ],
-      "duration_ms": 166530,
-      "name": "Mambo del Diablo",
-      "url": "https://open.spotify.com/track/46AUcpztyMKpHcCm0a7CNi"
-    },
-    {
-      "added_at": "2026-04-09 22:04:10",
-      "album": {
         "name": "Day Off",
         "url": "https://open.spotify.com/album/3VByS2MsqxN343yE4C3vHr"
       },
@@ -3067,6 +3047,26 @@
       "duration_ms": 242758,
       "name": "Verde (feat. Willie Peyote & Cicco Sanchez)",
       "url": "https://open.spotify.com/track/2xAgjA6BKstSr6lLtdczw8"
+    },
+    {
+      "added_at": "2026-04-09 22:04:10",
+      "album": {
+        "name": "Mambo del Diablo",
+        "url": "https://open.spotify.com/album/0rc6kCEVH7X6DICSMG8Xgk"
+      },
+      "artists": [
+        {
+          "name": "Jangy Leeon",
+          "url": "https://open.spotify.com/artist/1WTZw0SzZvDGPqO9uYkFx7"
+        },
+        {
+          "name": "Weirdo",
+          "url": "https://open.spotify.com/artist/3P9LwUyXVBkyLlNKfbtYJ6"
+        }
+      ],
+      "duration_ms": 166530,
+      "name": "Mambo del Diablo",
+      "url": "https://open.spotify.com/track/46AUcpztyMKpHcCm0a7CNi"
     }
   ],
   "unique_name": "Radici Hip-Hop",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Vana
 
-[Spotify](https://open.spotify.com/user/spotify) - 789,115 likes - 101 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 789,220 likes - 101 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 11 | [Bend Towards The Dark](https://open.spotify.com/track/6UBbYpErZJMCL0NIimAOTk) | [Immolation](https://open.spotify.com/artist/3rt16vhD1OuULlsyxUUWIt) | [Descent](https://open.spotify.com/album/1mDaT2RNgf04P88aTEjTeL) | 3:56 |
 | 12 | [The Dissonant Void](https://open.spotify.com/track/3kPNgzSF2oXLWYLX0nyvQE) | [At The Gates](https://open.spotify.com/artist/6YXarbjg36ODFPez0PnOlD) | [The Dissonant Void](https://open.spotify.com/album/1PCjRioJjzRjEAttUTPkdX) | 2:47 |
 | 13 | [Nine Days Of Rain](https://open.spotify.com/track/395bSGOXrkzcJ4rzaxU06U) | [Melvins](https://open.spotify.com/artist/6aVjo0xHSiuW5hkasoYSR3), [Napalm Death](https://open.spotify.com/artist/3UqRgrDIQ208yNGiWKRMNt) | [Savage Imperial Death March](https://open.spotify.com/album/1YLR6DysIOeQYAPUj0S9EW) | 3:51 |
-| 14 | [Where Once There Was As Ocean](https://open.spotify.com/track/15xevWiHd9Dw9FQL4f9hZi) | [Spirit Adrift](https://open.spotify.com/artist/5sW5eR9g4kNibasfrlw4EN) | [Infinite Illumination](https://open.spotify.com/album/0R8q7pytUouh1Olbn5Uu2k) | 7:10 |
+| 14 | [Where Once There Was An Ocean](https://open.spotify.com/track/15xevWiHd9Dw9FQL4f9hZi) | [Spirit Adrift](https://open.spotify.com/artist/5sW5eR9g4kNibasfrlw4EN) | [Infinite Illumination](https://open.spotify.com/album/0R8q7pytUouh1Olbn5Uu2k) | 7:10 |
 | 15 | [The Days Of Our Lives](https://open.spotify.com/track/57Fs93UbLC00zPjjiiFY1F) | [Lord Of The Lost](https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI) | [The Days Of Our Lives](https://open.spotify.com/album/1dFw8P9pS8t0mrmOAkPufp) | 4:31 |
 | 16 | [FIND ANOTHER WAY](https://open.spotify.com/track/3zx6JVZolcGCJzMTVFsOvE) | [As Everything Unfolds](https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT) | [DID YOU ASK TO BE SET FREE?](https://open.spotify.com/album/2iKPRBblZBc6hUsqz0qGnp) | 3:53 |
 | 17 | [allured](https://open.spotify.com/track/0E5BAno4o00oI3HZFvVXhd) | [sace6](https://open.spotify.com/artist/3II4BTkM0mJbwvFxVJRdeS) | [allured](https://open.spotify.com/album/2qX9evcsvtcxdRKc0tJKLn) | 3:30 |

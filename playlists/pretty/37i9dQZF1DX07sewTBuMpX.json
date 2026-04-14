@@ -1,6 +1,6 @@
 {
   "description": "De beste tunes op repeat. Cover: CHO",
-  "num_followers": 141001,
+  "num_followers": 141009,
   "original_name": "Pull Up Hits",
   "owner": {
     "name": "Spotify",
@@ -787,26 +787,6 @@
     {
       "added_at": "2026-04-02 22:02:08",
       "album": {
-        "name": "De Ene Hand Wast De Ander",
-        "url": "https://open.spotify.com/album/1JZOSXy4Fjjh5bo9FOcTBX"
-      },
-      "artists": [
-        {
-          "name": "Broederliefde",
-          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
-        },
-        {
-          "name": "Lil Kleine",
-          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
-        }
-      ],
-      "duration_ms": 182352,
-      "name": "Waterkant",
-      "url": "https://open.spotify.com/track/7oogv7kVuYNY7hzUZyOpD6"
-    },
-    {
-      "added_at": "2026-04-02 22:02:08",
-      "album": {
         "name": "Ben Met SRNO",
         "url": "https://open.spotify.com/album/5b77xXOGpcgfaoHvsGVbOs"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 150822,
       "name": "Ben Met SRNO",
       "url": "https://open.spotify.com/track/75gHd5DLUJraDEGuQukMsK"
+    },
+    {
+      "added_at": "2026-04-02 22:02:08",
+      "album": {
+        "name": "De Ene Hand Wast De Ander",
+        "url": "https://open.spotify.com/album/1JZOSXy4Fjjh5bo9FOcTBX"
+      },
+      "artists": [
+        {
+          "name": "Broederliefde",
+          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
+        },
+        {
+          "name": "Lil Kleine",
+          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
+        }
+      ],
+      "duration_ms": 182352,
+      "name": "Waterkant",
+      "url": "https://open.spotify.com/track/7oogv7kVuYNY7hzUZyOpD6"
     },
     {
       "added_at": "2026-04-02 22:02:08",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2026-04-02 22:02:08",
       "album": {
+        "name": "OHMA TOKITA",
+        "url": "https://open.spotify.com/album/08ngK9hoKWoBwtAPyayULJ"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "duration_ms": 135257,
+      "name": "OHMA TOKITA",
+      "url": "https://open.spotify.com/track/5jQBF7AGXs46PukINrLLng"
+    },
+    {
+      "added_at": "2026-04-02 22:02:08",
+      "album": {
         "name": "180",
         "url": "https://open.spotify.com/album/3JziZ02K6CPyI83kKOQbHj"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 211304,
       "name": "180",
       "url": "https://open.spotify.com/track/3rKD53F1KpVjCg5MZQabq9"
-    },
-    {
-      "added_at": "2026-04-02 22:02:08",
-      "album": {
-        "name": "OHMA TOKITA",
-        "url": "https://open.spotify.com/album/08ngK9hoKWoBwtAPyayULJ"
-      },
-      "artists": [
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        }
-      ],
-      "duration_ms": 135257,
-      "name": "OHMA TOKITA",
-      "url": "https://open.spotify.com/track/5jQBF7AGXs46PukINrLLng"
     },
     {
       "added_at": "2026-04-02 22:02:08",
@@ -1827,22 +1827,18 @@
     {
       "added_at": "2026-04-02 22:02:08",
       "album": {
-        "name": "Butta My Bread",
-        "url": "https://open.spotify.com/album/3WlxlO16ydHEisWjriRpHk"
+        "name": "NASA",
+        "url": "https://open.spotify.com/album/5s0omL2Uafv73Dx8OcT6vZ"
       },
       "artists": [
         {
-          "name": "JZyNo",
-          "url": "https://open.spotify.com/artist/3gYUwwn7FiiBMKHe36OUaQ"
-        },
-        {
-          "name": "Lasmid",
-          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
         }
       ],
-      "duration_ms": 148672,
-      "name": "Butta My Bread",
-      "url": "https://open.spotify.com/track/3aJF7HsFOwuUAFOaRMQCxR"
+      "duration_ms": 144675,
+      "name": "NASA",
+      "url": "https://open.spotify.com/track/0MDCA0Wky00TbO5yjCIZ38"
     }
   ],
   "unique_name": "Pull Up Hits",

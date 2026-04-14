@@ -7009,6 +7009,24 @@
     },
     {
       "album": {
+        "name": "ROSSO COME IL FANGO",
+        "url": "https://open.spotify.com/album/1lxCspGT29F9wNy6dI9bKe"
+      },
+      "artists": [
+        {
+          "name": "Madame",
+          "url": "https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170377,
+      "name": "ROSSO COME IL FANGO",
+      "url": "https://open.spotify.com/track/7d8hSEH3UBc0phpisP1fh9"
+    },
+    {
+      "album": {
         "name": "METAMORFOSI",
         "url": "https://open.spotify.com/album/1SPhCDB44Mgx1lEbdMnIKm"
       },

@@ -1,12 +1,12 @@
 {
   "description": "This is Fleetwood Mac. The essential tracks, all in one playlist.",
-  "num_followers": 1159206,
+  "num_followers": 1159357,
   "original_name": "This Is Fleetwood Mac",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "admPAAAAAAA8c/Bs6DK2/Vmcw5uceiHv",
+  "snapshot_id": "adrggAAAAABizTaEjyPerelT2+My4qjZ",
   "tracks": [
     {
       "added_at": null,
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Say You Will",
-        "url": "https://open.spotify.com/album/6dMdadS6Ng71pD9As93ufx"
+        "name": "Bare Trees",
+        "url": "https://open.spotify.com/album/4yjFzAgg5VcidLwoZiQmbi"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 245626,
-      "name": "Bleed to Love Her",
-      "url": "https://open.spotify.com/track/2hl6XZ8nztFfVDv2qHPnwt"
+      "duration_ms": 190666,
+      "name": "Sunny Side of Heaven",
+      "url": "https://open.spotify.com/track/3kpH1izy0QrjIDBFbz83YD"
     },
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bare Trees",
-        "url": "https://open.spotify.com/album/4yjFzAgg5VcidLwoZiQmbi"
+        "name": "Say You Will",
+        "url": "https://open.spotify.com/album/6dMdadS6Ng71pD9As93ufx"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 190666,
-      "name": "Sunny Side of Heaven",
-      "url": "https://open.spotify.com/track/3kpH1izy0QrjIDBFbz83YD"
+      "duration_ms": 245626,
+      "name": "Bleed to Love Her",
+      "url": "https://open.spotify.com/track/2hl6XZ8nztFfVDv2qHPnwt"
     },
     {
       "added_at": null,

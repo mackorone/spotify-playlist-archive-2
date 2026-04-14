@@ -1,6 +1,6 @@
 {
   "description": "Un perreito en la pared...",
-  "num_followers": 1187748,
+  "num_followers": 1187977,
   "original_name": "La Casa del Perreo",
   "owner": {
     "name": "Spotify",
@@ -1131,6 +1131,26 @@
     {
       "added_at": "2026-03-27 06:00:17",
       "album": {
+        "name": "Veo Veo",
+        "url": "https://open.spotify.com/album/24t1jTlCwVs2wtvVRAy48G"
+      },
+      "artists": [
+        {
+          "name": "Sayuri & Sopholov",
+          "url": "https://open.spotify.com/artist/6IcW0vncoYwp4NQWSm4uXc"
+        },
+        {
+          "name": "Fuentes Prod",
+          "url": "https://open.spotify.com/artist/6nLUmIv3Hi88nYI0Xn67XV"
+        }
+      ],
+      "duration_ms": 171344,
+      "name": "Veo Veo",
+      "url": "https://open.spotify.com/track/2eR46kcYzdZtFN3Q1NkNcK"
+    },
+    {
+      "added_at": "2026-03-27 06:00:17",
+      "album": {
         "name": "Chulo pt.2",
         "url": "https://open.spotify.com/album/3gsIT2tGpLm0mQGRCnrZ7j"
       },
@@ -1151,26 +1171,6 @@
       "duration_ms": 219333,
       "name": "Chulo pt.2",
       "url": "https://open.spotify.com/track/0J9g1MMJDhyvOb3NWckHMm"
-    },
-    {
-      "added_at": "2026-03-27 06:00:17",
-      "album": {
-        "name": "Veo Veo",
-        "url": "https://open.spotify.com/album/24t1jTlCwVs2wtvVRAy48G"
-      },
-      "artists": [
-        {
-          "name": "Sayuri & Sopholov",
-          "url": "https://open.spotify.com/artist/6IcW0vncoYwp4NQWSm4uXc"
-        },
-        {
-          "name": "Fuentes Prod",
-          "url": "https://open.spotify.com/artist/6nLUmIv3Hi88nYI0Xn67XV"
-        }
-      ],
-      "duration_ms": 171344,
-      "name": "Veo Veo",
-      "url": "https://open.spotify.com/track/2eR46kcYzdZtFN3Q1NkNcK"
     },
     {
       "added_at": "2026-03-27 06:00:17",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2026-03-27 06:00:17",
       "album": {
-        "name": "SHORTY QUE TE VAYA BN <3",
-        "url": "https://open.spotify.com/album/2TDCpT7xPs96lKz5yxJ3Hs"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 219681,
-      "name": "SHORTY QUE TE VAYA BN <3",
-      "url": "https://open.spotify.com/track/3CQDFLetMMxD5hzAnUk410"
-    },
-    {
-      "added_at": "2026-03-27 06:00:17",
-      "album": {
         "name": "Normal",
         "url": "https://open.spotify.com/album/3xbevf88sEI6l01P9dApmu"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 171986,
       "name": "Normal",
       "url": "https://open.spotify.com/track/2z9YkcLojiOE7Eu2p9lPZR"
+    },
+    {
+      "added_at": "2026-03-27 06:00:17",
+      "album": {
+        "name": "SHORTY QUE TE VAYA BN <3",
+        "url": "https://open.spotify.com/album/2TDCpT7xPs96lKz5yxJ3Hs"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 219681,
+      "name": "SHORTY QUE TE VAYA BN <3",
+      "url": "https://open.spotify.com/track/3CQDFLetMMxD5hzAnUk410"
     },
     {
       "added_at": "2026-03-27 06:00:17",
@@ -1551,26 +1551,6 @@
     {
       "added_at": "2026-03-27 06:00:17",
       "album": {
-        "name": "Dios los Bendiga",
-        "url": "https://open.spotify.com/album/75L1b4ZIIgyJdhK7FccMwI"
-      },
-      "artists": [
-        {
-          "name": "SAIKO",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        },
-        {
-          "name": "Tito \"El Bambino\"",
-          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
-        }
-      ],
-      "duration_ms": 136956,
-      "name": "Dios los Bendiga",
-      "url": "https://open.spotify.com/track/3vDnMJ7jpmqgNaobJBOUqW"
-    },
-    {
-      "added_at": "2026-03-27 06:00:17",
-      "album": {
         "name": "Espectacular",
         "url": "https://open.spotify.com/album/2HLdCDKtyV4VxHLYk5xvAS"
       },
@@ -1587,6 +1567,26 @@
       "duration_ms": 185739,
       "name": "Espectacular",
       "url": "https://open.spotify.com/track/4HnuPc5Cng3tbwunyqSMNi"
+    },
+    {
+      "added_at": "2026-03-27 06:00:17",
+      "album": {
+        "name": "Dios los Bendiga",
+        "url": "https://open.spotify.com/album/75L1b4ZIIgyJdhK7FccMwI"
+      },
+      "artists": [
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        },
+        {
+          "name": "Tito \"El Bambino\"",
+          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
+        }
+      ],
+      "duration_ms": 136956,
+      "name": "Dios los Bendiga",
+      "url": "https://open.spotify.com/track/3vDnMJ7jpmqgNaobJBOUqW"
     },
     {
       "added_at": "2026-03-27 06:00:17",
@@ -1903,26 +1903,6 @@
     {
       "added_at": "2026-03-27 06:00:17",
       "album": {
-        "name": "ORQU\u00cdDEAS",
-        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 188268,
-      "name": "No Hay Ley Parte 2 (with Rauw Alejandro)",
-      "url": "https://open.spotify.com/track/16pNGHrUDtUq5Qg4LnueIi"
-    },
-    {
-      "added_at": "2026-03-27 06:00:17",
-      "album": {
         "name": "Problem\u00f3n",
         "url": "https://open.spotify.com/album/0A6sjLzd6wPSye48ipLBBj"
       },
@@ -1939,6 +1919,26 @@
       "duration_ms": 193013,
       "name": "Problem\u00f3n",
       "url": "https://open.spotify.com/track/2Q4MRMnSAMckugCtR5jgXT"
+    },
+    {
+      "added_at": "2026-03-27 06:00:17",
+      "album": {
+        "name": "ORQU\u00cdDEAS",
+        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 188268,
+      "name": "No Hay Ley Parte 2 (with Rauw Alejandro)",
+      "url": "https://open.spotify.com/track/16pNGHrUDtUq5Qg4LnueIi"
     },
     {
       "added_at": "2026-03-27 06:00:17",
@@ -2071,6 +2071,26 @@
     {
       "added_at": "2026-03-27 06:00:17",
       "album": {
+        "name": "Dile A \u00c9L (Remix)",
+        "url": "https://open.spotify.com/album/0BZAoYC5AYtNrddg8MjCdI"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "duration_ms": 220189,
+      "name": "Dile A \u00c9L (Remix)",
+      "url": "https://open.spotify.com/track/4IlyL83AOQFFVfx0pgYyFZ"
+    },
+    {
+      "added_at": "2026-03-27 06:00:17",
+      "album": {
         "name": "Ella Quiere Hmm... Haa... Hmm...",
         "url": "https://open.spotify.com/album/7mPxdHON4WVzd11KSLJkt5"
       },
@@ -2091,26 +2111,6 @@
       "duration_ms": 212114,
       "name": "Ella Quiere Hmm... Haa... Hmm... - DJ Yayo Remix Yayo Remix",
       "url": "https://open.spotify.com/track/0yOExrHtTnmYpMzJKbR8vH"
-    },
-    {
-      "added_at": "2026-03-27 06:00:17",
-      "album": {
-        "name": "Dile A \u00c9L (Remix)",
-        "url": "https://open.spotify.com/album/0BZAoYC5AYtNrddg8MjCdI"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        }
-      ],
-      "duration_ms": 220189,
-      "name": "Dile A \u00c9L (Remix)",
-      "url": "https://open.spotify.com/track/4IlyL83AOQFFVfx0pgYyFZ"
     },
     {
       "added_at": "2026-03-27 06:00:17",

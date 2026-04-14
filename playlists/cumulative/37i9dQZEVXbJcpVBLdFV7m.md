@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Bulgaria.
 
-2,518 songs - 5 day 12 hr 58 min
+2,519 songs - 5 day 13 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -526,7 +526,7 @@
 | [Doner Kebab Nacho Alejandro Garnacho](https://open.spotify.com/track/4NVI0zMtRIcJDz96pH9jMc) | [y2k sports](https://open.spotify.com/artist/5JLIodjOfvdiDbWYrs771c) | [Doner Kebab Nacho Alejandro Garnacho](https://open.spotify.com/album/7DBQpy4ztq7B3D47JlCUo7) | 2:15 | 2024-08-12 | 2024-08-14 |
 | [Don’t hide](https://open.spotify.com/track/6yJIO8264hq1hCbBLU0C0X) | [So Supa](https://open.spotify.com/artist/6D6Uf2RTnvHkD64pUapryP) | [Supa vs Sligga](https://open.spotify.com/album/3GdWSIpfD42ZQMiNVg6Eu7) | 1:50 | 2025-11-23 | 2025-11-28 |
 | [Don’t Say You Love Me](https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Echo](https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ) | 3:00 | 2025-06-03 | 2025-06-10 |
-| [Doomed](https://open.spotify.com/track/5OF346xZ66VhwC9YGyT5bC) | [Maphra](https://open.spotify.com/artist/6jEt1BKNPShxqV4aHj2l58) | [Doomed](https://open.spotify.com/album/4czu8QKEmjapV1f7TYbJLP) | 4:35 | 2026-04-04 |  |
+| [Doomed](https://open.spotify.com/track/5OF346xZ66VhwC9YGyT5bC) | [Maphra](https://open.spotify.com/artist/6jEt1BKNPShxqV4aHj2l58) | [Doomed](https://open.spotify.com/album/4czu8QKEmjapV1f7TYbJLP) | 4:35 | 2026-04-04 | 2026-04-14 |
 | [Doomed](https://open.spotify.com/track/5mkaAyZacFyGg92OBP2wA0) | [Maphra](https://open.spotify.com/artist/282n63G461lWZtO6jAWKT1) | [Doomed](https://open.spotify.com/album/70K5kRPiCNeGbz3kPS8yk7) | 4:35 | 2026-03-31 | 2026-04-05 |
 | [Doomed](https://open.spotify.com/track/6uG3lOMamTpecbrxkihC1j) | [Maphra](https://open.spotify.com/artist/6jEt1BKNPShxqV4aHj2l58) | [Doomed](https://open.spotify.com/album/6LoD8NHC8yXB6RPLueaRko) | 4:35 | 2026-03-24 | 2026-04-01 |
 | [Doomsday Blue](https://open.spotify.com/track/7qiEoVlFjb3KaytT2zgK1g) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC) | [Cathexis](https://open.spotify.com/album/70IfQDr5WnlqwK2Cb0tvco) | 3:03 | 2024-05-12 | 2024-06-04 |
@@ -684,6 +684,7 @@
 | [forwards beckon rebound](https://open.spotify.com/track/6PBanBy8L1K2Ry4UN186XH) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 3:09 | 2024-10-30 | 2024-11-01 |
 | [Fourth of July](https://open.spotify.com/track/5Qnrgqy1pAm9GyNQOgyVFz) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS) | 4:39 | 2024-07-05 | 2025-07-12 |
 | [Fourth Strike](https://open.spotify.com/track/4ZYc3kAdPWlhYMnEsjvVr6) | [Terror Jr](https://open.spotify.com/artist/5QatamYwvUTOmMHW6WA0AG), [King Kylie](https://open.spotify.com/artist/16PVIKGOsSoCCAIBANjgil) | [Fourth Strike](https://open.spotify.com/album/7kZxBOcj87g3gHDAw1ceTq) | 2:50 | 2025-10-28 | 2025-11-01 |
+| [Freakin’ Out](https://open.spotify.com/track/2SaWT781xr3hHLdbVt5DB7) | [Dexter and The Moonrocks](https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT) | [Freakin’ Out](https://open.spotify.com/album/3hToTQIS84qGNxEhrZHiWf) | 3:37 | 2026-04-13 |  |
 | [Free](https://open.spotify.com/track/5DxDLsW6PsLz5gkwC7Mk5S) | [Rumi](https://open.spotify.com/artist/2DSE0PhxKUmTPLfZm13sup), [Jinu](https://open.spotify.com/artist/0rIiNDJUesrgFPkYesJmKl), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY), [Andrew Choi](https://open.spotify.com/artist/7JBaynR7JFeniONqbnn1U4), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 3:07 | 2025-07-15 | 2025-09-11 |
 | [FRI\(END\)S](https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [FRI\(END\)S](https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs) | 2:28 | 2024-04-02 | 2024-04-11 |
 | [Friday \(feat\. Mufasa & Hypeman\) \- Dopamine Re\-Edit](https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Nightcrawlers](https://open.spotify.com/artist/1gALaWbNDnwS2ECV09sn2A), [Mufasa & Hypeman](https://open.spotify.com/artist/4L2dV3zY7RmkeiNO035Fi0), [Mufasa](https://open.spotify.com/artist/23rdR5gsZI5BqncTEKLtDU), [Dopamine](https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN) | [Friday \(feat\. Mufasa & Hypeman\) \[Dopamine Re\-Edit\]](https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j) | 2:49 | 2025-12-19 | 2025-12-23 |

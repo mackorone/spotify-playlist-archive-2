@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sjr0c.md) - [plain]
 
 > This is Grateful Dead\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,627 likes - 50 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,648 likes - 50 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sjr0c.md) - [plain]
 | 49 | [The Golden Road \- 2013 Remaster](https://open.spotify.com/track/22W574PUUECix1yNCWalgx) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [The Grateful Dead](https://open.spotify.com/album/2Qkp6ALKO8kcONs4zq1t2D) | 2:12 |
 | 50 | [Slow Train \- Live at Sullivan Stadium, Foxborough, MA \- July 1987](https://open.spotify.com/track/6kpqaDEznzrlLFhPDwjNNY) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX), [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Dylan & The Dead \(Live\)](https://open.spotify.com/album/2H8oXIOkww0RuVckCa6Scw) | 4:56 |
 
-Snapshot ID: `admPAAAAAAAUw9ruNzY63wAdub7eESka`
+Snapshot ID: `adrggAAAAABkqm2I0WluNi/JjDaUY3L6`

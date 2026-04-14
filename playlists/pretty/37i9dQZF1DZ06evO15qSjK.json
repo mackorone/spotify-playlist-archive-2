@@ -1,12 +1,12 @@
 {
   "description": "This is Kidz Bop Kids. The essential tracks, all in one playlist.",
-  "num_followers": 174171,
+  "num_followers": 174168,
   "original_name": "This Is Kidz Bop Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "admPAAAAAAC5SB7zippQyHaJlt+K56HR",
+  "snapshot_id": "adrggAAAAACI6S1RaeAlNWfAGTJiwfrp",
   "tracks": [
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KIDZ BOP Megapop",
-        "url": "https://open.spotify.com/album/2YYMDIHQoKH1MMpTeJ79UW"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 185200,
-      "name": "HandClap",
-      "url": "https://open.spotify.com/track/3YyTZEQ17P1arrbdBoClRx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Opalite",
         "url": "https://open.spotify.com/album/5uiG6J3o6Q7n6d2lb8Z30d"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 232190,
       "name": "Opalite",
       "url": "https://open.spotify.com/track/7FKJfmazFSTkfEx77MYToD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KIDZ BOP Megapop",
+        "url": "https://open.spotify.com/album/2YYMDIHQoKH1MMpTeJ79UW"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 185200,
+      "name": "HandClap",
+      "url": "https://open.spotify.com/track/3YyTZEQ17P1arrbdBoClRx"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KIDZ BOP 2021",
-        "url": "https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 170239,
-      "name": "Savage Love",
-      "url": "https://open.spotify.com/track/5NZcKD2lKDVZiCFADvAyfh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KIDZ BOP 2022",
         "url": "https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 115272,
       "name": "Wellerman \u2013 Sea Shanty",
       "url": "https://open.spotify.com/track/7IrlbBGU4Q0jVgpX6lEVYg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KIDZ BOP 2021",
+        "url": "https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 170239,
+      "name": "Savage Love",
+      "url": "https://open.spotify.com/track/5NZcKD2lKDVZiCFADvAyfh"
     },
     {
       "added_at": null,

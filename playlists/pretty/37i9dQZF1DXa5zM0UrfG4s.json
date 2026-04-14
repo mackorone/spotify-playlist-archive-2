@@ -1,6 +1,6 @@
 {
   "description": "r\u00f8lp og s\u00e5nt",
-  "num_followers": 117551,
+  "num_followers": 117560,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
@@ -743,26 +743,6 @@
     {
       "added_at": "2026-04-09 22:02:04",
       "album": {
-        "name": "Norge rundt med Staysman",
-        "url": "https://open.spotify.com/album/6sqoMds60LzzOc39td4hA3"
-      },
-      "artists": [
-        {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
-        },
-        {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
-        }
-      ],
-      "duration_ms": 138454,
-      "name": "Hytta Mi",
-      "url": "https://open.spotify.com/track/6gyGtshjMiOrtqXJp553FZ"
-    },
-    {
-      "added_at": "2026-04-09 22:02:04",
-      "album": {
         "name": "G\u00e5r i hundre",
         "url": "https://open.spotify.com/album/5dF8qDJtjtq0f0eH9U4v5J"
       },
@@ -779,34 +759,22 @@
     {
       "added_at": "2026-04-09 22:02:04",
       "album": {
-        "name": "Kunna vorre v\u00e6r",
-        "url": "https://open.spotify.com/album/6IlY83C4YmJPr27MsYlfgt"
+        "name": "Norge rundt med Staysman",
+        "url": "https://open.spotify.com/album/6sqoMds60LzzOc39td4hA3"
       },
       "artists": [
         {
-          "name": "Carina Dahl",
-          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
-        }
-      ],
-      "duration_ms": 138388,
-      "name": "Kunna vorre v\u00e6r",
-      "url": "https://open.spotify.com/track/0ZsuXLSv1szZycoL5x9zOV"
-    },
-    {
-      "added_at": "2026-04-09 22:02:04",
-      "album": {
-        "name": "Besseggen",
-        "url": "https://open.spotify.com/album/3hXvPMpfoGRSTb9DSoYQhw"
-      },
-      "artists": [
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        },
         {
           "name": "Halva Priset",
           "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
         }
       ],
-      "duration_ms": 165612,
-      "name": "Besseggen",
-      "url": "https://open.spotify.com/track/3evPFHyagVIQqNDKi6jkp8"
+      "duration_ms": 138454,
+      "name": "Hytta Mi",
+      "url": "https://open.spotify.com/track/6gyGtshjMiOrtqXJp553FZ"
     },
     {
       "added_at": "2026-04-09 22:02:04",
@@ -835,18 +803,34 @@
     {
       "added_at": "2026-04-09 22:02:04",
       "album": {
-        "name": "Singel til jeg d\u00f8r",
-        "url": "https://open.spotify.com/album/57hUp9ecLiQODZpexmgd6f"
+        "name": "Besseggen",
+        "url": "https://open.spotify.com/album/3hXvPMpfoGRSTb9DSoYQhw"
       },
       "artists": [
         {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
         }
       ],
-      "duration_ms": 142620,
-      "name": "Singel til jeg d\u00f8r",
-      "url": "https://open.spotify.com/track/3OSzx7DOBwR10pCsbMOUwF"
+      "duration_ms": 165612,
+      "name": "Besseggen",
+      "url": "https://open.spotify.com/track/3evPFHyagVIQqNDKi6jkp8"
+    },
+    {
+      "added_at": "2026-04-09 22:02:04",
+      "album": {
+        "name": "Kunna vorre v\u00e6r",
+        "url": "https://open.spotify.com/album/6IlY83C4YmJPr27MsYlfgt"
+      },
+      "artists": [
+        {
+          "name": "Carina Dahl",
+          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
+        }
+      ],
+      "duration_ms": 138388,
+      "name": "Kunna vorre v\u00e6r",
+      "url": "https://open.spotify.com/track/0ZsuXLSv1szZycoL5x9zOV"
     },
     {
       "added_at": "2026-04-09 22:02:04",
@@ -867,6 +851,22 @@
       "duration_ms": 168510,
       "name": "Helt \u00c6rlig",
       "url": "https://open.spotify.com/track/00NVYE5PrMpR1gVlC8zPZV"
+    },
+    {
+      "added_at": "2026-04-09 22:02:04",
+      "album": {
+        "name": "Singel til jeg d\u00f8r",
+        "url": "https://open.spotify.com/album/57hUp9ecLiQODZpexmgd6f"
+      },
+      "artists": [
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        }
+      ],
+      "duration_ms": 142620,
+      "name": "Singel til jeg d\u00f8r",
+      "url": "https://open.spotify.com/track/3OSzx7DOBwR10pCsbMOUwF"
     },
     {
       "added_at": "2026-04-09 22:02:04",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-04-09 22:02:04",
       "album": {
-        "name": "Gikk en tur p\u00e5 stien",
-        "url": "https://open.spotify.com/album/1xx33P54osSgrtU0yMcpdS"
-      },
-      "artists": [
-        {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
-        }
-      ],
-      "duration_ms": 143085,
-      "name": "Gikk en tur p\u00e5 stien",
-      "url": "https://open.spotify.com/track/0t8E42WWXZQ9Jd8XibIiZz"
-    },
-    {
-      "added_at": "2026-04-09 22:02:04",
-      "album": {
         "name": "Tro",
         "url": "https://open.spotify.com/album/688QJHvwDmWMfILIRPq4rY"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 170526,
       "name": "N\u00e5 er det freda'n igjen",
       "url": "https://open.spotify.com/track/096d1z40MQXAEZALorCnC4"
+    },
+    {
+      "added_at": "2026-04-09 22:02:04",
+      "album": {
+        "name": "Gikk en tur p\u00e5 stien",
+        "url": "https://open.spotify.com/album/1xx33P54osSgrtU0yMcpdS"
+      },
+      "artists": [
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        }
+      ],
+      "duration_ms": 143085,
+      "name": "Gikk en tur p\u00e5 stien",
+      "url": "https://open.spotify.com/track/0t8E42WWXZQ9Jd8XibIiZz"
     },
     {
       "added_at": "2026-04-09 22:02:04",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2026-04-09 22:02:04",
       "album": {
+        "name": "Sv\u00e6re Pupper",
+        "url": "https://open.spotify.com/album/17bmLiibdB9L5lrwi3EY1h"
+      },
+      "artists": [
+        {
+          "name": "KOKKOS",
+          "url": "https://open.spotify.com/artist/6EnV0svWRA9J0T3ALASlkk"
+        }
+      ],
+      "duration_ms": 138947,
+      "name": "Sv\u00e6re Pupper",
+      "url": "https://open.spotify.com/track/77WdMakzs7lQvUagvlz4fD"
+    },
+    {
+      "added_at": "2026-04-09 22:02:04",
+      "album": {
         "name": "Ryker p\u00e5'a igjen",
         "url": "https://open.spotify.com/album/33tldhAaMzfe8yJ7L3fVqf"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 145111,
       "name": "Ryker p\u00e5'a igjen",
       "url": "https://open.spotify.com/track/1fvSW9yqJQI37iL5HaEuRr"
-    },
-    {
-      "added_at": "2026-04-09 22:02:04",
-      "album": {
-        "name": "Sv\u00e6re Pupper",
-        "url": "https://open.spotify.com/album/17bmLiibdB9L5lrwi3EY1h"
-      },
-      "artists": [
-        {
-          "name": "KOKKOS",
-          "url": "https://open.spotify.com/artist/6EnV0svWRA9J0T3ALASlkk"
-        }
-      ],
-      "duration_ms": 138947,
-      "name": "Sv\u00e6re Pupper",
-      "url": "https://open.spotify.com/track/77WdMakzs7lQvUagvlz4fD"
     },
     {
       "added_at": "2026-04-09 22:02:04",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2026-04-09 22:02:04",
       "album": {
+        "name": "Her og n\u00e5",
+        "url": "https://open.spotify.com/album/2oZjPro9gaPNlzECFyFy9e"
+      },
+      "artists": [
+        {
+          "name": "River",
+          "url": "https://open.spotify.com/artist/4za0lLxhPWR2RTvDVmlVy5"
+        }
+      ],
+      "duration_ms": 136981,
+      "name": "Her og n\u00e5",
+      "url": "https://open.spotify.com/track/6MUNgJiHbzHPKwMzLseH5X"
+    },
+    {
+      "added_at": "2026-04-09 22:02:04",
+      "album": {
         "name": "Polisen",
         "url": "https://open.spotify.com/album/79Psas2Jq5BRug1JdJjXBj"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 212360,
       "name": "Flammer og Bensin",
       "url": "https://open.spotify.com/track/6OxAgEwnw2mWW2e3HS7Mkz"
-    },
-    {
-      "added_at": "2026-04-09 22:02:04",
-      "album": {
-        "name": "Her og n\u00e5",
-        "url": "https://open.spotify.com/album/2oZjPro9gaPNlzECFyFy9e"
-      },
-      "artists": [
-        {
-          "name": "River",
-          "url": "https://open.spotify.com/artist/4za0lLxhPWR2RTvDVmlVy5"
-        }
-      ],
-      "duration_ms": 136981,
-      "name": "Her og n\u00e5",
-      "url": "https://open.spotify.com/track/6MUNgJiHbzHPKwMzLseH5X"
     },
     {
       "added_at": "2026-04-09 22:02:04",

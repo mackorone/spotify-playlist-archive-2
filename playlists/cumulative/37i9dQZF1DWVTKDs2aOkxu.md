@@ -4,7 +4,7 @@
 
 > The best indie music of the moment\. Cover: The Strokes
 
-924 songs - 2 day 7 hr 4 min
+926 songs - 2 day 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -401,6 +401,7 @@
 | [I'm In Love \(Subaru\)](https://open.spotify.com/track/0GZLo69mxt7lUlZP8b5VIO) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [I'm In Love \(Subaru\)](https://open.spotify.com/album/4eVKWZZ9UHmsDSkEGFIMtp) | 4:01 | 2024-07-18 | 2024-10-04 |
 | [I'm With The Band \(feat\. Beck\)](https://open.spotify.com/track/23T2c9QnEWy9PvkeDLhHRS) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [I'm With The Band \(feat\. Beck\)](https://open.spotify.com/album/2ZwtjZD39nAQ9yXMi4ZA9G) | 2:55 | 2024-11-01 | 2025-02-21 |
 | [Icarus \(with Gigi Perez\)](https://open.spotify.com/track/5JHbJWAt56lUXP70gEeBRv) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Prizefighter](https://open.spotify.com/album/36tMC1BcEdVTX2YN5Ygg7k) | 3:12 | 2026-02-20 |  |
+| [idea 1](https://open.spotify.com/track/3ZTKg748vW7Zrll3wzwjJy) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [idea 1](https://open.spotify.com/album/0d0V3ranIJdJ0RjSo4Q7Qm) | 3:25 | 2026-04-13 |  |
 | [Idiot Box](https://open.spotify.com/track/33Wi8Etr6ljOsBViBOKWQ5) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Sharon Van Etten & The Attachment Theory](https://open.spotify.com/album/5aGKc7OL3d1aJodCG2747F) | 4:10 | 2025-02-07 | 2025-04-18 |
 | [If I Leave](https://open.spotify.com/track/4eMXMUkWS4aChMfA1UO4YJ) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Nothing's About to Happen to Me](https://open.spotify.com/album/2M9F3AsbWy7n4LwmJ8pqEu) | 3:00 | 2026-02-27 |  |
 | [If Only I Could Wait](https://open.spotify.com/track/2JKDtTNtfaLQYjwkt4ua07) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ), [Danielle Haim](https://open.spotify.com/artist/1i374WEVqp1BCoCLmehog9) | [If Only I Could Wait b/w Walk Home](https://open.spotify.com/album/4rP5iSFeZtZBhbyJqqLAVh) | 3:22 | 2025-03-14 | 2025-04-11 |
@@ -484,6 +485,7 @@
 | [Love Is](https://open.spotify.com/track/7zuTE1Eah3KFnYb6ybC1dB) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [Pale Song / Love Is](https://open.spotify.com/album/1G6shFmSgbuQ7Gz3aD4LRZ) | 3:08 | 2025-10-23 | 2026-01-23 |
 | [Love Me Not \(feat\. Rex Orange County\)](https://open.spotify.com/track/3ld1FzyNgpZwGn4h9cOXrq) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Love Me Not \(feat\. Rex Orange County\)](https://open.spotify.com/album/66SYFOZM5lxnGsBot10yqI) | 3:08 | 2025-01-03 | 2025-04-11 |
 | [Love Story](https://open.spotify.com/track/3FAgUjS7OqRoXl4WjowcKS) | [My New Band Believe](https://open.spotify.com/artist/5bPSCPf8wOY03ENKd6Aw9O) | [Love Story](https://open.spotify.com/album/7gfAIiklAXOtyfSAAnRz0C) | 3:46 | 2026-03-20 |  |
+| [Love Story](https://open.spotify.com/track/6NZzRwgpQAuKWy8N9OdZpY) | [My New Band Believe](https://open.spotify.com/artist/5bPSCPf8wOY03ENKd6Aw9O) | [My New Band Believe](https://open.spotify.com/album/0FypCc1StF9mNiLemcuJ3J) | 3:46 | 2026-04-13 |  |
 | [Love You Better](https://open.spotify.com/track/3GHXx8uF1IUDzrxFV631qf) | [The Maccabees](https://open.spotify.com/artist/0vW8z9pZMGCcRtGPGtyqiB) | [Wall Of Arms](https://open.spotify.com/album/5ToJ9pG8YEetqP7qlFQP49) | 3:20 | 2025-06-20 | 2025-07-05 |
 | [LOVEBITES](https://open.spotify.com/track/5Qmabe5M68D39yD3ie9dum) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [LOVEBITES](https://open.spotify.com/album/4gHjIxAYsDLd6gAWcwNod7) | 3:32 | 2024-06-27 | 2024-07-19 |
 | [lovedrunk](https://open.spotify.com/track/73HM4oXqEBDbeKn8GexF3c) | [Cassia](https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX) | [lovedrunk](https://open.spotify.com/album/46a91eZfO06sfLJiTOdvcd) | 2:20 | 2026-03-20 | 2026-03-27 |
@@ -726,7 +728,7 @@
 | [Split Lip](https://open.spotify.com/track/69Ghh9jP9OXebzBtEq6lsE) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Split Lip](https://open.spotify.com/album/4kMYV9lnrcVFIMWmzOaDn9) | 3:09 | 2024-07-25 | 2024-10-04 |
 | [Spring](https://open.spotify.com/track/0I1525aRa6oK8rtxzC3OUD) | [Maria Somerville](https://open.spotify.com/artist/5JjgffJf4s4KF29xdEaAQd) | [Spring](https://open.spotify.com/album/7LvC0VxdL09dvXV3jxXY88) | 3:34 | 2025-04-27 | 2025-07-04 |
 | [Squish](https://open.spotify.com/track/5NcbdZX6WExR3xNDftUp5m) | [Gretel](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Squish](https://open.spotify.com/album/6qMjvExxrJl2gydwmMbn3R) | 3:00 | 2026-01-30 | 2026-03-06 |
-| [Star](https://open.spotify.com/track/3PdE19PCcon8iVW9KXtRWl) | [Iceage](https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU) | [Star](https://open.spotify.com/album/75az8Y4wNKLh8PpMz6h4zF) | 3:25 | 2026-03-13 |  |
+| [Star](https://open.spotify.com/track/3PdE19PCcon8iVW9KXtRWl) | [Iceage](https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU) | [Star](https://open.spotify.com/album/75az8Y4wNKLh8PpMz6h4zF) | 3:25 | 2026-03-13 | 2026-04-14 |
 | [Stay](https://open.spotify.com/track/1rrhsaqMY5Fbxu5EoKxXqf) | [Esme Emerson](https://open.spotify.com/artist/6Jaz8RyF3F9ktK4aVFgbTL) | [Applesauce](https://open.spotify.com/album/3OBdKoFtSsBVqk7UDWH2M0) | 4:03 | 2025-03-07 | 2025-05-16 |
 | [Stay For Something](https://open.spotify.com/track/05TyHrGHIEg8EyW31zJj0c) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Crazymad, For Me](https://open.spotify.com/album/27E56zhC7dIPjOapQ1tc3O) | 3:36 | 2024-07-25 | 2024-10-18 |
 | [STAY WITH ME!](https://open.spotify.com/track/1Dg4KP0l6sPH1IEbS7iRW6) | [Tiberius b](https://open.spotify.com/artist/0Kt443UQm5aqR2WCwqSMe0) | [STAY WITH ME!](https://open.spotify.com/album/1xfGHGxqx8MnPf6aRs2P0J) | 3:07 | 2025-04-03 | 2025-05-30 |

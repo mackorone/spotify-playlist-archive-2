@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6M9QH5CEPdtif778LoMbQ5">Emily Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,475 likes - 184 songs - 10 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,476 likes - 184 songs - 10 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 76 | [Skin Tight](https://open.spotify.com/track/1nQB3GM2GCRRzES9q4XjW6) | [Niykee Heaton](https://open.spotify.com/artist/63bCkf4n15jiKjHhLV7kSZ) | [Bad Intentions](https://open.spotify.com/album/4F1ozgQLd1ouFs63Tndy6Q) | 3:27 |
 | 77 | [Ain't Been Done](https://open.spotify.com/track/6rYXJEg4Ux6niQzGthcKSe) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Sweet Talker](https://open.spotify.com/album/1UTtCPjmaqzOD1StDaJGFX) | 3:00 |
 | 78 | [Light My Fire \(feat\. Gwen Stefani & Shenseea\)](https://open.spotify.com/track/0D85y6hjCaHRjeB4VEXqPy) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Scorcha](https://open.spotify.com/album/1hVo8fqEJffd9IjV8gHjQ5) | 3:22 |
-| 79 | [All The Ways To Say Goodbye](https://open.spotify.com/track/2z641vWISZBjlkCMfkYVW6) | [Mitch James](https://open.spotify.com/artist/65oocmSeB6z75kHwrZo1le) | [Mitch James \- Deluxe Edition](https://open.spotify.com/album/2uyhLTwc2V8KeSgysLtXTf) | 3:05 |
-| 80 | [Don't Lie](https://open.spotify.com/track/5is9ECympHEpAyTw22IDC5) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Don't Lie](https://open.spotify.com/album/4OjKYMqojvunC37Usp9Myf) | 2:28 |
+| 79 | [Don't Lie](https://open.spotify.com/track/5is9ECympHEpAyTw22IDC5) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Don't Lie](https://open.spotify.com/album/4OjKYMqojvunC37Usp9Myf) | 2:28 |
+| 80 | [All The Ways To Say Goodbye](https://open.spotify.com/track/2z641vWISZBjlkCMfkYVW6) | [Mitch James](https://open.spotify.com/artist/65oocmSeB6z75kHwrZo1le) | [Mitch James \- Deluxe Edition](https://open.spotify.com/album/2uyhLTwc2V8KeSgysLtXTf) | 3:05 |
 | 81 | [Love Me Back](https://open.spotify.com/track/6D8WgDaIuyirn6egGauzVK) | [RITUAL](https://open.spotify.com/artist/3RP50pmG8Wz1mhNCidQj68), [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Love Me Back](https://open.spotify.com/album/26tNi6v3WgUXYEvmYq5u2M) | 2:58 |
 | 82 | [Veneno](https://open.spotify.com/track/7eUalfb6XYFlpM8LvHmsJD) | [SOFI TUKKER](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Mari Merenda](https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ), [Sophia Ardessore](https://open.spotify.com/artist/5XWPfS0p9Ow7IfTrlQhxhw) | [Veneno](https://open.spotify.com/album/2EQauiLBwWg9SCzJ07bEHj) | 2:23 |
 | 83 | [Morning](https://open.spotify.com/track/00uY4XZhrmcr3VLHvLba10) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Poster Girl \(Summer Edition\)](https://open.spotify.com/album/5jB0uErLmgkzvmH5h1zour) | 2:54 |
@@ -146,8 +146,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 136 | [Into The Blue](https://open.spotify.com/track/2xYZtNV1Mn9pPc6nYSzg1Z) | [Rationale](https://open.spotify.com/artist/2IQDM5URYGYfSMmwhTCmyy) | [Rationale](https://open.spotify.com/album/6H9qymov6q3LpGwjhaSLsn) | 3:21 |
 | 137 | [Never Be The One](https://open.spotify.com/track/6JF0rThWWZ1KDOAA2GC0T8) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [Never Be The One](https://open.spotify.com/album/3SRCDfQSwLNwCoBcYznuNg) | 3:21 |
 | 138 | [Pass the Love Around](https://open.spotify.com/track/4CgWKazo7xiS2DYURJt3Cg) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Get Wet](https://open.spotify.com/album/0VVo05bIhweXFjUo1uGvfm) | 3:18 |
-| 139 | [Symmetry](https://open.spotify.com/track/6ARrdbSTFuwxE6meFUFUtI) | [JT Roach](https://open.spotify.com/artist/5CtI0OHj5x6rHQDqpM4JPy), [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Symmetry](https://open.spotify.com/album/5B6eeJRAFwN03R9sUNat3r) | 3:18 |
-| 140 | [Tennis Court](https://open.spotify.com/track/1Yh82W1H6OrHlCGzpkFBmH) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [No Hard Feelings](https://open.spotify.com/album/6zbTpuaPUXU6jRn6RJ0W6K) | 3:09 |
+| 139 | [Tennis Court](https://open.spotify.com/track/1Yh82W1H6OrHlCGzpkFBmH) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [No Hard Feelings](https://open.spotify.com/album/6zbTpuaPUXU6jRn6RJ0W6K) | 3:09 |
+| 140 | [Symmetry](https://open.spotify.com/track/6ARrdbSTFuwxE6meFUFUtI) | [JT Roach](https://open.spotify.com/artist/5CtI0OHj5x6rHQDqpM4JPy), [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Symmetry](https://open.spotify.com/album/5B6eeJRAFwN03R9sUNat3r) | 3:18 |
 | 141 | [Crowded Room](https://open.spotify.com/track/7538JmMWZuw9kopnACWeyP) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless](https://open.spotify.com/album/07oUxYZMdbyNQtxBsaNhyB) | 2:24 |
 | 142 | [Weakness \(Huey Lewis\) \(feat\. Maisy Stella\)](https://open.spotify.com/track/3lY1DbeIc84Y7kDCncyWbs) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot), [Maisy Stella](https://open.spotify.com/artist/2YNMriUgByyX15x93cwh4e) | [Three\. Two\. One.](https://open.spotify.com/album/3nP0DOBWPfEToiDGMXZCAb) | 7:47 |
 | 143 | [Paranoid](https://open.spotify.com/track/6bigcY1dmG4tdXFH29qThb) | [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Quiet Your Mind](https://open.spotify.com/album/1JF4Z5tni5oFJF6a7bEgOk) | 3:21 |
@@ -177,8 +177,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 167 | [The Point](https://open.spotify.com/track/0jvo85AH33ruP3757RIFdX) | [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Quiet Your Mind](https://open.spotify.com/album/1JF4Z5tni5oFJF6a7bEgOk) | 3:18 |
 | 168 | [Pitch Dark](https://open.spotify.com/track/69qTmGUnsoQj76ZqAPVyOm) | [Chelsea Jade](https://open.spotify.com/artist/5K0BVchFxmuKBw7DojGSQO) | [Personal Best](https://open.spotify.com/album/05JyBFPtta56x6uBvIfnal) | 3:16 |
 | 169 | [Take Me to the King](https://open.spotify.com/track/2SIm0S5GQ1YZ4oc5loxaL7) | [Travis Cottrell](https://open.spotify.com/artist/4q7PS6zi0CyrEo23orQCkW) | [I'm Living Proof](https://open.spotify.com/album/68lzPFCVrZVnm3eas1akxD) | 5:31 |
-| 170 | [Bad Idea](https://open.spotify.com/track/5tu7LVow9lV2PwY7SeYEzl) | [Theia](https://open.spotify.com/artist/29ADVF7I6YQyY2SGUlzCcB) | [Not Your Princess](https://open.spotify.com/album/20jvxD6WnHc2BmNZFBjgau) | 2:47 |
-| 171 | [Still In Love With The Pain](https://open.spotify.com/track/6yLLjhFGtImerlDezUwIgD) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [COSMIC OPERA ACT I](https://open.spotify.com/album/3vSeUipyxX4zU6gEl4f1iC) | 3:21 |
+| 170 | [Still In Love With The Pain](https://open.spotify.com/track/6yLLjhFGtImerlDezUwIgD) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [COSMIC OPERA ACT I](https://open.spotify.com/album/3vSeUipyxX4zU6gEl4f1iC) | 3:21 |
+| 171 | [Bad Idea](https://open.spotify.com/track/5tu7LVow9lV2PwY7SeYEzl) | [Theia](https://open.spotify.com/artist/29ADVF7I6YQyY2SGUlzCcB) | [Not Your Princess](https://open.spotify.com/album/20jvxD6WnHc2BmNZFBjgau) | 2:47 |
 | 172 | [Home By Now \- Acoustic](https://open.spotify.com/track/3zlTQomszReVaRPogHzymz) | [Plested](https://open.spotify.com/artist/2nJYGgfTf2846LtVB3AES8) | [First & Foremost](https://open.spotify.com/album/3MgPBfKTcXs9wLLRqr78JG) | 3:38 |
 | 173 | [Mind Show](https://open.spotify.com/track/6VqltFXeOseAHnpJkRBz0i) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [THE VANDALIST](https://open.spotify.com/album/1zHfi28zB4HyturzEUyjrQ) | 3:08 |
 | 174 | [groceries](https://open.spotify.com/track/2dhJS8aLvw3r7Kj34Zz9y4) | [Jamie Fine](https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG) | [if this is it..\. \- E.P.](https://open.spotify.com/album/2mq8yTSaTHnJZUAuKBo9FF) | 2:38 |
@@ -193,4 +193,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 183 | [Break The Silence](https://open.spotify.com/track/29HAzOVnX3947Az2RAsEfE) | [Richard Stirton](https://open.spotify.com/artist/0UW24U271lz9qy3Z19EuvB) | [Middle Ground](https://open.spotify.com/album/6Y15hurwzN1gMLTv4eAQNy) | 3:31 |
 | 184 | [Paper Cuts](https://open.spotify.com/track/25oDwHzFC3coKT3jcPAbJC) | [Alec Chambers](https://open.spotify.com/artist/3weLeY2Bu0Eij4k0tQ4EzJ) | [Paper Cuts](https://open.spotify.com/album/6KhZJNPMnHT7ypOhgNAekF) | 2:53 |
 
-Snapshot ID: `AcOsIAAAAAAKHIuDgaS4RPDkU7wVrTBB`
+Snapshot ID: `AcOxwAAAAAAWfPdvx2CgiMiaChFkmOq6`

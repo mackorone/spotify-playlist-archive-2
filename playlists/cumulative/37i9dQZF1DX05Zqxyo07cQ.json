@@ -15206,6 +15206,24 @@
     {
       "album": {
         "name": "Somnolence",
+        "url": "https://open.spotify.com/album/5QM7r1Z4sHLn55HW8FkQJD"
+      },
+      "artists": [
+        {
+          "name": "Dream Agent",
+          "url": "https://open.spotify.com/artist/3c38G2ko0FlIdDYqW0Xqx4"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145125,
+      "name": "Somnolence",
+      "url": "https://open.spotify.com/track/3oV8YW1inAjaRJeT6z4wVe"
+    },
+    {
+      "album": {
+        "name": "Somnolence",
         "url": "https://open.spotify.com/album/2Jsc7fJFeqZMFMoNw5OBfN"
       },
       "artists": [
@@ -18068,7 +18086,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 155943,
       "name": "Weightless Hours",
       "url": "https://open.spotify.com/track/0co6X6NlJx2knESquaPjnS"

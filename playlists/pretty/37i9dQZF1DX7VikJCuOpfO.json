@@ -1,6 +1,6 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Christian Nodal \ud83d\udcf8",
-  "num_followers": 367323,
+  "num_followers": 367338,
   "original_name": "Mariachi 2026",
   "owner": {
     "name": "Spotify",
@@ -407,6 +407,22 @@
     {
       "added_at": "2026-04-10 04:00:50",
       "album": {
+        "name": "El Hombre Que Yo Amo",
+        "url": "https://open.spotify.com/album/4ArEpA1Bc0YsOi4Z9buUaF"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Contreras",
+          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
+        }
+      ],
+      "duration_ms": 235338,
+      "name": "El Hombre Que Yo Amo",
+      "url": "https://open.spotify.com/track/1RNvvxEefsU6PmBJDVcT4I"
+    },
+    {
+      "added_at": "2026-04-10 04:00:50",
+      "album": {
         "name": "Amarte A La Medida",
         "url": "https://open.spotify.com/album/2pzae7PbWoSasY5bgvMwQ4"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 196416,
       "name": "Amarte A La Medida",
       "url": "https://open.spotify.com/track/2Fi1qapMrYHXPk8n3NfMTI"
-    },
-    {
-      "added_at": "2026-04-10 04:00:50",
-      "album": {
-        "name": "El Hombre Que Yo Amo",
-        "url": "https://open.spotify.com/album/4ArEpA1Bc0YsOi4Z9buUaF"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Contreras",
-          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
-        }
-      ],
-      "duration_ms": 235338,
-      "name": "El Hombre Que Yo Amo",
-      "url": "https://open.spotify.com/track/1RNvvxEefsU6PmBJDVcT4I"
     },
     {
       "added_at": "2026-04-10 04:00:50",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-04-10 04:00:50",
       "album": {
-        "name": "No Voy a Regresar",
-        "url": "https://open.spotify.com/album/4ltDXZWMsobll9mj0ogUrb"
-      },
-      "artists": [
-        {
-          "name": "Los Valedores de la Sierra",
-          "url": "https://open.spotify.com/artist/78gn565x9ST44fKZEuOTJy"
-        }
-      ],
-      "duration_ms": 195922,
-      "name": "No Voy a Regresar",
-      "url": "https://open.spotify.com/track/0QQpCnFeMyEIcmkuic0iIT"
-    },
-    {
-      "added_at": "2026-04-10 04:00:50",
-      "album": {
         "name": "Un Abrazo (Versi\u00f3n Regional)",
         "url": "https://open.spotify.com/album/5gwNUXcnQpmaik21UHDS5H"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 238500,
       "name": "Un Abrazo - Versi\u00f3n Regional",
       "url": "https://open.spotify.com/track/0QO0d6FjUjvcb65xu832YQ"
+    },
+    {
+      "added_at": "2026-04-10 04:00:50",
+      "album": {
+        "name": "No Voy a Regresar",
+        "url": "https://open.spotify.com/album/4ltDXZWMsobll9mj0ogUrb"
+      },
+      "artists": [
+        {
+          "name": "Los Valedores de la Sierra",
+          "url": "https://open.spotify.com/artist/78gn565x9ST44fKZEuOTJy"
+        }
+      ],
+      "duration_ms": 195922,
+      "name": "No Voy a Regresar",
+      "url": "https://open.spotify.com/track/0QQpCnFeMyEIcmkuic0iIT"
     },
     {
       "added_at": "2026-04-10 04:00:50",
@@ -675,22 +675,6 @@
     {
       "added_at": "2026-04-10 04:00:50",
       "album": {
-        "name": "El Hielo Est\u00e1 Quemando",
-        "url": "https://open.spotify.com/album/6sIF5BI4afDsFPidOpz7mQ"
-      },
-      "artists": [
-        {
-          "name": "Erika Vidrio",
-          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
-        }
-      ],
-      "duration_ms": 189884,
-      "name": "El Hielo Est\u00e1 Quemando",
-      "url": "https://open.spotify.com/track/4Rl2jgJ9QCf0gWCnMUU9uj"
-    },
-    {
-      "added_at": "2026-04-10 04:00:50",
-      "album": {
         "name": "Bailando De A Cart\u00f3n",
         "url": "https://open.spotify.com/album/4CmgokP16E68nxuciNhUbi"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 204850,
       "name": "Bailando De A Cart\u00f3n",
       "url": "https://open.spotify.com/track/3MxMDt7U7YlJeco6rROJ7k"
+    },
+    {
+      "added_at": "2026-04-10 04:00:50",
+      "album": {
+        "name": "El Hielo Est\u00e1 Quemando",
+        "url": "https://open.spotify.com/album/6sIF5BI4afDsFPidOpz7mQ"
+      },
+      "artists": [
+        {
+          "name": "Erika Vidrio",
+          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
+        }
+      ],
+      "duration_ms": 189884,
+      "name": "El Hielo Est\u00e1 Quemando",
+      "url": "https://open.spotify.com/track/4Rl2jgJ9QCf0gWCnMUU9uj"
     },
     {
       "added_at": "2026-04-10 04:00:50",
@@ -755,22 +755,6 @@
     {
       "added_at": "2026-04-10 04:00:50",
       "album": {
-        "name": "Esa Perra Ya Me Mordi\u00f3",
-        "url": "https://open.spotify.com/album/0J19wntQXd72hlcOZ7ucnC"
-      },
-      "artists": [
-        {
-          "name": "Erika Vidrio",
-          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
-        }
-      ],
-      "duration_ms": 210592,
-      "name": "Esa Perra Ya Me Mordi\u00f3",
-      "url": "https://open.spotify.com/track/1meWqNTdwoGQXdbizpKOUd"
-    },
-    {
-      "added_at": "2026-04-10 04:00:50",
-      "album": {
         "name": "Popurr\u00ed Vicente Fern\u00e1ndez: L\u00e1stima que seas ajena / Por tu maldito amor / La ley del monte / De qu\u00e9 manera te olvido / Volver, volver",
         "url": "https://open.spotify.com/album/6zbF5fead4qjutspBQKrxW"
       },
@@ -787,18 +771,18 @@
     {
       "added_at": "2026-04-10 04:00:50",
       "album": {
-        "name": "Mi M\u00e9xico Mestizo",
-        "url": "https://open.spotify.com/album/2xQyshk5TRjdAVLonc74gv"
+        "name": "Esa Perra Ya Me Mordi\u00f3",
+        "url": "https://open.spotify.com/album/0J19wntQXd72hlcOZ7ucnC"
       },
       "artists": [
         {
-          "name": "Sant Orozco",
-          "url": "https://open.spotify.com/artist/0ZeCzmxhyIQU8pB2jloBbG"
+          "name": "Erika Vidrio",
+          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
         }
       ],
-      "duration_ms": 146060,
-      "name": "Mi M\u00e9xico Mestizo",
-      "url": "https://open.spotify.com/track/5Rn5XDwuJmzSiqIsDLspyo"
+      "duration_ms": 210592,
+      "name": "Esa Perra Ya Me Mordi\u00f3",
+      "url": "https://open.spotify.com/track/1meWqNTdwoGQXdbizpKOUd"
     },
     {
       "added_at": "2026-04-10 04:00:50",
@@ -819,6 +803,22 @@
     {
       "added_at": "2026-04-10 04:00:50",
       "album": {
+        "name": "Mi M\u00e9xico Mestizo",
+        "url": "https://open.spotify.com/album/2xQyshk5TRjdAVLonc74gv"
+      },
+      "artists": [
+        {
+          "name": "Sant Orozco",
+          "url": "https://open.spotify.com/artist/0ZeCzmxhyIQU8pB2jloBbG"
+        }
+      ],
+      "duration_ms": 146060,
+      "name": "Mi M\u00e9xico Mestizo",
+      "url": "https://open.spotify.com/track/5Rn5XDwuJmzSiqIsDLspyo"
+    },
+    {
+      "added_at": "2026-04-10 04:00:50",
+      "album": {
         "name": "Veracruz",
         "url": "https://open.spotify.com/album/6tCecFMuaL2t6XKMEpaik5"
       },
@@ -835,26 +835,6 @@
       "duration_ms": 222236,
       "name": "Veracruz",
       "url": "https://open.spotify.com/track/3PEV3y8RtnPxU90ACL0SIG"
-    },
-    {
-      "added_at": "2026-04-10 04:00:50",
-      "album": {
-        "name": "Se Me Sigue Olvidando",
-        "url": "https://open.spotify.com/album/0ghyA4LynKnYbejvvWPWFg"
-      },
-      "artists": [
-        {
-          "name": "Grupo Triunfadores",
-          "url": "https://open.spotify.com/artist/74TcxUH2X0cCpOD1uMWzWQ"
-        },
-        {
-          "name": "Posadas",
-          "url": "https://open.spotify.com/artist/5H855iUf9G9bfBIVpVUNCg"
-        }
-      ],
-      "duration_ms": 179566,
-      "name": "Se Me Sigue Olvidando",
-      "url": "https://open.spotify.com/track/61rsUkZSrsaP53mSVEPfWu"
     },
     {
       "added_at": "2026-04-10 04:00:50",
@@ -895,6 +875,26 @@
       "duration_ms": 168493,
       "name": "Inalcanzable",
       "url": "https://open.spotify.com/track/7pVzMxG8AWgqZAbltLxjGB"
+    },
+    {
+      "added_at": "2026-04-10 04:00:50",
+      "album": {
+        "name": "Se Me Sigue Olvidando",
+        "url": "https://open.spotify.com/album/0ghyA4LynKnYbejvvWPWFg"
+      },
+      "artists": [
+        {
+          "name": "Grupo Triunfadores",
+          "url": "https://open.spotify.com/artist/74TcxUH2X0cCpOD1uMWzWQ"
+        },
+        {
+          "name": "Posadas",
+          "url": "https://open.spotify.com/artist/5H855iUf9G9bfBIVpVUNCg"
+        }
+      ],
+      "duration_ms": 179566,
+      "name": "Se Me Sigue Olvidando",
+      "url": "https://open.spotify.com/track/61rsUkZSrsaP53mSVEPfWu"
     },
     {
       "added_at": "2026-04-10 04:00:50",
@@ -987,6 +987,22 @@
     {
       "added_at": "2026-04-10 04:00:50",
       "album": {
+        "name": "Le Voy a Pedir a Dios",
+        "url": "https://open.spotify.com/album/3OqCZhGf702YCmmPtjjGic"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        }
+      ],
+      "duration_ms": 174329,
+      "name": "Le Voy a Pedir a Dios",
+      "url": "https://open.spotify.com/track/410VSzuFrKfWUTwgO6c6Qi"
+    },
+    {
+      "added_at": "2026-04-10 04:00:50",
+      "album": {
         "name": "El Target",
         "url": "https://open.spotify.com/album/0jVQrG7MOjYvKP77Bgp5RQ"
       },
@@ -1007,38 +1023,6 @@
     {
       "added_at": "2026-04-10 04:00:50",
       "album": {
-        "name": "Le Voy a Pedir a Dios",
-        "url": "https://open.spotify.com/album/3OqCZhGf702YCmmPtjjGic"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Aguilar",
-          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
-        }
-      ],
-      "duration_ms": 174329,
-      "name": "Le Voy a Pedir a Dios",
-      "url": "https://open.spotify.com/track/410VSzuFrKfWUTwgO6c6Qi"
-    },
-    {
-      "added_at": "2026-04-10 04:00:50",
-      "album": {
-        "name": "Traigan Las Otras",
-        "url": "https://open.spotify.com/album/2bmqn5pa7iUHPAsB0GW2Vv"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1o Y Freddy",
-          "url": "https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw"
-        }
-      ],
-      "duration_ms": 230806,
-      "name": "Traigan Las Otras",
-      "url": "https://open.spotify.com/track/5E9oKZMXP4AmH1xqsgeR6I"
-    },
-    {
-      "added_at": "2026-04-10 04:00:50",
-      "album": {
         "name": "Pajarillo",
         "url": "https://open.spotify.com/album/5jH8BDn3zQe2FQ0aZdson7"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 229173,
       "name": "Pajarillo",
       "url": "https://open.spotify.com/track/0ZvSxLlYyF2qEs3PQj5X3w"
+    },
+    {
+      "added_at": "2026-04-10 04:00:50",
+      "album": {
+        "name": "Traigan Las Otras",
+        "url": "https://open.spotify.com/album/2bmqn5pa7iUHPAsB0GW2Vv"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1o Y Freddy",
+          "url": "https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw"
+        }
+      ],
+      "duration_ms": 230806,
+      "name": "Traigan Las Otras",
+      "url": "https://open.spotify.com/track/5E9oKZMXP4AmH1xqsgeR6I"
     },
     {
       "added_at": "2026-04-10 04:00:50",

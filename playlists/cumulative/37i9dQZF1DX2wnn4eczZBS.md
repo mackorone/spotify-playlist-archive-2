@@ -4,7 +4,7 @@
 
 > Indiepop in het Nederlands\. Cover: IDA
 
-319 songs - 16 hr 33 min
+320 songs - 16 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Ik Zet De Toon](https://open.spotify.com/track/474F96iGzUsZnx5KcWfR1U) | [\(...\) Centraal](https://open.spotify.com/artist/4qMeDxDec29mBmicnpyiq2) | [Ik Zet De Toon](https://open.spotify.com/album/77wFpa6zVyGbMFDcJesvmF) | 3:27 | 2024-06-26 | 2024-09-13 |
 | [In De Steek](https://open.spotify.com/track/2PxSFsy3GGJzLDPF4cVkDj) | [IDA](https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN) | [In De Steek](https://open.spotify.com/album/2Jvbvn7AR50xO9qSSIrkNw) | 2:48 | 2025-12-01 | 2026-02-03 |
 | [In Dit Huis](https://open.spotify.com/track/03oSvQ8rmgc8ex4iFZZDOq) | [Luminar](https://open.spotify.com/artist/4XVWcEp6zOQScLQZl4fCsT) | [In Dit Huis](https://open.spotify.com/album/5wbhjYGbfNoXI36vX7MYkX) | 3:18 | 2024-06-26 | 2024-11-15 |
+| [In NL Mag Je Een Vrouw Slaan](https://open.spotify.com/track/7FxAlqztuui1tcixeLCq0n) | [Alice Olsthoorn](https://open.spotify.com/artist/1KyUq6iWtqdflrTHwOrnOA) | [In NL Mag Je Een Vrouw Slaan](https://open.spotify.com/album/3q5dNlndDVXzfvulgjpbRe) | 2:30 | 2026-04-09 |  |
 | [Interessant](https://open.spotify.com/track/2en7wZ9UHVa2tlZeb8itZi) | [Ploegendienst](https://open.spotify.com/artist/2aJUvAtem0t0zRKxJsRoea), [Spinvis](https://open.spotify.com/artist/1Vxc40v4VtLpSWTF2bn8Y4) | [Interessant](https://open.spotify.com/album/05KQqX6QcSxntWgHpfYG6d) | 2:16 | 2024-06-26 | 2024-09-13 |
 | [Intergeneratie \- Single Edit](https://open.spotify.com/track/21JMJOw8TTaUkiBjTXuMLo) | [Lucky Fonz III](https://open.spotify.com/artist/7A6JmzQ1VLKqqLQGlBc1Hm) | [Intergeneratie](https://open.spotify.com/album/5D5UDX6XptnLPrzfDZx29w) | 2:42 | 2026-01-26 | 2026-03-25 |
 | [Is dit echt](https://open.spotify.com/track/3qQcJi8WU1MS5xukw61j8j) | [Merle](https://open.spotify.com/artist/6y2VqVMyiZAAQpA4lSCBu0) | [Is dit echt](https://open.spotify.com/album/4eLuerkEYnJ6z69SYvBhVi) | 2:55 | 2025-05-26 | 2025-09-27 |
@@ -295,7 +296,7 @@
 | [Waar Ontmoet Jij De Maan?](https://open.spotify.com/track/0BgXjzIyAnLf54F5hkgSJZ) | [Meetsysteem](https://open.spotify.com/artist/2Dsv89oyAH1efJDlgDcXlm), [Pelumi Adejumo](https://open.spotify.com/artist/5KzL65Y4YjGMLbCewSkstC) | [Gekleed In Donker, Ze Vroegen Niks](https://open.spotify.com/album/0pk53p781JhLnHXtXjt2wJ) | 5:38 | 2025-05-16 | 2025-07-19 |
 | [Waarom Ik Zo Ben](https://open.spotify.com/track/1fmX3SAnzqe1UqUbnwn3SR) | [Merle](https://open.spotify.com/artist/6y2VqVMyiZAAQpA4lSCBu0) | [Waarom Ik Zo Ben](https://open.spotify.com/album/1z55auGHkjSdETH4YJKdud) | 2:00 | 2025-04-11 | 2026-02-27 |
 | [Was Het Nou Maar Zo](https://open.spotify.com/track/16109XiqzxPp5UrwFTB285) | [Politie Warnsveld](https://open.spotify.com/artist/7dknEQKM1f3bOMXN1pmoqe) | [Was Het Nou Maar Zo](https://open.spotify.com/album/4Qu9jV13GeXFLgSr7Voada) | 3:14 | 2026-03-19 |  |
-| [Water](https://open.spotify.com/track/0Q7FWCLgqatwSWma0K3afr) | [Vic Willems](https://open.spotify.com/artist/0StW0SKh1kJo8Myzc8ZjCX), [Denise Breevaart](https://open.spotify.com/artist/7a7QUAAZArOW20p34t9nhS) | [Ook De Miezer](https://open.spotify.com/album/40xY7z7fbX1drEWKz5y5CQ) | 4:00 | 2026-03-19 |  |
+| [Water](https://open.spotify.com/track/0Q7FWCLgqatwSWma0K3afr) | [Vic Willems](https://open.spotify.com/artist/0StW0SKh1kJo8Myzc8ZjCX), [Denise Breevaart](https://open.spotify.com/artist/7a7QUAAZArOW20p34t9nhS) | [Ook De Miezer](https://open.spotify.com/album/40xY7z7fbX1drEWKz5y5CQ) | 4:00 | 2026-03-19 | 2026-04-14 |
 | [Wauw](https://open.spotify.com/track/2Pqh5BrKly0mN6uvavP6Xm) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [Diep In De Nacht \(Original Soundtrack\)](https://open.spotify.com/album/1Alx3D8sFOF2APdvn2XMHu) | 1:54 | 2025-03-28 | 2025-09-16 |
 | [We Doen Er Allemaal Aan Mee](https://open.spotify.com/track/6bOIf6PY3dHknq5RzWxSbe) | [SIM—OJ](https://open.spotify.com/artist/5iTVV4xiBCFr1hLJ1O98GQ), [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [We Doen Er Allemaal Aan Mee](https://open.spotify.com/album/6pu4TsYK4brCRRwTWkiN4z) | 2:51 | 2024-06-26 | 2024-10-10 |
 | [We Hebben De Tijd](https://open.spotify.com/track/6YbyOC4jqn7P9bsIJWdVSq) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Noodzakelijk Verdriet](https://open.spotify.com/album/2K7gv2r8UMcEbp88ytO12o) | 2:32 | 2024-06-26 | 2024-10-23 |

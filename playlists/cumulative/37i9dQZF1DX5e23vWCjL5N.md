@@ -4,7 +4,7 @@
 
 > Punchline, storytelling, rap italiano\. "Dio Esiste" di Shiva in prima posizione, un brano unico per capire il suo nuovo album.
 
-402 songs - 20 hr 27 min
+403 songs - 20 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -332,6 +332,7 @@
 | [RITRATTI](https://open.spotify.com/track/7BqLuvKFXttJNDp7ErJXtn) | [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [RITRATTI](https://open.spotify.com/album/6ABkTNfPckRX79hkmCV92H) | 3:11 | 2025-10-09 | 2025-12-12 |
 | [Roc\-A\-Fella](https://open.spotify.com/track/1IM2cqFHLUDSpgTZmytUfQ) | [2Rari](https://open.spotify.com/artist/70WMQrrPQeYY9JaPVx1nWf) | [Roc\-A\-Fella](https://open.spotify.com/album/1FGzWu6MVqwbwJzCUv1YkJ) | 1:54 | 2025-08-28 | 2025-09-12 |
 | [Roccia](https://open.spotify.com/track/6eLSWVOHrTzWeJkBzzgS3h) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7) | [Roccia](https://open.spotify.com/album/0PH4e4zlC3tF7PgzpsSliB) | 3:00 | 2025-01-30 | 2025-04-11 |
+| [ROSSO COME IL FANGO](https://open.spotify.com/track/7d8hSEH3UBc0phpisP1fh9) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [ROSSO COME IL FANGO](https://open.spotify.com/album/1lxCspGT29F9wNy6dI9bKe) | 2:50 | 2026-04-13 |  |
 | [RUDE BOYS](https://open.spotify.com/track/3LBGbIsWxbjj7ujeigCD14) | [Marte](https://open.spotify.com/artist/3IWdXZamAg5bhIa0KyRBNb) | [METAMORFOSI](https://open.spotify.com/album/1SPhCDB44Mgx1lEbdMnIKm) | 2:21 | 2026-03-19 | 2026-04-10 |
 | [S.A.L.M.O.](https://open.spotify.com/track/2YZkw3wc0uDMSOnJaIXykX) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [Midnite \(Deluxe Version\)](https://open.spotify.com/album/1gjwWKqjQMhi5OvWG38ZEW) | 3:55 | 2022-07-15 | 2024-04-19 |
 | [S.A.L.M.O.](https://open.spotify.com/track/4kpAz34vx3pPPGaKdD3j6Q) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [Midnite \(Deluxe Version\)](https://open.spotify.com/album/0d0xhfyP9VIZ8V9IsyvUdg) | 3:55 | 2022-04-15 | 2024-08-30 |

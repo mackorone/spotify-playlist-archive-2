@@ -4,7 +4,7 @@
 
 > The best in South African and international R&B\. Cover: Isaiah Falls
 
-633 songs - 1 day 10 hr 6 min
+634 songs - 1 day 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,6 +258,7 @@
 | [I'm Not Psycho](https://open.spotify.com/track/74WJDEJkbHbZGoADMw10I5) | [Nanette](https://open.spotify.com/artist/3A0q16ucjDcK0IhftrLYA8) | [I'm Not Psycho](https://open.spotify.com/album/6rq02kHQ14i9Goruy0dULE) | 4:10 | 2025-06-27 | 2025-08-15 |
 | [iBanga](https://open.spotify.com/track/71FOt5WJ7PxdnO2EzpoFEq) | [Sakhile](https://open.spotify.com/artist/24q1SC842cNItRb6BYyCA4) | [iBanga](https://open.spotify.com/album/1NgsdlA5tzaN6iybzRy0mS) | 3:34 | 2026-02-13 | 2026-02-20 |
 | [IBIZA](https://open.spotify.com/track/0yzXQ1yTjxKTtUc28XFBPL) | [Nnashe](https://open.spotify.com/artist/5o0lTomGzanpzoNLZg7mDu), [Jiggy Stapes](https://open.spotify.com/artist/1AALbjlavmdWKN8J1CLsMF) | [IBIZA](https://open.spotify.com/album/1WvongU8fEccauGewV5MS7) | 4:00 | 2024-04-18 | 2024-07-12 |
+| [idea 1](https://open.spotify.com/track/3ZTKg748vW7Zrll3wzwjJy) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [idea 1](https://open.spotify.com/album/0d0V3ranIJdJ0RjSo4Q7Qm) | 3:25 | 2026-04-13 |  |
 | [ILAH'S DREAM](https://open.spotify.com/track/12IHcVx02kJPOE0uDYobp2) | [CLUB VALLEY](https://open.spotify.com/artist/0QA1gqKpLcVh4poXeglSHn) | [LIFE AS YOU KNOW IT, THE BEST OF LUCK AND THE WORST OF TIMES](https://open.spotify.com/album/738x96kICIYTdlC3k1UbiP) | 4:05 | 2025-06-13 | 2025-06-20 |
 | [ilikeyou](https://open.spotify.com/track/33t6lb3izTuZthotlhHPPq) | [Una Rams](https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS) | [ilikeyou](https://open.spotify.com/album/5uYm2LLYDmiNZ1KzlJomKZ) | 3:33 | 2024-02-22 | 2024-05-10 |
 | [Imimangaliso](https://open.spotify.com/track/1M7j3BdQiqzK30LehjOFDN) | [Lia Butler](https://open.spotify.com/artist/5OKv9ZYvL5vY2slfYqRYYG) | [Imimangaliso](https://open.spotify.com/album/2i1gn2wnib8HBe6J701ZgN) | 2:51 | 2024-10-03 | 2025-07-25 |
@@ -354,7 +355,7 @@
 | [Mbuzi](https://open.spotify.com/track/6jmELmAu5xIfRAaaOsyDat) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw) | [Mbuzi](https://open.spotify.com/album/0gNuPgiVwa6B0fWQqj8ELm) | 3:09 | 2025-04-24 | 2025-06-28 |
 | [Me & U](https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Me & U](https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa) | 3:12 | 2024-02-08 | 2025-03-01 |
 | [Me Ever After \- Radio Edit](https://open.spotify.com/track/4PEk5cLBvSZ3WYFemESNB3) | [MOE.](https://open.spotify.com/artist/0OKOM7jY8TkrnCO9lU9U9m) | [Me Ever After \(Radio Edit\)](https://open.spotify.com/album/4UrkVTgWFpfVQZ7YMZtxSK) | 4:22 | 2023-10-12 | 2023-10-20 |
-| [me u & pride](https://open.spotify.com/track/0H0Zs9VdBSKqRIJGBpLbY4) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [since yall say ion drop enough](https://open.spotify.com/album/4qLTi34aG7nh2CkOZ5fhPU) | 3:19 | 2025-05-01 |  |
+| [me u & pride](https://open.spotify.com/track/0H0Zs9VdBSKqRIJGBpLbY4) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [since yall say ion drop enough](https://open.spotify.com/album/4qLTi34aG7nh2CkOZ5fhPU) | 3:19 | 2025-05-01 | 2026-04-14 |
 | [Me, Myself and I](https://open.spotify.com/track/3pxJuMLjNPtiC0fX8EHFlF) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Dangerously In Love](https://open.spotify.com/album/06v9eHnqhMK2tbM2Iz3p0Y) | 5:01 | 2025-02-13 | 2025-03-01 |
 | [Members Only \(feat\. PARTYNEXTDOOR\)](https://open.spotify.com/track/24FUBxaAYSBlWsbSnEzDcn) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:37 | 2023-10-12 | 2024-01-26 |
 | [Mi Amor](https://open.spotify.com/track/1GBk5m0nHSV2nwWv0fxpzA) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd), [Le Mav](https://open.spotify.com/artist/59MU62wyOLf8FlV7l8fewL) | [Mi Amor](https://open.spotify.com/album/0PJi5AejTSG6WN9JvqeMds) | 1:57 | 2024-10-03 | 2025-02-07 |

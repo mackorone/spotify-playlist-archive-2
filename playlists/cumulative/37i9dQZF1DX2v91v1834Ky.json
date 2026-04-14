@@ -401,6 +401,24 @@
     },
     {
       "album": {
+        "name": "The Uplift Mofo Party Plan",
+        "url": "https://open.spotify.com/album/3rHJQrfEcBeSaLPuLwKR6F"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "date_added": "2023-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233760,
+      "name": "Fight Like A Brave",
+      "url": "https://open.spotify.com/track/6NeRpRTcFftvt3j1vF4Pcw"
+    },
+    {
+      "album": {
         "name": "Five Lessons Learned",
         "url": "https://open.spotify.com/album/0fpJZ5vCKAfd2caUuFEit6"
       },
@@ -934,7 +952,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 198160,
       "name": "Pretty Vacant",
       "url": "https://open.spotify.com/track/2mKj8Em0GLFu8I78yM1CfU"

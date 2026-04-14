@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 
 > Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: Sena Şahin
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,263 likes - 88 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,269 likes - 88 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 | 20 | [IMMIGRANT](https://open.spotify.com/track/7v0EMKurDGtFIaPHbGwYj4) | [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz) | [IMMIGRANT](https://open.spotify.com/album/5jyBsN5OOkki6BXjaLXDEQ) | 1:32 |
 | 21 | [Sağ Salim \- Akustik](https://open.spotify.com/track/3OzPkCUwsCwqvpMNNajUCl) | [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [Sağ Salim](https://open.spotify.com/album/6nRm5MAc4oXoNX9xmFv7zC) | 3:39 |
 | 22 | [Kırıla Kırıla](https://open.spotify.com/track/22XwtAe5dCdULjEFTIJWn3) | [Neşe Karaböcek](https://open.spotify.com/artist/2LyOwgMY8RSQU5iK9rHj0B) | [Kırıla Kırıla](https://open.spotify.com/album/26f3jxmkQR81gG9i3vEakD) | 3:35 |
-| 23 | [Seni Sevmediğim Yalan \(Selami Şahin Şarkıları 3\)](https://open.spotify.com/track/4xcW1LnfYet8lL6ME7618o) | [Melek Mosso](https://open.spotify.com/artist/5IAxUWLiTMsvc1oWPrczNj) | [Seni Sevmediğim Yalan \(Selami Şahin Şarkıları 3\)](https://open.spotify.com/album/51Ix0ho67Mjeq49FW7DCcd) | 4:43 |
+| 23 | [Seni Sevmediğim Yalan](https://open.spotify.com/track/4xcW1LnfYet8lL6ME7618o) | [Melek Mosso](https://open.spotify.com/artist/5IAxUWLiTMsvc1oWPrczNj), [Selami Şahin](https://open.spotify.com/artist/4EBYDiIrM8szoEusJsTGak) | [Seni Sevmediğim Yalan](https://open.spotify.com/album/51Ix0ho67Mjeq49FW7DCcd) | 4:43 |
 | 24 | [Yaralı \- Akustik](https://open.spotify.com/track/7HAEXawGWps4JRgN8x0r3O) | [Sena Şahin](https://open.spotify.com/artist/40VwjQ6yxDV90bjbDU124W) | [Yaralı \(Akustik\)](https://open.spotify.com/album/0Gy6wiQb8QPDWrAKNOrqpf) | 3:16 |
 | 25 | [Fade Out](https://open.spotify.com/track/2b9kdkDPsNWn6rpqHEOebt) | [Melis Kar](https://open.spotify.com/artist/4hdeFgoe7zQEJWXVIAm2yj) | [Fade Out](https://open.spotify.com/album/7dEstFkkfZGw4E3c5RqLt1) | 2:51 |
 | 26 | [yerde miyim](https://open.spotify.com/track/6GmQJuXwy54yFlIFAVhGsK) | [TUANA](https://open.spotify.com/artist/2FkaZzzDTwnz1l1mK9DoT6) | [yerde miyim](https://open.spotify.com/album/0udR9cLXIQ71YcpuJxoUE8) | 3:09 |
@@ -95,6 +95,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 | 85 | [Tuttu Ellerimi](https://open.spotify.com/track/5LXMvKI2mCWjg7tbA7yHis) | [Ceren Hocaoğlu](https://open.spotify.com/artist/1SR1sF3sCRJb6xR6tl99hA) | [Tuttu Ellerimi](https://open.spotify.com/album/1Coq8nrzfSUs1zclnuq5Wm) | 2:20 |
 | 86 | [Başı Bağlı](https://open.spotify.com/track/3IHFikNS50ACvnLuVmEE0G) | [Nur Bal](https://open.spotify.com/artist/4C0FBerSEmtJZBHN3knRmE) | [Başı Bağlı](https://open.spotify.com/album/2uQZJOSL2LkSMfs67RuDwi) | 2:13 |
 | 87 | [Işıklar Yanar](https://open.spotify.com/track/6mpqBoqQ4rsxtdZGbyXpCp) | [Rüya Ersavcı](https://open.spotify.com/artist/057ReRdRcnTRIYOYOHM3ns) | [Işıklar Yanar](https://open.spotify.com/album/7pQq3MzyzSQxgPabrjtAxt) | 3:22 |
-| 88 | [Aşkın Güzelliği](https://open.spotify.com/track/2XlyEH3P1er4ydCzBrP3bV) | [Melike Demirağ](https://open.spotify.com/artist/2k7VfpIwa6iKCz1Xt4PxHD) | [Aşkın Güzelliği](https://open.spotify.com/album/2PHvHHSrDNt6fuUBYc8B4n) | 3:03 |
+| 88 | [Aşkın Güzelliği](https://open.spotify.com/track/2XlyEH3P1er4ydCzBrP3bV) | [Melike Demirağ](https://open.spotify.com/artist/2s6QqZySEQ9hVsqe59BqAa) | [Aşkın Güzelliği](https://open.spotify.com/album/2PHvHHSrDNt6fuUBYc8B4n) | 3:03 |
 
 Snapshot ID: `AAAAAFIoosWcagS2dj7IfNO46K3ZvoG3`

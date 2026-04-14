@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbGYZ9Pq4TH.md) - [plain]
 
 > Le canzoni d'amore italiane più romantiche di sempre ❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,199 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,191 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,12 +48,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbGYZ9Pq4TH.md) - [plain]
 | 38 | [Il Regalo Più Grande](https://open.spotify.com/track/35eRQZmxwjgn7mQrsmtA4f) | [Tiziano Ferro](https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m) | [Alla Mia Età](https://open.spotify.com/album/3N4MScsa0qCfg0ffZVl7wj) | 3:48 |
 | 39 | [Stanza Singola \(feat\. Tommaso Paradiso\)](https://open.spotify.com/track/23hpOtox5sIuRqVBVVJxsO) | [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc), [Tommaso Paradiso](https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc) | [Stanza Singola](https://open.spotify.com/album/5f2LuFGKudyDDp9d93Qvvc) | 3:16 |
 | 40 | [Guasto D'Amore](https://open.spotify.com/track/4CQNELF3U3gyNcI6sLr6yK) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [Guasto D'Amore](https://open.spotify.com/album/1CUZTsdUtnhtirsffXGMX7) | 3:20 |
-| 41 | [Una finestra tra le stelle](https://open.spotify.com/track/7f7xRKukld8LH7aVAhJTQG) | [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [Splende](https://open.spotify.com/album/7w6pXtT0mOGu4eQtrwXNJX) | 3:31 |
-| 42 | [Mille giorni di te e di me](https://open.spotify.com/track/6eLBzWfMCfir6mOvBQfrrr) | [Claudio Baglioni](https://open.spotify.com/artist/5zBAb4P2NoTps0shbgZvgj) | [Oltre](https://open.spotify.com/album/0ZCmePlwPAMoB0SHk1fGvP) | 5:36 |
+| 41 | [Mille giorni di te e di me](https://open.spotify.com/track/6eLBzWfMCfir6mOvBQfrrr) | [Claudio Baglioni](https://open.spotify.com/artist/5zBAb4P2NoTps0shbgZvgj) | [Oltre](https://open.spotify.com/album/0ZCmePlwPAMoB0SHk1fGvP) | 5:36 |
+| 42 | [Una finestra tra le stelle](https://open.spotify.com/track/7f7xRKukld8LH7aVAhJTQG) | [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [Splende](https://open.spotify.com/album/7w6pXtT0mOGu4eQtrwXNJX) | 3:31 |
 | 43 | [L'amore è](https://open.spotify.com/track/0iOHkI1AyDXfDeoXEFaP2e) | [Enrico Nigiotti](https://open.spotify.com/artist/4Umo1uO9VemTgnkjeUhx8c) | [L'amore è](https://open.spotify.com/album/38KfDURRSexb9tA6Ll5ZT1) | 3:44 |
 | 44 | [Unica](https://open.spotify.com/track/0LcyAWgNU4vk3Sn1DNtifk) | [Antonello Venditti](https://open.spotify.com/artist/3hYLJPJuDyblFKersEaFd6) | [Unica](https://open.spotify.com/album/2gJy8l07yFCDvGnscXyl9F) | 3:54 |
-| 45 | [A Te](https://open.spotify.com/track/0pVSpAnjpnqywmPZnOISiv) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi) | [Safari](https://open.spotify.com/album/4tp7nwTFlAwtgHhJiEnilK) | 4:24 |
-| 46 | [Fuoco nel fuoco](https://open.spotify.com/track/5U61t7csH5tQmOEp74AkoM) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Stilelibero](https://open.spotify.com/album/110QUEiOQGYeEZYPjtOOl5) | 4:02 |
+| 45 | [Fuoco nel fuoco](https://open.spotify.com/track/5U61t7csH5tQmOEp74AkoM) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Stilelibero](https://open.spotify.com/album/110QUEiOQGYeEZYPjtOOl5) | 4:02 |
+| 46 | [A Te](https://open.spotify.com/track/0pVSpAnjpnqywmPZnOISiv) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi) | [Safari](https://open.spotify.com/album/4tp7nwTFlAwtgHhJiEnilK) | 4:24 |
 | 47 | [Fiore Di Maggio](https://open.spotify.com/track/2pWzPQ2lhuEE2sb3aPKMHX) | [Fabio Concato](https://open.spotify.com/artist/71tUraH5ODniYOmjxfc1za) | [Fabio Concato](https://open.spotify.com/album/745henjeFTHTYiBy7P3Vra) | 3:53 |
 | 48 | [La donna cannone](https://open.spotify.com/track/2T2t1DXwzdilKF3BQPHREo) | [Francesco De Gregori](https://open.spotify.com/artist/16FJYC4FqKhZXiXIzMI4ul) | [La Donna Cannone](https://open.spotify.com/album/7COQBoeP7bBHykCpFbdpR2) | 4:39 |
 | 49 | [I giardini di marzo \- Remastered](https://open.spotify.com/track/5odtVIhEujejNnxSJCgpCa) | [Lucio Battisti](https://open.spotify.com/artist/2caOYPej26UoQOyFnzXW3G) | [Umanamente uomo: il sogno](https://open.spotify.com/album/4eO6FJ1u3UkTlDJJGVOd1Z) | 5:31 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbGYZ9Pq4TH.md) - [plain]
 | 72 | [Il mondo prima di te](https://open.spotify.com/track/0qM6TGkkinhKFllbcRfL8u) | [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [Bye Bye](https://open.spotify.com/album/0pRj77dL3BMds24RymNgmv) | 3:38 |
 | 73 | [Svegliarsi la mattina](https://open.spotify.com/track/0FhpzL0BoqEYsT6k2Wb9AV) | [Zero Assoluto](https://open.spotify.com/artist/3bf7Y2it29DeOjXpIibCOe) | [Appena prima di partire](https://open.spotify.com/album/76c8rMt8AHuavJA1pQfWLB) | 3:43 |
 | 74 | [Albachiara](https://open.spotify.com/track/53MYtv4tzLYg1hbu13Qbc0) | [Vasco Rossi](https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65) | [Albachiara](https://open.spotify.com/album/5MLtSbanLmt0QLEMKgqLD7) | 4:05 |
-| 75 | [E Ti Vengo A Cercare \- Remastered 2008](https://open.spotify.com/track/12SccVj2Jqibxc1zRuUzTC) | [Franco Battiato](https://open.spotify.com/artist/4lianjyuR1tqf6oUX8kjrZ) | [Fisiognomica \(2008 Remastered Edition\)](https://open.spotify.com/album/4sWf0wkRfi49tW4NLxdLj2) | 3:52 |
-| 76 | [Del verde](https://open.spotify.com/track/5jT6gl92pmDlKy9689oZSX) | [Calcutta ](https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r) | [Mainstream \(Deluxe Edition\)](https://open.spotify.com/album/11dh7pT3FRrGkI3TXl0e4k) | 3:48 |
+| 75 | [Del verde](https://open.spotify.com/track/5jT6gl92pmDlKy9689oZSX) | [Calcutta ](https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r) | [Mainstream \(Deluxe Edition\)](https://open.spotify.com/album/11dh7pT3FRrGkI3TXl0e4k) | 3:48 |
+| 76 | [E Ti Vengo A Cercare \- Remastered 2008](https://open.spotify.com/track/12SccVj2Jqibxc1zRuUzTC) | [Franco Battiato](https://open.spotify.com/artist/4lianjyuR1tqf6oUX8kjrZ) | [Fisiognomica \(2008 Remastered Edition\)](https://open.spotify.com/album/4sWf0wkRfi49tW4NLxdLj2) | 3:52 |
 | 77 | [Margherita](https://open.spotify.com/track/3OmkSLoCJEX505kQOZJg1K) | [Riccardo Cocciante](https://open.spotify.com/artist/7iZC2I6gz8gI0BLe2boBZR) | [Concerto Per Margherita](https://open.spotify.com/album/5cXd8lH3e53AtK7VXpA1Pe) | 4:30 |
 | 78 | [Sei nell'anima](https://open.spotify.com/track/6shzlUkm7OcnoO4guEiGJ8) | [Gianna Nannini](https://open.spotify.com/artist/0h0p7RkMjCUMdcf0nXmHjX) | [Grazie](https://open.spotify.com/album/2htq51kTRL2dwMxa2mBfJi) | 4:30 |
 | 79 | [D'improvviso](https://open.spotify.com/track/4ykkHvzEE45AlcUq6vkVW6) | [Lorenzo Fragola](https://open.spotify.com/artist/0tTS475qIqv3KXYZMXjsYy) | [Zero Gravity](https://open.spotify.com/album/0FxEbIEYdmAZ7u2oDB0Z4P) | 3:29 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbGYZ9Pq4TH.md) - [plain]
 | 91 | [Tikibombom](https://open.spotify.com/track/4JNT4VElmvNmJaQUhwPzg9) | [Levante](https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G) | [Magmamemoria MMXX \(Deluxe Edition\)](https://open.spotify.com/album/0QMZ4b8IHNqUtBuhlUToZr) | 3:23 |
 | 92 | [Chiaro Di Luna](https://open.spotify.com/track/6t4XT3FQGdB7EjqvfAahNx) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi) | [Oh, Vita!](https://open.spotify.com/album/3Rmh8a4XhtaVz2J3sLNkTK) | 3:59 |
 | 93 | [Come Nelle Favole](https://open.spotify.com/track/71LtXfhnWA7kR8Ntk1VE8R) | [Vasco Rossi](https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65) | [VASCONONSTOP](https://open.spotify.com/album/1UegELBIi5854L79kswXuE) | 4:13 |
-| 94 | [Posso \(feat\. Max Gazzé\)](https://open.spotify.com/track/5N0nmOmc0MqPZTYKw4fVV6) | [Carl Brave](https://open.spotify.com/artist/29nrwultxQ8jENVmXoyMqK), [Max Gazzè](https://open.spotify.com/artist/1h5O32I1o0VOnpLmKXLfRa) | [Notti Brave \(After\)](https://open.spotify.com/album/5igFxzbfH6oTb3vRFvNK5w) | 3:58 |
-| 95 | [Grande, grande, grande \- 2001 Remaster](https://open.spotify.com/track/7djxemkRcsWAqrWTye4Vxt) | [Mina](https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy) | [Mina \(2001 Remaster\)](https://open.spotify.com/album/60BdC9E02JUjXK5KaycUWg) | 4:00 |
+| 94 | [Grande, grande, grande \- 2001 Remaster](https://open.spotify.com/track/7djxemkRcsWAqrWTye4Vxt) | [Mina](https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy) | [Mina \(2001 Remaster\)](https://open.spotify.com/album/60BdC9E02JUjXK5KaycUWg) | 4:00 |
+| 95 | [Posso \(feat\. Max Gazzé\)](https://open.spotify.com/track/5N0nmOmc0MqPZTYKw4fVV6) | [Carl Brave](https://open.spotify.com/artist/29nrwultxQ8jENVmXoyMqK), [Max Gazzè](https://open.spotify.com/artist/1h5O32I1o0VOnpLmKXLfRa) | [Notti Brave \(After\)](https://open.spotify.com/album/5igFxzbfH6oTb3vRFvNK5w) | 3:58 |
 | 96 | [Una Su 1.000.000](https://open.spotify.com/track/3O96lY6J3wxMEc8yoB844j) | [Alex Britti](https://open.spotify.com/artist/2cNC9hjjdsMKLv0m2m9p1D) | [La Vasca](https://open.spotify.com/album/2iZYerMKDMcaJiosOSEu3f) | 2:56 |
 | 97 | [Le Tasche Piene Di Sassi](https://open.spotify.com/track/4BenDOqr4Feas8CiWtRyzf) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi) | [Ora \(Deluxe Version\)](https://open.spotify.com/album/7u8aAYprJucEFRmH2l6tJJ) | 3:33 |
 | 98 | [T'appartengo](https://open.spotify.com/track/1PIxiDD82CyJLeB7GteWek) | [Ambra Angiolini](https://open.spotify.com/artist/4tXAwRjj2QRMsEImebS2vG) | [T'appartengo](https://open.spotify.com/album/5pW2d9bppftATKKN8Eq6lO) | 3:26 |
 | 99 | [Mi Parli Piano](https://open.spotify.com/track/6XRe4ft04Skbpbz3TwsenD) | [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX) | [Essere Qui](https://open.spotify.com/album/4eN5SrtLrerdQsvFIo95N9) | 3:24 |
-| 100 | [Polvere](https://open.spotify.com/track/4BtXn7gvRgO2fFn3N7V6xP) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Gira, il mondo gira](https://open.spotify.com/album/5PdqPLG4hUzuLAWUDFaZap) | 2:46 |
+| 100 | [Bruciasse Il Cielo](https://open.spotify.com/track/6abfPlw55MvGAUEpG56R2y) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Bruciasse Il Cielo](https://open.spotify.com/album/287CrEdqq6UiWAMeteSZsk) | 3:57 |
 
 Snapshot ID: `AAAAAFigs3582cbs5i62NQaQ11aaVETp`

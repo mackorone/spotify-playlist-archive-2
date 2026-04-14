@@ -4121,6 +4121,32 @@
     },
     {
       "album": {
+        "name": "OH NO",
+        "url": "https://open.spotify.com/album/5phcg8VzAXIuIONayNmygT"
+      },
+      "artists": [
+        {
+          "name": "Pari Pandher",
+          "url": "https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA"
+        },
+        {
+          "name": "Nabjot",
+          "url": "https://open.spotify.com/artist/3yhsicJ7kTjvsV6fuA72l1"
+        },
+        {
+          "name": "DONNA",
+          "url": "https://open.spotify.com/artist/5uABnMH8F1kFh5Z1iKIm0u"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163636,
+      "name": "OH NO",
+      "url": "https://open.spotify.com/track/4lRyDyR3YkezjCxOoC8lVc"
+    },
+    {
+      "album": {
         "name": "OMG",
         "url": "https://open.spotify.com/album/52dK7gHiMtNksMerWBRq3Z"
       },
@@ -4888,7 +4914,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 230483,
       "name": "Sajna Tu Na Ja",
       "url": "https://open.spotify.com/track/2A2dttM6hhDqxhCUnqvLVB"

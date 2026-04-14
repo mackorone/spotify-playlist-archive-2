@@ -1,6 +1,6 @@
 {
   "description": "de skarpeste knive i dansk musik  \ud83d\udcf8  lucca",
-  "num_followers": 47100,
+  "num_followers": 47103,
   "original_name": "ung kniv ",
   "owner": {
     "name": "Spotify",
@@ -91,6 +91,22 @@
     {
       "added_at": "2026-03-27 09:39:18",
       "album": {
+        "name": "Livet Er For Kort",
+        "url": "https://open.spotify.com/album/2yxKdiluzCssx2saJ4h3NF"
+      },
+      "artists": [
+        {
+          "name": "Kind mod Kind",
+          "url": "https://open.spotify.com/artist/0cc3y7owJCbx8MuYJZI6As"
+        }
+      ],
+      "duration_ms": 170738,
+      "name": "Livet Er For Kort",
+      "url": "https://open.spotify.com/track/6QynJvly6ZcSpcEweJwQEt"
+    },
+    {
+      "added_at": "2026-03-27 09:39:18",
+      "album": {
         "name": "Ur\u00f8rlig (feat. Karoline Mousing)",
         "url": "https://open.spotify.com/album/6qDSXjURvSBcvVzWpIg2SX"
       },
@@ -107,22 +123,6 @@
       "duration_ms": 152714,
       "name": "Ur\u00f8rlig (feat. Karoline Mousing)",
       "url": "https://open.spotify.com/track/5uUkQmXHGBp4Epl9pwv8fp"
-    },
-    {
-      "added_at": "2026-03-27 09:39:18",
-      "album": {
-        "name": "Livet Er For Kort",
-        "url": "https://open.spotify.com/album/2yxKdiluzCssx2saJ4h3NF"
-      },
-      "artists": [
-        {
-          "name": "Kind mod Kind",
-          "url": "https://open.spotify.com/artist/0cc3y7owJCbx8MuYJZI6As"
-        }
-      ],
-      "duration_ms": 170738,
-      "name": "Livet Er For Kort",
-      "url": "https://open.spotify.com/track/6QynJvly6ZcSpcEweJwQEt"
     },
     {
       "added_at": "2026-03-27 09:39:18",
@@ -647,22 +647,6 @@
     {
       "added_at": "2026-03-27 09:39:18",
       "album": {
-        "name": "Stay 4 U",
-        "url": "https://open.spotify.com/album/2YPDu0pGRiGESnixTgFQe7"
-      },
-      "artists": [
-        {
-          "name": "Caius",
-          "url": "https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi"
-        }
-      ],
-      "duration_ms": 184444,
-      "name": "Stay 4 U",
-      "url": "https://open.spotify.com/track/7ic1zj8awFw8dp0uu2VV12"
-    },
-    {
-      "added_at": "2026-03-27 09:39:18",
-      "album": {
         "name": "Frederiksberg All\u00e9",
         "url": "https://open.spotify.com/album/4OCRcpNTnraKNLNRBzaBIb"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 172909,
       "name": "Frederiksberg All\u00e9",
       "url": "https://open.spotify.com/track/3f1DlWjYiewzRCqMcHY8TA"
+    },
+    {
+      "added_at": "2026-03-27 09:39:18",
+      "album": {
+        "name": "Stay 4 U",
+        "url": "https://open.spotify.com/album/2YPDu0pGRiGESnixTgFQe7"
+      },
+      "artists": [
+        {
+          "name": "Caius",
+          "url": "https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi"
+        }
+      ],
+      "duration_ms": 184444,
+      "name": "Stay 4 U",
+      "url": "https://open.spotify.com/track/7ic1zj8awFw8dp0uu2VV12"
     },
     {
       "added_at": "2026-03-27 09:39:18",
@@ -895,6 +895,22 @@
     {
       "added_at": "2026-03-27 09:39:18",
       "album": {
+        "name": "The Way She Says Goodbye",
+        "url": "https://open.spotify.com/album/55Z9H1tbXpvoExNlFG1ShB"
+      },
+      "artists": [
+        {
+          "name": "Emily Bowen",
+          "url": "https://open.spotify.com/artist/4IcbSUnp61Iqco9c8OsTUc"
+        }
+      ],
+      "duration_ms": 165500,
+      "name": "Bye Sofia",
+      "url": "https://open.spotify.com/track/6hSPxHXE1atS2bMY53MPZW"
+    },
+    {
+      "added_at": "2026-03-27 09:39:18",
+      "album": {
         "name": "Upgrade",
         "url": "https://open.spotify.com/album/5W2Ey9dqhjwkG4zxSynNjy"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 176000,
       "name": "If I",
       "url": "https://open.spotify.com/track/1l0d4cUKLLafugiEUSyZdB"
-    },
-    {
-      "added_at": "2026-03-27 09:39:18",
-      "album": {
-        "name": "The Way She Says Goodbye",
-        "url": "https://open.spotify.com/album/55Z9H1tbXpvoExNlFG1ShB"
-      },
-      "artists": [
-        {
-          "name": "Emily Bowen",
-          "url": "https://open.spotify.com/artist/4IcbSUnp61Iqco9c8OsTUc"
-        }
-      ],
-      "duration_ms": 165500,
-      "name": "Bye Sofia",
-      "url": "https://open.spotify.com/track/6hSPxHXE1atS2bMY53MPZW"
     },
     {
       "added_at": "2026-03-27 09:39:18",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2026-03-27 09:39:18",
       "album": {
-        "name": "Lige s\u00e5 fucked som mig",
-        "url": "https://open.spotify.com/album/6hVpbms2YycDjkvHTSagOk"
-      },
-      "artists": [
-        {
-          "name": "Marcus.wav",
-          "url": "https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr"
-        }
-      ],
-      "duration_ms": 150488,
-      "name": "Lige s\u00e5 fucked som mig",
-      "url": "https://open.spotify.com/track/4UFwMCiQUEgF9JgKSsa0Mu"
-    },
-    {
-      "added_at": "2026-03-27 09:39:18",
-      "album": {
         "name": "Waiting For You",
         "url": "https://open.spotify.com/album/1HATJl1qtSHJlHv6W4QGUf"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 168348,
       "name": "Waiting For You",
       "url": "https://open.spotify.com/track/3wpw0J3SJBAKsmqyXKOPuF"
+    },
+    {
+      "added_at": "2026-03-27 09:39:18",
+      "album": {
+        "name": "Lige s\u00e5 fucked som mig",
+        "url": "https://open.spotify.com/album/6hVpbms2YycDjkvHTSagOk"
+      },
+      "artists": [
+        {
+          "name": "Marcus.wav",
+          "url": "https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr"
+        }
+      ],
+      "duration_ms": 150488,
+      "name": "Lige s\u00e5 fucked som mig",
+      "url": "https://open.spotify.com/track/4UFwMCiQUEgF9JgKSsa0Mu"
     },
     {
       "added_at": "2026-03-27 09:39:18",

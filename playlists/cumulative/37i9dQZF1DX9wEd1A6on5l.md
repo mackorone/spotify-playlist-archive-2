@@ -4,7 +4,7 @@
 
 > Get the party started with these Naija bangers!
 
-844 songs - 1 day 15 hr 57 min
+845 songs - 1 day 16 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Bon Appetit](https://open.spotify.com/track/7IhwOLpyScdU97N93CroR5) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL), [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP) | [Bon Appetit](https://open.spotify.com/album/2L5HeE5Gy0YfxmeqQ0jCmM) | 2:32 | 2025-06-09 | 2025-07-29 |
 | [Born Fi Dis](https://open.spotify.com/track/4jL2U9V8qa4aQH4IHQ6hTv) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP) | [Ghetto Vibrations](https://open.spotify.com/album/0HA5iaDr9GyFPnzDEVs1ch) | 2:30 | 2024-04-03 | 2024-05-09 |
 | [Borrow Me Your Baby \(feat\. Falz\)](https://open.spotify.com/track/01AkBgeMy8BSiJuzDl0WXc) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Borrow Me Your Baby \(feat\. Falz\)](https://open.spotify.com/album/56Kv6uvuBbZ2ZqjaZ9vKqs) | 3:08 | 2024-05-31 | 2024-08-26 |
+| [Bother Me \(feat\. Victony\)](https://open.spotify.com/track/2JpcOAR1EGQSxFOVnYCMl0) | [Osé](https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Bother Me \(feat\. Victony\)](https://open.spotify.com/album/7svkXljH25hpPavMawyyb2) | 3:00 | 2026-04-10 |  |
 | [Bounce](https://open.spotify.com/track/1i2TCvURTJo8Oa6ZfIXbEw) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Sanity](https://open.spotify.com/album/7EkD7BdTnfOHdh2nJR4Nry) | 2:20 | 2025-10-08 | 2026-03-17 |
 | [Bout U](https://open.spotify.com/track/3qS4spuVywoeh9uGIpRuQh) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Bout U](https://open.spotify.com/album/27pA2FuPxbf7ukWvLhEvgV) | 2:43 | 2025-04-11 | 2026-01-23 |
 | [Bouwéy](https://open.spotify.com/track/3sxcR3k3ZkNmvmXQB28Qnr) | [1T1](https://open.spotify.com/artist/29DEO5ubNTmLbFSEZDP2we), [Theomaa](https://open.spotify.com/artist/49j7GvUPWXDkBZf3uUwMe6) | [CHORD](https://open.spotify.com/album/7t1nqu0zfrVlPCxukwIxRc) | 2:37 | 2025-03-31 | 2025-06-10 |
@@ -504,7 +505,7 @@
 | [Mamba \(With Bella Shmurda & Seyi Vibez\)](https://open.spotify.com/track/2dyny0cqxTu0hEVLBUMyV2) | [larrylanes](https://open.spotify.com/artist/1YEisn8aVyjibFXhNpO7vI), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Mamba \(With Bella Shmurda & Seyi Vibez\)](https://open.spotify.com/album/2imNyNmpOrJktWi5eQNLY1) | 2:27 | 2024-02-09 | 2024-04-28 |
 | [Man of The Year](https://open.spotify.com/track/4UdDJ77xjH9ru5r5F9kfOG) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Thy Kingdom Come](https://open.spotify.com/album/1EUh0evo2sfC0Y8T0cnPAd) | 2:24 | 2023-06-30 | 2023-09-29 |
 | [Management](https://open.spotify.com/track/4Ivn5yGEU3tRVhMhIjvAVl) | [Smur Lee](https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A), [BIGKHALID](https://open.spotify.com/artist/5xnQJvSHeJkVvYjFhgUIFB) | [Management](https://open.spotify.com/album/7wO7ortMBavUmgj8pEELkq) | 2:35 | 2025-02-12 | 2025-06-22 |
-| [MANY GIRLS](https://open.spotify.com/track/2BEfo1hrO1A8tFyFyiXetE) | [Thisizlondon](https://open.spotify.com/artist/30SVAanrbFS6o0cIVDZ9ta), [BRUME](https://open.spotify.com/artist/0mF9O2cuTxRrGsutiPlcP1) | [MANY GIRLS](https://open.spotify.com/album/2gPRiTdazZWNDu5KjD830t) | 2:59 | 2026-03-20 |  |
+| [MANY GIRLS](https://open.spotify.com/track/2BEfo1hrO1A8tFyFyiXetE) | [Thisizlondon](https://open.spotify.com/artist/30SVAanrbFS6o0cIVDZ9ta), [BRUME](https://open.spotify.com/artist/0mF9O2cuTxRrGsutiPlcP1) | [MANY GIRLS](https://open.spotify.com/album/2gPRiTdazZWNDu5KjD830t) | 2:59 | 2026-03-20 | 2026-04-14 |
 | [Many People](https://open.spotify.com/track/0mfLbIDRH9YJfU3wComro7) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Fuji](https://open.spotify.com/album/1CwSEtADXMks7OtJKKZh7J) | 2:41 | 2025-11-07 | 2026-03-17 |
 | [Marhaba](https://open.spotify.com/track/5FzsdlFgAFN1aSe9YwoN6s) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Marhaba X We Must](https://open.spotify.com/album/2ElVuPg0F7mHNcveABN2Rw) | 2:23 | 2024-09-27 | 2025-04-01 |
 | [Maria](https://open.spotify.com/track/4Tgt15dD8P2m68HYxA8DCG) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Xin Mao](https://open.spotify.com/album/2xBdv4TVpVXG9U8K3om1WQ) | 2:23 | 2024-08-29 | 2025-04-01 |

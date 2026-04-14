@@ -2,9 +2,9 @@
 
 ### [RADAR Türkiye](https://open.spotify.com/playlist/37i9dQZF1DXcND7hNAhMeu)
 
-> Geleceğin seslerini dinle! Kapak: Baran Mengüç x Selin
+> Geleceğin seslerini dinle! Kapak: Öykü Dörter
 
-102 songs - 4 hr 54 min
+104 songs - 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Bağımlıyım Tenine](https://open.spotify.com/track/31kOqM6XzCyKXMxYnhIDF9) | [Ceren Sagu](https://open.spotify.com/artist/4F85cxjAmlT0r7DZKu3ABX) | [Bağımlıyım Tenine](https://open.spotify.com/album/4Muz2oRuw0rh2j0yobqZ6L) | 2:07 | 2024-10-23 |  |
 | [Başka Hikaye](https://open.spotify.com/track/0ZqLQVGJQ3B1zrbXZBYZxM) | [Rana Türkyılmaz](https://open.spotify.com/artist/71B1UV4HrPQk6TdNHM3h9h) | [Başka Hikaye](https://open.spotify.com/album/1Vtn6RCVOJcn3RZ9hP2jo4) | 3:35 | 2025-11-07 |  |
 | [Belki Bi' Gün Anlarsın](https://open.spotify.com/track/0ddXQ4eNqVOr1YacLki5Xa) | [Böyleyken Böyle](https://open.spotify.com/artist/3yLCFdWSpXsvl8rK2INQRH) | [Belki Bi' Gün Anlarsın](https://open.spotify.com/album/4TjIITyVEoaYup0JFmNMjg) | 2:25 | 2024-06-20 | 2024-10-24 |
-| [BELKİ](https://open.spotify.com/track/1oQ1gRCZQw5RGUmCrUcd6D) | [DOU](https://open.spotify.com/artist/2J8Nce1x2zTbkW3RCXCYtn) | [BELKİ](https://open.spotify.com/album/5KDcJ564cJUCIrZiU8BTKk) | 2:16 | 2024-10-23 |  |
+| [BELKİ](https://open.spotify.com/track/1oQ1gRCZQw5RGUmCrUcd6D) | [DOU](https://open.spotify.com/artist/2J8Nce1x2zTbkW3RCXCYtn) | [BELKİ](https://open.spotify.com/album/5KDcJ564cJUCIrZiU8BTKk) | 2:16 | 2024-10-23 | 2026-04-14 |
 | [Beni Anla](https://open.spotify.com/track/0dTusB8JKDynGkqGkgvLPS) | [Rana Türkyılmaz](https://open.spotify.com/artist/71B1UV4HrPQk6TdNHM3h9h) | [Beni Anla](https://open.spotify.com/album/3lG4KrGHKQ0RmZ25Zdo60C) | 4:31 | 2024-10-23 | 2024-12-13 |
 | [beni sen delirttin](https://open.spotify.com/track/3QUTdtNOBOgwvuFazxpyBN) | [Öykü Dörter](https://open.spotify.com/artist/610R56u4V2V2kVtyLenbFA) | [beni sen delirttin](https://open.spotify.com/album/70ETsLDEvUTlcYgJn2Pi4R) | 2:56 | 2024-10-23 |  |
 | [Beni Yanlış Bırak](https://open.spotify.com/track/6wyeHLKjp7guulm1nqBs8X) | [Paptircem](https://open.spotify.com/artist/6c5OFegHscPZXitA884R1b) | [Beni Yanlış Bırak](https://open.spotify.com/album/2cmLNe0FXyf0NVaOrGfhwL) | 4:44 | 2024-06-20 | 2024-10-24 |
@@ -64,7 +64,8 @@
 | [Leyla](https://open.spotify.com/track/5T5pdiWGRinb5OSNsXtAjg) | [Ragıb Narin](https://open.spotify.com/artist/3RcnnVusQQzqEtkvSVKPKg) | [Leyla](https://open.spotify.com/album/4Bq01KF82VjwvIu0vgoT9w) | 2:46 | 2024-06-20 | 2024-10-24 |
 | [Leyla](https://open.spotify.com/track/7io2J4KxxJGudWkyJIb2LI) | [TUANA](https://open.spotify.com/artist/2FkaZzzDTwnz1l1mK9DoT6) | [Leyla](https://open.spotify.com/album/3RgXsvxPagJnfAbnccbMb2) | 3:24 | 2025-09-15 |  |
 | [MELEK MİYİM](https://open.spotify.com/track/0HSj4XkXceHcSiwKcWxc1V) | [Sena Şahin](https://open.spotify.com/artist/40VwjQ6yxDV90bjbDU124W) | [MELEK MİYİM](https://open.spotify.com/album/6UCpFr6aaLjtHSX3GpKCKb) | 2:31 | 2024-06-20 |  |
-| [MERABA](https://open.spotify.com/track/1Z3e9ckGYuIoH6jdvyqMv8) | [KAAN](https://open.spotify.com/artist/73IruPtnQ79QO4CR8Osgyp), [Baran Mengüç](https://open.spotify.com/artist/07eEGn8bSAJF9sUqeTtAmN) | [MERABA](https://open.spotify.com/album/2PxZuvHFvsQwFGb4qD3enP) | 3:04 | 2025-11-07 |  |
+| [MERABA](https://open.spotify.com/track/1Z3e9ckGYuIoH6jdvyqMv8) | [KAAN](https://open.spotify.com/artist/73IruPtnQ79QO4CR8Osgyp), [Baran Mengüç](https://open.spotify.com/artist/07eEGn8bSAJF9sUqeTtAmN) | [MERABA](https://open.spotify.com/album/2PxZuvHFvsQwFGb4qD3enP) | 3:04 | 2025-11-07 | 2026-04-14 |
+| [MUTLU SON](https://open.spotify.com/track/6RMli1QPSWUgw0b1q9goK8) | [Öykü Dörter](https://open.spotify.com/artist/610R56u4V2V2kVtyLenbFA) | [SENDEN ÖNCE BEN KİMDİM](https://open.spotify.com/album/4B9gmTwPxd5qMbTzQc0HDW) | 2:27 | 2026-04-13 |  |
 | [N'aptım Ben Sana?](https://open.spotify.com/track/3yMa3jz5ivK0QrUUlT4Npx) | [Ege Can Sal](https://open.spotify.com/artist/20mkFP4AY47MtOJ39fP0bX) | [N'aptım Ben Sana?](https://open.spotify.com/album/7FTnDptilAIZCpQ2Z6Yqj7) | 2:33 | 2024-06-20 |  |
 | [N'olur Gelsen](https://open.spotify.com/track/7gh5AmydKfR9wfTQOyRZrP) | [üçkuruş](https://open.spotify.com/artist/52j3mRmOcAWQ5BfBAwkoqK) | [N'olur Gelsen](https://open.spotify.com/album/1LRfz2siYTDHkYfZNkGDEr) | 2:48 | 2024-10-23 |  |
 | [NE SENLE NE SENSİZ](https://open.spotify.com/track/5bqI4hBdL3OOW0wMtjA9Fn) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [NE SENLE NE SENSİZ](https://open.spotify.com/album/67KVsFKWwM07Xeg3WOXFCU) | 3:42 | 2024-06-20 |  |
@@ -91,6 +92,7 @@
 | [Unutulur Değil Mi?](https://open.spotify.com/track/5tGp0BntYrg5aVBkUiGqhQ) | [Rana Türkyılmaz](https://open.spotify.com/artist/71B1UV4HrPQk6TdNHM3h9h) | [Unutulur Değil Mi?](https://open.spotify.com/album/16VaDufn3R9KOxKm0xFuRp) | 3:35 | 2024-10-23 | 2025-11-08 |
 | [Uçurumlar](https://open.spotify.com/track/6yORKL9Z81FgAKhES34xmG) | [Ceren Sagu](https://open.spotify.com/artist/4F85cxjAmlT0r7DZKu3ABX) | [Uçurumlar](https://open.spotify.com/album/3OD01SSLj7ve2GLSBjRHzj) | 2:11 | 2024-10-23 | 2024-12-20 |
 | [Vah Benim Halime](https://open.spotify.com/track/3dnN5XUK6g8Pbry58cGhFt) | [Ali Beykant](https://open.spotify.com/artist/4HT1hlLO6xFV13XIP2WbxZ) | [Vah Benim Halime](https://open.spotify.com/album/6WisSxs0WdJKRR2a7FBphn) | 3:14 | 2024-10-23 | 2025-01-10 |
+| [VEDA BUSESİ](https://open.spotify.com/track/0I3tf6OIWLHGPrphkE7v8W) | [Zeki Arkun](https://open.spotify.com/artist/0o370GMjPTWUz6gv8lasfs) | [VEDA BUSESİ](https://open.spotify.com/album/7JI3SLFixTxEybtyqQdtui) | 3:21 | 2026-04-13 |  |
 | [YABANCI](https://open.spotify.com/track/3tkaoklFrXHAlWvdoWhUbY) | [Sena Şahin](https://open.spotify.com/artist/40VwjQ6yxDV90bjbDU124W) | [YABANCI](https://open.spotify.com/album/0YBe2Fk1Q0V7JnmqzzTrnb) | 2:27 | 2024-06-20 | 2024-10-24 |
 | [Yalandan Sevemem](https://open.spotify.com/track/5W4yjjsGVu9BloXJ7b0gaN) | [Ali Beykant](https://open.spotify.com/artist/4HT1hlLO6xFV13XIP2WbxZ) | [Yalandan Sevemem](https://open.spotify.com/album/0WMj5EYi2ywnVgR5xMejAM) | 2:38 | 2024-06-20 | 2024-10-24 |
 | [Yalnızlık Bana Kalan](https://open.spotify.com/track/1MLVv52wh7QmiW0mQEKKuV) | [Paptircem](https://open.spotify.com/artist/6c5OFegHscPZXitA884R1b) | [Büyüklere Ninniler](https://open.spotify.com/album/2zviwzygpyVqqab20KQC5T) | 3:17 | 2024-06-20 | 2024-10-24 |

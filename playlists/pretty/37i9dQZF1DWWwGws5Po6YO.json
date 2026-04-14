@@ -1,6 +1,6 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: Emily A. Sprague",
-  "num_followers": 137747,
+  "num_followers": 137783,
   "original_name": "Women of Ambient",
   "owner": {
     "name": "Spotify",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-04-10 04:00:43",
       "album": {
-        "name": "Vil'na",
-        "url": "https://open.spotify.com/album/5QAfFgm7Tyh0LSEZXii909"
-      },
-      "artists": [
-        {
-          "name": "Natalia Tsupryk",
-          "url": "https://open.spotify.com/artist/3u32k4tGe6y6GiYNBsi0DX"
-        }
-      ],
-      "duration_ms": 284219,
-      "name": "Anti-Drone Nets",
-      "url": "https://open.spotify.com/track/0VzpuT3BU5QRvNzeO8rPES"
-    },
-    {
-      "added_at": "2026-04-10 04:00:43",
-      "album": {
         "name": "Redwood Resonance",
         "url": "https://open.spotify.com/album/5hr45RQZOrpK63LuIP6dgX"
       },
@@ -627,18 +611,18 @@
     {
       "added_at": "2026-04-10 04:00:43",
       "album": {
-        "name": "Exuvie",
-        "url": "https://open.spotify.com/album/5h9qY2VdgrO5zqZW0KB4OR"
+        "name": "Vil'na",
+        "url": "https://open.spotify.com/album/5QAfFgm7Tyh0LSEZXii909"
       },
       "artists": [
         {
-          "name": "No\u00e9mi B\u00fcchi",
-          "url": "https://open.spotify.com/artist/19UxgjmGT8uom3Qjx8CVo6"
+          "name": "Natalia Tsupryk",
+          "url": "https://open.spotify.com/artist/3u32k4tGe6y6GiYNBsi0DX"
         }
       ],
-      "duration_ms": 230377,
-      "name": "beneath form",
-      "url": "https://open.spotify.com/track/00Yaz5X0kVZgjLOulCOc79"
+      "duration_ms": 284219,
+      "name": "Anti-Drone Nets",
+      "url": "https://open.spotify.com/track/0VzpuT3BU5QRvNzeO8rPES"
     },
     {
       "added_at": "2026-04-10 04:00:43",
@@ -659,6 +643,22 @@
       "duration_ms": 312000,
       "name": "Film Still / The Sea",
       "url": "https://open.spotify.com/track/7pDwKh76SxyY1t8a1i0nE6"
+    },
+    {
+      "added_at": "2026-04-10 04:00:43",
+      "album": {
+        "name": "Exuvie",
+        "url": "https://open.spotify.com/album/5h9qY2VdgrO5zqZW0KB4OR"
+      },
+      "artists": [
+        {
+          "name": "No\u00e9mi B\u00fcchi",
+          "url": "https://open.spotify.com/artist/19UxgjmGT8uom3Qjx8CVo6"
+        }
+      ],
+      "duration_ms": 230377,
+      "name": "beneath form",
+      "url": "https://open.spotify.com/track/00Yaz5X0kVZgjLOulCOc79"
     },
     {
       "added_at": "2026-04-10 04:00:43",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-04-10 04:00:43",
       "album": {
-        "name": "Midnight Zone (Original Soundtrack to the Film by Julian Charri\u00e8re)",
-        "url": "https://open.spotify.com/album/7DhQSiWvbpfQXrX9X4hsMq"
-      },
-      "artists": [
-        {
-          "name": "Laurel Halo",
-          "url": "https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl"
-        }
-      ],
-      "duration_ms": 522839,
-      "name": "Oreison",
-      "url": "https://open.spotify.com/track/3VBFITTlOsnEn8TqYsNxX8"
-    },
-    {
-      "added_at": "2026-04-10 04:00:43",
-      "album": {
         "name": "Holotropica",
         "url": "https://open.spotify.com/album/2W4n1zPDKzqGpbMKU21mBu"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 229000,
       "name": "Ubiquitous",
       "url": "https://open.spotify.com/track/6AA44gTSmQ6S2aMUsjd3ZG"
+    },
+    {
+      "added_at": "2026-04-10 04:00:43",
+      "album": {
+        "name": "Midnight Zone (Original Soundtrack to the Film by Julian Charri\u00e8re)",
+        "url": "https://open.spotify.com/album/7DhQSiWvbpfQXrX9X4hsMq"
+      },
+      "artists": [
+        {
+          "name": "Laurel Halo",
+          "url": "https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl"
+        }
+      ],
+      "duration_ms": 522839,
+      "name": "Oreison",
+      "url": "https://open.spotify.com/track/3VBFITTlOsnEn8TqYsNxX8"
     },
     {
       "added_at": "2026-04-10 04:00:43",
@@ -831,6 +831,22 @@
     {
       "added_at": "2026-04-10 04:00:43",
       "album": {
+        "name": "Hrafnamynd",
+        "url": "https://open.spotify.com/album/0JlfmX8k9AhOG1ZdRvkpbc"
+      },
+      "artists": [
+        {
+          "name": "Patricia Wolf",
+          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
+        }
+      ],
+      "duration_ms": 276000,
+      "name": "Huginn and Muninn",
+      "url": "https://open.spotify.com/track/4cfZm3AuwJjZWJ1ZzigeA5"
+    },
+    {
+      "added_at": "2026-04-10 04:00:43",
+      "album": {
         "name": "When We Are Free",
         "url": "https://open.spotify.com/album/1nHvY2jpgYdtaaWs47ADcO"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 187999,
       "name": "In All Things",
       "url": "https://open.spotify.com/track/4oseh0Vifbq2UMID5XSCVP"
-    },
-    {
-      "added_at": "2026-04-10 04:00:43",
-      "album": {
-        "name": "Hrafnamynd",
-        "url": "https://open.spotify.com/album/0JlfmX8k9AhOG1ZdRvkpbc"
-      },
-      "artists": [
-        {
-          "name": "Patricia Wolf",
-          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
-        }
-      ],
-      "duration_ms": 276000,
-      "name": "Huginn and Muninn",
-      "url": "https://open.spotify.com/track/4cfZm3AuwJjZWJ1ZzigeA5"
     },
     {
       "added_at": "2026-04-10 04:00:43",
@@ -951,6 +951,26 @@
     {
       "added_at": "2026-04-10 04:00:43",
       "album": {
+        "name": "When It Was",
+        "url": "https://open.spotify.com/album/1k0sBqgrSG6x5f4BXpSyFY"
+      },
+      "artists": [
+        {
+          "name": "Natalia Tsupryk",
+          "url": "https://open.spotify.com/artist/3u32k4tGe6y6GiYNBsi0DX"
+        },
+        {
+          "name": "Angus MacRae",
+          "url": "https://open.spotify.com/artist/461sVAxk7a1yog2yExyBRX"
+        }
+      ],
+      "duration_ms": 337305,
+      "name": "When It Was",
+      "url": "https://open.spotify.com/track/4HcZRk5udy9NsJFrCfevQF"
+    },
+    {
+      "added_at": "2026-04-10 04:00:43",
+      "album": {
         "name": "Atlantic Diva",
         "url": "https://open.spotify.com/album/5oQr6pVVI2D7lpvDM04QbV"
       },
@@ -963,6 +983,30 @@
       "duration_ms": 243921,
       "name": "Atlantic Diva",
       "url": "https://open.spotify.com/track/5Rvvv94WBHJ7xBTv4wDqzV"
+    },
+    {
+      "added_at": "2026-04-10 04:00:43",
+      "album": {
+        "name": "On a Day Like Today",
+        "url": "https://open.spotify.com/album/1iJGehLku2vhlyzluzSqCl"
+      },
+      "artists": [
+        {
+          "name": "Hollie Kenniff",
+          "url": "https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS"
+        },
+        {
+          "name": "Marie",
+          "url": "https://open.spotify.com/artist/6ueYkCg9lNn7lArd5B8SD5"
+        },
+        {
+          "name": "Julia Thomsen",
+          "url": "https://open.spotify.com/artist/5r0183a5eBJthIj3EYtHnE"
+        }
+      ],
+      "duration_ms": 181999,
+      "name": "On a Day Like Today",
+      "url": "https://open.spotify.com/track/4QxmOhFbNeqVwGYYjVVqKk"
     },
     {
       "added_at": "2026-04-10 04:00:43",
@@ -1015,46 +1059,18 @@
     {
       "added_at": "2026-04-10 04:00:43",
       "album": {
-        "name": "When It Was",
-        "url": "https://open.spotify.com/album/1k0sBqgrSG6x5f4BXpSyFY"
+        "name": "Havenstate",
+        "url": "https://open.spotify.com/album/4bZ2GSM2YN3irAZX6DXJKz"
       },
       "artists": [
         {
-          "name": "Natalia Tsupryk",
-          "url": "https://open.spotify.com/artist/3u32k4tGe6y6GiYNBsi0DX"
-        },
-        {
-          "name": "Angus MacRae",
-          "url": "https://open.spotify.com/artist/461sVAxk7a1yog2yExyBRX"
+          "name": "Kayla Pichichero",
+          "url": "https://open.spotify.com/artist/5iZnl4zlbj4eLr52YnRaHl"
         }
       ],
-      "duration_ms": 337305,
-      "name": "When It Was",
-      "url": "https://open.spotify.com/track/4HcZRk5udy9NsJFrCfevQF"
-    },
-    {
-      "added_at": "2026-04-10 04:00:43",
-      "album": {
-        "name": "On a Day Like Today",
-        "url": "https://open.spotify.com/album/1iJGehLku2vhlyzluzSqCl"
-      },
-      "artists": [
-        {
-          "name": "Hollie Kenniff",
-          "url": "https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS"
-        },
-        {
-          "name": "Marie",
-          "url": "https://open.spotify.com/artist/6ueYkCg9lNn7lArd5B8SD5"
-        },
-        {
-          "name": "Julia Thomsen",
-          "url": "https://open.spotify.com/artist/5r0183a5eBJthIj3EYtHnE"
-        }
-      ],
-      "duration_ms": 181999,
-      "name": "On a Day Like Today",
-      "url": "https://open.spotify.com/track/4QxmOhFbNeqVwGYYjVVqKk"
+      "duration_ms": 246871,
+      "name": "Havenstate",
+      "url": "https://open.spotify.com/track/3NTfkPRP6giT3F7jMBHYKP"
     },
     {
       "added_at": "2026-04-10 04:00:43",
@@ -1095,22 +1111,6 @@
     {
       "added_at": "2026-04-10 04:00:43",
       "album": {
-        "name": "Havenstate",
-        "url": "https://open.spotify.com/album/4bZ2GSM2YN3irAZX6DXJKz"
-      },
-      "artists": [
-        {
-          "name": "Kayla Pichichero",
-          "url": "https://open.spotify.com/artist/5iZnl4zlbj4eLr52YnRaHl"
-        }
-      ],
-      "duration_ms": 246871,
-      "name": "Havenstate",
-      "url": "https://open.spotify.com/track/3NTfkPRP6giT3F7jMBHYKP"
-    },
-    {
-      "added_at": "2026-04-10 04:00:43",
-      "album": {
         "name": "Rising Fog",
         "url": "https://open.spotify.com/album/5UqAY7B1XX3QoFWgu7bfil"
       },
@@ -1123,6 +1123,22 @@
       "duration_ms": 508613,
       "name": "Russian Snow",
       "url": "https://open.spotify.com/track/74DxOVwXdBdn1rrfK8SFCU"
+    },
+    {
+      "added_at": "2026-04-10 04:00:43",
+      "album": {
+        "name": "Big Room",
+        "url": "https://open.spotify.com/album/5Wl5NjNhzpZM13CAFMhHCE"
+      },
+      "artists": [
+        {
+          "name": "Ulla Straus",
+          "url": "https://open.spotify.com/artist/6cyU1HgdzdAaBqhyOGWsMp"
+        }
+      ],
+      "duration_ms": 267000,
+      "name": "Billow",
+      "url": "https://open.spotify.com/track/0ADpQhsJkrPFimoivWZYQt"
     },
     {
       "added_at": "2026-04-10 04:00:43",
@@ -1147,22 +1163,6 @@
       "duration_ms": 1496133,
       "name": "Lear",
       "url": "https://open.spotify.com/track/58tXLPg2DQsrg5ts5CqWrR"
-    },
-    {
-      "added_at": "2026-04-10 04:00:43",
-      "album": {
-        "name": "Big Room",
-        "url": "https://open.spotify.com/album/5Wl5NjNhzpZM13CAFMhHCE"
-      },
-      "artists": [
-        {
-          "name": "Ulla Straus",
-          "url": "https://open.spotify.com/artist/6cyU1HgdzdAaBqhyOGWsMp"
-        }
-      ],
-      "duration_ms": 267000,
-      "name": "Billow",
-      "url": "https://open.spotify.com/track/0ADpQhsJkrPFimoivWZYQt"
     },
     {
       "added_at": "2026-04-10 04:00:43",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2026-04-10 04:00:43",
       "album": {
+        "name": "Thinking Iceberg",
+        "url": "https://open.spotify.com/album/39mihYHeLbVIkXwKAgmujI"
+      },
+      "artists": [
+        {
+          "name": "Felicia Atkinson",
+          "url": "https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we"
+        }
+      ],
+      "duration_ms": 770000,
+      "name": "Thinking Iceberg",
+      "url": "https://open.spotify.com/track/00cs65Ml2o8b245YEkQrsR"
+    },
+    {
+      "added_at": "2026-04-10 04:00:43",
+      "album": {
         "name": "Amare",
         "url": "https://open.spotify.com/album/3oxivy9SmR7lht1flomM6f"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 226613,
       "name": "Amare",
       "url": "https://open.spotify.com/track/2gb81DReTCiQpzl7L6wMph"
-    },
-    {
-      "added_at": "2026-04-10 04:00:43",
-      "album": {
-        "name": "Thinking Iceberg",
-        "url": "https://open.spotify.com/album/39mihYHeLbVIkXwKAgmujI"
-      },
-      "artists": [
-        {
-          "name": "Felicia Atkinson",
-          "url": "https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we"
-        }
-      ],
-      "duration_ms": 770000,
-      "name": "Thinking Iceberg",
-      "url": "https://open.spotify.com/track/00cs65Ml2o8b245YEkQrsR"
     },
     {
       "added_at": "2026-04-10 04:00:43",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-04-10 04:00:43",
       "album": {
-        "name": "OUT I",
-        "url": "https://open.spotify.com/album/0J9olnu3NCQGDgEPQqXaOE"
-      },
-      "artists": [
-        {
-          "name": "Violeta Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3tnbSfifsk0DNL1FsoZVNJ"
-        }
-      ],
-      "duration_ms": 281565,
-      "name": "OUT I",
-      "url": "https://open.spotify.com/track/4jmNHn52MHjuLr6H9J0pBK"
-    },
-    {
-      "added_at": "2026-04-10 04:00:43",
-      "album": {
         "name": "Big Majestic",
         "url": "https://open.spotify.com/album/54PPhxM0V8V87txFsNVWgb"
       },
@@ -1431,6 +1415,22 @@
     {
       "added_at": "2026-04-10 04:00:43",
       "album": {
+        "name": "OUT I",
+        "url": "https://open.spotify.com/album/0J9olnu3NCQGDgEPQqXaOE"
+      },
+      "artists": [
+        {
+          "name": "Violeta Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3tnbSfifsk0DNL1FsoZVNJ"
+        }
+      ],
+      "duration_ms": 281565,
+      "name": "OUT I",
+      "url": "https://open.spotify.com/track/4jmNHn52MHjuLr6H9J0pBK"
+    },
+    {
+      "added_at": "2026-04-10 04:00:43",
+      "album": {
         "name": "The Boat",
         "url": "https://open.spotify.com/album/0J4vsdDsgHSiP9DwdPTj6r"
       },
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2026-04-10 04:00:43",
       "album": {
+        "name": "Kali",
+        "url": "https://open.spotify.com/album/5ZZqEAvWi7uagiA3QEnRKt"
+      },
+      "artists": [
+        {
+          "name": "Salamanda",
+          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
+        }
+      ],
+      "duration_ms": 400000,
+      "name": "Kali",
+      "url": "https://open.spotify.com/track/5LZxYZ4oQ0LA6VvgaxW36k"
+    },
+    {
+      "added_at": "2026-04-10 04:00:43",
+      "album": {
         "name": "Hiraeth",
         "url": "https://open.spotify.com/album/20U2RJ45XybSkpZJLwPjUf"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 218773,
       "name": "Suosan",
       "url": "https://open.spotify.com/track/1llnPZqIqkfdC5ThZs62fR"
-    },
-    {
-      "added_at": "2026-04-10 04:00:43",
-      "album": {
-        "name": "Kali",
-        "url": "https://open.spotify.com/album/5ZZqEAvWi7uagiA3QEnRKt"
-      },
-      "artists": [
-        {
-          "name": "Salamanda",
-          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
-        }
-      ],
-      "duration_ms": 400000,
-      "name": "Kali",
-      "url": "https://open.spotify.com/track/5LZxYZ4oQ0LA6VvgaxW36k"
     },
     {
       "added_at": "2026-04-10 04:00:43",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2026-04-10 04:00:43",
       "album": {
-        "name": "I'll Look For You In Others",
-        "url": "https://open.spotify.com/album/2PFv0zSiY1gSipgGyXI6V6"
-      },
-      "artists": [
-        {
-          "name": "Patricia Wolf",
-          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
-        }
-      ],
-      "duration_ms": 393479,
-      "name": "I'll Look for You in Others",
-      "url": "https://open.spotify.com/track/0ca3Leu9WL9yazpJXD1xyd"
-    },
-    {
-      "added_at": "2026-04-10 04:00:43",
-      "album": {
         "name": "mountain ascent at dusk",
         "url": "https://open.spotify.com/album/6EYbmOuioST5WE5u1S4wdD"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 391020,
       "name": "mountain ascent at dusk",
       "url": "https://open.spotify.com/track/1rStT63qB57xnAGY8GmSEF"
+    },
+    {
+      "added_at": "2026-04-10 04:00:43",
+      "album": {
+        "name": "I'll Look For You In Others",
+        "url": "https://open.spotify.com/album/2PFv0zSiY1gSipgGyXI6V6"
+      },
+      "artists": [
+        {
+          "name": "Patricia Wolf",
+          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
+        }
+      ],
+      "duration_ms": 393479,
+      "name": "I'll Look for You in Others",
+      "url": "https://open.spotify.com/track/0ca3Leu9WL9yazpJXD1xyd"
     },
     {
       "added_at": "2026-04-10 04:00:43",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2026-04-10 04:00:43",
       "album": {
-        "name": "One Universal Breath",
-        "url": "https://open.spotify.com/album/47WEDEEZNLVuppL1bmHcvj"
-      },
-      "artists": [
-        {
-          "name": "Veryan",
-          "url": "https://open.spotify.com/artist/0VtrpLfJvEkqmDHUGBMhRk"
-        }
-      ],
-      "duration_ms": 277333,
-      "name": "Lift Hands",
-      "url": "https://open.spotify.com/track/5Yv6nOfN88vJqLR8X4enQ8"
-    },
-    {
-      "added_at": "2026-04-10 04:00:43",
-      "album": {
         "name": "Healing Is A Miracle - Extended Versions",
         "url": "https://open.spotify.com/album/0u6QdELDIZpZ9QTVhIKN9d"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 640034,
       "name": "Inspirit - Extended Version",
       "url": "https://open.spotify.com/track/6lboNI9Zzftv0XV5ycodA7"
+    },
+    {
+      "added_at": "2026-04-10 04:00:43",
+      "album": {
+        "name": "One Universal Breath",
+        "url": "https://open.spotify.com/album/47WEDEEZNLVuppL1bmHcvj"
+      },
+      "artists": [
+        {
+          "name": "Veryan",
+          "url": "https://open.spotify.com/artist/0VtrpLfJvEkqmDHUGBMhRk"
+        }
+      ],
+      "duration_ms": 277333,
+      "name": "Lift Hands",
+      "url": "https://open.spotify.com/track/5Yv6nOfN88vJqLR8X4enQ8"
     },
     {
       "added_at": "2026-04-10 04:00:43",

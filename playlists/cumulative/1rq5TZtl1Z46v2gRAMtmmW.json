@@ -2903,6 +2903,24 @@
     },
     {
       "album": {
+        "name": "Everything U",
+        "url": "https://open.spotify.com/album/6u6pP0iEfqlP1fJPTyrkWi"
+      },
+      "artists": [
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210294,
+      "name": "Everything U",
+      "url": "https://open.spotify.com/track/6i2H5Guogjwx2ALTACHmTY"
+    },
+    {
+      "album": {
         "name": "Everything Went Well",
         "url": "https://open.spotify.com/album/2EKCO1b3W6WlRjlAQS2iAX"
       },

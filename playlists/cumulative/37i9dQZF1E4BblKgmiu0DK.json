@@ -650,7 +650,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-10",
+      "date_removed": null,
       "duration_ms": 204255,
       "name": "Because I'm Awesome (2012)",
       "url": "https://open.spotify.com/track/6ddZ5TbkVjlT72M6ueeitR"
@@ -2375,6 +2375,24 @@
     },
     {
       "album": {
+        "name": "The Promise",
+        "url": "https://open.spotify.com/album/3OFiNaJ68blYZQATZAdNKs"
+      },
+      "artists": [
+        {
+          "name": "Bif Naked",
+          "url": "https://open.spotify.com/artist/02odAcSXGSPTSO4P44Ztuw"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195146,
+      "name": "Fuck You 2",
+      "url": "https://open.spotify.com/track/3lOMHsQnZ5E6XXqz8fEMPD"
+    },
+    {
+      "album": {
         "name": "No Retreat",
         "url": "https://open.spotify.com/album/64Y5Leqg4p1Vf6K0EOmJGh"
       },
@@ -2440,7 +2458,7 @@
       ],
       "date_added": "2026-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-13",
+      "date_removed": null,
       "duration_ms": 156683,
       "name": "Funeral Of A Good Grrl",
       "url": "https://open.spotify.com/track/2UOEWzQIGIwxxBdT64ZV8J"
@@ -2746,7 +2764,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 216693,
       "name": "Headstone",
       "url": "https://open.spotify.com/track/3bQncwb8OmzEnY94GiqJB9"
@@ -2800,7 +2818,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 168855,
       "name": "Hell and Everything Between",
       "url": "https://open.spotify.com/track/48CWlDiqiNvbq2Uouin6FG"
@@ -2926,7 +2944,7 @@
       ],
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 215481,
       "name": "Hollow Bone",
       "url": "https://open.spotify.com/track/61PSIaS8qIBNJvSJUCjsMv"
@@ -3056,7 +3074,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-10",
+      "date_removed": null,
       "duration_ms": 214706,
       "name": "How You Know It\u2019s Love",
       "url": "https://open.spotify.com/track/3L8o36BnvWlXJ1j9tLJbjG"
@@ -3092,7 +3110,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 145718,
       "name": "Hyperflex Riot",
       "url": "https://open.spotify.com/track/6QJ3dUNcTvj1aKCAdRhyI6"
@@ -3146,7 +3164,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-10",
+      "date_removed": null,
       "duration_ms": 181211,
       "name": "Hysteria",
       "url": "https://open.spotify.com/track/5PV10jClkV9Z2sds0pR3PX"
@@ -3182,7 +3200,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-13",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "I am so bored now",
       "url": "https://open.spotify.com/track/0d5xoD4hyuTJF3GlGGzV4s"
@@ -3752,7 +3770,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-19",
+      "date_removed": null,
       "duration_ms": 153653,
       "name": "Killer Life",
       "url": "https://open.spotify.com/track/6mWZ1gqO4e2BMBnPUUREOJ"
@@ -4394,7 +4412,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 222933,
       "name": "messy",
       "url": "https://open.spotify.com/track/3LfW2tSMgOp93RTUlJHuD2"
@@ -4776,7 +4794,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 157718,
       "name": "Neon Thrash",
       "url": "https://open.spotify.com/track/4HwI7j6Bo9Hqwy5wvdsnav"
@@ -4938,7 +4956,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-13",
+      "date_removed": null,
       "duration_ms": 193732,
       "name": "Occupied",
       "url": "https://open.spotify.com/track/3igxx0rlxRJcUIe8vu12E8"
@@ -5244,7 +5262,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 245296,
       "name": "Party in Hell",
       "url": "https://open.spotify.com/track/4TOVRQJy5GhBpDbXV6BR8t"
@@ -5932,7 +5950,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 193899,
       "name": "So What",
       "url": "https://open.spotify.com/track/17mDkw99uAJnjFOXeDuLbE"
@@ -6310,7 +6328,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 137266,
       "name": "Teenage",
       "url": "https://open.spotify.com/track/0XnZ2Qozwyht5rLxuRkSuS"
@@ -6722,6 +6740,24 @@
       "duration_ms": 226250,
       "name": "True Friends",
       "url": "https://open.spotify.com/track/2eqtXSBIO0mya5fipLROhu"
+    },
+    {
+      "album": {
+        "name": "I Hate London",
+        "url": "https://open.spotify.com/album/48pnUcxRj8M7n1Tgn60l7A"
+      },
+      "artists": [
+        {
+          "name": "Hannah Grae",
+          "url": "https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181136,
+      "name": "Tug of War",
+      "url": "https://open.spotify.com/track/7yTwBnbliYi94fm3lHpKOL"
     },
     {
       "album": {

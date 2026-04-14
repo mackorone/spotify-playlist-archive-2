@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 
 > ฟังเพลงศิลปินหญิงประเทศไทยกัน\. ปก: Sugar 'N Spice
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,369 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,375 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 | 9 | [JAA EHH \(peekaboo\) \[feat\. Awich\]](https://open.spotify.com/track/1lqGFDvBjPHGM3ORQXjGYC) | [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [HEAVYWEIGHT](https://open.spotify.com/album/5QKhO1oazf6uGVPM2jEV71) | 2:08 |
 | 10 | [SIP \(feat\. จ๊ะ นงผณี\)](https://open.spotify.com/track/0RePsFtQG7eRrlGhy3eXVp) | [THX](https://open.spotify.com/artist/37IoruZVv6afp3q77AFYwB), [จ๊ะ นงผณี](https://open.spotify.com/artist/2kw9oKRxdRVnymE4kd3BgE) | [SIP \(feat\. จ๊ะ นงผณี\)](https://open.spotify.com/album/4Eci0oTcl0tjT2VumrnpYE) | 3:42 |
 | 11 | [Girls Like Me](https://open.spotify.com/track/7fjGhOyRcSNTYgJRMmpr1f) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [Girls Like Me](https://open.spotify.com/album/2EFtBwld7jEWsmROuWzYmi) | 2:12 |
-| 12 | [อ่อมแก่ \(GRRR\) \- Feat\. Euro, Fum, Graphic, Joker, Man](https://open.spotify.com/track/08UlZ9Fcxfe6cCyyiJn6il) | [GAMMA](https://open.spotify.com/artist/5xLuy6GShq0QRIyV8LPB1U) | [อ่อมแก่ \(GRRR\)](https://open.spotify.com/album/4MhtJXPW7Dhg7uKnCjpL4m) | 2:56 |
+| 12 | [อ่อมแก่ \(Grrr\) \- Feat\. Euro, Fum, Graphic, Joker, Man](https://open.spotify.com/track/08UlZ9Fcxfe6cCyyiJn6il) | [GAMMA](https://open.spotify.com/artist/5xLuy6GShq0QRIyV8LPB1U) | [อ่อมแก่ \(Grrr\)](https://open.spotify.com/album/4MhtJXPW7Dhg7uKnCjpL4m) | 2:56 |
 | 13 | [แม่บอก](https://open.spotify.com/track/4XUDYi6va8dS7VlY39lnHQ) | [JustmineNika](https://open.spotify.com/artist/3qsG1NIop7eqpcnbYdZpL0) | [แม่บอก](https://open.spotify.com/album/4tVX02x5uKETZGMuAxT4Ms) | 3:22 |
 | 14 | [best shot](https://open.spotify.com/track/4y5cWyz4lQJtXPMirId3gh) | [Cupnoodle](https://open.spotify.com/artist/2oxmVxoozyLgoIlPpz1QS2) | [best shot](https://open.spotify.com/album/0niiPBJVTKB3wWbCVvJMEZ) | 3:39 |
 | 15 | [Only You](https://open.spotify.com/track/7z7h1S0wy9AKbaKm7TJ2t5) | [Image Suthita](https://open.spotify.com/artist/3BJnzsdoO0qbpDS8QNE5wJ) | [Actress \(Deluxe Edition\)](https://open.spotify.com/album/05fOoylEhaMptZ2K6v4rJ0) | 3:28 |

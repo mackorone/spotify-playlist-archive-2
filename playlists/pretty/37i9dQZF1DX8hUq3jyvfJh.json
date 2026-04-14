@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a Maria Beth\u00e2nia e mais mulheres incr\u00edveis no volume m\u00e1ximo! Co-curado por <a href=\"spotify:artist:3f5VCwd57gZsqMad28jyLV\">Maria Beth\u00e2nia</a>.",
-  "num_followers": 192716,
+  "num_followers": 192720,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2026-04-01 03:00:06",
       "album": {
-        "name": "\u00d3pera Grunkie",
-        "url": "https://open.spotify.com/album/1W3vMj7OmKb8SwdiHwpHfK"
-      },
-      "artists": [
-        {
-          "name": "Marina Lima",
-          "url": "https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol"
-        }
-      ],
-      "duration_ms": 223000,
-      "name": "Meu Poeta",
-      "url": "https://open.spotify.com/track/5KUKKu3icCNFq4VnzxC0hH"
-    },
-    {
-      "added_at": "2026-04-01 03:00:06",
-      "album": {
         "name": "Peito Aberto",
         "url": "https://open.spotify.com/album/3GeFk3NWlnaxB7oj4M8j0w"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 191392,
       "name": "Peito Aberto",
       "url": "https://open.spotify.com/track/7AmemK0iLDwBt1o0nmmxdw"
+    },
+    {
+      "added_at": "2026-04-01 03:00:06",
+      "album": {
+        "name": "\u00d3pera Grunkie",
+        "url": "https://open.spotify.com/album/1W3vMj7OmKb8SwdiHwpHfK"
+      },
+      "artists": [
+        {
+          "name": "Marina Lima",
+          "url": "https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol"
+        }
+      ],
+      "duration_ms": 223000,
+      "name": "Meu Poeta",
+      "url": "https://open.spotify.com/track/5KUKKu3icCNFq4VnzxC0hH"
     },
     {
       "added_at": "2026-04-01 03:00:06",

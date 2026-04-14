@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring DJ Khaled with Lil Baby and Future, BossMan Dlow and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 379,414 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 379,469 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 19 | [I Like](https://open.spotify.com/track/3ZbyU2FLi7yECToFJC716z) | [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1), [Mello Buckzz](https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw) | [I Like](https://open.spotify.com/album/09hCHK6CoKr5BjztvUPtIF) | 2:31 |
 | 20 | [Make A Wish](https://open.spotify.com/track/5dOzsvz2nww1127jxaQd5K) | [Lil Skies](https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo) | [Make A Wish](https://open.spotify.com/album/5t83L2jFN0eFhUkDJfxLFC) | 3:23 |
 | 21 | [Missin' You](https://open.spotify.com/track/3G922nfHctzs57wtJXqxfR) | [Dess Dior](https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O), [YFN Lucci](https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP) | [Note To Self](https://open.spotify.com/album/47KtxHjRKa2h8gHdmS10Zs) | 2:47 |
-| 22 | [Humble'Em\_PINK](https://open.spotify.com/track/542GAgyvyAmFEKgSsUAPUl) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o), [CUZZOS](https://open.spotify.com/artist/0TY3Wab2Z1kmp5jZoxdPjZ) | [Humble'Em\_PINK / Doin Too Much](https://open.spotify.com/album/0j9CJn69fdtymqVXfKo4EA) | 3:28 |
+| 22 | [Humble'Em\_PINK](https://open.spotify.com/track/542GAgyvyAmFEKgSsUAPUl) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o), [CUZZOS](https://open.spotify.com/artist/0TY3Wab2Z1kmp5jZoxdPjZ) | [Humble'Em\_PINK / Doin Too Much](https://open.spotify.com/album/0j9CJn69fdtymqVXfKo4EA) | 3:27 |
 | 23 | [Sneaky Link Memphis](https://open.spotify.com/track/4xnlYXibuRk8NWdEn2QVpl) | [Tre Loaded](https://open.spotify.com/artist/2IfOv1im8CNxZ6kFtob1e3), [Babyy Bumpstock](https://open.spotify.com/artist/30eGAaeTzomtT1iFocsJyf), [Mohead Mike](https://open.spotify.com/artist/79Sxz4bJeibdabevi9PAVi) | [Sneaky Link Memphis](https://open.spotify.com/album/3Qvj8L1yp5KlNS6j5KFQ5Y) | 2:31 |
 | 24 | [She Was My Color](https://open.spotify.com/track/3Eh6jcImwAYp3BejC4Mnai) | [millkzy](https://open.spotify.com/artist/7sxM2gRejxUDw7fKtCISzR), [JR.](https://open.spotify.com/artist/0GXfDNCLBduTyqMWHbJP0f) | [Floetry The Extension](https://open.spotify.com/album/3F2V0cYIjnuyeJbXGJ4JQE) | 2:42 |
 | 25 | [Always Us](https://open.spotify.com/track/6JLGyejXhQpkFfojlvYk8f) | [Nana](https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu), [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [Always Us](https://open.spotify.com/album/6rRXxkERGTNjhZmcXUGg99) | 2:48 |

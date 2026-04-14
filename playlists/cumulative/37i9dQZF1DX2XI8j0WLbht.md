@@ -2,7 +2,7 @@
 
 ### [Folk Mexicano](https://open.spotify.com/playlist/37i9dQZF1DX2XI8j0WLbht)
 
-> una guitarra y mucho sentimiento para cantar\. Macario Martínez en portada.
+> una guitarra y mucho sentimiento para cantar\. Silvana Estrada en portada.
 
 274 songs - 17 hr 35 min
 

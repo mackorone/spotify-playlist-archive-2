@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Amanda Caesa
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,186 likes - 120 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,337 likes - 120 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 5 | [Ingin Kumiliki](https://open.spotify.com/track/6sOwmyHQWPZeD6RMmGAhRu) | [Tohpati](https://open.spotify.com/artist/5XyX171jkcvGEx4jkcZeLN), [Meiska](https://open.spotify.com/artist/1ZT1OfVAO3kpOEHVejBxV8) | [Ingin Kumiliki](https://open.spotify.com/album/33ecjCZaCJ4r7qf372LIbA) | 5:14 |
 | 6 | [SUPER EKSIS](https://open.spotify.com/track/0bJYrzP1g2tIheeK5u87KG) | [Naufal Syachreza](https://open.spotify.com/artist/3x1vHC0kthfGxbY5w8AiRE) | [SUPER EKSIS](https://open.spotify.com/album/3qvLTnSkUrKbPNHVgiu4BG) | 2:37 |
 | 7 | [So Easy](https://open.spotify.com/track/1G25dxb0WaPlLgjPdTkQYy) | [Adiva](https://open.spotify.com/artist/2kE5DPsebHbgal8xDFDsMF) | [So Easy](https://open.spotify.com/album/3kHvoGX9srpBbwd2GIWpO0) | 3:17 |
-| 8 | [kota ini tak sama tanpamu \- Orchestra Version](https://open.spotify.com/track/1KuosMMOJ6Ow6snWbMdgl5) | [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0), [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [BSS & KITST \(Orchestra Version\)](https://open.spotify.com/album/7E9H5BTdl6B6OEmWeblwpc) | 4:37 |
+| 8 | [kota ini tak sama tanpamu \- Orchestra Version](https://open.spotify.com/track/1KuosMMOJ6Ow6snWbMdgl5) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO), [Petra Sihombing](https://open.spotify.com/artist/5TV9JhBjG6c2hHsoibBaIW), [Aziz Harun](https://open.spotify.com/artist/1dmuM6bG5J8sDFyp26x9Nf), [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [BSS & KITST \(Orchestra Version\)](https://open.spotify.com/album/7E9H5BTdl6B6OEmWeblwpc) | 4:37 |
 | 9 | [Sombar](https://open.spotify.com/track/0AQoBIdCoGCDweuMjpkV4q) | [Teddy Adhitya](https://open.spotify.com/artist/7dOswEYzOtTMECumrZ3NHY) | [Sombar](https://open.spotify.com/album/5cnGHL4CHBibmXnIQAHtAg) | 4:36 |
 | 10 | [Bercanda](https://open.spotify.com/track/7eGhvK01AHTAqT69Jo7mXN) | [Silet Open Up](https://open.spotify.com/artist/5naPJsWUJ6y22yKXA6dX36), [SonaOne](https://open.spotify.com/artist/7qM9nMv6HFHFUpiN034R3z) | [Bercanda](https://open.spotify.com/album/3SboBA6hQjDLy6n0ULH4gT) | 4:27 |
 | 11 | [Bila](https://open.spotify.com/track/5vUHyNdyf058fWhnUY5nIr) | [Aku Jeje](https://open.spotify.com/artist/4FZ6V3q8zMyFvSMeT2ld2f) | [Bila](https://open.spotify.com/album/0rTZJbjUYarAtLGkV2NejN) | 2:32 |

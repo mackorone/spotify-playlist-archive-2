@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-29",
-  "description": "With Yeat, Cuo Zay, Autumn! and more",
+  "description": "With Cuo Zay, Yeat, Autumn! and more",
   "name": "Taewitdak Radio",
   "tracks": [
     {
@@ -130,7 +130,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-27",
+      "date_removed": null,
       "duration_ms": 106728,
       "name": "Air Bender",
       "url": "https://open.spotify.com/track/0SC10wGF4YMLIdL1QMGlm8"
@@ -398,7 +398,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 122483,
       "name": "BIG 3",
       "url": "https://open.spotify.com/track/62ymTJhwmpXPb2joOs1grs"
@@ -434,7 +434,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 138208,
       "name": "blood",
       "url": "https://open.spotify.com/track/373tYv4yykESwVkPjDkuzf"
@@ -504,7 +504,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 133815,
       "name": "Bowls In The Underworld",
       "url": "https://open.spotify.com/track/0Pgwc9wwiNgiD4ucHsyohr"
@@ -1054,7 +1054,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 187803,
       "name": "Drugs And Pretty Girls",
       "url": "https://open.spotify.com/track/1mKC9dh2Ly6Vmzu6KfmLZS"
@@ -1424,7 +1424,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 152893,
       "name": "Hat\u00ebr",
       "url": "https://open.spotify.com/track/7u48RjanhFy30zE8N5dOiw"
@@ -1537,6 +1537,28 @@
     },
     {
       "album": {
+        "name": "YARDMAN: DELUXE",
+        "url": "https://open.spotify.com/album/79St16B0at9aFJU0ga3v1X"
+      },
+      "artists": [
+        {
+          "name": "4TUNAT",
+          "url": "https://open.spotify.com/artist/7xQ6sIYtLwD4JjZVddw9Jl"
+        },
+        {
+          "name": "Mascey",
+          "url": "https://open.spotify.com/artist/2leeJ9Oskse9ySvoRgIYiY"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123750,
+      "name": "I'm Okay",
+      "url": "https://open.spotify.com/track/5MQByQHR2Jxv8AjgGHiu0L"
+    },
+    {
+      "album": {
         "name": "IDK",
         "url": "https://open.spotify.com/album/1s3Fi0Esr37lOvmigDbMkv"
       },
@@ -1570,6 +1592,24 @@
       "duration_ms": 108437,
       "name": "imposter",
       "url": "https://open.spotify.com/track/14DqYafHROsQH834bFBVbt"
+    },
+    {
+      "album": {
+        "name": "In the mix (be here)",
+        "url": "https://open.spotify.com/album/4RHKFFYmxxSvmtKBJ9izoY"
+      },
+      "artists": [
+        {
+          "name": "Saltyngget",
+          "url": "https://open.spotify.com/artist/46GgJ6qHCR08sCvbJ1UJzy"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309336,
+      "name": "In the mix (be here)",
+      "url": "https://open.spotify.com/track/3pmJTS65kQO7tORlc8dIxp"
     },
     {
       "album": {
@@ -1980,6 +2020,24 @@
       "duration_ms": 374164,
       "name": "Memories",
       "url": "https://open.spotify.com/track/15Ktbhx210kAe5yZjzR6Ch"
+    },
+    {
+      "album": {
+        "name": "Militia",
+        "url": "https://open.spotify.com/album/16oIr5VESM6EX3czVoOoM5"
+      },
+      "artists": [
+        {
+          "name": "999 WRLD",
+          "url": "https://open.spotify.com/artist/1usm7Awsp5eDXChqp1oQ2v"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110221,
+      "name": "Militia",
+      "url": "https://open.spotify.com/track/0pB7v6fha2WcS1QJlreciH"
     },
     {
       "album": {
@@ -3460,6 +3518,28 @@
       "duration_ms": 211931,
       "name": "Trifling",
       "url": "https://open.spotify.com/track/3wMUXSD6foKvnl9asEbEA4"
+    },
+    {
+      "album": {
+        "name": "Tuck Blick",
+        "url": "https://open.spotify.com/album/3ISOMp3jA6STWoglv2jtF2"
+      },
+      "artists": [
+        {
+          "name": "ThirstyOwe3k",
+          "url": "https://open.spotify.com/artist/1dtFF7RRzg7nFykaThgcLk"
+        },
+        {
+          "name": "DuseThaJoynt",
+          "url": "https://open.spotify.com/artist/6iyl1ecyb5wUZd2Ovsfvus"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127801,
+      "name": "Tuck Blick",
+      "url": "https://open.spotify.com/track/5KbBJjm7P3L7w2JI0hVxuB"
     },
     {
       "album": {

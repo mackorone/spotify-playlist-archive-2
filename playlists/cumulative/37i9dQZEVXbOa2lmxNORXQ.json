@@ -668,7 +668,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 191397,
       "name": "5 Estrellas - W Sound 23",
       "url": "https://open.spotify.com/track/7hYlC6s0SXSIwtFlW6NgjT"
@@ -8434,7 +8434,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-12",
+      "date_removed": null,
       "duration_ms": 237117,
       "name": "DtMF",
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
@@ -9857,6 +9857,28 @@
     },
     {
       "album": {
+        "name": "Roc La Familia & Hector Bambino \"EL FATHER\" Present Los Rompe Discotekas",
+        "url": "https://open.spotify.com/album/12WhZAzPc6ekGSTWPGEUVp"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor \"El Father\"",
+          "url": "https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB"
+        },
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235760,
+      "name": "El Tel\u00e9fono",
+      "url": "https://open.spotify.com/track/6viC2tfK0mf86pcqxIoUOG"
+    },
+    {
+      "album": {
         "name": "Machete Music Chronicles: Vol. I",
         "url": "https://open.spotify.com/album/3vBf54VsQZq7R5fDDxYTe2"
       },
@@ -9872,7 +9894,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 239293,
       "name": "El Tel\u00e9fono",
       "url": "https://open.spotify.com/track/1sbiqeh3fCNwebhohDRXAp"
@@ -10390,7 +10412,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 255905,
       "name": "En Las Noches Frias",
       "url": "https://open.spotify.com/track/0a0JiZejbYYem1W31fldde"
@@ -10786,7 +10808,7 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-11",
+      "date_removed": null,
       "duration_ms": 190560,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/3Btqti3QpzZZr6uz5mlNzz"
@@ -29180,7 +29202,7 @@
       ],
       "date_added": "2025-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 188826,
       "name": "Solos",
       "url": "https://open.spotify.com/track/3CbiuLMBPM6uV4a7HvkOib"
@@ -29842,6 +29864,24 @@
       "duration_ms": 276000,
       "name": "Tal Para Cual",
       "url": "https://open.spotify.com/track/1e34cNMj2SfEuG2uI0Sbfq"
+    },
+    {
+      "album": {
+        "name": "Tal Para Cual",
+        "url": "https://open.spotify.com/album/1bdz4QjbKIRxmCAp5Haxx5"
+      },
+      "artists": [
+        {
+          "name": "Reykon",
+          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158490,
+      "name": "Tal Para Cual",
+      "url": "https://open.spotify.com/track/65ASzYgkRO6YIhoFbZvEBc"
     },
     {
       "album": {
@@ -32122,7 +32162,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-02",
+      "date_removed": null,
       "duration_ms": 193259,
       "name": "Un Perro Enamorado",
       "url": "https://open.spotify.com/track/3kcr3teEgyTOVIAxMPOPeO"
@@ -32728,7 +32768,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 207723,
       "name": "URUS BLUE",
       "url": "https://open.spotify.com/track/4sTnItbNUAcS5KDG6vTA5B"

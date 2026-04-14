@@ -1,6 +1,6 @@
 {
   "description": "Feel good with this positively timeless playlist!",
-  "num_followers": 3610505,
+  "num_followers": 3610381,
   "original_name": "Feelin' Good",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Lady Soul (With Bonus Selections)",
-        "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "(You Make Me Feel Like) A Natural Woman",
-      "url": "https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
         "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 171466,
       "name": "I've Got a Woman",
       "url": "https://open.spotify.com/track/2xar08Fq5xra2KKZs5Bw9j"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Lady Soul (With Bonus Selections)",
+        "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "(You Make Me Feel Like) A Natural Woman",
+      "url": "https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -787,22 +787,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Midnight Mover: The Bobby Womack Story",
-        "url": "https://open.spotify.com/album/7eVKCG0KD8FCvIlx8E1pBG"
-      },
-      "artists": [
-        {
-          "name": "Bobby Womack",
-          "url": "https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq"
-        }
-      ],
-      "duration_ms": 230506,
-      "name": "Across 110th Street",
-      "url": "https://open.spotify.com/track/2zyTP97uGsIc1C4KNNEkyn"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "Al Green Explores Your Mind",
         "url": "https://open.spotify.com/album/2ss0g53nagKtGnoYjwo77Q"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 225373,
       "name": "Take Me to the River",
       "url": "https://open.spotify.com/track/62r1CS9zL1FL5Ilb7hLX7n"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Midnight Mover: The Bobby Womack Story",
+        "url": "https://open.spotify.com/album/7eVKCG0KD8FCvIlx8E1pBG"
+      },
+      "artists": [
+        {
+          "name": "Bobby Womack",
+          "url": "https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq"
+        }
+      ],
+      "duration_ms": 230506,
+      "name": "Across 110th Street",
+      "url": "https://open.spotify.com/track/2zyTP97uGsIc1C4KNNEkyn"
     },
     {
       "added_at": "2022-03-28 18:28:56",
@@ -931,22 +931,6 @@
     {
       "added_at": "2025-03-25 15:28:45",
       "album": {
-        "name": "2nd Time Around (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5FWAviP7cXvH8iOVENSaNG"
-      },
-      "artists": [
-        {
-          "name": "The Spinners",
-          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
-        }
-      ],
-      "duration_ms": 190058,
-      "name": "It's A Shame",
-      "url": "https://open.spotify.com/track/1l1YTy9nJ0trwhsCGcimly"
-    },
-    {
-      "added_at": "2025-03-25 15:28:45",
-      "album": {
         "name": "King Floyd",
         "url": "https://open.spotify.com/album/6r1VSCkbZaVj6FUhbh3aFQ"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 183266,
       "name": "Groove Me",
       "url": "https://open.spotify.com/track/1sG3M0yjIYweejCR9Amyh6"
+    },
+    {
+      "added_at": "2025-03-25 15:28:45",
+      "album": {
+        "name": "2nd Time Around (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5FWAviP7cXvH8iOVENSaNG"
+      },
+      "artists": [
+        {
+          "name": "The Spinners",
+          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
+        }
+      ],
+      "duration_ms": 190058,
+      "name": "It's A Shame",
+      "url": "https://open.spotify.com/track/1l1YTy9nJ0trwhsCGcimly"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1059,8 +1059,8 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "This Girl's in Love with You",
-        "url": "https://open.spotify.com/album/5TGmpcEuZsVIoxDWnJIan5"
+        "name": "Atlantic 60th: Soul, Sweat And Strut",
+        "url": "https://open.spotify.com/album/1LBWNRMsbEWb17KmDD4jfD"
       },
       "artists": [
         {
@@ -1068,9 +1068,9 @@
           "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
         }
       ],
-      "duration_ms": 197538,
-      "name": "Son of a Preacher Man",
-      "url": "https://open.spotify.com/track/4uCbetXW9LStYPUjCpBVp9"
+      "duration_ms": 142186,
+      "name": "Respect - 2003 Remaster",
+      "url": "https://open.spotify.com/track/5AoTuHE5P5bvC7BBppYnja"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1139,8 +1139,8 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Atlantic 60th: Soul, Sweat And Strut",
-        "url": "https://open.spotify.com/album/1LBWNRMsbEWb17KmDD4jfD"
+        "name": "This Girl's in Love with You",
+        "url": "https://open.spotify.com/album/5TGmpcEuZsVIoxDWnJIan5"
       },
       "artists": [
         {
@@ -1148,9 +1148,9 @@
           "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
         }
       ],
-      "duration_ms": 142186,
-      "name": "Respect - 2003 Remaster",
-      "url": "https://open.spotify.com/track/5AoTuHE5P5bvC7BBppYnja"
+      "duration_ms": 197538,
+      "name": "Son of a Preacher Man",
+      "url": "https://open.spotify.com/track/4uCbetXW9LStYPUjCpBVp9"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1297,22 +1297,6 @@
       "url": "https://open.spotify.com/track/3zYQ1KXzqBWRsxIqdVMoYF"
     },
     {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "Watchout!",
-        "url": "https://open.spotify.com/album/5DBVTohmpLwz4XwUGZNAQZ"
-      },
-      "artists": [
-        {
-          "name": "Martha Reeves & The Vandellas",
-          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
-        }
-      ],
-      "duration_ms": 163733,
-      "name": "Jimmy Mack",
-      "url": "https://open.spotify.com/track/7N3UAu6FkwdBg9J7OONBBP"
-    },
-    {
       "added_at": "2024-02-29 20:11:01",
       "album": {
         "name": "Givin' It Back",
@@ -1327,6 +1311,22 @@
       "duration_ms": 223523,
       "name": "Love the One You're With",
       "url": "https://open.spotify.com/track/0NnyYBnyStcNKDu7PejLPF"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Watchout!",
+        "url": "https://open.spotify.com/album/5DBVTohmpLwz4XwUGZNAQZ"
+      },
+      "artists": [
+        {
+          "name": "Martha Reeves & The Vandellas",
+          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
+        }
+      ],
+      "duration_ms": 163733,
+      "name": "Jimmy Mack",
+      "url": "https://open.spotify.com/track/7N3UAu6FkwdBg9J7OONBBP"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1579,18 +1579,22 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/01RvfxmmHb3cmgYHv8ghip"
+        "name": "My World",
+        "url": "https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc"
       },
       "artists": [
         {
-          "name": "Martha Reeves & The Vandellas",
-          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
+          "name": "Lee Fields & The Expressions",
+          "url": "https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K"
+        },
+        {
+          "name": "Lee Fields",
+          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
         }
       ],
-      "duration_ms": 159000,
-      "name": "Dancing In The Street",
-      "url": "https://open.spotify.com/track/5wJcMwXuy1x6EatowWOxha"
+      "duration_ms": 246573,
+      "name": "Honey Dove",
+      "url": "https://open.spotify.com/track/1emxi7e5EWFsJmwSKTuUDH"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1611,22 +1615,18 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "My World",
-        "url": "https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc"
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/01RvfxmmHb3cmgYHv8ghip"
       },
       "artists": [
         {
-          "name": "Lee Fields & The Expressions",
-          "url": "https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K"
-        },
-        {
-          "name": "Lee Fields",
-          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
+          "name": "Martha Reeves & The Vandellas",
+          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
         }
       ],
-      "duration_ms": 246573,
-      "name": "Honey Dove",
-      "url": "https://open.spotify.com/track/1emxi7e5EWFsJmwSKTuUDH"
+      "duration_ms": 159000,
+      "name": "Dancing In The Street",
+      "url": "https://open.spotify.com/track/5wJcMwXuy1x6EatowWOxha"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1663,6 +1663,26 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
+        "name": "My World",
+        "url": "https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc"
+      },
+      "artists": [
+        {
+          "name": "Lee Fields & The Expressions",
+          "url": "https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K"
+        },
+        {
+          "name": "Lee Fields",
+          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
+        }
+      ],
+      "duration_ms": 257386,
+      "name": "Ladies",
+      "url": "https://open.spotify.com/track/6iNHWlOLt4NuDi9iSvtznO"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
         "name": "Their Very Best (Rerecorded Version)",
         "url": "https://open.spotify.com/album/7drJ2KUsPcmRcmcYv77FK2"
       },
@@ -1691,26 +1711,6 @@
       "duration_ms": 150600,
       "name": "Ain't That A Shame? - Remastered 2002",
       "url": "https://open.spotify.com/track/4U2b99X9hSSDjPbHCpIeJj"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "My World",
-        "url": "https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc"
-      },
-      "artists": [
-        {
-          "name": "Lee Fields & The Expressions",
-          "url": "https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K"
-        },
-        {
-          "name": "Lee Fields",
-          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
-        }
-      ],
-      "duration_ms": 257386,
-      "name": "Ladies",
-      "url": "https://open.spotify.com/track/6iNHWlOLt4NuDi9iSvtznO"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -2319,6 +2319,22 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
+        "name": "I Heard It Through The Grapevine / In The Groove (Stereo)",
+        "url": "https://open.spotify.com/album/1jcnZvZWvAGzNyQ7GNVy8X"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 195266,
+      "name": "I Heard It Through The Grapevine",
+      "url": "https://open.spotify.com/track/27m1soUndRthrAA1ediOXn"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
         "name": "Coming Home",
         "url": "https://open.spotify.com/album/4svLfrPPk2npPVuI4kXPYg"
       },
@@ -2347,22 +2363,6 @@
       "duration_ms": 250200,
       "name": "Get Up Offa That Thing",
       "url": "https://open.spotify.com/track/0nyrltZrQGAJMBZc1bYvuQ"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "I Heard It Through The Grapevine / In The Groove (Stereo)",
-        "url": "https://open.spotify.com/album/1jcnZvZWvAGzNyQ7GNVy8X"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 195266,
-      "name": "I Heard It Through The Grapevine",
-      "url": "https://open.spotify.com/track/27m1soUndRthrAA1ediOXn"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -2413,6 +2413,26 @@
       "url": "https://open.spotify.com/track/113bLFbp3F9MVN0w2KJ1ma"
     },
     {
+      "added_at": "2023-03-28 15:59:00",
+      "album": {
+        "name": "The Way That I Do",
+        "url": "https://open.spotify.com/album/0zaFZVRFQoYDlrIwjzrJbz"
+      },
+      "artists": [
+        {
+          "name": "Durand Jones & The Indications",
+          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
+        },
+        {
+          "name": "Aaron Frazer",
+          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
+        }
+      ],
+      "duration_ms": 210329,
+      "name": "The Way That I Do",
+      "url": "https://open.spotify.com/track/6Zx618hMvnGqGnQCSLXVbY"
+    },
+    {
       "added_at": "2021-10-19 21:36:21",
       "album": {
         "name": "Number 1's",
@@ -2443,22 +2463,6 @@
       "duration_ms": 178533,
       "name": "Build Me Up Buttercup",
       "url": "https://open.spotify.com/track/3XcuLPQb1LG13ZJEEa6wUI"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "Favorites",
-        "url": "https://open.spotify.com/album/5u4oZQY6eYzH7ZpydPoUN3"
-      },
-      "artists": [
-        {
-          "name": "The Supremes",
-          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
-        }
-      ],
-      "duration_ms": 165080,
-      "name": "You Can't Hurry Love",
-      "url": "https://open.spotify.com/track/69Qa7czzqraPWZgxpQN405"
     }
   ],
   "unique_name": "Feelin' Good",

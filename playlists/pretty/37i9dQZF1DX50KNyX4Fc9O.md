@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 
 > Keep your finger on the pulse of pop\. Cover: Teddy Swims
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,398 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,389 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 16 | [Turnstile](https://open.spotify.com/track/4qoeKDSw3siIY9ZjCvbmFj) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [The Weight of the Woods](https://open.spotify.com/album/75pxFt8fBxAZaSII4Ur6Dd) | 3:50 |
 | 17 | [What's a girl to do](https://open.spotify.com/track/1JymZBT39MAPXffPcKkaPW) | [DAYOUNG](https://open.spotify.com/artist/5SQHuBLqaasC50vOL9s8Mz) | [What's a girl to do](https://open.spotify.com/album/1hywbmcXqc373aldNqWUIS) | 2:10 |
 | 18 | [Sick Of Love](https://open.spotify.com/track/6aPG5Atb3L3l8pZYzLrpEi) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Sick Of Love](https://open.spotify.com/album/2ETP833yyVmqvtnbnRHtxb) | 3:36 |
-| 19 | [Shark](https://open.spotify.com/track/4Yt2g4rksAe58iGsTYndhX) | [Akala Newman](https://open.spotify.com/artist/45nmkIvpt1SCzsEENmhbJF), [Rei](https://open.spotify.com/artist/2DM5LlJaApG5igeJrHJc85) | [\(A\)RISE](https://open.spotify.com/album/3y9iAWhc0NEaFepyZJFYr7) | 2:24 |
+| 19 | [Shark](https://open.spotify.com/track/4Yt2g4rksAe58iGsTYndhX) | [Akala Newman](https://open.spotify.com/artist/45nmkIvpt1SCzsEENmhbJF), [Rei](https://open.spotify.com/artist/09eBKIxIhMym3kxJyDnVXh) | [\(A\)RISE](https://open.spotify.com/album/3y9iAWhc0NEaFepyZJFYr7) | 2:24 |
 | 20 | [The Fool](https://open.spotify.com/track/5OkXA7ru3aZrY92m800aSc) | [Alexandria](https://open.spotify.com/artist/0SQG4wPVUlfbmbGQfqB47y) | [The Fool](https://open.spotify.com/album/0k8RXtTwCrqs9ofCFAUNQX) | 2:55 |
 | 21 | [Night at the Opera](https://open.spotify.com/track/4ikhbKiw9pKYkWitSR7M7u) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Night at the Opera](https://open.spotify.com/album/2XU7TKFSPdMo3dyNWLdvjO) | 3:04 |
 | 22 | [As Good as it Gets](https://open.spotify.com/track/4MFnBSsj8pWRsnPHAAhNll) | [ELISHIA](https://open.spotify.com/artist/1Om8dYusTC6D8oEBzGNfi3) | [As Good as it Gets](https://open.spotify.com/album/21kWSRqvw389juypYIChq7) | 3:01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgccrbg3zbJ.md) - [plain]
 
 > The classic recordings from Bossa Nova\. Cover: João Gilberto
 
-[Spotify](https://open.spotify.com/user/spotify) - 583,374 likes - 70 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 583,696 likes - 70 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,16 +31,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgccrbg3zbJ.md) - [plain]
 | 21 | [Rio](https://open.spotify.com/track/1cCKsJZbWUZbAkdrn2qviQ) | [Quarteto do Rio](https://open.spotify.com/artist/2IRXlLBgHK3HSNJ7YlbyW4), [Roberto Menescal](https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG) | [Mr\. Bossa Nova](https://open.spotify.com/album/6cyM2wUubFJb6scTaMiqsx) | 2:26 |
 | 22 | [Eu Vim Da Bahia](https://open.spotify.com/track/3YyKhjarSxJWuO44trAVdr) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Voz E Violão](https://open.spotify.com/album/19cy0SZ66hIGL7Ko5UaURX) | 2:34 |
 | 23 | [A Rã](https://open.spotify.com/track/0vZwdJBXOGppAMLjwDUNWg) | [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [Blue Note Trip 7: Birds / Beats](https://open.spotify.com/album/6Z4rwujDTEf2nBEc0eZqJF) | 2:15 |
-| 24 | [Até Quem Sabe](https://open.spotify.com/track/2rdVCNThL8kxzsRzusmt5t) | [Cauby Peixoto](https://open.spotify.com/artist/1j081CNX8swtqfQCXGUc4v) | [A Bossa de Cauby Peixoto](https://open.spotify.com/album/5UQ4lXVHLjPV1u6KoyAkFg) | 2:37 |
+| 24 | [Sambalamento](https://open.spotify.com/track/4fJrqBOXrJ9QwaqJ9UsptN) | [Luiz Bonfá](https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb) | [Plays and Sings Bossa Nova](https://open.spotify.com/album/44zM914NmvslUJaJW2msNc) | 2:19 |
 | 25 | [Tereza My Love](https://open.spotify.com/track/5m4TzaOXvk1biOR3LdObVt) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Stone Flower \(CTI Records 40th Anniversary Edition\)](https://open.spotify.com/album/2dsmGxE74ufKZgSFpEMxel) | 4:21 |
-| 26 | [Sambalamento](https://open.spotify.com/track/4fJrqBOXrJ9QwaqJ9UsptN) | [Luiz Bonfá](https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb) | [Plays and Sings Bossa Nova](https://open.spotify.com/album/44zM914NmvslUJaJW2msNc) | 2:19 |
+| 26 | [Até Quem Sabe](https://open.spotify.com/track/2rdVCNThL8kxzsRzusmt5t) | [Cauby Peixoto](https://open.spotify.com/artist/1j081CNX8swtqfQCXGUc4v) | [A Bossa de Cauby Peixoto](https://open.spotify.com/album/5UQ4lXVHLjPV1u6KoyAkFg) | 2:37 |
 | 27 | [Bim Bom](https://open.spotify.com/track/2v9LGwYybWMNhO0xZXpo6M) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Bossa Nova Café](https://open.spotify.com/album/2umykbaUStNVXKLtbGclUz) | 1:12 |
 | 28 | [Ê Lalá Lay\-Ê](https://open.spotify.com/track/7BQSe1LHaS5mDtUT91eHmW) | [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [O Piano de João Donato](https://open.spotify.com/album/2hGPFVqOzHV5ZB359SEfiW) | 3:20 |
 | 29 | [Adriana](https://open.spotify.com/track/07jiARShTjI2U7p9vay1df) | [Wanda Sá](https://open.spotify.com/artist/5mZMounx8LpSyLospHT1dK) | [Wanda..Vagamente..](https://open.spotify.com/album/1tZZhPTwHPqNVLNbw38GPZ) | 1:52 |
 | 30 | [The Red Blouse](https://open.spotify.com/track/4wBdGRxCaWFtqei59k5InB) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Wave](https://open.spotify.com/album/5SSyex1jdJe9h3lbqESv1T) | 5:09 |
-| 31 | [Agua De Beber](https://open.spotify.com/track/4SSADZr3VsQeoqNbjLXw8W) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [The Astrud Gilberto Album](https://open.spotify.com/album/0GcP2Ly5pnuNFdk5lLgDGB) | 2:19 |
+| 31 | [Garota De Ipanema](https://open.spotify.com/track/13phYi072bj5ibxBx4VhQC) | [Vinícius](https://open.spotify.com/artist/5b2ylVrhm7GKFoUjuNk1Op), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Bossa Nova](https://open.spotify.com/album/2KJsAjK0T585kFmFA3O7vr) | 2:30 |
 | 32 | [Desafinado](https://open.spotify.com/track/2GW4RDBkjLWUDjumnHB3K1) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Ultimate Guitar Classics 1951\-1961](https://open.spotify.com/album/0d03HJwweHFZRzvqzCrito) | 1:58 |
-| 33 | [Garota De Ipanema](https://open.spotify.com/track/13phYi072bj5ibxBx4VhQC) | [Vinícius](https://open.spotify.com/artist/5b2ylVrhm7GKFoUjuNk1Op), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Bossa Nova](https://open.spotify.com/album/2KJsAjK0T585kFmFA3O7vr) | 2:30 |
+| 33 | [Agua De Beber](https://open.spotify.com/track/4SSADZr3VsQeoqNbjLXw8W) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [The Astrud Gilberto Album](https://open.spotify.com/album/0GcP2Ly5pnuNFdk5lLgDGB) | 2:19 |
 | 34 | [Só Danço Samba](https://open.spotify.com/track/3oAUlcseAPHcBVJ6nHWbJv) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Getz/Gilberto](https://open.spotify.com/album/69xayFuQfFKnxxSmHtNo6Y) | 3:45 |
 | 35 | [O Barquinho](https://open.spotify.com/track/2oBiFDhFwbEHYaGOf1Mfrb) | [Nara Leão](https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3) | [20 Grandes Sucessos De Nara Leao](https://open.spotify.com/album/3szAhEAqI6a0L2INCE1IrJ) | 3:05 |
 | 36 | [Samba De Verao](https://open.spotify.com/track/18jzP0rBaHJ2gjVhZ5OvKn) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [A Bossa De Caetano](https://open.spotify.com/album/4PVqfWHbgxXs9IElHBCMFy) | 3:07 |

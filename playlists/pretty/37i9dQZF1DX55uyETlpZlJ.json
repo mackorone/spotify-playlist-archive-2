@@ -1,13 +1,29 @@
 {
-  "description": "Catch up with the Indie Songs from 'namma ooru'\nCover : Sanjith Hegde",
-  "num_followers": 26731,
+  "description": "Catch up with the Indie Songs from 'namma ooru'\nCover : Vasuki Vaibhav",
+  "num_followers": 26733,
   "original_name": "Kannada Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFnduPcTH7BuwOd6r9KOoDWfIo3M",
+  "snapshot_id": "AAAAAGUzC4gJ2J87LJiaQ5hz0Vw9tolM",
   "tracks": [
+    {
+      "added_at": "2026-04-13 07:13:28",
+      "album": {
+        "name": "Gira Gira",
+        "url": "https://open.spotify.com/album/62iSk44yQVg8v2wpSiCIK4"
+      },
+      "artists": [
+        {
+          "name": "Vasuki Vaibhav",
+          "url": "https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5"
+        }
+      ],
+      "duration_ms": 210545,
+      "name": "Gira Gira",
+      "url": "https://open.spotify.com/track/7vwrPdFX2FNF6imTRXO4Pw"
+    },
     {
       "added_at": "2026-03-26 09:52:14",
       "album": {
@@ -23,6 +39,78 @@
       "duration_ms": 194687,
       "name": "Kareyole",
       "url": "https://open.spotify.com/track/41poRcXRASGAqDinA3b0Vo"
+    },
+    {
+      "added_at": "2026-04-13 07:10:39",
+      "album": {
+        "name": "Nodi Nodi Ninnane",
+        "url": "https://open.spotify.com/album/4MAfldEPWu9b3YeljuAjOT"
+      },
+      "artists": [
+        {
+          "name": "MAD-D",
+          "url": "https://open.spotify.com/artist/3UsL1DCgQGOJdiUfn80wCb"
+        },
+        {
+          "name": "Padani Tales",
+          "url": "https://open.spotify.com/artist/60jAGG92GWc2lCjX2SYIw3"
+        },
+        {
+          "name": "Pramod Maravanthe",
+          "url": "https://open.spotify.com/artist/2Rb3KxyRqgU3Wa8hGQaIIr"
+        },
+        {
+          "name": "Kishor Mysore",
+          "url": "https://open.spotify.com/artist/35lPRoCAKprDe9rqEy6a1N"
+        }
+      ],
+      "duration_ms": 137005,
+      "name": "Nodi Nodi Ninnane",
+      "url": "https://open.spotify.com/track/3rYlHY8xp8sOX5MlNkd2kU"
+    },
+    {
+      "added_at": "2026-04-13 07:12:32",
+      "album": {
+        "name": "Mouna Mathagide",
+        "url": "https://open.spotify.com/album/7dGzovEfszIyD4FQiSNaS5"
+      },
+      "artists": [
+        {
+          "name": "Nishada",
+          "url": "https://open.spotify.com/artist/7qK4oglXTmjgWuZQOowdnI"
+        },
+        {
+          "name": "MAD-D",
+          "url": "https://open.spotify.com/artist/3UsL1DCgQGOJdiUfn80wCb"
+        },
+        {
+          "name": "Padani Tales",
+          "url": "https://open.spotify.com/artist/60jAGG92GWc2lCjX2SYIw3"
+        }
+      ],
+      "duration_ms": 139641,
+      "name": "Mouna Mathagide",
+      "url": "https://open.spotify.com/track/29DCeCcblR6C1IfG9NW1cM"
+    },
+    {
+      "added_at": "2026-04-13 07:16:00",
+      "album": {
+        "name": "GODLY",
+        "url": "https://open.spotify.com/album/4i1EpyQCnxCDu2Pfi1gBBf"
+      },
+      "artists": [
+        {
+          "name": "Arhan A Betur",
+          "url": "https://open.spotify.com/artist/737rFWCotTGOPjpllN6Kw4"
+        },
+        {
+          "name": "Raathee",
+          "url": "https://open.spotify.com/artist/6hAV1GWoSJRkaRz8MGifQK"
+        }
+      ],
+      "duration_ms": 191997,
+      "name": "GODLY",
+      "url": "https://open.spotify.com/track/0CXrAoAUipEKGI4YpdHCno"
     },
     {
       "added_at": "2026-03-27 11:10:25",
@@ -59,6 +147,58 @@
       "duration_ms": 198941,
       "name": "Heartinalli",
       "url": "https://open.spotify.com/track/6RBOUvGyjz2Kzm4XmHf605"
+    },
+    {
+      "added_at": "2026-04-13 07:11:55",
+      "album": {
+        "name": "Neenillade",
+        "url": "https://open.spotify.com/album/2SZC1GoG3tDwPLPbu22LVA"
+      },
+      "artists": [
+        {
+          "name": "CHARLIE",
+          "url": "https://open.spotify.com/artist/4lab8XoG0x9TbeClnEHmFA"
+        }
+      ],
+      "duration_ms": 132832,
+      "name": "Neenillade",
+      "url": "https://open.spotify.com/track/11PNGnTBWaIx5qqgDlbb6H"
+    },
+    {
+      "added_at": "2026-04-13 07:08:51",
+      "album": {
+        "name": "Nood Bittirodhu",
+        "url": "https://open.spotify.com/album/2dfYhmjNJQ9shUywUGgDng"
+      },
+      "artists": [
+        {
+          "name": "Keerthi",
+          "url": "https://open.spotify.com/artist/512xjcN5DPYZ16JpJ1GcWt"
+        }
+      ],
+      "duration_ms": 138666,
+      "name": "Nood Bittirodhu",
+      "url": "https://open.spotify.com/track/22TrmLbW2lee3co9dvjuw2"
+    },
+    {
+      "added_at": "2026-04-13 07:05:36",
+      "album": {
+        "name": "#OooSHT - Heart Break With Attitude",
+        "url": "https://open.spotify.com/album/1RxqTxs6gS4eFAS7cNcaw6"
+      },
+      "artists": [
+        {
+          "name": "Prasanna Keshava KS",
+          "url": "https://open.spotify.com/artist/5zuK2AlgiWjxncMUfWcI2O"
+        },
+        {
+          "name": "Ajith Keshava",
+          "url": "https://open.spotify.com/artist/3bN8X7e50eYFGhuqctG5Te"
+        }
+      ],
+      "duration_ms": 254181,
+      "name": "#OooSHT - Heart Break With Attitude",
+      "url": "https://open.spotify.com/track/2Ly4JikvZ5J5IDxhFdtSTh"
     },
     {
       "added_at": "2026-03-19 09:49:24",
@@ -621,26 +761,6 @@
       "url": "https://open.spotify.com/track/2fj7hVFUFrFT3VhrAs2HxT"
     },
     {
-      "added_at": "2026-01-27 12:16:04",
-      "album": {
-        "name": "City 17",
-        "url": "https://open.spotify.com/album/0uiwfXIv3yJHjhDZdbp86z"
-      },
-      "artists": [
-        {
-          "name": "i Barz",
-          "url": "https://open.spotify.com/artist/5wYad7t3MNrNAvoBXYjJmf"
-        },
-        {
-          "name": "Impressionist",
-          "url": "https://open.spotify.com/artist/5lP4y69xIYUhCBaMNmKXwg"
-        }
-      ],
-      "duration_ms": 237809,
-      "name": "City 17",
-      "url": "https://open.spotify.com/track/1sOa4rfYm7esyeJ6qPNqvn"
-    },
-    {
       "added_at": "2026-01-20 06:28:27",
       "album": {
         "name": "Sword of Betrayal",
@@ -877,38 +997,6 @@
       "url": "https://open.spotify.com/track/3XQY6eT4hZebumFg9s3iT8"
     },
     {
-      "added_at": "2025-12-18 06:37:43",
-      "album": {
-        "name": "Ninna Mai Chataka Preetsilla",
-        "url": "https://open.spotify.com/album/2NIdPr9XEAJ6IJJ5jcTq4T"
-      },
-      "artists": [
-        {
-          "name": "Malu Nipanal Singer",
-          "url": "https://open.spotify.com/artist/1neweBRDB8wCNzQjUYmJwx"
-        }
-      ],
-      "duration_ms": 455668,
-      "name": "Ninna Mai Chataka Preetsilla",
-      "url": "https://open.spotify.com/track/2nu10EEqoqRdEA9MTtNv04"
-    },
-    {
-      "added_at": "2025-12-10 08:30:06",
-      "album": {
-        "name": "Madeshwara Dayabarade",
-        "url": "https://open.spotify.com/album/65IVcMt19JSKO9IBJbI0gT"
-      },
-      "artists": [
-        {
-          "name": "Sivasri Skandaprasad",
-          "url": "https://open.spotify.com/artist/3Du1Eif2lkTAauqUT3uFai"
-        }
-      ],
-      "duration_ms": 464029,
-      "name": "Madeshwara Dayabarade",
-      "url": "https://open.spotify.com/track/4BypHKlciMVkdKx7RcKuJA"
-    },
-    {
       "added_at": "2025-12-09 12:46:28",
       "album": {
         "name": "V C H I T R A 2",
@@ -1011,22 +1099,6 @@
       "duration_ms": 147556,
       "name": "Amuku Dumuku",
       "url": "https://open.spotify.com/track/6QtloMR4ELVROfgoEG2usu"
-    },
-    {
-      "added_at": "2025-11-26 07:08:37",
-      "album": {
-        "name": "Manasa",
-        "url": "https://open.spotify.com/album/3C7LmUBK3op8ljQinYRTgI"
-      },
-      "artists": [
-        {
-          "name": "K P Milan Kumar",
-          "url": "https://open.spotify.com/artist/2qDNsvM0P9WXNOtqXT6HlJ"
-        }
-      ],
-      "duration_ms": 294427,
-      "name": "Manasa",
-      "url": "https://open.spotify.com/track/3ATLDqRCjRSqopI0ZK4mKc"
     },
     {
       "added_at": "2025-11-13 11:33:22",
@@ -1181,22 +1253,6 @@
       "url": "https://open.spotify.com/track/2jOi8LoHhkLerCfoKkzYLR"
     },
     {
-      "added_at": "2025-11-06 11:31:27",
-      "album": {
-        "name": "Kannali Nettaru",
-        "url": "https://open.spotify.com/album/50XWWZzkekGWQCYj9ahz2r"
-      },
-      "artists": [
-        {
-          "name": "Irfan Qureshi",
-          "url": "https://open.spotify.com/artist/2tdPLV4fYx001QLlXimTBf"
-        }
-      ],
-      "duration_ms": 205072,
-      "name": "Kannali Nettaru",
-      "url": "https://open.spotify.com/track/01qOW2cYhwQGdPNMw50JlF"
-    },
-    {
       "added_at": "2025-11-10 08:15:16",
       "album": {
         "name": "Love In October",
@@ -1219,34 +1275,6 @@
       "duration_ms": 220000,
       "name": "Mugiyada Pallavi (From \"Love In October\")",
       "url": "https://open.spotify.com/track/4swU9rA8aiRSNZzQi052kU"
-    },
-    {
-      "added_at": "2025-11-07 09:36:56",
-      "album": {
-        "name": "Soul Of Punyakoti (From \"Punyakoti\")",
-        "url": "https://open.spotify.com/album/1CNfcQfMZImcd1LXuzzR0r"
-      },
-      "artists": [
-        {
-          "name": "Pruthvi P Gowda",
-          "url": "https://open.spotify.com/artist/46XbP9yqm4HqNHO3UBkTq2"
-        },
-        {
-          "name": "Tarun Karanth",
-          "url": "https://open.spotify.com/artist/00yOF4ErJUXSygppPQszoh"
-        },
-        {
-          "name": "Sandesh Sugoormutt",
-          "url": "https://open.spotify.com/artist/0Z39g7iKkNQlAgnp5lDpPP"
-        },
-        {
-          "name": "Sannidhi P Bhat",
-          "url": "https://open.spotify.com/artist/40DNtHijGZeWXkWiaUGmYi"
-        }
-      ],
-      "duration_ms": 182686,
-      "name": "Soul Of Punyakoti (From \"Punyakoti\")",
-      "url": "https://open.spotify.com/track/4gt3BKnLtNYarIOWx4udrk"
     },
     {
       "added_at": "2025-11-07 09:37:53",

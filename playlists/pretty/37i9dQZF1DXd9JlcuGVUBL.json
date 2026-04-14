@@ -1,6 +1,6 @@
 {
   "description": "Die beste country musiek. Omslag: Zach Bryan",
-  "num_followers": 43144,
+  "num_followers": 43150,
   "original_name": "Country Musiek",
   "owner": {
     "name": "Spotify",
@@ -413,6 +413,22 @@
       "url": "https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo"
     },
     {
+      "added_at": "2025-05-22 22:00:25",
+      "album": {
+        "name": "Good News",
+        "url": "https://open.spotify.com/album/7cBvtedB1E62VoOdnGx51w"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 199209,
+      "name": "Good News",
+      "url": "https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt"
+    },
+    {
       "added_at": "2025-07-25 08:00:42",
       "album": {
         "name": "Back in the Saddle",
@@ -431,18 +447,18 @@
     {
       "added_at": "2025-05-22 22:00:25",
       "album": {
-        "name": "Good News",
-        "url": "https://open.spotify.com/album/7cBvtedB1E62VoOdnGx51w"
+        "name": "After All The Bars Are Closed",
+        "url": "https://open.spotify.com/album/07gfJHUBVX2VxXovVuUGjA"
       },
       "artists": [
         {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
         }
       ],
-      "duration_ms": 199209,
-      "name": "Good News",
-      "url": "https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt"
+      "duration_ms": 191839,
+      "name": "After All The Bars Are Closed",
+      "url": "https://open.spotify.com/track/0oBbkZuDLkT8DY9DK67kfr"
     },
     {
       "added_at": "2025-05-22 22:00:25",
@@ -459,22 +475,6 @@
       "duration_ms": 228546,
       "name": "Man of the Year",
       "url": "https://open.spotify.com/track/2xlsLf7aPOZlk1p3dvwpeH"
-    },
-    {
-      "added_at": "2025-05-22 22:00:25",
-      "album": {
-        "name": "After All The Bars Are Closed",
-        "url": "https://open.spotify.com/album/07gfJHUBVX2VxXovVuUGjA"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 191839,
-      "name": "After All The Bars Are Closed",
-      "url": "https://open.spotify.com/track/0oBbkZuDLkT8DY9DK67kfr"
     },
     {
       "added_at": "2025-06-19 22:00:57",
@@ -819,18 +819,22 @@
     {
       "added_at": "2025-05-22 22:00:25",
       "album": {
-        "name": "Strong",
-        "url": "https://open.spotify.com/album/2HLqoccnVNqOfm7gpN1Svo"
+        "name": "Stay in Your Lane",
+        "url": "https://open.spotify.com/album/3ukNtDUlpfzDwFXiZFAGsh"
       },
       "artists": [
         {
-          "name": "Tyler Hubbard",
-          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
+          "name": "Bronson Diamond",
+          "url": "https://open.spotify.com/artist/0mSLLMyw3xf8LMkrIs3ZFW"
+        },
+        {
+          "name": "Greta Stanley",
+          "url": "https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC"
         }
       ],
-      "duration_ms": 164264,
-      "name": "Park",
-      "url": "https://open.spotify.com/track/119cU5gffLzRlsEGSshPNQ"
+      "duration_ms": 209417,
+      "name": "Stay in Your Lane",
+      "url": "https://open.spotify.com/track/5SItFgOQ4TKzfT8PQyosJd"
     },
     {
       "added_at": "2025-05-22 22:00:25",
@@ -851,22 +855,18 @@
     {
       "added_at": "2025-05-22 22:00:25",
       "album": {
-        "name": "Stay in Your Lane",
-        "url": "https://open.spotify.com/album/3ukNtDUlpfzDwFXiZFAGsh"
+        "name": "Strong",
+        "url": "https://open.spotify.com/album/2HLqoccnVNqOfm7gpN1Svo"
       },
       "artists": [
         {
-          "name": "Bronson Diamond",
-          "url": "https://open.spotify.com/artist/0mSLLMyw3xf8LMkrIs3ZFW"
-        },
-        {
-          "name": "Greta Stanley",
-          "url": "https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC"
+          "name": "Tyler Hubbard",
+          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
         }
       ],
-      "duration_ms": 209417,
-      "name": "Stay in Your Lane",
-      "url": "https://open.spotify.com/track/5SItFgOQ4TKzfT8PQyosJd"
+      "duration_ms": 164264,
+      "name": "Park",
+      "url": "https://open.spotify.com/track/119cU5gffLzRlsEGSshPNQ"
     }
   ],
   "unique_name": "Country Musiek",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 
 > The best of electronic trap 👑 with EVAN GIIA & Pauline Herr
 
-[Spotify](https://open.spotify.com/user/spotify) - 881,186 likes - 100 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 881,149 likes - 100 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 90 | [Keep It Moving](https://open.spotify.com/track/6S1N4cHzWrCcJ3SCkpOIft) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Keep It Moving](https://open.spotify.com/album/2UoLGeViU5qTIlKLMtxOag) | 2:40 |
 | 91 | [CONTROL](https://open.spotify.com/track/4ohXPckRwCzszhzjsYczfK) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [CONTROL](https://open.spotify.com/album/19gckw1W9jhm1Acg08yRa6) | 2:25 |
 | 92 | [HI\-FASHION \(feat\. Matt Ox, DJ Smokey\)](https://open.spotify.com/track/0ca78EYblROFZ2hrdIGMSU) | [Ailow](https://open.spotify.com/artist/270jtLW7Wr3QPEVoE2HAkB), [Lizdek](https://open.spotify.com/artist/65Kq02oh0g3gRqfZ0fo8eG), [Matt OX](https://open.spotify.com/artist/2J6pigOrBmKQgqJUY5UM7r), [Dj Smokey](https://open.spotify.com/artist/6o5wSBDuLpn2vRpPvGuGBy) | [HI\-FASHION \(feat\. Matt Ox, Dj Smokey\)](https://open.spotify.com/album/0bRNwBjkZTYH6u87PxdbFB) | 3:02 |
-| 93 | [Steps On You \(Peep My Style\)](https://open.spotify.com/track/4vk250sguUOlV3O6bPJix8) | [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg) | [Steps On You \(Peep My Style\)](https://open.spotify.com/album/28MHnDXOPNYdf3tcuvJJqt) | 2:56 |
-| 94 | [change my mind](https://open.spotify.com/track/2htiiQZqJKqY6mFUF9wh0d) | [Altare](https://open.spotify.com/artist/3W3dTmUEXbo2D9CQzNTSaI) | [change my mind](https://open.spotify.com/album/6a2hTHbTAodgtnysbaMzaH) | 3:18 |
+| 93 | [change my mind](https://open.spotify.com/track/2htiiQZqJKqY6mFUF9wh0d) | [Altare](https://open.spotify.com/artist/3W3dTmUEXbo2D9CQzNTSaI) | [change my mind](https://open.spotify.com/album/6a2hTHbTAodgtnysbaMzaH) | 3:18 |
+| 94 | [Steps On You \(Peep My Style\)](https://open.spotify.com/track/4vk250sguUOlV3O6bPJix8) | [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg) | [Steps On You \(Peep My Style\)](https://open.spotify.com/album/28MHnDXOPNYdf3tcuvJJqt) | 2:56 |
 | 95 | [AHORA](https://open.spotify.com/track/1Re81w8xdZjUNuRu1AUSoL) | [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr), [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [AHORA](https://open.spotify.com/album/4JcvArkgyQyq8C7gAETGgu) | 2:25 |
 | 96 | [iwannaliveinadream](https://open.spotify.com/track/1dwm1mf1M1DZ6Kgmn7NnD2) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [iwannaliveinadream](https://open.spotify.com/album/2s0dX6gFxvKgiEYhlfden7) | 2:45 |
 | 97 | [CIRCLES](https://open.spotify.com/track/4DOUmbni3qj9A71DtXvsXS) | [SPORTMODE](https://open.spotify.com/artist/1kp5El0IY8pR8AGgVtgFhK) | [CIRCLES](https://open.spotify.com/album/4cIQpUbjCi5J9DpSx3wg0E) | 3:08 |

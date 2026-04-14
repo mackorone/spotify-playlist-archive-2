@@ -4203,6 +4203,24 @@
     },
     {
       "album": {
+        "name": "OBRA PRIMA",
+        "url": "https://open.spotify.com/album/059jQeL3t3lHZqzcTcs39N"
+      },
+      "artists": [
+        {
+          "name": "MC Gustavinho",
+          "url": "https://open.spotify.com/artist/77yd8ef29EG05232JEQzXu"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169855,
+      "name": "OBRA PRIMA",
+      "url": "https://open.spotify.com/track/0IEHquF8iEgFBtTntygFcv"
+    },
+    {
+      "album": {
         "name": "Olha esse mar",
         "url": "https://open.spotify.com/album/6NTdLGZVkZMakGaRXbLMEj"
       },
@@ -5618,7 +5636,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 129962,
       "name": "Solidificando a Caminhada",
       "url": "https://open.spotify.com/track/0WHHtSyBfAcWB4OnM1tIiE"

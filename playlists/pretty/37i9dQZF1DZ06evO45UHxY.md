@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45UHxY.md) - [plain]
 
 > This is Banda Zeta\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,861 likes - 49 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,862 likes - 49 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45UHxY.md) - [plain]
 | 15 | [La Calentura](https://open.spotify.com/track/2m0pHZCgBtCad5Pv0RBCfw) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [La Calentura](https://open.spotify.com/album/2NUDVbL3mZcLCsyx2QCrpi) | 3:04 |
 | 16 | [Vamos a Bailar](https://open.spotify.com/track/2cCmVHY634pSwyfBt4EdM8) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Vamos a Bailar](https://open.spotify.com/album/71Q38XqKyNEA0IAGpEPS9Z) | 2:45 |
 | 17 | [El Gato Del Vecindario](https://open.spotify.com/track/2jo1sQtqrlESeZw95MOrlF) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Jacarandosa](https://open.spotify.com/album/3QXuIFZnAGmlahOic59KsT) | 2:31 |
-| 18 | [Luna](https://open.spotify.com/track/2heL7osf5TOVYLLczovWN6) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL), [La Original Banda GM](https://open.spotify.com/artist/3NSgRhld0JBzrIvPj7bXAw) | [Luna](https://open.spotify.com/album/5X7cego1SYUkPvv7WKP1Vl) | 3:26 |
-| 19 | [Un Engaño Más](https://open.spotify.com/track/6GLVpQEhEFzyRQsPUqQtJI) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Sorprendente](https://open.spotify.com/album/6BeCNDHtOYtfx414xhy3my) | 2:59 |
+| 18 | [Un Engaño Más](https://open.spotify.com/track/6GLVpQEhEFzyRQsPUqQtJI) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Sorprendente](https://open.spotify.com/album/6BeCNDHtOYtfx414xhy3my) | 2:59 |
+| 19 | [Luna](https://open.spotify.com/track/2heL7osf5TOVYLLczovWN6) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL), [La Original Banda GM](https://open.spotify.com/artist/3NSgRhld0JBzrIvPj7bXAw) | [Luna](https://open.spotify.com/album/5X7cego1SYUkPvv7WKP1Vl) | 3:26 |
 | 20 | [Nuestra Historia](https://open.spotify.com/track/511XZdwlR7AsyZUkB8WlHt) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Nuestra Historia](https://open.spotify.com/album/7678QXF0V3qAnNMcmJ0XwA) | 2:14 |
 | 21 | [Jacarandosa](https://open.spotify.com/track/2PJi77YuMKNlcKtRLFAbIi) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Jacarandosa](https://open.spotify.com/album/3QXuIFZnAGmlahOic59KsT) | 3:10 |
 | 22 | [Aerobics de señoritas](https://open.spotify.com/track/5peoeFKvBESDFc7Ej2G3Bp) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Grupero Hits](https://open.spotify.com/album/5dVfZriigZIsjQrK9veAlV) | 2:47 |
@@ -41,21 +41,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45UHxY.md) - [plain]
 | 31 | [Dónde Estás Corazón](https://open.spotify.com/track/0wGucLJrFq4NVPRIXO8JVA) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Dónde Estás Corazón](https://open.spotify.com/album/4KeWgca4KdauXP0g26aFRM) | 3:16 |
 | 32 | [Cena de Plomo](https://open.spotify.com/track/7oMDzR2APsPC2HfTxW78Sh) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Sorprendente](https://open.spotify.com/album/6BeCNDHtOYtfx414xhy3my) | 2:49 |
 | 33 | [El señor de las canas](https://open.spotify.com/track/2N0gHRZb3TgOqssub2q8wm) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [16 de Septiembre: Gruperas \(USA\) \[Vol\. 2\]](https://open.spotify.com/album/63mvOAHFDhD2QZLVfNAMcn) | 2:48 |
-| 34 | [La pálida luz](https://open.spotify.com/track/6nF4Tx3YnLa7isBilAnchR) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Top Banda](https://open.spotify.com/album/7H1xTRVWgrtsoc50GkHCmd) | 2:37 |
-| 35 | [La chica del tec](https://open.spotify.com/track/5hcY0tnytA0kwAvj42P7eF) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Corridos Mexicanos](https://open.spotify.com/album/6YQDaHi4rLGhKQxgjiGVJk) | 2:20 |
-| 36 | [Muéveme el Pollo](https://open.spotify.com/track/0V2BArW7hihAeaHorTRkfE) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [El Califas y Sus Cumbias Calientes, Vol\. 1](https://open.spotify.com/album/5oPRkto48eDXdlHehBWY4I) | 3:01 |
-| 37 | [Arrepentida](https://open.spotify.com/track/70TwKdpqicn3iyocKhmFP0) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Baladas de Banda](https://open.spotify.com/album/7yH1lqItrx5HzgJewnS7YO) | 3:05 |
-| 38 | [Cobardemente](https://open.spotify.com/track/2FiUBzxN2JsGcIoQnKyBg3) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Sorprendente](https://open.spotify.com/album/6BeCNDHtOYtfx414xhy3my) | 3:00 |
-| 39 | [Zapatos viejos](https://open.spotify.com/track/4vXizQTMHAA7AnqBESDfUd) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Grandes Bandas](https://open.spotify.com/album/6DejTyQTl57yvFotq3l4xg) | 2:51 |
-| 40 | [Amor De Manicomio](https://open.spotify.com/track/2sSFUftb0VboazUCZJ6TKD) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Amor De Manicomio](https://open.spotify.com/album/2yU8o8qKqKD7NRlZu7NNt1) | 3:11 |
-| 41 | [Si la Ves](https://open.spotify.com/track/68m4KdheKS5MKQJPnPYq2E) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Lo Mejor de Lo Mejor Desde Durango](https://open.spotify.com/album/65wK0llf5TIYYgelKhbIom) | 4:12 |
-| 42 | [Pies de Chicle](https://open.spotify.com/track/1UPH534fJWHjmlgNkntVxy) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Sorprendente](https://open.spotify.com/album/6BeCNDHtOYtfx414xhy3my) | 2:55 |
+| 34 | [La chica del tec](https://open.spotify.com/track/5hcY0tnytA0kwAvj42P7eF) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Corridos Mexicanos](https://open.spotify.com/album/6YQDaHi4rLGhKQxgjiGVJk) | 2:20 |
+| 35 | [La pálida luz](https://open.spotify.com/track/6nF4Tx3YnLa7isBilAnchR) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Top Banda](https://open.spotify.com/album/7H1xTRVWgrtsoc50GkHCmd) | 2:37 |
+| 36 | [Cobardemente](https://open.spotify.com/track/2FiUBzxN2JsGcIoQnKyBg3) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Sorprendente](https://open.spotify.com/album/6BeCNDHtOYtfx414xhy3my) | 3:00 |
+| 37 | [Muéveme el Pollo](https://open.spotify.com/track/0V2BArW7hihAeaHorTRkfE) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [El Califas y Sus Cumbias Calientes, Vol\. 1](https://open.spotify.com/album/5oPRkto48eDXdlHehBWY4I) | 3:01 |
+| 38 | [Arrepentida](https://open.spotify.com/track/70TwKdpqicn3iyocKhmFP0) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Baladas de Banda](https://open.spotify.com/album/7yH1lqItrx5HzgJewnS7YO) | 3:05 |
+| 39 | [Amor De Manicomio](https://open.spotify.com/track/2sSFUftb0VboazUCZJ6TKD) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Amor De Manicomio](https://open.spotify.com/album/2yU8o8qKqKD7NRlZu7NNt1) | 3:11 |
+| 40 | [Pies de Chicle](https://open.spotify.com/track/1UPH534fJWHjmlgNkntVxy) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Sorprendente](https://open.spotify.com/album/6BeCNDHtOYtfx414xhy3my) | 2:55 |
+| 41 | [Zapatos viejos](https://open.spotify.com/track/4vXizQTMHAA7AnqBESDfUd) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Grandes Bandas](https://open.spotify.com/album/6DejTyQTl57yvFotq3l4xg) | 2:51 |
+| 42 | [Si la Ves](https://open.spotify.com/track/68m4KdheKS5MKQJPnPYq2E) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Lo Mejor de Lo Mejor Desde Durango](https://open.spotify.com/album/65wK0llf5TIYYgelKhbIom) | 4:12 |
 | 43 | [Cumbiando Con Zeta](https://open.spotify.com/track/7qCGUZmFIlvPp8oupXpSBS) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [100% Tropical, Vol\. 8](https://open.spotify.com/album/4fUo5HuqR1xV11sSGaAF49) | 2:57 |
-| 44 | [Me Vas a Querer](https://open.spotify.com/track/2K6Zx6HvAfzPj8ZEX1e1cz) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Tropicalandia](https://open.spotify.com/album/2nUuPgFwSsktVjUJf06Cqe) | 3:40 |
-| 45 | [Con la Manito Arriba](https://open.spotify.com/track/7cuH3sbvoIXG9O4oz4Xeml) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [100% Tropical, Vol\. 6](https://open.spotify.com/album/4ifve9dN8r3IjOq5WjwLK6) | 3:19 |
-| 46 | [De Chivito los Tamales](https://open.spotify.com/track/5IgsBtotWUXW6QzwZtLt93) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Sorprendente](https://open.spotify.com/album/6BeCNDHtOYtfx414xhy3my) | 2:42 |
+| 44 | [De Chivito los Tamales](https://open.spotify.com/track/5IgsBtotWUXW6QzwZtLt93) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Sorprendente](https://open.spotify.com/album/6BeCNDHtOYtfx414xhy3my) | 2:42 |
+| 45 | [Me Vas a Querer](https://open.spotify.com/track/2K6Zx6HvAfzPj8ZEX1e1cz) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Tropicalandia](https://open.spotify.com/album/2nUuPgFwSsktVjUJf06Cqe) | 3:40 |
+| 46 | [Con la Manito Arriba](https://open.spotify.com/track/7cuH3sbvoIXG9O4oz4Xeml) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [100% Tropical, Vol\. 6](https://open.spotify.com/album/4ifve9dN8r3IjOq5WjwLK6) | 3:19 |
 | 47 | [Llena de Amor](https://open.spotify.com/track/0thgST7TUDPVuW8wTE1LXH) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Charangas, Vol\. 3](https://open.spotify.com/album/0UqWpT5GDnIM6KyyPdJTwF) | 4:05 |
-| 48 | [Dime Lo Que Quieras](https://open.spotify.com/track/4TDXDWUIo7thhqXLrqhw1A) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Tropicalandia, Vol\. II](https://open.spotify.com/album/57vgkfk1F10xH338L7SJIc) | 3:30 |
-| 49 | [El Traficante](https://open.spotify.com/track/584f81SKtZ8du0bfsz8mNM) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Sorprendente](https://open.spotify.com/album/6BeCNDHtOYtfx414xhy3my) | 3:04 |
+| 48 | [El Traficante](https://open.spotify.com/track/584f81SKtZ8du0bfsz8mNM) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Sorprendente](https://open.spotify.com/album/6BeCNDHtOYtfx414xhy3my) | 3:04 |
+| 49 | [Dime Lo Que Quieras](https://open.spotify.com/track/4TDXDWUIo7thhqXLrqhw1A) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Tropicalandia, Vol\. II](https://open.spotify.com/album/57vgkfk1F10xH338L7SJIc) | 3:30 |
 
-Snapshot ID: `admPAAAAAAAI+XIDAgdC8MhIe3btfIvO`
+Snapshot ID: `adrggAAAAACHTQHs0L93l1TvGhz/SGVn`

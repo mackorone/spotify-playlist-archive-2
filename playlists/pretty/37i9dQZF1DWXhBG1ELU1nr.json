@@ -1,6 +1,6 @@
 {
   "description": "Uma sele\u00e7\u00e3o de hits pra te acompanhar no home office.",
-  "num_followers": 233585,
+  "num_followers": 233581,
   "original_name": "Trabalhando de Casa",
   "owner": {
     "name": "Spotify",
@@ -851,6 +851,22 @@
     {
       "added_at": "2024-02-27 20:15:05",
       "album": {
+        "name": "Chris Cornell (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1BLVdtavgYFMQvzvX3oHpe"
+      },
+      "artists": [
+        {
+          "name": "Chris Cornell",
+          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
+        }
+      ],
+      "duration_ms": 303906,
+      "name": "Nothing Compares 2 U - Live At SiriusXM/2015",
+      "url": "https://open.spotify.com/track/0tUELgOuOJ3KCsYMDDsNvD"
+    },
+    {
+      "added_at": "2024-02-27 20:15:05",
+      "album": {
         "name": "S\u00f3 No Forevis",
         "url": "https://open.spotify.com/album/2KPL3UpVUBQxgVOCX91xEE"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 233733,
       "name": "A mais pedida (feat. \u00c9rika Martins)",
       "url": "https://open.spotify.com/track/349flwjNbqIaE0Mph3jLGD"
-    },
-    {
-      "added_at": "2024-02-27 20:15:05",
-      "album": {
-        "name": "Chris Cornell (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1BLVdtavgYFMQvzvX3oHpe"
-      },
-      "artists": [
-        {
-          "name": "Chris Cornell",
-          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
-        }
-      ],
-      "duration_ms": 303906,
-      "name": "Nothing Compares 2 U - Live At SiriusXM/2015",
-      "url": "https://open.spotify.com/track/0tUELgOuOJ3KCsYMDDsNvD"
     },
     {
       "added_at": "2024-02-27 20:15:05",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-02-27 20:15:05",
       "album": {
-        "name": "Skid Row",
-        "url": "https://open.spotify.com/album/0kSTuMp9GpX9pJR45Bksgi"
-      },
-      "artists": [
-        {
-          "name": "Skid Row",
-          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
-        }
-      ],
-      "duration_ms": 313693,
-      "name": "I Remember You",
-      "url": "https://open.spotify.com/track/4ZpXHlV2vQVfPXUvbDSZ92"
-    },
-    {
-      "added_at": "2024-02-27 20:15:05",
-      "album": {
         "name": "Out Of Time (U.S. Version)",
         "url": "https://open.spotify.com/album/4v5hSLj6ClyLqj2nnaPbfD"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 267733,
       "name": "Losing My Religion",
       "url": "https://open.spotify.com/track/74EV0g12ihUoOUXMprFpZB"
+    },
+    {
+      "added_at": "2024-02-27 20:15:05",
+      "album": {
+        "name": "Skid Row",
+        "url": "https://open.spotify.com/album/0kSTuMp9GpX9pJR45Bksgi"
+      },
+      "artists": [
+        {
+          "name": "Skid Row",
+          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
+        }
+      ],
+      "duration_ms": 313693,
+      "name": "I Remember You",
+      "url": "https://open.spotify.com/track/4ZpXHlV2vQVfPXUvbDSZ92"
     },
     {
       "added_at": "2024-02-27 20:15:05",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-02-27 20:15:05",
       "album": {
-        "name": "A Arte De Cazuza",
-        "url": "https://open.spotify.com/album/1D4lMnP5npjJzw9GRtQMJi"
-      },
-      "artists": [
-        {
-          "name": "Cazuza",
-          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
-        }
-      ],
-      "duration_ms": 222200,
-      "name": "Exagerado",
-      "url": "https://open.spotify.com/track/3ZRWcArefd1sfpdw5icCM7"
-    },
-    {
-      "added_at": "2024-02-27 20:15:05",
-      "album": {
         "name": "Hopes and Fears (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5QqVXRTiGpLgmo1YNoz9Bk"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 216520,
       "name": "Everybody's Changing",
       "url": "https://open.spotify.com/track/216S5ED9SNRWaHWVjSJGyX"
+    },
+    {
+      "added_at": "2024-02-27 20:15:05",
+      "album": {
+        "name": "A Arte De Cazuza",
+        "url": "https://open.spotify.com/album/1D4lMnP5npjJzw9GRtQMJi"
+      },
+      "artists": [
+        {
+          "name": "Cazuza",
+          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
+        }
+      ],
+      "duration_ms": 222200,
+      "name": "Exagerado",
+      "url": "https://open.spotify.com/track/3ZRWcArefd1sfpdw5icCM7"
     },
     {
       "added_at": "2024-02-27 20:15:05",

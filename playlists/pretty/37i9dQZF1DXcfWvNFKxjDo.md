@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: BOVSKI
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,579 likes - 91 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,593 likes - 91 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,12 +14,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 4 | [Money](https://open.spotify.com/track/4EkzKYYjvYhrJICl3MlbeJ) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Mark Neve](https://open.spotify.com/artist/0JRqO4cmb3UXFw4itnYSaH) | [Money](https://open.spotify.com/album/34vI2Yhs8mhxWMgWgK1Z9q) | 1:50 |
 | 5 | [Bad Angel \(with LISA\)](https://open.spotify.com/track/4QR40LqFAbMdabh4AoZJGZ) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Bad Angel \(with LISA\)](https://open.spotify.com/album/4RyojhEO0VsnNacY6C3te7) | 2:33 |
 | 6 | [Echo](https://open.spotify.com/track/1HJqcvrJAgiID47SEGe27X) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Echo](https://open.spotify.com/album/37CYoaYJA39qUt4zl00Dnp) | 3:39 |
-| 7 | [That's When You Know](https://open.spotify.com/track/1XhItJSBxL5yKh0V0ymg6D) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [That's When You Know](https://open.spotify.com/album/2XgEVPnq6LHLAKAIJXmlHZ) | 3:13 |
-| 8 | [PSYCHO](https://open.spotify.com/track/6TnQUNziXgjkZUaO9b7jtd) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [IRAH](https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU) | [PSYCHO](https://open.spotify.com/album/39p9ftmJjRq3pB7c2jdWqd) | 3:24 |
-| 9 | [Where We Go](https://open.spotify.com/track/1aHAmd4iXRRkXIrTJwKncm) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Where We Go](https://open.spotify.com/album/6NtERYanUda0B8Oh1LI1LE) | 3:16 |
-| 10 | [Never Alone](https://open.spotify.com/track/3faULtxqyZix6LN2BjruRU) | [LEVT](https://open.spotify.com/artist/5xtKvLkmqMb5tTMuU9Lgmn) | [Never Alone](https://open.spotify.com/album/02liNBButlwHh0lC5UW5Yp) | 3:05 |
-| 11 | [The Last Time](https://open.spotify.com/track/2L0zhlf3PzOuoxr3WfCBhX) | [Immersed](https://open.spotify.com/artist/32gWxeDN3ZzMUNfoiKWGEr) | [The Last Time](https://open.spotify.com/album/0z8wNo1gsaFX1CP2wuqwwo) | 3:13 |
-| 12 | [Vem Comigo](https://open.spotify.com/track/3zr7VbJvavpspJF2JipvQ1) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Olive Anguz](https://open.spotify.com/artist/3d0AuH83bH58zFUU7Z1hMk), [Project Zeitgeist](https://open.spotify.com/artist/6Fryg7OCCsApuKUvkcGVg3) | [Vem Comigo](https://open.spotify.com/album/324AIUKj8Q96Ir66ng7SmX) | 3:27 |
+| 7 | [Never Alone](https://open.spotify.com/track/3faULtxqyZix6LN2BjruRU) | [LEVT](https://open.spotify.com/artist/5xtKvLkmqMb5tTMuU9Lgmn) | [Never Alone](https://open.spotify.com/album/02liNBButlwHh0lC5UW5Yp) | 3:05 |
+| 8 | [Vem Comigo](https://open.spotify.com/track/3zr7VbJvavpspJF2JipvQ1) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Olive Anguz](https://open.spotify.com/artist/3d0AuH83bH58zFUU7Z1hMk), [Project Zeitgeist](https://open.spotify.com/artist/6Fryg7OCCsApuKUvkcGVg3) | [Vem Comigo](https://open.spotify.com/album/324AIUKj8Q96Ir66ng7SmX) | 3:27 |
+| 9 | [That's When You Know](https://open.spotify.com/track/1XhItJSBxL5yKh0V0ymg6D) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [That's When You Know](https://open.spotify.com/album/2XgEVPnq6LHLAKAIJXmlHZ) | 3:13 |
+| 10 | [PSYCHO](https://open.spotify.com/track/6TnQUNziXgjkZUaO9b7jtd) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [IRAH](https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU) | [PSYCHO](https://open.spotify.com/album/39p9ftmJjRq3pB7c2jdWqd) | 3:24 |
+| 11 | [Where We Go](https://open.spotify.com/track/1aHAmd4iXRRkXIrTJwKncm) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Where We Go](https://open.spotify.com/album/6NtERYanUda0B8Oh1LI1LE) | 3:16 |
+| 12 | [The Last Time](https://open.spotify.com/track/2L0zhlf3PzOuoxr3WfCBhX) | [Immersed](https://open.spotify.com/artist/32gWxeDN3ZzMUNfoiKWGEr) | [The Last Time](https://open.spotify.com/album/0z8wNo1gsaFX1CP2wuqwwo) | 3:13 |
 | 13 | [Chicago Baby](https://open.spotify.com/track/2AkcyJ8tQtyrGfkWa6GKed) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Felix Da Housecat](https://open.spotify.com/artist/4rC8J4M4aOqsQSCP4yoyJI) | [Chicago Baby](https://open.spotify.com/album/56qBECtIQmJtnafmpF70IS) | 3:36 |
 | 14 | [Beautiful \(with Joji\)](https://open.spotify.com/track/1vH3BkNnHqOpWA4jsmDEH2) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Beautiful \(with Joji\)](https://open.spotify.com/album/2CpahiICjXexEynp7scGe4) | 3:35 |
 | 15 | [Jikininki's Hunger](https://open.spotify.com/track/3nmzd1PhC7H5G3RHTe6zqU) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF) | [Jikininki's Hunger](https://open.spotify.com/album/4v2TQJbYIk2a4MCC8p2qfW) | 2:36 |
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 90 | [Leave Me Alone](https://open.spotify.com/track/7soZfLihzVdf7KYRFy573c) | [WOODKIN](https://open.spotify.com/artist/1erMnbnkJ35Y62j7oBr7kj), [Mollono.Bass](https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF), [MAZ'N](https://open.spotify.com/artist/1yYMHWtDyG3bb1DYKUpNOL) | [Leave Me Alone](https://open.spotify.com/album/1753GL3gA0U4WA3o6Shb0Y) | 3:13 |
 | 91 | [Sports](https://open.spotify.com/track/5MCPBLIGrQMCnCpz9SnlQM) | [Bad Boombox](https://open.spotify.com/artist/6ZisvOKQY2LDItOkbsy2qd) | [Influences EP](https://open.spotify.com/album/6JeEUhPKU5X7ynXIdislx6) | 3:12 |
 
-Snapshot ID: `AAAAADMOv0SwhNY88ntPR4YZacsiuHUE`
+Snapshot ID: `AAAAAGL/JT+9F3KBsVy+8vOKHDGXc/sr`

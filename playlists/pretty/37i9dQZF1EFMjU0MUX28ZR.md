@@ -102,10 +102,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMjU0MUX28ZR.md) - [plain]
 | 92 | [Warp Speed Suzie](https://open.spotify.com/track/6uGTGFm1AchlydB9uW04P9) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [Ultra Mango](https://open.spotify.com/album/0quCp4fi92StDM27DUSHS5) | 2:56 |
 | 93 | [rhythm of love](https://open.spotify.com/track/2Wbbwo15KF1eGPQKgCwDL6) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [don't hold me accountable](https://open.spotify.com/album/2u6W98T3gHuYNrkQbOZVyB) | 2:58 |
 | 94 | [New Eyes](https://open.spotify.com/track/7iMfuQDXKZW27BzTbqcoP5) | [Blair](https://open.spotify.com/artist/5dllmwFsq4JlN1YK0f41Sm) | [New Eyes](https://open.spotify.com/album/6Ts3DkmshODnrh3AuDlvHC) | 3:29 |
-| 95 | [Joy of Missing Out](https://open.spotify.com/track/0pNBvEYh2khOnyu6OtfNj5) | [AleXa](https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU) | [Sugarcoat](https://open.spotify.com/album/7rOUvjZLw3Nwp90KthdpKL) | 3:11 |
-| 96 | [Boys Like You](https://open.spotify.com/track/33QE5K5TiGHsGwHf0nAsxj) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Alive and Unwell](https://open.spotify.com/album/6s1pB9DnJEgdQVEXDzHsgB) | 3:00 |
-| 97 | [Last Yr Rly Sucked](https://open.spotify.com/track/4jK6fPZa7ul8PSc0ekgsly) | [StayLoose](https://open.spotify.com/artist/6kyUfziWP8ydAsKzyXsC83), [Blair](https://open.spotify.com/artist/5dllmwFsq4JlN1YK0f41Sm) | [Last Yr Rly Sucked](https://open.spotify.com/album/3b5jgWe63pMvAM8CGQjsk1) | 2:47 |
-| 98 | [Drinking Game](https://open.spotify.com/track/3NpotblRm0XLn747iCZ75w) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Drinking Game](https://open.spotify.com/album/6yBtHDlryRS2EQAfGYNMQN) | 2:50 |
+| 95 | [Drinking Game](https://open.spotify.com/track/3NpotblRm0XLn747iCZ75w) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Drinking Game](https://open.spotify.com/album/6yBtHDlryRS2EQAfGYNMQN) | 2:50 |
+| 96 | [Joy of Missing Out](https://open.spotify.com/track/0pNBvEYh2khOnyu6OtfNj5) | [AleXa](https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU) | [Sugarcoat](https://open.spotify.com/album/7rOUvjZLw3Nwp90KthdpKL) | 3:11 |
+| 97 | [Boys Like You](https://open.spotify.com/track/33QE5K5TiGHsGwHf0nAsxj) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Alive and Unwell](https://open.spotify.com/album/6s1pB9DnJEgdQVEXDzHsgB) | 3:00 |
+| 98 | [Last Yr Rly Sucked](https://open.spotify.com/track/4jK6fPZa7ul8PSc0ekgsly) | [StayLoose](https://open.spotify.com/artist/6kyUfziWP8ydAsKzyXsC83), [Blair](https://open.spotify.com/artist/5dllmwFsq4JlN1YK0f41Sm) | [Last Yr Rly Sucked](https://open.spotify.com/album/3b5jgWe63pMvAM8CGQjsk1) | 2:47 |
 | 99 | [Liquid Courage](https://open.spotify.com/track/0fuLYP5x6NvYjowORYssbs) | [Blair](https://open.spotify.com/artist/5dllmwFsq4JlN1YK0f41Sm) | [Liquid Courage](https://open.spotify.com/album/43vbxovedhrL0jriQY0tN7) | 3:25 |
 | 100 | [Quiet](https://open.spotify.com/track/6aBdP1eyRPUM1HwM8Y1Adp) | [Mark Diamond](https://open.spotify.com/artist/7Il2FrLyoQt0JlyhJRDL1c) | [Butterflies In My Head](https://open.spotify.com/album/1lO8SArbhIeGhr2MrnnLzy) | 3:02 |
 | 101 | [Stay Single](https://open.spotify.com/track/33VBeE2AuU9sbVnZYncmVm) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Confessions: An Unexpected Turn of Events](https://open.spotify.com/album/3FvYnph2PkFCVoUkjUpMCE) | 2:27 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMjU0MUX28ZR.md) - [plain]
 | 109 | [Tactical](https://open.spotify.com/track/0K4medaHHc6OjEEgBy2qHn) | [Charlie Darker](https://open.spotify.com/artist/7C0yh6MRghHb3T7lPvtSjX) | [Dojo EP](https://open.spotify.com/album/3TYmNSqOycjNSMaXmG46zf) | 6:31 |
 | 110 | [Dojo](https://open.spotify.com/track/6EdpnaVhFJZGkI0th2SQwW) | [Charlie Darker](https://open.spotify.com/artist/7C0yh6MRghHb3T7lPvtSjX) | [Dojo EP](https://open.spotify.com/album/3TYmNSqOycjNSMaXmG46zf) | 5:03 |
 
-Snapshot ID: `AcOsPgAAAADNfMAtyNaalbO8Q7aWHxoJ`
+Snapshot ID: `AcOx3gAAAABwXtt6OjokYOw8qo+6iuP4`

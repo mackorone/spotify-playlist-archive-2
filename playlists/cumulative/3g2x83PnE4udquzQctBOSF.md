@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-682 songs - 1 day 18 hr 48 min
+685 songs - 1 day 19 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Amor](https://open.spotify.com/track/2pqBgFAxdgVXcmtG16SB5O) | [MUUS](https://open.spotify.com/artist/3wkqbqrDYzltNpxWK6sgsH) | [Amor](https://open.spotify.com/album/4JzfgP4l8bmmUG0hfoZIpd) | 3:42 | 2023-03-19 | 2023-04-10 |
 | [Amused](https://open.spotify.com/track/6HwWPFDSqwHiWdjCdHHi6G) | [Havoc & Lawn](https://open.spotify.com/artist/6EaFaq8NthVEQYSHSemmBv) | [Amused EP](https://open.spotify.com/album/71ViKLNXZ55srxn3MZN4Js) | 3:15 | 2024-03-10 | 2024-05-20 |
 | [Annihilator](https://open.spotify.com/track/58kLQbV9LjVBrvRRB0n2cI) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI) | [Annihilator](https://open.spotify.com/album/0kYOVcPoZ8Zk5JnVOOarDg) | 2:34 | 2023-04-30 | 2023-05-23 |
+| [Arc Collapse](https://open.spotify.com/track/0PTY4KyAIiHqkU2QV5xydQ) | [Elyan Voss](https://open.spotify.com/artist/5sWdz3Dq7RrWTMWOlfrekX) | [Arc Collapse](https://open.spotify.com/album/166bFbYTP5TwMU93pQe0Va) | 4:00 | 2026-04-13 |  |
 | [Ashes Born](https://open.spotify.com/track/6B3dkqE8d4goGXNhTaeS65) | [Audio Horizon](https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz) | [Afterhours: Cinematic Techno \(Vol\. 1\)](https://open.spotify.com/album/0bBdJLYoz7A5noEA8jVREa) | 3:58 | 2026-03-22 |  |
 | [Asking \(feat\. Clementine Douglas\) \- Joshwa Remix](https://open.spotify.com/track/3ouJdNXRk1JFjXGu11Q5BR) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Asking \(feat\. Clementine Douglas\) \[Joshwa Remix\]](https://open.spotify.com/album/1RotBVyL3ROSBdHQ5soI2L) | 3:01 | 2023-08-20 | 2023-09-26 |
 | [Atmosphere](https://open.spotify.com/track/1aNUSKBe6UMyMk3pEu9ws7) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Atmosphere](https://open.spotify.com/album/3rGYf6tkyIJ4BE2O2k7o0d) | 3:02 | 2023-08-13 | 2023-09-26 |
@@ -180,6 +181,7 @@
 | [Ear Candy](https://open.spotify.com/track/1qhPpCSwALaIVLgxY2i421) | [Ramin Rezaie](https://open.spotify.com/artist/4kJADEfmcYZAHfXzvIfg2w) | [Ear Candy](https://open.spotify.com/album/3ENboL13VOTEbxwtGymquP) | 3:29 | 2023-03-31 | 2023-04-17 |
 | [Eastside](https://open.spotify.com/track/17eXvlZ3lu7QdlLHpBz0nX) | [Ky William](https://open.spotify.com/artist/2dIpuJtQApGRmGeUobllYq), [Fear & Lowe](https://open.spotify.com/artist/5q0UuhAqlTNi9a5brL6Nn8) | [Eastside](https://open.spotify.com/album/5MmdBAQlg46EzgfQTSmjp9) | 2:55 | 2023-11-26 | 2024-02-05 |
 | [EAT THE BASS](https://open.spotify.com/track/1ViErUfDfWkXPXTsjj3kyh) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [EAT THE BASS](https://open.spotify.com/album/0BAJwAHBOc08RczC0TMb7l) | 3:22 | 2024-04-14 | 2024-07-08 |
+| [Echoes Stay](https://open.spotify.com/track/4Cm9vJebe6HsA8Xqg3X7pE) | [Ziozland](https://open.spotify.com/artist/46nIUadh3lmdRPgfO4ciC6) | [Echoes Stay](https://open.spotify.com/album/1f5XymSAfNyP5m6kwoMZB8) | 4:08 | 2026-04-13 |  |
 | [EL AMOR \(CUT MIX\) \- Remaster](https://open.spotify.com/track/5JSG83kHtIiIrogXLjds43) | [TWOEF](https://open.spotify.com/artist/2QJuVsoNKHRWGaxomS9ity) | [CHRISTMAS CUT MIX VOL.I \(Remaster\)](https://open.spotify.com/album/44LUOfg77GpT5ikaTD7sbr) | 2:10 | 2025-12-23 | 2026-01-03 |
 | [El Baile de Carlito](https://open.spotify.com/track/6E8VN9DP3RzSv5R8m0K0UM) | [Carlito](https://open.spotify.com/artist/3nZReQzzyTIXP692DUqhxD) | [El Baile de Carlito](https://open.spotify.com/album/7qWXaz2mgOMsomrpwAzcgT) | 2:03 | 2026-03-10 |  |
 | [El Mundo \- The Cube Guys Radio Edit](https://open.spotify.com/track/2E95UxSc3sbPymFdUKF2AB) | [Chicca Leaf](https://open.spotify.com/artist/2iVXJkRvP2E1xoG5mVOYlJ), [Mess](https://open.spotify.com/artist/6ZgLX6dxeYh2VCXlZBHp17), [Kenzo \(ITA\)](https://open.spotify.com/artist/3OCNLDaUydg5VsX811Zod3), [The Cube Guys](https://open.spotify.com/artist/2orIEMw3OyKWIaZ6CGueGg) | [El Mundo \(The Cube Guys Mix\)](https://open.spotify.com/album/211GpUDZSpVWGOd47XSaRY) | 2:01 | 2026-02-25 |  |
@@ -547,6 +549,7 @@
 | [Some More](https://open.spotify.com/track/5nKoXD5R3PN5KwmxrkoCHb) | [GREEDO](https://open.spotify.com/artist/3yu7ddRCRTmHlxmz7NWO0c) | [Some More](https://open.spotify.com/album/0K9XP2XPW1R5vx6IV9pnvC) | 3:00 | 2024-03-10 | 2024-05-20 |
 | [SOMEBODY HERE?](https://open.spotify.com/track/38PbBMCHd67hE9XQrHFwut) | [KODELEAN DJ](https://open.spotify.com/artist/2CG8X1NKy4XkOxsUckIrWl) | [SOMEBODY HERE?](https://open.spotify.com/album/3Bkcjr5mpF6mxqlJL3MDHu) | 2:30 | 2025-11-29 | 2026-01-03 |
 | [SOMEBODY HERE? \- Extended Version](https://open.spotify.com/track/3pWjNTp2YCT5hVkXZ0JdNB) | [KODELEAN DJ](https://open.spotify.com/artist/2CG8X1NKy4XkOxsUckIrWl) | [SOMEBODY HERE?](https://open.spotify.com/album/3Bkcjr5mpF6mxqlJL3MDHu) | 4:01 | 2025-12-01 | 2026-01-03 |
+| [Someone You Loved](https://open.spotify.com/track/4zbRnZqsAmgYkIrrcQPqHO) | [Ricardo Mello](https://open.spotify.com/artist/49qyJyMqBIYFCRnKUDHcvi) | [Someone You Loved](https://open.spotify.com/album/4IH8I4Q0gz6v5ZANYJaqvf) | 3:15 | 2026-04-13 |  |
 | [Something In Your Eyes](https://open.spotify.com/track/5vr8JEu7dWxm6p1IXBGEbH) | [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO) | [Something In Your Eyes](https://open.spotify.com/album/5s4ZxE4IDV0TlOBwZNAPo1) | 2:08 | 2023-03-05 | 2023-03-20 |
 | [Soul Sing](https://open.spotify.com/track/6Kaq0Tp4vak93B7BcTWnnD) | [KeepNoise](https://open.spotify.com/artist/6iMok0Y9VLcNLkjuUi3sS9) | [Soul Sing](https://open.spotify.com/album/5rXUujxnfeItYJODD8cw47) | 6:30 | 2026-02-28 |  |
 | [Soundboy](https://open.spotify.com/track/5RU33jajJPKSXfqJoZpABf) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [Soundboy](https://open.spotify.com/album/1FSB0rdp9vJrhfW9Aql04O) | 2:35 | 2023-08-27 | 2023-09-26 |

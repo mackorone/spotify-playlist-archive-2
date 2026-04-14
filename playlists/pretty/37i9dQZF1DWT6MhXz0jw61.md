@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: J\. Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,399,021 likes - 101 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,399,075 likes - 101 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 9 | [Pray For A Blessing](https://open.spotify.com/track/6cSdSRrXIExY2T7FgPZzEb) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ), [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3) | [Simmie Sims III](https://open.spotify.com/album/27CufK7Chv4FrKdvsob35j) | 1:43 |
 | 10 | [HNIC](https://open.spotify.com/track/4txLt5JH43Sa5mQiBoCYib) | [Leikeli47](https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR) | [Lei Keli ft\. 47 / For Promotional Use Only](https://open.spotify.com/album/2KACVAPmuBiD7GGcGwndKq) | 2:19 |
 | 11 | [I Am](https://open.spotify.com/track/75pdlyPCyZkE9jmPVjdxEU) | [Yonny](https://open.spotify.com/artist/6FHpiparqe3BdjjfHyNXNJ) | [Everywhere, But Always \(Deluxe\)](https://open.spotify.com/album/5UKLWnB2qImfzGC7X69SCq) | 2:39 |
-| 12 | [Humble'Em\_PINK](https://open.spotify.com/track/542GAgyvyAmFEKgSsUAPUl) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o), [CUZZOS](https://open.spotify.com/artist/0TY3Wab2Z1kmp5jZoxdPjZ) | [Humble'Em\_PINK / Doin Too Much](https://open.spotify.com/album/0j9CJn69fdtymqVXfKo4EA) | 3:28 |
+| 12 | [Humble'Em\_PINK](https://open.spotify.com/track/542GAgyvyAmFEKgSsUAPUl) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o), [CUZZOS](https://open.spotify.com/artist/0TY3Wab2Z1kmp5jZoxdPjZ) | [Humble'Em\_PINK / Doin Too Much](https://open.spotify.com/album/0j9CJn69fdtymqVXfKo4EA) | 3:27 |
 | 13 | [JANKY moral COMPASS \(feat\. Samara Cyn & Sydney Leona\)](https://open.spotify.com/track/4Sfl1Hhi7adLW7IsHP4itc) | [Ray Vaughn](https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg), [Sydney Leona](https://open.spotify.com/artist/4sWc3NPfHM8tgq3C1gASa4), [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [The Good The Bad The Dollar Menu](https://open.spotify.com/album/3Uh6x05rLt3AIQJMzA50vw) | 5:09 |
 | 14 | [Pressure \(feat\. Westside Boogie\)](https://open.spotify.com/track/2jf9ZNhuu3W06PazofuKiU) | [saüd](https://open.spotify.com/artist/3pYZIM4PKTsP20sNSSLs0m), [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6) | [Pressure \(feat\. Westside Boogie\)](https://open.spotify.com/album/2CXfjC2M2PdyKN36towLfz) | 2:09 |
 | 15 | [Money Problems](https://open.spotify.com/track/23BqBpjueNzLBEQ8HzM3Yd) | [Nick Grant](https://open.spotify.com/artist/2QOP6zKx1d0gGEtuuXOvJ3) | [Money Problems](https://open.spotify.com/album/2BeASDlw94FBcCI0OH9IMV) | 3:29 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Djonga. The essential tracks, all in one playlist.",
-  "num_followers": 211006,
+  "num_followers": 211014,
   "original_name": "This Is Djonga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "admPAAAAAADL91zeGxTpYQ7znhIxh8qL",
+  "snapshot_id": "adrggAAAAAD/oI0yxbYUm7YcYvE19sgJ",
   "tracks": [
     {
       "added_at": null,
@@ -1211,22 +1211,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Dono do Lugar",
-        "url": "https://open.spotify.com/album/77iFfJuIIWGZs1PJZF39m4"
+        "name": "Fogueira, Vol. 1",
+        "url": "https://open.spotify.com/album/0l1UXlFxLFQWzcQkRMZZrJ"
       },
       "artists": [
+        {
+          "name": "Marcelo Tofani",
+          "url": "https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m"
+        },
         {
           "name": "Djonga",
           "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
         },
         {
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+          "name": "FBC",
+          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
+        },
+        {
+          "name": "LISBOA",
+          "url": "https://open.spotify.com/artist/5QsFQx8phlzqvnNkTFCVfP"
         }
       ],
-      "duration_ms": 209114,
-      "name": "bala fini",
-      "url": "https://open.spotify.com/track/1gnDVuH3uQnJH0cBLRSJKC"
+      "duration_ms": 186934,
+      "name": "Venezuela",
+      "url": "https://open.spotify.com/track/6584aVZwN9S5GiHE1T4Vew"
     },
     {
       "added_at": null,
@@ -1267,30 +1275,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fogueira, Vol. 1",
-        "url": "https://open.spotify.com/album/0l1UXlFxLFQWzcQkRMZZrJ"
+        "name": "O Dono do Lugar",
+        "url": "https://open.spotify.com/album/77iFfJuIIWGZs1PJZF39m4"
       },
       "artists": [
-        {
-          "name": "Marcelo Tofani",
-          "url": "https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m"
-        },
         {
           "name": "Djonga",
           "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
         },
         {
-          "name": "FBC",
-          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
-        },
-        {
-          "name": "LISBOA",
-          "url": "https://open.spotify.com/artist/5QsFQx8phlzqvnNkTFCVfP"
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
         }
       ],
-      "duration_ms": 186934,
-      "name": "Venezuela",
-      "url": "https://open.spotify.com/track/6584aVZwN9S5GiHE1T4Vew"
+      "duration_ms": 209114,
+      "name": "bala fini",
+      "url": "https://open.spotify.com/track/1gnDVuH3uQnJH0cBLRSJKC"
     }
   ],
   "unique_name": "This Is Djonga",

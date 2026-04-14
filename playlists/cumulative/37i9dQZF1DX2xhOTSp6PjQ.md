@@ -4,7 +4,7 @@
 
 > Khuphuka lapho… seku\-late! Cover: Stallion X
 
-290 songs - 22 hr 57 min
+291 songs - 23 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [Kuyehlela \(feat\. uQoqa & Bonakele Myeza\)](https://open.spotify.com/track/5tsqPwph34TAyEYSGbemeK) | [Stallion X](https://open.spotify.com/artist/3V3keoOsIZ5Hj0PTGTWqds), [DR BUSELAPHI](https://open.spotify.com/artist/05H28TBku2PHZLuQJjw1Pi), [UQoqa](https://open.spotify.com/artist/1kIkiHJoB4FGXUq7BfM6cV), [Bonakele Myeza](https://open.spotify.com/artist/7dV4xcZSiLJzxuf5XfcsfJ) | [Genesis Chapter 1](https://open.spotify.com/album/1c3YTpnvWNgONgyS2DubMf) | 4:34 | 2026-04-10 |  |
 | [Kuyenzeka](https://open.spotify.com/track/0twfb38ymb7HV4SjEPCDeW) | [AMASINAMUVA AMASHA](https://open.spotify.com/artist/7iHW2UL99LBihXGg6iKfUV), [Umafikizolo](https://open.spotify.com/artist/3aznFYhXZNLiZYfF2nIt6K) | [Ibhova neChalaha](https://open.spotify.com/album/44pGiWhJyL2tZgUjreWav8) | 4:56 | 2025-08-07 | 2025-11-15 |
 | [Kuyenzeka](https://open.spotify.com/track/6NGfCx1dUHeBEyLjiGcb6Q) | [Navigator Gcwensa](https://open.spotify.com/artist/6aaykE2Gf6cL8ZptwdVNLC), [Ashantiey](https://open.spotify.com/artist/5Y27ZPdDBCA7vofb3xXKpk), [LIMIT NALA](https://open.spotify.com/artist/0ysbLY7TUvj3AKV2W7ZCFY) | [Kuyenzeka](https://open.spotify.com/album/15MzAdluCqSUBXasfKDTIH) | 5:02 | 2024-06-06 |  |
+| [Kwelemcabango](https://open.spotify.com/track/6AzZJCKaFwF0HziGm8iDr9) | [Umlabalaba](https://open.spotify.com/artist/4QpzTPW2meB4yr1ObtlQVY), [Mzukulu](https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3) | [Izethembiso](https://open.spotify.com/album/2I7wr8XqNpmfMFPRzLL5eT) | 4:55 | 2026-04-13 |  |
 | [LALELA](https://open.spotify.com/track/4Ke3JZ2L1kvomFvDKwERxW) | [Khuthuza](https://open.spotify.com/artist/0OPeZ6oxm2MldHasnoBTpM), [BASSIE](https://open.spotify.com/artist/2WMrySIQgTVF0oiVGLi3WD) | [LALELA](https://open.spotify.com/album/02l8jAhaSmr61BiAIciN9q) | 5:05 | 2025-11-14 |  |
 | [Life After Matric](https://open.spotify.com/track/069gnXnIJUwibeufW3sq71) | [Udumakahle](https://open.spotify.com/artist/3a3txnliYhHHrdcw1k6gyq) | [Life After Matric](https://open.spotify.com/album/264Wchcs0Hh6DpxvhXNVwp) | 4:37 | 2025-11-04 | 2025-11-15 |
 | [Luyazenzela](https://open.spotify.com/track/18z13CvLX9wuxVfbE3Lhnv) | [Phangandawo](https://open.spotify.com/artist/3irECGtZGGBOARaZElSiLb), [Shenge](https://open.spotify.com/artist/1xIivPK6sC42jpYgBl45v4), [Mjabulisi](https://open.spotify.com/artist/7cHTggdS9DqKE9oP1FTuZS) | [Luyazenzela](https://open.spotify.com/album/5UOGjj9wPp6u69IHy1vVaP) | 4:00 | 2025-08-29 |  |
@@ -218,7 +219,7 @@
 | [Sayona](https://open.spotify.com/track/05A1KzxTLvShctiD0Bsydd) | [Inkabi Zezwe](https://open.spotify.com/artist/3L21ifeFAXwNN2ui6NyG0k), [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A) | [Ukhamba](https://open.spotify.com/album/4VshKshG4GNIVueV0qoeiP) | 3:47 | 2023-06-22 | 2025-04-18 |
 | [Sbali](https://open.spotify.com/track/34MjyTB5QGaDpMCLk3432P) | [Intaba Yase Dubai](https://open.spotify.com/artist/2j6fdvCneiKmXX8rsYEoU6) | [Amagama](https://open.spotify.com/album/5iPOBiXSE3zgsZctEvp0UP) | 5:00 | 2023-01-30 | 2023-09-22 |
 | [Sengize Ngamthola](https://open.spotify.com/track/6U6mnSkN3dWoY0H0k1Og2M) | [AMASINAMUVA AMASHA](https://open.spotify.com/artist/7iHW2UL99LBihXGg6iKfUV), [Kele](https://open.spotify.com/artist/0LsO2x5E0KNdMxkWh0EmE0) | [Sengize Ngamthola](https://open.spotify.com/album/0xNTVdgtDwuo5D4FxjJqeS) | 6:01 | 2025-03-31 |  |
-| [Shamuranca lami](https://open.spotify.com/track/3XocIp7lveKXIQcli6SyJl) | [Umfoka Msezane](https://open.spotify.com/artist/2AKfzPjtVhO8CABt3EkSBs), [Gatsheni](https://open.spotify.com/artist/6WoCDrPE4RiZS9TC3oceAH) | [Uhlanya olungenas'hlobo](https://open.spotify.com/album/2evPQFsiPzNORlCqti9xeR) | 4:09 | 2023-11-27 |  |
+| [Shamuranca lami](https://open.spotify.com/track/3XocIp7lveKXIQcli6SyJl) | [Umfoka Msezane](https://open.spotify.com/artist/2AKfzPjtVhO8CABt3EkSBs), [Gatsheni](https://open.spotify.com/artist/6WoCDrPE4RiZS9TC3oceAH) | [Uhlanya olungenas'hlobo](https://open.spotify.com/album/2evPQFsiPzNORlCqti9xeR) | 4:09 | 2023-11-27 | 2026-04-14 |
 | [Shintsh' Umshovo](https://open.spotify.com/track/1Usa9hOXDsWKC7WTMlaQW9) | [Amageza Amahle](https://open.spotify.com/artist/3aQFd89lMBxu1RRBIrxPdv) | [Sishaya Kwasani](https://open.spotify.com/album/6obk82RMxEzugUBJJTRbhH) | 7:16 | 2019-06-11 | 2023-02-01 |
 | [Sigade Umzila](https://open.spotify.com/track/6b3rUrXrJakECmLYi4YLKs) | [Mthandeni SK](https://open.spotify.com/artist/2tqMDvoyXVbN7uF4ObOeJX) | [Impisi Iyalaya \(Deleted\)](https://open.spotify.com/album/5jKeQ21OJbv728vwPk1wMT) | 3:25 | 2024-12-12 |  |
 | [Sigubha umtswarelo](https://open.spotify.com/track/0ISd317cewsI9VNU1GIaAv) | [Omaganga](https://open.spotify.com/artist/4pQoIvQXOr2HRQdOgwoJya) | [Sigubha umtswarelo](https://open.spotify.com/album/28Xfemnw5d0mRMuJShtvK1) | 6:19 | 2023-06-15 | 2023-11-08 |

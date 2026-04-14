@@ -4,7 +4,7 @@
 
 > 
 
-317 songs - 12 hr 36 min
+318 songs - 12 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Back To Back](https://open.spotify.com/track/1bnPx6g0DaiVbmEr2u221H) | [FRIENDLY THUG 52 NGG](https://open.spotify.com/artist/5xtbUYHaOycg6HIi10EZdV), [Hugo Loud](https://open.spotify.com/artist/68iEahGCoHxwo219tbcPf2) | [Cristoforo Colombo](https://open.spotify.com/album/4PmKko0sUQl7I1cyeBD5Zg) | 2:51 | 2025-08-15 |  |
 | [Bad Habit](https://open.spotify.com/track/5CM4UuQ9Gnd6K2YyKGPMoK) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Bad Habit](https://open.spotify.com/album/69JpAhN3XgLkOsJ7MCtW4V) | 3:52 | 2025-05-19 |  |
 | [BEAM!](https://open.spotify.com/track/6zjto41Jnk4HGIHucW5ime) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [BEAM!](https://open.spotify.com/album/3ydmXcIWr4aWdPYHLuEfqR) | 1:49 | 2025-01-05 |  |
+| [Bedrott \- Instrumental Slowed](https://open.spotify.com/track/7q7StxVzHQ5LimdZLQV8xH) | [ForceTx](https://open.spotify.com/artist/2dDxg1hQi6igncj9SM8wkN) | [Bedrott \(Instrumental Slowed\)](https://open.spotify.com/album/3O2WCH1HaNyxLNW8KlIJnz) | 2:22 | 2026-04-13 |  |
 | [Benz](https://open.spotify.com/track/3yLTbZ2ZAbPNzmGu6iIJtY) | [xetonyl's archive](https://open.spotify.com/artist/0J2jBYZmdub00VdGsXrmfk), [kaido](https://open.spotify.com/artist/0UENogXhLeGTZjub4eejjX) | [Benz](https://open.spotify.com/album/732fMBz16cHOcFShf3u8Yk) | 1:13 | 2025-07-25 |  |
 | [bi.](https://open.spotify.com/track/4SUmeADBziuSW4axIFIMtZ) | [shteppi](https://open.spotify.com/artist/0MWnJHMAZneJ1JA6S8Fx1b) | [20.](https://open.spotify.com/album/3o6oXZHeHkBfpky4WgA4hn) | 2:30 | 2025-04-04 |  |
 | [BLAME HER](https://open.spotify.com/track/5ZOGg0PbjdFRbo19tDS5NL) | [SUPXR](https://open.spotify.com/artist/3hjxN8peYczDSaHuwVwvFt), [QKReign](https://open.spotify.com/artist/5pTDhtjL1lF9Mft8TYCjv6) | [BLAME HER](https://open.spotify.com/album/4xmwWx7TDOqaG5h4SxtxK3) | 1:58 | 2025-05-12 |  |

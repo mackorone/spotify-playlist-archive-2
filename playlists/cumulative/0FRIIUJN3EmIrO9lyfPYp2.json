@@ -9583,6 +9583,28 @@
     },
     {
       "album": {
+        "name": "Melancholic Rain",
+        "url": "https://open.spotify.com/album/7jNQLGLjxvpGT4TlYn9Zru"
+      },
+      "artists": [
+        {
+          "name": "S\u00c6TA",
+          "url": "https://open.spotify.com/artist/2YGX24ACQ6l88HmiuTG39p"
+        },
+        {
+          "name": "empty street",
+          "url": "https://open.spotify.com/artist/7ELpHgqHZTRYMlIt1vm89X"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146619,
+      "name": "Melancholic Rain",
+      "url": "https://open.spotify.com/track/3gZDbtA8m1hGBUHwVO5wwg"
+    },
+    {
+      "album": {
         "name": "Melancholy Bloom",
         "url": "https://open.spotify.com/album/3iStsqN9h72CNtIl5ExlcM"
       },
@@ -11938,6 +11960,24 @@
       "duration_ms": 132162,
       "name": "running xut xf dxubt (Instrumental)",
       "url": "https://open.spotify.com/track/2OreyCOw6SXX2LsboCKTqr"
+    },
+    {
+      "album": {
+        "name": "rust and regret",
+        "url": "https://open.spotify.com/album/0yWEjKMjDr3l6uZW8Ktjky"
+      },
+      "artists": [
+        {
+          "name": "idotis.",
+          "url": "https://open.spotify.com/artist/04McO25lubmkATkF0PUwnh"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "rust and regret",
+      "url": "https://open.spotify.com/track/6nUCHnqvAYb4pAQ8NX6HmW"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: rhodessa
 
-854 songs - 2 day 4 hr 55 min
+855 songs - 2 day 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Bandaid \(feat\. Johnoy Danao\)](https://open.spotify.com/track/7zZ4ZjBpdeVqBY12DDb5RO) | [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc), [Johnoy Danao](https://open.spotify.com/artist/2zFBNsALb4M2FhKl98wcvd) | [Bandaid \(feat\. Johnoy Danao\)](https://open.spotify.com/album/3LYZsMhLEpjUaAA1wFceUS) | 4:03 | 2025-08-15 | 2025-11-22 |
 | [Basta’t Alam Kong Tayo 1](https://open.spotify.com/track/0hPVLqHAf88ncx4qF5bo9S) | [Inigo Pascual](https://open.spotify.com/artist/0XOSmu9Qn1agQULUVe0dAK) | [Basta’t Alam Kong Tayo 1](https://open.spotify.com/album/0lKzEclvyFeq3tIvGK38Lz) | 3:30 | 2024-07-19 | 2024-11-05 |
 | [basura](https://open.spotify.com/track/0WCtuhRtnDCKQYZUT3GcQX) | [Sandwich](https://open.spotify.com/artist/6baezjDaGyBqrW8xGqw3a5), [SUYEN](https://open.spotify.com/artist/2k0vf45LoEKtyGiGnyJ4Vv) | [basura](https://open.spotify.com/album/1Ce54hcVgiEP7JDgVxATkw) | 2:37 | 2025-06-06 | 2025-10-25 |
+| [Batang Ina](https://open.spotify.com/track/02seytlmOquWNejh1njGy9) | [Dyessa Garcia](https://open.spotify.com/artist/5FJcBJzqPBlcEISGhyvINS), [Young Momshie](https://open.spotify.com/artist/6fbMVDIMV7EVXUm5aGgwGx) | [Batang Ina](https://open.spotify.com/album/6Xz12tz7Ekeh5IPIcrkwoa) | 2:58 | 2026-04-13 |  |
 | [Bebe](https://open.spotify.com/track/48uhAuFJLnUwti49dcyjmZ) | [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc) | [Bebe](https://open.spotify.com/album/1iVwS9MFswan5ib1OQK4rc) | 3:10 | 2025-11-21 | 2026-02-14 |
 | [bedroom](https://open.spotify.com/track/7nPRtLdOTKJySFy2z2LU2s) | [Shan Capri](https://open.spotify.com/artist/2v6cSFZEDYoO3C9dAODVjr) | [Bedroom](https://open.spotify.com/album/7uZIMZtOF3h5c5r7Rtejzr) | 2:01 | 2025-04-07 | 2025-06-21 |
 | [Believing in Magic \- Yakap Mo](https://open.spotify.com/track/5eJxqoLNNLaw4ZFcswEjAR) | [Alexa Ilacad](https://open.spotify.com/artist/623Vaj6cZgsHTyni1r3FTd) | [Believing in Magic \(Yakap Mo\)](https://open.spotify.com/album/1Pz3Matosr3B72myICukGB) | 4:40 | 2024-07-02 | 2024-07-09 |

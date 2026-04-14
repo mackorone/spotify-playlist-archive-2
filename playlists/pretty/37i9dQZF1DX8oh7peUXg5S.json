@@ -1,6 +1,6 @@
 {
   "description": "El don de cantar y componer, una playlist llena de talento. Foto: Maria del Mar Bonet.",
-  "num_followers": 349585,
+  "num_followers": 349603,
   "original_name": "Cantautores",
   "owner": {
     "name": "Spotify",
@@ -751,6 +751,22 @@
     {
       "added_at": "2026-03-26 23:00:08",
       "album": {
+        "name": "Con Derecho A...",
+        "url": "https://open.spotify.com/album/1t2OluRtbro9nSJsizuquA"
+      },
+      "artists": [
+        {
+          "name": "Rozal\u00e9n",
+          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
+        }
+      ],
+      "duration_ms": 241986,
+      "name": "Comiendote a Besos",
+      "url": "https://open.spotify.com/track/02FKjeU8CrA2ckppBa5RJg"
+    },
+    {
+      "added_at": "2026-03-26 23:00:08",
+      "album": {
         "name": "Peces de Ciudad (feat. Pablo L\u00f3pez)",
         "url": "https://open.spotify.com/album/1z62EMbonbN8m5fjpzT9cn"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 390861,
       "name": "Peces de Ciudad (feat. Pablo L\u00f3pez)",
       "url": "https://open.spotify.com/track/7sLYuvEf4lqz6zSnjYBkkP"
-    },
-    {
-      "added_at": "2026-03-26 23:00:08",
-      "album": {
-        "name": "Con Derecho A...",
-        "url": "https://open.spotify.com/album/1t2OluRtbro9nSJsizuquA"
-      },
-      "artists": [
-        {
-          "name": "Rozal\u00e9n",
-          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
-        }
-      ],
-      "duration_ms": 241986,
-      "name": "Comiendote a Besos",
-      "url": "https://open.spotify.com/track/02FKjeU8CrA2ckppBa5RJg"
     },
     {
       "added_at": "2026-03-26 23:00:08",
@@ -835,22 +835,6 @@
     {
       "added_at": "2026-03-26 23:00:08",
       "album": {
-        "name": "Aire",
-        "url": "https://open.spotify.com/album/7F7AQLPetH2wvAUtJAP5Xk"
-      },
-      "artists": [
-        {
-          "name": "Jose Merce",
-          "url": "https://open.spotify.com/artist/7p5J8SfKU9Rulp7tcA53G8"
-        }
-      ],
-      "duration_ms": 256839,
-      "name": "Al alba",
-      "url": "https://open.spotify.com/track/2g1oUOP1r8DpzXvd1PMafY"
-    },
-    {
-      "added_at": "2026-03-26 23:00:08",
-      "album": {
         "name": "Cuando el R\u00edo Suena...",
         "url": "https://open.spotify.com/album/6LvauKnko6HIqPHfQLzhOL"
       },
@@ -883,22 +867,18 @@
     {
       "added_at": "2026-03-26 23:00:08",
       "album": {
-        "name": "\u00bfQu\u00e9 ser\u00e1 que es?",
-        "url": "https://open.spotify.com/album/2vHXAh1NbsF0ftGYgLBcvJ"
+        "name": "Aire",
+        "url": "https://open.spotify.com/album/7F7AQLPetH2wvAUtJAP5Xk"
       },
       "artists": [
         {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        },
-        {
-          "name": "Rueda de Candombe",
-          "url": "https://open.spotify.com/artist/603pfk1hiL5mfXafI4dfnH"
+          "name": "Jose Merce",
+          "url": "https://open.spotify.com/artist/7p5J8SfKU9Rulp7tcA53G8"
         }
       ],
-      "duration_ms": 228815,
-      "name": "\u00bfQu\u00e9 ser\u00e1 que es?",
-      "url": "https://open.spotify.com/track/7bIJ2FuWBAnO9IMVzGMPcy"
+      "duration_ms": 256839,
+      "name": "Al alba",
+      "url": "https://open.spotify.com/track/2g1oUOP1r8DpzXvd1PMafY"
     },
     {
       "added_at": "2026-03-26 23:00:08",
@@ -935,6 +915,26 @@
       "duration_ms": 192670,
       "name": "Lucia (with Silvio Rodr\u00edguez)",
       "url": "https://open.spotify.com/track/44RRIuioxHdtujpJ3PDkxA"
+    },
+    {
+      "added_at": "2026-03-26 23:00:08",
+      "album": {
+        "name": "\u00bfQu\u00e9 ser\u00e1 que es?",
+        "url": "https://open.spotify.com/album/2vHXAh1NbsF0ftGYgLBcvJ"
+      },
+      "artists": [
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        },
+        {
+          "name": "Rueda de Candombe",
+          "url": "https://open.spotify.com/artist/603pfk1hiL5mfXafI4dfnH"
+        }
+      ],
+      "duration_ms": 228815,
+      "name": "\u00bfQu\u00e9 ser\u00e1 que es?",
+      "url": "https://open.spotify.com/track/7bIJ2FuWBAnO9IMVzGMPcy"
     },
     {
       "added_at": "2026-03-26 23:00:08",
@@ -991,22 +991,6 @@
     {
       "added_at": "2026-03-26 23:00:08",
       "album": {
-        "name": "Toco madera",
-        "url": "https://open.spotify.com/album/5olISeCcVZ5I5XhEdGLf1d"
-      },
-      "artists": [
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        }
-      ],
-      "duration_ms": 196511,
-      "name": "Toco madera",
-      "url": "https://open.spotify.com/track/0pEdOc9cVgn5hyFqOn3nns"
-    },
-    {
-      "added_at": "2026-03-26 23:00:08",
-      "album": {
         "name": "Cuerpo a Cuerpo (Remasterizado)",
         "url": "https://open.spotify.com/album/01jUeKcwiAdFp8iLa0HnI4"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 302000,
       "name": "Sin Tu Latido - Remasterizado",
       "url": "https://open.spotify.com/track/7jlfZZgaO0xPRdPMP9jezb"
+    },
+    {
+      "added_at": "2026-03-26 23:00:08",
+      "album": {
+        "name": "Toco madera",
+        "url": "https://open.spotify.com/album/5olISeCcVZ5I5XhEdGLf1d"
+      },
+      "artists": [
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "duration_ms": 196511,
+      "name": "Toco madera",
+      "url": "https://open.spotify.com/track/0pEdOc9cVgn5hyFqOn3nns"
     },
     {
       "added_at": "2026-03-26 23:00:08",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2026-03-26 23:00:08",
       "album": {
-        "name": "Un Ramito De Violetas",
-        "url": "https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw"
-      },
-      "artists": [
-        {
-          "name": "Cecilia",
-          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
-        }
-      ],
-      "duration_ms": 159066,
-      "name": "Mi Querida Espa\u00f1a",
-      "url": "https://open.spotify.com/track/4yRhJ1Hz8Flm364Y1WJj5w"
-    },
-    {
-      "added_at": "2026-03-26 23:00:08",
-      "album": {
         "name": "Soy Un Coraz\u00f3n Tendido Al Sol",
         "url": "https://open.spotify.com/album/7FRX45DynbKTm8cvlONpbB"
       },
@@ -1403,6 +1387,22 @@
     {
       "added_at": "2026-03-26 23:00:08",
       "album": {
+        "name": "Un Ramito De Violetas",
+        "url": "https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw"
+      },
+      "artists": [
+        {
+          "name": "Cecilia",
+          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
+        }
+      ],
+      "duration_ms": 159066,
+      "name": "Mi Querida Espa\u00f1a",
+      "url": "https://open.spotify.com/track/4yRhJ1Hz8Flm364Y1WJj5w"
+    },
+    {
+      "added_at": "2026-03-26 23:00:08",
+      "album": {
         "name": "De Lo Perdido Y Otras Coplas",
         "url": "https://open.spotify.com/album/53XJCziWiXOOrBCmbVLXGC"
       },
@@ -1415,38 +1415,6 @@
       "duration_ms": 232080,
       "name": "Mar\u00eda la portuguesa",
       "url": "https://open.spotify.com/track/38qdh1Nb0DVjEDLrL3pHyT"
-    },
-    {
-      "added_at": "2026-03-26 23:00:08",
-      "album": {
-        "name": "Auterretratos",
-        "url": "https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv"
-      },
-      "artists": [
-        {
-          "name": "Luis Eduardo Aute",
-          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "La Belleza",
-      "url": "https://open.spotify.com/track/5oMnRH2HJ3N3leLRh3AWCw"
-    },
-    {
-      "added_at": "2026-03-26 23:00:08",
-      "album": {
-        "name": "Agua",
-        "url": "https://open.spotify.com/album/18lEH8fgVYdkUBTDK0IPyu"
-      },
-      "artists": [
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Agua",
-      "url": "https://open.spotify.com/track/76yx6d2cnxogqq5EeWAGGv"
     },
     {
       "added_at": "2026-03-26 23:00:08",
@@ -1471,6 +1439,22 @@
     {
       "added_at": "2026-03-26 23:00:08",
       "album": {
+        "name": "Agua",
+        "url": "https://open.spotify.com/album/18lEH8fgVYdkUBTDK0IPyu"
+      },
+      "artists": [
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Agua",
+      "url": "https://open.spotify.com/track/76yx6d2cnxogqq5EeWAGGv"
+    },
+    {
+      "added_at": "2026-03-26 23:00:08",
+      "album": {
         "name": "Soy Un Corazon Tendido Al Sol Y Otros Grandes Exitos",
         "url": "https://open.spotify.com/album/0HGv49ONlzwgnzxbWZofPl"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 251666,
       "name": "Solo Pienso en Ti",
       "url": "https://open.spotify.com/track/6NAGNKLKSY8FOHIpMMFZjW"
+    },
+    {
+      "added_at": "2026-03-26 23:00:08",
+      "album": {
+        "name": "Auterretratos",
+        "url": "https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv"
+      },
+      "artists": [
+        {
+          "name": "Luis Eduardo Aute",
+          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "La Belleza",
+      "url": "https://open.spotify.com/track/5oMnRH2HJ3N3leLRh3AWCw"
     },
     {
       "added_at": "2026-03-26 23:00:08",

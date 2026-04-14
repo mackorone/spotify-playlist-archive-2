@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Moreno X4 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,066 likes - 85 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,096 likes - 85 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 5 | [29:11](https://open.spotify.com/track/5tXtuUvOs70nkgaXg8pqnV) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV) | [LINAJE](https://open.spotify.com/album/1IUyPkacFHORWwLM9SBbOy) | 3:44 |
 | 6 | [Shifu](https://open.spotify.com/track/799gqz8zC15jHkQHxIywd3) | [LENCHO](https://open.spotify.com/artist/34pmYm95tyjrnk8Cbj6nFo) | [Shifu](https://open.spotify.com/album/0zepNGprZRYkacaZMwkfuF) | 2:11 |
 | 7 | [Ahora Resulta](https://open.spotify.com/track/64uCj2nU2CTgiSnywmaw0F) | [Janeth Valenzuela](https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G) | [Ahora Resulta](https://open.spotify.com/album/1TfPUjEcwXON2UNd2WufGn) | 2:50 |
-| 8 | [El Paquete](https://open.spotify.com/track/4xTXk9S20F0p2dc4ZPcstx) | [Luis Escalera](https://open.spotify.com/artist/1EECv9ZeOOBtjcVa3GTEBd), [Max Wizard](https://open.spotify.com/artist/0dlUkcvpngiB6q05OnvKme) | [El Paquete](https://open.spotify.com/album/6n8oJVvvQf506DwHbbMda6) | 2:49 |
+| 8 | [Mi Paquete](https://open.spotify.com/track/4xTXk9S20F0p2dc4ZPcstx) | [Luis Escalera](https://open.spotify.com/artist/1EECv9ZeOOBtjcVa3GTEBd), [Max Wizard](https://open.spotify.com/artist/0dlUkcvpngiB6q05OnvKme) | [Mi Paquete](https://open.spotify.com/album/6n8oJVvvQf506DwHbbMda6) | 2:49 |
 | 9 | [MAMÁ](https://open.spotify.com/track/6iCDYz5bAAugTv8KiIrDsr) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [MAMÁ](https://open.spotify.com/album/0bzB374WBUdseskQbfvBIY) | 2:34 |
 | 10 | [Pvta Ansiedad](https://open.spotify.com/track/4a10o1NbOZHPxGJaJCQaoh) | [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp) | [Pvta Ansiedad](https://open.spotify.com/album/3pY5r44Ekct9BfSwP1c5lQ) | 3:01 |
 | 11 | [A Mí Me Gustas Tú](https://open.spotify.com/track/173OE8GbX0Q7HNVTQep4uS) | [Los Lara](https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4) | [A Mí Me Gustas Tú](https://open.spotify.com/album/7baLjCBkAyrugxoU7kr10d) | 3:22 |

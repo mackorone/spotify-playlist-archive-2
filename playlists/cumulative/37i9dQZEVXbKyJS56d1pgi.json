@@ -2388,7 +2388,7 @@
       ],
       "date_added": "2024-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 186922,
       "name": "Amar Pela Metade",
       "url": "https://open.spotify.com/track/1UQvRmRhbX3WxSLW3NbUIU"
@@ -9906,7 +9906,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 357120,
       "name": "Di\u00e1rio de um Cafajeste",
       "url": "https://open.spotify.com/track/6kaWah1Acn1dtNjAy6sm1p"
@@ -20728,7 +20728,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-13",
+      "date_removed": null,
       "duration_ms": 184109,
       "name": "LUV (feat. CRIPTA)",
       "url": "https://open.spotify.com/track/7iM0PqMKD0K0SHZZQ1lV1V"
@@ -21316,7 +21316,7 @@
       ],
       "date_added": "2025-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 213645,
       "name": "Manchild",
       "url": "https://open.spotify.com/track/2BwO5K8Q7EPAJSGze3AAh9"
@@ -27713,6 +27713,24 @@
     },
     {
       "album": {
+        "name": "PINKY UP",
+        "url": "https://open.spotify.com/album/5tLy0MEMDVqiHKso6B4jnz"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131437,
+      "name": "PINKY UP",
+      "url": "https://open.spotify.com/track/4KmkJjHTNlr1jFY56Lyz4E"
+    },
+    {
+      "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
@@ -27990,7 +28008,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 173613,
       "name": "Pobre Ex-Namorado",
       "url": "https://open.spotify.com/track/2AXo4bZh5m5XkuANOjNnk7"

@@ -1,6 +1,6 @@
 {
   "description": "Vieja escuela y de ahora \ud83d\udcf8 Mala Fama.",
-  "num_followers": 594591,
+  "num_followers": 594646,
   "original_name": "Cumbia villera",
   "owner": {
     "name": "Spotify",
@@ -383,6 +383,22 @@
     {
       "added_at": "2026-02-13 19:04:43",
       "album": {
+        "name": "Pibes Chorros - Criando Cuervos",
+        "url": "https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs"
+      },
+      "artists": [
+        {
+          "name": "Los Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+        }
+      ],
+      "duration_ms": 225320,
+      "name": "Que calor",
+      "url": "https://open.spotify.com/track/0RDDMvevLZkkBhAHP2mNpb"
+    },
+    {
+      "added_at": "2026-02-13 19:04:43",
+      "album": {
         "name": "DIME SI ERES FELIZ VOL.2",
         "url": "https://open.spotify.com/album/4qsduU9ye1CNUnHVE6BHGn"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 171667,
       "name": "DIME SI ERES FELIZ VOL.2",
       "url": "https://open.spotify.com/track/7v7RTZrtBsoENSPD0SCMLy"
-    },
-    {
-      "added_at": "2026-02-13 19:04:43",
-      "album": {
-        "name": "Pibes Chorros - Criando Cuervos",
-        "url": "https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs"
-      },
-      "artists": [
-        {
-          "name": "Los Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
-        }
-      ],
-      "duration_ms": 225320,
-      "name": "Que calor",
-      "url": "https://open.spotify.com/track/0RDDMvevLZkkBhAHP2mNpb"
     },
     {
       "added_at": "2026-02-13 19:04:43",
@@ -1111,8 +1111,8 @@
     {
       "added_at": "2026-02-13 19:04:43",
       "album": {
-        "name": "BM | DJ TAO Turreo Sessions #17",
-        "url": "https://open.spotify.com/album/7IRENolKvEF0bCjNp6TTrZ"
+        "name": "LA T Y LA M | DJ TAO Turreo Sessions #16",
+        "url": "https://open.spotify.com/album/4mvqMbo0qR6NJZV8oCapIm"
       },
       "artists": [
         {
@@ -1120,13 +1120,13 @@
           "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
         },
         {
-          "name": "BM",
-          "url": "https://open.spotify.com/artist/43bRAoXHmsKR7rt92ciFU3"
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
         }
       ],
-      "duration_ms": 176144,
-      "name": "BM | DJ TAO Turreo Sessions #17",
-      "url": "https://open.spotify.com/track/0zIA89ERtLoWZF8zMYgWoL"
+      "duration_ms": 140109,
+      "name": "LA T Y LA M | DJ TAO Turreo Sessions #16",
+      "url": "https://open.spotify.com/track/06lBXefqaA4ZUhJCNKkhIv"
     },
     {
       "added_at": "2026-02-13 19:04:43",
@@ -1143,6 +1143,38 @@
       "duration_ms": 176973,
       "name": "Berretines de Verduga",
       "url": "https://open.spotify.com/track/0admIwLf8RAXI1l6RyNgh4"
+    },
+    {
+      "added_at": "2026-02-13 19:04:43",
+      "album": {
+        "name": "M\u00e1s Solida",
+        "url": "https://open.spotify.com/album/1JgEomLE67XLgt24p50XAC"
+      },
+      "artists": [
+        {
+          "name": "La Base",
+          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
+        }
+      ],
+      "duration_ms": 206186,
+      "name": "Amor Prohibido",
+      "url": "https://open.spotify.com/track/0jwK1Db1clUXBKCPnr19iM"
+    },
+    {
+      "added_at": "2026-02-13 19:04:43",
+      "album": {
+        "name": "A Todo Remix",
+        "url": "https://open.spotify.com/album/35MkUNVLgqZFRxlXc3Tgod"
+      },
+      "artists": [
+        {
+          "name": "Puro Movimiento DJ",
+          "url": "https://open.spotify.com/artist/4iIPpaogGdOBKNikJTz04q"
+        }
+      ],
+      "duration_ms": 207121,
+      "name": "D\u00e9jala",
+      "url": "https://open.spotify.com/track/3LVOGJxNkd5b6nJoqLFpeT"
     },
     {
       "added_at": "2026-02-13 19:04:43",
@@ -1171,40 +1203,8 @@
     {
       "added_at": "2026-02-13 19:04:43",
       "album": {
-        "name": "A Todo Remix",
-        "url": "https://open.spotify.com/album/35MkUNVLgqZFRxlXc3Tgod"
-      },
-      "artists": [
-        {
-          "name": "Puro Movimiento DJ",
-          "url": "https://open.spotify.com/artist/4iIPpaogGdOBKNikJTz04q"
-        }
-      ],
-      "duration_ms": 207121,
-      "name": "D\u00e9jala",
-      "url": "https://open.spotify.com/track/3LVOGJxNkd5b6nJoqLFpeT"
-    },
-    {
-      "added_at": "2026-02-13 19:04:43",
-      "album": {
-        "name": "M\u00e1s Solida",
-        "url": "https://open.spotify.com/album/1JgEomLE67XLgt24p50XAC"
-      },
-      "artists": [
-        {
-          "name": "La Base",
-          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
-        }
-      ],
-      "duration_ms": 206186,
-      "name": "Amor Prohibido",
-      "url": "https://open.spotify.com/track/0jwK1Db1clUXBKCPnr19iM"
-    },
-    {
-      "added_at": "2026-02-13 19:04:43",
-      "album": {
-        "name": "LA T Y LA M | DJ TAO Turreo Sessions #16",
-        "url": "https://open.spotify.com/album/4mvqMbo0qR6NJZV8oCapIm"
+        "name": "BM | DJ TAO Turreo Sessions #17",
+        "url": "https://open.spotify.com/album/7IRENolKvEF0bCjNp6TTrZ"
       },
       "artists": [
         {
@@ -1212,13 +1212,13 @@
           "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
         },
         {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/43bRAoXHmsKR7rt92ciFU3"
         }
       ],
-      "duration_ms": 140109,
-      "name": "LA T Y LA M | DJ TAO Turreo Sessions #16",
-      "url": "https://open.spotify.com/track/06lBXefqaA4ZUhJCNKkhIv"
+      "duration_ms": 176144,
+      "name": "BM | DJ TAO Turreo Sessions #17",
+      "url": "https://open.spotify.com/track/0zIA89ERtLoWZF8zMYgWoL"
     },
     {
       "added_at": "2026-02-13 19:04:43",
@@ -1235,22 +1235,6 @@
       "duration_ms": 230448,
       "name": "Sigue bailando mi amor",
       "url": "https://open.spotify.com/track/5YMmXk3DlySsw2z5BS47Hq"
-    },
-    {
-      "added_at": "2026-02-13 19:04:43",
-      "album": {
-        "name": "Dando Clase",
-        "url": "https://open.spotify.com/album/6jrmX8SsZmRRgxV4428j7a"
-      },
-      "artists": [
-        {
-          "name": "Roman El Original",
-          "url": "https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ"
-        }
-      ],
-      "duration_ms": 274037,
-      "name": "Amor de Colegio",
-      "url": "https://open.spotify.com/track/6AdJIZ62Nmhp1Zh0wFpZPW"
     },
     {
       "added_at": "2026-02-13 19:04:43",
@@ -1283,6 +1267,22 @@
       "duration_ms": 104973,
       "name": "Vuelve a Mi Lado",
       "url": "https://open.spotify.com/track/318gvXrsPsP1r3ocHcFIcH"
+    },
+    {
+      "added_at": "2026-02-13 19:04:43",
+      "album": {
+        "name": "Dando Clase",
+        "url": "https://open.spotify.com/album/6jrmX8SsZmRRgxV4428j7a"
+      },
+      "artists": [
+        {
+          "name": "Roman El Original",
+          "url": "https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ"
+        }
+      ],
+      "duration_ms": 274037,
+      "name": "Amor de Colegio",
+      "url": "https://open.spotify.com/track/6AdJIZ62Nmhp1Zh0wFpZPW"
     },
     {
       "added_at": "2026-02-13 19:04:43",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2026-02-13 19:04:43",
       "album": {
-        "name": "No Voy a Parar",
-        "url": "https://open.spotify.com/album/79YZJXxGTVZcyUUcToIdAN"
-      },
-      "artists": [
-        {
-          "name": "Roman El Original",
-          "url": "https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ"
-        }
-      ],
-      "duration_ms": 269113,
-      "name": "Si Te Vas",
-      "url": "https://open.spotify.com/track/3VmasUuFOaQPRFMPuGLpjw"
-    },
-    {
-      "added_at": "2026-02-13 19:04:43",
-      "album": {
         "name": "Close de Ort!",
         "url": "https://open.spotify.com/album/0U5ea4VoRnGRuqUQ7Ca07f"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 131853,
       "name": "FERNANDITO",
       "url": "https://open.spotify.com/track/4ZaFsXbTTSMyszBp70I6KW"
+    },
+    {
+      "added_at": "2026-02-13 19:04:43",
+      "album": {
+        "name": "No Voy a Parar",
+        "url": "https://open.spotify.com/album/79YZJXxGTVZcyUUcToIdAN"
+      },
+      "artists": [
+        {
+          "name": "Roman El Original",
+          "url": "https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ"
+        }
+      ],
+      "duration_ms": 269113,
+      "name": "Si Te Vas",
+      "url": "https://open.spotify.com/track/3VmasUuFOaQPRFMPuGLpjw"
     },
     {
       "added_at": "2026-02-13 19:04:43",
@@ -1415,6 +1415,22 @@
       "duration_ms": 241093,
       "name": "Encararte",
       "url": "https://open.spotify.com/track/5gnLRLGvpP5lAzam0VQf0T"
+    },
+    {
+      "added_at": "2026-02-13 19:04:43",
+      "album": {
+        "name": "La Noche",
+        "url": "https://open.spotify.com/album/3LWqiBwblO6Lv2eVBGNykL"
+      },
+      "artists": [
+        {
+          "name": "El negro tecla",
+          "url": "https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75"
+        }
+      ],
+      "duration_ms": 164651,
+      "name": "La Noche",
+      "url": "https://open.spotify.com/track/3QRuuoKLd8KoyHb1lxumPi"
     },
     {
       "added_at": "2026-02-13 19:04:43",
@@ -1467,22 +1483,6 @@
     {
       "added_at": "2026-02-13 19:04:43",
       "album": {
-        "name": "La Noche",
-        "url": "https://open.spotify.com/album/3LWqiBwblO6Lv2eVBGNykL"
-      },
-      "artists": [
-        {
-          "name": "El negro tecla",
-          "url": "https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75"
-        }
-      ],
-      "duration_ms": 164651,
-      "name": "La Noche",
-      "url": "https://open.spotify.com/track/3QRuuoKLd8KoyHb1lxumPi"
-    },
-    {
-      "added_at": "2026-02-13 19:04:43",
-      "album": {
         "name": "KaKa Nene",
         "url": "https://open.spotify.com/album/02LewP3z5YibPTMFArcXmF"
       },
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2026-02-13 19:04:43",
       "album": {
-        "name": "La 2da del Boxeador",
-        "url": "https://open.spotify.com/album/0qhvY5ilIjQJsQMw7Y4T2X"
-      },
-      "artists": [
-        {
-          "name": "Repiola",
-          "url": "https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ"
-        }
-      ],
-      "duration_ms": 157826,
-      "name": "Caramelito",
-      "url": "https://open.spotify.com/track/6UIvUdhVbtd5jgbBzfZYgg"
-    },
-    {
-      "added_at": "2026-02-13 19:04:43",
-      "album": {
         "name": "Moviendo la Cola",
         "url": "https://open.spotify.com/album/3eQBSHn1c0CBiDY1LrMs3O"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 170319,
       "name": "El Fog\u00f3n",
       "url": "https://open.spotify.com/track/3y8Pe96NSEaReDgrRYPSaO"
+    },
+    {
+      "added_at": "2026-02-13 19:04:43",
+      "album": {
+        "name": "La 2da del Boxeador",
+        "url": "https://open.spotify.com/album/0qhvY5ilIjQJsQMw7Y4T2X"
+      },
+      "artists": [
+        {
+          "name": "Repiola",
+          "url": "https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ"
+        }
+      ],
+      "duration_ms": 157826,
+      "name": "Caramelito",
+      "url": "https://open.spotify.com/track/6UIvUdhVbtd5jgbBzfZYgg"
     },
     {
       "added_at": "2026-02-13 19:04:43",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2026-02-13 19:04:43",
       "album": {
+        "name": "Me Vas a Hacer Llorar",
+        "url": "https://open.spotify.com/album/4sHb67vKNCwIU7bsxoSrQf"
+      },
+      "artists": [
+        {
+          "name": "Debora",
+          "url": "https://open.spotify.com/artist/4MFYWIUUwy9yzkVaMSyuYk"
+        }
+      ],
+      "duration_ms": 227680,
+      "name": "La Miel de Tus Labios",
+      "url": "https://open.spotify.com/track/06OLRKwj3Sp2k9jBokQSsi"
+    },
+    {
+      "added_at": "2026-02-13 19:04:43",
+      "album": {
         "name": "Y Si Est\u00e1s Perseguido...!",
         "url": "https://open.spotify.com/album/4UeRqgzWD9WsGWpbpsiAeq"
       },
@@ -1619,18 +1635,34 @@
     {
       "added_at": "2026-02-13 19:04:43",
       "album": {
-        "name": "Me Vas a Hacer Llorar",
-        "url": "https://open.spotify.com/album/4sHb67vKNCwIU7bsxoSrQf"
+        "name": "Ritmo Sustancia",
+        "url": "https://open.spotify.com/album/1MozmfW6obuEiUg2EqqQA1"
       },
       "artists": [
         {
-          "name": "Debora",
-          "url": "https://open.spotify.com/artist/4MFYWIUUwy9yzkVaMSyuYk"
+          "name": "Mala Fama",
+          "url": "https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B"
         }
       ],
-      "duration_ms": 227680,
-      "name": "La Miel de Tus Labios",
-      "url": "https://open.spotify.com/track/06OLRKwj3Sp2k9jBokQSsi"
+      "duration_ms": 197093,
+      "name": "Estoy de Nuevo",
+      "url": "https://open.spotify.com/track/3GcdJ5OfdILjl9qBuOMapT"
+    },
+    {
+      "added_at": "2026-02-13 19:04:43",
+      "album": {
+        "name": "Evoluci\u00f3n",
+        "url": "https://open.spotify.com/album/3gY0jtnuvBNLTASCvdkjRB"
+      },
+      "artists": [
+        {
+          "name": "Sonido Basico",
+          "url": "https://open.spotify.com/artist/7mkvT1y5EkJJtQKjF36HQA"
+        }
+      ],
+      "duration_ms": 191866,
+      "name": "Te Robas Mis Suspiros",
+      "url": "https://open.spotify.com/track/5BQnViSKPHwCeHnMqVFDZH"
     },
     {
       "added_at": "2026-02-13 19:04:43",
@@ -1671,22 +1703,6 @@
     {
       "added_at": "2026-02-13 19:04:43",
       "album": {
-        "name": "Evoluci\u00f3n",
-        "url": "https://open.spotify.com/album/3gY0jtnuvBNLTASCvdkjRB"
-      },
-      "artists": [
-        {
-          "name": "Sonido Basico",
-          "url": "https://open.spotify.com/artist/7mkvT1y5EkJJtQKjF36HQA"
-        }
-      ],
-      "duration_ms": 191866,
-      "name": "Te Robas Mis Suspiros",
-      "url": "https://open.spotify.com/track/5BQnViSKPHwCeHnMqVFDZH"
-    },
-    {
-      "added_at": "2026-02-13 19:04:43",
-      "album": {
         "name": "DJ ALEX, EL NOBA - TEKA | E6",
         "url": "https://open.spotify.com/album/7smhd2hrlFPI6KQ1A8MEay"
       },
@@ -1719,22 +1735,6 @@
       "duration_ms": 177093,
       "name": "Quiero Que Escuches",
       "url": "https://open.spotify.com/track/0mOelAOFxEBTkzBzHlXxIA"
-    },
-    {
-      "added_at": "2026-02-13 19:04:43",
-      "album": {
-        "name": "Ritmo Sustancia",
-        "url": "https://open.spotify.com/album/1MozmfW6obuEiUg2EqqQA1"
-      },
-      "artists": [
-        {
-          "name": "Mala Fama",
-          "url": "https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B"
-        }
-      ],
-      "duration_ms": 197093,
-      "name": "Estoy de Nuevo",
-      "url": "https://open.spotify.com/track/3GcdJ5OfdILjl9qBuOMapT"
     },
     {
       "added_at": "2026-02-13 19:04:43",

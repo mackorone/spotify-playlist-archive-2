@@ -1,12 +1,12 @@
 {
   "description": "Songs to celebrate the life, death, and resurrection of our Lord Jesus all in one collection.",
-  "num_followers": 88002,
+  "num_followers": 88007,
   "original_name": "Easter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAb40nrzOxZq2Su4g2G/W0ZmKXa3",
+  "snapshot_id": "AAAAANltpVczx7B2qJu0eFp82UJsAtEl",
   "tracks": [
     {
       "added_at": "2026-04-04 06:04:53",
@@ -751,6 +751,22 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
+        "name": "Good News (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1do9XXkq2SLwDV7vsEjtjg"
+      },
+      "artists": [
+        {
+          "name": "Rend Collective",
+          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
+        }
+      ],
+      "duration_ms": 245738,
+      "name": "Nailed To The Cross",
+      "url": "https://open.spotify.com/track/4GTkBqQwkjGpOjwgCPnabN"
+    },
+    {
+      "added_at": "2026-04-04 06:04:53",
+      "album": {
         "name": "Follow You Anywhere (Live)",
         "url": "https://open.spotify.com/album/5USbe9zgTU8KtLWdpsSBZ1"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 309093,
       "name": "Behold The Lamb - Live",
       "url": "https://open.spotify.com/track/3lI5yiJwTKJaSNlfQXh4HX"
-    },
-    {
-      "added_at": "2026-04-04 06:04:53",
-      "album": {
-        "name": "Good News (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1do9XXkq2SLwDV7vsEjtjg"
-      },
-      "artists": [
-        {
-          "name": "Rend Collective",
-          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
-        }
-      ],
-      "duration_ms": 245738,
-      "name": "Nailed To The Cross",
-      "url": "https://open.spotify.com/track/4GTkBqQwkjGpOjwgCPnabN"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
-        "name": "Fighting For Me",
-        "url": "https://open.spotify.com/album/47d2vWvqayOsNeFeRI43ba"
-      },
-      "artists": [
-        {
-          "name": "Riley Clemmons",
-          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
-        }
-      ],
-      "duration_ms": 229066,
-      "name": "Fighting For Me",
-      "url": "https://open.spotify.com/track/5StojELSdCvj23qhF9OxDW"
-    },
-    {
-      "added_at": "2026-04-04 06:04:53",
-      "album": {
         "name": "Greatest Hymns, Vol. 2",
         "url": "https://open.spotify.com/album/1JmmM3kMCKzYbuBHphQMFP"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 231866,
       "name": "Wonderful, Merciful Savior",
       "url": "https://open.spotify.com/track/1GfXRWcCxijFPbR5hYNh5q"
+    },
+    {
+      "added_at": "2026-04-04 06:04:53",
+      "album": {
+        "name": "Fighting For Me",
+        "url": "https://open.spotify.com/album/47d2vWvqayOsNeFeRI43ba"
+      },
+      "artists": [
+        {
+          "name": "Riley Clemmons",
+          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
+        }
+      ],
+      "duration_ms": 229066,
+      "name": "Fighting For Me",
+      "url": "https://open.spotify.com/track/5StojELSdCvj23qhF9OxDW"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
-        "name": "Inheritance",
-        "url": "https://open.spotify.com/album/1SCFaSCDkVrIzHed69fWMH"
-      },
-      "artists": [
-        {
-          "name": "Audrey Assad",
-          "url": "https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw"
-        }
-      ],
-      "duration_ms": 278779,
-      "name": "Even Unto Death",
-      "url": "https://open.spotify.com/track/4JnM7UCqVL7Un5GdSK7NpA"
-    },
-    {
-      "added_at": "2026-04-04 06:04:53",
-      "album": {
         "name": "All Sufficient Merit (Live)",
         "url": "https://open.spotify.com/album/2mKX49Xl7KBPNJlXT5dkJI"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 330502,
       "name": "All Sufficient Merit - Live",
       "url": "https://open.spotify.com/track/5p6uP5TGLpeCBlcK3Kd1yQ"
+    },
+    {
+      "added_at": "2026-04-04 06:04:53",
+      "album": {
+        "name": "Inheritance",
+        "url": "https://open.spotify.com/album/1SCFaSCDkVrIzHed69fWMH"
+      },
+      "artists": [
+        {
+          "name": "Audrey Assad",
+          "url": "https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw"
+        }
+      ],
+      "duration_ms": 278779,
+      "name": "Even Unto Death",
+      "url": "https://open.spotify.com/track/4JnM7UCqVL7Un5GdSK7NpA"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
-        "name": "Hymns For The Christian Life",
-        "url": "https://open.spotify.com/album/5ZfXouAZobXbesq60mVzIz"
-      },
-      "artists": [
-        {
-          "name": "Keith & Kristyn Getty",
-          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
-        }
-      ],
-      "duration_ms": 266573,
-      "name": "Christ Is Risen, He Is Risen Indeed",
-      "url": "https://open.spotify.com/track/4o0n1yoeqKglpnlDgprRzL"
-    },
-    {
-      "added_at": "2026-04-04 06:04:53",
-      "album": {
         "name": "Christ to Every Nation",
         "url": "https://open.spotify.com/album/6mXnYUrT77iI7vygpw5yAL"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 251408,
       "name": "Christ to Every Nation",
       "url": "https://open.spotify.com/track/6bpr23ZKuduCEPMyYtxFqz"
+    },
+    {
+      "added_at": "2026-04-04 06:04:53",
+      "album": {
+        "name": "Hymns For The Christian Life",
+        "url": "https://open.spotify.com/album/5ZfXouAZobXbesq60mVzIz"
+      },
+      "artists": [
+        {
+          "name": "Keith & Kristyn Getty",
+          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
+        }
+      ],
+      "duration_ms": 266573,
+      "name": "Christ Is Risen, He Is Risen Indeed",
+      "url": "https://open.spotify.com/track/4o0n1yoeqKglpnlDgprRzL"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
-        "name": "He's Alive: Don Francisco Collection, Vol. 1",
-        "url": "https://open.spotify.com/album/2Ax36W4f22Kr96sJnsnBtw"
-      },
-      "artists": [
-        {
-          "name": "Don Francisco",
-          "url": "https://open.spotify.com/artist/6TxrRPbH25NhjMCBvoeyXI"
-        }
-      ],
-      "duration_ms": 298706,
-      "name": "He's Alive",
-      "url": "https://open.spotify.com/track/3BHTusPUbP50JY0uzCUODT"
-    },
-    {
-      "added_at": "2026-04-04 06:04:53",
-      "album": {
         "name": "My Utmost For His Highest",
         "url": "https://open.spotify.com/album/1FsAHNrcHF3QVdRHloCnhV"
       },
@@ -1443,18 +1427,18 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
-        "name": "JESUS",
-        "url": "https://open.spotify.com/album/03UHVZU8WsMFroHVWm6hJc"
+        "name": "He's Alive: Don Francisco Collection, Vol. 1",
+        "url": "https://open.spotify.com/album/2Ax36W4f22Kr96sJnsnBtw"
       },
       "artists": [
         {
-          "name": "Matt Crocker",
-          "url": "https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec"
+          "name": "Don Francisco",
+          "url": "https://open.spotify.com/artist/6TxrRPbH25NhjMCBvoeyXI"
         }
       ],
-      "duration_ms": 200120,
-      "name": "JESUS",
-      "url": "https://open.spotify.com/track/7ezBWjqG5tdtvyXcg3toYf"
+      "duration_ms": 298706,
+      "name": "He's Alive",
+      "url": "https://open.spotify.com/track/3BHTusPUbP50JY0uzCUODT"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -1475,6 +1459,22 @@
       "duration_ms": 389897,
       "name": "Hosanna - Live",
       "url": "https://open.spotify.com/track/3iCyKTgnCYAhYJKaGsBmg8"
+    },
+    {
+      "added_at": "2026-04-04 06:04:53",
+      "album": {
+        "name": "JESUS",
+        "url": "https://open.spotify.com/album/03UHVZU8WsMFroHVWm6hJc"
+      },
+      "artists": [
+        {
+          "name": "Matt Crocker",
+          "url": "https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec"
+        }
+      ],
+      "duration_ms": 200120,
+      "name": "JESUS",
+      "url": "https://open.spotify.com/track/7ezBWjqG5tdtvyXcg3toYf"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
+        "name": "My Jesus On The Cross",
+        "url": "https://open.spotify.com/album/49KXZ8l16NJ9j0oblGfzUu"
+      },
+      "artists": [
+        {
+          "name": "Victory House Worship",
+          "url": "https://open.spotify.com/artist/6kzOnutG18rqaBCLzY0gwI"
+        }
+      ],
+      "duration_ms": 372064,
+      "name": "My Jesus On The Cross",
+      "url": "https://open.spotify.com/track/5u0mxYTtdhOYLG7WEjtvS7"
+    },
+    {
+      "added_at": "2026-04-04 06:04:53",
+      "album": {
         "name": "The Blood + the Breath: Songs That Tell the Story of Redemption",
         "url": "https://open.spotify.com/album/1rxue9XMuS2bqtExqQdHON"
       },
@@ -1731,22 +1747,6 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
-        "name": "My Jesus On The Cross",
-        "url": "https://open.spotify.com/album/49KXZ8l16NJ9j0oblGfzUu"
-      },
-      "artists": [
-        {
-          "name": "Victory House Worship",
-          "url": "https://open.spotify.com/artist/6kzOnutG18rqaBCLzY0gwI"
-        }
-      ],
-      "duration_ms": 372064,
-      "name": "My Jesus On The Cross",
-      "url": "https://open.spotify.com/track/5u0mxYTtdhOYLG7WEjtvS7"
-    },
-    {
-      "added_at": "2026-04-04 06:04:53",
-      "album": {
         "name": "Music Inspired By The Story",
         "url": "https://open.spotify.com/album/1gkIyLIl58xpc4BwF009gg"
       },
@@ -1779,26 +1779,6 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
-        "name": "Jesus Is My Healer (Live)",
-        "url": "https://open.spotify.com/album/5gYrM3yx6RMB7Wk16bwdLh"
-      },
-      "artists": [
-        {
-          "name": "Gateway Worship",
-          "url": "https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB"
-        },
-        {
-          "name": "Jessie Harris",
-          "url": "https://open.spotify.com/artist/1d5o5nKTHxv0gr9avqdTmA"
-        }
-      ],
-      "duration_ms": 380865,
-      "name": "Jesus Is My Healer - Live",
-      "url": "https://open.spotify.com/track/4h3gmTsm5moWm9j3NNx0Gp"
-    },
-    {
-      "added_at": "2026-04-04 06:04:53",
-      "album": {
         "name": "Unstoppable",
         "url": "https://open.spotify.com/album/5ZyTkx6rT1LnFXvZhpEang"
       },
@@ -1815,6 +1795,26 @@
       "duration_ms": 292953,
       "name": "Speak the Name (feat. Natalie Grant)",
       "url": "https://open.spotify.com/track/6ERUhKp4ECxlnmJvKQZpu1"
+    },
+    {
+      "added_at": "2026-04-04 06:04:53",
+      "album": {
+        "name": "Jesus Is My Healer (Live)",
+        "url": "https://open.spotify.com/album/5gYrM3yx6RMB7Wk16bwdLh"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship",
+          "url": "https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB"
+        },
+        {
+          "name": "Jessie Harris",
+          "url": "https://open.spotify.com/artist/1d5o5nKTHxv0gr9avqdTmA"
+        }
+      ],
+      "duration_ms": 380865,
+      "name": "Jesus Is My Healer - Live",
+      "url": "https://open.spotify.com/track/4h3gmTsm5moWm9j3NNx0Gp"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -1955,18 +1955,22 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
-        "name": "hallelujah",
-        "url": "https://open.spotify.com/album/0igxQaN8iQNIwDvZBSKKRA"
+        "name": "Alive In You (Studio Version)",
+        "url": "https://open.spotify.com/album/6VEoSGKqDqAPkhu5ctXxHH"
       },
       "artists": [
         {
-          "name": "Matt Crocker",
-          "url": "https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec"
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+        },
+        {
+          "name": "Kim Walker-Smith",
+          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
         }
       ],
-      "duration_ms": 328607,
-      "name": "hallelujah",
-      "url": "https://open.spotify.com/track/7jwDkuFY3aHdVo42eesrnI"
+      "duration_ms": 239999,
+      "name": "Alive In You - Studio Version",
+      "url": "https://open.spotify.com/track/09iE9CebgTgFDEluHH1ept"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -2003,22 +2007,18 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
-        "name": "Alive In You (Studio Version)",
-        "url": "https://open.spotify.com/album/6VEoSGKqDqAPkhu5ctXxHH"
+        "name": "hallelujah",
+        "url": "https://open.spotify.com/album/0igxQaN8iQNIwDvZBSKKRA"
       },
       "artists": [
         {
-          "name": "Jesus Culture",
-          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
-        },
-        {
-          "name": "Kim Walker-Smith",
-          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+          "name": "Matt Crocker",
+          "url": "https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec"
         }
       ],
-      "duration_ms": 239999,
-      "name": "Alive In You - Studio Version",
-      "url": "https://open.spotify.com/track/09iE9CebgTgFDEluHH1ept"
+      "duration_ms": 328607,
+      "name": "hallelujah",
+      "url": "https://open.spotify.com/track/7jwDkuFY3aHdVo42eesrnI"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -2339,22 +2339,6 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
-        "name": "Easter",
-        "url": "https://open.spotify.com/album/3nJxen033HMnvySxcnSiJh"
-      },
-      "artists": [
-        {
-          "name": "Planetshakers",
-          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
-        }
-      ],
-      "duration_ms": 333199,
-      "name": "Worthy Is The Lamb - Easter Version",
-      "url": "https://open.spotify.com/track/16Ctqq2ZkzjE2f7HbLSJMt"
-    },
-    {
-      "added_at": "2026-04-04 06:04:53",
-      "album": {
         "name": "Long Live The King (Live At The Grove)",
         "url": "https://open.spotify.com/album/0agzLXWxrapOwNXsGXx9nn"
       },
@@ -2375,22 +2359,18 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
-        "name": "In The Resurrection",
-        "url": "https://open.spotify.com/album/0G6iRcuMTbCkvK1mtiiCXW"
+        "name": "Easter",
+        "url": "https://open.spotify.com/album/3nJxen033HMnvySxcnSiJh"
       },
       "artists": [
         {
-          "name": "iAmSon",
-          "url": "https://open.spotify.com/artist/1T8Be2Meq3EPh7WUBlW11E"
-        },
-        {
-          "name": "DOE",
-          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+          "name": "Planetshakers",
+          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
         }
       ],
-      "duration_ms": 267860,
-      "name": "In The Resurrection",
-      "url": "https://open.spotify.com/track/5y7UcB9uyzE1xZFaTLVICF"
+      "duration_ms": 333199,
+      "name": "Worthy Is The Lamb - Easter Version",
+      "url": "https://open.spotify.com/track/16Ctqq2ZkzjE2f7HbLSJMt"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -2407,6 +2387,26 @@
       "duration_ms": 261573,
       "name": "Stay With Me Here",
       "url": "https://open.spotify.com/track/74Xfijo7ERntrhBdgLsicn"
+    },
+    {
+      "added_at": "2026-04-04 06:04:53",
+      "album": {
+        "name": "In The Resurrection",
+        "url": "https://open.spotify.com/album/0G6iRcuMTbCkvK1mtiiCXW"
+      },
+      "artists": [
+        {
+          "name": "iAmSon",
+          "url": "https://open.spotify.com/artist/1T8Be2Meq3EPh7WUBlW11E"
+        },
+        {
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+        }
+      ],
+      "duration_ms": 267860,
+      "name": "In The Resurrection",
+      "url": "https://open.spotify.com/track/5y7UcB9uyzE1xZFaTLVICF"
     },
     {
       "added_at": "2026-04-04 06:04:53",

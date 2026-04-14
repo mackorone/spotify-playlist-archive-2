@@ -2301,6 +2301,24 @@
     },
     {
       "album": {
+        "name": "Bazooka",
+        "url": "https://open.spotify.com/album/6cM8Ky6V5piRMcuePn2H4L"
+      },
+      "artists": [
+        {
+          "name": "Miami XO",
+          "url": "https://open.spotify.com/artist/3YtYKFoeuIDJs7UVGiFauz"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108121,
+      "name": "Bazooka",
+      "url": "https://open.spotify.com/track/28Y6r99oMdMAb4LxwLLKwa"
+    },
+    {
+      "album": {
         "name": "MUSE",
         "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
       },
@@ -3076,7 +3094,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-13",
+      "date_removed": null,
       "duration_ms": 189725,
       "name": "Body to Body",
       "url": "https://open.spotify.com/track/2rKkfc4VZ74FQDc1FF1Zo6"
@@ -6174,7 +6192,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 275102,
       "name": "Doomed",
       "url": "https://open.spotify.com/track/5OF346xZ66VhwC9YGyT5bC"
@@ -6406,7 +6424,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 205308,
       "name": "Dracula",
       "url": "https://open.spotify.com/track/1NXbNEAcPvY5G1xvfN57aA"
@@ -10204,7 +10222,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 233000,
       "name": "He's My Man",
       "url": "https://open.spotify.com/track/0LAvtWIqRjqKRKY2NHzeCn"
@@ -14330,7 +14348,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-13",
+      "date_removed": null,
       "duration_ms": 134071,
       "name": "Looping the Rooms",
       "url": "https://open.spotify.com/track/3XJCMkEWhd8xwHx6UGGa7C"
@@ -25068,7 +25086,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 121461,
       "name": "the kill 2",
       "url": "https://open.spotify.com/track/0jH7Z3yuEehQeU1IK4gkpA"
@@ -28774,7 +28792,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-14",
       "duration_ms": 255591,
       "name": "worry - ultra slowed",
       "url": "https://open.spotify.com/track/18j6GCxt5aFKbYqdvksL7N"
@@ -42174,7 +42192,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-09",
+      "date_removed": null,
       "duration_ms": 265714,
       "name": "\u041f\u0440\u0430\u0441\u043a\u043e\u0432\u044c\u044f (Uma2rman \"\u0417\u0432\u0451\u0437\u0434\u044b \u0441\u0447\u0438\u0442\u0430\u044e\u0442 \u043d\u0430\u0441\")",
       "url": "https://open.spotify.com/track/7bWCOfRj7riGdF4QLJ0sTK"
@@ -46936,6 +46954,24 @@
       "duration_ms": 131538,
       "name": "\u0424\u043b\u0438\u0440\u0442\u0443\u0439",
       "url": "https://open.spotify.com/track/0RT48ypt6rC10KVNRjEnEd"
+    },
+    {
+      "album": {
+        "name": "\u0424\u0440\u0430\u0435\u0440\u0430",
+        "url": "https://open.spotify.com/album/2s5DAt2D77l31iF9nEdENh"
+      },
+      "artists": [
+        {
+          "name": "\u0410\u043b\u0421\u043c\u0438",
+          "url": "https://open.spotify.com/artist/4cxaOFZwyVnVQSb4AnE1HG"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146202,
+      "name": "\u0424\u0440\u0430\u0435\u0440\u0430",
+      "url": "https://open.spotify.com/track/2METYjQOQ2PsI3iSwNU2ey"
     },
     {
       "album": {

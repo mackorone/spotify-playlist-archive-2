@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 
 > Today’s pop, plugged into the culture\. Cover: Teddy Swims
 
-[Spotify](https://open.spotify.com/user/spotify) - 549,455 likes - 99 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 549,412 likes - 99 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 | 24 | [Almost Over](https://open.spotify.com/track/1nGFesHICoTP5VVsnaKYJ5) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [Therapy & Yoga](https://open.spotify.com/album/5zn2yH96a43N0CgB5Fd8jf) | 2:46 |
 | 25 | [2515](https://open.spotify.com/track/6oJRAA2pF2VK8fmxTncqiG) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [2515](https://open.spotify.com/album/4n98iy8MVJkh2cELKgazOR) | 4:01 |
 | 26 | [Hysteria](https://open.spotify.com/track/7cBm3l9gb7D18dqioJ0kEy) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Hysteria](https://open.spotify.com/album/5AKFAqGH2MSyWZX0Vj7ZN2) | 2:23 |
-| 27 | [My Mouth Is Lonely For You \(from Mother Mary\)](https://open.spotify.com/track/2X5WidXHsjamq3ICtOmW9o) | [Anne Hathaway](https://open.spotify.com/artist/0nIyPY7J7G68WgQEOLHn0x) | [My Mouth Is Lonely For You \(from Mother Mary\)](https://open.spotify.com/album/2RLA4dsSG3M7rIcXWeaTvy) | 4:04 |
+| 27 | [My Mouth Is Lonely For You](https://open.spotify.com/track/2X5WidXHsjamq3ICtOmW9o) | [Anne Hathaway](https://open.spotify.com/artist/0nIyPY7J7G68WgQEOLHn0x) | [My Mouth Is Lonely For You](https://open.spotify.com/album/2RLA4dsSG3M7rIcXWeaTvy) | 4:04 |
 | 28 | [Tonight](https://open.spotify.com/track/7DTqqSUuUhixiAv4nR0JQW) | [girlsweetvoiced](https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT) | [Tonight](https://open.spotify.com/album/3vdKcTeYb0JmsiBlyVDuTe) | 2:25 |
 | 29 | [The Way We Touch](https://open.spotify.com/track/0fVrUsHbkqg7ISVKufGoLm) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [The Way We Touch](https://open.spotify.com/album/6elYxwsTNLEQlxDvMxacJn) | 3:09 |
 | 30 | [PALO $ANTO \(with Stormzy\)](https://open.spotify.com/track/0cvOfzykDoUaBKhWFSuB31) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [$TILL PAID](https://open.spotify.com/album/2HrOxwGUV3bk56mynG4NpK) | 2:49 |

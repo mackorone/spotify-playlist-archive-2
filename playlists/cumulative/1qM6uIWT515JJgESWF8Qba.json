@@ -2937,6 +2937,24 @@
     },
     {
       "album": {
+        "name": "Ribcrasher",
+        "url": "https://open.spotify.com/album/1p1VeLJoQlDKiK1X90QCHK"
+      },
+      "artists": [
+        {
+          "name": "On-Off",
+          "url": "https://open.spotify.com/artist/3Qb1E9hm1R0In79aIumUsR"
+        }
+      ],
+      "date_added": "2026-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230506,
+      "name": "Seven",
+      "url": "https://open.spotify.com/track/7tdZEErExaYhQI2Oa3cqWg"
+    },
+    {
+      "album": {
         "name": "Dayglo / Shadow Artist",
         "url": "https://open.spotify.com/album/6n9uicDXaGs7NpVLA5VCSA"
       },

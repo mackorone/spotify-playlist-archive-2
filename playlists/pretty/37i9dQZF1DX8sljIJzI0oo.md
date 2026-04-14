@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > Rubí and Remers are bringing the heat this week\. Tap in every Thursday for a new Fuego mixtape.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,920,857 likes - 19 songs - 56 min 26 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,920,778 likes - 19 songs - 56 min 26 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
