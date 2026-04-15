@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vCk1GJH7zl.md) - [plain]
 
 > Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Paul McCartney
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,372 likes - 65 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,396 likes - 65 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

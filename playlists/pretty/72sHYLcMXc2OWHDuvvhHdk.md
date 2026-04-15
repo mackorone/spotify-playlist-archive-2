@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 565 likes - 2,513 songs - 6 day 2 hr 48 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 565 likes - 2,519 songs - 6 day 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2521,5 +2521,11 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2511 | [FOTHW \(Found Out The Hard Way\)](https://open.spotify.com/track/0zEbTl5F54V8WzB99syuL6) | [Midwest Sean](https://open.spotify.com/artist/5Q80oYFUIIgdMjtQX6DnGz) | [FOTHW \(Found Out The Hard Way\)](https://open.spotify.com/album/2QjmcAqhOsxsmcbqYdfLVD) | 2:00 |
 | 2512 | [falling down](https://open.spotify.com/track/1bTcxU52JVMIOaxKTTiuqD) | [StarAV](https://open.spotify.com/artist/3WGUrAeuOzuLleeIuyg9Na) | [falling down](https://open.spotify.com/album/3zHvjsJ5xkcjwxO0JPlSV7) | 2:29 |
 | 2513 | [Roosters](https://open.spotify.com/track/6SPv408aAfbsGqb2Fvic8B) | [Travis Feutz and The Stardust Cowboys](https://open.spotify.com/artist/5prevHb6g0UVn5uIoLqbjs) | [Country Gold](https://open.spotify.com/album/3NgPR3THQboh5Uc9pAowOK) | 4:27 |
+| 2514 | [Swamp Spirit](https://open.spotify.com/track/4IFDp5TNX5YXdaQYkkFqt5) | [w\-berg](https://open.spotify.com/artist/5Tf8lgBxAQgvPgCRsGWTiq) | [Swamp Spirit](https://open.spotify.com/album/0Z0smSYyNsHs4e75psm92j) | 4:46 |
+| 2515 | [What a Wonderful World](https://open.spotify.com/track/29ly7Jlmgu0VlbAKs1mt5q) | [Bledi Telha](https://open.spotify.com/artist/08tnj6N05HhRpdGhMSbNxx) | [What a Wonderful World](https://open.spotify.com/album/6KmgM6Hz9nQZLoY892Y1W5) | 3:34 |
+| 2516 | [Nuevo Mundo](https://open.spotify.com/track/6YQbq2v8Y3BdC6XhJ6IdM7) | [Mr\. Mol](https://open.spotify.com/artist/0Pzhf2LTb0C0RJeAxaEBjx) | [ITERACIÓN](https://open.spotify.com/album/6IZrIHQgeWPZlP9VDW2rQV) | 3:28 |
+| 2517 | [What’s On Your Mind](https://open.spotify.com/track/2DOKvJS61usFOxobo7jLi0) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk), [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [What's On Your Mind](https://open.spotify.com/album/3Zba9cZ8EP1DBcvjnVNrG6) | 3:32 |
+| 2518 | [More](https://open.spotify.com/track/14aDPcz6whbi82MtqIGSAZ) | [Alanna Sterling](https://open.spotify.com/artist/6gfQSJ07CJAEvOwKz4sX2f) | [More](https://open.spotify.com/album/5iAMFLHajNIwWxFJh0iA0E) | 3:42 |
+| 2519 | [i love you so im lying](https://open.spotify.com/track/11S2XZMLshxdE6jJeEGdgp) | [Lax.X8](https://open.spotify.com/artist/2x7oxsv7Ki5EC2nHTaEfZp), [LossWasHere](https://open.spotify.com/artist/4tTKCmzIlbZFDMr9Siu7bu) | [i love you so im lying](https://open.spotify.com/album/3ZFTCkNJdVAQWU0FwKNmkM) | 2:37 |
 
-Snapshot ID: `AAAKar2iI51AZadvResTrt0czw/e2oxq`
+Snapshot ID: `AAAKcKm6QV/6LTb+g/6qyXFBZJfkx6DD`

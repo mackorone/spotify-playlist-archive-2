@@ -2,9 +2,9 @@
 
 ### [Hits خليجي](https://open.spotify.com/playlist/37i9dQZF1DWU486KSiznWZ)
 
-> نخبة الأغاني الخليجية\. الغلاف: رابح صقر
+> نخبة الأغاني الخليجية\. الغلاف: عايض
 
-233 songs - 16 hr 51 min
+235 songs - 16 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,12 +179,12 @@
 | [ابتسم لي](https://open.spotify.com/track/6SnRVdLWNOv4JPt3xdN91X) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [ابتسم لي](https://open.spotify.com/album/2f8v46r3GCmlRZ7Rdmxpvk) | 3:24 | 2022-09-07 | 2022-09-29 |
 | [اشكر جمالك](https://open.spotify.com/track/2gFZxR3Fur5t6fUzKgo7Y9) | [Abdullah Al Mukhles](https://open.spotify.com/artist/6SdRVw4NGUDFrTbWHXaUbH) | [اشكر جمالك](https://open.spotify.com/album/0CnyoumDAlz7cWYRzWccOa) | 4:54 | 2022-04-07 | 2022-10-05 |
 | [اشكر جمالك](https://open.spotify.com/track/6u2oO1mKCDQb7NMyudbe1q) | [Abdullah Al Mukhles](https://open.spotify.com/artist/6SdRVw4NGUDFrTbWHXaUbH) | [اشكر جمالك](https://open.spotify.com/album/7rUlN3gk2ha2ZusWAp0DHQ) | 4:54 | 2022-09-07 | 2022-09-29 |
-| [اعوف الدنيا](https://open.spotify.com/track/0fBy3SWaFE4rzPSRqD6RO7) | [محمد السالم](https://open.spotify.com/artist/6ZjLn03y0m8H3z94ZKmCHB) | [اعوف الدنيا](https://open.spotify.com/album/5DcXnrh8ZXr85dezcuYnE2) | 3:16 | 2025-12-18 |  |
+| [اعوف الدنيا](https://open.spotify.com/track/0fBy3SWaFE4rzPSRqD6RO7) | [محمد السالم](https://open.spotify.com/artist/6ZjLn03y0m8H3z94ZKmCHB) | [اعوف الدنيا](https://open.spotify.com/album/5DcXnrh8ZXr85dezcuYnE2) | 3:16 | 2025-12-18 | 2026-04-15 |
 | [اقسم برب الحب](https://open.spotify.com/track/16n29Queh9WamvEdPAzU30) | [Faisal Abdulkareem](https://open.spotify.com/artist/5jFvzkcrrV8TqpRo2sMRuK) | [اقسم برب الحب \- Single](https://open.spotify.com/album/0ndiTiEwgNBodLi9FUxCE8) | 3:48 | 2022-04-07 | 2023-03-15 |
 | [الحب الأبدي](https://open.spotify.com/track/7usxVbBzZDS5cizMcCzC0Z) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj), [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [الحب الأبدي](https://open.spotify.com/album/62HLjL7THRp3y0913hTOq0) | 4:37 | 2023-08-07 | 2024-04-19 |
 | [العجب في الهوى](https://open.spotify.com/track/7xj5Biz8I1trcgVq57jzhk) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [العجب في الهوى](https://open.spotify.com/album/5QqiSpeyNPcI4rUpvYEhcX) | 5:23 | 2023-08-27 | 2024-04-19 |
 | [الفين باب](https://open.spotify.com/track/3quHorw9IRJWtWaZKpl6I1) | [Oumaima Taleb](https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe) | [الفين باب](https://open.spotify.com/album/2dDhZcyv8bmPbpbJlX4QSh) | 4:45 | 2023-01-13 | 2024-04-19 |
-| [القدر جابك](https://open.spotify.com/track/600lrMpRgxotex7UnTYBpa) | [بندر بن عوير](https://open.spotify.com/artist/3AEPOScEpyXGfeHa3scvkm) | [القدر جابك](https://open.spotify.com/album/5HUXikww10Pu3o6kPD09J2) | 3:42 | 2026-02-27 |  |
+| [القدر جابك](https://open.spotify.com/track/600lrMpRgxotex7UnTYBpa) | [بندر بن عوير](https://open.spotify.com/artist/3AEPOScEpyXGfeHa3scvkm) | [القدر جابك](https://open.spotify.com/album/5HUXikww10Pu3o6kPD09J2) | 3:42 | 2026-02-27 | 2026-04-15 |
 | [المسباح](https://open.spotify.com/track/7Li5V3NUkZR95lVTRQb0JF) | [نوال الكويتية](https://open.spotify.com/artist/0KpzW2tcVs0tfnTFn6ZPys) | [الأرض](https://open.spotify.com/album/0S1DgCMQc8vbiPA210cc8X) | 4:34 | 2023-10-11 | 2024-01-25 |
 | [ايامي بدونك](https://open.spotify.com/track/7b6blgIv6cMRAXu8sBnWJf) | [خالد الحنين](https://open.spotify.com/artist/1C55jVVXpHrFZsWJHrDL3B) | [ايامي بدونك](https://open.spotify.com/album/0qJ6tDqMYbsFE72JSsAGJa) | 3:45 | 2023-02-07 | 2023-02-28 |
 | [بترجع](https://open.spotify.com/track/0sWkcDktCKYnD47wq1aeto) | [Oumaima Taleb](https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe) | [تركي \- طارق محمد](https://open.spotify.com/album/5sZ2lDQNAQHKEFUVXXanVL) | 3:40 | 2023-01-17 | 2023-06-03 |
@@ -195,6 +195,7 @@
 | [بعيش لنفسي](https://open.spotify.com/track/6rCSn6Wjg2tW3MngrL5cPg) | [Rabeh Saqer](https://open.spotify.com/artist/13xKnb7dAum7ShcsxQA5v2) | [رابح صقر ٢٠٢٣ \- الجزء الثاني](https://open.spotify.com/album/0HpjLJZITkQQsW0HqiOVIB) | 5:38 | 2023-06-21 | 2023-12-15 |
 | [تتنفسك دنياي](https://open.spotify.com/track/5RLyQK3o0mVIjmjbFM0sT2) | [Abdul Majeed Abdullah](https://open.spotify.com/artist/2RxCv6j8Wu2rYbmtOBvg6F) | [تتنفسك دنياي](https://open.spotify.com/album/3H6bW7rzjkoyHbYSE5Jyz6) | 4:42 | 2023-01-09 | 2024-04-19 |
 | [تجى نعشق](https://open.spotify.com/track/29305gTlSL5r2IRqaQpcTl) | [Fahad Al Kubaisi](https://open.spotify.com/artist/6rBbNvUdaLTfN5ynPdHdhJ) | [تجى نعشق](https://open.spotify.com/album/3mRBkLKqxSpPdk3suZVQP0) | 5:14 | 2026-02-27 |  |
+| [تعبت اكذب](https://open.spotify.com/track/2ckj7aKCJUwvuMErkb4905) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [ثمان الام](https://open.spotify.com/album/5GlYWKPu1cOykbSRzXOkGG) | 4:35 | 2026-04-14 |  |
 | [تمنيتك](https://open.spotify.com/track/3VK1saUjwKxTwncJ0bv8w9) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [بديت اطيب](https://open.spotify.com/album/5kPqppESqRCCXGEF9x0Fpq) | 4:49 | 2023-03-08 | 2023-08-28 |
 | [جننت قلبي](https://open.spotify.com/track/6PnSITYfgUE5vTCLRy3Y8S) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [جننت قلبي](https://open.spotify.com/album/4pEnflTz0BQxSdcX2mptfP) | 4:47 | 2023-08-27 | 2024-04-19 |
 | [خيبه](https://open.spotify.com/track/1p0iqpf9p7B4Kav2dOdGx2) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [خيبه](https://open.spotify.com/album/6fY7G8NKVxX6HdLsKLhwYj) | 4:35 | 2022-09-07 | 2022-09-29 |
@@ -205,6 +206,7 @@
 | [روح براحتك](https://open.spotify.com/track/4MEeCc9QHr24rQ99dOd9AZ) | [Sheme](https://open.spotify.com/artist/6x8vq4QX1MQjqasHWpMWhw) | [روح براحتك](https://open.spotify.com/album/2hStDr8tYNyFkQiUT2F0fj) | 3:39 | 2022-07-08 | 2023-03-09 |
 | [زلزال](https://open.spotify.com/track/0FO3XVNhGNq86mZ1uEhYvK) | [Rabeh Saqer](https://open.spotify.com/artist/13xKnb7dAum7ShcsxQA5v2) | [رابح صقر ٢٠٢٣ \- الجزء الثاني](https://open.spotify.com/album/0HpjLJZITkQQsW0HqiOVIB) | 4:16 | 2023-06-13 | 2023-10-12 |
 | [سكه مجهوله](https://open.spotify.com/track/5X5ubFhkET9omL8FDcpSku) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [سكه مجهوله](https://open.spotify.com/album/2abcKDPudbZ4WvwyVkgrvR) | 4:20 | 2022-06-08 | 2022-09-09 |
+| [صبرت](https://open.spotify.com/track/24S9tChLLjvN6hjSMlBQiN) | [Bandar Abdulaziz](https://open.spotify.com/artist/4QnEgid1Wuxlr1vHgyzUXw) | [صبرت](https://open.spotify.com/album/2LbRW0x8MTu5ULZnr3LMQ3) | 3:39 | 2026-04-14 |  |
 | [ضاق الغمام](https://open.spotify.com/track/3HRvfEMnAwmaoC0dhfYUiL) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [فؤاد عبدالواحد ٢٠٢٤](https://open.spotify.com/album/5N2NALxsk5s6Mr6bVezMm3) | 4:23 | 2023-12-20 | 2024-04-19 |
 | [ضعت منك](https://open.spotify.com/track/5KKjRWEIqWQ1nygHT9lf3j) | [Oumaima Taleb](https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe) | [ضعت منك](https://open.spotify.com/album/6nAqcqeaZWMW29hldi7dta) | 3:56 | 2024-09-23 | 2025-07-01 |
 | [في حفظ الله \| لمياء المالكي](https://open.spotify.com/track/4ElrjJKCDraFudqQMqG5Jj) | [Lamya Almalki \| لمياء المالكي](https://open.spotify.com/artist/78muID98ZZ9qLgjJph0jnf) | [في حفظ الله \| لمياء المالكي](https://open.spotify.com/album/5lA5PY1w6TGLqYZySPiZaA) | 3:57 | 2022-12-08 | 2023-05-07 |

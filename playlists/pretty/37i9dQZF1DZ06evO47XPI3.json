@@ -1,12 +1,12 @@
 {
   "description": "This is The Delfonics. The essential tracks, all in one playlist.",
-  "num_followers": 12790,
+  "num_followers": 12791,
   "original_name": "This Is The Delfonics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adrggAAAAAB3q0Op2YleML9f44VeKvzF",
+  "snapshot_id": "adwyAAAAAACykuUWEZCfrzmZL8oxJ5mn",
   "tracks": [
     {
       "added_at": null,
@@ -499,8 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Philly Groove Rarities",
-        "url": "https://open.spotify.com/album/0MIUv5Km6ohmE66bKakj9G"
+        "name": "La La Means I Love You (Expanded Version)",
+        "url": "https://open.spotify.com/album/2PaOO36fcDsy0jAgdfhbHM"
       },
       "artists": [
         {
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
         }
       ],
-      "duration_ms": 269560,
-      "name": "The Same Things That Make You Laugh",
-      "url": "https://open.spotify.com/track/4M9NPX9foQIqwOE2waGE9C"
+      "duration_ms": 123293,
+      "name": "Loving Him (aka You Can't Be Loving Him)",
+      "url": "https://open.spotify.com/track/01VYC2isnJ8FPczbH5U3sD"
     },
     {
       "added_at": null,
@@ -531,8 +531,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La La Means I Love You (Expanded Version)",
-        "url": "https://open.spotify.com/album/2PaOO36fcDsy0jAgdfhbHM"
+        "name": "Philly Groove Rarities",
+        "url": "https://open.spotify.com/album/0MIUv5Km6ohmE66bKakj9G"
       },
       "artists": [
         {
@@ -540,9 +540,25 @@
           "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
         }
       ],
-      "duration_ms": 123293,
-      "name": "Loving Him (aka You Can't Be Loving Him)",
-      "url": "https://open.spotify.com/track/01VYC2isnJ8FPczbH5U3sD"
+      "duration_ms": 269560,
+      "name": "The Same Things That Make You Laugh",
+      "url": "https://open.spotify.com/track/4M9NPX9foQIqwOE2waGE9C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Sound Of Sexy Soul",
+        "url": "https://open.spotify.com/album/6KBNPaBdwwrSQPyz1RxRSF"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "duration_ms": 168106,
+      "name": "My New Love",
+      "url": "https://open.spotify.com/track/0GvFz5xC9ksgz44l7RrCK3"
     },
     {
       "added_at": null,
@@ -579,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Sound Of Sexy Soul",
-        "url": "https://open.spotify.com/album/6KBNPaBdwwrSQPyz1RxRSF"
-      },
-      "artists": [
-        {
-          "name": "The Delfonics",
-          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
-        }
-      ],
-      "duration_ms": 168106,
-      "name": "My New Love",
-      "url": "https://open.spotify.com/track/0GvFz5xC9ksgz44l7RrCK3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tell Me This Is a Dream (Expanded Version)",
         "url": "https://open.spotify.com/album/2jOEnosh3mYjrVAqPThwdw"
       },
@@ -607,6 +607,22 @@
       "duration_ms": 156506,
       "name": "Too Late",
       "url": "https://open.spotify.com/track/3W3IOmKU0sWOpBpWSiCkyH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Sound Of Sexy Soul",
+        "url": "https://open.spotify.com/album/6KBNPaBdwwrSQPyz1RxRSF"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "duration_ms": 176306,
+      "name": "Face It Girl, It's Over - Remastered",
+      "url": "https://open.spotify.com/track/1AyTnTn95fQ9WO388d6wCy"
     },
     {
       "added_at": null,
@@ -643,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Sound Of Sexy Soul",
-        "url": "https://open.spotify.com/album/6KBNPaBdwwrSQPyz1RxRSF"
-      },
-      "artists": [
-        {
-          "name": "The Delfonics",
-          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
-        }
-      ],
-      "duration_ms": 176306,
-      "name": "Face It Girl, It's Over - Remastered",
-      "url": "https://open.spotify.com/track/1AyTnTn95fQ9WO388d6wCy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Delfonics vs Ray, Goodman & Brown Live In Concert",
         "url": "https://open.spotify.com/album/4VOJpxfPuOTxCxYBKe1QQ5"
       },
@@ -675,6 +675,22 @@
       "duration_ms": 98469,
       "name": "Intro MC for The Delfonics Concert - Live",
       "url": "https://open.spotify.com/track/5Azq2UGW0k6Y7DhkdY4YNT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Sound Of Sexy Soul",
+        "url": "https://open.spotify.com/album/6KBNPaBdwwrSQPyz1RxRSF"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "duration_ms": 140866,
+      "name": "Let It Be Me - Remastered",
+      "url": "https://open.spotify.com/track/20RH7gcytQ3cUeP50RjRMB"
     },
     {
       "added_at": null,
@@ -707,22 +723,6 @@
       "duration_ms": 190914,
       "name": "Can't Go On Living",
       "url": "https://open.spotify.com/track/3dz7dPHwf6OYD4pMWYbV40"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Sound Of Sexy Soul",
-        "url": "https://open.spotify.com/album/6KBNPaBdwwrSQPyz1RxRSF"
-      },
-      "artists": [
-        {
-          "name": "The Delfonics",
-          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
-        }
-      ],
-      "duration_ms": 140866,
-      "name": "Let It Be Me - Remastered",
-      "url": "https://open.spotify.com/track/20RH7gcytQ3cUeP50RjRMB"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alive & Kicking",
-        "url": "https://open.spotify.com/album/104FlqarJg6i3k5XZtWgOc"
-      },
-      "artists": [
-        {
-          "name": "The Delfonics",
-          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
-        }
-      ],
-      "duration_ms": 261456,
-      "name": "Seventeen (And In Love)",
-      "url": "https://open.spotify.com/track/3VNuR7BTR6293tyn8aSUKW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Delfonics Today All Platinium",
         "url": "https://open.spotify.com/album/6b9zCpI3Pu2Gvd2tOSj99U"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 219573,
       "name": "Strangers Again",
       "url": "https://open.spotify.com/track/2VSjAymZDhKlrnNafNRXMW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alive & Kicking",
+        "url": "https://open.spotify.com/album/104FlqarJg6i3k5XZtWgOc"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "duration_ms": 261456,
+      "name": "Seventeen (And In Love)",
+      "url": "https://open.spotify.com/track/3VNuR7BTR6293tyn8aSUKW"
     },
     {
       "added_at": null,

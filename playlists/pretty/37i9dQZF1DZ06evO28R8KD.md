@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO28R8KD.md) - [plain]
 
 > This is Emily A\. Sprague\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172 likes - 27 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 171 likes - 27 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO28R8KD.md) - [plain]
 | 26 | [Horizon](https://open.spotify.com/track/28GQO7qa54ouDsWDjKtl0n) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Hill, Flower, Fog](https://open.spotify.com/album/4kUoHjxVlyhhTnmSwM47ol) | 6:24 |
 | 27 | [Rain](https://open.spotify.com/track/04ZsK2jPzneYHxkFWeu667) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Hill, Flower, Fog](https://open.spotify.com/album/4kUoHjxVlyhhTnmSwM47ol) | 6:09 |
 
-Snapshot ID: `adrggAAAAAAZD/kH/xp7X9aVSDpgA9w1`
+Snapshot ID: `adwyAAAAAAAMAQSFnGcvx3oZfqKioeI8`

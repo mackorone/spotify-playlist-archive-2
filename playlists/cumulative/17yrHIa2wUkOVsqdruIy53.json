@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2025-07-28",
   "description": "Die erfolgreichsten in einer Woche gestreamten Songs - alle Genres, alle Plattformen.",
-  "name": "Offizielle Deutsche Streaming-Charts KW 15.2026 / German Streaming-Charts",
+  "name": "Offizielle Deutsche Streaming-Charts KW 16.2026 / German Streaming-Charts",
   "tracks": [
     {
       "album": {
@@ -1228,10 +1228,32 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-18",
+      "date_removed": null,
       "duration_ms": 235986,
       "name": "Bella Napoli",
       "url": "https://open.spotify.com/track/2RETchtst6lwpgfHy7CCoT"
+    },
+    {
+      "album": {
+        "name": "Bend Over 2",
+        "url": "https://open.spotify.com/album/74xSrHtoKbfwUx6flF0GjA"
+      },
+      "artists": [
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        },
+        {
+          "name": "Sosa La M",
+          "url": "https://open.spotify.com/artist/6bM6rpwjhvxuKSQ2OJ2eQC"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131428,
+      "name": "Bend Over 2",
+      "url": "https://open.spotify.com/track/0xdCOXFgnKNBFmhVGyDJjl"
     },
     {
       "album": {
@@ -1410,7 +1432,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 154776,
       "name": "Blessed",
       "url": "https://open.spotify.com/track/32bZCHZS1dx4Tab16TVy2B"
@@ -1508,7 +1530,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 189725,
       "name": "Body to Body",
       "url": "https://open.spotify.com/track/2rKkfc4VZ74FQDc1FF1Zo6"
@@ -2454,7 +2476,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
@@ -2962,7 +2984,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-28",
+      "date_removed": null,
       "duration_ms": 255133,
       "name": "Enjoy the Silence",
       "url": "https://open.spotify.com/track/6WK9dVrRABMkUXFLNlgWFh"
@@ -3548,6 +3570,32 @@
       "duration_ms": 194197,
       "name": "GANGSTAAA (GLS CLASS)",
       "url": "https://open.spotify.com/track/1G1YAHObtrsT8CwA8GyP9n"
+    },
+    {
+      "album": {
+        "name": "gangster & efendi",
+        "url": "https://open.spotify.com/album/40gWxXSVTVwIGHLTym7VX6"
+      },
+      "artists": [
+        {
+          "name": "CANEY030",
+          "url": "https://open.spotify.com/artist/0ZqNAlpzFTJI4tyK4UwJE2"
+        },
+        {
+          "name": "Pashanim",
+          "url": "https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg"
+        },
+        {
+          "name": "Selim61",
+          "url": "https://open.spotify.com/artist/1u2sYra3g7wawqCHEkmwP6"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "gangster & efendi",
+      "url": "https://open.spotify.com/track/3fQi2IcEpdJLZqzveAYwCJ"
     },
     {
       "album": {
@@ -4192,7 +4240,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 220360,
       "name": "Hips Don't Lie (feat. Wyclef Jean)",
       "url": "https://open.spotify.com/track/3d0WouFnFmr0K3kjeza3fF"
@@ -4604,6 +4652,24 @@
       "duration_ms": 138580,
       "name": "IDGAF",
       "url": "https://open.spotify.com/track/4Vwb4A41SoZWdTRL7Jojus"
+    },
+    {
+      "album": {
+        "name": "iloveitiloveitiloveit",
+        "url": "https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF"
+      },
+      "artists": [
+        {
+          "name": "Bella Kay",
+          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183237,
+      "name": "iloveitiloveitiloveit",
+      "url": "https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV"
     },
     {
       "album": {
@@ -5588,7 +5654,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 177720,
       "name": "MACH PAPIER",
       "url": "https://open.spotify.com/track/6mw8MqgwlGq7eHMSDE0ab5"
@@ -5610,7 +5676,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 125142,
       "name": "MAHALLE",
       "url": "https://open.spotify.com/track/7oAvqaxnc5WEKtmPDEv59s"
@@ -5886,7 +5952,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 210093,
       "name": "Memories (feat. Kid Cudi)",
       "url": "https://open.spotify.com/track/7fLzbEOBOae9lUnOwr7Tse"
@@ -6915,6 +6981,24 @@
     },
     {
       "album": {
+        "name": "PIANO REEZ (SRT)",
+        "url": "https://open.spotify.com/album/4DwlD841aeDpBPFZwMTN5J"
+      },
+      "artists": [
+        {
+          "name": "reezy",
+          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147721,
+      "name": "PIANO REEZ (SRT)",
+      "url": "https://open.spotify.com/track/1VQrgjJAcMg7tUwsw0N88n"
+    },
+    {
+      "album": {
         "name": "pj nach z\u00fcrich (Demo)",
         "url": "https://open.spotify.com/album/3XD4lX5RPDKms4KEMlpFt7"
       },
@@ -7638,7 +7722,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
@@ -7899,6 +7983,24 @@
     },
     {
       "album": {
+        "name": "Self Aware",
+        "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
+      },
+      "artists": [
+        {
+          "name": "Temper City",
+          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180740,
+      "name": "Self Aware",
+      "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
+    },
+    {
+      "album": {
         "name": "Only By The Night",
         "url": "https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp"
       },
@@ -8066,7 +8168,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-01",
+      "date_removed": null,
       "duration_ms": 206166,
       "name": "Shower",
       "url": "https://open.spotify.com/track/3DmW6y7wTEYHJZlLo1r6XJ"
@@ -8138,7 +8240,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-01",
+      "date_removed": null,
       "duration_ms": 301920,
       "name": "Smells Like Teen Spirit",
       "url": "https://open.spotify.com/track/4CeeEOM32jQcH3eN9Q2dGj"
@@ -9354,7 +9456,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 100000,
       "name": "TIKI TIKI",
       "url": "https://open.spotify.com/track/5faHNtdcirK0obECjwikWS"
@@ -9430,7 +9532,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 243716,
       "name": "Tit\u00ed Me Pregunt\u00f3",
       "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
@@ -9944,7 +10046,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 147472,
       "name": "Vollmond",
       "url": "https://open.spotify.com/track/075Ii45GRPsho8pG1Clkdz"
@@ -10020,7 +10122,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 201325,
       "name": "Walzer",
       "url": "https://open.spotify.com/track/605G7F1FEjm60IdXmLhlNN"
@@ -10148,7 +10250,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 256440,
       "name": "We Don't Care",
       "url": "https://open.spotify.com/track/5D7TXG2pmQbFeLVNBrUADb"
@@ -10342,6 +10444,24 @@
       "duration_ms": 250268,
       "name": "What It Sounds Like",
       "url": "https://open.spotify.com/track/5sBDrrtLGbV64QJnEqfjer"
+    },
+    {
+      "album": {
+        "name": "What You Saying",
+        "url": "https://open.spotify.com/album/6c7wNxBe71RHzHlY1uqxgR"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131729,
+      "name": "What You Saying",
+      "url": "https://open.spotify.com/track/3DjMtj3Q1gUm1wIVnVekPC"
     },
     {
       "album": {
@@ -10800,7 +10920,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 92653,
       "name": "Xalaz",
       "url": "https://open.spotify.com/track/0sDIf1TRUDEtrlNI2NNk7w"

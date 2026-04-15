@@ -2,9 +2,9 @@
 
 ### [Modern Jazz Japan](https://open.spotify.com/playlist/37i9dQZF1DWWGewPG5S5oE)
 
-> 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 寺久保伶矢
+> 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: Fried Banana Shop
 
-510 songs - 1 day 17 hr 31 min
+511 songs - 1 day 17 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -298,6 +298,7 @@
 | [Pursuit](https://open.spotify.com/track/7IJpgWJNIc0HvsOjJmR6Hl) | [Mayuko Katakura](https://open.spotify.com/artist/5eP9be2Y1fGaWTQqvbF4hG) | [The Duality of My Soul](https://open.spotify.com/album/5ei1dg73EB8jSnUQgNSOxL) | 6:03 | 2025-12-23 | 2026-03-11 |
 | [qualia](https://open.spotify.com/track/5I9k1tmY1hk5WUYQDAvMbh) | [PRIMITIVE ART ORCHESTRA](https://open.spotify.com/artist/5HrFJi08nNdu50d0AQVEi0) | [qualia](https://open.spotify.com/album/17h27Orkm3gSuw7KwjZymP) | 3:24 | 2022-09-06 | 2024-12-18 |
 | [Questune](https://open.spotify.com/track/7fJppnEGxHyA3wHHl0qwLB) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Questune](https://open.spotify.com/album/4bqhOCK0Gb4iQ65EwRZ8uq) | 3:14 | 2025-09-02 | 2025-10-31 |
+| [Raccoon](https://open.spotify.com/track/20ZpdLjSxQ7yAupAFQpMM7) | [Fried Banana Shop](https://open.spotify.com/artist/1FsQB9WixbPjX7AB3g8tNF) | [Raccoon](https://open.spotify.com/album/6AU9T8gFA74uVIsGhwIC6Q) | 3:33 | 2026-04-14 |  |
 | [Raindrops Keep Fallin' On My Head](https://open.spotify.com/track/0pprlGhcsm15D9sFGnK7At) | [Kazumi Tateishi Trio](https://open.spotify.com/artist/0lrEYsRTl6UNtTagWmJAqZ) | [Kazumi Tateishi Trio meets Beautiful Standards](https://open.spotify.com/album/0ng3lS4pEfjFS59i3A0d8A) | 4:50 | 2023-10-10 | 2024-04-19 |
 | [Raindrops Keep Fallin' On My Head](https://open.spotify.com/track/2O4uIdTdn1JPC9DtnQpefK) | [Kazumi Tateishi Trio](https://open.spotify.com/artist/0lrEYsRTl6UNtTagWmJAqZ) | [Kazumi Tateishi Trio meets Beautiful Standards](https://open.spotify.com/album/0eEfR2lSeW2SaYZ4BEFXUH) | 4:50 | 2023-10-10 | 2024-05-29 |
 | [ranki](https://open.spotify.com/track/2F5rkbZHDASUIGAcyeoe0l) | [POLYPLUS](https://open.spotify.com/artist/1Ck2bU2m099okvufR8pSOa) | [GOOD LUCK SOUND TRACKS](https://open.spotify.com/album/0CHpILGOq59pW8hyphMQBk) | 3:37 | 2023-11-21 | 2024-02-05 |
@@ -347,7 +348,7 @@
 | [Spring Kiss](https://open.spotify.com/track/6aHeGMKCgfF2UdKRqyezyh) | [cleaned](https://open.spotify.com/artist/1yp2KhukqTL1SNjjQDCNj3) | [AUTHENTIC](https://open.spotify.com/album/4f8IJ4VUGPe7S0xsLEOtIG) | 4:12 | 2023-04-04 | 2026-01-15 |
 | [Squall](https://open.spotify.com/track/68jH0QV84eVWbqLP2AjAni) | [Hidefumi Ino](https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S) | [Squall](https://open.spotify.com/album/5MEucUHOxsXdbhzB2Szdyj) | 3:56 | 2022-09-06 | 2023-08-17 |
 | [SS](https://open.spotify.com/track/58OgWxqe2FKEiFrgltr1Cw) | [賽](https://open.spotify.com/artist/4SnEXsyTXJi4auNP46cr7b) | [SS](https://open.spotify.com/album/0l60RYyo5migWBDp8qaVYD) | 3:35 | 2026-01-27 |  |
-| [Stargazer](https://open.spotify.com/track/4bTuXikreX9vQTcs69vgyS) | [草田一駿](https://open.spotify.com/artist/2aQPh8oulkkCiOeqRwSlCh) | [Trionfi](https://open.spotify.com/album/4oyzrmSkOa7yHrLV0mqyaJ) | 7:26 | 2025-05-13 |  |
+| [Stargazer](https://open.spotify.com/track/4bTuXikreX9vQTcs69vgyS) | [草田一駿](https://open.spotify.com/artist/2aQPh8oulkkCiOeqRwSlCh) | [Trionfi](https://open.spotify.com/album/4oyzrmSkOa7yHrLV0mqyaJ) | 7:26 | 2025-05-13 | 2026-04-15 |
 | [Starlight](https://open.spotify.com/track/4cFvCgEDtwk19uovENRpsG) | [Blu\-Swing](https://open.spotify.com/artist/3dKCIyXK94LWUnyvD8LepD) | [Starlight](https://open.spotify.com/album/6sdeBlNidcSdtZbp7sLEpn) | 3:07 | 2025-07-29 | 2025-10-08 |
 | [Steam Train](https://open.spotify.com/track/4T1bg27zOYqe3tNhObzdKn) | [Tenors In Chaos](https://open.spotify.com/artist/2dPi2IGldPZJEjY3Aj4UzT) | [More Chaos](https://open.spotify.com/album/0kUv0WevtizDaXNZe3gBzj) | 6:22 | 2025-07-22 | 2025-10-08 |
 | [Stella by Starlight](https://open.spotify.com/track/1chMKcHHoT8KVcr7DLDFJa) | [Mao Sone](https://open.spotify.com/artist/674ZhINhNClUw6elVb96BG) | [Stella by Starlight](https://open.spotify.com/album/6iWNzs9A3kdLxipIOnx9Fv) | 4:38 | 2022-09-06 | 2022-10-05 |

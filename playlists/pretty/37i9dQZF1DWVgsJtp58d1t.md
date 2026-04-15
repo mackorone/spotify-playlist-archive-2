@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > The best in Black music! Cover: <a href="spotify:artist:6aaMZ3fcfLv4tEbmY7bjRM">Isaiah Rashad</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,132,083 likes - 149 songs - 7 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,132,064 likes - 149 songs - 7 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 67 | [MINK SB \(feat\. Skepta, Lojay & Skillibeng\)](https://open.spotify.com/track/7M0LA37GOq8SAUX4TWWHov) | [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [MINK SB \(feat\. Skepta, Lojay & Skillibeng\)](https://open.spotify.com/album/59Fs0w068THGXqx33PzCr7) | 3:04 |
 | 68 | [iloveitiloveitiloveit](https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [iloveitiloveitiloveit](https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF) | 3:03 |
 | 69 | [Did U Even Notice](https://open.spotify.com/track/47Mz2KDxRYHkVQUhcgq5lb) | [okay coleman!](https://open.spotify.com/artist/2kAc58JeMNRXTVm3sVHrSN) | [Did U Even Notice](https://open.spotify.com/album/1INVGh4nhJ4NHf6ER137Yf) | 2:31 |
-| 70 | [Unbroken Hearts](https://open.spotify.com/track/3ZrqU3iJw06atfN6vMmKbT) | [Joseph Solomon](https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN) | [Unbroken Hearts](https://open.spotify.com/album/6DPtIPO8kxfMRF2kdFdi7s) | 3:34 |
+| 70 | [UNBROKEN HEARTS](https://open.spotify.com/track/3ZrqU3iJw06atfN6vMmKbT) | [Joseph Solomon](https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN) | [UNBROKEN HEARTS](https://open.spotify.com/album/6DPtIPO8kxfMRF2kdFdi7s) | 3:34 |
 | 71 | [Chamomile](https://open.spotify.com/track/5G1QdVO3cNzxKrxdX6vIQu) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [When The City Sleeps](https://open.spotify.com/album/7AQJyREmqZhnetWVX9ubhj) | 2:38 |
 | 72 | [Naturally](https://open.spotify.com/track/1Mny3onDz12YDgSUXkGfET) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Naturally](https://open.spotify.com/album/7gJC1w5cF7GQXBzTal3XTQ) | 2:31 |
 | 73 | [Both Of Us](https://open.spotify.com/track/206tNNIw7RoyPwfaTUgJNv) | [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc), [Paperboy Fabe](https://open.spotify.com/artist/58uK0d4R5Rq4FDUNgNIFeI) | [Both Of Us](https://open.spotify.com/album/3wiopcmc4FnWIbCQN071sC) | 2:57 |

@@ -4,7 +4,7 @@
 
 > 스포티파이 뮤직 에디터가 선정한 4월의 노래를 만나보세요.
 
-151 songs - 8 hr 6 min
+152 songs - 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Stuck In Your Head](https://open.spotify.com/track/1VLivvmEDvq5MpltFTs9Dp) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REVIVE+](https://open.spotify.com/album/3BSpzEq1p4bSWdvrEKtOcF) | 2:47 | 2026-03-03 |  |
 | [Sugar](https://open.spotify.com/track/3B0PFLEa5sAcv1eX6g1IFE) | [We Are The Night](https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw) | [loop vol\. 1 \- Sugar](https://open.spotify.com/album/4MDyxmsFEznFjPrxOaqC1i) | 3:49 | 2026-02-04 | 2026-03-04 |
 | [Summer Was You](https://open.spotify.com/track/7fiSE0NQwgJPj5QHhln8L1) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [H1\-KEY 4th Mini Album \[Lovestruck\]](https://open.spotify.com/album/21oMWx3BnmfTOy2zqzxJwt) | 3:12 | 2025-12-04 | 2026-02-05 |
+| [Take Me to Nirvana \(feat\. Vinida Weng\)](https://open.spotify.com/track/7d2WBtRFNknx11P6MwLomO) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Vinida Weng](https://open.spotify.com/artist/6oYvpkS6pM9ts4nbXRaINg) | [7TH YEAR: A Moment of Stillness in the Thorns](https://open.spotify.com/album/55LBvRI4i4FUUf5dYKVMHk) | 2:31 | 2026-04-14 |  |
 | [THUM](https://open.spotify.com/track/3yuaDt5vOxrQD06LrAQPj9) | [Violet Grohl](https://open.spotify.com/artist/3PbVZAe3y6cQKBDdG2YASB) | [THUM](https://open.spotify.com/album/0fz4N5DS1SJ6jbNABL9UMr) | 2:11 | 2026-02-04 | 2026-03-04 |
 | [Tonight \(Feat\. Junggigo\)](https://open.spotify.com/track/0MQSKGgfUzyBsHoPO03dkd) | [Primary](https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep), [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) | [2](https://open.spotify.com/album/1H59BSWW8dygtTZv51DmbA) | 3:22 | 2026-02-04 | 2026-03-04 |
 | [TOO BAD](https://open.spotify.com/track/0GOqhXyouUxqPEw9ypTOLm) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Übermensch](https://open.spotify.com/album/4FviRd7FubuuGNVt2qME1G) | 2:33 | 2025-12-04 | 2026-02-05 |

@@ -4267,6 +4267,32 @@
     },
     {
       "album": {
+        "name": "BULLY",
+        "url": "https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ye",
+          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
+        },
+        {
+          "name": "Andre Troutman",
+          "url": "https://open.spotify.com/artist/1EpaJyg2sMnPqKRsjjcG7R"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229152,
+      "name": "ALL THE LOVE (feat. Andre Troutman)",
+      "url": "https://open.spotify.com/track/2SjnvpedDUU0Ga69bxnoCa"
+    },
+    {
+      "album": {
         "name": "All The Mountains Are High",
         "url": "https://open.spotify.com/album/7zdQmkFuR9mgtiHo2CVf6H"
       },
@@ -4632,6 +4658,24 @@
       "duration_ms": 169080,
       "name": "Amanheceu",
       "url": "https://open.spotify.com/track/0KhZjWbG8uHakszjOw6Rx9"
+    },
+    {
+      "album": {
+        "name": "O peso do Silencio",
+        "url": "https://open.spotify.com/album/3FA5sNrihNx4mCGE0qPpDW"
+      },
+      "artists": [
+        {
+          "name": "Sertanejo Play",
+          "url": "https://open.spotify.com/artist/1wb384gThJiHolfyfxjCOS"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188440,
+      "name": "Amanh\u00e3 vai melhorar",
+      "url": "https://open.spotify.com/track/7rY6v7wH5kI6Hux79oi36X"
     },
     {
       "album": {
@@ -5358,7 +5402,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 155188,
       "name": "Anivers\u00e1rio do Chefe",
       "url": "https://open.spotify.com/track/7wcA5OdSEkir6F8G9Hjv85"
@@ -9136,7 +9180,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 151625,
       "name": "Bankok",
       "url": "https://open.spotify.com/track/7uzcxYLPrLUhVlKEHPZVLM"
@@ -17206,7 +17250,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 301674,
       "name": "Click Clack Symphony. (feat. Hans Zimmer)",
       "url": "https://open.spotify.com/track/0XOynYFi9hQfIXKnTct9A7"
@@ -24912,7 +24956,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 187048,
       "name": "D\u00e9j\u00e0 Vu",
       "url": "https://open.spotify.com/track/1RfmWFk8CxkOXgD03M5gzu"
@@ -29061,6 +29105,24 @@
     },
     {
       "album": {
+        "name": "O peso do Silencio",
+        "url": "https://open.spotify.com/album/3FA5sNrihNx4mCGE0qPpDW"
+      },
+      "artists": [
+        {
+          "name": "Sertanejo Play",
+          "url": "https://open.spotify.com/artist/1wb384gThJiHolfyfxjCOS"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189720,
+      "name": "Eu t\u00f4 tentando o meu melhor",
+      "url": "https://open.spotify.com/track/5InYfsbswO9TRrUzSyTMgB"
+    },
+    {
+      "album": {
         "name": "Eu Vou Bater Tambor",
         "url": "https://open.spotify.com/album/65jm5rQ8LqqMKYnGb0bMD0"
       },
@@ -30562,7 +30624,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 160000,
       "name": "FATALIIITY",
       "url": "https://open.spotify.com/track/3vH2y7g5NwARwGhW7iBRCS"
@@ -31954,6 +32016,24 @@
       "duration_ms": 409785,
       "name": "Filha Do Deputado",
       "url": "https://open.spotify.com/track/4GBSSO7opuvAijWPooadmg"
+    },
+    {
+      "album": {
+        "name": "Filho da F\u00e9",
+        "url": "https://open.spotify.com/album/2MGxf9lsiANjI9heMmir4h"
+      },
+      "artists": [
+        {
+          "name": "Samuel Batista Filho",
+          "url": "https://open.spotify.com/artist/5fTHZnjQeeu1FGX326vnGA"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187279,
+      "name": "Filho da F\u00e9",
+      "url": "https://open.spotify.com/track/36VthlqTx549xJS3BWn3rc"
     },
     {
       "album": {
@@ -59597,6 +59677,24 @@
     },
     {
       "album": {
+        "name": "O peso do Silencio",
+        "url": "https://open.spotify.com/album/3FA5sNrihNx4mCGE0qPpDW"
+      },
+      "artists": [
+        {
+          "name": "Sertanejo Play",
+          "url": "https://open.spotify.com/artist/1wb384gThJiHolfyfxjCOS"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221720,
+      "name": "O peso do Silencio",
+      "url": "https://open.spotify.com/track/1gvoSI7c2lTlVFt5qJue2b"
+    },
+    {
+      "album": {
         "name": "O Pipoqueiro - Agressivo Reliquia",
         "url": "https://open.spotify.com/album/5ZAs8UnYklBOerWAF8LIVv"
       },
@@ -74939,6 +75037,28 @@
     },
     {
       "album": {
+        "name": "Se N\u00e3o Sabe Agora Sabe, Vol. 1",
+        "url": "https://open.spotify.com/album/0AmHaCOUrjzxA79wlb3Zao"
+      },
+      "artists": [
+        {
+          "name": "SonoTWS",
+          "url": "https://open.spotify.com/artist/4V6S8Exb51yXRs6oiJYIgE"
+        },
+        {
+          "name": "Caio Ocean",
+          "url": "https://open.spotify.com/artist/4vSK6DNj480ABpDaCwrn4Q"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159911,
+      "name": "Selva Russa",
+      "url": "https://open.spotify.com/track/21309SlGrywf6x8sy7lwRe"
+    },
+    {
+      "album": {
         "name": "Sem Alian\u00e7a no Dedo",
         "url": "https://open.spotify.com/album/1jrzYloHK7zn8n66qulEjn"
       },
@@ -82608,7 +82728,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 91749,
       "name": "Telefone",
       "url": "https://open.spotify.com/track/2Tfpk9vbsgqUKD3dkDJ3hL"
@@ -84192,6 +84312,24 @@
       "duration_ms": 395716,
       "name": "The Summoning",
       "url": "https://open.spotify.com/track/0S38Oso3I9vpDXcTb7kYt9"
+    },
+    {
+      "album": {
+        "name": "HADES",
+        "url": "https://open.spotify.com/album/7jwikgbD6e5Oht9gJzaR3l"
+      },
+      "artists": [
+        {
+          "name": "Melanie Martinez",
+          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256224,
+      "name": "THE VATICAN",
+      "url": "https://open.spotify.com/track/3F1VeIPbwx1Bsb0GNJ7S6z"
     },
     {
       "album": {
@@ -90706,7 +90844,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 166250,
       "name": "VIP (ningu\u00e9m te conhece)",
       "url": "https://open.spotify.com/track/1yCeG6Sf2OLp23JYydjlo2"

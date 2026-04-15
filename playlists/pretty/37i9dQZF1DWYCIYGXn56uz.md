@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ⚡️ qui un sacco di musica giovane ⚡️ Cover: CLARA
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,998 likes - 102 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,981 likes - 102 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [OSSESSIONE](https://open.spotify.com/track/63sQFPGkKfzcK5qEZVefpu) | [Samurai Jay](https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH), [Vito Salamanca](https://open.spotify.com/artist/2QJ1AReDewmz4fcRhGxW6Y) | [OSSESSIONE](https://open.spotify.com/album/2DbfTApmD8EQye9mNgVpcK) | 3:08 |
-| 2 | [Poesie Clandestine](https://open.spotify.com/track/730yruXTNk2KvXdbCNzXpR) | [LDA](https://open.spotify.com/artist/5FwDaIGy29GQC5d0MR7fKf), [Aka 7even](https://open.spotify.com/artist/0lQtBhjEJpoOroQS6fbWMc) | [Poesie Clandestine](https://open.spotify.com/album/1MMVWEgrIylF7v0er9IjWm) | 3:03 |
+| 1 | [Atlantide \(from the Netflix film “Non abbiam bisogno di parole”\)](https://open.spotify.com/track/57KzV95Th155vud4KmLqLN) | [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [Atlantide \(from the Netflix film “Non abbiam bisogno di parole”\)](https://open.spotify.com/album/4UMfdw3HSm7SeWurM5fgok) | 2:44 |
+| 2 | [OSSESSIONE](https://open.spotify.com/track/63sQFPGkKfzcK5qEZVefpu) | [Samurai Jay](https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH), [Vito Salamanca](https://open.spotify.com/artist/2QJ1AReDewmz4fcRhGxW6Y) | [OSSESSIONE](https://open.spotify.com/album/2DbfTApmD8EQye9mNgVpcK) | 3:08 |
 | 3 | [PRIMADONNA](https://open.spotify.com/track/1FvUDxu2HRYXBlEq98fRbQ) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [PRIMADONNA](https://open.spotify.com/album/4V9Qxnq6EgjVluHd7eGRdb) | 2:54 |
-| 4 | [Atlantide \(from the Netflix film “Non abbiam bisogno di parole”\)](https://open.spotify.com/track/57KzV95Th155vud4KmLqLN) | [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [Atlantide \(from the Netflix film “Non abbiam bisogno di parole”\)](https://open.spotify.com/album/4UMfdw3HSm7SeWurM5fgok) | 2:44 |
+| 4 | [Poesie Clandestine](https://open.spotify.com/track/730yruXTNk2KvXdbCNzXpR) | [LDA](https://open.spotify.com/artist/5FwDaIGy29GQC5d0MR7fKf), [Aka 7even](https://open.spotify.com/artist/0lQtBhjEJpoOroQS6fbWMc) | [Poesie Clandestine](https://open.spotify.com/album/1MMVWEgrIylF7v0er9IjWm) | 3:03 |
 | 5 | [Dai che fai](https://open.spotify.com/track/21KdF0KGmSXmDBcif3XZd4) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [Mediterraneo](https://open.spotify.com/album/5xiuwFxGpemqPBxzJQ6AYd) | 3:20 |
 | 6 | [Los Angeles](https://open.spotify.com/track/4gYmCnGEFv2rJ4L9eDsXhA) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Ma'](https://open.spotify.com/album/2dSL2X3K3YoVwaKty2JYcE) | 3:11 |
 | 7 | [DISINCANTO](https://open.spotify.com/track/4lxrVDGmkUTivSFDylC26Z) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [DISINCANTO](https://open.spotify.com/album/5uUhwToRipr5CJerXxNz8K) | 3:27 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 101 | [Un amore come il nostro \- VENERE](https://open.spotify.com/track/2vyMb3lMiom9IHrUo3VhKp) | [Emanuele Aloia](https://open.spotify.com/artist/3vkFU3DBYyYBSUt323pj76) | [Un amore come il nostro \- VENERE](https://open.spotify.com/album/5cusbotHSN8s1jZdRu5NqD) | 4:35 |
 | 102 | [a me mi piace \(feat\. Manu Chao\)](https://open.spotify.com/track/2QtnkkxwmsGm84fPAx8uTP) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7), [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [a me mi piace](https://open.spotify.com/album/50KsSqMmKIcModa3dbbNzW) | 2:20 |
 
-Snapshot ID: `AAAAAJk+oWeNPuyrsws7d8YPRfL25Eh8`
+Snapshot ID: `AAAAACeEWEVsEiW+4Uw8sdKE498dvOt2`

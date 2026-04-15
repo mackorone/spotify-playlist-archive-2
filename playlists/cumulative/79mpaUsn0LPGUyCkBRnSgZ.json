@@ -17177,6 +17177,36 @@
     },
     {
       "album": {
+        "name": "Shrunken Elvis",
+        "url": "https://open.spotify.com/album/1Gb0hWqDH3ZPUGPvJIemtl"
+      },
+      "artists": [
+        {
+          "name": "Shrunken Elvis",
+          "url": "https://open.spotify.com/artist/5YzxnqzalLKWWTVHbKDOKP"
+        },
+        {
+          "name": "Rich Ruth",
+          "url": "https://open.spotify.com/artist/3fzSa1ee522CjcS8Fdo7dl"
+        },
+        {
+          "name": "Spencer Cullum",
+          "url": "https://open.spotify.com/artist/1u2RgFiCSd9phVG5OB51jr"
+        },
+        {
+          "name": "Sean Thompson's Weird Ears",
+          "url": "https://open.spotify.com/artist/6NWoTJEipAFa5ZYDQNut5c"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176253,
+      "name": "That There's a Strategy",
+      "url": "https://open.spotify.com/track/5ZeF9AwuNJ8PtGb1EErHwp"
+    },
+    {
+      "album": {
         "name": "That! Feels Good!",
         "url": "https://open.spotify.com/album/17g3sAeWfpHSJlqMHuRAr6"
       },

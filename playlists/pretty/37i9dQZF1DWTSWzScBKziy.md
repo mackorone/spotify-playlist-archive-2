@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 
 > All new Contemporary Christian songs on the rise! Cover: Lainey Wilson & Brandon Lake
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,527 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,588 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 | 99 | [What If](https://open.spotify.com/track/4qRzLB86XtnitXuTji9yzu) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [What If](https://open.spotify.com/album/3zDv7qrxXg3NLbEuMOPUmV) | 3:58 |
 | 100 | [Even Death On A Cross!](https://open.spotify.com/track/6QM7HFCQZvBvlzFyNtxdfZ) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC), [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [Even Death On A Cross!](https://open.spotify.com/album/7vTcBAEdOYVZwASV8qk0A8) | 4:09 |
 
-Snapshot ID: `AAAAAGYP83tRCkpsmO3k/MbFTyo/3M24`
+Snapshot ID: `AAAAAGLfVeiWuvahMjv2y8UWi7Ri8QRE`

@@ -26667,6 +26667,24 @@
     },
     {
       "album": {
+        "name": "Pizza Pepperoni",
+        "url": "https://open.spotify.com/album/526zGbVmgH3mxUafAM80ov"
+      },
+      "artists": [
+        {
+          "name": "Lunamber",
+          "url": "https://open.spotify.com/artist/6kQ6my1pRo4S7X8WYXj8B1"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141297,
+      "name": "Pizza Pepperoni",
+      "url": "https://open.spotify.com/track/0QesMcqtIJuPYELEnpIQIF"
+    },
+    {
+      "album": {
         "name": "5TH DIMENSION",
         "url": "https://open.spotify.com/album/2raSu29sR5ZtJDTeOZEZJ0"
       },

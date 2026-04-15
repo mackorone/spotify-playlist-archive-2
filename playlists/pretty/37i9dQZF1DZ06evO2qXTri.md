@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qXTri.md) - [plain]
 
 > This is Kirk Franklin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,328 likes - 50 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,329 likes - 50 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qXTri.md) - [plain]
 | 24 | [OK](https://open.spotify.com/track/5KC5XsV0BwYyHJkNqx2C7n) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [LONG LIVE LOVE](https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt) | 3:56 |
 | 25 | [Never Alone](https://open.spotify.com/track/7vF5RIx2jHtt9Y0OElOZKK) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Hiding Place](https://open.spotify.com/album/5A5ePoPwlIuxVmn3cIhiFw) | 3:34 |
 | 26 | [The Storm Is Over Now](https://open.spotify.com/track/6blSODzePwJZwG8VS3i5nt) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [God's Property from Kirk Franklin's Nu Nation](https://open.spotify.com/album/2MCmQvsAE0S5UYI413OC1E) | 5:46 |
-| 27 | [Do It Again](https://open.spotify.com/track/6ZYrfrxalPRcUdSieUCkdM) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Do It Again](https://open.spotify.com/album/5HKgWSVnx2YEkQ9d6T6ZJs) | 3:49 |
-| 28 | [My Life, My Love, My All \- Live at Lakewood Church, Houston, TX \- June 16, 2000](https://open.spotify.com/track/40cMyQLw09ehBKgfvVxjie) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [The Rebirth Of Kirk Franklin \(Live\)](https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce) | 6:22 |
+| 27 | [My Life, My Love, My All \- Live at Lakewood Church, Houston, TX \- June 16, 2000](https://open.spotify.com/track/40cMyQLw09ehBKgfvVxjie) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [The Rebirth Of Kirk Franklin \(Live\)](https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce) | 6:22 |
+| 28 | [Do It Again](https://open.spotify.com/track/6ZYrfrxalPRcUdSieUCkdM) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Do It Again](https://open.spotify.com/album/5HKgWSVnx2YEkQ9d6T6ZJs) | 3:49 |
 | 29 | [All Things](https://open.spotify.com/track/3TF6zST4pvaoaUwekLUZEx) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [All Things](https://open.spotify.com/album/30hJTxaNjKsXkvyhSs8rL9) | 3:09 |
 | 30 | [Just for Me](https://open.spotify.com/track/37llIA4HTMvM3IvZUVbbC0) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [LONG LIVE LOVE](https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt) | 4:35 |
 | 31 | [Silver and Gold \- Live](https://open.spotify.com/track/49BWLtQKtyz1kYhe148mWj) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Kirk Franklin and the Family](https://open.spotify.com/album/4b1c7FWhyhIZ6OYINCx107) | 4:52 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qXTri.md) - [plain]
 | 45 | [Try Love](https://open.spotify.com/track/7o22AXYfe3kGgj2xDnmc3h) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Father's Day](https://open.spotify.com/album/4EUco9VSvpupdEH7GA5Twu) | 4:32 |
 | 46 | [Revolution](https://open.spotify.com/track/48LZC1RDcSX3qwSUkmqLbz) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Boycott](https://open.spotify.com/album/3MQ28EyvwEflLB5q93AAkf) | 5:39 |
 | 47 | [Strong God](https://open.spotify.com/track/7xL1Z3k7YvBTYjkIQrDdle) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [LONG LIVE LOVE](https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt) | 4:05 |
-| 48 | [Oceans \(Where Feet May Fail\)](https://open.spotify.com/track/7t6JZ71UsOkMLfxCw3kGrK) | [Taylor Mosby](https://open.spotify.com/artist/3pk4AaSmKojd4CmEosErcg), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Breakthrough \(Music From & Inspired By The Motion Picture\)](https://open.spotify.com/album/2e6XpPJpzqrhcsWFVG7ETI) | 4:25 |
+| 48 | [Something About The Name Jesus \(feat\. Kirk Franklin\) \- Producer's Remix](https://open.spotify.com/track/6H687qoB0Jw97cIQ3vM8Yf) | [The Rance Allen Group](https://open.spotify.com/artist/3S16Nh2s6Wc4PCFjFESk2g), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Celebrate](https://open.spotify.com/album/55dqkiYJ5qPBBPQkTQD5MO) | 7:29 |
 | 49 | [Mercy](https://open.spotify.com/track/1Kci8csnCkMdszZhIhkCxC) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [The Epilogue.](https://open.spotify.com/album/6q7eHLeBX6B7teKXCtX3Mg) | 4:36 |
-| 50 | [Something About The Name Jesus \(feat\. Kirk Franklin\) \- Producer's Remix](https://open.spotify.com/track/6H687qoB0Jw97cIQ3vM8Yf) | [The Rance Allen Group](https://open.spotify.com/artist/3S16Nh2s6Wc4PCFjFESk2g), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Celebrate](https://open.spotify.com/album/55dqkiYJ5qPBBPQkTQD5MO) | 7:29 |
+| 50 | [Oceans \(Where Feet May Fail\)](https://open.spotify.com/track/7t6JZ71UsOkMLfxCw3kGrK) | [Taylor Mosby](https://open.spotify.com/artist/3pk4AaSmKojd4CmEosErcg), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Breakthrough \(Music From & Inspired By The Motion Picture\)](https://open.spotify.com/album/2e6XpPJpzqrhcsWFVG7ETI) | 4:25 |
 
-Snapshot ID: `adrggAAAAAAzKQcegTnk97o+2J2XFBS2`
+Snapshot ID: `adwyAAAAAAA2xlzCj7N6S6gK0RgdI7QI`

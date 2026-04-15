@@ -1,12 +1,12 @@
 {
   "description": "This is Danna Paola. The essential tracks, all in one playlist.",
-  "num_followers": 235888,
+  "num_followers": 235882,
   "original_name": "This Is Danna Paola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adrggAAAAACtTuuswQu8T/fKmGbmMNaI",
+  "snapshot_id": "adwyAAAAAADzesgHF7lEf21WdqQeHoQ8",
   "tracks": [
     {
       "added_at": null,
@@ -811,18 +811,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amy La Ni\u00f1a De La Mochila Azul Vol.1",
-        "url": "https://open.spotify.com/album/2ERfJwem9i66Ax0b1is8Iw"
+        "name": "Mientras Me Enamoras",
+        "url": "https://open.spotify.com/album/1dM6TuQuv0TRWLHbooLxTn"
       },
       "artists": [
+        {
+          "name": "Lalo Brito",
+          "url": "https://open.spotify.com/artist/4OZ9NCfN5GczACLIYvDCz7"
+        },
         {
           "name": "Danna Paola",
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 208626,
-      "name": "Valiente",
-      "url": "https://open.spotify.com/track/5bHUugTGfu636hC4knWtVP"
+      "duration_ms": 209824,
+      "name": "Mientras Me Enamoras",
+      "url": "https://open.spotify.com/track/3PzZNV9AANQ1VFs80IHOEx"
     },
     {
       "added_at": null,
@@ -851,22 +855,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mientras Me Enamoras",
-        "url": "https://open.spotify.com/album/1dM6TuQuv0TRWLHbooLxTn"
+        "name": "Amy La Ni\u00f1a De La Mochila Azul Vol.1",
+        "url": "https://open.spotify.com/album/2ERfJwem9i66Ax0b1is8Iw"
       },
       "artists": [
-        {
-          "name": "Lalo Brito",
-          "url": "https://open.spotify.com/artist/4OZ9NCfN5GczACLIYvDCz7"
-        },
         {
           "name": "Danna Paola",
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 209824,
-      "name": "Mientras Me Enamoras",
-      "url": "https://open.spotify.com/track/3PzZNV9AANQ1VFs80IHOEx"
+      "duration_ms": 208626,
+      "name": "Valiente",
+      "url": "https://open.spotify.com/track/5bHUugTGfu636hC4knWtVP"
     },
     {
       "added_at": null,
@@ -895,22 +895,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amy La Ni\u00f1a De La Mochila Azul Vol.1",
-        "url": "https://open.spotify.com/album/2ERfJwem9i66Ax0b1is8Iw"
+        "name": "Atrevete A So\u00f1ar (Original Sountrack)",
+        "url": "https://open.spotify.com/album/2xxdR4FrSukKWJ18NuKfgu"
       },
       "artists": [
         {
-          "name": "Lilibeth Lilibeth",
-          "url": "https://open.spotify.com/artist/07UPbQXEAp4kUeJ27mmfI3"
-        },
-        {
           "name": "Danna Paola",
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        },
+        {
+          "name": "Mateo",
+          "url": "https://open.spotify.com/artist/3ZSqOgN2W2NrJ0kDoMj2g0"
         }
       ],
-      "duration_ms": 202960,
-      "name": "Amor De Ni\u00f1os",
-      "url": "https://open.spotify.com/track/42Nsc9ulcdrZlAYuJGoKaN"
+      "duration_ms": 162440,
+      "name": "Quiero Quedarme Aqui",
+      "url": "https://open.spotify.com/track/5NbKBvXnw5YhkHbzMkfJSM"
     },
     {
       "added_at": null,
@@ -947,22 +947,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Atrevete A So\u00f1ar (Original Sountrack)",
-        "url": "https://open.spotify.com/album/2xxdR4FrSukKWJ18NuKfgu"
+        "name": "Amy La Ni\u00f1a De La Mochila Azul Vol.1",
+        "url": "https://open.spotify.com/album/2ERfJwem9i66Ax0b1is8Iw"
       },
       "artists": [
         {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+          "name": "Lilibeth Lilibeth",
+          "url": "https://open.spotify.com/artist/07UPbQXEAp4kUeJ27mmfI3"
         },
         {
-          "name": "Mateo",
-          "url": "https://open.spotify.com/artist/3ZSqOgN2W2NrJ0kDoMj2g0"
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 162440,
-      "name": "Quiero Quedarme Aqui",
-      "url": "https://open.spotify.com/track/5NbKBvXnw5YhkHbzMkfJSM"
+      "duration_ms": 202960,
+      "name": "Amor De Ni\u00f1os",
+      "url": "https://open.spotify.com/track/42Nsc9ulcdrZlAYuJGoKaN"
     },
     {
       "added_at": null,

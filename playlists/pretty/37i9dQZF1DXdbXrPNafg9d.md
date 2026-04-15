@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Momo Boyd
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,292,188 likes - 175 songs - 9 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,292,154 likes - 175 songs - 9 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

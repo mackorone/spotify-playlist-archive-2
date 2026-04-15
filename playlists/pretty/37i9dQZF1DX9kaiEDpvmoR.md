@@ -8,13 +8,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9kaiEDpvmoR.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Det jag såg i din spegel såg inte ut som mig](https://open.spotify.com/track/1iVmZTfxHv6hRDaGamR52T) | [Den svenska björnstammen](https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G) | [Det jag såg i din spegel såg inte ut som mig](https://open.spotify.com/album/6PDWwnqJ0eygYguIyFBGUv) | 3:23 |
+| 1 | [Tack](https://open.spotify.com/track/794RWqJKiwKh6zYvm07G5a) | [Olle Ljungström](https://open.spotify.com/artist/6wjchRNcNNSn1wPIaIiRq8) | [Tack](https://open.spotify.com/album/3nBKLUecE6aJOxC08A2JhR) | 3:09 |
 | 2 | [Need Your Love](https://open.spotify.com/track/3FK9wVJHNdJhqVPbIcoZsn) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Need Your Love](https://open.spotify.com/album/3UZVtXHg8FsA3Y9H1S1NbI) | 3:58 |
 | 3 | [Days We Left Behind](https://open.spotify.com/track/3kiOcEPP4WyssVslhHSL7A) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Days We Left Behind](https://open.spotify.com/album/2OoaCsbD9saV4x6LRh73gY) | 3:18 |
 | 4 | [Iconic](https://open.spotify.com/track/5FjvINvxiM03aNN7o1nUVc) | [A\*Teens](https://open.spotify.com/artist/5zMgvYBz4AW0gFyPtg7fR9) | [Iconic](https://open.spotify.com/album/0HgLE4fEcT5oFPbMRF4Ej3) | 2:58 |
-| 5 | [Tack](https://open.spotify.com/track/794RWqJKiwKh6zYvm07G5a) | [Olle Ljungström](https://open.spotify.com/artist/6wjchRNcNNSn1wPIaIiRq8) | [Tack](https://open.spotify.com/album/3nBKLUecE6aJOxC08A2JhR) | 3:09 |
+| 5 | [In A Life](https://open.spotify.com/track/1fbIlgO7EgYsDzk3r3uRz2) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Easter Lily EP](https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF) | 4:33 |
 | 6 | [Honey Honey](https://open.spotify.com/track/0QcDwx1r5HXsxyMstgvHSm) | [Robin Bengtsson](https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS) | [Honey Honey](https://open.spotify.com/album/4mC9GZ6gSoSBDZ9ApAvqkO) | 2:59 |
-| 7 | [In A Life](https://open.spotify.com/track/1fbIlgO7EgYsDzk3r3uRz2) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Easter Lily EP](https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF) | 4:33 |
+| 7 | [Det jag såg i din spegel såg inte ut som mig](https://open.spotify.com/track/1iVmZTfxHv6hRDaGamR52T) | [Den svenska björnstammen](https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G) | [Det jag såg i din spegel såg inte ut som mig](https://open.spotify.com/album/6PDWwnqJ0eygYguIyFBGUv) | 3:23 |
 | 8 | [Waste Your Love](https://open.spotify.com/track/4bm0u48rIv7Ezj25lEkevq) | [Sanna Nielsen](https://open.spotify.com/artist/3PvEhkL4pgu9glR6yOlYKK) | [Waste Your Love](https://open.spotify.com/album/1GqD0bu8057H5RIbVuQEui) | 2:53 |
 | 9 | [Superlim & silvertejp](https://open.spotify.com/track/5lOGSH8HAnmJlvwnVFBa1s) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY), [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Superlim & silvertejp](https://open.spotify.com/album/6jZHjCPFSxmbsCWUo4FxVm) | 3:13 |
 | 10 | [Of All People](https://open.spotify.com/track/1jhI5gfOIA2iGOWk6gp1xc) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Of All People](https://open.spotify.com/album/1Df1pG5H92VbkhbTehf6Sn) | 2:34 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9kaiEDpvmoR.md) - [plain]
 | 88 | [Henrys gitarr](https://open.spotify.com/track/1nRYLgOCslp2fUgZtC9ZCQ) | [Per Gessle](https://open.spotify.com/artist/5pFJ8lLOUnyEaNrrf7D1KK) | [Henrys gitarr](https://open.spotify.com/album/1PxnAEmtU9k9i9wz2I6DUs) | 2:53 |
 | 89 | [Förnedrade](https://open.spotify.com/track/64kDhj57KC1UoduD3qOroE) | [Avantgardet](https://open.spotify.com/artist/7eX1F6FIRszrebMLdM1BpQ) | [Förnedrade](https://open.spotify.com/album/5w0UciRA5WWcg5InQNFhtg) | 2:58 |
 
-Snapshot ID: `AAAAAAyHXrCnThsnC6onBDq03GMP+Zbz`
+Snapshot ID: `AAAAAN4AH+8Mxo258nwPwDFEzEr+dbNU`

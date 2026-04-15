@@ -6,8 +6,56 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAIWlfbb9LVm4MqlISiKyhVgA824TBm",
+  "snapshot_id": "AAAIYgN46+TzmdZ5Q+ERkzDLukgQlYU6",
   "tracks": [
+    {
+      "added_at": "2026-04-14 21:44:21",
+      "album": {
+        "name": "Shelter",
+        "url": "https://open.spotify.com/album/4O6UZwJNgKafeU08pbjONX"
+      },
+      "artists": [
+        {
+          "name": "Pepi",
+          "url": "https://open.spotify.com/artist/1JcqlMEa8HWxcRm8zM5oUR"
+        }
+      ],
+      "duration_ms": 156760,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/1A7sOJ8dptHBZ4FUOtSh6i"
+    },
+    {
+      "added_at": "2026-04-14 21:37:06",
+      "album": {
+        "name": "\u00a1YA BASTA!",
+        "url": "https://open.spotify.com/album/4YIG0a67SoYtm4LYM5C6yq"
+      },
+      "artists": [
+        {
+          "name": "AETHEROHM",
+          "url": "https://open.spotify.com/artist/2fpzZutgwQNC0dLo6Ly5Ww"
+        }
+      ],
+      "duration_ms": 190720,
+      "name": "\u00a1YA BASTA!",
+      "url": "https://open.spotify.com/track/7moS1lCufUhFdwVNRiJRnS"
+    },
+    {
+      "added_at": "2026-04-14 21:37:04",
+      "album": {
+        "name": "\u00a1YA BASTA!",
+        "url": "https://open.spotify.com/album/4YIG0a67SoYtm4LYM5C6yq"
+      },
+      "artists": [
+        {
+          "name": "AETHEROHM",
+          "url": "https://open.spotify.com/artist/2fpzZutgwQNC0dLo6Ly5Ww"
+        }
+      ],
+      "duration_ms": 190720,
+      "name": "\u00a1YA BASTA!",
+      "url": "https://open.spotify.com/track/7moS1lCufUhFdwVNRiJRnS"
+    },
     {
       "added_at": "2026-04-13 10:33:49",
       "album": {
@@ -71051,6 +71099,86 @@
       "duration_ms": 249399,
       "name": "FOR CHARLIE dear charlie",
       "url": "https://open.spotify.com/track/4b6LVLCXs1Tyt54WiRZEWy"
+    },
+    {
+      "added_at": "2026-04-14 07:30:29",
+      "album": {
+        "name": "Sunset (Remix)",
+        "url": "https://open.spotify.com/album/6nCyOKKnSwPsovABwuETNN"
+      },
+      "artists": [
+        {
+          "name": "Routi",
+          "url": "https://open.spotify.com/artist/0B3uouY3r7w7uJLIcORpIX"
+        }
+      ],
+      "duration_ms": 227839,
+      "name": "Sunset - Remix",
+      "url": "https://open.spotify.com/track/0ZICBhJw4ygKdJo4bSfqTL"
+    },
+    {
+      "added_at": "2026-04-14 07:31:51",
+      "album": {
+        "name": "Flying",
+        "url": "https://open.spotify.com/album/50FfNretHBsKqrwFwgx426"
+      },
+      "artists": [
+        {
+          "name": "Routi",
+          "url": "https://open.spotify.com/artist/0B3uouY3r7w7uJLIcORpIX"
+        }
+      ],
+      "duration_ms": 255409,
+      "name": "Flying",
+      "url": "https://open.spotify.com/track/44jObHkNEyHv32eRjCGo3W"
+    },
+    {
+      "added_at": "2026-04-14 17:13:23",
+      "album": {
+        "name": "Whisper",
+        "url": "https://open.spotify.com/album/7fkBnWbR6UjyEJ6yfsn4KW"
+      },
+      "artists": [
+        {
+          "name": "Shanie T",
+          "url": "https://open.spotify.com/artist/2u9AyGn9OFUydnCaJaaTLR"
+        }
+      ],
+      "duration_ms": 289200,
+      "name": "Whisper",
+      "url": "https://open.spotify.com/track/7r1leXqYXV7VfSRqGBfi5U"
+    },
+    {
+      "added_at": "2026-04-14 17:16:18",
+      "album": {
+        "name": "The Sound of Static",
+        "url": "https://open.spotify.com/album/1AhJR1phukAEoqH4PwDwKR"
+      },
+      "artists": [
+        {
+          "name": "$T Money$",
+          "url": "https://open.spotify.com/artist/7FaHB5yrW4hjuwGbbX4gL4"
+        }
+      ],
+      "duration_ms": 146913,
+      "name": "Dead End Road",
+      "url": "https://open.spotify.com/track/43hAOE3V7rJ6U45EH1mCKC"
+    },
+    {
+      "added_at": "2026-04-14 21:43:44",
+      "album": {
+        "name": "Espectador",
+        "url": "https://open.spotify.com/album/0zigtsUnrrMDHrk5a7OpMx"
+      },
+      "artists": [
+        {
+          "name": "oitavosounds",
+          "url": "https://open.spotify.com/artist/6KuxuULcCuhHl7wn5LYbM8"
+        }
+      ],
+      "duration_ms": 213880,
+      "name": "Espectador",
+      "url": "https://open.spotify.com/track/1aTD8dSp3ZVaCWnQbr2rM1"
     }
   ],
   "unique_name": "playlist spotify free",

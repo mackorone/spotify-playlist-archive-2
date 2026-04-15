@@ -4,7 +4,7 @@
 
 > &quot;Indie Essentials&quot; is the ultimate playlist for indie music fans\. It features tracks from influential and iconic indie artists, showcasing the diversity and creativity of the genre\. Discover new and old classics in the indie spirit.
 
-157 songs - 9 hr 11 min
+158 songs - 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [No Antidote](https://open.spotify.com/track/2uNqGhSdKFgtvAnwDECH0F) | [Rob Dowler's Vanity Project](https://open.spotify.com/artist/60WcRmpDHEvMhSp6stlL7b) | [The Ceiling, Thanks For Asking](https://open.spotify.com/album/4wzlhKDOBKZh92zNHFUbAg) | 4:05 | 2026-01-08 |  |
 | [No Compromise](https://open.spotify.com/track/1EHtBFS5j9ILFIpiNH8YLH) | [Mark Rosal](https://open.spotify.com/artist/4rCAMDYZqXv0TYKBFaU4YW) | [No Compromise](https://open.spotify.com/album/5JGiQTirqxqSaoZZLwNabw) | 3:43 | 2025-11-19 |  |
 | [No Turns](https://open.spotify.com/track/5XcmXsQHzF9vH0k0UORvLW) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [No Turns, Ultraviolet GT!](https://open.spotify.com/album/6SMI2iiMq5MvQpsgtnAPFN) | 2:54 | 2025-10-10 |  |
+| [Nobody Else](https://open.spotify.com/track/5eR7DNmNasxNbaBRYzoUEI) | [Belonging](https://open.spotify.com/artist/35Hu3Q5BlAlQgUDH3jATl7) | [Nobody Else](https://open.spotify.com/album/3ddpL290hC2bOzbWHveGLr) | 3:21 | 2026-04-14 |  |
 | [Nonsense](https://open.spotify.com/track/1MhYUZfR3D8m5pgzzgLvzx) | [Luan Luan](https://open.spotify.com/artist/1TRI5G2cp3GkZ2itd8IIMG) | [Nonsense](https://open.spotify.com/album/0Rjqc7fYh8vM6lj1flG5FN) | 3:49 | 2025-08-27 | 2025-12-17 |
 | [Nuketown City](https://open.spotify.com/track/63kddsUAEtv9gPiicmeDZm) | [Ant1c](https://open.spotify.com/artist/5R14nKpPP8Jf9OTFRB16SR) | [Nuketown City](https://open.spotify.com/album/0ohAthOe1kAWeYU0HFlYtb) | 2:35 | 2025-11-07 |  |
 | [Off Script](https://open.spotify.com/track/0ryKfzgxsC8lOq4m1IQHro) | [420 Vision](https://open.spotify.com/artist/0Jfa0ovGl8yKOxqRCzXmcr) | [Off Script](https://open.spotify.com/album/4MCbJBMllQlTQUGP3X3diz) | 2:50 | 2026-01-12 |  |

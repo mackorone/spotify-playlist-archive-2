@@ -387,6 +387,24 @@
     },
     {
       "album": {
+        "name": "Blanket Dreams",
+        "url": "https://open.spotify.com/album/4M47wTUTOrVeFg50G5cXbl"
+      },
+      "artists": [
+        {
+          "name": "Baggs",
+          "url": "https://open.spotify.com/artist/44k6sRhRRAW6Uy85KCr9Ti"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214285,
+      "name": "Blanket Dreams",
+      "url": "https://open.spotify.com/track/2tBYXZBymRJRGMMH9t1oF2"
+    },
+    {
+      "album": {
         "name": "Blood Full of Metal",
         "url": "https://open.spotify.com/album/2mIC9Fjg06dzZpcHiDFngB"
       },
@@ -546,6 +564,24 @@
       "duration_ms": 137081,
       "name": "Chapiteau",
       "url": "https://open.spotify.com/track/06e4iSfNG6XVts53EnG91O"
+    },
+    {
+      "album": {
+        "name": "Cherry Wine",
+        "url": "https://open.spotify.com/album/0VzEK8ziTsdwXszlm2QvDq"
+      },
+      "artists": [
+        {
+          "name": "Ain't no Ducks",
+          "url": "https://open.spotify.com/artist/6gpSt6r2hIoVRHzOcNxF6U"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170364,
+      "name": "Cherry Wine",
+      "url": "https://open.spotify.com/track/0bNsre3voeNutKYyhRpdiA"
     },
     {
       "album": {
@@ -4385,6 +4421,24 @@
     },
     {
       "album": {
+        "name": "tomgirl (I'm in my head)",
+        "url": "https://open.spotify.com/album/0Ftd1eloccWWqXf6QzFLSv"
+      },
+      "artists": [
+        {
+          "name": "Quentin",
+          "url": "https://open.spotify.com/artist/4GpI0u4lFwCzzYnwNlglbi"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177892,
+      "name": "tomgirl (I'm in my head)",
+      "url": "https://open.spotify.com/track/3BhLkRiTI1VVOHXL0JB7ze"
+    },
+    {
+      "album": {
         "name": "Too much to ask",
         "url": "https://open.spotify.com/album/6NG3y8XWY1jd2HxuOonYpY"
       },
@@ -4988,6 +5042,24 @@
       "duration_ms": 224444,
       "name": "Wonderful Paradox",
       "url": "https://open.spotify.com/track/7LfF485Urzmt6zMcqNOVYu"
+    },
+    {
+      "album": {
+        "name": "Words",
+        "url": "https://open.spotify.com/album/0yztP7IlMVPkikumfDSHDo"
+      },
+      "artists": [
+        {
+          "name": "The Fossil",
+          "url": "https://open.spotify.com/artist/2zs3Ho6Kt2iDspmKCieyRX"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224494,
+      "name": "Words",
+      "url": "https://open.spotify.com/track/1NWjkkZgUYEWROtrzn4DGm"
     },
     {
       "album": {

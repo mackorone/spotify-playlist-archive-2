@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 
 ### [Modern Jazz Japan](https://open.spotify.com/playlist/37i9dQZF1DWWGewPG5S5oE)
 
-> 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 寺久保伶矢
+> 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: Fried Banana Shop
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,446 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,452 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [NELO](https://open.spotify.com/track/4GywusTLDzaMnkUkpb1AQ1) | [寺久保伶矢](https://open.spotify.com/artist/5p9vfpKQ32WYNdtyt6oSlE) | [NELO](https://open.spotify.com/album/7d24qdkNR53X2ym470UJ0v) | 3:02 |
+| 1 | [Raccoon](https://open.spotify.com/track/20ZpdLjSxQ7yAupAFQpMM7) | [Fried Banana Shop](https://open.spotify.com/artist/1FsQB9WixbPjX7AB3g8tNF) | [Raccoon](https://open.spotify.com/album/6AU9T8gFA74uVIsGhwIC6Q) | 3:33 |
 | 2 | [Disturbed Utopia](https://open.spotify.com/track/6zgFQddklalR8m5YN2wi4s) | [Marty Holoubek](https://open.spotify.com/artist/5EUnnSIFldgDzlrPvvwTZF), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R), [渡辺翔太](https://open.spotify.com/artist/6v8wDyIrJSvfY7lFIX4Byr) | [Trio IV: The City, It Whispers](https://open.spotify.com/album/1TcfzFpZm4kmi5zMiZ3crA) | 4:54 |
-| 3 | [Celebrate](https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Celebrate](https://open.spotify.com/album/4qiEMrSLAIUn2zPrANiH2o) | 3:43 |
-| 4 | [Maintenance](https://open.spotify.com/track/7zFQs84UC969WEkBeAz3kF) | [Fried Banana Shop](https://open.spotify.com/artist/1FsQB9WixbPjX7AB3g8tNF) | [Maintenance](https://open.spotify.com/album/6d1HQQNWz4hLYuGQh8u1V6) | 4:08 |
+| 3 | [NELO](https://open.spotify.com/track/4GywusTLDzaMnkUkpb1AQ1) | [寺久保伶矢](https://open.spotify.com/artist/5p9vfpKQ32WYNdtyt6oSlE) | [NELO](https://open.spotify.com/album/7d24qdkNR53X2ym470UJ0v) | 3:02 |
+| 4 | [Celebrate](https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Celebrate](https://open.spotify.com/album/4qiEMrSLAIUn2zPrANiH2o) | 3:43 |
 | 5 | [N.E.W.](https://open.spotify.com/track/0uniIrDLtvdypzbMtmLmVV) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [馬場智章](https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [BLUE GIANT \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4GhDb60eJfeVCHJQdHWooc) | 5:45 |
 | 6 | [Mt.Teine](https://open.spotify.com/track/5ZFWqgSVs0cQvQOTTOxsin) | [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R), [市野元彦](https://open.spotify.com/artist/48TBc7P43abz7TzVyPULhr), [カノア・メンデンホール](https://open.spotify.com/artist/3hoPCBJlH3GtV0qFfJPFdf) | [TEINE](https://open.spotify.com/album/7z9LSX9STNlRuna6Os4eYJ) | 3:45 |
 | 7 | [My summer](https://open.spotify.com/track/7CTY2G11hGQYt4p71CVwfo) | [Sakura Fujiwara](https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et) | [My summer](https://open.spotify.com/album/1vJ4vwHNJSrhmNRqjGd6Z5) | 4:02 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 45 | [15 Eunomia](https://open.spotify.com/track/6Rs1Eg7J5nD3Rskr7nz1kj) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [tradition](https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm) | 3:07 |
 | 46 | [My Samba \(feat\. Skaai\)](https://open.spotify.com/track/22vlyrI5cI6bnyCg2suFFs) | [寺久保伶矢](https://open.spotify.com/artist/5p9vfpKQ32WYNdtyt6oSlE), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [My Samba \(feat\. Skaai\)](https://open.spotify.com/album/53Y6SKRMpcTFjHDavqEyV6) | 3:15 |
 | 47 | [KIMOCHIS](https://open.spotify.com/track/7If0EeEylHBw1hnSfwDFTy) | [Answer to Remember](https://open.spotify.com/artist/0AmjQ7AztgqsgxwtNV7GL9), [Jua](https://open.spotify.com/artist/4DC1obPJLR8W43ruJxQ0Rk) | [Answer to Remember II](https://open.spotify.com/album/1RV1qtvVjJZzqK2W52QKEy) | 3:41 |
-| 48 | [STEPS OF THE BLUE](https://open.spotify.com/track/5gF1MiHJNecYAu3wQyGdne) | [松井 秀太郎](https://open.spotify.com/artist/55DWXZw1Np3eYrtMMY0MTQ), [中川英二郎](https://open.spotify.com/artist/3RDzAdDGSqwUDi28zZm28q), [中林俊也](https://open.spotify.com/artist/4FPy6vfB5dk2J0yjVPeTnc), [Makoto Ozone](https://open.spotify.com/artist/7Gv9weyLTeDrDjABqHnged), [Shimpei Ogawa](https://open.spotify.com/artist/7aR7TrCNI1EFSZy758Bp7W), [小田桐和寛](https://open.spotify.com/artist/0hO0QqiB0B3Vh843MaMKTE) | [STEPS OF THE BLUE](https://open.spotify.com/album/0jWAhTG0ICulGMf3nc3GWz) | 5:42 |
-| 49 | [ゆらゆら](https://open.spotify.com/track/1OocGOgbwij2A8tLxPVqeS) | [魚返明未](https://open.spotify.com/artist/1fxVeIoQpbBUEVZycjl8AP), [井上銘](https://open.spotify.com/artist/1cw4DRIdgFVPpNEdx0xORg) | [魚返明未＆井上銘Ⅱ](https://open.spotify.com/album/0tDwlpIHHgMgOz5pLkJ6zB) | 6:16 |
-| 50 | [Stargazer](https://open.spotify.com/track/4bTuXikreX9vQTcs69vgyS) | [草田一駿](https://open.spotify.com/artist/2aQPh8oulkkCiOeqRwSlCh) | [Trionfi](https://open.spotify.com/album/4oyzrmSkOa7yHrLV0mqyaJ) | 7:26 |
+| 48 | [Maintenance](https://open.spotify.com/track/7zFQs84UC969WEkBeAz3kF) | [Fried Banana Shop](https://open.spotify.com/artist/1FsQB9WixbPjX7AB3g8tNF) | [Maintenance](https://open.spotify.com/album/6d1HQQNWz4hLYuGQh8u1V6) | 4:08 |
+| 49 | [STEPS OF THE BLUE](https://open.spotify.com/track/5gF1MiHJNecYAu3wQyGdne) | [松井 秀太郎](https://open.spotify.com/artist/55DWXZw1Np3eYrtMMY0MTQ), [中川英二郎](https://open.spotify.com/artist/3RDzAdDGSqwUDi28zZm28q), [中林俊也](https://open.spotify.com/artist/4FPy6vfB5dk2J0yjVPeTnc), [Makoto Ozone](https://open.spotify.com/artist/7Gv9weyLTeDrDjABqHnged), [Shimpei Ogawa](https://open.spotify.com/artist/7aR7TrCNI1EFSZy758Bp7W), [小田桐和寛](https://open.spotify.com/artist/0hO0QqiB0B3Vh843MaMKTE) | [STEPS OF THE BLUE](https://open.spotify.com/album/0jWAhTG0ICulGMf3nc3GWz) | 5:42 |
+| 50 | [ゆらゆら](https://open.spotify.com/track/1OocGOgbwij2A8tLxPVqeS) | [魚返明未](https://open.spotify.com/artist/1fxVeIoQpbBUEVZycjl8AP), [井上銘](https://open.spotify.com/artist/1cw4DRIdgFVPpNEdx0xORg) | [魚返明未＆井上銘Ⅱ](https://open.spotify.com/album/0tDwlpIHHgMgOz5pLkJ6zB) | 6:16 |
 
-Snapshot ID: `AAAAAIZC5qPUWm8bguRw6G1frvN4FUBH`
+Snapshot ID: `AAAAAFtjS17Nxe/Me7ugR3aYV6CAUtXF`

@@ -1069,6 +1069,28 @@
     },
     {
       "album": {
+        "name": "L'Immortel - The 60's Rumba Revolution in Congo",
+        "url": "https://open.spotify.com/album/12nK0B6YzXEb1LvBbpOJba"
+      },
+      "artists": [
+        {
+          "name": "Franklin Boukaka",
+          "url": "https://open.spotify.com/artist/2XeTb1Zh39rA70DxAq9qxC"
+        },
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188573,
+      "name": "Etumba",
+      "url": "https://open.spotify.com/track/2wcVjXN6DeJTNTyyjh1jHM"
+    },
+    {
+      "album": {
         "name": "NYXIA. Tome III",
         "url": "https://open.spotify.com/album/2INTNqaYSOSAwmNLV925Ca"
       },
@@ -3242,7 +3264,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 502693,
       "name": "Tropical Garden",
       "url": "https://open.spotify.com/track/1WdixZ4J8I8hlgCIEqZkdc"

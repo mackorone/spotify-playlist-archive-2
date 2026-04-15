@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcECZl1cQzi5.md) - [plain]
 
 > Calming music accompanied by the waves of the ocean\. Breathe with the ebb and flow of the sea.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,832 likes - 105 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,876 likes - 105 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

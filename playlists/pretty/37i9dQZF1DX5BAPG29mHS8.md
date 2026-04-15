@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5BAPG29mHS8.md) - [plain]
 
 > Los hits de ahora en la playlist más grande de México\. BTS en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,046,649 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,045,994 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5BAPG29mHS8.md) - [plain]
 | 4 | [SWIM](https://open.spotify.com/track/4g5eopb54XIaV2ciooY3St) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN) | 2:39 |
 | 5 | [DROGA LETAL](https://open.spotify.com/track/4TPmu6ABGoRkb0UIwc177k) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Gael Valenzuela](https://open.spotify.com/artist/5mo9Z7aGxbLG7gVYajpCar), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [DROGA LETAL](https://open.spotify.com/album/5xKg0Uy8mowljQPNE3bkT0) | 3:40 |
 | 6 | [Todo Lo Fue](https://open.spotify.com/track/0Sa8aRfGckW0qUGLrBwoBG) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Reinicio](https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7) | 3:12 |
-| 7 | [Cabrón Y Medio](https://open.spotify.com/track/4U13UQFjLoB8heUDkGx7lB) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Cabrón Y Medio](https://open.spotify.com/album/6ajjSA5aKCb0yHjLLrVYw6) | 2:46 |
+| 7 | [C Y Medio](https://open.spotify.com/track/4U13UQFjLoB8heUDkGx7lB) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [C Y Medio](https://open.spotify.com/album/6ajjSA5aKCb0yHjLLrVYw6) | 2:46 |
 | 8 | [Nalguita y Teta](https://open.spotify.com/track/6SuIUd8Wl5tZcyMFAV0EZJ) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Nalguita y Teta](https://open.spotify.com/album/0jwalP0wios13VlRWKILbC) | 3:07 |
 | 9 | [Te Amo y Me Amas](https://open.spotify.com/track/1zcpINZGUYXn2dzO1QSlUo) | [Ian Cordova](https://open.spotify.com/artist/69DtJEq8LQ02KB06wynzuh) | [Linda Mujer](https://open.spotify.com/album/5T8dK0xt8rYynYjnKbPFAO) | 3:31 |
 | 10 | [San Charly](https://open.spotify.com/track/7ghPrLoF9gcOm4jQpwzzMz) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Esau Ortiz](https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ), [Alan Arrieta](https://open.spotify.com/artist/6raQ4bhFk0JuTS7i3nZBXr) | [San Charly](https://open.spotify.com/album/31Bc4KiyvpxhlHxps82U52) | 2:54 |

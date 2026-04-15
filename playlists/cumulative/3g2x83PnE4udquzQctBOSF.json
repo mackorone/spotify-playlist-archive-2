@@ -5849,6 +5849,24 @@
     },
     {
       "album": {
+        "name": "Infinito",
+        "url": "https://open.spotify.com/album/5ZaPRjuQfImi5krBH4C245"
+      },
+      "artists": [
+        {
+          "name": "Ast\u00e8nia",
+          "url": "https://open.spotify.com/artist/2kS3uPixwEg5JEqMDlBuoQ"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203980,
+      "name": "Infinito",
+      "url": "https://open.spotify.com/track/1assgMuL0WjFoyxPSgyTfR"
+    },
+    {
+      "album": {
         "name": "Miss Tony EP",
         "url": "https://open.spotify.com/album/6oQ5XIzcsrIjV5Gkufh7xz"
       },
@@ -9230,6 +9248,24 @@
       "duration_ms": 160546,
       "name": "Qu\u00e9 Maldito Sonido",
       "url": "https://open.spotify.com/track/5gcDnLlqYTApIhjsqXfOcU"
+    },
+    {
+      "album": {
+        "name": "Raptor",
+        "url": "https://open.spotify.com/album/3eEj1LqBbnsXeKC7uPZINu"
+      },
+      "artists": [
+        {
+          "name": "Peritz",
+          "url": "https://open.spotify.com/artist/31NVoBcFNTbpsKAvh5jYDp"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181333,
+      "name": "Raptor",
+      "url": "https://open.spotify.com/track/3EJkIFSMAL5e2AXGuJNtro"
     },
     {
       "album": {
@@ -13264,6 +13300,24 @@
       "duration_ms": 218181,
       "name": "Zenith",
       "url": "https://open.spotify.com/track/6dMIdroeAo63DjzxjNlw9D"
+    },
+    {
+      "album": {
+        "name": "\u0416\u0438\u0437\u043d\u044c \u043f\u043e \u043a\u0430\u0439\u0444\u0443",
+        "url": "https://open.spotify.com/album/5XDxLmzQF4olsjKbdTLAmr"
+      },
+      "artists": [
+        {
+          "name": "Echoes And Vibes",
+          "url": "https://open.spotify.com/artist/3KYnVGmtNOtC5MrmHRp0mF"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209960,
+      "name": "\u0416\u0438\u0437\u043d\u044c \u043f\u043e \u043a\u0430\u0439\u0444\u0443",
+      "url": "https://open.spotify.com/track/73VNVSDCbuebJ3qbiqNOuw"
     }
   ],
   "url": "https://open.spotify.com/playlist/3g2x83PnE4udquzQctBOSF"

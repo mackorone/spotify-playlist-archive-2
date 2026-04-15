@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[mg](https://open.spotify.com/user/yom8mary) - 1 like - 2,375 songs - 5 day 7 hr 29 min
+[mg](https://open.spotify.com/user/yom8mary) - 1 like - 2,376 songs - 5 day 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2383,5 +2383,6 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2373 | [Clout \(feat\. Cardi B\)](https://open.spotify.com/track/59ywHNwwchG4nZJMLyxSzd) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [FATHER OF 4](https://open.spotify.com/album/6bPpXqJRpjwy0hLyUGtzYc) | 3:25 |
 | 2374 | [The Devil](https://open.spotify.com/track/2EkOwCBWjcFfhychOKcY7j) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [The Devil](https://open.spotify.com/album/4cKybF7cwO55ZiufvSgWMT) | 4:04 |
 | 2375 | [4 BY 4 BEATS \(I Don't Care\)](https://open.spotify.com/track/6Kz4YIk2NAwQbs8hCA3J3x) | [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C) | [4 BY 4 BEATS \(I Don't Care\)](https://open.spotify.com/album/3X3q9Q2HRDFJ3cGFaa3ufK) | 3:04 |
+| 2376 | [Piece Of My Soul](https://open.spotify.com/track/3ECemWbXbG8XAuuI8M2Eft) | [Diffrent](https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV) | [Piece Of My Soul](https://open.spotify.com/album/61JOQRSDrDZhtSAUxFhQso) | 2:42 |
 
-Snapshot ID: `AAAFTSoNRh01PbiK+j6U6bIUF8SbKSSi`
+Snapshot ID: `AAAFTptEn9kXAOybIvUuCLTd6NdIi20I`

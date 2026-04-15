@@ -3935,6 +3935,32 @@
     },
     {
       "album": {
+        "name": "BULLY",
+        "url": "https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ye",
+          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
+        },
+        {
+          "name": "Andre Troutman",
+          "url": "https://open.spotify.com/artist/1EpaJyg2sMnPqKRsjjcG7R"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229152,
+      "name": "ALL THE LOVE (feat. Andre Troutman)",
+      "url": "https://open.spotify.com/track/2SjnvpedDUU0Ga69bxnoCa"
+    },
+    {
+      "album": {
         "name": "Black Panther The Album Music From And Inspired By",
         "url": "https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR"
       },
@@ -12407,6 +12433,24 @@
     },
     {
       "album": {
+        "name": "XCLNT",
+        "url": "https://open.spotify.com/album/69PDApE4B4ckucDwyaFZRq"
+      },
+      "artists": [
+        {
+          "name": "Los Tres",
+          "url": "https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184680,
+      "name": "Cantar y amar",
+      "url": "https://open.spotify.com/track/7ESvGErvVQschGM5UtXHAY"
+    },
+    {
+      "album": {
         "name": "Cant\u00e1ndote al O\u00eddo",
         "url": "https://open.spotify.com/album/1jTiwpPv0HWSAApVisOLiV"
       },
@@ -14470,7 +14514,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 301674,
       "name": "Click Clack Symphony. (feat. Hans Zimmer)",
       "url": "https://open.spotify.com/track/0XOynYFi9hQfIXKnTct9A7"
@@ -17446,6 +17490,28 @@
       "duration_ms": 191282,
       "name": "Cu\u00e9ntale",
       "url": "https://open.spotify.com/track/7oNn9kh8eEe8aZU8vHjDBI"
+    },
+    {
+      "album": {
+        "name": "Cu\u00e9ntame",
+        "url": "https://open.spotify.com/album/2MJO9Nz9hPXJrpGaP6RQm7"
+      },
+      "artists": [
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        },
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161249,
+      "name": "Cu\u00e9ntame",
+      "url": "https://open.spotify.com/track/0LwRPPWBsdUKZ7pMmGvEnM"
     },
     {
       "album": {
@@ -25607,6 +25673,24 @@
     },
     {
       "album": {
+        "name": "Exmaquina",
+        "url": "https://open.spotify.com/album/3R4W7oN6SdG6HzX4PIFvTm"
+      },
+      "artists": [
+        {
+          "name": "Paloma Mami",
+          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188307,
+      "name": "Exmaquina",
+      "url": "https://open.spotify.com/track/3d0LfxFm4FvW0RE1oZkdBV"
+    },
+    {
+      "album": {
         "name": "Ruby",
         "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
       },
@@ -26404,7 +26488,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 225786,
       "name": "Fashion Girl pt.2",
       "url": "https://open.spotify.com/track/6EKUSdzaD9zRaaR5Yg0SoC"
@@ -30494,7 +30578,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 188876,
       "name": "Ha Ha",
       "url": "https://open.spotify.com/track/2ef8nibK9jOPm6c23ioyIf"
@@ -32454,7 +32538,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 80097,
       "name": "hold me in your arms",
       "url": "https://open.spotify.com/track/3e4iMLD1QVefLYMtlSF63F"
@@ -34490,7 +34574,7 @@
       ],
       "date_added": "2026-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 294260,
       "name": "Impostor Syndrome",
       "url": "https://open.spotify.com/track/33KU9huHP1Lv1UWWVkuTYd"
@@ -49361,6 +49445,24 @@
     },
     {
       "album": {
+        "name": "Nadie Esta Hablando De Amar",
+        "url": "https://open.spotify.com/album/7rEgS4NymjvYcfsqAGLeh0"
+      },
+      "artists": [
+        {
+          "name": "Jesp7Tearz",
+          "url": "https://open.spotify.com/artist/2hKzSNbt10rdDMtede2Gbi"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189103,
+      "name": "Nadie Esta Hablando De Amar",
+      "url": "https://open.spotify.com/track/1nQRoMDJBlSokeU8NKiNvY"
+    },
+    {
+      "album": {
         "name": "Nadie Esta Hablando De Amar [NEHDA]",
         "url": "https://open.spotify.com/album/16j5rSVf1E30Q76xrZs9Ov"
       },
@@ -49390,7 +49492,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 189081,
       "name": "Nadie Esta Hablando De Amar Og",
       "url": "https://open.spotify.com/track/3julJhcX11xuINRlHu9M80"
@@ -50580,6 +50682,24 @@
       "duration_ms": 225654,
       "name": "NO ME QUIERO CASAR",
       "url": "https://open.spotify.com/track/39L3LdlHS3gqB62HPWaJRg"
+    },
+    {
+      "album": {
+        "name": "No Me Rompiste, Me Despertaste",
+        "url": "https://open.spotify.com/album/7HsfV6nExVbn4Z6FJmHYiF"
+      },
+      "artists": [
+        {
+          "name": "Vidal Labadie",
+          "url": "https://open.spotify.com/artist/0KAfjG5Q3nHDkByHw9qSyL"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206657,
+      "name": "No Me Rompiste, Me Despertaste",
+      "url": "https://open.spotify.com/track/1yfhVvyF6pOoLWS5Qr6kVp"
     },
     {
       "album": {
@@ -53204,6 +53324,24 @@
       "duration_ms": 244684,
       "name": "One Of The Girls (with JENNIE, Lily Rose Depp)",
       "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
+    },
+    {
+      "album": {
+        "name": "one of the girlz (Remastered)",
+        "url": "https://open.spotify.com/album/210DRFTES1Mm4oNwOItQnx"
+      },
+      "artists": [
+        {
+          "name": "1717177x",
+          "url": "https://open.spotify.com/artist/5uIvZ6y0SpfMHObdzv5FMp"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141589,
+      "name": "one of the girlz - Remastered",
+      "url": "https://open.spotify.com/track/5osBOAKiBt8Fr8YDZM1lN7"
     },
     {
       "album": {
@@ -57151,6 +57289,28 @@
     },
     {
       "album": {
+        "name": "PIN",
+        "url": "https://open.spotify.com/album/2CD3IqfUkAlxtiDOURO1J0"
+      },
+      "artists": [
+        {
+          "name": "TORRRES",
+          "url": "https://open.spotify.com/artist/34PYzJSu4DHKEyhdBfsn0E"
+        },
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "PIN",
+      "url": "https://open.spotify.com/track/6oPnlI69BFw388L0rx9jDT"
+    },
+    {
+      "album": {
         "name": "PINK FLOYD",
         "url": "https://open.spotify.com/album/2UkicL9GQDYs1LvSURTelG"
       },
@@ -57584,7 +57744,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 172796,
       "name": "Please",
       "url": "https://open.spotify.com/track/1XpVhaI4HzWrhRWIpdfyJB"
@@ -60338,6 +60498,36 @@
       "duration_ms": 244101,
       "name": "Qu\u00e9 Fue De Ti?",
       "url": "https://open.spotify.com/track/6PVECVjBtwwQuy8lYMykS2"
+    },
+    {
+      "album": {
+        "name": "QU\u00c9 GANAS DE COMERTE",
+        "url": "https://open.spotify.com/album/2I8Yr1prXIVOF9cP9vbSRx"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        },
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        },
+        {
+          "name": "XROSS",
+          "url": "https://open.spotify.com/artist/1sV3HHU1TBH5owKu0WLHf7"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234346,
+      "name": "QU\u00c9 GANAS DE COMERTE",
+      "url": "https://open.spotify.com/track/0MmbPDBxrlSLSgcfZPrGe0"
     },
     {
       "album": {
@@ -72534,7 +72724,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 191578,
       "name": "Tienes - Remix (Prod. by Dj Honda)",
       "url": "https://open.spotify.com/track/7MbqAiyl4FtyGwSLjT3g70"
@@ -78086,7 +78276,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 155255,
       "name": "Vida Loca",
       "url": "https://open.spotify.com/track/5dNky6SuEfNBan5perlSGl"

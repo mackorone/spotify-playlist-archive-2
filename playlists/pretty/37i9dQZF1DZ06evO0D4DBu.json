@@ -1,12 +1,12 @@
 {
   "description": "This is Chance the Rapper. The essential tracks, all in one playlist.",
-  "num_followers": 211217,
+  "num_followers": 211213,
   "original_name": "This Is Chance the Rapper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adrggAAAAAAyjogJVQWwg96wNKUfLL2F",
+  "snapshot_id": "adwyAAAAAADjeETQRTG1+L77QTxn5yQd",
   "tracks": [
     {
       "added_at": null,
@@ -275,22 +275,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mr. Wonderful",
-        "url": "https://open.spotify.com/album/7ijgeLAW3W3vZ9jf6tozFq"
+        "name": "Acid Rap",
+        "url": "https://open.spotify.com/album/7Ffm3ZluTZRYEdlE5Jjlid"
       },
       "artists": [
         {
-          "name": "Action Bronson",
-          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
-        },
-        {
           "name": "Chance the Rapper",
           "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
         }
       ],
-      "duration_ms": 280160,
-      "name": "Baby Blue (feat. Chance the Rapper)",
-      "url": "https://open.spotify.com/track/7gDwRzJhLs0fFHaGtMDJVM"
+      "duration_ms": 185062,
+      "name": "Favorite Song",
+      "url": "https://open.spotify.com/track/1tyCvK8fhQ1UUVK0nY1JlH"
     },
     {
       "added_at": null,
@@ -315,22 +315,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Acid Rap",
-        "url": "https://open.spotify.com/album/7Ffm3ZluTZRYEdlE5Jjlid"
+        "name": "Mr. Wonderful",
+        "url": "https://open.spotify.com/album/7ijgeLAW3W3vZ9jf6tozFq"
       },
       "artists": [
         {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+          "name": "Action Bronson",
+          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
         },
         {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
         }
       ],
-      "duration_ms": 185062,
-      "name": "Favorite Song",
-      "url": "https://open.spotify.com/track/1tyCvK8fhQ1UUVK0nY1JlH"
+      "duration_ms": 280160,
+      "name": "Baby Blue (feat. Chance the Rapper)",
+      "url": "https://open.spotify.com/track/7gDwRzJhLs0fFHaGtMDJVM"
     },
     {
       "added_at": null,
@@ -395,26 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Should Be Here",
-        "url": "https://open.spotify.com/album/3JFEZqTae3svhW8226cnNL"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        },
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        }
-      ],
-      "duration_ms": 262520,
-      "name": "The Way (feat. Chance the Rapper)",
-      "url": "https://open.spotify.com/track/0Kz9XqLxIeMQveGISrWvz3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Holy (Acoustic)",
         "url": "https://open.spotify.com/album/7CMuwbRcESagTQFvKHGuYU"
       },
@@ -431,6 +411,26 @@
       "duration_ms": 205815,
       "name": "Holy - Acoustic",
       "url": "https://open.spotify.com/track/6gcQJ6W4H89xkQFm63gcsB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Should Be Here",
+        "url": "https://open.spotify.com/album/3JFEZqTae3svhW8226cnNL"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        },
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "duration_ms": 262520,
+      "name": "The Way (feat. Chance the Rapper)",
+      "url": "https://open.spotify.com/track/0Kz9XqLxIeMQveGISrWvz3"
     },
     {
       "added_at": null,
@@ -883,22 +883,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Love Letter To You 4 (Deluxe)",
-        "url": "https://open.spotify.com/album/6Qb3toNhi0XwcZG43ksJX9"
+        "name": "The Big Day",
+        "url": "https://open.spotify.com/album/27Z9dFpWc5c1cW7axN9Dy6"
       },
       "artists": [
         {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        },
-        {
           "name": "Chance the Rapper",
           "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
         }
       ],
-      "duration_ms": 229244,
-      "name": "I Love You (feat. Chance The Rapper)",
-      "url": "https://open.spotify.com/track/6qEbKsvhAQjV3GfSGn1A8K"
+      "duration_ms": 236685,
+      "name": "Do You Remember",
+      "url": "https://open.spotify.com/track/1PAD54xGsSjUQhbjP12Fg8"
     },
     {
       "added_at": null,
@@ -927,22 +927,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Big Day",
-        "url": "https://open.spotify.com/album/27Z9dFpWc5c1cW7axN9Dy6"
+        "name": "A Love Letter To You 4 (Deluxe)",
+        "url": "https://open.spotify.com/album/6Qb3toNhi0XwcZG43ksJX9"
       },
       "artists": [
         {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
         },
         {
-          "name": "Death Cab for Cutie",
-          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
         }
       ],
-      "duration_ms": 236685,
-      "name": "Do You Remember",
-      "url": "https://open.spotify.com/track/1PAD54xGsSjUQhbjP12Fg8"
+      "duration_ms": 229244,
+      "name": "I Love You (feat. Chance The Rapper)",
+      "url": "https://open.spotify.com/track/6qEbKsvhAQjV3GfSGn1A8K"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Charles Ans. The essential tracks, all in one playlist.",
-  "num_followers": 256168,
+  "num_followers": 256229,
   "original_name": "This Is Charles Ans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adrggAAAAAB7WfGP7nUfFDeiF8SR3mDl",
+  "snapshot_id": "adwyAAAAAAAPnbMLJSFgKD5kO45TcISK",
   "tracks": [
     {
       "added_at": null,
@@ -491,6 +491,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "M\u00e1scaras",
+        "url": "https://open.spotify.com/album/1e4hvdD4wgcEtABivupueQ"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "La Loquera",
+          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
+        },
+        {
+          "name": "BCN",
+          "url": "https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd"
+        }
+      ],
+      "duration_ms": 182200,
+      "name": "Vegetales Con Pescado",
+      "url": "https://open.spotify.com/track/79E00piO2jJc98iBP9mw7m"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Smile",
         "url": "https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu"
       },
@@ -527,30 +551,6 @@
       "duration_ms": 246100,
       "name": "Penitencia",
       "url": "https://open.spotify.com/track/7aHkSmt0l7xTgCaAYvSZ9L"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "M\u00e1scaras",
-        "url": "https://open.spotify.com/album/1e4hvdD4wgcEtABivupueQ"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "La Loquera",
-          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
-        },
-        {
-          "name": "BCN",
-          "url": "https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd"
-        }
-      ],
-      "duration_ms": 182200,
-      "name": "Vegetales Con Pescado",
-      "url": "https://open.spotify.com/track/79E00piO2jJc98iBP9mw7m"
     },
     {
       "added_at": null,
@@ -675,6 +675,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hasta Que la Muerte Nos Separe",
+        "url": "https://open.spotify.com/album/04MJFDXcwKuZizmnMKqyhb"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+        }
+      ],
+      "duration_ms": 232500,
+      "name": "Hasta Que la Muerte Nos Separe",
+      "url": "https://open.spotify.com/track/1cUPGG5tSWperOT9a7zZz3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Trampa (Lqra Session #18)",
         "url": "https://open.spotify.com/album/63w06mgr86dK1f54QBG9Ol"
       },
@@ -707,26 +727,6 @@
       "duration_ms": 260859,
       "name": "Trampa (Lqra Session #18)",
       "url": "https://open.spotify.com/track/2R1bshCgs0J87uteHfkrog"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hasta Que la Muerte Nos Separe",
-        "url": "https://open.spotify.com/album/04MJFDXcwKuZizmnMKqyhb"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Sabino",
-          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
-        }
-      ],
-      "duration_ms": 232500,
-      "name": "Hasta Que la Muerte Nos Separe",
-      "url": "https://open.spotify.com/track/1cUPGG5tSWperOT9a7zZz3"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47UHGK8zGt8.md) - [plain]
 
 > Aquelas pra começar o dia de alma leve
 
-[Spotify](https://open.spotify.com/user/spotify) - 609,236 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 609,318 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47UHGK8zGt8.md) - [plain]
 | 54 | [Feliz e Ponto](https://open.spotify.com/track/5I7NiZhyh9mvtdv33eBg94) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Júpiter](https://open.spotify.com/album/7BqdQdesXoceTMhwEfTOrj) | 2:36 |
 | 55 | [Meu Esquema](https://open.spotify.com/track/40vRChgwsAB5kfPlN0Q9wS) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [Meu Esquema](https://open.spotify.com/album/47XggkKShQh1cLWhGYOjmi) | 3:08 |
 | 56 | [Depois de Ter Você \- Ao Vivo](https://open.spotify.com/track/2OGTo6ZsIrRr1F7rtd7PbP) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV), [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Maria Bethânia \- Noite Luzidia \(ao Vivo\)](https://open.spotify.com/album/5SGR9EAQOqls8xrn8fnuHa) | 3:59 |
-| 57 | [Dueto](https://open.spotify.com/track/1UI0p7UHJVyiVlug9ENhjg) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t), [Clara Buarque](https://open.spotify.com/artist/3d3K43XsOWZ8ccw6xWKpVt) | [Caravanas](https://open.spotify.com/album/1s1A5EqQwJkGSXGO5ZwJpu) | 3:22 |
+| 57 | [Dueto](https://open.spotify.com/track/1UI0p7UHJVyiVlug9ENhjg) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Caravanas](https://open.spotify.com/album/1s1A5EqQwJkGSXGO5ZwJpu) | 3:22 |
 | 58 | [Café](https://open.spotify.com/track/2VgA9S2cBOCsxo9JhTa5Ub) | [Stefano](https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT) | [Café](https://open.spotify.com/album/5exniSTn2LGUbnFHkTnLHL) | 3:38 |
 | 59 | [ME LIGA](https://open.spotify.com/track/54RUeOrfNtx0Kh1Rep3vpH) | [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t), [Murilo Chester](https://open.spotify.com/artist/6ByAo7zH3RbuJ04S5zinWU) | [ME LIGA](https://open.spotify.com/album/7ugZCiXucEKq36HER7Nuka) | 2:13 |
 | 60 | [Tenha do Seu Lado](https://open.spotify.com/track/7iRxsuKe44yvOYMypoBnzs) | [Benziê](https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH) | [Tenha do Seu Lado](https://open.spotify.com/album/3xbo5AXOm0UgWVt71j52d3) | 3:22 |

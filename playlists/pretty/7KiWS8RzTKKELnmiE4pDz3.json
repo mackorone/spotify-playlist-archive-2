@@ -6,7 +6,7 @@
     "name": "James Williams",
     "url": "https://open.spotify.com/user/imathieu32"
   },
-  "snapshot_id": "AAAgGPlgM0MHWv9/J1HctYRywEBlnCaX",
+  "snapshot_id": "AAAgGec/5G5VpCQrtEAK5Mnm3yuwpdAp",
   "tracks": [
     {
       "added_at": "2022-05-03 16:09:53",
@@ -3587,6 +3587,38 @@
       "duration_ms": 221240,
       "name": "Get Ya Mind Right",
       "url": "https://open.spotify.com/track/3QHdKXnXbI7Moz2lhVK0bq"
+    },
+    {
+      "added_at": "2026-04-14 22:21:56",
+      "album": {
+        "name": "Will Rap for Food (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6mlzH4VwTfAHyRM8bnO0T7"
+      },
+      "artists": [
+        {
+          "name": "CunninLynguists",
+          "url": "https://open.spotify.com/artist/7EA0bLf8dXCIUkwC3lnaJa"
+        },
+        {
+          "name": "Tonedeff",
+          "url": "https://open.spotify.com/artist/6tJRz44hifa2rNseM7RoTt"
+        },
+        {
+          "name": "Sankofa",
+          "url": "https://open.spotify.com/artist/1oJN0sVkiKJM7IkNRXTX40"
+        },
+        {
+          "name": "Kashal Tee",
+          "url": "https://open.spotify.com/artist/7F7sg8CCxnqXibGtqf9U4V"
+        },
+        {
+          "name": "Celph Titled",
+          "url": "https://open.spotify.com/artist/6bJSpzkLD8XYKqsXJ5jJNS"
+        }
+      ],
+      "duration_ms": 255866,
+      "name": "616 Rewind",
+      "url": "https://open.spotify.com/track/4SelxC1hEiz0Rn3yoFAAWg"
     }
   ],
   "unique_name": "main ",

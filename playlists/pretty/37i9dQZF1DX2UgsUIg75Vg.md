@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chill r&b\. Cover: Isaia Huron
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,369,082 likes - 250 songs - 13 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,369,027 likes - 250 songs - 13 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

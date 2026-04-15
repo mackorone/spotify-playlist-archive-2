@@ -323,6 +323,24 @@
     },
     {
       "album": {
+        "name": "Man\u2019s Best Friend",
+        "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169214,
+      "name": "House Tour",
+      "url": "https://open.spotify.com/track/25jgQBxuUkGDdCG1WGKKN9"
+    },
+    {
+      "album": {
         "name": "I\u2019m The Problem",
         "url": "https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD"
       },
@@ -334,7 +352,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 204963,
       "name": "I Got Better",
       "url": "https://open.spotify.com/track/4gfrYDtaRmp6HPvN80V2ob"
@@ -392,7 +410,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 182208,
       "name": "like JENNIE",
       "url": "https://open.spotify.com/track/2cYzrDoBQNHuZ1a8gn91Qx"
@@ -584,6 +602,24 @@
       "duration_ms": 258034,
       "name": "Pink Pony Club",
       "url": "https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc"
+    },
+    {
+      "album": {
+        "name": "PINKY UP",
+        "url": "https://open.spotify.com/album/64JnAiRKlQLxk9BvqsA7hx"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181966,
+      "name": "PINKY UP",
+      "url": "https://open.spotify.com/track/1dhfijA0rH5GsFGgJA5H8n"
     },
     {
       "album": {

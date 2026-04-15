@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,778 likes - 147 songs - 9 hr 33 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,778 likes - 148 songs - 9 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -155,5 +155,6 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 145 | [A long road](https://open.spotify.com/track/6ObvonMRMfLmq8zMrNr1JJ) | [Sly Chic](https://open.spotify.com/artist/6qyCwtkYGE0XzZKd2eIrcs) | [A long road](https://open.spotify.com/album/5M65i3FVZWLclVqrIIvX9w) | 3:08 |
 | 146 | [FLICK MY HAIR](https://open.spotify.com/track/6kUmbD1EfBxaa95s05UhTU) | [ABELA](https://open.spotify.com/artist/3t19go2ralbBNKL0LggZW0) | [FLICK MY HAIR](https://open.spotify.com/album/0cNFUNwrBZw5WCSocHkpGI) | 2:47 |
 | 147 | [Oh, What a Sunny Day!](https://open.spotify.com/track/0lsZ7P31n0B5dDtAeA1BkL) | [The Hollow Frays](https://open.spotify.com/artist/4p9MmGhxHuh8SEcsOTiU9L) | [Oh, What a Sunny Day!](https://open.spotify.com/album/3E2NALBN9OHJH1fJlVRilk) | 2:51 |
+| 148 | [Dissonanze](https://open.spotify.com/track/4it9AInqERIyIVB2xAyGeU) | [Evan Park](https://open.spotify.com/artist/0Uy6ep5p6hkzzPs1SuucDU) | [Dissonanze](https://open.spotify.com/album/2UHDgfzcwmSw24WKsJI1e8) | 2:16 |
 
-Snapshot ID: `AAALE7LrEo6OQQWjKXUrdP7O9H0pqUEM`
+Snapshot ID: `AAALFB56fjGkGoufT3dkaUc+0OxAuD1V`

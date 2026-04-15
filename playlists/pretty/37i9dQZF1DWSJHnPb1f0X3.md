@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSJHnPb1f0X3.md) - [plain]
 
 > Upbeat dance pop to keep your heart pumping.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,115,398 likes - 100 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,115,470 likes - 100 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSJHnPb1f0X3.md) - [plain]
 | 99 | [Dientes](https://open.spotify.com/track/4vAMy0dxoyoIHGuIgKqcwm) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [Dientes](https://open.spotify.com/album/6GkydlRWHz1bNVuVV9cD9O) | 2:46 |
 | 100 | [Midnight Sun \- Alex Chapman Remix](https://open.spotify.com/track/1LFBygPkUZyFE0U7hJDWOb) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Alex Chapman](https://open.spotify.com/artist/3c8wfedCs5BJGHcFyusyeh) | [Midnight Sun \(Bundle\)](https://open.spotify.com/album/601jO1tp8mHigKBy04WjqR) | 3:13 |
 
-Snapshot ID: `AAAAAKsSl1AlBazHvU34bsWCRgKx98DD`
+Snapshot ID: `AAAAAI8AN1mkKf+mIUdllOzk5Y8DOKFx`

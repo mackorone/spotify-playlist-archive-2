@@ -1,12 +1,12 @@
 {
   "description": "This is Nina Simone. The essential tracks, all in one playlist.",
-  "num_followers": 507825,
+  "num_followers": 507847,
   "original_name": "This Is Nina Simone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adrggAAAAABxgDljmT8jz+5yt2kOYFNq",
+  "snapshot_id": "adwyAAAAAAAVMygOruQHafycpMQ6hKEi",
   "tracks": [
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "High Priestess Of Soul",
-        "url": "https://open.spotify.com/album/1M2ktinB3DcTbrVXD45jxn"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 183666,
-      "name": "Work Song",
-      "url": "https://open.spotify.com/track/628A54HsxBPfgJPShyD7gx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pastel Blues",
         "url": "https://open.spotify.com/album/31pd81sWDaK2pP3ok5892z"
       },
@@ -443,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Silk & Soul (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2miVfa78vOd0o8Vbsgd7g3"
+        "name": "High Priestess Of Soul",
+        "url": "https://open.spotify.com/album/1M2ktinB3DcTbrVXD45jxn"
       },
       "artists": [
         {
@@ -452,9 +436,25 @@
           "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         }
       ],
-      "duration_ms": 142613,
-      "name": "The Look of Love",
-      "url": "https://open.spotify.com/track/0EiGzshQIaM98eOXdKTGaD"
+      "duration_ms": 183666,
+      "name": "Work Song",
+      "url": "https://open.spotify.com/track/628A54HsxBPfgJPShyD7gx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nina Simone Sings The Blues (Expanded Edition)",
+        "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 170320,
+      "name": "Since I Fell for You",
+      "url": "https://open.spotify.com/track/0S8wQT9YkE41gHIGwXvgep"
     },
     {
       "added_at": null,
@@ -475,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nina Simone Sings The Blues (Expanded Edition)",
-        "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
+        "name": "Silk & Soul (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2miVfa78vOd0o8Vbsgd7g3"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         }
       ],
-      "duration_ms": 170320,
-      "name": "Since I Fell for You",
-      "url": "https://open.spotify.com/track/0S8wQT9YkE41gHIGwXvgep"
+      "duration_ms": 142613,
+      "name": "The Look of Love",
+      "url": "https://open.spotify.com/track/0EiGzshQIaM98eOXdKTGaD"
     },
     {
       "added_at": null,
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         }
       ],
-      "duration_ms": 187973,
-      "name": "Tell Me More And More And Then Some",
-      "url": "https://open.spotify.com/track/1BvVRBs78RsBbZE59i6zjH"
+      "duration_ms": 200666,
+      "name": "Be My Husband",
+      "url": "https://open.spotify.com/track/4ZFwqrpTFL9dRMDSyIH262"
     },
     {
       "added_at": null,
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         }
       ],
-      "duration_ms": 200666,
-      "name": "Be My Husband",
-      "url": "https://open.spotify.com/track/4ZFwqrpTFL9dRMDSyIH262"
+      "duration_ms": 187973,
+      "name": "Tell Me More And More And Then Some",
+      "url": "https://open.spotify.com/track/1BvVRBs78RsBbZE59i6zjH"
     },
     {
       "added_at": null,

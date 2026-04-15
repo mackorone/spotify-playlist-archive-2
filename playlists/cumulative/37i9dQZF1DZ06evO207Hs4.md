@@ -4,7 +4,7 @@
 
 > This is Jimmy Cliff\. The essential tracks, all in one playlist.
 
-62 songs - 4 hr 6 min
+63 songs - 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,9 +18,10 @@
 | [Come Into My Life \- Single Version](https://open.spotify.com/track/0Gms0Ad9iBfwoInbDbSoLn) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Wonderful World, Beautiful People](https://open.spotify.com/album/3RiXb242oLrGNRtc0Va4Fd) | 2:55 | 2025-11-25 |  |
 | [Fire On The Mountain \- Live](https://open.spotify.com/track/39gGB1MdnM0pCdhLdFxlpl) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf), [Bob Weir](https://open.spotify.com/artist/6YB0tbDGk01Q0P6wcHPjpC), [Mickey Hart](https://open.spotify.com/artist/4eh3NWjKDBI81nFl9uhWtU), [Bill Kreutzmann](https://open.spotify.com/artist/1wk6pg0mhB8jTm9Y6I4bNV) | [Dear Jerry: Celebrating The Music Of Jerry Garcia \(Live\)](https://open.spotify.com/album/56MqXoKUl5SS1fLEPKttjj) | 6:53 | 2025-11-25 |  |
 | [Fountain of Life](https://open.spotify.com/track/1wVPiARwLSeEHD9yqSLppB) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [In Concert: The Best Of Jimmy Cliff](https://open.spotify.com/album/0YRVC4L2N6dAUociuqJ0lO) | 4:14 | 2025-11-26 | 2025-11-27 |
-| [Fundamental Reggay](https://open.spotify.com/track/2v3EzjkdxRom9XXd9Ew2d2) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Unlimited](https://open.spotify.com/album/6c4nsvQdAUNOWLDGCBNyzR) | 3:01 | 2025-11-28 |  |
+| [Fundamental Reggay](https://open.spotify.com/track/2v3EzjkdxRom9XXd9Ew2d2) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Unlimited](https://open.spotify.com/album/6c4nsvQdAUNOWLDGCBNyzR) | 3:01 | 2025-11-28 | 2026-04-15 |
 | [Fundamental Reggay](https://open.spotify.com/track/5fCrJkzFFSvsl0kLxxDNvA) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Unlimited](https://open.spotify.com/album/5fDti9HnqG3uWl3deeujN7) | 3:01 | 2025-11-25 | 2025-11-28 |
 | [Going Back West](https://open.spotify.com/track/4E59YuDnTWUNTR914Zh1qA) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Best Of Jimmy Cliff](https://open.spotify.com/album/6Y39RwVpNbgahWevQ0KENh) | 4:47 | 2025-11-25 | 2026-02-17 |
+| [Going Back West](https://open.spotify.com/track/5paYwzyK9zv73ss0jxHW5P) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Struggling Man](https://open.spotify.com/album/4nZrgSC5gdqUYbCCHGNFqw) | 4:47 | 2026-04-15 |  |
 | [Hakuna Matata](https://open.spotify.com/track/1VdQkGrUNJTqMkWlROP8mS) | [Lebo M.](https://open.spotify.com/artist/0zp9qNDSeYi3QEodhcKAAA), [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Rhythm Of The Pride Lands](https://open.spotify.com/album/38WcqhsXCL0TE86lTK2FHj) | 4:24 | 2025-11-25 |  |
 | [Hard Road To Travel](https://open.spotify.com/track/5ObfITffAO9V5Gl1TEpz8H) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Wonderful World, Beautiful People](https://open.spotify.com/album/3RiXb242oLrGNRtc0Va4Fd) | 2:37 | 2025-11-25 |  |
 | [Hello Sunshine](https://open.spotify.com/track/0odALYQ2EfLc5A1oVh8OVA) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Wonderful World, Beautiful People](https://open.spotify.com/album/3RiXb242oLrGNRtc0Va4Fd) | 2:48 | 2025-11-25 |  |

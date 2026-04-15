@@ -2,9 +2,9 @@
 
 ### [Hot Hits Magyarország](https://open.spotify.com/playlist/37i9dQZF1DXddoYHYnHJ9N)
 
-> Az 50 legnépszerűbb dal Magyarországon\. Cover: Manuel & Azahriah
+> Az 50 legnépszerűbb dal Magyarországon\. Cover: Azahriah
 
-208 songs - 10 hr 13 min
+209 songs - 10 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,8 +201,9 @@
 | [Too Sweet](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 4:11 | 2024-07-01 | 2024-09-17 |
 | [TOP TIER \- SPACCONE](https://open.spotify.com/track/4n9zK3ZjwyNfs0Bp1cUNiQ) | [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv) | [TOP TIER \(SPACCONE\)](https://open.spotify.com/album/4gU7TCAmI5c8zz2w34BAvx) | 2:02 | 2026-01-05 |  |
 | [Túl szép](https://open.spotify.com/track/4MEOjiTkrNxNs160x45p2p) | [Hien](https://open.spotify.com/artist/427eVj50XeC8tmsHm51euv) | [Játék Az Egész](https://open.spotify.com/album/4qu3S2E48nwRyOuxoMovm1) | 3:20 | 2025-05-05 | 2025-08-26 |
+| [utema](https://open.spotify.com/track/6rrn0Jzt0dDSQ9B1ZBiuCt) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [utema](https://open.spotify.com/album/0QP8g8K8Njgn4xoWLJMUuF) | 3:56 | 2026-04-14 |  |
 | [Valencia](https://open.spotify.com/track/7kIn3HrqM432chtEydQgMb) | [Tomi](https://open.spotify.com/artist/3T7cPgj4vAIoSdypl7cNH8), [VALMAR](https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh) | [Valencia](https://open.spotify.com/album/0sVF7F2neNBn9D3pRtqlH9) | 2:55 | 2024-07-01 | 2025-02-25 |
-| [vemzavr!](https://open.spotify.com/track/5okl2XLawfPjOCZJ1mSdox) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq), [Young Fly](https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N) | [vemzavr!](https://open.spotify.com/album/3gA92ig8JUIowiMLKTJWx7) | 3:03 | 2025-09-18 |  |
+| [vemzavr!](https://open.spotify.com/track/5okl2XLawfPjOCZJ1mSdox) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq), [Young Fly](https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N) | [vemzavr!](https://open.spotify.com/album/3gA92ig8JUIowiMLKTJWx7) | 3:03 | 2025-09-18 | 2026-04-15 |
 | [VERSENY](https://open.spotify.com/track/3Ej9MaTXoEHlAclVCtccA2) | [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5) | [VERSENY](https://open.spotify.com/album/7BoGRMEz5YVBClZMGzn3Sv) | 2:21 | 2025-03-31 | 2025-06-03 |
 | [VIDÉKI CSAJSZI](https://open.spotify.com/track/1105P9BDFQ4GZj7VS5vDuY) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [VIDÉKI CSAJSZI](https://open.spotify.com/album/6Nz8LUkFkdvlQWwbByHDaq) | 3:09 | 2024-10-21 | 2025-12-09 |
 | [Vinnipu](https://open.spotify.com/track/3yLlQXH3AucZNk0SEB80Kc) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [Vinnipu](https://open.spotify.com/album/4vrF4zMQLZIiRXVbLZbS9J) | 1:48 | 2025-06-09 | 2025-12-16 |

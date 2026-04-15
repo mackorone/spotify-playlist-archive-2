@@ -1,12 +1,12 @@
 {
   "description": "This is The XCERTS. The essential tracks, all in one playlist.",
-  "num_followers": 677,
+  "num_followers": 676,
   "original_name": "This Is The XCERTS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adrggAAAAABuDae4NzAmmaOHMlm3lPWs",
+  "snapshot_id": "adwyAAAAAACn/XPDtPChPmBipYbu0xFo",
   "tracks": [
     {
       "added_at": null,
@@ -99,6 +99,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "There Is Only You",
+        "url": "https://open.spotify.com/album/1PVASk4Wj9YoOlllQgDUoL"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        }
+      ],
+      "duration_ms": 190390,
+      "name": "Shaking In The Water",
+      "url": "https://open.spotify.com/track/4EAEzurHVgxsXmJ263P6fV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Afterthoughts On Letting Go",
         "url": "https://open.spotify.com/album/5K3J7hIZ5aHfV4tUAnbv7b"
       },
@@ -119,22 +135,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "There Is Only You",
-        "url": "https://open.spotify.com/album/1PVASk4Wj9YoOlllQgDUoL"
-      },
-      "artists": [
-        {
-          "name": "The XCERTS",
-          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
-        }
-      ],
-      "duration_ms": 190390,
-      "name": "Shaking In The Water",
-      "url": "https://open.spotify.com/track/4EAEzurHVgxsXmJ263P6fV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hold on to Your Heart",
         "url": "https://open.spotify.com/album/0dUfvaLw6L22guWr1ldEr2"
       },
@@ -147,22 +147,6 @@
       "duration_ms": 214880,
       "name": "We Are Gonna Live",
       "url": "https://open.spotify.com/track/4xecVWlowXeLZXxGZ3eeBS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "We Built This City",
-        "url": "https://open.spotify.com/album/25XwdliNAo6VrO7J2U2GxJ"
-      },
-      "artists": [
-        {
-          "name": "The XCERTS",
-          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
-        }
-      ],
-      "duration_ms": 235810,
-      "name": "We Built This City",
-      "url": "https://open.spotify.com/track/6uGax7tGLYcmZ0Nk12eO9a"
     },
     {
       "added_at": null,
@@ -183,6 +167,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "We Built This City",
+        "url": "https://open.spotify.com/album/25XwdliNAo6VrO7J2U2GxJ"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        }
+      ],
+      "duration_ms": 235810,
+      "name": "We Built This City",
+      "url": "https://open.spotify.com/track/6uGax7tGLYcmZ0Nk12eO9a"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "There Is Only You",
         "url": "https://open.spotify.com/album/1PVASk4Wj9YoOlllQgDUoL"
       },
@@ -192,9 +192,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 202550,
-      "name": "Kids On Drugs",
-      "url": "https://open.spotify.com/track/5JZKRfxtw70OBNY1dSrJlW"
+      "duration_ms": 216578,
+      "name": "Live Like This",
+      "url": "https://open.spotify.com/track/4Vt9jIvA2OSFZ7V1UKYDyy"
     },
     {
       "added_at": null,
@@ -215,22 +215,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In the Cold Wind We Smile (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/7KpMyE6xSVdRVdkIxSng5N"
-      },
-      "artists": [
-        {
-          "name": "The XCERTS",
-          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
-        }
-      ],
-      "duration_ms": 292628,
-      "name": "Aberdeen 1987",
-      "url": "https://open.spotify.com/track/4IPBnGpwKJIlSdlq8kgZVv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Learning How To Live And Let Go",
         "url": "https://open.spotify.com/album/1BkBunl3Wug629qK7Ke1T2"
       },
@@ -247,6 +231,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "In the Cold Wind We Smile (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7KpMyE6xSVdRVdkIxSng5N"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        }
+      ],
+      "duration_ms": 247324,
+      "name": "Home Versus Home",
+      "url": "https://open.spotify.com/track/1xCHmRrMoqWgW3pMlyiJpR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "There Is Only You",
         "url": "https://open.spotify.com/album/1PVASk4Wj9YoOlllQgDUoL"
       },
@@ -256,9 +256,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 216578,
-      "name": "Live Like This",
-      "url": "https://open.spotify.com/track/4Vt9jIvA2OSFZ7V1UKYDyy"
+      "duration_ms": 202550,
+      "name": "Kids On Drugs",
+      "url": "https://open.spotify.com/track/5JZKRfxtw70OBNY1dSrJlW"
     },
     {
       "added_at": null,
@@ -304,9 +304,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 247324,
-      "name": "Home Versus Home",
-      "url": "https://open.spotify.com/track/1xCHmRrMoqWgW3pMlyiJpR"
+      "duration_ms": 292628,
+      "name": "Aberdeen 1987",
+      "url": "https://open.spotify.com/track/4IPBnGpwKJIlSdlq8kgZVv"
     },
     {
       "added_at": null,
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Scatterbrain",
-        "url": "https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap"
-      },
-      "artists": [
-        {
-          "name": "The XCERTS",
-          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
-        }
-      ],
-      "duration_ms": 270706,
-      "name": "Distant Memory",
-      "url": "https://open.spotify.com/track/4l4SP3rYBjOvJCEcLQH75f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Complicated (feat. Heights)",
         "url": "https://open.spotify.com/album/3b5UdO9XkyHFQLFlNaWs01"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 212399,
       "name": "Complicated",
       "url": "https://open.spotify.com/track/7w7WlXyXPuo0AuuWMSGw98"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Scatterbrain",
+        "url": "https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        }
+      ],
+      "duration_ms": 270706,
+      "name": "Distant Memory",
+      "url": "https://open.spotify.com/track/4l4SP3rYBjOvJCEcLQH75f"
     },
     {
       "added_at": null,
@@ -587,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Live Like This",
+        "url": "https://open.spotify.com/album/6aid0JJx7b8qP7kRNejoGd"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        }
+      ],
+      "duration_ms": 188936,
+      "name": "Waste Away - Demo",
+      "url": "https://open.spotify.com/track/6B8V4E3GXnLrmts6ZYIN1c"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Scatterbrain",
         "url": "https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap"
       },
@@ -619,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live Like This",
-        "url": "https://open.spotify.com/album/6aid0JJx7b8qP7kRNejoGd"
+        "name": "So No One Told You Life Was Gonna Be This Way",
+        "url": "https://open.spotify.com/album/7Dubvhg0cRoqLSb3TVKfHg"
       },
       "artists": [
         {
@@ -628,9 +644,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 188936,
-      "name": "Waste Away - Demo",
-      "url": "https://open.spotify.com/track/6B8V4E3GXnLrmts6ZYIN1c"
+      "duration_ms": 171324,
+      "name": "Inbetween Days",
+      "url": "https://open.spotify.com/track/1nnXpxZyF7ule644vVi1RZ"
     },
     {
       "added_at": null,
@@ -667,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "So No One Told You Life Was Gonna Be This Way",
-        "url": "https://open.spotify.com/album/7Dubvhg0cRoqLSb3TVKfHg"
+        "name": "Scatterbrain",
+        "url": "https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap"
       },
       "artists": [
         {
@@ -676,9 +692,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 171324,
-      "name": "Inbetween Days",
-      "url": "https://open.spotify.com/track/1nnXpxZyF7ule644vVi1RZ"
+      "duration_ms": 224160,
+      "name": "Carnival Time",
+      "url": "https://open.spotify.com/track/0d05B9yk71AD3d4PRb1LbB"
     },
     {
       "added_at": null,
@@ -695,22 +711,6 @@
       "duration_ms": 300293,
       "name": "Lament",
       "url": "https://open.spotify.com/track/0P0mOSWEtA6suhu7zrcgOX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Scatterbrain",
-        "url": "https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap"
-      },
-      "artists": [
-        {
-          "name": "The XCERTS",
-          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
-        }
-      ],
-      "duration_ms": 224160,
-      "name": "Carnival Time",
-      "url": "https://open.spotify.com/track/0d05B9yk71AD3d4PRb1LbB"
     }
   ],
   "unique_name": "This Is The XCERTS",

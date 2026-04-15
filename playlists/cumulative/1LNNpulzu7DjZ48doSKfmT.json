@@ -3959,6 +3959,28 @@
     },
     {
       "album": {
+        "name": "Diarios de Nirak pt. 1",
+        "url": "https://open.spotify.com/album/6o0TnFdar5U4Mf5FDwVUeT"
+      },
+      "artists": [
+        {
+          "name": "P.A.C. 7",
+          "url": "https://open.spotify.com/artist/4xYTZFwBIsZqSuYLRzNIGF"
+        },
+        {
+          "name": "Old M\u00e1fia 021 Rec RD'RUA",
+          "url": "https://open.spotify.com/artist/2etqM9FQJqGUMCL2rezdkt"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100031,
+      "name": "Diarios de Nirak pt. 1",
+      "url": "https://open.spotify.com/track/5x7LP3TqnOqUkHGy3qLi4K"
+    },
+    {
+      "album": {
         "name": "Dictator Dreams",
         "url": "https://open.spotify.com/album/0rSYBoTiUlmVjOqvmcOSc9"
       },

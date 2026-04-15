@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adrggAAAAAC0DgNkXGDhhNrtWrU4tpiu",
+  "snapshot_id": "adwyAAAAAABNdZ0Qxwhapp76dUZtjNJZ",
   "tracks": [
     {
       "added_at": null,
@@ -507,30 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "T\u00f4 Sensacional",
-        "url": "https://open.spotify.com/album/4DuyT7x6ELFxUihJWhIm3N"
-      },
-      "artists": [
-        {
-          "name": "Michele Andrade",
-          "url": "https://open.spotify.com/artist/4DGPK44xtNPRNQSH2Bg73a"
-        },
-        {
-          "name": "Lekinho Rei do Naipe",
-          "url": "https://open.spotify.com/artist/5RJIe9fYxChtt2Xdk8lBy5"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 163846,
-      "name": "T\u00f4 Sensacional",
-      "url": "https://open.spotify.com/track/6vofuYpN9Rt0SlnzWD8MOx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Sigilo no Segredo",
         "url": "https://open.spotify.com/album/5coCsYnf3UdATTSaAoqzau"
       },
@@ -551,6 +527,30 @@
       "duration_ms": 116363,
       "name": "No Sigilo no Segredo",
       "url": "https://open.spotify.com/track/3MBfJQVqE5CPyfcRwFKB2L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "T\u00f4 Sensacional",
+        "url": "https://open.spotify.com/album/4DuyT7x6ELFxUihJWhIm3N"
+      },
+      "artists": [
+        {
+          "name": "Michele Andrade",
+          "url": "https://open.spotify.com/artist/4DGPK44xtNPRNQSH2Bg73a"
+        },
+        {
+          "name": "Lekinho Rei do Naipe",
+          "url": "https://open.spotify.com/artist/5RJIe9fYxChtt2Xdk8lBy5"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 163846,
+      "name": "T\u00f4 Sensacional",
+      "url": "https://open.spotify.com/track/6vofuYpN9Rt0SlnzWD8MOx"
     },
     {
       "added_at": null,
@@ -775,6 +775,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pagode do Presen\u00e7a | Made In Funk (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6bWYTB7AHxcs1EBlMcf5t8"
+      },
+      "artists": [
+        {
+          "name": "Grupo Presen\u00e7a",
+          "url": "https://open.spotify.com/artist/0HvttROjoLimYVYCrt5bC9"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 154400,
+      "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora - Ao Vivo",
+      "url": "https://open.spotify.com/track/6NI87kgPXlbjdwPGPdMgHq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Se o Port\u00e3o Tiver Trancado",
         "url": "https://open.spotify.com/album/1us003huY5cKbFdB7zaLcB"
       },
@@ -795,26 +815,6 @@
       "duration_ms": 103105,
       "name": "Se o Port\u00e3o Tiver Trancado",
       "url": "https://open.spotify.com/track/56aS1NYbxpr6F6eeOs7mWA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pagode do Presen\u00e7a | Made In Funk (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6bWYTB7AHxcs1EBlMcf5t8"
-      },
-      "artists": [
-        {
-          "name": "Grupo Presen\u00e7a",
-          "url": "https://open.spotify.com/artist/0HvttROjoLimYVYCrt5bC9"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 154400,
-      "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora - Ao Vivo",
-      "url": "https://open.spotify.com/track/6NI87kgPXlbjdwPGPdMgHq"
     },
     {
       "added_at": null,
@@ -1019,6 +1019,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sentando no Pula Pula",
+        "url": "https://open.spotify.com/album/2B0DpXxVV6jHVxkDOHNqSB"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Mc Nem Jm",
+          "url": "https://open.spotify.com/artist/2jUhhMRf5b01kLXKMC3ESs"
+        }
+      ],
+      "duration_ms": 174962,
+      "name": "Sentando no Pula Pula",
+      "url": "https://open.spotify.com/track/0wKhtUFFLf4b8DIZg4MNzX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Como Acredito No Amor",
         "url": "https://open.spotify.com/album/57NXaLzvMs55pZikaSBOvt"
       },
@@ -1039,8 +1059,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sentando no Pula Pula",
-        "url": "https://open.spotify.com/album/2B0DpXxVV6jHVxkDOHNqSB"
+        "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora",
+        "url": "https://open.spotify.com/album/3G1gxfsqkeaQmsf0eSp9jy"
       },
       "artists": [
         {
@@ -1048,13 +1068,37 @@
           "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
         },
         {
-          "name": "Mc Nem Jm",
-          "url": "https://open.spotify.com/artist/2jUhhMRf5b01kLXKMC3ESs"
+          "name": "Novo Imp\u00e9rio",
+          "url": "https://open.spotify.com/artist/5AWdsNtZ3cFCrvGQovuPzu"
         }
       ],
-      "duration_ms": 174962,
-      "name": "Sentando no Pula Pula",
-      "url": "https://open.spotify.com/track/0wKhtUFFLf4b8DIZg4MNzX"
+      "duration_ms": 197480,
+      "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora",
+      "url": "https://open.spotify.com/track/4koUrXFuoId1b6wrMF3laS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Casal Mandrake",
+        "url": "https://open.spotify.com/album/2NeOoMEaPlPKfO41ws0TRI"
+      },
+      "artists": [
+        {
+          "name": "MC Paulin da Capital",
+          "url": "https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Dj GM",
+          "url": "https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628"
+        }
+      ],
+      "duration_ms": 139826,
+      "name": "Casal Mandrake",
+      "url": "https://open.spotify.com/track/5x6P0oWuUOHwKNPlDMm5vM"
     },
     {
       "added_at": null,
@@ -1107,50 +1151,6 @@
       "duration_ms": 472615,
       "name": "GR6 Convoca #01 (Relacionamentos)",
       "url": "https://open.spotify.com/track/3xNJbOYwWipF9SAfEGt1LG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora",
-        "url": "https://open.spotify.com/album/3G1gxfsqkeaQmsf0eSp9jy"
-      },
-      "artists": [
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Novo Imp\u00e9rio",
-          "url": "https://open.spotify.com/artist/5AWdsNtZ3cFCrvGQovuPzu"
-        }
-      ],
-      "duration_ms": 197480,
-      "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora",
-      "url": "https://open.spotify.com/track/4koUrXFuoId1b6wrMF3laS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Casal Mandrake",
-        "url": "https://open.spotify.com/album/2NeOoMEaPlPKfO41ws0TRI"
-      },
-      "artists": [
-        {
-          "name": "MC Paulin da Capital",
-          "url": "https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Dj GM",
-          "url": "https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628"
-        }
-      ],
-      "duration_ms": 139826,
-      "name": "Casal Mandrake",
-      "url": "https://open.spotify.com/track/5x6P0oWuUOHwKNPlDMm5vM"
     },
     {
       "added_at": null,
@@ -1251,34 +1251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arrocha da Treta",
-        "url": "https://open.spotify.com/album/2dddrN2lOTk8UJR42WhUdQ"
-      },
-      "artists": [
-        {
-          "name": "Nen\u00ea DJ",
-          "url": "https://open.spotify.com/artist/7aYfvqdPOA5AGSXi10b982"
-        },
-        {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
-        },
-        {
-          "name": "Mc Magrinho",
-          "url": "https://open.spotify.com/artist/7tTInKzPELyaWbm4ciVSEB"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 144013,
-      "name": "Arrocha da Treta",
-      "url": "https://open.spotify.com/track/6BN7IIhBaALS4Nw6XkYfJL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Abril",
         "url": "https://open.spotify.com/album/2u68fnThe5A4mChFQrtqvi"
       },
@@ -1327,6 +1299,34 @@
       "duration_ms": 138900,
       "name": "Catucad\u00e3o",
       "url": "https://open.spotify.com/track/7LryHNIEa0AtcaGjr5744f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arrocha da Treta",
+        "url": "https://open.spotify.com/album/2dddrN2lOTk8UJR42WhUdQ"
+      },
+      "artists": [
+        {
+          "name": "Nen\u00ea DJ",
+          "url": "https://open.spotify.com/artist/7aYfvqdPOA5AGSXi10b982"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        },
+        {
+          "name": "Mc Magrinho",
+          "url": "https://open.spotify.com/artist/7tTInKzPELyaWbm4ciVSEB"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 144013,
+      "name": "Arrocha da Treta",
+      "url": "https://open.spotify.com/track/6BN7IIhBaALS4Nw6XkYfJL"
     },
     {
       "added_at": null,

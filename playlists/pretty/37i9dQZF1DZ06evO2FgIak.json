@@ -1,12 +1,12 @@
 {
   "description": "This is Muddy Waters. The essential tracks, all in one playlist.",
-  "num_followers": 52140,
+  "num_followers": 52141,
   "original_name": "This Is Muddy Waters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adrggAAAAAAGddRBwIx5pREZRz5LLItB",
+  "snapshot_id": "adwyAAAAAADW3pTMscLv35aS3y10IupJ",
   "tracks": [
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Shook Me - The Chess Masters, Vol. 3, 1958 To 1963",
-        "url": "https://open.spotify.com/album/7H6gYOQY7PQX5CMBr8r3ol"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 149626,
-      "name": "Crawlin' Kingsnake",
-      "url": "https://open.spotify.com/track/2fXcmQZ7lYoCxzQmZoDN06"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Chess Box",
         "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 165106,
       "name": "You Need Love",
       "url": "https://open.spotify.com/track/7Ak1aR9cK5b4yKHdhIhNVq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Shook Me - The Chess Masters, Vol. 3, 1958 To 1963",
+        "url": "https://open.spotify.com/album/7H6gYOQY7PQX5CMBr8r3ol"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 149626,
+      "name": "Crawlin' Kingsnake",
+      "url": "https://open.spotify.com/track/2fXcmQZ7lYoCxzQmZoDN06"
     },
     {
       "added_at": null,
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
         }
       ],
-      "duration_ms": 164293,
-      "name": "Walkin' Thru The Park",
-      "url": "https://open.spotify.com/track/4MWQ0HRkPlWq70BKxeY1S1"
+      "duration_ms": 178600,
+      "name": "Walkin' Blues",
+      "url": "https://open.spotify.com/track/2xF0ubRru7TwLHdqFwH6Uo"
     },
     {
       "added_at": null,
@@ -796,9 +796,9 @@
           "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
         }
       ],
-      "duration_ms": 178600,
-      "name": "Walkin' Blues",
-      "url": "https://open.spotify.com/track/2xF0ubRru7TwLHdqFwH6Uo"
+      "duration_ms": 164293,
+      "name": "Walkin' Thru The Park",
+      "url": "https://open.spotify.com/track/4MWQ0HRkPlWq70BKxeY1S1"
     },
     {
       "added_at": null,

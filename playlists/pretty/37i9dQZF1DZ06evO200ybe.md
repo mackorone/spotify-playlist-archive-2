@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO200ybe.md) - [plain]
 
 > This is Chet Baker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,790 likes - 45 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,797 likes - 45 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,11 +47,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO200ybe.md) - [plain]
 | 37 | [I'm Glad There Is You \- Remaster/2004](https://open.spotify.com/track/3P3S3sKYRZpm3Dc87VVKSy) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sextet](https://open.spotify.com/album/0B091u4NksUhGkql0oRF6u) | 3:14 |
 | 38 | [Here's That Rainy Day](https://open.spotify.com/track/2WRLJSbs3O6VuU4yTHMapa) | [Wolfgang Lackerschmid](https://open.spotify.com/artist/3DK2TT2zcwr9AbWTfOHwxS), [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T), [Larry Coryell](https://open.spotify.com/artist/25s8YpOLWqI2SgTlvapJyQ), [Buster Williams](https://open.spotify.com/artist/0pSoLnWrkv4lvm0CBl526G), [Tony Williams](https://open.spotify.com/artist/0rsOFTSrfAFwunJfGjgB9U) | [Quintet Sessions 1979](https://open.spotify.com/album/2589rTLkK1dIoC72z5cS1t) | 4:15 |
 | 39 | [I've Grown Accustomed To Her Face](https://open.spotify.com/track/4mDUnJXdRS9XuZSmCp9EFB) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [The Art Of The Ballad](https://open.spotify.com/album/1Lk2q3F58c6vU6egnTHIMa) | 4:12 |
-| 40 | [While My Lady Sleeps \(take 10\) \- Alternate Take](https://open.spotify.com/track/2ISbOB1Xu6F3YlyP5n6J9d) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings: It Could Happen To You \[Original Jazz Classics Remasters\] \(OJC Remaster\)](https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc) | 4:22 |
+| 40 | [Do It the Hard Way](https://open.spotify.com/track/5dFBJ1rqakFBp7QkjYC4VZ) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings: It Could Happen To You \[Original Jazz Classics Remasters\] \(OJC Remaster\)](https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc) | 3:03 |
 | 41 | [Waltz For Susan](https://open.spotify.com/track/6JgXwEGxn21fhmMLrOXCLi) | [Wolfgang Lackerschmid](https://open.spotify.com/artist/3DK2TT2zcwr9AbWTfOHwxS), [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Ballads For Two](https://open.spotify.com/album/1wXiZcjOj0oUX4rJqUiOQl) | 3:50 |
 | 42 | [Time On My Hands \- Mono](https://open.spotify.com/track/7gCRsieaL44rHWyZz7Q5Nj) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet \(Mono\)](https://open.spotify.com/album/2d1FwcwFImszirBMuVlWwO) | 4:34 |
 | 43 | [Don't Explain](https://open.spotify.com/track/5ZT1p3Elvxg6yu9qgWnH5r) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baker's Holiday](https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR) | 3:26 |
-| 44 | [Do It the Hard Way](https://open.spotify.com/track/5dFBJ1rqakFBp7QkjYC4VZ) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings: It Could Happen To You \[Original Jazz Classics Remasters\] \(OJC Remaster\)](https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc) | 3:03 |
+| 44 | [While My Lady Sleeps \(take 10\) \- Alternate Take](https://open.spotify.com/track/2ISbOB1Xu6F3YlyP5n6J9d) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings: It Could Happen To You \[Original Jazz Classics Remasters\] \(OJC Remaster\)](https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc) | 4:22 |
 | 45 | [I Remember You \- Remastered 2004](https://open.spotify.com/track/6FYeRy9LuMYTEMXOVCRCJ5) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings And Plays \(Remastered 2004\)](https://open.spotify.com/album/6NVtIIsVMTuphtcAN9FxCc) | 3:15 |
 
-Snapshot ID: `adrggAAAAABSfcCKPAoSV/cy1Rls7KHN`
+Snapshot ID: `adwyAAAAAACiOyaI2kgnbTE9jrYzccwt`

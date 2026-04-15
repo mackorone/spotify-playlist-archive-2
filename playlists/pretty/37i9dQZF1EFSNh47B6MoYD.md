@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 38 | [Perder Es Ganar](https://open.spotify.com/track/4p7IxXq8npnLl9MS98knQ6) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Cuando Se Ama Como Tú](https://open.spotify.com/album/2SfUxkmIm2CwqU9xwxQtun) | 3:27 |
 | 39 | [Cambio Y Fuera](https://open.spotify.com/track/0iWPjh1wwsIc6wwmFbeHgC) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Gloria](https://open.spotify.com/album/0CCHj2OM6S07f1enlQDtDK) | 3:31 |
 | 40 | [Alguien Más](https://open.spotify.com/track/6UplHCI03dIUk2fxL1l9hq) | [Ednita Nazario](https://open.spotify.com/artist/1Lvrnoz3ZKzzrBuZ446e6P) | [Real](https://open.spotify.com/album/7AtAkhy1kqTe7EsuW2rmbf) | 4:08 |
-| 41 | [No Olvides Recordarme](https://open.spotify.com/track/0bfFHScm3WUO97HTZesaRd) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Necesito un Bolero](https://open.spotify.com/album/3Ab8HPH5pTgPNjdFOHeTze) | 3:53 |
-| 42 | [Así Eres Tú](https://open.spotify.com/track/12FxhcmUSxyyly0TRfivZr) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Tatuajes \(Deluxe Edition\)](https://open.spotify.com/album/2DZDIKC1Cauj2lXimkbZS4) | 3:32 |
+| 41 | [Así Eres Tú](https://open.spotify.com/track/12FxhcmUSxyyly0TRfivZr) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Tatuajes \(Deluxe Edition\)](https://open.spotify.com/album/2DZDIKC1Cauj2lXimkbZS4) | 3:32 |
+| 42 | [No Olvides Recordarme](https://open.spotify.com/track/0bfFHScm3WUO97HTZesaRd) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Necesito un Bolero](https://open.spotify.com/album/3Ab8HPH5pTgPNjdFOHeTze) | 3:53 |
 | 43 | [Ataúd](https://open.spotify.com/track/6gKoVtvmjjPhoGic0ghCBY) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Tatuajes \(Deluxe Edition\)](https://open.spotify.com/album/2DZDIKC1Cauj2lXimkbZS4) | 3:55 |
 | 44 | [Luna Nueva](https://open.spotify.com/track/0n2WdWPe5mGO8uUFfBJQ7h) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Abreme la Puerta \(New Edition\)](https://open.spotify.com/album/1iIseStXM2EpYcP6NcuGvA) | 4:04 |
 | 45 | [Dueña De Mis Ojos \(Remix\)](https://open.spotify.com/track/2vPmivEKAgdBY9WiOeKBIi) | [Marcos Llunas](https://open.spotify.com/artist/4Zczh0uPcVMO6o80jJDPz5) | [Me Gusta](https://open.spotify.com/album/1eYDmaDVd5ZcIgbKh4pLOT) | 3:54 |
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 148 | [Don't Give Up](https://open.spotify.com/track/6ARXRdPercoOClawyz2hOi) | [Ana Cristina Cash](https://open.spotify.com/artist/2R6hhNDQT8vBWQgCCmDnK0) | [The Sunshine State](https://open.spotify.com/album/5vkfBiDEnpWdpNqIW7AY37) | 4:14 |
 | 149 | [Cuarto Menguante](https://open.spotify.com/track/0jn4mbofhTz8M5iWAKFc51) | [LIZZIE BLASINI](https://open.spotify.com/artist/3U6BxnObGblB6VI1f5lvpH) | [Cuarto Menguante](https://open.spotify.com/album/3FoNl5uOXTrmILe49C1aN7) | 4:22 |
 
-Snapshot ID: `AcOxwAAAAACPpEGEozg8jeHdf5oXKcQ7`
+Snapshot ID: `AcO3YAAAAACL9DNW1v4PKrBDysjKl7hA`

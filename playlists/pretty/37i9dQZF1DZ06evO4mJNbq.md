@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4mJNbq.md) - [plain]
 | 5 | [20 Questions](https://open.spotify.com/track/3lSrMxJwwGawtXZflUa1iN) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [20 Questions](https://open.spotify.com/album/1Jiprq0sbMHmBKOXbHZtVG) | 2:59 |
 | 6 | [Small Town Scandal](https://open.spotify.com/track/6HDN6dR62FhfxT9vhlXqfR) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Queen of Hearts](https://open.spotify.com/album/5uAQzG8eTpqgOLqXqiGoIk) | 3:30 |
 | 7 | [Ashley](https://open.spotify.com/track/5iMUQTIxTGgbVItGIPAWbL) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Ashley](https://open.spotify.com/album/1yPpGluI3skIgOBVxJtXPA) | 2:48 |
-| 8 | [Hypocrite](https://open.spotify.com/track/4kqrvXW9JKqikb7K2Iyps0) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Queen of Hearts \(Deluxe Edition\)](https://open.spotify.com/album/78gqMA4jrmtgwb9O94ZgYh) | 2:43 |
-| 9 | [Holy](https://open.spotify.com/track/31fgruFIDb9BwdU3xZgtHe) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Immaculate Conception](https://open.spotify.com/album/6yQDhrI79pfK0n07dh0ZE7) | 3:02 |
+| 8 | [Holy](https://open.spotify.com/track/31fgruFIDb9BwdU3xZgtHe) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Immaculate Conception](https://open.spotify.com/album/6yQDhrI79pfK0n07dh0ZE7) | 3:02 |
+| 9 | [Hypocrite](https://open.spotify.com/track/4kqrvXW9JKqikb7K2Iyps0) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Queen of Hearts \(Deluxe Edition\)](https://open.spotify.com/album/78gqMA4jrmtgwb9O94ZgYh) | 2:43 |
 | 10 | [All Girls Go to Heaven](https://open.spotify.com/track/7lm66m2dAZUVDH1a2w7iJ7) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Queen of Hearts](https://open.spotify.com/album/5uAQzG8eTpqgOLqXqiGoIk) | 2:44 |
 | 11 | [Fight Like A Girl](https://open.spotify.com/track/5t1LF6dD7ZbdOaN6Tw1soD) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Sappho](https://open.spotify.com/album/5BfoUXzblFJcVAqIjy3rJx) | 3:40 |
 | 12 | [Shut Up and Cry](https://open.spotify.com/track/0wtRqA9GmvxSpB7qSzPZYR) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Evil Angel](https://open.spotify.com/album/6I71YS1YRE68mrNEM2Z7lO) | 3:15 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4mJNbq.md) - [plain]
 | 38 | [Retrograde](https://open.spotify.com/track/2MLtYl74hh8UBf1lbiDI0P) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Evil Angel \(Deluxe Edition\)](https://open.spotify.com/album/0n2eTEITSu0EwdkpjtNFBr) | 0:34 |
 | 39 | [Spotless](https://open.spotify.com/track/2mqLJT1iTLvcPNlDalHLUe) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Sappho](https://open.spotify.com/album/5BfoUXzblFJcVAqIjy3rJx) | 3:41 |
 
-Snapshot ID: `adrggAAAAAAmx57VBPhe8xLVvE84l0GV`
+Snapshot ID: `adwyAAAAAADNzK7GR/AoRkxXK1QHuHzb`

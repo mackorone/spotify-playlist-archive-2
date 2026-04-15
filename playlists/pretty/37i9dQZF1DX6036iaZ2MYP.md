@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Adekunle Gold
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,781 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,868 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Formation](https://open.spotify.com/track/687RJSOAS8xDed1hoFxum1) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Formation](https://open.spotify.com/album/3kVrx9gltuUKLXgAToVjWx) | 2:36 |
 | 2 | [I AM](https://open.spotify.com/track/1iDNf6nP0BCXilLVVptflh) | [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [CLARITY OF MIND](https://open.spotify.com/album/28c5qLjX7puNQ96Wa86t5k) | 3:12 |
-| 3 | [Je m'appelle](https://open.spotify.com/track/6eGPfRvMtXkP9yGT3KcXjV) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N) | [Je m'appelle](https://open.spotify.com/album/5lRDkN4fmcLGsqW0Ki4ZG2) | 4:03 |
+| 3 | [Je m'appelle](https://open.spotify.com/track/6eGPfRvMtXkP9yGT3KcXjV) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Chlé](https://open.spotify.com/artist/78ExiA2p1L7zHf0qh3gvyv) | [Je m'appelle](https://open.spotify.com/album/5lRDkN4fmcLGsqW0Ki4ZG2) | 4:03 |
 | 4 | [Colorado](https://open.spotify.com/track/7C2IUngL0Xp8MsD575v2cJ) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Colorado](https://open.spotify.com/album/1P8BZuY2ZRlCPzXhSly5eZ) | 3:44 |
 | 5 | [Venin](https://open.spotify.com/track/4Yb5TEvug1rbfL4qRlhJdT) | [SUEILO](https://open.spotify.com/artist/3MeK3kaFCmsYOIcWjjXpbO) | [Venin](https://open.spotify.com/album/1RXOQU8CADz8DTYQF3q3jo) | 2:15 |
 | 6 | [That Way](https://open.spotify.com/track/3xJToX5HgVTY3XC1Xvw9MF) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [That Way](https://open.spotify.com/album/6NlpkuCdrj36zSuSnqnDP1) | 2:35 |

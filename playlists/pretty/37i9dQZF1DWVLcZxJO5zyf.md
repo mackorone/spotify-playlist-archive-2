@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLcZxJO5zyf.md) - [plain]
 
 > Ouça todas as novidades e hits do pop br aqui e agora! Foto: Gabi Melim, L7NNON
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,305,716 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,305,547 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLcZxJO5zyf.md) - [plain]
 | 16 | [PEIXIN](https://open.spotify.com/track/2goq9J8vz19zGvINVURBxT) | [Mulú](https://open.spotify.com/artist/4jsA7x5v8Xg3L4FGwyhGaQ), [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW), [Dandan](https://open.spotify.com/artist/4S6UaubswBroSpIooustWt) | [PEIXIN](https://open.spotify.com/album/0PFjB3HyJy9cHKpdnsKxcf) | 2:06 |
 | 17 | [Menina](https://open.spotify.com/track/1BKs3X4E6Oc0iM3BxnzyXQ) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Léo Foguete](https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08) | [Menina](https://open.spotify.com/album/1AhiTTbdGAym3xzYflP3fa) | 2:38 |
 | 18 | [Fruto do Tempo](https://open.spotify.com/track/4bK5J8VeSYMKmwSvyyHCNO) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Fruto Do Tempo](https://open.spotify.com/album/3fHaNVV7o76HmvDVehDxID) | 4:04 |
-| 19 | [Nova: Energia](https://open.spotify.com/track/6r1xdekDojx9KtBrzTOLbj) | [Podpah Records](https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829), [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc), [Los Brasileros](https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW), [FIVE](https://open.spotify.com/artist/5KaMOAr32JYTS74wxfx84K) | [Nova: Energia](https://open.spotify.com/album/5bwXJ7z9FAv0Tyw9v8Zcy8) | 2:48 |
+| 19 | [NOVA: Energia](https://open.spotify.com/track/6r1xdekDojx9KtBrzTOLbj) | [Podpah Records](https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829), [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc), [Los Brasileros](https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW), [FIVE](https://open.spotify.com/artist/5KaMOAr32JYTS74wxfx84K) | [NOVA: Energia](https://open.spotify.com/album/5bwXJ7z9FAv0Tyw9v8Zcy8) | 2:48 |
 | 20 | [Balelo](https://open.spotify.com/track/2QEGxX5uZecGEDRQ8hhmsK) | [Bia Marques](https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R) | [Balelo](https://open.spotify.com/album/5h91bT30As9hPOjFRPhvOM) | 2:50 |
 | 21 | [Eu e Você](https://open.spotify.com/track/7GFL8Q0Uvt0ad8zmQudxNE) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [Jota.pê](https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN) | [Eu e Você](https://open.spotify.com/album/2RNhBem4gfJ1yL2qaCTQEd) | 2:22 |
 | 22 | [antes que você vá](https://open.spotify.com/track/4tM0ZCycym90cD9Xi4iVtD) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [antes que você vá](https://open.spotify.com/album/6mDrodmxlJCr9iAFnEnDxD) | 2:40 |

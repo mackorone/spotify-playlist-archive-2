@@ -20,7 +20,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 170360,
       "name": "2012",
       "url": "https://open.spotify.com/track/1RkM5944j07AUqI5lFjb10"
@@ -42,7 +42,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 169583,
       "name": "A Body, A Coffin",
       "url": "https://open.spotify.com/track/2YYYrSLbcf5eNB5VQJxfM9"
@@ -252,7 +252,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 232186,
       "name": "All The Stars (with SZA)",
       "url": "https://open.spotify.com/track/7dMBU2Kf4vmvwfVLW6yb6P"
@@ -270,7 +270,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 421845,
       "name": "Ambush",
       "url": "https://open.spotify.com/track/4CcA1N6x2pgiHptaufjNRC"
@@ -288,7 +288,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 65038,
       "name": "America's Sweetheart",
       "url": "https://open.spotify.com/track/48dRUlzc8Pz0XJQmpGPbMP"
@@ -314,7 +314,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 164560,
       "name": "Ancestral Plane - Uzowuru and Kleinman Remix",
       "url": "https://open.spotify.com/track/4eO5QA3PXUuUbA6pB2BXvl"
@@ -390,7 +390,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 229373,
       "name": "Battle of New York",
       "url": "https://open.spotify.com/track/19svu34uFyJDk9pRAzrFj2"
@@ -426,7 +426,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 213333,
       "name": "Born Again",
       "url": "https://open.spotify.com/track/18zQTt3ifDv6iLni2YuXMg"
@@ -448,7 +448,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 170226,
       "name": "Brave New World",
       "url": "https://open.spotify.com/track/1lUUPdG1Kuz0AY0HIHuCkI"
@@ -484,7 +484,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 126113,
       "name": "Burden of Wisdom",
       "url": "https://open.spotify.com/track/5GeEXc0FMRYEcUHGChK1Pf"
@@ -502,7 +502,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 87120,
       "name": "Campaign Speech",
       "url": "https://open.spotify.com/track/6REscq6P9deKQCzatABUMB"
@@ -520,10 +520,28 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 66280,
       "name": "Can't Win",
       "url": "https://open.spotify.com/track/6hJTqo80ZGUwfStqGi748h"
+    },
+    {
+      "album": {
+        "name": "Captain America: Civil War (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1RjfqRZ2wDniTD5ahkbOgo"
+      },
+      "artists": [
+        {
+          "name": "Henry Jackman",
+          "url": "https://open.spotify.com/artist/5SEW04tNMMrOz7UFQJA6vz"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225560,
+      "name": "Cap's Promise",
+      "url": "https://open.spotify.com/track/29oY8ptMAWdMjPVjYK0wVj"
     },
     {
       "album": {
@@ -556,7 +574,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 207285,
       "name": "Captain America",
       "url": "https://open.spotify.com/track/6aqfUu0x0kzqGUiZDnX695"
@@ -618,6 +636,24 @@
     {
       "album": {
         "name": "Captain America: Brave New World (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2q4CVD8i0EiIk0bwaZEgmn"
+      },
+      "artists": [
+        {
+          "name": "Laura Karpman",
+          "url": "https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224106,
+      "name": "Captain America: Brave New World Main Title",
+      "url": "https://open.spotify.com/track/4OjupcAoeFegWCGtFVywdn"
+    },
+    {
+      "album": {
+        "name": "Captain America: Brave New World (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1hPk939CdYc9Egmksy9sT5"
       },
       "artists": [
@@ -632,7 +668,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 224106,
       "name": "Captain America: Brave New World Main Title",
       "url": "https://open.spotify.com/track/7kCC8GgZGIkYnvzyv9Y4Nv"
@@ -686,7 +722,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 280850,
       "name": "Coda",
       "url": "https://open.spotify.com/track/5pPprJuMgN2JnCE3C8NuhM"
@@ -704,10 +740,32 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 176293,
       "name": "Coming Back For You",
       "url": "https://open.spotify.com/track/5o77o7nTrQL1mWAyrvVMNI"
+    },
+    {
+      "album": {
+        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
+        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
+      },
+      "artists": [
+        {
+          "name": "Foudeqush",
+          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
+        },
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167386,
+      "name": "Con La Brisa",
+      "url": "https://open.spotify.com/track/2LSsSV7V33wM9EKQA2xjGS"
     },
     {
       "album": {
@@ -726,7 +784,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 160226,
       "name": "Con La Brisa - Film Version",
       "url": "https://open.spotify.com/track/2vthaS3SkgTfe5vrpVgITG"
@@ -762,7 +820,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 134122,
       "name": "Covered in Goo",
       "url": "https://open.spotify.com/track/4GzQ0j1KGT2jRnKj0y1BMk"
@@ -780,10 +838,32 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 29360,
       "name": "Cue Credits",
       "url": "https://open.spotify.com/track/6QVYb46B6Qeaz4coZwa3Pc"
+    },
+    {
+      "album": {
+        "name": "Marvel's Deadpool VR (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/0RcrPiG7IlKgdyvFrzMmXr"
+      },
+      "artists": [
+        {
+          "name": "Christopher Young",
+          "url": "https://open.spotify.com/artist/1FMXF1g4Fz2MWDTogFj9EC"
+        },
+        {
+          "name": "Gil Young",
+          "url": "https://open.spotify.com/artist/6px1AsnVbinvEvNKkNRHYU"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210399,
+      "name": "Deadpool",
+      "url": "https://open.spotify.com/track/40BGpAW1iENbujRrT8BEiG"
     },
     {
       "album": {
@@ -802,7 +882,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 210399,
       "name": "Deadpool - From \"Marvel's Deadpool VR\"",
       "url": "https://open.spotify.com/track/0HAnsm0as6pu2WzYfu7D6i"
@@ -958,7 +1038,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 260720,
       "name": "End Shredits",
       "url": "https://open.spotify.com/track/52COV6lkNVmmkRvEj8eelL"
@@ -976,7 +1056,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 82480,
       "name": "Entire Multiverse",
       "url": "https://open.spotify.com/track/4d3FYeJf84eb62KDVUksOX"
@@ -994,7 +1074,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 52872,
       "name": "Epilogue",
       "url": "https://open.spotify.com/track/787xlOF2svOA2neN2Rp0Gg"
@@ -1084,7 +1164,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 76733,
       "name": "Eyes of Wakanda Main Title",
       "url": "https://open.spotify.com/track/68OvoLY0aaC3QoZNCLwQjs"
@@ -1128,7 +1208,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 233181,
       "name": "Fate of Both Worlds - From \"MARVEL Rivals: Galactic Tunes\"/Summer Remix",
       "url": "https://open.spotify.com/track/2VvK0FkSq5o8MbdK1OMSN8"
@@ -1164,7 +1244,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 85829,
       "name": "First Flight",
       "url": "https://open.spotify.com/track/6tDfqbmotxjk4cmR1S8mWV"
@@ -1182,7 +1262,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 148456,
       "name": "First Heist",
       "url": "https://open.spotify.com/track/5VcSb2clCxuBUW5yMlgebD"
@@ -1200,7 +1280,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 62626,
       "name": "For Chadwick",
       "url": "https://open.spotify.com/track/1nZPiKe0l3vNzqAqptm8K5"
@@ -1258,7 +1338,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 182586,
       "name": "Give 'Em Hell",
       "url": "https://open.spotify.com/track/6VSPr0auBUN2WoP7oTnaCP"
@@ -1276,7 +1356,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 34800,
       "name": "Good Dancer",
       "url": "https://open.spotify.com/track/7mc6DgO8Pcw2o817Jo0qH0"
@@ -1312,7 +1392,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 206129,
       "name": "Goodbyes",
       "url": "https://open.spotify.com/track/6ScAHnt6W8lL8R3mk3NRpi"
@@ -1388,7 +1468,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 153800,
       "name": "Guardians",
       "url": "https://open.spotify.com/track/0QdM2kdJZBVP2xyGTQAe9o"
@@ -1424,7 +1504,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 166200,
       "name": "Guardians United",
       "url": "https://open.spotify.com/track/2Eqw0hfRVpxLgtIxK6L9h9"
@@ -1464,7 +1544,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 175317,
       "name": "He Who Remains",
       "url": "https://open.spotify.com/track/25lMRwMiGHhLtjFsJTGjz3"
@@ -1482,7 +1562,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 137142,
       "name": "Headless",
       "url": "https://open.spotify.com/track/424JrO6uy6tRKULU2FruAB"
@@ -1518,10 +1598,46 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 336506,
       "name": "Hexpansion",
       "url": "https://open.spotify.com/track/4jW7hAJgmNRNcqq7Nq0fwV"
+    },
+    {
+      "album": {
+        "name": "Deadpool & Wolverine (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7tTd4gjNDz51x9jXHdP73D"
+      },
+      "artists": [
+        {
+          "name": "Rob Simonsen",
+          "url": "https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111960,
+      "name": "Hideout",
+      "url": "https://open.spotify.com/track/4avf3wjFUU2qlSs4Q9XHh5"
+    },
+    {
+      "album": {
+        "name": "The Marvels (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/25yig7YhsFwBFUOcSXEf0c"
+      },
+      "artists": [
+        {
+          "name": "Laura Karpman",
+          "url": "https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230666,
+      "name": "Higher. Further. Faster. Together.",
+      "url": "https://open.spotify.com/track/6zeajjTRw6Iqgu65xjju4Y"
     },
     {
       "album": {
@@ -1544,7 +1660,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 180360,
       "name": "Higher. Further. Faster. Together. (Lofi Girl x Thaehan Lofi Remix) - From \"The Marvels\"",
       "url": "https://open.spotify.com/track/2u1K929oTMdB6OyQk9YeOu"
@@ -1562,7 +1678,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 230406,
       "name": "Higher. Further. Faster. Together. - From \"The Marvels\"",
       "url": "https://open.spotify.com/track/1ovt0wjtCfOzgNvAcCUfzu"
@@ -1580,7 +1696,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 43906,
       "name": "Holes",
       "url": "https://open.spotify.com/track/25LbGPUUXth94zV2np4pl7"
@@ -1620,7 +1736,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 308813,
       "name": "Honor Me",
       "url": "https://open.spotify.com/track/7iiILyBnzsoQ1YoECwlJTH"
@@ -1692,7 +1808,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 187733,
       "name": "I Am Vision",
       "url": "https://open.spotify.com/track/1ZcxP37FbhEiAdodj3CyaF"
@@ -1714,7 +1830,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 200969,
       "name": "I Am Who I Am",
       "url": "https://open.spotify.com/track/0v19Z17NOuQgmSDEQAaU3T"
@@ -1754,7 +1870,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 161146,
       "name": "In The Dark (with Jhen\u00e9 Aiko)",
       "url": "https://open.spotify.com/track/0zaoWwS8RpE3LSDdmkg8TC"
@@ -1808,7 +1924,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-04",
+      "date_removed": null,
       "duration_ms": 143453,
       "name": "Iron Man 3",
       "url": "https://open.spotify.com/track/7u5XBHnht6dyoRXRBb5soK"
@@ -1826,7 +1942,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 137180,
       "name": "Ironheart (Riri's Theme) - From \"Marvel's Ironheart\"",
       "url": "https://open.spotify.com/track/1HyzgWZRW17hyzwpluQ0fK"
@@ -1851,6 +1967,24 @@
     },
     {
       "album": {
+        "name": "Thunderbolts* (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5JTAY7hOUdzJx2GslB4nwc"
+      },
+      "artists": [
+        {
+          "name": "Son Lux",
+          "url": "https://open.spotify.com/artist/3kZdsaTYgaaolNxpnJ4iDe"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76979,
+      "name": "It's Bucky!",
+      "url": "https://open.spotify.com/track/5VbZuUanVLWJBpgnjrPC5i"
+    },
+    {
+      "album": {
         "name": "Jeet Hai Hamari (From \"What If...?: Season 3\")",
         "url": "https://open.spotify.com/album/3j0exGo4lFFT53h9DDsigU"
       },
@@ -1866,7 +2000,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 283023,
       "name": "Jeet Hai Hamari - From \"What If...?: Season 3\"",
       "url": "https://open.spotify.com/track/6SNNdNs5SGyFF2jX2Pr1Lc"
@@ -1924,7 +2058,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 157813,
       "name": "La Vida",
       "url": "https://open.spotify.com/track/7rIMBY4ANvxLDJS1m1TzmH"
@@ -1946,7 +2080,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 103426,
       "name": "Lady Hawk",
       "url": "https://open.spotify.com/track/6nnIiHAuSqf34eP5xhap4G"
@@ -1976,7 +2110,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 279960,
       "name": "Lazy Susan (with Rich Brian feat. Warren Hue & Masiwei)",
       "url": "https://open.spotify.com/track/2XbG1IRDzoQQzLJSmwWIqC"
@@ -1998,7 +2132,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 111733,
       "name": "Lessons",
       "url": "https://open.spotify.com/track/2BQu4vJE8TcWl8PEQ6OqWs"
@@ -2046,7 +2180,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 56160,
       "name": "Let's Keep It Going",
       "url": "https://open.spotify.com/track/276IEtvE1or7kMbjU7yTdA"
@@ -2107,6 +2241,24 @@
     },
     {
       "album": {
+        "name": "Loki: Vol. 1 (Episodes 1-3) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/5Wc11R3nufO8ZAFFhvBGEe"
+      },
+      "artists": [
+        {
+          "name": "Natalie Holt",
+          "url": "https://open.spotify.com/artist/04ZLnodB6WbVvYg2LECqpQ"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144761,
+      "name": "Loki Green Theme",
+      "url": "https://open.spotify.com/track/5T7DUEeAj0hkMLTzIlDCRz"
+    },
+    {
+      "album": {
         "name": "The Falcon and the Winter Soldier: Vol. 1 (Episodes 1-3) [Original Soundtrack]",
         "url": "https://open.spotify.com/album/5rA2ipMGRAUO9MRODPHoHG"
       },
@@ -2118,10 +2270,28 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 134149,
       "name": "Louisiana Hero",
       "url": "https://open.spotify.com/track/33HrnfzEPWyEtRw70R44jg"
+    },
+    {
+      "album": {
+        "name": "Louisiana Hero (From \"The Falcon and the Winter Soldier\")",
+        "url": "https://open.spotify.com/album/07bPQvZH7IkJbPh0imz5sx"
+      },
+      "artists": [
+        {
+          "name": "Henry Jackman",
+          "url": "https://open.spotify.com/artist/5SEW04tNMMrOz7UFQJA6vz"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136102,
+      "name": "Louisiana Hero - From \"The Falcon and the Winter Soldier\"/Score",
+      "url": "https://open.spotify.com/track/0YRJeq6AvbjquIwj3ClOoq"
     },
     {
       "album": {
@@ -2190,7 +2360,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 111706,
       "name": "Make Way For Tomorrow Today",
       "url": "https://open.spotify.com/track/26kXeKuiQKn02awx4US5VR"
@@ -2212,10 +2382,28 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 102333,
       "name": "Making It Up As We Go Along",
       "url": "https://open.spotify.com/track/553Nw509Iu0IcU8z17kih3"
+    },
+    {
+      "album": {
+        "name": "Thor: Love and Thunder (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/18vjqWwWsrtE9tseaLRO8V"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370040,
+      "name": "Mama's Got a Brand New Hammer",
+      "url": "https://open.spotify.com/track/6GpIulgg8ANZx7AG4H4Hj1"
     },
     {
       "album": {
@@ -2230,7 +2418,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 368346,
       "name": "Mama's Got a Brand New Hammer - From \"Thor: Love and Thunder\"",
       "url": "https://open.spotify.com/track/4SIfcQHmeKQ7F3K6Tbz5gK"
@@ -2248,7 +2436,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 118173,
       "name": "Mane on Ends",
       "url": "https://open.spotify.com/track/2xCAtH7rkstwKcHjn8E046"
@@ -2306,7 +2494,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 250786,
       "name": "Maya's Theme",
       "url": "https://open.spotify.com/track/6jqliDGEulKN5RvAIsg5mM"
@@ -2382,7 +2570,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 130453,
       "name": "Moon Knight",
       "url": "https://open.spotify.com/track/65ICJM6KqFWou1ntTAv0Qk"
@@ -2400,7 +2588,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 280467,
       "name": "Moscow Madness",
       "url": "https://open.spotify.com/track/7cRmW97CFuBmhRCVv14TSM"
@@ -2454,7 +2642,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 189937,
       "name": "Nach Mera Hero",
       "url": "https://open.spotify.com/track/2kfqZVhZYa1ny2ncjt4j5f"
@@ -2472,7 +2660,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 221154,
       "name": "Namor",
       "url": "https://open.spotify.com/track/4ZAzc0dAPTstqWmdkGe03W"
@@ -2494,10 +2682,28 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 200986,
       "name": "Natasha",
       "url": "https://open.spotify.com/track/3FJPS6N8yqWpEbXL3B17Iq"
+    },
+    {
+      "album": {
+        "name": "Black Widow (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6ov95v1bTRaC6ds2FaIIcK"
+      },
+      "artists": [
+        {
+          "name": "Lorne Balfe",
+          "url": "https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139520,
+      "name": "Natasha Soars",
+      "url": "https://open.spotify.com/track/5cjiZ2XV1VBAhwmukYbvhF"
     },
     {
       "album": {
@@ -2530,7 +2736,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 238696,
       "name": "Negative",
       "url": "https://open.spotify.com/track/4fFVnXExZnzxf7RMdcfYbA"
@@ -2582,7 +2788,7 @@
       ],
       "date_added": "2025-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 214136,
       "name": "Neighbor Like Me - From \"Your Friendly Neighborhood Spider-Man\"",
       "url": "https://open.spotify.com/track/2wogAW9Yxufq70Gsa4WxN7"
@@ -2618,7 +2824,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 123553,
       "name": "Nick Fury (Main Title Theme) - From \"Secret Invasion\"",
       "url": "https://open.spotify.com/track/4eJekm7bfnUMUPSF54rdYJ"
@@ -2636,7 +2842,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 213266,
       "name": "No Woman No Cry",
       "url": "https://open.spotify.com/track/2yrtWT6W4KUMbfNtBcH8iN"
@@ -2654,7 +2860,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 118200,
       "name": "Not a Witch",
       "url": "https://open.spotify.com/track/0Pw43xnpqEhIyBWzQ2iT5q"
@@ -2672,7 +2878,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 170740,
       "name": "Not Alone",
       "url": "https://open.spotify.com/track/78ATcC2v856GG3IXDZaPEJ"
@@ -2690,7 +2896,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 122512,
       "name": "Not Crazy...Mad",
       "url": "https://open.spotify.com/track/3vFT74VtlK27HeMiwBqkw5"
@@ -2748,7 +2954,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 185666,
       "name": "Opening Gambit",
       "url": "https://open.spotify.com/track/1fHuFtIeuPt8fVhbjSlTpk"
@@ -2784,7 +2990,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 58560,
       "name": "Path to Peace",
       "url": "https://open.spotify.com/track/0sNO0ut8a1tHEZZTjRg0z0"
@@ -2838,7 +3044,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 65314,
       "name": "Practicing for Court",
       "url": "https://open.spotify.com/track/186LQmn6hZP4hTXqo5XEUN"
@@ -2856,7 +3062,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 164668,
       "name": "Pruned",
       "url": "https://open.spotify.com/track/3su6P1ExjmvB8noNcq2sK3"
@@ -2892,7 +3098,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 196240,
       "name": "Quantum Nexus",
       "url": "https://open.spotify.com/track/2EIFbx9UZBz1iPjxbOGIU5"
@@ -2910,7 +3116,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 533293,
       "name": "Ragnarok Suite",
       "url": "https://open.spotify.com/track/646yYgVW5sZWJloaGEW728"
@@ -2928,7 +3134,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 120550,
       "name": "Revolution Starts Here (Battle Theme)",
       "url": "https://open.spotify.com/track/5rOaFnl9mzHUnXzeQpAfaL"
@@ -2968,7 +3174,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 205486,
       "name": "Rivals",
       "url": "https://open.spotify.com/track/3Qm2T0JIIxyOsSIVTMY18j"
@@ -2986,7 +3192,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 241270,
       "name": "Rivals 'Til the End (Chrissy Costanza Version)",
       "url": "https://open.spotify.com/track/35y0Zpih34sgPBEcI7T2zx"
@@ -3012,7 +3218,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 163373,
       "name": "Run It (feat. Rick Ross & Rich Brian)",
       "url": "https://open.spotify.com/track/5x4vgABKiGp4Vg7ZyFRxhn"
@@ -3034,7 +3240,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 277906,
       "name": "Samuel Sterns",
       "url": "https://open.spotify.com/track/6OYVPJsasejlTpXbQqrTRB"
@@ -3094,7 +3300,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 84938,
       "name": "She Hulk by Titania",
       "url": "https://open.spotify.com/track/1OMFjv93K0XNDXhNFzapxX"
@@ -3112,7 +3318,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 46333,
       "name": "She's Coming!",
       "url": "https://open.spotify.com/track/2sb4fogUJSc7SD8F72tMxc"
@@ -3130,7 +3336,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 145360,
       "name": "She-Hulk: Attorney at Law - From \"She-Hulk: Attorney at Law\"",
       "url": "https://open.spotify.com/track/2k2qC3o7QLhVzJXi8DxJ2t"
@@ -3148,7 +3354,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 209670,
       "name": "Shining Star",
       "url": "https://open.spotify.com/track/0wvnR8hvLOtMSs7tXkIUIo"
@@ -3246,7 +3452,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 179733,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/18ajyp6KyamwIylTkc0VnE"
@@ -3268,7 +3474,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 189149,
       "name": "Soy",
       "url": "https://open.spotify.com/track/47o7j4LL3wM9mCOiAAKD65"
@@ -3322,7 +3528,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 173360,
       "name": "Star Spangled Man",
       "url": "https://open.spotify.com/track/0U9i80PmEhdWAfDUeOuuWU"
@@ -3340,7 +3546,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 42560,
       "name": "Strange Awakens",
       "url": "https://open.spotify.com/track/2YGTCT7Efw9CNvJTEtc6r0"
@@ -3405,6 +3611,28 @@
     },
     {
       "album": {
+        "name": "Marvel's Spider-Man 2 (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/5C3YrS6NdLwSrkNQWRAwLR"
+      },
+      "artists": [
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Benji.",
+          "url": "https://open.spotify.com/artist/2Y4AFMyyarPFVfz9o2CRo2"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184866,
+      "name": "Swing",
+      "url": "https://open.spotify.com/track/5G5hspjbhZC9s6btkm76rN"
+    },
+    {
+      "album": {
         "name": "Marvel's Spider-Man 2: Lofi",
         "url": "https://open.spotify.com/album/57zKQ5DLqVI7PiEaqUsKFU"
       },
@@ -3438,7 +3666,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 184346,
       "name": "Swing - From \"Marvel's Spider-Man 2\"",
       "url": "https://open.spotify.com/track/3VaUx4drij8PSdSoz1JLz3"
@@ -3456,7 +3684,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 85026,
       "name": "T'Challa",
       "url": "https://open.spotify.com/track/5AnZGhVpAit04ocwEbzy04"
@@ -3478,7 +3706,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 177000,
       "name": "Tell Me Once Again Why It Had to End",
       "url": "https://open.spotify.com/track/3xZhHtM1vwXDgQd8nw1f9m"
@@ -3532,7 +3760,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 139893,
       "name": "The Awakening",
       "url": "https://open.spotify.com/track/0hvfEAhQNeq9VAroygdLbo"
@@ -3550,7 +3778,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 492640,
       "name": "The Ballad of Love and Thunder",
       "url": "https://open.spotify.com/track/1tpwTDS6QECpvQiobK0YYv"
@@ -3592,7 +3820,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 279522,
       "name": "The Ballad of the Witches' Road (Cover Version)",
       "url": "https://open.spotify.com/track/56tF6msHIT45utWxxVgAT8"
@@ -3610,7 +3838,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 151395,
       "name": "The Ballad of the Witches' Road (Pop Version) - From \"Agatha All Along\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/7v3chKWVHNbrGACa8ilNeP"
@@ -3684,7 +3912,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 198880,
       "name": "The Bamboo Spring",
       "url": "https://open.spotify.com/track/3i4VFsgDWhd1L52DlNS4qE"
@@ -3706,7 +3934,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 103058,
       "name": "The Convergence (Main Theme)",
       "url": "https://open.spotify.com/track/06oxloNrchPg8GOovW6k1V"
@@ -3724,7 +3952,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 202560,
       "name": "The Fantastic Four: First Steps Main Theme - From \"The Fantastic Four: First Steps\"",
       "url": "https://open.spotify.com/track/11fFILIDzuHakpgGoawXZw"
@@ -3782,7 +4010,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 83418,
       "name": "The Hero of the Multiverse",
       "url": "https://open.spotify.com/track/0CnD6Y8D8rOIM5rstdwDGG"
@@ -3818,7 +4046,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 77224,
       "name": "The Lord Near My Shadows",
       "url": "https://open.spotify.com/track/6yyvfHWTmLkHs38vUtKdMF"
@@ -3952,7 +4180,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 157440,
       "name": "They Want It, But No",
       "url": "https://open.spotify.com/track/1rHGit66Qhs5JL3FjaNYsW"
@@ -3988,7 +4216,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 149412,
       "name": "This Isn't Goodbye",
       "url": "https://open.spotify.com/track/4hCLqGghHZ06DrIGsG4d4U"
@@ -4064,7 +4292,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 183724,
       "name": "Three Points of Disaster",
       "url": "https://open.spotify.com/track/6fdVKERnwzLcsKwMxNfeRD"
@@ -4100,7 +4328,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 168000,
       "name": "Thunderbolts* (The New Avengers Remix) - From \"Thunderbolts*\"",
       "url": "https://open.spotify.com/track/08RBNAx1Ifktt3tPWmmGe3"
@@ -4118,7 +4346,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 82506,
       "name": "Too Late?",
       "url": "https://open.spotify.com/track/6yxe8tUng9r1UcT2VeZc9D"
@@ -4136,7 +4364,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 269853,
       "name": "Totally Fine",
       "url": "https://open.spotify.com/track/10F9vRZJFsnB8KGesrzAPy"
@@ -4154,7 +4382,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 76149,
       "name": "Tough Act to Follow",
       "url": "https://open.spotify.com/track/4cLZRWZsDQHpBqZiagymyb"
@@ -4208,7 +4436,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 452252,
       "name": "United Nations / End Titles",
       "url": "https://open.spotify.com/track/1vIXp4rlWChyPTSA3ZgsXa"
@@ -4226,7 +4454,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 117359,
       "name": "Villains (Parker's Theme)",
       "url": "https://open.spotify.com/track/28OBgyWJ61jAVnimykSE97"
@@ -4300,7 +4528,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 168480,
       "name": "Wakanda - DJ Dahi Remix",
       "url": "https://open.spotify.com/track/1u6PWhxFTHs0OuTfh5Mh79"
@@ -4412,7 +4640,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 53626,
       "name": "WandaVision!",
       "url": "https://open.spotify.com/track/2lD3POsCEgFZGH5F2cT46Y"
@@ -4468,7 +4696,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 67186,
       "name": "We Got Something Cooking",
       "url": "https://open.spotify.com/track/7wy016ZmoaeapFpte30sK1"
@@ -4508,7 +4736,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 118056,
       "name": "We Smash Things",
       "url": "https://open.spotify.com/track/0e80OMUckXPcaOJKhbe0uG"
@@ -4526,7 +4754,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 38533,
       "name": "We Won the War",
       "url": "https://open.spotify.com/track/5oYj6gOwsTm4RUIeHmbHqo"
@@ -4544,7 +4772,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 95333,
       "name": "Werewolf By Night: Mane Theme (Piano Arrangement)",
       "url": "https://open.spotify.com/track/6qNGojfK4ZJBe7H92Hqm5h"
@@ -4580,7 +4808,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 155027,
       "name": "What Happens in Karachi",
       "url": "https://open.spotify.com/track/4azhZuhRzLbw8JEzoA2ffZ"
@@ -4598,7 +4826,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 192946,
       "name": "Where Are They?",
       "url": "https://open.spotify.com/track/0stEBONXZQ10zXnJeiiWiS"
@@ -4616,7 +4844,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 32029,
       "name": "Who\u2026Is\u2026That\u2026??!!",
       "url": "https://open.spotify.com/track/4FfChxl4wQ5aYauxYgqmVy"
@@ -4634,10 +4862,28 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 74253,
       "name": "Why Do You Fight?",
       "url": "https://open.spotify.com/track/3dyOUw2nH56Eso3J1qytcX"
+    },
+    {
+      "album": {
+        "name": "X-Men '97 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6SObXUtk4XLVTkmoitJjZO"
+      },
+      "artists": [
+        {
+          "name": "The Newton Brothers",
+          "url": "https://open.spotify.com/artist/7dlJy6RJTqYprtHmWYBOv3"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65382,
+      "name": "X-Men '97 Theme",
+      "url": "https://open.spotify.com/track/1jvjHwbJm8yhbivJ03hmgQ"
     },
     {
       "album": {
@@ -4688,7 +4934,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 117626,
       "name": "You Did Good",
       "url": "https://open.spotify.com/track/34ZpUfJx6XvSvHQUgPbqSq"
@@ -4732,7 +4978,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 389469,
       "name": "\u00c1rboles Bajo El Mar - Film Version",
       "url": "https://open.spotify.com/track/5YEpYN4oyDaWODhd5t4av3"

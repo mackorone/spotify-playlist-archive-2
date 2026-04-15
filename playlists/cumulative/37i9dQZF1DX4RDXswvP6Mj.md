@@ -2,9 +2,9 @@
 
 ### [K\-Pop Dance Party](https://open.spotify.com/playlist/37i9dQZF1DX4RDXswvP6Mj)
 
-> Let's party & clubbing with your favorite K\-pop dance hits! \(Cover: YENA\) 지금 가장 핫한 댄스곡들을 만나보세요.
+> Let's party & clubbing with your favorite K\-pop dance hits! \(Cover: HEYOON\(혜윤\)\) 지금 가장 핫한 댄스곡들을 만나보세요.
 
-885 songs - 1 day 22 hr 56 min
+886 songs - 1 day 22 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -754,6 +754,7 @@
 | [Swan](https://open.spotify.com/track/2BhHpVlqUoUOmo0Ph0G18X) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Dear OHMYGIRL](https://open.spotify.com/album/2xfmLni05CCgygcNdtPvuN) | 2:35 | 2022-03-31 | 2022-04-05 |
 | [Sweet](https://open.spotify.com/track/1qXkDZzrLYZDer71tT9nYG) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Sweet](https://open.spotify.com/album/3l2REQK2yQqFlIVLNMApC8) | 3:04 | 2022-07-04 | 2022-07-16 |
 | [SWIM](https://open.spotify.com/track/4g5eopb54XIaV2ciooY3St) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN) | 2:39 | 2026-03-20 |  |
+| [swipe\_feat\_lou\_garcia\_v1.mp3](https://open.spotify.com/track/4zsxh0FkRntWV1vA7ckhHQ) | [HEYOON](https://open.spotify.com/artist/0lPGXQv9ckW0tLxVQTxJn1), [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [seriously unserious](https://open.spotify.com/album/5iK4Cr6djzpTWvuPCxCosm) | 2:04 | 2026-04-14 |  |
 | [Switch](https://open.spotify.com/track/2muZNT1f0eVDC6qbCto2Ma) | [KIM WOO SEOK](https://open.spotify.com/artist/4k2MyP64uZ78mvjKd1Ciq2) | [3RD DESIRE \[Reve\]](https://open.spotify.com/album/0wos6TVDS8fbc7WzUgITFY) | 3:23 | 2022-03-07 | 2022-04-11 |
 | [Switch to me \(duet with JYP\)](https://open.spotify.com/track/1LjhBbl5MvGz2rYcz5Fhgm) | [Rain](https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz) | [Switch to me \(duet with JYP\)](https://open.spotify.com/album/3XnNc5DV6LdZODUjV3YJVp) | 3:17 | 2021-12-29 | 2022-05-17 |
 | [TAKEDOWN \(JEONGYEON, JIHYO, CHAEYOUNG\)](https://open.spotify.com/track/1rKQjUhF9zFJmuUotr3VkV) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 3:01 | 2025-06-27 | 2026-01-15 |
@@ -863,7 +864,7 @@
 | [WHY DON'T WE \(Feat\. CHUNG HA\)](https://open.spotify.com/track/77EclQIcNpVBsJgV1Fari4) | [Rain](https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [PIECES by RAIN](https://open.spotify.com/album/0bLtrJW5gsxMIJF6CvJB6x) | 2:58 | 2022-01-25 | 2022-04-20 |
 | [Why Why Why](https://open.spotify.com/track/0br4r9VlPdofrWXxPorlYd) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [Why Why Why](https://open.spotify.com/album/7M784rTDL5CaHN250ibG1Q) | 3:26 | 2021-12-29 | 2022-07-09 |
 | [WICKED](https://open.spotify.com/track/2NOMOpss7BmEXTL9f1koqn) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [FAMOUS](https://open.spotify.com/album/7rgnZ9iX2S9HFHmkFmSwW7) | 2:37 | 2025-06-27 | 2025-12-31 |
-| [WICKED](https://open.spotify.com/track/6zRZyfYNsvgl1y6H5mkR1x) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [FAMOUS](https://open.spotify.com/album/7qt0DzSQqJOPliOA7Wkb5x) | 2:37 | 2025-12-31 |  |
+| [WICKED](https://open.spotify.com/track/6zRZyfYNsvgl1y6H5mkR1x) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [FAMOUS](https://open.spotify.com/album/7qt0DzSQqJOPliOA7Wkb5x) | 2:37 | 2025-12-31 | 2026-04-15 |
 | [Wife](https://open.spotify.com/track/6hWU8LrnjLyYHShDyNWFZj) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Wife](https://open.spotify.com/album/0C8qSTYZDkVcfnY6tIHIzK) | 2:01 | 2024-01-22 | 2024-05-15 |
 | [Without You](https://open.spotify.com/track/3UxfcEYFo3iU6WullUvM9x) | [KARD](https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ) | [KARD 3rd Digital Single 'Without You'](https://open.spotify.com/album/1m0yu7SisKNI9DJSIduL22) | 3:30 | 2023-04-11 | 2024-05-10 |
 | [WORK Pt.2 \- ATEEZ X Don Diablo](https://open.spotify.com/track/08IsidLsr5hBVsj6hgY5jY) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [WORK Pt.2 \- ATEEZ X Don Diablo](https://open.spotify.com/album/5qti5IxeLXnhbiMi92R5GC) | 3:00 | 2024-06-07 | 2024-06-14 |

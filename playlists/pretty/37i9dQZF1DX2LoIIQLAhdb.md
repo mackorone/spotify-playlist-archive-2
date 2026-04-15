@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Lynda x Franglish
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,393 likes - 40 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,406 likes - 39 songs - 1 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,6 +47,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 37 | [OFELE](https://open.spotify.com/track/4DtmqIBYcK7y9u8Z1Dat6m) | [JEY BROWNIE](https://open.spotify.com/artist/7kaoO6sl3TKJ6p31PxqubZ) | [G\-POP CLASSIKS .02](https://open.spotify.com/album/1fn8dKD4ny7VinAvpTw6sp) | 2:30 |
 | 38 | [MOONLIGHT](https://open.spotify.com/track/1g1SMWacpyZngg5vjLV7ae) | [Dixon](https://open.spotify.com/artist/44ga4npdjaqD4WGUt8oXXV) | [MOONLIGHT](https://open.spotify.com/album/2TWHFZsUnZTO7R0kqrIjLe) | 2:56 |
 | 39 | [Kill Bill](https://open.spotify.com/track/6UyFHRnklyzZq8WVIu7Zbm) | [Romy Rose](https://open.spotify.com/artist/0McCULnP8KpnUqIPSttJ2a) | [Kill Bill](https://open.spotify.com/album/6TLtPFo3DUbMejvM82pxd5) | 2:40 |
-| 40 | [Codé](https://open.spotify.com/track/6i2PUBNIUizHQUC2jai2gD) | [Bryans](https://open.spotify.com/artist/3xNat4RfBlrmWTukCfPKtW) | [Codé](https://open.spotify.com/album/65AD2s4mW1cz4f10JEEUvu) | 2:22 |
 
-Snapshot ID: `AAAAAISwKnUyNYWxsH9+EdLH+DQ9ICNi`
+Snapshot ID: `AAAAAAPM8Jds4Sjt2Rp2X6Uk7rW7KA2h`

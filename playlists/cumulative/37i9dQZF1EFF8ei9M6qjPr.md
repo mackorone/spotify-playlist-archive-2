@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5Uk3LfCG3anf7ZT6TIJZgV">Jesse Fink</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-226 songs - 10 hr 38 min
+228 songs - 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Go!](https://open.spotify.com/track/5RHXCRZwXTIt5uYdKmu9jk) | [Rence](https://open.spotify.com/artist/3VJTtTgub426X1NuzcyAOb) | [SINK OR SWIM](https://open.spotify.com/album/4Bdc1txexdBh1j5h17BVIs) | 2:08 | 2025-03-13 |  |
 | [Gold](https://open.spotify.com/track/2HGi7sW7mDKyTgQZ2SAXTk) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Gold \(Acoustic\)](https://open.spotify.com/album/2TOC7DKcekUzDh8UAzF4T2) | 2:44 | 2026-04-08 |  |
 | [Good Bad & Ugly](https://open.spotify.com/track/5lrIBgTRHWlQj2LZdUYIwA) | [JaeyBxrd](https://open.spotify.com/artist/4rBpyETZEnrBQB7Xc4oRfa) | [Good Bad & Ugly](https://open.spotify.com/album/4V8iHTf70CbUtPmPre6WJl) | 2:01 | 2024-09-05 |  |
+| [Good Times](https://open.spotify.com/track/5bbJplfDGd60rFJo1m2qZE) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Good Times](https://open.spotify.com/album/0So4zZK0utccXG4YgZ1Be9) | 2:35 | 2026-04-14 |  |
 | [good to me](https://open.spotify.com/track/6DPYRPBrpf7jwfwxhcEX8j) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [girl music vol\. 1](https://open.spotify.com/album/5GUXKPrSqb6kdXQHKmKmHm) | 2:34 | 2026-04-11 |  |
 | [Grey Lines](https://open.spotify.com/track/1cyGXol3yjiLI6UXpkI1xk) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Grey Lines](https://open.spotify.com/album/60UeVI6qh6PRnTYf4uqtzj) | 2:48 | 2024-07-09 | 2024-08-03 |
 | [Grey Lines](https://open.spotify.com/track/31wd3JOLQpdDMkTAr1TkbM) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Grey Lines](https://open.spotify.com/album/4HnuaXBXjcgF6vHANPLMAc) | 2:48 | 2024-08-02 |  |
@@ -117,7 +118,7 @@
 | [Hurry Up and Let Me Down](https://open.spotify.com/track/5vNIgtRteWg8GvF54Rpz4Z) | [David Alexander](https://open.spotify.com/artist/0Wjw5Ny6h7tYYlwYDLFYiE) | [Hurry Up and Let Me Down](https://open.spotify.com/album/7k08YP0Il6IRpHBF2T24kk) | 2:36 | 2024-10-03 |  |
 | [i deserve 2 b alone](https://open.spotify.com/track/2NKvrozwURLPXnj3chhnfD) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR) | 2:45 | 2024-07-09 |  |
 | [I Don't Wanna Know](https://open.spotify.com/track/7bH7LRAHdrZaWTlcuLuIYF) | [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj) | [I Don't Wanna Know](https://open.spotify.com/album/5vXf3NU1ucc2wpTRNibX4b) | 3:48 | 2024-07-09 |  |
-| [i drive me mad](https://open.spotify.com/track/74tswKcYGnbqDd9zbPHAgW) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [teenage angst EP](https://open.spotify.com/album/2JxyP3DMXo84BCjj5EXLbX) | 2:57 | 2024-07-09 | 2026-04-14 |
+| [i drive me mad](https://open.spotify.com/track/74tswKcYGnbqDd9zbPHAgW) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [teenage angst EP](https://open.spotify.com/album/2JxyP3DMXo84BCjj5EXLbX) | 2:57 | 2024-07-09 |  |
 | [i drive me mad \- Mike Shinoda Mix](https://open.spotify.com/track/0DplYafqAQYY1fcx3XY3hv) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D), [Mike Shinoda](https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD) | [i drive me mad \(Mike Shinoda Mix\)](https://open.spotify.com/album/74eZ7jc74TkCSI8esb81xd) | 2:48 | 2024-07-09 |  |
 | [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 | 2024-07-09 | 2024-07-14 |
 | [i like the way you kiss me](https://open.spotify.com/track/3JG1uFc40wfyrqaWC7iv0e) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [yustyna](https://open.spotify.com/album/5nzSCZ7NhKvAysI0tmNOdD) | 2:22 | 2024-07-13 |  |
@@ -192,6 +193,7 @@
 | [Summertime Blue](https://open.spotify.com/track/4slSMptXdIoALxZEkSXwts) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Summertime Blue](https://open.spotify.com/album/5idegdSAakRkQhgs0fy5dW) | 3:30 | 2025-11-07 |  |
 | [supernatural](https://open.spotify.com/track/3noi9RTSfFwoRCxGPR1giy) | [Kazi](https://open.spotify.com/artist/5AS6c56mjqwIGujc81FTVh) | [too good to be true](https://open.spotify.com/album/1E6DxaWMpjQx9O5qe0EYP9) | 2:14 | 2024-07-09 |  |
 | [Supernova](https://open.spotify.com/track/2Tb9VdP35jbF4GJmC869uu) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [REALIEZ](https://open.spotify.com/album/70ptf4PxBI5aZdXWPbxTs0) | 3:28 | 2024-07-09 |  |
+| [sweet kim](https://open.spotify.com/track/0RyP6H3tRk7oVAK1O1MpNY) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [LOVERCORE](https://open.spotify.com/album/75FM00r9Lgdi0YHv7vvzzB) | 3:11 | 2026-04-14 |  |
 | [taillights](https://open.spotify.com/track/40Y6ZKkZ7qHem1o16JePW9) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [taillights](https://open.spotify.com/album/0d4PqKXXSPra0s2Qm2XPkb) | 3:20 | 2025-03-04 |  |
 | [taillights](https://open.spotify.com/track/6ck6obhiRdaUDBSVUXu6zB) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Whiterock](https://open.spotify.com/album/5Te9mrDOcIMYrn1TkUlhpn) | 3:20 | 2025-04-20 | 2026-01-15 |
 | [TAMALE! \(feat\. Jaleel\)](https://open.spotify.com/track/774BQ6Z8GFi0j6p4MBrBqi) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d), [Jaleel](https://open.spotify.com/artist/2iZneDO9KyhxFi9JEzIUo7) | [REAL RAW!](https://open.spotify.com/album/3iY0PNNnetAbPmKMWWDkKk) | 1:34 | 2024-07-09 |  |

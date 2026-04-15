@@ -1,12 +1,12 @@
 {
   "description": "This is Kirk Franklin. The essential tracks, all in one playlist.",
-  "num_followers": 38328,
+  "num_followers": 38329,
   "original_name": "This Is Kirk Franklin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adrggAAAAAAzKQcegTnk97o+2J2XFBS2",
+  "snapshot_id": "adwyAAAAAAA2xlzCj7N6S6gK0RgdI7QI",
   "tracks": [
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Do It Again",
-        "url": "https://open.spotify.com/album/5HKgWSVnx2YEkQ9d6T6ZJs"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 229123,
-      "name": "Do It Again",
-      "url": "https://open.spotify.com/track/6ZYrfrxalPRcUdSieUCkdM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Rebirth Of Kirk Franklin (Live)",
         "url": "https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 382573,
       "name": "My Life, My Love, My All - Live at Lakewood Church, Houston, TX - June 16, 2000",
       "url": "https://open.spotify.com/track/40cMyQLw09ehBKgfvVxjie"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Do It Again",
+        "url": "https://open.spotify.com/album/5HKgWSVnx2YEkQ9d6T6ZJs"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 229123,
+      "name": "Do It Again",
+      "url": "https://open.spotify.com/track/6ZYrfrxalPRcUdSieUCkdM"
     },
     {
       "added_at": null,
@@ -875,22 +875,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Breakthrough (Music From & Inspired By The Motion Picture)",
-        "url": "https://open.spotify.com/album/2e6XpPJpzqrhcsWFVG7ETI"
+        "name": "Celebrate",
+        "url": "https://open.spotify.com/album/55dqkiYJ5qPBBPQkTQD5MO"
       },
       "artists": [
         {
-          "name": "Taylor Mosby",
-          "url": "https://open.spotify.com/artist/3pk4AaSmKojd4CmEosErcg"
+          "name": "The Rance Allen Group",
+          "url": "https://open.spotify.com/artist/3S16Nh2s6Wc4PCFjFESk2g"
         },
         {
           "name": "Kirk Franklin",
           "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
         }
       ],
-      "duration_ms": 265693,
-      "name": "Oceans (Where Feet May Fail)",
-      "url": "https://open.spotify.com/track/7t6JZ71UsOkMLfxCw3kGrK"
+      "duration_ms": 449882,
+      "name": "Something About The Name Jesus (feat. Kirk Franklin) - Producer's Remix",
+      "url": "https://open.spotify.com/track/6H687qoB0Jw97cIQ3vM8Yf"
     },
     {
       "added_at": null,
@@ -915,22 +915,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Celebrate",
-        "url": "https://open.spotify.com/album/55dqkiYJ5qPBBPQkTQD5MO"
+        "name": "Breakthrough (Music From & Inspired By The Motion Picture)",
+        "url": "https://open.spotify.com/album/2e6XpPJpzqrhcsWFVG7ETI"
       },
       "artists": [
         {
-          "name": "The Rance Allen Group",
-          "url": "https://open.spotify.com/artist/3S16Nh2s6Wc4PCFjFESk2g"
+          "name": "Taylor Mosby",
+          "url": "https://open.spotify.com/artist/3pk4AaSmKojd4CmEosErcg"
         },
         {
           "name": "Kirk Franklin",
           "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
         }
       ],
-      "duration_ms": 449882,
-      "name": "Something About The Name Jesus (feat. Kirk Franklin) - Producer's Remix",
-      "url": "https://open.spotify.com/track/6H687qoB0Jw97cIQ3vM8Yf"
+      "duration_ms": 265693,
+      "name": "Oceans (Where Feet May Fail)",
+      "url": "https://open.spotify.com/track/7t6JZ71UsOkMLfxCw3kGrK"
     }
   ],
   "unique_name": "This Is Kirk Franklin",

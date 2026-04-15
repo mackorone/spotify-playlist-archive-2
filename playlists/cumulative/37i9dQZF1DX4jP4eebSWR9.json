@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-09-13",
-  "description": "50 Hits in einer Playlist! Cover: Montez",
+  "description": "50 Hits in einer Playlist! Cover: Juju",
   "name": "Hot Hits Deutschland",
   "tracks": [
     {
@@ -1120,7 +1120,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 154776,
       "name": "Blessed",
       "url": "https://open.spotify.com/track/32bZCHZS1dx4Tab16TVy2B"
@@ -1416,6 +1416,24 @@
       "duration_ms": 158012,
       "name": "CONNECTED",
       "url": "https://open.spotify.com/track/4uFOYZtzKEJElfzpbqbk6N"
+    },
+    {
+      "album": {
+        "name": "CRASHOUT FREESTYLE",
+        "url": "https://open.spotify.com/album/0LnVeayN8nJzYdHc53F6YW"
+      },
+      "artists": [
+        {
+          "name": "Juju",
+          "url": "https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "CRASHOUT FREESTYLE",
+      "url": "https://open.spotify.com/track/4wbXc63MjufLUCXLnIW8B5"
     },
     {
       "album": {
@@ -2624,7 +2642,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 155555,
       "name": "HAUS MIT BOOT",
       "url": "https://open.spotify.com/track/5LhlFA9WBKwAVWHd6bdpsQ"
@@ -3324,6 +3342,24 @@
       "duration_ms": 138246,
       "name": "Kisses (feat. bbyclose)",
       "url": "https://open.spotify.com/track/1bJRd2ey6ER7neSxZwYdAG"
+    },
+    {
+      "album": {
+        "name": "4LAP",
+        "url": "https://open.spotify.com/album/70wVZEB9vmrSVAQg450J5V"
+      },
+      "artists": [
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113445,
+      "name": "KLATSCH DAS!",
+      "url": "https://open.spotify.com/track/1WERhgO8sSoeGP4XVTiBoQ"
     },
     {
       "album": {
@@ -4116,7 +4152,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 171866,
       "name": "MON FR\u00c8RE",
       "url": "https://open.spotify.com/track/6UjrBp0tyzBG2n0ZgQ72Jv"
@@ -4376,6 +4412,28 @@
       "duration_ms": 163994,
       "name": "No Broke Boys",
       "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
+    },
+    {
+      "album": {
+        "name": "Nonstop",
+        "url": "https://open.spotify.com/album/74GrasHWig0q5L1RP1osVu"
+      },
+      "artists": [
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        },
+        {
+          "name": "Azet",
+          "url": "https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151346,
+      "name": "Nonstop",
+      "url": "https://open.spotify.com/track/72mTkKFJYy497k5cJhqVwi"
     },
     {
       "album": {
@@ -4696,6 +4754,24 @@
       "duration_ms": 258034,
       "name": "Pink Pony Club",
       "url": "https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc"
+    },
+    {
+      "album": {
+        "name": "PINKY UP",
+        "url": "https://open.spotify.com/album/5tLy0MEMDVqiHKso6B4jnz"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131437,
+      "name": "PINKY UP",
+      "url": "https://open.spotify.com/track/4KmkJjHTNlr1jFY56Lyz4E"
     },
     {
       "album": {
@@ -5762,7 +5838,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 159007,
       "name": "SWIM",
       "url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712"

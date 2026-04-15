@@ -6347,6 +6347,28 @@
     },
     {
       "album": {
+        "name": "Where\u2019s Your Love Now (Waxahatchee Version)",
+        "url": "https://open.spotify.com/album/1pnhU7gq3vrxKaq8cWkNs3"
+      },
+      "artists": [
+        {
+          "name": "This Is Lorelei",
+          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
+        },
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321140,
+      "name": "Where\u2019s Your Love Now - Waxahatchee Version",
+      "url": "https://open.spotify.com/track/5hLbAu2TGDhiwhvebzY5cv"
+    },
+    {
+      "album": {
         "name": "My Days of 58",
         "url": "https://open.spotify.com/album/497p1j3P9Xzlb7vXay7tNl"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbVhgADFy3im.md) - [plain]
 
 > Every track you're listening/should be listening to ;\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,272,363 likes - 75 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,273,409 likes - 75 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbVhgADFy3im.md) - [plain]
 | 7 | [Lush Life](https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:20 |
 | 8 | [Dil Kaa Jo Haal Hai](https://open.spotify.com/track/3IZhkhpuGU7iNWDcQ30nZm) | [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Besharam](https://open.spotify.com/album/0Lt9E5HOztunSW8sveIAbd) | 5:02 |
 | 9 | [Sheesha \- Aakhya Mai Aakh Ghali Jo Bairan](https://open.spotify.com/track/412poAqbwD8OC0dYD1nBkV) | [Mitta Ror](https://open.spotify.com/artist/3qWCWW0lyHpnj6E1cYwtKV), [Swara Verma](https://open.spotify.com/artist/1p8AG9V0Y60vhvdYdRbxqn) | [Sheesha \(Aakhya Mai Aakh Ghali Jo Bairan\)](https://open.spotify.com/album/42IeGIxYc7xgQ0gvuxcIh6) | 3:16 |
-| 10 | [Dil Lagana Mana Tha](https://open.spotify.com/track/3A3oq3VMSboPPWBYTRq0nX) | [Krish Mondal](https://open.spotify.com/artist/3JGOBJUPbwIb3fri0dcqbt), [Kishore Mondal](https://open.spotify.com/artist/6RHkm1pS4aeURu2w9jDaPX), [Devv Sadaana](https://open.spotify.com/artist/7wIvebeuJfBQ2fVQmhk5kO), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx) | [Dil Lagana Mana Tha](https://open.spotify.com/album/2BqIFRHlGkSt9SStEKxQtd) | 3:18 |
+| 10 | [Dil Lagana Mana Tha](https://open.spotify.com/track/3A3oq3VMSboPPWBYTRq0nX) | [Krish Mondal](https://open.spotify.com/artist/3JGOBJUPbwIb3fri0dcqbt), [Kishore Mondal](https://open.spotify.com/artist/6RHkm1pS4aeURu2w9jDaPX), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx), [Devv Sadaana](https://open.spotify.com/artist/7wIvebeuJfBQ2fVQmhk5kO) | [Dil Lagana Mana Tha](https://open.spotify.com/album/2BqIFRHlGkSt9SStEKxQtd) | 3:18 |
 | 11 | [CHANEL](https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [CHANEL](https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59) | 3:08 |
 | 12 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh) | 4:58 |
 | 13 | [Sahiba](https://open.spotify.com/track/0eLtIxPRNJfsmehITZ1qaJ) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Sahiba](https://open.spotify.com/album/250nGZusEhq33ZIZYJ7eVb) | 3:10 |

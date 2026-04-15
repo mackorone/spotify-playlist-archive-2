@@ -507,6 +507,24 @@
     },
     {
       "album": {
+        "name": "Raveton EP",
+        "url": "https://open.spotify.com/album/3V7uYR0wZABPI6Hg1U8UET"
+      },
+      "artists": [
+        {
+          "name": "Balam",
+          "url": "https://open.spotify.com/artist/0dqcQcbpMnfEvu72FFLmjL"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210107,
+      "name": "Acido Reviente",
+      "url": "https://open.spotify.com/track/6uCbtjoLcvjs6Ywmg8Xjg6"
+    },
+    {
+      "album": {
         "name": "Acka",
         "url": "https://open.spotify.com/album/3p7ZExdgm7ixZ1eQmfHmze"
       },
@@ -5309,6 +5327,28 @@
     },
     {
       "album": {
+        "name": "Echoed Dafnino",
+        "url": "https://open.spotify.com/album/2VklyfVYWd26jxCdsuRHsj"
+      },
+      "artists": [
+        {
+          "name": "Olof Dreijer",
+          "url": "https://open.spotify.com/artist/1Wxx3yxd6gZsNiAF1OwLk0"
+        },
+        {
+          "name": "MaMan",
+          "url": "https://open.spotify.com/artist/4OGMVOTexmW4hEV4bZMX30"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333301,
+      "name": "Echoed Dafnino",
+      "url": "https://open.spotify.com/track/5j1easQ6EXdPWE8DGF7CEo"
+    },
+    {
+      "album": {
         "name": "Bells From The East EP",
         "url": "https://open.spotify.com/album/2wh1ncWSyElq4R6aMxFXQC"
       },
@@ -7482,7 +7522,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 252586,
       "name": "Glitching in the Wraith",
       "url": "https://open.spotify.com/track/16cB0uoosEMTFxc6MHbPSG"
@@ -9391,6 +9431,28 @@
     },
     {
       "album": {
+        "name": "Kiumi (Remixes)",
+        "url": "https://open.spotify.com/album/7jE1XmWosaJDqrpv02pVMd"
+      },
+      "artists": [
+        {
+          "name": "Paurro",
+          "url": "https://open.spotify.com/artist/62WpDRamiYldQRtu9sUWSO"
+        },
+        {
+          "name": "Sam Binga",
+          "url": "https://open.spotify.com/artist/2oyU4eToyQkxAFjkB3blsi"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279533,
+      "name": "Kiumi - Sam Binga Remix",
+      "url": "https://open.spotify.com/track/09UFEaxZf9uQIQwDAvnDjP"
+    },
+    {
+      "album": {
         "name": "Soul & Science",
         "url": "https://open.spotify.com/album/36GcRRtyN3XWR6sgqcGQDE"
       },
@@ -10266,7 +10328,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 305000,
       "name": "Luna \u00e1cida - Balam Club Mix",
       "url": "https://open.spotify.com/track/1ZPumVevpVv55X7z3SuQn8"
@@ -10488,6 +10550,24 @@
       "duration_ms": 378750,
       "name": "Magma - Timo Maas Remix",
       "url": "https://open.spotify.com/track/3mlZgpv7iE0YYUQqq6vnKJ"
+    },
+    {
+      "album": {
+        "name": "Augurios",
+        "url": "https://open.spotify.com/album/76oA8wJ4zIEeNmHs1Hzm0P"
+      },
+      "artists": [
+        {
+          "name": "Chanchuyo",
+          "url": "https://open.spotify.com/artist/24Uqf7Q8mDudAJ5bidUor9"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261500,
+      "name": "Majadero",
+      "url": "https://open.spotify.com/track/3LNoAzIMrCvmyNCdP4dGUL"
     },
     {
       "album": {
@@ -12238,7 +12318,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 151273,
       "name": "No Nein",
       "url": "https://open.spotify.com/track/4qeIlzP0Z1JFXh0AckDcX8"
@@ -13590,7 +13670,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 320166,
       "name": "Pic\u00f3n - Mondocane Remix",
       "url": "https://open.spotify.com/track/6PMZUEkrPKxMO23MAvDqs1"
@@ -14165,6 +14245,24 @@
     },
     {
       "album": {
+        "name": "Pull The Trigger",
+        "url": "https://open.spotify.com/album/27ge9Uvi1u8vgDI1SS0LrE"
+      },
+      "artists": [
+        {
+          "name": "BRUX",
+          "url": "https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217807,
+      "name": "Pull The Trigger",
+      "url": "https://open.spotify.com/track/0Y0B8pQ0q7On2qnhbRpMfS"
+    },
+    {
+      "album": {
         "name": "EW",
         "url": "https://open.spotify.com/album/4Ynb316HLap0T13g5Bk2V4"
       },
@@ -14496,6 +14594,24 @@
       "duration_ms": 245333,
       "name": "Ratra",
       "url": "https://open.spotify.com/track/3Uo2GIBHKLwuzjrsNKrGhs"
+    },
+    {
+      "album": {
+        "name": "Glitch 2000 / Rave Down",
+        "url": "https://open.spotify.com/album/3x18E3lT5HGAp2FLYmqeTG"
+      },
+      "artists": [
+        {
+          "name": "Populous",
+          "url": "https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277312,
+      "name": "Rave Down",
+      "url": "https://open.spotify.com/track/0DN6z52rCHLU6ilv50VGQ7"
     },
     {
       "album": {
@@ -17042,7 +17158,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 250272,
       "name": "Stripper (feat. Katie Got Bandz)",
       "url": "https://open.spotify.com/track/2Qv0w8lgUatIf8Y5nJa4AT"
@@ -17820,7 +17936,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 225000,
       "name": "The Cat",
       "url": "https://open.spotify.com/track/6dUAhNYF2sSGVPa7VDeLmD"

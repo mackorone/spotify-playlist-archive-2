@@ -1,12 +1,12 @@
 {
   "description": "This is Eslabon Armado. The essential tracks, all in one playlist.",
-  "num_followers": 214603,
+  "num_followers": 214622,
   "original_name": "This Is Eslabon Armado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adrggAAAAAAmUU14od41WILsPYvptMlX",
+  "snapshot_id": "adwyAAAAAAA7JVCAOr2pJ+lNpfYATybT",
   "tracks": [
     {
       "added_at": null,
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
         }
       ],
-      "duration_ms": 161891,
-      "name": "KE DIABLOS HICE II",
-      "url": "https://open.spotify.com/track/60EWFAUY7exPBybSny44JW"
+      "duration_ms": 191049,
+      "name": "TE ODIO!",
+      "url": "https://open.spotify.com/track/5dQwZJPmRoHziPCGmKyxvt"
     },
     {
       "added_at": null,
@@ -410,11 +410,15 @@
         {
           "name": "Eslabon Armado",
           "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
         }
       ],
-      "duration_ms": 107153,
-      "name": "QUE DIABLOS HICE (INTERLUDE)",
-      "url": "https://open.spotify.com/track/7qHPpmIEa0YRnMf1d0XoWj"
+      "duration_ms": 205692,
+      "name": "LA PERRIE",
+      "url": "https://open.spotify.com/track/5AWwqpQnuMNCUXVZd6TOwY"
     },
     {
       "added_at": null,
@@ -428,25 +432,9 @@
           "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
         }
       ],
-      "duration_ms": 191049,
-      "name": "TE ODIO!",
-      "url": "https://open.spotify.com/track/5dQwZJPmRoHziPCGmKyxvt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tu Veneno Mortal",
-        "url": "https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        }
-      ],
-      "duration_ms": 215954,
-      "name": "Catorce de Febrero",
-      "url": "https://open.spotify.com/track/36EQeUxiJibZQ0WLICBZua"
+      "duration_ms": 161891,
+      "name": "KE DIABLOS HICE II",
+      "url": "https://open.spotify.com/track/60EWFAUY7exPBybSny44JW"
     },
     {
       "added_at": null,
@@ -471,6 +459,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tu Veneno Mortal",
+        "url": "https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "duration_ms": 215954,
+      "name": "Catorce de Febrero",
+      "url": "https://open.spotify.com/track/36EQeUxiJibZQ0WLICBZua"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "NOSTALGIA",
         "url": "https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd"
       },
@@ -478,15 +482,11 @@
         {
           "name": "Eslabon Armado",
           "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        },
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
         }
       ],
-      "duration_ms": 205692,
-      "name": "LA PERRIE",
-      "url": "https://open.spotify.com/track/5AWwqpQnuMNCUXVZd6TOwY"
+      "duration_ms": 107153,
+      "name": "QUE DIABLOS HICE (INTERLUDE)",
+      "url": "https://open.spotify.com/track/7qHPpmIEa0YRnMf1d0XoWj"
     },
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Veneno Mortal",
-        "url": "https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        }
-      ],
-      "duration_ms": 217182,
-      "name": "Me Prendes",
-      "url": "https://open.spotify.com/track/2ZrZyoZJub4kQyIXmxl47l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tu Veneno Mortal, Vol. 2",
         "url": "https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg"
       },
@@ -543,22 +527,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "NOSTALGIA",
-        "url": "https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd"
+        "name": "Tu Veneno Mortal",
+        "url": "https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx"
       },
       "artists": [
         {
           "name": "Eslabon Armado",
           "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
         }
       ],
-      "duration_ms": 238560,
-      "name": "DOS MORRITAS",
-      "url": "https://open.spotify.com/track/2gpaJPUWNx2xmOwy2NNLu8"
+      "duration_ms": 217182,
+      "name": "Me Prendes",
+      "url": "https://open.spotify.com/track/2ZrZyoZJub4kQyIXmxl47l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corta Venas",
+        "url": "https://open.spotify.com/album/7C8Wi2KmO6MqPYZqNuhZ1W"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "duration_ms": 307375,
+      "name": "Ando M\u00e1s Que Mal",
+      "url": "https://open.spotify.com/track/2uVW9s3bC14wp15d3Ma6EO"
     },
     {
       "added_at": null,
@@ -579,18 +575,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corta Venas",
-        "url": "https://open.spotify.com/album/7C8Wi2KmO6MqPYZqNuhZ1W"
+        "name": "NOSTALGIA",
+        "url": "https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd"
       },
       "artists": [
         {
           "name": "Eslabon Armado",
           "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
         }
       ],
-      "duration_ms": 307375,
-      "name": "Ando M\u00e1s Que Mal",
-      "url": "https://open.spotify.com/track/2uVW9s3bC14wp15d3Ma6EO"
+      "duration_ms": 238560,
+      "name": "DOS MORRITAS",
+      "url": "https://open.spotify.com/track/2gpaJPUWNx2xmOwy2NNLu8"
     },
     {
       "added_at": null,

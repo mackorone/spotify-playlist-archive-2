@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1UAAXbCUqhTWG7W1XehHbK.md) - [plain]
 
 > &quot;Indie Essentials&quot; is the ultimate playlist for indie music fans\. It features tracks from influential and iconic indie artists, showcasing the diversity and creativity of the genre\. Discover new and old classics in the indie spirit.
 
-[Indie Music](https://open.spotify.com/user/eqiomkuuw0lc4nplre0xyx9dg) - 580 likes - 101 songs - 5 hr 55 min
+[Indie Music](https://open.spotify.com/user/eqiomkuuw0lc4nplre0xyx9dg) - 580 likes - 102 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,5 +109,6 @@ pretty - [cumulative](/playlists/cumulative/1UAAXbCUqhTWG7W1XehHbK.md) - [plain]
 | 99 | [Absence](https://open.spotify.com/track/6OHV8uVJTMY364wZnHDnGT) | [Forever Factory](https://open.spotify.com/artist/53C0PQbEIv809l7k0jwLcH) | [Absence](https://open.spotify.com/album/5kU8SjJJtKDz1zNrIS1IkA) | 3:14 |
 | 100 | [Get Me Out A Can Light](https://open.spotify.com/track/2oQZNRoOBDLNLWSC9txl47) | [Tom Burton](https://open.spotify.com/artist/4gHMj05Ks2ZFf4vQZHIFrX) | [Songbook '126\-'127](https://open.spotify.com/album/7MYAJOatgBYiJW0BQ4Omou) | 3:15 |
 | 101 | [African Sky](https://open.spotify.com/track/2aiW0epKtoG6XgUCzh1opp) | [The Color Blew](https://open.spotify.com/artist/6mnHAaGTCbeNA07xwFbWvz) | [Light Switch](https://open.spotify.com/album/55iQV1wqNmicvSeYMRI0eP) | 3:20 |
+| 102 | [Nobody Else](https://open.spotify.com/track/5eR7DNmNasxNbaBRYzoUEI) | [Belonging](https://open.spotify.com/artist/35Hu3Q5BlAlQgUDH3jATl7) | [Nobody Else](https://open.spotify.com/album/3ddpL290hC2bOzbWHveGLr) | 3:21 |
 
-Snapshot ID: `AAADuoVA92rOQ93nC1tFMWJJMc3GRaG8`
+Snapshot ID: `AAADuyaDmuWhyD1aelvubE+Bxf7V6Evw`

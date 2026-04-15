@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRc3WJklgBs.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,257,921 likes - 176 songs - 9 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,257,883 likes - 176 songs - 9 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRc3WJklgBs.md) - [plain]
 | 19 | [Beautiful \(with Joji\)](https://open.spotify.com/track/1vH3BkNnHqOpWA4jsmDEH2) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Beautiful \(with Joji\)](https://open.spotify.com/album/2CpahiICjXexEynp7scGe4) | 3:35 |
 | 20 | [I had a dream...](https://open.spotify.com/track/4IKowbCQsk8o6AQPaYvzQC) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [I had a dream...](https://open.spotify.com/album/4a0XPueH1gK27EtPLCZVp0) | 2:39 |
 | 21 | [Forever \(feat\. Malou & Yuna\)](https://open.spotify.com/track/0WS1qLcXKsCGt5e3dqq30S) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Forever \(feat\. Malou & Yuna\)](https://open.spotify.com/album/4nXpTQXjFGtB5n3vC76IBR) | 2:20 |
-| 22 | [SHADOWS](https://open.spotify.com/track/7esJ56tKqU6aWABAdJJrFR) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6) | [SHADOWS](https://open.spotify.com/album/2kjMYQKKsGLAivQKy6Hbtp) | 3:22 |
+| 22 | [SHADOWS](https://open.spotify.com/track/7esJ56tKqU6aWABAdJJrFR) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6) | [SHADOWS](https://open.spotify.com/album/2kjMYQKKsGLAivQKy6Hbtp) | 3:21 |
 | 23 | [3am](https://open.spotify.com/track/7qAuCJDxFwt6Zp8WWVK15h) | [Łaszewo](https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN) | [3am](https://open.spotify.com/album/4iwqQzA2I4bjGedTQjCKQV) | 2:52 |
 | 24 | [With You](https://open.spotify.com/track/2niEmkDmcR2T0ch2qPPoLm) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [With You](https://open.spotify.com/album/1STaSLMAgjTvXuQTOqyvEw) | 3:21 |
 | 25 | [i need u](https://open.spotify.com/track/6b86AhZ0bwJrjLaRqFnB7L) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [i need u](https://open.spotify.com/album/2t6Ie2kxapG2kMs4hxRJmt) | 3:45 |

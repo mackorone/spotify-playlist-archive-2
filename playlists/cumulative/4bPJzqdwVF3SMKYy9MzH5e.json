@@ -30385,6 +30385,24 @@
     },
     {
       "album": {
+        "name": "Piece Of My Soul",
+        "url": "https://open.spotify.com/album/61JOQRSDrDZhtSAUxFhQso"
+      },
+      "artists": [
+        {
+          "name": "Diffrent",
+          "url": "https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162374,
+      "name": "Piece Of My Soul",
+      "url": "https://open.spotify.com/track/3ECemWbXbG8XAuuI8M2Eft"
+    },
+    {
+      "album": {
         "name": "Dubois: Divertissement",
         "url": "https://open.spotify.com/album/0HSJdp7xvGgBNdLIrnXFir"
       },

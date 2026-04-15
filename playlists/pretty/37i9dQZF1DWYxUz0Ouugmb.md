@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxUz0Ouugmb.md) - [plain]
 
 ### [RADAR Indonesia ](https://open.spotify.com/playlist/37i9dQZF1DWYxUz0Ouugmb)
 
-> Deretan musisi dalam negeri yang patut diantisipasi di 2026\.  Cover: eńau
+> Deretan musisi dalam negeri yang patut diantisipasi di 2026\.  Cover: Betrand Putra Onsu
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,907 likes - 20 songs - 1 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,921 likes - 20 songs - 1 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxUz0Ouugmb.md) - [plain]
 | 19 | [Di Bawah Bulan](https://open.spotify.com/track/5CKHQCnxs8gXpsiCmMBMXO) | [PORIS](https://open.spotify.com/artist/6oW4eaSyUiBItGKBghBSTe), [Bhanz](https://open.spotify.com/artist/4ZD0SSgtx6xpX7uYqsIE5Q), [Wicigo Shawty](https://open.spotify.com/artist/11YdJ9365MP5iprTsq8plx), [Concerto](https://open.spotify.com/artist/4NS5bBuhLGEigxOjxTtzSZ) | [Di Bawah Bulan Di Atas Atap](https://open.spotify.com/album/2F3M39tS7SpDui9wSfm8EU) | 2:47 |
 | 20 | [Strategi](https://open.spotify.com/track/2vaYXTUux8AWI8miWBzNTa) | [Maisha Kanna](https://open.spotify.com/artist/4E46R3KgyeZmiJjeCaCQze) | [Katanya Bahagia Jatuh Cinta](https://open.spotify.com/album/1SpKCPTTtjTZDSRGW8tc7l) | 3:17 |
 
-Snapshot ID: `AAAAAE3EsSWzXa8mUDFoEgqydroYMF2g`
+Snapshot ID: `AAAAAE0WsrSZUy14dBJiMpXswRrRaSVe`

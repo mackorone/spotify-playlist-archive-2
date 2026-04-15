@@ -959,6 +959,24 @@
     },
     {
       "album": {
+        "name": "When All Is Lost",
+        "url": "https://open.spotify.com/album/0UoFs4vHjDjOTcigIAAJcK"
+      },
+      "artists": [
+        {
+          "name": "Boundless Echoes",
+          "url": "https://open.spotify.com/artist/6MabNjOvXDNYufvCBf8vQA"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "All Is Lost",
+      "url": "https://open.spotify.com/track/6DLmXJHLcIpfn2fU25DvAw"
+    },
+    {
+      "album": {
         "name": "All My Fault",
         "url": "https://open.spotify.com/album/0r5SdB7rVTLWVY57npp7jw"
       },
@@ -988,7 +1006,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 164016,
       "name": "All My Friends",
       "url": "https://open.spotify.com/track/2SoNF5iu5JnFWqOHR89QOM"
@@ -1678,7 +1696,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 157440,
       "name": "AS I BLEED",
       "url": "https://open.spotify.com/track/5WtuUKKJbwIfHgl90dBM6v"
@@ -1884,7 +1902,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 162468,
       "name": "Avenues",
       "url": "https://open.spotify.com/track/5FV1ufl7Bzpuxda2ny6NdP"
@@ -5098,6 +5116,24 @@
       "duration_ms": 188136,
       "name": "Come Home",
       "url": "https://open.spotify.com/track/2o7PNFGaY2RGbGGZXXCBys"
+    },
+    {
+      "album": {
+        "name": "Come Inside, Babe",
+        "url": "https://open.spotify.com/album/2s0MxD9h8uKCzNQ9NRkAeI"
+      },
+      "artists": [
+        {
+          "name": "Cream Crown",
+          "url": "https://open.spotify.com/artist/0w70rp8GnDExAZAkx6548R"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211422,
+      "name": "Come Inside, Babe",
+      "url": "https://open.spotify.com/track/0bqCG3mTXYkmTBRf0KkbRr"
     },
     {
       "album": {
@@ -10800,7 +10836,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 238330,
       "name": "Happy",
       "url": "https://open.spotify.com/track/29Zsq0HMkfCjC6o2P6Okwk"
@@ -11656,6 +11692,24 @@
       "duration_ms": 173374,
       "name": "HOLLOW UTOPIA",
       "url": "https://open.spotify.com/track/6jG8rJ5ih9dhcLICjHMSWA"
+    },
+    {
+      "album": {
+        "name": "Holly Creek",
+        "url": "https://open.spotify.com/album/1FW2D1ZCOKr9xlMTP4X7sx"
+      },
+      "artists": [
+        {
+          "name": "Overly Human Highly Blue",
+          "url": "https://open.spotify.com/artist/3qZMBKdUm4gcYKJ8WQyiCZ"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184500,
+      "name": "Holly Creek",
+      "url": "https://open.spotify.com/track/3lHcUCBfB8tQF3EdfbrqxQ"
     },
     {
       "album": {
@@ -12539,6 +12593,24 @@
     },
     {
       "album": {
+        "name": "I will never forget",
+        "url": "https://open.spotify.com/album/70mOCEPVf0rgQ1mbL3jRAr"
+      },
+      "artists": [
+        {
+          "name": "Earthplane Music",
+          "url": "https://open.spotify.com/artist/2xuFZssbgQwT3YGrfMFk7Q"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164560,
+      "name": "I will never forget",
+      "url": "https://open.spotify.com/track/3SI7BdxfjX2Dwrnc2i6eGb"
+    },
+    {
+      "album": {
         "name": "I Will Survive",
         "url": "https://open.spotify.com/album/5c0tOfj6Kj7kjHz4cZ5CCo"
       },
@@ -12586,7 +12658,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 313253,
       "name": "I'd Rather Fly",
       "url": "https://open.spotify.com/track/6Opjh4EIfuSHjuI3QU2nxG"
@@ -13022,7 +13094,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 213428,
       "name": "Illusions",
       "url": "https://open.spotify.com/track/1u9R98jo9auY7tAB81CEi7"
@@ -17897,6 +17969,24 @@
     },
     {
       "album": {
+        "name": "Nemigzarim Ma",
+        "url": "https://open.spotify.com/album/4TCz7z6FFcb6Bjkhi10RCD"
+      },
+      "artists": [
+        {
+          "name": "Ali Ghavam",
+          "url": "https://open.spotify.com/artist/0afl9lSwBpQH9gC0xYHmbO"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217286,
+      "name": "Nemigzarim Ma",
+      "url": "https://open.spotify.com/track/2lHt6LMobzJg7O6pkIwfNq"
+    },
+    {
+      "album": {
         "name": "Body Error",
         "url": "https://open.spotify.com/album/6LQ4N9WN39vhd4mUt0aVDx"
       },
@@ -20732,7 +20822,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 163866,
       "name": "Prize",
       "url": "https://open.spotify.com/track/2oUJ5XjUVk8Ickyz8QgG9r"
@@ -26728,7 +26818,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 192005,
       "name": "The Worst",
       "url": "https://open.spotify.com/track/22neKTCWejSvcH1fqQM23l"
@@ -27582,7 +27672,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 169599,
       "name": "Toxic Diva",
       "url": "https://open.spotify.com/track/47ebbEXbbHWHeCi3SwlLSf"
@@ -29022,7 +29112,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 126443,
       "name": "What U Freakin'",
       "url": "https://open.spotify.com/track/625Vv9jlZ3UNrEb16buqZq"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 
 > Mantras for meditation
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,378 likes - 75 songs - 15 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,437 likes - 75 songs - 15 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 | 74 | [Rudra Mantra](https://open.spotify.com/track/1RyjrVBee8sK11gO9aEeqJ) | [Prem Dhiman](https://open.spotify.com/artist/6cRb7fOsn2JbgHGpF0MLCJ), [TMC RECORDS](https://open.spotify.com/artist/665d2SHOpLoWMeo5oqoGZV) | [Rudra Mantra](https://open.spotify.com/album/3MtxV01IRpaJ44vEumlsf4) | 9:13 |
 | 75 | [Ram Naam Chanting](https://open.spotify.com/track/0Ardq6W5vPAttUuQR2WGt2) | [Palak Sharma](https://open.spotify.com/artist/4NO7tLuZuP8T3KfvGUYtuG), [JusKeys](https://open.spotify.com/artist/3WOftlTipq4ezwzR72Pkwc), [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf) | [Ram Naam Chanting](https://open.spotify.com/album/2a3szoALUteejLabQS39M1) | 18:01 |
 
-Snapshot ID: `AAAAAI4lwUQPhG4td3LfLPOjg0lxJyEf`
+Snapshot ID: `AAAAANa+JEBhW+VOqAn8cjqdq2pLKSAP`

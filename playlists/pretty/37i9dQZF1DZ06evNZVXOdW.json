@@ -1,12 +1,12 @@
 {
   "description": "This is Arooj Aftab. The essential tracks, all in one playlist.",
-  "num_followers": 9480,
+  "num_followers": 9481,
   "original_name": "This Is Arooj Aftab",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adrggAAAAAAUSVVDnRPLTSffjh2MVA2Z",
+  "snapshot_id": "adwyAAAAAAAkvY/+CKsW5H4xKV582sv/",
   "tracks": [
     {
       "added_at": null,
@@ -363,22 +363,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tails Noir (Original Game Soundtrack)",
-        "url": "https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy"
+        "name": "Love In Exile",
+        "url": "https://open.spotify.com/album/0nP1MzWoPnLfLglLS0v4CQ"
       },
       "artists": [
         {
-          "name": "Danshin",
-          "url": "https://open.spotify.com/artist/2peNiVtIS127PmCOabTB4Q"
-        },
-        {
           "name": "Arooj Aftab",
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        },
+        {
+          "name": "Vijay Iyer",
+          "url": "https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6"
+        },
+        {
+          "name": "Shahzad Ismaily",
+          "url": "https://open.spotify.com/artist/4FaBmP30QiO2lXc3yyuqrV"
         }
       ],
-      "duration_ms": 119500,
-      "name": "Beyond the Smoke Screen",
-      "url": "https://open.spotify.com/track/2xdoRmz28lop5nqCc4v1GC"
+      "duration_ms": 728064,
+      "name": "Haseen Thi",
+      "url": "https://open.spotify.com/track/4e8agQaMAW7fb6xZaL8eJ1"
     },
     {
       "added_at": null,
@@ -435,46 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love In Exile",
-        "url": "https://open.spotify.com/album/0nP1MzWoPnLfLglLS0v4CQ"
-      },
-      "artists": [
-        {
-          "name": "Arooj Aftab",
-          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        },
-        {
-          "name": "Vijay Iyer",
-          "url": "https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6"
-        },
-        {
-          "name": "Shahzad Ismaily",
-          "url": "https://open.spotify.com/artist/4FaBmP30QiO2lXc3yyuqrV"
-        }
-      ],
-      "duration_ms": 728064,
-      "name": "Haseen Thi",
-      "url": "https://open.spotify.com/track/4e8agQaMAW7fb6xZaL8eJ1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bird Under Water",
-        "url": "https://open.spotify.com/album/1NAirccLvSolVSRuDNQ61R"
-      },
-      "artists": [
-        {
-          "name": "Arooj Aftab",
-          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        }
-      ],
-      "duration_ms": 327373,
-      "name": "Na Ja Balam",
-      "url": "https://open.spotify.com/track/66ska8dvz4hRD4QVu0kg0M"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tails Noir (Original Game Soundtrack)",
         "url": "https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy"
       },
@@ -488,25 +452,9 @@
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
         }
       ],
-      "duration_ms": 410467,
-      "name": "Rainy Streets",
-      "url": "https://open.spotify.com/track/4LS4KDv8dOJ4HNNX6bolN0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Talvar",
-        "url": "https://open.spotify.com/album/2HScIV6V5QLSYZ6vyyctLT"
-      },
-      "artists": [
-        {
-          "name": "Arooj Aftab",
-          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        }
-      ],
-      "duration_ms": 200189,
-      "name": "Insaaf",
-      "url": "https://open.spotify.com/track/64zx8gCOeKKu3KINU2KiVb"
+      "duration_ms": 119500,
+      "name": "Beyond the Smoke Screen",
+      "url": "https://open.spotify.com/track/2xdoRmz28lop5nqCc4v1GC"
     },
     {
       "added_at": null,
@@ -544,9 +492,25 @@
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
         }
       ],
-      "duration_ms": 443200,
-      "name": "Baghon Main Pade Jhoole",
-      "url": "https://open.spotify.com/track/5hY2lOw1uHHkBPvXVR1EHj"
+      "duration_ms": 327373,
+      "name": "Na Ja Balam",
+      "url": "https://open.spotify.com/track/66ska8dvz4hRD4QVu0kg0M"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Talvar",
+        "url": "https://open.spotify.com/album/2HScIV6V5QLSYZ6vyyctLT"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "duration_ms": 200189,
+      "name": "Insaaf",
+      "url": "https://open.spotify.com/track/64zx8gCOeKKu3KINU2KiVb"
     },
     {
       "added_at": null,
@@ -562,31 +526,11 @@
         {
           "name": "Arooj Aftab",
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        },
-        {
-          "name": "\u0410\u043d\u043d\u0430 \u0411\u043e",
-          "url": "https://open.spotify.com/artist/7yK1qjHgjhzJIJj5jGqLvS"
         }
       ],
-      "duration_ms": 211248,
-      "name": "Abode",
-      "url": "https://open.spotify.com/track/1QJp3p6CpuXcYdKx4DrS4I"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Siren Islands",
-        "url": "https://open.spotify.com/album/3JXHEKcmSRlvDesUhccbDZ"
-      },
-      "artists": [
-        {
-          "name": "Arooj Aftab",
-          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        }
-      ],
-      "duration_ms": 477881,
-      "name": "Island No. 2",
-      "url": "https://open.spotify.com/track/3bzgUpxZiRmIJVbU78QrzW"
+      "duration_ms": 410467,
+      "name": "Rainy Streets",
+      "url": "https://open.spotify.com/track/4LS4KDv8dOJ4HNNX6bolN0"
     },
     {
       "added_at": null,
@@ -615,26 +559,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "KARPEH",
-        "url": "https://open.spotify.com/album/71VLepfDo6qnAAHA0SUoyF"
+        "name": "Bird Under Water",
+        "url": "https://open.spotify.com/album/1NAirccLvSolVSRuDNQ61R"
       },
       "artists": [
         {
-          "name": "Cautious Clay",
-          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
-        },
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "duration_ms": 443200,
+      "name": "Baghon Main Pade Jhoole",
+      "url": "https://open.spotify.com/track/5hY2lOw1uHHkBPvXVR1EHj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Siren Islands",
+        "url": "https://open.spotify.com/album/3JXHEKcmSRlvDesUhccbDZ"
+      },
+      "artists": [
         {
           "name": "Arooj Aftab",
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        },
-        {
-          "name": "Kai Eckhardt",
-          "url": "https://open.spotify.com/artist/3JgcK7OoWQulW1MzuoGnAI"
         }
       ],
-      "duration_ms": 197474,
-      "name": "Glass Face",
-      "url": "https://open.spotify.com/track/1jipF7y9D9tXnpK08W73ZK"
+      "duration_ms": 477881,
+      "name": "Island No. 2",
+      "url": "https://open.spotify.com/track/3bzgUpxZiRmIJVbU78QrzW"
     },
     {
       "added_at": null,
@@ -650,27 +602,15 @@
         {
           "name": "Arooj Aftab",
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        }
-      ],
-      "duration_ms": 185227,
-      "name": "Starling",
-      "url": "https://open.spotify.com/track/5AYoaXGvbUYMnMlfAP62uT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Siren Islands",
-        "url": "https://open.spotify.com/album/3JXHEKcmSRlvDesUhccbDZ"
-      },
-      "artists": [
+        },
         {
-          "name": "Arooj Aftab",
-          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+          "name": "\u0410\u043d\u043d\u0430 \u0411\u043e",
+          "url": "https://open.spotify.com/artist/7yK1qjHgjhzJIJj5jGqLvS"
         }
       ],
-      "duration_ms": 1064071,
-      "name": "Island No. 3",
-      "url": "https://open.spotify.com/track/6PUiTTMMKt4Re2xbC9kt90"
+      "duration_ms": 211248,
+      "name": "Abode",
+      "url": "https://open.spotify.com/track/1QJp3p6CpuXcYdKx4DrS4I"
     },
     {
       "added_at": null,
@@ -699,22 +639,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revolution (Remix)",
-        "url": "https://open.spotify.com/album/3uj3zZyoFtZLaJLioxmGhm"
+        "name": "KARPEH",
+        "url": "https://open.spotify.com/album/71VLepfDo6qnAAHA0SUoyF"
       },
       "artists": [
+        {
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+        },
         {
           "name": "Arooj Aftab",
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
         },
         {
-          "name": "Qais Essar",
-          "url": "https://open.spotify.com/artist/15IBl7509ZIifHQ6IhYynD"
+          "name": "Kai Eckhardt",
+          "url": "https://open.spotify.com/artist/3JgcK7OoWQulW1MzuoGnAI"
         }
       ],
-      "duration_ms": 635805,
-      "name": "Dil Jalaney Ki Baat",
-      "url": "https://open.spotify.com/track/5zKuk2XqZhqNDXTC8es73z"
+      "duration_ms": 197474,
+      "name": "Glass Face",
+      "url": "https://open.spotify.com/track/1jipF7y9D9tXnpK08W73ZK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Siren Islands",
+        "url": "https://open.spotify.com/album/3JXHEKcmSRlvDesUhccbDZ"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "duration_ms": 1064071,
+      "name": "Island No. 3",
+      "url": "https://open.spotify.com/track/6PUiTTMMKt4Re2xbC9kt90"
     },
     {
       "added_at": null,
@@ -732,29 +692,9 @@
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
         }
       ],
-      "duration_ms": 168565,
-      "name": "Coming Home, Pt. 2",
-      "url": "https://open.spotify.com/track/54c3SDfAFIhf5zYlFLH5iC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SPELLJAMS",
-        "url": "https://open.spotify.com/album/3HAMuPpHQQKKKJcH2dUNsa"
-      },
-      "artists": [
-        {
-          "name": "Deru",
-          "url": "https://open.spotify.com/artist/4GolrXXRODq7bAGCod4JoV"
-        },
-        {
-          "name": "Arooj Aftab",
-          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        }
-      ],
-      "duration_ms": 469421,
-      "name": "Forgotten Land",
-      "url": "https://open.spotify.com/track/6Uy2qxvaOqV1YlF9kj0XJO"
+      "duration_ms": 185227,
+      "name": "Starling",
+      "url": "https://open.spotify.com/track/5AYoaXGvbUYMnMlfAP62uT"
     },
     {
       "added_at": null,
@@ -783,6 +723,66 @@
     {
       "added_at": null,
       "album": {
+        "name": "Revolution (Remix)",
+        "url": "https://open.spotify.com/album/3uj3zZyoFtZLaJLioxmGhm"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        },
+        {
+          "name": "Qais Essar",
+          "url": "https://open.spotify.com/artist/15IBl7509ZIifHQ6IhYynD"
+        }
+      ],
+      "duration_ms": 635805,
+      "name": "Dil Jalaney Ki Baat",
+      "url": "https://open.spotify.com/track/5zKuk2XqZhqNDXTC8es73z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SPELLJAMS",
+        "url": "https://open.spotify.com/album/3HAMuPpHQQKKKJcH2dUNsa"
+      },
+      "artists": [
+        {
+          "name": "Deru",
+          "url": "https://open.spotify.com/artist/4GolrXXRODq7bAGCod4JoV"
+        },
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "duration_ms": 469421,
+      "name": "Forgotten Land",
+      "url": "https://open.spotify.com/track/6Uy2qxvaOqV1YlF9kj0XJO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tails Noir (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy"
+      },
+      "artists": [
+        {
+          "name": "Danshin",
+          "url": "https://open.spotify.com/artist/2peNiVtIS127PmCOabTB4Q"
+        },
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "duration_ms": 168565,
+      "name": "Coming Home, Pt. 2",
+      "url": "https://open.spotify.com/track/54c3SDfAFIhf5zYlFLH5iC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Naja",
         "url": "https://open.spotify.com/album/7MpNznYeg3ZmWOphysV7BU"
       },
@@ -799,6 +799,22 @@
       "duration_ms": 542837,
       "name": "Naja",
       "url": "https://open.spotify.com/track/2DpDe6nEOF3ihFksRY7jKc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Siren Islands",
+        "url": "https://open.spotify.com/album/3JXHEKcmSRlvDesUhccbDZ"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "duration_ms": 911913,
+      "name": "Ovid's Metamorphoses",
+      "url": "https://open.spotify.com/track/16EpeiRPTdWLvuKZdpi6mi"
     },
     {
       "added_at": null,

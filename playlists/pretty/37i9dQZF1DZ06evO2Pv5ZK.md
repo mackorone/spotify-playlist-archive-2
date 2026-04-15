@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Pv5ZK.md) - [plain]
 
 > This is Vangelis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,144 likes - 50 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,148 likes - 50 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Pv5ZK.md) - [plain]
 | 42 | [12 O'Clock](https://open.spotify.com/track/5cijIVFJvAeCTn933Pr6xW) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Best Of](https://open.spotify.com/album/6sPYk2K1ZoF9mJJfF1Yp39) | 5:31 |
 | 43 | [Main Theme \- From "Chariots of Fire"](https://open.spotify.com/track/48UwCtPwY0XMXEyMWXumK1) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Nocturne](https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK) | 5:26 |
 | 44 | [Spanish Harbour](https://open.spotify.com/track/6PKyIEkpoyOh9K47NdHTzG) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Oceanic](https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb) | 6:42 |
-| 45 | [Prelude](https://open.spotify.com/track/5JHt6zZyzZc6OS9Ugz4Gw8) | [Vassilis Saleas](https://open.spotify.com/artist/66OwTEGfeqS7497NnR99cj), [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Orama](https://open.spotify.com/album/51s6WeUBQ2vFBkVVyykCGt) | 4:24 |
+| 45 | [L'enfant](https://open.spotify.com/track/3vL5oFXB5ZDhYbzwmp3mnc) | [Vassilis Saleas](https://open.spotify.com/artist/66OwTEGfeqS7497NnR99cj), [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Orama](https://open.spotify.com/album/51s6WeUBQ2vFBkVVyykCGt) | 3:43 |
 | 46 | [In the magic of Cosmos](https://open.spotify.com/track/6l6eGJDCe2d0sEsgJNi2cU) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [In the magic of Cosmos](https://open.spotify.com/album/4TAdRpNFxDNE2Y36OfPXS1) | 2:07 |
 | 47 | [Nocturnal Promenade](https://open.spotify.com/track/55PQaWj0EcF5YWPthNi7fb) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Nocturne](https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK) | 5:51 |
 | 48 | [Twilight](https://open.spotify.com/track/6o3wjXTROS51upZkU9Fk07) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [The City](https://open.spotify.com/album/5YisV9UHQtoAZHtbLrva9r) | 4:57 |
-| 49 | [L'enfant](https://open.spotify.com/track/3vL5oFXB5ZDhYbzwmp3mnc) | [Vassilis Saleas](https://open.spotify.com/artist/66OwTEGfeqS7497NnR99cj), [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Orama](https://open.spotify.com/album/51s6WeUBQ2vFBkVVyykCGt) | 3:43 |
+| 49 | [Prelude](https://open.spotify.com/track/5JHt6zZyzZc6OS9Ugz4Gw8) | [Vassilis Saleas](https://open.spotify.com/artist/66OwTEGfeqS7497NnR99cj), [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Orama](https://open.spotify.com/album/51s6WeUBQ2vFBkVVyykCGt) | 4:24 |
 | 50 | [Longing](https://open.spotify.com/track/7vI1UAd3OZNdsZ7sth2CDf) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Nocturne](https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK) | 3:45 |
 
-Snapshot ID: `adrggAAAAABu9Zv5JaGHR3VEeARHBmTB`
+Snapshot ID: `adwyAAAAAAAVnwP6a2gwujOr5dinhtpk`

@@ -1,12 +1,12 @@
 {
   "description": "Celebrating individuality within independent music",
-  "num_followers": 1170,
+  "num_followers": 1169,
   "original_name": "INDI(E)VIDUAL",
   "owner": {
     "name": "The Mushy Pea",
     "url": "https://open.spotify.com/user/1139243362"
   },
-  "snapshot_id": "AAAOESMa6WZCm4ynucPehfpANJKnb8NZ",
+  "snapshot_id": "AAAOFcrzn+RNTOLRTFId9ZDmy6ni+IbT",
   "tracks": [
     {
       "added_at": "2026-03-31 12:00:09",
@@ -1879,6 +1879,70 @@
       "duration_ms": 190661,
       "name": "Dusty",
       "url": "https://open.spotify.com/track/5hWvpIKz06G3iKvQaU2zXT"
+    },
+    {
+      "added_at": "2026-04-14 09:47:29",
+      "album": {
+        "name": "Words",
+        "url": "https://open.spotify.com/album/0yztP7IlMVPkikumfDSHDo"
+      },
+      "artists": [
+        {
+          "name": "The Fossil",
+          "url": "https://open.spotify.com/artist/2zs3Ho6Kt2iDspmKCieyRX"
+        }
+      ],
+      "duration_ms": 224494,
+      "name": "Words",
+      "url": "https://open.spotify.com/track/1NWjkkZgUYEWROtrzn4DGm"
+    },
+    {
+      "added_at": "2026-04-14 09:48:11",
+      "album": {
+        "name": "Cherry Wine",
+        "url": "https://open.spotify.com/album/0VzEK8ziTsdwXszlm2QvDq"
+      },
+      "artists": [
+        {
+          "name": "Ain't no Ducks",
+          "url": "https://open.spotify.com/artist/6gpSt6r2hIoVRHzOcNxF6U"
+        }
+      ],
+      "duration_ms": 170364,
+      "name": "Cherry Wine",
+      "url": "https://open.spotify.com/track/0bNsre3voeNutKYyhRpdiA"
+    },
+    {
+      "added_at": "2026-04-14 09:50:09",
+      "album": {
+        "name": "Blanket Dreams",
+        "url": "https://open.spotify.com/album/4M47wTUTOrVeFg50G5cXbl"
+      },
+      "artists": [
+        {
+          "name": "Baggs",
+          "url": "https://open.spotify.com/artist/44k6sRhRRAW6Uy85KCr9Ti"
+        }
+      ],
+      "duration_ms": 214285,
+      "name": "Blanket Dreams",
+      "url": "https://open.spotify.com/track/2tBYXZBymRJRGMMH9t1oF2"
+    },
+    {
+      "added_at": "2026-04-14 09:51:24",
+      "album": {
+        "name": "tomgirl (I'm in my head)",
+        "url": "https://open.spotify.com/album/0Ftd1eloccWWqXf6QzFLSv"
+      },
+      "artists": [
+        {
+          "name": "Quentin",
+          "url": "https://open.spotify.com/artist/4GpI0u4lFwCzzYnwNlglbi"
+        }
+      ],
+      "duration_ms": 177892,
+      "name": "tomgirl (I'm in my head)",
+      "url": "https://open.spotify.com/track/3BhLkRiTI1VVOHXL0JB7ze"
     }
   ],
   "unique_name": "INDI(E)VIDUAL",

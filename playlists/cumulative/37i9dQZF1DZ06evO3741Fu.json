@@ -24,7 +24,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 184346,
       "name": "1966 interrupted",
       "url": "https://open.spotify.com/track/7wTJ09Js663KEVqUjs3MSD"
@@ -144,7 +144,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-13",
+      "date_removed": null,
       "duration_ms": 32680,
       "name": "Ascending and Decending Sequences of Varying Nature iv",
       "url": "https://open.spotify.com/track/52tQ2R5lWx81lUbSEUpBJo"
@@ -259,6 +259,24 @@
     },
     {
       "album": {
+        "name": "Beauty and The Beast",
+        "url": "https://open.spotify.com/album/41pm4eRFXr2KdACByVaEtJ"
+      },
+      "artists": [
+        {
+          "name": "Daphne Oram",
+          "url": "https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 500133,
+      "name": "Contrasts Essconic",
+      "url": "https://open.spotify.com/track/4OhPlEWi7iZuj9VzatogJz"
+    },
+    {
+      "album": {
         "name": "Dr. Faustus Suite",
         "url": "https://open.spotify.com/album/6omAW7tFneti1UJiGhBQeS"
       },
@@ -332,7 +350,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 334204,
       "name": "Episode Metallic",
       "url": "https://open.spotify.com/track/6904m8Sxjj0FGdd02o7FHt"
@@ -450,7 +468,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-04",
+      "date_removed": null,
       "duration_ms": 211933,
       "name": "Gosamour",
       "url": "https://open.spotify.com/track/1JmpvnhDfbbVZeNDJ4RoWg"
@@ -672,7 +690,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 39413,
       "name": "Rhythmic Variations ii",
       "url": "https://open.spotify.com/track/61ZHkqfltlPLaL1bZil7mV"

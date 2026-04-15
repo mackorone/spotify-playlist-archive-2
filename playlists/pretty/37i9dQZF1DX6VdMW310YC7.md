@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VdMW310YC7.md) - [plain]
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,916,560 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,916,381 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VdMW310YC7.md) - [plain]
 | 47 | [Maitri](https://open.spotify.com/track/0xFHnQK9wKmpkDdqKtgOt5) | [Godblesscomputers](https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT) | [Maitri](https://open.spotify.com/album/2q2KMPcrknWvv81MReT6mX) | 2:57 |
 | 48 | [Something Right](https://open.spotify.com/track/4m7n8fwmFXIopFBzWbmlzj) | [Eric Luttrell](https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2), [Molly Moonwater](https://open.spotify.com/artist/0z8KcRUs0oUnn9fdQ3jn7O) | [Something Right](https://open.spotify.com/album/3NgRCeEQNc1mSlcbQBUnEI) | 2:55 |
 | 49 | [I Just Needed This](https://open.spotify.com/track/13tazuEkVNXdCVXV9S6vFl) | [Polar Inc.](https://open.spotify.com/artist/5r2fdrpH44S8EdFXO4jWfI), [Keepa](https://open.spotify.com/artist/5cW3W1SgE0AQaCdDRPBo7h) | [I Just Needed This](https://open.spotify.com/album/6CVvgJlFjWpGdor9nEc3j5) | 4:04 |
-| 50 | [Change of Driver](https://open.spotify.com/track/61J1SikiocG2bFnyQDWM9x) | [Falden](https://open.spotify.com/artist/6O5LAkus9iGG1vvMGu5mDo), [PEARL](https://open.spotify.com/artist/4AAxjxn38kzekIxZ7G4e3W) | [Change of Driver](https://open.spotify.com/album/1eOiRwEPNOmeENq1PEy5ia) | 3:51 |
+| 50 | [Change of Driver](https://open.spotify.com/track/61J1SikiocG2bFnyQDWM9x) | [Falden](https://open.spotify.com/artist/6O5LAkus9iGG1vvMGu5mDo), [PEARL](https://open.spotify.com/artist/6hZgNWpmI3Ti681I6IPEvW) | [Change of Driver](https://open.spotify.com/album/1eOiRwEPNOmeENq1PEy5ia) | 3:51 |
 | 51 | [Have It All](https://open.spotify.com/track/2A0BUJTl2JAja9lv64KRJg) | [ANDREA CALABRIA](https://open.spotify.com/artist/4WDwArKRmrfTM3xqu8HiA1) | [Have It All](https://open.spotify.com/album/739Rj4q2KEERTlzzF7eIpT) | 3:33 |
 | 52 | [sicklysweet \- Tobiahs Remix](https://open.spotify.com/track/4Bl7u2Q9Tj3VQn89i3aNYm) | [Jetta](https://open.spotify.com/artist/51V0E9ipJyIj7yFDkaLx96), [Tobiahs](https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs) | [sicklysweet \(Tobiahs Remix\)](https://open.spotify.com/album/3hCHGxMG8nSjjdCdlEZtBh) | 2:17 |
 | 53 | [Body](https://open.spotify.com/track/56MET7XMqoUAsoC07pkkSB) | [Nathan C](https://open.spotify.com/artist/2mNOoqXYY177q7TtuqJL9q), [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [Body](https://open.spotify.com/album/3TWWMgB3Jro6ei4vSBFwEa) | 3:24 |

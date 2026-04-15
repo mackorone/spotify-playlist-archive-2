@@ -1,12 +1,12 @@
 {
   "description": "This is Rob Zombie. The essential tracks, all in one playlist.",
-  "num_followers": 135597,
+  "num_followers": 135602,
   "original_name": "This Is Rob Zombie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adrggAAAAAAVZHA8EOZ0lNY6mon9hS0D",
+  "snapshot_id": "adwyAAAAAAAa118eD9Aflm2IZjLSvViJ",
   "tracks": [
     {
       "added_at": null,
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
         }
       ],
-      "duration_ms": 34880,
-      "name": "Who Am I?",
-      "url": "https://open.spotify.com/track/2XLKWMfTb2IEI0hddWfFlD"
+      "duration_ms": 137853,
+      "name": "Heathen Days",
+      "url": "https://open.spotify.com/track/3iH9Ab8O4AWkKK33cWiltm"
     },
     {
       "added_at": null,
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
         }
       ],
-      "duration_ms": 182466,
-      "name": "Tarantula",
-      "url": "https://open.spotify.com/track/4j7PGEopEfNI4Oja2hf2tZ"
+      "duration_ms": 34880,
+      "name": "Who Am I?",
+      "url": "https://open.spotify.com/track/2XLKWMfTb2IEI0hddWfFlD"
     },
     {
       "added_at": null,
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
         }
       ],
-      "duration_ms": 137853,
-      "name": "Heathen Days",
-      "url": "https://open.spotify.com/track/3iH9Ab8O4AWkKK33cWiltm"
+      "duration_ms": 182466,
+      "name": "Tarantula",
+      "url": "https://open.spotify.com/track/4j7PGEopEfNI4Oja2hf2tZ"
     },
     {
       "added_at": null,
@@ -483,18 +483,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "(I'm a) Rock \"N\" Roller",
-        "url": "https://open.spotify.com/album/3kNZlzBdkvkscSUmz7Mg9p"
+        "name": "Past, Present & Future",
+        "url": "https://open.spotify.com/album/3RjfiKRsIHB7wQ1L6KoDEz"
       },
       "artists": [
         {
           "name": "Rob Zombie",
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        },
+        {
+          "name": "Howard Stern",
+          "url": "https://open.spotify.com/artist/7zlb9GG5MVmFkAVptGaGpE"
         }
       ],
-      "duration_ms": 212720,
-      "name": "(I'm a) Rock \"N\" Roller",
-      "url": "https://open.spotify.com/track/1GxE8KmP1PRhLsh0ttixvf"
+      "duration_ms": 234106,
+      "name": "The Great American Nightmare",
+      "url": "https://open.spotify.com/track/1FuSOxJNvBoJbYjHWNbbJB"
     },
     {
       "added_at": null,
@@ -515,22 +519,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Past, Present & Future",
-        "url": "https://open.spotify.com/album/3RjfiKRsIHB7wQ1L6KoDEz"
+        "name": "(I'm a) Rock \"N\" Roller",
+        "url": "https://open.spotify.com/album/3kNZlzBdkvkscSUmz7Mg9p"
       },
       "artists": [
         {
           "name": "Rob Zombie",
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        },
-        {
-          "name": "Howard Stern",
-          "url": "https://open.spotify.com/artist/7zlb9GG5MVmFkAVptGaGpE"
         }
       ],
-      "duration_ms": 234106,
-      "name": "The Great American Nightmare",
-      "url": "https://open.spotify.com/track/1FuSOxJNvBoJbYjHWNbbJB"
+      "duration_ms": 212720,
+      "name": "(I'm a) Rock \"N\" Roller",
+      "url": "https://open.spotify.com/track/1GxE8KmP1PRhLsh0ttixvf"
     },
     {
       "added_at": null,

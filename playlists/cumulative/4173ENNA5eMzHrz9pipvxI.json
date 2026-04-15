@@ -18565,20 +18565,24 @@
     },
     {
       "album": {
-        "name": "Invincible",
+        "name": "Invincible (feat. Lia Knapp)",
         "url": "https://open.spotify.com/album/5ZEtRGpaiwtL5QnqN3Je98"
       },
       "artists": [
         {
           "name": "KAAZE",
           "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
+        },
+        {
+          "name": "Lia Knapp",
+          "url": "https://open.spotify.com/artist/3Kz4SQOGT4Dgwh6C3YnzC0"
         }
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 184615,
-      "name": "Invincible",
+      "name": "Invincible (feat. Lia Knapp)",
       "url": "https://open.spotify.com/track/2ovZAk5eRSGmG6Bxx0cDN7"
     },
     {

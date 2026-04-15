@@ -4,7 +4,7 @@
 
 > This is Panter Bélico\. The essential tracks, all in one playlist.
 
-88 songs - 4 hr 28 min
+89 songs - 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,8 @@
 | [Por Las Hs](https://open.spotify.com/track/1mI4LvAwTbIfQguuyK6juV) | [Los Del Sombrero](https://open.spotify.com/artist/6utxF8SRvXv8eshN0HzsCt), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS), [Arturo Coronel y el Buen Estilo](https://open.spotify.com/artist/4lFwjsLFRLWRtjtsNjl5al) | [Por Las Hs](https://open.spotify.com/album/3nuUwbHMx4SYAAGHtNVlCp) | 2:32 | 2024-01-29 | 2025-08-31 |
 | [Por Tu Maldito Amor](https://open.spotify.com/track/6L6TzXnjMEsMMbBdQJAha1) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [El Mexicano](https://open.spotify.com/album/4ELsblwZ6Dh4jEGbmI6NMl) | 4:00 | 2024-06-03 | 2025-08-31 |
 | [Porque Te Portaste Mal \(En Vivo\)](https://open.spotify.com/track/2W5W8VkZ6VtGMpQGfn4nFT) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [La Amanecida En Vivo Desde "El Carrizal"](https://open.spotify.com/album/2kNkRSLKWyQFoc2BXrfCgR) | 2:44 | 2025-04-12 | 2025-12-06 |
-| [Punto Y Aparte](https://open.spotify.com/track/0pXE345pmmhZfG5zDCtSTr) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Punto Y Aparte](https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF) | 2:38 | 2024-07-07 |  |
+| [Punto Y Aparte](https://open.spotify.com/track/0pXE345pmmhZfG5zDCtSTr) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Punto Y Aparte](https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF) | 2:38 | 2024-07-07 | 2026-04-15 |
+| [Punto y Aparte](https://open.spotify.com/track/6kWCId7jrTRB8yU65WxmGn) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Punto y Aparte](https://open.spotify.com/album/3ktLBV5sXwr3NePjCewD9z) | 2:38 | 2026-04-15 |  |
 | [Punto y Aparte](https://open.spotify.com/track/7z2Z8mwfsoMnNArKB946gU) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Punto y Aparte](https://open.spotify.com/album/7Gz10vsu3ws0QRJpAHpuL0) | 2:38 | 2024-01-29 | 2024-07-07 |
 | [Que Emoción](https://open.spotify.com/track/4gEJMS993Cg13T1yWZVrKs) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [TRAVESÍA](https://open.spotify.com/album/24qt9gQSSmjZ5uRaqqAxLv) | 3:36 | 2025-08-31 |  |
 | [Que Somos De Guerra](https://open.spotify.com/track/3HC7YpUGk9Q6rq1GLpyRqq) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS), [Arley Perez](https://open.spotify.com/artist/63zgw9LU9aqnuHnvHr3ZUZ) | [Que Somos De Guerra](https://open.spotify.com/album/3nyOttSBrL1aFt70bdlGnE) | 2:48 | 2025-10-12 |  |

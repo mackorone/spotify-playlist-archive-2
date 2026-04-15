@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0HmsQ8GzI0.md) - [plain]
 
 > Zenék, amik félreugranak a műfaji határok elől\. Cover: Szabikeyz
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,431 likes - 80 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,436 likes - 80 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0HmsQ8GzI0.md) - [plain]
 | 79 | [Sose halok meg](https://open.spotify.com/track/5IXSSKNUW3v7ewkQWXgcNx) | [Solére](https://open.spotify.com/artist/07sbUsuT49AfdnbAZukniP), [Ótvar Pestis](https://open.spotify.com/artist/1AyF8iJgMe4LMNe8bUM1Yo) | [Sose halok meg](https://open.spotify.com/album/2jjL8YIaoo22mtpWKsq1jR) | 2:08 |
 | 80 | [Don't You Hate Yourself?](https://open.spotify.com/track/38KogCv80PHOcyPOM5Xn5y) | [Waiting Room](https://open.spotify.com/artist/6AkIWFj7J1rzYkGRgqZndc) | [Don't You Hate Yourself?](https://open.spotify.com/album/4s0ijI7UFEN07u7XhYhllA) | 4:58 |
 
-Snapshot ID: `AAAAANsL32ok48geUYVcR6z7hWj18FY1`
+Snapshot ID: `AAAAAL1PQzyX5WpBRNjNxMqJOpK8IOO+`

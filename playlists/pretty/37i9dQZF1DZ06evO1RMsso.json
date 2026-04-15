@@ -1,12 +1,12 @@
 {
   "description": "This is John Williams. The essential tracks, all in one playlist.",
-  "num_followers": 230628,
+  "num_followers": 230639,
   "original_name": "This Is John Williams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adrggAAAAACag6xVXGMMBxXogv/7LnOj",
+  "snapshot_id": "adwyAAAAAAAKyjojr3A+MKSQW/lqwf3f",
   "tracks": [
     {
       "added_at": null,
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
         }
       ],
-      "duration_ms": 152146,
-      "name": "Secrets of the Castle",
-      "url": "https://open.spotify.com/track/5PUvxyQ0STurZq4TM8yl4F"
+      "duration_ms": 98373,
+      "name": "Lumos! (Hedwig's Theme)",
+      "url": "https://open.spotify.com/track/2G5hAbyjLoY1wSQFbOy5PN"
     },
     {
       "added_at": null,
@@ -272,9 +272,9 @@
           "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
         }
       ],
-      "duration_ms": 98373,
-      "name": "Lumos! (Hedwig's Theme)",
-      "url": "https://open.spotify.com/track/2G5hAbyjLoY1wSQFbOy5PN"
+      "duration_ms": 152146,
+      "name": "Secrets of the Castle",
+      "url": "https://open.spotify.com/track/5PUvxyQ0STurZq4TM8yl4F"
     },
     {
       "added_at": null,

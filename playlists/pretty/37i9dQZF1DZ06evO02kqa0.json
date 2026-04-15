@@ -1,12 +1,12 @@
 {
   "description": "This is Maria Callas. The essential tracks, all in one playlist.",
-  "num_followers": 40534,
+  "num_followers": 40535,
   "original_name": "This Is Maria Callas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adrggAAAAAANk3zoBX5j39JDdN0mxwmz",
+  "snapshot_id": "adwyAAAAAACCxMKUKVd+AhYZgV8MMIcq",
   "tracks": [
     {
       "added_at": null,
@@ -67,6 +67,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Maria (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2TZFHghxKpd2EQz59Ldjil"
+      },
+      "artists": [
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        }
+      ],
+      "duration_ms": 216500,
+      "name": "Casta diva",
+      "url": "https://open.spotify.com/track/4XpNHWkzmniak64A7wT4jF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Maria Callas Sings Bellini",
         "url": "https://open.spotify.com/album/7LCvvDCTAmPwwQppFXmRRE"
       },
@@ -99,22 +115,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maria (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2TZFHghxKpd2EQz59Ldjil"
-      },
-      "artists": [
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        }
-      ],
-      "duration_ms": 216500,
-      "name": "Casta diva",
-      "url": "https://open.spotify.com/track/4XpNHWkzmniak64A7wT4jF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Puccini: Tosca",
         "url": "https://open.spotify.com/album/7jJ69AFSMTAQavq64DxYll"
       },
@@ -139,34 +139,6 @@
       "duration_ms": 185346,
       "name": "Puccini: Tosca, Act 2: \"Vissi d'arte, vissi d'amore\" (Tosca)",
       "url": "https://open.spotify.com/track/4WU1XFFx74qQIEbty9Z77X"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Callas sings Great Arias from French Operas - Callas Remastered",
-        "url": "https://open.spotify.com/album/1oolP2nPF4furJV0ubUALc"
-      },
-      "artists": [
-        {
-          "name": "Georges Bizet",
-          "url": "https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd"
-        },
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Georges Pr\u00eatre",
-          "url": "https://open.spotify.com/artist/5lfbI21DXOiKTCT3Gb802r"
-        },
-        {
-          "name": "French National Radio Orchestra",
-          "url": "https://open.spotify.com/artist/32qnav8uyfq88NUle7CnhZ"
-        }
-      ],
-      "duration_ms": 244906,
-      "name": "Bizet: Carmen, Act 1: Habanera. \"L'amour est un oiseau rebelle\" (Carmen)",
-      "url": "https://open.spotify.com/track/5OrklOzISZ5D59RmTMtg3F"
     },
     {
       "added_at": null,
@@ -1139,6 +1111,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Very Best of Maria Callas",
+        "url": "https://open.spotify.com/album/0tREYnFHLtGOkfegsYOBRb"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        }
+      ],
+      "duration_ms": 202040,
+      "name": "Puccini: La boh\u00e8me, Act 3: \"Donde lieta usc\u00ec al tuo grido d'amore\" (Mim\u00ec)",
+      "url": "https://open.spotify.com/track/6f2q4uxbxX4fSotAk7tRxZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Maria by Callas (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3xaUzONuVZ28q4dpkKvktc"
       },
@@ -1227,34 +1227,6 @@
       "duration_ms": 228626,
       "name": "Puccini: La boh\u00e8me, Act 1: \"Non sono in vena\" (Rodolfo/Mim\u00ec)",
       "url": "https://open.spotify.com/track/5hcfSKk1uc2eRqyk9kgkAI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Very Best of Maria Callas",
-        "url": "https://open.spotify.com/album/0tREYnFHLtGOkfegsYOBRb"
-      },
-      "artists": [
-        {
-          "name": "Giacomo Puccini",
-          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
-        },
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Tullio Serafin",
-          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
-        },
-        {
-          "name": "Philharmonia Orchestra",
-          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
-        }
-      ],
-      "duration_ms": 202040,
-      "name": "Puccini: La boh\u00e8me, Act 3: \"Donde lieta usc\u00ec al tuo grido d'amore\" (Mim\u00ec)",
-      "url": "https://open.spotify.com/track/6f2q4uxbxX4fSotAk7tRxZ"
     },
     {
       "added_at": null,
@@ -1475,6 +1447,30 @@
       "duration_ms": 170093,
       "name": "Puccini: La boh\u00e8me, Act 2: \"Aranci, datteri!\" (Coro/Schaunard/Colline/Rodolfo/Mim\u00ec/Marcello/Ragazzi)",
       "url": "https://open.spotify.com/track/4Iw0RAwHOjy23J3Py1XFTu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Giacomo Puccini: Tosca (Maria Callas, Vol. 3)",
+        "url": "https://open.spotify.com/album/3Y6LYQMDZddFSdyLDwq6ZK"
+      },
+      "artists": [
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        },
+        {
+          "name": "Victor de Sabata",
+          "url": "https://open.spotify.com/artist/6pkOp4PgHXN7BRIEMEi1wt"
+        }
+      ],
+      "duration_ms": 264881,
+      "name": "Tosca, Act I: Dammi i colori... Recondita armonia (Sagrestano, Cavaradossi)",
+      "url": "https://open.spotify.com/track/6vOwKVZSVpjao0TVPYHONx"
     }
   ],
   "unique_name": "This Is Maria Callas",

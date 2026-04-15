@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-426 songs - 1 day 2 hr 37 min
+427 songs - 1 day 2 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Desperate Love](https://open.spotify.com/track/4aulyKvga3asNzCNW0zWe6) | [Rick S\. Rose](https://open.spotify.com/artist/3qwZmQIimE8XsMzfsQVjKO) | [Desperate Love](https://open.spotify.com/album/7rVuju4acx7WthJiMxx6bK) | 2:56 | 2025-09-21 |  |
 | [Devil's Music](https://open.spotify.com/track/18zTYNeX6enZeyYWrA45a3) | [Sloppy Joe's](https://open.spotify.com/artist/4hlgTRrWdANjE7noHSfG72) | [Devil's Music](https://open.spotify.com/album/6QPTbxlERZmz0ENwBjVzwb) | 4:46 | 2026-03-11 |  |
 | [Die Zeit, die uns bleibt](https://open.spotify.com/track/6z1iaDb6x0eFQwvW2jph8e) | [Christaris](https://open.spotify.com/artist/65bycLZE7csn1qM95wLuCa) | [Blick nach vorn](https://open.spotify.com/album/3xIXeh22qBPOJZJL1lXXA0) | 3:24 | 2025-10-28 | 2025-12-17 |
+| [Dissonanze](https://open.spotify.com/track/4it9AInqERIyIVB2xAyGeU) | [Evan Park](https://open.spotify.com/artist/0Uy6ep5p6hkzzPs1SuucDU) | [Dissonanze](https://open.spotify.com/album/2UHDgfzcwmSw24WKsJI1e8) | 2:16 | 2026-04-14 |  |
 | [Do You Remember?](https://open.spotify.com/track/2ir8kJN0GO8wUP90oU3LSJ) | [Arthur Smith And The Skycruisers](https://open.spotify.com/artist/5oxjtUm1DYNBYPJP2GVneD) | [Do You Remember?](https://open.spotify.com/album/73GDhhUlcUhxlDUm6BqdLo) | 3:40 | 2025-10-04 | 2025-12-17 |
 | [Do You Think You Are ...](https://open.spotify.com/track/6LZkKLSRhixSCSv0fU0Iyo) | [Guest](https://open.spotify.com/artist/5F8rALP4C5MXmNeLgOtJ0t) | [Do You Think You Are ...](https://open.spotify.com/album/7aySkDtNQbHGcPsrG1GLNo) | 3:53 | 2026-04-12 |  |
 | [Don't Let Me Down Again](https://open.spotify.com/track/3O1JR1gUR8shtWDhxc5Bwc) | [Space of a Day](https://open.spotify.com/artist/5nNOI6NL16ypK6js5aiheB) | [Ben Trexel Music Classic Rock Collection, Vol\. 1](https://open.spotify.com/album/3ndoROj3VUZ3hLUIBS2OqU) | 3:24 | 2025-10-20 | 2025-11-28 |

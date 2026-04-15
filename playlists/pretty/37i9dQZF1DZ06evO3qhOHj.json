@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adrggAAAAAAZZiMY5tcBNrxj9Pua0wWT",
+  "snapshot_id": "adwyAAAAAAAsLAWfTDiAhXiYaaMDVig+",
   "tracks": [
     {
       "added_at": null,
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big, Bigger, Biggest! The Best Of Mr. Big",
-        "url": "https://open.spotify.com/album/0yinyY8MeITpBJdvVKfvQc"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 157733,
-      "name": "Seven Impossible Days",
-      "url": "https://open.spotify.com/track/2jw4ehHRuwjNiD7fF6U05P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bump Ahead [Expanded]",
         "url": "https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 211573,
       "name": "Ain't Seen Love Like That",
       "url": "https://open.spotify.com/track/0Np00vOtVvqZpHqEyYylAs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Big, Bigger, Biggest! The Best Of Mr. Big",
+        "url": "https://open.spotify.com/album/0yinyY8MeITpBJdvVKfvQc"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 157733,
+      "name": "Seven Impossible Days",
+      "url": "https://open.spotify.com/track/2jw4ehHRuwjNiD7fF6U05P"
     },
     {
       "added_at": null,
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hey Man [Expanded]",
-        "url": "https://open.spotify.com/album/2f5EZBoBDNDRFH6KfcFktJ"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 288600,
-      "name": "If That's What It Takes",
-      "url": "https://open.spotify.com/track/1NPM349VjkD7ooJ6TIFbYH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bump Ahead [Expanded]",
         "url": "https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 232373,
       "name": "The Whole World's Gonna Know",
       "url": "https://open.spotify.com/track/2NSdCWlOUgny6uYM8JT47v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hey Man [Expanded]",
+        "url": "https://open.spotify.com/album/2f5EZBoBDNDRFH6KfcFktJ"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 288600,
+      "name": "If That's What It Takes",
+      "url": "https://open.spotify.com/track/1NPM349VjkD7ooJ6TIFbYH"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deep Cuts: The Best Of The Ballads",
-        "url": "https://open.spotify.com/album/7ecgPBHbGOm0S4Hl21FEgq"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 262893,
-      "name": "Where Are They Now?",
-      "url": "https://open.spotify.com/track/6624eWVGf6m29iK3AKXuI6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bump Ahead [Expanded]",
         "url": "https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 253480,
       "name": "Colorado Bulldog",
       "url": "https://open.spotify.com/track/7CqczQ0HGS9C7koT1NMWcb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deep Cuts: The Best Of The Ballads",
+        "url": "https://open.spotify.com/album/7ecgPBHbGOm0S4Hl21FEgq"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 262893,
+      "name": "Where Are They Now?",
+      "url": "https://open.spotify.com/track/6624eWVGf6m29iK3AKXuI6"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "What If...",
-        "url": "https://open.spotify.com/album/378UK4ew1Emc72jH4KzRfq"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 288746,
-      "name": "Undertow",
-      "url": "https://open.spotify.com/track/3g811urVvhkvAv3fT5BzTq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/7uV3SQQ8UOlvZOnEh1E8xi"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 222506,
       "name": "Strike Like Lightning",
       "url": "https://open.spotify.com/track/58LtaOiGBPEeVbJUUxXFRE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What If...",
+        "url": "https://open.spotify.com/album/378UK4ew1Emc72jH4KzRfq"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 288746,
+      "name": "Undertow",
+      "url": "https://open.spotify.com/track/3g811urVvhkvAv3fT5BzTq"
     },
     {
       "added_at": null,
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 237386,
-      "name": "Take A Walk - 2009 Remastered Version",
-      "url": "https://open.spotify.com/track/2sr8VvGdSUb4KHMHRaKnPd"
+      "duration_ms": 289266,
+      "name": "Big Love - 2009 Remastered Version",
+      "url": "https://open.spotify.com/track/3HrCCxsNoBBYBoNhcjivPg"
     },
     {
       "added_at": null,
@@ -683,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Defying Gravity",
-        "url": "https://open.spotify.com/album/0HOvcOEPF8JnjuJAw6GWME"
+        "name": "Lean Into It [Expanded]",
+        "url": "https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 175840,
-      "name": "Damn I'm In Love Again",
-      "url": "https://open.spotify.com/track/46b9DcpbBoMmTWK1zmLqMy"
+      "duration_ms": 247093,
+      "name": "Voodoo Kiss",
+      "url": "https://open.spotify.com/track/3LdABwumpWjN7VAzXZh1xF"
     },
     {
       "added_at": null,
@@ -708,15 +708,15 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 289266,
-      "name": "Big Love - 2009 Remastered Version",
-      "url": "https://open.spotify.com/track/3HrCCxsNoBBYBoNhcjivPg"
+      "duration_ms": 237386,
+      "name": "Take A Walk - 2009 Remastered Version",
+      "url": "https://open.spotify.com/track/2sr8VvGdSUb4KHMHRaKnPd"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Lean Into It [Expanded]",
-        "url": "https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ"
+        "name": "Defying Gravity",
+        "url": "https://open.spotify.com/album/0HOvcOEPF8JnjuJAw6GWME"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 247093,
-      "name": "Voodoo Kiss",
-      "url": "https://open.spotify.com/track/3LdABwumpWjN7VAzXZh1xF"
+      "duration_ms": 175840,
+      "name": "Damn I'm In Love Again",
+      "url": "https://open.spotify.com/track/46b9DcpbBoMmTWK1zmLqMy"
     },
     {
       "added_at": null,

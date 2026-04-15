@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ywbJe.md) - [plain]
 
 > This is Zlatan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,873 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,880 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,11 +21,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ywbJe.md) - [plain]
 | 11 | [Alpha & Omega](https://open.spotify.com/track/7MDmUs2UQl7Rs6YRJABGY8) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Symbol of Hope](https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK) | 3:03 |
 | 12 | [PICANTO \(feat\. Zlatan and ECko Miles\)](https://open.spotify.com/track/08tSNwcNYM9yjuYF9jFvOu) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [ECko Miles](https://open.spotify.com/artist/7F57A9yjaUOkPcsEjyv4MD), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [EZIOKWU](https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx) | 3:04 |
 | 13 | [Cash App](https://open.spotify.com/track/66OmUVUiuja0zp423wGqhr) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Lincoln](https://open.spotify.com/artist/3xm6dLNdCqqgkv9AkNZNQu) | [Cash App](https://open.spotify.com/album/4sP46SuU8qdDzKOUA926qT) | 3:56 |
-| 14 | [Good Life {Freestyle}](https://open.spotify.com/track/1XwGGXSgu5UpWr8rdaRRG0) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Good Life {Freestyle}](https://open.spotify.com/album/18a1PIlmP8RoxvPJcgLF6o) | 1:32 |
+| 14 | [Dance for Jesus](https://open.spotify.com/track/7ARtgoelqoU6QGi7fuoQnR) | [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Dance for Jesus](https://open.spotify.com/album/12pkgxsoiyh5Kq7DreKBxp) | 3:20 |
 | 15 | [Hip Hop Messiah](https://open.spotify.com/track/3TOmsQ0PrHgM6WMYKpj0nO) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Symbol of Hope](https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK) | 2:19 |
-| 16 | [Hallelu](https://open.spotify.com/track/0C8RxBixBaXYc5enAXIm28) | [Masterkraft](https://open.spotify.com/artist/0lEUtJddtvvDlxtEmF9j0m), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Hallelu](https://open.spotify.com/album/61WdROyGDMJQDI91kpMVLM) | 3:33 |
-| 17 | [Dance for Jesus](https://open.spotify.com/track/7ARtgoelqoU6QGi7fuoQnR) | [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Dance for Jesus](https://open.spotify.com/album/12pkgxsoiyh5Kq7DreKBxp) | 3:20 |
-| 18 | [Je m'appelle](https://open.spotify.com/track/6eGPfRvMtXkP9yGT3KcXjV) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N) | [Je m'appelle](https://open.spotify.com/album/5lRDkN4fmcLGsqW0Ki4ZG2) | 4:03 |
+| 16 | [Je m'appelle](https://open.spotify.com/track/6eGPfRvMtXkP9yGT3KcXjV) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Chlé](https://open.spotify.com/artist/78ExiA2p1L7zHf0qh3gvyv) | [Je m'appelle](https://open.spotify.com/album/5lRDkN4fmcLGsqW0Ki4ZG2) | 4:03 |
+| 17 | [Good Life {Freestyle}](https://open.spotify.com/track/1XwGGXSgu5UpWr8rdaRRG0) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Good Life {Freestyle}](https://open.spotify.com/album/18a1PIlmP8RoxvPJcgLF6o) | 1:32 |
+| 18 | [Hallelu](https://open.spotify.com/track/0C8RxBixBaXYc5enAXIm28) | [Masterkraft](https://open.spotify.com/artist/0lEUtJddtvvDlxtEmF9j0m), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Hallelu](https://open.spotify.com/album/61WdROyGDMJQDI91kpMVLM) | 3:33 |
 | 19 | [Pay Day](https://open.spotify.com/track/02QF3XXoiEUcczZo47JpEJ) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Symbol of Hope](https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK) | 2:11 |
 | 20 | [Till Thy Kingdom Come](https://open.spotify.com/track/5mNEct44dKpHjEyCGVQNsF) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Till Thy Kingdom Come](https://open.spotify.com/album/56YDR9C7cXLdmqOZE3X2RO) | 2:29 |
 | 21 | [10 Bottles](https://open.spotify.com/track/2OES8BEd3LwImek13bYb1p) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [10 Bottles](https://open.spotify.com/album/0SBN2MPLg7VTsvs865mKAh) | 2:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ywbJe.md) - [plain]
 | 49 | [Able God](https://open.spotify.com/track/2T0n6U3Ef2XeZc4kdoe5Eg) | [Chinko Ekun](https://open.spotify.com/artist/5jfQBS0O6dR6axaz0BGMgs), [Lil Kesh](https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Able God](https://open.spotify.com/album/7xr5X8oRWh4vbFJZ0zMtn8) | 4:26 |
 | 50 | [Alubarika](https://open.spotify.com/track/6G242ZcM4Ic3WauviZ7w9S) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Resan](https://open.spotify.com/album/0UjVcregRqCYPSbSKaCPmd) | 3:14 |
 
-Snapshot ID: `adrggAAAAADIm6OwMls5437M6NWohk2x`
+Snapshot ID: `adwyAAAAAAAl/LDbp/57Gzog/CZdzAoW`

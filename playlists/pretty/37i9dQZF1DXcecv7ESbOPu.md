@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Ida\-Lova, Teddy Swims och Dizzy med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,267 likes - 103 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,256 likes - 103 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

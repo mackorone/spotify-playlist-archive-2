@@ -1270,7 +1270,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 421000,
       "name": "elements (feat. Hatsune Miku)",
       "url": "https://open.spotify.com/track/2HgvajbWeCu5hYbTefbAXj"
@@ -2361,6 +2361,28 @@
     },
     {
       "album": {
+        "name": "metronome dome",
+        "url": "https://open.spotify.com/album/11ZEG9AJ3yMHYtr7YTlgGq"
+      },
+      "artists": [
+        {
+          "name": "Snarewaves",
+          "url": "https://open.spotify.com/artist/0Hb4Csp68W2ZZHMylxyiov"
+        },
+        {
+          "name": "Megurine Luka",
+          "url": "https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64122,
+      "name": "metronome dome (feat. \u5de1\u97f3\u30eb\u30ab)",
+      "url": "https://open.spotify.com/track/0NMrOpLNI7S2N3rHekB1fi"
+    },
+    {
+      "album": {
         "name": "Overtune",
         "url": "https://open.spotify.com/album/2iXjY4dPqoEXeHVrmIoLh7"
       },
@@ -2752,6 +2774,28 @@
       "duration_ms": 207953,
       "name": "Paralyzed Intent (feat. MEIKO)",
       "url": "https://open.spotify.com/track/3vQyeez3HqffxU4v6Vcw3T"
+    },
+    {
+      "album": {
+        "name": "Garakuta Archives Vol.2",
+        "url": "https://open.spotify.com/album/2x7AlqOpZMRv4MBDU1gGCs"
+      },
+      "artists": [
+        {
+          "name": "No.D",
+          "url": "https://open.spotify.com/artist/66f1Bt9HrVpwNOPZvm2ysl"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252500,
+      "name": "Particles (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/5QEtiHbAWi4piCrsW37OPu"
     },
     {
       "album": {
@@ -3326,6 +3370,28 @@
       "duration_ms": 255500,
       "name": "Smile With Sunflower (feat. Hatsune Miku)",
       "url": "https://open.spotify.com/track/0lWfapBEGcvuNgj8pI1IJM"
+    },
+    {
+      "album": {
+        "name": "Prhythmatic Garage",
+        "url": "https://open.spotify.com/album/5ORoJ3d715l4buyK6GDWk7"
+      },
+      "artists": [
+        {
+          "name": "Capchii",
+          "url": "https://open.spotify.com/artist/6UA1sjVZZizfk3vb4TJqLQ"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258500,
+      "name": "So many (feat. Hatsune Miku)",
+      "url": "https://open.spotify.com/track/1pz0JBcyHuElqBTCVFfLYL"
     },
     {
       "album": {
@@ -4188,7 +4254,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 181714,
       "name": "uruuru (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/4sHFJhSiHzhWOzHbk0GFpR"
@@ -7001,6 +7067,24 @@
     },
     {
       "album": {
+        "name": "\u30dd\u30b9\u30c8\u30b2\u30ce\u30e0",
+        "url": "https://open.spotify.com/album/35vc78Dl0M0AlcPZDhz4hB"
+      },
+      "artists": [
+        {
+          "name": "hashiyasume",
+          "url": "https://open.spotify.com/artist/4Y6oUAfbcz7CT6zuLUdDEz"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "\u30dd\u30b9\u30c8\u30b2\u30ce\u30e0",
+      "url": "https://open.spotify.com/track/0ZCx9eVlzP6seBnJhKAaZp"
+    },
+    {
+      "album": {
         "name": "Summer Kiss",
         "url": "https://open.spotify.com/album/3hCqarh6eQk6XDYTJ6nDKo"
       },
@@ -7120,7 +7204,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 132193,
       "name": "\u30df\u30b9\u30af\u30ec\u30a4\u30b8\u30fc\u30b9\u30d4\u30fc\u30c9 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/1ByG45dm0zszZj3iXCuKGG"
@@ -8512,7 +8596,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 250229,
       "name": "\u661f\u5c51\u30b8\u30a7\u30c3\u30c8\u30b3\u30fc\u30b9\u30bf\u30fc (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/17wsc1WXzDNb2IPXSfiZPK"
@@ -8760,7 +8844,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 198387,
       "name": "\u6d1b\u967d\u30f4\u30a3\u30b8\u30e9\u30f3\u30c6 (feat. KAITO&\u5de1\u97f3\u30eb\u30ab)",
       "url": "https://open.spotify.com/track/5qrjnxeOIE3PKmje2dIHHY"
@@ -9046,6 +9130,28 @@
       "duration_ms": 86941,
       "name": "\u7fa8\u307e\u3057\u3044\u306a (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/5ZC975XLiMMspyh52i9Asa"
+    },
+    {
+      "album": {
+        "name": "\u81ea\u5f8b\u5411\u304d\u611b",
+        "url": "https://open.spotify.com/album/5r0V2Asdf5HaIeJH5HxzUP"
+      },
+      "artists": [
+        {
+          "name": "Yunosuke",
+          "url": "https://open.spotify.com/artist/2JVKMrMR8PZohnjTIhY3Ks"
+        },
+        {
+          "name": "\u96e8\u8863",
+          "url": "https://open.spotify.com/artist/1pXvfbuuuSHDAQTHPqIaUK"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "\u81ea\u5f8b\u5411\u304d\u611b (feat. \u96e8\u8863)",
+      "url": "https://open.spotify.com/track/3mluonKrAjfT7P3yB9v8Uh"
     },
     {
       "album": {

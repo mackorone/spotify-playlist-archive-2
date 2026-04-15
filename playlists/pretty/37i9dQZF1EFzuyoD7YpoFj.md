@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 510 likes - 390 songs - 20 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 509 likes - 390 songs - 20 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 77 | [Goodbye, Little Dream, Goodbye](https://open.spotify.com/track/4cFEDjjpNsg4WkHSt6lc3c) | [Laura Osnes](https://open.spotify.com/artist/2TkSDFFCkyiMrHyL1a5BbF) | [Anything Goes \(New Broadway Cast Recording\)](https://open.spotify.com/album/6yH8LWqApBErvtBGSSwGzL) | 2:23 |
 | 78 | [Overture](https://open.spotify.com/track/2NTXTzvznh6bdlEkikXOEH) | [Anything Goes New Broadway Company Orchestra](https://open.spotify.com/artist/0kWHuPyJRJeGeuxiJqZ3Z3) | [Anything Goes \(New Broadway Cast Recording\)](https://open.spotify.com/album/6yH8LWqApBErvtBGSSwGzL) | 2:37 |
 | 79 | [Wee\-Wee, Pee\-Pee, Tinkle!](https://open.spotify.com/track/5pJVrsl5Y7RSSDA4I1BQf8) | [Wonder Pets](https://open.spotify.com/artist/7ni4mcsUHE4P5g7Qd15DHD) | [Wonder Pets](https://open.spotify.com/album/7956RvTfKwsOZe6yljDVMa) | 1:38 |
-| 80 | [Why Shouldn't I?](https://open.spotify.com/track/2RM6F4QDwmWWFKmV7WunEO) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker & Strings](https://open.spotify.com/album/6dngHguvEgUGdmjR79OC7S) | 3:33 |
-| 81 | [Love of My Life](https://open.spotify.com/track/0lPQauqohdW8CzOpc56XJF) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [Love Remembers](https://open.spotify.com/album/6AgPMm0r965vD5ehqvpo3f) | 4:14 |
+| 80 | [Love of My Life](https://open.spotify.com/track/0lPQauqohdW8CzOpc56XJF) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [Love Remembers](https://open.spotify.com/album/6AgPMm0r965vD5ehqvpo3f) | 4:14 |
+| 81 | [Why Shouldn't I?](https://open.spotify.com/track/2RM6F4QDwmWWFKmV7WunEO) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker & Strings](https://open.spotify.com/album/6dngHguvEgUGdmjR79OC7S) | 3:33 |
 | 82 | [Alles Komt Terug](https://open.spotify.com/track/6SatnA4nlhXiCpiC6KdsCH) | [Tourist LeMC](https://open.spotify.com/artist/6mbdN4ACD50R8vBKGCfzsr) | [We Begrijpen Mekaar](https://open.spotify.com/album/5QO7SFUlJgAAXx2Oi7me0B) | 3:22 |
 | 83 | [High Society](https://open.spotify.com/track/6IZrkrD882aP8of0NNYH89) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Very Best Of Louis Armstrong](https://open.spotify.com/album/4s62VcqCCYckLiPnBU1ZkC) | 3:56 |
 | 84 | [Why Can't You Behave \- Ella Fitzgerald Sings the Cole Porter Songbook](https://open.spotify.com/track/4w3RrKdPOs2xTPk8kqdfaH) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [INTEGRAL ELLA FITZGERALD 1956\-1957](https://open.spotify.com/album/6lSbe0c38u3jFUvEvh0MKg) | 5:05 |
@@ -181,8 +181,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 171 | [Restaurant Interior](https://open.spotify.com/track/4HfXk62xUdirEN5GL78iNu) | [Original Soundtrack](https://open.spotify.com/artist/3huVQoEWdqUTvlYpFVUHcF) | [Evil Under The Sun \- Music By Cole Porter](https://open.spotify.com/album/5vaF9smmAAsU9HpImD7EzI) | 1:53 |
 | 172 | [IF I LOVED YOU TRULY](https://open.spotify.com/track/67EtAPxT1gtSdfdmIxBz0M) | [The Starlite Orchestra & Singers](https://open.spotify.com/artist/2cAOIxdet17VPqKd8PODGs) | [THE MUSICAL \- CAN\-CAN](https://open.spotify.com/album/4U62OD0a6q36Yw0q6aHnOs) | 2:20 |
 | 173 | [I've Got You On My Mind](https://open.spotify.com/track/3T5JLJBYutMiltE7eAkMAk) | [Sarah King](https://open.spotify.com/artist/6N1eTTbmPXYZBXTgZ7j0fp) | [The Masquerade Is Over](https://open.spotify.com/album/0ZiXlEziOd3wt46v3TPRof) | 3:00 |
-| 174 | [I'm Going in for Love](https://open.spotify.com/track/6GzVz91Fk34wEVdTwnkXq3) | [Kristin Chenoweth](https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q) | [Cole Porter's You Never Know \(World Premiere Cast Recording\)](https://open.spotify.com/album/42LGUhB0tCeeBENJYhTqLW) | 2:43 |
-| 175 | [Thank You so Much, Mrs\. Lowsborough\-Goodbye](https://open.spotify.com/track/1UcNcfaDiPbm05TGKoSfTt) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Porter, Cole: Let's Misbehave! \(1927\-1940\)](https://open.spotify.com/album/7DsbZB88NYHjCpOZBvrx4m) | 2:31 |
+| 174 | [Thank You so Much, Mrs\. Lowsborough\-Goodbye](https://open.spotify.com/track/1UcNcfaDiPbm05TGKoSfTt) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Porter, Cole: Let's Misbehave! \(1927\-1940\)](https://open.spotify.com/album/7DsbZB88NYHjCpOZBvrx4m) | 2:31 |
+| 175 | [I'm Going in for Love](https://open.spotify.com/track/6GzVz91Fk34wEVdTwnkXq3) | [Kristin Chenoweth](https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q) | [Cole Porter's You Never Know \(World Premiere Cast Recording\)](https://open.spotify.com/album/42LGUhB0tCeeBENJYhTqLW) | 2:43 |
 | 176 | [So Near And Yet So Far](https://open.spotify.com/track/3iOSsAJVdhmxWijje9262j) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Oscar Peterson \- Jazz Moods](https://open.spotify.com/album/4O6elzt1pv8vei5SkWy0Jl) | 3:21 |
 | 177 | [The Dance Sequence](https://open.spotify.com/track/3qBqSqRi3X90EEatwo3tTb) | [Original Soundtrack](https://open.spotify.com/artist/3huVQoEWdqUTvlYpFVUHcF) | [Evil Under The Sun \- Music By Cole Porter](https://open.spotify.com/album/5vaF9smmAAsU9HpImD7EzI) | 4:55 |
 | 178 | [Don't Take Everybody To Be Your Friend](https://open.spotify.com/track/7ytWVZ6T7DoLypwFIa3VIh) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Up Above My Head](https://open.spotify.com/album/4I8sQwxcyWI979ZcYGPMf5) | 2:26 |
@@ -399,4 +399,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 389 | [It Ain't Etiquette](https://open.spotify.com/track/1GbMATrktLfNh0qpFFckW3) | [Ronny Graham](https://open.spotify.com/artist/1p9N6ZU2PVPiQnqVRYdb96) | [Cole Porter Revisited](https://open.spotify.com/album/6nLxZJkzWzt72wRAj0uyWI) | 2:31 |
 | 390 | [You've Got Something](https://open.spotify.com/track/3mOu0wnhrLDqM2QPIGt3vh) | [Armando Trovajoli e La Sua Orchestra](https://open.spotify.com/artist/5WyhUmiKmVxjyCNgM4GbEw) | [Prigionieri del Cielo](https://open.spotify.com/album/6UIfJA1Rnz3OI5pwp4GUPr) | 3:56 |
 
-Snapshot ID: `AcOx6AAAAABJ2v0szpLWzTTzr/ZO35b1`
+Snapshot ID: `AcO3TAAAAADnIbaPJenEmAb0G0Sh3uL3`

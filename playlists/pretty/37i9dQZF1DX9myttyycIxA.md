@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: youbet
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,932 likes - 113 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,942 likes - 113 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

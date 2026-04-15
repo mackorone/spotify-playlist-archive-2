@@ -726,7 +726,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 261000,
       "name": "Beta Waves 149 Hz - 171 Hz",
       "url": "https://open.spotify.com/track/5Y3SC4anrADQ4x6NbgqH6D"
@@ -834,7 +834,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 154790,
       "name": "Beyond Deep Sleep 30 Hz",
       "url": "https://open.spotify.com/track/6JgWnK07vXJvcr1TH5bbmz"
@@ -1104,7 +1104,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 216000,
       "name": "Binaural Beta Sinus Drone I",
       "url": "https://open.spotify.com/track/2U8RYVwC4TxqwxWFanGvwx"
@@ -1147,6 +1147,24 @@
     },
     {
       "album": {
+        "name": "Binaural Beta Waves (117-155Hz)",
+        "url": "https://open.spotify.com/album/34Qx1hlWdDA3kF4aXlGvQW"
+      },
+      "artists": [
+        {
+          "name": "Guglielmo Markoni",
+          "url": "https://open.spotify.com/artist/1Jfj6AuDorlEytpeJrB419"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169661,
+      "name": "Binaural Beta Waves (117-155Hz)",
+      "url": "https://open.spotify.com/track/1E99tsBnOiXoAPQ8h47VhD"
+    },
+    {
+      "album": {
         "name": "Changing Motion Beta (54hz-76hz)",
         "url": "https://open.spotify.com/album/0X5dUbmVeEt9454fyvRiQL"
       },
@@ -1162,6 +1180,24 @@
       "duration_ms": 160000,
       "name": "Changing Motion Beta (54hz-76hz)",
       "url": "https://open.spotify.com/track/0ck0NTsKapZeeFxYS1sGPs"
+    },
+    {
+      "album": {
+        "name": "Cognitive Stream (Beta 90.5Hz-104.8Hz)",
+        "url": "https://open.spotify.com/album/0ccyLGbxasnSlCmQ67RwmX"
+      },
+      "artists": [
+        {
+          "name": "sweetHz",
+          "url": "https://open.spotify.com/artist/3ToHPsqBK9cowwR88Cn42B"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "Cognitive Stream (Beta 90.5Hz-104.8Hz)",
+      "url": "https://open.spotify.com/track/47gp5xtlAQo2dtdrR3Dcu0"
     },
     {
       "album": {
@@ -1450,6 +1486,24 @@
       "duration_ms": 125505,
       "name": "Inner Study 110Hz - 115Hz",
       "url": "https://open.spotify.com/track/0PyiofNb4rNdW6ks6nrlDn"
+    },
+    {
+      "album": {
+        "name": "Levitation Beta 156.81 Hz - 172.81 Hz",
+        "url": "https://open.spotify.com/album/65LxRdkMXaSlHvT1RO0PjE"
+      },
+      "artists": [
+        {
+          "name": "Earthbound",
+          "url": "https://open.spotify.com/artist/0F1aPOoP68MvFLfZ4fyP03"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157387,
+      "name": "Levitation Beta 156.81 Hz - 172.81 Hz",
+      "url": "https://open.spotify.com/track/0Bb6lwhRRQ2zld2SZbI9Gv"
     },
     {
       "album": {

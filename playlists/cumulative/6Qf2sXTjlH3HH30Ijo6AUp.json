@@ -3203,6 +3203,24 @@
     },
     {
       "album": {
+        "name": "LET ME BE",
+        "url": "https://open.spotify.com/album/4mqcYdXFQJGtduC8XWX8op"
+      },
+      "artists": [
+        {
+          "name": "The Second Voice",
+          "url": "https://open.spotify.com/artist/62DJxMVn5UY5avf5dOvg30"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189853,
+      "name": "LET ME BE",
+      "url": "https://open.spotify.com/track/3Ggrf13afYb41oxbnpafPR"
+    },
+    {
+      "album": {
         "name": "Let Me Down Easy",
         "url": "https://open.spotify.com/album/0vfLqxkAHmpgjTsxCk33cs"
       },
@@ -5350,7 +5368,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 232627,
       "name": "Sun Comes Up (feat. James Arthur)",
       "url": "https://open.spotify.com/track/6SUocL0caib4mLHe8ZrZzi"

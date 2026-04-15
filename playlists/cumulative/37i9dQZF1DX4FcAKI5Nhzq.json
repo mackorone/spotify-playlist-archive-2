@@ -3461,6 +3461,24 @@
     },
     {
       "album": {
+        "name": "Caligo Pt.2",
+        "url": "https://open.spotify.com/album/1vkQIKe7n01Jxic7csfA4P"
+      },
+      "artists": [
+        {
+          "name": "PLAVE",
+          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Born Savage",
+      "url": "https://open.spotify.com/track/21AdIbIIP9cFgwnwEnEl07"
+    },
+    {
+      "album": {
         "name": "BORN TO LOVE YOU",
         "url": "https://open.spotify.com/album/3qzLoa9H5KHNdhU7qcINmo"
       },
@@ -12816,7 +12834,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 170149,
       "name": "I DON'T BARGAIN",
       "url": "https://open.spotify.com/track/2aTs07BHIgEoelYtdYONw7"

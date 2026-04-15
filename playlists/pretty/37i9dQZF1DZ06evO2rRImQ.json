@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Los Recoditos. The essential tracks, all in one playlist.",
-  "num_followers": 204766,
+  "num_followers": 204779,
   "original_name": "This Is Banda Los Recoditos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adrggAAAAAAHeyF8PrsgKuWraPWrEYhS",
+  "snapshot_id": "adwyAAAAAAD2j/IHaY4sZk03Y4Hhv49Y",
   "tracks": [
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Ti Solita",
-        "url": "https://open.spotify.com/album/5mrTSHwJlmGJbETmqY9xoe"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 197253,
-      "name": "Sin Autorizaci\u00f3n",
-      "url": "https://open.spotify.com/track/5Seo17jmxBLqd0Hl1MidjC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Perfecta",
         "url": "https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 211560,
       "name": "Perfecta",
       "url": "https://open.spotify.com/track/4YO9aERidTIRtBG225jr0l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Para Ti Solita",
+        "url": "https://open.spotify.com/album/5mrTSHwJlmGJbETmqY9xoe"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 197253,
+      "name": "Sin Autorizaci\u00f3n",
+      "url": "https://open.spotify.com/track/5Seo17jmxBLqd0Hl1MidjC"
     },
     {
       "added_at": null,

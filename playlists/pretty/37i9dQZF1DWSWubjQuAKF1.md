@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 
 > świeże brzmienia na horyzoncie ✨ Cover: Kuba i Kuba
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,525 likes - 65 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,526 likes - 65 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

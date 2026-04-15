@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 
 > beautiful music that you can put on repeat
 
-[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 460 likes - 423 songs - 21 hr 16 min
+[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 460 likes - 424 songs - 21 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -431,5 +431,6 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 | 421 | [tony stark](https://open.spotify.com/track/6dtK3KHOFybvXlGsh1SzpB) | [ibleedjugo.](https://open.spotify.com/artist/2sK4L0Q4UtSAzGl26QIoUL), [JayBZY!](https://open.spotify.com/artist/4Mj8TlaZjOc26CeLcldyfr) | [The Rewind](https://open.spotify.com/album/7KgZXvfK4HlN7q9yEMYuwh) | 2:09 |
 | 422 | [Luv](https://open.spotify.com/track/3TnCzKW7LncoTyXa9pFles) | [Que K](https://open.spotify.com/artist/7dcJm2exRKPpt1j6Pk91ML), [GARCI Gang Apples](https://open.spotify.com/artist/082gfwyn0AYPMXeQigMCRM), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [U shoulda stayed down 26.....](https://open.spotify.com/album/7mrXxwvsfXQx9Q2GwDE6qe) | 3:29 |
 | 423 | [Planting Lies](https://open.spotify.com/track/1RupRobeRR4wnYC1ToofkH) | [David Lisboa](https://open.spotify.com/artist/6C1HHrKkNoObr8bS8IrgGG) | [Super\-Heriós](https://open.spotify.com/album/5kVLd6P222EsnzQMNz54bP) | 3:17 |
+| 424 | [Diarios de Nirak pt\. 1](https://open.spotify.com/track/5x7LP3TqnOqUkHGy3qLi4K) | [P.A.C\. 7](https://open.spotify.com/artist/4xYTZFwBIsZqSuYLRzNIGF), [Old Máfia 021 Rec RD'RUA](https://open.spotify.com/artist/2etqM9FQJqGUMCL2rezdkt) | [Diarios de Nirak pt\. 1](https://open.spotify.com/album/6o0TnFdar5U4Mf5FDwVUeT) | 1:40 |
 
-Snapshot ID: `AAAcT295SK2wrkt7bZWumpMPIWyL7rNL`
+Snapshot ID: `AAAcUG4qo91Ta4E1qOuQ3JTQ7FMa4Gbr`

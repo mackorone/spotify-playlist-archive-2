@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/7lgY3yZUd6GwjQJ01MFeVr.md) - [plain]
 
 > Today's top country music!
 
-[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 34,992 likes - 108 songs - 5 hr 40 min
+[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 34,987 likes - 108 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Plastic Cigarette](https://open.spotify.com/track/2jCJjRc9mz6VYBMhLy3H9i) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [With Heaven On Top](https://open.spotify.com/album/4NvMwUFmY1dcDEgD8KoQjG) | 3:05 |
-| 2 | [Travelin' Soldier](https://open.spotify.com/track/4ThbwJaIWVxXZ1qJaHQBCz) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Travelin' Soldier](https://open.spotify.com/album/7Liu0RVrXQNZfnOAOlqQYv) | 4:15 |
-| 3 | [Kingdom of Fear](https://open.spotify.com/track/4Es6f0zquGHCrv9Hespx9W) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Kingdom of Fear](https://open.spotify.com/album/6nE9zag2eaoLn58KZSqRVZ) | 2:41 |
+| 2 | [Kingdom of Fear](https://open.spotify.com/track/4Es6f0zquGHCrv9Hespx9W) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Kingdom of Fear](https://open.spotify.com/album/6nE9zag2eaoLn58KZSqRVZ) | 2:41 |
+| 3 | [Travelin' Soldier](https://open.spotify.com/track/4ThbwJaIWVxXZ1qJaHQBCz) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Travelin' Soldier](https://open.spotify.com/album/7Liu0RVrXQNZfnOAOlqQYv) | 4:15 |
 | 4 | [The More I Hope](https://open.spotify.com/track/5jcS2jxv5IhNr6DenoBTi0) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Broken View](https://open.spotify.com/album/6tDWxFwFa678P6qTiuyUqg) | 4:06 |
 | 5 | [Say So](https://open.spotify.com/track/29cQXi1TarDW44CxOKfjuc) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Say So](https://open.spotify.com/album/0J1PpB3vFKLxePGJNmxEgi) | 3:21 |
 | 6 | [Just Believe](https://open.spotify.com/track/4wudj4XYQ1dqmK2vcZwudU) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Just Believe](https://open.spotify.com/album/5hGKVyBnm1l8cYuDNlykJn) | 2:41 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/7lgY3yZUd6GwjQJ01MFeVr.md) - [plain]
 | 107 | [DON'T WANNA GO HOME](https://open.spotify.com/track/3ZuIruaanYV4SRdVM9cLUM) | [Adrien Nunez](https://open.spotify.com/artist/6R2UojZrKYDr0RiP9jROAJ) | [DON'T WANNA GO HOME](https://open.spotify.com/album/1u0pRqkVrTwSnOVXBZV0dg) | 2:13 |
 | 108 | [Drinking Game](https://open.spotify.com/track/3NpotblRm0XLn747iCZ75w) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Drinking Game](https://open.spotify.com/album/6yBtHDlryRS2EQAfGYNMQN) | 2:50 |
 
-Snapshot ID: `AAAfXliRABi34Kpc9tvjrcypiyli+9ny`
+Snapshot ID: `AAAfXwzpKXaZJ/qOXofqEcTG0P1TZ4WJ`

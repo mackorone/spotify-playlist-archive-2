@@ -4,7 +4,7 @@
 
 > A mega Anime hits mix! Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-839 songs - 2 day 6 hr 15 min
+842 songs - 2 day 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Change](https://open.spotify.com/track/3T6T45hVQoc0nXHoSnVOpi) | [nonoc](https://open.spotify.com/artist/1QduecpnkRXRXtbFdEYZRC) | [TVアニメ「ハコヅメ\~交番女子の逆襲\~」エンディングテーマ「Change」](https://open.spotify.com/album/6uqbAjrdQicKyJIvHq7fNa) | 3:26 | 2022-07-07 | 2022-07-22 |
 | [Chime](https://open.spotify.com/track/1GuIuJi7GLy5glWQBsuUEH) | [Ai Otsuka](https://open.spotify.com/artist/0q7KOr99MYmwKxivChxpSd) | [Chime](https://open.spotify.com/album/41vViBECl477zk7RCyq8XE) | 3:55 | 2022-06-03 | 2022-06-11 |
 | [Chronos](https://open.spotify.com/track/7i74dlNW5CogOhN13j2AzN) | [STEREO DIVE FOUNDATION](https://open.spotify.com/artist/6yLTrq59HxfE6aTq8r4gVP) | [Chronos](https://open.spotify.com/album/77uzDqixDAh7KMcXZb2YaK) | 3:37 | 2022-06-24 | 2022-07-19 |
+| [Cold Night](https://open.spotify.com/track/48Y23GvNKpVeXrMapKcPLP) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [Cold Night](https://open.spotify.com/album/63WdFxvJi1f4U71Q4FsrpI) | 3:12 | 2026-04-14 |  |
 | [COLORS](https://open.spotify.com/track/6bPPyigCphBBQ9781j6eKM) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW THE BEST 〜Single Collection〜](https://open.spotify.com/album/0EWoUxWh0SqcK0jN6UTbFc) | 3:38 | 2022-07-28 | 2024-04-19 |
 | [Comedy](https://open.spotify.com/track/5SuOikwiRyPMVoIQDJUgSV) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Comedy](https://open.spotify.com/album/41ERrwfzos93Xlf6hFBiDn) | 3:50 | 2022-07-28 | 2024-04-19 |
 | [Comin' Back](https://open.spotify.com/track/5B4H64b0vjmPx0pO73iY9J) | [内田雄馬](https://open.spotify.com/artist/4VJIq1t9RJ8WBYGr2P1FwF) | [Comin' Back](https://open.spotify.com/album/0F7gKTQZUPxf38G5RVJgXb) | 3:32 | 2022-07-05 | 2022-07-08 |
@@ -269,6 +270,7 @@
 | [Nocturne](https://open.spotify.com/track/6rIiTCNRFSNpFER8R1chAC) | [Hinano](https://open.spotify.com/artist/5YWTfW6V637AZqljGfrWoI) | [nocturne](https://open.spotify.com/album/5kVXzT1Mx2dgSrYnSMBhhc) | 4:29 | 2022-06-03 | 2022-06-15 |
 | [ODD FUTURE](https://open.spotify.com/track/5tHp131qFB3T7e01x1xsO2) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [UNSER](https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8) | 3:46 | 2022-07-28 | 2024-04-19 |
 | [ODDTAXI](https://open.spotify.com/track/2Lwl5ElqC6Nq2CAwXxmsOE) | [スカートとPUNPEE](https://open.spotify.com/artist/2c1PTv8do7xhzgK6rKBf5A), [スカート](https://open.spotify.com/artist/1rOnNKoQhifOY4rIH4wMtk), [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6) | [ODDTAXI](https://open.spotify.com/album/5RyStjfQGvf0wan3sC88rs) | 3:23 | 2022-06-03 | 2022-07-12 |
+| [Odoru Ponpokorin](https://open.spotify.com/track/3pncyVfDzI4m9oErJKLKIo) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Odoru Ponpokorin](https://open.spotify.com/album/2XeKcmluJtZwNDYJmhiDER) | 3:14 | 2026-04-14 |  |
 | [OMEGA](https://open.spotify.com/track/66VHaRkx1GDrdysuRthE6K) | [STEREO DIVE FOUNDATION](https://open.spotify.com/artist/6yLTrq59HxfE6aTq8r4gVP) | [OMEGA](https://open.spotify.com/album/1QGHGOQWi6u0i6S31hA6KF) | 3:40 | 2022-06-03 | 2022-07-29 |
 | [ON MY OWN](https://open.spotify.com/track/1N2ZxgdhhwXEW6uUHL2jG8) | [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [ON MY OWN](https://open.spotify.com/album/5Mx8ikSuELBVO4ln9Yy7ly) | 3:39 | 2022-06-24 | 2022-06-29 |
 | [One](https://open.spotify.com/track/4oaQZLunFjVPbN830b0yfg) | [Snow Man](https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N) | [One](https://open.spotify.com/album/5YjWEzGDPT2LZHcKAPIc2w) | 3:40 | 2025-01-14 | 2025-04-16 |
@@ -300,6 +302,7 @@
 | [PINK BLOOD](https://open.spotify.com/track/39lq5gU4lPc0rYVaRo0stH) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [PINK BLOOD](https://open.spotify.com/album/4eQs3mcSejRAVTWmaYXNYl) | 3:17 | 2022-06-03 | 2022-07-26 |
 | [Plastic Smile](https://open.spotify.com/track/3y7FUgB8mwJSo37YmDouYq) | [Kaori Ishihara](https://open.spotify.com/artist/0iozpQbR93p8mOSDrevajw) | [Plastic Smile](https://open.spotify.com/album/6EKzeS69OIX5zvT57wWkrd) | 4:21 | 2022-06-03 | 2022-07-21 |
 | [Plazma](https://open.spotify.com/track/1KLg01cjnRsENoFhJWUTSd) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [Plazma](https://open.spotify.com/album/3fEm98bR4ojbm2GBqzhTGp) | 3:00 | 2025-07-14 |  |
+| [PROVANT](https://open.spotify.com/track/5g7WLWOwspQqTnqVZv0XQ8) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Jean\-Ken Johnny](https://open.spotify.com/artist/1Bk56nx76xE4nP01ZhDsPE), [TAKUMA](https://open.spotify.com/artist/7CcCUhKZWvb3tvXtcMAb45) | [PROVANT](https://open.spotify.com/album/5Na4qNt1ZaTzXwqXAdTogk) | 2:50 | 2026-04-14 |  |
 | [PUNKS](https://open.spotify.com/track/3KCvdwzkUI1iyLWfhWws0o) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [PUNKS](https://open.spotify.com/album/2WdU0ESaT3y6lhdtW2KXrh) | 3:55 | 2025-10-21 | 2025-11-19 |
 | [PUPPET'S](https://open.spotify.com/track/0miO0TfAYiIJVaL7Fj7Uao) | [TOKYO MONSTERS](https://open.spotify.com/artist/6OyL8IIcy7b1W20SkMpvNQ) | [PUPPET'S](https://open.spotify.com/album/2NwZuLUH5M1AGC1pJmMux3) | 3:30 | 2022-06-21 | 2022-07-20 |
 | [Q?](https://open.spotify.com/track/02l4CnXJXM2KE8IN99whsX) | [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) | [Q?](https://open.spotify.com/album/4eInzp36x0Vjaif6ic8rDf) | 3:15 | 2022-06-03 | 2022-07-24 |
@@ -380,7 +383,7 @@
 | [Tell me](https://open.spotify.com/track/0Q5iAvLaf5gPOXBdwn2xTI) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Tell me](https://open.spotify.com/album/69PUaIre9obNtcnh1uM4YS) | 3:43 | 2022-06-03 | 2022-07-24 |
 | [The 1](https://open.spotify.com/track/3GNHnQq2Q2svsTZDjHWFXp) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [The 1](https://open.spotify.com/album/4cgDsTl2Za0NJ3AiJtQCrF) | 3:11 | 2025-09-01 | 2025-10-22 |
 | [THE ANSWER](https://open.spotify.com/track/2TQRsVtJBQnD0y6rPRCIA1) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [86―エイティシックス― オリジナル・サウンドトラック](https://open.spotify.com/album/2SlW3LaVSzRseiFdXRmssc) | 3:46 | 2022-06-03 | 2022-07-29 |
-| [THE DAY](https://open.spotify.com/track/3wWPWoE2b7enVy5SIqMqm9) | [PornoGraffitti](https://open.spotify.com/artist/5jQa0f5MIMPEK7udL7UpI6) | [BUTTERFLY EFFECT](https://open.spotify.com/album/1iDYx5sNkNoJwgGXEGcfSy) | 4:01 | 2025-09-01 |  |
+| [THE DAY](https://open.spotify.com/track/3wWPWoE2b7enVy5SIqMqm9) | [PornoGraffitti](https://open.spotify.com/artist/5jQa0f5MIMPEK7udL7UpI6) | [BUTTERFLY EFFECT](https://open.spotify.com/album/1iDYx5sNkNoJwgGXEGcfSy) | 4:01 | 2025-09-01 | 2026-04-15 |
 | [The Key](https://open.spotify.com/track/12WfbUv9lv5HtyUdXqb7WH) | [a flood of circle](https://open.spotify.com/artist/1BydOOxI2QltpphEOkKHgl) | [The Key](https://open.spotify.com/album/3XtRdazuS41tWAOM6XaANG) | 2:41 | 2022-07-05 | 2022-07-15 |
 | [The Reluctant Heroes <MODv>](https://open.spotify.com/track/6AfO0mvPTVMaPgS7nbRQ3A) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [劇場版「進撃の巨人」前編\~紅蓮の弓矢\~エンディングテーマ YAMANAIAME produced by 澤野弘之](https://open.spotify.com/album/3bsEgUitzaD5yyAnXG9TFQ) | 4:30 | 2022-06-24 | 2022-06-30 |
 | [THE REVO](https://open.spotify.com/track/2uzuO4xzPOmLIC3a5Xvg8h) | [PornoGraffitti](https://open.spotify.com/artist/5jQa0f5MIMPEK7udL7UpI6) | [THE REVO](https://open.spotify.com/album/1OhdNxWQU7trRLggTJRtix) | 4:00 | 2026-01-13 |  |
@@ -495,7 +498,7 @@
 | [アトック](https://open.spotify.com/track/0vWlopeKCm1atNKaTv1Bhg) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [アトック](https://open.spotify.com/album/03nazQKVW3vGbmLAOYvnzO) | 4:11 | 2022-06-24 | 2022-07-25 |
 | [アポリア](https://open.spotify.com/track/7ugSlmtBWNMAgTpdvBPcIh) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [アポリア](https://open.spotify.com/album/4AucYbX9MX5phmTpawxEfo) | 3:50 | 2025-01-14 |  |
 | [アルケミラ](https://open.spotify.com/track/1QBkrW9kGVFGHd1eS2Hsiw) | [Regal Lily](https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK) | [アルケミラ](https://open.spotify.com/album/5BgWsO3TSxunG538f6zmK6) | 3:55 | 2022-07-05 | 2022-07-07 |
-| [アンビバレント](https://open.spotify.com/track/5uYnVpwOGOaiXTJmhNd62P) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [アンビバレント](https://open.spotify.com/album/4RGVp4RZ9QKQGZrbMEJUKs) | 4:02 | 2024-04-30 |  |
+| [アンビバレント](https://open.spotify.com/track/5uYnVpwOGOaiXTJmhNd62P) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [アンビバレント](https://open.spotify.com/album/4RGVp4RZ9QKQGZrbMEJUKs) | 4:02 | 2024-04-30 | 2026-04-15 |
 | [イエスタデイ](https://open.spotify.com/track/53WuztMfY1VH3rLIm0zApQ) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Traveler](https://open.spotify.com/album/0AcDdZ01F1DSv6XSvLunkb) | 4:59 | 2024-04-16 | 2025-07-14 |
 | [イントロダクション](https://open.spotify.com/track/5oRBPD9I5A8F7UwXZddsVf) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [イントロダクション](https://open.spotify.com/album/3ZgLkg9RJVLh1Xk7vPgmlw) | 3:41 | 2022-06-21 | 2022-07-05 |
 | [インフィニティ](https://open.spotify.com/track/3Gj9gaVfc3HHyqcIFaSa70) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [インフィニティ](https://open.spotify.com/album/5A7mNWIOtdsmE3TiDiAQvm) | 4:05 | 2022-09-15 | 2022-10-19 |
@@ -814,7 +817,7 @@
 | [走れSAKAMOTO](https://open.spotify.com/track/4XObDlhGp6sREJoZj2lFv2) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [走れSAKAMOTO](https://open.spotify.com/album/7HHU5nfClWij4FgSIlXivY) | 3:25 | 2025-04-18 |  |
 | [足跡](https://open.spotify.com/track/4k5g6HNKtrWbYDllw2Dyp0) | [the peggies](https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW) | [足跡](https://open.spotify.com/album/2qSycPngTjQbW0JgEPKanq) | 3:47 | 2022-06-03 | 2022-10-19 |
 | [轍\~Wadachi\~](https://open.spotify.com/track/0AuEHmUQAMbqf9hrXBQcuT) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [轍\~Wadachi\~](https://open.spotify.com/album/5IgvSUIyXgrR0cvpcOVqho) | 3:42 | 2022-06-03 | 2022-06-13 |
-| [逆光 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/5GXYKnnzBlHvrzBQ5WoxME) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [逆光 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/3ZARNbKk2zkYDeVQpHE564) | 3:57 | 2022-10-19 |  |
+| [逆光 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/5GXYKnnzBlHvrzBQ5WoxME) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [逆光 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/3ZARNbKk2zkYDeVQpHE564) | 3:57 | 2022-10-19 | 2026-04-15 |
 | [透明](https://open.spotify.com/track/6HM9odeh1TcxBlkghy69iO) | [Mamoru Miyano](https://open.spotify.com/artist/1iR65pQAV4ssTTf9JRNr9X) | [透明](https://open.spotify.com/album/7atpOizmkOdg4GtPTjhjrZ) | 3:50 | 2022-06-03 | 2022-07-24 |
 | [透明な世界](https://open.spotify.com/track/6MjG6j8Iuea6XL9cp1aUec) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp) | [透明な世界](https://open.spotify.com/album/5UIoqGhZcqn5XFa1CwWx7I) | 4:03 | 2022-06-03 | 2022-07-27 |
 | [運命](https://open.spotify.com/track/3qyqpWcRKyundtraHd65hq) | [sumika](https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb) | [運命](https://open.spotify.com/album/2Y81L90yDhnCKmoPsxjh7e) | 3:43 | 2024-07-09 | 2025-04-19 |

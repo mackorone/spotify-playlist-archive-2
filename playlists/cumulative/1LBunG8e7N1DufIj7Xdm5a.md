@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,295 songs - 9 day 12 hr 35 min
+4,302 songs - 9 day 13 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -891,6 +891,7 @@
 | [De besos](https://open.spotify.com/track/6mHrsdGEohR5yDEZ7EXKZ4) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Mi tú y yo](https://open.spotify.com/album/7kpb1aHHgP4NterHXumzvo) | 2:47 | 2026-04-12 |  |
 | [De sol a sol](https://open.spotify.com/track/6zthGcyvorLaeLgfIhxVvM) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Puzzles](https://open.spotify.com/album/7e2bA6vx7HTLvrOtyFLChY) | 2:47 | 2026-03-15 |  |
 | [dead border](https://open.spotify.com/track/0kZq42TxsGlI603nqkUwMI) | [NicoWGH](https://open.spotify.com/artist/0vk1XCo2hhWJP7I51wR04c) | [dead border](https://open.spotify.com/album/55UiKO9HlYJfPwZXkFQT7p) | 1:46 | 2025-06-02 |  |
+| [Dead End Road](https://open.spotify.com/track/43hAOE3V7rJ6U45EH1mCKC) | [$T Money$](https://open.spotify.com/artist/7FaHB5yrW4hjuwGbbX4gL4) | [The Sound of Static](https://open.spotify.com/album/1AhJR1phukAEoqH4PwDwKR) | 2:26 | 2026-04-14 |  |
 | [Dead Oceans](https://open.spotify.com/track/24MJFUueNHVGnyTiCzKBx7) | [Ural Mountains](https://open.spotify.com/artist/2UfM6MW4B1ruqon7xmQwf3) | [Dead Oceans](https://open.spotify.com/album/2V5VrVlhZXp6WYOO6dSYSC) | 3:58 | 2025-01-29 |  |
 | [Deadly Addiction \#Music \#NewMusic \#Viral](https://open.spotify.com/track/1YMf8qAuhK3EJqor4xc9bS) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Absinthe Nights \#Music \#NewMusic \#Viral](https://open.spotify.com/album/4OEm70Vv5QIeDRUKSrKx1m) | 2:47 | 2025-09-15 |  |
 | [Deadly Paradise](https://open.spotify.com/track/1vcrlldIQ36dZoZcXOnAf4) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Neon Apocalypse](https://open.spotify.com/album/0CjDkfwPy9Iw8wYV8GKLRG) | 2:18 | 2025-09-16 |  |
@@ -1291,6 +1292,7 @@
 | [Escondidas](https://open.spotify.com/track/4HStLDKLeRkqfDuaBEHtNG) | [Lia Love](https://open.spotify.com/artist/0NUC7bx2zHEFgyTetlteOm) | [Escondidas](https://open.spotify.com/album/5Ss9iNQ5hmilJMFRVbUQor) | 2:50 | 2025-05-05 |  |
 | [Esente per amore](https://open.spotify.com/track/1z2nfvwqyEjt26kJoyFScc) | [Fakkinautika](https://open.spotify.com/artist/7t98FJi0ooEfFTHybstPgl) | [Problemi da primo mondo](https://open.spotify.com/album/1cGnlkOBkZBoWHWxoMEOAM) | 4:19 | 2025-06-10 |  |
 | [Esfera estelar](https://open.spotify.com/track/0M2AJJKUXyviBBPkNlWZeP) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Esfera](https://open.spotify.com/album/4tOgRDthKfbLEK1PkLIt9R) | 2:52 | 2026-03-15 |  |
+| [Espectador](https://open.spotify.com/track/1aTD8dSp3ZVaCWnQbr2rM1) | [oitavosounds](https://open.spotify.com/artist/6KuxuULcCuhHl7wn5LYbM8) | [Espectador](https://open.spotify.com/album/0zigtsUnrrMDHrk5a7OpMx) | 3:33 | 2026-04-14 |  |
 | [Espejismo](https://open.spotify.com/track/75Vwv0Rf9PdErAQ6RIvriY) | [Nomada Colombia](https://open.spotify.com/artist/1YxUlYFHz02JQEaTWgvTYE) | [Laberinto](https://open.spotify.com/album/3ELaISSv6CFdFW1Pq9UICk) | 3:53 | 2025-06-18 |  |
 | [Esperando por ti](https://open.spotify.com/track/2YiCxOlGqIpf1wRvgBykwC) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Mi tú y yo](https://open.spotify.com/album/7kpb1aHHgP4NterHXumzvo) | 3:11 | 2026-04-12 |  |
 | [Esplosione Sintetica](https://open.spotify.com/track/0iAeyvPqxINTGKggM9o3Pc) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Postatomic in italian](https://open.spotify.com/album/5d803oOALdw30M7xACCg8r) | 3:29 | 2025-09-17 |  |
@@ -1444,6 +1446,7 @@
 | [Fly](https://open.spotify.com/track/2jf5HABQDnF6UJQIAYP1QL) | [CrisVola](https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo) | [Fly](https://open.spotify.com/album/6QqXEXwoFpI63FhyrYEwB1) | 3:08 | 2022-10-24 |  |
 | [Fly](https://open.spotify.com/track/7vwY4dMxdUSRPvzbxEDImv) | [Sosino](https://open.spotify.com/artist/3N3Fm0hNW4lWeYysGAzFhL) | [Fly](https://open.spotify.com/album/3i0qCu6c4wVxkOse6Ddkmu) | 3:43 | 2025-06-04 |  |
 | [Fly To My Room](https://open.spotify.com/track/1NHl9g36Ebu3g16y0vtUNV) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 3:42 | 2026-03-15 |  |
+| [Flying](https://open.spotify.com/track/44jObHkNEyHv32eRjCGo3W) | [Routi](https://open.spotify.com/artist/0B3uouY3r7w7uJLIcORpIX) | [Flying](https://open.spotify.com/album/50FfNretHBsKqrwFwgx426) | 4:15 | 2026-04-14 |  |
 | [Follow the Trend](https://open.spotify.com/track/4RQWtDnEPxcoPPKV38VgdH) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Modern Trend Cool Fashion Pop Music](https://open.spotify.com/album/57wTkuygWZQS3p82tqeciv) | 2:39 | 2025-09-18 |  |
 | [Follow the Trend \(another\)](https://open.spotify.com/track/6VXfeTRPAZ3YBKSby8xl20) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Modern Trend Cool Fashion Pop Music](https://open.spotify.com/album/57wTkuygWZQS3p82tqeciv) | 2:04 | 2025-09-18 |  |
 | [Follow You](https://open.spotify.com/track/4ElvUEDrfa5O2fMIOafDdI) | [J.C\. Maru](https://open.spotify.com/artist/0P9mdqeeWfIG1jyBSsLUC7) | [Follow You](https://open.spotify.com/album/4U8GAhOShNYQE6YuhdmK2D) | 3:21 | 2026-01-21 |  |
@@ -2209,6 +2212,7 @@
 | [Loud & Sweet Disaster](https://open.spotify.com/track/0Y3lurxHVlEuXuO54KObi5) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Hard rock trash/heavy metal with pop taste](https://open.spotify.com/album/6LigdV5RX2AosQ7xMbbn11) | 3:45 | 2025-09-19 |  |
 | [Loud mister](https://open.spotify.com/track/3Er9Ws3mduyGPKdbdZTNQw) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [80's music inspired](https://open.spotify.com/album/52EpTauHULa82DwbMx0Pdh) | 4:50 | 2025-08-28 |  |
 | [Love](https://open.spotify.com/track/1o0hbhDlQxANi1sllH384o) | [Lara Strieder](https://open.spotify.com/artist/4FNp6aWDqqigyul6I0Torj) | [My Feelings](https://open.spotify.com/album/4ZbIm5MNzLB3p61sZrR1Ku) | 3:34 | 2025-06-05 |  |
+| [Love](https://open.spotify.com/track/1A7sOJ8dptHBZ4FUOtSh6i) | [Pepi](https://open.spotify.com/artist/1JcqlMEa8HWxcRm8zM5oUR) | [Shelter](https://open.spotify.com/album/4O6UZwJNgKafeU08pbjONX) | 2:36 | 2026-04-14 |  |
 | [Love Being You](https://open.spotify.com/track/4wI0HGz85GYrjSZpzfglXc) | [Silent Warriors](https://open.spotify.com/artist/0iUpiqOFyg6m3eFHlGBHN2) | [Letters From My Inner Demon](https://open.spotify.com/album/4PDsVpGc3chCW6ddO7C2ct) | 4:17 | 2026-01-06 |  |
 | [love hate](https://open.spotify.com/track/0BWhRDZajVPoO3qaLbeCDJ) | [xaviersobased](https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd) | [with 2 \(hosted by d9lton\)](https://open.spotify.com/album/1qNo1zN3Df7dI1c3Imp146) | 1:56 | 2025-07-28 |  |
 | [Love Hurts in Stereo](https://open.spotify.com/track/3Jgka9HoGVCrM0r7LsAPIo) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Sad love music](https://open.spotify.com/album/3AUNUYgv9UJbhlUNE5JGDo) | 3:25 | 2025-09-19 |  |
@@ -3571,6 +3575,7 @@
 | [Sunrise Through the Rain](https://open.spotify.com/track/5aJf7PFvegB2V4Fera6adj) | [Willow Creek](https://open.spotify.com/artist/1Dl4eYUATA4sTfXHPYEZnF) | [Sunrise Through the Rain](https://open.spotify.com/album/6P6ZRaDC8zsyBANA3Sp86Z) | 3:09 | 2025-07-14 |  |
 | [Sunset](https://open.spotify.com/track/1HkDKJRg6598ORwKJ7Mx3W) | [Routi](https://open.spotify.com/artist/0B3uouY3r7w7uJLIcORpIX) | [Sunset](https://open.spotify.com/album/7K6rtpxtm1dHdf9rStoxjP) | 2:36 | 2025-10-06 |  |
 | [Sunset](https://open.spotify.com/track/1W7QnUYUz9RCWQCzuKgP0t) | [Routi](https://open.spotify.com/artist/0B3uouY3r7w7uJLIcORpIX) | [Sunrise EP](https://open.spotify.com/album/7JDicUKhX8bbuQxM0xxW2J) | 2:36 | 2025-10-09 |  |
+| [Sunset \- Remix](https://open.spotify.com/track/0ZICBhJw4ygKdJo4bSfqTL) | [Routi](https://open.spotify.com/artist/0B3uouY3r7w7uJLIcORpIX) | [Sunset \(Remix\)](https://open.spotify.com/album/6nCyOKKnSwPsovABwuETNN) | 3:47 | 2026-04-14 |  |
 | [Sunset Dreams](https://open.spotify.com/track/3q51io20NHg9H8YcZvLHrE) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Rhythm and blues R'n'b R&B Music](https://open.spotify.com/album/0r83e7hN2UoBKUqtXabikS) | 2:32 | 2025-09-19 |  |
 | [Sunset Dreams \(another\)](https://open.spotify.com/track/3sdCSiAxglzQwnJ3GDqupa) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Rhythm and blues R'n'b R&B Music](https://open.spotify.com/album/0r83e7hN2UoBKUqtXabikS) | 2:50 | 2025-09-19 |  |
 | [sunshine](https://open.spotify.com/track/7s96r2JBcLK6kJ70I72l20) | [not equal to](https://open.spotify.com/artist/0ULpVOsLdkHOUlA3006rnz) | [sunshine](https://open.spotify.com/album/3iIgB5cAgdfXZQCSSgZcjl) | 5:38 | 2025-05-02 |  |
@@ -4114,6 +4119,7 @@
 | [Where the Power Lies](https://open.spotify.com/track/4Ox1lyF51vHPW5hSiDF02n) | [Vigilant Sun](https://open.spotify.com/artist/4CKxxKaa8QGZ4nsZJ0gGj2) | [Vigilant Sun](https://open.spotify.com/album/59buI0FjiizLzAsLPYBPkJ) | 2:55 | 2025-05-05 |  |
 | [Where's Me Jumper?](https://open.spotify.com/track/0wRBCcuhLoI85VbrPByx88) | [Sultans Of Ping F.C.](https://open.spotify.com/artist/6SdAlCpKHeAXKmNzvhuhSs), [Frank Mcnamara](https://open.spotify.com/artist/6gauCsjCSocvGc243BRdnT) | [Casual Sex In The Cineplex](https://open.spotify.com/album/3Nunc0C2S3K5heQ9VRQFPy) | 3:08 | 2025-11-05 |  |
 | [whiplash](https://open.spotify.com/track/1qVeiyPNX4KPALXyPpenBd) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [whiplash / cliche](https://open.spotify.com/album/6xE5ALjPamqaG7iPIx4dGX) | 2:47 | 2025-07-28 |  |
+| [Whisper](https://open.spotify.com/track/7r1leXqYXV7VfSRqGBfi5U) | [Shanie T](https://open.spotify.com/artist/2u9AyGn9OFUydnCaJaaTLR) | [Whisper](https://open.spotify.com/album/7fkBnWbR6UjyEJ6yfsn4KW) | 4:49 | 2026-04-14 |  |
 | [Whisper Chant](https://open.spotify.com/track/4omvk6asA71muV8dX00pwz) | [Dame Drago](https://open.spotify.com/artist/5nEZO9EvK2AurdlKJG5vY9) | [Spot On](https://open.spotify.com/album/06PXjC2VJFYKLb2F8MDmwv) | 3:25 | 2025-11-02 |  |
 | [Whisper in the Waves](https://open.spotify.com/track/0T5VuXUm0S8AZAIS0YZV8d) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Relax chill\-out](https://open.spotify.com/album/3LtAmhI3aoA94oPAJR851i) | 4:33 | 2025-09-12 |  |
 | [Whisper in the Waves \(another\)](https://open.spotify.com/track/4Izser1qwjvZUaIvO44GIx) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Relax chill\-out](https://open.spotify.com/album/3LtAmhI3aoA94oPAJR851i) | 4:37 | 2025-09-12 |  |
@@ -4258,6 +4264,7 @@
 | [Zip Code Blues \(fomo mode\)](https://open.spotify.com/track/5qetKqkIzlmG7joDz5eM8H) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [SEMIQUINCENTENNIAL VOICES](https://open.spotify.com/album/4q3D0mA0dP458GXE7Z6NIE) | 2:46 | 2026-04-13 |  |
 | [ZONA DE CONFORT](https://open.spotify.com/track/6kZT7bAhaWlvnFGYhbrm76) | [Rulo Sander](https://open.spotify.com/artist/7mUWAUHqfjF2856P1oqN8K) | [ZONA DE CONFORT](https://open.spotify.com/album/1XgJ8ZAd3welZvlnNSjKKb) | 3:13 | 2025-08-21 |  |
 | [Zoo Zoo](https://open.spotify.com/track/17AWDZmqHxJYFOACchR840) | [Edson Rano](https://open.spotify.com/artist/0VDMBcRWv0KoUaVbhWA00a) | [Enemy Or Friend](https://open.spotify.com/album/0gcf2Qf2lppiQ8MivTQenZ) | 3:51 | 2025-06-05 |  |
+| [¡YA BASTA!](https://open.spotify.com/track/7moS1lCufUhFdwVNRiJRnS) | [AETHEROHM](https://open.spotify.com/artist/2fpzZutgwQNC0dLo6Ly5Ww) | [¡YA BASTA!](https://open.spotify.com/album/4YIG0a67SoYtm4LYM5C6yq) | 3:10 | 2026-04-14 |  |
 | [À Boutte de Toute](https://open.spotify.com/track/0zWlQ3UlIX2fHQ0iTQ4oSB) | [Chacal](https://open.spotify.com/artist/5HukSi7X2MjzaLJrnCngDH) | [Le Phénomène](https://open.spotify.com/album/7nRbculOSqIzX7UGcJcYOj) | 2:35 | 2025-10-03 |  |
 | [À Quoi Ça Sert](https://open.spotify.com/track/4fV76EXoQhpeB3w9zJBF4h) | [Al 29](https://open.spotify.com/artist/0LebYgYvKDz6SzsFyoeWxs) | [Moi Qui a Mal](https://open.spotify.com/album/0iQHWtIwT46b3Rj97T2Zb4) | 3:59 | 2025-10-13 |  |
 | [Élite Mundial](https://open.spotify.com/track/3MtOrsLxv31SNJeMl3pqlv) | [Velx](https://open.spotify.com/artist/4rGwpY6x2VsXxZ1iAevcGw) | [Élite Mundial](https://open.spotify.com/album/6ZKD1o5vXu3f9cDOr8KJ7e) | 3:17 | 2025-10-07 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-02-10",
-  "description": "The best new music by independent artists in the Nordics. Cover: Eros for you. Artwork: Isu Kim",
+  "description": "The best new music by independent artists in the Nordics. Cover: The Court. Artwork: Isu Kim",
   "name": "Fresh Finds Nordics",
   "tracks": [
     {
@@ -484,6 +484,24 @@
       "duration_ms": 196076,
       "name": "a second",
       "url": "https://open.spotify.com/track/42bZLdDCYPTvWoXPiSxrTc"
+    },
+    {
+      "album": {
+        "name": "A Stitch For Grand Affairs",
+        "url": "https://open.spotify.com/album/6qrW5ybZ8vKvJdHaA1UpEx"
+      },
+      "artists": [
+        {
+          "name": "The Court",
+          "url": "https://open.spotify.com/artist/4YeLPeJgbLboih3WGXZeWJ"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181894,
+      "name": "A Stitch For Grand Affairs",
+      "url": "https://open.spotify.com/track/4XHZDe9D4wgtCxzNtJYFCG"
     },
     {
       "album": {
@@ -1764,6 +1782,28 @@
       "duration_ms": 139746,
       "name": "Back In My Head",
       "url": "https://open.spotify.com/track/5sfTqBeFmvnSssDV37CySy"
+    },
+    {
+      "album": {
+        "name": "Back of a car",
+        "url": "https://open.spotify.com/album/70I3QI750IKQK7UMgSMeve"
+      },
+      "artists": [
+        {
+          "name": "A Good Year",
+          "url": "https://open.spotify.com/artist/30F8R1qAerw8VvYtRGGg0j"
+        },
+        {
+          "name": "Koilwood",
+          "url": "https://open.spotify.com/artist/4GKDR0aZmXTNpvDBcUy1m2"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151914,
+      "name": "Back of a car",
+      "url": "https://open.spotify.com/track/77gA40f86KuiqzFMnEh2Ww"
     },
     {
       "album": {
@@ -4483,6 +4523,24 @@
     },
     {
       "album": {
+        "name": "Fading Forward",
+        "url": "https://open.spotify.com/album/6nTysmAKuGBgaaHj8hfMy7"
+      },
+      "artists": [
+        {
+          "name": "Les Imprim\u00e9s",
+          "url": "https://open.spotify.com/artist/6pCq758EGVhfbiUIeuHTcf"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186178,
+      "name": "Close My Eyes",
+      "url": "https://open.spotify.com/track/6NOUlMbo6c3XXFC5kmuHIw"
+    },
+    {
+      "album": {
         "name": "Close to Dying",
         "url": "https://open.spotify.com/album/5YVuajI1Qk3oSfE3hfFTRM"
       },
@@ -5054,7 +5112,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 175555,
       "name": "Cool Cat",
       "url": "https://open.spotify.com/track/7dQ1RxItyqBPHfd8OD0uh8"
@@ -12062,7 +12120,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 230000,
       "name": "I Hear a String Quartet Playing Everywhere I Go",
       "url": "https://open.spotify.com/track/1NWtclKzRaPG1o4IJPHpzn"
@@ -12246,7 +12304,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 179731,
       "name": "I Need To Sleep",
       "url": "https://open.spotify.com/track/0EOK77QqaKReUNZntadFlK"
@@ -17310,7 +17368,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 245342,
       "name": "moving in",
       "url": "https://open.spotify.com/track/6V68DOoiw4Z8iPPDIxtgWY"
@@ -21041,6 +21099,24 @@
     },
     {
       "album": {
+        "name": "Pure Control",
+        "url": "https://open.spotify.com/album/6BBa9JR6Je4yIyEKLHRma8"
+      },
+      "artists": [
+        {
+          "name": "Sylvie's Head",
+          "url": "https://open.spotify.com/artist/6Re2HYnIxbLkNiAY5QqPDa"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283840,
+      "name": "Pure Control",
+      "url": "https://open.spotify.com/track/0JmU4B8lEyJLS2aHSEyn1E"
+    },
+    {
+      "album": {
         "name": "Push & Pull",
         "url": "https://open.spotify.com/album/5PoFJ3cIu2DeUPTHE3UAkZ"
       },
@@ -21616,7 +21692,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 165144,
       "name": "Rewind",
       "url": "https://open.spotify.com/track/4m2kPwWnlg1pzXSrJ86VV7"
@@ -24400,6 +24476,24 @@
       "duration_ms": 176066,
       "name": "Stay Mad",
       "url": "https://open.spotify.com/track/2K9SQbtgqlmpPYgu5Luoet"
+    },
+    {
+      "album": {
+        "name": "stay with me",
+        "url": "https://open.spotify.com/album/1szkuMBPAlxjThr7K8PVxv"
+      },
+      "artists": [
+        {
+          "name": "d\u00f3ttir.x",
+          "url": "https://open.spotify.com/artist/7jq2vXolpLlHipMTPVeMR0"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179320,
+      "name": "stay with me",
+      "url": "https://open.spotify.com/track/3ohtc0JIOXUIjZVy5DCSBI"
     },
     {
       "album": {
@@ -27372,6 +27466,24 @@
       "duration_ms": 233000,
       "name": "Untangling",
       "url": "https://open.spotify.com/track/77hS4ySY9c5Hr2rLZ0JLKf"
+    },
+    {
+      "album": {
+        "name": "Until Next Time",
+        "url": "https://open.spotify.com/album/3duo5EyiWtjChSBE7OFd74"
+      },
+      "artists": [
+        {
+          "name": "Bellvie",
+          "url": "https://open.spotify.com/artist/5TfMFZyVModzZjI5DOWwnl"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228874,
+      "name": "Until Next Time",
+      "url": "https://open.spotify.com/track/6sqXo9n3Lm0P2loTJBNms5"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Baby Tate. The essential tracks, all in one playlist.",
-  "num_followers": 5163,
+  "num_followers": 5164,
   "original_name": "This Is Baby Tate",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adrggAAAAAD7ZIdPgT57naSiIynNRMWw",
+  "snapshot_id": "adwyAAAAAABHT9sSaPvYb8cHqanFcO3v",
   "tracks": [
     {
       "added_at": null,
@@ -447,30 +447,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poof Be Gone",
-        "url": "https://open.spotify.com/album/1MxPUBtYCzZ3qSxF5XUf9P"
+        "name": "RHODA",
+        "url": "https://open.spotify.com/album/28DffLzCo1BT9EVcJGDH7O"
       },
       "artists": [
         {
-          "name": "KyleYouMadeThat",
-          "url": "https://open.spotify.com/artist/7qlye19Yivz8Iog1ueVGzw"
+          "name": "Kal Banx",
+          "url": "https://open.spotify.com/artist/2TYRz7cFNZNPLUWRijsJNL"
         },
         {
           "name": "Baby Tate",
           "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
         },
         {
-          "name": "Yvette",
-          "url": "https://open.spotify.com/artist/5rirYSrpdHexU3pcU1ANrV"
-        },
-        {
-          "name": "Cheerlebridee",
-          "url": "https://open.spotify.com/artist/2I6BKeCoduZbfZJzpSNwUj"
+          "name": "Mez",
+          "url": "https://open.spotify.com/artist/30C5wgn4celhRP3Tytv7R6"
         }
       ],
-      "duration_ms": 112931,
-      "name": "Poof Be Gone (with Yung Baby Tate & Yvette and feat. Cheerlebridee)",
-      "url": "https://open.spotify.com/track/7ddJSaMdfeSeCwJzOYcE2W"
+      "duration_ms": 154931,
+      "name": "IG",
+      "url": "https://open.spotify.com/track/2eP81lAmn0nbeOWXJmhKxN"
     },
     {
       "added_at": null,
@@ -495,26 +491,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "RHODA",
-        "url": "https://open.spotify.com/album/28DffLzCo1BT9EVcJGDH7O"
+        "name": "Poof Be Gone",
+        "url": "https://open.spotify.com/album/1MxPUBtYCzZ3qSxF5XUf9P"
       },
       "artists": [
         {
-          "name": "Kal Banx",
-          "url": "https://open.spotify.com/artist/2TYRz7cFNZNPLUWRijsJNL"
+          "name": "KyleYouMadeThat",
+          "url": "https://open.spotify.com/artist/7qlye19Yivz8Iog1ueVGzw"
         },
         {
           "name": "Baby Tate",
           "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
         },
         {
-          "name": "Mez",
-          "url": "https://open.spotify.com/artist/30C5wgn4celhRP3Tytv7R6"
+          "name": "Yvette",
+          "url": "https://open.spotify.com/artist/5rirYSrpdHexU3pcU1ANrV"
+        },
+        {
+          "name": "Cheerlebridee",
+          "url": "https://open.spotify.com/artist/2I6BKeCoduZbfZJzpSNwUj"
         }
       ],
-      "duration_ms": 154931,
-      "name": "IG",
-      "url": "https://open.spotify.com/track/2eP81lAmn0nbeOWXJmhKxN"
+      "duration_ms": 112931,
+      "name": "Poof Be Gone (with Yung Baby Tate & Yvette and feat. Cheerlebridee)",
+      "url": "https://open.spotify.com/track/7ddJSaMdfeSeCwJzOYcE2W"
     },
     {
       "added_at": null,
@@ -687,6 +687,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mani/Pedi",
+        "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 189887,
+      "name": "Dancing Queen",
+      "url": "https://open.spotify.com/track/6CeSwg2uQVfz20KXwXqKZQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "KLUBFETISH",
         "url": "https://open.spotify.com/album/0YWta22ockLSMT0EA4I07s"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 166392,
       "name": "Bitches luv Kunt",
       "url": "https://open.spotify.com/track/79dFiwDYTb0w5xq0TWxaQl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mani/Pedi",
-        "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 189887,
-      "name": "Dancing Queen",
-      "url": "https://open.spotify.com/track/6CeSwg2uQVfz20KXwXqKZQ"
     },
     {
       "added_at": null,
@@ -947,18 +947,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "After The Rain: Deluxe",
-        "url": "https://open.spotify.com/album/6GOBCr97vW3rl3Nea3H6Pe"
+        "name": "Kim (with Baby Tate)",
+        "url": "https://open.spotify.com/album/7y4zc23S1ar6YUNEn56iOk"
       },
       "artists": [
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+        },
         {
           "name": "Baby Tate",
           "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
         }
       ],
-      "duration_ms": 182709,
-      "name": "Baecation",
-      "url": "https://open.spotify.com/track/34ukbJprybxATIMVL5ku4x"
+      "duration_ms": 158740,
+      "name": "Kim (with Baby Tate)",
+      "url": "https://open.spotify.com/track/7ctUZZrE8nIerrGeC52Vkt"
     },
     {
       "added_at": null,
@@ -983,22 +987,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kim (with Baby Tate)",
-        "url": "https://open.spotify.com/album/7y4zc23S1ar6YUNEn56iOk"
+        "name": "After The Rain: Deluxe",
+        "url": "https://open.spotify.com/album/6GOBCr97vW3rl3Nea3H6Pe"
       },
       "artists": [
-        {
-          "name": "Tkay Maidza",
-          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
-        },
         {
           "name": "Baby Tate",
           "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
         }
       ],
-      "duration_ms": 158740,
-      "name": "Kim (with Baby Tate)",
-      "url": "https://open.spotify.com/track/7ctUZZrE8nIerrGeC52Vkt"
+      "duration_ms": 182709,
+      "name": "Baecation",
+      "url": "https://open.spotify.com/track/34ukbJprybxATIMVL5ku4x"
     }
   ],
   "unique_name": "This Is Baby Tate",

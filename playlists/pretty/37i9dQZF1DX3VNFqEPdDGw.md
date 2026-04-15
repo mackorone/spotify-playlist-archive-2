@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3VNFqEPdDGw.md) - [plain]
 
 > Bhangra is our pride, Bhangra is our culture\. Cover: Ranjit Bawa
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,137 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,154 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3VNFqEPdDGw.md) - [plain]
 | 99 | [CHARDIKALA](https://open.spotify.com/track/6v6DXxklXsiaYuO5Ks5cts) | [Shooter Kahlon](https://open.spotify.com/artist/5oL0GAI8fKD0Wgbr4Em9AS), [Shevv](https://open.spotify.com/artist/2EQoFz6owAP4ATr5hGFRok) | [CHARDIKALA](https://open.spotify.com/album/7fJSZmxRdEoAFNl7vEznxu) | 2:49 |
 | 100 | [SUPREME](https://open.spotify.com/track/5nUAZKw9lVbhKfWvWc5hFm) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj) | [XPENSIVE](https://open.spotify.com/album/6uYJ79s2t3NPe3Mkyb33oZ) | 2:50 |
 
-Snapshot ID: `AAAAAHW1jbK+W7cXLERo4onHFWVtEmFF`
+Snapshot ID: `AAAAAHPTiHucT6OY8f6VMKj07IvPx6ME`

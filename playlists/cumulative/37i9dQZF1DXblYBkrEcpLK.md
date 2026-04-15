@@ -2,9 +2,9 @@
 
 ### [Women of Anime](https://open.spotify.com/playlist/37i9dQZF1DXblYBkrEcpLK)
 
-> Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: Ado
+> Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: tuki.
 
-845 songs - 2 day 7 hr 37 min
+846 songs - 2 day 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -362,7 +362,7 @@
 | [snowspring](https://open.spotify.com/track/7tonj11VpAOhsOH7QgJPhq) | [チョーキューメイ](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [snowspring](https://open.spotify.com/album/6097pqjwHjLkbbWj30WQmt) | 3:42 | 2024-02-13 | 2024-04-29 |
 | [So Precious](https://open.spotify.com/track/1xq5OxDUGhqBFXgjC9TGPK) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [So Precious](https://open.spotify.com/album/6LexuWYpwKbdy00OH8l9Xk) | 3:29 | 2024-07-03 | 2024-07-10 |
 | [So Sweet](https://open.spotify.com/track/32UKoNWChyyojIoPBKY4UA) | [諏訪ななか](https://open.spotify.com/artist/2Rpn2JNSFaoyhgEj3H9dVO) | [So Sweet Dolce](https://open.spotify.com/album/0LBVqFA75oXV4giQAMmXO6) | 3:54 | 2022-06-09 | 2022-07-24 |
-| [soldier game](https://open.spotify.com/track/6EjqikavIw48BKxg7Z8gGQ) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [LoveLive! Series 15th Anniversary Tribute Album](https://open.spotify.com/album/4UvWdqO4nQwqeAz4UHBVMi) | 3:41 | 2026-01-13 |  |
+| [soldier game](https://open.spotify.com/track/6EjqikavIw48BKxg7Z8gGQ) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [LoveLive! Series 15th Anniversary Tribute Album](https://open.spotify.com/album/4UvWdqO4nQwqeAz4UHBVMi) | 3:41 | 2026-01-13 | 2026-04-15 |
 | [SPARK\-AGAIN](https://open.spotify.com/track/3NEuSQZbVmfQwRuDKol40Y) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [SPARK\-AGAIN](https://open.spotify.com/album/3OBjI5LyxiWJZSEuBskBbG) | 4:04 | 2022-06-09 | 2024-01-26 |
 | [Starlight](https://open.spotify.com/track/1ABjxk6Qi7TVUDOdGuwUku) | [山崎エリイ](https://open.spotify.com/artist/5YaIAeyoNO71sWHtzxyX3e) | [夜明けのシンデレラ](https://open.spotify.com/album/6BwUGhGZ8oVop9FdTXnwyz) | 4:35 | 2022-07-19 | 2022-07-24 |
 | [Startear](https://open.spotify.com/track/38V08pHESW17gjuCPLyDrj) | [Luna Haruna](https://open.spotify.com/artist/4eL15GpHSLAAvv5sT00c5i) | [Candy Lips](https://open.spotify.com/album/15urkuwuHAyODCoizByCf2) | 5:02 | 2022-07-07 | 2022-07-10 |
@@ -836,6 +836,7 @@
 | [閃光 \- from CrosSing](https://open.spotify.com/track/728QeC4NdjDKTThzVxxEHu) | [相羽あいな](https://open.spotify.com/artist/1O4MFhLFDziEtfA6S6MhWu) | [閃光 \- from CrosSing](https://open.spotify.com/album/5m4kVfU62qsNN3tiGyGIAT) | 4:23 | 2023-05-16 | 2023-05-18 |
 | [陽はまた昇るから](https://open.spotify.com/track/43PlsJn27zRG2KjpL12eb7) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [陽はまた昇るから](https://open.spotify.com/album/7AIde6PYcdVe8iPF5Jp08h) | 4:26 | 2022-07-28 | 2023-03-10 |
 | [雑踏、僕らの街](https://open.spotify.com/track/0tNSVPZeJjpNH7Q9VqrbyJ) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [雑踏、僕らの街](https://open.spotify.com/album/5aX0n53SHMx8iHE6ctlOwh) | 3:04 | 2024-04-23 | 2024-12-16 |
+| [零\-zero\-](https://open.spotify.com/track/0pLGNoLZ1q2r6Qt8ZYAS8u) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [零\-zero\-](https://open.spotify.com/album/0M7H0tlUKc9PSljiRzx9mi) | 3:58 | 2026-04-14 |  |
 | [雷櫻](https://open.spotify.com/track/321Act4cJD2NncZYONJlZ6) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [9Lana](https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ), [SAKURAmoti](https://open.spotify.com/artist/2raQe3AjMykp6K4Y890owO) | [雷櫻](https://open.spotify.com/album/4PMYkY5UkCQuLSPWnyNIdP) | 3:38 | 2024-02-13 | 2024-06-26 |
 | [青100色](https://open.spotify.com/track/6tP2bYIUMcDFn9Zfs9ZAE4) | [伊藤美来](https://open.spotify.com/artist/4IcWgtz5hpMVQ8ZFEXUSAD) | [青100色 \(TVアニメ「古見さんは、コミュ症です。」オープニング・テーマ\)](https://open.spotify.com/album/3SpGjj6yNjbv5OvObTrPNy) | 3:56 | 2022-06-24 | 2022-08-04 |
 | [青い栞](https://open.spotify.com/track/6brI7miXQ375is9V8lOxLv) | [YuNi](https://open.spotify.com/artist/6BzlN4V17m7ogeItP4CNN5), [ChumuNote](https://open.spotify.com/artist/5maYs0hbUpR8mBmWgxsT0s) | [gnosinA](https://open.spotify.com/album/0GZq4fzVeXwZC07iGhZM8J) | 5:34 | 2023-10-24 | 2023-11-18 |

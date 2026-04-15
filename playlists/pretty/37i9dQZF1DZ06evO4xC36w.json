@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Sebastian. The essential tracks, all in one playlist.",
-  "num_followers": 1015803,
+  "num_followers": 1015909,
   "original_name": "This Is Joan Sebastian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adrggAAAAACiSvgq5kg+FzUp9xOl5/Xf",
+  "snapshot_id": "adwyAAAAAABKRivpaFcBT80nk4/DWuZg",
   "tracks": [
     {
       "added_at": null,
@@ -471,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joan Sebastian con Tambora",
-        "url": "https://open.spotify.com/album/4c5Q81KOben9aOKTxA4uwi"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 157222,
-      "name": "El Viejo Joven",
-      "url": "https://open.spotify.com/track/6sLCQVaplvobjCnNdTjupA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Peor De Tus Antojos",
         "url": "https://open.spotify.com/album/0xCvjzBPz0Ir2t57IaBzim"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 151510,
       "name": "Envidia",
       "url": "https://open.spotify.com/track/4wobadpvabyC1A50QWd0s1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Joan Sebastian con Tambora",
+        "url": "https://open.spotify.com/album/4c5Q81KOben9aOKTxA4uwi"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 157222,
+      "name": "El Viejo Joven",
+      "url": "https://open.spotify.com/track/6sLCQVaplvobjCnNdTjupA"
     },
     {
       "added_at": null,
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Norte\u00f1o",
-        "url": "https://open.spotify.com/album/7twlQPPrIidwR6Q4YLy0em"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 187431,
-      "name": "En Tu Sonrisa",
-      "url": "https://open.spotify.com/track/1fH1YGzkP3mQrZhtwGrtp7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Joan Sebastian Con El Mariachi Vargas",
         "url": "https://open.spotify.com/album/4Cg0XRlaFZkco0rQRP7zGX"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 187368,
       "name": "Como T\u00fa Decidas",
       "url": "https://open.spotify.com/track/4KqOiOYOS9ufuOlzdh1kJ5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Norte\u00f1o",
+        "url": "https://open.spotify.com/album/7twlQPPrIidwR6Q4YLy0em"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 187431,
+      "name": "En Tu Sonrisa",
+      "url": "https://open.spotify.com/track/1fH1YGzkP3mQrZhtwGrtp7"
     },
     {
       "added_at": null,
@@ -583,6 +583,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mis Nuevas Baladas",
+        "url": "https://open.spotify.com/album/2h3DQl3byNnb8XWKG47QIJ"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 186003,
+      "name": "El Perdedor",
+      "url": "https://open.spotify.com/track/7fnWTFPCOrP3Hmp7zHXq1Z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Grandes Duetos",
         "url": "https://open.spotify.com/album/33DVEiEzNDnc0Ojj2knqtS"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 209676,
       "name": "Oiga",
       "url": "https://open.spotify.com/track/2kPmtoTWr2vusy8qw1iFiB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mis Nuevas Baladas",
-        "url": "https://open.spotify.com/album/2h3DQl3byNnb8XWKG47QIJ"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 186003,
-      "name": "El Perdedor",
-      "url": "https://open.spotify.com/track/7fnWTFPCOrP3Hmp7zHXq1Z"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Afortunado",
-        "url": "https://open.spotify.com/album/22e1rqsSwL5RHuuqkYlDJZ"
+        "name": "Joan Sebastian Con Mariachi",
+        "url": "https://open.spotify.com/album/1jYXfyqPjptyl9xuiNu42Z"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 198356,
-      "name": "As\u00ed Te Quiero",
-      "url": "https://open.spotify.com/track/4u6zS8iQZ7Y6LgW7WXwaLb"
+      "duration_ms": 159921,
+      "name": "Llorar",
+      "url": "https://open.spotify.com/track/0IGlHKJ7Q5LGynrnugorck"
     },
     {
       "added_at": null,
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joan Sebastian Con Mariachi",
-        "url": "https://open.spotify.com/album/1jYXfyqPjptyl9xuiNu42Z"
+        "name": "Afortunado",
+        "url": "https://open.spotify.com/album/22e1rqsSwL5RHuuqkYlDJZ"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 159921,
-      "name": "Llorar",
-      "url": "https://open.spotify.com/track/0IGlHKJ7Q5LGynrnugorck"
+      "duration_ms": 198356,
+      "name": "As\u00ed Te Quiero",
+      "url": "https://open.spotify.com/track/4u6zS8iQZ7Y6LgW7WXwaLb"
     },
     {
       "added_at": null,

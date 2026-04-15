@@ -1,12 +1,12 @@
 {
   "description": "This is Sof\u00eda Reyes. The essential tracks, all in one playlist.",
-  "num_followers": 43665,
+  "num_followers": 43666,
   "original_name": "This Is Sof\u00eda Reyes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adrggAAAAADNFWwQK4HR6l237Gvi4/6s",
+  "snapshot_id": "adwyAAAAAADL0ZRqdBmDEhyqOQS3/1Rz",
   "tracks": [
     {
       "added_at": null,
@@ -691,46 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gotta Be Patient",
-        "url": "https://open.spotify.com/album/6zqf7sIi51QWskNvkEYaA7"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        },
-        {
-          "name": "Barenaked Ladies",
-          "url": "https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79"
-        },
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 160318,
-      "name": "Gotta Be Patient",
-      "url": "https://open.spotify.com/track/2Nb2SSUnGfThgDyG9ZOAkS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mal De Amores",
-        "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 136015,
-      "name": "La Bachata",
-      "url": "https://open.spotify.com/track/6vsajTbLWyrVPHtYvbX35J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Whoppa (feat. Sofia Reyes and Farina)",
         "url": "https://open.spotify.com/album/4mpHXNkpedPXUkpBgFzZOp"
       },
@@ -755,6 +715,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mal De Amores",
+        "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 136015,
+      "name": "La Bachata",
+      "url": "https://open.spotify.com/track/6vsajTbLWyrVPHtYvbX35J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gotta Be Patient",
+        "url": "https://open.spotify.com/album/6zqf7sIi51QWskNvkEYaA7"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        },
+        {
+          "name": "Barenaked Ladies",
+          "url": "https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 160318,
+      "name": "Gotta Be Patient",
+      "url": "https://open.spotify.com/track/2Nb2SSUnGfThgDyG9ZOAkS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "IDGAF ERA",
         "url": "https://open.spotify.com/album/045qBqjV98Y6TlpCx0hq3V"
       },
@@ -771,6 +771,38 @@
       "duration_ms": 147482,
       "name": "U\u00f1as Afiladas",
       "url": "https://open.spotify.com/track/3lQhZXwbJmu5s2tp9LHKzT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "IDGAF ERA (postdata)",
+        "url": "https://open.spotify.com/album/26TRZwSMrhMrTC3WkD6qM8"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 161826,
+      "name": "Lo Bueno y Lo Malo",
+      "url": "https://open.spotify.com/track/1pOmmOjExecXVlLvg2iC6P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "IDIOTA",
+        "url": "https://open.spotify.com/album/5HLaq4AONQkCMvFVHswg85"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 205013,
+      "name": "IDIOTA",
+      "url": "https://open.spotify.com/track/0Wk3MRrKRn6EPG7B83nKSJ"
     },
     {
       "added_at": null,
@@ -803,22 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "IDIOTA",
-        "url": "https://open.spotify.com/album/5HLaq4AONQkCMvFVHswg85"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 205013,
-      "name": "IDIOTA",
-      "url": "https://open.spotify.com/track/0Wk3MRrKRn6EPG7B83nKSJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NOT \u00dc",
         "url": "https://open.spotify.com/album/6WhhFMVZAcW8dWpipOddAk"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 139322,
       "name": "NOT \u00dc",
       "url": "https://open.spotify.com/track/7GJtYstZAW9hVBoTMfkYgh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "IDGAF ERA (postdata)",
-        "url": "https://open.spotify.com/album/26TRZwSMrhMrTC3WkD6qM8"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 161826,
-      "name": "Lo Bueno y Lo Malo",
-      "url": "https://open.spotify.com/track/1pOmmOjExecXVlLvg2iC6P"
     },
     {
       "added_at": null,

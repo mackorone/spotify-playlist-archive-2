@@ -1,12 +1,12 @@
 {
   "description": "This is \u00c9liane Radigue. The essential tracks, all in one playlist.",
-  "num_followers": 386,
+  "num_followers": 387,
   "original_name": "This Is \u00c9liane Radigue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adrggAAAAACbS0O7gnRzyDuWQHlFD+N5",
+  "snapshot_id": "adwyAAAAAADBOyH1WVeuif4nyRe2pmer",
   "tracks": [
     {
       "added_at": null,
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh"
         }
       ],
-      "duration_ms": 96557,
-      "name": "La note",
-      "url": "https://open.spotify.com/track/2ZpGWu0myOzQevbBpjcA8P"
+      "duration_ms": 101362,
+      "name": "Le synth\u00e9tiseur",
+      "url": "https://open.spotify.com/track/0EzWzEVxEGekSR3E3T5cTh"
     },
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh"
         }
       ],
-      "duration_ms": 101362,
-      "name": "Le synth\u00e9tiseur",
-      "url": "https://open.spotify.com/track/0EzWzEVxEGekSR3E3T5cTh"
+      "duration_ms": 96557,
+      "name": "La note",
+      "url": "https://open.spotify.com/track/2ZpGWu0myOzQevbBpjcA8P"
     },
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh"
         }
       ],
-      "duration_ms": 100019,
-      "name": "Le reflet",
-      "url": "https://open.spotify.com/track/6DxYjk3VnYEKOzNgyi7cXc"
+      "duration_ms": 58000,
+      "name": "Perception par l'auditeur",
+      "url": "https://open.spotify.com/track/5E215k1evgzekQVh0nCiBA"
     }
   ],
   "unique_name": "This Is \u00c9liane Radigue",

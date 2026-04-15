@@ -5348,7 +5348,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 190000,
       "name": "Tuu",
       "url": "https://open.spotify.com/track/4xjl6sWP6L2CxuuJ2Ue3U0"
@@ -5736,6 +5736,28 @@
       "duration_ms": 216877,
       "name": "Zindagi Ki Goud Mein",
       "url": "https://open.spotify.com/track/0wA7aUIOOynbdIyF6AIejn"
+    },
+    {
+      "album": {
+        "name": "Zulfein",
+        "url": "https://open.spotify.com/album/2WHjGj5PkPBpuINBtPWQAU"
+      },
+      "artists": [
+        {
+          "name": "Mehul Mahesh",
+          "url": "https://open.spotify.com/artist/2kyOjoPL3gf3VnKeje7NoD"
+        },
+        {
+          "name": "Dj AYnik",
+          "url": "https://open.spotify.com/artist/7woN8EeGudPDKwSjbuUezk"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198831,
+      "name": "Zulfein",
+      "url": "https://open.spotify.com/track/6GK02ZOmn7hzEOWVc4YfwC"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5q67ZpWyRrZ"

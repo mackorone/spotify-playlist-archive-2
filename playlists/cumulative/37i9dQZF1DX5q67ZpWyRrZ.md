@@ -4,7 +4,7 @@
 
 > Best of the Indian Indie scene\. Cover \- Gini
 
-289 songs - 16 hr 30 min
+290 songs - 16 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,7 +276,7 @@
 | [Tum Se](https://open.spotify.com/track/1QNI17b6WjGs8WEfjYMwep) | [OutStation](https://open.spotify.com/artist/1mPbly9dEPJVrAGPkkgAgH) | [Tum Se](https://open.spotify.com/album/6Uvvd29SK7zATTBKFRs5mD) | 3:52 | 2025-12-18 |  |
 | [Tuta Pull Wahan](https://open.spotify.com/track/7EYEswNmA0XjzwUitONgzK) | [Deepak Rathore](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Tuta Pull Wahan](https://open.spotify.com/album/00BfVMr2A2C6V1fScLpMTI) | 5:13 | 2022-08-23 | 2026-03-24 |
 | [Tuta Pull Wahan](https://open.spotify.com/track/4gCVaEUubhHmhsEe0GFRVx) | [Deepak Rathore Project](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Tuta Pull Wahan](https://open.spotify.com/album/2gFMOqvZHiCwD6myI65Okz) | 5:12 | 2022-07-13 | 2022-08-24 |
-| [Tuu](https://open.spotify.com/track/4xjl6sWP6L2CxuuJ2Ue3U0) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Tuu](https://open.spotify.com/album/4c71J6heXCYsJP6IVrzHFp) | 3:10 | 2024-05-28 |  |
+| [Tuu](https://open.spotify.com/track/4xjl6sWP6L2CxuuJ2Ue3U0) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Tuu](https://open.spotify.com/album/4c71J6heXCYsJP6IVrzHFp) | 3:10 | 2024-05-28 | 2026-04-15 |
 | [Udaan](https://open.spotify.com/track/4P04qZvFhETXTGviFu9xL5) | [The Yellow Diary](https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc) | [Udaan](https://open.spotify.com/album/4S6vdgAvjXuO4gDE4kbxJ5) | 3:18 | 2022-01-05 | 2022-01-20 |
 | [Udd Chala](https://open.spotify.com/track/7n6DDEpcqkhkiGhXwexF9I) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Udd Chala](https://open.spotify.com/album/7LT4xezgouCmrPpbqQOwTu) | 4:46 | 2023-02-28 | 2023-08-26 |
 | [Udd Gaye](https://open.spotify.com/track/5ZsAhuQ24mWHiduaxJqnhW) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Ved](https://open.spotify.com/album/7LPx9F9ZQWWvQlKgIQi1OZ) | 3:00 | 2022-01-05 | 2023-10-19 |
@@ -297,5 +297,6 @@
 | [Zakir](https://open.spotify.com/track/1ZGLauVoD74BU8y8O5btcO) | [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R) | [Hindi Gaane](https://open.spotify.com/album/5fOzwws4qbE6ZPKQU3BSHI) | 3:41 | 2023-12-05 | 2024-04-19 |
 | [Zakir](https://open.spotify.com/track/6RtnuC14DOUrvpRgS6WMQX) | [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R) | [Zakir](https://open.spotify.com/album/2EsxYdY99R9jF31YveCUZN) | 3:41 | 2021-12-06 | 2025-09-23 |
 | [Zindagi Ki Goud Mein](https://open.spotify.com/track/0wA7aUIOOynbdIyF6AIejn) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Zindagi Ki Goud Mein](https://open.spotify.com/album/6ZdIpnlVpCcv7ZOS5jC2Ci) | 3:36 | 2022-01-05 | 2022-06-21 |
+| [Zulfein](https://open.spotify.com/track/6GK02ZOmn7hzEOWVc4YfwC) | [Mehul Mahesh](https://open.spotify.com/artist/2kyOjoPL3gf3VnKeje7NoD), [Dj AYnik](https://open.spotify.com/artist/7woN8EeGudPDKwSjbuUezk) | [Zulfein](https://open.spotify.com/album/2WHjGj5PkPBpuINBtPWQAU) | 3:18 | 2026-04-14 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

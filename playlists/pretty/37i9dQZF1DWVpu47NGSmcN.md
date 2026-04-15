@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpu47NGSmcN.md) - [plain]
 
 > Jejeran artis perempuan inspiratif Indonesia\. Cover: Vanessa Zee
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,952 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,955 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpu47NGSmcN.md) - [plain]
 | 49 | [Bloom](https://open.spotify.com/track/31wZxPeJt5orIVYQGwqrWS) | [KLAV](https://open.spotify.com/artist/2Rzj6pwJrpcPvILalPsGjU) | [Bloom](https://open.spotify.com/album/1gGfU3AD1WJJMu3nG1x0SV) | 5:30 |
 | 50 | [Difference](https://open.spotify.com/track/1bhMxRHujv6SzNMDeFAw9T) | [safiradinda](https://open.spotify.com/artist/2dptqJyVPAcFp771zi3IOP) | [Difference](https://open.spotify.com/album/3Md6Ln2jgbj4Wakq37VS5q) | 3:08 |
 
-Snapshot ID: `AAAAABN+k9UVd82F0d6zw9bdP95kDywo`
+Snapshot ID: `AAAAAMHAQ62ZfnkYlyC90k8O4kp2puo/`

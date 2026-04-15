@@ -1,12 +1,12 @@
 {
   "description": "This is Vilma Palma e Vampiros. The essential tracks, all in one playlist.",
-  "num_followers": 75722,
+  "num_followers": 75731,
   "original_name": "This Is Vilma Palma e Vampiros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adrggAAAAABGZWW6yAfSqCIJ8YiNmLeK",
+  "snapshot_id": "adwyAAAAAAB8GvniafZYTcAmigvVIt4h",
   "tracks": [
     {
       "added_at": null,
@@ -583,6 +583,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hecatombe Disco",
+        "url": "https://open.spotify.com/album/2ZGCpjlSEH00JNwAPjY1o0"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "duration_ms": 211666,
+      "name": "Est\u00fapida",
+      "url": "https://open.spotify.com/track/6IiCJye3u6X8C83pR1WWLy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hasta All\u00e1 En El Cielo / Bye Bye",
         "url": "https://open.spotify.com/album/02NQhvzvCmfTuzhIJRRl5Y"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 334378,
       "name": "Hasta All\u00e1 En El Cielo / Bye Bye",
       "url": "https://open.spotify.com/track/4SyICyHO6ZEP89IRbtMhNO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hecatombe Disco",
-        "url": "https://open.spotify.com/album/2ZGCpjlSEH00JNwAPjY1o0"
-      },
-      "artists": [
-        {
-          "name": "Vilma Palma e Vampiros",
-          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
-        }
-      ],
-      "duration_ms": 211666,
-      "name": "Est\u00fapida",
-      "url": "https://open.spotify.com/track/6IiCJye3u6X8C83pR1WWLy"
     },
     {
       "added_at": null,
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 278480,
-      "name": "Reina del Club",
-      "url": "https://open.spotify.com/track/0MlWFjOxbBAHg9JuQNHZoH"
+      "duration_ms": 195666,
+      "name": "Agarrate Fuerte",
+      "url": "https://open.spotify.com/track/3lUBSiPCNkJGVmd9jG6T39"
     },
     {
       "added_at": null,
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 195666,
-      "name": "Agarrate Fuerte",
-      "url": "https://open.spotify.com/track/3lUBSiPCNkJGVmd9jG6T39"
+      "duration_ms": 278480,
+      "name": "Reina del Club",
+      "url": "https://open.spotify.com/track/0MlWFjOxbBAHg9JuQNHZoH"
     },
     {
       "added_at": null,
@@ -788,8 +788,8 @@
       },
       "artists": [
         {
-          "name": "Elias Rampello",
-          "url": "https://open.spotify.com/artist/6lKEFqDhgTUrLnlbqqCp0I"
+          "name": "El\u00edas Rampello",
+          "url": "https://open.spotify.com/artist/1OO4dbmG9Fvz897JRIWiys"
         },
         {
           "name": "Vilma Palma e Vampiros",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7TzN3KI1wiS.md) - [plain]
 
 > <a href="spotify:artist:34iHrE61AX1yx8uAqNOCyU">Cosmicat</a>'s favorite tracks\. Updated regularly\. Curated by Cosmicat\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,799 likes - 141 songs - 11 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,822 likes - 141 songs - 11 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7TzN3KI1wiS.md) - [plain]
 | 76 | [Breathe](https://open.spotify.com/track/6TR0FGw4zhlGbQALN065AI) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Breathe](https://open.spotify.com/album/7c4A33WznTkdnqBEmLsWWF) | 3:14 |
 | 77 | [THE ONE](https://open.spotify.com/track/0NHMIpUN5tk0zbHNvkIiav) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [THE ONE](https://open.spotify.com/album/70XMWmygOBc9zAC2MuGa0n) | 2:40 |
 | 78 | [Good Enough](https://open.spotify.com/track/7JwN3Kb7BHTqasoRE8s9gr) | [Bronze Whale](https://open.spotify.com/artist/448VwSmqc6SpRDqK5WYXIt) | [Good Enough](https://open.spotify.com/album/567tbwXQ71LAMEzzHxWrPZ) | 3:33 |
-| 79 | [Your Mind \(feat\. JADE\)](https://open.spotify.com/track/7ouiEZohUVst7Ua0kV8Acb) | [DIDI HAN](https://open.spotify.com/artist/2j74J6dIUd8X3x6UKH3pZF), [Jade](https://open.spotify.com/artist/4WmtKVMoT1cQyHhD6lduGh) | [Forest](https://open.spotify.com/album/4C45OQeWsIvj1QNb4aHiMs) | 3:25 |
+| 79 | [Your Mind \(feat\. JADE\)](https://open.spotify.com/track/7ouiEZohUVst7Ua0kV8Acb) | [Didi Han](https://open.spotify.com/artist/2j74J6dIUd8X3x6UKH3pZF), [Jade](https://open.spotify.com/artist/4WmtKVMoT1cQyHhD6lduGh) | [Forest](https://open.spotify.com/album/4C45OQeWsIvj1QNb4aHiMs) | 3:25 |
 | 80 | [Out Of Time](https://open.spotify.com/track/51cgJEFd8FPzkUZeXyV1rp) | [Ross Quinn](https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr) | [Out Of Time](https://open.spotify.com/album/1iJBdf1kJWRMDewaQG5CbV) | 3:47 |
 | 81 | [The Ocean](https://open.spotify.com/track/4CTQIxwI2Z669h33loVoy7) | [Anchorsong](https://open.spotify.com/artist/7JFO7bnWWApOFvTMS3NFgh), [Bookend](https://open.spotify.com/artist/25Fdr64rur2zWVMYSnit4i) | [Mirage](https://open.spotify.com/album/1gtjPZUiVldSNaUwzZfdLe) | 4:02 |
 | 82 | [Father Ocean \- Ben Böhmer Remix Edit](https://open.spotify.com/track/4oWDaJpusSH1lqIQQkEHsS) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [Father Ocean](https://open.spotify.com/album/6QfLZV1rr8VYR14jyOMzUc) | 5:18 |

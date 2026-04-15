@@ -1,12 +1,12 @@
 {
   "description": "This is Bobby Pulido. The essential tracks, all in one playlist.",
-  "num_followers": 31698,
+  "num_followers": 31702,
   "original_name": "This Is Bobby Pulido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adrggAAAAACTjECp9uf7L6hkAYfoWDyL",
+  "snapshot_id": "adwyAAAAAADcdjHX5SaDCDTKpxchQOl1",
   "tracks": [
     {
       "added_at": null,
@@ -495,26 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nada De Nada",
-        "url": "https://open.spotify.com/album/49gCKCeoM3fmWI4jNv71PK"
-      },
-      "artists": [
-        {
-          "name": "Los Rojos",
-          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
-        },
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 181600,
-      "name": "Nada De Nada",
-      "url": "https://open.spotify.com/track/78PFDzdmPuMpTHLgMpIkKU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El \u00daltimo Rom\u00e1ntico",
         "url": "https://open.spotify.com/album/4AQ6qn5bLcBCU8H0PDtZRC"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 186000,
       "name": "El \u00daltimo Rom\u00e1ntico",
       "url": "https://open.spotify.com/track/1uh8sWHg8QcCs8K9S2NDZM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nada De Nada",
+        "url": "https://open.spotify.com/album/49gCKCeoM3fmWI4jNv71PK"
+      },
+      "artists": [
+        {
+          "name": "Los Rojos",
+          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
+        },
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 181600,
+      "name": "Nada De Nada",
+      "url": "https://open.spotify.com/track/78PFDzdmPuMpTHLgMpIkKU"
     },
     {
       "added_at": null,

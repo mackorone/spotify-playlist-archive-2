@@ -1,12 +1,12 @@
 {
   "description": "This is Edgardo Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 56726,
+  "num_followers": 56817,
   "original_name": "This Is Edgardo Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adrggAAAAADfaYGISmUlX9hcRP3k285g",
+  "snapshot_id": "adwyAAAAAABu+n1kmPn91aRKwrvLYazV",
   "tracks": [
     {
       "added_at": null,
@@ -287,22 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos 602",
-        "url": "https://open.spotify.com/album/2xrbCG92PwLpKWUAWD4Wv3"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 167370,
-      "name": "Pideme la Luna",
-      "url": "https://open.spotify.com/track/1wdEQqn7ZaN6alXDQHjFMe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El De Las Mieles",
         "url": "https://open.spotify.com/album/6RiQR16JyRg0cCSLhDklP0"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 205141,
       "name": "El De Las Mieles",
       "url": "https://open.spotify.com/track/23YQI4C7gVxBxlbtn62Lvv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos 602",
+        "url": "https://open.spotify.com/album/2xrbCG92PwLpKWUAWD4Wv3"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 167370,
+      "name": "Pideme la Luna",
+      "url": "https://open.spotify.com/track/1wdEQqn7ZaN6alXDQHjFMe"
     },
     {
       "added_at": null,

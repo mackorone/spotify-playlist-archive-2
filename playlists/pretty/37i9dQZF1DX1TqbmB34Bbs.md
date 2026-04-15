@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TqbmB34Bbs.md) - [plain]
 
 > Illest hardcore K\-hip hop tracks are here\. \(Cover: Lil Moshpit\) \(공격력 상승 국내 힙합을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,464 likes - 200 songs - 11 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,470 likes - 200 songs - 11 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TqbmB34Bbs.md) - [plain]
 | 199 | [MUKKBANG! \- REMIX](https://open.spotify.com/track/2VatmjFdAfLAWCWDYa4KwS) | [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4), [GOLDBUUDA](https://open.spotify.com/artist/1C6mRx44pGqKBwZKotODDV), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9), [Dumbfoundead](https://open.spotify.com/artist/7LTShHcq1KdTrWeLvWoYed) | [Chef Talk](https://open.spotify.com/album/2ll17HjU834VzWOzSL57Sw) | 2:40 |
 | 200 | [Chosun Savage](https://open.spotify.com/track/63mNHnrkWFa6ZqyxdbKJU7) | [J\-Tong](https://open.spotify.com/artist/70DqoppP3xK7LgtYiccxfZ) | [Chosun Savage](https://open.spotify.com/album/6EL4tgrELUnKK8IoDQ2o2D) | 3:38 |
 
-Snapshot ID: `AAAAALjv5eI37c9hfH2O0QAsNOZYAqWT`
+Snapshot ID: `AAAAADX3A7hgsAlzojby5kbvNpGfXvAs`

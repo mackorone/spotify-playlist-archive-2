@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX75NPukNKIss.md) - [plain]
 
 > Way 2 Slizzy\. Cover: Don Toliver
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,990 likes - 105 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,032 likes - 105 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

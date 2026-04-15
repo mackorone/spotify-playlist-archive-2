@@ -4,7 +4,7 @@
 
 > This is Motörhead\. The essential tracks, all in one playlist.
 
-132 songs - 8 hr 6 min
+133 songs - 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Damage Case](https://open.spotify.com/track/5VtZWqbYE9vkVSbvqNmg2D) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Overkill \(Expanded Bonus Track Edition\)](https://open.spotify.com/album/5iw08epzFaKtmX3y2vRVU6) | 3:02 | 2022-12-30 | 2023-12-14 |
 | [Dead Men Tell No Tales](https://open.spotify.com/track/20KE0WQNmYYYhI2U5coisY) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bomber](https://open.spotify.com/album/0WVRXw04iy4QN2EnmXx11I) | 3:04 | 2024-03-11 | 2026-03-12 |
 | [Deaf Forever](https://open.spotify.com/track/4U9PDEya4AvkU4yLDRIhsM) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Orgasmatron](https://open.spotify.com/album/4bVbdsl3q1Bnsn6Eq8MKJI) | 4:26 | 2024-01-13 |  |
+| [Doctor Rock](https://open.spotify.com/track/0kdjChnb1cz1EM5Xq1Ducl) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Orgasmatron](https://open.spotify.com/album/4bVbdsl3q1Bnsn6Eq8MKJI) | 3:37 | 2026-04-15 |  |
 | [Doctor Rock \(Live at Download Festival, Donington, England, June 13, 2008\)](https://open.spotify.com/track/0qkYLlozbEJMgYWrYa8Qyt) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [The Löst Tapes, Vol\. 5](https://open.spotify.com/album/1TGHTdiR7QolfRrIzjzY6Z) | 4:10 | 2024-01-15 | 2024-02-12 |
 | [Eat the Rich](https://open.spotify.com/track/6WcyOskUC1L0ZyHgkPDc7V) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Rock N' Roll \(Expanded Edition\)](https://open.spotify.com/album/0Ghu8Pkq9lSZTQkmYcf3uU) | 4:34 | 2023-12-13 |  |
 | [Eat the Rich](https://open.spotify.com/track/3XDkKF2P82Om5ZjAfxX2Y4) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Rock N' Roll \(Expanded Edition\)](https://open.spotify.com/album/3aoZZWomzwY4KuXM2Jqt7C) | 4:34 | 2022-12-30 | 2023-12-14 |
@@ -128,7 +129,7 @@
 | [The Doctor \- Jacksons Studio Demos \- October 1981](https://open.spotify.com/track/4uEkNKrTju3mBgJwkq4UQz) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Iron Fist \(Deluxe 40th Anniversary Edition\)](https://open.spotify.com/album/2tkYl59Gdw4kLSXGCkEgN8) | 3:10 | 2022-12-30 | 2023-01-24 |
 | [The Hammer](https://open.spotify.com/track/05pK81o3qm38lC1pzXS11K) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Ace of Spades \(Expanded Edition\)](https://open.spotify.com/album/3rxF05Aux0QTrN533Kjc91) | 2:46 | 2022-12-30 | 2023-12-14 |
 | [The Watcher \- The Manticore Tapes](https://open.spotify.com/track/2m5jfyZxwGaJIsrvV547sJ) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [The Manticore Tapes](https://open.spotify.com/album/4lA6sBkX6kxj6aoHBqd6eY) | 4:37 | 2025-08-10 | 2025-08-14 |
-| [Thunder & Lightning](https://open.spotify.com/track/6qcdpwb8HuELdtekAB4v4c) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bad Magic](https://open.spotify.com/album/6dMv1580G91kLYjquABSPQ) | 3:06 | 2022-12-30 |  |
+| [Thunder & Lightning](https://open.spotify.com/track/6qcdpwb8HuELdtekAB4v4c) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bad Magic](https://open.spotify.com/album/6dMv1580G91kLYjquABSPQ) | 3:06 | 2022-12-30 | 2026-04-15 |
 | [Till The End](https://open.spotify.com/track/1n89RaAdJ19i3vZHwhcHVu) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bad Magic](https://open.spotify.com/album/6dMv1580G91kLYjquABSPQ) | 4:05 | 2022-12-30 |  |
 | [Too Good To Be True](https://open.spotify.com/track/2r4KEU4enoON5SiUCL4HLV) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [March Or Die](https://open.spotify.com/album/4ghbGX7UrH5TdNScemj22e) | 3:36 | 2023-02-15 | 2024-10-14 |
 | [Vibrator \- The Manticore Tapes](https://open.spotify.com/track/3MWH5l5Y2zurMuiErRRcCm) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [The Manticore Tapes](https://open.spotify.com/album/4lA6sBkX6kxj6aoHBqd6eY) | 3:26 | 2025-06-29 | 2025-09-16 |

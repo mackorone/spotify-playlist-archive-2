@@ -81,6 +81,24 @@
     },
     {
       "album": {
+        "name": "3 Tears",
+        "url": "https://open.spotify.com/album/5eL6azWQFRv0cO7J7eKgfd"
+      },
+      "artists": [
+        {
+          "name": "Mergui",
+          "url": "https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170289,
+      "name": "3 Tears",
+      "url": "https://open.spotify.com/track/7IvEseyWfAA7DEbwD6MnIC"
+    },
+    {
+      "album": {
         "name": "rosie",
         "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
       },

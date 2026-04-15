@@ -2,7 +2,7 @@
 
 ### [EQUAL UK & Ireland ](https://open.spotify.com/playlist/37i9dQZF1DX9ptRQF1dOxS)
 
-> Listen to women at full volume\. Cover: Mel C  💚
+> Listen to women at full volume\. Cover: Melanie C  💚
 
 1,989 songs - 4 day 17 hr 12 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3p3m2k.md) - [plain]
 
 > This is Juliana\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,594 likes - 44 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,598 likes - 44 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,18 +26,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3p3m2k.md) - [plain]
 | 16 | [De Nada Me Arrepiento](https://open.spotify.com/track/31tKIt6qGlzqT3DV3NIQRF) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [La Pista](https://open.spotify.com/album/0vXg9Gnv5HPXLAKBF9ajil) | 3:59 |
 | 17 | [Paciente](https://open.spotify.com/track/2x6RrcueNTLQuloTnR1ULz) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Mar Adentro](https://open.spotify.com/album/0Tpibq09sH4zxMhEykvXlo) | 3:07 |
 | 18 | [24 Horas](https://open.spotify.com/track/6dOZaQaueSGM05NdOczDFE) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [24 Horas](https://open.spotify.com/album/4SHVF6pqNpYoWjYeROe5le) | 3:38 |
-| 19 | [Electricidad \(2:21am\)](https://open.spotify.com/track/5ErcJsujfGgRXsTTz7FGRm) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Juliana](https://open.spotify.com/album/6REdS1fIBEUTa0hkCEFX0x) | 3:57 |
+| 19 | [Pendejada feat\. Mabiland](https://open.spotify.com/track/1LA1dNwVWQQZwuSQ8TmOry) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [DOS DOS DOS](https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP) | 3:27 |
 | 20 | [Cara de Idiota](https://open.spotify.com/track/4dKJDvoZ70XB4BIHMoGnAU) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [La Pista](https://open.spotify.com/album/0vXg9Gnv5HPXLAKBF9ajil) | 3:11 |
 | 21 | [Submarino](https://open.spotify.com/track/458HEdjsqtvw5x7QXmFNL6) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Mar Adentro](https://open.spotify.com/album/0Tpibq09sH4zxMhEykvXlo) | 2:51 |
-| 22 | [Pendejada feat\. Mabiland](https://open.spotify.com/track/1LA1dNwVWQQZwuSQ8TmOry) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [DOS DOS DOS](https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP) | 3:27 |
-| 23 | [Presiento](https://open.spotify.com/track/6xc4zqAPPvOr0zRaUo5tip) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Juliana](https://open.spotify.com/album/6REdS1fIBEUTa0hkCEFX0x) | 2:55 |
+| 22 | [Electricidad \(2:21am\)](https://open.spotify.com/track/5ErcJsujfGgRXsTTz7FGRm) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Juliana](https://open.spotify.com/album/6REdS1fIBEUTa0hkCEFX0x) | 3:57 |
+| 23 | [Cometa Feat\. Daniela Calle \- En Vivo](https://open.spotify.com/track/5mqYQFMbHe9NX1P8hWNZNl) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Daniela Calle](https://open.spotify.com/artist/7KpsVPUvyYUhwQaUCVNYZX) | [Cometa Feat\. Daniela Calle \(En Vivo\)](https://open.spotify.com/album/0hR2l1PUKrem5AbwJc9EJY) | 2:38 |
 | 24 | [Aurora](https://open.spotify.com/track/5ruXmcIszTA8a5GWfloGWV) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [La Pista](https://open.spotify.com/album/0vXg9Gnv5HPXLAKBF9ajil) | 2:57 |
-| 25 | [Cometa Feat\. Daniela Calle \- En Vivo](https://open.spotify.com/track/5mqYQFMbHe9NX1P8hWNZNl) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Daniela Calle](https://open.spotify.com/artist/7KpsVPUvyYUhwQaUCVNYZX) | [Cometa Feat\. Daniela Calle \(En Vivo\)](https://open.spotify.com/album/0hR2l1PUKrem5AbwJc9EJY) | 2:38 |
-| 26 | [Desde La Orilla](https://open.spotify.com/track/6JADr8YFprsEK8qczdQ01k) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Mar Adentro](https://open.spotify.com/album/0Tpibq09sH4zxMhEykvXlo) | 3:58 |
+| 25 | [Desde La Orilla](https://open.spotify.com/track/6JADr8YFprsEK8qczdQ01k) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Mar Adentro](https://open.spotify.com/album/0Tpibq09sH4zxMhEykvXlo) | 3:58 |
+| 26 | [Presiento](https://open.spotify.com/track/6xc4zqAPPvOr0zRaUo5tip) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Juliana](https://open.spotify.com/album/6REdS1fIBEUTa0hkCEFX0x) | 2:55 |
 | 27 | [Cometa](https://open.spotify.com/track/2h8TbHimi3flhCt1v6536W) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [DOS DOS DOS](https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP) | 2:27 |
 | 28 | [Narices Frías](https://open.spotify.com/track/5SqOzL7GvRCJWTBmY7Kvvz) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Narices Frías](https://open.spotify.com/album/6y3zWGWXhoSPtMWC7b3C7Q) | 5:03 |
-| 29 | [Burbujas de Amor \- \(Sesión en vivo\)](https://open.spotify.com/track/2kipawZSvwFIVD0y6tT2LG) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Con las Que Crecí \(Sesión en Vivo\)](https://open.spotify.com/album/7mmgvSwgtVu8OhQNW6z0cr) | 3:22 |
-| 30 | [Ausencia](https://open.spotify.com/track/4in1mmGO097Q3IYNaTZApa) | [Karol Sevilla](https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3), [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Siempre Fui Yo 2 \(Banda Sonora Original\)](https://open.spotify.com/album/4KAbxF4x33ZrI1PnRTZ6Lw) | 2:59 |
+| 29 | [Ausencia](https://open.spotify.com/track/4in1mmGO097Q3IYNaTZApa) | [Karol Sevilla](https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3), [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Siempre Fui Yo 2 \(Banda Sonora Original\)](https://open.spotify.com/album/4KAbxF4x33ZrI1PnRTZ6Lw) | 2:59 |
+| 30 | [Burbujas de Amor \- \(Sesión en vivo\)](https://open.spotify.com/track/2kipawZSvwFIVD0y6tT2LG) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Con las Que Crecí \(Sesión en Vivo\)](https://open.spotify.com/album/7mmgvSwgtVu8OhQNW6z0cr) | 3:22 |
 | 31 | [Corazón en Crisis](https://open.spotify.com/track/6V9ks2XCBDKtDBBEGLbA5I) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [DOS DOS DOS](https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP) | 3:28 |
 | 32 | [YA NO SIENTO FRÍO](https://open.spotify.com/track/5pWKM3ZxK7T14uSyuxVrH5) | [Natalia Natalia](https://open.spotify.com/artist/0SY7fk6yoGlOzdUQNAueXQ), [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [A Mala Hora](https://open.spotify.com/album/34TloCPADxqF8R3otAHRA6) | 3:19 |
 | 33 | [A La Medida \(2:20am\)](https://open.spotify.com/track/7EQKXlAb6jFOld9IPODbn8) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Juliana](https://open.spotify.com/album/6REdS1fIBEUTa0hkCEFX0x) | 3:18 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3p3m2k.md) - [plain]
 | 43 | [Montaña Rusa](https://open.spotify.com/track/0OC5zKdIxjR3oYiWuL3Tq1) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Juliana](https://open.spotify.com/album/6REdS1fIBEUTa0hkCEFX0x) | 2:46 |
 | 44 | [Si Quieres Marcharte Feat\. Dstance \(Cap\. 1\)](https://open.spotify.com/track/6ZuMhCPd0VP6vfjQIuJaOX) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [Si Quieres Marcharte Feat\. Dstance \(Cap\. 1\)](https://open.spotify.com/album/2inN1Sd7GBOyIIDpIlkhZX) | 2:50 |
 
-Snapshot ID: `adrggAAAAABeKVVFLaLnmyYG0UuHI+wn`
+Snapshot ID: `adwyAAAAAABjDsnrnF8D+GY+6V/tL0W0`

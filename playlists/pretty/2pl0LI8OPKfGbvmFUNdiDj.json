@@ -1,12 +1,12 @@
 {
   "description": "Hand-picked songs by unsigned bands and independent artists. Updated Daily.",
-  "num_followers": 724,
+  "num_followers": 730,
   "original_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",
   "owner": {
     "name": "pma4real",
     "url": "https://open.spotify.com/user/jasonwaroff"
   },
-  "snapshot_id": "AAADcAm476M5BxKqj+Vo6+oCZSCposyG",
+  "snapshot_id": "AAADcurSWiYm1sDDAjlWP6QG/4ANdtFi",
   "tracks": [
     {
       "added_at": "2026-04-03 14:58:07",
@@ -1279,6 +1279,38 @@
       "duration_ms": 201875,
       "name": "Things Won't Be The Same",
       "url": "https://open.spotify.com/track/6hZM4lUIc7x72NIaDn59l3"
+    },
+    {
+      "added_at": "2026-04-14 02:25:57",
+      "album": {
+        "name": "Whistling",
+        "url": "https://open.spotify.com/album/2QOkUXOeTgGNQQ9iXD2e0B"
+      },
+      "artists": [
+        {
+          "name": "Borth",
+          "url": "https://open.spotify.com/artist/41wNDlWrwYPOzTFIh1PvH6"
+        }
+      ],
+      "duration_ms": 196909,
+      "name": "Whistling",
+      "url": "https://open.spotify.com/track/4p1fYOHCCx1CvPk6UbIbSZ"
+    },
+    {
+      "added_at": "2026-04-14 02:47:53",
+      "album": {
+        "name": "D'Or et D'Essence",
+        "url": "https://open.spotify.com/album/2JoCCUBiLDOana2AHlaDlx"
+      },
+      "artists": [
+        {
+          "name": "Mehdy Akki",
+          "url": "https://open.spotify.com/artist/6S38wI5QEZb1pM4YqJ2frS"
+        }
+      ],
+      "duration_ms": 175096,
+      "name": "D'Or et D'Essence",
+      "url": "https://open.spotify.com/track/54j84CQorBTHez8kAudRee"
     }
   ],
   "unique_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",

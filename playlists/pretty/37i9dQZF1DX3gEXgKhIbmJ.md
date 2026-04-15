@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gEXgKhIbmJ.md) - [plain]
 
 > pra entrar e ficar na onda
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,918 likes - 60 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,929 likes - 60 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gEXgKhIbmJ.md) - [plain]
 | 3 | [Única](https://open.spotify.com/track/6OeFHH7a0WE6fdpfD1PVPD) | [MC Caverinha](https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB), [Yokame](https://open.spotify.com/artist/4IEFTmI2K5xj488kIn268F) | [RELATOS](https://open.spotify.com/album/3YIwqsUgXa6IuMVB0Zc4Hr) | 2:46 |
 | 4 | [MENTIR PRA QUÊ](https://open.spotify.com/track/28vJO7rkaw3vGV1pDTnsL5) | [Beny Free](https://open.spotify.com/artist/2lTTvwwN7aNG21tKXHP8bU), [Brutos](https://open.spotify.com/artist/3Og0gjJyLFUdqIYzXxq6T6), [meLLo](https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm) | [MENTIR PRA QUÊ](https://open.spotify.com/album/1GVPqMQ057x5MovmGDEHFk) | 2:38 |
 | 5 | [LEALL On The Radar Freestyle](https://open.spotify.com/track/5DRm1n1Fe5pzIdjEmXDdoC) | [On The Radar](https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz), [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Beat do Ávila](https://open.spotify.com/artist/2zuL7Yq6XmN6LbH4gDrgfP) | [LEALL On The Radar Freestyle](https://open.spotify.com/album/2BBWkxsTEBQFTNYesaDQeG) | 2:58 |
-| 6 | [Após o Show](https://open.spotify.com/track/1angFouREkbYANO4Iq3Sgk) | [BMOB](https://open.spotify.com/artist/2Hz29z0CZrvMgQk1QfJZS3), [Lipinho Oficial](https://open.spotify.com/artist/3tgFm4QrXC1zIicYXUqi5q), [DomLaike](https://open.spotify.com/artist/4PzPx1yc3kGVo4EgCiLqCQ), [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh) | [Após o Show](https://open.spotify.com/album/1LKVs3OEV4Fc47VW9hZJqZ) | 3:15 |
+| 6 | [Após o Show](https://open.spotify.com/track/1angFouREkbYANO4Iq3Sgk) | [BMOB](https://open.spotify.com/artist/2Hz29z0CZrvMgQk1QfJZS3), [Lipinho Oficial](https://open.spotify.com/artist/3tgFm4QrXC1zIicYXUqi5q), [DomLaike](https://open.spotify.com/artist/4PzPx1yc3kGVo4EgCiLqCQ), [Medellin](https://open.spotify.com/artist/1SOR6vQhrqe6uLVJWW180E) | [Após o Show](https://open.spotify.com/album/1LKVs3OEV4Fc47VW9hZJqZ) | 3:15 |
 | 7 | [Gringo](https://open.spotify.com/track/7tGY7AG6nPFCeP2KAXZCen) | [Akashi Cruz](https://open.spotify.com/artist/68wF4X9K8JFav3YlPFtsR2) | [Gringo](https://open.spotify.com/album/3bFrxMbPC5kxbVWfYkqDzF) | 2:11 |
 | 8 | [STORIES](https://open.spotify.com/track/2F9LV6rsZxkJRZIsDYDeWD) | [Thi](https://open.spotify.com/artist/2CZqAHY1c0uw4oXmebItIr), [Agostinhx](https://open.spotify.com/artist/42KlXyEj8tt6vVyxQjpLaL), [Avila Beatz](https://open.spotify.com/artist/7xUdVOv7jgGkwdfMlvxaRf), [SOMOS](https://open.spotify.com/artist/4RirWYVQPhtDNNwW5hmhuP) | [STORIES](https://open.spotify.com/album/1kY9inbTQdghZWqHBoR2b7) | 2:03 |
 | 9 | [CRIME](https://open.spotify.com/track/2eeKmxegjwpb3y71XCse0M) | [Nebrugg](https://open.spotify.com/artist/2UD8upUvL1eqllSlMpDIeC) | [CRIME](https://open.spotify.com/album/5U2rpoLvsQ52La79MwfCxb) | 1:45 |

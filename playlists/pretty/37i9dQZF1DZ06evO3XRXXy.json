@@ -1,12 +1,12 @@
 {
   "description": "This is Kenny G. The essential tracks, all in one playlist.",
-  "num_followers": 152380,
+  "num_followers": 152381,
   "original_name": "This Is Kenny G",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adrggAAAAACrvYj8YjqfKkxlqpLS7Iyc",
+  "snapshot_id": "adwyAAAAAAAju/EWE0mJDbnZ9zvyNJys",
   "tracks": [
     {
       "added_at": null,
@@ -227,18 +227,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Moment",
-        "url": "https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp"
+        "name": "Time, Love & Tenderness",
+        "url": "https://open.spotify.com/album/3tu5RTLzk7J2Oe30hspuPm"
       },
       "artists": [
+        {
+          "name": "Michael Bolton",
+          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
+        },
         {
           "name": "Kenny G",
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 334160,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/28I4YkpPX5MdkgMy9tYm4C"
+      "duration_ms": 273306,
+      "name": "Missing You Now (feat. Kenny G)",
+      "url": "https://open.spotify.com/track/7ho5FKdNqmmbCpXYcyDH8c"
     },
     {
       "added_at": null,
@@ -275,22 +279,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Time, Love & Tenderness",
-        "url": "https://open.spotify.com/album/3tu5RTLzk7J2Oe30hspuPm"
+        "name": "The Moment",
+        "url": "https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp"
       },
       "artists": [
-        {
-          "name": "Michael Bolton",
-          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
-        },
         {
           "name": "Kenny G",
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 273306,
-      "name": "Missing You Now (feat. Kenny G)",
-      "url": "https://open.spotify.com/track/7ho5FKdNqmmbCpXYcyDH8c"
+      "duration_ms": 334160,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/28I4YkpPX5MdkgMy9tYm4C"
     },
     {
       "added_at": null,
@@ -327,22 +327,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Moment",
-        "url": "https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 238426,
-      "name": "Innocence",
-      "url": "https://open.spotify.com/track/5zW8p9nOndsKZnhes6PJtM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Breathless",
         "url": "https://open.spotify.com/album/4ZIOCYviEphLj1EpwXXvHy"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 313933,
       "name": "Morning",
       "url": "https://open.spotify.com/track/34U2gC6p6jFnoY4ts5imyb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Moment",
+        "url": "https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 238426,
+      "name": "Innocence",
+      "url": "https://open.spotify.com/track/5zW8p9nOndsKZnhes6PJtM"
     },
     {
       "added_at": null,
@@ -687,6 +687,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/1JeUDgG8kEdUUlqa6Omgsr"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 254640,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/7vK5XIuj2sglBRFFN4KR43"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "You're The Inspiration: The Music Of David Foster And Friends (Int'l DMD)",
         "url": "https://open.spotify.com/album/7zXao5a6CPcsA8mbmdKpVs"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 176626,
       "name": "Love Theme from St. Elmo's Fire (feat. Kenny G) - Live",
       "url": "https://open.spotify.com/track/7AcZoTDqYtqYyYYt3CBPSw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/1JeUDgG8kEdUUlqa6Omgsr"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 254640,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/7vK5XIuj2sglBRFFN4KR43"
     },
     {
       "added_at": null,

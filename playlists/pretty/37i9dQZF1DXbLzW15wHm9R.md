@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLzW15wHm9R.md) - [plain]
 
 > Original and synced songs that stay with you long after the credits roll..\. Cover: GOAT
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,950 likes - 55 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,968 likes - 55 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLzW15wHm9R.md) - [plain]
 | 44 | [As Alive As You Need Me To Be](https://open.spotify.com/track/06USX1htQD4LgOgX4FF0ix) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [TRON: Ares \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/47pjW3XDPW99NShtkeewxl) | 3:57 |
 | 45 | [Nothing's Gonna Stop Us Now](https://open.spotify.com/track/3X7uFMzJrEE0sxn62qd8Ch) | [Starship](https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf) | [No Protection](https://open.spotify.com/album/3nCQjsOzTmnWM6gnjIaT8J) | 4:30 |
 | 46 | [Bite My Tongue \- From the Netflix Series "Nobody Wants This" Season 2](https://open.spotify.com/track/62LsiE0qxL8mpNvQShAGkp) | [Cassandra Coleman](https://open.spotify.com/artist/1O6GvgnaHzgcFlCX6RlhYV) | [Bite My Tongue \(From the Netflix Series "Nobody Wants This" Season 2\)](https://open.spotify.com/album/681qv0Au08NIjJwh72luYf) | 3:38 |
-| 47 | [Jinu’s Lament](https://open.spotify.com/track/4QtSWwLs2zvA0MdHmiN0gr) | [Jinu](https://open.spotify.com/artist/0rIiNDJUesrgFPkYesJmKl), [Ahn Hyo\-seop](https://open.spotify.com/artist/1TUrQeNhlJMcg9zl8yiW70) | [KPop Demon Hunters \(Soundtrack from the Netflix Film / Deluxe Version\)](https://open.spotify.com/album/50O9cXkFsQs8z0RV0UOvvl) | 0:46 |
+| 47 | [Jinu’s Lament](https://open.spotify.com/track/4QtSWwLs2zvA0MdHmiN0gr) | [Jinu](https://open.spotify.com/artist/1CUhHjPhPbMDlGJyUGxzP2), [Ahn Hyo\-seop](https://open.spotify.com/artist/1TUrQeNhlJMcg9zl8yiW70) | [KPop Demon Hunters \(Soundtrack from the Netflix Film / Deluxe Version\)](https://open.spotify.com/album/50O9cXkFsQs8z0RV0UOvvl) | 0:46 |
 | 48 | [IRIS OUT](https://open.spotify.com/track/59hVbgr8rfYkDbHfr8RcGI) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [IRIS OUT](https://open.spotify.com/album/06re45NBDCPah74jnVOISQ) | 2:31 |
 | 49 | [the 1](https://open.spotify.com/track/0Jlcvv8IykzHaSmj49uNW8) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 3:30 |
 | 50 | [The Risk](https://open.spotify.com/track/724VTAYwzZowMcN1jC9HF5) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Big Bold Beautiful Journey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/47kkQLC0hzwsp0uFdhikZP) | 3:58 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLzW15wHm9R.md) - [plain]
 | 54 | [Lose My Mind \(feat\. Doja Cat\) \[From F1® The Movie\]](https://open.spotify.com/track/02BcXEH1zJYbXSabPtNlKf) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Lose My Mind \(feat\. Doja Cat\) \[From F1® The Movie\]](https://open.spotify.com/album/157Gano57F4G2EAWL5NKP8) | 3:29 |
 | 55 | [Steve's Lava Chicken](https://open.spotify.com/track/2n5sAzeWh5LqnV9cGBjgGr) | [Jack Black](https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T) | [A Minecraft Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KAwAiWDby2biJHljhMxWd) | 0:34 |
 
-Snapshot ID: `AAAAAB+k8MyAou5zpItC8CI1JisuGpQE`
+Snapshot ID: `AAAAAOygJlnhO50gGQUxJJCvpK9CWzDi`

@@ -2,7 +2,7 @@
 
 ### [act cool.](https://open.spotify.com/playlist/37i9dQZF1DWWL1oUQs6d9h)
 
-> 머릿속은 복잡하지만, 겉으로는 칠 & 쿨해보이고 싶을 때
+> 🐹햄찌 POV: 머릿속은 복잡하지만, 겉으로는 칠 & 쿨해보이고 싶을 때.
 
 160 songs - 8 hr 21 min
 

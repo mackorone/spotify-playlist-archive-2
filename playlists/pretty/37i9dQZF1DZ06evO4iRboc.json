@@ -1,12 +1,12 @@
 {
   "description": "This is Laufey. The essential tracks, all in one playlist.",
-  "num_followers": 363991,
+  "num_followers": 364310,
   "original_name": "This Is Laufey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adrggAAAAADQhK5l9csOKvVNOsCJQuZ/",
+  "snapshot_id": "adwyAAAAAADjbEkbYXBJ5AZbvDF8VWfE",
   "tracks": [
     {
       "added_at": null,
@@ -259,8 +259,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everything I Know About Love",
-        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
+        "name": "Bewitched: The Goddess Edition",
+        "url": "https://open.spotify.com/album/1hmlhl74JfLyUqmqtCwvFb"
       },
       "artists": [
         {
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
         }
       ],
-      "duration_ms": 201266,
-      "name": "Beautiful Stranger",
-      "url": "https://open.spotify.com/track/38TpUKiHQZyBKiD9LMMy6X"
+      "duration_ms": 267866,
+      "name": "Goddess",
+      "url": "https://open.spotify.com/track/2SEeyc2KS9DIjiJPCYtfgJ"
     },
     {
       "added_at": null,
@@ -323,8 +323,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bewitched: The Goddess Edition",
-        "url": "https://open.spotify.com/album/1hmlhl74JfLyUqmqtCwvFb"
+        "name": "Everything I Know About Love",
+        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
       },
       "artists": [
         {
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
         }
       ],
-      "duration_ms": 267866,
-      "name": "Goddess",
-      "url": "https://open.spotify.com/track/2SEeyc2KS9DIjiJPCYtfgJ"
+      "duration_ms": 201266,
+      "name": "Beautiful Stranger",
+      "url": "https://open.spotify.com/track/38TpUKiHQZyBKiD9LMMy6X"
     },
     {
       "added_at": null,
@@ -471,6 +471,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Matter of Time: The Final Hour",
+        "url": "https://open.spotify.com/album/4DWK6TLXHl1fly2zi5RlO7"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 209733,
+      "name": "I Wait, I Wait, I Wait",
+      "url": "https://open.spotify.com/track/4F5ka6lx7RlUWGjzTIby5D"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bewitched: The Goddess Edition",
         "url": "https://open.spotify.com/album/1hmlhl74JfLyUqmqtCwvFb"
       },
@@ -503,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Someone New",
-        "url": "https://open.spotify.com/album/1OdANZQlB2kBHw4dFjIiii"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Someone New",
-      "url": "https://open.spotify.com/track/1trLEhC9nDvvj36MfnlwcJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Street by Street",
         "url": "https://open.spotify.com/album/16JUiUeNlBM9cdIyyuN6nw"
       },
@@ -531,6 +531,38 @@
       "duration_ms": 224098,
       "name": "Street by Street",
       "url": "https://open.spotify.com/track/0OuOPYd05eORfLw94apb8j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Matter of Time: The Final Hour",
+        "url": "https://open.spotify.com/album/4DWK6TLXHl1fly2zi5RlO7"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 252400,
+      "name": "I'll Forget About You (In Time)",
+      "url": "https://open.spotify.com/track/0RRpMyf3DjSxBvwMYQVXt7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Someone New",
+        "url": "https://open.spotify.com/album/1OdANZQlB2kBHw4dFjIiii"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Someone New",
+      "url": "https://open.spotify.com/track/1trLEhC9nDvvj36MfnlwcJ"
     },
     {
       "added_at": null,
@@ -551,22 +583,6 @@
       "duration_ms": 147346,
       "name": "Love Flew Away",
       "url": "https://open.spotify.com/track/5Uro6tis4oexrT4Po1q71H"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Matter of Time: The Final Hour",
-        "url": "https://open.spotify.com/album/4DWK6TLXHl1fly2zi5RlO7"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 252400,
-      "name": "I'll Forget About You (In Time)",
-      "url": "https://open.spotify.com/track/0RRpMyf3DjSxBvwMYQVXt7"
     },
     {
       "added_at": null,
@@ -615,22 +631,6 @@
       "duration_ms": 127853,
       "name": "It Could Happen To You",
       "url": "https://open.spotify.com/track/1pyfaPU3aw8JorXRJQf6cs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Matter of Time: The Final Hour",
-        "url": "https://open.spotify.com/album/4DWK6TLXHl1fly2zi5RlO7"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 209733,
-      "name": "I Wait, I Wait, I Wait",
-      "url": "https://open.spotify.com/track/4F5ka6lx7RlUWGjzTIby5D"
     },
     {
       "added_at": null,

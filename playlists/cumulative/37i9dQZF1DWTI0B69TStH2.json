@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Najciekawsze muzyczne odkrycia od niezale\u017cnych polskich artyst\u00f3w. Cover:  <a href=\"spotify:artist:59nH7LKqK561XQ2xfLnXeL\">Iga Kumka</a>",
+  "description": "Najciekawsze muzyczne odkrycia od niezale\u017cnych polskich artyst\u00f3w. Cover:  <a href=\"spotify:artist:41sW1tNUQ6QgKOonv2sIez\">MONGIRD</a>",
   "name": "Fresh Finds Polska",
   "tracks": [
     {
@@ -3884,7 +3884,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 207000,
       "name": "Basia",
       "url": "https://open.spotify.com/track/5X63XLXpzZ1WYGCMmtqtUv"
@@ -5622,7 +5622,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 157362,
       "name": "bletki",
       "url": "https://open.spotify.com/track/7oc9DMBEZnOhqP9s6BKVE0"
@@ -8298,6 +8298,24 @@
       "duration_ms": 255924,
       "name": "chcesz?",
       "url": "https://open.spotify.com/track/10FYf8xCgiuxlLbnzjIctb"
+    },
+    {
+      "album": {
+        "name": "chcialem ciebie",
+        "url": "https://open.spotify.com/album/3pLkWSMh0in71BFdt9X731"
+      },
+      "artists": [
+        {
+          "name": "whyukanti",
+          "url": "https://open.spotify.com/artist/49DNBdEnlH3gUodqptle5h"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107294,
+      "name": "chcialem ciebie",
+      "url": "https://open.spotify.com/track/7424Xmi8R4jpoaz16sNitU"
     },
     {
       "album": {
@@ -34476,7 +34494,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 173871,
       "name": "Mia\u0142a Tosia Du\u017cy Brzuch",
       "url": "https://open.spotify.com/track/0INUk3c4yesv1gxCqKmEru"
@@ -38821,6 +38839,24 @@
     },
     {
       "album": {
+        "name": "Nic?",
+        "url": "https://open.spotify.com/album/7eAlXTsNa4kEyqAHD8Tnn3"
+      },
+      "artists": [
+        {
+          "name": "MONGIRD",
+          "url": "https://open.spotify.com/artist/41sW1tNUQ6QgKOonv2sIez"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234033,
+      "name": "Nic?",
+      "url": "https://open.spotify.com/track/2OtKphailgIlLV5t1S2wlK"
+    },
+    {
+      "album": {
         "name": "Niczego najgorszego",
         "url": "https://open.spotify.com/album/7DeeheLkWQVCw2VAas1bZf"
       },
@@ -39680,7 +39716,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 185685,
       "name": "Nie ma czasu",
       "url": "https://open.spotify.com/track/5jg0d2Vi5B9wMqRD6ELLIm"
@@ -42914,7 +42950,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 160000,
       "name": "No bo tam by\u0142em",
       "url": "https://open.spotify.com/track/6VM57yPILNdrKh1dipvr4h"
@@ -45868,6 +45904,24 @@
       "duration_ms": 216409,
       "name": "OPENER",
       "url": "https://open.spotify.com/track/67S8aQFlY25DrHnMeBSNE9"
+    },
+    {
+      "album": {
+        "name": "Opiesza\u0142o\u015b\u0107",
+        "url": "https://open.spotify.com/album/1PCnD8L9RlD9C0cjLMdCSU"
+      },
+      "artists": [
+        {
+          "name": "Jerzy Koczur",
+          "url": "https://open.spotify.com/artist/1Y5FAU8ociSgGzRsfdPzLb"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215322,
+      "name": "Opiesza\u0142o\u015b\u0107",
+      "url": "https://open.spotify.com/track/51E50VZcEuVuCQh5XYHbfu"
     },
     {
       "album": {
@@ -50148,7 +50202,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 219533,
       "name": "Po prostu to powiedz",
       "url": "https://open.spotify.com/track/6Qb92H482gXn0D0lQgEk0X"
@@ -56591,6 +56645,24 @@
     },
     {
       "album": {
+        "name": "Chmury",
+        "url": "https://open.spotify.com/album/3dsNjxAhXJE5zaitOHWl1y"
+      },
+      "artists": [
+        {
+          "name": "SEEME",
+          "url": "https://open.spotify.com/artist/3A8UssjsCCvAI7bpQkd1VR"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Scream",
+      "url": "https://open.spotify.com/track/7evTEz54Ldja0PcpAhjOME"
+    },
+    {
+      "album": {
         "name": "Sea Currents",
         "url": "https://open.spotify.com/album/6qVtsPSPqDqqW1mQGCqOgz"
       },
@@ -60357,6 +60429,24 @@
     },
     {
       "album": {
+        "name": "STOP",
+        "url": "https://open.spotify.com/album/213m2ZESafiGtp4eQbzzS4"
+      },
+      "artists": [
+        {
+          "name": "Weronika Drybs",
+          "url": "https://open.spotify.com/artist/6HIl4Jj9GAZEgHUKTJouuC"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "STOP",
+      "url": "https://open.spotify.com/track/3013kbrUL77NILb88oviXr"
+    },
+    {
+      "album": {
         "name": "stop!",
         "url": "https://open.spotify.com/album/2w7ILGy3LWulXnjUEVaCOF"
       },
@@ -63170,7 +63260,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 214860,
       "name": "TakTakTak",
       "url": "https://open.spotify.com/track/3H8itVosE3ZaV3hAHSAqfv"
@@ -69779,6 +69869,24 @@
     },
     {
       "album": {
+        "name": "W ogie\u0144",
+        "url": "https://open.spotify.com/album/1QsreSlzZBhe2lvNLeIGah"
+      },
+      "artists": [
+        {
+          "name": "JACKOWSKI",
+          "url": "https://open.spotify.com/artist/77cs27w0VN5UnR7tHNhxbe"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231969,
+      "name": "W ogie\u0144",
+      "url": "https://open.spotify.com/track/15jvNwfjEwYbtQ1ljx53HY"
+    },
+    {
+      "album": {
         "name": "W olbrzyma r\u0119kach",
         "url": "https://open.spotify.com/album/4dttwmPKW29FBW2n3GB9W1"
       },
@@ -70068,6 +70176,24 @@
       "duration_ms": 202702,
       "name": "W \u015bwietle zimnych miast",
       "url": "https://open.spotify.com/track/41TWBsJmKoarDLuAbyvuqB"
+    },
+    {
+      "album": {
+        "name": "w_moim_ma\u0142ym_pokoju.mp3",
+        "url": "https://open.spotify.com/album/1lkPGlJd07OW9ORts512yP"
+      },
+      "artists": [
+        {
+          "name": "noffkoffska",
+          "url": "https://open.spotify.com/artist/6OjVJRevdfShgzdCMj7CYt"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108415,
+      "name": "w_moim_ma\u0142ym_pokoju.mp3",
+      "url": "https://open.spotify.com/track/4nbYIpyJ2Np7exXt7TGV0R"
     },
     {
       "album": {
@@ -72506,6 +72632,24 @@
       "duration_ms": 209130,
       "name": "Wizje",
       "url": "https://open.spotify.com/track/0Fpr5zRV71alMXUm87D9jZ"
+    },
+    {
+      "album": {
+        "name": "Wi\u0119cej",
+        "url": "https://open.spotify.com/album/0bQsdiGpFntv3xqBmTN39x"
+      },
+      "artists": [
+        {
+          "name": "filit",
+          "url": "https://open.spotify.com/artist/1lnfnJFVIaKY0wWil9MEG4"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181791,
+      "name": "Wi\u0119cej",
+      "url": "https://open.spotify.com/track/3ByByCFVlvPljSTUHAMd4h"
     },
     {
       "album": {
@@ -75458,7 +75602,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 161519,
       "name": "Za kulisami",
       "url": "https://open.spotify.com/track/1tlywl3igNTLsJGdZ1pTJf"

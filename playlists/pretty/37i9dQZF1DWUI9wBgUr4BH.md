@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI9wBgUr4BH.md) - [plain]
 
 > Les hits de demain sont déjà ici\. Photo :  GIMS
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,729 likes - 40 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,766 likes - 40 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI9wBgUr4BH.md) - [plain]
 | 26 | [Upside Down](https://open.spotify.com/track/47Ur1YLaC5ELAQ3R9q4zkW) | [Jaden Bojsen](https://open.spotify.com/artist/1eUSEIGd3eCEUOeLFgJACg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Upside Down](https://open.spotify.com/album/2hwtlqYFr8vEYYugqfxAro) | 2:05 |
 | 27 | [Prêt à t'aimer](https://open.spotify.com/track/71pTdNcN3lieAQj3BPDn13) | [RIDSA](https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es) | [Verano](https://open.spotify.com/album/3bLdmgVrspGmk8M8Goqhw8) | 3:17 |
 | 28 | [In My Head](https://open.spotify.com/track/6OitoJSWZdXqlOUN5hVTVY) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [In My Head](https://open.spotify.com/album/4LSVrt9tYgLC7YTm6QPimg) | 2:42 |
-| 29 | [Free](https://open.spotify.com/track/5DxDLsW6PsLz5gkwC7Mk5S) | [Rumi](https://open.spotify.com/artist/2DSE0PhxKUmTPLfZm13sup), [Jinu](https://open.spotify.com/artist/0rIiNDJUesrgFPkYesJmKl), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY), [Andrew Choi](https://open.spotify.com/artist/7JBaynR7JFeniONqbnn1U4) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 3:07 |
+| 29 | [Free](https://open.spotify.com/track/5DxDLsW6PsLz5gkwC7Mk5S) | [Rumi](https://open.spotify.com/artist/18Z49sdpTYjv4TmBJPHMCb), [Jinu](https://open.spotify.com/artist/1CUhHjPhPbMDlGJyUGxzP2), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY), [Andrew Choi](https://open.spotify.com/artist/7JBaynR7JFeniONqbnn1U4) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 3:07 |
 | 30 | [Confirmé](https://open.spotify.com/track/7gMH6BhkS9Phrh71oXDdqP) | [Dr\. Yaro](https://open.spotify.com/artist/0C1YfsZSxVHgL0Z8bngOTM) | [Confirmé](https://open.spotify.com/album/011DtwFBdOe0H5zL3g10OG) | 2:50 |
 | 31 | [Embers](https://open.spotify.com/track/3OGmnOgg3NQ4uwerCW3GXE) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Embers](https://open.spotify.com/album/0bJj4VUm90sLGDcfl69ZM4) | 3:01 |
 | 32 | [Capuche](https://open.spotify.com/track/3o7fTezEjBiIScPt4SJvX6) | [Helena](https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC) | [Hélé 2](https://open.spotify.com/album/5OjVK3QVK6c5VrY607wSGB) | 3:22 |

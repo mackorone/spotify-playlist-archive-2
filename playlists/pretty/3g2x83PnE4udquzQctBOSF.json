@@ -1,13 +1,61 @@
 {
   "description": "Our weekly selection is here \u26a1\ufe0f",
-  "num_followers": 2733,
+  "num_followers": 2732,
   "original_name": "AGLF Playlist",
   "owner": {
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "AAASJ7XQlgl/vo77G4vS9DACGcgn6zzY",
+  "snapshot_id": "AAASKqhFLqy08FP/dF/kaxei3lSCOuIr",
   "tracks": [
+    {
+      "added_at": "2026-04-14 14:50:54",
+      "album": {
+        "name": "Raptor",
+        "url": "https://open.spotify.com/album/3eEj1LqBbnsXeKC7uPZINu"
+      },
+      "artists": [
+        {
+          "name": "Peritz",
+          "url": "https://open.spotify.com/artist/31NVoBcFNTbpsKAvh5jYDp"
+        }
+      ],
+      "duration_ms": 181333,
+      "name": "Raptor",
+      "url": "https://open.spotify.com/track/3EJkIFSMAL5e2AXGuJNtro"
+    },
+    {
+      "added_at": "2026-04-14 09:55:57",
+      "album": {
+        "name": "\u0416\u0438\u0437\u043d\u044c \u043f\u043e \u043a\u0430\u0439\u0444\u0443",
+        "url": "https://open.spotify.com/album/5XDxLmzQF4olsjKbdTLAmr"
+      },
+      "artists": [
+        {
+          "name": "Echoes And Vibes",
+          "url": "https://open.spotify.com/artist/3KYnVGmtNOtC5MrmHRp0mF"
+        }
+      ],
+      "duration_ms": 209960,
+      "name": "\u0416\u0438\u0437\u043d\u044c \u043f\u043e \u043a\u0430\u0439\u0444\u0443",
+      "url": "https://open.spotify.com/track/73VNVSDCbuebJ3qbiqNOuw"
+    },
+    {
+      "added_at": "2026-04-14 07:33:21",
+      "album": {
+        "name": "Infinito",
+        "url": "https://open.spotify.com/album/5ZaPRjuQfImi5krBH4C245"
+      },
+      "artists": [
+        {
+          "name": "Ast\u00e8nia",
+          "url": "https://open.spotify.com/artist/2kS3uPixwEg5JEqMDlBuoQ"
+        }
+      ],
+      "duration_ms": 203980,
+      "name": "Infinito",
+      "url": "https://open.spotify.com/track/1assgMuL0WjFoyxPSgyTfR"
+    },
     {
       "added_at": "2026-04-13 23:30:04",
       "album": {

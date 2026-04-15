@@ -52,7 +52,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 254232,
       "name": "50/50",
       "url": "https://open.spotify.com/track/3AD2WXL3wz12SyNw6jfXFc"
@@ -124,7 +124,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 254421,
       "name": "Age Of Innocence",
       "url": "https://open.spotify.com/track/6Kg9rDa3N0UANVpbuNTAby"
@@ -196,7 +196,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 217370,
       "name": "All Along",
       "url": "https://open.spotify.com/track/24XphTpo1iSOJcWgBUCZUZ"
@@ -214,7 +214,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 221460,
       "name": "All I Know",
       "url": "https://open.spotify.com/track/0ZjhuatJiL7b3x9bVRAVRm"
@@ -286,7 +286,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 127500,
       "name": "Asmodeus",
       "url": "https://open.spotify.com/track/5IiBhGeTLrzhqpIgnOWn4g"
@@ -830,7 +830,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 218906,
       "name": "Chilly",
       "url": "https://open.spotify.com/track/0fhXATRQObAWuSEUlNY6td"
@@ -978,7 +978,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 259930,
       "name": "Concrete",
       "url": "https://open.spotify.com/track/2gNXxEN4sBEmKyMYhAW5Fj"
@@ -1346,6 +1346,24 @@
       "duration_ms": 221666,
       "name": "Drugstore Cowboy",
       "url": "https://open.spotify.com/track/232OmR6gGYDi94gCDHFLGI"
+    },
+    {
+      "album": {
+        "name": "Eco friendly",
+        "url": "https://open.spotify.com/album/4JD9UxKxUa3Ar8FaX0QvUq"
+      },
+      "artists": [
+        {
+          "name": "Protocolo Snob",
+          "url": "https://open.spotify.com/artist/3Csf3ay5hdK5DpzwMPdHLE"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204521,
+      "name": "Eco friendly",
+      "url": "https://open.spotify.com/track/4ce7x8EqfVRzdw7keMoRgZ"
     },
     {
       "album": {
@@ -1764,7 +1782,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 169734,
       "name": "GROWING",
       "url": "https://open.spotify.com/track/33RszjKEEGkz8mvT2D6hcN"
@@ -1912,7 +1930,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 204493,
       "name": "HELLO DENIAL",
       "url": "https://open.spotify.com/track/2pUc5A4RRllfzi3vqzH5gl"
@@ -2038,7 +2056,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 176973,
       "name": "Homework Forever",
       "url": "https://open.spotify.com/track/5EBAcYsLz8yVFBjzNirEt7"
@@ -2528,7 +2546,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 189331,
       "name": "Last Chance",
       "url": "https://open.spotify.com/track/5lAdDCVg6gDfwnYqdtdolh"
@@ -3062,7 +3080,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 164227,
       "name": "MY SONG",
       "url": "https://open.spotify.com/track/0sE1TOUHEfOuMBdyZxLlhk"
@@ -3098,7 +3116,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 184438,
       "name": "Nada De Vos",
       "url": "https://open.spotify.com/track/5X0t7iMScBSmaaneqz2cKO"
@@ -3300,7 +3318,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 263495,
       "name": "Objects in the Mirrors",
       "url": "https://open.spotify.com/track/7FgMPd1QmYQlcCTu2yMum3"
@@ -3754,7 +3772,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 235112,
       "name": "Quiet selfish man",
       "url": "https://open.spotify.com/track/6p3083SoZOwB1oJuZtpQ0a"
@@ -4096,7 +4114,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 213771,
       "name": "She the one",
       "url": "https://open.spotify.com/track/6DGqfNHb3QvSfT8jv514QB"
@@ -4334,7 +4352,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 324578,
       "name": "Stop the Bleed",
       "url": "https://open.spotify.com/track/6SRtsdb5b1XfiQZo3vOBL1"
@@ -4388,7 +4406,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 218038,
       "name": "Succumber",
       "url": "https://open.spotify.com/track/5SgoJiHnbT9NYv0HomVd0b"
@@ -4576,6 +4594,24 @@
       "duration_ms": 166569,
       "name": "The Perfect Buzz",
       "url": "https://open.spotify.com/track/4nIbtAyxR6yeBxgONwdtda"
+    },
+    {
+      "album": {
+        "name": "Marathon",
+        "url": "https://open.spotify.com/album/03fIWOLe2bwngeOwGnIJW2"
+      },
+      "artists": [
+        {
+          "name": "Brassard",
+          "url": "https://open.spotify.com/artist/27AIl8w2zVXZM9z6YpNU27"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244853,
+      "name": "The Poorest Man",
+      "url": "https://open.spotify.com/track/2vD6arZnrJGMuj6C977t0o"
     },
     {
       "album": {
@@ -4832,7 +4868,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 201065,
       "name": "Tomorrow Is Here",
       "url": "https://open.spotify.com/track/5VMUskyWeRjMUnyHnpxNw2"
@@ -4962,7 +4998,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 202826,
       "name": "Unbreakable Love",
       "url": "https://open.spotify.com/track/6urx5MnO6omSLaFALpvU2Z"
@@ -5052,7 +5088,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 244241,
       "name": "VHS",
       "url": "https://open.spotify.com/track/55IaNinX523ef5gVySoiLS"
@@ -5185,6 +5221,24 @@
     },
     {
       "album": {
+        "name": "The Will To Endure",
+        "url": "https://open.spotify.com/album/7pUjpFncOv0tTDrAi34Bb3"
+      },
+      "artists": [
+        {
+          "name": "Highroad No. 28",
+          "url": "https://open.spotify.com/artist/2Rd79D7pa2uM72yzgHLaGQ"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "What To Become",
+      "url": "https://open.spotify.com/track/368ymVq33003r6t4n9GbRD"
+    },
+    {
+      "album": {
         "name": "What You've Been Told",
         "url": "https://open.spotify.com/album/4W4wS1Uoo9YnJyYzxRP0pp"
       },
@@ -5214,7 +5268,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 195459,
       "name": "What's on your Mind?",
       "url": "https://open.spotify.com/track/3sGi1yG0h0m7hky1qd5C4P"
@@ -5308,6 +5362,24 @@
       "duration_ms": 223711,
       "name": "wild",
       "url": "https://open.spotify.com/track/0qfls25AHT70kdvoKc4zyq"
+    },
+    {
+      "album": {
+        "name": "Pixels and Poetry",
+        "url": "https://open.spotify.com/album/4uAPVQZQXh00bC51MVWLgq"
+      },
+      "artists": [
+        {
+          "name": "The Galacticas",
+          "url": "https://open.spotify.com/artist/3OqM9wx94VLVevksMclrGI"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206786,
+      "name": "Wilhelm Scream",
+      "url": "https://open.spotify.com/track/6utT15xnEIQAvvhtB4UTRv"
     },
     {
       "album": {
@@ -5506,7 +5578,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 233239,
       "name": "\u041b\u0430\u0432\u0438\u043d\u044b",
       "url": "https://open.spotify.com/track/4yY60xQzkD3t5esainGo5F"

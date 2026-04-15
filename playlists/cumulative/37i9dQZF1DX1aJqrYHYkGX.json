@@ -287,6 +287,24 @@
     },
     {
       "album": {
+        "name": "Astral Noon",
+        "url": "https://open.spotify.com/album/3gUFXCtPPd33qRIupB8Cck"
+      },
+      "artists": [
+        {
+          "name": "Peaceful Island",
+          "url": "https://open.spotify.com/artist/0s2PIIFX28PHshwhsbFjJh"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Astral Noon",
+      "url": "https://open.spotify.com/track/7bnNfnG2lVi4R6nRBVNrQD"
+    },
+    {
+      "album": {
         "name": "Consonnances",
         "url": "https://open.spotify.com/album/0BMAjP8zHnDpxi8xyUkSsZ"
       },
@@ -408,6 +426,24 @@
       "duration_ms": 214666,
       "name": "Bhupali",
       "url": "https://open.spotify.com/track/3hfh3VfPtFVtB9KnuNtJXo"
+    },
+    {
+      "album": {
+        "name": "Breath Of Light",
+        "url": "https://open.spotify.com/album/34mqh8wUKAoXGQujvJDrZ2"
+      },
+      "artists": [
+        {
+          "name": "Abe Hathot",
+          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161454,
+      "name": "Breath of Light",
+      "url": "https://open.spotify.com/track/6nZcIdvoooFGlkm3SPAmtT"
     },
     {
       "album": {
@@ -642,7 +678,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 202000,
       "name": "Contra La Ceguera",
       "url": "https://open.spotify.com/track/6LhGHJlSy42wepu2KI1GcO"
@@ -733,6 +769,24 @@
     },
     {
       "album": {
+        "name": "Deep Air",
+        "url": "https://open.spotify.com/album/6FuyTzbuaGK0uzteQktEhs"
+      },
+      "artists": [
+        {
+          "name": "Calm S\u016btra",
+          "url": "https://open.spotify.com/artist/17iuV6cWs8vvEHlD41aFu6"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Deep Air",
+      "url": "https://open.spotify.com/track/2ezF2uaDj5zGqx3wjz1XyG"
+    },
+    {
+      "album": {
         "name": "Deep Dreams",
         "url": "https://open.spotify.com/album/0Ba4iSVSazcEk9juE7jzlp"
       },
@@ -798,7 +852,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 210181,
       "name": "Dharma",
       "url": "https://open.spotify.com/track/1mmJ23UvtuCs5DYWJNVudJ"
@@ -1062,10 +1116,28 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 312000,
       "name": "El Duende",
       "url": "https://open.spotify.com/track/0bfWgeqFYUPerXAavokicr"
+    },
+    {
+      "album": {
+        "name": "Entrance to the Sanctuary",
+        "url": "https://open.spotify.com/album/7AG5kHTJZ1VhZ32quH2xOI"
+      },
+      "artists": [
+        {
+          "name": "Harlan Silverman",
+          "url": "https://open.spotify.com/artist/6RR7uINKmGclSu0zHBC7mU"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173034,
+      "name": "Entrance to the Sanctuary",
+      "url": "https://open.spotify.com/track/1mVlo2ippSO8AMSRYEpQpA"
     },
     {
       "album": {
@@ -1092,7 +1164,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 140000,
       "name": "Eranthis Hyemalis II",
       "url": "https://open.spotify.com/track/0gyKC5AWtclO8PrFK2srNS"
@@ -1218,7 +1290,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 191500,
       "name": "Flute In Green",
       "url": "https://open.spotify.com/track/0kG7pRwPm4r6nBUGqnLQyd"
@@ -1373,6 +1445,24 @@
     },
     {
       "album": {
+        "name": "Golden Court",
+        "url": "https://open.spotify.com/album/3Kl0n98Mg5cuDgqUOWEqA1"
+      },
+      "artists": [
+        {
+          "name": "Liam Eira",
+          "url": "https://open.spotify.com/artist/0DcmehohVqz1uugEjY6thE"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Golden Court",
+      "url": "https://open.spotify.com/track/6VqtEQ1Rfs2Qz4eV8zE6T1"
+    },
+    {
+      "album": {
         "name": "Golden Hour Ganges",
         "url": "https://open.spotify.com/album/0hde8PjUfNu7GT8RLIUup8"
       },
@@ -1406,6 +1496,24 @@
       "duration_ms": 200000,
       "name": "Golden Light",
       "url": "https://open.spotify.com/track/0kbAa2DF9qZmd8EeJOwpSG"
+    },
+    {
+      "album": {
+        "name": "Golden Tears",
+        "url": "https://open.spotify.com/album/3VX2rTq5X6LtuXN1IHbZX7"
+      },
+      "artists": [
+        {
+          "name": "Kira Dialga",
+          "url": "https://open.spotify.com/artist/7meWw2byrBhWnB7L3oopXO"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163416,
+      "name": "Golden Tears",
+      "url": "https://open.spotify.com/track/3jcfpnbUfci7wYHeIxowZp"
     },
     {
       "album": {
@@ -1514,6 +1622,24 @@
       "duration_ms": 198971,
       "name": "Haze Garden (Prayer)",
       "url": "https://open.spotify.com/track/4XigfPo7zRs3S3ntut37zd"
+    },
+    {
+      "album": {
+        "name": "Healing Raga",
+        "url": "https://open.spotify.com/album/2qtKimdiG1gJKcGWmL1Wsp"
+      },
+      "artists": [
+        {
+          "name": "Cautious Voice",
+          "url": "https://open.spotify.com/artist/4hARNYdi1hdngkpAAGEWCG"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226690,
+      "name": "Healing Raga",
+      "url": "https://open.spotify.com/track/3U2CoFQ5CtrSRNZHDpNTtb"
     },
     {
       "album": {
@@ -1748,7 +1874,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 304000,
       "name": "Jadui Duniya",
       "url": "https://open.spotify.com/track/1vcXTsec4caVwJwzpxwlLw"
@@ -1964,7 +2090,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 188852,
       "name": "Lluvia de Encanto",
       "url": "https://open.spotify.com/track/7vXsY08n2RnBL2PaFnZh7a"
@@ -2129,6 +2255,24 @@
     },
     {
       "album": {
+        "name": "Mild Expectations",
+        "url": "https://open.spotify.com/album/7nKoM4Txt4Z5q7dt7z2bKR"
+      },
+      "artists": [
+        {
+          "name": "Infinite Sphere",
+          "url": "https://open.spotify.com/artist/2FVBeKa5tcAuDKo60SwyHV"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147478,
+      "name": "Mild Expectations",
+      "url": "https://open.spotify.com/track/7sFmgPEcVn7QYz2Ln19MAS"
+    },
+    {
+      "album": {
         "name": "Milena's Theme (Duduk)",
         "url": "https://open.spotify.com/album/1VfvW4Pw4IQECc9nsWTo1Q"
       },
@@ -2140,7 +2284,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 200000,
       "name": "Milena's Theme (Duduk)",
       "url": "https://open.spotify.com/track/290GVez1qXhK2Dmx9JIauj"
@@ -2378,7 +2522,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 273600,
       "name": "Myst Spa",
       "url": "https://open.spotify.com/track/0OmmF4wh2lsng54rmIGDu6"
@@ -2436,6 +2580,24 @@
       "duration_ms": 164000,
       "name": "New Heights",
       "url": "https://open.spotify.com/track/2dRGLnWoSUU4p1MJ91aLtl"
+    },
+    {
+      "album": {
+        "name": "Nivora",
+        "url": "https://open.spotify.com/album/0KdiyPZv7txoPR2R8GSv4B"
+      },
+      "artists": [
+        {
+          "name": "Ritu Okada",
+          "url": "https://open.spotify.com/artist/2rkGW6L7WWQFGxGdajah40"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157333,
+      "name": "Nivora",
+      "url": "https://open.spotify.com/track/3L9DqTx32c1zl2v4lhGLlR"
     },
     {
       "album": {
@@ -2732,7 +2894,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 178328,
       "name": "Quenacho Prayer",
       "url": "https://open.spotify.com/track/7qzdruwHi5yzs0yN0vo8dR"
@@ -2972,7 +3134,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 148622,
       "name": "Returning It All",
       "url": "https://open.spotify.com/track/3vYXmN6uvbcVXwWdxG145s"
@@ -3062,7 +3224,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 146580,
       "name": "Riverglass",
       "url": "https://open.spotify.com/track/0yDjPEXWJonVufOT8E7m1X"
@@ -3286,7 +3448,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 157057,
       "name": "Serenade",
       "url": "https://open.spotify.com/track/4S5fjLovqyU2TLgwdHaQMS"
@@ -3484,7 +3646,7 @@
       ],
       "date_added": "2025-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 181160,
       "name": "Slowly Healing",
       "url": "https://open.spotify.com/track/6oJqtyhQPJe8tJeSUtCwH7"
@@ -3564,7 +3726,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 133367,
       "name": "Soothing Streams",
       "url": "https://open.spotify.com/track/1v1j4Od2dpUxXeWNiGM30E"
@@ -3622,6 +3784,24 @@
       "duration_ms": 167766,
       "name": "Spirit Dreams",
       "url": "https://open.spotify.com/track/7bE8OlCcDl6ygOutK8FSyc"
+    },
+    {
+      "album": {
+        "name": "Spirit Star",
+        "url": "https://open.spotify.com/album/33fCgG9mHT115LzHsTR0X2"
+      },
+      "artists": [
+        {
+          "name": "Wicker Whales",
+          "url": "https://open.spotify.com/artist/5uRVmIgosxKIgvH3YUMoou"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163500,
+      "name": "Spirit Star",
+      "url": "https://open.spotify.com/track/0wlEG47qbpM1sJQyoVYYBU"
     },
     {
       "album": {
@@ -3694,6 +3874,24 @@
       "duration_ms": 158117,
       "name": "Still Spaces",
       "url": "https://open.spotify.com/track/1qvkU0DwfhRMu11q9yefNO"
+    },
+    {
+      "album": {
+        "name": "Still Waters",
+        "url": "https://open.spotify.com/album/525H0BQpCO0omAwbkCVYwu"
+      },
+      "artists": [
+        {
+          "name": "Cautious Voice",
+          "url": "https://open.spotify.com/artist/4hARNYdi1hdngkpAAGEWCG"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153057,
+      "name": "Still Waters",
+      "url": "https://open.spotify.com/track/4JJCR5GAhpIa6mLZSy21bJ"
     },
     {
       "album": {
@@ -4003,6 +4201,24 @@
     },
     {
       "album": {
+        "name": "Thinking of You",
+        "url": "https://open.spotify.com/album/2Ltp29XUOQGRHKerXPEmiF"
+      },
+      "artists": [
+        {
+          "name": "Enhance Peace",
+          "url": "https://open.spotify.com/artist/1RQvOAOwjjtAXCfVm8pXnP"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142763,
+      "name": "Thinking of You",
+      "url": "https://open.spotify.com/track/2MKic2RL1I8kGDmGBzcPeh"
+    },
+    {
+      "album": {
         "name": "Through The Changes",
         "url": "https://open.spotify.com/album/515aroNRt3KAYBvyF9NIns"
       },
@@ -4032,7 +4248,7 @@
       ],
       "date_added": "2025-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 192000,
       "name": "Timeless Sea (Binaural Delta 94.5 Hz - 93.7 Hz)",
       "url": "https://open.spotify.com/track/3UcknBhGNP6qGWevGP5KSN"
@@ -4194,7 +4410,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 171815,
       "name": "Vil\u00e1n",
       "url": "https://open.spotify.com/track/6Qsxgw4T1okHKm2oPkLOxC"
@@ -4284,7 +4500,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 307000,
       "name": "Water Colour",
       "url": "https://open.spotify.com/track/2u1ZOGZAtmB9xOrRsgfFm1"
@@ -4320,7 +4536,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 141000,
       "name": "Waves of Serenity",
       "url": "https://open.spotify.com/track/04wDZI7XuCjGicazG046t9"

@@ -2,9 +2,9 @@
 
 ### [Loud Rock Japan](https://open.spotify.com/playlist/37i9dQZF1DX54Fkcz35jfT)
 
-> 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。/  Discover the intensity and emotion resonating through Japan’s hard rock\. Cover: SiM
+> 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。/  Discover the intensity and emotion resonating through Japan’s hard rock\. Cover: Prompts
 
-478 songs - 1 day 3 hr 30 min
+479 songs - 1 day 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Dark Horse](https://open.spotify.com/track/5tdi3BqFzpYVAaXi2qwC2Y) | [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk), [JESSE](https://open.spotify.com/artist/1piiwMSnN21hrtRzpJ11ef), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [Dark Horse](https://open.spotify.com/album/2w047BXSeBWZEoVblObPPs) | 3:45 | 2023-07-20 | 2024-07-24 |
 | [DEAD! \(feat\. CVLTE\)](https://open.spotify.com/track/3KZunNnCc1YHmS3WSYN5Ol) | [TSS](https://open.spotify.com/artist/0hTsRy6iJPc0fgkxhEHzmT), [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [DEAD! \(feat\. CVLTE\)](https://open.spotify.com/album/2xkZL4IkyMaY48TfF8yCYc) | 3:22 | 2024-11-26 | 2025-10-22 |
 | [Dear Life](https://open.spotify.com/track/6gsr8v2ZGPMzMegnJ05byK) | [BruteRocks](https://open.spotify.com/artist/0gVgOgI0gZrGf3c1DQfB4r) | [SOUNDSCAPE](https://open.spotify.com/album/5q53vO8tjeMQ1hICEqjvDS) | 3:43 | 2023-08-15 | 2023-10-04 |
+| [Death of Me](https://open.spotify.com/track/0N4Ho9OSQu4FDVldoSrAm4) | [Prompts](https://open.spotify.com/artist/3roPPqGAbyY4WHCbJbJnjl) | [Death of Me](https://open.spotify.com/album/1WGSsq1ds6cEn1expc4kLc) | 4:59 | 2026-04-14 |  |
 | [Delusion:All](https://open.spotify.com/track/61f3iPQRIe0I6CSj7qJdi3) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Delusion:All](https://open.spotify.com/album/5z4TVXmLIziKpgUEbtHr61) | 3:04 | 2024-07-16 |  |
 | [DESTINATION UNKNOWN](https://open.spotify.com/track/1SBs9FBcvzM9KclTZn5U8U) | [Northern19](https://open.spotify.com/artist/4fsXgCjIFWNkCrO2rHd5da) | [FRESH / DESTINATION UNKNOWN](https://open.spotify.com/album/0tJQNc0A6aKYqvo6P8RCZE) | 2:49 | 2023-07-20 | 2023-10-04 |
 | [Destruction Sisters](https://open.spotify.com/track/2yL4L5IgsXNQ7vBTFB5w9Q) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [INSAINT](https://open.spotify.com/album/7e6Q8ViA61T7KNw15oFr2s) | 2:30 | 2023-10-01 | 2024-02-07 |
@@ -424,7 +425,7 @@
 | [カモン栄一](https://open.spotify.com/track/5y2qz18Ryt51C2WHnqOkYR) | [GOKUMON\(UchikubiGokumonDoukoukai\)](https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG) | [カモン栄一](https://open.spotify.com/album/3Q67hGPemhh0Zj7WYVm9g7) | 3:38 | 2024-07-09 | 2024-12-29 |
 | [ギミ¥エン\~Give me yen](https://open.spotify.com/track/4DMxsnb7a1AT1j11z8M4rC) | [BACKSHOW](https://open.spotify.com/artist/3mD0HSVVmh2kNCfbdDlF1D) | [ギミ¥エン\~Give me yen](https://open.spotify.com/album/7cO4cBDEdMvJqzk04iye21) | 3:05 | 2023-08-08 | 2023-10-20 |
 | [コイコガレ](https://open.spotify.com/track/1RtxMS6dcQuxK5y8TKh4Md) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM), [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [コイコガレ](https://open.spotify.com/album/71gRqLVrm4OMLRUYXMkWbu) | 3:35 | 2023-07-20 |  |
-| [サイレン](https://open.spotify.com/track/6DYebc1Ii95osJRX1P0Ke8) | [アンと私](https://open.spotify.com/artist/77KkjvrS1UpnQX2KldfB1J) | [NARCISM](https://open.spotify.com/album/0yjBA2zw38OSZOv9a8sVCR) | 3:05 | 2026-02-10 |  |
+| [サイレン](https://open.spotify.com/track/6DYebc1Ii95osJRX1P0Ke8) | [アンと私](https://open.spotify.com/artist/77KkjvrS1UpnQX2KldfB1J) | [NARCISM](https://open.spotify.com/album/0yjBA2zw38OSZOv9a8sVCR) | 3:05 | 2026-02-10 | 2026-04-15 |
 | [サルバドルサーガ](https://open.spotify.com/track/1WZI1YpskgHrl7bEsNcfFB) | [粗品](https://open.spotify.com/artist/7xqEtCgCQWtiuvlkM5Wigc) | [サルバドルサーガ](https://open.spotify.com/album/16nWKbGApwXiwjXK2JtkGY) | 3:15 | 2024-02-27 | 2024-03-01 |
 | [ジターバグ](https://open.spotify.com/track/78ooUd8wbjp22IzEPGxlRg) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [BRING YOUR BOARD!!](https://open.spotify.com/album/2WdPiPEVjeDLeOr5sMpT4k) | 3:19 | 2023-07-20 |  |
 | [ストラグルレター](https://open.spotify.com/track/6SkIndXStZlGfobBP3YYLc) | [GEEKSTREEKS](https://open.spotify.com/artist/5kHLhXev311wEXRfKLF4ps) | [Eight Melodies](https://open.spotify.com/album/3EtsQUHSvZWHlhpbYV4nOd) | 4:40 | 2024-03-05 | 2024-03-20 |

@@ -1833,6 +1833,28 @@
     },
     {
       "album": {
+        "name": "devaste",
+        "url": "https://open.spotify.com/album/1j6H1mHcaZLvKgwNYtDGZ8"
+      },
+      "artists": [
+        {
+          "name": "TWISTED",
+          "url": "https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG"
+        },
+        {
+          "name": "kellapsage",
+          "url": "https://open.spotify.com/artist/4TGsEz9x7p8SkARvMyklH4"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "devaste",
+      "url": "https://open.spotify.com/track/649O7DxFSeEHIbGNdjpJ81"
+    },
+    {
+      "album": {
         "name": "Devil",
         "url": "https://open.spotify.com/album/54WiyGQ7TL7nqIPoh1ieF8"
       },
@@ -4096,6 +4118,28 @@
       "duration_ms": 123870,
       "name": "KILL ZONE",
       "url": "https://open.spotify.com/track/10QQjmucQgBlrKc0RPh2i2"
+    },
+    {
+      "album": {
+        "name": "KILL ZONE",
+        "url": "https://open.spotify.com/album/3KgZ4dsNeqggbO2lgLX8bS"
+      },
+      "artists": [
+        {
+          "name": "RAIZHELL",
+          "url": "https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq"
+        },
+        {
+          "name": "CLOUD ZERO",
+          "url": "https://open.spotify.com/artist/5k8aKKH3WU39dXEbRyUhGJ"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123870,
+      "name": "KILL ZONE",
+      "url": "https://open.spotify.com/track/6c9DQvqGxC6CI3y8dgx8rg"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Co1jvHSQ9FFXOEY0TdPHQ">Hillary Lindsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 592 likes - 349 songs - 20 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 593 likes - 348 songs - 20 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -152,8 +152,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 142 | [The Days](https://open.spotify.com/track/3nrwvaP2ntAZVP2v1d6l6P) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [The Dream](https://open.spotify.com/album/0uJHZD1qFZwvO1GyMzDA1G) | 3:14 |
 | 143 | [Ruthless](https://open.spotify.com/track/6iZepxS1TSrveHleqp64dN) | [Gary Allan](https://open.spotify.com/artist/37W8SKV5Vc8lcGtdyWCA5m) | [Ruthless](https://open.spotify.com/album/3JB817SHWS8yoeLRCXGCVA) | 3:37 |
 | 144 | [Want You Back](https://open.spotify.com/track/3HkaQXrf8sU0ZJR2o9DLb1) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Damn Country Music](https://open.spotify.com/album/4js8lX2b3DBIfixMCPABC4) | 4:00 |
-| 145 | [Somebody Else Will](https://open.spotify.com/track/66SGV3dlYsBXDc0ESTfDKZ) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Mickey Guyton](https://open.spotify.com/album/621o8HiNenxyhgGA4dijCn) | 3:40 |
-| 146 | [Dig A Hole](https://open.spotify.com/track/5hBTLtFdMIEcv0MB5fOPPY) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [Dig A Hole](https://open.spotify.com/album/6VobrGcLu5Sz4RfMKaiqHR) | 2:51 |
+| 145 | [Dig A Hole](https://open.spotify.com/track/5hBTLtFdMIEcv0MB5fOPPY) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [Dig A Hole](https://open.spotify.com/album/6VobrGcLu5Sz4RfMKaiqHR) | 2:51 |
+| 146 | [Somebody Else Will](https://open.spotify.com/track/66SGV3dlYsBXDc0ESTfDKZ) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Mickey Guyton](https://open.spotify.com/album/621o8HiNenxyhgGA4dijCn) | 3:40 |
 | 147 | [Fire Escape](https://open.spotify.com/track/0yOKjGIjYTr61rB7xnE6Xm) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Wildcard](https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn) | 3:49 |
 | 148 | [Hummingbird](https://open.spotify.com/track/5RtZ4ebQFkCa6TGQjQshdd) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Humble Quest](https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw) | 3:19 |
 | 149 | [Pick Me Up](https://open.spotify.com/track/0XG2r1Hw1XDOrvp1IBbEof) | [Brett Kissel](https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm) | [Pick Me Up](https://open.spotify.com/album/2AIjGgi7S3zWimTIekSxYj) | 3:22 |
@@ -350,12 +350,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 340 | [Cowgirls](https://open.spotify.com/track/4bfojGasuysYXP89yxinUC) | [Magnolia](https://open.spotify.com/artist/4SG0MMfLI2lJtZa92Xu13q) | [Fall Down Seven](https://open.spotify.com/album/1TTntiioyUAC3ntRCaSwow) | 3:11 |
 | 341 | [This Time Of Year](https://open.spotify.com/track/5I4vX0BnOj8Hkb2pyln7s3) | [Melanie Morgan](https://open.spotify.com/artist/5SW32PeH4qJv83WrsbKaXL) | [Goodbye Birmingham](https://open.spotify.com/album/43WOGGhIFomvkV9tunjaA6) | 5:14 |
 | 342 | [You Ain't Know](https://open.spotify.com/track/270EaQRmJklbHSrcPKQbGt) | [Millz Tha Difference](https://open.spotify.com/artist/3rI5ILtC3NxAtuRDzJ292X) | [You Ain't Know](https://open.spotify.com/album/4ivpwP0SYc2dvvRgduvLjg) | 3:34 |
-| 343 | [Burn](https://open.spotify.com/track/235ocf9mxXmf8kCxRfFc7I) | [Janajana](https://open.spotify.com/artist/1PMgco8DXnVuk4Lr1cw1rR) | [Typical Girl](https://open.spotify.com/album/6zjIhOAyWgjOCHXwTVpzWo) | 3:29 |
-| 344 | [Summer Girl \(Karaoke Version\) \- Originally Performed By Jessica Andrews](https://open.spotify.com/track/2BnTOkStvLMRucaCxvukZb) | [Pro Choice Karaoke](https://open.spotify.com/artist/39SxEZ3tqMcObAi3T9QJzB) | [Karaoke Quick Tracks \- Sing the Hits of Jessica Andrews \(Karaoke Version\) \(Originally Performed By Jessica Andrews\)](https://open.spotify.com/album/4xlhT7jOQJT71ZcJXVtT4O) | 3:15 |
-| 345 | [I'm Gone](https://open.spotify.com/track/3GdOcYTlNMirnl0o0tWLkb) | [Paul Dunn](https://open.spotify.com/artist/7amKjhbrhokyIBk0bYjoFg) | [Out of the Shadows](https://open.spotify.com/album/6OW6DnU2bnqupmngFZtIHu) | 3:59 |
-| 346 | [I Won't Lie](https://open.spotify.com/track/6eDFmuT7OW5TQGERzto20z) | [BFM Hits](https://open.spotify.com/artist/6Xdp9Oz4PJJB9O0yoZmg7r) | [Karaoke: Country Hits 1998, Vol\. 11](https://open.spotify.com/album/0QvHzG6xAWCUjxzuoIuyUb) | 3:20 |
-| 347 | [Chasing Angels](https://open.spotify.com/track/7a8YfigQUAFQn7ORKlu87D) | [Janie Fricke](https://open.spotify.com/artist/3FhuHzOES6VGS9WW1wDymV) | [Roses & Lace](https://open.spotify.com/album/0KxZ4zOK41QG8Vz8uO7isO) | 3:25 |
-| 348 | [What Would You Do](https://open.spotify.com/track/4kFWLoSCSUTEDbF1rkf8pf) | [Janie Fricke](https://open.spotify.com/artist/3FhuHzOES6VGS9WW1wDymV) | [Roses & Lace](https://open.spotify.com/album/0KxZ4zOK41QG8Vz8uO7isO) | 2:59 |
-| 349 | [Got the Poots](https://open.spotify.com/track/71cqwaove3R1wShWBVEJul) | [Tooty Mae Woolley](https://open.spotify.com/artist/5VJGLTxYgDD0DjjirVF3Vd) | [Got the Poots](https://open.spotify.com/album/5eel7jlClDPWgc9CVtYp3l) | 3:36 |
+| 343 | [Summer Girl \(Karaoke Version\) \- Originally Performed By Jessica Andrews](https://open.spotify.com/track/2BnTOkStvLMRucaCxvukZb) | [Pro Choice Karaoke](https://open.spotify.com/artist/39SxEZ3tqMcObAi3T9QJzB) | [Karaoke Quick Tracks \- Sing the Hits of Jessica Andrews \(Karaoke Version\) \[Originally Performed By Jessica Andrews\]](https://open.spotify.com/album/4xlhT7jOQJT71ZcJXVtT4O) | 3:15 |
+| 344 | [I'm Gone](https://open.spotify.com/track/3GdOcYTlNMirnl0o0tWLkb) | [Paul Dunn](https://open.spotify.com/artist/7amKjhbrhokyIBk0bYjoFg) | [Out of the Shadows](https://open.spotify.com/album/6OW6DnU2bnqupmngFZtIHu) | 3:59 |
+| 345 | [I Won't Lie](https://open.spotify.com/track/6eDFmuT7OW5TQGERzto20z) | [BFM Hits](https://open.spotify.com/artist/6Xdp9Oz4PJJB9O0yoZmg7r) | [Karaoke: Country Hits 1998, Vol\. 11](https://open.spotify.com/album/0QvHzG6xAWCUjxzuoIuyUb) | 3:20 |
+| 346 | [Chasing Angels](https://open.spotify.com/track/7a8YfigQUAFQn7ORKlu87D) | [Janie Fricke](https://open.spotify.com/artist/3FhuHzOES6VGS9WW1wDymV) | [Roses & Lace](https://open.spotify.com/album/0KxZ4zOK41QG8Vz8uO7isO) | 3:25 |
+| 347 | [What Would You Do](https://open.spotify.com/track/4kFWLoSCSUTEDbF1rkf8pf) | [Janie Fricke](https://open.spotify.com/artist/3FhuHzOES6VGS9WW1wDymV) | [Roses & Lace](https://open.spotify.com/album/0KxZ4zOK41QG8Vz8uO7isO) | 2:59 |
+| 348 | [Got the Poots](https://open.spotify.com/track/71cqwaove3R1wShWBVEJul) | [Tooty Mae Woolley](https://open.spotify.com/artist/5VJGLTxYgDD0DjjirVF3Vd) | [Got the Poots](https://open.spotify.com/album/5eel7jlClDPWgc9CVtYp3l) | 3:36 |
 
-Snapshot ID: `AcOx6AAAAACI2L8zlPkYjgOxMRVj6kL4`
+Snapshot ID: `AcO3TAAAAAABZt3L7jYrdRNvn0oBTvgb`

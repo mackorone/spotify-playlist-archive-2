@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: <a href="spotify:artist:5ic8bWWvZHWf0dDBi9ThNk">bambi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,274 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,289 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 49 | [Biały głos](https://open.spotify.com/track/6U2uxdbV9DpIsOtuZgaT15) | [Lina Silva](https://open.spotify.com/artist/0I8iyqPNVpzKurgaSReE22) | [Biały głos](https://open.spotify.com/album/5PR1y2kMxCobizrjywRYRZ) | 3:13 |
 | 50 | [Simulate](https://open.spotify.com/track/0QBerdsjOmIdSCAKgKr5HP) | [KASIA](https://open.spotify.com/artist/7eHoBIirKPLD1FtgLZnjFV) | [Simulate](https://open.spotify.com/album/6oFid8H74EyjAOslgduKtx) | 3:20 |
 
-Snapshot ID: `AAAAABVYCr1f60X9TqF1MM2zPXMA23YP`
+Snapshot ID: `AAAAAAPIU43lPpoUf7+DtTCbT+ryzj0Z`

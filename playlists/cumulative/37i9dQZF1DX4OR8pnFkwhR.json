@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 Cover: LAUSBUB",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 Cover: \u30b9\u30fc\u30d1\u30fc\u767b\u5c71\u90e8",
   "name": "RADAR: Early Noise ",
   "tracks": [
     {
@@ -6437,6 +6437,24 @@
     },
     {
       "album": {
+        "name": "Secret Empire",
+        "url": "https://open.spotify.com/album/1PGH9NZBuicCrMD4lcbT76"
+      },
+      "artists": [
+        {
+          "name": "CLAN QUEEN",
+          "url": "https://open.spotify.com/artist/7MDWmWGdcgGcxawAnA1FUY"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231966,
+      "name": "Eden",
+      "url": "https://open.spotify.com/track/3jyqtuWqAyu498UCzVZKzb"
+    },
+    {
+      "album": {
         "name": "EDEN",
         "url": "https://open.spotify.com/album/53wQpWZuveMWCC8woe9rmO"
       },
@@ -10228,7 +10246,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 147187,
       "name": "I Want You to Tell Me the Moon is Beautiful!",
       "url": "https://open.spotify.com/track/2CSbGdlvxO4sGBEL9ZPAcZ"
@@ -10658,6 +10676,24 @@
       "duration_ms": 191264,
       "name": "instability boy",
       "url": "https://open.spotify.com/track/3wIvBFccIp5N08GcW9sV2O"
+    },
+    {
+      "album": {
+        "name": "Internet State",
+        "url": "https://open.spotify.com/album/1JgpOVlW5FiVrcjtmgTiOs"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30a6\u30eb\u30b9",
+          "url": "https://open.spotify.com/artist/2hinMi1MTf5qoUysITWKW3"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140029,
+      "name": "Internet State",
+      "url": "https://open.spotify.com/track/3n6HVX8icljgKdFeosDAQq"
     },
     {
       "album": {
@@ -13278,6 +13314,24 @@
       "duration_ms": 226784,
       "name": "Melody",
       "url": "https://open.spotify.com/track/18IkQ9FJd7BW261aQAbH9Z"
+    },
+    {
+      "album": {
+        "name": "MEMAI",
+        "url": "https://open.spotify.com/album/6lbQdUiAUPxcOT3fSAaIBA"
+      },
+      "artists": [
+        {
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197058,
+      "name": "MEMAI",
+      "url": "https://open.spotify.com/track/12cNWd1f1pDKc8P7nMbRw9"
     },
     {
       "album": {
@@ -16200,7 +16254,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 167680,
       "name": "Paradox",
       "url": "https://open.spotify.com/track/2pI2hJE73VQunoktyU2QJa"
@@ -17380,7 +17434,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 212085,
       "name": "Ray",
       "url": "https://open.spotify.com/track/08VP35lzv2o06F6PjKEV7Z"
@@ -19570,7 +19624,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 204833,
       "name": "Snowflake",
       "url": "https://open.spotify.com/track/0eTvmLKNF6i9RmTgVLqolP"
@@ -29871,6 +29925,24 @@
     },
     {
       "album": {
+        "name": "\u30cf\u30a4\u30e9\u30a4\u30c8",
+        "url": "https://open.spotify.com/album/3t7RXDW58rlxgYVkzCsqIe"
+      },
+      "artists": [
+        {
+          "name": "\u30b9\u30fc\u30d1\u30fc\u767b\u5c71\u90e8",
+          "url": "https://open.spotify.com/artist/5evTVfgO40erEFI5qBxtQ9"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193254,
+      "name": "\u30cf\u30a4\u30e9\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/4XIbe2uZ8nc9L4h8Ku29mI"
+    },
+    {
+      "album": {
         "name": "\u30cf\u30b0\u30eb\u30de",
         "url": "https://open.spotify.com/album/7oYh5Gx7GiyWF38YtfoUd4"
       },
@@ -30048,6 +30120,24 @@
       "duration_ms": 163220,
       "name": "\u30cf\u30ed\u30fc\u30de\u30a4\u30d5\u30ec\u30f3\u30c9",
       "url": "https://open.spotify.com/track/5MFf7NXYOmlDbY1sd2QBlv"
+    },
+    {
+      "album": {
+        "name": "\u30cf\u30fc\u30e2\u30cb\u30fc",
+        "url": "https://open.spotify.com/album/7zXJAAal6WqBhADoHsHrx1"
+      },
+      "artists": [
+        {
+          "name": "a\u5b50",
+          "url": "https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233095,
+      "name": "\u30cf\u30fc\u30e2\u30cb\u30fc",
+      "url": "https://open.spotify.com/track/3Gt35aibizWFiBlhlhmDgf"
     },
     {
       "album": {
@@ -30802,7 +30892,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 150000,
       "name": "\u30d7\u30e9\u30ca\u30ea\u30a2",
       "url": "https://open.spotify.com/track/2KpL9c03ofbvFhxTjvslZo"
@@ -32010,6 +32100,24 @@
       "duration_ms": 192575,
       "name": "\u30ea\u30c8\u30eb\u30c0\u30f3\u30b5\u30fc feat. Ito (PEOPLE 1)",
       "url": "https://open.spotify.com/track/4YyalpG25LRXCSBEgQgI0Q"
+    },
+    {
+      "album": {
+        "name": "\u30ea\u30c8\u30eb\u30ef\u30fc\u30eb\u30c9",
+        "url": "https://open.spotify.com/album/1zAo81LJpiaH49DbvEKqCU"
+      },
+      "artists": [
+        {
+          "name": "PompadollS",
+          "url": "https://open.spotify.com/artist/5LNw7upmiw5BIrN2UPLeL0"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188276,
+      "name": "\u30ea\u30c8\u30eb\u30ef\u30fc\u30eb\u30c9",
+      "url": "https://open.spotify.com/track/1cflsQcGcOcL7gkZaPyiYm"
     },
     {
       "album": {
@@ -38522,7 +38630,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 195160,
       "name": "\u7121\u82b1\u679c",
       "url": "https://open.spotify.com/track/0cRQm7cakITTEtdl9FEAYJ"

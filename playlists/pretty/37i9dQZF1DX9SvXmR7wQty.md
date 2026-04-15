@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Du neuf, du bon, du franco! Photo: Fredz
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,772 likes - 101 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,792 likes - 101 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 52 | [Mon bro est back](https://open.spotify.com/track/6DQW3b8k2vMR35rwTMh2RN) | [Random](https://open.spotify.com/artist/20JaTdfk3frqSwaYIf0ko8) | [Mon bro est back](https://open.spotify.com/album/1jRYnOKIhWtCnCLJgL0drj) | 3:28 |
 | 53 | [Appel Manqué](https://open.spotify.com/track/7eCHtjxmZVOabLDHaIqKTz) | [Gab Forest](https://open.spotify.com/artist/1xgUg61sm46MiNk52i2kQL) | [Appel Manqué](https://open.spotify.com/album/4sFvMpu0F7VzRxBFxM4mcU) | 3:22 |
 | 54 | [Mousse mémoire \- Live à la pointe sec](https://open.spotify.com/track/4Sv8MjQXGObWnMUZEpdBnG) | [Jeanne Côté](https://open.spotify.com/artist/2dNYXvbpBSHNjYc8eAvQB7) | [Live à la Pointe Sec](https://open.spotify.com/album/1vk6W0xzRlkYx9O3FiYwV0) | 3:49 |
-| 55 | [Trottoir](https://open.spotify.com/track/2ovYfum8K5JBtdj61f1qbe) | [DAN\-P](https://open.spotify.com/artist/3WVSEPVur29xOgFsmKMMIm), [Trapo Soprano](https://open.spotify.com/artist/3ixT2ES9r6tT3xlmN2RI8A), [Skilteck](https://open.spotify.com/artist/0kA7YYrQJET0k0b3VHVZ2c) | [Trottoir](https://open.spotify.com/album/3BQKHae9OdLX6PKT5kuvO7) | 2:51 |
+| 55 | [Trottoir](https://open.spotify.com/track/2ovYfum8K5JBtdj61f1qbe) | [DAN\-P](https://open.spotify.com/artist/3WVSEPVur29xOgFsmKMMIm), [Trapo Soprano](https://open.spotify.com/artist/3ixT2ES9r6tT3xlmN2RI8A), [Skilteck](https://open.spotify.com/artist/0kA7YYrQJET0k0b3VHVZ2c) | [Trottoir](https://open.spotify.com/album/3BQKHae9OdLX6PKT5kuvO7) | 2:49 |
 | 56 | [Le mentor](https://open.spotify.com/track/7s3nBEwqvALj5cbWP3OC2h) | [FUUDGE](https://open.spotify.com/artist/5VeX5PycbdHZmYuTqYGUbi) | [Le mentor](https://open.spotify.com/album/2tVLPshzDAglfg4Bv3urO1) | 2:54 |
 | 57 | [L'aube](https://open.spotify.com/track/6ue04npUUbXy6RsRZszSjY) | [Geneviève Bilodeau](https://open.spotify.com/artist/0WW3y58plFwgQVmO8p2uOW) | [L'aube](https://open.spotify.com/album/5BFKfxIcIwYdVkNo95ldLk) | 3:11 |
 | 58 | [Bye Bye](https://open.spotify.com/track/21voZTmJ9CUaws5PnW8eqb) | [Hélène Sio](https://open.spotify.com/artist/4xY8i64uyLVZJcxobplgOO) | [Bye Bye](https://open.spotify.com/album/1njh9CTA7moOYkmr6BdaNl) | 2:25 |

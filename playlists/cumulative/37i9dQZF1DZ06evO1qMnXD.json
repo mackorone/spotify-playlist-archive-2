@@ -236,10 +236,32 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 109824,
       "name": "Class of 2013",
       "url": "https://open.spotify.com/track/39bPZbBmJfBgNJUtbOua0D"
+    },
+    {
+      "album": {
+        "name": "Mitski on Audiotree Live",
+        "url": "https://open.spotify.com/album/5lbEsVQlcvV5tT8KBllPdh"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        },
+        {
+          "name": "Audiotree",
+          "url": "https://open.spotify.com/artist/1j8QyWpOJKAe6Iw2KvEg2j"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131530,
+      "name": "Class of 2013 - Audiotree Live Version",
+      "url": "https://open.spotify.com/track/76l5r75wE5kvPdDsksAr62"
     },
     {
       "album": {

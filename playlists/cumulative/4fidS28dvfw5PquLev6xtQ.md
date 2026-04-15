@@ -2,7 +2,7 @@
 
 ### [RYM Top 100 Songs \(updated "bi"weekly\)](https://open.spotify.com/playlist/4fidS28dvfw5PquLev6xtQ)
 
-> wh0 will win the zoning wars: I Want the Wind to Blow or The Moon1!?  🌝💨 ayo why he tooted though1!?
+> Zoom Zoom Zoom it&\#x27;s time to go to class and give the most sass out of all that ass DAMN that&\#x27;s a phat bar 🍑
 
 107 songs - 13 hr 41 min
 

@@ -4,7 +4,7 @@
 
 > Celebrating individuality within independent music
 
-282 songs - 16 hr 22 min
+286 songs - 16 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Bandages and Promises](https://open.spotify.com/track/0zQDOqHLjwK2Hueyih0jkJ) | [not equal to](https://open.spotify.com/artist/0ULpVOsLdkHOUlA3006rnz) | [Bandages and Promises](https://open.spotify.com/album/1N9bcji8icEHSbhyVEfPG8) | 3:25 | 2026-02-08 | 2026-03-29 |
 | [Beautiful Fear](https://open.spotify.com/track/2Q5xpVC50J31TqReHVIWk0) | [Lillibet](https://open.spotify.com/artist/5y9NYCtVotuZjlA8wkPoDe) | [Beautiful Fear](https://open.spotify.com/album/2sAtb468bjoRr9YJsvSnpD) | 3:52 | 2026-01-28 | 2026-03-10 |
 | [Bir Kent Rüyası](https://open.spotify.com/track/5Ww3NzsitV8ZlrGRF8FwRL) | [Gizem Demirhan](https://open.spotify.com/artist/1E0M9BtLjPMUurgqUqpi7o) | [Bir Kent Rüyası](https://open.spotify.com/album/5AoC8tcQtcs5mKXQAih72z) | 3:05 | 2026-02-10 | 2026-03-29 |
+| [Blanket Dreams](https://open.spotify.com/track/2tBYXZBymRJRGMMH9t1oF2) | [Baggs](https://open.spotify.com/artist/44k6sRhRRAW6Uy85KCr9Ti) | [Blanket Dreams](https://open.spotify.com/album/4M47wTUTOrVeFg50G5cXbl) | 3:34 | 2026-04-14 |  |
 | [Blood Full of Metal](https://open.spotify.com/track/248ljP84krXywsN09x4F4E) | [The PennyPound](https://open.spotify.com/artist/2QhZfUGvvm4AA07JNVY4SS) | [Blood Full of Metal](https://open.spotify.com/album/2mIC9Fjg06dzZpcHiDFngB) | 3:12 | 2026-02-03 | 2026-03-20 |
 | [Bloodshot Eyes](https://open.spotify.com/track/4XzNILnHHcfJxtRtGn4Ow8) | [Ruth A Harris](https://open.spotify.com/artist/4TUBRIaMIcsQUgkIIl5Vz8) | [Bloodshot Eyes](https://open.spotify.com/album/5P9VKrEu11OUOb8Rxj6yla) | 3:33 | 2026-02-08 | 2026-03-29 |
 | [Bloodsport](https://open.spotify.com/track/66wM8T14qRselu34qFBhC2) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [Pain to Power](https://open.spotify.com/album/6wymdowW8HbQ4H3nVs93Hj) | 3:42 | 2025-11-01 | 2026-01-17 |
@@ -38,6 +39,7 @@
 | [Carnival And Cotton Candy](https://open.spotify.com/track/49Ee6TwuEjIwYt4hjZapWX) | [Liisa Pentti](https://open.spotify.com/artist/7o3YN0mGGbr0DKjMZBfEta) | [Seems Familiar But So Strange](https://open.spotify.com/album/7e5Tpz7tzdK53RMcorgoTS) | 3:16 | 2026-03-10 |  |
 | [Carry Me](https://open.spotify.com/track/3HlzhD5JzCOl28ZyYaBMl7) | [ORA BLU](https://open.spotify.com/artist/6W85vCct2BUhK4mX1H1Flh) | [Carry Me](https://open.spotify.com/album/4CsWROryalOsNgDTZGV2ct) | 3:18 | 2025-12-12 | 2026-02-07 |
 | [Chapiteau](https://open.spotify.com/track/06e4iSfNG6XVts53EnG91O) | [Neona](https://open.spotify.com/artist/3VE3HoeJRsX7NetnHwDSlp) | [Chapiteau](https://open.spotify.com/album/2o4zfUINIDlrpyMzk2d1Lm) | 2:17 | 2025-11-01 | 2026-01-15 |
+| [Cherry Wine](https://open.spotify.com/track/0bNsre3voeNutKYyhRpdiA) | [Ain't no Ducks](https://open.spotify.com/artist/6gpSt6r2hIoVRHzOcNxF6U) | [Cherry Wine](https://open.spotify.com/album/0VzEK8ziTsdwXszlm2QvDq) | 2:50 | 2026-04-14 |  |
 | [Cigarette](https://open.spotify.com/track/56tdisH0RpjtEIxdTkCmny) | [sullivan grace band](https://open.spotify.com/artist/3ksrh2WkrKJmEeerKl2bpd) | [Cigarette](https://open.spotify.com/album/1V3mMM3bSlH3RYOvpQ4apt) | 2:23 | 2025-11-09 | 2026-01-17 |
 | [Clementine](https://open.spotify.com/track/21335sVPNGZtNLVp3uV7zc) | [Karibu Sana](https://open.spotify.com/artist/3tnXu74lhPhxXiOhDrWdHH) | [Clementine](https://open.spotify.com/album/6zwDrIUF7DCqQr1sFtCgkI) | 4:13 | 2026-01-16 | 2026-02-20 |
 | [CLOWN TOWN](https://open.spotify.com/track/2vUsPkvVZfewhZTs05ipvb) | [Wikka](https://open.spotify.com/artist/1PTXGpEQqVfBYjv5sGbfjq) | [SLUDGE](https://open.spotify.com/album/1AamHYpsA0SpBZhn4x01BF) | 2:28 | 2026-02-28 |  |
@@ -248,6 +250,7 @@
 | [Time Machine](https://open.spotify.com/track/6MYZWeZrIpeeJZHjc2fRCJ) | [MYLO BYBEE](https://open.spotify.com/artist/6NWYao9Kq1OZi1mki3yhwS) | [Time Machine](https://open.spotify.com/album/1hJzdSv338nXvopDvcgj3q) | 3:44 | 2025-11-24 | 2026-01-17 |
 | [Today's Quest](https://open.spotify.com/track/4skAncx0uLGrpKv97qS7If) | [The Kiffs](https://open.spotify.com/artist/3xZRG3IdVeo6jeVNitBYeX) | [Today's Quest](https://open.spotify.com/album/6HXzJjybyM7YvKNgTLWBwB) | 3:09 | 2025-11-15 | 2026-01-17 |
 | [togher](https://open.spotify.com/track/5Fmqxc6IvItrprHWLpEVc9) | [tina.](https://open.spotify.com/artist/07BwCkEmgUdl0iuWfVq4mC) | [togher](https://open.spotify.com/album/1ReFEzctIfWYIzbUidlBNT) | 3:15 | 2026-03-21 |  |
+| [tomgirl \(I'm in my head\)](https://open.spotify.com/track/3BhLkRiTI1VVOHXL0JB7ze) | [Quentin](https://open.spotify.com/artist/4GpI0u4lFwCzzYnwNlglbi) | [tomgirl \(I'm in my head\)](https://open.spotify.com/album/0Ftd1eloccWWqXf6QzFLSv) | 2:57 | 2026-04-14 |  |
 | [Too much to ask](https://open.spotify.com/track/1wqGxEXFzZxEckptMEzwfv) | [Porcelain People](https://open.spotify.com/artist/6v9XtT9VXOY2003I5f8amB) | [Too much to ask](https://open.spotify.com/album/6NG3y8XWY1jd2HxuOonYpY) | 4:43 | 2026-03-10 |  |
 | [Toujours Avec Toi](https://open.spotify.com/track/6KCbj9D831CMCWVXSA0I5O) | [MOON EATER](https://open.spotify.com/artist/6ba0LW5CuxxNNn3Il6MkgB) | [Toujours Avec Toi](https://open.spotify.com/album/4CfUDeION0lbXMiIIWjopW) | 1:41 | 2026-02-02 | 2026-03-10 |
 | [Tripping](https://open.spotify.com/track/7dX84JjRtlN2M7dVWHFlei) | [The American Hotel System](https://open.spotify.com/artist/6brMI3t9gWQkmJVGhxCQnJ) | [Can You Hear It? \(The Deluxe Edition\)](https://open.spotify.com/album/6P1L2PKg7pE5GJa5Yy1x89) | 4:26 | 2026-01-25 | 2026-03-10 |
@@ -281,6 +284,7 @@
 | [Wishing Me Dead](https://open.spotify.com/track/68cOf9WYuULrqncSwLynKv) | [otobahn](https://open.spotify.com/artist/3uIcjCMqPqYfn2ColxJhpb) | [Wishing Me Dead](https://open.spotify.com/album/6CihvrHXu9YoY9XH9z1o53) | 5:06 | 2026-01-22 | 2026-03-10 |
 | [With You](https://open.spotify.com/track/6I7g2BvGCJzC20Ez6tEqHH) | [Patch Habits](https://open.spotify.com/artist/1BONbFNsdNqafUlqv9xVkZ) | [With You](https://open.spotify.com/album/7MSeQ2Pk4zXEa7ZjG6uJIT) | 3:21 | 2026-02-13 | 2026-03-29 |
 | [Wonderful Paradox](https://open.spotify.com/track/7LfF485Urzmt6zMcqNOVYu) | [Mad'J](https://open.spotify.com/artist/5trtjhxKBebFy3DnvgY1vy) | [Wonderful Paradox](https://open.spotify.com/album/39DtRuSIrgtoSb9TpkOOlC) | 3:44 | 2025-10-30 | 2026-01-17 |
+| [Words](https://open.spotify.com/track/1NWjkkZgUYEWROtrzn4DGm) | [The Fossil](https://open.spotify.com/artist/2zs3Ho6Kt2iDspmKCieyRX) | [Words](https://open.spotify.com/album/0yztP7IlMVPkikumfDSHDo) | 3:44 | 2026-04-14 |  |
 | [Would Be Better](https://open.spotify.com/track/4caeJi0QJyfrgCwcfS5XZU) | [Luan Luan](https://open.spotify.com/artist/1TRI5G2cp3GkZ2itd8IIMG) | [Would Be Better](https://open.spotify.com/album/7wHaSk8Rc42ZLzHCTKJbZH) | 3:54 | 2026-02-28 |  |
 | [XOXO \(Ex oh, Ex ow!\)](https://open.spotify.com/track/4P1CmDbce9sBKsuEx2SBF4) | [Lord Sebastian](https://open.spotify.com/artist/06ADavaxngMDpbcRPXHBvm) | [XOXO \(Ex oh, Ex ow!\)](https://open.spotify.com/album/7KjY597wS0kTiC4TucLvop) | 3:08 | 2026-03-04 |  |
 | [Yellow](https://open.spotify.com/track/6qwbAsMNRLZdvzx9bGzpWZ) | [Luan Luan](https://open.spotify.com/artist/1TRI5G2cp3GkZ2itd8IIMG) | [Yellow](https://open.spotify.com/album/5Klb8K3CFOPAJgfPAupUKV) | 4:19 | 2025-11-04 | 2026-01-17 |

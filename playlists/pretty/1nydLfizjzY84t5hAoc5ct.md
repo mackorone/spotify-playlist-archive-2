@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1nydLfizjzY84t5hAoc5ct.md) - [plain]
 
 > OffAxisGigs.com \| Indie \| Folk \| Electro \| Rock \| Pop
 
-[newfoundsound](https://open.spotify.com/user/newfoundsound) - 1,349 likes - 131 songs - 8 hr 23 min
+[newfoundsound](https://open.spotify.com/user/newfoundsound) - 1,349 likes - 132 songs - 8 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,5 +139,6 @@ pretty - [cumulative](/playlists/cumulative/1nydLfizjzY84t5hAoc5ct.md) - [plain]
 | 129 | [Cowboy Blues](https://open.spotify.com/track/33AEU6iQTRP4RKjDSOIoSS) | [Dear Heather](https://open.spotify.com/artist/1mWoFKl5CsBCynbbLVh7kB) | [Get My Good Side](https://open.spotify.com/album/2ssdXflV2D83zpRBXy3Wnn) | 3:55 |
 | 130 | [At Nathan's House](https://open.spotify.com/track/41etUdAj7MZz7x7s7VP3DS) | [Clay Rings](https://open.spotify.com/artist/3tr227jMYMc1Qygz3A4Unp) | [At Nathan's House](https://open.spotify.com/album/2cOtM6OudVEX5xJe9ooAEO) | 3:49 |
 | 131 | [Stronger](https://open.spotify.com/track/78IGGly8kRFO5kDXEb8Qje) | [The Cosmic Dead](https://open.spotify.com/artist/19IfNSUIDUoz5OA5c2POvE) | [Stronger](https://open.spotify.com/album/78IcIHs4CeWJYaGiUaijY8) | 3:46 |
+| 132 | [Circles](https://open.spotify.com/track/25YMTn635xYt8sg4EhozIP) | [MillionYears](https://open.spotify.com/artist/02UDZqlOSBfhg6JTF5Tl86) | [Circles](https://open.spotify.com/album/0ZbEh3zRaW9Ho97VpcU6NQ) | 2:54 |
 
-Snapshot ID: `AAB3TDvRLDYJEebUKi6QfX8m6LsdJfCE`
+Snapshot ID: `AAB3TVb/AIsn8lmbkSIxl6LxntfpayIf`

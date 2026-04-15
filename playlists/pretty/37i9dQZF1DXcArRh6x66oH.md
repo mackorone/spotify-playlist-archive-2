@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcArRh6x66oH.md) - [plain]
 
 > roots run deep with Max McNown
 
-[Spotify](https://open.spotify.com/user/spotify) - 465,767 likes - 178 songs - 10 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 465,887 likes - 178 songs - 10 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Greeicy. The essential tracks, all in one playlist.",
-  "num_followers": 132289,
+  "num_followers": 132303,
   "original_name": "This Is Greeicy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adrggAAAAAA5TiZCUS/hO8QcMC7V9NRU",
+  "snapshot_id": "adwyAAAAAACyTPy2rzl2GwhJWJddnLKL",
   "tracks": [
     {
       "added_at": null,
@@ -967,22 +967,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "MACARRONES CON QUESO",
-        "url": "https://open.spotify.com/album/1AWJf0i44FZsMwVC1hy6d7"
+        "name": "Baila",
+        "url": "https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH"
       },
       "artists": [
-        {
-          "name": "BORJA",
-          "url": "https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw"
-        },
         {
           "name": "Greeicy",
           "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
         }
       ],
-      "duration_ms": 147400,
-      "name": "MACARRONES CON QUESO",
-      "url": "https://open.spotify.com/track/5wI6KisgI3ZaFdbIzTxSjs"
+      "duration_ms": 216413,
+      "name": "Ganas",
+      "url": "https://open.spotify.com/track/5Olgt8adke15M1zpzja0Ao"
     }
   ],
   "unique_name": "This Is Greeicy",

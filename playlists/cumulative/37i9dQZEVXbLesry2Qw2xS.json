@@ -5289,6 +5289,28 @@
     },
     {
       "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227986,
+      "name": "Beauty And A Beat",
+      "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
+    },
+    {
+      "album": {
         "name": "Because Of You",
         "url": "https://open.spotify.com/album/4Pbi89jb8k56Qh8hrwwbGu"
       },
@@ -13196,7 +13218,7 @@
       ],
       "date_added": "2025-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 160000,
       "name": "Ebapopulaarne",
       "url": "https://open.spotify.com/track/4nnBWEm9NoFOxYl453b2XJ"
@@ -13844,7 +13866,7 @@
       ],
       "date_added": "2024-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -25278,7 +25300,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-20",
+      "date_removed": null,
       "duration_ms": 182244,
       "name": "Keerleb",
       "url": "https://open.spotify.com/track/5K4Hf7aV25Y3IuJybpukWL"
@@ -34178,7 +34200,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 195652,
       "name": "Mustrid",
       "url": "https://open.spotify.com/track/4tOHWbl6q8ZYnspnbsb8nf"
@@ -41464,7 +41486,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-07",
+      "date_removed": null,
       "duration_ms": 151741,
       "name": "Rahvalaul",
       "url": "https://open.spotify.com/track/6pLUlgilUe0ky5UU6x5qH9"
@@ -53436,7 +53458,7 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-13",
+      "date_removed": null,
       "duration_ms": 175263,
       "name": "ulakas kaunitar",
       "url": "https://open.spotify.com/track/0jcJEcK0eX5acLVU1VYmbd"
@@ -53944,7 +53966,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 163809,
       "name": "Uueks hommikul",
       "url": "https://open.spotify.com/track/1a7A3FoOogzD0HnViWe1DU"

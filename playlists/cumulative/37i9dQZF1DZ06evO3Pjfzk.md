@@ -4,7 +4,7 @@
 
 > This is Lainey Wilson\. The essential tracks, all in one playlist.
 
-109 songs - 6 hr 22 min
+110 songs - 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,8 @@
 | [Sayin’ What I’m Thinkin’](https://open.spotify.com/track/5AzFlhzijKM7xFPY5b1taP) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Sayin’ What I’m Thinkin’](https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR) | 3:21 | 2023-12-13 |  |
 | [Smell Like Smoke](https://open.spotify.com/track/3FQL51eEwEDRw8YQj9Vlwc) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/7MQhqC96gC1il14HCHbfr9) | 2:48 | 2023-09-15 | 2023-12-14 |
 | [Smell Like Smoke](https://open.spotify.com/track/6hWUxgcCGGCd17i2eZ5qbJ) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0) | 2:48 | 2023-12-13 | 2026-01-24 |
-| [Somewhere Over Laredo](https://open.spotify.com/track/0aGIy8kll4HYDnNTDlf2vU) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Somewhere Over Laredo](https://open.spotify.com/album/7AM3OzfWrmxHJ5xkWSEEre) | 3:46 | 2025-05-25 |  |
+| [Somewhere Over Laredo](https://open.spotify.com/track/0aGIy8kll4HYDnNTDlf2vU) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Somewhere Over Laredo](https://open.spotify.com/album/7AM3OzfWrmxHJ5xkWSEEre) | 3:46 | 2025-05-25 | 2026-04-15 |
+| [Somewhere Over Laredo](https://open.spotify.com/track/2KeS9EwqQvw0TdGohFNvfC) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind \(Deluxe\)](https://open.spotify.com/album/4jzl02ZBUX359L5VlqLNCQ) | 3:46 | 2026-04-15 |  |
 | [Straight Up Sideways](https://open.spotify.com/track/4QJhHUCcaCPS0hO6XYFpHO) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Sayin' What I'm Thinkin'](https://open.spotify.com/album/3I0SEplNpqsPfnLVZsNPif) | 2:56 | 2023-09-15 | 2023-12-14 |
 | [Straight Up Sideways](https://open.spotify.com/track/7E4ijYR8LB9gQ5gHHc3ljT) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Sayin’ What I’m Thinkin’](https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR) | 2:56 | 2023-12-13 |  |
 | [The Jesus I Know Now](https://open.spotify.com/track/5b1kZLzylm4PWvlX6DEklE) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [The Jesus I Know Now](https://open.spotify.com/album/7lnIDIoFSoHRRx2XJTsxju) | 3:33 | 2026-04-05 |  |

@@ -2,7 +2,7 @@
 
 ### [ABAT∑RA](https://open.spotify.com/playlist/37i9dQZF1DWYtEjm4ihp5w)
 
-> Cover: Stormy
+> Cover: 7ari, Ramoon
 
 504 songs - 1 day 2 hr 19 min
 

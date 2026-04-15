@@ -4,7 +4,7 @@
 
 > 
 
-2,402 songs - 5 day 9 hr 10 min
+2,403 songs - 5 day 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1604,6 +1604,7 @@
 | [Picture in My Mind](https://open.spotify.com/track/0z3YYobsavHguLTgqg5GC1) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [Picture in my mind](https://open.spotify.com/album/744TnMqUCSGWPa17iii3LU) | 2:56 | 2022-09-27 |  |
 | [Picture This](https://open.spotify.com/track/0f2uHiRUJoiUIPVzcpPosh) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [Bonito Generation](https://open.spotify.com/album/0dAMC0nNikIjhD8LeRZfhH) | 3:24 | 2022-06-10 |  |
 | [Pictures of Girls](https://open.spotify.com/track/415dK4glwDO7fXxYg3np8B) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Spring EP](https://open.spotify.com/album/0P2kTQ7mJ3z7CFjII7GWkw) | 3:24 | 2021-08-05 |  |
+| [Piece Of My Soul](https://open.spotify.com/track/3ECemWbXbG8XAuuI8M2Eft) | [Diffrent](https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV) | [Piece Of My Soul](https://open.spotify.com/album/61JOQRSDrDZhtSAUxFhQso) | 2:42 | 2026-04-14 |  |
 | [Pieces characteristiques en forme de suite: I\. Spanyolos](https://open.spotify.com/track/0bssZntqCkNy6MUh4HFaAV) | [Pierre Max Dubois](https://open.spotify.com/artist/6Jyj1F9xSqxa3ZiPdMiFAV), [Rigó Sándor](https://open.spotify.com/artist/2F9MKgJojWJE7BVpaFRs2G), [Christina Leeb\-Grill](https://open.spotify.com/artist/4mHpSu2etjk2gCfpyJfXFu) | [Dubois: Divertissement](https://open.spotify.com/album/0HSJdp7xvGgBNdLIrnXFir) | 3:55 | 2023-11-08 |  |
 | [Pieces characteristiques en forme de suite: II\. Oroszos](https://open.spotify.com/track/2Vz65F3M8W2Y187Y3zBICA) | [Pierre Max Dubois](https://open.spotify.com/artist/6Jyj1F9xSqxa3ZiPdMiFAV), [Rigó Sándor](https://open.spotify.com/artist/2F9MKgJojWJE7BVpaFRs2G), [Christina Leeb\-Grill](https://open.spotify.com/artist/4mHpSu2etjk2gCfpyJfXFu) | [Dubois: Divertissement](https://open.spotify.com/album/0HSJdp7xvGgBNdLIrnXFir) | 2:39 | 2023-11-07 |  |
 | [Pieces characteristiques en forme de suite: IV\. Magyaros](https://open.spotify.com/track/6q67RAEddXxBCs2QaYPxuZ) | [Pierre Max Dubois](https://open.spotify.com/artist/6Jyj1F9xSqxa3ZiPdMiFAV), [Rigó Sándor](https://open.spotify.com/artist/2F9MKgJojWJE7BVpaFRs2G), [Christina Leeb\-Grill](https://open.spotify.com/artist/4mHpSu2etjk2gCfpyJfXFu) | [Dubois: Divertissement](https://open.spotify.com/album/0HSJdp7xvGgBNdLIrnXFir) | 2:26 | 2023-11-07 |  |

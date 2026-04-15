@@ -3870,7 +3870,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 144474,
       "name": "Fresh",
       "url": "https://open.spotify.com/track/0XZzGczPj3tnI4pu9oURHv"
@@ -5770,6 +5770,28 @@
       "duration_ms": 213441,
       "name": "Internet",
       "url": "https://open.spotify.com/track/2LAXvVPg2vvpz9Pem8DCpm"
+    },
+    {
+      "album": {
+        "name": "Lover Boy",
+        "url": "https://open.spotify.com/album/6LGIL15YplCmZ9EAwWZgsy"
+      },
+      "artists": [
+        {
+          "name": "Yudino",
+          "url": "https://open.spotify.com/artist/48Nnq14bV6DdMvkYPuw7Z5"
+        },
+        {
+          "name": "Eryck Paolo Sarsale",
+          "url": "https://open.spotify.com/artist/3mr564MmezbPqUbgDaZS1n"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Ipaalam Sana",
+      "url": "https://open.spotify.com/track/76UGTkNqk1DfNn889CORwv"
     },
     {
       "album": {
@@ -13870,7 +13892,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 225750,
       "name": "Swimming In The Clouds",
       "url": "https://open.spotify.com/track/0n9wOJzo8MdwKm5YSVadhc"

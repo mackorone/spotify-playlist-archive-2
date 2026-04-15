@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OTZILgBWtT.md) - [plain]
 
 > enjoy the Dynamicduo concert \[가끔씩 오래 보자\] LIVE SET including the voices of them on stage! \(다이나믹 듀오의 무대 멘트와 목소리가 포함된 \[가끔씩 오래 보자\] 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 697 likes - 35 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 700 likes - 35 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

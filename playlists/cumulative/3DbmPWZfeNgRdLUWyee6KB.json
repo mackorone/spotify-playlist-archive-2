@@ -793,6 +793,24 @@
     },
     {
       "album": {
+        "name": "X\u00d8/L\u00d8VE II",
+        "url": "https://open.spotify.com/album/1PJnS9MVKgPH245DbET7fx"
+      },
+      "artists": [
+        {
+          "name": "Angel Dz",
+          "url": "https://open.spotify.com/artist/1agldgGiabw5qDe00nkdTh"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225762,
+      "name": "ADN",
+      "url": "https://open.spotify.com/track/6Vh5zrrGli4C9MBvfiqSMe"
+    },
+    {
+      "album": {
         "name": "Aeon's End",
         "url": "https://open.spotify.com/album/3coizvmbxb4VaoGcUusbg3"
       },
@@ -2858,6 +2876,24 @@
       "duration_ms": 224365,
       "name": "Cold Nights",
       "url": "https://open.spotify.com/track/7uXaMOhjnwNTx4ylOIdywo"
+    },
+    {
+      "album": {
+        "name": "Cold Nights",
+        "url": "https://open.spotify.com/album/6FTgj02lcNWhVsTIlX858A"
+      },
+      "artists": [
+        {
+          "name": "OXT DA MXD",
+          "url": "https://open.spotify.com/artist/16y1zDqUVY5goABIwMGG7C"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261959,
+      "name": "Cold Nights",
+      "url": "https://open.spotify.com/track/7iAXxZyflGT5fNSX8xBhCC"
     },
     {
       "album": {
@@ -8551,6 +8587,24 @@
     },
     {
       "album": {
+        "name": "Louisiana Hearts",
+        "url": "https://open.spotify.com/album/3JhcqErevGS1IOh62M7vK0"
+      },
+      "artists": [
+        {
+          "name": "Kit Shicker",
+          "url": "https://open.spotify.com/artist/0eFekL80FdknBH44bSU2dH"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273497,
+      "name": "Louisiana Hearts",
+      "url": "https://open.spotify.com/track/0L9PtEqHyt7yJVg6FFGiP0"
+    },
+    {
+      "album": {
         "name": "Xellay Acoustic",
         "url": "https://open.spotify.com/album/1EvK4l0At1nk7POZjevTyX"
       },
@@ -11038,6 +11092,24 @@
       "duration_ms": 159333,
       "name": "Oraci\u00f3n",
       "url": "https://open.spotify.com/track/4U1IuXpV9IQaLJ5tOObnpG"
+    },
+    {
+      "album": {
+        "name": "Oublier",
+        "url": "https://open.spotify.com/album/4sWS2GpOMkXIYFNxVaBwen"
+      },
+      "artists": [
+        {
+          "name": "Al 29",
+          "url": "https://open.spotify.com/artist/0LebYgYvKDz6SzsFyoeWxs"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224839,
+      "name": "Oublier",
+      "url": "https://open.spotify.com/track/28Bf8mE8vljd4yiyObmc6o"
     },
     {
       "album": {

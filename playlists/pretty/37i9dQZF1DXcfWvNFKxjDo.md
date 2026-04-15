@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: BOVSKI
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,593 likes - 91 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,604 likes - 91 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 70 | [Bis die Sonne wieder scheint](https://open.spotify.com/track/2kjUpIF7kBG11YUd4Zn97J) | [KXXMA](https://open.spotify.com/artist/6AFA7y2tNohNcpaLwDRyxx), [Kayne & Kinkel](https://open.spotify.com/artist/58PCOxmGpo9AlI9EVYq4XD) | [Bis die Sonne wieder scheint](https://open.spotify.com/album/5HvYnoXwoQIbg4m5ixXM0I) | 2:21 |
 | 71 | [Control](https://open.spotify.com/track/4e1L2pH75XOtCE0I0XzxlU) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3) | [Control](https://open.spotify.com/album/06qQT1E5uhlINmwovogW4P) | 3:12 |
 | 72 | [Sari](https://open.spotify.com/track/37FW7Vs0IPlEvsyoDGnPTG) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv) | [Sari](https://open.spotify.com/album/5N54e9J2KWZsqWrYeUr0Ja) | 6:28 |
-| 73 | [Invincible](https://open.spotify.com/track/2ovZAk5eRSGmG6Bxx0cDN7) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR) | [Invincible](https://open.spotify.com/album/5ZEtRGpaiwtL5QnqN3Je98) | 3:04 |
+| 73 | [Invincible \(feat\. Lia Knapp\)](https://open.spotify.com/track/2ovZAk5eRSGmG6Bxx0cDN7) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [Lia Knapp](https://open.spotify.com/artist/3Kz4SQOGT4Dgwh6C3YnzC0) | [Invincible \(feat\. Lia Knapp\)](https://open.spotify.com/album/5ZEtRGpaiwtL5QnqN3Je98) | 3:04 |
 | 74 | [What If](https://open.spotify.com/track/1PgpBIipssRBQxA92tNn17) | [Neelix](https://open.spotify.com/artist/5X3rdmEE2Mif6kFQkb2PxB), [CR3WFX](https://open.spotify.com/artist/6twYjkIFnzVKNJgEEpfnvI) | [What If](https://open.spotify.com/album/5HjMGKmdVwk5juDGL2GLJT) | 4:51 |
 | 75 | [The Sun Comes Up Tremendous](https://open.spotify.com/track/4xOUoPT3YjHnwzOFycXXjU) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [The Sun Comes Up Tremendous](https://open.spotify.com/album/7ky5M7uzAkPGBbHLgvCKZB) | 3:33 |
 | 76 | [Fuego](https://open.spotify.com/track/1LkS4sqxIIbBwB0Rmn85Q1) | [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [Fuego](https://open.spotify.com/album/2B4IUOCFFe0TSeFqYNKF9J) | 2:13 |

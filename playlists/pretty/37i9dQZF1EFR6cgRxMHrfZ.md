@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR6cgRxMHrfZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6VGYv5vpzG5D6Votiqpolb">Cal Shapiro</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167 likes - 169 songs - 8 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 169 likes - 169 songs - 8 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,9 +69,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR6cgRxMHrfZ.md) - [plain]
 | 59 | [Thick Skin](https://open.spotify.com/track/6AUdIUa9taPXjYv2IuyMh1) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [THE ART OF BEING A MESS \(DELUXE\)](https://open.spotify.com/album/1zv8XVn1rFyaZJS2Uih0xU) | 2:32 |
 | 60 | [Beast](https://open.spotify.com/track/6LxYLEHqoPvKDyhoTU0d9F) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [After Hours](https://open.spotify.com/album/7612v2NCnEexfvOHwK0Ttr) | 3:14 |
 | 61 | [Comedown](https://open.spotify.com/track/4BijsA9UwhonQHErVbzH4L) | [Taska Black](https://open.spotify.com/artist/3XFcu2NnGWceLNdxRCfYH3) | [Comedown](https://open.spotify.com/album/0GiUcSBb1JXpGsPwX4eAfn) | 2:48 |
-| 62 | [Be Easy](https://open.spotify.com/track/1rVRvYpH6numR6NfRtwJAo) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [To Dream](https://open.spotify.com/album/4hXGxuxXLcpbVTQUqOSZCJ) | 3:11 |
-| 63 | [Call For You](https://open.spotify.com/track/34HlyukOVl1gK1nfP5UXqs) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way](https://open.spotify.com/album/01rtI8jY5h2ZdPHMXnWJtb) | 3:38 |
-| 64 | [Kingdom of Fear](https://open.spotify.com/track/4Es6f0zquGHCrv9Hespx9W) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Kingdom of Fear](https://open.spotify.com/album/6nE9zag2eaoLn58KZSqRVZ) | 2:41 |
+| 62 | [Kingdom of Fear](https://open.spotify.com/track/4Es6f0zquGHCrv9Hespx9W) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Kingdom of Fear](https://open.spotify.com/album/6nE9zag2eaoLn58KZSqRVZ) | 2:41 |
+| 63 | [Be Easy](https://open.spotify.com/track/1rVRvYpH6numR6NfRtwJAo) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [To Dream](https://open.spotify.com/album/4hXGxuxXLcpbVTQUqOSZCJ) | 3:11 |
+| 64 | [Call For You](https://open.spotify.com/track/34HlyukOVl1gK1nfP5UXqs) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way](https://open.spotify.com/album/01rtI8jY5h2ZdPHMXnWJtb) | 3:38 |
 | 65 | [You and Me](https://open.spotify.com/track/0vuj9C2EaijzROiGd4yAvz) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [You and Me](https://open.spotify.com/album/2XhdejNPxAfbGZwuoeBEqo) | 2:46 |
 | 66 | [For You](https://open.spotify.com/track/7152P5rQMwjwoyepSuHx1B) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [The Scotch Tape](https://open.spotify.com/album/2W2J97vm3aul3LuE2DygGk) | 4:46 |
 | 67 | [Pretty Little](https://open.spotify.com/track/7ci9LUxqlht8OegSfmQLk0) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way](https://open.spotify.com/album/01rtI8jY5h2ZdPHMXnWJtb) | 2:35 |
@@ -119,8 +119,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR6cgRxMHrfZ.md) - [plain]
 | 109 | [To Dream](https://open.spotify.com/track/0vaXxVRPhjCo6MUnGsmHD2) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [To Dream](https://open.spotify.com/album/4hXGxuxXLcpbVTQUqOSZCJ) | 2:13 |
 | 110 | [Ex Games](https://open.spotify.com/track/4aFLceY2SiW4mclfXXyurP) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [The Scotch Tape](https://open.spotify.com/album/2W2J97vm3aul3LuE2DygGk) | 4:41 |
 | 111 | [So Cal](https://open.spotify.com/track/5QGGaFNMEVLiA6MGAzSvP6) | [CAL](https://open.spotify.com/artist/4VmI5ZXt5FnlYIA8xHCLGH) | [The Identity Crisis: Side A](https://open.spotify.com/album/0frneG4jiVupF47MCKJR4I) | 2:44 |
-| 112 | [Switchblade](https://open.spotify.com/track/5ZDkwmEL0vJUnhH1vE5F6w) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [The Scotch Tape](https://open.spotify.com/album/2W2J97vm3aul3LuE2DygGk) | 5:04 |
-| 113 | [Don't Know You \(feat\. Jake Miller\)](https://open.spotify.com/track/3Vb2Fztrjs2HyoB1cG7uGZ) | [Justin Caruso](https://open.spotify.com/artist/1NyxTiCivDmzgFWYD1V01m), [Jake Miller](https://open.spotify.com/artist/3gggmBN0erstm3YJvEGe3t) | [Don't Know You \(feat\. Jake Miller\)](https://open.spotify.com/album/38N0tc1rWoOWVXraTIk13B) | 3:10 |
+| 112 | [Don't Know You \(feat\. Jake Miller\)](https://open.spotify.com/track/3Vb2Fztrjs2HyoB1cG7uGZ) | [Justin Caruso](https://open.spotify.com/artist/1NyxTiCivDmzgFWYD1V01m), [Jake Miller](https://open.spotify.com/artist/3gggmBN0erstm3YJvEGe3t) | [Don't Know You \(feat\. Jake Miller\)](https://open.spotify.com/album/38N0tc1rWoOWVXraTIk13B) | 3:10 |
+| 113 | [Switchblade](https://open.spotify.com/track/5ZDkwmEL0vJUnhH1vE5F6w) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [The Scotch Tape](https://open.spotify.com/album/2W2J97vm3aul3LuE2DygGk) | 5:04 |
 | 114 | [Worth It](https://open.spotify.com/track/6e1RWRpPVERYkprIsSr1UM) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [One Night EP](https://open.spotify.com/album/04xXTzwHFjgXj7KH26U1aQ) | 2:47 |
 | 115 | [Cars, Money and Fame](https://open.spotify.com/track/2KZuyTQ55zvRylakqgxUBd) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Cars, Money and Fame](https://open.spotify.com/album/0tVbFZUbPNY1gFcWUAcBHL) | 3:54 |
 | 116 | [Everything I Do](https://open.spotify.com/track/0Uf2BnvU6DbS6cS8B7dGME) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [The Scotch Tape](https://open.spotify.com/album/2W2J97vm3aul3LuE2DygGk) | 5:01 |
@@ -178,4 +178,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR6cgRxMHrfZ.md) - [plain]
 | 168 | [Drink Us Back Together](https://open.spotify.com/track/5dANkvVBO2q1vqty0jNp4i) | [17 Memphis](https://open.spotify.com/artist/4vqV8IpWyagD7V8RjMO63g) | [17 MEMPHIS FOREVER](https://open.spotify.com/album/2XYynyaDxQk1h2d6vWv4iI) | 3:12 |
 | 169 | [Give You Love](https://open.spotify.com/track/2UO5W95ydfVo5AmCQNzVxJ) | [Jackie Castro](https://open.spotify.com/artist/6blpGtm31QFko8NcqeOxvN) | [Give You Love](https://open.spotify.com/album/4AhCVQ2AZkSQD7N3Mp3ksC) | 3:04 |
 
-Snapshot ID: `AcOx6AAAAADRaUeispeh/h8Sjpbv//Z0`
+Snapshot ID: `AcO3TAAAAAAL5amC485gAMM71ucWfk61`

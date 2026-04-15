@@ -1,12 +1,12 @@
 {
   "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Lynda x Franglish",
-  "num_followers": 199393,
+  "num_followers": 199406,
   "original_name": "R&Bae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAISwKnUyNYWxsH9+EdLH+DQ9ICNi",
+  "snapshot_id": "AAAAAAPM8Jds4Sjt2Rp2X6Uk7rW7KA2h",
   "tracks": [
     {
       "added_at": "2026-04-09 22:00:42",
@@ -683,22 +683,6 @@
       "duration_ms": 160000,
       "name": "Kill Bill",
       "url": "https://open.spotify.com/track/6UyFHRnklyzZq8WVIu7Zbm"
-    },
-    {
-      "added_at": "2026-04-09 22:00:42",
-      "album": {
-        "name": "Cod\u00e9",
-        "url": "https://open.spotify.com/album/65AD2s4mW1cz4f10JEEUvu"
-      },
-      "artists": [
-        {
-          "name": "Bryans",
-          "url": "https://open.spotify.com/artist/3xNat4RfBlrmWTukCfPKtW"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "Cod\u00e9",
-      "url": "https://open.spotify.com/track/6i2PUBNIUizHQUC2jai2gD"
     }
   ],
   "unique_name": "R&Bae",

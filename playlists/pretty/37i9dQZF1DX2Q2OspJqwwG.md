@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 
 > Un playlist \(foarte\) divers, cu tot ce e viral și trending în România
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,701 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,708 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 | 99 | [Regele \- From Buzz House: The Movie 2](https://open.spotify.com/track/7rfgRNyDknkGKvy0Oih7Fk) | [rares](https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9), [Tzanca Uraganu](https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66), [Sheik](https://open.spotify.com/artist/16h499dib06k5oaxjbAVtW), [rares bebelusul](https://open.spotify.com/artist/3eCAhRYvSFzfMpPeSgbxvw) | [Regele \(From Buzz House: The Movie 2\)](https://open.spotify.com/album/3c42cmU7lwbcvIFgVELEMk) | 2:40 |
 | 100 | [Tu blondina,eu brunet](https://open.spotify.com/track/3Xu2k2FS97eGmK7OOTfPHH) | [Tzanca Uraganu](https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66) | [Tu blondina,eu brunet](https://open.spotify.com/album/4FwzoL4kOfxLNH1Bb3o29g) | 2:25 |
 
-Snapshot ID: `AAAAAK3rbcoK8JqQe5XAQs8aVnFAQain`
+Snapshot ID: `AAAAAIgjeAUKvaoWFDA9fsLr6qg3a0za`

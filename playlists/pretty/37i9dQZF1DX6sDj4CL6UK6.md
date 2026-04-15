@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 
 > English songs from Indian artists<br/>Cover: Prateek Kuhad
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,785 likes - 69 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,792 likes - 69 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

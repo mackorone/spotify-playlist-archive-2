@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Celebrate the great female artists from anime culture. \u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u9054\u3092\u7279\u96c6\uff01 Cover: Ado",
+  "description": "Celebrate the great female artists from anime culture. \u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u9054\u3092\u7279\u96c6\uff01 Cover: tuki.",
   "name": "Women of Anime",
   "tracks": [
     {
@@ -6724,7 +6724,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 221360,
       "name": "soldier game",
       "url": "https://open.spotify.com/track/6EjqikavIw48BKxg7Z8gGQ"
@@ -15798,6 +15798,24 @@
       "duration_ms": 184243,
       "name": "\u96d1\u8e0f\u3001\u50d5\u3089\u306e\u8857",
       "url": "https://open.spotify.com/track/0tNSVPZeJjpNH7Q9VqrbyJ"
+    },
+    {
+      "album": {
+        "name": "\u96f6-zero-",
+        "url": "https://open.spotify.com/album/0M7H0tlUKc9PSljiRzx9mi"
+      },
+      "artists": [
+        {
+          "name": "tuki.",
+          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238253,
+      "name": "\u96f6-zero-",
+      "url": "https://open.spotify.com/track/0pLGNoLZ1q2r6Qt8ZYAS8u"
     },
     {
       "album": {

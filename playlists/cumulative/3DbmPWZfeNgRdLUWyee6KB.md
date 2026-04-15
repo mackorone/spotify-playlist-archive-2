@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-927 songs - 2 day 6 hr 12 min
+931 songs - 2 day 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Ada Lah Pokoknya](https://open.spotify.com/track/79VmacwFHLZ9MFJnd9M0Nt) | [WORSHIPER](https://open.spotify.com/artist/6MyopTP1JJDKkwooQaE1Dk) | [Ada Lah Pokoknya](https://open.spotify.com/album/23lnq8yr8VjuLKAKrqt26u) | 1:51 | 2026-01-30 | 2026-02-28 |
 | [Adesso che sei grande](https://open.spotify.com/track/2BlH6mIfTU4gvrbE1VhKt8) | [David Monni](https://open.spotify.com/artist/0yL1F00rnkzQbRlb4FBmRx), [Kafiristan](https://open.spotify.com/artist/5YMvcsjHDQbAV9H5ScLyqK) | [Adesso che sei grande](https://open.spotify.com/album/64fn51HyT7871aojCCPnnP) | 3:45 | 2026-04-09 |  |
 | [Adiós Chico De Mi Barrio](https://open.spotify.com/track/19cBheOwOZM4L9qCX6hQl2) | [Mauricio Riveros](https://open.spotify.com/artist/4KsvhWHEb2VNXsrvJjsf1J) | [Adiós Chico De Mi Barrio](https://open.spotify.com/album/4wKoDg54mdU78Eqkl6hdjr) | 3:34 | 2025-12-15 | 2026-01-15 |
+| [ADN](https://open.spotify.com/track/6Vh5zrrGli4C9MBvfiqSMe) | [Angel Dz](https://open.spotify.com/artist/1agldgGiabw5qDe00nkdTh) | [XØ/LØVE II](https://open.spotify.com/album/1PJnS9MVKgPH245DbET7fx) | 3:45 | 2026-04-14 |  |
 | [Aeon's End](https://open.spotify.com/track/0bb27f1MO2rIB9bemoFgrY) | [Dangerous Times for the Dead](https://open.spotify.com/artist/3oYyw3Wy4IuN27X2eIFVWD) | [Aeon's End](https://open.spotify.com/album/3coizvmbxb4VaoGcUusbg3) | 4:56 | 2026-03-09 | 2026-04-12 |
 | [After Hours](https://open.spotify.com/track/1IJRybUORpBhRHIHYS5C5Z) | [CTRL FREQS](https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv), [RoBeats](https://open.spotify.com/artist/6rMyJtMiEjGtD9HHbz5Vge) | [After Hours](https://open.spotify.com/album/5hin9vCARWLwDwXmMsU1J8) | 3:13 | 2025-11-21 | 2026-01-05 |
 | [After The Lights](https://open.spotify.com/track/2HBjhM3rBDaNaIPogdCvbl) | [CTRL FREQS](https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv) | [After The Lights](https://open.spotify.com/album/4BSqAmihLDKi1YfE0QPE8a) | 3:43 | 2025-11-30 | 2026-01-05 |
@@ -152,6 +153,7 @@
 | [Coastline](https://open.spotify.com/track/1RxAKnCromdMCDZcIv4ohk) | [M Official](https://open.spotify.com/artist/4jveQgGPqSFjYWxjNrZhkY) | [Golden Coast](https://open.spotify.com/album/0eAyfwqQjt4qpLZhEcXyMx) | 3:19 | 2026-01-26 | 2026-02-28 |
 | [Cocci ri rina](https://open.spotify.com/track/2v5I9alBtaqUF8Lsy8cG2E) | [I Musicanti di Gregorio Caimi](https://open.spotify.com/artist/4FdC3GeTxEwmOLyg9bgYnp) | [Arsura](https://open.spotify.com/album/00dqH3DRTC4WWFQ6biEIeV) | 4:05 | 2023-04-20 | 2025-11-29 |
 | [Cold Nights](https://open.spotify.com/track/7uXaMOhjnwNTx4ylOIdywo) | [Kama Linden](https://open.spotify.com/artist/7lqGgAk0aiS8xDeMbJBggS) | [Cold Nights](https://open.spotify.com/album/43tDQTW7UkOdO0Zg1RYfwh) | 3:44 | 2025-12-18 | 2026-01-15 |
+| [Cold Nights](https://open.spotify.com/track/7iAXxZyflGT5fNSX8xBhCC) | [OXT DA MXD](https://open.spotify.com/artist/16y1zDqUVY5goABIwMGG7C) | [Cold Nights](https://open.spotify.com/album/6FTgj02lcNWhVsTIlX858A) | 4:21 | 2026-04-14 |  |
 | [Collide](https://open.spotify.com/track/4B0eMfnkjkpxoLaT5FCBCV) | [Moni Blue](https://open.spotify.com/artist/42Bo1OzDnIhT4uHboVPDz5) | [Collide](https://open.spotify.com/album/4xMd7ls1h0XjKzdev47H1h) | 3:08 | 2025-12-04 | 2026-01-05 |
 | [Com'eri](https://open.spotify.com/track/0eZh6YHeq6JZ5ZCPRgvu0Q) | [David Monni](https://open.spotify.com/artist/0yL1F00rnkzQbRlb4FBmRx) | [Com'eri](https://open.spotify.com/album/0Hd1JZLkU2hbsnhEqsxAwf) | 4:09 | 2026-03-05 |  |
 | [come alive](https://open.spotify.com/track/2PHcMVs6DLwPKRJrZi2BqC) | [Maxwell LeVan](https://open.spotify.com/artist/6BAItgRso9SUbIyIpjcdm1) | [come alive](https://open.spotify.com/album/1FKPvxeD3py53CpUpLwj5D) | 3:32 | 2026-01-02 | 2026-02-03 |
@@ -453,6 +455,7 @@
 | [Lost In You](https://open.spotify.com/track/6P1A0agTnvgRiVgl1f9JPg) | [Brian Grey](https://open.spotify.com/artist/3pPN42kSubPiCcWQfuCHF2) | [Lost In You](https://open.spotify.com/album/3mW30RpXjuvEwnZTOMwVZr) | 4:31 | 2026-02-17 | 2026-03-25 |
 | [Lost In You](https://open.spotify.com/track/7rkMMHYciketGWiZmPIctw) | [Lucas Lutter](https://open.spotify.com/artist/0eU98CzYOtXqvjbCtthN8b) | [Lost In You](https://open.spotify.com/album/6CCiQTmfrJu7ALUsOzSnN1) | 3:41 | 2025-12-30 | 2026-02-03 |
 | [Lost Without You](https://open.spotify.com/track/66FFJv3Y8Xn9ENKQMXZW0Z) | [CTRL FREQS](https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv), [RoBeats](https://open.spotify.com/artist/6rMyJtMiEjGtD9HHbz5Vge) | [Lost Without You](https://open.spotify.com/album/3heC4MS7ewE0kXYJQdskbD) | 3:05 | 2025-12-10 | 2026-01-05 |
+| [Louisiana Hearts](https://open.spotify.com/track/0L9PtEqHyt7yJVg6FFGiP0) | [Kit Shicker](https://open.spotify.com/artist/0eFekL80FdknBH44bSU2dH) | [Louisiana Hearts](https://open.spotify.com/album/3JhcqErevGS1IOh62M7vK0) | 4:33 | 2026-04-14 |  |
 | [Love \- Acoustic](https://open.spotify.com/track/2FTY7R6ej2pDK6Zn3IIoLx) | [Xellay](https://open.spotify.com/artist/2BchMZ58NcNDLLerRnF0NR) | [Xellay Acoustic](https://open.spotify.com/album/1EvK4l0At1nk7POZjevTyX) | 3:31 | 2026-04-11 |  |
 | [Love Her More](https://open.spotify.com/track/4p1VQaTKVZ9xiFIrJp6r6l) | [Lillibet](https://open.spotify.com/artist/5y9NYCtVotuZjlA8wkPoDe) | [Love Her More](https://open.spotify.com/album/1cl88xbBUhyzAS41UF6Obp) | 4:11 | 2026-01-27 | 2026-02-28 |
 | [Love is](https://open.spotify.com/track/47fnHzZbyVzoun68XD6ZV0) | [K W Hoffman](https://open.spotify.com/artist/11NQwwc952s3dgAPbR5VPD) | [Love is](https://open.spotify.com/album/7xboQruZ4Wj5ypbkTR3ZQT) | 2:24 | 2025-12-09 | 2026-01-05 |
@@ -582,6 +585,7 @@
 | [One Day I Turned Green](https://open.spotify.com/track/4UKLM7ILJLJoMXmXi3wJzy) | [Ralph Escava](https://open.spotify.com/artist/2cCoLEiISTVexQpjlAaohG) | [One Day I Turned Green](https://open.spotify.com/album/5K1Sne4ScDrCHUe0rh1C4H) | 3:25 | 2026-03-26 |  |
 | [Open Road](https://open.spotify.com/track/4qmM0P0zPzuk02vS0zwzVL) | [Melaku](https://open.spotify.com/artist/0pg8optqAPmdNYyiksFIJs) | [Open Road](https://open.spotify.com/album/2NaqfH12sP2B48uo1GyOUT) | 3:05 | 2026-03-10 | 2026-04-12 |
 | [Oración](https://open.spotify.com/track/4U1IuXpV9IQaLJ5tOObnpG) | [Ziara](https://open.spotify.com/artist/0obWSB8D1Q4TnshJIvXW4p) | [Oración](https://open.spotify.com/album/42PcjhcW1EaV2V2rX2CpND) | 2:39 | 2026-01-30 | 2026-02-28 |
+| [Oublier](https://open.spotify.com/track/28Bf8mE8vljd4yiyObmc6o) | [Al 29](https://open.spotify.com/artist/0LebYgYvKDz6SzsFyoeWxs) | [Oublier](https://open.spotify.com/album/4sWS2GpOMkXIYFNxVaBwen) | 3:44 | 2026-04-14 |  |
 | [Our Lady Sanctuary](https://open.spotify.com/track/7GQ0PEFA3ZMTV5xn3Az7WX) | [Claude.ink](https://open.spotify.com/artist/1IbT88ZSG7qOieJEjrdfU2) | [Hermit](https://open.spotify.com/album/1XC0EQs1kvFxon3FFlsmYt) | 4:00 | 2026-03-21 |  |
 | [Our Man in Rajasthan](https://open.spotify.com/track/5fN3GfmiP4a47NbWkJFSxo) | [Kafiristan](https://open.spotify.com/artist/5YMvcsjHDQbAV9H5ScLyqK), [Pakhi Adhikari Kalipada](https://open.spotify.com/artist/7ozw5g9CS05d0lgbhPAmNv), [Mediterranean Jazz Project](https://open.spotify.com/artist/2igMKABeT1z573MU6j9fXT) | [Our Man in Rajasthan](https://open.spotify.com/album/75pV5uJWF3Ne8TBBjrFsnL) | 3:59 | 2024-05-23 | 2025-12-28 |
 | [Out of My Head](https://open.spotify.com/track/6c16RwgUzrrRRipIKkEE3k) | [Oh Bummer!](https://open.spotify.com/artist/1bNbOpDn0Ah4derpXO4sZ7), [Nick theKidd](https://open.spotify.com/artist/0f63uayGUf981mspv4bS4w), [SimpleSib](https://open.spotify.com/artist/6Rg8nObt0dnspHkP4NqQVi) | [Out of My Head](https://open.spotify.com/album/4XC4ELZOBzltBurwYx7d9f) | 2:49 | 2026-03-09 | 2026-04-12 |

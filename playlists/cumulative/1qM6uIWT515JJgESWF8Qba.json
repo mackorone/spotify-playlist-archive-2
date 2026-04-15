@@ -2349,6 +2349,24 @@
     },
     {
       "album": {
+        "name": "Never Gonna Make You Mine",
+        "url": "https://open.spotify.com/album/3hitAWfJNEBSrzYWm2CGrz"
+      },
+      "artists": [
+        {
+          "name": "Pink Cliffs",
+          "url": "https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182213,
+      "name": "Never Gonna Make You Mine",
+      "url": "https://open.spotify.com/track/1SUOjtXdd7WtFlzuQlYo60"
+    },
+    {
+      "album": {
         "name": "New Age: The Age of Karyttah",
         "url": "https://open.spotify.com/album/2vjajlHIgc0ihbc6RP3Ri8"
       },

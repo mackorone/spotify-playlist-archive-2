@@ -4,7 +4,7 @@
 
 > أفضل الاغاني العراقية\. الغلاف:صباح محمود
 
-163 songs - 10 hr 13 min
+164 songs - 10 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,9 +117,10 @@
 | [Rayeh](https://open.spotify.com/track/06yutas17kLIMQHo3pD8Ry) | [Habeeb Ali](https://open.spotify.com/artist/7KArBbdJ0GLtkEM3LUv1Fj), [Yasser Abd Alwahab](https://open.spotify.com/artist/6257KWddv5693NK51w7iXa) | [Rayeh](https://open.spotify.com/album/5Sa1IOEHtL5eVSmc0VERAD) | 5:38 | 2022-05-06 | 2022-06-17 |
 | [Rouh](https://open.spotify.com/track/3zkSuVZWajbNjFPYmHbTTI) | [Yasser Abd Alwahab](https://open.spotify.com/artist/6257KWddv5693NK51w7iXa) | [Rouh](https://open.spotify.com/album/2Z6b6tQoKNxhgWuCP97DIK) | 4:43 | 2022-05-25 | 2023-04-05 |
 | [Sa7i Rwhak](https://open.spotify.com/track/36eDAXZ1bWK6sHQRiB5U4f) | [Nabel Al Adeeb](https://open.spotify.com/artist/6ZCY8bwcZU2v4Ti9pAgLOi) | [Sa7i Rwhak](https://open.spotify.com/album/0g6cpvNnBT5pqMRa0hw87B) | 5:38 | 2022-05-06 | 2022-12-03 |
-| [Sabeh Mashyat](https://open.spotify.com/track/3zMFvFmBYTr3Hd5qPkgrRM) | [Sabah Mahmod](https://open.spotify.com/artist/6DPTJXd1omQ1oTiR1Vy9CZ) | [Sabeh Mashyat](https://open.spotify.com/album/0WNq9pntxjOVfIJkJQLiGA) | 2:36 | 2026-02-09 |  |
+| [Sabeh Mashyat](https://open.spotify.com/track/3zMFvFmBYTr3Hd5qPkgrRM) | [Sabah Mahmod](https://open.spotify.com/artist/6DPTJXd1omQ1oTiR1Vy9CZ) | [Sabeh Mashyat](https://open.spotify.com/album/0WNq9pntxjOVfIJkJQLiGA) | 2:36 | 2026-02-09 | 2026-04-15 |
 | [Safha Jdida](https://open.spotify.com/track/35TewCJeiy2uiA044iUMsL) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [Safha Jdida](https://open.spotify.com/album/6a1wDMzQeup9H4tlnZEW9q) | 2:57 | 2023-12-29 |  |
 | [Shaf Rohha](https://open.spotify.com/track/2OAqzCBCLO0o77MvN3rqV5) | [Yousif Al Sumaidaie](https://open.spotify.com/artist/26oGZUtxxUt9xpCWFfGSXN) | [Shaf Rohha](https://open.spotify.com/album/1bR9CBVAdpcjYP1JsW2oLB) | 3:26 | 2022-05-06 | 2022-07-26 |
+| [Shensa Menhom](https://open.spotify.com/track/3IPqVifbYjScga84DRtju8) | [Sabah Mahmod](https://open.spotify.com/artist/6DPTJXd1omQ1oTiR1Vy9CZ) | [Shensa Menhom](https://open.spotify.com/album/2vwGXebB2tYB6FcDpBR0L8) | 3:26 | 2026-04-14 |  |
 | [Shftk](https://open.spotify.com/track/344n9BZhttkQXHYPQiqscc) | [Waleed Al Aasal](https://open.spotify.com/artist/6kTNe99aqGfMsQDJjvpd7g) | [Shftk](https://open.spotify.com/album/2OKBBHxc16UgYpMp7dJniH) | 2:47 | 2022-05-06 | 2022-05-26 |
 | [Shkad Helw](https://open.spotify.com/track/29hXhjoSoGg8NUEPKig2am) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Shkad Helw](https://open.spotify.com/album/1gY8BkJKLoAOa3CLMCcUcB) | 3:28 | 2022-05-06 | 2022-10-26 |
 | [Shkolateh](https://open.spotify.com/track/7JUEv4UV5hai4XcMLukdQ3) | [Saif Nabeel](https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK) | [Shkolateh](https://open.spotify.com/album/54KPf024xUDQpcU1pTSVwD) | 2:42 | 2025-02-05 | 2025-11-07 |

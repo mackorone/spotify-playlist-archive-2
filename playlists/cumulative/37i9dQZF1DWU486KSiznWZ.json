@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "\u0646\u062e\u0628\u0629 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u062e\u0644\u064a\u062c\u064a\u0629. \u0627\u0644\u063a\u0644\u0627\u0641: \u0631\u0627\u0628\u062d \u0635\u0642\u0631 ",
+  "description": "\u0646\u062e\u0628\u0629 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u062e\u0644\u064a\u062c\u064a\u0629. \u0627\u0644\u063a\u0644\u0627\u0641: \u0639\u0627\u064a\u0636 ",
   "name": "Hits \u062e\u0644\u064a\u062c\u064a",
   "tracks": [
     {
@@ -3162,7 +3162,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 196510,
       "name": "\u0627\u0639\u0648\u0641 \u0627\u0644\u062f\u0646\u064a\u0627",
       "url": "https://open.spotify.com/track/0fBy3SWaFE4rzPSRqD6RO7"
@@ -3256,7 +3256,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 222266,
       "name": "\u0627\u0644\u0642\u062f\u0631 \u062c\u0627\u0628\u0643",
       "url": "https://open.spotify.com/track/600lrMpRgxotex7UnTYBpa"
@@ -3455,6 +3455,24 @@
     },
     {
       "album": {
+        "name": "\u062b\u0645\u0627\u0646 \u0627\u0644\u0627\u0645",
+        "url": "https://open.spotify.com/album/5GlYWKPu1cOykbSRzXOkGG"
+      },
+      "artists": [
+        {
+          "name": "Ayed",
+          "url": "https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275201,
+      "name": "\u062a\u0639\u0628\u062a \u0627\u0643\u0630\u0628",
+      "url": "https://open.spotify.com/track/2ckj7aKCJUwvuMErkb4905"
+    },
+    {
+      "album": {
         "name": "\u0628\u062f\u064a\u062a \u0627\u0637\u064a\u0628",
         "url": "https://open.spotify.com/album/5kPqppESqRCCXGEF9x0Fpq"
       },
@@ -3632,6 +3650,24 @@
       "duration_ms": 260953,
       "name": "\u0633\u0643\u0647 \u0645\u062c\u0647\u0648\u0644\u0647",
       "url": "https://open.spotify.com/track/5X5ubFhkET9omL8FDcpSku"
+    },
+    {
+      "album": {
+        "name": "\u0635\u0628\u0631\u062a",
+        "url": "https://open.spotify.com/album/2LbRW0x8MTu5ULZnr3LMQ3"
+      },
+      "artists": [
+        {
+          "name": "Bandar Abdulaziz",
+          "url": "https://open.spotify.com/artist/4QnEgid1Wuxlr1vHgyzUXw"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219126,
+      "name": "\u0635\u0628\u0631\u062a",
+      "url": "https://open.spotify.com/track/24S9tChLLjvN6hjSMlBQiN"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,170 likes - 114 songs - 6 hr 41 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,169 likes - 118 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,5 +122,9 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 112 | [Alternative Ulster](https://open.spotify.com/track/5SVn3rhLXevK8FsM73yN0b) | [The Manky Melters](https://open.spotify.com/artist/7eeVrnLC5YwCslvhxGTVuF) | [Alternative Ulster](https://open.spotify.com/album/4wZLd7iVyTOsJtoe491Spj) | 3:38 |
 | 113 | [That's Cool](https://open.spotify.com/track/2k7SrfAazc3aXOSGcBT66L) | [Slaney Bay](https://open.spotify.com/artist/6jfR9Na2d55xoFOK5mQT1I) | [That's Cool](https://open.spotify.com/album/7aPGxG33vGIZrTO3YQ5xQb) | 3:46 |
 | 114 | [Dusty](https://open.spotify.com/track/5hWvpIKz06G3iKvQaU2zXT) | [Pondlife](https://open.spotify.com/artist/7nAw4BKkoWhKV2R0i7Xprz) | [Dusty](https://open.spotify.com/album/2JedsFcyYV4MxfQPjRHFBA) | 3:10 |
+| 115 | [Words](https://open.spotify.com/track/1NWjkkZgUYEWROtrzn4DGm) | [The Fossil](https://open.spotify.com/artist/2zs3Ho6Kt2iDspmKCieyRX) | [Words](https://open.spotify.com/album/0yztP7IlMVPkikumfDSHDo) | 3:44 |
+| 116 | [Cherry Wine](https://open.spotify.com/track/0bNsre3voeNutKYyhRpdiA) | [Ain't no Ducks](https://open.spotify.com/artist/6gpSt6r2hIoVRHzOcNxF6U) | [Cherry Wine](https://open.spotify.com/album/0VzEK8ziTsdwXszlm2QvDq) | 2:50 |
+| 117 | [Blanket Dreams](https://open.spotify.com/track/2tBYXZBymRJRGMMH9t1oF2) | [Baggs](https://open.spotify.com/artist/44k6sRhRRAW6Uy85KCr9Ti) | [Blanket Dreams](https://open.spotify.com/album/4M47wTUTOrVeFg50G5cXbl) | 3:34 |
+| 118 | [tomgirl \(I'm in my head\)](https://open.spotify.com/track/3BhLkRiTI1VVOHXL0JB7ze) | [Quentin](https://open.spotify.com/artist/4GpI0u4lFwCzzYnwNlglbi) | [tomgirl \(I'm in my head\)](https://open.spotify.com/album/0Ftd1eloccWWqXf6QzFLSv) | 2:57 |
 
-Snapshot ID: `AAAOESMa6WZCm4ynucPehfpANJKnb8NZ`
+Snapshot ID: `AAAOFcrzn+RNTOLRTFId9ZDmy6ni+IbT`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 707 songs - 1 day 22 hr 1 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 708 songs - 1 day 22 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -711,9 +711,10 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 701 | [cowboy\-3.com](https://open.spotify.com/track/72BXuFsvDf6J8jngG8sLXR) | [Sam Weber](https://open.spotify.com/artist/5S7A3k8YvGhc78LKeqe8gl) | [Shape Confused Cowboy Be You](https://open.spotify.com/album/3StXqvVFi65vodaxP8g3L2) | 3:37 |
 | 702 | [The Fall](https://open.spotify.com/track/3kMUw8BxwpzZWKSszhwuNh) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU), [SURF GANG](https://open.spotify.com/artist/0rTeZQSxEg1XzZ1dFz6Moz) | [POMPEII // UTILITY](https://open.spotify.com/album/3RoyVaZOzBSTfo6jm4dvSR) | 1:36 |
 | 703 | [Come Back Home](https://open.spotify.com/track/1LaPSXV3r45kFKts3uLc70) | [Marlon Craft](https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb) | [The Internet Killed The Neighborhood](https://open.spotify.com/album/4Yaz8lXm3PIdnXrD652wxD) | 3:26 |
-| 704 | [Not Broken](https://open.spotify.com/track/5X5rDwKQOnxwJbrDzBt4vf) | [Tōth](https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc) | [And The Voice Said](https://open.spotify.com/album/2IBArX0JnPTNVhJ1tVbGoo) | 3:22 |
-| 705 | [Aperture](https://open.spotify.com/track/1sA1DhT0bLyeICf8NalPS7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 5:11 |
-| 706 | [Gave On \- M Street](https://open.spotify.com/track/2nitBAPiZlWBMSPG3mC5t6) | [Nana Grizol](https://open.spotify.com/artist/7FPO7WTShHCXnmVv7lhhZM) | [Dancing Dogs](https://open.spotify.com/album/2PWxllm289w9WK39WpE2Ct) | 1:26 |
-| 707 | [Target Practice](https://open.spotify.com/track/6ViXXJ6TMKmHIbgm3Hgqm8) | [My New Band Believe](https://open.spotify.com/artist/5bPSCPf8wOY03ENKd6Aw9O) | [My New Band Believe](https://open.spotify.com/album/0FypCc1StF9mNiLemcuJ3J) | 2:05 |
+| 704 | [That There's a Strategy](https://open.spotify.com/track/5ZeF9AwuNJ8PtGb1EErHwp) | [Shrunken Elvis](https://open.spotify.com/artist/5YzxnqzalLKWWTVHbKDOKP), [Rich Ruth](https://open.spotify.com/artist/3fzSa1ee522CjcS8Fdo7dl), [Spencer Cullum](https://open.spotify.com/artist/1u2RgFiCSd9phVG5OB51jr), [Sean Thompson's Weird Ears](https://open.spotify.com/artist/6NWoTJEipAFa5ZYDQNut5c) | [Shrunken Elvis](https://open.spotify.com/album/1Gb0hWqDH3ZPUGPvJIemtl) | 2:56 |
+| 705 | [Not Broken](https://open.spotify.com/track/5X5rDwKQOnxwJbrDzBt4vf) | [Tōth](https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc) | [And The Voice Said](https://open.spotify.com/album/2IBArX0JnPTNVhJ1tVbGoo) | 3:22 |
+| 706 | [Aperture](https://open.spotify.com/track/1sA1DhT0bLyeICf8NalPS7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 5:11 |
+| 707 | [Gave On \- M Street](https://open.spotify.com/track/2nitBAPiZlWBMSPG3mC5t6) | [Nana Grizol](https://open.spotify.com/artist/7FPO7WTShHCXnmVv7lhhZM) | [Dancing Dogs](https://open.spotify.com/album/2PWxllm289w9WK39WpE2Ct) | 1:26 |
+| 708 | [Target Practice](https://open.spotify.com/track/6ViXXJ6TMKmHIbgm3Hgqm8) | [My New Band Believe](https://open.spotify.com/artist/5bPSCPf8wOY03ENKd6Aw9O) | [My New Band Believe](https://open.spotify.com/album/0FypCc1StF9mNiLemcuJ3J) | 2:05 |
 
-Snapshot ID: `AAAI5zI8HTxUBwpQI8pQgAGF5GxE5dZ8`
+Snapshot ID: `AAAI6aTtWajAmMx0Wizn3w/ukivgZHrn`

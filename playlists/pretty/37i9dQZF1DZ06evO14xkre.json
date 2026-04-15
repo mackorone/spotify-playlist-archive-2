@@ -1,12 +1,12 @@
 {
   "description": "This is Kali Uchis. The essential tracks, all in one playlist.",
-  "num_followers": 303711,
+  "num_followers": 303745,
   "original_name": "This Is Kali Uchis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adrggAAAAAA9b3o7EfBDFu2JmEKIJRFh",
+  "snapshot_id": "adwyAAAAAAD/igucsCfDzw2nwDd/La8w",
   "tracks": [
     {
       "added_at": null,
@@ -887,6 +887,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
+        "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 161539,
+      "name": "//aguardiente y lim\u00f3n %\u1d55\u203f\u203f\u1d55%",
+      "url": "https://open.spotify.com/track/0Ui4S8sgBCXv4Ao1HhTTun"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cry about it! (feat. Ravyn Lenae)",
         "url": "https://open.spotify.com/album/4gbcThRmONElpN3nvdqBWd"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 171507,
       "name": "Cry about it! (feat. Ravyn Lenae)",
       "url": "https://open.spotify.com/track/6Vj5GNXyZPXZ6Hh5NASfHH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
-        "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 161539,
-      "name": "//aguardiente y lim\u00f3n %\u1d55\u203f\u203f\u1d55%",
-      "url": "https://open.spotify.com/track/0Ui4S8sgBCXv4Ao1HhTTun"
     }
   ],
   "unique_name": "This Is Kali Uchis",

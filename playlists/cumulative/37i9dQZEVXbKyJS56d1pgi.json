@@ -4069,6 +4069,28 @@
     },
     {
       "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227986,
+      "name": "Beauty And A Beat",
+      "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
+    },
+    {
+      "album": {
         "name": "Todos Os Cantos, Vol. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/4HpiwfnQvs867JNWeLy1vr"
       },
@@ -7824,6 +7846,28 @@
       "duration_ms": 221538,
       "name": "Conex\u00f5es de M\u00e1fia (feat. Rich The Kid)",
       "url": "https://open.spotify.com/track/3ktTWpYdXrYApH54cBo4Ap"
+    },
+    {
+      "album": {
+        "name": "Journals",
+        "url": "https://open.spotify.com/album/1rknZw4cyL9NInAqSwc8AA"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248133,
+      "name": "Confident",
+      "url": "https://open.spotify.com/track/3JsydWaf2Ev4ehaLUjj3SY"
     },
     {
       "album": {
@@ -19336,7 +19380,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 173858,
       "name": "Lembrei de Tu",
       "url": "https://open.spotify.com/track/1lokGTw8YKDexcSPtQ8AQ3"
@@ -20728,7 +20772,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 184109,
       "name": "LUV (feat. CRIPTA)",
       "url": "https://open.spotify.com/track/7iM0PqMKD0K0SHZZQ1lV1V"
@@ -27724,7 +27768,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 131437,
       "name": "PINKY UP",
       "url": "https://open.spotify.com/track/4KmkJjHTNlr1jFY56Lyz4E"
@@ -28588,6 +28632,24 @@
       "duration_ms": 158918,
       "name": "PREDESTINADO",
       "url": "https://open.spotify.com/track/3LeHyNkhgNHllY4T56dVfx"
+    },
+    {
+      "album": {
+        "name": "94",
+        "url": "https://open.spotify.com/album/0NqDtwq1iiuEqNrL0mkePy"
+      },
+      "artists": [
+        {
+          "name": "LON3R JOHNY",
+          "url": "https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158918,
+      "name": "PREDESTINADO",
+      "url": "https://open.spotify.com/track/5Cn6jApziRLePhT9LInjsB"
     },
     {
       "album": {

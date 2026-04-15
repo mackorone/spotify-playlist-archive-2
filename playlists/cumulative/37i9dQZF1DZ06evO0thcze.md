@@ -4,12 +4,12 @@
 
 > This is Neto Peña\. The essential tracks, all in one playlist.
 
-98 songs - 6 hr 16 min
+99 songs - 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Abrázame Muy Fuerte](https://open.spotify.com/track/1LdcUaUfkGCXWNAfugTpAR) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Abrázame Muy Fuerte](https://open.spotify.com/album/5vbSnDXVHU2hiPwvARCp8P) | 4:02 | 2025-01-06 | 2025-02-16 |
-| [Acelero](https://open.spotify.com/track/1erFMv5G2DmznDSciTCmEK) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Cora](https://open.spotify.com/album/6jfFltnTJeUFhHjOMXZdFd) | 2:57 | 2023-11-10 |  |
+| [Acelero](https://open.spotify.com/track/1erFMv5G2DmznDSciTCmEK) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Cora](https://open.spotify.com/album/6jfFltnTJeUFhHjOMXZdFd) | 2:57 | 2023-11-10 | 2026-04-15 |
 | [Alcohol Amargo](https://open.spotify.com/track/3O7aFrnyTmEsLwaKtOonqd) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Alcohol Amargo](https://open.spotify.com/album/2oKBetIgm4nosWANPzkO5q) | 3:56 | 2023-11-10 | 2025-10-17 |
 | [Alguien Que Me Cure](https://open.spotify.com/track/5FDmrEfagyjBmiCrgymXiB) | [SANTU](https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Alguien Que Me Cure](https://open.spotify.com/album/3d8QWdjqxTBcQO0iJ6lFmD) | 3:52 | 2024-12-02 | 2025-03-17 |
 | [Alguien Que Me Cure](https://open.spotify.com/track/7uq7pPp522U0jfAPN6HidR) | [SANTU](https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Catarsis](https://open.spotify.com/album/3axy5HCe5bZWbJ493RS5ED) | 3:52 | 2025-03-30 |  |
@@ -54,6 +54,7 @@
 | [Lento Y Contento](https://open.spotify.com/track/3RueKRQPivFxTcDwkTwOjg) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Cora](https://open.spotify.com/album/6jfFltnTJeUFhHjOMXZdFd) | 3:20 | 2023-11-10 |  |
 | [Levantame el Castigo](https://open.spotify.com/track/3clJ2E29mHyrmXSha77l6G) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [Levantame el Castigo](https://open.spotify.com/album/59PL3YSCHIMlXewJktY30P) | 3:20 | 2024-02-08 | 2024-04-12 |
 | [Lo Fácil Es Difícil](https://open.spotify.com/track/4FlYNoOafUcXBOKqhtC5c1) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Lo Fácil Es Difícil](https://open.spotify.com/album/2tCrAb6z2az7bolBJuGe2V) | 2:52 | 2023-11-10 | 2024-10-05 |
+| [Lo Que Nunca Fuimos](https://open.spotify.com/track/6m9qleL8HkKyES5lQ79EEY) | [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Lo Que Nunca Fuimos](https://open.spotify.com/album/0pTdwDutVzOLYCxRuqFyCw) | 3:50 | 2026-04-15 |  |
 | [Los de la A](https://open.spotify.com/track/1ihehm2g1nnca5wn5eZsaf) | [Alzada](https://open.spotify.com/artist/68Nt8XHuyEgQSOHih2iMlv), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8), [Chato 473](https://open.spotify.com/artist/7zvcqoLiInqmSmPzX0gwfp), [Turek Hem](https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx) | [Los de la A](https://open.spotify.com/album/75nAlGbzK3WWByNiKqkrK0) | 3:46 | 2025-01-30 |  |
 | [LQRA Session \#5](https://open.spotify.com/track/1YVyKeuVEhIGNTdhNjbREI) | [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [LQRA Session \#5](https://open.spotify.com/album/6fEbvdp7RK0pfoeHiJ2r8a) | 5:08 | 2023-11-10 |  |
 | [Mala Racha](https://open.spotify.com/track/76DS7qXG1GNmrKXTQvjPea) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Mala Racha](https://open.spotify.com/album/02PESQRmnGTsNkaKsrXMZG) | 3:42 | 2023-11-10 | 2023-12-26 |

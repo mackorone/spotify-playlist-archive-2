@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,111 songs - 3 day 0 hr 8 min
+1,112 songs - 3 day 0 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -928,6 +928,7 @@
 | [Tha Mobb](https://open.spotify.com/track/3DXjKH4NR0tRS44Sb1H8fw) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Carter II](https://open.spotify.com/album/7slHgsEMuJfnuft5LAPyw6) | 5:20 | 2022-04-08 |  |
 | [Thank God](https://open.spotify.com/track/5dSIMvOgUXv1uRv9mn78zL) | [Bruiser Wolf](https://open.spotify.com/artist/2WWAtobfGkojaSqMRN5V67), [Apropos](https://open.spotify.com/artist/1LXtPac4JzDI0UP4UH2K2e) | [Dope Game Stupid](https://open.spotify.com/album/0RsA2tPioDUNXD39B6Gv9l) | 3:09 | 2023-11-17 |  |
 | [Thank You \- 2008 Remaster](https://open.spotify.com/track/2zLIjfjQ8kMy7WSSLmF0I2) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Bonnie Raitt \(2008 Remaster\)](https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0) | 2:50 | 2024-01-17 |  |
+| [That There's a Strategy](https://open.spotify.com/track/5ZeF9AwuNJ8PtGb1EErHwp) | [Shrunken Elvis](https://open.spotify.com/artist/5YzxnqzalLKWWTVHbKDOKP), [Rich Ruth](https://open.spotify.com/artist/3fzSa1ee522CjcS8Fdo7dl), [Spencer Cullum](https://open.spotify.com/artist/1u2RgFiCSd9phVG5OB51jr), [Sean Thompson's Weird Ears](https://open.spotify.com/artist/6NWoTJEipAFa5ZYDQNut5c) | [Shrunken Elvis](https://open.spotify.com/album/1Gb0hWqDH3ZPUGPvJIemtl) | 2:56 | 2026-04-14 |  |
 | [That! Feels Good!](https://open.spotify.com/track/1XaHF28nrXBbyitGIGSdna) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [That! Feels Good!](https://open.spotify.com/album/17g3sAeWfpHSJlqMHuRAr6) | 4:22 | 2023-04-29 | 2023-05-09 |
 | [That’s Just the Way That I Feel](https://open.spotify.com/track/5mgCP62kIGit9ICUdaqIgq) | [Purple Mountains](https://open.spotify.com/artist/1ll45mCZIveI9KHNZx2DdS) | [Purple Mountains](https://open.spotify.com/album/6YM4MpYgz6BhIeqQkxp3u4) | 3:23 | 2022-06-13 |  |
 | [The After Party](https://open.spotify.com/track/6C5HSuCqmjcJSpvUkq9w5d) | [Bad Books](https://open.spotify.com/artist/0e9H8oaYYRCKFXOVv848nt), [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f), [Kevin Devine](https://open.spotify.com/artist/66ScZxprvrMbCtN4ivA0JX) | [II](https://open.spotify.com/album/1RHlOUoinOK5WZconLM6lp) | 3:33 | 2024-02-12 |  |

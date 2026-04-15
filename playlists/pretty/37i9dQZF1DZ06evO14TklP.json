@@ -1,12 +1,12 @@
 {
   "description": "This is Ebony. The essential tracks, all in one playlist.",
-  "num_followers": 19491,
+  "num_followers": 19547,
   "original_name": "This Is Ebony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adrggAAAAAAWH36JKdRgEBgtTwAIgo2p",
+  "snapshot_id": "adwyAAAAAABjXsIXuDp2whLWBQHkeNag",
   "tracks": [
     {
       "added_at": null,
@@ -755,6 +755,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Condessa",
+        "url": "https://open.spotify.com/album/09p3ofskrFXhmN9dUe5Aiu"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "AJ Wav",
+          "url": "https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8"
+        }
+      ],
+      "duration_ms": 181052,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/5sYQPKa0a6cIVUjcksLmto"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "CORTAVENTO",
         "url": "https://open.spotify.com/album/7nyXHb7J8I4piuHtHodwKF"
       },
@@ -775,26 +795,6 @@
       "duration_ms": 181537,
       "name": "BADU & 3000",
       "url": "https://open.spotify.com/track/2EunXugitKqwBZLyPyl1yQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Condessa",
-        "url": "https://open.spotify.com/album/09p3ofskrFXhmN9dUe5Aiu"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "AJ Wav",
-          "url": "https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8"
-        }
-      ],
-      "duration_ms": 181052,
-      "name": "Paris",
-      "url": "https://open.spotify.com/track/5sYQPKa0a6cIVUjcksLmto"
     },
     {
       "added_at": null,
@@ -943,30 +943,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Condessa",
-        "url": "https://open.spotify.com/album/09p3ofskrFXhmN9dUe5Aiu"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
-        },
-        {
-          "name": "Celo1st",
-          "url": "https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK"
-        }
-      ],
-      "duration_ms": 134569,
-      "name": "Disco",
-      "url": "https://open.spotify.com/track/3NLir84ijUvixJsOxo2lxU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Facetime",
         "url": "https://open.spotify.com/album/2l1e5lXljgsDSAbZShQacr"
       },
@@ -1023,6 +999,30 @@
       "duration_ms": 556662,
       "name": "Poetisas No Topo 2",
       "url": "https://open.spotify.com/track/00LRPoVKWNm7OxeX4TvC8y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Condessa",
+        "url": "https://open.spotify.com/album/09p3ofskrFXhmN9dUe5Aiu"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "Celo1st",
+          "url": "https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK"
+        }
+      ],
+      "duration_ms": 134569,
+      "name": "Disco",
+      "url": "https://open.spotify.com/track/3NLir84ijUvixJsOxo2lxU"
     },
     {
       "added_at": null,

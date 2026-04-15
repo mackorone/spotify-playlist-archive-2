@@ -3689,6 +3689,32 @@
     },
     {
       "album": {
+        "name": "BULLY",
+        "url": "https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ye",
+          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
+        },
+        {
+          "name": "Andre Troutman",
+          "url": "https://open.spotify.com/artist/1EpaJyg2sMnPqKRsjjcG7R"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229152,
+      "name": "ALL THE LOVE (feat. Andre Troutman)",
+      "url": "https://open.spotify.com/track/2SjnvpedDUU0Ga69bxnoCa"
+    },
+    {
+      "album": {
         "name": "Black Panther The Album Music From And Inspired By",
         "url": "https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR"
       },
@@ -10148,7 +10174,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 212509,
       "name": "boss",
       "url": "https://open.spotify.com/track/79EQVYVLRN8uE1d0sUZ19I"
@@ -20798,7 +20824,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 52755,
       "name": "EFN",
       "url": "https://open.spotify.com/track/39fyD1qmtx6qEMw8GdJX3X"
@@ -33792,7 +33818,7 @@
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 153000,
       "name": "ICE (VVS)",
       "url": "https://open.spotify.com/track/2JlcOQd7jHhmJvOrPbIhbY"
@@ -37691,6 +37717,24 @@
     },
     {
       "album": {
+        "name": "Kingdom of Fear",
+        "url": "https://open.spotify.com/album/6nE9zag2eaoLn58KZSqRVZ"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161075,
+      "name": "Kingdom of Fear",
+      "url": "https://open.spotify.com/track/4Es6f0zquGHCrv9Hespx9W"
+    },
+    {
+      "album": {
         "name": "Summer Season",
         "url": "https://open.spotify.com/album/7iNXGihU5k0kVxhVXHCRLo"
       },
@@ -40810,6 +40854,28 @@
       "duration_ms": 153298,
       "name": "Loca",
       "url": "https://open.spotify.com/track/3ao0g8SGnOLroT1E2q3a0z"
+    },
+    {
+      "album": {
+        "name": "Lock It",
+        "url": "https://open.spotify.com/album/5su5O4VTUXWkRpK56jHg96"
+      },
+      "artists": [
+        {
+          "name": "Flowidus",
+          "url": "https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC"
+        },
+        {
+          "name": "Loboski",
+          "url": "https://open.spotify.com/artist/6GzqzmyvgpTUPzIOpJfVeS"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Lock It",
+      "url": "https://open.spotify.com/track/3Uzj3nb1oMb7gD7K7MKlQz"
     },
     {
       "album": {
@@ -53388,7 +53454,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 200275,
       "name": "O JAK MI\u0141O",
       "url": "https://open.spotify.com/track/2Xt4PeBHH20FB2L6rOlyKd"
@@ -58198,6 +58264,24 @@
       "duration_ms": 155538,
       "name": "Por Las Buenas",
       "url": "https://open.spotify.com/track/3k2qOgZygd9YxrYGqkK6Dj"
+    },
+    {
+      "album": {
+        "name": "PORCEL\u00c1N",
+        "url": "https://open.spotify.com/album/6LegOnM8XnpsCy2C8vNzoo"
+      },
+      "artists": [
+        {
+          "name": "Ben Cristovao",
+          "url": "https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189857,
+      "name": "PORCEL\u00c1N",
+      "url": "https://open.spotify.com/track/1WSurN3LITJ7udCeV5jlu4"
     },
     {
       "album": {
@@ -70262,7 +70346,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 159007,
       "name": "SWIM",
       "url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712"
@@ -71020,7 +71104,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 191076,
       "name": "Talk To You",
       "url": "https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v"
@@ -73932,6 +74016,32 @@
     {
       "album": {
         "name": "Titanium x Please Me",
+        "url": "https://open.spotify.com/album/2ADRtLdjqTGg7VivtbG7PS"
+      },
+      "artists": [
+        {
+          "name": "TRUE CHAD",
+          "url": "https://open.spotify.com/artist/4Vg2yjssInPiSSOdPgWIkQ"
+        },
+        {
+          "name": "Unjaps",
+          "url": "https://open.spotify.com/artist/4GK74dyUdNHHeQv4bQOpZi"
+        },
+        {
+          "name": "mikeeysmind",
+          "url": "https://open.spotify.com/artist/0g0ZYLiNYI4kMg8MX76bkN"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192004,
+      "name": "Titanium x Please Me",
+      "url": "https://open.spotify.com/track/1nDzv7AfhaD6bilJdhlXAc"
+    },
+    {
+      "album": {
+        "name": "Titanium x Please Me",
         "url": "https://open.spotify.com/album/2AnZkUUyf9WUskIJCs1lmw"
       },
       "artists": [
@@ -76156,7 +76266,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-14",
+      "date_removed": null,
       "duration_ms": 166666,
       "name": "Un Cachito de Luz - Versi\u00f3n Deluxe",
       "url": "https://open.spotify.com/track/0UJvn3UQWBSOh4Aj171Zoa"
@@ -82732,7 +82842,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 229894,
       "name": "xXx",
       "url": "https://open.spotify.com/track/2TakLZRzWUxCPWpoXlVvj5"
@@ -82798,6 +82908,24 @@
       "duration_ms": 166025,
       "name": "Yalla FG",
       "url": "https://open.spotify.com/track/7cW3kzMwgWKRF9AuYp57w2"
+    },
+    {
+      "album": {
+        "name": "Yaloma 2",
+        "url": "https://open.spotify.com/album/7irAH1ozqTEV2y9FmbAty2"
+      },
+      "artists": [
+        {
+          "name": "DJ VAMUZZE",
+          "url": "https://open.spotify.com/artist/6dPGVM9nmwrn0Vrmz0HQiI"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207865,
+      "name": "Yaloma 2",
+      "url": "https://open.spotify.com/track/2ax3ZSCXIK9R3GiUPJKX7M"
     },
     {
       "album": {

@@ -1547,6 +1547,24 @@
     },
     {
       "album": {
+        "name": "Liar",
+        "url": "https://open.spotify.com/album/5zGqHfBnD4Lpk3dTwQT2b9"
+      },
+      "artists": [
+        {
+          "name": "MICHA",
+          "url": "https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217637,
+      "name": "Liar",
+      "url": "https://open.spotify.com/track/2OWXbIn2geYwaSLgBxwkOM"
+    },
+    {
+      "album": {
         "name": "Little By Little",
         "url": "https://open.spotify.com/album/6ikb0NTrw0WF03RJREBc7i"
       },
@@ -2256,7 +2274,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 189550,
       "name": "She",
       "url": "https://open.spotify.com/track/4nidpqxJxWkpI1J1cQYIjX"

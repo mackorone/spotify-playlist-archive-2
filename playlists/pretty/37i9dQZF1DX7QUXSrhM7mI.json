@@ -1,12 +1,12 @@
 {
   "description": "The soundtrack to lazing around.",
-  "num_followers": 95946,
+  "num_followers": 95967,
   "original_name": "Lazy Afternoon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF76TLStSvDFQlTw5UbLd9q9Wo8k",
+  "snapshot_id": "AAAAAMDuk1x1d8i2X62F5tUoR4zS7F1O",
   "tracks": [
     {
       "added_at": "2026-03-31 15:23:50",
@@ -921,6 +921,22 @@
       "url": "https://open.spotify.com/track/3X7bED3gYbZlSPDWOFphnp"
     },
     {
+      "added_at": "2026-04-14 15:33:00",
+      "album": {
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/5N1akjZZDVXTwvhgzl3RR8"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/1qwb32B32x1JruBLIA09qB"
+    },
+    {
       "added_at": "2026-03-31 15:23:50",
       "album": {
         "name": "Backflips in a Restaurant (Deluxe)",
@@ -1231,22 +1247,6 @@
       "duration_ms": 191912,
       "name": "Too Many Times",
       "url": "https://open.spotify.com/track/10lAFDVD2Hg61RHyJmOy7U"
-    },
-    {
-      "added_at": "2026-03-31 15:23:50",
-      "album": {
-        "name": "greener / garden",
-        "url": "https://open.spotify.com/album/6BRxSf36UXoi7WWdyr3xHF"
-      },
-      "artists": [
-        {
-          "name": "WRABEL",
-          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
-        }
-      ],
-      "duration_ms": 240266,
-      "name": "greener",
-      "url": "https://open.spotify.com/track/2GU2QSVrYPtSnBxtg2nyBU"
     }
   ],
   "unique_name": "Lazy Afternoon",

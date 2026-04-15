@@ -2,9 +2,9 @@
 
 ### [Indie Korea \(인디 코리아\)](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: <br/>겸 \(GYE0M\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: <br/>이예린 \(Lee Yerin\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,314 songs - 3 day 7 hr 27 min
+1,316 songs - 3 day 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Beautiful Complex](https://open.spotify.com/track/77PpVzVdCxstWlSYXOE9xu) | [87dance](https://open.spotify.com/artist/1HxfCTl07FhRiJN9jY9kX3) | [i love your complex](https://open.spotify.com/album/1b7KIjcXrhfSDsuS8l9Ngo) | 3:42 | 2025-09-24 | 2025-11-11 |
 | [Beautiful Life \- 2018 Ver.](https://open.spotify.com/track/52XdqMNLboEKlWpC14aCTu) | [J Rabbit](https://open.spotify.com/artist/4Imsd61cGosmAFBaMLtl4G) | [The Little Heroes](https://open.spotify.com/album/2TPWeGjtfpcLJnMIOZG93x) | 5:01 | 2022-03-31 | 2022-04-20 |
 | [Beautiful Mint Life](https://open.spotify.com/track/7qKkB9oyLR3af8C17eFkqP) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV), [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [Beautiful Mint Life](https://open.spotify.com/album/01rorj7OHIYYw5cfQzUwIi) | 3:24 | 2022-03-31 | 2022-04-21 |
+| [Beautiful, even now](https://open.spotify.com/track/4RjZyA4jkR5q5WiZ3FNFxt) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [beautiful, even now](https://open.spotify.com/album/1WdAlorZ1ggWFL5tGqBQ1V) | 4:42 | 2026-04-14 |  |
 | [BEAUTY](https://open.spotify.com/track/0inDmDmSGkTRVqURPRqhVZ) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL) | [Absence 'Side D'](https://open.spotify.com/album/3DGVCqVjWMTUAdATGUoqYR) | 3:17 | 2022-03-31 | 2022-04-18 |
 | [because of summer night](https://open.spotify.com/track/0WICLp41X7Iz67jLTgpGxA) | [Sweden Laundry](https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp) | [because of summer night](https://open.spotify.com/album/72wqyP6TYjLZy5D0zKCXpw) | 3:09 | 2025-07-23 | 2025-09-02 |
 | [been waiting](https://open.spotify.com/track/7Jkl4CQWdyUoimJKnLglf8) | [heyden](https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE) | [been waiting](https://open.spotify.com/album/7pEQJyIfqnRSLp75bPIMJ0) | 3:18 | 2022-04-12 | 2022-04-17 |
@@ -564,7 +565,7 @@
 | [isle](https://open.spotify.com/track/77yv6fASf9WOxyPm3qqyMc) | [pigfrog](https://open.spotify.com/artist/37sRcX6lbXm3LbG8IHPTkB) | [pigfrog](https://open.spotify.com/album/2BtpxA0g6PcyMzg30T7c0Z) | 3:21 | 2021-12-21 | 2022-07-28 |
 | [Islet](https://open.spotify.com/track/1FsPpscUq0qFD9d8lM5FvR) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta) | [Islet](https://open.spotify.com/album/3UEl0ZAaAM5OWosC1NqZjB) | 3:01 | 2021-12-21 | 2024-05-01 |
 | [It stings!](https://open.spotify.com/track/6avPD0pubMIFY55Nn0fwe7) | [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [FANTASY](https://open.spotify.com/album/1nhxJmX1wipzaOkihjiH4s) | 2:29 | 2025-10-23 | 2025-12-09 |
-| [it was always me, never us.](https://open.spotify.com/track/5XTuQ4vMX1gHDLmzxhMOd6) | [Lokid](https://open.spotify.com/artist/4qrNQeAY9fmYHiQUXu7k9g) | [it was always me, never us.](https://open.spotify.com/album/4mfASakRbVp4RqrvprgXJx) | 3:56 | 2026-03-04 |  |
+| [it was always me, never us.](https://open.spotify.com/track/5XTuQ4vMX1gHDLmzxhMOd6) | [Lokid](https://open.spotify.com/artist/4qrNQeAY9fmYHiQUXu7k9g) | [it was always me, never us.](https://open.spotify.com/album/4mfASakRbVp4RqrvprgXJx) | 3:56 | 2026-03-04 | 2026-04-15 |
 | [It's Alright](https://open.spotify.com/track/00vVtTOe1npIhSPDdnA0MY) | [Kang e\-rae](https://open.spotify.com/artist/5gp9GOtIksrarktqtDUOla) | [It's Alright](https://open.spotify.com/album/25lujKqHjleqhEQaZBXHv4) | 3:48 | 2022-03-31 | 2022-04-22 |
 | [It's Beautiful Digging Club Seoul Version](https://open.spotify.com/track/6jMhNF4hbbB8zr7ugpksLe) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [Onstage Digging Club Seoul Pt\. 3](https://open.spotify.com/album/1wODyT1p1d1XjvwMqIChsM) | 3:54 | 2022-03-31 | 2022-04-21 |
 | [It's been a while](https://open.spotify.com/track/04SHCnVGwukIiqBQX1KCSH) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [It's been a while](https://open.spotify.com/album/3N7m8jfIAsOu3gBFuve1q6) | 4:54 | 2024-05-08 | 2024-07-11 |
@@ -636,6 +637,7 @@
 | [Little I](https://open.spotify.com/track/2AKCk3WnpK5nidRfD5fQSE) | [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [Little I](https://open.spotify.com/album/3zQR7DxfY3i7hy7Z9uhNOk) | 3:15 | 2025-09-24 | 2025-11-03 |
 | [Lock me up](https://open.spotify.com/track/0PDYx9zpcOnzIW4Epfk2Bb) | [GooNight](https://open.spotify.com/artist/6HeK6beIohZ8q4L8me1iId) | [Lock me up](https://open.spotify.com/album/3TjzPxoh0SfQSdxAq9GMfn) | 3:12 | 2022-07-08 | 2022-08-05 |
 | [Lone](https://open.spotify.com/track/1AF2rcwvxpkUCjicFY4dSd) | [evenif](https://open.spotify.com/artist/26sLRymbW9mmoW9g74o0AF) | [AoB Compilation Album Vol.1 : Mutant](https://open.spotify.com/album/6mZZ2aLUeB9zoCWpapzbRb) | 3:10 | 2025-01-30 | 2025-04-11 |
+| [Longtime Lovers](https://open.spotify.com/track/5tLxk8bnXhp5nIzENZnYb2) | [Lee Yerin](https://open.spotify.com/artist/1cDDtQ75Yz5Xi9sA16wl3N) | [NEVER NEVER LAND](https://open.spotify.com/album/43IMYmpiKDrmE8ElTiSudS) | 3:49 | 2026-04-14 |  |
 | [Look At Me Look At Me](https://open.spotify.com/track/5t2XHhWwKqgE3ZRmj8vVJ7) | [LEENALCHI](https://open.spotify.com/artist/0kHgYUOcTac5RhkYx1thsq) | [Lesser Gods And Chimeras](https://open.spotify.com/album/7Gb4evIU7fNgPd3Gp7tXaC) | 3:24 | 2024-11-06 | 2024-11-21 |
 | [Look at us falling](https://open.spotify.com/track/50hwSapyIoaGiqfQSR9ocj) | [2danji](https://open.spotify.com/artist/3eAafmKFLEYAq6y9ZrWXtS) | [a public walk](https://open.spotify.com/album/1PEy98fZ5FmI2R71CCK2zt) | 1:09 | 2026-01-27 | 2026-02-24 |
 | [Loser \(with LEE DO of ONEUS\)](https://open.spotify.com/track/1bBuZZJacnkfvPQoQznjZk) | [YongYong](https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK), [LEE DO of ONEUS](https://open.spotify.com/artist/39r6KaYmPsgtidLS2YItV1) | [Loser, Game Over, You're the Champion](https://open.spotify.com/album/4G7tZZIl0gis3TVcYSips2) | 3:27 | 2025-01-30 | 2025-04-11 |
@@ -1239,7 +1241,7 @@
 | [Wisue 햇빛처럼 빼어난](https://open.spotify.com/track/5RvuwSjuIkAiqviPuGWWgE) | [WISUE](https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry) | [Cobalt Blue](https://open.spotify.com/album/6LYD23SLNIifGJ08R6KdO0) | 3:37 | 2021-12-21 | 2022-04-19 |
 | [With You](https://open.spotify.com/track/0YhuPLchEMFhIf6W3k0QdR) | [add9](https://open.spotify.com/artist/5K8S0MRwvPZjMczq9QrCvp) | [With You](https://open.spotify.com/album/1DT0IXcV3E12LYsRU7eVW0) | 3:17 | 2025-07-31 | 2025-08-22 |
 | [With You](https://open.spotify.com/track/2IWqrZomXVc0YmcfDFyCXa) | [UmYull](https://open.spotify.com/artist/1tzfeTq8ILjds06XDsB7S8) | [With You](https://open.spotify.com/album/2uyzgzcGtcoxju78SFlGCS) | 4:05 | 2026-03-16 |  |
-| [Without You](https://open.spotify.com/track/6eVOc2SM6MFLLLwADfwRdc) | [KYUL](https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm) | [Without You](https://open.spotify.com/album/5yNZWhTEwQ9LdFw101hv4G) | 2:38 | 2026-02-27 |  |
+| [Without You](https://open.spotify.com/track/6eVOc2SM6MFLLLwADfwRdc) | [KYUL](https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm) | [Without You](https://open.spotify.com/album/5yNZWhTEwQ9LdFw101hv4G) | 2:38 | 2026-02-27 | 2026-04-15 |
 | [wo ai ni](https://open.spotify.com/track/5FJtLMs3dkq0K28v69lbRb) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1), [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [wo ai ni / break it even](https://open.spotify.com/album/1Had0ltWJoM2L8xBPjLMK6) | 3:31 | 2025-10-20 | 2025-11-20 |
 | [Wonder](https://open.spotify.com/track/0hx7Ee7zi8zft0gcv5BIcf) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [LOVE](https://open.spotify.com/album/7E0KQMrRuZRM0EcIPjlXSO) | 3:55 | 2022-07-27 | 2025-07-29 |
 | [Wonder](https://open.spotify.com/track/0v89jw9S9NPzOPCoZnLZxE) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [LOVE](https://open.spotify.com/album/2PXqmGnh714FuMOPji4JiI) | 3:55 | 2021-12-21 | 2022-07-29 |

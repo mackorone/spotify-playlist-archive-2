@@ -132,7 +132,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 177426,
       "name": "5cm (feat. Kim MinSeok)",
       "url": "https://open.spotify.com/track/3aEfVe4sW4H01k1TaJZVzz"
@@ -462,7 +462,7 @@
       ],
       "date_added": "2025-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 207760,
       "name": "Attraction (Bunny and Guys X Eric Nam, NAEUN)",
       "url": "https://open.spotify.com/track/5TukPlV2eJWX7lfQAbrZGV"
@@ -640,6 +640,24 @@
       "duration_ms": 173040,
       "name": "Blossom Rain (Feat. NavyQuokka)",
       "url": "https://open.spotify.com/track/3TSMeEDXeTfblDBHUyMffm"
+    },
+    {
+      "album": {
+        "name": "NOI MAS 2",
+        "url": "https://open.spotify.com/album/29vQGLRvKeHuw7qukabsS1"
+      },
+      "artists": [
+        {
+          "name": "meenoi",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Blushing",
+      "url": "https://open.spotify.com/track/0fru9mz5ftHcI6khFRbNAI"
     },
     {
       "album": {
@@ -3729,6 +3747,28 @@
     },
     {
       "album": {
+        "name": "monodrama (feat. KURO)",
+        "url": "https://open.spotify.com/album/6m0ImyuGH2zCmlpJy7PpZB"
+      },
+      "artists": [
+        {
+          "name": "Sumsher",
+          "url": "https://open.spotify.com/artist/5hb1plh7RDdl57ztwwzAzm"
+        },
+        {
+          "name": "KURO",
+          "url": "https://open.spotify.com/artist/5fgP8B58gK5ImP0wcoyj10"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173286,
+      "name": "monodrama (feat. KURO)",
+      "url": "https://open.spotify.com/track/7Fyj1PrZfWjbm1qlVu5aM9"
+    },
+    {
+      "album": {
         "name": "More and More (From \"Love Scout\" : Original Soundtrack) Part.4",
         "url": "https://open.spotify.com/album/1rfttiekzWf2CPvFPknNHe"
       },
@@ -6143,6 +6183,24 @@
     },
     {
       "album": {
+        "name": "When I See You",
+        "url": "https://open.spotify.com/album/4kwSugruKWWrPg4Z7DYthe"
+      },
+      "artists": [
+        {
+          "name": "more",
+          "url": "https://open.spotify.com/artist/3s7Vf3VIlmtqVDsTWG7xij"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224900,
+      "name": "When I See You",
+      "url": "https://open.spotify.com/track/4VBi9Nr4t4pYuF44wOCejS"
+    },
+    {
+      "album": {
         "name": "START-UP (Original Television Soundtrack) Pt. 6",
         "url": "https://open.spotify.com/album/7wzFqr0yCbjdcjjKpfBi1B"
       },
@@ -6748,7 +6806,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 173124,
       "name": "\uc654\ub2e4 \uac14\ub2e4 (feat. Hoody)",
       "url": "https://open.spotify.com/track/0T3gqQBET5hnKf0ZZxoK0Y"

@@ -1,12 +1,12 @@
 {
   "description": "This is Ana B\u00e1rbara. The essential tracks, all in one playlist.",
-  "num_followers": 47339,
+  "num_followers": 47345,
   "original_name": "This Is Ana B\u00e1rbara",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adrggAAAAACGVurPhw7+9sJSEKUiTQPV",
+  "snapshot_id": "adwyAAAAAABaVUto1lTimqmB63JDt5du",
   "tracks": [
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Regalo La Lluvia",
-        "url": "https://open.spotify.com/album/27OJXEuLv7BO55eHhc8FDg"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 191733,
-      "name": "Eso No Es De Hombres",
-      "url": "https://open.spotify.com/track/1ZdEnOa9OCyF2m2LXXz2aj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te Metiste",
         "url": "https://open.spotify.com/album/1fulO1nte9iyff5EOhVj37"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 224160,
       "name": "Te Metiste",
       "url": "https://open.spotify.com/track/3TGHcASjfvxAdjg92V63y5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Te Regalo La Lluvia",
+        "url": "https://open.spotify.com/album/27OJXEuLv7BO55eHhc8FDg"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 191733,
+      "name": "Eso No Es De Hombres",
+      "url": "https://open.spotify.com/track/1ZdEnOa9OCyF2m2LXXz2aj"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Decisi\u00f3n",
-        "url": "https://open.spotify.com/album/3hLv1eT4pM0Lv0F97ZyWG1"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 186466,
-      "name": "Enga\u00f1ada",
-      "url": "https://open.spotify.com/track/4FJD2QyCnn7BfU0jQsgWMF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nadie Me Vera Llorar (Versi\u00f3n Ac\u00fastica)",
         "url": "https://open.spotify.com/album/6OuUjx0eUvLzxHSOQCnPLn"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 183500,
       "name": "Nadie Me Vera Llorar - (Versi\u00f3n Ac\u00fastica)",
       "url": "https://open.spotify.com/track/3RSLqRsPNCKNDoDufAPzDL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tu Decisi\u00f3n",
+        "url": "https://open.spotify.com/album/3hLv1eT4pM0Lv0F97ZyWG1"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 186466,
+      "name": "Enga\u00f1ada",
+      "url": "https://open.spotify.com/track/4FJD2QyCnn7BfU0jQsgWMF"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rompiendo Cadenas",
-        "url": "https://open.spotify.com/album/4M4XNTi992X3cGrjhWeM4p"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 295209,
-      "name": "Rompiendo Cadenas - Original mix",
-      "url": "https://open.spotify.com/track/4Xg0S0G1Lk2EIu90z2d9Fi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Trampa",
         "url": "https://open.spotify.com/album/41LNC8lKIULgtaDWJMNfbN"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 211493,
       "name": "No S\u00e9 Qu\u00e9 Voy A Hacer",
       "url": "https://open.spotify.com/track/4cskZ7EXgVW4Pwbd6vAr7L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rompiendo Cadenas",
+        "url": "https://open.spotify.com/album/4M4XNTi992X3cGrjhWeM4p"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 295209,
+      "name": "Rompiendo Cadenas - Original mix",
+      "url": "https://open.spotify.com/track/4Xg0S0G1Lk2EIu90z2d9Fi"
     },
     {
       "added_at": null,
@@ -955,22 +955,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Caminos de la Vida",
-        "url": "https://open.spotify.com/album/6fLWZpVOV0wfKTGa8UZmBA"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 228436,
-      "name": "Los Caminos de la Vida",
-      "url": "https://open.spotify.com/track/1s00VGw9NHb7F6FDScqaTa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te Atrapar\u00e9 Bandido",
         "url": "https://open.spotify.com/album/5QJ3kG3mo6fISj1apYFke2"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 216733,
       "name": "Deja",
       "url": "https://open.spotify.com/track/3eeHqf4SVkFhjGsy0lBUSd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Caminos de la Vida",
+        "url": "https://open.spotify.com/album/6fLWZpVOV0wfKTGa8UZmBA"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 228436,
+      "name": "Los Caminos de la Vida",
+      "url": "https://open.spotify.com/track/1s00VGw9NHb7F6FDScqaTa"
     },
     {
       "added_at": null,

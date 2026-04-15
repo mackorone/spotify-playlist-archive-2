@@ -2,9 +2,9 @@
 
 ### [Punk Japan](https://open.spotify.com/playlist/37i9dQZF1DX7uwh9GrVLfz)
 
-> The legendary classics meet the newest cutting edge\. This is Japanese punk\. / レジェンドも新世代も一つの叫びに。進化し続ける日本のパンク・ロックを特集。Cover: サバシスター
+> The legendary classics meet the newest cutting edge\. This is Japanese punk\. / レジェンドも新世代も一つの叫びに。進化し続ける日本のパンク・ロックを特集。Cover: bed
 
-885 songs - 1 day 22 hr 44 min
+887 songs - 1 day 22 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [BONES AND ALL](https://open.spotify.com/track/2Xu7GrXNgDRdVTZaZ3wBO4) | [Su凸ko D凹koi](https://open.spotify.com/artist/1nPzXqUlZz6YJAiyepAY51) | [BONES AND ALL](https://open.spotify.com/album/3WpaNdiEpHKaAi19WrLu63) | 3:19 | 2024-02-27 | 2024-03-27 |
 | [Bored Rigid](https://open.spotify.com/track/6zXsdp7du4Y2tQ8fGYPuyk) | [Comeback My Daughters](https://open.spotify.com/artist/7wM7iIMQX2HrJCjASApbWW) | [EXPerience](https://open.spotify.com/album/20BflIUzszY4lTwqsI7dRj) | 4:53 | 2022-05-12 | 2022-07-16 |
 | [Boy](https://open.spotify.com/track/5Ki3EfcIL6RB8CtV39R8zm) | [amanojac](https://open.spotify.com/artist/4wPckOiu0CMAkhlQpAp1XM) | [Boy](https://open.spotify.com/album/74ytQl3uH1kiIMgQZA5kLp) | 4:07 | 2024-02-27 | 2024-09-04 |
-| [boys](https://open.spotify.com/track/6TwhwafJt69U9ExhjbdbcW) | [でかくてまるい。](https://open.spotify.com/artist/1YHfguoLRlCC98AT9H7Oti) | [boys](https://open.spotify.com/album/5cpcO9CSyNruz8jWwrSMjD) | 4:03 | 2025-09-02 |  |
+| [boys](https://open.spotify.com/track/6TwhwafJt69U9ExhjbdbcW) | [でかくてまるい。](https://open.spotify.com/artist/1YHfguoLRlCC98AT9H7Oti) | [boys](https://open.spotify.com/album/5cpcO9CSyNruz8jWwrSMjD) | 4:03 | 2025-09-02 | 2026-04-15 |
 | [BOYSISM](https://open.spotify.com/track/1MHMtAXsUytkrFc2b5gb2K) | [ハルカミライ](https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI) | [Symbol 2](https://open.spotify.com/album/6ZzQ4FjzxCTXZCZtZqnxOe) | 1:30 | 2022-12-20 | 2023-10-25 |
 | [BOYZ DON'T CRY](https://open.spotify.com/track/3nDBPRhYEIxQNMyydQiX2k) | [HANDSOME ACADEMY](https://open.spotify.com/artist/5WXalzUqPJAvAEsDTNeuhe) | [BOYZ DON'T CRY](https://open.spotify.com/album/1BgMkzGUGBiMfweuPLtEd4) | 3:46 | 2022-08-18 | 2022-08-20 |
 | [BOYZ DON'T CRY](https://open.spotify.com/track/5LBuLQqHOkQwWOaB51hnFM) | [HANDSOME ACADEMY](https://open.spotify.com/artist/5WXalzUqPJAvAEsDTNeuhe) | [BOYZ DON'T CRY](https://open.spotify.com/album/0jj4wVi533xDTcI0FMOklf) | 3:46 | 2022-08-19 | 2022-09-15 |
@@ -256,6 +256,7 @@
 | [International You Day](https://open.spotify.com/track/2LBZYZTbStSYeICfnfD9W6) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [The Golden Age Of Punk Rock](https://open.spotify.com/album/7jb8jzr5hq7CzeS66UzmCo) | 2:42 | 2024-11-12 | 2026-01-15 |
 | [INVITATION](https://open.spotify.com/track/5UeAFjIxgay5XnbfhaJ0hq) | [Limited Express \(has Gone?\)](https://open.spotify.com/artist/3yp3XG3JRa5Y4xJ2I1DSzs) | [INVITATION](https://open.spotify.com/album/4ZifRxvNe7VyUx2puhgVXP) | 1:59 | 2022-05-12 | 2022-06-07 |
 | [Irie](https://open.spotify.com/track/3sx006zaXSbCKkqIZJAB7I) | [saba sister](https://open.spotify.com/artist/2E9ODwADhw1qvfO9BXAkGX) | [Saba No Ichi](https://open.spotify.com/album/4h0gEOGeWn8Dc22RJ0McFN) | 3:00 | 2024-01-10 | 2024-03-08 |
+| [Is The New Album Out Yet?](https://open.spotify.com/track/5ifURZDS0giN09C2usZ7uq) | [Otoboke Beaver](https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq) | [Is The New Album Out Yet?](https://open.spotify.com/album/40GWsNlzUiu4BNVUK3Osr6) | 1:32 | 2026-04-14 |  |
 | [It's a Wonderful Life! \~Heat Up Theme \~ .](https://open.spotify.com/track/5k4vMqDvrkMq4roJ1CEcQ5) | [175R](https://open.spotify.com/artist/40y1P1mpPSpiRxL5LDv6aI) | [It's a Wonderful Life! \~Heat Up Theme \~ .](https://open.spotify.com/album/5cV5NuuUhNhhQoCYIRj3SH) | 3:28 | 2022-10-04 | 2022-10-26 |
 | [IT'S ONLY PUNK ROCK](https://open.spotify.com/track/50Msl98h4Yodp4HUBkMQ4C) | [NAMBA69](https://open.spotify.com/artist/3ZHCgdbzqHYDjPTVZG87gs) | [FRIENDS](https://open.spotify.com/album/7yoAy5YMIW3GfFqxkdoBbH) | 2:29 | 2022-05-24 | 2022-07-26 |
 | [Japanese Cherry](https://open.spotify.com/track/0rtQpVwfZW6ESBMc3XX5Gg) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [Candy Cruise EP](https://open.spotify.com/album/7f9rnDJTOsfDAn7FWGOlWN) | 1:55 | 2022-05-12 | 2024-11-07 |
@@ -704,7 +705,7 @@
 | [シグナル](https://open.spotify.com/track/4Ybp3UvVXvraRNwOCWnrNq) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Everybody!!](https://open.spotify.com/album/1spFHTdEd1oA8htGJxeIac) | 3:39 | 2022-08-16 |  |
 | [シャボン⽟](https://open.spotify.com/track/0NVyYeiACnW0lnRSCFVtXs) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [LAST PARADISE](https://open.spotify.com/album/2jIf8JcgSXB8mCaAdR9Unx) | 2:04 | 2023-07-11 | 2023-08-16 |
 | [シャボン⽟](https://open.spotify.com/track/0Nj3EQQvqNcmJI04CQgIKH) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [LAST PARADISE](https://open.spotify.com/album/5iXPHOx4enp2jKYSPQTgMd) | 2:04 | 2023-07-11 | 2023-07-13 |
-| [ショートカット](https://open.spotify.com/track/6CHrfuOFJikGNs6JriXdGi) | [yutori](https://open.spotify.com/artist/4XFmgxfJrxEHZ1nLXf2Zv0) | [ショートカット](https://open.spotify.com/album/4RHVfs0r4wZ3MPwZMiMuWO) | 3:32 | 2025-02-25 |  |
+| [ショートカット](https://open.spotify.com/track/6CHrfuOFJikGNs6JriXdGi) | [yutori](https://open.spotify.com/artist/4XFmgxfJrxEHZ1nLXf2Zv0) | [ショートカット](https://open.spotify.com/album/4RHVfs0r4wZ3MPwZMiMuWO) | 3:32 | 2025-02-25 | 2026-04-15 |
 | [シングルアゲイン](https://open.spotify.com/track/36mQRKNKiZZ35mrCS6CfWh) | [SonoSheet](https://open.spotify.com/artist/2T82Zj0qxDDo9wEf5imuPC) | [シングルアゲイン](https://open.spotify.com/album/0tOIVvXVRzpSOwYlHvMGPk) | 3:03 | 2022-05-17 | 2022-07-28 |
 | [シンシャ](https://open.spotify.com/track/5jAHFipcLURLl4NiEWpjaV) | [LINK](https://open.spotify.com/artist/6RqbKKub3TQaChfwAqYooJ) | [シンシャ](https://open.spotify.com/album/2Wbjn9gW8to9OtHHzcNkHF) | 3:56 | 2023-11-17 | 2023-12-06 |
 | [ジターバグ](https://open.spotify.com/track/78ooUd8wbjp22IzEPGxlRg) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [BRING YOUR BOARD!!](https://open.spotify.com/album/2WdPiPEVjeDLeOr5sMpT4k) | 3:19 | 2022-05-12 |  |
@@ -874,6 +875,7 @@
 | [綾波](https://open.spotify.com/track/6vzL7QdszbQn6zzZtRTkOL) | [さよならミオちゃん](https://open.spotify.com/artist/28L9cPeAIaCqBwna1zKPJF) | [綾波](https://open.spotify.com/album/2IfKdS9qTdtoLdwqxXTROR) | 2:57 | 2024-04-16 | 2024-05-01 |
 | [緊急事態宣言](https://open.spotify.com/track/6orimeDa7Vdc0RC4GDM8jV) | [Wasurete Motels](https://open.spotify.com/artist/0rAymStk4bKXWSNGrCekVw) | [この夜を置いて](https://open.spotify.com/album/3w75dsZ8w2ugbNnYjFRXii) | 2:43 | 2022-07-19 | 2022-08-17 |
 | [繋がりSUNSET](https://open.spotify.com/track/6ZThkGpxbRevrNRrUXoaIA) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [25 \-A Tribute To Dragon Ash\-\(Another Edition\)](https://open.spotify.com/album/4dyz7fp74JIqn8UzSkbeDd) | 3:51 | 2023-02-21 | 2023-02-23 |
+| [肪 ｜Bo](https://open.spotify.com/track/71J6B49V8UJAhbAB3FZpgB) | [bed](https://open.spotify.com/artist/5nJqGF6KUDFS2jVMW9Oix9) | [肪 ｜Bo](https://open.spotify.com/album/2en4aIjPUvlolSAAXWStDy) | 3:16 | 2026-04-14 |  |
 | [薬草](https://open.spotify.com/track/5rD0WQ7FMvGZ5qjM7PoI3r) | [su\-xing\-cyu](https://open.spotify.com/artist/2SU7W9Mkvei3bZkF3XuOjP) | [ガッツ・エンターテイメント](https://open.spotify.com/album/2GNuX25X6VpHJ4OsCK2NEr) | 2:21 | 2022-05-19 | 2022-07-18 |
 | [虹](https://open.spotify.com/track/6h5i1sJnmPfHmzhJvd89Op) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [RIOT ON THE GRILL](https://open.spotify.com/album/47THqxbGDOoKSZ0xZxCApD) | 3:26 | 2022-05-12 |  |
 | [表参道](https://open.spotify.com/track/3ulW6i37o4FpqJSlebZflY) | [ANORAK!](https://open.spotify.com/artist/1htg5lwXpkH7DwmKnIW9JI) | [ANORAK!](https://open.spotify.com/album/1COk9YWIlyNkyerTI4OOnB) | 2:04 | 2022-11-16 | 2022-11-17 |

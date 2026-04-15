@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 
 > Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: Sena Şahin
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,269 likes - 88 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,268 likes - 88 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

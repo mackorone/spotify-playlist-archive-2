@@ -3336,7 +3336,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-13",
+      "date_removed": null,
       "duration_ms": 178046,
       "name": "BANG BANG",
       "url": "https://open.spotify.com/track/5VtwUrgljtOyBa773AGSr4"
@@ -14995,6 +14995,28 @@
     },
     {
       "album": {
+        "name": "HMPH!",
+        "url": "https://open.spotify.com/album/0p6ikTEKKhKqtOa6MdqNvn"
+      },
+      "artists": [
+        {
+          "name": "PLAVE",
+          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
+        },
+        {
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "HMPH!",
+      "url": "https://open.spotify.com/track/2CbgyivbjNuNrBuEDMps23"
+    },
+    {
+      "album": {
         "name": "My Last Love OST Part.4",
         "url": "https://open.spotify.com/album/58CBwM98Y356zD5AVGZkZG"
       },
@@ -15500,7 +15522,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 290095,
       "name": "How can I love the heartbreak, you're the one I love",
       "url": "https://open.spotify.com/track/0hqj5JBnFt1BHEz2UCFwrl"
@@ -23726,7 +23748,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 205826,
       "name": "My whole world",
       "url": "https://open.spotify.com/track/55pCe0UgAeaeWKKSQqdiWh"
@@ -25552,7 +25574,7 @@
       ],
       "date_added": "2026-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 274000,
       "name": "ON to the next (Prod. by Crush, ZICO)",
       "url": "https://open.spotify.com/track/63JNA2B4qHmoedZCthpo0e"
@@ -25986,7 +26008,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-13",
+      "date_removed": null,
       "duration_ms": 220933,
       "name": "Paid with Bugs",
       "url": "https://open.spotify.com/track/5XQw9UwZuHeXs5tO83nhYy"
@@ -31612,7 +31634,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 201000,
       "name": "Spring Is Gone by chance",
       "url": "https://open.spotify.com/track/5rZN0PP6xZsf5SWxkpMm7k"
@@ -32280,6 +32302,24 @@
       "duration_ms": 191695,
       "name": "STEREOTYPE",
       "url": "https://open.spotify.com/track/2bZIDMpzVooosmPHn0tHnd"
+    },
+    {
+      "album": {
+        "name": "7TH YEAR: A Moment of Stillness in the Thorns",
+        "url": "https://open.spotify.com/album/55LBvRI4i4FUUf5dYKVMHk"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153954,
+      "name": "Stick With You",
+      "url": "https://open.spotify.com/track/1ttNlwhsAwCvSKWGxA6fDk"
     },
     {
       "album": {

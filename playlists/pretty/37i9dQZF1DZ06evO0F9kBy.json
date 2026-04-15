@@ -1,12 +1,12 @@
 {
   "description": "This is Matt Maher. The essential tracks, all in one playlist.",
-  "num_followers": 27602,
+  "num_followers": 27606,
   "original_name": "This Is Matt Maher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adrggAAAAAApWNN2PLdmoLIzDOTn9HYs",
+  "snapshot_id": "adwyAAAAAADmbxA4tUQsumj8Wus9YmhK",
   "tracks": [
     {
       "added_at": null,
@@ -259,18 +259,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wait / Praise The Giver",
-        "url": "https://open.spotify.com/album/1trTP6UbgtdJmY2tcyXH1i"
+        "name": "Foundations (Live)",
+        "url": "https://open.spotify.com/album/45GjAZmIuUOsAkfSPEPNW6"
       },
       "artists": [
+        {
+          "name": "Worship Circle",
+          "url": "https://open.spotify.com/artist/413rdrGoO7cMzxZvwiFpos"
+        },
         {
           "name": "Matt Maher",
           "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
         }
       ],
-      "duration_ms": 248639,
-      "name": "Wait",
-      "url": "https://open.spotify.com/track/5r8bijZKA7EhbNhxmEjgFy"
+      "duration_ms": 289873,
+      "name": "Your Grace is Enough - Live",
+      "url": "https://open.spotify.com/track/0Kdp4tF3uto34upWjEYY4w"
     },
     {
       "added_at": null,
@@ -291,22 +295,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Foundations (Live)",
-        "url": "https://open.spotify.com/album/45GjAZmIuUOsAkfSPEPNW6"
+        "name": "Wait / Praise The Giver",
+        "url": "https://open.spotify.com/album/1trTP6UbgtdJmY2tcyXH1i"
       },
       "artists": [
-        {
-          "name": "Worship Circle",
-          "url": "https://open.spotify.com/artist/413rdrGoO7cMzxZvwiFpos"
-        },
         {
           "name": "Matt Maher",
           "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
         }
       ],
-      "duration_ms": 289873,
-      "name": "Your Grace is Enough - Live",
-      "url": "https://open.spotify.com/track/0Kdp4tF3uto34upWjEYY4w"
+      "duration_ms": 248639,
+      "name": "Wait",
+      "url": "https://open.spotify.com/track/5r8bijZKA7EhbNhxmEjgFy"
     },
     {
       "added_at": null,
@@ -743,26 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Leaning (feat. Lizzie Morgan)",
-        "url": "https://open.spotify.com/album/6Dk3GXUdiov6fsnXdELZTi"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        },
-        {
-          "name": "Lizzie Morgan",
-          "url": "https://open.spotify.com/artist/6ErLTSGjADcbmh10k8uion"
-        }
-      ],
-      "duration_ms": 219213,
-      "name": "Leaning (feat. Lizzie Morgan)",
-      "url": "https://open.spotify.com/track/5i4eapszFQYMycVSOiBxHG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "House Of Miracles (Live)",
         "url": "https://open.spotify.com/album/4rPYrJInxyCcYiUHC8P0qD"
       },
@@ -787,22 +767,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "SPACE",
-        "url": "https://open.spotify.com/album/7KVDtC0WmoOSK97hXOlJaw"
+        "name": "Leaning (feat. Lizzie Morgan)",
+        "url": "https://open.spotify.com/album/6Dk3GXUdiov6fsnXdELZTi"
       },
       "artists": [
         {
-          "name": "Mack Brock",
-          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
-        },
-        {
           "name": "Matt Maher",
           "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        },
+        {
+          "name": "Lizzie Morgan",
+          "url": "https://open.spotify.com/artist/6ErLTSGjADcbmh10k8uion"
         }
       ],
-      "duration_ms": 298640,
-      "name": "Bless The One - Live",
-      "url": "https://open.spotify.com/track/2sFtpqvyCp68S3pSTfogkK"
+      "duration_ms": 219213,
+      "name": "Leaning (feat. Lizzie Morgan)",
+      "url": "https://open.spotify.com/track/5i4eapszFQYMycVSOiBxHG"
     },
     {
       "added_at": null,
@@ -827,22 +807,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Creation",
-        "url": "https://open.spotify.com/album/24792gcL1yqhVFu7QkqxSX"
+        "name": "SPACE",
+        "url": "https://open.spotify.com/album/7KVDtC0WmoOSK97hXOlJaw"
       },
       "artists": [
         {
-          "name": "Mac Powell",
-          "url": "https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa"
+          "name": "Mack Brock",
+          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
         },
         {
           "name": "Matt Maher",
           "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
         }
       ],
-      "duration_ms": 233080,
-      "name": "Baptized",
-      "url": "https://open.spotify.com/track/5TjlGElg43A1pHSS6sdKBg"
+      "duration_ms": 298640,
+      "name": "Bless The One - Live",
+      "url": "https://open.spotify.com/track/2sFtpqvyCp68S3pSTfogkK"
     },
     {
       "added_at": null,
@@ -859,6 +839,26 @@
       "duration_ms": 190280,
       "name": "Abide With Me",
       "url": "https://open.spotify.com/track/0ocaDYnVGNWAvu037JI0Pt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New Creation",
+        "url": "https://open.spotify.com/album/24792gcL1yqhVFu7QkqxSX"
+      },
+      "artists": [
+        {
+          "name": "Mac Powell",
+          "url": "https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 233080,
+      "name": "Baptized",
+      "url": "https://open.spotify.com/track/5TjlGElg43A1pHSS6sdKBg"
     },
     {
       "added_at": null,

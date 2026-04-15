@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hGVuX.md) - [plain]
 
 > This is Ana Roxanne\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 202 likes - 23 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 204 likes - 23 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,6 +30,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hGVuX.md) - [plain]
 | 20 | [Driving](https://open.spotify.com/track/6Upkri1bZMPe9ERMSuNVmp) | [Natural Wonder Beauty Concept](https://open.spotify.com/artist/5fuCjaj3t1OkkrMH7EjuLu), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl), [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Natural Wonder Beauty Concept](https://open.spotify.com/album/0W8AIAf0mUGX4VZ0jH31FX) | 4:02 |
 | 21 | [Venus](https://open.spotify.com/track/4HAF5goUXFs9DQF0QdIMEQ) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Because of a Flower](https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd) | 7:57 |
 | 22 | [In a Small Valley](https://open.spotify.com/track/5ZLqOeBBYZFIl6xjKlPKLg) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [\~\~\~](https://open.spotify.com/album/2oPJNXmIuWrJq9ozINmwFW) | 5:24 |
-| 23 | [III](https://open.spotify.com/track/1QASMyabE1yQ1a09J0YklZ) | [Natural Wonder Beauty Concept](https://open.spotify.com/artist/5fuCjaj3t1OkkrMH7EjuLu), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl), [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Natural Wonder Beauty Concept](https://open.spotify.com/album/0W8AIAf0mUGX4VZ0jH31FX) | 3:43 |
+| 23 | [Sword](https://open.spotify.com/track/1lKZkmMQwx6Fdy4MKBdi8q) | [Natural Wonder Beauty Concept](https://open.spotify.com/artist/5fuCjaj3t1OkkrMH7EjuLu), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl), [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Natural Wonder Beauty Concept](https://open.spotify.com/album/0W8AIAf0mUGX4VZ0jH31FX) | 3:05 |
 
-Snapshot ID: `adrggAAAAAC05n2EKVA7ks8arZcn11iZ`
+Snapshot ID: `adwyAAAAAADUbCTFn3KJRlnDXuL0GEp4`

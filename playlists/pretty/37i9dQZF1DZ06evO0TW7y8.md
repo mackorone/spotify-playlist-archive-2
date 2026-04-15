@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0TW7y8.md) - [plain]
 
 > This is Jorja Smith\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,483 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,504 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0TW7y8.md) - [plain]
 | 49 | [Falling or flying](https://open.spotify.com/track/4CNZbr3dSioXNk5bJE46XQ) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [falling or flying](https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA) | 3:24 |
 | 50 | [Let Me Down](https://open.spotify.com/track/7qYwkz7t9JeEl2qFXfI47S) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Let Me Down](https://open.spotify.com/album/41rLKAOZZIcG5SFBaDBBxP) | 3:08 |
 
-Snapshot ID: `adrggAAAAABgfskPlX5bNs/WyJyzUMhK`
+Snapshot ID: `adwyAAAAAABPHKHbkKFH8/d2PDX4p/T0`

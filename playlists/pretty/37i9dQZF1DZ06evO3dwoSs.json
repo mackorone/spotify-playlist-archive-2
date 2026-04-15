@@ -1,12 +1,12 @@
 {
   "description": "This is Five Finger Death Punch. The essential tracks, all in one playlist.",
-  "num_followers": 569541,
+  "num_followers": 569559,
   "original_name": "This Is Five Finger Death Punch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adrggAAAAADXcX6R0tCdlTfiRW6xpZVQ",
+  "snapshot_id": "adwyAAAAAAA4f+Te7eHhvcbrYmTEuwlk",
   "tracks": [
     {
       "added_at": null,
@@ -519,6 +519,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "American Capitalist (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6pJqO1A0sdJEiXfGeQ0VVV"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 203813,
+      "name": "The Pride",
+      "url": "https://open.spotify.com/track/5V0UaxEtUeecWjEcK7jWj3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Holy Water (feat. Ivan Moody of Five Finger Death Punch)",
         "url": "https://open.spotify.com/album/2VO6HxN9o1v3s3zSKlLoiz"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 181714,
       "name": "Holy Water (feat. Ivan Moody of Five Finger Death Punch)",
       "url": "https://open.spotify.com/track/1rcZspyKL7dhmV3gj8PT8p"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "American Capitalist (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6pJqO1A0sdJEiXfGeQ0VVV"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 203813,
-      "name": "The Pride",
-      "url": "https://open.spotify.com/track/5V0UaxEtUeecWjEcK7jWj3"
     },
     {
       "added_at": null,

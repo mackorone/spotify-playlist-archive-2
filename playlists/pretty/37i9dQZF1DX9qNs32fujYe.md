@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qNs32fujYe.md) - [plain]
 
 > Heavy Metal forever \\m/ classics to brand new tracks\. Cover: Sepultura
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,406,845 likes - 200 songs - 14 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,406,894 likes - 200 songs - 14 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

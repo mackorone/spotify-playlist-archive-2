@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6DrGMb0BWJ.md) - [plain]
 
 > Music from "CITY HUNTER"! \(C\)T.HOJO/N,C
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,261 likes - 42 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,271 likes - 42 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

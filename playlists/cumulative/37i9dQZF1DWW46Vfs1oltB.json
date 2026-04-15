@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New & Hottest K-Hip Hop is here. (Cover: T.O.P)",
+  "description": "New & Hottest K-Hip Hop is here. (Cover: Woo(\uc6b0\uc6d0\uc7ac))",
   "name": "KrOWN",
   "tracks": [
     {
@@ -5891,6 +5891,32 @@
     },
     {
       "album": {
+        "name": "mp3",
+        "url": "https://open.spotify.com/album/4YOpO4iotuFawWYcUHvlYF"
+      },
+      "artists": [
+        {
+          "name": "Woo",
+          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
+        },
+        {
+          "name": "Kid Milli",
+          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
+        },
+        {
+          "name": "TOMMY YANG",
+          "url": "https://open.spotify.com/artist/4AO9H2yVIGvb6aTpQ7jW0y"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157493,
+      "name": "Bullshit (Feat. Kid Milli, TOMMY YANG)",
+      "url": "https://open.spotify.com/track/69SJyODjpZhYDLwGJoAdox"
+    },
+    {
+      "album": {
         "name": "BUM (feat. Chillin Homie & Kid Milli)",
         "url": "https://open.spotify.com/album/7w9mPTFLGn8yGp1CwKNEAO"
       },
@@ -7404,6 +7430,28 @@
       "duration_ms": 188387,
       "name": "Cockroaches (feat. Sikboy)",
       "url": "https://open.spotify.com/track/3R7Mqg1N1JTDOzkNmP1YvR"
+    },
+    {
+      "album": {
+        "name": "mp3",
+        "url": "https://open.spotify.com/album/4YOpO4iotuFawWYcUHvlYF"
+      },
+      "artists": [
+        {
+          "name": "Woo",
+          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
+        },
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151106,
+      "name": "Cocky (Feat. BIBI)",
+      "url": "https://open.spotify.com/track/0f6Es3lVLNI4niwc8QsHRF"
     },
     {
       "album": {

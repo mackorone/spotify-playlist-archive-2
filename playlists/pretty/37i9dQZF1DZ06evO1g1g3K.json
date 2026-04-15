@@ -1,12 +1,12 @@
 {
   "description": "This is Durand Bernarr. The essential tracks, all in one playlist.",
-  "num_followers": 6983,
+  "num_followers": 6985,
   "original_name": "This Is Durand Bernarr",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adrggAAAAABfyEacesNeTJnBYVW72FPx",
+  "snapshot_id": "adwyAAAAAABzI0UMIluahqcSAjizufMI",
   "tracks": [
     {
       "added_at": null,
@@ -123,26 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wild Ride",
-        "url": "https://open.spotify.com/album/3QjRU4e65hcwIBUYyX8zHY"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        },
-        {
-          "name": "James Fauntleroy",
-          "url": "https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT"
-        }
-      ],
-      "duration_ms": 221400,
-      "name": "Wild Ride",
-      "url": "https://open.spotify.com/track/41X89JT5axSqQYozs2op40"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TIMELESS",
         "url": "https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh"
       },
@@ -159,6 +139,26 @@
       "duration_ms": 207318,
       "name": "Weird (feat. Durand Bernarr)",
       "url": "https://open.spotify.com/track/7zvpJRsDXAwwe2nLXUP7v4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wild Ride",
+        "url": "https://open.spotify.com/album/3QjRU4e65hcwIBUYyX8zHY"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        },
+        {
+          "name": "James Fauntleroy",
+          "url": "https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT"
+        }
+      ],
+      "duration_ms": 221400,
+      "name": "Wild Ride",
+      "url": "https://open.spotify.com/track/41X89JT5axSqQYozs2op40"
     },
     {
       "added_at": null,
@@ -255,26 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Antidote",
-        "url": "https://open.spotify.com/album/4qMSxLQ4cw8ZsQgX0V3o2R"
-      },
-      "artists": [
-        {
-          "name": "James Bambu",
-          "url": "https://open.spotify.com/artist/2afGhKp80uOinsYCrDr2Wn"
-        },
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 227750,
-      "name": "Antidote",
-      "url": "https://open.spotify.com/track/1FNH1V63OdaLf69OvEvQBK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Isle Of Queens Deluxe",
         "url": "https://open.spotify.com/album/3dboSC2J6m8aQLJv19g7SL"
       },
@@ -291,6 +271,26 @@
       "duration_ms": 231133,
       "name": "New Phone, Who Dis? (Remix) [feat. Durand Bernarr]",
       "url": "https://open.spotify.com/track/0Di4yxIcNrsj0cXORiYdFM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Antidote",
+        "url": "https://open.spotify.com/album/4qMSxLQ4cw8ZsQgX0V3o2R"
+      },
+      "artists": [
+        {
+          "name": "James Bambu",
+          "url": "https://open.spotify.com/artist/2afGhKp80uOinsYCrDr2Wn"
+        },
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 227750,
+      "name": "Antidote",
+      "url": "https://open.spotify.com/track/1FNH1V63OdaLf69OvEvQBK"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Route",
-        "url": "https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 171460,
-      "name": "Processing...",
-      "url": "https://open.spotify.com/track/2E5OshuXUdcR43yStOifJ7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wanderlust",
         "url": "https://open.spotify.com/album/1rTKMaQeug98fbSH29NoaG"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 222173,
       "name": "Lil Bit (feat. METTA)",
       "url": "https://open.spotify.com/track/2NOW1oBfJtkA1i4OASoKn4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Route",
+        "url": "https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 171460,
+      "name": "Processing...",
+      "url": "https://open.spotify.com/track/2E5OshuXUdcR43yStOifJ7"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Route",
-        "url": "https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 136571,
-      "name": "ETA?",
-      "url": "https://open.spotify.com/track/2KvySb5FNxG0cZWsllmoeM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "1988",
         "url": "https://open.spotify.com/album/0YePXgGfk39Rd1OWgqFKRS"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 268668,
       "name": "minding_my business",
       "url": "https://open.spotify.com/track/4E3AUfhHzDg0xD12mzcCNu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Route",
+        "url": "https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 136571,
+      "name": "ETA?",
+      "url": "https://open.spotify.com/track/2KvySb5FNxG0cZWsllmoeM"
     },
     {
       "added_at": null,

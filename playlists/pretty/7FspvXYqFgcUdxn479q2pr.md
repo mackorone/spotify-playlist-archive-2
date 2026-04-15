@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 
 > New dance music from Deep House to Future Rave\. Refreshed Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases.
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 31,648 likes - 173 songs - 9 hr 12 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 31,646 likes - 173 songs - 9 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 | 5 | [Waheshni Eh](https://open.spotify.com/track/40rsgfrFp5u5gRRh4ghOYL) | [Maurya Sevak](https://open.spotify.com/artist/0xdqRvO8mc7jwRjfo4gqCs) | [Waheshni Eh](https://open.spotify.com/album/7FMpaSJnOQhS1xAZPJ1RB7) | 3:00 |
 | 6 | [This Ain't Love](https://open.spotify.com/track/7aNnRM4mWrBdauDAwkEf5j) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE), [Raphi](https://open.spotify.com/artist/5uRAMorzqKiss3EUQPVDD4), [George Reid](https://open.spotify.com/artist/4AhAa3kyJe8OVyN1mxEB6o) | [This Ain't Love](https://open.spotify.com/album/12V6TWwLZOGaUWnHn8sLzG) | 2:40 |
 | 7 | [Garage Do Brasil](https://open.spotify.com/track/16WvSVD1h7LZ7ogJw9UWTb) | [Damian Clarke](https://open.spotify.com/artist/76vfiinPOoRvOVOJOVQThQ), [Nick Selter](https://open.spotify.com/artist/117oVt9fhuJ4M0IlJwin2U) | [Garage Do Brasil](https://open.spotify.com/album/4CywzsvDHrlPfXzFG2mTfW) | 2:51 |
-| 8 | [Invincible](https://open.spotify.com/track/2ovZAk5eRSGmG6Bxx0cDN7) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR) | [Invincible](https://open.spotify.com/album/5ZEtRGpaiwtL5QnqN3Je98) | 3:04 |
+| 8 | [Invincible \(feat\. Lia Knapp\)](https://open.spotify.com/track/2ovZAk5eRSGmG6Bxx0cDN7) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [Lia Knapp](https://open.spotify.com/artist/3Kz4SQOGT4Dgwh6C3YnzC0) | [Invincible \(feat\. Lia Knapp\)](https://open.spotify.com/album/5ZEtRGpaiwtL5QnqN3Je98) | 3:04 |
 | 9 | [Desert Eagle](https://open.spotify.com/track/6yO0dfklsvVLs729HyYEg8) | [OTIOT](https://open.spotify.com/artist/6sfYz369rzZ7hxEh5Kb4tF) | [Desert Eagle \- Oud and Roll](https://open.spotify.com/album/7BwW4L29b1T0ECxxA1DwBm) | 4:25 |
 | 10 | [Not A Place \(feat\. Oaks\)](https://open.spotify.com/track/0M4PMD5RpCgtCt7sWffJbh) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Not A Place \(feat\. Oaks\)](https://open.spotify.com/album/55sBLTngKmRxlB4giUYxw1) | 2:40 |
 | 11 | [Into The Sun \(feat\. Brieanna Grace\)](https://open.spotify.com/track/4FIFylQf9hYh440pXpBkmD) | [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs), [Rivo](https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10), [Brieanna Grace](https://open.spotify.com/artist/5tpQ8DM8YGZRtBI0zyxTwg) | [Into The Sun \(feat\. Brieanna Grace\)](https://open.spotify.com/album/6Hul57nelgR1a4iHRnstpa) | 3:17 |

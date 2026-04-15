@@ -4,7 +4,7 @@
 
 > pearl of the week ✨Yaeger✨
 
-2,355 songs - 5 day 7 hr 34 min
+2,356 songs - 5 day 7 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1907,6 +1907,7 @@
 | [Stay \(ft\. Omar Noir\)](https://open.spotify.com/track/1yyPP0oltWpmVSUZ5gJe4R) | [Nova North](https://open.spotify.com/artist/0m77k2AK3NjOt2nBk1n0Af), [Omar Noir](https://open.spotify.com/artist/5paQT78PtTz59108hibz4G) | [Boulevard](https://open.spotify.com/album/3JoxsektYkE7UQaDSqFE91) | 2:51 | 2023-11-16 | 2023-12-08 |
 | [Stay \(ft\. Omar Noir\)](https://open.spotify.com/track/3Ure17oumtGk8DeUXnjlwo) | [Nova North](https://open.spotify.com/artist/0m77k2AK3NjOt2nBk1n0Af), [Omar Noir](https://open.spotify.com/artist/5paQT78PtTz59108hibz4G) | [Boulevard](https://open.spotify.com/album/1oIeOYtDg50OC7PWYKuhQs) | 2:51 | 2023-11-16 | 2023-11-23 |
 | [Stay Awhile](https://open.spotify.com/track/1GoUZK5UgNAVdz6wcJ9Eml) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [Stay Awhile](https://open.spotify.com/album/2q6RGFe2ZnsWwZP7mJKklm) | 6:11 | 2022-11-17 | 2022-12-16 |
+| [stay with me](https://open.spotify.com/track/3ohtc0JIOXUIjZVy5DCSBI) | [dóttir.x](https://open.spotify.com/artist/7jq2vXolpLlHipMTPVeMR0) | [stay with me](https://open.spotify.com/album/1szkuMBPAlxjThr7K8PVxv) | 2:59 | 2026-04-14 |  |
 | [Stayed at the Party](https://open.spotify.com/track/4oBGba0gIMq5AKc6tTywwX) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Stayed at the Party](https://open.spotify.com/album/3fNOwnasCq1Aw0Y4M3Pstq) | 3:33 | 2022-10-28 | 2022-11-04 |
 | [stayinit](https://open.spotify.com/track/6WS2TcsMEGOFtveWbtbuwZ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [stayinit](https://open.spotify.com/album/0DeGmYq33W6Svw1eTgnxDF) | 4:34 | 2024-02-29 | 2024-06-21 |
 | [Step By Step \- Axel Boman’s In The Air Version](https://open.spotify.com/track/4rOUCnPgp5QW9uAkAReJUa) | [Braxe + Falcon](https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA), [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ), [Axel Boman](https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [DJ Falcon](https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5) | [Step By Step \(Axel Boman’s In The Air Version\)](https://open.spotify.com/album/5cOYhU6gw1uoUpLrbp6zE9) | 3:22 | 2023-01-19 | 2023-03-03 |

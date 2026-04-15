@@ -1,12 +1,12 @@
 {
   "description": "These are some independent alternative rock bands you need to hear.",
-  "num_followers": 617,
+  "num_followers": 624,
   "original_name": "Unsigned Alternative Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAADPyvRX6S5SG7/kHZDdvUcQ9w+0d9Z",
+  "snapshot_id": "AAADSbWOx1keH6g64GclKzokg5js0cBM",
   "tracks": [
     {
       "added_at": "2026-02-16 17:21:01",
@@ -137,10 +137,10 @@
       "url": "https://open.spotify.com/track/0SjeRsyPzUfOWQgEfbtnNO"
     },
     {
-      "added_at": "2026-02-04 12:22:49",
+      "added_at": "2025-12-05 18:42:05",
       "album": {
-        "name": "The Perfect Buzz",
-        "url": "https://open.spotify.com/album/2kPgxCfeUcADkJSxT0jBtG"
+        "name": "New Shit Has Come To Light",
+        "url": "https://open.spotify.com/album/2vsnu0bdEfC2zgOmk1vFsl"
       },
       "artists": [
         {
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC"
         }
       ],
-      "duration_ms": 166569,
-      "name": "The Perfect Buzz",
-      "url": "https://open.spotify.com/track/4nIbtAyxR6yeBxgONwdtda"
+      "duration_ms": 170318,
+      "name": "New Shit Has Come To Light",
+      "url": "https://open.spotify.com/track/7pxNCg2vwJ9FLxXqaJliQl"
     },
     {
       "added_at": "2025-10-29 11:20:52",
@@ -263,22 +263,6 @@
       "duration_ms": 236228,
       "name": "Our Path",
       "url": "https://open.spotify.com/track/0wLvmx2XhFfSipYnbsnSYL"
-    },
-    {
-      "added_at": "2025-12-05 18:42:05",
-      "album": {
-        "name": "New Shit Has Come To Light",
-        "url": "https://open.spotify.com/album/2vsnu0bdEfC2zgOmk1vFsl"
-      },
-      "artists": [
-        {
-          "name": "Tommy Schenker",
-          "url": "https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC"
-        }
-      ],
-      "duration_ms": 170318,
-      "name": "New Shit Has Come To Light",
-      "url": "https://open.spotify.com/track/7pxNCg2vwJ9FLxXqaJliQl"
     },
     {
       "added_at": "2025-10-29 11:54:04",
@@ -601,86 +585,6 @@
       "url": "https://open.spotify.com/track/0SDqFtJAV9lWKZqPXHyft0"
     },
     {
-      "added_at": "2026-03-04 01:56:18",
-      "album": {
-        "name": "Songs I Wrote Instead of Texting You",
-        "url": "https://open.spotify.com/album/0ILbdAxdFBfNZXRexPMEYo"
-      },
-      "artists": [
-        {
-          "name": "Zack King",
-          "url": "https://open.spotify.com/artist/45clgID3n7vhcRf2GIBSyf"
-        }
-      ],
-      "duration_ms": 195459,
-      "name": "What's on your Mind?",
-      "url": "https://open.spotify.com/track/3sGi1yG0h0m7hky1qd5C4P"
-    },
-    {
-      "added_at": "2026-03-07 18:58:19",
-      "album": {
-        "name": "Concrete",
-        "url": "https://open.spotify.com/album/3cDTeTgcq7zXxPqTWHHitB"
-      },
-      "artists": [
-        {
-          "name": "Blue Remains",
-          "url": "https://open.spotify.com/artist/3bso49Yea3qCrqvtiUolUv"
-        }
-      ],
-      "duration_ms": 259930,
-      "name": "Concrete",
-      "url": "https://open.spotify.com/track/2gNXxEN4sBEmKyMYhAW5Fj"
-    },
-    {
-      "added_at": "2026-03-07 19:03:28",
-      "album": {
-        "name": "Unbreakable Love",
-        "url": "https://open.spotify.com/album/3cHG42Tti5QdUxLWPAlLTs"
-      },
-      "artists": [
-        {
-          "name": "Donkey Shots",
-          "url": "https://open.spotify.com/artist/30je3FKxjeqo7gHq3VYVNx"
-        }
-      ],
-      "duration_ms": 202826,
-      "name": "Unbreakable Love",
-      "url": "https://open.spotify.com/track/6urx5MnO6omSLaFALpvU2Z"
-    },
-    {
-      "added_at": "2026-03-11 00:37:05",
-      "album": {
-        "name": "Synth Noise",
-        "url": "https://open.spotify.com/album/19mRhcI5wRUlZQuQB5ySJ8"
-      },
-      "artists": [
-        {
-          "name": "Anthony Menzia",
-          "url": "https://open.spotify.com/artist/0GoKVhFED5mug4qsu3dlyy"
-        }
-      ],
-      "duration_ms": 127500,
-      "name": "Asmodeus",
-      "url": "https://open.spotify.com/track/5IiBhGeTLrzhqpIgnOWn4g"
-    },
-    {
-      "added_at": "2026-03-11 01:12:51",
-      "album": {
-        "name": "Age Of Innocence",
-        "url": "https://open.spotify.com/album/4M9Na1uq901AQhN8aVNXzq"
-      },
-      "artists": [
-        {
-          "name": "Carl Schonbeck",
-          "url": "https://open.spotify.com/artist/64G455sXZCInt8gPhAe7mF"
-        }
-      ],
-      "duration_ms": 254421,
-      "name": "Age Of Innocence",
-      "url": "https://open.spotify.com/track/6Kg9rDa3N0UANVpbuNTAby"
-    },
-    {
       "added_at": "2025-10-21 18:29:01",
       "album": {
         "name": "Sign Of The Horns",
@@ -697,102 +601,6 @@
       "url": "https://open.spotify.com/track/65GKZJPncKvGka5X4dTsO9"
     },
     {
-      "added_at": "2026-03-11 01:48:42",
-      "album": {
-        "name": "Echo Of A Shadow",
-        "url": "https://open.spotify.com/album/0G5il9gzou2IGEidkERa6L"
-      },
-      "artists": [
-        {
-          "name": "The Disorder Unit",
-          "url": "https://open.spotify.com/artist/5odi17P7Ak4GmQ72xdg0F2"
-        }
-      ],
-      "duration_ms": 218038,
-      "name": "Succumber",
-      "url": "https://open.spotify.com/track/5SgoJiHnbT9NYv0HomVd0b"
-    },
-    {
-      "added_at": "2026-03-11 02:17:12",
-      "album": {
-        "name": "Tomorrow Is Here",
-        "url": "https://open.spotify.com/album/798T6z0oVDanXisQOWGKcy"
-      },
-      "artists": [
-        {
-          "name": "Hardar",
-          "url": "https://open.spotify.com/artist/4KOKGSVXWgWRBPv0Zqh2Pm"
-        }
-      ],
-      "duration_ms": 201065,
-      "name": "Tomorrow Is Here",
-      "url": "https://open.spotify.com/track/5VMUskyWeRjMUnyHnpxNw2"
-    },
-    {
-      "added_at": "2026-03-12 00:13:51",
-      "album": {
-        "name": "The Winter Sloths",
-        "url": "https://open.spotify.com/album/3wjHKUaiAB5FmDqvM7s3Rr"
-      },
-      "artists": [
-        {
-          "name": "The Winter Sloths",
-          "url": "https://open.spotify.com/artist/3MVGy2ZeJzUFYpP1RdNAGD"
-        }
-      ],
-      "duration_ms": 217370,
-      "name": "All Along",
-      "url": "https://open.spotify.com/track/24XphTpo1iSOJcWgBUCZUZ"
-    },
-    {
-      "added_at": "2026-03-12 00:47:39",
-      "album": {
-        "name": "Nada De Vos",
-        "url": "https://open.spotify.com/album/28aKwrTa6ZNr0trxvsXJg6"
-      },
-      "artists": [
-        {
-          "name": "Ruster",
-          "url": "https://open.spotify.com/artist/0MB2qTmFxuZkVdphbXgSeq"
-        }
-      ],
-      "duration_ms": 184438,
-      "name": "Nada De Vos",
-      "url": "https://open.spotify.com/track/5X0t7iMScBSmaaneqz2cKO"
-    },
-    {
-      "added_at": "2026-03-12 01:13:36",
-      "album": {
-        "name": "\u041b\u0430\u0432\u0438\u043d\u044b",
-        "url": "https://open.spotify.com/album/1uq5G5T9eEP9BKhkTRitBX"
-      },
-      "artists": [
-        {
-          "name": "genteel renegade",
-          "url": "https://open.spotify.com/artist/7AfX5ZMx0UP4ZouLe1HNEl"
-        }
-      ],
-      "duration_ms": 233239,
-      "name": "\u041b\u0430\u0432\u0438\u043d\u044b",
-      "url": "https://open.spotify.com/track/4yY60xQzkD3t5esainGo5F"
-    },
-    {
-      "added_at": "2026-03-14 01:56:08",
-      "album": {
-        "name": "MY SONG",
-        "url": "https://open.spotify.com/album/50yKv8FDcE0UzMYXCohf8C"
-      },
-      "artists": [
-        {
-          "name": "Lonewolves in Paradise",
-          "url": "https://open.spotify.com/artist/4yjZvSYHEv1Esyl8Fwpe3O"
-        }
-      ],
-      "duration_ms": 164227,
-      "name": "MY SONG",
-      "url": "https://open.spotify.com/track/0sE1TOUHEfOuMBdyZxLlhk"
-    },
-    {
       "added_at": "2026-03-14 02:25:26",
       "album": {
         "name": "High & Dry",
@@ -807,202 +615,6 @@
       "duration_ms": 236200,
       "name": "High & Dry",
       "url": "https://open.spotify.com/track/5wsbd85L95r7yiuC7XiDip"
-    },
-    {
-      "added_at": "2026-03-14 11:57:40",
-      "album": {
-        "name": "HELLO DENIAL",
-        "url": "https://open.spotify.com/album/6F5VM9VZj7ZEcYSMV3tRNd"
-      },
-      "artists": [
-        {
-          "name": "Quentin",
-          "url": "https://open.spotify.com/artist/4GpI0u4lFwCzzYnwNlglbi"
-        }
-      ],
-      "duration_ms": 204493,
-      "name": "HELLO DENIAL",
-      "url": "https://open.spotify.com/track/2pUc5A4RRllfzi3vqzH5gl"
-    },
-    {
-      "added_at": "2026-03-17 00:53:56",
-      "album": {
-        "name": "VHS",
-        "url": "https://open.spotify.com/album/4OzI2lFutyo5Tqb1rRCXqF"
-      },
-      "artists": [
-        {
-          "name": "The Attic",
-          "url": "https://open.spotify.com/artist/2IDA4k7NRZOZUznK0Goimh"
-        }
-      ],
-      "duration_ms": 244241,
-      "name": "VHS",
-      "url": "https://open.spotify.com/track/55IaNinX523ef5gVySoiLS"
-    },
-    {
-      "added_at": "2026-03-17 01:27:16",
-      "album": {
-        "name": "Objects in the Mirrors",
-        "url": "https://open.spotify.com/album/5iZG0EZiKBMSlomcPjxdVF"
-      },
-      "artists": [
-        {
-          "name": "The Paperbags",
-          "url": "https://open.spotify.com/artist/0xWOcjzU2TvVdqM6pmsMJk"
-        }
-      ],
-      "duration_ms": 263495,
-      "name": "Objects in the Mirrors",
-      "url": "https://open.spotify.com/track/7FgMPd1QmYQlcCTu2yMum3"
-    },
-    {
-      "added_at": "2026-03-17 01:34:56",
-      "album": {
-        "name": "A Light On The Horizon",
-        "url": "https://open.spotify.com/album/6zRSgRECoeWvyG6UQq2Fdw"
-      },
-      "artists": [
-        {
-          "name": "Slackrr",
-          "url": "https://open.spotify.com/artist/17JbSCGvIPoMMl9xGcR8lu"
-        }
-      ],
-      "duration_ms": 221460,
-      "name": "All I Know",
-      "url": "https://open.spotify.com/track/0ZjhuatJiL7b3x9bVRAVRm"
-    },
-    {
-      "added_at": "2026-03-18 02:00:06",
-      "album": {
-        "name": "Stop the Bleed",
-        "url": "https://open.spotify.com/album/5frACqlScmLdqmPv3sB7nT"
-      },
-      "artists": [
-        {
-          "name": "Dreamer",
-          "url": "https://open.spotify.com/artist/5LTRsVTTIAo7vGHEEzzACU"
-        }
-      ],
-      "duration_ms": 324578,
-      "name": "Stop the Bleed",
-      "url": "https://open.spotify.com/track/6SRtsdb5b1XfiQZo3vOBL1"
-    },
-    {
-      "added_at": "2026-03-18 02:07:40",
-      "album": {
-        "name": "Homework Forever",
-        "url": "https://open.spotify.com/album/4ZV5lF2tPgdP36xQH1lLSQ"
-      },
-      "artists": [
-        {
-          "name": "Pink Cliffs",
-          "url": "https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR"
-        }
-      ],
-      "duration_ms": 176973,
-      "name": "Homework Forever",
-      "url": "https://open.spotify.com/track/5EBAcYsLz8yVFBjzNirEt7"
-    },
-    {
-      "added_at": "2026-03-18 02:31:52",
-      "album": {
-        "name": "Day Dreamer Night Thinker",
-        "url": "https://open.spotify.com/album/3v1i2iiTOt0yptE5meyxAB"
-      },
-      "artists": [
-        {
-          "name": "The Lovves",
-          "url": "https://open.spotify.com/artist/0D1Pm8FvVpv0CUoawzKyO2"
-        }
-      ],
-      "duration_ms": 254232,
-      "name": "50/50",
-      "url": "https://open.spotify.com/track/3AD2WXL3wz12SyNw6jfXFc"
-    },
-    {
-      "added_at": "2026-03-19 02:48:47",
-      "album": {
-        "name": "Quiet selfish man",
-        "url": "https://open.spotify.com/album/3yBRhxOp9X7DLpEQVbzJ6q"
-      },
-      "artists": [
-        {
-          "name": "Ladat",
-          "url": "https://open.spotify.com/artist/2nX96XjXTUZvCoNWTNNun3"
-        },
-        {
-          "name": "Hana Pav\u0161i\u010d",
-          "url": "https://open.spotify.com/artist/1zLtkHyi57e4iXlcFXyGLc"
-        }
-      ],
-      "duration_ms": 235112,
-      "name": "Quiet selfish man",
-      "url": "https://open.spotify.com/track/6p3083SoZOwB1oJuZtpQ0a"
-    },
-    {
-      "added_at": "2026-03-20 22:01:57",
-      "album": {
-        "name": "Last Chance",
-        "url": "https://open.spotify.com/album/4SBD0xXWkovvYJVlFdZi1D"
-      },
-      "artists": [
-        {
-          "name": "StainTown",
-          "url": "https://open.spotify.com/artist/3F32cBk6qpCF5882GQck5o"
-        }
-      ],
-      "duration_ms": 189331,
-      "name": "Last Chance",
-      "url": "https://open.spotify.com/track/5lAdDCVg6gDfwnYqdtdolh"
-    },
-    {
-      "added_at": "2026-03-20 22:10:04",
-      "album": {
-        "name": "GROWING",
-        "url": "https://open.spotify.com/album/192wCJGiB81LgOfTQBxlpN"
-      },
-      "artists": [
-        {
-          "name": "Lupo Prospero",
-          "url": "https://open.spotify.com/artist/2oW8dDaeHsnelFSYrnhs5J"
-        }
-      ],
-      "duration_ms": 169734,
-      "name": "GROWING",
-      "url": "https://open.spotify.com/track/33RszjKEEGkz8mvT2D6hcN"
-    },
-    {
-      "added_at": "2026-03-21 01:03:55",
-      "album": {
-        "name": "She the one",
-        "url": "https://open.spotify.com/album/3ll9ABkMvViACUlOVULySz"
-      },
-      "artists": [
-        {
-          "name": "Revelt",
-          "url": "https://open.spotify.com/artist/0HOgIPjusdkjsU4nbX4sYk"
-        }
-      ],
-      "duration_ms": 213771,
-      "name": "She the one",
-      "url": "https://open.spotify.com/track/6DGqfNHb3QvSfT8jv514QB"
-    },
-    {
-      "added_at": "2026-03-21 01:47:49",
-      "album": {
-        "name": "Acid Viking",
-        "url": "https://open.spotify.com/album/4JKHsT37qFoVdD5yYXYnPz"
-      },
-      "artists": [
-        {
-          "name": "Lady Owl",
-          "url": "https://open.spotify.com/artist/0ecpr2cVYXUH5z3wSybqZO"
-        }
-      ],
-      "duration_ms": 218906,
-      "name": "Chilly",
-      "url": "https://open.spotify.com/track/0fhXATRQObAWuSEUlNY6td"
     },
     {
       "added_at": "2026-03-21 17:11:23",
@@ -1333,6 +945,22 @@
       "url": "https://open.spotify.com/track/3tSsxs9mEIvqrugyxV0nX6"
     },
     {
+      "added_at": "2026-02-04 12:22:49",
+      "album": {
+        "name": "The Perfect Buzz",
+        "url": "https://open.spotify.com/album/2kPgxCfeUcADkJSxT0jBtG"
+      },
+      "artists": [
+        {
+          "name": "Tommy Schenker",
+          "url": "https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC"
+        }
+      ],
+      "duration_ms": 166569,
+      "name": "The Perfect Buzz",
+      "url": "https://open.spotify.com/track/4nIbtAyxR6yeBxgONwdtda"
+    },
+    {
       "added_at": "2026-04-04 17:06:59",
       "album": {
         "name": "In My Own Way",
@@ -1571,6 +1199,70 @@
       "duration_ms": 193493,
       "name": "Just Let It Go",
       "url": "https://open.spotify.com/track/5lPn1Gsaqo8NO3NpFGgwqJ"
+    },
+    {
+      "added_at": "2026-04-15 01:37:11",
+      "album": {
+        "name": "Marathon",
+        "url": "https://open.spotify.com/album/03fIWOLe2bwngeOwGnIJW2"
+      },
+      "artists": [
+        {
+          "name": "Brassard",
+          "url": "https://open.spotify.com/artist/27AIl8w2zVXZM9z6YpNU27"
+        }
+      ],
+      "duration_ms": 244853,
+      "name": "The Poorest Man",
+      "url": "https://open.spotify.com/track/2vD6arZnrJGMuj6C977t0o"
+    },
+    {
+      "added_at": "2026-04-15 02:02:16",
+      "album": {
+        "name": "The Will To Endure",
+        "url": "https://open.spotify.com/album/7pUjpFncOv0tTDrAi34Bb3"
+      },
+      "artists": [
+        {
+          "name": "Highroad No. 28",
+          "url": "https://open.spotify.com/artist/2Rd79D7pa2uM72yzgHLaGQ"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "What To Become",
+      "url": "https://open.spotify.com/track/368ymVq33003r6t4n9GbRD"
+    },
+    {
+      "added_at": "2026-04-15 02:27:07",
+      "album": {
+        "name": "Eco friendly",
+        "url": "https://open.spotify.com/album/4JD9UxKxUa3Ar8FaX0QvUq"
+      },
+      "artists": [
+        {
+          "name": "Protocolo Snob",
+          "url": "https://open.spotify.com/artist/3Csf3ay5hdK5DpzwMPdHLE"
+        }
+      ],
+      "duration_ms": 204521,
+      "name": "Eco friendly",
+      "url": "https://open.spotify.com/track/4ce7x8EqfVRzdw7keMoRgZ"
+    },
+    {
+      "added_at": "2026-04-15 02:37:36",
+      "album": {
+        "name": "Pixels and Poetry",
+        "url": "https://open.spotify.com/album/4uAPVQZQXh00bC51MVWLgq"
+      },
+      "artists": [
+        {
+          "name": "The Galacticas",
+          "url": "https://open.spotify.com/artist/3OqM9wx94VLVevksMclrGI"
+        }
+      ],
+      "duration_ms": 206786,
+      "name": "Wilhelm Scream",
+      "url": "https://open.spotify.com/track/6utT15xnEIQAvvhtB4UTRv"
     }
   ],
   "unique_name": "Unsigned Alternative Rock",

@@ -4,13 +4,13 @@
 
 > This is Forrest Frank\. The essential tracks, all in one playlist.
 
-86 songs - 4 hr 6 min
+87 songs - 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1234](https://open.spotify.com/track/15uR6InJEo9zyl9DgVQTz0) | [Forrest.](https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [1234](https://open.spotify.com/album/0N8aFQLSzan3WfsyEnRjQ8) | 2:49 | 2025-04-09 | 2025-05-15 |
 | [ALIVE](https://open.spotify.com/track/7BQQqUAn7arwd5cbifdZcd) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CHILD OF GOD \(DELUXE\)](https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9) | 3:01 | 2025-04-09 |  |
-| [ALL THE TIME](https://open.spotify.com/track/56YasbqXFzP3ErHyhLtn26) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [ALL THE TIME](https://open.spotify.com/album/51tsjSE6RzCUli9QafZsH2) | 2:48 | 2025-04-09 |  |
+| [ALL THE TIME](https://open.spotify.com/track/56YasbqXFzP3ErHyhLtn26) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [ALL THE TIME](https://open.spotify.com/album/51tsjSE6RzCUli9QafZsH2) | 2:48 | 2025-04-09 | 2026-04-15 |
 | [Altar](https://open.spotify.com/track/0GSEIffBQyILlI6FPzn6G0) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CRY](https://open.spotify.com/album/2fs3VSm0Nnl2fwA6IpZ0oW) | 3:34 | 2025-04-18 |  |
 | [Altar](https://open.spotify.com/track/7MwkYzOeTZG3rtNWo6D7kK) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [Altar](https://open.spotify.com/album/1T43dJrSpIutVfxgb6PzEd) | 3:34 | 2025-04-09 | 2025-04-18 |
 | [ALWAYS](https://open.spotify.com/track/34FjdCbFv7A1R4vjbogjjb) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CHILD OF GOD](https://open.spotify.com/album/2xADl5pnbmSpdGiWR6CHfb) | 2:38 | 2025-04-09 |  |
@@ -87,6 +87,7 @@
 | [UP!](https://open.spotify.com/track/1Bgj8C4oHOR5M3wuzb6Mmq) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L) | [CHILD OF GOD](https://open.spotify.com/album/2xADl5pnbmSpdGiWR6CHfb) | 2:16 | 2025-04-09 |  |
 | [UPS & DOWNS](https://open.spotify.com/track/6qDDJzXk6lKxUNZHRLvJ87) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CHILD OF GOD \(DELUXE\)](https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9) | 2:41 | 2025-04-09 |  |
 | [WASTE SOME TIME](https://open.spotify.com/track/2ILaUBvEAGFGpEES1uHega) | [PARTY WAVE](https://open.spotify.com/artist/6iQ0SOfahRnTthPNGhgzkB), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [WASTE SOME TIME](https://open.spotify.com/album/5BiS7WuOT5QbqmU5OKXgJY) | 3:26 | 2026-04-05 |  |
+| [WEATHER REPORT](https://open.spotify.com/track/5GHe5K2Ohj64QFc5ImY4SD) | [PARTY WAVE](https://open.spotify.com/artist/6iQ0SOfahRnTthPNGhgzkB), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [DAWN PATROL](https://open.spotify.com/album/0DM6P83bgDbFuwNaZz09fh) | 0:38 | 2026-04-15 |  |
 | [what's the use?](https://open.spotify.com/track/0A2NUKgbIM6usESeRTk9Z4) | [Forrest.](https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [what's the use?](https://open.spotify.com/album/1U1MhjyeQmkdR7zR5xppYq) | 2:21 | 2025-04-09 | 2025-04-22 |
 | [Why Not Me](https://open.spotify.com/track/5KKzX8oO0W8K93M4is7wqO) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Forrest.](https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ) | [Nostalgia Pack](https://open.spotify.com/album/4eXz42L9QObRQHuJpQQ7OX) | 3:26 | 2025-04-09 | 2025-05-15 |
 | [WOKE UP THIS MORNING](https://open.spotify.com/track/47oAWX8VTZjq6tAJAr6iv1) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Nathan Davis Jr](https://open.spotify.com/artist/24p0hSTqoxNsy89rKNrSDj) | [CHILD OF GOD II](https://open.spotify.com/album/53E5Y0zhUmgDfX7LznfMKs) | 2:13 | 2025-05-16 | 2025-05-21 |

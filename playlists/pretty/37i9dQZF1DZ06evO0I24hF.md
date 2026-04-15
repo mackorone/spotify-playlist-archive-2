@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0I24hF.md) - [plain]
 
 > This is Gigi Perez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,290 likes - 18 songs - 1 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,309 likes - 18 songs - 1 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0I24hF.md) - [plain]
 | 14 | [Sleeping](https://open.spotify.com/track/3x8ZN5mCjRNuHkCgqRAaob) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [At The Beach, In Every Life](https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl) | 3:52 |
 | 15 | [The Man](https://open.spotify.com/track/4QjICO0GjMVJpK4OnxkAGz) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [How To Catch A Falling Knife](https://open.spotify.com/album/4y09e5XNcSik8Vfnam7Tj4) | 3:47 |
 | 16 | [Chemistry](https://open.spotify.com/track/4xhsAoMER10d3dcRFvT8kk) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [At The Beach, In Every Life](https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl) | 4:44 |
-| 17 | [Sally](https://open.spotify.com/track/04hrNRA9fRCWPNf8jjEUBJ) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [How To Catch A Falling Knife](https://open.spotify.com/album/4y09e5XNcSik8Vfnam7Tj4) | 4:33 |
-| 18 | [Karma](https://open.spotify.com/track/4W4UK2NM6pkYQ1NTfFnhBU) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [How To Catch A Falling Knife](https://open.spotify.com/album/4y09e5XNcSik8Vfnam7Tj4) | 4:58 |
+| 17 | [Karma](https://open.spotify.com/track/4W4UK2NM6pkYQ1NTfFnhBU) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [How To Catch A Falling Knife](https://open.spotify.com/album/4y09e5XNcSik8Vfnam7Tj4) | 4:58 |
+| 18 | [Sally](https://open.spotify.com/track/04hrNRA9fRCWPNf8jjEUBJ) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [How To Catch A Falling Knife](https://open.spotify.com/album/4y09e5XNcSik8Vfnam7Tj4) | 4:33 |
 
-Snapshot ID: `adrggAAAAADeyVL1tKanzPXiGe3+ixRe`
+Snapshot ID: `adwyAAAAAAA7lnHFEV+jaGaOMGlZskrc`

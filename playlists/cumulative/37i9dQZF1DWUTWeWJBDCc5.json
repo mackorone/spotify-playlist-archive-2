@@ -2633,6 +2633,28 @@
     },
     {
       "album": {
+        "name": "7TH YEAR: A Moment of Stillness in the Thorns",
+        "url": "https://open.spotify.com/album/55LBvRI4i4FUUf5dYKVMHk"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        },
+        {
+          "name": "Vinida Weng",
+          "url": "https://open.spotify.com/artist/6oYvpkS6pM9ts4nbXRaINg"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151733,
+      "name": "Take Me to Nirvana (feat. Vinida Weng)",
+      "url": "https://open.spotify.com/track/7d2WBtRFNknx11P6MwLomO"
+    },
+    {
+      "album": {
         "name": "THUM",
         "url": "https://open.spotify.com/album/0fz4N5DS1SJ6jbNABL9UMr"
       },

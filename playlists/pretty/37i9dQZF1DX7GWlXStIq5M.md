@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 
 > Os hits e novos nomes do pop dividindo o mesmo palco! Foto: Day Limns
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,706 likes - 70 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,678 likes - 70 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Nova: Energia](https://open.spotify.com/track/6r1xdekDojx9KtBrzTOLbj) | [Podpah Records](https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829), [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc), [Los Brasileros](https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW), [FIVE](https://open.spotify.com/artist/5KaMOAr32JYTS74wxfx84K) | [Nova: Energia](https://open.spotify.com/album/5bwXJ7z9FAv0Tyw9v8Zcy8) | 2:48 |
+| 1 | [NOVA: Energia](https://open.spotify.com/track/6r1xdekDojx9KtBrzTOLbj) | [Podpah Records](https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829), [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc), [Los Brasileros](https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW), [FIVE](https://open.spotify.com/artist/5KaMOAr32JYTS74wxfx84K) | [NOVA: Energia](https://open.spotify.com/album/5bwXJ7z9FAv0Tyw9v8Zcy8) | 2:48 |
 | 2 | [CHARME](https://open.spotify.com/track/2saiiXH63lUebPVEFf0Ysa) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [CHARME](https://open.spotify.com/album/52UMGPQVJjiXH8Md6byhwh) | 3:03 |
 | 3 | [Saí para ver o mar](https://open.spotify.com/track/3IFWQxX0TlPCKlyju1kAHB) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L), [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Saí para ver o mar](https://open.spotify.com/album/2eHFDRyLAzE0XvfFniWO5O) | 3:11 |
 | 4 | [O Que Sobrou Do Amor?](https://open.spotify.com/track/1yp6gTre5ZgNcU7jhoM7uS) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN), [Léo Foguete](https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08) | [O Que Sobrou Do Amor?](https://open.spotify.com/album/2QJYzWWasjxoyCNhD4zw84) | 2:26 |

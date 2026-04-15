@@ -1,12 +1,12 @@
 {
   "description": "This is Lefty Sm. The essential tracks, all in one playlist.",
-  "num_followers": 214725,
+  "num_followers": 214746,
   "original_name": "This Is Lefty Sm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adrggAAAAACU2H4xWNb5X/dVDPN2bFcw",
+  "snapshot_id": "adwyAAAAAACv7YZRb6VBT34eZkr+wVOa",
   "tracks": [
     {
       "added_at": null,
@@ -435,6 +435,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Volvi\u00f3 A Amanecer",
+        "url": "https://open.spotify.com/album/4djLVh799E7iDt4qyKG7Cr"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 222066,
+      "name": "Volvi\u00f3 A Amanecer",
+      "url": "https://open.spotify.com/track/0dcVgVt6fPoJnZl52xUG4a"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Necesidad",
         "url": "https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 292000,
       "name": "Mi Decepci\u00f3n",
       "url": "https://open.spotify.com/track/0n5T7FP05NC2ikWM8Bivkp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Volvi\u00f3 A Amanecer",
-        "url": "https://open.spotify.com/album/4djLVh799E7iDt4qyKG7Cr"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 222066,
-      "name": "Volvi\u00f3 A Amanecer",
-      "url": "https://open.spotify.com/track/0dcVgVt6fPoJnZl52xUG4a"
     },
     {
       "added_at": null,
@@ -579,6 +579,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nada Es Perfecto",
+        "url": "https://open.spotify.com/album/0KjxP6TB25u8qxDLfnEiJq"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 188125,
+      "name": "Nada Es Perfecto",
+      "url": "https://open.spotify.com/track/0qn3qZwkLKB6zelSSdUUX9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Alzypher Vol. 13",
         "url": "https://open.spotify.com/album/3ECiGqnRoKcmatFalPTO82"
       },
@@ -611,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nada Es Perfecto",
-        "url": "https://open.spotify.com/album/0KjxP6TB25u8qxDLfnEiJq"
+        "name": "Mi Camino",
+        "url": "https://open.spotify.com/album/6OgELu9sCBTURNGzdykl2v"
       },
       "artists": [
         {
@@ -620,9 +636,9 @@
           "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
         }
       ],
-      "duration_ms": 188125,
-      "name": "Nada Es Perfecto",
-      "url": "https://open.spotify.com/track/0qn3qZwkLKB6zelSSdUUX9"
+      "duration_ms": 217913,
+      "name": "Mi Camino",
+      "url": "https://open.spotify.com/track/0JUO8vzP1ggpnA3DODSiNC"
     },
     {
       "added_at": null,
@@ -647,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Camino",
-        "url": "https://open.spotify.com/album/6OgELu9sCBTURNGzdykl2v"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 217913,
-      "name": "Mi Camino",
-      "url": "https://open.spotify.com/track/0JUO8vzP1ggpnA3DODSiNC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ahora Estoy Mejor",
         "url": "https://open.spotify.com/album/5BsrTRp4TvgUwRLsvlyKuF"
       },
@@ -679,6 +679,22 @@
       "duration_ms": 274172,
       "name": "Ahora Estoy Mejor",
       "url": "https://open.spotify.com/track/0Wg5AVKIIrnGq25aYU7Inp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Misma Bandera",
+        "url": "https://open.spotify.com/album/4BchMOSQZkIWEkY9G5lZ6e"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 221096,
+      "name": "La Misma Bandera",
+      "url": "https://open.spotify.com/track/03BF74w1BbBJXQvJKVElYe"
     },
     {
       "added_at": null,
@@ -703,22 +719,6 @@
       "duration_ms": 346038,
       "name": "Sin Ti",
       "url": "https://open.spotify.com/track/0E7Ue4jKLBSNnHfpb5qLS0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Misma Bandera",
-        "url": "https://open.spotify.com/album/4BchMOSQZkIWEkY9G5lZ6e"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 221096,
-      "name": "La Misma Bandera",
-      "url": "https://open.spotify.com/track/03BF74w1BbBJXQvJKVElYe"
     },
     {
       "added_at": null,

@@ -2,7 +2,7 @@
 
 ### [Hot Hits Morocco](https://open.spotify.com/playlist/37i9dQZF1DWYHO8PTSQ9fM)
 
-> This is Morocco right now\. Cover: Manal
+> This is Morocco right now\. Cover: Dave & Tems
 
 529 songs - 1 day 4 hr 3 min
 

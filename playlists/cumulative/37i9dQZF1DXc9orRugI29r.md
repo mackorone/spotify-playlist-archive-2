@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXc9orRugI29r.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXc9orRugI29r) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXc9orRugI29r)
 
-### [HOT NOW \- KATSEYE ](https://open.spotify.com/playlist/37i9dQZF1DXc9orRugI29r)
+### [HOT NOW \- DANNA](https://open.spotify.com/playlist/37i9dQZF1DXc9orRugI29r)
 
-> LAS CANCIONES MÁS 🔥🔥🔥  WELCOME TO KATSEYE WORLD
+> LAS CANCIONES MÁS 🔥🔥🔥
 
-1,084 songs - 2 day 9 hr 31 min
+1,085 songs - 2 day 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,7 +156,7 @@
 | [BYONCE](https://open.spotify.com/track/4Uf3qct71nYsNivPLFK3pZ) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy) | [BYONCE](https://open.spotify.com/album/0ksDLflW5ukV4g2kruaktp) | 2:19 | 2025-08-22 | 2025-09-13 |
 | [Bésame](https://open.spotify.com/track/0TsqrYn4ta8Xkvez2oHx7B) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Bésame](https://open.spotify.com/album/0jmILM3yDH04Forg1iU1Kl) | 3:22 | 2025-05-23 | 2025-07-12 |
 | [búscame otra vez](https://open.spotify.com/track/1S0yKut4XZD1ai8TefQemv) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [búscame otra vez](https://open.spotify.com/album/6cCUaGJQagrD3mwnVhRJax) | 4:58 | 2025-01-17 | 2025-02-07 |
-| [Cabrón Y Medio](https://open.spotify.com/track/4U13UQFjLoB8heUDkGx7lB) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Cabrón Y Medio](https://open.spotify.com/album/6ajjSA5aKCb0yHjLLrVYw6) | 2:46 | 2026-04-03 |  |
+| [C Y Medio](https://open.spotify.com/track/4U13UQFjLoB8heUDkGx7lB) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [C Y Medio](https://open.spotify.com/album/6ajjSA5aKCb0yHjLLrVYw6) | 2:46 | 2026-04-03 |  |
 | [Cachito](https://open.spotify.com/track/5S4rNAIyjLyUVdrGWy48Ub) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Cachito](https://open.spotify.com/album/0OcBXPOOzTDvQKUJxnQSvf) | 3:08 | 2022-01-27 | 2022-03-05 |
 | [Cactus](https://open.spotify.com/track/213Q7w8RMi5qbj18kvWasy) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Cactus](https://open.spotify.com/album/4tENygDaMnwk2xajkMm5l1) | 3:03 | 2024-02-01 | 2024-02-27 |
 | [Cada Que...](https://open.spotify.com/track/1IDfAcL63xIRjG4Q98yTfn) | [Belanova](https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp) | [Fantasía Pop](https://open.spotify.com/album/07Lk9Pcu8vXodLrPiRTsKQ) | 3:43 | 2025-08-14 | 2025-09-27 |
@@ -1080,6 +1080,7 @@
 | [yes, and? \(with Mariah Carey\)](https://open.spotify.com/track/5LBv48NNyHsknRYwFWC361) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [yes, and?](https://open.spotify.com/album/7cE0lgNHmBxutHd5g4D3q8) | 3:34 | 2024-02-16 | 2024-03-09 |
 | [Yet To Come](https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:13 | 2022-12-15 | 2023-01-14 |
 | [yo pr1mero](https://open.spotify.com/track/0O0kmHHBUG4YCqrKvMnmQy) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [yo pr1mero](https://open.spotify.com/album/0iD5NLijJ6vFTQO6OlEk7i) | 3:14 | 2023-02-01 | 2023-04-14 |
+| [YOU COULD BE THAT BOY](https://open.spotify.com/track/6k5dlT8rllGwzWSAbjtySZ) | [DANNA](https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc) | [LUCID DREAMS](https://open.spotify.com/album/5jIZEQP2E5YkW1Fp5vRNYj) | 3:14 | 2026-04-14 |  |
 | [Young Miko: Bzrp Music Sessions, Vol\. 58](https://open.spotify.com/track/6VciS3dRMpZhJiDxT8ArFi) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Young Miko: Bzrp Music Sessions, Vol\. 58](https://open.spotify.com/album/0HMTQPl6rJmP7sQEaRYHRo) | 3:07 | 2024-01-11 | 2024-07-16 |
 | [Younger You \- From the "Hannah Montana 20th Anniversary Special"](https://open.spotify.com/track/4kK5moArviedZ9LcKIDu1Z) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Younger You \(From the "Hannah Montana 20th Anniversary Special"\)](https://open.spotify.com/album/3tlEOoxO3h3mkLyLgftdz6) | 2:47 | 2026-03-27 |  |
 | [Zun Zun](https://open.spotify.com/track/7uQ3MlGpYURF2ED8E5xFIa) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Mixteip](https://open.spotify.com/album/315R7c8EPwJiT11OS0t4Xk) | 3:16 | 2025-07-18 | 2025-08-23 |

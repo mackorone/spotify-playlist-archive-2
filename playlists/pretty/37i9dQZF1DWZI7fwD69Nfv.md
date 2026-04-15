@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZI7fwD69Nfv.md) - [plain]
 
 > surtido rico de rolitas para acompañar tu noche mexicana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 595,585 likes - 125 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 595,597 likes - 125 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

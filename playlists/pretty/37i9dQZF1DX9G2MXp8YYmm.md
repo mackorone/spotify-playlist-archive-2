@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G2MXp8YYmm.md) - [plain]
 
 > Pop'un sevilen isimleri\. Kapak: Murat Boz x Melek Mosso
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,104 likes - 99 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,143 likes - 99 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

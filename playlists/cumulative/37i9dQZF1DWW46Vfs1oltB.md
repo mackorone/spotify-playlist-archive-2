@@ -2,9 +2,9 @@
 
 ### [KrOWN](https://open.spotify.com/playlist/37i9dQZF1DWW46Vfs1oltB)
 
-> New & Hottest K\-Hip Hop is here\. \(Cover: T.O.P\)
+> New & Hottest K\-Hip Hop is here\. \(Cover: Woo\(우원재\)\)
 
-1,865 songs - 4 day 3 hr 53 min
+1,867 songs - 4 day 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,6 +255,7 @@
 | [Bubble Gum](https://open.spotify.com/track/3JrvloWdt3aQNvHz9eGTqc) | [Jo Gwangil](https://open.spotify.com/artist/26a11HcBOVeX5KANeiuMjY) | [Bubble Gum](https://open.spotify.com/album/6PdpK07kj9Uf5Bs2Xm0isj) | 3:04 | 2022-10-23 | 2022-12-10 |
 | [Buck](https://open.spotify.com/track/1BCONvj86ada7Wbr7v0irk) | [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [DIFF](https://open.spotify.com/album/6mU3As6giMDJU8kV6Hx65B) | 2:04 | 2023-04-18 | 2023-11-04 |
 | [Bucket List \(Feat\. Skinny Brown\)](https://open.spotify.com/track/0ZUa8tF0zbGNvnST6xKHUg) | [Han Yo Han](https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX) | [Time Machine](https://open.spotify.com/album/5zKdvQXlzgQfpHtfinxUgZ) | 3:41 | 2022-11-10 | 2023-01-20 |
+| [Bullshit \(Feat\. Kid Milli, TOMMY YANG\)](https://open.spotify.com/track/69SJyODjpZhYDLwGJoAdox) | [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J), [TOMMY YANG](https://open.spotify.com/artist/4AO9H2yVIGvb6aTpQ7jW0y) | [mp3](https://open.spotify.com/album/4YOpO4iotuFawWYcUHvlYF) | 2:37 | 2026-04-14 |  |
 | [BUM \(feat\. Chillin Homie & Kid Milli\)](https://open.spotify.com/track/3bZewrcZbZYf7h6udWoDsr) | [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs), [Chillin Homie](https://open.spotify.com/artist/5f48MQLr5eOXHcR4lFE1BM), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [BUM \(feat\. Chillin Homie & Kid Milli\)](https://open.spotify.com/album/7w9mPTFLGn8yGp1CwKNEAO) | 3:06 | 2022-03-26 | 2022-05-06 |
 | [Burn](https://open.spotify.com/track/1XcedEIfAAVwV6RS0iDuOj) | [Mckdaddy](https://open.spotify.com/artist/3jEfM7ePpwC5KcJHMseRqA), [Hash Swan](https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg), [Gwangil Jo](https://open.spotify.com/artist/49cCO8Hy5heGnXj9hb6KEW) | [RAP:PUBLIC Episode.2](https://open.spotify.com/album/2EnJRg31hBB44HTbl7MpA4) | 4:17 | 2024-12-04 | 2025-04-25 |
 | [BURN \(Feat\. The Quiett, Leellamarz, ZENE THE ZILLA\)](https://open.spotify.com/track/1xUqeiM9g0tlsiVom7Jwzn) | [HD BL4CK](https://open.spotify.com/artist/0hcNEkXJ9p0fVTsuFeNbZd), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [ZENE THE ZILLA](https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN) | [BURN \(Feat\. The Quiett, Leellamarz, ZENE THE ZILLA\)](https://open.spotify.com/album/1G2Pddm5yiy6PzdiovYxLP) | 2:37 | 2025-09-08 | 2025-12-09 |
@@ -325,6 +326,7 @@
 | [Cockroach](https://open.spotify.com/track/3zE0IW0EkOqKT0pk3LtLdn) | [Doplamingo](https://open.spotify.com/artist/1T7DSjrtX5ydHFT9xJOQCn) | [The Gateless Gate](https://open.spotify.com/album/7x50GGhigFVzm7NGuCOmtk) | 3:06 | 2021-12-29 | 2022-06-05 |
 | [Cockroaches](https://open.spotify.com/track/6TEgGvEyh2t45BPdeCAQp7) | [J\-Tong](https://open.spotify.com/artist/70DqoppP3xK7LgtYiccxfZ), [Hukky Shibaseki](https://open.spotify.com/artist/6QcVY6zyMPqZO23XcxNZng) | [Cockroaches](https://open.spotify.com/album/1tUHzCvOz3e091IitiXYK4) | 1:53 | 2026-01-18 | 2026-01-20 |
 | [Cockroaches \(feat\. Sikboy\)](https://open.spotify.com/track/3R7Mqg1N1JTDOzkNmP1YvR) | [Yonge Jaundice](https://open.spotify.com/artist/0ESfTnqcM5os6xjx05jjYT), [Max Kim](https://open.spotify.com/artist/6zKnUkgWMqNMQ3g88g9iqR), [Sikboy](https://open.spotify.com/artist/7yhu8y8MIhKA3I4n02MdBQ) | [Drop The Bit The 3rd round Pt\. 1](https://open.spotify.com/album/4qymBh4IciyjJwgzwIVFUX) | 3:08 | 2022-06-03 | 2022-06-07 |
+| [Cocky \(Feat\. BIBI\)](https://open.spotify.com/track/0f6Es3lVLNI4niwc8QsHRF) | [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [mp3](https://open.spotify.com/album/4YOpO4iotuFawWYcUHvlYF) | 2:31 | 2026-04-14 |  |
 | [COD \(prod\. KayArchon\)](https://open.spotify.com/track/5VlypxNApg0yJOL4zuB7vt) | [Fleeky Bang](https://open.spotify.com/artist/4whHCEnN1w4cexp2J7h4OC) | [COD](https://open.spotify.com/album/5ssQa9mK2mDH8z0mwyx6HS) | 1:54 | 2025-11-04 | 2026-03-13 |
 | [Coffee](https://open.spotify.com/track/44NrYLVtWcwizNgFva0zUt) | [Khakii](https://open.spotify.com/artist/08c5z2rVpcPu7QylOxQCFA) | [Home](https://open.spotify.com/album/1uDSyPokcsWjykNxR61SbI) | 3:00 | 2024-06-14 | 2024-09-20 |
 | [Coin Laundry](https://open.spotify.com/track/7c15oEQBX6E0hGdDSsGxZy) | [Donutman](https://open.spotify.com/artist/2xH4dYFMVhdOGIhgIWonbc) | [Coin Laundry](https://open.spotify.com/album/1WiFGqAYwIO3Zb16PXe9Q3) | 2:44 | 2021-12-21 | 2022-07-02 |

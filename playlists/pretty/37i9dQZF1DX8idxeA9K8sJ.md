@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8idxeA9K8sJ.md) - [plain]
 
 ### [Los 80 México](https://open.spotify.com/playlist/37i9dQZF1DX8idxeA9K8sJ)
 
-> Recuerda los éxitos ochenteros que sonaron en la radio mexicana\. Flans en portada.
+> Recuerda los éxitos ochenteros que sonaron en la radio mexicana\. Luis Miguel en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,068,537 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,068,735 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

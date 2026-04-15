@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le rap québécois, servi tout frais tout chaud\. Photo: ENIMA
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,846 likes - 93 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,849 likes - 93 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 69 | [ian Hiding](https://open.spotify.com/track/53iCKEXoJaG7mtVeR14Y3D) | [Flintz Beats](https://open.spotify.com/artist/3yCzt3GCafBhEVHNakTY2u), [Trezmane](https://open.spotify.com/artist/20Ne7zznHZWmwVQLhx5DdQ) | [ian Hiding](https://open.spotify.com/album/3NbxbVqJ0xxODEjjLe5a6s) | 3:04 |
 | 70 | [À L'OUEST](https://open.spotify.com/track/7xiwAJ6PqGVpASY5X1AGrZ) | [Vamo](https://open.spotify.com/artist/4PshpIdPecmtvwkFkwpCS9) | [À L'OUEST](https://open.spotify.com/album/2Ttm5xtQh4NFsiMzb71qv9) | 1:55 |
 | 71 | [dal kob](https://open.spotify.com/track/7AkYc7a3Bx18FW8wuSLhEn) | [tifloccon](https://open.spotify.com/artist/3g8OUKaanhW4y455qhqlXN), [Mike Shabb](https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW) | [vrai rap keb!](https://open.spotify.com/album/268JgU3VzV6wcGnGCBBQt9) | 1:56 |
-| 72 | [Peace Out](https://open.spotify.com/track/3pGGpYfzPhhwDL2XtyRkqJ) | [BlackLife](https://open.spotify.com/artist/7rgPkJCE9ppxsVKX6szjRZ), [Tel Kel](https://open.spotify.com/artist/1pT5N4DANkbWPnrXQuDJPM) | [Peace Out](https://open.spotify.com/album/68OwgFLfcxZPNWVtWXUPK7) | 2:34 |
+| 72 | [Peace Out](https://open.spotify.com/track/3pGGpYfzPhhwDL2XtyRkqJ) | [Blacklife](https://open.spotify.com/artist/7rgPkJCE9ppxsVKX6szjRZ), [Tel Kel](https://open.spotify.com/artist/1pT5N4DANkbWPnrXQuDJPM) | [Peace Out](https://open.spotify.com/album/68OwgFLfcxZPNWVtWXUPK7) | 2:34 |
 | 73 | [risk](https://open.spotify.com/track/0BnFZYKfuxHDazunCJ7sXK) | [Franz Keloh](https://open.spotify.com/artist/0QtshFoajFl0OOk8ZydKdO), [Meech20x50](https://open.spotify.com/artist/6HaK8FDVTViIvrl4CwWzGV) | [risk](https://open.spotify.com/album/2d5oOjmP6kLukYqGhHObIf) | 2:22 |
 | 74 | [ROYALE CYPHER](https://open.spotify.com/track/1mlHDvjj3Z8wNrg5bHuNdx) | [DJ Horg](https://open.spotify.com/artist/2KqmShIrj1DYdVI9jgvURR), [Peach Gyal](https://open.spotify.com/artist/4kkTj4dFLwPoNB0YVXhN7A), [Sensei H](https://open.spotify.com/artist/4rSSnUNsjRSMr0TbcjVgkN), [Natty Soyha](https://open.spotify.com/artist/6PH0Jr8okCIiiSQq0oW5rk), [Sereni\-T](https://open.spotify.com/artist/0LM21BBRf2zIOSAJxpWmVV), [Sloan Lucas](https://open.spotify.com/artist/12weXKtxUbWsbb1AqlZ3lH), [Princess Thuggy$h](https://open.spotify.com/artist/46YvjHjb7UwyIHrYIYAgVi), [Calamine](https://open.spotify.com/artist/1eYuV6IDT7vYuBdIF0SgjJ), [Ruby Rizzle](https://open.spotify.com/artist/1LtObgaoN3Pr842rJoPCGy), [MCM](https://open.spotify.com/artist/0lp5ESFVVH1DGSwb2LtnfD), [Jenny Salgado](https://open.spotify.com/artist/3ChZfsl19VV33AKB72HoOu) | [ROYALE CYPHER](https://open.spotify.com/album/7Ad49g9wM1yKY5DWD9axHq) | 4:31 |
 | 75 | [Bruni](https://open.spotify.com/track/6h352cjmgl4I8ZAoZ9Cz5h) | [Obia le Chef](https://open.spotify.com/artist/2gHIHPqWAWEDnmT2qSTEK3), [Neutron The Plug](https://open.spotify.com/artist/5bp7CO6X0tau0cUu4vXg4P) | [MICRODOSE](https://open.spotify.com/album/7LaCltkaeiOaaPBZgLmGGL) | 2:25 |

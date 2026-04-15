@@ -4,7 +4,7 @@
 
 > This is Victor Ray\. The essential tracks, all in one playlist.
 
-28 songs - 1 hr 28 min
+29 songs - 1 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,12 +16,13 @@
 | [Disappear](https://open.spotify.com/track/3GaogYQuDRFs0qhtriRvxX) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [I AM\. MIXTAPE](https://open.spotify.com/album/1fj6GxAiOwzGlT16GTQ5X6) | 3:25 | 2026-02-15 |  |
 | [Falling Into Place](https://open.spotify.com/track/0XPMEaoR4neOwCvmGx54At) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ), [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [I AM\. MIXTAPE](https://open.spotify.com/album/1fj6GxAiOwzGlT16GTQ5X6) | 3:20 | 2026-04-01 |  |
 | [Falling Into Place \(ft\. Debbie\)](https://open.spotify.com/track/6Q5Tzu7kSzLjVHVAWwnT0N) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ), [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [Falling Into Place \(ft\. Debbie\)](https://open.spotify.com/album/6sENhdUvrgQR2wX3YTA5Ed) | 3:20 | 2025-10-28 | 2026-04-01 |
-| [Halfway There](https://open.spotify.com/track/6yp2xpP4aqgTpxzHdVid1M) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Halfway There](https://open.spotify.com/album/3uFPkuJLDLRpugR3itMBZY) | 3:15 | 2025-10-28 |  |
+| [Halfway There](https://open.spotify.com/track/6yp2xpP4aqgTpxzHdVid1M) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Halfway There](https://open.spotify.com/album/3uFPkuJLDLRpugR3itMBZY) | 3:15 | 2025-10-28 | 2026-04-15 |
+| [Halfway There](https://open.spotify.com/track/759be6jBpD7jw2BGX4yVuw) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [I AM\. MIXTAPE](https://open.spotify.com/album/1fj6GxAiOwzGlT16GTQ5X6) | 3:16 | 2026-04-15 |  |
 | [Hearts Break and People Change](https://open.spotify.com/track/6HpyiTjKHVSSsgL6yCFbLc) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Hearts Break and People Change](https://open.spotify.com/album/7jcAisouiCZza66ewku13M) | 3:29 | 2025-10-28 |  |
 | [Hollow](https://open.spotify.com/track/6d0nwrhZwPGRy9RptimFW6) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Hollow](https://open.spotify.com/album/4dVnjYdYgCGrdKoRG7dWn3) | 3:23 | 2025-10-28 |  |
 | [House Of Cards](https://open.spotify.com/track/2NSsAlLowF4oBBBktsAwM7) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17), [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [House Of Cards](https://open.spotify.com/album/1l1l8xo7IAxCor2QPYM0Mg) | 2:30 | 2026-04-12 |  |
 | [It Only Cost Everything](https://open.spotify.com/track/1kT0mt9AstPDGUJCNiQI0T) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [It Only Cost Everything](https://open.spotify.com/album/0ciuSJpaytL7XoDSyt4jhl) | 2:28 | 2025-10-28 |  |
-| [Like The Moon](https://open.spotify.com/track/38UHOSV8sYkMCGM8wPo7Eq) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [I AM\. MIXTAPE](https://open.spotify.com/album/1fj6GxAiOwzGlT16GTQ5X6) | 2:57 | 2026-03-20 |  |
+| [Like The Moon](https://open.spotify.com/track/38UHOSV8sYkMCGM8wPo7Eq) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [I AM\. MIXTAPE](https://open.spotify.com/album/1fj6GxAiOwzGlT16GTQ5X6) | 2:57 | 2026-03-20 | 2026-04-15 |
 | [Like The Moon](https://open.spotify.com/track/5IMIzerUwHmzMW9sgjWSj7) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Like The Moon](https://open.spotify.com/album/0u1GmTFsk4E3hirXBetbpk) | 2:57 | 2025-10-28 | 2026-03-20 |
 | [Lose Myself](https://open.spotify.com/track/1uqgUlVmfomaH1IEeDOC5y) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [I TRIED.](https://open.spotify.com/album/3ZrMVmVgaAzizc3MzotdvN) | 3:05 | 2025-10-28 | 2026-03-25 |
 | [Off Balance](https://open.spotify.com/track/2CDiN7sx4xHa8H7360GAcJ) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Off Balance](https://open.spotify.com/album/7E8I4TyooemC9brsZzMP6w) | 3:10 | 2025-10-28 | 2026-04-11 |

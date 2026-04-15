@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0COFso7q0D.md) - [plain]
 
 > La playlist sin fronteras, elevando a la Música Mexicana\. Cover: Hermanos Espinoza
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,260,650 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,259,980 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0COFso7q0D.md) - [plain]
 | 20 | [3 Noches](https://open.spotify.com/track/2tzPQsyc5iAuhM6cdHE9dR) | [Christian Ortega](https://open.spotify.com/artist/528MXn4CmZm4mLZ9vutc1b), [Ramses Rico](https://open.spotify.com/artist/6J3O2ixka3HAaIuRrR9YQU) | [Estilo Bropza \(Deluxe\)](https://open.spotify.com/album/3X0MaMl8ue8BC14CAD4mws) | 3:32 |
 | 21 | [Pvta Luna](https://open.spotify.com/track/33MeEaRCeIQMSRyFTr5ZJU) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Pvta Luna](https://open.spotify.com/album/0Cw2JMk1YfzkuXk7B1yBYa) | 3:18 |
 | 22 | [Ya Borracho](https://open.spotify.com/track/4NyUIohBa3CEMGcXURYSOh) | [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [Noches Sin Fin](https://open.spotify.com/album/465rqQUVN9J9KTCphdfAKM) | 2:38 |
-| 23 | [Cabrón Y Medio](https://open.spotify.com/track/4U13UQFjLoB8heUDkGx7lB) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Cabrón Y Medio](https://open.spotify.com/album/6ajjSA5aKCb0yHjLLrVYw6) | 2:46 |
+| 23 | [C Y Medio](https://open.spotify.com/track/4U13UQFjLoB8heUDkGx7lB) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [C Y Medio](https://open.spotify.com/album/6ajjSA5aKCb0yHjLLrVYw6) | 2:46 |
 | 24 | [london](https://open.spotify.com/track/6XvhcdURkbksWXvJbUWa0F) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Armenta](https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX) | [london](https://open.spotify.com/album/1jet2VzblKPPGhEwoBzvKX) | 3:13 |
 | 25 | [niña de CASA](https://open.spotify.com/track/5opUKcXwkwqbeMdMmrmnOu) | [EL DE LA TINTA](https://open.spotify.com/artist/6VNymaTBHnYKnBfST2A5Cv), [Uriel AR](https://open.spotify.com/artist/1YqbztCgjTZ6GcrQ6cDI3K) | [niña de CASA](https://open.spotify.com/album/1JHFum8A3Frqnu42fs5caP) | 3:33 |
 | 26 | [MAMÁ](https://open.spotify.com/track/6iCDYz5bAAugTv8KiIrDsr) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [MAMÁ](https://open.spotify.com/album/0bzB374WBUdseskQbfvBIY) | 2:34 |

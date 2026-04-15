@@ -2,7 +2,7 @@
 
 ### [포근 편안 폭신 \(Cozy K\-Pop\)](https://open.spotify.com/playlist/37i9dQZF1DWSvk1AxYsbvo)
 
-> 이불 안 속처럼 포근하고 편안한 음악들과 함께 폭신한 기분을 만끽하세요\. \(Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable.\)
+> 🐹햄찌와 함께 이불 안 속처럼 포근하고 편안한 음악들과 함께 폭신한 기분을 만끽하세요\. \(Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable with Haemjji.\)
 
 293 songs - 17 hr 1 min
 

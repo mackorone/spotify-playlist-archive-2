@@ -4,7 +4,7 @@
 
 > This is Mitski\. The essential tracks, all in one playlist.
 
-74 songs - 3 hr 36 min
+75 songs - 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Bug Like an Angel](https://open.spotify.com/track/45KMdPDdZTxcXW3lw10R70) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 3:32 | 2024-01-24 | 2026-02-11 |
 | [Bug Like an Angel](https://open.spotify.com/track/7JXl7bdGiIuSlRKAVoZopE) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Bug Like an Angel](https://open.spotify.com/album/6Nrv8yzcvGdKfmAcIxuV1A) | 3:32 | 2023-07-28 | 2023-09-26 |
 | [Cats](https://open.spotify.com/track/6CAb8TuA5yvfXoNWCUZdgh) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Nothing's About to Happen to Me](https://open.spotify.com/album/2M9F3AsbWy7n4LwmJ8pqEu) | 2:48 | 2026-03-01 |  |
-| [Class of 2013](https://open.spotify.com/track/39bPZbBmJfBgNJUtbOua0D) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Retired from Sad, New Career in Business](https://open.spotify.com/album/7K4SuWzgUEweJScduBcC6f) | 1:49 | 2023-05-02 |  |
+| [Class of 2013](https://open.spotify.com/track/39bPZbBmJfBgNJUtbOua0D) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Retired from Sad, New Career in Business](https://open.spotify.com/album/7K4SuWzgUEweJScduBcC6f) | 1:49 | 2023-05-02 | 2026-04-15 |
+| [Class of 2013 \- Audiotree Live Version](https://open.spotify.com/track/76l5r75wE5kvPdDsksAr62) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK), [Audiotree](https://open.spotify.com/artist/1j8QyWpOJKAe6Iw2KvEg2j) | [Mitski on Audiotree Live](https://open.spotify.com/album/5lbEsVQlcvV5tT8KBllPdh) | 2:11 | 2026-04-15 |  |
 | [Cop Car](https://open.spotify.com/track/7DLCgotDOZZyiW4cuL1sgn) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Cop Car](https://open.spotify.com/album/1IGzUKAM596CnZN0zApFmd) | 3:03 | 2024-02-20 | 2024-03-30 |
 | [Cop Car](https://open.spotify.com/track/76uPM2ijcGSNinnRQmWMJF) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Cop Car](https://open.spotify.com/album/38W7WU8kz5SHqcNdx9ZtmC) | 3:08 | 2024-03-29 |  |
 | [Coyote, My Little Brother \- Spotify Singles](https://open.spotify.com/track/63K1QJkBcXG0qvipbEIqY0) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Spotify Singles](https://open.spotify.com/album/7424HIQbzV8bI0JSYwTFni) | 3:02 | 2024-03-14 | 2026-02-12 |

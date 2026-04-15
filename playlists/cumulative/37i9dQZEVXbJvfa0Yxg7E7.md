@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-2,606 songs - 5 day 16 hr 19 min
+2,607 songs - 5 day 16 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,6 +230,7 @@
 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 | 2024-01-20 | 2024-04-07 |
 | [Beautiful Wave](https://open.spotify.com/track/1jfnMuuwGBxZtaaMSdDF9n) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [Aaron Smith](https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl) | [Beautiful Wave](https://open.spotify.com/album/3N6aCvfvY4TYEj8csu460O) | 3:28 | 2021-11-14 | 2021-11-16 |
 | [BeautiFull](https://open.spotify.com/track/6x9k1cXLTqDWagE7voMWv1) | [TIX](https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9) | [BeautiFull](https://open.spotify.com/album/7zNW7WJZ1BPQRoPUqgNopV) | 2:44 | 2021-06-27 | 2021-08-31 |
+| [Beauty And A Beat](https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Believe](https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN) | 3:47 | 2026-04-14 |  |
 | [BED](https://open.spotify.com/track/0siYMEsGrzzzlWLXK5zJfS) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [BED](https://open.spotify.com/album/36tML2tWjDrbLW4FgrX17U) | 2:58 | 2021-05-10 | 2021-05-23 |
 | [Bed Chem](https://open.spotify.com/track/1UHS8Rf6h5Ar3CDWRd3wjF) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:51 | 2024-09-03 | 2025-04-04 |
 | [Bedre sånn](https://open.spotify.com/track/3s7mvEk28OEEXjYRTrqoYg) | [Makosir](https://open.spotify.com/artist/0G7lEqLdSyAiUGMB1P9nsh), [Stig Brenner](https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf) | [Bedre sånn](https://open.spotify.com/album/1rQaY5mrGgUhouS76xCBKC) | 2:37 | 2025-02-22 | 2025-03-03 |
@@ -1196,7 +1197,7 @@
 | [Ja, Vi Elsker Dette Landet](https://open.spotify.com/track/6BceIzVKILTDorOHoqTpgs) | [Bodø Domkor](https://open.spotify.com/artist/6QQCeD7ZErV1xQnlyjaFHF) | [Fagert Er Landet](https://open.spotify.com/album/4WQyN7QOUpJwQXgWoxldJI) | 3:11 | 2025-05-17 | 2025-05-20 |
 | [Ja, Vi Elsker Dette Landet](https://open.spotify.com/track/0GEeVI8Wa1KXGTStgBUerG) | [N/A](https://open.spotify.com/artist/0TssKMrMlrXSxIwNrghB1V), [Bodø Domkor](https://open.spotify.com/artist/6QQCeD7ZErV1xQnlyjaFHF) | [Fagert Er Landet](https://open.spotify.com/album/4xd4aloOZg3LAxNnhDPuFB) | 3:11 | 2021-05-19 | 2024-05-20 |
 | [Ja, vi elsker dette landet \- alle 8 vers](https://open.spotify.com/track/4y9ul73wG14TMt3lCeosQE) | [Rikard Nordraak](https://open.spotify.com/artist/1HIBjVzHAL7l9dOnKllH5J), [Bjørnstjerne Bjørnson](https://open.spotify.com/artist/11LPmaVCc0NqqKm7x4mDeb), [Forsvarets Stabsmusikkorps](https://open.spotify.com/artist/4DSDUs4nuqsHmS4LisPi9U), [THE STAFF BAND OF THE NORWEGIAN ARMED FORCES](https://open.spotify.com/artist/3xYnbdPOwx0r5ett9Hhoq9), [Schola Cantorum](https://open.spotify.com/artist/7kHhGP2Cm5z0YZsxuuoPo1), [Ingar Bergby](https://open.spotify.com/artist/5wgwZ42k45KFtRKHUgQhmI), [Tone Bianca Sparre Dahl](https://open.spotify.com/artist/059bRJ2h0NY1NDMaT21fSU) | [Ja, vi elsker](https://open.spotify.com/album/2fI9O9AauAKVT8RbkIobkY) | 8:39 | 2021-05-19 | 2025-05-20 |
-| [Jag Kommer](https://open.spotify.com/track/4eOrmVxFQtTEUjEA2A0kcg) | [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV) | [Jag Kommer / Iskald](https://open.spotify.com/album/4T7fnsVJDcro8LibWzRfCk) | 3:04 | 2026-04-13 |  |
+| [Jag Kommer](https://open.spotify.com/track/4eOrmVxFQtTEUjEA2A0kcg) | [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV) | [Jag Kommer / Iskald](https://open.spotify.com/album/4T7fnsVJDcro8LibWzRfCk) | 3:04 | 2026-04-13 | 2026-04-15 |
 | [Jag kommer](https://open.spotify.com/track/5M2y8QdDepGYMsWyxhoxQU) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Satan i gatan \(Bonus Version\)](https://open.spotify.com/album/2fOs6I0CgvaZj9agU8EAlH) | 3:22 | 2023-05-18 | 2025-05-20 |
 | [Jag vet, du är inte min](https://open.spotify.com/track/7MIostVEWJaPmeO14PVuMI) | [Jacub](https://open.spotify.com/artist/7ifEkzjmxo75vYZ6y61NqN) | [Jag vet, du är inte min](https://open.spotify.com/album/34HZLwUHsH9sf35VdE9RMd) | 3:19 | 2026-01-21 | 2026-02-08 |
 | [Jag Vill Vara Din Margareta](https://open.spotify.com/track/35oDGwwEB9Xnz5tmr1tjVN) | [The Pineapple Squad](https://open.spotify.com/artist/3jpZXETVBoKjnKifaSswEi), [Henrik Sæter](https://open.spotify.com/artist/7rfOOHTdW80Vbs3nVdWZVl) | [Jag Vill Vara Din Margareta](https://open.spotify.com/album/6QJVx7H5M4barKMggXATqm) | 2:47 | 2023-05-18 | 2023-05-20 |

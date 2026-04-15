@@ -1,12 +1,12 @@
 {
   "description": "This is Bailey Zimmerman. The essential tracks, all in one playlist.",
-  "num_followers": 46495,
+  "num_followers": 46512,
   "original_name": "This Is Bailey Zimmerman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adrggAAAAABdZ7AhfLRJOPq/UuDjNHuU",
+  "snapshot_id": "adwyAAAAAADtVSE9CsZ07n3buKnYt3Jw",
   "tracks": [
     {
       "added_at": null,
@@ -323,6 +323,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Leave The Light On",
+        "url": "https://open.spotify.com/album/5FGZeAnAbmC0MJD597764o"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "duration_ms": 210869,
+      "name": "Trainwreck",
+      "url": "https://open.spotify.com/track/6uhtKcSdQMFpnX8Gj3QBxF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Strong Enough",
         "url": "https://open.spotify.com/album/7DTTXmNJFIXdf5QyA0Y9JX"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 149284,
       "name": "Strong Enough (feat. Bailey Zimmerman)",
       "url": "https://open.spotify.com/track/66VuIGcM7fd8NLMoORCqVJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Leave The Light On",
-        "url": "https://open.spotify.com/album/5FGZeAnAbmC0MJD597764o"
-      },
-      "artists": [
-        {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
-        }
-      ],
-      "duration_ms": 210869,
-      "name": "Trainwreck",
-      "url": "https://open.spotify.com/track/6uhtKcSdQMFpnX8Gj3QBxF"
     },
     {
       "added_at": null,
@@ -391,22 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hell or High Water (From Twisters: The Album)",
-        "url": "https://open.spotify.com/album/75bF2ZeHewzInYro8m5IYE"
-      },
-      "artists": [
-        {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
-        }
-      ],
-      "duration_ms": 194571,
-      "name": "Hell or High Water (From Twisters: The Album)",
-      "url": "https://open.spotify.com/track/0M40J5bPZACa2XXC5GF8tn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Leave The Light On",
         "url": "https://open.spotify.com/album/5FGZeAnAbmC0MJD597764o"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 220800,
       "name": "House On Fire",
       "url": "https://open.spotify.com/track/4U8SkKuNOZrgTR1NC9WYaC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hell or High Water (From Twisters: The Album)",
+        "url": "https://open.spotify.com/album/75bF2ZeHewzInYro8m5IYE"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "duration_ms": 194571,
+      "name": "Hell or High Water (From Twisters: The Album)",
+      "url": "https://open.spotify.com/track/0M40J5bPZACa2XXC5GF8tn"
     },
     {
       "added_at": null,

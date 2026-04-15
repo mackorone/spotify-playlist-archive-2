@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "\u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002The hottest hits in Japan right now. Cover: Mr.Children",
+  "description": "\u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002The hottest hits in Japan right now. Cover: Official\u9aed\u7537dism",
   "name": "Tokyo Super Hits! ",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 278884,
       "name": "0.2mm",
       "url": "https://open.spotify.com/track/2TIYGZ9G65jf1FcwF9iknF"
@@ -484,6 +484,24 @@
       "duration_ms": 196948,
       "name": "Afraid??",
       "url": "https://open.spotify.com/track/3rfRK2PupQzcNUax4s0jQl"
+    },
+    {
+      "album": {
+        "name": "\u7523\u58f0",
+        "url": "https://open.spotify.com/album/3HzOxCdVJCvRxpKRqqzmuo"
+      },
+      "artists": [
+        {
+          "name": "Mr.Children",
+          "url": "https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294053,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/1K2WDtqX9flfGGktr4sCRU"
     },
     {
       "album": {
@@ -2572,7 +2590,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 158203,
       "name": "Chatter Chatter",
       "url": "https://open.spotify.com/track/5nUfkXOhypzToRLwVrNNGE"
@@ -5547,6 +5565,24 @@
     },
     {
       "album": {
+        "name": "Fright",
+        "url": "https://open.spotify.com/album/3UVYg0VPKbfbrB60W26fGI"
+      },
+      "artists": [
+        {
+          "name": "Creepy Nuts",
+          "url": "https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145385,
+      "name": "Fright",
+      "url": "https://open.spotify.com/track/0KOwIxuylidjOSllJAINxO"
+    },
+    {
+      "album": {
         "name": "GOD_i",
         "url": "https://open.spotify.com/album/5H6luqWnHTkwrl30T8D8GD"
       },
@@ -6834,6 +6870,24 @@
       "duration_ms": 263692,
       "name": "Heat",
       "url": "https://open.spotify.com/track/0W9ZNXpTcdYrRFddGttATh"
+    },
+    {
+      "album": {
+        "name": "Heaven Knows",
+        "url": "https://open.spotify.com/album/0pgiZyAh2klqVTqyLy7Pwh"
+      },
+      "artists": [
+        {
+          "name": "B'z",
+          "url": "https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188433,
+      "name": "Heaven Knows",
+      "url": "https://open.spotify.com/track/2m9wsoF85YK4KkGIPNeJEZ"
     },
     {
       "album": {
@@ -12265,6 +12319,24 @@
     },
     {
       "album": {
+        "name": "One Two Three",
+        "url": "https://open.spotify.com/album/5pE3JSHuaNRIYCwS1kmWJY"
+      },
+      "artists": [
+        {
+          "name": "Penthouse",
+          "url": "https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215324,
+      "name": "One Two Three",
+      "url": "https://open.spotify.com/track/5CEYf8aWwIXLg4cHhn5fou"
+    },
+    {
+      "album": {
         "name": "One Way feat. YONCE",
         "url": "https://open.spotify.com/album/7lIJNVESbT9N8qWr0INc97"
       },
@@ -13636,7 +13708,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 219706,
       "name": "Rebellion",
       "url": "https://open.spotify.com/track/0ZejDBwpkH3vgglBmZcZza"
@@ -20228,7 +20300,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 187466,
       "name": "\u304b\u3059\u304b\u306a\u306f\u306a - Kasuka na Hana (OP Theme to Hell's Paradise: Jigokuraku Season 2)",
       "url": "https://open.spotify.com/track/53rbIWRjkjZ86ByiBvwIhQ"
@@ -22414,7 +22486,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 230013,
       "name": "\u30ad\u30f3\u30b0\u30b9\u30cd\u30fc\u30af\u306e\u6182\u9b31",
       "url": "https://open.spotify.com/track/05C9CerCZPIjF1TFrgex95"
@@ -23518,7 +23590,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 208947,
       "name": "\u30bf\u30c3\u30c1",
       "url": "https://open.spotify.com/track/60Sbi4siHcJ6dQ0PJzUQQn"
@@ -25705,6 +25777,24 @@
     },
     {
       "album": {
+        "name": "\u30e9\u30b9\u30c8\u30c0\u30f3\u30b9\u3042\u306a\u305f\u3068",
+        "url": "https://open.spotify.com/album/0fkv7ecmetM6W7GUGQMYGb"
+      },
+      "artists": [
+        {
+          "name": "MISIA",
+          "url": "https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213066,
+      "name": "\u30e9\u30b9\u30c8\u30c0\u30f3\u30b9\u3042\u306a\u305f\u3068",
+      "url": "https://open.spotify.com/track/4s2NSTs2Go6JSnAUKpM2bs"
+    },
+    {
+      "album": {
         "name": "\u30e9\u30c3\u30ad\u30fc\u30ab\u30e9\u30fc",
         "url": "https://open.spotify.com/album/6LYuCN75nHet5fz8Cvzs8H"
       },
@@ -26030,7 +26120,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 186874,
       "name": "\u30ed\u30fc\u30d7\u30a6\u30a7\u30a4",
       "url": "https://open.spotify.com/track/04V3qBeUdgBgXMk9vBJlPD"
@@ -30587,6 +30677,24 @@
     },
     {
       "album": {
+        "name": "\u706b\u7a2e",
+        "url": "https://open.spotify.com/album/1usOiy15DL5VbcguyZmrX5"
+      },
+      "artists": [
+        {
+          "name": "Tatsuya Kitani",
+          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204833,
+      "name": "\u706b\u7a2e",
+      "url": "https://open.spotify.com/track/3WaAa5Fc3LgN7QRn5oVomX"
+    },
+    {
+      "album": {
         "name": "\u706b\u82b1",
         "url": "https://open.spotify.com/album/34vNCbkf9QMHciPKAbTN7s"
       },
@@ -33192,6 +33300,24 @@
       "duration_ms": 177497,
       "name": "\u9858\u3044\u3054\u3068",
       "url": "https://open.spotify.com/track/7Lk3bl1VFAcW9KFfXqL4S7"
+    },
+    {
+      "album": {
+        "name": "\u98a8\u3068\u753a",
+        "url": "https://open.spotify.com/album/4jlx47gbscPwSz3TbExN9W"
+      },
+      "artists": [
+        {
+          "name": "Mrs. GREEN APPLE",
+          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218680,
+      "name": "\u98a8\u3068\u753a",
+      "url": "https://open.spotify.com/track/1ZcCFpGA7ufRBPsNIsTKa8"
     },
     {
       "album": {

@@ -8727,6 +8727,28 @@
     },
     {
       "album": {
+        "name": "PUERTA ABIERTA",
+        "url": "https://open.spotify.com/album/6WxZB5gxWmzRvKVzG2Pu9P"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        },
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159220,
+      "name": "La Culpa",
+      "url": "https://open.spotify.com/track/0HrjmpsXPaCGm5wnDRA1rJ"
+    },
+    {
+      "album": {
         "name": "La Culpa (feat. Canelita)",
         "url": "https://open.spotify.com/album/6FmIPojon58vU6QsecKWTk"
       },

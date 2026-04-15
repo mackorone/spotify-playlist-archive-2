@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > boom bap renasce todo dia\. Foto: Kamau
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,737 likes - 74 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,770 likes - 74 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 38 | [Não Repara a Sujeira](https://open.spotify.com/track/25kebAEDJTXHcnm8BT7mzm) | [2ZDinizz](https://open.spotify.com/artist/13zmjclMwzz8kIxRrN7JOV), [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [PATRONO](https://open.spotify.com/album/3KOm7ouLh0kOz6sJ8AdpVI) | 3:37 |
 | 39 | [Assaltos e Batidas](https://open.spotify.com/track/5rmZvDdnuxDUq2OPoDN2sA) | [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE), [DJ Cost](https://open.spotify.com/artist/7Gojo8tyzLgT5p5WdTisIL) | [ASSALTOS E BATIDAS](https://open.spotify.com/album/5ZCEu4tVlxt0PR0J4NJ0Ex) | 2:20 |
 | 40 | [Inverno Cigano](https://open.spotify.com/track/7L2OtqVn0DAunFPEpGyf29) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII) | [Inverno Cigano](https://open.spotify.com/album/7K1BVkGH4GBm9r7avXPDM6) | 2:37 |
-| 41 | [Devoto](https://open.spotify.com/track/5wZ3pAozhIMrbwpioCRbDN) | [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55), [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [Dalsin](https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk), [Rick Beatz](https://open.spotify.com/artist/7y0JheeKtNA8xvm7Wo3ib9) | [Melhor Momento \(Deluxe\)](https://open.spotify.com/album/3Buob72sU30zOIsUz6JuqJ) | 4:26 |
+| 41 | [Devoto](https://open.spotify.com/track/5wZ3pAozhIMrbwpioCRbDN) | [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [Medellin](https://open.spotify.com/artist/1SOR6vQhrqe6uLVJWW180E), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55), [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [Dalsin](https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk), [Rick Beatz](https://open.spotify.com/artist/7y0JheeKtNA8xvm7Wo3ib9) | [Melhor Momento \(Deluxe\)](https://open.spotify.com/album/3Buob72sU30zOIsUz6JuqJ) | 4:26 |
 | 42 | [Canto Alto](https://open.spotify.com/track/0yyyXCKQibwPutGeHmDama) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Daniel Shadow](https://open.spotify.com/artist/1LvjA6Ux3EPygir0HSTt2q), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [Nume \- Epílogo](https://open.spotify.com/album/4xFE545VDYSeK8mHiTpdC5) | 3:03 |
 | 43 | [JOÃO E MARIA](https://open.spotify.com/track/4eDI5VjIPzidWqwLEtjKlB) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Quanto Mais Eu Como, Mais Fome Eu Sinto !](https://open.spotify.com/album/5t78IIG7tiWQ9RUYApAJFG) | 3:50 |
 | 44 | [O que a Julia vai ser?](https://open.spotify.com/track/7LzAlJ41rNAtvLJZC7xnks) | [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Maffalda](https://open.spotify.com/artist/3Y6LyX8cnJuJLpehsijwEC) | [Novo Testamento](https://open.spotify.com/album/490tyTcKwuwqzxLu3ij7D5) | 2:36 |

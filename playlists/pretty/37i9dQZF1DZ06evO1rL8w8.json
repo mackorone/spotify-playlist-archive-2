@@ -1,12 +1,12 @@
 {
   "description": "This is El Komander. The essential tracks, all in one playlist.",
-  "num_followers": 236599,
+  "num_followers": 236629,
   "original_name": "This Is El Komander",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adrggAAAAAAy2zq3t9XfVkVmlLp9u8+K",
+  "snapshot_id": "adwyAAAAAAA6A/FJLpE+6FKjVKeHPwL0",
   "tracks": [
     {
       "added_at": null,
@@ -783,26 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Amanezco Con Mi Ex",
-        "url": "https://open.spotify.com/album/5glzmrZQNMJO3Yv3S4AClz"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        },
-        {
-          "name": "Los Hnos Rodriguez",
-          "url": "https://open.spotify.com/artist/4pLBsWSdyApz2k5JtPnmGU"
-        }
-      ],
-      "duration_ms": 144989,
-      "name": "Me Amanezco Con Mi Ex",
-      "url": "https://open.spotify.com/track/4fWFkrtNHcRH0F4GAwVzsI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Corrido De Everardo (En Vivo)",
         "url": "https://open.spotify.com/album/39Ft3zOrGLKqScuPTGVjYP"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 211500,
       "name": "El Corrido De Everardo (En Vivo)",
       "url": "https://open.spotify.com/track/6AEgZEVqpOPVR3IVBNoc87"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Amanezco Con Mi Ex",
+        "url": "https://open.spotify.com/album/5glzmrZQNMJO3Yv3S4AClz"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        },
+        {
+          "name": "Los Hnos Rodriguez",
+          "url": "https://open.spotify.com/artist/4pLBsWSdyApz2k5JtPnmGU"
+        }
+      ],
+      "duration_ms": 144989,
+      "name": "Me Amanezco Con Mi Ex",
+      "url": "https://open.spotify.com/track/4fWFkrtNHcRH0F4GAwVzsI"
     },
     {
       "added_at": null,

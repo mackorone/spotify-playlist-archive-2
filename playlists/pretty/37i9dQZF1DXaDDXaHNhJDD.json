@@ -1,12 +1,12 @@
 {
   "description": "Finest collection of Malayalam Music from the past 10 years Cover : Aashaan",
-  "num_followers": 219815,
+  "num_followers": 219868,
   "original_name": " Mollywood Gold ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAaUAT20MlsoR6ST0Tcm2z48JQYk",
+  "snapshot_id": "AAAAACK44iAiSrnARJ4O5OZQovBRVtE1",
   "tracks": [
     {
       "added_at": "2026-02-27 11:39:28",
@@ -31,6 +31,34 @@
       "duration_ms": 284210,
       "name": "Kunjikkavil Meghame (From \"Aashaan\")",
       "url": "https://open.spotify.com/track/1QjXwGvMfjlFdGCnBSfTcD"
+    },
+    {
+      "added_at": "2026-04-14 08:19:30",
+      "album": {
+        "name": "Pallichattambi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/01UrMORJHZ5AUvPSdwNXhM"
+      },
+      "artists": [
+        {
+          "name": "Jakes Bejoy",
+          "url": "https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt"
+        },
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        },
+        {
+          "name": "Aavani Malhar",
+          "url": "https://open.spotify.com/artist/2UhFPsbFyTC38N0EAv7cRG"
+        },
+        {
+          "name": "Kaithapram",
+          "url": "https://open.spotify.com/artist/755XJ9EAGeezpOuX87TlbF"
+        }
+      ],
+      "duration_ms": 276461,
+      "name": "Kaattuchembakam",
+      "url": "https://open.spotify.com/track/7czB3FGFR1aZeTVN6vXtHO"
     },
     {
       "added_at": "2025-06-03 08:06:05",
@@ -511,38 +539,6 @@
       "duration_ms": 130018,
       "name": "Galatta - From \"Aavesham\"",
       "url": "https://open.spotify.com/track/6hA8stAJBcUFivvkhEEBeq"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Kalapakkaara (From \"King of Kotha\")",
-        "url": "https://open.spotify.com/album/3Q8tsdSTnGhjJ61mIWkmRf"
-      },
-      "artists": [
-        {
-          "name": "Jakes Bejoy",
-          "url": "https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt"
-        },
-        {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-        },
-        {
-          "name": "Benny Dayal",
-          "url": "https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ"
-        },
-        {
-          "name": "Fejo",
-          "url": "https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3"
-        },
-        {
-          "name": "Joe Paul",
-          "url": "https://open.spotify.com/artist/2d87Ln0p2Bjipl9mzvlA2t"
-        }
-      ],
-      "duration_ms": 251999,
-      "name": "Kalapakkaara (From \"King of Kotha\")",
-      "url": "https://open.spotify.com/track/554RItg5afQv3ODGQMT29x"
     },
     {
       "added_at": "2024-12-04 12:15:00",

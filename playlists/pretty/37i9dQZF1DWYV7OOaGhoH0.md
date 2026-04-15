@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 
 > The best in folk & acoustic today featuring music from Allison Russell, Joy Oladokun, Julie WIlliams
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,707,046 likes - 112 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,706,918 likes - 112 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

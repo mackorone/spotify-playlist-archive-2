@@ -121,6 +121,32 @@
     },
     {
       "album": {
+        "name": "Main Street Country",
+        "url": "https://open.spotify.com/album/1cvfkOrGG9m7OOpEUOlFn0"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        },
+        {
+          "name": "Katelyn Brown",
+          "url": "https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228133,
+      "name": "Beauty and the Beast",
+      "url": "https://open.spotify.com/track/6k61iSuJyKGdRs8hSZiyhM"
+    },
+    {
+      "album": {
         "name": "Reboot",
         "url": "https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS"
       },
@@ -1756,7 +1782,7 @@
       ],
       "date_added": "2025-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 174300,
       "name": "Start a Fire",
       "url": "https://open.spotify.com/track/0cMDPpAmkf6W7em2POM8eu"

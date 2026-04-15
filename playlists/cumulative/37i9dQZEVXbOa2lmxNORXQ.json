@@ -668,7 +668,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-14",
+      "date_removed": null,
       "duration_ms": 191397,
       "name": "5 Estrellas - W Sound 23",
       "url": "https://open.spotify.com/track/7hYlC6s0SXSIwtFlW6NgjT"
@@ -3186,7 +3186,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-13",
+      "date_removed": null,
       "duration_ms": 208869,
       "name": "BARRIO ANTIOQUIA 2",
       "url": "https://open.spotify.com/track/1kdrgYdj7msXhRLqvq6PXv"
@@ -4731,6 +4731,24 @@
     },
     {
       "album": {
+        "name": "Candy",
+        "url": "https://open.spotify.com/album/3hVfJYRT4xIDOasEO0UaLo"
+      },
+      "artists": [
+        {
+          "name": "TURY",
+          "url": "https://open.spotify.com/artist/0Tyf4eMcgHNc7xTDFe9Yqs"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125000,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/4vxSybnXSld4re7t8b0ZBz"
+    },
+    {
+      "album": {
         "name": "Una Leyenda: Rodolfo Aicardi (Exitos)",
         "url": "https://open.spotify.com/album/2pGgv9foPyYI6IqX1IhhKn"
       },
@@ -5932,7 +5950,7 @@
       ],
       "date_added": "2025-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-12",
+      "date_removed": null,
       "duration_ms": 195261,
       "name": "COMO OREO",
       "url": "https://open.spotify.com/track/7sRXb5IgYWwVv1DaavHSNs"
@@ -7358,6 +7376,24 @@
       "duration_ms": 177333,
       "name": "De Lejitos",
       "url": "https://open.spotify.com/track/5CygAGV9yYyI2LP20KqQKl"
+    },
+    {
+      "album": {
+        "name": "De Lejitos",
+        "url": "https://open.spotify.com/album/4LsQOT9fxqBpZLVLV9Ib55"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207600,
+      "name": "De Lejitos",
+      "url": "https://open.spotify.com/track/3r2ZoCWlf9RewWlxxozfQ8"
     },
     {
       "album": {
@@ -9506,7 +9542,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 210386,
       "name": "El Mejor - Remix",
       "url": "https://open.spotify.com/track/1xRRW5ZrL7I9EG8CGZrXHE"
@@ -9872,7 +9908,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 235760,
       "name": "El Tel\u00e9fono",
       "url": "https://open.spotify.com/track/6viC2tfK0mf86pcqxIoUOG"
@@ -9894,7 +9930,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-14",
+      "date_removed": null,
       "duration_ms": 239293,
       "name": "El Tel\u00e9fono",
       "url": "https://open.spotify.com/track/1sbiqeh3fCNwebhohDRXAp"
@@ -18270,7 +18306,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 161935,
       "name": "Mal Amor",
       "url": "https://open.spotify.com/track/1j4XwpoLvqdkWllikDu7Rm"
@@ -20010,7 +20046,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 148975,
       "name": "MLP",
       "url": "https://open.spotify.com/track/4DAMvNqHt0s8zJr6JwOoye"
@@ -32162,7 +32198,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 193259,
       "name": "Un Perro Enamorado",
       "url": "https://open.spotify.com/track/3kcr3teEgyTOVIAxMPOPeO"
@@ -33106,7 +33142,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 189025,
       "name": "Vete",
       "url": "https://open.spotify.com/track/6cZcn282SIMmuO8FHN8634"

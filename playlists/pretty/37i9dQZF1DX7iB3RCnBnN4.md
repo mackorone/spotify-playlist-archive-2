@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7iB3RCnBnN4.md) - [plain]
 
 > Celebrating all the songs with more than a billion streams on Spotify\. Watch <a href="spotify:episode:3OXnGYbFZouuRf5teDzogT">Billions Club Live with Bad Bunny right now.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 892,548 likes - 1,249 songs - 3 day 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 892,933 likes - 1,249 songs - 3 day 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd4bJEFQJTXh.md) - [plain]
 
 > We’re going to be golden!
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,529 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,195 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd4bJEFQJTXh.md) - [plain]
 | 31 | [Then There Was You](https://open.spotify.com/track/1Mm6L0vPuEnGVxYwyVb1iB) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [The Garfield Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Qx3QHgSCGYIV1iA5VnBI7) | 2:42 |
 | 32 | [Life Is Sweeter](https://open.spotify.com/track/46CznmGbHRvRhTkvaN5rDB) | [Descendants – Cast](https://open.spotify.com/artist/4J79AY6Z2927FTTAgHChuv), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Descendants: The Rise of Red \(Original Soundtrack\)](https://open.spotify.com/album/3KPOdANPLDWwF0U4TOzjrK) | 3:38 |
 | 33 | [Un Poco Loco](https://open.spotify.com/track/0OFknyqxmSQ42SoKxWVTok) | [Anthony Gonzalez](https://open.spotify.com/artist/2q10Wskc3lPYmEuV7rzMCv), [Gael Garcia Bernal](https://open.spotify.com/artist/09oR0uKhqwScsKa2eUK97p) | [Coco \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5) | 1:52 |
-| 34 | [Free](https://open.spotify.com/track/5DxDLsW6PsLz5gkwC7Mk5S) | [Rumi](https://open.spotify.com/artist/2DSE0PhxKUmTPLfZm13sup), [Jinu](https://open.spotify.com/artist/0rIiNDJUesrgFPkYesJmKl), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY), [Andrew Choi](https://open.spotify.com/artist/7JBaynR7JFeniONqbnn1U4) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 3:07 |
+| 34 | [Free](https://open.spotify.com/track/5DxDLsW6PsLz5gkwC7Mk5S) | [Rumi](https://open.spotify.com/artist/18Z49sdpTYjv4TmBJPHMCb), [Jinu](https://open.spotify.com/artist/1CUhHjPhPbMDlGJyUGxzP2), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY), [Andrew Choi](https://open.spotify.com/artist/7JBaynR7JFeniONqbnn1U4) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 3:07 |
 | 35 | [This Moment \(from Ruby Gillman, Teenage Kraken\)](https://open.spotify.com/track/1sF8QGZN3Vcnh2jM0ruSyF) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [This Moment \(from Ruby Gillman, Teenage Kraken\)](https://open.spotify.com/album/1dKVxIUGfgWms8qdRosmGm) | 3:57 |
 | 36 | [The Other Side \(from Trolls World Tour\)](https://open.spotify.com/track/463PQggkmk5tTw8ug0ahOX) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [The Other Side \(from Trolls World Tour\)](https://open.spotify.com/album/50ZTMRi6Biq1i1pWbcaKaJ) | 3:08 |
 | 37 | [Good Mood \- Original Song From Paw Patrol: The Movie](https://open.spotify.com/track/4uX1pkSuSidzJxT4eWL7x1) | [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [Good Mood \(Original Song From Paw Patrol: The Movie\)](https://open.spotify.com/album/5YQDkKa0fHnIYnVdfrQLqI) | 3:30 |

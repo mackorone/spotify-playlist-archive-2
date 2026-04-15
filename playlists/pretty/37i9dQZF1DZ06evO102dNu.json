@@ -1,12 +1,12 @@
 {
   "description": "This is Frank Sinatra. The essential tracks, all in one playlist.",
-  "num_followers": 1227131,
+  "num_followers": 1227125,
   "original_name": "This Is Frank Sinatra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adrggAAAAABo0xl5ty/Y8f7j10Z3rW43",
+  "snapshot_id": "adwyAAAAAADSQopYXdkCFtVDtk26VdlO",
   "tracks": [
     {
       "added_at": null,
@@ -115,22 +115,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Days Of Wine And Roses, Moon River And Other Academy Award Winners",
-        "url": "https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 202160,
-      "name": "The Way You Look Tonight",
-      "url": "https://open.spotify.com/track/0elmUoU7eMPwZX1Mw1MnQo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The World We Knew",
         "url": "https://open.spotify.com/album/67Evm6gPc9wFSUf1aXOrKO"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 167053,
       "name": "The World We Knew (Over And Over)",
       "url": "https://open.spotify.com/track/62KZRwymXq9Rgm8Cm5UCfx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Days Of Wine And Roses, Moon River And Other Academy Award Winners",
+        "url": "https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 202160,
+      "name": "The Way You Look Tonight",
+      "url": "https://open.spotify.com/track/0elmUoU7eMPwZX1Mw1MnQo"
     },
     {
       "added_at": null,
@@ -583,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nice 'n' Easy (Remastered / Expanded Edition)",
-        "url": "https://open.spotify.com/album/2Xp6c8OMMolIoix6KLyun2"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 136400,
-      "name": "I've Got A Crush On You - Remastered",
-      "url": "https://open.spotify.com/track/0RNgCTcn5f7zIfLKjj80FS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Frank Sinatra: The Complete Capitol Singles Collection",
         "url": "https://open.spotify.com/album/7LbB7SuX3op2Xa9FvteJeB"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 181906,
       "name": "Learnin' The Blues",
       "url": "https://open.spotify.com/track/6rNOKdqa2lThuBIJOZXSVa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nice 'n' Easy (Remastered / Expanded Edition)",
+        "url": "https://open.spotify.com/album/2Xp6c8OMMolIoix6KLyun2"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 136400,
+      "name": "I've Got A Crush On You - Remastered",
+      "url": "https://open.spotify.com/track/0RNgCTcn5f7zIfLKjj80FS"
     },
     {
       "added_at": null,

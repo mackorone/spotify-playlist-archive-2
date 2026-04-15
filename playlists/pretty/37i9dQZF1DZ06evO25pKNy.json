@@ -1,12 +1,12 @@
 {
   "description": "This is Los Hijos De Garcia. The essential tracks, all in one playlist.",
-  "num_followers": 6137,
+  "num_followers": 6139,
   "original_name": "This Is Los Hijos De Garcia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adrggAAAAACF8O7QZ5LaTP3n9zoWGk0E",
+  "snapshot_id": "adwyAAAAAAAI6zUsns+Hw1XBd5anAiUG",
   "tracks": [
     {
       "added_at": null,
@@ -87,26 +87,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "J\u00e1lese Carnal",
-        "url": "https://open.spotify.com/album/0JCLMPYNI2uUuEcniID1iD"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        },
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 135709,
-      "name": "Todo Veo",
-      "url": "https://open.spotify.com/track/33vhqnKK2bjeweICzJdtIT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Yo, Billetes y Damas (feat. Herencia de Patrones)",
         "url": "https://open.spotify.com/album/54UMtaPgBFFOUwqr0QKBTG"
       },
@@ -127,6 +107,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "J\u00e1lese Carnal",
+        "url": "https://open.spotify.com/album/0JCLMPYNI2uUuEcniID1iD"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 135709,
+      "name": "Todo Veo",
+      "url": "https://open.spotify.com/track/33vhqnKK2bjeweICzJdtIT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lujos De La Vida",
         "url": "https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f"
       },
@@ -139,6 +139,26 @@
       "duration_ms": 170240,
       "name": "Lujos De La Vida",
       "url": "https://open.spotify.com/track/465CNemByQDps6aOI24859"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bien Pilas",
+        "url": "https://open.spotify.com/album/3B5VpXorHXwY9my6lY8VAp"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        },
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 165458,
+      "name": "Bien Pilas",
+      "url": "https://open.spotify.com/track/2D3GD6rdUMvYrezCeeoPWT"
     },
     {
       "added_at": null,
@@ -163,26 +183,6 @@
       "duration_ms": 130087,
       "name": "Como Debe Ser",
       "url": "https://open.spotify.com/track/7BYQKLz2yWFePlxApyvbeP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bien Pilas",
-        "url": "https://open.spotify.com/album/3B5VpXorHXwY9my6lY8VAp"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        },
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 165458,
-      "name": "Bien Pilas",
-      "url": "https://open.spotify.com/track/2D3GD6rdUMvYrezCeeoPWT"
     },
     {
       "added_at": null,
@@ -391,18 +391,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desde La 48",
-        "url": "https://open.spotify.com/album/5i8wSDSUoEBSEd9r18e4LD"
+        "name": "BAJITA LA TENAZA",
+        "url": "https://open.spotify.com/album/4snGTYPRvhdBiu7O1qXYXd"
       },
       "artists": [
+        {
+          "name": "Los Nuevos Escoltas",
+          "url": "https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm"
+        },
         {
           "name": "Los Hijos De Garcia",
           "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
         }
       ],
-      "duration_ms": 149000,
-      "name": "CHALINOFEST",
-      "url": "https://open.spotify.com/track/3Kds2AGOb00EjxKUDczMYT"
+      "duration_ms": 198598,
+      "name": "EL CRESTA",
+      "url": "https://open.spotify.com/track/3BWOcwBVUbAz32DaYCj1ek"
     },
     {
       "added_at": null,
@@ -423,22 +427,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "BAJITA LA TENAZA",
-        "url": "https://open.spotify.com/album/4snGTYPRvhdBiu7O1qXYXd"
+        "name": "Desde La 48",
+        "url": "https://open.spotify.com/album/5i8wSDSUoEBSEd9r18e4LD"
       },
       "artists": [
-        {
-          "name": "Los Nuevos Escoltas",
-          "url": "https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm"
-        },
         {
           "name": "Los Hijos De Garcia",
           "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
         }
       ],
-      "duration_ms": 198598,
-      "name": "EL CRESTA",
-      "url": "https://open.spotify.com/track/3BWOcwBVUbAz32DaYCj1ek"
+      "duration_ms": 149000,
+      "name": "CHALINOFEST",
+      "url": "https://open.spotify.com/track/3Kds2AGOb00EjxKUDczMYT"
     },
     {
       "added_at": null,
@@ -463,22 +463,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desde La 48",
-        "url": "https://open.spotify.com/album/5i8wSDSUoEBSEd9r18e4LD"
+        "name": "La Querian Facil",
+        "url": "https://open.spotify.com/album/4tp7hs9DwBnKmFtrTUjflY"
       },
       "artists": [
         {
           "name": "Los Hijos De Garcia",
           "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        },
-        {
-          "name": "T3R Elemento",
-          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
         }
       ],
-      "duration_ms": 136642,
-      "name": "Que Soy Un Malandro",
-      "url": "https://open.spotify.com/track/0hFMcLsktrTFOoZIgljTDe"
+      "duration_ms": 225593,
+      "name": "La Querian Facil",
+      "url": "https://open.spotify.com/track/4JlwxYmewZay9BAbLsBHK6"
     },
     {
       "added_at": null,
@@ -499,18 +495,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Querian Facil",
-        "url": "https://open.spotify.com/album/4tp7hs9DwBnKmFtrTUjflY"
+        "name": "Desde La 48",
+        "url": "https://open.spotify.com/album/5i8wSDSUoEBSEd9r18e4LD"
       },
       "artists": [
         {
           "name": "Los Hijos De Garcia",
           "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        },
+        {
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
         }
       ],
-      "duration_ms": 225593,
-      "name": "La Querian Facil",
-      "url": "https://open.spotify.com/track/4JlwxYmewZay9BAbLsBHK6"
+      "duration_ms": 136642,
+      "name": "Que Soy Un Malandro",
+      "url": "https://open.spotify.com/track/0hFMcLsktrTFOoZIgljTDe"
     },
     {
       "added_at": null,
@@ -527,22 +527,6 @@
       "duration_ms": 206133,
       "name": "Vivo En Los Angeles",
       "url": "https://open.spotify.com/track/3llJtYFMgm41fqcuaQi32S"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Desde La 48",
-        "url": "https://open.spotify.com/album/5i8wSDSUoEBSEd9r18e4LD"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 190197,
-      "name": "Quintana Roo",
-      "url": "https://open.spotify.com/track/527qFT8pKSgaULC82IAuCs"
     },
     {
       "added_at": null,
@@ -583,8 +567,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nuestro Estilo",
-        "url": "https://open.spotify.com/album/6rGQO5ibbf2JhX4N6BmL5r"
+        "name": "Desde La 48",
+        "url": "https://open.spotify.com/album/5i8wSDSUoEBSEd9r18e4LD"
       },
       "artists": [
         {
@@ -592,9 +576,9 @@
           "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
         }
       ],
-      "duration_ms": 216448,
-      "name": "Mundo Desgraciado",
-      "url": "https://open.spotify.com/track/3hiximGfpxNy8fgsbWm4hm"
+      "duration_ms": 190197,
+      "name": "Quintana Roo",
+      "url": "https://open.spotify.com/track/527qFT8pKSgaULC82IAuCs"
     },
     {
       "added_at": null,
@@ -647,8 +631,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Con Tololoche",
-        "url": "https://open.spotify.com/album/69vJhO6TLEYq4w0p8s2ny9"
+        "name": "Nuestro Estilo",
+        "url": "https://open.spotify.com/album/6rGQO5ibbf2JhX4N6BmL5r"
       },
       "artists": [
         {
@@ -656,9 +640,9 @@
           "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
         }
       ],
-      "duration_ms": 183040,
-      "name": "Mujer Paseada - En Vivo",
-      "url": "https://open.spotify.com/track/6d7s3sqE0cOR1oUdbxPrhS"
+      "duration_ms": 216448,
+      "name": "Mundo Desgraciado",
+      "url": "https://open.spotify.com/track/3hiximGfpxNy8fgsbWm4hm"
     },
     {
       "added_at": null,
@@ -675,6 +659,22 @@
       "duration_ms": 156928,
       "name": "El Cimarron",
       "url": "https://open.spotify.com/track/3mBI9q2AWvbEEGLnxjmdBg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo Con Tololoche",
+        "url": "https://open.spotify.com/album/69vJhO6TLEYq4w0p8s2ny9"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 183040,
+      "name": "Mujer Paseada - En Vivo",
+      "url": "https://open.spotify.com/track/6d7s3sqE0cOR1oUdbxPrhS"
     },
     {
       "added_at": null,
@@ -711,6 +711,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Desde La 48",
+        "url": "https://open.spotify.com/album/5i8wSDSUoEBSEd9r18e4LD"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        },
+        {
+          "name": "Los DL Mar",
+          "url": "https://open.spotify.com/artist/6mXXpIAnRDVzhPDludHYRf"
+        }
+      ],
+      "duration_ms": 191994,
+      "name": "Andaba En Pausa",
+      "url": "https://open.spotify.com/track/5fMmWArt0QdYewK6HKE4Tq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En Vivo Con Tololoche",
         "url": "https://open.spotify.com/album/69vJhO6TLEYq4w0p8s2ny9"
       },
@@ -723,22 +743,6 @@
       "duration_ms": 226986,
       "name": "Mi Gusto Es - En Vivo",
       "url": "https://open.spotify.com/track/2W0MHFzXz5lEqqH2OJXgqV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Desde La 48",
-        "url": "https://open.spotify.com/album/5i8wSDSUoEBSEd9r18e4LD"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 176953,
-      "name": "Cuando Me Faltaban",
-      "url": "https://open.spotify.com/track/3XVCdhJp0j1Xpl6En6WOwp"
     },
     {
       "added_at": null,
@@ -779,6 +783,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Desde La 48",
+        "url": "https://open.spotify.com/album/5i8wSDSUoEBSEd9r18e4LD"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 176953,
+      "name": "Cuando Me Faltaban",
+      "url": "https://open.spotify.com/track/3XVCdhJp0j1Xpl6En6WOwp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Classroom Love",
         "url": "https://open.spotify.com/album/0cbyUdPh5smj24zGOuwF5o"
       },
@@ -791,26 +811,6 @@
       "duration_ms": 256641,
       "name": "Classroom Love",
       "url": "https://open.spotify.com/track/7yFDHXEb7UseHnH3hEWR29"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Desde La 48",
-        "url": "https://open.spotify.com/album/5i8wSDSUoEBSEd9r18e4LD"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        },
-        {
-          "name": "Los DL Mar",
-          "url": "https://open.spotify.com/artist/6mXXpIAnRDVzhPDludHYRf"
-        }
-      ],
-      "duration_ms": 191994,
-      "name": "Andaba En Pausa",
-      "url": "https://open.spotify.com/track/5fMmWArt0QdYewK6HKE4Tq"
     },
     {
       "added_at": null,
@@ -847,6 +847,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Recordando Al Chavalon",
+        "url": "https://open.spotify.com/album/6uO6AxhUMDd06Un78tIZr8"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 132555,
+      "name": "Recordando Al Chavalon",
+      "url": "https://open.spotify.com/track/6hUXWt86hN6CktnTHanG06"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jimmy Humilde Presenta Lo Mejor De Los 90's",
         "url": "https://open.spotify.com/album/1osJOSkOwfD5UBZ50ksQsH"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 199138,
       "name": "Contrato Con La Muerte",
       "url": "https://open.spotify.com/track/7KFDZYka1XWE7a6RIrdmaP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Recordando Al Chavalon",
-        "url": "https://open.spotify.com/album/6uO6AxhUMDd06Un78tIZr8"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 132555,
-      "name": "Recordando Al Chavalon",
-      "url": "https://open.spotify.com/track/6hUXWt86hN6CktnTHanG06"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Camille Yembe, The Strokes, Lady Gaga x Doechii, Gradur x Ninho and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,909 likes - 124 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,912 likes - 124 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 26 | [One of Them \(with Future & Lil Baby\)](https://open.spotify.com/track/64QhStjcTHwvY7QCkFfT0M) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [One of Them](https://open.spotify.com/album/7yHjH5MTdtXNeIcQWVq0LQ) | 3:24 |
 | 27 | [De Bevalligste](https://open.spotify.com/track/4dL6IDxFaHFIACgN8jDuSy) | [Bart Peeters](https://open.spotify.com/artist/1LsW7KoHTgRLcZ7Jwt79MR) | [De Bevalligste](https://open.spotify.com/album/5ft0ul7sQH8juh17cwgwuX) | 3:35 |
 | 28 | [Flap Flap](https://open.spotify.com/track/2VbSOGBmQeIj4iHEFXdVwd) | [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD), [BlackBoy](https://open.spotify.com/artist/390GislU2lqdtKcuFMIvjK) | [Flap Flap](https://open.spotify.com/album/1yIKFkmI04eG5DEi6M985B) | 1:52 |
-| 29 | [Jetski \- Radio Edit](https://open.spotify.com/track/3EaKG4fk6mwIr4UZif8ZdZ) | [Promis3](https://open.spotify.com/artist/67klEFn7sTV209voBTSZB8) | [Jetski](https://open.spotify.com/album/0G0I8mUYA0sB9NGpI0t43t) | 2:49 |
+| 29 | [Jetski](https://open.spotify.com/track/3EaKG4fk6mwIr4UZif8ZdZ) | [Promis3](https://open.spotify.com/artist/67klEFn7sTV209voBTSZB8) | [Jetski](https://open.spotify.com/album/0G0I8mUYA0sB9NGpI0t43t) | 2:49 |
 | 30 | [My Mess](https://open.spotify.com/track/5p3Jpxg9clWBDLy9kdD6CY) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [My Mess](https://open.spotify.com/album/6SJIgDyt7PDWKtlFP77VLu) | 3:11 |
 | 31 | [Say What You Mean](https://open.spotify.com/track/1ezVoFTcUtD08tVtgATbhY) | [Samm \(BE\)](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0) | [Say What You Mean](https://open.spotify.com/album/6CHcJTOtSY9Wz4aja0y2F3) | 3:28 |
 | 32 | [That's When You Know](https://open.spotify.com/track/1XhItJSBxL5yKh0V0ymg6D) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [That's When You Know](https://open.spotify.com/album/2XgEVPnq6LHLAKAIJXmlHZ) | 3:13 |

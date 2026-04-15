@@ -1460,10 +1460,28 @@
       ],
       "date_added": "2025-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 226000,
       "name": "Somewhere Over Laredo",
       "url": "https://open.spotify.com/track/0aGIy8kll4HYDnNTDlf2vU"
+    },
+    {
+      "album": {
+        "name": "Whirlwind (Deluxe)",
+        "url": "https://open.spotify.com/album/4jzl02ZBUX359L5VlqLNCQ"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "Somewhere Over Laredo",
+      "url": "https://open.spotify.com/track/2KeS9EwqQvw0TdGohFNvfC"
     },
     {
       "album": {

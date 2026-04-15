@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > R&B and good vibe tracks for your current mood\. Cover: Wesley Joseph & Jorja Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,170 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,173 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 | 7 | [Colorado](https://open.spotify.com/track/7C2IUngL0Xp8MsD575v2cJ) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Colorado](https://open.spotify.com/album/1P8BZuY2ZRlCPzXhSly5eZ) | 3:44 |
 | 8 | [Funny Friends](https://open.spotify.com/track/6l1AuMUnZWoEdWodKUM4Mc) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Distracted](https://open.spotify.com/album/4DkVTJfU9qyNWKbjLoTENL) | 2:35 |
 | 9 | [To Mars](https://open.spotify.com/track/40YQG7PQix3RMgzkKLzrVP) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [To Mars](https://open.spotify.com/album/0hCPD44BiJeCwHWVSl3sWR) | 2:44 |
-| 10 | [Unbroken Hearts](https://open.spotify.com/track/3ZrqU3iJw06atfN6vMmKbT) | [Joseph Solomon](https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN) | [Unbroken Hearts](https://open.spotify.com/album/6DPtIPO8kxfMRF2kdFdi7s) | 3:34 |
+| 10 | [UNBROKEN HEARTS](https://open.spotify.com/track/3ZrqU3iJw06atfN6vMmKbT) | [Joseph Solomon](https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN) | [UNBROKEN HEARTS](https://open.spotify.com/album/6DPtIPO8kxfMRF2kdFdi7s) | 3:34 |
 | 11 | [Lover](https://open.spotify.com/track/5nmW1Oq7FisQ5eAEeM9QZZ) | [Juke Ross](https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY) | [Lover](https://open.spotify.com/album/1M46PQFhnP8N6FEoxfCGlF) | 3:26 |
 | 12 | [Reputation \(feat\. Dominic Fike\)](https://open.spotify.com/track/52m9ZMBCf6tv5ONxr81Uv0) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Reputation \(feat\. Dominic Fike\)](https://open.spotify.com/album/0GagxhdItrfNoWwTI6mogx) | 3:55 |
 | 13 | [RATHER BE / IN HELL](https://open.spotify.com/track/0lVgwDVMGiCUa9tSWo56Oq) | [Noni](https://open.spotify.com/artist/5qKvIYld9MeIwjut9otxti) | [PISSED ME OFF / BORED ME TO DEATH](https://open.spotify.com/album/1ZVS7kg3oUYwmdnETa3ujT) | 4:06 |

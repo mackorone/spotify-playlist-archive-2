@@ -4,7 +4,7 @@
 
 > Most exciting artists from the Indian Indie scene\. Cover: Sameer Rahat
 
-428 songs - 23 hr 59 min
+429 songs - 1 day 0 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Ajnabee](https://open.spotify.com/track/7qH8uppXORP4UQvXGc9dNl) | [The Western Ghats](https://open.spotify.com/artist/3vX5K7r9Icdjsrlax4FzWv) | [Ajnabee](https://open.spotify.com/album/0iZDAWTdaX2HOk8J7CJ63i) | 2:54 | 2026-02-05 | 2026-03-06 |
 | [Alakananda \- Hindi version](https://open.spotify.com/track/4LHGR2KUMmqL1aSxEElq3E) | [Ravator](https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs), [Shankuraj Konwar](https://open.spotify.com/artist/2sTO4BkutHILz6xXwbbar9) | [Alakananda \(Hindi version\)](https://open.spotify.com/album/7k4VojLUcZq9onaU2X4dMC) | 4:59 | 2022-06-22 | 2023-02-25 |
 | [Am I Overthinking This?](https://open.spotify.com/track/0nHm0hPOwDYwwCbZUs0XKv) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Am I Overthinking This?](https://open.spotify.com/album/54UsiUkSKRfIkSc7qPAhn1) | 2:47 | 2022-04-14 | 2023-01-21 |
+| [Amsham \- അംശം](https://open.spotify.com/track/1E0acRF3Nnf38iLIKqfj0p) | [Aksomaniac](https://open.spotify.com/artist/12tOFlQDhU4Jx6wNb9XO87), [M.H.R](https://open.spotify.com/artist/5A5bbXuMkVh28lxVO4y25g), [Bhumi](https://open.spotify.com/artist/6ze415xN4HqPmAhj1P4pRl), [Circle Tone](https://open.spotify.com/artist/5FLdl3TGJp0xXgUSimW2yQ) | [Amsham \- അംശം](https://open.spotify.com/album/0edE5xT1gEo2H0nB6iYz5E) | 4:41 | 2026-04-14 |  |
 | [Anyayo](https://open.spotify.com/track/5yCOc1MOoekBjy56pCYZHS) | [Aneesh](https://open.spotify.com/artist/2K1yi9M4TJ3cEEO6hFG1z2), [Krtin Kay](https://open.spotify.com/artist/7rDecvyiaWrph8fExUQLG1) | [Anyayo](https://open.spotify.com/album/7CJq5roqrBmkCz5U2JP0yx) | 2:01 | 2026-02-05 |  |
 | [Anybody Else](https://open.spotify.com/track/3MVSI8G7X9Murb33btnPqj) | [Ramya Pothuri](https://open.spotify.com/artist/0JgLc59DdeDlgyZtnvAJQ6) | [Anybody Else](https://open.spotify.com/album/1GncKcQ8Jyp1enSDsAXD8J) | 3:52 | 2021-12-06 | 2022-01-11 |
 | [Arz e Dil](https://open.spotify.com/track/5xm5sFLCrI7uNgk7nHYLpo) | [Nikhil Iyer](https://open.spotify.com/artist/0CqiR40fzUCsCK5Llk6Bek), [Nirmal Roy](https://open.spotify.com/artist/29Nyne5MB3F1sTTPq0TQEs) | [Arz e Dil](https://open.spotify.com/album/3CSAcvKVgNVR3rneunfvt9) | 3:35 | 2024-01-10 | 2026-02-06 |
@@ -249,7 +250,7 @@
 | [Love Note](https://open.spotify.com/track/0uVdtnoCTDoxbHgEAvBRjY) | [Shivoryx](https://open.spotify.com/artist/0frlLIs2UWXeTwqwH92Apo) | [Love Note](https://open.spotify.com/album/1Ay9m3wFymygsyusr2H7fK) | 2:56 | 2023-01-10 | 2023-02-23 |
 | [Maan Jao](https://open.spotify.com/track/5HzQLl5EyKpaE2dwgSaK4C) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Maan Jao](https://open.spotify.com/album/44wT6D3aZMj90IkzsftFRF) | 2:34 | 2025-05-08 |  |
 | [Maara Makka \- From "Think Indie"](https://open.spotify.com/track/13TxDpBIVafb5iAKXaO6IG) | [rudh](https://open.spotify.com/artist/2Q3UCe0lQfw6yrq7EoOb4t) | [Maara Makka \(From "Think Indie"\)](https://open.spotify.com/album/19DWPHifKZD73XLtkiRb6B) | 2:43 | 2026-02-10 |  |
-| [Main Heer Teri](https://open.spotify.com/track/3BAmJqcRP0Mf11YAungMFq) | [Zanai Bhosle](https://open.spotify.com/artist/1KXshKZ6e6JsZ6boHGgkXX) | [Main Heer Teri](https://open.spotify.com/album/4vtES0Tr90HiRlgdXmeMY7) | 3:26 | 2025-04-10 |  |
+| [Main Heer Teri](https://open.spotify.com/track/3BAmJqcRP0Mf11YAungMFq) | [Zanai Bhosle](https://open.spotify.com/artist/1KXshKZ6e6JsZ6boHGgkXX) | [Main Heer Teri](https://open.spotify.com/album/4vtES0Tr90HiRlgdXmeMY7) | 3:26 | 2025-04-10 | 2026-04-15 |
 | [Makhmal \(feat\. BLUK\)](https://open.spotify.com/track/46qCjuV2ydLZNdGxf2PSWB) | [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT), [Priyanshu Soni](https://open.spotify.com/artist/6MB9eP64yx5KQ12VLrXo6p), [BLUK](https://open.spotify.com/artist/5VwEh2dfVTTVtQ0Q3C1e4r) | [Makhmal \(feat\. BLUK\)](https://open.spotify.com/album/1vyIwvbXKGfu9AoLNg6WGx) | 3:17 | 2022-08-08 | 2023-05-19 |
 | [Makin' My Move](https://open.spotify.com/track/11MXG7ypbXmFk6PgYKnbX2) | [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT) | [Caught in a Parade](https://open.spotify.com/album/6ogjWRRZa9qyaj6Fw62KgG) | 4:19 | 2022-11-30 | 2023-01-11 |
 | [Makin' My Move](https://open.spotify.com/track/7FQ8a1PJLyQkiJCeI8MTVD) | [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT) | [Makin' My Move](https://open.spotify.com/album/150hkUZW2dWT2CEDvk5UA1) | 4:19 | 2021-12-06 | 2022-03-16 |

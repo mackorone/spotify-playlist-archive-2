@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-844 songs - 1 day 17 hr 51 min
+845 songs - 1 day 17 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [Dependant](https://open.spotify.com/track/19vH2GjbvGE9V9ixp9TBfs) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [Southby](https://open.spotify.com/artist/30UL7vK03suadfI9eqNYLA), [VALLO](https://open.spotify.com/artist/4BIIvS5s6ed82JswZFSAoJ), [Immy Odon](https://open.spotify.com/artist/01QdfMidctuieFa8ERASX4) | [Cartoon & Friends](https://open.spotify.com/album/2V7zOBOVXHNo3gMx2zLTPC) | 3:13 | 2025-07-25 |  |
 | [Desperate](https://open.spotify.com/track/068gApVgHSg3dZbqHjYRW4) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6) | [Desperate](https://open.spotify.com/album/6iBQ9N0IsxqPxSn2QJjpZv) | 3:15 | 2023-04-28 | 2024-01-04 |
 | [Desperate](https://open.spotify.com/track/4DJSjJkCIwAaMuvQKp6KJV) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6), [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [Desperate](https://open.spotify.com/album/6a8tVFDO5PYtLhnrEC5FaB) | 3:55 | 2024-09-25 |  |
+| [devaste](https://open.spotify.com/track/649O7DxFSeEHIbGNdjpJ81) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG), [kellapsage](https://open.spotify.com/artist/4TGsEz9x7p8SkARvMyklH4) | [devaste](https://open.spotify.com/album/1j6H1mHcaZLvKgwNYtDGZ8) | 2:27 | 2026-04-14 |  |
 | [Devil](https://open.spotify.com/track/3lj59hy6FrRDyYNo8Onuud) | [Barren Gates](https://open.spotify.com/artist/7eMykQ9NjmtA5FnMarEG2F) | [Devil](https://open.spotify.com/album/4L3VVfebqok9bZFGKKSTTG) | 2:56 | 2023-08-08 | 2023-12-14 |
 | [Devil](https://open.spotify.com/track/5mn6mZIHIQF6sl3KCkMtIY) | [Diamond Eyes](https://open.spotify.com/artist/7u7MDzwo7VtVe7FhS3cq8Y) | [Devil](https://open.spotify.com/album/54WiyGQ7TL7nqIPoh1ieF8) | 4:01 | 2023-12-13 | 2024-08-28 |
 | [Devil \- Slowed](https://open.spotify.com/track/4meFgYtUxSwZBqBHhItNfN) | [Barren Gates](https://open.spotify.com/artist/7eMykQ9NjmtA5FnMarEG2F), [Slowed Sounds](https://open.spotify.com/artist/1t8rqyTMu1FA6zaRCASTcF) | [Devil \(Sped Up/Slowed\)](https://open.spotify.com/album/19GYAxxkTNPebb67P8RtMk) | 3:05 | 2024-09-25 |  |

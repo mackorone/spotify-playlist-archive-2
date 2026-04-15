@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20Z4kH7E2EL.md) - [plain]
 
 > <a href="spotify:artist:0bGDTQ78MVgI5Snqo9KJZw">Qrion</a>'s favorite tracks\. Updated regularly\. Curated by Qrion\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,116 likes - 80 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,114 likes - 80 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20Z4kH7E2EL.md) - [plain]
 | 9 | [Feel What I'm Feeling \- Club Mix](https://open.spotify.com/track/1wBpLX9Qh5c5lPsLpWxpBZ) | [Mac Zimms](https://open.spotify.com/artist/7tl0tne6Z7tZduh78yZ3G1) | [Feel What I'm Feeling](https://open.spotify.com/album/3CU2nkOPLucF7jJ9L23uZa) | 6:02 |
 | 10 | [Who Are We](https://open.spotify.com/track/5TJPrM3JPu9XlEKaRnUrwE) | [Too Young](https://open.spotify.com/artist/0ExQcktmW2aXa3ZNvIgsTO), [Yoel Daynis](https://open.spotify.com/artist/2KP4esLinwFJ2iVEBVtvhB) | [Four To The Floor 47](https://open.spotify.com/album/0KfAhaLnw5iUSPz6nQoYdZ) | 5:44 |
 | 11 | [All Along](https://open.spotify.com/track/6yKe3VCQTw5ZUeKETOm3nJ) | [Rob Tirea](https://open.spotify.com/artist/0D1FNjQMAVognp7FFrjGte) | [All Along](https://open.spotify.com/album/3nm1TLQ8pKn2yDz3O1aVTZ) | 3:09 |
-| 12 | [SHADOWS](https://open.spotify.com/track/7esJ56tKqU6aWABAdJJrFR) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6) | [SHADOWS](https://open.spotify.com/album/2kjMYQKKsGLAivQKy6Hbtp) | 3:22 |
+| 12 | [SHADOWS](https://open.spotify.com/track/7esJ56tKqU6aWABAdJJrFR) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6) | [SHADOWS](https://open.spotify.com/album/2kjMYQKKsGLAivQKy6Hbtp) | 3:21 |
 | 13 | [ICONIC](https://open.spotify.com/track/1Om5tn81dS6eLJxQvleBIF) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk), [iamkyami](https://open.spotify.com/artist/65m2oSongX6P3iLDeI57U0) | [ICONIC](https://open.spotify.com/album/6gJjf7QJGg1xdxXTGMQNo7) | 2:56 |
 | 14 | [Love Me Again \(Again\) \(Wh0 Remix\)](https://open.spotify.com/track/0JI2n6jvnwOy2PmOUCEqYz) | [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf), [Wh0](https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA) | [Love Me Again \(Again\) \(Wh0 Remix\)](https://open.spotify.com/album/2hTeTzG10TfY5gYidXxxbk) | 3:20 |
 | 15 | [Let Me Be Your Fantasy](https://open.spotify.com/track/2ZuyMtItkNP4DfLNnoYwt9) | [Eden Prince](https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z) | [Let Me Be Your Fantasy](https://open.spotify.com/album/7mMOl3NnIycFDti9yMLwuf) | 3:12 |

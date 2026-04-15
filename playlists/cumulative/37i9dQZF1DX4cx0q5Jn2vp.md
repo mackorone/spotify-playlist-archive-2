@@ -4,7 +4,7 @@
 
 > <3<3<3<3
 
-300 songs - 17 hr 51 min
+302 songs - 17 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Awit Na Hinahanap](https://open.spotify.com/track/6ehsh5fEvJ2cfpzcW9UPuz) | [AINT](https://open.spotify.com/artist/3rNyOjaISuZ9vsZvNcnNjy) | [Pusong Lumilipad](https://open.spotify.com/album/6FR0LINSAVrlDKn8K1ErGj) | 3:08 | 2025-11-24 | 2025-12-02 |
 | [Babalik Ba](https://open.spotify.com/track/2PUnWvAzUpIpIgQtOCRavW) | [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ) | [Babalik Ba](https://open.spotify.com/album/2tbiWn0aGNRWJm5aYhz6DA) | 2:52 | 2023-04-03 | 2023-06-29 |
 | [Babalik Sa'yo \(from "2 Good 2 Be True"\)](https://open.spotify.com/track/2e7iqtA42EPXTtiiAlblC1) | [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [Babalik Sa'yo \(from "2 Good 2 Be True"\)](https://open.spotify.com/album/5Sw8579gMyFd8JcKaeEbXx) | 3:49 | 2022-09-05 | 2024-06-06 |
+| [Baby Blue](https://open.spotify.com/track/0zTcYZot5zfBwOQkdv02ls) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [Baby Blue / When It Comes To Loving You](https://open.spotify.com/album/4d0QJmAw0Yjs6soAwmVyHm) | 2:51 | 2026-04-14 |  |
 | [bagay nga tayo pero](https://open.spotify.com/track/19crdGcucaLgh29jRMCpjo) | [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [bagay nga tayo pero](https://open.spotify.com/album/5vRXhNRDjdjwK67Y8CpK8N) | 2:39 | 2023-04-03 | 2023-06-29 |
 | [Bagkos](https://open.spotify.com/track/1vIy9LahYQR6fWmsgryjbD) | [Slico](https://open.spotify.com/artist/1n32OOMDyy2zi6y9cACjLP) | [Bagkos](https://open.spotify.com/album/6C1PRXiyvjCmDWeKnm7ZgZ) | 3:44 | 2025-09-12 | 2025-09-27 |
 | [Baliw](https://open.spotify.com/track/7cHycXGo5HnVQ5NkI3dLWK) | [SUD](https://open.spotify.com/artist/0jKQrxK2zHqxyOAyIMrUQt) | [Baliw](https://open.spotify.com/album/60jvhHVlmuAmEzdjRpkvue) | 3:38 | 2022-04-04 | 2022-07-29 |
@@ -42,6 +43,7 @@
 | [Blanko](https://open.spotify.com/track/7y9ps21wLaKtpDbEPruqIc) | [Janella Salvador](https://open.spotify.com/artist/5TNuvf8y7Y3QLXsNaIYCYX) | [Blanko](https://open.spotify.com/album/148oTpJ8CmN0o0Rxl0aYAq) | 3:30 | 2022-04-04 | 2022-07-29 |
 | [Blink Twice \- Dos Veces Remix](https://open.spotify.com/track/6SNHfk6CipQOSALhblynof) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Blink Twice \(Dos Veces Remix\)](https://open.spotify.com/album/29rcLP1Uni7elTtxuiXF1J) | 2:34 | 2025-03-18 | 2025-04-15 |
 | [blue](https://open.spotify.com/track/2ezMnGfGww3WSOJp7TwI1N) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [blue](https://open.spotify.com/album/4dhoGa2hqBQ402BaIwBpcn) | 3:34 | 2024-10-18 | 2024-12-06 |
+| [Blueberry Skies](https://open.spotify.com/track/3NCz117frOEZV6dSgVpop6) | [CHIRAI](https://open.spotify.com/artist/2p3FQ1wlwCWcCXQpUuxWTa) | [Blueberry Skies](https://open.spotify.com/album/75El775pQjP9Mx13n1rl41) | 3:26 | 2026-04-14 |  |
 | [breaking news](https://open.spotify.com/track/654XTpkoachnc4HT2Fi3Fn) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [breaking news](https://open.spotify.com/album/32pkmWSgB4V9UTJnqIzPp7) | 2:41 | 2024-11-06 | 2025-01-19 |
 | [BUTTERFLIES](https://open.spotify.com/track/7eQHxigpuDJjCG50JyzU8v) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [BUTTERFLIES](https://open.spotify.com/album/4TENiEyNNnHbRixbSa0XKg) | 3:11 | 2022-04-04 | 2024-02-21 |
 | [Camera](https://open.spotify.com/track/4rWeuQF9HD3UP6XEqLDVew) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play \(Extended Edition\)](https://open.spotify.com/album/64QhljQEwTfoEt9z6jsyxl) | 3:35 | 2025-09-17 | 2025-09-27 |
@@ -126,7 +128,7 @@
 | [I LOVE YOU](https://open.spotify.com/track/3zDfauunufdNjP8gBhlte0) | [Singto Numchok](https://open.spotify.com/artist/780z5aP7EUHfDT6Q5YERKL) | [I LOVE YOU](https://open.spotify.com/album/0qaSGustJqBqXqG0ZQy320) | 2:34 | 2022-04-04 | 2022-07-22 |
 | [I Miss U](https://open.spotify.com/track/3r40QKuIBpo9b9Wv4PTkdQ) | [Dom Guyot](https://open.spotify.com/artist/5ygKtDod9YYPAe0574Cwk0) | [I Miss U](https://open.spotify.com/album/29QMQogAweVAtN9wARqEUx) | 3:04 | 2022-04-04 | 2022-06-22 |
 | [I Need You More Today](https://open.spotify.com/track/04qDUASuSfVp6fktfsxVej) | [Caleb Santos](https://open.spotify.com/artist/3XEHRbR9NMWfNzQ6TQMS9M), [Viva Music Publishing Inc.](https://open.spotify.com/artist/1d1BeULLUX4HWNVypEUMfy) | [I Need You More Today](https://open.spotify.com/album/1Le1ykkfNX7dMyUYVOf6jj) | 3:53 | 2024-04-19 | 2024-09-05 |
-| [I Quit Drinking](https://open.spotify.com/track/6OcCk1dbAb7XNHsC098oEM) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [I Quit Drinking](https://open.spotify.com/album/5c5S9cyjHKBQRm1DGU1E8J) | 2:51 | 2022-04-04 |  |
+| [I Quit Drinking](https://open.spotify.com/track/6OcCk1dbAb7XNHsC098oEM) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [I Quit Drinking](https://open.spotify.com/album/5c5S9cyjHKBQRm1DGU1E8J) | 2:51 | 2022-04-04 | 2026-04-15 |
 | [I Really Like You](https://open.spotify.com/track/4tQUdIk3MXQHgP2sRNdrJQ) | [reon](https://open.spotify.com/artist/5jAOzTxCoR1qHXKVHsfDSr) | [I Really Like You](https://open.spotify.com/album/3AdGDEz1cYJJtYowBLEq4r) | 2:10 | 2022-04-04 | 2022-07-25 |
 | [I Think I Love You](https://open.spotify.com/track/5HEKt8IROiFFssxxdAWojl) | [David Licauco](https://open.spotify.com/artist/6mGDgys4zvPKYGh8K80dTW) | [I Think I Love You](https://open.spotify.com/album/5yCi1FXzQ2IYoyqaY0XzKd) | 2:36 | 2025-09-12 | 2025-09-27 |
 | [I Think They Call This Love](https://open.spotify.com/track/6ezlyxouJ9WcHU8WdtHlgk) | [Elliot James Reay](https://open.spotify.com/artist/2PI9HrzzMTN7E5poWl4QX5) | [I Think They Call This Love](https://open.spotify.com/album/5GubtQSUJnwMlF6G7gX3QE) | 3:13 | 2024-10-18 | 2024-11-22 |
@@ -196,7 +198,7 @@
 | [Mirasol](https://open.spotify.com/track/7zLBGK5lDf5cnAA3ea4xR9) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH) | [Mirasol](https://open.spotify.com/album/4K1X6LZLGRSOXBBaGAqvft) | 3:27 | 2024-10-24 | 2024-11-30 |
 | [Miss Miss](https://open.spotify.com/track/5mi8Oe95frx6LhvFioXE7t) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Miss Miss](https://open.spotify.com/album/7vX4hut0GPXmfbqbSvz49o) | 4:25 | 2024-01-10 | 2026-01-27 |
 | [Misteryoso](https://open.spotify.com/track/0kE1SmlJNLg14dgdo9kJws) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Misteryoso](https://open.spotify.com/album/6BqP9dOpxUGa7gCunYMw9a) | 3:41 | 2024-06-05 | 2026-04-09 |
-| [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 | 2024-11-04 |  |
+| [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 | 2024-11-04 | 2026-04-15 |
 | [Museo](https://open.spotify.com/track/2dMQ4FbQcrEWVFK6NIFjrl) | [Eliza Maturan](https://open.spotify.com/artist/3C1ER0cuXc8dLtaI8RvLI6) | [Museo](https://open.spotify.com/album/5YU9eW5SXNmyX768HHrDFr) | 4:30 | 2024-06-11 | 2024-07-03 |
 | [My Favorite Movie](https://open.spotify.com/track/4rogQcTh9fZvqH6aCUGxuB) | [Gilyan Saludes](https://open.spotify.com/artist/0O9bX2IzP7MxBcpAel5twJ) | [My Favorite Movie](https://open.spotify.com/album/12FgPn7XtNi0REhdTw4DMG) | 3:50 | 2022-04-04 | 2022-07-28 |
 | [Nahuhulog](https://open.spotify.com/track/1t2gvCG4jH1kYE9sX2PrRs) | [Jed Baruelo](https://open.spotify.com/artist/6EigliA66uumHSob7cOG1y) | [Nahuhulog](https://open.spotify.com/album/6djSRoiGffRDFthmbsRgDP) | 3:47 | 2023-09-13 | 2024-04-19 |

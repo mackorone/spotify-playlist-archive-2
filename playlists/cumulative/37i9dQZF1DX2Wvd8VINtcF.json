@@ -37483,6 +37483,24 @@
     },
     {
       "album": {
+        "name": "stay with me",
+        "url": "https://open.spotify.com/album/1szkuMBPAlxjThr7K8PVxv"
+      },
+      "artists": [
+        {
+          "name": "d\u00f3ttir.x",
+          "url": "https://open.spotify.com/artist/7jq2vXolpLlHipMTPVeMR0"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179320,
+      "name": "stay with me",
+      "url": "https://open.spotify.com/track/3ohtc0JIOXUIjZVy5DCSBI"
+    },
+    {
+      "album": {
         "name": "Stayed at the Party",
         "url": "https://open.spotify.com/album/3fNOwnasCq1Aw0Y4M3Pstq"
       },

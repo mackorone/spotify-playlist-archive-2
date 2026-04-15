@@ -4,7 +4,7 @@
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:20B8Ga2HfEUNJBAbZsJU2c">Trap Dickey</a>
 
-2,799 songs - 5 day 3 hr 15 min
+2,801 songs - 5 day 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -716,7 +716,7 @@
 | [Drama](https://open.spotify.com/track/40ROAtBj7soL5rbqXQjU4k) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [Drama](https://open.spotify.com/album/7AjEEgzswMrJJfcKKxIVjZ) | 2:33 | 2025-07-25 | 2025-08-16 |
 | [Drank](https://open.spotify.com/track/1ssylCrMLzIlvMfvPGSPF6) | [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Drank](https://open.spotify.com/album/4wkCxaE8lrxwpEW7sdsSnh) | 3:47 | 2024-12-21 | 2025-01-11 |
 | [Dream](https://open.spotify.com/track/3r4myCRyUHfTc8joUS3st5) | [BAK Jay](https://open.spotify.com/artist/7L2tttKztwzcNqrKUiEbZR) | [Dream](https://open.spotify.com/album/3iOdVj6hlLXxDgW7ooU9ZA) | 2:22 | 2026-03-13 |  |
-| [Dreams](https://open.spotify.com/track/1kq6BFrLkZE7FMReMFIpIp) | [C Stunna](https://open.spotify.com/artist/5Gsj3FkPmxWlrvS79SWDCF), [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [Born To Stunt](https://open.spotify.com/album/6KKau0Ln7rroVVt07O1E76) | 2:38 | 2026-04-03 |  |
+| [Dreams](https://open.spotify.com/track/1kq6BFrLkZE7FMReMFIpIp) | [C Stunna](https://open.spotify.com/artist/5Gsj3FkPmxWlrvS79SWDCF), [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [Born To Stunt](https://open.spotify.com/album/6KKau0Ln7rroVVt07O1E76) | 2:38 | 2026-04-03 | 2026-04-15 |
 | [DRESScode](https://open.spotify.com/track/1wOtaODw1gIZve9aQ0Nv1t) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [DRESScode](https://open.spotify.com/album/5UMBQyB5LKje7cKOFma8vP) | 2:28 | 2025-03-21 | 2025-03-29 |
 | [DRIFTING IN TOKYO](https://open.spotify.com/track/4Sx3LWJDdzWIvyOgQJ9vXt) | [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [Pretty In Black](https://open.spotify.com/album/0zGITDnaDBlBAyixXP7gJi) | 1:48 | 2022-06-03 | 2022-06-18 |
 | [DRIP \(feat\. E\-40 & OHGEESY\)](https://open.spotify.com/track/6b6jyIRJra0eLwy7NnAo3u) | [D3szn](https://open.spotify.com/artist/3XUSSPMccIhcVTQ2kOHJPn), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [DRIP \(feat\. E\-40 & OHGEESY\)](https://open.spotify.com/album/55jywlPHXDY7BPQtEL2tbZ) | 2:57 | 2022-03-25 | 2022-04-16 |
@@ -927,6 +927,7 @@
 | [GBP \(feat\. 21 Savage\)](https://open.spotify.com/track/5emD8K39MmotlCLOx9qzCH) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [GBP \(feat\. 21 Savage\)](https://open.spotify.com/album/4Ep5kfo5Z40qVV0vBYC8De) | 2:34 | 2025-01-17 | 2025-06-21 |
 | [GEEKED](https://open.spotify.com/track/5z312Kj6WDRTK5xIjtR927) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [GEEKED](https://open.spotify.com/album/62n79zChKrngUMIkUqtLCd) | 1:37 | 2024-03-08 | 2024-04-06 |
 | [Geeked Up \(feat\. Gucci Mane\)](https://open.spotify.com/track/3d19P64cMd5IM6jGGwKcSS) | [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Geeked Up \(feat\. Gucci Mane\)](https://open.spotify.com/album/3Ej4xcq9U5V4cUsfjxeXgV) | 2:55 | 2022-10-07 | 2022-12-10 |
+| [GEEZER](https://open.spotify.com/track/4gKVzzNSCQ8Nri3zohtA0u) | [ERISTHEPLANET](https://open.spotify.com/artist/7qrlv2SiNqUaQT7dBuUHn3) | [GEEZER](https://open.spotify.com/album/12GaNnRBeuMDTpgXrkFnBY) | 2:26 | 2026-04-14 |  |
 | [Gen Z Luv](https://open.spotify.com/track/13hJUmR1UpCUzyHjotiImK) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Gen Z Luv](https://open.spotify.com/album/2zabsrUFQymnLIv1j4CQhI) | 2:33 | 2024-07-27 | 2025-01-25 |
 | [Get Back](https://open.spotify.com/track/7hN02og1TARl5EER4wURPb) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv) | [Get Back](https://open.spotify.com/album/3gNuY9GJCmvKpTx6v3ZPaa) | 1:49 | 2021-12-03 | 2022-02-19 |
 | [Get Back](https://open.spotify.com/track/4Qob1cIOK2ENw20RHPf9xT) | [Mello Buckzz](https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw) | [Get Back](https://open.spotify.com/album/5ZzYqMr4AUkkZuCNxUx1M3) | 2:13 | 2026-03-27 |  |
@@ -1689,7 +1690,7 @@
 | [No Gun No Knife](https://open.spotify.com/track/6aR5ufkC3OlM66lJ43wcJU) | [Superstar Pride](https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa) | [No Gun No Knife](https://open.spotify.com/album/2rwNRhPDhw6jwjRTAcd8wu) | 3:32 | 2023-07-14 | 2023-08-05 |
 | [No Handoutz \(feat\. Yeat\)](https://open.spotify.com/track/1jkHLTFc1j6HMHnaGq8QCH) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [No Handoutz \(feat\. Yeat\)](https://open.spotify.com/album/0WcAW53YH794LAay9RX8Op) | 2:30 | 2022-04-29 | 2022-06-26 |
 | [No Heart](https://open.spotify.com/track/2bFn2KpjuNdTDkHgiwMXhk) | [Kromow](https://open.spotify.com/artist/1b6d3fFLaHyLRs114XalaA) | [35 NIGHTS](https://open.spotify.com/album/4MZqDWUAJAbPkHE80UFmdn) | 2:33 | 2026-02-27 | 2026-04-11 |
-| [NO HOOK](https://open.spotify.com/track/2bQQV9oDgqBjU3wnKQtyCk) | [KARRAHBOOO](https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP) | [NO HOOK](https://open.spotify.com/album/4ug1Q2Bskr7WKaSOd4nyVE) | 1:08 | 2026-03-06 |  |
+| [NO HOOK](https://open.spotify.com/track/2bQQV9oDgqBjU3wnKQtyCk) | [KARRAHBOOO](https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP) | [NO HOOK](https://open.spotify.com/album/4ug1Q2Bskr7WKaSOd4nyVE) | 1:08 | 2026-03-06 | 2026-04-15 |
 | [No Instagram](https://open.spotify.com/track/3KJdrnvbMqwI0BtDL0VtmP) | [Mark Battles](https://open.spotify.com/artist/24SwsBq76FnNeXW9Do4wPI) | [No Instagram](https://open.spotify.com/album/7dglfy3ugCTaFZolcHapAZ) | 2:24 | 2024-02-02 | 2024-03-23 |
 | [No Kizzy](https://open.spotify.com/track/0hDxLP8ThPji6I53tI2JFa) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Vulture](https://open.spotify.com/album/5MikntzsogPyecM8lRiwP4) | 2:24 | 2022-12-09 | 2023-02-18 |
 | [No Love](https://open.spotify.com/track/6ZhQsccTqnGVAR61i0NF4X) | [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE) | [No Love](https://open.spotify.com/album/5qlaswyYRuzq0TBLInsNlX) | 2:55 | 2022-09-23 | 2022-10-01 |
@@ -2719,6 +2720,7 @@
 | [Wifey](https://open.spotify.com/track/5lb9WTRIe0geWjt5zRPTpy) | [Rubi Rose](https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk) | [Wifey](https://open.spotify.com/album/37lHNd8jnQhYTOTrT2TC4J) | 2:03 | 2022-06-10 | 2022-07-23 |
 | [Wifey \(feat\. NoCap\)](https://open.spotify.com/track/5tF5fpDCjEdidfMQJTJnqo) | [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [The Coldest](https://open.spotify.com/album/0V2BZLpJjyk4eey1BOC9st) | 3:24 | 2024-05-25 | 2024-07-27 |
 | [Wig Splitter](https://open.spotify.com/track/2VUZU4RAaSdIjnpKaWOVCW) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Where The Flowers Don't Die](https://open.spotify.com/album/0oKgiQKCek2KARB2vjo7Tf) | 2:17 | 2023-05-26 | 2023-09-09 |
+| [WIMPY KID](https://open.spotify.com/track/0w4HL9Q06q8rYmgHpx7FTO) | [Ealuhri](https://open.spotify.com/artist/2n2FVOKRLECOpBdnP8b1Ov) | [WIMPY KID](https://open.spotify.com/album/5PcBLNcO896vU5TS39z6Wu) | 1:52 | 2026-04-14 |  |
 | [WIN 4 LOSIN \(with Rylo Rodriguez\)](https://open.spotify.com/track/104Z44ugOYxbw2RzGBWZPn) | [Lil Poppa](https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [HEAVY IS THE HEAD](https://open.spotify.com/album/5JiiyLyGI5LSP0N0bcu6wy) | 2:52 | 2022-11-04 | 2023-01-21 |
 | [Win For Losin](https://open.spotify.com/track/5FwOCUkCwiglj4MwGn04tB) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Win For Losin](https://open.spotify.com/album/4QyUbGbGyn1725sRukfZ9P) | 1:56 | 2023-01-06 | 2023-02-25 |
 | [Win Wit Us](https://open.spotify.com/track/1oIefhM6QIK2eXdbtiAhbg) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Win Wit Us](https://open.spotify.com/album/6flksMqL2DLGLq6lHc80md) | 2:37 | 2024-05-17 | 2024-07-27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 724 likes - 78 songs - 4 hr 25 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 730 likes - 80 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,5 +86,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 76 | [Rabbit!](https://open.spotify.com/track/3knD7dkD3rgu3AAF893E8R) | [Kim Million$](https://open.spotify.com/artist/393NYPTSuRjbbf2HtcnRMN) | [Rabbit!](https://open.spotify.com/album/3DQgH9DE5lLAXPmnwHnRTy) | 2:10 |
 | 77 | [Fuiste de Viaje](https://open.spotify.com/track/2CbJGe8IetHy4H4Qv1TIEq) | [Melany Cubero](https://open.spotify.com/artist/4OrIEJHh24oAbE1evJRR7c) | [Invisible](https://open.spotify.com/album/26CgmwfJA3HjUE9A8SBZ47) | 3:12 |
 | 78 | [Things Won't Be The Same](https://open.spotify.com/track/6hZM4lUIc7x72NIaDn59l3) | [Solo el Malo](https://open.spotify.com/artist/6zInnYXXcyniz3JBivUoX8) | [Things Won't Be The Same](https://open.spotify.com/album/3d0nPUL8AjoeHdqFaOAgj1) | 3:21 |
+| 79 | [Whistling](https://open.spotify.com/track/4p1fYOHCCx1CvPk6UbIbSZ) | [Borth](https://open.spotify.com/artist/41wNDlWrwYPOzTFIh1PvH6) | [Whistling](https://open.spotify.com/album/2QOkUXOeTgGNQQ9iXD2e0B) | 3:16 |
+| 80 | [D'Or et D'Essence](https://open.spotify.com/track/54j84CQorBTHez8kAudRee) | [Mehdy Akki](https://open.spotify.com/artist/6S38wI5QEZb1pM4YqJ2frS) | [D'Or et D'Essence](https://open.spotify.com/album/2JoCCUBiLDOana2AHlaDlx) | 2:55 |
 
-Snapshot ID: `AAADcAm476M5BxKqj+Vo6+oCZSCposyG`
+Snapshot ID: `AAADcurSWiYm1sDDAjlWP6QG/4ANdtFi`

@@ -2,21 +2,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 
 ### [Loud Rock Japan](https://open.spotify.com/playlist/37i9dQZF1DX54Fkcz35jfT)
 
-> 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。/  Discover the intensity and emotion resonating through Japan’s hard rock\. Cover: SiM
+> 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。/  Discover the intensity and emotion resonating through Japan’s hard rock\. Cover: Prompts
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,927 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,936 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [FiVE TiMES DEAD \(by my wallet\)](https://open.spotify.com/track/1P1oxa1cCrZwXutvmp0MQK) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [FiVE TiMES DEAD \(by my wallet\)](https://open.spotify.com/album/50RTZrrOcal2MouiLJAhiY) | 3:24 |
-| 2 | [孤独の先](https://open.spotify.com/track/5bodA8p8KGZhv3b1HrQkn8) | [Nothing’s Carved In Stone](https://open.spotify.com/artist/2aUTxokSKOzwUxXBp9AAlb) | [Fire Inside Us](https://open.spotify.com/album/1C6u53lVYx1WJyx6Is9oJX) | 4:17 |
-| 3 | [絆ノ奇跡](https://open.spotify.com/track/2VBLFxCUyFp5BfmsZpxcis) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ), [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [絆ノ奇跡](https://open.spotify.com/album/1xml9CR90tJdvTESDk4Q4s) | 3:43 |
+| 1 | [Death of Me](https://open.spotify.com/track/0N4Ho9OSQu4FDVldoSrAm4) | [Prompts](https://open.spotify.com/artist/3roPPqGAbyY4WHCbJbJnjl) | [Death of Me](https://open.spotify.com/album/1WGSsq1ds6cEn1expc4kLc) | 4:59 |
+| 2 | [FiVE TiMES DEAD \(by my wallet\)](https://open.spotify.com/track/1P1oxa1cCrZwXutvmp0MQK) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [FiVE TiMES DEAD \(by my wallet\)](https://open.spotify.com/album/50RTZrrOcal2MouiLJAhiY) | 3:24 |
+| 3 | [孤独の先](https://open.spotify.com/track/5bodA8p8KGZhv3b1HrQkn8) | [Nothing’s Carved In Stone](https://open.spotify.com/artist/2aUTxokSKOzwUxXBp9AAlb) | [Fire Inside Us](https://open.spotify.com/album/1C6u53lVYx1WJyx6Is9oJX) | 4:17 |
 | 4 | [KINTSUGI feat\. Koie](https://open.spotify.com/track/4mOGeF0xI6dThLtCkB1jbn) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ), [Koie](https://open.spotify.com/artist/35yfozzh2wqgabWuz3d0AC) | [KINTSUGI feat\. Koie](https://open.spotify.com/album/2zxxqSTBxBJ8YHuz2Q8NKy) | 3:23 |
 | 5 | [ERASE](https://open.spotify.com/track/5Drv786v9viM5BxXZrCOqM) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [ERASE](https://open.spotify.com/album/6Av9ZMcqAgdMqYq3xXu1iB) | 3:02 |
 | 6 | [Everything](https://open.spotify.com/track/5PhFbL3KH8Yky5pzIkTTs2) | [Nothing’s Carved In Stone](https://open.spotify.com/artist/2aUTxokSKOzwUxXBp9AAlb) | [Everything](https://open.spotify.com/album/7Abg2P4028HyB0Bi4XkyBH) | 4:12 |
-| 7 | [RATATATA](https://open.spotify.com/track/14WYmNQWvR2TTWoRp8t9Ml) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [RATATATA](https://open.spotify.com/album/4DccXktGbSRsgUoBvH8EN7) | 3:36 |
+| 7 | [絆ノ奇跡](https://open.spotify.com/track/2VBLFxCUyFp5BfmsZpxcis) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ), [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [絆ノ奇跡](https://open.spotify.com/album/1xml9CR90tJdvTESDk4Q4s) | 3:43 |
 | 8 | [STILL ON FIRE](https://open.spotify.com/track/5blRKN8WIFG3WXUzNytf5B) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [STILL ON FIRE](https://open.spotify.com/album/0mVecY7PMTHop2lnWOb7Vf) | 3:16 |
-| 9 | [サイレン](https://open.spotify.com/track/6DYebc1Ii95osJRX1P0Ke8) | [アンと私](https://open.spotify.com/artist/77KkjvrS1UpnQX2KldfB1J) | [NARCISM](https://open.spotify.com/album/0yjBA2zw38OSZOv9a8sVCR) | 3:05 |
+| 9 | [RATATATA](https://open.spotify.com/track/14WYmNQWvR2TTWoRp8t9Ml) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [RATATATA](https://open.spotify.com/album/4DccXktGbSRsgUoBvH8EN7) | 3:36 |
 | 10 | [夢幻](https://open.spotify.com/track/2otdcgLtoowuQzlU0Cx827) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd), [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [夢幻](https://open.spotify.com/album/77YX7r0H57cuZKyveTjoqQ) | 4:01 |
 | 11 | [Speak of the Devil](https://open.spotify.com/track/2cTKXbBQq9aMHPIWKqtff0) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh), [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Speak of the Devil](https://open.spotify.com/album/0xC2kMMJgBSWohWmTDeW8L) | 3:42 |
 | 12 | [Make It Out Alive](https://open.spotify.com/track/4WVJeRP6hjMMBkmWsV4TtF) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Make It Out Alive](https://open.spotify.com/album/6FRkntES0AkBOQu9AOHNeo) | 3:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 | 99 | [厄災](https://open.spotify.com/track/0IAJ4414Gaan0R3Eq6dtBm) | [Knosis](https://open.spotify.com/artist/5o1BN92ZEG8TucPzj6czCh) | [THE ETERNAL DOOM](https://open.spotify.com/album/35kPTUOLmfdvLb7IyrTInP) | 3:00 |
 | 100 | [Nocturnal Whale](https://open.spotify.com/track/4Kk5pG9KEHwTEq2QTKY4td) | [Hello Sleepwalkers](https://open.spotify.com/artist/12CmFAwzxYnVtJgnzIysvm) | [Nocturnal Whale](https://open.spotify.com/album/6YbYvUBlox0nPfRxG0eLQS) | 4:40 |
 
-Snapshot ID: `AAAAAKUTtkSeOPlEWroBDBVCFAO7mZhc`
+Snapshot ID: `AAAAAE+Fo4QW8KDF0AeIsyEn0vhFgvGm`

@@ -1,12 +1,12 @@
 {
   "description": "This is Gerardo Ortiz. The essential tracks, all in one playlist.",
-  "num_followers": 476149,
+  "num_followers": 476195,
   "original_name": "This Is Gerardo Ortiz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adrggAAAAAAVJgoAAY+rbg7twVpnUfsP",
+  "snapshot_id": "adwyAAAAAAA9o6UZVzNn6VuiSKOHqV/F",
   "tracks": [
     {
       "added_at": null,
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
         }
       ],
-      "duration_ms": 181826,
-      "name": "Me Voy",
-      "url": "https://open.spotify.com/track/5Cx2essf5FdkVjP0aJFywN"
+      "duration_ms": 217546,
+      "name": "Leyenda Caro Quintero",
+      "url": "https://open.spotify.com/track/69G9A49eLm8nLx6cCgLsek"
     },
     {
       "added_at": null,
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
         }
       ],
-      "duration_ms": 217546,
-      "name": "Leyenda Caro Quintero",
-      "url": "https://open.spotify.com/track/69G9A49eLm8nLx6cCgLsek"
+      "duration_ms": 181826,
+      "name": "Me Voy",
+      "url": "https://open.spotify.com/track/5Cx2essf5FdkVjP0aJFywN"
     },
     {
       "added_at": null,
@@ -715,26 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Andamos Recio",
-        "url": "https://open.spotify.com/album/5OU2nDge99Voto4N4Vl6yS"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 152200,
-      "name": "Andamos Recio",
-      "url": "https://open.spotify.com/track/4x02u1dxnmoeR4GHOAmuXG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FIVE (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7fIqsFfeYEEP9RO25KHj8P"
       },
@@ -751,6 +731,26 @@
       "duration_ms": 186773,
       "name": "Moneda (feat. Gerardo Ortiz)",
       "url": "https://open.spotify.com/track/6zR3aAwQ7cn2U7F1sBtdj1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Andamos Recio",
+        "url": "https://open.spotify.com/album/5OU2nDge99Voto4N4Vl6yS"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 152200,
+      "name": "Andamos Recio",
+      "url": "https://open.spotify.com/track/4x02u1dxnmoeR4GHOAmuXG"
     },
     {
       "added_at": null,
@@ -843,22 +843,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Ah\u00ed, Por Ah\u00ed",
-        "url": "https://open.spotify.com/album/41KOsqoNOP6XhNBtY3yqi8"
+        "name": "D\u00e9jate de Cosas",
+        "url": "https://open.spotify.com/album/3DvNNzASGZtmgpQqJKmcHz"
       },
       "artists": [
         {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         },
         {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
         }
       ],
-      "duration_ms": 157116,
-      "name": "Por Ah\u00ed, Por Ah\u00ed",
-      "url": "https://open.spotify.com/track/2nlSXEs9hETAlXCjZbnNvh"
+      "duration_ms": 169999,
+      "name": "D\u00e9jate de Cosas",
+      "url": "https://open.spotify.com/track/1Sx9ZpBDImdMD8htvnQrdl"
     }
   ],
   "unique_name": "This Is Gerardo Ortiz",

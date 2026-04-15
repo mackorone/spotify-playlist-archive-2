@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap nacional\. Foto: Jotapê, Froid
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,949 likes - 75 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,945 likes - 75 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 69 | [A Forja](https://open.spotify.com/track/5okE79B1du18XxizBqmYVt) | [Jota Ghetto](https://open.spotify.com/artist/37HzB0soiShqHGooeDTEQ4), [Ander Som](https://open.spotify.com/artist/5OwVygSdg3frjvJYe3cuWb) | [A Forja](https://open.spotify.com/album/3HiTCZp8hco7i8ZMigTnCw) | 4:02 |
 | 70 | [SÓ PRA MIM](https://open.spotify.com/track/6l9V7OrQ2RroszIQQmjJQY) | [Link do Zap](https://open.spotify.com/artist/69HZc0P77aI7VUFx4GAdQm), [dadá Joãozinho](https://open.spotify.com/artist/2iGbCpu2oDuyZHrYdNwD1X) | [SÓ PRA MIM](https://open.spotify.com/album/2COv9o3eCMvPsSKOqkxW9l) | 3:25 |
 | 71 | [O QUE É SER HERDEIRO?](https://open.spotify.com/track/5x5UZcBJnSrUw3XoopsnYM) | [FRESH](https://open.spotify.com/artist/2BGHRFhBAgK5Dyp2g7PCGh), [D'mazo](https://open.spotify.com/artist/378Z1zBVfU16par2plZF6k), [UM ENT](https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT) | [O QUE É SER HERDEIRO?](https://open.spotify.com/album/2LkK1m8YngInXH3nYfZS9Y) | 2:18 |
-| 72 | [A Fuga de Camazotz](https://open.spotify.com/track/2DMaY7YghQxgqZg8Zfg4NZ) | [Scooby](https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd) | [Coisas Estranhas Capitulo 9](https://open.spotify.com/album/0viET2dlVnOiKdAggEFj9U) | 2:50 |
+| 72 | [A Fuga de Camazotz](https://open.spotify.com/track/2DMaY7YghQxgqZg8Zfg4NZ) | [Scooby](https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd), [Pri Lippi](https://open.spotify.com/artist/4gJRL4fct3pSuKK0epDQct) | [Coisas Estranhas Capitulo 9](https://open.spotify.com/album/0viET2dlVnOiKdAggEFj9U) | 2:50 |
 | 73 | [Aquele Tipo de Som](https://open.spotify.com/track/1HWfIMdhK7JYrZa6iW5mUd) | [Pinotti](https://open.spotify.com/artist/1IHCpTo50InaIDRqX54B1x), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Jean Tassy](https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU) | [Aquele Tipo de Som](https://open.spotify.com/album/6jFBRhPwlU8UgXS53rHaqV) | 2:35 |
 | 74 | [Faço Acontecer](https://open.spotify.com/track/37ApccN7IgSrnuDYMbRNHU) | [NandaTsunami](https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk), [Pluck D](https://open.spotify.com/artist/514cPHde1lpv5Umk7f6rWq), [C4rlinhxs](https://open.spotify.com/artist/2d7vU3M4WY23wRN1nAqEwp), [vvallace](https://open.spotify.com/artist/6rxl5k2VobxbepP3fNRVuO) | [Faço Acontecer](https://open.spotify.com/album/1JoDY5x7dmUiQZQhFEMl7M) | 2:36 |
 | 75 | [Apenas Faça](https://open.spotify.com/track/3Xpetudqow4CgzbLActhC5) | [Dj Will](https://open.spotify.com/artist/0AMRCdhTSFfEFiu4UgOCwX), [Bova](https://open.spotify.com/artist/2eickhny1d0c6oaBfSlKhF), [Onã](https://open.spotify.com/artist/44phALa8kYqCc9vHuQyuRl) | [Quintal](https://open.spotify.com/album/7gTz1ujWQ2FYSII0CMxc6x) | 4:35 |

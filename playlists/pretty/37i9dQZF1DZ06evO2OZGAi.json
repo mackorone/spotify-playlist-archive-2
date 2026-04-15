@@ -1,12 +1,12 @@
 {
   "description": "This is Am\u00e9n. The essential tracks, all in one playlist.",
-  "num_followers": 7065,
+  "num_followers": 7066,
   "original_name": "This Is Am\u00e9n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adrggAAAAACtWezqTch0buJWKECbVKYz",
+  "snapshot_id": "adwyAAAAAACoD9JSsxsEGTPtdCpv+3/s",
   "tracks": [
     {
       "added_at": null,
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 219840,
-      "name": "Blues Ciego",
-      "url": "https://open.spotify.com/track/0znYWOEldU5c7Tj25AGAI8"
+      "duration_ms": 160306,
+      "name": "El D\u00eda",
+      "url": "https://open.spotify.com/track/4BqTzveFlEveHNtWZ3dAqh"
     },
     {
       "added_at": null,
@@ -443,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pagando el precio",
-        "url": "https://open.spotify.com/album/68DUrpCWFKIsRjynDOQdXg"
+        "name": "2020",
+        "url": "https://open.spotify.com/album/1oXZpcZxhAIPejsCHdpq8o"
       },
       "artists": [
         {
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 215076,
-      "name": "Pagando el precio",
-      "url": "https://open.spotify.com/track/6STWRUlgr4kxD4N2WLgipr"
+      "duration_ms": 136081,
+      "name": "No S\u00e9 por Qu\u00e9",
+      "url": "https://open.spotify.com/track/0YvFPgjHcLj3s6vfxzti2l"
     },
     {
       "added_at": null,
@@ -468,15 +468,15 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 160306,
-      "name": "El D\u00eda",
-      "url": "https://open.spotify.com/track/4BqTzveFlEveHNtWZ3dAqh"
+      "duration_ms": 219840,
+      "name": "Blues Ciego",
+      "url": "https://open.spotify.com/track/0znYWOEldU5c7Tj25AGAI8"
     },
     {
       "added_at": null,
       "album": {
-        "name": "2020",
-        "url": "https://open.spotify.com/album/1oXZpcZxhAIPejsCHdpq8o"
+        "name": "Pagando el precio",
+        "url": "https://open.spotify.com/album/68DUrpCWFKIsRjynDOQdXg"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 136081,
-      "name": "No S\u00e9 por Qu\u00e9",
-      "url": "https://open.spotify.com/track/0YvFPgjHcLj3s6vfxzti2l"
+      "duration_ms": 215076,
+      "name": "Pagando el precio",
+      "url": "https://open.spotify.com/track/6STWRUlgr4kxD4N2WLgipr"
     },
     {
       "added_at": null,

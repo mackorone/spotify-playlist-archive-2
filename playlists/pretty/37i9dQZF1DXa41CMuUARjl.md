@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 
 > This week's best new <a href="spotify:genre:edm\_dance">dance and electronic releases</a> from MËSTIZA, Sara Landry, Kygo, & more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 566,914 likes - 125 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 566,959 likes - 125 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -293,6 +293,24 @@
     },
     {
       "album": {
+        "name": "Apartmento",
+        "url": "https://open.spotify.com/album/3TZTLiv5mDt55bqGggFiTH"
+      },
+      "artists": [
+        {
+          "name": "Escix V",
+          "url": "https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219010,
+      "name": "Apartmento",
+      "url": "https://open.spotify.com/track/2wANsI6fVcxBsQjIc3YvUG"
+    },
+    {
+      "album": {
         "name": "Aperture",
         "url": "https://open.spotify.com/album/1mfNFGs5Q8fnUScXDSMxvE"
       },
@@ -401,6 +419,24 @@
     },
     {
       "album": {
+        "name": "Astral Grove",
+        "url": "https://open.spotify.com/album/5LvQlCraSOY8p8TKrkzJ9I"
+      },
+      "artists": [
+        {
+          "name": "dream index",
+          "url": "https://open.spotify.com/artist/4qQhnABlGWb6DvXyTI4bTN"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198726,
+      "name": "Astral Grove",
+      "url": "https://open.spotify.com/track/2u6ekfh4BCNBuyHUUgTtBp"
+    },
+    {
+      "album": {
         "name": "At Day's End",
         "url": "https://open.spotify.com/album/7L4cEWdKBXbOYzxtP46FVG"
       },
@@ -416,6 +452,24 @@
       "duration_ms": 173558,
       "name": "At Day's End",
       "url": "https://open.spotify.com/track/0dE4epGWpmb0DB5mCZgN0T"
+    },
+    {
+      "album": {
+        "name": "Athelas",
+        "url": "https://open.spotify.com/album/3IcjGJ5EywixbDBIcq5BsR"
+      },
+      "artists": [
+        {
+          "name": "Natthiko",
+          "url": "https://open.spotify.com/artist/2WhAGlrlrhnSrEtFnahLmh"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147272,
+      "name": "Athelas",
+      "url": "https://open.spotify.com/track/7B5CwZMPaCpm25xDqRMNUI"
     },
     {
       "album": {
@@ -470,6 +524,24 @@
       "duration_ms": 180362,
       "name": "Aurora Borealis Melody",
       "url": "https://open.spotify.com/track/3XkQDGQRnsKLNJ71BwYnqq"
+    },
+    {
+      "album": {
+        "name": "Aurora\u2019s Breath",
+        "url": "https://open.spotify.com/album/4FJLjCD5F2KJGS4TUXGPNs"
+      },
+      "artists": [
+        {
+          "name": "Seth Sands",
+          "url": "https://open.spotify.com/artist/1EcwJ494z7gVanrsuDjNs8"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197015,
+      "name": "Aurora\u2019s Breath",
+      "url": "https://open.spotify.com/track/6VZhciL5LkUnaJdAmHUh1C"
     },
     {
       "album": {
@@ -823,6 +895,24 @@
     },
     {
       "album": {
+        "name": "Celeste Wave",
+        "url": "https://open.spotify.com/album/7pPm4Byjh0NsKDtvcq2dVd"
+      },
+      "artists": [
+        {
+          "name": "Antonio Di Lago",
+          "url": "https://open.spotify.com/artist/1oLghSG7crCjDU2huMzMPo"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130355,
+      "name": "Celeste Wave",
+      "url": "https://open.spotify.com/track/14vkOb5b2mbmTkxAAhSgGU"
+    },
+    {
+      "album": {
         "name": "Celestial Silence",
         "url": "https://open.spotify.com/album/2nFYyCovKTvAkft9F9Gbwm"
       },
@@ -834,7 +924,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 194999,
       "name": "Celestial Silence",
       "url": "https://open.spotify.com/track/2OWiBK2O9955a9eVM2SeZJ"
@@ -1363,6 +1453,24 @@
     },
     {
       "album": {
+        "name": "Dvala",
+        "url": "https://open.spotify.com/album/5kXNhoyYq7WvLmCVhm7gJR"
+      },
+      "artists": [
+        {
+          "name": "D\u00e5tid",
+          "url": "https://open.spotify.com/artist/0LyYeEufSsYUjzRIsJPMJ1"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Dvala",
+      "url": "https://open.spotify.com/track/2RjcIform1XYhaabV8HPbO"
+    },
+    {
+      "album": {
         "name": "Eastern Sun",
         "url": "https://open.spotify.com/album/6eAIeTd6KUTbHtXk4UKo3K"
       },
@@ -1378,6 +1486,24 @@
       "duration_ms": 134695,
       "name": "Eastern Sun",
       "url": "https://open.spotify.com/track/7jlv9EFXU3Hn1nsqjBe3nC"
+    },
+    {
+      "album": {
+        "name": "Echoes of an Unwritten Story",
+        "url": "https://open.spotify.com/album/6N0MpjhQyoVKvas5DHcUuT"
+      },
+      "artists": [
+        {
+          "name": "Iris Summers",
+          "url": "https://open.spotify.com/artist/27ORDeUI9SWcwUKpfV4DvM"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Echoes of an Unwritten Story",
+      "url": "https://open.spotify.com/track/6q4Cjhb5Z57w0vXXThpHET"
     },
     {
       "album": {
@@ -1633,6 +1759,24 @@
     },
     {
       "album": {
+        "name": "Expansion",
+        "url": "https://open.spotify.com/album/1eBXNyoOZYZ9ooDmPbaqYF"
+      },
+      "artists": [
+        {
+          "name": "Foramina Nigra",
+          "url": "https://open.spotify.com/artist/60DvyJ9hOPSC7lBgeSMb2T"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145221,
+      "name": "Expansion",
+      "url": "https://open.spotify.com/track/4DE9UZQ877oxwA1nfpJb4m"
+    },
+    {
+      "album": {
         "name": "Expectancy",
         "url": "https://open.spotify.com/album/2zYNtZBAUbiE3ZBJoxeTMn"
       },
@@ -1752,7 +1896,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 214277,
       "name": "Find Peace",
       "url": "https://open.spotify.com/track/4sUJi8KKQ75YBIGPqmOe9w"
@@ -2047,6 +2191,24 @@
     },
     {
       "album": {
+        "name": "Gold Transitions",
+        "url": "https://open.spotify.com/album/5BUlRsevqfk2bwI2AVAxTu"
+      },
+      "artists": [
+        {
+          "name": "Astral Lighthouse",
+          "url": "https://open.spotify.com/artist/3jbqBkSBvcmQKkQxavE1Ym"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194676,
+      "name": "Gold Transitions",
+      "url": "https://open.spotify.com/track/1ecKIzEMD7k3k0M9MmDXfn"
+    },
+    {
+      "album": {
         "name": "Half Asleep",
         "url": "https://open.spotify.com/album/1fzV2qfJyZOfXkBlvGsaDe"
       },
@@ -2116,6 +2278,24 @@
       "duration_ms": 165958,
       "name": "Heartful",
       "url": "https://open.spotify.com/track/0nYTW6fJgGUZE5sPg1no3F"
+    },
+    {
+      "album": {
+        "name": "Heiwa",
+        "url": "https://open.spotify.com/album/2L7t4LXplWhy6nXwWPMAO1"
+      },
+      "artists": [
+        {
+          "name": "Joseph Alphane",
+          "url": "https://open.spotify.com/artist/65IJPn3wYi35Qpov4MXcFr"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178068,
+      "name": "Heiwa",
+      "url": "https://open.spotify.com/track/7w6AeU43e5wSvFpB3BXIYO"
     },
     {
       "album": {
@@ -2400,7 +2580,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 186500,
       "name": "Leticia",
       "url": "https://open.spotify.com/track/69zMzxv7BgdLXTauZvOCm3"
@@ -2602,6 +2782,24 @@
       "duration_ms": 188297,
       "name": "Lucid Zero",
       "url": "https://open.spotify.com/track/1A5OdQXQsUimbzTh0MulCD"
+    },
+    {
+      "album": {
+        "name": "Lumna",
+        "url": "https://open.spotify.com/album/4nhlj2bgTqQU21h5VRoaVa"
+      },
+      "artists": [
+        {
+          "name": "Laurent Leflaive",
+          "url": "https://open.spotify.com/artist/1K6IUmUWctc8O5yiCU1Qaf"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "Lumna",
+      "url": "https://open.spotify.com/track/6b75MLRzKDteXZbuvDYBeh"
     },
     {
       "album": {
@@ -3073,6 +3271,24 @@
     },
     {
       "album": {
+        "name": "No Horizon",
+        "url": "https://open.spotify.com/album/7qDSpp1qpFnhTkvoaGPUw3"
+      },
+      "artists": [
+        {
+          "name": "John Caelo",
+          "url": "https://open.spotify.com/artist/5l5WPtiUdbPCJy66rG17Sd"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "No Horizon",
+      "url": "https://open.spotify.com/track/60TIwxHF4VvFSugqOpszU9"
+    },
+    {
+      "album": {
         "name": "Noche Brilliante",
         "url": "https://open.spotify.com/album/2HGRxLG4zOXpVAYQcRbE6e"
       },
@@ -3289,6 +3505,24 @@
     },
     {
       "album": {
+        "name": "Paintings",
+        "url": "https://open.spotify.com/album/3worzFtmubfTGEcWPq3ffT"
+      },
+      "artists": [
+        {
+          "name": "Alice Cecilia",
+          "url": "https://open.spotify.com/artist/7dX6e3802RRNyF51kPwraU"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163201,
+      "name": "Paintings",
+      "url": "https://open.spotify.com/track/4nPJtIKPo5JAACypYulncC"
+    },
+    {
+      "album": {
         "name": "paradis",
         "url": "https://open.spotify.com/album/3m8pSoQPgwtg4jKkj7Fcc2"
       },
@@ -3304,6 +3538,24 @@
       "duration_ms": 152000,
       "name": "paradis",
       "url": "https://open.spotify.com/track/51yXlAu1hbPl8ma3biuTdE"
+    },
+    {
+      "album": {
+        "name": "Parity",
+        "url": "https://open.spotify.com/album/1pqraDmO7QdV7dS46NzfrD"
+      },
+      "artists": [
+        {
+          "name": "Etherielle",
+          "url": "https://open.spotify.com/artist/7JtsidGU22mCGPEkShvwrK"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148500,
+      "name": "Parity",
+      "url": "https://open.spotify.com/track/298Un7bK9KvpK023wvujo4"
     },
     {
       "album": {
@@ -3826,6 +4078,24 @@
       "duration_ms": 191900,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/6fdDm8BUpOpM5fbxv3zhSZ"
+    },
+    {
+      "album": {
+        "name": "Silent Waters",
+        "url": "https://open.spotify.com/album/1Xv9NdvtB5FoclORlftXDJ"
+      },
+      "artists": [
+        {
+          "name": "Indigo Rae",
+          "url": "https://open.spotify.com/artist/3SQ3DMIEjVndS48GUhrYV3"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135600,
+      "name": "Silent Waters",
+      "url": "https://open.spotify.com/track/1CvwC0iPbrBWCE80y5Rg7W"
     },
     {
       "album": {
@@ -4956,7 +5226,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 186666,
       "name": "Whispering Depths",
       "url": "https://open.spotify.com/track/7o213iz2EqIPa0Jxew3nZW"
@@ -4992,7 +5262,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 162804,
       "name": "Wide Eyes",
       "url": "https://open.spotify.com/track/317Ut7ZO0anim7OfrlvUC2"

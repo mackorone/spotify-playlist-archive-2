@@ -4,7 +4,7 @@
 
 > This is Funeral For A Friend\. The essential tracks, all in one playlist.
 
-131 songs - 7 hr 12 min
+132 songs - 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,9 +39,10 @@
 | [Conduit](https://open.spotify.com/track/1QnrECRRvGWw6bs5Z2761W) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Conduit](https://open.spotify.com/album/5MgwGycRjdT0RXLp3lgSyJ) | 2:17 | 2024-10-17 | 2026-03-13 |
 | [Conduit](https://open.spotify.com/track/66uvCO0JFHfaGqpyoeaTM5) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Conduit](https://open.spotify.com/album/1kZNKmHgyUJxBrC7tqQIkT) | 2:17 | 2022-10-25 | 2024-10-17 |
 | [Conduit](https://open.spotify.com/track/7zbgfKuAZDah3JcjJLTIqd) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Conduit](https://open.spotify.com/album/3fk1CkRCk9fCkbt5YHRGnl) | 2:17 | 2026-03-25 |  |
-| [Constant Illuminations](https://open.spotify.com/track/5OIuoyX15mi2RWCiA6pzmG) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Memory and Humanity](https://open.spotify.com/album/40lhp9rQ2PHckeczn15xuP) | 2:58 | 2025-03-01 | 2026-04-11 |
+| [Constant Illuminations](https://open.spotify.com/track/5OIuoyX15mi2RWCiA6pzmG) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Memory and Humanity](https://open.spotify.com/album/40lhp9rQ2PHckeczn15xuP) | 2:58 | 2025-03-01 |  |
 | [Damned If You Do, Dead If You Don't](https://open.spotify.com/track/3CJv75UDeV6hKJQj3Rt48P) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Welcome Home Armageddon](https://open.spotify.com/album/1M3wItLuBL9ZFvTiR5UewU) | 3:29 | 2024-07-02 | 2024-07-09 |
-| [Damned If You Do, Dead If You Don't](https://open.spotify.com/track/2vqvoXou424cxTKKpAGhTx) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [The Young And Defenceless EP](https://open.spotify.com/album/4xtPw47mQoYkayIXpT3d89) | 3:29 | 2022-12-03 |  |
+| [Damned If You Do, Dead If You Don't](https://open.spotify.com/track/3Uzu6CiAddGPdV6dxCxoWC) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Welcome Home Armageddon \(Deluxe Version\)](https://open.spotify.com/album/2ObWkJiimQOByPUb7AzYY4) | 3:29 | 2026-04-15 |  |
+| [Damned If You Do, Dead If You Don't](https://open.spotify.com/track/2vqvoXou424cxTKKpAGhTx) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [The Young And Defenceless EP](https://open.spotify.com/album/4xtPw47mQoYkayIXpT3d89) | 3:29 | 2022-12-03 | 2026-04-15 |
 | [Death Comes To Us All](https://open.spotify.com/track/0MJn8Vh5vsk7Cujs7upeoE) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Conduit](https://open.spotify.com/album/3fk1CkRCk9fCkbt5YHRGnl) | 3:15 | 2026-03-26 |  |
 | [Death Comes to Us All](https://open.spotify.com/track/4n4JSCL8UnjRtte7p7obld) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Conduit](https://open.spotify.com/album/1kZNKmHgyUJxBrC7tqQIkT) | 3:15 | 2022-10-25 | 2024-10-17 |
 | [Donny](https://open.spotify.com/track/35URo0TfgbAABfUrDnGyBg) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Chapter and Verse](https://open.spotify.com/album/146lsgsoDkI9Dz06nnO2Sw) | 2:42 | 2024-08-27 | 2024-10-07 |
@@ -108,7 +109,7 @@
 | [Spine](https://open.spotify.com/track/581EaGsYGBSEEajYqSa9Au) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Conduit](https://open.spotify.com/album/3fk1CkRCk9fCkbt5YHRGnl) | 2:22 | 2026-04-04 |  |
 | [Spinning Over the Island](https://open.spotify.com/track/01X6UyKp6CwFWbEUey7Tli) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Welcome Home Armageddon](https://open.spotify.com/album/1M3wItLuBL9ZFvTiR5UewU) | 5:03 | 2024-03-10 | 2024-09-10 |
 | [Spinning Over the Island](https://open.spotify.com/track/1Mi8BxBA1FCh2ewTslZeoP) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Welcome Home Armageddon](https://open.spotify.com/album/6R8x24cl5q8aUP19bkPZdR) | 5:03 | 2025-09-26 | 2025-10-09 |
-| [Spinning Over the Island](https://open.spotify.com/track/1TLE1n6YuMa8bYIlPaYaOv) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Welcome Home Armageddon \(Deluxe Version\)](https://open.spotify.com/album/2ObWkJiimQOByPUb7AzYY4) | 5:03 | 2026-04-13 |  |
+| [Spinning Over the Island](https://open.spotify.com/track/1TLE1n6YuMa8bYIlPaYaOv) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Welcome Home Armageddon \(Deluxe Version\)](https://open.spotify.com/album/2ObWkJiimQOByPUb7AzYY4) | 5:03 | 2026-04-13 | 2026-04-15 |
 | [Stand by Me for the Millionth Time](https://open.spotify.com/track/6VqeHGqHH5mWHCngFC2IQb) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Chapter and Verse](https://open.spotify.com/album/146lsgsoDkI9Dz06nnO2Sw) | 3:53 | 2022-10-25 | 2024-10-12 |
 | [Storytelling](https://open.spotify.com/track/5eptCQgkvncBHbWn6Slzje) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Casually Dressed And Deep In Conversation](https://open.spotify.com/album/2bYoFP0paBuoznlUnAHYv0) | 3:34 | 2023-07-04 | 2024-07-16 |
 | [Storytelling Pt2](https://open.spotify.com/track/3jHM1V1pJJBLo2J47D3FZa) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Between Order and Model](https://open.spotify.com/album/09pyNkO8GT3vvGgiIJEiDU) | 3:26 | 2022-10-25 | 2025-06-28 |

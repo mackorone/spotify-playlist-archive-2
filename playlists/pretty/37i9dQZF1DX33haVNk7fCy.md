@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 
 > Dukh Dard Peeda!  🫂
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,828 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,035 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 | 7 | [Dooron Dooron](https://open.spotify.com/track/0q5e5KtUOhYQujmhLP0pKd) | [Paresh Pahuja](https://open.spotify.com/artist/0DHOOKfXu4aU7LsWjTdrIN), [Shiv Tandan](https://open.spotify.com/artist/74wYoI5DV3XZGJri7l9cOP), [Meghdeep Bose](https://open.spotify.com/artist/1e3Yx1PLC5EP8lz0OFOHda) | [Dooron Dooron](https://open.spotify.com/album/1wGfxu2U33P3c9fAmJbUe6) | 3:35 |
 | 8 | [Andaaz e Karam](https://open.spotify.com/track/0qheD9ZwdmVKu5ktHXFbb0) | [Madhur Sharma](https://open.spotify.com/artist/2kfi47LWmlXzQ3p3kWonfQ), [Moin](https://open.spotify.com/artist/7xgtUknw8tyUhWkSnMjhti), [ER](https://open.spotify.com/artist/7uhWXYh7CNH1M9Dwko8qll) | [Andaaz e Karam](https://open.spotify.com/album/1gff8T3LglEcMh0ow2VwdO) | 7:17 |
 | 9 | [Filhaal2 Mohabbat](https://open.spotify.com/track/576v1keY82NOPITMNu0wD2) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Akshay Kumar](https://open.spotify.com/artist/0w0mlcvl7QH28Cs28O6waY), [Nupur Sanon](https://open.spotify.com/artist/2vCsnF6h4c2b1csudqJiV5), [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59) | [Filhaal2 Mohabbat](https://open.spotify.com/album/7p6qCp3ddSDJatDUtBtgxp) | 5:00 |
-| 10 | [Dil Lagana Mana Tha](https://open.spotify.com/track/3A3oq3VMSboPPWBYTRq0nX) | [Krish Mondal](https://open.spotify.com/artist/3JGOBJUPbwIb3fri0dcqbt), [Kishore Mondal](https://open.spotify.com/artist/6RHkm1pS4aeURu2w9jDaPX), [Devv Sadaana](https://open.spotify.com/artist/7wIvebeuJfBQ2fVQmhk5kO), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx) | [Dil Lagana Mana Tha](https://open.spotify.com/album/2BqIFRHlGkSt9SStEKxQtd) | 3:18 |
+| 10 | [Dil Lagana Mana Tha](https://open.spotify.com/track/3A3oq3VMSboPPWBYTRq0nX) | [Krish Mondal](https://open.spotify.com/artist/3JGOBJUPbwIb3fri0dcqbt), [Kishore Mondal](https://open.spotify.com/artist/6RHkm1pS4aeURu2w9jDaPX), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx), [Devv Sadaana](https://open.spotify.com/artist/7wIvebeuJfBQ2fVQmhk5kO) | [Dil Lagana Mana Tha](https://open.spotify.com/album/2BqIFRHlGkSt9SStEKxQtd) | 3:18 |
 | 11 | [Afsos](https://open.spotify.com/track/4Qm7r3ImER8S2Ori1gLMAf) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx), [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [Afsos](https://open.spotify.com/album/0RaKe6idrXFUXsqxU4VmPa) | 3:11 |
 | 12 | [I’m Done\. \- I\-Popstar: Vol\. 1](https://open.spotify.com/track/0YRpv07J0y7J73X87efpia) | [Maan Panu](https://open.spotify.com/artist/3lRhKw5gfTNnpnPFFE7TfQ) | [I\-Popstar: Vol\. 1 \| Episodes 1–3](https://open.spotify.com/album/3dlhatca0G1nYPziLwSl4b) | 2:39 |
 | 13 | [Thinking of You](https://open.spotify.com/track/0rSU2KwpOCqLVDCPwd4WbE) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [Thinking of You](https://open.spotify.com/album/7zSGzs1r6SF5I2T5ZfzNCa) | 3:00 |

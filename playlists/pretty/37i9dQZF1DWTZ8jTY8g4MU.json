@@ -1,13 +1,77 @@
 {
-  "description": "\u0634\u064a\u0644\u0627\u062a \u062a\u0634\u064a\u0644 \u0627\u0644\u0644\u064a\u0644\u0629. \u0627\u0644\u063a\u0644\u0627\u0641: \u0641\u0647\u062f \u0628\u0646 \u0641\u0635\u0644\u0627 ",
-  "num_followers": 56483,
+  "description": "\u0634\u064a\u0644\u0627\u062a \u062a\u0634\u064a\u0644 \u0627\u0644\u0644\u064a\u0644\u0629. \u0627\u0644\u063a\u0644\u0627\u0641: \u0628\u0646\u062f\u0631 \u0628\u0646 \u0639\u0648\u064a\u0631 ",
+  "num_followers": 56510,
   "original_name": " \u0634\u064a\u0644\u0627\u062a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH8fb4GSrMiGSr8Ig6HtgiUJfvnc",
+  "snapshot_id": "AAAAAAKrgG2bxZBfNj2IpZt/BUiKezVO",
   "tracks": [
+    {
+      "added_at": "2025-12-18 07:27:19",
+      "album": {
+        "name": "\u0627\u0644\u0642\u062f\u0631 \u062c\u0627\u0628\u0643",
+        "url": "https://open.spotify.com/album/5HUXikww10Pu3o6kPD09J2"
+      },
+      "artists": [
+        {
+          "name": "\u0628\u0646\u062f\u0631 \u0628\u0646 \u0639\u0648\u064a\u0631",
+          "url": "https://open.spotify.com/artist/3AEPOScEpyXGfeHa3scvkm"
+        }
+      ],
+      "duration_ms": 222266,
+      "name": "\u0627\u0644\u0642\u062f\u0631 \u062c\u0627\u0628\u0643",
+      "url": "https://open.spotify.com/track/600lrMpRgxotex7UnTYBpa"
+    },
+    {
+      "added_at": "2026-04-14 21:25:28",
+      "album": {
+        "name": "Samihini Samihini",
+        "url": "https://open.spotify.com/album/4hXPRIQnVD3GZywC1T0gab"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Bin Grman",
+          "url": "https://open.spotify.com/artist/5uFWoNmwcCxpZSq3RToSGr"
+        }
+      ],
+      "duration_ms": 206241,
+      "name": "Samihini Samihini",
+      "url": "https://open.spotify.com/track/41X6X6vPEpjRxhD5HXAcUP"
+    },
+    {
+      "added_at": "2026-01-07 05:57:55",
+      "album": {
+        "name": "\u0627\u0644\u0633\u0644\u0627\u0645\u0647 \u062f\u0648\u0631\u0648\u0647\u0627",
+        "url": "https://open.spotify.com/album/5PXL7hERuHJQQYe0A5wt96"
+      },
+      "artists": [
+        {
+          "name": "\u0627\u0644\u062c\u0641\u0631\u0627\u0646\u064a",
+          "url": "https://open.spotify.com/artist/19K8bnhJe9d8nW2rtdcRtf"
+        }
+      ],
+      "duration_ms": 526236,
+      "name": "\u0627\u0644\u0633\u0644\u0627\u0645\u0647 \u062f\u0648\u0631\u0648\u0647\u0627",
+      "url": "https://open.spotify.com/track/54YGb5mVHcPSDCGiJIJajK"
+    },
+    {
+      "added_at": "2025-09-22 07:50:06",
+      "album": {
+        "name": "\u0636\u0631\u0628\u0629 \u0645\u0639\u0644\u0645",
+        "url": "https://open.spotify.com/album/3mC4If1BAtWbIuHEuVu9Uu"
+      },
+      "artists": [
+        {
+          "name": "\u0633\u0644\u0637\u0627\u0646 \u0627\u0644\u0628\u0631\u064a\u0643\u064a",
+          "url": "https://open.spotify.com/artist/435rGyZFVARoIJZQBA66oM"
+        }
+      ],
+      "duration_ms": 274600,
+      "name": "\u0636\u0631\u0628\u0629 \u0645\u0639\u0644\u0645",
+      "url": "https://open.spotify.com/track/3U6up5X9SbyxiujVhVemxX"
+    },
     {
       "added_at": "2024-12-19 22:50:20",
       "album": {
@@ -39,22 +103,6 @@
       "duration_ms": 267400,
       "name": "Arjaa Ant",
       "url": "https://open.spotify.com/track/0GzSAq6B9D4A3olcU1HVsM"
-    },
-    {
-      "added_at": "2026-01-07 05:57:55",
-      "album": {
-        "name": "\u0627\u0644\u0633\u0644\u0627\u0645\u0647 \u062f\u0648\u0631\u0648\u0647\u0627",
-        "url": "https://open.spotify.com/album/5PXL7hERuHJQQYe0A5wt96"
-      },
-      "artists": [
-        {
-          "name": "\u0627\u0644\u062c\u0641\u0631\u0627\u0646\u064a",
-          "url": "https://open.spotify.com/artist/19K8bnhJe9d8nW2rtdcRtf"
-        }
-      ],
-      "duration_ms": 526236,
-      "name": "\u0627\u0644\u0633\u0644\u0627\u0645\u0647 \u062f\u0648\u0631\u0648\u0647\u0627",
-      "url": "https://open.spotify.com/track/54YGb5mVHcPSDCGiJIJajK"
     },
     {
       "added_at": "2024-12-19 22:50:20",
@@ -89,22 +137,6 @@
       "url": "https://open.spotify.com/track/2XpBJpknx9FiMO1PZUBsHG"
     },
     {
-      "added_at": "2025-12-18 07:27:19",
-      "album": {
-        "name": "\u0627\u0644\u0642\u062f\u0631 \u062c\u0627\u0628\u0643",
-        "url": "https://open.spotify.com/album/5HUXikww10Pu3o6kPD09J2"
-      },
-      "artists": [
-        {
-          "name": "\u0628\u0646\u062f\u0631 \u0628\u0646 \u0639\u0648\u064a\u0631",
-          "url": "https://open.spotify.com/artist/3AEPOScEpyXGfeHa3scvkm"
-        }
-      ],
-      "duration_ms": 222266,
-      "name": "\u0627\u0644\u0642\u062f\u0631 \u062c\u0627\u0628\u0643",
-      "url": "https://open.spotify.com/track/600lrMpRgxotex7UnTYBpa"
-    },
-    {
       "added_at": "2025-12-18 12:06:47",
       "album": {
         "name": "\u0639\u062c\u0632\u062a \u0623\u0646\u0633\u0627\u0647",
@@ -119,22 +151,6 @@
       "duration_ms": 274573,
       "name": "\u0639\u062c\u0632\u062a \u0623\u0646\u0633\u0627\u0647",
       "url": "https://open.spotify.com/track/6Fp51mv9BuMFg0MS7Yodz8"
-    },
-    {
-      "added_at": "2025-09-22 07:50:06",
-      "album": {
-        "name": "\u0636\u0631\u0628\u0629 \u0645\u0639\u0644\u0645",
-        "url": "https://open.spotify.com/album/3mC4If1BAtWbIuHEuVu9Uu"
-      },
-      "artists": [
-        {
-          "name": "\u0633\u0644\u0637\u0627\u0646 \u0627\u0644\u0628\u0631\u064a\u0643\u064a",
-          "url": "https://open.spotify.com/artist/435rGyZFVARoIJZQBA66oM"
-        }
-      ],
-      "duration_ms": 274600,
-      "name": "\u0636\u0631\u0628\u0629 \u0645\u0639\u0644\u0645",
-      "url": "https://open.spotify.com/track/3U6up5X9SbyxiujVhVemxX"
     },
     {
       "added_at": "2024-12-19 22:50:20",
@@ -807,22 +823,6 @@
       "duration_ms": 249000,
       "name": "\u0645\u062a\u0639\u0628\u064a\u0646 \u0627\u0644\u0631\u0643\u0627\u064a\u0628",
       "url": "https://open.spotify.com/track/2I0leXJQCLy2JHx1Vg8x6o"
-    },
-    {
-      "added_at": "2024-12-19 22:50:20",
-      "album": {
-        "name": "\u0628\u0627\u0642\u064a \u0627\u0628\u064a\u0643",
-        "url": "https://open.spotify.com/album/1O9WaXxGcmMmooCWmmOqxL"
-      },
-      "artists": [
-        {
-          "name": "\u0645\u0646\u0635\u0648\u0631 \u0627\u0644\u0648\u0627\u064a\u0644\u064a",
-          "url": "https://open.spotify.com/artist/6wgdTtjcI9FJnFJuJz70C4"
-        }
-      ],
-      "duration_ms": 236714,
-      "name": "\u0628\u0627\u0642\u064a \u0627\u0628\u064a\u0643",
-      "url": "https://open.spotify.com/track/1MZM9mJrJxWzRq9pD8dSsG"
     }
   ],
   "unique_name": " \u0634\u064a\u0644\u0627\u062a",

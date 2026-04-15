@@ -6,7 +6,7 @@
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAATAab1ltb4TM3SxYGooyy5rQ0YJOzn",
+  "snapshot_id": "AAATB05rvtOPa/5zh8hl8GjYfWpzvB2f",
   "tracks": [
     {
       "added_at": "2026-04-10 10:13:55",
@@ -263,6 +263,22 @@
       "duration_ms": 244040,
       "name": "You've Changed",
       "url": "https://open.spotify.com/track/5DbdTIaGqtHnZPHbTTyFdG"
+    },
+    {
+      "added_at": "2026-04-14 09:03:19",
+      "album": {
+        "name": "Louisiana Hearts",
+        "url": "https://open.spotify.com/album/3JhcqErevGS1IOh62M7vK0"
+      },
+      "artists": [
+        {
+          "name": "Kit Shicker",
+          "url": "https://open.spotify.com/artist/0eFekL80FdknBH44bSU2dH"
+        }
+      ],
+      "duration_ms": 273497,
+      "name": "Louisiana Hearts",
+      "url": "https://open.spotify.com/track/0L9PtEqHyt7yJVg6FFGiP0"
     },
     {
       "added_at": "2026-02-06 09:53:34",
@@ -2299,6 +2315,54 @@
       "duration_ms": 146719,
       "name": "Si tal vez",
       "url": "https://open.spotify.com/track/0IqlX6QNbjZSQWRlYsJGCE"
+    },
+    {
+      "added_at": "2026-04-14 09:02:38",
+      "album": {
+        "name": "Oublier",
+        "url": "https://open.spotify.com/album/4sWS2GpOMkXIYFNxVaBwen"
+      },
+      "artists": [
+        {
+          "name": "Al 29",
+          "url": "https://open.spotify.com/artist/0LebYgYvKDz6SzsFyoeWxs"
+        }
+      ],
+      "duration_ms": 224839,
+      "name": "Oublier",
+      "url": "https://open.spotify.com/track/28Bf8mE8vljd4yiyObmc6o"
+    },
+    {
+      "added_at": "2026-04-14 09:02:44",
+      "album": {
+        "name": "X\u00d8/L\u00d8VE II",
+        "url": "https://open.spotify.com/album/1PJnS9MVKgPH245DbET7fx"
+      },
+      "artists": [
+        {
+          "name": "Angel Dz",
+          "url": "https://open.spotify.com/artist/1agldgGiabw5qDe00nkdTh"
+        }
+      ],
+      "duration_ms": 225762,
+      "name": "ADN",
+      "url": "https://open.spotify.com/track/6Vh5zrrGli4C9MBvfiqSMe"
+    },
+    {
+      "added_at": "2026-04-14 09:03:13",
+      "album": {
+        "name": "Cold Nights",
+        "url": "https://open.spotify.com/album/6FTgj02lcNWhVsTIlX858A"
+      },
+      "artists": [
+        {
+          "name": "OXT DA MXD",
+          "url": "https://open.spotify.com/artist/16y1zDqUVY5goABIwMGG7C"
+        }
+      ],
+      "duration_ms": 261959,
+      "name": "Cold Nights",
+      "url": "https://open.spotify.com/track/7iAXxZyflGT5fNSX8xBhCC"
     }
   ],
   "unique_name": "New Indie Music",

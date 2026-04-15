@@ -1,12 +1,12 @@
 {
   "description": "This is Juliana. The essential tracks, all in one playlist.",
-  "num_followers": 5594,
+  "num_followers": 5598,
   "original_name": "This Is Juliana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adrggAAAAABeKVVFLaLnmyYG0UuHI+wn",
+  "snapshot_id": "adwyAAAAAABjDsnrnF8D+GY+6V/tL0W0",
   "tracks": [
     {
       "added_at": null,
@@ -319,18 +319,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Juliana",
-        "url": "https://open.spotify.com/album/6REdS1fIBEUTa0hkCEFX0x"
+        "name": "DOS DOS DOS",
+        "url": "https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP"
       },
       "artists": [
         {
           "name": "Juliana",
           "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        },
+        {
+          "name": "Mabiland",
+          "url": "https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J"
         }
       ],
-      "duration_ms": 237272,
-      "name": "Electricidad (2:21am)",
-      "url": "https://open.spotify.com/track/5ErcJsujfGgRXsTTz7FGRm"
+      "duration_ms": 207946,
+      "name": "Pendejada feat. Mabiland",
+      "url": "https://open.spotify.com/track/1LA1dNwVWQQZwuSQ8TmOry"
     },
     {
       "added_at": null,
@@ -371,26 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DOS DOS DOS",
-        "url": "https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP"
-      },
-      "artists": [
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        },
-        {
-          "name": "Mabiland",
-          "url": "https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J"
-        }
-      ],
-      "duration_ms": 207946,
-      "name": "Pendejada feat. Mabiland",
-      "url": "https://open.spotify.com/track/1LA1dNwVWQQZwuSQ8TmOry"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Juliana",
         "url": "https://open.spotify.com/album/6REdS1fIBEUTa0hkCEFX0x"
       },
@@ -400,29 +384,9 @@
           "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
         }
       ],
-      "duration_ms": 175286,
-      "name": "Presiento",
-      "url": "https://open.spotify.com/track/6xc4zqAPPvOr0zRaUo5tip"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Pista",
-        "url": "https://open.spotify.com/album/0vXg9Gnv5HPXLAKBF9ajil"
-      },
-      "artists": [
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        },
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        }
-      ],
-      "duration_ms": 177389,
-      "name": "Aurora",
-      "url": "https://open.spotify.com/track/5ruXmcIszTA8a5GWfloGWV"
+      "duration_ms": 237272,
+      "name": "Electricidad (2:21am)",
+      "url": "https://open.spotify.com/track/5ErcJsujfGgRXsTTz7FGRm"
     },
     {
       "added_at": null,
@@ -447,6 +411,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Pista",
+        "url": "https://open.spotify.com/album/0vXg9Gnv5HPXLAKBF9ajil"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        },
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        }
+      ],
+      "duration_ms": 177389,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/5ruXmcIszTA8a5GWfloGWV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mar Adentro",
         "url": "https://open.spotify.com/album/0Tpibq09sH4zxMhEykvXlo"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 238460,
       "name": "Desde La Orilla",
       "url": "https://open.spotify.com/track/6JADr8YFprsEK8qczdQ01k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Juliana",
+        "url": "https://open.spotify.com/album/6REdS1fIBEUTa0hkCEFX0x"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 175286,
+      "name": "Presiento",
+      "url": "https://open.spotify.com/track/6xc4zqAPPvOr0zRaUo5tip"
     },
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con las Que Crec\u00ed (Sesi\u00f3n en Vivo)",
-        "url": "https://open.spotify.com/album/7mmgvSwgtVu8OhQNW6z0cr"
-      },
-      "artists": [
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        }
-      ],
-      "duration_ms": 202381,
-      "name": "Burbujas de Amor - (Sesi\u00f3n en vivo)",
-      "url": "https://open.spotify.com/track/2kipawZSvwFIVD0y6tT2LG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Siempre Fui Yo 2 (Banda Sonora Original)",
         "url": "https://open.spotify.com/album/4KAbxF4x33ZrI1PnRTZ6Lw"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 179820,
       "name": "Ausencia",
       "url": "https://open.spotify.com/track/4in1mmGO097Q3IYNaTZApa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Con las Que Crec\u00ed (Sesi\u00f3n en Vivo)",
+        "url": "https://open.spotify.com/album/7mmgvSwgtVu8OhQNW6z0cr"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 202381,
+      "name": "Burbujas de Amor - (Sesi\u00f3n en vivo)",
+      "url": "https://open.spotify.com/track/2kipawZSvwFIVD0y6tT2LG"
     },
     {
       "added_at": null,

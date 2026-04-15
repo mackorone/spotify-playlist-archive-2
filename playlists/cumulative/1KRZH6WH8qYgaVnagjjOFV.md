@@ -4,7 +4,7 @@
 
 > Top Christian Hits 2026 \| Best Christian songs of 2026\. NEW CHRISTIAN MUSIC! New Music Friday! Cover: <a href="https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4?si=k\_0tRBc\-QKaaJDlZqV9KHg">Jamie MacDonald</a>
 
-196 songs - 13 hr 5 min
+197 songs - 13 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Joy In The Morning](https://open.spotify.com/track/5m1eBDlvDe8WIkVhnJRA95) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Joy In The Morning \(Horizon Edition\)](https://open.spotify.com/album/4k9NfmigtkDZLHB5MJ04RQ) | 8:48 | 2024-05-24 |  |
 | [judas](https://open.spotify.com/track/6m8jy0dNtYqVi5c4EtLZdM) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [judas](https://open.spotify.com/album/4uxZbSLK5fFH4BGvaNP16m) | 3:31 | 2026-03-20 |  |
 | [Just That Good](https://open.spotify.com/track/53fIGsvNyKO15Huu3nFnsK) | [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Come To Jesus](https://open.spotify.com/album/29PYVen9YZ7QjjQoYQ6rze) | 3:44 | 2026-01-08 |  |
+| [Just That Good](https://open.spotify.com/track/4Io4Eg5hbiwUbjOs4PFIGY) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Just That Good](https://open.spotify.com/album/1by7QZgO7PjgFybKSiszoA) | 4:18 | 2026-04-14 |  |
 | [Keep Holding On](https://open.spotify.com/track/18LAMqd3ViKlFfD4KfpwMS) | [Jeremy Rosado](https://open.spotify.com/artist/57H6K2mTvFS2TESVHCoDKY) | [Keep Holding On](https://open.spotify.com/album/5RRdPaijeJtKuOyhhnHTOP) | 3:21 | 2025-08-04 |  |
 | [Left It In The River](https://open.spotify.com/track/12UlWZFRx4feuHwmy5CN2a) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4) | [Left It In The River](https://open.spotify.com/album/4sFdV25QCnfJSAHvfd4SYC) | 2:58 | 2025-08-01 | 2026-01-15 |
 | [Left It In The River](https://open.spotify.com/track/5cwnrGTvTehFbKGVffDQPi) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4) | [My Family](https://open.spotify.com/album/44DKKlkJe7qIEAjK3qsyTS) | 2:58 | 2026-01-09 | 2026-01-24 |
@@ -169,7 +170,7 @@
 | [Thank You So Much Jesus](https://open.spotify.com/track/4isb96lpcN6o7wJSnx4uHT) | [Aodhán King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf), [Paul Klein](https://open.spotify.com/artist/26xOBpJWygkOHPDsvLlbtb) | [Thank You So Much Jesus](https://open.spotify.com/album/1yZ4Dt7Cpkc0f1jdud6ppH) | 4:09 | 2024-08-09 |  |
 | [The 99](https://open.spotify.com/track/7pFwbwpCAvkDsuXxI604Td) | [Mac Powell](https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa) | [I LOVE JESUS](https://open.spotify.com/album/3spuKcoEfckg0uxMR9LoUe) | 3:21 | 2025-09-19 |  |
 | [The Blessing](https://open.spotify.com/track/2lIB1TU0Cqnc6RuYDjc92z) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [The Blessing](https://open.spotify.com/album/2vdGtEIX7BYmmruQ7UbEFL) | 7:03 | 2026-01-12 |  |
-| [The Blood](https://open.spotify.com/track/1XrwHv9rd88EoM6MXAEdpF) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [JJ Hasulube](https://open.spotify.com/artist/7bnRk7bPNqkp9aP8R4SJCS) | [The Blood](https://open.spotify.com/album/5uqY6m44JXWvfRH99r9PUw) | 8:36 | 2026-01-16 |  |
+| [The Blood](https://open.spotify.com/track/1XrwHv9rd88EoM6MXAEdpF) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [JJ Hasulube](https://open.spotify.com/artist/7bnRk7bPNqkp9aP8R4SJCS) | [The Blood](https://open.spotify.com/album/5uqY6m44JXWvfRH99r9PUw) | 8:36 | 2026-01-16 | 2026-04-15 |
 | [The Cross \- Live](https://open.spotify.com/track/7DtC8PEwveWtuVImBCl42S) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [REBEL \(Live From Lexington\)](https://open.spotify.com/album/4YNYONGCfyUsXb3SjMWay1) | 3:42 | 2024-10-25 | 2025-09-20 |
 | [The Earth Sings Worthy \- Live](https://open.spotify.com/track/2TDpmf1nPiu7drcI7LLJzW) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [The Earth Sings Worthy \(Live\)](https://open.spotify.com/album/1pLCp06fDlsbHhXEZjqIy6) | 7:25 | 2025-01-31 | 2025-09-20 |
 | [The Joy \- Studio Version](https://open.spotify.com/track/6VDHBVXR8CBH1Ef2sJMTp2) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [David Dennis](https://open.spotify.com/artist/18yC0bj6ef6IYj48bTUEAK), [Andrew Holt](https://open.spotify.com/artist/1j8bXG4Lll7k3sZRC6JbF8), [Shantrice Laura](https://open.spotify.com/artist/7jsV5ldKtsBr5ifAkmzQyP) | [The Joy \(Studio Version\)](https://open.spotify.com/album/3rIpCCkzBAOlcQkELrRaH5) | 3:56 | 2025-06-06 | 2026-03-17 |

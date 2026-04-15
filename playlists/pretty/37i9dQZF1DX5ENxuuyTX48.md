@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 
 > After all, we are all siblings 🇮🇩 🇲🇾🇸🇬  Cover: Silet Open Up, SonaOne
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,051 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,062 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

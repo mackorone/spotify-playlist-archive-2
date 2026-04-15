@@ -1,12 +1,12 @@
 {
   "description": "All your favorite Disney hits, including classics from Encanto, Descendants, Frozen, Mufasa: The Lion King, and Lilo & Stitch. ",
-  "num_followers": 5760655,
+  "num_followers": 5761676,
   "original_name": "Disney Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACpe9UpOnwz/7i95+bi/tZvAZMAD",
+  "snapshot_id": "AAAAAOff2k8HhCQeLpzu6Y84/+Rox56E",
   "tracks": [
     {
       "added_at": "2026-04-08 13:00:01",
@@ -435,6 +435,26 @@
     {
       "added_at": "2026-04-08 13:00:01",
       "album": {
+        "name": "Camp Rock",
+        "url": "https://open.spotify.com/album/1v1i6nqVmLWXKv2a7ByqxJ"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        },
+        {
+          "name": "Joe Jonas",
+          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
+        }
+      ],
+      "duration_ms": 189173,
+      "name": "This Is Me",
+      "url": "https://open.spotify.com/track/5pomCBdsTZSDCFHH8BAUQe"
+    },
+    {
+      "added_at": "2026-04-08 13:00:01",
+      "album": {
         "name": "Tarzan (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1zszC1x9HYKxUCKVa62p7C"
       },
@@ -483,26 +503,6 @@
       "duration_ms": 194848,
       "name": "Into the Unknown",
       "url": "https://open.spotify.com/track/3Z0oQ8r78OUaHvGPiDBR3W"
-    },
-    {
-      "added_at": "2026-04-08 13:00:01",
-      "album": {
-        "name": "Camp Rock",
-        "url": "https://open.spotify.com/album/1v1i6nqVmLWXKv2a7ByqxJ"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        },
-        {
-          "name": "Joe Jonas",
-          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
-        }
-      ],
-      "duration_ms": 189173,
-      "name": "This Is Me",
-      "url": "https://open.spotify.com/track/5pomCBdsTZSDCFHH8BAUQe"
     },
     {
       "added_at": "2026-04-08 13:00:01",

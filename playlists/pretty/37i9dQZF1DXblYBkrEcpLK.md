@@ -2,28 +2,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 
 ### [Women of Anime](https://open.spotify.com/playlist/37i9dQZF1DXblYBkrEcpLK)
 
-> Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: Ado
+> Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: tuki.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,617 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,631 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Odoru Ponpokorin](https://open.spotify.com/track/3pncyVfDzI4m9oErJKLKIo) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Odoru Ponpokorin](https://open.spotify.com/album/2XeKcmluJtZwNDYJmhiDER) | 3:14 |
-| 2 | [大大大大大好きな君へ♡](https://open.spotify.com/track/0Yg7qzomy9oFixfKgXSUk9) | [花園羽香里 \(CV.本渡 楓\)](https://open.spotify.com/artist/6LC1Dixor7j0DWDgSZuaVE), [院田唐音 \(CV.富田美憂\)](https://open.spotify.com/artist/70U4wJcvdtMbccoOmf4GEj), [好本 静 \(CV.長縄まりあ\)](https://open.spotify.com/artist/2egAPuobW6RL6chbd4AAHR), [栄逢凪乃 \(CV.瀬戸麻沙美\)](https://open.spotify.com/artist/691qiYah3huMaLkzpaDdw5), [薬膳楠莉 \(CV.朝井彩加\)](https://open.spotify.com/artist/0Uf1KlE33EErxG1zGHY0o1) | [大大大大大好きな君へ♡](https://open.spotify.com/album/2WoyVMrtvK0zZduqUZPBZN) | 3:47 |
-| 3 | [すずめ](https://open.spotify.com/track/1huqzMaPdQkXuOJaLxrC2s) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [すずめ](https://open.spotify.com/album/3zisC3dWvvbDMHGVrxmaBF) | 3:56 |
-| 4 | [愛♡スクリ～ム！](https://open.spotify.com/track/2BBIUV8wIBbqc7HXObzdgH) | [AiScReam](https://open.spotify.com/artist/5cW1SVDUXXzsj3eFT7Gmta) | [愛♡スクリ～ム！](https://open.spotify.com/album/1l4SKYcXWUhCQ1jiasP9XZ) | 4:22 |
+| 1 | [零\-zero\-](https://open.spotify.com/track/0pLGNoLZ1q2r6Qt8ZYAS8u) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [零\-zero\-](https://open.spotify.com/album/0M7H0tlUKc9PSljiRzx9mi) | 3:58 |
+| 2 | [すずめ](https://open.spotify.com/track/1huqzMaPdQkXuOJaLxrC2s) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [すずめ](https://open.spotify.com/album/3zisC3dWvvbDMHGVrxmaBF) | 3:56 |
+| 3 | [大大大大大好きな君へ♡](https://open.spotify.com/track/0Yg7qzomy9oFixfKgXSUk9) | [花園羽香里 \(CV.本渡 楓\)](https://open.spotify.com/artist/6LC1Dixor7j0DWDgSZuaVE), [院田唐音 \(CV.富田美憂\)](https://open.spotify.com/artist/70U4wJcvdtMbccoOmf4GEj), [好本 静 \(CV.長縄まりあ\)](https://open.spotify.com/artist/2egAPuobW6RL6chbd4AAHR), [栄逢凪乃 \(CV.瀬戸麻沙美\)](https://open.spotify.com/artist/691qiYah3huMaLkzpaDdw5), [薬膳楠莉 \(CV.朝井彩加\)](https://open.spotify.com/artist/0Uf1KlE33EErxG1zGHY0o1) | [大大大大大好きな君へ♡](https://open.spotify.com/album/2WoyVMrtvK0zZduqUZPBZN) | 3:47 |
+| 4 | [Odoru Ponpokorin](https://open.spotify.com/track/3pncyVfDzI4m9oErJKLKIo) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Odoru Ponpokorin](https://open.spotify.com/album/2XeKcmluJtZwNDYJmhiDER) | 3:14 |
 | 5 | [Bのリベンジ](https://open.spotify.com/track/1Ql4e2TPr2I9c8MdELvxho) | [B小町](https://open.spotify.com/artist/2iE1VTEN54FE9j7rIxbBHR), [ルビー\(CV:伊駒ゆりえ\)](https://open.spotify.com/artist/0NDjPCmjM76Dilt0dKT9gs), [有馬かな\(CV:潘めぐみ\)](https://open.spotify.com/artist/7HPTPwYB3g0RAmuUr2Xz7q), [MEMちょ\(CV:大久保瑠美\)](https://open.spotify.com/artist/1l8zX829EhW28MBxPLLugx) | [Bのリベンジ](https://open.spotify.com/album/3NZfX1kbq3IsKYIE16wQlN) | 3:01 |
 | 6 | [アイドル](https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アイドル](https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a) | 3:33 |
 | 7 | [百花繚乱](https://open.spotify.com/track/79zgdvnTPyWSuTrd48Ik5O) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [百花繚乱](https://open.spotify.com/album/3LDV2xGL9HiqCsQujEPQLb) | 2:59 |
 | 8 | [革命道中 \- On The Way](https://open.spotify.com/track/1oFqKeepmT5S8BCGqJl7Ar) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [革命道中 \- On The Way](https://open.spotify.com/album/6uBwz7fKYpTHQqEvbpRMQu) | 3:17 |
-| 9 | [ルミナス \- Luminous](https://open.spotify.com/track/0kwdxxcu6EigYuZ8GauCMa) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [ルミナス \- Luminous](https://open.spotify.com/album/4N1jAPvr2Mf3WuWbogas36) | 3:55 |
+| 9 | [愛♡スクリ～ム！](https://open.spotify.com/track/2BBIUV8wIBbqc7HXObzdgH) | [AiScReam](https://open.spotify.com/artist/5cW1SVDUXXzsj3eFT7Gmta) | [愛♡スクリ～ム！](https://open.spotify.com/album/1l4SKYcXWUhCQ1jiasP9XZ) | 4:22 |
 | 10 | [more than words](https://open.spotify.com/track/2ZT6eELxeETGamaiXu6vmk) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [more than words](https://open.spotify.com/album/6fdrt4Aa8bJIHb5L0GTn7V) | 4:49 |
 | 11 | [MONSTER](https://open.spotify.com/track/7qXVWyhV26OV0yEFtIoZXU) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [MONSTER](https://open.spotify.com/album/3EdsvSe5Kat47RB7PHeRQ4) | 3:50 |
 | 12 | [Ex\-Otogibanashi \- 月見ヤチヨ ver.](https://open.spotify.com/track/2CH7FW7HShVK1gjB0C3Jeu) | [ryo \(supercell\)](https://open.spotify.com/artist/5Ud2lekREUXjinNlIGjJIX), [月見ヤチヨ\(cv.早見沙織\)](https://open.spotify.com/artist/1QKkhBYoDQdMEaJNp2YuVD) | [Ex\-Otogibanashi](https://open.spotify.com/album/37YS3L4VsNDpMVbAAm3XU5) | 3:37 |
 | 13 | [恋愛サーキュレーション](https://open.spotify.com/track/5P8lyudWE7HQxb4ludLbEm) | [物語シリーズ](https://open.spotify.com/artist/0NT8fqhPoKJrd038u1Qumz) | [Utamonogatari Special Edition \(Original Soundtrack\)](https://open.spotify.com/album/0Wibr4Xn7la0V69fnnujJw) | 4:15 |
 | 14 | [Glitch\*](https://open.spotify.com/track/5kM7xgKZ76UgdjRTBdiy8w) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [Glitch\*](https://open.spotify.com/album/1JVUgnXpPfiBffquWH53k7) | 2:43 |
 | 15 | [TEST ME](https://open.spotify.com/track/1chmVQLbEPT5890S0X55pe) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [TEST ME](https://open.spotify.com/album/4zWZzoe6u8FdjSYowVPKeZ) | 2:51 |
-| 16 | [soldier game](https://open.spotify.com/track/6EjqikavIw48BKxg7Z8gGQ) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [LoveLive! Series 15th Anniversary Tribute Album](https://open.spotify.com/album/4UvWdqO4nQwqeAz4UHBVMi) | 3:41 |
+| 16 | [ルミナス \- Luminous](https://open.spotify.com/track/0kwdxxcu6EigYuZ8GauCMa) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [ルミナス \- Luminous](https://open.spotify.com/album/4N1jAPvr2Mf3WuWbogas36) | 3:55 |
 | 17 | [Snooze](https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:21 |
 | 18 | [UNDEAD](https://open.spotify.com/track/5NxmDq0yXBYGfCbMqvIXuv) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [UNDEAD](https://open.spotify.com/album/6MJBA73OCvq4FEJqYhXn9e) | 3:02 |
 | 19 | [残酷な夜に輝け \- Shine in the Cruel Night](https://open.spotify.com/track/2OhStQJiQ1CFGvCZKMaItL) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [残酷な夜に輝け \- Shine in the Cruel Night](https://open.spotify.com/album/4ki9QfpDQ1Y0GTwbMzIFIw) | 6:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 49 | [瞬間、シンフォニー。](https://open.spotify.com/track/1INp0oeWE7AtvQDOJsgtcr) | [40mP](https://open.spotify.com/artist/69jNq4RZ3PvQJvMeqtdz7O), [かぐや\(cv.夏吉ゆうこ\)](https://open.spotify.com/artist/2pxkowIU5N8WKEPOYLdres) | [超かぐや姫！](https://open.spotify.com/album/4jjF5DPbuso1zCAw7rzyZR) | 4:20 |
 | 50 | [私は、わたしの事が好き。](https://open.spotify.com/track/2YGirLAYuoajAbTkuvsEvv) | [HoneyWorks](https://open.spotify.com/artist/40oxjbVm3kdeyJEiGsKrmd), [かぐや\(cv.夏吉ゆうこ\)](https://open.spotify.com/artist/2pxkowIU5N8WKEPOYLdres) | [超かぐや姫！](https://open.spotify.com/album/4jjF5DPbuso1zCAw7rzyZR) | 4:11 |
 
-Snapshot ID: `AAAAAAMboUm8GLHLY02uHQeZmwgO6BNC`
+Snapshot ID: `AAAAAIZq0DpjZu2tInfAaTfPIwLyWtkN`

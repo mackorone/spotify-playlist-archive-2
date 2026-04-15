@@ -305,6 +305,24 @@
     },
     {
       "album": {
+        "name": "Kiss All The Time. Disco, Occasionally.",
+        "url": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213440,
+      "name": "American Girls",
+      "url": "https://open.spotify.com/track/7gtG45ieyQzKtNKobfLd49"
+    },
+    {
+      "album": {
         "name": "American High",
         "url": "https://open.spotify.com/album/3LySzqWDLm3I3FmNkXkYgV"
       },
@@ -453,6 +471,24 @@
     },
     {
       "album": {
+        "name": "Baby Blue / When It Comes To Loving You",
+        "url": "https://open.spotify.com/album/4d0QJmAw0Yjs6soAwmVyHm"
+      },
+      "artists": [
+        {
+          "name": "Cody Simpson",
+          "url": "https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171630,
+      "name": "Baby Blue",
+      "url": "https://open.spotify.com/track/0zTcYZot5zfBwOQkdv02ls"
+    },
+    {
+      "album": {
         "name": "The Art of Loving",
         "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
       },
@@ -486,6 +522,24 @@
       "duration_ms": 275117,
       "name": "Bad Thoughts",
       "url": "https://open.spotify.com/track/4v28bSJI0g2JPvxu88jhWQ"
+    },
+    {
+      "album": {
+        "name": "Be Her",
+        "url": "https://open.spotify.com/album/0xY9ccawTTfHlwdVlkDT90"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217240,
+      "name": "Be Her",
+      "url": "https://open.spotify.com/track/05CjWFAcAlY6O9po6Qwakk"
     },
     {
       "album": {
@@ -662,7 +716,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 179284,
       "name": "Bluray",
       "url": "https://open.spotify.com/track/4IWJI3tyhAMjfrqX6Nz8wu"
@@ -930,7 +984,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 215826,
       "name": "Come Home",
       "url": "https://open.spotify.com/track/2jv02Sqo81GWoZ49pabbnR"
@@ -970,6 +1024,24 @@
       "duration_ms": 178410,
       "name": "Come to Bed",
       "url": "https://open.spotify.com/track/75z8eUHzytgo02DPFsRAGB"
+    },
+    {
+      "album": {
+        "name": "Cruel World",
+        "url": "https://open.spotify.com/album/0FTIFzNoKAbv4kjpjbRbDQ"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206530,
+      "name": "Cruel World",
+      "url": "https://open.spotify.com/track/6ixFBgPQbt7tII7yAShbT1"
     },
     {
       "album": {
@@ -1188,10 +1260,28 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 210466,
       "name": "Do I Need To Know What Love Is? (feat. Josh Teskey)",
       "url": "https://open.spotify.com/track/0TEEKxwbiFzWsgz8bNiv5R"
+    },
+    {
+      "album": {
+        "name": "Do You Really Love Her",
+        "url": "https://open.spotify.com/album/574rsOAjtvMf9Y8DuYl0HN"
+      },
+      "artists": [
+        {
+          "name": "Spacey Jane",
+          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228168,
+      "name": "Do You Really Love Her",
+      "url": "https://open.spotify.com/track/0taitulsqplmFbqzO8GEqa"
     },
     {
       "album": {
@@ -1318,7 +1408,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 159266,
       "name": "Easy",
       "url": "https://open.spotify.com/track/4S9cpPwTo9o0tMFNGkYzRn"
@@ -1358,6 +1448,24 @@
       "duration_ms": 184500,
       "name": "Empire",
       "url": "https://open.spotify.com/track/2cnJ7OVVT5520sNo9vDhMH"
+    },
+    {
+      "album": {
+        "name": "Right Here Right Now",
+        "url": "https://open.spotify.com/album/75IcHGzduBYDOgSKwXx2SH"
+      },
+      "artists": [
+        {
+          "name": "SIX60",
+          "url": "https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203539,
+      "name": "Endlessly",
+      "url": "https://open.spotify.com/track/2IUofQb0gdiEzYL1YcbBtV"
     },
     {
       "album": {
@@ -1649,6 +1757,24 @@
     },
     {
       "album": {
+        "name": "stardust",
+        "url": "https://open.spotify.com/album/2HNjUP7VDUpyxQ2J3Cbch4"
+      },
+      "artists": [
+        {
+          "name": "Freya Skye",
+          "url": "https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197098,
+      "name": "golden boy",
+      "url": "https://open.spotify.com/track/2RlNVAciIcppSI1Iu10RDh"
+    },
+    {
+      "album": {
         "name": "Goodbye",
         "url": "https://open.spotify.com/album/58Xvw6spiAwJygmEi6iQC7"
       },
@@ -1768,7 +1894,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 192317,
       "name": "Hammer to the Heart",
       "url": "https://open.spotify.com/track/0IdwfnHFfyb7zc7GFs75QQ"
@@ -2202,7 +2328,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 260141,
       "name": "I Get High",
       "url": "https://open.spotify.com/track/3nhu3q5V1VLVNm9fjGRRjU"
@@ -2411,6 +2537,24 @@
     },
     {
       "album": {
+        "name": "Imposter",
+        "url": "https://open.spotify.com/album/47GKjNzCbyJVYNrgpq4314"
+      },
+      "artists": [
+        {
+          "name": "Louis Tomlinson",
+          "url": "https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158238,
+      "name": "Imposter",
+      "url": "https://open.spotify.com/track/5VqWwnkDTHNz3oXdlh2jn7"
+    },
+    {
+      "album": {
         "name": "In A Perfect World (with Julia Michaels)",
         "url": "https://open.spotify.com/album/2OFiWC4MyJh72imvTDV3gq"
       },
@@ -2462,7 +2606,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 180493,
       "name": "In The Cards",
       "url": "https://open.spotify.com/track/5oEoCJsMs5fsPgOKuwdFmE"
@@ -2660,7 +2804,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 190890,
       "name": "Keep Me Honest",
       "url": "https://open.spotify.com/track/4UjWi9O04gSjMFS2gZF1U7"
@@ -2714,7 +2858,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 154243,
       "name": "Knocking At Your Door",
       "url": "https://open.spotify.com/track/2OBGlsbiixDJUK9hZJMfvH"
@@ -2790,7 +2934,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 246259,
       "name": "Leave",
       "url": "https://open.spotify.com/track/39WIyVtD3MSKopbQpkrAQR"
@@ -3288,7 +3432,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 170000,
       "name": "Moments",
       "url": "https://open.spotify.com/track/40XtyBWs7nUGieWCADEt9b"
@@ -3364,6 +3508,24 @@
       "duration_ms": 180661,
       "name": "Movie Scene",
       "url": "https://open.spotify.com/track/08rIyrMwsKpn2h59mpD6cF"
+    },
+    {
+      "album": {
+        "name": "Mr. Know It All",
+        "url": "https://open.spotify.com/album/2WFulOVpYFDYBQ4GtoClfz"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198425,
+      "name": "Mr. Know It All",
+      "url": "https://open.spotify.com/track/0GuyH5MDxEx54wg1Rhe5on"
     },
     {
       "album": {
@@ -3869,6 +4031,24 @@
     },
     {
       "album": {
+        "name": "Porch Light",
+        "url": "https://open.spotify.com/album/2E1WqaMb2UoM3ivJyJT03q"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262726,
+      "name": "Porch Light",
+      "url": "https://open.spotify.com/track/0AV4GhGeGCVJphsMTxDWdE"
+    },
+    {
+      "album": {
         "name": "Press Pause",
         "url": "https://open.spotify.com/album/05s3p7Iq338wtkqoeaPekD"
       },
@@ -3923,6 +4103,24 @@
     },
     {
       "album": {
+        "name": "Rage",
+        "url": "https://open.spotify.com/album/2tmHGkMjCXggqKE2XvoC6I"
+      },
+      "artists": [
+        {
+          "name": "Kita Alexander",
+          "url": "https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193168,
+      "name": "Rage",
+      "url": "https://open.spotify.com/track/4WAWPLY7EBPmtjg4X4X1HD"
+    },
+    {
+      "album": {
         "name": "Religiously. The Album.",
         "url": "https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3"
       },
@@ -3956,6 +4154,24 @@
       "duration_ms": 194864,
       "name": "Right Now (Used in the motion picture SCREAM VI)",
       "url": "https://open.spotify.com/track/7an15q8ChuA2zKrTidBXxW"
+    },
+    {
+      "album": {
+        "name": "The Romantic",
+        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204068,
+      "name": "Risk It All",
+      "url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD"
     },
     {
       "album": {
@@ -4024,7 +4240,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 224190,
       "name": "Rubber Arm",
       "url": "https://open.spotify.com/track/28rCwN81NHvVNBCpcKMNRx"
@@ -4078,7 +4294,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 216026,
       "name": "Sad But True",
       "url": "https://open.spotify.com/track/5CG2IAhicxszv4diVuZUwV"
@@ -4186,7 +4402,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 151698,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/7oXZwT5JkVHvvvPGcMs2tK"
@@ -4312,7 +4528,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 161831,
       "name": "Slow It Down",
       "url": "https://open.spotify.com/track/6WO7IDGLakjO38lsvI2gHB"
@@ -4673,6 +4889,24 @@
     },
     {
       "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/3Jkm1bpLu02vfw8vIREcVY"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228764,
+      "name": "The Best",
+      "url": "https://open.spotify.com/track/5ioB3LzMIXG31NYMXV685k"
+    },
+    {
+      "album": {
         "name": "The Great Magician",
         "url": "https://open.spotify.com/album/63t10xbFmyLIsLoush60io"
       },
@@ -4684,7 +4918,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 183687,
       "name": "The Great Magician",
       "url": "https://open.spotify.com/track/0HsrY6SXmgQUYEEV6frJ8M"
@@ -4886,7 +5120,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 219316,
       "name": "The Second Act",
       "url": "https://open.spotify.com/track/5RcWnnP5TMszVvarhYaoqa"
@@ -4908,6 +5142,24 @@
       "duration_ms": 188712,
       "name": "The Suburbs",
       "url": "https://open.spotify.com/track/2WIvvJ2xRJ71hxmNRr3RtU"
+    },
+    {
+      "album": {
+        "name": "The Visitor",
+        "url": "https://open.spotify.com/album/1vcbnpnQfghE8vRxhvUF60"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228908,
+      "name": "The Visitor",
+      "url": "https://open.spotify.com/track/36OpC3NK7kQzcOo8qiCHaA"
     },
     {
       "album": {
@@ -5192,7 +5444,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 182088,
       "name": "undressed",
       "url": "https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"
@@ -5336,7 +5588,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 211280,
       "name": "What I Am",
       "url": "https://open.spotify.com/track/7qZuRt0v6zox5gMAMCls5M"

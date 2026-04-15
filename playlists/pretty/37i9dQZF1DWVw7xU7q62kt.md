@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVw7xU7q62kt.md) - [plain]
 
 > Beats with a flavour of Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,238 likes - 200 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,309 likes - 200 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

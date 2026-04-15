@@ -4,7 +4,7 @@
 
 > This is Alan Hawkshaw\. The essential tracks, all in one playlist.
 
-191 songs - 8 hr 20 min
+192 songs - 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Delivery Date](https://open.spotify.com/track/1EPiKxltYOTINNNqmvNOw0) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: The Big Beat](https://open.spotify.com/album/4KEAda0cN0G2cBoXHfd3uD) | 2:38 | 2022-06-02 | 2026-04-07 |
 | [Do I Look Good in This?](https://open.spotify.com/track/4G4a0BzzNUoaZRMaxCXwG9) | [Alan Parker](https://open.spotify.com/artist/0ZpOIHGVsM7vMZqPt4i214), [Bill Baylis](https://open.spotify.com/artist/5YXdwE7D35qR3DybaW7BqB), [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [The Vinyl Remixes](https://open.spotify.com/album/11ULxAltLPaLtFrDm2P2qe) | 3:34 | 2023-01-17 | 2023-01-23 |
 | [Dossier](https://open.spotify.com/track/56dgpEZPKvNet9934593ub) | [Brian Bennett](https://open.spotify.com/artist/0WP1sO0RYZHeJyd8PLSRBp), [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Hot Wax](https://open.spotify.com/album/3PAWWGdigwDsVcfsMUu7mr) | 2:41 | 2022-05-29 |  |
+| [Eldorado](https://open.spotify.com/track/2UnVEPVsmgRlozuuykUuoS) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Bruton BRI6: Frontiers of Science](https://open.spotify.com/album/69yhwzUOl8NMtkS4GatWat) | 3:03 | 2026-04-15 |  |
 | [ErrolS Choice](https://open.spotify.com/track/5479HLz16uzIvVtsH4boxv) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: A Jazz Inclination](https://open.spotify.com/album/4EsNzg8Jytnb1yLL0GnbNF) | 2:17 | 2025-05-30 | 2026-02-28 |
 | [Eternity](https://open.spotify.com/track/78xcyHVAJbwzksemi1Rjlb) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Bruton BRI6: Frontiers of Science](https://open.spotify.com/album/69yhwzUOl8NMtkS4GatWat) | 4:23 | 2025-02-15 |  |
 | [Expanding Horizons](https://open.spotify.com/track/1UPTvaZ5LGEWXL56DHqUv9) | [Alan Parker](https://open.spotify.com/artist/0ZpOIHGVsM7vMZqPt4i214), [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Contemporary Contrasts](https://open.spotify.com/album/0MKFedbFML6oMKAt1KOAxv) | 3:04 | 2025-03-11 | 2025-03-20 |
@@ -167,7 +168,7 @@
 | [Studio 69](https://open.spotify.com/track/2hETyXkSvWidMCtUAd5xFZ) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: The Big Beat](https://open.spotify.com/album/4KEAda0cN0G2cBoXHfd3uD) | 1:54 | 2022-05-29 |  |
 | [Sunflower](https://open.spotify.com/track/1h70v5iWJWPmLbmQjKoRvT) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Happy Rainbows](https://open.spotify.com/album/5m8RDoxitluGPZH7Y3D0XH) | 2:25 | 2022-09-06 | 2026-04-02 |
 | [Sunny Side Up](https://open.spotify.com/track/0tUXPEMn1F5gs6pzg22pV7) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [70's Easy FM](https://open.spotify.com/album/5XZm1PW4b7rDU6MAgrj21d) | 3:09 | 2025-06-24 | 2025-07-22 |
-| [Sweet Dreams](https://open.spotify.com/track/20TnSEQvdXuy4xN9SZYw3O) | [Alan Parker](https://open.spotify.com/artist/0ZpOIHGVsM7vMZqPt4i214), [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Contemporary Contrasts](https://open.spotify.com/album/0MKFedbFML6oMKAt1KOAxv) | 2:08 | 2026-02-18 |  |
+| [Sweet Dreams](https://open.spotify.com/track/20TnSEQvdXuy4xN9SZYw3O) | [Alan Parker](https://open.spotify.com/artist/0ZpOIHGVsM7vMZqPt4i214), [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Contemporary Contrasts](https://open.spotify.com/album/0MKFedbFML6oMKAt1KOAxv) | 2:08 | 2026-02-18 | 2026-04-15 |
 | [Sweet Summer \(A\)](https://open.spotify.com/track/0ybVqxksvCV2qCGIUw49Dy) | [Alan Parker](https://open.spotify.com/artist/0ZpOIHGVsM7vMZqPt4i214), [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Flute for Moderns](https://open.spotify.com/album/08LDVimAJ0q1Med0i4uSUM) | 2:10 | 2023-07-24 | 2026-01-25 |
 | [Take to the Sky](https://open.spotify.com/track/2tvyMjIC6BM5jDBY2jUpUW) | [Alan Parker](https://open.spotify.com/artist/0ZpOIHGVsM7vMZqPt4i214), [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Music for a Young Generation](https://open.spotify.com/album/7DSXOfsLNItRe1nYDmAGpL) | 3:08 | 2022-05-29 | 2022-10-13 |
 | [Tap Footer](https://open.spotify.com/track/2360JvZBIuCjy0NqUw5b1V) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: The Big Beat](https://open.spotify.com/album/4KEAda0cN0G2cBoXHfd3uD) | 1:40 | 2022-05-29 | 2026-04-14 |

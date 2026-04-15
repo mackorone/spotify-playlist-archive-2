@@ -1,12 +1,12 @@
 {
   "description": "This is Coi Leray. The essential tracks, all in one playlist.",
-  "num_followers": 19289,
+  "num_followers": 19291,
   "original_name": "This Is Coi Leray",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adrggAAAAAAQvedf8c86igeiu7DmHskC",
+  "snapshot_id": "adwyAAAAAACXC7OpaW5eLCGuyPAmis+i",
   "tracks": [
     {
       "added_at": null,
@@ -559,6 +559,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Here 2 Stay",
+        "url": "https://open.spotify.com/album/2hnZC5cplWVngfVm2Hjsfr"
+      },
+      "artists": [
+        {
+          "name": "DD Osama",
+          "url": "https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 162386,
+      "name": "Upnow (feat. Coi Leray)",
+      "url": "https://open.spotify.com/track/4NWmEDnhyn4kUZGyCgx047"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Funk Wav Bounces Vol. 2",
         "url": "https://open.spotify.com/album/49DV9eFp2xTdtO7veew5xS"
       },
@@ -583,26 +603,6 @@
       "duration_ms": 206135,
       "name": "Woman Of The Year (with Stefflon Don, Chl\u00f6e & Coi Leray)",
       "url": "https://open.spotify.com/track/2Tg6UGiplOTWZalFj1eY6y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Here 2 Stay",
-        "url": "https://open.spotify.com/album/2hnZC5cplWVngfVm2Hjsfr"
-      },
-      "artists": [
-        {
-          "name": "DD Osama",
-          "url": "https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM"
-        },
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 162386,
-      "name": "Upnow (feat. Coi Leray)",
-      "url": "https://open.spotify.com/track/4NWmEDnhyn4kUZGyCgx047"
     },
     {
       "added_at": null,
@@ -755,22 +755,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everything BoZ (feat. Coi Leray) [Slowed Down]",
-        "url": "https://open.spotify.com/album/4wT8Av6zot8E7bb9vtWnre"
+        "name": "Lemon Cars",
+        "url": "https://open.spotify.com/album/4fpd2D289N4Ma0jxG3zzSm"
       },
       "artists": [
         {
-          "name": "10X",
-          "url": "https://open.spotify.com/artist/4Dm8GgbaqWzgnZeZrxAW0R"
-        },
-        {
           "name": "Coi Leray",
           "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
         }
       ],
-      "duration_ms": 231470,
-      "name": "Everything BoZ (feat. Coi Leray) - Slowed Down",
-      "url": "https://open.spotify.com/track/1vRuHOpX8lpEnnaYjVJl6r"
+      "duration_ms": 221016,
+      "name": "Coke Bottle Body",
+      "url": "https://open.spotify.com/track/4rcoYD8ZynhOMzSsoW1Sm7"
     },
     {
       "added_at": null,
@@ -787,6 +787,26 @@
       "duration_ms": 110826,
       "name": "Get Loud",
       "url": "https://open.spotify.com/track/31WthjI5kvPSdD9Eb70ZBi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Everything BoZ (feat. Coi Leray) [Slowed Down]",
+        "url": "https://open.spotify.com/album/4wT8Av6zot8E7bb9vtWnre"
+      },
+      "artists": [
+        {
+          "name": "10X",
+          "url": "https://open.spotify.com/artist/4Dm8GgbaqWzgnZeZrxAW0R"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 231470,
+      "name": "Everything BoZ (feat. Coi Leray) - Slowed Down",
+      "url": "https://open.spotify.com/track/1vRuHOpX8lpEnnaYjVJl6r"
     },
     {
       "added_at": null,
@@ -811,26 +831,6 @@
       "duration_ms": 164586,
       "name": "Pink Money (feat. G Herbo)",
       "url": "https://open.spotify.com/track/6B1EaN6xYGvAVaWZXVxQoW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lemon Cars",
-        "url": "https://open.spotify.com/album/4fpd2D289N4Ma0jxG3zzSm"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        },
-        {
-          "name": "Skilla Baby",
-          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
-        }
-      ],
-      "duration_ms": 221016,
-      "name": "Coke Bottle Body",
-      "url": "https://open.spotify.com/track/4rcoYD8ZynhOMzSsoW1Sm7"
     },
     {
       "added_at": null,

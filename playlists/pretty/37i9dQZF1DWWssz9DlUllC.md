@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWssz9DlUllC.md) - [plain]
 
 > Where afrobeats meets amapiano.<br/>Cover:  Didi B
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,689 likes - 80 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,762 likes - 80 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Aura Salad](https://open.spotify.com/track/3JN8aItsGqTWapuekI8vxM) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [SSSoundGawd](https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw) | [Breaking](https://open.spotify.com/album/6xxAjyMa0avvRjfwEXknXK) | 2:52 |
-| 2 | [Je m'appelle](https://open.spotify.com/track/6eGPfRvMtXkP9yGT3KcXjV) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N) | [Je m'appelle](https://open.spotify.com/album/5lRDkN4fmcLGsqW0Ki4ZG2) | 4:03 |
+| 2 | [Je m'appelle](https://open.spotify.com/track/6eGPfRvMtXkP9yGT3KcXjV) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Chlé](https://open.spotify.com/artist/78ExiA2p1L7zHf0qh3gvyv) | [Je m'appelle](https://open.spotify.com/album/5lRDkN4fmcLGsqW0Ki4ZG2) | 4:03 |
 | 3 | [MONEY CONSTANT](https://open.spotify.com/track/12jMMRyPNMTNp3CRmdWMve) | [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [SOUTH GIDI](https://open.spotify.com/album/5hgdQMsPGxPnhZrAMi1IUQ) | 6:15 |
 | 4 | [FUN](https://open.spotify.com/track/0qlu7Te2J2BuAGFcwb3rjn) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [FUN](https://open.spotify.com/album/46QsilgIDjNfmkhXQltZmZ) | 3:08 |
 | 5 | [Jembe](https://open.spotify.com/track/5c208bYsRosPrQkSchuNFE) | [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [Jembe / 14DRoad](https://open.spotify.com/album/6GQm5kwFN5tyyZroeexRew) | 2:18 |

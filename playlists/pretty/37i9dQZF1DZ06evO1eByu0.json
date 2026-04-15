@@ -1,12 +1,12 @@
 {
   "description": "This is Aline Barros. The essential tracks, all in one playlist.",
-  "num_followers": 162612,
+  "num_followers": 162618,
   "original_name": "This Is Aline Barros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adrggAAAAAACyR0cHz7ep7i4tgEIS3Oc",
+  "snapshot_id": "adwyAAAAAAB8h84RJONkv/xXyOfB63tz",
   "tracks": [
     {
       "added_at": null,
@@ -747,22 +747,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jesus Cristo Basta (Jesucristo Basta) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/2YCQ0X6FLsq1F9B1dFV2xw"
+        "name": "Aline Barros e Cia 2",
+        "url": "https://open.spotify.com/album/58dham8BeNuWKBJJTbzenr"
       },
       "artists": [
-        {
-          "name": "Mari Borges",
-          "url": "https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6"
-        },
         {
           "name": "Aline Barros",
           "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
         }
       ],
-      "duration_ms": 287120,
-      "name": "Jesus Cristo Basta (Jesucristo Basta) - Ao Vivo",
-      "url": "https://open.spotify.com/track/5ftGbElbGveJXoB8tgqHDH"
+      "duration_ms": 153205,
+      "name": "Crian\u00e7a de Jesus",
+      "url": "https://open.spotify.com/track/6FsX4uGYBj8gjqH245iUWD"
     },
     {
       "added_at": null,
@@ -783,18 +779,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aline Barros e Cia 2",
-        "url": "https://open.spotify.com/album/58dham8BeNuWKBJJTbzenr"
+        "name": "Jesus Cristo Basta (Jesucristo Basta) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/2YCQ0X6FLsq1F9B1dFV2xw"
       },
       "artists": [
+        {
+          "name": "Mari Borges",
+          "url": "https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6"
+        },
         {
           "name": "Aline Barros",
           "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
         }
       ],
-      "duration_ms": 153205,
-      "name": "Crian\u00e7a de Jesus",
-      "url": "https://open.spotify.com/track/6FsX4uGYBj8gjqH245iUWD"
+      "duration_ms": 287120,
+      "name": "Jesus Cristo Basta (Jesucristo Basta) - Ao Vivo",
+      "url": "https://open.spotify.com/track/5ftGbElbGveJXoB8tgqHDH"
     },
     {
       "added_at": null,
@@ -815,22 +815,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yo S\u00e9 Quien Soy",
-        "url": "https://open.spotify.com/album/5M9E9nX5CYId00OAWa5pPd"
+        "name": "Aline Barros e Cia 2",
+        "url": "https://open.spotify.com/album/58dham8BeNuWKBJJTbzenr"
       },
       "artists": [
-        {
-          "name": "Emir Sensini",
-          "url": "https://open.spotify.com/artist/0PymX5SwKjel2b1lXRvU20"
-        },
         {
           "name": "Aline Barros",
           "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
         }
       ],
-      "duration_ms": 239294,
-      "name": "Yo S\u00e9 Quien Soy",
-      "url": "https://open.spotify.com/track/34Ie7cr6R8Np8MighWg37q"
+      "duration_ms": 178329,
+      "name": "A Dan\u00e7a do Quaquito",
+      "url": "https://open.spotify.com/track/3o7vf9FujS4DkcDOMVMTug"
     },
     {
       "added_at": null,
@@ -851,18 +847,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aline Barros e Cia 2",
-        "url": "https://open.spotify.com/album/58dham8BeNuWKBJJTbzenr"
+        "name": "Yo S\u00e9 Quien Soy",
+        "url": "https://open.spotify.com/album/5M9E9nX5CYId00OAWa5pPd"
       },
       "artists": [
+        {
+          "name": "Emir Sensini",
+          "url": "https://open.spotify.com/artist/0PymX5SwKjel2b1lXRvU20"
+        },
         {
           "name": "Aline Barros",
           "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
         }
       ],
-      "duration_ms": 178329,
-      "name": "A Dan\u00e7a do Quaquito",
-      "url": "https://open.spotify.com/track/3o7vf9FujS4DkcDOMVMTug"
+      "duration_ms": 239294,
+      "name": "Yo S\u00e9 Quien Soy",
+      "url": "https://open.spotify.com/track/34Ie7cr6R8Np8MighWg37q"
     }
   ],
   "unique_name": "This Is Aline Barros",

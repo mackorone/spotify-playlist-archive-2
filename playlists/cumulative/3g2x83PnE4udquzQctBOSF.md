@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-685 songs - 1 day 19 hr 0 min
+688 songs - 1 day 19 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -306,6 +306,7 @@
 | [In The Air](https://open.spotify.com/track/1d6drNGnLw63kP9Bm8aQtz) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [In The Air](https://open.spotify.com/album/4JHdM4BYdqOJGGw12t1bzX) | 2:44 | 2023-07-30 | 2023-08-28 |
 | [In the Park](https://open.spotify.com/track/1uyVw7Y1qZ5cOFXIxqku38) | [Marco Strous](https://open.spotify.com/artist/56HtyYJoZvYc5aVdqDd94i) | [In the Park / Snakes](https://open.spotify.com/album/2BEW4mDyxZP2BnyHbEx8xo) | 2:47 | 2024-07-07 |  |
 | [In The Yuma \(feat\. Aatig\) \[Four Tet Remix\]](https://open.spotify.com/track/4jzi9TxkTRR95CVnLQYQx6) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Aatig](https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [In The Yuma \(feat\. Aatig\) \[Four Tet Remix\]](https://open.spotify.com/album/61pYqcKDU3ozNebk0piZoa) | 4:49 | 2023-06-11 | 2023-07-03 |
+| [Infinito](https://open.spotify.com/track/1assgMuL0WjFoyxPSgyTfR) | [Astènia](https://open.spotify.com/artist/2kS3uPixwEg5JEqMDlBuoQ) | [Infinito](https://open.spotify.com/album/5ZaPRjuQfImi5krBH4C245) | 3:23 | 2026-04-14 |  |
 | [Inner Child](https://open.spotify.com/track/5B9UACqopfEUOyZ1i9l1Dq) | [James Poole](https://open.spotify.com/artist/14jYWAqwskpQJI3Uzg8XdT), [Mizbee](https://open.spotify.com/artist/2gqyi88Qa4bZ2AGYbFCPIh) | [Miss Tony EP](https://open.spotify.com/album/6oQ5XIzcsrIjV5Gkufh7xz) | 3:13 | 2023-07-16 | 2023-08-20 |
 | [Innocent Type](https://open.spotify.com/track/4NCHV1VkxX2eJAKM1f1oXA) | [Ky William](https://open.spotify.com/artist/2dIpuJtQApGRmGeUobllYq) | [Fortune Teller](https://open.spotify.com/album/7L6yDxBlc6ZBGeS4Q56ehR) | 3:41 | 2023-04-09 | 2023-05-01 |
 | [Insane](https://open.spotify.com/track/15Q9SQko1GwHLb9jEbC4cc) | [Bruno Costa](https://open.spotify.com/artist/3yxmvN8rSmNEfyTCC7FaA2) | [Insane](https://open.spotify.com/album/4fuYsMZNsLN7hcNOxBAs3b) | 4:33 | 2026-02-14 | 2026-02-23 |
@@ -482,6 +483,7 @@
 | [Put 'em Up](https://open.spotify.com/track/7cej2MfSORhrheKAa3DEOe) | [TECHTIC](https://open.spotify.com/artist/4MW2k6VEU8RltTQFyEixYt) | [Put 'em Up](https://open.spotify.com/album/5dTy34LWAXl75Vy2bI40UE) | 3:49 | 2024-02-18 | 2024-04-15 |
 | [put it to music.](https://open.spotify.com/track/4jzBcOyhDg2hkDiSVDWzSo) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3) | [fall '23](https://open.spotify.com/album/4gc9G4LYsWG3Fj2OMirwE7) | 6:46 | 2023-12-10 | 2024-02-19 |
 | [Qué Maldito Sonido](https://open.spotify.com/track/5gcDnLlqYTApIhjsqXfOcU) | [Daniele Ceccarini](https://open.spotify.com/artist/3QmrkfwWbG09MX7SGFQ7Io) | [Qué Maldito Sonido](https://open.spotify.com/album/3aWAJIz07mzNNE1ywHmaEu) | 2:40 | 2026-02-27 |  |
+| [Raptor](https://open.spotify.com/track/3EJkIFSMAL5e2AXGuJNtro) | [Peritz](https://open.spotify.com/artist/31NVoBcFNTbpsKAvh5jYDp) | [Raptor](https://open.spotify.com/album/3eEj1LqBbnsXeKC7uPZINu) | 3:01 | 2026-04-14 |  |
 | [Reading My Mind](https://open.spotify.com/track/2c8TIDfFaU5LH6U05aTlIY) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [HYPERBEAM](https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [The Unexplained](https://open.spotify.com/album/6jSRRKhBd0hMSzoSwqihRl) | 2:15 | 2024-05-19 | 2024-07-08 |
 | [Ready Or Not](https://open.spotify.com/track/4n9RHYdYcIofn5C5j1gpz0) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [Ready Or Not](https://open.spotify.com/album/4Vmlwmg6QKl3FYqeFZkfM7) | 3:09 | 2023-02-10 | 2024-03-09 |
 | [REAKTOR ONE](https://open.spotify.com/track/0Ck2nSUw0nxAWQm3Gol1vd) | [Valdor Senna](https://open.spotify.com/artist/0k0aYsHeehlO0BPS5m76jH) | [REAKTOR ONE](https://open.spotify.com/album/7mkRKLbsCZLyxLklJbzH9u) | 4:37 | 2026-04-06 |  |
@@ -693,5 +695,6 @@
 | [Zane](https://open.spotify.com/track/5zJgHPRSPZAx4nWEv93WE5) | [Andrea Moricone](https://open.spotify.com/artist/5smRjMdumk9zNe6UQjc3eh) | [Zane](https://open.spotify.com/album/1owN0NwKWzWoNzmIrBD0D7) | 4:32 | 2025-12-19 | 2026-01-03 |
 | [Zed](https://open.spotify.com/track/6ve2DARqa8GFqpDBpYj65y) | [Laera](https://open.spotify.com/artist/66dGFhhv24QNwzclFPMlIz), [Henrik Voght](https://open.spotify.com/artist/2p3u5Wl9xYehO9QRwmnvTc) | [Zed](https://open.spotify.com/album/2Wjq0qdw3QQghtFWcH2zkS) | 4:05 | 2025-12-14 | 2026-01-03 |
 | [Zenith](https://open.spotify.com/track/6dMIdroeAo63DjzxjNlw9D) | [Peritz](https://open.spotify.com/artist/31NVoBcFNTbpsKAvh5jYDp) | [Zenith](https://open.spotify.com/album/6W0vPRoGAzqspqxdtFgEnM) | 3:38 | 2026-04-04 |  |
+| [Жизнь по кайфу](https://open.spotify.com/track/73VNVSDCbuebJ3qbiqNOuw) | [Echoes And Vibes](https://open.spotify.com/artist/3KYnVGmtNOtC5MrmHRp0mF) | [Жизнь по кайфу](https://open.spotify.com/album/5XDxLmzQF4olsjKbdTLAmr) | 3:29 | 2026-04-14 |  |
 
 \*This playlist was first scraped on 2023-02-03. Prior content cannot be recovered.

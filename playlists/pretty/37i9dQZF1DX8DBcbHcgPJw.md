@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DBcbHcgPJw.md) - [plain]
 
 > ¡Lo mejor de la Cumbia Pop! <br/>Foto: Agapornis
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,132,297 likes - 100 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,132,086 likes - 100 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DBcbHcgPJw.md) - [plain]
 | 11 | [ADIÓS](https://open.spotify.com/track/2bNCiY24Eh4saMcc23bvUN) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL) | 2:40 |
 | 12 | [Yo Tengo Tu Amor](https://open.spotify.com/track/0ey0YZ9ccNR2CsnNntiILw) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Santi Sc](https://open.spotify.com/artist/2wdZMvSgQUrBKt5sTMwhr2), [Sie7e](https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz), [Lauro](https://open.spotify.com/artist/6jf90HKr9vgFgKaQ2iHGHJ) | [Yo Tengo Tu Amor](https://open.spotify.com/album/5kfI2QOVQLdCGQHJDxtt0T) | 2:37 |
 | 13 | [Día de Enero](https://open.spotify.com/track/7KlKHAIzWjtGnKNYCJNdYw) | [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1) | [Día de Enero](https://open.spotify.com/album/47XYg0bJ7zGeBv2o12Z22B) | 2:25 |
-| 14 | [Muero Por Ti](https://open.spotify.com/track/0P501RQv490jSbPkFbH7Bx) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Candu DomÍnguez](https://open.spotify.com/artist/5m9vITkrXG8sov2qittAfI) | [Muero Por Ti](https://open.spotify.com/album/1cARyY6BkAYGLd9MkfXhjV) | 2:18 |
+| 14 | [Muero Por Ti](https://open.spotify.com/track/0P501RQv490jSbPkFbH7Bx) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Candu DomÍnguez](https://open.spotify.com/artist/5m9vITkrXG8sov2qittAfI), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn) | [Muero Por Ti](https://open.spotify.com/album/1cARyY6BkAYGLd9MkfXhjV) | 2:18 |
 | 15 | [Que Guapa Que Estabas Ayer](https://open.spotify.com/track/19Jv4IR7bvARnby917j5Q2) | [Juanlu de la Rosa](https://open.spotify.com/artist/5nLHoKR1ceMxtopTEDrZNT), [G Sony](https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT) | [Que Guapa Que Estabas Ayer](https://open.spotify.com/album/3mcKMUF5WS3BtFSH4dAvNV) | 2:48 |
 | 16 | [Tu jardín con enanitos](https://open.spotify.com/track/6X8DTIJEgHUjZynuds0E2f) | [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN), [Max Carra](https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL), [Valen](https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz), [RAMKY EN LOS CONTROLES](https://open.spotify.com/artist/6jXFmaC0CvsIRSzxapsnNd) | [Tu jardín con enanitos](https://open.spotify.com/album/0XpyqlltZS8gGkIrJtSfxk) | 2:55 |
 | 17 | [VIAJEMOS EN EL TIEMPO \#1 \| Quien Te Quiere Como Yo](https://open.spotify.com/track/6il9B9hrZPNpXei57XM1Sv) | [Max Carra](https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL), [Lira](https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi) | [VIAJEMOS EN EL TIEMPO \#1 \| Quien Te Quiere Como Yo](https://open.spotify.com/album/71UB9ZahcDvZeDijkCKUuI) | 2:53 |

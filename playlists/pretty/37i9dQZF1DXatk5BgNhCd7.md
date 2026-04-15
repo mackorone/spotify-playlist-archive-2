@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Todo lo nuevo de música tropical 📸 Kany Garcia & Juan Luis Guerra
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,122 likes - 78 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,133 likes - 78 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

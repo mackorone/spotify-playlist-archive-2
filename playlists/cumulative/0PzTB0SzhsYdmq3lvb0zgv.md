@@ -4,7 +4,7 @@
 
 > Chill acoustic, mellow pop and singer\-songwriter music for focus, relaxation, studying and working\. Coffee house vibes and calm background music for a cozy café or lounge mood \|\| Rustige achtergrond afspeellijst voor ontspanning, studeren en werken, met ontspannen muziek voor een koffie tent sfeer.
 
-513 songs - 1 day 4 hr 35 min
+515 songs - 1 day 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [Everest](https://open.spotify.com/track/49oueTCRWHRAsgTL2Or5IG) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Backflips in a Restaurant](https://open.spotify.com/album/3IKIobUDlcwhEs0tGJaLc7) | 2:42 | 2026-03-20 |  |
 | [Every Beginning Ends](https://open.spotify.com/track/4iAjjXGCKNQCtFklN48w7n) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Benjamin Gibbard](https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL) | [The Hardest Part](https://open.spotify.com/album/4frBxYchAwQD5z8Z6VTrF3) | 2:30 | 2026-02-19 |  |
 | [Every Town](https://open.spotify.com/track/5PIhV7lJnZ402NekZoeWBi) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Every Town](https://open.spotify.com/album/7AmxTTQo5X5GCytbSD9bKi) | 3:53 | 2025-09-12 | 2026-02-20 |
+| [EXCRUCIO](https://open.spotify.com/track/2YFSur3D9rTlawGh8TJdq6) | [Ty Darling](https://open.spotify.com/artist/2EZ6sQxeNZGklwhOXjIYz8) | [EXCRUCIO](https://open.spotify.com/album/3iUe0kbaOWkliEbuv4aBxC) | 3:03 | 2026-04-14 |  |
 | [Fade](https://open.spotify.com/track/0bDo5jU8xEeyfo0DYlyKQU) | [Darren Kiely](https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9) | [Fade](https://open.spotify.com/album/2irS04uHyoblpXy7At0gPd) | 3:36 | 2025-12-15 | 2026-01-15 |
 | [Fall In Your Arms](https://open.spotify.com/track/0Ak2IuK7Xk29NAEJDerJE9) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch) | [JAMES.](https://open.spotify.com/album/2Qne4lCCAtu1lAVikGk5UY) | 3:38 | 2025-09-12 | 2026-01-15 |
 | [Falling](https://open.spotify.com/track/1ZMiCix7XSAbfAJlEZWMCp) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 4:00 | 2025-07-18 | 2026-02-19 |
@@ -282,6 +283,7 @@
 | [Lovely Day](https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Menagerie](https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c) | 4:17 | 2025-07-18 |  |
 | [Lover Girl](https://open.spotify.com/track/6dWilYAxP2aJbTTt0UsatK) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Lover Girl](https://open.spotify.com/album/6Qj5rkXFYGlCe7X6VqqoRS) | 2:44 | 2025-07-18 |  |
 | [Loving You \(feat\. Maverick Sabre\)](https://open.spotify.com/track/3Jx1s38DVgJJwuoxAGi7kh) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Loving You / Don't Let Me Go](https://open.spotify.com/album/4AT8IOeR5ZntLmTOeCj75j) | 2:32 | 2025-07-18 | 2025-08-23 |
+| [Madwoman](https://open.spotify.com/track/0UqHzMvRQnaOXEPKgFVhxN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time: The Final Hour](https://open.spotify.com/album/4DWK6TLXHl1fly2zi5RlO7) | 3:59 | 2026-04-14 |  |
 | [Magnets](https://open.spotify.com/track/5lYN6iWRzaWm08s0Fhw6eM) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Buzz](https://open.spotify.com/album/3g73KFee4dbxDq5vTmX92S) | 3:37 | 2026-02-19 |  |
 | [Magnolias in May](https://open.spotify.com/track/0Dl3KX9CRDGH7oGcHUrBEg) | [Cole Phillips](https://open.spotify.com/artist/2Ew91UUE0bjzHWCEnA8cHy) | [Steel Toes and Texacos](https://open.spotify.com/album/4YfE317z3cWpagWPPh39qq) | 3:34 | 2025-07-18 |  |
 | [Make Me Feel](https://open.spotify.com/track/6mnZghSd48G0jM5f2FF47p) | [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Make Me Feel](https://open.spotify.com/album/6pZglm4JbKCzcDmSyDPObU) | 3:03 | 2025-11-07 | 2026-01-15 |

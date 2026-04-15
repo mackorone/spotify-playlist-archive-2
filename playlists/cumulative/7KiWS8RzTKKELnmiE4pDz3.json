@@ -971,6 +971,40 @@
     },
     {
       "album": {
+        "name": "Will Rap for Food (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6mlzH4VwTfAHyRM8bnO0T7"
+      },
+      "artists": [
+        {
+          "name": "CunninLynguists",
+          "url": "https://open.spotify.com/artist/7EA0bLf8dXCIUkwC3lnaJa"
+        },
+        {
+          "name": "Tonedeff",
+          "url": "https://open.spotify.com/artist/6tJRz44hifa2rNseM7RoTt"
+        },
+        {
+          "name": "Sankofa",
+          "url": "https://open.spotify.com/artist/1oJN0sVkiKJM7IkNRXTX40"
+        },
+        {
+          "name": "Kashal Tee",
+          "url": "https://open.spotify.com/artist/7F7sg8CCxnqXibGtqf9U4V"
+        },
+        {
+          "name": "Celph Titled",
+          "url": "https://open.spotify.com/artist/6bJSpzkLD8XYKqsXJ5jJNS"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255866,
+      "name": "616 Rewind",
+      "url": "https://open.spotify.com/track/4SelxC1hEiz0Rn3yoFAAWg"
+    },
+    {
+      "album": {
         "name": "82 92 (feat. Mac Miller)",
         "url": "https://open.spotify.com/album/0tRvlWFqqitj3R4ngvSOHy"
       },

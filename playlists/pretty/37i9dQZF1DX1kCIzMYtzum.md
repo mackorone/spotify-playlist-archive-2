@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCIzMYtzum.md) - [plain]
 
 > Home is where the main stage is ❤️‍🔥 with John Summit
 
-[Spotify](https://open.spotify.com/user/spotify) - 497,923 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 498,336 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCIzMYtzum.md) - [plain]
 | 12 | [Ocean Eyes](https://open.spotify.com/track/1VW5sF3jgOzMxeVRYJy9ac) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Steerner](https://open.spotify.com/artist/1TMa2M8BSbJP1rqX83wALz), [Jazara](https://open.spotify.com/artist/7didXxc5oXHa2VLDXPxNag) | [Ocean Eyes](https://open.spotify.com/album/6CDavIb02mcnM8wWZ2muIb) | 3:03 |
 | 13 | [Love Me Again \(Again\) \(DubVision & Third Party remix\)](https://open.spotify.com/track/0Az2NLbpGUqE2kJ8LEFdfZ) | [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Third Party](https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V) | [Love Me Again \(Again\) \(DubVision & Third Party remix\)](https://open.spotify.com/album/4iRauOp7fiaVlqKygiOxoL) | 3:21 |
 | 14 | [FADE](https://open.spotify.com/track/1ZpzOXJwRbvKgYK2XBVRfi) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B) | [FADE](https://open.spotify.com/album/5n4l9QpvnozMdhrdxRQIHU) | 2:58 |
-| 15 | [SHADOWS](https://open.spotify.com/track/7esJ56tKqU6aWABAdJJrFR) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6) | [SHADOWS](https://open.spotify.com/album/2kjMYQKKsGLAivQKy6Hbtp) | 3:22 |
+| 15 | [SHADOWS](https://open.spotify.com/track/7esJ56tKqU6aWABAdJJrFR) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6) | [SHADOWS](https://open.spotify.com/album/2kjMYQKKsGLAivQKy6Hbtp) | 3:21 |
 | 16 | [Sacrifice](https://open.spotify.com/track/4jN4p76dTKFs7MTvpgeMBA) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [Sam Harper](https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe) | [Sacrifice](https://open.spotify.com/album/6FIcuaZe4x4NU6JHrSIA1l) | 3:18 |
 | 17 | [Explode](https://open.spotify.com/track/4rnwQPqGNoHCQppYVdTZdu) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ) | [Explode](https://open.spotify.com/album/6PlqsS0firvxsrefOvbUOc) | 2:39 |
 | 18 | [Not A Place \(feat\. Oaks\)](https://open.spotify.com/track/0M4PMD5RpCgtCt7sWffJbh) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Not A Place \(feat\. Oaks\)](https://open.spotify.com/album/55sBLTngKmRxlB4giUYxw1) | 2:40 |

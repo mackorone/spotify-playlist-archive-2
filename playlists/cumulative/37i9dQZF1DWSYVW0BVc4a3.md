@@ -4,7 +4,7 @@
 
 > All energy\. Cover: Olof Dreijer
 
-1,480 songs - 4 day 12 hr 57 min
+1,481 songs - 4 day 13 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -616,6 +616,7 @@
 | [Icy](https://open.spotify.com/track/0HYa1TKqAJj0QRMxilBYVV) | [Anthony Attalla](https://open.spotify.com/artist/6UmrPT15mLI5ALbsDqwsQv), [Gettoblaster](https://open.spotify.com/artist/5LGa1U6Mwiib6ocVuJItcG) | [Icy](https://open.spotify.com/album/5rAwR12oyNnjR9lfkawxkd) | 2:55 | 2022-12-08 | 2023-03-10 |
 | [If U Like Me \- Edit](https://open.spotify.com/track/0XGSeTAcfOJa3WfVPAzX8H) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [If U Like Me](https://open.spotify.com/album/11Y3XFv7iAvRHTzOfQodBm) | 2:32 | 2024-05-09 | 2025-08-16 |
 | [If U Want My Heart \(Ft\. KLP\)](https://open.spotify.com/track/6xLcLWmWW2Kle7zacIIT5A) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [If U Want My Heart \(Ft\. KLP\)](https://open.spotify.com/album/1MW85rBJDHzpDIu4rtKPez) | 3:23 | 2025-08-14 | 2026-01-24 |
+| [If You](https://open.spotify.com/track/2PvVkI3P9Z2on1G1vNn2uB) | [Ceri Wax](https://open.spotify.com/artist/6m62Dx1zgJshfmKYQHImew) | [If You](https://open.spotify.com/album/2KvJjcipHCM9DsjwEJXblM) | 3:20 | 2026-04-09 |  |
 | [If You Want My Loving](https://open.spotify.com/track/4EdOpcLtbY6J7AK4rLhqSG) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [If You Want My Loving](https://open.spotify.com/album/1GEdPQx7k39X1OTlqNBae3) | 4:10 | 2024-04-11 | 2025-08-16 |
 | [Illegal + Four Tet](https://open.spotify.com/track/0hx680ZzQUWHqIbbj21XQj) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Illegal + Four Tet](https://open.spotify.com/album/3MZZ31nzSpnUqFXffSI8mS) | 5:36 | 2026-02-26 |  |
 | [Illusion](https://open.spotify.com/track/0nYdQMUpK6XejkZT4gjJq4) | [YOTTO](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Odd Ones V3](https://open.spotify.com/album/6uZsOAn5vwihIF5bh6mRlM) | 6:13 | 2025-01-09 | 2026-01-24 |

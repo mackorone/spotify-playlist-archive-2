@@ -4,7 +4,7 @@
 
 > The perfect mix of the latest pop hits! Follow this playlist and play Manuel Turizo , Shakira, Rauw Alejandro and more!!! Cover: Shakira &amp; Beéle
 
-944 songs - 2 day 2 hr 15 min
+945 songs - 2 day 2 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -431,6 +431,7 @@
 | [La Clave](https://open.spotify.com/track/5Ux94g63fF8uxUHaqDOi8t) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [La Clave](https://open.spotify.com/album/2X4174eeWM2B3aMPKUyk5S) | 2:17 | 2022-11-17 | 2023-05-26 |
 | [La Copa](https://open.spotify.com/track/2gdBsRfuWGwJwe3X5XwZuI) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [La Copa](https://open.spotify.com/album/2PC6PCA91NxKDtuV63i0rF) | 2:34 | 2022-09-14 | 2023-05-26 |
 | [La Culpa](https://open.spotify.com/track/72X8O4JlTkTXRM2EpcQwsF) | [Joel DELEÓN](https://open.spotify.com/artist/3okQioJzZzTM7LwENIdd18) | [La Culpa](https://open.spotify.com/album/03KuiVdDtiXtx24I16d03Y) | 3:22 | 2022-02-02 | 2023-05-26 |
+| [La Culpa](https://open.spotify.com/track/0HrjmpsXPaCGm5wnDRA1rJ) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [PUERTA ABIERTA](https://open.spotify.com/album/6WxZB5gxWmzRvKVzG2Pu9P) | 2:39 | 2026-04-14 |  |
 | [La Culpa \(feat\. Canelita\)](https://open.spotify.com/track/60e6OnYOu0h7LLhYXgINma) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [Daviles de Novelda](https://open.spotify.com/artist/6E94QKXZv8BbO6QQJxcxLI), [Canelita](https://open.spotify.com/artist/7g9K2QjuqVLUniCCCHyF7j) | [La Culpa \(feat\. Canelita\)](https://open.spotify.com/album/6FmIPojon58vU6QsecKWTk) | 3:08 | 2022-02-17 | 2023-05-26 |
 | [LA CYBER](https://open.spotify.com/track/64qTTkd9J9eLmJI4pIPYTL) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [LA CYBER](https://open.spotify.com/album/7kKnyUw6HFB7epxToX0QTE) | 3:30 | 2024-09-06 | 2025-09-19 |
 | [La Equivocada](https://open.spotify.com/track/4hM1rUoUrthsX8D4BH74MO) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [La Equivocada](https://open.spotify.com/album/4SFf9s5HXSycEG0zLgK11l) | 3:18 | 2022-04-07 | 2023-05-26 |

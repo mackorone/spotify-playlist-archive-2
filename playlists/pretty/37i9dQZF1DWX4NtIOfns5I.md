@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > aubory bugg on the cover <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,508 likes - 119 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,511 likes - 119 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

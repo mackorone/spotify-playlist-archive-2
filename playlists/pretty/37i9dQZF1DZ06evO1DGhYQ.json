@@ -1,12 +1,12 @@
 {
   "description": "This is ALI. The essential tracks, all in one playlist.",
-  "num_followers": 9526,
+  "num_followers": 9530,
   "original_name": "This Is ALI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adrggAAAAAC+NawMccmc16xi6dP1KLwh",
+  "snapshot_id": "adwyAAAAAACLZWC/hG4kOc58sE1kTnU1",
   "tracks": [
     {
       "added_at": null,
@@ -119,26 +119,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Professionalism",
-        "url": "https://open.spotify.com/album/7FXCeryLiLzxMIRVrFNIt1"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        },
-        {
-          "name": "Hannya",
-          "url": "https://open.spotify.com/artist/6hFoHM39PZxkJ0eKfaeeqh"
-        }
-      ],
-      "duration_ms": 292866,
-      "name": "Professionalism",
-      "url": "https://open.spotify.com/track/7K3oYLroJb1bK9qW2YiK4j"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FUNKIN' BEAUTIFUL",
         "url": "https://open.spotify.com/album/4OqsSf5LaAoo0Mf4ok5I7s"
       },
@@ -155,6 +135,26 @@
       "duration_ms": 231366,
       "name": "FUNKIN' BEAUTIFUL",
       "url": "https://open.spotify.com/track/5tlHEKA4Y4LB1PksqqrwhK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Professionalism",
+        "url": "https://open.spotify.com/album/7FXCeryLiLzxMIRVrFNIt1"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        },
+        {
+          "name": "Hannya",
+          "url": "https://open.spotify.com/artist/6hFoHM39PZxkJ0eKfaeeqh"
+        }
+      ],
+      "duration_ms": 292866,
+      "name": "Professionalism",
+      "url": "https://open.spotify.com/track/7K3oYLroJb1bK9qW2YiK4j"
     },
     {
       "added_at": null,
@@ -467,8 +467,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "VIVA LA MUSICA",
-        "url": "https://open.spotify.com/album/2miX8EtW3WyZIB2cX4DlEx"
+        "name": "INGLOURIOUS EASTERN COWBOY",
+        "url": "https://open.spotify.com/album/1inqg1yD9EMoVZqKXw5gmg"
       },
       "artists": [
         {
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
         }
       ],
-      "duration_ms": 191966,
-      "name": "FEVER",
-      "url": "https://open.spotify.com/track/2EmBdXIg3R7pWTTaA0g2RH"
+      "duration_ms": 209200,
+      "name": "Dance You, Matilda",
+      "url": "https://open.spotify.com/track/3zhx8K4SxwHLWtAZRiNdsq"
     },
     {
       "added_at": null,
@@ -523,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "INGLOURIOUS EASTERN COWBOY",
-        "url": "https://open.spotify.com/album/1inqg1yD9EMoVZqKXw5gmg"
+        "name": "VIVA LA MUSICA",
+        "url": "https://open.spotify.com/album/2miX8EtW3WyZIB2cX4DlEx"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
         }
       ],
-      "duration_ms": 209200,
-      "name": "Dance You, Matilda",
-      "url": "https://open.spotify.com/track/3zhx8K4SxwHLWtAZRiNdsq"
+      "duration_ms": 191966,
+      "name": "FEVER",
+      "url": "https://open.spotify.com/track/2EmBdXIg3R7pWTTaA0g2RH"
     },
     {
       "added_at": null,
@@ -739,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tokyo Pharaoh",
-        "url": "https://open.spotify.com/album/3wJMXwks4RkMQfnVrO23n0"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        }
-      ],
-      "duration_ms": 213406,
-      "name": "Tokyo Pharaoh",
-      "url": "https://open.spotify.com/track/2ddh4hVyDNFt6gBvqOmTW7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MUSIC WORLD",
         "url": "https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 330400,
       "name": "NO HOME NO COUNTRY",
       "url": "https://open.spotify.com/track/711S16U7t5IfpIUaIzvcp8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tokyo Pharaoh",
+        "url": "https://open.spotify.com/album/3wJMXwks4RkMQfnVrO23n0"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        }
+      ],
+      "duration_ms": 213406,
+      "name": "Tokyo Pharaoh",
+      "url": "https://open.spotify.com/track/2ddh4hVyDNFt6gBvqOmTW7"
     },
     {
       "added_at": null,
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
         }
       ],
-      "duration_ms": 180766,
-      "name": "I Want A Chance For Romance",
-      "url": "https://open.spotify.com/track/2e4PuGWRWMLa18XR5Ox4q2"
+      "duration_ms": 266900,
+      "name": "THE SWEETEST TABOO",
+      "url": "https://open.spotify.com/track/554GjmgJLkRvxvovKMMpbb"
     },
     {
       "added_at": null,
@@ -823,26 +823,6 @@
       "duration_ms": 284433,
       "name": "BONNIE",
       "url": "https://open.spotify.com/track/5ecYZakfWTAKBT6JwJYmq3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MY LIFE. MY DESTINY",
-        "url": "https://open.spotify.com/album/3sOmp9cI7NafWSHkFNUs4b"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        },
-        {
-          "name": "LAZYLOXY",
-          "url": "https://open.spotify.com/artist/5w5u1DluuMvsS9o02rqWO5"
-        }
-      ],
-      "duration_ms": 239600,
-      "name": "MY LIFE. MY DESTINY",
-      "url": "https://open.spotify.com/track/2O0918C9OEIB5uxg0RwdPd"
     },
     {
       "added_at": null,
@@ -867,6 +847,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "MY LIFE. MY DESTINY",
+        "url": "https://open.spotify.com/album/3sOmp9cI7NafWSHkFNUs4b"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        },
+        {
+          "name": "LAZYLOXY",
+          "url": "https://open.spotify.com/artist/5w5u1DluuMvsS9o02rqWO5"
+        }
+      ],
+      "duration_ms": 239600,
+      "name": "MY LIFE. MY DESTINY",
+      "url": "https://open.spotify.com/track/2O0918C9OEIB5uxg0RwdPd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "VIVA LA MUSICA",
         "url": "https://open.spotify.com/album/2miX8EtW3WyZIB2cX4DlEx"
       },
@@ -876,9 +876,9 @@
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
         }
       ],
-      "duration_ms": 266900,
-      "name": "THE SWEETEST TABOO",
-      "url": "https://open.spotify.com/track/554GjmgJLkRvxvovKMMpbb"
+      "duration_ms": 180766,
+      "name": "I Want A Chance For Romance",
+      "url": "https://open.spotify.com/track/2e4PuGWRWMLa18XR5Ox4q2"
     },
     {
       "added_at": null,

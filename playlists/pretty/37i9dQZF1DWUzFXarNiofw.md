@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Chris Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,117,053 likes - 250 songs - 12 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,117,093 likes - 250 songs - 12 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 29 | [no te vayas](https://open.spotify.com/track/6BEubkVfewFOsd0LUwtb0C) | [Sparklmami](https://open.spotify.com/artist/50NGgQQCV0QLrOefzyuNh0) | [no te vayas](https://open.spotify.com/album/2lqWGkViqu6n36AZc9rSVJ) | 3:14 |
 | 30 | [til' death do us part](https://open.spotify.com/track/7oSE3cm1Y26nfwd8wSUHE8) | [TYLER LEWIS](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [til' death do us part](https://open.spotify.com/album/3JmeKwpeulJuZ1uEAkR8OF) | 3:25 |
 | 31 | [Babywoman](https://open.spotify.com/track/3lea9Hq65Lm3tui1ntYH7W) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [Babywoman](https://open.spotify.com/album/5vXTmHZweSH4sszZgUs4oE) | 3:02 |
-| 32 | [Unbroken Hearts](https://open.spotify.com/track/3ZrqU3iJw06atfN6vMmKbT) | [Joseph Solomon](https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN) | [Unbroken Hearts](https://open.spotify.com/album/6DPtIPO8kxfMRF2kdFdi7s) | 3:34 |
+| 32 | [UNBROKEN HEARTS](https://open.spotify.com/track/3ZrqU3iJw06atfN6vMmKbT) | [Joseph Solomon](https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN) | [UNBROKEN HEARTS](https://open.spotify.com/album/6DPtIPO8kxfMRF2kdFdi7s) | 3:34 |
 | 33 | [Out Of Touch](https://open.spotify.com/track/6EGSvVXneV86Ct1dctAxqB) | [Perri Jones](https://open.spotify.com/artist/0v7n7KWfzG0Gg4grOnHdg4) | [Out Of Touch](https://open.spotify.com/album/0MkbRC8bibouKkeo4PFolh) | 3:00 |
 | 34 | [Serpent](https://open.spotify.com/track/7ElK3lYWnNIeDY1NysiZPb) | [Sammy Atlas](https://open.spotify.com/artist/29cKLyYQXulCqElubHK3bA) | [Serpent](https://open.spotify.com/album/2kMzOKS8ZXdtdGZgu15pm6) | 2:09 |
 | 35 | [off grid](https://open.spotify.com/track/7GCinGrq47kexX0wuHyJ08) | [IYAMAH](https://open.spotify.com/artist/3kf01riKEcjHq6eiATvWT1) | [off grid](https://open.spotify.com/album/3v0R3blOs494f9U0ukPMiO) | 4:00 |

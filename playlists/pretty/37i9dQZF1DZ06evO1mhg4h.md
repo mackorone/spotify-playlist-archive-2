@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1mhg4h.md) - [plain]
 
 > This is kessoku band\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,139 likes - 31 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,148 likes - 31 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,13 +31,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1mhg4h.md) - [plain]
 | 21 | [Distortion!!](https://open.spotify.com/track/3l8rIBKJUDQFqQfKvcpQ1w) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 3:23 |
 | 22 | [光の中へ\-instrumental\-](https://open.spotify.com/track/1t8KHcCAzyvXrCc4AIuZjN) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [光の中へ](https://open.spotify.com/album/5sDC6Ant3CvtIFt6kPhGm8) | 4:18 |
 | 23 | [星座になれたら \-恒星\- Live ver.](https://open.spotify.com/track/3Rtv7KXHFVcjWYlPFOxDvc) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンドLIVE\-恒星\- at Zepp Haneda（TOKYO）](https://open.spotify.com/album/02vz6Xm6j8BetyOHMLFBpE) | 4:41 |
-| 24 | [青春コンプレックス \-We will B\- Live ver.](https://open.spotify.com/track/1AVPkWVCIMB7cjHVUjoMgc) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド TOUR “We will B”](https://open.spotify.com/album/2PadFbanHKV06oSqeUelHR) | 3:27 |
+| 24 | [あのバンド \-We will B\- Live ver.](https://open.spotify.com/track/6gsQSBxFiKYI33VI4Kt6RA) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド TOUR “We will B”](https://open.spotify.com/album/2PadFbanHKV06oSqeUelHR) | 4:04 |
 | 25 | [ギターと孤独と蒼い惑星 \-恒星\- Live ver.](https://open.spotify.com/track/5fwkSQLLk78Jx8neIz6iDP) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンドLIVE\-恒星\- at Zepp Haneda（TOKYO）](https://open.spotify.com/album/02vz6Xm6j8BetyOHMLFBpE) | 4:01 |
-| 26 | [あのバンド \-We will B\- Live ver.](https://open.spotify.com/track/6gsQSBxFiKYI33VI4Kt6RA) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド TOUR “We will B”](https://open.spotify.com/album/2PadFbanHKV06oSqeUelHR) | 4:04 |
+| 26 | [青春コンプレックス \-We will B\- Live ver.](https://open.spotify.com/track/1AVPkWVCIMB7cjHVUjoMgc) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド TOUR “We will B”](https://open.spotify.com/album/2PadFbanHKV06oSqeUelHR) | 3:27 |
 | 27 | [忘れてやらない \-恒星\- Live ver.](https://open.spotify.com/track/5kSQT3kthSFcU7ewqYN43D) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンドLIVE\-恒星\- at Zepp Haneda（TOKYO）](https://open.spotify.com/album/02vz6Xm6j8BetyOHMLFBpE) | 4:43 |
 | 28 | [カラカラ \-We will B\- Live ver.](https://open.spotify.com/track/2TeeUxAD3AhHaHmMoIFkDB) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド TOUR “We will B”](https://open.spotify.com/album/2PadFbanHKV06oSqeUelHR) | 4:33 |
 | 29 | [カラカラ \-恒星\- Live ver.](https://open.spotify.com/track/0BlWCoGxEBkMjq61eVWhOD) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンドLIVE\-恒星\- at Zepp Haneda（TOKYO）](https://open.spotify.com/album/02vz6Xm6j8BetyOHMLFBpE) | 4:34 |
 | 30 | [私なんか \-We will B\- Live ver.](https://open.spotify.com/track/0F3FAV7WT4owJsAsnvHnQF) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド TOUR “We will B”](https://open.spotify.com/album/2PadFbanHKV06oSqeUelHR) | 2:42 |
 | 31 | [Distortion!! \-恒星\- Live ver.](https://open.spotify.com/track/3dcIyoeDzG5ROztf8ErTP3) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンドLIVE\-恒星\- at Zepp Haneda（TOKYO）](https://open.spotify.com/album/02vz6Xm6j8BetyOHMLFBpE) | 3:37 |
 
-Snapshot ID: `adrggAAAAAATcgnE5ZbwMaPHohljBvcs`
+Snapshot ID: `adwyAAAAAAB3hhRX75PAXu6oK0sFc+aw`

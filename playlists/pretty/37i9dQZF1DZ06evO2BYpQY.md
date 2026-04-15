@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2BYpQY.md) - [plain]
 
 > This is Sinéad O'Connor\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,054 likes - 50 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,058 likes - 50 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,10 +21,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2BYpQY.md) - [plain]
 | 11 | [Troy](https://open.spotify.com/track/4ZbrvxwWPNX0MgbubsqbZG) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [The Lion and the Cobra](https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6) | 6:31 |
 | 12 | [What Your Soul Sings](https://open.spotify.com/track/6EuGf9ZfK9CcSoq2M0SYto) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X), [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [100th Window](https://open.spotify.com/album/60szvcndZTCqG9E7GSAplB) | 6:38 |
 | 13 | [The Emperor's New Clothes](https://open.spotify.com/track/0HSmS7KsbOpB3K4UFdOSx9) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [I Do Not Want What I Haven't Got](https://open.spotify.com/album/0fV9DAddjwNZcmCP1Q8b01) | 5:16 |
-| 14 | [You Made Me The Thief Of Your Heart](https://open.spotify.com/track/6mcbGTts83VjfhhY9zRku1) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [You Made Me The Thief Of Your Heart](https://open.spotify.com/album/0rpPzcZHp4xYSEPKF3JnQ8) | 6:21 |
+| 14 | [In This Heart](https://open.spotify.com/track/4o92jEL52ww0OAPYgWWwW5) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Universal Mother](https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p) | 3:10 |
 | 15 | [Just Like U Said It Would B](https://open.spotify.com/track/3SJZbGDZG20DPXmg3jKYj9) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [The Lion and the Cobra](https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6) | 4:31 |
-| 16 | [Mother \- Live In Berlin](https://open.spotify.com/track/1QW6ISVXmDO1sRWjx6xuMx) | [Roger Waters](https://open.spotify.com/artist/40DqL6Tv84cKT2pH2NMs9r), [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1), [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [The Wall \- Live In Berlin](https://open.spotify.com/album/5VH40XjW17Z2y8EuyOajYR) | 6:37 |
-| 17 | [In This Heart](https://open.spotify.com/track/4o92jEL52ww0OAPYgWWwW5) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Universal Mother](https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p) | 3:10 |
+| 16 | [You Made Me The Thief Of Your Heart](https://open.spotify.com/track/6mcbGTts83VjfhhY9zRku1) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [You Made Me The Thief Of Your Heart](https://open.spotify.com/album/0rpPzcZHp4xYSEPKF3JnQ8) | 6:21 |
+| 17 | [Mother \- Live In Berlin](https://open.spotify.com/track/1QW6ISVXmDO1sRWjx6xuMx) | [Roger Waters](https://open.spotify.com/artist/40DqL6Tv84cKT2pH2NMs9r), [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1), [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [The Wall \- Live In Berlin](https://open.spotify.com/album/5VH40XjW17Z2y8EuyOajYR) | 6:37 |
 | 18 | [Don't Cry for Me Argentina](https://open.spotify.com/track/60GXsrlgXeaKNHKtP71ruN) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Am I Not Your Girl?](https://open.spotify.com/album/36G5Yxs26PEzUxSGUiAaIn) | 5:34 |
 | 19 | [Jackie](https://open.spotify.com/track/0dQBgFWsfpZabdgAYIwNsO) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [The Lion and the Cobra](https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6) | 2:30 |
 | 20 | [Jealous](https://open.spotify.com/track/2nC2C0GNE78vi2v3ZPeJWy) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Faith and Courage](https://open.spotify.com/album/0ITyzBRmAMnwt8FwtkSu0d) | 4:15 |
@@ -43,10 +43,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2BYpQY.md) - [plain]
 | 33 | [He Moved Through the Fair](https://open.spotify.com/track/0GpHDlNBveO6Bj4vQ45xuB) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Gospel Oak](https://open.spotify.com/album/1zqzVWxE60FIcXdUOVKviQ) | 4:22 |
 | 34 | [No Man's Woman](https://open.spotify.com/track/0xsfUIVCZLR12cNsjvDqeB) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Faith and Courage](https://open.spotify.com/album/0ITyzBRmAMnwt8FwtkSu0d) | 3:01 |
 | 35 | [1000 Mirrors](https://open.spotify.com/track/7H0TaixANBP2DRJXHP0EbT) | [Asian Dub Foundation](https://open.spotify.com/artist/2EeUsNnv2BcVIGhBZ5SV8z), [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1), [EOB](https://open.spotify.com/artist/4CX6yOoTFQeiwL5yxuFuIG) | [Enemy of the Enemy \(Remastered\)](https://open.spotify.com/album/6GF2qqHOvnLxBLRmTq5JTQ) | 4:55 |
-| 36 | [Why Don't You Do Right](https://open.spotify.com/track/2EMPJ6nGifr0TUGm2FFzCZ) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Am I Not Your Girl?](https://open.spotify.com/album/36G5Yxs26PEzUxSGUiAaIn) | 2:30 |
-| 37 | [John I Love You](https://open.spotify.com/track/3eMc70GKuvKw1asbNv0paq) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Universal Mother](https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p) | 5:32 |
+| 36 | [Streets of London](https://open.spotify.com/track/2REVdfWC59yWAzWFai0AVg) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Thank You for Hearing Me](https://open.spotify.com/album/1IRGD7Q4rBHAJrWgDwdujG) | 4:12 |
+| 37 | [Why Don't You Do Right](https://open.spotify.com/track/2EMPJ6nGifr0TUGm2FFzCZ) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Am I Not Your Girl?](https://open.spotify.com/album/36G5Yxs26PEzUxSGUiAaIn) | 2:30 |
 | 38 | [Emma's Song](https://open.spotify.com/track/3Kb03eFRK4Uf35zaT8sx41) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Faith and Courage](https://open.spotify.com/album/0ITyzBRmAMnwt8FwtkSu0d) | 3:21 |
-| 39 | [Streets of London](https://open.spotify.com/track/2REVdfWC59yWAzWFai0AVg) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Thank You for Hearing Me](https://open.spotify.com/album/1IRGD7Q4rBHAJrWgDwdujG) | 4:12 |
+| 39 | [John I Love You](https://open.spotify.com/track/3eMc70GKuvKw1asbNv0paq) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Universal Mother](https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p) | 5:32 |
 | 40 | [Take Me to Church](https://open.spotify.com/track/6JTxcKyKE5LUOv918ll0NE) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [I'm Not Bossy, I'm the Boss \(Deluxe Version\)](https://open.spotify.com/album/7DYDA9YjcBUsVrcwR2Xaek) | 3:01 |
 | 41 | [Don't Give Up \(feat\. Sinéad O'Connor\)](https://open.spotify.com/track/2mpoL077tfqBaEKZkPUOsM) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Across The Borderline](https://open.spotify.com/album/1muFplXWqYYvymuFr3AExp) | 6:58 |
 | 42 | [I’ll Be Singing](https://open.spotify.com/track/3bBOiHYE2XI7lO1Eoa31zT) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Wild Mountain Thyme \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Ump0HCFMKZw7249P3JMFm) | 3:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2BYpQY.md) - [plain]
 | 49 | [Outlander \- The Skye Boat Song \(Revolutionary Version\)](https://open.spotify.com/track/4SJAXVw4aJN4oXVc9ASZh0) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Outlander: Season 7 \(Highlights from the Original Television Soundtrack\)](https://open.spotify.com/album/732Keyphs0peCIsZ1zVdFn) | 3:35 |
 | 50 | [Daddy I'm Fine](https://open.spotify.com/track/2pXbqQOVaI70hfUtflWf7c) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Faith and Courage](https://open.spotify.com/album/0ITyzBRmAMnwt8FwtkSu0d) | 2:59 |
 
-Snapshot ID: `adrggAAAAAB2MAx9+HDg6Jw69/FymDKz`
+Snapshot ID: `adwyAAAAAABGo3Lvk/IGdnKZO+BYXlT6`

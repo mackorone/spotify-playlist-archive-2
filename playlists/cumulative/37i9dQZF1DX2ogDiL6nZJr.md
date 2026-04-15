@@ -4,7 +4,7 @@
 
 > Home is where you park it.
 
-341 songs - 21 hr 12 min
+342 songs - 21 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,7 +173,7 @@
 | [Light Years](https://open.spotify.com/track/1QWDJMmEcR2cYrFENBZkLS) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [I Am Easy to Find](https://open.spotify.com/album/240Gfpkjr06NUT3zBYrwVN) | 3:33 | 2021-12-09 | 2022-07-28 |
 | [Light Years](https://open.spotify.com/track/2GNj9KRwpxBWgEiPQc3jEj) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [I Am Easy to Find](https://open.spotify.com/album/5M5LPGsAR9mxbBa22GOp5h) | 3:33 | 2022-07-21 | 2024-04-19 |
 | [Like An Eagle](https://open.spotify.com/track/5hz3fnewQs5j3bzd3bABvh) | [Mighty Oaks](https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC) | [Like An Eagle](https://open.spotify.com/album/3cGY8YdYgxIfqcQXA43EyU) | 4:09 | 2022-01-21 | 2022-06-14 |
-| [Like We Once Did](https://open.spotify.com/track/3lPHsRGAJcGG6u3TzJ5S6C) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [Like We Once Did](https://open.spotify.com/album/0efCKmvERqFYyImrZj0ZyP) | 3:40 | 2025-09-25 |  |
+| [Like We Once Did](https://open.spotify.com/track/3lPHsRGAJcGG6u3TzJ5S6C) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [Like We Once Did](https://open.spotify.com/album/0efCKmvERqFYyImrZj0ZyP) | 3:40 | 2025-09-25 | 2026-04-15 |
 | [Line Of Fire](https://open.spotify.com/track/2ET7YTxeo4tn7BlUGs3t4Y) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Local Valley](https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m) | 3:08 | 2022-07-21 | 2024-04-19 |
 | [Line of Fire](https://open.spotify.com/track/3C3ArxTzVCYVzHpzq6AO9G) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Local Valley](https://open.spotify.com/album/7x9Q6tQyDcS6EhWsmTgujm) | 3:08 | 2021-12-09 | 2025-09-26 |
 | [Linger \- SiriusXM Session](https://open.spotify.com/track/2dono2Koz7DEvGwxUsmMLq) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Linger / Heading For The Door \(Sirius XM Session\)](https://open.spotify.com/album/2THNAoibV6yyuZcvaU9U5x) | 3:06 | 2024-07-30 |  |
@@ -316,6 +316,7 @@
 | [The Mess We Make](https://open.spotify.com/track/7cetoxbgUuslYQEYkAUBIP) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [The Mess We Make](https://open.spotify.com/album/1BYqmwjC7pRkdJ1742WBNM) | 3:27 | 2022-04-14 | 2022-04-21 |
 | [The Sky Is Painted Gray Today](https://open.spotify.com/track/6IMK8QiJ4ehdOGNGmIXUgA) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [The Sky Is Painted Gray Today](https://open.spotify.com/album/5F89kdB5vCOgwLRydYFnIE) | 3:41 | 2021-12-09 | 2024-06-01 |
 | [The Sunlighttt](https://open.spotify.com/track/5pWg3CJ8lMkxA6dXc7j0g1) | [PRESSYES](https://open.spotify.com/artist/35RtE46owXOQK7XjE1Sxop) | [Sundrops!](https://open.spotify.com/album/04nTSxSAZvFV49FJR5Lcv1) | 3:17 | 2025-09-25 |  |
+| [the van](https://open.spotify.com/track/4C2o68XUoLpjvncsNsgwjA) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [the van](https://open.spotify.com/album/70zrCL7WfIPJQcXqzhRAho) | 2:58 | 2026-04-14 |  |
 | [There's Nothing In The Water We Can't Fight](https://open.spotify.com/track/3A0rcWDZX9YCYwQmIvhwDl) | [Cloud Control](https://open.spotify.com/artist/5DCtsJfyBEzvZ9qN7jSA6j) | [Bliss Release](https://open.spotify.com/album/0qly5POWuw9cGEi2gJtu3O) | 3:59 | 2023-01-18 | 2023-02-18 |
 | [This Here Island](https://open.spotify.com/track/3eeUu1HT2I2cVKjRLklLUh) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [This Here Island](https://open.spotify.com/album/6dV1f3Xt8yzwj8xYQyLJEQ) | 4:03 | 2021-12-09 |  |
 | [Time Won't Go Slowly](https://open.spotify.com/track/494RirQRobkj9gh2RwkDqi) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Time Won't Go Slowly](https://open.spotify.com/album/597BT7KsEpWxEd2FaPl1Pd) | 3:41 | 2022-04-14 | 2022-04-19 |

@@ -4,7 +4,7 @@
 
 > Happy songs and good vibes! A real mood booster sure to make you smile and keep you feelin’ good 😊 😊 😊 Perfect for road trips and singing in the shower!
 
-332 songs - 19 hr 11 min
+333 songs - 19 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [last night's mascara](https://open.spotify.com/track/2lqoRoUIVwJZrDzmNOTQZP) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [last night's mascara](https://open.spotify.com/album/603gGKsBlrCJf6WIHbpsDk) | 2:57 | 2025-01-10 | 2026-04-01 |
 | [Leave a Light On \(Talk Away The Dark\)](https://open.spotify.com/track/05N2CVEkUbEd0slHLapdER) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Leave a Light On \(Talk Away The Dark\)](https://open.spotify.com/album/6Rhl0PXrNpvezhUrwXZnBa) | 3:06 | 2024-09-06 | 2024-09-21 |
 | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/album/4LyiYe4wZ6XwzUne79hidF) | 2:34 | 2022-06-24 | 2023-04-07 |
+| [LET ME BE](https://open.spotify.com/track/3Ggrf13afYb41oxbnpafPR) | [The Second Voice](https://open.spotify.com/artist/62DJxMVn5UY5avf5dOvg30) | [LET ME BE](https://open.spotify.com/album/4mqcYdXFQJGtduC8XWX8op) | 3:09 | 2026-04-14 |  |
 | [Let Me Down Easy](https://open.spotify.com/track/74YyVH1E6gSlZCbtN6OgJN) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Daisy Jones & The Six](https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo) | [Let Me Down Easy](https://open.spotify.com/album/0vfLqxkAHmpgjTsxCk33cs) | 3:24 | 2023-08-18 | 2023-12-14 |
 | [Let's Dance \- 2018 Remaster](https://open.spotify.com/track/3ix6K4wZY29bCujrSznwFZ) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Let's Dance \(2018 Remaster\)](https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV) | 7:37 | 2022-07-18 | 2022-08-10 |
 | [Let's Dance \- Single Version \[Remastered\]](https://open.spotify.com/track/5PJBrwKH7SdByGtDCBGJwb) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Legacy \(Deluxe Edition\)](https://open.spotify.com/album/3nSP0MJ9XyYZjCRowFaUbo) | 4:10 | 2022-08-09 | 2023-05-06 |
@@ -287,7 +288,7 @@
 | [Strawberry Kisses](https://open.spotify.com/track/4LXuSaMzY515ubvtGnCvBi) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [Strawberry Kisses](https://open.spotify.com/album/4QQ5HRLZrSC7882WTmvZFH) | 3:01 | 2022-06-07 | 2022-06-14 |
 | [Street Player \- 2003 Remaster](https://open.spotify.com/track/1HiaZTm2nGQL4wtnJLPNV0) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago 13 \(Expanded & Remastered\)](https://open.spotify.com/album/3zhMFlaM6YZgETDe5TZlim) | 9:10 | 2022-07-18 | 2022-07-27 |
 | [Stumblin' In](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [Stumblin' In](https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc) | 3:33 | 2026-03-31 |  |
-| [Sun Comes Up \(feat\. James Arthur\)](https://open.spotify.com/track/6SUocL0caib4mLHe8ZrZzi) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Sun Comes Up \(feat\. James Arthur\)](https://open.spotify.com/album/5UGyzp6HT8oy0eTkBfxtQ8) | 3:52 | 2022-06-07 |  |
+| [Sun Comes Up \(feat\. James Arthur\)](https://open.spotify.com/track/6SUocL0caib4mLHe8ZrZzi) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Sun Comes Up \(feat\. James Arthur\)](https://open.spotify.com/album/5UGyzp6HT8oy0eTkBfxtQ8) | 3:52 | 2022-06-07 | 2026-04-15 |
 | [Sunburnt Shoulders](https://open.spotify.com/track/1e8JjEsphQZkxK5XURPzYC) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Me vs\. Me](https://open.spotify.com/album/2ibQlGalU0J2XhYpeMkgqc) | 2:57 | 2024-05-24 | 2024-08-03 |
 | [Sweet Goodbye](https://open.spotify.com/track/3s32YmunFgfXVWgLRKLdKm) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Sweet Goodbye](https://open.spotify.com/album/7mRbem2BY4VVK4fUUjQqzo) | 2:37 | 2023-02-17 | 2023-03-25 |
 | [Sweet Lies](https://open.spotify.com/track/1ciemDCppxQbYhXzqMoBV0) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Talia Mar](https://open.spotify.com/artist/7zoc6JsY8GWVcl2qFwiKay) | [Sweet Lies](https://open.spotify.com/album/0Uf9BYVnE9KkSZMPSf4RJN) | 2:01 | 2023-01-17 | 2023-12-14 |

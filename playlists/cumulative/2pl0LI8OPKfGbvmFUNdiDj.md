@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-420 songs - 23 hr 34 min
+422 songs - 23 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Culture Shock](https://open.spotify.com/track/5Jrc2c2Kp0EshetMSq4X3E) | [CallMeWhoElse](https://open.spotify.com/artist/3sLFnlQ8XFsPNqZ2ly2cCo) | [Culture Shock](https://open.spotify.com/album/3mPqFAPHc5MCQeqKsdwE1J) | 1:50 | 2025-12-23 | 2026-01-15 |
 | [Cut It Out!](https://open.spotify.com/track/2Hyalx0ms1xibr1QTZebGm) | [moberod](https://open.spotify.com/artist/49lLlq5yOsfgHQnypG2Cdd) | [Cut It Out!](https://open.spotify.com/album/5c0HNhPuGroOZnioWziNuk) | 2:57 | 2025-11-17 | 2026-01-05 |
 | [Cyberpunk Elegy](https://open.spotify.com/track/6YUxRtSM0gcf7Jyzty6V0I) | [Billy Manilli](https://open.spotify.com/artist/7ghnXMugKVqRgtg0DjKKhT) | [Cyberpunk Elegy](https://open.spotify.com/album/1Px98AlqdHxUeAyNZ2b29y) | 3:27 | 2026-01-02 | 2026-01-25 |
+| [D'Or et D'Essence](https://open.spotify.com/track/54j84CQorBTHez8kAudRee) | [Mehdy Akki](https://open.spotify.com/artist/6S38wI5QEZb1pM4YqJ2frS) | [D'Or et D'Essence](https://open.spotify.com/album/2JoCCUBiLDOana2AHlaDlx) | 2:55 | 2026-04-14 |  |
 | [D.W.A.](https://open.spotify.com/track/2DvkQrm5DM3kVhwsAa4GtO) | [Park Place Project](https://open.spotify.com/artist/5cCZ0B3kcfRmntY3iRhiTf) | [D.W.A.](https://open.spotify.com/album/26gOaPsEoIhReppVIL9kjt) | 2:46 | 2025-11-17 | 2026-01-05 |
 | [DaDeDaDe](https://open.spotify.com/track/2WMciepfmL3gvvKLiIxrQ4) | [The Jaded Lips](https://open.spotify.com/artist/6orV08XQAM5wA7Sm1BlrLx) | [DaDeDaDe](https://open.spotify.com/album/7BG4HfGQGDtLoP6Lu4gpye) | 3:42 | 2026-02-08 |  |
 | [Daily Dreams](https://open.spotify.com/track/36DFXNwQpHKZO7praE9GY5) | [SINEAD](https://open.spotify.com/artist/1W8hGPWp51WM8s8abI0B94) | [Daily Dreams](https://open.spotify.com/album/58o8fdFHcIadmKr35lsIOg) | 2:48 | 2025-12-20 | 2026-01-15 |
@@ -404,6 +405,7 @@
 | [Where Did The Time Go ?](https://open.spotify.com/track/54fj963AplMqKDMKX5KxTR) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [Where Did The Time Go ?](https://open.spotify.com/album/5HsFc733bwG90PUlCPjPR4) | 3:26 | 2026-03-28 |  |
 | [Where Is My Home](https://open.spotify.com/track/0kYZ5XvU9ko9zC5z4Z9quM) | [Jenèriq](https://open.spotify.com/artist/19EuZYCQ44lQipUXiRKd2v), [Shairal](https://open.spotify.com/artist/5N7qKycwib6mXibpgQHYfC) | [Where Is My Home](https://open.spotify.com/album/7KkRcJV44SwP2W4yp46UGL) | 2:59 | 2025-12-22 | 2026-01-15 |
 | [Where Love Became a Ghost](https://open.spotify.com/track/1Tw1aEg9GMNnh5VQMiZ6hK) | [Blue Remains](https://open.spotify.com/artist/3bso49Yea3qCrqvtiUolUv) | [Where Love Became a Ghost](https://open.spotify.com/album/3qYsYqWC0YnKUJIK2cVIwP) | 4:31 | 2025-12-03 | 2026-01-05 |
+| [Whistling](https://open.spotify.com/track/4p1fYOHCCx1CvPk6UbIbSZ) | [Borth](https://open.spotify.com/artist/41wNDlWrwYPOzTFIh1PvH6) | [Whistling](https://open.spotify.com/album/2QOkUXOeTgGNQQ9iXD2e0B) | 3:16 | 2026-04-14 |  |
 | [WHO WANIT](https://open.spotify.com/track/1ZuOFw34Hc2F4Y5ZHyWicC) | [Nine25](https://open.spotify.com/artist/086QvHRXKmteZ1yHzqXhCZ) | [WHO WANIT](https://open.spotify.com/album/2rqEMvPa7Hfud194Iehqt6) | 2:37 | 2025-11-17 | 2026-01-05 |
 | [Why Am I Like This](https://open.spotify.com/track/0kciK4EvYbUm8oRPmtEP1E) | [Snake Lips](https://open.spotify.com/artist/1iTHdjMCOCH2MTd1SJHdOT) | [Cat Beach](https://open.spotify.com/album/5qMnox5QRkGBPhCHi6U1hU) | 2:26 | 2025-11-03 | 2025-12-01 |
 | [Why da World So Mean](https://open.spotify.com/track/0rXBIIjohzuLEQ2FMCa427) | [Kuntry Boi Movement](https://open.spotify.com/artist/00lZvwtVbwHs2FfWQNYnWW), [Jay Creez23](https://open.spotify.com/artist/04s72J53BqDmEd1Fnq3NSB) | [Fine Wine](https://open.spotify.com/album/5AQRASubuxHx5zu9vTags0) | 4:09 | 2026-01-29 | 2026-03-03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 
 > NandaTsunami e novos talentos do Brasil\. Dê play no futuro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 393,958 likes - 61 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 393,941 likes - 61 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 | 20 | [Nas Ruas \- Live](https://open.spotify.com/track/1uulc1XfvqRrJ7Vukw0iHl) | [Franco, The Sir!](https://open.spotify.com/artist/2dSdEXb846NGEN95MkLTYU) | [Live Performance \(from Worg\)](https://open.spotify.com/album/3VmH09ENXqWeGgSdT0JRkL) | 4:16 |
 | 21 | [Mais Uma Taça](https://open.spotify.com/track/3cPQI0EXKNyU0AuCpNj59l) | [Cassin](https://open.spotify.com/artist/7JswWkHCTMyEgHlNXOvK6p), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q), [Boaventura](https://open.spotify.com/artist/0HNv7LfoPFCBtfdeiFIXPe), [Thiago Sub](https://open.spotify.com/artist/6YEV0RD46iRGwcvKimSGLG) | [Mais Uma Taça](https://open.spotify.com/album/6R8qK4ex08VU6xjrBT2TVi) | 2:47 |
 | 22 | [E eu não sei se te respondo](https://open.spotify.com/track/43KdAIrNhRoZpYUGHYej7A) | [Barona](https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn), [YORI](https://open.spotify.com/artist/5klQdFd7MRjOrk0fgzsD5E), [Ryam Beatz](https://open.spotify.com/artist/1e4gxT06EhPqmgWEUoxxzY), [Gordon mc](https://open.spotify.com/artist/3OvZcWedVpkCwMdmIKaWh1) | [E eu não sei se te respondo](https://open.spotify.com/album/3PCDA4jxFk8FNgOwFHTjoL) | 2:10 |
-| 23 | [Terra do Frevo](https://open.spotify.com/track/6IHWA18BjrPTXBpFRioarX) | [Mago de Tarso](https://open.spotify.com/artist/496KV2f0kNcIdXGe1i0Fh4), [Bagua Records](https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b), [Prodbythb](https://open.spotify.com/artist/75lGZXVl7cDhLGCYJBw5ae) | [O Som do Litoral](https://open.spotify.com/album/3NMCvWJPRL56sFSfmEabuL) | 2:24 |
+| 23 | [Terra do Frevo](https://open.spotify.com/track/6IHWA18BjrPTXBpFRioarX) | [Mago de Tarso](https://open.spotify.com/artist/496KV2f0kNcIdXGe1i0Fh4), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b), [Prodbythb](https://open.spotify.com/artist/75lGZXVl7cDhLGCYJBw5ae), [Bagua Records](https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk) | [O Som do Litoral](https://open.spotify.com/album/3NMCvWJPRL56sFSfmEabuL) | 2:24 |
 | 24 | [Cara Dura](https://open.spotify.com/track/3VkMpucpevh2Hn4rFvXsis) | [Ogrand](https://open.spotify.com/artist/72NITGQvWXHKgIDILDufBe), [Matheusinho](https://open.spotify.com/artist/7a44CZgtFWpgACFj2G56JX), [Drow Beats](https://open.spotify.com/artist/63nBMbY97bsURu2s0MvRGt) | [Cara Dura](https://open.spotify.com/album/1Mg64yMRpAYfERFtMiEzoB) | 3:18 |
 | 25 | [Nunca Tenha Medo](https://open.spotify.com/track/05FlUaZ04yDIgB9UAapEH9) | [LPT Zlatan](https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Nunca Tenha Medo](https://open.spotify.com/album/2KLXDzdhtlXARb2Xj45v0q) | 2:51 |
 | 26 | [Tasha e Tracie](https://open.spotify.com/track/4KvNxYjMaVWfoE3E8sH7Lg) | [Cashley](https://open.spotify.com/artist/2Qwqi6HFAxi1QZSS0fQrPC) | [LITTLE RICH](https://open.spotify.com/album/0udVicCE4ChJcQldohUR3M) | 1:39 |

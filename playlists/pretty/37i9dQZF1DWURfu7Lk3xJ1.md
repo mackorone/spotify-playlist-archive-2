@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 
 > breathe slow, drift soft 🪷 calm beats to uncover the stillness within
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,146 likes - 100 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,164 likes - 100 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

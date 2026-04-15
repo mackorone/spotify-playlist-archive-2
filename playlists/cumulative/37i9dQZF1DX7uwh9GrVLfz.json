@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-15",
-  "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. / \u30ec\u30b8\u30a7\u30f3\u30c9\u3082\u65b0\u4e16\u4ee3\u3082\u4e00\u3064\u306e\u53eb\u3073\u306b\u3002\u9032\u5316\u3057\u7d9a\u3051\u308b\u65e5\u672c\u306e\u30d1\u30f3\u30af\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: \u30b5\u30d0\u30b7\u30b9\u30bf\u30fc",
+  "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. / \u30ec\u30b8\u30a7\u30f3\u30c9\u3082\u65b0\u4e16\u4ee3\u3082\u4e00\u3064\u306e\u53eb\u3073\u306b\u3002\u9032\u5316\u3057\u7d9a\u3051\u308b\u65e5\u672c\u306e\u30d1\u30f3\u30af\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: bed",
   "name": "Punk Japan",
   "tracks": [
     {
@@ -1222,7 +1222,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 243931,
       "name": "boys",
       "url": "https://open.spotify.com/track/6TwhwafJt69U9ExhjbdbcW"
@@ -4526,6 +4526,24 @@
       "duration_ms": 180250,
       "name": "Irie",
       "url": "https://open.spotify.com/track/3sx006zaXSbCKkqIZJAB7I"
+    },
+    {
+      "album": {
+        "name": "Is The New Album Out Yet?",
+        "url": "https://open.spotify.com/album/40GWsNlzUiu4BNVUK3Osr6"
+      },
+      "artists": [
+        {
+          "name": "Otoboke Beaver",
+          "url": "https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92240,
+      "name": "Is The New Album Out Yet?",
+      "url": "https://open.spotify.com/track/5ifURZDS0giN09C2usZ7uq"
     },
     {
       "album": {
@@ -12692,7 +12710,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 212266,
       "name": "\u30b7\u30e7\u30fc\u30c8\u30ab\u30c3\u30c8",
       "url": "https://open.spotify.com/track/6CHrfuOFJikGNs6JriXdGi"
@@ -15778,6 +15796,24 @@
       "duration_ms": 231666,
       "name": "\u7e4b\u304c\u308aSUNSET",
       "url": "https://open.spotify.com/track/6ZThkGpxbRevrNRrUXoaIA"
+    },
+    {
+      "album": {
+        "name": "\u80aa \uff5cBo",
+        "url": "https://open.spotify.com/album/2en4aIjPUvlolSAAXWStDy"
+      },
+      "artists": [
+        {
+          "name": "bed",
+          "url": "https://open.spotify.com/artist/5nJqGF6KUDFS2jVMW9Oix9"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "\u80aa \uff5cBo",
+      "url": "https://open.spotify.com/track/71J6B49V8UJAhbAB3FZpgB"
     },
     {
       "album": {

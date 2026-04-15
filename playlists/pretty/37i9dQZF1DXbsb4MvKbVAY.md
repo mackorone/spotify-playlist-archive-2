@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsb4MvKbVAY.md) - [plain]
 
 > Mielenkiintoisimmat biisit ensisoitossa\. Kannessa PinkPantheress ja Zara Larsson.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,756 likes - 66 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,757 likes - 66 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

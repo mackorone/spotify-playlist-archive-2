@@ -1,12 +1,12 @@
 {
   "description": "This is Anti-Flag. The essential tracks, all in one playlist.",
-  "num_followers": 16610,
+  "num_followers": 16613,
   "original_name": "This Is Anti-Flag",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adrggAAAAADsVv9I2gaZzlFrQNYk3LDp",
+  "snapshot_id": "adwyAAAAAABf7WYLTRjSHY70bhNZme0U",
   "tracks": [
     {
       "added_at": null,
@@ -343,6 +343,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "American Fall",
+        "url": "https://open.spotify.com/album/55oNSkAEaPPS1PnSZimhts"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Racists",
+      "url": "https://open.spotify.com/track/3Y24Ja1ZRzfFsGEOJ7nnHt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LIES THEY TELL OUR CHILDREN",
         "url": "https://open.spotify.com/album/0y6Yl2xeyimgGJvIt2aNbk"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 184626,
       "name": "LAUGH. CRY. SMILE. DIE. (feat. Shane Told of Silverstein)",
       "url": "https://open.spotify.com/track/6AmR0jgVwt26PqY3FJL8zk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "American Fall",
-        "url": "https://open.spotify.com/album/55oNSkAEaPPS1PnSZimhts"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Racists",
-      "url": "https://open.spotify.com/track/3Y24Ja1ZRzfFsGEOJ7nnHt"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Complete Control Sessions",
-        "url": "https://open.spotify.com/album/7sKPLjegUKYQewu3ytf0Si"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 163946,
-      "name": "Should I Stay or Should I Go - Live Version",
-      "url": "https://open.spotify.com/track/6RUQBnoaTvJWmeKWonkJwB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "American Fall",
         "url": "https://open.spotify.com/album/55oNSkAEaPPS1PnSZimhts"
       },
@@ -443,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Spring",
-        "url": "https://open.spotify.com/album/6UtJ5648uGVbr0EGCJs6S7"
+        "name": "Complete Control Sessions",
+        "url": "https://open.spotify.com/album/7sKPLjegUKYQewu3ytf0Si"
       },
       "artists": [
         {
@@ -452,9 +436,9 @@
           "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
         }
       ],
-      "duration_ms": 196306,
-      "name": "Fabled World",
-      "url": "https://open.spotify.com/track/3HNYcvcsw78tNXJtc4YbES"
+      "duration_ms": 163946,
+      "name": "Should I Stay or Should I Go - Live Version",
+      "url": "https://open.spotify.com/track/6RUQBnoaTvJWmeKWonkJwB"
     },
     {
       "added_at": null,
@@ -475,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A New Kind of Army",
-        "url": "https://open.spotify.com/album/1Y0Z1edYpuumeeELWdseMv"
+        "name": "American Spring",
+        "url": "https://open.spotify.com/album/6UtJ5648uGVbr0EGCJs6S7"
       },
       "artists": [
         {
@@ -484,9 +468,9 @@
           "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
         }
       ],
-      "duration_ms": 153991,
-      "name": "Captain Anarchy",
-      "url": "https://open.spotify.com/track/1tqC8SbK0zAPOOhq0YXc5Z"
+      "duration_ms": 196306,
+      "name": "Fabled World",
+      "url": "https://open.spotify.com/track/3HNYcvcsw78tNXJtc4YbES"
     },
     {
       "added_at": null,
@@ -507,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A New Kind of Army",
+        "url": "https://open.spotify.com/album/1Y0Z1edYpuumeeELWdseMv"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 153991,
+      "name": "Captain Anarchy",
+      "url": "https://open.spotify.com/track/1tqC8SbK0zAPOOhq0YXc5Z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LIES THEY TELL OUR CHILDREN",
         "url": "https://open.spotify.com/album/0y6Yl2xeyimgGJvIt2aNbk"
       },
@@ -523,22 +523,6 @@
       "duration_ms": 211866,
       "name": "VICTORY OR DEATH (WE GAVE 'EM HELL) (feat. Campino of Die Toten Hosen)",
       "url": "https://open.spotify.com/track/1gLX2nqjwB7J7udA95Zmr3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The People Or the Gun",
-        "url": "https://open.spotify.com/album/5PAiVz2v0z9FqOI7e9Ebvn"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 216093,
-      "name": "The Economy is Suffering...Let It Die",
-      "url": "https://open.spotify.com/track/4H7jb8U0LxNrwCgAEsJJfr"
     },
     {
       "added_at": null,
@@ -575,6 +559,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The People Or the Gun",
+        "url": "https://open.spotify.com/album/5PAiVz2v0z9FqOI7e9Ebvn"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 216093,
+      "name": "The Economy is Suffering...Let It Die",
+      "url": "https://open.spotify.com/track/4H7jb8U0LxNrwCgAEsJJfr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Die for the Government",
         "url": "https://open.spotify.com/album/5q8xABjtqtUm4ItxT51NQP"
       },
@@ -587,22 +587,6 @@
       "duration_ms": 141026,
       "name": "You'd Do the Same",
       "url": "https://open.spotify.com/track/6XmmqYxSC4faXhsrsXqUKs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cease Fires",
-        "url": "https://open.spotify.com/album/5g0lMotkrRemJUW1DbXblA"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 179362,
-      "name": "Kill the Rich (Re-Recorded)",
-      "url": "https://open.spotify.com/track/7gpWdJBXM7sbkzVOgrsikt"
     },
     {
       "added_at": null,
@@ -635,6 +619,22 @@
       "duration_ms": 226560,
       "name": "Rank-N-File",
       "url": "https://open.spotify.com/track/1cp15PNImIgZXiBURTqS16"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cease Fires",
+        "url": "https://open.spotify.com/album/5g0lMotkrRemJUW1DbXblA"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 179362,
+      "name": "Kill the Rich (Re-Recorded)",
+      "url": "https://open.spotify.com/track/7gpWdJBXM7sbkzVOgrsikt"
     },
     {
       "added_at": null,
@@ -787,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "20/20 Vision",
-        "url": "https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 146773,
-      "name": "20/20 Vision",
-      "url": "https://open.spotify.com/track/7MsspKVfHpHkwYpOukORAN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Underground Network",
         "url": "https://open.spotify.com/album/5NUqfqkQzEuc4IjDTy8l5S"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 134893,
       "name": "Bring Out Your Dead",
       "url": "https://open.spotify.com/track/5suFYy1caOoi9pdiMirhPs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "20/20 Vision",
+        "url": "https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 146773,
+      "name": "20/20 Vision",
+      "url": "https://open.spotify.com/track/7MsspKVfHpHkwYpOukORAN"
     },
     {
       "added_at": null,

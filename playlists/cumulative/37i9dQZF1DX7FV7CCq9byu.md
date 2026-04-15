@@ -4,7 +4,7 @@
 
 > Det bästa från svensk & internationell pop.
 
-1,620 songs - 3 day 11 hr 2 min
+1,621 songs - 3 day 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1479,6 +1479,7 @@
 | [Turn Back Time](https://open.spotify.com/track/7obICqf7aulekVSLLxSub5) | [Rasmus Hagen](https://open.spotify.com/artist/2xE7TMnsr4hxdQW5F3urtq) | [Turn Back Time](https://open.spotify.com/album/0xT0uCQ4nxKrUZv5RRZkfo) | 3:01 | 2025-02-13 | 2025-03-14 |
 | [Turnstile](https://open.spotify.com/track/4qoeKDSw3siIY9ZjCvbmFj) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [The Weight of the Woods](https://open.spotify.com/album/75pxFt8fBxAZaSII4Ur6Dd) | 3:50 | 2026-04-02 |  |
 | [Tusen spänn](https://open.spotify.com/track/01RdEXps15f3VmQMV6OuTM) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp), [Fanny Avonne](https://open.spotify.com/artist/3TwYZ3UPAb6MI7e1dkbiF8) | [Tusen spänn](https://open.spotify.com/album/65IQow1xXrvDc5j1H0DJiL) | 3:10 | 2025-05-08 | 2025-07-18 |
+| [TV](https://open.spotify.com/track/6RLMAUSoJP0GZZAnnLrTlX) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm) | [TV](https://open.spotify.com/album/6c91028rOTzQnHvmYgK6I4) | 3:15 | 2026-04-14 |  |
 | [twilight zone](https://open.spotify.com/track/1UrwJzlNC2oaTlxj1OZmcu) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead](https://open.spotify.com/album/6kXXIMyzRgQeai4A0DsXOn) | 3:18 | 2025-03-28 | 2025-05-23 |
 | [Two Hearts](https://open.spotify.com/track/58BZYJxcZbDngJbBQN7wdL) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Cerulean](https://open.spotify.com/album/1YbqV9ng7vfzgGbhjR2FfQ) | 3:52 | 2026-02-12 |  |
 | [Two of a Kind](https://open.spotify.com/track/6vdnVjogTPRTt2rJa1r0CR) | [Goldielocks](https://open.spotify.com/artist/5v1NrlZC6GuQq2Ci8H1A59) | [Two of a Kind](https://open.spotify.com/album/4B3dX9V7VZJl9VeMC7XBT3) | 3:27 | 2025-10-23 | 2025-12-12 |

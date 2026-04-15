@@ -4,7 +4,7 @@
 
 > This is Los Desvelados\. The essential tracks, all in one playlist.
 
-99 songs - 5 hr 25 min
+100 songs - 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,8 @@
 | [Me Tuve Que Pelar Pa Culiacán](https://open.spotify.com/track/1Ltvt6fkT1Pq6t9r70Qe94) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Me Tuve Que Pelar Pa Culiacán](https://open.spotify.com/album/60L8KEOT1XsBxkni1EiAlR) | 3:31 | 2024-01-29 |  |
 | [Me Veran Contento \(Happy\)](https://open.spotify.com/track/0GvDKP9zy2Zpj7Dl3J9GJu) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Corridos Underground 3](https://open.spotify.com/album/6JB8Cl3UTvFUF5aM8Xrg11) | 3:45 | 2024-01-29 | 2024-12-03 |
 | [Mr\. Make It Happen](https://open.spotify.com/track/4Dyht9NcFwLHZG1uxUmWnI) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Mr\. Make It Happen](https://open.spotify.com/album/4CwKfeFdH5rzGirruzHGOv) | 3:48 | 2026-03-23 |  |
-| [Mr\. Seal The Deal](https://open.spotify.com/track/2IJX1dBzsM09wga4cpivNB) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Mr\. Seal The Deal](https://open.spotify.com/album/4tMN3VLZRAUczIq3uuqFly) | 4:35 | 2024-01-29 |  |
+| [Mr\. Seal the Deal](https://open.spotify.com/track/0HIIT1vaPTt5CuYZ74sonO) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Mr\. Seal the Deal](https://open.spotify.com/album/0onvZ8hmwRKN7NgwmHVuPH) | 4:30 | 2026-04-15 |  |
+| [Mr\. Seal The Deal](https://open.spotify.com/track/2IJX1dBzsM09wga4cpivNB) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Mr\. Seal The Deal](https://open.spotify.com/album/4tMN3VLZRAUczIq3uuqFly) | 4:35 | 2024-01-29 | 2026-04-15 |
 | [Naci En Pacoima](https://open.spotify.com/track/3GRIO9xmYBoxbrEw8Fq5KC) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Naci En Pacoima](https://open.spotify.com/album/3UTutRO58SE8ISyzb0fNP6) | 3:42 | 2024-03-23 |  |
 | [NOS ACOPLAMOS MACIZO](https://open.spotify.com/track/6uCvstfQgLatfcz8y87W2x) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [CORRIDOS UNDERGROUND \(Vol\. 4\)](https://open.spotify.com/album/2Nqb3yTWqrq8IJ5hPMn9UY) | 3:46 | 2024-04-30 | 2024-05-22 |
 | [Nos Acoplamos Macizo](https://open.spotify.com/track/20f9YnNt8NzMhG4pk76z4r) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Nos Acoplamos Macizo](https://open.spotify.com/album/0mAX4bigDwYatbUkkqlUWl) | 4:06 | 2024-01-29 |  |

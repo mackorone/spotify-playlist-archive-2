@@ -4,7 +4,7 @@
 
 > beautiful music that you can put on repeat
 
-924 songs - 1 day 23 hr 9 min
+925 songs - 1 day 23 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,6 +207,7 @@
 | [Devil in disguise](https://open.spotify.com/track/3mp2sIQoVM2vDccOICPgCC) | [Ribera del Júcar Revival](https://open.spotify.com/artist/04gcWUfNrbcWSklXOdnmjY) | [A Dozen Years Ago, Dozen Songs\. J.J\. Cale Tribute](https://open.spotify.com/album/1TLHKnWvLSPZMAcXGxcyX9) | 2:27 | 2025-10-06 | 2026-01-15 |
 | [Diamond in the rough](https://open.spotify.com/track/0Jxj7W6RxHW6s3fadcoxhp) | [outtasht](https://open.spotify.com/artist/4heFFEm0kmjV7bw4c62ISL), [L.C](https://open.spotify.com/artist/1HY9fyEShzoZzSQFCbektv) | [Diamond in the rough](https://open.spotify.com/album/3zdMcj2HjlztK7iSq5GhNl) | 2:51 | 2026-02-14 |  |
 | [Diamond Touch](https://open.spotify.com/track/37BsHlHRaEav5FUNu1pJ1Z) | [RapCaviar](https://open.spotify.com/artist/7rDdFwNOtRzHmG6VrHYYL4) | [RapCaviar, Vol\. 3](https://open.spotify.com/album/7GWk0dgMXTfI3LPdQVYm15) | 2:37 | 2026-01-03 | 2026-02-23 |
+| [Diarios de Nirak pt\. 1](https://open.spotify.com/track/5x7LP3TqnOqUkHGy3qLi4K) | [P.A.C\. 7](https://open.spotify.com/artist/4xYTZFwBIsZqSuYLRzNIGF), [Old Máfia 021 Rec RD'RUA](https://open.spotify.com/artist/2etqM9FQJqGUMCL2rezdkt) | [Diarios de Nirak pt\. 1](https://open.spotify.com/album/6o0TnFdar5U4Mf5FDwVUeT) | 1:40 | 2026-04-14 |  |
 | [Dictator Dreams](https://open.spotify.com/track/79O4zO1jbGJVvshYpyiNcx) | [Bodo Bifroest](https://open.spotify.com/artist/0xMff2UG1y0azDoSbZSLwZ) | [Dictator Dreams](https://open.spotify.com/album/0rSYBoTiUlmVjOqvmcOSc9) | 2:37 | 2026-04-05 |  |
 | [Dignity](https://open.spotify.com/track/66iTL2RwsZ9DihlBeiI4gp) | [Gobaith](https://open.spotify.com/artist/1EVXqPW8qgjyv1649P1t80) | [The Channeler](https://open.spotify.com/album/0EMWMpbYnTFMogq2L9NYUb) | 3:15 | 2025-11-25 | 2026-02-23 |
 | [Dior](https://open.spotify.com/track/6zOMszPQW4T9xGFzNHfQaq) | [COA](https://open.spotify.com/artist/0eRCLMckvcXLTWLyBfRA4n), [XELLEN7](https://open.spotify.com/artist/02VTECRZkRQd4h4FTbBVoM) | [Dior](https://open.spotify.com/album/59r8gVG29cARAewLRiv6kU) | 2:46 | 2025-11-14 | 2026-02-23 |

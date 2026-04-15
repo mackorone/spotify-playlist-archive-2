@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xImy3px1J2.md) - [plain]
 
 > L'unica party playlist di cui hai bisogno, sempre aggiornata 🍾 Top hit italiane e internazionali!
 
-[Spotify](https://open.spotify.com/user/spotify) - 341,392 likes - 100 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 341,396 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xImy3px1J2.md) - [plain]
 | 99 | [Murder On The Dancefloor \- PNAU Remix](https://open.spotify.com/track/2Rhh3ZhukJfTKoBVzIYTaf) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Murder On The Dancefloor \(PNAU Remix\)](https://open.spotify.com/album/02oNjidORbldUslV7kMWAZ) | 4:20 |
 | 100 | [Drums \(Feat\. Kim Petras\)](https://open.spotify.com/track/4AFlChQQJbB1MOCgOiiyYc) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Drums \(Feat\. Kim Petras\)](https://open.spotify.com/album/5Xs1g4UOOm6NBk4cSxyl2M) | 2:32 |
 
-Snapshot ID: `AAAAAHiMLMwLFXeqy7Eerg2M930JBpIz`
+Snapshot ID: `AAAAAKy3sVgOiXTtIVMlxgGNehuusdFw`

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HC3xQbIKZ8.md) - [plain]
 
 ### [Island Time](https://open.spotify.com/playlist/37i9dQZF1DX2HC3xQbIKZ8)
 
-> Pacific reggae, roots rockers\. Relax, you're on island time\. Cover: L.A.B.
+> Pacific reggae, roots rockers\. Relax, you're on island time\. Cover: Myshaan
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,787 likes - 75 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,803 likes - 75 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

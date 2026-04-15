@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ptRQF1dOxS.md) - [plain]
 
 ### [EQUAL UK & Ireland ](https://open.spotify.com/playlist/37i9dQZF1DX9ptRQF1dOxS)
 
-> Listen to women at full volume\. Cover: Mel C  💚
+> Listen to women at full volume\. Cover: Melanie C  💚
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,817 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,820 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ptRQF1dOxS.md) - [plain]
 | 49 | [Nightshift](https://open.spotify.com/track/4uTGJvLu4HWSgtqav9j6E1) | [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [Nightshift](https://open.spotify.com/album/4diS3O2zXWbIkVjYrzmOKZ) | 2:53 |
 | 50 | [RM 1](https://open.spotify.com/track/1aYYb062OfrKC8bb5WPz68) | [Saoirse](https://open.spotify.com/artist/7AZxq55YIas0vYM7L82XKX) | [RM 1](https://open.spotify.com/album/5OQzr5MCJ4dLmWEVDMXm4x) | 5:40 |
 
-Snapshot ID: `AAAAAC7P/CPegja7mqY9Gl5F6ebg9qcM`
+Snapshot ID: `AAAAAK5h5+Y3yr/FEvt2O6TeOAuGccF4`

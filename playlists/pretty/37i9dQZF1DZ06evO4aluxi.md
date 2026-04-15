@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4aluxi.md) - [plain]
 
 > This is Amy Grant\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,180 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,181 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4aluxi.md) - [plain]
 | 33 | [It Is Well With My Soul/The River's Gonna Keep On Rolling \- Medley](https://open.spotify.com/track/3UFkUw2BMQRgwaqv1GLXHW) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Legacy...Hymns & Faith](https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs) | 4:54 |
 | 34 | [House Of Love](https://open.spotify.com/track/1NLUdUNqji3A8G1UMKHicV) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [House Of Love \(Remastered\)](https://open.spotify.com/album/3zGpXofO95slQYAQqeBYnb) | 4:36 |
 | 35 | [The 6th Of January \(Yasgur's Farm\)](https://open.spotify.com/track/15BK9yBFECqeCZLM7VKe8X) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [The 6th Of January \(Yasgur's Farm\)](https://open.spotify.com/album/3rkrlXSmAFjxzbB7S8bKG0) | 4:10 |
-| 36 | [Thy Word](https://open.spotify.com/track/2CzFh0q2eO1xBRyB7IsFbm) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Tranquility](https://open.spotify.com/album/1uOZiApWGltQPqdd4dIAwC) | 3:59 |
-| 37 | [Stay For A While](https://open.spotify.com/track/5kKdMpS0kUxrMqLzgQvPTr) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [The Collection](https://open.spotify.com/album/5cG6J4bVB9pqCMnnHkxLYi) | 5:35 |
+| 36 | [Stay For A While](https://open.spotify.com/track/5kKdMpS0kUxrMqLzgQvPTr) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [The Collection](https://open.spotify.com/album/5cG6J4bVB9pqCMnnHkxLYi) | 5:35 |
+| 37 | [Thy Word](https://open.spotify.com/track/2CzFh0q2eO1xBRyB7IsFbm) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Tranquility](https://open.spotify.com/album/1uOZiApWGltQPqdd4dIAwC) | 3:59 |
 | 38 | [Big Yellow Taxi](https://open.spotify.com/track/5reaWOvB4w0Gp8KjwKXqcu) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [House Of Love \(Remastered\)](https://open.spotify.com/album/3zGpXofO95slQYAQqeBYnb) | 3:01 |
 | 39 | [Arms Of Love](https://open.spotify.com/track/3cOpBTr6c4c6k0GyGT4xm0) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Age To Age](https://open.spotify.com/album/4VMXOQ84AZcpGJNwbkWD53) | 3:23 |
 | 40 | [Father's Eyes](https://open.spotify.com/track/39dCwla9fnPt3RQHjwPQ5s) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [My Father's Eyes](https://open.spotify.com/album/7EJzRX6PB2SySpeD4wdb6S) | 4:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4aluxi.md) - [plain]
 | 49 | ['Tis So Sweet To Trust In Jesus](https://open.spotify.com/track/0tZekzPg5NdiJkGiJ9ijnX) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Be Still And Know..\. Hymns & Faith](https://open.spotify.com/album/10qWQHGVyXvQf8FQNQRkZu) | 4:04 |
 | 50 | [Galileo](https://open.spotify.com/track/5k6PqEbyX3NT4oTMJn2tj6) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Heart In Motion](https://open.spotify.com/album/6YbWlg2x8aIHASDTunWF8H) | 4:20 |
 
-Snapshot ID: `adrggAAAAADf35H0ncnJdaurZg61kJci`
+Snapshot ID: `adwyAAAAAAB7r1JuSSw6qNrlWgGBOnif`

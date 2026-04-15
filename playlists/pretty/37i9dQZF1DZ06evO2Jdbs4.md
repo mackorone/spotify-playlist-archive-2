@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Jdbs4.md) - [plain]
 
 > This is Bobby Pulido\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,698 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,702 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Jdbs4.md) - [plain]
 | 27 | [Obsesión](https://open.spotify.com/track/4UlwEI3H7er7gq29WAh3XB) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Vive](https://open.spotify.com/album/4v2fdmkaVrrT0eYhy2ix3a) | 3:37 |
 | 28 | [Como Dos Extraños](https://open.spotify.com/track/5IQIQf56gG2Tlx2i3ubHJb) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [El Cazador](https://open.spotify.com/album/1stC6cYFtYDiKRnQEVgpTk) | 3:32 |
 | 29 | [Te Voy A Amar](https://open.spotify.com/track/7H9BJi45b1XJwYiC1vajfc) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Desvelado](https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2) | 3:56 |
-| 30 | [Nada De Nada](https://open.spotify.com/track/78PFDzdmPuMpTHLgMpIkKU) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo), [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Nada De Nada](https://open.spotify.com/album/49gCKCeoM3fmWI4jNv71PK) | 3:01 |
-| 31 | [El Último Romántico](https://open.spotify.com/track/1uh8sWHg8QcCs8K9S2NDZM) | [Mesteño](https://open.spotify.com/artist/4sDNXNlCrk7zHUZTYggE4K), [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [El Último Romántico](https://open.spotify.com/album/4AQ6qn5bLcBCU8H0PDtZRC) | 3:06 |
+| 30 | [El Último Romántico](https://open.spotify.com/track/1uh8sWHg8QcCs8K9S2NDZM) | [Mesteño](https://open.spotify.com/artist/4sDNXNlCrk7zHUZTYggE4K), [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [El Último Romántico](https://open.spotify.com/album/4AQ6qn5bLcBCU8H0PDtZRC) | 3:06 |
+| 31 | [Nada De Nada](https://open.spotify.com/track/78PFDzdmPuMpTHLgMpIkKU) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo), [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Nada De Nada](https://open.spotify.com/album/49gCKCeoM3fmWI4jNv71PK) | 3:01 |
 | 32 | [Margarita](https://open.spotify.com/track/1qbsrr0AwGgTY2SD5s1qIr) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Enséñame](https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK) | 3:57 |
 | 33 | [Cindy Don't Know](https://open.spotify.com/track/4yeRSlUJb9QxXAbOKk0WPg) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Desvelado](https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2) | 3:38 |
 | 34 | [Se Me Olvidó Otra Vez](https://open.spotify.com/track/1nk048JMIWk2EV7mFoahfH) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Bobby](https://open.spotify.com/album/4x9sXcbLTRlKNvHbzUp1w7) | 3:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Jdbs4.md) - [plain]
 | 49 | [Cumbia Vallenata \- En Vivo](https://open.spotify.com/track/6FzRj4Wk0vs4lfA1RoVr9j) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg), [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Cumbia Vallenata \(En Vivo\)](https://open.spotify.com/album/6lh0KAnbbfjKNROV6JStbH) | 3:37 |
 | 50 | [La Rosa / Flecha Envenenada \(feat\. Bobby Pulido\)](https://open.spotify.com/track/1CnGSMYKYFMmZGJU4mqtYq) | [El Plan](https://open.spotify.com/artist/6hC4K4CHuu5MRsNUHAqqdy), [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Pa' La Pista y Pa'l Pisto, Vol\. 2](https://open.spotify.com/album/5TEuiPGD4Gpmy7mE3nfHPI) | 6:00 |
 
-Snapshot ID: `adrggAAAAACTjECp9uf7L6hkAYfoWDyL`
+Snapshot ID: `adwyAAAAAADcdjHX5SaDCDTKpxchQOl1`

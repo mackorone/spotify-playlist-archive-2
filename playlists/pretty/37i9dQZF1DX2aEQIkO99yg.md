@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aEQIkO99yg.md) - [plain]
 
 > Revive la noche histórica del primero de marzo\. ¡Así vibraron 400.000 corazones con Shak!
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,054 likes - 29 songs - 1 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,050 likes - 29 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

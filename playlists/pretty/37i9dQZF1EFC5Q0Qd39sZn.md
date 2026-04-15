@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,517 likes - 580 songs - 1 day 16 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,519 likes - 580 songs - 1 day 16 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -257,8 +257,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 247 | [Until U Love U \- Nicole Scherzinger](https://open.spotify.com/track/1vMfU4wCxvVzXxMqUuDX5l) | [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) | [Doll Domination \(Deluxe\)](https://open.spotify.com/album/7mDkWKTghwBDuHCJmH6qR5) | 3:38 |
 | 248 | [Whenever You Close Your Eyes](https://open.spotify.com/track/2AUOwFmZXSSxx2yOdBVnx5) | [Tommy Page](https://open.spotify.com/artist/4TPWj56uIO4N5puju96P0J) | [From The Heart](https://open.spotify.com/album/0DpEL1pppZzHT0CGY7th7t) | 4:34 |
 | 249 | [This River](https://open.spotify.com/track/1phGxlAcLIO3Mwke0XZV1R) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [That's Me](https://open.spotify.com/album/62CDxOlX4fNlDStY5CbSUK) | 5:17 |
-| 250 | [The Sun Ain't Gonna Shine](https://open.spotify.com/track/5T3z4DZm07eEPFJixAfZju) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Indestructible](https://open.spotify.com/album/1pbPkhuest1I4RGpz3rWmC) | 4:58 |
-| 251 | [Give A Little Love](https://open.spotify.com/track/20TTWmID7y6Bq7r6UnE5iW) | [Hammond & West](https://open.spotify.com/artist/5uMo9yQCfd9Fws49UlzgqJ) | [Hammond & West](https://open.spotify.com/album/6KVXPZQLVnlF8bt9iV5oDe) | 3:28 |
+| 250 | [Give A Little Love](https://open.spotify.com/track/20TTWmID7y6Bq7r6UnE5iW) | [Hammond & West](https://open.spotify.com/artist/5uMo9yQCfd9Fws49UlzgqJ) | [Hammond & West](https://open.spotify.com/album/6KVXPZQLVnlF8bt9iV5oDe) | 3:28 |
+| 251 | [The Sun Ain't Gonna Shine](https://open.spotify.com/track/5T3z4DZm07eEPFJixAfZju) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Indestructible](https://open.spotify.com/album/1pbPkhuest1I4RGpz3rWmC) | 4:58 |
 | 252 | [You Are My Home](https://open.spotify.com/track/4I5gpBUfTcqJHO93byBpj3) | [Vanessa L\. Williams](https://open.spotify.com/artist/2LaI36n7EVNlR6SSqv9cKg), [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Dance With Me Music From The Motion Picture](https://open.spotify.com/album/4bos6gNopheWkjbVnf6sGj) | 5:09 |
 | 253 | [I'll Get Through It](https://open.spotify.com/track/29i42LGWRMt8JaNo6YFdTn) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I), [Franky Perez](https://open.spotify.com/artist/5thMiyWHTQFVgttOjJVEHa), [Geezer Butler](https://open.spotify.com/artist/3Ezdddx6OeiOX7xLtfG48W) | [I'll Get Through It](https://open.spotify.com/album/1SbhxCMizdXux9rf9YlQoZ) | 4:17 |
 | 254 | [Questo Amore \(I Don't Want To Miss A Thing\)](https://open.spotify.com/track/5syMPvI7vcgTwTPiOXhClh) | [Il Volo](https://open.spotify.com/artist/0dE9ooTNz8iEKIKItRI66t) | [We Are Love \(Deluxe\)](https://open.spotify.com/album/5CzzuE9XUREa6PyHGgucmC) | 4:34 |
@@ -589,4 +589,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 579 | [I Don't Know About That](https://open.spotify.com/track/0QVu6tcahV7XR25KY4gowA) | [Elan Lea](https://open.spotify.com/artist/0yaj6mNaPV5xeNn0wOyZlQ) | [My only excuse](https://open.spotify.com/album/6kl4ymNl4SRsvzBiLZBrkq) | 3:19 |
 | 580 | [There's Always Love](https://open.spotify.com/track/1GEM0xFN8KCkZ8MWXeTGjk) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [Music Speaks Louder Than Words](https://open.spotify.com/album/749QW9xP9WJSrLAYHAJaco) | 4:30 |
 
-Snapshot ID: `AcOx6AAAAABR1/7JRnoEPPHPA8nxnB0E`
+Snapshot ID: `AcO3TAAAAAAlU9SXRGy5D1LeSHl0A/Oj`

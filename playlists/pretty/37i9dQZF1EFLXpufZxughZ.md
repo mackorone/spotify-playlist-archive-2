@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLXpufZxughZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/68dXiKlXR8OQojuPZd8lz1">T\-Minus</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,097 likes - 135 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,098 likes - 135 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLXpufZxughZ.md) - [plain]
 | 26 | [We'll Be Fine](https://open.spotify.com/track/7udsBKuqnJ5csWTAkR0vEI) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Birdman](https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs) | [Take Care \(Deluxe\)](https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q) | 4:07 |
 | 27 | [Rockstar In His Prime](https://open.spotify.com/track/2aaUTdC6YQqEZiQEk8wPxK) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Fighting Demons \(Deluxe\)](https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew) | 3:00 |
 | 28 | [H.Y.B\. \(feat\. Bas & Central Cee\)](https://open.spotify.com/track/5RMTsrJkrtumtiIZjy7dL6) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 3:54 |
-| 29 | [1 0 0 \. m i l ‘ \(with Bas\)](https://open.spotify.com/track/4n6NDfYake476trCjJRNl0) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 2:43 |
-| 30 | [Mannequin Challenge \(feat\. Juice WRLD\)](https://open.spotify.com/track/5TnLXSd4h6G06Fbt2ApOpa) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [So Much Fun](https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh) | 2:42 |
+| 29 | [Mannequin Challenge \(feat\. Juice WRLD\)](https://open.spotify.com/track/5TnLXSd4h6G06Fbt2ApOpa) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [So Much Fun](https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh) | 2:42 |
+| 30 | [1 0 0 \. m i l ‘ \(with Bas\)](https://open.spotify.com/track/4n6NDfYake476trCjJRNl0) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 2:43 |
 | 31 | [Go Get It](https://open.spotify.com/track/2gPl93XdGnfKUykwxVHUYt) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Trouble Man: Heavy is the Head](https://open.spotify.com/album/5X46pZekTY2dsWuZDpm14m) | 3:37 |
 | 32 | [Lion King On Ice](https://open.spotify.com/track/1ZvBVbsaNqHEP6ymXaPGlj) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Lewis Street](https://open.spotify.com/album/1wRfMGVxmo1Gokg7nUwHye) | 3:30 |
 | 33 | [Crocodile Tearz](https://open.spotify.com/track/1yfKakY4rvI17lk20ekuRA) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 3:49 |
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLXpufZxughZ.md) - [plain]
 | 134 | [Hard to Breathe](https://open.spotify.com/track/2h4Tn7GeqjoaecdelWzQg3) | [Nathan Hammah](https://open.spotify.com/artist/0VO2sPJm8C90oOPHjrEOtg), [Hooks](https://open.spotify.com/artist/2kz5a2KrH2NBXBv1TgEmz6), [Monique](https://open.spotify.com/artist/11IltqNFT9YGgvsGmE1TOr) | [Hard to Breathe](https://open.spotify.com/album/3m7SNrSb4xYrO8t4pF6zq8) | 3:23 |
 | 135 | [March 14th](https://open.spotify.com/track/4OBjDxHFi7Wx5mIyCbWOET) | [Nabil Muquit](https://open.spotify.com/artist/6KAQoxYIdufiIpIN9Hh97O) | [4u&u2](https://open.spotify.com/album/0e7J5hOtxyqg0UsNEJCbFH) | 3:31 |
 
-Snapshot ID: `AcOxwAAAAAAIld5byg60vljbIpfA/ske`
+Snapshot ID: `AcO3YAAAAAAfzSuHxEiECrNwd4gRtVW4`

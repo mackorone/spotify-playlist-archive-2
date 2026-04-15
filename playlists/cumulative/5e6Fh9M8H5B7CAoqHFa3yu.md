@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,121 songs - 5 day 5 hr 39 min
+2,122 songs - 5 day 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1405,6 +1405,7 @@
 | [Pink Rain \(Re:make\)](https://open.spotify.com/track/7ruc9npO8S8bsl1VJA3Gjj) | [Turbo.Shihtzu](https://open.spotify.com/artist/64FbqwHzilmYc7JTt1MauK) | [Pink Rain \(Re:make\)](https://open.spotify.com/album/7vn0X5D6BCutk8KC4CSoLK) | 2:26 | 2025-11-17 |  |
 | [Pizza Funghi](https://open.spotify.com/track/5xW0M3w4m9fQdBbTbpWca4) | [Lunamber](https://open.spotify.com/artist/6kQ6my1pRo4S7X8WYXj8B1) | [Pizza Funghi](https://open.spotify.com/album/6iLwnrQTImmq300jcdRrMC) | 2:44 | 2025-12-30 |  |
 | [Pizza Margherita](https://open.spotify.com/track/4kgnunK2B5xNufsIe8LOMX) | [Lunamber](https://open.spotify.com/artist/6kQ6my1pRo4S7X8WYXj8B1) | [Pizza Margherita](https://open.spotify.com/album/4Hh5YJKxTxrKu2Nab4mhJz) | 2:10 | 2026-03-17 |  |
+| [Pizza Pepperoni](https://open.spotify.com/track/0QesMcqtIJuPYELEnpIQIF) | [Lunamber](https://open.spotify.com/artist/6kQ6my1pRo4S7X8WYXj8B1) | [Pizza Pepperoni](https://open.spotify.com/album/526zGbVmgH3mxUafAM80ov) | 2:21 | 2026-04-14 |  |
 | [Place of Gods](https://open.spotify.com/track/7vNAnwOPK4NjIZRShR9iv9) | [SHA\-N](https://open.spotify.com/artist/06WMwT5suuRVkNuADN1nJ7) | [5TH DIMENSION](https://open.spotify.com/album/2raSu29sR5ZtJDTeOZEZJ0) | 4:12 | 2026-03-17 |  |
 | [Planta Crecer](https://open.spotify.com/track/3bwexrnqApEcDKEEOMy7J6) | [Mr\. Mol](https://open.spotify.com/artist/0Pzhf2LTb0C0RJeAxaEBjx) | [Planta Crecer](https://open.spotify.com/album/4Hug1prc0w4BrGHmQHbHPQ) | 5:04 | 2025-11-18 |  |
 | [Please](https://open.spotify.com/track/1XpVhaI4HzWrhRWIpdfyJB) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 2:52 | 2026-04-12 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels. Cover: ELISHIA",
+  "description": "The best new music by independent artists and labels. Cover: The Gnomes",
   "name": "Fresh Finds AU & NZ",
   "tracks": [
     {
@@ -1830,7 +1830,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 193170,
       "name": "Adored",
       "url": "https://open.spotify.com/track/3pwSTMUgaiP7CR99EgwrGi"
@@ -3688,7 +3688,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 186428,
       "name": "Angelito",
       "url": "https://open.spotify.com/track/3rr3sniFMpo3yUBdP6Skn5"
@@ -23423,6 +23423,24 @@
     },
     {
       "album": {
+        "name": "Part 1",
+        "url": "https://open.spotify.com/album/1xrn9tOJPh2FbR6YyQ6bb3"
+      },
+      "artists": [
+        {
+          "name": "Nice Girl",
+          "url": "https://open.spotify.com/artist/2y5CM4wbWQ9R4JTjB860lB"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313460,
+      "name": "Express",
+      "url": "https://open.spotify.com/track/2qZHzf2ryUC1xPlushUdFi"
+    },
+    {
+      "album": {
         "name": "Extra",
         "url": "https://open.spotify.com/album/39CBN8YRo8fJ32Bo1Zxclc"
       },
@@ -36387,6 +36405,24 @@
     },
     {
       "album": {
+        "name": "I'm Sorry",
+        "url": "https://open.spotify.com/album/6g4OXwWI8gY4IjaATs5Kvi"
+      },
+      "artists": [
+        {
+          "name": "Wishlist",
+          "url": "https://open.spotify.com/artist/7KRfNZGIzB5L1QxHuknjSB"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228853,
+      "name": "I'm Sorry",
+      "url": "https://open.spotify.com/track/3w4t7Cku7fTLvQFOOwUThg"
+    },
+    {
+      "album": {
         "name": "I'm Trying",
         "url": "https://open.spotify.com/album/4laizWsGgenglKUKnCSkXE"
       },
@@ -36684,7 +36720,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 239946,
       "name": "Idontlikethewayyoulookatme",
       "url": "https://open.spotify.com/track/7lBMf3TL0bX1XxRukfG5SL"
@@ -41071,6 +41107,24 @@
     },
     {
       "album": {
+        "name": "Lay It Down",
+        "url": "https://open.spotify.com/album/5j7oTRAi1YltxBhoEL6n9Z"
+      },
+      "artists": [
+        {
+          "name": "Tusekah",
+          "url": "https://open.spotify.com/artist/6w8NhdLlNYDyfFfbjJanRl"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198760,
+      "name": "Lay It Down",
+      "url": "https://open.spotify.com/track/7HD1eI4xMRmiVer4mnkeEk"
+    },
+    {
+      "album": {
         "name": "Lay Lo",
         "url": "https://open.spotify.com/album/1VPGc2NpfAweVCxTwD2t0X"
       },
@@ -42120,6 +42174,24 @@
       "duration_ms": 176797,
       "name": "Levitate",
       "url": "https://open.spotify.com/track/49ELPGtwo435Zut6LkI3A3"
+    },
+    {
+      "album": {
+        "name": "Levitate",
+        "url": "https://open.spotify.com/album/6VqPCTH7MBdofKCSzuHU8A"
+      },
+      "artists": [
+        {
+          "name": "Sidney Phillips",
+          "url": "https://open.spotify.com/artist/0S3fNZXYsaHufrQq3GsO2T"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211840,
+      "name": "Levitate",
+      "url": "https://open.spotify.com/track/5F7T1d2OIvTrNiO06HZ0pv"
     },
     {
       "album": {
@@ -45406,6 +45478,24 @@
       "duration_ms": 236154,
       "name": "Magazine Dreams",
       "url": "https://open.spotify.com/track/6Yf5cHW7uCncVpZpPQSdbV"
+    },
+    {
+      "album": {
+        "name": "Magic Man",
+        "url": "https://open.spotify.com/album/4N468uvbihepIVfjDhe82d"
+      },
+      "artists": [
+        {
+          "name": "The Gnomes",
+          "url": "https://open.spotify.com/artist/1Ax3BC6GoOGjSw2ipoi6P6"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175103,
+      "name": "Magic Man",
+      "url": "https://open.spotify.com/track/1kegdFmzGcUPUM35xJXzmK"
     },
     {
       "album": {
@@ -54854,7 +54944,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 203240,
       "name": "Outline",
       "url": "https://open.spotify.com/track/21B02lAL25f8WWNMyc7uMo"
@@ -56510,7 +56600,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 201637,
       "name": "Pigeon",
       "url": "https://open.spotify.com/track/20xPTgR9luxSduaKnv3hok"

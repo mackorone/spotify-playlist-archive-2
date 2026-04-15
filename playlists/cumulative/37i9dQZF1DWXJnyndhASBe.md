@@ -4,7 +4,7 @@
 
 > Zwycięzcy Popkillerów przejmują RAP GENERACJĘ.
 
-946 songs - 1 day 20 hr 25 min
+947 songs - 1 day 20 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [chłopaki płaczą](https://open.spotify.com/track/1d0mXv4ZWp54rYduSntIfA) | [DZIARMA](https://open.spotify.com/artist/6LwJ1zgqEFyIwXzDD44Qsn), [Miroff](https://open.spotify.com/artist/6BanFN5Xaq11YYRogYOtnD) | [chłopaki płaczą](https://open.spotify.com/album/4ajA3lWOKQcmL7aeK5Xlv4) | 2:22 | 2024-01-24 | 2024-02-02 |
 | [Ciapakwybujany](https://open.spotify.com/track/2PF5O4wQHtD9KpxNALuoBD) | [GM2L](https://open.spotify.com/artist/5a6bf006Dgf5kk2OxvpVYY), [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E), [Kazior](https://open.spotify.com/artist/3bSbo5ZCbrTle7S2q8nqf8), [Alberto](https://open.spotify.com/artist/79b4a4Bg30Y0RlO5de5jni), [OLEK](https://open.spotify.com/artist/4nRJJWVfbPAULHZl7VYVE8) | [GM2L Mixtape](https://open.spotify.com/album/6yL5hla6R4evgV5kiT9BJe) | 1:40 | 2023-11-27 | 2024-05-24 |
 | [Cichosza](https://open.spotify.com/track/3kjMeY6ZgOZYAFRiPHMqmS) | [Taco Hemingway](https://open.spotify.com/artist/7CJgLPEqiIRuneZSolpawQ), [Otsochodzi](https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB), [Zeppy Zep](https://open.spotify.com/artist/2hnyMG1DuXarlHFJDITc3n) | [1\-800\-OŚWIECENIE](https://open.spotify.com/album/2ItrzcwLrygr4I6wlZ3HGU) | 3:14 | 2023-09-25 | 2023-11-24 |
+| [Ciągle tutaj jestem \(diss na raka\)](https://open.spotify.com/track/0wvxzE8JEintqBBhaWVvoU) | [Bedoes 2115](https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74), [Maja Mecan](https://open.spotify.com/artist/2o92Q0VLN8KIMTm7Xj4Kbe), [Fundacja Cancer Fighters](https://open.spotify.com/artist/4uQMFJbG5e9wBn8CWasdmf) | [Ciągle tutaj jestem \(diss na raka\)](https://open.spotify.com/album/61ZsllmBRIiz5QO5Hp4nzj) | 2:45 | 2026-04-14 |  |
 | [Clown](https://open.spotify.com/track/3vur868mFUc4nMXpfvCDM7) | [Oliwka Brazil](https://open.spotify.com/artist/7HhC70MoKQYjd2lnF5Znhs), [WIKTOR](https://open.spotify.com/artist/41SecAZJsj3EFDiiO8FpXN) | [Oh My Gawd](https://open.spotify.com/album/09VBO00Nq8UBvPNB07XWJS) | 2:05 | 2024-11-28 | 2024-12-13 |
 | [co by się nie działo](https://open.spotify.com/track/0WTvAeSKmSE7SE73u40OLG) | [Kukon](https://open.spotify.com/artist/3U5Oag04Yl2WnvPULOlsMD), [@atutowy](https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a), [Phunk'ill](https://open.spotify.com/artist/6jSShb0II1n6RNMCmqBSSM) | [co by się nie działo](https://open.spotify.com/album/1KyewsVbz0uYBY4SMEu5Tt) | 3:19 | 2023-12-22 | 2024-01-25 |
 | [co ja wam zrobiłem?](https://open.spotify.com/track/6QuGHPcmE72o7dsnKRXrNw) | [CatchUp](https://open.spotify.com/artist/14M41VoNuxxvBXaigqZ9D9), [Hubert.](https://open.spotify.com/artist/7dlH4L7i8CtRUZMQDSuXqH), [Def Jam World Tour](https://open.spotify.com/artist/1PFMCqDezh9wVkmmWZlv16) | [co ja wam zrobiłem?](https://open.spotify.com/album/2rCRBXHobv53bIL0sl9fTj) | 2:40 | 2024-06-13 | 2024-06-21 |

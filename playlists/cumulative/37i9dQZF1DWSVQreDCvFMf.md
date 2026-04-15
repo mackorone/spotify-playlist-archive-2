@@ -4,7 +4,7 @@
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: rhodessa
 
-855 songs - 2 day 4 hr 58 min
+856 songs - 2 day 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,7 +213,7 @@
 | [Foolish](https://open.spotify.com/track/6CBECmTOulQcPCw3ufGtNk) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [II: The second](https://open.spotify.com/album/5OWcchm5l2CZDOeJnL5oqw) | 3:44 | 2024-10-04 | 2025-02-01 |
 | [FOOLISHLY](https://open.spotify.com/track/7Ei0sWKIjUA1Q5DlWAlhab) | [Lucas Miguel](https://open.spotify.com/artist/0iXMbg56YghBO3Fx2dZFwA), [Athena Gail](https://open.spotify.com/artist/7B2olqCA3cYn1IrKE13V5F) | [FOOLISHLY](https://open.spotify.com/album/7IawnKqyCJY4JXRp7PcQ0E) | 3:12 | 2024-07-02 | 2024-07-09 |
 | [For You](https://open.spotify.com/track/6QzlxzQXbXsdzfprUKULTy) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [For You](https://open.spotify.com/album/0OtaRZl2qPDKMGE3Ejbwiy) | 3:42 | 2025-11-14 | 2026-02-14 |
-| [Fresh](https://open.spotify.com/track/0XZzGczPj3tnI4pu9oURHv) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [Fresh](https://open.spotify.com/album/5yheeQ4CUdkQ6gLjC8K9dM) | 2:24 | 2026-02-24 |  |
+| [Fresh](https://open.spotify.com/track/0XZzGczPj3tnI4pu9oURHv) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [Fresh](https://open.spotify.com/album/5yheeQ4CUdkQ6gLjC8K9dM) | 2:24 | 2026-02-24 | 2026-04-15 |
 | [Fruitcake \- From "Fruitcake"](https://open.spotify.com/track/6RMAZ62wCGBCoY7q86SkrH) | [Yeng Constantino](https://open.spotify.com/artist/0DnjaQqb436AH1idffI6CQ) | [Fruitcake \(From "Fruitcake"\)](https://open.spotify.com/album/2Eb8N686jvzJXWjtF4kOZY) | 4:41 | 2024-07-02 | 2024-08-15 |
 | [Funeral Song](https://open.spotify.com/track/6Dn7DyEV8MHnvLNl0ebuGQ) | [Wiji Kun](https://open.spotify.com/artist/1X3KbP5esRXH95jVlTi1R6) | [Funeral Song](https://open.spotify.com/album/5lp6ypJaSTA67bGFjKmFq8) | 2:59 | 2026-03-24 |  |
 | [Funny](https://open.spotify.com/track/5acDAc2d4h8VoUvFZDGlJA) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [Funny](https://open.spotify.com/album/3ojzpLZHuP3jVWOIZ92qPd) | 2:40 | 2025-03-21 | 2025-05-31 |
@@ -314,6 +314,7 @@
 | [Ina](https://open.spotify.com/track/6ul1GTDdV3hEyCg4NBFP3X) | [dia maté](https://open.spotify.com/artist/4UcpNyDTbuLdGygQNjuXfd), [Regine Velasquez](https://open.spotify.com/artist/3wNylAjJX1PiCpMKx8Lrfp) | [Ina](https://open.spotify.com/album/0MvjAQfH1OQyV8kFqdwXrF) | 3:13 | 2025-05-02 | 2025-07-13 |
 | [Insomnia](https://open.spotify.com/track/09JLlQH8ZeqalIPmjP3BcX) | [Harana Sessions](https://open.spotify.com/artist/2WxvqNkysK74Z4HCXsvtMb) | [Insomnia](https://open.spotify.com/album/5cfsic3zailYtWo7J7xfKP) | 4:13 | 2026-01-19 | 2026-03-07 |
 | [Internet](https://open.spotify.com/track/2LAXvVPg2vvpz9Pem8DCpm) | [Chezka](https://open.spotify.com/artist/09aWOipSJalkgLg7vOOUlY) | [Internet](https://open.spotify.com/album/4azVeonW08hNKms8iIV2K6) | 3:33 | 2025-04-07 | 2025-06-21 |
+| [Ipaalam Sana](https://open.spotify.com/track/76UGTkNqk1DfNn889CORwv) | [Yudino](https://open.spotify.com/artist/48Nnq14bV6DdMvkYPuw7Z5), [Eryck Paolo Sarsale](https://open.spotify.com/artist/3mr564MmezbPqUbgDaZS1n) | [Lover Boy](https://open.spotify.com/album/6LGIL15YplCmZ9EAwWZgsy) | 3:30 | 2026-04-14 |  |
 | [ipakita](https://open.spotify.com/track/0IvHzwPRXSGdz5CKUdcZq2) | [Seann Jefferson](https://open.spotify.com/artist/2fIVnGgJl8DOt3tnOAQ2dv) | [ipakita](https://open.spotify.com/album/0exGrmWQrRlG1c6xzo1ABJ) | 1:29 | 2026-03-27 |  |
 | [Isa Dalawa Tatlo](https://open.spotify.com/track/62SdZXo2n3AmOLn648P9A9) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Isa Dalawa Tatlo](https://open.spotify.com/album/73WP1jO9F9KtKRo0nt6Fmv) | 4:36 | 2024-08-16 | 2024-11-23 |
 | [Isang Linggong Maghihintay](https://open.spotify.com/track/2Wsd2xDZCL1Ng6MUwQMuVK) | [SUYEN](https://open.spotify.com/artist/2k0vf45LoEKtyGiGnyJ4Vv) | [Suyen Imnida](https://open.spotify.com/album/4kxnCX8C9V6A5Xptnlq9oA) | 3:26 | 2025-02-14 | 2025-05-03 |
@@ -747,7 +748,7 @@
 | [Sweater](https://open.spotify.com/track/00zym4gip0T3BaJTRYdimU) | [OZO](https://open.spotify.com/artist/2BlMyti7MTSjjlD51fHHVI) | [Sweater](https://open.spotify.com/album/6ucXmTxvLp3pJrEiOJcRfW) | 3:54 | 2026-02-13 | 2026-03-28 |
 | [sweet nothings](https://open.spotify.com/track/5aC91iyzOTL31zeZOHsmip) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [Jay R](https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU) | [Sweet Nothings \(Chapter 2\)](https://open.spotify.com/album/6JrI2T7Lx9OJn6DXnu19Bj) | 2:39 | 2024-11-08 | 2025-02-13 |
 | [Sweet Tooth](https://open.spotify.com/track/4255eE0aWSyfbIWTpIE1qu) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [FLAMES](https://open.spotify.com/album/42s2X3WQppxdHafUT2dfmF) | 3:00 | 2025-11-21 | 2026-02-14 |
-| [Swimming In The Clouds](https://open.spotify.com/track/0n9wOJzo8MdwKm5YSVadhc) | [Elise Huang](https://open.spotify.com/artist/7BpTHJjMVI0B2WFeO2UYTi), [barb.](https://open.spotify.com/artist/3c97nGqpNhVKMhxn8zEB33), [SDL](https://open.spotify.com/artist/3aghYkU7oOHZ23J2Jtndee) | [Swimming In The Clouds](https://open.spotify.com/album/0u6FNmbgjNBEwYUgBqltDB) | 3:45 | 2026-02-20 |  |
+| [Swimming In The Clouds](https://open.spotify.com/track/0n9wOJzo8MdwKm5YSVadhc) | [Elise Huang](https://open.spotify.com/artist/7BpTHJjMVI0B2WFeO2UYTi), [barb.](https://open.spotify.com/artist/3c97nGqpNhVKMhxn8zEB33), [SDL](https://open.spotify.com/artist/3aghYkU7oOHZ23J2Jtndee) | [Swimming In The Clouds](https://open.spotify.com/album/0u6FNmbgjNBEwYUgBqltDB) | 3:45 | 2026-02-20 | 2026-04-15 |
 | [Tagpi\-Tagping Piraso](https://open.spotify.com/track/2Wo8XWGAdfVKY0cArDMo8L) | [Ely Buendia](https://open.spotify.com/artist/5C8exBHLifsjZxzVErjRpn) | [Tagpi\-Tagping Piraso](https://open.spotify.com/album/1sZHJjzmRCPByEp5LvqOqq) | 4:46 | 2024-10-18 | 2025-02-01 |
 | [tagu\-taguan](https://open.spotify.com/track/78UWl5vV3wZfqf51wthR4N) | [koreen](https://open.spotify.com/artist/7MNdmQhP0mLlgttXasvEH6), [geo](https://open.spotify.com/artist/10TUKjKSF9Rb4xwr4BlNBd) | [tagu\-taguan](https://open.spotify.com/album/5KTMxMNgHiWd0ewTvqbQ6x) | 3:40 | 2025-11-10 | 2026-02-03 |
 | [Tahan](https://open.spotify.com/track/4BB6XuY1lffZ3GAyuWBxi3) | [Carl Timbol](https://open.spotify.com/artist/7bvY7fKd6sKUgjSShq0Hit) | [Tahan](https://open.spotify.com/album/1FTEp49B0gEvv3dNvS73pk) | 5:02 | 2025-11-21 | 2026-02-21 |

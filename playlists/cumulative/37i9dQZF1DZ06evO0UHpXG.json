@@ -405,6 +405,24 @@
     },
     {
       "album": {
+        "name": "Orgasmatron",
+        "url": "https://open.spotify.com/album/4bVbdsl3q1Bnsn6Eq8MKJI"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217226,
+      "name": "Doctor Rock",
+      "url": "https://open.spotify.com/track/0kdjChnb1cz1EM5Xq1Ducl"
+    },
+    {
+      "album": {
         "name": "The L\u00f6st Tapes, Vol. 5",
         "url": "https://open.spotify.com/album/1TGHTdiR7QolfRrIzjzY6Z"
       },
@@ -2216,7 +2234,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 186013,
       "name": "Thunder & Lightning",
       "url": "https://open.spotify.com/track/6qcdpwb8HuELdtekAB4v4c"

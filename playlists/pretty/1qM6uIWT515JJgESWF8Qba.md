@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 403 likes - 75 songs - 4 hr 47 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 403 likes - 76 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,5 +83,6 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 | 73 | [Boy Racer](https://open.spotify.com/track/3mjmoDsMcRZXIKGNYVDkQJ) | [Lost in Lilacs](https://open.spotify.com/artist/3yeEX4ZL3lpbKEe1hj2GtJ) | [Radiobed](https://open.spotify.com/album/0Q0KaneUvsWOisNrcsDnxO) | 3:28 |
 | 74 | [Thelusion](https://open.spotify.com/track/00Qc32eVkJxr4HNLZkGN3x) | [FRF2](https://open.spotify.com/artist/6WD8ugMWHBwTSI2HaNyL7A) | [The album](https://open.spotify.com/album/4L6CXU0lV05T253fNW8UJH) | 1:48 |
 | 75 | [Seven](https://open.spotify.com/track/7tdZEErExaYhQI2Oa3cqWg) | [On\-Off](https://open.spotify.com/artist/3Qb1E9hm1R0In79aIumUsR) | [Ribcrasher](https://open.spotify.com/album/1p1VeLJoQlDKiK1X90QCHK) | 3:50 |
+| 76 | [Never Gonna Make You Mine](https://open.spotify.com/track/1SUOjtXdd7WtFlzuQlYo60) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [Never Gonna Make You Mine](https://open.spotify.com/album/3hitAWfJNEBSrzYWm2CGrz) | 3:02 |
 
-Snapshot ID: `AAABfEtn2SJ9fg6hEkVehyuFhL7AI96M`
+Snapshot ID: `AAABfc9T0kxlkli5oo6LU+k/+pgyq6WT`

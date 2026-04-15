@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 
 ### [포근 편안 폭신 \(Cozy K\-Pop\)](https://open.spotify.com/playlist/37i9dQZF1DWSvk1AxYsbvo)
 
-> 이불 안 속처럼 포근하고 편안한 음악들과 함께 폭신한 기분을 만끽하세요\. \(Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable.\)
+> 🐹햄찌와 함께 이불 안 속처럼 포근하고 편안한 음악들과 함께 폭신한 기분을 만끽하세요\. \(Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable with Haemjji.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,028 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,031 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 | 49 | [A Walk \(The Last 10 Years X J\_ust\)](https://open.spotify.com/track/1jSNAa9R1LBiMeAp4uYVdU) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [A Walk \(The Last 10 Years X J\_ust\)](https://open.spotify.com/album/4KTwQFF9zCEAa4KXzVM0Iv) | 3:23 |
 | 50 | [Softly](https://open.spotify.com/track/10wby8iW3J6A6z1XY1gfVh) | [Oh Si Young](https://open.spotify.com/artist/0l5rg9dt1t4L9MZWfm8bTI) | [Softly](https://open.spotify.com/album/7frWMgaysfdDFE6LcQH3ax) | 3:25 |
 
-Snapshot ID: `AAAAACekhmEiB+5fBLivBcoeLH7YWc6W`
+Snapshot ID: `AAAAAGhobkCQ9u1SirRynKEusrBt4c0Y`

@@ -1,12 +1,12 @@
 {
   "description": "This is Wale. The essential tracks, all in one playlist.",
-  "num_followers": 40256,
+  "num_followers": 40263,
   "original_name": "This Is Wale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adrggAAAAACSnpalC7tOjq2/PTjb9ud0",
+  "snapshot_id": "adwyAAAAAAA1FAeGErexSfjW/or80fwz",
   "tracks": [
     {
       "added_at": null,
@@ -607,6 +607,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sex, Love & Pain II",
+        "url": "https://open.spotify.com/album/58WvlSmvoKkrvUuZHw322D"
+      },
+      "artists": [
+        {
+          "name": "Tank",
+          "url": "https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 245986,
+      "name": "You Don't Know (feat. Wale)",
+      "url": "https://open.spotify.com/track/3mSkzP4ud5KG26OIVIAL3s"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Furious 7: Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/7hTMaPfK488vRcC1Ar4bOm"
       },
@@ -635,26 +655,6 @@
       "duration_ms": 211908,
       "name": "Ride Out",
       "url": "https://open.spotify.com/track/59PL9AwYjIrIpP04n9gmMR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sex, Love & Pain II",
-        "url": "https://open.spotify.com/album/58WvlSmvoKkrvUuZHw322D"
-      },
-      "artists": [
-        {
-          "name": "Tank",
-          "url": "https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 245986,
-      "name": "You Don't Know (feat. Wale)",
-      "url": "https://open.spotify.com/track/3mSkzP4ud5KG26OIVIAL3s"
     },
     {
       "added_at": null,
@@ -955,30 +955,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Never Visit Me (feat. Wale & Enny)",
-        "url": "https://open.spotify.com/album/5768qKkadOnArtFfrupjLe"
-      },
-      "artists": [
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        },
-        {
-          "name": "ENNY",
-          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "You Never Visit Me (feat. Wale & Enny)",
-      "url": "https://open.spotify.com/track/7qArEpkWxXwdh8nkfqcjIf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Album About Nothing",
         "url": "https://open.spotify.com/album/6aCr3UaB8lM9g6TtFB3qwd"
       },
@@ -1015,6 +991,30 @@
       "duration_ms": 206693,
       "name": "Stories In Motion (with Wale)",
       "url": "https://open.spotify.com/track/6gvhqnL1MUehL9g5mp1A0I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Never Visit Me (feat. Wale & Enny)",
+        "url": "https://open.spotify.com/album/5768qKkadOnArtFfrupjLe"
+      },
+      "artists": [
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        },
+        {
+          "name": "ENNY",
+          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "You Never Visit Me (feat. Wale & Enny)",
+      "url": "https://open.spotify.com/track/7qArEpkWxXwdh8nkfqcjIf"
     },
     {
       "added_at": null,

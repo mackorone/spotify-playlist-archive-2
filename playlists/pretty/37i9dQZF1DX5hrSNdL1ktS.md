@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 
 > Mi gusto, mi estilo mi flow, puro perreo Mexa, bebé 🍑 El Malilla y Luis R Conriquez en cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 488,075 likes - 69 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 488,172 likes - 69 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1909,6 +1909,32 @@
     },
     {
       "album": {
+        "name": "BULLY",
+        "url": "https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ye",
+          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
+        },
+        {
+          "name": "Andre Troutman",
+          "url": "https://open.spotify.com/artist/1EpaJyg2sMnPqKRsjjcG7R"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229152,
+      "name": "ALL THE LOVE (feat. Andre Troutman)",
+      "url": "https://open.spotify.com/track/2SjnvpedDUU0Ga69bxnoCa"
+    },
+    {
+      "album": {
         "name": "Black Panther The Album Music From And Inspired By",
         "url": "https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR"
       },
@@ -8506,7 +8532,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 166955,
       "name": "Cicada",
       "url": "https://open.spotify.com/track/2dvTutCISmanWOYdFMfqKo"
@@ -15697,6 +15723,24 @@
     },
     {
       "album": {
+        "name": "Vol.II",
+        "url": "https://open.spotify.com/album/3FqqIeynZXFBcyLS9FlWMo"
+      },
+      "artists": [
+        {
+          "name": "Angine de Poitrine",
+          "url": "https://open.spotify.com/artist/13NmOYYfvONNZ9mn2qn8P2"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391268,
+      "name": "Fabienk",
+      "url": "https://open.spotify.com/track/1KVkzkmFBx4A8bCma6ruKA"
+    },
+    {
+      "album": {
         "name": "SHOT CALLERS",
         "url": "https://open.spotify.com/album/6M05ADW4mz2x07jIpIzCXR"
       },
@@ -17038,7 +17082,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 102549,
       "name": "Friendzone:(",
       "url": "https://open.spotify.com/track/6A0MYQs8BhzqkGNL687WpS"
@@ -19884,7 +19928,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-13",
+      "date_removed": null,
       "duration_ms": 80097,
       "name": "hold me in your arms",
       "url": "https://open.spotify.com/track/3e4iMLD1QVefLYMtlSF63F"
@@ -20862,7 +20906,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 294260,
       "name": "Impostor Syndrome",
       "url": "https://open.spotify.com/track/33KU9huHP1Lv1UWWVkuTYd"
@@ -21620,6 +21664,24 @@
       "duration_ms": 259346,
       "name": "Juntos",
       "url": "https://open.spotify.com/track/6LPyhPTpHlmkK4SdAOi3rt"
+    },
+    {
+      "album": {
+        "name": "Just The Way You Are",
+        "url": "https://open.spotify.com/album/1fN8LTM10sYFZl5BCzIPlj"
+      },
+      "artists": [
+        {
+          "name": "Milky",
+          "url": "https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210070,
+      "name": "Just The Way You Are",
+      "url": "https://open.spotify.com/track/7K3Lc3TfSR14aTOjIH7TUj"
     },
     {
       "album": {
@@ -25310,7 +25372,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 150812,
       "name": "Machista",
       "url": "https://open.spotify.com/track/2jJ5gHhgrCiKlZJamIB9mY"
@@ -27859,6 +27921,24 @@
     },
     {
       "album": {
+        "name": "Mix Amor Sincero",
+        "url": "https://open.spotify.com/album/4rnqnkfQfvUnNOl4p7a6tY"
+      },
+      "artists": [
+        {
+          "name": "Grupo Amor Rebelde",
+          "url": "https://open.spotify.com/artist/7o87YDHbNRlbpGoZXiKwF2"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315151,
+      "name": "Mix Amor Sincero",
+      "url": "https://open.spotify.com/track/0CVPO9XzMCCyfdXZqF4rqB"
+    },
+    {
+      "album": {
         "name": "Mix Cazzu (Live)",
         "url": "https://open.spotify.com/album/7vZA6vClGQWX7iU8gHfGoA"
       },
@@ -28310,7 +28390,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 87093,
       "name": "MONTAGEM DOMER - Super Slowed",
       "url": "https://open.spotify.com/track/2h4amIvI8Qi2k7IFK3igKZ"
@@ -30887,6 +30967,24 @@
     },
     {
       "album": {
+        "name": "No Me Rompiste, Me Despertaste",
+        "url": "https://open.spotify.com/album/7HsfV6nExVbn4Z6FJmHYiF"
+      },
+      "artists": [
+        {
+          "name": "Vidal Labadie",
+          "url": "https://open.spotify.com/artist/0KAfjG5Q3nHDkByHw9qSyL"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206657,
+      "name": "No Me Rompiste, Me Despertaste",
+      "url": "https://open.spotify.com/track/1yfhVvyF6pOoLWS5Qr6kVp"
+    },
+    {
+      "album": {
         "name": "no me siento mejor",
         "url": "https://open.spotify.com/album/30uVuRFF7OVs5oLz1awRmr"
       },
@@ -32570,6 +32668,24 @@
       "duration_ms": 244684,
       "name": "One Of The Girls (with JENNIE, Lily Rose Depp)",
       "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
+    },
+    {
+      "album": {
+        "name": "one of the girlz (Remastered)",
+        "url": "https://open.spotify.com/album/210DRFTES1Mm4oNwOItQnx"
+      },
+      "artists": [
+        {
+          "name": "1717177x",
+          "url": "https://open.spotify.com/artist/5uIvZ6y0SpfMHObdzv5FMp"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141589,
+      "name": "one of the girlz - Remastered",
+      "url": "https://open.spotify.com/track/5osBOAKiBt8Fr8YDZM1lN7"
     },
     {
       "album": {
@@ -35485,6 +35601,28 @@
     },
     {
       "album": {
+        "name": "PUKA",
+        "url": "https://open.spotify.com/album/3zIIsWd4KE1JEfarZTqxgK"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3n",
+          "url": "https://open.spotify.com/artist/7Ch2UsDtVjVK5HEcYSW86Q"
+        },
+        {
+          "name": "Ragoitia",
+          "url": "https://open.spotify.com/artist/4ehY5KKdqR6U4Zds8hxbZy"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195491,
+      "name": "PUKA",
+      "url": "https://open.spotify.com/track/4qz6pUNPho7mKGnbvQqdsI"
+    },
+    {
+      "album": {
         "name": "Pump It Up",
         "url": "https://open.spotify.com/album/3D8C4a5lYbpEu5bPQmOpJj"
       },
@@ -36496,7 +36634,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 219743,
       "name": "Raindance (feat. Tems)",
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
@@ -43111,6 +43249,24 @@
     },
     {
       "album": {
+        "name": "TGLG",
+        "url": "https://open.spotify.com/album/3MYvpfMQHd6Xrd08K23IwR"
+      },
+      "artists": [
+        {
+          "name": "Eddy LaBusch",
+          "url": "https://open.spotify.com/artist/1Ay12sY2rIb9dpHJwBdZpE"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158532,
+      "name": "TGLG",
+      "url": "https://open.spotify.com/track/6bTX3SCrDCa6oO65e7tpew"
+    },
+    {
+      "album": {
         "name": "The Secret of Us (Deluxe)",
         "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
       },
@@ -43962,7 +44118,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 193763,
       "name": "Todo lo perd\u00ed por t\u00ed",
       "url": "https://open.spotify.com/track/4E3Qk4lLjIQ9NzwBINqoAG"
@@ -46682,7 +46838,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 133746,
       "name": "VELOCIDADE",
       "url": "https://open.spotify.com/track/3J8uUvHttFs8zlYxoiPVe3"
@@ -46956,7 +47112,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 155255,
       "name": "Vida Loca",
       "url": "https://open.spotify.com/track/5dNky6SuEfNBan5perlSGl"

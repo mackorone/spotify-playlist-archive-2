@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43v1NFXUzji.md) - [plain]
 
 > Latin music bangers for your gaming session! PEDRO SAMPAIO & El Bogueto on cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 612,102 likes - 149 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 612,088 likes - 149 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

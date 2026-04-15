@@ -1375,6 +1375,24 @@
     },
     {
       "album": {
+        "name": "Mr. Seal the Deal",
+        "url": "https://open.spotify.com/album/0onvZ8hmwRKN7NgwmHVuPH"
+      },
+      "artists": [
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270971,
+      "name": "Mr. Seal the Deal",
+      "url": "https://open.spotify.com/track/0HIIT1vaPTt5CuYZ74sonO"
+    },
+    {
+      "album": {
         "name": "Mr. Seal The Deal",
         "url": "https://open.spotify.com/album/4tMN3VLZRAUczIq3uuqFly"
       },
@@ -1386,7 +1404,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 275000,
       "name": "Mr. Seal The Deal",
       "url": "https://open.spotify.com/track/2IJX1dBzsM09wga4cpivNB"

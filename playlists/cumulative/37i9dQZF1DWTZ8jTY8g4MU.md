@@ -2,9 +2,9 @@
 
 ### [ شيلات](https://open.spotify.com/playlist/37i9dQZF1DWTZ8jTY8g4MU)
 
-> شيلات تشيل الليلة\. الغلاف: فهد بن فصلا
+> شيلات تشيل الليلة\. الغلاف: بندر بن عوير
 
-284 songs - 18 hr 56 min
+285 songs - 19 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Men Doon Ay Mogdmat](https://open.spotify.com/track/49Rug5MOJsNISOC8BH0dod) | [Hussain Moheb](https://open.spotify.com/artist/2LUDyDgFsYu4AlnUkBVRMk) | [Men Doon Ay Mogdmat](https://open.spotify.com/album/5rOfIU1MqxplPDBdKHcoFP) | 5:08 | 2024-01-11 | 2024-03-01 |
 | [Msahat Alahlam](https://open.spotify.com/track/0CpKjyK98dwLyDuZX68BxD) | [Saleh Alyami](https://open.spotify.com/artist/0EHQN1RzPBV4c1iPv8m5ln) | [Msahat Alahlam](https://open.spotify.com/album/0b3vh1sUThYMn2P21ZLGVQ) | 5:49 | 2023-02-22 | 2023-02-25 |
 | [Rianat Al Oud](https://open.spotify.com/track/6092GHYPCT7MH0x8YAlcjs) | [Nayaf Turke](https://open.spotify.com/artist/10NuRk2vnofrC6E9OBJ9CS) | [Rianat Al Oud](https://open.spotify.com/album/5Gyroft1reG87xqVZFt0Of) | 4:15 | 2026-02-27 |  |
+| [Samihini Samihini](https://open.spotify.com/track/41X6X6vPEpjRxhD5HXAcUP) | [Mohammed Bin Grman](https://open.spotify.com/artist/5uFWoNmwcCxpZSq3RToSGr) | [Samihini Samihini](https://open.spotify.com/album/4hXPRIQnVD3GZywC1T0gab) | 3:26 | 2026-04-14 |  |
 | [Sheila Sattar](https://open.spotify.com/track/3WIAH5gwrFhd4tJz0oyEZ9) | [Telfaz11](https://open.spotify.com/artist/5PVYhzRlwWI7OWgPBDDQkh), [Hussain Al Labeed](https://open.spotify.com/artist/57RLY6gST8c5vCtPygoHuy), [Abdulaziz Al Shehri](https://open.spotify.com/artist/6XbUXannvTDg5AzUWsal0t) | [Sattar](https://open.spotify.com/album/5zTkn4lFoPfW09RREtNxmr) | 1:39 | 2023-02-22 | 2023-09-02 |
 | [Taht Almatar](https://open.spotify.com/track/6BrH7iaWBkHlmuKfTulkC1) | [Hussain Al Labeed](https://open.spotify.com/artist/57RLY6gST8c5vCtPygoHuy), [Waleed Al Labeed](https://open.spotify.com/artist/54WeFgRgJGUZIWEYmcyUMf) | [Taht Almatar](https://open.spotify.com/album/4tcggWhIWquh4TLAk1IOnT) | 3:52 | 2023-02-22 | 2023-05-23 |
 | [Tik Tak](https://open.spotify.com/track/37Dij6t00vGWiebXZBqCtB) | [Ziyad Al Zahem](https://open.spotify.com/artist/6X48LcVZiaJrHUdyhikE08), [Mansour Al Wailey](https://open.spotify.com/artist/0Qij0wHzhhvpitpc9KzX6U) | [Tik Tak](https://open.spotify.com/album/57xSDIcbzJUCalSL79eOzX) | 3:38 | 2022-03-30 | 2023-06-21 |
@@ -99,7 +100,7 @@
 | [انا مستغرب](https://open.spotify.com/track/0SVGqnBaDrCMYhGfERHdBu) | [سلطان الفهادي](https://open.spotify.com/artist/2O4xS58wSf51BKELtixdQu), [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [انا مستغرب](https://open.spotify.com/album/7jkatJdfKoVj5MYrCkjfYf) | 5:00 | 2023-09-22 | 2024-01-12 |
 | [اوراق الشجر](https://open.spotify.com/track/5q68H8CXMuDxt0tMvnnsNr) | [علي الواهبي](https://open.spotify.com/artist/1qkjQSTleIzUxX95HhuKam) | [اوراق الشجر](https://open.spotify.com/album/2eAe4t7F5ymQhqcizQkIG0) | 4:39 | 2024-02-01 | 2025-07-03 |
 | [بارق الشوق](https://open.spotify.com/track/0ermAb1gqmoHaxfjRtUFDc) | [مبارك الدوسري](https://open.spotify.com/artist/6sS8udoTj5UxuMtzOr1811), [فهيد النتيفات](https://open.spotify.com/artist/0fjRkZ4dNUfcb2XkeB65sY) | [بارق الشوق](https://open.spotify.com/album/4b88AzxLfy4NYOxxIMJpWf) | 6:02 | 2025-09-25 |  |
-| [باقي ابيك](https://open.spotify.com/track/1MZM9mJrJxWzRq9pD8dSsG) | [منصور الوايلي](https://open.spotify.com/artist/6wgdTtjcI9FJnFJuJz70C4) | [باقي ابيك](https://open.spotify.com/album/1O9WaXxGcmMmooCWmmOqxL) | 3:56 | 2024-05-09 |  |
+| [باقي ابيك](https://open.spotify.com/track/1MZM9mJrJxWzRq9pD8dSsG) | [منصور الوايلي](https://open.spotify.com/artist/6wgdTtjcI9FJnFJuJz70C4) | [باقي ابيك](https://open.spotify.com/album/1O9WaXxGcmMmooCWmmOqxL) | 3:56 | 2024-05-09 | 2026-04-15 |
 | [باقي الغلا](https://open.spotify.com/track/0JzrYY9zALUisVjhr8OXqJ) | [عمر بن عضيب](https://open.spotify.com/artist/6iOYl5la4To9M54shaGsTe) | [باقي الغلا](https://open.spotify.com/album/4RAx9XITESieu85cWge64C) | 3:05 | 2024-02-01 | 2025-07-03 |
 | [بتروح عادي](https://open.spotify.com/track/2GxR28DVvyvL5VX6H45Wa0) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [بتروح عادي](https://open.spotify.com/album/4CFE56Ty8V8uTMwaEDQki7) | 3:16 | 2022-03-30 | 2022-11-02 |
 | [بتروح عادي](https://open.spotify.com/track/5EV02yzvrRIECmP67v53Do) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [بتروح عادي](https://open.spotify.com/album/4RPceVZW72FOh9mo7oXLPB) | 3:16 | 2022-08-31 | 2023-04-06 |

@@ -1,12 +1,12 @@
 {
   "description": "This is John Rutter. The essential tracks, all in one playlist.",
-  "num_followers": 4839,
+  "num_followers": 4840,
   "original_name": "This Is John Rutter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adrggAAAAADZjibhclQ80NRrcUiCM+mo",
+  "snapshot_id": "adwyAAAAAACETFwD2R3SuZnVG1OlbrsN",
   "tracks": [
     {
       "added_at": null,
@@ -479,6 +479,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rutter: The Gift of Life",
+        "url": "https://open.spotify.com/album/3V0GhcBuBbhGFAuSOEGM0E"
+      },
+      "artists": [
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        }
+      ],
+      "duration_ms": 379680,
+      "name": "The Gift of Life: No. 2, The Tree of Life",
+      "url": "https://open.spotify.com/track/0lQptRsY9U4asQGeIx8Nps"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rutter: Requiem & Magnificat",
         "url": "https://open.spotify.com/album/1pFZzH9NbzR5mI5gn3WmdW"
       },
@@ -507,30 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rutter: The Gift of Life",
-        "url": "https://open.spotify.com/album/3V0GhcBuBbhGFAuSOEGM0E"
-      },
-      "artists": [
-        {
-          "name": "John Rutter",
-          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
-        },
-        {
-          "name": "Royal Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
-        },
-        {
-          "name": "The Cambridge Singers",
-          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
-        }
-      ],
-      "duration_ms": 379680,
-      "name": "The Gift of Life: No. 2, The Tree of Life",
-      "url": "https://open.spotify.com/track/0lQptRsY9U4asQGeIx8Nps"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Be Thou My Vision: Sacred Music by John Rutter",
         "url": "https://open.spotify.com/album/32wnph2659J6VtOnw1eRUb"
       },
@@ -547,30 +547,6 @@
       "duration_ms": 93813,
       "name": "God Be in My Head",
       "url": "https://open.spotify.com/track/6zqkc655uSaFQ0yXLERvdN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Classical Tranquillity",
-        "url": "https://open.spotify.com/album/3sAUybSBp9LpmYL05RN5Vo"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "John Rutter",
-          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
-        },
-        {
-          "name": "Manchester Camerata",
-          "url": "https://open.spotify.com/artist/5sYNdMlE64V0PjSMIxnB8B"
-        }
-      ],
-      "duration_ms": 253920,
-      "name": "Semele, HWV 58: Where'er You Walk (Arr. for Oboe & Orchestra by John Rutter)",
-      "url": "https://open.spotify.com/track/2uCRmii1YTP4RFfxPOLsyn"
     },
     {
       "added_at": null,
@@ -595,6 +571,30 @@
       "duration_ms": 195293,
       "name": "Sicut cervus: I. Sicut cervus desiderat",
       "url": "https://open.spotify.com/track/0BA86RgqxxJD5832EGla8c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Classical Tranquillity",
+        "url": "https://open.spotify.com/album/3sAUybSBp9LpmYL05RN5Vo"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "Manchester Camerata",
+          "url": "https://open.spotify.com/artist/5sYNdMlE64V0PjSMIxnB8B"
+        }
+      ],
+      "duration_ms": 253920,
+      "name": "Semele, HWV 58: Where'er You Walk (Arr. for Oboe & Orchestra by John Rutter)",
+      "url": "https://open.spotify.com/track/2uCRmii1YTP4RFfxPOLsyn"
     },
     {
       "added_at": null,
@@ -735,26 +735,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blessing",
-        "url": "https://open.spotify.com/album/79lSyMEsDaVh0FAYVd3zaU"
+        "name": "Lighten Our Darkness: Music for the Close of Day",
+        "url": "https://open.spotify.com/album/6dALfMS0ArNVfD18UeE6Cq"
       },
       "artists": [
         {
+          "name": "Orlande de Lassus",
+          "url": "https://open.spotify.com/artist/66hSfMemmixjY58p7KcTV6"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        },
+        {
           "name": "John Rutter",
           "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
-        },
-        {
-          "name": "Catrin Finch",
-          "url": "https://open.spotify.com/artist/5YHCN15OUsjGAg1az5m818"
-        },
-        {
-          "name": "Sinfonia Cymru",
-          "url": "https://open.spotify.com/artist/4fjDHPOfJUzvIULX45w1ph"
         }
       ],
-      "duration_ms": 197080,
-      "name": "Suite Lyrique: 3. Aria",
-      "url": "https://open.spotify.com/track/3KRDwlKG15vjkDk7sah5HX"
+      "duration_ms": 191240,
+      "name": "Justorum animae",
+      "url": "https://open.spotify.com/track/34bsJRJiXgQ0wyvOA7vpQM"
     },
     {
       "added_at": null,
@@ -795,26 +795,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lighten Our Darkness: Music for the Close of Day",
-        "url": "https://open.spotify.com/album/6dALfMS0ArNVfD18UeE6Cq"
+        "name": "Blessing",
+        "url": "https://open.spotify.com/album/79lSyMEsDaVh0FAYVd3zaU"
       },
       "artists": [
         {
-          "name": "Orlande de Lassus",
-          "url": "https://open.spotify.com/artist/66hSfMemmixjY58p7KcTV6"
-        },
-        {
-          "name": "The Cambridge Singers",
-          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
-        },
-        {
           "name": "John Rutter",
           "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "Catrin Finch",
+          "url": "https://open.spotify.com/artist/5YHCN15OUsjGAg1az5m818"
+        },
+        {
+          "name": "Sinfonia Cymru",
+          "url": "https://open.spotify.com/artist/4fjDHPOfJUzvIULX45w1ph"
         }
       ],
-      "duration_ms": 191240,
-      "name": "Justorum animae",
-      "url": "https://open.spotify.com/track/34bsJRJiXgQ0wyvOA7vpQM"
+      "duration_ms": 197080,
+      "name": "Suite Lyrique: 3. Aria",
+      "url": "https://open.spotify.com/track/3KRDwlKG15vjkDk7sah5HX"
     },
     {
       "added_at": null,
@@ -907,6 +907,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Sacred Flame",
+        "url": "https://open.spotify.com/album/7ERL64qc8JB2ioimlmxGBb"
+      },
+      "artists": [
+        {
+          "name": "Orlande de Lassus",
+          "url": "https://open.spotify.com/artist/66hSfMemmixjY58p7KcTV6"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        },
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        }
+      ],
+      "duration_ms": 253546,
+      "name": "Ave Verum Corpus",
+      "url": "https://open.spotify.com/track/54Km2r1BT72dCtxDE8oBuE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Classical Tranquillity",
         "url": "https://open.spotify.com/album/3sAUybSBp9LpmYL05RN5Vo"
       },
@@ -931,13 +955,13 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Sacred Flame",
-        "url": "https://open.spotify.com/album/7ERL64qc8JB2ioimlmxGBb"
+        "name": "Lighten Our Darkness: Music for the Close of Day",
+        "url": "https://open.spotify.com/album/6dALfMS0ArNVfD18UeE6Cq"
       },
       "artists": [
         {
-          "name": "Orlande de Lassus",
-          "url": "https://open.spotify.com/artist/66hSfMemmixjY58p7KcTV6"
+          "name": "John Sheppard",
+          "url": "https://open.spotify.com/artist/3zjGl5F9O605l8da8H8Dhz"
         },
         {
           "name": "The Cambridge Singers",
@@ -948,9 +972,9 @@
           "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
         }
       ],
-      "duration_ms": 253546,
-      "name": "Ave Verum Corpus",
-      "url": "https://open.spotify.com/track/54Km2r1BT72dCtxDE8oBuE"
+      "duration_ms": 232866,
+      "name": "Libera nos, salva nos",
+      "url": "https://open.spotify.com/track/6WKCZ5tkvmu7Y0YaZnanI8"
     },
     {
       "added_at": null,
@@ -983,13 +1007,13 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lighten Our Darkness: Music for the Close of Day",
-        "url": "https://open.spotify.com/album/6dALfMS0ArNVfD18UeE6Cq"
+        "name": "The Sacred Flame",
+        "url": "https://open.spotify.com/album/7ERL64qc8JB2ioimlmxGBb"
       },
       "artists": [
         {
-          "name": "Thomas Tallis",
-          "url": "https://open.spotify.com/artist/1XmMnFJ9jhW4tI7bQuNYFG"
+          "name": "Anonymous",
+          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
         },
         {
           "name": "The Cambridge Singers",
@@ -1000,9 +1024,9 @@
           "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
         }
       ],
-      "duration_ms": 151280,
-      "name": "Te lucis ante terminum",
-      "url": "https://open.spotify.com/track/4AHGCDPvKwId8TTjOZluZo"
+      "duration_ms": 155306,
+      "name": "Crux fidelis",
+      "url": "https://open.spotify.com/track/2CnQOlh3axc0kAjsE5YHbS"
     },
     {
       "added_at": null,
@@ -1031,61 +1055,13 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Sacred Flame",
-        "url": "https://open.spotify.com/album/7ERL64qc8JB2ioimlmxGBb"
-      },
-      "artists": [
-        {
-          "name": "Anonymous",
-          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
-        },
-        {
-          "name": "The Cambridge Singers",
-          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
-        },
-        {
-          "name": "John Rutter",
-          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
-        }
-      ],
-      "duration_ms": 155306,
-      "name": "Crux fidelis",
-      "url": "https://open.spotify.com/track/2CnQOlh3axc0kAjsE5YHbS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Classical Tranquillity",
-        "url": "https://open.spotify.com/album/3sAUybSBp9LpmYL05RN5Vo"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "John Rutter",
-          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
-        },
-        {
-          "name": "Manchester Camerata",
-          "url": "https://open.spotify.com/artist/5sYNdMlE64V0PjSMIxnB8B"
-        }
-      ],
-      "duration_ms": 171800,
-      "name": "Notebook for Anna Magdalena Bach (1725): No. 25, Bist du bei mir, BWV 508 [Arr. for Orchestra by John Rutter]",
-      "url": "https://open.spotify.com/track/5QE5slIYX2GMTJW1fEfRRW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lighten Our Darkness: Music for the Close of Day",
         "url": "https://open.spotify.com/album/6dALfMS0ArNVfD18UeE6Cq"
       },
       "artists": [
         {
-          "name": "John Sheppard",
-          "url": "https://open.spotify.com/artist/3zjGl5F9O605l8da8H8Dhz"
+          "name": "Thomas Tallis",
+          "url": "https://open.spotify.com/artist/1XmMnFJ9jhW4tI7bQuNYFG"
         },
         {
           "name": "The Cambridge Singers",
@@ -1096,9 +1072,9 @@
           "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
         }
       ],
-      "duration_ms": 232866,
-      "name": "Libera nos, salva nos",
-      "url": "https://open.spotify.com/track/6WKCZ5tkvmu7Y0YaZnanI8"
+      "duration_ms": 151280,
+      "name": "Te lucis ante terminum",
+      "url": "https://open.spotify.com/track/4AHGCDPvKwId8TTjOZluZo"
     },
     {
       "added_at": null,
@@ -1147,6 +1123,30 @@
       "duration_ms": 216133,
       "name": "O vos omnes",
       "url": "https://open.spotify.com/track/4aTIhTWsdcmNyTDgGj7Y6E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Classical Tranquillity",
+        "url": "https://open.spotify.com/album/3sAUybSBp9LpmYL05RN5Vo"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "Manchester Camerata",
+          "url": "https://open.spotify.com/artist/5sYNdMlE64V0PjSMIxnB8B"
+        }
+      ],
+      "duration_ms": 171800,
+      "name": "Notebook for Anna Magdalena Bach (1725): No. 25, Bist du bei mir, BWV 508 [Arr. for Orchestra by John Rutter]",
+      "url": "https://open.spotify.com/track/5QE5slIYX2GMTJW1fEfRRW"
     },
     {
       "added_at": null,
@@ -1223,6 +1223,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Sacred Flame",
+        "url": "https://open.spotify.com/album/7ERL64qc8JB2ioimlmxGBb"
+      },
+      "artists": [
+        {
+          "name": "Anonymous",
+          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        },
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        }
+      ],
+      "duration_ms": 116093,
+      "name": "Jesu dulcis memoria",
+      "url": "https://open.spotify.com/track/2uBGuyW7hmrwZNNTMFFhDS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Faur\u00e9: Requiem & Other Sacred Music",
         "url": "https://open.spotify.com/album/3FxEvGKYi8BATuUqDU7zv7"
       },
@@ -1259,30 +1283,6 @@
       "duration_ms": 153520,
       "name": "Tantum ergo, Op. 65 No. 2",
       "url": "https://open.spotify.com/track/7kDrBMGLGAvipsuXfZ2lY5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Sacred Flame",
-        "url": "https://open.spotify.com/album/7ERL64qc8JB2ioimlmxGBb"
-      },
-      "artists": [
-        {
-          "name": "Anonymous",
-          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
-        },
-        {
-          "name": "The Cambridge Singers",
-          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
-        },
-        {
-          "name": "John Rutter",
-          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
-        }
-      ],
-      "duration_ms": 116093,
-      "name": "Jesu dulcis memoria",
-      "url": "https://open.spotify.com/track/2uBGuyW7hmrwZNNTMFFhDS"
     }
   ],
   "unique_name": "This Is John Rutter",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music from independent artists in the UK and Ireland. Cover: Bypass Music",
+  "description": "The best new music from independent artists in the UK and Ireland. Cover: Kanako Yamamoto",
   "name": "Fresh Finds UK & IE",
   "tracks": [
     {
@@ -1138,7 +1138,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 317613,
       "name": "5words",
       "url": "https://open.spotify.com/track/0zFd5FI1st50BrRV7LfrrY"
@@ -8536,7 +8536,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 181066,
       "name": "bubble",
       "url": "https://open.spotify.com/track/2C7DJ0kugpSfwBjSRr6Jw8"
@@ -10420,7 +10420,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 170400,
       "name": "chicken bagel",
       "url": "https://open.spotify.com/track/0nom9dC1E9W0N0zFPbk37O"
@@ -11340,7 +11340,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 165589,
       "name": "COME AROUND",
       "url": "https://open.spotify.com/track/4SfDucbeto0E9stxeZcDwy"
@@ -13242,6 +13242,24 @@
       "duration_ms": 200892,
       "name": "Daisy Chains",
       "url": "https://open.spotify.com/track/0pCUjjbww2787QjYwlaD7M"
+    },
+    {
+      "album": {
+        "name": "Dali (Reach Out)",
+        "url": "https://open.spotify.com/album/5kbD2HnWaU9kzHYiMuaQin"
+      },
+      "artists": [
+        {
+          "name": "Chiderah",
+          "url": "https://open.spotify.com/artist/51lUXxQwHhDVh60qJGeidd"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191246,
+      "name": "Dali (Reach Out)",
+      "url": "https://open.spotify.com/track/5QZ0brQWYd1pLejf3mPRlu"
     },
     {
       "album": {
@@ -18023,6 +18041,28 @@
     },
     {
       "album": {
+        "name": "excuse me for being evil / like that!",
+        "url": "https://open.spotify.com/album/181QAUL2KgjmNfV0VpyRVC"
+      },
+      "artists": [
+        {
+          "name": "Ineffekt",
+          "url": "https://open.spotify.com/artist/4gjrK1MHgJnPCESuzMtWXg"
+        },
+        {
+          "name": "Mance",
+          "url": "https://open.spotify.com/artist/3UnKQqaxkA0pwbCie625wn"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228107,
+      "name": "excuse me for being evil",
+      "url": "https://open.spotify.com/track/29S7mYNhDL2FLyrcgXfIbO"
+    },
+    {
+      "album": {
         "name": "Summer Tape 3",
         "url": "https://open.spotify.com/album/4kWYFsSZjX7R5WVqWWrisD"
       },
@@ -21145,6 +21185,24 @@
     },
     {
       "album": {
+        "name": "Funeral at a Pep Rally",
+        "url": "https://open.spotify.com/album/1F3t6wfKXSWzUXS6U58yPC"
+      },
+      "artists": [
+        {
+          "name": "Rowan Murphy",
+          "url": "https://open.spotify.com/artist/6K2u0V48kHEDTC8yagRHZW"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200760,
+      "name": "Funeral at a Pep Rally",
+      "url": "https://open.spotify.com/track/58mZi0RMHv44Y3xDIOaJZG"
+    },
+    {
+      "album": {
         "name": "Funny",
         "url": "https://open.spotify.com/album/0oKgOoozMKupmbqeJzhaqc"
       },
@@ -21326,7 +21384,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 193298,
       "name": "Gap Teeth",
       "url": "https://open.spotify.com/track/19ci4coG2VYPGpS68eR1Ha"
@@ -22064,6 +22122,24 @@
       "duration_ms": 183000,
       "name": "Girls Need Love",
       "url": "https://open.spotify.com/track/7DgMFtXc3mISF4XiKGJTtK"
+    },
+    {
+      "album": {
+        "name": "Give Back to Her",
+        "url": "https://open.spotify.com/album/029CpbIr9PmSzx4gk3tY9Y"
+      },
+      "artists": [
+        {
+          "name": "MADELEINE",
+          "url": "https://open.spotify.com/artist/6MOSscAqWtCilwmEt4b5vm"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317109,
+      "name": "Give Back to Her",
+      "url": "https://open.spotify.com/track/6ypMOS6o7KVHPayaIrbsCw"
     },
     {
       "album": {
@@ -27357,6 +27433,24 @@
     },
     {
       "album": {
+        "name": "I Can't Be Your Guy",
+        "url": "https://open.spotify.com/album/1Mojq5PETqmGpbzm635j0w"
+      },
+      "artists": [
+        {
+          "name": "Maehem99",
+          "url": "https://open.spotify.com/artist/5BHVQSjFU5NuIP1rRU7tDY"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133457,
+      "name": "I Can't Be Your Guy",
+      "url": "https://open.spotify.com/track/2Xe3A7XPbIS6cgk3IwibAA"
+    },
+    {
+      "album": {
         "name": "I Can't Hate You",
         "url": "https://open.spotify.com/album/4wpyyjoawcHlDbNXikKef7"
       },
@@ -32044,6 +32138,28 @@
       "duration_ms": 155716,
       "name": "JUNI",
       "url": "https://open.spotify.com/track/4oEohO4fJMvAhcRmoGJ0zM"
+    },
+    {
+      "album": {
+        "name": "Just",
+        "url": "https://open.spotify.com/album/7gbAWb22OT8VotyMzYpFjO"
+      },
+      "artists": [
+        {
+          "name": "Max Winter",
+          "url": "https://open.spotify.com/artist/2FFtfqQnru4p3XGHYIfJ1A"
+        },
+        {
+          "name": "Tony Bontana",
+          "url": "https://open.spotify.com/artist/65KD0ITHfxE6ix28iRAZdl"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "Just",
+      "url": "https://open.spotify.com/track/0A2e8STVNFky2l228Pct1J"
     },
     {
       "album": {
@@ -52280,7 +52396,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 177915,
       "name": "Siren Song",
       "url": "https://open.spotify.com/track/5paAVu6xnigUiRzIGNNEWN"

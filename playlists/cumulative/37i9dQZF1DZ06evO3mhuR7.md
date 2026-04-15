@@ -4,7 +4,7 @@
 
 > This is The Orb\. The essential tracks, all in one playlist.
 
-179 songs - 20 hr 36 min
+180 songs - 20 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Captain Korma](https://open.spotify.com/track/07DJhUuoGtBBYatH78k9kO) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Orboretum: The Orb Collection](https://open.spotify.com/album/7tIEBx66gffGNBatufr1jZ) | 5:18 | 2025-02-16 | 2025-03-01 |
 | [Captain Korma](https://open.spotify.com/track/1OH8yc7uDg4pz8CINxrpVz) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Orboretum: The Orb Collection](https://open.spotify.com/album/194FGE9Sv4NPR3PhV5qE4f) | 5:18 | 2024-11-15 | 2024-11-22 |
 | [Centre of the Triangle](https://open.spotify.com/track/4prpxysBAaFArGqhqTg0Rc) | [Chocolate Hills](https://open.spotify.com/artist/0dDss5kJJRHOoLVjnJPXWF), [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Yarns from the Chocolate Triangle](https://open.spotify.com/album/5sUcXUKA5wS4YWL6IJ61Kv) | 4:35 | 2023-06-18 | 2026-01-30 |
-| [Close Encounters](https://open.spotify.com/track/1aeZX0loVCwqh1x9k7SpVw) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [U.F.Orb](https://open.spotify.com/album/43IjwHiCTNByxDGZFpZ4Sb) | 10:27 | 2022-05-29 |  |
+| [Close Encounters](https://open.spotify.com/track/1aeZX0loVCwqh1x9k7SpVw) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [U.F.Orb](https://open.spotify.com/album/43IjwHiCTNByxDGZFpZ4Sb) | 10:27 | 2022-05-29 | 2026-04-15 |
+| [Close Encounters](https://open.spotify.com/track/01e9vOxxbGE396iabjwXIp) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [U.F.Orb](https://open.spotify.com/album/2Kn0WVtKYv7bcE3EYk3wRA) | 10:27 | 2026-04-15 |  |
 | [Compass I Fell in Love](https://open.spotify.com/track/6LTwNUukpNh8cDJQ26QnGZ) | [Chocolate Hills](https://open.spotify.com/artist/0dDss5kJJRHOoLVjnJPXWF), [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Yarns from the Chocolate Triangle](https://open.spotify.com/album/5sUcXUKA5wS4YWL6IJ61Kv) | 4:11 | 2023-06-18 | 2025-10-20 |
 | [Cracking Kraken](https://open.spotify.com/track/3A54uGQbcX3t2KNamtpXPP) | [Chocolate Hills](https://open.spotify.com/artist/0dDss5kJJRHOoLVjnJPXWF), [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Cracking Kraken](https://open.spotify.com/album/08trvlLPSmKliNZQpWYixq) | 3:10 | 2023-04-13 | 2023-07-22 |
 | [Cracking Kraken](https://open.spotify.com/track/4Efodyxl4cArh5Pflk1LUX) | [Chocolate Hills](https://open.spotify.com/artist/0dDss5kJJRHOoLVjnJPXWF), [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Yarns from the Chocolate Triangle](https://open.spotify.com/album/5sUcXUKA5wS4YWL6IJ61Kv) | 3:10 | 2023-07-21 |  |

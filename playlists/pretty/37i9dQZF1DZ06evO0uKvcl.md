@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0uKvcl.md) - [plain]
 
 > This is Howlin' Wolf\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,175 likes - 49 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,178 likes - 49 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,13 +49,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0uKvcl.md) - [plain]
 | 39 | [I Smell A Rat](https://open.spotify.com/track/0DLtoMUpVzLRfGsxVX4Vfh) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Message To The Young](https://open.spotify.com/album/0GZWroLahIzKwjCDqxwdoJ) | 2:41 |
 | 40 | [Can't Stay Here](https://open.spotify.com/track/4jc0aen6yCOI0EEvyqDANp) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Back Door Wolf](https://open.spotify.com/album/4vh7IH7qY7ToZsSUeNseLt) | 2:34 |
 | 41 | [I've Been Abused \- Single Version](https://open.spotify.com/track/2QJA0Gsodidit6P7OnDl16) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Change My Way](https://open.spotify.com/album/3hiph4Eva4CueYfapJb312) | 2:14 |
-| 42 | [All My Life \- Live in Europe 1964 \- 2025 Remaster](https://open.spotify.com/track/1Cir0qnb0sdjzTtzisaGa3) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Live in Europe 1964 \(2025 Remaster\)](https://open.spotify.com/album/5KG3JmXjgdCM6d7YILye05) | 4:09 |
+| 42 | [I Didn't Mean to Hurt Your Feelings \- Live in Europe 1964 \- 2025 Remaster](https://open.spotify.com/track/5KJJ9nLPdplYLv7QQuXDe4) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Live in Europe 1964 \(2025 Remaster\)](https://open.spotify.com/album/5KG3JmXjgdCM6d7YILye05) | 5:34 |
 | 43 | [Color And Kind](https://open.spotify.com/track/0nHrMtXwO96IB1Bpasggv0) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Howlin' Wolf Greatest Songs](https://open.spotify.com/album/5C3fhao58c0U8b59cD0PX7) | 3:11 |
 | 44 | [California Blues](https://open.spotify.com/track/71o5zMXNmF539Ff2anKj8m) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Memphis Sessions](https://open.spotify.com/album/4SseCrDhnIn2ZbMhPV1A1n) | 2:58 |
 | 45 | [I Better Go Now \- Single Version](https://open.spotify.com/track/2YQclFbhN5AF54JZfZZM80) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Change My Way](https://open.spotify.com/album/3hiph4Eva4CueYfapJb312) | 2:42 |
-| 46 | [I Didn't Mean to Hurt Your Feelings \- Live in Europe 1964 \- 2025 Remaster](https://open.spotify.com/track/5KJJ9nLPdplYLv7QQuXDe4) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Live in Europe 1964 \(2025 Remaster\)](https://open.spotify.com/album/5KG3JmXjgdCM6d7YILye05) | 5:34 |
+| 46 | [All My Life \- Live in Europe 1964 \- 2025 Remaster](https://open.spotify.com/track/1Cir0qnb0sdjzTtzisaGa3) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Live in Europe 1964 \(2025 Remaster\)](https://open.spotify.com/album/5KG3JmXjgdCM6d7YILye05) | 4:09 |
 | 47 | [Wolf Is At Your Door](https://open.spotify.com/track/2UiNUUvCdmSJvy8ghyUehS) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Howlin' Wolf Greatest Songs](https://open.spotify.com/album/5C3fhao58c0U8b59cD0PX7) | 2:55 |
 | 48 | [Dust My Broom \- Live in Europe 1964 \- 2025 Remaster](https://open.spotify.com/track/4a0NdfY3aWOlZCB3nWz0vS) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Live in Europe 1964 \(2025 Remaster\)](https://open.spotify.com/album/5KG3JmXjgdCM6d7YILye05) | 5:02 |
 | 49 | [Love Me Darling \- Live in Europe 1964 \- 2025 Remaster](https://open.spotify.com/track/2RmWAVjMZAJ87jnTEjYQkN) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Live in Europe 1964 \(2025 Remaster\)](https://open.spotify.com/album/5KG3JmXjgdCM6d7YILye05) | 6:28 |
 
-Snapshot ID: `adrggAAAAABVeqc8MQNulRs+rbkkTX21`
+Snapshot ID: `adwyAAAAAACmllYoZrcI5W/xl92TNptG`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Vana
 
-[Spotify](https://open.spotify.com/user/spotify) - 789,220 likes - 101 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 789,296 likes - 101 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 3 | [Who Will You Follow](https://open.spotify.com/track/1BDqFxvOeS9SWVnMTXPMx2) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Who Will You Follow](https://open.spotify.com/album/21kwp73XrMKnqCrI9MSzDR) | 3:55 |
 | 4 | [WHERE TO FIND ME \(feat\. NOVELISTS\)](https://open.spotify.com/track/2HGHd8ZuE3ORYOku9r02gt) | [Bilmuri](https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89), [NOVELISTS](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [WHERE TO FIND ME \(feat\. NOVELISTS\)](https://open.spotify.com/album/5tZbGGOy7EBdJ1ByOyO1Qf) | 2:45 |
 | 5 | [LOSE YOUR SELF](https://open.spotify.com/track/5suLEhSjprXsUQ5ofXJH8Q) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [Lose Your Self](https://open.spotify.com/album/2Vly71rEGqTH3yuuHRN25C) | 4:18 |
-| 6 | [MARTYR feat\. Rory Rodriguez of Dayseeker](https://open.spotify.com/track/7gFn57q2vegne6AJ8jJBIi) | [Ekoh](https://open.spotify.com/artist/5lC7N2Mm9i92KSfW4opawO), [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [MARTYR feat\. Rory Rodriguez of Dayseeker](https://open.spotify.com/album/7wvl8QqFrG1IDCUqrvoMEP) | 3:16 |
+| 6 | [MARTYR](https://open.spotify.com/track/7gFn57q2vegne6AJ8jJBIi) | [Ekoh](https://open.spotify.com/artist/5lC7N2Mm9i92KSfW4opawO), [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [MARTYR](https://open.spotify.com/album/7wvl8QqFrG1IDCUqrvoMEP) | 3:16 |
 | 7 | [Heaven Sent](https://open.spotify.com/track/0yxoIQvC6mnZZNSunirkVS) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [Heaven Sent](https://open.spotify.com/album/7b4C59FU0bTArX0RL7x0un) | 4:11 |
 | 8 | [Plague Of Flies](https://open.spotify.com/track/1MJQQB2rqgt3xixtzWH9OX) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [Plague Of Flies](https://open.spotify.com/album/1YNHAAvfs1YuHeSJAZaUQE) | 2:42 |
 | 9 | [Liminal Cypher](https://open.spotify.com/track/0dkjZCDqxSbARTF8F6Q3p8) | [Archspire](https://open.spotify.com/artist/7F9ZL4TJNr8AoU0UUQX8ih) | [Too Fast to Die](https://open.spotify.com/album/5N6SLQBIYy6dfWFp0r96yt) | 5:16 |

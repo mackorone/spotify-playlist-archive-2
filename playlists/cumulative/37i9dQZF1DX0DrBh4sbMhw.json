@@ -795,6 +795,24 @@
     },
     {
       "album": {
+        "name": "Blueberry Skies",
+        "url": "https://open.spotify.com/album/75El775pQjP9Mx13n1rl41"
+      },
+      "artists": [
+        {
+          "name": "CHIRAI",
+          "url": "https://open.spotify.com/artist/2p3FQ1wlwCWcCXQpUuxWTa"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206315,
+      "name": "Blueberry Skies",
+      "url": "https://open.spotify.com/track/3NCz117frOEZV6dSgVpop6"
+    },
+    {
+      "album": {
         "name": "Silakbo",
         "url": "https://open.spotify.com/album/2WOyuTsNHF90SryrS3kmIN"
       },
@@ -1250,7 +1268,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 180147,
       "name": "Die For Me",
       "url": "https://open.spotify.com/track/15tkKpcwBE3XJhaBdLPBKJ"
@@ -1668,7 +1686,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 169573,
       "name": "From The Start",
       "url": "https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ"
@@ -3208,7 +3226,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 176887,
       "name": "Love Letter",
       "url": "https://open.spotify.com/track/4QcFLrc1uns09taWo7yFsa"
@@ -3794,6 +3812,24 @@
       "duration_ms": 227298,
       "name": "Nahuhulog",
       "url": "https://open.spotify.com/track/0R6lC6F082eap1AJd8W54d"
+    },
+    {
+      "album": {
+        "name": "nananabik",
+        "url": "https://open.spotify.com/album/78HaiGq1MIsdl8MZGiYdVr"
+      },
+      "artists": [
+        {
+          "name": "rhodessa",
+          "url": "https://open.spotify.com/artist/0XRPxTyrrVeDXLt6Wxw4UD"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242280,
+      "name": "nananabik",
+      "url": "https://open.spotify.com/track/0Qo45W6C2QeMz6o4bJ1m9b"
     },
     {
       "album": {
@@ -5316,6 +5352,24 @@
       "duration_ms": 151647,
       "name": "Staying",
       "url": "https://open.spotify.com/track/3tcCT8WhAIeRW2Ey9M4bL5"
+    },
+    {
+      "album": {
+        "name": "Stranger's Funeral",
+        "url": "https://open.spotify.com/album/5n9BwlAdpF815L01sIed5l"
+      },
+      "artists": [
+        {
+          "name": "Chezka",
+          "url": "https://open.spotify.com/artist/09aWOipSJalkgLg7vOOUlY"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223416,
+      "name": "Stranger's Funeral",
+      "url": "https://open.spotify.com/track/0xsKzUbzpcqQ9kGLV1tZ16"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [Hot Hits UAE](https://open.spotify.com/playlist/37i9dQZF1DXcJUwMZo8Ss1)
 
-> The hottest tracks in the UAE\. Cover: Dave & Tems
+> The hottest tracks in the UAE\. Cover: Justin Bieber
 
 237 songs - 13 hr 14 min
 

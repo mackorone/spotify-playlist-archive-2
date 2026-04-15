@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7z7RLIui5KP.md) - [plain]
 
 > Proudly Kenyan gems made for the entire family\. Cover: Muthoni Drummer Queen & Blinky Bill
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,484 likes - 65 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,489 likes - 65 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

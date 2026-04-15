@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 
 > Γιορτάζοντας 5 Χρόνια EQUAL\. Εξώφυλλο: Andromache
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,336 likes - 49 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,340 likes - 49 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 | 13 | [JALLA](https://open.spotify.com/track/1h2xmg6pH7r5pr2prKmWGc) | [Antigoni](https://open.spotify.com/artist/1w3S0hfHSbOupc4EVLRGrW) | [JALLA](https://open.spotify.com/album/5ABeVo5OjIsxB83NedYhLx) | 2:59 |
 | 14 | [FEGGARI KI ASTRA](https://open.spotify.com/track/6p6ioIpt29wu15SvqY86mK) | [Billie Kark](https://open.spotify.com/artist/6hDmweft2NBTVSnCPJ5pMc) | [EREBOS](https://open.spotify.com/album/3yQIyTYDbdfaLfJeIF4UlT) | 3:53 |
 | 15 | [Sea Atalantis](https://open.spotify.com/track/1zJJtXe2n285fj7O5CrV3G) | [SKIADARESES](https://open.spotify.com/artist/3ZUI362BbNMdNjI3GiGMPo) | [Sea Atalantis](https://open.spotify.com/album/3gFS2OvynEM7DZVYbIsKGw) | 3:27 |
-| 16 | [Lonely Heart \- Hindi Version](https://open.spotify.com/track/4rRwjcFLQ2Ca6msHl2Lp3h) | [Klavdia](https://open.spotify.com/artist/4JRInaGyykK9dRIaymPxJq), [Salman Ali](https://open.spotify.com/artist/0ygVoSAqn4tgm4AgCuKQpF) | [Lonely Heart \(Hindi Version\)](https://open.spotify.com/album/3VxJ8GEQG1kRLorAutMhld) | 3:14 |
+| 16 | [Lonely Heart \(Hindi Version\)](https://open.spotify.com/track/4rRwjcFLQ2Ca6msHl2Lp3h) | [Klavdia](https://open.spotify.com/artist/4JRInaGyykK9dRIaymPxJq), [Salman Ali](https://open.spotify.com/artist/0ygVoSAqn4tgm4AgCuKQpF) | [Lonely Heart \(Hindi Version\)](https://open.spotify.com/album/3VxJ8GEQG1kRLorAutMhld) | 3:14 |
 | 17 | [Fylla Alkalika](https://open.spotify.com/track/1S3QfOcqAB6poDTSoPASRi) | [Ioulia Karapataki](https://open.spotify.com/artist/6I62lkqyy7npSxNWgjQtwG) | [I Kaseta Tis Ioulias Karapataki \(Oi Kasetes Tou Melodia\)](https://open.spotify.com/album/4sO8JN5NLOcTDYNV1terOG) | 3:58 |
 | 18 | [Paramilito Mou](https://open.spotify.com/track/1SDiWIh2IC0AXJuJwRcRzp) | [Eleni Tsaligopoulou](https://open.spotify.com/artist/3Gk7fuRSYuQWqXGhRGPsG4) | [I Kaseta Tis Elenis Tsaligopoulou \(Oi Kasetes Tou Melodia\)](https://open.spotify.com/album/6J2cwQrVzag5SOMdnEhxTt) | 4:15 |
 | 19 | [Me Gusta](https://open.spotify.com/track/4FKDGC1hp2ojXjgzf1oVG9) | [Natasha Kay](https://open.spotify.com/artist/6vmTc3lUmJaPI2CPPghlPk), [Fy](https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA), [BLVD](https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR) | [Me Gusta](https://open.spotify.com/album/2JW2g7KxgwI7udpgferDSM) | 3:00 |

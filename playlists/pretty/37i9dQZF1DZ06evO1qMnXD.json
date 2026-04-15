@@ -1,12 +1,12 @@
 {
   "description": "This is Mitski. The essential tracks, all in one playlist.",
-  "num_followers": 298330,
+  "num_followers": 298329,
   "original_name": "This Is Mitski",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adrggAAAAADXM8aaOn8WY9amD2zGL8/P",
+  "snapshot_id": "adwyAAAAAAAiw2eHfRkpwyTNPtPYIVK8",
   "tracks": [
     {
       "added_at": null,
@@ -411,6 +411,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mitski on Audiotree Live",
+        "url": "https://open.spotify.com/album/5lbEsVQlcvV5tT8KBllPdh"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        },
+        {
+          "name": "Audiotree",
+          "url": "https://open.spotify.com/artist/1j8QyWpOJKAe6Iw2KvEg2j"
+        }
+      ],
+      "duration_ms": 131530,
+      "name": "Class of 2013 - Audiotree Live Version",
+      "url": "https://open.spotify.com/track/76l5r75wE5kvPdDsksAr62"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Puberty 2",
         "url": "https://open.spotify.com/album/4Coa8Eb9SzjrkwWEom963Q"
       },
@@ -423,22 +443,6 @@
       "duration_ms": 109627,
       "name": "A Burning Hill",
       "url": "https://open.spotify.com/track/6gz3orrUlKresI8GShSkdq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Retired from Sad, New Career in Business",
-        "url": "https://open.spotify.com/album/7K4SuWzgUEweJScduBcC6f"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 109824,
-      "name": "Class of 2013",
-      "url": "https://open.spotify.com/track/39bPZbBmJfBgNJUtbOua0D"
     },
     {
       "added_at": null,
@@ -475,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Puberty 2",
-        "url": "https://open.spotify.com/album/4Coa8Eb9SzjrkwWEom963Q"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 92089,
-      "name": "A Loving Feeling",
-      "url": "https://open.spotify.com/track/5usQET86kxSpLdk7iCP1pw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bury Me At Makeout Creek",
         "url": "https://open.spotify.com/album/3I2KkX13lHXuYqfBjSOopo"
       },
@@ -503,6 +491,22 @@
       "duration_ms": 126746,
       "name": "Jobless Monday",
       "url": "https://open.spotify.com/track/3ngZf8e29zHlW4gNMQb6IR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Puberty 2",
+        "url": "https://open.spotify.com/album/4Coa8Eb9SzjrkwWEom963Q"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 92089,
+      "name": "A Loving Feeling",
+      "url": "https://open.spotify.com/track/5usQET86kxSpLdk7iCP1pw"
     },
     {
       "added_at": null,
@@ -539,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Land Is Inhospitable and So Are We",
-        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 145026,
-      "name": "I Don't Like My Mind",
-      "url": "https://open.spotify.com/track/1l0BBsLElenQWul8Fn8tT1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bury Me At Makeout Creek",
         "url": "https://open.spotify.com/album/3I2KkX13lHXuYqfBjSOopo"
       },
@@ -567,6 +555,22 @@
       "duration_ms": 174760,
       "name": "I Will",
       "url": "https://open.spotify.com/track/2yYP6zjOBqGKqI6s2lZyer"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Land Is Inhospitable and So Are We",
+        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 145026,
+      "name": "I Don't Like My Mind",
+      "url": "https://open.spotify.com/track/1l0BBsLElenQWul8Fn8tT1"
     },
     {
       "added_at": null,
@@ -603,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Land Is Inhospitable and So Are We",
-        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 224333,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/5T00EN4oZmDQx3hqVAC4Fx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cop Car",
         "url": "https://open.spotify.com/album/38W7WU8kz5SHqcNdx9ZtmC"
       },
@@ -631,6 +619,22 @@
       "duration_ms": 188672,
       "name": "Cop Car",
       "url": "https://open.spotify.com/track/76uPM2ijcGSNinnRQmWMJF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Land Is Inhospitable and So Are We",
+        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 224333,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/5T00EN4oZmDQx3hqVAC4Fx"
     },
     {
       "added_at": null,
@@ -667,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Land Is Inhospitable and So Are We",
-        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 168480,
-      "name": "The Frost",
-      "url": "https://open.spotify.com/track/41nIJErYY9goKvnCyG7ov6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Laurel Hell",
         "url": "https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22"
       },
@@ -695,6 +683,22 @@
       "duration_ms": 212660,
       "name": "Love Me More",
       "url": "https://open.spotify.com/track/4PUT0cH2iggaje5hTJZeGe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Land Is Inhospitable and So Are We",
+        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 168480,
+      "name": "The Frost",
+      "url": "https://open.spotify.com/track/41nIJErYY9goKvnCyG7ov6"
     },
     {
       "added_at": null,
@@ -715,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Land Is Inhospitable and So Are We",
-        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 104253,
-      "name": "When Memories Snow",
-      "url": "https://open.spotify.com/track/0QzJS1fQv5l0s1mqKTECRX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Laurel Hell",
         "url": "https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22"
       },
@@ -743,6 +731,22 @@
       "duration_ms": 158617,
       "name": "Working for the Knife",
       "url": "https://open.spotify.com/track/2ORVHijyYA8bAOCVaIbmdS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Land Is Inhospitable and So Are We",
+        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 104253,
+      "name": "When Memories Snow",
+      "url": "https://open.spotify.com/track/0QzJS1fQv5l0s1mqKTECRX"
     },
     {
       "added_at": null,

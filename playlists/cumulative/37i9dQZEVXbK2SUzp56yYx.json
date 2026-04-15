@@ -386,7 +386,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 169929,
       "name": "2.0",
       "url": "https://open.spotify.com/track/3bmpXHVie1GTy37OkXJ7Vc"
@@ -724,7 +724,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 115200,
       "name": "8 \u043c\u0438\u043b\u044f",
       "url": "https://open.spotify.com/track/67llqAFIyR6d6JMjDImDyU"
@@ -1080,6 +1080,32 @@
       "duration_ms": 161655,
       "name": "Alibi (with Pabllo Vittar & Yseult)",
       "url": "https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap"
+    },
+    {
+      "album": {
+        "name": "BULLY",
+        "url": "https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ye",
+          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
+        },
+        {
+          "name": "Andre Troutman",
+          "url": "https://open.spotify.com/artist/1EpaJyg2sMnPqKRsjjcG7R"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229152,
+      "name": "ALL THE LOVE (feat. Andre Troutman)",
+      "url": "https://open.spotify.com/track/2SjnvpedDUU0Ga69bxnoCa"
     },
     {
       "album": {
@@ -2189,6 +2215,24 @@
     },
     {
       "album": {
+        "name": "Bang Bang Bang",
+        "url": "https://open.spotify.com/album/76MTTyqZuE3z6Lq8qs82Rx"
+      },
+      "artists": [
+        {
+          "name": "BBpanzu",
+          "url": "https://open.spotify.com/artist/4h8eXe8mMUAVe2NthUKnek"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180451,
+      "name": "Bang Bang Bang",
+      "url": "https://open.spotify.com/track/5ohp4IjsJN51BbrjQrXpUr"
+    },
+    {
+      "album": {
         "name": "MADE",
         "url": "https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY"
       },
@@ -2468,7 +2512,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 113834,
       "name": "bedrott",
       "url": "https://open.spotify.com/track/3rhZUqbKiA1ILhjc1LptC5"
@@ -3094,7 +3138,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 189725,
       "name": "Body to Body",
       "url": "https://open.spotify.com/track/2rKkfc4VZ74FQDc1FF1Zo6"
@@ -4815,6 +4859,24 @@
     },
     {
       "album": {
+        "name": "CORTISOL",
+        "url": "https://open.spotify.com/album/1BVbcT3YbQTcSSGXJ3jTIg"
+      },
+      "artists": [
+        {
+          "name": "SALUKI",
+          "url": "https://open.spotify.com/artist/07tFgedhta5b5WaF0Yj4bH"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151181,
+      "name": "CORTISOL",
+      "url": "https://open.spotify.com/track/3oXAH2Us4uyqXggrwcolVH"
+    },
+    {
+      "album": {
         "name": "Sex & Violins",
         "url": "https://open.spotify.com/album/3MLXp4rTGt1USufyODvXuz"
       },
@@ -6424,7 +6486,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-14",
+      "date_removed": null,
       "duration_ms": 205308,
       "name": "Dracula",
       "url": "https://open.spotify.com/track/1NXbNEAcPvY5G1xvfN57aA"
@@ -8047,6 +8109,32 @@
     },
     {
       "album": {
+        "name": "BULLY",
+        "url": "https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ye",
+          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169330,
+      "name": "FATHER (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/5pfn68duSmBKo4FhYknOms"
+    },
+    {
+      "album": {
         "name": "favorite",
         "url": "https://open.spotify.com/album/6pngQ1BGnsddTXtAJQUkF7"
       },
@@ -9142,7 +9230,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 180543,
       "name": "FYA",
       "url": "https://open.spotify.com/track/0KmrKOdScRDVYwWS8hkkdv"
@@ -9664,7 +9752,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 193733,
       "name": "Go Away",
       "url": "https://open.spotify.com/track/1O9D7P7Z1wMJXW19zTXrXi"
@@ -12121,6 +12209,24 @@
     },
     {
       "album": {
+        "name": "ILD",
+        "url": "https://open.spotify.com/album/1NY16qF1mfUFV8PvuouaYr"
+      },
+      "artists": [
+        {
+          "name": "Clonnex",
+          "url": "https://open.spotify.com/artist/3NOlXM7t15vx8M9hwmQc9L"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116210,
+      "name": "ILD",
+      "url": "https://open.spotify.com/track/29sCWGAUrJ0PmOkwpQAnM1"
+    },
+    {
+      "album": {
         "name": "ILMB (feat. Travis Scott)",
         "url": "https://open.spotify.com/album/0OORiZ1arhRjbiSzNq9itT"
       },
@@ -14348,7 +14454,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 134071,
       "name": "Looping the Rooms",
       "url": "https://open.spotify.com/track/3XJCMkEWhd8xwHx6UGGa7C"
@@ -25303,6 +25409,24 @@
     },
     {
       "album": {
+        "name": "The One Who's Running the Show",
+        "url": "https://open.spotify.com/album/3QUo9uBdC8zyHPsk02Yf7B"
+      },
+      "artists": [
+        {
+          "name": "Gooseworx",
+          "url": "https://open.spotify.com/artist/4I31Oaf4lpU501IMCuEHTt"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133800,
+      "name": "The One Who's Running the Show",
+      "url": "https://open.spotify.com/track/1Qmmte3WKo1HgQDmDISvNc"
+    },
+    {
+      "album": {
         "name": "The Spark",
         "url": "https://open.spotify.com/album/6xNvkXuK0QL7vr9wEsCREW"
       },
@@ -27420,7 +27544,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 245813,
       "name": "VYZEE - Slowed",
       "url": "https://open.spotify.com/track/5ynx89QmObdcIZsLbtfC6Z"
@@ -27518,6 +27642,24 @@
       "duration_ms": 87818,
       "name": "warm welcome",
       "url": "https://open.spotify.com/track/1I6way4zg9vYNcR3VHkMSO"
+    },
+    {
+      "album": {
+        "name": "Wassup",
+        "url": "https://open.spotify.com/album/22xNAiqKYIej7DiGtSqYes"
+      },
+      "artists": [
+        {
+          "name": "Radik",
+          "url": "https://open.spotify.com/artist/5vJZWyxdjPl1FjVHTR5zkm"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137624,
+      "name": "Wassup",
+      "url": "https://open.spotify.com/track/7iMtPBbxioQGmuAXlzi7FO"
     },
     {
       "album": {
@@ -33611,6 +33753,24 @@
     },
     {
       "album": {
+        "name": "\u0422\u0440\u0430\u043d\u0441",
+        "url": "https://open.spotify.com/album/12zUXfpt4itaTDJ2AEqMBk"
+      },
+      "artists": [
+        {
+          "name": "Luna",
+          "url": "https://open.spotify.com/artist/4sTO5nmBIlTF35aTnt6U7n"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245000,
+      "name": "\u0414\u0435\u043b\u044c\u0444\u0438\u043d\u044b",
+      "url": "https://open.spotify.com/track/0S2BwV8XCMhrlL5adcFa87"
+    },
+    {
+      "album": {
         "name": "\u0414\u0435\u043c\u043e\u043d\u044b",
         "url": "https://open.spotify.com/album/3y1SzLAtZ8TnLsoks9bZBP"
       },
@@ -37440,6 +37600,24 @@
       "duration_ms": 140168,
       "name": "\u041c\u0430\u0448\u0438\u043d\u0430 \u0432\u0440\u0435\u043c\u0435\u043d\u0438",
       "url": "https://open.spotify.com/track/5RPHhu2CyStXFgRhvFYcJ5"
+    },
+    {
+      "album": {
+        "name": "\u0425\u043e\u0440\u043e\u0432\u043e\u0434",
+        "url": "https://open.spotify.com/album/4kzcd1vE8UgTAmv5c7BxXL"
+      },
+      "artists": [
+        {
+          "name": "\u0411\u043e\u043d\u0434 \u0441 \u043a\u043d\u043e\u043f\u043a\u043e\u0439",
+          "url": "https://open.spotify.com/artist/2JrtkA0Z0JxBfEmxL25cP6"
+        }
+      ],
+      "date_added": "2026-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189473,
+      "name": "\u041c\u0430\u044f\u043a\u0438 2.0",
+      "url": "https://open.spotify.com/track/2GJI3OQ7b51CnF3AXUz0LD"
     },
     {
       "album": {
@@ -46968,7 +47146,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 146202,
       "name": "\u0424\u0440\u0430\u0435\u0440\u0430",
       "url": "https://open.spotify.com/track/2METYjQOQ2PsI3iSwNU2ey"
@@ -47316,7 +47494,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-15",
       "duration_ms": 98048,
       "name": "\u0425\u043e\u0447\u0443 \u0431\u044b\u0442\u044c \u043a\u0430\u043a \u0413\u0430\u0437\u0430\u043d",
       "url": "https://open.spotify.com/track/2ZitqM9FXFrpo5JU486llG"

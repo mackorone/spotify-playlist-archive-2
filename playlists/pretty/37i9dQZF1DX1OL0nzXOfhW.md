@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OL0nzXOfhW.md) - [plain]
 
 ### [RADAR HK](https://open.spotify.com/playlist/37i9dQZF1DX1OL0nzXOfhW)
 
-> 2026 RADAR登場！持續發掘香港未來新聲！Cover: CONSTANCE
+> 2026 RADAR登場！持續發掘香港未來新聲！Cover: inablankat
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,727 likes - 38 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,736 likes - 38 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OL0nzXOfhW.md) - [plain]
 | 37 | [sweetcut](https://open.spotify.com/track/2BOdz9vtarbYxpuSmsmvDc) | [inablankat](https://open.spotify.com/artist/70mPT0gHw71WYtG8ozj590) | [sweetcut / nahnah](https://open.spotify.com/album/6LvYGRsgwRbtR1ZEAiupJ8) | 3:33 |
 | 38 | [nahnah](https://open.spotify.com/track/65kMPWR0eQ2EZJUkhEd4if) | [inablankat](https://open.spotify.com/artist/70mPT0gHw71WYtG8ozj590) | [sweetcut / nahnah](https://open.spotify.com/album/6LvYGRsgwRbtR1ZEAiupJ8) | 3:48 |
 
-Snapshot ID: `AAAAAOvRFkEkMZ4kcY2q3bID+e9vZRLJ`
+Snapshot ID: `AAAAAEmtwbVI8kfa0O8HFtfyK4OvrF+B`

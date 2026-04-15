@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYQRh3xeYje.md) - [plain]
 
 > Vaundyの楽曲を1つのプレイリストで。All the essentials from Vaundy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,731 likes - 74 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,758 likes - 74 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
